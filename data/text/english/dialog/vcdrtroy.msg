@@ -5,7 +5,7 @@
 {104}{}{I swear Gregory's a hypochondriac...}
 {105}{}{Still need to give those new Servants their physicals.}
 {106}{}{Phyllis, could you bring me the Proconsul's blood test, please?}
-{107}{}{Odd...these results aren't consistent with low platelet levels.}
+{107}{}{Odd... these results aren't consistent with low platelet levels.}
 {108}{}{Maybe we can clone that spleen from those cells taken this afternoon.}
 {109}{}{Need to introduce more vitamins into the dietary supplements...}
 {110}{}{Hmmmmm.}
@@ -42,7 +42,7 @@
  best to keep everyone healthy.}
 {137}{}{I'm looking for the main computer. Can you tell me where it is?}
 {138}{}{I see. Maybe we'll talk later, then.}
-{139}{}{Hold on a moment...I don't recall seeing you around before. Are you a Citizen?}
+{139}{}{Hold on a moment... I don't recall seeing you around before. Are you a Citizen?}
 {140}{}{Yes. I just got my Citizenship papers only recently.}
 {141}{}{Actually, I'm }
 {142}{}{. I am the Captain of the Guard.}

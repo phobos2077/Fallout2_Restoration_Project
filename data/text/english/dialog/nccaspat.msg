@@ -23,11 +23,11 @@
 {204}{}{Congrats on stomping the Enclave, }
 {205}{}{Congrats on stomping the Enclave, }
 {206}{}{Uh-oh. Get out of the way.}
-{207}{}{Just looking at him…her…it…*whatever* it is gives me the shivers.}
+{207}{}{Just looking at him... her... it...*whatever* it is gives me the shivers.}
 {208}{}{Think that thing's looking to cap anyone?}
 {209}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
 {210}{}{Stay outta that thing's path.}
-{211}{}{Talk about dangerous-looking…}
+{211}{}{Talk about dangerous-looking...}
 {212}{}{*Gulp*}
 {213}{}{I think that Mr. Roboto dude was scanning me.}
 {214}{}{I think that walking tank just gave me the stare of death. I'm outta here.}
@@ -40,7 +40,7 @@
 {221}{}{I heard he shot down three hitmen just yesterday.}
 {222}{}{Uh-oh. Get out of the way.}
 {223}{}{It's hell's fury given flesh.}
-{224}{}{Talk about dangerous-looking…}
+{224}{}{Talk about dangerous-looking...}
 {225}{}{*Gulp*}
 {226}{}{La Femme Nikita, then some.}
 {227}{}{Just looking at her gives me the shivers.}
@@ -95,13 +95,13 @@
 {276}{}{::Stares at your biceps.::}
 {277}{}{Is that some kind of slot machine that's following you around?}
 {278}{}{Is that a robo-slot machine?}
-{279}{}{Does your robot do tricks? Uh…magic tricks, I mean.}
+{279}{}{Does your robot do tricks? Uh... magic tricks, I mean.}
 {280}{}{That sounds crazier than foxes lovin' hens.}
 {281}{}{Roll the bones.}
 {282}{}{Baby needs a new pair of shoes...}
-{283}{}{Damn lowrolling tourists…}
-{284}{}{Dammit! I was up *53* chips, then…}
-{285}{}{Of all the rotten luck…}
+{283}{}{Damn lowrolling tourists...}
+{284}{}{Dammit! I was up *53* chips, then...}
+{285}{}{Of all the rotten luck...}
 {286}{}{So close!}
 {287}{}{I'm making bank.}
 {288}{}{Me? I'm making bank. Watch me go.}
@@ -109,11 +109,11 @@
 {290}{}{Fortune's against me.}
 {291}{}{Lady Luck, don't fail me now.}
 {292}{}{The House ha'mercy on me.}
-{293}{}{Between tips and these drunken spending sprees…}
-{294}{}{Keep betting like that, and you're going to be calling Golgotha home…}
+{293}{}{Between tips and these drunken spending sprees...}
+{294}{}{Keep betting like that, and you're going to be calling Golgotha home...}
 {295}{}{Waitress, another drink!}
 {296}{}{Waiter, another drink!}
-{297}{}{These drinks taste…odd.}
+{297}{}{These drinks taste... odd.}
 {298}{}{I got the fever!}
 {299}{}{Are all my chips gone already?}
 {300}{}{Luck's a fickle bitch, and so is my mother-in-law.}
@@ -130,13 +130,13 @@
 {311}{}{C'mon 7!}
 {312}{}{You've got moxy, baby.}
 {313}{}{Who's the big winner tonight? Mikey!}
-{314}{}{Don't crap out…c'mon…}
-{315}{}{I've gotta 'jet'…if you know what I mean.}
+{314}{}{Don't crap out... c'mon...}
+{315}{}{I've gotta 'jet'...if you know what I mean.}
 {316}{}{This is SUCH bullshit.}
 {317}{}{I only lost 60 chips. In the first five minutes, that is.}
-{318}{}{Red 23! Red 23! C'mon…red 23…}
-{319}{}{50 chips on Black 15…}
-{320}{}{Round and round it goes…where it stops, nobody knows…}
+{318}{}{Red 23! Red 23! C'mon... red 23...}
+{319}{}{50 chips on Black 15...}
+{320}{}{Round and round it goes... where it stops, nobody knows...}
 {321}{}{Way to burn those Enclave bastards! Way to go!}
 {322}{}{I always knew the President wanted to kill us all.}
 {323}{}{The President was alive? When was the last election?}
@@ -145,7 +145,7 @@
 {326}{}{With the destruction of the Enclave, you've made this casino a better place for my children. How can I ever thank you?}
 {327}{}{The Enclave never messed with me, but I'm glad they're gone.}
 {328}{}{I can't believe the Enclave were still fighting the war after all this time. Idiots.}
-{329}{}{I felt a great disturbance…as if a hundred evil bastards on an oil derrick suddenly cried out in terror
+{329}{}{I felt a great disturbance... as if a hundred evil bastards on an oil derrick suddenly cried out in terror
  and were suddenly silenced. Strange.}
 {330}{}{Congrats on stomping the Enclave, }
 {331}{}{Congrats on stomping the Enclave, }
@@ -154,33 +154,33 @@
 {334}{}{Sorry, was I breathing your air? I'll stop.}
 {335}{}{I wasn't aware they made doorways in your size.}
 {336}{}{::Knocks on armor:: Anybody in there?}
-{337}{}{'Danger, Will Robinson! Danger, Will Robinson!' Heh-heh. Uh…just a joke.}
+{337}{}{'Danger, Will Robinson! Danger, Will Robinson!' Heh-heh. Uh... just a joke.}
 {338}{}{Niiiiice armor. Does it have air conditioning?}
 {339}{}{Don't you get hot in there?}
 {340}{}{Can I rub these dice against your armor for luck?}
 {341}{}{Lose your heart, tin man?}
-{342}{}{Uh, hello, sir…or ma'am…or whatever you are.}
+{342}{}{Uh, hello, sir... or ma'am... or whatever you are.}
 {343}{}{Give my regards to whoever gave that armor to you.}
-{344}{}{Anything wrong, sir…ma'am…uh, whatever you are?}
+{344}{}{Anything wrong, sir... ma'am... uh, whatever you are?}
 {345}{}{Are you one of the new bouncers? Or some new walking arcade game?}
 {346}{}{No, I'm NOT going to oil your joints.}
 {347}{}{Can your armor transform into a jet and fly around? Just curious.}
 {348}{}{Yeah, yeah, 'clank-whirrr-clank' to you, too.}
 {349}{}{If you think that armor intimidates me, you're right.}
 {350}{}{You must be one of those pre-war video game consoles.}
-{351}{}{Look, please…I don't want any trouble. I'm just in town for the day.}
-{352}{}{Look, please…I don't want any trouble.}
+{351}{}{Look, please... I don't want any trouble. I'm just in town for the day.}
+{352}{}{Look, please... I don't want any trouble.}
 {353}{}{Sorry, was I in your way? I'll leave town.}
 {354}{}{Sorry, was I breathing your air? I'll stop.}
 {355}{}{Give my regards to your boss.}
-{356}{}{Uh…*gulp*…anything wrong?}
-{357}{}{Look, please…I don't want any trouble. I'm just in town for the day.}
-{358}{}{Look, please…I don't want any trouble.}
+{356}{}{Uh...*gulp*...anything wrong?}
+{357}{}{Look, please... I don't want any trouble. I'm just in town for the day.}
+{358}{}{Look, please... I don't want any trouble.}
 {359}{}{You selling?}
 {360}{}{Can I buy your clothes? I mean, right now?}
 {361}{}{I KNEW I should have shaved today.}
 {362}{}{Come chat with me for a sec, honey-tits.}
-{363}{}{C'mon, honey-lips…walk with me.}
+{363}{}{C'mon, honey-lips... walk with me.}
 {364}{}{Nimble little minx, aincha?}
 {365}{}{I'd bathe for you.}
 {366}{}{I got your mother lode right here.}

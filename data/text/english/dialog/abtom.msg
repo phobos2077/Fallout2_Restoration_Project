@@ -5,7 +5,7 @@
 {200}{}{[The old man jolts with surprise when he sees you approach.] Uh, look, I really must be going...}
 {201}{}{Now you hold on a minute. [You grab the man by the arm as he begins to walk away.] Who are you, and what are you
  doing here at this hour?}
-{202}{}{What? Why, uh...the name's Tom and can't an old man enjoy a nightly stroll anymore without getting asked a bunch of
+{202}{}{What? Why, uh... the name's Tom and can't an old man enjoy a nightly stroll anymore without getting asked a bunch of
  questions?}
 {203}{}{Not when he's slinking around like a thief and carrying a shovel.}
 {204}{}{Alright fine, but why are you carrying a shovel?}
@@ -20,7 +20,7 @@
  conclusion from this. It's time to start giving me some answers, Tom. Why are you digging up these graves?}
 {212}{}{[He puts down the shovel and sighs.] Alright, I'll tell you. My body ain't what it used to be. I've got no job,
  and no real means to get food. I know grave diggin ain't something that folks smile upon, but it's been a way for me to
- bring in some money. I'm just trying to survive...I don't mean no harm.}
+ bring in some money. I'm just trying to survive... I don't mean no harm.}
 {213}{}{I don't think that digging graves is a good thing for a man in your condition. Tell you what. You just mosey on
  out of here and we'll forget that this conversation ever happened. I never want to see your face again though, Okay?}
 {214}{}{[The old man looks like he's about to protest, then stops.] Alright, you win. You've seen the last of poor old Tom.

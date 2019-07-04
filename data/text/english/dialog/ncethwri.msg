@@ -15,7 +15,7 @@
 
 # 3. DAY/NIGHT FLOAT (WTG)
 {205}{}{Another fine Reno day!}
-{206}{}{::Whistle while you work…::}
+{206}{}{::Whistle while you work...::}
 {207}{}{Ah, to work! Such pleasure in doing a task and doing it well!}
 {208}{}{::Hmmmm-hmmm-hmmm-hm-hm -hmmmm::}
 {209}{}{Another fine Reno night!}
@@ -25,7 +25,7 @@
 {211}{}{(Mrs. Wright jumps.) Oh, my! You gave me such a fright! (Squints at you.) Well, hello again!}
 {212}{}{Who, who?}
 {213}{}{Hello, hello!}
-{214}{}{You not mom…Mom? Mommmm…?! Mom! Me go look for Mom}
+{214}{}{You not mom... Mom? Mommmm...?! Mom! Me go look for Mom}
 {215}{}{Who are you?}
 {216}{}{I noticed you humming to yourself and thought I would stop and speak to you a moment, ma'am. Beautiful weather we're
  having, isn't it?}
@@ -39,9 +39,9 @@
 {224}{}{Wander off}
 
 # 7. WHO WHO? HELLO, HELLO! (MRS. WRIGHT HAS NOTHING) (5)
-{230}{}{(Oh, you poor dear! Too much sun… }
-{231}{}{Oh, you poor dear…don't you have a home? }
-{232}{}{(Fishes in her robes for a moment.) I wish I had some food or water for you…}
+{230}{}{(Oh, you poor dear! Too much sun... }
+{231}{}{Oh, you poor dear... don't you have a home? }
+{232}{}{(Fishes in her robes for a moment.) I wish I had some food or water for you...}
 
 # 8. CHARISMA INTRO = WHO ARE YOU? (5)
 {240}{}{Why, yes, yes it is. (Smiles.) I am Missus Ethyl Wright, head of the Temperance Union here in New Reno. And who might you be?}
@@ -55,8 +55,8 @@
 # 9. WHO ARE YOU? (5)
 {250}{}{Me? Why, I am Missus Ethyl Wright, head of the Temperance Union here in New Reno. (Studies you.) And who might you be?}
 {251}{}{I am }
-{1251}{}{. I had some questions about New Reno…}
-{252}{}{I am a traveler with some questions about New Reno…}
+{1251}{}{. I had some questions about New Reno...}
+{252}{}{I am a traveler with some questions about New Reno...}
 {254}{}{I'd love to stay and talk, but I have to be going.}
 
 # 10. I AM A SIMPLE TRAVELLER/I AM [X] (9)
@@ -64,11 +64,11 @@
  WELL -- MAY I BE THE FIRST TO WELCOME YOU TO OUR CITY!}
 {261}{}{What you say? Me simple tribal. No understanda youa.}
 {262}{}{Woman, I am neither deaf nor stupid. I can understand you QUITE well without you raising your voice.}
-{263}{}{Uh, thank you. I had some questions about New Reno…}
+{263}{}{Uh, thank you. I had some questions about New Reno...}
 {264}{}{I HAVE TO GO NOW.}
 
 # 11. WHAT YOU SAY? MEA NOA UNDERSTANDA YOUA (10)
-{270}{}{I SAID, LET *ME*… (Points at herself.) …WELCOME YOU… (Points at you.) ...TO... (Gestures at the city around her.) …CITY OF LIGHTS!}
+{270}{}{I SAID, LET *ME*... (Points at herself.) ...WELCOME YOU... (Points at you.) ...TO... (Gestures at the city around her.) ...CITY OF LIGHTS!}
 {272}{}{Perhaps you think this high-tech armor I'm wearing somehow magically attached itself to me. Look, cut out the 'tribal' talk,
  all right?}
 {273}{}{Look, do you think this weapon I'm carrying is some mystic totem that I keep around for show? Cut the 'tribal'
@@ -76,26 +76,26 @@
 {274}{}{I BETTER GO NOW BEFORE I LOSE MY TEMPER.}
 
 # 12. WOMAN, I AM NEITHER DEAF NOR STUPID . . . (10)
-{280}{}{Oh! Excuse me! (Seems startled.) Pardons, pardons! It's just that I thought…well…nevermind, let's put that all behind us.
+{280}{}{Oh! Excuse me! (Seems startled.) Pardons, pardons! It's just that I thought... well... nevermind, let's put that all behind us.
  What can I do for you?}
-{281}{}{I had some questions about New Reno…}
+{281}{}{I had some questions about New Reno...}
 {282}{}{Nevermind. I have to be going.}
 
 # 13. HAVE YOU SEEN A GARDEN O' EDEN CREA KIT? TUNED DOWN VOICE (8, 24)
-{290}{}{(Squints, frowns.) I'm sorry, the Garden of…what? No, I'm sorry, I've never heard of such a thing.}
-{291}{}{I had some other questions…}
+{290}{}{(Squints, frowns.) I'm sorry, the Garden of... what? No, I'm sorry, I've never heard of such a thing.}
+{291}{}{I had some other questions...}
 {292}{}{Nevermind then, I better be going.}
 
 # 14. HAVE YOU HEARD OF A PLACE CALLED VAULT 13? (8, 24)
-{300}{}{Vault 13? (Looks puzzled.) My goodness, no, I haven't…well, no, wait. That's untrue. There IS Vault City to the northeast.
+{300}{}{Vault 13? (Looks puzzled.) My goodness, no, I haven't... well, no, wait. That's untrue. There IS Vault City to the northeast.
  Is that what you are looking for?}
-{301}{}{No, wrong place. But maybe you can help me with some other questions…}
-{302}{}{Could be. Can you help me with some other questions…?}
-{303}{}{It might be. Goodbye...and thanks for the information.}
+{301}{}{No, wrong place. But maybe you can help me with some other questions...}
+{302}{}{Could be. Can you help me with some other questions...?}
+{303}{}{It might be. Goodbye... and thanks for the information.}
 
 # 15. TEMPERANCE UNION . . . (8, 24)
 {310}{}{Why, yes! (Wags her finger at you.) New Reno is a beautiful city, but there is SIN here - much of which can be traced
- back to the evils of alcohol…or as you tribesmen call it… (Pauses dramatically.) …FIREWATER!}
+ back to the evils of alcohol... or as you tribesmen call it... (Pauses dramatically.) ...FIREWATER!}
 {311}{}{Uh, we "primitives" call it alcohol, too.}
 {312}{}{Yes, but what about this Temperance Union?}
 {313}{}{I have to be going. I think I can hear my tribesmen calling.}
@@ -133,9 +133,9 @@
 # 20. TULLY IS A DRUNKARD (19)
 {340}{}{Now, you listen here. (Frowns.) I'm not going to tolerate that kind of slander. The good Father has had his struggles
  with alcohol, but through the help of the Union, he has fought for his soul and triumphed!}
-{341}{}{I know for a FACT that the good Father RUNS, not walks, to the nearest source of hootch he can see…if he hasn't ALREADY
+{341}{}{I know for a FACT that the good Father RUNS, not walks, to the nearest source of hootch he can see... if he hasn't ALREADY
  drunk himself blind.}
-{342}{}{It's not slander. It's just that the great spiritual leader of New Reno is about as healthy as…well, the city itself.}
+{342}{}{It's not slander. It's just that the great spiritual leader of New Reno is about as healthy as... well, the city itself.}
 {343}{}{Okay. No arguments here. So what does the Union do?}
 {344}{}{Well, that's good news. I better be going.}
 
@@ -170,14 +170,14 @@
 
 # 25. I KNOW HE DEALS IN ALCOHOL . . . (23)
 {375}{}{(Frowns.) Now what IS this foolishness you're speaking of? "Alcohol distribution in New Reno?" I know my husband
- is inclined to drink, but he IS breaking the habit…}
+ is inclined to drink, but he IS breaking the habit...}
 {376}{}{Along with breaking the legs of anyone who gets in the way of his little alcohol empire.}
 {377}{}{Ethyl, in case you hadn't NOTICED, your husband is the leader of a crime family that sells alcohol to all of New Reno.
  Tossing one back now and then is perhaps the least of his crimes.}
 {378}{}{Oh, I was thinking of a different Mr. Wright. Nevermind. Goodbye.}
 
 # 26. YOUR HUSBAND IS THE LEADER OF AN INFLUENTIAL CRIME FAMILY HERE IN NEW RENO . . . (25)
-{380}{}{Why...my goodness! Of all the cheek! (Takes deep breath.) }
+{380}{}{Why... my goodness! Of all the cheek! (Takes deep breath.) }
 {381}{}{That is a VERY serious accusation, young man.}
 {382}{}{That is a VERY serious accusation, young lady.}
 {383}{}{I realize that, but --}
@@ -195,25 +195,25 @@
 {392}{}{All right. I will. See you then.}
 
 # 29. RICHARD WRIGHT (8, 24)
-{395}{}{(Smile dies.) Yes, my son Richard…he…yes, he left us much too soon. I…hmmm. Yes. (Looks at her hands.) I…}
-{396}{}{I heard it was a Jet overdose...is that right?}
-{397}{}{Look, nevermind. Forget I brought it up. I had some other questions…}
+{395}{}{(Smile dies.) Yes, my son Richard... he... yes, he left us much too soon. I... hmmm. Yes. (Looks at her hands.) I...}
+{396}{}{I heard it was a Jet overdose... is that right?}
+{397}{}{Look, nevermind. Forget I brought it up. I had some other questions...}
 {398}{}{Nevermind. I better be going.}
 
 # 30. RICHARD WRIGHT: JET? (29)
-{400}{}{(Jaw tightens.) That filthy poison! I thought that I'd taught him to stay AWAY from that stuff, and then…}
+{400}{}{(Jaw tightens.) That filthy poison! I thought that I'd taught him to stay AWAY from that stuff, and then...}
 {401}{}{Can you tell me where he might have gotten the Jet?}
 
 # 31. RICHARD WRIGHT: JET 2? (30)
 {405}{}{I don't know! (Hands clench into fists.) They sell that poison on every corner here in New Reno! EVERYWHERE you go, they're
- peddling it…}
+ peddling it...}
 {406}{}{Do you know any specific dealers?}
-{407}{}{Look, forget I brought it up. I had some other questions…}
+{407}{}{Look, forget I brought it up. I had some other questions...}
 
 # 32. DO YOU KNOW ANY SPECIFIC DEALERS? (31)
-{410}{}{Not by name. They know enough to run when they see me coming…but they cluster like flies along Virgin Street at the
+{410}{}{Not by name. They know enough to run when they see me coming... but they cluster like flies along Virgin Street at the
  front of town and outside the casinos.}
-{411}{}{I see. I had some other questions…}
+{411}{}{I see. I had some other questions...}
 
 # 35. PORN STAR INTRO (WTG)
 {1415}{}{(Jumps.) Oh, my! (Squints at you, then purses her lips disapprovingly.) Well, I never! }
@@ -224,7 +224,7 @@
 {418}{}{Aiiieee! Big wurds! Big wurds! Must get away!}
 {419}{}{That's me. You interested in a job? I kind of like big women like you. (Wiggle eyebrows suggestively.) Loosen
  that garter strap a little and we'll get down to business.}
-{420}{}{Look, I was young, I needed the money…}
+{420}{}{Look, I was young, I needed the money...}
 {421}{}{I can see we'll have lots to talk about. Goodbye.}
 
 # 36. INTERESTED IN A JOB? I LIKE BIG WOMEN LIKE YOU. (35)
@@ -239,9 +239,9 @@
 {1431}{}{(Squints at you, then her gaze becomes glacial.) }
 {431}{}{Yes?}
 {432}{}{You again. We have NOTHING to talk about.}
-{433}{}{Me…uh…me…me wanted to…uh…me looking for…uh…dam! Me hate bein stoopid! Me hate!}
-{434}{}{I…uh…ooooh, shiny thing!}
-{435}{}{I had some questions…}
+{433}{}{Me... uh... me... me wanted to... uh... me looking for... uh... dam! Me hate bein stoopid! Me hate!}
+{434}{}{I... uh... ooooh, shiny thing!}
+{435}{}{I had some questions...}
 {436}{}{I can see talking isn't going to help matters here. Goodbye.}
 
 # 38. BAD REACTION. (37)
@@ -253,18 +253,18 @@
 
 # 39. MEET OUTSIDE CHURCH 1 . . . (WTG, 28)
 {450}{}{(You see Mrs. Wright. She looks crushed.)}
-{451}{}{Uh...Ethyl, are you okay?}
-{452}{}{So…what did you find?}
+{451}{}{Uh... Ethyl, are you okay?}
+{452}{}{So... what did you find?}
 {453}{}{Ah-ha! Was I right or was I right?}
 {454}{}{I'm sorry. I'll be back.}
 
 # 40. ETHYL, ARE YOU OKAY? (39)
-{460}{}{All true…everything you said was true. (Sighs.) The still was not dismantled. Not at all! (Frowns.) I trusted that man, but
+{460}{}{All true... everything you said was true. (Sighs.) The still was not dismantled. Not at all! (Frowns.) I trusted that man, but
  alcohol made him LIE to me! *Lie to his own wife!*}
 {461}{}{::Let her vent.::}
-{462}{}{Oh, yes, Ethyl...further proof of the evil of alcohol. It can make people do terrible things. ESPECIALLY when the twin
+{462}{}{Oh, yes, Ethyl... further proof of the evil of alcohol. It can make people do terrible things. ESPECIALLY when the twin
  devils of money and power are involved.}
-{463}{}{You may need some time alone...I'll be back later.}
+{463}{}{You may need some time alone... I'll be back later.}
 
 # 41. MEET OUTSIDE CHURCH 1 . . . (40)
 {470}{}{(Smolders.) I will MAKE him keep the promise he made, if I have to destroy that still with my own hands. Then
@@ -276,7 +276,7 @@
 {475}{}{I'll be back later, then.}
 
 # 42. GO GET "EM . . . (41)
-{1480}{}{You'll destroy it? I...well, all right… (Builds up steam..) }
+{1480}{}{You'll destroy it? I... well, all right... (Builds up steam..) }
 {480}{}{...it's in the train station basement behind our home! }
 {481}{}{Tear it down! Wreck it! Leave NOTHING!}
 {482}{}{All right...}
@@ -287,7 +287,7 @@
 {491}{}{Well, have fun storming the castle.}
 
 # 44. MEET OUTSIDE CHURCH 2 . . . (WTG)
-{500}{}{(You see Ethyl. As you approach, she looks up hopefully.) Is it…?}
+{500}{}{(You see Ethyl. As you approach, she looks up hopefully.) Is it...?}
 {501}{}{I smashed it to the ground. Nothin' left. ALL taken care of.}
 {502}{}{Not yet. Where was this still again?}
 {503}{}{No, I haven't wrecked the still yet. I'll be back when I'm done.}
@@ -298,7 +298,7 @@
 
 # 46. VICTORY. . . (41, 44)
 {515}{}{(Tear wells up in her eye.) Thank you, stranger. You have dealt a blow to the evil here in New Reno. I don't know
- how to thank you…}
+ how to thank you...}
 {516}{}{No thanks necessary. Take care, Mrs. Wright.}
 {517}{}{I'm a little light on cash...}
 
@@ -308,7 +308,7 @@
 {522}{}{Actually, no thanks necessary. Take care, Mrs. Wright.}
 
 # 48. VICTORY. . . (47)
-{525}{}{Here you go. Everything in this locker is yours. Some money to help you in your travels… and
+{525}{}{Here you go. Everything in this locker is yours. Some money to help you in your travels... and
  a handy tool that I have found useful in pounding sense into the particularly mule-headed. Thank you for all
  you've done.}
 {526}{}{Thank YOU, Mrs. Wright.}
@@ -326,13 +326,13 @@
 # 51. YOUR HUSBAND IS THE LEADER OF AN INFLUENTIAL CRIME FAMILY HERE IN NEW RENO . . . (26)
 {540}{}{(Puffs up.) Perhaps it is standard practice in your tribes to slander others in public, but here in New Reno you have some
  sand coming up to me in public and speaking ill of my husband!}
-{541}{}{Look, all I'm saying is…}
+{541}{}{Look, all I'm saying is...}
 {542}{}{Truth hurts. I can see you're going to be in for a lot of pain. Goodbye.}
 {543}{}{Fine. Goodbye.}
 
 # 52. YOUR HUSBAND IS THE LEADER OF CRIME FAMILY (27)
 {545}{}{Furthermore, he has resolved to help me and any other unfortunates addicted to alcohol break the habit. Shameful!
- To even SUGGEST my husband was selling the alcohol to others is…}
+ To even SUGGEST my husband was selling the alcohol to others is...}
 {546}{}{Completely true. Mrs. Wright, your husband is selling alcohol here in New Reno and promoting drunkenness. It is making
  the city a worse place to live. Help me, and we can put an end to the whole nasty business.}
 {547}{}{If you don't believe me, check out the Reno train station. You'll see what I mean.}
@@ -341,6 +341,6 @@
 # 53. GO GET 'EM 2. . . (42)
 {550}{}{But now, I don't want you to hurt any of my children, no waving guns! They're not bad children, they've just been... misled.
  I'll have to see what I can do to change that...}
-{551}{}{Okay, don't worry...there'll be no casualties.}
+{551}{}{Okay, don't worry... there'll be no casualties.}
 {552}{}{I'll be back when I'm done. I have some other things to take care of first.}
-{553}{}{Uh, I can't promise that...maybe you should get someone else to take care of the problem.}
+{553}{}{Uh, I can't promise that... maybe you should get someone else to take care of the problem.}

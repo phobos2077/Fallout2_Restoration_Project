@@ -7,9 +7,9 @@
 {000}{}{He is surveying the casino.}
 
 # 1. FLOAT DIALOGUE: POWER ARMOR (WTG)
-{200}{}{Uh…you'll need to remove that armor.}
-{000}{}{Uh, sir…or ma'am…you'll need to remove that armor.}
-{000}{}{Sir…ma'am…you can't wear that in the casino.}
+{200}{}{Uh... you'll need to remove that armor.}
+{000}{}{Uh, sir... or ma'am... you'll need to remove that armor.}
+{000}{}{Sir... ma'am... you can't wear that in the casino.}
 
 # 2. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO, SNEAK (WTG)
 {210}{}{Uh, why are you sneaking around, sir?}
@@ -58,7 +58,7 @@
 {330}{}{Tribal, you better stop that sneaking around shit right *now.*}
 
 # 16. MYRON, MORDINO (WTG)
-{340}{}{[To Myron] Hey, hey…Myron! Ain't seen you outside the lab in a long time.}
+{340}{}{[To Myron] Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
 {000}{}{[To Myron] You here to sample some of the new merchandise, Myron?}
 {000}{}{[To Myron] Hey! Come on in, Myron.}
 
@@ -77,12 +77,12 @@
 {000}{}{Hey, [X]. Take a rest from saving the world and have some fun.}
 
 # 20. FLOAT DIALOGUE: DAY (WTG)
-{380}{}{Need some more chips at table three…}
-{000}{}{Good crowd today…}
+{380}{}{Need some more chips at table three...}
+{000}{}{Good crowd today...}
 
 # 21. FLOAT DIALOGUE: NIGHT (WTG)
-{390}{}{Need some more chips at table three…}
-{000}{}{Good crowd tonight…}
+{390}{}{Need some more chips at table three...}
+{000}{}{Good crowd tonight...}
 
 # 22. INTRO (WTG)
 {400}{}{Hey, [X]! Heard yer the one who kicked the Enclave back to the stone age! [Becomes formal.] I've been instructed to give you some chips, courtesy of the casino. Enjoy yourself, sir.}
@@ -138,7 +138,7 @@
 {000}{}{Wander off [Leave.]}
 
 # 26.  MOM SAYS I WAS SPESHAL (25)
-{470}{}{Yeah, yer Mom said I was special, too. Now take a hike…maybe she's along Virgin street somewhere.}
+{470}{}{Yeah, yer Mom said I was special, too. Now take a hike... maybe she's along Virgin street somewhere.}
 {000}{}{Oh goodie! Bye bye [Leave.]}
 {000}{}{Wander off [Leave.]}
 
@@ -157,8 +157,8 @@
 {000}{}{Nothing, thanks. Sorry to bother you.}
 
 # 29.  WHAT CAN YOU TELL ME ABOUT THIS CASINO? (22, 23, 24, 27, 28, 30)
-{500}{}{Best goddamn casino in town…but I am a little biased. [Laughs.] Anything else you want to know?}
-{000}{}{Best goddamn casino in town, best goddamn tables…now why don't you run along now, check 'em out? All right?}
+{500}{}{Best goddamn casino in town... but I am a little biased. [Laughs.] Anything else you want to know?}
+{000}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
 {000}{}{Who are you?}
 {000}{}{Who owns this casino?}
 {000}{}{Okay, thanks. Sorry to bother you. [Leave.]}
@@ -171,49 +171,49 @@
 {000}{}{I see. Thanks for your time. [Leave.]}
 
 # 31.  McGEE (22, 23, 24)
-{520}{}{That guy? Old Man McGee? Crazy sumabitch…he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}
+{520}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}
 {000}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh. Sure was pissed about you winning his fortune. I'd be careful around him.}
 {000}{}{Is the machine rigged?}
-{000}{}{I had some other questions…}
+{000}{}{I had some other questions...}
 {000}{}{Thanks for the information. [Leave.]}
 
 # 32.  IS THE MACHINE RIGGED? (31)
-{530}{}{[Shakes his head.] Nope, it's just stubborn…just like him. [Shrugs.] It could probably use a little repair work, but we ain't got no slot mechanics that can fix that damn thing.}
-{000}{}{I had some other questions…}
+{530}{}{[Shakes his head.] Nope, it's just stubborn... just like him. [Shrugs.] It could probably use a little repair work, but we ain't got no slot mechanics that can fix that damn thing.}
+{000}{}{I had some other questions...}
 {000}{}{Interesting. Thanks for the information. [Leave.]}
 
 # 33.  PRETTY BOY LLOYD? (22, 23, 24)
 {540}{}{Yeah, that son of a bitch came in here about a week ago, ripped off one table of about a thousand chips, then bailed. Don't know where he is now, but he used to have a room at the Desperado.}
 {000}{}{Yeah, some guy by that name was rentin' one of th' rooms upstairs...204. He was all paid up, but he bailed a few days ago and nobody saw him leave.}
 {000}{}{Mr. Salvatore mentioned that there was a specific dealer that Lloyd won the money from. Who was that?}
-{000}{}{I had some other questions…}
+{000}{}{I had some other questions...}
 {000}{}{Thanks for the information. [Leave.]}
 
 # 34.  NIKKI? (33)
 {550}{}{Nikki? [Scans the floor.] Yeah, she's over there, at the middle table. Is there some sort of problem?}
-{000}{}{No problem. Just wanted to meet her. I had some other questions…}
+{000}{}{No problem. Just wanted to meet her. I had some other questions...}
 {000}{}{Thanks for the information. [Leave.]}
 
 # 35.  NIKKI DEAD (33)
-{560}{}{Her name *was* Nikki. She used to work here but she got aced…not too long ago.}
-{000}{}{Hmmm. Do you mind if I ask you some other questions…?}
+{560}{}{Her name *was* Nikki. She used to work here but she got aced... not too long ago.}
+{000}{}{Hmmm. Do you mind if I ask you some other questions...?}
 {000}{}{Interesting. Thanks for the information. [Leave.]}
 
 # 36.  NIKKI RAN (33)
 {570}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
-{000}{}{Do you mind if I ask you some other questions…}
+{000}{}{Do you mind if I ask you some other questions...}
 {000}{}{Interesting. Thanks for the information. [Leave.]}
 
 # 37.  NEED A DANCER (22, 23, 24)
-{580}{}{Sure, be good for business. Dressing room's in the back…}
+{580}{}{Sure, be good for business. Dressing room's in the back...}
 {000}{}{[Perform.]}
-{000}{}{Not right now. I had some other questions…}
+{000}{}{Not right now. I had some other questions...}
 {000}{}{Not right now, but I'll be back. [Leave.]}
 
 # 38.  NEED A DANCER (22, 23, 24)
 {590}{}{[Shakes his head.] No, we're still recovering from your last gig. You might want to check some of the other casinos.}
-{000}{}{All right, thanks. Say, I had some other questions…}
-{000}{}{Okay…though I *will* be back. [Leave.]}
+{000}{}{All right, thanks. Say, I had some other questions...}
+{000}{}{Okay... though I *will* be back. [Leave.]}
 
 # 39.  PERFORM (37)
 {600}{}{You count up the evening's tally. [C] = chips. Not a bad haul.}
@@ -222,5 +222,5 @@
 {000}{}{[Done.]}
 
 # 40.  PERFORM (22, 24)
-{610}{}{Yeah, he stinks worse than brahmin shit. Still, you…? [Looks you up and down skeptically.] Aw, why the hell not. A little improv ain't gonna hurt, but it's a rough crowd…better hope you're good.}
-{000}{}{Oh, I'm good…just watch me go.}
+{610}{}{Yeah, he stinks worse than brahmin shit. Still, you...? [Looks you up and down skeptically.] Aw, why the hell not. A little improv ain't gonna hurt, but it's a rough crowd... better hope you're good.}
+{000}{}{Oh, I'm good... just watch me go.}

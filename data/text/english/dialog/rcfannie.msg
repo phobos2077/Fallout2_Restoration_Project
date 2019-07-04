@@ -57,7 +57,7 @@
  straight. Just as soon as I can pay off Lou.}
 {143}{}{Pay off Lou?}
 {144}{}{Hey, I gave you money already. What are you talking about?}
-{145}{}{Yeah, well...I owe Lou some money and I can't leave until I pay her off. But as soon as I do
+{145}{}{Yeah, well... I owe Lou some money and I can't leave until I pay her off. But as soon as I do
  (sniff) I'm going to take my beau and get myself as far away from this life as I can. If I could only
  raise a little extra dough.}
 {146}{}{How much extra money do you need to pay off Lou?}
@@ -84,10 +84,10 @@
 {160}{}{Hey there. You want to spend some time with Fannie?}
 {161}{}{Didn't I give you some money so you could stop doing this?}
 {162}{}{Sure, sounds good to me. Good thing I caught you before you left.}
-{163}{}{Well, yes...but it turns out that I owe Lou more than I thought.}
+{163}{}{Well, yes... but it turns out that I owe Lou more than I thought.}
 {164}{}{How much more?}
 {165}{}{I've heard enough of this. Goodbye.}
-{166}{}{Uh, I know, and I'm real grateful...but I guess I owed Lou more than I thought. I need more
+{166}{}{Uh, I know, and I'm real grateful... but I guess I owed Lou more than I thought. I need more
  money.}
 {167}{}{I can't believe it! How much more money do you need to get out of this?}
 {168}{}{Well, you've got all you're going to from me. Good bye.}
@@ -113,12 +113,12 @@
 # Begin Seraph's Code
 {186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
  me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you...well, I do know *one* way.
+ then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
  Whenever you're in the mood, just come on by; free of charge. (wink)}
 {187}{}{I'll keep that in mind. Thanks, Fannie.}
 {188}{}{Thanks again. (smooch) Remember, it's always on the house for you. (wink)}
 {189}{}{Hey there! Lookin' to spend some time with Fannie? On the house, of course. (grin)}
-{190}{}{Sorry honey...I'm not feelin' too good right now. Check back later.}
+{190}{}{Sorry honey... I'm not feelin' too good right now. Check back later.}
 {191}{}{Got a little free time right now?}
 {192}{}{Come back anytime! Always nice to get some repeat business.}
 {193}{}{[DONE]}

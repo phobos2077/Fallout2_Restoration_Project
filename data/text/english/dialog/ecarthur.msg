@@ -9,7 +9,7 @@
 {107}{}{No time to talk. We're on quest.}
 {108}{}{We seek the Holy Hand Grenade of Antioch.}
 {109}{}{For the Brotherhood of Steel!}
-{110}{}{Hmm...African or European swallow?}
+{110}{}{Hmm... African or European swallow?}
 {111}{}{Hey now! That's not yours, is it?}
 {112}{}{I'm warning you. Keep your hands to yourself.}
 {113}{}{That's it. Enough is enough.}
@@ -19,12 +19,12 @@
 {116}{}{We of the Brotherhood of Steel seek to find this most devastating weapon of our ancestors, and
  secure it from those who would abuse the power of the Holy Hand Grenade of Antioch.}
 {117}{}{Why?}
-{118}{}{Well...because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
+{118}{}{Well... because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
  this thing could really hurt someone.}
 {119}{}{Why?}
-{120}{}{Umm...because it's really the only moral thing to do.}
+{120}{}{Umm... because it's really the only moral thing to do.}
 {121}{}{Why?}
-{122}{}{Wha...um...Look now, we're really quite busy. Are you going to help us or not? Have you seen
+{122}{}{Wha... um... Look now, we're really quite busy. Are you going to help us or not? Have you seen
  the Holy Hand Grenade of Antioch or not?}
 {123}{}{Yes.}
 {124}{}{No.}

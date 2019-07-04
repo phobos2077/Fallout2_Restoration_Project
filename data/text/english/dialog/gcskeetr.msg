@@ -3,7 +3,7 @@
 {102}{}{You see a grubby but intelligent-looking ghoul, wearing greasy overalls with a micrometer
  sticking out of his pocket.}
 
-{110}{}{Just don't touch anything -— you might hurt yourself.}
+{110}{}{Just don't touch anything -- you might hurt yourself.}
 {111}{}{I thought tribals were just unsophisticated.}
 {112}{}{You can watch. You might learn something, but I doubt it.}
 {113}{}{Well, ain't you something else.}
@@ -85,8 +85,8 @@
 {251}{}{How much would it cost to combine something else?}
 {252}{}{I don't think so. Thanks anyhow. Goodbye.}
 
-{260}{}{Mostly I jist sorta tinker with things. Take 'em apart an try to put 'em all back t'gether…
- mostly. Make 'em work better… sometimes. Keepin' myself outta trouble. Know what I mean?}
+{260}{}{Mostly I jist sorta tinker with things. Take 'em apart an try to put 'em all back t'gether...
+ mostly. Make 'em work better... sometimes. Keepin' myself outta trouble. Know what I mean?}
 {261}{}{I guess. Let me ask you something else.}
 {262}{}{Well, I think I better go do something myself. Goodbye.}
 
@@ -135,12 +135,12 @@
  pretty useful puttin' items together. Always nice to know someone's able to do that, ain't it?}
 {361}{}{Well, maybe you're right. I'll let you live, for now. Tell me something else, though. }
 {362}{}{You sure have a lot of answers, don't you? Hope you have an answer for what's in the afterlife,
- 'cause I'm sending you there -— right now.}
+ 'cause I'm sending you there -- right now.}
 {363}{}{I'll have to think about that one. Goodbye, for now. }
 
 {370}{}{I see that you've got a mighty fine tool kit there. Snap-off, ain't it? I'll trade you this Fuel
  Cell Controller for it.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -— they're the best. Ready to trade?}
+{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
 {372}{}{It's a deal.}
 {373}{}{Not right now. I'm holding on to this for a while. Goodbye.}
 
@@ -220,7 +220,7 @@
  yours up with one for $}
 {623}{}{That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours
  for $}
-{624}{}{All right then...put a scope on the Colt hunting rifle.}
+{624}{}{All right then... put a scope on the Colt hunting rifle.}
 {625}{}{Expand the magazine of the AK-112 assault rifle.}
 {626}{}{Attach that low-light scope on the FN FAL.}
 {627}{}{Too rich for my blood. I'll be back when I have more cash.}

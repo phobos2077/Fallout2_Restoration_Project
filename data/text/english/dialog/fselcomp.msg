@@ -51,7 +51,7 @@
 {210}{}{Hack the system.}
 {211}{}{[After some time you gain full administrative access to the mainframe. You can now do whatever you want to the system.]}
 {212}{}{Format the system.}
-{213}{}{Initializing format procedure...Initialized...Formatting...Formatting Complete...System is shutting down. Goodbye.}
+{213}{}{Initializing format procedure... Initialized... Formatting... Formatting Complete... System is shutting down. Goodbye.}
 
 {220}{}{You format the Hubologist mainframe.}
 

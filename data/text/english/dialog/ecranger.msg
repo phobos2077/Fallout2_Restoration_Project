@@ -12,7 +12,7 @@
 {111}{}{Always the guns. Doesn't anybody just surrender anymore?}
 {112}{}{Well, that's it - open season!}
 {113}{}{Uh -- I'll go get reinforcements. Don't move!}
-{114}{}{"We can take 'em," he said. Sure…}
+{114}{}{"We can take 'em," he said. Sure...}
 {115}{}{Ow-ow-ow-ow-ow!}
 {116}{}{Crap! I'm out of here!}
 {117}{}{I'm not dying for this!}

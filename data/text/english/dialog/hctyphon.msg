@@ -141,7 +141,7 @@
 {309}{}{That's only because you haven't examined all the ramifications of it. Now, if you...}
 {310}{}{You want some fruit?}
 {311}{}{Feed me, Seymour.}
-{312}{}{Brains...braaaaaains...sorry, old habit.}
+{312}{}{Brains... braaaaaains... sorry, old habit.}
 {313}{}{That's okay. I don't have one, remember?}
 {314}{}{Well, certainly manure works well, but there's nothing like a rotting corpse for compost.}
 {315}{}{So that's why you wanted to move over here! Easy pickings.}

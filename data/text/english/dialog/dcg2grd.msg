@@ -61,7 +61,7 @@
 {302}{}{Hope things are going good.}
 {303}{}{So you might be able to help us out?}
 {304}{}{Good to see you.}
-{305}{}{We'll pay back Tyler soon…}
+{305}{}{We'll pay back Tyler soon...}
 {306}{}{Any new developments?}
 
 # 9. Lara Dead

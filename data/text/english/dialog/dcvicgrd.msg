@@ -20,7 +20,7 @@
 {231}{}{Hey, you joined up, huh? Cool. Hope we go on some runs together.}
 {232}{}{So, what is it you want to talk about?}
 {233}{}{So, who's in there?}
-{234}{}{About Vic…}
+{234}{}{About Vic...}
 {235}{}{Good, thanks.}
 {236}{}{Got to go.}
 {237}{}{Wuk?}
@@ -28,7 +28,7 @@
 {239}{}{Ugruk.}
 {240}{}{Ruru!}
 
-# 5. Who's that? & About Vic… (From 4)
+# 5. Who's that? & About Vic... (From 4)
 {250}{}{His name's Vic - some merchant that broke something of my boss's, or something like that. Not too sure.}
 {251}{}{His name's Vic - some merchant that broke something of the boss's, or something like that. Not too sure.}
 {252}{}{Oh, him? Yeah, some merchant. I think he broke something, but I'm not sure. Why? You know him?}
@@ -67,7 +67,7 @@
 
 # 10. Who's your boss? (From 5, 7, 18)
 {310}{}{Huh? You just in the habit of walking around into places you don't know? This is the Slaver's Guild.}
-{311}{}{Oh, so that would make your boss's name…}
+{311}{}{Oh, so that would make your boss's name...}
 {312}{}{Oh, that's where I am? I thought I was in Kansas.}
 {313}{}{Okay, thanks.}
 
@@ -127,7 +127,7 @@
 
 # 20. Wuk? (From 4)
 {430}{}{Yeah, talk to Metzger. I'm sure he has some work available. I think he said he needed another man.}
-{431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man… but I'm sure you'll do.}
+{431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man... but I'm sure you'll do.}
 {432}{}{Talk to Metzger.}
 {433}{}{Ruru?}
 {434}{}{Uh?}
@@ -144,7 +144,7 @@
 {463}{}{Okay, bye.}
 
 # 23. Bribe 1 (From 22)
-{470}{}{Well, uh… I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
+{470}{}{Well, uh... I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
 {471}{}{You're nuts. That's too much!}
 {472}{}{Screw you, buddy!}
 {473}{}{Sure.}

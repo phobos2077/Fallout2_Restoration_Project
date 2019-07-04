@@ -6,7 +6,7 @@
 {201}{}{You see a farmer.}
 {102}{}{You notice he has a farmer's tan.}
 {202}{}{You notice she has a farmer's tan.}
-{103}{}{You arrived just in the nick of time. If you hadn't gotten here when you did...Well, let's just
+{103}{}{You arrived just in the nick of time. If you hadn't gotten here when you did... Well, let's just
  be thankful that you came when you did. We don't have much, but I'd like you to accept this as a
  reward for helping us. [He hands you something.]}
 {104}{}{Thank you.}

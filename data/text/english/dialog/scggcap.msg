@@ -12,7 +12,7 @@
 {111}{}{Nothing.}
 {112}{}{You aren't going anywhere until you stow those weapons.}
 {113}{}{Everybody's got to put their weapons away.}
-{114}{}{Hmm...well, you look respectable enough. What's your name? I've got to put it in the log book.}
+{114}{}{Hmm... well, you look respectable enough. What's your name? I've got to put it in the log book.}
 {115}{}{}
 {116}{}{Alright then, I'll have the gate open for you in just a second.}
 {117}{}{You are not to tamper with that! Please leave now or there will be trouble.}

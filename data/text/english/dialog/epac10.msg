@@ -238,7 +238,7 @@
 {560}{}{[Dex's grin falters and his eyes become unfocused. After a moment, he begins speaking without meeting your eyes.]
  I was one of their sick experiments. They did... terrible things to me. [He shakes his head, then looks at you with a renewed grin.]
  Anyway, I'd much rather talk about you, babe.}
-{561}{}{Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel—}
+{561}{}{Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel--}
 {562}{}{Look, Dex, I might be able to help you, but I'd like to know who I'm dealing with. What exactly did they do to you?}
 
 {570}{}{Wow, that's real interesting, babe, and I can't wait to hear more about you. Honest. But first of all, how 'bout you fill me in on what the hell happened since they put me on ice.

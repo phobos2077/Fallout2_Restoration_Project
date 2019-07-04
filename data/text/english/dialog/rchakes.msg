@@ -28,7 +28,7 @@
 {126}{}{I'm looking for the miner that cut Lou's gal. Sounds like you just made a confession to me.}
 {127}{}{I'm bringing justice to you in person. 10mm justice, that is.}
 {128}{}{It might be. What do you know about the affair?}
-{129}{}{No sir, heh, heh. I wouldn't do that. G'goodbye…sir.}
+{129}{}{No sir, heh, heh. I wouldn't do that. G'goodbye... sir.}
 {130}{}{I cut the bitch. She made a mistake, she did.}
 {131}{}{A mistake?}
 {132}{}{I don't care what she did to you. You're a mad dog, and I'm just the one to put you down.}
@@ -40,7 +40,7 @@
 {136}{}{On second thought, I have a better idea. Why don't I save the good people of Redding some time
  and trouble by just killing you here and now?}
 {137}{}{I'm not sure that I want to upset all the other Morningstar miners. This time I'll let you off
- with a warning. But, if you ever do it again…}
+ with a warning. But, if you ever do it again...}
 {138}{}{Oh, thank you, sir. Yes, sir. Obidiah'll be careful, sir. Thank you.}
 {139}{}{Thank you, ma'am. Yes, ma'am, Obidiah'll be careful, ma'am. Thank you.}
 {140}{}{You just make sure that you are careful. I don't want to hear about this sort of thing again.

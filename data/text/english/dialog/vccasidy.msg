@@ -12,7 +12,7 @@
 {111}{}{Nothing today, thanks.}
 {112}{Cas0112}{Hit on the head a little too often, eh? Sorry, I don't speak imbecile.}
 {113}{}{Bee-sil?}
-{114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole...you can't miss it, trust me.}
+{114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole... you can't miss it, trust me.}
 {115}{}{What do you have to drink here?}
 {116}{}{Anything interesting going on around here?}
 {117}{}{Thanks for the directions. Goodbye.}
@@ -22,7 +22,7 @@
 {121}{}{I'll take a shot.}
 {122}{}{Anything interesting going on around here?}
 {123}{}{Not really. Thanks anyway.}
-{124}{Cas0124}{"Interesting?" Heh. Friend, Vault City ain't an "interesting" place...unless the guards get bored, then you
+{124}{Cas0124}{"Interesting?" Heh. Friend, Vault City ain't an "interesting" place... unless the guards get bored, then you
  better take cover. Why you asking? You looking for something in this sinkhole?}
 {125}{}{What do you have to drink here?}
 {126}{}{Actually, I'm looking for the Vault.}
@@ -59,7 +59,7 @@
 {157}{Cas0157}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
 {158}{Cas0158}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
 {159}{Cas0159}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{160}{Cas0160}{Naw...you look like you got enough of a crowd already.}
+{160}{Cas0160}{Naw... you look like you got enough of a crowd already.}
 {161}{}{All right. Well, good luck.}
 {162}{}{Forget I asked then, asshole. Go back to tending bar in this shitwater burg.}
 {163}{}{Nevermind then. Your loss.}
@@ -91,7 +91,7 @@
 {266}{}{Actually, I had something I wanted you to do...}
 {267}{}{Nevermind. Let's move on.}
 {268}{}{No, don't hurt Myron. Not today, anyway. I'll keep you posted.}
-{269}{Cas0269}{Well, shotguns and rifles, mostly...just personal preference. I ain't a bad shot with pistols, neither.}
+{269}{Cas0269}{Well, shotguns and rifles, mostly... just personal preference. I ain't a bad shot with pistols, neither.}
 {270}{}{Anything else?}
 {271}{}{Okay. I had some other questions...}
 {272}{}{All right. Just checking.}
@@ -99,7 +99,7 @@
 {274}{}{Great. Anything else?}
 {275}{}{Okay. I had some other questions...}
 {276}{}{All right. Just checking.}
-{277}{Cas0277}{Uh, well...just between you and me, I can also use a spear pretty good. Me and my buddies used to hunt radscorpions with spears way back when...fact I'm alive and they ain't might tell you something.}
+{277}{Cas0277}{Uh, well... just between you and me, I can also use a spear pretty good. Me and my buddies used to hunt radscorpions with spears way back when... fact I'm alive and they ain't might tell you something.}
 {278}{}{Nothing wrong with using a spear.}
 {279}{}{Okay. I had some other questions...}
 {280}{}{All right. Just checking.}
@@ -113,7 +113,7 @@
 {288}{}{Yes, I am.}
 {289}{}{Whatever. Look, I had some other questions...}
 {290}{}{Forget it. I don't want to get into this with you right now.}
-{291}{Cas0291}{Uh, well...damn it all, you can have my apology right here and now. I didn't mean any offense.}
+{291}{Cas0291}{Uh, well... damn it all, you can have my apology right here and now. I didn't mean any offense.}
 {292}{}{Sure you didn't. Look, I had some other questions...}
 {293}{}{Forget it. Let's move on.}
 {294}{Cas0294}{Well, now, before you go, I got a question for you. What are we doing out here? We seem to be running all over the place looking for something. Have we got some sort of plan?}
@@ -122,7 +122,7 @@
 {297}{}{My village has been kidnapped. I'm trying to find out what happened to them.}
 {298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
 {299}{Cas0299}{Huh. All right then, just checking.}
-{300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone...well, at least not me.}
+{300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone... well, at least not me.}
 {301}{}{All right. Let's go.}
 {302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
 {303}{Cas0303}{Especially a woman's.}
@@ -150,7 +150,7 @@
 {325}{}{Heh. Never thought I'd see San Francisco.}
 {326}{}{Never thought you'd keep an old timer like me 'round this long. Let's get this job done and go home.}
 {327}{}{Redding's a mining town. Gold, mostly. A lot of caravans came to Vault City from here.}
-{328}{}{Broken Hills is a mining town...mostly uranium ore. It can be a rough place, so watch yourself.}
+{328}{}{Broken Hills is a mining town... mostly uranium ore. It can be a rough place, so watch yourself.}
 {329}{}{I got some poison runnin' through my system. Got any antidote?}
 {330}{}{I'm glowing like a neon sign over here. Got any anti-radiation drugs?}
 {331}{}{I'm hurting pretty bad over here. Got any stims?}
@@ -187,8 +187,8 @@
 {362}{}{If I was twenty years younger, I'd go east and explore the Midwest. Too late now, I s'pose.}
 {363}{}{I hear they got twisters miles wide in the Midwest. It's a big ol' radioactive dustbowl now.}
 {364}{}{Wonder if Texas survived the war...}
-{365}{}{Thanks, friend. I...whoa. Now my vision's getting all cloudy.}
-{366}{}{I heard this stuff makes you hallucin...whoa! Where the hell did all these snakes come from?!}
+{365}{}{Thanks, friend. I... whoa. Now my vision's getting all cloudy.}
+{366}{}{I heard this stuff makes you hallucin... whoa! Where the hell did all these snakes come from?!}
 {367}{}{Whenever I take this stuff, I have flashbacks.}
 {368}{}{Nothing like a little backwater tribal healing...}
 {369}{}{I'm about due for some crutches and a wheelchair over here.}
@@ -196,7 +196,7 @@
 {371}{}{You have convinced Cassidy to join your party.}
 {372}{}{Just let me pop a heart pill first...} # Seraph's Code
 
-{1000}{Cas1000}{Well...all right, then. I'll wait here 'til you get back. }
+{1000}{Cas1000}{Well... all right, then. I'll wait here 'til you get back. }
 {1100}{Cas1100}{Sure. Can't promise I won't pull it out again if there's trouble, though.}
 {1200}{Cas1200}{All right, I'll stick close to you then. You must be expecting trouble.}
 {1300}{Cas1300}{All right, I'll keep some distance. Get a better vantage point that way.}

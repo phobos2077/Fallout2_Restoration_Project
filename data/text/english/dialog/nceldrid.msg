@@ -10,7 +10,7 @@
 {201}{}{::Fires his gun into the air, starts hooting and hollering:: Th' Enclave's DEAD! DEAD! DEAD! Yeeee-haw!}
 {202}{}{::Ding-dong, the Enclave's dead, the Enclave's dead... ::}
 {203}{}{Enclave's a good reason for every citizen to have the right ta bear arms.}
-{204}{}{Next time, don't you go to th' Enclave without stopping by here first...I'll make sure you have all the firepower
+{204}{}{Next time, don't you go to th' Enclave without stopping by here first... I'll make sure you have all the firepower
  you NEED.}
 
 # 2. POWER ARMOR (WTG)
@@ -29,29 +29,29 @@
 {225}{}{Better get that new shipment of shotgun shells in for the Wrights...}
 {226}{}{Hope the Mordinos got the gold to pay for their order...}
 {227}{}{That weapon? Punch a hole right through a metal wall, it can.}
-{228}{}{That boy's a genius…would hardly know it to look at him...}
+{228}{}{That boy's a genius... would hardly know it to look at him...}
 {229}{}{Better take those dogs for a walk soon before they start peeing everywhere.}
-{230}{}{Them Unwashed Villagers are stockpiling more weapons...they're a tough bunch.}
+{230}{}{Them Unwashed Villagers are stockpiling more weapons... they're a tough bunch.}
 {231}{}{I wish somebody would rob me so I could shoot 'em.}
 {232}{}{Gonna need to clean the shelves soon...}
 {233}{}{Can't wait to go huntin' gangs next week...}
-{234}{}{I got SMGs, pistols, dynamite, grenades...and still people come in wanting swords n' crossbows.}
+{234}{}{I got SMGs, pistols, dynamite, grenades... and still people come in wanting swords n' crossbows.}
 
 # 4. INTRO (WTG)
-{240}{}{Welcome, hero! Damn nice work you made of the Enclave...saved all our hides, you did, and I thank you for it. Eldridge's
+{240}{}{Welcome, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. Eldridge's
  the name. You in the market for some iron to fill that holster of yours?}
-{241}{}{Welcome, mister...Eldridge's the name. You in the market for some iron to fill that holster of yours?}
-{242}{}{Welcome, traveler...Eldridge's the name. You in the market for some iron to fill that holster of yours?}
+{241}{}{Welcome, mister... Eldridge's the name. You in the market for some iron to fill that holster of yours?}
+{242}{}{Welcome, traveler... Eldridge's the name. You in the market for some iron to fill that holster of yours?}
 {243}{}{Ernnnnh? Hole-sterrr?}
 {244}{}{Depends on what you're selling.}
 
 # 5. INTRO, FALLOUT 2 (WTG, 4)
-{250}{}{Welcome back, hero! Damn nice work you made of the Enclave...saved all our hides, you did, and I thank you for it. }
+{250}{}{Welcome back, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. }
 {251}{}{You see something you like, you let me know, and we'll work out a *special* discount, awright?}
 {252}{}{Awwww rite}
 {253}{}{Wander away}
 {254}{}{Great! Can I see what you got in stock?}
-{255}{}{I don't know if you can help me...I'm looking for something special.}
+{255}{}{I don't know if you can help me... I'm looking for something special.}
 {256}{}{My boss... }
 {262}{}{Excellent... can I see you special stock?}
 {257}{}{Jules told me to come here if I was looking for weapons.}
@@ -74,7 +74,7 @@
 
 # 7. RETARD (4, 5, 6, 19, 20)
 {300}{}{See anything shiny you want? C'mon, there must be something here that interests you.}
-{301}{}{Uh…sure, sure. (Looks at you critically.) You remind me of my slave, Al. You want to see what we got in stock, friend?}
+{301}{}{Uh... sure, sure. (Looks at you critically.) You remind me of my slave, Al. You want to see what we got in stock, friend?}
 {302}{}{Yuh}
 {303}{}{Me vant somefin NOT stock}
 {304}{}{Nuh}
@@ -85,14 +85,14 @@
 {312}{}{'Bout time that lazy bastard did his job... pardon my French. So what can I do you for, miss?}
 
 # 9. CAN YOU UPGRADE WEAPONS, ALGERNON DEAD (5, 6, 8)
-{330}{}{No, no...we used to be in the business of doing that, but...(Looks pained.)...well, there's been an
- accident...and we just don't do it no more. Anything else I can do for you?}
+{330}{}{No, no... we used to be in the business of doing that, but...(Looks pained.)...well, there's been an
+ accident... and we just don't do it no more. Anything else I can do for you?}
 {331}{}{All right then. I'm interested in something else...}
 
 # 10. CAN YOU MODIFY OR UPGRADE WEAPONS? (5, 6, 8, 11, 12, 13, 17)
 {340}{}{Sure as hell can. Whatcha need suped up?}
 {1340}{}{Sure as hell can. (Glances at your equipment.) But you don't look like you have anything I can tinker with.
- Bring by some virgin…eh, "normal" pistols and rifles, and I might be able to help you.}
+ Bring by some virgin... eh, "normal" pistols and rifles, and I might be able to help you.}
 {341}{}{Can you do anything with any of these pistols I have?}
 {342}{}{One of my rifles could use some attachments.}
 {343}{}{Can you do anything with this cattleprod here?}
@@ -103,7 +103,7 @@
 
 # 11. PISTOLS MENU (10)
 {350}{}{(Spots your magnum.) I can put a speed loader on that magnum there for $}
-{351}{}{That Desert Eagle you got...if you want, I can give it an expanded magazine for $}
+{351}{}{That Desert Eagle you got... if you want, I can give it an expanded magazine for $}
 {352}{}{Put the speed loader on the magnum.}
 {353}{}{Expand the magazine in this Desert Eagle here.}
 {354}{}{Actually, I had another weapon in mind...}
@@ -114,9 +114,9 @@
 # 12. RIFLES MENU (10)
 {365}{}{(Studies your rifles, nods.) }
 {366}{}{I can put a scope on that hunting rifle for $}
-{367}{}{That assault rifle you got there...I can give it an expanded magazine for $}
+{367}{}{That assault rifle you got there... I can give it an expanded magazine for $}
 {368}{}{I've got a low-light scope I can put on that FN FAL you got for $}
-{369}{}{All right then...put a scope on the Colt hunting rifle.}
+{369}{}{All right then... put a scope on the Colt hunting rifle.}
 {370}{}{Expand the magazine of the AK-112 assault rifle.}
 {371}{}{Attach that low-light scope on the FN FAL.}
 
@@ -125,7 +125,7 @@
 {386}{}{Sure.}
 
 # 14. RETURN ITEMS MENU (11, 12, 13)
-{395}{}{(Eldridge takes the item, examines it critically.) Awright...you just hold on for a bit, and I'll see what I can do.
+{395}{}{(Eldridge takes the item, examines it critically.) Awright... you just hold on for a bit, and I'll see what I can do.
  (He disappears into the back.)}
 {396}{}{Okay.}
 
@@ -138,28 +138,28 @@
 {406}{}{Dum de dum de dum...}
 
 # 17. RETURN ITEMS MENU (16)
-{410}{}{(You are about to nod off, when suddenly Eldridge returns.) Sorry about the wait...here ya go. This might give you
+{410}{}{(You are about to nod off, when suddenly Eldridge returns.) Sorry about the wait... here ya go. This might give you
  an edge against any son of bitches that try n' step on your shadow.}
 {411}{}{Thanks. Can you upgrade any of my other weapons?}
 {412}{}{Thanks. I wanted something else...}
 {413}{}{Thanks. I'll go try it out.}
 
 # 18. I'M LOOKING FOR SOMETHING SPECIAL (5, 6, 7, 8)
-{420}{}{Oh...we got us a discrimnatin' customer, eh? Well, at times, some prize pieces do make their way through town...take
- this, for example. (Holds up something...odd.) Genuine pre-war tech. Innit something?}
-{423}{}{Uh...it's "something," all right. Can I take a look?}
+{420}{}{Oh... we got us a discrimnatin' customer, eh? Well, at times, some prize pieces do make their way through town... take
+ this, for example. (Holds up something... odd.) Genuine pre-war tech. Innit something?}
+{423}{}{Uh... it's "something," all right. Can I take a look?}
 {424}{}{Sure is. I was interested in something else, though...}
 {425}{}{Not interested. Thanks anyway.}
 
 # 19. MODULE 2 (18)
 {430}{}{(It's a pretty plastic square with holes in it and metal lines drawn all over it. Some funny word-symbol things are written on it. It reminds you of a mechanical pop-tart, and your mouth starts to water.)}
-{431}{}{(It's what looks like a circuit board. It's a little dusty, but it looks to be in good condition. It looks like it's part of...something. Printed on the board is: 'Vault Tec voice recognition module.')}
+{431}{}{(It's what looks like a circuit board. It's a little dusty, but it looks to be in good condition. It looks like it's part of... something. Printed on the board is: 'Vault Tec voice recognition module.')}
 {432}{}{(It's a complex circuit board. A memory chip is set into it, and a number of computer connections are on the side, including an input and output. Printed on the board is: 'Vault Tec voice recognition module.')}
 {433}{}{Me vant tasty board}
 {434}{}{Me vant sumfin else}
 {435}{}{Me vant to go}
 {436}{}{"Vault Tec?" This *has* to be important. How much?}
-{437}{}{About time...how much for this module?}
+{437}{}{About time... how much for this module?}
 {438}{}{No thanks, I wanted something else...}
 {439}{}{Not today, thanks.}
 
@@ -182,38 +182,38 @@
 
 # 22. BUY IT (20, 21)
 {480}{}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. Anything else? }
-{481}{}{(Thinks about it for a moment, studies you, then nods.) Awright then...I'm letting you have it for a steal, but
+{481}{}{(Thinks about it for a moment, studies you, then nods.) Awright then... I'm letting you have it for a steal, but
  here you go. (Hands you the module, takes your money.) }
 {482}{}{Anything else?}
 {485}{}{Yeah, I was interested in something else...}
 {486}{}{Nothing else today, thanks.}
 
 # 23. CAN I BUY LASER PISTOLS HERE? (5, 6, 8)
-{495}{}{(Blinks in surprise, then laughs.) Haw! No, no...those weapons are something else, ain't they? Sure would LIKE
- to get my hands on one, though...check out the range, power, fire rate...(Stares into distance, sighs.)}
+{495}{}{(Blinks in surprise, then laughs.) Haw! No, no... those weapons are something else, ain't they? Sure would LIKE
+ to get my hands on one, though... check out the range, power, fire rate...(Stares into distance, sighs.)}
 {496}{}{What if I offered to get you one?}
 {497}{}{I'd be nice to have one, all right. Say, I wanted something else...}
 {498}{}{Oh, well. Had to ask. Thanks, Eldridge.}
 
 # 24. WHAT IF I GOT YOU ONE? (23)
-{505}{}{(Squints at you, as if deciding whether he can trust you.) I wouldn't say no...if you did it, quiet-like. I'd
+{505}{}{(Squints at you, as if deciding whether he can trust you.) I wouldn't say no... if you did it, quiet-like. I'd
  pay you for your trouble...(Frowns.)...assuming you didn't CAUSE any.}
-{506}{}{No trouble at all...I have one on me. Here you go.}
+{506}{}{No trouble at all... I have one on me. Here you go.}
 {507}{}{I'll do it. Before I do, though, I wanted something else...}
 {508}{}{Nevermind then. Maybe you can help me with something else...}
 {509}{}{Done. I'll snag you one, then bring it back.}
-{510}{}{Can't promise that...me and trouble seem to travel together. See you later, Eldridge.}
+{510}{}{Can't promise that... me and trouble seem to travel together. See you later, Eldridge.}
 
 # 25. LASER PISTOL RETRIEVED? (5, 6, 8, 24)
 {520}{}{Well, piss on my back and tell me it's raining! }
 {521}{}{Well, hell then! True to my word, here's something for your trouble... }
-{522}{}{(Gives you a bunch of chips, takes the pistol.) Damn...strange lookin' thing, innnit? (Examines barrel.) Hmmm...}
+{522}{}{(Gives you a bunch of chips, takes the pistol.) Damn... strange lookin' thing, innnit? (Examines barrel.) Hmmm...}
 {523}{}{I wanted something else...}
 {524}{}{Pleasure doing business with you, Eldridge. Enjoy.}
 
 # 26. REP: MADE MAN (5, 6, 8)
 {530}{}{(Eldridge looks you up and down, and his tone becomes more respectful.) Sure, of course. Let me show you our
- special stock...at a discount, of course.}
+ special stock... at a discount, of course.}
 {532}{}{Actually, I was interested in something else...}
 {533}{}{Nevermind. I'll be back.}
 
@@ -253,5 +253,5 @@
 {5500}{}{.}
 
 #added by killap
-{801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade...Sheesh!}
+{801}{}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade... Sheesh!}
 {802}{}{Come back when you got the money.}

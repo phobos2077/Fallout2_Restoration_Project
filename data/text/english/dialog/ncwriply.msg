@@ -29,7 +29,7 @@
 {225}{}{Enclave Muthuhfugguhs gonna taste my metal.}
 {226}{}{Had my hardened power armor on! That bullet bounced right off!}
 {227}{}{Die, Enclave-face!}
-{228}{}{Aighhhhhhhh…I've been hit…}
+{228}{}{Aighhhhhhhh... I've been hit...}
 
 # 3. FLOAT [WRIGHT CHILDREN PLAYING, NORMAL] (WTG)
 {240}{}{Look at me, I'm the metal insect! Bzzzzzz}
@@ -47,7 +47,7 @@
 {252}{}{Muthuhfugguh gonna taste my metal.}
 {253}{}{Had my force field up!}
 {254}{}{Die, Salvatore-face!}
-{255}{}{Aighhhhhhhh…I've been hit…}
+{255}{}{Aighhhhhhhh... I've been hit...}
 
 # 4. CLICK [ENCLAVE_DESTROYED = TRUE] (WTG)
 {270}{}{I miss Dogmeat from Fallout 1.}
@@ -56,7 +56,7 @@
 {273}{}{The Enclave can kiss my seven year old ass. What jerks.}
 {274}{}{The Enclave were real jerk-faces, huh? Sheesh.}
 {275}{}{Were you scared when you met the President? Did he have big fangs and claws?}
-{276}{}{I wish I coulda helped you destroy the Enclave. I…wouldn't have been scared. Uh-uh.}
+{276}{}{I wish I coulda helped you destroy the Enclave. I... wouldn't have been scared. Uh-uh.}
 {277}{}{Hey! }
 {5277}{}{! Tell us the Enclave story! Pleeeease?}
 {278}{}{}
@@ -89,13 +89,13 @@
 {326}{}{(Let him play.)}
 
 # 8. CAN [X] PLAY TOO? (7)
-{330}{}{Well…okay. (Looks you up and down.) But I'M the metal insect this game!}
+{330}{}{Well... okay. (Looks you up and down.) But I'M the metal insect this game!}
 {331}{}{Okee dokee little bee person}
 {332}{}{ okay with that.}
 {333}{}{What incest?}
 {334}{}{No! }
 {5334}{}{ wanna be incest!}
-{335}{}{Ooooh…what over here?}
+{335}{}{Ooooh... what over here?}
 
 # 9. OKEE DOKEE/X CAN DO THAT/[X] OKAY WITH THAT (8)
 {340}{}{(The little man lets the pot fall down over his head, and resumes *bzzzzing* around.)}
@@ -104,7 +104,7 @@
 {343}{}{(Leave.)}
 
 # 10. WHAT INCEST? (8)
-{350}{}{INSECT, stoo-pid! We SAW one when we were out in the desert! It was as big… (Takes a deep breath.) …as big as a HOUSE!
+{350}{}{INSECT, stoo-pid! We SAW one when we were out in the desert! It was as big... (Takes a deep breath.) ...as big as a HOUSE!
  N'it had metal PEOPLE in it.}
 {351}{}{Nuh-uh}
 {352}{}{Don't call me stoopid}
@@ -114,7 +114,7 @@
 {5354}{}{. You make FUN of }
 {6354}{}{. }
 {7354}{}{ not like.}
-{355}{}{ has killed a lot of little loud people like you…maybe you next?}
+{355}{}{ has killed a lot of little loud people like you... maybe you next?}
 {356}{}{[Wander off.]}
 
 # 11. NUH-UH 1 (10)
@@ -128,7 +128,7 @@
 {371}{}{Uh-huh! I'll show you! A bunch of us are going over there tonight. }
 {372}{}{Wanna come? (The little person squints at you.) But you gotta be reeeally quiet. Reeeeally quiet.}
 {373}{}{Okee-dokee [Follow him.]}
-{374}{}{Okee-dokee, me go wit…oooooh, that sand over there?}
+{374}{}{Okee-dokee, me go wit... oooooh, that sand over there?}
 
 # 13. DON'T SHOUT. X NO LIKE SHOUT. (10, 13, 21)
 {380}{}{I don't like you. You're a big stupid-head! (Sticks out his tongue.) Get outta here, stupid-head!}
@@ -137,7 +137,7 @@
 {5382}{}{! }
 {6382}{}{ SMASH!}
 {383}{}{Bite back your tears and run away}
-{384}{}{All right…this time. Go easy on the Jet, kid.}
+{384}{}{All right... this time. Go easy on the Jet, kid.}
 
 # 14. UH-UH-UH-UH/HUH-HUH-HUH-HUH (11)
 {390}{}{(Squints at you.) You sound like my Mom and Dad when they go to bed.}
@@ -148,7 +148,7 @@
 {401}{}{I'm not lying, stupid! A bunch of us are going over there tonight. }
 {403}{}{DON'T call me stoopid, STOOPID}
 {404}{}{Uh-huh [Follow him.]}
-{405}{}{Okee-dokee, me want to com…oooooh, that sand over there?}
+{405}{}{Okee-dokee, me want to com... oooooh, that sand over there?}
 
 # 16. WHERE HE SEE INCEST? I WANNA SEE IT TOO (14)
 {410}{}{A bunch of us are going over there when it gets REALLY dark. }
@@ -164,25 +164,25 @@
 # 18. WHOA, SORRY THERE, FEARSOME HELMED WARRIOR. (17)
 {430}{}{(Glares at you suspiciously.) Whaddya want?}
 {432}{}{I just wanted to know what kind of game you're playing. It looks like fun!}
-{433}{}{Uh…where are your parents?}
+{433}{}{Uh... where are your parents?}
 {434}{}{Nothing.}
 
 # 19. CALL ME STUPID AGAIN . . . / NO SHOUT! NO SHOUT AT X! X SMASH! (10, 13, 17)
 {440}{}{(The little man turns white, takes a step back, then turns and runs, screaming his head off.)}
 {441}{}{(The kid turns white, takes a step back, then turns and runs, screaming his head off.)}
-{442}{}{Hee hee...run, little mann! RUN!}
-{443}{}{Little punk…}
+{442}{}{Hee hee... run, little mann! RUN!}
+{443}{}{Little punk...}
 
 # 20. WHAT ARE YOU PLAYING? (7, 18, 32)
 {450}{}{Metal insects n' soldiers. }
 {451}{}{(Looks at your equipment, spots one of your pistols.) Can I play with yer gun?}
-{452}{}{No, no...it's too dangerous to play with, youngster.}
+{452}{}{No, no... it's too dangerous to play with, youngster.}
 {453}{}{No. You'll shoot your eye out.}
 {454}{}{Why, sure you can, you little pothead. Here you go. (Give him an unloaded pistol.)}
 {455}{}{Why, sure you can, you little pothead. Here you go. (Give him a loaded pistol.)}
 {456}{}{"Metal insects?"}
 {457}{}{Oh, okay. I was just curious.}
-{458}{}{Nooooo...I think I better be going.}
+{458}{}{Nooooo... I think I better be going.}
 
 # 21. NO, TOO DANGEROUS. NO GUN FOR YOU (20, 21)
 {470}{}{(Glares at you.) C'mon, I know how to use guns like that! I'm in Family Wright! Let me see it! Pleeease?}
@@ -194,7 +194,7 @@
 {476}{}{Forget it. Go play with your friends.}
 
 # 22. METAL INSECTS? TELL ME ABOUT THE METAL INSECTS. (28)
-{485}{}{Yeah, metal insects! We SAW one when we were out in th' desert! It was as big… (Takes a deep breath.) …as big as
+{485}{}{Yeah, metal insects! We SAW one when we were out in th' desert! It was as big... (Takes a deep breath.) ...as big as
  a HOUSE! N'it had metal PEOPLE in it.}
 {486}{}{Really! Wow! Where did you see it?}
 {487}{}{You're lying!}
@@ -211,15 +211,15 @@
 # 24. REALLY? WOW! WHERE DID YOU SEE IT? TRUST (22)
 {510}{}{In th' desert. (Glances around, starts whispering.) A bunch of us are going out there when it gets REALLY dark. }
 {511}{}{In th' desert. (Glances around, starts whispering.) A bunch of us are going out there tonight. }
-{513}{}{I'm never quiet when I come. But just this once…}
+{513}{}{I'm never quiet when I come. But just this once...}
 {514}{}{I'll be quiet. Lead on, MacDuff.}
 {515}{}{Uh, I don't think you'll be seeing that 'metal insect' anymore. It was actually a helicopter.}
 {516}{}{Not tonight, thanks. Early day tomorrow.}
 
 # 25. IT WAS A HELICOPTER (24, 27)
 {530}{}{Hunh? (Frowns and adjusts the pot on his head.) What's a hello-copter?}
-{531}{}{It's a…flying machine. It can hold people and stuff inside.}
-{532}{}{A helicopter is...I guess the closest approximation you'd be familiar with is 'automobile.' A helicopter is like
+{531}{}{It's a... flying machine. It can hold people and stuff inside.}
+{532}{}{A helicopter is... I guess the closest approximation you'd be familiar with is 'automobile.' A helicopter is like
  an automobile that's able to rise off the ground and hover through the use of vertically rotating blades. The helicopter's
  engine spins the blades so fast it keeps it aloft. Isn't that incredible?}
 {533}{}{Nevermind. Just don't go wandering around outside of town again. It could get you killed.}
@@ -240,8 +240,8 @@
 {560}{}{(You take your crappiest gun from your pack and give it to the kid. He smiles and holds it up, admiring it.) MY gun! Cool! }
 {561}{}{I know where I can get ammo for it, too!}
 {562}{}{Uh, you can't keep it. It's just a loan...}
-{563}{}{Yep, all yours. Now tell me about these metal insects…}
-{564}{}{Lock and load, kid. Say...why don't you go show your gun to Daddy? Be sure to wave it around a lot and pull that little
+{563}{}{Yep, all yours. Now tell me about these metal insects...}
+{564}{}{Lock and load, kid. Say... why don't you go show your gun to Daddy? Be sure to wave it around a lot and pull that little
  switch beneath the gun there.}
 {565}{}{Sure is. Enjoy. Catch you later.}
 
@@ -257,7 +257,7 @@
 
 # 31. WHY DON'T YOU GO POINT IT AT DADDY? (28)
 {590}{}{Okay! (He runs off.)}
-{591}{}{Well, THIS little act of evil might take a while to bear fruit…better leave the area and come back.}
+{591}{}{Well, THIS little act of evil might take a while to bear fruit... better leave the area and come back.}
 {592}{}{[Calmly leave the vicinity, whistling innocently.]}
 
 # 32. WHERE ARE YOUR PARENTS? (7, 18)
@@ -273,7 +273,7 @@
 # 35. "VIGOROUS" NO (23, 26)
 {630}{}{(He shakes his head. He lets the pot fall down over his head, and resumes *bzzzzing* around.)}
 {631}{}{Uh, okay.}
-{632}{}{You little punk…see if I save you when I'm saving the world...}
+{632}{}{You little punk... see if I save you when I'm saving the world...}
 
 # 36. GO OUT INTO DESERT (12, 15, 16, 24, 27)
 {640}{}{You wait until it gets a little darker...}

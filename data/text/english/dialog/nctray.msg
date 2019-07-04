@@ -1,5 +1,5 @@
 # 0. QUICK LOOK
-{100}{}{You see a good-looking black man...er, no, wait. You see T-Ray.}
+{100}{}{You see a good-looking black man... er, no, wait. You see T-Ray.}
 
 # 0. LOOK
 {150}{}{You see a heavily muscled black man with thick glasses, a light beard, and an attitude.}
@@ -30,7 +30,7 @@
 # 5. FLOAT (NORMAL)
 {250}{}{If it ain't the man, here to oppress me again.}
 {251}{}{Yeah, Impala's a good car, but it ain't no Omni.}
-{252}{}{Whenever I make love to you, it's hot lava…}
+{252}{}{Whenever I make love to you, it's hot lava...}
 {253}{}{Damn, this car needs a brass rope around the license plate.}
 {254}{}{Engine's still good.}
 {255}{}{Interior smells like someone took a shit in there.}
@@ -50,9 +50,9 @@
 
 # 6. INTRO (WTG)
 {275}{}{Who're you? What're you doing here?}
-{276}{}{Damn. Look what just walked in…looks like them upper body workouts is finally paying off. What can I do for you, sweet thing?}
+{276}{}{Damn. Look what just walked in... looks like them upper body workouts is finally paying off. What can I do for you, sweet thing?}
 {277}{}{You again? What do you want NOW?}
-{278}{}{Damn, woman…you again? What do you want NOW? I don't want to hear no shit about how I got you pregnant…}
+{278}{}{Damn, woman... you again? What do you want NOW? I don't want to hear no shit about how I got you pregnant...}
 {279}{}{}
 {280}{}{ go where }
 {281}{}{ go}
@@ -71,27 +71,27 @@
 # 7. ME GO WHERE ME GO (6, 17)
 {300}{}{Man, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
 {301}{}{Girl, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
-{302}{}{You wanna GO? Here? Well… (Looks you up and down) …a man's gotta do who a man's gotta do. Let's get down to bitness.}
+{302}{}{You wanna GO? Here? Well... (Looks you up and down) ...a man's gotta do who a man's gotta do. Let's get down to bitness.}
 {303}{}{Uh-huh}
 {304}{}{Nuh-uh}
 {306}{}{Get down to business.}
 {307}{}{Uh, no thanks. I've changed my mind. Good-bye.}
 
 # 8. UH-HUH (7)
-{320}{}{Aiight then…}
+{320}{}{Aiight then...}
 {321}{}{Uh-uh-uh}
 
 # 9. NUH-UH (7, 17, 31, 35)
-{330}{}{Aw, so you just PLAYING with T-Ray? All right, then. Get, woman…I got better bitches to do with my time.}
-{331}{}{Time keepz on ticking, ticking, ticking…inta the fuuuuture}
+{330}{}{Aw, so you just PLAYING with T-Ray? All right, then. Get, woman... I got better bitches to do with my time.}
+{331}{}{Time keepz on ticking, ticking, ticking... inta the fuuuuture}
 {333}{}{If suppose if you can catch dogs, you're welcome to do whatever you want with them. Good-bye.}
 {334}{}{The fact you have sex with dogs does not surprise me. Good-bye.}
 
 # 10. I LIKE THAT HIGHWAYMAN IN THE GARAGE (6)
-{340}{}{The Highwayman outside? Damn RIGHT you like the look of her. That's one sweet machine, a recent ac-quisition…we're just
+{340}{}{The Highwayman outside? Damn RIGHT you like the look of her. That's one sweet machine, a recent ac-quisition... we're just
  about to spruce her up, make some adjustments, then sell her off to ol' man Bishop.}
 {341}{}{"Adjustments?" What kind of adjustments?}
-{342}{}{Sell her to BISHOP? Look, idiot...Bishop's dea...er, I mean, I can meet Bishop's offer.}
+{342}{}{Sell her to BISHOP? Look, idiot... Bishop's dea... er, I mean, I can meet Bishop's offer.}
 {343}{}{Sell her to Bishop? Hell, I can meet Bishop's offer and then raise it some.}
 {344}{}{What a coincidence. I'm Bishop's lieutenant, }
 {346}{}{Actually, you won't be selling that car to anyone. The car's mine.}
@@ -106,24 +106,24 @@
 
 # 12. I CAN MEET BISHOP'S OFFER (10, 11, 13)
 {375}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, man. A LOT of chips. Plus, he's one of the top men in
- Reno, y'know? I get him this machine, there's…FRINGE benefits.}
+ Reno, y'know? I get him this machine, there's... FRINGE benefits.}
 {376}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, woman. A LOT of chips. Plus, he's one of the top men in
- Reno, y'know? I get him this machine, there's…FRINGE benefits.}
-{377}{}{I'm listening…}
+ Reno, y'know? I get him this machine, there's... FRINGE benefits.}
+{377}{}{I'm listening...}
 {378}{}{1000 chips change your mind?}
 {379}{}{750 chips change your mind?}
 {380}{}{500 chips change your mind?}
-{381}{}{Actually, I don't have enough chips to make you an offer right now…}
+{381}{}{Actually, I don't have enough chips to make you an offer right now...}
 {382}{}{How about a night with me, T-Ray? You ain't never going to have anything better.}
 {383}{}{My offer's this: I'll leave you in one piece if you give me MY car back right now.}
-{384}{}{Nevermind...I have to be going.}
+{384}{}{Nevermind... I have to be going.}
 
 # 13. THAT'S NOT ENOUGH (12)
 {395}{}{Man, that amount couldn't even afford to change my clothes, much less change my mind. }
 {396}{}{Woman, that amount couldn't even afford to change my clothes, much less change my mind. }
 {397}{}{You must think cars are cheap.}
 {398}{}{Let's re-negotiate then.}
-{399}{}{Look, I can't make you an offer right now, but once I get the chips together…}
+{399}{}{Look, I can't make you an offer right now, but once I get the chips together...}
 {401}{}{No, but your life is. I'll leave you in one piece if you give me back MY car right now.}
 {402}{}{I don't have time for this right now. Good-bye.}
 
@@ -140,11 +140,11 @@
 {437}{}{Forget this. I'm going to carve you into so many pieces you could start your own butcher shop.}
 
 # 16. SLEEP OFFER CONSIDERED (12, 13)
-{445}{}{(His eyes slide up and down your body.) I don't know if you're worth all THAT, woman. This is a HIGHWAYMAN we're talking about…}
+{445}{}{(His eyes slide up and down your body.) I don't know if you're worth all THAT, woman. This is a HIGHWAYMAN we're talking about...}
 {446}{}{Oh, I'm worth all that. And more.}
 
 # 17. INTRO SEX DEAL, CONSUMMATED (16)
-{455}{}{Curse me for a fool…it's a done deal, then. I get some playtime, then you can drive that Highwayman outta here.}
+{455}{}{Curse me for a fool... it's a done deal, then. I get some playtime, then you can drive that Highwayman outta here.}
 {456}{}{Let's get to it, then.}
 {457}{}{Screw negotiating. Give me MY car back, right now. Or else.}
 {458}{}{I've changed my mind. I think I'm just going to kill you instead.}
@@ -161,12 +161,12 @@
 {486}{}{Man, you don't even know what the hell you're talking about. }
 {487}{}{Woman, you don't even know what the hell you're talking about. }
 {488}{}{That Highwayman was scrap, left lying around, and guess what? Now it's ours. 'Course, you got an ISSUE with that, we
- could settle it here and now…}
+ could settle it here and now...}
 {489}{}{Yeah, I got an issue with it. Let's go, chop shop boy...}
 {490}{}{What are you doing with the car?}
 {491}{}{No, that's cool. You can have the damn Highwayman. Piece of shit anyway. Uses too much 'tricity, smells like gecko inside,
- trunk's too small…be perfect for you, though. See ya.}
-{492}{}{No, I haven't got an issue with it...yet. See you.}
+ trunk's too small... be perfect for you, though. See ya.}
+{492}{}{No, I haven't got an issue with it... yet. See you.}
 
 # 20. SMELLS LIKE SHIT ANYWAY . . . (19)
 {500}{}{Whoa, hold on there! *Piece of shit? Smells like Gecko?* }
@@ -184,17 +184,17 @@
 
 # 22. BOUGHT HIGHWAYMAN, STRAIGHT-UP (12)
 {530}{}{All right, then. It's a done deal. (Scans the money quickly, pockets it.) The Highwayman's all yours. It ain't got no
- battery juice, of course, and it ain't got none of the special amen-ities I was gonna add…}
+ battery juice, of course, and it ain't got none of the special amen-ities I was gonna add...}
 {531}{}{What amenities are you talking about?}
 {532}{}{I am sick of this bullshit run-around. Eat lead, chop shop boy...}
 {533}{}{Oh, but you've given me so MUCH already. I'm outta here.}
 
 # 23. SEX FOR HIGHWAYMAN (7)
 {540}{}{(T-Ray wipes the sweat off his body.) Goddamn, woman. All right then, the Highwayman's all yours. It ain't got none
- of the special amen-ities I was gonna add…}
-{541}{}{*Huff-huff* What amenities are you…*huff-huff*…talking about?}
-{542}{}{I am sick of this…*huff-*huff*…bullshit run-around. Eat…*wheeze*…lead, chop shop boy...}
-{543}{}{I…*huff-huff*…got my car back, and I…*huff-huff*…don't want you touching it anymore. I'm…outta here.}
+ of the special amen-ities I was gonna add...}
+{541}{}{*Huff-huff* What amenities are you...*huff-huff*...talking about?}
+{542}{}{I am sick of this...*huff-*huff*...bullshit run-around. Eat...*wheeze*...lead, chop shop boy...}
+{543}{}{I...*huff-huff*...got my car back, and I...*huff-huff*...don't want you touching it anymore. I'm... outta here.}
 
 # 24. WHAT FIX-UPS? (6, 19, 22, 33, 54)
 {550}{}{Sure can. I can jazz up the battery charger, spruce up the engine, clean out the interior a little, give it a shine, put
@@ -221,18 +221,18 @@
 # 27. CAN I COME BACK (24, 26, 30)
 {615}{}{Course you can. It's all good. An' look: you ever need any batteries for it, come talk to me, and I'll hook you up.}
 {616}{}{Actually, I need some batteries right now.}
-{617}{}{I could use some batteries, but you know what? I don't feel like paying with chips…would you be interested in something…ELSE?}
+{617}{}{I could use some batteries, but you know what? I don't feel like paying with chips... would you be interested in something... ELSE?}
 {619}{}{All right, then. Catch you later.}
 
 # 28. SEX FOR BATTERIES, NO BATTERIES (27)
-{630}{}{(Shrugs) Sorry, we ain't got no batteries now…come back in a week or two, maybe some will have turned up.
- 'Course…we could just conduct bitness ANYWAY…}
+{630}{}{(Shrugs) Sorry, we ain't got no batteries now... come back in a week or two, maybe some will have turned up.
+ 'Course... we could just conduct bitness ANYWAY...}
 {631}{}{All right.}
 {632}{}{Sorry, only when it IS business. Later, T-Ray.}
 
 # 29. SEX FOR BATTERIES, HAVE BATTERIES (27)
 {640}{}{Damn, bitch! I just gave you sweet love five minutes ago! You trying to KILL me?}
-{641}{}{Now, hold on…}
+{641}{}{Now, hold on...}
 {642}{}{C'mon, I need a charge, and only YOUR sweet love is going to do it.}
 {643}{}{Nevermind then. Be that way.}
 
@@ -250,16 +250,16 @@
 {663}{}{No, I've changed my mind. Bye.}
 
 # 33. ENCLAVE_DESTROYED (WTG)
-{670}{}{Hey! The big hero comes 'round to T-Ray's neck o' the woods! Welcome, welcome… }
+{670}{}{Hey! The big hero comes 'round to T-Ray's neck o' the woods! Welcome, welcome... }
 {671}{}{Hey, sweet-thing. You come back to relax with the Ray after you done kicking the world's ass? }
-{672}{}{Say… I got something you might be interested in for yo car…IF you still have it.}
+{672}{}{Say... I got something you might be interested in for yo car... IF you still have it.}
 {673}{}{Wut izzit}
 {675}{}{What have you got for the car?}
 
-# 34. SWEET LOVE…AGAIN? SUPER CAR (24, 26)
+# 34. SWEET LOVE... AGAIN? SUPER CAR (24, 26)
 {690}{}{Damn, woman! I just gave you sweet love five minutes ago! You trying to KILL me?}
 {691}{}{You wanna go AGAIN? Damn, woman! Don't your legs EVER close?}
-{692}{}{Well…}
+{692}{}{Well...}
 {693}{}{C'mon, I need a-fixin', and only YOUR sweet love is going to do it.}
 
 # 35. SWEET LOVE FOR SUPER CAR (34)
@@ -271,15 +271,15 @@
 {712}{}{I'm leaving, I'm leaving...}
 
 # 38. I'M ONE OF BISHOP'S MEN - WE GONNA DEAL OR WHAT (37)
-{720}{}{(Sneers) Yeah, we're gonna deal all right. Better hope you ain't got no family who's gonna miss you…}
+{720}{}{(Sneers) Yeah, we're gonna deal all right. Better hope you ain't got no family who's gonna miss you...}
 {721}{}{You better hope that you got a family that'll be able to find all your pieces.}
 
 # 39. I'M ONE OF BISHOP'S MEN - BELIEVE (6, 10, 11)
-{730}{}{(Studies you.) You're one of Bishop's lew-tenants?! Naw…if you were, you'd be a little taller, a little
- more… (looks skeptical) …bad-ass.}
+{730}{}{(Studies you.) You're one of Bishop's lew-tenants?! Naw... if you were, you'd be a little taller, a little
+ more... (looks skeptical) ...bad-ass.}
 {731}{}{(Studies you.) You're }
 {5731}{}{?! I heard }
-{6731}{}{ was a little taller, a little more… (looks skeptical) …bad-ass.}
+{6731}{}{ was a little taller, a little more... (looks skeptical) ...bad-ass.}
 {732}{}{I'm legit. You challengin' me?}
 {733}{}{I'm }
 {5733}{}{. You challengin' me?}
@@ -292,26 +292,26 @@
 {747}{}{Next time you better watch yourself. I'm outta here.}
 
 # 41. I'M ONE OF BISHOP'S MEN (39, 40)
-{755}{}{Aiight, aiight…here's the deal: we can do all the upgrades, spruce her up, and get it to Mr. Bishop pronto.
- Price… (Shrugs, smiles) …question is: how CAN you put a price on a Highwayman like this?}
+{755}{}{Aiight, aiight... here's the deal: we can do all the upgrades, spruce her up, and get it to Mr. Bishop pronto.
+ Price... (Shrugs, smiles) ...question is: how CAN you put a price on a Highwayman like this?}
 {756}{}{Go on.}
 {757}{}{I don't have TIME for your bullshit. What's the bottom-line?}
 {758}{}{You're right. You can't. I will be taking the car with me, and Mr. Bishop will let you continue your operation here.}
 {759}{}{I don't have time for this. I'm outta here.}
 
 # 42. GO ON. (41)
-{770}{}{As I see it, this Highwayman…most likely the last of its kind in working order…is worth at LEAST 3000 chips…but
+{770}{}{As I see it, this Highwayman... most likely the last of its kind in working order... is worth at LEAST 3000 chips... but
  y'know what? (Winks) I'm willing to part with this fine machine for 2700 chips considerin' the condition. A-course, we'd
- need ta talk about FRINGE benefits: club privileges, free admission to the ho-house…}
+ need ta talk about FRINGE benefits: club privileges, free admission to the ho-house...}
 {771}{}{2700? Done. Here you are.}
 {772}{}{Mr. Bishop is prepared to offer you 1500 chips.}
-{773}{}{2700? No, no…Mr. Bishop will take it for 900 chips.}
+{773}{}{2700? No, no... Mr. Bishop will take it for 900 chips.}
 {774}{}{I have a counter-offer. I will take the car for no charge, and Mr. Bishop will permit you to continue your operation here.}
 {775}{}{I'll tell Mr. Bishop and return with his reply.}
 
 # 43. OKAY, 2700 chipS. (42)
 {780}{}{(T-Ray blinks, then smiles slow and wide as you pass off the chips.) Now, I like a deal that's concluded fast and
- simple; pleasure doing bitness with you, pleasure doing bitness… now about those fringe benefits…?}
+ simple; pleasure doing bitness with you, pleasure doing bitness... now about those fringe benefits...?}
 {781}{}{You will have to discuss those with Mr. Bishop. Mr. Bishop has one last request: free batteries from your shop.
  I will be the courier for these pick-ups.}
 {782}{}{The other benefits you will have to discuss with Mr. Bishop himself. Be sure to go to talk to him armed and
@@ -322,17 +322,17 @@
 {790}{}{Man, that amount couldn't even afford to change my clothes! }
 {791}{}{Woman, that amount couldn't even afford to change my clothes! }
 {792}{}{What, does Bishop think cars are CHEAP?!}
-{793}{}{Perhaps you feel you are being treated…unfairly?}
+{793}{}{Perhaps you feel you are being treated... unfairly?}
 {794}{}{Mr. Bishop has made a GENEROUS offer of 1500 chips. You won't like the next offer.}
 {795}{}{Then perhaps an offer of 900 chips will be more to your liking. Mr. Bishop will be pleased your work comes so cheaply.}
 {797}{}{Since his generous offer has been refused, I'm instructed to take the car for no charge.}
 {798}{}{I tire of this conversation. I will return later.}
 
 # 45. 900 chipS (42, 44)
-{810}{}{Nine hun…man, are you joking?! }
-{811}{}{Nine hun…woman, are you joking?! }
+{810}{}{Nine hun... man, are you joking?! }
+{811}{}{Nine hun... woman, are you joking?! }
 {812}{}{Cut the bull-shit! This is a HIGHWAYMAN. They don't make them ANYWHERE anymore, see? There's OTHER families that'll be
- willin' to pay for it if that cheap bastard Bishop won't…}
+ willin' to pay for it if that cheap bastard Bishop won't...}
 {814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}
 {816}{}{So you are dealing with other families? Mr. Bishop will be interested to hear that.}
 {817}{}{I'm sorry? What did you just call Mr. Bishop?}
@@ -342,25 +342,25 @@
 {830}{}{(T-Ray freezes. For a second, you think he's going to attack you, but then he relaxes.) Man, this is a raw deal. }
 {831}{}{(T-Ray freezes. For a second, you think he's going to attack you, but then he relaxes.) Woman, this is a raw deal. }
 {832}{}{What have I ever done to Bishop to deserve this? Huh?}
-{834}{}{I'd take it up with Mr. Bishop. Oh…Mr. Bishop has one last request: he would like free batteries from your shop.
+{834}{}{I'd take it up with Mr. Bishop. Oh... Mr. Bishop has one last request: he would like free batteries from your shop.
  I will be the courier for these pick-ups.}
 {835}{}{I'm sure it was something. He doesn't like you much. Pleasure doing business with you.}
 
 # 47. PERHAPS YOU THINK YOU ARE BEING TREATED UNFAIRLY (44, 45, 46)
-{845}{}{Naw, naw, nothin' like that…! Me and Mr. Bishop, we see eye to eye on this, no problems. He's treated me right, and you
- tell him that, aiight? But…uh…what 'bout those fringe benefits I mentioned…?}
+{845}{}{Naw, naw, nothin' like that...! Me and Mr. Bishop, we see eye to eye on this, no problems. He's treated me right, and you
+ tell him that, aiight? But... uh... what 'bout those fringe benefits I mentioned...?}
 {846}{}{You will have to discuss those with Mr. Bishop. Mr. Bishop has one last request: he would like free batteries from your
  shop. I will be the courier for these pick-ups.}
 {847}{}{The other benefits you will have to discuss with Mr. Bishop. Be sure to go to talk to him armed and shouting loudly
  about what he owes you. He respects men like that.}
 
 # 48. FREE BATTERIES . . . (43, 46, 47)
-{855}{}{(T-Ray's smile fades.) Aiight…sure, sure…not a problem.}
+{855}{}{(T-Ray's smile fades.) Aiight... sure, sure... not a problem.}
 {856}{}{Excellent. Give me all the batteries you have in stock right now.}
 {857}{}{(Leave.)}
 
 # 49. LEAVE . . . NO FREE BATTERIES (43, 46, 47)
-{865}{}{I will, I will…hey, you tell your boss he can buy batteries from me, too. I keep finding new ones every day round here.}
+{865}{}{I will, I will... hey, you tell your boss he can buy batteries from me, too. I keep finding new ones every day round here.}
 {866}{}{Really? Let me see what you have in stock.}
 
 # 50. BISHOP BATTERIES, NONE (6, 33, 48, 54)
@@ -377,7 +377,7 @@
 # 53. BISHOP BATTERIES, YES (6, 33, 54)
 {905}{}{Sure, we got some.}
 {906}{}{Could I check out your stock?}
-{907}{}{Well, I'd really like one, but I don't want to pay for it. Is there something…ELSE I could do to pay for it?}
+{907}{}{Well, I'd really like one, but I don't want to pay for it. Is there something... ELSE I could do to pay for it?}
 {909}{}{Just checking. Be seeing you.}
 
 # 54. RAM-PLATES (33)
@@ -408,7 +408,7 @@
 {1002}{}{You have received a free supply of car batteries.}
 
 # EXPLODING T-RAY
-{1100}{}{Too...much...sex...gonna...blow...}
+{1100}{}{Too... much... sex... gonna... blow...}
 
 {2000}{}{You got a battery for the Highwayman.}
 {2010}{}{You got the upgrade for the Highwayman.}

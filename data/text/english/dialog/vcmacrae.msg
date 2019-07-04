@@ -9,7 +9,7 @@
 {107}{}{Ug Nog}
 {108}{}{Nothing today, thanks.}
 {109}{}{Vault? Only Vault I know of is the one inside the city. Big friggin'
- hole...you can't miss it, trust me.}
+ hole... you can't miss it, trust me.}
 {110}{}{What do you have to drink here?}
 {111}{}{Anything going on around here?}
 {112}{}{Thanks for the directions. Goodbye.}
@@ -26,7 +26,7 @@
 {121}{}{Do you know anything about the Vault?}
 {122}{}{It can't be that bad.}
 {123}{}{Nothing. Bye.}
-{124}{}{Ah...hit on the head a little too often, I see. Sorry, I don't speak
+{124}{}{Ah... hit on the head a little too often, I see. Sorry, I don't speak
  imbecile.}
 {125}{}{Here you go. Drink up. It's about the only fun you'll see in this
  tight-ass place.}
@@ -37,13 +37,13 @@
  asked.}
 {129}{}{Sorry. Thought I had the cash. Not being able to see your money in the
  dialogue screen creates some problems, y'know?}
-{130}{}{Yeah...whatever. I'm out of here.}
+{130}{}{Yeah... whatever. I'm out of here.}
 {131}{}{It's worse. The Citizens don't drink much, so I'm stuck here giving merchants
  drinks. The next cheap bastard who tries to haggle for a drink is going to find
  my boot in his ass.}
 {132}{}{You sound pretty fed up with the place.}
 {133}{}{Sorry to hear that. What do you know about the Vault?}
-{134}{}{We all make mistakes...some more than others. So what do you want?}
+{134}{}{We all make mistakes... some more than others. So what do you want?}
 {135}{}{What's going on around here?}
 {136}{}{Nothing today, thanks. Goodbye.}
 {137}{}{Yeah, wish I could get the hell outta here.}
@@ -51,7 +51,7 @@
 {139}{}{Go into the wastes by myself? I'm bored, but I'm not stupid.}
 {140}{}{I'm heading out that way again. Why don't you come along?}
 {141}{}{Well, good luck to you.}
-{142}{}{Naw...you look like you got enough people following you around.}
+{142}{}{Naw... you look like you got enough people following you around.}
 {143}{}{All right. Well, good luck.}
 {144}{}{You know, that doesn't sound like a half bad idea. Count me in.}
 {145}{}{Yeah, what?}
@@ -75,5 +75,5 @@
 {163}{}{OK.}
 {164}{}{Look, you have enough people following your coat tails now.}
 {165}{}{Yeah, you go with that.}
-{166}{}{Naw...I think I'll pass.}
+{166}{}{Naw... I think I'll pass.}
 {167}{}{I think I'm just going to hang around here a little longer.}

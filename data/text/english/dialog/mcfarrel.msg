@@ -18,7 +18,7 @@
 {167}{}{You mentioned something about a watch earlier.}
 {168}{}{Is this the watch you were looking for?}
 {169}{}{All furries dead!}
-{170}{}{Gar – din?}
+{170}{}{Gar -- din?}
 {171}{}{Not again! How many people is Cornelius going to send over to look for his watch? I didn't do
  it! In fact, I was probably the victim of the same thief. Around the same time his watch disappeared,
  some of my tools were stolen. I'm sure you don't believe me, so you might as well have a look
@@ -40,7 +40,7 @@
 {183}{}{HA! If you think I'm so guilty, why don't you just shoot me and get it over with. You little
  punk, come and get me!}
 {184}{}{How did you find it? I hid that safe so nobody would be able to find it. You must be a
- professional thief. Hmm… where were you when the gold watch disappeared? I think you'd better leave,
+ professional thief. Hmm... where were you when the gold watch disappeared? I think you'd better leave,
  and nothing better be missing from the safe or I'll have Sheriff Jo on ya. Now get out!}
 {185}{}{Modoc is a small community of farmers and ranchers. We supply most of the food for the
  surrounding towns and cities by trading our crops for various essentials. It's actually a very nice
@@ -62,7 +62,7 @@
 {196}{}{That would be wonderful. I can't thank you enough. My garden is little ways east of here. Come
  with me, I'll show you.}
 {197}{}{Thank you! You are truly a hero amongst heroes. Not many people would risk their lives for a
- total stranger. Thank you! Thank you! Thank you… [You get this warm fuzzy feeling all the way down to
+ total stranger. Thank you! Thank you! Thank you... [You get this warm fuzzy feeling all the way down to
  your toes.]}
 {198}{}{Can I ask you a few more questions?}
 {199}{}{I'd rather starve than tarnish my good name! Go to hell!}
@@ -82,7 +82,7 @@
 {206}{}{Ooga right back at ya. How would you like to do old Farrel a favor, my slope-foreheaded little
  friend? I have this little vermin problem in my garden. Make the little pests go away and I'll give
  you a reward.}
-{207}{}{No, no, no… me no do.}
+{207}{}{No, no, no... me no do.}
 {208}{}{Yep. I do.}
 {209}{}{Bye bye!}
 {210}{}{Then get out, you dimwitted cave dweller!}

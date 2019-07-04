@@ -19,14 +19,14 @@
 {212}{}{Beginning system diagnostics...35% complete...75% complete...100% complete. All systems appear operational. Checking for response from docking rig...}
 {213}{}{[MORE]}
 {214}{}{No signal returned from docking rig. Reason: Satellites not aligned for automated docking with Oil Rig. Please make sure docking rig is aware of the presence of incoming aircrafts.}
-{215}{}{Hmm...Looks like I will have to find a way to align the satellites.}
+{215}{}{Hmm... Looks like I will have to find a way to align the satellites.}
 {216}{}{Urg?}
 
 {220}{}{Aircraft currently activated. Command?}
 {221}{}{Run pre-flight diagnostics.}
 {222}{}{Log off.}
 
-{230}{}{Test signal received. Retrieving docking coordinates...complete. Aircraft ready for takeoff.}
+{230}{}{Test signal received. Retrieving docking coordinates... complete. Aircraft ready for takeoff.}
 {231}{}{Go.}
 {232}{}{Log off.}
 
@@ -35,7 +35,7 @@
  aches, and I don't remember the last time I ate a decent meal. These are the moments we live for. There's no turning back.
  It's time to show the world what }
 {242}{}{ is made of. Bring it on, Enclave!}
-{243}{}{Hehe...Fly birdie, fly! }
+{243}{}{Hehe... Fly birdie, fly! }
 {244}{}{ save day now.}
 
 #beat enclave...

@@ -15,7 +15,7 @@
 
 {400}{}{Greetings friend.}
 {401}{}{This is private property. Don't loiter too long.}
-{402}{}{You like slavers? I sure hope not...for your sake.}
+{402}{}{You like slavers? I sure hope not... for your sake.}
 
 {500}{}{What the!? Slavers? How the hell did they find us? We must defend ourselves. Attack!}
 {501}{}{Wait! I'm on your side. I was just bringing you some target practice. (turn to the Slavers.) Sorry boys, I'm

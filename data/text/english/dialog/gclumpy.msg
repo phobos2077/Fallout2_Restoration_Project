@@ -34,7 +34,7 @@
 {154}{}{I have some questions for you.}
 {155}{}{Oh, okay. I'll talk to Skeeter then. Thanks.}
 
-{160}{}{Hello there. Since you've already invited yourself in -— what can I do for you?}
+{160}{}{Hello there. Since you've already invited yourself in -- what can I do for you?}
 {161}{}{Me hungry.}
 {162}{}{Uh, I was wondering where Skeeter is?}
 {163}{}{I have some questions for you.}
@@ -58,7 +58,7 @@
 {192}{}{Interesting. Let me ask you something else.}
 {193}{}{I guess that's all I need to know for now. Goodbye.}
 
-{200}{}{Well, they said I wasn't human enough for them. I'm sorta radiation resistant -— perfect for
+{200}{}{Well, they said I wasn't human enough for them. I'm sorta radiation resistant -- perfect for
  here. But they didn't like it. Treated me like dirt.}
 {201}{}{Really?}
 
@@ -92,7 +92,7 @@
 {251}{}{Chad, huh? I'll keep that in mind. Let me ask you something else.}
 {252}{}{I guess that's all I need to know for now. Goodbye.}
 
-{260}{}{Well, some of this junk is left over from when they were building the reactor -— before the war.
+{260}{}{Well, some of this junk is left over from when they were building the reactor -- before the war.
  The rest of this stuff? I just don't know. Skeeter collects all kinds of stuff.}
 {261}{}{Who's Skeeter?}
 {262}{}{Interesting. I have another question for you.}
@@ -132,7 +132,7 @@
 {330}{}{I kinda had you pegged for that type when I first saw you, but I wasn't sure. Get out of here,
  you frigging nutcase!}
 {331}{}{Uh, yeah. Whatever. Goodbye.}
-{332}{}{Well, one of us is a nutcase -— I just think you're confused as to which one of us it is.}
+{332}{}{Well, one of us is a nutcase -- I just think you're confused as to which one of us it is.}
 
 {340}{}{Well, I don't know if they were people or what, but usually it's just every couple of nights.
  Noises coming and going from the reactor pit. I don't know what's going on, and I don't want to know,

@@ -63,7 +63,7 @@
 
 {220}{}{Well, you could get one from either Harold back in the settlement, or you could get one from
  Festus right here in the main reactor control room. I don't care who you get it from, as long as you
- get it. No Request Authorization, no parts -— that's the way it works.}
+ get it. No Request Authorization, no parts -- that's the way it works.}
 {221}{}{Did you get your Request Authorization form yet? Gotta have the form before I can give you any parts.}
 {222}{}{Oh, okay. Well, I better go get one, then. Goodbye.}
 # Added by Seraph

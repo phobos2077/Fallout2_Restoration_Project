@@ -32,7 +32,7 @@
 {125}{}{Ahh, right....So you say the place is falling apart?}
 {126}{}{Dead, you say? Well, in that case you're doing great. So good you can answer my next question.}
 
-{127}{hld4a}{Well, sorta. Our atomic reactor's a mite...sensitive. The people I got running it mean well, but... well, they are not the sharpest tools in the shed. If you know what I mean.}
+{127}{hld4a}{Well, sorta. Our atomic reactor's a mite... sensitive. The people I got running it mean well, but... well, they are not the sharpest tools in the shed. If you know what I mean.}
 {128}{hld4b}{Well, we're doing better now you've fixed our reactor. I'd never thought anybody'd get those idjits in Vault City to help us out.}
 {129}{hld4c}{You know, it's not so bad now. You fix the power plant, then you get the info we need to make it good-as-new. Golly-be-damned, ain't you somethin'?!}
 {130}{}{What do you mean?}
@@ -141,7 +141,7 @@
 {211}{}{Thanks, that's all I need to know for now. Goodbye.}
 
 {212}{hld34}{Jealous? His name's Herbert. I talk to him when I get lonely... Heh heh. Just kiddin'... His name's Bob.}
-{213}{}{Right...Well, maybe you or Bob will know the answer to this.}
+{213}{}{Right... Well, maybe you or Bob will know the answer to this.}
 {214}{}{Thanks, that's way more than I need to know for now. Goodbye.}
 
 {215}{hld35}{A Garden of Eden Creation Kit? A GECK, right? I seem to remember Vaults had those. Don't know where you'd find one today. }
@@ -186,7 +186,7 @@
 {244}{}{Enough reminiscing let me ask you something else.}
 
 {245}{hld44}{Well, I'd sure like to hear that.}
-{246}{}{The legend of the Vault Dweller starts with the Vault casting him out into the dry Wastes.... [You tell Harold the story of your ancestor]…and so that's why I'm looking for Vault 13 now.}
+{246}{}{The legend of the Vault Dweller starts with the Vault casting him out into the dry Wastes.... [You tell Harold the story of your ancestor]...and so that's why I'm looking for Vault 13 now.}
 
 {247}{hld45}{Thanks for telling. I sure was curious all these years. You sure got your work cut out for ya. Huh, ya know....}
 {248}{}{Know what?}
@@ -223,7 +223,7 @@
 {273}{}{Sounds like trouble. I need to run off and see what I can do. Bye.}
 
 {274}{hld53}{Well, they'd only help us if they thought it was in their own best interest to do so. Huh. Not much chance of that happening.}
-{275}{}{Hmm, you may be right. Still if someone could convince them that they should help you….}
+{275}{}{Hmm, you may be right. Still if someone could convince them that they should help you...}
 
 {276}{hld54}{They shoot ghouls on sight. Makes conversation a bit tricky.}
 {277}{}{I wonder if someone else could tell them.}

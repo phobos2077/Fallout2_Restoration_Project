@@ -19,13 +19,13 @@
 {220}{}{I think I'll take a look at another notice.}
 {230}{}{That's all the info that I need for now.}
 
-{240}{}{Booze -— gotcher 'tention didn't I? Bum laig prevents business. Need help refueling still.
+{240}{}{Booze -- gotcher 'tention didn't I? Bum laig prevents business. Need help refueling still.
  Speedy and reliable type needed. See Whiskey Bob over at Ma Buckner's place.}
 {250}{}{I think I'll take a look at another notice.}
 {260}{}{That's all the info that I need for now.}
 
 {270}{}{Missing Person. Has anyone seen Smiley the trapper? Smiley's about six feet tall, clean and
- housebroken (mostly). Disappeared up north and I kinda miss him. –Ardin Buckner}
+ housebroken (mostly). Disappeared up north and I kinda miss him. --Ardin Buckner}
 {280}{}{I think I'll take a look at another notice.}
 {290}{}{That's all the info that I need for now.}
 
@@ -34,18 +34,18 @@
 {320}{}{I think I'll take a look at another notice.}
 {330}{}{That's all the info that I need for now.}
 
-{340}{}{Too many damn rats in Trapper Town. Come an get 'em, all you can eat.-—Slim.}
+{340}{}{Too many damn rats in Trapper Town. Come an get 'em, all you can eat.--Slim.}
 {350}{}{I think I'll take a look at another notice.}
 {360}{}{That's all the info that I need for now.}
 
 {370}{}{Feelin' grubby? Nuthin' makes a feller feel better 'an a nice bath. Three fun-filled types to
- choose from! Featuring the beautiful and talented Jenny (late of the Den) -— See Big Nosed Sal at the
+ choose from! Featuring the beautiful and talented Jenny (late of the Den) -- See Big Nosed Sal at the
  Bathhouse for more excitin' details.}
 {380}{}{I think I'll take a look at another notice.}
 {390}{}{That's all the info that I need for now.}
 
 {400}{}{Jan-u-wine Antee-cues. They don't make it like they usta. In fact, they mostly don't make it at
- all. If you want the good old stuff, see Vic the Trader -— East side of Downtown.}
+ all. If you want the good old stuff, see Vic the Trader -- East side of Downtown.}
 {410}{}{I think I'll take a look at another notice.}
 {420}{}{That's all the info that I need for now.}
 

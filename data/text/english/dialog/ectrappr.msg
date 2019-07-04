@@ -26,7 +26,7 @@
  catch my drift. I'll make it worth your while.}
 {121}{}{Sure.}
 {122}{}{Not a chance. Bye.}
-{123}{}{[Miria will forgive you...eventually. But on the positive side, the trapper gave you some
+{123}{}{[Miria will forgive you... eventually. But on the positive side, the trapper gave you some
  pelts.]}
 {124}{}{[Davin seems no worse for wear after the experience.]}
 {125}{}{[You feel dirty in more than one sense of the word - but you got some gecko pelts.]}

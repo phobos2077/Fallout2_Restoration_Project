@@ -82,7 +82,7 @@
 # 13. Me Name (From 6)
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
-{322}{}{Uh…}
+{322}{}{Uh...}
 
 # 14. Dumb (From 6, 18)
 {330}{}{Beat it, freak.}

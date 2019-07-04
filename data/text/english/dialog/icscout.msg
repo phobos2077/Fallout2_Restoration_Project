@@ -202,8 +202,8 @@
 
 #[Node026]
 #From [Node025]
-{930}{}{W-Why...Why should Shadow Who Walks believe you? How did the Elder foresee such events?}
-{931}{}{Well...She was watching this movie once...No, no...Uh, she was playing this videogame...Mmmmm...Yes! It's called Fal-...}
+{930}{}{W-Why... Why should Shadow Who Walks believe you? How did the Elder foresee such events?}
+{931}{}{Well... She was watching this movie once... No, no... Uh, she was playing this videogame... Mmmmm... Yes! It's called Fal-...}
 {932}{}{She drank this drink, it smelled quite strong, and vivid dreams came to her.}
 {933}{}{The bone in here nose told her. This is how she communicates with our ancestors.}
 

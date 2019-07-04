@@ -27,8 +27,8 @@
 {139}{}{I have more questions.}
 {140}{}{Thanks. Bye.}
 
-{141}{}{Tell you about Broken Hills? Well… I moved here a few years back. Got a job with the Bill -–
- that's the Outfitter -– and moved up to where I am now. I report to Marcus and the Bill, but I'm
+{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
+ that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
 {142}{}{I have more questions.}
 {143}{}{Bye.}
@@ -45,7 +45,7 @@
 {157}{}{I have more questions.}
 {158}{}{Thanks. Bye.}
 
-{159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world… and I feel I
+{159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world... and I feel I
  contribute to the town here. It's a good life.}
 {160}{}{Sounds great. I'd like a job like that.}
 {161}{}{Actually, that sounds pretty boring.}

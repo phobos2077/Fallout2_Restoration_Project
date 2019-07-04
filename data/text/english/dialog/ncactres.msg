@@ -14,9 +14,9 @@
 {203}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
 
 # 2. [FEMALE, ENCLAVE IS DESTROYED]
-{210}{}{I suppose I should thank you for saving the world. Uh…thanks.}
+{210}{}{I suppose I should thank you for saving the world. Uh... thanks.}
 {211}{}{I heard you're the one who kicked the Enclave's ass. I'm impressed.}
-{212}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure. Uh, can you try and get me a part…?}
+{212}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure. Uh, can you try and get me a part...?}
 
 # 3. [POWER ARMOR]
 {220}{}{Could you PLEASE stop tromping around in that get-up? I'm trying to memorize my lines.}
@@ -28,12 +28,12 @@
 {231}{}{Looking fine, }
 {232}{}{Hey there, honey! You taking care of yourself?}
 {233}{}{I'm not getting paid NEARLY enough.}
-{234}{}{Let's see… "Oh god"… "Give it to me…" Dammit! What's that next line?!}
+{234}{}{Let's see... "Oh god"... "Give it to me..." Dammit! What's that next line?!}
 {235}{}{Yes, but what's my MOTIVATION for this scene?}
-{236}{}{Let's see…(Studies script)… he walks in, we have sex. Got it.}
+{236}{}{Let's see...(Studies script)... he walks in, we have sex. Got it.}
 {237}{}{What I really want to do is direct.}
 {238}{}{Thank God they finally installed that padded headboard.}
-{239}{}{I don't know what the Corsican Brothers SEE in her…}
+{239}{}{I don't know what the Corsican Brothers SEE in her...}
 {240}{}{I wish she'd leave for good.}
 {241}{}{She crimps my style.}
 {242}{}{Oh, she's a man-eater all right, a regular cannibal.}
@@ -46,10 +46,10 @@
 {252}{}{Looking for me?}
 {253}{}{Why don't you come around more often?}
 {254}{}{I got an opening you can fill.}
-{255}{}{About time a real man showed up in here…}
-{256}{}{Let's see… "Oh god"… "Give it to me…" Damn! What's that next line?}
+{255}{}{About time a real man showed up in here...}
+{256}{}{Let's see... "Oh god"... "Give it to me..." Damn! What's that next line?}
 {257}{}{Yes, but what's my MOTIVATION for this scene?}
-{258}{}{Let's see…(Studies script)… he walks in, we have sex. Got it.}
+{258}{}{Let's see...(Studies script)... he walks in, we have sex. Got it.}
 {259}{}{What I really want to do is direct.}
 {260}{}{Thank God they finally installed that padded headboard.}
 
@@ -59,10 +59,10 @@
 {267}{}{Looking for me?}
 {268}{}{Why don't you come around more often?}
 {269}{}{I got an opening you can fill.}
-{270}{}{About time a real man showed up in here…}
-{271}{}{Let's see… "Oh god"… "Give it to me…" Damn! What's that next line?}
+{270}{}{About time a real man showed up in here...}
+{271}{}{Let's see... "Oh god"... "Give it to me..." Damn! What's that next line?}
 {272}{}{Yes, but what's my MOTIVATION for this scene?}
-{273}{}{Let's see…(Studies script)… he walks in, we have sex. Got it.}
+{273}{}{Let's see...(Studies script)... he walks in, we have sex. Got it.}
 {274}{}{What I really want to do is direct.}
 {275}{}{Thank God they finally installed that padded headboard.}
 
@@ -70,9 +70,9 @@
 {280}{}{What's that smell?}
 {281}{}{Great. Another tribal shit-kicker.}
 {282}{}{Don't talk to me.}
-{283}{}{Let's see…"Oh god"… "Give it to me…" Damn! What's that next line?}
+{283}{}{Let's see..."Oh god"... "Give it to me..." Damn! What's that next line?}
 {284}{}{Yes, but what's my MOTIVATION for this scene?}
-{285}{}{Let's see…(Studies script)…he walks in, we have sex. Got it.}
+{285}{}{Let's see...(Studies script)...he walks in, we have sex. Got it.}
 {286}{}{What I really want to do is direct.}
 {287}{}{Thank God they finally installed that padded headboard.}
 {288}{}{I'd prefer it if you didn't talk when you speak to me. Think quietly to yourself, then pretend I'm responding to you.}
@@ -97,7 +97,7 @@
 {312}{}{These shoots are stretch... er, wearing me out.}
 {313}{}{I think we're FINALLY doing a scene together.}
 {314}{}{My boyfriends don't know I work here. Not that I care what they think.}
-{315}{}{I haven't seen the Brothers around…try the office, maybe?}
+{315}{}{I haven't seen the Brothers around... try the office, maybe?}
 {316}{}{I don't really care where it goes, just make sure the camera gets the money shot.}
 {317}{}{You're a man of passion and mystery. A man of lust.}
 {318}{}{Well, we can do it whatever way is most comfortable for you.}
@@ -113,12 +113,12 @@
 {331}{}{Are you the French girl or the Russian girl in the next scene?}
 {332}{}{I wish the birth control was a little more reliable.}
 {333}{}{Did you steal my high heels?}
-{334}{}{I'm feeling a little tired… got any Jet?}
+{334}{}{I'm feeling a little tired... got any Jet?}
 {335}{}{Hmphhh!}
 {336}{}{No, I'm sorry, sweetheart. I don't know where the Brothers are.}
 {337}{}{Show you the way out?}
 {338}{}{Have you put on some weight?}
-{339}{}{Could you please step back a little. Your… fragrance… is making me nauseous.}
+{339}{}{Could you please step back a little. Your... fragrance... is making me nauseous.}
 {340}{}{I heard the Brothers are about to let you go. Sorry, SUCH a shame.}
 {341}{}{I guess if a no-talent like you can make it, I'm destined for even better things.}
 {342}{}{Your ass is so plump! How cute!}
@@ -155,11 +155,11 @@
 {381}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
 {382}{}{Love your outfit. Tres chic.}
 {383}{}{That outfit looks great on you.}
-{384}{}{What do you wa… oh! Ma'am! Welcome to the studio.}
+{384}{}{What do you wa... oh! Ma'am! Welcome to the studio.}
 {385}{}{My boyfriends don't know I work here. Not that I care what they think.}
-{386}{}{Um…you couldn't set me up with a little Jet, could you, ma'am?}
+{386}{}{Um... you couldn't set me up with a little Jet, could you, ma'am?}
 {387}{}{These shoots are stretch... er, wearing me out.}
-{388}{}{Am I doing anything later? Er… no, ma'am. Not at all.}
+{388}{}{Am I doing anything later? Er... no, ma'am. Not at all.}
 {389}{}{What's it like working for the boss?}
 {390}{}{The boss ever talk about me?}
 
@@ -184,8 +184,8 @@
 {420}{}{You're not going to have any luck getting into my pants. There's only room for one asshole in there.}
 {421}{}{I'm sorry, I thought you were good looking, but I was mistaken.}
 {422}{}{You? Sorry, I'll NEVER be that desperate.}
-{423}{}{I haven't seen the Brothers around… now don't bother me. I'm an actress.}
-{424}{}{Please… no autographs.}
+{423}{}{I haven't seen the Brothers around... now don't bother me. I'm an actress.}
+{424}{}{Please... no autographs.}
 {425}{}{I really want to direct.}
 {426}{}{I'm dancing at the casinos on Thursday. Catch my act and bring some chips.}
 {427}{}{You couldn't possibly imagine the stress of my life.}
@@ -195,8 +195,8 @@
 {431}{}{You the new fluffer?}
 {432}{}{You the new janitor? I don't imagine what else you could be.}
 {433}{}{If you're the new janitor, you could start by wiping my ass.}
-{434}{}{I haven't seen the Brothers around, girl…now don't bother me. I'm an actress.}
-{435}{}{Please, girl… no autographs.}
+{434}{}{I haven't seen the Brothers around, girl... now don't bother me. I'm an actress.}
+{435}{}{Please, girl... no autographs.}
 {436}{}{MAYBE if you cleaned yourself up some more, you could be a fluffer.}
 {437}{}{Sorry, no, I couldn't be a lesbian for less than 200 chips. For you, 300.}
 {438}{}{I'm dancing at the casinos on Thursday. Catch my act and bring some chips.}

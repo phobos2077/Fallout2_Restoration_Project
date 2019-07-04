@@ -18,7 +18,7 @@
 {211}{}{? Go on up. Just don't be waving that weapon around him.}
 
 # 4. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [SNEAK] (WTG)
-{215}{}{Uh, look… Bishop's expecting you, right, }
+{215}{}{Uh, look... Bishop's expecting you, right, }
 {216}{}{? Go on up. Turn off the sneak, though.}
 
 # 5. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [NORMAL] (WTG)
@@ -27,7 +27,7 @@
 # 6. FLOAT/CLICK DIALOGUE: MADE MAN, FA=NOT BISHOP (WTG)
 {225}{}{You just walked into the WRONG place, dipshit.}
 {226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
-{227}{}{This guy's asking for trouble…}
+{227}{}{This guy's asking for trouble...}
 {228}{}{You better leave, }
 {229}{}{Well, if it isn't }
 {230}{}{I hear the }
@@ -35,7 +35,7 @@
 {232}{}{You just walked into the WRONG place, bitch.}
 {233}{}{Well, look at the swagger on this bitch...}
 {234}{}{Get, girl. Before we gun you down.}
-{235}{}{This bitch's asking for trouble…}
+{235}{}{This bitch's asking for trouble...}
 {236}{}{I hear the }
 
 # 8. FLOAT DIALOGUE: MALE, PRIZEFIGHTER [ARMED] (WTG)
@@ -173,7 +173,7 @@
 {467}{}{I'm }
 {468}{}{.}
 {469}{}{You don't need my name. Just let me see him.}
-{471}{}{Forget it. You don't need to check…I'll be going.}
+{471}{}{Forget it. You don't need to check... I'll be going.}
 
 # 33. HE'S EXPECTING ME (REFUSE) (32)
 {475}{}{(The guard steps away for a moment, opens a panel on one of the walls and whispers something. He waits for a minute, listens, then turns back to you.) }
@@ -198,7 +198,7 @@
 # 36. MADE MAN (35)
 {505}{}{Sure, go on up, }
 {506}{}{. }
-{507}{}{Next time, don't even sweat asking…just head on up.}
+{507}{}{Next time, don't even sweat asking... just head on up.}
 {508}{}{Thanks.}
 
 # END LINES

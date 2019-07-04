@@ -55,7 +55,7 @@
 {189}{}{[At around the 34th fry, you start to feel the effects of overeating. A crowd has gathered to
  witness the historic event of the old record being broken. In an attempt to regain your composure, you
  strike up a conversation with Rose.]}
-{190}{}{[You pop a fry into your mouth.] 'Mmff… splt… mnch…' Don't talk with your mouth full, dear. [You
+{190}{}{[You pop a fry into your mouth.] 'Mmff... splt... mnch...' Don't talk with your mouth full, dear. [You
  swallow.]}
 {191}{}{How do you prepare these? If it's not a secret or anything, I know some people back home who
  would love these.}
@@ -101,7 +101,7 @@
  rotting bodies tied to stakes, and glowing shapes moving through the fields at night. I don't know how
  much of this is true, but I do know a while back Karl moved out there and hasn't been seen since.}
 {218}{}{Ah, you've had the desert omelet. Delicious, wasn't it? Some people say it has healing
- properties. [She looks around nervously.] Oh! Some customers just came in. I'll be right back. [Hmm…
+ properties. [She looks around nervously.] Oh! Some customers just came in. I'll be right back. [Hmm...
  She never answered your question.]}
 {220}{}{Our burgers are made of nothing but the choicest, select, grade-A dog. The meat is ground up and
  made into half-pound patties. And to give it that unique smoky flavor, they are slow grilled over dried
@@ -115,7 +115,7 @@
  some?}
 {226}{}{Yes! I need water desperately.}
 {227}{}{Actually, I'm really hungry.}
-{228}{}{I'm sorry, we stopped serving omelets. Some fool broke into our coop and killed our… chicken.}
+{228}{}{I'm sorry, we stopped serving omelets. Some fool broke into our coop and killed our... chicken.}
 {229}{}{I'm really hungry, so let's see what else you have.}
 {230}{}{I was really looking forward to your world-famous omelet. I guess I'll go hungry.}
 {231}{}{Ahh! Oogie!}

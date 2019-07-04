@@ -32,7 +32,7 @@
  your job better, things would be different.}
 {126}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
 {127}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
-{128}{}{We didn't quite lose everything we had...but we lost more than I can afford. If you'd done your
+{128}{}{We didn't quite lose everything we had... but we lost more than I can afford. If you'd done your
  job right, you'd be getting more than this $500.}
 {129}{}{Well, something is better than nothing, I guess. Goodbye.}
 {130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}

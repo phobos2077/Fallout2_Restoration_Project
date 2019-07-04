@@ -3,7 +3,7 @@
 {102}{}{You see someone wearing a military uniform but they appear to be more a tech than a soldier.}
 
 {103}{}{Hey. How's it going?}
-{104}{}{'Roger that, I've got you on the scope' – sorry, but I'm in the middle of something right now.}
+{104}{}{'Roger that, I've got you on the scope' -- sorry, but I'm in the middle of something right now.}
 {105}{}{I can't talk right now.}
 {106}{}{Feel free to look, but don't touch.}
 

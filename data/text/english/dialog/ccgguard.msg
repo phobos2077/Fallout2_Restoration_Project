@@ -2,7 +2,7 @@
 {101}{}{You see the gate guard.}
 {102}{}{You see a guard wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.}
 
-{103}{gate1}{Halt! This is federal property – no admittance without proper authorization.}
+{103}{gate1}{Halt! This is federal property -- no admittance without proper authorization.}
 {104}{}{Uh... fed ur al?}
 {105}{}{Me got pass... where I put?}
 {106}{}{Me new. Me told you expect.}
@@ -37,12 +37,12 @@
 {129}{gate7b}{(mumbles) Damn jarheads are getting dumber by the hour.}
 {130}{}{Ok.}
 
-{131}{gate8a}{Halt! – Oh. I see you've returned and you're alone this time. All right, recruit, what's the password?}
-{132}{gate8b}{Halt! – You again. I see you've still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
+{131}{gate8a}{Halt! -- Oh. I see you've returned and you're alone this time. All right, recruit, what's the password?}
+{132}{gate8b}{Halt! -- You again. I see you've still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
 {133}{}{Sheepshead.}
 {134}{}{Yes.}
 
-{135}{gate9}{Halt! – Back again, huh? You'd better have your pass or know your password this time. Well, I'm waiting?}
+{135}{gate9}{Halt! -- Back again, huh? You'd better have your pass or know your password this time. Well, I'm waiting?}
 {136}{}{Uh... me not know. Me come back.}
 {137}{}{Screw this. Me walk in over you dead body.}
 {138}{}{Look, I lost my pass...}
@@ -54,7 +54,7 @@
 {143}{}{All right, I'm going.}
 {144}{}{In the words of the ancients... Fuck you!}
 
-{145}{gate11a}{Halt! – You again? You were warned. Alarm! Intruder at the gate! }
+{145}{gate11a}{Halt! -- You again? You were warned. Alarm! Intruder at the gate! }
 {146}{}{Damn!}
 
 # Floats

@@ -6,7 +6,7 @@
 0. LOOK (NORMAL)
 {150}{}{You see a slot machine. You swear you can see it looking at you out of the corner of your eye.}
 {151}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights.}
-{152}{}{You see a glittering slot machine. It is intended for high-rollers…minimum bet is }
+{152}{}{You see a glittering slot machine. It is intended for high-rollers... minimum bet is }
 {153}{}{ chips.}
 {154}{}{You see a glittering slot machine.}
 
@@ -14,7 +14,7 @@
 {160}{}{*Come play me for a second, cowboy.*}
 {161}{}{*Hello there, sailor.*}
 {162}{}{*Put in a chip, pull the arm. I'll be nice to you.*}
-{163}{}{*Tick…Tick…Tiiiiick…*}
+{163}{}{*Tick... Tick... Tiiiiick...*}
 {164}{}{*Hey there, beautiful. Come play me for a second.*}
 {165}{}{*Hello there, beautiful.*}
 {166}{}{*Well ain't you a pretty lil' thing. Why don't you come play me?*}
@@ -52,18 +52,18 @@
 {213}{}{Leave.}
 
 6.  RETARD PULLS HANDLE (4, 5)
-{220}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box speaks! "Please…insert…money."}
+{220}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box speaks! "Please... insert... money."}
 {221}{}{Aighhhhh! Robot! Robot! Runnnnn}
 {222}{}{Leave.}
 
 7.  NO MONEY (WTG, 9)
-{225}{}{You have enough money to play the slots, and you curse your poverty. Perhaps another time…}
+{225}{}{You have enough money to play the slots, and you curse your poverty. Perhaps another time...}
 {226}{}{Leave.}
 
 8.  PLAY. . . ? (WTG, 14, 15)
 {230}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. It's coin slot beckons you, and you feel your face flush with anticipation.}
-{231}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar…that's it…come on now…don't tease…*}
-{232}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey…that's it…grab the handle…grip it firmly…come on now…*}
+{231}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar... that's it... come on now... don't tease...*}
+{232}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey... that's it... grab the handle... grip it firmly... come on now...*}
 {233}{}{You have }
 {234}{}{ chip to your name. Risk it all?}
 {235}{}{You have }
@@ -75,8 +75,8 @@
 {241}{}{Call it a day.}
 
 9.  LOOOOOOSER (8)
-{245}{}{The chamber spin, and…come up nothing.}
-{246}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged…the Bouncers are forced to pry your screaming body off the machine.}
+{245}{}{The chamber spin, and... come up nothing.}
+{246}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged... the Bouncers are forced to pry your screaming body off the machine.}
 {247}{}{(The machine chuckles.) *I got what I want out of this relationship. Sorry, sweetheart. Don't let the casino door hit you in the ass on the way out. Ha ha ha ha ha ha.*}
 {248}{}{You now have }
 {249}{}{ chips remaining. Chase your losses and keep playing?}
@@ -89,8 +89,8 @@
 
 10.  WIN x1 (8)
 {260}{}{Three daggers. You break even.}
-{261}{}{(The machine continues to whisper at you.) *Come on, sugar…it happens to every one at least once…try again…please…*}
-{262}{}{(The machine continues to whisper at you.) *Come on, sweetheart…try it again…grab the handle…grip it firmly…come on now…*}
+{261}{}{(The machine continues to whisper at you.) *Come on, sugar... it happens to every one at least once... try again... please...*}
+{262}{}{(The machine continues to whisper at you.) *Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
 {263}{}{You still have }
 {264}{}{ chip. Keep playing?}
 {265}{}{You now still have }
@@ -100,8 +100,8 @@
 
 11.  WIN x2 (8)
 {275}{}{Three Bullets! You double your money!}
-{276}{}{(The machine gives a gasp of pleasure.) *That's it, sugah…keep pulling the handle…faster, harder, faster…come on now…*}
-{277}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart…keep pulling the handle…faster, harder, faster…come on now…*}
+{276}{}{(The machine gives a gasp of pleasure.) *That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
+{277}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
 {278}{}{You now have }
 {279}{}{ chips! Keep playing?}
 {280}{}{Call it a night.}
@@ -122,12 +122,12 @@
 {305}{}{(You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. Its coin slot beckons you, and you feel your face flush with anticipation. As you stare at it, one of its three windows winks at you. From the coin slot you hear a throaty voice.) *Well, my word! Helloooo there, sugah. Show a girl a good time?*}
 {306}{}{(You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath New Reno's lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.) *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*}
 {307}{}{::Pinch self::}
-{308}{}{Uh…hello?}
+{308}{}{Uh... hello?}
 {309}{}{::Take a deep breath, walk away.::}
 
 14. DRUNK CONVERSATION 1 (13)
-{315}{}{*I'm still here, pretty lady.* (The slot machine lowers its voice.) *Look, come on…you want to place a bet?*}
-{316}{}{*Ah'm still here, sugah.* (The slot machine lowers its voice.) *You're one fine hunka man, you know that? Come on now…you wanna stick some chips in lil' old me?*}
+{315}{}{*I'm still here, pretty lady.* (The slot machine lowers its voice.) *Look, come on... you want to place a bet?*}
+{316}{}{*Ah'm still here, sugah.* (The slot machine lowers its voice.) *You're one fine hunka man, you know that? Come on now... you wanna stick some chips in lil' old me?*}
 {317}{}{Whooo ARE yoooo?}
 {318}{}{Surrh I'll plasssh a bet in yooo}
 {319}{}{I think I better leave before I stick something in you I might regret.}
@@ -144,41 +144,41 @@
 16. DRUNK 3 (15)
 {335}{}{*Course we can, sweetheart, course we can.* (The slot machine looks sympathetic.) *What's troubling your pretty little head?*}
 {336}{}{*Course we can, sugah, course we can.* (The slot machine looks sympathetic.) *What's troubling you, handsome?*}
-{337}{}{Me miss MOM and miss ARROYO and I…canna find the GECK and…*sniff*}
-{338}{}{Me miss MOM and Arroyo wuz ATTACKED and I…dunna where they are…and…*sniff*}
-{339}{}{Me need to fix big ship…and I dunna know HOW…and muh-muh-my Mom's GONE and…*sniff*}
-{340}{}{I finsshed the game…anna now I'm jusht wandrin' round and…ah'm worried itz all OVER and…*sniff*}
+{337}{}{Me miss MOM and miss ARROYO and I... canna find the GECK and...*sniff*}
+{338}{}{Me miss MOM and Arroyo wuz ATTACKED and I... dunna where they are... and...*sniff*}
+{339}{}{Me need to fix big ship... and I dunna know HOW... and muh-muh-my Mom's GONE and...*sniff*}
+{340}{}{I finsshed the game... anna now I'm jusht wandrin' round and... ah'm worried itz all OVER and...*sniff*}
 {341}{}{It's jusht that Fhallowt tooo doesnt s'port my 3D Fxxxx card an I spend so much *monee* onnit and *sniff*}
-{342}{}{I tried ta get a good charactrr but I think I spent the pointz all *wrong*…n' now I ave a shitteee charactrr…n'…*sniff*}
+{342}{}{I tried ta get a good charactrr but I think I spent the pointz all *wrong*...n' now I ave a shitteee charactrr... n'...*sniff*}
 {343}{}{ah'm havinn a conversashun with a slot macheen, ah'm pretty bad off}
 {344}{}{::Take a deep breath, walk away.::}
 
 17. DRUNK 4 (16)
-{350}{}{*There, there...don't trouble your pretty little head about it no more…just let me take care of everything. C'mon, rest your head on me. There you go. Let it all out.*}
-{351}{}{*There, there...don't trouble yourself about it no more, sugah…just let me take care of everything. C'mon, rest your handsome head on me. There you go. Let it all out.*}
+{350}{}{*There, there... don't trouble your pretty little head about it no more... just let me take care of everything. C'mon, rest your head on me. There you go. Let it all out.*}
+{351}{}{*There, there... don't trouble yourself about it no more, sugah... just let me take care of everything. C'mon, rest your handsome head on me. There you go. Let it all out.*}
 {352}{}{Thanks, slot macheen *sniff* yer the best}
-{353}{}{Yooo onlee NICE pershun I met so far everybodee else is so meeen n' tried ta HURT me an' take my monee and…*sniff*}
+{353}{}{Yooo onlee NICE pershun I met so far everybodee else is so meeen n' tried ta HURT me an' take my monee and...*sniff*}
 {354}{}{::Take a deep breath, walk away.::}
 
 18. DRUNK 5 (17)
 {360}{}{(You rest your weary head on the machine.)}
 {361}{}{*You going be all right, sweetheart? I don't feel comfortable letting you go out alone when you're like this.*}
 {362}{}{*You going be all right, sugah? Ah don't feel comfortable letting you go out alone when you're like this.*}
-{363}{}{I'll be all rite…thasnk fer talkin' with me, slot macheen I loooove you}
+{363}{}{I'll be all rite... thasnk fer talkin' with me, slot macheen I loooove you}
 
 19. DRUNK 6 (18)
 {370}{}{(A tear seems to form on one of the windows.)}
 {371}{}{*You're the only heroine we got in this two-bit world of bastards and thieves, }
 {372}{}{. You take care of yourself now, you hear, sweetheart?* (Turns away.) *You better go fore I start acting unmanly.*}
 {373}{}{*You're the only hero we got in this two-bit world of bastards and thieves, }
-{374}{}{. You…you…take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}
+{374}{}{. You... you... take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}
 {375}{}{Byeeeee}
 
 20.  PLAY, HIGH-ROLLING MACHINE. . . ? (WTG, 14, 15, 21, 22, 23, 24)
 {380}{}{You see a high-rolling slot machine - minimum bet is }
 {381}{}{ chips. Its glittering frame and golden handle gleam seductively beneath New Reno's lights. It's coin slot beckons you, and you feel your face flush with anticipation.}
-{382}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar…that's it…come on now…don't tease…*}
-{383}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey…that's it…grab the handle…grip it firmly…come on now…*}
+{382}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar... that's it... come on now... don't tease...*}
+{383}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey... that's it... grab the handle... grip it firmly... come on now...*}
 {384}{}{You have }
 {385}{}{ chips left. Risk it all?}
 {386}{}{You have }
@@ -190,8 +190,8 @@
 {392}{}{Call it a day.}
 
 21.  LOOOOOOSER, HIGH-ROLLING (20)
-{400}{}{The chamber spin, and…come up nothing.}
-{401}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged…the Bouncers are forced to pry your screaming body off the machine.)}
+{400}{}{The chamber spin, and... come up nothing.}
+{401}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged... the Bouncers are forced to pry your screaming body off the machine.)}
 {402}{}{(The machine chuckles.) *I got what I want out of this relationship. Sorry, sweetheart. Don't let the casino door hit you in the ass on the way out. Ha ha ha ha ha ha.*}
 {403}{}{You now have }
 {404}{}{ chips remaining. Chase your losses and keep playing?}
@@ -203,9 +203,9 @@
 {410}{}{Call it a day.}
 
 22.  WIN x1, HIGH-ROLLING (20)
-{415}{}{Three bombs…you break even.}
-{416}{}{(The machine continues to whisper at you.) *Come on, sugar…it happens to every one at least once…try again…please…*}
-{417}{}{(The machine continues to whisper at you.) *Come on, sweetheart…try it again…grab the handle…grip it firmly…come on now…*}
+{415}{}{Three bombs... you break even.}
+{416}{}{(The machine continues to whisper at you.) *Come on, sugar... it happens to every one at least once... try again... please...*}
+{417}{}{(The machine continues to whisper at you.) *Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
 {418}{}{You still have }
 {419}{}{ chips. Keep playing?}
 {420}{}{Call it a night.}
@@ -213,8 +213,8 @@
 
 23.  WIN x2, HIGH-ROLLING (20)
 {425}{}{Three Nukes! You double your money!}
-{426}{}{(The machine gives a gasp of pleasure.) *That's it, sugah…keep pulling the handle…faster, harder, faster…come on now…*}
-{427}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart…keep pulling the handle…faster, harder, faster…come on now…*}
+{426}{}{(The machine gives a gasp of pleasure.) *That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
+{427}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
 {428}{}{You now have }
 {429}{}{ chips! Keep playing?}
 {430}{}{Call it a night.}

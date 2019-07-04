@@ -14,7 +14,7 @@
 {112}{}{Let me ask you something else.}
 {113}{}{Jet? What's Jet?}
 {114}{}{I see. Goodbye.}
-{115}{}{Jet is so expensive lately. It's just criminal. Speaking of which…I hear that our cherished
+{115}{}{Jet is so expensive lately. It's just criminal. Speaking of which... I hear that our cherished
  Mayor Ascorti is working to get us more Jet. Always a champion of the masses, that man is.}
 {116}{}{Let me ask you something else.}
 {117}{}{Mayor Asctorti? Who is that exactly?}
@@ -31,7 +31,7 @@
 {125}{}{Let me ask you something else.}
 {126}{}{Jet? What's Jet?}
 {127}{}{I see. Goodbye.}
-{128}{}{I am…Madame Modjeska. What do you wish of me?}
+{128}{}{I am... Madame Modjeska. What do you wish of me?}
 {129}{}{What can I help you with?}
 {130}{}{I don't have time to waste. What do you want of Madame Modjeska?}
 {131}{}{I can hardly be bothered with this now. What do you want?}
@@ -78,7 +78,7 @@
 {166}{}{I don't see what that has to do with politics.}
 {167}{}{Yeah, sure. I've heard enough, Madame Modjeska. Goodbye.}
 {168}{}{In this game, Redding is the greased brahmin - and a golden one at that. New Reno, the New
- California Republic, and Vault City are all trying to catch us...or at least keep the others from
+ California Republic, and Vault City are all trying to catch us... or at least keep the others from
  catching us.}
 {169}{}{What do you mean?}
 {170}{}{That's nice. Well, I better be going, Madame. Thanks for the insight. Goodbye.}

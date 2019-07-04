@@ -49,7 +49,7 @@
 {148}{}{Sounds good. I'd like to take the test again.}
 {149}{}{Can I ask you some other questions?}
 {150}{}{I see. Maybe we'll talk again later.}
-{151}{}{It is a comprehensive exam, divided into several parts...advanced mathematics, spatial relations, deductive reasoning, language comprehension... oh, and there is also a thorough physical examination.}
+{151}{}{It is a comprehensive exam, divided into several parts... advanced mathematics, spatial relations, deductive reasoning, language comprehension... oh, and there is also a thorough physical examination.}
 {152}{}{Wh... advanced math-ma-what? Uh, isn't there some object I can get or someone I can fight to get Citizenship?}
 {153}{}{Sounds... complicated. Uh, can I take the test?}
 {154}{}{Sounds difficult. I'd like to take the test, if I can.}
@@ -64,7 +64,7 @@
 {163}{}{I'll give the test again, then.}
 {164}{}{Hmmm. Can I ask you some other questions?}
 {165}{}{Thanks for your time. Goodbye.}
-{166}{}{You wish to take the test? Excellent, excellent! Nothing pleases me more than testing potential applicants...but I must warn you, the test is several hours long. Do you wish to take it now?}
+{166}{}{You wish to take the test? Excellent, excellent! Nothing pleases me more than testing potential applicants... but I must warn you, the test is several hours long. Do you wish to take it now?}
 {167}{}{Well, anyone may take the test. I think in your case, however, it would be a waste of time... for both of us. Someone of your caliber is simply not Citizen material.}
 {168}{}{Sure.}
 {169}{}{Not now. Can I ask you some other questions?}
@@ -82,7 +82,7 @@
 {181}{}{Already did. Here.}
 {182}{}{Wait! Just a minute more... oh, forget it. Here.}
 {183}{}{Hmmm... no, no... that's wrong... that's not right, either... a divide by zero error here... hmmm... needed to carry the two... oh my, your vocabulary is sadly lacking as well, I see.}
-{184}{}{Let's see... I see you missed spotting the sub-derivative equation...and you missed the essential meaning of paragraph seven, both parts...  and the pyramid in this diagram can be crossed eight times, not three.}
+{184}{}{Let's see... I see you missed spotting the sub-derivative equation... and you missed the essential meaning of paragraph seven, both parts...  and the pyramid in this diagram can be crossed eight times, not three.}
 {185}{}{Well, the answers you DID manage to put down seem fine... it's the timeliness in which you took the test... and the glaring grammatical errors and...}
 {186}{}{So...?}
 {187}{}{Well, I regret to inform you I cannot grant you Citizenship at this time.}

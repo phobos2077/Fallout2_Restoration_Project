@@ -23,12 +23,12 @@
 {180}{}{Its high payoff amount seems mighty attractive. }
 
 # slot machine first play message
-{200}{}{(Your hand quivers as you reach for your coins. The machine continues to whisper at you.) *Come on, sugar…that's
- it…come on now…don't tease…*}
+{200}{}{(Your hand quivers as you reach for your coins. The machine continues to whisper at you.) *Come on, sugar... that's
+ it... come on now... don't tease...*}
 {201}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath the lights. Its coin slot
  beckons you, and you feel your face flush with anticipation.}
-{202}{}{(Your hand quivers as you reach for your coins. The machine continues to whisper at you.) *Come on, honey…that's
- it…grab the handle…grip it firmly…come on now…*}
+{202}{}{(Your hand quivers as you reach for your coins. The machine continues to whisper at you.) *Come on, honey... that's
+ it... grab the handle... grip it firmly... come on now...*}
 
 # insert coin messages
 {250}{}{Insert $}
@@ -82,7 +82,7 @@
 {2000}{}{*Come play me for a second, cowboy.*}
 {2001}{}{*Hello there, sailor.*}
 {2002}{}{*Put in a cap, pull the arm. I'll be nice to you.*}
-{2003}{}{*Tick… Tick… Tiiiiick…*}
+{2003}{}{*Tick... Tick... Tiiiiick...*}
 {2004}{}{*Ding*}
 {2005}{}{*Bing*}
 {2006}{}{*Kaaa-ching*}
@@ -95,7 +95,7 @@
 
 # 3.  NO MONEY (WTG, 9)
 # no money to play
-{2175}{}{(You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time…)}
+{2175}{}{(You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time...)}
 {2176}{}{Leave.}
 # won jackpot block
 {2185}{}{(The "OUT OF SERVICE" light on the slot machine is flashing on and off.)}
@@ -128,7 +128,7 @@
 
 # 6.  RETARD PULLS HANDLE (4, 5)
 {2151}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box
- speaks! "Please… insert… money."}
+ speaks! "Please... insert... money."}
 {2152}{}{Aighhhhh! Robot! Robot! Runnnnn}
 {2153}{}{(Leave.)}
 
@@ -150,25 +150,25 @@
 # slot machine taunts win
 # male [3X - 1X]
 {2247}{}{*Aieeeeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
-{2248}{}{*That's it, sugah… keep pulling the handle… faster, harder, faster… come on now…*}
-{2249}{}{*Come on, sugar… it happens to everyone at least once… try again…please…*}
+{2248}{}{*That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
+{2249}{}{*Come on, sugar... it happens to everyone at least once... try again... please...*}
 # any
 {2250}{}{*Please don't give up on me yet baby! I need you more now than ever!*}
 # female [1X - 3X]
-{2251}{}{*Come on, sweetheart… try it again… grab the handle… grip it firmly… come on now…*}
-{2252}{}{*That's it, sweetheart… keep pulling the handle… faster, harder, faster… come on now…*}
+{2251}{}{*Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
+{2252}{}{*That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
 {2253}{}{*Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
 
 # 13. DRUNK, HIGH OR OTHERWISE FUCKED UP (WTG)
 {2280}{}{(You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. Its coin slot beckons you, and you feel your face flush with anticipation. As you stare at it, one of its three windows winks at you. From the coin slot you hear a throaty voice.) *Well, my word! Helloooo there, sugah. Show a girl a good time?*}
 {2281}{}{(You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath New Reno's lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.) *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*}
 {2282}{}{::Pinch self::}
-{2283}{}{Uh…hello?}
+{2283}{}{Uh... hello?}
 {2284}{}{::Take a deep breath, walk away.::}
 
 # 14. DRUNK CONVERSATION 1 (13)
-{2300}{}{*I'm still here, pretty lady.* (The slot machine lowers its voice.) *Look, come on…you want to place a bet?*}
-{2301}{}{*Ah'm still here, sugah.* (The slot machine lowers its voice.) *You're one fine hunka man, you know that? Come on now…you wanna stick some coins in lil' old me?*}
+{2300}{}{*I'm still here, pretty lady.* (The slot machine lowers its voice.) *Look, come on... you want to place a bet?*}
+{2301}{}{*Ah'm still here, sugah.* (The slot machine lowers its voice.) *You're one fine hunka man, you know that? Come on now... you wanna stick some coins in lil' old me?*}
 {2302}{}{Whooo *are* yoooo?}
 {2303}{}{Surrh I'll plasssh a bet in yooo}
 {2304}{}{I think I better leave before I stick something in you I might regret. (Leave.)}
@@ -182,30 +182,30 @@
 # 16. DRUNK 3 (15)
 {2340}{}{*Course we can, sweetheart, course we can.* (The slot machine looks sympathetic.) *What's troubling your pretty little head?*}
 {2341}{}{*Course we can, sugah, course we can.* (The slot machine looks sympathetic.) *What's troubling you, handsome?*}
-{2342}{}{Me miss MOM and miss ARROYO and I…canna find the GECK and…*sniff*}
-{2343}{}{Me miss MOM and Arroyo wuz ATTACKED and I…dunna where they are…and…*sniff*}
-{2344}{}{Me need to fix big ship…and I dunna know HOW…and muh-muh-my Mom's GONE and…*sniff*}
-{2345}{}{I finsshed the game…anna now I'm jusht wandrin' round and…ah'm worried itz all OVER and…*sniff*}
+{2342}{}{Me miss MOM and miss ARROYO and I... canna find the GECK and...*sniff*}
+{2343}{}{Me miss MOM and Arroyo wuz ATTACKED and I... dunna where they are... and...*sniff*}
+{2344}{}{Me need to fix big ship... and I dunna know HOW... and muh-muh-my Mom's GONE and...*sniff*}
+{2345}{}{I finsshed the game... anna now I'm jusht wandrin' round and... ah'm worried itz all OVER and...*sniff*}
 {2346}{}{It's jusht that Fhallowt tooo doesnt s'port my 3D Fxxxx card an I spend so much *monee* onnit and *sniff*}
-{2347}{}{I tried ta get a good charactrr but I think I spent the pointz all *wrong*…n' now I ave a shitteee charactrr…n'…*sniff*}
+{2347}{}{I tried ta get a good charactrr but I think I spent the pointz all *wrong*...n' now I ave a shitteee charactrr... n'...*sniff*}
 {2348}{}{ah'm havinn a conversashun with a slot macheen, ah'm pretty bad off}
 
 # 17. DRUNK 4 (16)
-{2370}{}{*There, there...don't trouble your pretty little head about it no more…just let me take care of everything. C'mon, rest your head on me. There you go. Let it all out.*}
-{2371}{}{*There, there...don't trouble yourself about it no more, sugah…just let me take care of everything. C'mon, rest your handsome head on me. There you go. Let it all out.*}
+{2370}{}{*There, there... don't trouble your pretty little head about it no more... just let me take care of everything. C'mon, rest your head on me. There you go. Let it all out.*}
+{2371}{}{*There, there... don't trouble yourself about it no more, sugah... just let me take care of everything. C'mon, rest your handsome head on me. There you go. Let it all out.*}
 {2372}{}{Thanks, slot macheen *sniff* yer the best}
-{2373}{}{Yooo onlee *nice* pershun I met so far everybodee else is so meeen n' tried ta *hurt* me an' take my monee and…*sniff*}
+{2373}{}{Yooo onlee *nice* pershun I met so far everybodee else is so meeen n' tried ta *hurt* me an' take my monee and...*sniff*}
 
 # 18. DRUNK 5 (17)
 {2380}{}{*You going be all right, sweetheart? I don't feel comfortable letting you go out alone when you're like this.*}
 {2381}{}{(You rest your weary head on the machine.)}
 {2382}{}{*You going be all right, sugah? Ah don't feel comfortable letting you go out alone when you're like this.*}
-{2383}{}{I'll be all rite…thasnk fer talkin' with me, slot macheen I loooove you}
+{2383}{}{I'll be all rite... thasnk fer talkin' with me, slot macheen I loooove you}
 
 # 19. DRUNK 6 (18)
 {2400}{}{*You're the only heroine we got in this two-bit world of bastards and thieves! You take care of yourself now, you hear, sweetheart?* (Turns away.) *You better go fore I start acting unmanly.*}
 {2401}{}{(A tear seems to form on one of the windows.) }
-{2402}{}{*You're the only hero we got in this two-bit world of bastards and thieves! You…you…take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}
+{2402}{}{*You're the only hero we got in this two-bit world of bastards and thieves! You... you... take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}
 {2403}{}{Byeeeee}
 
 # rollin' messages

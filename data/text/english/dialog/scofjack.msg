@@ -36,7 +36,7 @@
 {135}{}{Like I said. My ex. I catch her sleeping around and now she's saying I'm the bad guy. Got the court to give her everything and she's still trying to screw me.}
 {136}{}{Whoa - that's hard. Completely unfair.}
 {137}{}{You can recover. Everything passes with time. She'll forget about you.}
-{138}{}{Sure...No. Crap, I don't know. I gotta do something. Let people know they can't go walking all over Jack.}
+{138}{}{Sure... No. Crap, I don't know. I gotta do something. Let people know they can't go walking all over Jack.}
 {139}{}{They know, Jack. Look at them. You blow yourself up now and they won't respect you at all.}
 {140}{}{Look, think this through. Blow this place up and it'll just prove everything she says about you.}
 {141}{}{No kidding, Sherlock. Now folks are going to listen to me.}

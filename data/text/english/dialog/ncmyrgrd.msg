@@ -40,7 +40,7 @@
 {241}{}{You look like a }
 
 # 9. FLOAT [ARMED, MALE, NO REP]
-{245}{}{Put that weapon away…unless you WANT trouble.}
+{245}{}{Put that weapon away... unless you WANT trouble.}
 
 # 10. FLOAT [SNEAK, MALE, NO REP]
 {250}{}{Intruder!}
@@ -80,7 +80,7 @@
 
 # 18. INTRO (WTG)
 {320}{}{Help you with somthin', amigo? This area's off-limits.}
-{321}{}{Well, well, well…we got us a star in our midst. You got an appointment with Myron, chica?}
+{321}{}{Well, well, well... we got us a star in our midst. You got an appointment with Myron, chica?}
 {322}{}{Help you with somthin', chica? This area's off-limits.}
 {323}{}{(The guard smiles, looks you up and down.) Got an appointment with Myron, chica?}
 {324}{}{Me want world peace}
@@ -104,15 +104,15 @@
 {354}{}{[Shamble off]}
 
 # 20. LOUD RETARD (19)
-{360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour…}
-{361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days…}
+{360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour...}
+{361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days...}
 {362}{}{YOO ONE WHO GET HURT}
 {363}{}{ SMASH}
 {364}{}{[Try and run.]}
 {365}{}{Pal, you're about to get the ass whipping of a life time.}
 
 # 21. WHAT'S BEHIND THAT DOOR? (18, 30)
-{370}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost…amigo.}
+{370}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost... amigo.}
 {371}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost, chica.}
 {374}{}{Let me by. I have to get past that door.}
 {375}{}{All right, all right.}
@@ -133,7 +133,7 @@
 {404}{}{All right.}
 
 # 25. I'M STAYING (24)
-{411}{}{Neither have I…}
+{411}{}{Neither have I...}
 {412}{}{Defend yourself.}
 
 # 26. MYRON + BADGE (18, 21, 22, 23, 24, 29, 30)
@@ -142,9 +142,9 @@
 {426}{}{Got it.}
 
 # 27. SURE DO (18)
-{435}{}{(Eyes roam up and down your body.) Yeah, for now…heh heh…though, I might need ANOTHER fill a little
+{435}{}{(Eyes roam up and down your body.) Yeah, for now... heh heh... though, I might need ANOTHER fill a little
  later on. When you're done inside, that is.}
-{436}{}{I'll…keep that in mind. Can I head on in?}
+{436}{}{I'll... keep that in mind. Can I head on in?}
 {437}{}{We'll see, all right?}
 
 # 28. CAN I HEAD ON IN? (27, 31)
@@ -174,11 +174,11 @@
 
 # 32. MYRON AIN'T AROUND (WTG)
 {485}{}{Myron ain't in.}
-{5486}{}{, whatzzup? Oh, hey…Myron ain't in.}
+{5486}{}{, whatzzup? Oh, hey... Myron ain't in.}
 {487}{}{Can I head in anyway?}
 
 # 33. MYRON AIN'T AROUND 2 (32)
-{495}{}{(Shrugs.) I don't care. If you wanna wait for him, go ahead. I don't know when he's gonna be back…or if
+{495}{}{(Shrugs.) I don't care. If you wanna wait for him, go ahead. I don't know when he's gonna be back... or if
  he is gonna be back.}
 
 # END LINES

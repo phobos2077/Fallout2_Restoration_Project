@@ -34,13 +34,13 @@
 {406}{}{Isn't it a little early for another shipment? What does Metzger need?}
 {407}{}{He needs a few healthy slaves. Specifically female slaves, if you know what I mean.}
 {408}{}{Hehe. I sure do. Well, go inside and speak to Don. I'm sure he's got what the boss needs.}
-{409}{}{Umm...well, he uhh, said he needs more slaves.}
+{409}{}{Umm... well, he uhh, said he needs more slaves.}
 {410}{}{More slaves? He got a huge shipment last week. You're full of shit and I don't have time for this. Leave now
  or you'll find a bullet in your head.}
 {411}{}{I'm leaving.}
 {412}{}{I think I'll stay and kill you first.}
 
-{500}{}{Umm..uhh...the boss sent me.}
+{500}{}{Umm..uhh... the boss sent me.}
 {501}{}{The "boss" huh? Sounds like your full of shit me. Looks like we got a trespasser.}
 {502}{}{Listen, I'm on orders from the boss. You know how he gets when we keep him waiting.}
 {503}{}{Metzger sent you, huh? Man, he can be a real pain sometimes. But, uh, (The man fidgets) don't tell anyone I said that.}

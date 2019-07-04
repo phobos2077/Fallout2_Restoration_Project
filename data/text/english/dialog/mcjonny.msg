@@ -4,7 +4,7 @@
 
 {150}{}{Waaaaa!}
 {151}{}{I want my dog back!}
-{152}{}{Whimper… }
+{152}{}{Whimper... }
 {153}{}{Stranger!}
 {154}{}{Laddie! I've missed you, boy. Thank you for bringing my dog back to me.}
 {155}{}{Hello, I haven't seen you around here before.}
@@ -30,14 +30,14 @@
 {181}{}{.}
 {182}{}{See you around, kid.}
 {183}{}{That's swell! I wanted to go home, but Vegeir says his people can't travel that far above
- ground and wouldn't take me… Not that I doubt you, but what's my father's name?}
+ ground and wouldn't take me... Not that I doubt you, but what's my father's name?}
 {184}{}{Farrel.}
 {185}{}{Cornelius.}
 {186}{}{Balthas.}
 {187}{}{Davin.}
 {188}{}{Joshua.}
 {189}{}{Don't you trust me, Jonny?}
-{190}{}{Hmm… no. Thank you for bringing my dog back to me, but I have to go now. Bye.}
+{190}{}{Hmm... no. Thank you for bringing my dog back to me, but I have to go now. Bye.}
 {191}{}{It was sure nice meeting you, but I have to go now. Bye.}
 {192}{}{That's right! Yipee! I'm going home. Ask Vegeir if it's all right for you to take me home. He's
  been so nice to me, I don't want to leave until he says it's all right. Please hurry; I'm homesick.}

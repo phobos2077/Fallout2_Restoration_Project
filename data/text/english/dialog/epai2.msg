@@ -4,7 +4,7 @@
 {103}{}{Leave.}
 {104}{}{!ERROR! !ERROR! PROBLEM ENCOUNTERED TERMINATING SEQUENCE!}
 {105}{}{Return to Main Menu}
-{106}{}{Diagnostic Check...circuit board error....section four...loose wiring.}
+{106}{}{Diagnostic Check... circuit board error....section four... loose wiring.}
 {107}{}{Done}
 {108}{}{It's too difficult to repair this.}
 {109}{}{The fault in the computer is repaired and the machine is brought back online.}

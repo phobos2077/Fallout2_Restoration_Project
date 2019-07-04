@@ -39,7 +39,7 @@
 {132}{}{Well, I, uh, I've got to be going. Goodbye.}
 
 {133}{powr5_a}{Try the gain.}
-{134}{}{There… that should do it. Any better?}
+{134}{}{There... that should do it. Any better?}
 {135}{}{Gain? What am I'm supposed to gain? I keep pretty active; I don't think I can gain anything.}
 {136}{}{I'll just try back later. Goodbye.}
 
@@ -65,22 +65,22 @@
 
 {153}{powr10_a}{Yeah, you know how unhappy he gets when people complain. He takes it personal, like it's a loyalty thing. Maybe that just goes with being the President of the United States. Or what's left of 'em.}
 {154}{}{The President of the United States?}
-{155}{}{I didn't vote for him. I thought he was too interested in getting laid. I prefer a candidate that's too old to get it up anymore—keeps their mind on the job more.}
+{155}{}{I didn't vote for him. I thought he was too interested in getting laid. I prefer a candidate that's too old to get it up anymore--keeps their mind on the job more.}
 {156}{}{Maybe so. You know, I better get back to work. Goodbye.}
 
-{157}{powr11}{Oh, very funny. But you'd have a great place to recover from your run — at least from what I hear.}
+{157}{powr11}{Oh, very funny. But you'd have a great place to recover from your run -- at least from what I hear.}
 {158}{}{So you're not in New Reno then?}
 {159}{}{Well, I better get back to work. Gotta get this link fixed. Goodbye.}
 
 {160}{powr12}{The President of the United-fucking-States-of-America. Who'd you think I was talking about? Who the fu - Who is - What - I should kick your fucking ass, who is this?}
-{161}{}{I'm the Chosen One. Kiss my...feet.}
+{161}{}{I'm the Chosen One. Kiss my... feet.}
 {162}{}{I'm the Chosen One.}
 {163}{}{I'm the President. You're in a heap of trouble.}
 {164}{}{You're not important enough for that information.}
 {165}{}{Uh, I better be going. Lots of work to do here. Goodbye.}
 
 {166}{powr13}{This is ENCLAVE main comm. ...But you should know that. Who are you?}
-{167}{}{Oh, I'm just…hey, you ever notice that cooked gecko tastes kind of like brahmin butt. }
+{167}{}{Oh, I'm just... hey, you ever notice that cooked gecko tastes kind of like brahmin butt. }
 {168}{}{I'm the Chosen One and you'll learn to remember that.}
 {169}{}{Nobody important. Goodbye.}
 

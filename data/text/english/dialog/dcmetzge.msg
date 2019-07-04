@@ -176,7 +176,7 @@
 {401}{}{What are you talking about?}
 {402}{}{So it's okay?}
 
-# 17. What kind of outfit… (From 16)
+# 17. What kind of outfit... (From 16)
 {410}{}{Oh, don't play coy with me. I know exactly what she's planning to do. I
  gave her a chance a while back and she couldn't cut it, but if she
  thinks she's up to it...}

@@ -7,7 +7,7 @@
 {111}{}{Renew, comrade! What are you doing here? State your business to Zomak the Destroyer.}
 {112}{}{Renu!}
 {113}{}{Ook?}
-{114}{}{I’m just looking around.}
+{114}{}{I'm just looking around.}
 {115}{}{I wish to Renew.}
 {116}{}{I took a wrong turn.}
 
@@ -15,23 +15,23 @@
 
 {130}{}{Then you must see him.}
 {131}{}{Him? Where is him, I mean he?}
-{132}{}{I’m not worthy of seeing him. Goodbye.}
+{132}{}{I'm not worthy of seeing him. Goodbye.}
 
 {140}{}{He is the granter of enlightenment. It is he that promises Renewal to all who follow him.}
-{141}{}{Well, I’m just about due for Renewal. Where is he?}
-{142}{}{Sounds like another nutcase to me. I’m outta here.}
+{141}{}{Well, I'm just about due for Renewal. Where is he?}
+{142}{}{Sounds like another nutcase to me. I'm outta here.}
 
-{150}{}{Well, he’s right back… Hey! Just who are you, anyway?}
-{151}{}{I’m just a wanderer.}
+{150}{}{Well, he's right back... Hey! Just who are you, anyway?}
+{151}{}{I'm just a wanderer.}
 {152}{}{I am the Chosen One.}
-{153}{}{I’m just here for my annual renewal.}
-{154}{}{It’ll be okay. I just have to ask him a couple of questions.}
+{153}{}{I'm just here for my annual renewal.}
+{154}{}{It'll be okay. I just have to ask him a couple of questions.}
 
 {160}{}{Well, wander on out of here, then.}
 {161}{}{Uh, okay. Goodbye.}
 
-{170}{}{Well, in that case... Come on in. He’s right in the next room. Don’t keep him waiting.}
-{171}{}{Not me. I’ll go right in. Goodbye.}
+{170}{}{Well, in that case... Come on in. He's right in the next room. Don't keep him waiting.}
+{171}{}{Not me. I'll go right in. Goodbye.}
 {172}{}{I might come back later. Goodbye.}
 
 {180}{}{Well, you should choose to leave. Get out of here.}
@@ -43,19 +43,19 @@
 {210}{}{Ook? What do you mean by that? Are you dumb?}
 {211}{}{Goop?}
 
-{220}{}{Get out of here. The Brain doesn’t have time for the likes of you.}
-{221}{}{Okay. I’ll be going now.}
+{220}{}{Get out of here. The Brain doesn't have time for the likes of you.}
+{221}{}{Okay. I'll be going now.}
 
-{230}{}{There’s nothing else down here but the Brain’s lair. Boy, are you dumb.}
+{230}{}{There's nothing else down here but the Brain's lair. Boy, are you dumb.}
 {231}{}{The Brain?}
 {232}{}{I was just testing you. You passed. Now let me in.}
 {233}{}{I guess I got confused. Must be all this radiation. Goodbye.}
 
-{240}{}{Oops. Uh, there’s nothing here. Nothing at all. Just go away now.}
-{241}{}{You’re sure there’s nothing here?}
+{240}{}{Oops. Uh, there's nothing here. Nothing at all. Just go away now.}
+{241}{}{You're sure there's nothing here?}
 {242}{}{Okay. Goodbye.}
 
-{250}{}{Yup. I’m sure. Now get out.}
+{250}{}{Yup. I'm sure. Now get out.}
 {251}{}{Well, if you say so. Goodbye.}
 
 {260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }

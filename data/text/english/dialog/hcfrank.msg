@@ -12,7 +12,7 @@
 {109}{}{What can you tell me about Marcus?}
 
 {110}{}{I got no idea what you're saying, freak. Get out of my sight.}
-{111}{}{Oooooh…}
+{111}{}{Oooooh...}
 
 {112}{}{I'm Franc. I'd ask who you are, but I don't care.}
 {113}{}{Oh, a tough guy, eh?}

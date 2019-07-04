@@ -48,33 +48,33 @@
 
 # 3. FLOAT [MADE MAN, SAME CASINO] (WTG)
 {215}{}{Hello, }
-{216}{}{If you're looking for a little company later…}
-{217}{}{Hey, you…[winks]…you looking to gamble?}
-{218}{}{He looks so…[shivers]…dangerous.}
+{216}{}{If you're looking for a little company later...}
+{217}{}{Hey, you...[winks]...you looking to gamble?}
+{218}{}{He looks so...[shivers]...dangerous.}
 {219}{}{Welcome to the casino, }
 {220}{}{Put in a good word with the boss for me?}
 {221}{}{Hello, ma'am. Let me know if I can help you with anything.}
 {222}{}{Looking to gamble, ma'am?}
-{223}{}{She looks so…[shivers]…dangerous.}
+{223}{}{She looks so...[shivers]...dangerous.}
 
 # 5. FLOAT [MADE MAN, WRONG CASINO] (WTG)
 {235}{}{Looks like this one's already gambling with his life.}
-{236}{}{Uh, I think he just walked into the wrong casino…}
-{237}{}{If he doesn't leave before the boys see him…}
-{238}{}{Uh-oh. Trouble…}
+{236}{}{Uh, I think he just walked into the wrong casino...}
+{237}{}{If he doesn't leave before the boys see him...}
+{238}{}{Uh-oh. Trouble...}
 {239}{}{Looks like this one's already gambling with her life.}
-{240}{}{Uh, I think she just walked into the wrong casino…}
-{241}{}{If she doesn't leave before the boys see her…}
+{240}{}{Uh, I think she just walked into the wrong casino...}
+{241}{}{If she doesn't leave before the boys see her...}
 
 # 7. FLOAT [MALE, PRIZEFIGHTER] (WTG)
 {250}{}{Hey, muscles. You looking to spend some chips?}
-{251}{}{Hey, champ…[winks]…you looking to gamble?}
-{252}{}{Hey, champ…[smiles]…wanna take a chance?}
-{253}{}{If you're looking for a little company later…}
-{254}{}{I wonder if I should talk to him…}
+{251}{}{Hey, champ...[winks]...you looking to gamble?}
+{252}{}{Hey, champ...[smiles]...wanna take a chance?}
+{253}{}{If you're looking for a little company later...}
+{254}{}{I wonder if I should talk to him...}
 {255}{}{Hey, }
 {256}{}{If you're looking to win some chips, you came to the right place.}
-{257}{}{Lady Luck's in the house tonight…nothing but winners!}
+{257}{}{Lady Luck's in the house tonight... nothing but winners!}
 {258}{}{Step right up, }
 {259}{}{Need another drink?}
 {260}{}{Welcome to the casino, }
@@ -87,7 +87,7 @@
 {271}{}{Hey, }
 {272}{}{Hey, }
 {273}{}{If you're looking to win some chips }
-{274}{}{Lady Luck's in the house tonight…nothing but winners!}
+{274}{}{Lady Luck's in the house tonight... nothing but winners!}
 {275}{}{Step right up, }
 {276}{}{Need another drink?}
 {277}{}{Welcome to the casino, }
@@ -96,26 +96,26 @@
 
 # 11. FLOAT [MALE, NO REP] (WTG)
 {290}{}{Hey there, sweetie. You looking to spend some chips?}
-{291}{}{Hey, sweetie…[winks]…you looking to gamble?}
-{292}{}{Hey, sweetie…[smiles]…wanna take a chance?}
+{291}{}{Hey, sweetie...[winks]...you looking to gamble?}
+{292}{}{Hey, sweetie...[smiles]...wanna take a chance?}
 {293}{}{If you're looking to win some chips, you came to the right place.}
-{294}{}{Lady Luck's in the house tonight…nothing but winners!}
+{294}{}{Lady Luck's in the house tonight... nothing but winners!}
 {295}{}{Step right up, win some chips.}
 {296}{}{Need another drink, honey?}
 {297}{}{Welcome to the casino, honey.}
-{298}{}{This table's free if you're looking to gamble…}
+{298}{}{This table's free if you're looking to gamble...}
 {299}{}{Hey there, honey. You looking to spend some chips?}
 {300}{}{Looking to gamble, honey?}
 {301}{}{Welcome to the casino, honey.}
 
 # 13.  PLACE YOUR BETS (WTG)
-{320}{}{[The dealer looks at you nervously, then chews her lip.] Um, place your bets…minimum bet $}
+{320}{}{[The dealer looks at you nervously, then chews her lip.] Um, place your bets... minimum bet $}
 {321}{}{Place your bet, sir. Minimum bet $}
 {322}{}{Place your bet, ma'am. Minimum bet $}
 {323}{}{Place your bets, minimum bet $}
 {324}{}{Me bet-ter than you}
 {325}{}{Me play craps in pants}
-{326}{}{What this game? Can you bet gecko skin? Me got geck…ooooh…pretty lights! [Wander off.]}
+{326}{}{What this game? Can you bet gecko skin? Me got geck... ooooh... pretty lights! [Wander off.]}
 {327}{}{[You have $}
 {328}{}{Bet $}
 {329}{}{Whoa, too rich for my blood.}
@@ -123,12 +123,12 @@
 {331}{}{Uhhh, sorry, I don't know how to play these crazy games.}
 
 # 14.  RETARD (14)
-{340}{}{Um…I hear they're giving away brains out back. Maybe you should go check it out.}
+{340}{}{Um... I hear they're giving away brains out back. Maybe you should go check it out.}
 {341}{}{Uh, very well, sir. Come back soon.}
 {342}{}{Uh, very well, ma'am. Come back soon.}
 {343}{}{Byeee-byeeee}
 {344}{}{Gooodie. }
-{345}{}{Uh…brains…what them?! Me go see!}
+{345}{}{Uh... brains... what them?! Me go see!}
 
 # 15. POOR MAN (13)
 {350}{}{Very well, sir. Come back soon.}
@@ -166,7 +166,7 @@
 
 # message parts
 {2203}{}{! Welcome to the casino, hero!}
-{2215}{}{. Can I help you with…*anything?*}
+{2215}{}{. Can I help you with...*anything?*}
 {2219}{}{.}
 {2255}{}{. Looking to spend some chips?}
 {2258}{}{, win some chips.}
@@ -174,7 +174,7 @@
 {2261}{}{. Let me know if I can help you with anything.}
 {2262}{}{?}
 {2263}{}{.}
-{2321}{}{. Place your bets…}
+{2321}{}{. Place your bets...}
 {2327}{}{.] }
 {2328}{}{.}
 {2344}{}{ could always use new inventory item [Leave.]}

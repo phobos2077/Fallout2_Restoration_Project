@@ -1,4 +1,4 @@
-{100}{}{Big surprise —- it looks like a guy in power armor.}
+{100}{}{Big surprise -- it looks like a guy in power armor.}
 {101}{}{Yep, it's still a guy in power armor.}
 {102}{}{He's got some kind of insignia on his chest that different from any of the others you've seen
  around here. }
@@ -9,7 +9,7 @@
 
 {105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
  maintenance. Might have a few problems still, so take it easy. Just sign here.)}
-{106}{}{Uh… Could you repeat that?}
+{106}{}{Uh... Could you repeat that?}
 {107}{}{I think there's something wrong with your suit.}
 {108}{}{Sure, I'll do that.}
 {109}{}{No way. Forget it.}
@@ -22,12 +22,12 @@
 
 {115}{}{Who are you? What are you doing here?}
 {116}{}{What?}
-{117}{}{Uh… I'm new here?}
+{117}{}{Uh... I'm new here?}
 {118}{}{Peek-a-boo!}
 
 {119}{}{Who are you? What are you doing here?}
 {120}{}{What?}
-{121}{}{Uh… I'm new here?}
+{121}{}{Uh... I'm new here?}
 {122}{}{Peek-a-boo!}
 
 {123}{}{What do you mean? This suit's working fine! You gonna sign the papers or not?}
@@ -70,7 +70,7 @@
 {153}{}{Pisces?}
 {154}{}{Swordfish.}
 
-{155}{}{Arroy— Wait a minute! We just hit that place. You're a damn tribal! Guards!}
+{155}{}{Arroy-- Wait a minute! We just hit that place. You're a damn tribal! Guards!}
 
 {156}{}{Look, clown, don't be making trouble or I'll have your insubordinate ass up on report. Just
  answer the question. }
@@ -123,7 +123,7 @@
 {190}{}{[Player name]}
 {191}{}{Not if I shoot first!}
 
-{192}{}{Wait a minute -— you're not one of us! GUARDS!}
+{192}{}{Wait a minute -- you're not one of us! GUARDS!}
 
 {193}{}{Look soldier, I already gave you your gear, so get on out of here.}
 

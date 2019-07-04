@@ -146,7 +146,7 @@
 
 {360}{}{Not 'A den,' - 'The Den.' You'll not find a greater hive of scum and villainy. Now where did I
  hear that? In any case, it's a rough sort of place a few days travel south of Klamath. Anything can
- be had there for a price...even slaves. But you have to be very careful there -— lots of short tempers
+ be had there for a price... even slaves. But you have to be very careful there -- lots of short tempers
  attached to dangerous weapons. I don't think they have much to do with us, though; we're too poor here.}
 {361}{}{I think I'd be safe enough there; I know how to handle myself. Let me ask you about something
  else, though.}
@@ -154,7 +154,7 @@
 
 {370}{}{Lately, we've had a couple of people go missing. A trader, named Vic, who specialized in
  pre-war stuff, and one of our best trappers.}
-{371}{}{Tell me more about the trader some call…Vic?}
+{371}{}{Tell me more about the trader some call... Vic?}
 {372}{}{I want to know more about the trapper.}
 {373}{}{Let me ask you about something else.}
 {374}{}{That's all I need to know. Goodbye, Whiskey Bob.}
@@ -177,7 +177,7 @@
 {400}{}{I sure wish you had kept your word to me. You didn't get to my still in time and my latest
  batch of hootch is plum ruined! I don't want to have anything more to do with you and I hope no one
  else does, either.}
-{401}{}{But I, I thought I had more time….}
+{401}{}{But I, I thought I had more time...}
 {402}{}{It probably tastes the same whether I refueled the still or not.}
 {403}{}{Your hootch tastes like dogpiss anyway.}
 {404}{}{The fuel didn't seem to provide a flame of the correct temperature for proper fermentation.}

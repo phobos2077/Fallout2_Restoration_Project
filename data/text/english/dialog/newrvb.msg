@@ -30,10 +30,10 @@
 {207}{}{*Zztttt* The laser weapons are in our cargo bay. *Zzzttt**}
 {208}{}{*Zztttt* To ensure your cooperation, we will transmit the arming sequence for them
  once the chemicals are loaded. *Zzzttt*}
-{209}{}{Uh...well...all right then. Load her up, boys --}
+{209}{}{Uh... well... all right then. Load her up, boys --}
 {210}{}{*Zztttt* No. *Zzzttt*}
 {211}{}{*Zztttt* We will load the cargo. *Zzzttt*}
-{212}{}{Uh, right...right. Of course. Give them room, boys.}
+{212}{}{Uh, right... right. Of course. Give them room, boys.}
 {213}{}{All right; we're good here. The rest of you guards head back to Reno. We'll meet up with you.}
 
 # 3. FLOAT SEQUENCE: INTRUDER (WTG)
@@ -46,7 +46,7 @@
 # 4. FLOAT SEQUENCE: OUT OF POSITION WARNING (WTG)
 {300}{}{Don't get near those armored fellas. They'll carve you up.}
 {301}{}{Get back in position.}
-{302}{}{Stop twitching...those armored guys don't like it much.}
+{302}{}{Stop twitching... those armored guys don't like it much.}
 
 # 5. FLOAT SEQUENCE: OUT OF POSITION, FINAL (WTG)
 {350}{}{Dammit! What are you doing, dipshit?!}

@@ -12,29 +12,29 @@
 # 2. COMBAT MESSAGES (WTG)
 {210}{}{Kids, get away! It's a hitman!}
 {211}{}{You're gonna die, you sonuvabitch.}
-{212}{}{Come into my house, will you…}
-{213}{}{So they send you to do their dirty work…}
-{214}{}{You two-bit hitman, this is your last job…}
+{212}{}{Come into my house, will you...}
+{213}{}{So they send you to do their dirty work...}
+{214}{}{You two-bit hitman, this is your last job...}
 
 # 3. FLOAT COMMENTS (WTG)
 {220}{}{Marriage ain't a word. It's a life sentence.}
-{221}{}{Damn Salvatores…}
-{222}{}{Where are those damn kids…}
+{221}{}{Damn Salvatores...}
+{222}{}{Where are those damn kids...}
 {223}{}{Anybody seen Christopher around? Tell that boy I want to see him. Now.}
-{224}{}{I wonder if our marriage is legally binding…}
-{225}{}{Profits this quarter are down…better start watering down the hootch.}
-{226}{}{Need more ethyl alcohol. And less Ethyl Wright…}
-{227}{}{Salvatores are being quiet…}
+{224}{}{I wonder if our marriage is legally binding...}
+{225}{}{Profits this quarter are down... better start watering down the hootch.}
+{226}{}{Need more ethyl alcohol. And less Ethyl Wright...}
+{227}{}{Salvatores are being quiet...}
 {228}{}{Where the hell is that woman? Ethyl! Ethyl!}
 {229}{}{Need to stop cursing around the kids...}
 {230}{}{We're gonna have to expand distribution if we're gonna stay on the Reno map...}
 {231}{}{If Christopher gives me any more backtalk...}
 {232}{}{Bring me my book.}
-{233}{}{Poor Richard…}
+{233}{}{Poor Richard...}
 {234}{}{Is a little peace and quiet too much to ask?!! Keep it down!}
 
 # 4. INTRO (PERMISSION = TRUE) (WTG)
-{240}{}{(Wrinkles cover this old man's face...it looks like any expression other than a scowl is foreign to him. Only a few brown
+{240}{}{(Wrinkles cover this old man's face... it looks like any expression other than a scowl is foreign to him. Only a few brown
  hairs are left in his thick gray hair.) }
 {241}{}{Start talking, tribal. Who are you and what do you want?}
 {242}{}{Start talking, slaver. Who are you and what do you want?}
@@ -43,7 +43,7 @@
 {245}{}{Yoo Boo Hoo Yooooo}
 {246}{}{Kootchie Kootchie Koooo}
 {247}{}{Who hell you}
-{248}{}{I'm a simple traveler…looking for work.}
+{248}{}{I'm a simple traveler... looking for work.}
 {249}{}{The name's }
 {250}{}{Actually, I seem to have entered the wrong room. I'll be leaving now.}
 
@@ -59,7 +59,7 @@
 {276}{}{(Mr. Wright's face breaks into a snarl and he starts shouting.) }
 {277}{}{Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
 {278}{}{Get in here, boyz! Me wanna play}
-{279}{}{Whoa, now hold on…!}
+{279}{}{Whoa, now hold on...!}
 {280}{}{That DOES it! I'm sick of your bullshit. You'll be dead before your little boys can get here.}
 {281}{}{They won't get in here in time to save your life...}
 {282}{}{Excuse me. Me and the exit have an appointment.}
@@ -78,7 +78,7 @@
  into a scowl.) We don't deal with your kind, you hear? Now, get out!}
 {302}{}{Yes, I --}
 {303}{}{Actually, I seem to have entered the wrong room. Pardon me.}
-{304}{}{Hold on a minute, I haven't FINISHED talking to you yet. I…}
+{304}{}{Hold on a minute, I haven't FINISHED talking to you yet. I...}
 {305}{}{All right. Looks like I'll be going.}
 
 # 9. I AM (4)
@@ -98,9 +98,9 @@
 {332}{}{Not to my knowledge. I think I'd remember.}
 
 # 12. NOT TO MY KNOWLEDGE (11)
-{340}{}{One of my sons…my boy, Richard, passed away recently. Drug overdose. Jet.}
+{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{How can I help?}
-{342}{}{Uh…I don't really see how I can --}
+{342}{}{Uh... I don't really see how I can --}
 
 # 13. HOW CAN I HELP? (12)
 {350}{}{I want to know what dealer gave that SHIT to Richard and forced him to take it. Every time I send my boys to find out,
@@ -112,11 +112,11 @@
 # 14. FORCED HIM TO TAKE IT? (13)
 {360}{}{(Face turns red.) My boys are clean, and they know to stay away from that shit, or I'll kill them. Then SUDDENLY, Richie ODs.
  Someone pumped a ton of Jet in him, so much that fumes was runnin' outta his nose.}
-{361}{}{Well…that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. I'll take the job.}
 
 # 15. I'LL DO IT (13, 14)
-{370}{}{(Nods.) All right then. Now look: You find that son of a bitch who killed my boy, don't you touch 'im…you just come back
+{370}{}{(Nods.) All right then. Now look: You find that son of a bitch who killed my boy, don't you touch 'im... you just come back
  and TELL me the dead man's name. (Eyes blaze.) I'LL take care of it from there.}
 {371}{}{We haven't talked a price.}
 {372}{}{Any leads?}
@@ -128,7 +128,7 @@
 {383}{}{Forget this, then. Only fools work for nothing. I'm out of here.}
 
 # 17. LEADS? (15, 16)
-{390}{}{(Eyes blaze.) No…everybody's too scared to talk…to a Wright, anyway. If I were you, I would 'question' some of the Reno
+{390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
  drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{Any pushers you suspect?}
 {393}{}{Look, this job isn't my style. I better be going.}
@@ -149,16 +149,16 @@
 {417}{}{Oh, yeah, well --}
 
 # 20. NAMED A KILLER, KILLER IS ALIVE (18, 47)
-{425}{}{That bastard's seen his last days. Come morning, he'll be dead. But he'll be a LONG time dying…}
-{426}{}{Now, about the price for doing my work…}
+{425}{}{That bastard's seen his last days. Come morning, he'll be dead. But he'll be a LONG time dying...}
+{426}{}{Now, about the price for doing my work...}
 {427}{}{No less than he deserves.}
-{428}{}{Uh, but Renesco didn't give Richard the Jet...he didn't know who it was for...it was the SALVATORES
+{428}{}{Uh, but Renesco didn't give Richard the Jet... he didn't know who it was for... it was the SALVATORES
  that poisoned your son.}
 
 # 21. PRICE (20, 50, 51)
-{435}{}{I owe you…I owe you. }
-{436}{}{Well now, before I get into specifics, let's settle accounts first… }
-{437}{}{Here's a little cash for your trouble, plus some ammo, liquor from my private stock… and another
+{435}{}{I owe you... I owe you. }
+{436}{}{Well now, before I get into specifics, let's settle accounts first... }
+{437}{}{Here's a little cash for your trouble, plus some ammo, liquor from my private stock... and another
  job for you, if you're interested.}
 {438}{}{I'm interested.}
 {439}{}{No thanks. I'll see you around.}
@@ -175,7 +175,7 @@
 {453}{}{Get out of here.}
 
 # 24. WHAT KIND OF PROPOSITION? (21, 29)
-{465}{}{It so happens, not too long ago, I came across a map that shows an old army base in the mountains not far from here. You find a way in there, and I'll see that you're taken care of…}
+{465}{}{It so happens, not too long ago, I came across a map that shows an old army base in the mountains not far from here. You find a way in there, and I'll see that you're taken care of...}
 {466}{}{Okee Dokee Mister Orderville}
 {467}{}{ go. }
 {468}{}{All right. I'll go check it out.}
@@ -193,7 +193,7 @@
 {481}{}{They didn't even get INSIDE?}
 
 # 26. YOU ALREADY SENT SOMEONE, DIDN'T YOU . . . (25)
-{485}{}{Yeah, the only survivor said…shortly before his unfortunate death…said that there were some kind of super gun turrets
+{485}{}{Yeah, the only survivor said... shortly before his unfortunate death... said that there were some kind of super gun turrets
  guarding the entrance. Wiped out most of his boys.}
 {486}{}{What happened to the survivor?}
 {487}{}{Hmmmm. I'll have to be careful then. I'll take the job.}
@@ -216,7 +216,7 @@
 
 # 30. AGREE CRACK OPEN BASE (24, 26, 27)
 {525}{}{(Nods, smiles.) All right then. Come back when you found a way in, and I'll see you're well rewarded. Now, as for
- the location of the base…head north, then… (Gives you the coordinates for the army base.)}
+ the location of the base... head north, then... (Gives you the coordinates for the army base.)}
 {526}{}{All right. I'll go check it out. When I find a way inside, I'll be back.}
 
 # 31. YOU FIND THAT ARMY BASE? (X)
@@ -224,8 +224,8 @@
 {536}{}{If you're back and ain't done what I asked, then you're in for a world of hurt.}
 {537}{}{Not yet.}
 {538}{}{Yes. I managed to get inside and found a lot of old weapons and military hardware there. It's all there for the taking.
- Now, about my payment…}
-{539}{}{I got inside the base, but there was an…accident…the base is contaminated.}
+ Now, about my payment...}
+{539}{}{I got inside the base, but there was an... accident... the base is contaminated.}
 {540}{}{Sorry. I'll return once I get inside the Army base.}
 {541}{}{Screw this job, and screw you. I'm outta here.}
 
@@ -249,7 +249,7 @@
 # 37. REWARD/LOSS (SIERRA ARMY BASE) (31)
 {580}{}{(Eyes gleam.) You done good, }
 {581}{}{An 'accident?' Aw, hell, I don't even want to know. Get outta here and don't ever come back.}
-{582}{}{Thanks, Mr. Wright. If I'm a Made Man, then I'd like to be called…}
+{582}{}{Thanks, Mr. Wright. If I'm a Made Man, then I'd like to be called...}
 {583}{}{All right then.}
 
 {584}{}{So what do you want us to call ya?}
@@ -264,9 +264,9 @@
 {601}{}{I understand. Well, I was just stopping by, Mr. Wright. You take care, sir.}
 
 # 40. MY WIFE JUST BUSTED UP ONE OF MY CELLS (38)
-{610}{}{Angry? Hell, yes, my goddamn wife just went berserk on one of my stills. Don't know how the hell she found out, but…}
-{611}{}{Angry? Hell, yes, some low-down sonuvabitch destroyed one of my stills. Don't know how the hell he pulled it off, but…}
-{612}{}{Angry? Hell, yes, my customers are dropping off...literally. Something's wrong with the alcohol, and I think it's killing
+{610}{}{Angry? Hell, yes, my goddamn wife just went berserk on one of my stills. Don't know how the hell she found out, but...}
+{611}{}{Angry? Hell, yes, some low-down sonuvabitch destroyed one of my stills. Don't know how the hell he pulled it off, but...}
+{612}{}{Angry? Hell, yes, my customers are dropping off... literally. Something's wrong with the alcohol, and I think it's killing
  people. I wonder if the fermenting process is poisonous...}
 {613}{}{She probably just stumbled across it. Dumb luck, no doubt! I don't think anyone told her, nope. Very unlikely.}
 {614}{}{Well, those old machines break down all the time! I don't think anyone did it on purpose. Very unlikely.}
@@ -274,41 +274,41 @@
  tail being dropped in there. I wouldn't dwell on it.}
 
 # 41. MY SON GOT A GUN FROM SOMEWHERE (38)
-{620}{}{Funny you should ask. My son got a gun from somewhere…I think it's one of the other families, trying to get him to shoot
- himself or his old man. When I catch the bastard…}
+{620}{}{Funny you should ask. My son got a gun from somewhere... I think it's one of the other families, trying to get him to shoot
+ himself or his old man. When I catch the bastard...}
 {621}{}{Uh, a gun? Really? You're right, sir, probably one of the other families gave it to him. Be hard to track down whoever
  did it, though. I wouldn't pay it any mind.}
 
 # 42. PROB NOTHING . . . (40, 41)
-{625}{}{(Nods.) Probably nothing. Aw, well…}
+{625}{}{(Nods.) Probably nothing. Aw, well...}
 {626}{}{Sure. Oh, well, I was just stopping by, Mr. Wright. You take care, sir.}
 
 # 43. PUSHERS YOU SUSPECT? . . . (17)
-{630}{}{(Frowns.) Way I see it, it was probably a Mordino pusher…that goddamn family controls nearly all the Jet in Reno.
+{630}{}{(Frowns.) Way I see it, it was probably a Mordino pusher... that goddamn family controls nearly all the Jet in Reno.
  I'd scope out the Desperado, see what dealers hang out round there.}
 
 # 44. POISONED . . . (18)
 {640}{}{Wh -? "Poisoned?" What in hell's name are you talking about?}
-{641}{}{I inspected your son's body. Jet didn't kill him...his body still had traces of radscorpion venom in it.}
-{642}{}{I found this Jet canister that Richard used… er, was used on Richard. There were traces of radscorpion venom
+{641}{}{I inspected your son's body. Jet didn't kill him... his body still had traces of radscorpion venom in it.}
+{642}{}{I found this Jet canister that Richard used... er, was used on Richard. There were traces of radscorpion venom
  in the cartridge.}
-{643}{}{I found a Jet canister that Richard used… er, was used on Richard. There were traces of radscorpion venom
+{643}{}{I found a Jet canister that Richard used... er, was used on Richard. There were traces of radscorpion venom
  in the cartridge.}
 {644}{}{He was poisoned with radscorpion venom. The Jet overdose was just a cover for the poisoning.}
 
 # 45. MY SON'S BODY . . . (44, 52)
 {650}{}{"Inspected my son's body?"}
 {651}{}{Yeah, I had to open his grave to do an autopsy.}
-{652}{}{Uh…you know, I DIDN'T. I misspoke. "Son's body?" I meant "somebody's." Yes, that's what I meant.}
+{652}{}{Uh... you know, I DIDN'T. I misspoke. "Son's body?" I meant "somebody's." Yes, that's what I meant.}
 {653}{}{This might not be the best time to discuss this. I'll talk to you later.}
 
 # 46. SON'S BODY, DEAD . . . (45)
-{660}{}{You ghoulish son of a bitch…}
-{661}{}{You ghoulish bitch…}
+{660}{}{You ghoulish son of a bitch...}
+{661}{}{You ghoulish bitch...}
 {662}{}{ you just earned YOURSELF a plot o' land on Golgotha. IF they find all the pieces. (Starts shouting.) Boys! Get in here!
  And bring yer knives!}
 {663}{}{Hold on! Can't we talk about this?}
-{664}{}{You're going to need more than knives to take me down…}
+{664}{}{You're going to need more than knives to take me down...}
 {665}{}{Excuse me. The exit and I have an appointment.}
 
 # 47. VENOM FOUND . . . (44)
@@ -323,18 +323,18 @@
 {680}{}{Now why in hell would they do that?}
 {681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
- Salvatores…all they have to worry about then is the Bishops.}
+ Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{I don't know. Maybe you should ask them.}
 
 # 49. SOLUTION . . . (48)
 {690}{}{(Stares at you for a long time, then a dry chuckle escapes his lips.) You give me an answer, and I can't do nothing about
- it. The Salvatores…goddammit. (Takes a deep breath.)}
+ it. The Salvatores... goddammit. (Takes a deep breath.)}
 {691}{}{What's wrong?}
 {692}{}{"You can't do anything about it?" What do you mean?}
 
 # 50. PROBLEM . . . (49)
 {700}{}{Know what those Salvatore bastards are ARMED with, friend? Those damned lightbringers. ONE Salvatore packing that kind
- of heat can kill my whole family without batting an eye. To beat that, I'd need…}
+ of heat can kill my whole family without batting an eye. To beat that, I'd need...}
 {701}{}{What?}
 {702}{}{Don't worry about it, I've kicked the shins out from underneath the Salvatores already.}
 
@@ -360,6 +360,6 @@
 {5310}{}{." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown.) Looking for work in family Wright, huh?}
 {5467}{}{ crack base. }
 {6467}{}{ smash!}
-{5580}{}{. Go to the Cat's Paw and New Reno Arms…tell them you're from me, and they'll set you up. You're family now…a made
+{5580}{}{. Go to the Cat's Paw and New Reno Arms... tell them you're from me, and they'll set you up. You're family now... a made
  man, and all Reno's gonna know it.}
-{5590}{}{…everyone treating you all right? No problems?}
+{5590}{}{...everyone treating you all right? No problems?}

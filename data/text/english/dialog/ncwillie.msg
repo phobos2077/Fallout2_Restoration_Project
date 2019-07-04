@@ -6,7 +6,7 @@
 
 # 1. DIG UP (WTG)
 {200}{}{Whoa. This grave SMELLS.}
-{201}{}{Oh, well…better keep digging.}
+{201}{}{Oh, well... better keep digging.}
 {202}{}{What th-?}
 {203}{}{About friggin' time! Could you dig any SLOWER, idjit?}
 {204}{}{Outta my way, smoothie.}
@@ -15,7 +15,7 @@
 {206}{}{Not now, Lenny, I ain't in th' mood to be talkin'.}
 
 # 2. CLICK/FLOAT (WTG)
-{300}{}{Jest pop inta Reno fer a lil' drinking n' whoring, n' damned smoothies jam me inna goddamn grave…}
+{300}{}{Jest pop inta Reno fer a lil' drinking n' whoring, n' damned smoothies jam me inna goddamn grave...}
 {301}{}{Good thing I ain't got no nose, or I woulda choked on my own stink.}
 {302}{}{Ghouls don't get no damn r'spect.}
 {303}{}{Just stopped in the city for a drink, n' those Reno assholes bury me alive.}
@@ -33,7 +33,7 @@
 {602}{}{Don't step onna grave! It packs the dirt in!}
 {603}{}{Quick, GET A SHOVEL!}
 {604}{}{Would somebody dig me up already? I need a drink!}
-{605}{}{That a worm I feel? Oh...nevermind.}
+{605}{}{That a worm I feel? Oh... nevermind.}
 
 # 1. DIG UP (WTG) - low int character --added by killap
 {700}{}{Ug, smellie in hole.}

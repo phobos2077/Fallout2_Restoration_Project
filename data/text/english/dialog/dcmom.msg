@@ -145,7 +145,7 @@
 {502}{}{Does anyone use that house?}
 {503}{}{I agree. Bye.}
 
-# 22. Started 2 years back… (21)
+# 22. Started 2 years back... (21)
 {520}{}{Started about 2 years back. I heard about the moaning and the spirits and all.
  Don't believe it myself.}
 {521}{}{Two years, huh? Anybody use the place back then?}
@@ -174,7 +174,7 @@
 {600}{}{What do you know about that haunted house?}
 
 {800}{}{I noticed there seems to be a lot of orphans around town.}
-{801}{}{It's a shame, isn't it? Those poor children living on the streets like that… A lot of them steal to get by -- from
+{801}{}{It's a shame, isn't it? Those poor children living on the streets like that... A lot of them steal to get by -- from
  outsiders mostly -- so if you catch one trying to relieve you of something, please take pity on 'em. I'm not saying it's
  right, but it's a harsh world we live in, and we all do what we have to in order to make it through the day.}
 {802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that

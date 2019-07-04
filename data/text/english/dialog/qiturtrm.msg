@@ -147,22 +147,22 @@
 {248}{}{(That sounds like something good to try.) Activate Emergency Defensive Systems Shutdown.}
 {249}{}{(Hmm, maybe I'll try this some other time.) Back.}
 {250}{}{(I don't want to play with the computer any more right now.) Log off.}
-{251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated...Performing deep diagnostic. Alpha....Bravo....Charlie....}
+{251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated... Performing deep diagnostic. Alpha....Bravo....Charlie....}
 {252}{}{(For some strange reason, I don't think I want to do this right now.) Back.}
 {253}{}{(I better get moving, while this thing is still running that diagnostic). Log off.}
 {254}{}{Presidential Security Passkey not recognized. Access denied.}
 {255}{}{(Hmm, I wonder if I can fool the scanner into thinking I have the key by hacking into the access file. I think I'll try.)}
 {256}{}{(Oh well, it was worth a shot.) Back.}
-{257}{}{Security Passkey Scanner malfunction noted...Reinitializing scanner...}
+{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
 {258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
 {259}{}{(Damn, well nothing ventured...) Back.}
 {260}{}{Scanner reinitialized. Rescanning...}
 {261}{}{(Here's the big moment.)-You type feverishly.}
-{262}{}{Illegal procedure detected. Further access to this terminal is denied...Maintenance alert sent.}
+{262}{}{Illegal procedure detected. Further access to this terminal is denied... Maintenance alert sent.}
 {263}{}{Damn. That's not what I wanted at all.}
 {264}{}{Presidential Security Passkey recognized. Good day, Mr. President. (Yes! Now let's see what I can do...)}
 {265}{}{(What else can I do?)}
 #added by killap
 {266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
-{267}{}{(Hmm...Maybe it'll work once there's someone actually there. I'll have to give it a try later.) Return to User ID.}
+{267}{}{(Hmm... Maybe it'll work once there's someone actually there. I'll have to give it a try later.) Return to User ID.}
 {268}{}{(I wonder what else I can try?) Back.}

@@ -1,6 +1,6 @@
 # Before Jonny Found
 {100}{}{Sob-}
-{101}{}{Jonny…}
+{101}{}{Jonny...}
 {102}{}{Sniff...}
 {103}{}{I miss my son.}
 

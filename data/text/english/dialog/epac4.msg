@@ -13,7 +13,7 @@
 {204}{}{, and I'm not trying to intrude, I'm just exploring.}
 
 # Node  1  [Node002]
-{210}{}{Exploring!? Exploring...MY...EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
+{210}{}{Exploring!? Exploring... MY... EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
 {211}{}{No, wait! I'm not doing you any harm! Let me explain...}
 
 # Node  2  [Node003]
@@ -27,7 +27,7 @@
 {232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
 
 # Node  4  [Node005]
-{240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill...perhaps I could find a use for you after all. }
+{240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill... perhaps I could find a use for you after all. }
 {241}{}{Huh?}
 {242}{}{No, I think I'll just scavenge some more and go. Bye!}
 
@@ -92,7 +92,7 @@
 #added in RP 2.1 - if you already repaired the computer before talking to him
 {410}{}{You the one that brought the robot control computer back online?}
 {411}{}{That's right.}
-{412}{}{Uh...maybe.}
+{412}{}{Uh... maybe.}
 {413}{}{Nope. Wasn't me.}
 {420}{}{Quatsch! You're the only flesh and blood being around, so I damn well know it was you.}
 {421}{}{Alright, fine, it was me.}

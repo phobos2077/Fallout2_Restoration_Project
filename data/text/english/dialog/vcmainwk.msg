@@ -35,7 +35,7 @@
 {134}{}{Watch it. I'm not in the mood for any bullshit today.}
 {135}{}{Thanks for the directions. Goodbye.}
 {136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
-{137}{}{*Snfff* You big meenie... *snff*... me go sumplace n' have partee wiff clowns... *snfff*... and ice creem...and kake...and me no invit smart meen peuple like YOU!}
+{137}{}{*Snfff* You big meenie... *snff*... me go sumplace n' have partee wiff clowns... *snfff*... and ice creem... and kake... and me no invit smart meen peuple like YOU!}
 {138}{}{Shamble off}
 {139}{}{Get out of here. Or I'm going to summon the guards to MAKE you get out.}
 {140}{}{Try it. I'll like it.}

@@ -18,7 +18,7 @@
 {112}{}{Grink yes!}
 {113}{}{Oh no. No no no no.}
 
-{114}{}{, pleased to meet you. I'm Phil. I own this place. Now… what'll it be?}
+{114}{}{, pleased to meet you. I'm Phil. I own this place. Now... what'll it be?}
 {115}{}{Nuka-Cola.}
 {116}{}{Beer.}
 {117}{}{Rotgut.}
@@ -95,7 +95,7 @@
 
 {194}{}{Well, all right then! What'll it be?}
 
-{198}{}{What's been going on in town? Well…}
+{198}{}{What's been going on in town? Well...}
 {1981}{}{A couple of loons've been locked up for spreading hate propaganda.}
 {1982}{}{Mine's purifiers are down.}
 {1983}{}{Caravans all over the place. That's about normal.}
@@ -103,7 +103,7 @@
 {199}{}{Thanks. I have more questions. }
 {200}{}{Thanks. Bye.}
 
-{201}{}{What to do, what to do… let's see…}
+{201}{}{What to do, what to do... let's see...}
 {202}{}{- more - }
 
 {203}{}{Someone busted those lunatics out of jail!}
@@ -150,7 +150,7 @@
 {232}{}{Nothing. Forget it.}
 
 {233}{}{I hope you don't mind me saying that the folks 'round here are a little pissed off that you
- kept that uranium for yourself. You been warned. Anyway… ready for a drink?}
+ kept that uranium for yourself. You been warned. Anyway... ready for a drink?}
 {234}{}{Yes.}
 {235}{}{No. But I have some questions.}
 

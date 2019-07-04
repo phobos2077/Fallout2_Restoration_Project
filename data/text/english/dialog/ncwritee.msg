@@ -6,7 +6,7 @@
 {150}{}{You see a young man with an angry expression. He's trying hard to look tough.}
 {151}{}{You see one of Wright's sons. He looks like he's packing a few weapons and looks a little too young to know what to be doing with them.}
 {152}{}{You see one of Wright's sons. He glares at you unsuccessfully.}
-{153}{}{You see one of Wright's sons. He looks like he'd rather be off doing something…anything…else.}
+{153}{}{You see one of Wright's sons. He looks like he'd rather be off doing something... anything... else.}
 # 1. LOOK [FEMALE]
 {160}{}{You see a young woman with a stern expression. She's trying to look tough.}
 {161}{}{You see one of Wright's daughters. She's packing a few weapons and looks a little too young to know what to be doing with them.}
@@ -18,9 +18,9 @@
 {200}{}{::Cheers::}
 {201}{}{::Claps::}
 {202}{}{::Whistles::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home…"}
+{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Hey! }
-{1204}{}{! Way to kick the Enclave's ass…er, butt!}
+{1204}{}{! Way to kick the Enclave's ass... er, butt!}
 {205}{}{Way to smash the Enclave, }
 {1205}{}{. That took some serious guts.}
 {206}{}{You must have been tougher than Tommy the Balls to break the Enclave like you did.}
@@ -44,7 +44,7 @@
 # 5. FLOAT/CLICK DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=WRIGHT [SNEAK]
 {235}{}{You nearly scart the devil outta me, sneakin' around like that!}
 {236}{}{Why're you skulkin' around like that?}
-{237}{}{Whoa! Stop tryin' ta make like a shadow…I almost shot you, fer Chrissakes! Sheesh.}
+{237}{}{Whoa! Stop tryin' ta make like a shadow... I almost shot you, fer Chrissakes! Sheesh.}
 
 # 6. FLOAT/CLICK [MALE, MADE MAN, FA = WRIGHT, NORM]
 {240}{}{Howdy, }
@@ -83,7 +83,7 @@
 
 # 14. FLOAT/CLICK [FEMALE/MALE, PRIZEFIGHTER/PORN STAR/NO REP, SNEAK]
 {280}{}{What're you sneakin' around for? That'll get you shot.}
-{281}{}{What th' hell…er, heck, you sneakin' around for? You lookin' to get shot?}
+{281}{}{What th' hell... er, heck, you sneakin' around for? You lookin' to get shot?}
 
 # 15. FLOAT AND CLICK (ANY) TO [COMPANION: ROBOBRAIN]
 {285}{}{Is that some kind of slot machine that's followin' you around?}
@@ -95,15 +95,15 @@
 # 16. FLOAT (ANY) TO [COMPANION: MARCUS]
 {295}{}{Tell me that ain't a mutant.}
 {296}{}{That a mutant?}
-{297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble…}
+{297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble...}
 {298}{}{That mutant is one big mutha.}
 {299}{}{That mutant o' yours better watch himself round here, y'hear me?}
 
 # 17. FLOAT/CLICK [FEMALE/MALE, NORM]
 {305}{}{What do you want?}
 {306}{}{Help you with somethin'?}
-{307}{}{Damn hot…}
-{308}{}{New Reno gets uglier every day…}
+{307}{}{Damn hot...}
+{308}{}{New Reno gets uglier every day...}
 {309}{}{What're you doing round here?}
 {310}{}{If you're lookin' for alcohol, the train station is the place to be.}
 {311}{}{Watch yer step around here, friend. This here's Wright Family territory.}
@@ -121,14 +121,14 @@
 # 20. CLICK [FEMALE/MALE, MADE MAN, FA = WRIGHT OR PRIZEFIGHTER]
 {335}{}{How're you, }
 {1335}{}{? Run into any trouble with anybody in town?}
-{336}{}{Good to have you in the family, uh, even though you aren't family, y'know? Uh…nevermind.}
+{336}{}{Good to have you in the family, uh, even though you aren't family, y'know? Uh... nevermind.}
 {337}{}{I heard Tommy the Balls was back in town. Scary.}
 {338}{}{We Wrights are the strongest family 'cause we ARE family.}
-{339}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it…}
+{339}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it...}
 {340}{}{Dad said he'd strangle us if he ever hears about us takin' Jet.}
 {341}{}{Dad's still upset, so be careful when you talk to him, y'hear?}
 {342}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
-{343}{}{Damn hot…}
+{343}{}{Damn hot...}
 {344}{}{Ain't seen Mom for a while. If you see her, don't mention nothin' about the stills, 'kay?}
 {345}{}{Keith took apart the piano last week and put it back together. Smart kid.}
 {346}{}{We're going huntin' for radscorpions again in a few days.}
@@ -137,7 +137,7 @@
 {349}{}{Can you teach me to fight, too?}
 {350}{}{Yer that fighter, }
 {1350}{}{, aincha? Yer good in the ring, best I ever seen in these parts.}
-{351}{}{You fight good. You should talk to Dad…er, the boss, about a job.}
+{351}{}{You fight good. You should talk to Dad... er, the boss, about a job.}
 {352}{}{We could use a strong arm around town, if yer interested.}
 {353}{}{When you gonna fight again?}
 {354}{}{I'd bet on you, but Mom gets so pissed off when we gamble.}
@@ -146,17 +146,17 @@
 
 # 22. CLICK [PORN STAR]
 {360}{}{Mom says yer a tool of the devil. Or that you have a devil's tool. Something like that.}
-{361}{}{Better not stick around…Mom might see you and start preaching.}
+{361}{}{Better not stick around... Mom might see you and start preaching.}
 {362}{}{So what's it like in the movies? Mom won't let me go see your films.}
 {363}{}{Don't tell the little ones what you do.}
 {364}{}{Mom'll throw a fit if she sees you. She's so histrionic.}
 {365}{}{If you're lookin' for alcohol, the train station is the place to be.}
 {366}{}{We Wrights are the strongest family 'cause we ARE family.}
-{367}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it…}
+{367}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it...}
 {368}{}{Dad said he'd strangle us if he ever hears 'bout us takin' Jet.}
 {369}{}{Dad's still upset, so be careful when you talk to him, you hear?}
 {370}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
-{371}{}{Damn hot…}
+{371}{}{Damn hot...}
 {372}{}{Keith took apart the piano last week and put it back together. Smart kid.}
 {373}{}{We're going huntin' for radscorpions again in a few days.}
 {374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}
@@ -169,7 +169,7 @@
 {387}{}{Watch yer step around here, friend. This here's Wright Family territory.}
 
 # 25. CLICK [SLAVER, BAD REACTION]
-{390}{}{Better take off…we don't take kindly to slavers.}
+{390}{}{Better take off... we don't take kindly to slavers.}
 {391}{}{Don't you even THINK about kidnapping anyone here. You cause any trouble, we'll gut you.}
 {392}{}{Just keep your distance, slaver. If you've got business with Pa, do it, then get.}
 {393}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
@@ -181,8 +181,8 @@
 {399}{}{You here to see Dad about business? I don't think Dad does business with slavers. You better git.}
 
 # 26. [FEMALE/MALE, NO REP, REACTION < NEUTRAL]
-{410}{}{Better take off…no offense, but Dad doesn't like tribals much.}
-{411}{}{Don't you even THINK about causing any trouble. We Wrights outnumber you by…uh, by a lot.}
+{410}{}{Better take off... no offense, but Dad doesn't like tribals much.}
+{411}{}{Don't you even THINK about causing any trouble. We Wrights outnumber you by... uh, by a lot.}
 {412}{}{Just keep your distance. If you've got business, do it, then get.}
 {413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {414}{}{I'm watching you, so you watch what you do, hear?}

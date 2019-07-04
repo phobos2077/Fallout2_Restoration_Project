@@ -14,7 +14,7 @@
 # caves
 # - general
 {200}{}{I don't trust "surfacers."}
-{201}{}{Vegeir said not to harm you...YET!}
+{201}{}{Vegeir said not to harm you... YET!}
 {202}{}{We are charged with protecting our people.}
 {203}{}{I'm watching you.}
 

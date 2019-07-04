@@ -11,19 +11,19 @@
 
 # 1. ENCLAVE DESTROYED (MALE)
 {200}{}{Man, I heard you destroyed the Enclave. Maybe NOW you want to get laid?}
-{201}{}{Man destroys the Enclave, thinks he owns the world…sheee-it.}
+{201}{}{Man destroys the Enclave, thinks he owns the world... sheee-it.}
 {202}{}{Yo, man! Only thing better than blowing an oil rig is having
  somebody blowing your rig, know what I'm saying?}
 
 # 2. ENCLAVE DESTROYED (FEMALE)
 {220}{}{I heard you destroyed the Enclave, woman. Maybe NOW you come work for me?}
-{221}{}{Woman destroys the Enclave, thinks she owns the world…sheee-it.}
+{221}{}{Woman destroys the Enclave, thinks she owns the world... sheee-it.}
 {222}{}{A sexy Enclave-busting woman like yourself could earn a LOTTA chips in this town...}
 
 # 3. (MALE PORN STAR)
 {230}{}{Woman better have my money...}
 {231}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{232}{}{Bitch better not be holding out on me…}
+{232}{}{Bitch better not be holding out on me...}
 {233}{}{Go on, then. Walk on by.}
 {234}{}{You looking for some action?}
 {235}{}{How come you don't snag one of my ladies for yo movies, brother?}
@@ -41,7 +41,7 @@
 # 4. (PORN STAR FEMALE)
 {260}{}{Woman better have my money...}
 {261}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{262}{}{Bitch better not be holding out on me…}
+{262}{}{Bitch better not be holding out on me...}
 {263}{}{Go on, then. Walk on by.}
 {264}{}{Check out that soft juicy-fruit butt.}
 {265}{}{Baby, come let me squeeze that soft juicy-fruit butt o' yours.}
@@ -62,12 +62,12 @@
 # 5. (MALE, MADE MAN)
 {290}{}{Woman better have my money...}
 {291}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{292}{}{Bitch better not be holding out on me…}
+{292}{}{Bitch better not be holding out on me...}
 {293}{}{You looking for some action?}
 {294}{}{You lookin' for some action? I give you a freebie, brother.}
 {295}{}{Let me extend a courtesy to you, friend. I give you one of my women for a whole night.}
 {296}{}{Talk to me, friend. I got a woman for you.}
-{297}{}{Yo family needs a man like me to keep the womenz in line…}
+{297}{}{Yo family needs a man like me to keep the womenz in line...}
 {298}{}{You styling, man, you styling.}
 {299}{}{Nice threads, boy-eee.}
 {300}{}{Say the word, an' I'll be watching yo back, brother.}
@@ -80,7 +80,7 @@
 # 6. (FEMALE MADE MAN)
 {320}{}{Woman better have my money...}
 {321}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{322}{}{Bitch better not be holding out on me…}
+{322}{}{Bitch better not be holding out on me...}
 {323}{}{Who is this beeeewt-ifull woman I sees?}
 {324}{}{Damn, I love a woman who knows her crime.}
 {325}{}{You styling, sister, you styling.}
@@ -93,12 +93,12 @@
 # 7. (MALE PRIZEFIGHTER)
 {350}{}{Woman better have my money...}
 {351}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{352}{}{Bitch better not be holding out on me…}
+{352}{}{Bitch better not be holding out on me...}
 {353}{}{You looking for some action, champ?}
 {354}{}{You need for some action, champ? I give you a freebie.}
 {355}{}{Let me extend a courtesy to you, champ. I give you one of my women for a whole night.}
 {356}{}{Talk to me, champ. I got the woman for you.}
-{357}{}{This ain't no Robbin' Givens I givin'…you get a good woman, know what I'm sayin?}
+{357}{}{This ain't no Robbin' Givens I givin'...you get a good woman, know what I'm sayin?}
 {358}{}{You styling, champ, you styling.}
 {359}{}{Don't you let me down in the ring, you hear?}
 {360}{}{I got 100 chips riding on you, champ. Don't be disappointing me now.}
@@ -112,7 +112,7 @@
 # 8. (FEMALE PRIZEFIGHTER)
 {380}{}{Woman better have my money...}
 {381}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{382}{}{Bitch better not be holding out on me…}
+{382}{}{Bitch better not be holding out on me...}
 {383}{}{Who is this beeeewt-ifull woman I sees?}
 {384}{}{Damn, I love a woman who knows how to beat a man up.}
 {385}{}{You styling, sister, you styling.}
@@ -123,17 +123,17 @@
 {390}{}{You the woman, the queen, the champ of ALL, know what I'm saying now?}
 {391}{}{Don't you let me down in the ring, you hear?}
 {392}{}{I got 100 chips riding on you, sister. Don't be disappointing me now.}
-{393}{}{I do so love your raven black hair...and your wicked left hook.}
+{393}{}{I do so love your raven black hair... and your wicked left hook.}
 
 # 9. FLOAT (COMPANION: MYRON)
 {410}{}{Woman better have my money...}
 {411}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{412}{}{Bitch better not be holding out on me…}
+{412}{}{Bitch better not be holding out on me...}
 {413}{}{You all looking for some action?}
 {414}{}{You two look like you need to get wet.}
 {415}{}{Yo, Myron! Whazzup?}
-{416}{}{Yo, Myron! Need any company for tonight? I got this new woman for you…}
-{417}{}{You fellas looking to get…wet?}
+{416}{}{Yo, Myron! Need any company for tonight? I got this new woman for you...}
+{417}{}{You fellas looking to get... wet?}
 {418}{}{You can't find sweeter tail ANYWHERE else.}
 {419}{}{I'm so bright, I make Reno look dim.}
 {420}{}{You look like you gots a FIRE down below.}
@@ -156,7 +156,7 @@
 # 10. (COMPANION: SPOUSE = FEMALE)
 {440}{}{Woman better have my money...}
 {441}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{442}{}{Bitch better not be holding out on me…}
+{442}{}{Bitch better not be holding out on me...}
 {443}{}{Caught Myron doin' donkey punches on my woman again.}
 {444}{}{I better not catch Myron doing the Cleveland Steamer on my woman again.}
 {445}{}{You need a friend for tonight, brother? I get you a sweeeet one.}
@@ -178,8 +178,8 @@
 # 11. FLOAT (MALE SLAVER)
 {470}{}{Woman better have my money...}
 {471}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{472}{}{Bitch better not be holding out on me…}
-{473}{}{Yo slaver! You looking to get…wet?}
+{472}{}{Bitch better not be holding out on me...}
+{473}{}{Yo slaver! You looking to get... wet?}
 {474}{}{Slaver, if you can find cheaper tail anywhere, I'll match it.}
 {475}{}{I'm so bright, I make Reno look dim.}
 {476}{}{Slaver, you look like a man with a FIRE down below.}
@@ -208,7 +208,7 @@
 # 12. (FEMALE SLAVER)
 {500}{}{Woman better have my money...}
 {501}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{502}{}{Bitch better not be holding out on me…}
+{502}{}{Bitch better not be holding out on me...}
 {503}{}{I'm so bright, I make Reno look dim.}
 {504}{}{You need a friend for tonight, slaver? I get you a sweeeet young thing, male or female, whatever
  you want.}
@@ -224,9 +224,9 @@
 # 13. (MALE, NO REP)
 {520}{}{Woman better have my money...}
 {521}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{522}{}{Bitch better not be holding out on me…}
+{522}{}{Bitch better not be holding out on me...}
 {523}{}{You looking for some action?}
-{524}{}{You looking to get…wet?}
+{524}{}{You looking to get... wet?}
 {525}{}{You can't find sweeter tail ANYWHERE else.}
 {526}{}{I'm so bright, I make Reno look dim.}
 {527}{}{You look like a man with a FIRE down below.}
@@ -234,7 +234,7 @@
 {529}{}{You got the chips, you can have a taste of heaven.}
 {530}{}{You need a friend for tonight, brother? I get you a sweeeet one.}
 {531}{}{These ain't slaves, these are professionals, hear what I'm saying?}
-{532}{}{The finest ladies in all o' New Reno. Yours for the asking...if you got the chips.}
+{532}{}{The finest ladies in all o' New Reno. Yours for the asking... if you got the chips.}
 {533}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {534}{}{I got women that make you a real man, only cost a few chips.}
 {535}{}{I got the mother lode in my stable.}
@@ -250,7 +250,7 @@
 # 14. (FEMALE, NO REP)
 {550}{}{Woman better have my money...}
 {551}{}{These tourists ain't nearly as horn-ay as I'd like.}
-{552}{}{Bitch better not be holding out on me…}
+{552}{}{Bitch better not be holding out on me...}
 {553}{}{::Scoping you out::}
 {554}{}{Yo, sweetness, come talk to me for a moment.}
 {555}{}{Come here, I got a pro-position for you.}

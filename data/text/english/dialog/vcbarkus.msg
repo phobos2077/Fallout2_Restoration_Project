@@ -1,25 +1,25 @@
-{100}{}{You see...another...Vault City official.}
+{100}{}{You see... another... Vault City official.}
 {101}{}{You see Barkus, the Vault City Servant Coordinator.}
 {102}{}{What th--?! A mutant! In Vault City! Guards! Guards!}
 {103}{}{What th--?! A ghoul! In Vault City! Guards! Guard!}
-{104}{}{Umm...hurnhh?}
+{104}{}{Umm... hurnhh?}
 {105}{}{If it's a fight you want...}
 {106}{}{The Servant Allocation Center is closed. Please return in the morning.}
 {107}{}{Yes, Captain?}
 {108}{}{Yes, Citizen?}
 {109}{}{Yes, what is it? I'm behind in my assignments.}
-{110}{}{Umm...Me luuwk Valt!}
+{110}{}{Umm... Me luuwk Valt!}
 {111}{}{Shamble off}
 {112}{}{What is this building?}
 {113}{}{I'm looking for the Vault.}
-{114}{}{I'm looking for a particular Servant...Joshua, I believe. Is he here?}
-{115}{}{You looking to buy any slaves...er, servants?}
+{114}{}{I'm looking for a particular Servant... Joshua, I believe. Is he here?}
+{115}{}{You looking to buy any slaves... er, servants?}
 {116}{}{Nothing today, thanks.}
 {117}{}{This? Why, this is the Servant Assignment Center. Were you in need of a servant?}
 {118}{}{This is the Servant Assignment Center.}
 {119}{}{Servant Assignment Center? What's that?}
-{120}{}{I'm looking for a particular Servant...Joshua, I believe. Is he here?}
-{121}{}{Servant Allocation, huh? Do you buy slaves...er, servants here?}
+{120}{}{I'm looking for a particular Servant... Joshua, I believe. Is he here?}
+{121}{}{Servant Allocation, huh? Do you buy slaves... er, servants here?}
 {122}{}{No, just curious. Thanks.}
 {123}{}{Just curious. thanks.}
 {124}{}{The Vault? It's that huge hole in the mountain on the east side of the city. Head out the front door, turn left and walk straight ahead. You can't miss it.}
@@ -30,19 +30,19 @@
 {129}{}{What th-? Are you one of the new Servants?}
 {130}{}{Yup}
 {131}{}{Uh-uh me leave now}
-{132}{}{You must be new around here. I'll explain it...slowly.}
+{132}{}{You must be new around here. I'll explain it... slowly.}
 {133}{}{Citizens who need help with menial tasks come here to have a Servant assigned to them for the day.}
 {134}{}{That sounds a lot like slavery.}
 {135}{}{Oh, so this is where the slaves are stored? Why didn't you say so?}
 {136}{}{Where do you get all these servants?}
-{137}{}{I am looking for a particular Servant...Joshua, I believe. Is he here?}
-{138}{}{Are you looking to buy slaves...er, servants, right now?}
+{137}{}{I am looking for a particular Servant... Joshua, I believe. Is he here?}
+{138}{}{Are you looking to buy slaves... er, servants, right now?}
 {139}{}{All right, just curious, thanks. Good day.}
 {140}{}{I'm tired of Servants being sent over with no clearance... *sigh*... let's see, you said you were looking for the Vault?
  That must be your assignment for the day. Very well. I will have someone escort you there.}
 {141}{}{Valt! Valt!}
 {142}{}{I'd watch that kind of talk if I were you. It is NOT slavery. We take care of these refugees,
- and they have a good life...better than they would get in the wastes.}
+ and they have a good life... better than they would get in the wastes.}
 {143}{}{Where do you get them?}
 {144}{}{Oh, I had some other questions...}
 {145}{}{That's all I needed to know then, thanks. Good day.}
@@ -53,17 +53,17 @@
 {150}{}{Oh, you mean scripters? I knew this guy named Dan once who...}
 {151}{}{At the cost of their freedom, eh?}
 {152}{}{Do you have a contractual prisoner named Joshua in custody?}
-{153}{}{Are you looking to buy any slave...er, servants...right now?}
+{153}{}{Are you looking to buy any slave... er, servants... right now?}
 {154}{}{Hmmm. I had another question...}
 {155}{}{I see. Thanks for the information.}
 {156}{}{No, not scripters, you moron.}
 {157}{}{Moron? I had to work hard to get the minimum 9 Intelligence and Perception to find this node. Anyway, you were saying?}
 {158}{}{You're a fine one to make moral judgments, slaver. Get out of here.}
-{159}{}{You sound a lot like that idiot Moore...just what Vault City needs. Look, whoever you are, I have work to do, so if you'll kindly remove yourself...}
+{159}{}{You sound a lot like that idiot Moore... just what Vault City needs. Look, whoever you are, I have work to do, so if you'll kindly remove yourself...}
 {160}{}{All right, all right...}
 {161}{}{Why don't you make me leave?}
 {162}{}{Joshua? Yes, we do have a Servant by that name, but you wouldn't want him assigned to you.
- Training him has been...difficult. I'm not certain he can be trained.}
+ Training him has been... difficult. I'm not certain he can be trained.}
 {163}{}{Joshua? I think we once had a Servant by that name, but not anymore.}
 {164}{}{I need to question him about a matter of Vault City security. Have him sent to the Courtyard
  at once.}
@@ -83,7 +83,7 @@
 {176}{}{I could purchase him and take him off your hands. Does the Center take..."donations?"}
 {177}{}{Just one more question...}
 {178}{}{All right. Goodbye.}
-{179}{}{That's true. I have had to separate him from some of the others...and just yesterday one of the Servants actually had the audacity to question one of my requests.}
+{179}{}{That's true. I have had to separate him from some of the others... and just yesterday one of the Servants actually had the audacity to question one of my requests.}
 {180}{}{You should release him now before it gets worse.}
 {181}{}{Joshua? Yes, we do have a Servant by that name. He was recently transferred from the Corrections Center. Your interest in him is...?}
 {182}{}{I'd like to negotiate for his release.}
@@ -104,7 +104,7 @@
 {197}{}{I'll think about it. I did have some other questions...}
 {198}{}{I see. I may return later.}
 {199}{}{I see. I may return later when I have enough funds for a donation.}
-{200}{}{Well...that's not as much of a donation as I would like, but it will do. I shall see to it that this Joshua you have
+{200}{}{Well... that's not as much of a donation as I would like, but it will do. I shall see to it that this Joshua you have
  requested is shipped to the Courtyard for processing. Let me make the necessary arrangements.}
 {201}{}{Okay.}
 {202}{}{It is done. Joshua is no longer a servant of Vault City, and he has been moved into the Courtyard with the rest
@@ -129,9 +129,9 @@
 {220}{}{Uh...}
 {221}{}{'s Syndrome. A lot of Outworlders have it. Its symptoms include, uh, speaking when not being spoken to. And using
  coarse language.}
-{222}{}{Hmmmm. It wouldn't do if Citizens began to report problems with the Servants...very well, I shall release Joshua at
+{222}{}{Hmmmm. It wouldn't do if Citizens began to report problems with the Servants... very well, I shall release Joshua at
  once. If you would give me a moment to make the arrangements...}
-{223}{}{Yes...I have noticed those symptoms in the Servants of late. Contagious, you say? Hmmm. Well, if this Joshua is a
+{223}{}{Yes... I have noticed those symptoms in the Servants of late. Contagious, you say? Hmmm. Well, if this Joshua is a
  carrier, I shall release him at once. Give me a moment to make the arrangements...}
 {224}{}{No problem. Joshua would be better off with the Outworlders anyway.}
 {225}{}{Of course, Captain. I will take care of it right now.}
@@ -141,10 +141,10 @@
 {229}{}{Yes, I have a few right here with me. Take a look and make me an offer.}
 {230}{}{No, actually. I had some questions for you...}
 {231}{}{No, not today, actually. Goodbye.}
-{232}{}{Hmmm. That woman there, Miria, is it? She has strong arms...and nice hips. I will buy her from you for $250.}
+{232}{}{Hmmm. That woman there, Miria, is it? She has strong arms... and nice hips. I will buy her from you for $250.}
 {233}{}{Hmmm. that boy there, Davin, is it? He looks relatively free from Outworlder contamination. I will buy him from you for $200.}
-{234}{}{Hmmm. That tribal you have. He smells...strongly. But he looks healthy. I'll take him for $100.}
-{235}{}{Hmmm. That man there...Vic, is it? Even though he's old, he looks like a handyman. $100.}
+{234}{}{Hmmm. That tribal you have. He smells... strongly. But he looks healthy. I'll take him for $100.}
+{235}{}{Hmmm. That man there... Vic, is it? Even though he's old, he looks like a handyman. $100.}
 {236}{}{Perhaps you should return when you have a servant of value to show me. Your current stock...
  is unimpressive.}
 {237}{}{C'mon, the slave's worth more than that.}
@@ -160,7 +160,7 @@
 {247}{}{All right, that's fair. The servant's all yours.}
 {248}{}{Forget it, then. I did have some questions I wanted to ask you...}
 {249}{}{Nothing it is, then. I can't afford to let my servant go for that price. Maybe some other time.}
-{250}{}{Hmmmm...She does look like a healthy specimen...maybe I could put her to work around here. $500. And that's my final offer.}
+{250}{}{Hmmmm... She does look like a healthy specimen... maybe I could put her to work around here. $500. And that's my final offer.}
 {251}{}{Hmmmm. He is a healthy specimen. $400 for him, then.}
 {252}{}{Hmmmm. All right. $200, then. And no more haggling.}
 {253}{}{Hmmmmmmm. $200. And not a dollar more.}
@@ -174,7 +174,7 @@
 {261}{}{Give me a moment to take care of the arrangements...}
 {262}{}{Sure. I'll just wait here.}
 {263}{}{Very well. Your Servant has been relocated for medical testing and re-conditioning.
- Curious...the Servant seemed quite surprised by the whole affair. It took a few tranquilizer
+ Curious... the Servant seemed quite surprised by the whole affair. It took a few tranquilizer
  darts to smooth things over. I put everything the Servant was carrying in the box in my office.}
 {264}{}{Well, Servants will be Servants. I had some other questions I wanted to ask you...}
 {265}{}{Really? Well, I 'm sure they'll be more docile as time goes on. Are you interested in any other companions?}

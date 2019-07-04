@@ -145,7 +145,7 @@
 {400}{}{I can't believe it. How did you do it? Oh, never mind. I'm just stunned,
  that's all. To show my appreciation, I'll split it with you, right down the
  middle. Thank you again, that was very honest of you.}
-{401}{}{Oh, I'm so glad you were able to find it… Thank you very much. Here's your money.}
+{401}{}{Oh, I'm so glad you were able to find it... Thank you very much. Here's your money.}
 {402}{}{You're welcome.}
 
 # 12. Deaths (From 10)

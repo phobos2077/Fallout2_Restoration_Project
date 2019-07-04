@@ -64,7 +64,7 @@
 
 # 8. RETURN ITEMS MENU (7, 9, 10, 11, 12)
 {260}{}{(Al takes the item, and his eyes light up. He tinkers with it for a few minutes, then a few minutes more,
- then a few more… an hour later, Al hands it back to you with a nod and an evil smile.) *Booooooom.*}
+ then a few more... an hour later, Al hands it back to you with a nod and an evil smile.) *Booooooom.*}
 {261}{}{Say... can you upgrade THIS?}
 {262}{}{Thanks, Al.}
 

@@ -6,9 +6,9 @@
 {151}{}{You see a pit boss. He is surveying the casino.}
 
 # 1. FLOAT DIALOGUE: POWER ARMOR (WTG)
-{200}{}{Uh…you'll need to remove that armor.}
-{201}{}{Uh, sir…or ma'am…you'll need to remove that armor.}
-{202}{}{Sir…ma'am…you can't wear that in the casino.}
+{200}{}{Uh... you'll need to remove that armor.}
+{201}{}{Uh, sir... or ma'am... you'll need to remove that armor.}
+{202}{}{Sir... ma'am... you can't wear that in the casino.}
 
 # 2. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO, SNEAK (WTG)
 {205}{}{Uh, why are you sneaking around, sir?}
@@ -55,7 +55,7 @@
 {250}{}{Ma'am, I'm sorry, you'll have to secure that weapon.}
 
 # 12. FLOAT DIALOGUE: PORN STAR, FEMALE (ARMED) (WTG)
-{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh...you're deadly enough as it is.}
+{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh... you're deadly enough as it is.}
 
 # 13. FLOAT DIALOGUE: PORN STAR, FEMALE (SNEAK) (WTG)
 {260}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
@@ -67,7 +67,7 @@
 {270}{}{Tribal, you better stop that sneaking around shit right NOW.}
 
 # 16. MYRON, MORDINO (WTG)
-{275}{}{Hey, hey…Myron! Ain't seen you outside the lab in a long time.}
+{275}{}{Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
 {276}{}{You here to sample some of the new merchandise, Myron?}
 {277}{}{Hey! Come on in, Myron.}
 
@@ -87,12 +87,12 @@
 {1306}{}{. Take a rest from saving the world and have some fun.}
 
 # 20. FLOAT DIALOGUE: DAY (WTG)
-{310}{}{Need some more chips at table three…}
-{311}{}{Good crowd today…}
+{310}{}{Need some more chips at table three...}
+{311}{}{Good crowd today...}
 
 # 21. FLOAT DIALOGUE: NIGHT (WTG)
-{320}{}{Need some more chips at table three…}
-{321}{}{Good crowd tonight…}
+{320}{}{Need some more chips at table three...}
+{321}{}{Good crowd tonight...}
 
 # 22. INTRO (WTG)
 {335}{}{Hey, }
@@ -154,7 +154,7 @@
 {304}{}{Wander off}
 
 # 26.  MOM SAYS I WAS SPESHAL (25)
-{315}{}{Yeah, yer Mom said I was special, too. Now take a hike…maybe she's along Virgin street somewhere.}
+{315}{}{Yeah, yer Mom said I was special, too. Now take a hike... maybe she's along Virgin street somewhere.}
 {316}{}{Oh goodie! Bye bye}
 {317}{}{Wander off}
 
@@ -175,8 +175,8 @@
 {1339}{}{Nothing, thanks. Sorry to bother you.}
 
 # 29.  WHAT CAN YOU TELL ME ABOUT THIS CASINO? (22, 23, 24, 27, 28, 30)
-{1345}{}{Best goddamn casino in town…but I am a little biased. Anything else you want to know?}
-{1346}{}{Best goddamn casino in town, best goddamn tables…now why don't you run along now, check 'em out? All right?}
+{1345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
+{1346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
 {1347}{}{Who are you?}
 {1348}{}{Who owns this casino?}
 {1349}{}{Okay, thanks. Sorry to bother you.}
@@ -191,19 +191,19 @@
 {359}{}{I see. Thanks for your time.}
 
 # 31.  McGEE (22, 23, 24)
-{1365}{}{That guy? Old Man McGee? Crazy sumabitch…he's been playing that machine
+{1365}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine
  there for the past few years, waiting for the big jackpot. His life fortune
  must be sitting in that thing, but it won't give him a single chip.}
 {1366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
  Sure was pissed about you winning his fortune. I'd be careful around him.}
 {1367}{}{Is the machine rigged?}
-{1368}{}{I had some other questions…}
+{1368}{}{I had some other questions...}
 {1369}{}{Thanks for the information.}
 
 # 32.  IS THE MACHINE RIGGED? (31)
-{375}{}{Nope, it's just stubborn…just like him. It could probably use a little repair work, but we ain't got no slot
+{375}{}{Nope, it's just stubborn... just like him. It could probably use a little repair work, but we ain't got no slot
  mechanics that can fix that damn thing.}
-{376}{}{I had some other questions…}
+{376}{}{I had some other questions...}
 {377}{}{Interesting. Thanks for the information.}
 
 # 33.  PRETTY BOY LLOYD? (22, 23, 24)
@@ -212,34 +212,34 @@
 {386}{}{Yeah, some guy by that name was rentin' one of th' rooms upstairs...204. He was all paid up, but he bailed
  a few days ago and nobody saw him leave.}
 {387}{}{Mr. Salvatore mentioned that there was a specific dealer that Lloyd won the money from. Who was that?}
-{388}{}{I had some other questions…}
+{388}{}{I had some other questions...}
 {389}{}{Thanks for the information.}
 
 # 34.  NIKKI? (33)
 {395}{}{Nikki? Yeah, she's over there, at the middle table. Is there some sort of problem?}
-{396}{}{No problem. Just wanted to meet her. I had some other questions…}
+{396}{}{No problem. Just wanted to meet her. I had some other questions...}
 {397}{}{Thanks for the information.}
 
 # 35.  NIKKI DEAD (33)
-{405}{}{Her name WAS Nikki. She used to work here but she got aced…not too long ago.}
-{406}{}{Hmmm. Do you mind if I ask you some other questions…?}
+{405}{}{Her name WAS Nikki. She used to work here but she got aced... not too long ago.}
+{406}{}{Hmmm. Do you mind if I ask you some other questions...?}
 {407}{}{Interesting. Thanks for the information.}
 
 # 36.  NIKKI RAN (33)
 {415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
-{416}{}{Do you mind if I ask you some other questions…}
+{416}{}{Do you mind if I ask you some other questions...}
 {417}{}{Interesting. Thanks for the information.}
 
 # 37.  NEED A DANCER (22, 23, 24)
-{425}{}{Sure, be good for business. Dressing room's in the back…}
+{425}{}{Sure, be good for business. Dressing room's in the back...}
 {426}{}{Excellent. I'll be on stage in a few minutes...}
-{427}{}{Not right now. I had some other questions…}
+{427}{}{Not right now. I had some other questions...}
 {428}{}{Not right now, but I'll be back.}
 
 # 38.  NEED A DANCER (22, 23, 24)
 {435}{}{No, we're still recovering from your last gig. You might want to check some of the other casinos.}
-{436}{}{All right, thanks. Say, I had some other questions…}
-{437}{}{Okay…though I will be back.}
+{436}{}{All right, thanks. Say, I had some other questions...}
+{437}{}{Okay... though I will be back.}
 
 # 39.  PERFORM (37)
 {445}{}{[You count up the evening's chips. Not a bad haul.]}
@@ -248,9 +248,9 @@
 {448}{}{[CONTINUE]}
 
 # 40.  PERFORM (22, 24)
-{455}{}{Yeah, he stinks worse than brahmin shit. Still, you…? Aw, why the hell not. A little improv ain't gonna hurt, but
- it's a rough crowd…better hope you're good.}
-{456}{}{Oh, I'm good…just watch me go.}
+{455}{}{Yeah, he stinks worse than brahmin shit. Still, you...? Aw, why the hell not. A little improv ain't gonna hurt, but
+ it's a rough crowd... better hope you're good.}
+{456}{}{Oh, I'm good... just watch me go.}
 {457}{}{Not right now, but I'll be back.}
 
 # 41.  JOKE PERFORM SUCCESS (22, 24)
@@ -293,7 +293,7 @@
 {1004}{}{Someone once told me I don't exercise enough. Well, they're wrong. I get my exercise running to the funerals of my friends who exercise.}
 
 # 44.  Jokes----BAD
-{1500}{}{Umm...Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
+{1500}{}{Umm... Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
 {1501}{}{Yo mama sooooooo fat that I had to take a plane, a train, and an automobile just to get on the bitch's good side.}
 {1502}{}{Alright, what did one plate say to the other?}
 {2502}{}{Lunch is on me.}

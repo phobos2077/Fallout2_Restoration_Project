@@ -1,4 +1,4 @@
-{100}{}{You see a large stone monument that appears to be...mumbling to itself?}
+{100}{}{You see a large stone monument that appears to be... mumbling to itself?}
 {101}{}{You see a stone monument of the Vault Dweller's head. It's a pretty flattering likeness, though
  you doubt the Vault Dweller's head was actually that size.}
 {102}{}{You see a large stone monument.}
@@ -19,12 +19,12 @@
 {116}{}{It is a mystery to me how I ended up out here in the desert.}
 {117}{}{I still don't see why I have to sit out here in the desert, while that other head gets to hang
  out at the village.}
-{118}{}{I mean, he gets worshipped and cleaned and prayed to...all I get is to look at sand all day.}
+{118}{}{I mean, he gets worshipped and cleaned and prayed to... all I get is to look at sand all day.}
 {119}{}{I hear those guys at Easter Island have it pretty good.}
 {120}{}{I bet Stonehenge gets more visitors than me.}
-{121}{}{Hrnnfff...uh-uh, Mom...therez no school today...Zsnzzzzz}
-{122}{}{Zzzsnnnzzzz...I don wanna get up yet....Zzznnsss}
-{123}{}{Zzsssccs...eh?}
+{121}{}{Hrnnfff... uh-uh, Mom... therez no school today... Zsnzzzzz}
+{122}{}{Zzzsnnnzzzz... I don wanna get up yet....Zzznnsss}
+{123}{}{Zzsssccs... eh?}
 {124}{}{Wha--?}
 {125}{}{GET YOUR DAMN HANDS OFFA ME!}
 {126}{}{Player should turn around, take a few steps back, then turn back around and face the monument.}
@@ -47,10 +47,10 @@
 {139}{}{UH-UH.}
 {140}{}{Uh-huh.}
 {1140}{}{Uh-huh.}
-{141}{}{UH...UH...}
-{142}{}{Uh...huh...}
-{1142}{}{Uh...huh...}
-{143}{}{UH...ENOUGH OF THIS!}
+{141}{}{UH... UH...}
+{142}{}{Uh... huh...}
+{1142}{}{Uh... huh...}
+{143}{}{UH... ENOUGH OF THIS!}
 {144}{}{VERY WELL! YOU HAVE PROVEN YOURSELF!}
 {145}{}{YOU *ARE* THE CHOSEN ONE!}
 {146}{}{TAKE THIS!}

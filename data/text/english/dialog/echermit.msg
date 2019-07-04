@@ -13,7 +13,7 @@
 {112}{}{I best leave.}
 {113}{}{Leave now.}
 {114}{}{I'll be going now.}
-{115}{}{Hmm...I like you. No ear talk off. Stay, trade me and you.}
+{115}{}{Hmm... I like you. No ear talk off. Stay, trade me and you.}
 {116}{}{K'}
 {117}{}{Me go.}
 {118}{}{Nice talk. Go now. Tired am I.}

@@ -102,11 +102,11 @@
 {173}{}{Sounds like you're quite a guy. Well, I don't want to take anymore of your valuable time, Mr.
  Dangerous. Goodbye.}
 {174}{}{Them's fightin' words in these here parts. You ready to back that up?}
-{175}{}{Yes, I am. You've opened your big yap once too many times. Draw…pilgrim.}
+{175}{}{Yes, I am. You've opened your big yap once too many times. Draw... pilgrim.}
 {176}{}{I could if I thought you'd give me enough satisfaction to pay for the ammo it'd take to kill you.}
 {177}{}{I could, if I wanted too. But I'm too busy to mess with you right now.}
 {178}{}{Yeah, that's what I thought. (pause) You're yellow.}
-{179}{}{I'll show you yellow...when I cut out your spleen. I'm a-callin' you out.}
+{179}{}{I'll show you yellow... when I cut out your spleen. I'm a-callin' you out.}
 {180}{}{We'll just see about that, someday. Goodbye for now.}
 {181}{}{A Garden of Eden Creation Kit? Never heard of something like that. I tend to find my Eden in
  Lou's sweet arms.}
@@ -115,7 +115,7 @@
 {184}{}{The search continues. Goodbye.}
 {185}{}{It is when it isn't short for Louisa, like my Lou's is. She runs the Malamute Saloon here in
  town. Hey, just what are you getting at, anyway?}
-{186}{}{Uh...nothing, Dan. Nothing. Let me ask you about something else.}
+{186}{}{Uh... nothing, Dan. Nothing. Let me ask you about something else.}
 {187}{}{Nothing. Just figuring out something, that's all. Goodbye, sweet-pea.}
 {188}{}{My mistake. Well, I better be rambling along. Goodbye.}
 {189}{}{Well, one thing's for sure: I could sure use a new Control Chip for my Excavator machine.}
@@ -131,7 +131,7 @@
 {198}{}{I'm just naturally active, I guess. Let me ask you something else.}
 {199}{}{I'm not sure what you mean, but I don't have time to find out right now. Goodbye.}
 {200}{}{Yeah, I mean the Excavator Chip that you sold to Marge LeBarge over at the Kokoweef Mine. That
- was a real mistake...not just for me, but for Redding.}
+ was a real mistake... not just for me, but for Redding.}
 {201}{}{What do you mean by that?}
 {202}{}{Those are the breaks, pal. Let me ask you about something else going on in town.}
 {203}{}{Shit happens. See you around, maybe.}
@@ -235,7 +235,7 @@
 {276}{}{I guess I was wrong when I thought you had what it takes. Get out of here; you're waistin' my time.}
 {277}{}{Ye', yes, sir. I'm leaving now, sir.}
 {278}{}{We all make mistakes, bub. Goodbye.}
-{279}{}{Heck...if I were you, I'd buy the deed to the place, clear it out, and sell it back to Mayor
+{279}{}{Heck... if I were you, I'd buy the deed to the place, clear it out, and sell it back to Mayor
  Ascorti. He's the deed-holder now.}
 {280}{}{Take care of yourself. I really need that chip.}
 {281}{}{Let me ask you about some other stuff going on in town.}

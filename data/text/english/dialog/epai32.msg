@@ -76,10 +76,10 @@
 {271}{}{Storage Tank Two reports 2 remaining seed packets, each of similar or different families. No research has been conducted and the outcome of seed germination is unknown.}
 {273}{}{Retrieve seeds.}
 
-{280}{}{Collecting seed samples...Successfully collected 5 packets of genetically modified corn seeds. Depositing packets to collection container...Success...
- Closing storage container...Success.}
-{281}{}{Collecting seed samples...Successfully collected 2 packets of unknown seeds. Depositing packets to collection container...Success...
- Closing storage container...Success.}
+{280}{}{Collecting seed samples... Successfully collected 5 packets of genetically modified corn seeds. Depositing packets to collection container... Success...
+ Closing storage container... Success.}
+{281}{}{Collecting seed samples... Successfully collected 2 packets of unknown seeds. Depositing packets to collection container... Success...
+ Closing storage container... Success.}
 
-{290}{}{Downloading Botany database to a holodisk...75% complete...Finished. Please remove the disk and return to the menu.}
+{290}{}{Downloading Botany database to a holodisk...75% complete... Finished. Please remove the disk and return to the menu.}
 {291}{}{Back.}

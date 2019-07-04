@@ -31,9 +31,9 @@
 {127}{}{Ghouls are not permitted inside the city! You must leave!}
 {128}{}{Yes, I am already owned. The Servant Allocation Center has my papers.}
 {129}{}{Please leave me be. I am a Servant of Vault City.}
-{130}{}{I beg you: have you seen two children, dark-hair…? They were taken by other slavers two years
+{130}{}{I beg you: have you seen two children, dark-hair...? They were taken by other slavers two years
  ago and sold North.}
-{131}{}{Please… I am not permitted to speak to anyone.}
+{131}{}{Please... I am not permitted to speak to anyone.}
 {132}{}{If a Citizen catches me talking to a slaver, I will be punished.}
 {133}{}{The guards will report me if you continue to talk to me.}
 {134}{}{I cannot speak to you. I have duties.}

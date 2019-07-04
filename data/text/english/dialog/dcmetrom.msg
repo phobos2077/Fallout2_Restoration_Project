@@ -28,4 +28,4 @@
 {261}{}{You're the first woman Metzger's ever hired.}
 {262}{}{Metzger must have a soft spot for you.}
 {263}{}{You're all alone little lady.}
-{264}{}{A woman slaver… Never thought I would see it.}
+{264}{}{A woman slaver... Never thought I would see it.}

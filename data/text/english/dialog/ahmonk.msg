@@ -15,7 +15,7 @@
 
 {400}{}{What do you want to know?}
 {401}{}{Okay. I'd like to know something else.}
-{402}{}{Hmm….that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
+{402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
 {404}{}{I don't know anything about that.}
 {405}{}{Well, thanks anyway.}
@@ -74,7 +74,7 @@
  written works, from literary classics, to scientific encyclopedias.}
 {435}{}{What happened then?}
 {436}{}{I've heard enough.}
-{437}{}{They soon realized the true treasure trove of wisdom stored within those books—especially the scientific tomes.
+{437}{}{They soon realized the true treasure trove of wisdom stored within those books--especially the scientific tomes.
  Here were the chronicles of a fallen civilization. A lost age. There were a few who thought it might be best to
  destroy this knowledge, for fear that it would once again guide humanity towards apocalypse. But it was eventually
  decided that they would instead dedicate themselves to ensuring the preservation of the books, to be released when,
@@ -112,11 +112,11 @@
  of people. Even if you don't think the world's ready for this knowledge, I don't see why *you* can't at least try to learn from it.
  Otherwise, what's the point of keeping it?}
 {454}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years...that would be blasphemous against our faith. No, I feel we must continue
+ for us. To alter things now, after so many years... that would be blasphemous against our faith. No, I feel we must continue
  to live by the rules set by our ancestors.}
 
 {455}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years...that would be blasphemous against our faith. Still, I shall consider
+ for us. To alter things now, after so many years... that would be blasphemous against our faith. Still, I shall consider
  your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.}
 {456}{}{Thanks. I'd like to know something else though.}
 {457}{}{Very well. I'd like to know something else though.}
@@ -135,7 +135,7 @@
 {605}{}{[Frowns.] I see. Fine, here, take these coins. Now go, and stop bothering me.}
 {606}{}{Thank you, *father*.}
 
-{700}{}{Uhh...no I seem to have misplaced it.}
+{700}{}{Uhh... no I seem to have misplaced it.}
 {701}{}{What!? [He sighs deeply.] It is most unfortunate that you were unable to recover that book. But you say you've
  killed the beast? Hm, then it should be safe to send our own people down to continue searching for it. Anyway, for your
  service, I shall grant you access to our computers. Go see Brother Paul for the access key.}
@@ -145,7 +145,7 @@
  completely. If you know anything about machinery, do you think you could take a look and see if something could be done?
  There are a few merchants already working on it. I fear that little progress has been made though.}
 {801}{}{I'm happy to help. I'll report back on the progress.}
-{802}{}{Sure, I'll be glad to help...for a price of course.}
+{802}{}{Sure, I'll be glad to help... for a price of course.}
 {803}{}{Actually on second thought, let me ask you something else.}
 {804}{}{What!? Oh, fine. If that's the kind of person you are, then you shall receive payment for your service. Here's
  25 coins to begin with.  Please let me know if something can be done. [The man sighs as he hands you the coins]}
@@ -179,7 +179,7 @@
 {1100}{}{I was down there earlier. I saw a few dead bodies, so I'm guessing one of them belonged to your missing monk. If
  it makes you feel any better, I killed the thing responsible for his death.}
 
-{1110}{}{Ah...so it's as I feared. Brother Thomas shall be dearly missed. You have my thanks for ridding us of whatever
+{1110}{}{Ah... so it's as I feared. Brother Thomas shall be dearly missed. You have my thanks for ridding us of whatever
  wasteland beasts lurked down there. However, I... I don't suppose you found a book while you were down there. It's a very
  important book that was last known to be in Brother Thomas's possession.}
 {1111}{}{No, but I suppose I could go back and check.}

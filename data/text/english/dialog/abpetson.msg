@@ -26,7 +26,7 @@
 {402}{}{Do you know anything about a Garden of Eden Creation Kit?}
 
 {500}{}{Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
- in the monastery's computers. Unfortunately for you, those monks are real protective of their information—afraid that it'll
+ in the monastery's computers. Unfortunately for you, those monks are real protective of their information--afraid that it'll
  lead to another war or something if people learn too much. Still, it might be worth asking around there.}
 {501}{}{Thanks, I'll go do that. I've got some more questions though.}
 {502}{}{Thanks for the tip. I'll go check that out right now.}
@@ -42,7 +42,7 @@
  again. This time I crept to the window and looked out rather than rushing outside. Peering into the darkness, I saw a
  dim light, like from an old lantern or something, moving among the crops. After a couple minutes the light moved toward
  the cemetery.}
-{606}{}{I wanted to go out and confront whoever—or whatever—it was, but the wife convinced me to stay inside and check
+{606}{}{I wanted to go out and confront whoever--or whatever--it was, but the wife convinced me to stay inside and check
  on things in the morning. So the next morning, I see some of my crops had been eaten and there's fresh footprints all
  around. Now, I don't mind feeding the poor, but I don't take kindly to thieves.}
 {6061}{}{After that, I asked Brother Samuel if anything had happened in the graveyard. That's when he told me someone

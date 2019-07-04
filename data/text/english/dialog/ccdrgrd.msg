@@ -77,6 +77,6 @@
 {162}{}{Yeah, right. I tell you the cleaning crew's coming and then you magically just become one of 'em.
  You haven't even left my sight. You think I'm a fuckin' moron? Get out of here!}
  
-{200}{}{(speaking to self) Commander. (pause) Are you there Commander? (pause) Hmm...No response. That's not like him at all.
+{200}{}{(speaking to self) Commander. (pause) Are you there Commander? (pause) Hmm... No response. That's not like him at all.
  I better go check on him.}
 {201}{}{(Holy shit the Commander is dead! Sound the alarms we have an intruder!!}

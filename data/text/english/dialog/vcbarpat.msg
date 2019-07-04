@@ -40,11 +40,11 @@
 {139}{}{Don't drink the water around here. It makes geiger counters tick.}
 {140}{}{Whenever those Citizens walk by, they don't make eye contact or say hello.}
 {141}{}{Vault City may not love us, but at least they protect us.}
-{142}{}{Watch out for that Auto-Doc. It cures you...most of the time. Just don't press your luck.}
+{142}{}{Watch out for that Auto-Doc. It cures you... most of the time. Just don't press your luck.}
 {143}{}{Ed, the brahmin dealer, had to raise his prices again to meet the monthly guard payment.}
 {144}{}{That Skeev let me slip some hootch into town for a percentage. }
 {145}{}{Been on the road for the past week. Came from NCR, way down south.}
-{146}{}{Some friends of mine went to Reno...ain't seen 'em since.}
+{146}{}{Some friends of mine went to Reno... ain't seen 'em since.}
 {147}{}{I hear Reno's getting tense again. Them families hate each other.}
 {148}{}{I hear those ghouls up at Gecko are planning to attack the city.}
 {149}{}{Don't cross any of the Citizens or they'll slap you in the Detention Center.}

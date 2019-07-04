@@ -18,7 +18,7 @@
 {140}{}{I smell one of my Talismans on you, but I don't remember giving you one.}
 {141}{}{I found it.}
 {142}{}{Uh, you must have forgotten.}
-{143}{}{It's just my aftershave. Old Mice —- do you like it?}
+{143}{}{It's just my aftershave. Old Mice -- do you like it?}
 {144}{}{I killed one of your drones and took it from his still warm corpse.}
 {145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
 
@@ -133,7 +133,7 @@
 
 {330}{}{Now you're one of us. Soon, I will take over the world and all of you will be Renewed.}
 {331}{}{Uh, yeah. Whatever you say.}
-{332}{}{That's it. That's enough. This stops right here. Someone's gotta stomp you out of existence -—
+{332}{}{That's it. That's enough. This stops right here. Someone's gotta stomp you out of existence --
  and that someone's me.}
 
 {340}{}{Well, then, I suppose we have nothing more to say to one another. But you know that I cannot
@@ -187,7 +187,7 @@
  allow you to join my cult. Isn't there something you should be doing right now?}
 {442}{}{(crunch, munch, crunch) Mmmm, I love Cheezy Poofs, they're so, well, uh, Cheesy.}
 {443}{}{(crunch, munch, crunch) Mmmm, I love Cheezy Poofs, they're so, well, uh, Cheesy.}
-{444}{}{Uh…}
+{444}{}{Uh...}
 
 {450}{}{So be it. Zomak! Kill this fool for me. But be careful with the Cheezy Poofs!}
 
@@ -308,7 +308,7 @@
 #was 701,702,703 - killap
 {716}{}{It appears that Gordon has already given you this Economic Data Disk that I speak of. Take it to Vault City immediately.}
 {717}{}{I'm on it.}
-{718}{}{Umm...yeah, maybe later.}
+{718}{}{Umm... yeah, maybe later.}
 
 {719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
 {720}{}{Very well, I shall help you.}

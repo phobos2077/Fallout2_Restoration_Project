@@ -41,7 +41,7 @@
 
 # Node 14
 {176}{}{Have you come to the right place! This town is so boring, there's nothing else to do but gossip
- and… [She keeps talking for awhile and sometime later you're able to get a word in.]}
+ and... [She keeps talking for awhile and sometime later you're able to get a word in.]}
 {177}{}{What else do you want to know?}
 {178}{}{What do you know about the Cornelius's missing watch?}
 {179}{}{You mentioned something about Rose?}
@@ -103,7 +103,7 @@
 {213}{}{You are a slut, aren't you!}
 
 # Node 25
-{214}{}{I can't take this anymore! You're perfect. [She rips off her clothes, your clothes, and then…]}
+{214}{}{I can't take this anymore! You're perfect. [She rips off her clothes, your clothes, and then...]}
 {215}{}{[Your world will never be the same again.]}
 
 # Node 26
@@ -128,8 +128,8 @@
 
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continue, please...}
-{412}{}{I sure the hell…}
-{413}{}{Um… I do.}
+{412}{}{I sure the hell...}
+{413}{}{Um... I do.}
 
 {450}{}{Uhhh, I think daddy's the one you should be talking too.}
 

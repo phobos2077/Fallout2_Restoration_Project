@@ -48,7 +48,7 @@
  don't want no trouble. You go your way and we'll go our way. I won't even tell anyone we've seen you.
  Now go!}
 {120}{}{Hey! You're the one on all those wanted posters. Don't worry, I won't turn you in; as I recall,
- I'm wanted in couple places myself. Now, you wanted to trade…}
+ I'm wanted in couple places myself. Now, you wanted to trade...}
 {121}{}{[Barter]}
 {122}{}{Good enough, then. We got to get going. Don't worry, I won't tell the law I saw you.}
 {123}{}{Wait a minute! I've heard of you. You're the do-gooder that's running around saving and helping
@@ -66,13 +66,13 @@
  with your kind. Sorry.}
 {131}{}{I don't know what you're wanted for and I don't rightly care. We don't do business with your
  type.}
-{132}{}{Why don't you…'do good' somewhere else. }
+{132}{}{Why don't you...'do good' somewhere else. }
 {133}{}{I'm sure a person of your reputation can find supplies elsewhere.}
 {134}{}{State your business.}
 {135}{}{Where are you headed?}
 {136}{}{What's your cargo?}
 {137}{}{Bye.}
 {138}{}{Ug.}
-{139}{}{That's…nice. You have a nice day now. }
+{139}{}{That's... nice. You have a nice day now. }
 
 {300}{}{Thanks for your business.}

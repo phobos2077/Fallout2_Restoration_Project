@@ -71,7 +71,7 @@
 {160}{}{By all means. They gave us so many, and we don't know what the hell to do with em. Here, take one.}
 {161}{}{Thanks a lot. Bye.}
 {162}{}{No, but I've got some great news: I convinced the Vault City council not to touch your village.}
-{163}{}{What? They're seriously going to just leave us alone? I don't understand...how did you that? I swear if you're bullshitting me...}
+{163}{}{What? They're seriously going to just leave us alone? I don't understand... how did you that? I swear if you're bullshitting me...}
 {164}{}{It's true--trust me. I was able to pull some strings and broker a deal, but the details don't matter. The important thing is that you and your people are safe now.}
 {165}{}{Thank you from the bottom of my heart... em... By the way, I still don't know your name.}
 {166}{}{My name is - }
@@ -98,7 +98,7 @@
 {213}{}{No, I have decided not to. Goodbye.}
 {214}{}{No price too high, eh? Well, I know how economics work. Increase in demand means an increase in prices.}
 {217}{}{Listen, starting a war with Vault City isn't the answer. Sure, you might be able to fend them off for months, maybe even years, but you can't hold out forever. And in the meantime, lives will be needlessly lost. But if I can just get one member of the Vault City council to see reason, then I know we can reach a peaceful agreement.}
-{218}{}{Hmm...Alright, I trust you have our best interests in mind. If you really think you can reason with one of their council members, then by all means, give it a shot. However, I think you should talk to Old Joe and see what he has to say. You can find him in or around the courtyard bar. Good luck. We're all counting on you.}
+{218}{}{Hmm... Alright, I trust you have our best interests in mind. If you really think you can reason with one of their council members, then by all means, give it a shot. However, I think you should talk to Old Joe and see what he has to say. You can find him in or around the courtyard bar. Good luck. We're all counting on you.}
 
 {220}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. You know what? Forget it. We don't need the help of someone like you. Now I suggest you leave.}
 {221}{}{I shoulda known you'd be another heartless opportunist. It's people like you that we started this community to try and get away from. [He sighs.] Fine, we'll throw in an extra thousand, but that leaves us with nothing. Will you give us the guns now?}

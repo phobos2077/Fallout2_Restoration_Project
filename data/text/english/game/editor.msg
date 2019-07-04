@@ -293,7 +293,7 @@
 {1118}{}{You got hitched. Hey, it's your problem, not ours.}
 {1119}{}{You are a big, bright, shining star. Your sexual exploits are well-known throughout New Reno.}
 {1120}{}{You have been marked as a member of the Slaver's Guild. The tattoo on your forehead makes your profession evident to everyone you meet.}
-{1121}{}{You really need to get out more. Your sexual exploits have been...well, two dimensional.}
+{1121}{}{You really need to get out more. Your sexual exploits have been... well, two dimensional.}
 {1122}{}{You are a "Made Man" of the Bishop Family. You are well-known, well-respected, and look great in a fedora.}
 {1123}{}{You are a "Made Man" of the Mordino Family. You are well-known, well-respected, and look great in a fedora.}
 {1124}{}{You are a "Made Man" of the Wright Family. You are well-known, well-respected, and look great in a fedora.}

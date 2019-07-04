@@ -9,7 +9,7 @@
 {108}{}{Ahhhhhhhh.}
 {109}{}{I feel exposed. Like someone's watching me from above.}
 {110}{}{Nothing like a satisfying urinating experience.}
-{111}{}{Don't distract m...dammint! My pant leg!}
+{111}{}{Don't distract m... dammint! My pant leg!}
 {112}{}{Don't talk. It makes it crawl back up.}
 {113}{}{Look, "Chosen One," I'm trying to concentrate here, okay?}
 {114}{}{Wish this place had a stall.}

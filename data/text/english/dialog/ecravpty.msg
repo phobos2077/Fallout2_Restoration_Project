@@ -3,13 +3,13 @@
 {102}{}{It seems he's been sampling some of his merchandise.}
 #edit below by killap - was 202
 {210}{}{It seems she's been sampling some of her own merchandise.}
-{103}{}{Wha...whas..what cans I gets yas. [Hick.]}
+{103}{}{Wha... whas..what cans I gets yas. [Hick.]}
 {104}{}{Nuka Cola [$6]}
 {105}{}{Beer [$15]}
 {106}{}{Booze [$30]}
 {107}{}{Nothing today. Thanks.}
 {108}{}{Ug.}
-{109}{}{Ohhhh...that ain't no fun ta drinks. [He hands you your drink.]}
+{109}{}{Ohhhh... that ain't no fun ta drinks. [He hands you your drink.]}
 {110}{}{[End]}
 {111}{}{Here ya goes. It's a bit warm cuz it hasn't had time to cool. Sellen' the stuff faster than I
  can makes it. [It's warm, it's yellow it's....]}

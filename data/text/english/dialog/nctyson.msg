@@ -24,10 +24,10 @@
 {169}{}{Rrrgggg}
 {170}{}{Me eat ears.}
 {171}{}{Ears yum.}
-{172}{}{Gr…grrrgr?}
+{172}{}{Gr... grrrgr?}
 {173}{}{Snrggg}
 {174}{}{Me hate Robbin' Givens.}
-{175}{}{Grrrrrgrrrrgrrr…grrr…grrr…grr! Grr! Grrr?}
+{175}{}{Grrrrrgrrrrgrrr... grrr... grrr... grr! Grr! Grrr?}
 {176}{}{What does 'percentage' mean?}
 
 # CLICK DIALOGUE

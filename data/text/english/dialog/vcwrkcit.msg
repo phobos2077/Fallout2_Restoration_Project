@@ -18,7 +18,7 @@
 {115}{}{Seems like more and more Outsiders are finding their way inside the walls...}
 {116}{}{I certainly hope you have a Day Pass.}
 {117}{}{Seems like they're issuing Day Passes to just about *any* Outsider lately...}
-{118}{}{I have heard of your brave deeds. You have done a great service for Vault City...and the world.}
+{118}{}{I have heard of your brave deeds. You have done a great service for Vault City... and the world.}
 {119}{}{Your battle against the Enclave impressed even the First Citizen.}
 {120}{}{I heard you traveled as far south as San... Fran... Cisco. Is that true?}
 {121}{}{Maybe Vault City *should* welcome Outsiders. }
@@ -56,11 +56,11 @@
 {150}{}{That Council meeting yesterday was very productive. We made *lots* of lists. We here at Vault
  City love to make lists.}
 {151}{}{Yes?}
-{152}{}{Something I can help you with...Outsider?}
+{152}{}{Something I can help you with... Outsider?}
 {153}{}{I'm sorry, did you say something?}
 {154}{}{Me? I'm going about my business. Perhaps you should, too.}
 {155}{}{Can I see your Day Pass, please?}
-{156}{}{Oh...sorry. I almost mistook you for a servant.}
+{156}{}{Oh... sorry. I almost mistook you for a servant.}
 {157}{}{I really don't have time to chat with an Outsider right now. Please move along.}
 {158}{}{Could you keep your distance, please?}
 {159}{}{Please stand over there.}

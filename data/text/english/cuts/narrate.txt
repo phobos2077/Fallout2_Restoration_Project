@@ -20,7 +20,7 @@
 20:But in so doing, he lost many of his friends and suffered greatly, sacrificing much of himself to save the world.
 21:When at last he returned to the home he had fought so hard to protect, he was cast out.
 22:Exiled.
-23:In confronting that which they feared, he had become something else in their eyes...and no longer their champion.
+23:In confronting that which they feared, he had become something else in their eyes... and no longer their champion.
 24:Forsaken by his people, he strode into the wasteland.
 25:He traveled far to the north, until he came to the great canyons.
 26:There, he founded a small village, Arroyo, where he lived out the rest of his years.
@@ -28,4 +28,4 @@
 28:It is home. Your home.
 29:But in the world outside, the scars left by the war have not yet healed.
 30:The wounds run deep, and now they are being felt in Arroyo.
-31:Life in Arroyo is about to change…
+31:Life in Arroyo is about to change...

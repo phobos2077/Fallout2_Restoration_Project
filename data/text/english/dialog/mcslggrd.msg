@@ -35,7 +35,7 @@
 {232}{}{No, I'm not going anywhere with you unless I get some answers.}
 
 # 6. ( ) You're dumb!
-{240}{}{Hmm…I wonder if this is an exception to the rule. No, no, no. Vegeir said ALL surfacers,
+{240}{}{Hmm... I wonder if this is an exception to the rule. No, no, no. Vegeir said ALL surfacers,
  even the idiots. Come with me.}
 {241}{}{[Go with the guards.]}
 {242}{}{[Kill them all and let whatever gods they worship sort them out.]}

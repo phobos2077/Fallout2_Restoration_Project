@@ -109,7 +109,7 @@
 {272}{}{I sure wish I was as skillful a trapper as you are. I bet you could teach me a lot.}
 {273}{}{That's all I need to know for now. Goodbye.}
 
-{280}{}{Well, now you look like you could handle yourself. Geckos come in two types -— regular or
+{280}{}{Well, now you look like you could handle yourself. Geckos come in two types -- regular or
  golden. The regular ones are easy to trap and hunt, but the golden ones are worth more money.}
 {281}{}{Tell me more about the golden geckos.}
 {282}{}{Interesting. Tell me something else.}

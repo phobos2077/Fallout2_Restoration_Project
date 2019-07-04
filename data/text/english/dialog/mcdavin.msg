@@ -6,7 +6,7 @@
 {151}{}{Hmpf! Miria isn't that good in bed.}
 {152}{}{I don't believe you pimped me.}
 {153}{}{Let's try a threesome next time.}
-{154}{}{Ooo… he's a cutie.}
+{154}{}{Ooo... he's a cutie.}
 {155}{}{Ask her.}
 {156}{}{That was great; who's next?}
 {157}{}{Hi! My name's Davin; I help my father run the slaughterhouse in Modoc.}
@@ -21,13 +21,13 @@
 {172}{}{Sure, I'm not busy. Ask away.}
 {178}{}{Nope, haven't seen it anywhere.}
 {179}{}{Can I ask you a few more questions?}
-{180}{}{Well, I uh… I mean, I… I supervise and take care of stuff. I'm the owner's son after all. I'm
+{180}{}{Well, I uh... I mean, I... I supervise and take care of stuff. I'm the owner's son after all. I'm
  going to inherit this place when my dad kicks off.}
-{182}{}{It's a lie. I only go out to the barn at night to a… make sure everything is locked up. You
+{182}{}{It's a lie. I only go out to the barn at night to a... make sure everything is locked up. You
  know, with all the wild animals around and all.}
 {184}{}{Dad runs the slaughterhouse. He's OK as far as fathers go. A word of advice if you do any
  business with him. There's usually more to his business deals than he lets on.}
-{186}{}{Come back and see me if you want to… talk again.}
+{186}{}{Come back and see me if you want to... talk again.}
 {187}{}{Wow, I never thought such a beautiful woman would try to seduce me. What! You're not a woman!
  Don't worry, you're so pretty, I won't say anything if you won't.}
 {188}{}{I have to be dreaming. I don't believe such a beautiful woman is trying to seduce me. You are
@@ -56,8 +56,8 @@
 
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continue, please...}
-{412}{}{I sure the hell…}
-{413}{}{Um… I do.}
+{412}{}{I sure the hell...}
+{413}{}{Um... I do.}
 
 {450}{}{Uhhh, I'm not the one you should be talking too.}
 

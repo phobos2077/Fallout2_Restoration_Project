@@ -45,7 +45,7 @@
 {303}{}{A tip, huh? Well I guess it's worth $5 to get you off my back.}
 {304}{}{Well, I wouldn't want to go against custom. Is $5 enough? }
 {305}{}{You should give me a tip, just so I won't take the time to rid Klamath of your filthy hide.}
-{306}{}{Sorry, the Chosen One has little use for money -— I have none to give you.}
+{306}{}{Sorry, the Chosen One has little use for money -- I have none to give you.}
 
 {350}{}{Well, friend }
 {351}{}{, since you're new to these (hic) parts, and look as though you could use (urp) some pointers,
@@ -81,7 +81,7 @@
 
 {650}{}{A gecko is a large lizard that's hunted by the trappers round these parts for its meat and
  hide. But, it sure is a lot of work to catch them dang critters - and dangerous too. My advice to a
- friend...avoid it. It's far too much work.}
+ friend... avoid it. It's far too much work.}
 {651}{}{Oh, thanks. I guess that's all I need to know.}
 {652}{}{Hmm. One more thing, Aldo.}
 

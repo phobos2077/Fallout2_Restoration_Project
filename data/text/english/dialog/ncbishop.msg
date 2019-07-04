@@ -35,7 +35,7 @@
 {240}{}{(Studies you.) Even under all that get-up, you still look like one of them tribals... (Snorts.) The boys said you got a
  briefcase for me. From a mutual "acquaintance." Let's see it.}
 {241}{}{Here you go.}
-{242}{}{Uh...funny thing, that...seems like somewhere from the door to here I misplaced it.}
+{242}{}{Uh... funny thing, that... seems like somewhere from the door to here I misplaced it.}
 {243}{}{Actually, I'd like to hold onto it. I'll bring it back in a while.}
 
 # 4. HERE YOU GO. . . (3)
@@ -51,7 +51,7 @@
 # 5. HERE YOU GO. . . (4)
 {265}{}{Hold your horses, tribal... we ain't even discussed payment yet. }
 {266}{}{Hold your horses, tribal... I have some questions for you first. }
-{267}{}{(Studies you.) So...where do YOU know Moore from? He trying to play politics amongst the tribes now? Ha! That boy missed
+{267}{}{(Studies you.) So... where do YOU know Moore from? He trying to play politics amongst the tribes now? Ha! That boy missed
  his calling.}
 {268}{}{I met him in Vault City, spreading the word. I offered to help him out by delivering this briefcase to you.}
 {269}{}{I just happened to run across him during my travels. I offered to help him out by delivering this briefcase to you.}
@@ -60,8 +60,8 @@
 {275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
  do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{He does preach a lot. Still, he seems to make a lot of sense.}
-{277}{}{He does have a certain...way with words.}
-{278}{}{Yeah, well, at some point the work's gotta be done, and they call me to make sure things get delivered...like
+{277}{}{He does have a certain... way with words.}
+{278}{}{Yeah, well, at some point the work's gotta be done, and they call me to make sure things get delivered... like
  that briefcase.}
 
 # 7. HERE YOU GO. . . (6)
@@ -72,18 +72,18 @@
 
 # 8. HERE YOU GO. . . (7)
 {295}{}{(Nods at case.) Well, this briefcase was worth it. A little slice of Vault City inside, some of that precious
- tech that frigid bitch Lynette doesn't want to part with...but hey, tribal, I ain't paid you yet. Here's your cut.}
-{296}{}{Say...I don't have any other jobs lined up at the moment. Do you have any work for me?}
-{297}{}{Yeah...thanks. Look, I've got to be going.}
+ tech that frigid bitch Lynette doesn't want to part with... but hey, tribal, I ain't paid you yet. Here's your cut.}
+{296}{}{Say... I don't have any other jobs lined up at the moment. Do you have any work for me?}
+{297}{}{Yeah... thanks. Look, I've got to be going.}
 
 # 9. I'VE GOT TO GO . . . NO JOBS (8, 34, 49)
-{305}{}{No...I ain't got no more work for you...but hey, thanks for all you've done. }
-{306}{}{No...I ain't got nothing for you. Lotta deaths down in NCR recently have made my life a little easier...but hey, thanks
+{305}{}{No... I ain't got no more work for you... but hey, thanks for all you've done. }
+{306}{}{No... I ain't got nothing for you. Lotta deaths down in NCR recently have made my life a little easier... but hey, thanks
  for the delivery. }
 {307}{}{(Nods at the exit.) Now you go on and get outta here. I got other business to attend to.}
 {308}{}{I deliver that stupid case to you all the way from Vault City, then you give me the brush off? I
  think I'll just take the REST of my payment out of your safe.}
-{309}{}{No, I don't think I'll be leaving just yet. You still got BUSINESS with me...dead man.}
+{309}{}{No, I don't think I'll be leaving just yet. You still got BUSINESS with me... dead man.}
 {310}{}{All right, then. I'm leaving.}
 
 # 10. I'VE GOT TO GO . . . JOB OFFER (8)
@@ -93,8 +93,8 @@
 {317}{}{No, I've really got to be heading on.}
 
 # 11. MISSION ONE (8, 10, 33, 59, 63)
-{325}{}{(Checks you out for a moment, then nods.) Yeah...I got a job for you. }
-{326}{}{I have this..."problem" down South in NCR. This fella, Westin, has a big mouth that needs to be shut...permanently.
+{325}{}{(Checks you out for a moment, then nods.) Yeah... I got a job for you. }
+{326}{}{I have this..."problem" down South in NCR. This fella, Westin, has a big mouth that needs to be shut... permanently.
  Half a grand, easy money.}
 {327}{}{No problem. This Westin is as good as dead.}
 {328}{}{Not interested. Find somebody else.}
@@ -150,7 +150,7 @@
 {402}{}{That so? Well, then find somebody else to solve your problem. I'm outta here.}
 
 # 22. YOU WANT ME TO MAKE IT LOOK LIKE AN ACCIDENT, THEN I'LL NEED TO KNOW MORE . . . (14, 23-29)
-{410}{}{Hmmmm. All right, fair enough...what do you need to know?}
+{410}{}{Hmmmm. All right, fair enough... what do you need to know?}
 {411}{}{Like...?}
 {412}{}{Where can I FIND this guy? I don't want to have to hunt his ass down when I get to NCR.}
 {413}{}{This guy got any kin, any family? Any witnesses I got to worry about?}
@@ -192,18 +192,18 @@
 # 29. WHAT DOES HE DO? . . . (WTG)
 {485}{}{(Glares at you.) He's also a councilor in the NCR congress. That SCARE you, tribal? It shouldn't. Do your job, and
  you got nothing to worry about. Fuck it up, and Westin'll be the least of your worries.}
-{488}{}{A "councilor in the NCR Congress?" Screw this. Find somebody else...somebody with a death wish.}
+{488}{}{A "councilor in the NCR Congress?" Screw this. Find somebody else... somebody with a death wish.}
 
 # 30. NO WAY, BISHOP. I'M OUTTA HERE . . . (10, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48)
-{495}{}{All right then. Don't be a stranger now...I always got work for somebody who gets results.}
+{495}{}{All right then. Don't be a stranger now... I always got work for somebody who gets results.}
 {496}{}{I'll keep that in mind. Goodbye.}
 
 # 31. YOU DONE THE HIT YET? . . . (WTG)
 {500}{}{You done Westin yet?}
 {501}{}{You DAMN well better have some good news for me. Is Westin dead or not?}
 {502}{}{Tribal, my patience is wearing thin. Did you DO the goddamn job or not?}
-{503}{}{Actually...funny thing, you might appreciate the irony...I had a counter offer. Let me show you what it is.}
-{504}{}{Westin has had an...accident, yes. Terrible shame, a man like that dying so suddenly. Now about the money you owe me...}
+{503}{}{Actually... funny thing, you might appreciate the irony... I had a counter offer. Let me show you what it is.}
+{504}{}{Westin has had an... accident, yes. Terrible shame, a man like that dying so suddenly. Now about the money you owe me...}
 {505}{}{Not yet. I've got a few things to take care of first.}
 {507}{}{I came back to tell you I won't be doing the job. Forget it.}
 
@@ -215,7 +215,7 @@
 {519}{}{Poor choice of last words, Bishop...}
 
 # 33. YOU RECONSIDER? (WTG)
-{525}{}{Hey, tribal. That job's still open...if you want it. Pay's good. You interested?}
+{525}{}{Hey, tribal. That job's still open... if you want it. Pay's good. You interested?}
 
 # 34. SUCESSFULLY KILL WESTIN (31)
 {536}{}{Here's your payment.}
@@ -229,7 +229,7 @@
 
 # 36. MISSION 2 (8, 10, 33, 34, 35, 59, 63)
 {550}{}{(Checks you out for a moment, then nods.) }
-{551}{}{Yeah...I got a job for you. }
+{551}{}{Yeah... I got a job for you. }
 {552}{}{I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's
  dead yet. }
 {553}{}{I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. }
@@ -249,14 +249,14 @@
 {577}{}{And one more time in case I haven't made myself clear: I don't care HOW you whack this son of a bitch as long as he's
  dead and stays that way.}
 {578}{}{Understood. I'm on it.}
-{579}{}{All RIGHT...I heard you the first time. I'm on it.}
-{580}{}{If that's the way it's gotta be...now let's talk about that price.}
+{579}{}{All RIGHT... I heard you the first time. I'm on it.}
+{580}{}{If that's the way it's gotta be... now let's talk about that price.}
 {581}{}{I'm gonna need some info on this Carlson guy before I do anything.}
 {582}{}{Oh, so NOW it's okay to go in with guns blazing? THAT would have been helpful with Westin. Forget this.}
 {583}{}{Not interested. Find someone else.}
 
 # 40. WE STILL NEED TO NEGOTIATE CARLSON PRICE. (39)
-{590}{}{What the hell is this shit with you? I TOLD you the price. We AIN'T gonna negotiate. End of story...capiche?}
+{590}{}{What the hell is this shit with you? I TOLD you the price. We AIN'T gonna negotiate. End of story... capiche?}
 {591}{}{Look, Bishop. I iced Westin. He was no cakewalk, but I DID it. None of your boys could've done it, or you would've
  sent one of them. You want results? Then you talk to ME, and you better talk a price I want to hear.}
 {592}{}{1000 chips. That's all it'll take to put Carlson in early retirement.}
@@ -264,7 +264,7 @@
 {594}{}{Then forget it. Find somebody else.}
 
 # 41. 1000 chipS OKAY . . . (40)
-{600}{}{All right...a thousand chips. And that's it. I don't want to hear any more bullshit. Next words that cross your lips
+{600}{}{All right... a thousand chips. And that's it. I don't want to hear any more bullshit. Next words that cross your lips
  better be 'yes, Mr. Bishop. I'll do it.'}
 {601}{}{Yes, Mr. Bishop. I'll do it.}
 {602}{}{I'll SETTLE for 1000 chips. This time.}
@@ -273,7 +273,7 @@
 {605}{}{Forget it. I don't need this.}
 
 # 42. I NEED TO KNOW MORE ABOUT CARLSON . . . (39, 43, 44, 45, 46, 47)
-{615}{}{(Chews it over, then nods slightly.) Fair enough...what do you need to know?}
+{615}{}{(Chews it over, then nods slightly.) Fair enough... what do you need to know?}
 {616}{}{Like...?}
 {622}{}{What does this Carlson DO? What's his job schedule like?}
 
@@ -285,7 +285,7 @@
 # 44. ANY KIN, ANY FAMILY . . . (42)
 {640}{}{His wife's dead, but he's got a son, only seven or eight years old, that lives in the mansion with him...(Thinks.)...the
  place is bound to be guarded, though, so keep an eye out for security.}
-{642}{}{Wait a minute...how MANY guards?}
+{642}{}{Wait a minute... how MANY guards?}
 
 # 45. ANY KIN, ANY FAMILY . . . (44)
 {650}{}{Don't know exactly how many. I'd scope out the place, get a feel for the numbers. Of course, dealing with them's
@@ -294,14 +294,14 @@
 {652}{}{Well, that's enough to go on. Carlson's a dead man.}
 
 # 46. ILLNESSES . . . (42)
-{660}{}{No, nothing like that...that I KNOW of. He's a paranoid bastard, sure, but I don't think he's sick or nothing. (Frowns.) Then
+{660}{}{No, nothing like that... that I KNOW of. He's a paranoid bastard, sure, but I don't think he's sick or nothing. (Frowns.) Then
  again, he's a pretty OLD guy, so his health can't be that great.}
 
 # 47. WHAT DOES HE DO? . . . (42)
-{670}{}{(Glares at you.) He's the NCR Vice President. Don't let it bother you...get in one good shot, and they'll be fitting him
+{670}{}{(Glares at you.) He's the NCR Vice President. Don't let it bother you... get in one good shot, and they'll be fitting him
  for a coffin. Just make sure you're ABLE to get in at least one good shot.}
 {671}{}{All right then. I had some other questions about Carlson...}
-{673}{}{The "Vice President of NCR?" Screw this. Find somebody else...somebody with a death wish.}
+{673}{}{The "Vice President of NCR?" Screw this. Find somebody else... somebody with a death wish.}
 
 # 48. YOU DONE CARLSON HIT YET? . . . (WTG)
 {680}{}{You done Carlson yet?}
@@ -310,19 +310,19 @@
 {683}{}{They're fitting Carlson for a coffin right now. Well, what's left of him, anyway.}
 
 # 49. SUCESSFULLY KILL CARLSON (WTG)
-{695}{}{(Smiles.) Good job, tribal. I'm impressed...and I'm not an easy man to impress. }
+{695}{}{(Smiles.) Good job, tribal. I'm impressed... and I'm not an easy man to impress. }
 
 # 50. SUCESSFULLY KILL CARLSON (49)
 {705}{}{Not exactly... (Smiles.) What I got is an OFFER: How about becoming part of the Family? I got big plans, and I could
  use you: you're resourceful, tough, and you get things DONE. That's the kind of soldier I need.}
 {706}{}{I'm interested. What's in it for me?}
-{707}{}{Thanks, but I can't be tied down...my village and my people are counting on me.}
+{707}{}{Thanks, but I can't be tied down... my village and my people are counting on me.}
 
 # 51. KILL PLAYER (34, 49, 50, 52, 53)
-{715}{}{Hold on...you didn't think I'd let you just WALK with what you know, did you? Heh. C'mon now...there's skeletons that
- need to be buried before this matter's closed. Letting you walk around...that's just bad policy.}
-{716}{}{Hold on...you didn't think things were settled between us, did you? Heh. C'mon now...by my accounts, you still got a LOT
- you have to pay for. Plus, I can't let you leave with what you know...bad policy.}
+{715}{}{Hold on... you didn't think I'd let you just WALK with what you know, did you? Heh. C'mon now... there's skeletons that
+ need to be buried before this matter's closed. Letting you walk around... that's just bad policy.}
+{716}{}{Hold on... you didn't think things were settled between us, did you? Heh. C'mon now... by my accounts, you still got a LOT
+ you have to pay for. Plus, I can't let you leave with what you know... bad policy.}
 {717}{}{Don't talk stupid, Bishop. Let me go, or I'll turn your backwater casino into an inferno. "Capiche?"}
 {718}{}{Makes sense. Let me introduce you to my 9mm policy.}
 {719}{}{"Bad policy?" I'll SHOW you BAD POLICY, YOU SON OF A B --}
@@ -337,7 +337,7 @@
 
 # 53. TAKEN CARE OF? HOW? (52)
 {735}{}{You like to fly, get high, wire up? I can get you all of that. You want weapons, new hardware, a better piece of iron
- to plug some schlep with? All that bullshit...yours. IF... (Raises a finger.) IF you join the family.}
+ to plug some schlep with? All that bullshit... yours. IF... (Raises a finger.) IF you join the family.}
 {736}{}{Sounds good. Sign me up... boss.}
 
 # 54. TAKEN CARE OF? HOW? (53)
@@ -347,23 +347,23 @@
 # 55. TAKEN CARE OF? HOW? (54)
 {745}{}{...I like it, I like it. Now, if you wanna cash in on your reputation, hit the bar downstairs, or head down Virgin
  Street to the Cat's Paw. If you want to get some weapons, head on over to New Reno Arms.}
-{746}{}{Will do...boss.}
+{746}{}{Will do... boss.}
 
 # 56. TAKEN CARE OF? HOW? (WTG)
 {750}{}{Hey... }
 {751}{}{. Everybody treating you all right?}
 {752}{}{Everything's going good, Mr. Bishop. Just thought I'd check in, make sure everything's going well for you.
  See you later.}
-{753}{}{Everything's going great. YOUR family in particular is showing me...EVERY courtesy. (Smile knowingly, then leave.)}
+{753}{}{Everything's going great. YOUR family in particular is showing me... EVERY courtesy. (Smile knowingly, then leave.)}
 
 # 57. NO WAY, BISHOP. I'M OUTTA HERE (WIFE/DAUGHTER) . . . (8, 10, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 56)
-{755}{}{Hey, before you go...you going to be stopping by and seeing my wife again, tribal? }
-{756}{}{Hey, before you go...you going to be stopping by and getting high with my daughter again, tribal? }
+{755}{}{Hey, before you go... you going to be stopping by and seeing my wife again, tribal? }
+{756}{}{Hey, before you go... you going to be stopping by and getting high with my daughter again, tribal? }
 {757}{}{Do a little pow-wow? Eh? (Bishop's smiling, but there's not a trace of humor in it.)}
-{758}{}{What happened between me and Leslie...er, Mrs. Bishop...didn't mean anything. We might as well have been...shaking hands.}
-{759}{}{Hey...look, nothing happened, all right?}
+{758}{}{What happened between me and Leslie... er, Mrs. Bishop... didn't mean anything. We might as well have been... shaking hands.}
+{759}{}{Hey... look, nothing happened, all right?}
 {760}{}{What about it, Bishop?}
-{761}{}{Maybe if you paid ATTENTION to Angela ever once in a while, she wouldn't look for attention...elsewhere.}
+{761}{}{Maybe if you paid ATTENTION to Angela ever once in a while, she wouldn't look for attention... elsewhere.}
 {762}{}{You'd be surprised how much those 'pow-wows' please your wife. It's as if she's NEVER had good sex.}
 {763}{}{That's the LAST tribal crack you're ever going to make. Prepare to die.}
 
@@ -382,19 +382,19 @@
  of flesh, or you take the job, and we're even.}
 {787}{}{My daughter is MINE. Anything that gets put IN my daughter belongs to ME. You got a choice, tribal: either give me
  a pound of flesh, or you take the job, and we're even.}
-{788}{}{You can have the pound of flesh...just come get it.}
+{788}{}{You can have the pound of flesh... just come get it.}
 {789}{}{All right then. I'll do it...}
 {790}{}{Your wife ain't WORTH that much.}
 {791}{}{Your daughter ain't WORTH that much.}
 
 # 60. NO WAY, BISHOP. I'M OUTTA HERE (WIFE/DAUGHTER) . . . (8, 10, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 56)
-{800}{}{Hey, but before you go...I like the look of your weapons there, tribal...kind of reminds me of this rumor I heard not too
+{800}{}{Hey, but before you go... I like the look of your weapons there, tribal... kind of reminds me of this rumor I heard not too
  long ago.}
 {801}{}{Rumor?}
 
 # 61. IF PLAYER WIPED OUT RAIDERS, THREAT 1 (60)
-{805}{}{Yeah...rumor in the wastes is somebody that matches your description wiped out those raiders south of Vault City. }
-{1805}{}{Yeah...rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
+{805}{}{Yeah... rumor in the wastes is somebody that matches your description wiped out those raiders south of Vault City. }
+{1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
 {806}{}{Had a big-ass mutant with a vise connected to his shoulder with him. }
 {807}{}{Had some robot with a brain in a dome with him. }
 {808}{}{Had some tribal with a bone through his nose with him. }
@@ -420,7 +420,7 @@
 {835}{}{That so? I think you were there. I think you're responsible. }
 {836}{}{Way I see it, you OWE me big, tribal. You gotta do the work of twenty men to pay off that debt. }
 {1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
-{837}{}{You take the job, then...maybe...we can call it even.}
+{837}{}{You take the job, then... maybe... we can call it even.}
 {838}{}{Not from where I'm standing. I figure one gunshot to your head oughta clear the debt.}
 {840}{}{They attacked ME, Bishop. I don't owe you anything, and I'm not going to do your dirty work. Understand?}
 {1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}

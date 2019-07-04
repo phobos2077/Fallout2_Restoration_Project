@@ -1,17 +1,17 @@
 {100}{}{You see a large, mangy, buff colored dog with a feral look to it.}
 {101}{}{You see a dusty, yellowish-buff colored, dog.}
 
-{110}{}{Grrrrrr. Woof! Woof! Grrrrrr….}
+{110}{}{Grrrrrr. Woof! Woof! Grrrrrr...}
 {111}{}{Woof, Arf, Arf?}
 {112}{}{(Staring into dog's eyes) Grrrr! Arrrrrgh! Grrrrrrrr!}
 {113}{}{Hmm, I bet you sound angry because you want something.}
 {114}{}{You're just hungry, aren't you, boy? Let me see if I have some delicious drymeat to
  give you.}
 
-{120}{}{Woof! (Dog leaps forward with teeth bared -— snatches jerky from your outstretched hand -— eats
+{120}{}{Woof! (Dog leaps forward with teeth bared -- snatches jerky from your outstretched hand -- eats
  jerky noisily)}
 {121}{}{Woof! (The mongrel happily grabs the yummy drymeat, dropping a key that he must have had in his
- mouth -— you pick up the key.)}
+ mouth -- you pick up the key.)}
 {122}{}{Mmm, jerky.}
 {123}{}{Ah, poor boy, you must have been hungry. (Patting dog on head)}
 

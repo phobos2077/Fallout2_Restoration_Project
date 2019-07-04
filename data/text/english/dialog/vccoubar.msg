@@ -67,7 +67,7 @@
 {166}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
 {167}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
 {168}{}{Would you care for anything else?}
-{169}{}{I don't feel so good...I'm just going to pop out of dialogue for a second and check my max hit points.}
+{169}{}{I don't feel so good... I'm just going to pop out of dialogue for a second and check my max hit points.}
 {170}{}{No, no, I feel great! I'm just going to pop out of dialogue for a second and check my max hit points.}
 {171}{}{I'll just have some water, I think.}
 {172}{}{I'll have some more delicious alcohol-Z.}
@@ -130,14 +130,14 @@
 {229}{}{Hmmm. I was curious about something else...}
 {230}{}{I see. Well, I could use a drink. What have you got on tap?}
 {231}{}{Interesting. Thanks for the information. Goodbye.}
-{232}{}{Oh, no, no...it's not slavery. Those people you see working in the city are servants...myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
 {233}{}{Everything except your freedom, huh?}
 {234}{}{If you've no complaints, then it's no problem. Forget I asked.}
 {235}{}{Never mind. I wanted a drink. What have you got on tap?}
 {236}{}{I see. Well, thanks for talking with me. Goodbye.}
 {237}{}{If you are not going to order a drink, perhaps you had best leave, ma'am.}
 {238}{}{If you are not going to order a drink, perhaps you had best leave, sir.}
-{239}{}{If you've no complaints about your...servitude, then it's no problem. Forget I asked.}
+{239}{}{If you've no complaints about your... servitude, then it's no problem. Forget I asked.}
 {240}{}{I'll take a drink, then. What have you got on tap?}
 {241}{}{Maybe I better. Good day.}
 {242}{}{I shall. Now is there something I can help you with?}

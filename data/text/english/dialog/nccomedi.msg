@@ -3,32 +3,32 @@
 
 {200}{}{He's too busy in his routine to talk right now.}
 
-{1000}{}{So…uh…why did the radscorpion cross the road?}
+{1000}{}{So... uh... why did the radscorpion cross the road?}
 {1001}{}{To get away from your boring ASS!}
 {1002}{}{I say we kill this guy!}
-{1003}{}{Cause the radscorpion…uh, it wanted to get away from the radioactive fallout particles…}
+{1003}{}{Cause the radscorpion... uh, it wanted to get away from the radioactive fallout particles...}
 {1004}{}{You suck!}
 {1005}{}{FUCK YOU!}
-{1006}{}{Uh, the joke, see, since it was already a mutant, it didn't need to cross the road, so…uh…}
+{1006}{}{Uh, the joke, see, since it was already a mutant, it didn't need to cross the road, so... uh...}
 {1007}{}{}
 
-{2000}{}{Heh-heh. Gecko…ghouls, right? Ghouls…man, do they STINK.}
+{2000}{}{Heh-heh. Gecko... ghouls, right? Ghouls... man, do they STINK.}
 {2001}{}{You stink!}
 {2002}{}{This guy should only be on Saturday nights!}
-{2003}{}{Uh… heh-heh… so, uh, ghouls right, they smell bad. So, like, uh…}
+{2003}{}{Uh... heh-heh... so, uh, ghouls right, they smell bad. So, like, uh...}
 {2004}{}{Did I mention ghouls stink?}
 {2005}{}{Um, so I find this ghoul, right, I ask, 'Are you guys envious that I don't stink?'}
 {2006}{}{He goes, "No. Uh, why do you ask?"}
 {2007}{}{I said, because you're GREEN.}
-{2008}{}{Uh…green with envy. Get it?}
+{2008}{}{Uh... green with envy. Get it?}
 {2010}{}{Booo!}
 {2011}{}{}
 
-{3000}{}{So…there was this prostitute, right, this stupid slut…}
+{3000}{}{So... there was this prostitute, right, this stupid slut...}
 {3001}{}{Your Mom's a slut!}
 {3002}{}{"Slut?" I'm going to stab you to death after the show!}
-{3003}{}{And…uh…she goes, right, she goes, 'is that a Gecko in your pocket or are you just…uh, horny?'}
-{3006}{}{Uh…did I mention it was a fire-breathing Gecko…? Heh-heh.}
+{3003}{}{And... uh... she goes, right, she goes, 'is that a Gecko in your pocket or are you just... uh, horny?'}
+{3006}{}{Uh... did I mention it was a fire-breathing Gecko...? Heh-heh.}
 {3007}{}{}
 
 {4000}{}{Vertibirds?}
@@ -98,7 +98,7 @@
 {10003}{}{Amazing!}
 
 {11000}{}{Heh-heh. Did you hear the one about the tribal who wiped out the Enclave?}
-{11001}{}{The tribal was sooo stupid that, uh, the tribal, right…uh, blew up their rig.}
+{11001}{}{The tribal was sooo stupid that, uh, the tribal, right... uh, blew up their rig.}
 {11002}{}{BOOM!}
 {11003}{}{Did I mention the tribal was stupid?}
 {11004}{}{You're the one who's stupid!}

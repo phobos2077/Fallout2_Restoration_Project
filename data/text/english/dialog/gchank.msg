@@ -35,7 +35,7 @@
 {152}{}{Thanks, I really like it too. Goodbye.}
 
 {160}{}{I'd like to help you out, but I wouldn't know how to install something like that. I mostly just
- watch the gauges here. Try Festus. He's the resident parts genius -— just ask him.}
+ watch the gauges here. Try Festus. He's the resident parts genius -- just ask him.}
 {161}{}{Where is Festus?}
 {162}{}{Is there any other way?}
 {163}{}{Okay. Goodbye.}

@@ -38,7 +38,7 @@
 {131}{}{Got to hurry. Faster, faster! Well? What are you waiting for? If you want to talk to Athabaska
  Dick you need to talk quicker'n that.}
 {132}{}{Wha', what do you want? Cain'tcha see I'm busy. (mutters to himself) must stay busy all the
- time…busy…busy….}
+ time... busy... busy...}
 {133}{}{(groans) What do you want of old Athabaska Dick? (to himself) I feel like I been kicked in the
  head by a mule.}
 {134}{}{I'm feelin' mighty poorly. Whatcha wanna bother ole Dick with?}
@@ -46,7 +46,7 @@
  shit anymore.}
 {136}{}{I ain't never felt so washed up and raggedy in all my born days.}
 {137}{}{Dick, what do you do here?}
-{138}{}{Hey Dick…what's going on in town lately?}
+{138}{}{Hey Dick... what's going on in town lately?}
 {139}{}{Hear any interesting rumors?}
 {140}{}{What's At-the-basket mean?}
 {141}{}{What's the matter with you?}
@@ -62,7 +62,7 @@
  Do you really want to know how I got my nickname?}
 {151}{}{Uh, not really. Let me ask you something else.}
 {152}{}{I think that's all I need to know. Goodbye.}
-{153}{}{Key-rist! I'm sicker 'an a dog and I've been yelling at my feet for days now...ever since I had
+{153}{}{Key-rist! I'm sicker 'an a dog and I've been yelling at my feet for days now... ever since I had
  that last hit of Jet. Something must've gone bad with that batch. If'n I survive this, I ain't never
  gonna have Jet again.}
 {154}{}{Sounds bad. Let me ask you something else, then.}
@@ -120,16 +120,16 @@
 {189}{}{Hmm, maybe so. Let me ask you about something else.}
 {190}{}{Tell me about those Want-to-mangles, then.}
 {191}{}{Thanks. I'll have to look into that. Goodbye.}
-{192}{}{Well you see - here's the god's honest truth - I know someone who saw one up close-like, it was…
-(time passes)…With huge fangs that it uses to…(more time passes)…}
-{193}{}{I had a friend once that I was workin' a claim with and one day…(time passes)…big as a brahmin
- and it smelled worse…(more time passes)…}
-{194}{}{You're jist gonna fall asleep anyhow, but here goes nuthin.' It was late at night, see, and so…
-(time passes)…tracks like a cross 'tween a Radscorpion and a Gecko…(more time passes)… See, I told you
+{192}{}{Well you see - here's the god's honest truth - I know someone who saw one up close-like, it was...
+(time passes)...With huge fangs that it uses to...(more time passes)...}
+{193}{}{I had a friend once that I was workin' a claim with and one day...(time passes)...big as a brahmin
+ and it smelled worse...(more time passes)...}
+{194}{}{You're jist gonna fall asleep anyhow, but here goes nuthin.' It was late at night, see, and so...
+(time passes)...tracks like a cross 'tween a Radscorpion and a Gecko...(more time passes)... See, I told you
  you'd fall asleep.}
 {195}{}{Huh, wha? (your head snaps up; you must have been dozing).}
 {196}{}{I better go find something to help me stay awake. Goodbye.}
-{197}{}{…So, now you know. The slaves that used to work the mine blew up the dynamite stores and
+{197}{}{...So, now you know. The slaves that used to work the mine blew up the dynamite stores and
  escaped, rather than face those Wanamingos. Shut down the mine right after and nobody went back.}
 {198}{}{Where did you say the Great Wanamingo Mine is?}
 {199}{}{Sounds sensible enough. Well, goodbye for now.}
@@ -155,12 +155,12 @@
  by. Heck, I don't feel so good with it as I feel shitty without it.}
 {215}{}{Let me ask you something else.}
 {216}{}{Interesting. Thanks and goodbye.}
-{217}{}{The Jet's bad, man. Everyone who's using got all sick like they're gonna die. I think I better…
-(bends over and dry heaves a bit)…sorry. Say pardner, can we talk about something else?}
+{217}{}{The Jet's bad, man. Everyone who's using got all sick like they're gonna die. I think I better...
+(bends over and dry heaves a bit)...sorry. Say pardner, can we talk about something else?}
 {218}{}{Sure, sorry. Let me ask you something else.}
 {219}{}{Interesting. Thanks and goodbye.}
 {220}{}{I don't never want to hear about that god-damn Jet again. That stuff'll kill ya. Damn-sight
- worse'n Radscorp venom. I cain't believe that I ever liked that stuff. That last time… I
+ worse'n Radscorp venom. I cain't believe that I ever liked that stuff. That last time... I
  thought I was a goner.}
 {221}{}{Let me ask you something else.}
 {222}{}{Interesting. Thanks and goodbye.}

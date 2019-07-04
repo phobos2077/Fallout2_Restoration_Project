@@ -21,7 +21,7 @@
 {106}{}{In this corner, the challenger, weighing in at }
 {1106}{}{ pounds, fresh from the wasteland and new to New Reno, }
 {2106}{}{!}
-{107}{}{And in this corner...weighing in at }
+{107}{}{And in this corner... weighing in at }
 {1107}{}{ pounds, you KNOW him, you LOVE him... }
 {2107}{}{!}
 {108}{}{So, without further ado...}

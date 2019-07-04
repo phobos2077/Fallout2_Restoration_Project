@@ -55,7 +55,7 @@
 {210}{}{::Snnnffff::}
 {211}{}{*Giggle*}
 {212}{}{Heeeeeeee}
-{213}{}{Hee heeeee hee…hee…}
+{213}{}{Hee heeeee hee... hee...}
 {214}{}{EeeeEEEEeeeeEEEE}
 
 # CLICK:
@@ -66,7 +66,7 @@
 {223}{}{::Blinks at you stupidly::}
 {224}{}{::Gives a wheezing cough::}
 {225}{}{::Mumbles something that you can't make out.::}
-{226}{}{Hnnnnh….hnnn}
+{226}{}{Hnnnnh... hnnn}
 {227}{}{::Wipes nose::}
 {228}{}{Hunnnnnh}
 {229}{}{Rrrurrr..rr..::Coughs::}
@@ -74,7 +74,7 @@
 {240}{}{::Rubs eyes::}
 {241}{}{::Snorts like a pig::}
 {242}{}{::Scratches head, then rubs eyes::}
-{243}{}{Hee heeeee hee…hee…}
+{243}{}{Hee heeeee hee... hee...}
 {244}{}{Hootchie Kootchie Boochie}
 {245}{}{Foo-fooooo}
 {246}{}{EeeeEEEEeeeeEEEE}
@@ -87,27 +87,27 @@
 # 11. [BEATEN SLAVE vs. SLAVER]
 {260}{}{Yes, I am already owned. My master has the papers.}
 {261}{}{Please leave me be. I am already owned by someone else.}
-{262}{}{I beg you: have you seen two children, dark-hair…? They were taken by other slavers two years ago and sold North.}
-{263}{}{Please…I am not allowed to speak to anyone.}
-{264}{}{Please…let me be. My master will be back soon.}
+{262}{}{I beg you: have you seen two children, dark-hair...? They were taken by other slavers two years ago and sold North.}
+{263}{}{Please... I am not allowed to speak to anyone.}
+{264}{}{Please... let me be. My master will be back soon.}
 {265}{}{If my master catches me talking to a slaver, I will be beaten.}
 {266}{}{I already have a master. She will not be happy if you continue to talk to me.}
 {267}{}{I cannot speak to you. I have duties.}
 {268}{}{If I am caught speaking to a slaver, they will start testing the drugs on me.}
 {269}{}{Please go away, slaver. I don't want any trouble.}
-{270}{}{Escape? I…have never tried to escape from here. I would not dare disobey my master.}
+{270}{}{Escape? I... have never tried to escape from here. I would not dare disobey my master.}
 # 12. [BEATEN AND/OR GENERIC SLAVE]
 {280}{}{If they catch me talking to you, they will start testing drugs on me.}
 {281}{}{I used to work with this other slave, but he died of an overdose a few days ago.}
 {282}{}{They test new drugs on us. Some are poisonous.}
-{283}{}{My master is...good to me.}
+{283}{}{My master is... good to me.}
 {284}{}{My master said not to speak to others.}
-{285}{}{Please…I am not allowed to speak to you.}
+{285}{}{Please... I am not allowed to speak to you.}
 {286}{}{Please let me be. My master will be back soon.}
 {287}{}{If my master catches me talking to you, he will beat me.}
 {288}{}{My master is good. He does not beat me often.}
 {289}{}{I do not miss my family. My master is kind.}
-{290}{}{I was taken from a tribal village north of here. Life is much…better here.}
+{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
 {291}{}{I was first captured in the Den.}
 {292}{}{I cannot speak to you. I have work to do.}
 {293}{}{I must finish my duties before my master returns.}
@@ -121,10 +121,10 @@
 {301}{}{Julia escaped, but they caught her in Golgotha the next day. They tied her to a wheel and let her starve to death.}
 {302}{}{Runaway slaves are caught and left to die in Golgotha.}
 {303}{}{No, I don't know where my family is now. I still think about them sometimes, but not so often anymore.}
-{304}{}{New Reno is…well, it is not as bad as the Den. In some ways.}
+{304}{}{New Reno is... well, it is not as bad as the Den. In some ways.}
 {305}{}{::Turns away, frightened.::}
 {306}{}{::Ignores you, frightened.::}
-{307}{}{Once you learn your new master's needs, the beatings become less…frequent.}
+{307}{}{Once you learn your new master's needs, the beatings become less... frequent.}
 {308}{}{I was captured by slavers long ago. I barely remember it.}
 {309}{}{I used to have two children, but they were shipped northwards. I hope they ended up somewhere better than here.}
 {310}{}{I'm sorry, but I don't have time to talk.}

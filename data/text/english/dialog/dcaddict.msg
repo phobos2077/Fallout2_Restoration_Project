@@ -25,24 +25,24 @@
 {200}{}{Wow, you've got a weird dark glow.}
 {201}{}{My, you're a big pup.}
 {202}{}{Don't tell them what we know is not there.}
-{203}{}{Ahhh…}
+{203}{}{Ahhh...}
 {204}{}{Can you see me?}
 {205}{}{Be vewy, vewy quiet. I'm hunting wabbits.}
 {206}{}{How did you get way up here?}
 {207}{}{Shhh, I'm hiding.}
 {208}{}{I'm running faster than a wolf!}
 {209}{}{I feel so alive!}
-{210}{}{It's coursing through my veins…}
+{210}{}{It's coursing through my veins...}
 {211}{}{Right there, baby.}
 {212}{}{Oooohhh, can you feel the power?}
-{213}{}{Wow, you're glowing…}
+{213}{}{Wow, you're glowing...}
 {214}{}{I love you, man!}
 {215}{}{Life's been so good to me. Has it been good to you?}
 {216}{}{The little ones fly at night.}
 {217}{}{Say hello to my little friend.}
-{218}{}{Boy, I'm sleepy…}
+{218}{}{Boy, I'm sleepy...}
 {219}{}{Have you seen my dog?}
-{220}{}{Shhh, they're right behind you…}
+{220}{}{Shhh, they're right behind you...}
 {221}{}{Mine!}
 {222}{}{Oooh, my head.}
 {223}{}{I ache all over.}
@@ -90,7 +90,7 @@
 {363}{}{Sasha? Where are you Sasha?}
 {364}{}{The colors are fading!}
 {365}{}{Mom?}
-{366}{}{Hey! Get away from me! Oh…}
+{366}{}{Hey! Get away from me! Oh...}
 {367}{}{Don't you do that!}
 {368}{}{I can't see... again.}
 {369}{}{Need...}

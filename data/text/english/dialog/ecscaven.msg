@@ -6,4 +6,4 @@
 {105}{}{You'll pay for this.}
 {106}{}{Next time.}
 {107}{}{Running's a bitch!}
-{108}{}{You get to keep your stuff...this time.}
+{108}{}{You get to keep your stuff... this time.}

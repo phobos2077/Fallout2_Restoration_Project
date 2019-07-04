@@ -6,14 +6,14 @@
                                   Overriding Security Terminal - Level 3
                            Retrieving personnel data - Corporal Dixon
                    No Match
-                                                           Who...are...you?}
+                                                           Who... are... you?}
 
 {104}{}{}
 {105}{}{}
 {106}{}{}
 {107}{}{}
 {108}{}{}
-{109}{}{What the...Who the hell are you?}
+{109}{}{What the... Who the hell are you?}
 {110}{}{I'm Corporal Dixon.}
 {111}{}{I'm }
 {112}{}{Urg!}

@@ -55,7 +55,7 @@
 {145}{}{I've never heard of that. Let me ask you something else.}
 {146}{}{Sounds nice. Maybe I'll go hunt that place down. Goodbye for now.}
 {147}{}{Just some rumors is all.}
-{148}{}{Well, there's always rumors...but I do have something that needs doing.}
+{148}{}{Well, there's always rumors... but I do have something that needs doing.}
 {149}{}{I'll get back to that. Let me ask you about something else first, though.}
 {150}{}{Tell me about the rumors.}
 {151}{}{What's that?}

@@ -1,4 +1,4 @@
-{100}{}{Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits…..}
+{100}{}{Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits....}
 {101}{}{You see Hakunin lying on the ground. He's badly wounded.}
 {102}{}{You see Hakunin. He's very near death.}
 {103}{}{Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.}
@@ -17,7 +17,7 @@
 {116}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
 {117}{hak002}{The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?}
 {118}{}{Sure. What do you need?}
-{119}{}{It depends… what'll you give me?}
+{119}{}{It depends... what'll you give me?}
 {120}{hak002a}{The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?}
 {121}{}{Did you just ask me to do you a favor? If so, sure, why not?}
 {122}{}{I'll do something for you, but since I have to work this hard just to understand you, this task will cost.}

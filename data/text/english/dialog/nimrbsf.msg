@@ -55,8 +55,8 @@
 {000}{}{Leave the safe alone.}
 
 # 7.  SPIN RANDOM, SUCCEED (2, 5, 6, 8, 9)
-{260}{}{(You are turning the knob...when suddenly there is a KER-KLANK, and the door opens!)}
-{000}{}{(You are spinning the dial randomly, when suddenly the dial catches on a number...there is a KER-KLANK, and the safe pops open!)}
+{260}{}{(You are turning the knob... when suddenly there is a KER-KLANK, and the door opens!)}
+{000}{}{(You are spinning the dial randomly, when suddenly the dial catches on a number... there is a KER-KLANK, and the safe pops open!)}
 {000}{}{Hullo? Hulllooo? Anbody hoome?}
 {000}{}{Yeah, *I* got the touch...}
 

@@ -14,7 +14,7 @@
 {121}{}{We don't need troublemakers here.}
 {122}{}{Tribals always mean trouble.}
 {123}{}{Jist as long as you don't get too much firewater in you...}
-{124}{}{(mumble, mumble)…sorry ass outa town...}
+{124}{}{(mumble, mumble)...sorry ass outa town...}
 {125}{}{Another one of Dunton's gang.}
 {126}{}{What are you looking at?}
 {127}{}{Just keep moving.}
@@ -69,7 +69,7 @@
 {209}{}{Thanks, friend.}
 {210}{}{I sure needed that. Thanks.}
 {211}{}{Thanks a million!}
-{212}{}{Rather have a bottle in front of me….}
+{212}{}{Rather have a bottle in front of me...}
 {213}{}{Much obliged, friend.}
 {214}{}{Alright!}
 {215}{}{Yes! I was waiting for that.}

@@ -23,7 +23,7 @@
 {119}{}{More of those shit-heels all the time.}
 {120}{}{You abandon my caravan, and then come back to beg for work? Get out of here.}
 {121}{}{I said get out. Are you deaf as well as yellow?}
-{122}{}{I respect thieves...but only good ones. You're nothing but a punk. Get out of here before I
+{122}{}{I respect thieves... but only good ones. You're nothing but a punk. Get out of here before I
  have to hurt you.}
 {123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
 {200}{}{Bring it on!}

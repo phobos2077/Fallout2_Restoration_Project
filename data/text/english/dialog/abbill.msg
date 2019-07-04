@@ -8,16 +8,16 @@
 {204}{}{Nevermind. Bye.}
 
 {210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
- I don't suppose you've found anything...special, during your time here?}
+ I don't suppose you've found anything... special, during your time here?}
 {211}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
  especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
  myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special...hmm, [He glances over at Marcus.] It's funny you should ask, I just might have something that
+ as for something special... hmm, [He glances over at Marcus.] It's funny you should ask, I just might have something that
  would interest your friend here.}
 {212}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
  especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
  myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special...hmm, [He glances over your party.] Sorry, I don't think I have anything special you'd find
+ as for something special... hmm, [He glances over your party.] Sorry, I don't think I have anything special you'd find
  useful right now.}
 {213}{}{Oh, well. Let's see what you have in stock instead.}
 {214}{}{That's alright. Let me ask you something else.}

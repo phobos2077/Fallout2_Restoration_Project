@@ -10,9 +10,9 @@
 {109}{}{2 Seconds}
 {110}{}{"Maaaay-beeee..."}
 {111}{}{2 Seconds}
-{112}{}{"Yoooou'll think of meee...when you are alllll alone..."}
+{112}{}{"Yoooou'll think of meee... when you are alllll alone..."}
 {113}{}{2 Seconds}
-{114}{}{"Maaaay-beeee...the one whooo...is waaaaah-ting for yooou..."}
+{114}{}{"Maaaay-beeee... the one whooo... is waaaaah-ting for yooou..."}
 {115}{}{2 Seconds}
 {116}{}{"...will prove un-truuuuuue..."}
 {117}{}{2 Seconds}
@@ -20,7 +20,7 @@
 {119}{}{2 Seconds}
 {120}{}{::Pantomimes clapping, roaring of crowd::}
 {121}{}{2 Seconds}
-{122}{}{Th-th-thank you, th-th-thank you...yuh-yuh-you're a wonderful audience.}
+{122}{}{Th-th-thank you, th-th-thank you... yuh-yuh-you're a wonderful audience.}
 {123}{}{2 Seconds}
 {124}{}{An enh-encore? Ouh-okay!}
 {125}{}{*Snfff*}
@@ -40,7 +40,7 @@
 {139}{}{What is it you do here?}
 {140}{}{Can you tell me where the Vault Central Computer is?}
 {141}{}{Oh. Great talking to you. Goodbye.}
-{142}{}{Itz juhst over th-there...itz th' tuh-tuh-talking cuh-cuh-compuhter.}
+{142}{}{Itz juhst over th-there... itz th' tuh-tuh-talking cuh-cuh-compuhter.}
 {143}{}{(It's just over there. It's the talking computer.)}
 {144}{}{What is it you do here?}
 {145}{}{Thanks. Goodbye.}
@@ -53,11 +53,11 @@
 {152}{}{(Uh-uh. Doesn't matter, because most of the doors are jammed shut anyway.)}
 {153}{}{What do you store down here?}
 {154}{}{See you around. Bye.}
-{155}{}{Spuh-spuh-spare parts...suh-suh-supplies...and uh-uh-ore...}
+{155}{}{Spuh-spuh-spare parts... suh-suh-supplies... and uh-uh-ore...}
 {156}{}{(Spare parts, supplies, and ore.)}
 {157}{}{Ore?}
 {158}{}{Oh. Thanks for the information.}
-{159}{}{Uh-uh-ore from Ruh-Ruh-Redding...nuh-nuh-not so muh-muh-much any-more.}
+{159}{}{Uh-uh-ore from Ruh-Ruh-Redding... nuh-nuh-not so muh-muh-much any-more.}
 {160}{}{(Ore from Redding. Not so much anymore.)}
 {161}{}{Not much ore from Redding? Why not?}
 {162}{}{Oh. Thanks for the information.}
@@ -77,13 +77,13 @@
 {176}{}{Just thought you should know. Take care.}
 {177}{}{Suh-suh-suh-sorreee. I'll stuh-stuh-stop.}
 {178}{}{(Sorry. I'll stop.)}
-{179}{}{Now...what was it you do here again?}
+{179}{}{Now... what was it you do here again?}
 {180}{}{Good. Do the world a favor and keep quiet.}
 {181}{}{Yuh-yuh-yuh-you guh-guh-got to be Kuh-Quiet! Shhhhhh!}
 {182}{}{Sorreeeee}
 {183}{}{Wuh-wuh-wuht are yuh-you doin' down here?!}
 {184}{}{GEK}
-{185}{}{Guh-guh-GECK? You kuh-can ch-ch-check th' cuh-cuh-computer...the tuh-tuh-talkie buh-buh-box.}
+{185}{}{Guh-guh-GECK? You kuh-can ch-ch-check th' cuh-cuh-computer... the tuh-tuh-talkie buh-buh-box.}
 {186}{}{Okeee. Fanks.}
 {187}{}{Zuh-zuh-zuh-Zzzzzzzzz}
 {188}{}{S-s-s-tay aw-w-w-ay from-m-m that d-d-oor!}

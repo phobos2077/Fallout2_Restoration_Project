@@ -82,7 +82,7 @@
 {181}{}{Change is probably the one universal constant. Just because we're different doesn't make us bad. If anything, we're living proof of humanity's resilience. As such, we deserve to survive even *more* than your people do.}
 {182}{}{Have you stopped to consider that even though we're different that we're just as human as you are?}
 {183}{}{You aren't going to have any future generations, doc. 'Cause you're going to be dead.}
-{184}{}{I hadn't ever stopped to think about it that way…. Please, give me a minute, while I think this over very carefully.}
+{184}{}{I hadn't ever stopped to think about it that way... Please, give me a minute, while I think this over very carefully.}
 {185}{}{That's OK. Take your time, doctor. It's a big concept to swallow.}
 {186}{}{You don't have a minute. Your time's been up for a while already. Goodbye, asshole.}
 {187}{}{That's preposterous. You're no more like me than a mutated, two-headed cow is like a normal heifer.}
@@ -102,7 +102,7 @@
 {201}{}{Okay, now I know where you found it, but what does it do?}
 {202}{}{The F.E.V. was initially designed as a virus that was supposed to turn humans into super-soldiers. That experiment seems to have been an utter failure, although I did try a modification of the virus on one of our Secret Service agents with some success.}
 {203}{}{Great for you, but how does that have anything to do with eradicating everyone?}
-{204}{}{Oh, yes, well, I was getting to that….The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it all ready was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it all ready was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Perfect? How so?}
 {206}{}{Isn't it obvious, my mutated friend? The F.E.V. is, thanks to me, a lethal toxin, and thanks to some mysterious genius named, rather dramatically, the Master, it only works on humans, mutated or not.}
 {207}{}{So?}
@@ -128,7 +128,7 @@
 {227}{}{Give me a moment won't you?}
 {228}{}{I hate to admit this but you may be right. What we've been planning all along just isn't right. I was so blinded by trying to overcome the obstacles that I didn't think about the morality of my quest.}
 {229}{}{Well, now that you've thought about it. You should destroy the toxin.}
-{230}{}{That might…. No, that wouldn't work.}
+{230}{}{That might... No, that wouldn't work.}
 {231}{}{Why not?}
 {232}{}{Because they'd just start over. Even with me dead, there's enough data between here and Navarro to assure that they could replicate my work. Only something more drastic will be enough.}
 {233}{}{More drastic? What do you mean?}

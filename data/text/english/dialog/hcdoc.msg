@@ -19,7 +19,7 @@
 {114}{}{How much?}
 {115}{}{Forget it.}
 
-{116}{}{Yes, I can heal this… ::wheeze:: for a price.}
+{116}{}{Yes, I can heal this... ::wheeze:: for a price.}
 {117}{}{How much?}
 {118}{}{Forget it.}
 
@@ -55,11 +55,11 @@
 {139}{}{I'll pay.}
 {140}{}{Forget it.}
 
-{141}{}{Whew… friend, this is going to hurt you a lot. $300 and you're good as new.}
+{141}{}{Whew... friend, this is going to hurt you a lot. $300 and you're good as new.}
 {142}{}{I'll pay.}
 {143}{}{Forget it.}
 
-{144}{}{He should be okay after a little help from me… ::wheeze:: to the tune of $50.}
+{144}{}{He should be okay after a little help from me... ::wheeze:: to the tune of $50.}
 {145}{}{I'll pay.}
 {146}{}{Forget it.}
 
@@ -103,7 +103,7 @@ because this is going to cost ::cough:: $200.}
  may hurt a little bit.}
 {171}{}{Hurt?}
 
-{172}{}{Yes. Now… There! We're done. Good luck to you, okay? Don't get hurt!}
+{172}{}{Yes. Now... There! We're done. Good luck to you, okay? Don't get hurt!}
 {173}{}{Tanks!}
 
 {174}{}{That's right. I'm a doctor. Good to see that intelligence is alive and well in the post-nuclear
@@ -126,45 +126,45 @@ because this is going to cost ::cough:: $200.}
 {187}{}{Okay, you've pissed me off. Now you're going to need to heal yourself.}
 
 {188}{}{(You can see a glint of laughter in his eyes behind his glasses.) Don't see it too many other
- places these days. The young of the world, for example…}
+ places these days. The young of the world, for example...}
 {189}{}{Hey!}
 {190}{}{Old man, don't push me.}
 {191}{}{...are the repository of what our elders once knew...}
-{192}{}{Yeah, yeah, yeah… I gotta go.}
+{192}{}{Yeah, yeah, yeah... I gotta go.}
 
 {193}{}{Relax, kid. Just joking around with you.}
-{194}{}{Yeah, I know. So… ummm… }
+{194}{}{Yeah, I know. So... ummm... }
 
-{195}{}{… and what we refuse to tell you little bastards! (he bursts out laughing) Kid, the next time
+{195}{}{... and what we refuse to tell you little bastards! (he bursts out laughing) Kid, the next time
  you need to see me for some medical help, it's on the house.}
 {196}{}{I had some other questions.}
 {197}{}{Thanks. I'll see you around.}
 
 {198}{}{You're hurt? Let me fix that.}
-{199}{}{Umm…}
+{199}{}{Umm...}
 {200}{}{Thanks. See ya!}
 
 {201}{}{Who's hurt? Oh, just line up and I'll take care of the lot of ya.}
-{202}{}{One more thing…}
+{202}{}{One more thing...}
 {203}{}{Thanks! Bye!}
 
 {204}{}{Surprisingly little. Sorry, but when I'm concentrating on healing someone, I don't usually pay
  attention to their innermost secrets.}
 {205}{}{Oh. Will you answer more questions?}
 
-{206}{}{So then I traveled to San Francisco and studied under the Chinese there… an old gentleman by
+{206}{}{So then I traveled to San Francisco and studied under the Chinese there... an old gentleman by
  the name of Mr. Fung taught me everything I know about medicine. He also taught me some wisdom.}
 {207}{}{So then what happened?}
 {208}{}{And this ties into Broken Hills how?}
 
-{209}{}{I'm getting to that! Kids these days… so impatient.}
+{209}{}{I'm getting to that! Kids these days... so impatient.}
 {210}{}{Sorry. Go on.}
 {211}{}{This sucks. I'm outta here.}
 
 {212}{}{Then, I came back here and watched Marcus build the town from the shanties I remember from my
  youth into the "sprawling metropolis" you see before you. I saw people attracted by promises of
  wealth. I saw people grow up and die. I saw the currents of history.}
-{213}{}{So that means…}
+{213}{}{So that means...}
 
 {214}{}{That means that I don't know most of the new people these days. Most of my memories are just
  that -- memories.}
@@ -173,7 +173,7 @@ because this is going to cost ::cough:: $200.}
 
 {217}{}{No, thank you for listening to me ramble. Next time you're here and need healing, it's on the
  house.}
-{218}{}{Thanks! So anyway…}
+{218}{}{Thanks! So anyway...}
 {219}{}{Thanks. So long!}
 
 {220}{}{Yeah. Hope it was worth it! (he cackles)}

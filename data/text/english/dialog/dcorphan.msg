@@ -19,11 +19,11 @@
 {230}{}{This is Frankie's place.}
 {231}{}{You a friend of Frankie?}
 {232}{}{This place smells yucky.}
-{233}{}{Frankie's drinks are expensive… so I hear.}
+{233}{}{Frankie's drinks are expensive... so I hear.}
 
 {240}{}{Becky's so nice.}
 {241}{}{This is Rebecca's place.}
-{242}{}{Becky has the best prices on drinks… so I've heard.}
+{242}{}{Becky has the best prices on drinks... so I've heard.}
 {243}{}{Rebecca won't let me play her games.}
 {244}{}{Becky's so pretty.}
 {245}{}{Have you met Rebecca? I wish she was my mom.}

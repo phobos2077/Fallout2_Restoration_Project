@@ -1,9 +1,9 @@
-{100}{}{You see...a white hero model.}
+{100}{}{You see... a white hero model.}
 {101}{}{You see a heavily muscled white man in a Vault 13 jumpsuit. He is smiling and laughing as he
  tells his story.}
 {102}{}{You see a white hero model. He is smiling and laughing.}
 {103}{}{You see a white hero model. He is smiling and laughing.}
-{104}{}{So...my player was SO stupid, that...}
+{104}{}{So... my player was SO stupid, that...}
 {105}{}{Get this, get this - he thinks that the shotgun ammo is the water chip, and he takes it back to
  the Overseer...}
 {106}{}{What an idiot!}

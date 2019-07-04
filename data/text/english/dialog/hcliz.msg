@@ -14,7 +14,7 @@
 {111}{}{I understand you have a surplus of weapons. I need some.}
 {112}{}{Nothing.}
 
-{113}{}{Oh, god… another addle-headed mutant baby. When will someone just shoot these things?}
+{113}{}{Oh, god... another addle-headed mutant baby. When will someone just shoot these things?}
 {114}{}{Gurgle.}
 
 {115}{}{Speak slowly and clearly and I'll see if I can help you.}
@@ -47,7 +47,7 @@
 {135}{}{Bad guys.}
 {136}{}{No one. Forget it.}
 
-{137}{}{Who told you about that?? I mean… of course not! Don't be ridiculous!}
+{137}{}{Who told you about that?? I mean... of course not! Don't be ridiculous!}
 {138}{}{Relax. Jacob told me.}
 {139}{}{Yeah, well, it's all over town and it's an open secret.}
 {140}{}{Your secret's safe. I got it from a reliable source.}

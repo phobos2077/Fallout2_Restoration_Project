@@ -18,7 +18,7 @@
 {117}{}{The First Citizen still needs those inventory lists...}
 {118}{}{Sorry, we're closed for the evening. Come back in the morning.}
 {119}{}{We're closed. I'm just compiling these lists before I head home.}
-{120}{}{Hello there, stranger. Always a pleasure to see a new face. Name's Randal...I'm the Chief Amenities Officer. Need something?}
+{120}{}{Hello there, stranger. Always a pleasure to see a new face. Name's Randal... I'm the Chief Amenities Officer. Need something?}
 {121}{}{Gechkk}
 {122}{}{Nooooooooo-pe}
 {123}{}{Shamble off}
@@ -33,7 +33,7 @@
 {132}{}{Hate to break it to you, friend, but we don't have ours anymore. Used it up to make Vault City...*poof.* All gone.}
 {133}{}{NEED Gechkkk.}
 {134}{}{Shamble off}
-{135}{}{Oh...well, do you know of any place that might have one?}
+{135}{}{Oh... well, do you know of any place that might have one?}
 {136}{}{Mind if I ask you something else?}
 {137}{}{Well, nevermind then.}
 {138}{}{Well, hmmm. Here's your problem, as I see it: the GECK's an old piece of tech... pre-war tech, in fact. You just can't "find" them anymore. They were only issued to Vaults.}
@@ -124,8 +124,8 @@
 {223}{}{I see. Mind if I ask you some other questions?}
 {224}{}{Maybe I can go find those tools somewhere else, then.}
 {225}{}{!}
-{226}{}{, huh? Wait one minute, and I'll go get you the Hydroelectric Magneto...uh, the Hy-Mag.}
-{227}{}{, right? Wait one minute, and I'll go get you the Hydroelectric Magneto...uh, the Hy-Mag.}
+{226}{}{, huh? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
+{227}{}{, right? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
 
 {228}{}{Thanks.}
 {229}{}{[continue]}

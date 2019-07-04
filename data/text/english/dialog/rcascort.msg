@@ -8,7 +8,7 @@
 {107}{}{You should try the tables, tribal.}
 {108}{}{You should try the slots, tribal. Heap good magic there.}
 {109}{}{Take it easy on the firewater, tribal.}
-{110}{}{Hello there; welcome to the fine city of Redding...and welcome to my casino. Everyone's an Ace
+{110}{}{Hello there; welcome to the fine city of Redding... and welcome to my casino. Everyone's an Ace
  here at Ascorti's. I'm Ascorti, proprietor and mayor of this fine town.}
 {111}{}{What can Mayor Ascorti do for you?}
 {112}{}{Is there any work here in Redding?}
@@ -102,7 +102,7 @@
 {179}{}{How's that my problem?}
 {180}{}{Great, what do I do about this?}
 {181}{}{I guess it's because he's got a reputation for croaking people. He's a real nasty customer who
- won't be missed...and you'll be a hero. You'd like to be a hero, wouldn't you?}
+ won't be missed... and you'll be a hero. You'd like to be a hero, wouldn't you?}
 {182}{}{Maybe, but I still don't see how this is my problem.}
 {183}{}{Yeah, sure. What do I do about this?}
 {184}{}{I guess I've got some more house-clearing to do. I'll be back when I've kicked some more ass,
@@ -128,7 +128,7 @@
  too.}
 {200}{}{I bet it is. How much back-rent does she owe you?}
 {201}{}{Hmm, well I better be going, Mayor. Goodbye.}
-{202}{}{Let's see here…Mrs. Rooney owes me…yes, here it is, $120. That's it. $120.}
+{202}{}{Let's see here... Mrs. Rooney owes me... yes, here it is, $120. That's it. $120.}
 {203}{}{Is that all? I've got that right here.}
 {204}{}{That's not that much. Let me ask you about something else.}
 {205}{}{I'll see what I can do to make her pay up. Goodbye.}
@@ -179,7 +179,7 @@
 {241}{}{All right. I'm leaving. Don't give yourself a stroke. Goodbye.}
 {242}{}{Is everyone in your tribe this stupid? That's it. You want to dance? Then let's dance. Guards!}
 {243}{}{You've gotta be talkin' to me and I don't like what you're saying.}
-{244}{}{Whoa, hey...easy there, sparky. I was just leaving.}
+{244}{}{Whoa, hey... easy there, sparky. I was just leaving.}
 {245}{}{I hear you're working for Earl Marion as a sort of fill-in Sheriff until he gets better. That
  oughta keep your hands full for a while. Cain't think of any other real work for you in town, anyhow.}
 {246}{}{I see. Let me ask you about something else then, Mayor Ascorti.}
@@ -213,7 +213,7 @@
 {269}{}{Maybe I'll take a walk up there and talk to them. Thanks, Mayor. Goodbye.}
 {270}{}{Lately our gold shipments have started to slow down because the miners are spending too much
  time flying high on Jet.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold...so our prices
+{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
  are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Everyone's getting too high on Jet to work effectively. We aren't making but a tenth of our
  regular gold shipments, and we've jacked the price way up on that. This can't last.}

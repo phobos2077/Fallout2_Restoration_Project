@@ -5,7 +5,7 @@
  Sorry, boy!}
 {201}{}{He's a mutant spy! Take him out, team!}
 {202}{}{As a loyal soldier of the Enclave, I got orders to kill you. Hope you don't mind.}
-{203}{}{Base we got an intruder, sector 3; awaiting orders...Kill him? Roger that base.}
+{203}{}{Base we got an intruder, sector 3; awaiting orders... Kill him? Roger that base.}
 {204}{}{Now I suppose you're going to tell me you're just out looking for a water chip. Do I look dumb?
  Get him!}
 {205}{}{Die, wasteland scum!}

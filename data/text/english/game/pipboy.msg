@@ -572,7 +572,7 @@
 {12017}{}{Hubbell. He saw the failure of the medicine of that time,}
 {12018}{}{and of the failure of religion, and of the failure of }
 {12019}{}{government. He knew that the world needed something }
-{12020}{}{new...the world needed Hubology. Inspired by music of the }
+{12020}{}{new... the world needed Hubology. Inspired by music of the }
 {12021}{}{time and his own personal experience with extraterrestrial}
 {12022}{}{beings, he set out to show us wheels in the sky, to keep }
 {12023}{}{them burning, and to understand the Great Wheel of Life.}
@@ -658,7 +658,7 @@
 {12103}{}{**END-PAR**}
 {12104}{}{We think of ourselves as a religion combined with the best}
 {12105}{}{scientific technique - scientific spirituality is what we}
-{12106}{}{call it...and what we hope you'll be calling it before too}
+{12106}{}{call it... and what we hope you'll be calling it before too}
 {12107}{}{long!}
 {12108}{}{**END-PAR**}
 {12109}{}{This is our creation story:}

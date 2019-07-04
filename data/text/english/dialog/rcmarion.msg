@@ -28,7 +28,7 @@
 {124}{}{Oh, I see. What else do you do as Sheriff?}
 {125}{}{I'm still curious as to how you knew.}
 {126}{}{I guess that's why you're the Sheriff, Earl. Goodbye.}
-{127}{}{Well, if you must steal all the drama and mystery from my moment…I have friends in the NCR. Good
+{127}{}{Well, if you must steal all the drama and mystery from my moment... I have friends in the NCR. Good
  friends. Might say that we have common interests, too.}
 {128}{}{Oh, well, that explains it. I was curious. What do you do here in town as the Sheriff?}
 {129}{}{Common interests? What kind of common interests?}
@@ -52,7 +52,7 @@
 {142}{}{Whatcha pestering me with now?}
 {143}{}{Who's Doc Johnson?}
 {144}{}{You need some help, Sheriff?}
-{145}{}{While the cat's away…}
+{145}{}{While the cat's away...}
 {146}{}{Well, I won't keep you any longer. You must need your rest. Goodbye.}
 {147}{}{Good ole Painless Doc Johnson's our town doc. You have a toothache or a broken bone, he'll set
  you to right. He also sells medicine. All kinds of medicine, if you get my drift. For *whatever* ails
@@ -69,7 +69,7 @@
 {156}{}{I wouldn't get any bright ideas. I can still whoop any two of you, with or without a good leg.}
 {157}{}{Hey, I was just kidding. Let me ask you something else.}
 {158}{}{Yeah, you and what army?}
-{159}{}{I was just pulling your leg. Uh, what I mean to say is…uh. Goodbye, Sheriff.}
+{159}{}{I was just pulling your leg. Uh, what I mean to say is... uh. Goodbye, Sheriff.}
 {160}{}{The Doc's office is at the west end of downtown here. He's just about always happy to see new
  patients.}
 {161}{}{I see. Let me ask you something else.}
@@ -89,7 +89,7 @@
 {171}{}{I see. How can you influence Redding, though?}
 {172}{}{Everyone's got an angle, all right. Goodbye, Sheriff.}
 {173}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to
- count on when push comes to shove. That's enough…for now.}
+ count on when push comes to shove. That's enough... for now.}
 {174}{}{Interesting. Let me ask you something else.}
 {175}{}{Hmm, something to think about, anyhow. Goodbye.}
 {176}{}{I can't believe that you'd use such a corny line. You've been reading too many pulp-westerns.
@@ -97,7 +97,7 @@
  sweat?}
 {177}{}{Okay, Sheriff! Draw!}
 {178}{}{Hey, I didn't mean nothing. I was just funnin'. Let me ask you about something.}
-{179}{}{Uh, hey...I was just kidding. I'll just sweat, thank you. Uh, goodbye, Sheriff.}
+{179}{}{Uh, hey... I was just kidding. I'll just sweat, thank you. Uh, goodbye, Sheriff.}
 {180}{}{Yeah. I figured you was like that.}
 {181}{}{Heh, heh. Goodbye, Sheriff Marion.}
 {182}{}{What do you know about me? That's it. You're gonna pay for that. I'm a-callin' you out.}
@@ -132,7 +132,7 @@
 {201}{}{How much does she owe him?}
 {202}{}{Okay, I'll do it.}
 {203}{}{I don't think I want to help you right now. Goodbye, Sheriff.}
-{204}{}{Sorry to hear that. I could sure use the help. Well, if you change your mind…you know where to
+{204}{}{Sorry to hear that. I could sure use the help. Well, if you change your mind... you know where to
  find me.}
 {205}{}{Before I go, let me ask you about something else.}
 {206}{}{I sure do. Goodbye, Sheriff.}
@@ -209,9 +209,9 @@
  job.}
 {257}{}{Brothers? You didn't tell me that Frog had brothers.}
 {258}{}{Didn't I? Must have plum darn slipped my mind. Yup, that's what it did. Well, he's got three
- older brothers...even meaner than he was, from what I hear. Let's see...Toad, Newt and Snake Morton, if
+ older brothers... even meaner than he was, from what I hear. Let's see... Toad, Newt and Snake Morton, if
  I remember aright. Heck, you know how tall tales can get. By the way, keep that badge I gave you. You
- earned it…Sheriff. (He smiles.)}
+ earned it... Sheriff. (He smiles.)}
 {259}{}{Uh, yeah. Sure. Well, I better be moving on. I have an appointment, someplace else. Someplace
  far away from Redding. Goodbye.}
 {260}{}{Just three more notches on my gun. No problem. So long, Sheriff.}
@@ -236,7 +236,7 @@
 {272}{}{Sure thing, Sheriff.}
 {273}{}{Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye.}
 {274}{}{His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?}
-{275}{}{Ohhhh. Ouch. That's terrible. The pain, the pain…}
+{275}{}{Ohhhh. Ouch. That's terrible. The pain, the pain...}
 {276}{}{Will do.}
 {277}{}{I don't think I want to risk getting croaked, Sheriff. Goodbye.}
 {278}{}{Hey, I didn't make that one up - he did. With puns that bad, I'd say that gives you just one

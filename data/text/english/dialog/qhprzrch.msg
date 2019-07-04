@@ -18,7 +18,7 @@
 {114}{}{Just wait right here. }
 {115}{}{Uh, stay calm. Someone will be right along. }
 {116}{}{Everything is fine.}
-{117}{}{Damn it! Will somebody come and get this...person?}
+{117}{}{Damn it! Will somebody come and get this... person?}
 {118}{}{Oh, guards! There's an idiot in my office... No, not the veep.}
 
 {119}{prs4}{Hello, there. I'm President Richardson and I'm damn proud to meet you. Ah, Vault 13. You've been doing your country an invaluable service.}
@@ -45,7 +45,7 @@
 {136}{}{Uh. Gee, thanks sir.}
 {137}{}{You better not call your guards if you want to leave this room alive.}
 
-{138}{prs9}{Ah...well. I'm sure we can work something out. What's on your mind?}
+{138}{prs9}{Ah... well. I'm sure we can work something out. What's on your mind?}
 {139}{}{I want to know what's going on here.}
 {140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else....}
 {141}{}{I'm leaving here and taking you as a hostage to make sure my people get out safely.}
@@ -60,7 +60,7 @@
 {148}{}{The Project? What Project?}
 {149}{}{Yes, it will. I'll enjoy it.}
 
-{150}{prs12}{Uh, now, now, now. Now, let's...let's... Uh, Wh-wh-what is it you want, anyway?}
+{150}{prs12}{Uh, now, now, now. Now, let's... let's... Uh, Wh-wh-what is it you want, anyway?}
 {151}{}{I want to know what's going on here.}
 {152}{}{I want to know just who the hell you are.}
 {153}{}{I want you dead.}
@@ -98,7 +98,7 @@
 {177}{prs20b}{A, hmm, a little history....}
 {178}{}{Go on, Mr. President....}
 {179}{}{First, why do you have a base at Navarro?}
-{180}{}{Before you get into that...I saw some of your vertibirds doing some trade with New Reno. What's that all about?}
+{180}{}{Before you get into that... I saw some of your vertibirds doing some trade with New Reno. What's that all about?}
 {181}{}{I don't have time for this lunacy now. Goodbye.}
 
 {182}{prs21a}{Well, hello there. Glad to make time for one of our gallant troopers. But, I am rather busy. So, uh, what can the President of the United States of America do for you?}

@@ -1,4 +1,4 @@
-{100}{}{You see...a black hero model.}
+{100}{}{You see... a black hero model.}
 {101}{}{You see a heavily muscled black man in a Vault 13 jumpsuit. He is glaring at you resentfully.}
 {102}{}{You see a black hero model. He is glaring at you resentfully.}
 {103}{}{You see a black hero model. He is glaring at you resentfully.}

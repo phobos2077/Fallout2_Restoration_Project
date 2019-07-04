@@ -1,4 +1,4 @@
-{100}{}{You see...a red-haired heroine model.}
+{100}{}{You see... a red-haired heroine model.}
 {101}{}{You see a strikingly attractive red-haired woman in a Vault 13 jumpsuit. She is glaring angrily
  into the distance.}
 {102}{}{You see a red-haired heroine model. She is glaring into the distance.}

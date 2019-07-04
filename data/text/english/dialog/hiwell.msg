@@ -20,7 +20,7 @@
  to make it down the well without getting stuck. Looks like you'll need some help.}
 {115}{}{Too big go down well.}
 {116}{}{It's no good. I can't get down the well. I'm too big.}
-{117}{}{Uh...friend, this isn't...uh...quite what I had in mind.}
+{117}{}{Uh... friend, this isn't... uh... quite what I had in mind.}
 {118}{}{GO, shortee!}
 {119}{}{Short guy nice. Like short guy.}
 {120}{}{Keep goin', Short Round.}
@@ -34,7 +34,7 @@
 {128}{}{Yeah, right! So you can go running off with my share? I don't think so! Just give me a second to check it out.}
 {129}{}{OK.}
 {130}{}{Whatever. You're not going anywhere.}
-{131}{}{I'm opening the sack. It's... it's beautiful! It's so shiny! It's...it's.... Uh oh...}
+{131}{}{I'm opening the sack. It's... it's beautiful! It's so shiny! It's... it's.... Uh oh...}
 {132}{}{Uh oh?}
 {133}{}{'Uh oh'? You said 'Uh oh'. Why did you say 'Uh oh'?}
 {134}{}{Uh... never mind! [snicker]... Check it out.}
@@ -67,6 +67,6 @@
 {160}{}{I'm gonna get you for this!}
 {161}{}{Oh my god! Morlocks!}
 {162}{}{[whistle] When I'm a little scared, I [shudder] sing this merry song... [whistle]}
-{163}{}{So...mad...right...now!}
+{163}{}{So... mad... right... now!}
 {164}{}{I suppose a secret passage would be too much to ask for.}
 {165}{}{What's going on up there?}

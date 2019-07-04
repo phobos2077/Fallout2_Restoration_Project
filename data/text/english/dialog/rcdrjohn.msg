@@ -52,7 +52,7 @@
 {142}{}{Aww, come on, Doc. We sure need your help.}
 {143}{}{I'll come back when I have more money. Goodbye. }
 {144}{}{Well, okay. I'll do it this once - but you better have the money to pay me next time.}
-{145}{}{That worked...once. Just like I told you. This time I need the money. You aren't going to get
+{145}{}{That worked... once. Just like I told you. This time I need the money. You aren't going to get
  anything in this world for free - my services included.}
 {146}{}{Thanks, Doc. I sure appreciate it. Next time I'll have cash. I promise.}
 {147}{}{I feel kind of guilty imposing on you like that. I better come back when I have money to pay
@@ -125,7 +125,7 @@
 {203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
  Jet-reliance problem that you have here.}
 {204}{}{Oh, nothing. Let me ask you about something else, Doc.}
-{205}{}{We sure do. Too much Jet, not enough work...but where did you hear about that?}
+{205}{}{We sure do. Too much Jet, not enough work... but where did you hear about that?}
 {206}{}{McClure in Vault City told me.}
 {207}{}{I just heard a rumor, that's all.}
 {208}{}{It's not really important. Let me ask you about something else.}
@@ -136,7 +136,7 @@
 {211}{}{So if you don't want New Reno to control Redding, just who do you want in charge here?}
 {212}{}{Thanks for explaining that to me, Doc. Goodbye.}
 {213}{}{All of the Jet here in town is shipped here from the Mordino family in New Reno. It comes mostly
- in bulk packages, and then I process it into user-ampoules...so I end up selling all of it right here.}
+ in bulk packages, and then I process it into user-ampoules... so I end up selling all of it right here.}
 {214}{}{You must make a tidy profit out of that.}
 {215}{}{You must be real chummy with New Reno, then.}
 {216}{}{I see. Let me ask you about something else.}
@@ -191,7 +191,7 @@
 {249}{}{I don't think I'm ready to hand it over just yet. See you around, Doc. Goodbye.}
 {250}{}{What's it worth to me? Why, you little weasel! I oughta...}
 {251}{}{Easy there, Doc; that kind of talk makes me feel so bad that I get all shaky. I could drop
- things...like this antidote bottle.}
+ things... like this antidote bottle.}
 {252}{}{Okay, okay. Hey, I was just kidding. Here it is.}
 {253}{}{Thank you. I'll make sure the miners get a little something *extra* with the next batch of
  Jet that they pick up.}
@@ -247,11 +247,11 @@
 {292}{}{The Phoenix Armor Implant.}
 {293}{}{The Assault Enhancement for the Dermal Impact Armor.}
 {294}{}{The Assault Enhancement for the Phoenix Armor Implants.}
-{295}{}{Doc, I think I'd rather ask you about something less...uh, invasive.}
+{295}{}{Doc, I think I'd rather ask you about something less... uh, invasive.}
 {296}{}{I guess I don't want to hear about an operation right now. Goodbye.}
 {297}{}{According to what I've read, Dermal Impact Armor gives you 5% resistance to normal and explosive
  damage - over and above any other armor you're wearing. The operation takes about two days, one suit of
- Combat Armor (for parts), and it will cost you $5,000. This procedure should be fairly simple...I think.
+ Combat Armor (for parts), and it will cost you $5,000. This procedure should be fairly simple... I think.
  Hmm, you may not even scar all that badly.}
 {298}{}{That sounds great, Doc. Let's do it. I just hate getting shot, stabbed, and blown up all the
  damn time.}
@@ -309,7 +309,7 @@
  you're ready for action now. You not only look sort of like Frankenstein, but you should be as tough as
  him as well. Uh, try to stay out of the sun until most of the scabs slough off.}
 {325}{}{That turned out rather well, I think. The Phoenix Armor implanted much more neatly than I would
- have thought it would. That burning and itching feeling will probably go away in a few weeks...once your
+ have thought it would. That burning and itching feeling will probably go away in a few weeks... once your
  innards get used to the fibers.}
 {326}{}{Coming around, are we? You're just jam-packed with thermal-dissipaters and dissipative membranes.
  You won't look quite so lumpy in a few weeks, but you won't be winning any beauty pageants again,

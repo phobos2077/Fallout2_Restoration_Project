@@ -77,15 +77,15 @@
 {316}{}{You take care now, you hear, little one? I've got some more hero things to do.}
 
 # 13. I'VE GOT SOME THINGS TO DO. (12)
-{320}{}{(The kid stops you.) Um… }
-{321}{}{Uh…no. I promise.}
-{322}{}{Uh…not as far as you know.}
+{320}{}{(The kid stops you.) Um... }
+{321}{}{Uh... no. I promise.}
+{322}{}{Uh... not as far as you know.}
 {323}{}{Don't worry, little one. I'll come back and visit you as a different character.}
 {324}{}{Don't worry, little one. You won't feel a thing.}
 
 # 14. UH, HARD DRIVE (13)
 {330}{}{Will we dream?}
-{331}{}{Uh…sure. Sure you will.}
+{331}{}{Uh... sure. Sure you will.}
 {332}{}{Beats me. I don't seem to dream, so you probably don't either. Life's a bitch, huh?}
 
 # 15. POWER ARMOR 1 (WTG)
@@ -117,21 +117,21 @@
 
 # 20. I'M NOT A ROBOT (15, 28)
 {410}{}{Oh. (Thinks for a moment, then squints at you.) Why ARENCHA a robot?}
-{411}{}{Uh… because… well, robots and people have different… uh, parts.}
+{411}{}{Uh... because... well, robots and people have different... uh, parts.}
 {412}{}{I have to be going.}
 
 # 21. ROBOTS AND PEOPLE HAVE DIFFERENT PARTS (20)
 {425}{}{Oh, yeah? (Seems suspicious.) Like what?}
-{426}{}{Uh…well…say, kid, didn't your Mommy and Daddy explain this to you?}
-{427}{}{Uh…well! Look at the time! I must be going.}
+{426}{}{Uh... well... say, kid, didn't your Mommy and Daddy explain this to you?}
+{427}{}{Uh... well! Look at the time! I must be going.}
 
 # 22. DIDN'T MOMMY AND DADDY EXPLAIN THIS TO YOU? (21)
 {435}{}{Explain what?}
-{436}{}{Uh…well…robots…have oil inside. Humans…well, humans…bleed.}
+{436}{}{Uh... well... robots... have oil inside. Humans... well, humans... bleed.}
 
 # 23. HUMANS BLEED (22)
 {445}{}{Mommy an' my big sisters bleed every month or so. Then they get really mean. I wish they were robots.}
-{446}{}{Uh…yeah. Great, kid. Look, I have to be going - don't tell yer Mom I was talking to you.}
+{446}{}{Uh... yeah. Great, kid. Look, I have to be going - don't tell yer Mom I was talking to you.}
 
 # 24. POWER ARMOR 2 (WTG)
 {456}{}{I just pee but haveta get used to th'smell}
@@ -144,11 +144,11 @@
 {475}{}{That's GROSS.}
 {476}{}{Yes! Recycling means you drink pee!}
 {477}{}{YER gross, pee-pee FACE}
-{479}{}{Uh, heh…heh. No actually, it means…}
+{479}{}{Uh, heh... heh. No actually, it means...}
 
 # 26. NO, ACTUALLY, IT MEANS . . . (25, 26)
 {485}{}{You drink pee-pee! You drink pee-pee!}
-{486}{}{Uh, heh…heh…keep your voice down, little one…recycling doesn't mean that I drink p…well, not EXACTLY…look…}
+{486}{}{Uh, heh... heh... keep your voice down, little one... recycling doesn't mean that I drink p... well, not EXACTLY... look...}
 {487}{}{Let the little shit go back to playing.}
 {488}{}{(Leave.)}
 
@@ -203,7 +203,7 @@
 
 # 37. SING TOGETHER (36)
 {585}{}{::Singing Together:: He's got the whole world in his hands. ::Singing winds down:: He's got the whole world in his hands.}
-{586}{}{Thank you for singing with me. I might be back later…if I need a hat.}
+{586}{}{Thank you for singing with me. I might be back later... if I need a hat.}
 
 # 38. HELLO, LITTLE MAN/WOMAN. (14, 37)
 {590}{}{(The kid blinks at you.)}
@@ -226,8 +226,8 @@
 # 42. HIS NAME IS MARCUS. (29, 40, 41)
 {685}{}{Hello, Mar-cus mutant. Yer awful big. Hee-hee... and yer fidget animation is funny.}
 {686}{}{Hello, Len-ee ghoul. Phew... yer reeally smelly.}
-{687}{}{It sure is, isn't it? So… what's up, kid?}
-{688}{}{He sure is, isn't he? So… what's up kid?}
+{687}{}{It sure is, isn't it? So... what's up, kid?}
+{688}{}{He sure is, isn't he? So... what's up kid?}
 {689}{}{Well, gotta go. See you later.}
 
 # 43. MARCUS/LENNY IS HUNGRY (29, 40, 41)
@@ -274,7 +274,7 @@
 {914}{}{Daddy's been really mad since my brother Richie died.}
 {915}{}{Daddy's doin' bizness again.}
 {916}{}{Father Tully is funny when he can't walk straight.}
-{917}{}{He's got the whole world in his hands…he's got the whole world in his hands…}
+{917}{}{He's got the whole world in his hands... he's got the whole world in his hands...}
 {918}{}{I made a poo poo.}
 {919}{}{I miss my brother, Richie. He died cuz he took too much Jet.}
 {920}{}{I never see Christopher any more.}

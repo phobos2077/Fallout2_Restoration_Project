@@ -44,7 +44,7 @@
  brahmin by these nefarious bugmen.)}
 {163}{}{Bugmen bad. No hep Torr. (Hmm, I don't think I can help you with the bugmen just now, Torr.
  But I do wish you the very best of luck with them. Goodbye.)}
-{164}{}{Uh...sure, Torr. I can help you guard the brahmin.}
+{164}{}{Uh... sure, Torr. I can help you guard the brahmin.}
 {165}{}{I can't (shaking head at Torr) help you with that. Goodbye.}
 {166}{}{Traygu Oo? (Before we get into that Torr, do you know of a trader that lives here in town?)}
 
@@ -65,12 +65,12 @@
 {185}{}{Go Torr. (That's all I need to know for now. Goodbye, Torr.)}
 
 {190}{}{Ook! Ugmen, Ulik ribal, Smiley mook. (Well, there's my bugmen problem. Then there's Sulik, the
- tribal, that my mom is making work off a debt -— I think sis is in love with him. Mom's boyfriend,
+ tribal, that my mom is making work off a debt -- I think sis is in love with him. Mom's boyfriend,
  a fellow named Smiley, is missing someplace out to the west. Quite exciting here, lately.)}
 {191}{}{Torr? (There is a lot going on here. Let me ask you something else.)}
 {192}{}{Ook! (That's enough information for now. Goodbye.)}
 
-{200}{}{Zzzzz? Torr Zzzzz. (Well, you're welcome to sleep in my room -— no charge.)}
+{200}{}{Zzzzz? Torr Zzzzz. (Well, you're welcome to sleep in my room -- no charge.)}
 {201}{}{Torr Zzzzzz? (You'll let me stay with you? That's very generous of you; I'll take you up on that
  right now. I'm all done in. Thanks.)}
 {202}{}{Zzzzz? (I don't think I need to sleep right now. Maybe another time. I do have some other

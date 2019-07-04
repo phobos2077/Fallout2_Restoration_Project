@@ -38,7 +38,7 @@
 {400}{}{Thanks much, fren. Truly, you are blessed by the spirits.}
 
 {500}{}{zzzZZzzz...}
-{501}{}{...zzZZZZzz...zzz...}
+{501}{}{...zzZZZZzz... zzz...}
 
 {600}{}{You heal Serin's leg.}
 

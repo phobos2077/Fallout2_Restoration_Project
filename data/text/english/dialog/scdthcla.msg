@@ -2,7 +2,7 @@
 {101}{}{Wow, this sure is boring. I hope something happens.}
 {102}{}{Look at the time...}
 {103}{}{Hmmm, dis is boring.}
-{104}{}{Zzzz...Zzz... huhh, wah...?}
+{104}{}{Zzzz... Zzz... huhh, wah...?}
 
 {105}{}{Look - human guard brahmin.}
 {106}{}{Gruthar say we go. No hurt human.}

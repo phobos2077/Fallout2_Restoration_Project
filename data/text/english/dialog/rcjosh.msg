@@ -58,7 +58,7 @@
 {150}{}{That's ridiculous. Where'd you hear that?}
 {151}{}{I dunno 'xactly. But it's a fact sure as fiddlin'. Why else would you all file your teeth into
  points? Huh? Answer me that!}
-{152}{}{I don't file my teeth into… Oh, never mind. Let me ask you about something else.}
+{152}{}{I don't file my teeth into... Oh, never mind. Let me ask you about something else.}
 {153}{}{Thankee kindly. Anything else for you?}
 {154}{}{Actually, there was something else.}
 {155}{}{Nope, that'll do it for now. Thanks, Josh.}
@@ -72,7 +72,7 @@
 {161}{}{The graves are being excavated?}
 {162}{}{How do you know that they don't have anything valuable on them?}
 {163}{}{Probably just rats. Let me ask you about something else.}
-{164}{}{Well, I don't know fer certain like…Uh, um. I was just guessin'. Yeah, that's it. Hey, have a
+{164}{}{Well, I don't know fer certain like... Uh, um. I was just guessin'. Yeah, that's it. Hey, have a
  free beer.}
 {165}{}{I don't know what you're implyin' but I don't like it.}
 {166}{}{Thanks for the beer. What do you mean that something's digging them up?}
@@ -86,7 +86,7 @@
 {171}{}{What a pleasant image that is. I'm sure that I'll wake up in cold sweat thinking about that
  one. Let me ask you something else.}
 {172}{}{It's a mystery, all right. Well, I'll see you around, Josh. Goodbye.}
-{173}{}{Well, I guess as long as you cook… Hold on a gol-darned minute. That's still cannibalism! You're
+{173}{}{Well, I guess as long as you cook... Hold on a gol-darned minute. That's still cannibalism! You're
  one sick little unit, even for a tribal.}
 {174}{}{Relax, Josh. I was just kidding. Heh, heh. Heck, we just cook parts of them.}
 {175}{}{Parts, huh? Which parts 'xactly?}
@@ -100,14 +100,14 @@
 {182}{}{Hey, we cook them first. We're not savages, you know.}
 {183}{}{Let go of my leg, you cannibal! I need it for a good long while to come still. You find yourself
  another snack.}
-{184}{}{Relax, you look kind of tough and stringy anyhow. Heh, heh. Just kidding…mostly. Let me ask you
+{184}{}{Relax, you look kind of tough and stringy anyhow. Heh, heh. Just kidding... mostly. Let me ask you
  something else, Josh.}
-{185}{}{Well, I'll look around. But if I don't find anything better, I'll be back. Goodbye…for now.}
+{185}{}{Well, I'll look around. But if I don't find anything better, I'll be back. Goodbye... for now.}
 {186}{}{Need to buy the farm first. Planning on buying some real estate anytime soon?}
 {187}{}{Uh, not any farms anyhow. Let me ask you something else.}
 {188}{}{Might help someone else, or two, to buy a farm hereabouts. See you later, Josh.}
 {189}{}{Well, I guess you'd start by croaking someone. But I'd advise against it. Sheriff Marion isn't
  real keen on that kind of behavior.}
 {190}{}{I'll try to behave myself. Let me ask you something else, Josh.}
-{191}{}{I see...well, at least I know who to talk to if there are any unfortunate *accidents*. Goodbye,
+{191}{}{I see... well, at least I know who to talk to if there are any unfortunate *accidents*. Goodbye,
  Josh.}

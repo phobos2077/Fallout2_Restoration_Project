@@ -17,7 +17,7 @@
 {112}{}{Thanks. Bye.}
 
 {113}{}{Honestly? I don't care for the guy. Lately, he's been tossing around a lot of coin. I mean, sure, he's the
- caravan master, so it makes sense for him to take a larger cut—I understand that. But there's no way he should be
+ caravan master, so it makes sense for him to take a larger cut--I understand that. But there's no way he should be
  *that* loaded. I think it'd be *real* interesting to take a peek at his records.}
 {114}{}{Marcus told me he suspects Chad of skimming some of the caravan money that supposed to be going to Broken Hills.
  I told him I'd look into it.}
@@ -43,7 +43,7 @@
 
 {126}{}{Actually, one more thing. I know Chad keeps records of all the transactions he makes. He's kind of a record freak.
  In fact, the guy's such a nut about it, I bet he even has records of all the money he's been skimming. The problem is,
- he keeps all the stuff locked up in his house on the other side of town, and there's no way you're getting in there—his
+ he keeps all the stuff locked up in his house on the other side of town, and there's no way you're getting in there--his
  locking system's too complex. Again, we never had this conversation.}
 {127}{}{I'll find a way. Thanks for the extra info.}
 

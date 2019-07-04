@@ -73,7 +73,7 @@
 {170}{}{Oh, I understand all right.}
 {171}{}{Sorry, can't talk right now. I'm already late for the coroner's inquest. Seems pretty clear cut to me.}
 {172}{}{Sorry, no crime, no time.}
-{173}{}{Desert rats. You got to understand – this town traces its roots back to 15. Seems there was some trouble there a long time ago and the survivors founded Shady Sands. So by right, Vault 15 is our property. Few years back some squatters moved in and there's been trouble ever since. You should talk to Tandi about it.}
+{173}{}{Desert rats. You got to understand -- this town traces its roots back to 15. Seems there was some trouble there a long time ago and the survivors founded Shady Sands. So by right, Vault 15 is our property. Few years back some squatters moved in and there's been trouble ever since. You should talk to Tandi about it.}
 {174}{}{Tandi?}
 {175}{}{I'll take that under advisement.}
 {176}{}{There is no more work that I am aware of.}

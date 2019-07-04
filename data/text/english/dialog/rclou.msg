@@ -46,7 +46,7 @@
 {130}{}{Didn't you hear me? No freaks in my saloon.}
 {131}{}{Those *things* aren't coming into my saloon. Leave them outside.}
 {132}{}{Cain't rightly say that I've heard of one of those afore. What is it?}
-{133}{}{Well it's a device used to…uh, hmm. It's just something that I'm looking for. Tell me something
+{133}{}{Well it's a device used to... uh, hmm. It's just something that I'm looking for. Tell me something
  else.}
 {134}{}{Nothing important. Well, I better be on my way.}
 {135}{}{Well, mostly we mine gold ore here and trade it to other areas.}
@@ -106,7 +106,7 @@
 {177}{}{Let me ask you something else.}
 {178}{}{I'll sort this out for you. You can count on me. Goodbye.}
 {179}{}{In the north part of town Dan McGrew runs the Morningstar mine. Usually the miners get paid on
- account or with chits from each mine...you know, scrip. Well, my girl was found with one of those
+ account or with chits from each mine... you know, scrip. Well, my girl was found with one of those
  pieces of scrip in her hand. Here it is. Look for yourself. (She hands you the scrip)}
 {180}{}{Oh, I see. Can I see the girl?}
 {181}{}{Oh, I see. Do you know what happened?}
@@ -134,23 +134,23 @@
 {200}{}{I don't have enough money for that right now. Let me ask you about something, though.}
 {201}{}{You're one of Fannie's regulars, aren't you? Why don't you go talk to her. She's in back someplace.}
 {202}{}{Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much
- interest in being with you...and I cain't say as I blame 'em.}
+ interest in being with you... and I cain't say as I blame 'em.}
 {203}{}{Looking for someone to help you warm up that big lonely bed, huh? Let me see who I've got
  available. Hmm, why don't you try Fannie Mae? She oughta be around here somewheres. You can make the
  arrangements with her yourself.}
 {204}{}{Sounds like a good idea. I'll go do that. Goodbye.}
-{205}{}{But I didn't…okay. Goodbye.}
+{205}{}{But I didn't... okay. Goodbye.}
 {206}{}{You and Fannie already worked things out. Why don't you go see her. She's right in back
  someplace.}
 {207}{}{Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much
- interest in being with you...and I cain't say as I blame 'em.}
+ interest in being with you... and I cain't say as I blame 'em.}
 {208}{}{We've only got gals working here, hun. If that's alright by you, a buck's a buck. You might try
  talking to Fannie Mae. She's in back someplace here. You can make the arrangements with her.}
 {209}{}{Sounds like a good idea. I'll go do that. Goodbye.}
-{210}{}{But I didn't…okay. Goodbye.}
+{210}{}{But I didn't... okay. Goodbye.}
 {211}{}{I can't believe that you were dumb enough to give Fannie enough money all at once to overdose
  herself. You're just an idjit, ain't ya?}
-{212}{}{I didn't know. Honest. Come on, Lou…I need to ask you about something.}
+{212}{}{I didn't know. Honest. Come on, Lou... I need to ask you about something.}
 {213}{}{What she did with her life was her own business. Goodbye.}
 {214}{}{I gave her the only release from this shitty existence that she could take. You're no saint
  yourself, Lou. Goodbye.}
@@ -174,10 +174,10 @@
 {226}{}{I've heard it all before. Let's get down to other business.}
 {227}{}{Thanks, I'll think about what you've told me. Let me ask you about something else, though.}
 {228}{}{I'll have to think this over. Goodbye.}
-{229}{}{Hmmm...I may have a solution to that. [Give Lou the Jet antidote]}
+{229}{}{Hmmm... I may have a solution to that. [Give Lou the Jet antidote]}
 {230}{}{What the hell's this stuff?}
 {231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
-{232}{}{Well...alright. Now, is there anything else you wanted?}
+{232}{}{Well... alright. Now, is there anything else you wanted?}
 {233}{}{I'm interested in getting something here.}
 {234}{}{What's going on in this town?}
 

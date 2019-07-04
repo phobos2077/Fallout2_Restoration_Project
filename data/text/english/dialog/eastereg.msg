@@ -88,7 +88,7 @@
 #Jotisz
 {510}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy Sulik is wearing.
  Those were created by Yosan12 and me. I know! And with these stubby hands!}
-{511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy...hey where
+{511}{}{I'm Jotisz the Hutt. I may look like a big fat green slug, but I actually helped create those nice new armored threads your buddy... hey where
  is Sulik? You should go get him and see how he looks. His threads were created by Yosan12 and me. I know! And with these stubby hands!}
 {512}{}{*whistles* I'm a big fat green slug...}
 {513}{}{In case you didn't notice, I'm suspiciously easy to strangle.}
@@ -211,7 +211,7 @@
 
 {1111}{}{Rescue me?}
 {1112}{}{Do I look like a princess? What do you mean 'rescue'?}
-{1113}{}{Right. I think you're the one that needs rescuing, pal...from your own movie career. Bye.}
+{1113}{}{Right. I think you're the one that needs rescuing, pal... from your own movie career. Bye.}
 
 {1120}{}{Yes, I'm here to rescue you. I created the basis to what you see at the Abbey, and there you will find salvation. There you will find the light!}
 {1121}{}{I've actually already been there. I 'rescued' a lot stuff from getting lost in all those drawers and containers.}

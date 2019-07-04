@@ -4,7 +4,7 @@
  trusting gleam in his eye.}
 
 {103}{}{What?!}
-{104}{}{Duhhh… gabba gabba hey?}
+{104}{}{Duhhh... gabba gabba hey?}
 {105}{}{I knyou bars?}
 {106}{}{Who are you?}
 {107}{}{Why are you in jail?}
@@ -20,10 +20,10 @@
 {114}{}{Yeah! Fight the power!}
 {115}{}{Loser in society, more like.}
 {116}{}{Manson?}
-{117}{}{I … see. Bye!}
+{117}{}{I ... see. Bye!}
 
 {118}{}{I'm here cuz me and Franc were working against what society wants us to believe.}
-{119}{}{And that is…}
+{119}{}{And that is...}
 {120}{}{Yeah! Fight the power!}
 
 {121}{}{Broken Hills? Lived here all my life. That's how I know all the bad stuff that goes on here.
@@ -41,7 +41,7 @@
 {128}{}{That's gotta be the dumbest thing I ever heard.}
 {129}{}{All right. Bye.}
 
-{130}{}{That's right! We gotta… umm… think for ourselves! That's what Franc and Jacob always say!}
+{130}{}{That's right! We gotta... umm... think for ourselves! That's what Franc and Jacob always say!}
 {131}{}{Wow, you really suck up to those two. Why not try thinking for yourself instead of parroting
  what other people tell you?}
 {132}{}{You really like Franc, huh?}
@@ -52,7 +52,7 @@
 {135}{}{Back in the olden days, there was a guy who told us all we hadda think fer ourselves. My mom
  and dad said he was related to me. He died in prison, but he was really influential to me. People said
  he was really smart. I think they were right. I mean, look at me!}
-{136}{}{Umm… yeah. Look at you.}
+{136}{}{Umm... yeah. Look at you.}
 {137}{}{You? Smart? Ha!}
 {138}{}{Sure. Bye.}
 
@@ -93,7 +93,7 @@
 
 {166}{}{Well, people think he was a band guy or something. But the Manson I'm named after started a
  religion and got killed because of it. He was a martyr. Maybe I'll be one, too.}
-{167}{}{Sounds… fascinating. Anyway…}
+{167}{}{Sounds... fascinating. Anyway...}
 
 {168}{}{You'll have to talk to Jacob about that. I'm sure that with your jailbreak, he'll want you.}
 {169}{}{Cool. See ya.}
@@ -102,9 +102,9 @@
 
 {171}{}{You jerk! We trusted you to help us!}
 
-{172}{}{Wow… you can kill like nobody's business. And now we're free of the mutants. That's soooo cool!}
+{172}{}{Wow... you can kill like nobody's business. And now we're free of the mutants. That's soooo cool!}
 
-{173}{}{We're gettin' outta town. You probably oughta too… the muties will be looking for scapegoats.}
+{173}{}{We're gettin' outta town. You probably oughta too... the muties will be looking for scapegoats.}
 
 {174}{}{We'll follow you.}
 

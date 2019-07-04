@@ -17,11 +17,11 @@
 {116}{}{Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.}
 {117}{}{Come back to learn of the Great Ananias' mysteries of the Netherworld have you?}
 {118}{}{What kind of mysteries?}
-{119}{}{Uh, nice to meet you Mr. Great Anus...something.}
+{119}{}{Uh, nice to meet you Mr. Great Anus... something.}
 {120}{}{Hmm, mysteries make me sleep uneasily, I better go. Goodbye.}
 {121}{}{Step right up!}
 
-{127}{}{Today, in the room within, I have, for your eyes exclusively...A Jan-u-wine Egyptian Mummy!}
+{127}{}{Today, in the room within, I have, for your eyes exclusively... A Jan-u-wine Egyptian Mummy!}
 {128}{}{A mummy?}
 {129}{}{A mummy? Hmm, I wonder if it could be.... No, nobody could be that stupid.}
 {130}{}{I don't have any interest in that sort of thing. Corpses scare me.}
@@ -31,7 +31,7 @@
 {134}{}{This isn't really for you.}
 {135}{}{I see, hmmm, how about GO (he points) AWAY!}
 {136}{}{For a person of your obvious class I would be happy to show this unique, and historic, specimen to you for a mere $25.}
-{137}{}{OK, I'll cough up the dough. Now...Show Me The Mummy!}
+{137}{}{OK, I'll cough up the dough. Now... Show Me The Mummy!}
 {138}{}{I don't want to spend that much. I think I'll survive without seeing the thing. Goodbye.}
 {139}{}{Simply open the sarcophagus lid and the marvelous Mummy will be revealed, in all its ancient glory, to you. But please, no touching, and, uh, no flash photography.}
 {140}{}{Great.}
@@ -40,7 +40,7 @@
 {143}{}{Hey, wait a minute. That's not a Mummy. That's a ghoul. WOODY! Hey WOODY! Is that you?}
 {144}{}{That sure looks like a ghoul to me.}
 {145}{}{That's a mummy? I can't believe I just paid $25 to see a six-foot hunk of jerky. Goodbye.}
-{146}{}{Wow, that's fantastic...I guess. (you look at the Mummy very intently for a while). Uh, thanks, Goodbye.}
+{146}{}{Wow, that's fantastic... I guess. (you look at the Mummy very intently for a while). Uh, thanks, Goodbye.}
 {147}{}{(the Mummy, snorts, stretches languidly, and then looks at you with a sleepy blink to its eyes) Hello. (he says, sleepily)}
 {148}{}{Holy shit! That *is* Woody! Run Woody, run for it! Well, uh, gimp for it then! Go Woody go!}
 {149}{}{I assure you that the Mummy is, in fact, quite jan-u-wine.}
@@ -57,7 +57,7 @@ mache sarcophagus, lets out a shriek and runs for the door, leaving a trail of t
 {157}{}{You woke up Woody the ghoul and freed him from indentured mummy-tude.}
 {158}{}{I think I'd rather hear the ghost story.}
 
-{200}{}{I know things that mere mortal man is not meant to know. Aiiieeee! Nyarloth...Oh, sorry (heh, heh). Got a little carried away
+{200}{}{I know things that mere mortal man is not meant to know. Aiiieeee! Nyarloth... Oh, sorry (heh, heh). Got a little carried away
  there for a moment. I have tales of a Ghost that haunts these very grounds, as well as a Jan-u-wine Egypt-ee-an Mummy that you
  can see, right here in this marvelous sarcophagus.}
 {201}{}{Tell me about the mummy. I'm just dying to hear more about that.}

@@ -162,8 +162,8 @@
 {803}{}{I doubt it. Good luck.}
 
 # 23. In Mom's, never joined party. (From WTG)
-{810}{}{Why'd you kill poor Mom… I guess you had your reasons… I'm sorry, Boss. It's not my place to question you. This is a pretty bad town. I'm sure she did something pretty bad.}
-{811}{}{Hey, Boss. Thanks for getting me out of that mess with Metzger. You need anything? Mom's been kind enough to feed me while you've been gone. I help her around the place….}
+{810}{}{Why'd you kill poor Mom... I guess you had your reasons... I'm sorry, Boss. It's not my place to question you. This is a pretty bad town. I'm sure she did something pretty bad.}
+{811}{}{Hey, Boss. Thanks for getting me out of that mess with Metzger. You need anything? Mom's been kind enough to feed me while you've been gone. I help her around the place...}
 {812}{}{Bye.}
 {813}{}{Oooh.}
 {814}{}{Beiye}
@@ -172,11 +172,11 @@
 {823}{}{Where is your friend Ed, again?}
 
 # Additions to Node 10
-{830}{}{I would if I could, but you're just not looking good. I'd only be a burden. Now that Mom's gone, I think I'll just head out. Don't know where… maybe we'll see each other again. Thank you for everything you've done for me.}
-{831}{}{I would if I could, but you're just not looking good. Looks like you can barely take care of yourself. I'd only be a burden. I'll just wait here, Mom's cooking reminds me of my ex-wife….}
-{832}{}{I would, honest. I'd do almost anything for you. It's just that you don't look like you're in any shape to lead anyone. I'd only be a burden. I'll just head over to Mom's, in a bit… until you can work things out. I haven't had her home cooking for a long time.}
-{833}{}{Sorry, Boss. Looks like you're pretty crowded. Now that Mom's gone, I think I'll just head out. Don't know where… maybe we'll see each other again. Thank you for everything you've done for me.}
-{834}{}{You're looking a bit crowded, Boss. I'll just wait here for you until you've worked things out. Mom's cooking reminds me of my ex-wife… not sure if that's a good thing or bad thing….}
+{830}{}{I would if I could, but you're just not looking good. I'd only be a burden. Now that Mom's gone, I think I'll just head out. Don't know where... maybe we'll see each other again. Thank you for everything you've done for me.}
+{831}{}{I would if I could, but you're just not looking good. Looks like you can barely take care of yourself. I'd only be a burden. I'll just wait here, Mom's cooking reminds me of my ex-wife...}
+{832}{}{I would, honest. I'd do almost anything for you. It's just that you don't look like you're in any shape to lead anyone. I'd only be a burden. I'll just head over to Mom's, in a bit... until you can work things out. I haven't had her home cooking for a long time.}
+{833}{}{Sorry, Boss. Looks like you're pretty crowded. Now that Mom's gone, I think I'll just head out. Don't know where... maybe we'll see each other again. Thank you for everything you've done for me.}
+{834}{}{You're looking a bit crowded, Boss. I'll just wait here for you until you've worked things out. Mom's cooking reminds me of my ex-wife... not sure if that's a good thing or bad thing...}
 {835}{}{I would love to, Boss. It's just that you don't look like you have any more room. I'll just head over to Mom's. I haven't been there in a while. Just come get me if you find some room for me.}
 
 # Additions to Node 11
@@ -253,7 +253,7 @@
 {2206}{}{You're the best, Boss!}
 {2207}{}{You won't be disappointed. No more mistakes!}
 {2208}{}{I'll be careful this time, don't you worry!}
-{2209}{}{I knew you would forgive me for that… um. So, uh, Boss. What's the plan?}
+{2209}{}{I knew you would forgive me for that... um. So, uh, Boss. What's the plan?}
 {2210}{}{I won't let you down, Boss!}
 {2211}{}{You're super, Boss!}
 {2212}{}{I knew I wasn't too old for this. Those were just bad odds! Right, Boss?}
@@ -312,18 +312,18 @@
 {2812}{}{Me go.}
 
 # 1017 Remove armor: Yes
-{3100}{}{What? Uh… okay, Boss. If you say so.}
+{3100}{}{What? Uh... okay, Boss. If you say so.}
 {3101}{}{Can I put something else on, Boss? I'm a little worried.}
-{3102}{}{Okay… you're not going to leave me here… Are you, Boss?}
-{3103}{}{But… I mean… Of course, Boss. Coming right off.}
+{3102}{}{Okay... you're not going to leave me here... Are you, Boss?}
+{3103}{}{But... I mean... Of course, Boss. Coming right off.}
 
 # 1018 Best Weapon
-{3200}{}{Well, Boss…. I'm pretty good with small arms. I can handle almost any rifle, shotgun, and most small-medium pistols. I 'can' use knives. I've also got a pretty good throwing arm, but my aim's not the best in the world… actually, it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
+{3200}{}{Well, Boss... I'm pretty good with small arms. I can handle almost any rifle, shotgun, and most small-medium pistols. I 'can' use knives. I've also got a pretty good throwing arm, but my aim's not the best in the world... actually, it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
 {3201}{}{Like I said, Boss, I prefer small arms. I can handle almost any rifle, shotgun, and most of those small-medium pistols. If we're really in a pinch I can try using a knife or even thrown weapons.}
 
 # 1019 Other weapons he can use.
-{3300}{}{I 'can' use knives and I've got a pretty good throwing arm, but… my aim's not the best in the world. Actually it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
-{3301}{}{Like I said, Boss. Knives and I've got pretty good throwing arm… I just miss a lot.}
+{3300}{}{I 'can' use knives and I've got a pretty good throwing arm, but... my aim's not the best in the world. Actually it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
+{3301}{}{Like I said, Boss. Knives and I've got pretty good throwing arm... I just miss a lot.}
 
 # 1020 Hostile
 {3400}{}{I've had it up to here!}
@@ -353,7 +353,7 @@
 {4104}{}{Ouch.}
 {4105}{}{Dang it.}
 {4106}{}{Medic?}
-{4107}{}{I'm hanging in there… barely.}
+{4107}{}{I'm hanging in there... barely.}
 
 # 1103 Removed
 
@@ -374,7 +374,7 @@
 {4213}{}{I could open a repair shop around here.}
 
 # 1105 BGF: for specific area on a map
-{4300}{}{Ah, a sight for sore eyes. This is… was my place, but I guess you knew that. Right, Boss?}
+{4300}{}{Ah, a sight for sore eyes. This is... was my place, but I guess you knew that. Right, Boss?}
 
 # 1106 Removed
 
@@ -386,21 +386,21 @@
 # 1108. BGF: Level Up, Not to be Placed in MSG file
 
 # 1109. BGF: Waiting
-{4500}{}{La de da…}
+{4500}{}{La de da...}
 {4501}{}{Ho hum.}
-{4502}{}{Waiting for the Boss…}
+{4502}{}{Waiting for the Boss...}
 {4503}{}{I'm waiting for the Boss.}
 {4504}{}{Just waiting.}
-{4505}{}{The Boss sure wouldn't leave me behind…}
-{4506}{}{Knock Knock… who's there… wait. How'd that go…}
+{4505}{}{The Boss sure wouldn't leave me behind...}
+{4506}{}{Knock Knock... who's there... wait. How'd that go...}
 {4507}{}{Still waiting.}
 {4508}{}{What's that smell?}
 {4509}{}{Anything to repair around here?}
-{4510}{}{Here I am… waiting for the Boss.}
+{4510}{}{Here I am... waiting for the Boss.}
 {4511}{}{An old man like me, wasting away his talents, just standing here.}
-{4512}{}{I sure wish I had a stick of gum… it's been decades.}
-{4513}{}{I need to get out of the relic business… nothing but trouble.}
-{4514}{}{Why is waiting so tiring…}
+{4512}{}{I sure wish I had a stick of gum... it's been decades.}
+{4513}{}{I need to get out of the relic business... nothing but trouble.}
+{4514}{}{Why is waiting so tiring...}
 
 # 1110. PC used Healing on PC
 {4600}{}{Uh, thanks, Boss.}

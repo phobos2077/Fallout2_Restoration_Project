@@ -37,7 +37,7 @@
 {151}{}{I like them!}
 
 {152}{}{In that case, I'll give you the real history.}
-{153}{}{A human named Jacob – I was named after him – founded this place. Then mutant Marcus came along
+{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
  and forced everyone under his rule. }
 
 {154}{}{That's enough. You're crazy. Goodbye.}
@@ -47,8 +47,8 @@
 {157}{}{Okay. Tell me.}
 {158}{}{No, I'm not really interested.}
 
-{159}{}{In that case, it's just great being here. This town has everything you could want… mutant
- sheriff, uranium mine, hospital, store… you can get just about anything here. You want anything else?}
+{159}{}{In that case, it's just great being here. This town has everything you could want... mutant
+ sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
 {160}{}{Yes.}
 {161}{}{No.}
 
@@ -56,13 +56,13 @@
 {163}{}{Bye.}
 
 {164}{}{He's been ruling here ever since the Master was destroyed. He puts down anyone who disagrees
- with him… or they just "disappear." The place looks civilized on the top of things, but the truth is
+ with him... or they just "disappear." The place looks civilized on the top of things, but the truth is
  that it's a killing ground for bloodthirsty mutants. There's a friend of a friend who had friends who
  disappeared after speaking up.}
 {165}{}{Go on.}
 {166}{}{That's enough. You're crazy. Goodbye.}
 
-{167}{}{We all pretend that this is a civilized town, that we're all on the up and up… but we all live
+{167}{}{We all pretend that this is a civilized town, that we're all on the up and up... but we all live
  in fear of the mutant rage. Each day, there are fewer and fewer humans.}
 {168}{}{All the mutants I've seen look old and decrepit.}
 {169}{}{Why not fight back?}

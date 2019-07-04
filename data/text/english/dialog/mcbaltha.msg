@@ -65,7 +65,7 @@
  the subject to business, OK?}
 {203}{}{I have some questions for you.}
 {204}{}{I don't have any business with you for now. Bye.}
-{205}{}{Well… I'm worried about my missing son, Jonny. We've searched everywhere, but still can't find
+{205}{}{Well... I'm worried about my missing son, Jonny. We've searched everywhere, but still can't find
  him. I fear that maybe wild animals got him.}
 {206}{}{Maybe I can help. I do a lot of traveling; I'll keep a lookout for your boy.}
 {208}{}{I would really appreciate that. Every little bit helps. In the mean time, did you have some
@@ -82,9 +82,9 @@
 {218}{}{Please keep looking. I know he's still alive, I can feel it!}
 {219}{}{That's Jonny's BB gun all right. Noooooooooooooooooooo! [Balthas breaks down and starts to cry
  uncontrollably.]}
-{2199}{}{That's Jonny's BB gun all right...I don't believe he is dead. Please keep looking for my boy. I
+{2199}{}{That's Jonny's BB gun all right... I don't believe he is dead. Please keep looking for my boy. I
  am sure he is still out there.}
-{220}{}{I knew Jonny wasn't dead! You say I have to wait… I don't understand! Is he hurt? My instincts
+{220}{}{I knew Jonny wasn't dead! You say I have to wait... I don't understand! Is he hurt? My instincts
  tell me to go to my son, but I sense you have my son's best interest at heart. Please hurry, and bring
  my son back to me.}
 {221}{}{Oh no! Not the ghosts! I knew we should've burned that place to the ground. I won't let them

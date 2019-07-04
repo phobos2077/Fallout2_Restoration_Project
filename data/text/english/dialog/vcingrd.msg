@@ -1,23 +1,23 @@
 {100}{}{I'm watching you, Outworlder.}
 {101}{}{I think it's about time for you to leave.}
-{102}{}{I don稚 like the looks of you.}
-{103}{}{Keep your nose clean, or I値l take that Pass away.}
-{104}{}{It痴 past 6 PM. Time for you to return to the courtyard.}
-{105}{}{Okay. I値l leave right now.}
-{106}{}{Okay. I値l be going in a minute.}
-{107}{}{I got things to do. I値l go when I知 ready to go.}
+{102}{}{I don't like the looks of you.}
+{103}{}{Keep your nose clean, or I'll take that Pass away.}
+{104}{}{It's past 6 PM. Time for you to return to the courtyard.}
+{105}{}{Okay. I'll leave right now.}
+{106}{}{Okay. I'll be going in a minute.}
+{107}{}{I got things to do. I'll go when I'm ready to go.}
 {108}{}{Umag Nak!?! Umag NAK!}
-{109}{}{Well, I値l just make sure you get to the courtyard safe and sound. C'mon, let's
+{109}{}{Well, I'll just make sure you get to the courtyard safe and sound. C'mon, let's
  go.}
-{110}{}{Okay. Let痴 go.}
+{110}{}{Okay. Let's go.}
 {111}{}{Brog Frup}
 {112}{}{I can find my own way.}
-{113}{}{Sorry, got my orders. I値l need to escort you to the other side of the gate.}
-{114}{}{Okay... but I知 not happy about it. I may file a formal compla --}
-{115}{}{Sorry, I've got *my* orders. I知 staying.}
+{113}{}{Sorry, got my orders. I'll need to escort you to the other side of the gate.}
+{114}{}{Okay... but I'm not happy about it. I may file a formal compla --}
+{115}{}{Sorry, I've got *my* orders. I'm staying.}
 {116}{}{(Leans in.) Look, it's been a *long* day, friend. Come with me, don't cause any trouble,
  and this day won't get any worse for either one of us. Understand?}
-{117}{}{Okay, fine. I値l go.}
+{117}{}{Okay, fine. I'll go.}
 {118}{}{Over my dead body!}
 {119}{}{Vault City prevails, Citizen.}
 {120}{}{Nice to see you, Citizen.}

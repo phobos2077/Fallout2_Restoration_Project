@@ -30,7 +30,7 @@
 # 6. FLOAT/CLICK DIALOGUE: MADE MAN, FA=NOT BISHOP
 {225}{}{You just walked into the wrong place, dipshit.}
 {226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
-{227}{}{This guy's asking for trouble…}
+{227}{}{This guy's asking for trouble...}
 {228}{}{I hear the }
 {229}{}{You better leave, }
 {230}{}{Well, if it isn't }
@@ -38,7 +38,7 @@
 {232}{}{You just walked into the wrong place, bitch.}
 {233}{}{Well, look at the swagger on this bitch...}
 {234}{}{Get, girl. Before we gun you down.}
-{235}{}{This bitch's asking for trouble…}
+{235}{}{This bitch's asking for trouble...}
 {236}{}{I hear the }
 
 # 8. FLOAT DIALOGUE: MALE, PRIZEFIGHTER [ARMED]
@@ -143,14 +143,14 @@
 {365}{}{Get you anything, boss?}
 {366}{}{Any word on the other families?}
 {367}{}{Um, got any Jet?}
-{368}{}{I sure could use a drink…}
+{368}{}{I sure could use a drink...}
 {369}{}{Mrs. Bishop was checking me out again. It makes me uncomfortable.}
 {370}{}{Mrs. Bishop keeps looking at me like a slab of beef. I wish she'd realize that I just
  want to be held.}
 {371}{}{That Bishop girl is one nice piece of ass.}
 {372}{}{That Bishop girl is trouble.}
 {373}{}{I heard one of the boys got the Bishop daughter drunk, and Mr. Bishop skinned him.}
-{374}{}{If you talk to Bishop, stay away from the wife and daughter… nothing but trouble.}
+{374}{}{If you talk to Bishop, stay away from the wife and daughter... nothing but trouble.}
 
 # 25. CLICK DIALOGUE: PRIZEFIGHTER
 {380}{}{Heard Mrs. Bishop was looking for you. Watch out, pal.}
@@ -197,7 +197,7 @@
 {423}{}{You looking for the stables? That's where they keep most of the slaves.}
 {424}{}{Being in the Bishop Family's a good gig.}
 {425}{}{You bring a new crop of slaves in, or are you caravanning some out?}
-{426}{}{You guys need to find some new stock… that last batch of slaves was piss-poor.}
+{426}{}{You guys need to find some new stock... that last batch of slaves was piss-poor.}
 {427}{}{You guys catch any more tribal slaves?}
 {428}{}{What's the going rate for slaves nowadays?}
 {429}{}{Slaves, brahmin, same thing.}
@@ -245,7 +245,7 @@
 {1200}{}{! Way to kick the Enclave's ass!}
 {1210}{}{.}
 {1215}{}{?}
-{1216}{}{… why the secrecy?}
+{1216}{}{... why the secrecy?}
 {1220}{}{, what's shaking?}
 {1221}{}{, what you been up to?}
 {1222}{}{! You been staying outta trouble?}

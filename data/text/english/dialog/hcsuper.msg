@@ -44,7 +44,7 @@
 {132}{}{All right. Give us a day and we'll have it ready for you.}
 {133}{}{Great. Bye.}
 
-{134}{}{Good luck getting it refined any place else. The process is dangerous -– only a professional
+{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
  should do it. You want it or not?}
 {135}{}{Yes.}
 {136}{}{No.}

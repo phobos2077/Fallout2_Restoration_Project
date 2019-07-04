@@ -49,7 +49,7 @@
 {147}{}{Since most Outsiders can't read, do trigonometry, or spell "Australopithecus," you figure it out. It's just an excuse to keep Outsiders from becoming Citizens.}
 {148}{}{What else could I do to beat customs other than becoming a Citizen?}
 {149}{}{Never mind. Maybe we'll talk some other time.}
-{150}{}{Hide the goods on your slaves...your "Servants." You see, Vault City mentality is this:
+{150}{}{Hide the goods on your slaves... your "Servants." You see, Vault City mentality is this:
 They don't seem to catch on that anyone would let Servants carry anything important... or questionable. Go figure.}
 {151}{}{Any other options?}
 {152}{}{All right, then. Thanks.}
@@ -128,7 +128,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {217}{}{1 Second, don't remove Barkus' float yet.}
 {218}{}{Valt! Gechkk!}
 {219}{}{2 Seconds}
-{220}{}{Well...hmmm. I suppose you'll be expecting a finder's fee?}
+{220}{}{Well... hmmm. I suppose you'll be expecting a finder's fee?}
 {221}{}{2 Seconds}
 {222}{}{Do Outsiders eat their own feces? Of COURSE I want a finder's fee.}
 {223}{}{1 Second, Don't remove Skeev's float}

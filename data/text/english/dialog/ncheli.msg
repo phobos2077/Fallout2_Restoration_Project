@@ -9,7 +9,7 @@
 {175}{}{You see a Vertibird.}
 
 # 1. QUICK LOOK, VERTIBIRD (WTG)
-{199}{}{You see a Vertibird...an advanced form of helicopter. Unfortunately, you have no idea how
+{199}{}{You see a Vertibird... an advanced form of helicopter. Unfortunately, you have no idea how
  to operate it. }
 
 # 2. NORMAL ACTION SEQUENCE (WTG)
@@ -24,11 +24,11 @@
 {000}{}{*Zztttt* The laser weapons are in our cargo bay. *Zzzttt**}
 {000}{}{*Zztttt* To insure your cooperation, we will transmit the arming sequence for them once the
  chemicals are loaded. *Zzzttt**}
-{000}{}{Uh...well...all right then. Load her up, boys --}
+{000}{}{Uh... well... all right then. Load her up, boys --}
 {000}{}{*Zztttt* No. *Zzzttt**}
 {000}{}{*Zztttt* We will load the cargo. *Zzzttt**}
-{000}{}{Uh, right...right. Of course. Give them room, boys.}
-{000}{}{All right; we're good here. The rest of you guards...you, too, newbie...head back to Reno.
+{000}{}{Uh, right... right. Of course. Give them room, boys.}
+{000}{}{All right; we're good here. The rest of you guards... you, too, newbie... head back to Reno.
  We'll meet up with you.}
 
 # 3. FLOAT SEQUENCE: INTRUDER (WTG)
@@ -41,7 +41,7 @@
 # 4. FLOAT SEQUENCE: OUT OF POSITION WARNING (WTG)
 {300}{}{Don't get near those armored fellas. They'll carve you up.}
 {000}{}{Get back in position.}
-{000}{}{Stop twitching...those armored guys don't like it much.}
+{000}{}{Stop twitching... those armored guys don't like it much.}
 
 # 5. FLOAT SEQUENCE: OUT OF POSITION, FINAL (WTG)
 {350}{}{Dammit! What are you doing, dipshit?!}

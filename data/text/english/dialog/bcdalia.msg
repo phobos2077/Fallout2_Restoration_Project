@@ -55,7 +55,7 @@
  help me out?}
 {152}{}{I don't give a radrat's ass... I'm sorry. I'm just a gun who was hired to stand here and guard
  this trail. Other than that, I don't know what's going on around here. I had a daughter once, though,
- and...yeah, some guy went by here. I let him through because he knew the proper sign...just like the
+ and... yeah, some guy went by here. I let him through because he knew the proper sign... just like the
  sign you gave me. Go on. I'm outta here. }
 {153}{}{Thanks. Me no forget this, Dalia.}
 {154}{}{Thanks. I won't forget this, Dalia.}

@@ -8,7 +8,7 @@
 {151}{}{We don't need troublemakers here.}
 {152}{}{Tribals always mean trouble.}
 {153}{}{Jist as long as you don't get too much firewater in you...}
-{154}{}{(mumble, mumble)…sorry ass outa town...}
+{154}{}{(mumble, mumble)...sorry ass outa town...}
 {155}{}{Another one of Dunton's gang.}
 {156}{}{What are you looking at?}
 {157}{}{Just keep moving.}

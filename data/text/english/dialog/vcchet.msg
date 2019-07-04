@@ -15,7 +15,7 @@
 {114}{}{To what?}
 {115}{}{Make me a slaver.}
 {116}{}{Make me a childkiller.}
-{117}{}{Nothing...just lower my karma by a 100.}
+{117}{}{Nothing... just lower my karma by a 100.}
 {118}{}{Nevermind. I wanted something else...}
 {119}{}{Nope, nothing.}
 {120}{}{Who?}

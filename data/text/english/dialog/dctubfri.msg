@@ -15,7 +15,7 @@
 {201}{}{What'd ya kill Tubby for?}
 {202}{}{Oh man, that sucks.}
 {203}{}{Now what're we supposed to do?}
-{204}{}{Oh, man…}
+{204}{}{Oh, man...}
 {205}{}{Hey, that's not fair.}
 {206}{}{Don't hurt us, we won't tell.}
 
@@ -34,9 +34,9 @@
 {228}{}{Oh, man I can't feel my legs.}
 {229}{}{Tubby's our buddy.}
 {230}{}{Tubby keeps us happy.}
-{231}{}{Oh boy, oh boy oh boy… Damn my eyes.}
+{231}{}{Oh boy, oh boy oh boy... Damn my eyes.}
 # SLAVER
-{232}{}{Hey, man, you a slaver? Wow…}
+{232}{}{Hey, man, you a slaver? Wow...}
 {233}{}{Did that tattoo hurt?}
 {234}{}{You slavers sure are tough.}
 {235}{}{Isn't it dangerous being a slaver?}
@@ -55,12 +55,12 @@
 {255}{}{Wow, man. She killed Tubby.}
 
 # 4. BGF: Standard
-{260}{}{Ooooohhyaaa… Good stuff.}
+{260}{}{Ooooohhyaaa... Good stuff.}
 {261}{}{What's that?}
 {262}{}{Oh, yeah, I'm flying now.}
 {263}{}{Oh so warm.}
 {264}{}{She's so pretty.}
-{265}{}{Oh, blackout… Shit, I can't see.}
+{265}{}{Oh, blackout... Shit, I can't see.}
 
 # 5. Conversation
 # CONVERSATION 1
@@ -98,7 +98,7 @@
 {309}{}{Because they're green.}
 {310}{}{Potatoes aren't green.}
 {311}{}{Ohhh, the pretty lights.}
-{312}{}{Oh, my head hurts…}
+{312}{}{Oh, my head hurts...}
 
 # 6. CF: Hostile
 {320}{}{Don't talk to me, man. My head hurts.}

@@ -32,7 +32,7 @@
  Right now, they're in the clutches of those Enclave bastards and they're counting on me to save them. But in order to
  do that, I'm going to need to use that motorboat. If you won't let me use it, I'll have to take it by force and one of
  us will end up dead. Please, don't let it come to that.}
-{232}{}{Actually, I'm an honorary member of the Shi. I was hired for the submarine maintenance team due to my expertise in...subology. Here's my password...}
+{232}{}{Actually, I'm an honorary member of the Shi. I was hired for the submarine maintenance team due to my expertise in... subology. Here's my password...}
 {233}{}{I don't think you realize who you're insulting. Time to die, asshole.}
 {234}{}{Alright, I'm going... Sheesh, some people...}
 

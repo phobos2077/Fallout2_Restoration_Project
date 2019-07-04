@@ -79,7 +79,7 @@
 {217}{}{How typical of surfacers. Never doing anything for anyone unless there is some kind of personal
  gain involved. Obviously, we cannot trust such a person as you. We will find someone else to deliver the
  message. Although we are not a violent people, do not attempt to leave the caves or you will regret it.}
-{218}{}{Hmm… I understand. Such a decision cannot be made lightly. Please keep me informed of their
+{218}{}{Hmm... I understand. Such a decision cannot be made lightly. Please keep me informed of their
  progress.}
 {219}{}{Then do not bother me any more.}
 {220}{}{About what?}

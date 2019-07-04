@@ -44,7 +44,7 @@
 {402}{}{Actually, yes. I looked inside and it seems the motor is completely busted. The connections are shot, so we're
  going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
 
-{500}{}{Hmm...the connectors are shot on the main motor, eh? Well, I got some wires here with me that will work, but not
+{500}{}{Hmm... the connectors are shot on the main motor, eh? Well, I got some wires here with me that will work, but not
  that specific motor. I am sure Vault City has the part though. Go there and speak with Harry in the main courtyard. Tell him
  Dave sent you. Damn motor is expensive, but he should give you a good deal.}
 {501}{}{I'll head there now. Be back soon.}

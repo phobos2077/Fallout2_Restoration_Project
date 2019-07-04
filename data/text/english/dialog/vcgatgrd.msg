@@ -46,7 +46,7 @@
 {145}{}{Now move along. I don't have time to talk to Outworlders.}
 {146}{}{What's a Day Pass?}
 {147}{}{Thanks for your time. Goodbye.}
-{148}{}{A Day Pass'll get you into our city...if you've got business here. }
+{148}{}{A Day Pass'll get you into our city... if you've got business here. }
 {149}{}{Now move along. I don't have time to talk to Outworlders.}
 {150}{}{Where can I find Wallace?}
 {151}{}{Thanks for your time. Goodbye.}
@@ -101,7 +101,7 @@
 {200}{}{Yeah, you have a DAY Pass. Does it look like day to you? Move along.}
 {201}{}{Okay, okay.}
 {202}{}{Sometimes Outworlders try to smuggle alcohol or addictive drugs into Vault City: Buffout, Jet, Psycho,
- Mentats...that sort of thing.}
+ Mentats... that sort of thing.}
 {203}{}{Oh, okay. Feel free to search me.}
 {204}{}{Forget it, then. I don't need to get into Vault City that badly.}
 {205}{}{Sorry, can't let you in with those items in your possession. Drugs and alcohol are not permitted in Vault
@@ -111,7 +111,7 @@
 {208}{}{Thanks.}
 {209}{}{Yup. Heer}
 {210}{}{Byeeee}
-{211}{}{Uh… (Studies you for a moment, then shrugs.) }
+{211}{}{Uh... (Studies you for a moment, then shrugs.) }
 {212}{}{O-kae.}
 {213}{}{Nup. Byeeeee}
 {214}{}{Awl ritye}

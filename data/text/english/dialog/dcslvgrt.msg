@@ -22,7 +22,7 @@
 {219}{}{Another question for you then.}
 {220}{}{Thanks, I will.}
 {221}{}{Medger}
-{222}{}{Uh… kay.}
+{222}{}{Uh... kay.}
 
 # 3. Hostile, Start Combat. (From Where to go)
 {230}{}{Now you die.}
@@ -116,7 +116,7 @@
 
 # 15. Food? (From 4)
 {370}{}{What? Oh, you must be looking for Mom's. You're one building off. She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
-{371}{}{Huh? Uh… Oh.}
+{371}{}{Huh? Uh... Oh.}
 
 # 16. Yes, join - Female (From 4)
 {380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}
@@ -126,7 +126,7 @@
 {384}{}{Another question.}
 {385}{}{Thanks, I will.}
 {386}{}{Medger}
-{387}{}{Uh… kay.}
+{387}{}{Uh... kay.}
 
 # 17. Vault 13? (From 4)
 {400}{}{Nope, but I'd check with the boss. He's probably been all over the fuckin' place.}
@@ -135,7 +135,7 @@
 
 # 18. Vic/Merchant? (From 4)
 {410}{}{Merchant? Oh, you must mean Vic, that guy that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
-{411}{}{Yeah, Vic… that Merchant guy, right? The one that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
+{411}{}{Yeah, Vic... that Merchant guy, right? The one that sells the old Vault stuff. He's fucked. Metzger pretty pissed with'm.}
 {412}{}{How many times you gonna ask me that? Metzger's got'm.}
 {413}{}{Who's Metzger?}
 {414}{}{Can I ask another question?}

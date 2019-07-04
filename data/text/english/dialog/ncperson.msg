@@ -27,11 +27,11 @@
 
 # 4. FLOAT (ANY) TO [POWER ARMOR] (WTG)
 {215}{}{Uh-oh. Get out of the way.}
-{216}{}{Just looking at him…her…it…WHATEVER it is gives me the shivers.}
+{216}{}{Just looking at him... her... it... WHATEVER it is gives me the shivers.}
 {217}{}{Think that thing's looking to cap anyone?}
 {218}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
 {219}{}{Stay outta that thing's path.}
-{220}{}{Talk about dangerous-looking…}
+{220}{}{Talk about dangerous-looking...}
 {221}{}{*Gulp*}
 {222}{}{I think that Mr. Roboto dude was scanning me.}
 {223}{}{I think that walking tank just gave me the stare of death. I'm outta here.}
@@ -103,7 +103,7 @@
 {305}{}{Think he's looking to cap anyone?}
 {306}{}{Uh-oh. Get out of the way.}
 {307}{}{It's hell's fury given flesh.}
-{308}{}{Talk about dangerous-looking…}
+{308}{}{Talk about dangerous-looking...}
 {309}{}{*Gulp*}
 {310}{}{La Femme Nikita, then some.}
 {311}{}{Just looking at her gives me the shivers.}
@@ -115,15 +115,15 @@
 
 # 9. FLOAT (ANY) TO [SLAVER] (WTG)
 {320}{}{What's with all the slavers around here recently?}
-{321}{}{I ain't seen that slaver around here before…}
-{322}{}{I wonder if the slaver's headed to the Stables…}
-{323}{}{Wonder if that slaver's got any stock…}
+{321}{}{I ain't seen that slaver around here before...}
+{322}{}{I wonder if the slaver's headed to the Stables...}
+{323}{}{Wonder if that slaver's got any stock...}
 {324}{}{You headed to the stables, slaver?}
-{325}{}{ANOTHER slaver. Mordino must have discovered a gold mine somewhere…}
+{325}{}{ANOTHER slaver. Mordino must have discovered a gold mine somewhere...}
 {326}{}{Slaver's bound for Golgotha.}
-{327}{}{That stink from Golgotha was damn awful last night…}
+{327}{}{That stink from Golgotha was damn awful last night...}
 {328}{}{Friggin' slavers...}
-{329}{}{Of all the rotten luck…}
+{329}{}{Of all the rotten luck...}
 {330}{}{Heard they got a new crop o' slaves.}
 {331}{}{New crop of slaves in the whorehouse.}
 {332}{}{Conjunction, Junction.}
@@ -133,30 +133,30 @@
 {336}{}{Great, another low roller.}
 {337}{}{House was against me.}
 {338}{}{Fortune's against me.}
-{339}{}{Glad they put that guy on the rack…}
-{340}{}{Filthy stinkard…}
-{341}{}{Slavers walking round like they own the place…}
+{339}{}{Glad they put that guy on the rack...}
+{340}{}{Filthy stinkard...}
+{341}{}{Slavers walking round like they own the place...}
 {342}{}{The House ha'mercy on me.}
-{343}{}{Bad luck, ill wind, not good times, not good times…}
+{343}{}{Bad luck, ill wind, not good times, not good times...}
 {344}{}{Reno's a-heating up, time ta move on.}
 {345}{}{That Bishop daughter is out of control.}
-{346}{}{If the Temperance Union lectures me one more time…}
+{346}{}{If the Temperance Union lectures me one more time...}
 {347}{}{Saw Tully passed out in the gutter again.}
 {348}{}{Damn Den gutter trash.}
 {349}{}{I got to get out of this town.}
 {350}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{351}{}{TRIED to quit, but…}
-{352}{}{Slaver better watch it in this town…}
+{351}{}{TRIED to quit, but...}
+{352}{}{Slaver better watch it in this town...}
 {353}{}{I hate this goddamn town.}
 {354}{}{I've been in this town too long.}
-{355}{}{This town's great…except for the tourists.}
-{356}{}{This town's great…except for the slavers.}
-{357}{}{This town's great…except for the pimps and whores.}
+{355}{}{This town's great... except for the tourists.}
+{356}{}{This town's great... except for the slavers.}
+{357}{}{This town's great... except for the pimps and whores.}
 
 # 10. FLOAT AND CLICK (ANY) TO [COMPANION: ROBOBRAIN] (WTG)
 {365}{}{Is that some kind of slot machine that's following you around?}
 {366}{}{Is that a robo-slot machine?}
-{367}{}{Does your robot do tricks? Uh…magic tricks, I mean.}
+{367}{}{Does your robot do tricks? Uh... magic tricks, I mean.}
 
 # 11. FLOAT (ANY) TO [COMPANION: MARCUS] (WTG)
 {375}{}{Tell me that ain't a mutant.}
@@ -177,9 +177,9 @@
 {393}{}{How many tribals are gonna be coming to this town?}
 {394}{}{Another primate.}
 {395}{}{Boy's bound for Golgotha.}
-{396}{}{That stink from Golgotha was damn awful last night…}
+{396}{}{That stink from Golgotha was damn awful last night...}
 {397}{}{Friggin' tourists.}
-{398}{}{Of all the rotten luck…}
+{398}{}{Of all the rotten luck...}
 {399}{}{Heard they got a new crop o' slaves.}
 {400}{}{Conjunction, Junction.}
 {401}{}{I'm making bank.}
@@ -187,25 +187,25 @@
 {403}{}{Damned crossroaders in the casinos...}
 {404}{}{House was against me.}
 {405}{}{Fortune's against me.}
-{406}{}{Glad they put that guy on the rack…}
-{407}{}{Filthy stinkard…}
+{406}{}{Glad they put that guy on the rack...}
+{407}{}{Filthy stinkard...}
 {408}{}{The House ha'mercy on me.}
-{409}{}{Bad luck, ill wind, not good times, not good times…}
+{409}{}{Bad luck, ill wind, not good times, not good times...}
 {410}{}{Reno's a-heating up, time ta move on.}
 {411}{}{That Bishop daughter is out of control.}
-{412}{}{If the Temperance Union lectures me one more time…}
+{412}{}{If the Temperance Union lectures me one more time...}
 {413}{}{Saw Tully passed out in the gutter again.}
 {414}{}{Damn ferner.}
 {415}{}{That one's not from around here.}
 {416}{}{I got to get out of this town.}
 {417}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{418}{}{TRIED to quit, but…}
+{418}{}{TRIED to quit, but...}
 {419}{}{Why risk jumping a claim like that?}
 {420}{}{I hate this goddamn town.}
 {421}{}{I've been in this town too long.}
-{422}{}{This town's great…except for the tourists.}
-{423}{}{This town's great…except for the slavers.}
-{424}{}{This town's great…except for the pimps and whores.}
+{422}{}{This town's great... except for the tourists.}
+{423}{}{This town's great... except for the slavers.}
+{424}{}{This town's great... except for the pimps and whores.}
 {425}{}{You selling that woman o' yours?}
 {426}{}{How much for that woman you got with you?}
 {427}{}{That woman you got with you shore is pretty.}
@@ -217,15 +217,15 @@
 
 # 13. FLOAT [NO REP] (WTG)
 {450}{}{Mrs. Bishop's shore got a sweet ass.}
-{451}{}{If the Temperance Union lectures me one more time…}
+{451}{}{If the Temperance Union lectures me one more time...}
 {452}{}{Great. It's one of those tribal shit-kickers.}
 {453}{}{How many tribals are gonna be coming to this town?}
 {454}{}{Another primate.}
 {455}{}{Tribal's bound for Golgotha.}
-{456}{}{That stink from Golgotha was damn awful last night…}
-{457}{}{Can't find his ass in a sandstorm…}
+{456}{}{That stink from Golgotha was damn awful last night...}
+{457}{}{Can't find his ass in a sandstorm...}
 {458}{}{Friggin' tourists.}
-{459}{}{Of all the rotten luck…}
+{459}{}{Of all the rotten luck...}
 {460}{}{Heard they got a new crop o' slaves.}
 {461}{}{Conjunction, Junction.}
 {462}{}{I'm making bank.}
@@ -234,10 +234,10 @@
 {465}{}{Great, another low roller.}
 {466}{}{House was against me.}
 {467}{}{Fortune's against me.}
-{468}{}{Glad they put that guy on the rack…}
-{469}{}{Filthy stinkard…}
+{468}{}{Glad they put that guy on the rack...}
+{469}{}{Filthy stinkard...}
 {470}{}{The House ha'mercy on me.}
-{471}{}{Bad luck, ill wind, not good times, not good times…}
+{471}{}{Bad luck, ill wind, not good times, not good times...}
 {472}{}{Reno's a-heating up, time ta move on.}
 {473}{}{That Bishop daughter is out of control.}
 {474}{}{Saw Tully passed out in the gutter again.}
@@ -245,15 +245,15 @@
 {476}{}{That one's not from around here.}
 {477}{}{I got to get out of this town.}
 {478}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{479}{}{TRIED to quit, but…}
+{479}{}{TRIED to quit, but...}
 {480}{}{Why risk jumping a claim like that?}
 {481}{}{I hate this goddamn town.}
 {482}{}{I've been in this town too long.}
-{483}{}{This town's great…except for the tourists.}
-{484}{}{This town's great…except for the slavers.}
-{485}{}{This town's great…except for the pimps and whores.}
-{486}{}{Might head downtown, see if any new men are in town…}
-{487}{}{If the Temperance Union lectures me one more time…}
+{483}{}{This town's great... except for the tourists.}
+{484}{}{This town's great... except for the slavers.}
+{485}{}{This town's great... except for the pimps and whores.}
+{486}{}{Might head downtown, see if any new men are in town...}
+{487}{}{If the Temperance Union lectures me one more time...}
 
 # 14. CLICK (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
 {490}{}{Way to burn those Enclave bastards! Way to go!}
@@ -262,7 +262,7 @@
 {493}{}{Way to crush the Enclave, }
 {494}{}{The Enclave never messed with me, but I'm glad they're gone.}
 {495}{}{I can't believe the Enclave were still fighting the war after all this time. Idiots.}
-{496}{}{I felt a great disturbance…as if a hundred evil bastards on an oil derrick suddenly cried out in terror and were suddenly silenced. Strange.}
+{496}{}{I felt a great disturbance... as if a hundred evil bastards on an oil derrick suddenly cried out in terror and were suddenly silenced. Strange.}
 {497}{}{Congrats on stomping the Enclave, }
 {498}{}{This game was brought to you by the letter Z.}
 {499}{}{We miss Tim Cain. He used to cook wonderful bread. Then he would spank us like small children.}
@@ -276,12 +276,12 @@
 {511}{}{Sorry, was I in your way? I'll leave town.}
 {512}{}{Sorry, was I breathing your air? I'll stop.}
 {513}{}{::Knocks on armor:: Anybody in there?}
-{514}{}{'Danger, Will Robinson! Danger, Will Robinson!' Heh-heh. Uh…just a joke.}
+{514}{}{'Danger, Will Robinson! Danger, Will Robinson!' Heh-heh. Uh... just a joke.}
 {515}{}{Niiiiice armor. Does it have air conditioning?}
 {516}{}{Don't you get hot in there?}
 {517}{}{Lose your heart, tin man?}
-{518}{}{Uh, hello, sir…ma'am…whatever you are.}
-{519}{}{Anything wrong, sir…ma'am…uh, whatever you are?}
+{518}{}{Uh, hello, sir... ma'am... whatever you are.}
+{519}{}{Anything wrong, sir... ma'am... uh, whatever you are?}
 {520}{}{Are you some kind of new walking arcade game?}
 {521}{}{Are you one of those new console systems that are coming out?}
 {522}{}{No, I'm NOT going to oil your joints.}
@@ -294,7 +294,7 @@
 {541}{}{Can I buy your clothes? I mean, right now?}
 {542}{}{I KNEW I should have shaved today.}
 {543}{}{Come chat with me for a sec, honey.}
-{544}{}{C'mon, honey-lips…walk with me.}
+{544}{}{C'mon, honey-lips... walk with me.}
 {545}{}{Nimble little minx, aincha?}
 {546}{}{I'd bathe for you.}
 {547}{}{I got your mother lode right here.}
@@ -319,28 +319,28 @@
 {582}{}{Sorry, was I in your way? I'll leave town.}
 {583}{}{Sorry, was I breathing your air? I'll stop.}
 {584}{}{Give my regards to your boss.}
-{585}{}{Look, please…I don't want any trouble.}
+{585}{}{Look, please... I don't want any trouble.}
 {586}{}{Hello, ma'am. How are you?}
 {587}{}{Anything wrong, ma'am?}
 
 # 18. CLICK (ANY) TO [SLAVER] (WTG)
 {600}{}{What's with all the slavers around here recently?}
-{601}{}{I ain't seen you around here before…}
+{601}{}{I ain't seen you around here before...}
 {602}{}{If yer lookin' to sell slaves, try the Mordinos.}
 {603}{}{You headed to the stables? They keep most of the slaves there.}
 {604}{}{Show me your stock.}
 {605}{}{If you're looking to sell slaves, check with the Mordinos.}
 {606}{}{I hate this goddamn town.}
 {607}{}{I've been in this town too long.}
-{608}{}{This town's great…except for the tourists.}
-{609}{}{This town's great…except for the slavers.}
-{610}{}{This town's great…except for the pimps and whores.}
+{608}{}{This town's great... except for the tourists.}
+{609}{}{This town's great... except for the slavers.}
+{610}{}{This town's great... except for the pimps and whores.}
 {611}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Golgotha's south of Reno, in the desert.}
 {613}{}{I may be poor, but not in spirit.}
 {614}{}{I'm not poor, I just have rotten luck.}
-{615}{}{That stink from Golgotha was damn awful last night…}
-{616}{}{Dammit! See, I was up 53 chips, then…}
+{615}{}{That stink from Golgotha was damn awful last night...}
+{616}{}{Dammit! See, I was up 53 chips, then...}
 {617}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {618}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
 {619}{}{Conjunction, Junction.}
@@ -350,17 +350,17 @@
 {623}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {624}{}{House was against me.}
 {625}{}{Fortune's against me.}
-{626}{}{Glad they put that guy on the rack…}
-{627}{}{Filthy stinkard…}
+{626}{}{Glad they put that guy on the rack...}
+{627}{}{Filthy stinkard...}
 {628}{}{What do you want?}
-{629}{}{Bad luck, ill wind, not good times, not good times…}
+{629}{}{Bad luck, ill wind, not good times, not good times...}
 {630}{}{Reno's a-heating up, time ta move on.}
 {631}{}{That Bishop daughter is out of control.}
-{632}{}{If the Temperance Union lectures me one more time…}
+{632}{}{If the Temperance Union lectures me one more time...}
 {633}{}{Saw Tully passed out in the gutter again.}
 {634}{}{I got to get out of this town.}
 {635}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{636}{}{TRIED to quit, but…}
+{636}{}{TRIED to quit, but...}
 {637}{}{Stop bothering me.}
 {638}{}{Look, I ain't got the time to talk to you right now.}
 
@@ -374,15 +374,15 @@
 {656}{}{I don't even want to know how that friend o' yours got that bone in his nose.}
 {657}{}{I hate this goddamn town.}
 {658}{}{I've been in this town too long.}
-{659}{}{This town's great…except for the tourists.}
-{660}{}{This town's great…except for the slavers.}
-{661}{}{This town's great…except for the pimps and whores.}
+{659}{}{This town's great... except for the tourists.}
+{660}{}{This town's great... except for the slavers.}
+{661}{}{This town's great... except for the pimps and whores.}
 {662}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{Golgotha's south of Reno, in the desert.}
 {664}{}{I may be poor, but not in spirit.}
 {665}{}{I'm not poor, I just have rotten luck.}
-{666}{}{That stink from Golgotha was damn awful last night…}
-{667}{}{Dammit! See, I was up 53 chips, then…}
+{666}{}{That stink from Golgotha was damn awful last night...}
+{667}{}{Dammit! See, I was up 53 chips, then...}
 {668}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {669}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
 {670}{}{Conjunction, Junction.}
@@ -392,17 +392,17 @@
 {674}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {675}{}{House was against me.}
 {676}{}{Fortune's against me.}
-{677}{}{Glad they put that guy on the rack…}
-{678}{}{Filthy stinkard…}
+{677}{}{Glad they put that guy on the rack...}
+{678}{}{Filthy stinkard...}
 {679}{}{What do you want?}
-{680}{}{Bad luck, ill wind, not good times, not good times…}
+{680}{}{Bad luck, ill wind, not good times, not good times...}
 {681}{}{Reno's a-heating up, time ta move on.}
 {682}{}{That Bishop daughter is out of control.}
-{683}{}{If the Temperance Union lectures me one more time…}
+{683}{}{If the Temperance Union lectures me one more time...}
 {684}{}{Saw Tully passed out in the gutter again.}
 {685}{}{I got to get out of this town.}
 {686}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{687}{}{TRIED to quit, but…}
+{687}{}{TRIED to quit, but...}
 {688}{}{Stop bothering me.}
 {689}{}{Look, I ain't got the time to talk to you right now.}
 {690}{}{She's yer "wife," huh? Can I borrow her fer an hour or two?}
@@ -425,8 +425,8 @@
 {707}{}{How many tribals are gonna be coming to this town?}
 {708}{}{Tell the rest of your tribe to stay at home.}
 {709}{}{Another primate? You tribals breed like mantises.}
-{710}{}{That stink from Golgotha was damn awful last night…}
-{711}{}{Dammit! See, I was up 53 chips, then…}
+{710}{}{That stink from Golgotha was damn awful last night...}
+{711}{}{Dammit! See, I was up 53 chips, then...}
 {712}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
 {713}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
 {714}{}{Heard they got a new crop o' slaves.}
@@ -438,21 +438,21 @@
 {720}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {721}{}{House was against me.}
 {722}{}{Fortune's against me.}
-{723}{}{Glad they put that guy on the rack…}
-{724}{}{Filthy stinkard…}
+{723}{}{Glad they put that guy on the rack...}
+{724}{}{Filthy stinkard...}
 {725}{}{What do you want?}
-{726}{}{Bad luck, ill wind, not good times, not good times…}
+{726}{}{Bad luck, ill wind, not good times, not good times...}
 {727}{}{Reno's a-heating up, time ta move on.}
 {728}{}{That Bishop daughter is out of control.}
-{729}{}{If the Temperance Union lectures me one more time…}
+{729}{}{If the Temperance Union lectures me one more time...}
 {730}{}{Saw Tully passed out in the gutter again.}
 {731}{}{I got to get out of this town.}
 {732}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{733}{}{TRIED to quit, but…}
+{733}{}{TRIED to quit, but...}
 {734}{}{Stop bothering me.}
 {735}{}{Look, I ain't got the time to talk to you right now.}
-{736}{}{Might head downtown, see if any new men are in town…}
-{737}{}{Glad they put that asshole on the rack…}
+{736}{}{Might head downtown, see if any new men are in town...}
+{737}{}{Glad they put that asshole on the rack...}
 
 # endlines
 {1203}{}{!}

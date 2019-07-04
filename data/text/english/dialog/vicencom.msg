@@ -21,7 +21,7 @@
 {120}{}{2B...}
 {121}{}{Confirming...}
 {122}{}{Attention: Obstruction has been detected in Ventilation 2B. }
-{123}{}{Cross-checking Environmental Systems…}
+{123}{}{Cross-checking Environmental Systems...}
 {124}{}{Obstruction has been logged in the engineering maintenance report and an operator has been notified.}
 {125}{}{Continuing check...}
 {126}{}{Ventilation 2C... 2D... are operating at optimum efficiency.}
@@ -51,7 +51,7 @@
 {150}{}{Environmental Systems... }
 {151}{}{Ventilation 1A... 1B... are operating at optimum efficiency.}
 {152}{}{Ventilation 2A... 2B... 2C... 2D... are operating at optimum efficiency.}
-{153}{}{Ventilation 3A... 3B... 3C... 3D... 3E...are operating at optimum efficiency.}
+{153}{}{Ventilation 3A... 3B... 3C... 3D... 3E... are operating at optimum efficiency.}
 {154}{}{Temperature and humidity within Vault is within required specifications.}
 {155}{}{Power Supply...}
 {156}{}{All energy levels are within required specifications. }
@@ -87,7 +87,7 @@
 {185}{}{...you wake up.}
 {186}{}{Shamble off}
 {187}{}{You pry open the panel beneath the machine and search for a voice recognition module. You don't
- see one...the circuit boards in this computer look much different than the ones in the Vault 13
+ see one... the circuit boards in this computer look much different than the ones in the Vault 13
  computer.}
 {188}{}{Replace the panel and look through the computer archives.}
 {189}{}{It was worth a shot. Better go look somewhere else.}
@@ -121,8 +121,8 @@
 {209}{}{Cancel the procedure and log off terminal.}
 {210}{}{A small display beneath the Pip-Boy states that your last scheduled maintenance was 50.352 years
  ago. The archives are corrupted and need to be "re-formatted." Do you wish to proceed?}
-{211}{}{Uh…sure.}
-{212}{}{Wha…no! No way! }
+{211}{}{Uh... sure.}
+{212}{}{Wha... no! No way! }
 {213}{}{Cancel the procedure and log off terminal.}
 {214}{}{Initialization procedure beginning... Reformatting Pip-Boy...}
 {215}{}{}

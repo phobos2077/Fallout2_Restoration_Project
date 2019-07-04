@@ -25,7 +25,7 @@
 {124}{}{[Continue]}
 {125}{}{You do not require this type of healing.}
 {126}{}{[Continue]}
-{127}{}{Ahh...You are familiar with the healing properties of these two plants. It will only cost
+{127}{}{Ahh... You are familiar with the healing properties of these two plants. It will only cost
  you} # continue at 150
 {128}{}{Please combine the two plants for me.}
 {129}{}{Maybe later, bye.}

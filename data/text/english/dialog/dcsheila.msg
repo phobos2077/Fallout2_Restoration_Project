@@ -3,22 +3,22 @@
 {150}{}{This is your usual, run of the mill, prostitute.}
 
 {152}{}{[TALK]}
-{153}{}{Hey, I don’t do chicks!}
+{153}{}{Hey, I don't do chicks!}
 {154}{}{Whatever.}
 {155}{}{Sorry.}
 {156}{}{Mom?}
-{157}{}{Hey, it’ll cost more if you've got an audience with ya.}
+{157}{}{Hey, it'll cost more if you've got an audience with ya.}
 {158}{}{Hey, they go where I go.}
 {159}{}{I want them with me.}
-{160}{}{I’ll be back.}
+{160}{}{I'll be back.}
 {161}{}{Mom?}
 {162}{}{Oh, baby. Where you been all my life?}
 {163}{}{Right here, baby.}
 {164}{}{How much, sister?}
 {165}{}{Um, I need to go. Bye.}
 {166}{}{Whee!}
-{167}{}{I like ‘em big and dumb.}
-{168}{}{That’s me!}
+{167}{}{I like 'em big and dumb.}
+{168}{}{That's me!}
 {169}{}{Yay!}
 {170}{}{Oh. No. Bye.}
 {171}{}{What a big boy you are!}
@@ -27,13 +27,13 @@
 {174}{}{I have to go.}
 {176}{}{OK!}
 {177}{}{No. Bye.}
-{178}{}{You’ll be back.}
-{179}{}{We’ll see.}
+{178}{}{You'll be back.}
+{179}{}{We'll see.}
 {180}{}{Um, no.}
 {181}{}{[drool]}
-{182}{}{You don’t have enough bucks. Get lost, honey.}
-{183}{}{I’ll come back.}
-{184}{}{You’re not worth it, toots.}
+{182}{}{You don't have enough bucks. Get lost, honey.}
+{183}{}{I'll come back.}
+{184}{}{You're not worth it, toots.}
 {185}{}{Wah!}
 {186}{}{You were incredible!}
 {187}{}{Always, baby.}
@@ -45,14 +45,14 @@
 {193}{}{Hmm.}
 {194}{}{Yeah.}
 {195}{}{Great!}
-{196}{}{OK, we’re done. Bye.}
-{197}{}{That’s it?}
+{196}{}{OK, we're done. Bye.}
+{197}{}{That's it?}
 {198}{}{OK. Bye}
 {199}{}{It was good.}
 {200}{}{Bye bye.}
 {201}{}{I don't get paid enough for this.}
 {202}{}{It's not like you were worth the money anyhow.}
-{203}{}{You’ll miss me.}
+{203}{}{You'll miss me.}
 {204}{}{Bye.}
 {205}{}{Lost?}
 {206}{}{Come back anytime.}

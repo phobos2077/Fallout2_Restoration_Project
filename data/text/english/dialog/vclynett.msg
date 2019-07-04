@@ -21,7 +21,7 @@
 {120}{}{Yes. They were going to use a virus to exterminate all life. They planned to start over... at
  the cost of all that you've built here.}
 {121}{}{You heard incorrectly. I am just a traveler, nothing more... and certainly no hero. Now I only
- wish to be left in peace, allowed to wander the wastes in search of my place in this new world. Goodbye, First Citizen...forever.}
+ wish to be left in peace, allowed to wander the wastes in search of my place in this new world. Goodbye, First Citizen... forever.}
 {122}{lyn003}{From the simplest things - and that certainly is you - even greatness may grow.
  Take care, my sweet imbecile... all Vault City thanks you.}
 {123}{}{(Hug her.)}
@@ -39,7 +39,7 @@
 {132}{}{But... oh, forget it. Good luck, First Citizen.}
 {133}{}{You don't know the half of it, First Citizen! Power steering, body fluid recycling, menacing
  exterior... pretty damn cool.}
-{134}{}{Goodbye, First Citizen. I must return to the outside world...and find my place in it.}
+{134}{}{Goodbye, First Citizen. I must return to the outside world... and find my place in it.}
 {135}{lyn007}{Please, call me Lynette. Travel carefully... my friend. We shall never forget you.
  You shall always have a home here within the walls of Vault City.}
 {136}{}{Thanks... Lynette.}
@@ -61,7 +61,7 @@
 {150}{}{Har funeee!}
 {151}{}{Shamble off}
 {152}{lyn010}{I don't know how you mustered the brain power to get inside the city, but I'll make sure
- you don't wander in here again...guards! Escort this imbecile outside the walls!}
+ you don't wander in here again... guards! Escort this imbecile outside the walls!}
 {153}{}{NO!}
 
 # player's name prepended to line 154
@@ -98,7 +98,7 @@
  animals! Now leave. Or I shall have you forcibly removed.}
 {183}{}{No! I'm not leaving until I get some answers!}
 {184}{}{"Forcibly removed?" TRY it. I'll like it.}
-{185}{}{I'll go quietly...this time.}
+{185}{}{I'll go quietly... this time.}
 {186}{}{I'm leaving, I'm leaving.}
 {187}{lyn015a}{"Overseer?" Why, no. There has been no Overseer in a hundred years. How do you know of
  the Vault Overseers?}
@@ -184,7 +184,7 @@
 {259}{}{Where is the Overseer? I need to speak with him.}
 {260}{}{It isn't right you don't share. It's your responsibility to help everyone... not just those
  that live in these walls.}
-{261}{}{I...see. Thanks for your time. Good day.}
+{261}{}{I... see. Thanks for your time. Good day.}
 {262}{lyn029}{You Outsiders are fine ones to lecture about "responsibility." You beg incessantly for
  help, yet do nothing to better yourselves. Our talk is over... leave now, before I summon the guards.}
 {263}{}{You better summon the guards now, because you're not going to have another chance.}
@@ -245,7 +245,7 @@
 {307}{}{I have this Vault jumpsuit, and this canteen. They belonged to my ancestor.}
 {308}{}{I grow tired of your questions. I'm going to go find someone else who can help me.}
 {309}{}{I have to be going. Good day.}
-{310}{lyn038}{Hmm… perhaps some mention of your Vault is in our computer archives.}
+{310}{lyn038}{Hmm... perhaps some mention of your Vault is in our computer archives.}
 {311}{}{Well, can we check?}
 {312}{}{First Citizen, it's very important to me that I find out the location of my ancestor's Vault.
  If I could check the archives, I would be grateful.}
@@ -282,7 +282,7 @@
 {337}{}{Is there some way I could become a Citizen?}
 {338}{}{Guess I'm out of luck, then. Good day.}
 {339}{lyn044}{Rather than taking the test, you could prove your commitment to the Vaults in a more...
-substantial way. As an Outsider, you are in a unique position to resolve a difficult...situation for us.}
+substantial way. As an Outsider, you are in a unique position to resolve a difficult... situation for us.}
 {340}{}{What kind of situation?}
 {341}{}{Of course. Whatever the vaults need, it is my duty to deliver.}
 {342}{}{I don't know... isn't the Citizenship test standard procedure?}
@@ -309,7 +309,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {360}{}{How exactly is this plant releasing radiation?}
 {361}{}{Let me think about it. I'll get back to you.}
 {362}{lyn049}{Those... things... are operating a damaged atomic power plant. You see, THEY are
- immune to radiation...they don't care that they are slowly killing us with their poisons.}
+ immune to radiation... they don't care that they are slowly killing us with their poisons.}
 {363}{}{I'll take care of the problem. I'll be back when the situation's... "resolved."}
 {364}{}{Sounds like they're doing the world a service. Find some other "Outsider" to do your dirty work.}
 {365}{}{I'll have to think about it. I'll get back to you.}
@@ -326,7 +326,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {374}{}{I don't think I'm the one for the job... goodbye.}
 {375}{}{I think I really should be going. Good day, First Citizen.}
 {376}{lyn052}{Oh... that's right. The Proconsul mentioned we had gained a new Citizen. Welcome,
- Citizen. As for the archives, yes...they are located inside our Vault. Peruse them at your leisure.}
+ Citizen. As for the archives, yes... they are located inside our Vault. Peruse them at your leisure.}
 {377}{}{Before I go examine the archives, I wanted to ask you some other questions...}
 {378}{}{Do you happen to have a GECK as well?}
 {379}{}{Great! Thanks.}
@@ -383,7 +383,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {428}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
 {429}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
 {430}{lyn059}{Do not toy with me, "Citizen," or I will make sure you never walk Vault City's streets again. Now leave.}
-{431}{}{No problem...I'll just be going now. Goodbye.}
+{431}{}{No problem... I'll just be going now. Goodbye.}
 {432}{}{Good day, First Citizen.}
 {433}{lyn060}{Do you take me for a FOOL? If anyone would know these were fakes, it would be me! Who
  gave you these papers?! If you tell me, I will allow you to keep your Day Pass.}
@@ -490,7 +490,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
  but are you absolutely certain? If true, his Citizenship would be revoked, and he would be exiled.}
 {525}{}{Look, I know it's hard for you to believe, but he asked me to smuggle Jet into Vault City for him.}
 {526}{}{Isn't that a little harsh? Couldn't you just rehabilitate him and keep him on as a doctor?}
-{527}{}{Oh. Uh...I misspoke. I meant to say Dr. Troy is involved in PARALEGAL activities, not illegal ones.}
+{527}{}{Oh. Uh... I misspoke. I meant to say Dr. Troy is involved in PARALEGAL activities, not illegal ones.}
 {528}{}{Hmmmm. I'll go see if I can find anything else out.}
 {529}{lyn081}{I can't believe a Citizen of such stature would become addicted to drugs. Thank you for your
  honesty, Citizen. I will take care of this immediately.}
@@ -512,7 +512,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {544}{lyn084b}{You had best watch what you say, Outsider.}
 {545}{lyn084c}{If I hear of you making trouble for Dr. Troy, or any other Citizen, you will never walk
  the streets of Vault City again. Understood?}
-{546}{}{Uh...sure. Sorry. I had some other questions...}
+{546}{}{Uh... sure. Sorry. I had some other questions...}
 {547}{}{Crystal clear. I'll just be going now.}
 {548}{}{My apologies, First Citizen. Good day.}
 {549}{lyn085}{Of COURSE he only treats Citizens. He has no time to treat Outsiders... we have an Auto-Doc
@@ -530,7 +530,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {560}{}{Why do you say he's a troublemaker?}
 {561}{}{Can I ask you another question?}
 {562}{}{I spoke with him... and a lot of what he says makes sense.}
-{563}{}{I agree. Do you want me to...take care of him?}
+{563}{}{I agree. Do you want me to... take care of him?}
 {564}{}{You should revoke his Citizenship, then.}
 {565}{}{I see. I'll be sure to stay clear of him then. Good day.}
 {566}{lyn088}{He constantly seeks to convince the Citizens to turn Vault City into a..."democracy,"
@@ -560,7 +560,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {586}{}{You know he's right: you probably could. Your medical technology IS pretty impressive.}
 {587}{}{Can't you just kick him out?}
 {588}{}{Oh. Well, I was just curious about him. Good day.}
-{589}{lyn092}{You, too? A Citizen is free to his own beliefs, but this...THIS! Perhaps you are incapable
+{589}{lyn092}{You, too? A Citizen is free to his own beliefs, but this... THIS! Perhaps you are incapable
  of handling the responsibility of Citizenship!}
 {590}{}{Whoa... sorry! Look, never mind... I had some other questions I wanted to ask you...}
 {591}{}{If it means agreeing blindly with you, then maybe YOU'RE the one incapable of handling the responsibility of Citizenship.}
@@ -575,7 +575,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
  be a Citizen.}
 {599}{}{Maybe he just saw the light. Good day.}
 {600}{lyn094}{We have prospered in this world where so many others have failed, and you tell me we need
- to change? Look at the outside world! Anarchy, depravity, sickness...Vault City is a paradise!}
+ to change? Look at the outside world! Anarchy, depravity, sickness... Vault City is a paradise!}
 {601}{}{That's exactly WHY a change is necessary. You should share your accomplishments with others.}
 {602}{}{It's a paradise for some people, maybe. I think your slaves would disagree.}
 {603}{}{I'm not going to argue this with you anymore. Goodbye.}
@@ -610,7 +610,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {629}{lyn100}{Kill him?! Murder is not in any way, shape, or form permitted in Vault City -- even if for the best. Never speak of this again.}
 {630}{}{Understood. Can I ask you some other questions?}
 {631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
- mauled by a brahmin...any of a number of things can happen in this dangerous world.}
+ mauled by a brahmin... any of a number of things can happen in this dangerous world.}
 {632}{}{All right. I'm leaving.}
 {633}{}{Very well, First Citizen. Good day.}
 {634}{lyn101}{This is not conduct of a Citizen! I am revoking your Citizenship. My guards will show you to the front gate.}
@@ -619,7 +619,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {637}{lyn102}{Although it would serve Vault City's interests, I can't... as long as he breaks no laws,
  Moore is permitted to say anything he wants.}
 {638}{}{Do you want me to... take care of him?}
-{639}{}{Oh, but he has. You see, Moore isn't just a Citizen...he's been looking out for someone else's interests.}
+{639}{}{Oh, but he has. You see, Moore isn't just a Citizen... he's been looking out for someone else's interests.}
 {640}{}{Can I ask you another question?}
 {641}{}{Well, he'll probably bury himself at the rate he's going. Talk to you later.}
 {642}{}{I understand. Well, thanks for your time, First Citizen.}
@@ -723,7 +723,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {722}{}{Hold on, I'm not done yet. I had some other questions...}
 {723}{}{All right, I'm leaving.}
 {724}{}{Thanks. I had some other questions...}
-{725}{}{Great! Thanks...I better be going now.}
+{725}{}{Great! Thanks... I better be going now.}
 {726}{}{Thank you, First Citizen.}
 {727}{lyn122}{Roger Westin is probably the only honest man in the New Republic and sympathetic to our cause. }
 {728}{}{All right, I'll deliver the disk to him.}
@@ -855,7 +855,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if
  the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
 {843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship
- depends on resolving this situation...completely. Am I making myself clear?}
+ depends on resolving this situation... completely. Am I making myself clear?}
 {844}{}{Sorry, thought I'd killed them all.}
 {845}{}{That's a good start, but our ground water is still being contaminated. You need to disable
  their plant.}

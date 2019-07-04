@@ -18,7 +18,7 @@
 
 {230}{}{They are the future! A new race of sentient plant life forms, created by me. I have finally achieved success in synthesizing my new plant life with fresh human cadavers! As you can see, this endows the plants with, sensory, ambulatory, and vocal capabilities which they would otherwise lack. It also grants a human-like appearance which will allow them to more easily assimilate into our culture.}
 {231}{}{So where are you getting these 'fresh human cadavers'? }
-{232}{}{Assimilate into our culture? Good luck with that. The ghouls and mutants can hardly manage that and they are—or were—at one point human. These things are abominations.}
+{232}{}{Assimilate into our culture? Good luck with that. The ghouls and mutants can hardly manage that and they are--or were--at one point human. These things are abominations.}
 {233}{}{Actually, I've met a spore plant that could talk without being infused with a human body.}
 {234}{}{That's incredible. As a fellow student of science, I must know how this was made possible.}
 
@@ -46,8 +46,8 @@
 {293}{}{I don't have them on me but I'll go see if I can find them.}
 {294}{}{I don't have them on me, and even if I did I wouldn't hand them over to you. I want nothing to do with you or your veggie-zombies.}
 
-{300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds — they must be unique.}
-{301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds — they must be unique.}
+{300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
+{301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
 {302}{}{I'll be back.}
 {303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
 
@@ -118,7 +118,7 @@
 
 {450}{}{Impossible! A spore plant cannot be capable of speech regardless of its intelligence. Either you are making some sort of jest or you were under a drug-induced hallucination. By the looks of you, I'd guess it was the latter. But enough about that nonsense. I must know if you are willing to assist me.}
 {451}{}{Yeah, I suppose it *does* sound rather silly. Anyway, what did you want me to assist you with?}
-{452}{}{Don't change the subject—I was telling the truth! I swear on the Vault Dweller, his name was Seymour and he could talk. He wanted me to re-plant him in a better location. I'm not making this up and I wasn't hallucinating.}
+{452}{}{Don't change the subject--I was telling the truth! I swear on the Vault Dweller, his name was Seymour and he could talk. He wanted me to re-plant him in a better location. I'm not making this up and I wasn't hallucinating.}
 
 {460}{}{Enough! I do not have time for this foolishness. Will you assist me, or not?}
 {461}{}{Assist you with what?}
@@ -132,10 +132,10 @@
 {482}{}{I think all forms of life perceive in some way or another.}
 {483}{}{Those spore plants I've encountered sure fight back. So yeah, I'd say plants feel something.}
 
-{490}{}{And you would not be alone in thinking that. I too was skeptical at first. But you see, in the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication—that plants are sentient.}
+{490}{}{And you would not be alone in thinking that. I too was skeptical at first. But you see, in the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
 {491}{}{Are you suggesting that plants are almost like humans?}
 
-{500}{}{And you would not be alone in thinking that. In the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication—that plants are sentient.}
+{500}{}{And you would not be alone in thinking that. In the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
 {501}{}{Are you suggesting that plants are almost like humans?}
 
 {510}{}{I'm suggesting that they COULD be like humans. And as you can see, I was right. They just required a little help.}
@@ -188,8 +188,8 @@
 {620}{}{Yes, I shall administer it at once. Here.}
 {621}{}{Ah. I feel better already.}
 
-{630}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Here is your monetary reward. [He hands you $1000.] The second half of your reward is information — and a second task to go with it.}
-{631}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Your reward is information — and a second task to go with it.}
+{630}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Here is your monetary reward. [He hands you $1000.] The second half of your reward is information -- and a second task to go with it.}
+{631}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Your reward is information -- and a second task to go with it.}
 {632}{}{Let's hear it.}
 {633}{}{Forget it. Keep your information. I'm done working for you.}
 

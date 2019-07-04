@@ -24,10 +24,10 @@
 {242}{}{Jumpin' jiminy, what can I do for ya now?}
 {243}{}{Hey there, I really enjoyed my meal from Mom's. Thanks. Now what can old Smitty do for ya?}
 {244}{}{I was just wondering what you do here?}
-{245}{}{Say, old timer, I have this thingy here that I picked up in Gecko….}
+{245}{}{Say, old timer, I have this thingy here that I picked up in Gecko...}
 {246}{}{Hey Smitty, I was wondering about that car you had for sale.}
 {247}{}{I brought your meal from Mom's.}
-{248}{}{Say, old timer, I have this thingy here that I picked up in Klamath….}
+{248}{}{Say, old timer, I have this thingy here that I picked up in Klamath...}
 {249}{}{I was just looking around a bit. See you later, Smitty.}
 
 # 4. Thing from Gecko (3)

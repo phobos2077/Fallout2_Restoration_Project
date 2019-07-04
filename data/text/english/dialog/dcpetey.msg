@@ -88,7 +88,7 @@
 {303}{}{Ahhh...}
 {304}{}{Didn't like that asshole anyway.}
 #flick dead
-{305}{}{Flick's dead...Crap.}
+{305}{}{Flick's dead... Crap.}
 {306}{}{What happened to Flick?}
 {307}{}{I miss Flick...}
 

@@ -100,7 +100,7 @@
 {272}{}{Well, I think I've had enough of your hazy memories for now. Goodbye.}
 
 {280}{}{Yes, running. You see, we ghouls c'can't run too much anymore. So, I knew it was an outsider when I saw
- them. They ran by so close I could have touched them. I wish that I had joined the Vault Dweller.…}
+ them. They ran by so close I could have touched them. I wish that I had joined the Vault Dweller....}
 {281}{}{You wanted to join my grandsire?}
 {282}{}{Yeah, as though my ancestor would let a fleshless freak like you do anything with them. Goodbye.}
 {283}{}{Uh, well, I'd love to hear the whole story but I've got things to do. Goodbye.}
@@ -116,7 +116,7 @@
 {302}{}{Well, I'm only interested in saving my tribe. The rest of the world can fend for itself. Goodbye.}
 
 {310}{}{Later, I heard that the Vault Dweller destroyed the source of the m'mutant army. The Vault
- D'dweller saved all of us. Human and ghoul alike… I could have been a part of that, but I lacked the
+ D'dweller saved all of us. Human and ghoul alike... I could have been a part of that, but I lacked the
  c'courage. I've never forgiven m'myself.}
 {311}{}{I am following in my ancestor's footsteps. Would you like another chance? Will you join me?}
 {312}{}{I'm sure that the work you do here amongst the ghouls has value and meaning. It was good to
@@ -242,7 +242,7 @@
 
 {520}{}{I've g'gotten pretty g'good at looking out f'fer myself o'er the years.}
 {521}{}{I just need you to be careful when we get into fights.}
-{522}{}{I want to make sure that nothing happens to you. Heck, you're an antique. One more thing, though…}
+{522}{}{I want to make sure that nothing happens to you. Heck, you're an antique. One more thing, though...}
 {523}{}{Never mind.}
 
 {530}{}{Only way to d'do it.}

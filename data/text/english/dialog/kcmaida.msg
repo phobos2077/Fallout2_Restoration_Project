@@ -86,7 +86,7 @@
  savages somewhere to the northwest -- and then Sulik's tribe, far to the southwest.}
 {301}{}{That's funny, my tribe doesn't count pre-war towns when we talk about civilized places. Tell me
  something else.}
-{302}{}{Oh, you're civilized all right...and I don't think I want any part of it. Tell me
+{302}{}{Oh, you're civilized all right... and I don't think I want any part of it. Tell me
  something else.}
 {303}{}{Tell me about Sulik.}
 {304}{}{What about the Den?}
@@ -128,7 +128,7 @@
  don't think anyone should be trapped the way he is.}
 {373}{}{I guess you're right. I don't have that much money to spare, anyway. Goodbye.}
 
-{380}{}{Well, okay then. If you really want to pay for the damage he caused...I guess all of you tribals
+{380}{}{Well, okay then. If you really want to pay for the damage he caused... I guess all of you tribals
  really stick together.}
 {381}{}{Yes, I do. I have enough to pay for the damages that he caused.}
 {382}{}{Maybe that is too much money. I don't think I want to pay for his damages after all. Goodbye.}

@@ -7,7 +7,7 @@
 {150}{}{Yo, Tyler!}
 
 # 2. Hostile
-{200}{}{What the…?}
+{200}{}{What the...?}
 
 # 3. Gang 1 Won War
 {225}{}{Thanks for the tip. That was some fun stuff.}

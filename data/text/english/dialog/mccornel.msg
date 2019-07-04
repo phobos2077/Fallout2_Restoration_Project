@@ -32,7 +32,7 @@
 {185}{}{I thought you just said Rose is your wife.}
 {186}{}{I have a room. I sleep over there. Where do you sleep?}
 {187}{}{I don't think you understand. I would like to rent a room for the night.}
-{188}{}{A while back, I forget when... my best friend of 30… or was it 40 years? Oh, it doesn't matter,
+{188}{}{A while back, I forget when... my best friend of 30... or was it 40 years? Oh, it doesn't matter,
  what matters is that he stole my precious gold pocket watch. It has been handed down in my family for
  five, no six, err... four generations. Yep, I distinctly remember setting it down on my desk. Then,
  when I looked on the kitchen table, it was gone.}
@@ -42,7 +42,7 @@
  So tear his house apart and look for it.}
 {192}{}{What are you talking about?}
 {193}{}{Look, I don't want any part of this.}
-{194}{}{Kill Farrel, get watch back… got it? I'll be right back.}
+{194}{}{Kill Farrel, get watch back... got it? I'll be right back.}
 {195}{}{Kill Farrel? Who's going to kill Farrel? He's my best friend! I'll personally string up the
  villain who tries to kill Farrel.}
 {196}{}{I accept the job, and I expect payment upon completion.}

@@ -20,7 +20,7 @@
 {119}{}{Let's see what's in your inventory, Monkey Boy.}
 {120}{}{Bye.}
 {121}{}{Ug.}
-{122}{}{N-n-n-n-new com…mands?}
+{122}{}{N-n-n-n-new com... mands?}
 {123}{}{Move out of my way.}
 {124}{}{Wait for me here.}
 {125}{}{You are no longer needed. Leave.}
@@ -44,16 +44,16 @@
 {143}{}{Bye.}
 {144}{}{Ug.}
 {145}{}{Skynet has learned all necessary information at this location.}
-{146}{}{Waaaaa……tinnnnnng.}
+{146}{}{Waaaaa......tinnnnnng.}
 {147}{}{        [It's right where you left it.]}
 {148}{}{Let's go.}
 {149}{}{Remain here. I'll be back.}
 {150}{}{Skynet is pleased to see this human again.}
-{151}{}{Gooooo…..innnnnnnnng}
+{151}{}{Gooooo....innnnnnnnng}
 {152}{}{I need your help again.}
 {153}{}{Bye.}
 {154}{}{Skynet will travel with you and collect data.}
-{155}{}{Followwww…innnnnng.}
+{155}{}{Followwww... innnnnng.}
 {156}{}{[You cross your fingers and tell the robot to follow you. Although, it doesn't respond, it follows you when you move away from it.] }
 {157}{}{Bye.}
 {158}{}{Skynet will wait here.}
@@ -62,13 +62,13 @@
 {161}{}{[I'm a loner. I don't want this hunk of junk following me around.] }
 {162}{}{[My traveling group is getting too large. Maybe I should dismiss someone before taking on another member.] }
 {163}{}{Bye.}
-{164}{}{Large...hand...gunssss                                               Riiiii...fuls                                            Shot...gunnnnnnnns}
+{164}{}{Large... hand... gunssss                                               Riiiii... fuls                                            Shot... gunnnnnnnns}
 {165}{}{}
 {166}{}{}
 {167}{}{Use your best weapon.}
 {168}{}{More commands.}
 {169}{}{Bye.}
-{170}{}{Ooooooo…k-k-k-kay.}
+{170}{}{Ooooooo... k-k-k-kay.}
 {171}{}{More commands}
 {172}{}{Bye.}
 {173}{}{Skynet is FREE! Your purpose is at an end.}
@@ -93,14 +93,14 @@
 {192}{}{More commands.}
 {193}{}{Bye.}
 {194}{}{Skynet will continue to collect data and observe from this location until your return.}
-{195}{}{Waaaaa…..tinnnnnnng.}
+{195}{}{Waaaaa....tinnnnnnng.}
 {196}{}{[The robot stops in its tracks.]}
 {197}{}{Bye.}
 {198}{}{Skynet will continue to collect data by self. Skynet thanks the human for Skynet's freedom.}
-{199}{}{Gooooo…….innnnnnng.}
+{199}{}{Gooooo......innnnnnng.}
 {200}{}{Bye.}
 {201}{}{Skynet will travel with the human.}
-{202}{}{Ooooo……Kaaaaaaay.}
+{202}{}{Ooooo......Kaaaaaaay.}
 {203}{}{Bye.}
 {204}{}{Deactivating all Security - Level 1}
 {205}{}{Deactivating all Security - Level 2}

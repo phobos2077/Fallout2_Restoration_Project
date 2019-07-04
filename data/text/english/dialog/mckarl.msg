@@ -8,7 +8,7 @@
 {153}{}{Hey.}
 {154}{}{Hey!}
 {155}{}{HEY!!}
-{156}{}{The ghosts won't be able to find me here… [sob]}
+{156}{}{The ghosts won't be able to find me here... [sob]}
 {157}{}{It's good to be home again.}
 {159}{}{It's Karl; he's passed out.}
 {160}{}{He's going to have to sleep it off.}
@@ -27,7 +27,7 @@
 {174}{}{Do you know where I can find a GECK?}
 {175}{}{You mentioned something about a garden earlier. Tell me more.}
 {178}{}{Me go.}
-{179}{}{Hey cheapskate! (hic) Come on, I know you gots money… (hic) Just some spare change then… (hic)
+{179}{}{Hey cheapskate! (hic) Come on, I know you gots money... (hic) Just some spare change then... (hic)
  something, anything! Show some compassion.}
 {180}{}{Here. Here's $25.}
 {184}{}{Here. Here's $1.}
@@ -35,41 +35,41 @@
 {186}{}{No money.}
 {187}{}{What do you want?}
 {188}{}{[Tell Karl about what Jo said.]}
-{189}{}{Ghosts, Karl… they're everywhere. Look, there's one now!}
+{189}{}{Ghosts, Karl... they're everywhere. Look, there's one now!}
 {190}{}{Gibba gibba.}
 {191}{}{You here (hic) to have fun with poor Karl again? (hic) Well, what are you waiting for? (hic)
  Let's get this over with!}
-{198}{}{[In a slurred voice.] Mighty kind of ya… (hic) A $1000 otta gets me by.}
+{198}{}{[In a slurred voice.] Mighty kind of ya... (hic) A $1000 otta gets me by.}
 {199}{}{Sure, here you go.}
 {200}{}{For how long, a year? No way; here's $25.}
 {201}{}{You must take me for a fool. I'm out of here.}
-{202}{}{[Karl's mouth drops open in surprise] Thanks! You're a (hic) very generous person… (hic) If
+{202}{}{[Karl's mouth drops open in surprise] Thanks! You're a (hic) very generous person... (hic) If
  thars anything ya needs (hic) just come see me. By the way, (hic) me name's Karl.}
 {203}{}{Sure, Karl; now that you mention it, I'm looking for an item called a GECK. Any clues as to
  where I might find one?}
 {204}{}{I'll keep that in mind. Take care of yourself, Karl.}
 {205}{}{What kinds of person are ya? (hic) Playing tricks on a poor homeless farm-(hic)-er. Leave me
  alone!}
-{206}{}{Yeah… (hic) Some sort of lizard (hic) I hear. Never seen one, though.}
+{206}{}{Yeah... (hic) Some sort of lizard (hic) I hear. Never seen one, though.}
 {207}{}{No, I'm looking for a GECK, not a gecko.}
 {208}{}{Never mind. Thanks for the info.}
-{209}{}{Oh! Ya means gecko… (hic) Yeah, it's a liz-(hic)-ard about so big. [Karl holds his hands out to
+{209}{}{Oh! Ya means gecko... (hic) Yeah, it's a liz-(hic)-ard about so big. [Karl holds his hands out to
  show the size. You can't tell, but the lizard is either 3 inches long or 3 feet long.]}
 {210}{}{Let me try to explain. I'm not looking for a lizard called a gecko. I'm looking for an object
  called a GECK.}
-{212}{}{Why didn't you say so? (hic) I know where to get it… (hic) Garden of… [Karl falls flat on his
+{212}{}{Why didn't you say so? (hic) I know where to get it... (hic) Garden of... [Karl falls flat on his
  face and passes out.]}
 {213}{}{[Maybe when Karl wakes up, you can talk to him again.]}
 {214}{}{Bless you! (hic) Ya saved me life.}
 {215}{}{I'm looking for a GECK; can you help me?}
 {216}{}{Don't mention it. I'll see you around, Karl.}
-{217}{}{Um… (hic) I'm not real hungry right now… (hic) How about if you give me the money and I'll get
+{217}{}{Um... (hic) I'm not real hungry right now... (hic) How about if you give me the money and I'll get
  it later? (hic)}
 {219}{}{You shyster. I'll bet you use the money you collect to buy drugs, don't you?}
-{220}{}{Shi… shy… shick… Whatever you just sed? (hic) Take that back… (hic) Whatever it means, it can't
+{220}{}{Shi... shy... shick... Whatever you just sed? (hic) Take that back... (hic) Whatever it means, it can't
  be good.}
 {221}{}{[Before you can reply, Karl falls forward and passes out.]}
-{222}{}{Thaaaats okay… (hic) I don't suppose you have any liquid refresh-(hic)-ment. It get's mighty (hic)
+{222}{}{Thaaaats okay... (hic) I don't suppose you have any liquid refresh-(hic)-ment. It get's mighty (hic)
  cold out here at night.}
 {224}{}{You are truly (hic) my bestest friend in this whole (hic) cursed world. [Karl proceeds to drink
  the liquid refreshment, at which point he then passes out]}
@@ -82,19 +82,19 @@
  don't hesitate to ask.}
 {228}{}{GECK?}
 {229}{}{I go.}
-{230}{}{Jooky… hic… It's a party in a can.}
+{230}{}{Jooky... hic... It's a party in a can.}
 {231}{}{Maybe later, then.}
 {232}{}{Gee... (hic) ...thanks. Maybe I can buy a (hic) bullet to shoot myself with. (hic) Course I'd
  have to save (hic) up for the gun.}
-{233}{}{You mean… I can go home? No more ghosts? [Karl breaks down and cries. Boy, nothing like seeing
+{233}{}{You mean... I can go home? No more ghosts? [Karl breaks down and cries. Boy, nothing like seeing
  a grown man cry.] Thank you, I can finally go home again!}
 {234}{}{Where?! Nooooooooo! They've found me!}
 {235}{}{Why yes, I had the biggest garden (hic) a person could want. Except (hic) where I'm from, we
- calls it a farm…}
+ calls it a farm...}
 {236}{}{Don't you remember? We were talking about the GECK, and you mentioned a garden.}
 {237}{}{Forget it, this is going nowhere.}
 {238}{}{Hey! (hic) You're kind a cute! Let's me and you go out back (hic) and gets better acquainted. I can
- pay… I've got a $1000. [Karl leers suggestively to you.]}
+ pay... I've got a $1000. [Karl leers suggestively to you.]}
 {239}{}{You do know you're talking to a man, don't you?}
 {240}{}{Sure, but it'll cost you $1000.}
 {241}{}{Thanks for the offer, but I'd rather talk about finding a GECK.}

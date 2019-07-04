@@ -60,7 +60,7 @@
 {145}{}{Evacuation of Sierra Army Depot has been moved up by one week. All security measures must be in place by that time. By order of General Clifton.}
 {146}{}{Read more mail}
 {147}{}{Exit}
-{148}{}{[You hear faint whirring noise as smoke starts to rise from the computer terminal. You stand by and watch as the keyboard melts into a puddle of goo. Hmm...must have been one of those viruses you've been hearing about.]}
+{148}{}{[You hear faint whirring noise as smoke starts to rise from the computer terminal. You stand by and watch as the keyboard melts into a puddle of goo. Hmm... must have been one of those viruses you've been hearing about.]}
 {149}{}{Exit}
 {150}{}{This is Klinger from the 8063rd. We're in desperate need of part number 102-53B. I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.}
 {151}{}{Read more mail}

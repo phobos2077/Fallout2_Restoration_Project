@@ -9,8 +9,8 @@
 # 1.  Fred B4 Becky's Job (From Where to go)
 {200}{}{I'm going to make it big some day.}
 {201}{}{Oh, leave me alone. I'm busy.}
-{202}{}{The master plan…}
-{203}{}{Going to figure it out some day…}
+{202}{}{The master plan...}
+{203}{}{Going to figure it out some day...}
 {204}{}{Why do I always lose?}
 {205}{}{Tables must be rigged.}
 {206}{}{...I'll own my own place some day.}
@@ -35,7 +35,7 @@
 {244}{}{I'm so broke.}
 {245}{}{Oh man, I need some cash.}
 {246}{}{I'll never get to buy new clothes now.}
-{247}{}{Got to get a new master plan…}
+{247}{}{Got to get a new master plan...}
 
 # 4. Covered, Floats (From Where to go)
 {260}{}{Thanks for covering for me!}
@@ -134,7 +134,7 @@
 {424}{}{Rebecca says she lent you $200.}
 
 # 19. Sure she lent me $200 (From 18)
-{430}{}{Oh yeah, right. Rebecca lent me $200… Oh, wait. Maybe- ummm…}
+{430}{}{Oh yeah, right. Rebecca lent me $200... Oh, wait. Maybe- ummm...}
 {431}{}{She's told me to break your neck if you don't pay.}
 {432}{}{Hand it over.}
 
@@ -182,11 +182,11 @@
 {511}{}{Okay.}
 
 # 28. Fred asks for Loan (From 26-27)
-{520}{}{Say, you know what? That hundred's really going to uh… delay things. Do you think I could borrow a little bit back?}
+{520}{}{Say, you know what? That hundred's really going to uh... delay things. Do you think I could borrow a little bit back?}
 {521}{}{How much?}
 {522}{}{No way.}
 
-# 29. Wait I know… (From 25)
+# 29. Wait I know... (From 25)
 {530}{}{Wait! I know. Tell you what, I'll give you $100 and you spot me for the other $100 I owe Becky. I'll pay you back real soon.}
 {531}{}{Okay fine.}
 {532}{}{No deal.}
@@ -198,7 +198,7 @@
 {543}{}{No.}
 
 # 31. PC gave Loan (From 30)
-{550}{}{Wha- uh… Damn! You won't regret this! I'm good for it!}
+{550}{}{Wha- uh... Damn! You won't regret this! I'm good for it!}
 {551}{}{No problem.}
 
 # 32. Clarification of amount of loan (From 30)
@@ -214,12 +214,12 @@
 {574}{}{Rebecca said she lent it to you a while ago.}
 
 # 34. Forgetful (From 33)
-{580}{}{I am not! I… wait. There was that one time. Didn't I pay her back? I thought I did…}
+{580}{}{I am not! I... wait. There was that one time. Didn't I pay her back? I thought I did...}
 {581}{}{No, you didn't. That's why she sent me.}
 {582}{}{Just pay up so I can get out of here.}
 
 # 35. Don't quite remember (From 33)
-{590}{}{I don't remember… but Becky sure has helped me and my friends out in the past.}
+{590}{}{I don't remember... but Becky sure has helped me and my friends out in the past.}
 {591}{}{Hand over the $200.}
 {592}{}{Just give me the money.}
 

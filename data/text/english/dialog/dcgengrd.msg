@@ -1,7 +1,7 @@
 {100}{}{You see an intimidating ruffian.}
 {101}{}{You see a guard of the Den.}
 
-{102}{}{Not now; I’m on duty.}
+{102}{}{Not now; I'm on duty.}
 {103}{}{I cannot speak to you.}
 {104}{}{Please go away.}
 {105}{}{Do not bother me.}

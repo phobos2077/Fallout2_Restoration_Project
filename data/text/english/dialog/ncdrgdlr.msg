@@ -33,7 +33,7 @@
 
 # player great
 # male
-{230}{}{Hey, hey…I'm in the presence of greatness. For YOU, friend, my stock's on special. Tell all your friends about me, all
+{230}{}{Hey, hey... I'm in the presence of greatness. For YOU, friend, my stock's on special. Tell all your friends about me, all
  right?}
 {231}{}{So you lookin' to party with some Jet, friend? You came to the right place. For you, EVERYTHING'S on special.}
 {232}{}{I got enough Jet to put you in orbit, my fine friend. And for you: a discount. Shall we talk price?}
@@ -45,7 +45,7 @@
 {236}{}{Let me know how I can help YOU, friend. Tell me your needs, and I'll give you the best rate in town.}
 {237}{}{Nothing better than a shot o' Jet after a long day of running around, eh? Am I right? For YOU, all my stock's on special.}
 # female
-{238}{}{Hey, hey…I'm in the presence of greatness. For YOU, miss, my stock's on special. Tell all your friends about me, all right?}
+{238}{}{Hey, hey... I'm in the presence of greatness. For YOU, miss, my stock's on special. Tell all your friends about me, all right?}
 {239}{}{So you lookin' to party with some Jet, miss? You came to the right place. For you, EVERYTHING'S on special.}
 {240}{}{I got enough Jet to put you in orbit, my lady friend. And for you: a discount. Shall we talk price?}
 {241}{}{I got shit that'll help you kiss the sky, miss. And for you: a discount. That sound all right?}

@@ -56,18 +56,18 @@
 {280}{}{Ha! So am I. Have I told you what a great cook I am? Becky wont' hire me for some reason. She says I'm unstable.}
 {281}{}{She's probably right.}
 {282}{}{I'm looking for Becky's book.}
-{283}{}{That's great. I've uh… got to go.}
+{283}{}{That's great. I've uh... got to go.}
 
 # 7. She's right (From 6)
-{290}{}{What? You! Screw you buddy! I'm not… Ow! Fuck.}
-{291}{}{What? You! Screw you lady! I'm not… Ow! Fuck.}
+{290}{}{What? You! Screw you buddy! I'm not... Ow! Fuck.}
+{291}{}{What? You! Screw you lady! I'm not... Ow! Fuck.}
 {292}{}{Damn.}
 {293}{}{Nuf Said.}
 
 # 8. Looking for Book (From 4-6)
 {300}{}{Oh yeah. I didn't like it. Too much kissing. I threw it in the corner of that building... no that building... no... was it a building? Maybe I dropped it somewhere else... or did I throw it? Ow! My head!}
 {301}{}{Book? Oh, that book. Who sent you? I'm not sure if that's the proper side. Don't forget the tissue.}
-{302}{}{I can't! They're… oh crap… Do you have the cheese? Hide!}
+{302}{}{I can't! They're... oh crap... Do you have the cheese? Hide!}
 {303}{}{Hey! Not my problem. What was I supposed to do? Fight them? Little green men, big pointy teeth! Fuck! Ouch! Stop that!}
 {304}{}{My head hurts! What... who said that?}
 {305}{}{That helps a lot.}

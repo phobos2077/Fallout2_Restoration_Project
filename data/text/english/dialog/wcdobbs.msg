@@ -3,7 +3,7 @@
 {102}{}{Oh, my head.}
 {103}{}{Who are you?}
 {104}{}{Ug!}
-{105}{}{I-I'm Dobbs…Private, First Class.}
+{105}{}{I-I'm Dobbs... Private, First Class.}
 {106}{}{Can you tell me how you got here?}
 {107}{}{Bye.}
 {108}{}{I was in a battle. Yes, a battle. There was gunfire and explosions everywhere. People dying. I was scared but I had to keep on fighting. Then there was this blinding flash.}

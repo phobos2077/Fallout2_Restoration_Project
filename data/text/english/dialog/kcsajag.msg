@@ -41,11 +41,11 @@
 {170}{}{Relax, pal; it's just what we call the beer here. (chuckles) This is the Golden Gecko, remember?}
 {171}{}{It's just beer. Golden Gecko, Gecko Piss? Are you slow or what? (shakes his head) Tribals,
  sheesh.}
-{172}{}{Oh. Heh, heh; well, back at Arroyo we actually...Uh, never mind.}
+{172}{}{Oh. Heh, heh; well, back at Arroyo we actually... Uh, never mind.}
 {173}{}{Oh, I get it. Well, aren't you folks clever.}
 {174}{}{I'm not drinking piss! I don't care where it's being served or what you call it!}
 
-{180}{}{Well, now that we've got first things first out of the way...how can I help you? (smiles)}
+{180}{}{Well, now that we've got first things first out of the way... how can I help you? (smiles)}
 {181}{}{Nice of you to drink with us lowlifes. (snickers) Just what do you want anyway?}
 {182}{}{I think I'll have another drink.}
 {183}{}{I'd like to buy a round of drinks for all my new friends here.}

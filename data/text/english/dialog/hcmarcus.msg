@@ -30,7 +30,7 @@
 {123}{}{Uh?}
 
 {124}{mcs7}{I'm Marcus. Helped build the place. Now I'm sheriff.}
-{125}{}{You helped build this place? That must have been a long time ago…}
+{125}{}{You helped build this place? That must have been a long time ago...}
 {126}{}{Bullshit. How could you have been around that long?}
 {127}{}{Bye.}
 
@@ -44,17 +44,17 @@
 {134}{}{Great. I have more questions.}
 {135}{}{Fair enough. Bye.}
 
-{136}{mcs10}{Right...After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
+{136}{mcs10}{Right... After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
 {137}{}{Really?}
 
-{138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while – probably a day or two. After a while, we just started laughing. What was the point?}
+{138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while -- probably a day or two. After a while, we just started laughing. What was the point?}
 {139}{}{Then what?}
 
 {140}{mcs12}{We became friends. Headed off together. Then other people started following us. Guess they figured if they weren't safe with a mutie and a Steel Knight, safe just wasn't going to happen. }
 {141}{}{So you set up here. Why?}
 
-{142}{mcs13}{Uranium mine. I knew there was one around from old maps. Now anybody's welcome here – ‘long as they act right. Others might not think much of us, but nobody's more free than we are. There ya go.}
-{143}{}{Wait… you were friends with a guy from the Brotherhood?}
+{142}{mcs13}{Uranium mine. I knew there was one around from old maps. Now anybody's welcome here -- 'long as they act right. Others might not think much of us, but nobody's more free than we are. There ya go.}
+{143}{}{Wait... you were friends with a guy from the Brotherhood?}
 {144}{}{What, you're not killing humans anymore?}
 {145}{}{Thanks. There I go. Bye.}
 
@@ -63,7 +63,7 @@
 {148}{}{From a village to the north west.}
 {149}{}{Oh. My mistake. Well, thanks. Bye.}
 
-{150}{mcs15a}{What's news… what's news…}
+{150}{mcs15a}{What's news... what's news...}
 {151}{mcs15b}{Well, gettin' kind of worried about one of our caravan guys. Chad. He might be skimming. You up to checking him out for me?}
 {152}{}{What's in it for me?}
 {153}{}{Sure. I'll do it.}
@@ -73,7 +73,7 @@
 {156}{mcs16}{My undying gratitude. Right?}
 {157}{}{Good enough for me.}
 {158}{}{No good. I want something.}
-{159}{}{How ‘bout more questions while I think it over.}
+{159}{}{How 'bout more questions while I think it over.}
 {160}{}{Let me think about it. Bye.}
 
 {161}{mcs17}{That ain't good enough for you? Then get out.}
@@ -90,12 +90,12 @@
 {170}{}{I have more questions.}
 {171}{}{Bye.}
 
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find ‘em. Tell me and I'll stuff ‘em back in.}
+{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
 {173}{}{Got anything else?}
 {174}{}{I have more questions.}
 {175}{}{Bye.}
 
-{176}{mcs21}{What exactly do you want? Okay. We've got some folks missing. No idea what's happened. Find ‘em, get $500.}
+{176}{mcs21}{What exactly do you want? Okay. We've got some folks missing. No idea what's happened. Find 'em, get $500.}
 {177}{}{I'll do it for free.}
 {178}{}{$500? Sounds good.}
 {179}{}{I don't have time.}
@@ -123,12 +123,12 @@
 {195}{mcs24}{Tunnels under the city? Guess it's not that surprising with the mines around. You'll keep looking around for those folks, right? }
 {196}{}{Right.}
 
-{197}{mcs25a}{They're dead? Damn… I'll tell the families myself. }
+{197}{mcs25a}{They're dead? Damn... I'll tell the families myself. }
 {198}{mcs25b}{Here's your reward. $500. Thanks for your time.}
 {199}{mcs25c}{Oh, hey, I know you said you'd do this for free, but take this as our thanks.}
 {200}{}{Sure.}
 
-{201}{mcs26}{Right. Me and my deputies will take it from here...And, thanks. I don't forget things like this.}
+{201}{mcs26}{Right. Me and my deputies will take it from here... And, thanks. I don't forget things like this.}
 {202}{}{No prob. Bye.}
 
 {203}{mcs27}{What is it people got against mutants? We'll be on the lookout. Thanks. The town owes you. And I never forget things like this.}
@@ -170,7 +170,7 @@
 {230}{mcs36}{Right. Well, never really HATED humans. We just had a better way. These new governments, they think they've got all the answers. Blah, blah. Been there, seen that, got the scars.}
 {231}{}{So what was the better way?}
 
-{232}{mcs37}{The Master wanted to elevate everyone to his level, so we wouldn't fight each other anymore. He was convinced we wouldn't do it by ourselves – couldn't. We had to be forced to evolve.}
+{232}{mcs37}{The Master wanted to elevate everyone to his level, so we wouldn't fight each other anymore. He was convinced we wouldn't do it by ourselves -- couldn't. We had to be forced to evolve.}
 {233}{}{Do you agree?}
 
 {234}{mcs38}{While Jacob was alive, I thought the Master was wrong. But it seems that while some men can heed the call and rise above it all, most just run away.}
@@ -190,13 +190,13 @@
 {245}{}{Interesting spin. I gotta go.}
 
 {246}{mcs41}{Don't forget, I knew the folks involved. They were the best humanity had to offer. Your people are going to tell the story a different way, right?}
-{247}{}{Err… maybe. Umm, I have more questions.}
+{247}{}{Err... maybe. Umm, I have more questions.}
 {248}{}{Wrong!}
 
 {249}{mcs42}{The "original Vault Dweller"? You mean the one who killed the Master and destroyed the vats?}
-{250}{}{Ummm… yes.}
+{250}{}{Ummm... yes.}
 {251}{}{Damn right. Gonna do something about it, mutie?}
-{252}{}{Nooo… this is someone else. I don't know what you're talking about.}
+{252}{}{Nooo... this is someone else. I don't know what you're talking about.}
 
 {253}{mcs43}{Not a problem. Like I said, that was a long time ago.}
 {254}{}{I'm not afraid of you.}
@@ -215,7 +215,7 @@
 {264}{}{Huh. You're a lot uglier this way. Bye.}
 {265}{}{Then you're fine. Bye.}
 
-{266}{mcs47}{It was flawed. We should have only taken the best. Look around. Most mutants didn't have the mind or will to withstand the strain. (sighs) If only we had chosen better…}
+{266}{mcs47}{It was flawed. We should have only taken the best. Look around. Most mutants didn't have the mind or will to withstand the strain. (sighs) If only we had chosen better...}
 {267}{}{So you would have dipped Jacob? Or the Vault Dweller?}
 {268}{}{Yeah, that's a tragedy. Well, see ya later!}
 
@@ -240,11 +240,11 @@
 
 # 104. Fear/Defeat Floats, are we using?
 {280}{}{That scares the living crap outta me.}
-{281}{}{Ain't much in the wasteland frightens me… that does.}
+{281}{}{Ain't much in the wasteland frightens me... that does.}
 
 # 105. Victory Floats, are we using?
 {282}{}{You must be as stupid as you look if you're gonna fight me.}
-{283}{}{Kickin' some ass… again.}
+{283}{}{Kickin' some ass... again.}
 {284}{}{It's almost too easy.}
 
 # 106. Combat Taunt Floats, are we using?
@@ -327,7 +327,7 @@
 {345}{}{I dunno.}
 {346}{}{Ow.}
 {347}{}{That really hurts.}
-{348}{}{That can't feel good…}
+{348}{}{That can't feel good...}
 
 # Player responces leading to pregnancy
 {349}{}{Uh... when you said 'I hope she doesn't get pregnant' in the Cat's Paw in New Reno,
@@ -408,7 +408,7 @@
 {639}{}{Uh... thanks, friend.}
 {640}{}{Err... thanks. I guess.}
 {641}{}{Thanks. I was thirsty.}
-{642}{}{Whoa...I feel a little funny.}
+{642}{}{Whoa... I feel a little funny.}
 {643}{}{I guess Francis was right about Jacob. That murderous bastard won't cause any more trouble in this town.}
 {644}{}{You have received a scoped hunting rifle.}
 # End of Floats

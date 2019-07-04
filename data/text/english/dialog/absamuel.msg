@@ -6,7 +6,7 @@
 {201}{}{*hickup* Hello again.}
 {202}{}{I'm just looking around. Do you tend to this graveyard?}
 {203}{}{Do you know a Father Tully?}
-{204}{}{Father Tully, you say? [He appears to be racking his brain trying to remember.] Yeah...I *hickup* 'member Tully.
+{204}{}{Father Tully, you say? [He appears to be racking his brain trying to remember.] Yeah... I *hickup* 'member Tully.
  How's that fella doin anyway? I 'aven't seen him since he was kicked out of 'ere long time *hiccup* long time ago.
  [He grins drunkenly as he reflects.] Boy he was a hoot. Him and me together, *hickup* what a combo.}
 {205}{}{He lives in New Reno now, preachin' the good word, er, something like that. You know, you two seem a lot alike.}
@@ -27,7 +27,7 @@
 
 #are you the keeper here?
 {400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
- not as bad as one might think. It's got its… perks, if you know what I mean. [He grins sloppily and wiggles his bushy
+ not as bad as one might think. It's got its... perks, if you know what I mean. [He grins sloppily and wiggles his bushy
  eyebrows at you.]}
  
 #new in RP 1.3
@@ -41,7 +41,7 @@
  or two, he smiles at you.]}
 {411}{}{Oh, of *course* that's what you meant. [Sigh of relief.] Let me ask you something else, though.}
 
-{420}{}{[His eyes go wide with shock and he seems to instantly sober.] That's not what I meant, you...you MONSTER! FIEND!
+{420}{}{[His eyes go wide with shock and he seems to instantly sober.] That's not what I meant, you... you MONSTER! FIEND!
  Get away from me! }
 {421}{}{Whatever, you drunk old fuck. You don't know what you're missing.}
 
@@ -60,7 +60,7 @@
 {505}{}{I see. Look I must be going.}
 
 #Need any help
-{600}{}{Hmm... *hickup* lemme...lemme tink a minute. Yeah, I might got somethin, if yer up to it.}
+{600}{}{Hmm... *hickup* lemme... lemme tink a minute. Yeah, I might got somethin, if yer up to it.}
 {601}{}{Uh, nevermind Sam. I must be going now.}
 {602}{}{Sure Sam, what do you need?}
 {603}{}{Well, th' past coupla days I've *hickup* noticed some of these graves are bein dug up. Now, whoever's doin this

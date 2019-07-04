@@ -3,7 +3,7 @@
 {102}{}{You see a young man barely out of his teens. He looks eager to please.}
 {103}{}{Welcome, stranger. I'm Deputy Karl. What can I do for you?}
 {104}{}{Such as?}
-{105}{}{Uh...nugh..}
+{105}{}{Uh... nugh..}
 {106}{}{I'm new to NCR. What can you tell me about your town?}
 {107}{}{Well, I'm looking for Vault 13.}
 {108}{}{President Tandi sent me over to talk to some prisoner you've got.}

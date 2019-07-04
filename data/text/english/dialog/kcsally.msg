@@ -96,12 +96,12 @@
 {293}{}{Thanks, but I think that I'll save my money for now.}
 
 {300}{}{You could use a bit of real scrubbing; don't you tribals know about soap? Oh well, that'll cost
- you $70 for the Brief Full Body Wash...but I'm sure that you'll be happy with the results.}
+ you $70 for the Brief Full Body Wash... but I'm sure that you'll be happy with the results.}
 {301}{}{Wow, $70! That seems like a lot. But I bet it's worth it. I'll try it.}
 {302}{}{What were the other bathing options?}
 {303}{}{I don't think that I want to pay for a bath after all.}
 
-{310}{}{Well I'm sure that your Round-the–World trip Servicing with beautiful Jenny will be an
+{310}{}{Well I'm sure that your Round-the--World trip Servicing with beautiful Jenny will be an
  experience that you'll savor for quite a while. A real bargain at only $125.}
 {311}{}{I can't wait to enjoy Jenny's special talents. Here's my $125.}
 {312}{}{Maybe I should hear about the other bath choices again.}

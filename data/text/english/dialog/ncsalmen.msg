@@ -26,12 +26,12 @@
 # 4. FLOAT DIALOGUE: PLAYER = MADE MAN, FA=NOT SALVATORE
 {180}{}{Well, if it isn't }
 {181}{}{You LOST, pal? You better get out of here.}
-{182}{}{This guy's asking for trouble…}
+{182}{}{This guy's asking for trouble...}
 {183}{}{Get out of here. Now.}
 {184}{}{Unless you're looking for trouble, you better leave right now.}
 {185}{}{Well, if it isn't }
 {186}{}{You LOST, girl? You better get out of here.}
-{187}{}{This chick's asking for trouble…}
+{187}{}{This chick's asking for trouble...}
 
 # 6. FLOAT DIALOGUE: POLITE [ARMED]
 {195}{}{No weapons allowed in here.}
@@ -125,7 +125,7 @@
 {307}{}{Take your business elsewhere, lover-boy.}
 
 # 21. CLICK [PORN STAR, FEMALE]
-{310}{}{I'm really sorry…really…but I haven't got time to talk right now. Stop by after work
+{310}{}{I'm really sorry... really... but I haven't got time to talk right now. Stop by after work
  if you're free then.}
 {311}{}{Breaks my heart, but I really can't talk right now.}
 {312}{}{C'mon now, you're distracting me, sweetheart.}
@@ -183,7 +183,7 @@
 {382}{}{That ghoul's asking to be a torch if it sticks around.}
 
 # END OF LINES
-{1180}{}{. His name's gonna be corpse if he doesn't get out of here…}
-{1185}{}{. Her name's gonna be corpse if she doesn't get out of here…}
+{1180}{}{. His name's gonna be corpse if he doesn't get out of here...}
+{1185}{}{. Her name's gonna be corpse if she doesn't get out of here...}
 {1278}{}{, but you better take it elsewhere.}
 {1279}{}{, but I'd take it somewhere else.}

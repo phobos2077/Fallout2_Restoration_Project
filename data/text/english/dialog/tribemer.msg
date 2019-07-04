@@ -67,7 +67,7 @@
 {275}{}{How much?}
 {276}{}{Practically giving them away? How much are you asking?}
 
-{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks—and all I ask in return is a measly *twenty*
+{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks--and all I ask in return is a measly *twenty*
  golden gecko pelts. You just can't beat a deal like that.}
 {281}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
 {282}{}{That's a good deal alright. Too good. What's the catch?}

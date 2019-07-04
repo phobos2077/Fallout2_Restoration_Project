@@ -19,9 +19,9 @@
 {302}{}{I don't think I need anything else.}
 {303}{}{Well then get the fuck outta here. You're trespassing and you ain't wanted.}
 {304}{}{I'm leaving.}
-{305}{}{Oh, I'll leave—but not until I've killed you and your buddies.}
+{305}{}{Oh, I'll leave--but not until I've killed you and your buddies.}
 
-{307}{}{As a matter of fact, he does. He's going to be entertaining some big shot from New Reno, and wanted a couple more girls for the occasion. But, hey if you can't spare any...I'm sure the boss will be thrilled when I return empty handed.}
+{307}{}{As a matter of fact, he does. He's going to be entertaining some big shot from New Reno, and wanted a couple more girls for the occasion. But, hey if you can't spare any... I'm sure the boss will be thrilled when I return empty handed.}
 {308}{}{[Sweat begins to form on the man's tattooed head.] Whoa, hold on a second. I never said I couldn't spare a few. In fact, here, take the key to the shack, that's where we keep our, uh, personal favorites. The pick of the litter, you might say. [He hands you a key and smiles nervously.]}
 {309}{}{Thanks. I'll put in a good word for you. Bye.}
 {310}{}{Metzger sent you, huh? Do I look blind to you? You're not even wearing our fuckin mark. I don't know who you are, but you're full of shit and you're wasting my time. For that, you die. [Signals to his men.] Let's waste this loser.}
@@ -36,7 +36,7 @@
 {600}{}{Now you die!}
 {601}{}{Die Ranger scum!}
 
-{800}{}{Umm...Give Metzger my regards.}
+{800}{}{Umm... Give Metzger my regards.}
 
 #RP 1.3
 {900}{}{No, actually, he sent me to have a look at your stock. You see, I have very particular tastes, but I'm willing to

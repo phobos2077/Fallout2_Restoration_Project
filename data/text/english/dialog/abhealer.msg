@@ -27,14 +27,14 @@
 {601}{}{I see. That's a lot of years to study all the pre-war medical books in the Abbey's library. You must be quite the doctor.}
 {602}{}{Where did you get all your medical equipment?}
 {603}{}{Interesting. I think I will be leaving now.}
-{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to...never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
+{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
 {605}{}{Ah, I see.}
 
 {700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
 {701}{}{Interesting, bye.}
 {702}{}{Do you think you could give me some of your meds? You seem to have plenty to spare.}
 {703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
-{704}{}{Because I tend to get hurt...a lot.}
+{704}{}{Because I tend to get hurt... a lot.}
 {705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
  I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
  much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}

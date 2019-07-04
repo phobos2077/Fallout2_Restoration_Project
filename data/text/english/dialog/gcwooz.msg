@@ -15,7 +15,7 @@
  are you looking for a GECK here? Try a Vault. }
 {121}{}{Where is the nearest Vault?}
 {122}{}{I'll show you dumb. Talking to me like that is dumb. I'm the Chosen One, you know.}
-{123}{}{Uh, well, I was going to… and I thought you might… oh, never mind. Goodbye.}
+{123}{}{Uh, well, I was going to... and I thought you might... oh, never mind. Goodbye.}
 
 {130}{}{A Garden of Eden Creation Kit? You mean the device included with every vault that is supposed
  to be used when the people leave the vault in order to reestablish civilization?}
@@ -113,7 +113,7 @@
 {271}{}{I knew that. I was just testing you. Gee, Wooz, you're so smart. Tell me something else.}
 {272}{}{I am not! You're the one that's dumb. I'm leaving. Goodbye.}
 
-{280}{}{(Wooz beckons you closer) Let me whisper in your ear…}
+{280}{}{(Wooz beckons you closer) Let me whisper in your ear...}
 {281}{}{Okay.}
 {282}{}{I don't think so; you're just trying to eat my brains, aren't you? I'm leaving. Goodbye.}
 
@@ -154,8 +154,8 @@
 
 {370}{}{Hello there. Looks like you're another Tragic player. Have time for a game? Or are ya yeller?
  I'm a-callin' you out.}
-{371}{}{I really don't have time for a… well, how long could one little game take…}
-{372}{}{Sure, just let me… No! Must stop. (your hand reaches for your deck, seemingly of its own
+{371}{}{I really don't have time for a... well, how long could one little game take...}
+{372}{}{Sure, just let me... No! Must stop. (your hand reaches for your deck, seemingly of its own
  volition) Noooooo!}
 
 {375}{}{I'd play Tragic with you but it looks like I'm all out of decks.}
@@ -169,7 +169,7 @@
  life? Goodbye.}
 
 {390}{}{Well, it's simple, really. Even someone dumb can understand it. First, you build a play deck out
- of the cards that you have, and then you…}
+ of the cards that you have, and then you...}
 {391}{}{Uh, huh. You say you deal to the third player unless it's Thursday? OK, I think I've got it now.
  Let's play.}
 {392}{}{Maybe I'll play later. Thanks for telling me how, though. Goodbye.}
@@ -219,29 +219,29 @@
 {481}{}{I didn't know that ghouls were especially musical.}
 {482}{}{Oh, I see. Heh, heh. Let me ask you something.}
 
-{490}{}{With silver-bells and cockleshells and… Boy, you are dumb, aren't you? Severe radiation. That's
+{490}{}{With silver-bells and cockleshells and... Boy, you are dumb, aren't you? Severe radiation. That's
  how. How do you think? You know, many bombs go boom, flash of light and heat, flesh burns off, but you
  don't-quite-die-type severe radiation?}
-{491}{}{Uh well, I mean…}
+{491}{}{Uh well, I mean...}
 
 {500}{}{Well, I didn't think so. Fuck you very much for bringing back all those intensely painful
- memories. Asshole. We're a town of fucking leftovers -— slightly overcooked leftovers.}
+ memories. Asshole. We're a town of fucking leftovers -- slightly overcooked leftovers.}
 {501}{}{I prefer medium-rare myself. Hey, let me ask you something else.}
 {502}{}{Well, I uh, um. Sorry. I'll just let you wallow in self-pity, then. Goodbye.}
 
-{510}{}{Well, usually I just pound on the hollow heads of my customers -— sort of like bongos. How the
+{510}{}{Well, usually I just pound on the hollow heads of my customers -- sort of like bongos. How the
  hell did they ever let you out of your village? You're a danger to yourself and others.}
 {511}{}{Bongos?}
 
 {520}{}{You fell out of the stupid tree and hit every damn branch on the way down, didn't you?}
-{521}{}{Tree? I guess I'm just not hip to your lingo… man. Uh, let me ask you something.}
+{521}{}{Tree? I guess I'm just not hip to your lingo... man. Uh, let me ask you something.}
 
 {530}{}{Yeah, it's a head. But it's not attached to a body. You see, it's been severed.}
 {531}{}{A severed head. I see. And this becomes entertaining when?}
 
 {540}{}{Just hold on a minute. This severed head, you see, it's in Hell. (hah, hah) And it flies around
- there, you know, in Hell. And it runs into all kinds of famous people there… (ho, ho, ho)}
-{541}{}{Wait, a severed head is in Hell, and it flies around…doing what?}
+ there, you know, in Hell. And it runs into all kinds of famous people there... (ho, ho, ho)}
+{541}{}{Wait, a severed head is in Hell, and it flies around... doing what?}
 
 {550}{}{Well, it's doing stuff. (hee, hee) You know. It's got, things that it wants to do, or maybe
  things it's forced to do. The point is, it's doing stuff, you know, there in Hell. Oh God, (hah, hah,
@@ -253,7 +253,7 @@
  How can you think about a severed head, in Hell of all places, and not laugh?}
 {561}{}{Wooz, I don't know you very well, and I'm pretty sure I don't want to. However, I think I can
  say, without fear of exaggeration, that you need help. Immediate, competent help. }
-{562}{}{Oh. I see. Why, yes. Of course; that's very funny. Heh heh. I just can't contain my amusement…
+{562}{}{Oh. I see. Why, yes. Of course; that's very funny. Heh heh. I just can't contain my amusement...
  But enough enjoyment -- oh, my splitting sides -- I need to ask you something.}
 
 {570}{}{Fuck you! You're just like all the rest of them. I tell, you it's hilariously funny. It's not my
@@ -285,11 +285,11 @@
 
 #added by killap
 {715}{}{Nah, maybe some other time Wooz. I got some questions though...}
-{716}{}{Hmmm...Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
+{716}{}{Hmmm... Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.}
 {717}{}{NEVER! BRING FORTH THE GARNERING!}
 {718}{}{MOOAHAHAHAH!!! I AM VICTORIOUS!}
 {719}{}{NOO!! HOW COULD I HAVE LOST!? Ahhhgghhhgh.}
-{720}{}{Yeah...just can't seem to stop. Just one more game...}
+{720}{}{Yeah... just can't seem to stop. Just one more game...}
 
 
 {721}{}{Yeah, Gamma Gulp Beer. You deaf or something?}

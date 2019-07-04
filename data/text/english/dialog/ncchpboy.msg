@@ -8,7 +8,7 @@
 {201}{}{Well, if ain't Mr. Fucking Coffee Can.}
 {202}{}{Anybody in that thing?}
 {203}{}{Can we get you anything? A beer? Some water? A danish?}
-{204}{}{I hope nothing's wrong, uh, sir…or ma'am. Whatever you are inside there.}
+{204}{}{I hope nothing's wrong, uh, sir... or ma'am. Whatever you are inside there.}
 {205}{}{Whatever's wrong, T-Ray's responsible. I'd see him.}
 {206}{}{Is that some kind of new car?}
 {207}{}{We don't want any trouble.}
@@ -23,7 +23,7 @@
 {224}{}{Would it be too much trouble for you to check under my hood?}
 {225}{}{Aw, hell, I look like crap, then you show up. Don't mind the grease, miss.}
 {226}{}{You looking for talent? T-Ray's in the back, so don't bother going there.}
-{227}{}{I knew I should have washed today…}
+{227}{}{I knew I should have washed today...}
 {228}{}{Check your oil? Heh-heh.}
 {229}{}{Wanna see my lil' grease monkey?}
 {230}{}{::Whistles::}
@@ -63,7 +63,7 @@
 {302}{}{Yeah, the Highwayman's not a bad car, but I'd rather have an Omni.}
 {303}{}{You looking to sell the Highwayman?}
 {304}{}{Go, greased lightning, go.}
-{305}{}{Grease is the word that I heard…dum dum dum dum…}
+{305}{}{Grease is the word that I heard... dum dum dum dum...}
 {306}{}{The Highwayman's a sweet car; Chryslus sure knew how to make them back then.}
 {307}{}{T-Ray's "working" in the back again. Lazy bastard.}
 {308}{}{I'm sick of picking up T-Ray's slack.}

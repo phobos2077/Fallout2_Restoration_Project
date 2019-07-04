@@ -67,7 +67,7 @@
 {159}{aeld15}{Then take this flask. It is from the holy Vault 13. Vic, a trader in Klamath,
  brought it to us. He may know where the vault is. You may also need some of what they
  call money. Here.}
-{160}{}{Uh… What was my quest again?}
+{160}{}{Uh... What was my quest again?}
 {161}{}{Is there more you can tell me?}
 {162}{}{Wish me luck, Elder, and I will not fail you.}
 {163}{aeld16}{Find Vic in Klamath. We are counting on you.}
@@ -101,7 +101,7 @@
 
 
 {200}{eeld1}{Chosen One! How did you get here?}
-{201}{}{Uhh… duh?}
+{201}{}{Uhh... duh?}
 {202}{}{I've come to rescue you.}
 {203}{}{What the hell's going on here?}
 {204}{eeld2}{You monster! Have you come to kill me, too?}
@@ -138,7 +138,7 @@
 {234}{eeld13}{That is what they call it. They stick needles into our skin, like stimpacks, but then terrible things happen. Then... (chokes up)}
 {235}{}{Then what?}
 {236}{}{This is going to make me sick, isn't it?}
-{237}{eeld13a}{Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not…}
+{237}{eeld13a}{Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not...}
 {238}{}{They'll pay.}
 {239}{}{That certainly was disgusting. What am I supposed to do?}
 

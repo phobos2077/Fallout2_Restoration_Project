@@ -1,4 +1,4 @@
-{100}{}{You see...a white hero model.}
+{100}{}{You see... a white hero model.}
 {101}{}{You see a heavily muscled white man in a Vault 13 jumpsuit. He is smiling and laughing as he
  tells his story.}
 {102}{}{You see a white hero model. He is smiling and laughing.}

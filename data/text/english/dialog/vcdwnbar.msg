@@ -31,7 +31,7 @@
 {130}{}{Look, take these and get out of here, okay? They ought to keep your mouth busy for a while.}
 {131}{}{Thankie wankie my stankie}
 {132}{}{Shamble off}
-{133}{}{Uh...what can I do for you, Captain?}
+{133}{}{Uh... what can I do for you, Captain?}
 {134}{}{What can I do for you, Citizen?}
 {135}{}{Yes? Can I help you?}
 {136}{}{You? Yoo? Yew? Yewwwww. E-yewwww is sound otherz make when see me}
@@ -40,10 +40,10 @@
 {139}{}{I was looking for some information.}
 {140}{}{I have that shipment of alcohol you wanted.}
 {141}{}{Nothing today, thanks.}
-{142}{}{That is perhaps the most fascinating thing I've ever heard. Hold on a second...I want the guards to hear it, too.}
+{142}{}{That is perhaps the most fascinating thing I've ever heard. Hold on a second... I want the guards to hear it, too.}
 {143}{}{Too? Tew. Tewwwww. Tewwww sexeee fur my clothez}
 {144}{}{Shamble off}
-{145}{}{We have synthetic beers and liquor...vodka-H, tequila derivatives W and W2. Oh, and water. And brahmin milk. Beer or liquor is ten bucks, water or milk's three bucks.}
+{145}{}{We have synthetic beers and liquor... vodka-H, tequila derivatives W and W2. Oh, and water. And brahmin milk. Beer or liquor is ten bucks, water or milk's three bucks.}
 {146}{}{Like...?}
 {147}{}{Uh, do you have any real alcohol?}
 {148}{}{I could go for some synthetic beer.}
@@ -54,7 +54,7 @@
 {153}{}{Actually, I was looking for some information.}
 {154}{}{I'll come back when I have more money.}
 {155}{}{I think I'll pass, thanks.}
-{156}{}{The brahmin milk's not on tap...well, not exactly. I'd have to go out and snag some really quick.}
+{156}{}{The brahmin milk's not on tap... well, not exactly. I'd have to go out and snag some really quick.}
 {157}{}{That's fine. I don't mind waiting. I just feel like having a refreshing glass of milk. Mmmmm-mmm. That would really hit the spot.}
 {158}{}{I think I'll try something else then.}
 {159}{}{Never mind then. Say, I was looking for some information...}
@@ -128,7 +128,7 @@
 {227}{}{Perhaps. Drinking synthetic alcohol can't really compare to the real thing.}
 {228}{}{Not really. I was looking for some information instead...}
 {229}{}{Not today.}
-{230}{}{That's for sure. I used to have a... well, I used to know this merchant who had a bottle of Maddog 30/30. Bitter stuff...couldn't feel my tongue afterwards, but it was refreshingly different.}
+{230}{}{That's for sure. I used to have a... well, I used to know this merchant who had a bottle of Maddog 30/30. Bitter stuff... couldn't feel my tongue afterwards, but it was refreshingly different.}
 {231}{}{What happened to this "merchant's" stash?}
 {232}{}{I was looking for some information.}
 {233}{}{I see. Well, it was good talking to you.}
@@ -153,7 +153,7 @@
 {252}{}{I wouldn't know anything about that. I only serve synthetic alcohol here. If any real alcohol were to enter Vault City, I wouldn't know anything about it.}
 {253}{}{Never mind then. I was looking for some information...}
 {254}{}{I see. Thanks anyway.}
-{255}{}{I...see. Well, uh, take care now. Okay?}
+{255}{}{I... see. Well, uh, take care now. Okay?}
 {256}{}{Thankie wankie my stankie}
 {257}{}{Shamble off}
 {258}{}{Zzzzzzzz.}

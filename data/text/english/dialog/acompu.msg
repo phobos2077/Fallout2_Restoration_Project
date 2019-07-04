@@ -52,14 +52,14 @@
  commands of Search, Add, Move, Delete, and Format are available to the user.}
 {142}{}{Format file system, including all backup databases on host and networked machines.}
 {143}{}{Back.}
-{144}{}{Formatting backup database...SUCCESS...Formatting current file system...WAITING...Warning: There has been a catastrophic error.
+{144}{}{Formatting backup database... SUCCESS... Formatting current file system... WAITING... Warning: There has been a catastrophic error.
  Please stand by...}
 {145}{}{Wait.}
 {146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
 {147}{}{[Walk Away.]}
 {148}{}{Error: No keyboard found. Please press any key to reboot.}
 
-{150}{}{Uploading Environmental Protection Agency Botany information disk...Upload complete. Have a nice day.}
+{150}{}{Uploading Environmental Protection Agency Botany information disk... Upload complete. Have a nice day.}
 
 {200}{}{Rock, Paper, Scissors V.0.3. Select an option.}
 {201}{}{Select ROCK.}

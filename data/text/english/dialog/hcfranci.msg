@@ -21,10 +21,10 @@
 {114}{}{I'll bet I could.}
 {115}{}{That good, huh?}
 
-{116}{}{What's to do in town? Well, let's see… there's the saloon, the mines, the refinery, and the
+{116}{}{What's to do in town? Well, let's see... there's the saloon, the mines, the refinery, and the
  caravan. We haven't got much time for fun here, and what we do have, we generally devote to drinking.
  Also, we work on human/mutant relations.}
-{117}{}{How… exciting.}
+{117}{}{How... exciting.}
 {118}{}{All right, thanks.}
 {119}{}{Human/mutant relations? What do you mean?}
 

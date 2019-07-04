@@ -8,9 +8,9 @@
 {153}{}{You see a casino bouncer. You thought only mutants got that big.}
 
 # 1. FLOAT DIALOGUE: POWER ARMOR
-{200}{}{Uh…you'll need to remove that armor...actually, nevermind.}
-{201}{}{Uh, sir…or ma'am…you'll need to remove that armor...uh, nevermind.}
-{202}{}{Sir…ma'am…you can't wear that in the casino...uh, unless you really want to. Nevermind.}
+{200}{}{Uh... you'll need to remove that armor... actually, nevermind.}
+{201}{}{Uh, sir... or ma'am... you'll need to remove that armor... uh, nevermind.}
+{202}{}{Sir... ma'am... you can't wear that in the casino... uh, unless you really want to. Nevermind.}
 
 # 2. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO, SNEAK
 {205}{}{Uh, why are you sneaking around, sir?}
@@ -51,7 +51,7 @@
 {250}{}{Ma'am, I'm sorry, you'll have to secure that weapon.}
 
 # 12. FLOAT DIALOGUE: PORN STAR, FEMALE (ARMED)
-{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh...you're deadly enough as it is.}
+{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh... you're deadly enough as it is.}
 
 # 13. FLOAT DIALOGUE: PORN STAR, FEMALE (SNEAK)
 {260}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
@@ -63,7 +63,7 @@
 {270}{}{Tribal, you better stop that sneaking around shit right NOW.}
 
 # 16. MYRON, MORDINO
-{275}{}{Hey, hey…Myron! Ain't seen you outside the lab in a long time.}
+{275}{}{Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
 {276}{}{You here to sample some of the new merchandise, Myron?}
 {277}{}{Hey! Come on in, Myron.}
 

@@ -47,7 +47,7 @@
 {146}{}{Yes, I do. Thanks for taking the time to help me out, Mr. Sullivan.}
 {147}{}{That was great. Let me give you $10 for some brew on me. It's the least I can do.}
 {148}{}{Yeah, I guess so. Thanks. Goodbye.}
-{149}{}{It was me very own pleasure. You take care o' yourself now. And if anyone asks...you just tell 'em that Fightin' John Sullivan taught you how to fight that way.}
+{149}{}{It was me very own pleasure. You take care o' yourself now. And if anyone asks... you just tell 'em that Fightin' John Sullivan taught you how to fight that way.}
 {150}{}{Will do, John. Thanks. Goodbye.}
 {151}{}{No, no, no. I could nay take money from ye. It was my very own pleasure to teach what I know. You take darn good care of yourself now. You've got real potential.}
 {152}{}{That's great, let me ask you one thing though. Where'd you learn how to fight like that?}

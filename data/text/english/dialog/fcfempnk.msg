@@ -50,7 +50,7 @@
 {149}{}{You did good with Chip's spleen.}
 {150}{}{How very selfless of you!}
 {151}{}{Suze is back! Good!}
-{152}{}{Suze is back...Damn!}
+{152}{}{Suze is back... Damn!}
 {153}{}{Suze was always really cool to me.}
 {154}{}{I like Suze.}
 {155}{}{Thanks for saving her.}

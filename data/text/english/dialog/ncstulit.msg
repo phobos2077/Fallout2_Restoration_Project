@@ -27,10 +27,10 @@
 {226}{}{Looking good, darling.}
 
 # 5. FLOAT DIALOGUES NORMAL (WTG)
-{230}{}{Need some new talent…}
-{231}{}{Sorry lead asses…}
-{232}{}{If I was just a little taller…}
-{233}{}{These guys all fight like bums…}
+{230}{}{Need some new talent...}
+{231}{}{Sorry lead asses...}
+{232}{}{If I was just a little taller...}
+{233}{}{These guys all fight like bums...}
 
 # 6. INTRO (WTG)
 {240}{}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) }
@@ -54,7 +54,7 @@
 {262}{}{Me no look pretty. U like men? Me willing}
 
 # 9. ME FIGHT A LOT. ME FIGHT YOU? (8)
-{270}{}{No, no…fight in the RING! You know, the ring? (Points at the boxing ring, makes jabbing motions in the air.)
+{270}{}{No, no... fight in the RING! You know, the ring? (Points at the boxing ring, makes jabbing motions in the air.)
  That something you might be interested in?}
 {271}{}{(Punch the tiny man in the face and take his lunch money)}
 {272}{}{Uh-huh}
@@ -68,16 +68,16 @@
 {283}{}{I'm an outtie}
 
 # 11. UH-HUH (9, 10)
-{290}{}{(Smiles.) All right, it's a done deal. Name's Stuart, most call me Stuart Little, but that's only cause…well, all YOU
+{290}{}{(Smiles.) All right, it's a done deal. Name's Stuart, most call me Stuart Little, but that's only cause... well, all YOU
  need to know is I'm big in all the important ways. You got a name, asshead?}
 {291}{}{Me }
-{292}{}{Me…uh…me…}
+{292}{}{Me... uh... me...}
 {293}{}{Me Big Stu}
 {296}{}{[Wander away in search of adventure.]}
 
 # 12. ALL RIGHT NAME (11)
-{300}{}{Me-a-me, huh? "Miami…" I LIKE it. I LIKE it. All right then, let's go do some damage.}
-{301}{}{(Frowns.) Wise-ass, huh? Hmmph…can't get no respect in this town. (Shrugs.) All right then, let's go do some
+{300}{}{Me-a-me, huh? "Miami..." I LIKE it. I LIKE it. All right then, let's go do some damage.}
+{301}{}{(Frowns.) Wise-ass, huh? Hmmph... can't get no respect in this town. (Shrugs.) All right then, let's go do some
  damage.}
 {302}{}{, huh? All right then, }
 {1302}{}{ let's go do some damage.}
@@ -100,7 +100,7 @@
 {328}{}{[Leave.]}
 {329}{}{(Stuart looks disgusted with you as you're hauled out of the ring.) }
 
-# 15. ANOTHER CHANCE…HELL NO (14, 24)
+# 15. ANOTHER CHANCE... HELL NO (14, 24)
 {330}{}{What, the Masticator bite your ears off, boy?! }
 {331}{}{What, the Masticator bite your ears off, girl?! }
 {332}{}{I said BEAT it! Get outta here!}
@@ -109,7 +109,7 @@
 {336}{}{[Hit the road.]}
 {337}{}{(Turns red.) }
 
-# 16. ANOTHER CHANCE…HELL NO (14, 24)
+# 16. ANOTHER CHANCE... HELL NO (14, 24)
 {340}{}{One more chance. I get 75%, no arguments. }
 {341}{}{One more chance. I still get 75%, no arguments. }
 {342}{}{Done. I'm ready to fight again right now. Lead on, Stuart.}
@@ -120,24 +120,24 @@
 
 # 17. RETARD/NORMAL WIN (WTG)
 {350}{}{(Stuart is smiling like a jackal.) Damn fine performance up there, }
-{1350}{}{…you doing all right, feeling all right? Let me know when you're ready for your next match.}
+{1350}{}{...you doing all right, feeling all right? Let me know when you're ready for your next match.}
 {351}{}{Me ready now READY TO DO SOME DAMAGE NOW NOW}
 {352}{}{Me take brief nap then me ready to fight again}
 {353}{}{Me want some ice cream}
 {355}{}{I'm ready. Let's get down to business.}
 {356}{}{Let me rest a little, then I'll be ready.}
-{357}{}{I think I'm done with this, Stuart…I saw my death up there in that ring, and it has me spooked. I'm hanging up the gloves.}
+{357}{}{I think I'm done with this, Stuart... I saw my death up there in that ring, and it has me spooked. I'm hanging up the gloves.}
 
 # 18. ICE CREAM (9, 10, 17)
-{360}{}{(The midget blinks, then frowns.) Ice…what?}
+{360}{}{(The midget blinks, then frowns.) Ice... what?}
 {361}{}{I scream, you scream, everybody screams for ice cream}
 {362}{}{Uh-uh. Ice CREAM}
 {363}{}{[Wander off in search of adventure.]}
 
 # 19. ICE CREAM (18)
 {370}{}{(The midget smiles uneasily.) }
-{371}{}{Well, I can get you some cream, pal…mostly of the whore or drug variety…but that's about it. }
-{372}{}{Well, I can get you some cream, honey…mostly of the male prostitute or drug variety…but that's about it. }
+{371}{}{Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. }
+{372}{}{Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. }
 {373}{}{Now you wanna fight or what?}
 {374}{}{Okay}
 {375}{}{Me want to rest a bit first.}
@@ -145,14 +145,14 @@
 
 # 20. NUH-UH/NAW (9, 10, 17, 19)
 {380}{}{Well, I ain't gonna force you, but it could have been a sweet deal, a rocket road to the top, a jackpot in the
- sky…come back if you change your mind. You're gold, kid.}
+ sky... come back if you change your mind. You're gold, kid.}
 
 # 21. WIN, FIGHT AGAIN (17, 24, 30, 31)
 {390}{}{All right then! Let's get this circus on the road!}
 {391}{}{[Follow him.]}
 
 # 22. WHO ARE YOU? (6, 40)
-{400}{}{Wha…you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? }
+{400}{}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? }
 {401}{}{Someone's done you a disservice not telling you about me, pal. }
 {402}{}{Someone's done you a disservice not telling you about me, darling. }
 {404}{}{Hmmmph. So. What's your name?}
@@ -171,8 +171,8 @@
 {420}{}{(Stuart nods.) }
 {421}{}{Awright, }
 {1421}{}{. Nice ta meet ya. }
-{422}{}{… }
-{1422}{}{… I like that. Pretty name. Well, it's a pleasure to meet you, }
+{422}{}{... }
+{1422}{}{... I like that. Pretty name. Well, it's a pleasure to meet you, }
 {3422}{}{. }
 {423}{}{What can I do for you?}
 {424}{}{I'm looking to box. Can you help me out?}
@@ -186,43 +186,43 @@
 {433}{}{Me wanta fight more}
 {434}{}{Th'sky. Byeee}
 {435}{}{I'm reeeeeeady to rumble.}
-{436}{}{Give me another chance, Stuart. I can GO the distance! C'mon…}
+{436}{}{Give me another chance, Stuart. I can GO the distance! C'mon...}
 {437}{}{Nothing. Just looking around.}
 
 # 25. OFFER TO BOX, PC DOESN'T MATCH UP (23, 33)
-{440}{}{You wanna BOX? Uh…awright, let me level with you, kid. You just don't look like you
+{440}{}{You wanna BOX? Uh... awright, let me level with you, kid. You just don't look like you
  have the frame for it.}
-{441}{}{You wanna BOX? Awright, now I've heard it all. Look, most job opportunities in Reno for women are…hmmm.
+{441}{}{You wanna BOX? Awright, now I've heard it all. Look, most job opportunities in Reno for women are... hmmm.
  Well, from the looks of it, maybe those jobs weren't cut out for you.}
 {442}{}{You wanna BOX? Awright, now I've heard it all. Look, not to be mean or nothing, it's just that boxing is an
- UGLY sport…and it makes people in it ugly, too. In your case, that would be a damn shame.}
+ UGLY sport... and it makes people in it ugly, too. In your case, that would be a damn shame.}
 {444}{}{Give me a chance, and I'll forget that LITTLE crack you just made.}
 {445}{}{Give me a chance, Stuart.}
 {446}{}{Oh, forget this brahmin shit. I'm out of here.}
 
 # 26. CHANCE (FAIL) (25)
-{450}{}{No, sorry, honey, too much of a risk…chances are, they wouldn't even let you fight. Now get
+{450}{}{No, sorry, honey, too much of a risk... chances are, they wouldn't even let you fight. Now get
  on home, 'kay?}
-{451}{}{No, sorry, pal, too much of a risk…it'd be a massacre. Now get on home, 'kay?}
+{451}{}{No, sorry, pal, too much of a risk... it'd be a massacre. Now get on home, 'kay?}
 {452}{}{There aren't any woman boxers, Stuart, and that's my point. You'll be the first agent sponsoring a woman boxer. People will
  come in DROVES to see it.}
-{453}{}{But that's just it, Stu…I can call you Stu, can't I?…it WOULD be a massacre. Do you know how much attention that would
+{453}{}{But that's just it, Stu... I can call you Stu, can't I?...it WOULD be a massacre. Do you know how much attention that would
  grab? It'd be like going to see an execution!}
 {454}{}{Oh, this is brahmin shit. I'm out of here.}
 
 # 27. CHANCE (FAIL AGAIN) (25, 26, 27)
-{460}{}{No, sorry, honey, too much of a risk…chances are, they wouldn't even let you fight. Now get
+{460}{}{No, sorry, honey, too much of a risk... chances are, they wouldn't even let you fight. Now get
  on home, 'kay?}
 {461}{}{No, sorry, pal, it wouldn't even be an entertaining massacre. Now get on home, 'kay?}
-{462}{}{It's a risk, sure…but you know, Stuart, I could *dress down* a little in the ring. Might draw more of a crowd than you're
- used to…}
+{462}{}{It's a risk, sure... but you know, Stuart, I could *dress down* a little in the ring. Might draw more of a crowd than you're
+ used to...}
 {463}{}{Oh, this is brahmin shit. I'm out of here.}
 
 # 28. STRONG FELLA, AGREES (23, 25, 26, 27, 33)
-{470}{}{Hmmmmm…awright, I'll give you a chance…but I ain't promising anything. This hurts business,
+{470}{}{Hmmmmm... awright, I'll give you a chance... but I ain't promising anything. This hurts business,
  even a little, and you're out. (Puts his hands on hips.) My take is half the winnings, no arguments.}
-{471}{}{Hmmmmm…I'll give you a chance…but I ain't promising anything; I'm doing you a favor
- taking some unknown under my wing. My take is half the winnings…no arguments.}
+{471}{}{Hmmmmm... I'll give you a chance... but I ain't promising anything; I'm doing you a favor
+ taking some unknown under my wing. My take is half the winnings... no arguments.}
 {472}{}{Done.}
 {473}{}{Cut your take down to 25%, and we got a deal.}
 {474}{}{Oh, this is brahmin shit. I'm out of here.}
@@ -230,23 +230,23 @@
 # 29. WE'VE REACHED AN AGREEMENT (28)
 {480}{}{(Stuart's frown deepens. He looks like he is about to protest, then he shakes his head with a smirk.) All right already!
  Now if yer ALL done whittling away my livelihood, let's talk management.}
-{481}{}{Okay…}
+{481}{}{Okay...}
 
 # 30. YOU'RE GONNA NEED A HANDLE (28, 29, 32)
-{490}{}{Awright… (Stuart looks you over.) Yer gonna need a name, y'know, a handle. Something that sounds tough. Mean. Like }
+{490}{}{Awright... (Stuart looks you over.) Yer gonna need a name, y'know, a handle. Something that sounds tough. Mean. Like }
 {1490}{}{ the Hurricane, }
 {2490}{}{ the Brawler, y'know.}
 
 # 31. SPECIAL HANDLE (30)
 {500}{}{(The midget frowns.) Didn't he die against that Russian guy way back when? Aw, whatever. Shall we hit the ring?}
 {501}{}{(The midget smirks.) Looks like you and the "Masticator" will be getting along just fine. Just don't bite off too many
- ears. Well…shall we hit the ring?}
-{502}{}{(The midget smirks.) You don't look Russian. But whatever works for you…shall we hit the ring?}
-{503}{}{(The midget smirks.) "Pity the fo," huh? Well, okay…but let's hope YOUR career goes somewhere. Shall we head to the ring?}
-{504}{}{(The midget smirks.) Eye of the Tiger, huh? "Aaaydrian," "Aaaaydrian…" Heh-heh. I like it…lot of weight associated with it.
+ ears. Well... shall we hit the ring?}
+{502}{}{(The midget smirks.) You don't look Russian. But whatever works for you... shall we hit the ring?}
+{503}{}{(The midget smirks.) "Pity the fo," huh? Well, okay... but let's hope YOUR career goes somewhere. Shall we head to the ring?}
+{504}{}{(The midget smirks.) Eye of the Tiger, huh? "Aaaydrian," "Aaaaydrian..." Heh-heh. I like it... lot of weight associated with it.
  Shall we head to the ring?}
 {505}{}{(The midget nods.) }
-{2505}{}{… not bad, not bad. It fits. (Nods at the ring.) Shall we get to it, then? You ready?}
+{2505}{}{... not bad, not bad. It fits. (Nods at the ring.) Shall we get to it, then? You ready?}
 {506}{}{Let's do it.}
 
 # 32. WE HAVE NOT REACHED AN AGREEMENT (28)
@@ -263,11 +263,11 @@
 
 # 34. DONE MUCH CIRCUS WORK IN YOUR LIFE? (33)
 {530}{}{And what makes you think I've ever spectated a circus, much less been enslaved by one?}
-{531}{}{Uh…well, I know that many of the citizens of New Reno act like they came out of a circus, and I thought…}
+{531}{}{Uh... well, I know that many of the citizens of New Reno act like they came out of a circus, and I thought...}
 
 # 35. DONE MUCH CIRCUS WORK IN YOUR LIFE? (34)
 {540}{}{YOU thought because I'm a person of short stature, the only career I could procure would be confined to the so-called 'big top.'}
-{541}{}{Uh…well, now…}
+{541}{}{Uh... well, now...}
 
 # 36. DONE MUCH CIRCUS WORK IN YOUR LIFE? (35)
 {550}{}{You took one QUICK look at me and thought you could deduce my entire life. It would never have occurred to you that a
@@ -277,7 +277,7 @@
 # 37. I MEANT NO OFFENSE . . . (36)
 {560}{}{Why should I take offense? Just because it seems to be the habit of everyone in this game to make instantaneous judgments
  of other NPCs based solely on their physical appearance?}
-{561}{}{Well, I don't know about an INSTANTANEOUS judgment…}
+{561}{}{Well, I don't know about an INSTANTANEOUS judgment...}
 
 # 38. . . . (37)
 {570}{}{Why, I've done the same thing to you, for example.}
@@ -297,12 +297,12 @@
 {600}{}{I've taken in your ridiculously overly-muscled physique, your gritty Mad Maxx wanna-be demeanor, your unimaginative
  character point allocation and concluded you are a mini-maxing munchkin.}
 {601}{}{I've taken in your over-pixilated breasts, your ridiculous sashay when you walk, your unimaginative character point
- allocation and concluded you are a mini-maxing Laura Kroft wannabe…a "munchkin."}
-{602}{}{I…}
+ allocation and concluded you are a mini-maxing Laura Kroft wannabe... a "munchkin."}
+{602}{}{I...}
 
 # 42. . . . (41)
 {610}{}{You are nothing more than a typical 'RPG male hero model,' if you will, one of MANY such models that seems to fill this
  world in droves.}
 {611}{}{You are nothing more than a typical 'RPG female hero model,' if you will, one of MANY such models that seems to fill this
  world in droves.}
-{612}{}{Well…}
+{612}{}{Well...}

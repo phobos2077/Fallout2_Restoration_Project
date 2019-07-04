@@ -22,7 +22,7 @@
 {121}{}{You're slaver scum! Why shouldn't I kill you?}
 {122}{}{I heard there's these guys - New California Rangers. They been giving you any trouble?}
 {123}{}{Mind if I have a look around?}
-{124}{}{Work? Well...there might be something. You ever hear of the New California Rangers?}
+{124}{}{Work? Well... there might be something. You ever hear of the New California Rangers?}
 {125}{}{Yes.}
 {126}{}{No.}
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}

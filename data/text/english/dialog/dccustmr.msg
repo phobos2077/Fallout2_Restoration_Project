@@ -40,7 +40,7 @@
 {316}{}{That Dyer sure knows her stuff.}
 {317}{}{Nothing like good drinks and good company.}
 {318}{}{Only trouble with Becky's drinks is you tend to drink to many!}
-{319}{}{Becky… I mean Rebecca sure is a sweetheart.}
+{319}{}{Becky... I mean Rebecca sure is a sweetheart.}
 {320}{}{If anyone ever lays a finger on her, they'll regret it.}
 {321}{}{This is some good stuff.}
 
@@ -52,7 +52,7 @@
 {345}{}{The Den isn't the same without Becky's.}
 
 # 4. Frankie's
-{360}{}{Frankie's is truly a hole… in the wall, that is.}
+{360}{}{Frankie's is truly a hole... in the wall, that is.}
 {361}{}{I like the Hole better than Becky's.}
 {362}{}{We call this place the Hole.}
 {363}{}{Take a seat. Oh, wait. Maybe not.}
@@ -88,7 +88,7 @@
 {435}{}{Not surprised really. A lot of people have been sore with Tubby lately.}
 
 # 6. Flick
-{440}{}{Nothing I'm interested in today…}
+{440}{}{Nothing I'm interested in today...}
 {441}{}{Oh, hi. Just talking to my good friend Flick.}
 {442}{}{What are you doing in here?}
 {443}{}{You a friend of Flick's, too?}
@@ -118,6 +118,6 @@
 {500}{}{How could you have hurt poor old Mom?}
 {501}{}{I've known, I mean, knew Mom all my life.}
 {502}{}{What did she ever do to you?}
-{503}{}{Murderer! Poor Mom…}
+{503}{}{Murderer! Poor Mom...}
 {504}{}{Why did you have to do that?}
 {505}{}{You heartless monster!}
