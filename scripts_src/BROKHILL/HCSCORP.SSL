@@ -25,11 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-
-//Overrides the pickup p proc.
-#define NPC_REACTION_TYPE       REACTION_TC /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
-#define NPC_REACTION_VAR        7 /* same as thief variable */
-
+ 
 #include "..\headers\define.h"
 #include "..\headers\Broken2.h"
 
@@ -153,9 +149,12 @@ end
    In here, various things can happen. The most common response is instant hostility which
    will be remembered. */
 procedure pickup_p_proc begin
-   if (source_obj == dude_obj) then begin
-       set_local_var(LVAR_Hostile,2);
-   end
+   /// allow 1 failed attempt
+   if LVAR_Caught_Thief == 0 then begin
+      float_msg(self_obj, mstr(106), FLOAT_MSG_WARNING); // Hiss!
+      set_local_var(LVAR_Caught_Thief, 1);
+   end else
+   if (source_obj == dude_obj) then set_local_var(LVAR_Hostile,2);
 end
 
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
@@ -199,10 +198,12 @@ procedure talk_p_proc begin
       floater(109);
    else if( val == 5 ) then
       floater(110);
-   else if( val == 6 ) then
-      float_msg( professor_obj, mstr(111), FLOAT_MSG_NORMAL);
-   else if( val == 7 ) then
-      float_msg( professor_obj, mstr(112), FLOAT_MSG_NORMAL);
+   else if (professor_obj and not is_critter_dead(professor_obj)) then begin
+      if (val == 6) then
+         float_msg( professor_obj, mstr(111), FLOAT_MSG_NORMAL);
+      else if( val == 7 ) then
+         float_msg( professor_obj, mstr(112), FLOAT_MSG_NORMAL);
+   end
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
