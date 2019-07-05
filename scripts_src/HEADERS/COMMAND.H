@@ -1257,4 +1257,14 @@ procedure is_human(variable who) begin
    return false;
 end
 
+procedure is_lockpick(variable item) begin
+   switch (obj_pid(obj_being_used_with)) begin
+      case PID_LOCKPICKS: return true;
+      case PID_EXP_LOCKPICK_SET: return true;
+      case PID_ELECTRONIC_LOCKPICKS: return true;
+      case PID_ELEC_LOCKPICK_MKII: return true;
+      default: return false;
+   end
+end
+
 #endif // COMMAND_H
