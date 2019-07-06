@@ -13,7 +13,7 @@ If you've found an issue:
     * **Typo**. Attach a screenshot, explain what's wrong in the wording and how it should be corrected. (Screenshot key is F12).
     * **Quest bug**. Explain the problem. Attach **two** savegames: one where the problem can be seen right away, another one _right before_ starting the quest. Indicate if any other mods are installed, and their versions.
     * **Crash**. See [reporting crashes](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/docs/CRASH.md).
-    * **Something else**. Use your best judgement. Provide as much into as possible.
+    * **Something else**. Use your best judgement. Provide as much info as possible.
 
 **Additional notes:**
 - The best way to get the issue fixed is to submit a pull request.
