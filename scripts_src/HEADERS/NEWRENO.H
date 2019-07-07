@@ -2018,6 +2018,7 @@ variable hs_temp;
 
 #define told_to_move_out                        get_new_reno_flag(told_to_move_out_bit, 2)
 #define set_told_to_move_out                    set_new_reno_flag_on(told_to_move_out_bit, 2)
+#define unset_told_to_move_out                  set_new_reno_flag_off(told_to_move_out_bit, 2)
 
 #define hs_assignment_tile                      (22319)
 #define safe_distance                           (3)

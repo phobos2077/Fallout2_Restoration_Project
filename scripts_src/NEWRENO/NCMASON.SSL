@@ -400,6 +400,7 @@ procedure Node982 begin
 end
 procedure Node981 begin
    set_guard_assignment(guard_assignment_assigned);
+   unset_told_to_move_out;
    load_map(MAP_NEW_RENO_VB, 0);
 end
 procedure Node980 begin
