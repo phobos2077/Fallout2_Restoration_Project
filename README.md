@@ -12,7 +12,7 @@ If you've found an issue:
 1. Next, depending on the problem type:
     * **Typo**. Attach a screenshot, explain what's wrong in the wording and how it should be corrected. (Screenshot key is F12).
     * **Quest bug**. Explain the problem. Attach **two** savegames: one where the problem can be seen right away, another one _right before_ starting the quest. Indicate if any other mods are installed, and their versions.
-    * **Crash**. See [reporting crashes](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/docs/CRASH.md).
+    * **Crash**. See [reporting crashes](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CRASH.md).
     * **Something else**. Use your best judgement. Provide as much info as possible.
 
 **Additional notes:**
