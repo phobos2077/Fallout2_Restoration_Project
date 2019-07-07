@@ -73,6 +73,7 @@ end
 // Allows Myron or some other science geek to use the
 // terminal -- useful if the player wants to suicide.
 procedure use_skill_on_p_proc begin
+   script_overrides;
    if (action_being_used == SKILL_SCIENCE) then call use_p_proc;
 end
 //end added
