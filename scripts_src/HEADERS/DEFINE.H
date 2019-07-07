@@ -23,6 +23,10 @@
 #include "..\headers\Party.h"
 #include "..\headers\Reaction.h"
 
+#include "..\headers\sfall\sfall.h"
+#include "..\headers\sfall\lib.arrays.h"
+
+
 // script.h: Script Procedure Types //
 #define no_proc           (0)
 #define start_proc        (1)
