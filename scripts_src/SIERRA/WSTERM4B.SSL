@@ -35,6 +35,13 @@ procedure Node011a;
 procedure Node011b;
 procedure Node012;
 procedure Node013;
+procedure Node013a;
+procedure Node013b;
+procedure Node013c;
+procedure Node013d;
+procedure Node013e;
+procedure Node013f;
+procedure Node013g;
 procedure Node014;
 
 procedure Node999;
@@ -44,6 +51,14 @@ procedure use_skill_on_p_proc;
 #define LVAR_Organ                      (0) // Only used for text output. The machine is hardwired to extract brains only, see Sierra Experiment Log.
 #define LVAR_Species                    (1)
 #define LVAR_Gave_Xp                    (2)
+
+#define Organ_Brain                     (0)
+#define Organ_Heart                     (1)
+#define Organ_Kidney                    (2)
+#define Organ_Liver                     (3)
+#define Organ_Lung                      (4)
+#define Organ_Appendix                  (5)
+#define Organ_Colon                     (6)
 
 #define Species_Human                   (0)
 #define Species_Canine                  (1)
@@ -184,14 +199,50 @@ end
 procedure Node013 begin
    Reply(mstr(132)+mstr(133)+mstr(134)+mstr(135)+mstr(136)+mstr(137)+mstr(138)+mstr(139));
 
-   NOption(140,Node012,004);
-   NOption(141,Node012,004);
-   NOption(142,Node012,004);
-   NOption(143,Node012,004);
-   NOption(144,Node012,004);
-   NOption(145,Node012,004);
-   NOption(146,Node012,004);
+   NOption(140,Node013a,004);
+   NOption(141,Node013b,004);
+   NOption(142,Node013c,004);
+   NOption(143,Node013d,004);
+   NOption(144,Node013e,004);
+   NOption(145,Node013f,004);
+   NOption(146,Node013g,004);
    NOption(147,Node999,004);
+end
+
+
+procedure Node013a begin
+   set_local_var(LVAR_Organ,Organ_Heart);
+   call Node012;
+end
+
+procedure Node013b begin
+   set_local_var(LVAR_Organ,Organ_Brain);
+   call Node012;
+end
+
+procedure Node013c begin
+   set_local_var(LVAR_Organ,Organ_Kidney);
+   call Node012;
+end
+
+procedure Node013d begin
+   set_local_var(LVAR_Organ,Organ_Liver);
+   call Node012;
+end
+
+procedure Node013e begin
+   set_local_var(LVAR_Organ,Organ_Lung);
+   call Node012;
+end
+
+procedure Node013f begin
+   set_local_var(LVAR_Organ,Organ_Appendix);
+   call Node012;
+end
+
+procedure Node013g begin
+   set_local_var(LVAR_Organ,Organ_Colon);
+   call Node012;
 end
 
 procedure get_critters_in_room begin
