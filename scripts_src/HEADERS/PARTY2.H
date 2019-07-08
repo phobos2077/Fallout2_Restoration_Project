@@ -3,8 +3,6 @@
 
 // needs defines from define.h, so included late
 
-#include "..\headers\sfall\sfall.h"
-
 procedure party_size_humans begin
    variable n := 0, type, who;
    foreach who in party_member_list_critters begin

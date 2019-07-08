@@ -24,7 +24,6 @@
 #include "..\headers\Reaction.h"
 
 #include "..\headers\sfall\sfall.h"
-#include "..\headers\sfall\lib.arrays.h"
 
 
 // script.h: Script Procedure Types //
