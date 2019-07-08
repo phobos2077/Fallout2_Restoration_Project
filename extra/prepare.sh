@@ -3,7 +3,7 @@
 set -xeu -o pipefail
 
 mpack_file="modderspack_$mpack_version.7z"
-mpack_url="https://sourceforge.net/projects/sfall/files/sfall/Modders%20pack/$mpack_file/download"
+mpack_url="https://sourceforge.net/projects/sfall/files/Modders%20pack/$mpack_file/download"
 compile_exe="compile.exe"
 mpack_compile="ScriptEditor/resources/$compile_exe"
 
