@@ -1,10 +1,3 @@
-/*
-	Script for critter tmplete
-*/
-
-
-
-
 /* Include Files */
 #include "..\headers\define.h"
 #include "..\headers\DEN.h"
@@ -45,7 +38,7 @@ procedure NodeBarter;
 #define LVAR_Restock_Time               (8)
 #define LVAR_Restock_Time_Fix           (9)
 
-variable dealer :=0;
+variable dealer := 0;
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -88,16 +81,16 @@ end
 
 procedure look_at_p_proc begin
    script_overrides;
-   display_msg(mstr(100));
-
+   if dealer then display_msg(mstr(100));
+   else display_msg(mstr(200));
 end
 
 
 procedure description_p_proc begin
    script_overrides;
-   display_msg(mstr(101));
+   if dealer then display_msg(mstr(101));
+   else display_msg(mstr(201));
 end
-
 
 
 procedure use_skill_on_p_proc begin
