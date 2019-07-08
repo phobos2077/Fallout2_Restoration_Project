@@ -101,7 +101,7 @@ procedure Node995;
 #define no_hey                            (karl_flag_state(no_hey_bit))
 #define give_karl_money(x)                item_caps_adjust(self_obj,x);                      \
                                           set_karl_flag_state(karl_gave_money_bit, true)     \
-                                          item_caps_adjust(dude_obj,-x)
+                                          item_caps_adjust(dude_obj,-(x))
 #define set_passed_out(x)                 if (x == true) then begin                                                           \
                                              if (local_var(LVAR_Passed_Out) == 0) then begin                                  \
                                                 reg_anim_clear(self_obj);                                                     \
