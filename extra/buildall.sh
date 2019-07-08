@@ -46,5 +46,5 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   wget -q "$sfall_url" -O sfall.7z
   7z e sfall.7z ddraw.dll
   mv ddraw.dll $dst/
-  zip -r "$name.zip" mods # our package
+  zip -r "$mod_name.zip" mods # our package
 fi
