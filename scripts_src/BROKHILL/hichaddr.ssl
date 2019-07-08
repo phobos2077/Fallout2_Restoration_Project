@@ -28,22 +28,29 @@ procedure description_p_proc begin
 	display_mstr(101);
 end
 
-procedure use_skill_on_p_proc begin
-	if (action_being_used == SKILL_LOCKPICK) then begin
-		if (global_var(GVAR_CHAD_EVIDENCE_TIP) == 1) then begin
-			script_overrides;
-			set_local_var(LVAR_Unlocked, 1);
-			obj_unlock(self_obj);
-			display_mstr(103);
-		end
-		else begin
-			script_overrides;
-			display_mstr(104);
-		end
+procedure try_unlock begin
+	if (global_var(GVAR_CHAD_EVIDENCE_TIP) == 1) then begin
+		script_overrides;
+		set_local_var(LVAR_Unlocked, 1);
+		obj_unlock(self_obj);
+		display_mstr(103);
+	end else begin
+		script_overrides;
+		display_mstr(104);
 	end
 end
 
 procedure damage_p_proc begin
 	script_overrides;
 	display_mstr(106);
+end
+
+procedure use_skill_on_p_proc begin
+	if (action_being_used == SKILL_LOCKPICK) then call try_unlock;
+	else display_msg(g_mstr(20000)); // that does nothing
+end
+
+procedure use_obj_on_p_proc begin
+	if is_lockpick_mech(obj_being_used_with) then call try_unlock;
+  else display_msg(g_mstr(20000)); // that does nothing
 end

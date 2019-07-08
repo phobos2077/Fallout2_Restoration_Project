@@ -1257,15 +1257,27 @@ procedure is_human(variable who) begin
    return false;
 end
 
-procedure is_lockpick(variable item) begin
-   switch (obj_pid(obj_being_used_with)) begin
-      case PID_LOCKPICKS: return true;
-      case PID_EXP_LOCKPICK_SET: return true;
+
+procedure is_lockpick_elec(variable item) begin
+   switch (obj_pid(item)) begin
       case PID_ELECTRONIC_LOCKPICKS: return true;
       case PID_ELEC_LOCKPICK_MKII: return true;
       default: return false;
    end
 end
+procedure is_lockpick_mech(variable item) begin
+   switch (obj_pid(item)) begin
+      case PID_LOCKPICKS: return true;
+      case PID_EXP_LOCKPICK_SET: return true;
+      default: return false;
+   end
+end
+procedure is_lockpick(variable item) begin
+   if is_lockpick_mech(item) then return true;
+   if is_lockpick_elec(item) then return true;
+   return false;
+end
+
 
 #define is_critter(obj)    (obj_type(obj) == OBJ_TYPE_CRITTER)
 #define ndebug(message)    debug_msg(NAME + ": " + message + "\n")
