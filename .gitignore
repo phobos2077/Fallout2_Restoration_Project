@@ -6,3 +6,4 @@ data/art
 *.err
 *.tmp
 *.log
+extra/bin
