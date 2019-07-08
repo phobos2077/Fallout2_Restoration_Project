@@ -1,4 +1,4 @@
-## Fallout 2 Restoration Project
+## Fallout 2 Restoration Project, updated
 
 [![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Restoration_Project.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Restoration_Project)
 
