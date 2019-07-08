@@ -883,18 +883,18 @@
 #define GVAR_SAINT_NICK_LINE                      (725)
 
 // Abbey cont.
-#define GVAR_ABBEY_KNOWLEDGE_EPA		  (726)
-#define GVAR_ABBEY_KNOWLEDGE			  (727)
+#define GVAR_ABBEY_KNOWLEDGE_EPA                  (726)
+#define GVAR_ABBEY_KNOWLEDGE                      (727)
 
-#define GVAR_DEN_ORPHANAGE			  (728)
+#define GVAR_DEN_ORPHANAGE                        (728)
 #define GVAR_DEN_ORPHANAGE_BUILD_TIME             (729)
 
 //Gecko Enclave Encounter
-#define GVAR_ENCLAVE_SENT			  (730)
+#define GVAR_ENCLAVE_SENT                         (730)
 
 //Abbey cont.
-#define GVAR_ABBEY_BOOZE			  (731)
-#define GVAR_ABBEY_LIGHTER			  (732)
+#define GVAR_ABBEY_BOOZE                          (731)
+#define GVAR_ABBEY_LIGHTER                        (732)
 
 //Tribe cont.
 #define GVAR_TRIBE_FIREWOOD                       (733)
@@ -903,12 +903,12 @@
 #define GVAR_KLAMATH_FIND_RUSTLERS                (734)
 
 //Town reps
-#define GVAR_TOWN_REP_SLAVER_CAMP	          (735)
+#define GVAR_TOWN_REP_SLAVER_CAMP                 (735)
 #define GVAR_TOWN_REP_HUBOLOGIST_STASH            (736)
-#define GVAR_TOWN_REP_VAULT_VILLAGE		  (737)
+#define GVAR_TOWN_REP_VAULT_VILLAGE               (737)
 
 //EPA
-#define GVAR_FOUND_EPILEPSY_CURE	          (738)
+#define GVAR_FOUND_EPILEPSY_CURE                  (738)
 #define GVAR_FIX_HOLOGRAM00000                    (739)
 #define GVAR_FIX_VOICECOMP                        (740)
 #define GVAR_VAULT_VILLAGE_FLAGS                  (741)
@@ -941,24 +941,24 @@
 #define GVAR_RND_ENCOUNTER_FLAGS                  (768)
 #define GVAR_REDDING_GENPES_COUNT                 (769)
 #define GVAR_TMP_GLOBAL_VAR                       (770)
-#define GVAR_V15_DOC_FREE                   	  (771)
+#define GVAR_V15_DOC_FREE                         (771)
 #define GVAR_EASTER_EGG_ENCOUNTER                 (772)
-#define GVAR_PLAYER_SMOKER			  			  (773)
+#define GVAR_PLAYER_SMOKER                        (773)
 #define GVAR_MERCHANT_MEETING                     (774)
 #define GVAR_TEST_SOLAR_SCORCHER                  (775)
 #define GVAR_ABBEY_FORMAT_DATABASES               (776)
 #define GVAR_ABBEY_ESCORT_BROTHER_JASON           (777)
-#define GVAR_NEED_ERSI                   		  (778)
-#define GVAR_CHAR_MOD                   		  (779)
-#define GVAR_CAR_OUTTA_POWER_FIX	          	  (780)
+#define GVAR_NEED_ERSI                            (778)
+#define GVAR_CHAR_MOD                             (779)
+#define GVAR_CAR_OUTTA_POWER_FIX                  (780)
 #define GVAR_TRIBE_SHAMAN_HERBS                   (781)
 #define GVAR_SHI_FIND_DR_SHENG                    (782)
 #define GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG        (783)
 #define GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG   (784)
 #define GVAR_SHI_ELIMINATE_DR_SHENG               (785)
 #define GVAR_SHI_ELIMINATE_DR_WONG                (786)
-#define GVAR_MET_SEYMOUR                   		  (787)
-#define GVAR_WOOZ_STATUS                   		  (788)
+#define GVAR_MET_SEYMOUR                          (787)
+#define GVAR_WOOZ_STATUS                          (788)
 #define GVAR_CLEAR_OUT_DR_SHENG_LAB               (789)
 #define GVAR_WESTIN_HEART_TROUBLE                 (790)
 
