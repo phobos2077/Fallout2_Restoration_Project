@@ -9,6 +9,7 @@ bin_dir="$(realpath $extra_dir/bin)"
 skip_list="$(realpath $extra_dir/skip.list)"
 
 mkdir -p "$dst"
+pushd .
 
 function process_file() {
   f="$1"
@@ -30,6 +31,7 @@ for d in $(ls $src); do
     cd ..
   fi
 done
+popd # return to repo root
 
 
 # release?
