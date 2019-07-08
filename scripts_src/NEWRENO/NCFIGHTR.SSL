@@ -223,7 +223,7 @@ variable the_punch;
                            if (random(1,7) == 2) then begin
                               if (self_is_armed) then begin
                                  inven_unwield(self_obj);
-                              end else if (self_fid == FID_BOXER) then begin
+                              end else if (self_fid == FID_NMBOXX) then begin
                                  if (obj_is_carrying_obj_pid(self_obj, PID_SPECIAL_BOXER_WEAPON) > 0) then begin
                                     wield_obj(obj_carrying_pid_obj(self_obj, PID_SPECIAL_BOXER_WEAPON));
                                  end
@@ -274,7 +274,7 @@ variable the_cnt;
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BOXER);
          set_local_var(LVAR_Hit_Points, boxer_starting_hp);
          set_local_var(LVAR_Home_Tile, self_tile);
-         if (self_fid == FID_BOXER) then begin
+         if (self_fid == FID_NMBOXX) then begin
             give_pid_qty(self_obj, PID_SPECIAL_BOXER_WEAPON, 1)
          end
       end else if (boxer_killed) then begin
