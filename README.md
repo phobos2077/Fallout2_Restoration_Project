@@ -1,6 +1,8 @@
 ## Fallout 2 Restoration Project
 
-This is an update for killap's Fallout 2 Restoration Project 2.3.3. It is not an independent mod, it installs on top of RP.
+[![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Restoration_Project.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Restoration_Project)
+
+This is an update for [killap's Restoration Project](http://killap.net/) for Fallout 2. This is _not_ an independent mod, it should be installed on top of RP 2.3.3.
 
 ### Reporting bugs
 If you've found an issue:
