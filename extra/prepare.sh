@@ -2,11 +2,10 @@
 
 set -xeu -o pipefail
 
-mpack_version="4.1.8"
 mpack_file="modderspack_$mpack_version.7z"
-mpack_url="https://datapacket.dl.sourceforge.net/project/sfall/Modders%20pack/$mpack_file"
-mpack_compile="ScriptEditor/resources/compile.exe"
+mpack_url="https://sourceforge.net/projects/sfall/files/sfall/Modders%20pack/$mpack_file/download"
 compile_exe="compile.exe"
+mpack_compile="ScriptEditor/resources/$compile_exe"
 
 sfse_url="http://www.nma-fallout.com/resources/sfall-script-editor.77/download?version=181"
 sfse_file="sfse.rar"
@@ -25,8 +24,8 @@ sudo apt-get -q -y --no-install-recommends install winehq-stable p7zip p7zip-ful
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/$compile_exe" ]]; then
-  wget "$mpack_url"
-  7z e "$mpack_file" "$mpack_compile"
+  wget -q "$mpack_url" -O mpack.7z
+  7z e mpack.7z "$mpack_compile"
   mv -f "$compile_exe" "$cache_dir/"
 fi
 # copy
@@ -34,7 +33,7 @@ cp -f "$cache_dir/$compile_exe" "$bin_dir/"
 
 # wcc, check cache
 if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" ]]; then
-  wget "$sfse_url" -O "$sfse_file"
+  wget -q "$sfse_url" -O "$sfse_file"
   for f in wcc386.exe wccd386.dll; do
     unrar e "$sfse_file" "$sfse_dir/$f"
     mv -f "$f" "$cache_dir/"

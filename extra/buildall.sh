@@ -18,7 +18,7 @@ function process_file() {
   wine "$bin_dir/compile.exe" -n -l -q "$f.tmp" -o "$dst/$script_name" # compile
   rm -f "$f.tmp"
 }
-
+# compile all
 for d in $(ls $src); do
   if [[ -d "$src/$d" && "$d" != "TEMPLATE" ]]; then # if it's a dir and not template
     cd "$src/$d"
@@ -30,3 +30,19 @@ for d in $(ls $src); do
     cd ..
   fi
 done
+
+
+# release?
+if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
+  # data
+  dst="mods/$mod_name"
+  mkdir -p "$dst"
+  mv data/* "$dst"
+
+  # sfall
+  sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
+  wget -q "$sfall_url" -O sfall.7z
+  7z e sfall.7z ddraw.dll
+  mv ddraw.dll $dst/
+  zip -r "$name.zip" mods # our package
+fi

@@ -13,3 +13,14 @@ script: ./extra/buildall.sh
 env:
   global:
     WINEARCH: win32
+    sfall_version: 4.1.8.1
+    mpack_version: 4.1.8
+    mod_name: rpu
+
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file: rpu.zip
+  skip_cleanup: true
+  on:
+    tags: true
