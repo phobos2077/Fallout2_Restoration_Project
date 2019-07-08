@@ -112,11 +112,6 @@ procedure talk_p_proc begin
    end else if (jonny_at_home) then begin
       call Node004;
    end else if (jonny_seed_active) then begin
-      //added by killap
-      if (gave_jonny_gun) and not(jonny_known) then begin
-         call Node001;
-      end else
-      //end added
       if (jonny_known) then begin
          call Node003;
       end else begin
