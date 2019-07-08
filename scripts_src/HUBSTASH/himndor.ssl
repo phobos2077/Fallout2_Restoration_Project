@@ -100,7 +100,7 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure use_obj_on_p_proc begin
-   if is_lockpick(obj_pid(obj_being_used_with)) then
+   if is_lockpick(obj_being_used_with) then
       display_msg(g_mstr(20100)); // no lock in this door
    else
       display_msg(g_mstr(20000)); // that does nothing
