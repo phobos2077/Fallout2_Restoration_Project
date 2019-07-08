@@ -95,7 +95,7 @@ variable Only_Once:=0;
 variable waiting := 0;
 variable last_locker_tamper;
 
-procedure getArmedPartyMember(variable last) begin
+procedure getArmedPartyMember begin
    if (Is_Armed(dude_obj)) then
       return dude_obj;
    if (Vic_In_Party) then
