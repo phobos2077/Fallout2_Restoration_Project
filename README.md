@@ -4,7 +4,7 @@
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
  | [__Installation__](#installation)
- | [__Reporting issue__](#reporting-issues)
+ | [__Reporting issues__](#reporting-issues)
 
 This is an update for [killap's Restoration Project](http://killap.net/) for Fallout 2. This is _not_ an independent mod, it should be installed on top of RP 2.3.3.
 
