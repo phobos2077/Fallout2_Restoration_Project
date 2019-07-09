@@ -15,7 +15,8 @@ script:
 
 env:
   global:
-    WINEARCH: win32
+    WINEARCH: win32         # use a little bit less memory
+    WINEDEBUG: "-all"       # just a little bit faster
     sfall_version: 4.1.8.1
     mpack_version: 4.1.8
     mods_dir: mods
