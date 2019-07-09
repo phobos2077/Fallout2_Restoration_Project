@@ -266,18 +266,18 @@ procedure timed_event_p_proc begin
          set_finished_enclave_movie;
       end else if ((get_deal(deal_deal_0)) or (get_deal(deal_deal_200)) or (get_deal(deal_deal_500))) then begin
          if (dude_is_stupid) then begin
-            force_dialog_start("Node034");
+            force_dialog_start(@Node034);
          end else begin
-            force_dialog_start("Node035");
+            force_dialog_start(@Node035);
          end
       end else if (dude_agility < 8) then begin
-         force_dialog_start("Node024");
+         force_dialog_start(@Node024);
       end else if (dude_endurance < 8) then begin
-         force_dialog_start("Node025");
+         force_dialog_start(@Node025);
       end else if (dude_sex_rating < 9) then begin
-         force_dialog_start("Node026");
+         force_dialog_start(@Node026);
       end else begin
-         force_dialog_start("Node027");
+         force_dialog_start(@Node027);
       end
    end
 end

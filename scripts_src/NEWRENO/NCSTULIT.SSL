@@ -158,10 +158,10 @@ procedure timed_event_p_proc begin
          if (dude_is_prizefighter) then begin
             dialogue_system_enter;
          end else begin
-            force_dialog_start("Node017");
+            force_dialog_start(@Node017);
          end
       end else begin
-         force_dialog_start("Node014");
+         force_dialog_start(@Node014);
       end
    end else if (fixed_param == start_fight_param) then begin
       start_boxing_match;

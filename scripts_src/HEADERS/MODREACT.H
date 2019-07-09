@@ -377,7 +377,7 @@ variable reaction_bonus_karma:=0;
                                                 Static_Reaction:=Static_Reaction + REACTION_BONUS_SLAVER;                       \
                                         end                                                                                     \
                                         else if (Slavery_Tolerant == SLAVE_PROUD) then begin                                    \
-                                             if (has_rep_slaver) then                                                           \
+                                            if (has_rep_slaver) then                                                            \
                                                 Static_Reaction:=Static_Reaction - REACTION_BONUS_SLAVER;                       \
                                        end                                                                                      \
                                        debug_msg("Slaver + Aligned Reaction == "+Static_Reaction);                              \

@@ -118,7 +118,7 @@ procedure timed_event_p_proc begin
       check_all_warnings
       call_warning_loop;
    end else if (fixed_param == tamper_door_param) then begin
-      force_dialog_start("Node026");
+      force_dialog_start(@Node026);
    end else begin
       if (self_can_see_dude) then begin
          if ((combat_is_initialized == false) and (obj_on_family_property(dude_obj, self_family))) then begin

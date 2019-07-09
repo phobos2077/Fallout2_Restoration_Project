@@ -111,7 +111,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == timed_event_post_sex) then begin
-      force_dialog_start("Node014");
+      force_dialog_start(@Node014);
    end
 end
 

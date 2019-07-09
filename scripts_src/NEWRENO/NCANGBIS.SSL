@@ -140,7 +140,7 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == post_sex_param) then begin
       game_ui_enable;
       gfade_in(ONE_GAME_SECOND);
-      force_dialog_start("Node104");
+      force_dialog_start(@Node104);
    end else if (fixed_param == attack_param) then begin
    end else if (fixed_param == wander_param) then begin
    end else begin

@@ -189,17 +189,17 @@ procedure timed_event_p_proc begin
       game_ui_enable;
       gfade_in(ONE_GAME_SECOND);
       if (dude_iq < 4) then begin
-         force_dialog_start("Node104");
+         force_dialog_start(@Node104);
       end else begin
-         force_dialog_start("Node124");
+         force_dialog_start(@Node124);
       end
    end else if (fixed_param == just_did_mrs_bishop_param) then begin
       game_ui_enable;
       gfade_in(ONE_GAME_SECOND);
       if (dude_sex_rating > sex_rating_bad) then begin
-         force_dialog_start("Node131");
+         force_dialog_start(@Node131);
       end else begin
-         force_dialog_start("Node165");
+         force_dialog_start(@Node165);
       end
    end
 end
