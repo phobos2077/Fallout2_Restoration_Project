@@ -14,12 +14,12 @@
     - Fixed dealer's bodyguard description.
     - Delete 0-stack ammo pack from Metzger's desk.
     - Bobby's floats tweaked to reflect he's packing.
+- Enclave
+    - Fixed RP NPC suffering no damage in the puzzle room.
+    - Fixed vertibird pad area being immune to meltdown countdown and FEV poisoning.
 - Klamath
     - Fixed Duntons offering the job on the pastures, then telling the PC off. Also, fixed CoP check in their script.
 - Gecko
     - Lenny: moved ammo from hands to inventory.
 - Hubologists' stash
     - Added proper messages for using skills and items on the top door.
-- Enclave
-    - Fixed RP NPC suffering no damage in the puzzle room.
-    - Fixed vertibird pad area being immune to meltdown countdown and FEV poisoning.
