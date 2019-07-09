@@ -7,7 +7,7 @@ dst="$(realpath data/scripts)"
 extra_dir="$(realpath extra)"
 bin_dir="$(realpath $extra_dir/bin)"
 skip_list="$(realpath $extra_dir/skip.list)"
-wine="wine WINEARCH=win32 WINEDEBUG='-all'"
+wine="WINEARCH=win32 WINEDEBUG='-all' wine"
 mkdir -p "$dst"
 
 # single file compile
