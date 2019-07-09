@@ -7,19 +7,16 @@ dst="$(realpath data/scripts)"
 extra_dir="$(realpath extra)"
 bin_dir="$(realpath $extra_dir/bin)"
 skip_list="$(realpath $extra_dir/skip.list)"
-
+export wine="WINEARCH=win32 WINEDEBUG=-all wine"
 mkdir -p "$dst"
-
-rm -rf ~/.wine
-WINEARCH=win32 wineboot
 
 # single file compile
 function process_file() {
   f="$1"
   script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
-  WINEARCH=win32 wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
+  $wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
   sed -i '/^[[:space:]]*$/d' "$f.tmp" # delete empty lines
-  WINEARCH=win32 wine "$bin_dir/compile.exe" -n -l -q "$f.tmp" -o "$dst/$script_name" # compile
+  $wine "$bin_dir/compile.exe" -n -l -q "$f.tmp" -o "$dst/$script_name" # compile
   rm -f "$f.tmp"
 }
 # compile all
