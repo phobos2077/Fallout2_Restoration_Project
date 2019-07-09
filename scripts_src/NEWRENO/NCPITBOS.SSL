@@ -400,13 +400,13 @@ procedure critter_p_proc begin
    end else if (finished_routine) then begin
       finished_routine :=0;
       if (tell_funny) then begin
-         force_dialog_start("Node028");
+         force_dialog_start(@Node028);
       end else begin
-         force_dialog_start("Node029");
+         force_dialog_start(@Node029);
       end
    end else if (finished_dance) then begin
       finished_dance := 0;
-      force_dialog_start("Node026");
+      force_dialog_start(@Node026);
    end
 end
 

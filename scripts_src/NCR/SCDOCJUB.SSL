@@ -546,7 +546,7 @@ procedure Node019 begin
      if (local_var(LVAR_Stealing_Pills) == 0) then begin
        set_westin_flag(WESTIN_PILLS_KNOW);
        set_local_var(LVAR_Stealing_Pills,CAUGHT_STEALING);
-       force_dialog_start("Node021");
+       force_dialog_start(@Node021);
      end else if (local_var(LVAR_Stealing_Pills) == CAUGHT_STEALING) then begin
        float_msg(self_obj, mstr(167 + Random(0, 2)), FLOAT_MSG_RED);
      end

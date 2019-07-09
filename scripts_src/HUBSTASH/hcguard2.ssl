@@ -102,7 +102,7 @@ procedure critter_p_proc begin
 
 
       if ( (local_var(LVAR_Force_Talk) == 1) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
-         force_dialog_start("Node008");
+         force_dialog_start(@Node008);
       end
 
       else if (local_var(LVAR_Guard_Leave) == 1) then begin
@@ -112,13 +112,13 @@ procedure critter_p_proc begin
                move_to(self_obj, 22328, 1);
                set_obj_visibility(self_obj, false);
                if (obj_can_see_obj(self_obj,dude_obj)) then begin
-                  force_dialog_start("Node008");
+                  force_dialog_start(@Node008);
                end
                add_timer_event(self_obj,10,3);
             end else begin
                set_obj_visibility(self_obj, false);
                if (obj_can_see_obj(self_obj,dude_obj)) then begin
-                  force_dialog_start("Node008");
+                  force_dialog_start(@Node008);
                end
                set_map_var(MVAR_Room_Empty,0);
             end
@@ -142,15 +142,15 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == 5) then begin
       if (object_tamper == 1) then begin
          object_tamper := 0;
-         force_dialog_start("Node009");
+         force_dialog_start(@Node009);
       end else if (object_tamper == 2) then begin
          if (local_var(LVAR_Warned_Tamper) == 0) then begin
             object_tamper := 0;
             set_local_var(LVAR_Warned_Tamper,1);
-            force_dialog_start("Node010");
+            force_dialog_start(@Node010);
          end else begin
             object_tamper := 0;
-            force_dialog_start("Node011");
+            force_dialog_start(@Node011);
          end
       end else begin
          object_tamper := 0;

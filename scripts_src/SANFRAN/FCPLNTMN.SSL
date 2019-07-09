@@ -237,7 +237,7 @@ procedure map_enter_p_proc begin
 
    if (self_tile == 16922 and map_first_run) then begin
       set_map_var(MVAR_Met_Sheng,1);
-      force_dialog_start("Node001");
+      force_dialog_start(@Node001);
    end
 end
 
