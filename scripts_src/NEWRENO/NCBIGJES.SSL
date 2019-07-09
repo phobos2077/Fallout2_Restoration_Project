@@ -1026,7 +1026,7 @@ procedure Node043 begin
    prev_node := 43;
 end
 procedure Node044 begin
-   setup_set_made_man_name(710, "Node045", family_mordino)
+   setup_set_made_man_name(710, @Node045, family_mordino)
    prev_node := 44;
 end
 procedure Node045 begin

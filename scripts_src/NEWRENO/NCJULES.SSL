@@ -598,7 +598,7 @@ procedure Node029 begin
    prev_node := 29;
 end
 procedure Node030 begin
-   node_string := "Node030";
+   node_string := @Node030;
    Reply(650);
    NOption(651, Node989, 004);
    NOption(652, Node029, 004);
@@ -786,7 +786,7 @@ procedure Node053 begin
    NOption(520, Node999, 004);
 end
 procedure Node054 begin
-   node_string := "Node054";
+   node_string := @Node054;
    Reply(mstr(985 + ((1 + (dude_charisma > 5)) * dude_is_female)) + mstr(988));
    GOption(989, Node989, 004);
    NOption(990, Node055, 004);
@@ -794,7 +794,7 @@ procedure Node054 begin
    NOption(992, Node999, 004);
 end
 procedure Node055 begin
-   node_string := "Node055";
+   node_string := @Node055;
    Reply(1005 + dude_is_female);
    GOption(989, Node989, 004);
    NOption(1008, Node056, 005);
@@ -802,7 +802,7 @@ procedure Node055 begin
    NOption(992, Node999, 004);
 end
 procedure Node056 begin
-   node_string := "Node056";
+   node_string := @Node056;
    Reply(1025);
    GOption(1026, Node989, 004);
    NOption(1027, Node057, 006);

@@ -852,7 +852,7 @@ procedure Node053 begin
    BOption(707, Node051, 004);
 end
 procedure Node054 begin
-   setup_set_made_man_name(740, "Node055", family_bishop)
+   setup_set_made_man_name(740, @Node055, family_bishop)
 end
 procedure Node055 begin
    display_mstr(975);

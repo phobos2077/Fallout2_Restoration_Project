@@ -835,7 +835,7 @@ procedure Node037a begin
    BOption(617, Node998, 004);
 end
 procedure Node038 begin
-   setup_set_made_man_name(620, "Node039", family_salvatore)
+   setup_set_made_man_name(620, @Node039, family_salvatore)
 end
 procedure Node039 begin
    display_mstr(900);

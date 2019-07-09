@@ -671,7 +671,7 @@ procedure Node029 begin
    prev_node := 29;
 end
 procedure Node030 begin
-   setup_set_prizefighter_name(mstr(490) + dude_name + mstr(1490) + dude_name + mstr(2490), "Node031")
+   setup_set_prizefighter_name(mstr(490) + dude_name + mstr(1490) + dude_name + mstr(2490), @Node031)
 end
 procedure Node031 begin
    if (dude_prizefighter_number == 34) then begin //was 11 - killap

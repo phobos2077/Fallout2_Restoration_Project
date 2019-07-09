@@ -590,7 +590,7 @@ procedure Node004 begin
    NOption(243 + (dude_is_stupid == false), Node990, 001);
 end
 procedure Node005 begin
-   return_node := "Node005";
+   return_node := @Node005;
    if (prev_node == 0) then begin
       Reply(mstr(250) + mstr(251));
    end else begin
@@ -626,7 +626,7 @@ procedure Node005 begin
    prev_node := 5;
 end
 procedure Node006 begin
-   return_node := "Node006";
+   return_node := @Node006;
    if (node_6 == false) then begin
       Reply(270);
    end else begin
@@ -661,7 +661,7 @@ procedure Node006 begin
    set_node_6;
 end
 procedure Node007 begin
-   return_node := "Node007";
+   return_node := @Node007;
    Reply(300 + (Fallout2_enclave_destroyed == false));
    NOption(302, Node974, -003);
    if (module == false) then begin
@@ -671,7 +671,7 @@ procedure Node007 begin
    prev_node := 7;
 end
 procedure Node008 begin
-   return_node := "Node008";
+   return_node := @Node008;
    if (get_jules_eldridge(jules_eldridge_refer)) then begin
       set_jules_eldridge(jules_eldridge_discount);
       adj_eldridge_barter(-10); // Seraph's Fix: changed '10' to '-10'
@@ -892,7 +892,7 @@ procedure Node021 begin
    prev_node := 21;
 end
 procedure Node022 begin
-   return_node := "Node022";
+   return_node := @Node022;
    give_voice_chip(dude_obj)
    Reply(mstr(480 + module_price) + mstr(482));
    NOption(302, Node974, -003);
@@ -932,7 +932,7 @@ procedure Node025 begin
    prev_node := 25;
 end
 procedure Node026 begin
-   return_node := "Node026";
+   return_node := @Node026;
    if (made_man_set == false) then begin
       adj_eldridge_barter(-20); // Seraph's Fix: changed '20' to '-20'
       set_made_man_set;

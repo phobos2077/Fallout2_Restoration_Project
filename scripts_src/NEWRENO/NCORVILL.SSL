@@ -307,7 +307,7 @@ procedure Node983 begin
    call Node048;
 end
 procedure Node982 begin
-   setup_set_made_man_name(584, "Node035", family_wright)
+   setup_set_made_man_name(584, @Node035, family_wright)
 end
 procedure Node981 begin
    if ((mrs_wright_destroyed_still) or (get_still_status(still_status_poisoned)) or (get_still_status(still_status_wrecked))) then begin

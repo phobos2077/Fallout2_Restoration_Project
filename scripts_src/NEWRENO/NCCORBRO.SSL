@@ -636,9 +636,9 @@ procedure Node028 begin
       end
    end
    if (bad_name == false) then begin
-      setup_set_porn_star_name(515 + (dude_is_stupid == false), "Node986")
+      setup_set_porn_star_name(515 + (dude_is_stupid == false), @Node986)
    end else begin
-      setup_set_porn_star_name(517, "Node986")
+      setup_set_porn_star_name(517, @Node986)
    end
 end
 procedure Node029 begin

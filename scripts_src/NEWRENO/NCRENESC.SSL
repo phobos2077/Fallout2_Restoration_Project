@@ -419,7 +419,7 @@ procedure Node002 begin
    floater_bad_rand(225, 228);
 end
 procedure Node003 begin
-   return_node := "Node003";
+   return_node := @Node003;
    previous_node := 3;
    Reply(mstr(235) + mstr(236 + dude_is_female));
    BOption(238 + dude_is_female,Node004,-003);
@@ -494,7 +494,7 @@ procedure Node006 begin
    NOption(295,Node999,004);
 end
 procedure Node007 begin
-   return_node := "Node007";
+   return_node := @Node007;
    Reply(305);
 
    //added by killap - expansion
@@ -530,7 +530,7 @@ procedure Node009 begin
    NOption(333,Node010,004);
 end
 procedure Node010 begin
-   return_node := "Node010";
+   return_node := @Node010;
    Reply(350);
    if ((get_mystery_flag(MYSTERY_STATE_ASSIGNED)) and (know_scott == false)) then begin
       BOption(351,Node050,004);
@@ -541,7 +541,7 @@ procedure Node010 begin
    NOption(355,Node999,004);
 end
 procedure Node011 begin
-   return_node := "Node011";
+   return_node := @Node011;
    Reply(365);
    NOption(366,Node996,004);
    NOption(367,Node042,004);
@@ -549,7 +549,7 @@ procedure Node011 begin
    NOption(369,Node999,004);
 end
 procedure Node012 begin
-   return_node := "Node012";
+   return_node := @Node012;
    Reply(375);
    NOption(366,Node996,004);
    BOption(377,Node013,006);
@@ -562,7 +562,7 @@ procedure Node013 begin
    NOption(388,Node014,004);
 end
 procedure Node014 begin
-   return_node := "Node014";
+   return_node := @Node014;
    Reply(395);
    NOption(396, Node996, 004);
    NOption(397 + (redding_visible_on_map), Node015, 006);
@@ -570,7 +570,7 @@ procedure Node014 begin
    NOption(400, Node999, 004);
 end
 procedure Node015 begin
-   return_node := "Node015";
+   return_node := @Node015;
    mark_redding_on_map
    set_redding_problem_know_jet;
    Reply(410);
@@ -624,14 +624,14 @@ procedure Node021 begin
    NOption(423, Node999, 004);
 end
 procedure Node022 begin
-   return_node := "Node022";
+   return_node := @Node022;
    Reply(480);
    NOption(481, Node996, 004);
    NOption(472, Node042, 004);
    NOption(423, Node999, 004);
 end
 procedure Node023 begin
-   return_node := "Node023";
+   return_node := @Node023;
    Reply(490);
    NOption(481, Node996, 004);
    if (has_skill(dude_obj,SKILL_SCIENCE) > 75) then begin
@@ -643,7 +643,7 @@ procedure Node023 begin
    NOption(423, Node999, 004);
 end
 procedure Node024 begin
-   return_node := "Node024";
+   return_node := @Node024;
    Reply(505 + (Myron_In_Party == false));
    NOption(481, Node996, 004);
    NOption(452, Node021, 005);
@@ -740,7 +740,7 @@ procedure Node035 begin
    NOption(623, Node034, 004);
 end
 procedure Node036 begin
-   return_node := "Node036";
+   return_node := @Node036;
    previous_node := 36;
    Reply(630);
    NOption(292, Node007, 004);
@@ -775,7 +775,7 @@ procedure Node040 begin
    NOption(673, Node992, 004);
 end
 procedure Node041 begin
-   return_node := "Node041";
+   return_node := @Node041;
    Reply(680 + node41_visits);
    node41_visits += 1;
    if (node41_visits <= 3) then begin
@@ -1024,7 +1024,7 @@ procedure Node064 begin
    BOption(901, Node998, 004);
 end
 procedure Node065 begin
-   return_node := "Node065";
+   return_node := @Node065;
 
    set_tribute(tribute_collected);
 
@@ -1035,7 +1035,7 @@ procedure Node065 begin
 
 end
 procedure Node066 begin
-   return_node := "Node066";
+   return_node := @Node066;
    inc_local_var(LVAR_Node66_Visits);
    if (local_var(LVAR_Node66_Visits) < 20) then begin
       Reply(950);
@@ -1078,7 +1078,7 @@ procedure Node070 begin
    BOption(992, Node071, 004);
 end
 procedure Node071 begin
-   return_node := "Node071";
+   return_node := @Node071;
    if (know_scott == false) then begin
       display_mstr(2000);
       give_xp(EXP_NEW_RENO_EXPOSE_RENESCO);

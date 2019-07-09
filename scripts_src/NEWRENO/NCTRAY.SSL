@@ -588,7 +588,7 @@ procedure Node013 begin
    prev_node := 13;
 end
 procedure Node014 begin
-   return_node := "Node014";
+   return_node := @Node014;
    Reply(420);
    NOption(421, Node980, 004);
    BOption(422, Node998, 004);
@@ -694,7 +694,7 @@ procedure Node025 begin
       display_mstr(2010);  //added by killap
       do_once :=1;
    end
-   return_node := "Node025";
+   return_node := @Node025;
    Reply(575);
    NOption(576, Node980, 004);
    NOption(577, Node999, 004);
@@ -721,7 +721,7 @@ procedure Node026 begin
    prev_node := 26;
 end
 procedure Node027 begin
-   return_node := "Node027";
+   return_node := @Node027;
    Reply(615);
    NOption(616, Node980, 004);
    if (dude_is_female) then begin
@@ -920,7 +920,7 @@ procedure Node048 begin
    prev_node := 48;
 end
 procedure Node049 begin
-   return_node := "Node049";
+   return_node := @Node049;
    Reply(865);
    NOption(866, Node980, 004);
    NOption(857, Node999, 004);   //killap's fix: changed from 048
@@ -942,7 +942,7 @@ procedure Node052 begin
    prev_node := 52;
 end
 procedure Node053 begin
-   return_node := "Node053";
+   return_node := @Node053;
    hold_on := false;
    Reply(905);
    GOption(906, Node980, 004);

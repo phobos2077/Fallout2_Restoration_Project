@@ -333,7 +333,7 @@ procedure Node002 begin
    floater_rand(220, 228);
 end
 procedure Node003 begin
-   return_node := "Node003";
+   return_node := @Node003;
    Reply(mstr(240) + mstr(241 + dude_is_female));
    NOption(243, Node004, -003);
    NOption(244, Node004, -003);
@@ -344,7 +344,7 @@ procedure Node003 begin
    prev_node := 3;
 end
 procedure Node004 begin
-   return_node := "Node004";
+   return_node := @Node004;
    Reply(260);
    NOption(261, Node005, -003);
    NOption(245, Node005, -003);
@@ -353,7 +353,7 @@ procedure Node004 begin
    prev_node := 4;
 end
 procedure Node005 begin
-   return_node := "Node005";
+   return_node := @Node005;
    set_know_jjj;
    Reply(270);
    NOption(271, Node006, -003);
@@ -363,7 +363,7 @@ procedure Node005 begin
    prev_node := 5;
 end
 procedure Node006 begin
-   return_node := "Node006";
+   return_node := @Node006;
    Reply(280);
    NOption(mstr(281) + dude_name + mstr(5281) + dude_name + mstr(6281), Node008, -003);
    NOption(282, Node008, -003);
@@ -372,7 +372,7 @@ procedure Node006 begin
    prev_node := 6;
 end
 procedure Node007 begin
-   return_node := "Node007";
+   return_node := @Node007;
    Reply(290 + ((jjj_slander) or (pissed)));
    NOption(292, Node990, -003);
    BOption(mstr(314) + dude_name + mstr(5314), Node998, -003);
@@ -390,7 +390,7 @@ procedure Node007 begin
    prev_node := 7;
 end
 procedure Node008 begin
-   return_node := "Node008";
+   return_node := @Node008;
    Reply(310 + (node_8 * (1 + ((jjj_slander == false) and (pissed == false)))));
    NOption(292, Node990, -003);
    BOption(mstr(314) + dude_name + mstr(5314), Node998, -003);
@@ -409,7 +409,7 @@ procedure Node008 begin
    set_node_8;
 end
 procedure Node009 begin
-   return_node := "Node009";
+   return_node := @Node009;
    Reply(330 + node_9);
    if (enclave_destroyed) then begin
       NOption(332, Node010, -003);
@@ -434,7 +434,7 @@ procedure Node009 begin
 end
 procedure Node010 begin
    set_recognizes_pc;
-   return_node := "Node010";
+   return_node := @Node010;
    Reply(360);
    NOption(294, Node984, -003);
    NOption(361, Node999, -003);
@@ -444,7 +444,7 @@ procedure Node010 begin
    prev_node := 10;
 end
 procedure Node011 begin
-   return_node := "Node011";
+   return_node := @Node011;
    Reply(375);
    if (inven_count(self_obj) > 0) then begin
       NOption(376, Node983, 001);
@@ -453,7 +453,7 @@ procedure Node011 begin
    prev_node := 11;
 end
 procedure Node012 begin
-   return_node := "Node012";
+   return_node := @Node012;
    Reply(385);
    GOption(386, Node013, 004);
    GOption(387, Node013, 004);
@@ -463,7 +463,7 @@ procedure Node012 begin
    prev_node := 12;
 end
 procedure Node013 begin
-   return_node := "Node013";
+   return_node := @Node013;
    Reply(400);
    if (jjj_truth) then begin
       BOption(416, Node981, 004);
@@ -476,7 +476,7 @@ procedure Node013 begin
    prev_node := 13;
 end
 procedure Node014 begin
-   return_node := "Node014";
+   return_node := @Node014;
    Reply(415);
    if (jjj_truth) then begin
       BOption(416, Node981, 004);
@@ -490,7 +490,7 @@ procedure Node014 begin
    prev_node := 14;
 end
 procedure Node015 begin
-   return_node := "Node015";
+   return_node := @Node015;
    Reply(430);
    NOption(431, Node984, 004);
    NOption(432, Node008, 004);
@@ -500,7 +500,7 @@ procedure Node015 begin
    prev_node := 15;
 end
 procedure Node016 begin
-   return_node := "Node016";
+   return_node := @Node016;
    Reply(445);
    if (dude_charisma > 5) then begin
       GOption(446, Node017, 004);
@@ -510,7 +510,7 @@ procedure Node016 begin
    prev_node := 16;
 end
 procedure Node017 begin
-   return_node := "Node017";
+   return_node := @Node017;
    Reply(455);
    if (dude_charisma > 5) then begin
       GOption(456, Node018, 004);
@@ -520,7 +520,7 @@ procedure Node017 begin
    prev_node := 17;
 end
 procedure Node018 begin
-   return_node := "Node018";
+   return_node := @Node018;
    Reply(465);
    if (dude_charisma > 5) then begin
       GOption(466, Node980, 004);
@@ -530,7 +530,7 @@ procedure Node018 begin
    prev_node := 18;
 end
 procedure Node019 begin
-   return_node := "Node019";
+   return_node := @Node019;
    Reply(475);
    GOption(476, Node020, 004);
    prev_node := 19;
@@ -540,7 +540,7 @@ procedure Node020 begin
       set_freebie;
       give_pid_qty(dude_obj, PID_JET, 1)
    end
-   return_node := "Node020";
+   return_node := @Node020;
    Reply(480);
    GOption(481, Node984, 004);
    NOption(482, Node008, 004);
@@ -548,7 +548,7 @@ procedure Node020 begin
    prev_node := 20;
 end
 procedure Node021 begin
-   return_node := "Node021";
+   return_node := @Node021;
    Reply(490);
    NOption(491, Node023, 004);
    NOption(492, Node008, 004);
@@ -556,7 +556,7 @@ procedure Node021 begin
    prev_node := 21;
 end
 procedure Node022 begin
-   return_node := "Node022";
+   return_node := @Node022;
    set_know_mordino;
    Reply(500 + myron_is_dude_companion);
    NOption(502, Node008, 004);
@@ -564,7 +564,7 @@ procedure Node022 begin
    prev_node := 22;
 end
 procedure Node023 begin
-   return_node := "Node023";
+   return_node := @Node023;
    set_know_mordino;
    Reply(510);
    NOption(511, Node024, 004);
@@ -574,7 +574,7 @@ procedure Node023 begin
    prev_node := 23;
 end
 procedure Node024 begin
-   return_node := "Node024";
+   return_node := @Node024;
    set_know_mordino;
    Reply(520);
    NOption(521, Node984, 004);
@@ -584,7 +584,7 @@ procedure Node024 begin
    prev_node := 24;
 end
 procedure Node025 begin
-   return_node := "Node025";
+   return_node := @Node025;
    set_know_mordino;
    Reply(530);
    NOption(531, Node026, 005);
@@ -596,7 +596,7 @@ procedure Node025 begin
    prev_node := 25;
 end
 procedure Node026 begin
-   return_node := "Node026";
+   return_node := @Node026;
    Reply(540);
    NOption(541, Node027, 005);
    if (know_myron_whores) then begin
@@ -607,7 +607,7 @@ procedure Node026 begin
    prev_node := 26;
 end
 procedure Node027 begin
-   return_node := "Node027";
+   return_node := @Node027;
    set_stables_known
    Reply(550);
    NOption(551, Node028, 005);
@@ -619,7 +619,7 @@ procedure Node027 begin
    prev_node := 27;
 end
 procedure Node028 begin
-   return_node := "Node028";
+   return_node := @Node028;
    Reply(560);
    NOption(561, Node984, 004);
    if (know_myron_whores) then begin
@@ -630,7 +630,7 @@ procedure Node028 begin
    prev_node := 28;
 end
 procedure Node029 begin
-   return_node := "Node029";
+   return_node := @Node029;
    Reply(570);
    NOption(571, Node030, 004);
    NOption(572, Node008, 004);
@@ -638,7 +638,7 @@ procedure Node029 begin
    prev_node := 29;
 end
 procedure Node030 begin
-   return_node := "Node030";
+   return_node := @Node030;
    Reply(580);
    NOption(581, Node031, 004);
    BOption(582, Node032, 007);
@@ -647,7 +647,7 @@ procedure Node030 begin
    prev_node := 30;
 end
 procedure Node031 begin
-   return_node := "Node031";
+   return_node := @Node031;
    Reply(590);
    NOption(561, Node984, 004);
    BOption(592, Node032, 007);
@@ -656,7 +656,7 @@ procedure Node031 begin
    prev_node := 31;
 end
 procedure Node032 begin
-   return_node := "Node032";
+   return_node := @Node032;
    set_myron_kitty;
    Reply(600);
    BOption(601, Node033, 004);
@@ -665,7 +665,7 @@ procedure Node032 begin
    prev_node := 32;
 end
 procedure Node033 begin
-   return_node := "Node033";
+   return_node := @Node033;
    if ((dude_is_female) and (dude_charisma > 5)) then begin
       Reply(611);
       NOption(612, Node984, 004);
@@ -680,7 +680,7 @@ procedure Node033 begin
    prev_node := 33;
 end
 procedure Node036 begin
-   return_node := "Node036";
+   return_node := @Node036;
    Reply(625);
    if ((prev_node == 7) or (prev_node == 8)) then begin
       NOption(626, Node984, 004);
@@ -696,7 +696,7 @@ procedure Node036 begin
    prev_node := 36;
 end
 procedure Node037 begin
-   return_node := "Node037";
+   return_node := @Node037;
    set_did_slander_penalty;
    Reply(635);
    BOption(636, Node038, 004);
@@ -706,7 +706,7 @@ procedure Node037 begin
    prev_node := 37;
 end
 procedure Node038 begin
-   return_node := "Node038";
+   return_node := @Node038;
    suspect_jules
    suspect_renesco
    Reply(645);
@@ -717,7 +717,7 @@ procedure Node038 begin
    prev_node := 38;
 end
 procedure Node039 begin
-   return_node := "Node039";
+   return_node := @Node039;
    Reply(655);
    if (renesco_slander) then begin
       BOption(656, Node044, 004);
@@ -737,7 +737,7 @@ procedure Node039 begin
    prev_node := 39;
 end
 procedure Node040 begin
-   return_node := "Node040";
+   return_node := @Node040;
    if (jet_canister_poison == false) then begin
       if (examined_body == false) then begin
          display_mstr(800);
@@ -752,7 +752,7 @@ procedure Node040 begin
    prev_node := 40;
 end
 procedure Node041 begin
-   return_node := "Node041";
+   return_node := @Node041;
    Reply(685);
    NOption(686, Node042, 004);
    NOption(677, Node008, 004);
@@ -760,14 +760,14 @@ procedure Node041 begin
    prev_node := 41;
 end
 procedure Node042 begin
-   return_node := "Node042";
+   return_node := @Node042;
    Reply(695);
    NOption(696, Node008, 004);
    NOption(697, Node999, 004);
    prev_node := 42;
 end
 procedure Node043 begin
-   return_node := "Node043";
+   return_node := @Node043;
    Reply(705);
    NOption(706, Node036, 004);
    NOption(707, Node008, 004);
@@ -775,7 +775,7 @@ procedure Node043 begin
    prev_node := 43;
 end
 procedure Node044 begin
-   return_node := "Node044";
+   return_node := @Node044;
    Reply(715);
    NOption(716, Node045, 004);
    NOption(707, Node008, 004);
@@ -783,7 +783,7 @@ procedure Node044 begin
    prev_node := 44;
 end
 procedure Node045 begin
-   return_node := "Node045";
+   return_node := @Node045;
    set_did_slander_penalty;
    Reply(725);
    NOption(707, Node008, 004);
