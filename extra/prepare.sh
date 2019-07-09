@@ -17,11 +17,8 @@ bin_dir="extra/bin"
 mkdir -p "$cache_dir" "$bin_dir"
 
 # packages
-curl -s https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add
-sudo apt-add-repository -y 'deb https://dl.winehq.org/wine-builds/ubuntu/ bionic main'
 sudo apt-get -q update
-sudo apt-get -q -y --no-install-recommends install winehq-stable p7zip p7zip-full unrar
-7z
+sudo apt-get -q -y --no-install-recommends install winehq-stable p7zip p7zip-full p7zip-rar
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/$compile_exe" ]]; then
@@ -36,7 +33,7 @@ cp -f "$cache_dir/$compile_exe" "$bin_dir/"
 if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" ]]; then
   wget -q "$sfse_url" -O "$sfse_file"
   for f in wcc386.exe wccd386.dll; do
-    unrar e "$sfse_file" "$sfse_dir/$f"
+    7z e "$sfse_file" "$sfse_dir/$f"
     mv -f "$f" "$cache_dir/"
   done
 fi
