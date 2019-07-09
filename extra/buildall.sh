@@ -9,7 +9,6 @@ bin_dir="$(realpath $extra_dir/bin)"
 skip_list="$(realpath $extra_dir/skip.list)"
 
 mkdir -p "$dst"
-pushd .
 
 # single file compile
 function process_file() {
@@ -32,4 +31,3 @@ for d in $(ls $src); do
     cd ..
   fi
 done
-popd # return to repo root
