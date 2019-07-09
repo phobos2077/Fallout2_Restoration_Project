@@ -9,19 +9,23 @@ cache:
 before_install:
   - ./extra/prepare.sh
 
-script: ./extra/buildall.sh
+script:
+  - ./extra/buildall.sh
+  - ./extra/publish.sh
 
 env:
   global:
     WINEARCH: win32
     sfall_version: 4.1.8.1
     mpack_version: 4.1.8
+    mods_dir: mods
     mod_name: rpu
 
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
-  file: rpu.zip
+  file_glob: true
+  file: rpu*.zip
   skip_cleanup: true
   on:
     tags: true

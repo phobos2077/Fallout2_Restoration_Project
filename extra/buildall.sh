@@ -11,6 +11,7 @@ skip_list="$(realpath $extra_dir/skip.list)"
 mkdir -p "$dst"
 pushd .
 
+# single file compile
 function process_file() {
   f="$1"
   script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
@@ -32,19 +33,3 @@ for d in $(ls $src); do
   fi
 done
 popd # return to repo root
-
-
-# release?
-if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
-  # data
-  dst="mods/$mod_name"
-  mkdir -p "$dst"
-  mv data/* "$dst"
-
-  # sfall
-  sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
-  wget -q "$sfall_url" -O sfall.7z
-  7z e sfall.7z ddraw.dll
-  mv ddraw.dll mods/
-  zip -r "$mod_name.zip" mods # our package
-fi
