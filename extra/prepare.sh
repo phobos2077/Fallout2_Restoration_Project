@@ -18,7 +18,7 @@ mkdir -p "$cache_dir" "$bin_dir"
 
 # packages
 sudo apt-get -q update
-sudo apt-get -q -y --no-install-recommends install wine32 p7zip p7zip-full p7zip-rar
+sudo apt-get -q -y --no-install-recommends install wine-stable wine32 p7zip p7zip-full p7zip-rar
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/$compile_exe" ]]; then
