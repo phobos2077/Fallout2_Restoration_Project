@@ -12,9 +12,9 @@ mkdir -p "$dst"
 
 # single file compile
 function process_file() {
-  env | grep WINE
+  env
   export WINEDEBUG=-all
-  env | grep WINE
+  env
   f="$1"
   script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
   wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
