@@ -12,7 +12,7 @@ mkdir -p "$dst"
 
 # single file compile
 function process_file() {
-  export WINEARCH=win32
+  env | grep WINE
   export WINEDEBUG=-all
   env | grep WINE
   f="$1"
