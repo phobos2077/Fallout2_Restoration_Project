@@ -12,8 +12,8 @@
     - Allowed to use lockpicks in Chad's quest.
 - Den
     - Fixed dealer's bodyguard description.
-    - Delete 0-stack ammo pack from Metzger's desk.
-    - Bobby's floats tweaked to reflect he's packing.
+    - Deleted 0-stack ammo pack from Metzger's desk.
+    - Bobby's floats tweaked to reflect he's packing things.
 - Enclave
     - Fixed RP NPC suffering no damage in the puzzle room.
     - Fixed vertibird pad area being immune to meltdown countdown and FEV poisoning.
