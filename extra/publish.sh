@@ -16,5 +16,5 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   wget -q "$sfall_url" -O sfall.7z
   7z e sfall.7z ddraw.dll
   cp extra/sfall/ddraw.ini .
-  zip -r "${mod_name}_v${version}.zip" ddraw.dll ddraw.ini "$mods_dir/" # our package
+  zip -r "${mod_name}_${version}.zip" ddraw.dll ddraw.ini "$mods_dir/" # our package
 fi
