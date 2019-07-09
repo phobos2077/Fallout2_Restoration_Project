@@ -15,8 +15,6 @@ script:
 
 env:
   global:
-    - WINEDEBUG="-all"       # just a little bit faster
-    - WINEARCH=win32         # needed for wcc
     - sfall_version=4.1.8.1
     - mpack_version=4.1.8
     - mods_dir=mods
