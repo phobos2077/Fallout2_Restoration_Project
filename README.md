@@ -4,7 +4,7 @@
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
  | [__Installation__](#installation)
- | [__Reporting issues__](#reporting-issues)
+ | [__Reporting issue__](#reporting-issues)
 
 This is an update for [killap's Restoration Project](http://killap.net/) for Fallout 2. This is _not_ an independent mod, it should be installed on top of RP 2.3.3.
 
@@ -14,11 +14,11 @@ This is an update for [killap's Restoration Project](http://killap.net/) for Fal
 1. Download the latest RPU [release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest) (rpu_vX.zip).
 1. Unzip the archive into the main game directory, overwriting files when asked. That's it.
 
-**NOTES**
+**Notes:**
 1. RPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
 
-### Reporting bugs
+### Reporting issues
 If you've found an issue:
 
 1. Make sure it's in RP's content. Vanilla bugs should be reported to [UP](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch). Bugs in other mods - to the corresponding authors.
@@ -31,7 +31,7 @@ If you've found an issue:
     * **Crash**. See [reporting crashes](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CRASH.md).
     * **Something else**. Use your best judgement. Provide as much info as possible.
 
-**Additional notes:**
+**Notes:**
 - The best way to get the issue fixed is to submit a pull request.
 - One issue per problem.
 - Attach the files directly on Github, don't use external file sharing sites.
