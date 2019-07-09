@@ -9,6 +9,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   # data
   dst="$mods_dir/$mod_name.dat"
   mkdir -p "$dst"
+  chmod 0444 data/proto/*
   mv data/* "$dst/"
 
   # sfall
