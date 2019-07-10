@@ -1,6 +1,6 @@
 ## Version 1
 
-- Generic
+- General
     - All the fixes from UPU [version 1](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CHANGELOG.md).
     - Damage formula no longer erroneously defaults to YAAM.
     - Various under the hood changes and optimizations.
