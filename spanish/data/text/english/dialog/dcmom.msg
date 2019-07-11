@@ -130,8 +130,8 @@ Quiza tu tengas más suerte convenciendolos que se fueran?}
 {811}{}{Si atrapo a uno de esos pequeños bastardos robandome, sera la ultima cosa que ellos hagan. No me importa cual es su excusa, un ladron es un ladron. Adios.}
 {820}{}{Buenas noticias Mamá. El edificio es todo tuyo. Me topé con un pequeño obstáculo, pero esos okupas ya no te molestaran.}
 {821}{}{Los okupas dijeron que se iran y que lamentan haber causado problemas. Estan actualmente limpiando el lugar para intentar conmpensartelo. Estaba pensando que quiza, si ellos lo hacen lo suficientemente bien, podrias ofrecerles algunos trabajos.}
-{822}{}{Oh, esas son geniales noticias! Muchas gracias! Espero que nadie haya resultado herido en el proceso. Me pondré en contacto con algunos amigos y
-comenzaremos ya mismo. Si aun estas en el pueblo en unos días, deberías pasarte. Con suerte tendremos las cosas listas para entonces. Oh,
+{822}{}{Oh, esas son geniales noticias! Muchas gracias! Espero que nada haya salido herido en el proceso. Me pondre en contacto con algunos amigos y
+comenzaremos ya mismo. Si aun estas en el pueblo en unos dias, deberias pasarte. Con suerte tendremos las cosas funcionando para entonces. Oh,
 Estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}
 {823}{}{Hmm ... Supongo que todos merecen una segunda oportunidad. Pasare por allí con algunos amigos y hablaremos con ellos. Muchas gracias
   por ayudarme con esto. Si aun estás en el pueblo en unos días, deberías pasarte. Con suerte, tendremos las cosas listas para entonces. Oh, estoy tan
@@ -139,6 +139,6 @@ Estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}
 {824}{}{Gracias, Mamá. Hasta otra.}
 {850}{}{Ayudaste a establecer un orfanato para los niños de La Guarida.}
 {1821}{}{Buenas noticias Mamá. El edificio es todo tuyo. Tomo algo de tiempo convencerlos, pero los okupas estan de acuerdo en empacar y mudarse. No creo que te molesten nuevamente.}
-{1822}{}{Oh, esas son geniales noticias! Muchas gracias! Me pondré en contacto con algunos amigos y
-comenzaremos ya mismo. Si aun estas en el pueblo en unos días, deberías pasarte. Con suerte tendremos las cosas listas para entonces. Oh,
+{1822}{}{Oh, esas son geniales noticias! Muchas gracias! Me pondre en contacto con algunos amigos y
+comenzaremos ya mismo. Si aun estas en el pueblo en unos dias, deberias pasarte. Con suerte tendremos las cosas funcionando para entonces. Oh,
 estoy tan emocionada! Gracias de nuevo. Ten, esta comida va por mi cuenta.}

@@ -233,7 +233,7 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {2111}{}{Vaya, gracias por esto. Todo esta mucho mejor. A veces es un poco pequeño, pero puedo ajustarlo fácilmente.}
 {2112}{}{No tengo tiempo para esto. Adiós.}
 {2120}{}{Me alegra que estés disfrutando de mi duro trabajo. También hice posible cambiar las apariencias. Ya no estas atascado con una raza especifica o un tipo de cabello. Yosan12, x'ill, y otros hicieron ellos mismos sus apariencias físicas, pero yo, con la ayuda de Empress Timeslip, profundice en el Origen para que todo sea posible. Veo que te has aprovechado de esa nueva habilidad. ¡Extraordinario!}
-{2121}{}{Oh, amo mi nueva apariencia. ¡Gracias por eso!}
+{2121}{}{Oh, me encanta mi nueva apariencia. ¡Gracias por eso!}
 {2122}{}{De acuerdo. Adiós.}
 {2130}{}{Me alegra que estés disfrutando de mi duro trabajo. También hice posible cambiar las apariencias. Ya no estas atascado con una raza específica o tipo de cabello. Yosan12, x'il y otros hicieron las apariencias físicas, pero yo, con el ayuda de Empress Timeslip, profundizando en la Fuente para que todo sea posible. Veo que no te has aprovechado de esta característica. Solo sepan que está ahí y disponible. Un gran lugar para probarlo es en la EPA. ¡Oh, qué divertido!}
 {2131}{}{Lo tendré en mente. Gracias.}
@@ -242,7 +242,7 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {2141}{}{Adiós.}
 {2142}{}{Nos vemos.}
 {2150}{}{La Fuente es complicada, pero puedo manejarlo.}
-{2151}{}{Disfruta la extensa visión de este mundo!}
+{2151}{}{¡Disfruta de la expandida viabilidad de este mundo!}
 {2152}{}{¡Disfruta el nuevo tú!}
 {2200}{}{Ves a Mikael Grizzly.}
 {2201}{}{Este animal es muy peludo.}
@@ -255,8 +255,7 @@ Tu odio te ha hecho poderosa y tu personaje se ha desarrollado de acuerdo con mi
 {2311}{}{Bonito cabello, hombre. Ayudé a hacer eso posible.}
 {2400}{}{Ves un montón de rocas.}
 {2401}{}{Hay una placa en las rocas.}
-{2410}{}{Hay una placa en la pila de rocas. Lo lees y dice: "Dedicado a Per Jorner. Maestro de los recorridos,
- Rey de los lagartos, y Acumulador de todas las rocas".}
+{2410}{}{Hay una placa en la pila de rocas. Lee: "Dedicado a Per Jorner. Maestro de los recorridos, Rey de los lagartos, y Acumulador de todas las rocas".}
 {2500}{}{Ves una gran masa pegajosa.}
 {2501}{}{Esta masa pegajosa parece deletrear algo: "Dedicado a todos aquellos cuyos nombres han sido olvidados, pero
 sin embargo ayudaron a hacer todo posible."}
