@@ -2,6 +2,8 @@
 
 set -xeu -o pipefail
 
+bin_dir="$(realpath $bin_dir)"
+
 # release?
 if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   version="$TRAVIS_TAG"
