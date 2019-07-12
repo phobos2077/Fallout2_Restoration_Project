@@ -13,7 +13,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
 
   # I don't know how to pack recursively
   for f in $(find data -type f | sed 's|\/|\\|g' | sort); do # replace slashes with backslashes
-    WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/dat.exe" a $dat "$f"
+    WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/dat2.exe" a $dat "$f"
   done
 
   # sfall
@@ -21,5 +21,5 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   wget -q "$sfall_url" -O sfall.7z
   7z e sfall.7z ddraw.dll
   cp extra/sfall/ddraw.ini .
-  zip "${mod_name}_${version}.zip" ddraw.dll ddraw.ini "$mods_dir/" # our package
+  zip -r "${mod_name}_${version}.zip" ddraw.dll ddraw.ini "$mods_dir/" # our package
 fi
