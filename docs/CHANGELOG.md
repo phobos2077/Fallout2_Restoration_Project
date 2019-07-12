@@ -23,3 +23,7 @@
     - Lenny: moved ammo from hands to inventory.
 - Hubologists' stash
     - Added proper messages for using skills and items on the top door.
+
+## Version 2
+
+Repacked into .dat file.
