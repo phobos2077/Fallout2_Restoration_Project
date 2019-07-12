@@ -15,9 +15,8 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
 
   cd data
   # I don't know how to pack recursively
-  for f in $(find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort); do # replace slashes with backslashes
-    WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/dat2.exe" a $dat "$f"
-  done
+  find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > ../file.list # replace slashes with backslashes
+  WINEARCH=win32 WINEDEBUG=-all wine "$bin_dir/dat2.exe" a $dat @../file.list
   cd ..
   mv "data/$dat" "$mods_dir/"
 
