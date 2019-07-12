@@ -30,7 +30,7 @@ fi
 cp -f "$cache_dir/$compile_exe" "$bin_dir/"
 
 # wcc, check cache
-if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe"]]; then
+if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe" ]]; then
   wget -q "$sfse_url" -O "$sfse_file"
   for f in wcc386.exe wccd386.dll dat2.exe; do
     7z e "$sfse_file" "$sfse_dir/$f"
