@@ -12,7 +12,7 @@ This is an update for [killap's Restoration Project](http://killap.net/) for Fal
 ### Installation
 1. Start with a clean humongous installation of the game.
 1. Download and install [RP 2.3.3](http://killap.net/) normally.
-1. Download the latest RPU [release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest) (rpu_vX.7z).
+1. Download the latest RPU [release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest).
 1. Extract the archive into the main game directory, overwriting files when asked. That's it.
 
 **Notes:**

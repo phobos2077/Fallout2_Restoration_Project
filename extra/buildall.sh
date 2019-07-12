@@ -5,7 +5,7 @@ set -xeu -o pipefail
 src="$(realpath scripts_src)"
 dst="$(realpath data/scripts)"
 extra_dir="$(realpath extra)"
-bin_dir="$(realpath $extra_dir/bin)"
+bin_dir="$(realpath $bin_dir)"
 skip_list="$(realpath $extra_dir/skip.list)"
 
 mkdir -p "$dst"

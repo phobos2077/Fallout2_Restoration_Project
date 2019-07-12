@@ -19,12 +19,13 @@ env:
     - mpack_version=4.1.8
     - mods_dir=mods
     - mod_name=rpu
+    - bin_dir=extra/bin
 
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
   file_glob: true
-  file: rpu*.7z
+  file: rpu*.zip
   skip_cleanup: true
   on:
     tags: true
