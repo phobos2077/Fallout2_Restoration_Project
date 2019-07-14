@@ -40,7 +40,7 @@ for d in $(ls $src); do
     done
     set -x # enabling output again
     if [[ -n "$files" ]]; then
-      parallel.moreutils -j2 -i bash -c "process_file {} $dst" -- $files
+      parallel -j2 -i bash -c "process_file {} $dst" -- $files
     fi
     cd ..
   fi
