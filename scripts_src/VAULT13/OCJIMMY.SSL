@@ -143,7 +143,7 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
 
    tvarSetNum(4);
-   tvarCBack("tvar_callback");
+   tvarCBack(@tvar_callback);
    tvarTile(0, JIM_TILE1);
    tvarTime(0, game_ticks(1));
 

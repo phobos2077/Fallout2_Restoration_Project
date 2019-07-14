@@ -170,7 +170,7 @@ procedure map_enter_p_proc begin
    tvarTime(5, game_ticks(Random(0, 4)));
    if (is_loading_game == FALSE) then
       tvarWarpToPos(0, game_time + game_ticks(1));
-   tvarCBack("destCall");
+   tvarCBack(@destCall);
    tvarSetTimer(game_ticks(1));
    doNormalWalking := 1;
 //   add_timer_event(self_obj, 0, TIMER_CHECK_TIME);

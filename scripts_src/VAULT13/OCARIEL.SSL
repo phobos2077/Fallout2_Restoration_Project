@@ -141,7 +141,7 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
 
    tvarSetNum(2);
-   tvarCBack("tile_cb_func");
+   tvarCBack(@tile_cb_func);
    tvarTile(0, ARIEL_COMMON_POS);
    tvarTile(1, ARIEL_LIB_POS);
    tvarTime(0, ONE_GAME_HOUR * 12);
