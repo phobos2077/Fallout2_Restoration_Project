@@ -2,6 +2,11 @@
 
 set -xeu -o pipefail
 
+if ! $extra_dir/need-build.sh ; then
+  echo "scripts haven't changed, skipping build"
+  exit 0
+fi
+
 mpack_file="modderspack_$mpack_version.7z"
 mpack_url="https://sourceforge.net/projects/sfall/files/Modders%20pack/$mpack_file/download"
 compile_exe="compile.exe"

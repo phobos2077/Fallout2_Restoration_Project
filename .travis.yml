@@ -19,6 +19,7 @@ env:
     - mpack_version=4.1.8
     - mods_dir=mods
     - mod_name=rpu
+    - extra_dir=extra
     - bin_dir=extra/bin
 
 deploy:
