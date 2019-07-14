@@ -18,7 +18,7 @@ sfse_dir="Fallout sFall Script Editor/Resources"
 
 # directories
 cache_dir="$HOME/.cache/build"
-bin_dir="extra/bin"
+bin_dir="$(realpath extra/bin)"
 mkdir -p "$cache_dir" "$bin_dir"
 
 # packages
