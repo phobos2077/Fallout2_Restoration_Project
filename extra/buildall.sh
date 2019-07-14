@@ -8,7 +8,7 @@ extra_dir="$(realpath extra)"
 bin_dir="$(realpath $bin_dir)"
 skip_list="$(realpath $extra_dir/skip.list)"
 
-if [[ "$($extra_dir/check-build.sh)" == "0" ]]; then
+if ! $extra_dir/need_build.sh ; then
   echo "scripts haven't changed, skipping build"
   exit 0
 fi
