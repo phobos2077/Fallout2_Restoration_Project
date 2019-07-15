@@ -2,6 +2,9 @@
 
 set -xeu -o pipefail
 
+extra_dir=${extra_dir:-extra}
+mpack_version=${mpack_version:-4.1.9}
+
 if ! $extra_dir/need-build.sh ; then
   echo "scripts haven't changed, skipping build"
   exit 0
