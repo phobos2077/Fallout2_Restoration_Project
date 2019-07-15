@@ -15,8 +15,8 @@
  en un traje bien hecho, luego se guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y peinar.
  su pelo oscuro y liso con la rápida precisión de un profesional experimentado.] Entonces, ¿dónde está el doctor?}
 {221}{}{El doc? Oh, probablemente esté por aquí en alguna parte. De hecho, Creo que el esta en camino, así que me iré de aquí y los dejaré a ustedes dos. ¡Adiós!}
-{222}{}{Esto puede sorprenderte, pero has estado congelado durante mucho tiempo. Quienquiera que fuese "el doc", El ciertamente hace mucho tiempo ya a de estar muerto. Si él era tu amigo, entonces lo siento.}
-{223}{}{I don't mean to blow your mind, but you've been on ice for a *real* long time. I'm pretty sure your friend, "the doc", is long dead by now.}
+{222}{}{Esto puede llegar a sorprenderte, pero has estado congelado durante mucho tiempo. Quienquiera que fuese "el doc", El ciertamente hace mucho tiempo ya a de estar muerto. Si él era tu amigo, entonces lo siento.}
+{223}{}{No es mi intención darte con un palo en la cabeza, pero has estado en el hielo durante un *buen* largo tiempo. Estoy bastante seguro de que tu amigo, "el doc", ya lleva mucho tiempo muerto.}
 {224}{}{Listen up, pretty boy. I didn't unthaw your psychotic ass so I could answer your questions and watch you groom
  yourself. I'm only letting you live long enough to tell me whatever useful information you might have. So start talking.
  The more you can tell me, the longer you get to live.}

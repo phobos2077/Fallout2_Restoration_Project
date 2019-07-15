@@ -8,17 +8,16 @@
 {211}{}{Lo siento, no te entiendo. Adiós.}
 {212}{}{Interesante. Parece que solamente puedes comunicarte usando numeros binarios. Espera,
 si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
-{220}{}{[Después de un par de horas, tu finalmente crees que tradujiste correctamente los números binarios. Aparentemente dice "Ayúdame! Corte eléctrico."}
+{220}{}{[Despues de un par de horas, finalmente crees que has logrado traducir correctamente los números binarios. Parece que dice "¡Ayudame! Cortocircuito."]}
 {221}{}{Bueno, eso fue divertido de decodificar. Nos vemos.}
 {222}{}{Un corte eléctrico en el rollo de cinta, eh? De acuerdo,veamos si podemos arreglarte.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
-{231}{}{Sólo pasaba a saludar. Nos vemos.}
+{231}{}{Sólo checkeaba. Nos vemos.}
 {232}{}{No te preocupes, nadie va a hacerte daño.}
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
 {241}{}{De acuerdo, te daré }
-{242}{}{Still not working? Hold on, let me decipher that.}
-{250}{}{[You're able to decode the message much quicker this time: "Reboot me!"] Oh, of course. [You reboot the machine
- running the hologram. To pass the time, you whistle as it chugs through all its starting procedures.]}
+{242}{}{¿Sigue sin funcionar? Espera, déjame descifrar eso.}
+{250}{}{[Eres capaz de decodificar el mensaje mucho más rápido esta vez: "¡Reinicia!"] Oh, por supuesto. [Reinicias la máquina ejecutando el holograma. Para matar el tiempo, silbas mientras suenan todos sus procedimientos de inicio.]}
 {251}{}{[Continuar.]}
 {260}{}{By Hawking, you've done it! My vocal program had been stuck in binary mode for *years*. It's been so long since
  I've had the pleasure of exchanging dialogue with a fellow intellect. You'd think during all this time *one* of my
