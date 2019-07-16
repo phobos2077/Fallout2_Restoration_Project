@@ -1,7 +1,0 @@
-*.frm filter=lfs diff=lfs merge=lfs -text
-*.fr0 filter=lfs diff=lfs merge=lfs -text
-*.fr1 filter=lfs diff=lfs merge=lfs -text
-*.fr2 filter=lfs diff=lfs merge=lfs -text
-*.fr3 filter=lfs diff=lfs merge=lfs -text
-*.fr4 filter=lfs diff=lfs merge=lfs -text
-*.fr5 filter=lfs diff=lfs merge=lfs -text
