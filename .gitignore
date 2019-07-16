@@ -1,7 +1,6 @@
 *.BAT
 compile.exe*
 !SRC/!COMPILED
-data/art
 *.int
 *.err
 *.tmp
