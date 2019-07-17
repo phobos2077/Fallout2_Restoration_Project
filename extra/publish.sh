@@ -24,7 +24,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
 
   # pack components into separate dat files
   cd "$comp_dir"
-  for c in $(ls) do
+  for c in $(ls); do
     dat="${mod_name}_$c.dat"
     cd "$c"
     find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > ../../file.list
