@@ -25,6 +25,7 @@
 */
 #include "..\headers\define.h"
 #include "..\headers\broken1.h"
+#include "..\global\rpu.h"
 
 #define NAME                    SCRIPT_HCLIZ
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
@@ -445,6 +446,7 @@ end*/
 
 
 procedure Node001 begin
+   variable dogmeat_armor_enabled := rpu_msetting(set_dogmeat_armor);
    if( local_var(LVAR_Herebefore) == 1 ) then begin
       // Only display this Reply if we have already met Liz.
       Reply(104);
@@ -468,7 +470,7 @@ procedure Node001 begin
 //      NOption(111,Node010,004);
 
    //added by killap - expansion (k9 armor)
-   if (local_var(LVAR_Sold_K9_Armor) == 0) then
+   if ((local_var(LVAR_Sold_K9_Armor) == 0) and dogmeat_armor_enabled) then
       NOption(200,Node030,004);
    //end
 

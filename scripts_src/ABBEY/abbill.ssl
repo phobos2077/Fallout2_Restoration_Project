@@ -8,6 +8,7 @@
 /* Include Files */
 #include "..\headers\define.h"
 #include "..\headers\ABBEY.H"
+#include "..\global\rpu.h"
 
 #define NAME                    SCRIPT_ABBILL
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town
@@ -189,13 +190,15 @@ procedure Node998 begin
 end
 
 procedure Node001 begin
+   variable marcus_armor_enabled := rpu_msetting(set_marcus_armor);
+
    if (local_var(LVAR_Herebefore) == 0) then
       Reply(200);
    else
       Reply(201);
    NOption(202, barter, 004);
 
-   if (local_var(LVAR_Sold_Marcus_Armor) == 0) then
+   if ((local_var(LVAR_Sold_Marcus_Armor) == 0) and marcus_armor_enabled) then
       NOption(210, Node006, 004);
 
    if (map_var(MVAR_Caravan_Info) > 0 ) then
