@@ -8,18 +8,20 @@ procedure start;
 
 variable enabled;
 
-procedure start begin
-  if game_loaded then enabled := rpu_msetting(set_smoking);
-
-  if not enabled then begin // probably would be cleaner to do this other way around, but oh well
+procedure smoking begin
+  if enabled then begin
+    ndebug("smoking enabled");
+  end else begin // probably would be cleaner to do this other way around, but oh well
     set_proto_data(PID_CIGARETTE, PROTO_IT_FLAGS, 0); // can't be bothered with bwors
     ndebug("smoking disabled");
-  end else ndebug("smoking enabled");
+  end
+end
+
+procedure start begin
+  if game_loaded then enabled := rpu_msetting(set_smoking);
+  call smoking;
 end
 
 procedure map_enter_p_proc begin
-  if not enabled then begin // probably would be cleaner to do this other way around, but oh well
-    set_proto_data(PID_CIGARETTE, PROTO_IT_FLAGS, 0); // can't be bothered with bwors
-    ndebug("smoking disabled");
-  end else ndebug("smoking enabled");
+  call smoking;
 end
