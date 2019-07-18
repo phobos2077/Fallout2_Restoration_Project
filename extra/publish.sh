@@ -5,6 +5,7 @@ set -xeu -o pipefail
 bin_dir="$(realpath $bin_dir)"
 dat2="WINEARCH=win32 WINEDEBUG=-all wine $bin_dir/dat2.exe"
 comp_dir="components"
+file_list="$(realpath file.list)"
 
 # release?
 if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
@@ -17,22 +18,24 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
 
   cd data
   # I don't know how to pack recursively
-  find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > ../file.list # replace slashes with backslashes
-  $dat2 a $dat @../file.list
+  find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list" # replace slashes with backslashes
+  $dat2 a $dat @"$file_list"
   cd ..
   mv "data/$dat" "$mods_dir/"
 
   # pack components into separate dat files
-  cd "$comp_dir"
-  for c in $(ls); do
-    dat="${mod_name}_$c.dat"
-    cd "$c"
-    find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > ../../file.list
-    $dat2 a $dat @../../file.list
+  if [[ -d "$comp_dir" ]]; then
+    cd "$comp_dir"
+    for c in $(ls); do
+      dat="${mod_name}_$c.dat"
+      cd "$c"
+      find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
+      $dat2 a $dat @"$file_list"
+      cd ..
+    done
     cd ..
-  done
-  cd ..
-  mv "$comp_dir/*dat" "$mods_dir/"
+    mv "$comp_dir/*dat" "$mods_dir/"
+  fi
 
   # sfall
   sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
