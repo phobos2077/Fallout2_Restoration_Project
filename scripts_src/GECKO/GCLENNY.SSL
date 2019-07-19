@@ -28,6 +28,7 @@
 #include "..\headers\define.h"
 #include "..\headers\gecko.h"
 #include "..\headers\NEWR1.h" //added by killap
+#include "..\global\rpu.h"
 
 #define NAME                    SCRIPT_GCLENNY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -1641,9 +1642,11 @@ procedure Node1009 begin
    lenny_party_member_options;
 end
 procedure Node1010 begin
+   variable look := rpu_msetting(set_lenny_look);
    // weapons that can be used
    //Reply("TEMP MESSAGE: CAN USE...");
-   Reply(4002);
+   if look == 0 then Reply(4002); // old
+   else Reply(4004); // new
    lenny_party_member_options;
 end
 procedure Node1100 begin

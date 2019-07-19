@@ -292,8 +292,11 @@
 
 {4000}{}{Well, okay, but I sure don't want to be left all alone here.}
 {4001}{}{All right, if you think it's really a good idea.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
+# old look weapons
+{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
 {4003}{}{Gosh I hope I won't need that.}
+# new look weapons
+{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
 
 #added by killap - NPC info
 {5000}{}{I think I m'might have a b'broken limb.}
