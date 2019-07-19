@@ -9,3 +9,4 @@
 #define set_marcus_armor "marcus_armor"
 #define set_dogmeat_armor "dogmeat_armor"
 #define set_smoking "smoking"
+#define set_lenny_look "lenny_new_look"

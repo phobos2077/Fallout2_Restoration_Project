@@ -1,0 +1,58 @@
+#include "..\headers\define.h"
+#include "..\headers\sfall\define_extra.h"
+#include "rpu.h"
+
+#define NAME "gl_k_lenny_look"
+
+procedure start;
+
+variable enabled;
+
+procedure unequip_weapon(variable who) begin
+  variable weapon;
+  weapon := critter_inven_obj2(who, INVEN_TYPE_RIGHT_HAND);
+  if weapon then begin
+    variable weapon_anim := get_proto_data(obj_pid(weapon), PROTO_WP_ANIM);
+
+    if enabled 
+      and (weapon_anim == WPN_ANIM_SMG
+        or weapon_anim == WPN_ANIM_PISTOL
+        or weapon_anim == WPN_ANIM_SPEAR)
+    then inven_unwield(who); // LAGHUL can't use these
+
+    if not enabled and weapon_anim == WPN_ANIM_RIFLE then inven_unwield(who); // NAVGUL can't use rifles
+  end else ndebug("no weapon, pass");
+end
+
+procedure change_look(variable who) begin
+  if enabled then begin
+    call unequip_weapon(who);
+    art_change_fid_num(who, FID_LAGHUL);
+    ndebug("new look enabled");
+  end else begin
+    call unequip_weapon(who);
+    art_change_fid_num(who, FID_NAVGUL); // allow to change back and forth
+    ndebug("new look disabled");
+  end
+end
+
+procedure map_enter_p_proc begin
+  // Lenny in party
+  if Lenny_Ptr then call change_look(Lenny_Ptr);
+  else begin //not in party
+    variable who;
+    foreach who in list_as_array(LIST_CRITTERS) begin
+      if obj_pid(who) == PID_LENNY then begin
+        call change_look(who);
+      end
+    end
+  end
+end
+
+procedure start begin
+  if game_loaded then begin
+    ndebug("initialized");
+    enabled := rpu_msetting(set_lenny_look);
+    call map_enter_p_proc;
+  end
+end
