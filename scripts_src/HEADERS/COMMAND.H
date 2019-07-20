@@ -1286,7 +1286,7 @@ end
 
 procedure doVaultBoxerAppearance begin
    variable enabled := rpu_msetting(set_vault_boxer);
-   if enabled then begin
+   if enabled and appearance_mod_enabled then begin
       variable armor;
       set_global_var(GVAR_TMP_GLOBAL_VAR,1);
       if (dude_is_male) then begin
@@ -1318,7 +1318,7 @@ end
 
 procedure removeVaultBoxerAppearance begin
    variable enabled := rpu_msetting(set_vault_boxer);
-   if enabled then begin
+   if enabled and appearance_mod_enabled then begin
       set_global_var(GVAR_TMP_GLOBAL_VAR,0);
       if (dude_is_male) then begin
          if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin

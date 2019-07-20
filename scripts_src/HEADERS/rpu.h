@@ -15,4 +15,6 @@
 #define set_lenny_look "lenny_new_look"
 #define set_vault_boxer "vault_boxer"
 
+#define appearance_mod_enabled get_ini_setting("ddraw.ini|Misc|EnableHeroAppearanceMod")
+
 #endif
