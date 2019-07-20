@@ -40,7 +40,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
 
   # pack appearance, too
   if [[ -d "$appearance_dir" ]]; then
-    mkdir "$release_dir/appearance"
+    mkdir -p "$release_dir/appearance"
     cd "$appearance_dir"
     for a in $(ls); do
       dat="$a.dat"
