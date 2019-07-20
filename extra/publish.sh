@@ -6,6 +6,7 @@ bin_dir="$(realpath $bin_dir)"
 dat2="WINEARCH=win32 WINEDEBUG=-all wine $bin_dir/dat2.exe"
 comp_dir="components"
 file_list="$(realpath file.list)"
+release_dir="$(realpath $release_dir)"
 
 # release?
 if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
@@ -37,10 +38,30 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
     mv "$comp_dir/*dat" "$mods_dir/"
   fi
 
-  # sfall
+  # pack appearance, too
+  if [[ -d "$appearance_dir" ]]; then
+    mkdir "$release_dir/appearance"
+    cd "$appearance_dir"
+    for a in $(ls); do
+      dat="$a.dat"
+      cd "$a"
+      find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
+      $dat2 a $dat @"$file_list"
+      cd ..
+    done
+    cd ..
+    mv "$appearance_dir/*.dat" "$release_dir/appearance/"
+  fi
+
+  # sfall and final package
   sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
   wget -q "$sfall_url" -O sfall.7z
   7z e sfall.7z ddraw.dll
-  cp extra/sfall/ddraw.ini .
+  mv ddraw.dll "$release_dir/"
+  cp extra/sfall/ddraw.ini "$release_dir/"
+  pushd .
+  cd "$release_dir"
   zip -r "${mod_name}_${version}.zip" ddraw.dll ddraw.ini "$mods_dir/" # our package
+  popd
+  mv "$release_dir/${mod_name}_${version}.zip" .
 fi
