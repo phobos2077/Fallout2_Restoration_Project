@@ -25,7 +25,7 @@
 */
 #include "..\headers\define.h"
 #include "..\headers\broken1.h"
-#include "..\global\rpu.h"
+#include "..\headers\rpu.h"
 
 #define NAME                    SCRIPT_HCLIZ
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)

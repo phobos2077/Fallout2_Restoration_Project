@@ -35,11 +35,6 @@ procedure damage_p_proc;
 procedure map_enter_p_proc;
 procedure timed_event_p_proc;
 
-//added by killap - expansion
-procedure doVaultBoxerAppearance;
-procedure removeVaultBoxerAppearance;
-//end added
-
 /* Script Specific Procedure Calls */
 procedure Node998;                                      // This Node is Always Combat
 procedure Node999;                                      // This Node is Always Ending
@@ -259,59 +254,6 @@ end
 
 procedure use_skill_on_p_proc begin
 end
-
-//added by killap - option in RP installer
-procedure doVaultBoxerAppearance begin
-   variable armor;
-   set_global_var(GVAR_TMP_GLOBAL_VAR,1);
-   if (dude_is_male) then begin
-      if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR) == 0) then begin
-            armor := create_object(PID_VAULT_BOXER_MALE_LONG_HAIR,0,0);
-            add_obj_to_inven(dude_obj,armor);
-            wield_obj_critter(dude_obj, armor);
-            refresh_pc_art;
-            //metarule3(107,dude_obj,FID_HMBOXL,0);
-         end
-      end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD) == 0) then begin
-            armor := create_object(PID_VAULT_BOXER_MALE_BALD,0,0);
-            add_obj_to_inven(dude_obj,armor);
-            wield_obj_critter(dude_obj, armor);
-            refresh_pc_art;
-            //metarule3(107,dude_obj,FID_HMBOXB,0);
-         end
-      end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
-         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL) == 0) then begin
-            armor := create_object(PID_VAULT_BOXER_MALE_NORMAL,0,0);
-            add_obj_to_inven(dude_obj,armor);
-            wield_obj_critter(dude_obj, armor);
-            refresh_pc_art;
-            //metarule3(107,dude_obj,FID_HMBOXS,0);
-         end
-      end
-   end
-end
-
-procedure removeVaultBoxerAppearance begin
-   set_global_var(GVAR_TMP_GLOBAL_VAR,0);
-   if (dude_is_male) then begin
-      if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-         remove_armor(dude_obj)
-         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR));
-         refresh_pc_art;
-      end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-         remove_armor(dude_obj)
-         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD));
-         refresh_pc_art;
-      end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
-         remove_armor(dude_obj)
-         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL));
-         refresh_pc_art;
-      end
-   end
-end
-//end added
 
 procedure Node998 begin
    if (hostile == false) then begin

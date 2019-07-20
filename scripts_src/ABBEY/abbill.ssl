@@ -8,7 +8,7 @@
 /* Include Files */
 #include "..\headers\define.h"
 #include "..\headers\ABBEY.H"
-#include "..\global\rpu.h"
+#include "..\headers\rpu.h"
 
 #define NAME                    SCRIPT_ABBILL
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town

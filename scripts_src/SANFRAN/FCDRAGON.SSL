@@ -26,7 +26,6 @@
         -rwh2   11/13/97
 */
 #include "..\headers\define.h"
-//#include "..\headers\sanfran1.h"
 
 #define NAME                    SCRIPT_FCDRAGON
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
@@ -106,11 +105,6 @@ procedure checkTestObj;
 
 procedure lopanHit;
 procedure DoTalking;
-
-//added by killap - expansion
-procedure doVaultBoxerAppearance;
-procedure removeVaultBoxerAppearance;
-//end added
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -1240,59 +1234,6 @@ procedure startSequence begin
    reg_anim_end();
    add_timer_event(self_obj, 10, TIMER_LOPAN_HIT);
 end
-
-//added by killap - option in RP installer
-procedure doVaultBoxerAppearance begin
-   variable armor;
-   set_global_var(GVAR_TMP_GLOBAL_VAR,1);
-   if (dude_is_male) then begin
-      if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR) == 0) then begin
-            armor := create_object(PID_VAULT_BOXER_MALE_LONG_HAIR,0,0);
-            add_obj_to_inven(dude_obj,armor);
-            wield_obj_critter(dude_obj, armor);
-            refresh_pc_art;
-            //metarule3(107,dude_obj,FID_HMBOXL,0);
-         end
-      end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD) == 0) then begin
-            armor := create_object(PID_VAULT_BOXER_MALE_BALD,0,0);
-            add_obj_to_inven(dude_obj,armor);
-            wield_obj_critter(dude_obj, armor);
-            refresh_pc_art;
-            //metarule3(107,dude_obj,FID_HMBOXB,0);
-         end
-      end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
-         if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL) == 0) then begin
-            armor := create_object(PID_VAULT_BOXER_MALE_NORMAL,0,0);
-            add_obj_to_inven(dude_obj,armor);
-            wield_obj_critter(dude_obj, armor);
-            refresh_pc_art;
-            //metarule3(107,dude_obj,FID_HMBOXS,0);
-         end
-      end
-   end
-end
-
-procedure removeVaultBoxerAppearance begin
-   set_global_var(GVAR_TMP_GLOBAL_VAR,0);
-   if (dude_is_male) then begin
-      if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-         remove_armor(dude_obj)
-         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR));
-         refresh_pc_art;
-      end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-         remove_armor(dude_obj)
-         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD));
-         refresh_pc_art;
-      end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
-         remove_armor(dude_obj)
-         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL));
-         refresh_pc_art;
-      end
-   end
-end
-//end added
 
 procedure getCurrentPid begin
    if (local_var(LVAR_Test_Stage) == 0) then

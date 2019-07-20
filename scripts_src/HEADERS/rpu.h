@@ -1,3 +1,6 @@
+#ifndef RPU_H
+#define RPU_H
+
 #define NAME "rpu"
 #define rpu_ini "mods\\rpu.ini"
 #define ndebug(message) debug_msg(NAME + ": " + message + "\n")
@@ -10,3 +13,6 @@
 #define set_dogmeat_armor "dogmeat_armor"
 #define set_smoking "smoking"
 #define set_lenny_look "lenny_new_look"
+#define set_vault_boxer "vault_boxer"
+
+#endif
