@@ -18,6 +18,7 @@ This is an update for [killap's Restoration Project](http://killap.net/) for Fal
 **Notes:**
 1. RPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
+1. [Party Orders](https://github.com/BGforgeNet/fallout2-party-orders) mod can be downloaded separately.
 
 ### Reporting issues
 If you've found an issue:
