@@ -37,6 +37,7 @@
 #include "..\headers\command.h"
 #include "..\headers\ModReact.h"
 #include "..\headers\partybkg.h"
+#include "..\headers\rpu.h"
 
 /* Standard Script Procedures */
 procedure start;
@@ -383,6 +384,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
+   variable start_node, background := -1, head := -1; //default: no head
    //begin B-team mod
    variable loc1;
    variable loc2;
@@ -397,41 +399,22 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   find_party_background;
+   if MacRae_Ptr or party_is_waiting then start_node := @Node019;
+   else start_node := @Node001;
 
-   if ( ( MacRae_Ptr != 0 ) or ( party_is_waiting ) ) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_CASSIDY,PartyMemberBackground);
-       //start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node019;
-       gSay_End;
-       end_dialogue;
+   if rpu_msetting(set_cassidy_head) then begin
+      head := HEAD_CASSIDY;
+      find_party_background;
+      background := PartyMemberBackground;
    end
-   else begin
-       start_gdialog(NAME,self_obj,4,HEAD_CASSIDY,PartyMemberBackground);
-       //start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node001;
-       gSay_End;
-       end_dialogue;
-   end
+
+   start_gdialog(NAME, self_obj, 4, head, background);
+   gSay_Start;
+      call start_node;
+   gSay_End;
+   end_dialogue;
+
    set_local_var( LVAR_Herebefore, 1 );
-
-   //comment out by killap
-   /*if( Perform_Party_Add == 1 ) then begin
-      Perform_Party_Add := 0;
-      party_add_self;
-      rm_timer_event( self_obj );
-      add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
-   end
-   if( Perform_Party_Remove == 1 ) then begin
-      Perform_Party_Remove := 0;
-      set_party_waiting;
-      critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_SLAVES);
-      rm_timer_event( self_obj );
-      add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
-   end*/
-   //end comment out by killap
 
      //begin B-team mod
      loc2:= critter_inven_obj(self_obj, 2);
@@ -603,7 +586,6 @@ end
 
 procedure Node007 begin
    Reply(132);
-
    NOption(133, Node008, 004);
 end
 

@@ -1,7 +1,6 @@
 #ifndef RPU_H
 #define RPU_H
 
-#define NAME "rpu"
 #define rpu_ini "mods\\rpu.ini"
 #define ndebug(message) debug_msg(NAME + ": " + message + "\n")
 #define sec_main "main"
@@ -14,6 +13,8 @@
 #define set_smoking "smoking"
 #define set_lenny_look "lenny_new_look"
 #define set_vault_boxer "vault_boxer"
+#define set_cassidy_head "cassidy_head"
+#define set_goris_derobing "goris_quick_derobing"
 
 #define appearance_mod_enabled get_ini_setting("ddraw.ini|Misc|EnableHeroAppearanceMod")
 
