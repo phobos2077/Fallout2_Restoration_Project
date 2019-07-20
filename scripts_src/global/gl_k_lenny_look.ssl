@@ -25,11 +25,12 @@ procedure unequip_weapon(variable who) begin
 end
 
 procedure change_look(variable who) begin
-  if enabled then begin
+  if enabled and obj_art_fid(who) != FID_LAGHUL then begin
     call unequip_weapon(who);
     art_change_fid_num(who, FID_LAGHUL);
     ndebug("new look enabled");
-  end else begin
+  end
+  if not enabled and obj_art_fid(who) != FID_NAVGUL then begin
     call unequip_weapon(who);
     art_change_fid_num(who, FID_NAVGUL); // allow to change back and forth
     ndebug("new look disabled");
