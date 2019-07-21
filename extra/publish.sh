@@ -3,7 +3,7 @@
 set -xeu -o pipefail
 
 bin_dir="$(realpath $bin_dir)"
-dat2="WINEARCH=win32 WINEDEBUG=-all wine $bin_dir/dat2.exe"
+dat2="wine $bin_dir/dat2.exe"
 comp_dir="components"
 file_list="$(realpath file.list)"
 release_dir="$(realpath $release_dir)"
