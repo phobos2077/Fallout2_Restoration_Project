@@ -24,7 +24,8 @@ env:
     - release_dir: release
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
-    - wine: "WINEARCH=win32 WINEDEBUG=-all wine"
+    - WINEARCH: win32
+    - WINEDEBUG: -all
 
 deploy:
   provider: releases
