@@ -15,14 +15,16 @@ script:
 
 env:
   global:
-    - sfall_version=4.1.9.1
-    - mpack_version=4.1.9.1
-    - mod_name=rpu
-    - extra_dir=extra
-    - bin_dir=extra/bin
-    - appearance_dir=appearance
-    - release_dir=release
-    - mods_dir=release/mods
+    - sfall_version: 4.1.9.1
+    - mpack_version: 4.1.9.1
+    - mod_name: rpu
+    - extra_dir: extra
+    - bin_dir: extra/bin
+    - appearance_dir: appearance
+    - release_dir: release
+    - mods_dir: release/mods
+    - mpack_7z: mpack.7z
+    - wine: "WINEARCH=win32 WINEDEBUG=-all wine"
 
 deploy:
   provider: releases
@@ -33,3 +35,4 @@ deploy:
   on:
     tags: true
     branch: master
+  draft: true

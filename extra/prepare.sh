@@ -30,8 +30,8 @@ sudo apt-get -q -y --no-install-recommends install wine-stable wine32 p7zip p7zi
 
 # compile.exe, check cache
 if [[ ! -f "$cache_dir/$compile_exe" ]]; then
-  wget -q "$mpack_url" -O mpack.7z
-  7z e mpack.7z "$mpack_compile"
+  wget -q "$mpack_url" -O "$mpack_7z"
+  7z e "$mpack_7z" "$mpack_compile"
   mv -f "$compile_exe" "$cache_dir/"
 fi
 # copy

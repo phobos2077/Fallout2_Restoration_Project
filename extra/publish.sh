@@ -53,12 +53,17 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
     mv "$appearance_dir/*.dat" "$release_dir/appearance/"
   fi
 
-  # sfall and final package
+  # sfall
   sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
   wget -q "$sfall_url" -O sfall.7z
   7z e sfall.7z ddraw.dll
   mv ddraw.dll "$release_dir/"
   cp extra/sfall/ddraw.ini "$release_dir/"
+
+  # npc armor mod
+  ./extra/npcarmor.sh
+
+  # final package
   pushd .
   cd "$release_dir"
   zip -r "${mod_name}_${version}.zip" ddraw.dll ddraw.ini "$mods_dir/" # our package
