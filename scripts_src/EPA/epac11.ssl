@@ -221,12 +221,6 @@ procedure kill_p_proc begin
 end
 
 procedure talk_p_proc begin
-   //B-team mod code
-   /*variable loc1;
-   variable loc2;
-   loc1:=critter_inven_obj(self_obj,0);*/
-   //end B-team mod code
-
   if (local_var(LVAR_Herebefore) == 0) then begin
       set_local_var(LVAR_Herebefore,1);
       start_gdialog(NAME,self_obj,4,-1,-1);
@@ -257,71 +251,6 @@ procedure talk_p_proc begin
       set_obj_visibility(self_obj,0); //visi
       call kill_p_proc;
   end
-
-//B-team mod code
-/*loc2:= critter_inven_obj(self_obj, 2);
-if (loc2 == 0) then begin
-   loc2 := critter_inven_obj(self_obj, 1);
-end
-if  (critter_inven_obj(self_obj,0)!=loc1) then
- begin
-  if (critter_inven_obj(self_obj,0)== 0 ) then
-  begin
-  //no armor
-  metarule3(107,self_obj,FID_NMPRMB,0);
-  end
-  else
-  if ((obj_pid(critter_inven_obj(self_obj,0))== 1) or (obj_pid(critter_inven_obj(self_obj,0))==379)) then
-  begin
-  // Ustawianie grafiki dla Lether Armor
-  metarule3(107,self_obj,FID_NMLTBB,0);
-  end
-  else
-  if ((obj_pid(critter_inven_obj(self_obj,0))== 232) or (obj_pid(critter_inven_obj(self_obj,0))== 3 )) then
-  begin
-  // Ustawianie grafiki dla Power Armor
-  metarule3(107,self_obj,FID_HAPOWR,0);
-  end
-  else
-  if ((obj_pid(critter_inven_obj(self_obj,0))==349) or (obj_pid(critter_inven_obj(self_obj,0))==348 )) then
-  begin
-  // Ustawianie grafiki dla Advenced Power Armor
-  metarule3(107,self_obj,FID_HANPWR,0);
-  end
-  else
-  if ((obj_pid(critter_inven_obj(self_obj,0))==240) or (obj_pid(critter_inven_obj(self_obj,0))==380) or (obj_pid(critter_inven_obj(self_obj,0))==2 )) then
-  begin
-  // Ustawianie grafiki dla Metal Armor
-  metarule3(107,self_obj,FID_NMMETB,0);
-  end
-  else
-  if ((obj_pid(critter_inven_obj(self_obj,0))==74) or (obj_pid(critter_inven_obj(self_obj,0))==265)) then
-  begin
-  // Ustawianie grafiki dla Lether Jacket
-  metarule3(107,self_obj,FID_NMMAXZ,0);
-  end
-  else
-  if ((obj_pid(critter_inven_obj(self_obj,0))==239) or (obj_pid(critter_inven_obj(self_obj,0))==17) or (obj_pid(critter_inven_obj(self_obj,0))==381 )) then
-  begin
-  // Ustawianie grafiki dla Combat Armor
-  metarule3(107,self_obj,FID_HMCMBT,0);
-  end
-  else
-  if ((obj_pid(critter_inven_obj(self_obj,0))==524) or (obj_pid(critter_inven_obj(self_obj,0))==113)) then
-  begin
-  // Ustawianie grafiki dla habitu
-  metarule3(107,self_obj,FID_HAROBE,0);
-  end
-  restock_obj := critter_inven_obj(self_obj, 1);
-  debug_msg("armour pid == " + obj_pid(restock_obj));
-  rm_obj_from_inven(self_obj, restock_obj);
-  add_obj_to_inven(self_obj, restock_obj);
-  if (loc2 != 0) then begin
-   wield_obj_critter(self_obj, loc2);
-  end
- end*/
-//end B-team mod code
-
 end
 
 procedure Node001 begin
@@ -345,9 +274,6 @@ procedure Node002 begin
          NOption(214,Node005,004);
          NOption(215,Node005,004);
       end
-
-      //if ( (global_var(GVAR_FETCH_GECKOPELTS) >= 1) or (global_var(GVAR_EPALIGHTING_GEN) >= 1) ) then
-      //   NOption(216,Node004,004);
    end
 end
 

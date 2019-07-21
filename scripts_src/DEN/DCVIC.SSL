@@ -388,12 +388,6 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   //begin B-team mod
-   /*variable loc1;
-   variable loc2;
-   loc1:=critter_inven_obj(self_obj,0);*/
-   //end B-team mod
-
    debug_msg("Trunk_In_Party == " + (Trunk_Ptr != 0));
    debug_msg("party_size == " + party_size);
    debug_msg("true_party_size == " + true_party_size);
@@ -432,70 +426,6 @@ procedure talk_p_proc begin
       end
       set_herebefore;
    end
-
-   //begin B-Team mod
-   /*loc2 := critter_inven_obj(self_obj, 2);
-   if (loc2 == 0) then begin
-      loc2 := critter_inven_obj(self_obj, 1);
-   end
-   if  (critter_inven_obj(self_obj,0)!=loc1) then
-    begin
-     if (critter_inven_obj(self_obj,0)== 0 ) then
-     begin
-     // Ustawianie grafiki dla golej postaci
-     metarule3(107,self_obj,FID_NMFATT,0);
-     end
-     else
-     if ((obj_pid(critter_inven_obj(self_obj,0))== 1) or (obj_pid(critter_inven_obj(self_obj,0))==379)) then
-     begin
-     // Ustawianie grafiki dla Lether Armor
-     metarule3(107,self_obj,FID_NMVILA,0);
-     end
-     else
-     if ((obj_pid(critter_inven_obj(self_obj,0))== 232) or (obj_pid(critter_inven_obj(self_obj,0))== 3 )) then
-     begin
-     // Ustawianie grafiki dla Power Armor
-     metarule3(107,self_obj,FID_NMVIPA,0);
-     end
-     else
-     if ((obj_pid(critter_inven_obj(self_obj,0))==349) or (obj_pid(critter_inven_obj(self_obj,0))==348 )) then
-     begin
-     // Ustawianie grafiki dla Advenced Power Armor
-     metarule3(107,self_obj,FID_HANPWR,0);
-     end
-     else
-     if ((obj_pid(critter_inven_obj(self_obj,0))==240) or (obj_pid(critter_inven_obj(self_obj,0))==380) or (obj_pid(critter_inven_obj(self_obj,0))==2 )) then
-     begin
-     // Ustawianie grafiki dla Metal Armor
-     metarule3(107,self_obj,FID_NMVIMA,0);
-     end
-     else
-     if ((obj_pid(critter_inven_obj(self_obj,0))==74) or (obj_pid(critter_inven_obj(self_obj,0))==265)) then
-     begin
-     // Ustawianie grafiki dla Lether Jacket
-     metarule3(107,self_obj,FID_NMVILJ,0);
-     end
-     else
-     if ((obj_pid(critter_inven_obj(self_obj,0))==239) or (obj_pid(critter_inven_obj(self_obj,0))==17) or (obj_pid(critter_inven_obj(self_obj,0))==381 )) then
-     begin
-     // Ustawianie grafiki dla Combat Armor
-     metarule3(107,self_obj,FID_NMVICA,0);
-     end
-     else
-     if ((obj_pid(critter_inven_obj(self_obj,0))==524) or (obj_pid(critter_inven_obj(self_obj,0))==113)) then
-     begin
-     // Ustawianie grafiki dla habitu
-     metarule3(107,self_obj,FID_HAROBE,0);
-     end
-     restock_obj := critter_inven_obj(self_obj, 1);
-     debug_msg("armour pid == " + obj_pid(restock_obj));
-     rm_obj_from_inven(self_obj, restock_obj);
-     add_obj_to_inven(self_obj, restock_obj);
-     if (loc2 != 0) then begin
-      wield_obj_critter(self_obj, loc2);
-     end
-    end*/
-   //end B-team mod
 end
 
 procedure destroy_p_proc begin
@@ -521,7 +451,6 @@ procedure Node999 begin
 end
 procedure Node998 begin
    // sets up combat
-   //set_hostile;
    set_local_var(LVAR_Hostile,2);
 end
 procedure Node996 begin
@@ -707,8 +636,6 @@ procedure Node010 begin
       end
       call Node993; //now Vic will go to Mom's if you don't recruit him
    end
-   //NOption(g_grunt,Node994,-003); --commented out by killap - move above
-   //NOption(195,Node994,004); --commented out by killap - move above
 end
 procedure Node011 begin
    if (node_11) then begin
