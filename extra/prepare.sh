@@ -28,14 +28,10 @@ mkdir -p "$cache_dir" "$bin_dir"
 sudo apt-get -q update
 sudo apt-get -q -y --no-install-recommends install wine-stable wine32 p7zip p7zip-full p7zip-rar moreutils
 
-# compile.exe, check cache
-if [[ ! -f "$cache_dir/$compile_exe" ]]; then
-  wget -q "$mpack_url" -O "$mpack_7z"
-  7z e "$mpack_7z" "$mpack_compile"
-  mv -f "$compile_exe" "$cache_dir/"
-fi
-# copy
-cp -f "$cache_dir/$compile_exe" "$bin_dir/"
+# compile.exe, no cache (mpack version may change)
+wget -q "$mpack_url" -O "$mpack_7z"
+7z e "$mpack_7z" "$mpack_compile"
+mv -f "$compile_exe" "$bin_dir/"
 
 # wcc, check cache
 if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe" ]]; then
