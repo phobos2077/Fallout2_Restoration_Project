@@ -54,8 +54,10 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   # sfall
   sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
   wget -q "$sfall_url" -O sfall.7z
-  7z e sfall.7z ddraw.dll
-  mv ddraw.dll "$release_dir/"
+  for f in ddraw.dll sfall.dat; do
+    7z e sfall.7z "$f"
+    mv "$f" "$release_dir/"
+  done
   cp extra/sfall/ddraw.ini "$release_dir/"
 
   # npc armor mod from sfall
