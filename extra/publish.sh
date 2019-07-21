@@ -45,7 +45,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
       dat="$a.dat"
       cd "$a"
       find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-      $dat2 a "$mods_dir/$dat" @"$file_list"
+      $dat2 a "$release_dir/appearance/$dat" @"$file_list"
       cd ..
     done
     cd ..
@@ -58,13 +58,13 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   mv ddraw.dll "$release_dir/"
   cp extra/sfall/ddraw.ini "$release_dir/"
 
-  # npc armor mod
+  # npc armor mod from sfall
   ./extra/npcarmor.sh
 
   # final package
   pushd .
   cd "$release_dir"
-  zip -r "${mod_name}_${version}.zip" ddraw.dll ddraw.ini "$mods_dir/" # our package
+  zip -r "${mod_name}_${version}.zip" * # our package
   popd
   mv "$release_dir/${mod_name}_${version}.zip" .
 fi
