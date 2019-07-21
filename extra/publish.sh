@@ -61,6 +61,9 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   # npc armor mod from sfall
   ./extra/npcarmor.sh
 
+  # ammo mod from sfall
+  ./extra/ammo.sh
+
   # final package
   pushd .
   cd "$release_dir"
