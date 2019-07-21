@@ -35,7 +35,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
       cd ..
     done
     cd ..
-    mv "$comp_dir/*dat" "$mods_dir/"
+    mv "$comp_dir/*/*.dat" "$mods_dir/"
   fi
 
   # pack appearance, too
@@ -50,7 +50,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
       cd ..
     done
     cd ..
-    mv "$appearance_dir/*.dat" "$release_dir/appearance/"
+    mv "$appearance_dir/*/*.dat" "$release_dir/appearance/"
   fi
 
   # sfall
