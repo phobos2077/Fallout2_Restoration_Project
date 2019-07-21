@@ -7,6 +7,7 @@ dat2="wine $bin_dir/dat2.exe"
 comp_dir="components"
 file_list="$(realpath file.list)"
 release_dir="$(realpath $release_dir)"
+mods_dir="$(realpath $mods_dir)"
 
 # release?
 if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
@@ -20,9 +21,8 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   cd data
   # I don't know how to pack recursively
   find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list" # replace slashes with backslashes
-  $dat2 a $dat @"$file_list"
+  $dat2 a "$mods_dir/$dat" @"$file_list"
   cd ..
-  mv "data/$dat" "$mods_dir/"
 
   # pack components into separate dat files
   if [[ -d "$comp_dir" ]]; then
@@ -31,11 +31,10 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
       dat="${mod_name}_$c.dat"
       cd "$c"
       find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-      $dat2 a $dat @"$file_list"
+      $dat2 a "$mods_dir/$dat" @"$file_list"
       cd ..
     done
     cd ..
-    mv "$comp_dir/*/*.dat" "$mods_dir/"
   fi
 
   # pack appearance, too
@@ -46,11 +45,10 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
       dat="$a.dat"
       cd "$a"
       find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-      $dat2 a $dat @"$file_list"
+      $dat2 a "$mods_dir/$dat" @"$file_list"
       cd ..
     done
     cd ..
-    mv "$appearance_dir/*/*.dat" "$release_dir/appearance/"
   fi
 
   # sfall
