@@ -7,6 +7,8 @@ mv data $bdir
 mkdir -p data/sound
 mv $bdir/SAVEGAME data/
 mv $bdir/sound/music data/sound/
-mv $bdir/*.txt data/
-mv $bdir/*.gcd data/
+for ext in txt TXT gcd GCD; do
+if [[ "$(ls $bdir | grep -c $ext)" -gt 0 ]]; then
+  mv $bdir/*.$ext data/
+fi
 echo "RPU installed."
