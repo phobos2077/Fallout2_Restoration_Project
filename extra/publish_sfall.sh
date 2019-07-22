@@ -2,7 +2,7 @@
 
 set -xeu -o pipefail
 
-release_dir="$(realpath $release_dir)""
+release_dir="$(realpath $release_dir)"
 
 sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
 wget -q "$sfall_url" -O sfall.7z
