@@ -361,7 +361,7 @@
 {443}{}{Wolf}                           # ECWlfPck.int    ; Military Base Wolf Pack
 {444}{}{Generator}                      # ESPwrGen.int    ; Military Base Power Generator
 {445}{}{Door}                           # ESLkDor.int     ; Military Base Locked Door (-30)
-{446}{}{Super Mutant}                   # ECGenMut.int    ; Military Base Generic Mutant
+{446}{}{Super mutant}                   # ECGenMut.int    ; Military Base Generic Mutant
 {447}{}{Salvatore's Man}                # ncSalMen.int    ; New Reno Salvatore's Men
 {448}{}{Bishop's Man}                   # ncBisMen.int    ; New Reno Bishop's Men
 {449}{}{Mordino's Man}                  # ncMorMen.int    ; New Reno Mordino's Men
@@ -521,7 +521,7 @@
 {603}{}{Squatter}                       # ECSquatr.int    ; Random Encounter Squatters
 {604}{}{Abolitionist}                   # ECAbolst.int    ; Random Encounter Abolitionist
 {605}{}{Bootlegger}                     # ECMonShn.int    ; Random Encounter Moonshine Runner
-{606}{}{Super Mutant}                   # ECRogMut.int    ; Random Encounter Rogue Super Mutants
+{606}{}{Super mutant}                   # ECRogMut.int    ; Random Encounter Rogue Super Mutants
 {607}{}{Fisherman}                      # ECFshrmn.int    ; Random Encounter Fisherman
 {608}{}{Slaver}                         # ECSlaver.int    ; Random Encounter Slaver
 {609}{}{Trapper}                        # ECTrappr.int    ; Random Encounter Trapper

@@ -276,7 +276,7 @@
 {1177}{}{the regulator}
 {1178}{}{uncalled}
 #
-# Super Mutants             # Fallout 2: Reserved?
+# Super mutants             # Fallout 2: Reserved?
 #
 {1180}{}{the head}
 {1181}{}{the left arm}
@@ -776,7 +776,7 @@
 {5225}{}{. The child looks confused and shaken}
 {5226}{}{, knocking this young target to the ground}
 #
-# series 5300 - Super Mutants
+# series 5300 - Super mutants
 #
 {5300}{}{, hurting the mighty mutant}
 {5301}{}{, striking a vital spot}

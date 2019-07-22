@@ -154,7 +154,7 @@
 {740}{}{Raiders}
 #
 {750}{}{Necropolis}
-{751}{}{Destroy the Super Mutants at the Watershed.}
+{751}{}{Destroy the super mutants at the Watershed.}
 {752}{}{Fix the Necropolis water pump.}
 #
 {760}{}{Hub}

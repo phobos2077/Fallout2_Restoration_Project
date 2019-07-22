@@ -2364,8 +2364,8 @@
 #                   36300 Kaga (Combat Messages - Area 3)
 #                   36400 Kaga (Combat Messages - Area 4)
 #                   36500 Kaga (Combat Messages - Area 5)
-#                   36600 Super Mutant (Master Army) - Hit Locations
-#                   36700 Super Mutant (Master Army) - Combat Messages
+#                   36600 Super mutant (Master Army) - Hit Locations
+#                   36700 Super mutant (Master Army) - Combat Messages
 #                   36800 Bounty Hunters - Combat Messages
 #
 ####################################################################################
@@ -2643,7 +2643,7 @@
 #
 #
 ############################################
-# 36600 Super Mutant (Master Army) - Hit Locations
+# 36600 Super mutant (Master Army) - Hit Locations
 ############################################
 #
 # target hit in head
@@ -2711,7 +2711,7 @@
 {36695}{}{Why you attack me there?}
 #
 ############################################
-# 36600 Super Mutant (Master Army) - Combat Messages
+# 36600 Super mutant (Master Army) - Combat Messages
 ############################################
 #
 #  running away
