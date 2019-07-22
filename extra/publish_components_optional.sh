@@ -7,7 +7,7 @@ dat2="wine $bin_dir/dat2.exe"
 comp_dir="components_optional"
 file_list="$(realpath file.list)"
 mods_dir="$(realpath $mods_dir)"
-release_dir="$(release_dir)"
+release_dir="$(realpath release_dir)"
 
 if [[ -d "$comp_dir" ]]; then
   cd "$comp_dir"
