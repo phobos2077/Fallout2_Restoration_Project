@@ -1,5 +1,5 @@
-- [Version 1](#version-1)
 - [Version 2](#version-2)
+- [Version 1](#version-1)
 
 ## Version 2
 
@@ -8,7 +8,7 @@ Repacked into .dat file.
 ## Version 1
 
 - General
-    - All the fixes from UPU [version 1](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CHANGELOG.md).
+    - All the fixes from UPU [version 1](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CHANGELOG.md#version-1).
     - Damage formula no longer erroneously defaults to YAAM.
     - Various under the hood changes and optimizations.
 - Abbey
