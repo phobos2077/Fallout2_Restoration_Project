@@ -1,1 +1,1 @@
-{100}{}{La puerta está cerrada desde el otro lado. No parece haber nada de dónde agarrar.}
+{100}{}{This door is completely rusted over. There's no way to open it.}

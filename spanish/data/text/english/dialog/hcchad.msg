@@ -6,8 +6,8 @@
 {122}{}{¡Deerk deegler!}
 {123}{}{¿Quién?}
 {124}{}{Marcus ha estado haciendo algunas preguntas sobre ti.}
-{125}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Broken Hills, como para ser arrestado. Estás jodido.}
-{126}{}{Existen evidencias suficientes de que has estado robando dinero que se suponía que debía ir a Broken Hills, como para ser arrestado. Suelta 1.000 dólares y me aseguraré de que puedas largarte de la ciudad.}
+{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
+{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
 {127}{}{¿Quién eres?}
 {128}{}{Háblame sobre este lugar.}
 {129}{}{Nada. Adiós.}
@@ -15,7 +15,7 @@
 {131}{}{¡A-adiós!}
 {132}{}{Soy Chad.}
 {133}{}{Mira, ahora estoy muy ocupado. Búscate a otro a quien molestar.}
-{134}{}{Soy el organizador de caravanas de la ciudad. Me ocupo de los negocios al otro extremo de las rutas comerciales. Estos días estoy centrado mayoritariamente en Gecko.}
+{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days, I'm focusing primarily on Gecko.}
 {135}{}{¡Vale!}
 {136}{}{Me gustaría trabajar contigo.}
 {137}{}{Suena excitante.}
@@ -26,10 +26,10 @@
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
-{145}{}{Él sospecha que está rociando el dinero que se supone que va a Broken Hills.}
+{145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
 {147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}
-{150}{}{Voy a encontrar la verdad. Adiós.}
+{150}{}{I'm going to find out the truth. Bye.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
 {158}{}{Gracias. Adiós.}
@@ -52,17 +52,17 @@
 {175}{}{No dejes que esos cabrones se te echen encima.}
 {200}{}{I don't know what yer talking about. I suggest you drop this matter before you start to piss people off. Now get outta here.}
 {201}{}{I got a better idea. How about I beat you to death instead.}
-{202}{}{Se metieron con la caravana equivocada.}
-{203}{}{Bien. Adiós.}
+{202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
+{203}{}{Fine, goodbye.}
 {204}{}{Ah dammit, I knew this wouldn't last forever. [Looks around and lowers his voice.] Alright, listen. Keep your mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money.] Now, if you'll excuse me, I have to get going.}
 {205}{}{[HECHO]}
-{206}{}{Tenéis un montón de coches por aquí.}
+{206}{}{Help! We have a thief on our hands here.}
 {207}{}{}
-{208}{}{¿Qué... quién demonios eres?}
+{208}{}{What the!? Who the hell are you?}
 {209}{}{Me? Uh, I'm the tooth fairy. I have come to bring you great riches.}
 {210}{}{Yeah and I'm Saint Nick. Now who the fuck are you and why are you in my house?}
 {211}{}{Really? I met a guy in New Reno who also claims to be Saint Nick.}
-{212}{}{::Te mira fijamente::}
+{212}{}{*Stares blankly*}
 {213}{}{(going on) Yeah, and then I told him my life story about Arroyo...}
 {214}{}{Listen, I don't give a flying fuck about any of your rambling bullshit. You're the one who's been snooping around, asking questions about the missing caravan money.}
 {215}{}{That's right. And I'm here to collect the final piece of evidence I need to put you away.}
@@ -76,7 +76,7 @@
 {219}{}{I'm here for the last piece of evidence in the caravan skimming case.}
 {220}{}{Oh really?...I thought I recognized you.}
 {221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
-{222}{}{De acuerdo entonces. Lo haré.}
+{222}{}{Alright, don't move. I'll go get Marcus.}
 {300}{}{You allow Chad to skip town.}
 {400}{}{Déjame tranquilo.}
 {2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your

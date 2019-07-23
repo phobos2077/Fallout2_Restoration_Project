@@ -1,18 +1,18 @@
-{100}{}{Ves a un guardia Hubologista.}
-{101}{}{Parece bastante hecho polvo.}
+{100}{}{You see a tired Hubologist guard.}
+{101}{}{He looks pretty bored.}
 {200}{}{(Looks at your with bored eyes) Hey. What brings you all the way down here?}
 {201}{}{I'm here to let you off duty early. I'm on the next guard shift.}
 {202}{}{Ashton sent me to get you. He said he needed to check with you about the recent set of donations.}
-{210}{}{Quédate donde estás de momento, errante. ¿Qué estás haciendo aquí?}
-{211}{}{Soy un nuevo recluta. Me dijeron que me estarían esperando.}
-{212}{}{Entonces supongo que tendré que matarte.}
-{220}{}{No tengo tiempo para esta mierda.}
+{210}{}{Awe, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
+{211}{}{I'm a new recruit. I was recently transferred here.}
+{212}{}{Yeah, I was assigned to kill you.}
+{220}{}{Dammit. I don't have time for this crap, my shift's almost over.}
 {221}{}{Look, he seemed pretty pissed. I wouln't keep him waiting.}
 {230}{}{Ah, hell. Fine. Watch over things while I'm gone. I'll be back in a few minutes.}
 {231}{}{No hay problema.}
 {240}{}{New recruit, huh? We get those here from time to time. Pretty boring job doing security here if you ask me. It's better than recruitment
  though, so I aint complaining. Good to have you aboard.}
-{241}{}{Si fuera tú no volvería a hacer eso.}
+{241}{}{Thanks. So, I wouldn't keep Ashton waiting if I were you.}
 {242}{}{I appreciate the welcome. So, interested in getting off shift early?}
 {250}{}{Sure, why the hell not? Nothing exciting happens down here anyway. See you around.}
 {251}{}{Cuídate.}

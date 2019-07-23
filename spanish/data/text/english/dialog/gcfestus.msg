@@ -35,7 +35,7 @@
 {181}{}{Estoy impresionado.}
 {182}{}{Vale, dejémoslo aquí. Adiós.}
 {190}{}{Estaría bien tener algo de ayuda. Pero, verás, nadie más está cualificado para hacer lo que yo. Ni siquiera entienden los conceptos básicos de lo que hago.}
-{191}{}{¿Cómo podría nadie pretender seguirte el ritmo? Estás por encima de todo el mundo.}
+{191}{}{How could anyone hope to keep up with you?}
 {192}{}{Eres realmente especial, no hay duda de ello. Adiós.}
 {200}{}{Sabes que lo soy. Creo que tú entiendes realmente este tipo de cuestiones. Si no estuviera tan ocupado por aquí dirigiría todo Gecko. Y déjame decirte que lo haría muy bien.}
 {201}{}{¿También dirigirías la ciudad?}
@@ -76,7 +76,7 @@
 {340}{}{¿Te sobra un regulador hidroeléctrico magnetosférico?}
 {341}{}{¿Y ya sabes lo que es?}
 {342}{}{Desde luego. ¿Listo para instalarlo?}
-{350}{}{¿Sorprendido? Ya te dije que lo sé todo sobre centrales nucleares. Deberías haberme escuchado.}
+{350}{}{Surprised? Never doubt my knowledge about atomic power plants. I know everything there is to know about them.}
 {351}{}{Bueno, pues ya que sabes lo que es, sabrás cómo instalarlo.}
 {352}{}{Creo que ya te he escuchado demasiado. Adiós.}
 {360}{}{Por supuesto que sí. Es algo sencillísimo para alguien de mi experiencia y talento. Me destetaron con reguladores magnetosféricos, ¿sabes?}

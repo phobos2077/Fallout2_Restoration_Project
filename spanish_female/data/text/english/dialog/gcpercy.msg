@@ -24,8 +24,8 @@
  Pero eso sí, por otro lado, mi amigo Woody resulta que está desaparecido.}
 {122}{}{Vaya que si tengo que darte las gracias graciitas por reparar nuestro reactor atómico. El tontorroncito de Festus nunca habría hecho nada medio bien.
  Pero eso sí, por otro lado, mi amigo Woody resulta que está desaparecido.}
-{123}{}{No es que haya nada ni medio nuevo en el pueblo. He oído que Wooz le sacó a algún novato una Orquídea Negra el otro día o así. Je, je, jee.
- Pero eso sí, por otro lado, mi amigo Woody resulta que está desaparecido.}
+{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day. Heh, heh, hee.
+ Anyhow's, t'other than that, my friend Woody's done gone missin'.}
 {124}{}{Bueno, cuéntame más sobre ello.}
 {125}{}{Oh, qué mala suerte. Bueno, odio los cuentos tristes. Te dejaré sólo con tu pena. Adiós.}
 {126}{}{Vaya que sí, qué coño, todo tipo de cosas a su precio justo que tengo.}

@@ -1,14 +1,14 @@
 {100}{}{Ves una computadora.}
-{150}{}{Ve a ver a mi jefe.}
-{151}{}{Información.}
-{152}{}{Acceso al equipamiento}
-{160}{}{Ve a ver a mi jefe.}
-{161}{}{Campo de fuerza}
+{150}{}{Please select an option below.}
+{151}{}{Information}
+{152}{}{Employee Access}
+{160}{}{Please select an option below.}
+{161}{}{Lower Force Field}
 {162}{}{[VOLVER]}
 {170}{}{To lower force fields, please enter access password. (If password is lost or forgotten, please see Hologram 40011, Director of Public Relations.)}
 {171}{}{ABRE}
 {172}{}{[VOLVER]}
-{180}{}{[Un juego de niños. Los campos de fuerza ya están desactivados].}
+{180}{}{Thank you. Force fields are now disengaged.}
 {181}{}{[HECHO]}
 {200}{}{Welcome to the EPA Petting Zoo! Here you'll have the pleasure of interacting with these unique creatures that
  look like hideously deformed humans! That's because these ugly beasts are the result of exciting experiments where our
@@ -22,7 +22,7 @@
  these failed abominations, we thought it'd be fun to put them in a petting zoo. Don't worry, despite their horrific appearance,
  they're not likely to attack as long as they're well fed. We're happy to report only three visitor casualties have occurred
  in the past year!}
-{221}{}{Desconexión.}
+{221}{}{[Logoff.]}
 {300}{}{Welcome to our newest exhibit! The strange looking tentacled creatures you'll see in this cage might look like they
  came from outer space, but they're not aliens, in fact, they were made right here in America! As you may have guessed,
  these guys weren't created by mother nature, they were created by science!}
@@ -35,7 +35,7 @@
 {320}{}{You're looking at the future of biological warfare! But don't worry, these vicious slaughter machines can't get
  you, as they're safely locked within the confines of their highly secure cage. You'll have to excuse the dim lighting,
  but these guys are happiest when dwelling in cool, dark places, and you wouldn't want them to get angry, would you?}
-{321}{}{Desconexión.}
+{321}{}{[Logoff.]}
 {400}{}{Here you can see plant life unlike any you've seen before! This exciting new species, derived from the Venus Fly
  Trap, was specifically engineered by our brilliant scientists to be able to survive in a world devastated by a nuclear
  war. Why would we want to do that? It's simple.}
@@ -48,4 +48,4 @@
 {420}{}{Sounds terrible, doesn't it? But don't worry. These new plants may be the answer to that problem. Instead of
  relying on fertile soil and rainfall, they're able to derive nutrients by killing and eating animals, just like
  people! All through the wonders of science!}
-{421}{}{Desconexión.}
+{421}{}{[Logoff.]}

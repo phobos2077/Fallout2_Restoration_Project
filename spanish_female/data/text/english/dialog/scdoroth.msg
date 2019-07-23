@@ -24,7 +24,7 @@
 {123}{}{¿Lo arreglaste? ¿Sin ninguna pieza? ¡Eso es asombroso! ¿Dónde aprendiste a hacer eso?}
 {124}{}{¡Uh-uh!}
 {125}{}{Sólo soy una manitas, eso es todo.}
-{126}{}{Ya lo tengo. Tú eres uno de esos imbéciles... ¿cómo los llaman? Sabios idiotas. Bueno, mira, idiota o no, te has ganado una recompensa. TE RECOMPENSO. Te daré unos libros bonitos. Ve. Consigue dinero. Bien... como no sabes leer, de todos modos.}
+{126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books. You see. Get money. Good... Not like you can read, after all.}
 {127}{}{Mira, esto no es mucho, pero tengo algunos libros. Viejos manuales técnicos. Son tuyos. Tómalos.}
 {128}{}{¡Oye! Mira, Toto. Es la forastera que nos ayudó. Gracias de nuevo, señora.}
 {129}{}{¡Mierda! Toda la red ha caído. Arreglar esto nos va a llevar una eternidad. No tengo tiempo para hablar. Vamos, Toto.}

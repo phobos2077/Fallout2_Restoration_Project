@@ -517,10 +517,10 @@ and fifty years.}
 {4023}{}{¿Solo te quedarás allí parada y me verás desangrarme hasta morir o vas a hacer algo al respecto?}
 {4030}{}{Me siento un poco raro por aquí ...}
 {4031}{}{Hey, I'm feeling a bit radiated. If this isn't the kind that grants super powers, then I'm going to be pissed.}
-{4040}{}{¿Sabes? Te pareces mucho al Morador del Refugio.}
+{4040}{}{You know, you're a bad influence.}
 {4041}{}{I try to stay away from this stuff. But if you insist...}
 {4042}{}{My body's a temple, but I guess this once won't hurt.}
-{4043}{}{Como me hayas roto mi calculadora de bolsillo, te mato.}
+{4043}{}{If this does any permanent damage, I'm going to cut you.}
 {4045}{}{Me siento mucho mejor ahora.}
 {4046}{}{Mucho mejor.}
 {4050}{}{¡Oye! Vigila el pelo.}
@@ -554,7 +554,7 @@ and fifty years.}
  I'd kiss the barrel of a shotgun and just end it.}
 {4150}{}{Lets say we ditch the walking corpse.}
 {4151}{}{Alright, this whole joke about bringing Lenny along has gone on a little long now, don't you think?}
-{4152}{}{¿Cómo demonios se supone que voy a cargarme a alguien y que NO parezca un asesinato?}
+{4152}{}{How the hell am I supposed to pick up the ladies with Lenny hanging around?}
 {4160}{}{So, uh, Marcus, when do you revert back to the mild mannered physicist?}
 {4161}{}{Oye Marcus, ¿no tienes algún tipo de ciudad que se supone que estás dirigindo?}
 {4170}{}{Hang in there Myron, I'm sure someday your balls will drop.}

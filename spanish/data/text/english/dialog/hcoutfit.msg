@@ -1,4 +1,4 @@
-{100}{}{Ves a un hombre de mediano tamaño vestido con ropa polvorienta.}
+{100}{}{You see a medium-sized man wearing dusty clothing.}
 {101}{}{Ves a Bill, el Proveedor.}
 {102}{}{Ves a un hombre de mediano tamaño vestido con ropa polvorienta. Huele como si hubiera estado cuidando de un brahmin.}
 {103}{}{Buenas, coleguilla. ¿Qué puedo hacer por ti?}
@@ -64,8 +64,8 @@
 {155}{}{Tengo un par de preguntas más.}
 {156}{}{Quiero algunas otras cosas.}
 {157}{}{Ya veo. Eso es todo. Gracias.}
-{158}{}{¿Que si confío en él? Obviamente… hasta cierto punto. Confío en él para que conduzca mis caravanas. Puede parecer
- alguien turbio, pero hasta que me dé una razón para que desconfíe, seguiré como hasta ahora.}
+{158}{}{Do I trust him? Obviously … to an extent. I trust him to run my caravans for me. He might be
+ shady, but 'til he gives me a reason not to trust him, I'll keep on like I have.}
 {159}{}{Tengo más preguntas.}
 {160}{}{Quiero algunas otras cosas.}
 {161}{}{Genial. Gracias por tu tiempo.}
@@ -131,5 +131,4 @@
 {212}{}{Lo siento, pero sin Chad por aquí organizando al personal, no puedo distribuir el trabajo como solía hacerlo. Echaré de menos
  a ese pobre bastardo. Estirar la pata en el Yermo, como un brahmin herido...}
 {213}{}{Lo siento. Adiós.}
-{214}{}{Lo siento, pero sin Chad por aquí organizando al personal, no puedo distribuir el trabajo como solía hacerlo. Echaré de menos
- a ese pobre bastardo. Estirar la pata en el Yermo, como un brahmin herido...}
+{214}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to.}

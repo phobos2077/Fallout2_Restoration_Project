@@ -97,9 +97,9 @@
 {381}{}{¿Y entonces qué?}
 {390}{}{Trepé hacia el exterior. Cuando comencé a curarme, noté que había cambiado. Intenté comunicarme con la gente, pero todos intentaron matarme. Los humanos son demasiado violentos como para sobrevivir bajo su propio liderazgo... pero esa es otra historia. El primer paso es reparar el reactor.}
 {391}{}{¿Reparar el reactor?}
-{400}{}{Sí. Debes conseguir un regulador hidroeléctrico magnetosférico de Ciudad Refugio para reparar el reactor de Gecko. Si no lo haces,
- Ciudad Refugio no dudará en atacar Gecko. Por supuesto, destruyendo el reactor, se condenarán
- a sí mismos a la larga, igualmente.}
+{400}{}{You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
+ then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
+ themselves in the long run, as well.}
 {401}{}{¿Se condenarán a sí mismos? ¿Qué quieres decir?}
 {402}{}{¿Por qué Ciudad Refugio me daría una pieza para la central nuclear de Gecko?}
 {410}{}{Tienes que demostrarles que hacerlo redundará en su mejor interés. La gente es fácilmente manipulable a través de sus propios intereses.}
@@ -202,25 +202,23 @@
 {700}{}{No tengo nada más que decirte.}
 {701}{}{Alright you ugly son-of-a-bitch, now I've got a new deal for you: Either you call off your rodents, or I swear to you I'll blow the damn reactor!}
 {702}{}{All right, all right... Consider it done. Just, don't touch the reactor. (mumbles) Damn psychotic humans...}
-{703}{}{Gracias. Ahora, ¿a qué te referías con eso de 'la dulce ciencia'?}
-{704}{}{Me voy entonces. Adiós.}
+{703}{}{Now that we're in agreement, what were you saying about the optimization?}
+{704}{}{It's settled then. Goodbye.}
 {705}{}{You came to an agreement about the molerats with The Brain.}
 {706}{}{Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
 {707}{}{You ask for my assistance, yet you leave a task half-finished. (to himself) Typical human. (to you) Optimize the reactor, then, and only then, shall I assist you.}
-{708}{}{¿Sí? ¿Qué pasa?}
+{708}{}{That depends. What is it?}
 {709}{}{Listen here, you radioactive rat. You're really starting to piss me off. You said your "kin" had kicked the bucket... Well, I want you to know -- it was me, who finished him off. And now I think I'll finish the job of rendering your kind extinct.}
 {710}{}{Listen here, you radioactive rat. You're really starting to piss me off. I think it's time I put a stop to this madness.}
-{711}{}{Debo pensarlo antes.}
+{711}{}{I need to think this over.}
 {712}{}{Most interesting... and here I thought you were concerned for the well-being of Vault City. Anyway, the safety of that village is integral to my plan. Therefore, I shall grant your request, human.}
 {713}{}{It seems to me, that because you have fixed and optimized the reactor, you deserve my help. What is it that you want?}
-{714}{}{Gracias. Ahora, ¿a qué te referías con eso de 'la dulce ciencia'?}
-{715}{}{Gracias.}
+{714}{}{Thank you! What were you saying about the optimization?}
+{715}{}{Thank you! Bye.}
 {716}{}{Parece que Gordon ya te ha dado este Disco de Data de Económico del que hablo. Llévelo inmediatamente a Cuidad Refugio.}
 {717}{}{Estoy en ello.}
 {718}{}{Umm... sí, quizá más tarde.}
-{719}{}{Sí. Debes conseguir un regulador hidroeléctrico magnetosférico de Ciudad Refugio para reparar el reactor de Gecko. Si no lo haces,
- Ciudad Refugio no dudará en atacar Gecko. Por supuesto, destruyendo el reactor, se condenarán
- a sí mismos a la larga, igualmente.}
-{720}{}{Que demonios, te ayudaré.}
+{719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
+{720}{}{Very well, I shall help you.}
 {721}{}{No, screw you rat brain! I've had enough of this. Time to die!}
 {4211}{}{Eh, supongo que mejor voy a conseguir ese disco de Gordon. Adiós.}

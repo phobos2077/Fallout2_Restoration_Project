@@ -1,10 +1,10 @@
-{100}{}{Ves a una persona con un gracioso pijama.}
-{101}{}{Ves a un técnico del Enclave.}
-{150}{}{Eh, ¿por qué está andando a hurtadillas, señor?}
-{151}{}{¿Me estás buscando a mí?}
+{100}{}{You see a person in funny pajamas. He seems preoccupied.}
+{101}{}{You see a Shi submarine technician.}
+{150}{}{Uh, what are you doing, sneaking around like that?}
+{151}{}{Are you some kind of spy?}
 {200}{}{This is filthy, look at all that rust!}
 {201}{}{I can't fathom why we need to keep this running.}
-{202}{}{Eres una sobredosis esperando ocurrir.}
+{202}{}{Those torpedoes are an accident waiting to happen.}
 {300}{}{I don't recall ever seeing you around here, what are you doing in the torpedo room? And who are you anyway?}
 {301}{}{You again? What are you still doing in the torpedo room? And who are you anyway?}
 {302}{}{I'm a last-minute addition to your tech team. Sorry for not informing you earlier. Oh, and I'm here to do some
@@ -14,7 +14,7 @@
  Sungsam motherboards.}
 {304}{}{I'm a repairman, freshly added to your roster. I'm supposed to be doing periodic maintenance on the torpedoes,
  since they look like hell! Look at all that rust! And the propellers look like they're about to fall off!}
-{305}{}{Lo siento: habitación equivocada.}
+{305}{}{Sorry, wrong room.}
 {310}{}{Oh, good to finally have a qualified mechanic on board. I've been meaning to fix these, but I just can't get over
  my fear of those torps. Did you know that they carry enough explosives to turn this entire vessel into finely ground scrap?}
 {311}{}{I'll exercise caution, I promise.}
@@ -32,10 +32,10 @@
 {350}{}{Oh, specialists in both fields are not common in the wastelands. I guess I can trust you, so go ahead and fix those
  torpedoes so that I can finally feel a little safer.}
 {351}{}{De acuerdo.}
-{360}{}{Eh, me largo de aquí.}
-{361}{}{Siento, yo marcho.}
-{370}{}{¡No me toques!}
-{371}{}{¿Qué te había hecho ella?}
-{372}{}{Mierda... ¡te lo advertí!}
-{375}{}{¿Quién coño eres tú? ¡Guardias!}
-{380}{}{Deja de hacerme perder el tiempo. Guíame.}
+{360}{}{Hey, I'm busy here.}
+{361}{}{Sorry, I'm working.}
+{370}{}{Don't touch that!}
+{371}{}{What did I tell you?!}
+{372}{}{I warned you!}
+{375}{}{What the hell are you doing! Guards!}
+{380}{}{Stop wasting time and get to work.}

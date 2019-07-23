@@ -1,8 +1,8 @@
-{100}{}{Ves una barra.}
+{100}{}{You see a Warrior.}
 {101}{}{You see a fierce looking warrior. Foam is dribbling down his chin.}
-{102}{}{Ves a uno de los guardias personales de Darion.}
-{103}{}{Tendré que arrastrarme para matarte.}
-{104}{}{Deja la puerta tranquila.}
-{105}{}{¡Tengo el poder!}
-{106}{}{¡Proteged la ciudad!}
-{107}{}{No quiero hablar contigo.}
+{102}{}{One of the Doctor's personal bodyguards.}
+{103}{}{We will kill you!}
+{104}{}{Leave the Doctor alone!}
+{105}{}{I hate the Doctor!}
+{106}{}{Protect the Doctor!!!}
+{107}{}{I don't talk to you.}

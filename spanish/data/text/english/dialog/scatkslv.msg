@@ -1,8 +1,8 @@
 {100}{}{Ves a un esclavista.}
-{101}{}{Esta parece ser la dueña.}
-{102}{}{Esta parece ser la dueña.}
-{200}{}{Buen trabajo.}
-{201}{}{Dame un momento, ¿quieres?}
-{202}{}{Si, estoy listo. Vamos.}
-{250}{}{Podría abrir un taller de reparaciones por aquí.}
+{101}{}{This slaver looks like one mean dude.}
+{102}{}{This slaver looks like one mean woman.}
+{200}{}{Excellent work. Ready to move on?}
+{201}{}{Give me a moment to rest.}
+{202}{}{I'm ready. Let's go.}
+{250}{}{I can still smell some Ranger trash around here.}
 {300}{}{That was the last safe house. Report back to Vortis in NCR.}

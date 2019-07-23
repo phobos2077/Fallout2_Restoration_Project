@@ -162,10 +162,15 @@
 {234}{}{¿Qué está ocurriendo en este pueblo?}
 {300}{}{Has ayudado a curar la adicción de Fannie.}
 {301}{}{Adiós.}
-{310}{}{Hmmm... Quizás tengo una solución a eso. [Dar a Lou el antídoto del Jet]}
-{1103}{}{Hola. Soy Lou. Propietaria del Salón Malamute, el mejor local al norte de San Fran.}
-{1104}{}{Hola. Soy Lou. Propietaria del Salón Malamute, el mejor local al norte de San Fran.}
-{1105}{}{Sigo sin creer que dejaras libre a ese bastardo que rajó a mi chica. Y todavía tienes el valor
- de volver aquí. ¿Qué demonios quieres?}
-{1106}{}{Sigues siendo un jodido idiota. Pero la vida sigue para el resto de nosotros. Y ahora dime simplemente qué demonios quieres.}
-{1107}{}{Recuerda lo que he dicho. Demasiado dinero no es bueno para esa chica. Y ahora, ¿qué necesitas?}
+{310}{}{I may have something that can help Fannie. [Give Lou the jet antidote]}
+{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
+ I just want you to know that I'm thankful for what you did. How can I help you?}
+{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
+ Jail's too good for what that bastard done.}
+{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
+ that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
+ do you want?}
+{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute
+ Saloon, finest house north of San Fran. Now just what the hell do you want?}
+{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember,
+ too much money ain't good for that gal. Now whattya need?}

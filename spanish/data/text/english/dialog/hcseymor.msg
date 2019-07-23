@@ -10,7 +10,7 @@
 {109}{}{Sí, hablo. Mejor que la mayoría de la gente, por lo que parece. Te ofrecería una sonrisa ahora mismo, pero resulta que no tengo boca. [ríe] Oye, ¿puedes hacerme un gran favor?}
 {110}{}{S-si.}
 {111}{}{No.}
-{112}{}{Estoy buscando un sitio mejor en el que estar. Estar aquí está bien y todo eso, pero francamente, estas plantas no tienen demasiada conversación. Estaba pensando en aquel lugar, el edificio con todos esos necrófagos... ¿podrías replantarme?}
+{112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
 {113}{}{¡S-sí!}
 {114}{}{¡No!}
 {115}{}{Claro.}
@@ -31,9 +31,9 @@
 {130}{}{¡Eeen-cantador! Estoy muy, muy contento. Sólo tienes que encontrar una pala y regresar. Cuando lo hayas hecho, quizá te pueda contar un secreto. Amigo mío, espero que sigas floreciendo.}
 {131}{}{Um, de acuerdo. Hasta luego.}
 {132}{}{He cambiado de opinión.}
-{133}{}{Oh, sí, el Profesor. Me crió a partir de una minúscula espora y me nutrió... pero comprendí desde una temprana edad que si actuase con la inteligencia que realmente
- poseo, me cortaría en pedazos para examinarme. Así que me hice la tonta y me plantaron aquí. Está bien... pero me gustaría extenderme un poco.
- Ya sabes, quizá plantada en algún otro lugar...}
+{133}{}{Oh, yes, the Professor. He grew me from a tiny spore and nurtured me... but I realized from an early age that if I were to act as smart as I truly
+ am, he'd cut me into pieces to examine me. So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
+ Y'know, maybe get planted someplace else...}
 {134}{}{"Extenderte". Desde luego.}
 {135}{}{De acuerdo. ¿Qué quieres?}
 {136}{}{Uh... huh. He de irme. Adiós.}
@@ -63,9 +63,9 @@
  indecisión volará hacia mí de nuevo. Buenos días.}
 {158}{}{Uh.}
 {159}{}{Buenos días, por cierto.}
-{160}{}{Oooh... el suelo aquí es tan... diferente. Más limpio, de algún modo. Probablemente porque no tengo que compartirlo con
- aquellas otras plantas. Ahhh. ¡Oh! ¡Sí! Si alguna vez te encuentras con el Profesor y su escorpión, recuerda esta maniobra
- de ajedrez: se llama apertura Fegatello, y el escorpión no puede romperla.}
+{160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
+ those other plants. Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
+ maneuver: It's called the Flying Liver Attack, and the scorpion cannot stand against it.}
 {161}{}{¡G-gracias!}
 {162}{}{Gracias. Lo probaré. ¡Adiós!}
 {163}{}{También me gustaría decirte que resulta que me he enterado de que el necrófago Typhon, que está dentro de este edificio, conoce el paradero

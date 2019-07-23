@@ -325,7 +325,7 @@
 {10005}{}{No te alejes demasiado.}
 {10006}{}{Deberíamos separarnos un poco.}
 {10007}{}{Vámonos pues.}
-{10008}{}{¿Puedes llevarme a tu jardín?}
+{10008}{}{Can you put your armor on?}
 {10100}{}{Vamos, Marcus. Hora de continuar.}
 {20000}{mcs81b}{Correcto.}
 {20001}{}{Je. Puedo usar casi cualquier tipo de arma grande, como lanzacohetes y ametralladoras,

@@ -14,7 +14,7 @@
 {111}{}{Si estás buscando trabajo, es posible que quieras hablar con Bill, el tipo que está ahí dentro. DEN-TRO. Puede
  que él te comprenda. ¡Buena suerte!}
 {112}{}{Duhhhh…}
-{113}{}{Serán }
+{113}{}{That'd be }
 {114}{}{Sí.}
 {115}{}{No.}
 {116}{}{Tú tienes preguntas, quizá yo tenga respuestas. ¿Qué quieres saber?}
@@ -46,8 +46,8 @@
 {137}{}{Habla con Bill, igual que siempre.}
 {138}{}{De acuerdo.}
 {139}{}{¿Después de lo que sucedió con Chad? No lo creo. ¿Algo más?}
-{140}{}{Ya estamos aquí. Aquí están tus 500 dólares. Si quieres volver, partiremos al finalizar el día. También
- ganarás el dinero del viaje de vuelta, si te interesa. Pero de una u otra forma, nos iremos en ese momento.}
+{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
+ earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
 {141}{}{Nos vemos.}
 {142}{}{¿Estás listo para salir?}
 {143}{}{Gracias. Aquí están tus 500 dólares. Si quieres otro trabajo, habla con Bill.}

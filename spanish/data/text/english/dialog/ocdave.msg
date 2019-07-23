@@ -1,7 +1,7 @@
 {100}{}{Ves a un anciano triste.}
 {101}{}{Ves a Dave, "don Depresión".}
-{102}{}{Ves un viejo gruñón de unos sesenta años. Tiene la cara arrugada y parece que
- ha llevado una vida dura.}
+{102}{}{You see a grumpy, older man in his early sixties. He has a weathered face and looks as if he
+ has had his fair share of abuse.}
 {103}{}{Oh. No te había visto.}
 {104}{}{¿Cómo no visto? Yo grande.}
 {105}{}{Tú triste. ¿Por qué?}
@@ -15,10 +15,10 @@
 {113}{}{¿Como qué?}
 {114}{}{Menudo humor. ¿Qué lo ha propiciado?}
 {115}{}{Puedo decir que quiero estar en otra parte.}
-{116}{}{Nací dos meses antes de tiempo. Cuando tenía un año, me caí en el porche. Cuando tenía dos,
- tuve una neumonía. A los tres, cogí la viruela. A los cuatro, me caí por las escaleras y me rompí
- seis costillas. A los cinco, mi tío fue decapitado por una sandía. A los seis, mis padres me
- golpearon en la cabeza con una pala. A los siete, mi mascota, una rata, me arrancó el dedo índice de la mano derecha.}
+{116}{}{I was born two months premature. When I was one, I was dropped on the porch. When I was two, I
+ had pneumonia. When I was three, I got the chicken pox. When I was four, I fell down the stairs and broke
+ six ribs. When I was five, my uncle was decapitated by a watermelon. When I was six, my parents hit me
+ in the head with a shovel. When I was seven, I lost my right index finger to my pet rat.}
 {117}{}{Eh, oigo que alguien me llama. ¡Adiós!}
 {118}{}{Lo siento, cosas malas.}
 {119}{}{Pasado malo, no hablar. ¿Ahora las cosas bien?}

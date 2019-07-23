@@ -1,2 +1,2 @@
-{100}{}{Estás usando el parche no oficial de killap para F2. Versión 1.02.31. Edición en español. ¡Gracias por instalar!}
-{101}{}{Estás usando el parche no oficial de killap para F2. Versión 1.02.31. Edición en español. ¡Gracias por instalar!}
+{100}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3. Thanks for installing!}
+{101}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3. Thanks for installing!}

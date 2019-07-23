@@ -209,11 +209,11 @@
 {660}{}{Louis Salvatore sigue vivo. ¿Por qué has vuelto?}
 {661}{}{(Un chorro de sudor cae por el rostro de Mordino) ¿Has hecho lo que te pedí? ¿Louis Salvatore está muerto?}
 {662}{}{Está muerto. Su Familia está vengada, Señor Mordino.}
-{663}{}{No, volveré cuando lo haya matado.}
+{663}{}{I shall return when I have killed him.}
 {664}{}{Salvatore está demasiado bien protegido. Voy a tener que cancelar este trabajo.}
 {670}{}{Si... abandonas este trabajo, tendré que... MATARTE.}
 {671}{}{Viéndolo desde ese punto de vista, volveré cuando esté muerto.}
-{672}{}{Intenta algo, y te unirás a los Mordino masacrados por los Salvatore.}
+{672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
 {680}{}{Eso he oído. (Se inclina respetuosamente) Lo has hecho... bien. Mi fe en ti no era infundada. Aquí está... tu
  pago. Quinientas... fichas. }
 {681}{}{Gracias.}

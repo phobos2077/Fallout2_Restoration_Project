@@ -76,7 +76,7 @@
 {175}{}{Sí. Adiós.}
 {176}{}{Estoy ansioso por ver el resultado de tu intento. Buenos días.}
 {177}{}{Buenos días.}
-{178}{}{¿Reprendiendo a alguien? Cualquier tonto que hubiera investigado un poco podría ver que la base misma de Ciudad-Shi son los restos de este submarino. Parece inútil discutir con quienes afirman que no hay un submarino.}
+{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
 {179}{}{Eso es muy ecuánime por tu parte.}
 {180}{}{Ciertamente lo es. Y trato con esa gente a diario. ¡Ay!}
 {181}{}{En fin, tengo más preguntas.}

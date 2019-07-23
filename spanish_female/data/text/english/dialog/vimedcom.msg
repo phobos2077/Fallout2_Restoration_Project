@@ -12,13 +12,13 @@
 {110}{}{Buscas en los archivos cualquier mención del Kit de Creación del Jardín del Edén.}
 {111}{}{Buscas en la base de datos médica cualquier cosa de interés.}
 {112}{}{Finalizas la sesión en el terminal.}
-{113}{}{No encuentras ninguna mención de los Refugios en la base de datos. En su mayor parte es información médica relativa
- a anatomía, enfermedades conocidas, tratamientos, drogas, e implantes.}
+{113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
+ to anatomy, known diseases, treatments, drugs, and implants.}
 {114}{}{Buscas en los archivos cualquier mención del Kit de Creación del Jardín del Edén.}
 {115}{}{Buscas en la base de datos médica cualquier cosa de interés.}
 {116}{}{Finalizas la sesión en el terminal.}
-{117}{}{No encuentras ninguna mención del GECK en la base de datos. En su mayor parte es información médica relativa
- a anatomía, enfermedades conocidas, tratamientos, drogas, e implantes.}
+{117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
+ anatomy, known diseases, treatments, drugs, and implants.}
 {118}{}{Buscas en los archivos la localización de Refugios.}
 {119}{}{Buscas en la base de datos médica cualquier cosa de interés.}
 {120}{}{Finalizas la sesión en el terminal.}

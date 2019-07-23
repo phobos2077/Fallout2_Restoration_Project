@@ -194,7 +194,7 @@
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
-{503}{}{Marqués Gusano}
+{503}{}{Dirk Diggler}
 {504}{}{Dick Mountenjoy}
 {505}{}{Ronny Erecto}
 {506}{}{Phil Chambers}
@@ -204,7 +204,7 @@
 {510}{}{Rick Dripps}
 {511}{}{Dick Seamen}
 {512}{}{"El Martillo Polaco"}
-{513}{}{Jeremy}
+{513}{}{Ron Jeremy}
 {514}{}{Cock of the Walk}
 {515}{}{Vinnie LaJoya}
 {516}{}{Sir Lance-a-lot}

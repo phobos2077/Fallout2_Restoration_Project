@@ -1,6 +1,6 @@
 {100}{}{Hibernation Chamber Control Computer. Select an option.}
-{101}{}{¡Eres historia!}
-{102}{}{Retirar soldado Dobbs.}
+{101}{}{Subject history.}
+{102}{}{Retrieve a test subject.}
 {103}{}{[HECHO]}
 {104}{}{Hibernation Chambers. Three individuals were sealed within these chambers before the war, each for specific classified
  reasons. Subjects remain sealed and unaware of their surroundings. Log entries are available for each subject.}
@@ -10,23 +10,23 @@
  (Environmental Rejection Syndrome). To ensure the safety of the subject, it is highly recommended that you place an ERSI
  (Environmental Rejection Syndrome Inhibitor) canister into the dispenser before continuing.}
 {107}{}{Oh wonderful. I've just woken up a pile of bones.}
-{108}{}{Volver al menú principal.}
-{109}{}{Es el momento de cambiar de tema.}
-{110}{}{Es el momento de cambiar de tema.}
-{111}{}{Es el momento de cambiar de tema.}
-{112}{}{Gracias por salvar a la gente de Modoc.}
-{113}{}{Ves una computadora.}
-{114}{}{Ves una computadora Emperador.}
+{108}{}{No, return to Main Menu.}
+{109}{}{Retrieving test subject.}
+{110}{}{Retrieving test subject.}
+{111}{}{Retrieving test subject.}
+{112}{}{Thank you for using the Hibernation Control Computer.}
+{113}{}{You see a large computer.}
+{114}{}{You see The Hibernation Control Computer.}
 {115}{}{You see a computer that is used to regulate anything to do with the Hibernation Vats.}
 {116}{}{Place ERSI canister into the dispenser.}
-{117}{}{Continuar.}
+{117}{}{Proceed anyway.}
 {118}{}{Environmental Rejection Syndrome Inhibitors were successfully applied to the specimen. Heart rate of specimen appears normal. Please
  proceed to the Cryo chamber for retrieval.}
 {119}{}{WARNING: No Environmental Rejection Syndrome Inhibitors were applied to the specimen. State of specimen is unknown. Please
  proceed to the Cryo chamber for retrieval.}
 {120}{}{Hmm, maybe I should go see if I can find one of these ERSI canisters. There's got to be someplace around here to get those chemicals...}
-{200}{}{Una banda de mercenarios.}
-{210}{}{Por favor, cúrame.}
+{200}{}{Read log entries.}
+{210}{}{Please choose a subject.}
 {211}{}{Subject A.}
 {212}{}{Subject B.}
 {213}{}{Subject C.}
@@ -84,7 +84,7 @@
  for service and in fact, he is likely more capable than before as a result of the treatment. Until more funding is
  received for this project, Sgt. Jules shall remain in suspended animation.
  -Dr. R.D. Crichton, 11/04/2075}
-{300}{}{Cambiamos tema}
+{300}{}{Choose a subject:}
 {301}{}{Sergeant Christopher "Cat" Jules}
 {302}{}{Dexter "Dex" Patrick}
 {303}{}{Kitsune}

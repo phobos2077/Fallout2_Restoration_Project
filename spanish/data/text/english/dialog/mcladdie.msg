@@ -1,5 +1,5 @@
 {100}{}{Parece un Border Collie.}
-{101}{}{Ves a Lydia.}
+{101}{}{You see Laddie.}
 {102}{}{Este perro parece ser muy inteligente y perspicaz.}
 {103}{}{No dudas de que este perro seguramente sea más listo que tú.}
 {150}{}{¡Guau!}

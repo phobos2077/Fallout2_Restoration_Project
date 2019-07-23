@@ -154,7 +154,7 @@ clamando por su sangre.}
 {470}{}{Esos cabrones de Ciudad Refugio. Si alguien nos va a joder, serán ellos. Están locos. Nadie ha estado jodido hasta que intentaron matarnos. Tendría cuidado con ellos si fuera tú.}
 {471}{}{Parece un buen consejo. Tendré cuidado. Déjame preguntarte una cosa, entonces.}
 {472}{}{Creo que tienen unos buenos ideales. Sólo un poco de limpieza genética. Espero que empiecen contigo. Adiós.}
-{473}{}{Investigo incursiones en los ranchos de brahmines locales. ¿Sabes algo de esto?}
+{473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
 {480}{}{La única forma de que los necrófagos sean libres será cuando puedan tocar su propia arpa.}
 {481}{}{No sabía que los necrófagos fueran especialmente musicales.}
 {482}{}{Oh, ya veo. Je, je. Déjame preguntarte algo.}
@@ -217,4 +217,4 @@ clamando por su sangre.}
 {740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
  business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
 {741}{}{Gracias por la información. Adiós.}
-{742}{}{Supongo que no. Déjame preguntarte algo más.}
+{742}{}{Good to know. Let me ask you something else.}

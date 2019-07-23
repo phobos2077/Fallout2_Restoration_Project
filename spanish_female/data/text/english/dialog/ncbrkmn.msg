@@ -1,20 +1,20 @@
-{100}{}{Ves a un hombre de aspecto harapiento.}
+{100}{}{You see a grungy, shaggy looking man.}
 {101}{}{His clothes are torn and dirty. He has several scratches on his arms and legs.}
-{150}{}{¡Guau! ¡Guau! ¡Guau!}
-{151}{}{Eh... ¿estás bien, Cody?}
-{152}{}{Sí, claro. Adiós.}
-{153}{}{Oye, he encontrado algo.}
+{150}{}{Woof! Wooof. Woooof.}
+{151}{}{Uh, are you alright?}
+{152}{}{Uh, right. Bye.}
+{153}{}{Hey, I think I found something that might help your condition.}
 {154}{}{Hmm... Sounds like you might be suffering from some neurological disorder, maybe epilepsy. Sadly, I cannot
  do anything about it. Bye.}
-{160}{}{Guau, Guau. ¡Guau-Guau!}
+{160}{}{Woof. Woof woof. Woooof.}
 {250}{}{¡Grrr!}
-{251}{}{Grrrrrr}
-{252}{}{Grrrrrr}
-{253}{}{Grrrrrr}
-{254}{}{[Dejas de balbucear]}
-{255}{}{Grrrrrrrrrrrrrrrr--}
+{251}{}{Grrrrrr!}
+{252}{}{Grrrrrrrr!}
+{253}{}{Grrrrrrrrrr!}
+{254}{}{[Shamble away]}
+{255}{}{Grrrrrrrrr! Grrr! Woof!}
 {256}{}{(The man wimpers and scurries away.)}
-{257}{}{Buen perrito.}
+{257}{}{Hehe. Nice doggie...}
 {258}{}{Hehe. Me super doogie...}
 {300}{}{¿Guau?}
 {301}{}{Yeah. Just listen closely to this series of letters I am about to say...}
@@ -29,9 +29,9 @@
  appreciate what you've done. Here, take these stimpacks. I found 'em when I was scavenging for food behind all these buildings.}
 {307}{}{Gracias. Hasta otra.}
 {350}{}{¡Guau!}
-{351}{}{¡Guau Guau!}
-{352}{}{::Se rasca::}
+{351}{}{Woof! Woooof!}
+{352}{}{*scratches self*}
 {400}{}{Woof! Heh, just kidding. Thanks again for curing me.}
-{500}{}{Ves a Brian.}
-{600}{}{*Sollozo*}
-{601}{}{::El boxeador te mira con ojos aterrados::}
+{500}{}{You cure the Barking Man.}
+{600}{}{*whimper*}
+{601}{}{He looks at you with big, scared eyes.}

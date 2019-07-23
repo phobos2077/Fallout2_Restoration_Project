@@ -1,4 +1,4 @@
-{100}{}{¿Qué querías saber?}
-{101}{}{ Level:}
-{102}{}{Nuevo nivel}
-{103}{}{Salir.}
+{100}{}{What level would you like to access?}
+{101}{}{Blue Level}
+{102}{}{Violet Level}
+{103}{}{[Exit.]}

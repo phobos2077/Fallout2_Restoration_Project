@@ -477,12 +477,12 @@
 {3083}{}{Cuantas jóvenes doncellas para contar nuestros viajes... y qué poco tiempo.}
 {3084}{}{Nosotros necesitar hablar con el hombre de las hierbas. Dejar que el mundo flotar.}
 {3086}{}{Cuídate, 'migo.}
-{3087}{}{Nosotros y yo echar un vistazo.}
-{3088}{}{Gracias de nuevo por ayudarnos.}
+{3087}{}{We and I wish you the best of luck.}
+{3088}{}{Thanks again for everything fren.}
 {3090}{}{This here be our village. We and I go speak with our friends.}
 {3091}{}{We and I go speak with our friends again before headin out.}
 {3100}{}{[MÁS]}
-{3101}{}{Eh, ¿exactamente dónde está tu huerto?}
+{3101}{}{Where exactly is your tribe, Sulik?}
 {3102}{}{Gracias. Deja que te pregunte algo más.}
 {3103}{}{Tu también, Sulik. Cuídate.}
 {3200}{}{Si, he hablado con la señora Buckner acerca de tu deuda. Ahora sólo necesito llegar a un acuerdo con Maida. Volveré a hablar contigo después de hacerlo con ella.}

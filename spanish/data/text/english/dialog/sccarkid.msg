@@ -15,7 +15,7 @@
 {114}{}{Está dentro. En su oficina. Siempre está allí.}
 {115}{}{¿Dónde está su oficina?}
 {116}{}{De acuerdo. Gracias.}
-{117}{}{Por el tanque de agua. A veces juego por allí. Me asomo a él mientras está funcionando.}
+{117}{}{By the water tank. I play over there sometimes. I peek on him while he's working.}
 {118}{}{Eres un mocoso molesto, ¿verdad?}
 {119}{}{Gracias, muchacho, me has ayudado mucho.}
 {120}{}{¡No eres bueno, eres un hombre malo! ¡Se lo voy a decir a mi papá!}

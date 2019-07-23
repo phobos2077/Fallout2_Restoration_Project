@@ -79,8 +79,8 @@
 {177}{}{Te sientes un poco raro. No, te sientes muy raro. De hecho, sientes cómo tu corazón está acelerándose y el mundo se ralentiza y no sabes lo que está pasando y nadie puede ayudarte porque no sabes lo que es esto, ¡oh no, ten cuidado! ¡AAAAAAH! ¡¡¡ESTÁS ALUCINANDO!!!}
 {178}{}{Haces muecas por el sabor y entonces te das cuenta de que te está quemando por dentro. Ouch. OUCH. ¡¡OUCH!! ¡Te está destrozando las entrañas! }
 {179}{}{Es un poco terroso, pero te las arreglas para tragártelo. Extrañamente, te sientes un poco mejor ahora.}
-{180}{}{Ahh, qué demonios. A pesar de su apariencia, te bebes el desagradable brebaje. Inmediatamente empiezas
- a escupir y a tener arcadas. ¡Has sido irradiado!}
+{180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
+ spitting and gagging. You've been irradiated!}
 {181}{}{[HECHO]}
 {182}{}{Bien… de acuerdo. Recordando las cosas que bebiste cuando eras pequeño, inclinas el frasco hacia atrás y dejas que fluya. Tu estómago se hace un nudo cuando el fluido entra en él. Sientes como si acabaras de sufrir la picadura de un escorpión rad.}
 {183}{}{Caramba, parece agua, por lo que tiene que ser igual de bueno, ¿no? Tan pronto como la cosa entra en tu garganta, te das cuenta de que has cometido un error. Esta cosa QUEMA. Sientes dolor durante mucho, mucho tiempo.}

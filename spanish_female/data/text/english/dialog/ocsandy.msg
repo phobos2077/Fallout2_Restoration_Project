@@ -1,7 +1,7 @@
 {100}{}{Ves una a una niña pequeña que lleva un vestido amarillo.}
 {101}{}{Ves a Sandy, la niña.}
-{102}{}{Ves a una niña pequeña que lleva un vestido amarillo con flores.  Parece maullar como
- un gato. Lleva puesta una etiqueta con su nombre donde pone "Sandy".}
+{102}{}{You see a small girl wearing a yellow dress with flowers on it. She appears to be meowing like
+ a cat. She has on a name tag that says "Sandy".}
 {103}{}{Miau... Miau... Soy un gato. Y tengo poderes especiales que solo tienen los gatos. ¿Qué eres tú?}
 {104}{}{¡Soy un perrito! ¡Guau! ¡Guau! ¡Guau! ¿Quien eres tú?}
 {105}{}{¿Urrrh? (parece un cachorro asustado)}

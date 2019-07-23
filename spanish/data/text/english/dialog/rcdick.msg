@@ -98,9 +98,9 @@
  Ambas minas tienen grandes excavadoras. Pero -y aquí esta la cuestión del dinero- los malditos chips que las controlan no se crearon muy resistentes. Ninguna de las minas tiene un chip que funcione. Je je je.}
 {183}{}{No estoy seguro de estar entendiendo qué es lo que insinúas.}
 {184}{}{Cuantas más piezas hay, más fácil es que se rompan. Gracias por la información. Adiós.}
-{185}{}{Bueno, lo que estaba diciendo es que cualquiera de los propietarios de las minas pagaría por uno de estos chips de control de excavadoras.
- Joder, si tuvieran una máquina funcional y las otras minas no, las cerrarían -o
- comprarían- en nada de tiempo.}
+{185}{}{Well, what I'm saying is that either mine owner would pay for one of these digger-control-chips.
+ Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down - or
+ buy 'em out - in no time.}
 {186}{}{Qué mala suerte que nadie sepa donde conseguir uno de esos chips.}
 {187}{}{Tendré que ver cuanto pagarían por un chip como ese. Gracias. Adiós.}
 {188}{}{¡Límpiate tus malditas orejas! Te dije dónde buscar el maldito chip. ¿No has estado escuchando

@@ -32,4 +32,4 @@
 {246}{}{Hoy nada, gracias.}
 {250}{}{Oh, ¿te refieres al viejo McGee? Es prácticamente inofensivo. Gastó una pequeña fortuna en esa vieja máquina tragaperras y no la ha visto soltar nada desde hace años. Creo está rota. Cambiando de tema... ¿puedo ponerte algo, amiga?}
 {260}{}{Ese es el chico menor de Jesús, Pequeño Jesús. Él y ese cuchillo son casi amigos íntimos… le he visto hacer algunas cosas malas con él. Cambiando de tema... ¿puedo ponerte algo, amigo?}
-{270}{}{Gracias. Es un placer hacer negocios contigo.}
+{270}{}{Pleasure doin' business with ya.}

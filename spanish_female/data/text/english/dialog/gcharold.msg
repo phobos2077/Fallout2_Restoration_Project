@@ -2,7 +2,7 @@
 {101}{}{Ves a Harold.}
 {102}{}{Ves a un necrófago muy viejo pero aún lleno de vida.}
 {103}{hld1a}{Como te lo digo, el viejo Harold es un poquito lento para pillarlas al vuelo. Los dos hablando no arreglaríamos nada.}
-{104}{hld1b}{Ahh, qué gracioso. Pero no tengo tiempo para intentar entenderte ahora mismo.}
+{104}{hld1b}{Ahh, ain't you cute. I just don't have time to try understanding ya right now.}
 {105}{hld1c}{Je je, qué cosas se ven. }
 {106}{hld2a}{Hola, piel suave. Me llamo Harold. Ayudo a mantener en marcha esta ciudad.}
 {107}{hld2a1}{¿Qué necesitas, joven?}
@@ -40,7 +40,7 @@
 {139}{}{Eso no suena bien.}
 {140}{hld7}{Eh, sí, no hubiera sonado bien. Ahora lo hemos solucionado a tiempo, pero hemos estado cerca del final. Necesitan a alguien que los vigile.}
 {141}{}{Menos mal que estás aquí para ayudarles.}
-{142}{hld8}{¿Quién habría pensado que estaría haciendo bien las cosas?  Aunque si no conseguimos un regulador hidroeléctrico magnetosférico más que rápido, vamos a tener problemas.}
+{142}{hld8}{Who'd a thought I'd be making things right? Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
 {143}{}{¿Qué demonios es un hidro-magne-lo que sea?}
 {144}{}{Hmm, sí que parece un auténtico problema. Deja que te pregunte otra cosa.}
 {145}{}{¿Problema? ¿Qué clase de problema?}
@@ -54,7 +54,7 @@
 {153}{}{Gracias. Espero haber estado a la altura de mi antepasado. Déjame preguntarte algo más mientras estoy aquí.}
 {154}{}{Encantado de ayudar. Pero déjame preguntarte otra cosa.}
 {155}{}{Bueno, todo en un día de trabajo, en realidad. Sin embargo, tengo que irme ahora. Personas a las que salvar, monstruos que matar, desastres que hay que evitar, ya sabes, toda esa clase de cosas. Adiós.}
-{156}{hld14}{Sueles sujetar los cuchillos por la parte del filo, ¿verdad? Pues que no pareces la peladura de una naranja dejada todo un día al sol. Tu piel sigue siendo suave y bonita. }
+{156}{hld14}{You cut with the dull edge of the knife, don't ya? You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
 {157}{}{Vale, ya lo pillo. Intentaré que mi siguiente pregunta merezca un poco más la pena.}
 {158}{}{Oh. Claro. Oye, déjame preguntarte algo más.}
 {159}{}{Será mejor que no estés teniendo ninguna idea rara sobre mi suave piel.}

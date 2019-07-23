@@ -8,28 +8,28 @@
 {202}{}{Sabotea la destilería de Becky.}
 {203}{}{Consíguele a Smitty la pieza del coche.}
 {204}{}{Devuélvele a Anna su medallón.}
-{205}{}{Consigue de Fred el dinero de Rebecca.}
-{206}{}{Consigue de Derek el libro de Rebecca.}
+{205}{}{Collect money from Fred.}
+{206}{}{Get book from Derek.}
 {207}{}{Entrégale a Smitty un almuerzo de Mamá.}
 {208}{}{Lara quiere saber qué hay guardado en la iglesia.}
-{209}{}{Consigue permiso de Metzger para la guerra de bandas.}
-{210}{}{Encuentra un punto flaco en la banda de Tyler que vigila la iglesia.}
+{209}{}{Get permission from Metzger for gang war.}
+{210}{}{Find weakness in Tyler's gang guarding the church.}
 {211}{}{Ayuda a Lara a atacar a la banda de Tyler.}
-{212}{}{Encuentra una forma de entrar en el almacén Sierra.}
+{212}{}{Find a way to get the orphans off the streets.}
 {300}{}{Reabastece de combustible el alambique.}
 {301}{}{Rescata a Smiley el Trampero.}
 {302}{}{Protege a los brahmines.}
 {303}{}{Robar los brahmines.}
 {304}{}{Mata al Dios Rata.}
 {305}{}{Rescata a Torr.}
-{306}{}{Averigua quien rajó a la prostituta.}
+{306}{}{Figure out who is rustling the brahmin.}
 {400}{}{Algo extraño ocurre en la granja al nordeste de Modoc. Investígalo e informa a Jo.}
 {401}{}{Cornelius ha perdido su reloj de oro. Encuéntralo y devuélveselo.}
 {402}{}{Farrel quiere que encuentres el reloj de oro de Cornelius. Encuéntralo y dáselo a Farrel.}
 {403}{}{Jonny ha desaparecido. Encuéntralo y tráelo de nuevo a casa con Balthas.}
 {404}{}{Jonny está en la cueva de los Escorias. Encuentra una forma de devolver a Jonny a casa con Balthas.}
 {405}{}{Farrel tiene un problema de roedores en su huerto. Elimina la plaga.}
-{406}{}{Entrega el mensaje de los Escorias a Jo en Modoc.}
+{406}{}{Deliver Slag message to Jo in Modoc.}
 {407}{}{Jo sospecha de los Escorias. Encuentra los cuerpos muertos en la Granja Fantasma y averigua qué le ha ocurrido a Karl.}
 {408}{}{Ve a La Guarida y dile a Karl que puede volver a casa.}
 {409}{}{Guarda los brahmines de Grisham.}
@@ -53,7 +53,7 @@
 {604}{}{Consíguele a Skeeter el super-set de reparación.}
 {605}{}{Consíguele a Skeeter un transformador trifásico de plasma.}
 {606}{}{Percy te ha pedido que encuentres a Woody el necrófago. Busca en La Guarida.}
-{700}{}{Has encontrado a Chad culpable de rozar el dinero de las caravanas.}
+{700}{}{Determine whether Chad is skimming money from the caravan runs.}
 {701}{}{Arregla el purificador de aire de la mina.}
 {702}{}{Encuentra a la gente desaparecida para Marcus.}
 {703}{}{Vence a Francis en un pulso.}
@@ -84,24 +84,24 @@
 {1000}{}{}
 {1100}{}{Recupera las piezas/Consigue acceso al Refugio 15.}
 {1101}{}{Mira te ha pedido que te "ocupes" del oficial Jack.}
-{1102}{}{Completa el viaje de los brahmines.}
-{1103}{}{Recupera los papeles del doctor Henry.}
-{1104}{}{Prueba el suero mutagénico en un supermutante. Busca en Broken Hills.}
+{1102}{}{Complete brahmin drive.}
+{1103}{}{Retrieve papers from Dr. Henry.}
+{1104}{}{Test mutagenic serum on a super-mutant. Try Broken Hills.}
 {1105}{}{Elimina al señor Bishop.}
 {1106}{}{Entrégale a Lynette el holodisco de Westin en Ciudad Refugio.}
 {1107}{}{Consíguele a Vortis el esclavista el mapa de los Rangers de la RNC.}
 {1108}{}{Los Rangers te han pedido que liberes a los esclavos del redil de esclavos.}
-{1109}{}{Entrega el informe de campo de los Hubologistas a AHS-9 en San Francisco.}
+{1109}{}{Deliver Hubologist's field report to AHS-9 in San Francisco.}
 {1110}{}{Mata al Hubologista para Merk.}
 {1111}{}{Detén los ataques contra los brahmines.}
-{1112}{}{Consíguele a Vortis el esclavista el mapa de los Rangers de la RNC.}
-{1113}{}{Los Rangers te han pedido que liberes a los esclavos del redil de esclavos.}
+{1112}{}{Wipe out the Rangers' safe houses to the north, for Vortis the slaver.}
+{1113}{}{Wipe out the Slaver Camp to the north west, for the Rangers.}
 {1200}{}{Repara la computadora del Refugio 13.}
 {1201}{}{Habla con Goris.}
 {1300}{}{}
-{1398}{}{Has despejado la mina Wanamingo.}
+{1398}{}{Clear out the mine.}
 {1399}{}{Encuentra el chip de excavación.}
-{1400}{}{Te has encargado del problema con la viuda Rooney.}
+{1400}{}{Take care of the Widow Rooney situation.}
 {1401}{}{Pon fin a la pelea del bar.}
 {1402}{}{Averigua quien rajó a la prostituta.}
 {1403}{}{Mata a Rana Morton.}
@@ -119,43 +119,43 @@
 {1511}{}{Encuentra a la novia de Badger en la bodega del barco.}
 {1512}{}{El Dragón quiere que te encargues de Lo Pan... cara a cara.}
 {1513}{}{Lo Pan quiere que te encargues de El Dragón... cara a cara, si es posible.}
-{1514}{}{Recupera el bazo de Chip.}
+{1514}{}{Get Chip's spleen.}
 {1515}{}{Consigue una servoarmadura mejorada de Crockett.}
 {1516}{}{Consíguele a la Hermandad del Acero los planos del vertibird.}
 {1517}{}{Disable the Shi submarine threatening the tanker.}
 {1518}{}{Investigate the whereabouts of Dr. Sheng.}
 {1519}{}{Bring Dr. Sheng some plant seeds.}
-{1520}{}{Elimina al señor Bishop.}
-{1521}{}{Entrega una muestra de Jet al doctor Troy.}
+{1520}{}{Eliminate Dr. Sheng.}
+{1521}{}{Deliver the plant seed sample to Dr. Wong.}
 {1522}{}{Eliminate Dr. Wong without alerting the Shi.}
 {1523}{}{Clear out Dr. Sheng's lab.}
 {1600}{}{Encárgate de la Garra mortal.}
-{1601}{}{Repara a K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Consigue el FOB del comandante de la base.}
 {1700}{}{}
-{1800}{}{Estoy aquí para inspeccionar la iglesia.}
-{1801}{}{Le has entregado la pieza a Skeeter.}
+{1800}{}{Kill the beast beneath the church.}
+{1801}{}{Deliver the machine part to Brother Max.}
 {1802}{}{Repair the waterpump and report the status to the headmonk.}
-{1803}{}{Averigua quien rajó a la prostituta.}
+{1803}{}{Find out who is digging up the graves.}
 {1804}{}{Inform Brother Samuel and Father Tully about the whereabouts of each other.}
 {1805}{}{Bring a lighter to Brother Hank.}
-{1806}{}{Recauda el tributo de los Hermanos Corsican.}
+{1806}{}{Collect information about Botany for Brother Paul.}
 {1807}{}{Format the Abbey's book database.}
 {1808}{}{Escort Brother Jason to Gecko.}
-{1900}{}{Adelante con el paseo.}
+{1900}{}{Collect some weapons for the Tribe's warriors.}
 {1901}{}{Fix the well for Marli and the tribe.}
-{1902}{}{Averigua quien rajó a la prostituta.}
+{1902}{}{Find out what's haunting the tribe's shaman.}
 {1903}{}{Find Sulik's missing sister.}
-{1904}{}{Me pregunto que le habrá pasado a esas ratas.}
+{1904}{}{Find out what happened to the hunting party.}
 {1905}{}{Collect firewood for the tribe's fishermen.}
 {1906}{}{Reunite Sulik and his sister, Kurisu.}
 {1907}{}{Accompany Krom to meet with the trader.}
 {1908}{}{Bring some herbs (5 Xander Roots, 3 Broc Flowers) to the Shaman.}
 {2000}{}{Fix Hologram 00000.}
-{2001}{}{Repara la computadora del Refugio 13.}
-{2002}{}{Resuelve el problema de la central nuclear de Gecko.}
+{2001}{}{Fix the Voice Computer.}
+{2002}{}{Clear out the plant problem.}
 {2003}{}{Fix EPA lighting problem.}
-{2004}{}{Trabajo 'qui para Doctor.}
+{2004}{}{Collect Gecko Pelts for the Doctor.}
 {2005}{}{Fix the hologram that speaks with static.}
 {2006}{}{Find the tool the Doctor left behind.}
 {2007}{}{Test the Solar Scorcher for the Director of Science.}
@@ -172,5 +172,5 @@
 {3100}{}{}
 {3200}{}{Rescata a Chrissy.}
 {3201}{}{Mata a Darion.}
-{3202}{}{Completa el acuerdo con la RNC.}
-{3203}{}{Dale el holodisco del espía a las autoridades de la RNC.}
+{3202}{}{Complete Deal with NCR.}
+{3203}{}{Give Spy Holodisk to the authorities in NCR.}

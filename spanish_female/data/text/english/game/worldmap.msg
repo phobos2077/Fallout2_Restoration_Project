@@ -84,8 +84,8 @@
 {380}{}{Bosque}
 {381}{}{Tribe}
 {390}{}{Entrada}
-{391}{}{Conductos}
-{392}{}{Grúa}
+{391}{}{Ducts}
+{392}{}{Utilities}
 {393}{}{Nivel Uno}
 {394}{}{Nivel Dos}
 {395}{}{Nivel Tres}
@@ -178,7 +178,7 @@
 {1500}{}{¡Has ganado 10.000 puntos de experiencia!}
 {1501}{}{Ruinas}
 {1502}{}{Se le acabó el combustible al coche.}
-{1503}{}{Es un coche. No parece que que pueda ponerse en marcha.}
+{1503}{}{This is a car. It doesn't look like it's running.}
 {2998}{}{Encuentras:}
 {2999}{}{¿Deseas tropezarte con este encuentro?:}
 {3000}{}{Una banda de saqueadores.}
@@ -229,7 +229,7 @@
 {3324}{}{Un grupo de nómadas.}
 {3325}{}{Un hombre guardando un puente.}
 {3326}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{3327}{}{Una banda de parias.}
+{3327}{}{A band of angry outcasts.}
 {3350}{}{Montón de basura tóxica.}
 {3351}{}{Un solitario perro superviviente.}
 {3352}{}{Un rebaño de brahmines.}
@@ -265,7 +265,7 @@
 {3382}{}{Caballeros del Rey Arturo.}
 {3383}{}{El Hombre de Hojalata.}
 {3384}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{3385}{}{Una banda de parias.}
+{3385}{}{A band of angry outcasts.}
 {3400}{}{Un grupo de guerra.}
 {3401}{}{Un grupo de caníbales.}
 {3402}{}{Un grupo de plantas de esporas y algunos geckos plateados.}
@@ -291,7 +291,7 @@
 {3422}{}{Un pequeño grupo de hormigas.}
 {3423}{}{Una partida de caza.}
 {3424}{}{Un grupo de nómadas.}
-{3425}{}{Una banda de parias.}
+{3425}{}{A band of angry outcasts.}
 {3450}{}{Montón de basura tóxica.}
 {3451}{}{Un solitario perro superviviente.}
 {3452}{}{Un rebaño de brahmines.}
@@ -321,7 +321,7 @@
 {3476}{}{Caballeros del Rey Arturo.}
 {3477}{}{El Hombre de Hojalata.}
 {3478}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{3479}{}{Una banda de parias.}
+{3479}{}{A band of angry outcasts.}
 {3500}{}{Una banda de parias.}
 {3501}{}{Un grupo de santones.}
 {3502}{}{Algunos cazarrecompensas.}
@@ -343,7 +343,7 @@
 {3518}{}{Una banda de nómadas.}
 {3519}{}{Un hombre guardando un puente.}
 {3520}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{3521}{}{Una banda de parias.}
+{3521}{}{A band of angry outcasts.}
 {3550}{}{Montón de basura tóxica}
 {3551}{}{Un solitario perro superviviente.}
 {3552}{}{Un rebaño de brahmines.}
@@ -416,7 +416,7 @@
 {3629}{}{Un grupo de tramperos.}
 {3630}{}{Un hombre guardando un puente.}
 {3631}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{3632}{}{Una banda de parias.}
+{3632}{}{A band of angry outcasts.}
 {3650}{}{Montón de basura tóxica.}
 {3651}{}{Un solitario perro superviviente.}
 {3652}{}{Un rebaño de brahmines.}
@@ -452,7 +452,7 @@
 {3682}{}{Caballeros del Rey Arturo.}
 {3683}{}{El Hombre de Hojalata.}
 {3684}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{3685}{}{Una banda de parias.}
+{3685}{}{A band of angry outcasts.}
 {3700}{}{Montón de basura tóxica.}
 {3701}{}{Un solitario perro superviviente.}
 {3702}{}{Un rebaño de brahmines.}
@@ -586,7 +586,7 @@
 {3918}{}{Un grupo de comerciantes.}
 {3919}{}{Un hombre guardando un puente.}
 {3920}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{3921}{}{Algunos bandidos.}
+{3921}{}{Some angry bandits.}
 {3950}{}{Algunos forajidos.}
 {3951}{}{Algunos ladrones.}
 {3952}{}{Algunos vagabundos.}
@@ -614,7 +614,7 @@
 {3974}{}{Un rebaño de brahmines.}
 {3975}{}{Un hombre guardando un puente.}
 {3976}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{3977}{}{Algunos bandidos.}
+{3977}{}{Some angry bandits.}
 {4000}{}{Algunos forajidos rastreando con perros feroces.}
 {4001}{}{Algunos ladrones buscando con perros feroces.}
 {4002}{}{Una banda de ladrones.}
@@ -692,7 +692,7 @@
 {4118}{}{Un comerciante y sus guardias.}
 {4119}{}{Un hombre guardando un puente.}
 {4120}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{4121}{}{Algunos bandidos.}
+{4121}{}{Some angry bandits.}
 {4150}{}{Montón de basura tóxica.}
 {4151}{}{Un solitario perro superviviente.}
 {4152}{}{Un rebaño de brahmines.}
@@ -722,7 +722,7 @@
 {4176}{}{Caballeros del Rey Arturo.}
 {4177}{}{El Hombre de Hojalata.}
 {4178}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{4179}{}{Algunos bandidos.}
+{4179}{}{Some angry bandits.}
 {4200}{}{Montón de basura tóxica.}
 {4201}{}{Un solitario perro superviviente.}
 {4202}{}{Un rebaño de brahmines.}
@@ -1108,7 +1108,7 @@
 {4918}{}{Una caravana.}
 {4919}{}{Un hombre guardando un puente.}
 {4920}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{4921}{}{Una banda de ladrones.}
+{4921}{}{A band of angry raiders.}
 {4950}{}{Montón de basura tóxica.}
 {4951}{}{Un solitario perro superviviente.}
 {4952}{}{Un rebaño de brahmines.}
@@ -1138,7 +1138,7 @@
 {4976}{}{Caballeros del Rey Arturo.}
 {4977}{}{El Hombre de Hojalata.}
 {4978}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{4979}{}{Una banda de ladrones.}
+{4979}{}{A band of angry raiders.}
 {5000}{}{Una banda de ladrones guiando a algunos lobos.}
 {5001}{}{Algunas plantas de esporas y algunos lobos.}
 {5002}{}{Una banda de ladrones.}
@@ -1156,7 +1156,7 @@
 {5014}{}{Una manada de lobos luchando contra algunos ladrones.}
 {5015}{}{Un hombre guardando un puente.}
 {5016}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5017}{}{Una banda de ladrones.}
+{5017}{}{A band of angry raiders.}
 {5050}{}{Montón de basura tóxica.}
 {5051}{}{Un solitario perro superviviente.}
 {5052}{}{Un rebaño de brahmines.}
@@ -1182,7 +1182,7 @@
 {5072}{}{Caballeros del Rey Arturo.}
 {5073}{}{El Hombre de Hojalata.}
 {5074}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
-{5075}{}{Una banda de ladrones.}
+{5075}{}{A band of angry raiders.}
 {5100}{}{Montón de basura tóxica.}
 {5101}{}{Un solitario perro superviviente.}
 {5102}{}{Un rebaño de brahmines.}
@@ -1255,7 +1255,7 @@
 {5276}{}{El Hombre de Hojalata.}
 {5277}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {5278}{}{El Café de los Sueños Rotos.}
-{5279}{}{Una reunión de individuos de aspecto importante.}
+{5279}{}{A gathering of important looking individuals.}
 {5300}{}{Algunos alienígenas y Garras mortales.}
 {5301}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5302}{}{Algunos geckos de fuego.}
@@ -1276,7 +1276,7 @@
 {5317}{}{Un enjambre de nómadas.}
 {5318}{}{Un hombre guardando un puente.}
 {5319}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5320}{}{Una reunión de individuos de aspecto importante.}
+{5320}{}{A gathering of important looking individuals.}
 {5350}{}{Algunos alienígenas y Garras mortales.}
 {5351}{}{Restos del ejército del Maestro compuesto por nómadas y centauros.}
 {5352}{}{Algunos geckos de fuego.}
@@ -1295,7 +1295,7 @@
 {5365}{}{Algunos alienígenas.}
 {5366}{}{Un grupo de centauros.}
 {5367}{}{Un enjambre de nómadas.}
-{5368}{}{Una reunión de individuos de aspecto importante.}
+{5368}{}{A gathering of important looking individuals.}
 {5400}{}{Montón de basura tóxica.}
 {5401}{}{Un solitario perro superviviente.}
 {5402}{}{Un rebaño de brahmines.}
@@ -1319,7 +1319,7 @@
 {5420}{}{El Hombre de Hojalata.}
 {5421}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {5422}{}{El Café de los Sueños Rotos.}
-{5423}{}{Una reunión de individuos de aspecto importante.}
+{5423}{}{A gathering of important looking individuals.}
 {5450}{}{Una manada de geckos de fuego.}
 {5451}{}{Una manada de geckos de fuego.}
 {5452}{}{Un gran grupo de geckos dorados.}
@@ -1334,7 +1334,7 @@
 {5461}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
 {5462}{}{Un hombre guardando un puente.}
 {5463}{}{Caballeros del Rey Arturo luchando contra una rata.}
-{5464}{}{Una reunión de individuos de aspecto importante.}
+{5464}{}{A gathering of important looking individuals.}
 {5500}{}{Una manada de geckos de fuego.}
 {5501}{}{Una manada de geckos de fuego.}
 {5502}{}{Un gran grupo de geckos dorados.}
@@ -1347,7 +1347,7 @@
 {5509}{}{Algunos cazarrecompensas.}
 {5510}{}{Algunos cazarrecompensas.}
 {5511}{}{Banda de rufianes liderada por uno de los hermanos Morton.}
-{5512}{}{Una reunión de individuos de aspecto importante.}
+{5512}{}{A gathering of important looking individuals.}
 {5550}{}{Montón de basura tóxica.}
 {5551}{}{Un solitario perro superviviente.}
 {5552}{}{Un rebaño de brahmines.}
@@ -1523,7 +1523,7 @@
 {5915}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {5916}{}{Hubologistas.}
 {5917}{}{Una banda de mercenarios furiosos.}
-{5918}{}{Una reunión de individuos de aspecto importante.}
+{5918}{}{A gathering of important looking individuals.}
 {5950}{}{Una banda de mercenarios.}
 {5951}{}{Una banda de asaltantes.}
 {5952}{}{Un rebano de Garras mortales.}
@@ -1544,7 +1544,7 @@
 {5967}{}{Un hombre guardando un puente.}
 {5968}{}{Caballeros del Rey Arturo luchando contra una rata.}
 {5969}{}{Una banda de mercenarios furiosos.}
-{5970}{}{Una reunión de individuos de aspecto importante.}
+{5970}{}{A gathering of important looking individuals.}
 {6000}{}{Una banda de mercenarios.}
 {6001}{}{Una banda de asaltantes.}
 {6002}{}{Un rebano de Garras mortales.}
@@ -1563,7 +1563,7 @@
 {6015}{}{Hubologistas defendiéndose de una banda de asaltantes.}
 {6016}{}{Hubologistas.}
 {6017}{}{Una banda de mercenarios furiosos.}
-{6018}{}{Una reunión de individuos de aspecto importante.}
+{6018}{}{A gathering of important looking individuals.}
 {6050}{}{Montón de basura tóxica.}
 {6051}{}{Un solitario perro superviviente.}
 {6052}{}{Un rebaño de brahmines.}
@@ -1593,7 +1593,7 @@
 {6076}{}{Aldeanos cubiertos de suciedad cazando para conseguir carne.}
 {6077}{}{El Café de los Sueños Rotos.}
 {6078}{}{Una banda de mercenarios furiosos.}
-{6079}{}{Una reunión de individuos de aspecto importante.}
+{6079}{}{A gathering of important looking individuals.}
 {6100}{}{Montón de basura tóxica.}
 {6101}{}{Un solitario perro superviviente.}
 {6102}{}{Un rebaño de brahmines.}

@@ -1,5 +1,6 @@
 {100}{}{Ves al sargento Cat Jules.}
-{101}{}{Ves a un yonqui demacrado. Tiene bolsas bajo los ojos y una expresión de dolor en su cara.}
+{101}{}{You see a good-looking black man with rather pronounced canines. He moves with a constant swagger and has a smug
+ expression on his face.}
 {200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor.
  His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
 {201}{}{¿Quién eres?}
@@ -10,12 +11,12 @@
 {212}{}{Soy }
 {213}{}{. Pero, ¿cuál es tu nombre?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
-{215}{}{ aquí! (Dime qué está pasando aquí.)}
+{215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
 {216}{}{How come you're alive? The Doctor said he was the only survivor.}
 {220}{}{The name's Sgt. Jules, but you can call me Cat. I'm the fastest and best-looking soldier on this base.}
-{221}{}{Antes de nada, ¿qué es este lugar?}
+{221}{}{Right, whatever you say. So, what's with this place?}
 {230}{}{You mean Doctor C? Why would he forget about me? Hell, he helped shape this work of *ART* [He gestures at his body].}
-{231}{}{Antes de nada, ¿qué es este lugar?}
+{231}{}{Right, whatever you say. So, what's with this place?}
 {232}{}{I think we are talking about two different people...So, what's going on around here anyway?}
 {240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around
  the room.] it's awfully quiet. Where is everybody?}
@@ -24,17 +25,17 @@
  the ashes.}
 {250}{}{[Sgt. Jules looks at you with a raised eyebrow.] You ain't kidding, are you? Well, they actually followed through
  with it then. Damn. Guess I'm lucky to have been pulled from the military and brought here.}
-{251}{}{Ganas la mano.}
+{251}{}{You were in the army?}
 {260}{}{Yep. I was the energy weapons expert. Pretty nimble on my feet too. I was only in the army for about a year
  before I was reassigned here. It's a shame I'll never see any of my friends again. I would have liked to have exchanged some goodbyes.}
 {261}{}{Lo siento.}
 {262}{}{I'm sorry for your losses, but you have to move on. Wallowing in your own misery won't get you anywhere.}
 {270}{}{Yeah, ain't we all. What am I gonna to do now though?}
-{271}{}{No hay trabajo. ¿Qué voy a hacer?}
-{272}{}{Ya veo. Bien, podría tomarme una copa. ¿Qué tienes para trasegar?}
+{271}{}{I guess you're right. What am I going to do now though?}
+{272}{}{Well, I could use a companion. Want to join me?}
 {273}{}{Well, I really must be going. Best of luck to you out there.}
 {280}{}{Hey, why not! I'll show you this Cat still got what it takes.}
-{281}{}{Suena bien. Hagamos un trato.}
+{281}{}{Sounds good. Let's go.}
 {282}{}{Lo que tu digas.}
 {290}{}{Don't you worry about this ol' cat. I'll find my place in this world. Now step aside and let the Cat do his thing.}
 {291}{}{[FIN]}
@@ -50,8 +51,8 @@
  the cryo freezer until they figured out what to do with me.}
 {304}{}{And then I thawed you out. Seems like you owe me one.}
 {305}{}{Yeah, you saved me. In return, maybe I can save your sense of style, monkey.}
-{306}{}{Gracias, es todo lo que necesitaba saber.}
-{310}{}{Crees que puedes ser capaz de repararlo.}
+{306}{}{Monkey? Must be the cat DNA talking. That's all I need to know for now.}
+{310}{}{Since you were in the army, you think you might be able to teach me anything?}
 {311}{}{I might be able to teach you a thing or two about energy weapons and other big weapons. Now you have to remember...}
 {312}{}{[Continuar.]}
 {313}{}{There you go. That should help you melt those mutants who get in your way.}
@@ -60,14 +61,14 @@
 {391}{}{Vamos.}
 {392}{}{No, aún no.}
 {400}{}{¿Necesitas algo?}
-{401}{}{¿En qué puedo servirte?}
+{401}{}{How can the Cat be of service?}
 {402}{}{¿Sí?}
 {410}{}{¿Qué quieres saber?}
 {411}{}{Well, I was trained to use the usual military stuff. Rifles, pistols, SMGs and the like. I prefer laser
  weapons and the like better though. Those have style! But if you give me some brass knuckles or one of those power fists,
  I'll pounce on any flat-footed goons before they know what hit them!}
-{421}{}{¿Qué te pasa en los ojos?}
-{422}{}{De acuerdo. Volveré.}
+{421}{}{What's wrong with it?}
+{422}{}{Alright. I have your back.}
 {423}{}{Por mí está bien.}
 {424}{}{I work better solo anyway.}
 {430}{}{No tengo mucha paciencia, así que date prisa.}
@@ -101,9 +102,9 @@
 {700}{}{LADIES! Ladies, one at a TIME, please!}
 {710}{}{I've got a nose for trouble, and it's going off like a nuke attack siren!}
 {720}{}{GOLD mining? This where they dig up the shiny things?}
-{730}{}{Había tenido la esperanza de que nos mantendríamos alejados de este lugar para siempre.}
+{730}{}{I thought we were leaving this place for good?}
 {800}{}{I've had enough of smart-ass lunatics! Can we leave this greasy little idiot?}
-{810}{}{¿Qué pasa con esas cosas?}
+{810}{}{What's with the bone, Neanderthal?}
 {820}{}{Least I didn't end up like YOU, Lenny!}
 {830}{}{Least I didn't end up like YOU, Marcus!}
 {2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]

@@ -71,7 +71,7 @@
 {330}{}{(Te estudia un momento). Está bien. Quizá que no seas de la familia pueda ser bueno. (Frunce el ceño) ¿Tienes hijos?}
 {331}{}{No que yo sepa.}
 {332}{}{No, que yo sepa. Creo que me acordaría.}
-{340}{}{Uno de mis hijos… mi muchacho, Richard, falleció hace poco. Sobredosis. De Jet.}
+{340}{}{One of my sons…my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{¿Qué puedo hacer?}
 {342}{}{Eh… en realidad no sé cómo puedo --}
 {350}{}{Quiero saber qué camello le vendió esa MIERDA a Richard y le obligó a tomarla. Cada vez que he enviado a mis muchachos a encontrarlo,
@@ -81,7 +81,7 @@
 {353}{}{No, este trabajo no es de mi estilo. Mejor será que me marche.}
 {360}{}{(Su rostro enrojece). Mis chicos están limpios, y saben que deben mantenerse lejos de esta mierda, porque si no los mataré. Y entonces, DE REPENTE, Richie tiene una sobredosis.
  Alguien le metió dentro una tonelada de Jet, tanta que le salía humo de la nariz.}
-{361}{}{Bueno… eso no significa que haya habido algún otro responsable. Tu hijo podría haber tomado demasiado. El Jet es altamente adictivo.}
+{361}{}{Well…that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. Haré el trabajo.}
 {370}{}{(Asiente con la cabeza). De acuerdo entonces. Pero cuidado: encuentra al hijo de perra que mató a mi chico, pero ni lo toques… tan solo vuelve
  y DIME el nombre de ese hombre muerto. (Los ojos le relampaguean). YO me ocuparé a partir de ese momento.}
@@ -91,8 +91,8 @@
 {380}{}{Eso es cierto, no hemos hablado del precio, y se debe a que no has hecho NADA más que hablar. Voy a dejar que demuestres tu valía. Haz tu trabajo,
  y no tendrás que preocuparte por el dinero. Te doy mi palabra de Wright.}
 {383}{}{Entonces olvida todo esto. Sólo los tontos trabajan por nada. Me voy de aquí.}
-{390}{}{(Los ojos le relampaguean). No… todo el mundo tiene demasiado miedo como para hablar… a un Wright, al menos. Si fuera tú, 'preguntaría' a algunos de los vendedores de droga
- de Reno, a ver lo que saben. Ese Jet salió de ALGUNA PARTE.}
+{390}{}{(Eyes blaze.) No…everybody's too scared to talk…to a Wright, anyway. If I were you, I would 'question' some of the Reno
+ drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{¿Sospechas de algún camello en particular?}
 {393}{}{Mira, este trabajo no es de mi estilo. Mejor será que me vaya.}
 {400}{}{Otra vez tú. ¿Has encontrado a quien mató a mi chico?}
@@ -123,8 +123,8 @@
  ¡Muchachos! ¡Venid aquí!}
 {447}{}{Entendido.}
 {448}{}{No soy la única para este trabajo, señor Wright. Encuentra a algún otro.}
-{449}{}{Que le jodan a este trabajo, que le jodan a tu hijo drogadicto, y que te jodan a ti. Me largo.}
-{451}{}{¡Ya BASTA! Estoy cansado de tus gilipolleces. Te vas a unir a tu hijo drogadicto en el infierno.}
+{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
+{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
 {453}{}{Vete de aquí.}
 {465}{}{Resulta que, no hace mucho, me encontré con un mapa que señala una antigua base militar en las montañas, no lejos de aquí. Encuentra una forma de entrar, y sabré que te lo tomas en serio…}
 {466}{}{Lo que digas, señor Orderville.}
@@ -224,9 +224,9 @@
  envenenar a tu hijo.}
 {673}{}{No lo sé.}
 {680}{}{¿Y por qué demonios harían eso?}
-{681}{}{Por la impresión que tengo, los Mordino controlan el Jet en Reno. Naturalmente, tú les culparías por una sobredosis de droga... y entonces habría
- una guerra. SI los dos no os elimináseis el uno al otro, al menos la lucha os debilitaría. Eso haría la vida más fácil para los
- Salvatore… y sólo se tendrían que preocupar por los Bishop.}
+{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
+ be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
+ Salvatores…all they have to worry about then is the Bishops.}
 {682}{}{No lo sé. Quizá deberías preguntarles a ellos.}
 {690}{}{(Te mira fijamente durante un buen rato, y después se le escapa una risa sin humor). Me has dado una respuesta, y no puedo hacer
  nada. Los Salvatore… maldición (suspira profundamente).}

@@ -36,8 +36,8 @@
 {156}{}{Quizá si te cuento la auténtica historia, cambies de opinión.}
 {157}{}{De acuerdo. Cuéntame.}
 {158}{}{No, en realidad no me interesa.}
-{159}{}{En ese caso, es simplemente genial estar aquí. Esta ciudad tiene todo lo que puedes desear… un sheriff
- mutante, una mina de uranio, hospital, una tienda… puedes conseguir de todo por aquí. ¿Quieres algo más?}
+{159}{}{In that case, it's just great being here. This town has everything you could want… mutant
+ sheriff, uranium mine, hospital, store… you can get just about anything here. You want anything else?}
 {160}{}{Sí.}
 {161}{}{No.}
 {162}{}{Genial. Adiós.}
@@ -134,7 +134,7 @@
 {298}{}{Te dije que los sacaras de la cárcel, no que los mataras! ¿Qué coño pasa contigo?}
 {299}{}{Lo siento... yo sólo...}
 {300}{}{Tú sólo nada. Lo pretendieras o no, has jodido nuestros planes para esta ciudad a base de bien. Y ahora lo vas a pagar.}
-{301}{}{Lo siento, amigo, pero... acabo de perder a mis dos mejores amigos. Esos mutis bastardos los mataron en la cárcel.}
+{301}{}{Sorry, friend, but... I just lost my two best friends. Those bastard muties killed them in prison.}
 {302}{}{Urrggg. Maaaala suerte. Adiós.}
 {303}{}{Uh... Vaya. Lo siento mucho. Mis condolencias. Adiós.}
 {304}{}{Ups.}

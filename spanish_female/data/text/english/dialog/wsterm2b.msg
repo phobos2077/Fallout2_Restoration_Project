@@ -52,7 +52,7 @@
 {139}{}{Leer 'Comerciar'.}
 {140}{}{Volver al Menu Principal.}
 {141}{}{Salir.}
-{142}{}{Esta es la confirmación de su pedido de vídeo "Debbie se lo hace con el Ejército" y "Garganta Profunda volumen 1059". Su pedido debería llegar en 2-4 semanas. Gracias por su pedido.}
+{142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks. Thank you for your order.}
 {143}{}{Leer más correos.}
 {144}{}{Salir.}
 {145}{}{La evacuación del Almacén Militar Sierra ha sido retrasada una semana. Todas las medidas de seguridad deben estar dispuestas para ese momento. Por orden del general Clifton.}
@@ -60,7 +60,7 @@
 {147}{}{Salir.}
 {148}{}{[Escuchas un ligero ronroneo mientras empieza a salir humo del terminal de la computadora. Te quedas mirando cómo el teclado se funde en un charco pastoso. Hmm... debe haber sido uno de esos virus de los que has oído hablar].}
 {149}{}{Salir.}
-{150}{}{Soy Klinger, de la 3ª del 806. Necesitamos desesperadamente un componente número 102-53B. Tengo una caja de Chateau Lafayette de 2055 por si puedes enviar el pedido. Hazlo lo antes posible.}
+{150}{}{This is Klinger from the 8063rd. We're in desperate need of part number 102-53B. I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.}
 {151}{}{Leer más correos.}
 {152}{}{Salir.}
 {153}{}{[¡Menuda suerte! Has conseguido adivinar la contraseña correcta. "Napias"]   Desactivando Placas de conmoción.}

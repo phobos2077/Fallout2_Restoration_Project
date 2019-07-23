@@ -1,1 +1,1 @@
-{100}{}{Has entrado en una zona boscosa.}
+{100}{}{You have entered an abandoned base.}

@@ -1,2 +1,2 @@
-{100}{}{Le das vueltas a la rueda durante varios minutos, y no ocurre nada.}
-{101}{}{Eres el mayor machote del mundo.}
+{100}{}{You press the trigger but nothing happens.}
+{101}{}{You press the trigger and detonate the dynamite.}

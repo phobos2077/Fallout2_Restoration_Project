@@ -42,7 +42,7 @@
 {323}{}{"Scott Campbell. No la sopa".}
 {324}{}{"Aquí yace Scott Everts. Tarde al trabajo. Tarde a la vida".}
 {325}{}{"Scott Rodenhizer. Construía cabezas tridimensionales".}
-{326}{}{"Thomas French: Murió mientras intentaba dominar la Guillotina Voladora".}
+{326}{}{"Thomas French: Died while attempting to master the Flying Guillotine."}
 {327}{}{"Tim Cain. Fundador, Amante, Luchador, Programador."}
 {328}{}{"Tramell Ray Isaac: Aquí yace uno de los mejores trabajadores de este negocio. Extraordinario animador. Creo. D.E.P. T.Ray".}
 {329}{}{"Zeb -- Aún más Viejo que Sucio".}
@@ -56,7 +56,7 @@
 {337}{}{"Amy Presnell"}
 {338}{}{"Stephen Bokkes, 25 años. Tumbado en su mejor momento por las hondas y las flechas de una asombrosa fortuna". }
 {339}{}{"D.E.P. Doug "Calavera" Finch (la fecha no importa). Asesinado por fumar en el Mercado Francés. Sus últimas palabras: "¡Probemos el Puñetazo de Burro!'"}
-{340}{}{"Aquí yace Donnie Cornwell, bien muerto.  En un ataúd extra-grande para que quepa su cabeza extra-grande".}
+{340}{}{"Here lies Donnie Cornwell, good and dead. In an extra large coffin to fit his extra large head."}
 {341}{}{"Rob Giampa vivió su vida como le gustaban las mujeres: rápida, barata, y fácil".}
 {342}{}{"T. D. Hamilton: Aquí yace una hedionda golfa que debería haber muerto hace mucho tiempo. ¡Descansa SIN paz, ZORRA!"}
 {343}{}{"Otra víctima de las fechas límite".}
@@ -69,7 +69,7 @@
 {350}{}{"Reg Arnedo: aún podemos escuchar su voz por los pasillos".}
 {351}{}{"Shanna SanPaolo".}
 {352}{}{"Brahmin Wrangler".}
-{353}{}{"Josh Walters, 1971-2011. Murió de complicaciones derivadas de su quinto trasplante de hígado".}
+{353}{}{"Josh Walters, 1971-2011. Died of complications during his fifth liver transplant."}
 {354}{}{"Doug Avery. Odiaba la guerra por destruir su estilo de vida en caravana".}
 {355}{}{"Aquí yace Ezekial Aikle, 102 años. El pobre murió joven".}
 {356}{}{"Aquí yace Ann Adrian, quien vivió como vieja dama pero murió como vieja Adrian. 8 de diciembre de 1767".}
@@ -98,7 +98,7 @@
 {379}{}{"Jughead - Rey del Mundo de la Reina Archie".}
 {380}{}{"D.E.P Casey Donahue Muerto el 6/8/98  Asesinado por una lubina mutada de mal humor".}
 {381}{}{"Christopher 'Ala Nocturna' Jones: administrador de golpes fálicos".}
-{382}{}{"Jay "Pie de Patata" Nielson.  Músico.  Falleció a los 104 años, durante un solo de tambor".}
+{382}{}{"Jay "Potato Feet" Nielson. Musician. Passed on at the age of 104, during a drum solo."}
 {383}{}{"Nitsa - La razón por la que Charles no entendió bien lo del hockey".}
 {384}{}{"Thuy Dang. Que Dios tenga piedad de su nombre".}
 {500}{}{Consigues poner una trampa en la tumba.}

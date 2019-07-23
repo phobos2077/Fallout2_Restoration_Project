@@ -12,4 +12,4 @@
 {111}{}{Oye, bonito calzado.}
 {112}{}{Deberías ocuparte de tus asuntos.}
 {113}{}{Ahí tienes, señor. Tenga un buen día.}
-{114}{}{Hay hombres bicho asustando al pueblo.}
+{114}{}{There's been an incident. Move along.}

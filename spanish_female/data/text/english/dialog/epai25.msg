@@ -1,2 +1,2 @@
-{100}{}{Disparas el obús.}
-{101}{}{¡Me has desarmado!}
+{100}{}{You arm the dynamite.}
+{101}{}{You disarm the dynamite.}

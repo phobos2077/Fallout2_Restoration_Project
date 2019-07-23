@@ -175,7 +175,7 @@
 {610}{}{Así que te sugiero que salgas de aquí de una puta vez antes de que te pegue un tiro.}
 {700}{}{¡Malditos perros! Volveré a la cama.}
 {701}{}{¡Estúpidos perros! Lo primero que haré mañana será poneros a dormir.}
-{702}{}{¡Cerrad el pico, perros! ¡Nadie es lo bastante tonto como para irrumpir en una tienda de armas!}
+{702}{}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
 {800}{}{Has entregado una pistola láser a Eldridge.}
 {801}{}{Oye, ¿te parezco un mago? Vas a necesitar la arma si quieres mejorarlo. Ahora vete de aquí y ve a encontrar una que puedo mejorar. ¡Cielos!}
 {802}{}{Vuelve cuando tengas dinero.}

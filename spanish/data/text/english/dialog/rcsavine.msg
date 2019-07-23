@@ -51,7 +51,7 @@ Debería estar listo el 21. Vuelve entonces si todavía quieres el trabajo.}
 {141}{}{Gracias, lo haré. Adiós.}
 {142}{}{Siempre estamos buscando guardias, pero no estamos listos para irnos ahora mismo. Estaremos a punto
  para irnos el 21. Vuelve entonces si quieres trabajo.}
-{143}{}{¿Cuando del 21?}
+{143}{}{Why on the 21st?}
 {144}{}{¿Qué transporta esta caravana?}
 {145}{}{Vale, gracias. Adiós}
 {146}{}{Oye, colega, deberías saber que cuando yo digo no es ¡¡NO!!}

@@ -1,1 +1,1 @@
-{100}{}{Esta puerta requiere una llave maestra para ser abierta.}
+{100}{}{This locker requires a key code.}

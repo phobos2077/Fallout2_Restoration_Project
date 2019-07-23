@@ -11,11 +11,11 @@
 {302}{}{[He grins, seemingly delighted at the prospect of having questions to answer.] You're standing in the Environmental Protection Agency, more commonly referred to as the EPA. We're a government research facility that specializes in testing chemicals to ensure that they're safe for the Earth's environment. But that's just scratching the surface. We had all sorts of exciting things going on here, at least until the facility was vacated due to the war. Things haven't quite been the same since.}
 {303}{}{Interesting. So, what exactly is your purpose here?}
 {304}{}{Well, unlike the other holograms you will encounter, I wasn't created for a specific task. I'm merely here to answer visitor's questions or help solve difficult mathematical problems that the human mind cannot accomplish.}
-{305}{}{Entonces puedes responderme algunas preguntas.}
+{305}{}{I see. Then perhaps you could answer some questions for me?}
 {310}{}{Oh, I'd love to answer your questions. Ask away and I'll answer them to the best of my ability.}
 {311}{}{I keep seeing references to a Blue Level. How do I access it?}
 {312}{}{I found another way into this facility, but it requires a passcode. The service elevator brings you to it.}
-{313}{}{¿Puedes recuperar algo para mí?}
+{313}{}{Can you identify some items I found around here?}
 {314}{}{No importa. No necesito nada.}
 {320}{}{Why of course, the main elevator at the surface should take you where you want to go! Why would you go through the
  ventilation system?}
@@ -25,11 +25,11 @@
  You will need an access code to get inside, however. Since I am grateful for you repairing me, I shall tell you code. The code is "FLOWERPOT".}
 {323}{}{Gracias. Deja que te pregunte algo más.}
 {324}{}{Oh, I'm sorry but the Blue Level contains top secret research. Access to that level is restricted to... oh, to hell with it. You were kind enough to repair me, so I suppose I could give you the password. It's "FLOWERPOT".}
-{330}{}{Desde luego. ¿Qué más quieres saber?}
+{330}{}{I will do my best. What item would you like me to identify?}
 {331}{}{¿Cuál es el propósito de esta comida de perro?}
 {332}{}{I found this syringe full of an unknown substance. Could you tell me what it does?}
 {333}{}{I found this rack of test tubes. Anything specific I can do with it?}
-{334}{}{¿Cuáles son los beneficios de ser Ciudadano?}
+{334}{}{What are the effects of using these drugs I found?}
 {335}{}{I made some unknown chemicals with the Mr. Chemmie! machine. What do they do?}
 {336}{}{I found some dynamite that was different than ones that I have encountered. How do I use it?}
 {337}{}{Actualmente, déjame hacerte otra pregunta.}

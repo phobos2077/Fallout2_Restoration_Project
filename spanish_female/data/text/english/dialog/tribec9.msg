@@ -1,14 +1,14 @@
-{100}{}{Ves una barra.}
-{101}{}{Ves a Brian.}
-{102}{}{Parece extremadamente cansado e irritable.}
+{100}{}{You see a warrior.}
+{101}{}{You see Serin.}
+{102}{}{He looks badly injured and has a broken leg.}
 {103}{}{You see Serin. He looks badly injured and has a broken leg.}
-{104}{}{Ves a Set. Está hablando consigo mismo.}
-{105}{}{Ves a Chip. Parece estar mejor.}
-{106}{}{Ves a una mujer de aspecto estirado. No parece que haya estado relajada desde hace años.}
+{104}{}{You see Serin. His leg is bandaged and he is hobbling.}
+{105}{}{You see Serin. He looks better and he is in a deep sleep.}
+{106}{}{You see Serin. He looks like he has recovered nicely.}
 {200}{}{*ugh* Die fiend!! You won't be ta-}
-{201}{}{Te sientes un poco más seguro ahora que el perro está muerto.}
+{201}{}{Calm down. You're safe now. The gecko is dead.}
 {202}{}{What!? Oh, praise the spirits, fren. I feared I be done for.}
-{203}{}{¿Qué pasó?}
+{203}{}{What happened here?}
 {204}{}{Jerem and I be going out for weekly hunt. Took cave passage to field where many geckos roam. Hunt went bad. Had to run. Too many geckos with spirits of fury. We entered cave. Started yelling for help. [He pauses for a moment and winces in pain as he tries to rub his leg.]}
 {205}{}{Por favor, continúa.}
 {206}{}{Passage was already on brink of doom. Water seeping in from stream overhead. A deadly pass, but it be a great shortcut to fields. Not no more. See, we be yelling like fools and the ceiling come crashing down on us.}
@@ -28,11 +28,11 @@
 {220}{}{Alright, that should about do it. You'll need a couple days of rest for it to fully heal. Don't put too much pressure on it during this time and you should be fine.}
 {221}{}{Holy spirits posses you, fren! I thank you. Now I be hobbling my way to the shaman. Get some good herb to ease the pain. Be seeing you back at the village, fren.}
 {222}{}{[HECHO]}
-{300}{}{¡Gracias! Te veré en el poblado.}
+{300}{}{I thank you, fren. Be seeing you back at the village.}
 {400}{}{Thanks much, fren. Truly, you are blessed by the spirits.}
-{500}{}{Zzzzzzz...}
-{501}{}{...bzzzzzz...}
-{600}{}{Has muerto.}
-{700}{}{Bien, gracias por el consejo. Creo que será mejor que me vaya.}
-{1000}{}{Me alegra verte, }
-{1001}{}{Te arrepentirás de lo que has hecho aquí.}
+{500}{}{zzzZZzzz...}
+{501}{}{...zzZZZZzz...zzz...}
+{600}{}{You heal Serin's leg.}
+{700}{}{He needs more help than I can offer. I better get going.}
+{1000}{}{Good to be peeping you, hero.}
+{1001}{}{I never forget what you done for me, hero.}

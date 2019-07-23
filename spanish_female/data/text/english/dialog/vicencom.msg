@@ -198,10 +198,10 @@
 {302}{}{[CONTINUAR]}
 {303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
  entitled "Classified." It looks like your skill points in Science are paying off.}
-{304}{}{Adelante, inténtalo.}
+{304}{}{[Read entry.]}
 {305}{}{Reading through the file, it appears as if the sole purpose of Vault 8 was to act as a "control Vault" in a series of Vaults created by a corporation called Vault-Tec.
  The intent was for Vault 8 to open and re-colonize the surface after 10 years. It also appears Vault 8 was not the only Vault with a purpose other than protecting its inhabitants from the Great War.
  Perhaps more can be found out about the true purpose of these Vaults at another location.}
-{306}{}{Volver al menú principal.}
-{307}{}{Salir.}
+{306}{}{[Return to archive listing.]}
+{307}{}{[Log off.]}
 {308}{}{You learn about the real purpose of Vault 8 and that there is more to the construction of all the Vaults than meets the eye.}

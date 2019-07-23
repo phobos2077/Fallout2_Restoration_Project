@@ -1,1 +1,1 @@
-{100}{}{No hay forma de quitar la trampa de la puerta.}
+{100}{}{There is a rope attached.}

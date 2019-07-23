@@ -1,4 +1,4 @@
 {100}{}{Ves a un guardia.}
-{101}{}{Ves a Max, el guardia de las caravanas.}
-{200}{}{Habla con la Anciana.}
-{201}{}{Necesito volver al pueblo.}
+{101}{}{You see a tough looking caravan guard.}
+{200}{}{Talk to the boss.}
+{201}{}{I'm just here to guard. Talk to the man in charge.}

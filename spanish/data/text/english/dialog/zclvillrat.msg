@@ -1,4 +1,4 @@
-{100}{}{Ves a una enorme hormiga.}
-{101}{}{Estas puertas de ascensor parecen abrirse desde algún otro sitio.}
-{102}{}{Este caballero parece muy feliz.}
-{200}{}{Has llegado a las cuevas tóxicas.}
+{100}{}{You see a large molerat.}
+{101}{}{The molerat doesn't seemed to be bothered by your presence.}
+{102}{}{The molerat looks very angry.}
+{200}{}{You've exterminated the mole rats.}

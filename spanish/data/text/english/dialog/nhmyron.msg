@@ -146,9 +146,9 @@
 {594}{}{Entonces... lo de Miria y tú. ¿Sois libres para estar con otras personas, o....?}
 {595}{}{¿Sueles intercambiar esposas? Puedes quedarte con la mía en cuanto consiga una.}
 {596}{}{So...who is this hot oriental looking chick?}
-{597}{}{Miria es realmente guapa. ¿Puedo?... bien, ya sabes… ¿qué opinas?}
-{598}{}{Seguuuuuuro que tu mujer es muy guapa.}
-{599}{}{Entonces... lo de Miria y tú. ¿Vais en serio, o...?}
+{597}{}{Kitsune's kinda cute. Can I...well, you know…how about it?}
+{598}{}{This oriental chick suuuure is a looker.}
+{599}{}{So...you and Kitsune. Are you two going out or something?}
 {600}{}{¿Listo para continuar?}
 {605}{}{¿Por qué demonios estamos AQUÍ?}
 {606}{}{Todo el mundo en esta ciudad necesita un enema.}

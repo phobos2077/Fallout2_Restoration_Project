@@ -1,5 +1,5 @@
 {100}{}{Ves un Holograma.}
-{101}{}{Ves una computadora Emperador.}
+{101}{}{You see the The Director of Security.}
 {102}{}{Hologram 10001. He oversees the EPA's security.}
 {200}{}{Halt! Do not attempt to come any closer. Identify yourself, intruder.}
 {201}{}{Soy el Elegido de Arroyo. Estoy explorando la APA.}
@@ -16,7 +16,7 @@
 {232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
 {240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill...perhaps I could find a use for you after all. }
 {241}{}{¿Eh?}
-{242}{}{Creo que dejaré a Albóndiga solo.}
+{242}{}{No, I think I'll just scavenge some more and go. Bye!}
 {250}{}{Insolence! Such insolence from a Blödes Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}
 {251}{}{Maybe it will, maybe it will. And if that day were ever to come, I shall deal with it then and there. What is certain, is it will not come from you. You're a nobody. You have nothing left to rule over, which is why you cover up your sadness with anger. How long have the robots failed to respond to you?}
 {260}{}{Well, as you may already have guessed, the robots no longer work here at the EPA. The computer consoles no longer register my verbal commands and I don't have a body to activate the console. I... I can't properly secure anything. Could you fix the robot control computer for me? I need the ability to command the robots for... well, for things.}
@@ -46,9 +46,9 @@
 {336}{}{¡Debemos destruir este lugar inmediatamente!}
 {337}{}{¡Eso es absurdo!}
 {338}{}{¡Nunca!}
-{339}{}{La destrucción de los mutantes asegura la muerte de la ciudad.}
+{339}{}{Only with destruction of the old can the new be reborn.}
 {340}{}{¿Todos a favor?}
-{341}{}{Este bot parece desactivado.}
+{341}{}{The robots must be reactivated!}
 {342}{}{Warmduschers! All of you!}
 {343}{}{Our weapon defenses are in dire need of ammunition!}
 {344}{}{If I was in charge, things would actually get done around here!}
@@ -58,6 +58,6 @@
 {410}{}{You the one that brought the robot control computer back online?}
 {411}{}{Así es.}
 {412}{}{Eh... quizás.}
-{413}{}{No. No puedo hacerlo.}
+{413}{}{Nope. Wasn't me.}
 {420}{}{Quatsch! You're the only flesh and blood being around, so I damn well know it was you.}
-{421}{}{De acuerdo. Necesito preguntar algo más.}
+{421}{}{Alright, fine, it was me.}

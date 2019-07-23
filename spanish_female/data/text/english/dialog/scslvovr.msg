@@ -29,7 +29,7 @@
 {128}{}{¿Sabes algo de una organización llamada el Enclave?}
 {129}{}{Estoy buscando trabajo. ¿Sabes de alguien que esté contratando?}
 {130}{}{Olvídalo. No quiero hacerte perder el tiempo.}
-{131}{}{¡Esos bastardos asesinaron a mi hermano y dicen que lo han hecho por el bien del pueblo! Los quiero muertos. Si puedes ayudar, habla con Vortis.}
+{131}{}{Those bastards killed my brother and then said it was for the good of the people! I want them dead. If you can help, talk to Vortis.}
 {132}{}{A mí me parece una buena idea.}
 {133}{}{Vortis, ¿eh? Eres una fuente de sabiduría. ¿Qué más puedes decirme?}
 {134}{}{Bien. Creo que iré a hacerlo ahora mismo.}

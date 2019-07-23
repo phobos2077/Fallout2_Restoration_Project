@@ -117,10 +117,10 @@
 {217}{}{Experta en manejo de excrementos}
 {218}{}{Derribo Mejorado con Arma}
 {219}{}{Gafe}
-{220}{}{Adicto al Psico}
+{220}{}{Alcohol Addiction}
 {221}{}{Fumador}
 {1101}{}{Con Consciencia, recibirás información detallada sobre cada criatura que examines. Verás sus puntos de salud (PS) exactos e información sobre el arma que portan.}
-{1102}{}{Has aprendido las artes orientales secretas, o simplemente es que golpeas más rápido. En cualquier caso, tus ataques desarmados te cuestan 1 punto de acción (PA) menos.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand or melee attacks cost 1 AP less to perform.}
 {1103}{}{Tu experiencia en combate sin armas te da la ventaja a la hora de hacer daño. Causas +2 puntos de daño sin armas y con armas cuerpo a cuerpo. por cada nivel de este extra.}
 {1104}{}{Por cada nivel de bono en Movimiento, ganas 2 puntos de acción que sólo pueden ser usados para moverse. En otras palabras, puedes moverte 2 cuadrículas en cada turno sin gastar PA.}
 {1105}{}{Tu entrenamiento en armas de fuego y otras armas a distancia te ha hecho más mortífero en el combate a distancia. Por cada nivel de este extra, haces 2 puntos de daño más con armas a distancia.}

@@ -15,11 +15,11 @@
 {114}{}{Tengo más preguntas.}
 {115}{}{Sí, eso es. ¿Encontraste algo interesante?}
 {116}{}{Sí, eso es. Vamos.}
-{117}{}{Encontré la estancia en la que estaba. También encontré un sitio que parecía un depósito de combustible. No fui mucho más allá por los monstruos.}
+{117}{}{I found the room I was in. I also found a room that looked like a fueling area. I didn't get much farther because of the monsters.}
 {118}{}{Tengo más preguntas.}
 {119}{}{¿De dónde eres?}
 {120}{}{Genial. Eso es todo por ahora.}
-{121}{}{Soy de un lugar al sur de Cementerio y de El Ardor. No estamos demasiado lejos del mar. Era niñera, pero entonces los niños mutaron en monstruos.}
+{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea. I used to be a nanny, but then the kids mutated into monsters.}
 {122}{}{Tengo más preguntas.}
 {123}{}{¿Cómo te encontraste con Badger?}
 {124}{}{Fascinante. Eso es todo por ahora.}
@@ -33,5 +33,5 @@
 {132}{}{¿De dónde eres?}
 {133}{}{¿Cómo te encontraste con Badger?}
 {134}{}{Ahora mismo nada. Adiós.}
-{135}{}{Oh, Dios mío... Badger está muerto... no sé lo que voy a hacer... no tengo ningún amigo aquí... toda mi familia está muerta... oh, dios...}
+{135}{}{Oh my god... Badger is dead... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
 {136}{}{Gracias por toda tu ayuda. Voy a ir a buscar a Badger.}

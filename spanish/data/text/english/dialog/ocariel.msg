@@ -1,6 +1,6 @@
 {100}{}{Ves a una mujer delgada y bajita que viste un vestido azul de terciopelo.}
 {101}{}{Ves a Ariel, la viuda.}
-{102}{}{Ves a una mujer delgada y bajita que viste un vestido azul de terciopelo. Parece triste.}
+{102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
 {103}{}{Hola, soy Ariel. No creo haberte visto por aquí antes. ¿Quién eres?}
 {104}{}{Yo }
 {105}{}{Eh... pareces triste. ¿Por qué?}

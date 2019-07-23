@@ -1,3 +1,3 @@
-{100}{}{como para crear un sistema nuevo.}
+{100}{}{Incorrect password. Locking system.}
 {101}{}{Contraseña correcta.}
 {102}{}{FLOWERPOT}

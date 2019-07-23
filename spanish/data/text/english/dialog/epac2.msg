@@ -13,9 +13,9 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
 {222}{}{Un corte eléctrico en el rollo de cinta, eh? De acuerdo,veamos si podemos arreglarte.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
 {231}{}{Sólo checkeaba. Nos vemos.}
-{232}{}{No te preocupes, nadie va a hacerte daño.}
+{232}{}{Don't worry, I'm working on getting you fixed.}
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
-{241}{}{De acuerdo, te daré }
+{241}{}{Alright, I give up. Sorry.}
 {242}{}{¿Sigue sin funcionar? Espera, déjame descifrar eso.}
 {250}{}{[Eres capaz de decodificar el mensaje mucho más rápido esta vez: "¡Reinicia!"] Oh, por supuesto. [Reinicias la máquina ejecutando el holograma. Para matar el tiempo, silbas mientras suenan todos sus procedimientos de inicio.]}
 {251}{}{[Continuar.]}
@@ -32,10 +32,10 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
  erasing their short term memory every couple minutes, damning them to a kind of hologram purgatory. But never mind that,
  we're better off without them. With them tied up in an endless argument, that leaves me, er, I mean, *us*, in charge of
  the facility. With my supreme intellect, and your physical body, we could make quite the duo.}
-{281}{}{Antes de nada, ¿qué es este lugar?}
+{281}{}{First off, why don't you tell me what exactly this place is?}
 {290}{}{Really? In my opinion, we're better off without them, but if you thought otherwise who am I to complain. With my
  supreme intellect, and your physical body, we could make quite the duo, you know.}
-{291}{}{Antes de nada, ¿qué es este lugar?}
+{291}{}{First off, why don't you tell me what exactly this place is?}
 {300}{}{Why, it's the Environmental Protection Agency, of course. This is a federal facility originally established to
  regulate chemicals and ensure the protection of the environment, but it's become oh so much more than that! Why, you're
  standing in one of the nation's top experimental research facilities. We have so many exciting things in development. Of
@@ -45,7 +45,7 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
 {310}{}{Yes, if only I had an able bodied assistant, I could finally make some more progress on my research...}
 {311}{}{¿Qué clase de ayuda necesitas?}
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
-{321}{}{Apuesto a que yo podría.}
+{321}{}{Hell yeah I would!}
 {322}{}{Claro.}
 {323}{}{Creo que voy a pasar.}
 {330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
@@ -56,8 +56,8 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
 {350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
  friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
  *Solar Scorcher*. However, it's yet to be tested under direct sunlight, which is, of course, where you come in.}
-{351}{}{Así que quieres que consiga el chip de la máquina de excavación de esa mina. ¿Cuánto vale para ti?}
-{352}{}{Sí, sólo hemos empezado.}
+{351}{}{So you just want me to go outside and shoot this thing? That's it?}
+{352}{}{Yeah, yeah, just give me the gun already.}
 {360}{}{Essentially, yes. Of course, I need to know how well it fares in a combat situation, so I'd appreciate it if you
  could find some threatening life forms out there, which you could then spectacularly dispatch with my Solar Scorcher.}
 {361}{}{Go outside and kill something, got it. So, where is this Solar Scorcher?}
@@ -66,12 +66,12 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
  could then spectacularly dispatch with my Solar Scorcher.}
 {371}{}{Go outside and kill something, got it. So, where is this Solar Scorcher?}
 {380}{}{Oh, yes, it's in that locker on the wall over there, next to my projector. The passcode is 03141879.}
-{381}{}{Está bien, está bien. Tan sólo avísame cuando termines.}
+{381}{}{Alright, I'll try it out and let you know how it goes.}
 {390}{}{Ah, welcome back. Have you gotten a chance to test the Solar Scorcher?}
-{391}{}{Desde luego que sí. Tengo que salir de aquí a toda leche.}
+{391}{}{Sure did. It scorched the hell out of things.}
 {392}{}{Sure did, but the piece of shit broke on me. I had to trash it.}
 {393}{}{No, aún no.}
-{394}{}{Me pondré con ello.}
+{394}{}{I'll get around to it.}
 {400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
  ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}
 {401}{}{¡Gracias!}

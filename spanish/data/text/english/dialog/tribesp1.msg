@@ -1,1 +1,1 @@
-{100}{}{Escuchas algunos sonidos que provienen del interior de las cuevas.}
+{100}{}{You enter a small cave. You can hear noises coming from within.}

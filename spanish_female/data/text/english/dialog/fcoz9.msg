@@ -56,7 +56,7 @@
 {155}{}{Muy útil. Tengo más preguntas.}
 {156}{}{¿Cómo sabes todo esto?}
 {157}{}{Lo que sea. Adiós.}
-{158}{}{Hijo, soy AHS-9. Veo muchas cosas que suceden en el mundo físico. ¿Tienes más preguntas, o puedo volver a mis meditaciones?}
+{158}{}{Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
 {159}{}{Más preguntas.}
 {160}{}{Vuelve a tus meditaciones. Ya he terminado.}
 {161}{}{¿Has matado al Emperador y destruido a sus seguidores?}
@@ -82,7 +82,7 @@
 {181}{}{Mi homólogo, el Emperador de Ciudad-Shi, me ha estado haciendo la vida imposible. Querría que pusieras fin a eso. A cambio, me aseguraré de que puedas llegar a donde deseas estar.}
 {182}{}{Dalo por hecho, jefe. Nos vemos.}
 {183}{}{Preferiría no hacerlo.}
-{184}{}{Busca a Badger, cuya cáustica presencia mantiene juntos a esos patéticos vagabundos del petrolero. Libra a nuestra bella ciudad de ellos. Cuando lo hayas hecho, visita a AHS-7.}
+{184}{}{Seek out Badger, whose caustic presence holds those pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.}
 {185}{}{Dalo por hecho, jefe. Nos vemos.}
 {186}{}{Preferiría no hacerlo.}
 {187}{}{No era consciente de que hubiera hecho una petición, hija. ¡Matadlo!}

@@ -211,41 +211,41 @@
 {3005}{}{N-no quiero t-tener nada que ver c-contigo.}
 {4000}{}{Vale, pero no me gusta mucho la idea de quedarme solo aquí.}
 {4001}{}{Está bien, si realmente crees que es una buena idea.}
-{4002}{}{Bueno, no me gusta usar armas a menos que sea absolutamente necesario, pero supongo q-que podría utilizar un cuchillo. También puedo usar pistolas, o a-al menos podía. Si realmente tuviese que hacerlo, p-podría manejar un subfusil. Si no fuesen tan escandalosas... Soy un médico, no un luchador.}
+{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a submachine. If only they weren't so loud. I'm a healer, not a fighter.}
 {4003}{}{Cielos, espero no necesitar eso.}
 {5000}{}{Creo que p-podría tener un m-miembro roto.}
 {5001}{}{Creo que p-podría s-ser irradiado.}
 {5002}{}{Creo que p-podría s-ser envenenado.}
-{5100}{}{Me siento un poco raro, Jefe.}
-{5101}{}{Es verdad.}
+{5100}{}{I'm f'feeling a b'bit warm now.}
+{5101}{}{That's b'better.}
 {6000}{}{I need a professional opinion, Lenny. What do you know about managing a heart condition?}
-{6001}{}{¿Puedes contarme algo más sobre esos saqueadores?}
+{6001}{}{Can you tell me anything about these pills I found, Doc?}
 {6010}{}{What seems to be the t'trouble? Your t'ticker ain't g'givin' out on you now, is it?}
-{6011}{}{Me preguntaba si tendrías algo que pudiera comprar o para intercambiar.}
+{6011}{}{No, I was actually wondering if there was anything we could do for Cassidy.}
 {6012}{}{No. I'm going to murder an infirmed old man and I was trying to come up with something more creative than sneaking up and popping a paper bag.}
 {6013}{}{Just chalk it up to academic curiosity, I guess.}
-{6020}{}{Vale, vale. No hay necesidad de ponerse irritable.}
+{6020}{}{Heh. No need to get t'tetchy, now.}
 {6021}{}{Well, mostly, it's just c'common sense stuff. Eatin' right, steerin' c'clear of the harder c'chems, that sorta thing. K'keepin' stress to a m'minimum. B'basically, livin' m'more like an old l'lady, and less like... well, us. Heh. O'course, the b'best thing you could d'do would probably be to t'tamp it down with some c'cardiac regulators, m'maybe some v'vasodilators.}
-{6022}{}{¿Qué quieres ahora?}
-{6023}{}{Píldoras para el corazón}
+{6022}{}{Cardiac what now?}
+{6023}{}{Hmm. Heart pills.}
 {6030}{}{Let's see, now... (Lenny mutters to himself as he reads over the label.)}
 {6040}{}{Heart pills. I guess what they're p'puttin' out in Vault City and NCR these d'days ain't much different than w'what we were usin' b'back before the w'war. Strong m'medicine. G'get a fella on that stuff, he'd have the h'heart of a m'mutant m'marathon runner. Heck, if he minded his d'doc and took 'em r'regular-like, he could probably live on hot b'buttered chems and n'not have to worry about it skippin' a s'single b'beat. Uh, n'not that I'd recommend that sort o' thing, of course. D'doctors orders are always supposed to be c'clean livin' and p'plenty of r'roughage, right?}
-{6041}{}{Gracias, Lenny. Déjame preguntarte algo más.}
+{6041}{}{Uh, right. Thanks, Lenny. Let me ask you about something else.}
 {6042}{}{Are they dangerous at all? Any side-effects to look out for?}
-{6043}{}{¿Crees que son una amenaza para la sociedad humana?}
+{6043}{}{Do you think these could help Cassidy?}
 {6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
 {6051}{}{¿Como qué?}
-{6052}{}{Sabia que había oído la llamada a comer.}
+{6052}{}{I knew there'd be a catch.}
 {6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
-{6061}{}{Lenny}
+{6061}{}{Lenny?}
 {6070}{}{S'sorry. Oh! One more b'big one. Unless you're l'lookin' to meet a l'less-than-d'dignified end, you *do not* want to g'go mixin' those things with N'new Reno p'pep pills.}
 {6071}{}{Pep... pills?}
-{6072}{}{Grandes planes, ¿eh?}
+{6072}{}{Bad reaction, then?}
 {6080}{}{Ayup. Y'know, for when your l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
 {6081}{}{Ayup. Y'know, for when a man's l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
 {6082}{}{Oh, yeah. You g'get those two into your s'system together, and KER-BLAM! Your heart'll explode like a b'blood s'sausage. I remember d'doin' p'post-mortems on m'more than one poor g'geezer who was t'too b'busy sowing his oats to r'read a w'warning label.}
-{6083}{}{Mancha de sangre}
-{6084}{}{Eso es todo lo que necesito saber. Gracias, Mason.}
-{6090}{}{Tengo suficientes pieles de gecko para una buena temporada. ¿Algo más que pueda hacer por ti?}
-{6091}{}{Bien, nos veremos más tarde.}
-{6092}{}{No, eso es todo por ahora. Gracias, Josh.}
+{6083}{}{Blood Sausage?}
+{6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
+{6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}
+{6091}{}{Well, since you asked...}
+{6092}{}{Nope, that'll do. Thanks, Lenny.}

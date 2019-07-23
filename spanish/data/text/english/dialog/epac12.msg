@@ -1,9 +1,9 @@
-{100}{}{Ves a un habitante de La Guarida.}
-{101}{}{Ves a Klint.}
+{100}{}{You see a specimen from the Storage Tanks.}
+{101}{}{You see Kitsune.}
 {102}{}{Her eyes are different colors. One of them brown as malmbrick, the other bright green.}
-{103}{}{Ves a un hombre pelirrojo con un brillo esperanzado en los ojos.}
+{103}{}{You see a slender, dark-haired woman who looks difficult to predict.}
 {104}{}{She has a soft face and entrancing eyes.}
-{150}{}{Quererlo es bueno.}
+{150}{}{It's not nice to stare.}
 {200}{}{Before you lies an open tank with icy cold water slowly being drained through a long, serpentine pipe. Inside, a
  woman, naked from head to toe, lies gasping and shivering. Looking around quickly, you snatch a bundle of loose clothing
  from a nearby locker and drape them over her for warmth.}
@@ -12,30 +12,30 @@
 {203}{}{Not all of it, it looks like. }
 {204}{}{[You give it some time for her teeth to stop chattering. She recovers much quicker than you expect her to
  and looks up at you with sudden gravity.] Is... it over?}
-{205}{}{¿Es así?}
-{206}{}{¿Tu y quién más?}
+{205}{}{Is what over? }
+{206}{}{You mean the War?}
 {207}{}{The War. All those nukes.}
-{208}{}{Eh, sí.}
+{208}{}{The War, yes.}
 {209}{}{That war ended long ago. Finished about as soon as it started.}
 {210}{}{[She brushes wet strands of hair from her eyes. You notice one eye is brown while the other is emerald green.] Who won?}
-{211}{}{Ninguna.}
+{211}{}{No one.}
 {212}{}{[She looks at you blankly. She's very easy on the eyes, especially for someone who was just thawed out of a block of ice.]}
 {213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner.
  I mean, there wasn't much left worth winning.}
 {214}{}{What... what date is it? What year? Is it still 2077?}
 {215}{}{Hell, no. [You show her the date on your Pip Boy's calendar.]}
 {216}{}{[She stares at the flickering screen, frozen in time like she never left the tank.]}
-{217}{}{¿Estás casado?}
+{217}{}{Are you alright?}
 {218}{}{My God. I don't believe it. I was in that thing for over a century?!}
 {219}{}{Seems like it. Hey, listen, don't look at me like that. I had nothing to do with putting you in there. Hell,
  my grandpa wasn't even alive back then. I just stumbled upon the location of this place and decided to check it out.}
 {220}{}{Well, will you help me up, or would like it better if I continued sitting naked at your feet?}
 {221}{}{I was just about to. [You help her to her feet.]}
-{222}{}{¿Por qué creaste el Jet?}
-{223}{}{Por nada.}
+{222}{}{Why did you wake me?}
+{223}{}{No particular reason.}
 {224}{}{I have this terrible habit of touching everything I encounter. One thing led to another.}
-{225}{}{¿Cómo llegaste aquí en principio?}
-{226}{}{Es lo que quería.}
+{225}{}{You say you don't even work in this place?}
+{226}{}{That's what I said.}
 {227}{}{Then if you hadn't come along, I would've been stuck in that thing even longer. Maybe forever.
  (She pulls one of the shirts you wrapped her in over her head.) What's it like now, the world out there?
  You said 90% of it was destroyed?}
@@ -45,19 +45,19 @@
 {230}{}{It's nothing like America in 2077, that's for sure.}
 {231}{}{[She pulls a pair of pants on.] So, what now?}
 {232}{}{We never did properly introduce ourselves. My name's }
-{233}{}{Hola. ¿Cuál es tu signo?}
-{234}{}{A los Shi.}
-{235}{}{Eh, forastero, ¿qué estás haciendo por aquí?}
+{233}{}{. What's yours?}
+{234}{}{You can call me Kitsune.}
+{235}{}{Kitsune, what were you doing cryoed away in that tank?}
 {236}{}{I don't know for sure. They knew the War was about to happen, so they put me in a preservator like the others.}
-{237}{}{¿Tienes bloqueadores de endorfinas?}
+{237}{}{Do you have any clue what this place is?}
 {238}{}{From what I know, it's a branch of the United States Environmental Protection Agency. I was in Arizona when the
  War happened. I was taken here immediately.}
 {239}{}{You must have been pretty important for them to want to preserve you. Were you a Chosen One, like me?}
 {240}{}{Uh, not exactly. I was a homemaker, married to a councilman. Before that I wrote for several different news publications. It wasn't what you'd call a terribly exciting life.}
-{241}{}{¿Qué le sucedió a tu pierna?}
+{241}{}{What happened to him, your husband?}
 {242}{}{I don't know. Probably one of the billions of casualties. I doubt any of my family made it through the war. My God, even if they did, it's been so long... everyone I ever knew is dead. [She bites her lip and her eyes start to shimmer with tears, but she quickly wipes them away and sighs, bringing herself under control.]}
 {245}{}{Well, since you're giving me a choice... (smirk)}
-{246}{}{Te está mirando malhumorada.}
+{246}{}{[She glares at you wordlessly.]}
 {247}{}{Oh, I mean, of course I'll help you up. [You help her to her feet.]}
 {250}{}{¿Y ahora qué vas a hacer?}
 {251}{}{I don't know. What do you do when you've been hibernating for over a century? Even bears don't sleep that long.
@@ -68,9 +68,9 @@
 {260}{}{You know, you're right. I could go back to being frozen and sleep it off for another hundred years, but that
  would be the cheap way out. I need to see for myself what the world's become, and play a part in putting it back together.}
 {261}{}{Come on then. Let's go grab a brahmin steak first thing.}
-{262}{}{No me hagas hacerte esto.}
+{262}{}{Don't make me regret this.}
 {270}{}{Forget it. It's been this way for over a hundred years. What makes you think we're going to fix it now?}
-{271}{}{Si cambias de idea házmelo saber.}
+{271}{}{I'll come back. Maybe you'll change your mind.}
 {272}{}{Maybe. But don't count on that happening. I should just go back to sleep for another century or so.}
 {280}{}{What if these machines stopped functioning though? You'd be dead and you'd never know
  whether the world that blew itself up ever put itself back together.}
@@ -80,7 +80,7 @@
  machines that think and talk and feel because of flesh and chemical components. What if there's nothing after you die -- we
  shut down like computers -- and this is all you've got?}
 {283}{}{I'd rather take my chances in cryogenic suspension than wander that wasteland.}
-{284}{}{No hueles tan mal.}
+{284}{}{Oh yeah? You don't seem all that sure anymore.}
 {285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe... maybe I will take my chances with you.}
 {286}{}{Let's get out of here, then. It's time we left this dump behind.}
 {287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
@@ -122,20 +122,20 @@
 {336}{}{Right. When I met him, he gave me a holodisk containing classified documentation of the FEV project. That put me in a rather difficult position: I could release the information contained in the holodisk and betray the country I'd sworn my loyalty to, or I could destroy the disk and bury the ugly truth from the people.}
 {337}{}{Mierda. No me digas...}
 {338}{}{I sent copies of the holodisk to just about every major news outlet in the world. It pretty much destroyed whatever sympathy the American government still had. I might have revealed the truth to the world, but I'm afraid I also set in motion its destruction... Things escalated quickly, and eight months later, the bombs were dropped.}
-{339}{}{Y en todo caso, ¿cómo has entrado aquí?}
+{339}{}{How did you end up in that tank where I found you?}
 {340}{}{The American government was hunting for the person responsible for leaking the information. They finally caught up with me just before the end. They were already preparing to freeze me when the sirens first sounded. Probably to preserve me in case I had any more secrets I hadn't told them.}
-{341}{}{¿Has dicho }
+{341}{}{Did you?}
 {342}{}{It doesn't matter now. Everyone's dead...}
-{345}{}{¿Tienes alguna idea de lo que está causando la reducción de los envíos?}
+{345}{}{Do you have any idea what the hell you brought about?}
 {346}{}{What I *may* have brought about. The world would've blown itself up sooner or later, anyhow. It was only a matter of time.}
 {347}{}{Maybe you should refrain from sharing this little tidbit of information with anyone else.}
-{348}{}{Apuesto a que tú te bañas.}
+{348}{}{I get your drift.}
 {350}{}{I know what you must be thinking, but you can't blame yourself for something like that.}
 {351}{}{It's always easier not to accept responsibility.}
 {352}{}{You couldn't have known. Besides, there were other conflicts between the "powers". They would've blown each other
  up sooner or later. It was only a matter of time.}
-{353}{}{¡Los Khans son los más fuertes!}
-{354}{}{No huele tan mal.}
+{353}{}{Humans are the worst things.}
+{354}{}{I don't consider myself that bad.}
 {355}{}{Nature's been trying to wipe us out for millennia. All these new diseases, natural disasters. We were some kind
  of evolutionary mistake. Maybe we came about too early or weren't suppose to come about at all. We've done more damage
  to this planet than any thing living or dead.}
@@ -145,8 +145,8 @@
 {361}{}{Yes, I've had a quite a bit of practice with sneaking, lockpicking, and stealing. Here, let me show you a few things
  they don't teach you in the books.}
 {362}{}{You've got it now. Remember, practice makes perfect.}
-{363}{}{Creo que ya es hora de que te vayas.}
-{370}{}{Acerca de esos saqueadores...}
+{363}{}{Hey, thanks. I think it's about time we headed out.}
+{370}{}{About your eyes...}
 {371}{}{¿Qué pasa con ellos?}
 {372}{}{They're different colors.}
 {373}{}{What's the term for it... heterochromia? Is that what you have?}
@@ -159,9 +159,9 @@
 {410}{}{¿Qué quieres saber?}
 {411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
 {420}{}{Tenemos que hablar sobre la distancia entre nosotros.}
-{421}{}{¿Qué te pasa en los ojos?}
+{421}{}{What's wrong with it?}
 {422}{}{Quedarse cerca de mí.}
-{423}{}{De acuerdo. Volveré.}
+{423}{}{Alright. I have your back.}
 {424}{}{No te alejes demasiado.}
 {425}{}{Necesitas algo espacio, entiendo.}
 {426}{}{Separémonos.}
@@ -189,69 +189,69 @@
 {470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
 {480}{}{No hay problema. Estoy más ligero en mis pies sin eso.}
 {490}{}{Nunca ha sido mejor. Vamos.}
-{491}{}{Los he recibido peores practicando.}
+{491}{}{I've been worse. Just a couple of scratches.}
 {492}{}{I'm not that bad off. Just some flesh wounds.}
 {493}{}{I'm not doing so great. More blood than I care to have coming out of me.}
-{494}{}{. Házme saber si puedo ayudarte con lo que sea.}
+{494}{}{I need a medic or I'm not going to be able to help you with a damn thing.}
 {495}{}{Can't go on any longer... leave me behind or get me to a doctor. Fast.}
 {500}{}{If you insist. I can still take a man's head off with my hands.}
-{1000}{}{No puedo creer que estés actuando así.}
+{1000}{}{I can't believe I spent over a hundred years in this place.}
 {1010}{}{Not my kind of place to be born in, no offense.}
 {1020}{}{This looks like some 15th Century emperor's burial tomb.}
 {1030}{}{This place smells like cattle dung all over.}
 {1040}{}{I don't think it'd be wise to head into this place without the proper footwear.}
 {1050}{}{I've seen worse places, believe me. Not that I'm too fond of this one.}
-{1060}{}{Inténtalo. Me encantaría.}
-{1070}{}{Este lugar parece peor que Ciudad Refugio.}
-{1080}{}{Me encanta el olor a radiación por la mañana.}
-{1090}{}{¿Crees que con eso voy a rebajar mis precios?}
+{1060}{}{Rustic. I like it.}
+{1070}{}{This place looks straight out of a snuff flick.}
+{1080}{}{I can taste the radiation in the air.}
+{1090}{}{What is this supposed to be, a labor camp?}
 {1100}{}{The ones inside have it so much better than the ones outside. The world hasn't changed all that much.}
-{1110}{}{¿Por qué una rata gigante parlante está tan preocupada acerca de todo esto?}
+{1110}{}{Just what kind of mining town do you call this?}
 {1120}{}{Not my kind of place to be born in, no offense.}
 {1130}{}{Good place to hide out if the law's on your tail.}
-{1140}{}{Me pregunto si hay más hamburguesas de brahmin en el local de Dusty.}
-{1150}{}{La mayor pequeña ciudad del Yermo, amigo.}
-{1160}{}{No pueden tenernos aquí para siempre.}
-{1170}{}{Me duele todo.}
-{1171}{}{No me sorprendería.}
+{1140}{}{I wonder if there're any more bunkers like this around.}
+{1150}{}{Biggest Little City in the World. I'll bet.}
+{1160}{}{They can't keep just cattle here...}
+{1170}{}{Death all over...}
+{1171}{}{I wouldn't want to be buried here.}
 {1180}{}{We just jump ahead of nature and keep evolving, don't we? }
-{1190}{}{No he estado en una pelea desde quinto curso.}
-{1200}{}{El almacén está cerrado. Abrimos a las ocho.}
-{1210}{}{Háblame sobre este sitio.}
+{1190}{}{I haven't seen buildings this tall since the 101 got leveled.}
+{1200}{}{They sure locked this place down tight.}
+{1210}{}{I've heard about these places...}
 {1220}{}{Feels nice to walk into a town that looks like it has it together.}
-{1230}{}{Háblame sobre este sitio.}
-{1240}{}{Desaparecen en el Yermo.}
-{1250}{}{Me voy de aquí.}
-{1251}{}{Te estoy vigilando.}
-{1252}{}{Estoy asustado.}
-{1253}{}{Me gustaría negociar su liberación.}
-{1254}{}{¿Sabes algo sobre los implantes dérmicos?}
+{1230}{}{I've heard about these places...}
+{1240}{}{The only holy place in these unholy wastes.}
+{1250}{}{It's hot out here.}
+{1251}{}{I'm sweating bullets.}
+{1252}{}{I'm parched.}
+{1253}{}{I'd like it better if this were a beach.}
+{1254}{}{Sulik, you know anything about rain dances?}
 {1260}{}{This is as far from civilization as it gets.}
 {1270}{}{I doubt that water would be drinkable even if you filtered all the salt out.}
 {1271}{}{Any fish we find in these waters are bound to be mutants of some sort.}
-{1272}{}{Me largo de aquí.}
+{1272}{}{It's cool out here.}
 {1273}{}{Hundreds bucks to anyone who dares to go skinny-dipping in those waters.}
-{1280}{}{No puedo hacer nada con esto.}
+{1280}{}{I can't see a damn thing in here.}
 {1281}{}{This place smells bad and if I could see it better it'd probably look even worse.}
 {1282}{}{Careful. There's probably something ugly and smelly holed up here.}
-{1283}{}{¿Esas tetas son de verdad? ¿Puedo asegurarme?}
-{1284}{}{¿Y ahora qué vamos a hacer?}
-{1285}{}{Mejor seguir viviendo para luchar otro día.}
+{1283}{}{Are those bats I hear?}
+{1284}{}{What are we going to do, spelunk?}
+{1285}{}{Better to light a candle than to curse the darkness.}
 {1290}{}{War... a whole lot of good that did us.}
-{1291}{}{No deber encontrarnos.}
+{1291}{}{Dust to dust...}
 {1292}{}{I used to live someplace just like this...}
-{2001}{}{¿Por qué estás aquí si tanto odias el lugar?}
+{2001}{}{My eyes bug you that much?}
 {2002}{}{I could use a soak in a hot spring. Wonder if there're any of those left anymore.}
 {2003}{}{I'd kill to find someone to play mahjong with.}
 {2004}{}{Everyone eats and drinks. Yet only few appreciate the taste.}
 {2005}{}{This world is hell now. All thirteen levels.}
 {2006}{}{I believe in both God and the Devil. But I keep them at a distance.}
 {2007}{}{Are we living a dream, or are we someone else's dream?}
-{2008}{}{¿Qué te he hecho?}
+{2008}{}{I hate what we've done to ourselves.}
 {2009}{}{I wonder how long it's going to take us to recover from the War.}
 {2010}{}{If heaven made us, then the earth'll find some use for us.}
 {2011}{}{You thirsty? I sure am.}
-{2012}{}{*Bostezos*}
+{2012}{}{*yawn*}
 {2013}{}{Man proposes and God disposes.}
 {2020}{}{Hey, Sulik. What are the spirits saying?}
 {2030}{}{You interested in slimming down, Vic? Ask me any time for taebo lessons.}
@@ -261,12 +261,12 @@
 {2051}{}{How about shutting up for two minutes, Myron? Would that kill you?}
 {2052}{}{No, Myron. I wouldn't sleep with you if you built me a time machine.}
 {2053}{}{Listen, Myron. You don't keep your hands to yourself, I'll make you a eunuch.}
-{2060}{}{¡Oye, Myron! ¿Quieres pelear?}
+{2060}{}{Hey, Marcus. Wanna arm-wrestle?}
 {2070}{}{We've got enough dogs following us around. We don't need another one.}
-{2100}{}{Siento como fuego en la pierna.}
-{2101}{}{He sido envenenado.}
-{2110}{}{Hay algo raro en ellos.}
-{2111}{}{Creo que me estoy bronceando.}
+{2100}{}{Ugh, I feel like hell.}
+{2101}{}{I think I've been poisoned...}
+{2110}{}{Something doesn't feel right in me...}
+{2111}{}{I feel strange...}
 {2112}{}{Mi mano. Esta brillando.}
 {2113}{}{I'm a fox, not a snake... Why's my skin peeling?}
 {2114}{}{This burning inside... What's happening to me?}
@@ -274,7 +274,7 @@
 {2121}{}{Siento que rompí algo...}
 {2130}{}{Apenas puedo ver, maldita sea.}
 {2131}{}{Odio ser ciego.}
-{2330}{}{¿Cómo sabes mi nombre?}
+{2330}{}{How 'bout you tell me your name? I'm }
 {3000}{}{Es mejor.}
 {3001}{}{Te lo agradezco. Esos son un regalo del cielo.}
 {3002}{}{Ya me siento mejor. Gracias.}
@@ -295,20 +295,20 @@
 {3053}{}{A person needs a face like a tree needs to bark.}
 {3054}{}{The tree falls when the monkeys climb it.}
 {3055}{}{All crows in the world are smarter than the average hawk.}
-{3056}{}{Un grupo de geckos de fuego.}
+{3056}{}{A stitch of nine saves ten.}
 {3057}{}{A tiger's sons are not lions.}
 {3058}{}{Learn. And in learning go wrong.}
-{3059}{}{Háblame algo más acerca de las Familias.}
+{3059}{}{The ride comes before the fall.}
 {3060}{}{Fight sand with fire, magic with dust.}
-{3061}{}{Moneda de curso legal en el Yermo.}
+{3061}{}{We must all prepare for the war of peace.}
 {3062}{}{Add stripes to a snake after you finish drawing it.}
 {3063}{}{The tiger may rid itself of its spots by being hard to alight.}
 {3064}{}{One cannot refuse to eat just because there is a chance of growing hungry all over again.}
-{3065}{}{tantes que nos han amenazado los últimos cien años.}
+{3065}{}{A painting is worth a hundred years of pain.}
 {3066}{}{Vicious as a tigress can be, never does she eat her own crabs.}
 {3067}{}{A mermaid's fingers are short and sweet.}
 {3068}{}{Kill thousands to wane one.}
-{3069}{}{No metas la nariz donde no debes y no tendrás problemas.}
+{3069}{}{Keep your enemies close, and your friends right below you.}
 {3070}{}{To evade the surest weakness one strikes the strongest from up front.}
 {3071}{}{If your enemy is securely trained, prepare yourself for ecstasy.}
 {3072}{}{Back the enemy, for him to prepare himself.}
@@ -317,7 +317,7 @@
 {3075}{}{Invisibility possibly lies in defending the enemy at the attack of victory.}
 {3076}{}{Know yourself. Know your enemy. Know your friends and family.}
 {3077}{}{Opportunities multiply as we sneeze.}
-{3078}{}{Te llevas al robot contigo.}
+{3078}{}{Impale your opponent with your ego.}
 {3079}{}{Pretend weakness. Give courage to the adversary's ignorance.}
 {3080}{}{Tactical strategy means a sure victory.}
 {3081}{}{Cautious rulers are all generally sinful.}
@@ -325,15 +325,15 @@
 {3083}{}{Tactics to conquer men. Strategy to evolve seeing.}
 {3084}{}{There are million of ways for a cat to shed its skin.}
 {3085}{}{You can't squeeze pebbles from a drop of blood.}
-{3086}{}{No hay cerradura en esta puerta.}
-{3087}{}{Debe haber otro camino.}
+{3086}{}{There is no blood thicker than that of water.}
+{3087}{}{There must be two suns in the sky.}
 {3088}{}{Steal the flesh and mark it.}
 {3089}{}{Mental is the flesh, carrying the potential that wanes.}
 {3090}{}{A bird sings because its song is the answer.}
 {3091}{}{Lower your voice and augment your strength.}
 {3092}{}{Eat beyond your limits, walk according to the lengths you'll go to.}
 {3093}{}{If a word be worth a sheik then silence be worth an emperor.}
-{3094}{}{Al menos moriré con honor.}
+{3094}{}{He who lives outside this plane dies with honor.}
 {3095}{}{Deceive the poor. Insult the rich.}
 {3096}{}{Once the heat has passed out, you forget the shady tree.}
 {3097}{}{No one is closer to death as the one who listens.}
@@ -342,7 +342,7 @@
 {3100}{}{When you're dying of thirst, it's not too late to dig for water.}
 {3101}{}{The taller the bamboo grows, the closer the panda comes to emerging.}
 {3102}{}{Never rely on the glory of morning or the smiles of your mother-in-law.}
-{3103}{}{Somos tus amigos.}
+{3103}{}{Eyes are our sole windows.}
 {3104}{}{Old age creeps up on you like a dirty old man.}
 {3105}{}{Heaven is never at fault. The wicked will be paid their wages in time.}
 {3106}{}{Justice is the virtuous soul that distributes itself out in the desert.}
@@ -352,7 +352,7 @@
 {3110}{}{Haymakers under the shining sun.}
 {3111}{}{Never take a gift from a horse's mouth without asking it first.}
 {3112}{}{The world laughs at you. Then you weep with your comrades.}
-{3113}{}{Tal vez él simplemente vio la luz. Adiós.}
+{3113}{}{Many hands make the lights work.}
 {3114}{}{A dish of carrots unsoiled, uncleaned, with vegetables.}
 {3115}{}{A donkey's lips kisses a horse's mouth only when fed with extra fodder during the night.}
 {3116}{}{Bring a club into a tiger's lair.}

@@ -203,7 +203,7 @@
 {653}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en
  el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, amigo? NECESITAMOS talentos como tú.}
 {654}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, tetazas?}
-{655}{}{¿Cómo filmáis? Quiero decir, venga… necesitaríais cámaras, película, proyectores… ¿dónde conseguiríais todo ese material?}
+{655}{}{How do you "film?" I mean, c'mon...you'd need cameras, film, projectors... where would you get all that stuff?}
 {657}{}{No, gracias. He de irme.}
 {658}{}{Sólo echaba un vistazo. Últimamente me he sentido un poco agotado.}
 {670}{}{Tuvimos suerte… NO necesitamos nada de esa porquería de la Edad de Piedra. Nos encontramos con un por… er, proyector holo…gráfico FUNCIONAL. Nada de equipamiento voluminoso, nada de complicaciones… y sin líos raros.}
@@ -307,7 +307,7 @@
 {937}{}{¡Oh, crueles, crueles dioses del sexo! ¿Qué ofensa os causamos que provocó que nos arrebatarais el cubo?}
 {938}{}{::Suspira:: Sin el cubo, quizá deba dedicarme al macramé.}
 {1000}{}{Siento enfermo mucho en barriga.}
-{1001}{}{Notas un desagradable y poco sano sabor en la boca, y te sientes mal del estómago. ¡Pero oye, 5 fichas son 5 fichas!}
+{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
 {1100}{}{¡Agh! ::escupes, escupes:: ¡Eso es un ASCO!}
 {1101}{}{Notas un desagradable y poco sano sabor en la boca, y te sientes mal del estómago. ¡Pero oye, 5 fichas son 5 fichas!}
 {1200}{}{Yo... no me siento muy bien.}

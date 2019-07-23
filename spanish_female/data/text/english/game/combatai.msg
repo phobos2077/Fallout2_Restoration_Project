@@ -2770,7 +2770,7 @@
 {40964}{}{Apuntas por apuntar. Yo disparo a matar.}
 {40965}{}{No tienes lo que se necesita para acabar conmigo.}
 {40966}{}{Parece que además de estúpido eres ciego.}
-{40967}{}{Has fallado por un buen porcentaje.}
+{40967}{}{Missed me by a few % points.}
 {40968}{}{Debes de ser un cegato hijoputa.}
 {40969}{}{Has fallado. En el siguiente turno, vas a perder la cabeza.}
 {40970}{}{Demonios, soy un fósil y puedo hacerlo mejor que tú.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Mal funcionamiento en los sistemas.}
 {44437}{}{Sistemas energéticos fluctuando. Activando energía de reserva.}
 {44438}{}{Comprometida integridad estructural primaria. Circuitos principales expuestos.}
-{44439}{}{Daño en la unidad de refrigeración. Operando al 75 por ciento de su capacidad.}
+{44439}{}{Power conditioning unit damage. Operating at 75% capacity.}
 {44460}{}{Impacto en unidad motriz derecha. Daño mínimo.}
 {44461}{}{Eje derecho desalineado.}
 {44462}{}{Rueda derecha dañada.}
@@ -3386,13 +3386,13 @@
 {44547}{}{Resumiendo ataque sobre objetivo.}
 {44548}{}{Comenzando ataque.}
 {44549}{}{Eliminando amenaza.}
-{44560}{}{Activando maniobras evasivas.}
-{44561}{}{Protocolo defensivo Beta iniciado.}
-{44562}{}{Capacidad de apuntado del enemigo: inferior. Reajustando nivel de amenaza.}
-{44563}{}{Fallo del enemigo. Recalculando su capacidad ofensiva.}
-{44564}{}{Análisis: efectividad del enemigo mínima.}
-{44565}{}{Análisis: éxito en maniobras evasivas.}
-{44566}{}{Unidad no dañada.}
+{44560}{}{Target missed.}
+{44561}{}{Sensors indicate enemy target missed.}
+{44562}{}{Negative damage inflicted. Adjusting targeting scanners.}
+{44563}{}{Enemy missed. Recalibrating targeting sensors.}
+{44564}{}{Error. Malfunction in targeting sensors.}
+{44565}{}{Analyzing firing data...corrections complete.}
+{44566}{}{Enemy target undamaged.}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}
 {44801}{}{Eso me va a producir un infernal dolor de cabeza.}
 {44802}{}{Umph. ¡En la cabeza no!}
@@ -3535,106 +3535,106 @@
 {60040}{}{Whrrr. Clic. Clic. ¡Guau!}
 {60041}{}{¡Arg! Clic. ¡Guau!}
 {60060}{}{Acción ofensiva evadida.}
-{70000}{}{Será mejor que reces para que esa armadura flote. Adiós.}
-{70001}{}{¡En la cara no!}
-{70002}{}{¡Mis ojos! ¡Mis hermosos ojos!}
-{70003}{}{¡Oye! No bajes ahí!}
-{70004}{}{(Creo que voy a volver a ver qué sucede).}
-{70010}{}{Eso me ha dolido, un poco.}
-{70011}{}{¡Ay! ¡Mi brazo!}
-{70012}{}{Entonces iré por ti.}
-{70013}{}{¡Amigo, eso duele!}
-{70020}{}{Eso me ha dolido, un poco.}
-{70021}{}{¡Ay! ¡Mi brazo!}
-{70022}{}{Entonces iré por ti.}
-{70023}{}{¡Amigo, eso duele!}
+{70000}{}{You better hope that doesn't leave a scar.}
+{70001}{}{Woah! Not the face!}
+{70002}{}{My face! My beautiful face!}
+{70003}{}{Hey! Don't mess with perfection.}
+{70004}{}{Try that again motherfucker and see what happens.}
+{70010}{}{That hurt, asshole.}
+{70011}{}{Shit! My arm!}
+{70012}{}{Hey, lay off the guns.}
+{70013}{}{Son of a bitch, that hurt!}
+{70020}{}{That hurt, asshole.}
+{70021}{}{Shit! My arm!}
+{70022}{}{Hey, lay off the guns.}
+{70023}{}{Son of a bitch, that hurt!}
 {70030}{}{I'm technically over a hundred and eighty years old, you should feel ashamed.}
 {70031}{}{I'm bleeding... that's not how this is supposed to work.}
-{70032}{}{No puedes matarme. Ya lo han intentado.}
-{70033}{}{Vuelve a hacer eso y te arranco la cabeza.}
-{70040}{}{¿Intentas molestarme?}
-{70041}{}{¡Mi rodilla!}
-{70042}{}{¡Maldita sea! ¡Mi pierna!}
-{70043}{}{¡Me has sacado un maldito ojo!}
-{70050}{}{¿Intentas molestarme?}
-{70051}{}{¡Mi rodilla!}
-{70052}{}{¡Maldita sea! ¡Mi pierna!}
-{70053}{}{¡Me has sacado un maldito ojo!}
+{70032}{}{You can't kill me, I've got the heart of a demon.}
+{70033}{}{Hit me again and I'll knife you in the groin.}
+{70040}{}{You trying to make me a gimp?}
+{70041}{}{Ah! My knee!}
+{70042}{}{Shit! My leg!}
+{70043}{}{You gave me a fucking Charley horse!}
+{70050}{}{You trying to make me a gimp?}
+{70051}{}{Ah! My knee!}
+{70052}{}{Shit! My leg!}
+{70053}{}{You gave me a fucking Charley horse!}
 {70060}{}{¡Mis ojos!}
-{70061}{}{Oh Dios, mi brazo no.}
-{70062}{}{¡No veo!}
-{70063}{}{¡Mis ojos! ¡Mis ojos!}
-{70070}{}{¡QUE TE JODAN!}
-{70071}{}{Ves a un residente.}
-{70072}{}{Ahora lo vas a conseguir.}
+{70061}{}{Oh fuck, not my eyes!}
+{70062}{}{MAh! I can't see shit!}
+{70063}{}{My eyes! My dreamboat eyes!}
+{70070}{}{FUCK!}
+{70071}{}{You just made this REAL personal.}
+{70072}{}{Oh, you're going to regret that.}
 {70073}{}{That's top of the line pre-war tech you're fucking with.}
 {70074}{}{Jealous?}
 {70075}{}{Whoa! Whoa! Whoa! That was uncalled for!}
 {70100}{}{Verás, todo esto fue un gran malentendido.}
-{70101}{}{No me alisté para luchar, así que déjame tranquilo.}
-{70102}{}{Olvida todo esto. Me largo de aquí.}
-{70103}{}{Volveré más tarde, cuando te hayas calmado.}
-{70104}{}{¡Espera! Era una broma.}
-{70105}{}{Sigo lamentando no haber tenido la oportunidad de volver a verla.}
+{70101}{}{I'm sorry alright, now leave me alone.}
+{70102}{}{Fuck this, I'm outta' here.}
+{70103}{}{I'll come back later and knife you in your sleep.}
+{70104}{}{It was just a joke.}
+{70105}{}{I'm terribly sorry, I don't know what came over me.}
 {70106}{}{They made me do it, I swear!}
 {70107}{}{Let me live and I'll never kill again, I promise!}
-{70108}{}{Creo que podríamos discutir esto como dos personas civilizadas.}
-{70120}{}{Voy a disfrutar de esto...}
-{70121}{}{No quiero ser un esclavo.}
-{70122}{}{He estado demasiado tiempo en esta ciudad...}
+{70108}{}{Can't we just talk this over like civilized people?}
+{70120}{}{Oh, I'm going to enjoy this.}
+{70121}{}{I can't wait to hear some screams.}
+{70122}{}{I've been just itching to kill...}
 {70123}{}{Time to indulge in the joys of an unpoliced society.}
 {70124}{}{Alright! Groin shot time!}
 {70140}{}{Grita para mí.}
-{70141}{}{Dejame echar otro vistazo a tus productos.}
-{70142}{}{Trataré de hacer esto lo más doloroso posible.}
-{70143}{}{Ese pastel de gecko me ha producido ardores.}
-{70160}{}{Qué pedazo de cabrón eres.}
-{70161}{}{Joder, das pena.}
+{70141}{}{Let me get a better look at your blood.}
+{70142}{}{I'll try and make this as painful as possible.}
+{70143}{}{This violence is giving me a hard-on.}
+{70160}{}{What a fuckin' joke.}
+{70161}{}{Holy shit do you suck.}
 {70162}{}{You're lucky you missed. Actually, you're not lucky, cuz I'm still gonna kill you.}
-{70163}{}{Cuenta conmigo, campeón.}
-{70200}{}{Esto me va a dejar una cicatriz.}
-{70201}{}{¡Ganador! ¡Ha triplicado su dinero!}
-{70202}{}{¡Oye! ¡Cuidado con lo que haces!}
-{70210}{}{¡Le has roto el brazo a Kaga!}
-{70211}{}{¡Un pinchazo!}
-{70212}{}{Esto me va a dejar una cicatriz.}
-{70220}{}{¡Le has roto el brazo a Kaga!}
-{70221}{}{¡Un pinchazo!}
-{70222}{}{Esto me va a dejar una cicatriz.}
+{70163}{}{Way to fail, champ.}
+{70200}{}{You best hope that don't leave a scar...}
+{70201}{}{Damn! You chipped my tooth, monkey!}
+{70202}{}{Hey! Watch the face!}
+{70210}{}{Shit! You got my arm!}
+{70211}{}{Ohh, that stings!}
+{70212}{}{That's gonna leave an ugly smegging bruise.}
+{70220}{}{Shit! You got my arm!}
+{70221}{}{Ohh, that stings!}
+{70222}{}{That's gonna leave an ugly smegging bruise.}
 {70230}{}{Ah! Right in my smegging chest!}
-{70231}{}{Allá va el ojo del tigre...}
-{70232}{}{¡Has fallado!}
-{70240}{}{No puedes estimar correctamente las probabilidades.}
+{70231}{}{There goes one of my lives...}
+{70232}{}{You missed my heart, monkey!}
+{70240}{}{You can't keep this cat from strutting.}
 {70241}{}{Shit, right in my kneecap!}
-{70242}{}{No puedes verme}
-{70250}{}{No puedes estimar correctamente las probabilidades.}
+{70242}{}{You can't slow me down!}
+{70250}{}{You can't keep this cat from strutting.}
 {70251}{}{Shit, right in my kneecap!}
-{70252}{}{No puedes verme}
-{70260}{}{¡Deja de darme en el pecho!}
-{70261}{}{¡Me sangra el ojo! ¡Mierda!}
+{70252}{}{You can't slow me down!}
+{70260}{}{Motherfucker hit me in the eyes!}
+{70261}{}{Oh! I think my eye's bleeding!}
 {70262}{}{¡Mis ojos!}
-{70270}{}{¡No por debajo de la cintura!}
+{70270}{}{Whoa, no hitting below the belt.}
 {70271}{}{Going for the groin's not cool. Not cool at all.}
 {70272}{}{Hey now! The groin's off limits.}
 {70273}{}{This cat don't wanna be neutered!}
 {70300}{}{A cat's got to look after himself!}
-{70301}{}{Lo siento, no eres de fiar.}
-{70302}{}{Olvida todo esto. Me largo de aquí.}
+{70301}{}{Screw it, you're not worth it.}
+{70302}{}{Fuck this, I'm outta' here.}
 {70303}{}{Gotta jet while I've still got a life to spare.}
-{70304}{}{Esta vez has ganado.}
-{70320}{}{No te preocupes. Estaré allí.}
-{70321}{}{¡Esto ha sido divertido, pero ahora me largo!}
-{70322}{}{Déjame ver esas manos.}
+{70304}{}{You won this time, monkey!}
+{70320}{}{Don't worry, this'll be over *real* soon.}
+{70321}{}{This cat's about to pounce!}
+{70322}{}{Let's waste these smegheads.}
 {70340}{}{Hurry up and die so I can go take a nap.}
-{70341}{}{Al menos no estoy en el Yermo…}
-{70342}{}{Mejor que no montes follón en mi local.}
-{70343}{}{Será mejor que no vuelvas a intentar robar.}
-{70360}{}{Parece que las cosas están yendo bien por aquí.}
-{70361}{}{No, eso es todo.}
-{70362}{}{Hmm, déjame preguntarte otra cosa.}
+{70341}{}{At least I'm killing you with style.}
+{70342}{}{You best not bleed on my clothes. }
+{70343}{}{I better not break a nail. }
+{70360}{}{Looks like this cat's too quick for you.}
+{70361}{}{Now that's just sad.}
+{70362}{}{Here, let me show you how to actually *hit* something.}
 {70363}{}{Hell, I almost feel sorry for you. Almost.}
 {70400}{}{¡Ay! ¡Mi cabeza!}
-{70401}{}{Creo que será mejor que te muevas.}
+{70401}{}{I think my ear's bleeding.}
 {70402}{}{Cào! I hope that didn't break my nose.}
 {70410}{}{¡Ay! ¡Mi brazo!}
 {70411}{}{Maldita, ¡Eso duele!}
@@ -3643,7 +3643,7 @@
 {70421}{}{Maldita, ¡Eso duele!}
 {70422}{}{At least it's not broken… I don't think.}
 {70430}{}{Creo que me has roto una costilla.}
-{70431}{}{Yo no te haría algo así a ti.}
+{70431}{}{I won't die that easily.}
 {70432}{}{¡Oh! ¡Eso duele!}
 {70440}{}{¡En las piernas no!}
 {70441}{}{¡Ay! Justo en la espinilla.}
@@ -3654,18 +3654,18 @@
 {70460}{}{¡Cào! ¡Mis ojos!}
 {70461}{}{¡Golpe bajo!}
 {70462}{}{Hey! I can't afford another eye surgery!}
-{70470}{}{No te creo. Muéstrame el proceso.}
+{70470}{}{I can't believe you just hit me there.}
 {70471}{}{¡No soy ese tipo de chica!}
-{70472}{}{Tú persona pequeña.}
-{70500}{}{Parece que vas a perder.}
-{70501}{}{Preferiría morir que unirme a vosotros.}
+{70472}{}{You just made this *real* personal.}
+{70500}{}{Looks like I've no choice but to run...}
+{70501}{}{I'd rather flee than die.}
 {70502}{}{De acuerdo. Eso es bastante...}
-{70520}{}{Acabemos con esto.}
-{70521}{}{¡Tu muerte se acerca!}
-{70522}{}{Algo sobre un desaparecido.}
+{70520}{}{Let's get this over with.}
+{70521}{}{Your death shall come swiftly.}
+{70522}{}{Looks like it's come to this...}
 {70540}{}{Tú lo has querido.}
-{70541}{}{No quiero tomar parte en esto.}
-{70542}{}{Creo que mereces respuestas a tus preguntas.}
+{70541}{}{I take no pleasure from this.}
+{70542}{}{Now you see the consequence of your actions.}
 {70560}{}{Caray, eso es paté.}
-{70561}{}{¿Suficiente?}
+{70561}{}{Too quick for you, huh?}
 {70562}{}{Ni de cerca.}

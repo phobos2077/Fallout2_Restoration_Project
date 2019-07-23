@@ -1,9 +1,9 @@
-{100}{}{Bueno, al menos no estoy perdiendo.}
-{101}{}{Eso suena bien.}
+{100}{}{Well, at least it has a working rope now.}
+{101}{}{That should just about do it.}
 {102}{}{This well is missing its rope and bucket.}
-{103}{}{Ya está arreglado.}
+{103}{}{The well is already fixed. Remember?}
 {104}{}{It has rope, but it's missing its bucket.}
 {200}{}{Ves un pozo.}
-{201}{}{Sólo es un urinario.}
-{202}{}{Al inspeccionarla más de cerca, parece que a esta persona la dispararon antes de ser masticada por animales.}
-{203}{}{El pozo funciona bien.}
+{201}{}{It's just a well.}
+{202}{}{Upon closer inspection you see that the well is not working. Perhaps you can fix it.}
+{203}{}{The well is working fine again.}

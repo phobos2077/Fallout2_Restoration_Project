@@ -37,7 +37,7 @@
 {261}{}{¡La casa vuelve a estar en mi contra!}
 {262}{}{Tengo que conseguir más fichas…}
 {263}{}{¡Jodida máquina! Sigue quedándose con todas mis fichas…}
-{270}{}{Me disculpo, forastero. Que tengas suerte.}
+{270}{}{You done have my apology, stranger. Luck be with ya.}
 {271}{}{Perdona por perder los estribos. El sol del desierto hace que un hombre diga algunas cosas jodidamente repugnantes.}
 {272}{}{::Se toca un sombrero imaginario::}
 {275}{}{}

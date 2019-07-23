@@ -1,4 +1,4 @@
-{100}{}{Ves a Fred.}
+{100}{}{You see torpedos.}
 {101}{}{These dangerous-looking weapons are filled to the brim with explosives. The casings are corroded and it
  seems the propellers will fall off any second now.}
 {200}{}{Despite the looks, this torpedo is still a potent weapon. The loose propeller is actually an integral part of

@@ -72,10 +72,10 @@
 {171}{}{¿Cómo han ido las cosas?}
 {172}{}{Olvídalo. Sin resentimientos. Eso es todo.}
 {173}{}{That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.}
-{174}{}{¡Sí!}
+{174}{}{Yes!!}
 {175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there.
  Now that we have that out of the way, shall we try again?}
-{176}{}{¿Transcendencia?  Honestamente, ¡¿cómo esperan de mí que difunda la palabra aquí, cuando ni siquiera me mantienen al día con la doctrina más reciente!?}
+{176}{}{Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
 {177}{}{(Continuar)}
 {178}{}{¿Estabas dormido durante el adoctrinamiento? Mmmmm... ¡tú no eres uno de los Iluminados!}
 {179}{}{¿Así que estás diciendo que existe algún enorme poder que nos crea con un propósito y luego nos abandona? No puedo creer que alguien pudiera ser tan cruel. Vamos, abraza la Iglesia de la Hubología. Déjanos enseñarte el camino correcto.}

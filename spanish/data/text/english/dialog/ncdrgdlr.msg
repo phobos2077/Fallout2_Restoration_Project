@@ -1,6 +1,6 @@
 {150}{}{Ves a un hombre vestido con ropa arrugada. Se está frotando la nariz y mirando a su alrededor furtivamente.}
 {151}{}{Ves a un traficante.}
-{152}{}{Ves a un vendedor de drogas. Parece que está a la caza de clientes.}
+{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
 {200}{}{¡Oye, héroe! ¿Quieres celebrarlo con algo de Jet? ¡Habla conmigo!}
 {201}{}{¡Qué forma de patearle el culo al Enclave, héroe! ¿Quieres relajarte y celebrarlo con un poco de Jet?}
 {202}{}{::Brindis::}
@@ -19,7 +19,7 @@
 {215}{}{¿Así que estás buscando celebrarlo con algo de Jet, héroe? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
 {216}{}{Lo menos que puedo hacer es rebajar mis existencias para ti, héroe. Sólo es mi forma de decirte gracias por salvar nuestros culos.}
 {217}{}{Nada mejor que un poco de Jet después de patear el culo al Enclave, ¿eh? ¿Tengo razón? Todas mis existencias están a precio de ocasión para ti.}
-{218}{}{Tengo material que te ayudará a llegar al cielo, héroe. Y para ti, con un buen descuento. ¿Cómo te suena?}
+{218}{}{I got shit that'll help you kiss the sky, hero. And for you: a nice discount. How does that sound?}
 {219}{}{¿Tienes caramelos? }
 {220}{}{Te alejas}
 {221}{}{¿Qué tienes?}
@@ -28,7 +28,7 @@
  ¿vale?}
 {231}{}{¿Así que quieres montarte una fiestecita con algo de Jet, amigo? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
 {232}{}{Tengo Jet suficiente como para ponerte en órbita, mi nuevo mejor amigo. Y para ti, un descuento. ¿Hablamos del precio?}
-{233}{}{Tengo material que te ayudará a llegar al cielo, amigo. Y para ti, un descuento. ¿Suena eso lo suficientemente bien?}
+{233}{}{I got shit that'll help you kiss the sky, friend. And for you: a discount. That sound all right?}
 {234}{}{Qué menos que rebajar mis existencias para TI, amigo. Sólo es mi forma de resultar amigable.}
 {235}{}{Tienes clase, y lo sabes. Clase. Y cuando alguien que tiene tanta clase como tú negocia conmigo, consigue un descuento
  en la tienda, ¿sabes?}

@@ -1,4 +1,4 @@
-{100}{}{Ves a un okupa.}
-{101}{}{Esta puerta tiene una barra que sube y baja.}
-{102}{}{Abres el cajón.}
-{103}{}{Cargas el proyectil en el obús.}
+{100}{}{You see a sturdy gate.}
+{101}{}{This gate has a large lock on it.}
+{102}{}{You unlock the gate with the key.}
+{103}{}{You lock the gate with the key.}

@@ -77,8 +77,8 @@
 {159}{}{Me marcharé.}
 {160}{}{Bien. Déjalo, entonces. Nada, gracias.}
 {161}{}{Lo que sea.}
-{162}{}{¡Hola, amigo! }
-{163}{}{Oh, bien. Eres tú de nuevo. }
+{162}{}{Hi, friend!}
+{163}{}{Oh, good. It's you again.}
 {164}{}{Hola.}
 {165}{}{Verás, yo sabía lo que esos bastardos de Franc, Manson, Jacob, y Aileen tenían preparado para nosotros. ¡Bien hecho! Así que…}
 {166}{}{Espero que te hayas pensado un poco lo de devolver el mineral a la ciudad… así que…}
@@ -87,7 +87,7 @@
 {169}{}{¿Qué quieres ahora?}
 {170}{}{¿Qué puedes contarme sobre la ciudad?}
 {171}{}{He oído que estás teniendo pequeños problemas con la mina.}
-{172}{}{¿Cómo van las cosas?}
+{172}{}{How're things?}
 {173}{}{¿Te llevas bien con los humanos?}
 {174}{}{¿Ya has cambiado de opinión sobre lo de intentar arreglar lo de la mina?}
 {175}{}{¿Qué hay para mí?}
@@ -122,7 +122,7 @@
 {201}{}{Bueno, la mejor persona para hablar sobre eso sería Marcus, en el banco, o Steve, el
  pregonero de la ciudad.}
 {202}{}{Hmm. De acuerdo, gracias.}
-{203}{}{Entonces iré a preguntarles. }
+{203}{}{I'll go ask them, then.}
 {204}{}{Tendría que decir que todo está bien. Aún así… siempre podría ser mejor.}
 {205}{}{Je. Gracias por toda la información.}
 {206}{}{Bueno, como los mutantes no son los únicos que se están volviendo viejos y seniles -el gas los mantiene jóvenes, o algo así– tendría que decir que las cosas están bastante bien. Quiero decir, no queremos matar a todo el mundo, y hasta donde yo sé, los humanos no piensan demasiado mal de nosotros. Por supuesto, eso no incluye los humanos de otros lugares cerca de aquí… entre ellos hay varios hijos de puta.}

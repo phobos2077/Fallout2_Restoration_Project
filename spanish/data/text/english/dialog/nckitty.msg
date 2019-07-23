@@ -108,9 +108,9 @@
 {404}{}{Davin podría ganar bastante más… experiencia.}
 {405}{}{Miria quiere darse un paseo por el lado salvaje.}
 {406}{}{De hecho, ninguno de ellos, gracias.}
-{407}{}{Mejor será que vigile a éste. Parece un poco enfermo.}
+{407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
 {408}{}{Cat Jules here. Watch out though, he might bite the girls.}
-{409}{}{Fuentes informadas dicen que eres el hombre al que ver para hacer negocios, si sabes a lo que me refiero.}
+{409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
 {420}{}{¿Es este tu amigo? (Mira a tu compañero de arriba a bajo, y asiente). Creo que podemos complacerte… }
 {421}{}{(Mira a tu compañero de arriba a bajo, y asiente). Creo que podemos complacerte… }
 {422}{}{ fichas.}

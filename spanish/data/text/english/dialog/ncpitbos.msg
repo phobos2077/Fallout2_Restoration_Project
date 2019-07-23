@@ -38,7 +38,7 @@
 {286}{}{¿Quién eres?}
 {287}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {288}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
-{289}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
+{289}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
 {290}{}{Gracias, lo haré.}
 {291}{}{Nada, gracias. Perdón por molestarte.}
 {292}{}{Sólo comprobaba las cosas. Seguid así.}
@@ -65,9 +65,10 @@
 {328}{}{¿Puedes contarme algo acerca del casino?}
 {329}{}{Nada, gracias. Perdón por molestarte.}
 {335}{}{Oye, }
-{336}{}{¡He oído que eres el que pateó el Enclave de vuelta a la edad de piedra! Me han instruido a darte algunas fichas, cortesía del casino. Disfruta, señora.}
+{336}{}{! Heard yer the one who kicked the Enclave back to the stone age! I've been instructed to give you some chips,
+ courtesy of the casino. Enjoy yourself, sir.}
 {337}{}{¡He oído que eres el que pateó el Enclave de vuelta a la edad de piedra! Me han instruido a darte algunas fichas, cortesía del casino. Disfruta, señora.}
-{338}{}{. La chica más bonita en el casino. ¿Conseguirte algo? ¿Una bebida? ¿Una mesa privada?}
+{338}{}{. What's up, chief? Get you anything? A drink? A waitress?}
 {339}{}{. La chica más bonita en el casino. ¿Conseguirte algo? ¿Una bebida? ¿Una mesa privada?}
 {340}{}{¿Qué puedo hacer por ti, amigo?}
 {341}{}{¿Qué puedo hacer por ti, guapa?}
@@ -79,17 +80,17 @@
 {347}{}{¿Quién eres?}
 {348}{}{¿Quién es ese tipo viejo en la máquina tragaperras?}
 {349}{}{Ese cómico que tenéis en el escenario apesta. ¿Te importa si lo intento yo?}
-{350}{}{Gracias. ¿Necesitas a alguien que baile durante la noche? No me importaría una participación limitada.}
+{350}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
 {351}{}{Gracias, lo haré.}
 {352}{}{Nada, gracias. Perdón por molestarte.}
 {353}{}{Sólo comprobaba las cosas. Seguid así.}
-{355}{}{La Guarida}
-{356}{}{La Guarida}
+{355}{}{The }
+{356}{}{The }
 {357}{}{¿Quién eres?}
 {358}{}{¿Puedes contarme algo acerca del casino?}
 {359}{}{Ya veo. Gracias por tu tiempo.}
 {360}{}{¡Hey, mirad quién está aquí! Hola, }
-{361}{}{Bienvenido a Gecko.}
+{361}{}{. Welcome to }
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{Te alejas}
 {364}{}{¿Quién eres?}
@@ -126,9 +127,9 @@
 {435}{}{No, todavía nos estamos recuperando de tu última actuación. A lo mejor te interesa probar en alguno de los otros casinos.}
 {436}{}{Está bien, gracias. Oye, tenía algunas otras preguntas…}
 {437}{}{Vale… aunque volveré.}
-{445}{}{Parece que este no va a ser un mal negocio después de todo.}
-{446}{}{Lo del cuero fue un gran idea por tu parte.}
-{447}{}{Ese gag de la pelota tampoco ha estado mal, la verdad.}
+{445}{}{[You count up the evening's chips. Not a bad haul.]}
+{446}{}{The leather was a nice touch. }
+{447}{}{That ball gag you had with you didn't hurt, either. }
 {448}{}{[CONTINUAR]}
 {455}{}{Sí, apesta más que la mierda de brahmin. Aún así, ¿tú…? Bueno, qué demonios. Un poco de improvisación no hará daño, aunque
  es un público difícil… espero que lo hagas bien.}
@@ -136,29 +137,29 @@
 {457}{}{Ahora no, pero volveré más tarde.}
 {500}{}{That was some funny shit. You're the next Milton Berle. Come back in a week for another show.}
 {501}{}{That was a great show. You got a great routine. Come back in a week for another show.}
-{502}{}{Oh, bien. Ya nos veremos.}
+{502}{}{I will. See you around.}
 {510}{}{That was just awful. I don't know how you do it, but you are actually worse than the regular. I don't think we will be needing you again.}
 {511}{}{Fine, I'll go take my talent to someone who WILL actually appreciate it.}
 {512}{}{Lo que sea. Adiós.}
 {520}{}{You were smokin' out there. The next Traci Lords. }
-{521}{}{No voy a perder el tiempo en lo que sea que trates de venderme.}
-{522}{}{Oh, bien. Ya nos veremos.}
-{523}{}{Vuelve cuando tengas dinero.}
-{530}{}{Lo siento, no eres de fiar.}
-{531}{}{Lo que sea. Mira, tenía unas preguntas más...}
+{521}{}{I don't think I have seen anyone move like that on stage. You got real talent. }
+{522}{}{I will. See you around.}
+{523}{}{Come back in a week for another show.}
+{530}{}{Sorry, you're not up to our standards.}
+{531}{}{Whatever. I got some other questions.}
 {532}{}{Fine, I'll go find someone who WILL appreciate my talent. Bye.}
-{620}{}{Me interesaría conseguir esa llave.}
+{620}{}{Interested in me doing another comic routine?}
 {621}{}{I told you to check back in a week. You still got some time, so check back later.}
-{622}{}{De acuerdo. ¿Entonces puede hacerte algunas preguntas?}
-{623}{}{Entonces te dejaré solo.}
-{720}{}{¿Tiene alguna cura?}
+{622}{}{Alright. I got some questions then.}
+{623}{}{I will see you around then.}
+{720}{}{Is there an opening for any dancers tonight?}
 {721}{}{I told you to check back in a week. You still got some time, so check back later.}
-{722}{}{De acuerdo. ¿Entonces puede hacerte algunas preguntas?}
-{723}{}{Entonces te dejaré solo.}
+{722}{}{Alright. I got some questions then.}
+{723}{}{I will see you around then.}
 {902}{}{Bishop}
 {903}{}{Mordino}
-{904}{}{el Club Shark}
-{905}{}{el Desperado}
+{904}{}{Shark Club}
+{905}{}{Desperado}
 {1000}{}{You know your marriage is in trouble if your wife says, 'You're only interested in one thing,' and you can't remember what it is.}
 {1001}{}{My doctor recently told me that jogging could add years to my life. I think he was right. I feel ten years older already.}
 {1002}{}{Folks who don't know why America is the Land of Promise should be here during an election campaign.}
@@ -176,8 +177,8 @@
 {1286}{}{I don't care if your friend is one of the Ex-Men, mutants wait outside.}
 {1287}{}{Ese monstruo mutante no está permitido aquí.}
 {1306}{}{. Tómate un descanso de lo de salvar al mundo y diviértete un poco.}
-{1335}{}{Este es el camino.}
-{1336}{}{Este es el camino.}
+{1335}{}{This is the }
+{1336}{}{This is the }
 {1337}{}{¿Quién eres?}
 {1338}{}{¿Puedes contarme algo acerca del casino?}
 {1339}{}{Nada, gracias. Perdón por molestarte.}
@@ -186,9 +187,9 @@
 {1347}{}{¿Quién eres?}
 {1348}{}{A quién pertenece este casino?}
 {1349}{}{De acuerdo, gracias. Lamento haberte molestado.}
-{1355}{}{A la Familia [CA]. Insuflaron vida a este lugar, lo convirtieron en un auténtico punto de referencia de las noches, en una brillante joya en Nuevo Reno.}
-{1356}{}{A la Familia [CA]. ¿Eso es un problema? Porque si no estás aquí para apostar, entonces este no es lugar para ti. ¿Entendido?}
-{1361}{}{. Te doy la bienvenida a [CN]. Me encantan tus películas.}
+{1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
+{1356}{}{ Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
+{1361}{}{. Love your films.}
 {1365}{}{¿Ese tipo? ¿El Viejo McGee? El loco hijo de perra… ha estado jugando en esa máquina
  durante los últimos años, esperando el gran premio. Toda su fortuna
  debe estar dentro de esa cosa, pero no le devolverá ni una sola ficha.}
@@ -202,16 +203,16 @@
 {1500}{}{Umm...Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
 {1501}{}{Yo mama sooooooo fat that I had to take a plane, a train, and an automobile just to get on the bitch's good side.}
 {1502}{}{Alright, what did one plate say to the other?}
-{1503}{}{¿Sabe dónde están esos saqueadores?}
+{1503}{}{Ok, why were the suspenders arrested?}
 {1504}{}{Ok, why couldn't the woman buy a bakery shop?}
 {2000}{}{Your comic routine was a success.}
 {2001}{}{Your comic routine was a flop.}
 {2003}{}{In Washington, a man gets up to speak and doesn't say a thing, and the other men disagree with him for three hours.}
 {2010}{}{Your erotic dance routine was a success.}
-{2335}{}{El [CN]. Si necesitas algo, tan solo pregunta.}
-{2336}{}{El [CN]. Al menos, era así la última vez que comprobé el cartel de la entrada. Y ahora, ¿qué puedo hacer por ti?}
-{2500}{}{Has entrado sin permiso.}
+{2335}{}{. Need anything, just ask.}
+{2336}{}{. At least, last time I checked the sign outside the door. Now what can I do for you?}
+{2500}{}{[2 hours pass.]}
 {2501}{}{[1 hour passes.]}
-{2502}{}{Activa esto.}
+{2502}{}{Lunch is on me.}
 {2503}{}{They were arrested for holding up a pair of pants.}
 {2504}{}{Because she couldn't raise enough dough.}

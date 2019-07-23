@@ -1,12 +1,12 @@
 {100}{}{Ves una computadora funcional.}
-{101}{}{Ves el terminal de la puerta del Refugio.}
+{101}{}{You see the EPA's botany terminal.}
 {200}{}{Welcome to the EPA's botany terminal. Please select one of the following options.}
-{201}{}{Acceso a base de datos.}
-{202}{}{Acceso a base de datos.}
+{201}{}{Access information database.}
+{202}{}{Access seed storage.}
 {203}{}{Salir.}
 {210}{}{There are currently two databases available for viewing. Please make your choice below.}
-{211}{}{Acceso a Estación Biológica.}
-{212}{}{Acceso a Estación Biológica.}
+{211}{}{Access file on crop rotation.}
+{212}{}{Access file on botany.}
 {213}{}{Access file on animal and biological testing.}
 {214}{}{Atrás.}
 {220}{}{Crop rotation avoids a decrease in soil fertility, as growing the same crop repeatedly in the same place
@@ -33,9 +33,9 @@
 {240}{}{This facility has been the site of various experiments on various animal and plant life forms. Extensive testing has been
  done on the a plant-like life form known as a spore plant and some animal-like creatures known as Centaurs, Floaters, and Radscorpions.}
 {241}{}{Read about plant experiments.}
-{242}{}{Planta de esporas}
-{243}{}{Te encuentras con centauros y nómadas.}
-{244}{}{Detener a los escorpiones rad.}
+{242}{}{Read about Spore Plants.}
+{243}{}{Read about Centuars and Floaters.}
+{244}{}{Read about Radscorpions.}
 {250}{}{Various experiments have been conducted to grow new plant life. Several of these attempts have been successful
  and can now be seen growing in a healthy state in the arboretum. Storage tanks currently indicate seed samples are still available for further testing.}
 {251}{}{A spore plant is a mutated form of some Venus-fly-trap-like plant. Additional testing has shown the plant is quite
@@ -57,13 +57,13 @@
 {261}{}{Current EPA storage containers report there are seeds remaining in Storage Tank Two.}
 {262}{}{Current EPA storage containers report there are seeds remaining in Storage Tank One.}
 {263}{}{Current EPA storage containers report there are no more seeds remaining in any of the Storage Tanks.}
-{264}{}{Acceso a base de datos.}
+{264}{}{Access Storage Tank One.}
 {265}{}{Access Storage Tank Two.}
 {266}{}{Volver}
 {270}{}{Storage Tank One reports 5 remaining packets from the U.S. Food Enhancement Program. Seeds from corn plants were genetically modified
  to be immune to disease and insect infestation.}
 {271}{}{Storage Tank Two reports 2 remaining seed packets, each of similar or different families. No research has been conducted and the outcome of seed germination is unknown.}
-{273}{}{Seleccionar Retirar.}
+{273}{}{Retrieve seeds.}
 {280}{}{Collecting seed samples...Successfully collected 5 packets of genetically modified corn seeds. Depositing packets to collection container...Success...
  Closing storage container...Success.}
 {281}{}{Collecting seed samples...Successfully collected 2 packets of unknown seeds. Depositing packets to collection container...Success...

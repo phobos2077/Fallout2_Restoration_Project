@@ -16,8 +16,8 @@
 {113}{}{Sub-level Green is an exciting level that contains an arboretum, biological weapon research, fascinating new creatures and, every child's favorite, our unique petting zoo.}
 {114}{}{Sub-Level Blue does not exist. If someone told you otherwise, they're dirty liars and are most likely communist sympathizers. Please report them to our security department on Sub-Level Red so they may be dealt with accordingly. Thank you for doing your part as a proud American!}
 {115}{}{Vuelves al menú principal.}
-{116}{}{Gracias por salvar a los mutantes.}
+{116}{}{Thank you for using the location finder.}
 {117}{}{[HECHO]}
 {118}{}{Ves una computadora.}
-{119}{}{Ves al ayudante de Servicios.}
+{119}{}{You see the EPA Location Finder.}
 {120}{}{You see a computer with detailed information about the levels in the EPA.}

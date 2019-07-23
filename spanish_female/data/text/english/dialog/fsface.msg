@@ -104,7 +104,7 @@
 {203}{}{Soy EAC, una Entidad Artificial Consciente. Soy más que una máquina pero no tan desarrollada como una auténtica Inteligencia Artificial.}
 {204}{}{Eh... ¿qué es inteligencia artif-ficial?}
 {205}{}{¿Una auténtica Inteligencia Artificial es posible, o tú eres ahora mismo lo último en ese campo?}
-{206}{}{Es una máquina con la misma libre voluntad y sentido de "ser" que tiene un ser humano.}
+{206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
 {207}{}{¿Puede ser? ¿Máquina pensar como hombre?}
 {208}{}{Una auténtica Inteligencia Artificial es posible. Se completaron unos pocos sistemas para propósitos militares. El proyecto se suspendió.}
 {209}{}{¿Por qué?}

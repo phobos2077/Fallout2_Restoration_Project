@@ -1,10 +1,10 @@
 {100}{}{Ves a uno de los hijos de Wright. }
 {150}{}{Ves a un chico pequeño de pelo negro.}
-{151}{}{Ves a un chico pequeño de pelo negro.}
+{151}{}{You see a black-haired little girl.}
 {155}{}{Te saca la lengua.}
 {156}{}{Te está mirando malhumorado.}
 {157}{}{Te saca la lengua.}
-{158}{}{Te mira sin comprender.}
+{158}{}{She looks at you suspiciously.}
 {159}{}{Te está mirando malhumorada.}
 {175}{}{Fallout 2, ofrecido en respuesta a la gran demanda de nadie.}
 {176}{}{¡Oye! }

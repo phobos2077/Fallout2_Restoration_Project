@@ -1,6 +1,6 @@
 {100}{}{Ves una puerta de madera.}
 {101}{}{This door is made of a solid wood. It seems to be built with a new locking system.}
-{102}{}{La puerta ya está desbloqueada.}
+{102}{}{This door is firmly locked.}
 {103}{}{Using the technique you learned from Max, you carefully undo the trigger mechanism and
  effortlessly lockpick the door.}
 {104}{}{Something seems different about this lock. You decide to leave it alone.}

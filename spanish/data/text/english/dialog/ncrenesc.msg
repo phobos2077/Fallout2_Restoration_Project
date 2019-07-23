@@ -382,14 +382,14 @@
  y habrá una fiesta grande con payasos y…}
 {6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}
 {6010}{}{I know this must come as something of a shock to you, but a white smock does not automatically confer a cardiology degree. I am a pharmacist. I produce chems. Then you buy them. Then, you leave. Quietly.}
-{6011}{}{Me parece justo. Tenía algunas otras preguntas...}
+{6011}{}{Fair enough. Moving on, then...}
 {6012}{}{C'mon, could you humor me? Just this once? Pretty pleeease?}
 {6020}{}{Fine. My prescription is cigarettes and red meat, in large quantities. Was that all? If I have to put up with much more vacuous prattle today, I'm liable to have a stroke myself.}
 {6021}{}{Yeah, you are pretty high strung, aren't you? I'll bet Hakunin could help you with that. He's the medicine man back home, in Arroyo. Say, have I ever told you about Arroyo?}
 {6022}{}{And wouldn't that be a tragedy. Next question...}
-{6023}{}{Sólo una pregunta más...}
-{6024}{}{Aquí está el regulador. Sabía que podía contar contigo.}
-{6030}{}{Quiero que esperes aquí.}
+{6023}{}{Okay then, just one more quick thing...}
+{6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
+{6030}{}{I need you to fix me up with a special order.}
 {6031}{}{So, about that special order we were discussing...}
 {6040}{}{Yes? And? Were you expecting me to read your mind, or would you like me to surprise you?}
 {6041}{}{Not on your life, asshole. What I need are some... um... pills. For, um... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
@@ -414,7 +414,7 @@
 {6080}{}{Hmmm. Is that all? Remedial stuff, really. And the base materials are dirt cheap. Accounting for labor... $200 should suffice.}
 {6081}{}{What?! If I wanted to get screwed, I'd have gone to the Cat's Paw! At least I'd know what I was getting myself into.}
 {6082}{}{You know as well as I do that we're talking about $15 in chems and five minutes of mortar work. I think we need to talk some numbers here.}
-{6083}{}{De acuerdo. Quizás cuando tenga algo más que ofrecerte.}
+{6083}{}{All right. You've got overhead, I've got better places to be. $200.}
 {6084}{}{Not sure I can spare that much at the moment. Maybe we'll come back to this later.}
 {6090}{}{(His scowl deepens.) I'm not in the mood to beat around the bush with you. You think I'm going to buy that you're just some particularly picky homo not-so-erectus? PLEASE! Do you have any idea how long I've been doing this?}
 {6091}{}{You obviously haven't spent much time out of your cave, so take my word for it when I say there aren't too many kinds of pills going around that match that oddly specific description of yours, and one *very notable* one comes to mind immediately. "Specialty" items, specialty prices, throwback. Welcome to New Reno. That'll be $300.}
@@ -422,11 +422,11 @@
 {6093}{}{I covered your ass with Salvatore. Consider this collection on your debt.}
 {6094}{}{I don't think *Mr. Bishop* would be very happy with you if he knew you were hindering his interests like this, Renesco.}
 {6095}{}{Fine. $300, and that's for the pills *and* your discretion. Understand?}
-{6096}{}{Quizás vuelva cuando te encuentres mejor.}
+{6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
 {6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
 {6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
 {6102}{}{Déjame hacerte otra pregunta.}
-{6103}{}{Ya he tenido suficiente. Adiós.}
+{6103}{}{That's it for me. See you around.}
 {6110}{}{(Renesco flushes, nostrils flaring in anger, but then looks down and begins cleaning his glasses very intently on his smock as he speaks.) Primate, the ONLY two things I will EVER be indebted to you for are JACK and SHIT.}
 {6111}{}{Now, that being the case... if it will disabuse you of this intolerable provincial delusion that you've somehow got something over me, the very THOUGHT of which makes me ill in ways I lack the words to describe... }
 {6112}{}{I... SUPPOSE... your thrice damned pills are a small price to pay. And if I EVER AGAIN hear you say a word that even RHYMES with "owe," the shop is getting a new chimp-skin rug. Sit down, shut up, and work on growing a pair of opposable thumbs while I get this compounded. (Renesco goes to work.)}

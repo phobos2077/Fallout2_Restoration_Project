@@ -124,18 +124,18 @@
 {9242}{}{Realizando modificaciones de hardware, Maestro... Sistemas nominales.}
 {9243}{}{Realizando modificaciones de hardware, Maestro... ¡Sistemas óptimos!}
 {9250}{}{}
-{9260}{}{Hay más cosas que quiero saber.}
+{9260}{}{There's more than one way to skin a cat.}
 {9261}{}{The lower I fall, the higher I fly.}
 {9262}{}{Live. Learn. Evolve.}
 {9263}{}{I hear and I forget; I see and I remember; I do and I understand.}
-{9264}{}{Yo *soy* un Ciudadano.}
-{9270}{}{¿Sabes? Creo que mi puño y tu cara están a punto de tener una conversación.}
+{9264}{}{I *am* the Nine.}
+{9270}{}{You know, I think I'm starting to recover from that whole being frozen thing.}
 {9271}{}{Ahh... yes. I can feel the old magic coming back to me now.}
-{9272}{}{No sé lo que estás insinuando pero no me gusta.}
+{9272}{}{I don't want to blow your mind, but I just got even better.}
 {9273}{}{Head's up, I've just become perfect. Now lets find some whores so we can celebrate.}
 {9274}{}{It seems I've surpassed perfection. I suppose if anyone was capable of it, it was me.}
-{9280}{}{¡Allí está!}
+{9280}{}{The Cat is back!}
 {9281}{}{Are my eyes playing tricks or does my ass look better than ever?}
-{9282}{}{Me faltan los dedos de los pies.}
+{9282}{}{My cat senses are tingling!}
 {9283}{}{If only I had some fish to go with this experience.}
-{9284}{}{Este urinario funciona.}
+{9284}{}{This Cat is unstoppable!}

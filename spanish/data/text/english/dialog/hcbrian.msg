@@ -20,7 +20,7 @@
 {119}{}{¿Barras de uranio?}
 {120}{}{Interesante. Adiós.}
 {121}{}{¿Un GECK? Nunca he oído hablar de eso. Imagino que nadie de por aquí tampoco. Aunque suena como si fuera un animal con zarpas repugnantes.}
-{122}{}{Hmm. Nah, no ahora mismo. Aunque tengo más preguntas.}
+{122}{}{No, that's not what I'm looking for. I have more questions though.}
 {123}{}{No es eso después de todo. Adiós.}
 {124}{}{¿Eric quiere más energía? Eric no puede TENER más energía. Hay un equilibrio muy delicado de la energía que se genera aquí, y si Eric tiene más energía, entonces el hospital se apagará. O las luces. O la mina. No podemos hacerlo.}
 {125}{}{Si esta máquina funciona con barras de uranio, tenéis suficiente energía como para suplir este lugar y Nuevo Reno sin que se resienta el suministro. Ahora, súbelo.}

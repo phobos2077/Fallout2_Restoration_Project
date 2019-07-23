@@ -1,2 +1,2 @@
-{100}{}{Ves a un hombre fortachón que lleva puesto un delantal de cuero.}
+{100}{}{You see a heavy door leading to another part of the EPA.}
 {101}{}{Ves una puerta.}

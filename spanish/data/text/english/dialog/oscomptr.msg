@@ -42,17 +42,17 @@
 {135}{}{¡Su sangre correrá como el Nilo!}
 {200}{}{Welcome, Vault Dweller. For your convenience, this Vault-Tec terminal has been modified to respond to vocal commands. Please vocalize your command now.}
 {201}{}{Oh, you've got me confused with someone else. You see, I'm not the Vault Dweller, I'm the Chosen One. }
-{202}{}{Diagnósticos.}
-{203}{}{Cambiando a modo de combate.}
-{204}{}{Una luz de seguridad.}
+{202}{}{Run diagnostics.}
+{203}{}{Switch to keyboard input mode.}
+{204}{}{Access security footage.}
 {205}{}{Salir.}
 {206}{}{Urk?}
 {210}{}{[A light blinks on the terminal as it makes various clicking and whirling sounds. After several seconds, text
  appears on the monitor.] Sorry, I did not understand your command. Please repeat your command, making sure to speak
  directly into the microphone in a clear and precise manner. Vault-Tec apologizes for any inconvenience. Thank you.}
-{211}{}{Diagnósticos.}
-{212}{}{Cambiando a modo de combate.}
-{213}{}{Una luz de seguridad.}
+{211}{}{Run diagnostics.}
+{212}{}{Switch to keyboard input mode.}
+{213}{}{Access security footage.}
 {214}{}{Salir.}
 {220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience...Thank you for waiting...Diagnostic
  checks complete. All systems are working properly. After all, you're using Vault-Tec. }
@@ -60,7 +60,7 @@
 {222}{}{Salir.}
 {230}{}{Switching to manual interface mode...manual interface mode initiated. For the convenience of others, this
  terminal will automatically revert to vocal interface mode once you have logged off. Please input command.}
-{231}{}{Buscas en la base de datos médica cualquier cosa de interés.}
+{231}{}{Search database for anything of interest.}
 {232}{}{Salir.}
 {240}{}{After a bit of searching, you discover three files that might be worth a look: Vault Dweller's Survival Guide
  (Abridged Version), Vault 13 Timeline, and Overseer Logs.}
@@ -111,27 +111,27 @@
 {279}{}{Salir.}
 {280}{}{Authorization required. Please enter password. }
 {281}{}{[VOLVER]}
-{282}{}{Adivinar contraseña.}
-{283}{}{Debo volver a ella.}
+{282}{}{[Guess password]}
+{283}{}{[Attempt to hack into it.]}
 {284}{}{Salir.}
-{290}{}{Por favor, introduzca su contraseña.}
+{290}{}{Incorrect. Please enter password.}
 {291}{}{[VOLVER]}
-{292}{}{Adivinar contraseña.}
-{293}{}{Debo volver a ella.}
+{292}{}{[Guess password]}
+{293}{}{[Attempt to hack into it.]}
 {294}{}{Salir.}
 {300}{}{Incorrect. You are now locked out of these files. Vault-Tec apologizes for any inconvenience.}
 {301}{}{[VOLVER]}
-{302}{}{Debo volver a ella.}
+{302}{}{[Attempt to hack into it.]}
 {303}{}{Salir.}
 {310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}
-{311}{}{Diagnósticos.}
-{312}{}{Cambiando a modo de combate.}
-{313}{}{Una luz de seguridad.}
+{311}{}{Run diagnostics.}
+{312}{}{Switch to keyboard input mode.}
+{313}{}{Access security footage.}
 {314}{}{Salir.}
 {320}{}{Password correct. All entries but one have been removed from the system. Final entry in the Overseer's Logs is still accessible.}
 {321}{}{[After several long minutes of working your technical magic, you manage to hack your way into the Overseer's Logs. However, it seems that every entry except for the final one has been deleted.]}
 {322}{}{Alright, let's see what this Overseer had to say. [Read Log.] }
-{323}{}{Sí, lo que sea. Tengo que irme.}
+{323}{}{Eh, whatever. [Logoff.]}
 {330}{}{This is it. Consider these my final words, as I doubt I'll live to write another entry. Oh no, the people of the Vault have spoken, and they've made it quite clear that they want my head. I knew this day would come, ever since HE managed to rile them up by doing the impossible. Sure, he saved all our lives, but he also ruined everything.}
 {331}{}{[MÁS]}
 {332}{}{Let it be known that I took little joy in exiling our "great hero", but I had no choice in the matter. His adventures in the outside world had changed him too much. He was too great a threat to the project. Had I let him remain among us, he might have uncovered the true nature of the Vaults and jeopardized the experiment. Even if he didn't, he'd at least inspire others to venture outside, which would be just as bad.}
@@ -161,9 +161,9 @@
 {373}{}{[MÁS]}
 {374}{}{Vault 68 was to be occupied by 999 males and only one female. You can only imagine the horrors that took place there...Vault 69, on the other hand, was to be occupied by 999 females and only one male...interesting. Vault 70's jumpsuit extruders were designed to fail after 6 months. And finally, Vault 106 was designed so that 10 days after being sealed, it would begin "releasing psychoactive drugs into the air filtration system".}
 {375}{}{Salir.}
-{500}{}{¿Y qué haces con la piel y las demás partes del animal?}
+{500}{}{You learn about the Vault Experiments and the roles of the various Vaults.}
 {510}{}{You learn about the history of Vault 13 and the Overseer's role in the Vault Experiments.}
-{520}{}{Lo siento, no te entiendo.}
+{520}{}{I'm sorry, I did not understand that.}
 {521}{}{Salir.}
 {2541}{}{Door thickness: 4 yards, steel
                                        Earth coverage: 3,200,000 tons of soil, at 200 feet

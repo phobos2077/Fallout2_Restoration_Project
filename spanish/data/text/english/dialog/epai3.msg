@@ -1,14 +1,14 @@
 {100}{}{Ves una computadora funcional.}
-{101}{}{Ves el terminal de seguridad de una computadora.}
+{101}{}{You see the EPA's Top Secret Research and Development Terminal.}
 {102}{}{Welcome to EPA's Top Secret Research and Development Terminal. Error initializing quick access procedure. Please
  search for something specific.}
-{103}{}{Buscas cualquier mención del Refugio 13 en los archivos.}
+{103}{}{Search for anything of importance.}
 {104}{}{Desconexión.}
 {105}{}{After 30 minutes of sifting through all the files you find four of which appear useful. Please make a choice below.}
-{106}{}{Acceso a Estación Química.}
+{106}{}{Access FEV history log.}
 {107}{}{Access file on Epilepsy cure.}
-{108}{}{Sigue hablando.}
-{109}{}{Por favor, vete. Ya.}
+{108}{}{Keep searching.}
+{109}{}{Please make a choice below.}
 {110}{}{As tensions continued to mount between the US and China, a fear at the forefront of the minds of our military officials
  was that the Chinese would deploy biological weapons against American troops. As a result, West Tek, a major high tech
  defense contractor, was hired to develop a counter agent. This led to West Tek's research on the Pan-Immunity Virion
@@ -28,10 +28,10 @@
  (and the proper inflections) used by Dr. Hodkin in his experiments. This is wonderful news and is a great beginning to
  further research into treatment for chronic neurological disorders.}
 {121}{}{This might be useful. Make note of the string and search for something else.}
-{130}{}{Ves algo sin el menor interés.}
-{131}{}{Ves algo sin el menor interés.}
+{130}{}{You find nothing more of interest.}
+{131}{}{You still find nothing more of interest.}
 {132}{}{Maybe if you search a little more, you might find something?}
-{133}{}{¿Un paso más?}
+{133}{}{Maybe one more search?}
 {134}{}{After much painful searching, you come across a hidden file.}
 {135}{}{Access file labeled: Mass Fluoridation Project.}
 {136}{}{In the continued effort to make the citizens of the United States more controllable, the inclusion of sodium
@@ -45,7 +45,7 @@
  fluids" and avoids drinking any substance he does not know from where it originated. He has even stopped having sexual
  intercourse as he fears that women seek "the life essence."}
 {139}{}{Atrás.}
-{150}{}{Geolocalización.}
+{150}{}{Gender Modification.}
 {151}{}{Virus-laden Fruit Flies.}
 {160}{}{Dr. Glen Wood has achieved a new breakthrough in his research into gender modification that he claims will
  revolutionize our countries espionage efforts. With just a simple procedure, a man could become a woman, or vice versa.
@@ -56,7 +56,7 @@
  the effects outside of a lab environment. The civilian casualties that are likely to result are an unfortunate, yet
  necessary, sacrifice. Besides, any true American would be honored to give up their life for the good of our great nation.}
 {200}{}{You learn about the true intent of water fluoridation.}
-{311}{}{Grrrrr....}
+{311}{}{Whirrrr....}
 {312}{}{BEEP!!}
-{313}{}{Clunk}
+{313}{}{Clunk...}
 {1311}{}{Don't give up. Something is bound to be found.}

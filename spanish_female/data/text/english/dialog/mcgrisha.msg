@@ -124,8 +124,8 @@
 {603}{}{Ehhh... ha muerto.}
 {604}{}{Miria estaba viva la última vez que la vi, pero seguro que ahora estará muerta.}
 {605}{}{Davin estaba vivo la última vez que lo vi, pero seguro que ahora estará muerto.}
-{606}{}{Davin, ehhh, no ha podido venir, pero cuando vuelva a verlo le haré saber que le envías saludos.}
-{607}{}{Miria, ehhh, no ha podido venir, pero cuando vuelva a verla le haré saber que le envías saludos.}
+{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
+{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
 {700}{}{Aggg... [Una mirada de espanto recorre la cara de Grisham cuando de repente se echa la mano al pecho y se desploma en el suelo].}
 {750}{}{Bueno, tengo que volver al trabajo. Ya nos veremos.}
 {800}{}{Has salvado a los brahmines de Grisham.}

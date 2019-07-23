@@ -31,7 +31,7 @@
 {130}{}{En realidad, sí tiene interés para mí. Me gustaría conseguir combustible para el petrolero Poseidon.}
 {131}{}{Apuesto a que sería de interés para los Hubologistas. Ellos quieren combustible.}
 {132}{}{Aún no. Pero volveré.}
-{133}{}{Quieren combustible, ¿verdad? Bueno, a pesar de lo irritantes que son, tienen su utilidad. He oído que han desarrollado un proceso con el cual convierten una servoarmadura en algo aún más invencible. Si mejoran ese tipo de armadura para mí, transferiré el combustible por el oleoducto. Asumo que es para su nave espacial de juguete. Tienes que hablar con uno de ellos, uno llamado Crocket.}
+{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crocket that you will wish to speak with.}
 {134}{}{Lo haré.}
 {135}{}{No puedo prometerte nada.}
 {136}{}{Tengo una aquí mismo.}

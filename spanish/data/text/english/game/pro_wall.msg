@@ -1544,11 +1544,11 @@
 {153000}{}{Puerta}
 {153100}{}{Muro}
 {153200}{}{Muro}
-{153300}{}{Muro de piedra}
-{153400}{}{Muro de piedra}
-{153500}{}{Muro de piedra}
-{153600}{}{Muro de piedra}
-{153700}{}{Muro de piedra}
+{153300}{}{Stone Pillar}
+{153400}{}{Stone Pillar}
+{153500}{}{Stone Pillar}
+{153600}{}{Stone Pillar}
+{153700}{}{Stone Pillar}
 {153800}{}{Muro}
 {153900}{}{Muro}
 {154000}{}{Muro}
@@ -1675,19 +1675,19 @@
 {166100}{}{Emisor de campo de fuerza}
 {166200}{}{Emisor de campo de fuerza}
 {166300}{}{Emisor de campo de fuerza}
-{166400}{}{Muro de piedra}
-{166500}{}{Muro de piedra}
-{166600}{}{Muro de piedra}
-{166700}{}{Muro de piedra}
-{166800}{}{Muro de piedra}
+{166400}{}{Stone Pillar}
+{166500}{}{Stone Pillar}
+{166600}{}{Stone Pillar}
+{166700}{}{Stone Pillar}
+{166800}{}{Stone Pillar}
 {166900}{}{Muro}
 {167000}{}{Muro}
 {167100}{}{Muro}
 {167200}{}{Muro}
-{167300}{}{Pilar}
-{167400}{}{Pilar}
-{167500}{}{Pilar}
-{167600}{}{Pilar}
+{167300}{}{Wall Pillar}
+{167400}{}{Wall Pillar}
+{167500}{}{Wall Pillar}
+{167600}{}{Wall Pillar}
 {167700}{}{Muro}
 {167800}{}{Muro}
 {167900}{}{Muro}
@@ -1730,19 +1730,19 @@
 {171800}{}{Puerta}
 {171900}{}{Puerta}
 {172000}{}{Muro}
-{172100}{}{Barandilla de acero}
-{172200}{}{Barandilla de acero}
-{172300}{}{Barandilla de acero}
-{172400}{}{Barandilla de acero}
-{172500}{}{Barandilla de acero}
-{172600}{}{Barandilla de acero}
-{172700}{}{Barandilla de acero}
-{172800}{}{Barandilla de acero}
-{172900}{}{Barandilla de acero}
-{173000}{}{Barandilla de acero}
-{173100}{}{Barandilla de acero}
-{173200}{}{Barandilla de acero}
-{173300}{}{Barandilla de acero}
+{172100}{}{Rusty Steel Railing}
+{172200}{}{Rusty Steel Railing}
+{172300}{}{Rusty Steel Railing}
+{172400}{}{Rusty Steel Railing}
+{172500}{}{Rusty Steel Railing}
+{172600}{}{Rusty Steel Railing}
+{172700}{}{Rusty Steel Railing}
+{172800}{}{Rusty Steel Railing}
+{172900}{}{Rusty Steel Railing}
+{173000}{}{Rusty Steel Railing}
+{173100}{}{Rusty Steel Railing}
+{173200}{}{Rusty Steel Railing}
+{173300}{}{Rusty Steel Railing}
 {173400}{}{Muro}
 {173500}{}{Muro}
 {173600}{}{Muro}
@@ -1796,7 +1796,7 @@
 {178400}{}{Muro}
 {178500}{}{Emisor de campo de fuerza}
 {178600}{}{Emisor de campo de fuerza}
-{178700}{}{Barandilla de acero}
+{178700}{}{Rusty Steel Railing}
 {178800}{}{Muro}
 {178900}{}{Muro}
 {179000}{}{Emisor de campo de fuerza}
@@ -1805,8 +1805,8 @@
 {179300}{}{Muro}
 {179400}{}{Muro}
 {179500}{}{Muro}
-{179600}{}{Hatch}
-{179700}{}{Hatch}
+{179600}{}{Hatchway}
+{179700}{}{Hatchway}
 {179800}{}{Internal Submarine Wall}
 {179900}{}{Internal Submarine Wall}
 {180000}{}{Internal Submarine Wall}
@@ -1836,66 +1836,66 @@
 {182400}{}{Internal Submarine Wall}
 {182500}{}{Internal Submarine Wall}
 {182600}{}{Internal Submarine Wall}
-{182700}{}{Hatch}
-{182800}{}{Hatch}
+{182700}{}{Hatchway}
+{182800}{}{Hatchway}
 {182900}{}{Internal Submarine Wall}
 {183000}{}{Internal Submarine Wall}
 {183100}{}{Internal Submarine Wall}
 {183200}{}{Internal Submarine Wall}
 {183300}{}{Muro}
 {183400}{}{Muro}
-{183500}{}{Pared de cueva}
-{183600}{}{Pared de cueva}
-{183700}{}{Pared de cueva}
-{183800}{}{Pared de cueva}
-{183900}{}{Pared de cueva}
-{184000}{}{Pared de cueva}
-{184100}{}{Pared de cueva}
-{184200}{}{Pared de cueva}
-{184300}{}{Pared de cueva}
-{184400}{}{Pared de cueva}
-{184500}{}{Pared de cueva}
-{184600}{}{Pared de cueva}
-{184700}{}{Pared de cueva}
-{184800}{}{Pared de cueva}
-{184900}{}{Pared de cueva}
-{185000}{}{Pared de cueva}
-{185100}{}{Pared de cueva}
-{185200}{}{Pared de cueva}
-{185300}{}{Pared de cueva}
-{185400}{}{Pared de cueva}
-{185500}{}{Pared de cueva}
-{185600}{}{Pared de cueva}
-{185700}{}{Pared de cueva}
-{185800}{}{Pared de cueva}
-{185900}{}{Pared de cueva}
-{186000}{}{Pared de cueva}
-{186100}{}{Pared de cueva}
-{186200}{}{Pared de cueva}
-{186300}{}{Pared de cueva}
-{186400}{}{Pared de cueva}
-{186500}{}{Pared de cueva}
-{186600}{}{Pared de cueva}
-{186700}{}{Pared de cueva}
-{186800}{}{Pared de cueva}
-{186900}{}{Pared de cueva}
-{187000}{}{Pared de cueva}
-{187100}{}{Pared de cueva}
-{187200}{}{Pared de cueva}
-{187300}{}{Pared de cueva}
-{187400}{}{Pared de cueva}
-{187500}{}{Pared de cueva}
-{187600}{}{Pared de cueva}
-{187700}{}{Pared de cueva}
-{187800}{}{Pared de cueva}
-{187900}{}{Pared de cueva}
-{188000}{}{Pared de cueva}
-{188100}{}{Pared de cueva}
-{188200}{}{Pared de cueva}
-{188300}{}{Pared de cueva}
-{188400}{}{Pared de cueva}
-{188500}{}{Pared de cueva}
-{188600}{}{Pared de cueva}
+{183500}{}{Glowing Cave Wall}
+{183600}{}{Glowing Cave Wall}
+{183700}{}{Glowing Cave Wall}
+{183800}{}{Glowing Cave Wall}
+{183900}{}{Glowing Cave Wall}
+{184000}{}{Glowing Cave Wall}
+{184100}{}{Glowing Cave Wall}
+{184200}{}{Glowing Cave Wall}
+{184300}{}{Glowing Cave Wall}
+{184400}{}{Glowing Cave Wall}
+{184500}{}{Glowing Cave Wall}
+{184600}{}{Glowing Cave Wall}
+{184700}{}{Glowing Cave Wall}
+{184800}{}{Glowing Cave Wall}
+{184900}{}{Glowing Cave Wall}
+{185000}{}{Glowing Cave Wall}
+{185100}{}{Glowing Cave Wall}
+{185200}{}{Glowing Cave Wall}
+{185300}{}{Glowing Cave Wall}
+{185400}{}{Glowing Cave Wall}
+{185500}{}{Glowing Cave Wall}
+{185600}{}{Glowing Cave Wall}
+{185700}{}{Glowing Cave Wall}
+{185800}{}{Glowing Cave Wall}
+{185900}{}{Glowing Cave Wall}
+{186000}{}{Glowing Cave Wall}
+{186100}{}{Glowing Cave Wall}
+{186200}{}{Glowing Cave Wall}
+{186300}{}{Glowing Cave Wall}
+{186400}{}{Glowing Cave Wall}
+{186500}{}{Glowing Cave Wall}
+{186600}{}{Glowing Cave Wall}
+{186700}{}{Glowing Cave Wall}
+{186800}{}{Glowing Cave Wall}
+{186900}{}{Glowing Cave Wall}
+{187000}{}{Glowing Cave Wall}
+{187100}{}{Glowing Cave Wall}
+{187200}{}{Glowing Cave Wall}
+{187300}{}{Glowing Cave Wall}
+{187400}{}{Glowing Cave Wall}
+{187500}{}{Glowing Cave Wall}
+{187600}{}{Glowing Cave Wall}
+{187700}{}{Glowing Cave Wall}
+{187800}{}{Glowing Cave Wall}
+{187900}{}{Glowing Cave Wall}
+{188000}{}{Glowing Cave Wall}
+{188100}{}{Glowing Cave Wall}
+{188200}{}{Glowing Cave Wall}
+{188300}{}{Glowing Cave Wall}
+{188400}{}{Glowing Cave Wall}
+{188500}{}{Glowing Cave Wall}
+{188600}{}{Glowing Cave Wall}
 {188700}{}{Puerta}
 {188800}{}{Puerta}
 {188900}{}{Muro}

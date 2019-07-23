@@ -811,7 +811,7 @@
 {105400}{}{Lodo}
 {150400}{}{}
 {162300}{}{Scotty}
-{310300}{}{Placa en el Suelo}
+{310300}{}{Floor tile}
 {369100}{}{Tejado}
 {369200}{}{Tejado}
 {369300}{}{Tejado}
@@ -878,35 +878,35 @@
 {376200}{}{Tejado}
 {376300}{}{Tejado}
 {376400}{}{Tejado}
-{379100}{}{Tuberías}
-{379200}{}{Tuberías}
-{379300}{}{Tuberías}
-{379400}{}{Tuberías}
-{379500}{}{Tuberías}
-{379600}{}{Tuberías}
-{379700}{}{Tuberías}
-{379800}{}{Tuberías}
-{379900}{}{Tuberías}
-{380000}{}{Tuberías}
-{380100}{}{Tuberías}
-{380200}{}{Tuberías}
-{380300}{}{Tuberías}
-{380400}{}{Tuberías}
-{380500}{}{Tuberías}
-{380600}{}{Tuberías}
-{380700}{}{Tuberías}
-{380800}{}{Tuberías}
-{380900}{}{Tuberías}
-{381000}{}{Tuberías}
-{381100}{}{Tuberías}
-{381200}{}{Tuberías}
-{381300}{}{Tuberías}
-{381400}{}{Tuberías}
-{381500}{}{Tuberías}
-{381600}{}{Tuberías}
-{381700}{}{Tuberías}
-{381800}{}{Tuberías}
-{381900}{}{Tuberías}
+{379100}{}{Roof Pipes}
+{379200}{}{Roof Pipes}
+{379300}{}{Roof Pipes}
+{379400}{}{Roof Pipes}
+{379500}{}{Roof Pipes}
+{379600}{}{Roof Pipes}
+{379700}{}{Roof Pipes}
+{379800}{}{Roof Pipes}
+{379900}{}{Roof Pipes}
+{380000}{}{Roof Pipes}
+{380100}{}{Roof Pipes}
+{380200}{}{Roof Pipes}
+{380300}{}{Roof Pipes}
+{380400}{}{Roof Pipes}
+{380500}{}{Roof Pipes}
+{380600}{}{Roof Pipes}
+{380700}{}{Roof Pipes}
+{380800}{}{Roof Pipes}
+{380900}{}{Roof Pipes}
+{381000}{}{Roof Pipes}
+{381100}{}{Roof Pipes}
+{381200}{}{Roof Pipes}
+{381300}{}{Roof Pipes}
+{381400}{}{Roof Pipes}
+{381500}{}{Roof Pipes}
+{381600}{}{Roof Pipes}
+{381700}{}{Roof Pipes}
+{381800}{}{Roof Pipes}
+{381900}{}{Roof Pipes}
 {385900}{}{Tejado}
 {386000}{}{Tejado}
 {386100}{}{Tejado}
@@ -935,4 +935,4 @@
 {388400}{}{Tejado}
 {388500}{}{Tejado}
 {388600}{}{Tejado}
-{388700}{}{Vent}
+{388700}{}{Roof Vent}

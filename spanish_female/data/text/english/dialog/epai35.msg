@@ -1,9 +1,9 @@
 {100}{}{Ves una computadora.}
-{101}{}{Ves una computadora Emperador.}
+{101}{}{You see the EPA's museum computer.}
 {200}{}{Welcome to the EPA's museum! This terminal will project a movie using exciting new holographic technology!
  The movie is an entertaining and informational look at the scary, but possible, reality of a post-nuclear world.}
-{201}{}{Juega limpio.}
-{202}{}{Desconexión.}
+{201}{}{[Play movie.]}
+{202}{}{[Logoff.]}
 {210}{}{[The terminal projects a hologram of a tall bespectacled man in a lab coat. He waves and gives you a friendly smile.]
  Hello, I'm Dr. Caleb, and I'll be hosting this holographic video on a post-holocaust America.}
 {211}{}{[MÁS]}
@@ -26,4 +26,4 @@
 {250}{}{It looks like Mr. Handy's going to have his work cut out for him if he plans to clean up *this* mess. [Dr. Caleb
  laughs as the image fades away and is replaced by text.] Thank you for watching. This educational video was brought to
  you by the fine folks at Vault-Tec. Vault-Tec, America's Final Word in Homes.}
-{251}{}{Desconexión.}
+{251}{}{[Logoff.]}

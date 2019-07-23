@@ -1,1 +1,1 @@
-{100}{}{Ves los restos de: %s.}
+{100}{}{You use up the entire can of bug spray.}

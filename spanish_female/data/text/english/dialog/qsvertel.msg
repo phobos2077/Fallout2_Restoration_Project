@@ -1,3 +1,3 @@
-{100}{}{Ves un simple jarrón.}
-{101}{}{Planos del vertibird}
-{102}{}{Sala de Entrada}
+{100}{}{Choose a ship level.}
+{101}{}{Vertibird Unloading Pad.}
+{102}{}{Entry Hall.}

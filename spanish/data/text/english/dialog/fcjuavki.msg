@@ -19,7 +19,7 @@
 {118}{}{Él: Ah, ¿ves? ¡Las enseñanzas de la Hubología han demostrado su valía de nuevo!}
 {119}{}{Tengo algunas preguntas.}
 {120}{}{¡Gracias! ¡Adiós!}
-{121}{}{Ella: Verás, estábamos en el negocio del cine de Nuevo Reno. Hicimos cientos de películas, muchas de ellas clásicas, como "Algunos hombres buenos y dotados", "Misión: Imposible no correrse", y "Días de gomas". Eso es lo que nos hace famosos.}
+{121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
 {122}{}{Él: Pero, desde luego, como miembro de la industria, ya lo sabías.}
 {123}{}{Me alegra poner por fin rostros a los nombres.}
 {124}{}{¿A quién le importa lo que VOSOTROS aprobáis? ¿No debería hacer mis propias elecciones?}

@@ -456,7 +456,7 @@
 {585}{}{Celdas de detención}
 {586}{}{Celdas de detención}
 {587}{}{Muelle}
-{588}{}{Planos del vertibird}
+{588}{}{Vertibird Unloading Pad}
 {589}{}{Muelle}
 {590}{}{Sala de Entrada}
 {591}{}{Sala de Entrada}
@@ -576,7 +576,7 @@
 {705}{}{Desierto}
 {706}{}{Desierto}
 {707}{}{Subsuperficie}
-{708}{}{Fortaleza Nivel 1}
+{708}{}{Sub Interior Level 1}
 {709}{}{}
 {710}{}{Nivel Uno}
 {711}{}{Nivel Dos}
@@ -584,7 +584,7 @@
 {713}{}{Nivel Uno}
 {714}{}{Nivel Dos}
 {715}{}{Nivel Tres}
-{716}{}{Ciudad abandonada}
+{716}{}{Abandoned House}
 {717}{}{Caverna}
 {718}{}{}
 {1500}{}{Arroyo}
@@ -637,14 +637,14 @@
 {1547}{}{Encuentro aleatorio}
 {1548}{}{Establo}
 {1549}{}{Aldea}
-{1550}{}{Cargamento de esclavos}
-{1551}{}{Base Hubologista}
-{1552}{}{Vertedero}
-{1553}{}{Vertedero}
-{1554}{}{Vertedero}
-{1555}{}{Encuentro aleatorio}
+{1550}{}{Slaver Camp}
+{1551}{}{Hubologist Stash}
+{1552}{}{Safe House}
+{1553}{}{Safe House}
+{1554}{}{Safe House}
+{1555}{}{RP Easter Egg Encounter}
 {1556}{}{Mercader}
 {1557}{}{Mercader}
 {1558}{}{Submarino de Shi}
-{1559}{}{Ciudad abandonada}
-{1560}{}{Patrullera del Enclave}
+{1559}{}{Abandoned House}
+{1560}{}{Gecko Enclave Patrol}

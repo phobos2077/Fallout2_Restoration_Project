@@ -1,1 +1,1 @@
-{100}{}{Ves a un prisionero del Refugio 13.}
+{100}{}{You get no response from the guard.}

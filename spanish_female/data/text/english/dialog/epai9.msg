@@ -1,9 +1,9 @@
-{100}{}{La puerta ya está desbloqueada.}
+{100}{}{This door is locked.}
 {101}{}{You see a locked door, preventing any further access.}
-{102}{}{Ves a un guardia de aspecto severo.}
-{103}{}{La puerta ya está desbloqueada.}
-{104}{}{La puerta ya está desbloqueada.}
-{105}{}{No consigues abrir la cerradura de la puerta.}
-{106}{}{La puerta está atascada.}
-{107}{}{La puerta está atascada, no cerrada.}
+{102}{}{You see a sturdy-looking door.}
+{103}{}{The door is now unlocked.}
+{104}{}{This door is already unlocked and open.}
+{105}{}{You fail to unlock the door.}
+{106}{}{The lock is now jammed.}
+{107}{}{The door is now locked.}
 {108}{}{No consigues abrir la cerradura de la puerta.}

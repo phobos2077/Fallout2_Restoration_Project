@@ -1,1 +1,1 @@
-{100}{}{Ves a Festus, el supervisor de la central nuclear.}
+{100}{}{You use up the entire can of plant spray.}

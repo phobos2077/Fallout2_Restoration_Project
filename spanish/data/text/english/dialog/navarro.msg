@@ -1,2 +1,2 @@
 {100}{}{Has encontrado una antigua gasolinera.}
-{101}{}{Ahora ya has estado en la base militar.}
+{101}{}{You find yourself inside an active military base.}

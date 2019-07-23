@@ -1,5 +1,5 @@
 {100}{}{Ves a un esclavo.}
-{101}{}{Ves a un hombre de aspecto malvado.}
+{101}{}{You see a healthy looking slave.}
 {320}{}{¡Malo!}
 {321}{}{Nosotros no hablar con tú.}
 {322}{}{Nosotros libres.}
@@ -25,6 +25,6 @@
 {358}{}{¿Quién se cree esta gente que somos?}
 {359}{}{¡Por favor, ayúdanos!}
 {360}{}{Sácame de aquí.}
-{400}{}{Oh, ¡mi cabeza!}
-{401}{}{*Cof*}
-{402}{}{::Se rasca::}
+{400}{}{Oh, why me!}
+{401}{}{*cough*}
+{402}{}{*scratches self*}

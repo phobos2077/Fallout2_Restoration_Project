@@ -40,8 +40,8 @@
 {267}{}{(Te estudia) Entonces… ¿de dónde CONOCES a Moore? ¿Ahora juega a la política entre los tribales? ¡Ja! Ese muchacho confundió su vocación.}
 {268}{}{Le conocí en Ciudad Refugio, extendiendo la palabra. Me ofrecí a ayudarlo entregándote este maletín.}
 {269}{}{Simplemente me lo encontré durante mi viaje. Me ofrecí a ayudarlo entregándote este maletín.}
-{275}{}{Je… qué puñetero… a pesar de toda su prédica, el viejo Tomcat Moore no parece que pueda bajarse de la tribuna el tiempo suficiente como para hacer
- un trabajo de campo. Je… aún así, eso no supone ninguna diferencia con cualquier otro muchacho de la RNC.}
+{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
+ do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
 {276}{}{Predica mucho. De hecho, parece tener mucho sentido.}
 {277}{}{Tiene cierto… talento con las palabras.}
 {278}{}{Sí, bueno, en algún momento ha de hacerse el trabajo, y me llaman para asegurarme de que las cosas se entregan… como ese maletín.}
@@ -281,8 +281,8 @@
 {925}{}{Has asesinado a Westin.}
 {950}{}{Te has cargado a Carlson.}
 {975}{}{Te has convertido en Iniciada de la Familia Bishop.}
-{1805}{}{Sí… se rumorea en el Yermo que alguien que encaja con tu descripción aniquiló a los saqueadores del sur de Ciudad Refugio. }
+{1805}{}{Yeah...rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
 {1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
  And it could be I don't LIKE what you did down there.}
-{1836}{}{A mi modo de ver, me DEBES una de las grandes, tribal. Tendrás que hacer el trabajo de veinte hombres para saldar esa deuda. }
-{1840}{}{Ellos me atacaron a MÍ, Bishop. No te debo nada, y no voy a hacerte el trabajo sucio. ¿Entendido?}
+{1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
+{1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}
