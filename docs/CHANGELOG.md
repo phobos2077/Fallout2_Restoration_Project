@@ -1,3 +1,10 @@
+- [Version 1](#version-1)
+- [Version 2](#version-2)
+
+## Version 2
+
+Repacked into .dat file.
+
 ## Version 1
 
 - General
@@ -23,7 +30,3 @@
     - Lenny: moved ammo from hands to inventory.
 - Hubologists' stash
     - Added proper messages for using skills and items on the top door.
-
-## Version 2
-
-Repacked into .dat file.
