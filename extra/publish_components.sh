@@ -3,7 +3,7 @@
 set -xeu -o pipefail
 
 bin_dir="$(realpath $bin_dir)"
-dat2="wine $bin_dir/dat2.exe"
+dat2a="wine $bin_dir/dat2.exe a -1"
 comp_dir="components"
 file_list="$(realpath file.list)"
 mods_dir="$(realpath $mods_dir)"
@@ -15,7 +15,7 @@ if [[ -d "$comp_dir" ]]; then
     dat="${mod_name}_$c.dat"
     cd "$c"
     find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-    $dat2 a "$mods_dir/$dat" @"$file_list"
+    $dat2a "$mods_dir/$dat" @"$file_list"
     cd ..
   done
   cd ..

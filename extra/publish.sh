@@ -3,7 +3,7 @@
 set -xeu -o pipefail
 
 bin_dir="$(realpath $bin_dir)"
-dat2="wine $bin_dir/dat2.exe"
+dat2a="wine $bin_dir/dat2.exe a -1"
 comp_dir="components"
 file_list="$(realpath file.list)"
 release_dir="$(realpath $release_dir)"
@@ -21,7 +21,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   cd data
   # I don't know how to pack recursively
   find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list" # replace slashes with backslashes
-  $dat2 a "$mods_dir/$dat" @"$file_list"
+  $dat2a "$mods_dir/$dat" @"$file_list"
   cd ..
 
   # pack components into separate dat files
