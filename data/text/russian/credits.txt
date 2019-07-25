@@ -1,0 +1,657 @@
+
+#НЕОФИЦИАЛЬНЫЙ ПАТЧ ДЛЯ FALLOUT 2
+
+@Разработан под руководством
+killap
+
+@Дополнительное содействие
+Haenlomal
+Darek
+Seraph
+Per
+А также все кто тестировал патч на наличие багов
+
+
+
+#FALLOUT 2 RESTORATION PROJECT
+
+@Разработан под руководством
+killap
+
+
+#ПРОГРАММИРОВАНИЕ
+
+@Ведущий программист
+killap
+
+@Дополнительное программирование
+Darek
+Chris Parks
+MIB88
+
+
+#ДИАЛОГИ
+
+@Главный редактор диалогов
+Adam Dravean
+
+@Авторы диалогов
+encinodude
+Yamu
+Mikael Grizzly
+SuAside
+killap
+Minigun Jim
+Bofast
+
+
+#ГРАФИКА
+
+@Главный художник
+Pixote
+
+@Дополнительная графика
+Continuum
+Josan12
+x'il
+Jotisz
+Wild-Qwerty
+Grayswandir
+Авторы проекта Mutants Rising
+Авторы проекта Fallout: Between Good & Evil
+killap
+Lich
+Crowley
+Nikki
+
+
+#КАРТОСТРОИТЕЛЬСТВО
+
+@Главный редактор карт
+Pixote
+
+@Дополнительные карты
+Chris Parks
+Skynet
+killap
+Deadlus
+
+
+#МУЗЫКА
+hologram
+
+
+#РОЛИ ОЗВУЧИВАЛИ
+
+@Кэссиди на английском языке
+Adam Dravean
+
+@Кэссиди на русском языке
+Pyran
+
+#Звукорежиссеры
+Aguirre
+Agris
+Josan12
+tobecooper
+Ardent
+Pyran
+
+#ПЕРЕВОД
+
+@Русский перевод
+aliet
+Magnat
+rj rl
+DominionZ
+BaD3uM
+Tschumann
+vindicator
+Drobovik
+
+дополнительная правка
+
+Drobovik
+SeregaTopor
+Русское сообщество Fallout'а
+
+Бета-тестеры
+
+9in
+Алексей Ключников a.k.a. Генерал Максон
+Tschumann
+vindicator
+2FARAON
+SuperBul
+IRaven
+vlad2204
+Nickolas
+trisem
+Trephs
+
+@Польский перевод 
+Ivan Zaharath
+Польское сообщество Fallout'а
+
+@Немецкий перевод
+Mr. Wolna
+Сообщество FalloutNow!
+
+@Французский перевод
+HawK-EyE
+Французское сообщество Fallout'а
+
+
+
+#ДОПОЛНИТЕЛНЫЙ КОНТЕНТ
+
+@Графика и иллюстрации
+Continuum
+Corpse
+Glovz
+Haenlomal
+Josan12
+Lisac2k
+Mash
+pelicano
+
+#ТЕХНИЧЕСКАЯ ПОДДЕРЖКА
+Darek
+NovaRain
+Morticia
+Tomten
+Timeslip
+Mash
+gracul
+Slowhand
+GanymeDes
+Nevill
+Ochrei
+Petrell
+Hootl
+aboniks
+memetics
+FallMan
+Сообщество No Mutants Allowed
+И все те, кого я позабыл
+
+
+#ПАТЧ ВЫСОКОГО РАЗРЕШЕНИЯ для FALLOUT 2
+
+@разработан 
+Mash
+
+
+
+
+
+
+#КОМАНДА РАЗРАБОТЧИКОВ FALLOUT 2
+
+#ПРОГРАММИРОВАНИЕ
+
+@Ведущий программист
+Jesse Reynolds
+
+@Программисты
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@Дополнительное программирование
+Tim Cain
+John Price
+Michael Bernstein
+
+@Технология видеороликов
+Paul Edelstein
+
+@Инсталлятор / автозапуск
+Darren Monahan
+
+
+#ГРАФИКА
+
+@Ведущие художники
+Gary Platner
+Tramell Ray Isaac
+
+@Художники
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@Дополнительная графика
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@Художники-практиканты
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@Графика оригинальной игры
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#ДИЗАЙН
+
+@Ведущие дизайнеры
+Feargus Urquhart
+Matthew J. Norton
+
+@Дизайнеры
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@Дизайнер техники
+Scott Everts
+
+@Дизайнеры уровней
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@Дополнительный дизайн
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@Дизайн / диалоги
+Mark O'Green
+
+@Дизайн оригинальной игры
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@Игровая система SPECIAL
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#ПРОИЗВОДСТВО
+
+@Директор отделения
+Feargus Urquhart
+
+@Продюсеры
+Eric Demilt
+Feargus Urquhart
+
+@Помощники продюсеров
+Fred Hatch
+Douglas Avery
+
+@Помощник директора отделения
+Jeremy Barnes
+
+@Координаторы синхронизации губ
+Jason G. Suinn
+Dave Hendee
+
+@Художники синхронизации губ
+Douglas Avery
+Chris Benson
+David "Zeb" Cook
+Jacob Devore
+Kenneth Lee
+Colin McComb
+
+
+
+#КОНТРОЛЬ КАЧЕСТВА
+
+@Директор по контролю качества
+Chad Allison
+
+@Менеджеры КК
+Steve Victory
+Colin Totman
+
+@Супервайзеры проекта РС-версии
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@Старшие тестеры РС-версии
+Dennis Presnell
+Chad Nicholas
+Dave Simon
+
+@Тестеры РС-версии
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+
+@Менеджер совместимости ИТ
+Frank Pimentel
+
+@Старший техник по совместимости
+Bill Delk
+
+@Техник по совместимости ИТ
+Tom Quast
+
+@Администратор БД КК
+Steve Cabiness
+
+@Техники по совместимости
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+
+#АУДИО
+
+@Главный звукорежиссер
+Charles Deenen
+
+@Обработка звука
+Craig Duman
+
+@Звукорежиссер озвучания
+Jamie Thomason
+
+@Координатор озвучания
+Julie Morgavi
+
+@Супервайзер озвучания
+Chris Borders
+
+@Звукорежиссеры
+Frank Szick
+Kevin Frayser
+Ron Valdez
+
+@Голоса записаны на студии Marc Graue
+
+@Дизайн звука
+Paul Menichini
+Tim Walston
+
+@Дизайн звука в роликах
+David Farmer
+
+@Микширование роликов
+Charles Deenen
+
+@Смикшировано в Dolby [TM] Surround на студии Interplay
+
+@Администратор студии
+Gloria Soto
+
+@Дополнительный дизайн звука
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@Звукорежиссеры озвучания
+Wes Smith
+Julian Cook
+студия Marc Graue
+
+@Композитор
+Mark Morgan
+@для
+Four Bars Intertainment
+@и
+Rick Jackson
+
+@Продюсер аудио
+Fred Hatch
+
+
+@РОЛИ ОЗВУЧИВАЛИ
+
+Charlie Adler
+@Гарольд
+
+Ron Perlman
+@Диктор
+
+Dwight Schultz
+@Хакунин
+
+Jason Marsden
+@Майрон
+
+Cree Summer
+@Линетт
+
+Kevin Michael Richardson
+@Связист Анклава
+
+Peter Jason
+@Сержант Анклава
+
+Peter Jason
+@Охранник у ворот
+
+Flo DiRe
+@Старейшая
+
+Tress MacNeille
+@Танди
+
+Greg Eagles
+@Сулик
+
+Michael Dorn
+@Маркус
+
+Michael Dorn
+@Фрэнк Хорриган
+
+Jeffrey Jones
+@Президент
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@Поет Луи Армстронг
+@Запись предоставлена GRP Records
+@по лицензии UNIVERSAL MUSIC SPECIAL MARKETS
+
+"A KISS TO BUILD A DREAM ON"
+@Авторы: Bert Kalmer, Harry Ruby и Oscar Hammerstein II
+@(C) 1935, 1951, рест. 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Правообладатель: EMI CATALOGUE PARTNERSHIP
+@Все права контролируются EMI MILLER CATALOG INC.
+@Все права защищены. Охраняется международными законами.
+@Используется с разрешения.
+
+@ВНИМАНИЕ: Копирование, дублирование и воспроизведение
+@настоящей программы и любых ее частей без явного
+@письменного разрешения правообладателей является
+@нарушением законодательства об авторском праве.
+
+
+#ВИДЕО
+
+@Услуги видео оказаны:
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#МАРКЕТИНГ
+
+@Директор по маркетингу
+Paul Sackman
+
+@Менеджеры по маркетингу
+Mike Markin
+Greg Peterson
+
+@Помощник менеджера по маркетингу
+Greg Bauman
+
+@PR-менеджер
+Krys Card
+
+@Менеджеры по логистике
+Thom Dohner
+Paul Naftalis
+
+
+
+
+@Благодарности
+@(Dave H.) Команде Unwashed Villagers, семье Dyer,
+@Jamba Juice, The Tick, Southpark; (Chris A.) "половине",
+@Thuy Dang, Eileen Suh, маме и папе Avellone;  (t.ray)
+@моей маме, моему папе, моему сыну, моему брату и всем
+@поклонникам моего гения, купившим эту игру;  (Rob H.)
+@Becky Warner и Billie Ryder;  (Matt N.) Моей дорогой
+@DieMonika и нашему котяре;  (Jesse R.) "Памяти моего
+@отца. Всю жизнь ты был для меня примером. Мне тебя всегда
+@будет не хватать."
+
+@Огромное спасибо:
+@Участникам форумов Fallout и Fallout 2.
+@Спасибо вам за ваши комментарии, предложения и за все!
+@Сотрудникам видеогруппы Interplay, кто действительно
+@работал не по обязанности, а с душой!
+
+@Fallout 2 предоставлен компанией Interplay Productions,
+@командой Fallout 2, буквой Q и цифрами 42 и 20.
+
+
+
+#РУССКАЯ ЛОКАЛИЗАЦИЯ
+
+Перевод (с) ЗАО 1С, 2006 г.
+
+@Продюсер
+Юрий Мирошников
+
+@Исполнительный продюсер
+Александр Гурин
+
+@Менеджер по локализации
+Михаил Волошин
+
+@Маркетинг 
+Николай Барышников
+Светлана Горобец
+
+@PR
+Анатолий Субботин
+Алексей Артеменко
+
+@Упаковка и руководство пользователя
+Татьяна Катова
+
+@Программист
+Сергей Ковальчук
+
+@Художник
+Татьяна Кузьмина
+
+@Переводчики
+Вера Беляева
+Анна Киселева
+Юлианна Соколова
+Мария Юнгер
+
+@Главный редактор
+Михаил Волошин
+
+@Редакторы
+Анна Киселева
+Елена Агапова
+
+@Режиссер озвучания
+Михаил Волошин
+
+@Звукорежиссеры
+Владимир Грезнев
+Владимир Кочетков
+
+
+@Роли озвучивали:
+Юрий Деркач
+Елена Кищик
+Александр Клюквин
+Пансау Натчанда
+Борис Репетур
+Елена Соловьева
+Дмитрий Филимонов
+Олег Щербинин
+Андрей Ярославцев
+
+
+@Руководитель тестирования
+Александр Шишов
+
+@Тестеры
+Александр Барков
+Олег Буянцев
+Андрей Жириновский
+Дмитрий Кияткин
+Сергей Кияткин
+Александр Латышев
+Алексей Маташкин
+Николай Николаев
+Дарья Нипот
+Дмитрий Савин
+Александр Трифонов
+Александр Шелапутов
+
+@Коллектив локализаторов выражает глубокую благодарность
+@поклонникам серии игр Fallout и коллективу форумов 
+@www.kamrad.ru, оказавшим большую помощь в процессе работы
+@над игрой.
+
+
+
+
+
+
+
+
+
