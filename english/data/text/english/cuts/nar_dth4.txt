@@ -1,0 +1,2 @@
+1:You have died.
+2:Your village is lost, doomed to die of starvation.
