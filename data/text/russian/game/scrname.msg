@@ -207,7 +207,7 @@
 {288}{}{Ловушка с кольями}                     # ATSrTrpF.int    ; Arroyo Spear Trap for Caves (50)
 {289}{}{Пещера призраков 1}                 # GstCav1.int     ; Modoc Ghost Cave 1
 {290}{}{Пещера призраков 2}                 # GstCav2.int     ; Modoc Ghost Cave 2
-{291}{}{Ферма ужасов}                     # GstFarm.int     ; Modoc Ghost Farm
+{291}{}{Ферма призраков}                     # GstFarm.int     ; Modoc Ghost Farm
 {292}{}{Модок, выгон браминов}            # ModBrah.int     ; Modoc Brahmin Field
 {293}{}{Модок, огород}                   # ModGard.int     ; Modoc Garden
 {294}{}{Мотель Модока}                      # ModInn.int      ; Modoc Inn
@@ -337,13 +337,13 @@
 {418}{}{Шкатулка}                        # Kisbox.int      ; Klamath sajag inventory box
 {419}{}{Рэтч}                          # SCRatch.int     ; Ncr entrance JUNK dealer
 {420}{}{Боксер}                          # ncBoxer.int     ; New Reno Generic Boxer
-{421}{}{Пит МакКинли}                  # ncMcKnee.int    ; New Reno Mike McKneely
-{422}{}{Эван Холлифилд}                 # ncHollyf.int    ; New Reno Evan Hollyfeld
+{421}{}{Пит МакНили}                  # ncMcKnee.int    ; New Reno Mike McKneely
+{422}{}{Эван Холифелд}                 # ncHollyf.int    ; New Reno Evan Hollyfeld
 {423}{}{Дробитель}                     # ncTyson.int     ; New Reno Mike Tyson
 {424}{}{Ученый}                      # ncScient.int    ; New Reno Generic Scientist
 {425}{}{Мерк}                           # SCMerk.int      ; Merk an NCR mob type guy
 {426}{}{Вентилятор}                            # ncBoxFan.int    ; New Reno Boxing Fan
-{427}{}{Пушер}                    # ncDrgDlr.int    ; New Reno Drug Dealer
+{427}{}{Наркодилер}                    # ncDrgDlr.int    ; New Reno Drug Dealer
 {428}{}{Клиент казино}                  # ncCasPat.int    ; New Reno Casino Patron
 {429}{}{Сутенер}                           # ncPimp.int      ; New Reno Generic Pimp
 {430}{}{Торчок}                         # ncJunkie.int    ; New Reno Generic Junkie
@@ -414,9 +414,9 @@
 {495}{}{Гуль-охранник}                    # GCRGuard.int    ; Gecko Red Door Guard
 {496}{}{Робот}                          # GCRobot.int     ; Gecko Reactor Robot
 {497}{}{Гуль}                          # GCFolk.int      ; Gecko Townsfolk
-{498}{}{Поклонник}                     # GCWorshp.int    ; Gecko Worshippers
+{498}{}{Гуль-сектант}                     # GCWorshp.int    ; Gecko Worshippers
 {499}{}{Гарольд}                         # GCHarold.int    ; Harold in Gecko
-{500}{}{Полисмен}                        # GCPACOff.int    ; Gecko Powered Armor Com Officer
+{500}{}{Офицер Анклава}                        # GCPACOff.int    ; Gecko Powered Armor Com Officer
 {501}{}{Тотошка}                           # SCToto.int      ; Toto hlper bot in NCR 1
 {502}{}{Элли}                        # SCDoroth.int    ; Dorothy Repair chick in NCR 1
 {503}{}{Горожанин}                    # ncPerson.int    ; New Reno Generic Townsperson/Citizen
@@ -448,7 +448,7 @@
 {529}{}{ШалтайболтайПРОКАЗНИК}               # ncHumper.int    ; New Reno HumperdumperDIDO
 {530}{}{Хесусик Мордино}             # ncLilJes.int    ; New Reno Lil' Jesus Mordino
 {531}{}{Драчливый Джимми Д.}                 # ncJimmyJ.int    ; New Reno Jagged Jimmy J
-{532}{}{Кейт Райт}                   # ncKeiWri.int    ; New Reno Keith Wright
+{532}{}{Кит Райт}                   # ncKeiWri.int    ; New Reno Keith Wright
 {533}{}{Ли Энн Бишоп}                # ncLABish.int    ; New Reno Lee Anne Bishop
 {534}{}{Красавчик Ллойд}               # ncLloyd.int     ; New Reno Pretty Boy Lloyd
 {535}{}{Мэйсон}                          # ncMason.int     ; New Reno Mason
@@ -464,7 +464,7 @@
 {545}{}{Ти-Рэй}                          # ncTRay .int     ; New Reno T-Ray
 {546}{}{Шлюха}                          # ncBitch.int     ; New Reno Corsican Brothers Bitches
 {547}{}{Ребенок Райта}                   # ncWriPly.int    ; New Reno Wright Children Playing
-{548}{}{Полисмен НКР}                     # SCCop.int       ; NCR cop
+{548}{}{Полицейский НКР}                     # SCCop.int       ; NCR cop
 {549}{}{Освальд}                         # SCOswald.int    ; Raider Oswald captive NCR 1
 {550}{}{Дасти}                          # SCDusty.int     ; Dusty bartender in NCR 1
 {551}{}{Хулио}                          # ncJules.int     ; New Reno Jules
@@ -501,7 +501,7 @@
 {582}{}{Гангстер}                        # ECMobstr.int    ; Random Encounter Mobster (Outside New Reno)
 {583}{}{Охотник}                         # ECHntLdr.int    ; Random Encoutner Hunting Party Leader
 {584}{}{Охотник}                         # ECHunter.int    ; Random Encounter Hunting Party
-{585}{}{Следопыт}                         # ECRanger.int    ; Random Encounter NCR Rangers (Patrol)
+{585}{}{Рейнджер}                         # ECRanger.int    ; Random Encounter NCR Rangers (Patrol)
 {586}{}{Наемник}                      # ECMercs.int     ; Random Encounter Mercenaries
 {587}{}{Наемник}                      # ECMrcLdr.int    ; Random Encounter Mercenary Leader
 {588}{}{Налетчик}                         # ECRadGrp.int    ; Random Encounter Raider Party
@@ -581,7 +581,7 @@
 {662}{}{Коготь Смерти}                     # mcDthClw.int    ; Modoc Rose's "Chicken"
 {663}{}{Роберта}                        # bcRobert.int    ; Roberta Vault 15 Entrance
 {664}{}{Сара}                           # bcSara.int      ; Sara vault 15 Entrance
-{665}{}{Зак}                           # bcZeke.int      ; Zeke vault 15 Entrance mayor dude
+{665}{}{Зик}                           # bcZeke.int      ; Zeke vault 15 Entrance mayor dude
 {666}{}{Брамин}                        # bcBrahmn.int    ; Generic Brahmin in Vault15 Entrance
 {667}{}{Деревянная дверь}                      # BiEntDr.int     ; Trapped Vault15 entrance door
 {668}{}{Крисси}                        # BCCrissy.int    ; Crissy, Rebecca's daughter
@@ -772,7 +772,7 @@
 {853}{}{Лаборант Ши}                   # FCslabte.int    ; San Fran Shi Lab techs
 {854}{}{Ребенок}                          # FCSkids.int     ; San Fran Shi Kids
 {855}{}{Гуль}                          # GCWander.int    ; wandering ghouls in Gecko
-{856}{}{Доктор Фанг}                        # FCDrFung.int    ; San Fran Dr Fung
+{856}{}{Доктор Фунг}                        # FCDrFung.int    ; San Fran Dr Fung
 {857}{}{Джул}                            # OCJul.int       ; Vault 13 Denmother Guard
 {858}{}{Керит}                         # OCKerith.int    ; Vault 13 Den Mother
 {859}{}{Сундук}                          # AITemCst.int    ; Temple Chest to hold the players things
@@ -941,7 +941,7 @@
 {1022}{}{Терминал}             # FSPhySta.int    ; Physics computer station in San Fran
 {1023}{}{Терминал}             # FSBioSta.int    ; Biology computer station in San Fran
 {1024}{}{Терминал}             # FSCheSta.int    ; Chemistry computer station in San Fran
-{1025}{}{Лао Чу}                      # FCLaoCho.int    ; Merchant in San Fran
+{1025}{}{Лао Чоу}                      # FCLaoCho.int    ; Merchant in San Fran
 {1026}{}{}                              # FIPaper.int     ; Scrap Papers that combine should only be put on one of thepeaces.
 {1027}{}{Вентиляционная шахта}             # CSVent.int      ; Ventilation shaft for Navarro
 {1028}{}{Код карты}                    # EncTrp.int      ; Map Script for Enclave Trap Rooms
@@ -960,7 +960,7 @@
 {1041}{}{Посетитель бара}                    # dcStory1.int    ; Story Teller 1 in the Den
 {1042}{}{Посетитель бара}                    # dcStory2.int    ; Story Teller 2 in the Den
 {1043}{}{Дверь тюрьмы}                     # RIJalDor.int    ; Jail Door in Redding
-{1044}{}{Сюзи}                          # FCSuze.int      ; Suze in San Fran
+{1044}{}{Сьюз}                          # FCSuze.int      ; Suze in San Fran
 {1045}{}{Капитан Рон Майерс}            # FCRonMey.int    ; Captain Ron Meyers
 {1046}{}{Дверь загона}                      # diPenDor.int    ; Slave Pen Door in the Den
 {1047}{}{Шахта Ванаминго}                # RedWan1.int     ; Map Script for Wanamingo Mine
@@ -1135,7 +1135,7 @@
 {1216}{}{Самогонщики}                   # ECLdBoot.int    ; Random Encounter Lead Bootlegger
 {1217}{}{}                              # csOpen.int      ; Script to signal if dude uses door w/o permission (in Navarro)
 {1218}{}{Дэн}                           # hcDan.int       ; Dan, Spouse of murdered conspirator.
-{1219}{}{Тоже-мне-актер}               # ncComedi.int    ; New Reno Comedian
+{1219}{}{Дерьмовый комик}               # ncComedi.int    ; New Reno Comedian
 {1220}{}{Помойный певец}               # ncBand.int      ; New Reno Trashcan Band
 {1221}{}{Код карты}                    # ARDead.int      ; Destroyed Arroyo Bridge map script
 {1222}{}{}                              # csGate.int      ; Script to signal if dude uses gate w/o permision (in Navarro)
@@ -1524,8 +1524,8 @@
 {1604}{}{Map Script}                    # abbasem.int     ; Abbey Basement
 {1605}{}{Map Script}                    # abundgr.int     ; Abbey Underground
 {1606}{}{Торговец}                      # tribemer.int    ; Roy the merchant
-{1607}{}{Охрана торговца}                # tribemg1.int    ; Warren - Roy's bodyguard
-{1608}{}{Охрана торговца}                # tribemg2.int     ; Second guard for Roy the Merchant
+{1607}{}{Охранник торговца}                # tribemg1.int    ; Warren - Roy's bodyguard
+{1608}{}{Охранник торговца}                # tribemg2.int     ; Second guard for Roy the Merchant
 {1609}{}{Карта с торговцем}                  # merchant.int     ; Map Script to Primitive Tribe Merchant Encounter
 {1610}{}{Компьютер}                      # epai35.int      ; EPA museum computer
 {1611}{}{Компьютер}                      # epai36.int      ; EPA petting zoo computer
@@ -1543,12 +1543,13 @@
 {1623}{}{Моторная лодка}                    # sfmboat.int     ; Script to Motor Boat at Shi Docks
 {1624}{}{Охранник}                         # fcbtech.int     ; Shi Sub Tech Guard
 {1625}{}{Хлам}                          # abjunk.int      ; Abbey Junk Piles
-{1626}{}{лестница}                        # epai40.int      ; EPA Greenhouse stairs
+{1626}{}{Лестница}                        # epai40.int      ; EPA Greenhouse stairs
 {1627}{}{Шахта лифта}                # epai41.int      ; EPA broken elevator shaft entrance
 {1628}{}{spatial}                       # epas11.int      ; EPA elevator shaft entrance spatial
 {1629}{}{Шахта лифта}                # epai42.int      ; EPA elevator shaft level 1
 {1630}{}{Ящик}                        # epai43.int      ; EPA Locker with Solar Scorcher
-{1631}{}{Охрана доков}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
+{1631}{}{Охранник доков}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
+{1631}{}{Охранник доков}                    # fcdokgrd.int    ; Shit Guard at Motor Boat
 {1632}{}{Техник}                    # fcsbtec1.int    ; Sub Power Console Techie
 {1633}{}{Техник}                    # fcsbtec2.int    ; Sub Target Console Techie
 {1634}{}{Техник}                    # fcsbtec3.int    ; Sub Torpedo Console Techie

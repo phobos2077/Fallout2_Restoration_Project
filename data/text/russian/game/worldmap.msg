@@ -288,11 +288,11 @@
 ###.Magnat.###...Added by Killap. Translated by Aliet (LevCorp-like). Done...########################
 {680}{}{Деревня}
 
-{690}{}{Племя Умбра}
+{690}{}{Племя Теней}
 
-{700}{}{Племя Умбра}
+{700}{}{Племя Теней}
 
-{710}{}{Племя Умбра}
+{710}{}{Племя Теней}
 
 #
 # Terrain type names for world map hover button
