@@ -55,7 +55,7 @@
 {281}{}{Tenía algunas preguntas sobre Nuevo Reno…}
 {282}{}{No importa. Tengo que irme.}
 {290}{}{(Te mira con el ceño fruncido). Perdona, Jardín de… ¿qué? No, lo siento, nunca he oído hablar de tal cosa.}
-{291}{}{Tenía algunas preguntas más…}
+{291}{}{Tenía algunas preguntas más...}
 {292}{}{No importa entonces, mejor será que me marche.}
 {300}{}{¿Refugio 13? (Parece perpleja). Por Dios, no, nunca he… bueno, no, espera. Eso no es cierto. ESTÁ Ciudad Refugio al nordeste.
  ¿Eso es lo que estás buscando?}
@@ -146,7 +146,7 @@
 {407}{}{Mira, olvida lo que he dicho. Tenía algunas otras preguntas…}
 {410}{}{No por su nombre. Me conocen lo suficiente como para correr en cuanto me ven… pero se agrupan como moscas a lo largo de la calle Virgin, en la
  parte delantera de la ciudad, y junto a los casinos.}
-{411}{}{Ya veo. Tenía algunas preguntas más…}
+{411}{}{Ya veo. Tenías algunas preguntas más...}
 {415}{}{¡Mantén las distancias, demonio de la lujuria! ¡Tú, que fornicas en películas para la corrupción de las masas!}
 {416}{}{¡Vaya, nunca lo habría creído! ¡Tienes agallas al volver por aquí! ¡Tú, que fornicas en películas para la corrupción de las masas!}
 {417}{}{¿Eh? ¿Yo for-fornico en películas por curación de qué?}
@@ -164,7 +164,7 @@
 {432}{}{Otra vez tú. No tenemos NADA de lo que hablar.}
 {433}{}{Yo… eh… yo… quiero que… eh… busco la… eh… mierda! ¡Yo no gusta ser est-túpido! ¡No gusto!}
 {434}{}{Yo… eh… ¡ooooh, algo que brilla!}
-{435}{}{Tengo algunas preguntas…}
+{435}{}{Tenía algunas preguntas...}
 {436}{}{Ya veo que hablar no va a solucionar nada por aquí. Adiós.}
 {440}{}{Ya veo. Bien, me temo que no puedo ayudarte. Buenos días.}
 {441}{}{Ya veo. Bien, me temo que no puedo ayudarte. Buenas noches.}
@@ -235,6 +235,6 @@
 {1251}{}{. Tenía algunas preguntas acerca de Nuevo Reno…}
 {1415}{}{(Da un respingo). ¡Oh, Dios! (Te mira con los ojos entrecerrados y frunce los labios en señal de desaprobación). ¡Vaya, nunca lo habría creído! }
 {1430}{}{(Se sobresalta). ¡Oh, Dios! }
-{1431}{}{(Se sobresalta). ¡Oh, Dios! (Te estudia, y su mirada se vuelve glacial). }
+{1431}{}{(Squints at you, then her gaze becomes glacial.) }
 {1480}{}{¿La destruirás? Yo... bien, de acuerdo… (Parece llena de energía). }
 {1530}{}{. Me aseguraré de que la familia Wright se mantenga en el buen camino de ahora en adelante.}

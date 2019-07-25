@@ -66,7 +66,7 @@
 {514}{}{No está mal.}
 {515}{}{¿Cómo ha podido pasar eso?}
 {516}{}{Ups.}
-{517}{}{Sin golpes, sin golpes. ¡Para!}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Bueno, el juego hace honor a su nombre.}
 {519}{}{Tan sólo necesito ganar una grande.}
 {520}{}{¡Cifras!}
@@ -86,4 +86,4 @@
 {601}{}{¿Por qué has hecho eso?}
 {602}{}{¡Vete!}
 {603}{}{Detente, soy frágil.}
-{604}{}{Yo no te haría algo así a ti.}
+{604}{}{I wouldn't do that to you.}

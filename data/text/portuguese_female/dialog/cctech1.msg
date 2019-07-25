@@ -37,14 +37,14 @@
 {142}{}{Tudo bem.}
 {143}{}{Tenho-o.}
 {153}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
-{154}{}{Se o sargento o pega fora do do uniforme, ele vai lhe entregar seu traseiro.}
+{154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
 {155}{}{Por que você está sem uniforme? }
 {156}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {157}{}{Intrusos! Chamar a guarda!!}
 {158}{}{Guarda! Intrusos no centro de comunicação!}
 {159}{}{O que é? Estamos sob ataque?}
-{160}{}{Por que o alerta? O que está acontecendo?}
+{160}{}{Por isso o alerta? O que está acontecendo?}
 {161}{}{O que diabos está acontecendo?}
-{162}{}{Eu sou apenas um técnico, não atire em mim!}
+{162}{}{I'm just a tech, don't shoot me!}
 {163}{}{Eu não me inscrevi para o combate, apenas de treinamento em tecnologia!}
-{164}{}{Isto é um bata de laboratório, não uma armadura! Estou fora daqui!}
+{164}{}{Este é um bata de laboratório, não uma armadura! Estou fora daqui!}

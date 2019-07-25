@@ -31,13 +31,13 @@
 {204}{}{Pensábamos que te habías olvidado de nosotros mientras estabas por ahí fuera salvando el mundo.}
 {215}{}{Hola, }
 {216}{}{Si estás buscando un poco de compañía para más tarde…}
-{217}{}{Oye, tú… [guiño]… ¿te gustaría jugar?}
-{218}{}{Parece tan… [se estremece]… peligroso.}
+{217}{}{Hey, you...[winks]...you looking to gamble?}
+{218}{}{He looks so...[shivers]...dangerous.}
 {219}{}{Bienvenido al casino, }
 {220}{}{¿Le hablará bien al jefe de mí?}
 {221}{}{Hola, señorita. Hágame saber si puedo ayudarla con algo.}
 {222}{}{¿Quiere jugar, señorita?}
-{223}{}{Parece tan… [se estremece]… peligrosa.}
+{223}{}{She looks so...[shivers]...dangerous.}
 {235}{}{Parece que éste ya está apostando con su vida.}
 {236}{}{Eh, creo que acaba de entrar en el casino equivocado…}
 {237}{}{Si no sale antes de que los muchachos le vean…}

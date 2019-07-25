@@ -53,8 +53,8 @@
 {149}{}{Eh... oye. Por aquí abajo hay algo con muchas patas de lo que me gustaría alejarme. ¿Podrías darte prisa?}
 {150}{}{Typhon debería haber sabido que esas chapas son inútiles hoy en día. ¿Verdad?}
 {151}{}{¡Oh, DIOS! ¡Me está subiendo por encima! ¡SOCORRO!}
-{152}{}{¿Sabes? Es realmente gracioso, cuando lo piensas. Él realmente pensaba que me estaba haciendo un favor. Tal vez
- no debería ser muy duro con el viejo. ::suspiras:: Una lástima lo del tesoro. En fin, tengo lugares que visitar.}
+{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
+ shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
 {153}{}{::Gimoteo...::}
 {154}{}{No te sigues preocupando por el pozo.}
 {155}{}{Hmmmm... tengo la sensación de que me olvido de algo en el pozo. Oh, qué más da, no hay tiempo que perder.}

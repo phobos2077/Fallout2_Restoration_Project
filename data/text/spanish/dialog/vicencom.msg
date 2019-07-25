@@ -121,7 +121,7 @@
 {209}{}{Cancelas el procedimiento y te desconectas del terminal.}
 {210}{}{Una pequeña pantalla bajo Vault Boy afirma que el último mantenimiento programado fue hace 50.352 años.
  Los archivos están corruptos y necesitan ser "reformateados". ¿Quieres continuar?}
-{211}{}{Uh… desde luego.}
+{211}{}{Eh... desde luego.}
 {212}{}{¡Qu… no! ¡Ni hablar! }
 {213}{}{Cancelas el procedimiento y te desconectas del terminal.}
 {214}{}{Comenzando procedimiento de inicialización... Reformateando PipBoy...}

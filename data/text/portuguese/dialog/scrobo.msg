@@ -3,10 +3,10 @@
 {102}{}{Either this thing is some horrible stitched together combination of dog and machine or it's all machine, cunningly done to look like a dog. It's hard to tell.}
 {103}{}{Arf! <click> Woof!}
 {104}{}{...bzzzzzz...}
-{105}{}{.whirrrrr...I am not a Daggit.}
+{105}{}{.whirrrrr... I am not a Daggit.}
 {106}{}{Grrrrrrrrrrrrrrrr--}
 {107}{}{Woof! Wo-wo-wo-<click>woof.}
-{108}{}{<sprzzzt> Meow...error.}
+{108}{}{<sprzzzt> Meow... error.}
 {109}{}{Barkbarkbarkbarkbarkbarkbark!}
 {110}{}{Grrr...}
 {111}{}{How-woooo! <click-click> How-wooo!}
@@ -42,7 +42,7 @@
 {1700}{}{Arf-arf proximity set to close.}
 {1800}{}{Arf-arf proximity set to medium.}
 {1900}{}{Arf-arf proximity set to far.}
-{2000}{}{.whirrrrr...I am not a Daggit.}
+{2000}{}{.whirrrrr... I am not a Daggit.}
 {2100}{}{GRRR-ROWF!}
 {2200}{}{Woof! Wo-wo-wo-<click>woof?}
 {2204}{}{Ok, you're at a good distance for now.}

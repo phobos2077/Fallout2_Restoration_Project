@@ -137,7 +137,7 @@
 {453}{}{Eu poderia sempre usar mais de suprimentos.}
 {454}{}{Apenas me dê o dinheiro.}
 {455}{}{Mantenha a sua recompensa. Eu só fiz isso porque era a coisa certa a fazer.}
-{460}{}{Aqui está. [Ele entrega várias armas de alta potência]}
+{460}{}{Here you go. [He hands you various high powered weapons]}
 {461}{}{[FEITO]}
 {470}{}{Aqui está. [Ele entrega vários suprimentos]}
 {471}{}{[FEITO]}

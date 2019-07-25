@@ -3,7 +3,7 @@
 {102}{}{You see a person carrying a powerful weapon and covered in the dust of the trail.}
 {103}{}{I tell ya, one more group of highwaymen and I'm wearing dynamite on the next trip.}
 {104}{}{Sure could use some more help on the caravans.}
-{105}{}{Man...Unity Patrol work gets really, really old.}
+{105}{}{Man... Unity Patrol work gets really, really old.}
 {106}{}{So then I saw this tribal comin' and... never mind.}
 {107}{}{One more "Rainbow Patrol" crack and I'm gonna kill someone.}
 {108}{}{I swear, if the bandits get any worse, we'll all die in the next year.}
@@ -36,7 +36,7 @@
 {215}{}{. I'm a guard for Bill's caravans. Anything else?}
 {216}{}{What's he like? Well, he's friendly, but abrasive. He's a good boss, and usually fair to us. He
  doesn't treat us badly or anything, if that's what you mean. Any more questions?}
-{217}{}{Well, he's a little shady, I guess… but then, so are most people these days. Any other questions?}
+{217}{}{Well, he's a little shady, I guess... but then, so are most people these days. Any other questions?}
 {218}{}{I always kind of assumed he'd brought it with him -- and plenty of it, at that. It's not the
  sort of thing you ask a guy, you know. Any more questions?}
 {219}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters

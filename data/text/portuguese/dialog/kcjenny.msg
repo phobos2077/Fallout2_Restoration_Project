@@ -33,9 +33,9 @@
 {293}{}{Do you happen to know how to get to the Den from here?}
 {294}{}{Adeus.}
 {295}{}{Jenny, have you ever heard of something called a GECK?}
-{300}{}{Well, there's not much to tell about the trappers, really. They get a few gecko pelts...or get
- lucky with a few golden geckos...and then they come in to blow off some steam. Quick and not too
- demanding —- just the way I like 'em.}
+{300}{}{Well, there's not much to tell about the trappers, really. They get a few gecko pelts... or get
+ lucky with a few golden geckos... and then they come in to blow off some steam. Quick and not too
+ demanding -- just the way I like 'em.}
 {301}{}{I guess that's all I need to know for now.}
 {302}{}{Interesting; let me ask you about something else.}
 {310}{}{You're interested in traders, huh? Well I mostly just worked for one trader. Vic was his name.

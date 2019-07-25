@@ -11,5 +11,5 @@
 {110}{}{Estoy de servicio. No tengo tiempo para socializar.}
 {111}{}{Oye, bonito calzado.}
 {112}{}{Deberías ocuparte de tus asuntos.}
-{113}{}{Ahí tienes, señor. Tenga un buen día.}
+{113}{}{There you are, sir. Have a good day.}
 {114}{}{There's been an incident. Move along.}

@@ -71,7 +71,7 @@
 {334}{}{Tudo bem, tchau.}
 {340}{}{Escuta aqui, seu merdinha, não se atreva a ameaçar a mim ou a qualquer outro membro da nossa guilda, ou você está morto. Entendeu? Morto.}
 {341}{}{Escuta aqui, sua vagabunda. Não se atreva a ameaçar a mim ou a qualquer outro membro da nossa guilda, ou você está morta. Entendeu? Morta.}
-{342}{}{Agora sua drogadinha, você vai morrer.}
+{342}{}{Agora seu drogadinho, você vai morrer.}
 {343}{}{Que se dane.}
 {344}{}{Perdão, por favor não me machuque.}
 {345}{}{Tá, que se dane. Eu vou deixar você viver dessa vez.}

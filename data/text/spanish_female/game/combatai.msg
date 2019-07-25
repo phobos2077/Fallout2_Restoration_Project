@@ -1575,7 +1575,7 @@
 {12447}{}{Te voy a arrancar los dientes por eso...}
 {12448}{}{El pecho me arde...}
 {12449}{}{¡¿Alguien tiene un estimulante?! ¡El pecho me sangra mucho!}
-{12450}{}{Mierda... esta tribal golpea como el Masticador...}
+{12450}{}{Mierda... este tribal golpea como el Masticador...}
 {12451}{}{Tú me rompes las costillas y ahora yo te rompo el cuello.}
 {12452}{}{¿Eso es todo lo que sabes hacer? Puta mierda de show, tribal.}
 {12453}{}{Una herida en el pecho... eso no es nada.}
@@ -2646,7 +2646,7 @@
 {40814}{}{No me... siento el brazo izquierdo...}
 {40815}{}{*Nfff*... buen intento... mi brazo... las ha recibido peores...}
 {40816}{}{*Nfff*... el brazo... sólo es el brazo...}
-{40817}{}{*Nfff*... otra... maldita herida en el brazo...}
+{40817}{}{*Nfff*... otra... maldita herida en el brazo....}
 {40818}{}{Me han dislocado el puñetero brazo...}
 {40820}{}{¡Maldita sea! ¡No me pegaban un tiro en ese brazo desde 2201!}
 {40821}{}{*Hrkkkk*... el brazo derecho es... inútil...}
@@ -2655,7 +2655,7 @@
 {40824}{}{No me... siento el brazo derecho...}
 {40825}{}{*Nfff*... el brazo... sólo es el brazo...}
 {40826}{}{Voy a... necesitar... más... protección... en los brazos...}
-{40827}{}{*Nfff*... otra... maldita herida en el brazo...}
+{40827}{}{*Nfff*... otra... maldita herida en el brazo....}
 {40828}{}{Me han dislocado el puñetero brazo...}
 {40830}{}{*Hrrrk*}
 {40831}{}{*Hrkkk*... casi me alcanza mi maldito bazo...}
@@ -3391,7 +3391,7 @@
 {44562}{}{Negative damage inflicted. Adjusting targeting scanners.}
 {44563}{}{Enemy missed. Recalibrating targeting sensors.}
 {44564}{}{Error. Malfunction in targeting sensors.}
-{44565}{}{Analyzing firing data...corrections complete.}
+{44565}{}{Analyzing firing data... corrections complete.}
 {44566}{}{Enemy target undamaged.}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}
 {44801}{}{Eso me va a producir un infernal dolor de cabeza.}
@@ -3620,7 +3620,7 @@
 {70300}{}{A cat's got to look after himself!}
 {70301}{}{Screw it, you're not worth it.}
 {70302}{}{Fuck this, I'm outta' here.}
-{70303}{}{Gotta jet while I've still got a life to spare.}
+{70303}{}{Gotta Jet while I've still got a life to spare.}
 {70304}{}{You won this time, monkey!}
 {70320}{}{Don't worry, this'll be over *real* soon.}
 {70321}{}{This cat's about to pounce!}
@@ -3638,10 +3638,10 @@
 {70402}{}{Cào! I hope that didn't break my nose.}
 {70410}{}{¡Ay! ¡Mi brazo!}
 {70411}{}{Maldita, ¡Eso duele!}
-{70412}{}{At least it's not broken… I don't think.}
+{70412}{}{At least it's not broken... I don't think.}
 {70420}{}{¡Ay! ¡Mi brazo!}
 {70421}{}{Maldita, ¡Eso duele!}
-{70422}{}{At least it's not broken… I don't think.}
+{70422}{}{At least it's not broken... I don't think.}
 {70430}{}{Creo que me has roto una costilla.}
 {70431}{}{I won't die that easily.}
 {70432}{}{¡Oh! ¡Eso duele!}

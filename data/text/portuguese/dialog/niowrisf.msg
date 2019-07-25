@@ -27,4 +27,4 @@
 {291}{}{You pulled the wrong wire while disarming the trap.}
 {300}{}{You hear a muffled boom upstairs.}
 {400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
- if Mrs. Bishop hadn't told you about it. Inside is an odd-looking pip boy attachment.}
+ if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}

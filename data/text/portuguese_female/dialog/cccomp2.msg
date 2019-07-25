@@ -28,9 +28,9 @@
 {127}{}{Sim... bonito. Obrigado.}
 {128}{}{Você está fora do uniforme. }
 {129}{}{É melhor você se adequar. Arsenal está no corredor do lado esquerdo.}
-{130}{}{Você está tendo uma grande chance de estar fora do uniforme. Melhor relatar ao fornecimento.}
+{130}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
 {131}{}{Quem diabos são vocês... Alerta! Intrusos!}
-{132}{}{Temos sido infiltrado! Alerta!}
+{132}{}{Temos sido infiltrados! Alerta!}
 {133}{}{Vários intrusos! Soar o alarme!}
 {134}{}{Merda! Obter as cópias de segurança iniciado.}
 {135}{}{Encerrar todas as operações secretas.}

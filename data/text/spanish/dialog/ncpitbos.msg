@@ -53,12 +53,12 @@
 {305}{}{Se supone que no puedo charlar estando de servicio, pero me alegra que le patearas el culo al Enclave.}
 {306}{}{Oye, }
 {310}{}{Se necesitan más fichas en la mesa tres…}
-{311}{}{Good crowd today…}
+{311}{}{Good crowd today...}
 {315}{}{Sí, tu mamá dijo que yo también era especial. Y ahora haz una excursión… quizá ella esté en alguna parte de la calle Virgin.}
 {316}{}{¡Oh, qué bien! Adiooos.}
 {317}{}{Te alejas}
 {320}{}{Se necesitan más fichas en la mesa tres…}
-{321}{}{Good crowd tonight…}
+{321}{}{Good crowd tonight...}
 {325}{}{Soy el vigilante de sala. ¿Qué puedo hacer por ti?}
 {326}{}{Gestiono esta planta del casino. Si necesitas algo, tan solo pregunta.}
 {327}{}{¿Qué casino es éste?}
@@ -102,14 +102,14 @@
 {370}{}{Gracias, me halaga. Sólo me he detenido a saludar.}
 {375}{}{Qué va, sólo es testaruda… igual que él. Probablemente podría repararse, pero no tenemos mecánicos
  de tragaperras que puedan arreglar esa maldita cosa.}
-{376}{}{Tenía algunas preguntas más…}
+{376}{}{Tenía algunas preguntas más...}
 {377}{}{Interesante. Gracias por la información.}
 {385}{}{Sí, ese hijo de puta estuvo aquí hace una semana, desplumó unas mil fichas a una de las mesas, y luego se largó.
  No sé dónde está ahora, pero solía tener una habitación en el Desperado.}
 {386}{}{Sí, cierto tipo con ese nombre alquiló una de las habitaciones de arriba... la 204. La tenía pagada, pero se largó
  hace unos días y nadie lo vio marcharse.}
 {387}{}{El señor Salvatore mencionó que hubo una croupier en particular al que Lloyd le ganó el dinero. ¿A quién fue?}
-{388}{}{Tenía algunas preguntas más…}
+{388}{}{Tenía algunas preguntas más...}
 {389}{}{Gracias por la información.}
 {395}{}{¿Nikki? Sí, está por allí, en la mesa central. ¿Hay alguna clase de problema?}
 {396}{}{No hay problema. Sólo quiero reunirme con ella. Tenía algunas preguntas más…}
@@ -122,7 +122,7 @@
 {417}{}{Interesante. Gracias por la información.}
 {425}{}{Claro, sería bueno para el negocio. El vestuario está en la parte de atrás…}
 {426}{}{Excelente. Estaré sobre el escenario en unos minutos...}
-{427}{}{No, ahora no. Tengo más preguntas…}
+{427}{}{Ahora mismo no. Tenía otras preguntas...}
 {428}{}{Ahora no, pero volveré más tarde.}
 {435}{}{No, todavía nos estamos recuperando de tu última actuación. A lo mejor te interesa probar en alguno de los otros casinos.}
 {436}{}{Está bien, gracias. Oye, tenía algunas otras preguntas…}
@@ -196,11 +196,11 @@
 {1366}{}{¿Ese tipo? ¿El Viejo McGee? Un loco hijo de perra, eso desde luego. Je.
  Seguro que le jodió que ganases su fortuna. Yo tendría cuidado con él.}
 {1367}{}{¿La máquina está trucada?}
-{1368}{}{Tenía algunas preguntas más…}
+{1368}{}{Tenía algunas preguntas más...}
 {1369}{}{Gracias por la información.}
 {1425}{}{Sure. Let's hope you are as good as last time.}
 {1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}
-{1500}{}{Umm...Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
+{1500}{}{Umm... Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
 {1501}{}{Yo mama sooooooo fat that I had to take a plane, a train, and an automobile just to get on the bitch's good side.}
 {1502}{}{Alright, what did one plate say to the other?}
 {1503}{}{Ok, why were the suspenders arrested?}

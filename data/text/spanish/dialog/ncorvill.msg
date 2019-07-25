@@ -71,7 +71,7 @@
 {330}{}{(Te estudia un momento). Está bien. Quizá que no seas de la familia pueda ser bueno. (Frunce el ceño) ¿Tienes hijos?}
 {331}{}{No que yo sepa.}
 {332}{}{No, que yo sepa. Creo que me acordaría.}
-{340}{}{One of my sons…my boy, Richard, passed away recently. Drug overdose. Jet.}
+{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
 {341}{}{¿Qué puedo hacer?}
 {342}{}{Eh… en realidad no sé cómo puedo --}
 {350}{}{Quiero saber qué camello le vendió esa MIERDA a Richard y le obligó a tomarla. Cada vez que he enviado a mis muchachos a encontrarlo,
@@ -81,7 +81,7 @@
 {353}{}{No, este trabajo no es de mi estilo. Mejor será que me marche.}
 {360}{}{(Su rostro enrojece). Mis chicos están limpios, y saben que deben mantenerse lejos de esta mierda, porque si no los mataré. Y entonces, DE REPENTE, Richie tiene una sobredosis.
  Alguien le metió dentro una tonelada de Jet, tanta que le salía humo de la nariz.}
-{361}{}{Well…that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
+{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
 {362}{}{Hmmm. Haré el trabajo.}
 {370}{}{(Asiente con la cabeza). De acuerdo entonces. Pero cuidado: encuentra al hijo de perra que mató a mi chico, pero ni lo toques… tan solo vuelve
  y DIME el nombre de ese hombre muerto. (Los ojos le relampaguean). YO me ocuparé a partir de ese momento.}
@@ -91,7 +91,7 @@
 {380}{}{Eso es cierto, no hemos hablado del precio, y se debe a que no has hecho NADA más que hablar. Voy a dejar que demuestres tu valía. Haz tu trabajo,
  y no tendrás que preocuparte por el dinero. Te doy mi palabra de Wright.}
 {383}{}{Entonces olvida todo esto. Sólo los tontos trabajan por nada. Me voy de aquí.}
-{390}{}{(Eyes blaze.) No…everybody's too scared to talk…to a Wright, anyway. If I were you, I would 'question' some of the Reno
+{390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
  drug pushers, see what they know. That Jet came from SOMEWHERE.}
 {391}{}{¿Sospechas de algún camello en particular?}
 {393}{}{Mira, este trabajo no es de mi estilo. Mejor será que me vaya.}
@@ -226,7 +226,7 @@
 {680}{}{¿Y por qué demonios harían eso?}
 {681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
  be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
- Salvatores…all they have to worry about then is the Bishops.}
+ Salvatores... all they have to worry about then is the Bishops.}
 {682}{}{No lo sé. Quizá deberías preguntarles a ellos.}
 {690}{}{(Te mira fijamente durante un buen rato, y después se le escapa una risa sin humor). Me has dado una respuesta, y no puedo hacer
  nada. Los Salvatore… maldición (suspira profundamente).}

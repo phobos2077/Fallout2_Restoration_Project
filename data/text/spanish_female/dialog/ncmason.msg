@@ -104,7 +104,7 @@
  que hayas encontrado a Lloyd. O me harás enfadar de verdad. Ahora, haz tu TRABAJO.}
 {481}{}{Vale, vale...}
 {482}{}{Que te den, Mason.}
-{490}{}{Te dije que no volvieras hasta que hubieses encontrado a Lloyd… te lo DIJE. (Se golpea la cabeza) ¡¿Eres idiota?! Debes serlo, porque vuelves aquí a hablar conmigo. Idiota… y MUERTA.}
+{490}{}{Te dije que no volvieras hasta que hubieses encontrado a Lloyd… te lo DIJE. (Se golpea la cabeza) ¡¿Eres idiota?! Debes serlo, porque vuelves aquí a hablar conmigo. Idiota… y MUERTO.}
 {491}{}{Vamos a bailar, gilipollas.}
 {492}{}{¡Vamos!}
 {493}{}{No, TÚ eres el IDIOTA Y MUERTO! ¡¿Me OYES, MASON?! ¡TÚ eres el ID --}
@@ -136,7 +136,7 @@
 {556}{}{Eso es todo lo que necesitaba saber. Ahora aparta para que pueda hacer mi trabajo, Mason.}
 {565}{}{No tengas tanta prisa, amigo. Te lo voy a dejar MUY claro para que no te equivoques: No vengas a hablar conmigo
  hasta que hayas conseguido ese dinero de Renesco. O me voy a enfadar de verdad. Y ahora, a TRABAJAR.}
-{575}{}{Dije que no volvieras hasta conseguir el dinero… lo DIJE. (se golpea la frente) ¡¿Eres idiota?! Seguro que sí, cuando vuelves por aquí. Idiota… y MUERTA.}
+{575}{}{Dije que no volvieras hasta conseguir el dinero… lo DIJE. (se golpea la frente) ¡¿Eres idiota?! Seguro que sí, cuando vuelves por aquí. Idiota… y MUERTO.}
 {585}{}{(Mason entrecierra los ojos) ¿Y entonces qué? ¿Le dijiste para quién trabajabas?}
 {586}{}{Sí.}
 {587}{}{Bueno, no.}
@@ -152,7 +152,7 @@
 {619}{}{¡No, TÚ eres quien LA HA JODIDO PERO BIEN! ¡¿Me OYES, MASON?! TÚ ERES QUIEN LA HA JOD --}
 {625}{}{(Mason asiente con la cabeza, parece decepcionado). Je. Pensé que habíamos desplumado al bastardo de Renesco la última vez. De acuerdo entonces, bien… llévaselo al jefe. (Frunce el ceño). Ve ahora.}
 {635}{}{Lárgate de aquí. El señor Salvatore no quiere volver a tener tratos contigo.}
-{640}{}{Vale, el jefe dice que nos vas a acompañar para cierta TRANSACCIÓN. Asegúrate de venir armada… y no te traigas un tirachinas… Luego vuelves y hablas conmigo.}
+{640}{}{Vale, el jefe dice que nos vas a acompañar para cierta TRANSACCIÓN. Asegúrate de venir armado… y no te traigas un tirachinas… Luego vuelves y hablas conmigo.}
 {642}{}{El señor Salvatore dijo que me darías una pistola láser.}
 {643}{}{¿De qué va esa transacción que vamos a hacer?}
 {644}{}{Ya estoy lista para acompañaros. Vamos.}

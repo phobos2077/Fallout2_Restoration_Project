@@ -74,7 +74,7 @@
 {401}{}{¿QUÉ? ¡Has hecho trampa!}
 {402}{}{¿Mate?}
 {403}{}{No seas mal perdedor.}
-{404}{}{y... ¡jaque mate!}
+{404}{}{And... checkmate!}
 {405}{}{¡Jaque maaate!}
 {406}{}{::chirrido:: ¡Matar planta! ::click-clack-click::}
 {407}{}{Has demostrado que puedes subvertir a un escorpión rad que es más inteligente que tú.}

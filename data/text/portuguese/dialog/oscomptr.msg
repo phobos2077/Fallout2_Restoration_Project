@@ -56,11 +56,11 @@
 {212}{}{Switch to keyboard input mode.}
 {213}{}{Access security footage.}
 {214}{}{Termine a sessão.}
-{220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience...Thank you for waiting...Diagnostic
+{220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience... Thank you for waiting... Diagnostic
  checks complete. All systems are working properly. After all, you're using Vault-Tec. }
 {221}{}{Voltar.}
 {222}{}{Termine a sessão.}
-{230}{}{Switching to manual interface mode...manual interface mode initiated. For the convenience of others, this
+{230}{}{Switching to manual interface mode... manual interface mode initiated. For the convenience of others, this
  terminal will automatically revert to vocal interface mode once you have logged off. Please input command.}
 {231}{}{Search database for anything of interest.}
 {232}{}{Termine a sessão.}
@@ -157,11 +157,11 @@
 {367}{}{[MAIS]}
 {368}{}{Vault 15, another key location in the Vault Dweller's quest, was to be populated by people with "radically diverse ideologies" that would be sealed in the Vault together for 50 years. Vault 27 was to be purposely overcrowded with 2,000 people -- double the maximum capacity. That couldn't have been pretty. Vault 29 was to be populated only by those under the age of sixteen, with their parents "purposely redirected to other Vaults".}
 {369}{}{[MAIS]}
-{370}{}{Vault 34's experiment involved an armory overstocked with weapons and ammo, and, of course, not provided with a lock. How pleasant. Vault 36 suffered from food extruders that were designed to produce only "a thin, watery gruel", while Vault 42 was outfitted only with dim lighting—no light bulbs of over 40 watts were provided.}
+{370}{}{Vault 34's experiment involved an armory overstocked with weapons and ammo, and, of course, not provided with a lock. How pleasant. Vault 36 suffered from food extruders that were designed to produce only "a thin, watery gruel", while Vault 42 was outfitted only with dim lighting--no light bulbs of over 40 watts were provided.}
 {371}{}{[MAIS]}
 {372}{}{Vault 53's equipment was designed to break down every few months. While repairable, the constant breakdowns were meant to test the stress of the inhabitants. You wonder how many expert mechanics and technicians that Vault produced. Vault 55 would have all its entertainment tapes removed, while Vault 56 would have all its entertainment tapes removed, with the exception of one featuring a particularly bad comic actor.}
 {373}{}{[MAIS]}
-{374}{}{Vault 68 was to be occupied by 999 males and only one female. You can only imagine the horrors that took place there...Vault 69, on the other hand, was to be occupied by 999 females and only one male...interesting. Vault 70's jumpsuit extruders were designed to fail after 6 months. And finally, Vault 106 was designed so that 10 days after being sealed, it would begin "releasing psychoactive drugs into the air filtration system".}
+{374}{}{Vault 68 was to be occupied by 999 males and only one female. You can only imagine the horrors that took place there... Vault 69, on the other hand, was to be occupied by 999 females and only one male... interesting. Vault 70's jumpsuit extruders were designed to fail after 6 months. And finally, Vault 106 was designed so that 10 days after being sealed, it would begin "releasing psychoactive drugs into the air filtration system".}
 {375}{}{Termine a sessão.}
 {500}{}{You learn about the Vault Experiments and the roles of the various Vaults.}
 {510}{}{You learn about the history of Vault 13 and the Overseer's role in the Vault Experiments.}

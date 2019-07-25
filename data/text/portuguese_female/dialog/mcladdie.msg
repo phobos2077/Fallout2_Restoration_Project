@@ -8,12 +8,12 @@
 {153}{}{[This dog seems highly agitated.]}
 {154}{}{Nice doggie.}
 {155}{}{Do you know where Jonny is, boy?}
-{156}{}{Stay here, Laddie}
+{156}{}{Stay here, Laddie.}
 {157}{}{Let's go find Jonny.}
 {158}{}{Did Jonny fall down the well, Laddie?}
 {159}{}{What's the matter boy, are you trying to tell me something?}
 {160}{}{Grrrr! [Laddie takes a vicious bite at you.]}
-{161}{}{[Hmm… For some reason he doesn't like you.]}
+{161}{}{[Hmm... For some reason he doesn't like you.]}
 {162}{}{Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]}
 {163}{}{[What a nice doggy.]}
 {164}{}{Woof? [You can almost hear the dog laughing at you.]}
@@ -33,7 +33,7 @@
 {182}{}{Did he go east?}
 {183}{}{Did he go west?}
 {186}{}{Woof?}
-{187}{}{Okay, Okay… Maybe someplace else, then?}
+{187}{}{Okay, Okay... Maybe someplace else, then?}
 {190}{}{He was playing cowboys and Indians when he accidentally fell down the well and you want me to
  get a rope and go down and rescue him. Okay, let's go, Laddie. [Astounding!]}
 {191}{}{He was playing cowboys and Indians when he accidentally fell down the well and you want me to

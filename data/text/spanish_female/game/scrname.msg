@@ -115,7 +115,7 @@
 {215}{}{Señor Smith}
 {216}{}{Skeeve}
 {217}{}{Procónsul Gregory}
-{218}{}{Enfermera Nancy}
+{218}{}{Nurse Phyllis}
 {219}{}{Randal}
 {220}{}{Sustancia}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Lobo}
 {444}{}{Generador}
 {445}{}{Puerta}
-{446}{}{Supermutante}
+{446}{}{Super mutant}
 {447}{}{Hombre de Salvatore}
 {448}{}{Hombre de Bishop}
 {449}{}{Hombre de Mordino}
@@ -503,7 +503,7 @@
 {603}{}{Okupa}
 {604}{}{Abolicionista}
 {605}{}{Contrabandista}
-{606}{}{Supermutante}
+{606}{}{Super mutant}
 {607}{}{Pescador}
 {608}{}{Esclavista}
 {609}{}{Trampero}
@@ -1509,7 +1509,7 @@
 {1609}{}{Merchant Map}
 {1610}{}{computer}
 {1611}{}{computer}
-{1612}{}{auto-doc}
+{1612}{}{Auto-Doctor}
 {1613}{}{Brother Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}

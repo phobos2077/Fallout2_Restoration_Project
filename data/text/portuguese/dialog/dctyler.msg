@@ -53,7 +53,7 @@
 {310}{}{Vencê-lo.}
 {320}{}{Isso é bom. Eu Tyler. Eu vou adeus.}
 {321}{}{Ur.}
-{322}{}{Uh…}
+{322}{}{Uh...}
 {330}{}{Saia, aberração.}
 {331}{}{Sukyu!}
 {332}{}{Arug!}

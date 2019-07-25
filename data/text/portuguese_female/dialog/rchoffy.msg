@@ -41,7 +41,7 @@
 {132}{}{Let me ask you about something else.}
 {133}{}{That's all I need to know for now. Thanks, Goodbye.}
 {134}{}{What else is a man's home? Sheesh, were you brought up in a tent or something?}
-{135}{}{Actually…I was.}
+{135}{}{Actually... I was.}
 {136}{}{I've heard enough from you, damn bigot. Goodbye.}
 {137}{}{Oh, yeah. Well, I guess that explains things, then. A lot of things. Heh, heh.}
 {138}{}{Now that we've straightened that out, let me ask you something else.}
@@ -56,7 +56,7 @@
 {144}{}{That's all I need to know for now. Goodbye.}
 {145}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lots of
  fighting going on there. If those families ever worked together on something, then New Reno'd really be
- a power to be reckoned with. The way it is though...Pffft. You want to get there, join up with Savinelli -
+ a power to be reckoned with. The way it is though... Pffft. You want to get there, join up with Savinelli -
  he leaves here on the 21st of each month.}
 {146}{}{What can you tell me about Vault City?}
 {147}{}{What can you tell me about the NCR?}
@@ -88,7 +88,7 @@
 {167}{}{Yeah, sure. Goodbye.}
 {168}{}{Well, whichever mine owner you give the chip to is gonna do real well with it. Well enough to
  put the other mine outta business.}
-{169}{}{And…?}
+{169}{}{And...?}
 {170}{}{That's called capitalism, my friend. Goodbye.}
 {171}{}{Well, if the mine you give the chip to happens to be the Kokoweef Mine, then we're gonna get a
  lot of those NCR pukes nosing around. If you give the chip to Dan McGrew over at the Morningstar, then 

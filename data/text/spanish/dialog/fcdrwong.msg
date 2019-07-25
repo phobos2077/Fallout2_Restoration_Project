@@ -71,7 +71,7 @@
 {203}{}{Hold on there. No one said I did this for free.}
 {204}{}{Correct. Nor did anyone ask you to retrieve the subject. You did that and brought it here of your own volition. Now the stolen subject has been returned to its rightful owners, and we thank you for it.}
 {205}{}{That's nice, but I found it, so if you want it back, then it's going to cost you.}
-{206}{}{I don't have time for this...Guards!}
+{206}{}{I don't have time for this... Guards!}
 {207}{}{[The man looks like he is about to yell, then calms down.] Fine. Here is $500. More than enough for something
  that always belonged to us. Now leave, I'm a busy man.}
 {208}{}{Pleasure doing business with you. Bye.}
@@ -85,7 +85,7 @@
 {241}{}{Oh, you must be smelling this body I found. I'm not really sure why I'm carrying it around, to be honest.}
 {242}{}{Huh-huh! [You pull out the decomposing corpse] Stinky body! U want?}
 {250}{}{Wait a second, that's the subject from the Xeno Project! My predecessor had much invested in this subject and was quite distressed when it went missing. Although he is now gone, we still may have some use for this subject. Thank you.}
-{251}{}{No, I do not want— Wait a second, that's the subject from the Xeno Project! My predecessor had much invested in . . . [He notices your blank stare.] Ahem. I mean, thank you for the body. Good job. Don't bring any more though. This is enough. Bye now!}
+{251}{}{No, I do not want-- Wait a second, that's the subject from the Xeno Project! My predecessor had much invested in . . . [He notices your blank stare.] Ahem. I mean, thank you for the body. Good job. Don't bring any more though. This is enough. Bye now!}
 {252}{}{Bye Bye!}
 {253}{}{Me hoard tings. Me hide it.}
 {300}{}{So what's the deal with this Dr. Sheng?}
@@ -113,15 +113,15 @@
 {380}{}{Dr. Sheng is still alive and he's created some kind of plant that takes root in and controls human corpses.}
 {390}{}{So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
 {391}{}{Yeah, some of them seem to be subservient. They even refer to him as 'master.'}
-{400}{}{Hmm… If he were to somehow establish an army of those plant-creatures, that would not bode well for the Shi. I was hoping it wouldn't come to this, but it seems we have no choice but to ensure that Dr. Sheng and his experiments are eliminated. Since he trusts you enough to allow you get close to him, you are the best candidate. Is that something you'd be willing to do? You would be compensated, of course.}
+{400}{}{Hmm... If he were to somehow establish an army of those plant-creatures, that would not bode well for the Shi. I was hoping it wouldn't come to this, but it seems we have no choice but to ensure that Dr. Sheng and his experiments are eliminated. Since he trusts you enough to allow you get close to him, you are the best candidate. Is that something you'd be willing to do? You would be compensated, of course.}
 {401}{}{It'd be a pleasure. The guy and his whole operation creeps me out.}
 {402}{}{What kind of compensation are we talking here?}
-{403}{}{Not interested. Dr. Sheng's your problem—you guys can deal with him.}
+{403}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
 {410}{}{The Shi will be most grateful for this service. Once Dr. Sheng and all of his creations have been eliminated, report back to me to receive your reward.}
 {411}{}{[HECHO]}
 {420}{}{I'll leave that up to you. We could grant you weapons, supplies, or money. You may decide once the task is complete.}
 {421}{}{All right. I'll do it.}
-{422}{}{Not interested. Dr. Sheng's your problem—you guys can deal with him.}
+{422}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
 {423}{}{All right. I'll do it. But before I go, Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {430}{}{Fair enough. We will handle the problem ourselves, but it will have to wait, as we don't have the resources to expend at the moment. Hopefully it won't be too late once we are able to act. In the meantime, if you should change your mind, please let me know.}
 {431}{}{Don't count on it. Bye.}
@@ -131,13 +131,13 @@
 {441}{}{Nope, I actually wanted to ask you about something else.}
 {442}{}{Alright, I'll take him out for you.}
 {443}{}{I'll do it, but for a price. You were talking about compensation before?}
-{450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind… Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}
-{451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind… Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
+{450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}
+{451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
 {452}{}{I'll take weapons.}
 {453}{}{I could always use more supplies.}
 {454}{}{Just give me money.}
 {455}{}{Keep your reward. I only did it because it was the right thing to do.}
-{460}{}{Here you go. [He hands various high powered weapons]}
+{460}{}{Here you go. [He hands you various high powered weapons]}
 {461}{}{[HECHO]}
 {470}{}{Here you go. [He hands you various supplies]}
 {471}{}{[HECHO]}

@@ -14,18 +14,18 @@
 {113}{}{You see an image of red, green, and blue, pinpoints of light combined to make a picture of something....}
 {114}{}{There's a hideous visage peering back at you. Oh, wait, this terminal is off.}
 {115}{}{This window peers into a dark dimension beyond space and time.}
-{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust. }
+{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
 {117}{}{This terminal seems to be an Apricot-brand terminal. It's running something called Fallout 3. Wow, it looks like it's multiplayer and 3D.}
 {118}{}{Enter User ID:}
 {119}{}{(Let me try this) List users.}
 {120}{}{(I wonder if this'll work?) Smith, J.}
 {121}{}{Voltar.}
 {123}{}{I think I better do this somewhere else.}
-{124}{}{Listing (the terminal displays a list of about 500 names)}
-{125}{}{Listing (the computer displays a list of names)}
+{124}{}{Listing (the terminal displays a list of about 500 names).}
+{125}{}{Listing (the computer displays a list of names).}
 {126}{}{Select User ID or Log Off:}
 {127}{}{(This one has okay access.) Smith, J.}
-{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override}
+{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
 {129}{}{(This has better than average access.) Murray, T.}
 {130}{}{(This one has good access.) Curling, Dr. C.}
 {131}{}{(This one looks as though it has really good access.) Bird, D.}
@@ -33,7 +33,7 @@
 {133}{}{Select: }
 {134}{}{A. E. C.: Atomic Power plant Operations, }
 {135}{}{Security Status?}
-{136}{}{Download A. E. C.: Atomic Power plant Operations}
+{136}{}{Download A. E. C.: Atomic Power plant Operations.}
 {137}{}{Security Status.}
 {138}{}{Return to User ID:}
 {139}{}{Select: }
@@ -42,8 +42,8 @@
 {142}{}{A. E. C.: Atomic Power plant Operations, }
 {143}{}{Security Status?}
 {144}{}{Security/Level: Current Status}
-{145}{}{Download Chemical Corps: Project Status Report}
-{146}{}{Download A. E. C.: Atomic Power plant Operations}
+{145}{}{Download Chemical Corps: Project Status Report.}
+{146}{}{Download A. E. C.: Atomic Power plant Operations.}
 {147}{}{Security Status.}
 {148}{}{Return to User ID:}
 {149}{}{Select: }
@@ -54,21 +54,21 @@
 {154}{}{A. E. C.: Atomic Power plant Operations, }
 {155}{}{Security Status?}
 {156}{}{State of the Nation: Current Status}
-{157}{}{Download Word List}
+{157}{}{Download Word List.}
 {158}{}{Security/Level: Current Status}
-{159}{}{Download Chemical Corps: Project Status Report}
-{160}{}{Download A. E. C.: Atomic Power plant Operations}
+{159}{}{Download Chemical Corps: Project Status Report.}
+{160}{}{Download A. E. C.: Atomic Power plant Operations.}
 {161}{}{Security Status}
 {162}{}{Return to User ID:}
 {163}{}{Select: Security Status?}
 {164}{}{Security Status}
-{165}{}{End Access}
+{165}{}{End Access.}
 {166}{}{Download failed - Security Status file missing.}
 {167}{}{State of the Nation: Current Status}
 {168}{}{Download Word List.}
 {169}{}{Security/Level: Current Status.}
-{170}{}{Download Chemical Corps: Project Status Report}
-{171}{}{Download A. E. C.: Atomic Power plant Operations}
+{170}{}{Download Chemical Corps: Project Status Report.}
+{171}{}{Download A. E. C.: Atomic Power plant Operations.}
 {172}{}{Return to User ID:}
 {173}{}{Download complete.}
 {174}{}{Download Word List.}
@@ -99,25 +99,25 @@
 {199}{}{Information and Power plant Level: Security turrets currently at Armed Alert status.}
 {200}{}{Information and Power plant Level: Security turrets currently at Normal status.}
 {201}{}{Information and Power plant Level: Security turrets currently at Deactivated Maintenance status.}
-{202}{}{Adjust security level}
+{202}{}{Adjust security level.}
 {203}{}{State of the Nation: Current status}
 {204}{}{Download Word List.}
-{205}{}{Download Chemical Corps: Project Status Report}
-{206}{}{Download A. E. C.: Atomic Power plant Operations}
+{205}{}{Download Chemical Corps: Project Status Report.}
+{206}{}{Download A. E. C.: Atomic Power plant Operations.}
 {207}{}{Security status.}
 {208}{}{Return to User ID:}
 {209}{}{Download complete.}
-{210}{}{Download State of the Nation: Current status}
+{210}{}{Download State of the Nation: Current status.}
 {211}{}{Download Word List.}
 {212}{}{Security/Level: Current Status}
-{213}{}{Download A. E. C.: Atomic Power plant Operations}
+{213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Security Status.}
 {216}{}{Return to User ID:}
 {217}{}{Download complete.}
-{218}{}{Download State of the Nation: Current status}
+{218}{}{Download State of the Nation: Current status.}
 {219}{}{Download Word List.}
 {220}{}{Security/Level: Current status}
-{221}{}{Download Chemical Corps: Project Status Report}
+{221}{}{Download Chemical Corps: Project Status Report.}
 {222}{}{Security status.}
 {223}{}{Return to User ID:}
 {224}{}{This terminal currently running deep diagnostic. Please try another terminal. Thank-you.}
@@ -147,21 +147,21 @@
 {248}{}{(That sounds like something good to try.) Activate Emergency Defensive Systems Shutdown.}
 {249}{}{(Hmm, maybe I'll try this some other time.) Back.}
 {250}{}{(I don't want to play with the computer any more right now.) Log off.}
-{251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated...Performing deep diagnostic. Alpha....Bravo....Charlie....}
+{251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated... Performing deep diagnostic. Alpha....Bravo....Charlie....}
 {252}{}{(For some strange reason, I don't think I want to do this right now.) Back.}
 {253}{}{(I better get moving, while this thing is still running that diagnostic). Log off.}
 {254}{}{Presidential Security Passkey not recognized. Access denied.}
 {255}{}{(Hmm, I wonder if I can fool the scanner into thinking I have the key by hacking into the access file. I think I'll try.)}
 {256}{}{(Oh well, it was worth a shot.) Back.}
-{257}{}{Security Passkey Scanner malfunction noted...Reinitializing scanner....}
-{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey....)}
-{259}{}{(Damn, well nothing ventured.....) Back.}
-{260}{}{Scanner reinitialized. Rescanning....}
+{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
+{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
+{259}{}{(Damn, well nothing ventured...) Back.}
+{260}{}{Scanner reinitialized. Rescanning...}
 {261}{}{(Here's the big moment.)-You type feverishly.}
-{262}{}{Illegal procedure detected. Further access to this terminal is denied...Maintenance alert sent.}
+{262}{}{Illegal procedure detected. Further access to this terminal is denied... Maintenance alert sent.}
 {263}{}{Damn. That's not what I wanted at all.}
 {264}{}{Presidential Security Passkey recognized. Good day, Mr. President. (Yes! Now let's see what I can do...)}
 {265}{}{(What else can I do?)}
-{266}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated...**Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
-{267}{}{(Hmm...Maybe it'll work once there's someone actually there. I'll have to give it a try later.) Return to User ID.}
+{266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
+{267}{}{(Hmm... Maybe it'll work once there's someone actually there. I'll have to give it a try later.) Return to User ID.}
 {268}{}{(I wonder what else I can try?) Back.}

@@ -1,5 +1,5 @@
 {100}{}{-Sollozo-}
-{101}{}{Jonny…}
+{101}{}{Jonny...}
 {102}{}{Sniff...}
 {103}{}{Echo de menos a mi hijo.}
 {110}{}{Por favor, encuentra a Jonny.}

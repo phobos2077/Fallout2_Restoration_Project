@@ -47,7 +47,7 @@
 {271}{}{Sim, você sabe o que era?}
 {272}{}{Eu acho que ele era um pássaro.}
 {273}{}{Não, um cachorro.}
-{274}{}{Mas estava voando cara.}
+{274}{}{But it was flying, man.}
 {275}{}{De jeito nenhum - aumentou o zoom no chão.}
 {276}{}{Sim, você está vendo coisas, cara.}
 {277}{}{De jeito nenhum. Isso foi real.}
@@ -98,7 +98,7 @@
 {406}{}{Não faz apenas a sua pele tremer?}
 {407}{}{Tubby tem o melhor fornecimento na cidade.}
 {408}{}{Eu me sinto tão vivo!}
-{420}{}{Você ouviu um estrondo alto?}
+{420}{}{Did you hear a loud bang?}
 {421}{}{Não vi Tubby há algum tempo.}
 {422}{}{Onde está Tubby?}
 {423}{}{Você viu Tubby?}

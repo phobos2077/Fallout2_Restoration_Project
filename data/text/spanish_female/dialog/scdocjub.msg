@@ -118,7 +118,7 @@
 {272}{}{ day, }
 {273}{}{and I'm not going to have the time to mix up another batch before then. I'm sure you can find a pharmacist with a lighter workload.}
 {274}{}{I see. Well, thanks anyway.}
-{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (glances at you again, shakes head, blows out cheeks) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
+{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
 {281}{}{Let's see... for starters, you should prob'ly stop doing... well, near to just about everything oughta cover it. No drinking, no smoking, no red meat, NO chems. Try to get a half-hour a day of MILD exercise. And take it easy. Life ain't a race, 'least not the kind where you want to be first to finish. Truth told, no one ever listens to this stuff, but at least I'll be able to rest easier tonight.}
 {282}{}{More important, you need to find you a half-decent chemist and tell 'em you need set up with a regular supply of Triproxinil. Tri-prox-i-nil. Wasteland stock ain't gonna be as fancy as what I got on the shelf there, but chemically, it's all the same once you get down to brass tacks. 30 milligrams, twice a day.}
 {283}{}{Now, you gotta be sure to drink plenty of water while you're on this stuff. And for criminy sakes, you stay *as far as you can* from those pecker pills like they got up in New Reno, understand? They don't play nice together. Fella takes one while he's on the other, his John Thomas ain't nearly the only part of him going stiff that day, if you follow.}
@@ -131,7 +131,7 @@
 {292}{}{girlie, }
 {293}{}{is that it? Don't. I am a trained and accredited NCR medical professional, and that's worth a lot more than that pocketful o' chump change.}
 {294}{}{My apologies. Obviously, a practitioner of your caliber rates a donation of no less than $250.}
-{295}{}{(hang head) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
+{295}{}{(Hang head.) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
 {296}{}{Sorry for the trouble. I think I'd better just go before I dig myself a bigger hole.}
 {300}{}{(Doc Jubilee begins to turn red.) I don't think you heard me the first time,}
 {301}{}{ boy, }
@@ -145,7 +145,7 @@
 {321}{}{ days, }
 {322}{}{ day, }
 {323}{}{and I'm just too busy to mix up another batch in time.}
-{324}{}{(Mutters to himself) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up)
+{324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
  Oh, sorry. What can I do for you today?}
 {325}{}{I couldn't help overhearing what you said about heart pills. I was actually going to ask you about such medicine.}
-{330}{}{(Mutters to himself) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills preciesly. (He looks up) Oh, sorry. What can I do for you today?}
+{330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}

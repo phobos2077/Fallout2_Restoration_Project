@@ -9,13 +9,13 @@
 {108}{}{No, genius, I've been living here all along and you never noticed me.}
 {109}{}{Heard you're having a little trouble with the mine.}
 {110}{}{O que você pode me dizer sobre este lugar?}
-{111}{}{Ummm… riiiight. Tell you what. Here's a couple of dollars. Head on down to the saloon and get
+{111}{}{Ummm... riiiight. Tell you what. Here's a couple of dollars. Head on down to the saloon and get
  yourself something to drink.}
 {112}{}{Yagga? Ogg? Gronk!}
 {113}{}{Can't understand you, pal. Why not head on down to the saloon? Hell, maybe Francis will
  arm-wrestle with you.}
 {114}{}{Wessle? O-KAY!}
-{115}{}{Right. Well, I'm Zaius. Now that we're introduced… You any good with your hands? We've got a
+{115}{}{Right. Well, I'm Zaius. Now that we're introduced... You any good with your hands? We've got a
  problem with our air purifier on the lower level of the mine, but we haven't got the parts to fix it
  or the protective gear to avoid being overwhelmed by the radon gas that's been building up.}
 {116}{}{I'm not too good. Sorry.}
@@ -36,10 +36,10 @@
 {129}{}{Ork! Ooo! Ug ug!}
 {130}{}{Hi! HIIIII! Me (name)!}
 {131}{}{Pal, I already gave you some money. Go bother someone else, eh?}
-{132}{}{Hi again. Why not go check out… umm… the bank in town? I'm sure there are plenty people there
+{132}{}{Hi again. Why not go check out... umm... the bank in town? I'm sure there are plenty people there
  who'd love to talk to you.}
 {133}{}{Well, if you ever happen to think of a way, let me know.}
-{134}{}{Really? Would you do it for me… and, more importantly, for Broken Hills?}
+{134}{}{Really? Would you do it for me... and, more importantly, for Broken Hills?}
 {135}{}{O quê tem pra mim?}
 {136}{}{Com certeza, eu vou fazer.}
 {137}{}{Não agora.}
@@ -80,9 +80,9 @@
 {162}{}{Hi, friend!}
 {163}{}{Oh, good. It's you again.}
 {164}{}{Howdy.}
-{165}{}{Y'know, I knew those bastards Franc, Manson, Jacob, and Aileen had it out for us. Well done! So…}
-{166}{}{I hope you've given some thought to giving the ore back to the town… so…}
-{167}{}{Thanks for selling the ore. It's not like we couldn't use it or anything. So…}
+{165}{}{Y'know, I knew those bastards Franc, Manson, Jacob, and Aileen had it out for us. Well done! So...}
+{166}{}{I hope you've given some thought to giving the ore back to the town... so...}
+{167}{}{Thanks for selling the ore. It's not like we couldn't use it or anything. So...}
 {168}{}{Thanks so much for returning that ore. You don't know how hard we work for that stuff.}
 {169}{}{What do you want now?}
 {170}{}{Can you tell me about the town?}
@@ -94,23 +94,23 @@
 {176}{}{Com certeza, eu vou fazer.}
 {177}{}{Não agora.}
 {178}{}{Não.}
-{179}{}{How's it coming? I hope you're going to take care of this soon…}
+{179}{}{How's it coming? I hope you're going to take care of this soon...}
 {180}{}{It's coming along all right.}
 {181}{}{I'm a busy man. I haven't gotten around to it yet.}
 {182}{}{I should be able to let you know soon.}
-{183}{}{You've got the parts? Great… I hope you've got some protective gear. The fumes can take you down.}
+{183}{}{You've got the parts? Great... I hope you've got some protective gear. The fumes can take you down.}
 {184}{}{I'm ready to go.}
 {185}{}{I'll be going soon.}
-{186}{}{You've got the parts? Great… I hope you've got some protective gear. The fumes can take you down.}
+{186}{}{You've got the parts? Great... I hope you've got some protective gear. The fumes can take you down.}
 {187}{}{I'm ready to go.}
 {188}{}{I'll be going soon.}
-{189}{}{You've fixed it? Excellent! Say, I know you were doing this for free, but… I couldn't let you
+{189}{}{You've fixed it? Excellent! Say, I know you were doing this for free, but... I couldn't let you
  do that. So me and the guys got together and got you this. It's a combat shotgun. Good luck. And
  thank you.}
 {190}{}{No problem. Thanks!}
 {191}{}{You've fixed it? Excellent! As agreed, here's the remainder of what we owe you. Thank you again.}
 {192}{}{You bastard. You're going to die now.}
-{193}{}{Good, good. Please hurry, though… our town needs what we get out of here.}
+{193}{}{Good, good. Please hurry, though... our town needs what we get out of here.}
 {194}{}{Sure thing. See ya.}
 {195}{}{Don't rush me. I'm a busy man. Jerk.}
 {196}{}{Well, I'm sorry, Mr. High and Mighty, but I think that the town's survival might be a little
@@ -123,12 +123,12 @@
  greeter for the town.}
 {202}{}{Hmm. All right, thanks.}
 {203}{}{I'll go ask them, then.}
-{204}{}{I'd have to say they're all right. Still… they could always be better.}
+{204}{}{I'd have to say they're all right. Still... they could always be better.}
 {205}{}{Heh. Thanks for all the information.}
-{206}{}{Well, as the mutants are not only getting old and senile -– the gas keeps them young, or
- something -– I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
+{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
+ something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
  far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here… now those are some bastards.}
+ from the other places around here... now those are some bastards.}
 {207}{}{All right, thanks. Bye.}
 {300}{}{. How's that sound?}
 {301}{}{. How's that sound?}

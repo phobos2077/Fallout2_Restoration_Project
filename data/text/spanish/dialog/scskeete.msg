@@ -5,7 +5,7 @@
 {104}{}{Soy el gorrilla, amigo. Vigilo los coches: 5 dólares. Nadie los toca, porque Doofus está ojo avizor.}
 {105}{}{Sí, claro, amigo.}
 {106}{}{Entonces, amigo, ¿quieres mi protección?}
-{107}{}{Bien. Hazlo.}
+{107}{}{Good. Do.}
 {108}{}{No. No lo toques.}
 {109}{}{¡No soy tu amigo!}
 {110}{}{¿Qué es este lugar?}
@@ -48,7 +48,7 @@
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{Vale: obedecer al gigante, amigo. Es como se supone que deben ser las cosas. ¿Qué debo hacer, gigante?}
+{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
 {151}{}{Amigo, eso es un tanto... Gigante, soy Doofus y soy un gorrilla y se supone que vigilo los coches que la gente trae aquí, pero, ya sabes, tengo esta... necesidad, verás, y a veces necesito un poco de dinero extra y algo de material, ¿lo pillas?}
 {152}{}{Sí, claro. Como a veces ando un poco corto y tengo mis necesidades, entiendes, como cuando comienzo a sentirme enfermo, entonces necesito conseguir algunas fichas o algo, y entonces voy a hablar con Merk.}
 {153}{}{Amigo, Merk es el hombre. Tiene lo que uno necesita. A veces me deja dormir en el Rawhide cuando cierra. Pero después me pide que le haga pequeños favores.}
@@ -66,8 +66,8 @@
 {165}{}{Eso está bien, amigo. Ve a ver a Merk. Siempre tiene cosas que hay que hacer.}
 {166}{}{¡Marcho adiós!}
 {167}{}{¡Oh, amigo, lo has echado a perder! Merk no va a estar contento cuando se entere de esto.}
-{168}{}{Adiós, colgado.}
-{169}{}{¡Vale! Verás, fue la gente de Merk. Se levantaron varios coches ayer por la noche. Pregunta por ahí y los encontrarás.}
+{168}{}{Goodbye, dope-head.}
+{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
 {170}{}{Tú me mientes, yo te mato.}
 {171}{}{No me mientas. Volveré si lo haces.}
 {172}{}{Claro. Me tienes miedo.}

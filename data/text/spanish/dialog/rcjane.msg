@@ -5,7 +5,7 @@
 {104}{}{Oooh. Peluche.}
 {105}{}{Peluche bonito.}
 {106}{}{Ah, ya veo. Debes de ser nuevo en la ciudad. Vale, te diré qué haremos. Te haré una apuesta especial durante los combates de mañana. ¿Quieres que lo haga por ti?}
-{107}{}{(Asientes) Ook, ook (y echas mano a tu cartera).}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Mook? Gaga. Adiós peludo.}
 {109}{}{Buena idea. Vuelve por aquí mañana y si tu bicho ganó la pelea, te daremos tu dinero. ¿De acuerdo?}
 {110}{}{De acuerdo, buena decisión. Me aseguraré de que que sea una apuesta muy especial. Nos vemos más tarde.}

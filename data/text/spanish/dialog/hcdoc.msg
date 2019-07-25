@@ -100,10 +100,10 @@
 {196}{}{Tengo otras preguntas.}
 {197}{}{Gracias. Hasta otra.}
 {198}{}{¿Estás herido? Déjame apañarte eso.}
-{199}{}{Umm…}
+{199}{}{Umm...}
 {200}{}{Gracias. ¡Hasta luego!}
 {201}{}{¿Hay alguien herido? Oh, poneos en fila y me haré cargo de todos vosotros.}
-{202}{}{Una cosa más…}
+{202}{}{One more thing...}
 {203}{}{¡Gracias! ¡Adiós!}
 {204}{}{Sorprendentemente poco. Lo siento, pero cuando estoy concentrado en curar a alguien, no suelo prestar atención a sus mas íntimos secretos.}
 {205}{}{Oh. ¿Me responderás a más preguntas?}

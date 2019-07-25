@@ -23,7 +23,7 @@
 {122}{}{Yeah, you betcha.}
 {123}{}{Let it ride.}
 {124}{}{I'm going to double-up next time.}
-{125}{}{Go baby, go baby…}
+{125}{}{Go baby, go baby...}
 {126}{}{There goes my house.}
 {127}{}{There goes my land.}
 {128}{}{I just need a little more credit.}

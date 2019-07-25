@@ -5,7 +5,7 @@
 {104}{}{Hay que joderse. Supongo que la evolución puede ir hacia atrás.}
 {105}{}{No llevas a todos tus perros con una sola correa, ¿verdad?}
 {106}{}{No tengo tiempo para ti. Creo que tienes menos luces que una cacerola.}
-{107}{}{Un par de payasos buscando un circo, ¿eh?}
+{107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Hola. Me llamo Dañino Dan McGrew. Dirijo la mina Morningstar. ¿Qué puedo hacer
  por ti?}
 {109}{}{¿Qué necesitas de mí?}

@@ -45,7 +45,7 @@
 {283}{}{Oye, el, eh, "estilo de Jimmy J" suena genial y todo eso, y es por eso que tenía unas preg--}
 {284}{}{No, no creo que -}
 {290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that be the WAY? Keep 'em happy, and they'll never let you down. So
- my pilot friend…what can Jagged Jimmy J do for you today?}
+ my pilot friend... what can Jagged Jimmy J do for you today?}
 {291}{}{Vaya, vaya, si es mi "amigo" piloto… ¿vuelves porque NECESITAS algo de Jeta Jimmy?}
 {292}{}{Um... olvidado lo que quería decir. Marcho.}
 {294}{}{¿Negocios con material? Yo GUSTA material.}
@@ -80,7 +80,7 @@
  Diablos, ¿qué puedo hacer por ti?}
 {361}{}{Um... olvido yo. Marcho.}
 {363}{}{Bueno, buscaba algo de Jet…}
-{364}{}{Oye, quería algo más…}
+{364}{}{Hey, I wanted something else...}
 {365}{}{Tengo que irme. Te veré más tarde, Jimmy.}
 {375}{}{(Jimmy cae en un profundo silencio. Crees que le has paralizado el cerebro).}
 {376}{}{(Robas todo lo que tiene).}
@@ -135,11 +135,11 @@
  Familia Mordino.}
 {501}{}{Bien, solía obtenerla del amigo Myron, antes de que se volviera demasiado engreído y dejase el negocio… ¿no es cierto, Myron? ¡Ja!
  Ahora paso en su mayor parte mierda de Mordino.}
-{502}{}{Interesante. Tengo algunas otras preguntas…}
+{502}{}{Interesante. Tenía algunas preguntas más...}
 {510}{}{YO tengo contactos con el CREADOR, mi amigo piloto. Consigo mi Jet directamente del cerebrito, el dios viviente de los compuestos químicos,
  MYRON.}
 {511}{}{¿Myron?}
-{512}{}{Interesante. Verás, tengo algunas otras preguntas…}
+{512}{}{Interesting. Say, I had some other questions...}
 {513}{}{Myron, ¿eh? ¿Dónde puede encontrar a este… dios viviente?}
 {514}{}{¿En serio? Bueno, me aseguraré de volver y comprar algo más tarde. Gracias, Jimmy.}
 {520}{}{Es el niño mimado de la Familia Mordino. Él INVENTÓ el Jet. Comprar a Jeta Jimmy es como comprar al propio Myron, ¿entiendes? Es por eso
@@ -155,7 +155,7 @@
 {540}{}{Guardias, guardias, y más guardias. Además, la más avanzada seguridad electrónica en Nuevo Reno. Tendrías suerte si llegases siquiera a OÍR
  de alguien que ha visto a Myron, mira si está bien protegido.}
 {541}{}{Bien protegido, ¿eh? ¿Dónde, exactamente?}
-{543}{}{Ya veo. Oye, tenía algunas preguntas más…}
+{543}{}{I see. Say, I had some other questions...}
 {550}{}{Lo tienen metido en ese sitio llamado "Establo", al norte, fuera de los límites de la ciudad. Sólo estuve una vez
  allí... y no me dejaron pasar de la puerta, ¡y eso que TRABAJO para la Familia.}
 {551}{}{Venga, debe haber algún modo en que pueda verle.}
@@ -167,7 +167,7 @@
 {564}{}{De acuerdo entonces. Gracias, Jimmy. Tengo que irme.}
 {570}{}{Bueno, es es una… historia… completamente distinta, mi amigo piloto. Oh sí, desde luego.}
 {571}{}{Creo que esa es una historia que quiero escuchar. Venga, Jimmy…}
-{572}{}{No importa. Tenía algunas otras preguntas…}
+{572}{}{No importa. Tenía algunas otras preguntas...}
 {573}{}{No creo que tenga tiempo para esa historia, Jimmy. He de irme.}
 {580}{}{Verás, a Myron le cuidan muy bien… los Mordino le dan a su 'sustento' lo MEJOR de Nuevo Reno.}
 {581}{}{Y con eso, ¿te refieres a…?}
@@ -179,7 +179,7 @@
 {600}{}{(Se encoge de hombros). Uno de los muchachos de Mordino va a La Garra de la Gata, calle abajo, eso he oído, y elige una para Myron de entre el grupo de
   Miss Kitty… (Jimmy deja de hablar de repente. Te mira fijamente y frunce el ceño). Espera un momento...}
 {601}{}{¿Qué sucede?}
-{602}{}{Uh… no importa. Oye, tenía algunas otras preguntas…}
+{602}{}{Uh... nevermind. Say, I had some other questions...}
 {603}{}{Eh, bien, gracias por la información, Jimmy.}
 {610}{}{¿Por qué quieres saber una gilipollez así? Tengo Jet, eso es todo lo que NECESITAS saber. No necesitas saber nada sobre Myron,
  lo que tuvo para cenar, o lo que hace antes de irse a dormir.}
@@ -187,7 +187,7 @@
  Quieres ir directa a la fuente del Jet, ¿verdad, hermana?}
 {612}{}{No ahora mismo. Veamos lo que tienes, Jimmy.}
 {613}{}{Olvídalo, entonces. Negociemos.}
-{614}{}{No importa entonces. Tenía algunas preguntas más…}
+{614}{}{Nevermind then. I had some other questions...}
 {615}{}{Quizá. Oye, tenía algunas otras preguntas…}
 {616}{}{No, sólo era curiosidad. Gracias, Jimmy. Tengo que irme.}
 {617}{}{De acuerdo entonces. Nos vemos, Jimmy. He de irme.}
@@ -196,7 +196,7 @@
 {626}{}{Entendido. ¿Vamos a negociar?}
 {627}{}{¿Sabes algo sobre esta botellita vacía de Jet?}
 {628}{}{No creo que el chico muriera por el Jet. Creo que lo envenenaron.}
-{629}{}{Tenía algunas preguntas más…}
+{629}{}{Tenía algunas preguntas más...}
 {635}{}{Ah, así que AHORA me sales con esas, ¿verdad? Quieres saber si el viejo Jimmy tiene algo que ver con eso, ¡¿eh?!}
 {636}{}{No, simplemente preguntaba --}
 {637}{}{Está bien, eso no importa. ¿Negociamos?}
@@ -218,17 +218,17 @@
 {675}{}{(Coge la botella y la estudia). Qué va, yo... (la olfatea, y frunce el ceño). Jo-der. Este Jet tiene veneno de escorpión rad.
  Quienquiera que se tomase esto ya no pertenece a este mundo... (te devuelve la botella).}
 {676}{}{¿Está envenenado?}
-{677}{}{Hmmm. Tenía algunas preguntas más…}
+{677}{}{Hmmm. Tenía algunas preguntas más...}
 {678}{}{Ya veo. Gracias.}
 {685}{}{¡Demonios, sí! Ten cuidado en esta ciudad con toda la mierda que pasa a su alrededor... eso es lo que Jimmy dice siempre...}
 {686}{}{¿Alguna idea de dónde podría haber salido?}
 {695}{}{No, ni idea... mira, ahora no vayas diciendo por aquí que eso es mío... si yo fuera tú, le preguntaría a Jules y a Renesco
  sobre ello... pero esto no me lo has oído decir a mí, ¿de acuerdo?}
-{696}{}{De acuerdo entonces. Tenía algunas otras preguntas…}
+{696}{}{De acuerdo entonces. Tenía algunas otras preguntas...}
 {697}{}{Renesco y Jules, ¿eh? Les preguntaré sobre ello. Gracias por el consejo.}
 {705}{}{No me sorprende nada.}
 {706}{}{¿Qué estás diciendo?}
-{707}{}{Ya veo. Tenía algunas preguntas más…}
+{707}{}{Ya veo. Tenías algunas preguntas más...}
 {708}{}{No importa, entonces.}
 {715}{}{Claro, él DIRÍA eso, porque el lo sabe TODO sobre ese particular.}
 {716}{}{¿Qué quieres decir?}

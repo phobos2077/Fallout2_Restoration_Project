@@ -398,9 +398,9 @@
 {20700}{}{Old Mattress}
 {20701}{}{Even if you were to sleep by yourself on this thing, you would not be sleeping alone.}
 {20800}{}{Bed}
-{20801}{}{A make-shift bed. The material was scavenged from some other source.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Bed}
-{20901}{}{A make-shift bed. The material was scavenged from some other source.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Bed}
 {21001}{}{This bed has seen better days (and probably nights, too.)}
 {21100}{}{Bed}
@@ -2604,12 +2604,12 @@
 {169400}{}{Shadow}
 {169500}{}{Shadow}
 {169600}{}{Shadow}
-{169700}{}{Crashed Vertibird}
-{169800}{}{Crashed Vertibird}
-{169900}{}{Crashed Vertibird}
-{170000}{}{Crashed Vertibird}
-{170100}{}{Crashed Vertibird}
-{170200}{}{Crashed Vertibird}
+{169700}{}{Strange machine, crashed}
+{169800}{}{Strange machine, crashed}
+{169900}{}{Strange machine, crashed}
+{170000}{}{Strange machine, crashed}
+{170100}{}{Strange machine, crashed}
+{170200}{}{Strange machine, crashed}
 {170300}{}{Shadow}
 {170400}{}{Shadow}
 {170500}{}{Shadow}
@@ -2944,7 +2944,7 @@
 {194700}{}{Monitor}
 {194701}{}{A large monitor, black and white only. This one has a dignified, but simple looking man rambling on.}
 {194800}{}{Monitor}
-{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle .}
+{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Shadow}

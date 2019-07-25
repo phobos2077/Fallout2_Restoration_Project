@@ -35,7 +35,7 @@
 {409}{}{Guard Grisham's brahmin.}
 {500}{}{Get a plow for Mr. Smith.}
 {501}{}{Deliver Moore's briefcase to Mr. Bishop in New Reno.}
-{502}{}{Deliver a sample of jet to Dr. Troy.}
+{502}{}{Deliver a sample of Jet to Dr. Troy.}
 {503}{}{Solve the Gecko powerplant problem.}
 {504}{}{Deliver Lynette's holodisk to Westin in NCR.}
 {505}{}{Rescue Amanda's husband, Joshua.}

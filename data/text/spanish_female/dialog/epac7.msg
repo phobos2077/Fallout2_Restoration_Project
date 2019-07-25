@@ -37,7 +37,7 @@
  after visiting our petting zoo.}
 {311}{}{Alright. I'll see what I can do.}
 {312}{}{Nevermind. I'm not interested.}
-{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all wavers must be signed before the end of the tour.}
+{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
 {321}{}{Don't worry. I'm working on it.}
 {322}{}{I'll get around to it.}
 {330}{}{We'd have more visitors if the grounds were clean.}

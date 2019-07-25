@@ -110,6 +110,6 @@
 {2900}{}{Eu preciso colocar roupas primeiro. [Olhando ao redor, Cat pega um armário, abre e olha para dentro.]
   Estes realmente não são o meu estilo, mas acho que eles vão servir. [Ele rapidamente coloca a roupa.] Tudo bem, eu estou bem para ir.}
 {2901}{}{[FIM]}
-{5000}{}{[O homem ergue-se e se seca como um animal molhado. Enquanto ele olha para você, seus olhos de repente ficam muito abertos e ele começa a ofegar pelo ar.}
+{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
 {5001}{}{[FIM]}
 {5002}{}{Puta merda!}

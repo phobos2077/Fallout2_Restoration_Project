@@ -34,7 +34,7 @@
  additional power.}
 {181}{}{Vault City can't expand?}
 {182}{}{A very reliable source? Who?}
-{190}{}{Vault City, you see, has enough power for their current needs -— as long as they're careful. But
+{190}{}{Vault City, you see, has enough power for their current needs -- as long as they're careful. But
  the Vault power plant that they use was never designed for the increased load their city is putting on
  it. It's at peak capacity right now. Without more power, they can't expand.}
 {191}{}{I don't see how that helps you.}
@@ -69,7 +69,7 @@
 {270}{}{Por que não?}
 {271}{}{I just don't buy your idea that greed is good. I bet you'd just sell off portions of whatever
  you were supposed to administer and take off with the money. Goodbye.}
-{272}{}{Because you left out the most important part of your plan. A partner -— namely, me.}
+{272}{}{Because you left out the most important part of your plan. A partner -- namely, me.}
 {280}{}{Well, I have all the relevant economic data on a disk. You may have it, if you promise to show
  the data to someone in Vault City that can understand and make use of the data it contains. But be
  discreet with it... not everyone there will be happy you talked to us ghouls.}
@@ -77,7 +77,7 @@
 {282}{}{Okay, I'll take the disk. I'm sure that I can put it into the right hands. Goodbye.}
 {290}{}{Humph, I don't need your help. You're just a tribal.}
 {291}{}{Well, I guess not all the bigots live in Vault City, do they, Gordie old boy? Goodbye.}
-{300}{}{Our atomic power plant is still barely operational. You must not have taken the information to
+{300}{}{Our atomic power plant is still barely operational. You must not take the information to
  Vault City yet.}
 {301}{}{I don't think they'd be very receptive to ghoul data in Vault City.}
 {302}{}{No, I haven't yet... but I will. Goodbye.}
@@ -116,7 +116,7 @@
 {380}{}{Here it is, but don't let the wrong person know that you have it. Give it only to Councilman
  McClure in Vault City.}
 {381}{}{Yes, of course. Uh, Renew, brother.}
-{382}{}{I'm not bringing any ghoul disk into Vault City -— they'd put my head on a stick for that.
+{382}{}{I'm not bringing any ghoul disk into Vault City -- they'd put my head on a stick for that.
  Goodbye.}
 {390}{}{It's the economic data disk that proves that Gecko and Vault City must both work together in
  order for either of us to survive. Are all of you smoothskins such smallbrains?}

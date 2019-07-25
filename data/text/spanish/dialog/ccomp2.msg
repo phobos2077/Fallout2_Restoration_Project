@@ -26,9 +26,9 @@
 {125}{}{"Caramelito" es el mote que le he puesto a mi novia. A mí me parece mono. A propósito, es aquella del pasillo. Es una de los guardias.}
 {126}{}{De acuerdo, bien. Gracias.}
 {127}{}{Sí... muy mono. Gracias.}
-{128}{}{No llevas uniforme.}
+{128}{}{No llevas el uniforme.}
 {129}{}{Será mejor que te equipes. La armería está por el pasillo a la izquierda.}
-{130}{}{Te la estas jugando al no llevar uniforme. Será mejor que te presentes en Intendencia.}
+{130}{}{Te la estás jugando al no llevar el uniforme. Será mejor que te presentes ante Intendencia.}
 {131}{}{¿Quién demonios sois vosotros... ¡Alerta! ¡Intrusos!}
 {132}{}{¡Hemos sufrido una infiltración! ¡Alerta!}
 {133}{}{¡Múltiples intrusos! ¡Dad la alarma!}

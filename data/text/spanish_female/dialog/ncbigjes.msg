@@ -13,14 +13,14 @@
 {231}{}{...Dios mío...}
 {232}{}{...mi corazón...}
 {233}{}{hurrkkkk}
-{240}{}{(El hombre se gira para mirarte. Parece tener fiebre: gotas de sudor caen por su cara y manchan su ropa. }
-{241}{}{Te ignora y clava su mirada en Myron; parece que esté esperando a que Myron hable).}
-{242}{}{Te mira atentamente; parece que esté esperando a que hables).}
-{243}{}{Le devuelves la mirada de forma humilde.}
-{244}{}{Le devuelves la mirada con manso desinterés.}
-{245}{}{Le devuelves la mirada de forma burlona.}
-{246}{}{Le devuelves la mirada con afectado desinterés.}
-{247}{}{Te alejas}
+{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes.}
+{241}{}{(He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
+{242}{}{(He's staring at you; it looks like he's waiting for you to speak.)}
+{243}{}{[Stare back at him with your meanest stare.]}
+{244}{}{[Stare back at him with mild disinterest.]}
+{245}{}{[Stare back at him with a sneering gaze.]}
+{246}{}{[Stare back at him with affected disinterest.]}
+{247}{}{[Te alejas]}
 {248}{}{¿Quién eres?}
 {249}{}{¿Eres Jesús Mordino?}
 {250}{}{Lo siento. He entrado en la estancia equivocada.}
@@ -129,11 +129,11 @@
 {460}{}{Dirígete al norte de la calle Virgin, pasados los casinos... sigue la senda que conduce al exterior de la ciudad. Llegarás... al
  Establo. Vete ahora.}
 {461}{}{(Sigues sus indicaciones...)}
-{470}{}{¿Has… hecho lo que te pedí?}
+{470}{}{Have... you done as I asked?}
 {471}{}{No, aún no he entregado el paquete.}
 {472}{}{Sí, le entregué a Ramirez lo que usted pidió.}
 {473}{}{Sí, he estado en el Establo y he tirado su paquete… ¿sabe lo que están HACIENDO allí? Están torturando a esclavos con drogas.}
-{474}{}{Sí, le entregué su paquete a ese guardia, Ramirez… ¿sabe que ese tipo está colgado por el Jet? APESTABA a vapor de Jet.}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Entonces... ¿por qué estás aquí? (Gran Jesús se seca la frente, y luego respira profundamente) ¿POR QUÉ no entregaste el paquete?}
 {481}{}{Bueno, primero tenía ciertas preguntas...}
 {482}{}{Voy a hacerlo ahora mismo.}
@@ -251,7 +251,7 @@
 {752}{}{Lo haré. Gracias, Señor Mordino.}
 {760}{}{El calor no… me conviene. Mi respiración es… difícil a veces. En momentos de presión o actividad
  física, me canso con rapidez. A veces, tengo dolores en el pecho.}
-{761}{}{Vaya. Bueno, entonces es bueno que no tome metanfetaminas o estimulantes. Tenía algunas preguntas más...}
+{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
 {762}{}{Ya veo. Será mejor que me vaya ahora.}
 {770}{}{No te conozco... vienes a mí... sin nada que decir que tenga... peso. (Se seca la frente, luego toma
  una profunda y ruidosa bocanada de aire) NO tengo trabajo para ti.}

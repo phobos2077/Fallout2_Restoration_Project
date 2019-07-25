@@ -17,12 +17,12 @@
 {173}{}{Why you sneaking around? Somebody chasing you?}
 {180}{}{Well, if it isn't }
 {181}{}{You LOST, pal? You better get out of here.}
-{182}{}{This guy's asking for trouble…}
+{182}{}{This guy's asking for trouble...}
 {183}{}{Get out of here. Now.}
 {184}{}{Unless you're looking for trouble, you better leave right now.}
 {185}{}{Well, if it isn't }
 {186}{}{You LOST, girl? You better get out of here.}
-{187}{}{This chick's asking for trouble…}
+{187}{}{This chick's asking for trouble...}
 {195}{}{No weapons allowed in here.}
 {196}{}{Put that weapon away.}
 {200}{}{Miss, I'm afraid I'll have to ask you to put that weapon away.}
@@ -88,7 +88,7 @@
 {305}{}{Something I can do for you?}
 {306}{}{This ain't the porn studio, lover-boy.}
 {307}{}{Take your business elsewhere, lover-boy.}
-{310}{}{I'm really sorry…really…but I haven't got time to talk right now. Stop by after work
+{310}{}{I'm really sorry... really... but I haven't got time to talk right now. Stop by after work
  if you're free then.}
 {311}{}{Breaks my heart, but I really can't talk right now.}
 {312}{}{C'mon now, you're distracting me, sweetheart.}
@@ -126,7 +126,7 @@
 {380}{}{That ghoul better leave right NOW.}
 {381}{}{If that ghoul's still here when I turn around, we'll burn it.}
 {382}{}{That ghoul's asking to be a torch if it sticks around.}
-{1180}{}{. His name's gonna be corpse if he doesn't get out of here…}
-{1185}{}{. Her name's gonna be corpse if she doesn't get out of here…}
+{1180}{}{. His name's gonna be corpse if he doesn't get out of here...}
+{1185}{}{. Her name's gonna be corpse if she doesn't get out of here...}
 {1278}{}{, but you better take it elsewhere.}
 {1279}{}{, but I'd take it somewhere else.}

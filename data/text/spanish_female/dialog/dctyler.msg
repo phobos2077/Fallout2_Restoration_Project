@@ -51,7 +51,7 @@
 {310}{}{Lárgate.}
 {320}{}{Qué bien. Yo Tyler. Yo marcho. Adiós, adiós.}
 {321}{}{Ur.}
-{322}{}{Uh…}
+{322}{}{Uh...}
 {330}{}{Lárgate, bicho raro.}
 {331}{}{¡Sukyu!}
 {332}{}{¡Arug!}

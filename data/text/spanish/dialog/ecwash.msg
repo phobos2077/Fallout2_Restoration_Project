@@ -47,7 +47,7 @@
 {301}{}{¡Destruid al Spammer!}
 {302}{}{¡Muerte al Spammer!}
 {303}{}{¡Esto es por amenazar las vidas de nuestra gente!}
-{304}{}{Ahora morirás, asesino de Grim.}
+{304}{}{Now you will die, Grim Reaper.}
 {305}{}{¡Vas a volver a las 'antípodas'!}
 {306}{}{La genética necesita un poco de cloro.}
 {307}{}{¡Hora de la venganza!}
@@ -60,14 +60,14 @@
 {314}{}{¡Proteged al Elegido de las idioteces del Spammer!}
 {315}{}{¡Elegido! ¡Únete a nosotros!}
 {316}{}{¡VENGANZA DE LOS SUCIOS!}
-{317}{}{Nunca serás un Sucio, ¡crío estúpido!}
+{317}{}{You will never be 'Unwashed', childish fool!}
 {318}{}{¡No tienes una sola oportunidad!}
 {319}{}{¡Todavía no hemos acabado!}
 {320}{}{He estado esperando este día durante mucho tiempo.}
 {400}{}{¡Esto es por amenazarme!}
-{401}{}{¡Claro que estoy segura! No le harías daño a una chica, ¿no?}
+{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
 {402}{}{'La venganza es un plato que se sirve mejor frío'.}
-{403}{}{Soy Buffy... tu heroína.}
+{403}{}{I'm Buffy... you're toast.}
 {405}{}{¡Nadie amenaza a Doombot!}
 {406}{}{¡Asesino de Grim!}
 {410}{}{Solo una guanábana podría compararse con el sabor de la victoria...}

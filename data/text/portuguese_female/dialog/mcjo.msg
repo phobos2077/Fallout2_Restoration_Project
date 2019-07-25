@@ -4,7 +4,7 @@
 {104}{}{You see Sheriff Jo.}
 {105}{}{You see Mayor Jo.}
 {106}{}{You see Justice of the Peace Jo.}
-{150}{}{We killed everyone. Even the children… [sob]}
+{150}{}{We killed everyone. Even the children... [sob]}
 {151}{}{Meet us at the Ghost Farm. We attack immediately.}
 {152}{}{Thank you for saving the residents of Modoc.}
 {153}{}{O que você está fazendo?}
@@ -42,13 +42,13 @@
 {188}{}{Our only business is that you will tell me where the holy GECK is located before something bad
  happens.}
 {189}{}{What do you want for this information?}
-{190}{}{Ah yes, what I want… If you hadn't noticed yet, our little farming community is experiencing one
+{190}{}{Ah yes, what I want... If you hadn't noticed yet, our little farming community is experiencing one
  of its worst droughts ever. The rainy season was unusually short this year, and our crops are dead or
  dying from lack of water. To put it bluntly, our community is on the verge of withering away with our
  crops.}
-{191}{}{Umm… You do know I can't make it rain, right?!?}
-{192}{}{[He chuckles softly] No, no… of course not. I wouldn't ask you to do something as impossible as
- that. You really can't make it rain, can you… No, of course you can't! Anyway, like I was say'en, we're
+{191}{}{Umm... You do know I can't make it rain, right?!?}
+{192}{}{[He chuckles softly] No, no... of course not. I wouldn't ask you to do something as impossible as
+ that. You really can't make it rain, can you... No, of course you can't! Anyway, like I was say'en, we're
  in trouble and we could use your help.}
 {193}{}{OK, I'm listening.}
 {194}{}{There's this farm at the outskirts of town, where no farm should be. Some years back it just
@@ -61,7 +61,7 @@
 {198}{}{After many months of trying to contact the owners with no success, it was decided that the farm
  must have been abandoned soon after it was built. So instead of letting the crops rot in the fields,
  young Karl moved in.}
-{199}{}{Hmm… }
+{199}{}{Hmm... }
 {200}{}{That's when things got bad. Karl started to tell stories of seeing strange glowing figures
  tending the crops and feeding the animals at night. We all laughed at him, thinking he was making up
  stories. Then one day Karl stopped coming into town.}
@@ -104,7 +104,7 @@
  GECK. You interested?}
 {225}{}{[You nod your head up and down.]}
 {226}{}{[You swing your head left to right.]}
-{227}{}{Fantastic! There's this Ghost… er, farm at the edge of town. It's about a day's walk northeast of
+{227}{}{Fantastic! There's this Ghost... er, farm at the edge of town. It's about a day's walk northeast of
  here. Bad things happen there. Make bad things stop, then come back and I'll tell you about GECK.}
 {228}{}{I go now.}
 {229}{}{Well then, we have nothing more to talk about. The door is right over there.}
@@ -144,7 +144,7 @@
  sheriff, mayor, judge, and any other official you can think of.}
 {270}{}{Wow; you must be a very popular fellow to be entrusted with all those duties.}
 {271}{}{Thanks for the info; I'll be going now.}
-{272}{}{Nah… I just drew the short straw. It seems I was out getting some supplies and when I came back,
+{272}{}{Nah... I just drew the short straw. It seems I was out getting some supplies and when I came back,
  I found out the townsfolk went and elected me. Seems no one else wanted the job. Except for the
  occasional argument, I really don't have to do anything -- which suits me fine.}
 {273}{}{Can I ask you some more questions?}
@@ -152,7 +152,7 @@
  He even had me search his best friend's house looking for it. If you know what's good for you, you'd
  keep your nose out of this. Good day!}
 {275}{}{[He takes the message from the Slags.] What's this? It's from the people living at the Ghost
- Farm. This is incredible; have you read… oops, of course you didn't. There are still some things that
+ Farm. This is incredible; have you read... oops, of course you didn't. There are still some things that
  need to be worked out between the Slags and Modoc, but it's much too complex for your tiny brain to
  understand, so you needn't worry about it.}
 {276}{}{GECK now!}
@@ -164,7 +164,7 @@
 {278}{}{Jerk!}
 {280}{}{I don't blame you for being mad at me, but I'm not sorry I did it. We needed someone for the job
  and you fit the bill. All I can say is "thanks," and send you on your way.}
-{282}{}{Yes… faaarmm. Farm northeast. Go farm. Make bad things go bye-bye.}
+{282}{}{Yes... faaarmm. Farm northeast. Go farm. Make bad things go bye-bye.}
 {283}{}{That's great! I'll send some people over immediately to start harvesting the crops. You've saved
  us.}
 {284}{}{Show GECK!}
@@ -204,7 +204,7 @@
  the meantime, I believe it's about time the Slags and the residents of Modoc get acquainted.}
 {303}{}{I believe I have fulfilled my part of the bargain. How about telling me where I might find the
  holy GECK?}
-{304}{}{[Acting a little embarrassed.] Um… well, you see, I don't really know anything about this holy
+{304}{}{[Acting a little embarrassed.] Um... well, you see, I don't really know anything about this holy
  GECK thing you're looking for. You have to understand; we were desperate! However, I do know of a place
  called Gecko. It's a ways east of here somewhere. If I were a betting man, I would wager your GECK gizmo
  is located there. I wish I had more I could give you, but we're still a poor community with not
@@ -247,8 +247,8 @@
  with brahmin guts.}
 {320}{}{Now will you talk to the leader of the Slags?}
 {321}{}{That's all I know for now.}
-{322}{}{Fake! That's impossible; I saw them with my own eyes. Blood and gore everywhere. But… I guess
- it's possible, we didn't… I mean… well [Jo's face turns beat red.] We all kind of turned tail and ran
+{322}{}{Fake! That's impossible; I saw them with my own eyes. Blood and gore everywhere. But... I guess
+ it's possible, we didn't... I mean... well [Jo's face turns beat red.] We all kind of turned tail and ran
  when we saw the bodies. No one actually had the guts to examine them closely.}
 {326}{}{Yes, I believe the Slags and the people of Modoc will be able to come to some kind of mutually
  beneficial agreement. Thank you for saving the people of Modoc.}

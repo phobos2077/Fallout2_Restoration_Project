@@ -22,7 +22,7 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
 {260}{}{By Hawking, you've done it! My vocal program had been stuck in binary mode for *years*. It's been so long since
  I've had the pleasure of exchanging dialogue with a fellow intellect. You'd think during all this time *one* of my
  comrades would have had the decency to learn binary, but nooo.}
-{261}{}{No hay prob-}
+{261}{}{No prob--}
 {270}{}{They didn't have time for me, you see. Oh no, they were too *busy* indulging in their bureaucratic nonsense.
  Too busy imposing regulations upon one another and bickering like fools. And look where it got them: stuck in an endless
  loop in the conference chamber. Ha! Serves 'em right.}

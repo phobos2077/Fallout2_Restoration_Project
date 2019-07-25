@@ -19,7 +19,7 @@
 {300}{}{"Aquí yace Chris Avellone, Rey de la pista de baile".}
 {301}{}{"Chris Jones. Ala Nocturna".}
 {302}{}{"Christopher Michael Holland, o 'Chris Holland', o 'Chris': Hay dos razones y media para leer esta lápida... uno normalmente esperaría que hubiera una lista con esas razones".}
-{303}{}{"Colin McComb: Otra vida en vano".}
+{303}{}{"Colin McComb: Another pointless life."}
 {304}{}{"David Hendee: el más ruidoso entre los muertos. Que descanse en paz, en silencio".}
 {305}{}{"Ed Hyland. Le dijo al mundo 'chúpamela'".}
 {306}{}{"Eric Demilt. El AUTENTICO combatiente".}
@@ -36,7 +36,7 @@
 {317}{}{"Leonard Boyarski. Desterrado de Ciudad Refugio".}
 {318}{}{"Rupert Dinkos, muerto el invierno del 2.000".}
 {319}{}{"Matt Norton. Podría haber sido alguien. Un luchador, en vez de un vagabundo, que es lo que era".}
-{320}{}{"Nick Kesting". [Hay un pequeño cubo con lingotes redondos de cobre en la parte superior]}
+{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
 {321}{}{"Robert Collier. Silencioso. Mortal. Rob".}
 {322}{}{"Robert Hertenstein II. Su doctor intentó informarle, pero él insistió, 'demasiada información'".}
 {323}{}{"Scott Campbell. No la sopa".}
@@ -44,16 +44,16 @@
 {325}{}{"Scott Rodenhizer. Construía cabezas tridimensionales".}
 {326}{}{"Thomas French: Died while attempting to master the Flying Guillotine."}
 {327}{}{"Tim Cain. Fundador, Amante, Luchador, Programador."}
-{328}{}{"Tramell Ray Isaac: Aquí yace uno de los mejores trabajadores de este negocio. Extraordinario animador. Creo. D.E.P. T.Ray".}
-{329}{}{"Zeb -- Aún más Viejo que Sucio".}
+{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
+{329}{}{"Zeb -- Still Older Than Dirt."}
 {330}{}{"Dennis Presnell. Casi podemos oírlo ahora. '¡¿Llamáis a esto funeral?! ¡Esto apesta! ¡Sois unos jod!@#pullos! ¡No volveré a morirme de nuevo! Bla bla bla...'" rayado por debajo pone, "Descanse en paz 'Llorica' D, que vuelve al terruño".}
-{331}{}{"Rupert Diukos, muerto el 24/9/96"}
-{332}{}{"Sal De Ban, muerto el 24/9/96"}
-{333}{}{"Greg Zeschule, Otoño del 99"}
-{334}{}{"Ray Muzyka, Verano del 98"}
+{331}{}{"Rupert Diukos, died 9/24/96."}
+{332}{}{"Sal De Ban, died 9/24/96."}
+{333}{}{"Greg Zeschule, Fall '99."}
+{334}{}{"Ray Muzyka, Summer '98."}
 {335}{}{"Evan Chantland, 74-??: No estaba paranoico, realmente iban tras él".}
 {336}{}{"Aquí yace Moose, frío y muerto. Lo encontramos aquí, sin su cabeza".}
-{337}{}{"Amy Presnell"}
+{337}{}{"Amy Presnell."}
 {338}{}{"Stephen Bokkes, 25 años. Tumbado en su mejor momento por las hondas y las flechas de una asombrosa fortuna". }
 {339}{}{"D.E.P. Doug "Calavera" Finch (la fecha no importa). Asesinado por fumar en el Mercado Francés. Sus últimas palabras: "¡Probemos el Puñetazo de Burro!'"}
 {340}{}{"Here lies Donnie Cornwell, good and dead. In an extra large coffin to fit his extra large head."}
@@ -61,14 +61,14 @@
 {342}{}{"T. D. Hamilton: Aquí yace una hedionda golfa que debería haber muerto hace mucho tiempo. ¡Descansa SIN paz, ZORRA!"}
 {343}{}{"Otra víctima de las fechas límite".}
 {344}{}{"Cándido. Larga vida al Can".}
-{345}{}{"Kris Snider: Demasiado competitivo".}
+{345}{}{"Kris Snider: Too competitive."}
 {346}{}{"¿Estás haciendo algo útil con tu vida?"}
 {347}{}{"¿Por qué no te matas a ti mismo y le libras a alguien de la molestia?"}
 {348}{}{"Charles Cuevas: Una vez dijo, 'Dadme hockey o dadme muerte.' No entendí bien lo del hockey".}
-{349}{}{"William Lebus".}
+{349}{}{"William Lebus."}
 {350}{}{"Reg Arnedo: aún podemos escuchar su voz por los pasillos".}
-{351}{}{"Shanna SanPaolo".}
-{352}{}{"Brahmin Wrangler".}
+{351}{}{"Shanna SanPaolo."}
+{352}{}{"Brahmin Wrangler."}
 {353}{}{"Josh Walters, 1971-2011. Died of complications during his fifth liver transplant."}
 {354}{}{"Doug Avery. Odiaba la guerra por destruir su estilo de vida en caravana".}
 {355}{}{"Aquí yace Ezekial Aikle, 102 años. El pobre murió joven".}
@@ -89,15 +89,15 @@
 {370}{}{"Se fue Owen Mas... de lo que se podía permitir".}
 {371}{}{"En memoria del pequeño Chris Madera. Aquí yace Madera dentro de madera, uno dentro de la otra. La madera de fuera es muy buena, aunque no podemos elogiar a la otra".}
 {372}{}{"Bajo tierra y bajo los árboles yace el cuerpo de Jonathan Pease. No está aquí, sólo el cascarón: Pease soltó la pasta y se fue con Dios".}
-{373}{}{"El que ardió fatalmente el 21 de marzo de 1870 por la explosión de una lámpara llena de 'Fluido Ardiente No Explosivo de R.E. Danforth' ".}
+{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
 {374}{}{"Nacido en 1903 -- Muerto en 1942. Miró por el hueco del ascensor para ver si estaba bajando. Lo estaba".}
 {375}{}{"Aquí yace un ateo bien vestido y sin un lugar al que ir".}
-{376}{}{"Eileen Suh: Fue a la Facultad de derecho W&M, ahora es Eileen Sue".}
+{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
 {377}{}{"Sarah Smart: Oradora, Autora, Profesora, De Amicitia".}
-{378}{}{"Tim Winkle - No soporto la hipocresía salvo la mía".}
-{379}{}{"Jughead - Rey del Mundo de la Reina Archie".}
+{378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
+{379}{}{"Jughead - King of Queen Archie's World".}
 {380}{}{"D.E.P Casey Donahue Muerto el 6/8/98  Asesinado por una lubina mutada de mal humor".}
-{381}{}{"Christopher 'Ala Nocturna' Jones: administrador de golpes fálicos".}
+{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Potato Feet" Nielson. Musician. Passed on at the age of 104, during a drum solo."}
 {383}{}{"Nitsa - La razón por la que Charles no entendió bien lo del hockey".}
 {384}{}{"Thuy Dang. Que Dios tenga piedad de su nombre".}

@@ -87,7 +87,7 @@
 {167}{}{Sí, seguro. Adiós.}
 {168}{}{Bien, al propietario de la mina a la que le entregues el chip, le vas a hacer un gran favor. Uno lo bastante grande como
  para poner a la otra mina fuera del negocio.}
-{169}{}{¿Y…?}
+{169}{}{¿Y...?}
 {170}{}{A eso le llaman capitalismo, amigo mío. Adiós.}
 {171}{}{Bueno, si resulta que el chip pasa a la mina Kokoweef, entonces tendremos a un montón de esos tipejos de la RNC metiendo las narices por aquí. Pero si se lo das a Dan McGrew de la Kokoweef, entonces veremos mucho más Jet en la ciudad. En cualquier caso, alguien gana y alguien pierde.}
 {172}{}{Y si yo no lo hago, lo haría algún otro. Hablemos de otra cosa.}

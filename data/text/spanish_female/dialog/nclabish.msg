@@ -41,7 +41,7 @@
 {253}{}{Me llamo }
 {254}{}{Soy una simple viajera.}
 {255}{}{Soy una viajera, en busca del Refugio 13. ¿Has oído hablar de él?}
-{256}{}{Soy una viajera… ¿sabes dónde puedo encontrar algo llamado "Kit de creación del Jardín del Edén"?}
+{256}{}{Soy un viajero… ¿sabes dónde puedo encontrar algo llamado "Kit de creación del Jardín del Edén"?}
 {257}{}{Mira, tal vez sea mejor que me vaya. Adiós.}
 {260}{}{¿Sí?}
 {261}{}{¿Qué puede contarme sobre el señor Bishop?}
@@ -111,7 +111,7 @@
  describes.}
 {374}{}{De acuerdo... sólo preguntaba. Hasta luego, entonces.}
 {375}{}{Muy bien. Gracias por su tiempo.}
-{380}{}{Espera un momento (Te estudia). Pareces… nueva en la ciudad. ¿Te importaría venir a tomar una copa en mis aposentos? Podemos charlar sobre Nuevo Reno; es un lugar peligroso para quien no conozca sus caminos.}
+{380}{}{Espera un momento (Te estudia). Pareces… nuevo en la ciudad. ¿Te importaría venir a tomar una copa en mis aposentos? Podemos charlar sobre Nuevo Reno; es un lugar peligroso para quien no conozca sus caminos.}
 {381}{}{Un momento, antes de que te vayas (Te estudia de nuevo). ¿Tienes tiempo ahora para esa
  copa? ¿O tienes que largarte corriendo de nuevo?}
 {382}{}{Sólo si la bebida no es más que el comienzo.}
@@ -129,8 +129,8 @@
 {401}{}{Y SI ocurriese algo más, te lo aseguro, mi marido está BASTANTE muerto. }
 {402}{}{Y SI ocurriese algo más, te lo aseguro, mi marido NO es de los celosos. }
 {404}{}{Señora Bishop, pero tengo que rechazar la propuesta… esta vez.}
-{410}{}{(Levanta una ceja). Mi marido puede estar muerto, pero sus hombres están a mi disposición. Pueden sentirse bastante… irritados… cuando una invitación de la señora Bishop se rechaza. ¿Estás *totalmente* segura de que no quieres acompañarme?}
-{411}{}{(Levanta una ceja). Mi marido no es de los celosos, pero puede sentirse bastante… irritado… cuando se rechaza una invitación de un miembro de la Familia Bishop. ¿Estás *totalmente* segura de que no quieres acompañarme?}
+{410}{}{(Levanta una ceja). Mi marido puede estar muerto, pero sus hombres están a mi disposición. Pueden sentirse bastante… irritados… cuando una invitación de la señora Bishop se rechaza. ¿Estás *totalmente* seguro de que no quieres acompañarme?}
+{411}{}{(Levanta una ceja). Mi marido no es de los celosos, pero puede sentirse bastante… irritado… cuando se rechaza una invitación de un miembro de la Familia Bishop. ¿Estás *totalmente* seguro de que no quieres acompañarme?}
 {412}{}{Pese a todo, tengo que seguir diciendo que no.}
 {413}{}{Vale. Venga, sólo una copa.}
 {414}{}{Mire, tengo que marcharme, señora Bishop.}

@@ -67,7 +67,7 @@
 {166}{}{No.}
 {167}{}{Formateando... formateando... formateo completo. El reinicio requerirá una instalación completa. Apagando. Apagado... completado...}
 {168}{}{[HECHO]}
-{169}{}{Datos a encontrar: - Programa botánico  - Programa genético  - Programa Xeno}
+{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
 {170}{}{Programa botánico.}
 {171}{}{Programa genético.}
 {172}{}{Programa Xeno.}
@@ -80,15 +80,15 @@
 {179}{}{Programa botánico.}
 {180}{}{Programa Xeno.}
 {181}{}{Atrás.}
-{182}{}{"El tema sobre el que tenía la esperanza de establecer una serie de experimentos significativos ha desaparecido, presuntamente destruido o robado por los Hubologistas. Posteriores investigaciones han resultado infructuosas. Hasta que se obtengan nuevos espécimenes, esta base de datos se mantendrá fuera de servicio". - Dr. Sheng}
+{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
 {183}{}{Programa botánico.}
 {184}{}{Programa genético.}
 {185}{}{Atrás.}
 {186}{}{Base de datos Química: Combustible y derivados  - Polímeros}
 {187}{}{Combustible y derivados.}
-{188}{}{Polímeros}
+{188}{}{Polímeros.}
 {189}{}{Atrás.}
-{190}{}{(Tras analizar las complejas fórmulas químicas y notas de laboratorio, concluyes que los Shi han creado un tipo de combustible a partir de extractos de plantas y vida marina. Aparentemente, se han conectado a oleoductos ya existentes para poder transportar el combustible a una gran variedad de destinos).}
+{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
 {191}{}{(Te encuentras una gran cantidad de complejas fórmulas químicas y notas de laboratorio. No estás muy seguro de lo que significa todo esto).}
 {192}{}{Dirigir combustible al petrolero Poseidon.}
 {193}{}{Dirigir combustible a los Hubologistas.}
@@ -100,9 +100,9 @@
 {199}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
 {200}{}{[HECHO]}
 {201}{}{Base de datos Física: Exploración  - Teoría}
-{202}{}{Exploración}
-{203}{}{Teoría}
-{204}{}{Volver}
+{202}{}{Exploration.}
+{203}{}{Theory.}
+{204}{}{Atrás.}
 {205}{}{"Con la reciente adquisición de planos de un vertibird, la posibilidad de crear una máquina voladora viable ha dado un cualitativo paso adelante. Esperamos tener un prototipo funcional a finales de año, y la habilidad de producir en masa este tipo de vehículos en dos años". -Dr. Wong}
 {206}{}{::copiar planos:: Atrás.}
 {207}{}{Atrás.}

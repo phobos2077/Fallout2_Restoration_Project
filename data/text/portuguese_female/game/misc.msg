@@ -5,7 +5,7 @@
 {4}{}{Quick load game successfully loaded.}
 {5}{}{Quick save game successfully saved.}
 {6}{}{Demo time limit exceeded.}
-{7}{}{Pipboy not available in combat!}
+{7}{}{Pip-Boy not available in combat!}
 {8}{}{Error saving screenshot.}
 {9}{}{INTRO}
 {10}{}{NEW GAME}
@@ -43,7 +43,7 @@
 {5001}{}{is out of ammo for the}
 {5002}{}{reloads the}
 {6000}{}{Ask about what?}
-{7000}{}{You aren't wearing the pipboy!}
+{7000}{}{You aren't wearing the Pip-Boy!}
 {8000}{}{You are overloaded.}
 {8001}{}{%s is overloaded.}
 {8500}{}{You gain %d experience points for successful use of the outdoorsman skill.}
@@ -66,7 +66,7 @@
 {9043}{}{Da great spirit move in Sulik now.}
 {9044}{}{We be one wit da Grandfather Bone now, Mahn.}
 {9045}{}{We be the Grandfather now.}
-{9050}{}{Oh dear...I've actually learned something from this.}
+{9050}{}{Oh dear... I've actually learned something from this.}
 {9051}{}{The guilt of this is going to kill me.}
 {9052}{}{I can't believe I survived this far.}
 {9060}{}{Woof!}

@@ -2,68 +2,68 @@
 {150}{}{You see a fat man with beady black eyes. He is covered in sweat and breathing heavily.}
 {151}{}{You see Big Jesus Mordino. He is covered in sweat and is breathing heavily.}
 {200}{}{Stay away from there.}
-{201}{}{That does not… belong to you.}
-{202}{}{Touch that again, and you shall… die on Golgotha.}
+{201}{}{That does not... belong to you.}
+{202}{}{Touch that again, and you shall... die on Golgotha.}
 {210}{}{::Wheeze::}
 {211}{}{*Tosse* *Tosse*}
 {212}{}{::Wipes sweat from forehead.::}
-{220}{}{You are the… *cough*… most valued of my men.}
-{221}{}{Are the people of Reno showing you… *cough*… proper respect?}
+{220}{}{You are the... *cough*... most valued of my men.}
+{221}{}{Are the people of Reno showing you... *cough*... proper respect?}
 {230}{}{Urgggg...}
 {231}{}{...Dios mio...}
 {232}{}{...my heart...}
 {233}{}{hurrkkkk}
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
-{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
-{243}{}{Stare back at him with your meanest stare.}
-{244}{}{Stare back at him with mild disinterest.}
-{245}{}{Stare back at him with a sneering gaze}
-{246}{}{Stare back at him with affected disinterest}
-{247}{}{Wander off}
+{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes.}
+{241}{}{(He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
+{242}{}{(He's staring at you; it looks like he's waiting for you to speak.)}
+{243}{}{[Stare back at him with your meanest stare.]}
+{244}{}{[Stare back at him with mild disinterest.]}
+{245}{}{[Stare back at him with a sneering gaze.]}
+{246}{}{[Stare back at him with affected disinterest.]}
+{247}{}{[Wander off.]}
 {248}{}{Quem é você?}
 {249}{}{Are you Jesus Mordino?}
 {250}{}{Sorry. I've entered the wrong room.}
-{260}{}{You. (Mordino glares at Myron as he enters, black lightning flashing in his eyes.) You have… left your post. Your USE
- to me is at an… end. (He makes a motion, and his guards reach for their weapons.)}
+{260}{}{You. (Mordino glares at Myron as he enters, black lightning flashing in his eyes.) You have... left your post. Your USE
+ to me is at an... end. (He makes a motion, and his guards reach for their weapons.)}
 {261}{}{(The man's gaze darkens. He makes a motion, and his guards reach for their weapons.)}
 {262}{}{(Big Jesus's gaze turns black. He makes a motion, and his guards reach for their weapons.)}
 {263}{}{Aieeeeeeee!}
 {264}{}{Play along!}
 {265}{}{Corre!}
-{266}{}{Whoa! Whoa…!}
+{266}{}{Whoa! Whoa...!}
 {267}{}{Hey! Hold on a second...!}
 {268}{}{You want some of THIS, *Fatman?!* You WANT SOME of }
-{275}{}{(The man speaks in a rasping voice.) I… am Jesus Mordino. You…will address me as SENOR Mordino. (A bead of sweat trickles
- down his forehead.) What… is your business with me?}
-{276}{}{You have... returned. (A bead of sweat trickles down his forehead.) What… is your business with me?}
+{275}{}{(The man speaks in a rasping voice.) I... am Jesus Mordino. You... will address me as SENOR Mordino. (A bead of sweat trickles
+ down his forehead.) What... is your business with me?}
+{276}{}{You have... returned. (A bead of sweat trickles down his forehead.) What... is your business with me?}
 {277}{}{I'm looking for work.}
 {278}{}{I spoke to your son, Senor Mordino. I'm looking for work.}
 {279}{}{I spoke to your son, Senor Mordino. I'm a slaver, and I'm looking to sell slaves.}
 {280}{}{You know anything about Mr. Wright's son's death?}
-{281}{}{Is the heat bothering you? You seem… uncomfortable.}
+{281}{}{Is the heat bothering you? You seem... uncomfortable.}
 {282}{}{No business today. I have to go now.}
-{290}{}{(Studies you for a long time, then shakes his head.) You… do not look STRONG enough. I have no work for you.}
-{291}{}{(Studies you for a long time, then shakes his head.) You… are a WOMAN. What I need done is not woman's work.}
+{290}{}{(Studies you for a long time, then shakes his head.) You... do not look STRONG enough. I have no work for you.}
+{291}{}{(Studies you for a long time, then shakes his head.) You... are a WOMAN. What I need done is not woman's work.}
 {292}{}{Give me a chance. Give me a job -- any job -- I can do it.}
 {293}{}{Give me a chance, Senor Mordino. Give me a job, any job, I can do it.}
 {294}{}{Let me prove myself. I can do it.}
 {295}{}{Let me prove myself, Senor Mordino. I can do it.}
 {296}{}{All right then. Catch you later.}
-{305}{}{(Sweat trickles down Mordino's face. His expression darkens.) I have… spoken. I have NO work for you. Leave... and do NOT return.}
-{306}{}{C'mon, Big Jesus… just one chance…}
+{305}{}{(Sweat trickles down Mordino's face. His expression darkens.) I have... spoken. I have NO work for you. Leave... and do NOT return.}
+{306}{}{C'mon, Big Jesus... just one chance...}
 {307}{}{All right then. Goodbye.}
 {315}{}{(Mordino is silent for a moment, then he speaks.) I am Jesus Mordino. Head of the Mordino family. You have come
- to… my casino. My home. You have shown me… no respect. You will LEARN.}
+ to... my casino. My home. You have shown me... no respect. You will LEARN.}
 {316}{}{I think it's YOU who's going to learn a thing or two...}
-{317}{}{Whoa! Hold on… let's talk about this! C'mon, now…}
+{317}{}{Whoa! Hold on... let's talk about this! C'mon, now...}
 {318}{}{Make a run for the door.}
 {319}{}{::Dive for cover, draw weapons in slow motion as thugs explode from the woodwork.::}
 {325}{}{(Mordino waits. As you watch, another bead of sweat trickles down the side of his face.)}
-{326}{}{I was looking to sell some slaves…}
+{326}{}{I was looking to sell some slaves...}
 {327}{}{What do you know about Richard Wright's death?}
 {329}{}{Deixa pra lá.}
-{335}{}{(Studies you.) I… do not know you, but I will… hear you. (Wipes sweat from his forehead.) }
+{335}{}{(Studies you.) I... do not know you, but I will... hear you. (Wipes sweat from his forehead.) }
 {336}{}{You have slaves to sell?}
 {337}{}{Yes, right here with me. Take a look and make me an offer.}
 {338}{}{No, I don't. Actually, I made an error. I'm looking for work, not to sell slaves.}
@@ -118,24 +118,24 @@
  from the likes of you. Leave... and do NOT return.}
 {431}{}{Senor Mordino, please... reconsider...}
 {432}{}{(Leave quietly.)}
-{440}{}{(Mordino studies you.) Very well. I… have work for you. Take… (Takes a deep wheezing breath, wipes sweat from his forehead.)
- …this package... to the *stables* north of Reno. Give it to a man... Ramirez, then return.}
+{440}{}{(Mordino studies you.) Very well. I... have work for you. Take... (Takes a deep wheezing breath, wipes sweat from his forehead.)
+ ...this package... to the *stables* north of Reno. Give it to a man... Ramirez, then return.}
 {441}{}{Okay. Sounds easy enough.}
 {442}{}{I will go there now, Senor Mordino.}
 {443}{}{What's in the package?}
 {444}{}{Uh, I've changed my mind. I think I'll pass.}
-{450}{}{I…do not pay you... to ask questions.}
+{450}{}{I... do not pay you... to ask questions.}
 {451}{}{Well, I'd like to know what I'm carrying before I drop it off. Is it dangerous?}
 {452}{}{Nevermind then. I'm off.}
 {460}{}{Head north up Virgin street, past the casinos... follow the trail that leads outside of town. You will... come to the
  Stables. Now go.}
 {461}{}{(Follow his directions...)}
-{470}{}{Have… you done as I asked?}
+{470}{}{Have... you done as I asked?}
 {471}{}{No, I haven't delivered the package yet.}
 {472}{}{Yes, I delivered it to Ramirez as you asked.}
-{473}{}{Yes, I've been to the Stables and dropped off your package… do you know what they DO there? They're torturing
+{473}{}{Yes, I've been to the Stables and dropped off your package... do you know what they DO there? They're torturing
  slaves with drugs.}
-{474}{}{Yes, I gave your package to that guard, Ramirez… you know that guy's a Jet head? He was REEKING of Jet fumes.}
+{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
 {480}{}{Then... why are you here? (Big Jesus wipes his forehead, then takes a deep breath.) WHY did you not deliver the package?}
 {481}{}{Well, I had some questions first...}
 {482}{}{I'm going to go do it right now.}
@@ -144,13 +144,13 @@
  more than enough.}
 {491}{}{It's better than nothing, I guess.}
 {492}{}{Thank you, Senor Mordino.}
-{500}{}{(Squints angrily. A bead of sweat trickles down the side of his face.) They are… cattle. No more.}
-{501}{}{You monster… you just signed your own death warrant.}
+{500}{}{(Squints angrily. A bead of sweat trickles down the side of his face.) They are... cattle. No more.}
+{501}{}{You monster... you just signed your own death warrant.}
 {502}{}{Uh... just checking. About my payment...}
 {510}{}{I have no more... work for you. (Nods at the door.) I wish to be alone. Leave now... and do NOT return.}
 {511}{}{Aw, c'mon. There must be SOME other job that I could do...}
 {512}{}{Tudo bem.}
-{520}{}{I… have more work for you. I need someone… (He takes a deep wheezing breath, then wipes sweat from his forehead.) … to collect
+{520}{}{I... have more work for you. I need someone... (He takes a deep wheezing breath, then wipes sweat from his forehead.) ... to collect
  my percentage from the... Corsican Brothers. They are LATE in their payments.}
 {523}{}{I think I'll pass. Thanks anyway.}
 {530}{}{Head north up Virgin street. They are across from the gym... if they give you trouble... if they make excuses... HURT them.}
@@ -170,8 +170,8 @@
 {570}{}{(Nods as you give him the money.) Here. Half... is yours. Heh. They had already paid me this month, but I like
  to keep them... on their toes.}
 {571}{}{Hey, thanks, Big Jesus.}
-{580}{}{(Senor Mordino looks at you for a long time, then nods slightly.) I have one last job for you. There… (Takes
- a deep wheezing breath, wipes sweat from his forehead.)… is a MAN who must die.}
+{580}{}{(Senor Mordino looks at you for a long time, then nods slightly.) I have one last job for you. There... (Takes
+ a deep wheezing breath, wipes sweat from his forehead.)... is a MAN who must die.}
 {581}{}{He's as good as dead. The corpse got a name?}
 {582}{}{Who is this man?}
 {583}{}{Who is this man you wish dead, Senor Mordino?}
@@ -185,7 +185,7 @@
 {598}{}{I'm not done TALKING to you yet, "Big Jesus."}
 {599}{}{My apologies, Senor Mordino. I will leave at once.}
 {600}{}{Why don't you MAKE me leave?}
-{610}{}{This man, Louis Salvatore… he has killed many of my men… many PROUD men of the Mordino family. He... butchered them
+{610}{}{This man, Louis Salvatore... he has killed many of my men... many PROUD men of the Mordino family. He... butchered them
  in the street like... dogs. (His hand clenches into a fist.) It is my will that this man die.}
 {611}{}{If you got the chips, he's good as dead.}
 {612}{}{Wait a minute. Louis Salvatore who rules the Salvatore family? The ones that have the lightbringers that
@@ -234,27 +234,27 @@
 {711}{}{Yeah, how about...}
 {720}{}{... that is a good name. (Nods.) The Mordino name has... weight in New Reno. Visit... the Cat's Paw... New Reno Arms... and
  tell them you are of my family... they will treat you well.}
-{730}{}{(Stares at you for a long time, then squints in confusion.) Why… do you ask me this? I have… HEARD what happened. (Wipes
+{730}{}{(Stares at you for a long time, then squints in confusion.) Why... do you ask me this? I have... HEARD what happened. (Wipes
  his brow.) The boy took too much Jet and died.}
 {731}{}{That's the problem. The Mordinos are the biggest suppliers of Jet in New Reno. That makes you the ones who will
  take the blame.}
 {732}{}{Do you know where he got the Jet?}
 {733}{}{All right then. Just asking. I had some other questions...}
 {734}{}{I see. I think I better be going.}
-{740}{}{(Wheezes, wipes more sweat from his forehead.) If the Wrights had the… SENSE they were born with, they would… know
- we are not the only family with Jet in New Reno. We… do NOT kill children.}
+{740}{}{(Wheezes, wipes more sweat from his forehead.) If the Wrights had the... SENSE they were born with, they would... know
+ we are not the only family with Jet in New Reno. We... do NOT kill children.}
 {741}{}{Just adults, huh? I mean, Jet takes a while to kill someone, but it works, right?}
 {742}{}{Somebody else might, and they might blacken the Mordino name. You know who might have sold Richard the Jet
  that killed him?}
 {743}{}{I see. Look, I had some other questions...}
 {744}{}{Thanks for the information, Senor Mordino. I must be going now.}
-{750}{}{(Shakes head.) I… know little of the lives of pushers in Reno. (Takes a raspy breath, coughs slightly.) You… might ask
+{750}{}{(Shakes head.) I... know little of the lives of pushers in Reno. (Takes a raspy breath, coughs slightly.) You... might ask
  my son... in the casino, below.}
-{751}{}{I will. I had some other questions…}
+{751}{}{I will. I had some other questions...}
 {752}{}{I will. Thanks, Senor Mordino.}
-{760}{}{The temperature does not… agree with me. My breathing is… sometimes difficult. In times of stress or other physical
+{760}{}{The temperature does not... agree with me. My breathing is... sometimes difficult. In times of stress or other physical
  activity, I tire quickly. Sometimes, I have chest pains.}
-{761}{}{Really. Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
 {762}{}{I see. I better be going now.}
 {770}{}{I do not know you... you come to me... without anyone's word to give your offer... weight. (Wipes his brow, then takes
  a deep, rattling breath.) I have NO work for you.}

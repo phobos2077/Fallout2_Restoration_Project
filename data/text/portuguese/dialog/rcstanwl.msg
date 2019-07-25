@@ -4,7 +4,7 @@
 {103}{}{The NCR doesn't take kindly to quitters. Get out of here.}
 {104}{}{You know what I think about your kind. Just get out of my sight.}
 {105}{}{Hee-yah! Head 'em out.}
-{106}{}{Okay, Let's go.}
+{106}{}{Okay, let's go.}
 {107}{}{I'm Stanwell. I run the caravan between Redding and the New California Republic. Brahmin for
  gold. We could use an extra guard, and we're ready to leave right now. }
 {108}{}{People call me Stanwell. I run the caravan between Redding and the New California Republic.
@@ -32,7 +32,7 @@
  your job better, things would be different.}
 {126}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
 {127}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
-{128}{}{We didn't quite lose everything we had...but we lost more than I can afford. If you'd done your
+{128}{}{We didn't quite lose everything we had... but we lost more than I can afford. If you'd done your
  job right, you'd be getting more than this $500.}
 {129}{}{Well, something is better than nothing, I guess. Goodbye.}
 {130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}

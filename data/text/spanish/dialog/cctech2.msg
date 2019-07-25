@@ -39,14 +39,14 @@
 {144}{}{De acuerdo.}
 {145}{}{Entiendo.}
 {155}{}{¿Estás loco? ¿Cómo se te ocurre estar por aquí sin uniforme? ¡Rápido, vístete!}
-{156}{}{Como te pille el sargento sin uniforme, te va a caer un buen paquete.}
+{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
 {157}{}{¿Por qué no llevas puesto el uniforme?}
-{158}{}{¡Mierda! ¡Nos invaden! ¡Alerta!}
+{158}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
 {159}{}{¡Intrusos! ¡Avisad a los guardias!}
 {160}{}{¡Guardias! ¡Intrusos en el centro de comunicaciones!}
-{161}{}{¿Qué pasa? ¿Nos están atacando?}
-{162}{}{¿A qué viene este jaleo? ¿Qué ocurre?}
-{163}{}{¿Qué demonios está pasando?}
-{164}{}{¡Sólo soy un técnico, no me dispares!}
+{161}{}{¿Qué pasa? ¿Nos atacan?}
+{162}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
+{163}{}{¿Qué carajo está pasando?}
+{164}{}{I'm just a tech, don't shoot me!}
 {165}{}{¡No me enrolé aquí para luchar, sólo soy un técnico!}
 {166}{}{¿Ves esto? ¡Sólo es una bata de laboratorio, no una armadura! ¡Me voy de aquí!}

@@ -6,7 +6,7 @@
 {111}{}{¡Renuévate, Camarada! ¿Qué estás haciendo aquí? Dile a Zomak el Destructor qué te trae por aquí.}
 {112}{}{¡Reno!}
 {113}{}{¿Vaaaaaaaaale?}
-{114}{}{Sólo estaba echando un vistazo.}
+{114}{}{Tan sólo estoy echando un vistazo.}
 {115}{}{Deseo la Renovación.}
 {116}{}{He tomado el pasillo equivocado.}
 {120}{}{Deberías echarlo en algún otro lugar. O Zomak te hará ver las estrellas.}
@@ -43,7 +43,7 @@
 {242}{}{Está bien. Adiós.}
 {250}{}{Que sí. Estoy seguro. Desaparece.}
 {251}{}{Bueno, si tú lo dices. Adiós.}
-{260}{}{Oh, je, je... sí. Lo sabía. Emm, bien, err, ¿he aprobado? }
+{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
 {261}{}{Desde luego. Ahora, déjame entrar.}
 {262}{}{No, no lo has hecho, y ahora tengo que informar sobre ti.}
 {270}{}{Está bien. Puedes entrar.}

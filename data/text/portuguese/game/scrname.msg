@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{Proconsul Gregory}
-{218}{}{Nurse Nancy}
+{218}{}{Nurse Phyllis}
 {219}{}{Randal}
 {220}{}{Goo}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Wolf}
 {444}{}{Generator}
 {445}{}{Door}
-{446}{}{Super Mutant}
+{446}{}{Super mutant}
 {447}{}{Salvatore's Man}
 {448}{}{Bishop's Man}
 {449}{}{Mordino's Man}
@@ -503,7 +503,7 @@
 {603}{}{Squatter}
 {604}{}{Abolitionist}
 {605}{}{Bootlegger}
-{606}{}{Super Mutant}
+{606}{}{Super mutant}
 {607}{}{Fisherman}
 {608}{}{Slaver}
 {609}{}{Trapper}
@@ -1144,7 +1144,7 @@
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Map Script}
-{1247}{}{Dermal Pip Boy}
+{1247}{}{Dermal Pip-Boy}
 {1248}{}{Pooch}
 {1249}{}{Rattray}
 {1250}{}{Spouse}
@@ -1201,7 +1201,7 @@
 {1301}{}{Generator}
 {1302}{}{Door}
 {1303}{}{Door}
-{1304}{}{Medical Pip Boy}
+{1304}{}{Medical Pip-Boy}
 {1305}{}{Locker}
 {1306}{}{Locker}
 {1307}{}{Locker}
@@ -1509,7 +1509,7 @@
 {1609}{}{Merchant Map}
 {1610}{}{computer}
 {1611}{}{computer}
-{1612}{}{auto-doc}
+{1612}{}{Auto-Doc}
 {1613}{}{Brother Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}

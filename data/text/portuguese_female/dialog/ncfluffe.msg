@@ -3,14 +3,14 @@
 {151}{}{You see a fluffer. She seems to be wondering whether she should attend to you or not.}
 {160}{}{You see a moderately attractive woman. She's looking at you as if you're a rival.}
 {161}{}{You see a fluffer. She's looking at you as if you're a rival.}
-{200}{}{Oh my…it's him. }
+{200}{}{Oh my... it's him. }
 {201}{}{You are the biggest stud in the world.}
 {202}{}{::Swoons::}
 {203}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
 {204}{}{Yeah, }
 {205}{}{::Claps::}
 {206}{}{::Cheers::}
-{207}{}{Oh my…it's her. }
+{207}{}{Oh my... it's her. }
 {208}{}{You go, girl!}
 {209}{}{::Gives you the thumbs up sign::}
 {225}{}{No WAY am I fluffing that thing.}
@@ -31,33 +31,33 @@
 {248}{}{I hear the Families are getting tense again.}
 {249}{}{I kicked Jules in his family jewels last week.}
 {250}{}{I wish the Brothers would let me act.}
-{251}{}{I don't know what the Corsican Brothers SEE in her…}
-{255}{}{Oh my…it's him. }
-{256}{}{Look at those muscles! Makes me weak…}
+{251}{}{I don't know what the Corsican Brothers SEE in her...}
+{255}{}{Oh my... it's him. }
+{256}{}{Look at those muscles! Makes me weak...}
 {257}{}{He's built like a tank. Check out that barrel.}
-{258}{}{Check out the barrel on that tank…}
-{259}{}{He's all mine…}
+{258}{}{Check out the barrel on that tank...}
+{259}{}{He's all mine...}
 {260}{}{::Sigh::}
 {261}{}{That boy really brings on the cream.}
 {262}{}{Nasty little crotch cobra you've got there.}
-{270}{}{Oh my…it's her. }
+{270}{}{Oh my... it's her. }
 {271}{}{Welcome to the studio, ma'am.}
-{272}{}{She looks so…(shivers)…dangerous.}
+{272}{}{She looks so...(shivers)...dangerous.}
 {273}{}{She's pretty sexy.}
 {274}{}{Hello, ma'am. Let me know if I can help you with anything.}
-{280}{}{Oh my…it's him. }
+{280}{}{Oh my... it's him. }
 {281}{}{Welcome to the studio, sir.}
-{282}{}{He looks so…(shivers)…dangerous.}
+{282}{}{He looks so...(shivers)...dangerous.}
 {283}{}{That's one badass if I ever saw one.}
 {284}{}{That boy really brings on the cream.}
 {285}{}{Nasty little crotch cobra he's got there.}
-{290}{}{Oh my…it's her. }
+{290}{}{Oh my... it's her. }
 {291}{}{Welcome to the studio, ma'am.}
-{292}{}{She looks so…(shivers)…dangerous.}
+{292}{}{She looks so...(shivers)...dangerous.}
 {293}{}{She's pretty sexy.}
 {294}{}{Hello, ma'am. Let me know if I can help you with anything.}
 {300}{}{Oh, shit! It's Myron! Run!}
-{301}{}{Crap! It's Myron. Stay calm…he can smell fear.}
+{301}{}{Crap! It's Myron. Stay calm... he can smell fear.}
 {302}{}{You better keep Myron away from me.}
 {303}{}{Myron, you better stay the HELL away from me.}
 {304}{}{If Myron starts working here, I'm gone.}
@@ -97,7 +97,7 @@
 {363}{}{You are a total badass. I mean, you start from a simple spear-chucking tribal - no offense - and go on to
  save the whole world. You kick ass. End of story.}
 {364}{}{You should replay the game as a different kind of character.}
-{365}{}{Tell me everything about your fight with the Enclave…I'll get you a cold beer.}
+{365}{}{Tell me everything about your fight with the Enclave... I'll get you a cold beer.}
 {366}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
 {370}{}{Ooops. I dropped something in your pants. Let me get it.}
 {371}{}{Um, you wouldn't like to go out for drinks, would you? How about just meaningless sex?}
@@ -105,7 +105,7 @@
 {373}{}{Can I have your autograph? On my chest?}
 {374}{}{You being helped, }
 {375}{}{I'll need some help with that barrel of yours.}
-{376}{}{I hear you're very…hard to work with.}
+{376}{}{I hear you're very... hard to work with.}
 {377}{}{I heard you cop an attitude, then you cop a feel. Fine by me.}
 {378}{}{I'm really happy to know you! I mean, wow, you're }
 {379}{}{Um, I know there's no filming going on, but do you need a fluffer anyway?}
@@ -115,7 +115,7 @@
 {383}{}{I loved you in Good Will Humping.}
 {384}{}{You were great in Pokeahotass.}
 {385}{}{You were great in Vault Sexteen. Inspired, even.}
-{386}{}{I haven't seen the Brothers around…try the office, maybe?}
+{386}{}{I haven't seen the Brothers around... try the office, maybe?}
 {387}{}{Any chance you could talk the Corsican Brothers into letting me act?}
 {388}{}{Fluffers have the important job of keeping the actors hard.}
 {389}{}{Could I act in your next movie?}
@@ -143,19 +143,19 @@
 {430}{}{Wanna box?}
 {431}{}{Hum job? I'll tell you about them some other time.}
 {432}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
-{433}{}{Hello, ma'am. Can I help you with…*anything?*}
-{434}{}{Um, if you're looking for a little company later, ma'am…}
+{433}{}{Hello, ma'am. Can I help you with...*anything?*}
+{434}{}{Um, if you're looking for a little company later, ma'am...}
 {435}{}{Do you want the usual, ma'am?}
-{450}{}{Hello, sir. Can I help you with…*anything?*}
-{451}{}{If you're looking for a little company later…}
+{450}{}{Hello, sir. Can I help you with...*anything?*}
+{451}{}{If you're looking for a little company later...}
 {452}{}{Do you want the usual, sir?}
 {453}{}{Need someone to take care of that for you?}
 {454}{}{Put in a good word with the boss for me?}
 {455}{}{Are you thinking of getting into the business, too?}
 {456}{}{You should go into porn. You got the body for it.}
 {457}{}{Hum job? I'll tell you about them some other time.}
-{458}{}{Hello, ma'am. Can I help you with…*anything?*}
-{459}{}{Um, if you're looking for a little company later, ma'am…}
+{458}{}{Hello, ma'am. Can I help you with...*anything?*}
+{459}{}{Um, if you're looking for a little company later, ma'am...}
 {460}{}{Do you want the usual, ma'am?}
 {465}{}{Sorry, no thanks. I could have better sex with my lipstick.}
 {466}{}{You? Sorry, I'll NEVER be that desperate.}
@@ -165,7 +165,7 @@
 {470}{}{Who's your cute friend with the bone in his nose?}
 {471}{}{Tell the tribal with the bone in his nose that he'll go far in this industry.}
 {472}{}{Whoa, I've seen accidents on the set, but never a guy who got a bone caught in his nose.}
-{473}{}{I haven't seen the Brothers around…try the office, maybe?}
+{473}{}{I haven't seen the Brothers around... try the office, maybe?}
 {474}{}{Fluffers have the important job of keeping the actors hard.}
 {475}{}{I really want to act.}
 {476}{}{I don't want to be a fluffer all my life. No, really.}
@@ -174,19 +174,19 @@
 {479}{}{If you're looking for a job, talk to the Brothers.}
 {480}{}{I'm just doing this to pay for college.}
 {481}{}{I'd bang Avellone for free.}
-{482}{}{It's not that I don't want to talk to you, but...oh, wait that IS it.}
+{482}{}{It's not that I don't want to talk to you, but... oh, wait that IS it.}
 {483}{}{I need to lie down.}
 {484}{}{Hum job? I'll tell you about them some other time.}
 {485}{}{You don't have a problem with skin flicks, do you?}
 {486}{}{You the new fluffer?}
-{487}{}{Got a towel? One of the actors had an…accident.}
+{487}{}{Got a towel? One of the actors had an... accident.}
 {488}{}{Just don't bite the actors, and you should do fine.}
 {489}{}{I wish some of the actors would shower. I mean a regular shower.}
 {490}{}{Um, are you new here?}
 {491}{}{Salt malts? Get used to them.}
 {500}{}{Sorry, no thanks. I could have better sex with my lipstick.}
 {501}{}{You? Sorry, I'll NEVER be that desperate.}
-{502}{}{I haven't seen the Brothers around…try the office, maybe?}
+{502}{}{I haven't seen the Brothers around... try the office, maybe?}
 {503}{}{Fluffers have the important job of keeping the actors hard.}
 {504}{}{I really want to act.}
 {505}{}{I don't want to be a fluffer all my life. No, really.}
@@ -195,12 +195,12 @@
 {508}{}{If you're looking for a job, talk to the Brothers.}
 {509}{}{I'm just doing this to pay for college.}
 {510}{}{I'd bang Avellone for free.}
-{511}{}{It's not that I don't want to talk to you, but...oh, wait that IS it.}
+{511}{}{It's not that I don't want to talk to you, but... oh, wait that IS it.}
 {512}{}{I need to lie down.}
 {513}{}{Hum job? I'll tell you about them some other time.}
 {514}{}{You don't have a problem with skin flicks, do you?}
 {515}{}{You the new fluffer?}
-{516}{}{Got a towel? One of the actors had an…accident.}
+{516}{}{Got a towel? One of the actors had an... accident.}
 {517}{}{Just don't bite the actors, and you should do fine.}
 {518}{}{I wish some of the actors would shower. I mean a regular shower.}
 {519}{}{Um, are you new here?}

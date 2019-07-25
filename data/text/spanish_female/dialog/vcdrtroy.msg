@@ -42,7 +42,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
  para mantenerlos saludables a todos.}
 {137}{}{Busco la computadora principal. ¿Puedes decirme donde está?}
 {138}{}{Ya veo. Quizá hablemos mas tarde.}
-{139}{}{Espera un momento... no recuerdo haberte visto antes por aquí. ¿Eres una Ciudadana?}
+{139}{}{Espera un momento... no recuerdo haberte visto antes por aquí. ¿Eres un Ciudadano?}
 {140}{}{Sí. Acabo de conseguir mis documentos de Ciudadanía.}
 {141}{}{En realidad, Soy }
 {142}{}{. Soy la capitán de la guardia.}

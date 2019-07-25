@@ -211,8 +211,9 @@
 {3005}{}{N-no quiero t-tener nada que ver c-contigo.}
 {4000}{}{Vale, pero no me gusta mucho la idea de quedarme solo aquí.}
 {4001}{}{Está bien, si realmente crees que es una buena idea.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a submachine. If only they weren't so loud. I'm a healer, not a fighter.}
+{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
 {4003}{}{Cielos, espero no necesitar eso.}
+{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
 {5000}{}{Creo que p-podría tener un m-miembro roto.}
 {5001}{}{Creo que p-podría s-ser irradiado.}
 {5002}{}{Creo que p-podría s-ser envenenado.}

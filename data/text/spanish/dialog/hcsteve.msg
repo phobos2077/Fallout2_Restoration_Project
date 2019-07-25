@@ -2,7 +2,7 @@
 {101}{}{Ves a Steve, el ordenanza de Broken Hills.}
 {102}{}{Ves a un hombre amigable con armadura de cuero. Parece como si estuviera ahí de pie todo el día esperando a alguien con quien hablar.}
 {103}{}{¡Hola! Soy Steve. Soy el tipo que puede decirte dónde está cada sitio y qué es qué en este hermoso pueblo. ¿Puedo darte alguna dirección o ayudarte en algo hoy?}
-{104}{}{Duh…}
+{104}{}{Duh...}
 {105}{}{¿Noken Heel?}
 {106}{}{Háblame sobre este sitio.}
 {107}{}{¿Quienes viven aquí?}
@@ -101,7 +101,8 @@
 {200}{}{[MÁS]}
 {201}{}{Amigo, no te queremos aquí. Ya has hecho suficiente daño.}
 {202}{}{[HECHO]}
-{300}{}{Normalmente, puedes encontrar a Marcus cerca del banco –que también sirve como una buena prisión– o en la misma prisión. A veces está en la taberna o en casa, pero normalmente está trabajando.}
+{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
+ Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{¡Alborotador!}
 {302}{}{¡Maldición!}
 {303}{}{¡Hurra!}

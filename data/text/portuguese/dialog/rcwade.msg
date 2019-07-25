@@ -27,7 +27,7 @@
 {123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
 {124}{}{Someday soon, you'll regret crossing me. Goodbye.}
 {125}{}{If you had done your job and guarded my caravan, then I'd have enough money to pay you. As it
- is...well, you reap what you sow. You get nothing.}
+ is... well, you reap what you sow. You get nothing.}
 {126}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
 {127}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
 {128}{}{That was a bad trip. I can only give you $500 - and even that will leave me broke. Sorry.}

@@ -16,7 +16,7 @@
 {220}{}{Fine. You want to know my problem. I'll tell you. Two years ago, my brother, who looks very similar to me, had
  an affair with a local gang leader's girlfriend. The gang leader found out about it and my brother fled town. The gang
  caught me instead, and, thinking I was my brother, they severed my penis as punishment. Now I piss through a tube.}
-{221}{}{Oh, well— }
+{221}{}{Oh, well-- }
 {230}{}{Oh no! I'm not done yet. Then my beautiful girlfriend left me, because I was no longer a "real man" and could not
  satisfy her. She then married my next door neighbor, who also happens to be my boss. Now, all day at work, he orders me
  around and mocks me with my co-workers. And every night I must try to fall asleep to the sound of him making love to the

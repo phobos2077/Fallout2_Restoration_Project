@@ -10,7 +10,7 @@
 {231}{}{Eh, te has unido a nosotros, ¿no? Guay. Espero que coincidamos en alguna cacería.}
 {232}{}{Y, ¿de qué querías hablar?}
 {233}{}{¿Quién está ahí dentro?}
-{234}{}{Sobre Vic…}
+{234}{}{Sobre Vic el Mercader...}
 {235}{}{Bien, gracias.}
 {236}{}{Tengo que irme.}
 {237}{}{¿Eh?}
@@ -105,9 +105,9 @@
 {481}{}{De acuerdo.}
 {482}{}{Bien.}
 {490}{}{No, lo siento.}
-{491}{}{He dicho que no. Ahora lárgate. Tienes que hablar con Metzger.}
+{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
 {492}{}{De acuerdo.}
-{500}{}{Qué mala suerte que no te hayas unido a nosotros.}
+{500}{}{Too bad you didn't join us.}
 {501}{}{Deberías unirte al gremio.}
 {502}{}{Tan sólo estoy haciendo la guardia.}
 {503}{}{Espero que Vic te sirva de algo.}

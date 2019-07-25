@@ -63,10 +63,10 @@
 {213}{}{Errr?}
 {214}{}{You have proven that you are just as agile as the radscorpion.}
 {215}{}{Here, take these Mentats. You appear to need them.}
-{300}{}{E...Z...W...T...O...D...F...E..R...T...F...P...Y...J...M}
+{300}{}{E... Z...W... T...O... D...F... E..R... T...F... P...Y... J...M}
 {301}{}{Yes, that's correct.}
-{302}{}{M...O...O...Moo?}
-{303}{}{Uh...no, I'm sorry. That's way off.}
+{302}{}{M... O...O... Moo?}
+{303}{}{Uh... no, I'm sorry. That's way off.}
 {304}{}{::chitter chitter:: ::click clack:: ::chirp (tail swing)::}
 {305}{}{Correct! Good boy! Gooooood boy! Your Morse code skills are improving nicely.}
 {306}{}{You have proven that you are just as perceptive as the radscorpion.}
@@ -74,7 +74,7 @@
 {401}{}{WHAT? You cheated!}
 {402}{}{Ecmat?}
 {403}{}{Don't be a sore loser.}
-{404}{}{and...checkmate!}
+{404}{}{And... checkmate!}
 {405}{}{Chekmaaate!}
 {406}{}{::chitter:: Kill plant! ::click-clack-click::}
 {407}{}{You have proven that you can subvert a radscorpion that is more intelligent than you.}

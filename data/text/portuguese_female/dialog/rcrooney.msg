@@ -43,7 +43,7 @@
 {134}{}{Well, I owe Ascorti six months in back rent. $120 for this flea hostel. I just don't have it.
  Some of my brahmin took sick and died, and I couldn't pay. If I don't get him the money soon, he's
  gonna have the Sheriff evict me.}
-{135}{}{Well, actually…I'm supposed to be doing the Sheriff's job for him. I'm the one that's supposed
+{135}{}{Well, actually... I'm supposed to be doing the Sheriff's job for him. I'm the one that's supposed
  to kick you out now.}
 {136}{}{Evict a harmless old crone like you? That's not nice. Who would do that?}
 {137}{}{I'd hate to see you kicked out. Why don't you let me pay your back rent for you? I have little
@@ -57,7 +57,7 @@
  Now get out!}
 {141}{}{Gypsies, huh? Well if you're some sort of witch, maybe we should just burn you, then. Get out.}
 {142}{}{Just doing a job, lady. You don't want me to have to get rough with you. Now get out. Please?}
-{143}{}{Ascorti...Ascorti's nobody but the greediest, most conniving, slipperiest, low-down,
+{143}{}{Ascorti... Ascorti's nobody but the greediest, most conniving, slipperiest, low-down,
  weasel-crawling, gutless, slimeball in this here town. He's the Mayor as well as my landlord.}
 {144}{}{Oh, *that* Ascorti. Well, why didn't you say so?}
 {145}{}{I'd hate to take money from someone touched in the head. Uh, Mr. Chosen One.}

@@ -29,15 +29,15 @@
 {150}{}{Soy ambivalente respecto a ellos.}
 {151}{}{¡Me gustan!}
 {152}{}{En ese caso, te contaré la auténtica historia.}
-{153}{}{Un humano llamado Jacob –me pusieron el nombre por él– fundó este lugar. El mutante Marcus vino
- y forzó a todos a seguir sus normas. }
+{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
+ and forced everyone under his rule. }
 {154}{}{Suficiente. Estás loco. Adiós.}
 {155}{}{Cuéntame más.}
 {156}{}{Quizá si te cuento la auténtica historia, cambies de opinión.}
 {157}{}{De acuerdo. Cuéntame.}
 {158}{}{No, en realidad no me interesa.}
-{159}{}{In that case, it's just great being here. This town has everything you could want… mutant
- sheriff, uranium mine, hospital, store… you can get just about anything here. You want anything else?}
+{159}{}{In that case, it's just great being here. This town has everything you could want... mutant
+ sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
 {160}{}{Sí.}
 {161}{}{No.}
 {162}{}{Genial. Adiós.}
@@ -72,7 +72,7 @@
 {189}{}{Pasar, no pasa nada. Todos son mutantes, de todos modos. Pero hazlo en silencio, por amor de Dios.}
 {190}{}{Comprendo. Tengo más preguntas.}
 {191}{}{Lo tengo. Nos vemos.}
-{192}{}{¿Más preguntas? }
+{192}{}{More questions?}
 {193}{}{Tengo algo de mineral para refinar, y no quiero pagar los precios de la refinería.}
 {194}{}{¿Qué puedes contarme acerca de Broken Hills?}
 {195}{}{Quiero algunos productos químicos mezclados.}

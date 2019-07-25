@@ -9,7 +9,7 @@
 {108}{}{**Phhhhhhhttttttt**}
 {109}{}{Zaius at the mine says he may have some work for me next month.}
 {110}{}{This place it a damn mess! When are you gonna' get to cleanin', woman?}
-{111}{}{You got a real smart mouth on ya' woman!}
+{111}{}{You got a real smart mouth on ya', woman!}
 {112}{}{I love you, woogums.}
 {113}{}{Do you want the backside of my hand, woman?}
 {140}{}{Fix your own damn pot pie, you lazy lump of pus!}

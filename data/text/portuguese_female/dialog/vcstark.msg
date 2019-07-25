@@ -94,7 +94,7 @@
 {193}{}{Yeah, he was that drunk Outworlder who struck one of my guards in that brawl in the Spittoon. He's over at the Servant Allocation Center getting... broken in. It's just down the street.}
 {194}{}{I had another question...}
 {195}{}{Hmmm. I'll head over there now.}
-{196}{}{The Vault's right outside the door...sir.}
+{196}{}{The Vault's right outside the door... sir.}
 {197}{}{The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.}
 {198}{}{The Vault's right outside the door. Only Citizens are allowed in there, so I don't want to catch you bothering the guards.}
 {199}{}{Posso pedir mais uma coisa?}
@@ -195,7 +195,7 @@
 {294}{}{Hmmm. I'll keep that in mind. Goodbye.}
 {295}{}{Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.}
 {296}{}{I had some other questions...}
-{297}{}{If that's what it takes...thanks for the information.}
+{297}{}{If that's what it takes... thanks for the information.}
 {298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
 {299}{}{Recon-o-what?}
 {300}{}{I do a lot of traveling. Anything I can help with?}
@@ -206,8 +206,8 @@
 {305}{}{I could do some recon for you if you're short-handed.}
 {306}{}{Forget it. I had some other questions...}
 {307}{}{Never mind then. Goodbye.}
-{308}{}{No, you'd need a Pip Boy to get the job done right, and I can't spare one right now.}
-{309}{}{I already got a Pip Boy. It's old...and cranky...and seems to have wires and buttons yanked out everywhere...but it works.}
+{308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
+{309}{}{I already got a Pip-Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
 {310}{}{Well, all right. I had some other questions...}
 {311}{}{Never mind then. Goodbye.}
 {312}{}{Yeah? Has it got a Northern California world map installed?}
@@ -226,10 +226,10 @@
 {325}{}{I'll take the job. I had some questions first, though...}
 {326}{}{No thanks. Maybe some other time.}
 {327}{}{That so? Heh. Well... all right then.}
-{328}{}{Good job. Download the information into my Pip Boy, and I'll log it into the patrol computers.}
+{328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {329}{}{All right...}
 {330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
-{331}{}{All right then...you got any more work for me?}
+{331}{}{All right then... you got any more work for me?}
 {332}{}{Great. I had some other questions...}
 {333}{}{Thanks. Pleasure doing business with you.}
 {334}{}{Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that
@@ -245,13 +245,13 @@
 {343}{}{No thanks. I had some other questions, though...}
 {344}{}{I don't think I want this job. Maybe some other time.}
 {345}{}{That so? Heh.}
-{346}{}{All right then. Download the information into my Pip Boy, and I'll log it into the patrol computers.}
+{346}{}{All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {347}{}{Tudo certo.}
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
 {349}{}{O que é?}
-{350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip Boys, but it looks like it's compatible with your model.}
+{350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}
 {351}{}{How does it work?}
-{352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
+{352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip-Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
 {353}{}{Thanks, this could be useful. Say, can I ask you some other questions?}
 {354}{}{Much appreciated. I'll go try it out.}
 {355}{}{Hello... Captain. Did you want something?}
@@ -272,7 +272,7 @@
 {370}{}{I plotted that route to NCR for you.}
 {371}{}{About those Raiders...}
 {372}{}{Never mind. Goodbye.}
-{373}{}{Good day...ma'am.}
+{373}{}{Good day... ma'am.}
 {374}{}{Vault City prevails... ma'am.}
 {375}{}{Captain. Can I help you... ma'am?}
 {376}{}{Sergeant Stark... ma'am. Did you need something?}
@@ -296,9 +296,9 @@
 {394}{}{What about the NCR expedition?}
 {395}{}{I'll think about it. Can I ask you a few questions?}
 {396}{}{No, not my kind of job. Goodbye.}
-{397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters...and any other threat.}
+{397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters... and any other threat.}
 {398}{}{Adeus.}
-{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead...but things sometimes get a little "messy" when I set my boys loose.}
+{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
 {400}{}{Got it. I'll take the job.}
 {401}{}{It's clear. What's with that village, anyway?}
 {402}{}{About that village...}

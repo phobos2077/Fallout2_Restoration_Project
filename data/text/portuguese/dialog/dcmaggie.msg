@@ -13,7 +13,7 @@
 {160}{}{Corra junto. Não preciso do seu tipo aqui.}
 {161}{}{Mmmm...}
 {162}{}{Que se dane.}
-{163}{}{Estou indo.}
+{163}{}{I'm going.}
 {164}{}{Desculpe, nenhuma ofensa foi feita. Posso perguntar algo?}
 {165}{}{A bebida de whisky é de $5 e as mesas de jogo estão bem ali. Tenha um bom dia.}
 {166}{}{Posso fazer uma pergunta?}

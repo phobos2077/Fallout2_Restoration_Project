@@ -22,13 +22,13 @@
 {121}{}{Un tipo duro, ¿eh?}
 {122}{}{¿Qué vais a hacer con él?}
 {123}{}{Oye, ¿no he oído hablar de ti? Sí: algunas cosas buenas. Mira, hay ciertas personas que conozco que podrían servirse de un tipo como tú. Sólo tienes que ir a la tienda de automóviles y preguntar por Elise. Dile que Karl le envía saludos.}
-{124}{}{¿Trabajo? La Asociación de Ganaderos está buscando guardias. Los saqueadores están dándole fuerte a las caravanas de nuevo. Todo lo que he oído es que la presidente Tandi está buscando a alguien con "recursos", como ella dice. ¿Eso te ayuda?}
+{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
 {125}{}{Bueno, tengo algunas otras preguntas.}
 {126}{}{Algo. Gracias.}
 {127}{}{Ese es el Oficial Jack, forastero. Uno de nuestros hombres. No has estado hablando con Mira, ¿verdad?}
 {128}{}{Sí.}
 {129}{}{¿Qué Mira?}
-{130}{}{¿Ese hijoputa? Tiene un terreno justo a las afueras de la ciudad. Tan solo coge el camino pasada la Asociación.}
+{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
 {131}{}{No te gusta mucho.}
 {132}{}{Bueno, tengo algunas otras preguntas.}
 {133}{}{Gracias.}

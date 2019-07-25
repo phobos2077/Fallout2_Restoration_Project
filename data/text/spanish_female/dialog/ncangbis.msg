@@ -15,7 +15,7 @@
 {223}{}{Tú. Ven aquí. Ahora.}
 {224}{}{Yum.}
 {225}{}{Hmmmm.}
-{226}{}{Bueno, bueno…}
+{226}{}{Well, well...}
 {230}{}{Estoy ABURRIDA.}
 {231}{}{Parece una de las nuevas putas de papá…}
 {232}{}{Una de las putas baratas de papá…}
@@ -37,7 +37,7 @@
 {270}{}{Puedes apostar. Vamos.}
 {271}{}{Voy yo}
 {272}{}{Yo gusta jugar. Juego conmigo pero sólo yo}
-{280}{}{Exactamente…}
+{280}{}{Exactly...}
 {281}{}{[La sigues]}
 {290}{}{¡Va, venga! ¿Por favoooor? De verdad que quería enseñarte mi dormitorio. Sólo será un momento, te lo prometo.}
 {291}{}{¡No ir! ¡No voy yo! ¡No haces voy yo! ¡No lleves a sitio malo! ¡No!}
@@ -186,7 +186,7 @@
 {680}{}{Ves a Angela Bishop, ahora dormida. Ronca ligeramente, su pelo está despeinado, y tiene una brillante sonrisa en su rostro.}
 {690}{}{Ves a una joven con ropa de cuero gritando a más no poder.}
 {700}{}{Zzxxssnnn… oh, }
-{701}{}{Zzzzz….}
+{701}{}{Zzzzz...}
 {800}{}{¡Violador! ¡Socorro!}
 {801}{}{¡Auxilio, me está atacando! ¡Socorro!}
 {802}{}{¡Violador! ¡Violador!}

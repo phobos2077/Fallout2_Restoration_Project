@@ -496,7 +496,7 @@
 {2037}{}{las alas}
 {2038}{}{un lugar indefinido}
 {5000}{}{. Eso realmente duele}
-{5001}{}{. provocándole una fea herida}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{ traspasando su armadura}
 {5003}{}{. El ataque lo deja inconsciente}
 {5004}{}{. El golpe lo tira al suelo}
@@ -534,7 +534,7 @@
 {5036}{}{. El dolor es demasiado para él y se desploma como un castillo de naipes}
 {5037}{}{. Susurra "Mamá", mientras sus ojos se quedan en blanco}
 {5100}{}{. Eso realmente duele}
-{5101}{}{. provocándole una fea herida}
+{5101}{}{. Serious pain is inflicted}
 {5102}{}{ traspasando su armadura}
 {5103}{}{. El ataque la deja inconsciente}
 {5104}{}{. El golpe la tira al suelo}

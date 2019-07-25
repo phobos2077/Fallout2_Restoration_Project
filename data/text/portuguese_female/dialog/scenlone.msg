@@ -27,7 +27,7 @@
 {126}{}{No, I'm looking for a GECK.}
 {127}{}{Help? How?}
 {128}{}{A rocket launcher gives me all the spiritual peace I need, lady.}
-{129}{}{"True understand" this! (rude hand gesture with the middle finger)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? What's he want?}
 {131}{}{Simple. He wants you dead. Say bye-bye.}
 {132}{}{I don't know what you did, but he's put a contract out on you.}
@@ -38,7 +38,7 @@
 {137}{}{Oh. I assumed you could see my aura. I'm sorry.}
 {138}{}{Well, last time I checked the character screen, I was at level }
 {139}{}{Why, I'm at Transcendency, of course.}
-{140}{}{Uhhh...isn't it really impolite to go talking about levels?}
+{140}{}{Uhhh... isn't it really impolite to go talking about levels?}
 {141}{}{Honestly! I don't know what they expect me to accomplish surrounded by such rim meat!}
 {142}{}{Ah, such enthusiasm. Come with me.}
 {143}{}{"Lost are those who will not seek the Hub." If you should ever change your mind, you are always welcome.}

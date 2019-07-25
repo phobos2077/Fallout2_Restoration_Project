@@ -26,30 +26,30 @@
 {203}{}{! Welcome to the casino, hero!}
 {204}{}{Thought you'd forgotten about us while you were saving the world.}
 {210}{}{Olá, }
-{211}{}{If you're looking for a little company later…}
-{212}{}{Hey, you…(winks)...you looking to gamble?}
-{213}{}{He looks so…(shivers)…dangerous.}
+{211}{}{If you're looking for a little company later...}
+{212}{}{Hey, you...(winks)...you looking to gamble?}
+{213}{}{He looks so...(shivers)...dangerous.}
 {214}{}{Welcome to the casino, }
 {215}{}{Put in a good word with the boss for me?}
 {216}{}{Hello, ma'am. Let me know if I can help you with anything.}
 {217}{}{Looking to gamble, ma'am?}
-{218}{}{She looks so…(shivers)…dangerous.}
+{218}{}{She looks so...(shivers)...dangerous.}
 {220}{}{Looks like this one's already gambling with his life.}
-{221}{}{Uh, I think he just walked into the wrong casino…}
-{222}{}{If he doesn't leave before the boys see him…}
-{223}{}{Uh-oh. Trouble…}
+{221}{}{Uh, I think he just walked into the wrong casino...}
+{222}{}{If he doesn't leave before the boys see him...}
+{223}{}{Uh-oh. Trouble...}
 {224}{}{Looks like this one's already gambling with her life.}
-{225}{}{Uh, I think she just walked into the wrong casino…}
-{226}{}{If she doesn't leave before the boys see her…}
+{225}{}{Uh, I think she just walked into the wrong casino...}
+{226}{}{If she doesn't leave before the boys see her...}
 {230}{}{Hey, muscles. You looking to spend some chips?}
-{231}{}{Hey, champ…(winks)…you looking to gamble?}
-{232}{}{Hey, champ…(smiles)…wanna take a chance?}
-{233}{}{If you're looking for a little company later…}
-{234}{}{I wonder if I should talk to him…}
+{231}{}{Hey, champ...(winks)...you looking to gamble?}
+{232}{}{Hey, champ...(smiles)...wanna take a chance?}
+{233}{}{If you're looking for a little company later...}
+{234}{}{I wonder if I should talk to him...}
 {235}{}{Hey, }
 {236}{}{If you're looking to win some chips, you came to the right place.}
 {237}{}{Best casino in New Reno. In the WORLD, even.}
-{238}{}{Lady Luck's in the house tonight…nothing but winners!}
+{238}{}{Lady Luck's in the house tonight... nothing but winners!}
 {239}{}{Step right up, }
 {240}{}{Need another drink?}
 {241}{}{Welcome to the casino, }
@@ -61,32 +61,32 @@
 {252}{}{Hey, }
 {253}{}{If you're looking to win some chips }
 {254}{}{Best casino in New Reno. In the WORLD, even.}
-{255}{}{Lady Luck's in the house tonight…nothing but winners!}
+{255}{}{Lady Luck's in the house tonight... nothing but winners!}
 {266}{}{Step right up, }
 {267}{}{Need another drink?}
 {268}{}{Welcome to the casino, }
 {269}{}{Hey there, Mrs. Movie Star. Looking to spend a paycheck?}
 {270}{}{Hey there, sweetie. You looking to spend some chips?}
-{271}{}{Hey, sweetie…(winks)…you looking to gamble?}
-{272}{}{Hey, sweetie…(smiles)…wanna take a chance?}
+{271}{}{Hey, sweetie...(winks)...you looking to gamble?}
+{272}{}{Hey, sweetie...(smiles)...wanna take a chance?}
 {273}{}{If you're looking to win some chips, you came to the right place.}
 {274}{}{Best casino in New Reno. In the WORLD, even.}
-{275}{}{Lady Luck's in the house tonight…nothing but winners!}
+{275}{}{Lady Luck's in the house tonight... nothing but winners!}
 {276}{}{Step right up, win some chips.}
 {277}{}{Need another drink, honey?}
 {278}{}{Welcome to the casino, honey.}
-{279}{}{This table's free if you're looking to gamble…}
+{279}{}{This table's free if you're looking to gamble...}
 {280}{}{Hey there, honey. You looking to spend some chips?}
 {281}{}{Looking to gamble, honey?}
 {282}{}{Welcome to the casino, honey.}
-{290}{}{Well, you're crazy for coming in here, but…place your bets. Minimum bet 5 chips. Place your bets…}
-{291}{}{Um...place your bets…minimum bet 5 chips. Place your bets…}
-{292}{}{Place your bet, sir. Minimum bet 5 chips. Place your bets…}
-{293}{}{Place your bet, ma'am. Minimum bet 5 chips. Place your bets…}
-{294}{}{Place your bets, minimum bet 5 chips. Place your bets…}
+{290}{}{Well, you're crazy for coming in here, but... place your bets. Minimum bet 5 chips. Place your bets...}
+{291}{}{Um... place your bets... minimum bet 5 chips. Place your bets...}
+{292}{}{Place your bet, sir. Minimum bet 5 chips. Place your bets...}
+{293}{}{Place your bet, ma'am. Minimum bet 5 chips. Place your bets...}
+{294}{}{Place your bets, minimum bet 5 chips. Place your bets...}
 {295}{}{Me bet-ter than you}
 {296}{}{Me play craps in pants}
-{297}{}{What this game? Can you bet Gecko skin? Me got geck…ooooh…pretty lights over there!}
+{297}{}{What this game? Can you bet Gecko skin? Me got geck... ooooh... pretty lights over there!}
 {298}{}{Bet 5 chips?}
 {299}{}{Bet 15 chips?}
 {300}{}{Bet 25 chips?}
@@ -97,10 +97,10 @@
 {305}{}{No bets today, thanks.}
 {310}{}{Uh, very well, sir. Come back soon.}
 {311}{}{Uh, very well, ma'am. Come back soon.}
-{312}{}{Um…I hear they're giving away brains out back. Maybe you should go check it out.}
+{312}{}{Um... I hear they're giving away brains out back. Maybe you should go check it out.}
 {313}{}{Byeee-byeeee}
 {314}{}{Gooodie. }
-{315}{}{Uh…brains…what them?}
+{315}{}{Uh... brains... what them?}
 {320}{}{Very well, sir. Come back soon.}
 {321}{}{Very well, ma'am. Come back soon.}
 {322}{}{5 chips? 'Too rich for your blood?' Pal, you're in the wrong town.}
@@ -154,32 +154,32 @@
 {391}{}{Then that's a bet you'd lose, sweetheart. I ain't seen that bum since he pulled that swindle on Mr. Salvatore.}
 {392}{}{Then that's a bet you'd lose, girlfriend. I ain't seen that bum since he pulled that swindle on Mr. Salvatore.}
 {393}{}{Maybe you didn't hear me the first time, so for the benefit of the hearing impaired: Where is Lloyd?}
-{394}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind…or bribed.}
+{394}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {395}{}{Fine. We'll talk later, Nikki.}
 {400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
 {401}{}{Girlfriend, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
-{402}{}{Nikki, Nikki…I'm losing PATIENCE here. If you don't tell me where Lloyd is, I'm going to lose my temper, too.}
+{402}{}{Nikki, Nikki... I'm losing PATIENCE here. If you don't tell me where Lloyd is, I'm going to lose my temper, too.}
 {403}{}{Nikki, I don't know what happened between you and Lloyd. But guess what? I don't NEED to know. I'll just tell
  Mr. Salvatore what I suspect.}
 {404}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{405}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind…or bribed.}
+{405}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {406}{}{We'll talk later then, Nikki.}
 {410}{}{You touch me, and Mr. Salvatore will skin you alive.}
 {411}{}{Salvatore won't protect you; dealers like you are a chip a dozen. Cut the shit and tell me where Lloyd is or ELSE.}
 {412}{}{Salvatore won't protect you; he's dead. Cut the shit and tell me where Lloyd is or ELSE.}
 {413}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{414}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind…or bribed.}
+{414}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {415}{}{We'll talk later then, Nikki.}
 {420}{}{Do que você está falando?}
 {421}{}{Nikki, if you don't tell me everything right now, I'll tell Mr. Salvatore you were in on it, whether you were or not.
  He'll have Mason cut you up seven ways to Sunday, and have your job filled in an hour.}
 {422}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{423}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind…or bribed.}
+{423}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {424}{}{We'll talk later then, Nikki.}
 {430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
  something there. Now, if you don't mind, I got to get back to work.}
 {431}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{432}{}{Pretty suspicious that you didn't notice him cheating all those times. You'd have to be blind…or bribed.}
+{432}{}{Pretty suspicious that you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {433}{}{We'll talk later then, Nikki.}
 {440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
  I gotta pretty good line on shitheads like you, though.}
@@ -194,7 +194,7 @@
 {460}{}{You get the hell outta here right now. I ain't got nothing else to say to you.}
 {461}{}{I got nothing to say to you. Get out of here.}
 {462}{}{Not now, maybe. We'll talk later though, Nikki. Count on it.}
-{470}{}{You talk smooth...but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
+{470}{}{You talk smooth... but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
 {471}{}{Maybe. Depends on what you got for me.}
 {480}{}{COULD be that Lloyd still has my take, and I ain't sure he's gonna give it to me. So COULD be that - for 500 chips - I
  COULD tell you where his lying ass is hanging out.}
@@ -209,7 +209,7 @@
 {510}{}{Go to hell, then! I ain't got nothing else to say to you, EVER.}
 {511}{}{Breaks my heart. Later, Nikki.}
 {600}{}{You bribe Nikki in telling you where Lloyd might be hiding.}
-{1210}{}{. Can I help you with…anything?}
+{1210}{}{. Can I help you with... anything?}
 {1214}{}{.}
 {1235}{}{. Looking to spend some chips?}
 {1239}{}{, win some chips.}
@@ -217,8 +217,8 @@
 {1242}{}{. Let me know if I can help you with anything.}
 {1243}{}{?}
 {1244}{}{.}
-{1251}{}{…(winks)…you looking to gamble?}
-{1252}{}{…(smiles)…wanna take a chance?}
+{1251}{}{...(winks)...you looking to gamble?}
+{1252}{}{...(smiles)...wanna take a chance?}
 {1253}{}{, you came to the right place.}
 {1266}{}{, win some chips.}
 {1268}{}{.}

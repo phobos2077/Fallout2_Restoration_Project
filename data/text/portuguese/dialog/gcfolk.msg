@@ -69,18 +69,18 @@
 {225}{}{I'll have mine shaken, not stirred.}
 {226}{}{Ask Wooz to tell you a story.}
 {227}{}{Let's sing a song.}
-{228}{}{…And then the heads do what? I just don't understand Wooz.}
+{228}{}{...And then the heads do what? I just don't understand Wooz.}
 {229}{}{What's an apple?}
 {240}{}{You're pretty nice for a smoothskin.}
 {241}{}{Buy us another round, smoothy.}
-{242}{}{./~ How dry I am, How dry I am…. ./~}
+{242}{}{./~ How dry I am, How dry I am... ./~}
 {243}{}{You're okay in my book.}
 {244}{}{Hey, watch out for the rat.}
 {245}{}{I wonder why Skeeter never joins us?}
-{246}{}{We're trying to breed a new type of brahmin -— with only one head.}
+{246}{}{We're trying to breed a new type of brahmin -- with only one head.}
 {247}{}{Somebody ought to start making more clothes here.}
 {248}{}{Ahh, beer is good.}
-{249}{}{This beer is great. It's the water -— and a lot more.}
+{249}{}{This beer is great. It's the water -- and a lot more.}
 {260}{}{You're the best smoothskin I've ever known.}
 {261}{}{More glow-juice! More glow-juice!}
 {262}{}{Gives us another, eh smoothy?}
@@ -94,15 +94,15 @@
 {280}{}{I love you, man.}
 {281}{}{You're the best.}
 {282}{}{Nuke Vault City 'til it glows!}
-{283}{}{./~99 syringes of Rad-away on the wall, 99 syringes…. ./~}
-{284}{}{./~ I've been working on the re-act-or, all the live-long day…. ./~}
+{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
+{284}{}{./~ I've been working on the re-act-or, all the live-long day... ./~}
 {285}{}{Before you, I wouldn't trust a smoothskin at all.}
 {286}{}{I guess some of you smoothies are okay after all.}
 {287}{}{We ought to go get Chester to drink with us.}
 {288}{}{When I Renew, I want to turn out just like you.}
 {289}{}{Sure glad our reactor's running.}
 {290}{}{I must be drunk. Wooz is starting to make sense to me.}
-{291}{}{I think I saw an apple once…or was it a banana?}
+{291}{}{I think I saw an apple once... or was it a banana?}
 {300}{}{The reactor is working so good you can almost hear it hum.}
 {301}{}{Thanks for working things out with Vault City for us.}
 {302}{}{We're going to have so much power now.}

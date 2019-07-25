@@ -98,7 +98,7 @@
 {834}{}{Ya llevas demasiada gente contigo, Jefe. Esperaré aquí hasta que hasta que puedas arreglar las cosas. La comida de Mamá me recuerda a la de mi ex-mujer... aunque no sé si eso es algo bueno o malo...}
 {835}{}{Me encantaría, Jefe. Pero parece que no tienes espacio para nadie más en el grupo. Me quedaré en el local de Mamá. No he estado allí desde hace un tiempo. Ven a verme si encuentras sitio para mí.}
 {840}{}{Ed se encuentra en Ciudad Refugio. Es un tratante de brahmines. Él tan sólo era uno de mis muchos proveedores. Ciudad Refugio está al este, no muy lejos de aquí.}
-{845}{}{Ya te lo he dicho, está por aquí. [Vic señala el lugar en tu PipBoy 2000].}
+{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
 {900}{}{Vic te ha hablado de su vida como mercader.}
 {1000}{}{Necesito preguntarte algo.}
 {1100}{}{Curado del todo, Jefe. ¿Algo más?}

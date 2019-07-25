@@ -3391,7 +3391,7 @@
 {44562}{}{Negative damage inflicted. Adjusting targeting scanners.}
 {44563}{}{Enemy missed. Recalibrating targeting sensors.}
 {44564}{}{Error. Malfunction in targeting sensors.}
-{44565}{}{Analyzing firing data...corrections complete.}
+{44565}{}{Analyzing firing data... corrections complete.}
 {44566}{}{Enemy target undamaged.}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}
 {44801}{}{Eso me va a producir un infernal dolor de cabeza.}
@@ -3620,7 +3620,7 @@
 {70300}{}{A cat's got to look after himself!}
 {70301}{}{Screw it, you're not worth it.}
 {70302}{}{Fuck this, I'm outta' here.}
-{70303}{}{Gotta jet while I've still got a life to spare.}
+{70303}{}{Gotta Jet while I've still got a life to spare.}
 {70304}{}{You won this time, monkey!}
 {70320}{}{Don't worry, this'll be over *real* soon.}
 {70321}{}{This cat's about to pounce!}
@@ -3638,10 +3638,10 @@
 {70402}{}{Cào! I hope that didn't break my nose.}
 {70410}{}{¡Ay! ¡Mi brazo!}
 {70411}{}{¡Maldición, eso duele!}
-{70412}{}{At least it's not broken… I don't think.}
+{70412}{}{At least it's not broken... I don't think.}
 {70420}{}{¡Ay! ¡Mi brazo!}
 {70421}{}{¡Maldición, eso duele!}
-{70422}{}{At least it's not broken… I don't think.}
+{70422}{}{At least it's not broken... I don't think.}
 {70430}{}{Creo que me has roto una costilla.}
 {70431}{}{I won't die that easily.}
 {70432}{}{¡Oh! ¡Eso duele!}

@@ -14,7 +14,7 @@
 {113}{}{Va-le: ¡no eres tan especial! Tal vez debería comprar en otro lugar.}
 {114}{}{Déjame echar un vistazo a tus existencias.}
 {115}{}{Creo que Edna y yo nos iremos ahora.}
-{116}{}{Bien, gracias a Dios que ese forastero no te llevó, hija... Mis cosas son mis hijas.}
+{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
 {117}{}{Uhh... por supuesto.}
 {118}{}{Bien, creo que iré ahora.}
 {119}{}{Puedo reparar todo tipo de cosas. Con un compresor -lo llamo Claudia-, que se adapta a la mayoría de coches, y se consigue bastante más potencia. Por sólo 1.000 dólares. ¿Te interesa?}

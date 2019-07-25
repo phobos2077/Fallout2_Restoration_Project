@@ -15,7 +15,7 @@
 {400}{}{¿Qué más querías saber?}
 {401}{}{¿Qué puedes contarme acerca de la Abadía?}
 {402}{}{¿Sabes algo sobre el Kit de Creación del Jardín del Edén?}
-{500}{}{Lo siento amiga, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí.}
+{500}{}{Lo siento amigo, nunca he oído hablar de eso. Pero si tiene que ver con los tiempos de la pre-guerra, entonces apuesto a que hay algo al respecto en las computadoras del monasterio. Desafortunadamente para ti, esos monjes son realmente protectores de su información, temerosos de que conduzca a otra guerra o algo así si las personas aprenden demasiado. Aún así, podría valer la pena preguntar por allí.}
 {501}{}{Gracias, lo haré. Sin embargo, tengo algunas preguntas más.}
 {502}{}{Gracias por el consejo. Voy a comprobar eso ahora.}
 {600}{}{¿El hermano Samuel te envió aquí? ¿Qué es de ese borracho hasta ahora?}

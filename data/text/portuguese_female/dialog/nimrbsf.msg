@@ -5,7 +5,7 @@
 {230}{}{(Close inspection reveals a small cube of plastic explosive set into the wall just beneath the safe, primed to go off if the user enters the wrong combination. It was covered with a thin layer of plaster to disguise it.)}
 {240}{}{(You turn the dial slowly for several minutes, but you can't make out anything.)}
 {250}{}{(You don't find any traps on the safe.)}
-{260}{}{(You are turning the knob...when suddenly there is a KER-KLANK, and the door opens!)}
+{260}{}{(You are turning the knob... when suddenly there is a KER-KLANK, and the door opens!)}
 {270}{}{(You turn the knob, but the tiny door won't open!)}
 {290}{}{(You don't hear anybody, and you can't see a doorbell. Maybe nobody's home.)}
 {300}{}{(With surgical precision, you disarm the fuse and pull the plastic explosive from the wall. The trap is now disarmed.)}

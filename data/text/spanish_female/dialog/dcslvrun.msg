@@ -7,7 +7,7 @@
 {130}{}{Ves a un hombre de aspecto harapiento.}
 {131}{}{Este parece relativamente fuerte.}
 {140}{}{Ves a un hombre con las ropas roídas.}
-{141}{}{Sus movimientos parecen los de alguien rápido.}
+{141}{}{He moves with suggesting speed.}
 {150}{}{Ves a una mujer muy sucia.}
 {151}{}{Parece que nunca se haya bañado.}
 {160}{}{Ves a una mujer bastante grande.}

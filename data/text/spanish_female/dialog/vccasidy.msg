@@ -58,7 +58,7 @@
 {157}{Cas0157}{No te ofendas, pero no pareces capaz de liderar nada. Parece que vayas a servirle de cena al Yermo.}
 {158}{Cas0158}{Paso, no viajo con esclavistas. Tienen el asqueroso hábito de venderte cuando necesitan dinero. Sin ofender.}
 {159}{Cas0159}{Paso, parece que tienes un pie en la tumba y el otro en el infierno. No creo que deba manchar mi reputación más de lo que ya lo está.}
-{160}{Cas0160}{Paso... parece que ya llevas a un montón de gente contigo.}
+{160}{Cas0160}{Ni hablar... parece que ya tienes a un montón de gente a tu alrededor.}
 {161}{}{De acuerdo. Bien, buena suerte.}
 {162}{}{Entonces olvida lo que te he preguntado, capullo. Sigue atendiendo tu bar en esta apestosa ciudad.}
 {163}{}{No importa. Tú te lo pierdes.}
@@ -185,7 +185,7 @@
 {362}{}{Si tuviera veinte años menos, me gustaría ir al este y explorar el Medio Oeste. Ahora es demasiado tarde, supongo.}
 {363}{}{He oído que tienen tornados con kilómetros de anchura en el Medio Oeste. Ahora es un gran desierto radiactivo.}
 {364}{}{Me pregunto si Texas sobrevivió a la guerra...}
-{365}{}{Gracias, amiga. Yo... hey. Empiezo a ver borroso.}
+{365}{}{Gracias, amigo. Yo... hey. Empiezo a ver borroso.}
 {366}{}{He oído que este material te hace alucinar...¡Ey! ¡¿De dónde demonios salieron estas serpientes?!}
 {367}{}{Cada vez que tomo esta cosas, me vienen a la cabeza viejos recuerdos.}
 {368}{}{Nada como un poco de curativo tribal de mala muerte...}

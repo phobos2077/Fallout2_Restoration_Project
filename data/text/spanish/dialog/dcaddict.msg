@@ -20,7 +20,7 @@
 {200}{}{Guau, tienes un extraño resplandor oscuro.}
 {201}{}{Oh, eres un grandullón.}
 {202}{}{No les digas que lo que tú y yo sabemos no está aquí.}
-{203}{}{Ahhh…}
+{203}{}{Ahhh...}
 {204}{}{¿Puedes verme?}
 {205}{}{Se mu, mu silencioso. Toy cazando conejos.}
 {206}{}{¿Cómo has acabado aquí?}

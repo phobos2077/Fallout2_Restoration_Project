@@ -116,8 +116,8 @@
 {921}{}{Listen to me! Our village Elder foresaw your death. The next time you leave this cave to guide these men through the
  mountains, you will not return alive. You must leave here immediately or the evil spirits will take you.}
 {922}{}{Do you doubt the Elder?}
-{930}{}{W-Why...Why should Shadow Who Walks believe you? How did the Elder foresee such events?}
-{931}{}{Well...She was watching this movie once...No, no...Uh, she was playing this videogame...Mmmmm...Yes! It's called Fal-...}
+{930}{}{W-Why... Why should Shadow Who Walks believe you? How did the Elder foresee such events?}
+{931}{}{Well... She was watching this movie once... No, no... Uh, she was playing this videogame... Mmmmm... Yes! It's called Fal-...}
 {932}{}{She drank this drink, it smelled quite strong, and vivid dreams came to her.}
 {933}{}{The bone in here nose told her. This is how she communicates with our ancestors.}
 {940}{}{You are lying. This is not how one talks with the spirits. Now Shadow Who Walks will see how tongue of liar tastes with favorite brock sauce.}

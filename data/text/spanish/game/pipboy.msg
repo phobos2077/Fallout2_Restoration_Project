@@ -82,7 +82,7 @@
 {603}{}{Archivos}
 {604}{}{Alarma Reloj}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Bienvenido al Pipboy 2000 de RobCo.}
+{606}{}{Welcome to the RobCo Pip-Boy 2000.}
 {607}{}{Hasta la vista.}
 {608}{}{Despierta.}
 {700}{}{Refugio 13}
@@ -341,8 +341,8 @@
 {10026}{}{Informe de Misión 2077}
 {10027}{}{Debido a un déficit de personal entrenado, Sierra}
 {10028}{}{será modificada como una base de defensa automatizada.}
-{10029}{}{Todo el personal será transferido a instalaciones ve-}
-{10030}{}{cinas o enviado a la línea del frente. }
+{10029}{}{personnel are to be relocated to neighboring}
+{10030}{}{installations or sent to the front line.}
 {10031}{}{**END-DISK**}
 {11000}{}{Galaxy News Network}
 {11001}{}{Transcripción de Emisión, 11 de Enero de 2073}
@@ -910,7 +910,7 @@
 {16051}{}{¡Esclavistas, mutantes no reformados, criminales famo-}
 {16052}{}{sos, y otros indeseables no son bienvenidos!}
 {16053}{}{**END-PAR**}
-{16054}{}{PERO, ¿Y SI TODA MI CIUDAD QUIERE UNIRSE?}
+{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
 {16055}{}{Dependiendo de donde se sitúe tu ciudad, la RNC acepta}
 {16056}{}{solicitudes de pueblos, ciudades, bases, estados, inclu-}
 {16057}{}{so pequeños reinos, para su anexión por la RNC.}
@@ -1021,8 +1021,8 @@
 {20010}{}{decisiva para el progreso de nuestra investigación.}
 {20011}{}{**END-PAR**}
 {20012}{}{Hemos descubierto que el VEF no estaba originalmente}
-{20013}{}{diseñado para ser usado como agente para la creación de}
-{20014}{}{supersoldados. Aparentemente, en principio el VEF se}
+{20013}{}{designed to be used as an agent for the creation of}
+{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
 {20015}{}{diseñó como toxina vírica. Solo posteriormente el virus}
 {20016}{}{VEF se manipuló en un intento de crear supersoldados.}
 {20017}{}{**END-PAR**}

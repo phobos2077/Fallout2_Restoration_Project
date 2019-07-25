@@ -203,7 +203,7 @@
 {653}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en
  el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, amigo? NECESITAMOS talentos como tú.}
 {654}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, tetazas?}
-{655}{}{How do you "film?" I mean, c'mon...you'd need cameras, film, projectors... where would you get all that stuff?}
+{655}{}{How do you "film?" I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
 {657}{}{No, gracias. He de irme.}
 {658}{}{Sólo echaba un vistazo. Últimamente me he sentido un poco agotado.}
 {670}{}{Tuvimos suerte… NO necesitamos nada de esa porquería de la Edad de Piedra. Nos encontramos con un por… er, proyector holo…gráfico FUNCIONAL. Nada de equipamiento voluminoso, nada de complicaciones… y sin líos raros.}

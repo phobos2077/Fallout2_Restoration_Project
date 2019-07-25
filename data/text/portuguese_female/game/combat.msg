@@ -496,7 +496,7 @@
 {2037}{}{the wings}
 {2038}{}{uncalled}
 {5000}{}{. That really hurts}
-{5001}{}{. A serious wound is inflicted}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{ with no armor defenses}
 {5003}{}{. The damaging attack knocks him unconscious}
 {5004}{}{. The blow knocks him to the ground}
@@ -534,7 +534,7 @@
 {5036}{}{. The pain is too much for him and he collapses like a rag}
 {5037}{}{. He mumbles "Mother", as his eyes roll into the back of his head}
 {5100}{}{. That really hurts}
-{5101}{}{. A serious wound is inflicted}
+{5101}{}{. Serious pain is inflicted}
 {5102}{}{ with no armor}
 {5103}{}{. The damaging attack knocks her unconscious}
 {5104}{}{. The blow knocks her to the ground}

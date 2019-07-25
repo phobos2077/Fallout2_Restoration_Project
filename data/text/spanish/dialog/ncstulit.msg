@@ -48,7 +48,7 @@
 {290}{}{(Sonríe). Muy bien, es un trato. Me llamo Stuart, la mayoría me llama Pequeño Stuart, pero eso sólo es porque… bien, todo lo que
  necesitas saber es que soy grande en las cuestiones importantes. ¿Tienes un nombre, caraculo?}
 {291}{}{Yo }
-{292}{}{Mi… ah… mi…}
+{292}{}{Me... uh... me...}
 {293}{}{Yo Gran Stu.}
 {296}{}{[Te alejas en busca de aventuras].}
 {300}{}{Mi-a-mi, ¿eh? "Miami…" Me GUSTA. Me GUSTA. Está bien, hagamos un poco de daño.}
@@ -118,7 +118,7 @@
 {412}{}{(Te mira de arriba abajo). ¿Tiene un nombre lo que acompaña a esas piernas?}
 {420}{}{(Stuart asiente). }
 {421}{}{Muy bien, }
-{422}{}{… }
+{422}{}{... }
 {423}{}{¿Qué puedo hacer por ti?}
 {424}{}{Quiero boxear. ¿Puedes ayudarme?}
 {430}{}{(Stuart asiente con la cabeza y sonríe cuando te aproximas). ¡Oye, héroe! He oído lo que hiciste. Felicidades. ¿Qué tal?}
@@ -161,7 +161,7 @@
 {474}{}{Oh, esto es una mierda. Me largo de aquí.}
 {480}{}{(Stuart frunce el ceño profundamente. Parece a punto de protestar, pero luego mueve la cabeza y sonríe con suficiencia). ¡Vale ya!
  Ahora, si YA has terminado de menoscabarme, hablemos de gestión.}
-{481}{}{Vale…}
+{481}{}{De acuerdo...}
 {490}{}{Está bien… (Stuart te mira). Vas a necesitar un hombre, ya sabes, un apodo. Algo que suene duro. Es decir, algo como }
 {500}{}{(El enano frunce el ceño). ¿No murió a manos de aquel tipo ruso hace tiempo? Bah, lo que sea. ¿Vamos a calentar el cuadrilátero?}
 {501}{}{(El enano sonríe con suficiencia). Parece que tú y el "Masticador" os vais a llevar bastante bien. Pero no arranques demasiadas orejas. Bueno… ¿vamos a calentar el cuadrilátero?}
@@ -182,7 +182,7 @@
 {530}{}{¿Y qué te hace pensar que alguna vez he formado parte de un circo, y mucho menos haber sido esclavizado por uno?}
 {531}{}{Eh… bien, sé que la mayoría de los ciudadanos de Nuevo Reno actúan como salidos de un circo, y pensé…}
 {540}{}{PENSASTE que porque soy una persona de poca estatura, la única carrera que podría conseguir sería el estar confinado bajo lo que llaman 'la carpa'.}
-{541}{}{Eh… bien, verás…}
+{541}{}{Uh... well, now...}
 {550}{}{Me miraste por ENCIMA y pensaste que podías saberlo todo sobre mi vida. Nunca se te hubiera ocurrido que una
  persona de mi altura podría haber obtenido un título en "Gestión Boxística".}
 {551}{}{Lo siento, no pretendía ofender.}
@@ -200,12 +200,12 @@
 {600}{}{He reparado en tu físico ridículamente sobre-musculado, tu enérgica actitud de aprendiz de Mad Max, tu poco imaginativa
  asignación de puntos de personaje, y he concluido que eres un "enano" a medio terminar.}
 {601}{}{He reparado en tus pechos sobre-pixelados, tu ridículo vaivén cuando caminas, tu poco imaginativa asignación de puntos de personaje, y he concluido que eres una aprendiz de Laura Kroft a medio terminar… una "munchkin".}
-{602}{}{Yo…}
+{602}{}{I...}
 {610}{}{No eres más que el típico 'modelo masculino de héroe de RPG', si lo prefieres, uno de los MUCHOS modelos que parecen llenar este
  mundo a borbotones.}
 {611}{}{No eres más que la típica 'modelo femenina de heroína de RPG', si lo prefieres, una de los MUCHOS modelos que parecen llenar este
  mundos a borbotones.}
-{612}{}{Bueno…}
+{612}{}{Bueno...}
 {1302}{}{ hagamos un poco de daño.}
 {1322}{}{ NO CARA CULO YO MATO TU MATO Y--}
 {1350}{}{…lo estás haciendo bien, ¿te sientes bien? Avísame cuando estés listo para tu próximo combate.}

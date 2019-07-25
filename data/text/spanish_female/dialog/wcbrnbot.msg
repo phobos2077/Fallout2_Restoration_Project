@@ -44,7 +44,7 @@
 {143}{}{Adiós.}
 {144}{}{Uhg.}
 {145}{}{Skynet ha procesado toda la información necesaria de esta localización.}
-{146}{}{Esssss……perandooo.}
+{146}{}{Waaaaa......tinnnnnng.}
 {147}{}{        [Está justo donde lo dejaste].}
 {148}{}{Vamos.}
 {149}{}{Espera aquí. Volveré.}
@@ -84,7 +84,7 @@
 {183}{}{Más órdenes}
 {184}{}{Adiós.}
 {185}{}{El propósito principal de Skynet es la investigación. Skynet es útil con cualquier problema que requiera una aproximación científica.}
-{186}{}{Más órdenes.}
+{186}{}{Más órdenes}
 {187}{}{Adiós.}
 {188}{}{Introducir órdenes para nueva formación.}
 {189}{}{Seguir a mucha distancia.}
@@ -97,7 +97,7 @@
 {196}{}{[El robot se detiene sobre su rastro].}
 {197}{}{Adiós.}
 {198}{}{Skynet continuará recopilando información por sí mismo. Skynet agradece al humano la libertad de Skynet.}
-{199}{}{Yeeeen…doooo.}
+{199}{}{Gooooo......innnnnnng.}
 {200}{}{Adiós.}
 {201}{}{Skynet viajará con el humano.}
 {202}{}{Vaaaa……leeeee.}

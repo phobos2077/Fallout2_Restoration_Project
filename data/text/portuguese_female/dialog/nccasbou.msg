@@ -3,9 +3,9 @@
 {151}{}{You see a casino bouncer. He looks big. And angry.}
 {152}{}{You see a casino bouncer. He's looking at you suspiciously.}
 {153}{}{You see a casino bouncer. You thought only mutants got that big.}
-{200}{}{Uh…you'll need to remove that armor...actually, nevermind.}
-{201}{}{Uh, sir…or ma'am…you'll need to remove that armor...uh, nevermind.}
-{202}{}{Sir…ma'am…you can't wear that in the casino...uh, unless you really want to. Nevermind.}
+{200}{}{Uh... you'll need to remove that armor... actually, nevermind.}
+{201}{}{Uh, sir... or ma'am... you'll need to remove that armor... uh, nevermind.}
+{202}{}{Sir... ma'am... you can't wear that in the casino... uh, unless you really want to. Nevermind.}
 {205}{}{Uh, why are you sneaking around, sir?}
 {206}{}{Uh, are you undercover, sir?}
 {210}{}{Uh, why are you sneaking around, ma'am?}
@@ -24,11 +24,11 @@
 {242}{}{This ain't the place to be gambling with your life. You better leave.}
 {245}{}{Sir, I'm sorry, you'll have to secure that weapon.}
 {250}{}{Ma'am, I'm sorry, you'll have to secure that weapon.}
-{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh...you're deadly enough as it is.}
+{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh... you're deadly enough as it is.}
 {260}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
 {265}{}{Tribal, you better secure that weapon right NOW.}
 {270}{}{Tribal, you better stop that sneaking around shit right NOW.}
-{275}{}{Hey, hey…Myron! Ain't seen you outside the lab in a long time.}
+{275}{}{Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
 {276}{}{You here to sample some of the new merchandise, Myron?}
 {277}{}{Hey! Come on in, Myron.}
 {280}{}{No mutants. He waits outside.}

@@ -29,26 +29,26 @@
 {150}{}{I'm ambivalent about them.}
 {151}{}{I like them!}
 {152}{}{In that case, I'll give you the real history.}
-{153}{}{A human named Jacob – I was named after him – founded this place. The mutant Marcus came along
+{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
  and forced everyone under his rule. }
 {154}{}{That's enough. You're crazy. Goodbye.}
 {155}{}{Conte-me mais.}
 {156}{}{Maybe if I tell you the real history, you'll change your mind.}
 {157}{}{Okay. Tell me.}
 {158}{}{No, I'm not really interested.}
-{159}{}{In that case, it's just great being here. This town has everything you could want… mutant
- sheriff, uranium mine, hospital, store… you can get just about anything here. You want anything else?}
+{159}{}{In that case, it's just great being here. This town has everything you could want... mutant
+ sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
 {160}{}{Sim.}
 {161}{}{Não.}
 {162}{}{Grande. Tchau.}
 {163}{}{Adeus.}
 {164}{}{He's been ruling here ever since the Master was destroyed. He puts down anyone who disagrees
- with him… or they just "disappear." The place looks civilized on the top of things, but the truth is
+ with him... or they just "disappear." The place looks civilized on the top of things, but the truth is
  that it's a killing ground for bloodthirsty mutants. There's a friend of a friend who had friends who
  disappeared after speaking up.}
 {165}{}{Continue.}
 {166}{}{That's enough. You're crazy. Goodbye.}
-{167}{}{We all pretend that this is a civilized town, that we're all on the up and up… but we all live
+{167}{}{We all pretend that this is a civilized town, that we're all on the up and up... but we all live
  in fear of the mutant rage. Each day, there are fewer and fewer humans.}
 {168}{}{All the mutants I've seen look old and decrepit.}
 {169}{}{Why not fight back?}
@@ -77,7 +77,7 @@
 {189}{}{No problem. They're all mutants anyway. But do it quietly, for god's sake.}
 {190}{}{Tenho-o. Eu tenho mais perguntas.}
 {191}{}{Got it. See ya.}
-{192}{}{More questions? }
+{192}{}{More questions?}
 {193}{}{I have some ore I want refined, and I don't want to pay the refinery's prices.}
 {194}{}{What can you tell me about Broken Hills?}
 {195}{}{I want some chemicals mixed.}

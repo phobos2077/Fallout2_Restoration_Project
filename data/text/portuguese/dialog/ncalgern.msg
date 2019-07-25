@@ -45,7 +45,7 @@
 {255}{}{Sorry, I don't think I have anything to give you, Al. Maybe next time.}
 {256}{}{Actually, I don't think giving an obvious retard any sort of weapon is a smart idea. Fun, maybe, smart, no. Later.}
 {260}{}{(Al takes the item, and his eyes light up. He tinkers with it for a few minutes, then a few minutes more,
- then a few more… an hour later, Al hands it back to you with a nod and an evil smile.) *Booooooom.*}
+ then a few more... an hour later, Al hands it back to you with a nod and an evil smile.) *Booooooom.*}
 {261}{}{Say... can you upgrade THIS?}
 {262}{}{Thanks, Al.}
 {265}{}{[Which one?]}
@@ -65,5 +65,5 @@
 {291}{}{Want to take a swig of this flamethrower fuel?}
 {292}{}{Here's some flamethrower fuel. Can you do anything with this?}
 {301}{}{Give him your cattle prod. Uh... after making sure that he grabs it hilt first.}
-{302}{}{Your Beat Co. "Bigger Frigger" Power Fist.}
+{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
 {400}{}{Me kill Al. Me better get outta here}

@@ -66,7 +66,7 @@
 {514}{}{Não é mau.}
 {515}{}{Como foi que isso aconteceu?}
 {516}{}{Oops.}
-{517}{}{Sem brincadeiras, sem brincadeiras. Pare!}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Bem, o jogo faz jus ao seu nome.}
 {519}{}{Eu só preciso de uma grande vitória.}
 {520}{}{Figuras!}
@@ -86,4 +86,4 @@
 {601}{}{Por que você fez isso?}
 {602}{}{Fugir!}
 {603}{}{Pare com isso, eu sou frágil.}
-{604}{}{Eu não faria isso por você.}
+{604}{}{I wouldn't do that to you.}

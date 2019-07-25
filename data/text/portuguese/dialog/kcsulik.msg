@@ -35,7 +35,7 @@
 {140}{slk6a}{The spirits with me, fren! They be all around. Sometimes talk.}
 {141}{}{Kind of like extra bats in the belfry, huh?}
 {142}{}{What spirits?}
-{143}{}{Ok...Can I ask you something else?}
+{143}{}{Ok... Can I ask you something else?}
 {150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
  you going to need it.}
 {151}{}{Por quê?}
@@ -111,11 +111,11 @@
 {350}{slk27aa}{They all say dark clouds gathering.}
 {351}{slk27ab}{Grampy Bone say they all gone.}
 {352}{slk27ac}{Spirits see more joining them. Many more.}
-{360}{slk27ba}{Grampy Bone say they all standing on the Great Water...Doesn't make sense to we and I, either.}
+{360}{slk27ba}{Grampy Bone say they all standing on the Great Water... Doesn't make sense to we and I, either.}
 {361}{slk27bb}{Spirits don't understand reason they gone. See it, don't understand it.}
 {362}{slk27bc}{They say there was a strong spirit here. Somehow that's why all were taken.}
 {370}{slk27ca}{Evil spirits aren't killing cattle.}
-{371}{slk27cb}{Bad spirit under something...snaps. Not sure what that mean.}
+{371}{slk27cb}{Bad spirit under something... snaps. Not sure what that mean.}
 {380}{slk27da}{Grampy Bone say this place full of bad people.}
 {381}{slk27db}{They say people get lost here real easy. In many ways.}
 {382}{slk27dc}{Hey! They say another bonespirit's here. Needs help.}
@@ -123,12 +123,12 @@
 {391}{}{This place has no future. We and you need to do something.}
 {400}{slk27fa}{Grampy Bone laughing, even though not funny. The fight's over something lost, not taken.}
 {401}{slk27fb}{Spirits not happy. Others pretend to be spirits, try to scare them like children.}
-{402}{slk27fc}{He who's with the spirits isn't...That's what they said.}
+{402}{slk27fc}{He who's with the spirits isn't... That's what they said.}
 {403}{slk27fd}{Everyone in the ground not be dead.}
 {410}{slk27ga}{Grampy Bone say things can be made good, but help needs come from outside.}
 {411}{slk27gb}{One place help the other, help self. Too bad they can't see it with their eyes open.}
 {420}{slk27ha}{We need to go where the spirits go, just not be what they are.}
-{421}{slk27hb}{This one is not the one, but it helps be the one...maybe spirits know more, maybe not. We
+{421}{slk27hb}{This one is not the one, but it helps be the one... maybe spirits know more, maybe not. We
  and I think they like to talk like that.}
 {430}{slk27ia}{Spirits say these are touched by shadow from city of lights.}
 {431}{slk27ib}{The head isn't with the body.}
@@ -176,7 +176,7 @@
 {706}{slk29a}{Let us show you how it's done in our tribe.}
 {707}{slk29b}{We be knowing the earth and winds well. We take care of this one.}
 {708}{slk29c}{Bonespirits help us out on this one.}
-{709}{slk30a}{We be like ugly on...you.}
+{709}{slk30a}{We be like ugly on... you.}
 {710}{slk30b}{Yeah, you be needing us to stay close. Keep you out of trouble.}
 {711}{slk30c}{We and I stay close if you promise to buy soap in next town.}
 {712}{slk31a}{Will do.}
@@ -212,7 +212,7 @@
 {742}{slk40a}{We and I will take a look.}
 {743}{slk40b}{Grampy Bone saying we should be careful.}
 {744}{slk40c}{No problem. Make sure it safe for our fren.}
-{745}{slk41a}{From now on you give two for one in trades...Just kidding. Grampy Bone
+{745}{slk41a}{From now on you give two for one in trades... Just kidding. Grampy Bone
  say you get funny look - like that one.}
 {746}{slk41b}{Sounds good.}
 {747}{slk41c}{What's ours is yours, fren.}
@@ -393,7 +393,7 @@
 {941}{}{Spirit that Walks?}
 {942}{}{Whoa. Spirits? Sounds scary. Goodbye.}
 {943}{slk80}{To the east is a canyon where Brahmin graze. We hear several moons back there was
- lightning and thunder...without clouds. Evil spirits come to that living land.}
+ lightning and thunder... without clouds. Evil spirits come to that living land.}
 {944}{}{Realmente?}
 {945}{slk80a}{Locals start to hear strange noises. Spirits in torment, say we and I. A few even
  see something there. Spirit-creature not wearing the shape of a man.}
@@ -429,12 +429,12 @@
 {1023}{}{No way we be frens with Child Killer.}
 {1025}{}{You be causing trouble in Klamath. We're gone.}
 {1026}{}{You be causing trouble in my home village. We're gone.}
-{2300}{}{De spirits be movin' us}
-{2301}{}{We and I be movin'}
+{2300}{}{De spirits be movin' us.}
+{2301}{}{We and I be movin'.}
 {2302}{}{OK, take it easy.}
-{2303}{}{Don' worry, We an' I be movin'}
+{2303}{}{Don' worry, We an' I be movin'.}
 {2304}{}{We thinkin' you need time to smell de flowers. Grampy-Bone say you're too pushy all de time. You got to be takin' life slower.}
-{2305}{}{We be movin' an' groovin'}
+{2305}{}{We be movin' an' groovin'.}
 {2306}{}{We and I go over here now.}
 {2307}{}{Relax, be happy, we move now.}
 {3000}{}{To the North.}
@@ -507,9 +507,9 @@
 {3082}{}{It be good to be back home again.}
 {3083}{}{So many young maidens to tell our travels to - and so little time.}
 {3084}{}{We be needing to have a talk with the herb-superb. Let the world float by-and-by.}
-{3086}{}{Take care fren.}
+{3086}{}{Take care, fren.}
 {3087}{}{We and I wish you the best of luck.}
-{3088}{}{Thanks again for everything fren.}
+{3088}{}{Thanks again for everything, fren.}
 {3090}{}{This here be our village. We and I go speak with our friends.}
 {3091}{}{We and I go speak with our friends again before headin out.}
 {3100}{}{[MAIS]}

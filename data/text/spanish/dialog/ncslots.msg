@@ -8,7 +8,7 @@
 {160}{}{*Ven a jugar un rato conmigo, vaquero*.}
 {161}{}{*Hola, guapo*.}
 {162}{}{*Pon una ficha, tira del brazo. Será bueno para ti.*}
-{163}{}{*Tick…Tick…Tiiiiick…*}
+{163}{}{*Tick… Tick… Tiiiiick…*}
 {164}{}{*Hola, hermosura. Ven a jugar un rato conmigo*.}
 {165}{}{*Hola, hermosura*.}
 {166}{}{*Mira qué cosita tan guapa. ¿Por qué no vienes a jugar conmigo?*}
@@ -38,7 +38,8 @@
 {211}{}{¿Eres un chip de agua?}
 {212}{}{Te alejas, buscando otras cosas brillantes.}
 {213}{}{Te marchas.}
-{220}{}{Agarras su brazo y lo agitas cálidamente. Al hacerlo, se escucha un *bzzzzzzz,* ¡y la caja habla! "Por… favor …inserta… dinero".}
+{220}{}{Le agarras el brazo y lo sacudes con fuerza. ¡Al hacerlo, escuchas un *bzzzzzzz,* y la caja
+ habla! "Por favor… introduce… moneda".}
 {221}{}{Aighhhhh! Robot! Robot! Funcionaaaaar}
 {222}{}{Te marchas.}
 {225}{}{No tienes suficiente dinero para jugar, y maldices tu pobreza. Tal vez en otra ocasión…}
@@ -94,7 +95,7 @@
 {305}{}{(Ves una máquina tragaperras. Su estructura brillante y su palanca dorada resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae, y sientes cómo te ruborizas por la expectación. Mientras la miras, te guiña uno de sus tres ojos. Escuchas una voz grave susurrando desde la ranura para monedas). *¡Vaya, vaya! Hoooola, cielo. ¿Le harás pasar a esta nena un buen rato?*}
 {306}{}{(Ves una máquina tragaperras. Su fuerte y tosca estructura y su palanca dorada brillan como el sol bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae seductoramente, y sientes que los muslos te arden por la excitación. Mientras la miras, de repente una fuerte voz masculina susurra desde la ranura para monedas). *Jamás he visto a una mujer tan hermosa como tú antes, señorita. ¿Quieres una oportunidad conmigo?*}
 {307}{}{::Te pellizcas::}
-{308}{}{Uh… ¿hola?}
+{308}{}{Uh... hello?}
 {309}{}{::Respiras profundamente, y te vas.::}
 {315}{}{*Sigo aquí, preciosa.* (La máquina baja el tono de voz). *Venga, vamos… ¿quieres hacer una apuesta?*}
 {316}{}{*Sigo aquí,dulzura*. (La máquina tragaperras baja la voz). *Eres todo un hombre, ¿sabes? Venga, vamos… ¿me quieres meter unas fichas?*}

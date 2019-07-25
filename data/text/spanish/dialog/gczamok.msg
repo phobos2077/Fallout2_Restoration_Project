@@ -5,7 +5,7 @@
 {111}{}{¡Renuévate, Camarada! ¿Qué estás haciendo aquí? Dile a Zomak el Destructor qué te trae por aquí.}
 {112}{}{¡Reno!}
 {113}{}{¿Vaaaaaaaaale?}
-{114}{}{Sólo estaba echando un vistazo.}
+{114}{}{Tan sólo estoy echando un vistazo.}
 {115}{}{Deseo la Renovación.}
 {116}{}{He tomado el pasillo equivocado.}
 {120}{}{Deberías echarlo en algún otro lugar. O Zomak te hará ver las estrellas.}
@@ -32,7 +32,7 @@
 {210}{}{¿Ook? ¿Qué quieres decir con eso? ¿Es que eres tonto?}
 {211}{}{¿Goop?}
 {220}{}{Lárgate de aquí. El Cerebro no tiene tiempo para los de tu clase.}
-{221}{}{Vale. Ya me marcho.}
+{221}{}{OK. I'll be going now.}
 {230}{}{Aquí abajo no hay nada excepto la guarida del Cerebro. Muchacho, eres tonto.}
 {231}{}{¿El Cerebro?}
 {232}{}{Sólo te estaba probando. Y lo has hecho bien. Ahora, déjame entrar.}

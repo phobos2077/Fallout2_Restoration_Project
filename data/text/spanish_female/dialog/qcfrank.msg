@@ -6,8 +6,8 @@
 {105}{}{¡Mutante roja!}
 {106}{}{Nos has destruido a todos.}
 {107}{}{Pagarás por lo que hiciste.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,…) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii……..}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh, cough, cough,…) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii……..}
+{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough,...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {110}{}{Oh-oh. Pasará algo malo. Yo corro a barco ahora.}
 {111}{}{Mejor que me vaya al barco y me largue de aquí.}
 {112}{ssa3alt}{Has llegado más lejos de lo que deberías, pero hasta ahora no habías conocido a Frank Horrigan. El juego acabó, mutante. Hora de morir.}

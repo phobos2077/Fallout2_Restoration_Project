@@ -2,7 +2,7 @@
 {101}{}{Você vê um escravista, com uma grande cicatriz em seu rosto.}
 {102}{}{Você vê um escravista bastante grande.}
 {150}{}{Há um escravista que parece aproveitar o trabalho dele.}
-{151}{}{Este escravista parece ser muito forte, mas não brilhante.}
+{151}{}{Este escravista parece ser muito forte, mas não muito brilhante.}
 {152}{}{Este escravista parece estar bem armados, como os outros.}
 {225}{}{Vamos pegar eles.}
 {226}{}{Só matar os hostis.}

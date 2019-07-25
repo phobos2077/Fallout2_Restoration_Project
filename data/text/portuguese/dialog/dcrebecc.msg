@@ -173,9 +173,10 @@ dinheiro. [Becky dá 1000 dólares]}
 {532}{}{Muito obrigado.}
 {533}{}{Brigado!}
 {534}{}{Ug! Perdy senhora.}
-{540}{}{Você é um homem maravilhoso. Embora eu não tolere suas ações. Você fez ao
-  mundo um ótimo serviço.}
-{541}{}{Você é mulher maravilhosa. Apesar de eu não toleram as suas ações. Você fez ao mundo um grande serviço.}
+{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
+ world a great service.}
+{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
+ world a great service.}
 {542}{}{Obrigado.}
 {550}{}{Você não é bem vindo aqui. Por favor saia.}
 {551}{}{Por favor saia.}

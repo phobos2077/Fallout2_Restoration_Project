@@ -26,7 +26,7 @@
 {120}{}{DEFAULT}
 {121}{}{CANCEL}
 {122}{}{Affect player speed}
-{123}{}{Pipboy speech}
+{123}{}{Pip-Boy speech}
 {201}{}{On}
 {202}{}{Off}
 {203}{}{Easy}

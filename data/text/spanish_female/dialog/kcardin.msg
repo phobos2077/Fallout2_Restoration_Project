@@ -121,11 +121,11 @@
 {416}{}{Uh, no importa.}
 {417}{}{¡¿Qué?! ¿Estás seguro de esto? ¿Qué pruebas tienes?}
 {418}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I confronted the Duntons about it, and they admitted to using them to scare your boy, Torr.}
-{419}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I think the Duntons are wearing these to scare Torr—hence his fear of "bug men".}
+{419}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I think the Duntons are wearing these to scare Torr--hence his fear of "bug men".}
 {420}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys are. Well, that explains what's been spooking Torr, but I'd like to get more proof that the Duntons are the ones that've been stealing our cattle. I'm afraid word of mouth just isn't good enough.}
 {421}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys were. Well, that explains what's been spooking Torr, but I wish there was more proof that it was the Duntons. I'm afraid word of mouth just isn't good enough. And now that the Duntons are dead, I'm not sure if we'll ever get to the bottom of this. But if you come up with anything else, please let me know.}
 {422}{}{Bien, veré si puedo gorronear algunos más pruebas.}
-{423}{}{Actually, I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one—which I assume was yours.}
+{423}{}{Actually, I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one--which I assume was yours.}
 {424}{}{That settles it then. With the bug parts and the double branding, we got enough to turn those no good boys in. I'll
  take it from here. Those ruffians won't be causing trouble anymore. Thanks for your help.}
 {425}{}{That settles it then. With the bug parts and the double branding, we got enough to pin the crime on them. Too bad they're dead, or I would've shown them a thing or two. I guess they got what they deserve. Thanks for your help.}
@@ -133,7 +133,7 @@
 {427}{}{Those Duntons make me sick. I'm glad you'll take care of them. Goodbye now.}
 {428}{}{Los Duntons obtuvieron lo que merecían. Adiós.}
 {429}{}{You did? Well, go on then, what did you find?}
-{430}{}{I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one—which I assume was yours.}
+{430}{}{I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one--which I assume was yours.}
 {500}{}{Sobre tus brahmines muriendo...}
 {510}{}{No habrás visto a un trampero llamado Smiley a las afueras del pueblo, ¿no? (para sí misma) Ha estado fuera demasiado tiempo. Nunca debí haberle dejado irse a semejante búsqueda.}
 {520}{}{Ha sido de mucha ayuda. Gracias.}

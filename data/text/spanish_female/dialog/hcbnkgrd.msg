@@ -44,6 +44,6 @@
 {143}{}{¿Habéis considerado la posibilidad de que vuestros prisioneros esté retenidos ilegalmente?}
 {144}{}{No deberías estar deambulando por aquí. Márchate ahora mismo.}
 {145}{}{Si alguna vez descubro a dónde se han ido corriendo esos malditos prisioneros, ¡lo pagarán en el infierno!}
-{150}{}{But… but… all right. They're out. You're accountable. I just hope you're right. Here is the...Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
+{150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
 {151}{}{De acuerdo.}
 {152}{}{I actually took that key from you. What are going to do about it?}

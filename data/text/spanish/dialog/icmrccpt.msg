@@ -7,7 +7,7 @@
 {203}{}{¡A divertirse, muchachos, tenemos un intruso!}
 {204}{}{Vaya, mira quién ha venido aquí a morir…}
 {205}{}{¡Maldición! ¡Alguien nos ha encontrado!}
-{206}{}{Tienes huevos viniendo aquí…}
+{206}{}{Que vengas aquí es una fiesta...}
 {207}{}{Has venido al lugar equivocado, puta.}
 {208}{}{Vaya, mira cómo se pavonea esta golfa...}
 {215}{}{Mejor será llamar a esos equipos pronto...}

@@ -29,7 +29,7 @@
 {131}{}{Nada. Tchau.}
 {132}{}{Not willing to cooperate, eh? Guards! Kill this intruder!}
 {133}{}{Your guards are dead men.}
-{134}{}{Go down that elevator and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
 {135}{}{Obrigado. Tchau.}
 {161}{}{. Eu estou apenas olhando ao redor.}
 {162}{}{. Eu estou apenas olhando ao redor.}
@@ -40,7 +40,7 @@
 {173}{}{What are you doing here?}
 {174}{}{I got a copy of the plans from the Shi.}
 {175}{}{I have the plans for the vertibird.}
-{176}{}{The Shi have the plans for the vertibird}
+{176}{}{The Shi have the plans for the vertibird.}
 {177}{}{O que posso fazer por você?}
 {178}{}{Esqueça. Tchau.}
 {179}{}{I am Harry, AHS-5. I am the starbrother in charge of the rocket ship. We are going to use it to travel to Quetzel.}

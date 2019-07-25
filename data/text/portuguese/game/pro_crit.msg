@@ -277,8 +277,8 @@
 {26000}{}{Yakuza}
 {26100}{}{NCR Ranger}
 {26200}{}{NCR Ranger}
-{26300}{}{Maurader}
-{26400}{}{Maurader}
+{26300}{}{Marauder}
+{26400}{}{Marauder}
 {26500}{}{Pretty Boy Lloyd}
 {26600}{}{Vorpal Rat}
 {26700}{}{Vault 13 Man}
@@ -393,7 +393,7 @@
 {37600}{}{Vic - Stage 4}
 {37700}{}{Vic - Stage 5}
 {37800}{}{Vic - Stage 6}
-{37900}{}{RoboBrain - Chimp}
+{37900}{}{Robobrain - Chimp}
 {38000}{}{Robobrain - Abnormal}
 {38100}{}{Robobrain - Human}
 {38200}{}{Giant Ant}

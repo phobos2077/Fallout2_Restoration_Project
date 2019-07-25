@@ -53,8 +53,8 @@
 {152}{}{Gracias. Lo haré.}
 {153}{}{¿Sabes algo de un GECK?}
 {154}{}{¡Vaya, eso es muy audaz por tu parte, forastero... y también jodidamente presuntuoso. ¡Ni te conozco lo más mínimo ni me gusta la pinta que tienes! No te recomendaría a nadie. Ahora, tengo trabajo que hacer.}
-{155}{}{Bueno, está Duppo, de los Comerciantes. Se encarga de los contratos para las caravanas de brahmines. También está el señor Westin. Si hablas con él, dile que yo te he enviado. Incluso la presidente Tandi ha estado buscando algo de ayuda.}
-{156}{}{Duppo, de la Asociación de Comerciantes, contrata mano de obra para las caravanas de brahmines. Inténtalo con él.}
+{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
+{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{¿Westin?}
 {158}{}{¿Presidente Tandi?}
 {159}{}{Tengo que irme.}
@@ -75,6 +75,6 @@
 {174}{}{¿Tandi?}
 {175}{}{Lo tendré en consideración.}
 {176}{}{No hay más trabajo, que yo sepa.}
-{177}{}{Duppo, de la Asociación de Comerciantes, contrata mano de obra para las caravanas de brahmines. La presidente Tandi también ha estado buscando algo de ayuda.}
+{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
 {178}{}{Alguien como tú debería abandonar la ciudad, así que ya ni hablar de buscar trabajo.}
-{179}{}{Duppo, de la Asociación de Comerciantes, contrata mano de obra para las caravanas de brahmines. Ve a hablar con él. También está el señor Westin. Si hablas con él, dile que yo he enviado.}
+{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}

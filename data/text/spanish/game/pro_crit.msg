@@ -277,8 +277,8 @@
 {26000}{}{Yakuza}
 {26100}{}{Ranger de la RNC}
 {26200}{}{Ranger de la RNC}
-{26300}{}{Merodeadora}
-{26400}{}{Merodeadora}
+{26300}{}{Merodeador}
+{26400}{}{Merodeador}
 {26500}{}{Lloyd el Guapo}
 {26600}{}{Rata Vorpal}
 {26700}{}{Hombre del Refugio 13}

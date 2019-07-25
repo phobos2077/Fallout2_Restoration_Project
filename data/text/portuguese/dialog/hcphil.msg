@@ -14,7 +14,7 @@
 {111}{}{, eh? Well, pleased to meet you, bucko. Want something to drink?}
 {112}{}{Grink yes!}
 {113}{}{Oh no. No no no no.}
-{114}{}{, pleased to meet you. I'm Phil. I own this place. Now… what'll it be?}
+{114}{}{, pleased to meet you. I'm Phil. I own this place. Now... what'll it be?}
 {115}{}{Nuka-Cola.}
 {116}{}{Beer.}
 {117}{}{Rotgut.}
@@ -73,10 +73,10 @@
 {192}{}{To tell you my name. It's }
 {193}{}{Nothing, sorry. Bye!}
 {194}{}{Well, all right then! What'll it be?}
-{198}{}{What's been going on in town? Well…}
+{198}{}{What's been going on in town? Well...}
 {199}{}{Thanks. I have more questions. }
 {200}{}{Obrigado. Tchau.}
-{201}{}{What to do, what to do… let's see…}
+{201}{}{What to do, what to do... let's see...}
 {202}{}{- more - }
 {203}{}{Someone busted those lunatics out of jail!}
 {204}{}{Someone destroyed the mine! The town is doomed!}
@@ -114,7 +114,7 @@
 {231}{}{What's new?}
 {232}{}{Nada. Esqueça.}
 {233}{}{I hope you don't mind me saying that the folks 'round here are a little pissed off that you
- kept that uranium for yourself. You been warned. Anyway… ready for a drink?}
+ kept that uranium for yourself. You been warned. Anyway... ready for a drink?}
 {234}{}{Sim.}
 {235}{}{No. But I have some questions.}
 {236}{}{Some folks might be a tad pissed off about Chad. You been warned. Ready for a drink?}

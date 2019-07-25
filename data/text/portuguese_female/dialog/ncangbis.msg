@@ -15,10 +15,10 @@
 {223}{}{You. Come here. Now.}
 {224}{}{O Yum.}
 {225}{}{Hmmmm.}
-{226}{}{Well, well…}
+{226}{}{Well, well...}
 {230}{}{I'm BORED.}
-{231}{}{Looks like one of Daddy's new whores…}
-{232}{}{One of Daddy's cheap sluts…}
+{231}{}{Looks like one of Daddy's new whores...}
+{232}{}{One of Daddy's cheap sluts...}
 {240}{}{Haven't seen YOU around before. What's your name, stranger? (Smirks.) Actually, never mind, I don't want to know. You as bored as I am?}
 {241}{}{You again. Bored yet?}
 {242}{}{Yam yam Me like yams}
@@ -32,12 +32,12 @@
 {250}{}{Not really. I've got somewhere I've got to be.}
 {260}{}{Oh, this IS going to be interesting. Come with me, I want to show you my room.}
 {261}{}{'Kay pretty girl.}
-{262}{}{Uh… we gonna play?}
+{262}{}{Uh... we gonna play?}
 {263}{}{Me no go.}
 {270}{}{You bet. Come on.}
 {271}{}{Me come}
 {272}{}{Me like play. Me play with self only though}
-{280}{}{Exactly…}
+{280}{}{Exactly...}
 {281}{}{[Follow her.]}
 {290}{}{Aw, come on! Pleeeease? I really wanted to show you my room. It'll just take a second, I promise.}
 {291}{}{No go! Me no go! No make me go! No take me bad place! No!}
@@ -48,12 +48,12 @@
 {311}{}{You work for him, which means you work for ME. }
 {312}{}{You better do what I say, and I say you're coming with me. Now.}
 {313}{}{You're right: Your Dad IS head of Family Bishop. That's why we're not going anywhere.}
-{314}{}{Well, if you're gonna pull rank and all… let's go.}
-{315}{}{It's not that I'm not FLATTERED, but…}
+{314}{}{Well, if you're gonna pull rank and all... let's go.}
+{315}{}{It's not that I'm not FLATTERED, but...}
 {316}{}{No. I meant it the first time.}
 {317}{}{No way, sweetheart. You run along now before you get a spanking.}
 {318}{}{Let's get one thing straight, princess: I give the orders, you receive them.}
-{320}{}{If you're bored, princess… squat on your hand and spin around. I'm outta here.}
+{320}{}{If you're bored, princess... squat on your hand and spin around. I'm outta here.}
 {330}{}{You'll wish you hadn't turned me down. Daddy's gonna start hearing ALL sorts of things about you soon. Just you wait.}
 {340}{}{Why? Am I getting a reaction out of you? (She takes a step toward you, and her voice drops.) Am I giving
  you a... HARD time?}
@@ -67,7 +67,7 @@
 {353}{}{Back off. I AIN'T in the mood for your bad-girl shit, you hear me?}
 {354}{}{What are YOU going to do about it? You talk the talk, but can you walk the walk?}
 {360}{}{Sure can. }
-{361}{}{Look: I got some Jet in my room… and NOT that crappy shit they give the dimestore hookers and junkies. Y'wanna fly?}
+{361}{}{Look: I got some Jet in my room... and NOT that crappy shit they give the dimestore hookers and junkies. Y'wanna fly?}
 {362}{}{Sure. Buckle up, baby.}
 {363}{}{I'll come along for the ride.}
 {364}{}{Your father know you do that shit?}
@@ -108,14 +108,14 @@
 {441}{}{Nothing. Let's go to your room.}
 {442}{}{I said, "can't we just be friends?"}
 {443}{}{Nothing. Look, I better be going.}
-{450}{}{Hey, it's you… we had some good times before you went off and kicked the Enclave's ass. You wanna re-live some
+{450}{}{Hey, it's you... we had some good times before you went off and kicked the Enclave's ass. You wanna re-live some
  of those moments?}
 {451}{}{You again. You want to waste some time?}
 {452}{}{Não agora.}
 {453}{}{All right. Let's go to your room.}
 {460}{}{I heard about what you did to the Enclave, }
 {462}{}{Well, well: }
-{463}{}{VERY impressive. I think you're just the person to help me with this… problem I have. }
+{463}{}{VERY impressive. I think you're just the person to help me with this... problem I have. }
 {464}{}{Me have problems}
 {465}{}{Only you ken prevent forest firez}
 {466}{}{Desliga}
@@ -145,7 +145,7 @@
 {534}{}{I better be going.}
 {535}{}{Estou fora daqui.}
 {540}{}{I CALLED you a whore, didn't I? Not much difference between being 'made' and getting laid, right?}
-{541}{}{Enforcer, whore… what's the difference?}
+{541}{}{Enforcer, whore... what's the difference?}
 {542}{}{There's a big difference. Do you want me to teach it to you, you little pampered bitch?}
 {543}{}{Not much difference, Miss Bishop.}
 {544}{}{I'm sorry Miss Bishop, I don't have time to talk right now.}
@@ -179,14 +179,14 @@
 {660}{}{Stay away from me. I haven't got anything to say to you.}
 {661}{}{Daddy's gonna start hearing ALL sorts of things about you soon. Just you wait.}
 {670}{}{Not only that, but when I take Jet, I get all WILD, and I can barely control myself. I need someone who knows how to
- take charge to make sure I don't do anything… foolish.}
+ take charge to make sure I don't do anything... foolish.}
 {671}{}{I'm your man. Let's do it.}
 {672}{}{Sometimes being a hero means protecting beautiful young women from themselves, whatever the cost. Lead on.}
 {673}{}{I think you have me confused with someone who'd actually consider touching you.}
 {680}{}{You see Angela Bishop, who is currently asleep. She is snoring slightly, her hair is in disarray, and she has a bright smile on her face.}
 {690}{}{You see a young woman in tight leather who is screaming her head off.}
-{700}{}{Zzxxssnnn…oh, }
-{701}{}{Zzzzz….}
+{700}{}{Zzxxssnnn... oh, }
+{701}{}{Zzzzz...}
 {800}{}{Rape! Help!}
 {801}{}{Help, he assaulted me! Help!}
 {802}{}{Rape! Rape!}
@@ -209,5 +209,5 @@
 {1460}{}{. }
 {1461}{}{. I saw your latest movie. }
 {1462}{}{. I heard about your exploits in the ring. }
-{1700}{}{, oooooh… zzxnhzzz}
-{1701}{}{, again? Ooooh… }
+{1700}{}{, oooooh... zzxnhzzz}
+{1701}{}{, again? Ooooh... }

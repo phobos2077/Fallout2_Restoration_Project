@@ -42,7 +42,7 @@
 {920}{}{Tropiezas con los restos de Nagor, quien murió intentando salvar a su perro.}
 {921}{}{Nagor murió intentando arrastrar el cuerpo de su perro de vuelta al poblado.}
 {930}{}{¡Auuuuuuu!}
-{950}{}{Te tomas tu tiempo practicando algunos movimientos. Tu habilidad de combate desarmado se incrementa un 5%.}
+{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
 {951}{}{La rata topo da un golpe mortal.}
 {952}{}{El juego ha acabado.}
 {1000}{}{Has aprobado el test de Ciudadanía.}

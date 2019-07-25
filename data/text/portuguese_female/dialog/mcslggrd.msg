@@ -21,12 +21,12 @@
 {230}{}{Vegeir will answer all your questions. Please come with us.}
 {231}{}{Okay, I'll go with you peacefully for now.}
 {232}{}{No, I'm not going anywhere with you unless I get some answers.}
-{240}{}{Hmm…I wonder if this is an exception to the rule. No, no, no. Vegeir said ALL surfacers,
+{240}{}{Hmm... I wonder if this is an exception to the rule. No, no, no. Vegeir said ALL surfacers,
  even the idiots. Come with me.}
 {241}{}{[Go with the guards.]}
 {242}{}{[Kill them all and let whatever gods they worship sort them out.]}
 {250}{}{I'm sorry; you can't leave this way.}
 {251}{}{This entrance is for the workers.}
-{252}{}{It takes too much effort set up the ramps for just one person.}
+{252}{}{It takes too much effort to set up the ramps for just one person.}
 {253}{}{If you want to leave, ask Vegeir.}
 {260}{}{Ogey Dogey.}

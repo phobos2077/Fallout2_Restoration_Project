@@ -1,5 +1,5 @@
 {100}{}{A large piece of machinery.}
-{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part..}
+{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
 {102}{}{The air purifier whirs quietly. It appears to be in working order.}
 {110}{}{That part could not possibly fix this.}
 {120}{}{You repaired the air purifier.}

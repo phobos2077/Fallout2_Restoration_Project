@@ -13,6 +13,6 @@
 {225}{}{Keycard accepted. Security override 2 complete.}
 {226}{}{Activate bomb.}
 {227}{}{Salir.}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min..Error in countdown procedure. Countdown restated at
+{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
  T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
 {229}{}{Mother of God...}

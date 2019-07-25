@@ -24,10 +24,10 @@
 {1081}{}{My face! My eyes! Arrrrgh!}
 {1082}{}{My eyes!}
 {1090}{}{Ooooooooo, my groin! Ooooooo...}
-{1091}{}{Oww...It burns!}
+{1091}{}{Oww... It burns!}
 {1092}{}{Urp!}
 {1093}{}{Ooorp! aoooww...}
-{1094}{}{I...can't...breathe...}
+{1094}{}{I... can't... breathe...}
 {1095}{}{The pain, the pain...}
 {1100}{}{Porra!}
 {1101}{}{My aching skull!}
@@ -59,7 +59,7 @@
 {1182}{}{My eye! You'll pay for that one!}
 {1190}{}{Oooooo, my groin!}
 {1191}{}{Oooooooooo!}
-{1192}{}{I...can't...breathe...}
+{1192}{}{I... can't... breathe...}
 {1193}{}{Erg! Right in the jewels!}
 {1194}{}{The pain, the pain...}
 {1195}{}{Damn, that hurts!}
@@ -253,7 +253,7 @@
 {1591}{}{You fight without honor.}
 {1592}{}{I'm married, didn't use it anyway.}
 {1593}{}{Holy spirits, the world just exploded.}
-{1594}{}{Gasp...can't breath....}
+{1594}{}{Gasp... can't breath....}
 {1595}{}{In high, squeaky, voice--Ouch!}
 {1596}{}{Unnhhh. I need to sit down for a bit.}
 {1597}{}{You bastard--I kill you slow for that.}
@@ -284,7 +284,7 @@
 {1622}{}{You're gonna regret that!}
 {1623}{}{I'm being moyderd heya.}
 {1624}{}{There goes Wimbledon.}
-{1625}{}{Sieg...oh, never mind.}
+{1625}{}{Sieg... oh, never mind.}
 {1626}{}{You've disarmed me!}
 {1627}{}{I only need one finger for *you* bub.}
 {1628}{}{I'll kick you to death then.}
@@ -347,7 +347,7 @@
 {1701}{}{Chopped nuts anyone?}
 {1702}{}{No more writing my name in the snow.}
 {1703}{}{Not the fricken head you...}
-{1704}{}{My...head...getting...dizzy}
+{1704}{}{My... head... getting... dizzy}
 {1705}{}{Ugnnn!}
 {1706}{}{Not the face! Not the face!}
 {1710}{}{I can beat you with one arm!}
@@ -359,20 +359,20 @@
 {1730}{}{Ahhg! Gut shot!}
 {1731}{}{Hnrgggg! Can't... breathe...}
 {1732}{}{My ribs hurt. Soon I will remove yours! It's only fair!}
-{1733}{}{You're...gonna...pay...for...that!}
+{1733}{}{You're... gonna... pay... for... that!}
 {1734}{}{*Ooooof* God I hate that...}
 {1735}{}{Nggg! Solar plexus!}
 {1760}{}{Dammit! My leg!}
 {1761}{}{I don't need two legs to kick your ass.}
 {1762}{}{Gonna need a stimpack for my leg...}
-{1763}{}{Urggg...leg's...screwed...}
+{1763}{}{Urggg... leg's... screwed...}
 {1770}{}{Dammit! My leg!}
 {1771}{}{*Ergg* Gonna have a limp after that one...}
 {1772}{}{Gonna need a stimpack for my leg...}
-{1773}{}{Urggg...leg's...screwed...}
+{1773}{}{Urggg... leg's... screwed...}
 {1780}{}{Shit! Not the eyes!}
 {1781}{}{Trying to cripple my depth perception, huh?}
-{1782}{}{Can't...see...blood...in...eyes...}
+{1782}{}{Can't... see... blood... in... eyes...}
 {1783}{}{Don't havta see ya, I can still smell ya!}
 {1790}{}{What do you think this is? Some cheap action flick?}
 {1791}{}{My balls!!! Come here and let me do that to you!}
@@ -411,14 +411,14 @@
 {1880}{}{That didn't FEEL like a needle in my eye...}
 {1881}{}{Hey! I see with that eye!}
 {1882}{}{My eyes! My eyes! My eyes hurt!}
-{1890}{}{I'm so dusted on Jet, I barely felt that. Oh...no, wait.}
+{1890}{}{I'm so dusted on Jet, I barely felt that. Oh... no, wait.}
 {1891}{}{*Hurhkkkk*}
 {1892}{}{Kick me in the groin, will you?!}
 {1893}{}{Nghhhhh!}
 {1894}{}{Not the groin! Not the groin!}
 {1895}{}{My genitals! My poor genitals!}
 {1896}{}{Pardon me while I throw up all over the place.}
-{1897}{}{That...hurt...a...LOT.}
+{1897}{}{That... hurt... a... LOT.}
 {1898}{}{I hope my groin just went to genital heaven.}
 {2000}{}{Misericórdia!}
 {2001}{}{Somebody help me!}
@@ -479,7 +479,7 @@
 {2200}{}{This ain't worth it!}
 {2201}{}{I have better things to do.}
 {2202}{}{Somebody help me!}
-{2203}{}{You got the better of me...this time.}
+{2203}{}{You got the better of me... this time.}
 {2204}{}{You'll get what's coming to you!}
 {2205}{}{I ain't dyin' for this!}
 {2220}{}{It's too late to run.}
@@ -593,13 +593,13 @@
 {2563}{}{Just pathetic...}
 {2564}{}{Too slow!}
 {2565}{}{Loser!}
-{2600}{}{ Run from the Evil One!}
+{2600}{}{Run from the Evil One!}
 {2601}{}{The spirits bid me to save myself!}
 {2602}{}{Our foe has used powerful magic--Run! Someone get the Shaman!}
 {2603}{}{The dark-spirit runs strong in this one. Death walks the earth!}
 {2604}{}{The dark one is here!}
 {2605}{}{The dark one seeks to punish us. Run! My soul flees and I must follow!}
-{2606}{}{ Aiiieeeee!!}
+{2606}{}{Aiiieeeee!!}
 {2620}{}{Ancestor guide my weapon arm!}
 {2621}{}{Your strength will be mine.}
 {2622}{}{Great will be my glory.}
@@ -783,7 +783,7 @@
 {3132}{}{Is it soup yet?}
 {3133}{}{Where's the beef?}
 {3134}{}{Mmm, I just love smoothskins.}
-{3135}{}{You crossed my shadow...or sumthin'}
+{3135}{}{You crossed my shadow... or sumthin'}
 {3136}{}{I knew I heard the chow-bell.}
 {3137}{}{Guess who's comin' to dinner.}
 {3138}{}{Parts is parts.}
@@ -829,15 +829,15 @@
 {3178}{}{My turn's next!}
 {3179}{}{Was that really your *best* shot? Man, are you in trouble.}
 {3200}{}{Whoa. I am SO outta here.}
-{3201}{}{I'll be back...after I get another hit.}
+{3201}{}{I'll be back... after I get another hit.}
 {3202}{}{Knew I should have taken more Buffout...}
 {3203}{}{I can't shoot up when I'm dead...}
 {3204}{}{Aieeeeeee! Don't hurt me! Don't hurt me!}
 {3205}{}{This hallucination just became way too real for me...}
 {3220}{}{Eat this!}
-{3221}{}{You better hope you have some stimpacks...or some Jet.}
+{3221}{}{You better hope you have some stimpacks... or some Jet.}
 {3222}{}{Maybe I can sell your body for some Jet...}
-{3223}{}{Gonna...hit...you...when...I...catch...you.}
+{3223}{}{Gonna... hit... you... when... I...catch... you.}
 {3224}{}{Maybe killing you will be the fix I need...}
 {3225}{}{I'll kill you! I'll kill you! I'll kill you!}
 {3226}{}{Killing you will top off my high nicely...}
@@ -957,10 +957,10 @@
 {12265}{}{You couldn't hit the broad side of a casino.}
 {12266}{}{If you tried to hit the air, you'd miss.}
 {12300}{}{Ngggg}
-{12301}{}{My...head...getting...dizzy}
+{12301}{}{My... head... getting... dizzy}
 {12302}{}{Ugnnn!}
 {12303}{}{Not the face! Not the face!}
-{12310}{}{My...arm...my...beautiful...arm.}
+{12310}{}{My... arm... my... beautiful... arm.}
 {12311}{}{Medic! My arm's fucked!}
 {12312}{}{*hffff*}
 {12320}{}{My stroke hand! Have you no shame?!}
@@ -969,20 +969,20 @@
 {12330}{}{My spleen!}
 {12331}{}{Hnrgggg}
 {12332}{}{*hff*}
-{12333}{}{You're...gonna...pay...for...that!}
+{12333}{}{You're... gonna... pay... for... that!}
 {12334}{}{*Ooooof*}
 {12335}{}{Nggg! Solar plexus!}
 {12360}{}{Dammit! My leg!}
 {12361}{}{*Ergg*}
 {12362}{}{Gonna need a stimpack for my leg...}
-{12363}{}{Urggg...leg's...screwed...}
+{12363}{}{Urggg... leg's... screwed...}
 {12370}{}{Dammit! My leg!}
 {12371}{}{*Ergg*}
 {12372}{}{Gonna need a stimpack for my leg...}
-{12373}{}{Urggg...leg's...screwed...}
+{12373}{}{Urggg... leg's... screwed...}
 {12380}{}{My eye! My beautiful eye!}
 {12381}{}{Trying to cripple my depth perception, huh?}
-{12382}{}{Can't...see...blood...in...eyes...}
+{12382}{}{Can't... see... blood... in... eyes...}
 {12390}{}{What do you think this is? Some cheap action flick?}
 {12391}{}{Now I can't sound off like a got a pair.}
 {12392}{}{Well, there go my brass balls.}
@@ -1072,7 +1072,7 @@
 {32091}{}{I... I... ouch...}
 {32092}{}{::whimper::}
 {32093}{}{::vomit::}
-{32094}{}{I...can't...breathe...}
+{32094}{}{I... can't... breathe...}
 {32095}{}{The pain, the pain...}
 {32100}{}{Your kung fu is better than mine!}
 {32101}{}{You are truly mighty. Goodbye.}
@@ -1168,7 +1168,7 @@
 {32404}{}{Waaaaaaaaaaa!!!}
 {32405}{}{AAGGH!! You shot me in the ass!!}
 {32420}{}{I'm gonna make you wish yer daddy pulled out early!}
-{32421}{}{Say...you've got a face like an arse!}
+{32421}{}{Say... you've got a face like an arse!}
 {32422}{}{Let's see what you've got, dickcheese.}
 {32423}{}{Bend over and grab your ankles, bub!}
 {32424}{}{For Shane!!}
@@ -1273,10 +1273,10 @@
 {32781}{}{My face! My eyes! Arrrrgh!}
 {32782}{}{My eyes!}
 {32790}{}{Ooooooooo, my groin! Ooooooo...}
-{32791}{}{Oww...It burns!}
+{32791}{}{Oww... It burns!}
 {32792}{}{Urp!}
 {32793}{}{::gasp::}
-{32794}{}{I...can't...breathe...}
+{32794}{}{I... can't... breathe...}
 {32795}{}{good thing... I'm already... sterile...}
 {32800}{}{Star Father! Help us!}
 {32801}{}{My anodynes!}
@@ -1424,7 +1424,7 @@
 {36090}{}{Oooooo, time out, I have to pick something up}
 {36091}{}{Ooo! Kaga gotta learn that move...}
 {36092}{}{Urg! Petey! You OK down there?}
-{36093}{}{That...wheeeeze...hurt!}
+{36093}{}{That... wheeeeze... hurt!}
 {36094}{}{Urp!}
 {36095}{}{Gasp!}
 {36100}{}{Nós vamos nos encontrar novamente!}

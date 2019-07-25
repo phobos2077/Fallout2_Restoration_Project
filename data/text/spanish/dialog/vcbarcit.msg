@@ -20,7 +20,7 @@
 {117}{}{Parece que últimamente le están concediendo pases de día a *cualquier* forastero...}
 {118}{}{He oído hablar de tus valientes hazañas. Le has prestado un gran servicio a Ciudad Refugio... y al mundo.}
 {119}{}{Tu lucha contra el Enclave impresionó incluso a la Primer Ciudadano.}
-{120}{}{He oído que has viajado al sur hasta tan lejos como San... Fran... Cisco. ¿Eso es cierto?}
+{120}{}{He oído que viajaste hacia el sur hasta San... Fran... Cisco. ¿Es cierto?}
 {121}{}{Quizá Ciudad Refugio *debería* dar la bienvenida a los forasteros. }
 {122}{}{¿Era cierto? ¿El gobierno del viejo mundo seguía librando la guerra?}
 {123}{}{Deberías registrar tus viajes en la computadora de Ciudad Refugio para que otros puedan leer sobre ellos.}

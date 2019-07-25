@@ -1,3 +1,1 @@
-###.Magnat.###...Added by Killap. Translated by Aliet (LevCorp-like). Done...########################
-{100}{}{Первый текст}
-
+{100}{}{Начальный текст}

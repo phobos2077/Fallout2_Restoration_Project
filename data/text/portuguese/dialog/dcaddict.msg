@@ -20,7 +20,7 @@
 {200}{}{Uau, você tem um estranho brilho escuro.}
 {201}{}{Meu, você é um cachorro grande.}
 {202}{}{Não diga a eles o que sabemos que não existe.}
-{203}{}{Ahhh…}
+{203}{}{Ahhh...}
 {204}{}{Você pode me ver?}
 {205}{}{Ser vewy, vewy tranquila. Eu sou caça wabbits.}
 {206}{}{Como você conseguiu chegar até aqui?}

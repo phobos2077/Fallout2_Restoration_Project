@@ -10,7 +10,7 @@
 {230}{}{Llevas una buena arma, }
 {240}{}{¿Por qué te arrastras por ahí, eh, }
 {250}{}{¿Cómo lo llevas, }
-{251}{}{Heeey… }
+{251}{}{Heeey... }
 {252}{}{Joooder, que calor.}
 {253}{}{Heeey! ¿Qué has estado haciendo, }
 {254}{}{Me alegra verte, }
@@ -99,7 +99,7 @@
 {524}{}{Yo de bajo dónde}
 {525}{}{¿A-migo?}
 {526}{}{Chiii-ka Chiiik-aaaah}
-{529}{}{Tengo algunas preguntas…}
+{529}{}{Tenía algunas preguntas...}
 {530}{}{No importa. Lamento molestarte.}
 {540}{}{}
 {541}{}{}
@@ -175,7 +175,7 @@
 {820}{}{El nombre del chico es Myron. Y en cuanto a dónde ESTÁ, eso es algo que no necesitas saber.}
 {821}{}{El nombre del chico es Myron. Lo tenemos alojado en el establo, al norte de la ciudad, probando nuevas drogas. Podrías pasarte por allí a verlo si quieres, pero está ocupado la mayor parte del tiempo… o con las drogas o con las mujeres.}
 {822}{}{¿Por qué no eres un poco listo y me respondes de todos modos?}
-{823}{}{Entiendo. Tenía algunas otras preguntas…}
+{823}{}{Got it. I had some other questions...}
 {824}{}{Myron, ¿eh? De acuerdo entonces, Jesús. Gracias por la conversación.}
 {840}{}{El Desperado es el lugar adecuado, amigo. Tenemos el Jet, los juegos, la acción… y tenemos a todas las putas que necesitas
  justo a la entrada, húmedas y dispuestas. El Paraíso, amigo. Para jugar.}
@@ -194,14 +194,14 @@
 {862}{}{Inténtalo y verás lo que sucede, PEQUEÑO Jesús.}
 {863}{}{Inténtalo, y te haré tantas cicatrices en la cara que parecerás un puzzle.}
 {864}{}{Calma… sólo te tomaba el pelo.}
-{865}{}{Tranquilízate. Tenía algunas otras preguntas…}
+{865}{}{Chill. I had some other questions...}
 {867}{}{Me marcho. Es genial hablar con alguien tan culto como tú.}
 {880}{}{¡Ja! Seguro que no, chica. Seguro que no. Pequeño Jesús va a mantener sus ojos sobre ti… tampoco es que no es que pueda evitarlo. ¿Qué
  puedo hacer por ti?}
 {881}{}{Lo primero que puedes hacer por mí es mantener tus ojos sobre ti mismo, PEQUEÑO Jesús. Preferiría considerar el follarme una roca antes
  que tocar ese paisaje lunar que tú llamas cara.}
 {882}{}{Estoy buscando trabajo. ¿Sabes de alguien que esté contratando gente?}
-{883}{}{Tenía algunas preguntas más…}
+{883}{}{Tenía algunas preguntas más...}
 {884}{}{En realidad, tengo que irme. Me ha alegrado hablar contigo, Jesús.}
 {890}{}{(Te estudia, y asiente). Siempre estamos buscando sangre nueva… especialmente sangre nueva dispuesta a derramar más sangre, ¿me entiendes? Sube las escaleras, habla con mi papá, dile que yo te he enviado, y quizá podamos hacer negocios.}
 {891}{}{(Te estudia, y niega con la cabeza). No contratamos chicas… excepto para determinados puestos. Prueba con papá en el piso de arriba, dile que yo te envío.
@@ -215,7 +215,7 @@
  trasero, ¿me comprendes?}
 {903}{}{NOSOTROS estamos contratando, pero con un cuerpo como el tuyo, deberías intentarlo en Estudios Hermanos Corsican, calle arriba. (Sonríe de oreja a oreja). Pero si estás buscando
  unas fichas rápidas, mi dormitorio está en el piso de arriba...}
-{904}{}{De acuerdo entonces. Tenía algunas otras preguntas…}
+{904}{}{De acuerdo entonces. Tenía algunas otras preguntas...}
 {905}{}{Eh, voy a pasar. Tenía algunas otras preguntas…}
 {906}{}{Preferiría que no, gracias. Aunque tenía que hacerte algunas preguntas más…}
 {907}{}{Oh, apuesto a que SERÍA rápido. No, gracias.}
@@ -240,7 +240,7 @@
  a cargar con la culpa.}
 {952}{}{No te creo. Creo que TÚ fuiste el responsable. Tú, y el resto de los Mordino.}
 {953}{}{¿Quién supones que podría haberlo hecho?}
-{954}{}{Está bien… verás, tenía algunas otras preguntas…}
+{954}{}{Okay... look, I had some other questions...}
 {955}{}{De acuerdo. Sólo preguntaba.}
 {965}{}{(Entorna los ojos). Oye, yo no he tenido NADA que ver con la muerte de ese chico. No sé qué es lo que has oído, pero si yo hubiera matado
  al chico, lo habría hecho pedazos, no empapado en Jet, ¿vale?}
@@ -269,7 +269,7 @@
  puedes equivocarte con ese imbécil porque se cortó la cara tras un cuelgue de Jet… tanto que toda su cara está llena de cicatrices.}
 {1011}{}{He oído que tú también vendes drogas, Jesús. ¿Cómo es que TU nombre no está en esa lista?}
 {1012}{}{¿Qué te hace pensar que Renesco es el responsable?}
-{1013}{}{Interesante. Tengo algunas otras preguntas…}
+{1013}{}{Interesante. Tenía algunas preguntas más...}
 {1014}{}{Renesco, Jules y Jeta Jimmy J. Lo tengo. Gracias por la información.}
 {1020}{}{PORQUE, hijo puta, yo NO soy un traficante. }
 {1021}{}{PORQUE YO NO soy un traficante, ZORRA. }
@@ -295,7 +295,7 @@
 {1054}{}{Te daré cien fichas.}
 {1055}{}{Te daré doscientas fichas.}
 {1056}{}{Mi forma de amar también es un arte. ¿Intercambiamos estilos?}
-{1058}{}{En realidad, tenía algunas preguntas…}
+{1058}{}{Actually, I had some questions...}
 {1059}{}{En algún otro momento, entonces… cuando tenga fichas suficientes para hacerte cambiar de opinión.}
 {1060}{}{Tal ven algún otro momento entonces, gracias.}
 {1070}{}{Hmmmmm. 200 y tenemos un trato.}
@@ -305,7 +305,7 @@
 {1074}{}{Eh, Vale. Hagámoslo. Lo que sea por ganar práctica con el cuchillo.}
 {1075}{}{De acuerdo. Aquí está el dinero.}
 {1076}{}{No importa. Eh, ¿quién eres tú, por cierto?}
-{1077}{}{Olvídalo. Tenía algunas preguntas más…}
+{1077}{}{Olvídalo. Tenía algunas preguntas más...}
 {1079}{}{Tal vez en algún otro momento, gracias. REALMENTE tengo que irme.}
 {1090}{}{Hmmmm... está bien, sí, lo haré. Parece que es posible que tengas cojones para ello. Ahora fíjate, lo primero que
  tienes que hacer es…}

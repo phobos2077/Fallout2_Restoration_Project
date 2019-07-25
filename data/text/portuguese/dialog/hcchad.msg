@@ -23,8 +23,8 @@
 {138}{}{Sounds boring.}
 {139}{}{Eu tenho mais perguntas.}
 {140}{}{Obrigado. Tchau.}
-{141}{}{Tell you about Broken Hills? Well… I moved here a few years back. Got a job with the Bill -–
- that's the Outfitter -– and moved up to where I am now. I report to Marcus and the Bill, but I'm
+{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
+ that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
 {142}{}{Eu tenho mais perguntas.}
 {143}{}{Adeus.}
@@ -36,7 +36,7 @@
 {156}{}{Talk to the Bill. He'll help you out.}
 {157}{}{Eu tenho mais perguntas.}
 {158}{}{Obrigado. Tchau.}
-{159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world… and I feel I
+{159}{}{Yeah, it is. You wouldn't think it, but I get to travel and see the world... and I feel I
  contribute to the town here. It's a good life.}
 {160}{}{Sounds great. I'd like a job like that.}
 {161}{}{Actually, that sounds pretty boring.}

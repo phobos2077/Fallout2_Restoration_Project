@@ -13,7 +13,7 @@
 {110}{}{No, gracias.}
 {111}{}{Si estás buscando trabajo, es posible que quieras hablar con Bill, el tipo que está ahí dentro. DEN-TRO. Puede
  que él te comprenda. ¡Buena suerte!}
-{112}{}{Duhhhh…}
+{112}{}{Duhhhh...}
 {113}{}{That'd be }
 {114}{}{Sí.}
 {115}{}{No.}
@@ -52,7 +52,7 @@
 {142}{}{¿Estás listo para salir?}
 {143}{}{Gracias. Aquí están tus 500 dólares. Si quieres otro trabajo, habla con Bill.}
 {144}{}{¡Enfermo perdedor! ¡Ahora vas a morir!}
-{145}{}{Umm…}
+{145}{}{Umm...}
 {150}{}{, guardia de caravana.}
 {151}{}{. Guardia de las caravanas de Bill. ¿Algo más?}
 {152}{}{.}

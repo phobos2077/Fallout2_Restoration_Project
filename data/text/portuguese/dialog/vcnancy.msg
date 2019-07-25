@@ -31,7 +31,7 @@
 {130}{}{Uh, yeah, I just recently got my Citizenship.}
 {131}{}{Sorry, I thought you were someone else. Good day.}
 {132}{}{Oh my, you are hurt, aren't you? I'm sorry, I should have been paying more attention. Go see Dr. Troy. He'll take care of you.}
-{133}{}{Uh...kay? Yup-yup.}
+{133}{}{Uh... kay? Yup-yup.}
 {134}{}{Could I ask you some questions first?}
 {135}{}{Thanks. I'll go see him now.}
 {136}{}{Oh! You must be one of the Servants assigned here for the day. You should... uh, hmmm. YOU - GO - MARTIN.}
@@ -111,7 +111,7 @@
 {210}{}{Speaking of old, I noticed there aren't any children in the city.}
 {211}{}{I DID notice the similarity of Citizens.}
 {212}{}{Oh, well. Just thought I'd ask.}
-{213}{}{Uh no… "octogenarian" is an adjective that refers to a person who is eighty years old. }
+{213}{}{Uh no... "octogenarian" is an adjective that refers to a person who is eighty years old. }
 {214}{}{Uh, okay. Can I ask you another question?}
 {215}{}{All right then. Maybe we'll speak later.}
 {216}{}{Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.}

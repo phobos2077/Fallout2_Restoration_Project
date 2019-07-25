@@ -18,7 +18,7 @@
 {117}{}{La Primer Ciudadano sigue necesitando esas listas de inventario...}
 {118}{}{Lo siento, cerramos por la tarde. Vuelve por la mañana.}
 {119}{}{Hemos cerrado. Sólo estoy compilando estas listas antes de irme a casa.}
-{120}{}{Hola, extranjera. Siempre es un placer ver una nueva cara. Mi nombre es Randal... soy el Oficial Jefe de Servicios. ¿Necesitas algo?}
+{120}{}{Hola, extranjero. Siempre es un placer ver una nueva cara. Mi nombre es Randal... soy el Oficial Jefe de Servicios. ¿Necesitas algo?}
 {121}{}{Gechkk}
 {122}{}{Nooooooooo}
 {123}{}{Dejas de balbucear}

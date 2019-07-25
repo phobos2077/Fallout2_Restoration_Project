@@ -54,7 +54,7 @@
 {450}{}{Hombres}
 {451}{}{Mujeres}
 {452}{}{Niños}
-{453}{}{Supermutantes}
+{453}{}{Super mutants}
 {454}{}{Necrófagos}
 {455}{}{Brahmin}
 {456}{}{Escorpiones}
@@ -95,7 +95,7 @@
 {503}{}{Herido}
 {504}{}{Ileso}
 {510}{}{CA Mod: %d}
-{511}{}{RD Mod: %d}
+{511}{}{DT Mod: %d}
 {512}{}{Dañ Mod: %d/%d}
 {518}{}{Ves: %s }
 {519}{}{%s %s }
@@ -138,10 +138,10 @@
 {596}{}{El coche ya está lleno de energía.}
 {597}{}{La puerta parece bloqueada.}
 {620}{}{Ganas %d puntos de experiencia por matar: %s.}
-{621}{}{%s ganas %d puntos de experiencia.}
+{621}{}{%s you earn %d experience points.}
 {622}{}{Por derrotar a tus enemigos,}
 {623}{}{Por asesinar a tus enemigos,}
-{624}{}{Por salir vencedor en combate,}
+{624}{}{You are victorious in combat,}
 {625}{}{Por aplastar a tus enemigos,}
 {626}{}{Por destruir a tus enemigos sin sufrir un rasguño,}
 {650}{}{[HECHO]}

@@ -42,7 +42,7 @@
 {920}{}{You stumble across the remains of Nagor, who died trying to save his dog.}
 {921}{}{Nagor died trying to drag his dog's body back to the village.}
 {930}{}{Hoooooowl!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase by 5%.}
+{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
 {951}{}{The fighting molerat goes in for the death blow.}
 {952}{}{The match is over.}
 {1000}{}{You passed the Citizenship Test.}

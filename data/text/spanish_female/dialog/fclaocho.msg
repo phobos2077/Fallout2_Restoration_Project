@@ -28,7 +28,7 @@
 {127}{}{Estoy buscando un bazo.}
 {128}{}{He oído que unas máquinas voladoras trajeron a un grupo de tribales a esta zona.}
 {129}{}{Nada. Adiós.}
-{130}{}{Habla con Crocket, en el campamento Hubologista. Él es su científico jefe.}
+{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
 {131}{}{Gracias. Quería más información.}
 {132}{}{Gracias. Adiós.}
 {133}{}{Comprueba por el norte, en Navarro. Hay una base oculta cerca de una gasolinera.}

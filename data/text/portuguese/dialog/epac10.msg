@@ -586,6 +586,6 @@ ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me
 {4250}{}{Estamos perdendo o nosso tempo aqui. Os pintainhos zombis não são meus. Em geral, não gosto que a moça pareça morta até depois de terminar com elas.}
 {4260}{}{Por que diabos estamos perdendo nosso tempo aqui? A sério?}
 {4270}{}{Não acho que eu desejei passar de bom grado mais do meu tempo nesta instalação.}
-{5000}{}{[Ele encaixa a cabeça em sua direção e pula em seus pés. Enquanto ele olha para você, seus olhos de repente ficam muito abertos e ele começa a ofegar pelo ar.}
+{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
 {5001}{}{[FIM]}
 {5002}{}{Puta merda!}

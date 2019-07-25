@@ -159,7 +159,7 @@
 {8000}{}{First Aid Book}
 {8001}{}{A study book on the concepts and practical use of first aid skills.}
 {8100}{}{Iguana-on-a-stick}
-{8101}{}{A cooked iguana, roasted in it's own skin.}
+{8101}{}{A cooked iguana, roasted in its own skin.}
 {8200}{}{Key}
 {8201}{}{A key. A key will open a particular lock.}
 {8300}{}{Key Ring}
@@ -377,19 +377,19 @@
 {18900}{}{Locker}
 {18901}{}{A locker.}
 {19000}{}{FEV Disk}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your PIPBoy.}
+{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
 {19100}{}{Security Disk}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your PIPBoy.}
+{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
 {19200}{}{Alpha Experiment Disk}
 {19201}{}{The label on this holotape reads: "Alpha Experiment Log"}
 {19300}{}{Delta Experiment Disk}
 {19301}{}{The label on this holotape reads: "Delta Experiment Log"}
 {19400}{}{Vree's Experiment Disk}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your PIPBoy.}
+{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
 {19500}{}{Brotherhood Honor Code}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your PIPBoy.}
+{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
 {19600}{}{Mutant Transmissions}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your PIPBoy.}
+{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
 {19700}{}{Box}
 {19800}{}{Box}
 {19900}{}{Box}
@@ -419,7 +419,7 @@
 {21400}{}{Desk}
 {21401}{}{A desk. After further observation, you decide that it is still a desk.}
 {21500}{}{Brotherhood History}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your PIPBoy 2000.}
+{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
 {21600}{}{Maxson's History}
 {21700}{}{Maxson's Journal}
 {21800}{}{Light Healing}
@@ -435,7 +435,7 @@
 {22300}{}{Yellow Pass Key}
 {22301}{}{An electronic security key, color coded yellow.}
 {22400}{}{Small Statuette}
-{22401}{}{You think this might be a carving of the "Pip Boy" but you can't be sure.}
+{22401}{}{You think this might be a carving of the "Pip-Boy" but you can't be sure.}
 {22500}{}{Cat's Paw Magazine}
 {22501}{}{An issue of Cat's Paw magazine.}
 {22600}{}{Box Of Noodles}
@@ -809,7 +809,7 @@
 {41500}{}{Spectacles}
 {41501}{}{A set of spectacles for eye correction.}
 {41600}{}{Empty Jet Canister}
-{41601}{}{This empty jet canister was found in Richard Wright's room. It still has traces of Jet inside.}
+{41601}{}{This empty Jet canister was found in Richard Wright's room. It still has traces of Jet inside.}
 {41700}{}{Oxygen Tank}
 {41701}{}{This is the oxygen tank for Salvatore's breathing apparatus.}
 {41800}{}{Poison Tank}
@@ -920,7 +920,7 @@
 {47100}{}{The Lavender Flower}
 {47101}{}{It appears to be some kind of romance novel written by Dorothy Rixon. The cover has a woman laying on a bed surrounded by a hundred flowers.}
 {47200}{}{Hubologist Holodisk}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your PIPBoy.}
+{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
 {47300}{}{Mutated Toe}
 {47301}{}{You see your sixth toe. It is a small mutated part of yourself. For some reason, you feel a terrible sense of loss as you look at the tiny amputated toe.}
 {47400}{}{Daisies}
@@ -934,7 +934,7 @@
 {47800}{}{Sierra Mission Holodisk}
 {47801}{}{The label reads: "Mission Statement."}
 {47900}{}{NavCom Parts}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigational Computer" on them lead you to believe they fit into a Poseidon Oil Navigational Computer.}
+{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
 {48000}{}{Bonus +1 Agility}
 {48100}{}{Bonus +1 Intelligence}
 {48200}{}{Bonus +1 Strength}
@@ -969,8 +969,8 @@
 {49701}{}{Someone has "accidentally" slipped metal plates into these boxing gloves. It could technically be considered cheating, but you prefer to think of it as an increased opportunity to dispense bone-crunching damage.}
 {49800}{}{Dual Plasma Cannon}
 {49801}{}{Only use for Gun Turret critter.}
-{49900}{}{Pip Boy Lingual Enhancer}
-{49901}{}{This Pip Boy lingual enhancer consists of a storage holodisk, a microfilament cord, headgear, and an optical sensor that is placed over the user's right eye. When used, an optical flash transmits an entire dictionary into the user's memory, permanently improving the user's speech skills.}
+{49900}{}{Pip-Boy Lingual Enhancer}
+{49901}{}{This Pip-Boy lingual enhancer consists of a storage holodisk, a microfilament cord, headgear, and an optical sensor that is placed over the user's right eye. When used, an optical flash transmits an entire dictionary into the user's memory, permanently improving the user's speech skills.}
 {50000}{}{FN FAL HPFA}
 {50001}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. The HPFA is more powerful than the standard FN FAL. Min ST: 5.}
 {50100}{}{Wall Safe}
@@ -996,8 +996,8 @@
 {51300}{}{Pool Table}
 {51400}{}{Pool Table}
 {51500}{}{Pool Table}
-{51600}{}{Pip Boy Medical Enhancer}
-{51601}{}{This Pip Boy medical enhancer consists of a storage holodisk, microfilament cord, headgear, and an optical sensor that is placed over the user's left eye. When used, an optical flash transmits a dictionary of physician skills and know-how into the user's memory, permanently improving the user's doctor skill.}
+{51600}{}{Pip-Boy Medical Enhancer}
+{51601}{}{This Pip-Boy medical enhancer consists of a storage holodisk, microfilament cord, headgear, and an optical sensor that is placed over the user's left eye. When used, an optical flash transmits a dictionary of physician skills and know-how into the user's memory, permanently improving the user's doctor skill.}
 {51700}{}{"Little Jesus"}
 {51701}{}{This wicked looking blade once belonged to Lil' Jesus Mordino. It has numerous nicks and cuts along its surface, but its edge is razor sharp. On its handle is carved "Little Jesus."}
 {51800}{}{Dual Minigun}

@@ -56,7 +56,7 @@
 {150}{}{La reunión de ayer del Consejo fue muy productiva. Hicimos *montones* de listas. En Ciudad
  Refugio adoramos hacer listas.}
 {151}{}{¿Sí?}
-{152}{}{¿Puedo ayudarte en algo... forastera?}
+{152}{}{¿Puedo ayudarte en algo... forastero?}
 {153}{}{Lo siento, ¿estabas diciendo algo?}
 {154}{}{¿Yo? Me ocupo de mis propios asuntos. Quizá tú deberías hacer lo mismo.}
 {155}{}{¿Puedo ver tu pase de día?}

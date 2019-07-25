@@ -27,7 +27,7 @@
 {126}{}{Creo que la presidente tiene un trabajo que hay que hacer.}
 {127}{}{La Señora Presidente no concede entrevistas referidas al Refugio 13. Lo siento. Está demasiado ocupada como para ver a cada prospector que se deja caer por aquí.}
 {128}{}{¿Eh? No lo entiendo.}
-{129}{}{Sobre un GECK. ¿Puede que ella sepa algo sobre eso?}
+{129}{}{What about a GECK? She might know something about that?}
 {130}{}{Se habló sobre un trabajo.}
 {131}{}{Me resultas inútil. Me marcho.}
 {132}{}{Entonces te sugiero que leas la placa de la estatua del exterior. Y ahora, buenos días.}

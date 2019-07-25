@@ -4,7 +4,7 @@
 {103}{}{Sim, senhor?}
 {104}{}{Eu novo aqui. Precisa perguntar.}
 {105}{}{Eu apenas disse oi. Eu vou agora.}
-{106}{}{Eu sou novo aqui e estou tentando familiarizar-me com a base. Posso fazer-lhe algumas perguntas?}
+{106}{}{Eu sou novo aqui e estou tentando familiarizar-se com a base. Posso fazer-lhe algumas perguntas?}
 {107}{}{Só dizendo Oi. Até mais.}
 {108}{}{Certamente, soldado.}
 {109}{}{Com o que posso ajudar?}
@@ -39,14 +39,14 @@
 {144}{}{Tudo bem.}
 {145}{}{Tenho-o.}
 {155}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
-{156}{}{Se o sargento o pega fora do do uniforme, ele vai lhe entregar seu traseiro.}
+{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
 {157}{}{Por que você está fora de uniforme?}
 {158}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {159}{}{Intrusos! Chamar a guarda!!}
 {160}{}{Guarda! Intrusos no centro de comunicação!}
 {161}{}{O que é? Estamos sob ataque?}
-{162}{}{Por que o alerta? O que está acontecendo?}
+{162}{}{Por isso o alerta? O que está acontecendo?}
 {163}{}{O que diabos está acontecendo?}
-{164}{}{Eu sou apenas um técnico, não atire em mim!}
+{164}{}{I'm just a tech, don't shoot me!}
 {165}{}{Eu não me inscrevi para o combate, apenas de treinamento em tecnologia!}
-{166}{}{Isto é um bata de laboratório, não uma armadura! Estou fora daqui!}
+{166}{}{Este é um bata de laboratório, não uma armadura! Estou fora daqui!}

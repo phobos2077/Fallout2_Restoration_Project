@@ -203,12 +203,12 @@
 {653}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en
  el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, amigo? NECESITAMOS talentos como tú.}
 {654}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, tetazas?}
-{655}{}{How do you "film?" I mean, c'mon...you'd need cameras, film, projectors... where would you get all that stuff?}
+{655}{}{How do you "film?" I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
 {657}{}{No, gracias. He de irme.}
 {658}{}{Sólo echaba un vistazo. Últimamente me he sentido un poco agotado.}
 {670}{}{Tuvimos suerte… NO necesitamos nada de esa porquería de la Edad de Piedra. Nos encontramos con un por… er, proyector holo…gráfico FUNCIONAL. Nada de equipamiento voluminoso, nada de complicaciones… y sin líos raros.}
 {671}{}{Quién lo diría… ¿qué especificaciones tiene el proyector?}
-{672}{}{Ya veo… bien, oye: estoy interesada en un trabajo, si aún lo seguís ofreciendo.}
+{672}{}{Ya veo… bien, oye: estoy interesado en un trabajo, si aún lo seguís ofreciendo.}
 {673}{}{Me ha encantado hablar contigo, pero tengo que irme.}
 {680}{}{Bueno… aún no hemos afectado a la capacidad del disco QEWB: hasta donde yo sé, es un cubo de memoria de alta densidad de 300 GB. Incluso aunque el sistema operativo Winblows 57 se coma el 70-75% de él, podríamos filmar un centenar de años con ese cubo.}
 {681}{}{¿Dónde está ese cubo ahora? ¿Puedo verlo?}
@@ -238,7 +238,7 @@
 {758}{}{Lo ignoras y te alejas}
 {759}{}{Calma. Es sólo que no quiero rodar hoy, ¿vale? La leche. Volveré más tarde, cuando te hayas tranquilizado.}
 {760}{}{Que os jodan. No necesito esta mierda. ¡Soy una estrella! ¡Una gran y brillante estrella resplandeciente!}
-{765}{}{Oye... ¿estás bien? Pareces un poco descolocada. No has tomado drogas, ¿verdad? Porque NO voy a rodar contigo así.}
+{765}{}{Hey... ¿estás bien? Pareces un poco descolocado. No has tomado drogas, ¿verdad? Porque NO voy a rodar contigo así.}
 {766}{}{Quiero yo rodar AHORA pequeña persona.}
 {768}{}{¡Tú no eres mi jefe! Quiero follar, ésta es mi enorme polla, así que quiero a todo el mundo preparado para rodar AHORA MISMO, joder.}
 {769}{}{¡Tú no eres mi jefe! Quiero follar, aquí está mi perfecto coño, así que quiero todo el mundo preparado para rodar AHORA MISMO, joder.}

@@ -7,7 +7,7 @@
 {106}{}{¿Refugio 13?}
 {107}{}{GECK?}
 {108}{}{No me importa. Dame el especial de la casa.}
-{109}{}{Dame una cerveza.}
+{109}{}{Gimme a beer.}
 {110}{}{Información.}
 {111}{}{Estoy buscando trabajo.}
 {112}{}{¡Bien, no eres el único! Es sólo la forma en que me gustan.}

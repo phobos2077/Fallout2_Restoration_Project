@@ -65,7 +65,7 @@
 {452}{}{Bueno, tengo noticias para ti: ese día nunca llegará. Y mientras acumulas todo este conocimiento en tu pequeño paraíso de montaña aquí, la gente en el Yermo está luchando todos los días para sobrevivir. De hecho, toda mi tribu está al borde de la destrucción. El conocimiento contenido en estos libros podría ayudar a curar enfermedades, mejorar los cultivos y aumentar en gran medida las posibilidades de supervivencia de la humanidad.}
 {453}{}{Ah, bueno, supongo que harías un buen punto. Pero parece que la información almacenada aquí podría ayudar a muchas personas. Incluso si no crees que el mundo está listo para este conocimiento, no veo por qué * tú * no puedes, al menos, tratar de aprender de ello. De lo contrario, ¿cuál es el sentido de mantenerlo?}
 {454}{}{Entiendo tu frustración con nuestros métodos, pero debes entender que así es como siempre han sido las cosas para nosotros. Para alterar las cosas ahora, después de tantos años ... eso sería una blasfemia contra nuestra fe. No, siento que debemos seguir viviendo según las reglas establecidas por nuestros antepasados.}
-{455}{}{Entiendo tu frustración con nuestros métodos, pero debes entender que así es como siempre han sido las cosas para nosotros. Para alterar las cosas ahora, después de tantos años ... eso sería una blasfemia contra nuestra fe. Aún así, consideraré tus palabras. Siento una gran sabiduría en ti, forastera. Es una pena que haya conocido a muy pocos como usted.}
+{455}{}{Entiendo tu frustración con nuestros métodos, pero debes entender que así es como siempre han sido las cosas para nosotros. Para alterar las cosas ahora, después de tantos años ... eso sería una blasfemia contra nuestra fe. Aún así, consideraré tus palabras. Siento una gran sabiduría en ti, forastero. Es una pena que haya conocido a muy pocos como usted.}
 {456}{}{Gracias. Aunque me gustaría saber algo más.}
 {457}{}{Muy bien. Aunque me gustaría saber algo más.}
 {500}{}{¡Deja de hacer eso!}
@@ -82,7 +82,7 @@
 {702}{}{Gracias.}
 {800}{}{Actualmente, si. Nuestra bomba de agua principal ha estado funcionando durante algún tiempo, y ahora finalmente parece haberse descompuesto por completo. Si sabes algo sobre maquinaria, ¿crees que podrías echar un vistazo y ver si se puede hacer algo? Hay algunos comerciantes que ya están trabajando en eso. Sin embargo, me temo que se han logrado pocos progresos.}
 {801}{}{Estoy feliz de ayudar. Informaré sobre el progreso.}
-{802}{}{Claro, estaré encantada de ayudar ... por un precio, por supuesto.}
+{802}{}{Claro, estaré encantado de ayudar ... por un precio, por supuesto.}
 {803}{}{En realidad, pensándolo mejor, déjame hacerte otra pregunta.}
 {804}{}{¿¡Qué!? Ah bien. Si ese es el tipo de persona que eres, entonces recibirás el pago por tu servicio. Aquí están 25 monedas para comenzar. Por favor, avíseme si se puede hacer algo. [El hombre suspira mientras te entrega las monedas]}
 {805}{}{Oye, no hay necesidad de suspirar. ¿Crees que todo en la vida es gratis? Ahora, déjame ir a trabajar.}

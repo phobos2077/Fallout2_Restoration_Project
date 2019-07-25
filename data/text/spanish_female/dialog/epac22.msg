@@ -1,9 +1,9 @@
 {100}{}{Ves un holograma.}
 {101}{}{Ves un holograma.}
-{200}{}{Zzzzzt...Hello... zzZzzt..Are..zzzZzzZtt...stand...me?}
+{200}{}{Zzzzzt... Hello... zzZzzt..Are..zzzZzzZtt... stand... me?}
 {201}{}{¿Perdona?}
 {202}{}{Cierto. Adiós.}
-{203}{}{My...zZzzzt..sensor...ZzzzzzZzt...*garble*..fixed?}
+{203}{}{My... zZzzzt..sensor... ZzzzzzZzt...*garble*..fixed?}
 {204}{}{Sorry, but I can't understand you. There's too much static. I'll see if I can maybe fix it somehow.}
 {205}{}{No tengo tiempo para esto. Adiós.}
 {300}{}{Ah, thank you so much for repairing me! I was dreading the thought of some visitor happening along and asking me questions which I'd be unable to properly answer due to all the static. Of course, you're the first visitor I've seen since the war, but still, *had* I encountered someone else, that could have been quite embarrassing.}
@@ -43,7 +43,7 @@
 {360}{}{Ah, that's an interesting specimen you have there. I'm afraid I don't recognize it. Please, place it in the container next to me and I'd be happy to analyze it for you.}
 {361}{}{Alright. [You place the item in the container and close the lid.]}
 {362}{}{Pensándolo mejor, déjame hacerte otra pregunta.}
-{363}{}{Reading molecular make-up of liquid in syringe...Success. Analysis Complete. Interesting, it seems this syringe contains a unique serum with traces of feline DNA. It appears to be an experimental drug with the potential to enhance a human's agility. Of course, I wouldn't recommend you use anything that's still in the experimental stage.}
+{363}{}{Reading molecular make-up of liquid in syringe... Success. Analysis Complete. Interesting, it seems this syringe contains a unique serum with traces of feline DNA. It appears to be an experimental drug with the potential to enhance a human's agility. Of course, I wouldn't recommend you use anything that's still in the experimental stage.}
 {364}{}{De acuerdo. Déjame hacerte otra pregunta.}
 {370}{}{Ah, that would be cannabis, also known as marijuana, weed, and ganja, among other things. It's a type of illegal drug that may induce psychoactive effects when smoked or consumed. Some of the technicians here used to be fond of smoking it to help them relax. If you smoke it, you should be aware that it may cloud your mind and lower your reaction time for a period of time.}
 {371}{}{De acuerdo. Déjame hacerte otra pregunta.}

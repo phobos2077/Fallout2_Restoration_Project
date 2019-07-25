@@ -15,7 +15,7 @@
 {114}{}{Just wait right here. }
 {115}{}{Uh, stay calm. Someone will be right along. }
 {116}{}{Everything is fine.}
-{117}{}{Damn it! Will somebody come and get this...person?}
+{117}{}{Damn it! Will somebody come and get this... person?}
 {118}{}{Oh, guards! There's an idiot in my office... No, not the veep.}
 {119}{prs4}{Hello, there. I'm President Richardson and I'm damn proud to meet you. Ah, Vault 13. You've been doing your country an invaluable service.}
 {120}{}{President? Who are you anyway?}
@@ -36,7 +36,7 @@
 {135}{prs8}{It's no problem at all. (talking to intercom) Hello. I could use a little assistance here.}
 {136}{}{Uh. Gee, thanks sir.}
 {137}{}{You better not call your guards if you want to leave this room alive.}
-{138}{prs9}{Ah...well. I'm sure we can work something out. What's on your mind?}
+{138}{prs9}{Ah... well. I'm sure we can work something out. What's on your mind?}
 {139}{}{I want to know what's going on here.}
 {140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else....}
 {141}{}{I'm leaving here and taking you as a hostage to make sure my people get out safely.}
@@ -48,7 +48,7 @@
 {147}{}{Maybe not, but I'm leaving. Don't touch that buzzer.}
 {148}{}{The Project? What Project?}
 {149}{}{Yes, it will. I'll enjoy it.}
-{150}{prs12}{Uh, now, now, now. Now, let's...let's... Uh, Wh-wh-what is it you want, anyway?}
+{150}{prs12}{Uh, now, now, now. Now, let's... let's... Uh, Wh-wh-what is it you want, anyway?}
 {151}{}{I want to know what's going on here.}
 {152}{}{I want to know just who the hell you are.}
 {153}{}{I want you dead.}
@@ -78,7 +78,7 @@
 {177}{prs20b}{A, hmm, a little history....}
 {178}{}{Go on, Mr. President....}
 {179}{}{First, why do you have a base at Navarro?}
-{180}{}{Before you get into that...I saw some of your vertibirds doing some trade with New Reno. What's that all about?}
+{180}{}{Before you get into that... I saw some of your vertibirds doing some trade with New Reno. What's that all about?}
 {181}{}{I don't have time for this lunacy now. Goodbye.}
 {182}{prs21a}{Well, hello there. Glad to make time for one of our gallant troopers. But, I am rather busy. So, uh, what can the President of the United States of America do for you?}
 {183}{prs21b}{You're back? What is it you want?}
@@ -154,7 +154,7 @@
 {253}{}{Por quê?}
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Not to be? Why not?}
-{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{OK. Then why did you have to kidnap my villagers and the people from Vault 13?}
 {258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the F.E.V. toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
 {259}{}{You're not testing the inoculation on my people?}

@@ -2,7 +2,7 @@
 {101}{}{Ves a un negrero con una gran cicatriz en el rostro.}
 {102}{}{Ves a un esclavista bastante grande.}
 {150}{}{Este es un esclavista que parece disfrutar con su trabajo.}
-{151}{}{Este negrero parece ser muy fuerte pero no muy avispado.}
+{151}{}{Este esclavista parece ser muy fuerte pero no muy avispado.}
 {152}{}{Este esclavista parece estar bien armado, como los demás.}
 {225}{}{Vamos a atraparlos.}
 {226}{}{Matad sólo a los hostiles.}

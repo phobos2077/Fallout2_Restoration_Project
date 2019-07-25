@@ -18,10 +18,10 @@
 {117}{}{¿Qué puedes decirme de Roger Westin?}
 {118}{}{Estoy intentando reunirme con el viejo Carlson. ¿Sabes de alguien que pueda ayudarme?}
 {119}{}{¿Tienes un GECK?}
-{120}{}{Esto está bien, forastera, pero no me dedico a la caridad.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested. Let it go cheap -- $500.}
 {122}{}{Oye, ya me has limpiado.}
-{123}{}{Claro, trato hecho.}
+{123}{}{Sure, it's a deal.}
 {124}{}{No, gracias.}
 {125}{}{República de Nueva California: eso es lo que es. La presidente Tandi y su grupo dicen que están intentando reconstruir los viejos días; imagino que sólo están intentando agarrarse a lo que pueden. Demonios, no tengo quejas de ellos: los viejos días son anteriores a mi propio tiempo. Aunque sólo son una especie de grupo de remilgados: no les gustan los esclavos, el juego, nada de casi nada. Por eso me establecí aquí. No me gustan las reglas y nunca me han gustado.}
 {126}{}{Ya veo.}

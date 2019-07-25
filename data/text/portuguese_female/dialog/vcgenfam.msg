@@ -66,5 +66,5 @@
 {165}{}{The Servants? Oh, we use them for menial tasks.}
 {166}{}{Hmmmm. I need to get a Servant to hose out the store room...}
 {167}{}{A Servant should be over later to weed the garden...}
-{168}{}{Yes, I can smell...er, see, that you're an Outsider.}
+{168}{}{Yes, I can smell... er, see, that you're an Outsider.}
 {169}{}{You're an Outsider? How quaint.}

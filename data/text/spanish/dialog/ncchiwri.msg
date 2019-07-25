@@ -58,8 +58,8 @@
 {317}{}{Le das una patada con la bota que ha escupido.}
 {318}{}{Te alejas. }
 {319}{}{Le dejas tranquilo y te alejas. Esta vez. }
-{325}{}{Bueno… yo… quiero decir, la Familia Wright… mi familia… podría tener una vacante. No te prometo nada, pero vete a la mansión
- al sur de aquí, busca mi hermano Keith y dile que vas de mi parte. Me llamo Chris. Chris Wright.}
+{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
+ south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
 {326}{}{Eh, ¿Familia Wright? ¿Quiénes sois?}
 {327}{}{Wright, ¿eh? Me encontré con tu madre.}
 {328}{}{¿Puedes contarme qué le pasó a tu hermano Richard?}
@@ -79,27 +79,27 @@
 {366}{}{Bueno, no hace mucho, arremetió contra nuestra destilería de alcohol y puso fin al lugar, ¡destruyendo toda nuestra producción! La quiero y todo eso, pero a veces es terca como una mula.}
 {367}{}{Je je. Y también parece una.}
 {368}{}{¿Terca? ¿Qué quieres decir?}
-{369}{}{Oh. Tengo más preguntas…}
+{369}{}{Oh. Tenía algunas preguntas más...}
 {370}{}{Supongo. Oye, será mejor que me vaya. }
 {380}{}{Siempre está predicando acerca del pecado y todo eso, pero en realidad ni siquiera sabe lo que papá hace.
  O eso, o prefiere ignorarlo.}
 {381}{}{¿Qué es lo que hace tu padre?}
-{382}{}{Hmmmm. Oye, tenía algunas preguntas más…}
+{382}{}{Hmmmm. Say, I had some other questions...}
 {383}{}{Interesante. Bien, he de irme. }
 {390}{}{Fabricar alcohol, venta de armas, se carga a quién le jode… lo típico de la familia. Mamá se cabrearía
  si supiera realmente lo que pasa. Y sobre todo si encontrase esta destilería.}
 {391}{}{¿Cómo de cabreada?}
-{392}{}{Hmmmm. Oye, tenía algunas preguntas más…}
+{392}{}{Hmmmm. Say, I had some other questions...}
 {393}{}{Interesante. Bien, he de irme. }
 {400}{}{Probablemente lo bastante cabreada como para destruir este lugar… por lo menos. Después nos daría una buena reprimenda y unos cuantos días
  de sermoneo constante. Je.}
-{401}{}{Interesante. Verás, tengo algunas otras preguntas…}
+{401}{}{Interesting. Say, I had some other questions...}
 {402}{}{Hmmmmm. Gracias. }
 {410}{}{¿Rich? Oh, ya sabes, lo encontraron como a esos colgados por el Jet, muerto en una cuneta. Hasta donde podemos
  suponer, alguien le hinchó a drogas hasta que murió.}
 {411}{}{¿'Alguien' contra su voluntad? ¿Cómo sabes que no fue debido a una sobredosis causada por él mismo?}
 {412}{}{¿Quién supones que podría haberlo hecho?}
-{413}{}{Lamento oír eso. Tenía otras preguntas…}
+{413}{}{Lamento oír eso. Tengo otras preguntas...}
 {414}{}{Repugnante. Mira, he de irme. }
 {420}{}{Porque estaba limpio… mamá le enseñó BIEN. Y si te apetece opinar algo diferente, quizá tú y yo
  debamos resolverlo aquí y ahora.}

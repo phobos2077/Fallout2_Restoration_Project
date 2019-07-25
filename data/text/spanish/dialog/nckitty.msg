@@ -37,7 +37,7 @@
 {247}{}{Depende… ¿cuál es el menú?}
 {248}{}{Me gustaría sorprender a mi amigo con algo especial.}
 {249}{}{Me gustaría sorprender a uno de mis amigos. Es su… eh, cumpleaños.}
-{250}{}{Me gustaría preguntarte un par de cosas…}
+{250}{}{I'd like to ask you some questions...}
 {251}{}{En realidad, he cambiado de opinión. Ansiedad pre-actuación y todo eso. Adiós.}
 {255}{}{Me siento halagada, pero… no. No puedo.}
 {256}{}{Oh, vamos. Tan solo una copa. Sin presiones. Nos lo pasaremos bien.}
@@ -48,7 +48,7 @@
 {260}{}{Lo siento, no quería presionarte. Adiós.}
 {265}{}{(Mira a su alrededor, y luego se inclina y susurra). Mira… regresa cuando
  hayas hecho lo que tienes que hacer para salvar a tu gente, y entonces hablaremos, ¿vale?}
-{266}{}{De acuerdo entonces. Tenía algunas otras preguntas…}
+{266}{}{De acuerdo entonces. Tenía algunas otras preguntas...}
 {267}{}{Es una cita. Nos veremos entonces.}
 {275}{}{Bien… (cuenta con los dedos)… tenemos amor dulce, el remolino, mamadas vibratorias, y otros
  varios exotismos (sonríe). La cuestión es, ¿para qué estás de humor?}
@@ -144,7 +144,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {482}{}{Creo que prefiero quedármelas... oye, tenía algunas otras preguntas…}
 {483}{}{Olvídalo. Quizá en algún otro momento.}
 {490}{}{Aquí está (Cuenta el dinero, y te lo entrega). Gracias otra vez.}
-{491}{}{Muy bien, tengo más preguntas…}
+{491}{}{Eh, tenía algunas preguntas más...}
 {492}{}{No hay problema. Adiós.}
 {500}{}{¿En serio? (examina el número 5, y a continuación el resto del lote) Hmmmm. Bueno, parece que lo tienes
  por duplicado, así que te puedes quedar con éste… pero antes déjame que le quite las manchas.}
@@ -152,7 +152,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {502}{}{De acuerdo. ¿Estás segura de poder quitar las manchas? Parecen demasiado secas ya.}
 {510}{}{Sucede muy a menudo por aquí… (Miss Kitty empieza a limpiar la revista)… sobre todo con las sábanas. Eso
  debería servir...(la sostiene)... un buen número: tiene un artículo sobre armas de energía, por lo que parece. Aquí la tienes.}
-{511}{}{Tenía algunas preguntas más…}
+{511}{}{Tenía algunas preguntas más...}
 {512}{}{¿Un artículo sobre armas de energía? Gracias. Puede que lo lea más tarde.}
 {520}{}{(Al hablar, ella te mira, sorprendida) ¡Tú! ¡Has vuelto! Yo… pensé que habrías muerto (te observa
  aliviada). Estaba tan preocupada... arriesgar tu vida, encargarse del Enclave… eso es lo más valiente que he oído jamás.}
@@ -188,7 +188,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {585}{}{(Asiente) Sí, eso es. Normalmente las tenemos que entrenar extensivamente para suprimir su repulsión
  natural. Es casi como un rito de iniciación. De esa forma, si una chica soporta a Myron, significa que es dura…}
 {586}{}{Me gustaría conocerle. ¿Crees que podría presentarme voluntaria para ser su próxima "elección"?}
-{587}{}{Ya veo. Tenía algunas preguntas más…}
+{587}{}{Ya veo. Tenías algunas preguntas más...}
 {588}{}{Hmmmm. Gracias por la información.}
 {595}{}{(Te estudia, y después te indica que te des la vuelta con el dedo). Gírate para que te vea. Hmmmm… }
 {596}{}{No, no creo que pases la criba. Quizá si te lavases un poco, te
@@ -196,7 +196,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {597}{}{Sí… sí, creo que lo harías bien. ¿Te interesa probar? El resto de mis chicas
  están… hartas de ello.}
 {598}{}{Claro.}
-{599}{}{Hmmmph. Tenía algunas otras preguntas…}
+{599}{}{Hmmmph. I had some other questions...}
 {600}{}{No, pero igual te lo vuelvo a plantear más tarde. Tenía más preguntas…}
 {610}{}{(Asiente) Excelente. Uno de los lugartenientes de Mordino tiene que aparecer por aquí dentro de poco. Si quieres
  tomar asiento, te presentaré como una de las… aspirantes.}

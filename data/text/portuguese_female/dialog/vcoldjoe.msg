@@ -47,7 +47,7 @@
 {137}{}{I'm off to speak with Harry then. Take care ol' friend.}
 {138}{}{Why, what do you mean?}
 {139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Vault City have nearly unlimited resources, and eventually, they'll win out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}
-{140}{}{Hmm...I may have to consider this. Thanks for everything, bye.}
+{140}{}{Hmm... I may have to consider this. Thanks for everything, bye.}
 {141}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
 {142}{}{Yeah, what about them?}
 {143}{}{Any idea where they're from or who's controlling them?}
@@ -68,7 +68,7 @@
 {159}{}{I will go speak with him then. I was curious about the molerats that are guarding the village though.}
 {200}{}{Hey, if you really are the same Ian that journeyed with my ancestor, then I've got a question for you.}
 {201}{}{Alright, let's hear it.}
-{202}{}{How the hell are you still alive? You must be over a hundred years old. Not to mention the Vault Dweller's memoirs, which say you were burnt to death in Necropolis by a Super Mutant with a flame thrower.}
+{202}{}{How the hell are you still alive? You must be over a hundred years old. Not to mention the Vault Dweller's memoirs, which say you were burnt to death in Necropolis by a super mutant with a flame thrower.}
 {203}{}{[He barks gruff laughter for awhile; finally, he settles down and wipes a couple tears from his eyes.] Oh, that's rich. Burnt to death by a flame thrower, ha! You see, I told the Vault Dweller to make up some story about how I died, 'cause I didn't want any of our old enemies trying to hunt me down -- that's why I changed my name. I told him to have me going down in a blaze of glory, and it looks like he took that literally. Ha, that's classic.}
 {204}{}{Heh, I guess that solves that. I was curious about the molerats that are guarding the village though.}
 {205}{}{That still doesn't explain how you're still alive and well after all these years.}

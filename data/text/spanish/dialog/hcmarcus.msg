@@ -70,7 +70,7 @@
 {169}{}{¿Algo más?}
 {170}{}{Tengo más preguntas.}
 {171}{}{Adiós.}
-{172}{mcs20}{Alguien sacó a dos lunáticos de la cárcel del banco. Encuéntralos. Avísame cuando lo hagas, y los volveré a encerrar.}
+{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
 {173}{}{¿Algo más?}
 {174}{}{Tengo más preguntas.}
 {175}{}{Adiós.}

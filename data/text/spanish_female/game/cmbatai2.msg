@@ -593,7 +593,7 @@
 {2563}{}{Es patético...}
 {2564}{}{¡Demasiado lenta!}
 {2565}{}{¡Perdedora!}
-{2600}{}{¡Huid de El Maligno!}
+{2600}{}{¡Huid de La Maligna!}
 {2601}{}{¡Los Espíritus me aconsejan que me salve yo mismo!}
 {2602}{}{Nuestro enemigo ha usado poderosa magia... ¡Huid! ¡Qué alguien busque al chamán!}
 {2603}{}{Los espíritus malignos son poderosos en él. ¡La muerte camina sobre la tierra!}

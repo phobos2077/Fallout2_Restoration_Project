@@ -64,14 +64,14 @@
 {155}{}{I have a few more questions.}
 {156}{}{I want some other things.}
 {157}{}{I see. That's all. Thanks.}
-{158}{}{Do I trust him? Obviously … to an extent. I trust him to run my caravans for me. He might be
+{158}{}{Do I trust him? Obviously ... to an extent. I trust him to run my caravans for me. He might be
  shady, but 'til he gives me a reason not to trust him, I'll keep on like I have.}
 {159}{}{I have some more questions.}
 {160}{}{I want some other things.}
 {161}{}{Great. Thanks for your time.}
 {162}{}{Lessee. He came to Broken Hills out of the desert. He didn't have much but his smarts. He looked
  like he was being hunted by someone, but wouldn't say who. He was always real quiet about his past.
- And … he's a hell of a caravan master. That's all.}
+ And ... he's a hell of a caravan master. That's all.}
 {163}{}{I have some more questions.}
 {164}{}{I want some other things.}
 {165}{}{Obrigado.}
@@ -79,7 +79,7 @@
 {167}{}{He had it coming? You piece of crap, money ain't worth killing over. Get the hell out of my
  store.}
 {168}{}{Adeus.}
-{169}{}{Any trouble he's in, he made for himself. Too bad… he was a hell of a caravan master. You want
+{169}{}{Any trouble he's in, he made for himself. Too bad... he was a hell of a caravan master. You want
  something?}
 {170}{}{Out of my store. Y'ain't wanted here.}
 {171}{}{You ready to go to Vault City?}

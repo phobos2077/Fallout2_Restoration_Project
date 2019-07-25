@@ -91,7 +91,7 @@
 {271}{}{Well, I sure wouldn't want to get my hands dirty. Tell me something else.}
 {272}{}{I sure wish I was as skillful a trapper as you are. I bet you could teach me a lot.}
 {273}{}{That's all I need to know for now. Goodbye.}
-{280}{}{Well, now you look like you could handle yourself. Geckos come in two types -— regular or
+{280}{}{Well, now you look like you could handle yourself. Geckos come in two types -- regular or
  golden. The regular ones are easy to trap and hunt, but the golden ones are worth more money.}
 {281}{}{Tell me more about the golden geckos.}
 {282}{}{Interesting. Tell me something else.}
@@ -104,7 +104,7 @@
  convinced that they all came from one place. Thing is, nobody's heard from him for a couple months now.}
 {301}{}{What do you think happened to him?}
 {310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing; Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
+ thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
  Buckner runs Buckner house, y'know.}
 {311}{}{Interesting. Tell me something else.}
 {312}{}{That's all I need to know for now. Goodbye.}

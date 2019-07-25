@@ -4,7 +4,7 @@
 {200}{}{What're you doing up here?}
 {205}{}{Well, check out this bouquet of assholes.}
 {210}{}{Touch that door again, and I'll turn you into a torch.}
-{215}{}{You can go on in...THIS time.}
+{215}{}{You can go on in... THIS time.}
 {220}{}{You done walking in the wrong place, tribal. Get.}
 {221}{}{This ain't no porn studio. Get.}
 {222}{}{What're you doing here, punchy? Lose your way to the boxing ring? Get outta here.}
@@ -21,7 +21,7 @@
 {250}{}{Life's full of disappointments. Now GET, capiche?}
 {251}{}{(Sarcastic.) Behind that door? That door right there? Why, that's Mr. SALVATORE'S room. Now BEAT it.}
 {252}{}{I want to see Mr. Salvatore. I want a job.}
-{253}{}{Look, dipshit...do you still want to have your job tomorrow? I have some info about one of the other families in Reno
+{253}{}{Look, dipshit... do you still want to have your job tomorrow? I have some info about one of the other families in Reno
  that Mr. Salvatore's going to want to hear. So let me speak to him NOW.}
 {254}{}{Where do you get those laser pistols?}
 {265}{}{}
@@ -32,8 +32,8 @@
 {268}{}{I SAID, I want to see Mr. Salvatore.}
 {270}{}{(Leave quietly.)}
 {275}{}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. }
-{276}{}{This...man...says he's got something you wanna hear.}
-{277}{}{This...woman...says she's got something you wanna hear.}
+{276}{}{This... man... says he's got something you wanna hear.}
+{277}{}{This... woman... says she's got something you wanna hear.}
 {278}{}{(Wait...)}
 {279}{}{(Attack Mason before he can continue.)}
 {285}{}{Look, maybe you ain't HEARD, tribal, but this's Salvatore's place. MY job is to make sure the boss
@@ -82,7 +82,7 @@
 {391}{}{He's been laying low, so tracking him down's gonna be YOUR job, girl. }
 {392}{}{Best bet? Check some of the bars along Virgin street. Lloyd might be running another hustle there.}
 {393}{}{I had some other questions...}
-{400}{}{Lloyd? Hell...he's 'bout average height, white, brown hair. Last I saw him, he had a tan shirt, and dark
+{400}{}{Lloyd? Hell... he's 'bout average height, white, brown hair. Last I saw him, he had a tan shirt, and dark
  brown scarf. He probably ain't changed his clothes since I saw him last.}
 {401}{}{You know, oddly enough, that describes a LOT of people I've seen since I left Arroyo.}
 {410}{}{Haw! You're telling me. Names are about the only way to tell people apart nowadays. You'd think there's
@@ -90,7 +90,7 @@
 {420}{}{About a thousand chips. Now look, that ain't nothin' to Mr. Salvatore, but he's got this policy
  with regards to people who take ANYTHING from him. If I were you, I'd remember that. Mr. Salvatore's gonna want EVERY chip
  back.}
-{430}{}{I been keeping my eyes open, but Lloyd's been pretty careful about keeping out of sight...from Salvatore
+{430}{}{I been keeping my eyes open, but Lloyd's been pretty careful about keeping out of sight... from Salvatore
  eyes, anyway. I'm betting the boss figures you might have better luck, being new in town an' all.}
 {431}{}{Yeah, whatever. I'm outta --}
 {432}{}{I had some other qu --}
@@ -108,8 +108,8 @@
  you find Lloyd. Or you're gonna make me mad. Now do your JOB.}
 {481}{}{All right, all right...}
 {482}{}{Bite me, Mason.}
-{490}{}{I told you not to come back until you found Lloyd...I TOLD you. (Taps his head.) Are you stupid?! Must be,
- cause here you are talking to me again. Stupid...and DEAD.}
+{490}{}{I told you not to come back until you found Lloyd... I TOLD you. (Taps his head.) Are you stupid?! Must be,
+ cause here you are talking to me again. Stupid... and DEAD.}
 {491}{}{Let's go, shitheel.}
 {492}{}{Bring it on.}
 {493}{}{No, YOU'RE the one who's STUPID AND DEAD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S STU --}
@@ -119,7 +119,7 @@
 {503}{}{(Sneers, reaches for weapons.) Time to die, tribal.}
 {506}{}{No, YOU'RE the one who's gonna DIE! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA D --}
 {514}{}{Well, why the hell didn't you say so in the FIRST place, idiot? Go tell Mr. Salvatore what you found.}
-{515}{}{(Nods, frowning slightly.) Well, awright then...go tell Mr. Salvatore what you found.}
+{515}{}{(Nods, frowning slightly.) Well, awright then... go tell Mr. Salvatore what you found.}
 {516}{}{Oh, REALLY? Is THAT what I should do? Thanks, Mason. Without you, I wouldn't even know how to get
  from place to place. Sheesh. Idiot.}
 {517}{}{Tudo certo.}
@@ -127,22 +127,22 @@
 {525}{}{Go see Mr. Salvatore. He's waiting for you.}
 {530}{}{Awright, then. You're gonna be a one-man collection agency. Drill's simple: Visit Renesco's Pharmacy
  on Commercial Row, collect the tribute, 1000 chips, then bring it back here.}
-{531}{}{All right...anything else?}
+{531}{}{All right... anything else?}
 {535}{}{You collect the tribute yet?}
 {536}{}{(Frowns.) You collect the tribute yet?}
 {537}{}{(Scowls.) You BETTER have the money this time, dipshit. Mr. Salvatore's waiting.}
 {539}{}{Where was I supposed to collect from again?}
 {540}{}{Renesco's giving me shit. Says he gave two weeks ago, and he shouldn't have to pay for another month.}
-{542}{}{Uh...got it. Here's the money.}
+{542}{}{Uh... got it. Here's the money.}
 {543}{}{Did it, but I don't have the money on me...}
 {544}{}{Almost. I'll have it next time, Mason.}
-{546}{}{I got your tribute right here...dead man.}
+{546}{}{I got your tribute right here... dead man.}
 {555}{}{*Renesco's Pharmacy.* On the West Side. A thousand chips. Now get going.}
 {556}{}{That's all I need to know. Now stand back and let me get to work, Mason.}
 {565}{}{Hold on a minute there, speedy. I'll make this REAL clear so you can understand: Don't talk to me again
  until you get that money from Renesco. Or you're gonna make me mad. Now do your JOB.}
-{575}{}{I told you not to come back until you got that money...I TOLD you. (Taps his head.) Are you stupid?!
- Must be, cause here you are talking to me again. Stupid...and DEAD.}
+{575}{}{I told you not to come back until you got that money... I TOLD you. (Taps his head.) Are you stupid?!
+ Must be, cause here you are talking to me again. Stupid... and DEAD.}
 {585}{}{(Mason's eyes narrow.) So friggin' what? You tell him who you worked for?}
 {586}{}{Sim.}
 {587}{}{Well, no.}
@@ -157,19 +157,19 @@
 {618}{}{Yeah, well, I was getting tired of you anyway...}
 {619}{}{No, YOU'RE the one who's DONE SCREWED UP BUT GOOD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S DONE SCR --}
 {625}{}{(Mason nods, seems disappointed.) Heh. Thought we'd bled ol' Renesco of his last dime. All right then,
- well...take it in to the boss. (Frowns.) Go on now.}
+ well... take it in to the boss. (Frowns.) Go on now.}
 {635}{}{Get outta here. Mr. Salvatore don't want to do business with you no more.}
 {640}{}{Awright, the boss says you're coming along on a little TRANSACTION we're doing. Make sure you come
- armed...don't bring no pea-shooters...then come back and talk to me.}
+ armed... don't bring no pea-shooters... then come back and talk to me.}
 {642}{}{Mr. Salvatore said you were to give me a laser pistol.}
 {643}{}{What is this transaction we're doing?}
 {644}{}{I'm ready to go right now. Let's do it.}
 {645}{}{Give me some time to get ready, and I'll come back.}
-{655}{}{Yeah, that's the word. Here you go...don't be playing with it, neither. You hurt ANYONE with that thing,
+{655}{}{Yeah, that's the word. Here you go... don't be playing with it, neither. You hurt ANYONE with that thing,
  and I'll shoot you dead.}
 {656}{}{Can you teach me how to use this?}
 {658}{}{All right then, I'm good to go. Let's do it.}
-{665}{}{(Sneers.) If the boss didn't tell you, then you ain't gotta know. So shut your hole...and don't be
+{665}{}{(Sneers.) If the boss didn't tell you, then you ain't gotta know. So shut your hole... and don't be
  telling anyone about what's going on, neither, or I'll make sure you never say anything again.}
 {675}{}{Let's go then.}
 {676}{}{Follow him and the other Salvatores into the desert...}
@@ -186,20 +186,20 @@
 {707}{}{No, YOU'RE the one was WARNED! You HEAR ME, MASON?! YOU'RE THE ONE WHO WAS WARN --}
 {715}{}{Why izzit you gotta question every thing I say?! Look: The OTHER party at this transaction ain't gonna
  be hurt by these lightbringers, okay? So make sure you have something ELSE with you.}
-{725}{}{(Grunts.) Goddammit...look, first off, hold it like THIS. (Adjusts your grip.) Now, the loading chamber
+{725}{}{(Grunts.) Goddammit... look, first off, hold it like THIS. (Adjusts your grip.) Now, the loading chamber
  is here...(After an hour, and some practice, Mason has improved your skill with Energy Weapons.)}
 {726}{}{So, why do I need something other than this? These pistols seem pretty powerful.}
 {728}{}{Well, I'm good to go. Let's do it.}
 {729}{}{All right then. Give me some time to get ready, and I'll come back.}
 {735}{}{(Grunts.) Hey, there...}
 {736}{}{Take the items.}
-{745}{}{Also, we Salvatores...we got a special UNDERSTANDING with Miss Kitty down at the Cat's Paw. And Eldridge
- over at the weapons store...and at Renesco's. (Winks.) Have fun.}
+{745}{}{Also, we Salvatores... we got a special UNDERSTANDING with Miss Kitty down at the Cat's Paw. And Eldridge
+ over at the weapons store... and at Renesco's. (Winks.) Have fun.}
 {746}{}{Thanks, Mason.}
-{747}{}{Gee, Mason, thanks...except next time, why don't you call me, "sir?" I'd like that. HA HA HA HA HA HA...}
-{748}{}{Gee, Mason, thanks...except next time, why don't you call me, "ma'am?" I'd like that. HA HA HA HA HA HA...}
-{755}{}{Hello...sir.}
-{756}{}{Hello...ma'am.}
+{747}{}{Gee, Mason, thanks... except next time, why don't you call me, "sir?" I'd like that. HA HA HA HA HA HA...}
+{748}{}{Gee, Mason, thanks... except next time, why don't you call me, "ma'am?" I'd like that. HA HA HA HA HA HA...}
+{755}{}{Hello... sir.}
+{756}{}{Hello... ma'am.}
 {765}{}{(Mason pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore
  says you may come in, }
 {766}{}{Thanks, assholio. I'll be sure to mention your manners to Mr. Salvatore.}
@@ -208,7 +208,7 @@
 {776}{}{I'm not implying that you aren't doing your job, splinterdick. I'm TELLING you.}
 {777}{}{Calm down. I was just curious.}
 {778}{}{This conversation is starting to bore me. I'm outta here.}
-{785}{}{Don't let gramps give you any bullshit...if he does, tell him you work for Mr. Salvatore. That should clear
+{785}{}{Don't let gramps give you any bullshit... if he does, tell him you work for Mr. Salvatore. That should clear
  up any misunderstandings. You got that?}
 {786}{}{Got it. Now stand back and let me get to work.}
 {795}{}{Grow some BALLS, boy, and take *care of it.*}
@@ -216,11 +216,11 @@
 {797}{}{I'll take care of it, then. Thanks, Mason. You've been a BIG help.}
 {798}{}{I'll take care of it, then.}
 {799}{}{Oh, I'll take care of it. Starting with you.}
-{805}{}{Poor Mr. Salvatore...he was gettin' pretty old. Guess he finally breathed his last.}
-{806}{}{*Snff*...Mr. Salvatore...he was like a Dad to me.}
+{805}{}{Poor Mr. Salvatore... he was gettin' pretty old. Guess he finally breathed his last.}
+{806}{}{*Snff*...Mr. Salvatore... he was like a Dad to me.}
 {807}{}{I loved that wheezing old cripple. Now he's dead, and he'll never know how I felt.}
 {815}{}{(Sneers when he sees you.) I heard Renesco had an "accident." Word on the street you had something
- to do with it. Just so you know, he was one of OURS, tribal. I figure you owe us...in blood.}
+ to do with it. Just so you know, he was one of OURS, tribal. I figure you owe us... in blood.}
 {818}{}{No, YOU'RE the one who's gonna RETIRE! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA R --}
 {825}{}{(Mason's face goes stone cold, then he reaches for his weapons.)}
 {826}{}{I don't think you'll find killing ME as easy as poisoning that kid...}
@@ -229,6 +229,6 @@
 {900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
 {901}{}{I had some other questions...}
 {1305}{}{.}
-{5735}{}{. Mr. Salvatore sent word of yer promotion. Congrats. I got some stuff for you...lessee...(He hands you an
+{5735}{}{. Mr. Salvatore sent word of yer promotion. Congrats. I got some stuff for you... lessee...(He hands you an
  armload of items.) Careful with that stuff...}
 {5765}{}{.}

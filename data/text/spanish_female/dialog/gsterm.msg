@@ -115,7 +115,7 @@
 {363}{}{Hmm, parece que todo está desactivado o cerrado. Oh, en fin.}
 {370}{}{Accediendo… Acceso a estación Enclave denegado.}
 {371}{}{Accediendo… de nuevo… Acceso a estación Enclave denegado.}
-{372}{}{Accediendo... otra vez... eres una cabróna persistente, ¿eh? ... Acceso a estación Enclave denegado.}
+{372}{}{Accediendo... otra vez... eres un cabrón persistente, ¿eh? ... Acceso a estación Enclave denegado.}
 {373}{}{Accediendo... otra vez... ¿aún no te has cansado de esto?... Acceso a estación Enclave denegado.}
 {374}{}{Accediendo... otra vez... ¿no tienes nada mejor que hacer con tu tiempo?... Acceso a estación Enclave denegado.}
 {375}{}{Se acabó. Ya he tenido bastante de esta constante insistencia. Si lo intentas sólo una vez más, vas a lamentarlo.}
@@ -176,7 +176,7 @@
 {512}{}{Si esto se ha intentado antes, mostrar aquí la serie de órdenes anterior. Temperatura al 75% de la tolerancia de la unidad. ¿Órdenes?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
 {514}{}{Si esto se ha intentado antes, mostrar aquí la serie de órdenes anterior. Temperatura al 80% de la tolerancia de la unidad. ¿Órdenes?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
 {516}{}{Si esto se ha intentado antes, mostrar aquí la serie de órdenes anterior. Temperatura al 85% de la tolerancia de la unidad. ¿Órdenes?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{Si esto se ha intentado antes, mostrar aquí la serie de órdenes anterior. Temperatura al 90% de la tolerancia de la unidad. Cierre imminente. ¿Órdenes?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
 {520}{}{Si esto se ha intentado antes, mostrar aquí la serie de órdenes anterior. Temperatura al 95% de la tolerancia de la unidad. Cierre imminente. ¿Órdenes?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Girar izquierda.}
 {524}{}{Girar derecha.}

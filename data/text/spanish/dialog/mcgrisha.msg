@@ -50,7 +50,7 @@
 {199}{}{[Estrechas la mano de Grisham]}
 {200}{}{Espera un momento. Ahora que lo pienso, esos brahmines parecían un poco hambrientos. ¿Qué tal 750 dólares?}
 {201}{}{He cambiado de idea. No voy a pagarte.}
-{202}{}{[Con una sonrisa de tiburón] Me alegra ver que eres una persona con carácter.}
+{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
 {203}{}{[Grisham se pone de color rojo y te habla con los dientes apretados]. Vale, que sean 750 dólares. ¡Dame el dinero!}
 {204}{}{¿Sabes? 750 dólares sigue pareciéndome muy caro. Esos brahmin hubieran muerto de todas formas si los perros no les hubieran matado antes. Pero no soy un completo egoísta; te daré 50 dólares.}
 {206}{}{¡BIEN! ¡DAME EL DINERO Y LÁRGATE!}
@@ -147,7 +147,7 @@
 {1238}{}{Déjame ver. Me parece que tú y mi sobrina estábais imitando el ritual del cortejo del brahmin en la época de celo.}
 {1239}{}{Déjame ver... Me parece que tú y mi sobrino estábais bailando un tango horizontal entre las sábanas.}
 {1403}{}{Cómo te atreves a mancillar el honor de }
-{1412}{}{hija de mi hermano}
-{1413}{}{hijo de mi hermano}
+{1412}{}{daughter.}
+{1413}{}{son.}
 {1600}{}{. Espero que estés cuidando bien de mi hija Miria. Ella es la luz de mi vida y se me partiría el corazón si algo le ocurriera. ¿Dónde está, ya que estamos? Esperaba volver a verla.}
 {1601}{}{. ¿Qué tal la vida de casados? Veo que mi hijo Davin no viaja contigo. Le echo de menos. Quizás la próxima vez que vengas a visitarme puedas traerlo contigo. Harías muy feliz a este viejo si pudiera volver a ver a su hijo.}

@@ -20,7 +20,7 @@
 {119}{}{What's this about cyber-genetics?}
 {120}{}{You expect me to believe any of this? You are a loon.}
 {121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem. You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
-{122}{}{Of course, my simple-minded colleagues were just trying to solve the whole problem the crudest way possible. Purification, indeed. I'll admit there were some early problems, but I've got them worked out now...I think.}
+{122}{}{Of course, my simple-minded colleagues were just trying to solve the whole problem the crudest way possible. Purification, indeed. I'll admit there were some early problems, but I've got them worked out now... I think.}
 {123}{}{}
 {124}{}{Continuar}
 {125}{}{In fact, you could help me perform the field testing. Interested?}

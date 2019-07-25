@@ -4,7 +4,7 @@
  someone to talk to.}
 {103}{}{Hi there! I'm Steve. I'm the guy who can tell you where's where and what's what in this fine
  town. Can I direct you someplace, or give you any help today?}
-{104}{}{Duh…}
+{104}{}{Duh...}
 {105}{}{Noken Heel?}
 {106}{}{Me conte sobre esse lugar.}
 {107}{}{Who lives here?}
@@ -29,7 +29,7 @@
  and careful here, okay?}
 {123}{}{Oh-kay! Byeeee!}
 {124}{}{I have to get back to work. You be good and careful here, okay?}
-{125}{}{You again? Well, you know what you have to do -– be good and careful. Take care!}
+{125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
 {126}{}{Oh-kay! Byeeeeeeeee!}
 {127}{}{Put your weapons away, partner. You won't get any answers from me while you're waving them
  around like that.}
@@ -50,11 +50,11 @@
 {138}{}{Continue.}
 {139}{}{The guy who helped create the city's still in charge? That would make him very, very old.}
 {140}{}{Obrigado. Tchau.}
-{141}{}{Aside from the mutants all being DEAD and this town being DOOMED…}
-{142}{}{Aside from the mutants being dead and our only source of livelihood destroyed…}
-{143}{}{Aside from you being a hero for exposing the corruption in our midst…}
-{144}{}{Aside from realizing we have a cancer in our midst with the escape of Franc and Manson…}
-{145}{}{Aside from Chad's betrayal of the city and your justice -– for which everyone's grateful -– }
+{141}{}{Aside from the mutants all being DEAD and this town being DOOMED...}
+{142}{}{Aside from the mutants being dead and our only source of livelihood destroyed...}
+{143}{}{Aside from you being a hero for exposing the corruption in our midst...}
+{144}{}{Aside from realizing we have a cancer in our midst with the escape of Franc and Manson...}
+{145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
 {146}{}{Not too much, really.}
 {147}{}{Eu tenho mais perguntas.}
 {148}{}{Adeus.}
@@ -90,7 +90,7 @@
  well.}
 {174}{}{Adeus.}
 {175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
- to avoid giving in to Vault City or NCR -– we don't need their style of government. That's all.}
+ to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
 {176}{}{Grande. Eu tenho mais perguntas.}
 {177}{}{Obrigado. Tchau.}
 {178}{}{If you're going to persist in believing you can judge someone's mind by what you see on the
@@ -101,7 +101,7 @@
 {182}{}{Esperar.}
 {183}{}{Adeus.}
 {184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
- forever -– in fact, most of them are going senile now. Building a community isn't going to help them
+ forever -- in fact, most of them are going senile now. Building a community isn't going to help them
  achieve their aims.}
 {185}{}{You have a point.}
 {186}{}{They're still evil.}
@@ -110,11 +110,11 @@
  won't be too welcome in Broken Hills. Excuse me. I have a job to do.}
 {189}{}{Jerk.}
 {190}{}{Time to die, jerk.}
-{191}{}{We have a mine, a refinery, a tavern, a hotel -– which, by the way, has lost its owner, so we
- just let people stay there free -– a hospital, a general store, and a chemist. We grow our own food.}
+{191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
+ just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
 {192}{}{Tudo bem. Eu tenho mais perguntas.}
 {193}{}{Adeus.}
-{194}{}{Well, many of them have. Since mutants are sterile… or so I'm led to believe … they're dying
+{194}{}{Well, many of them have. Since mutants are sterile... or so I'm led to believe ... they're dying
  out. The ones who are left seem to be getting senile, too. Not Marcus, though. He's still as sharp as
  ever.}
 {195}{}{Where can I find Marcus?}
@@ -125,7 +125,7 @@
 {200}{}{[MAIS]}
 {201}{}{Pal, you're not wanted here. You've done enough damage.}
 {202}{}{[FEITO]}
-{300}{}{You can usually find Marcus near the Bank – that also serves as a tougher jail – or at the
+{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{Bummer!}
 {302}{}{Porra!}

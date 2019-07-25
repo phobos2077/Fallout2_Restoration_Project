@@ -47,7 +47,7 @@
 {271}{}{Sí, ¿sabes que era?}
 {272}{}{Creo que era un pájaro.}
 {273}{}{No, un perro.}
-{274}{}{Pero volaba, tío.}
+{274}{}{But it was flying, man.}
 {275}{}{Ni de coña. Iba por el suelo.}
 {276}{}{Ya, estás viendo cosas, tío.}
 {277}{}{Ni de coña, era real.}
@@ -98,7 +98,7 @@
 {406}{}{¿No te hace sentir un hormigueo en la piel?}
 {407}{}{Tubby tiene la mejor mercancía de la ciudad.}
 {408}{}{¡Me siento tan viva!}
-{420}{}{¿Has oído un ruido fuerte?}
+{420}{}{Did you hear a loud bang?}
 {421}{}{No he visto a Tubby desde hace tiempo}
 {422}{}{¿Dónde está Tubby?}
 {423}{}{¿Has visto a Tubby?}

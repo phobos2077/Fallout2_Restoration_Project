@@ -162,7 +162,7 @@
 {234}{}{¿Qué está ocurriendo en este pueblo?}
 {300}{}{Has ayudado a curar la adicción de Fannie.}
 {301}{}{Adiós.}
-{310}{}{I may have something that can help Fannie. [Give Lou the jet antidote]}
+{310}{}{I may have something that can help Fannie. [Give Lou the Jet antidote]}
 {1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
  I just want you to know that I'm thankful for what you did. How can I help you?}
 {1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.

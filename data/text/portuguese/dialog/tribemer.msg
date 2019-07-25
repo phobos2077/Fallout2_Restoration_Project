@@ -23,7 +23,7 @@
 {230}{}{[His eye goes wide and he lets out a low whistle.] The Chosen One, huh? Well color me impressed. Now let's say
  we get down to business. Tell me, friend, have you ever heard of a little item called... a stimpak? [As he dramatically
  speaks the last word, he produces a stimpak from his coat pocket and holds it up like a wondrous artifact.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of little item called...
+{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
  a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
  wondrous artifact.]}
 {241}{}{Uh, yeah. Actually, they're pretty common.}
@@ -58,7 +58,7 @@
  Warren winces with pain but does not cry out.] As you can see, Warren's got quite a nasty gash here.}
 {275}{}{Quanto?}
 {276}{}{Practically giving them away? How much are you asking?}
-{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks—and all I ask in return is a measly *twenty*
+{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks--and all I ask in return is a measly *twenty*
  golden gecko pelts. You just can't beat a deal like that.}
 {281}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
 {282}{}{That's a good deal alright. Too good. What's the catch?}

@@ -6,7 +6,7 @@
 {202}{}{I'm not an intruder and now I need to be leaving.}
 {203}{}{Soy }
 {204}{}{, and I'm not trying to intrude, I'm just exploring.}
-{210}{}{Exploring!? Exploring...MY...EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
+{210}{}{Exploring!? Exploring... MY... EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
 {211}{}{No, wait! I'm not doing you any harm! Let me explain...}
 {220}{}{You aren't going anywhere fast, Pisskopf. Nobody saunters into MY EPA without explaining themselves. How do I know you're not a Chinese spy?}
 {221}{}{I guess you don't. But if you give me a chance to explain myself, I'm sure we can sort this whole mess out.}
@@ -14,7 +14,7 @@
 {230}{}{Go on then, Schwachkopf, explain yourself. Make it good though, or I'll have the robots beat you and drag you down to the electric chair!}
 {231}{}{Alright. First off, I'm not a Chinese spy -- I'm what you might call a tribal. I've been chosen to embark on a perilous quest so that I might save my tribe from destruction. I only entered this complex in hope of scavenging something that could aid me in my quest.}
 {232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
-{240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill...perhaps I could find a use for you after all. }
+{240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill... perhaps I could find a use for you after all. }
 {241}{}{¿Eh?}
 {242}{}{No, I think I'll just scavenge some more and go. Bye!}
 {250}{}{Insolence! Such insolence from a Blödes Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}

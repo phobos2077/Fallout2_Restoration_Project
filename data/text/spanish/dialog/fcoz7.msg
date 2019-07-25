@@ -5,7 +5,7 @@
 {104}{}{Tú. Di lo que buscas.}
 {105}{}{¡Aaagh! ¡Nu! ¡Nee!}
 {106}{}{Tengo una carta para AHS-9 de la Primera Iluminada de RNC.}
-{107}{}{Estoy aquí para hablar con Crocket sobre una armadura.}
+{107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{Me gustaría echar un vistazo.}
 {109}{}{Estoy interesado en unirme, quizá, a vuestro grupo.}
 {110}{}{¿Quién eres?}
@@ -28,7 +28,7 @@
 {127}{}{¡Ooh! ¡Celebridades!}
 {128}{}{Soy AHS-7, el segundo al mando en estas instalaciones. Antes de que lo preguntes: AHS proviene de Aligned Hub Seeker (Buscador Alineado del Eje), lo que significa que he limpiado siete niveles de neurodinas de mi espíritu. Esto quiere decir que estoy más iluminado y más cerca del eje de la Gran Rueda que tú. Y también quiere decir que tú me tendrás que decir a mí qué buscas aquí. Ahora.}
 {129}{}{Tengo una carta para AHS-9 de la Primera Iluminada de RNC.}
-{130}{}{Estoy aquí para hablar con Crocket sobre una armadura.}
+{130}{}{I'm here to speak to Crockett about some armor.}
 {131}{}{Me gustaría echar un vistazo.}
 {132}{}{Estoy interesado en unirme, quizá, a vuestro grupo.}
 {133}{}{He venido a mataros a todos.}
@@ -76,7 +76,7 @@
 {175}{}{¿Dónde puedo encontrar combustible para el petrolero Poseidon?}
 {176}{}{¿Dónde puedo encontrar el significado de todos los términos que usáis?}
 {177}{}{¿Cuándo despegará la nave?}
-{178}{}{¿Dónde está Crocket?}
+{178}{}{Where is Crockett?}
 {179}{}{Nada, gracias. Adiós.}
 {180}{}{Haznos saber cuando hayas completado tu tarea.}
 {181}{}{Lo haré. Tengo más preguntas.}

@@ -68,8 +68,8 @@
 {328}{}{Well, then he caught a case of seam squirrels.}
 {329}{}{That's not an MP. That's a *YP.*}
 {330}{}{20 minutes, babe.}
-{331}{}{Let's see: (Checks script.) Enter Randy, he and Sylvia go at it...Christy goes to bathroom, Peter joins her, they go at it. Enter Ron...}
-{345}{}{The Corsican Brothers at yer service... (Glances up, irritated, then does a double take.) Hey...you're the one from before - you were looking to fluff, right?}
+{331}{}{Let's see: (Checks script.) Enter Randy, he and Sylvia go at it... Christy goes to bathroom, Peter joins her, they go at it. Enter Ron...}
+{345}{}{The Corsican Brothers at yer service... (Glances up, irritated, then does a double take.) Hey... you're the one from before - you were looking to fluff, right?}
 {346}{}{The Corsican Brothers at yer service... (Glances up, irritated.) You again. Look, you interested in the fluffer
  position or not?}
 {347}{}{The Corsican Brothers at yer service... (Glances up, irritated, then does a double take.) YOU'RE the new fluffer?}
@@ -83,7 +83,7 @@
 {357}{}{No. Sorry to bother you.}
 {358}{}{Nooooooo. Sorry to bother you.}
 {370}{}{Awright, brainiac. Pay's 5...er, 3 chips for one shoot. Get into the backroom and wax that fella's shaft.}
-{371}{}{Shaft...he's one bad mutha --}
+{371}{}{Shaft... he's one bad mutha --}
 {372}{}{[Do as man say.]}
 {380}{}{Watch your mouth.}
 {381}{}{I'm talking about Shaft!}
@@ -139,7 +139,7 @@
  us? C'mon, let's talk, baby, let's TALK!}
 {498}{}{Okee Dokee ...me talk with you. Me wanna do that stuff again and again}
 {499}{}{Uh-uh. Me wanna go now. Me feel dirty inside}
-{500}{}{I'm interested. My price: 200 chips a...shot.}
+{500}{}{I'm interested. My price: 200 chips a... shot.}
 {501}{}{I'm interested. But first, some conditions. First off, I only work with CLEAN actors, I expect at least 500 chips for
  each shoot, 20% royalties, and no BULLSHIT. I'm a star, and you know it.}
 {503}{}{No way. I need a shower. A long shower.}
@@ -148,14 +148,14 @@
 {516}{}{(He yanks out a piece of paper from his jacket, and directs you to scrawl your signature on it.) Done! Let's film!
  First, you'll need a stage name, something that screams STAR. Any ideas?}
 {517}{}{Awright - how about another name?}
-{525}{}{I...hmmmm...I...hmmmm. Look, I'll agree to the 500 chips, but NO ROYALTIES. You hear me?}
+{525}{}{I... hmmmm... I...hmmmm. Look, I'll agree to the 500 chips, but NO ROYALTIES. You hear me?}
 {526}{}{Tudo certo.}
 {527}{}{No deal. I'll be seeing you.}
 {528}{}{No royalties, no }
 {535}{}{All right! "}
 {536}{}{Achtung! Achtung!}
 {537}{}{[Get down to business.]}
-{545}{}{Eh...not THAT name, 'kay? Bad ass-ociations. I mean, nobody wants to see anybody named that in any decent porno.
+{545}{}{Eh... not THAT name, 'kay? Bad ass-ociations. I mean, nobody wants to see anybody named that in any decent porno.
  Choose another name, eh?}
 {546}{}{Okay...}
 {547}{}{But me really LIKE name}
@@ -171,7 +171,7 @@
  You want to do another, you come back and see us in a month, you hear?}
 {576}{}{All right then, honey-tits. We're done for today. STELLAR performance! STELLAR! You want to do another, you come back and
  see us in a month, you hear?}
-{577}{}{Okee...Bye-bye}
+{577}{}{Okee... Bye-bye}
 {585}{}{Cut! All right then, pal. }
 {586}{}{Cut! All right then, honey-tits. }
 {587}{}{That's a wrap. STELLAR performance! }
@@ -204,22 +204,22 @@
 {652}{}{This place? This here's the Golden Globes, a FILM studio, honey, the only one in Reno, probably the ONLY one still
  erect and standing, see? Now, you gonna talk my ears off, or you wanna job?}
 {653}{}{This old place? This here's the Golden Globes, a FILM studio, probably the ONLY one still erect and standing in
- the world. But enough about this place...you looking for a job, pal? We NEED talent like you.}
+ the world. But enough about this place... you looking for a job, pal? We NEED talent like you.}
 {654}{}{This old place? This here's the Golden Globes, a FILM studio, probably the ONLY one still erect and standing in the
- world. But enough about this place...you looking for a job, honey-tits?}
-{655}{}{How do you "film?" I mean, c'mon...you'd need cameras, film, projectors... where would you get all that stuff?}
+ world. But enough about this place... you looking for a job, honey-tits?}
+{655}{}{How do you "film?" I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
 {657}{}{No thanks. I have to be going.}
 {658}{}{Just checking. I've been feeling a little drained, lately.}
-{670}{}{We lucked out...we don't NEED any of that stoneage crap. We stumbled across a WORKING porno...er, holo...graphic projector.
- No bulky equipment, no fuss...and no unsightly mess.}
-{671}{}{Reeeeally...what specs does the projector have?}
-{672}{}{I see...well, look: I'm interested in a job, if you're still offering.}
+{670}{}{We lucked out... we don't NEED any of that stoneage crap. We stumbled across a WORKING porno... er, holo... graphic projector.
+ No bulky equipment, no fuss... and no unsightly mess.}
+{671}{}{Reeeeally... what specs does the projector have?}
+{672}{}{I see... well, look: I'm interested in a job, if you're still offering.}
 {673}{}{Nice talking to you, but I have to be going.}
-{680}{}{Well...we ain't hit capacity on the QEWB drive yet - near as I can tell, it's about a 300 GB high density memory cube.
+{680}{}{Well... we ain't hit capacity on the QEWB drive yet - near as I can tell, it's about a 300 GB high density memory cube.
  Even though the Winblows 57 O.S. eats up 70-75% of that, we could film for a hundred years on that cube.}
 {681}{}{Where is this cube now? Can I see it?}
 {683}{}{Wow. That's a LOT of porn. I think I'm going to go think about that for a while.}
-{690}{}{No, we try and keep everybody outta the film room...everybody wants to throw in their two cents when it comes to
+{690}{}{No, we try and keep everybody outta the film room... everybody wants to throw in their two cents when it comes to
  editing and storage. 'Sides, the cube's gold to us - wouldn't want anything to happen to it.}
 {692}{}{Makes sense. God knows what use some thief could put that cube to if they got their hands on it. Oh, well. Bye!}
 {700}{}{X-cellent! A-course, I'll need ta see what yer made of, a little try-out to see how you get over the 'hump.' You game, pal?}
@@ -240,12 +240,12 @@
 {743}{}{Sure am. Let's break some bedsprings.}
 {745}{}{Not really. I'm here for Big Jesus Mordino's money.}
 {746}{}{Não, obrigado.}
-{755}{}{Whoa...you don't WANT to do it?! What, you too GOOD for us, now? We made you what you are, '}
+{755}{}{Whoa... you don't WANT to do it?! What, you too GOOD for us, now? We made you what you are, '}
 {756}{}{Me not forget no get mad make me sad me come back but me got to go now}
 {758}{}{Ignore him and wander off}
 {759}{}{Calm down. I just don't want to shoot today, okay? Sheesh. I'll just come back later when you've cooled off.}
 {760}{}{Screw you guys. I don't need this brahmin shit. I'm a star! A big bright shining star!}
-{765}{}{Hey...you all right? You seem a little out of it. You ain't on chems, are you? Cause I AIN'T gonna shoot you like this.}
+{765}{}{Hey... you all right? You seem a little out of it. You ain't on chems, are you? Cause I AIN'T gonna shoot you like this.}
 {766}{}{Me want to film NOW little person}
 {768}{}{You're not the boss of me! I want to fuck, it's my big dick, so everybody get ready to fucking film right NOW.}
 {769}{}{You're not the boss of me! I want to fuck, it's my big vagina, so everybody get ready to fucking film right NOW.}
@@ -255,7 +255,7 @@
 {782}{}{Nada}
 {783}{}{O que é este lugar?}
 {784}{}{Can you tell me a little about the studio?}
-{785}{}{Got any...openings...I could fill?}
+{785}{}{Got any... openings... I could fill?}
 {786}{}{Got any work for someone like me?}
 {787}{}{I'm here for Big Jesus Mordino's money.}
 {788}{}{Nothing. Sorry to bother you.}
@@ -265,20 +265,20 @@
 {799}{}{Not at the moment. Sorry to bother you.}
 {805}{}{Hell, yes! Let's try you out! Hey! Get me some extras here! We gotta us a star in the making!}
 {806}{}{[Do as the man directs.]}
-{810}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy...uh...hey, how you doing, }
+{810}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy... uh... hey, how you doing, }
 {812}{}{Nuthin}
 {813}{}{O que é este lugar?}
 {814}{}{Indulge me. Tell me a little about this studio.}
-{815}{}{Good question. You got any...openings...I could fill?}
+{815}{}{Good question. You got any... openings... I could fill?}
 {816}{}{Good question. Got any work for someone like me?}
-{825}{}{The Golden Globes studio, THE studio for all talent in what remains of the world. So...uh, what can I do for you today?}
+{825}{}{The Golden Globes studio, THE studio for all talent in what remains of the world. So... uh, what can I do for you today?}
 {827}{}{You got time to audition ME? I'm thinking I could be a star, you know what I'm saying?}
 {829}{}{Nothing today. Sorry to bother you.}
 {835}{}{Um, sure. Sure. Let's, uh, give you a try. See if you got what it takes. I mean, we're pretty booked, but
- we can try you out, okay? Uh...some extras over here, please! Hurry up!}
+ we can try you out, okay? Uh... some extras over here, please! Hurry up!}
 {836}{}{[Do as the man directs.]}
-{845}{}{Um, sure, sure! Sure...here ya go. 250 chips. And, uh, say hello to Big Jesus for me, okay?}
-{846}{}{Um, sure, sure! Sure...sorry about the misunderstanding. Here ya go. 250 chips. And, uh, say hello to Big Jesus for me, okay?}
+{845}{}{Um, sure, sure! Sure... here ya go. 250 chips. And, uh, say hello to Big Jesus for me, okay?}
+{846}{}{Um, sure, sure! Sure... sorry about the misunderstanding. Here ya go. 250 chips. And, uh, say hello to Big Jesus for me, okay?}
 {847}{}{Before you're all quick to run me outta here, why don't you tell me about your little operation, slick?}
 {848}{}{Yeah. Maybe. Later for you, pal.}
 {855}{}{Corsican Brothers at yer service... (Glances up.) You again. You looking for more work, Mister
@@ -286,7 +286,7 @@
 {856}{}{Corsican Brothers at yer service... (Glances up.) You again. You looking for more work, Little
  Miss Fluffs-a-Lot?}
 {857}{}{Corsican Brothers at yer service... (Glances up.) You! What HAPPENED to you? I mean, it's good,
- it's good...I musta missed
+ it's good... I musta missed
  something before. You were interested in fluffing, was that it?}
 {861}{}{Uh, what's a fluffer?}
 {862}{}{Yeah. Is there any more work for me?}
@@ -297,7 +297,7 @@
 {879}{}{Doh-Kay}
 {881}{}{Yes. I've changed my mind. Should I just whip it out or...?}
 {882}{}{Yes. I've changed my mind. Should I just drop my pants or...?}
-{895}{}{... I heard about your X-ploits...how you blew the rig of every member in the Enclave. That took a stomach of iron.}
+{895}{}{... I heard about your X-ploits... how you blew the rig of every member in the Enclave. That took a stomach of iron.}
 {896}{}{Yup}
 {897}{}{Nup}
 {899}{}{Uh, I didn't blow every member of the Enclave. You see, what happened was --}
@@ -315,14 +315,14 @@
 {927}{}{Greeeeat. Thanks...}
 {928}{}{Let me go save the game first, then I might come back and do it.}
 {935}{}{Ruined. We're ruined.}
-{936}{}{Without that cube...ruined.}
+{936}{}{Without that cube... ruined.}
 {937}{}{Oh, cruel, cruel sex gods! What offense did we give you that caused you to take the cube from us?}
 {938}{}{::Sigh:: With the cube gone, maybe I should take up macramé.}
 {1000}{}{Me feel sicky-sick in belly.}
 {1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
 {1100}{}{Ack! ::spit, spit:: That SUCKED!}
 {1101}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 5 chips is 5 chips!}
-{1200}{}{I...don't feel so good.}
+{1200}{}{I... don't feel so good.}
 {1201}{}{True love triumphs once again. Your spouse looks deathly ill, but at least you're 3 chips richer!}
 {1250}{}{You have become a star. A big, bright shining star.}
 {5200}{}{! Just the hero we wanted to see!}
@@ -334,7 +334,7 @@
 {5252}{}{?}
 {5256}{}{, if you WANTED to do a shoot with us...}
 {5528}{}{. I'm outta this chicken-shit studio.}
-{5535}{}{!" I LIKE it! I LIKE it! Now, let's FILM…}
+{5535}{}{!" I LIKE it! I LIKE it! Now, let's FILM...}
 {5641}{}{ proud.}
 {5712}{}{!}
 {5730}{}{! We ain't shooting today, but try back again soon. }

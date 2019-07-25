@@ -66,7 +66,7 @@
 {200}{}{Now hold on a minute. Now that I think of it, those brahmin looked a bit thin. How about $750,
  instead?}
 {201}{}{I changed my mind, I don't want to pay you.}
-{202}{}{[Gives you a big toothy smile] Good to see you're a person of character.}
+{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
 {203}{}{[Grisham turns beet red and talks to you with teeth clenched.] OK, $750 then. Give me the money!}
 {204}{}{You know, $750 still seems kind of expensive. Those brahmin would have died anyway if the dogs
  didn't get them first. But I'm not totally selfish; I'll give you $50.}
@@ -198,8 +198,8 @@
 {1239}{}{Let me see. It looked to me that you and my nephew were doing the horizontal tango between the
  sheets.}
 {1403}{}{How dare you sully the honor of my brother's }
-{1412}{}{daughter}
-{1413}{}{son}
+{1412}{}{daughter.}
+{1413}{}{son.}
 {1600}{}{. I hope you're taking good care of my daughter, Miria. She is the light of my life and it
  would break my heart if anything were to happen to her. Where is she by the way? I was sure hoping
  to see her again.}

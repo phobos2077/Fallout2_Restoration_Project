@@ -40,7 +40,7 @@
 {135}{}{Well, I'm self-taught actually.}
 {136}{}{It shows. Believe me.}
 {137}{}{Oh. U OK?}
-{138}{}{Oh... well I... hmmmm. Are...are you okay?}
-{139}{}{I told 'em. 'We need traffic signs', I said. But did they listen? Noooo...let's not listen to ol' Lumpy!}
+{138}{}{Oh... well I... hmmmm. Are... are you okay?}
+{139}{}{I told 'em. 'We need traffic signs', I said. But did they listen? Noooo... let's not listen to ol' Lumpy!}
 {200}{}{Oh, crap!}
 {201}{}{Uh, oh. Me hit smelly man.}

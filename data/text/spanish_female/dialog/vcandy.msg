@@ -2,8 +2,8 @@
 {101}{}{Ves al "doctor" Andrew.}
 {102}{}{Ves a un tipo desaliñado con una sucia camisa marrón. Sus brazos están cubiertos por una erupción de un rojo brillante, que se rasca con frecuencia.}
 {103}{}{Parece que has estado en alguna pelea, chica.}
-{104}{}{Vaya... parece que has tenido acción de verdad, chica.}
-{105}{}{Vaya... parece que has tenido una dura pelea, chica.}
+{104}{}{Vaya... parece que has tenido acción de verdad, amigo.}
+{105}{}{Vaya... parece que has tenido una dura pelea, amigo.}
 {106}{}{¡Dios...! ¡Estás salpicando de sangre todo el suelo!}
 {107}{}{¿Estás aquí para que te remienden?}
 {108}{}{Arregla.}
@@ -78,7 +78,7 @@
 {177}{}{No tengo suficiente. Volveré cuando tenga más dinero.}
 {178}{}{He cambiado de opinión. Tal vez en otro momento.}
 {179}{}{Bien... de acuerdo. Eso parece justo.}
-{180}{}{Hagámoslo, entonces. Tan solo te voy a conectar al viejo Doctor... pon tus brazos en esas ranuras de ahí, y apretaré los tirantes y aseguraré las abrazaderas...}
+{180}{}{Hagámoslo entonces. Simplemente te conectaré al viejo Doctor... recuéstate, y apretaré los tirantes y aseguraré las abrazaderas...}
 {181}{}{Desvanecimiento durante 3 segundos}
 {182}{}{¡Ahí está, todo bien cosido! Sabía que el viejo Doctor no me defraudaría.}
 {183}{}{Gracias. Verás, hay otra cosa que necesitaba...}
@@ -235,7 +235,7 @@
 {334}{}{Olvídalo entonces. Quizá vuelva.}
 {335}{}{Olvídalo. No tengo esa cantidad de dinero ahora. Volveré.}
 {336}{}{Bien... de acuerdo. Eso parece justo.}
-{337}{}{Hagámoslo, entonces. Tan solo te voy a conectar al viejo Doctor... pon tus brazos en esas ranuras de ahí, y apretaré los tirantes y aseguraré las abrazaderas...}
+{337}{}{Hagámoslo entonces. Simplemente te conectaré al viejo Doctor... recuéstate, y apretaré los tirantes y aseguraré las abrazaderas...}
 {338}{}{Desvanecimiento durante 3 segundos}
 {339}{}{Ese amiguito tuyo debería haber desaparecido. Eso espero. Ha sido difícil exprimir todo ese pus mutado de la médula ósea. De todos modos, ya está.}
 {340}{}{Me alegra que se haya solucionado. Verás, hay otra cosa que necesitaba...}

@@ -88,8 +88,8 @@
  casa de mamaíta y dile que no había nada que tuvieras las pelotas de hacer.}
 {176}{}{Ya está. Ya has dicho bastante. Última oportunidad: Vete sin hacer ruido o te haré trizas.}
 {177}{}{Quizá lo haga. No quiero hacerle daño a nadie. Adiós.}
-{178}{}{Ya veo cómo va esto, mierdecilla. Está bien, puedes encerrarme, y a Caminetto también.
- (a Caminetto) ¿Vale, pequeño engendro?}
+{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
+ (to Caminetto) Right, my little fuckface?}
 {179}{}{Ésto me gusta más.}
 {180}{}{No. Ahora es demasiado tarde. Voy a tener que dejaros como un colador a los dos.}
 {181}{}{Supongo que voy a patear culo de Caminetto otro día.}

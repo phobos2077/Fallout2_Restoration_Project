@@ -1,5 +1,5 @@
 {100}{}{Você vê uma prostituta.}
-{150}{}{You see a...lady of the evening. Her tattered clothes are draped seductively around her body.}
+{150}{}{You see a... lady of the evening. Her tattered clothes are draped seductively around her body.}
 {151}{}{You see a prostitute. She winks at you.}
 {152}{}{You see a prostitute. Her eyes are like blown fuses.}
 {153}{}{You see a prostitute. She smells like flowers.}
@@ -8,13 +8,13 @@
 {156}{}{You see a prostitute. She looks as if she kills her mates and eats them.}
 {157}{}{You see a prostitute. She is appraising you like a jeweler.}
 {158}{}{You see a prostitute. Her tattered clothes are draped seductively around her body.}
-{175}{}{Oh my...it's him. .}
+{175}{}{Oh my... it's him.}
 {176}{}{You are the biggest stud in the world.}
 {177}{}{::Swoons::}
 {178}{}{Yeah, }
 {179}{}{::Claps::}
 {180}{}{::Cheers::}
-{181}{}{Oh my...it's her. }
+{181}{}{Oh my... it's her.}
 {182}{}{You go, girl!}
 {183}{}{::Gives you the thumbs up sign::}
 {190}{}{You couldn't pay me enough chips to get it on with you in THAT.}
@@ -34,7 +34,7 @@
 {208}{}{Can I have your autograph? On my chest?}
 {209}{}{Could I act in your next movie?}
 {210}{}{I would never fake it for YOU, }
-{211}{}{Getting...weak. Can't...hold out...much longer. Must...have...sex...with you...}
+{211}{}{Getting... weak. Can't... hold out... much longer. Must... have... sex... with you...}
 {212}{}{She's no star, she's just tribal trash...}
 {213}{}{I didn't realize they allowed porn stars to get THAT fat...}
 {214}{}{She's fugly.}
@@ -100,7 +100,7 @@
 {274}{}{You make me weak, you know that?}
 {275}{}{Nice unit you got there.}
 {276}{}{Need someone to take care of that for you, champ?}
-{277}{}{Hey...watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{277}{}{Hey... watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
 {278}{}{Look! It's }
 {279}{}{Need some company, }
 {280}{}{}
@@ -108,7 +108,7 @@
 {282}{}{There goes one tough woman.}
 {283}{}{She looks so...(shivers)...dangerous.}
 {284}{}{She's pretty sexy.}
-{285}{}{Oh my...it's him. }
+{285}{}{Oh my... it's him. }
 {286}{}{He looks so...(shivers)...dangerous.}
 {287}{}{Daaaamn!}
 {288}{}{::Whistles::}
@@ -118,7 +118,7 @@
 {292}{}{Hellooooo, }
 {293}{}{Need some company, }
 {294}{}{}
-{295}{}{Oh my...it's her. }
+{295}{}{Oh my... it's her. }
 {296}{}{She is such a badass.}
 {297}{}{There goes one tough bitch.}
 {298}{}{She looks so...(shivers)...dangerous.}
@@ -190,7 +190,7 @@
 {364}{}{I'm Homely Spice.}
 {365}{}{I'm Slutty Spice.}
 {366}{}{I'm Old Spice.}
-{367}{}{I'm Syphilis...er, Slutty Spice.}
+{367}{}{I'm Syphilis... er, Slutty Spice.}
 {368}{}{I'm Dirty Spice.}
 {369}{}{Wranglers in the dust, that's what I want.}
 {370}{}{I've got a friend if you want a double-header, slaver.}
@@ -258,7 +258,7 @@
 {432}{}{My ass is going to fall off, Myron keeps it up.}
 {433}{}{Damn Temperance Union came around again...}
 {434}{}{::Whistles::}
-{435}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{435}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {436}{}{Want me to tighten your screws, slaver?}
 {437}{}{I'd rather be with Avellone.}
 {438}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -283,11 +283,11 @@
 {457}{}{Where's the fire, slaver-girl?}
 {458}{}{That slaver girl's pretty foxy.}
 {459}{}{That slaver-girl makes my Geiger counter tick.}
-{460}{}{I guarantee I'm better in the sack that that robot following you around.}
+{460}{}{I guarantee I'm better in the sack than that robot following you around.}
 {461}{}{Is that robot FULLY functional?}
 {462}{}{Is that some kind of slot machine that's following you around?}
 {463}{}{Is that a robo-slot machine?}
-{464}{}{Does your robot do tricks? Uh...magic tricks, I mean.}
+{464}{}{Does your robot do tricks? Uh... magic tricks, I mean.}
 {465}{}{Tell me that ain't a mutant.}
 {466}{}{That mutant'll be extra. LOTS extra.}
 {467}{}{Uh-oh. Mutants in New Reno. Must mean trouble.}
@@ -347,7 +347,7 @@
 {521}{}{If I have to talk to you afterwards, that's extra.}
 {522}{}{Anything I can help you with, stranger?}
 {523}{}{You ain't never had love 'til you had Reno love.}
-{524}{}{Your friend with the bone in his nose...great gimmick.}
+{524}{}{Your friend with the bone in his nose... great gimmick.}
 {525}{}{Does your friend with the bone do tricks with his nose or sumthin'?}
 {526}{}{Maybe I should put a bone in my nose. Might attract more female customers.}
 {527}{}{That fella's got a bone in his nose the size of my arm. Keeee-rist.}
@@ -369,7 +369,7 @@
 {543}{}{Felt like I was in a marathon last night...}
 {544}{}{Looking for love, honey?}
 {545}{}{Wish Myron would move away. Far away.}
-{546}{}{I can do ANYTHING you want...for the right price.}
+{546}{}{I can do ANYTHING you want... for the right price.}
 {547}{}{I'm ready to go, honey. How about you?}
 {548}{}{::Whistles at you::}
 {549}{}{I hate teabags.}
@@ -381,7 +381,7 @@
 {555}{}{I'm Homely Spice.}
 {556}{}{I'm Slutty Spice.}
 {557}{}{I'm Old Spice.}
-{558}{}{I'm Syphilis...er, Slutty Spice.}
+{558}{}{I'm Syphilis... er, Slutty Spice.}
 {559}{}{I'm Dirty Spice.}
 {560}{}{Wranglers in the dust, that's what I want.}
 {561}{}{I've got a girlfriend if you want a double-header.}
@@ -451,7 +451,7 @@
 {625}{}{Damn Temperance Union came around again...}
 {626}{}{::Whistles::}
 {627}{}{Biting is extra.}
-{628}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{628}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {629}{}{Want me to tighten your screws?}
 {630}{}{I'd rather be with Avellone.}
 {631}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -532,7 +532,7 @@
 {706}{}{Felt like I was in a marathon last night...}
 {707}{}{Looking for love, honey?}
 {708}{}{Wish Myron would move away. Far away.}
-{709}{}{I can do ANYTHING you want...for the right price.}
+{709}{}{I can do ANYTHING you want... for the right price.}
 {710}{}{I'm ready to go, honey. How about you?}
 {711}{}{::Whistles at you::}
 {712}{}{I hate teabags.}
@@ -544,7 +544,7 @@
 {718}{}{I'm Homely Spice.}
 {719}{}{I'm Slutty Spice.}
 {720}{}{I'm Old Spice.}
-{721}{}{I'm Syphilis...er, Slutty Spice.}
+{721}{}{I'm Syphilis... er, Slutty Spice.}
 {722}{}{I'm Dirty Spice.}
 {723}{}{Wranglers in the dust, that's what I want.}
 {724}{}{I've got a girlfriend if you want a double-header.}
@@ -614,7 +614,7 @@
 {788}{}{Damn Temperance Union came around again...}
 {789}{}{::Whistles::}
 {790}{}{Biting is extra.}
-{791}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{791}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {792}{}{Want me to tighten your screws?}
 {793}{}{I'd rather be with Avellone.}
 {794}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -673,7 +673,7 @@
 {843}{}{If you want me to have sex with you in that thing, that's extra.}
 {844}{}{If you want to get it on, you'll have to step outta there.}
 {845}{}{Will my moisture make you rust?}
-{846}{}{Well...okay. But no way in HELL are you going to be on top.}
+{846}{}{Well... okay. But no way in HELL are you going to be on top.}
 {847}{}{How the hell do you go to the bathroom with that thing on?}
 {848}{}{Am I going to need the Jaws of Life to get you outta there?}
 {849}{}{Is that some new kind of vibrator?}
@@ -690,7 +690,7 @@
 {860}{}{Why don't you come around more often?}
 {861}{}{Need some company, }
 {862}{}{Nice rack you got there.}
-{863}{}{Hey...watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{863}{}{Hey... watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
 {864}{}{You're pretty sexy, girl, y'know that?}
 {865}{}{}
 {866}{}{If you're looking for a little company later...}
@@ -698,7 +698,7 @@
 {868}{}{Olá, }
 {869}{}{Put in a good word with the boss for me?}
 {870}{}{Well, if it isn't the devilish }
-{871}{}{I can do ANYTHING you want...it's all for the asking.}
+{871}{}{I can do ANYTHING you want... it's all for the asking.}
 {872}{}{Put in a good word with the boss for me?}
 {873}{}{}
 {874}{}{Um, if you're looking for a little company later, ma'am...}
@@ -742,7 +742,7 @@
 {912}{}{Where's the fire, slaver?}
 {913}{}{Childe, let me make you a man.}
 {914}{}{Wanna dance, slaver?}
-{915}{}{Oh, hello, Mr. Tyler. Going...down?}
+{915}{}{Oh, hello, Mr. Tyler. Going... down?}
 {916}{}{If I have to talk to you afterwards, that's extra.}
 {917}{}{Yes, they ARE real, and NO, you can't check.}
 {918}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
@@ -770,7 +770,7 @@
 {940}{}{Looking for love, honey?}
 {941}{}{No kissing. It's the rule.}
 {942}{}{Wish Myron would move away. Far away.}
-{943}{}{I can do ANYTHING you want, slaver...for the right price.}
+{943}{}{I can do ANYTHING you want, slaver... for the right price.}
 {944}{}{I'm ready to go, honey. How about you?}
 {945}{}{Forget the slot machines. My payoff's MUCH better.}
 {946}{}{I hate teabags.}
@@ -782,9 +782,9 @@
 {952}{}{I'm Homely Spice.}
 {953}{}{I'm Slutty Spice.}
 {954}{}{I'm Old Spice.}
-{955}{}{I'm Syphilis...er, Slutty Spice.}
+{955}{}{I'm Syphilis... er, Slutty Spice.}
 {956}{}{I'm Dirty Spice.}
-{957}{}{Say...I've got a girlfriend if you want a double-header.}
+{957}{}{Say... I've got a girlfriend if you want a double-header.}
 {958}{}{Wish Myron was gay.}
 {959}{}{Still don't know why they call it Virgin Street...}
 {960}{}{I wish he'd wear a paper bag sometimes.}
@@ -851,7 +851,7 @@
 {1021}{}{You make my Geiger counter tick.}
 {1022}{}{::Whistles::}
 {1023}{}{Biting is extra.}
-{1024}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{1024}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {1025}{}{Want me to tighten your screws?}
 {1026}{}{I'd rather be with Avellone.}
 {1027}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -916,10 +916,10 @@
 {1086}{}{Where's the fire?}
 {1087}{}{You got the money, I got the time.}
 {1088}{}{Childe, let me make you a man.}
-{1089}{}{Oh, hello, Mr. Tyler. Going...down?}
+{1089}{}{Oh, hello, Mr. Tyler. Going... down?}
 {1090}{}{If I have to talk to you afterwards, that's extra.}
 {1091}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
-{1092}{}{Your friend with the bone in his nose...great gimmick.}
+{1092}{}{Your friend with the bone in his nose... great gimmick.}
 {1093}{}{Does your friend with the bone do tricks with his nose or sumthin'?}
 {1094}{}{Maybe I should put a bone in my nose. Might attract more female customers.}
 {1095}{}{That fella's got a bone in his nose the size of my arm. Keeee-rist.}
@@ -944,7 +944,7 @@
 {1114}{}{Looking for love, honey?}
 {1115}{}{No kissing. It's the rule.}
 {1116}{}{Wish Myron would move away. Far away.}
-{1117}{}{I can do ANYTHING you want...for the right price.}
+{1117}{}{I can do ANYTHING you want... for the right price.}
 {1118}{}{I'm ready to go, honey. How about you?}
 {1119}{}{Forget the slot machines. My payoff's MUCH better.}
 {1120}{}{I hate teabags.}
@@ -957,7 +957,7 @@
 {1127}{}{I'm Homely Spice.}
 {1128}{}{I'm Old Spice.}
 {1129}{}{I'm Slutty Spice.}
-{1130}{}{I'm Syphilis...er, Slutty Spice.}
+{1130}{}{I'm Syphilis... er, Slutty Spice.}
 {1131}{}{I'm Dirty Spice.}
 {1132}{}{I've got a girlfriend if you want a double-header.}
 {1133}{}{Wish Myron was gay.}
@@ -1026,7 +1026,7 @@
 {1196}{}{You make my Geiger counter tick.}
 {1197}{}{::Whistles::}
 {1198}{}{Biting is extra.}
-{1199}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{1199}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {1200}{}{Want me to tighten your screws?}
 {1201}{}{I'd rather be with Avellone.}
 {1202}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -1089,7 +1089,7 @@
 {1259}{}{Where's the fire?}
 {1260}{}{You got the chips, I got the time.}
 {1261}{}{Childe, let me make you a man.}
-{1262}{}{Oh, hello, Mr. Tyler. Going...down?}
+{1262}{}{Oh, hello, Mr. Tyler. Going... down?}
 {1263}{}{If I have to talk to you afterwards, that's extra.}
 {1264}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
 {1265}{}{If you want me to stay awake after sex, that's extra.}
@@ -1117,7 +1117,7 @@
 {1287}{}{Looking for love, honey?}
 {1288}{}{No kissing. It's the rule.}
 {1289}{}{Wish Myron would move away. Far away.}
-{1290}{}{I can do ANYTHING you want...for the right price.}
+{1290}{}{I can do ANYTHING you want... for the right price.}
 {1291}{}{I'm ready to go, honey. How about you?}
 {1292}{}{Forget the slot machines. My payoff's MUCH better.}
 {1293}{}{I hate teabags.}
@@ -1130,7 +1130,7 @@
 {1300}{}{I'm Homely Spice.}
 {1301}{}{I'm Slutty Spice.}
 {1302}{}{I'm Old Spice.}
-{1303}{}{I'm Syphilis...er, Slutty Spice.}
+{1303}{}{I'm Syphilis... er, Slutty Spice.}
 {1304}{}{I'm Dirty Spice.}
 {1305}{}{I've got a girlfriend if you want a double-header.}
 {1306}{}{Wish Myron was gay.}
@@ -1199,7 +1199,7 @@
 {1369}{}{You make my Geiger counter tick.}
 {1370}{}{::Whistles::}
 {1371}{}{Biting is extra.}
-{1372}{}{I guarantee I'm better than that Pip Boy attachment you've been using.}
+{1372}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
 {1373}{}{Want me to tighten your screws?}
 {1374}{}{I'd rather be with Avellone.}
 {1375}{}{I wish Nick Kesting was here. We could talk for hours!}
@@ -1244,13 +1244,13 @@
 {2855}{}{?}
 {2858}{}{?}
 {2861}{}{?}
-{2865}{}{, you big hunk o' man...what have you been up to?}
+{2865}{}{, you big hunk o' man... what have you been up to?}
 {2867}{}{! How are you?}
 {2868}{}{. Can I help you with...*anything?*}
 {2870}{}{.}
-{2873}{}{, you little temptress...what have you been up to?}
+{2873}{}{, you little temptress... what have you been up to?}
 {3100}{}{You see one of the Cat's Paw girls.}
-{3150}{}{You see a...lady of the evening. Her tattered clothes are draped seductively around her body.}
+{3150}{}{You see a... lady of the evening. Her tattered clothes are draped seductively around her body.}
 {3151}{}{You see one of the Cat's Paw girls. She winks at you.}
 {3152}{}{You see one of the Cat's Paw girls. Her eyes are like blown fuses.}
 {3153}{}{You see one of the Cat's Paw girls. She smells like flowers.}
@@ -1259,12 +1259,12 @@
 {3156}{}{You see one of the Cat's Paw girls. She looks as if she kills her mates and eats them.}
 {3157}{}{You see one of the Cat's Paw girls. She is appraising you like a jeweler.}
 {3158}{}{You see one of the Cat's Paw girls. Her tattered clothes are draped seductively around her body.}
-{3200}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd...ooooooh Gaaaawd.}
+{3200}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd... ooooooh Gaaaawd.}
 {3201}{}{Yes! Yes! Yeeeeeeeees YesYesYesYes YES YES YESSSSS! Now go pay the
  cashier.}
 {3202}{}{Hurry up. Meter's running.}
 {3203}{}{Need a moist towelette?}
-{3204}{}{Give it to me, Fr...Ni...Sco...uh, sorry what was your name again?}
+{3204}{}{Give it to me, Fr... Ni... Sco... uh, sorry what was your name again?}
 {3205}{}{Oh Gawd, oh Gawd, oh Gawd! NOW are we finished?}
 {3206}{}{Whoa. THAT'S gonna cost extra.}
 {3207}{}{Yes! You are Columbus, I am America!}

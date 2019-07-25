@@ -58,7 +58,7 @@
  target practice.}
 {156}{}{The Sheriff asked me to help him out while he's laid up with a bum leg. I've got to keep my word
  to him.}
-{157}{}{Well, OK...for the Sheriff's sake I 'spose we can hold off a bit.}
+{157}{}{Well, OK... for the Sheriff's sake I 'spose we can hold off a bit.}
 {158}{}{Thanks. I was hoping you'd see things that way. Goodbye.}
 {159}{}{Well, aren't you a goody-two-shoes. I don't think I like your tone, pal.}
 {160}{}{You don't have to like it. You're going to walk with me to the Jail or I'm gonna drag your

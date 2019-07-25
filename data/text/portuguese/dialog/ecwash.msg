@@ -47,7 +47,7 @@
 {301}{}{Rally sem lavar! Destrua o Spammer!}
 {302}{}{A morte para o Spammer!}
 {303}{}{Este é, por ameaçar a vida das pessoas!}
-{304}{}{Agora você vai morrer Grim Reaper.}
+{304}{}{Now you will die, Grim Reaper.}
 {305}{}{Você está indo de volta 'down under'!}
 {306}{}{O pool genético, precisa de um pouco de cloro.}
 {307}{}{Pagar de volta o tempo!}
@@ -60,14 +60,14 @@
 {314}{}{Proteja o escolhido das idiotices do Spammer!}
 {315}{}{Escolhido! Junte-se a nós!}
 {316}{}{NÃO-LAVADA VINGANÇA!}
-{317}{}{Você nunca será um "não lavado" tolo infantil!}
+{317}{}{You will never be 'Unwashed', childish fool!}
 {318}{}{Você não tem uma chance!}
 {319}{}{Ainda não terminamos!}
 {320}{}{Eu estive esperando por esse dia por um looooongo tempo.}
 {400}{}{Isso é por me ameaçar!}
-{401}{}{Como tenho certeza! Você não machucaria uma garota, você faria?}
+{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
 {402}{}{A vingança é um prato melhor servido frio.'}
-{403}{}{Eu sou Buffy... o seu brinde.}
+{403}{}{I'm Buffy... you're toast.}
 {405}{}{Ninguém ameaça Doombot!}
 {406}{}{Grim Buster!}
 {410}{}{Apenas um guanabana poderia comparar com o sabor desta vitória...}

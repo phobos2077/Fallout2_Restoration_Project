@@ -28,11 +28,11 @@
 {233}{}{No puedo esperar a ir a la caza de bandidos la próxima semana...}
 {234}{}{Tengo fusiles ametralladores, pistolas, dinamita, granadas... y aún así la gente viene buscando espadas y ballestas.}
 {240}{}{¡Bienvenido, héroe! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
-{241}{}{Bienvenida, señorita... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
-{242}{}{Bienvenido, viajera... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
+{241}{}{Bienvenido, caballero... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
+{242}{}{Bienvenido, viajero... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
 {243}{}{Ernnnnh? ¿Cartu-c-chera?}
 {244}{}{Depende de lo que vendas.}
-{250}{}{¡Bienvenida, heroína! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. }
+{250}{}{¡Bienvenido, héroe! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. }
 {251}{}{Si ves algo que te gusta, házmelo saber, y se te hará un descuento *especial*, ¿vale?}
 {252}{}{Vaaale.}
 {253}{}{Te alejas.}

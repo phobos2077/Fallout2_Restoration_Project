@@ -25,7 +25,7 @@
  here for slaughter. After they are slaughtered and the meat treated, it is sold to traders who in turn
  sell it to merchants in various towns. All very boring, if you ask me.}
 {176}{}{Have you come to the right place! This town is so boring, there's nothing else to do but gossip
- and… [She keeps talking for awhile and sometime later you're able to get a word in.]}
+ and... [She keeps talking for awhile and sometime later you're able to get a word in.]}
 {177}{}{O que mais você quer saber?}
 {178}{}{What do you know about the Cornelius's missing watch?}
 {179}{}{You mentioned something about Rose?}
@@ -65,7 +65,7 @@
 {211}{}{I thought you'd never ask. Why don't we get a little more comfortable?}
 {212}{}{All right! You know what I want, baby!}
 {213}{}{You are a slut, aren't you!}
-{214}{}{I can't take this anymore! You're perfect. [She rips off her clothes, your clothes, and then…]}
+{214}{}{I can't take this anymore! You're perfect. [She rips off her clothes, your clothes, and then...]}
 {215}{}{[Your world will never be the same again.]}
 {216}{}{That better not mean what I think that means.}
 {217}{}{Aoooga!}
@@ -83,8 +83,8 @@
 {402}{}{I surely do!}
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continue, please...}
-{412}{}{I sure the hell…}
-{413}{}{Um… I do.}
+{412}{}{I sure the hell...}
+{413}{}{Um... I do.}
 {420}{}{Uncle Biff!}
 {450}{}{Uhhh, I think daddy's the one you should be talking too.}
 {470}{}{Uhhh, I think Uncle Biff's the one you should be talking too.}

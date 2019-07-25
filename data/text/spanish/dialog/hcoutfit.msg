@@ -64,7 +64,7 @@
 {155}{}{Tengo un par de preguntas más.}
 {156}{}{Quiero algunas otras cosas.}
 {157}{}{Ya veo. Eso es todo. Gracias.}
-{158}{}{Do I trust him? Obviously … to an extent. I trust him to run my caravans for me. He might be
+{158}{}{Do I trust him? Obviously ... to an extent. I trust him to run my caravans for me. He might be
  shady, but 'til he gives me a reason not to trust him, I'll keep on like I have.}
 {159}{}{Tengo más preguntas.}
 {160}{}{Quiero algunas otras cosas.}

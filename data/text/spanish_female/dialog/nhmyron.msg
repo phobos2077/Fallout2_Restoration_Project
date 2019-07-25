@@ -49,13 +49,13 @@
 {401}{}{Veamos: tengo náuseas… palpitaciones… fiebre. Esto va a ser veneno.}
 {402}{}{Eh… no… aguantaré… mucho… más… veneno… esparciéndose…}
 {403}{}{¿Podría alguien por favor succionarme este veneno?}
-{410}{}{¿Soy yo quien brilla? Dame algo de Rad-X la próxima vez que rondemos por zonas radiactivas, ¿vale?}
-{411}{}{Necesito algo de Rad-away antes de que la radiación se coma mis pelotas.}
+{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
+{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
 {412}{}{¿Por qué simplemente no nos bebemos porquería radiactiva la próxima vez? ¡Al menos moriremos más rápido!}
 {413}{}{Podría dar energía a todo Nuevo Reno con la radiación de mi cuerpo.}
-{414}{}{Brillo más que Nuevo Reno a medianoche. ¿Alguien tiene algo de Rad-away?}
+{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
 {415}{}{Genial. Un poco de radiación, y me convierto en linterna humana.}
-{416}{}{Que alguien me deje llevar el Rad-Away. No lo usaré todo. Lo prometo.}
+{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
 {425}{}{¿Por qué no volvemos al primer nivel de la mazmorra, donde están todos esos kobolds?}
 {426}{}{Lo bueno es que jugar a D&D todo estos años me ha enseñado unas cuantas cosas sobre el coraje.}
 {427}{}{Pásame los esteroides. Creo que pronto lo voy a necesitar.}
@@ -145,10 +145,10 @@
 {593}{}{Entonces... lo de Miria y tú. ¿Vais en serio, o...?}
 {594}{}{Entonces... lo de Miria y tú. ¿Sois libres para estar con otras personas, o....?}
 {595}{}{¿Sueles intercambiar esposas? Puedes quedarte con la mía en cuanto consiga una.}
-{596}{}{So...who is this hot oriental looking chick?}
-{597}{}{Kitsune's kinda cute. Can I...well, you know…how about it?}
+{596}{}{So... who is this hot oriental looking chick?}
+{597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
 {598}{}{This oriental chick suuuure is a looker.}
-{599}{}{So...you and Kitsune. Are you two going out or something?}
+{599}{}{So... you and Kitsune. Are you two going out or something?}
 {600}{}{¿Lista para continuar?}
 {605}{}{¿Por qué demonios estamos AQUÍ?}
 {606}{}{Todo el mundo en esta ciudad necesita un enema.}
@@ -165,7 +165,7 @@
 {622}{}{Mantente cerca de mí.}
 {623}{}{Pon algo de distancia entre nosotros, Myron.}
 {624}{}{Sepárate un poco, Myron. Es lo mejor para los dos.}
-{625}{}{Tengo algunas preguntas…}
+{625}{}{Tenía algunas preguntas...}
 {626}{}{Ahora no, Myron. Tengo algunas preguntas…}
 {627}{}{De acuerdo entonces. Apresúrate y vamos allá.}
 {628}{}{No, sigue esperando aquí. Volveré. Lo prometo.}
@@ -198,7 +198,7 @@
 {683}{}{Ya veo a dónde lleva esto. No importa, Myron.}
 {690}{myn109}{Ah, Cristo. Bien... cuando me crucé en el camino de la Familia Mordino, estaban cultivando peyote para intentar venderlo a los turistas como 'la experiencia Reno'. Una gilipollez de primera.}
 {691}{}{Sigue.}
-{692}{}{Olvídalo. Tengo algunas preguntas más…}
+{692}{}{Forget this. I had some other questions...}
 {693}{}{Olvida que lo he mencionado.}
 {700}{myn110}{Quiero decir, ¿peyote? Venga, hombre. No es ni la mitad de fuerte que, digamos, el viejo y bueno LSD.}
 {701}{}{Eh, ¿sobre el Jet --?}
@@ -232,7 +232,7 @@
 {791}{}{Repíteme que era eso de Redding?}
 {792}{}{Eh, ¿"extracto de proteína"?}
 {800}{myn119}{¿Redding? Una ciudad llena de buscadores de oro. Mordino quería controlarla por completo. Así que se me acercó y con su voz sibilante dijo, 'Myron, Myron, fabrícame algo que me entregue Redding'.}
-{801}{}{Y tú dijiste…}
+{801}{}{Y tú dijiste...}
 {810}{myn120}{Y yo dije, "Vale, ¿de qué plazo estamos hablando?" Y él dijo, por supuesto, "Para ayer". Señores del crimen. Todo lo quieren rápido y chapucero. Al menos no tienen departamento de mercadotecnia.}
 {811}{}{Ya veo. Volvamos a hablar sobre la producción del Jet.}
 {820}{myn121}{Antes de la Gran Guerra algunas empresas cárnicas experimentaron con un extracto de proteína barato para el cultivo de alimentos, pero tuvieron que abandonar.
@@ -262,7 +262,7 @@
 {882}{}{Myron, eres más despreciable que la sombra de una serpiente. Matar a humanos para testear drogas… eso es lo peor que he oído nunca.}
 {883}{}{Myron, ¿mataste a un centenar de seres humanos con el fin de hacer pruebas de drogas? ¿Te lobotomizaron la conciencia cuando eras niño?}
 {884}{}{Y que lo digas. Los precios de los esclavos siguen subiendo. Si los humanos criasen más rápido... en todo caso, tenía algunas preguntas más…}
-{885}{}{Ya… veo. Oye, tengo algunas preguntas más…}
+{885}{}{I... see. Look, I had some other questions...}
 {886}{}{Creo que ya he oído bastante.}
 {887}{}{Oh, bueno, entonces ESO lo soluciona todo. Ya he oído bastante. Me largo de aquí.}
 {890}{myn128}{¿Me vas a hacer llorar por un montón de esclavos? Oye, teníamos que asegurarnos de que el Jet no matase a nuestros clientes.}
@@ -323,7 +323,7 @@
 {1050}{myn145a}{Eh, primero voy a necesitar algún saco de veneno de escorpión rad. Irónico, ¿verdad?}
 {1051}{myn145b}{Oh, bien, me encantariiiiia, ricura, pero necesito colas de escorpión rad. Oh, es lo que hay.}
 {1052}{}{¿Puedes fabricar alguna otra droga?}
-{1053}{}{Olvídalo entonces. Tenía algunas preguntas más…}
+{1053}{}{Forget it then. I had some questions...}
 {1060}{myn146a}{Hmmm, no debería ser demasiado difícil. ¿Cuántas botellas de antídoto quieres?}
 {1061}{myn146b}{Ah, ya vienes llorando. ¿Alguna ves has pensado en que sería más fácil simplemente el mantenerse lejos de los malditos escorpiones, genio? ¡¿Cuántas quieres esta vez?!}
 {1062}{myn146c}{Lo que sea por ti, ricura. ¡Ja ja! ¿Cuántas quieres?}
@@ -338,7 +338,7 @@
 {1085}{}{Gracias. Oye, tenía algunas preguntas más…}
 {1086}{}{Gracias, Myron. Resultas verdaderamente útil.}
 {1095}{myn148}{Lo siento, no tengo las "materias primas" que necesito... y de cualquier forma no querrías conseguirlas.}
-{1097}{}{Olvídalo entonces. Tenía algunas preguntas más…}
+{1097}{}{Forget it then. I had some other questions...}
 {1098}{}{Está bien. Muchísimas gracias, Myron.}
 {1105}{myn149a}{Pan comido. ¿Cuántos estimulantes quieres?}
 {1106}{myn149b}{Oye, genio. ¿Alguna vez te ha pasado por la cabeza que sería más fácil simplemente mantenerse alejado de los problemas, eh? Está bien, ¿cuántos?}
@@ -399,7 +399,7 @@
 {1275}{myn211}{Ahora, tan solo relájate, bombón…}
 {1276}{}{Valeeezzzzzzz Zznnzznn Zzznnnzzzz}
 {1285}{myn212}{Hmmmm. Debes tener la constitución de un brahmin. Largo de aquí, preciosa.}
-{1295}{myn213}{Los guardias no merecen las fichas que se pagaron por ellos... bien, mi retrasada amiga, ya nos hemos presentado, así que por que no ¡TE LARGAS DE AQUÍ DE UNA PUTA VEZ!}
+{1295}{myn213}{Los guardias no merecen las fichas que se pagaron por ellos... bien, mi retrasado amigo, ya nos hemos presentado, así que por que no ¡TE LARGAS DE AQUÍ DE UNA PUTA VEZ!}
 {1296}{}{DUELEN OÍDOS. MATO.}
 {1297}{}{¿No amigo?}
 {1305}{myn214a}{Sí, apuesta por ello, compadre. }
@@ -528,7 +528,7 @@
 {1619}{}{¿Hay alguna cura para el Jet?}
 {1620}{}{Muy bien. ¿Entonces cómo inventaste el Jet?}
 {1621}{}{En primer lugar, respóndeme a esto: ¿cómo fabricaste un híbrido de alucinógeno y anfetamina? El Jet parece tener ciertas… propiedades únicas.}
-{1623}{}{Olvídalo. Tenía algunas preguntas más…}
+{1623}{}{Olvídalo. Tenía algunas preguntas más...}
 {1624}{}{Olvida todo esto. Me largo de aquí.}
 {1625}{}{Bésame el culo, mierdecilla arrogante. Me largo de aquí.}
 {1635}{myn237}{¿Aficionado? ¡¿A-aficionado?! El Jet es una pura genialidad, y no lo olvides! Y no me topé con él, lo INVENTÉ.}
@@ -550,13 +550,13 @@
 {1675}{myn240}{Desde luego haces un montón de malditas preguntas. La respuesta es sí, quizá... oye, ¿donde aprendiste todo esto, de todas formas? ¿Eres de Ciudad Refugio, o algo así?}
 {1676}{}{Para responder a tu pregunta, sí... QUIZÁ. ¿Dónde aprendiste TÚ todas esas cosas?}
 {1677}{}{No exactamente. Sólo mejoré la base. En realidad es bastante simple.}
-{1678}{}{No. Verás, tenía algunas otras preguntas…}
+{1678}{}{No. Look, I had some other questions...}
 {1679}{}{Ciudad Refugio. ¿Dónde está eso?}
 {1680}{}{Dejaré que te lo preguntes. Ya me has contado todo lo que necesito saber.}
 {1685}{myn241a}{Sí, sigue fanfarroneando, listilla. Yo podría oxidizar círculos a tu alrededor. Soy natural. Autodidacta. Nada de esa actitud gilipollesca de 'más puro-que-tú' de Ciudad Refugio, ¿vale?}
 {1686}{myn241b}{'Je, eh, ja! Eres cortante, preciosa... cabello azabache, dientes y garras… mmm-mmm. ¿Entonces has aprendido todas esas chorradas en Ciudad Refugio, o qué?}
 {1687}{}{No aprendí en Ciudad Refugio. Sólo mejoré la base. En realidad es bastante simple.}
-{1689}{}{Tenía algunas preguntas más…}
+{1689}{}{Tenía algunas preguntas más...}
 {1695}{myn244}{¿Qué querías saber?}
 {1696}{}{Háblame sobre este lugar.}
 {1697}{}{Háblame sobre la Familia Mordino.}

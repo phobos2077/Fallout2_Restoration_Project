@@ -200,7 +200,7 @@
 {1105}{}{Eres adicto a los esteroides. Debes tomarlos regularmente o sufrirás el "mono".}
 {1106}{}{Eres adicto a los mentats. Debes tomarlos regularmente o sufrirás el "mono".}
 {1107}{}{Eres adicto al psico. Si no lo tomas, sufrirás. Si lo tomas, sufrirán los demás.}
-{1108}{}{Eres adicto al RadAway. Debes tomarlo regularmente o sufrirás el "mono".}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus hábitos de bebida.}
 {1110}{}{Eres adicto al Jet. Debes tomarlo regularmente o sufrirás el "mono".}
 {1111}{}{Desgraciadamente, eres adicto al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas.}

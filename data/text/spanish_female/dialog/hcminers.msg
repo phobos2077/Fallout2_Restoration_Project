@@ -12,7 +12,7 @@
 {111}{}{¡Dije que no puedo ayudarte! ¡Vete y molesta a algún otro!}
 {112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
  works. There's the saloon. There's the caravaneers, and there's the general store. That's about it.
- Wait… what were we talking about?}
+ Wait... what were we talking about?}
 {113}{}{¿A quién debo hablarle sobre la mina?}
 {114}{}{¿Dónde queda la taberna?}
 {115}{}{¿Dónde están los caravaneros?}
@@ -35,7 +35,8 @@
 {132}{}{Liz, alguien decente para ser humana, administra el almacén, al oeste del Banco. ¿Algo más?}
 {133}{}{Bien, entonces. Te veo luego.}
 {134}{}{Cameron es el líder de los humanos normales de por aquí. No le gustan mucho los mutantes o los necrófagos, pero nos trata bien. Es un político, así que normalmente lo encontrarás en el Banco o en la taberna. A veces hasta podrás encontrarlo trabajando en la forja. ¿Algo más? ¿Y dónde estoy, de todas formas? Oh, sí… entonces… ¿algo más?}
-{135}{}{Marcus es nuestro líder. Él ayudó a fundar Broken Hills. Normalmente lo encontrarás en el Banco o en la prisión. ¿Algo más?}
+{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
+ the jail. Anything else?}
 {136}{}{Bastardo ambicioso. ¿Sabes lo duro que trabajamos? Espero que te pudras.}
 {137}{}{¡Gracias por el mineral!}
 {138}{}{No puedo creer que la mina haya volado. Ahora todos moriremos de hambre. Esa mina era lo único que mantenía el pueblo en marcha. Bien, al menos podré volverme senil sin trabajar más…}

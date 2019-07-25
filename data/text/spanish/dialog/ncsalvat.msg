@@ -140,7 +140,7 @@
  ganado el 10%.}
 {555}{}{(Toma aire de su máscara). Lo has... hecho bien. No volveré a
  necesitar tus… servicios. (Apunta a la salida). Vete ahora.}
-{556}{}{Eh… vale.}
+{556}{}{Eh... vale.}
 {557}{}{¿Puedo conseguir una de esas pistolas láser como parte de mi pago antes de irme?}
 {565}{}{(Toma aire de su máscara). Tengo otro… asunto para el que podría
  necesitar tu ayuda.}

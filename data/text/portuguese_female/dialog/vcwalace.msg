@@ -243,7 +243,7 @@
 {334}{}{What were you saying about raiders?}
 {335}{}{Uh, okay... can I ask you some other questions?}
 {336}{}{I see. Well, thanks for the information.}
-{337}{}{A GECK? Well, that means nothing to me…and if means nothing to me, it will certainly mean
+{337}{}{A GECK? Well, that means nothing to me... and if means nothing to me, it will certainly mean
  nothing to the First Citizen. Now was THAT what you wished to see the First Citizen about or
  was it something else?}
 {338}{}{I'm looking for a GECK to save my village.}
@@ -251,18 +251,18 @@
 {340}{}{Nevermind. Maybe we'll talk later.}
 {341}{}{Thank you for your assistance, Outsider.}
 {342}{}{Well, as promised, here is your Day Pass... but you step out of line, I'll have it revoked. You hear me?}
-{343}{}{Oh, uh… well, I am a merchant. I had planned on trading with the other merchants in the city. Can I get a Day Pass from you?}
+{343}{}{Oh, uh... well, I am a merchant. I had planned on trading with the other merchants in the city. Can I get a Day Pass from you?}
 {344}{}{You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wasteland lizard skins? }
 {345}{}{(Glances at your companion.) Or are you looking to sell some Servants?}
 {346}{}{Yes, I am looking to sell some Servants in the City.}
-{347}{}{I'm selling some of those… uh… filthy Gecko pelts.}
+{347}{}{I'm selling some of those... uh... filthy Gecko pelts.}
 {348}{}{Actually, I have some fine Golden Gecko pelts with me. }
 {349}{}{I'm selling some gold ore.}
 {350}{}{I'm selling some uranium ore.}
-{351}{}{I don't have any of those things… yet. Maybe I'll be back.}
+{351}{}{I don't have any of those things... yet. Maybe I'll be back.}
 {352}{}{Actually, I misspoke. Sorry to bother you.}
 {353}{}{Hmmmm. Well, let's see what you have. Once I inspect your stock, I can process the paperwork for your Day Pass. }
-{354}{}{All right. Uh, all I have is a sample of my stock here. The rest is in… uh, my caravan. Outside the city. }
+{354}{}{All right. Uh, all I have is a sample of my stock here. The rest is in... uh, my caravan. Outside the city. }
 {355}{}{Hmmmm. Very well.}
 {356}{}{Well, this sample is adequate.}
 {357}{}{There IS a Day Pass fee for merchants, five hundred dollars. That includes full daytime trading privileges within
@@ -270,7 +270,7 @@
 {358}{}{All right. I'll take it.}
 {359}{}{Hmmm... That's a little steep. I'll pass for now.}
 {360}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
-{361}{}{Excellent. Here you go…again, it is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.}
+{361}{}{Excellent. Here you go... again, it is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.}
 {362}{}{Understood. Can I ask you some other questions?}
 {363}{}{Obrigado.}
 {1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}

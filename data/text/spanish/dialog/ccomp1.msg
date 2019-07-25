@@ -4,9 +4,9 @@
 {103}{}{Buenos días, soldado.}
 {104}{}{Por favor, no toques nada.}
 {105}{}{Vosotros, soldados, no tenéis permiso para estar aquí.}
-{106}{}{No llevas uniforme.}
+{106}{}{No llevas el uniforme.}
 {107}{}{Será mejor que te equipes. La armería está por el pasillo a la izquierda.}
-{108}{}{Te la estas jugando al no llevar uniforme. Será mejor que te presentes en Intendencia.}
+{108}{}{Te la estás jugando al no llevar el uniforme. Será mejor que te presentes ante Intendencia.}
 {109}{}{¿Quién demonios sois vosotros... ¡Alerta! ¡Intrusos!}
 {110}{}{¡Hemos sufrido una infiltración! ¡Alerta!}
 {111}{}{¡Múltiples intrusos! ¡Dad la alarma!}

@@ -51,7 +51,7 @@
 {150}{}{./~Shines the name, shines the name, shines the name of Rodger Young ./~}
 {151}{}{Awright, who's smacking gum into the headset?}
 {152}{}{Stop stompin' those grapes.}
-{153}{}{./~ Jody's home now, smokin' grass ./~ Jody's pumpin' your wife's…./~}
+{153}{}{./~ Jody's home now, smokin' grass ./~ Jody's pumpin' your wife's.../~}
 {154}{}{./~ Sound off, 1-2-3-4, bring it on down ./~}
 {155}{}{Level 2, all clear.}
 {156}{}{Sector 7, clear.}

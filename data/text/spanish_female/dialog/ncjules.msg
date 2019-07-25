@@ -98,7 +98,7 @@
 {451}{}{¡BIENVENIDO a la resplandeciente ciudad de Nuevo Reno, hermano!}
 {452}{}{¡BIENVENIDA a la resplandeciente ciudad de Nuevo Reno, hermana!}
 {453}{}{¿Eh? ¿Qu-?}
-{454}{}{¿Y tú eres…?}
+{454}{}{¿Y tú eres...?}
 {460}{}{Mi nombre es Jules, y estaré ENCANTADO de obtener tu amistad, enseñarte la zona, y echarte una mano con cualquier
  cosa que busques.}
 {461}{}{Mi nombre es Jules, y he de decir que NUNCA había visto a una mujer más bella bajando por esta calle hasta hoy. Sería
@@ -107,7 +107,7 @@
 {463}{}{Busco yo el… em. Olvidé otra vez.}
 {464}{}{Te alejas}
 {465}{}{De acuerdo. ¿Cómo puedes ayudarme?}
-{466}{}{Bueno, tenía unas preguntas…}
+{466}{}{Well, I had some questions...}
 {467}{}{¿Sabes lo que le sucedió al hijo del señor Wright, Jules?}
 {468}{}{Jules, ¿has visto mi coche? Lo aparqué aquí no hace mucho, y ahora no está.}
 {469}{}{Mira… "Jules," ¿verdad? Obviamente esperas sacar algo de esta conversación, así que ilumíname.
@@ -140,17 +140,17 @@
 {516}{}{Reno tiene cuatro Familias: Mordino, Salvatore, Bishop, Wright. Cada una de ellas tiene un trozo del pastel de Reno.}
 {517}{}{Háblame de las Familias.}
 {518}{}{¿Qué pasa con la ley?}
-{519}{}{En realidad, tengo más preguntas…}
+{519}{}{En realidad, tenía algunas preguntas más...}
 {520}{}{Interesante. Gracias por hablar conmigo.}
 {525}{}{No hay ley, ni policía, ni sheriff, ni gobierno. SÓLO están las Familias.}
 {527}{}{¿Entonces quién mantiene el orden en Reno?}
-{528}{}{Ya veo. Tenía algunas preguntas más…}
+{528}{}{Ya veo. Tenías algunas preguntas más...}
 {535}{}{Las Familias mantienen las cosas en orden. No les GUSTAN los problemas en Reno porque dañan el comercio turístico, y eso
  significa menos dinero para ellos. No les causes problemas y paga tus apuestas, y permanecerás fuera del Gólgota.}
 {537}{}{¿Gólgota?}
 {545}{}{Sí, el cementerio de las afueras de la ciudad. Es donde ponen a los morosos y a aquellos que se enfrentan a las Familias.
  Les atan en postes y les dejan morir lentamente al sol. Prefiero no palmarla ahí. Ese sitio apesta más que el infierno.}
-{547}{}{Interesante. Verás, tengo algunas otras preguntas…}
+{547}{}{Interesting. Say, I had some other questions...}
 {548}{}{Suena genial. Gracias por la información.}
 {555}{}{Bueno, OTRA cosa que debes saber sobre Nuevo Reno es que nada es gratis. Y si lo es, examina bien la mercancía.}
 {556}{}{Bueno, esa clase de información no es barata. ¿Tienes las fichas? Entonces tienes mi atención.}
@@ -170,7 +170,7 @@
 {581}{}{Tenía algunas preguntas sobre Nuevo Reno…}
 {582}{}{No importa, en realidad. Hablaremos en algún otro momento.}
 {590}{}{(Levanta dos dedos). Los Mordino son una bestia de dos cabezas, amigo, y las dos tienen por nombre Jesús Mordino.}
-{591}{}{Continúa…}
+{591}{}{Go on...}
 {592}{}{Siempre sospeché que Jesús tenía vínculos con el crimen organizado.}
 {594}{}{Volvamos a las otras Familias.}
 {596}{}{En realidad no importa. Gracias por hablar conmigo.}
@@ -245,7 +245,7 @@
 {842}{}{Los Mordino compran lotes a los esclavistas como tú que pasan por Nuevo Reno. }
 {843}{}{Además compran en cantidades industriales, porque los esclavos enferman, huyen… o mueren. La mayoría muere.}
 {860}{}{Just to make it better, I guess, refine the process, refine the drug. Jet's good, but if they can make it even
- BETTER…difference between scraping the sky and flying to the moon, I s'pose.}
+ BETTER... difference between scraping the sky and flying to the moon, I s'pose.}
 {880}{}{Espera un momento... ni siquiera me lo PLANTEARÍA si fuera tú, amigo. Los Mordino protegen el lugar como
  perros rabiosos. Sácate esa idea de la cabeza.}
 {881}{}{Debe haber una forma de entrar…}
@@ -279,10 +279,10 @@
 {988}{}{Tengo de TODO, y si no lo tengo, es que no lo querías. ¿Vamos al grano?}
 {989}{}{Claro. Negociemos.}
 {990}{}{What kind of drugs can I get in New Reno?}
-{991}{}{No, ahora no. Tengo más preguntas…}
+{991}{}{Ahora mismo no. Tenía otras preguntas...}
 {992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
 {1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
- make you smart…and, o course, I got THE drug, the shit that'll let you FLY…Jet.}
+ make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
 {1006}{}{TODAS las clases de mierda. Mierda que te pone cachonda, la que hace que te mojes o te seca, te calma, la que te excita, la que te hace feliz,
  la que te hace fuerte, la que te hace inteligente… y, por supuesto, tengo LA droga, la mierda que te hará VOLAR… Jet.}
 {1008}{}{¿De dónde procede el Jet? ¿Siempre ha existido?}
@@ -290,7 +290,7 @@
  Es la razón número uno por la que tenemos turistas como tú.}
 {1026}{}{Well, I'm looking to buy some drugs. Let's deal.}
 {1027}{}{Pero, ¿por qué el Jet procede de aquí?}
-{1035}{}{Aw, now…see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
+{1035}{}{Aw, now... see, Family Mordino struck the jackpot one day when they found this little brainiac called Myron. Seems he's a
  natural when it comes to making drugs. He MADE Jet.}
 {1036}{}{Myron, ¿eh? ¿Dónde puedo encontrarlo?}
 {1045}{}{(Se inclina hacia ti). Oye no quiero seguir hablando acerca del MENOS placentero de los lugares de Nuevo Reno, pero hay cierto edificio, el Establo,
@@ -325,7 +325,7 @@
 {1121}{}{Qué elocuente. Cuando hablas, es poesía: el uso de "agujero" es una imagen para nada rebuscada. GRACIAS por eso.}
 {1130}{}{Si fueras una mujer atractiva quizás, pero de lo contrario primero necesitarías el permiso de los Mordino. Ambas cosas son
  poco probables.}
-{1132}{}{Ya veo. Oye, tenía algunas preguntas más…}
+{1132}{}{I see. Say, I had some other questions...}
 {1145}{}{Si buscas armas, ve a ver a mi colega Eldridge, en la zona Oeste. Tiene material que mataría a personas con las que AÚN no te has topado.
  Dile que yo te he enviado.}
 {1146}{}{Te entiendo, hermano, te entiendo. Si quieres lo mejor, ve a ver a mi colega Eldridge, en la zona Oeste. Tiene material que mataría
@@ -334,7 +334,7 @@
  a personas con las que AÚN no te has topado. Dile que yo te he enviado.}
 {1148}{}{Dulzura, YA estás perfectamente equipada con ese cuerpazo que tienes. Aún así, si quieres más, ve a ver a mi colega Eldridge, en la zona Oeste. Tiene material que mataría a personas con las que AÚN no te has topado. Dile que yo te he enviado.}
 {1150}{}{Gracias por el consejo. Creo que será mejor que me vaya.}
-{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End…but here's the catch: don't buy no drugs
+{1165}{}{You need some supplies? Well, you CAN go see Renesco up on the West End... but here's the catch: don't buy no drugs
  from him, cause they ain't SAFE. He's got supplies all right, but if you want drugs, talk to me.}
 {1166}{}{Lo tendré en cuenta. Oye, tenía algunas preguntas más…}
 {1167}{}{His drugs aren't safe, huh? Well, thanks for the tip, I think I better be going.}
@@ -355,7 +355,7 @@
 {1210}{}{No sé nada sobre eso. Lamento tu pérdida. ¿Quizá fueron los esclavistas?}
 {1211}{}{Pudiera ser. Tenía algunas otras preguntas…}
 {1220}{}{¿Un qué?}
-{1221}{}{Olvídalo. Tenía algunas preguntas más…}
+{1221}{}{Olvídalo. Tenía algunas preguntas más...}
 {1230}{}{Uh... Wright kid? Yeah, I heard about that. A damn shame. Kids his age shouldn't be doing drugs. They got so much
  to live for without being given impure shit.}
 {1231}{}{Hablando de mierda poco pura, Renesco dijo que tú vendes Jet cortado con arsénico.}
@@ -366,7 +366,7 @@
  Renesco el Astronauta para ver cuán buena es su mierda.}
 {1251}{}{Lo consulté con Renesco... dijo que tú vendes Jet cortado con arsénico.}
 {1252}{}{Reno es un lugar grande, Jules. ¿Alguien más podría haber sido el responsable?}
-{1253}{}{Tenía algunas preguntas más…}
+{1253}{}{Tenía algunas preguntas más...}
 {1254}{}{De acuerdo. Lo comprobaré.}
 {1270}{}{Hay muchos vendedores en la ciudad… Pequeño Jesús Mordino, quizá, pero no tendría sentido que le vendiera a un Wright. Está Jeta
  Jimmy J, en la calle Segunda, al norte de aquí, pero lleva poco tiempo. Aunque yo seguiría investigando a Renesco.}
@@ -385,7 +385,7 @@
  mató. Estarías muerto en una hora. Habla.}
 {1308}{}{¿SEGURO que no lo has visto, Jules?}
 {1309}{}{Sí, estoy SEGURA de que lo aparqué aquí. ¿Alguna idea de dónde podría estar?}
-{1310}{}{De acuerdo entonces. Tenía algunas otras preguntas…}
+{1310}{}{De acuerdo entonces. Tenía algunas otras preguntas...}
 {1311}{}{Mejor que vaya a buscarlo.}
 {1320}{}{Que no, hermano, no lo he visto. }
 {1321}{}{Que no, hermana, no lo he visto. }
@@ -405,7 +405,7 @@
 {1362}{}{…vi a unos tipos llevarse el coche hace poco. Pero eran demasiados para que pudiera detenerlos, ya sabes, y...}
 {1363}{}{Cierra el pico y llévame a donde estaban. Ahora.}
 {1364}{}{No importa. Los buscaré sin tu ayuda.}
-{1375}{}{Vale, vale…}
+{1375}{}{Okay, okay...}
 {1376}{}{Por cierto… ¿Jules? Si se te ocurre MIRAR incluso por equivocación a ese chico del otro lado de la calle, volveré y te mataré
  tantas veces que necesitarás múltiples testamentos. ¿Entendido? Y ahora llévame allí.}
 {1377}{}{Una cosa más, Jules: si me entero de que molestas a Cody siquiera, te mato. Y ahora llévame a
@@ -414,7 +414,7 @@
 {1385}{}{H… hola. (Sonríe forzadamente. Su colonia te golpea como una ola). Me llamo Jules. ¿Qué necesitas, amigo mío, eh? ¿A.. algo?}
 {1386}{}{H… hola. ¡Hola, bienvenido de nuevo! (Sonríe forzadamente. Su colonia te golpea como una ola). ¿Qué necesitas de Jules,
  amigo mío, eh? ¿A.. algo?}
-{1389}{}{Tengo algunas preguntas…}
+{1389}{}{Tenía algunas preguntas...}
 {1390}{}{Una colonia agradable, Jules. La olí en el cuerpo de Cody. Estás muerto.}
 {1391}{}{Cody está muerto, Jules. Apuesto a que tú fuiste el responsable. Estás muerto.}
 {1405}{}{O-oye, Me ENCANTARÍA ayudarte, pero no sé cómo… verás, tengo que irme.}
@@ -428,7 +428,7 @@
 {1425}{}{Bueno, amigo, yo tendría cuidado de ir por ahí acusando a Pequeño Jesús de nada. Pero si REALMENTE quieres
  hablar con él, no voy a detenerte. Pasa el tiempo en el Desperado, al lado de esta calle.}
 {1426}{}{¿Y "Jeta Jimmy J?" ¿Quién es?}
-{1427}{}{Muy bien, tengo más preguntas…}
+{1427}{}{Eh, tenía algunas preguntas más...}
 {1435}{}{No me sorprende... esa clase de cosas suelen suceder A MENUDO en esta ciudad.}
 {1436}{}{¿Qué quieres decir con eso?}
 {1437}{}{¿Qué puedes contarme acerca de este frasco vacío de Jet?}
@@ -436,7 +436,7 @@
 {1450}{}{(La mira). Igual que cientos de otras que he visto. Aunque no es mía... podría ser de Jeta Jimmy J o de Renesco.}
 {1451}{}{¿Jeta Jimmy J?}
 {1452}{}{¿Renesco?}
-{1453}{}{Hmmm. Tenía algunas preguntas más…}
+{1453}{}{Hmmm. Tenía algunas preguntas más...}
 {1470}{}{Es un tonto hijoputa de la calle Segunda, al norte de aquí. No puedes equivocarte... tiene la cara llena de cicatrices. El
  imbécil se colocó con Jet una noche e intentó afeitarse con un cuchillo de combate. Lo triste es que eso NO lo mató.}
 {1471}{}{¿Y Renesco? ¿Dónde puedo encontrarlo?}
@@ -447,6 +447,6 @@
 {1487}{}{Está bien... oye, tenía algunas preguntas más…}
 {1500}{}{Dile a ese cabrón que deje de decir chorradas, o lo MATARÉ antes de que lo haga el viejo Wright. ¿Sabes qué clase de
  palabrería es esa? La de un hombre ASUSTADO, eso es lo que es.}
-{1501}{}{Ya veo... oye, tenía algunas pregunta más…}
+{1501}{}{I see... say, I had some other questions...}
 {1502}{}{Te entiendo. Lo comprobaré.}
 {2000}{}{¿Eso es un COCHE? Joooder.}

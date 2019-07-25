@@ -145,7 +145,7 @@
 {401}{}{Who? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
 {402}{}{He's dead. He was eaten by geckos.}
 {403}{}{I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
-{404}{}{Uh, I, uh, we, that is...Uh, no. I'm still looking for him. I'm sure he'll show up any day now. Uh, Goodbye.}
+{404}{}{Uh, I, uh, we, that is... Uh, no. I'm still looking for him. I'm sure he'll show up any day now. Uh, Goodbye.}
 {410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smilely, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Yeah, you're probably right. Sorry for the scare. Let me ask you about something.}
 {412}{}{Nope, I saw him, or what was left of him anyway. Not a pretty sight. Well, see ya later. Goodbye.}
@@ -155,11 +155,11 @@
 {416}{}{Uh, nevermind.}
 {417}{}{What!? Are you sure about this? What proof do you have?}
 {418}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I confronted the Duntons about it, and they admitted to using them to scare your boy, Torr.}
-{419}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I think the Duntons are wearing these to scare Torr—hence his fear of "bug men".}
+{419}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I think the Duntons are wearing these to scare Torr--hence his fear of "bug men".}
 {420}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys are. Well, that explains what's been spooking Torr, but I'd like to get more proof that the Duntons are the ones that've been stealing our cattle. I'm afraid word of mouth just isn't good enough.}
 {421}{}{I thought they were up to their usual tricks! My poor little Torr, what bullies those boys were. Well, that explains what's been spooking Torr, but I wish there was more proof that it was the Duntons. I'm afraid word of mouth just isn't good enough. And now that the Duntons are dead, I'm not sure if we'll ever get to the bottom of this. But if you come up with anything else, please let me know.}
 {422}{}{Alright, I'll go see if I can scrounge up some more evidence.}
-{423}{}{Actually, I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one—which I assume was yours.}
+{423}{}{Actually, I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one--which I assume was yours.}
 {424}{}{That settles it then. With the bug parts and the double branding, we got enough to turn those no good boys in. I'll
  take it from here. Those ruffians won't be causing trouble anymore. Thanks for your help.}
 {425}{}{That settles it then. With the bug parts and the double branding, we got enough to pin the crime on them. Too bad they're dead, or I would've shown them a thing or two. I guess they got what they deserve. Thanks for your help.}
@@ -167,7 +167,7 @@
 {427}{}{Those Duntons make me sick. I'm glad you'll take care of them. Goodbye now.}
 {428}{}{The Duntons got what they deserve. Goodbye.}
 {429}{}{You did? Well, go on then, what did you find?}
-{430}{}{I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one—which I assume was yours.}
+{430}{}{I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one--which I assume was yours.}
 {500}{}{About your missing brahmin...}
 {510}{}{You didn't see a trapper named Smiley outside of town did you? (half to herself) He's been gone for too
  long. Never should have let him go off on that fool quest of his.}
@@ -225,5 +225,5 @@
 {2004}{}{Me no like story. BYE!}
 {2005}{}{Oh, thank you. Let me mark on your map where he talked about looking. I sure hope you can
  find him. He isn't much, but I still love him and I miss him more than I thought I could. Please find
- him for me. You sure you can handle this...mentally?}
+ him for me. You sure you can handle this... mentally?}
 {2006}{}{Me strong. Me believe in me self.}

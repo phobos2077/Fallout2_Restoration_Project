@@ -23,13 +23,13 @@
 {213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner.
  I mean, there wasn't much left worth winning.}
 {214}{}{What... what date is it? What year? Is it still 2077?}
-{215}{}{Hell, no. [You show her the date on your Pip Boy's calendar.]}
+{215}{}{Hell, no. [You show her the date on your Pip-Boy's calendar.]}
 {216}{}{[She stares at the flickering screen, frozen in time like she never left the tank.]}
 {217}{}{Are you alright?}
 {218}{}{My God. I don't believe it. I was in that thing for over a century?!}
 {219}{}{Seems like it. Hey, listen, don't look at me like that. I had nothing to do with putting you in there. Hell,
  my grandpa wasn't even alive back then. I just stumbled upon the location of this place and decided to check it out.}
-{220}{}{Well, will you help me up, or would like it better if I continued sitting naked at your feet?}
+{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
 {221}{}{I was just about to. [You help her to her feet.]}
 {222}{}{Why did you wake me?}
 {223}{}{No particular reason.}
@@ -362,6 +362,6 @@
 {3210}{}{Alright, now that I know your dad's life story, would you mind getting to the part about you?}
 {3260}{}{So they were traitors to their people, but for their people's own good. Got it.}
 {3261}{}{Look, I'm sick of hearing about your parents. How 'bout you get to the part about you being a spy?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.}
+{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
 {5001}{}{[FIN]}
 {5002}{}{¡Joder!}

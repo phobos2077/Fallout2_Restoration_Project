@@ -55,7 +55,7 @@
 {145}{}{I've never heard of that. Let me ask you something else.}
 {146}{}{Sounds nice. Maybe I'll go hunt that place down. Goodbye for now.}
 {147}{}{Just some rumors is all.}
-{148}{}{Well, there's always rumors...but I do have something that needs doing.}
+{148}{}{Well, there's always rumors... but I do have something that needs doing.}
 {149}{}{I'll get back to that. Let me ask you about something else first, though.}
 {150}{}{Tell me about the rumors.}
 {151}{}{O que é isso?}
@@ -107,7 +107,7 @@
 {181}{}{What about the other rumors?}
 {182}{}{I guess that's all I need to know for now. Goodbye.}
 {183}{}{Well, Dan and his Morningstar boys favor those mobsters from New Reno. I guess that Redding'll be
- one big jet addict slum before too long.}
+ one big Jet addict slum before too long.}
 {184}{}{Not really my concern. Tell me about something else.}
 {185}{}{Oh well. Goodbye.}
 {186}{}{In a town this size, everyone knows more than they want to about everyone else. So how about it?}

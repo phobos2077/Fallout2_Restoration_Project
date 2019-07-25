@@ -24,7 +24,7 @@
 {260}{}{Por Hawking, você fez isso! Meu programa vocal tinha sido preso no modo binário por * anos *. Faz tanto tempo que
   Tive o prazer de trocar o diálogo com um outro intelecto. Você pensaria que durante todo esse tempo * um * do meus
   camaradas teriam a decência de aprender binário, mas não.}
-{261}{}{Sem proble—}
+{261}{}{No prob--}
 {270}{}{Eles não tiveram tempo para mim, você vê. Ah, não, eles estavam tão ocupados *indulgentes* com seus insensatos burocráticos.
   Muito ocupados impondo regulamentos uns aos outros e brigando como tolos. E olhe para onde os obteve: preso em um interminável
   loop na câmara da conferência. Ha! Serve bem.}

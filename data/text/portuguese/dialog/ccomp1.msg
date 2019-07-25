@@ -6,9 +6,9 @@
 {105}{}{Vocês grunhidos não deveiam estar aqui.}
 {106}{}{Você está fora do uniforme. }
 {107}{}{É melhor você se adequar. Arsenal está no corredor do lado esquerdo.}
-{108}{}{Você está tendo uma grande chance de estar fora do uniforme. Melhor relatar ao fornecimento.}
+{108}{}{Você está tendo uma grande chance de estar fora de uniforme. Melhor você informar ao fornecimento.}
 {109}{}{Quem diabos são vocês... Alerta! Intrusos!}
-{110}{}{Temos sido infiltrado! Alerta!}
+{110}{}{Temos sido infiltrados! Alerta!}
 {111}{}{Vários intrusos! Soar o alarme!}
 {112}{}{Merda! Obter as cópias de segurança iniciado.}
 {113}{}{Encerrar todas as operações secretas.}

@@ -34,7 +34,7 @@
 {133}{}{I feel sick.}
 {134}{}{I'm getting too weak to stand here.}
 {135}{}{Ohhhh nooooooo.}
-{136}{}{I can see the light…I'm coming mother.}
+{136}{}{I can see the light... I'm coming mother.}
 {137}{}{I don't see anyone.}
 {138}{}{Must be another security drill.}
 {139}{}{Don't those troopers ever get tired of these drills?}

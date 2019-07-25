@@ -58,7 +58,7 @@
 {304}{}{Oh-no}
 {306}{}{Vamos al grano.}
 {307}{}{Eh, no gracias. He cambiado de opinión. Adiós.}
-{320}{}{Pues vale…}
+{320}{}{Aiight then...}
 {321}{}{Oh-oh-oh}
 {330}{}{Ay, ¿entonces estás JUGANDO con T-Ray? De acuerdo entonces. Vete, mujer… tengo mejores puñeteras cosas que hacer con mi tiempo.}
 {331}{}{El tiempo hace tic tac, tic tac, tic tac… hacia el futuuuuro}
@@ -81,7 +81,7 @@
  Reno, ¿sabes? Le entregaré esta máquina, y habrá… beneficios ALTERNATIVOS.}
 {376}{}{¿Vas a igualar la oferta de BISHOP? Eso es un montón de pasta, chica. Un MONTÓN de fichas. Además, él es uno de los hombres más importantes de
  Reno, y¿sabes? Le entregaré esta máquina, y habrá… beneficios ALTERNATIVOS.}
-{377}{}{Estoy escuchando…}
+{377}{}{I'm listening...}
 {378}{}{¿1.000 fichas te harán cambiar de opinión?}
 {379}{}{¿750 fichas te harán cambiar de opinión?}
 {380}{}{¿500 fichas te harán cambiar de opinión?}
@@ -170,7 +170,7 @@
 {631}{}{De acuerdo.}
 {632}{}{Lo siento, sólo cuando se TRATE de negocios. Nos vemos, T-Ray.}
 {640}{}{¡Maldición, golfa! Te di lo tuyo hace cinco minutos! ¿Pretendes matarme?}
-{641}{}{Oye, espera…}
+{641}{}{Now, hold on...}
 {642}{}{Venga, necesito una carga, y sólo TU dulce amor me la va a dar.}
 {643}{}{Entonces no importa. Tú en tu línea.}
 {650}{}{No, ya tengo un perro al que darle un hueso, y no quiero tener una perrera. A juzgar por tu pinta, no tienes
@@ -189,7 +189,7 @@
 {675}{}{¿Qué tienes para el coche?}
 {690}{}{¡Maldición, golfa! Te di lo tuyo hace cinco minutos! ¿Pretendes matarme?}
 {691}{}{¿Quieres hacerlo OTRA VEZ? ¡Maldición, mujer! ¿Tus piernas NUNCA cierran?}
-{692}{}{Bueno…}
+{692}{}{Bueno...}
 {693}{}{Venga, necesito una reparación, y sólo TU dulce amor me la va a proporcionar.}
 {710}{}{(Te estudia con el ceño fruncido). Ya, claro que sí. Conozco a TODOS los lugartenientes de Bishop, y tú no eres uno de ellos.
  (Señala la puerta). Lárgate de aquí antes de que me cabree.}

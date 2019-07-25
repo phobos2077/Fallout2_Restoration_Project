@@ -171,7 +171,7 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {560}{}{[Dex's grin falters and his eyes become unfocused. After a moment, he begins speaking without meeting your eyes.]
  I was one of their sick experiments. They did... terrible things to me. [He shakes his head, then looks at you with a renewed grin.]
  Anyway, I'd much rather talk about you, babe.}
-{561}{}{Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel—}
+{561}{}{Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel--}
 {562}{}{Look, Dex, I might be able to help you, but I'd like to know who I'm dealing with. What exactly did they do to you?}
 {570}{}{Wow, that's real interesting, babe, and I can't wait to hear more about you. Honest. But first of all, how 'bout you fill me in on what the hell happened since they put me on ice.
  I mean, this place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
@@ -570,6 +570,6 @@ and fifty years.}
 {4250}{}{We're wasting our time here. Zombie chicks aren't my thing. I generally don't like gals to look dead until AFTER I'm through with 'em.}
 {4260}{}{¿Por qué demonios estamos perdiendo el tiempo aquí? ¿En serio?}
 {4270}{}{No creo que quiero pasar más tiempo en este facilidad.}
-{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
+{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
 {5001}{}{[FIN]}
 {5002}{}{¡Joder!}

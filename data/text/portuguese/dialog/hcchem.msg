@@ -12,17 +12,17 @@
 {111}{}{Yellow. This will make Orange.}
 {112}{}{Clear. This will make Red.}
 {113}{}{Drink it.}
-{114}{}{Blue. This, you know, will make jet, an addictive amphetamine-like drug… if you get the correct
+{114}{}{Blue. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
  dosages.}
 {115}{}{Yellow. Your scientific mind realizes this will, if successfully mixed, make hydrochloric acid.}
-{116}{}{Clear. Your trained eye knows that this will make a powerful vitamin… but only if you measure
+{116}{}{Clear. Your trained eye knows that this will make a powerful vitamin... but only if you measure
  the correct amounts.}
 {117}{}{Stop now.}
 {118}{}{You select the blue. What do you want to mix it with?}
 {119}{}{Red. This will make Purple.}
 {120}{}{Yellow. This will make Green.}
 {121}{}{Clear. This will make Blue.}
-{122}{}{Red. This, you know, will make jet, an addictive amphetamine-like drug… if you get the correct
+{122}{}{Red. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
  dosages.}
 {123}{}{Yellow. Before you mix it, you calculate the solution in your head. You know that it will make
  nitroglycerine, an explosive.}
@@ -48,7 +48,7 @@
 {141}{}{Yellow. You know that this will create a weak poison if you continue. }
 {142}{}{Blue. This will make a toxic chemical that is good for nothing but mimicking the effects of
  radiation.}
-{143}{}{Red. Your trained eye knows that this will make a powerful vitamin… but only if you measure
+{143}{}{Red. Your trained eye knows that this will make a powerful vitamin... but only if you measure
  the correct amounts.}
 {144}{}{Stop now.}
 {145}{}{You've managed to create an interesting purple liquid. What do you want to do with it?}
@@ -69,7 +69,7 @@
 {160}{}{This yellow looks like urine and smells worse. What are you gonna do?}
 {161}{}{Drink it.}
 {162}{}{Save it. It might be useful.}
-{163}{}{Ahh, sweet success. You've manufactured jet. You could be very popular in New Reno with this.
+{163}{}{Ahh, sweet success. You've manufactured Jet. You could be very popular in New Reno with this.
  What are you going to do with it?}
 {164}{}{Drink it.}
 {165}{}{Save it to use on some unsuspecting sap.}
@@ -83,7 +83,7 @@
 {172}{}{You've successfully created an explosive formula!}
 {173}{}{Drink it.}
 {174}{}{Put it in my inventory.}
-{175}{}{A jiggle here, a joggle there, and… uh-oh…BOOM!}
+{175}{}{A jiggle here, a joggle there, and... uh-oh... BOOM!}
 {176}{}{Oh no! You idiot! You've just swallowed an explosive formula!}
 {177}{}{You feel a little funny. No, you feel a lot funny. In fact, you feel like your heart is
  speeding up and the world is slowing down and you don't know what's happening and can't someone help
@@ -94,12 +94,12 @@
 {180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
  spitting and gagging. You've been irradiated!}
 {181}{}{[FEITO]}
-{182}{}{Well… all right. Reminiscing of the things you drank as a child, you tilt the
+{182}{}{Well... all right. Reminiscing of the things you drank as a child, you tilt the
  bottle back and let it flow. Your stomach knots up as the fluid hits it. You feel like you've just
  been stung by a radscorpion.}
 {183}{}{Hey, it looks like water, so it must be as good, huh? As soon as the stuff hits your throat,
  you realize you've made a mistake. This stuff BURNS. You're in pain for a long, long time.}
-{184}{}{A little of this, a little of that… wait a second… why is the bottle smoking… what's going
+{184}{}{A little of this, a little of that... wait a second... why is the bottle smoking... what's going
  wrong? OH NO! The bottle explodes in your face!}
 {185}{}{You mix the stuff together gleefully, hoping you've created the right mix of chemicals. Then
  you sit and wait for your payoff. And you wait. And you wait. The liquid turns to a dull, sludgy

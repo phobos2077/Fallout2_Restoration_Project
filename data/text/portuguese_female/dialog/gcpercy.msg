@@ -36,7 +36,7 @@
 {131}{}{That's it for me. Thanks, Percy. Goodbye.}
 {132}{}{Oog. Me go bye-bye.}
 {133}{}{This big ole chest of antee-radee-ation medicine shore ain't doin' me no good. Jist about a hunnert-sumpin' years too
- late fer me ta use it. Heh, heh, heee. Here ya go, I'm findin' that friends is worth more'n more every year. Thanks...friend.}
+ late fer me ta use it. Heh, heh, heee. Here ya go, I'm findin' that friends is worth more'n more every year. Thanks... friend.}
 {134}{}{I was glad to help you and Woody. Thanks for the meds.}
 {135}{}{Cool, easy job for lotsa loot. I like it.}
 {136}{}{Well you see, I had a friend, name o' Woody. That Woody, he can sleep like nobody I ever did see. What's worse, he

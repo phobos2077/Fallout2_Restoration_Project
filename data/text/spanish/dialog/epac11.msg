@@ -17,7 +17,7 @@
 {221}{}{Right, whatever you say. So, what's with this place?}
 {230}{}{You mean Doctor C? Why would he forget about me? Hell, he helped shape this work of *ART* [He gestures at his body].}
 {231}{}{Right, whatever you say. So, what's with this place?}
-{232}{}{I think we are talking about two different people...So, what's going on around here anyway?}
+{232}{}{I think we are talking about two different people... So, what's going on around here anyway?}
 {240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around
  the room.] it's awfully quiet. Where is everybody?}
 {241}{}{Well, this is probably going to come as a shock to you, but you've been frozen for over a century. The world's
@@ -110,6 +110,6 @@
 {2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]
  These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
 {2901}{}{[FIN]}
-{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.}
+{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
 {5001}{}{[FIN]}
 {5002}{}{¡Joder!}

@@ -3,17 +3,17 @@
 {102}{}{You see Sims.}
 {150}{}{You see a ragged-looking man. He is huddled next to the trashcan fire, singing. He has a pretty good voice.}
 {151}{}{You see a singer. He is huddled next to the trashcan fire, singing.}
-{200}{}{Hey… }
+{200}{}{Hey... }
 {203}{}{Hep you wit somthin', son?}
 {204}{}{::Tips an imaginary hat.:: Hep you wit somthin', ma'am?}
 {205}{}{Doo yoo no 'row row boat down stream?'}
-{206}{}{Ken… ken you seng Nine BILLYun bottahs uf beer on the wall?}
+{206}{}{Ken... ken you seng Nine BILLYun bottahs uf beer on the wall?}
 {207}{}{Nooo me go now}
 {208}{}{I'd be honored if you would. Thanks, guys.}
 {209}{}{Here's a few bucks. Can you play something else?}
 {210}{}{No, just listening, thanks.}
-{300}{}{All right then… you heard th' man, boys. Let's try a lil' somethin' else.}
-{301}{}{All right then… you heard th' lady, boys. Let's try a lil' somethin' else.}
+{300}{}{All right then... you heard th' man, boys. Let's try a lil' somethin' else.}
+{301}{}{All right then... you heard th' lady, boys. Let's try a lil' somethin' else.}
 {302}{}{Thanxxx}
 {303}{}{Thanks, guys.}
 {400}{}{Oooooh}
@@ -50,17 +50,17 @@
 {906}{}{I ask no more than this:}
 {910}{}{A kiss before you leave me}
 {912}{}{Will feed my hungry heart}
-{913}{}{Leave me one thing before we part…}
+{913}{}{Leave me one thing before we part...}
 {915}{}{When I'm alone}
 {916}{}{With my fancies}
 {917}{}{I'lllll be with yoooou}
 {918}{}{Weaving ro-mances}
 {919}{}{Making believe they're true}
 {920}{}{Oh, give me your lips for just a moment}
-{921}{}{And my imagination will make that moment live…}
+{921}{}{And my imagination will make that moment live...}
 {923}{}{Give me what you alone can give}
 {925}{}{::Mouth Trumpet::}
-{930}{}{I'll… be with yoooou}
+{930}{}{I'll... be with yoooou}
 {933}{}{Ohhhh}
 {935}{}{lips for just a moment}
 {937}{}{Will make that moment live}

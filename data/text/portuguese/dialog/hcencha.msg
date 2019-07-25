@@ -13,7 +13,7 @@
 {110}{}{Não, obrigado.}
 {111}{}{If you're looking for work, you might want to talk to Bill, the guy inside there. In-SIDE. He
  might understand you. Good luck!}
-{112}{}{Duhhhh…}
+{112}{}{Duhhhh...}
 {113}{}{That'd be }
 {114}{}{Sim.}
 {115}{}{Não.}
@@ -33,7 +33,7 @@
  doesn't treat us badly or anything, if that's what you mean. Any more questions?}
 {129}{}{I always kind of assumed he'd brought it with him -- and plenty of it, at that. It's not the
  sort of thing you ask a guy, you know. Any more questions?}
-{130}{}{Well, he's a little shady, I guess… but then, so are most people these days. Any other questions?}
+{130}{}{Well, he's a little shady, I guess... but then, so are most people these days. Any other questions?}
 {131}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
  who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
  more questions?}
@@ -52,7 +52,7 @@
 {142}{}{You ready to leave?}
 {143}{}{Thanks. Here's your $500. You want a new job, talk to Bill.}
 {144}{}{You sick loser! You're gonna die now!}
-{145}{}{Umm…}
+{145}{}{Umm...}
 {150}{}{, the caravan guard.}
 {151}{}{. I'm a guard for Bill's caravans. Anything else?}
 {152}{}{.}

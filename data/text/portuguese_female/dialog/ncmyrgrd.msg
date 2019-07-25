@@ -17,7 +17,7 @@
 {236}{}{You look like a }
 {240}{}{Ain't you better be getting back to your }
 {241}{}{You look like a }
-{245}{}{Put that weapon away…unless you WANT trouble.}
+{245}{}{Put that weapon away... unless you WANT trouble.}
 {250}{}{Intruso!}
 {260}{}{Get that rolling trash can outta here.}
 {261}{}{No bots allowed in here. Beat it.}
@@ -39,7 +39,7 @@
 {312}{}{Catch the fight last night?}
 {313}{}{Can't wait until this shift is over.}
 {320}{}{Help you with somthin', amigo? This area's off-limits.}
-{321}{}{Well, well, well…we got us a star in our midst. You got an appointment with Myron, chica?}
+{321}{}{Well, well, well... we got us a star in our midst. You got an appointment with Myron, chica?}
 {322}{}{Help you with somthin', chica? This area's off-limits.}
 {323}{}{(The guard smiles, looks you up and down.) Got an appointment with Myron, chica?}
 {324}{}{Me want world peace}
@@ -59,13 +59,13 @@
 {352}{}{ME SAY ME WANT TO GO PAST DOOR}
 {353}{}{HOO YOO}
 {354}{}{[Shamble off]}
-{360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour…}
-{361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days…}
+{360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour...}
+{361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days...}
 {362}{}{YOO ONE WHO GET HURT}
 {363}{}{ SMASH}
 {364}{}{[Try and run.]}
 {365}{}{Pal, you're about to get the ass whipping of a life time.}
-{370}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost…amigo.}
+{370}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost... amigo.}
 {371}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost, chica.}
 {374}{}{Let me by. I have to get past that door.}
 {375}{}{Tudo bem, tudo certo.}
@@ -78,14 +78,14 @@
 {401}{}{I'm staying until you let me in. In fact, I'd like to see you TRY and move me.}
 {402}{}{I'm staying until you let me in. In fact, I'd like to see you sorry sacks of shit TRY and move me.}
 {404}{}{Tudo certo.}
-{411}{}{Neither have I…}
+{411}{}{Neither have I...}
 {412}{}{Defend yourself.}
 {425}{}{Yeah? Lemme see. Hmmmm. (Checks badge, shrugs.) All right, but keep it quick. Myron's busy, and he don't
  like being disturbed.}
 {426}{}{Tenho-o.}
-{435}{}{(Eyes roam up and down your body.) Yeah, for now…heh heh…though, I might need ANOTHER fill a little
+{435}{}{(Eyes roam up and down your body.) Yeah, for now... heh heh... though, I might need ANOTHER fill a little
  later on. When you're done inside, that is.}
-{436}{}{I'll…keep that in mind. Can I head on in?}
+{436}{}{I'll... keep that in mind. Can I head on in?}
 {437}{}{We'll see, all right?}
 {445}{}{Sure, sweetheart. Head on in.}
 {446}{}{Yeah, head on in.}
@@ -99,12 +99,12 @@
 {475}{}{Myron expecting you?}
 {477}{}{Yes. Can I head on in? We have business to discuss.}
 {478}{}{No, not right now. Take care, you guys.}
-{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard)}
+{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
 {480}{}{Heh, I sure do. Try not to make too much of a ruckus while you're here. (To himself) Damn, Myron's such a lucky
  man.)}
 {485}{}{Myron ain't in.}
 {487}{}{Can I head in anyway?}
-{495}{}{(Shrugs.) I don't care. If you wanna wait for him, go ahead. I don't know when he's gonna be back…or if
+{495}{}{(Shrugs.) I don't care. If you wanna wait for him, go ahead. I don't know when he's gonna be back... or if
  he is gonna be back.}
 {5225}{}{! Whazzup?}
 {5230}{}{s! Waste 'em!}
@@ -112,4 +112,4 @@
 {5240}{}{ kennel, puta?}
 {5241}{}{ bitch who don't know when she's about to die.}
 {5476}{}{! Myron's right behind that door. He expecting you?}
-{5486}{}{, whatzzup? Oh, hey…Myron ain't in.}
+{5486}{}{, whatzzup? Oh, hey... Myron ain't in.}

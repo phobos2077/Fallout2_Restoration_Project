@@ -24,7 +24,7 @@
  You've done so much to help us, we're forever in your debt!}
 {331}{}{It's the least I could do. Take care.}
 {332}{}{You think I do all this for free? Let's talk money.}
-{340}{}{[Ann looks a bit flustered.] Well, yes...alright fine. I had a little something stored away for an emergency, but
+{340}{}{[Ann looks a bit flustered.] Well, yes... alright fine. I had a little something stored away for an emergency, but
  I suppose you can have it. And to think I saw you as a good person.}
 {341}{}{Looks are in the eyes of the beholder, lady. Good day.}
 {342}{}{Sorry, money makes the world go round. Bye.}

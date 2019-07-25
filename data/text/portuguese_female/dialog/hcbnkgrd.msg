@@ -5,7 +5,7 @@
 {104}{}{Agga agga!}
 {105}{}{Me in building! Oooh!}
 {106}{}{Apenas olhando por aí.}
-{107}{}{Err… no, not really.}
+{107}{}{Err... no, not really.}
 {108}{}{Yeah. I'm here to talk to your prisoners.}
 {109}{}{Have you considered that you may be holding your prisoners illegally?}
 {110}{}{Oh, great, another one of you. Please leave.}
@@ -20,30 +20,30 @@
 {119}{}{Have you considered that you're holding them illegally?}
 {120}{}{Eat this, mutie!}
 {121}{}{Nothing. I'll be going now.}
-{122}{}{Err… what do you mean?}
-{123}{}{What I mean is that they have committed no crimes except for their speech. They have only spoken ill of mutants. I'm not saying they won't commit a crime… but would you want to be detained for a crime you MIGHT commit?}
+{122}{}{Err... what do you mean?}
+{123}{}{What I mean is that they have committed no crimes except for their speech. They have only spoken ill of mutants. I'm not saying they won't commit a crime... but would you want to be detained for a crime you MIGHT commit?}
 {124}{}{That power makes the law. I have the power. Right here.}
 {125}{}{No, I wouldn't, but they're clearly dangerous.}
 {126}{}{Until they commit a crime, they're guilty of no crime. Until they've actually laid their plans and begun the execution of the crime, they're not guilty. Right?}
 {127}{}{Dangerous? I'm dangerous. You're dangerous. We're not in jail.}
 {128}{}{So what?}
-{129}{}{But… but… all right. They're out. You're accountable. I just hope you're right. Here is the key.}
+{129}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the key.}
 {130}{}{That's all I wanted. Great. Thanks. Bye.}
-{131}{}{Yeah, but maybe we should be. Right now, they are. And they're staying there until someone can show me a better reason to let them out. Now… get out.}
+{131}{}{Yeah, but maybe we should be. Right now, they are. And they're staying there until someone can show me a better reason to let them out. Now... get out.}
 {132}{}{Não.}
 {133}{}{Tudo certo.}
-{134}{}{So they're going to stay in jail for now. We gotta protect society. Now… get out.}
+{134}{}{So they're going to stay in jail for now. We gotta protect society. Now... get out.}
 {135}{}{Não.}
 {136}{}{Tudo certo.}
 {137}{}{You! What the hell are you doing? Get the hell out of here!}
 {138}{}{You'll be putting your weapons away now, pal.}
 {139}{}{You again? Do you need something?}
 {140}{}{Apenas olhando por aí.}
-{141}{}{Err… no, not really.}
+{141}{}{Err... no, not really.}
 {142}{}{Yeah. I'm here to talk to your prisoners.}
 {143}{}{Have you considered that you may be holding your prisoners illegally?}
 {144}{}{You shouldn't be hanging around here. Leave now.}
 {145}{}{If I ever find out where those damn prisoners ran off to, there's gonna be hell to pay!}
-{150}{}{But… but… all right. They're out. You're accountable. I just hope you're right. Here is the...Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
+{150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
 {151}{}{Tudo certo.}
 {152}{}{I actually took that key from you. What are going to do about it?}

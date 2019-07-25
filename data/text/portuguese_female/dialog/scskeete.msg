@@ -5,7 +5,7 @@
 {104}{}{I am the car hop, man. I watch cars - $5. Nobody touches them, cause Doofus's on the job.}
 {105}{}{Right, sure man.}
 {106}{}{So man, you want my protection?}
-{107}{}{Good. Do..}
+{107}{}{Good. Do.}
 {108}{}{No. You no touch.}
 {109}{}{I am not a man!}
 {110}{}{What place is this?}
@@ -48,12 +48,12 @@
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{Right - obey the giant, man. It the way things are supposed to be. What should I do, giant?}
-{151}{}{Man that's a lot. Giant, I'm Doofus and I'm a car hop and I'm supposed to watch cars that people bring here, but, you know, I got this...thing, see, and sometimes I need a little extra money and stuff, see?}
+{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
+{151}{}{Man that's a lot. Giant, I'm Doofus and I'm a car hop and I'm supposed to watch cars that people bring here, but, you know, I got this... thing, see, and sometimes I need a little extra money and stuff, see?}
 {152}{}{Yeah, right. So like sometimes I'm a little short and I got my needs, understand, like when I start feeling sick, so I gotta score me some caps or something, so I'll go talk to Merk.}
 {153}{}{Man, Merk's the man. He's got action and stuff. Sometimes he'll let me get sleep at the Rawhide after closing. But then he wants me to do little favors.}
 {154}{}{I'm getting to that - wow, the colors, man! Merk he sometimes wants stuff from cars I watch. But I fool him!}
-{155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that. Man, I got to quit talking. I'm like seeing things...oh, man, the glow. It's all about glowing.}
+{155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that. Man, I got to quit talking. I'm like seeing things... oh, man, the glow. It's all about glowing.}
 {156}{}{Give me all your stuff.}
 {157}{}{Tell me what you know.}
 {158}{}{That's enough, I can't take any more.}
@@ -66,8 +66,8 @@
 {165}{}{That's right, man. Go see Merk. He's always got things that need doing.}
 {166}{}{Go bye-bye!}
 {167}{}{Oh man, you blew it! Merk's not going to be happy when he hears this.}
-{168}{}{Goodbye, dope-head}
-{169}{}{Okay! Look it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
+{168}{}{Goodbye, dope-head.}
+{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
 {170}{}{You lie, me kill.}
 {171}{}{Don't be lying. I'll be back if you are.}
 {172}{}{Sure. You've got me terrified.}
@@ -75,7 +75,7 @@
 {174}{}{Bite me, little man.}
 {175}{}{Bite me. I'm out of here.}
 {176}{}{Need a car watched? No problem. I can do that.}
-{177}{}{Yeah, I WatCH cars, yeah, CARS...CARS..yeah, cars...!}
+{177}{}{Yeah, I WatCH cars, yeah, CARS... CARS..yeah, cars...!}
 {178}{}{LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT..}
 {179}{}{WATCH watch watch WATCH watch WATch WHHAATCH watch}
 {180}{}{Wrote a song about it, wanna hear it? Here it goes...}

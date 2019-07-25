@@ -63,7 +63,7 @@
 {309}{}{¿Te refieres a cosas como venderle drogas al hijo de Wright?}
 {310}{}{Puedes volver a hacer cosas importantes.}
 {320}{}{(Renesco te mira fijamente. Parece como si te desnudara mentalmente, y te arrancase los miembros uno a uno).}
-{321}{}{Entonces no importa. Tenía algunas otras preguntas…}
+{321}{}{Nevermind, then. I had some other questions...}
 {322}{}{No importa, entonces.}
 {330}{}{(Renesco te mira disgustado). Sí. En la TIENDA. Esto no es el siglo XX, en el que las drogas las vendían cucarachas de esquina que vivían con un temor constante a las autoridades.}
 {331}{}{Bien, entonces -}
@@ -130,7 +130,7 @@
 {463}{}{Ya veo. Oye, tenía algunas preguntas más...}
 {470}{}{Cachondo como un sapo y con sus mismas costumbres. Pero es un chico inteligente. Tiene un alto cociente intelectual. Desperdicia su cabeza fabricando drogas, eso es cierto, joder.}
 {471}{}{¿Dónde puedo encontrarlo?}
-{472}{}{Ya veo. Tenía algunas preguntas más…}
+{472}{}{Ya veo. Tenías algunas preguntas más...}
 {480}{}{Los Mordino lo tienen encerrado en alguna parte. Probablemente bien protegido. No sé exactamente dónde.}
 {481}{}{Gracias por la información. ¿Puedo ver lo que tienes a la venta?}
 {490}{}{¡¿Una CURA para la adicción a la metanfetamina?! ¡Ja! Sólo conozco dos: una es la muerte. La otra es encerrarse en una jaula un año sin Jet y echarla de tu cuerpo sudándola. Hmmmph. ¡"Cura", mis cojones! ¡Qué tontería!}
@@ -170,7 +170,7 @@
 {573}{}{Creo que no me apetece compartir eso en este momento. Adiós.}
 {580}{}{Hmmmmm. Seguro que podría hacerlo… fácilmente. SI es que encuentras uno. Ni siquiera sé dónde podrías empezar a buscar. RNC
  o Ciudad Refugio, quizá, pero dudo que tengan uno… aunque…}
-{581}{}{¿Aunque…?}
+{581}{}{¿Sin embargo...?}
 {590}{}{Aunque esos bastardos santurrones podrían ser capaz de indicarte una dirección. Si hablas despacio y usas palabras sencillas…}
 {591}{}{¿RNC o Ciudad Refugio, dices? Iré a buscar en esos lugares y preguntar a sus habitantes sobre el GECK. Gracias.}
 {592}{}{¿Por qué el GECK no estaría en el sagrado Refugio 13? Las escrituras DICEN que el GECK está sellado en el interior del sagrado 13.}
@@ -181,7 +181,7 @@
 {601}{}{¿Ciudad Refugio, dices? Iré a buscar esa ciudad del Refugio y preguntaré a sus habitantes acerca del GECK.
  Gracias, Renesco. ¡Alabado sea el Refugio! }
 {602}{}{¿"Refugios"? ¿Hay más de un Refugio?}
-{603}{}{Hmmm. Tenía algunas preguntas más…}
+{603}{}{Hmmm. Tenía algunas preguntas más...}
 {610}{}{Si vas a ir a Ciudad Refugio, no me des las gracias, primate. Estarías mejor en Nuevo Reno. Al menos la gente que
  te toma medidas para tu ataúd es honesta al respecto.}
 {611}{}{De acuerdo… voy de camino a Ciudad Refugio. ¡Alabado sea el Refugio! }
@@ -194,7 +194,7 @@
 {634}{}{Nada, no importa. }
 {640}{}{(Renesco te arranca los anteojos de las manos y se los pone. Abre mucho los ojos). ¡Dulce Reno! ASÍ es como está esta maldita
  tienda. (Frunce el ceño). Qué desorden… ¿y qué es eso que hay en las estanterías? Parece mierda de brahmin.}
-{641}{}{No hay de qué…}
+{641}{}{You're welcome...}
 {642}{}{Disfruta. }
 {650}{}{¡Hmpphh! Yo… hmmm… eh… ¿de dónde has sacado esto?}
 {651}{}{Bien, había un diminuto escorpión rad, ¿sabes?, y un científico que lo estaba entrenando, y... ¿sabes qué? Ni yo
@@ -209,9 +209,9 @@
 {672}{}{No importa… mira, tan sólo ten cuidado con ellas, ¿vale? Tenía algunas preguntas más…}
 {673}{}{Algún día… y puede que ese día nunca llegue, tendrás que hacerme un servicio. Pero hasta entonces
  acepta estos anteojos como un regalo en el día de la boda de mi hija. }
-{680}{}{Ehhh…}
+{680}{}{Ehhh...}
 {681}{}{Errr...}
-{682}{}{Bueno…}
+{682}{}{Bueno...}
 {683}{}{¡Está bien! ¡Está bien! ¡Te haré un descuento! Hmphhh.}
 {684}{}{Venga. Sólo un pequeño descuento. Venga…}
 {687}{}{¡Genial! Vamos a ver lo que tienes, "colega".}
@@ -242,13 +242,13 @@
 {749}{}{Eh, no llevo encima dos centenares… volveré más tarde con el dinero. }
 {755}{}{DUDO horrores que fuera eso lo que dijo.  No sería 'El canario estiró la pata', ¿verdad?}
 {756}{}{Bueno, sí.}
-{760}{}{¿Y…?}
+{760}{}{¿Y...?}
 {761}{}{¿"Y"?}
 {765}{}{¿Y la SEGUNDA parte fue…?}
 {766}{}{"¿Segunda parte?" Él no dijo nada acerca de una SEGUNDA parte. ¡El infame bast-!}
 {769}{}{Sólo te ponía a prueba. No hay segunda parte. Bien, si Zaius te envía, SUPONGO que tengo algunas piezas de sobra. }
 {770}{}{Aquí tienes. No las dejes caer.}
-{771}{}{Gracias. Tenía algunas preguntas más…}
+{771}{}{Gracias. Tenía algunas preguntas más...}
 {772}{}{Eh, gracias. }
 {780}{}{Ni se te OCURRA lanzar esa acusación sobre mí. Si quieres saber quién lo hizo, pregunta a Tweedledum y Tweedledumber
  si todavía siguen vendiendo Jet cortado con arsénico.}
@@ -331,7 +331,7 @@
 {951}{}{¡La madre que parió a la Garra mortal o al director de marketing que te hizo! ¡¿QUIERES algo?! ¡Aquí! ¡AQUÍ! ¡Toma ESTO!
  Toma todo lo que tengo! Lo que sea con tal de que me DEJES EN PAZ!}
 {952}{}{Déjame ver tu mercancía.}
-{953}{}{Tengo algunas preguntas…}
+{953}{}{Tenía algunas preguntas...}
 {955}{}{¿Qué demonios ES esto…? }
 {960}{}{¿Envenenado? ¿Qué estás balbuceando?}
 {961}{}{La condición del cuerpo concordaba con el veneno del escorpión rad. Creo que murió porque su Jet estaba envenenado,

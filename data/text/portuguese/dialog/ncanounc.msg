@@ -5,14 +5,14 @@
 {104}{}{When you absolutely HAVE to have something to drink and don't care what it is...}
 {105}{}{Choose Rotgut!}
 {106}{}{In this corner, the challenger, weighing in at }
-{107}{}{And in this corner...weighing in at }
+{107}{}{And in this corner... weighing in at }
 {108}{}{So, without further ado...}
 {109}{}{Let's get reeeeeeeady to BEAT SOME ASS!}
 {123}{}{...Gamma Gulp Beer!}
 {124}{}{When your skin's lacking that "special glow"...}
 {125}{}{Choose Gamma Gulp Beer!}
 {143}{}{...the Cat's Paw!}
-{144}{}{When you got that itch that you NEED to scratch..}
+{144}{}{When you got that itch that you NEED to scratch...}
 {145}{}{Head to the Cat's Paw!}
 {163}{}{...New Reno Arms!}
 {164}{}{When you need to kill someone from a safe distance...}

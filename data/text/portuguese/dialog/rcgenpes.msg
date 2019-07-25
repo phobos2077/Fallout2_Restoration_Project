@@ -46,13 +46,13 @@
 {145}{}{You're the best.}
 {146}{}{Tribals are people, too.}
 {147}{}{Nothing like friends, is there?}
-{148}{}{I think I'd like to sing…}
+{148}{}{I think I'd like to sing...}
 {149}{}{I take back most of what I said about you earlier.}
 {150}{}{What a friend.}
 {151}{}{Tribals are our kind of people.}
 {152}{}{Hip, hip, huzzah for the tribal.}
-{153}{}{./~ How dry I am… ./~}
-{154}{}{./~ 99 bottles of beer on the wall, 99 bottles of beer… ./~}
+{153}{}{./~ How dry I am... ./~}
+{154}{}{./~ 99 bottles of beer on the wall, 99 bottles of beer... ./~}
 {155}{}{This man looks at home.}
 {156}{}{You see a man eating a meal.}
 {157}{}{You see a man mending a garment.}
@@ -88,7 +88,7 @@
 {187}{}{You see someone who must have money riding on the fights.}
 {188}{}{This person looks excited.}
 {189}{}{Get 'im!}
-{190}{}{There goes a week's wages…again.}
+{190}{}{There goes a week's wages... again.}
 {191}{}{Yeah!}
 {192}{}{Kill, kill, kill!}
 {193}{}{Go for the throat!}

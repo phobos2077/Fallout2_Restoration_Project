@@ -7,7 +7,7 @@
 {106}{}{Well I'm sure glad I'm not, because you don't look like anyone I'd want to mess with. But listen, if there's a dangerous person on the loose around here, I should really be getting back to my family so I can warn them.}
 {107}{}{All right, I give up. Let's party!}
 {108}{}{You're not going anywhere just yet. Have you ever been to Gecko?}
-{109}{}{Yeah, of course I have. Lovely place. I mean, the locals are hideous and it kinda smells and there's all that radiation and stuff, but it sure is fun to mess around on the computers. Ha! You should have been there when I was messing with this one jackass—you know, he looked a lot like you fellas.}
+{109}{}{Yeah, of course I have. Lovely place. I mean, the locals are hideous and it kinda smells and there's all that radiation and stuff, but it sure is fun to mess around on the computers. Ha! You should have been there when I was messing with this one jackass--you know, he looked a lot like you fellas.}
 {110}{}{Gecko? Hell no, this is as close as I get. Don't you know that place is full of them ugly-ass ghouls? Why do you ask?}
 {111}{}{OK, I believe you. Fan out, men. Search the area. We gotta find this person.}
 {112}{}{No. I don't believe you. This is our man, boys!}

@@ -14,18 +14,18 @@
 {113}{}{Ves una imagen de puntos de luz rojos, verdes y azules combinándose para dibujar una imagen de algo…}
 {114}{}{Un rostro horrible te está mirando. Oh, espera, este terminal está apagado.}
 {115}{}{Esta ventana conduce a una oscura dimensión más allá del tiempo y el espacio.}
-{116}{}{Este terminal muestra un mensaje: "Cargando Fenestra '98". El terminal está cubierto por una gruesa capa de polvo. }
+{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
 {117}{}{Este terminal parece de la marca Apricot. Está ejecutando algo llamado Fallout 3. Caray, parece que es multijugador y en 3D.}
 {118}{}{Introducir identificador de usuario:}
 {119}{}{(Déjame probar esto) Lista de usuarios.}
 {120}{}{(Me pregunto si esto funcionará) Smith, J.}
 {121}{}{Atrás.}
 {123}{}{Creo que será mejor hacer esto en algún otro lugar.}
-{124}{}{Listando (el terminal muestra una lista de unos 500 nombres)}
-{125}{}{Listando (la computadora muestra una lista de nombres)}
+{124}{}{Listing (the terminal displays a list of about 500 names).}
+{125}{}{Listing (the computer displays a list of names).}
 {126}{}{Seleccionar ID de usuario o Desconectarse:}
 {127}{}{(Este tiene un acceso adecuado). Smith, J.}
-{128}{}{(Este parece algo especial). Clave de acceso presidencial de anulación de seguridad}
+{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
 {129}{}{(Este es mejor que el acceso medio). Murray, T.}
 {130}{}{(Este tiene un buen acceso). Curling, Dr. C.}
 {131}{}{(Este parece que debería tener un acceso realmente bueno). Bird, D.}
@@ -33,7 +33,7 @@
 {133}{}{Seleccionar: }
 {134}{}{O. C. N.: Operaciones de la central nuclear, }
 {135}{}{¿Estado de seguridad?}
-{136}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{136}{}{Download A. E. C.: Atomic Power plant Operations.}
 {137}{}{Estado de seguridad.}
 {138}{}{Volver al ID de Usuario:}
 {139}{}{Seleccionar: }
@@ -42,8 +42,8 @@
 {142}{}{O. C. N.: Operaciones de la central nuclear, }
 {143}{}{¿Estado de seguridad?}
 {144}{}{Nivel de seguridad: Estado actual}
-{145}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
-{146}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{145}{}{Download Chemical Corps: Project Status Report.}
+{146}{}{Download A. E. C.: Atomic Power plant Operations.}
 {147}{}{Estado de seguridad.}
 {148}{}{Volver al ID de Usuario:}
 {149}{}{Seleccionar: }
@@ -54,21 +54,21 @@
 {154}{}{O. C. N.: Operaciones de la central nuclear, }
 {155}{}{¿Estado de seguridad?}
 {156}{}{Estado de la Nación: Estado actual}
-{157}{}{Descargar lista de palabras}
+{157}{}{Descargar lista de palabras.}
 {158}{}{Nivel de seguridad: Estado actual}
-{159}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
-{160}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{159}{}{Download Chemical Corps: Project Status Report.}
+{160}{}{Download A. E. C.: Atomic Power plant Operations.}
 {161}{}{Estado de seguridad}
 {162}{}{Volver al ID de Usuario:}
 {163}{}{Seleccionar: ¿Estado de seguridad?}
 {164}{}{Estado de seguridad}
-{165}{}{Finalizar acceso}
+{165}{}{End Access.}
 {166}{}{Error de descarga - falta el archivo de Estado de Seguridad.}
 {167}{}{Estado de la Nación: Estado actual}
 {168}{}{Descargar lista de palabras.}
 {169}{}{Nivel de seguridad: Estado actual.}
-{170}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
-{171}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{170}{}{Download Chemical Corps: Project Status Report.}
+{171}{}{Download A. E. C.: Atomic Power plant Operations.}
 {172}{}{Volver al ID de Usuario:}
 {173}{}{Descarga completa.}
 {174}{}{Descargar lista de palabras.}
@@ -99,25 +99,25 @@
 {199}{}{Nivel de Información y central nuclear: Torretas de seguridad actualmente en estado Alerta Armada.}
 {200}{}{Nivel de Información y central nuclear: Torretas de seguridad actualmente en estado Normal.}
 {201}{}{Nivel de Información y central nuclear: Torretas de seguridad actualmente en estado Desactivación por Mantenimiento.}
-{202}{}{Ajustar nivel de seguridad}
+{202}{}{Adjust security level.}
 {203}{}{Estado de la Nación: Estado actual}
 {204}{}{Descargar lista de palabras.}
-{205}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
-{206}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{205}{}{Download Chemical Corps: Project Status Report.}
+{206}{}{Download A. E. C.: Atomic Power plant Operations.}
 {207}{}{Estado de seguridad.}
 {208}{}{Volver al ID de Usuario:}
 {209}{}{Descarga completa.}
-{210}{}{Descargar Estado de la Nación: Estado actual}
+{210}{}{Download State of the Nation: Current status.}
 {211}{}{Descargar lista de palabras.}
 {212}{}{Nivel de seguridad: Estado actual}
-{213}{}{Descargar O. C. N.: Operaciones de la central nuclear}
+{213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Estado de seguridad.}
 {216}{}{Volver al ID de Usuario:}
 {217}{}{Descarga completa.}
-{218}{}{Descargar Estado de la Nación: Estado actual}
+{218}{}{Download State of the Nation: Current status.}
 {219}{}{Descargar lista de palabras.}
 {220}{}{Nivel de seguridad: Estado actual}
-{221}{}{Descargar Unidad de guerra química: Informe de estado de proyecto}
+{221}{}{Download Chemical Corps: Project Status Report.}
 {222}{}{Estado de seguridad.}
 {223}{}{Volver al ID de Usuario:}
 {224}{}{Este terminal está ejecutando actualmente un diagnóstico de alto nivel. Por favor, pruebe otro terminal. Gracias.}
@@ -153,15 +153,15 @@
 {254}{}{Llave de seguridad presidencial no reconocida. Acceso denegado.}
 {255}{}{(Hmm, me pregunto si le puedo hacer creer al escáner que tengo la llave pirateando el archivo de acceso. Creo que lo voy a intentar).}
 {256}{}{(Oh, en fin, valía la pena intentarlo). Atrás.}
-{257}{}{Detectado error de funcionamiento del escáner de la llave de seguridad… Reiniciando escáner…}
-{258}{}{(Es mi oportunidad. Ahora, si tan sólo le puedo hacer creer que ha reconocido la llave presidencial…)}
-{259}{}{(Maldición. En fin, quien no se arriesga no gana…) Atrás.}
-{260}{}{Escáner reiniciado. Volviendo a escanear…}
+{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
+{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
+{259}{}{(Damn, well nothing ventured...) Back.}
+{260}{}{Scanner reinitialized. Rescanning...}
 {261}{}{(Este es el momento clave).-Escribes febrilmente.}
 {262}{}{Detectado procedimiento ilegal. Denegados futuros accesos a este terminal… enviada alerta de mantenimiento.}
 {263}{}{Maldición. Eso no es en absoluto lo que quería.}
 {264}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente. (¡Sí! Ahora veamos lo que puedo hacer...)}
 {265}{}{(¿Qué otra cosa puedo hacer?)}
-{266}{}{Llave de seguridad presidencial reconocida. Buenos días, señor Presidente... Protocolo de medidas anti-insurrección iniciado… **Error**... Objetivo no encontrado. Por favor, asegúrese de que los sensores funcionan correctamente. Si no, envíe el formulario FG-I-106-32-0635 para la autorización de servicios de reparación. Gracias por usar otro excelente producto Vault-Tec. Buenos días.}
+{266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
 {267}{}{(Hmm... Quizá funcione cuando haya alguien allí. Voy a tener que probarlo más tarde). Volver al ID de Usuario.}
 {268}{}{(Me pregunto qué más puedo probar). Atrás.}

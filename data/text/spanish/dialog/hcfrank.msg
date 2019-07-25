@@ -10,7 +10,7 @@
 {108}{}{¿Qué puedes contarme sobre este lugar?}
 {109}{}{¿Qué puedes contarme sobre Marcus?}
 {110}{}{No tengo ni idea de lo que estás diciendo, bicho raro. Sal de mi vista.}
-{111}{}{Oooooh…}
+{111}{}{Oooooh...}
 {112}{}{Soy Franc. Te preguntaría quién eres, pero no me importa.}
 {113}{}{Oh, un tipo duro, ¿eh?}
 {114}{}{Esto está bien. A mí tampoco me importa quién eres tú.}

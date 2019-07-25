@@ -14,9 +14,9 @@
 {113}{}{Perdón, tipo equivocado.}
 {114}{}{Vamos, Fuera de aquí. ¡Ya tengo demasiados guardias idiotas!}
 {115}{}{¿Qué te pasa imbécil, estás ciego? Es un centro de esclavos. Si quieres saber más, habla con Vortis.}
-{116}{}{¿Y eso qué? Vale, te voy a enviar de vuelta en una bolsa para cadáveres.}
+{116}{}{Is that so? Well, I'm sending you back in a body bag.}
 {117}{}{Ese sería Vortis, el viejo.}
-{118}{}{Gracias. Verás, pareces un chico listo. Apuesto a que puedes ayudarme con algunas preguntas.}
+{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
 {119}{}{El viejo, ¿eh? Está bien.}
 {120}{}{Ahora bien, si pones las cosas de esa manera, no podría decir que no. ¿Qué tienes en mente?}
 {121}{}{Gracias, forastero.}
@@ -42,7 +42,7 @@
 {141}{}{El Enclave.... verás, hay un doctor en la ciudad, se hace llamar Henry. Una noche que estaba borracho empezó a hablar como un loco de unos tipos y los llamó El Enclave.}
 {142}{}{Eso es justo lo que necesitaba saber. Eres un hombre bien informado.}
 {143}{}{No quiero molestarte más. Gracias.}
-{144}{}{Yo siempre estoy a la expectativa: el problema es que nadie quiere contratar a un esclavista. Vortis, mi jefe, tiene algún chanchullo. Y en la ciudad los rancheros de la Asociación de Ganaderos siempre está contratando gente, además Dorothy siempre necesita que le echen una mano en la central eléctrica, si eres hábil. Incluso se dice que la presidente Tandi está buscando a un especialista.}
+{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
 {145}{}{Hombre, sabes de todo. Podría pasarme todo el día haciéndote preguntas.}
 {146}{}{Bien, me pondré en el buen camino con estas pistas.}
 {147}{}{Córtales las... ya sabes... por mí, ¿de acuerdo?}

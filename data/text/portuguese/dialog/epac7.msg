@@ -37,7 +37,7 @@
   depois de visitar nosso zoológico.}
 {311}{}{Tudo bem. Eu vou ver o que posso fazer.}
 {312}{}{Deixa pra lá. Eu não estou interessado.}
-{320}{}{O complexo ainda parece bastante monótono. Você ainda vai consertar as luzes, não é? Lembre-se de visitantes, todos os indecisos devem ser assinados antes do final do passeio.}
+{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
 {321}{}{Não se preocupe. Eu estou trabalhando nele.}
 {322}{}{Eu vou pegar.}
 {330}{}{Teríamos mais visitantes se os solos estivessem limpos.}

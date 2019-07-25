@@ -30,7 +30,7 @@
 {129}{}{¿Pero qu-? ¿Eres una de los nuevos siervos?}
 {130}{}{Sí}
 {131}{}{Uh-uh voy ahora yo}
-{132}{}{Debes ser nueva por aquí. Te lo explicaré... lentamente.}
+{132}{}{Debes ser nuevo por aquí. Te lo explicaré... lentamente.}
 {133}{}{Los Ciudadanos que necesitan ayuda con tareas menores vienen aquí para que se les asigne un siervo para ellos durante todo el día.}
 {134}{}{Eso suena bastante a esclavitud.}
 {135}{}{Oh, ¿así que es aquí donde almacenan a los esclavos? ¿Por qué no lo dijiste antes?}

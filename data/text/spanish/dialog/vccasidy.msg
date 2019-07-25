@@ -58,7 +58,7 @@
 {157}{Cas0157}{No te ofendas, pero no pareces capaz de liderar nada. Parece que vayas a servirle de cena al Yermo.}
 {158}{Cas0158}{Ni hablar, no viajo con esclavistas. Tienen el repugnante hábito de venderte cuando les hace falta dinero. Sin ofender.}
 {159}{Cas0159}{De eso nada, tienes el aspecto de alguien con un pie en la tumba y el otro en el infierno. No creo que necesite manchar mi reputación más de lo que ya está.}
-{160}{Cas0160}{Paso... parece que ya llevas a un montón de gente contigo.}
+{160}{Cas0160}{Ni hablar... parece que ya tienes a un montón de gente a tu alrededor.}
 {161}{}{De acuerdo. Bien, buena suerte.}
 {162}{}{Entonces olvida lo que te he preguntado, capullo. Sigue atendiendo tu bar en esta apestosa ciudad.}
 {163}{}{No importa. Tú te lo pierdes.}

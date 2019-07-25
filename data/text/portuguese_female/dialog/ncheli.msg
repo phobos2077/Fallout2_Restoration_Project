@@ -2,7 +2,7 @@
 {150}{}{You see several crates filled with chemicals. You can't identify the chemicals, but they have
  been packed *very* carefully.}
 {175}{}{Você vê um Vertibird.}
-{199}{}{You see a Vertibird...an advanced form of helicopter. Unfortunately, you have no idea how
+{199}{}{You see a Vertibird... an advanced form of helicopter. Unfortunately, you have no idea how
  to operate it. }
 {200}{}{(These guys give me the creeps...)}
 {250}{}{Look! Someone's been watching us!}

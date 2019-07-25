@@ -12,7 +12,7 @@
 {200}{}{::Brindis::}
 {201}{}{::Aplausos::}
 {202}{}{::Silbidos::}
-{203}{}{(Canta) "We don't need another hero, we don't need to know the way home…"}
+{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{¡Oye! }
 {205}{}{Qué manera de aplastar al Enclave, }
 {206}{}{Tienes que ser más dura que Tommy Pelotas para haberte cargado el Enclave como hiciste.}
@@ -58,7 +58,7 @@
 {299}{}{Ese mutante tuyo, que tenga cuidado por aquí, ¿me oyes?}
 {305}{}{¿Qué quieres?}
 {306}{}{¿Necesitas ayuda?}
-{307}{}{Maldito calor…}
+{307}{}{Damn hot...}
 {308}{}{Nuevo Reno se vuelve más fea a cada día que pasa…}
 {309}{}{¿Qué estás haciendo por aquí?}
 {310}{}{If you're lookin' for alcohol, the train station is the place to be.}
@@ -79,7 +79,7 @@
 {340}{}{Papá dijo que nos estrangulará si alguna vez nos oye hablar de tomar Jet.}
 {341}{}{Papá todavía está enfadado, así que cuidado cuando hables con él, ¿me oyes?}
 {342}{}{Chris será azotado como siga colándose en el burdel.}
-{343}{}{Maldito calor…}
+{343}{}{Damn hot...}
 {344}{}{Hace tiempo que no veo a mamá. Si la ves, no le menciones nada sobre la destiladora, ¿vale?}
 {345}{}{Keith desmontó el piano la semana pasada y lo volvió a montar. Chico listo.}
 {346}{}{Vamos a volver a cazar escorpiones rad dentro de unos días.}
@@ -104,7 +104,7 @@
 {368}{}{Papá dijo que nos estrangulará si alguna vez nos oye hablar de tomar Jet.}
 {369}{}{Papá todavía está enfadado, así que cuidado cuando hables con él, ¿me oyes?}
 {370}{}{Chris será azotado como siga colándose en el burdel.}
-{371}{}{Maldito calor…}
+{371}{}{Damn hot...}
 {372}{}{Keith desmontó el piano la semana pasada y lo volvió a montar. Chico listo.}
 {373}{}{Vamos a volver a cazar escorpiones rad dentro de unos días.}
 {374}{}{¿De verdad hablas con Dios cuando practicas sexo en el plató?}

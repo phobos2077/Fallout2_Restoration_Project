@@ -40,7 +40,7 @@
 {255}{}{Te alejas}
 {256}{}{¿Quién eres?}
 {257}{}{Lo siento, pensé que eras otra mujer calva con un portapapeles. Tengo que irme.}
-{265}{}{(La mujer levanta la vista y te mira). ¿Eres una de los sujetos de control? Bueno, como si importase... ¡Guardias! ¡Detened a esta esclava!}
+{265}{}{(La mujer levanta la vista y te mira). ¿Eres uno de los sujetos de control? Bueno, como si importase... ¡Guardias! ¡Detened a este esclavo!}
 {266}{}{¿Dónde esclava? No veo una yo.}
 {275}{}{Oye, estoy MUY ocupada, así que si no te importa… [Levanta la vista de su portapapeles, y frunce el ceño]. ¿Quién ERES? ¿Cómo has entrado aquí?}
 {276}{}{Oye, estoy MUY ocupada, así que si no te importa… [Levanta la vista de su portapapeles, y frunce el ceño]. ¿Otra vez tú? ¿Qué quieres ahora?}

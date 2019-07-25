@@ -1,5 +1,5 @@
 {100}{}{Rose makes the best omelets.}
-{101}{}{Psst… Stay away from the brahmin fries.}
+{101}{}{Psst... Stay away from the brahmin fries.}
 {102}{}{I stop by Rose's every chance I get.}
 {103}{}{Have you tried Rose's omelets?}
 {110}{}{Do you smell something?}

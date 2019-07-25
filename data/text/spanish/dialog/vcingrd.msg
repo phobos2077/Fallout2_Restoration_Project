@@ -5,11 +5,11 @@
 {104}{}{Ya son más de las seis de la tarde. Es hora de que vuelvas al Patio.}
 {105}{}{Está bien. Me marcho ahora mismo.}
 {106}{}{De acuerdo. En un minuto me voy.}
-{107}{}{Tengo cosas que hacer. Me iré cuando esté listo para hacerlo.}
+{107}{}{I got things to do. I'll go when I'm ready to go.}
 {108}{}{¡¿¡Umag Nak!?! ¡Umag NAK!}
 {109}{}{Bien, me aseguraré de que llegues al Patio sano y salvo. Venga, en
  marcha.}
-{110}{}{Vale. Vamos allá.}
+{110}{}{Bien. Vámonos.}
 {111}{}{Brog Frup}
 {112}{}{Puedo ir yo solo.}
 {113}{}{Lo siento, tengo mis órdenes. Debo escoltarte al otro lado de la puerta.}

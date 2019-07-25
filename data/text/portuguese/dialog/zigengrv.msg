@@ -19,7 +19,7 @@
 {300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
 {301}{}{"Chris Jones. Nightwing."}
 {302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
-{303}{}{"Colin McComb: Another pointless life"}
+{303}{}{"Colin McComb: Another pointless life."}
 {304}{}{"David Hendee: the loudest among the dead. May he rest in peace, quietly."}
 {305}{}{"Ed Hyland. He told the world to 'suck it.'"}
 {306}{}{"Eric Demilt. The TRUE Combat Boy."}
@@ -36,7 +36,7 @@
 {317}{}{"Leonard Boyarski. Exile from Vault City."}
 {318}{}{"Rupert Dinkos, died Winter '00."}
 {319}{}{"Matt Norton. He coulda been someone. He coulda been a contenda, instead of a bum, which is what he was."}
-{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top]}
+{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
 {321}{}{"Robert Collier. Silent. Deadly. Rob."}
 {322}{}{"Robert Hertenstein 2. His doctor tried to tell him, but he insisted, 'That's a bit too much information.'"}
 {323}{}{"Scott Campbell. Not the soup."}
@@ -44,16 +44,16 @@
 {325}{}{"Scott Rodenhizer. Built 3D heads."}
 {326}{}{"Thomas French: Died while attempting to master the Flying Guillotine."}
 {327}{}{"Tim Cain. Founder, Lover, Fighter, Programmer."}
-{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray"}
-{329}{}{"Zeb -- Still Older Than Dirt"}
+{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
+{329}{}{"Zeb -- Still Older Than Dirt."}
 {330}{}{"Dennis Presnell. We can almost hear him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah blah blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept on the patch."}
-{331}{}{"Rupert Diukos, died 9/24/96"}
-{332}{}{"Sal De Ban, died 9/24/96"}
-{333}{}{"Greg Zeschule, Fall '99"}
-{334}{}{"Ray Muzyka, Summer '98"}
+{331}{}{"Rupert Diukos, died 9/24/96."}
+{332}{}{"Sal De Ban, died 9/24/96."}
+{333}{}{"Greg Zeschule, Fall '99."}
+{334}{}{"Ray Muzyka, Summer '98."}
 {335}{}{"Evan Chantland, 74-??: He wasn't paranoid, they really were after him."}
 {336}{}{"Here lies Moose, cold and dead. We found him here, without his head."}
-{337}{}{"Amy Presnell"}
+{337}{}{"Amy Presnell."}
 {338}{}{"Stephen Bokkes, age 25. Cut down in his prime by the slings and arrows of outrageous fortune." }
 {339}{}{"R.I.P. Doug "Skully" Finch (Date does not matter) Killed for smoking in the French Market. Last words - 'Donkey Punches to ya!'"}
 {340}{}{"Here lies Donnie Cornwell, good and dead. In an extra large coffin to fit his extra large head."}
@@ -61,14 +61,14 @@
 {342}{}{"T. D. Hamilton: Hear lies a stank hoe that should have been dead a long time ago. Rest in hell, BITCH!"}
 {343}{}{"Another victim of the deadline."}
 {344}{}{"Dogbomb is dead. Long live the Dog."}
-{345}{}{"Kris Snider: Too competitive"}
+{345}{}{"Kris Snider: Too competitive."}
 {346}{}{"Are you doing anything useful with your life?"}
 {347}{}{"Why not just kill yourself and save someone else the hassle?"}
 {348}{}{"Charles Cuevas: He once said, 'Give me hockey or give me death.' He didn't quite get hockey."}
-{349}{}{"William Lebus"}
+{349}{}{"William Lebus."}
 {350}{}{"Reg Arnedo: we can still hear his voice in the halls."}
-{351}{}{"Shanna SanPaolo"}
-{352}{}{"Brahmin Wrangler"}
+{351}{}{"Shanna SanPaolo."}
+{352}{}{"Brahmin Wrangler."}
 {353}{}{"Josh Walters, 1971-2011. Died of complications during his fifth liver transplant."}
 {354}{}{"Doug Avery. Hated the war for destroying his trailer park lifestyle."}
 {355}{}{"Here lies Ezekial Aikle, age 102. The good die young."}
@@ -89,15 +89,15 @@
 {370}{}{"Gone away Owen Moore than he could afford."}
 {371}{}{"In Memory of Little Chris Wood. Here lies one Wood enclosed in wood, one Wood within another. The outer wood is very good, though we cannot praise the other.}
 {372}{}{"Under the sod and under the trees lies the body of Jonathan Pease. He is not here, there's only the pod: Pease shelled out and went to God."}
-{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid""}
+{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
 {374}{}{"Born 1903 -- Died 1942. Looked up the elevator shaft to see if the car was on the way down. It was."}
 {375}{}{"Here lies an Atheist all dressed up and no place to go."}
-{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue"}
+{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
 {377}{}{"Sarah Smart: Orator, Author, Professor, De Amicitia."}
-{378}{}{"Tim Winkle - I abide no hypocrisy but my own"}
-{379}{}{"Jughead - King of Queen Archie's World"}
+{378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
+{379}{}{"Jughead - King of Queen Archie's World".}
 {380}{}{"R.I.P Casey Donahue Died 8/6/98 Killed by Mutated Ill-Tempered Sea Bass."}
-{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise"}
+{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Potato Feet" Nielson. Musician. Passed on at the age of 104, during a drum solo."}
 {383}{}{"Nitsa - The reason Charles didn't quite get hockey."}
 {384}{}{"Thuy Dang. May God have mercy on his name."}

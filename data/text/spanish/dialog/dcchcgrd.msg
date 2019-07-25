@@ -17,7 +17,7 @@
 {164}{}{Volveré.}
 {165}{}{[Avergonzado] No... em... bueno, entra...}
 {166}{}{Gracias.}
-{167}{}{Eso está mejor.}
+{167}{}{Ésto me gusta más.}
 {168}{}{¿Qué es lo que queréis?}
 {169}{}{Tenemos que entrar dentro.}
 {170}{}{Yo mandado aquí por jefe.}

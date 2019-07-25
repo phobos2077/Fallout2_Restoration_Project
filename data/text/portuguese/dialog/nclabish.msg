@@ -19,14 +19,14 @@
 {217}{}{Me forget}
 {218}{}{Who where?}
 {220}{}{(She seems puzzled.) Boo who?}
-{221}{}{Boo hoo? No cry, pretty lady! HA HA HA HA HA HA HA Hah Hahhh...hoooo...u get it?}
+{221}{}{Boo hoo? No cry, pretty lady! HA HA HA HA HA HA HA Hah Hahhh... hoooo... u get it?}
 {225}{}{(She glares daggers at you.) Leave at once before I have you shot, you insipid insect.}
-{226}{}{Boo...HOO...hee-hee-hee-hee...Boo who? Boo HOO! HA HA HA HA HA...}
-{227}{}{Me no instooppid incest...*snfff*...me funneee...MOM sayz so...*snfff*...}
+{226}{}{Boo... HOO... hee-hee-hee-hee... Boo who? Boo HOO! HA HA HA HA HA...}
+{227}{}{Me no instooppid incest...*snfff*...me funneee... MOM sayz so...*snfff*...}
 {230}{}{(She follows your eyes down to her breasts. She flushes angrily, opens her mouth... then pauses.) You're
  not terribly bright... (Studies your frame.) However, you are quite... strong. Come with me a moment.}
 {231}{}{(She follows your eyes down to her breasts. She flushes angrily, opens her mouth... then pauses.) You're
- not terribly bright... (Studies your face.) However, you do have a certain...charm. Come with me a moment.}
+ not terribly bright... (Studies your face.) However, you do have a certain... charm. Come with me a moment.}
 {232}{}{(She follows your eyes down to the curvature of her breasts. Her tone becomes glacial.) Subtlety isn't
  your strong suit, is it? (She looks at you in disgust.) Leave before I have you shot.}
 {233}{}{(Follow her.)}
@@ -43,7 +43,7 @@
 {253}{}{Meu nome é }
 {254}{}{I am a simple traveler.}
 {255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
-{256}{}{I'm a traveler...do you know where I could find something called the 'Garden of Eden Creation Kit?'}
+{256}{}{I'm a traveler... do you know where I could find something called the 'Garden of Eden Creation Kit?'}
 {257}{}{Look, maybe I better be going. Goodbye.}
 {260}{}{Sim?}
 {261}{}{Can you tell me about Mr. Bishop?}
@@ -62,7 +62,7 @@
 {276}{}{Sorry, Mrs. Bishop. I didn't mean to pry. I'll leave.}
 {280}{}{(She frowns.) I'll leave that to your imagination. (Looks irritated.) Is that *all?*}
 {281}{}{Actually, I had some other questions...}
-{285}{}{There really is nothing to say about the Bishop 'Family.' Oh...there is the extended family
+{285}{}{There really is nothing to say about the Bishop 'Family.' Oh... there is the extended family
  of hired thugs, mercenaries, whores, pushers, and slaves, but that is really all that the Bishop 'family'
  amounts to.}
 {286}{}{It sounds as if your marriage life isn't as healthy as it could be.}
@@ -71,7 +71,7 @@
 {295}{}{(She throws an amused glance at your spouse.) And yours is? (She frowns again.) }
 {296}{}{No... my late husband was in the business of accumulating power. That seldom leaves room for...
  anything else. }
-{297}{}{No... my husband is in the business of accumulating power. That seldom leaves room for...anything
+{297}{}{No... my husband is in the business of accumulating power. That seldom leaves room for... anything
  else. }
 {298}{}{In addition, my precious daughter has quickly learned what being a woman means in New Reno.}
 {299}{}{Your daughter?}
@@ -89,18 +89,18 @@
 {316}{}{(Frowns.) A simple traveler. How remarkably open and trusting of you. And what, pray
  tell, do you think I can do for you, "simple traveler?"}
 {321}{}{Nothing, thanks. I really must be going.}
-{325}{}{I know where you could find *a* Creation Kit...but it will do you little good. It has
+{325}{}{I know where you could find *a* Creation Kit... but it will do you little good. It has
  already been used.}
 {326}{}{Where is this Garden of Eden Creation Kit?}
 {328}{}{Then it's no use to me... thanks anyway.}
 {330}{}{(Smiles faintly, as if remembering something pleasant.) Have you ever been to Vault City?
- It is northeast of New Reno. They had such a kit...once, long ago, but they used it when they left
+ It is northeast of New Reno. They had such a kit... once, long ago, but they used it when they left
  their Vault for the surface.}
 {331}{}{Can you tell me about Vault City?}
 {332}{}{Can I ask you some other questions?}
 {333}{}{I'll go check out Vault City then. Thanks for the information.}
 {335}{}{(Her smile fades, and her expression becomes hard and distant.) There is not much to tell.
- I think you'll find the climate there...different. Now, is that all?}
+ I think you'll find the climate there... different. Now, is that all?}
 {336}{}{No, actually, I had some other questions...}
 {337}{}{Yes, it is. Sorry to bother you.}
 {340}{}{As I said, there is Vault City to the northeast. Is that the place you are referring to?}
@@ -110,7 +110,7 @@
 {345}{}{Might be... I'll go check it out. Thanks.}
 {350}{}{Hmnnn. Well then, I'm afraid that I can't help you.}
 {352}{}{Do you know anyone who might know?}
-{353}{}{Yeah, well...thanks anyway.}
+{353}{}{Yeah, well... thanks anyway.}
 {354}{}{Well, thanks for your time, Mrs. Bishop. I appreciate it.}
 {360}{}{You might want to head there, then.}
 {362}{}{All right then, I'll go check it out.}
@@ -122,7 +122,7 @@
  you describe.}
 {374}{}{All right... I was just asking. Later, then.}
 {375}{}{Very well. Thanks for your time.}
-{380}{}{Hold on a moment. (Studies you.) You seem to be...new in town. Would you care to join
+{380}{}{Hold on a moment. (Studies you.) You seem to be... new in town. Would you care to join
  me for a drink in my chambers? We can discuss New Reno; it's a dangerous place to those
  unfamiliar with its ways.}
 {381}{}{A moment before you leave. (She studies you again.) Do you have the time for that
@@ -135,18 +135,18 @@
 {387}{}{I work for your husband, Mrs. Bishop. It wouldn't be right.}
 {390}{}{(She raises an eyebrow.) We shall see.}
 {391}{}{Well, that's all I need to hear. Let's go.}
-{392}{}{Mrs. Bishop, I'm sorry, but I have to decline...this time.}
+{392}{}{Mrs. Bishop, I'm sorry, but I have to decline... this time.}
 {393}{}{I'm sorry, but I can't, Mrs. Bishop. I really have to be going.}
 {394}{}{No way. I have no desire to cross your husband.}
 {400}{}{(She laughs.) You flatter yourself. It's merely a drink. }
 {401}{}{And IF anything were to happen, I assure you, my husband is QUITE dead. }
 {402}{}{And IF anything were to happen, I assure you, my husband is NOT the jealous type. }
-{404}{}{Mrs. Bishop, I'm sorry, but I still have to decline...this time.}
+{404}{}{Mrs. Bishop, I'm sorry, but I still have to decline... this time.}
 {410}{}{(She raises an eyebrow.) My husband may be dead, but his men are at my disposal.
- They can become quite...irate...when an invitation from Mrs. Bishop is refused. Are you
+ They can become quite... irate... when an invitation from Mrs. Bishop is refused. Are you
  *quite* certain you will not join me?}
 {411}{}{(She raises an eyebrow.) My husband is not the jealous type, but he can become
- quite...irate...when a gracious invitation from a Bishop family member is refused. Are you
+ quite... irate... when a gracious invitation from a Bishop family member is refused. Are you
  *quite* certain you will not join me?}
 {412}{}{I still have to say no.}
 {413}{}{Okay. Just a drink, then.}
@@ -161,7 +161,7 @@
 {435}{}{(Mrs. Bishop smiles slightly when she sees you.) Why, hello again. Is there
  something I can do for you?}
 {436}{}{I'd like to join you for that drink now, if you have the time, Mrs. Bishop.}
-{437}{}{I'd like to join you for another...drink, if you have the time, Mrs. Bishop.}
+{437}{}{I'd like to join you for another... drink, if you have the time, Mrs. Bishop.}
 {438}{}{I had some questions...}
 {439}{}{Not at the moment, thanks. I have to go.}
 {440}{}{So? So am I. What are you suggesting that my invitation is? Some sort of prelude
@@ -202,7 +202,7 @@
  watch, she sighs contentedly and turns in her sleep.}
 {500}{}{You see Mrs. Bishop. It's hard to concentrate on her appearance while she is
  shouting for the guards.}
-{510}{}{Mmmmm...oh, }
+{510}{}{Mmmmm... oh, }
 {511}{}{Mmmzrrmnmn....again, }
 {512}{}{Combinnnazion t'safe... }
 {515}{}{Intruder! Help!}
@@ -228,7 +228,7 @@
 {537}{}{Condom?}
 {538}{}{Yeah, it got used from my inventory. I didn't know what had happened to it at
  first, but I figured it out.}
-{539}{}{Um...I REALLY should be going, Mrs. Bishop.}
+{539}{}{Um... I REALLY should be going, Mrs. Bishop.}
 {540}{}{Yes, a *condom.* (Glares at you.) Great. Just great. (Shrugs.) Oh, well. Maybe
  I'll have a grandson. Oh, well. Stop talking and come here.}
 {541}{}{Yeah, it's not as obvious as you'd think. Designer humor, I bet. (Shrugs.) Oh,
@@ -248,12 +248,12 @@
 {557}{}{Look, I REALLY have to go, Mrs. Bishop.}
 {560}{}{Oh?! Where do you have to go right now?}
 {561}{}{Anywhere.}
-{562}{}{I have to meet Jules by the front for a...special transaction.}
+{562}{}{I have to meet Jules by the front for a... special transaction.}
 {563}{}{I have to go meet a friend and can't be late.}
 {564}{}{My reasons are my own. Goodbye, Mrs. Bishop.}
 {565}{}{You try and leave this room, and I'll scream for the guards.}
 {566}{}{All things considered, I'm probably safer with the guards. Goodbye.}
-{567}{}{I have to meet Jules at the front of town for a...special transaction...very soon.}
+{567}{}{I have to meet Jules at the front of town for a... special transaction... very soon.}
 {569}{}{All right, all right. I just wish you wouldn't play so hard to get. Come here.}
 {570}{}{I just want you to know this is wrong, and if I had stronger moral fiber, I'd
  give you a stern lecture. Now come here.}
@@ -304,7 +304,7 @@
 {625}{}{(Frowns.) I'll leave that to your imagination. Can we *please* drop it? Let's
  talk about something else.}
 {630}{}{Want me to kill him?}
-{635}{}{Oh...that. Well...*yawn*...I think John wants to get in good with themmmm...
+{635}{}{Oh... that. Well...*yawn*...I think John wants to get in good with themmmm...
  (stretches) ...and then get their help to wipe out the other families.}
 {636}{}{Is that all Bishop wants from NCR?}
 {637}{}{Okay, then, let's talk about something else...}
@@ -312,15 +312,15 @@
 {645}{}{(Rolls over.) John sent some mercenaries East, near Vault City to 'lean'
  on the city. Wants to try and apply pressure on 'em, make them beg NCR for help.}
 {646}{}{Beg *NCR* for help? Why?}
-{650}{}{Mmmmm...oh...well... (Turns over.) John promised NCR he'd give Vault City to them.
+{650}{}{Mmmmm... oh... well... (Turns over.) John promised NCR he'd give Vault City to them.
  So he sent out some of his men, told them to act like raiders until Vault City caved.}
 {651}{}{Do you know where these raiders are?}
 {652}{}{Uh... is there any PROOF of this anywhere?}
-{655}{}{No...John probably has a map of their location somewhere around here...
+{655}{}{No... John probably has a map of their location somewhere around here...
  (Sniffs slightly, rubs nose.) Mmmmm....}
 {657}{}{Let's talk about something else...}
-{660}{}{, I think...something like that...}
-{663}{}{Excellent...time to go crack a safe...sleep well, Mrs. Bishop.}
+{660}{}{, I think... something like that...}
+{663}{}{Excellent... time to go crack a safe... sleep well, Mrs. Bishop.}
 {665}{}{Oh, }
 {666}{}{Oh. Thanks.}
 {670}{}{(Frowns.) What *about* her? }
@@ -334,9 +334,9 @@
 {677}{}{Hmmmm. I had some other questions...}
 {680}{}{And yours is? Hmmmph. }
 {681}{}{No, my 'marriage' was not a healthy one. My late husband was in the business
- of accumulating power, and that seldom leaves any room for...anything else.}
+ of accumulating power, and that seldom leaves any room for... anything else.}
 {682}{}{No, my 'marriage' is not a healthy one. My husband is in the business of power,
- and that seldom leaves any room for...anything else.}
+ and that seldom leaves any room for... anything else.}
 {683}{}{You sound unhappy. You should leave here, go somewhere else.}
 {684}{}{Hmmm. I had some other questions...}
 {690}{}{Why, what a BRILLIANT idea! And where would I go? Into the Wastes to live
@@ -346,8 +346,8 @@
 {692}{}{Nevermind then. Look, I had some other questions...}
 {700}{}{I leave, and my husband will bring me back. The Family watches out for their
  own, whether they want to be watched or not.}
-{701}{}{Hmmm. Perhaps I will...now that John had his much-deserved accident.
- (Smiles ruefully.) Maybe I will at that. Reno has become...tiresome. (Thinks.)
+{701}{}{Hmmm. Perhaps I will... now that John had his much-deserved accident.
+ (Smiles ruefully.) Maybe I will at that. Reno has become... tiresome. (Thinks.)
  Or maybe it just needs new management...}
 {702}{}{Say, I had some other questions...}
 {705}{}{No. (She rolls over, mumbles in her sleep.) Don't be an idiot. Soon as people
@@ -356,7 +356,7 @@
 {710}{}{(She stirs, blinks.) What are you TALKING about? Don't talk foolish.}
 {711}{}{I don't know, maybe a trap? Or something that looks like an accident?}
 {712}{}{All right. Look, I had some other questions...}
-{715}{}{(Her eyes snap open.) His safe...he has explosives set up to it if it's tampered
+{715}{}{(Her eyes snap open.) His safe... he has explosives set up to it if it's tampered
  with. Only if you enter a certain combination is it safe. Of course, if that combination
  was changed... "fixed"... without his knowledge...}
 {716}{}{Hmmmm. Maybe if I "repaired" the lock on his safe... It's something to keep in mind.
@@ -364,7 +364,7 @@
 {720}{}{No, I *don't* talk like everyone around here. It's called an 'education.' (She
  rolls over.) Go to sleep.}
 {721}{}{Where could I get an education?}
-{725}{}{*Yawn*... You're already as smart as I want you to be...now go to sleep. If you're
+{725}{}{*Yawn*... You're already as smart as I want you to be... now go to sleep. If you're
  pumping me for information, then you're creating a deficit.}
 {726}{}{Deficit? Here in the bed? I did not!}
 {730}{}{(Cracks open one eye.) Who told you that?}
@@ -373,12 +373,12 @@
 {735}{}{(Her expression crumbles for a moment, then she rolls over so you can't see her.)
  Don't mention that place.}
 {736}{}{O que aconteceu?}
-{740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so...rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
+{740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so... rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
 {741}{}{E?}
-{745}{}{They had memory enhancers for the Pip Boys there. Had dictionaries
+{745}{}{They had memory enhancers for the Pip-Boys there. Had dictionaries
  and encyclopedias stored on them. Took one of the lingual enhancers when I left, though I don't know why.}
 {746}{}{Where is this enhancer?}
-{750}{}{*Yawn*... (Curls up.) It's in my safe. Not much use without a Pip Boy, though.
+{750}{}{*Yawn*... (Curls up.) It's in my safe. Not much use without a Pip-Boy, though.
  Don't know why I still keep it.}
 {751}{}{Can I have it?}
 {752}{}{Hmmmnn. I had some other questions...}
@@ -392,7 +392,7 @@
  quality, considering his other pursuits.}
 {781}{}{Other pursuits?}
 {790}{}{He also probably wants a say in who controls the chem trade in the new California
- Republic...him. He's been looking into rigging elections down soooouth... *yawn*}
+ Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{So he's actually planning to have Reno JOIN the Republic... hmmmm. Okay, then,
  let's talk about something else...}
 {792}{}{Interesting. I wanted to know some other things about what John's been up to...}
@@ -400,8 +400,8 @@
 {801}{}{So you got your education in Vault City? That's why you sound different than
  everyone else here in New Reno?}
 {810}{}{Just attach the headgear, place the optic sensor over your right eye, then connect
- the other end... hmpphh... (Rolls over.) ..to the Pip Boy. You'll feel a slight rush,
- some nausea, then your head will feel...clearer.}
+ the other end... hmpphh... (Rolls over.) ..to the Pip-Boy. You'll feel a slight rush,
+ some nausea, then your head will feel... clearer.}
 {815}{}{Mmmmmnnn...? I don't know. Maybe John's safe in his room... he prefers keeping
  meticulous records for blackmail purposes.}
 {820}{}{(Your question is met with silence... Mrs. Bishop has fallen asleep. She has
@@ -416,14 +416,14 @@
 {900}{}{You have convinced Mrs. Bishop that she can change her life... for the better.}
 {1253}{}{.}
 {1315}{}{...' So...'}
-{1510}{}{, mmm-mmmm...mmmzmzrrm}
+{1510}{}{, mmm-mmmm... mmmzmzrrm}
 {1511}{}{... oooh... }
 {1512}{}{... mmm...}
 {1591}{}{. }
-{1665}{}{... (Mrs. Bishop...Leslie...turns over and raises herself on her elbows.)
+{1665}{}{... (Mrs. Bishop... Leslie... turns over and raises herself on her elbows.)
  His safe is trapped. So be careful, all right? You are no good to me with no
  fingers. (Smiles, rolls back over.)}
-{1760}{}{. The enhancer is in a compartment in the bottom of the safe...a thief isn't
+{1760}{}{. The enhancer is in a compartment in the bottom of the safe... a thief isn't
  going to find it unless they know what to look for.}
 {2315}{}{'...what, pray tell, do you think I can do for you?}
 {2511}{}{... mmm}

@@ -34,8 +34,8 @@
 {278}{}{Spin the dial randomly.}
 {279}{}{Examine the safe for traps again.}
 {280}{}{Leave the safe alone.}
-{290}{}{You are turning the knob...when suddenly there is a KER-KLANK. The safe is now unlocked!}
-{291}{}{You are spinning the dial randomly, when suddenly the dial catches on a number...there is a KER-KLANK. The safe
+{290}{}{You are turning the knob... when suddenly there is a KER-KLANK. The safe is now unlocked!}
+{291}{}{You are spinning the dial randomly, when suddenly the dial catches on a number... there is a KER-KLANK. The safe
  is now unlocked!}
 {292}{}{Hullo? Hulllooo? Anbody hoome?}
 {293}{}{Stop your grinnin' and drop your linen...}

@@ -74,7 +74,7 @@
 {173}{}{Saber más.}
 {174}{}{Unas cuantas preguntas más, por favor.}
 {175}{tand11}{Pero rápido. No puedo perder todo el día contigo.}
-{176}{}{Vale, yo rápido.}
+{176}{}{Ok, me hurry.}
 {177}{}{Intentaré darme prisa.}
 {178}{tand12}{Con ese uniforme que llevas me figuraba que ya lo sabías.}
 {179}{}{Uniforme en poblado mucho tiempo. Era de Morador del Refugio, hacedor de tribu.}
@@ -168,7 +168,7 @@
 {267}{}{Sólo una cosa más. ¿Y si te dijera que he encontrado el Refugio 13?}
 {268}{}{Hablaré con él. Adiós.}
 {269}{tand36}{Sólo negocios, ¿eh? De acuerdo. Quinientos, cuando esté hecho. Yo no regateo, así que tómalo o no me hagas perder el tiempo.}
-{270}{}{Guardo pero necesito preguntar preguntas.}
+{270}{}{Me take but me need ask questions.}
 {271}{}{No interesado.}
 {272}{}{Lo aceptaré pero necesito cierta información.}
 {273}{}{No estoy interesado.}

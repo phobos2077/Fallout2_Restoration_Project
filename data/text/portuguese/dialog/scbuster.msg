@@ -18,10 +18,10 @@
 {117}{}{What can you tell me about Roger Westin?}
 {118}{}{I'm looking for a meeting with Old Man Carlson. Know anybody who could help me?}
 {119}{}{Do you have a GECK?}
-{120}{}{That's nice stranger, but I ain't no charity.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested. Let it go cheap -- $500.}
 {122}{}{Hey, you already cleaned me out.}
-{123}{}{Sure, it's a deal}
+{123}{}{Sure, it's a deal.}
 {124}{}{Não, obrigado.}
 {125}{}{New California Republic - that's what it is. President Tandi and the bunch say they're trying to rebuild the old days; I figure they're just trying to grab whatever they can. Hell, I got no complaint with them - the old days is all before my time. They're kind of a prissy bunch, though - don't like slaves, gambling, whatnot. That's why I set up out here. Don't like rules - never have.}
 {126}{}{Eu vejo.}

@@ -1,5 +1,5 @@
 {100}{}{Ves a un científico bastante joven y calvo. Parece ensimismado en su trabajo.}
-{101}{}{Ves a Crocket, el científico Hubologista.}
+{101}{}{You see Crockett, the Hubologist scientist.}
 {102}{}{Ves a un científico relativamente joven y calvo. Parece un friki desaliñado.}
 {103}{}{¿Sí? ¿Qué quieres tú?}
 {104}{}{Agh. Um. Duur.}
@@ -15,7 +15,7 @@
 {114}{}{Puedo pagarte.}
 {115}{}{Te dejaré seguir viviendo.}
 {116}{}{Nada. Olvídalo.}
-{117}{}{Soy Crocket. Soy un científico y un arreglalotodo. ¿Puedo seguir haciéndolo?}
+{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
 {118}{}{No. Tengo más preguntas.}
 {119}{}{Sí, claro.}
 {120}{}{Desarrollo nuevas tecnologías y consigo mi trozo de la tarta cultista, no sé si me entiendes.}

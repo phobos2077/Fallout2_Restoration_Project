@@ -12,5 +12,5 @@
 {111}{}{No really, I couldn't.}
 {112}{}{Haw! What a joke. Get outta here, jellyfish.}
 {113}{}{Ow! You broke my nose! I quit! Don't hit me anymore!}
-{114}{}{Okay, I'm sorry. I was only joking. You won't have any more trouble from me...please, don't kill me!}
+{114}{}{Okay, I'm sorry. I was only joking. You won't have any more trouble from me... please, don't kill me!}
 {115}{}{Hey, I'm backing off. Okay, don't hit me?}

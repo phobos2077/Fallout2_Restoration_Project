@@ -31,7 +31,7 @@
 {130}{}{Gonna turn you into scraps for startin' a fight in here.}
 {131}{}{You dumbass.}
 {132}{}{You can't do that and live.}
-{133}{}{Time to take you outta' da' gene-pool}
+{133}{}{Time to take you outta' da' gene-pool.}
 {134}{}{You shoulda known better.}
 {135}{}{Sorry it had to come to this.}
 {136}{}{You loser.}
@@ -40,9 +40,9 @@
 {139}{}{Gotta pay to play, pal.}
 {140}{}{Told you to knock it off. Too bad you didn't listen.}
 {141}{}{Now we've gotta come down hard on you.}
-{142}{}{This is really going to hurt…you.}
+{142}{}{This is really going to hurt... you.}
 {143}{}{Better put up that gat, pal.}
-{144}{}{We don't want any trouble here friend. Put that away.}
+{144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Better put that piece away.}
 {146}{}{Keep it in the holster, bub.}
 {147}{}{Put that weapon away.}
@@ -61,13 +61,13 @@
 {160}{}{Play friendly.}
 {161}{}{Tenha um bom dia.}
 {162}{}{Everyone's an Ace here at Ascorti's.}
-{163}{}{So then I says to them, get your hands off my….}
+{163}{}{So then I says to them, get your hands off my...}
 {164}{}{I can't believe that someone'd be dumb enough to double up on that.}
 {165}{}{Yup, that's a sucker-bet if I ever saw one.}
 {166}{}{Man, I don't feel so great.}
 {167}{}{That Ascorti's one sharp customer.}
 {168}{}{Psst, straighten up, the boss's looking.}
-{169}{}{See, it was like this, there was at least twenty….}
+{169}{}{See, it was like this, there was at least twenty...}
 {170}{}{That Gecko pie's givin' me heartburn.}
 {171}{}{Late night last night?}
 {172}{}{You gotta still be hung over after that.}

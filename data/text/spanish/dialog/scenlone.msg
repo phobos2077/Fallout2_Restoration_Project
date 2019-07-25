@@ -27,7 +27,7 @@
 {126}{}{No, estoy buscando un GECK.}
 {127}{}{¿Ayudar? ¿Cómo?}
 {128}{}{Un lanzacohetes me da toda la paz espiritual que necesito, señora.}
-{129}{}{¡Mira la "verdadera comprensión"! (haces un gesto grosero con el dedo medio)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{¿Merk? ¿Qué es lo que quiere?}
 {131}{}{Sencillo. Te quiere muerta. Di adiós.}
 {132}{}{No sé lo que hiciste, pero tiene un contrato sobre ti.}

@@ -5,15 +5,15 @@
 {152}{}{[HABLAR]}
 {153}{}{Hola, forasteros, y bienvenido a mi salón. Soy Becky.}
 {154}{}{Hola, me llamo }
-{155}{}{. ¿Qué se puede hacer por aquí?}
-{156}{}{Hola, me llamo }
+{155}{}{. What's there to do around here?}
+{156}{}{Hi, I'm }
 {157}{}{. ¿Puedo hacer algunas preguntas?}
 {158}{}{¿Mamá?}
 {159}{}{Mag gah.}
 {160}{}{Largo. Aquí no queremos a los tuyos.}
 {161}{}{Mmmm...}
 {162}{}{Jódete.}
-{163}{}{Me largo.}
+{163}{}{Me voy.}
 {164}{}{Lo siento, no quería ofenderte. ¿Puedo hacerte una pregunta?}
 {165}{}{La copa de whisky son 5 dólares y las mesas de juego están justo allí. Que tengas suerte.}
 {166}{}{¿Puedo hacerte una pregunta?}

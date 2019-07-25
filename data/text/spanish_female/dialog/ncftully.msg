@@ -209,12 +209,12 @@
  el pecado, puede… eh, esto… ¿qué demonios e-estaba diciendo?}
 {691}{}{Acerca de la señora Wright en el confesionario…}
 {692}{}{Estaba hablando de la familia Wright…}
-{693}{}{No importa. Tenía algunas otras preguntas…}
+{693}{}{No importa. Tenía algunas otras preguntas...}
 {694}{}{Nada más, creo. Gracias por hablar conmigo.}
 {700}{}{Oh, clado, clado. Bien, eh, en el confesionadio, no tenía mucho que decid. Casi todo eda culpabilidad por entdometedse… o por
  disfdutad el sexo con su mar-ridito más de la cuenta. Je-je. (Toma un trago). Me encaaaaanta la culpabilidad.}
 {701}{}{Tenía algunas preguntas más acerca de los Wright…}
-{702}{}{Ya veo. Tenía algunas preguntas más…}
+{702}{}{Ya veo. Tenías algunas preguntas más...}
 {703}{}{Se nota. Gracias por hablar conmigo.}
 {710}{}{¿El viejo Odville? Bueno, tiene mucha culpabilidad sobde sus hombdos. Vedás, le pdometió a su señora que dejadía el negocio del al-alcohol, ¡pe-pero
  tiene una destiledía secdeta en la estación de tden, tdas la casa! Ella le sacudidía a base de bien si se entedase…}
@@ -281,7 +281,7 @@
 {842}{}{Hmmmm. Un tanque de oxígeno, ¿eh? Interesante. Bien, gracias por charlar conmigo, Padre.}
 {850}{}{Ese pobde chico… el Jet lo sepadó de su familia, eso hizo. ¡Esa maldita podquedía! El peod veneno pada la mente que se haya inventado…}
 {852}{}{¿Sabe de dónde consiguió Richard el Jet que lo mató?}
-{853}{}{Tenía algunas preguntas más…}
+{853}{}{Tenía algunas preguntas más...}
 {854}{}{Ya veo. Gracias por hablar conmigo, Padre.}
 {860}{}{¡Lo pudo conseguid de cualquieda en Nuevo Deno! ¡Hay una fadmacia justo al otdo lado de la calle didigida pod un tdaficante de ddogas, y si
  él no te vende, detén a cualquieda en la calle! ¡Maldito Jet!}
@@ -314,7 +314,7 @@
 {2003}{}{Alright, if I'm interpreting your drunken ramblings correctly, then it sounds like you came from some sort of monastery, where you did a
  lot of drinking with some guy named Samuel. Father, if you could point out its location on my map, then maybe I could go meet your friend and try
  some of this hooch you're so fond of.}
-{2004}{}{(You pull out your PipBoy and hold it out for Father Tully to point out the location. He first points at the ocean, then at a random
+{2004}{}{(You pull out your Pip-Boy and hold it out for Father Tully to point out the location. He first points at the ocean, then at a random
  mountain range to the south. After almost poking his eye out, he finally settles his finger on the northeast corner of the map.) Yep, there'z
  the Abbey. That seemz bout right.}
 {2005}{}{I appreciate it, Father. I have some other questions though.}
@@ -325,8 +325,8 @@
  the sleepin monks, and put their handz in bowls a warm water. Even got the Abbot! Ha! Those were the dayz, lemme tell ya.}
 {2009}{}{That's pretty childish, Father. I take it you were eventually kicked out?}
 {2010}{}{Right. I've had enough of these amateur drunk stories. See you around, Father.}
-{2011}{}{I dunno if I'd say they *kicked* me out... but they zure as hell didn't want me to stick around—not after that night I passed out and
- axidently set fire to one a th' lieberrys. Boy, you shoulda seen the Abbot's face… if he had half a backbone, he'd a prolly strangled me. Ha! So I
+{2011}{}{I dunno if I'd say they *kicked* me out... but they zure as hell didn't want me to stick around--not after that night I passed out and
+ axidently set fire to one a th' lieberrys. Boy, you shoulda seen the Abbot's face... if he had half a backbone, he'd a prolly strangled me. Ha! So I
  left, and good riddenze! I sure do miss that hooch though. And Samuel, it'd be nice ta know how that ol' dog's doing.}
 {2012}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll look up this Samuel friend of yours. Hell, maybe
  I'll even bring you back some of that booze.}
@@ -343,7 +343,7 @@
 {2024}{}{Yeah, I got some right here.}
 {2025}{}{I did, but I drank it. Wow is it powerful stuff.}
 {2026}{}{No, no lo he hecho.}
-{2027}{}{No need ta rub it in my face. Itz been so long since I've had some...I could really go for a bottle or two. Any chance you'll stop by the Abbey again?}
+{2027}{}{No need ta rub it in my face. Itz been so long since I've had some... I could really go for a bottle or two. Any chance you'll stop by the Abbey again?}
 {2028}{}{Thatz too bad. Itz been so long since I've had some. I could really go for a bottle or two. Any chance you
  will be stopping by the Abbey again?}
 {2029}{}{You do? Itz been so long since I've had some. Would you be willing to part with it?}

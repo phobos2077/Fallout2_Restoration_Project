@@ -8,7 +8,7 @@
 {156}{}{Yes, I need to see Vegeir immediately.}
 {160}{}{You're dumber than dirt, aren't you! If you want to see Vegeir, you can just go find him yourself.}
 {200}{}{I don't trust "surfacers."}
-{201}{}{Vegeir said not to harm you...YET!}
+{201}{}{Vegeir said not to harm you... YET!}
 {202}{}{We are charged with protecting our people.}
 {203}{}{I'm watching you.}
 {220}{}{I guess you're OK... for a "surfacer."}

@@ -70,5 +70,5 @@
 {165}{}{¿Los siervos? Oh, los usamos en tareas de baja categoría.}
 {166}{}{Hmmmm. Necesito conseguir un siervo para limpiar el almacén...}
 {167}{}{Un siervo debería venir por aquí a encargarse de las malas hierbas del jardín...}
-{168}{}{Sí, ya huelo... er, veo, que eres un forastero.}
+{168}{}{Sí, ya huelo... er, ya veo que eres un forastero.}
 {169}{}{¿Eres un forastero? Qué pintoresco.}

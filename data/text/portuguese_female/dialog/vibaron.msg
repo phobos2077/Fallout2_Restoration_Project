@@ -43,7 +43,7 @@
 {310}{}{Now you're speaking my language! Alright, it's a deal. [He greedily snatches the money from you and shakes your hand.]}
 {311}{}{Prazer fazer negócios com você. Tchau.}
 {312}{}{Adeus.}
-{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal}
+{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
 {321}{}{I don't have that much. Bye.}
 {322}{}{Alright, fine. $1,000 it is.}
 {323}{}{No deal. Goodbye.}

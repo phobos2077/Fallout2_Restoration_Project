@@ -15,7 +15,7 @@
 {131}{}{RMRRCT?}
 {132}{}{A robot, huh? Let me see what I can find out about that.}
 {133}{}{Fim de sessão.}
-{140}{}{This terminal is used to input command data for the robotic maintenance and repair unit assigned to Poseidon Oil—Reactor #5. This terminal also allows access to PoseidoNet.}
+{140}{}{This terminal is used to input command data for the robotic maintenance and repair unit assigned to Poseidon Oil--Reactor #5. This terminal also allows access to PoseidoNet.}
 {141}{}{A Robot? Let me see what I can find out about that.}
 {142}{}{Some kind of network, huh? I wonder if I can access that.}
 {143}{}{Fim de sessão.}
@@ -45,7 +45,7 @@
 {185}{}{A1546761}
 {186}{}{5B576005}
 {187}{}{Fim de sessão.}
-{190}{}{Tertiary Functional Access Code Accepted. RM&RR Unit warming up… Unit ready for service. Service Procedure?:}
+{190}{}{Tertiary Functional Access Code Accepted. RM&RR Unit warming up... Unit ready for service. Service Procedure?:}
 {191}{}{RM&RR unit ready for service. Service Procedure?:}
 {192}{}{Initiate General Maintenance Sequence.}
 {193}{}{Initiate Coolant Maintenance Sequence.}
@@ -56,7 +56,7 @@
 {201}{}{Load current service procedure.}
 {202}{}{Voltar.}
 {203}{}{Fim de sessão.}
-{210}{}{Searching…Service Procedure update not available locally.}
+{210}{}{Searching... Service Procedure update not available locally.}
 {211}{}{Voltar.}
 {212}{}{Download.}
 {213}{}{Fim de sessão.}
@@ -101,23 +101,23 @@
 {331}{}{Download Maintenance Robot Routines.}
 {332}{}{List other stations.}
 {333}{}{Fim de sessão.}
-{340}{}{Searching…. Maintenance Robot Routines not found.}
+{340}{}{Searching... Maintenance Robot Routines not found.}
 {341}{}{Hmm, I guess they're not here.}
 {342}{}{Station list.}
 {343}{}{Fim de sessão.}
-{350}{}{Searching Comlinks...Searching... Iron Mountain…Offline, NORAD...Offline, SAC…Offline. Searching PoseidoNet... --More?--}
+{350}{}{Searching Comlinks... Searching... Iron Mountain... Offline, NORAD... Offline, SAC... Offline. Searching PoseidoNet... --More?--}
 {351}{}{Download Maintenance Robot Routines.}
 {352}{}{More.}
 {353}{}{Fim de sessão.}
-{360}{}{Active PoseidoNet Stations: Atomic Powerplant #5, Navarro Refinery, Control Station ENCLAVE, ENCLAVE Vault-Research Control…AccessDenied}
+{360}{}{Active PoseidoNet Stations: Atomic Powerplant #5, Navarro Refinery, Control Station ENCLAVE, ENCLAVE Vault-Research Control... AccessDenied}
 {361}{}{Lights are on, but nobody's home. }
 {362}{}{Everything's shut down except for the ENCLAVE Vault-Research Control. I wonder what that is?}
 {363}{}{Hmm, seems as though stuff is either offline or closed. Oh, well.}
-{370}{}{Accessing...Enclave Station Access denied.}
-{371}{}{Accessing...again... Enclave Station Access denied.}
-{372}{}{Accessing...yet again...persistent little cuss aren't you? ... Enclave Station Access denied.}
-{373}{}{Accessing...yet again...aren't you getting tired of this yet?... Enclave Station Access denied.}
-{374}{}{Accessing...yet again...don't you have anything better to do with your time?...Enclave Station Access denied.}
+{370}{}{Accessing... Enclave Station Access denied.}
+{371}{}{Accessing... again... Enclave Station Access denied.}
+{372}{}{Accessing... yet again... persistent little cuss aren't you? ... Enclave Station Access denied.}
+{373}{}{Accessing... yet again... aren't you getting tired of this yet?... Enclave Station Access denied.}
+{374}{}{Accessing... yet again... don't you have anything better to do with your time?...Enclave Station Access denied.}
 {375}{}{That's it. I've had enough of this constant prodding. If you try just one more time, you're going to regret it.}
 {376}{}{Don't say I didn't warn you. (Just as you read this you feel a surge of electricity arcing through your fingers from the keyboard.)}
 {377}{}{Maybe I should try again?}
@@ -126,13 +126,13 @@
 {380}{}{Hydroelectric Magnetosphere Regulator required before Repair sequence can commence.}
 {381}{}{Initiate Coolant Maintenance}
 {382}{}{Fim de sessão.}
-{390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning...Part within nominal QA constraints... Transfer to repair unit completed...Proceed?}
+{390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning... Part within nominal QA constraints... Transfer to repair unit completed... Proceed?}
 {391}{}{Sim.}
 {392}{}{Fim de sessão.}
 {400}{}{Logic Circuits damaged. In emergency, RM&RR unit may be directed manually.}
 {401}{}{Well, that explains that. I guess I'll give it a try.}
 {402}{}{Hmm, that doesn't sound too promising. I'm going to Logoff.}
-{410}{}{RM&RR unit roll-out initiated. Checking Drive Systems...OK, Checking-Manipulator Arm...OK, Checking Internal Stabilizer...OK, Logic Circuits...FAIL.}
+{410}{}{RM&RR unit roll-out initiated. Checking Drive Systems... OK, Checking-Manipulator Arm... OK, Checking Internal Stabilizer... OK, Logic Circuits... FAIL.}
 {411}{}{The Logic Circuits failed. I wonder what that means.}
 {412}{}{Looks like more of it works than doesn't. Let's get going here.}
 {420}{}{Job-task location recognition inoperative. Unit not capable of recognizing movement locations at extended distances. Recommend: Move unit to intermediary locations as waypoints to final job-task location.}
@@ -176,13 +176,13 @@
 {512}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 75% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
 {514}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 80% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
 {516}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 85% of unit tolerance. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. . Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
 {520}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 95% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Turn Left.}
 {524}{}{Turn Right.}
 {526}{}{Move Forward.}
 {530}{}{Perform Procedure: Install Hydroelectric Magnetosphere Regulator}
-{531}{}{Perform Procedure: Turn Main Coolant Valve—Off}
+{531}{}{Perform Procedure: Turn Main Coolant Valve--Off}
 {535}{}{Emergency Manual RM&RR Unit Control:}
 {540}{}{Add a command.}
 {541}{}{List program.}

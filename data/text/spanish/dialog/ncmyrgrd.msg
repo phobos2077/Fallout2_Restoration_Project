@@ -99,7 +99,7 @@
 {475}{}{¿Myron te espera?}
 {477}{}{Sí. ¿Puedo entrar? Tenemos negocios que discutir.}
 {478}{}{No, ahora mismo no. Cuidaos, chicos.}
-{479}{}{Sí. ¿Puedo entrar? Tenemos "negocios" que discutir. Si sabes a lo que me refiero. (Guiño a la guardia)}
+{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
 {480}{}{Jeje, seguro que sí. Trate de no hacer demasiado lío mientras estás aquí. (Para si mismo) Maldición, Myron es un hombre muy afortunado.}
 {485}{}{Myron no está.}
 {487}{}{¿Puedo entrar de todas formas?}

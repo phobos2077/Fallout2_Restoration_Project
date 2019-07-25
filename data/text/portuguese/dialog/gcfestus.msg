@@ -31,7 +31,7 @@
 {151}{}{Hmm. What did you say you do here?}
 {152}{}{Ah, yes. Well, I'd better be going now. Goodbye.}
 {160}{}{Know about atomic power? Well, I almost invented it. I know more about atomic power than anyone
- alive. If it's atomic power -— I'm your man.}
+ alive. If it's atomic power -- I'm your man.}
 {161}{}{Hmm. What did you say you do here?}
 {162}{}{Ah, yes. Well, I'd better be going now. Goodbye.}
 {170}{}{You know, I really do run the whole thing. It's pretty tough. But I do have many years of
@@ -81,7 +81,7 @@
 {270}{}{Okay, I'm here. But I'm still not sure that this isn't the right part, or that it's not a trap
  somehow. You know, I'm much too valuable to waste. Maybe I should just let someone else do this...
  later... much later.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all Gecko
+{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
  depends on you!}
 {272}{}{I guess you're right. I better find another way to install the part.}
 {300}{}{Well, it sure uses a lot of uranium. And it leaks some. You know, I've asked somebody to fix it,
@@ -146,7 +146,7 @@
  Understand me?}
 {444}{}{I need one for- Hey, isn't that Fershlubiner Widget Activator running in the red?}
 {450}{}{Well, okay. Here's your Part Requisition Form. I guess you have your reasons for needing it.}
-{451}{}{Well, okay. Here's your…Hey? Where'd I put that darn thing? It must be here somewhere… Hmm, I guess
+{451}{}{Well, okay. Here's your... Hey? Where'd I put that darn thing? It must be here somewhere... Hmm, I guess
  I can't find it right now. It'll turn up, though.}
 {452}{}{Obrigado. Adeus.}
 {453}{}{Oh, well. Maybe I'll come back later, then. Goodbye.}
@@ -220,7 +220,7 @@
 {824}{}{Hurry up!}
 {825}{}{Thanks for getting the data we needed from Vault City to optimize this leaky old beast.
  You're a sly one, no denying it, by cracky. Almost as good a job as I could have done myself.
- 'Course...if'n you wanna actually *finish* the dang job, just use that disk on the Robot Control Terminal.
+ 'Course... if'n you wanna actually *finish* the dang job, just use that disk on the Robot Control Terminal.
  Understand me? Well, OK then.}
 {826}{}{Well, I didn't like leaving the job only half-done. Goodbye, Festus.}
 {827}{}{Yeah, I bet you would have done it. You festering windbag. Goodbye.}

@@ -1,5 +1,5 @@
 {100}{}{That's it... I think.}
-{101}{}{No, but it can't... I, well...hmmm...}
+{101}{}{No, but it can't... I, well... hmmm...}
 {102}{}{The blue wire to the red housing...}
 {103}{}{Those mutations are progressing nicely.}
 {104}{}{It won't be long now.}
@@ -35,7 +35,7 @@
 {201}{}{Who are the people over there in those cages?}
 {202}{}{What's all the funny colored liquid I've seen around the EPA?}
 {203}{}{Where do you get all of the equipment from?}
-{210}{}{Those in the first cells over by that wall are some villagers that wandered in here by mistake and I captured them for use later on. The other stronger-looking ones are my own warriors for...emergencies.}
+{210}{}{Those in the first cells over by that wall are some villagers that wandered in here by mistake and I captured them for use later on. The other stronger-looking ones are my own warriors for... emergencies.}
 {211}{}{...for use later? What do you mean?}
 {212}{}{Gracias. ¿Puedo preguntarte otra cosa?}
 {213}{}{Right. Thanks. I must be going now.}
@@ -116,7 +116,7 @@
 {490}{}{Have you collected the pelts as I requested?}
 {491}{}{Si, aquí están.}
 {492}{}{No, aún no.}
-{500}{}{Wonderful! Excellent! Let me see...ahh yes, these will do nicely! Now then, do you want another job?}
+{500}{}{Wonderful! Excellent! Let me see... ahh yes, these will do nicely! Now then, do you want another job?}
 {501}{}{Sí, si tienes alguna otra cosa.}
 {502}{}{Aún no, gracias. Adiós.}
 {510}{}{Well, although the warehouse is where I do almost all of my work, I still need to enter the main complex from time to time. However, the lights have been permanently fixed on low setting. Sort this out for me so I can enter the EPA building itself.}
@@ -131,7 +131,7 @@
 {532}{}{¿Qué tienes para hacer?}
 {533}{}{No, sigo trabajando en ello.}
 {540}{}{I am experimenting with a new serum at the moment to improve the agility and awareness of people to help them survive in this harsh world. You'd allow me to try it on you, wouldn't you?}
-{541}{}{Well...I suppose so, what harm could it do?}
+{541}{}{Well... I suppose so, what harm could it do?}
 {550}{}{More than you'd ever believe if it goes wrong... Now hold still and let's get down to it!}
 {551}{}{¡Eh, eh! Espere un minuto...}
 {560}{}{Ahh, there you are! Back in the land of the living, I see! How do you feel?}
@@ -154,7 +154,7 @@
 {704}{}{But, the great war was over many, many years ago.}
 {705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
 {706}{}{[MÁS]}
-{707}{}{I couldn't believe their scientific short-sightedness...their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
+{707}{}{I couldn't believe their scientific short-sightedness... their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
 {708}{}{You killed them!?}
 {709}{}{Comprensible.}
 {710}{}{Por favor, continúa.}
@@ -175,7 +175,7 @@
 {725}{}{Thanks for the information, Doctor. I guess I would still like to know about a few other things.}
 {726}{}{Thanks for the information, Doctor. Who knows? Information like that just might prove useful someday. Goodbye.}
 {727}{}{Well, enough chit-chat. I should be going. Goodbye, Doctor.}
-{728}{}{No, it just wouldn't do to have them stay here interfering with my plans...not at all... [The Doctor gazes past you seemingly lost in his thoughts.]}
+{728}{}{No, it just wouldn't do to have them stay here interfering with my plans... not at all... [The Doctor gazes past you seemingly lost in his thoughts.]}
 {729}{}{You know, you are one twisted person. I think I am going to have to show you how I 'experiment' on people. Time to die!}
 {730}{}{So, are you happy with this situation? I mean, being the only one here?}
 {731}{}{¿Qué más quieres saber?}
@@ -191,7 +191,7 @@
 {806}{}{Well, wait. Are you sure you won't help me with a little something?}
 {810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}
 {811}{}{[HECHO]}
-{820}{}{That's too bad. Well, I must be getting back to work. [To himself.] Almost had him. Now, where am I going to find another test subject…}
+{820}{}{That's too bad. Well, I must be getting back to work. [To himself.] Almost had him. Now, where am I going to find another test subject...}
 {821}{}{[HECHO]}
 {830}{}{[The man looks up startled.] What the-?!}
 {831}{}{I'm still looking for your part.}

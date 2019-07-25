@@ -3,7 +3,7 @@
 {102}{}{Ves a Sims.}
 {150}{}{Ves a un hombre harapiento. Está acurrucado cerca de un bidón con fuego, cantando. Tiene una voz muy bonita.}
 {151}{}{Ves a un cantante. Está acurrucado cerca de un bidón con fuego, cantando.}
-{200}{}{Hey… }
+{200}{}{Eh...}
 {203}{}{¿Te ayudamos en algo, hijo?}
 {204}{}{::Se toca un sombrero imaginario.:: ¿Te ayudamos en algo, señora?}
 {205}{}{¿Conocéis 'Rema rema bote por la corriente'?}
@@ -60,7 +60,7 @@
 {921}{}{Y mi imaginación hará vivir este momento…}
 {923}{}{Dame lo que sólo tú puedes darme}
 {925}{}{::Trompeteo con la boca::}
-{930}{}{Yo… estaré contiiiigo}
+{930}{}{I'll... be with yoooou}
 {933}{}{Ohhhh}
 {935}{}{Labios un sólo momento}
 {937}{}{Harán vivir ese momento}

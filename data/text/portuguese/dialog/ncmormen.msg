@@ -15,11 +15,11 @@
 {215}{}{What you creeping around for, eh, }
 {220}{}{Got any Jet on you, homes?}
 {221}{}{Hey, }
-{222}{}{Sure could use a drink. Damn…}
+{222}{}{Sure could use a drink. Damn...}
 {223}{}{Sheee-it, it's hot.}
 {224}{}{Any news from the top, eh, }
 {230}{}{Yo! Cabron! You looking for th' Angel o' Death? Beat it!}
-{231}{}{What the fu…you! You, what're you doing here?}
+{231}{}{What the fu... you! You, what're you doing here?}
 {232}{}{Yo! Puta! You looking for th' Angel o' Death? Beat it!}
 {235}{}{Yo! Sorry hombre, you can't be carrying that around in here.}
 {236}{}{Yo! Homes, put that thing away 'fore you start making people nervous.}
@@ -45,8 +45,8 @@
 {270}{}{You got the spirit to be a Mordino.}
 {271}{}{Last fight was something out of an epic, chica.}
 {272}{}{Where you work out, eh? Need a spotter?}
-{273}{}{Watch out for the Masticator. He likes to eat ears…he's one sick fella.}
-{280}{}{Hey, hey, hey! Chica, you need to me to put that weapon away for you?}
+{273}{}{Watch out for the Masticator. He likes to eat ears... he's one sick fella.}
+{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
 {281}{}{What, you want me to strip search you and all? C'mon, shoulder that iron 'fore I have to get rough.}
 {285}{}{What the hell you sneaking around for, }
 {290}{}{No way you're sneaking by a Mordino with a bod like that, chica.}
@@ -62,7 +62,7 @@
 {304}{}{You got any friends?}
 {305}{}{You are doin' the right thing, brushing up with the Mordinos. We're going places.}
 {306}{}{You need some Jet? I can set you up, chica.}
-{307}{}{Chica, there ain't nothing I wouldn't do for you…c'mon, now. Give me a leetle kiss.}
+{307}{}{Chica, there ain't nothing I wouldn't do for you... c'mon, now. Give me a leetle kiss.}
 {308}{}{Need some chems? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
 {315}{}{Don't be showing iron around here, friend. Put that away.}
 {320}{}{Don't be sneakin' around, slaver, all right? You're among friends.}
@@ -92,7 +92,7 @@
 {371}{}{How's it hanging? Hangs like a hammer, man, thaz all.}
 {372}{}{Heh? ::Spits:: Whazzup, }
 {373}{}{Good t'see you, }
-{374}{}{Sure could use a drink. Damn…}
+{374}{}{Sure could use a drink. Damn...}
 {375}{}{Y'know, same old, same old. How's with you, }
 {376}{}{Sheee-it, it's hot.}
 {377}{}{Big Man Mordino doing all right? Tell him I'm looking out for him, eh, }
@@ -106,7 +106,7 @@
 {400}{}{You got some cojones coming around here. I suggest you lose 'em and walk.}
 {401}{}{Your mother shoulda been in a kennel, from the looks of you.}
 {402}{}{You look like a man who don't know when he's about to die.}
-{403}{}{Hijo de puta…}
+{403}{}{Hijo de puta...}
 {404}{}{You talking to me? You talking to me?}
 {405}{}{Talk to me again, and I'll fill you so full o' lead even Superman couldn't see through you.}
 {406}{}{::Spits at your feet::}
@@ -117,10 +117,10 @@
 {411}{}{Talk to me again, puta, and I'll fill you so full o' lead even Superman couldn't see through you.}
 {412}{}{Ain't you better be getting back to your kennel, puta?}
 {413}{}{You must be the stupidest puta in all th'world to even talk to me.}
-{414}{}{Hija de puta…}
-{420}{}{Naw, I ain't the guy to talk to about slaves…you should talk to Lil' Jesus.}
+{414}{}{Hija de puta...}
+{420}{}{Naw, I ain't the guy to talk to about slaves... you should talk to Lil' Jesus.}
 {421}{}{When are you going be bringing down some good-looking slaves? Sorry crop last season, slaver. Shabby.}
-{422}{}{Mordinos don't need no slaves to get it on. Course if you got any you need to unload…}
+{422}{}{Mordinos don't need no slaves to get it on. Course if you got any you need to unload...}
 {423}{}{I ain't the person to talk to about dealing with slaves.}
 {424}{}{You're doin' the right thing, brushing up with the Mordinos. We're going places.}
 {425}{}{How's things at the Den, eh?}
@@ -130,11 +130,11 @@
 {437}{}{Blow, tribal.}
 {438}{}{I ain't got TIME for you right now.}
 {439}{}{Get outta here.}
-{440}{}{Tribal trash…}
+{440}{}{Tribal trash...}
 {441}{}{What the hell YOU want, tribal?}
 {442}{}{I ain't got TIME for you right now.}
 {443}{}{Get.}
-{444}{}{Tribal trash…}
+{444}{}{Tribal trash...}
 {445}{}{I ain't gonna give you any Jet no matter how much you beg. Git.}
 {446}{}{Look, I AIN'T your brother, so don't be talking to me no more.}
 {447}{}{Look, I need a whore, I'll go buy one. Now git, chica.}
@@ -145,7 +145,7 @@
 {462}{}{You Ramirez? Big Jesus gave me this package to give to you.}
 {463}{}{No trouble. I'll be going.}
 {470}{}{(Takes box.) 'Bout time. We runnin' almost outta Jet. (Sniffs, coughs slightly.) Can't imagine where it all
- goes...eh?}
+ goes... eh?}
 {471}{}{Yeah, well, you take care now --}
 {472}{}{Judging by your Jet cough and the way you're rubbing your nose, I am at a loss to say where all the Jet delivered here goes.}
 {473}{}{Big J, see, he takes care of us, eh? Just last week, I caught three slaves who was dumb enough to run.
@@ -153,12 +153,12 @@
 {474}{}{Yeah, great. You take care, now.}
 {475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-reliant
  guards such as yourself.}
-{476}{}{Ramirez...be careful what you say to me, all right? Don't let your mouth get your ass into trouble.}
+{476}{}{Ramirez... be careful what you say to me, all right? Don't let your mouth get your ass into trouble.}
 {480}{}{(Blinks.) Eh...? What you say?}
 {481}{}{Nothing you'd understand or I'd care to repeat right now. You take care, okay?}
 {482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
  perceptive, Jet-reliant guards such as yourself."}
-{490}{}{(Blinks, smiles in confusion.) Eh? Yeah, yeah. I'm sharp, see...per-septive...I'm a GUARD, right?}
+{490}{}{(Blinks, smiles in confusion.) Eh? Yeah, yeah. I'm sharp, see... per-septive... I'm a GUARD, right?}
 {491}{}{Yeah, you mentioned that before. If I were you, Ramirez, I'd do all humanity a favor and take that entire box
  of Jet all at once. See you.}
 {492}{}{Boy, am I glad someone had the wisdom to give you all automatic weapons. Makes me feel safe. Later, Ramirez.}
@@ -189,7 +189,7 @@
 {1285}{}{? C'mon, walk tall.}
 {1297}{}{! Que pasa? You gonna set me up with the Brothers, or what?}
 {1298}{}{, box office!}
-{1300}{}{… c'mon. I can DO it.}
+{1300}{}{... c'mon. I can DO it.}
 {1357}{}{! Way to kick the Enclave's ass!}
 {1358}{}{, way to teach them Enclave bastards how things are done DOWNTOWN.}
 {1372}{}{?}

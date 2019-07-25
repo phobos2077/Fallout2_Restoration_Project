@@ -26,5 +26,5 @@
 {290}{}{Mientras buscabas una trampa en la caja fuerte, ocurre una explosión.}
 {291}{}{Tiraste del cable equivocado al desarmar la trampa.}
 {300}{}{Escuchas un fragor sordo, escaleras arriba.}
-{400}{}{Levantas un pequeño panel en el fondo de la caja. Crees que no lo habrías encontrado
- si la señora Bishop no te hubiera hablado de él. Dentro hay un extraño accesorio para un PipBoy.}
+{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
+ if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
