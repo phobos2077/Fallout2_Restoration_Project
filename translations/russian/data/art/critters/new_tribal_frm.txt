@@ -1,0 +1,15 @@
+===================================
+New Tribal FRM by .Pixote
+===================================
+
+Фикс добавляет 67 анимаций для отображения ударов ножом, кувалдой и стрельбы из пистолета-пулемета (последнее, только для мужского типажа) для дикаря.
+
+Copy these files into the Fallout2/data/art/critters folder. 
+ This will allow the Tribal critter you play at the Temple of Trials the ablilty to use Knife - Hammer - and SMG animations, included are the missing death animations.
+ This will allow the female Tribal critter you play at the Temple of Trials the ablilty to use Knife - Hammer, included are the missing death animations.
+
+Enjoy...Pixote.
+
+===================================
+#Pyran
+===================================
