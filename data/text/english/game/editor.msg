@@ -95,18 +95,18 @@
 #
 # Abbreviated Derived/Non Derived stat names
 #
-{300}{}{Hit Points}
+{300}{editor}{Hit Points}              # spanish: line too long, separated
 {301}{}{Action Points }
-{302}{}{Armor Class}
+{302}{editor}{Armor Class}             # spanish: line too long, separated
 {303}{}{Unarmed Damage}
 {304}{}{Melee Damage}
 {305}{}{Damage Res.  }
 {306}{}{Poison Res.   }
 {307}{}{Radiation Res.}
-{308}{}{Sequence}
-{309}{}{Healing Rate}
-{310}{}{Critical Chance}
-{311}{}{Carry Weight}
+{308}{editor}{Sequence}                # spanish: line too long, separated
+{309}{editor}{Healing Rate}            # spanish: line too long, separated
+{310}{editor}{Critical Chance}         # spanish: line too long, separated
+{311}{editor}{Carry Weight}            # spanish: line too long, separated
 {312}{}{Poisoned}
 {313}{}{Radiated}
 {314}{}{Eye Damage}
