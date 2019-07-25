@@ -1,1 +1,0 @@
-{100}{}{Hay una placa en la base. Dice, "Al Forastero y el Refugio 13: Lo que no existe, a veces debe soñarse y permitir que nuestros sueños nos inspiren a alturas mayores. Así fue con el Forastero y su creencia en la leyenda del Refugio 13.}
