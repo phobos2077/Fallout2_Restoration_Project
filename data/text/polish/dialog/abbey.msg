@@ -1,0 +1,1 @@
+{100}{}{Trafiasz na obszar ma³ego klasztoru i osady zbudowanej wokó³ niego.}

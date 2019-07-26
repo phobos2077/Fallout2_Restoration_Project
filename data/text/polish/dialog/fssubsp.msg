@@ -1,0 +1,2 @@
+{100}{}{Schodzisz po zardzewia³ej drabinie do wnêtrza okrêtu podwodnego. W œrodku panuje mrok, rozœwietlany jedynie przez s³abe œwiat³o nielicznych dzia³aj¹cych monitorów. Powietrze jest ciê¿kie od smrodu rdzy i rozk³adu. Czujesz siê klaustrofobicznie i niepewnie.}
+{101}{}{Schodzisz po zardzewia³ej drabinie do wnêtrza okrêtu podwodnego. W œrodku panuje mrok, rozœwietlany jedynie przez s³abe œwiat³o nielicznych dzia³aj¹cych monitorów. Powietrze jest ciê¿kie od smrodu rdzy i rozk³adu. Czujesz siê prawie jak w domu.}

@@ -1,0 +1,1 @@
+{100}{}{Przy podstawie znajduje siê tablica. Mo¿na nie niej przeczytaæ: "Przybyszowi i Krypcie 13: To, co nie istnieje, musimy czasem sami stworzyæ w naszych marzeniach i pozwoliæ im inspirowaæ siê do wiêkszego wysi³ku. Tak te¿ by³o z Przybyszem i jego wiar¹ w legendê o Krypcie 13."}

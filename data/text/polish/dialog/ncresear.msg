@@ -1,0 +1,170 @@
+# 0. QUICK LOOK [FEMALE]
+{100}{}{Widzisz szefow¹ dzia³u badañ, Marjorie Reed.}
+
+# 0. LOOK [FEMALE]
+{150}{}{Widzisz zmêczon¹ kobietê. Jej g³owê ogolono na ³yso. Ma na sobie bia³y kitel.}
+{151}{}{Widzisz Marjorie Reed. Przegl¹da w³aœnie wyniki badañ mrucz¹c coœ do siebie pod nosem.}
+
+# 1. FLOAT (COMPANION = MYRON)
+{200}{}{Witaj, Myron.}
+{201}{}{Myron, mogê ciê na chwilê prosiæ?}
+{202}{}{Myron, wiesz mo¿e, kiedy dostaniemy nowy transport niewolników?}
+{203}{}{Myron, wyniki ostatnich badañ s¹ bardzo obiecuj¹ce.}
+{204}{}{Myron, masz woln¹ chwilê?}
+
+# 2. FLOAT (NORMAL)
+{215}{}{Gdzie do diab³a jest Myron}
+{216}{}{Œci¹gnijcie tu Myrona. Musi to zobaczyæ.}
+{217}{}{Ci cholerni niewolnicy mogliby siê wreszcie zamkn¹æ.}
+{218}{}{Gdzie ja zostawi³am tê strzykawkê...}
+{219}{}{Czy ktoœ widzia³ Numer 31? By³ tutaj dos³ownie przed chwil¹.}
+{220}{}{Niech niewolnicy przynios¹ wiêcej Jetu Beta.}
+{221}{}{Wyniki testów nad Jetem Beta s¹ bardzo obiecuj¹ce, ale...}
+{222}{}{Czas dzia³ania wynosi od 15 minut do godziny... policzmy jedn¹ dzia³kê na godzinê... hmmm.}
+{223}{}{Nie. Numer 12 wci¹¿ ma krwawienia z nosa...}
+{224}{}{To ju¿ pi¹ty atak u Numeru 12... zwiêkszcie dawkê, zobaczymy co siê stanie...}
+{225}{}{Dobrze, ale JAKIE halucynacje mia³ konkretnie?}
+{226}{}{SprawdŸcie jego puls. Jeœli mieœci siê w granicach tolerancji, zwiêkszcie dawkê.}
+{227}{}{Dlaczego ta niewolnica z grupy nadzorczej pope³ni³a samobójstwo? Przecie¿ nie przeprowadzaliœmy jeszcze na niej ¿adnych eksperymentów!}
+{228}{}{Cholerni stra¿nicy s¹ zupe³nie do niczego...}
+
+# 3. CLICK (COMPANION = MYRON)
+{235}{}{Dzieñ dobry, panie Myron. Testy przebiegaj¹ zgodnie z planem.}
+{236}{}{Panie Myron, ten nowy rodzaj Jetu jest niesamowicie uzale¿niaj¹cy. Nasi niewolnicy gotowi s¹ dla niego zabiæ.}
+{237}{}{Ucieszy siê pan zapewne s³ysz¹c, ¿e nasi niewolnicy gotowi s¹ zrezygnowaæ z jedzenia, ¿eby tylko dostawaæ kolejne dzia³ki Jetu Beta.}
+{238}{}{Co to za ludzie? Nowe obiekty?}
+{239}{}{Trzecia grupa ma zdecydowanie najlepsze wyniki ze wszystkich.}
+{240}{}{Myron, jeœli znalaz³by pan chwilê czasu... Moim zdaniem w sk³ad kolejnej grupy powinno wejœæ co najmniej troje dzieci.}
+{241}{}{Numer 46 mia³ atak serca. Postanowiliœmy zmniejszyæ dozowanie do szeœciu dzia³ek dziennie.}
+{242}{}{Panie Myron... pilnie potrzebujemy kolejnej dostawy strzykawek z Kryptopolis. Nie mo¿emy u¿ywaæ tych w nieskoñczonoœæ.}
+{243}{}{Wiadomo ju¿ coœ o kolejnej dostawie niewolników, proszê pana?}
+{244}{}{Musieliœmy przenieœæ trzy jednostki z grupy nadzorczej do laboratoryjnej z powodu tych ataków.}
+{245}{}{Mam z³e wiadomoœci. Musieliœmy zastrzeliæ jednego niewolnika podczas próby ucieczki. Co za marnotrawstwo!}
+{246}{}{Ten pana nowy halucynogen jest obiecuj¹cy, choæ nie uzale¿nia tak silnie jak Jet...}
+
+# 4. INTRO (WTG)
+{250}{}{(£ysa kobieta nawet nie podnosi wzroku, ¿eby na ciebie spojrzeæ) Tak?}
+{251}{}{Nie!}
+{252}{}{Tak!}
+{253}{}{He he. Ty ³ysa. Wygl¹da jak ch³op.}
+{254}{}{Delen?}
+{255}{}{OdejdŸ}
+{256}{}{Kim jesteœ?}
+{257}{}{Przepraszam, szukam innej ³ysej kobiety studiuj¹cej wynik badañ. Lepiej ju¿ sobie pójdê.}
+
+# 5. RETARD (4)
+{265}{}{(Kobieta przygl¹da ci siê ze zdziwieniem) Jesteœ obiektem z grupy nadzorczej? A zreszt¹, czy to wa¿ne... Stra¿! Zamkn¹æ ten obiekt!}
+{266}{}{Gdzie obiekt? Moja nie widzi.}
+
+# 6. WHO ARE YOU? (4)
+{275}{}{S³uchaj, jestem bardzo zajêta... [Podnosi wzrok, obrzuca ciê zdziwionym spojrzeniem i zaczyna krzyczeæ.] KIM jesteœ? Kto ciê tu wpuœci³?}
+{276}{}{S³uchaj, jestem bardzo zajêta... [Podnosi wzrok, obrzuca ciê zdziwionym spojrzeniem i zaczyna krzyczeæ.] Znowu ty? Czego chcesz tym razem?}
+{277}{}{Drzwi by³y otwarte jak wrota stodo³y. He he... ³apiesz? Wrota stodo³y!}
+{278}{}{Przydzielono mnie do pracy tutaj.}
+{279}{}{Szukam Myrona. Jest gdzieœ tutaj?}
+{280}{}{Widzê, ¿e przegl¹dasz wyniki badañ? Mogê rzuciæ okiem?}
+{282}{}{Niewa¿ne. Nie chcê ci dalej przeszkadzaæ.}
+
+# 7. DOOR WAS OPEN (6)
+{295}{}{Ten obszar jest zamkniêty dla... goœci. WyjdŸ st¹d, zanim wezwê stra¿.}
+{296}{}{Sekundê, chcê ciê najpierw o coœ zapytaæ...}
+{298}{}{Widzê, ¿e przegl¹dasz wyniki badañ? Mogê rzuciæ okiem? Chemia to takie moje ma³e hobby.}
+{300}{}{W porz¹dku. Nie bêdê ci dalej przeszkadzaæ.}
+
+# 8. BUT HEY. . . (7, 24)
+{310}{}{Stra¿! Stra¿, wyprowadŸcie intruza!}
+
+# 9. I'M ONE OF THE NEW PERSONNEL (6, 7)
+{315}{}{NASTÊPNY stra¿nik. Ha! Jakby by³ z was jakiœ po¿ytek... S³uchaj, ktokolwiek ciê tu przys³a³ powinien udzieliæ ci odpowiednich instrukcji. W razie w¹tpliwoœci porozmawiaj z innymi stra¿nikami. A teraz przestañ zawracaæ mi g³owê.}
+{316}{}{Nie jestem stra¿nikiem, tylko naukowcem. Czym mam siê zaj¹æ?}
+{317}{}{Przepraszam, ale odk¹d mój wzrok pad³ na ciebie marzê wprost o tym, ¿ebyœ to TY mnie oprowadzi³a. Mo¿e póŸniej umówimy siê na kolacjê...?}
+{318}{}{Dziêki. Jesteœ bardzo mi³a.}
+
+# 10. I'M ONE OF THE NEW RESEARCHERS (6, 7, 9)
+{325}{}{Jesteœ NAUKOWCEM...? Hmmmm. Nigdy ciê tu nie widzia³am. Co wiesz o badaniach farmaceutycznych?}
+{326}{}{Wystarczaj¹co du¿o. Chcesz zobaczyæ, co potrafiê?}
+{327}{}{Wiem ca³kiem sporo o sposobach uzyskiwania podstawowych zwi¹zków neurochemicznych. Myœlê, ¿e przyda ci siê ktoœ taki jak ja.}
+{328}{}{Muszê ju¿ iœæ.}
+
+# 11. I'M ONE OF THE NEW RESEARCHERS (10)
+{335}{}{Nie! Chcê zobaczyæ jak st¹d wychodzisz! Zmykaj, zanim wezwê stra¿e.}
+{336}{}{W porz¹dku.}
+{337}{}{Ju¿ idê... ::pod nosem::... ty ³ysa zdziro.}
+
+# 12. I KNOW QUITE A BIT ABOUT BASE NEUROCHEMCIAL COMPOUNDS . . . (10)
+{345}{}{Hmmmm. W porz¹dku. Pozwól, ¿e przedstawiê ci pokrótce obszar naszych badañ: testujemy tu efekty dzia³ania metaamfetaminy zwanej Jet i pracujemy nad jej udoskonaleniem.}
+{346}{}{Rozumiem. I jak postêpuj¹ badania?}
+{347}{}{Rozumiem. Jeœli pozwolisz, chêtnie siê tutaj rozejrzê.}
+
+# 13. I SEE. AND HOW IS THE RESEARCH COMING? (12, 22, 25)
+{355}{}{Nie najlepiej. Goni nas termin i musimy jak najszybciej udoskonaliæ proces produkcji Jetu.}
+{356}{}{Dlaczego? Jet i tak jest niezwykle silnie uzale¿niaj¹cym œrodkiem.}
+{357}{}{Sk¹d ten poœpiech?}
+{358}{}{Niewdziêczna robota. S³uchaj, muszê siê zaj¹æ pewn¹ piln¹ spraw¹, ale nied³ugo wrócê.}
+
+# 14. WHY THE TIGHT SCHEDULE? (13)
+{365}{}{Nikt nam tego nie powiedzia³ wprost, ale zapewne chodzi o dystrybucjê Jetu w Redding. Jet jest *doœæ* skuteczny, ale mo¿na przy nim jeszcze wiele ulepszyæ. Zw³aszcza, ¿e 'góra' chce zwiêkszyæ liczbê uzale¿nionych w Redding.}
+{366}{}{O co chodzi z tym ca³ym Redding?}
+{367}{}{Có¿, w takim razie pozostaje mi ¿yczyæ ci powodzenia.}
+
+# 15. WHY? JET SEEMS ADDICTIVE ENOUGH ALREADY . . . (13)
+{375}{}{Jet jest *doœæ* skuteczny, ale mo¿na przy nim jeszcze wiele ulepszyæ. 'Góra' chce zwiêkszyæ iloœæ towaru trafiaj¹cego do Redding. Odsetek uzale¿nionych ma siê zbli¿yæ do 100%. Dlatego musimy pracowaæ dniem i noc¹.}
+{377}{}{Dziêki za informacje. Wrócê innym razem.}
+
+# 16. WHAT'S THE DEAL WITH REDDING? (14, 15)
+{385}{}{Uzale¿nij górników z Redding od Jetu, a ktokolwiek bêdzie kontrolowa³ dostawy narkotyku, bêdzie kontrolowa³ ca³e miasto. Tak zyskuje siê w³adzê.}
+{386}{}{A kto kontroluje prochy?}
+
+# 17. SO WHO DOES CONTROL THE DRUGS? (16)
+{395}{}{Kto kontroluje prochy? Rodzina Mordino. Przecie¿ to na ich ¿yczenie Myron wykona³ wszystkie badania przygotowawcze, w wyniku których powsta³ Jet. My zajmujemy siê tylko szczegó³ami.}
+{396}{}{To znaczy, ¿e Myron jest twoim szefem?}
+
+# 18. MYRON'S OUR BOSS? (17)
+{405}{}{Mo¿na tak powiedzieæ. Ch³opak jest bystry, trudno mu tego odmówiæ, ale nie interesuje go, co siê tutaj dzieje. Zwykle siedzi w tej swojej podziemnej norze... nie przyjmuje ¿adnych goœci, tylko od czasu do czasu jakieœ prostytutki. Typowy manager projektu.}
+{406}{}{Mogê siê z nim zobaczyæ?}
+{407}{}{Tak, ale ci z marketingu s¹ jeszcze gorsi. Dziêki za informacje. Zajrzê do ciebie póŸniej.}
+
+# 19. COULD I SEE HIM? (18)
+{415}{}{Czemu nie... wystawiê ci tymczasow¹ przepustkê, poka¿ j¹ stra¿nikom. Tylko nie siedŸ tam zbyt d³ugo, Myron nie jest zbyt towarzyski.}
+{416}{}{Czemu nie... wystawiê ci tymczasow¹ przepustkê, poka¿ j¹ stra¿nikom. Tylko nie siedŸ tam zbyt d³ugo, Myron nie jest zbyt towarzyski... chodŸ w twoim przypadku mo¿e zrobiæ wyj¹tek.}
+{417}{}{Dziêki za przepustkê. Zobaczymy siê póŸniej.}
+
+# 20. EXCUSE ME FOR BEING FORWARD (FEMALE) (9)
+{425}{}{S³uchaj, jestem bardzo zajêta, wiêc jeœli pozwolisz...}
+{426}{}{S³uchaj, ja... jestem... bardzo zajêta. Przykro mi...}
+{427}{}{Trudno...}
+{428}{}{Mimo to, dziêki.}
+{429}{}{Mimo to, dziêki... ::pod nosem:: ...ty sztywna, jajog³owa zdziro.}
+
+# 21. EXCUSE ME FOR BEING FORWARD (GOOD) (9)
+{435}{}{To... hmm... Jestem zaszczycona, ale i bardzo zajêta... wiêc... hmm...}
+{436}{}{Có¿, mo¿e w takim razie odbiorê ciê z pracy i pójdziemy na kolacjê? ¯adnych zobowi¹zañ. Wygl¹dasz na kogoœ, komu przyda siê przerwa w pracy... odrobina relaksu.}
+{437}{}{Có¿, warto by³o spróbowaæ. Do zobaczenia.}
+
+# 22. DO YOU MIND IF I PICKED YOU UP AFTER WORK . . .? (21)
+{445}{}{Có¿, nie jestem a¿ tak zajêta... ha... prawdê mówi¹c, to jestem bardzo zajêta. To znaczy: zwykle wykonujê tylko rutynowe testy chemiczne. Tylko od czasu do czasu jakiœ niewolnik zeœwiruje...}
+{446}{}{Czy celowe podawanie eksperymentalnej metaamfetaminy nie k³óci siê z twoim sumieniem?}
+{447}{}{Ojej. To brzmi niebezpiecznie. Nie boisz siê, ¿e coœ ci siê stanie? Czy œmiertelnoœæ wœród pacjentów jest wysoka?}
+{448}{}{Testy chemiczne? Naprawdê? I jak posuwaj¹ siê badania?}
+{449}{}{Brzmi fascynuj¹co, ale muszê ju¿ iœæ.... wrócê... innym razem.}
+
+# 23. DON'T YOU EVER QUESTION YOUR HUMANITY? (22)
+{455}{}{To mia³ byæ jakiœ dowcip?}
+{456}{}{Tylko pytam. A co by by³o, gdyby schwytali ciê ³owcy niewolników i sprzedali tutaj, gdzie napompowano by ciê jakimiœ prochami?}
+{457}{}{Tak, oczywiœcie. Muszê ju¿ iœæ.}
+
+# 24. PUMPED FULL OF DRUGS? (23)
+{465}{}{Ja jestem po TEJ stronie krat, oni po TAMTEJ. Skoro ju¿ rozwa¿amy sytuacjê hipotetyczne, chcesz siê dowiedzieæ, jak to jest byæ jednym z nich? Znajdzie siê jeszcze miejsce dla dodatkowego niewolnika.}
+{466}{}{Zaraz, zaraz...}
+{467}{}{Nie, dziêki. Do zobaczenia.}
+
+# 25. PATIENT FATALTIES (22)
+{475}{}{Œmiertelnoœæ? Ca³kiem spora. G³ównie przypadkowe przedawkowania - b³¹d laborantów - lub samookaleczenia. Niektórzy niewolnicy sami b³agaj¹ nas o wiêksz¹ dawkê, w rezultacie której gin¹.}
+{476}{}{A poza tym, jak przebiegaj¹ badania?}
+{477}{}{Rozumiem. Wielkie dziêki za informacje.}
+
+# 26. ACTUALLY, I WAS LOOKING FOR MYRON (6)
+{485}{}{Spróbuj na dole, w laboratorium. To te pilnie strze¿one drzwi. Jak go spotkasz, powiedz mu, ¿eby tu do nas zajrza³... jeœli nie jest ZBYT zajêty.}
+
+# GET BADGE MESSAGE
+{1000}{}{Marjorie da³a ci tymczasow¹ przepustkê.}

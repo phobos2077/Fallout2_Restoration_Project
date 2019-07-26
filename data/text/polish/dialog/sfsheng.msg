@@ -1,0 +1,1 @@
+{100}{}{Mo¿esz natkn¹æ siê na niego gdzieœ w opuszczonym domu. Wed³ug twojejgo Pip-Boy'a, jest to ostatnia znana lokalizacja dr Sheng'a.}
