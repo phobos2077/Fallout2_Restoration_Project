@@ -48,4 +48,7 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
 
   # components published separately
   ./"$extra_dir"/publish/components_optional.sh
+
+  # and finally translations
+  ./"$extra_dir"/publish/translations.sh
 fi
