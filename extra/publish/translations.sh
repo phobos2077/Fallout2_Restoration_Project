@@ -11,7 +11,7 @@ release_dir="$(realpath release_dir)"
 lang_dir="data/text"
 
 # delete unnecessary files
-rm -rf "$lang_dir/{po,readme.md,translation.patch}"
+rm -rf "$lang_dir"/{po,readme.md,translation.patch}
 
 # duplicate cuts for english language, otherwise sfall won't display them in english
 cp -r "$lang_dir"/english/cuts{,_female}
