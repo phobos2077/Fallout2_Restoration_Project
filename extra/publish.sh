@@ -25,19 +25,19 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   cd ..
 
   # pack components into separate dat files
-  ./"$extra_dir"/publish_components.sh
+  ./"$extra_dir"/publish/components.sh
 
   # pack appearance, too
-  ./"$extra_dir"/publish_appearance.sh
+  ./"$extra_dir"/publish/appearance.sh
 
   # sfall
-  ./"$extra_dir"/publish_sfall.sh
+  ./"$extra_dir"/publish/sfall.sh
 
   # npc armor mod from sfall
-  ./"$extra_dir"/publish_npcarmor.sh
+  ./"$extra_dir"/publish/npcarmor.sh
 
   # ammo mod from sfall
-  ./"$extra_dir"/publish_ammo.sh
+  ./"$extra_dir"/publish/ammo.sh
 
   # final package
   pushd .
@@ -47,5 +47,5 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   mv "$release_dir/${mod_name}_${version}.zip" .
 
   # components published separately
-  ./"$extra_dir"/publish_components_optional.sh
+  ./"$extra_dir"/publish/components_optional.sh
 fi
