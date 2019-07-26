@@ -1,0 +1,51 @@
+{100}{}{Ein Nomaden-Schamane.}
+{101}{}{Er scheint ein Nomaden-Schamane zu sein.}
+{102}{}{Von seiner Kleidung geht ein starker Kräutergeruch aus.}
+{103}{}{Hallo, Fremdling. Ich bin der Sippen-Schamane. Ich beherrsche die Kunst des Heilens.}
+{104}{}{Hallo.}
+{105}{}{Ich brauche Heilung.}
+{106}{}{Kannst du die Xander-Wurzel und die Broc-Blume zusammenmischen?}
+{107}{}{Tschüß.}
+{108}{}{Uhga.}
+{109}{}{Beweg dich nicht, damit ich dich untersuchen kann.}
+{110}{}{[Weiter]}
+{111}{}{Ich hab folgendes festgestellt.} #continue at 136
+{112}{}{Kannst du mir helfen?}
+{113}{}{Gegen Geld kann ich folgendes für dich tun:} # continue at 140
+{114}{}{Bitte zieh das Gift aus meinem Körper.}
+{115}{}{Bitte heil mich.}
+{116}{}{Sieh dir mal an, ob du was für mein gebrochenes Gliedmaß tun kannst.}
+{117}{}{Tschüß.}
+{118}{}{Ihr seid geheilt.}
+{119}{}{Du bist geheilt.}
+{120}{}{Du bist geheilt.}
+{121}{}{Ich muß deine Fähigkeiten weiter in Anspruch nehmen.}
+{122}{}{Danke, jetzt fühl ich mich schon viel besser. Wiedersehn.}
+{123}{}{Meine Fähigkeiten sind beschränkt und ich kann dir hier nicht weiterhelfen.}
+{124}{}{[Weiter]}
+{125}{}{Diese Art von Heilung brauchst du nicht.}
+{126}{}{[Weiter]}
+{127}{}{Ahh...Du kennst die heilende Wirkung dieser beiden Pflanzen. Das kostet nur} # continue at 150
+{128}{}{Bitte misch die beiden Pflanzen für mich.}
+{129}{}{Vielleicht später. Tschüß.}
+{130}{}{[Du siehst zu, wie er die beiden Pflanzen vorsichtig zerstößt und mischt und dir dann die richtige Dosis des Pulvers gibt.]}
+{131}{}{Tschüß.}
+{132}{}{Du bist wohl knapp bei Kasse. Komm später wieder, wenn mehr in deinem Geldbeutel ist.}
+{133}{}{[Ende]}
+{134}{}{Für so 'n Blödsinn hab ich keine Zeit. Verschwinde!}
+{135}{}{[Ende]}
+{136}{}{[Vergiftet]}
+{137}{}{[Verletzt]}
+{138}{}{[Verstrahlt]}
+{139}{}{[Verkrüppelt]}
+{140}{}{Entgiften,}
+{141}{}{Verletzte Gliedmaßen richten,}
+{142}{}{Heilung $}
+{143}{}{Ungläubiger!}
+{144}{}{Warum greifst du uns an?}
+{145}{}{Ich werd die Sippe mit meinem Leben verteidigen!}
+{146}{}{Wie kannst du es nur wagen, unsre Gastfreundschaft zu mißbrauchen.}
+{147}{}{Verschwinde!}
+{148}{}{Hau ab.}
+{149}{}{Wir sind ein friedlicher Stamm.}
+{150}{}{und ich werde die beiden für dich mischen.}

@@ -1,0 +1,1 @@
+{100}{}{Du hast ein Kloster erreicht, eine kleine Gemeinde wurde ringsum gebaut.}

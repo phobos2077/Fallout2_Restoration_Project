@@ -1,0 +1,2 @@
+1:Du bist gestorben.
+2:Dein Dorf ist verloren und seine Einwohner erleiden den Hungertod.

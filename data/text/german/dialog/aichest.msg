@@ -1,0 +1,38 @@
+#############################################################
+#  Message File: AIVase.msg                                 #
+#                                                           #
+#  Note: Characters within curly braces (like line 100)     #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the dialog for a     #
+#           new character from which is used by the         #
+#           design tool. It will be updated using the       #
+#           the tool. This is just a tool file, and not     #
+#           meant to be used in the game.                   #
+#                                                           #
+#  Log: Please note any changes that have been made to this #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: December 04, 1997                               #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the item when     #
+#  glanced and and examined.                                #
+#############################################################
+
+{100}{}{Du siehst eine einfache Vase.}
+{101}{}{Du siehst eine kleine Kiste.}
+{102}{}{Du siehst eine ungebrannte Tonvase.}
+{103}{}{Du siehst eine Kiste mit Schamanenkr‰utern.}
+{104}{}{Du stiehlst flink etwas von den Dingen des Schamanen.}
+{105}{}{Geschickt Schlieﬂt du die Truhe.}
+{106}{}{Geschickt ÷ffnest du die Truhe.}
+
+

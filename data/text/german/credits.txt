@@ -1,0 +1,484 @@
+#PROGRAMMIERUNG
+
+@Haupt-Programmierer
+Jesse Reynolds
+
+@Programmierer
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@Zusätzliche Programmierung
+Tim Cain
+John Price
+
+@Film Technologie
+Paul Edelstein
+
+@Installierungsroutine/Autoplay
+Darren Monahan
+
+
+#KUNST
+
+@Haupt-Künstler
+Gary Platner
+Tramell Ray Isaac
+
+@Künstler
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@Zusätzliche Künstler
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@Interne Künstler
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@Original Spielgrafiken
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#DESIGN
+
+@Haupt-Designer
+Feargus Urquhart
+Matthew J. Norton
+
+@Designer
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@Technisches Design
+Scott Everts
+
+@Level Designer
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@Zusätzliches Design
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@Dialog-Design
+Mark O'Green
+
+@Original Spiel Design
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@Spezial Spiel System Design
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#PRODUKTION
+
+@Produktionsleitung
+Feargus Urquhart
+
+@Produktion
+Eric Demilt
+Feargus Urquhart
+
+@Produktionsassistenten
+Fred Hatch
+Douglas Avery
+
+@Produktionsleitungsassistent
+Jeremy Barnes
+
+
+#LOKALISIERUNG
+
+@Internationaler Produkt Manager
+Tom Decker
+
+@Zusätzliche Übersetzungen/QS
+Michael "Balou" Esser ( Deutsch )
+Marina Bermon ( Franzoesisch )
+
+
+@Übersetzungen und Audio
+SDL International, England
+Sound Produzenten: Vikki Hollings, Ben Jones 
+Sound Ingenieur: Linda Clinker
+Direktor: Stephane Cornicard
+
+
+#QUALITÄTSSICHERUNG
+
+@Qualitätssicherungsleiter
+Chad Allison
+
+@QS-Management
+Steve Victory
+Colin Totman
+
+@PC-Version Projekt-Leiter 
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@PC-Version Haupt-Tester
+Dennis Presnell
+Chad Nicholas
+
+@PC-Version Tester
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+Michael Esser
+
+@QS Technische Leitung IS
+Frank Pimentel
+
+@Haupttechniker IS
+Bill Delk
+
+@Technik IS
+Tom Quast
+Steve Cabiness
+
+@Kompatibilitätstechniker
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+#AUDIO
+
+@Sound Design
+Paul Menichini
+Tim Walston
+
+@Film Musik Design
+David Farmer
+
+@Film Re-Recording Mixing
+Charles Deenen
+
+@Mixed in Dolby [TM] Surround in den Interplay Audio Studios
+
+@Verantwortlich für Audio 
+Gloria Soto
+
+@Zusätzliches Sound Design
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@Musik
+Mark Morgan
+@für
+Four Bars Intertainment
+@und
+Rick Jackson
+
+
+@IHRE STIMMEN HABEN HABEN GEGEBEN:
+
+W. Kahler
+@Harold
+
+W.Kahler
+@Sprecher
+
+M. Hulsman
+@Hakunin
+
+S. Boje
+@Myron
+
+G. Thoma
+@Lynette
+
+S. Boje
+@Kampf Offizier
+
+E. Redman
+@Ausbildungsoffizier
+
+A. Andris
+@Tor Wächter
+
+B. Kahn
+@Die Ältere
+
+C. Contes
+@Tandi
+
+M. Hulsman
+@Sulik
+
+S. Grothgar
+@Marcus
+
+S. Grothgar
+@Frank Horrigan
+
+T. Wesel
+@Der Präsident
+
+#VIDEO
+
+@Video Service ausgeführt durch
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#MARKETING
+
+@Marketing Direktor
+Paul Sackman
+
+@Marketing Manager
+Mike Markin
+Greg Peterson
+
+@Zusätzlicher Marketing Manager
+Greg Bauman
+
+@PR Manager
+Krys Card
+
+@Koordination
+Thom Dohner
+Paul Naftalis
+
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@Performed by Louie Armstrong
+@Courtesy of GRP Records
+@Under license from UNIVERSAL MUSIC SPECIAL MARKETS
+
+"A KISS TO BUILD A DREAM ON"
+@Written by Bert Kalmer, Harry Ruby and Oscar Hammerstein II
+@(C) 1935, 1951 renewed 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Rights assigned to EMI CATALOGUE PARTNERSHIP
+@All Rights Controlled and Administered by EMI MILLER CATALOG INC.
+@All Rights Reserved.  International Copyright Secured.
+@Used by Permission.
+
+@WARNUNG: Kopieren, Duplizieren und Reproduktion
+@ist unter Strafe verboten und dieses Programm oder auch
+@nur ein Bestandteil, darf nur mit schriftlicher Erlaubnis
+@des Copyright Inhabers erfolgen.
+
+
+@Dankeschön an:
+@(Dave H.) The Unwashed Villagers, the Dyer Family,
+@Jamba Juice, The Tick, Southpark;  (Chris A.) my "pal,"
+@Thuy Dang, Eileen Suh and Ma and Pa Avellone;  (t.ray)
+@my mother, my father, my son and my brother and to all
+@of my adoring fans for buying this game;  (Rob H.)
+@Becky Warner and Billie Ryder;  (Matt N.) Meine
+@DieMonika und der Kater;  (Jesse R.) "To Dad,
+@you were an inspiration all my life.  I miss you
+@always."
+
+@Ein SuperDuper Dankeschön an:
+@Die Mitglieder der Fallout und Fallout 2 Nachrichten Bretter (BBS).
+@Vielen Dank für eure Kommentare, Anregungen und vieles mehr!
+@Dem Interplay Video Raum, für seine unerschöpfliche Arbeit
+@an vordester Front!
+
+@Fallout 2 ist ein Produkt von Interplay Productions,
+@Team Fallout 2, der Buchstabe Q und die Nummmern 42 und 20.
+
+
+
+@Folgende Personen haben direkt oder indirekt an der 
+@Restoration Project Übersetzung (RPÜ) gearbeitet:
+@(die Namen sind in alphabetischer Reihenfolge)
+
+@Balthasar
+@batgilla
+@Bendix
+@Cando Garon
+@chewie
+@Crono D-ex
+@crusader86x
+@custor86
+@deckard
+@DemonKnight
+@DonNeoNoir
+@Erich
+@Fasciana
+@F0lem
+@harlekinx
+@Helios2000
+@HumanGrunt
+@Insert_Name
+@Jessica
+@jony walker
+@Kamikaze
+@KnoffHoff
+@Lexx
+@Mafio
+@Mr.Wolna
+@petro9986
+@Ralexand
+@scaabi
+@Segestis
+@The_Ultimate_Freddy
+@Tyler
+@Wiking
+@Zyankali!
+
+@www.falloutnow.de
+
+
+
+@Die Restoration Project Übersetzung basiert auf den 
+@Vault13.de Sprachpatch. Folgende Personen arbeiteten 
+@an diesem Patch:
+
+@Razlo
+@NeuRomancer
+@Davion
+@Pandora
+@Cabbot
+@Dogmeat
+@Monsun
+@Marlock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Okay, wenn du wirklich mußt...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Hast Du die Zufallsbegegnungen gefunden?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Schau weiter...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Vielleicht findest Du den Malteser Falken?!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Ha ha! Viel Spaß noch...
