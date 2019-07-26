@@ -13,6 +13,9 @@ mods_dir="$(realpath $mods_dir)"
 if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   version="$TRAVIS_TAG"
 
+  # translations packaged first, to get extra text out of the way
+  ./"$extra_dir"/publish/translations.sh
+
   # data
   dat="$mod_name.dat"
   mkdir -p "$mods_dir"
@@ -48,7 +51,4 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
 
   # components published separately
   ./"$extra_dir"/publish/components_optional.sh
-
-  # and finally translations
-  ./"$extra_dir"/publish/translations.sh
 fi
