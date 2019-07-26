@@ -1,0 +1,1 @@
+{100}{}{Il y a une plaque sur le socle. Il est écrit, « Pour l'étranger et l'Abri 13 : Ce qui n'existe pas, nous devons parfois le rêver et laisser nos rêves nous aspirer vers d'autres horizons. Ainsi est la légende de l'étranger et de sa conviction dans la légende de l'Abri 13. »}

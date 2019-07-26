@@ -1,0 +1,2 @@
+{100}{}{« Zaius : Marcus ne fait rien contre ce Jacob, qui déteste les mutants et ses foutus conspirateurs. D'abord ils désactivent le purificateur d'air... et après ? J'ai découvert les tunnels où ils se réunissent. Un cadavre ou deux là-dedans, ça pourrait impliquer Jacob. Tiens-moi  au courant. Et n'oublie pas de brûler ce foutu message, cette fois ! » - Signé Francis}
+{101}{}{Bon sang ! Si je montre ce message à Marcus, la ville toute entière va s'embraser. Je ferais mieux d'aller en parler à Zaius ou à Francis pour avoir des explications.}
