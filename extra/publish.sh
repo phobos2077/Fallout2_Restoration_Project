@@ -48,7 +48,4 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   zip -r "${mod_name}_${version}.zip" * # our package
   popd
   mv "$release_dir/${mod_name}_${version}.zip" .
-
-  # components published separately
-  ./"$extra_dir"/publish/components_optional.sh
 fi
