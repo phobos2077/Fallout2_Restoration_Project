@@ -7,7 +7,7 @@ struppigen Bart wirkt seine Kleidung ordentlich und gepflegt.}
 {104}{}{Uurmpf}
 {105}{}{Ecch}
 {106}{}{Wottehött}
-{107}{}{[Verschwinde.]}
+{107}{}{Verzieh dich}
 {108}{}{Wieso, nee, hab ich nicht.}
 {109}{}{Und wer bist du?}
 {110}{}{Ähh, nein und ich will auch nicht. Auf Wiedersehn.}
@@ -115,14 +115,14 @@ in New Reno aus und er wird dir Zugang zu meinen Konten verschaffen.}
 {181}{}{Ich möchte das Wort hören, Bruder!}
 {182}{}{Diese Stadt ist auf Sünde und Sklaverei errichtet und ich bin gekommen, um Gerechtigkeit
  zu schaffen!}
-{183}{}{Im Augenblick nichts, danke.}
+{183}{}{Heute nichts, danke.}
 {184}{}{Diese Menschen kämpfen für Wahrheit und Gerechtigkeit und wir machen keinen Finger krumm,
  um ihnen zu helfen.}
 {185}{}{Was können wir tun?}
 {186}{}{Klingt aber verdammt nach Hochverrat.}
 {187}{}{Eine Schande ist das. Nun denn, auf Wiedersehen.}
 {188}{}{Wir könnten unsere Tore weit öffnen, und sie hereinbitten! Sie brauchen unsere Hilfe, doch NOCH IMMER verschließen wir unsere Augen.}
-{189}{}{Amen! Die fortschrittliche Technologie von Vault City sollte mit allen geteilt werden, nicht eifersüchtig gehortet!}
+{189}{}{Amen! Vault City's advanced technology should be shared, not hoarded.}
 {190}{}{Hmmm... ich weiß nicht. Uns geht's hier doch ziemlich gut. Brauchen wir die denn
  überhaupt? Letztendlich würden die unseren Lebensstandard verringern... und uns sogar
  verseuchen.}
@@ -141,7 +141,7 @@ in New Reno aus und er wird dir Zugang zu meinen Konten verschaffen.}
 {199}{}{Uurmpf}
 {200}{}{Ecch}
 {201}{}{Wottehött}
-{202}{}{[Verschwinde.]}
+{202}{}{Verzieh dich}
 {203}{}{Hey, ich habe nur so getan, als wär ich Sklavenhändler, um an Informationen ranzukommen.}
 {204}{}{Hör mal, was ich dir zu sagen hab: Warum hat Vault City Sklaven? Ich dachte, das wär
  hier eine freie Stadt?}
@@ -153,7 +153,7 @@ in New Reno aus und er wird dir Zugang zu meinen Konten verschaffen.}
 {209}{}{Aber ich habe aus meinen Fehlern gelernt!}
 {210}{}{Jetzt reicht's. Wird Zeit, dich mal 'n bißchen aufzuschlitzen, um zu sehn, wie du von
  innen ausschaust.}
-{211}{}{Naja, dann ist's in Ordnung.}
+{211}{}{Also gut.}
 {212}{}{Mit Typen, die mir auf so 'ne miese Tour kommen, will ich nichts zu tun haben.
  Verschwinde.}
 {213}{}{Du willst 'ne miese Tour? Kannste haben...}
@@ -173,7 +173,7 @@ in New Reno aus und er wird dir Zugang zu meinen Konten verschaffen.}
 {223}{}{Freut mich, zu hören, daß die Saat meiner Worte in deinem Herzen aufgegangen ist.
  Vielleicht werden wir uns irgendwann wieder begegnen.}
 {224}{}{Vielleicht. Bleibe fest im Glauben, Bruder.}
-{225}{}{Lebewohl.}
+{225}{}{Wiedersehn.}
 {226}{}{Die NCR möchte ganz Kalifornien unter ihre glorreiche Herrschaft bringen und Vault City
  hat die Macht, dies zu verwirklichen! Stell dir vor, wieviel Gutes wir erreichen könnten, wenn
  wir Zugang zur Vault City-Technologie hätten!}

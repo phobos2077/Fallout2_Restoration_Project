@@ -20,4 +20,3 @@
 {117}{}{Willst Du kämpfen? Ich bin völlig fertig.}
 {118}{}{::schlinger:: ::taumel::}
 {119}{}{Ich liebe Dich, Fremder!}
-

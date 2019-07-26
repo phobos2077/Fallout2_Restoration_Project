@@ -1,6 +1,4 @@
 {100}{}{Tu vois un Patrouilleur de l'Enclave.}
-
-# Floats if PC is male
 {200}{}{Tu as pénétré illégalement sur le territoire de l'Enclave. La proposition 312 nous ordonne de tirer à vue. Désolé.}
 {201}{}{C'est un espion mutant ! Qu'on l'attrape !!}
 {202}{}{Je suis un soldat loyal de l'Enclave. J'ai l'ordre de te tuer. Tu ne m'en veux pas, hein ?}
@@ -9,8 +7,6 @@
 {205}{}{Crève, pourriture du désert !}
 {206}{}{Toi ! Ceux de ton espèce ont détruit cette nation autrefois puissante. Tu vas le payer !}
 {207}{}{Hé ! Tu as déjà vu ce que cette petite merveille fait aux peaux-douces ? Regarde !}
-
-# (Floats if PC is female)
 {300}{}{Je n'aime pas devoir tuer une femme. Réglons ça vite fait, d'accord ?}
 {301}{}{Alerte ! Alerte !}
 {302}{}{On dirait que tu es venue de loin pour rien, ma belle.}

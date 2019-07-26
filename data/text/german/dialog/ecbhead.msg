@@ -28,32 +28,25 @@
 {127}{}{*Ähem*}
 {128}{}{WER WAGT ES, SICH DEM HEILIGEN KOPF DES VAULTBEWOHNERS ZU NÄHERN?!}
 {129}{}{Ich, das Auserwählte Wesen.}
-{1129}{}{Ich, das Auserwählte Wesen.}
 {130}{}{HA HA HA HA HA HA!}
 {131}{}{*DU*?! DAS AUSERWÄHLTE WESEN?!}
 {132}{}{DU BIST JA NICHT GRÖSSER ALS MEIN FINGER!}
 {133}{}{DU BIST *NICHT* DAS AUSERWÄHLTE WESEN.}
 {134}{}{Doch, bin ich.}
-{1134}{}{Doch, bin ich..}
 {135}{}{NEIN, BIST DU NICHT.}
 {136}{}{Doch, bin ich.}
-{1136}{}{Doch, bin ich.!}
 {137}{}{UH-UH.}
-{138}{}{Uh-huh.}
-{1138}{}{Uh-huh.}
+{138}{}{A-ha.}
 {139}{}{UH-UH.}
-{140}{}{Uh-huh.}
-{1140}{}{Uh-huh.}
+{140}{}{A-ha.}
 {141}{}{UH...UH...}
 {142}{}{Uh...huh...}
-{1142}{}{Uh...huh...}
 {143}{}{UH...GENUG DAVON!}
 {144}{}{SEHR GUT! DU HAST DIE PROBE BESTANDEN!}
 {145}{}{DU *BIST* DAS AUSERWÄHLTE WESEN!}
 {146}{}{NIMM DAS!}
 {147}{}{JETZT VERSCHWINDE!}
 {148}{}{He, danke!}
-{1148}{}{Dankeee!}
 {149}{}{JA, EGAL. JETZT VERSCHWINDE.}
 {150}{}{VERDAMMTE TOURISTEN.}
 {151}{}{ICH HAB DIR BEREITS EIN GESCHENK GEGEBEN.}
@@ -62,5 +55,11 @@
 {154}{}{WAS?! VON MIR STEHLEN, JA?!}
 {155}{}{STIRB!}
 {156}{}{Spieler wird mit der Plasma-Todesanimation aufgelöst.}
-
 {200}{}{(12 Stunden später)}
+{1129}{}{Ich, das Auserwählte Wesen.}
+{1134}{}{Doch, bin ich..}
+{1136}{}{Doch, bin ich.!}
+{1138}{}{A-ha.}
+{1140}{}{A-ha.}
+{1142}{}{Uh...huh...}
+{1148}{}{Dankeee!}

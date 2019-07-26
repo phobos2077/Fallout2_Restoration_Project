@@ -1,7 +1,6 @@
 {100}{}{Tu vois ton jeune cousin, Nagor. Tu ne vois pas son chien, Fumace.}
 {101}{}{Tu connais Nagor depuis sa plus tendre enfance et tu l'as toujours aidé lorsque tu le pouvais.}
-{102}{}{Quel plaisir de te voir cousin ! J'ai besoin de ton aide.}
-{302}{}{Quel plaisir de te voir cousine ! J'ai besoin de ton aide.}
+{102}{}{Quel plaisir de te voir cousine ! J'ai besoin de ton aide.}
 {103}{}{Pardonne-moi, mais je n'ai pas le temps.}
 {104}{}{Pourquoi as-tu besoin d'aide ?}
 {105}{}{Alors, j'irai seul dans le désert !}
@@ -18,7 +17,7 @@
 {116}{}{Non, pas encore.}
 {117}{}{As-tu retrouvé Fumace ?}
 {118}{}{Non, pas encore. Je reviendrai vite.}
-{119}{}{Je regrette mais il est mort.}
+{119}{}{Je suis désolé, il est mort.}
 {120}{}{Tu dis ça pass'que tu veux pas chercher ! Je m'en tape de c'que Morlis dit ! Je vais aller le chercher moi-même !}
 {121}{}{Et s'il t'arrivait quelque chose ? Morlis se retrouverait toute seule et ça la rendrait très triste. Tu ne veux pas la rendre triste, pas vrai ?}
 {122}{}{Tu fais ça.}
@@ -29,25 +28,23 @@
 {127}{}{Merci encore. J'espère que ton voyage se passera bien !}
 {128}{}{Fumace me manque. Pourquoi ne peux-tu pas le sauver ? Tu es l'Etre Elu.}
 {129}{}{J'ai à faire, imbécile. Va jouer ailleurs.}
-{130}{}{[Partir]}
+{130}{}{Je pars.}
 {131}{}{Je vais aller chercher Fumace.}
-
-# new nodes for time limit
-{200}{}{Bonjour cousin... Euh, je veux dire bonjour Etre Elu. J'espère que tu as trouvé le J.E.K. Beaucoup de mauvais présages nous guettent.}
+{200}{}{Bonjour cousine... Euh, je veux dire bonjour l'Etre Elu. J'espère que tu as trouvé le J.E.K. Beaucoup de mauvais présages s'annoncent.}
 {201}{}{Bonjour cousine... Euh, je veux dire bonjour l'Etre Elu. J'espère que tu as trouvé le J.E.K. Beaucoup de mauvais présages s'annoncent.}
 {202}{}{Moi encore chercher, Nagor.}
-{203}{}{Je cherche toujours, neveu.}
-{204}{}{Bienvenue à la maison, cousin. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
+{203}{}{I'm still looking, cousin.}
+{204}{}{Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
 {205}{}{Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. As-tu trouvé le Saint-Treize et le J.E.K ?}
 {206}{}{Moi pas trouver. Pardon.}
 {207}{}{Je regrette Nagor, toujours pas.}
-{208}{}{Re-bonjour cousin. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
+{208}{}{Re-bonjour cousine. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
 {209}{}{Re-bonjour cousine. Tu vois bien que les choses se détériorent ici. Je t'en prie, trouve le J.E.K. Nous en avons terriblement besoin !}
-{210}{}{Bonjour cousin.}
+{210}{}{Bonjour cousine.}
 {211}{}{Bonjour cousine.}
 {212}{}{Toi pas avoir l'air comme d'habitude.}
 {213}{}{Tu n'as pas l'air comme d'habitude.}
 {214}{}{Je regrette, cousin. Les choses n'ont pas cessé de se détériorer depuis ton départ. Les gens sont malades, les Brahmines meurent... Je... Mon chien, Fumace, est mort... Morlis l'a fait cuire... Il me manque tellement... Pardon, mais je ne peux vraiment pas te parler davantage...}
 {215}{}{Je regrette, cousine. Les choses n'ont pas cessé de se détériorer depuis ton départ. Les gens sont malades, les Brahmines meurent... Je... Mon chien, Fumace, est mort... Il me manque tellement... Pardon, mais je ne peux vraiment pas te parler davantage...}
-
 {300}{}{Tu vois Nagor.}
+{302}{}{Quel plaisir de te voir cousine ! J'ai besoin de ton aide.}

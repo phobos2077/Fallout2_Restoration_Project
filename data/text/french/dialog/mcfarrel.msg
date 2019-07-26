@@ -1,9 +1,8 @@
 {100}{}{Tu vois un vieil homme. Comparé à lui, un pruneau a l'air moins fripé.}
 {101}{}{Tu vois Farrel.}
 {102}{}{A chacun de ses mouvements, on entend des craquements de brindilles sèches.}
-
 {150}{}{Hé, bas les pattes !}
-{151}{}{Arrête immédiatement !}
+{151}{}{Arrête ça! }
 {152}{}{Au voleur !}
 {153}{}{Je l'ai pas volée la montre, alors arrêtez de venir ici et de harceler le vieux Farrel !}
 {154}{}{Cornélius affirme que tu as volé sa montre en or.}
@@ -44,7 +43,7 @@
 {195}{}{Eh bien tant pis, je ne peux rien faire pour toi.}
 {196}{}{Ce serait merveilleux. Je ne te remercierai jamais assez. Mon jardin est un peu plus loin à l'Est. Viens avec moi, je vais te montrer.}
 {197}{}{Merci, tu fais vraiment partie de mes héros ! Bien peu de gens risqueraient leur vie pour un inconnu. Merci ! Mille fois merci ! [Tu as alors une étrange sensation qui te parcourt le corps jusqu'au bout des orteils.]}
-{198}{}{Puis-je te poser encore quelques questions ?}
+{198}{}{Puis-je vous poser encore quelques questions ?}
 {199}{}{Je préférerais crever de faim plutôt que de ternir ma réputation ! Va au diable !}
 {200}{}{Tout le monde m'accuse d'avoir volé la montre en or de mon meilleur ami Cornélius. Nous sommes amis depuis tellement longtemps, je n'aurais jamais pu lui faire ça. J'ai cherché partout en espérant la trouver pour que nous puissions redevenir amis. Mais je n'ai pas eu cette chance.}
 {201}{}{Je serai dans le coin pendant un moment. Si je trouve quelque chose, je te tiendrai au courant.}
@@ -59,15 +58,11 @@
 {211}{}{C'est très gentil de ta part, mon bon monsieur. [Il te prend la main et te guide vers le jardin.] Je ne voudrais pas que tu te perdes. Reviens me voir lorsque tu auras tué ces sales bestioles.}
 {212}{}{Ma très chère et gentille dame. Tu es si douce pour un vieillard. [Il te prend la main et te guide vers le jardin]. Je ne voudrais pas que tu te perdes. Reviens me voir lorsque tu auras tué ces sales bestioles.}
 {213}{}{Fantastique ! Voici ta récompense ! [Il fouille dans son pantalon et en extrait un biscuit à moitié mangé.] Allez maintenant, sois un gentil néandertal, prends ton biscuit et va jouer dehors.}
-
 {300}{}{Je vais tuer ce bâtard.}
 {301}{}{Je le hais....}
-{302}{}{Grrr...}
-
+{302}{}{<Grrr...>}
 {501}{}{Je l'ai pas volée ta sale montre !}
 {502}{}{C'est pas moi, je te dis !}
 {503}{}{Tu ne pourras même pas atteindre le mur d'une grange !}
-
 {550}{}{Il ne prête pas attention à ce que tu dis.}
-
 {600}{}{Tu as pacifiquement résolu l'hostilité entre Farrel et Cornélius.}

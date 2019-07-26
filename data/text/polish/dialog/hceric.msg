@@ -9,7 +9,7 @@
 {108}{}{Wpuszczê do œrodka tyle cholernych much, ile tylko mi siê spodoba. Palant.}
 {109}{}{Dobra. Na razie.}
 {110}{}{Zamknij drzwi! Proszê! OdejdŸ i zabierz ze sob¹ te wszystkie cholerne muchy!}
-{111}{}{Oki!}
+{111}{}{D’obra!}
 {112}{}{Przepraszam. Jestem troszkê zdenerwowany. Te wszystkie cholerne muchy i brak klimatyzacji. Gdybym tylko mia³ trochê wiêcej mocy, to móg³bym je wykurzyæ... ale nie mam..}
 {113}{}{Kim jesteœ?}
 {114}{}{Sk¹d bierzesz zasilanie?}
@@ -28,20 +28,20 @@
 {127}{}{Rozumiem. To wszystko, co muszê wiedzieæ. Do zobaczenia.}
 {128}{}{Próbowa³em. Próbowa³em wszystkiego. Jedyny sposób, który utrzymuje muchy z dala, to nie pociæ siê... A poniewa¿ nie mam wystarczaj¹co energii do och³odzenia siê, po prostu nie mogê tego opanowaæ.}
 {129}{}{Rozumiem. Mam inne pytania.}
-{130}{}{Rozumiem. Do widzenia.}
-{131}{}{Tak?}
+{130}{}{Rozumiem. Do zobaczenia.}
+{131}{}{S³ucham.}
 {132}{}{Brian rozmawia³ ze mn¹ i powiedzia³, ¿e przydzia³y energetyczne s¹ tak napiête, ¿e zapewne nie by³by w stanie zwiêkszyæ twojej czêœci.}
 {133}{}{Dlaczego przylatuj¹ te muchy?}
 {134}{}{Próbowa³eœ siê wyk¹paæ?}
 {135}{}{Gdzie jest generator pr¹du?}
 {136}{}{Kim jesteœ?}
 {137}{}{Jest tu o wiele przyjemniej. Wygodnie?}
-{138}{}{Nic. Niewa¿ne.}
+{138}{}{Nic. Na razie.}
 {139}{}{Móg³bym coœ dla ciebie za to uzbieraæ. Nie mogê obiecaæ wiele, ale przecie¿ to nie jest te¿ du¿a przys³uga.}
 {140}{}{Umowa stoi. Tylko upewnij siê, ¿e bêdziesz coœ dla mnie mia³, gdy ju¿ zdobêdê dla ciebie ten pr¹d.}
 {141}{}{Zrobiê to za darmo. Bez zap³aty.}
 {142}{}{Zapomnij. Nie chcê tego robiæ.}
-{143}{}{Pozwól, ¿e siê nad tym zastanowiê.}
+{143}{}{Zastanowiê siê nad tym.}
 {144}{}{Nie potrafiê wyraziæ, jak wdziêczny jestem ci za to. Proszê, daj mi znaæ, gdy tylko skoñczysz, abym móg³ podkrêciæ klimatyzacjê i wzi¹æ k¹piel.}
 {145}{}{Zrobi siê. Mam jeszcze inne pytania.}
 {146}{}{Zrobi siê. Na razie.}
@@ -72,13 +72,13 @@
 {171}{}{Dziêki! Na razie!}
 {172}{}{S¹dzisz, ¿e mo¿esz pomóc mi z moim muszym problemem. By³bym bardzo wdziêczny.}
 {173}{}{Jak wdziêczny?}
-{174}{}{Jasna sprawa.}
+{174}{}{Jasne.}
 {175}{}{Zastanowiê siê nad tym.}
 {176}{}{Nigdy w ¿yciu!}
 {177}{}{Oto wszystkie pieni¹dze, które mam... 150$. Dziêkujê.}
 {178}{}{Nie, to ja dziêkujê. Na razie.}
 {179}{}{Wiêc jestem podwójnie wdziêczny. Ach... S³ysza³em, ¿e poszukujesz GECKa. Spróbuj popytaæ w RNK. To na po³udnie.}
-{180}{}{Dziêki! Na razie!}
+{180}{}{Dziêki! Czeœæ!}
 {181}{}{A tak. Napór much nieco zel¿a³, powietrze jest ch³odne, a ja mniej spocony. Lepszy uk³ad dla wszystkich dooko³a!}
 {182}{}{Rzek³eœ. Có¿, to wszystko. Na razie!}
 {183}{}{Widzisz lepi¹cego i poc¹cego siê faceta. Wygl¹da na to, ¿e jest mu ca³kiem wygodnie.}

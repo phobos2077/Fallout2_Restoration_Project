@@ -38,12 +38,12 @@
 {137}{}{Co jeszcze da siê zrobiæ?}
 {138}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {139}{}{Jeœli nie jesteœ urodzonym Obywatelem, to ¿eby nim zostaæ, musisz zdaæ egzamin. Ilu obcych zda³o egzamin na Obywatela? Zero. Ile wynosz¹ twoje szanse? Mniej ni¿ zero.}
-{140}{}{Na czym polega egzamin?}
+{140}{}{Na czym polega ten egzamin?}
 {141}{}{Co jeszcze mo¿na zrobiæ dla ominiêcia kontroli celnej?}
 {142}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {143}{}{Gregory, Prokonsul, ka¿e rozwi¹zaæ "test" ka¿demu obcemu, który chce zostaæ Obywatelem. Ten test mierzy ich inteligencjê, spostrzegawczoœæ, no, a poza tym, trzeba mieæ te¿ kupê szczêœcia, ¿eby przez niego przebrn¹æ. Wiêkszoœæ Obywateli mia³aby z nim k³opoty.}
 {144}{}{Co sprawia, ¿e egzamin jest tak trudny?}
-{145}{}{Co oprócz zostania Obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
+{145}{}{Co oprócz zostawania Obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
 {146}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {147}{}{Wiêkszoœæ obcych nie umie czytaæ, nie zna siê na trygonometrii i nie potrafi przeliterowaæ s³owa "Konstantynopolitañczykowianeczka". Reszty mo¿na siê domyœleæ. To jest tylko taka przykrywka, ¿eby obcy nie mogli zostawaæ Obywatelami.}
 {148}{}{Co oprócz zostawania Obywatelem mo¿na zrobiæ, by omin¹æ kontrolê celn¹?}
@@ -65,12 +65,12 @@
 {164}{}{Nie mam teraz kasy na tego rodzaju wydatki. Mo¿e kiedy indziej.}
 {165}{}{Nie, dziêki. Mo¿e kiedy indziej.}
 {166}{}{To proste. NIE UWIERZ¥ ci. Ty jesteœ z zewn¹trz, a ja jestem Obywatelem. Zgadnij, komu uwierz¹?}
-{167}{}{W takim razie kupiê te papiery.}
+{167}{}{W takim razie wezmê te papiery.}
 {168}{}{Kupiê papiery... ale za 150, nie za 200.}
-{169}{}{Có¿, $200 to dla mnie trochê za du¿o. Mo¿e wrócê, jak bêdê mieæ wiêcej wolnej kasy.}
+{169}{}{Có¿, 200 dolców to dla mnie trochê za du¿o. Mo¿e wrócê, jak siê trochê dorobiê.}
 {170}{}{Niewa¿ne. Mo¿e póŸniej pogadamy.}
 {171}{}{Hmmm. No dobra, mam dziœ ochotê na trochê dobroczynnoœci. Ale nie mów ¿adnemu ze swoich obcych przyjació³, ¿e sprzeda³em ci je tak tanio.}
-{172}{}{Dobrze.}
+{172}{}{No dobra.}
 {173}{}{Po prostu daj mi te cholerne papiery.}
 {174}{}{Dobra, ju¿ wszystko gotowe. Oto twoje papiery... "Obywatelu". I nikomu o tym nie mów, W SZCZEGÓLNOŒCI Wallace'owi, dobrze?}
 {175}{}{Nie ma sprawy. Nigdy nie zrobi³bym czegoœ takiego tak wspania³emu Obywatelowi jak ty, szczególnie teraz, kiedy dowód twoich nielegalnych poczynañ le¿y sobie w mojej kieszeni.}
@@ -111,7 +111,7 @@
 {210}{}{Barkusie, znalaz³em tê bandê, gdy pêtali siê po pustkowiach. Ten obcy tutaj wygl¹da na dobry materia³ na S³u¿¹cego.}
 {211}{}{2 Sekundy}
 {212}{}{Musisz ¯ARTOWAÆ. To to jest przecie¿ ca³kiem bezmózgie.}
-{213}{}{1 Sekunda, nie za³atwiaj jeszcze Bakusa.}
+{213}{}{1 Sekunda, Nie za³atwiaj jeszcze Barkusa.}
 {214}{}{Cal-Kiem-Martwe! Buuuum!}
 {215}{}{2 Sekundy}
 {216}{}{Daj spokój. Potrzebujesz kogoœ do pracy w Krypcie, no nie?}

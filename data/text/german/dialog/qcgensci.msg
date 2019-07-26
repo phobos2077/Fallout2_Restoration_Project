@@ -15,7 +15,7 @@
 {114}{}{Ausgezeichnet.}
 {115}{}{Das Projekt läuft nach Plan.}
 {116}{}{Ausgezeichnete Ergebnisse.}
-{117}{}{Was jetzt?}
+{117}{}{Was denn jetzt noch?}
 {118}{}{Strahlung würde meine Arbeit total versauen.}
 {119}{}{Nur eine Übung.}
 {120}{}{Ich kann meine Arbeit jetzt nicht alleine lassen.}
@@ -52,7 +52,7 @@
 {151}{}{Hau ab. Ich hab zu tun.}
 {152}{}{Hast du nichts besseres zu tun?}
 {153}{}{Ich kann mich nicht erinnern, um Testpersonen gebeten zu haben.}
-{154}{}{Was willst du, zum Henker?}
+{154}{}{Was zum Teufel willst du?}
 {155}{}{Verzupf dich.}
 {156}{}{Geh jemand anders nerven.}
 {157}{}{Ja?}

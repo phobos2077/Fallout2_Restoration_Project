@@ -1,7 +1,6 @@
 {100}{}{Du siehst eine Gestalt, deren Haut stark verbrannt ist.}
 {101}{}{Du siehst einen Ghul-Bürger von Gecko.}
 {102}{}{Du siehst eine Gestalt, deren Haut von Radioaktivität verbrannt ist. Derartige Strahlungskonzentrationen hätten normalerweise alles getötet, aber dieser hier scheint noch ganz munter.}
-
 {110}{}{Hallo. Brauchst du was von der Versorgungsabteilung?}
 {111}{}{Wenn du was von der Versorgungsabteilung brauchst, mußt du ein Anforderungsformular haben.}
 {112}{}{Wenn du hier was brauchst, solltest du besser mit Jeremy reden.}
@@ -9,7 +8,6 @@
 {114}{}{Du solltest besser mit Jeremy sprechen, er haßt es nämlich, wenn Leute sich hinter seinem Rücken einfach Sachen nehmen.}
 {115}{}{Ich kann dir nicht helfen, wenn du nicht zuerst mit Jeremy redest.}
 {116}{}{Rede mit Jeremy, du kennst die Regeln.}
-
 {120}{}{Ich glaub, einige dieser alten Meßgeräte sind kaputt.}
 {121}{}{Ich hab nur auf die Konsole geschlagen, um sie wieder in Gang zu setzen.}
 {122}{}{Ich glaub, dieses Gerät hat noch nie richtig funktioniert.}
@@ -22,7 +20,6 @@
 {129}{}{Nach einer Weile braucht man gar nicht mehr auf die Meßgeräte zu sehen.}
 {130}{}{Ist das langweilig - diese Meßgeräte funktionieren sowieso nicht.}
 {131}{}{Leck? Was für ein Leck?}
-
 {140}{}{Dies ist der beste Wohnort in ganz Gecko. }
 {141}{}{Nichts wärmt diese alten Knochen mehr als eine kräftige Dosis Röntgenstrahlen.}
 {142}{}{Mmm, es ist hier immer so schön warm. Ich liebe das.}
@@ -33,19 +30,16 @@
 {147}{}{Auch wenn es nur ein bescheidener Ort ist...}
 {148}{}{Ohne diesen Reaktor würden hier alle sterben.}
 {149}{}{Ich hoffe wirklich, daß uns die Typen aus Vault City nicht alle töten.}
-
 {150}{}{Danke, danke, danke.}
 {151}{}{Danke, daß du unseren Reaktor repariert hast.}
 {152}{}{Dank deiner Hilfe ist unser Zuhause jetzt sicher.}
 {153}{}{Unser Reaktor schnurrt jetzt wie ein Kater. Danke.}
 {154}{}{Der Reaktor läuft jetzt viel besser.}
-
 {160}{}{Ich kann's gar nicht glauben, daß Vault City uns geholfen hat.}
 {161}{}{Danke, daß der Reaktor wieder so gut läuft.}
 {162}{}{Ich freue mich, daß der Reaktor jetzt besser läuft.}
 {163}{}{Es ist jetzt kühler hier drinnen.}
 {164}{}{Findest du nicht auch, daß es hier kälter geworden ist?}
-
 {170}{}{Wonach zum Teufel schnüffelst du hier herum?}
 {171}{}{Ha, ich kann dich immer noch sehen.}
 {172}{}{Gehst du immer so komisch?}

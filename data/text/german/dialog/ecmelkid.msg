@@ -1,8 +1,6 @@
 {100}{}{Du siehst ein Kleinkind.}
 {101}{}{Du siehst Melchior Jr.}
-
 {150}{}{Ein grinsendes Kind mit Kulleraugen.}
-
 {200}{}{Hallo! Ich bin Melchior Jr.}
 {201}{}{Mein Vati ist Bergarbeiter. Er heißt Melchior, so wie ich.}
 {202}{}{Mein Vati ist 'n guter Bergarbeiter, aber er möcht Zauberer sein.}

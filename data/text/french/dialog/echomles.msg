@@ -2,9 +2,9 @@
 {101}{}{Donne-nous à manger !}
 {102}{}{On a faim !}
 {103}{}{De l'argent pour les plus démunis !}
-{104}{}{A l'aide !}
+{104}{}{Aide-nous !}
 {105}{}{Manger !}
-{106}{}{J'ai tellement faim !}
+{106}{}{J'ai tellement faim.}
 {107}{}{Mes enfants meurent de faim !}
 {108}{}{Personne ne s'occupe de nous !}
 {109}{}{Epargne-moi !}

@@ -6,23 +6,23 @@
 {105}{}{Maison des vieilles Goules ?}
 {106}{}{Qui es-tu ?}
 {107}{}{Hé, t'as déjà entendu parler du Jardin d'Eden en Kit ?}
-{108}{}{Au revoir.}
+{108}{}{Salut.}
 {109}{}{Encore un enfant du désert, hein ? Hé, tu veux qu j'te dise un secret ?}
 {110}{}{Ouaip !}
-{111}{}{Nan.}
+{111}{}{Naan.}
 {112}{}{Dans le temps où je courais, j'ai gagné quelques courses, et m'suis fait pas mal d'argent. Il y a longtemps, j'ai planqué tous mes gains pas trop loin d'ici. Si quelqu'un devait me rendre un ou deux services, j'pourrais lui dire où il est l'trésor.}
 {113}{}{Raconte !}
 {114}{}{J'm'en tape.}
 {115}{}{Quel type de trésor ?}
 {116}{}{Quel type de service ?}
-{117}{}{J'ai d'autres questions.}
-{118}{}{Salut !}
+{117}{}{J'avais d'autres questions.}
+{118}{}{Au revoir !}
 {119}{}{Hé. Bon, d'accord. J'ai rien du tout pour toi du tout. Au r'voir.}
-{120}{}{Adieu.}
+{120}{}{Salut.}
 {121}{}{Ha, tu dois d'abord me rendre un p'tit service.}
-{122}{}{Pas de problème !}
+{122}{}{D'accord !}
 {123}{}{Nan !}
-{124}{}{C'est quoi ?}
+{124}{}{Qu'y a-t-il ?}
 {125}{}{Laisse tomber.}
 {126}{}{J'suis un vieux, et pis j'ai pas trop d'occasions de sortir. Pas trop de possibilités d'action si tu vois ce que je veux dire... Alors ce que j'veux, c'est un magazine *Cat's Paw*. Trouve m'en un.}
 {127}{}{V'la ! [Tu donnes le Cat's Paw à Typhon.]}
@@ -30,17 +30,17 @@
 {129}{}{Nan !}
 {130}{}{Voila. [Tu donnes le Cat's Paw à Typhon.]}
 {131}{}{Pas de problème. Je reviens.}
-{132}{}{Oublie ça tu veux.}
+{132}{}{Laisse tomber.}
 {133}{}{Merci pour le magazine, mon p'tit. Laisse-moi revenir dans une heure ou deux.}
-{134}{}{D'accord !}
+{134}{}{Ok !}
 {135}{}{J'ai pas encore fini !! M'enfin !! Une vieille Goule a bien l'droit à un peu d'intimité tout de même !!}
 {136}{}{[Terminé]}
 {137}{}{Quel genre de trésor ? D'la thune, tiens ! Plein plein d'argent. Suffisamment pour satisfaire n'importe quel sain d'esprit.}
-{138}{}{C'est quoi le piège ?}
+{138}{}{C'est quoi l'arnaque ?}
 {139}{}{J'ai pas besoin d'argent.}
 {140}{}{Tu es de retour, hein ? Tu veux savoir pour le trésor ?}
-{141}{}{Ouaip !}
-{142}{}{Nan nan.}
+{141}{}{'ui !}
+{142}{}{Nan-nan.}
 {143}{}{Quel genre de trésor ?}
 {144}{}{Ouais, raconte-moi.}
 {145}{}{J'voulais d'abord te poser d'autres questions.}
@@ -52,12 +52,12 @@
 {151}{}{Tu pourrais me raconter autre chose ?}
 {152}{}{C'est une sorte de blague. Y'a pas d'Goule qui soit pas vieille. On est toutes stériles, tu vois, mais on vit très très longtemps. On est la première et la dernière génération de Goules. C'est un endroit pour celles d'entre nous qui veulent se reposer un p'tit moment.}
 {153}{}{Je vois. J'avais d'autres questions.}
-{154}{}{J'ai compris. Salut.}
+{154}{}{Compris. Salut.}
 {155}{}{Je suis Typhon. D'jà entendu parler de Set ? Il dirigeait l'ancienne ville de Nécropolis. Je suis son fils. Né avant que les radiations nous frappent, donc j'ai grandi en mutant. Je n'ai jamais eu d'autre choix de toute ma longue vie.}
 {156}{}{Parle-moi de Set.}
 {157}{}{Set ?! J'ai entendu dire que c'était un connard fini !}
 {158}{}{Je vois. J'avais d'autres questions.}
-{159}{}{Ok. Salut.}
+{159}{}{Compris. Salut.}
 {160}{}{Ouaip. J'en avais à l'époque, mais les humains pure-souches m'l'ont volé pour leurs p'tits jardins d'Eden à eux. La Cité de l'Abri serait certainement le meilleur endroit pour en trouver un. Là-bas ou à RNC vers le Sud.}
 {161}{}{Merde. Ok, j'ai d'autres questions.}
 {162}{}{Merde. Salut.}
@@ -66,7 +66,7 @@
 {165}{}{Merci. Au revoir.}
 {166}{}{Alors ?! As-tu enfin mon Cat's Paw ?}
 {167}{}{Ouaip. [Tu donnes le Cat's Paw à Typhon.]}
-{168}{}{Non non.}
+{168}{}{Nan-nan.}
 {169}{}{Ouaip, le voilà. [Tu donnes le Cat's Spaw à Typhon.]}
 {170}{}{Pas encore, j'avais d'autres questions.}
 {171}{}{Non.}
@@ -78,7 +78,7 @@
 {177}{}{Et voilà ! [Tu donnes la poupée gonflable à Typhon.]}
 {178}{}{D'accord. J'avais d'autres questions.}
 {179}{}{D'accord. Salut.}
-{180}{}{Oublie ça.}
+{180}{}{Laisse tomber.}
 {181}{}{J'l'ai sur moi. [Tu donnes la poupée gonflable à Typhon.]}
 {182}{}{Ca, ça va dans le bon sens. Donne-moi quelques heures et on parlera plus. Tu peux partir. [Il regarde la poupée lascivement.]}
 {183}{}{[Terminé]}
@@ -90,7 +90,7 @@
 {189}{}{Tiens ! [Tu donnes du tord-boyaux à Typhon.]}
 {190}{}{J'l'ai. Tiens. [Tu donnes du tord-boyaux à Typhon.]}
 {191}{}{Ce sera tout ?}
-{192}{}{D'accord. Au revoir.}
+{192}{}{D'accord. Salut.}
 {193}{}{Laisse tomber.}
 {194}{}{J'aurai certainement besoin... Oh, d'un truc en plus. J'te dirai ça quand tu m'auras rapporté ma saloperie de tord-boyaux, d'accord ?}
 {195}{}{Bon, d'accord.}
@@ -100,10 +100,10 @@
 {199}{}{Merci. Mais dis-moi...}
 {200}{}{C'est un petit peu vague, mais merci. Au plaisir.}
 {201}{}{T'as trouvé le trésor ?}
-{202}{}{Non.}
-{203}{}{Non, pas encore.}
+{202}{}{Naan.}
+{203}{}{Pas encore.}
 {204}{}{Non, j'avais quelques questions.}
-{205}{}{Non. A plus.}
+{205}{}{Non. Salut.}
 {206}{}{Eh bien, continue à chercher. Tu finiras bien par l'trouver.}
 {207}{}{Ok.}
 {208}{}{J'espère bien. Salut.}
@@ -123,8 +123,6 @@
 {222}{}{Pfui, Typhon. T'es tellement sérieux. Bon, où est le pognon ?}
 {223}{}{D'accord. Je me souviens avoir planqué le pognon quelque part dans le centre-ville. Mais ça fait tellement de printemps et les immeubles ont été construits et reconstruits, que je suis plus sûr où que c'est qu'il est. Mais j'peux t'aider, j'me souviens l'avoir laissé quelque part dans un endroit qui ne serait pas détruit ou labouré. Quelque chose d'indispensable... Bonne chance à toi.}
 {224}{}{Tu as enfin réussi à faire cracher à Typhon l'endroit de son trésor caché.}
-
-# Typhon/Seymour Floats.
 {300}{}{Mais la dialectique d'Hegel ne justifie pas...}
 {301}{}{Hegel, Hegel, Hegel !! Avec toi, c'est toujours Hegel !}
 {302}{}{Alors la femme dit : "Ce n'est pas un lapin, M. le vicaire."}
@@ -132,7 +130,7 @@
 {304}{}{Et le premier proton dit "Ouais, j'en suis sûr !"}
 {305}{}{[Grognements] C'est TELLEMENT nul que ça m'flétrit !}
 {306}{}{C'est dur de rester vert.}
-{307}{}{J't'le fait pas dire.}
+{307}{}{Tu m'en diras tant.}
 {308}{}{Mais il s'agit là sans aucun doute d'une impasse philosophique !}
 {309}{}{C'est juste parce que tu n'as pas étudié toutes les ramifications de tout ça. Maintenant si tu...}
 {310}{}{Tu veux un fruit ?}

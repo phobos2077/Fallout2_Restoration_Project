@@ -206,7 +206,7 @@
  du eigentlich? Ich geb dir noch einen Job, aber für diesen kann ich dich wirklich nicht
  bezahlen.}
 {244}{}{Ich geb dir gleich einen Idioten — du dämliches, blechbesterntes, plattfüßiges Greenhorn!}
-{245}{}{Erzähl mir vom nächsten Job.}
+{245}{}{Erzähl mir über den nächsten Job.}
 {246}{}{Ich glaub, ich will im Moment nicht noch einen Job, Sheriff. Wiedersehn.}
 {247}{}{Danke, daß du dieses mordende Schwein Hakeswill eingelocht hast. Dem zeigen wir, was
  Recht ist — und dann hängen wir ihn. Gut gemacht, hier ist dein Geld. Machst du noch einen Job
@@ -280,15 +280,9 @@
  uns das Licht ausgeblasen hast.}
 {285}{}{Ich hab mir nur neuen Proviant besorgt. Bin schon unterwegs. Wiedersehn.}
 {286}{}{Bin schon auf dem Weg, Sheriff. Wiedersehn.}
-
-# Begin Seraph's Code
 {287}{}{Ich hab zwar keine Ahnung wie du das hingekriegt hast, aber so leise war es noch nie im Malamute Saloon.
  Hier ist dein Geld, bereit für weitere Arbeit?}
-# End Seraph's Code
-
 {300}{}{Diese Arbeit könnte ein bißchen zu hart für dich sein. Komm wieder, wenn du mehr
  Erfahrung gesammelt hast.}
 {301}{}{Ok, Sheriff.}
-
-#added by killap
 {302}{}{Es gibt nichts, was man für dieses Bein noch tun könnte. Nun muss es von alleine heilen.}

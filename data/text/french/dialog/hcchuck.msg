@@ -8,7 +8,6 @@
 {107}{}{Oh non ! J'ai tellement dormi que le monde est devenu fou ! [Il s'enfuit de panique.]}
 {108}{}{[Terminé]}
 {109}{}{Je suis Chuck Stodgers, le meilleur pilote d'avion au monde ! Malheureusement... je me suis écrasé. J'ai atterri dans cette cave pour me protéger de l'explosion, et les fumées m'ont surpris.}
-
 {110}{}{Ca ressemble étrangement au début d'un vieux dessin animé.}
 {111}{}{Nouvelle QUOI ? CALIFORNIE ? LE MONDE A TELLEMENT CHANGE ? AIEEEEEEEEEEEEEEEEE ! [Il s'enfuit de panique.]}
 {112}{}{Hé, attends un peu...}

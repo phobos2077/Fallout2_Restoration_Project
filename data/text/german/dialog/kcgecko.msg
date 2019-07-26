@@ -1,7 +1,6 @@
 {100}{}{Du siehst einen schmuddeligen Fallensteller.}
 {101}{}{Du siehst einen stämmigen Fallensteller.}
 {102}{}{Du siehst einen Gecko-Fallensteller.}
-
 {200}{}{Du wirst gut hierher passen.}
 {201}{}{Könntest 'ne Runde Drinks spendieren, he?}
 {202}{}{Interesse am Armdrücken mit den Duntons?}
@@ -27,7 +26,6 @@
 {222}{}{Es gibt einen Geist in einem Canyon östlich von hier.}
 {223}{}{Fallenstellen ist gefährlich. Vor ein paar Wochen habe ich einen guten Fallensteller verloren.}
 {224}{}{Es gefällt mir, diesen Torr auszutricksen.}
-
 {300}{}{Sieh mal, wer uns besuchen kommt.}
 {301}{}{(Murmel, murmel) ...Mr. Alleskönner hier... (murmel)}
 {302}{}{Bist du nicht im falschen Teil der Stadt?}

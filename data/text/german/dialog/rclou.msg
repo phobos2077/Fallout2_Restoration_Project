@@ -16,7 +16,7 @@
 {109}{}{Was denn jetzt noch?}
 {110}{}{Uuh?}
 {111}{}{Hallo, Lou. Ich möchte was haben.}
-{112}{}{Hast du schon mal was von einem sogenannten Garden-Eden-Creation-Kit gehört?}
+{112}{}{Hast du schon mal was von einem Garden-Eden-Creation-Kit gehört?}
 {113}{}{Hallo, Lou. Was ist denn in dieser Stadt so los?}
 {114}{}{Was ist ein Malamute?}
 {115}{}{Wo ist denn Frisco von hier aus gesehen?}
@@ -24,7 +24,7 @@
 {117}{}{Tut mir leid, für Dumme habe ich wenig Zeit und Geduld. Was willst du?}
 {118}{}{Grink?}
 {119}{}{Zimmer?}
-{120}{}{Tschüssi.}
+{120}{}{Wiedersehn.}
 {121}{}{Einen Drink, was? Das macht dann $25 für eine Flasche schönes, kühles Bier. Und ich
  mache dir sogar einen besonders günstigen Preis, ich habe nämlich ein Herz für Dumme.}
 {122}{}{Grink? [Du hältst ihr deine Brieftasche hin.]}
@@ -83,21 +83,21 @@
  etwas Geld gegeben und sie gehen lassen.}
 {164}{}{Weißt du, wer das getan hat?}
 {165}{}{Weißt du, was passiert ist?}
-{166}{}{Laß mich dich noch etwas fragen.}
+{166}{}{Ich möcht dich noch was andres fragen.}
 {167}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {168}{}{Bin mir nicht ganz sicher, wer das war, aber sie hielt 'n Morningstar-Schuldschein in der
  Hand, als wir sie fanden, und der letzte, der bei ihr war, war 'n Bergarbeiter.}
 {169}{}{Kann ich das Mädchen sehen?}
 {170}{}{Weißt du, was passiert ist?}
 {171}{}{Ein Morningstar-Schuldschein? Was ist das?}
-{172}{}{Laß mich dich noch etwas fragen.}
+{172}{}{Ich möcht dich noch was andres fragen.}
 {173}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {174}{}{Also, es gab Geschrei und Getrampel und da bin ich in ihr Zimmer. Als ich ankam, war das
  Schwein schon weg und meinem Mädchen ging es ziemlich dreckig. Also hab ich den Doc gerufen und
  dann den Sheriff. Den Rest kennst du.}
 {175}{}{Weißt du, wer das getan hat?}
 {176}{}{Kann ich das Mädchen sehen?}
-{177}{}{Laß mich dich noch etwas fragen.}
+{177}{}{Ich möcht dich noch was andres fragen.}
 {178}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {179}{}{Im Norden der Stadt betreibt Dan McGrew die Morningstar-Mine. In der Regel kriegen die
  Bergarbeiter Schuldscheine von ihrer jeweiligen Mine... du weißt schon, Zettel. Also, mein
@@ -105,7 +105,7 @@
  [Sie gibt dir den Zettel.]}
 {180}{}{Ach so. Kann ich das Mädchen sehen?}
 {181}{}{Ach so. Weißt du, was passiert ist?}
-{182}{}{Laß mich dich noch etwas fragen.}
+{182}{}{Ich möcht dich noch was andres fragen.}
 {183}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {184}{}{Tja, ich bin wirklich froh, daß sich jemand der Sache annimmt. Solche Sachen sind einfach
  mies. Ich hoffe wirklich, daß du das Schwein dafür zahlen läßt, was er meinem Mädchen angetan
@@ -117,7 +117,7 @@
 {188}{}{Ich hätt gern ein Zimmer mit einem leeren Bett, Lou.}
 {189}{}{Mit was drin? Das hört sich gut an. Erzähl mir mehr darüber.}
 {190}{}{Alk und sonst noch was. Ja, das klingt gut. Ich glaube, wir können ins Geschäft kommen.}
-{191}{}{Hmm, laß mich dich noch etwas fragen.}
+{191}{}{Hmm. Ich hätte da noch 'ne Frage.}
 {192}{}{Ist das alles, oder wolltest du noch irgend etwas kaufen?}
 {193}{}{Du scheinst dich ja nur schwer entscheiden zu können. Ist das alles, oder willst du noch
  mal schauen?}
@@ -177,14 +177,23 @@
 {227}{}{Danke, ich denke über das, was du mir gesagt hast, nach. Aber laß mich dich noch etwas
  fragen.}
 {228}{}{Darüber muß ich nachdenken. Wiedersehn.}
-
 {229}{}{Hmmm... Vielleicht habe ich eine Lösung. [Du gibst Lou das Jet-Gegenmittel.]}
 {230}{}{Was ist das denn für ein Zeug?}
 {231}{}{Das lässt die Entzugserscheinungen verschwinden. Wenn sie das nächste mal was trinkt, musst du ihr das in den Drink schütten.}
 {232}{}{Nun... Ok. Gibt es sonst noch etwas?}
 {233}{}{Ich bin auf der Suche nach etwas.}
 {234}{}{Was ist hier so los in der Stadt?}
-
 {300}{}{Du hast geholfen Fannies Sucht zu überwinden.}
-{301}{}{Auf Wiedersehen.}
+{301}{}{Wiedersehn.}
 {310}{}{Eventuell habe ich da etwas das Fannie hilft. [Du gibst Lou das Jet-Gegenmittel.]}
+{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
+ I just want you to know that I'm thankful for what you did. How can I help you?}
+{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
+ Jail's too good for what that bastard done.}
+{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
+ that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
+ do you want?}
+{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute
+ Saloon, finest house north of San Fran. Now just what the hell do you want?}
+{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember,
+ too much money ain't good for that gal. Now whattya need?}

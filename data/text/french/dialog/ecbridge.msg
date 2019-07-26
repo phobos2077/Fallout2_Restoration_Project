@@ -4,17 +4,17 @@
 {103}{}{Tu vois un homme au regard sauvage. Il porte une barbe négligée et sa voix est grinçante. Son oeil gauche semble prêt à sortir de son orbite.}
 {104}{}{Arrête ! Pour traverser le Pont de la Mort, il faut répondre à trois questions. Après tu verras l'autre bord.}
 {105}{}{Cé... Dé... Eu... èF... Gé...}
-{106}{}{Va-t'en}
+{106}{}{[Se déconnecter à regret]}
 {107}{}{Très bien.}
 {108}{}{Pose-moi les questions, gardien du pont. Je n'ai pas peur.}
 {109}{}{Je reviendrai peut-être plus tard.}
 {110}{}{Comment t'appelles-tu ?}
 {111}{}{Hache... Hi... Jii... Kaa... Elle...}
-{112}{}{?}
-{113}{}{Moi} #continue at 172
-{114}{}{Va-t'en.}
+{112}{}{ ?}
+{113}{}{Moi }
+{114}{}{[Se déconnecter à regret]}
 {115}{}{ de Arroyo.}
-{116}{}{Harry.}
+{116}{}{Harry}
 {117}{}{Hakuin.}
 {118}{}{Couilles.}
 {119}{}{Richard Grey.}
@@ -24,7 +24,7 @@
 {123}{}{Quelle est ta quête ?}
 {124}{}{Hum... nnnn... oh... pipi !}
 {125}{}{J.E.K Arro-yo.}
-{126}{}{[Partir]}
+{126}{}{(Partir)}
 {127}{}{Je cherche le sacré J.E.K.}
 {128}{}{Je veux sauver mon village.}
 {129}{}{Je veux retrouver ma tribu kidnappée.}
@@ -70,15 +70,12 @@
 {169}{}{Le joueur est désintégré.}
 {170}{}{Hé, hé, hé !}
 {171}{}{Je ferais peut-être mieux de sauvegarder ma partie dans un nouvel emplacement.}
-{1171}{}{Uh, oh. Moi devoir sauvegarder dans un nouvel emplacement.}
-
 {172}{}{Quoi ton nom ?}
-
 {173}{}{Je ne pose jamais les bonnes questions.}
 {174}{}{Je vais parler de tout ça à mon agent.}
 {175}{}{Je lui dis sans cesse qu'il faut que j'arrête de faire ces trucs.}
 {176}{}{Comment vais-je réussir à me faire respecter comme je le mérite en produisant des films à petits budgets et des jeux vidéo.}
 {177}{}{Hum... Je devrais vraiment envisager de me lancer dans la réparation de voitures.}
 {178}{}{J'ai entendu dire que c'est ce qui rapporte le plus de nos jours.}
-
 {200}{}{AAAAAAAHHHHHHHHhh !}
+{1171}{}{Uh, oh. Moi devoir sauvegarder dans un nouvel emplacement.}

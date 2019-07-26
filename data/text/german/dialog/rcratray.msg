@@ -50,4 +50,3 @@
 {149}{}{Doktor weg, Ratt traurig.}
 {150}{}{Wer sich jetzt um Ratt kümmern?}
 {151}{}{Ratt hält Haus schön, bis Doktor zurück.}
-

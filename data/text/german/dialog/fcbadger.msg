@@ -3,7 +3,7 @@
 {102}{}{Du siehst einen Vagabunden mit einem höhnischen Grinsen auf dem Gesicht.}
 {103}{}{[Er rülpst laut] Wat wills'n du?}
 {104}{}{::Rülps::}
-{105}{}{Wer du?}
+{105}{}{Du wer?}
 {106}{}{Wer bist du?}
 {107}{}{Was weißt du über diesen Tanker?}
 {108}{}{Was machst du hier?}
@@ -20,7 +20,7 @@
 {119}{}{Was für Sachen machst du denn am Computer?}
 {120}{}{Ich wette deine Band war der größte Mist.}
 {121}{}{War die Band gut?}
-{122}{}{Danke, Wiedersehn.}
+{122}{}{Danke. Tschüß.}
 {123}{}{Ääh... OK.}
 {124}{}{Wiedersehn!}
 {125}{}{Du solltest mit Marc oder dem Kapitän darüber sprechen.}
@@ -28,14 +28,14 @@
 {127}{}{Wo finde ich den Kapitän?}
 {128}{}{Ich bin das hiesige Computergenie.}
 {129}{}{Was für Sachen machst du denn am Computer?}
-{130}{}{Danke, Wiedersehn.}
+{130}{}{Danke. Tschüß.}
 {131}{}{Nerv mich nicht. [Er furzt] Ich mach ja schon, alles klar?}
 {132}{}{OK, OK. Sag mir nur Bescheid, wenn du fertig bist.}
 {133}{}{Tja, man könnte mich als einen Spezialisten für Informationsbeschaffung bezeichnen.}
 {134}{}{Kannst du was für mich beschaffen?}
 {135}{}{Was heißt das?}
 {136}{}{Hey Mann, LMAA.}
-{137}{}{Hey!}
+{137}{}{He!}
 {138}{}{LMAA.}
 {139}{}{Ich sag dir, wir ham's echt gebracht! Unser Sänger war... naja...'n bißchen schwul und Aaron schwitze immer und das übrige war Todds Schuld. Aber wir waren gut.}
 {140}{}{Schade, daß ihr nicht mehr zusammen seid. Ich hätte euch gern gehört.}
@@ -51,12 +51,12 @@
 {150}{}{Was ist dein Preis?}
 {151}{}{Ja, egal. Ich muß gehn.}
 {152}{}{Das heißt, daß ich dir die Daten besorgen kann, die du brauchst.}
-{153}{}{Kannst du was für mich tun?}
+{153}{}{Can you do something for me?}
 {154}{}{Ah ja. Cool. Ich habe noch weitere Fragen.}
-{155}{}{OK. Danke.}
+{155}{}{Verstehe. Danke.}
 {156}{}{Ja, war ja klar. Jedenfalls muß ich jetzt weitermachen..}
 {157}{}{Warte. Ich habe weitere Fragen.}
-{158}{}{Danke.  Mach's gut.}
+{158}{}{Danke. Bis dann.}
 {159}{}{Ich glaube, ich mag dich jetzt genug, ich kann's gleich für dich tun. Wen soll ich für dich besuchen?}
 {160}{}{Die Hubologen.}
 {161}{}{Die Shi.}
@@ -93,25 +93,20 @@
 {192}{}{Nein, mach's gut.}
 {193}{}{Du hast gerade einen großen Fehler gemacht, Kumpel. Ich habe die Shi und die Hubologen mit Hilfe ihrer Computer gegen dich aufgebracht. In San Francisco bist du erledigt.}
 {194}{}{Tja, dann werde ich dich wohl töten müssen.}
-
 {195}{}{Gib mir ein paar Stunden, um mich wieder einzukriegen.}
 {196}{}{Du willst, daß ich mich in einen formatierten Computer hacke? Die Informationen sind weg. Da ist nichts mehr zu wollen!}
-
 {197}{}{Ich muß mich von hier verziehen.}
 {198}{}{Schön, dich zu sehn, Mann.}
-
 {199}{}{Ich brauche etwas Benzin.}
 {200}{}{Ich habe gehört, daß die Hubologen Benzin haben und ich könnte für dich einen Blick in ihren Computer werfen.}
 {201}{}{Die Shi haben das ganze Benzin in dieser Gegend. Ich könnte für dich einen Blick in ihren Großrechner werfen.}
 {202}{}{Kannst du das?}
-
 {203}{}{Was zum Teufel willst du?}
 {204}{}{Dachs von den Vagabunden, nehm ich an?}
 {205}{}{Du hast zum letzten Mal Schande über unseren Kaiser gebracht.}
 {206}{}{Ich werde mir jetzt ein paar Süßigkeiten von Lao Chou in der Stadt holen.}
 {207}{}{Soviel zu einer fairen Verhandlung. Hmmm...}
 {208}{}{Bleib locker Alter. Ich wollte doch bloß ein paar Süßigkeiten.}
-
 {209}{}{Kannst du das Benzin von ihrem Raumschiff auf den Tanker schaffen?}
 {210}{}{Kannst du mir eine Kopie ihres Vertibird-Plans besorgen?}
 {211}{}{Kannst du das Benzin umleiten und mir die Pläne besorgen?}
@@ -120,11 +115,10 @@
 {214}{}{OK, aber das Ding könnte in die Hose gehn.}
 {215}{}{Kannst du das Benzin aus ihrem Lager in den Tanker umleiten?}
 {216}{}{Na, egal. Ich mach's irgendwie anders.}
-{217}{}{Na, egal.}
+{217}{}{Macht nichts.}
 {218}{}{OK. Komm morgen oder so zu mir und ich laß es dich wissen.}
 {219}{}{Hast du bekommen, was ich wollte?}
 {220}{}{Ja, ich habe das Benzin.}
 {221}{}{Ja, ich habe die Verti-Pläne.}
 {222}{}{Ja, ich habe das Benzin und die Pläne.}
 {223}{}{Danke. Mach's gut}
-

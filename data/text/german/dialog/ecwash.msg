@@ -10,8 +10,6 @@
 {109}{}{Du siehst Alexander die Killerbiene, ein Mitglied der Ungewaschenen Dorflinge.}
 {110}{}{Du siehst Hatchetman, ein Mitglied der Ungewaschenen Dorflinge.}
 {111}{}{Du siehst BlueCross, ein Mitglied der Ungewaschenen Dorflinge.}
-
-# Examines
 {113}{}{Du siehst Buffy, eine besonders schöne, intelligente und flotte Cheerleaderin. Sie ist
  die Erste Vorsitzende der Ungewaschenen Dorflinge.}
 {114}{}{Du siehst Doombot, Klanggöttin und Schwester von Buffy. Sie sieht ein bißchen aus wie
@@ -32,8 +30,6 @@
 {123}{}{Du siehst Hatchetman, Büchsenmacher der Ungewaschenen Dorflinge - Feuer-Befehlshaber -
  Halter der Lehre über das Schattenlaufen.}
 {124}{}{Du siehst BlueCross, Unterer Priester der Ungewaschenen - Fabrikgeschäftsführer.}
-
-# UV Leaving Floats 
 {200}{}{Ungewaschene Dorflinge retten den Tag, noch einmal!}
 {201}{}{Der Tod ist zu gut für ihn.}
 {202}{}{Und bleib' tot!}
@@ -55,13 +51,11 @@
 {218}{}{Die Ungewaschenen Dorflinge.  Bewahren den Frieden in einem verfluchten Ödland.}
 {219}{}{Er hat bekommen, was er verdient.}
 {220}{}{Ich jage dich!}
-
-# UV Combat Floats
 {300}{}{Seife? Wir brauchen keine klebrige Seife!}
 {301}{}{Versammelt Euch, Ungewaschene! Zerstört den Spammer!}
 {302}{}{Tod den Spammern!}
 {303}{}{Das hast Du davon, daß Du das Leben anderer Leute bedrohst!}
-{304}{}{Stirb jetzt, Grim Reaper.}
+{304}{}{Now you will die, Grim Reaper.}
 {305}{}{Du gehst zurück, Australier!}
 {306}{}{Der Genpool braucht etwas Chlor.}
 {307}{}{Zeit zum Zurückzahlen!}
@@ -74,51 +68,26 @@
 {314}{}{Beschützt den Auserwählten von den Hirngespinsten des Spammers!}
 {315}{}{Auserwähltes Wesen! Komm zu uns!}
 {316}{}{Die Rache der Ungewaschenen!}
-{317}{}{Du wirst niemals ein Ungewaschenes Wesen sein, Du Dummkopf!}
+{317}{}{You will never be 'Unwashed', childish fool!}
 {318}{}{Du hast keine Chance!}
 {319}{}{Wir sind noch nicht fertig!}
 {320}{}{Auf diesen Tag habe ich seeeehr lange gewartet.}
-
-# 1 Buffy Personal Floats
 {400}{}{Das ist dafür, daß Du mich bedroht hast!}
-{401}{}{Da bin ich ganz sicher! Du würdest einem Mädchen nicht weh tun, oder?}
+{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
 {402}{}{'Rache wird am besten kalt serviert.'}
-{403}{}{Ich bin Buffy... dein Stern.}
-
-# 2 Doombot Personal Floats
+{403}{}{I'm Buffy... you're toast.}
 {405}{}{Keiner wagt es, Doombot zu bedrohen!}
 {406}{}{Grim Buster!}
-
-# 3 Panoply Personal Floats
 {410}{}{Nur ein guanaban kann man mit dem Geschmack dieses Sieges vergleichen...}
-
-# 4 Lerk Personal Floats
 {415}{}{Das Dorf war ein friedliches Fleckchen, bevor Du es sehr, sehr wütend gemacht hast.}
-
-# 5 Ymir Personal Floats
 {420}{}{Du hast unserem Land zum letzten Mal Schande bereitet!}
-
-# 6 Iguana Eater -Personal Floats - None
-
-# 7 Night Owl Personal Floats
 {430}{}{Ich werde Dir einen schönen langen Schlaf bereiten!}
-
-# 8 Shadow Dancer Personal Floats
 {435}{}{Wir fahren alle zur Hölle und ich fahre den Bus.}
 {436}{}{Komm mein Kind, lass' mich Dich von Deinem Schmerz befreien.}
 {437}{}{Du bist tot. Du weißt es nur noch nicht.}
-
-# 9 Amish Commando Personal Floats
 {440}{}{Nimm das!}
 {441}{}{Willst Du noch mehr davon?}
 {442}{}{Nicht das Gesicht, nicht das Gesicht!}
-
-# 10 Killer Bee Personal Floats
 {445}{}{Die Hölle, in die ich Dich jetzt schicken werde, hat Dante nicht beschrieben...}
-
-# 11 Hatchetman Personal Floats
 {450}{}{Gewehre! Gewehre! Gewehre! Wo sind meine Gewehre!}
 {451}{}{Ok, Ja. Ich bin verrückt. Damit mußt Du zurecht kommen.}
-
-# 12 BlueCross -Personal Floats - None
-

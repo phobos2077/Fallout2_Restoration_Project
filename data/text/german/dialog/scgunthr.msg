@@ -13,14 +13,13 @@
 {110}{}{Das Ganze noch mal von vorn. Du wollen helfen Tandi? Du wollen arbeiten für Tandi?}
 {111}{}{Jajajaja!}
 {112}{}{Tandi Arbeit. Ich wollen.}
-{113}{}{Was kannst du denn so?}
+{113}{}{Was du tun?}
 {114}{}{Ähhhh...ich töten. Viel töten!}
 {115}{}{Ähhhh...ich schlau. Älteste sagen ich haben Kinderhirn. Ich haben zwei Gehirn. Ich schlau}
 {116}{}{Die Arbeit der Präsident ist nichts für dich!}
 {117}{}{Nein?}
 {118}{}{Oh. Na gut.}
-{119}{}{So, so. Ich weiß nicht, ob es das ist, was sie benötigt. Na ja, sie hat gesagt, ich soll
- jeden reinschicken.Du gehen hinein. Jetzt Tandi reden.}
+{119}{}{Right. I'm not sure that's what she's looking for. Oh well, she said send them all in. You go. Talk Tandi now.}
 {120}{}{NEIN! Du bist dumm. Präsident muß schlau sein, muß reden können. Du kein Präsident.}
 {121}{}{Oh. Was ich machen?}
 {122}{}{Ich dich nix mögen. Du schreien. Du böse.}
@@ -32,7 +31,7 @@
 {127}{}{Die Präsidentin ist nicht mehr zu Gesprächen über Vault 13 bereit. Tut mir leid. Sie hat
  viel zu tun und kann sich unmöglich mit jedem dahergelaufenen Glücksritter beschäftigen.}
 {128}{}{Was? Kapier ich nicht.}
-{129}{}{Und über das GECK, weiß sie darüber vielleicht was?}
+{129}{}{What about a GECK? She might know something about that?}
 {130}{}{Da war von einer Arbeit die Rede.}
 {131}{}{Das hat alles keinen Sinn. Ich gehe.}
 {132}{}{Dann würde ich vorschlagen, daß du dir die Gedenktafel an der Statue draußen durchliest.
@@ -40,7 +39,7 @@
 {133}{}{Ich hab keine Ahnung, wovon du da sprichst. Hast du nun Fragen oder nicht?}
 {134}{}{Ich bin auf der Suche nach Vault 13.}
 {135}{}{Ich habe erfahren, daß die Präsidentin Arbeit zu vergeben hat.}
-{136}{}{Vergiß es.}
+{136}{}{Macht nichts.}
 {137}{}{Ah ja. Sie hat Anweisung gegeben, jeden vorzulassen, der danach fragt. Es ist die Tür
  rechts von mir. Ich hab dich angemeldet.}
 {138}{}{Und, ist die Unterredung mit der Präsidentin abgeschlossen? Wie ist's gelaufen?}
@@ -51,7 +50,7 @@
 {143}{}{Nein.}
 {144}{}{Es tut mir sehr leid, aber die Präsidentin ist gerade sehr beschäftigt. Komm doch einfach
  wieder her, wenn du die Arbeit erledigt hast.}
-{145}{}{Okay.}
+{145}{}{OK.}
 {146}{}{Hervorragend! Ich melde dich an.}
 {147}{}{Du Schweinehund! Wachen! Überfall! Mörder!}
 {148}{}{Das ging aber schnell! Wie sieht's aus?}
@@ -70,7 +69,7 @@
  jetzt muß ich wieder an die Arbeit. Auf Wiedersehen, dann.}
 {158}{}{Deine Präsidentin meinte, du solltest wissen, daß sich ein Spion unter deinen Leuten
  befindet - ein gewisser Feargus.}
-{159}{}{Auf Wiedersehen.}
+{159}{}{Wiedersehn.}
 {160}{}{Feargus? Ich glaub das nicht.}
 {161}{}{Sieh dir mal diese Holodisk an.}
 {162}{}{So oder so, ich mach mich davon.}
@@ -84,22 +83,17 @@
 {167}{}{Ich will mich da mal ganz unmißverständlich ausdrücken: Die Präsidentin wünscht keine
  Unterredungen mehr mit dir. Jetzt nicht und auch nicht in Zukunft. Du hast dein Geld bekommen.
  Und jetzt geh.}
-
-{171}{}{Ich gehn.}
+{171}{}{Ich gehen.}
 {172}{}{Absolut gar nichts.}
 {173}{}{Du dreckiges Miststück! Wache! Überfall! Mörder!}
-
 {174}{}{Ich komm gerade von Vault 15 und ich muß mit deiner Chefin drüber reden.}
 {175}{}{Ich müssen reden über Vault 15.}
 {176}{}{Du solltest wissen, es gibt einen Spion unter deinem Dach - irgendjemand mit F.}
-
 {177}{}{Ich auch findet Spion. Ferrrgus.}
 {178}{}{Mir nix lügen. Du gucken. (Du gibst ihm die Disk.)}
 {179}{}{Danki!}
-
-
-#define GLOBAL Message response
 {500}{}{Es hat seine guten Gründe, daß diese Tür verschlossen ist.}
 {501}{}{Ich muß dich auffordern zu gehen.}
 {502}{}{Das ist meine letzte Warnung. Geh, oder ich laß dich entfernen.}
 {503}{}{Wache, schafft mir dieses Ungeziefer vom Hals.}
+{510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}

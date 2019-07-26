@@ -3,14 +3,14 @@ Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
 {101}{}{Du siehst einen Bürger von Vault City.}
 {102}{}{Du siehst einen Bürger in einem leuchtendblauen Overall. Sieht aus wie ein 
 Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
-{103}{}{::Klatscht::}
-{104}{}{Da ist der Held! Sieh mal!}
-{105}{}{Ungelogen! Das ist der Held, hier, in Vault City!}
-{106}{}{Schönen Tag noch, Hauptmann.}
-{107}{}{Vault City lebe hoch, Hauptmann.}
+{103}{}{::Beifall::}
+{104}{}{Es ist der Held! Schau!}
+{105}{}{Wie ich gesagt habe! Es ist der Held, hier, in Vault City!}
+{106}{}{Guten Tag, Hauptmann.}
+{107}{}{Vault City wird bestehen, Hauptmann.}
 {108}{}{Möchtest du mit uns zu Abend essen, Hauptmann?}
 {109}{}{Guten Tag, Bürger.}
-{110}{}{Vault City lebe hoch, Bürger.}
+{110}{}{Vault City wird bestehen, Bürger.}
 {111}{}{Möchtest du mit uns zu Abend essen?}
 {112}{}{Ein Mutant! Wache! Wache!}
 {113}{}{Ein Ghul! Wache! Wache!}
@@ -19,45 +19,43 @@ Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
 {116}{}{Kann ich etwas für dich tun?}
 {117}{}{Ihr Outsider könntet ruhig mal bessere Manieren an den Tag legen.}
 {118}{}{Typisch Outsider, einfach hier hereinzuplatzen...}
-{119}{}{Ich habe von deinen mutigen Taten gehört. Du hast damit Vault City und der ganzen Welt einen großen Dienst erwiesen.}
-{120}{}{Dein Kampf gegen die Enklave hat sogar die Erstbürgerin beeindruckt.}
+{119}{}{Ich habe von Deinen mutigen Taten gehört. Du hast Vault City einen großen Dienst erwiesen...und der Welt.}
+{120}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
 {121}{}{Ich habe gehört, du seist bis ganz runter in den Süden, bis nach San...Fran...zisco
  gereist. Stimmt das?}
 {122}{}{Vielleicht sollte Vault City doch Outsider aufnehmen.}
-{123}{}{Stimmt das? Hat die alte Regierung den Krieg immer noch weitergeführt?}
-{124}{}{Du solltest deine Reisen im Computer von Vault City dokumentieren, damit sie jeder dort
- nachlesen kann.}
-{125}{}{Du bist herzlich eingeladen, solange zu bleiben, wie du möchtest, Held.}
-{126}{}{Du solltest deine Heldentaten gegen die Enklave als nette kleine Liste veröffentlichen.}
-{127}{}{*Gähn*... Hmmmmm? Ja? Was gibt's?}
+{123}{}{Ist das wahr? Hat die alte Weltregierung immer noch Krieg geführt?}
+{124}{}{Du solltest Deine Reisen im  Vault City-Computer festhalten, damit andere darüber lesen können.}
+{125}{}{Du darfst gerne solange bleiben, wie Du möchtest, Held.}
+{126}{}{Du solltest Deine Heldentaten gegen die Enklave in einer schönen, ordentlichen Liste festhalten.}
+{127}{}{*Gähn*...Hmmmmm? Ja? Was gibt's?}
 {128}{}{Bißchen spät für einen Besuch.}
-{129}{}{Die MEISTEN Bürger würden um die Zeit schon schlafen.}
-{130}{}{Schlafen? Nein, jetzt nicht mehr.}
-{131}{}{Komm bitte morgen früh wieder. Ich muß morgen den ganzen Tag über Listen zusammenstellen.}
-{132}{}{Schönen Tag noch, Hauptmann.}
-{133}{}{Vault City lebe hoch, Hauptmann.}
+{129}{}{Die MEISTEN Bürger würden zu dieser Stunde schlafen.}
+{130}{}{Schlafen? Nein, nicht mehr.}
+{131}{}{Bitte... komm am Morgen wieder. Morgen wird es ein langer Tag, weil ich die Listen machen muß.}
+{132}{}{Guten Tag, Hauptmann.}
+{133}{}{Vault City wird bestehen, Hauptmann.}
 {134}{}{Möchtest du mit uns zu Abend essen, Hauptmann? Unser Diener macht gerade ein wunderbares
  Gulasch.}
 {135}{}{Möchtest du ein wenig Gebäck, Hauptmann?}
 {136}{}{Stimmt was nicht, Hauptmann?}
-{137}{}{Es macht doch wohl hoffentlich keiner von diesen verlausten Outsidern Ärger?}
+{137}{}{Ich hoffe, keiner dieser dreckigen Outsiders macht Dir Ärger, Hauptmann.}
 {138}{}{Soll ich dir noch ein wenig von dem Essen für die Wachen mitgeben, Hauptmann?}
 {139}{}{Guten Tag, Bürger.}
-{140}{}{Vault City lebe hoch, Bürger.}
-{141}{}{Als Bürger ist es unsere Pflicht, Listen zu erstellen und zu pflegen.}
+{140}{}{Vault City wird bestehen, Bürger.}
+{141}{}{Als ein Bürger ist ein Teil unserer bürgerlichen Pflichten die Erstellung und Wartung von Listen.}
 {142}{}{Bleib doch bitte zum Abendessen, Bürger. Unser Diener macht ein wunderbares Gulasch.}
 {143}{}{Ich habe heute den ganzen Tag lang die Liste für den Pro-Konsul fertiggemacht und sie
  dann überprüft. Ich liebe Listenschreiben.}
-{144}{}{Ich arbeite im Listenamt. Die meisten Leute arbeiten da. Wir von Vault City *lieben*
- Listenschreiben.}
+{144}{}{Ich arbeite im Listenbüro. Die meisten von uns tun das. Wir hier in Vault City *lieben* es, Listen zu erstellen.}
 {145}{}{Ich hab heute fast den ganzen Tag lang diese Liste für das Listenamt auf den neuesten
  Stand gebracht. Eine anständige, ehrliche und kreative Arbeit.}
 {146}{}{Man sagt, du seist in der Außenwelt herumgereist. Wie konntest du denn bloß unter diesen
  ganzen dreckigen Outsidern überleben?}
 {147}{}{Oh! Du bist der neue Bürger. Willkommen in Vault City.}
-{148}{}{Weißt du schon, wo du wohnen wirst, solange du hier bist?}
-{149}{}{Der Rat meint es wirklich gut mit uns.}
-{150}{}{Wir müssen alle dafür sorgen, daß unsere schöne Stadt sauber bleibt.}
+{148}{}{Brauchst Du eine Bleibe, während Du in der Stadt bist?}
+{149}{}{Dem Rat liegen unsere Interessen am Herzen.}
+{150}{}{Wir müssen darauf achten, unsere schöne Stadt sauber zu halten.}
 {151}{}{Jeder Familie wird ein Raum im Gemeinschaftshaus zugewiesen.}
 {152}{}{Die Stadt versorgt uns mit allem, was wir brauchen.}
 {153}{}{Die Diener? Die machen bei uns die Dreckarbeit.}
@@ -76,5 +74,5 @@ Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
 {165}{}{Die Diener? Die machen bei uns die Dreckarbeit.}
 {166}{}{Hmmmm. Ich brauche einen Diener, um den Lagerraum sauberzumachen.}
 {167}{}{Ein Diener sollte nachher kommen und im Garten Unkraut jäten.}
-{168}{}{Klar. Das riecht... äh, sieht man doch, daß du ein Outsider bist.}
-{169}{}{Du bist ein Outsider? Wie drollig.}
+{168}{}{Ja, ich kann riechen... äh, sehen, daß Du ein Outsider bist.}
+{169}{}{Du bist ein Outsider? Wie putzig.}

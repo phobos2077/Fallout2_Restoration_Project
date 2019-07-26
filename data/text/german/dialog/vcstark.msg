@@ -8,7 +8,7 @@
 {105}{}{Guten Tag....}
 {106}{}{Vault City lebe hoch....}
 {107}{}{Guten Tag, Bürger.}
-{108}{}{Vault City lebe hoch, Bürger.}
+{108}{}{Vault City wird bestehen, Bürger.}
 {109}{}{Du wirst es noch bereuen, daß du in die Stadt gekommen bist...Wache!}
 {110}{}{Ein Mutant! Wache!}
 {111}{}{Ein Ghul! Wache!}
@@ -27,18 +27,18 @@
  nie gesehen. Kannst du dich ausweisen?}
 {123}{}{Du willst meine Papiere sehen? Dann hol sie dir.}
 {124}{}{Ich habe meine Papiere momentan nicht bei mir.}
-{125}{}{Hier, bitte.}
+{125}{}{Bitte.}
 {126}{}{Dann bin ich fertig mit dir, "Bürger". Fort mit dir.}
 {127}{}{Für heute ist Schluß mit Erledigungen. Und jetzt fort mit dir.}
 {128}{}{Ich rühr mich nicht von der Stelle. Wenn du mich anfaßt, dann knallt's.}
-{129}{}{In Ordnung, ich gehe.}
+{129}{}{In Ordnung, ich gehe schon. }
 {130}{}{Hauptmann. Kann ich dir helfen...Sir?}
 {131}{}{Kann ich dir helfen, Bürger?}
 {132}{}{Was willst du?}
 {133}{}{Jah!}
 {134}{}{Verzieh dich}
 {135}{}{Wer bist du?}
-{136}{}{Nichts weiter. Entschuldige die Störung.}
+{136}{}{Nichts. Entschuldige die Störung.}
 {137}{}{Du kommst jetzt mit, Bürschlein. Auf der Stelle.}
 {138}{}{Du kommst jetzt mit, Mädchen. Auf der Stelle.}
 {139}{}{Ich gehen? Ich gehen!}
@@ -48,9 +48,9 @@
 {143}{}{Sergeant Stark...Sir. Brauchst du was?}
 {144}{}{Ich bin Bürger SERGEANT Stark, Bürger. Kann ich dir irgendwie behilflich sein?}
 {145}{}{Ich bin Bürger SERGEANT Stark, Outsider. Was willst du?}
-{146}{}{Was tust du hier?}
+{146}{}{Was machst du hier?}
 {147}{}{Kannst du mir sagen, wo die Vault ist?}
-{148}{}{Nichts weiter. Entschuldige die Störung.}
+{148}{}{Nichts. Entschuldige die Störung.}
 {149}{}{Ich mache DEINE Arbeit, Mister.}
 {150}{}{Ich leite die Besserungsanstalt. Und gehorche deinen Befehlen, Mister.}
 {151}{}{Ich leite die Besserungsanstalt hier. Bring den Außenweltlern Manieren bei. Sorge dafür,
@@ -62,8 +62,8 @@
 {155}{}{Streifengänge?}
 {156}{}{Gangster?}
 {157}{}{Wegen diesen Gangstern...}
-{158}{}{Darf ich dich ein paar Sachen fragen?}
-{159}{}{Danke. Wiedersehn.}
+{158}{}{Kann ich dir einige Fragen stellen?}
+{159}{}{Vielen Dank. Auf Wiedersehn.}
 {160}{}{Was immer du willst. Nur zu.}
 {161}{}{Gestattet.}
 {162}{}{Nein. Zuerst wollte ich dir noch ein paar Fragen stellen.}
@@ -87,7 +87,7 @@
 {173}{}{Cassidy sagt, er hätte alles bezahlt und du hättest trotzdem eine Razzia in seinem Lokal
  durchgeführt.}
 {174}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
-{175}{}{Na, egal. Wiedersehn}
+{175}{}{Na, egal. Wiedersehn.}
 {176}{}{Nein, Mister. Mr. Cassidy hatte die Monatsgebühr für die Schanklizenz nicht bezahlt und
  trotzdem weiterhin Alkohol in seinem Laden verkauft. Seine Zahlungen sind alle im Computer
  erfaßt.}
@@ -98,14 +98,14 @@
  Schaden ersetzt, den du in seinem Lokal angerichtet hast.}
 {179}{}{Ich hab den Eindruck, meine Faust und dein Gesicht sollten sich mal näher kennenlernen.}
 {180}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
-{181}{}{Na, egal. Wiedersehn}
+{181}{}{Na, egal. Wiedersehn.}
 {182}{}{Danke, daß du dich für mich um die Sache gekümmert hast, Freund. Stark ist nicht nur ein
  Schweinehund, sondern auch noch stur wie ein Elefant.}
 {183}{}{Probier's doch. Es soll mir ein Vergnügen sein, so ein Lumpengesindel wie dich und
  Cassidy dahin zu befördern, wo ihr hingehört.}
 {184}{}{Sehr schön. Ich hatte schon lange Lust, dir mal so richtig einen reinzuwürgen.}
 {185}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
-{186}{}{Na, egal. Wiedersehn}
+{186}{}{Na, egal. Wiedersehn.}
 {187}{}{Ja...SIR.}
 {188}{}{SOFORT, Sergeant.}
 {189}{}{Komm schon, Sergeant. Hacke-hacke.}
@@ -123,27 +123,26 @@
 {198}{}{Die Vault ist gleich vor der Tür. Der Zutritt ist nur Bürgern erlaubt. Wenn ich
  mitbekomme, daß du der Wache Ärger machst, kriegst du selber welchen, darauf kannst du dich
  verlassen.}
-{199}{}{Kann ich dich was anderes fragen?}
-{200}{}{Aber ich bin doch ein Bürger.}
+{199}{}{Kann ich dich noch etwas anderes fragen?}
+{200}{}{Aber ich bin doch Bürger.}
 {201}{}{Wie wird man denn Bürger?}
-{202}{}{Danke. Wiedersehn.}
+{202}{}{Vielen Dank. Auf Wiedersehn.}
 {203}{}{Das soll ich dir glauben? Ich kenne jeden einzelnen Bürger von Vault City und dich hab
  ich noch nie gesehen. }
 {204}{}{Hier ist mein Paß. Es ist alles in Ordnung, überzeug dich selbst.}
 {205}{}{Na, egal. Ich hätte da noch ein paar weitere Fragen...}
-{206}{}{Dann geh ich wohl besser mal.}
+{206}{}{Ich geh jetzt lieber.}
 {207}{}{Aha! Wenn das mal nicht die Papiere sind, die letzten Monat entwendet wurden. Sieht so
  aus, als hätte ich endlich den Schuldigen gefunden. Mitkommen, Outsider.}
 {208}{}{Wenn du mir auch nur ein Härchen krümmst, dann knallt's.}
 {209}{}{Ich geh ja schon, ich geh ja schon. Nur nicht drängeln.}
 {210}{}{Ich wurde als Bürger GEBOREN. Du willst Bürger werden? Da mußt du dich an einen von den
  Stadträten wenden.}
-{211}{}{Kann ich dich was anderes fragen?}
+{211}{}{Kann ich dich noch etwas anderes fragen?}
 {212}{}{Das werd ich tun, danke. Mach's gut.}
 {213}{}{Ja, was ist mit ihnen?}
 {214}{}{Ich hab ihre Basis gefunden.}
 {215}{}{Ich hab sie beseitigt.}
-{1215}{}{Ich habe ihren Führer davon überzeugt, sie nicht mehr durch die Berge zu führen. Ohne ihn werden sie den Weg nicht finden.}
 {216}{}{Hast du irgendeine Ahnung, wo sie ihre Basis haben?}
 {217}{}{Schwamm drüber. Ich hätte da ein paar Fragen...}
 {218}{}{Vergiß es. Vielleicht unterhalten wir uns ein andermal.}
@@ -154,7 +153,6 @@
 {222}{}{Ich hätte da ein paar Fragen an dich.}
 {223}{}{Na gut. Ich geh zu ihr.}
 {224}{}{Du hast sie beseitigt?}
-{1224}{}{Du hast sie gefunden? Dann sind sie für uns keine Bedrohung mehr?}
 {225}{}{Ja, das hast du schon mal gesagt. Geh zur Erstbürgerin und erstatte ihr Bericht, wenn du
  das noch nicht getan hast.}
 {226}{}{Ja. Wegen denen braucht sich Vault City keine Sorgen mehr zu machen.}
@@ -189,10 +187,9 @@
  oder, noch besser, sie beseitigst, gehst du zur Erstbürgerin und erstattest ihr Bericht.}
 {250}{}{Genaugenommen hab ich ihre Basis schon gefunden.}
 {251}{}{Genaugenommen hab ich sie schon beseitigt.}
-{1251}{}{Genaugenommen hab ich sie schon beseitigt. Ich habe ihren Führer davon überzeugt, ihnen nicht mehr zu helfen. Ohne ihn sind sie nicht im Stande, einen Weg durch die Berge zu finden.}
 {252}{}{Hast du irgendeine Ahnung, wo sie ihre Basis haben?}
-{253}{}{Gut. Ich hätte da noch ein paar weitere Fragen...}
-{254}{}{Das werd ich tun.}
+{253}{}{In Ordnung. Ich hätte da ein paar andere Fragen...}
+{254}{}{Werd ich tun.}
 {255}{}{Neugierig, wie? Mir geht's nichts anders. Also, was weißt du über diese Gangster?}
 {256}{}{Ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen ein Ende
  setzen.}
@@ -212,7 +209,7 @@
  ein Ende bereiten.}
 {266}{}{Du hast mich überführt. Klarer Fall, ich bin mit den Gangstern verbündet. Verhafte mich.}
 {267}{}{Ich gehe. Du willst mich aufhalten? Versuch's nur!}
-{268}{}{Also gut...}
+{268}{}{In Ordnung also...}
 {269}{}{Aufhören! Aufhören! Ich hab doch gar --}
 {270}{}{Dann mal los, Leiche.}
 {271}{}{Ich finde nicht, daß wir dieses Thema einfach so unter den Tisch kehren sollten. Also,
@@ -224,37 +221,37 @@
  mich aufzuhalten, gibt's Zoff.}
 {275}{}{Ich weiß nicht. Ich werde aus diesen Gangstern nicht recht schlau. Wenn es denn Gangster
  sind.}
-{276}{}{Was meinst du?}
-{277}{}{Ich hätte da noch ein paar Fragen...}
-{278}{}{Ich muß gehen.}
+{276}{}{Was meinst du damit?}
+{277}{}{Ich hab da noch ein paar Fragen...}
+{278}{}{Ich muß jetzt weg.}
 {279}{}{Sie haben ein enormes Waffenarsenal, alles von der feinsten Sorte. Sie kennen sich in
  militärischer Strategie aus. Sie halten ihre Reihen geschlossen. Sie gehen nie über ihre
  Feuerlinien hinaus. Und sie haben noch nie unsere Verteidigungsanlagen durchbrochen, auch wenn
  sie schon kurz davor waren.}
 {280}{}{Wie...sie durchbrechen eure Verteidigungsanlagen nicht, obwohl sie's könnten?}
-{281}{}{Ich hätte da noch ein paar Fragen...}
-{282}{}{Ich muß gehen.}
+{281}{}{Ich hab da noch ein paar Fragen...}
+{282}{}{Ich muß jetzt weg.}
 {283}{}{Ja, ich hab's selber erlebt. Beim letzten Angriff haben sie eine Laserkanone an der
  westlichen Flanke außer Gefecht gesetzt. Sie hatten freies Schußfeld auf die Stadt. Dann hab ich
  gesehen, wie einer von ihren "Offizieren" den Rückzug ANGEORDNET hat. Völlig rätselhaft.}
 {284}{}{Hast du eine Ahnung, woher sie kommen?}
-{285}{}{Hmmm. Ich hätte da noch ein paar weitere Fragen...}
+{285}{}{Hmmm. Ich hatte noch ein paar andere Fragen...}
 {286}{}{Interessant. Ich muß gehen.}
 {287}{}{Nein. Genau das ist es, was mich am meisten ärgert. Sie ziehen sich jedesmal Richtung
  Süden zurück. Ich habe keine Leute übrig, die ich als Kundschafter hinschicken könnte. Wenn du
  mich fragst, haben die Gangster einen Helfer aus der Gegend, der sie durch die südlichen
  Canyons führt.}
 {288}{}{Was ist denn da im Süden?}
-{289}{}{Hmmm. Ich hätte da noch ein paar weitere Fragen...}
+{289}{}{Hmmm. Ich hatte noch ein paar andere Fragen...}
 {290}{}{Interessant. Ich muß gehen.}
 {291}{}{Da gibt es reichlich Möglichkeiten, sich zu verstecken. Es wimmelt da förmlich von
  Höhlen. Man muß sich schon verdammt gut auskennen, um da jemanden zu finden.}
 {292}{}{Ich könnte sie vielleicht finden.}
-{293}{}{Ich hätte da noch ein paar Fragen...}
+{293}{}{Ich hab da noch ein paar Fragen...}
 {294}{}{Hmmm. Ich werde dran denken. Mach's gut.}
 {295}{}{Tu, was du nicht lassen kannst. Die müßten uns schon eine Landkarte geben, damit wir sie
  da unten finden.}
-{296}{}{Ich hätte da noch ein paar Fragen...}
+{296}{}{Ich hab da noch ein paar Fragen...}
 {297}{}{Wenn's das ist, was man braucht...danke für die Auskunft.}
 {298}{}{Ja, wie haben ein paar Leute, die auf Streife gehen. Ich hab kaum genug Männer für den
  Schutz von Vault City. Große Sondierungsaktionen sind einfach nicht drin.}
@@ -263,7 +260,7 @@
 {301}{}{Hm, sehr bedauerlich. Ich hätte da noch ein paar weitere Fragen...}
 {302}{}{Na, egal. Wiedersehn.}
 {303}{}{Erkundungen.}
-{304}{}{Was meinst du?}
+{304}{}{Was meinst du damit?}
 {305}{}{Ich könnte für euch sondieren, falls es euch an den nötigen Leuten fehlt.}
 {306}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
 {307}{}{Na, egal. Wiedersehn.}
@@ -296,19 +293,19 @@
 {327}{}{Im Ernst? Hähä. Na dann...alles bestens.}
 {328}{}{Gut gemacht. Lade die Informationen in meinen PIPBoy, dann kann ich sie auf die
  Patrouillenrechner übernehmen.}
-{329}{}{Also gut...}
+{329}{}{Alles klar.}
 {330}{}{Sieht gut aus, was du rausgefunden hast. Gut gemacht. Hier ist deine Bezahlung...
  300 Dollar.}
 {331}{}{Also gut...hast du noch mehr Arbeit für mich?}
 {332}{}{Super. Ich hätte da noch ein paar weitere Fragen...}
-{333}{}{Danke. Macht richtig Spaß, mit dir zu arbeiten.}
+{333}{}{Danke. Es ist wirklich ein Vergnügen, mit dir Geschäfte zu machen.}
 {334}{}{Doch, da wär was...Ich bräuchte jemanden für die NCR. In letzter Zeit mehren sich die
  Anzeichen, daß die Republik aufrüstet. Ob da nun was dran ist oder nicht, ich brauche unbedingt
  jemanden, der eine Route in die NCR findet und hinterher Bericht erstattet.}
 {335}{}{Kann Problem. Ist bereits geschehen.}
 {336}{}{Einfach in die NCR gehen und anschließend wieder herkommen?}
 {337}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
-{338}{}{Nein, danke. Mach's gut.}
+{338}{}{Nein danke. Tschüß.}
 {339}{}{Das ist alles. Die Route interessiert mich mehr als die Republik selber. Trotzdem möchte
  ich, daß du in die Stadt hineingehst, sobald du dort angelangt bist.}
 {340}{}{Kann Problem. Ist bereits geschehen.}
@@ -319,7 +316,7 @@
 {345}{}{Im Ernst? Hähä.}
 {346}{}{Also gut. Lade die Informationen in meinen PIPBoy, dann kann ich sie auf die
  Patrouillenrechner übernehmen.}
-{347}{}{Alles klar.}
+{347}{}{Also gut.}
 {348}{}{Sieht gut aus, was du rausgefunden hast. Gut gemacht. Hier ist deine Bezahlung...
  500 Dollar...und zusätzlich das hier. Ich denke, du wirst es gebrauchen können.}
 {349}{}{Was ist es?}
@@ -337,13 +334,13 @@
 {357}{}{Du schon wieder? Hast du dich verlaufen, oder brauchst du was?}
 {358}{}{Was denn zum Beispiel...Sir?}
 {359}{}{Ja, Bürger. Was wolltest du wissen?}
-{360}{}{Was denn zum Beispiel?}
+{360}{}{Wie zum Beispiel?}
 {361}{}{Hepp-Hepp Schlepp-Bepp}
 {362}{}{Verzieh dich}
 {363}{}{Hast du irgendein Problem, Sergeant?}
 {364}{}{Warst du das mit Cassidys Bar?}
 {365}{}{Hast du schon mal was von einem Diener namens Joshua gehört?}
-{366}{}{Was tust du hier?}
+{366}{}{Was machst du hier?}
 {367}{}{Kannst du mir sagen, wo die Vault ist?}
 {368}{}{Ich hab die Gegend um Gecko für dich inspiziert.}
 {369}{}{Hast du noch mehr Sondierungsarbeit für mich?}
@@ -373,7 +370,6 @@
 {388}{}{Du hast Gecko für Vault City erkundet.}
 {389}{}{Du hast die NCR für Vault City erkundet.}
 {390}{}{Was denn zum Beispiel...Madame?}
-
 {391}{}{Ja, da gibt es was... Ich hab mir deinen Aufklärungsbericht angeschaut und da gibt es ein kleines Dorf in dem sich jede Menge von...ähm...diesen "Maulwurfsratten" rumtreiben. So heißen sie doch bei den Outsidern, oder? Ich möchte, dass du dich dorthin begibst und die ganzen Biester ausrottest.}
 {392}{}{Nur ein paar Ratten niederballern? Ja Mann, da bin ich dabei.}
 {393}{}{Wozu?}
@@ -381,8 +377,8 @@
 {395}{}{Ich denke darüber nach. Vorher habe ich noch ein paar Fragen.}
 {396}{}{Nee, diese Art von Arbeit übernehme ich nicht. Auf Wiedersehen.}
 {397}{}{Sehr gut. Ich zeige dir die genaue Position des Dorfes. [Stark trägt das Dorf in der Karte deines PIPBoys ein]. Du bekommst dafür $750, natürlich erst wenn die Sache erledigt ist. Noch etwas - wenn du dich nicht innerhalb eines Monats darum gekümmert hast, dann sorge ich dafür, dass jegliche Gefahr dort aufhört zu existieren und damit meine ich im Zweifelsfall nicht nur die Ratten.}
-{398}{}{Wiedersehen.}
-{399}{}{Wozu? [Er zögert einen Augenblick, dann runzelt er die Stirn.] Ich muß dir meine Motive nicht erklären. Ich gebe dir den Auftrag, und du machst es - So ist das. Wenn du den Job nicht willst, schicke ich stattdessen einen Trupp...aber die Angelegenheit wird manchmal etwas *häßlich*, wenn ich meine Jungs loslasse.}
+{398}{}{Tschüß.}
+{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
 {400}{}{Kapiert. Ich mach den Job.}
 {401}{}{Das ist klar. Also, was ist mit dem Dorf?}
 {402}{}{Wegen des Dorfes...}
@@ -397,7 +393,7 @@
 {411}{}{Nein, so nicht. }
 {412}{}{Sehr gut, melde dich hier wieder wenn du alles erledigt hast.}
 {413}{}{Das ist doch egal, sie enden trotzdem als Diener. Ich schicke gleich eine Kampfeinheit los und bald gibt es dieses kleine Dorf nicht mehr.}
-{414}{}{[Fertig]}
+{414}{}{[Erledigt]}
 {415}{}{Komm zurück wenn alles erledigt ist.}
 {416}{}{Gute Arbeit, Soldat. Hier sind deine $750 - ein geringer Preis für ein Dorf voll mit neuen Dienern. Du hast Vault-City einen großen Dienst erwiesen.}
 {417}{}{Moment - Es war nie davon die Rede, das die Dorfbewohner eure Diener werden.}
@@ -406,11 +402,14 @@
 {420}{}{Das ist Sklaverei!}
 {421}{}{Das ist KEINE Sklaverei, es ist eine Zusammenarbeit zum Vorteil beider Seiten, sozusagen eine Symbiose.}
 {422}{}{Wie abscheulich! Wiedersehen.}
-{1422}{}{Ich habt recht, sie sind in der Stadt wohl wirklich besser dran. Auf Wiedersehen.}
 {423}{}{Diese Wilden müssen jetzt völlig den Verstand verloren haben. Irgendwie sind sie an Waffen gekommen und greifen uns an sobald wir in der Nähe sind! Ich hab noch einmal darüber nachgedacht, zur Hölle mit ihnen. Schließlich ist es nicht so, dass wir einen Mangel an Sklaven ... äähh... ich mein Dienern haben.}
 {424}{}{Welches Dorf? Ach das wo unsere neuen Diener herkommen? Was ist damit?}
 {425}{}{Ich hör wohl nicht richtig!? Ihr habt sie alle versklavt?}
 {426}{}{Ich weiß wer sie mit Waffen versorgt hat. Es war dieser Händler am Stadtrand, Harry. }
-{427}{}{Happy Harry, sagst du? ... klar, einer von diesen Mistkerlen im Vorhof. Gut, den schnapp ich mir. Wir werden sehen, wie "Happy" er ist, wenn ich mit ihm fertig bin. Als kleine Gegenleistung kannst du den ganzen Krempel haben, den du in seinem Laden findest.}
+{427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
 {428}{}{Ich weiß zwar nicht warum, aber Prokonsul McClure gab mir den Befehl mit dem Dorf zu warten. Sieht ganz nach deiner Handschrift aus. }
-{429}{}{Hmm...Ok.}
+{429}{}{Hmm... Ok.}
+{1215}{}{Ich habe ihren Führer davon überzeugt, sie nicht mehr durch die Berge zu führen. Ohne ihn werden sie den Weg nicht finden.}
+{1224}{}{Du hast sie gefunden? Dann sind sie für uns keine Bedrohung mehr?}
+{1251}{}{Genaugenommen hab ich sie schon beseitigt. Ich habe ihren Führer davon überzeugt, ihnen nicht mehr zu helfen. Ohne ihn sind sie nicht im Stande, einen Weg durch die Berge zu finden.}
+{1422}{}{Ich habt recht, sie sind in der Stadt wohl wirklich besser dran. Auf Wiedersehen.}

@@ -1,10 +1,6 @@
 {100}{}{Tu vois un terminal d'ordinateur actif.}
 {101}{}{En regardant de plus près, tu remarques un petit autocollant portant la mention "I*tel inside".}
 {102}{}{Tu n'arrives pas à lire ce qu'il y a à l'écran.}
-
-#NPC is unable to read what is on the monitor
-{200}{}{ n'arrive pas à lire ce qu'il y a à l'écran.}
-
 {103}{}{Alimentation principale = Hors ligne                                             Alimentation de secours = En ligne                                             Réinitialisation du programme de sécurité                                      Attention - Alimentation faible - Champs de force à 50 %                      Fin du chargement...                                                  Poste de vérification de sécurité Skynet 1                               Entrez le mot de passe :_}
 {104}{}{Poste de vérification de sécurité Skynet 1                             Entrez le mot de passe :_}
 {105}{}{Tchaikovsky}
@@ -35,7 +31,7 @@
 {137}{}{Ton incompétence a déclenché le système d'alarme.}
 {138}{}{Laisse tomber, ce programme est trop compliqué pour toi.}
 {139}{}{[Quitter]}
-
+{200}{}{ n'arrive pas à lire ce qu'il y a à l'écran.}
 {300}{}{L'ordinateur semble disposer d'un mécanisme de sécurité.}
 {301}{}{Tu subis un choc pour }
 {302}{}{ subit un choc pour }

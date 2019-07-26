@@ -8,8 +8,8 @@
 {211}{}{Tut mir leid, ich kann Sie nicht verstehen. Tschüß.}
 {212}{}{Interessant. Anscheinend können Sie nur mehr in Binärsprache kommunizieren.
  Wenn ich mir aufschreibe, was Sie sagen, kann ich es vielleicht entschlüsseln.}
-{220}{}{[Nach einigen Stunden glaubst du, die Binärsprache endlich richtig
- übersetzt zu haben. Er hat anscheinend gesagt: "Hilf mir, Kurzschluß."]}
+{220}{}{[After a couple hours, you finally believe you've correctly translated the binary numbers. It appears he's
+ saying "Help me! Electrical short."}
 {221}{}{Gut, das entschlüsseln hat Spaß gemacht. Bis später.}
 {222}{}{Ein Kurzschluß im Speicher, huh? Ok, schaun wir, ob wir es reparieren können.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
@@ -18,15 +18,14 @@
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
 {241}{}{Ok, ich geb's auf. Tut mir leid.}
 {242}{}{Funktioniert's immer noch nicht? Warten Sie, lassen Sie mich das entziffern.}
-{250}{}{[Du kannst die Meldung "Starte mich neu" dieses Mal viel schneller entschlüsseln]
- Oh, natürlich. [Du startest die Maschine neu mit Hilfe des Hologramms. Um Dir die
- Zeit zu vertreiben, pfeifst Du, während die Maschine ihre Startprozesse durchläuft.]}
+{250}{}{[You're able to decode the message much quicker this time: "Reboot me!"] Oh, of course. [You reboot the machine
+ running the hologram. To pass the time, you whistle as it chugs through all its starting procedures.]}
 {251}{}{[Mach weiter]}
 {260}{}{Beim Zeus, Sie haben's geschafft. Mein Sprachprogramm hatte sich im Binärmodus
  für Jahre aufgehangen. Es ist so lange her, daß ich das Vergnügen hatte mich mit
  einem Freund intellektuell auszutauschen. Man sollte meinen, daß in all der Zeit
  wenigstens einer meiner Kameraden die Güte gehabt hätte, binär zu lernen. Aber, nein.}
-{261}{}{Kein Probl-}
+{261}{}{No prob--}
 {270}{}{Wissen Sie, sie hatten keine Zeit für mich. Oh nein, sie waren zu beschäftigt sich
  ihrem bürokratischem Unsinn zu widmen. Zu beschäftigt mit der Einführung von Regelungen, über
  die sie sich streiten wie die Narren. Und wo hat sie das hingebracht? Festgefahren in einer
@@ -38,7 +37,7 @@
  einer Art Hologramm Fegefeuer verdammt hat. Aber, das macht nichts, wir sind ohne sie besser
  dran. Während sie in einem Endlosstreit gefangen sind, bin ich, äh, ich meine, wir, die Herren
  über die Einrichtung. Mit meinem hervorragendem Verstand und Ihrem Körper sind wir ein gutes Team.}
-{281}{}{Zu allererst Mal, warum sagen Sie mir nicht, was das hier überhaupt für ein Ort ist?}
+{281}{}{Zu allererst einmal, warum sagen Sie mir nicht, was das hier überhaupt für ein Ort ist?}
 {290}{}{Meiner Meinung nach sind wir besser ohne sie dran. Sollten Sie jedoch anderer
  Meinung sein: wer bin ich mich zu beschweren. Wissen Sie, mit meinem hervorragendem Verstand
  und Ihrem Körper sind wir ein gutes Team.}
@@ -66,16 +65,15 @@
  Waffe zu testen, nicht nochmal überdacht?}
 {341}{}{Nö, Tut mir leid.}
 {342}{}{Doch. Sicher.}
-{350}{}{Ausgezeichnet. Sie sind der perfekte Kandidat. Schauen Sie, in einer Anwandlung das Militär
- umweltfreundlicher werden zu lassen, habe ich eine neue Waffe entwickelt, die keine Munition braucht
- und komplett mit Licht funktioniert. Ich nenne sie *Solar Scorcher*. Wie auch immer, sie muß noch mit
- direktem Sonnenlicht getestet werden. Das ist der Punkt, an dem Sie ins Spiel kommen.}
+{350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
+ friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
+ *Solar Scorcher*. However, it's yet to be tested under direct sunlight, which is, of course, where you come in.}
 {351}{}{Also, sie wollen, daß ich nach draußen gehe und mit diesem Ding schieße? Das ist alles?}
 {352}{}{Ja, ja, dann geben Sie mir das Ding einfach.}
 {360}{}{Im Wesentlichen, ja. Natürlich muss ich wissen, wie gut es sich im Verlauf von Kampfhandlungen
  verhält, so dass ich es begrüßen würde, wenn Sie einige Lebensformen dort draußen aufspüren könnten,
  die Sie dann spektakulär mit meinem Solar Scorcher vernichten würden.}
-{361}{}{Geh raus und töte. Habe es. Also, wo ist dieser Solar Scorcher?}
+{361}{}{Rausgehen und was abknallen, hab' es. Also, wo ist dieser Solar Scorcher?}
 {370}{}{Nicht so hastig mein Freund. Ich will nicht, daß Sie die Waffe draußen ziellos abfeuern. Ich muß
  wissen, wie gut sie sich im Verlauf von Kampfhandlungen verhält. Daher würde ich es begrüßen, wenn Sie
  einige Lebensformen da draußen aufspüren könnten, die Sie dann mit meinem Solar Scorcher
@@ -91,11 +89,11 @@
 {400}{}{Ausgezeichnet! Ich freue mich, zu erfahren, dass er wie vorgesehen funktioniert. Vielen Dank für
  die Hilfe. Warum nehmen Sie den Solar Scorcher nicht mit auf Ihrem Weg, Besser er ist Ihnen
  von Nutzen, als er setzt hier Staub an.}
-{401}{}{Danke!}
+{401}{}{Danke auch!}
 {402}{}{Gut. Ich hätte ihn Ihnen sowieso nicht zurückgegeben.}
 {410}{}{Oh... ich verstehe nicht. Dieser Prototyp hat schon schlimmere Labortests überstanden...
  [Er schüttelt traurig seinen Kopf.] Nichts desto Trotz, danke für Ihre Hilfe.}
-{411}{}{Wie auch immer.}
+{411}{}{Wie du willst.}
 {412}{}{Kein Problem.}
 {420}{}{Schön, Sie wiederzusehen. Ok, wenn Sie mich jetzt entschuldigen, ich habe eine Fülle von
  Projekten, die meine Aufmerksamkeit erfordern.}

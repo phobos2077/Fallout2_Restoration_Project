@@ -1,4 +1,4 @@
-{100}{}{Tu vois une commerçante.}
+{100}{}{Tu vois un marchand.}
 {101}{}{Tu vois Jenna, la marchande.}
 {102}{}{Tu vois une jolie commerçante.}
 {103}{}{Bonjour ! Je m'appelle Jenna. Que puis-je faire pour toi ?}
@@ -14,7 +14,7 @@
 {113}{}{Parfait. Regarde.}
 {114}{}{}
 {115}{}{Ok.}
-{116}{}{Autre chose ?}
+{116}{}{Rien d'autre ?}
 {117}{}{Oui.}
 {118}{}{Non.}
 {119}{}{Alors bonne journée.}

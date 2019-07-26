@@ -6,7 +6,7 @@
 {104}{}{}
 {105}{}{Ja.}
 {106}{}{Nein.}
-{107}{}{Haltet die Augen offen.}
+{107}{}{Halt bloß die Augen auf.}
 {108}{}{Zusammenbleiben, Männer!}
 {109}{}{Weiter so, Jungs.}
 {110}{}{Spitze. Dann mal los, Jungs. Ab die Post nach Redding!}
@@ -21,8 +21,4 @@
 {116}{}{Alle Wetter, das war saubere Arbeit. Dafür gibt's noch mal 1000 Dollar extra. Das und die 2000
  Dollar Sold. Da wird's in Redding ganz schön abgehen heute nacht, hua, hua.}
 {117}{}{Du kannst jetzt gehen. Gute Reise und so.}
-
-
-#added by killap
 {118}{}{Du bist der mieseste Witz von einer Wache den ich je gesehen habe. Mach bloß dass du raus kommst.}
-

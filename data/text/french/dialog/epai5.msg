@@ -15,5 +15,4 @@
 {402}{}{Cette porte est verrouillée électroniquement.}
 {403}{}{Porte déverrouillée. Merci d'utiliser l'équipement Vault-Tec.}
 {404}{}{[FIN]}
-
 {500}{}{Il n'y a pas de serrure à crocheter.}

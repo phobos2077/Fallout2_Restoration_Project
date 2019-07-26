@@ -1,5 +1,5 @@
-{100}{}{Ein Computer.}
-{101}{}{Ein Computer.}
+{100}{}{Du siehst einen Computer.}
+{101}{}{Du siehst einen Computer.}
 {102}{}{Der Zentralrechner für Navarro.}
 {103}{}{Bitte Passwort eingeben.}
 {104}{}{Gib 'Snookie' ein}
@@ -55,13 +55,13 @@
 {136}{}{Klar, kapiert.}
 {137}{}{Suche... Zugriff auf Basis-Architekturdateien... Daten empfangen. Das Büro des
  Basiskommandanten befindet sich unterirdisch im nordöstlichen Quadranten der Basis.}
-{138}{}{Fein.}
+{138}{}{Wie du willst.}
 {139}{}{Klingt gut.}
 {140}{}{Danke für die Nutzung von EnklaveNet. Abmeldung... }
-{141}{}{Fertig.}
+{141}{}{OK.}
 {142}{}{Befehl?}
 {143}{}{Unautorisierte Aktivität im Hauptcomputerkomplex entdeckt. Sicherheitsalarm.
  Sicherheitsalarm.}
 {144}{}{Initialisiere Willkommensprogramm.}
-{145}{}{Sch....!}
+{145}{}{Mist!}
 {146}{}{Sicherheitssystemabschaltung läuft.}

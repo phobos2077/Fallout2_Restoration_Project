@@ -3,7 +3,7 @@
 {102}{}{Elle est vraiment superbe, mais elle semble perdue dans ses pensées.}
 {103}{}{Arrête !}
 {104}{}{Pourquoi fais-tu ça !}
-{105}{}{Laisse-moi tranquille !}
+{105}{}{Laisse-moi tranquille.}
 {106}{}{Je t'en prie, arrête !}
 {107}{}{Tu es un assassin !}
 {108}{}{Comment as-tu pu faire ça à Babeth !}
@@ -23,9 +23,6 @@
 {122}{}{Je ne peux pas parler pour le moment. Au revoir.}
 {123}{}{Igsby ?}
 {124}{}{Bgy.}
-
-# Node005 removed.
-
 {131}{}{Oh, pardon. Je ne comprends pas. Tu ne devrais peut-être pas boire autant.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -37,7 +34,7 @@
 {139}{}{Euh, Ok. Ravi de te voir, Etre Elu... Vraiment. J'ai entendu parler de quelque chose à propos d'un maître...}
 {140}{}{C'est intéressant. Ca me rappelle une histoire que j'ai entendue il y a très longtemps. Quelque chose à propos d'un maître.}
 {141}{}{Vraiment ? Et de quoi s'agissait-il ?}
-{142}{}{Dis-le-moi.}
+{142}{}{Dis-moi.}
 {143}{}{Oh, Ok. Au revoir.}
 {144}{}{Eh bien, ça va prendre un peu de temps. Sois galant et offre-moi un verre, d'accord ? Pas de whisky, du Nuka-Cola, s'il te plaît.}
 {145}{}{Eh bien, ça va prendre un peu de temps. Sois gentille et offre-moi un verre, d'accord ? Pas de whisky, du Nuka-Cola, s'il te plaît.}
@@ -60,6 +57,6 @@
 {162}{}{Merci pour l'histoire.}
 {163}{}{Bon, il se fait tard. Au revoir.}
 {164}{}{Ce fut un plaisir. Au revoir.}
-{165}{}{Au revoir.}
-{166}{}{Tant pis.}
+{165}{}{Salut.}
+{166}{}{Laisse tomber.}
 {167}{}{Leanne t'a raconté son histoire sur le Maître.}

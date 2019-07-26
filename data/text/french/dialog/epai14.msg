@@ -8,6 +8,5 @@
 {107}{}{Tu ne trouves pas de panne sur le générateur. Il a juste l'air de ne pas fonctionner.}
 {108}{}{Le générateur fonctionne. Il n'y a rien d'autre à faire.}
 {109}{}{Quelque chose semble ne pas fonctionner dans ce générateur.}
-
 {200}{}{<Whirr>}
 {201}{}{<Bzzt>}

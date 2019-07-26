@@ -5,14 +5,14 @@
 {104}{}{Uumph.}
 {105}{}{Ecch.}
 {106}{}{Portzebie.}
-{107}{}{[Partir]}
+{107}{}{Dégage !}
 {108}{}{Ben, non... non, non.}
 {109}{}{Et tu es... ?}
 {110}{}{Euh, non, et j'en ai pas envie. Au revoir.}
 {111}{}{La bonne parole... La bonne parole, c'est l'EGOISME. Tu mélanges avec une bonne dose d'arrogance, et qu'obtiens-tu ? La Cité de l'Abri... dans toute sa gloire esclavagiste et suffisante.}
 {112}{}{Pourquoi vis-tu ici, si tu détestes tellement ça ?}
 {113}{}{Amen, mon frère !}
-{114}{}{Tu sais, je crois que j'en ai entendu assez. Au revoir.}
+{114}{}{Je pense en avoir assez entendu. Au revoir.}
 {115}{}{Va vendre tes salades ailleurs, mon pote... On a tout ce qu'il faut ici.}
 {116}{}{Oui !}
 {117}{}{Il est TEMPS de prêter l'oreille à la plainte de nos semblables de l'autre côté de ces murs et de les laisser entrer ! Nous avons largement de quoi nourrir et abriter nos frères... Nous n'avons pas besoin de richesses alors que TANT d'autres vivent dans la pauvreté.}
@@ -81,7 +81,7 @@
 {180}{}{J'avais une question : pourquoi y a-t-il des esclaves dans la Cité de l'Abri ? On m'avait dit que c'était une ville libre.}
 {181}{}{Je veux entendre la bonne parole, frère !}
 {182}{}{Cette cité est bâtie sur le péché et l'esclavage, et je suis là pour la remettre dans le droit chemin !}
-{183}{}{Rien aujourd'hui, merci.}
+{183}{}{Rien pour aujourd'hui, merci.}
 {184}{}{Je sais qu'ils luttent pour faire triompher la vérité et la justice, et qu'on ne veut pas lever le petit doigt pour les aider.}
 {185}{}{Que peut-on faire ?}
 {186}{}{Ca ressemble pas mal à de la trahison.}
@@ -100,7 +100,7 @@
 {199}{}{Uumph.}
 {200}{}{Ecch.}
 {201}{}{Portzebie.}
-{202}{}{[Partir]}
+{202}{}{Dégage !}
 {203}{}{Hé, je faisais seulement semblant d'être esclavagiste pour avoir des renseignements.}
 {204}{}{Ben, j'avais quelque chose à te demander : pourquoi y a-t-il des esclaves dans la Cité de l'Abri ? Je croyais que c'était une ville libre.}
 {205}{}{Hé, même les moyens les plus méprisables justifient une fin honorable.}
@@ -109,7 +109,7 @@
 {208}{}{L'acte vaut pour ce qu'il est. Arrière, esclavagiste.}
 {209}{}{Mais, j'ai compris mes fautes et mes errements !}
 {210}{}{Ca suffit. Il est temps de t'ouvrir en deux pour voir ce que tu as dans le ventre...}
-{211}{}{Bon, très bien.}
+{211}{}{D'accord.}
 {212}{}{Je n'ai rien à dire à quelqu'un d'une nature aussi infâme. Va-t-en.}
 {213}{}{T'en veux de la nature infâme ? Je vais t'en faire voir, moi, de la nature infâme !!}
 {214}{}{J'ai compris mes errements. Je viens me repentir et entendre la bonne parole !}
@@ -123,7 +123,7 @@
 {222}{}{Oui, je voulais juste te dire que j'avais tout réglé.}
 {223}{}{Ca me fait plaisir d'entendre que mes paroles ont germé dans ton coeur. Peut-être que nos chemins se croiseront à nouveau.}
 {224}{}{Peut-être. Garde la foi, frère.}
-{225}{}{Au revoir.}
+{225}{}{Salut.}
 {226}{}{La RNC cherche à rendre l'honneur et l'autonomie à toute la Californie, et la Cité de l'Abri a les moyens de le faire ! Pense à tout le bien qu'on pourrait faire si on avait accès à la technologie de la Cité de l'Abri !}
 {227}{}{Je marche pas dans la combine. Je crois que je ferais mieux de te dénoncer. A moins, bien sûr, que tu ne veuilles acheter mon silence.}
 {228}{}{Mais c'est la technologie de la Cité de l'Abri, les autres n'y ont pas droit.}

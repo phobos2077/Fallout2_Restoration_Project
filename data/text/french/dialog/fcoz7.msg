@@ -5,14 +5,14 @@
 {104}{}{Toi, dis-moi ce que tu viens faire.}
 {105}{}{Aaagh ! Nan ! Nu !}
 {106}{}{J'ai une lettre pour AHS-9 de la part de l'Eclairée de la RNC.}
-{107}{}{Je suis ici pour parler à Crocket au sujet d'une armure.}
+{107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{J'aimerais faire un tour.}
 {109}{}{J'ai plus ou moins l'intention de rejoindre votre groupe.}
 {110}{}{Qui es-tu ?}
-{111}{}{Je suis ici pour vous tuer tous.}
+{111}{}{Je suis ici pour vous exterminer.}
 {112}{}{Ha, pauvre enfant. Aimerais-tu avoir droit à un balayage ?}
-{113}{}{Voui !}
-{114}{}{Nooon !}
+{113}{}{'ui !}
+{114}{}{Non !}
 {115}{}{Pauvre enfant. Tu as bien reçu un balayage, mais tu demeures incapable d'articuler correctement. Entre.}
 {116}{}{Merffi !}
 {117}{}{Entre et va chercher Juan et Vikki. Ils peuvent t'aider. Bonne chance, mon enfant.}
@@ -28,7 +28,7 @@
 {127}{}{Ooh ! Des stars !}
 {128}{}{Je suis AHS-7, le vice-responsable de cette installation. Avant que tu le demandes, sache qu'AHS veut dire Adorateur d'Hubol Suprême, ce qui signifie que j'ai supprimé sept niveaux de neurodines de mon esprit et que je suis plus éclairé et plus près du centre de la Grande Roue que toi. Et cela signifie également que tu vas me dire ce que tu fais ici. Sur-le-champ.}
 {129}{}{J'ai une lettre pour AHS-9 de la part de l'Eclairée de la RNC.}
-{130}{}{Je suis ici pour parler à Crocket au sujet d'une armure.}
+{130}{}{I'm here to speak to Crockett about some armor.}
 {131}{}{J'aimerais faire un tour.}
 {132}{}{J'ai plus ou moins l'intention de rejoindre votre groupe.}
 {133}{}{Je suis ici pour vous exterminer.}
@@ -38,10 +38,10 @@
 {137}{}{Tu peux les trouver à la salle de prière en train de montrer à toutes les nouvelles recrues et aux non-purifiés à quel point c'est gratifiant d'être Hubologiste.}
 {138}{}{Hé bien, laisse-moi leur parler !}
 {139}{}{Je vais en juger par moi-même. Allons-y.}
-{140}{}{Laisse tomber. Je m'en vais.}
+{140}{}{Laisse tomber. J'me casse.}
 {141}{}{Alors, maintenant que tu as parlé à Juan et Vikki, veux-tu rejoindre nos amis en quête de l'illumination pour la Grande Roue ?}
 {142}{}{Oh oui. Oui, oui, oui.}
-{143}{}{Bien sûr.}
+{143}{}{Certainement.}
 {144}{}{Non, pas encore. Puis-je revenir plus tard ?}
 {145}{}{Je crois que ça ne m'intéresse pas. Je regrette.}
 {146}{}{Bon sang, non ! Votre secte de fous furieux mériterait d'être incendiée.}
@@ -64,10 +64,10 @@
 {163}{}{Très bien, j'accepte de vous rejoindre.}
 {164}{}{Laisse tomber. Je déteste les tactiques d'intimidation.}
 {165}{}{Les oppresseurs Shis contestent notre puissance. Ils ont fait des ravages parmi nos frères avec leurs techniques d'influence des neurodines. Nous pensons que si leur Empereur est tué, ils comprendront leur erreur. Accepterais-tu de tuer l'Empereur ?}
-{166}{}{Ouais. Je vais le faire.}
+{166}{}{Ouais, je vais t'aider.}
 {167}{}{Non, les Shis ne m'ont jamais rien fait de mal.}
 {168}{}{Tu changeras peut-être d'avis. Si c'est le cas, préviens-moi. Bon et maintenant, y-a-t-il quelque chose que le Centre puisse t'offrir, recrue ?}
-{169}{}{Oui, j'ai des questions.}
+{169}{}{Oui, j'ai quelques questions.}
 {170}{}{Non, pas pour le moment. Merci.}
 {171}{}{As-tu décidé de nous aider à combattre l'oppression des Shis ? Le Père Etoile te bénira si tu participes à notre croisade.}
 {172}{}{Je dois encore réfléchir.}
@@ -76,16 +76,16 @@
 {175}{}{Où puis-je me procurer du carburant pour le pétrolier Poséidon ?}
 {176}{}{Où puis-je trouver la signification de tous ces termes que tu emploies ?}
 {177}{}{Quand le vaisseau décolle-t-il ?}
-{178}{}{Où se trouve Crocket ?}
+{178}{}{Where is Crockett?}
 {179}{}{Rien, merci. Au revoir.}
 {180}{}{Préviens-nous lorsque tu auras mené à bien ta tâche.}
 {181}{}{Je n'y manquerai pas. J'ai d'autres questions.}
-{182}{}{Certainement. Au revoir.}
+{182}{}{C'est ça. Salut.}
 {183}{}{As-tu débarrassé ce monde matériel de la présence de l'Empereur et de son oppression ?}
 {184}{}{Pas encore.}
 {185}{}{Oui, AHS-7. Il est mort.}
 {186}{}{Le chef des vagabonds du pétrolier n'est qu'une sorte d'infidèle incurable appelé Badger. Une fois mort, ils finiront bien par comprendre notre supériorité. Accepterais-tu de l'éliminer ?}
-{187}{}{Oui.}
+{187}{}{Je vais le faire.}
 {188}{}{Il ne m'a jamais fait de mal. Je ne préfère pas. }
 {189}{}{Alors... As-tu réfléchi et es-tu d'accord pour éliminer ce « Bagder » ?}
 {190}{}{Je vais le faire.}
@@ -124,10 +124,8 @@
 {223}{}{Nous avons éliminé tes neurodines les plus souillées. Tu as désormais le rang de AHS-1. Et maintenant, es-tu prêt à rallier notre noble cause ?}
 {224}{}{Oh oui.}
 {225}{}{Non. Pas pour le moment.}
-
 {226}{}{Leçon n°1. Ici, nous avons l'éternité. Quetzel est là. [Il montre quelque chose.] Et nous sommes ici. [Il montre quelque chose.] Nous allons devoir parcourir un long chemin pour nous y rendre.}
-{227}{}{Hé bien.mon gars, on va avoir besoin de pas mal de paires de chaussures.}
-
+{227}{}{Eh bien mon gars, on va avoir besoin de pas mal de paires de chaussures.}
 {228}{}{Puis-je encore y réfléchir ?}
 {229}{}{Encore toi ? Qu'y a-t-il ?}
 {230}{}{Veux-tu que je fasse autre chose ?}

@@ -9,9 +9,9 @@
  ein kleiner Fisch, der große Wellen schlägt.}
 {108}{}{Man erzählt, du bist ein kleiner Fisch, der große Wellen schlägt.}
 {109}{}{Was meinen?}
-{110}{}{Was meinst du damit?}
+{110}{}{Was meinst du denn damit?}
 {111}{}{Du ziehst die Aufmerksamkeit vieler Leute auf dich. Du solltest vorsichtig sein.}
-{112}{}{Weiter.}
+{112}{}{Ja?}
 {113}{}{Sprich weiter, ich hör dir zu.}
 {114}{}{Ich habe für heute genug gesagt. Ich glaube, du solltest dich jetzt um deine
  Angelegenheiten kümmern.}
@@ -24,10 +24,10 @@
 {120}{}{Also gut, du darfst noch eine Frage stellen. Was willst du wissen?}
 {121}{}{Du wissen wo finden GECK?}
 {122}{}{Du wissen wo finden Vault 13?}
-{123}{}{Wer zum Teufel seid ihr Typen?}
-{124}{}{Weißt du vielleicht, wo ich ein GECK finden kann? }
+{123}{}{Wer zur Hölle seid ihr Typen?}
+{124}{}{Weißt du, wo ich ein GECK finden kann?}
 {125}{}{Weißt du vielleicht, wo ich Vault 13 finde?}
-{126}{}{Wer zum Teufel seid ihr Typen?}
+{126}{}{Wer zur Hölle seid ihr Typen?}
 {127}{}{Ja, ich glaube, daß die von Vault 13 nie benutzt wurden. Du müßtest dort eins finden.
  Viel Glück,}
 {128}{}{Warte! Wo Vault?}
@@ -45,7 +45,7 @@
  mal warst. Schau doch irgendwann mal in unserem Büro in San Francisco vorbei. Es wird dir sicher
  gefallen. Wenn du mich jetzt entschuldigen würdest, ich muß los.}
 {138}{}{Du bist's?! Ich hab dir nichts mehr zu sagen.}
-{139}{}{Warte...}
+{139}{}{Moment...}
 {140}{}{Dies ist ein privates Büro.}
 {141}{}{Da hast du nichts verloren.}
 {142}{}{Dies ist Privatbesitz. Mach, daß du weiterkommst.}

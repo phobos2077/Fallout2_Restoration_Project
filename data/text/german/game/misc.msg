@@ -1,8 +1,3 @@
-#
-# Miscellaneous game engine messages.
-#
-# Defined in game.h
-#
 {0}{}{Willst du das Programm wirklich beenden?}
 {1}{}{Demoversion}
 {2}{}{Standardfigur wird benutzt.}
@@ -10,32 +5,23 @@
 {4}{}{Spiel erfolgreich geladen.}
 {5}{}{Spiel erfolgreich gespeichert.}
 {6}{}{Demo-Zeitlimit überschritten.}
-{7}{}{  PIPBoy steht im Kampf nicht zur Verfügung!}
+{7}{}{Pip-Boy not available in combat!}
 {8}{}{Fehler beim Speichern des Screenshots.}
 {9}{}{EINFÜHRUNG}
 {10}{}{NEUES SPIEL}
-{11}{}{SPIEL LADEN}
+{11}{}{LADEN}
 {12}{}{OPTIONEN}
 {13}{}{MITARBEITER}
 {14}{}{BEENDEN}
 {15}{}{Aktionspunkte}
-{16}{}{Trefferpunkte}
+{16}{}{Trefferpk.}
 {17}{}{ Der Bewegungssensor ist nicht installiert.}
 {18}{}{ Der Bewegungssensor hat keine Ladung mehr.}
 {20}{}{Copyright(c) 1998 Interplay Productions. Alle Rechte vorbehalten.}
-
 {30}{}{Möchtest du weiterspielen?}
-
 {50}{}{Ausführung von Fallout benötigt die CD!}
-
-#
-# Game config text. Defined in gconfig.c
-#
 {100}{}{Fehler beim Speichern der Konfigurationsdatei!}
 {101}{}{Spieleinstellungen nicht gespeichert.}
-#
-# Some radiation messages used in critter.c
-#
 {1000}{}{Dir ist sehr übel.}
 {1001}{}{Dir ist sehr übel, und nachdem du dich etwas übergeben hast, bist du etwas erschöpft.}
 {1002}{}{Du bist sehr erschöpft, der Brechreiz läßt nicht nach, und deine Erholungszeit ist gestört.}
@@ -46,170 +32,109 @@
 {1007}{}{Du hast eine große Dosis an Strahlung abbekommen.}
 {1008}{}{Der Geigerzähler tickt.}
 {1009}{}{Der Geigerzähler tickt wie wild.}
-#
-# Message used in actions.c
-#
 {2000}{}{Da kannst du nicht hin.}
 {2001}{}{Das Schloß klemmt.}
-#
-# poison messages from critter.c
-#
 {3000}{}{Du wurdest vergiftet!}
 {3001}{}{Das Gift fügt dir Schaden zu.}
 {3002}{}{Es geht dir etwas besser.}
 {3003}{}{Dir geht es besser.}
-#
-# from queue.c
-#
 {4000}{}{Aufgrund deiner unsachgemäßen Handhabung geht der Sprengstoff verfrüht hoch.}
-# from combatai.c
-#
 {5000}{}{benutzt}
 {5001}{}{hat keine Munition mehr für}
 {5002}{}{lädt}
-#
-# from gdialog.c - new tell me about stuff
-#
 {6000}{}{Über was befragen?}
-
-#
-# from pipboy.c -- Fallout 2
-#
-{7000}{}{Du hast den PIPBoy nicht dabei!}
-
-#
-# from anim.c -- Fallout 2
-#
-{8000}{}{Du bist überladen.}  # Carrying too much weight
+{7000}{}{You aren't wearing the Pip-Boy!}
+{8000}{}{Du bist überladen.}
 {8001}{}{%s ist überladen.}
-
-#
-# from worldmap.c -- Fallout 2
-#
 {8500}{}{Du bekommst %d Erfahrungspunkte für die erfolgreiche Anwendung der Fähigkeit Naturbursche.}
-
-#
-# from party.c -- Fallout 2
-#
-{9000}{}{%s hat bei einigen Fähigkeiten dazugelernt.} # Party Member has gained experience/level
-# Individuals
-
-{9010}{}{Boah! Auf einmal fühle ich einen echten Erfahrungsschub.} # pMMyron_PID
+{9000}{}{%s hat bei einigen Fähigkeiten dazugelernt.}
+{9010}{}{Boah! Auf einmal fühle ich einen echten Erfahrungsschub.}
 {9011}{}{Ein Level weiter, Baby! Ein Level weiter!}
 {9012}{}{Ich fühle Turbulenzen in der Macht. Als ob all meine Fähigkeiten prozentuell gestiegen wären.}
 {9013}{}{Ich komme mir zäher vor. Stärker. Schlauer.}
-
-{9020}{}{Wow! Ich fühle mich, als hätte ich einen willkürlichen Erfahrungswert überwunden und mehr Macht erhalten!} # pMMarcus_PID
+{9020}{}{Wow! Ich fühle mich, als hätte ich einen willkürlichen Erfahrungswert überwunden und mehr Macht erhalten!}
 {9021}{}{Aaarrrggghhh! Muskeln... schwellen... Status... immer besser.... Level höher...}
 {9022}{}{Los, her mit einer Bescheinigung und einem dämlichen Hut mit Troddel! Ich bin nämlich soeben mit der Uni fertig!}
 {9023}{}{Heh, ich fühl mich, als hätte ich mehr Macht! Krieg ich jetzt eine Gehaltserhöhung?}
-
-{9030}{}{Plötzlich fällt mir das alles wieder ein...} # pMMacRae_PID
+{9030}{}{Plötzlich fällt mir das alles wieder ein...}
 {9031}{}{Heh. Sieht aus, als könne man einem alten Hund doch ein paar neue Tricks beibringen.}
 {9032}{}{Sieht aus, als hätte sich die ganze Herumreiserei bezahlt gemacht.}
 {9033}{}{Ich hab ein paar neue Tricks gelernt.}
-
-{9040}{}{Großvater lehrt, wir lernen.} # pMSulik_PID
+{9040}{}{Großvater lehrt, wir lernen.}
 {9041}{}{Wir lernen hier mehr von den Geistern, Mann.}
 {9042}{}{Wir jetzt lernen.}
 {9043}{}{Großer Geist jetzt in Sulik.}
 {9044}{}{Wir gleich sein eins mit Großvater Knochen, Mann.}
 {9045}{}{Eins mit dem Großvater jetzt.}
-
-{9050}{}{Au Mann... da hab ich jetzt echt was draus gelernt.} # pMLenny_PID
+{9050}{}{Au Mann... da hab ich jetzt echt was draus gelernt.}
 {9051}{}{Diese Schuld wird mich noch umbringen.}
 {9052}{}{Kaum zu glauben, daß ich so lange überlebt habe.}
-
-{9060}{}{Wuff!} # pMCyberdog_PID
+{9060}{}{Wuff!}
 {9061}{}{Wuff!}
 {9062}{}{Wuff!}
 {9063}{}{Wuff!}
 {9064}{}{Wuff! Wuff!}
-
-{9070}{}{Ich hab ein paar neue Sachen gelernt!} # pMDoc_PID
+{9070}{}{Ich hab ein paar neue Sachen gelernt!}
 {9071}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9080}{}{Ich glaube wirklich, ich hab was gelernt!} # pMGoris_PID
+{9080}{}{Ich glaube wirklich, ich hab was gelernt!}
 {9081}{}{Sicherheit des Wissens ist ein Geschenk.}
 {9082}{}{Ich scheine doch ganz nett zu reifen.}
 {9083}{}{Ich übertreffe sogar Gruthar in Fragen des Wissens.}
 {9084}{}{Ich habe jetzt einen besseren Stand im Rudel.}
 {9085}{}{Ich hab jetzt die meiste Macht im Rudel.}
-
-{9090}{}{Ich hab ein paar neue Sachen gelernt!} # pMDavin_PID
+{9090}{}{Ich hab ein paar neue Sachen gelernt!}
 {9091}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9100}{}{Ich hab ein paar neue Sachen gelernt!} # pMMaria_PID
+{9100}{}{Ich hab ein paar neue Sachen gelernt!}
 {9101}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9110}{}{Ich hab ein paar neue Sachen gelernt!} # pMLaddie_PID
+{9110}{}{Ich hab ein paar neue Sachen gelernt!}
 {9111}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9120}{}{DATENANALYSE ABGESCHLOSSEN. AKTUALISIERUNG ALLER SYSTEME BEGINNT.} # pMRoboBrain_PID  -- CyberBrain
+{9120}{}{DATENANALYSE ABGESCHLOSSEN. AKTUALISIERUNG ALLER SYSTEME BEGINNT.}
 {9121}{}{NEUE DATEN GESAMMELT. ZIELSYSTEME WERDEN ERWEITERT.}
 {9122}{}{RETRO-ANPASSUNG DES SYSTEMS ABGESCHLOSSEN.}
 {9123}{}{ZIELSYSTEME NEU KALIBRIERT. 20%IGE STEIGERUNG DER GENAUIGKEIT.}
 {9124}{}{OPTIMALE LEISTUNG ERREICHT.}
-
-{9130}{}{Boß! Ich glaube, daß ich das allmählich alles kapiere.} # pMVic_PID
+{9130}{}{Boß! Ich glaube, daß ich das allmählich alles kapiere.}
 {9131}{}{Ich werde wirklich besser! Hab ich doch gleich gesagt, Boß, daß ich dich nicht enttäuschen würde.}
 {9132}{}{Heh... Moment mal... jetzt kapier ich's auch. Ich leite meine Ziele nicht genug an, glaub ich.}
 {9133}{}{Na also, Boß! Auch ein alter Hund kann noch was Neues lernen!}
 {9134}{}{Weißt du was, Boß? Ich glaube, ich lerne hier wirklich ein oder zwei Sachen.}
 {9135}{}{Ich werd ja richtig gut darin. Hier, Boß. Alles Gute wird mit der Zeit noch besser.}
-
-{9140}{}{Ich hab ein paar neue Sachen gelernt!} # pMBess_PID
+{9140}{}{Ich hab ein paar neue Sachen gelernt!}
 {9141}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9150}{}{Ich hab ein paar neue Sachen gelernt!} # pMChicken_PID
+{9150}{}{Ich hab ein paar neue Sachen gelernt!}
 {9151}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9160}{}{Ich hab ein paar neue Sachen gelernt!} # pMKarl_PID
+{9160}{}{Ich hab ein paar neue Sachen gelernt!}
 {9161}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9170}{}{Ich hab ein paar neue Sachen gelernt!} # pMJonny_PID
+{9170}{}{Ich hab ein paar neue Sachen gelernt!}
 {9171}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9180}{}{Ich hab ein paar neue Sachen gelernt!} # pMLloyd_PID
+{9180}{}{Ich hab ein paar neue Sachen gelernt!}
 {9181}{}{Ich hab ein paar neue Sachen gelernt!}
-
-{9190}{}{Wuff WUFF!} # pMDogMeat_PID
+{9190}{}{Wuff WUFF!}
 {9191}{}{Wuff WUFF WUUFFF!}
 {9192}{}{Wuff WUFF WUUFFF!}
 {9193}{}{Wuff WUFF WUUFFF!}
 {9194}{}{Wuff WUFF WUUFFF!}
 {9195}{}{Wa-WUUFFF!}
-
-{9200}{}{} # pMRoboBrain_PID -- Human
-
-{9210}{}{} # pMRoboBrain_PID -- Abnormal
-
-{9220}{}{} # pMRoboBrain_PID -- Chimp
-
-{9230}{}{} # pMPariahDog_PID
-
-{9240}{}{Programmaktualisierung wird eingeleitet, Meister... Aktualisierung abgeschlossen.}  # pMK9_PID
+{9200}{}{}
+{9210}{}{}
+{9220}{}{}
+{9230}{}{}
+{9240}{}{Programmaktualisierung wird eingeleitet, Meister... Aktualisierung abgeschlossen.}
 {9241}{}{Softwareaktualisierung wird installiert, Meister... Version 2.0 ist installiert.}
 {9242}{}{Hardwareänderungen werden ausgeführt, Meister... Systeme nominal.}
 {9243}{}{Hardwareänderungen werden ausgeführt, Meister... Systeme optimal!}
-
-
-{9250}{}{} # pMCarTrunk_PID
-
-
-{9260}{}{Es gibt mehr als einen Weg, um eine Katze zu häuten.} # pMKitsune_PID
+{9250}{}{}
+{9260}{}{Es gibt mehr als einen Weg, um eine Katze zu häuten.}
 {9261}{}{Umso tiefer ich falle, desto höher steig ich wieder auf.}
 {9262}{}{Leben. Lernen. Entwickeln.}
 {9263}{}{Ich höre und vergesse; Ich sehe und erinnere mich; Ich mache es und verstehe.}
 {9264}{}{Ich *bin* eine Waffe.}
-
-{9270}{}{Weißt du, ich denke, ich fange an, mich von dieser 'eingefroren sein' Geschichte zu erholen.} # pMDex_PID
+{9270}{}{Weißt du, ich denke, ich fange an, mich von dieser 'eingefroren sein' Geschichte zu erholen.}
 {9271}{}{Ahh... ja. Ich spüre, wie der alte Zauber wieder zu mir zurückkommt.}
 {9272}{}{Ich will dich nicht überrumpeln, aber ich wurde gerade noch besser.}
 {9273}{}{Kopf hoch, ich wurde gerade vollkommen. Also, lass uns ein paar Huren suchen, damit wir feiern können.}
 {9274}{}{Anscheinend habe ich die Vollkommenheit übertroffen. Ich nehme an, wenn irgendjemand dazu fähig war, dann ich.}
-
-{9280}{}{"Cat" ist zurück!} # pMCatJules_PID
+{9280}{}{"Cat" ist zurück!}
 {9281}{}{Spielen mir meine Augen Streiche oder sieht mein Arsch besser denn je aus?}
 {9282}{}{Meine Katzensinne kribbeln!}
 {9283}{}{Hätte ich nur ein paar Fische, um diese Erfahrung zu vertiefen.}

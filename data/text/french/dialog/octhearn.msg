@@ -41,5 +41,4 @@
 {140}{}{Rebonjour. Moi garde toujours cet endroit.}
 {141}{}{}
 {142}{}{Arrrrrrrrrgggh ! Meurs !}
-
 {143}{}{.}

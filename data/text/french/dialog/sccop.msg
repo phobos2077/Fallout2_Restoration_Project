@@ -10,7 +10,6 @@
 {109}{}{Salut. Tu n'es pas d'ici, hein ?}
 {110}{}{Circule. Y'a rien à voir.}
 {111}{}{Je suis en mission. S'il y a des problèmes, tu peux avertir le poste.}
-
 {112}{}{Arrête de jouer avec ça.}
 {113}{}{Eloigne-toi.}
 {114}{}{Ce n'est pas fait pour jouer.}

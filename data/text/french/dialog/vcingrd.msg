@@ -5,7 +5,7 @@
 {104}{}{18 heures passées. Il est temps que tu retournes à l'entrée.}
 {105}{}{D'accord. C'est bon, j'y vais.}
 {106}{}{D'accord. C'est bon, je m'en vais dans une minute.}
-{107}{}{J'ai des trucs à faire, là. Je partirai quand je le déciderai.}
+{107}{}{I got things to do. I'll go when I'm ready to go.}
 {108}{}{Umag Nak ?! Umag NAK !}
 {109}{}{Bon, je veux juste m'assurer que tu retournes à l'entrée sans problème. Allez, on y va.}
 {110}{}{Ok. On y va.}
@@ -53,7 +53,7 @@
 {152}{}{Hé ! C'est la personne qui a détruit l'Enclave !!}
 {153}{}{Hé, félicitations pour ta victoire sur l'Enclave !!}
 {154}{}{Bienvenue dans la Cité de l'Abri !}
-{155}{}{Même la Première citoyenne a été impressionnée par ce que tu as fait !}
+{155}{}{Ta bataille contre l'Enclave en impose même à la Première citoyenne.}
 {156}{}{Il paraît que t'as été jusqu'à San Francisco. C'est vrai ?}
 {157}{}{C'est vrai que les Etats-Unis continuaient à se battre ?}
 {158}{}{Faudrait enregistrer tes voyages dans l'ordinateur de la Cité de l'Abri.}

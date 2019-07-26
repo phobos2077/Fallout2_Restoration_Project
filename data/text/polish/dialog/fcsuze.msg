@@ -8,7 +8,7 @@
 {107}{}{Powstrzymaj je! Aaaaa!}
 {108}{}{Czy to Borsuk ciê przys³a³? Wiedzia³am, ¿e tak zrobi. Kamieñ spad³ mi z serca.}
 {109}{}{Aaggg.}
-{110}{}{Co tu robi³aœ?}
+{110}{}{Co tam robi³aœ na dole?}
 {111}{}{Ta. IdŸ za mn¹.}
 {112}{}{Och, moje ty biedne. Radiacja i pustkowia nie s¹ mi³e, prawda? Mam nadziejê, ¿e ktoœ bêdzie móg³ ci pomóc.}
 {113}{}{Wiesz, to trochê g³upie. Zwiedza³am sobie, bo Borsuk by³ zajêty komputerem. Posz³am na dó³, zgubi³am siê, a zaraz potem otoczy³y mnie potwory. Dobrze, ¿e tu jesteœ.}

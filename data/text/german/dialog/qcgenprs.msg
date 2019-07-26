@@ -48,7 +48,7 @@
 {147}{}{Ich will keine Medizin mehr, nein. Neeeeiiiin!}
 {148}{}{Geister, schützt uns!}
 {149}{}{Wo sind die Geister, wenn man sie braucht?}
-{150}{}{Hilf uns!}
+{150}{}{Helft uns!}
 {151}{}{Befreien uns!}
 {152}{}{Ich möchte nach Hause.}
 {153}{}{Erst die Dürre und dann das.}

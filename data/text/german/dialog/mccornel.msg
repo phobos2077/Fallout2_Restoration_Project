@@ -1,13 +1,12 @@
 {100}{}{Ein alter Mann.}
 {101}{}{Cornelius.}
 {102}{}{Außer dem etwas unsteten Blick scheint nichts Ungewöhnliches an ihm zu sein.}
-
 {150}{}{Willkommen in Roses Pension. Ich heiße Rose, ich meine Cornelius und ich leite diese
  Pension. Kann ich dir helfen?}
 {151}{}{Wenn du den Laden hier leitest, wieso heißt der dann ROSES Pension?}
 {152}{}{Ich suche nach einer goldenen Uhr.}
-{153}{}{Was tust du hier?}
-{154}{}{Wer ist Rose?}
+{153}{}{Was machst du hier?}
+{154}{}{Who's Rose?}
 {155}{}{Ich hätte gerne ein Zimmer.}
 {156}{}{Fragen? Habe ich dich was gefragt? Hi, ich heiße Cornelius.}
 {162}{}{Du brauchst wirklich Hilfe, Alter.}
@@ -20,7 +19,7 @@
 {177}{}{Ich hab ihn umgebracht. Was machst du jetzt, du alter Verrückter?}
 {178}{}{Boa! Es ist spät geworden. Ich muß gehen.}
 {179}{}{Rose ist meine Frau, ich hab den Laden nach ihr benannt. Wußtest du, daß ich verheiratet bin?}
-{180}{}{Darf ich dir noch ein paar Fragen stellen?}
+{180}{}{Kann ich dir noch ein paar Fragen stellen?}
 {181}{}{WARUM FRAGST DU DANN NICHT DIESEN NICHTSNUTZ FARREL! VIELLEICHT VERKAUFT ER DIR DIE UHR,DIE ER MIR GEKLAUT HAT! Wenn's dir nichts ausmacht, ich hab zu tun. Ich muß die Brahmin scheren.}
 {182}{}{Ich leite dieses Motel. Jawoll, wenn ich nicht wäre, wär der Schuppen schon längst verfallen. Hast du schon das Klo gesehen? Ein saubereres findest du nicht. Das war ich.}
 {183}{}{Was hat Kloputzen mit der Leitung von dem Laden hier zu tun?}
@@ -64,16 +63,12 @@
 {223}{}{ICH HAB DEN MÖRDER GEFUNDEN! ER HAT ZUGEGEBEN, DASS ER FARREL UMGELEGT HAT! SCHNAPPEN WIR IHN!}
 {224}{}{ICH HAB DIE MÖRDERIN GEFUNDEN! SIE HAT ZUGEGEBEN, DASS SIE FARREL UMGELEGT HAT! SCHNAPPEN WIR SIE!}
 {225}{}{Ich töten Farrel.}
-
 {300}{}{[Hmmm... Manche Wörter scheinen ihn zu fesseln.] Rose... Zimmer ... Leiten ...}
-{301}{}{Uga.}
-
+{301}{}{Ooga.}
 {501}{}{Ich hab schon immer gewußt, daß du ein Dieb bist!}
 {502}{}{Wie konntest du das deinem besten Freund antun!}
 {503}{}{Ich bring dich um!}
 {504}{}{Deinen Kopf nagel ich mir an die Wand!}
-
 {550}{}{Er scheint im Moment etwas in etwas vertieft zu sein.}
-
 {600}{}{Du hast Cornelius die Uhr wiedergegeben.}
 {650}{}{Du hast den Streit zwischen Cornelius und Farrel aufgelöst.}

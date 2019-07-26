@@ -8,7 +8,7 @@
 {106}{}{Was gibt's denn hier zu kaufen?}
 {107}{}{Du siehst so aus, als wärst du geschickt mit den Händen. Du hast doch Hände, oder?}
 {108}{}{Ich hab fünf Dollar. Hast du guten Tratsch auf Lager?}
-{109}{}{Auf Wiedersehen.}
+{109}{}{Wiedersehn.}
 {110}{}{Siehst du das hier? Das ist mein liebstes Stück - Edna. Ich geb jedem meiner Stücke 'n
  Namen, weiß du - sie sind wie Kinder für mich. Ich verkaufe sie nur sehr ungern, aber von
  irgendwas muß man ja leben.}
@@ -17,8 +17,7 @@
 {113}{}{Na gut - du bist ja ganz schön schräg drauf! Ich mach meine Einkäufe besser woanders.}
 {114}{}{Laß mich dein Angebot noch mal ansehen.}
 {115}{}{Ich und Edna gehen jetzt wohl besser.}
-{116}{}{Gott sei Dank hat der Fremde dich nicht gekauft, mein Kind... Meine Sachen sind wie
- Kinder für mich, weißt du.}
+{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
 {117}{}{Ähm - selbstverständlich.}
 {118}{}{Ich geh dann wohl besser.}
 {119}{}{Ich kann alle möglichen Sachen reparieren. Hab mir 'n Gebläse geholt, das gute Stück
@@ -42,7 +41,7 @@
 {133}{}{Geht klar. Wir sehen uns dann nachher.}
 {134}{}{Komm zurück, wenn du wieder flüssig bist. Wahrscheinlich hab ich's dann noch.}
 {135}{}{Na schön.}
-{136}{}{Bis dann.}
+{136}{}{Wiedersehn.}
 {137}{}{Da ist sie! Claudia ist fertig montiert.}
 {138}{}{Gib mir noch ein wenig Zeit. Ich arbeite immer noch an dem verflixten Ding.}
 {139}{}{Au weia! Ich glaub nicht, daß ich ein Ersatzhirn für dich habe.}

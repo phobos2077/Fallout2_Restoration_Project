@@ -17,7 +17,7 @@
  ergeben...}
 {114}{}{Da ist ein schreckliches Antlitz, das Dich anstarrt. Oh, warte, dieser Terminal ist aus.}
 {115}{}{Hinter diesem Fenster wartet eine dunkle Dimension jenseits von Zeit und Raum.}
-{116}{}{Dieser Terminal enthält eine Nachricht: "Fenestra '98 laden". Der Terminal ist mit einer dicken Staubschicht bedeckt.}
+{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
 {117}{}{Dieser Terminal scheint ein Terminal der Marke Aprikose zu sein. Auf ihm läuft etwas, das Fallout 2 heißt. Wow, es
  sieht nach Mehrfachspieler-Funktion und 3D aus.}
 {118}{}{Benutzerkennung eingeben:}
@@ -25,29 +25,29 @@
 {120}{}{(Ich bin gespannt, ob das funktionieren wird?) Smith, J.}
 {121}{}{Zurück.}
 {123}{}{Ich glaube, ich mache das lieber woanders.}
-{124}{}{Auflisten (der Terminal zeigt eine Liste mit ungefähr 500 Namen)}
-{125}{}{Auflisten (der Computer zeigt ein Liste mit Namen)}
+{124}{}{Listing (the terminal displays a list of about 500 names).}
+{125}{}{Listing (the computer displays a list of names).}
 {126}{}{Wähle Benutzerkennung oder logge Dich aus:}
 {127}{}{(Dieser hat genehmigten Zugang.) Smith, J.}
-{128}{}{(Dieser sieht irgendwie speziell aus.) Präsidenten-Paßwort  Außerkraftsetzen der Sicherheitsfunktion }
+{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
 {129}{}{(Dein Zugang ist besser, als ein normaler Zugang.) Murray, T.}
 {130}{}{(Dieser hat guten Zugang.) Curling, Dr. C.}
 {131}{}{(Dieser sieht aus, als ob er wirklich guten Zugang hat.) Bird, D.}
 {132}{}{(Vielleicht werde ich das später versuchen.) Ausloggen.}
 {133}{}{Auswählen: }
-{134}{}{A. E. C.: Atomkraftwerk Operationen, }
+{134}{}{A. E. C.: Atomkraftwerk Operationen,}
 {135}{}{Sicherheitsstatus?}
-{136}{}{A. E. C. herunterladen: Atomkraftwerk Operationen}
+{136}{}{Download A. E. C.: Atomic Power plant Operations.}
 {137}{}{Sicherheitsstatus}
 {138}{}{Zurück zur Benutzerkennung:}
 {139}{}{Auswählen: }
-{140}{}{Sicherheitslevel: Derzeitiges Level, }
-{141}{}{Chemischer Korps: Projektstatusreport, }
-{142}{}{A. E. C.: Atomkraftwerk Operationen, }
+{140}{}{Sicherheitslevel: Derzeitiger Status,}
+{141}{}{Chemischer  Korps: Projektstatusreport,}
+{142}{}{A. E. C.: Atomkraftwerk Operationen,}
 {143}{}{Sicherheitsstatus?}
-{144}{}{Sicherheitsfunktion/Level: Derzeitiger Status}
-{145}{}{Chemischer Korps herunterladen: Projektstatusreport}
-{146}{}{A. E. C. herunterladen: Atomkraftwerk Operationen}
+{144}{}{Sicherheit/Level: Derzeitiger Status}
+{145}{}{Download Chemical Corps: Project Status Report.}
+{146}{}{Download A. E. C.: Atomic Power plant Operations.}
 {147}{}{Sicherheitsstatus}
 {148}{}{Zurück zur Benutzerkennung:}
 {149}{}{Auswählen: }
@@ -60,19 +60,19 @@
 {156}{}{Status der Nation: Derzeitiger Status}
 {157}{}{Wortliste herunterladen}
 {158}{}{Sicherheit/Level: Derzeitiger Status}
-{159}{}{Chemische Korps: Projektstatusreport}
-{160}{}{A. E. C. herunterladen: Atomkraftwerk Operationen}
+{159}{}{Download Chemical Corps: Project Status Report.}
+{160}{}{Download A. E. C.: Atomic Power plant Operations.}
 {161}{}{Sicherheitsstatus}
 {162}{}{Zurück zur Benutzerkennung:}
 {163}{}{Auswählen: Sicherheitsstatus?}
 {164}{}{Sicherheitsstatus}
-{165}{}{Zugang beenden}
+{165}{}{End Access.}
 {166}{}{Herunterladen fehlgeschlagen - Sicherheitsstatusdatei fehlt.}
 {167}{}{Status der Nation: Derzeitiger Status}
 {168}{}{Wortliste herunterladen}
 {169}{}{Sicherheit/Level: Derzeitiger Status}
-{170}{}{Chemische Korps herunterladen: Projektstatusreport}
-{171}{}{A. E. C. herunterladen: Atomkraftwerk Operationen}
+{170}{}{Download Chemical Corps: Project Status Report.}
+{171}{}{Download A. E. C.: Atomic Power plant Operations.}
 {172}{}{Zurück zur Benutzerkennung:}
 {173}{}{Herunterladen beendet.}
 {174}{}{Wortliste herunterladen}
@@ -103,31 +103,31 @@
 {199}{}{Informations- und Kraftwerk- Level: Sicherheitsturm gegenwärtig in bewaffnetem Alarm-Status.}
 {200}{}{Informations- und Kraftwerk- Level: Sicherheitsturm gegenwärtig in normalem Zustand.}
 {201}{}{Informations- und Kraftwerk- Level: Sicherheitsturm gegenwärtig in deaktiviertem Wartungszustand.}
-{202}{}{Sicherheitslevel einstellen}
+{202}{}{Adjust security level.}
 {203}{}{Status der Nation: Derzeitiger Status}
-{204}{}{Wortliste herunterladen.}
-{205}{}{Chemischen Korps herunterladen: Projektstatusreport}
-{206}{}{A. E. C. herunterladen: Atomkraftwerk Operationen}
+{204}{}{Wortliste herunterladen}
+{205}{}{Download Chemical Corps: Project Status Report.}
+{206}{}{Download A. E. C.: Atomic Power plant Operations.}
 {207}{}{Sicherheitsstatus}
 {208}{}{Zurück zur Benutzerkennung:}
 {209}{}{Herunterladen beendet.}
-{210}{}{Status der Nation herunterladen: Derzeitiger Status}
+{210}{}{Download State of the Nation: Current status.}
 {211}{}{Wortliste herunterladen}
 {212}{}{Sicherheit/Level: Derzeitiger Status}
-{213}{}{A. E. C. herunterladen: Atomkraftwerk Operationen}
+{213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Sicherheitsstatus}
 {216}{}{Zurück zur Benutzerkennung:}
 {217}{}{Herunterladen beendet.}
-{218}{}{Status der Nation herunterladen: Derzeitiger Status}
+{218}{}{Download State of the Nation: Current status.}
 {219}{}{Wortliste herunterladen}
 {220}{}{Sicherheit/Level: Derzeitiger Status}
-{221}{}{Chemische Korps herunterladen: Projektstatusreport}
+{221}{}{Download Chemical Corps: Project Status Report.}
 {222}{}{Sicherheitsstatus}
 {223}{}{Zurück zur Benutzerkennung:}
 {224}{}{Dieser Terminal befindet sich zur Zeit in Diagnosezustand. Versuche einen anderen Terminal. Dankeschön.}
 {225}{}{Willkommen beim PoseidoNet-Hilfesystem. Wir bedauern, daß die Hilfedateien überholt und zur Zeit nicht verfügbar
  sind. Hilfedatei aktualisieren? (J/N)}
-{226}{}{Ja}
+{226}{}{Ja.}
 {227}{}{Nein, zurück}
 {228}{}{Hilfedatei-Update mit dieser Testversion der PoseidoNet- Software nicht verfügbar. Kaufen Sie bitte die neueste
  Vollversion um die aktuellen Updates zu erhalten. Die Frist für diese Software ist vor 59.439 Tagen abgelaufen.}
@@ -145,7 +145,7 @@
  Eingangslevel!}
 {237}{}{(Das hört sich nützlich an.) Aktiviere Aufstandsgegenmaßnahmen.}
 {238}{}{(Vielleicht werde ich das ein anderes Mal versuchen.) Zurück.}
-{239}{}{(Ich möchte jetzt gerade nicht mehr mit dem Computer spielen.) Ausloggen.}
+{239}{}{(Ich möchte gerade nicht mehr mit dem Computer spielen.) Ausloggen.}
 {240}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Aufstandsniederschlagung eingeleitet.
 .. Ziel angeeignet}
 {241}{}{(Ich denke, ich werde zurücktreten und schauen, was passiert.)}
@@ -171,20 +171,16 @@
 {255}{}{(Hmm, mich würde interessieren, ob ich den Scanner durch einhacken in die Zugangsdatei täuschen kann, damit er
  glaubt, ich hätte den Schlüssel. Ich denke, ich werde es versuchen.)}
 {256}{}{(Na gut, es war einen Versuch wert.) Zurück.}
-{257}{}{Sicherheitsschlüssel Scanner-Fehlfunktion erkannt... Scanner-Neueinstellung...}
-{258}{}{(Das ist meine Chance, wenn ich es jetzt nur dazu bringen kann, zu glauben, es hätte den
- Präsidenten-Sicherheitsschlüssel erkannt...)}
-{259}{}{(Verdammt. Gut, nichts gewagt...) Zurück.}
-{260}{}{Scanner neu eingestellt. Neu Scannen...}
+{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
+{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
+{259}{}{(Damn, well nothing ventured...) Back.}
+{260}{}{Scanner reinitialized. Rescanning...}
 {261}{}{(Hier ist der große Moment.)-Du tippst fieberhaft.}
 {262}{}{Illegale Prozedur entdeckt. Weiterer Zugang zu diesem Terminal ist gesperrt... Verstärkungssalarm gesendet.}
 {263}{}{Verdammt. Das war überhaupt nicht das, was ich wollte.}
 {264}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident. (Ja! Jetzt sehen wir mal was ich tun kann...)}
 {265}{}{(Was kann ich noch machen?)}
-
-#added by killap
-{266}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Aufstandsniederschlagung eingeleitet... **Fehler** Kein Ziel gefunden. Bitte stellen Sie sicher, dass die Sensoren richtig funktionieren. Falls nicht,
- bitte Formular FG-I-106-32-0635 einreichen zur Reparaturservice-Berechtigung. Guten Tag.}
+{266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
 {267}{}{(Hmm... Vielleicht funktioniert es, sobald tatsächlich jemanden dort ist. Ich werde es später noch einmal versuchen.)
  Zurück zur Benutzerkennung.}
 {268}{}{(Ich bin gespannt, was ich noch alles versuchen kann?) Zurück.}

@@ -7,10 +7,10 @@
 {106}{}{Ich bin}
 {107}{}{Genug geplaudert. Du hast da ein paar Unterlagen und die würde Mr. Merk gerne haben. Rück sie raus und es stößt keinem etwas zu.}
 {108}{}{Schon mal was von einem Ort namens "Enklave" gehört?}
-{109}{}{Das geht dich überhaupt nichts an.}
+{109}{}{Geht dich nix an.}
 {110}{}{Hmm, unterdurchschnittliche Kranialentwicklung...gehemmte Entwicklung des Intellekts. Allerdings keine auffälligen physischen Veränderungen. Nein, ich fürchte, du bist ungeeignet. Guten Tag.}
 {111}{}{Das Auserwählte Wesen? Aber natürlich, na logisch. Interessant... Ich fürchte, ich kann dir nicht weiterhelfen. Ich bin für die Forschung im Bereich der Kybernetischen Genetik abgestellt und nicht für das Projekt zur Erforschung des Verhaltens in der Vault zuständig.}
-{112}{}{Über was sprichst du hier?}
+{112}{}{Wovon redest du?}
 {113}{}{Projekt zur Erforschung des Verhaltens in der Vault?}
 {114}{}{Kybernetische Genetik? Ich kann mich nicht erinnern, mich jemals damit beschäftigt zu haben.}
 {115}{}{Na gut. Du bist ja völlig durchgedreht. Mach's gut.}
@@ -31,9 +31,9 @@
 {130}{}{Das wär's dann wohl gewesen. Ich mach mich davon.}
 {131}{}{Bitte? Nein, um dich geht es auch gar nicht. Beim jetzigen Entwicklungsstand eignet sich das Serum noch nicht für den Einsatz bei niedrigen Mutagenquotienten. Es wirkt nur bei Supermutanten. Injiziere das Serum einem Supermutanten, und komm dann wieder,  um Bericht zu erstatten. So weit ich weiß, gibt es in Broken Hills massig Supermutanten.}
 {132}{}{Und wie wirkt das Serum?}
-{133}{}{Und was hab ich davon?}
+{133}{}{Wieviel ist für mich drin?}
 {134}{}{Es soll eine Regression der genetischen Matrix bewirken, die zur Destabilisierung und Assimilierung anormaler DNA führt. Dadurch wird das mutagene Potential des Probanden aufgehoben. Wenn ich ganz sicher wäre, daß es so funktioniert, müßte ich es nicht testen.}
-{135}{}{Und was hab ich davon?}
+{135}{}{Wieviel ist für mich drin?}
 {136}{}{Du hast die einmalige Gelegenheit, an einem wichtigen, um nicht zu sagen, an dem bedeutendsten wissenschaftlichen Experiment - ...ach so, ich verstehe, du willst Geld. Ich hab eine Cyberhund Mk. II, Selbstverteidigungsmodell. Die habe ich mir mitgebracht. Bis du zurück bist, dürfte ich sie wieder funktionsfähig haben. Ist das ein Vorschlag?}
 {137}{}{Cyberhund? Klar, warum nicht.}
 {138}{}{Du hast ja völlig den Verstand verloren. Total durchgeknallt, der Mann.}

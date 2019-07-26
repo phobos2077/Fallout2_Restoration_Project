@@ -2,32 +2,32 @@
 {101}{}{Tu vois Madame Modjeska.}
 {102}{}{Je veux être seule.}
 {103}{}{Va-t'en.}
-{104}{}{Ne viens pas m'ennuyer.}
+{104}{}{Ne me dérange pas.}
 {105}{}{Laisse-moi.}
 {106}{}{Je ne tolère pas les simples d'esprit.}
 {107}{}{La plupart de la populace travaille seulement pour avoir assez de Jet. Ils en ont besoin pour s'évader d'ici.}
-{108}{}{J'aimerais te poser une autre question.}
+{108}{}{Je voudrais te demander autre chose.}
 {109}{}{C'est quoi le Jet ?}
 {110}{}{Je vois. Au revoir.}
 {111}{}{Le Jet a son utilité. Il permet d'oublier un peu la misère environnante.}
-{112}{}{J'aimerais te poser une autre question.}
+{112}{}{Je voudrais te demander autre chose.}
 {113}{}{C'est quoi le Jet ?}
 {114}{}{Je vois. Au revoir.}
 {115}{}{Le Jet est devenu si cher. C'est criminel. Au fait... J'ai entendu dire que notre bien aimé M.Ascorti le Maire songe à nous en procurer davantage. Toujours le héros des masses, cet homme-là !}
-{116}{}{J'aimerais te poser une autre question.}
+{116}{}{Je voudrais te demander autre chose.}
 {117}{}{Ascorti le Maire ? Qui est-il exactement ?}
 {118}{}{C'est quoi le Jet ?}
 {119}{}{Je vois. Au revoir.}
 {120}{}{Apparemment tout le monde serait malade. Avec ce dernier arrivage de Jet, tout le monde a juré de décrocher. A mon avis, ils y reviendront vite.}
-{121}{}{J'aimerais te poser une autre question.}
+{121}{}{Je voudrais te demander autre chose.}
 {122}{}{C'est quoi le Jet ?}
 {123}{}{Je vois. Au revoir.}
 {124}{}{On dirait que j'avais tort. Tous ceux qui étaient vraiment accros ont décroché. Après ce dernier mauvais lot, rien que l'odeur de la came nous fait vomir.}
-{125}{}{J'aimerais te poser une autre question.}
+{125}{}{Je voudrais te demander autre chose.}
 {126}{}{C'est quoi le Jet ?}
 {127}{}{Je vois. Au revoir.}
 {128}{}{Je suis... Madame Modjeska. Que me veux-tu ?}
-{129}{}{Bonjour. Puis-je t'aider ?}
+{129}{}{En quoi puis-je t'être utile ?}
 {130}{}{Je n'ai pas de temps à perdre. Que veux-tu ?}
 {131}{}{Ne m'embête pas avec ça. Que veux-tu ?}
 {132}{}{Madame Modjeska ne se sent pas bien aujourd'hui. Que me veux-tu ?}
@@ -49,8 +49,8 @@
 {148}{}{Bon, c'est tout ce que je voulais savoir. Au revoir.}
 {149}{}{Je travaillais au Malamute Saloon. Le « Madame » faisait partie du boulot. Ce nom m'est toujours resté, même si je n'y travaille plus.}
 {150}{}{Où travailles-tu maintenant ?}
-{151}{}{Euh, pas vraiment. Il y a autre chose que je voulais savoir}
-{152}{}{C'est tout ce que j'ai besoin de savoir. Au revoir.}
+{151}{}{Je voudrais te demander autre chose.}
+{152}{}{Je pense que c'est tout ce que j'ai besoin de savoir pour le moment. Au revoir.}
 {153}{}{J'ai pris un peu de Jet il y a quelques jours et je me suis sentie mal. Ce lot devait être frelaté. J'ai pas envie de remettre ça. Bon, je vais me remettre à la bouteille je crois.}
 {154}{}{Pas terrible. Changeons de sujet, alors.}
 {155}{}{Je comprends. Bon, c'est tout ce que je voulais savoir. Adieu.}
@@ -87,7 +87,7 @@
 {186}{}{Comment peuvent-ils aider à prendre le pouvoir ?}
 {187}{}{Qui est Marge LeBarge ?}
 {188}{}{Qui est Dan McGrew ?}
-{189}{}{Qui est Doc Johnson ?}
+{189}{}{Qui est le Doc Johnson ?}
 {190}{}{Qui est Ascorti le Maire ?}
 {191}{}{Merci pour l'info. Au revoir.}
 {192}{}{Il y aura des blessés parce que ce type de changement ne se fait pas tout seul. Ceux qui pensent qu'ils ne vont pas décrocher le gros lot vont tout faire pour que personne d'autre ne le décroche non plus. Pour éviter ça, il faut décider de rejoindre une des puissances et de conclure une alliance rapide avant que les autres comprennent.}
@@ -98,13 +98,13 @@
 {197}{}{Merci des informations. Au revoir.}
 {198}{}{Marge LeBarge possède la mine Kokoweef. Cette mine et la mine Morningstar sont les deux seules mines en exploitation à Redding. Marge est plus du type RNC. Je ne crois pas qu'elle apprécie leur pudibonderie mais elle a du flair quand il s'agit de pouvoir.}
 {199}{}{Qui est Dan McGrew ?}
-{200}{}{Qui est Doc Johnson ?}
+{200}{}{Qui est le Doc Johnson ?}
 {201}{}{Qui est Ascorti le Maire ?}
 {202}{}{Comment ces gens peuvent-ils aider à une prise de pouvoir ?}
 {203}{}{Merci pour l'info. Au revoir.}
 {204}{}{Dan McGrew la Menace, ah ouais. C'est le patron de la mine Morningstar. Cette mine et la mine Kokoweef sont les deux seules mines en exploitation à Redding. A mon avis, Dan penche plutôt du côté de New Reno. Il aime voir ses mineurs dopés et contents.}
 {205}{}{Qui est Marge LeBarge ?}
-{206}{}{Qui est Doc Johnson ?}
+{206}{}{Qui est le Doc Johnson ?}
 {207}{}{Qui est Ascorti le Maire ?}
 {208}{}{Comment ces gens peuvent-ils aider à une prise de pouvoir ?}
 {209}{}{Merci pour l'info. Au revoir.}
@@ -113,19 +113,19 @@
 {212}{}{J'ai encore une question.}
 {213}{}{Je t'ai écoutée assez longtemps. Au revoir.}
 {214}{}{Le Jet c'est un super stimulant qui m'aide à atténuer cette existence misérable.}
-{215}{}{J'aimerais te poser une autre question.}
+{215}{}{Je voudrais te demander autre chose.}
 {216}{}{Intéressant. Merci et au revoir.}
 {217}{}{Avec le Jet, je me sens en vie. Je plane complètement !}
-{218}{}{J'aimerais te poser une autre question.}
+{218}{}{Je voudrais te demander autre chose.}
 {219}{}{Intéressant. Merci et au revoir.}
 {220}{}{Hum, je vais te dire ce qu'est le Jet : et d'une, c'est vraiment délicieux, et de deux ça a quelque chose à offrir à tout le monde.}
-{221}{}{J'aimerais te poser une autre question.}
+{221}{}{Je voudrais te demander autre chose.}
 {222}{}{Intéressant. Merci et au revoir.}
 {223}{}{Le Jet c'est plus ce que c'était. Maintenant, ça me retourne les tripes comme une vieille machine à laver. Je ne recommanderai pas le lot actuel. Il ne carbure plus mon chou, il te fait piquer du nez.}
 {224}{}{Bien sûr, c'est dommage. Une autre question.}
 {225}{}{Intéressant. Merci et au revoir.}
 {226}{}{Quelque chose clochait avec le dernier lot de Jet qu'on a reçu en ville. Il te plantait complètement et se consumait pendant la montée. J'en ai marre de planer. La boisson, c'est bien plus fiable.}
-{227}{}{J'aimerais te poser une autre question.}
+{227}{}{Je voudrais te demander autre chose.}
 {228}{}{Intéressant. Merci et au revoir.}
 {229}{}{Doc Johnson est un homme mystérieux. Je ne sais pas d'où il vient mais c'est un vrai docteur. Et il n'y a qu'à la Cité de l'Abri qu'il a pu avoir ce genre de formation. Je parie qu'ils l'ont parachuté ici pour soigner leurs intérêts. Il a dû gonfler quelqu'un là-bas pour avoir la mission. Pourtant ces types de la Cité de l'Abri n'aiment pas trop voyager.}
 {230}{}{Qui est Marge LeBarge ?}
@@ -136,6 +136,6 @@
 {235}{}{Le maire est un homme qui sait voir où sont ses intérêts. Il a encore quelques scrupules mais il fera avant tout ce qui est bon pour Redding pour préserver ses propres intérêts.}
 {236}{}{Qui est Marge LeBarge ?}
 {237}{}{Qui est Dan McGrew ?}
-{238}{}{Qui est Doc Johnson ?}
+{238}{}{Qui est le Doc Johnson ?}
 {239}{}{Comment ces gens peuvent-ils aider à une prise de pouvoir ?}
 {240}{}{Merci pour l'info. Au revoir.}

@@ -1,7 +1,4 @@
-# quick look
 {100}{}{Tu vois un client de casino.}
-
-# examines
 {150}{}{Tu vois un client du casino. Il a l'air fatigué.}
 {151}{}{Tu vois un client du casino. Il a une lueur dorée dans les yeux.}
 {152}{}{Tu vois un client du casino. Il a ses mains sur son visage.}
@@ -14,25 +11,23 @@
 {159}{}{Tu vois une cliente du casino. Elle a l'air d'être un peu éméchée.}
 {160}{}{Tu vois une cliente du casino. Elle te fait un clin d'oeil, puis s'éloigne en titubant.}
 {161}{}{Tu vois une cliente du casino. Elle essaie d'attirer l'attention du serveur.}
-
-# float
-{200}{}{::Applaudit::}
-{201}{}{::Trinque::}
-{202}{}{C'est comme ça qu'on brûle ces enfoirés de L'Enclave ! Tout à fait !}
-{203}{}{C'est comme ça qu'on écrabouille L'Enclave, }
+{200}{}{::Applaudissements::}
+{201}{}{::Acclamations::}
+{202}{}{C'est comme ça qu'on donne une leçon à l'Enclave !}
+{203}{}{C'est comme ça qu'on botte le cul de L'Enclave, }
 {204}{}{Bravo pour avoir vaincu L'Enclave, }
 {205}{}{Bravo pour avoir vaincu L'Enclave, }
-{206}{}{Oups. Ne restons pas sur son chemin.}
+{206}{}{Oups. Ne restont pas sur son chemin.}
 {207}{}{Rien qu'à voir cet... cette... ce... *peu importe*, ça me donne des frissons.}
 {208}{}{Tu penses que cette chose cherche à flinguer quelqu'un ?}
 {209}{}{C'est un suppôt de l'enfer en chair et en os. Euh, je veux dire dans cette armure.}
-{210}{}{Ne restons pas sur le passage de cette chose.}
-{211}{}{En parlant de choses qui ont l'air dangereuses...}
-{212}{}{*Gloup*}
+{210}{}{Dégagez le chemin pour ce truc.}
+{211}{}{En parlant de choses qui ont l'air dangeureuses...}
+{212}{}{*Gulp*}
 {213}{}{Je crois que ce M. Roboto m'a scanné.}
 {214}{}{Je crois que ce tank sur pattes vient de me lancer un regard assassin. Je fiche le camp.}
 {215}{}{J'ai entendu dire qu'hier ce truc avait abattu trois hommes de main.}
-{216}{}{Rien que le regarder me donne des frissons.}
+{216}{}{Rien qu'à le regarder j'en ai des frissons.}
 {217}{}{Tu penses qu'il cherche à flinguer quelqu'un ?}
 {218}{}{Ne restons pas sur le passage de cet homme.}
 {219}{}{Je crois qu'il m'a regardé.}
@@ -41,7 +36,7 @@
 {222}{}{Oups. Ne restont pas sur son chemin.}
 {223}{}{C'est un suppôt de l'enfer en chair et en os.}
 {224}{}{En parlant de choses qui ont l'air dangeureuses...}
-{225}{}{*Gloup*}
+{225}{}{*Gulp*}
 {226}{}{La femme Nikita, même plus !}
 {227}{}{Rien qu'à la regarder j'en ai des frissons.}
 {228}{}{Tu penses qu'elle cherche à flinguer quelqu'un ?}
@@ -51,25 +46,25 @@
 {232}{}{Quel joli cul ! Euh, jolie coup, j'voulais dire.}
 {233}{}{Tu n'as pas l'air si coriace, M. Le prétendant au titre.}
 {234}{}{J'ai gagné 20 jetons en pariant sur toi !}
-{235}{}{Hé, champion ! Le dernier combat était grandiose !}
-{236}{}{Je t'ai vu combattre sur le ring. Tu as balancé un sacré bon crochet du droit.}
-{237}{}{Tu vas assurer ? J'ai parié 30 jetons sur toi.}
-{238}{}{Combien tu peux soulever ?}
+{235}{}{Hé, champion ! Le dernier combat était génial !}
+{236}{}{Je t'ai vu te battre sur le ring. Tu as balancé un sacré crochet du droit !}
+{237}{}{Tu vas prendre tes responsabilités ? J'ai misé 30 jetons sur toi.}
+{238}{}{Tu soulèves combien ?}
 {239}{}{Où est-ce que tu t'entraînes ?}
-{240}{}{Attention au Mastiquateur. Il a un certain goût pour les oreilles.}
-{241}{}{Je serais bien allé te chercher à boire si je n'avais pas tout dépensé en pariant sur ton adversaire.}
+{240}{}{Fais attention au Mastiquateur. Il est friand d'oreilles.}
+{241}{}{Je t'aurais bien payé un verre si j'avais pas tout misé sur ton adversaire.}
 {242}{}{Tu n'as pas l'air si coriace, Mlle Crochet du droit.}
 {243}{}{Je peux voir tes abdos se contracter ?}
 {244}{}{Whaou. Vise un peu ça.}
 {245}{}{Matte un peu *ça* !}
-{246}{}{::Mime les mots "Bon sang !"::}
+{246}{}{::Mime le mot 'putain'::}
 {247}{}{Je SAVAIS que j'aurais dû me raser aujourd'hui.}
 {248}{}{Viens me voir une seconde, tétons d'aciers.}
 {249}{}{Les tribales ont de ces nibards ! Merde !}
 {250}{}{Matte un peu les nichons de cette tribale.}
 {251}{}{Ca c'est la pouliche la plus belle de mon troupeau.}
 {252}{}{Je prendrais même un bain pour cette femme !}
-{253}{}{J'ai trouvé un beau filon juste ici.}
+{253}{}{J'ai trouvé un gros filon ici.}
 {254}{}{Bouge ton boule !}
 {255}{}{Secoue moi un peu tout ça !}
 {256}{}{::Siffle::}
@@ -79,23 +74,23 @@
 {260}{}{P't-être qu'elle va danser ce soir.}
 {261}{}{T'as vu son dernier film ? Chaud bouillant mec, CHAUD !}
 {262}{}{Excuse-moi. je dois aller aux toilettes et euh... me recoiffer vite fait.}
-{263}{}{J'aimerais être sa culotte.}
-{264}{}{J'aimerais être ses sous-vêtements.}
-{265}{}{J'aimerais sentir sa culotte.}
+{263}{}{J'voudrais être sa culotte.}
+{264}{}{J'aimerais bien être sa petite culotte.}
+{265}{}{J'aimerais bien sentir sa culotte.}
 {266}{}{Cette une sacrée bombe !}
 {267}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
-{268}{}{Hé, Saluuut, Don Juan.}
+{268}{}{Hé, salut beau gosse !}
 {269}{}{Est-ce qu'un étalon comme toi a besoin d'une selle ? Je suis libre demain soir.}
 {270}{}{Tu fais quoi plus tard, matelot ?}
 {271}{}{Je peux toucher tes muscles ?}
 {272}{}{Comment tu fais pour pas t'évanouir quand t'as une érection ?}
 {273}{}{Tu veux venir prendre un verre chez moi ?}
 {274}{}{J'aimerais pouvoir manger mon repas sur ton torse.}
-{275}{}{Besoin d'une partenaire pour ton prochain film ?}
-{276}{}{::Contemple tes biceps::}
-{277}{}{C'est une espèce de machine à sous qui te suis partout ?}
-{278}{}{C'est un robot machine à sous ?}
-{279}{}{Est-ce que ton robot fait des trucs ? Euh des trucs magiques, je veux dire.}
+{275}{}{Besoin d'un partenaire pour ton prochain film ?}
+{276}{}{::Fixe tes biceps::}
+{277}{}{C'est une sorte de machine à sous, ce truc qui te suit ?}
+{278}{}{C'est une machine à sous robotique ?}
+{279}{}{Ton robot fait-il des tours ? Euh... Des tours de magie, j'veux dire.}
 {280}{}{Ca a l'air plus fou qu'un renard couchant avec une poule.}
 {281}{}{Tente ta chance.}
 {282}{}{Bébé a besoin d'une nouvelle paire de chaussures...}
@@ -121,7 +116,7 @@
 {302}{}{Je me demande bien ce qui se trame dans les étables en dehors de la ville.}
 {303}{}{Une nouvelle querelle pourrait bientôt commencer.}
 {304}{}{Putain, il y a des rôdeurs partout !}
-{305}{}{Super, un autre amateur.}
+{305}{}{Super, un autre amateur...}
 {306}{}{J'aime TROP le pognon.}
 {307}{}{Je dormirai quand je serai mort.}
 {308}{}{Mec, j'ai besoin de pisser. J'ai les dents du fond qui baignent.}
@@ -137,7 +132,7 @@
 {318}{}{Le 23 Rouge ! Le 23 Rouge ! Allez... le 23 Rouge...}
 {319}{}{50 jetons sur le 15 Noir...}
 {320}{}{Elle tourne, Elle tourne... où elle s'arrêtera, personne ne le sait...}
-{321}{}{C'est comme ça qu'on brûle ces enfoirés de l'Enclave ! Tout à fait !}
+{321}{}{C'est comme ça qu'on donne une leçon à l'Enclave !}
 {322}{}{J'ai toujours su que le Président voulait tous nous tuer.}
 {323}{}{Le président était en vie ? C'était quand les dernières éléctions ?}
 {324}{}{Tu as détruit L'Enclave, hein ? Bon, laisse moi t'offrir à boire.}
@@ -179,7 +174,7 @@
 {359}{}{Tu as quelque chose à vendre ?}
 {360}{}{Puis-je acheter tes vêtements ? Je veux dire, tout de suite ?}
 {361}{}{Je SAVAIS que j'aurais dû me raser aujourd'hui.}
-{362}{}{Viens bavarder avec moi une seconde, tétons d'acier.}
+{362}{}{Viens me voir une seconde, tétons d'aciers.}
 {363}{}{Allez ma belle aux lèvres de miel... marche avec moi.}
 {364}{}{Agile et coquine, c'est ça ?}
 {365}{}{Je prendrais un bain pour toi.}
@@ -194,7 +189,6 @@
 {374}{}{Bon sang ! Toutes ces courbes et moi qui n'ai pas de freins !!}
 {375}{}{Tu sais ce qui ferais bien sur toi ? Moi !}
 {376}{}{Ta culotte n'est peut-être pas ce qu'il y a de mieux sur terre, mais bon sang, on en est pas loin.}
-
 {503}{}{ !}
 {504}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}
 {505}{}{ ! T'es trop ENORME !!}

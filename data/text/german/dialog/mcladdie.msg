@@ -2,14 +2,13 @@
 {101}{}{Du siehst Laddie.}
 {102}{}{Es scheint ein aufgeweckter, intelligenter Hund zu sein.}
 {103}{}{Zweifellos ist dieser Hund intelligenter als du.}
-
 {150}{}{Wuff!}
 {151}{}{Wuff! Wuff!}
 {152}{}{Wuff! Wuff! Wuff!}
 {153}{}{[Der Hund scheint ausgesprochen aufgeregt zu sein.]}
 {154}{}{Gutes Hundchen.}
 {155}{}{Weiﬂt du wo Jonny ist, Alter?}
-{156}{}{Bleib hier, Laddie}
+{156}{}{Stay here, Laddie.}
 {157}{}{Komm, wir suchen Jonny.}
 {158}{}{Ist Jonny in den Brunnen gefallen, Laddie?}
 {159}{}{Was ist denn los, Alter, willst du mir etwas sagen?}
@@ -35,7 +34,6 @@
 {183}{}{Ist er nach Westen gegangen?}
 {186}{}{Wuff?}
 {187}{}{OK, OK... Irgendwo anders hin vielleicht?}
-
 {190}{}{Er spielte Cowboys und Indianer, ist dabei in den Brunnen gefallen und ich soll jetzt ein Seil holen und in den Brunnen steigen, um ihn zu retten. OK, gehen wir, Laddie. [Unglaublich!]}
 {191}{}{Er spielte Cowboys und Indianer, ist dabei in den Brunnen gefallen und ich soll jetzt mit meinem Seil in den Brunnen steigen, um ihn zu retten. OK, gehen wir, Laddie. [Unglaublich!]}
 {195}{}{OK, ich hol ein Seil, steige in den Brunnen und rette Jonny.}

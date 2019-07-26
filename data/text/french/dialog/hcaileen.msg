@@ -6,7 +6,7 @@
 {105}{}{On va leur en faire voir, à ces sales mutants !}
 {106}{}{Vive les droits de l'homme !}
 {107}{}{T'as tout juste.}
-{108}{}{Sors de là !}
+{108}{}{Hors d'ici !}
 {109}{}{Tu défends ces sales mutants hein !}
 {110}{}{Tu la fermerais si t'avais le moindre bon sens !}
 {111}{}{Putain, tu défends les mutants !}
@@ -22,7 +22,7 @@
 {121}{}{Notre victoire est proche.}
 {122}{}{Les Collines Brisées seront bientôt à nous.}
 {123}{}{C'est pas vrai, tu défends les mutants ?!}
-{124}{}{Sors de là !}
+{124}{}{Hors d'ici !}
 {125}{}{Espèce de minable impérialiste au service des mutants !}
 {126}{}{Cette fois, t'as fait le mauvais choix !}
 {127}{}{Tu vas regretter ce que tu viens de faire !}
@@ -35,10 +35,10 @@
 {134}{}{Jacob, mon mari, peut t'aider.}
 {135}{}{Hé, ça te dérangerait d'arrêter de me harceler ?}
 {136}{}{Moi je ne peux pas t'aider, mais Jacob, mon mari, si.}
-{137}{}{Mais laisse-moi tranquille !}
+{137}{}{La paix !}
 {138}{}{C'est sympa d'avoir montré ton nez. Va-t'en maintenant.}
 {139}{}{Pourquoi t'amènes toute cette boue ici ?}
 {140}{}{Te comporterais-tu comme ça dans ta propre... tente ?}
-{141}{}{Laisse-moi tranquille.}
+{141}{}{Fiche-moi la paix !}
 {142}{}{Je n'sais pas c'que tu veux, mais je voudrais que tu me laisses tranquille.}
 {143}{}{C'est un coup monté ! On les a pas tué ces gens dans les tunnels !}

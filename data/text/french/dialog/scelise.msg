@@ -47,7 +47,7 @@
 {146}{}{C'est ce genre d'attitude qui cautionne l'atrocité de l'esclavage. Je regrette mais il n'y a pas de place pour toi dans notre organisation.}
 {147}{}{Ok.}
 {148}{}{Alors, tu as changé d'avis ? Tu veux faire tes preuves ?}
-{149}{}{C'est ça !}
+{149}{}{Certainement.}
 {150}{}{Que dois-je faire ?}
 {151}{}{Tu n'as pas quelque chose à faire ? Reviens quand le travail sera fini.}
 {152}{}{J'ai entendu la nouvelle. Tu as libéré les esclaves. Joli travail ! Alors, tu veux faire partie du Commando ?}
@@ -74,17 +74,13 @@
 {173}{}{Puisqu'il en est ainsi, je te demanderai de sortir d'ici. Immédiatement !}
 {174}{}{Ok.}
 {175}{}{Un esclavagiste ! Barre-toi d'ici sinon je remplace ton tatouage par une balle !}
-{176}{}{C'est ça !}
+{176}{}{Certainement.}
 {177}{}{Essaie !}
-
 {178}{}{On a des agents et des sympathisants dans plusieurs villes du Nord. On fait passer le message et on attaque les esclavagistes à chaque occasion.}
 {179}{}{Re-bonjour. T'as changé d'avis... Tu te joins à nous ?}
 {180}{}{Ca ne fait rien.}
-
-
 {181}{}{Ca ne t'appartient pas. Alors tu dégages ou je vais me mettre en rage !}
 {182}{}{Je ne sais pas ce que t'as fait à Gond, mais tu vas payer !}
-
 {200}{}{Félicitation, tu es maintenant un ranger. C'est ton devoir de combattre l'esclavage partout où il peut apparaître. Au revoir mon ami.}
 {201}{}{Avant que je m'en aille, j'ai des informations qui peuvent t'intéresser.}
 {202}{}{Oui, qu'est-ce que c'est ?}
@@ -95,7 +91,7 @@
 {207}{}{Je ne suis pas certain de leur nombre. Je n'y suis pas encore allé.}
 {208}{}{C'est fait ? Excellent. Cela affectera beaucoup les esclavagistes. Nous sommes tes débiteurs.}
 {209}{}{En tant que Ranger, tes remerciements sont tout ce que je recherche. Prends soin de toi.}
-{210}{}{L'argent est toujours une bonne chose. Combien pour ça ?}
+{210}{}{Si tu es si contente de mon boulot, Que dirais tu de me donner une petite récompense ?}
 {211}{}{Nous devons les attaquer immédiatement. Serais-tu disposé à nous aider dans cette bataille ?}
 {212}{}{Je pense que j'ai suffisamment travaillé aujourd'hui. Au revoir.}
 {213}{}{C'est mon devoir de Ranger. Bien sûr je vous aiderai.}
@@ -105,54 +101,41 @@
 {217}{}{Je suis un individu spontané. Je n'ai pas besoin de me préparer. Nous en parlerons en chemin.}
 {218}{}{Actuellement, je ne pense pas que je puisse faire plus. Plus tard peut-être.}
 {219}{}{En fait, je pense que ça serait mieux si quelques ranger venaient avec moi. Ils garantiraient le succès de l'opération et la fin de l'esclavage.}
-
 {220}{}{Non, je suis désolé. Je n'ai pas les ressources pour rassembler ces hommes. C'est quelque chose que tu devras faire tout seul.}
 {221}{}{Bien, je le ferai seul. Je viendrai faire mon rapport quand j'aurai fini.}
-{222}{}{Bien, je le ferai seul. Il me faut un peu de temps. Je reviendrai.} #not used
+{222}{}{Bien, je le ferai seul. Il me faut un peu de temps. Je reviendrai.}
 {223}{}{Je dois refuser. Au revoir.}
-
 {224}{}{Tu as raison. J'aurai les hommes qu'ils te faut. Es-tu prêt à y aller maintenant ?}
 {225}{}{J'ai besoin de temps pour me préparer. Je reviendrai.}
 {226}{}{Je suis prêt. c'est parti.}
-
 {227}{}{De l'argent ? Bien, je suppose qu'il est le minimum que nous puissions faire. Voilà, $1 000 en dédommagement. Merci encore.}
 {228}{}{Mon plaisir. Au revoir.}
-
 {229}{}{Es-tu prêt à attaquer le camp d'esclaves ?}
 {230}{}{J'ai encore besoin de temps.}
 {231}{}{Je suis prêt à partir.}
-
 {232}{}{Tu rencontreras les autres rangers sur le chemin. Que la chance soit avec toi.}
-{233}{}{[Fin]}
+{233}{}{[FIN]}
 {234}{}{J'ai entendu les nouvelles. Merci de ton aide. Nous sommes tes débiteurs.}
 {235}{}{S'il te plaît, ne sois pas trop long. Cette attaque est importante dans notre combat contre l'esclavage..}
 {236}{}{Tu aides les Rangers dans leur lutte continuelle contre l'esclavage.}
-
 {240}{}{Merci. Au revoir.}
-
 {250}{}{En fait. Tu es une personne de confiance. Quelqu'un qui ne cautionne pas l'esclavage.}
 {251}{}{Bien, j'ai juste éliminé un camp entier. Qu'as-tu à l'esprit ?}
 {252}{}{Je pense que j'en ai fait assez pour l'humanité aujourd'hui. A la prochaine.}
-
-#added in RP 1.3
 {260}{}{Qu'est-ce que tu fous ici ? C'est privé -- Heu, attends une minute, je crois que j'ai entendu parler de toi. Tu serais pas celui qui a libéré un des camps d'esclaves de Metzger ?}
 {261}{}{Oui. C'est moi.}
 {262}{}{Et comment que je l'ai fait. Ca te pose un problème ? }
 {263}{}{Peut-être... Pourquoi ?}
 {264}{}{Je ne sais pas de quoi tu parles. Si tu veux bien m'excuser, je dois y aller.}
-
 {270}{}{C'était du sacré bon boulot que tu as fait, et j'aimerais te serrer la main.}
 {271}{}{Pas du tout, en fait, j'aimerais te serrer la main.}
 {272}{}{Parce que tu as sacrément bien agi et j'aimerais te serrer la main.}
 {273}{}{Si tu es si contente de mon boulot, Que dirais tu de me donner une petite récompense ?}
 {274}{}{Y a pas de quoi. A présent, si tu me disais qui tu es ?}
-
 {280}{}{On n'a pas grand-chose ici, mais tu nous a rendu un grand service, alors je suppose que je peux te filer une récompense. Voici 1000$.}
-{281}{}{Merci. A la prochaine.}
+{281}{}{Merci. Au revoir.}
 {282}{}{Merci. A présent, pourquoi ne pas me dire qui tu es ?}
-
 {290}{}{Je m'appelle Elise. Et voici Gond. Nous sommes les membres d'un groupe de lutte contre l'esclavage appelé "les nouveaux rangers californiens". On pourrait utiliser tes services. Si ça t’intéresse de te joindre à nous, j'aurais du boulot pour toi.}
-{291}{}{Dis-moi tout.}
-{292}{}{Pas intéresse. Salut.}
-
+{291}{}{Dis m'en plus.}
+{292}{}{Jamais de la vie, espèce de... Salut.}
 {300}{}{J'peux aider pour quelque chose, Ranger ?}

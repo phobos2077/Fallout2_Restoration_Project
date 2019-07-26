@@ -12,7 +12,7 @@
 {111}{}{OK, das hab ich anzubieten.}
 {112}{}{Ich glaub, ich geh besser.}
 {113}{}{Geh jetzt.}
-{114}{}{Ich geh jetzt.}
+{114}{}{Ich mach mich dann mal auf den Weg.}
 {115}{}{Hmm...Ich mag dich. Du nicht Ohr abkauen. Bleib, mach Geschäft mit mir.}
 {116}{}{Oki.}
 {117}{}{Ich gehen.}

@@ -1,9 +1,3 @@
-#
-#   Messages from skill.c
-#
-#
-#   SKILL NAMES
-#
 {100}{}{Kleine Waffen}
 {101}{}{Große Waffen}
 {102}{}{Energiewaffen}
@@ -22,9 +16,6 @@
 {115}{}{Handel}
 {116}{}{Spielen}
 {117}{}{Naturbursche}
-#
-#   SKILL DESCRIPTIONS
-#
 {200}{}{Die Handhabung, Wartung und Kenntnis kleiner Feuerwaffen - Pistolen, MPs und Gewehre.}
 {201}{}{Die Handhabung und Wartung richtig großer Waffen - Kleingeschütze, Raketenwerfer, Flammenwerfer und ähnliche}
 {202}{}{Die Pflege und Versorgung von Energiewaffen. Das Scharfmachen und der Einsatz von Waffen, die Laser- oder Plasmatechnologie einsetzen.}
@@ -43,13 +34,8 @@
 {215}{}{Handel treiben und damit verwandte Aufgaben. Die Fähigkeit, einen höheren Verkaufspreis und einen niedrigeren Einkaufspreis auszuhandeln.}
 {216}{}{Das Wissen und die praktische Kenntnis des Glücksspiels. Karten spielen, Würfeln und andere Glücksspiele.}
 {217}{}{Praktisches Wissen über die Natur. Die Fähigkeit, sich von den Gaben der Natur zu ernähren. Das Wissen über Pflanzen und Tiere.}
-#
-#   SKILL ATTRIBUTES
-#
-#   Updated: 6/5/97 KSW
-#
 {300}{}{+ (4 x BE)}
-{301}{}{+ (2 x BE)}
+{301}{}{+ (2 xBE}
 {302}{}{+ (2 xBE}
 {303}{}{+ (2 x BE + ST)}
 {304}{}{+ (2 x BE + ST)}
@@ -66,9 +52,6 @@
 {315}{}{+ (4 x CH)}
 {316}{}{+ (5 x GL)}
 {317}{}{+ (2 x AU + IN)}
-#
-#   Skill Use Text
-#
 {500}{}{Du heilst %d Trefferpunkte.}
 {501}{}{Du siehst schon gesund aus.}
 {502}{}{%s sieht schon gesund aus.}
@@ -82,7 +65,7 @@
 {521}{}{Du heilst %s.}
 {525}{}{Du kannst dein(en) %s nicht heilen.}
 {526}{}{Du kannst %s nicht heilen.}
-{530}{}{verletztes Auge}    # Lines 530-534 are the endings to lines 525 & 526.
+{530}{}{verletztes Auge}
 {531}{}{verletzten linken Arm}
 {532}{}{verletzten rechten Arm}
 {533}{}{verletztes rechtes Bein}
@@ -98,25 +81,14 @@
 {590}{}{Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein bißchen.}
 {591}{}{Du bist zu müde.}
 {592}{}{Die Anstrengung könnte dich umbringen.}
-
-# Fallout 2!
 {600}{}{Du verfügst nicht über die Fähigkeiten, schwere Verletzungen zu heilen.}
 {601}{}{Die Robotereinheit ist nicht mehr zu reparieren.}
-
-
-#
-# Fallout 2: Party Member skill use generic responses
-#
-
-#   I'll try
 {1000}{}{Laß mich helfen.}
-{1001}{}{Ich kann das machen.}
+{1001}{}{Das mach ich glatt.}
 {1002}{}{Ich hab's.}
 {1003}{}{Ist mir ein Vergnügen.}
-{1004}{}{Okay.}
-{1005}{}{Ich versuch's.}
-
-#   Player wants to do it
+{1004}{}{OK.}
+{1005}{}{Ich werde es versuchen.}
 {1100}{}{Sag Bescheid, wenn's Probleme gibt.}
 {1101}{}{Hast du's?}
 {1102}{}{Wenn du das willst.}

@@ -1,10 +1,7 @@
-# 0. LOOK
 {150}{}{Widzisz pobrudzonego smarem mechanika.}
 {151}{}{Widzisz jednego z Ch³opaków ze Z³odziejskiej Dziupli.}
 {152}{}{Widzisz mechanika o chytrym wygl¹dzie. Spod tego ca³ego smaru i oleju z trudnoœci¹ dostrzegasz rysy jego twarzy.}
-
-# 1. FLOAT OR CLICK DIALOGUES [POWER ARMOR] (WTG)
-{200}{}{O kurde. *Glup* Zobaczcie, co tu wesz³o.}
+{200}{}{O kurde. *Glup* Zobaczcie, co w³aœnie wesz³o.}
 {201}{}{Proszê, proszê, czy¿ to nie pan Jebany Dzbanek Od Kawy?}
 {202}{}{Jest tam ktoœ w œrodku?}
 {203}{}{Chcesz czegoœ? Piwa? Wody? Ciacho?}
@@ -12,12 +9,9 @@
 {205}{}{Co z³ego, to T-Ray. Radzi³bym zajrzeæ do niego.}
 {206}{}{Czy to jakiœ nowy samochód?}
 {207}{}{Nie chcemy ¿adnych k³opotów.}
-{208}{}{Pewnie szukasz T-Raya. Jest na zapleczu.}
-
-# 2. FLOAT/CLICK TEXT [PORN STAR/CHR > 5, FEMALE] (WTG)
+{208}{}{Mo¿e szukasz T-Raya. Jest na zapleczu.}
 {220}{}{No no no, wiiiitaj, m³oda damo. Cholernie niez³e dajesz przedstawienia.}
 {221}{}{Och. Nie mamy tu wielu goœci. W czym mo¿emy pomóc komuœ takiemu jak panna }
-{5221}{}{?}
 {222}{}{Jak ci siê uda³o zrobiæ ten numer z nogami nad g³ow¹?}
 {223}{}{Czy to prawdziwe cycki? Mogê sprawdziæ?}
 {224}{}{Czy nie by³by to zbyt du¿y k³opot, gdybyœ zajrza³a mi pod maskê?}
@@ -31,8 +25,6 @@
 {232}{}{No no no, wiiiitaj, m³oda damo.}
 {233}{}{Och. Nie mamy tu wielu goœci. W czym mo¿emy pomóc takiej pannie jak ty?}
 {234}{}{Masz ochotê na odrobinê namiêtnej mi³oœci? T-Ray jest na zapleczu, wiêc nie zawracaj sobie g³owy zagl¹daniem tam.}
-
-# 3. FLOAT/CLICK DIALOGUES [PRIZEFIGHTER] (WTG)
 {245}{}{Widzia³em ciê na ringu. Masz cholernie mocny prawy sierpowy.}
 {246}{}{Staniesz do nastêpnej walki? Postawi³em na ciebie 30 dolców.}
 {247}{}{Jak na kogoœ, kto zdoby³ pas mistrzowski, nie wygl¹dasz zbyt groŸnie.}
@@ -43,21 +35,16 @@
 {252}{}{T-Ray mówi, ¿e ¿aden z ciebie miêœniak. Dam ci 5 dolców jeœli pójdziesz na zaplecze i walniesz mu pi¹chê.}
 {253}{}{T-Ray mówi, ¿e masz szklan¹ szczêkê. Jeœli chcesz z nim pogadaæ, to jest na zapleczu.}
 {254}{}{Ten ca³y Prze¿uwacz to cienias. Uch, ale nie mów mu, ¿e tak go nazwa³em.}
-
-# 4. FLOAT/CLICK DIALOGUES [MADE MAN] (WTG)
 {265}{}{Mam nadziejê, ¿e u pani wszystko w porz¹dku.}
 {266}{}{Nie chcieliœmy pani obraziæ.}
 {267}{}{O kurde. *Glup* Zobaczcie, co w³aœnie wesz³o.}
-{268}{}{}
-{5268}{}{, w czym mo¿emy pomóc?}
+{268}{}{What can we do for you, }
 {269}{}{Chcesz czegoœ? Piwa? Wody? Ciacho?}
 {270}{}{Co z³ego, to T-Ray. Radzi³bym zajrzeæ do niego.}
 {271}{}{Pozdrów od nas swojego szefa.}
 {272}{}{Mo¿e szukasz T-Raya. Jest na zapleczu.}
 {273}{}{Mam nadziejê, ¿e u pana wszystko w porz¹dku.}
 {274}{}{Nie chcieliœmy pana obraziæ.}
-
-# 5. FLOAT OR CLICK DIALOGUES [CAR RECOVERED] (WTG)
 {300}{}{Sorki za to nieporozumienie z Kr¹¿ownikiem szos.}
 {301}{}{Nie wiedzieliœmy, ¿e to by³ twój Kr¹¿ownik szos.}
 {302}{}{Tia, Kr¹¿ownik szos jest niez³y, ale wola³bym Omni.}
@@ -71,18 +58,18 @@
 {310}{}{T-Ray spa³ z moj¹ siostr¹. I z moj¹ matk¹. I z moim psem.}
 {311}{}{T-Ray jest bardziej napalony ni¿ czterog³owa koza.}
 {312}{}{T-Ray jest na zapleczu. Przy telefonie.}
-{313}{}{Silnik jest wci¹¿ w dobrym stanie.}
+{313}{}{Silnik wci¹¿ w dobrym stanie.}
 {314}{}{Wnêtrze œmierdzi jakby siê ktoœ w nim zesra³.}
 {315}{}{Wnêtrze œmierdzi gekonami.}
 {316}{}{Niez³y wózek, ale wola³bym Omni.}
-{317}{}{Ten Kr¹¿ownik szos ma pe³ny system analogowy, 800+ koni mechanicznych i przyspiesza od zera do 60 mil krócej ni¿ w sekundê.}
-{318}{}{Szybki? Kr¹¿ownik szos przyspiesza od zera do 60 mil krócej ni¿ w sekundê.}
-{319}{}{Ten Kr¹¿ownik szos ma moc: 800+, jeœli ju¿ o to chodzi.}
+{317}{}{Ten Kr¹¿ownik szos ma pe³ny system analogowy, 800+ koni mechanicznych, przyspiesza od 0 do 60 mil w mniej ni¿ sekundê.}
+{318}{}{Szybki? Kr¹¿ownik szos przyspiesza od 0 do 60 mil w mniej ni¿ sekundê.}
+{319}{}{Ten Kr¹¿ownik szos ma kopa: w sumie 800+.}
 {320}{}{Wolno ci tu byæ?}
 {321}{}{¯al mi tego idioty, który zostawi³ tam ten Kr¹¿ownik szos bez opieki.}
 {322}{}{Bez obawy. Kr¹¿ownik szos ma pe³ny system analogowy, ¿adnych komputerów. ¯adnego z tych udziwnieñ.}
-
-# 6. FLOAT DIALOGUES [WARNING] (WTG)
 {330}{}{Zabierz ³apy, albo ci je utnê. Zrozumiano?}
 {331}{}{KURDE, odwal siê od tego samochodu.}
 {332}{}{Twoje ¿ycie nie jest warte wiêcej ni¿ ten samochód. Dotknij go jeszcze raz, a ci to udowodniê.}
+{5221}{}{?}
+{5268}{}{?}

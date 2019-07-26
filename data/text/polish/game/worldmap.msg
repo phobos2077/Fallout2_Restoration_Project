@@ -1,144 +1,88 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used by town and world map
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-
-#
-# Town map entry-point selection names
-#
-# Format:
-#	city type.
-#	Up to 10 selection names
-#
-# Arroyo
-{200}{}{Most}
+{200}{}{Bridge}
 {201}{}{Wioska}
-{202}{}{Wejœcie do Œwi¹tyni}
-{203}{}{Dzicz}
+{202}{}{Wejœcie do œwi¹tyni}
+{203}{}{G³usza}
 {204}{}{Wnêtrze Œwi¹tyni}
-#
-# Den
 {210}{}{Zachodnia Dzielnica}
 {211}{}{Wschodnia Dzielnica}
 {212}{}{Dzielnica Mieszkalna}
-#
-# Klamath
-{220}{}{Przedmieœcia}
+{220}{}{Œródmieœcie}
 {221}{}{Osada Traperów}
-{222}{}{Jaskinie szczurów}
-{223}{}{Tereny ³owieckie}
-{224}{}{Obszar pastewny}
+{222}{}{Szczurze nory}
+{223}{}{Obszary ³owieckie}
+{224}{}{Pastwisko}
 {225}{}{Kanion}
-#
-# Modoc
-{230}{}{G³ówna ulica}
-{231}{}{Spanko i Œniadanko}
+{230}{}{Ulica g³ówna}
+{231}{}{Noclegownia}
 {232}{}{Pastwiska bramin Grishama}
-{233}{}{Ogród Farella}
-{234}{}{Wygódka}
+{233}{}{Ogród Farrela}
+{234}{}{Jaskinie}
 {235}{}{Studnia miejska}
-#
-# Vault City
 {240}{}{Podmurze}
 {241}{}{Miasto wewnêtrzne}
 {242}{}{Rada}
-{243}{}{Krypta}
-#
-# Gecko
+{243}{}{Vault}
 {250}{}{Osada}
 {251}{}{Elektrownia}
-{252}{}{Œmietnisko}
-{253}{}{Tunele dostêpowe}
-#
-# Broken Hills
-{260}{}{Centrum}
-{261}{}{Czêœæ mieszkalna}
-#
-# New Reno
+{252}{}{Z³omowisko}
+{253}{}{Tunele wejœciowe}
+{260}{}{Œródmieœcie}
+{261}{}{Dzielnica Mieszkalna}
 {270}{}{Aleja Dziewic}
 {271}{}{Druga Ulica}
 {272}{}{Pasa¿ handlowy}
-{273}{}{Wschodnia czêœæ}
+{273}{}{Wschodnia Dzielnica}
 {274}{}{Dziupla}
-{275}{}{Arena bokserska}
-{276}{}{L¹dowisko Lataczy}
-#
-# Sierra Army Base
+{275}{}{Hala bokserska}
+{276}{}{Rejon Lataczy}
 {280}{}{Pole bitwy}
 {281}{}{Sk³ad, Poziom 1: Kwatery}
 {282}{}{Sk³ad, Poziom 2: Magazyny}
 {283}{}{Sk³ad, Poziom 3: Laboratorium robotyczne}
 {284}{}{Sk³ad, Poziom 4: Laboratorium biologiczne}
-#
-# Vault 15
-
 {290}{}{Osiedle}
 {291}{}{Osiedleñcy}
 {292}{}{Osiedleñcy}
-{293}{}{Krypta 15}
-{294}{}{Wejœcie wschodnie}
-#
-# New California Republic
-{300}{}{Bazar}
+{293}{}{Krypty 15}
+{294}{}{Wejœcie Wschodnie}
+{300}{}{Jarmark}
 {301}{}{Rada 2}
-{302}{}{Centrum}
-{303}{}{Ratusz}
+{302}{}{Œródmieœcie}
+{303}{}{Rada miejska}
 {304}{}{Ranczo Westina}
 {305}{}{Pastwiska}
-#
-
-# Vault 13
 {310}{}{Wejœcie do jaskini}
 {311}{}{Krypta 13}
-#
-# Military Base
 {320}{}{Wejœcie}
 {321}{}{Poziom 1}
 {322}{}{Poziom 2}
 {323}{}{Poziom 3}
 {324}{}{Poziom 4}
-#
-# Redding
-{330}{}{Centrum}
+{330}{}{Œródmieœcie}
 {331}{}{Wielka Kopalnia Wanamingo}
 {332}{}{Kopalnia Wanamingo}
-{333}{}{Obóz przy kopalni}
+{333}{}{Obóz Kopalni}
 {334}{}{G³ówne tunele}
 {335}{}{Tunele kopalni}
-#
-# San Francisco
 {340}{}{Chinatown}
-{341}{}{Doki}
+{341}{}{Dok}
 {342}{}{Tankowiec}
 {343}{}{Na zewn¹trz wahad³owca}
 {344}{}{Wnêtrze wahad³owca}
 {345}{}{Centrolodzy}
 {346}{}{Œwi¹tynia Shi}
-#
-# Navarro
-{350}{}{Stacja benzynowa}
+{350}{}{Stacja Paliw}
 {351}{}{G³ówna brama}
-#
-# The Enclave
-{360}{}{Doki}
+{360}{}{Dok}
 {361}{}{Areszt}
 {362}{}{Ostatni przeciwnik}
 {363}{}{Koszary}
-{364}{}{Strefa prezydencka}
+{364}{}{Kwatery prezydenta}
 {365}{}{Reaktor}
 {366}{}{Pokój pu³apek}
-#
-# Abbey
 {370}{}{Wejœcie}
-#
-# Primitive Tribe
 {380}{}{Las}
 {381}{}{Plemiê}
-#
-# Environmental Protection Agency
 {390}{}{Wejœcie}
 {391}{}{Korytarze}
 {392}{}{Pomieszczenia U¿ytkowe}
@@ -146,30 +90,16 @@
 {394}{}{Poziom Drugi}
 {395}{}{Poziom Trzeci}
 {396}{}{Magazyn}
-#
-# Modoc: Ghost Town Sub-Area
 {400}{}{Miasto Duchów}
 {401}{}{G³ówna grota}
 {402}{}{Podziemne jezioro}
-#
-# Car Out of Gas
 {410}{}{Samochód bez energii}
-#
-# Destroyed Arroyo
 {420}{}{Zniszczony most}
-#
-# Klamath Toxic Caves
 {430}{}{Radioaktywne jaskinie}
-#
-# Den Slave Runs
-{440}{}{Wybieg dla wiêŸniów}
-#
-# Raiders
-{450}{}{Studnia}
+{440}{}{Spêd niewolników}
+{450}{}{studnia}
 {451}{}{Klif}
 {452}{}{Jaskinia-wejœcie}
-#
-# Random Encounter Desert
 {460}{}{Pustynia}
 {461}{}{Pustynia}
 {462}{}{Pustynia}
@@ -180,98 +110,54 @@
 {467}{}{Pustynia}
 {468}{}{Pustynia}
 {469}{}{Pustynia}
-#
-# Random Encounter Mountain
 {470}{}{Góra}
-{471}{}{Grota}
+{471}{}{Jaskinia}
 {472}{}{Góra}
-{473}{}{Grota}
-{474}{}{Grota}
-{475}{}{Grota}
-{476}{}{Grota}
-{477}{}{Grota}
+{473}{}{Jaskinia}
+{474}{}{Jaskinia}
+{475}{}{Jaskinia}
+{476}{}{Jaskinia}
+{477}{}{Jaskinia}
 {478}{}{Góra}
 {479}{}{Góra}
-#
-# Random Encounter City
-{480}{}{Wymar³e miasto}
-{481}{}{Wymar³e miasto}
-{482}{}{Wymar³e miasto}
-{483}{}{Wymar³e miasto}
-{484}{}{Wymar³e miasto}
-{485}{}{Wymar³e miasto}
-{486}{}{Wymar³e miasto}
-{487}{}{Wymar³e miasto}
-#
-# Random Encounter Coast
-{490}{}{Wybrze¿e}
-{491}{}{Wybrze¿e}
-{492}{}{Wybrze¿e}
-{493}{}{Wybrze¿e}
-{494}{}{Wybrze¿e}
-{495}{}{Wybrze¿e}
-{496}{}{Wybrze¿e}
-{497}{}{Wybrze¿e}
-{498}{}{Wybrze¿e}
-{499}{}{Wybrze¿e}
-#
-# New Reno: Golgatha
+{480}{}{Ruiny miasta}
+{481}{}{Ruiny miasta}
+{482}{}{Ruiny miasta}
+{483}{}{Ruiny miasta}
+{484}{}{Ruiny miasta}
+{485}{}{Ruiny miasta}
+{486}{}{Ruiny miasta}
+{487}{}{Ruiny miasta}
+{490}{}{Brzeg oceanu}
+{491}{}{Brzeg oceanu}
+{492}{}{Brzeg oceanu}
+{493}{}{Brzeg oceanu}
+{494}{}{Brzeg oceanu}
+{495}{}{Brzeg oceanu}
+{496}{}{Brzeg oceanu}
+{497}{}{Brzeg oceanu}
+{498}{}{Brzeg oceanu}
+{499}{}{Brzeg oceanu}
 {500}{}{Golgota}
-#
-# Special Encounter: Whale Encounter
 {510}{}{Zmia¿d¿one szcz¹tki wieloryba}
-#
-
-# Special Encounter: Tin Woodsman
 {520}{}{Blaszany Drwal}
-#
-# Special Encounter: Big Head
-{521}{}{Wielka G³owa}
-#
-# Special Encounter: Crashed Federation Shuttle
+{521}{}{Wielkog³owy}
 {530}{}{Miejsce katastrofy}
-#
-
-# Special Encounter: Unwashed Villagers
 {540}{}{Pustynia}
-#
-# Special Encounter: Bridge Guardian
-{550}{}{Most}
-#
-# Special Encounter: Cafe of Broken Dreams
-{560}{}{Kawiarniê Niespe³nionych Marzeñ}
-#
-# Special Encounter: Holy Hand Grenade 1
+{550}{}{Bridge}
+{560}{}{Kawiarnia Niespe³nionych Marzeñ}
 {570}{}{Pustynia}
-#
-# Special Encounter: Holy Hand Grenade 2
-{580}{}{Grota}
-#
-# Special Encounter: Guardian of Forever
+{580}{}{Jaskinia}
 {590}{}{Stra¿nik Wiecznoœci}
-#
-# Special Encounter: Sk³adowisko Odpadów Toksycznych
-{600}{}{Sk³adowisko toksycznych odpadów}
-#
-# Special Encounter: Pariahs
+{600}{}{Sk³adowisko odpadów toksycznych}
 {610}{}{Pustynia}
-#
-# Special Encounter: Mad Brahmin
 {620}{}{Stado bramin}
-#
-# Caravan Encounters
 {630}{}{Pustynia}
 {631}{}{Góra}
-#
-# Fake Vault 13 A
 {640}{}{Grota Krypty 13}
-#
-# Fake Vault 13 B
-{650}{}{Grota}
-#
-# Shadow Areas (Those which fit nowhere else
-{660}{}{Wybrze¿e}
-{661}{}{Wybrze¿e}
+{650}{}{Jaskinia}
+{660}{}{Brzeg oceanu}
+{661}{}{Brzeg oceanu}
 {662}{}{Pustynia}
 {663}{}{Pustynia}
 {664}{}{Pustynia}
@@ -279,53 +165,27 @@
 {666}{}{Góra}
 {667}{}{Pustynia}
 {668}{}{Pustynia}
-#
-# New Reno Stables
 {670}{}{Stajnie}
-
-# Village
 {680}{}{Wioska}
-
 {690}{}{Prymitywne Plemiê}
-
 {700}{}{Prymitywne Plemiê}
-
 {710}{}{Prymitywne Plemiê}
-
-
-#
-# Terrain type names for world map hover button
-#
 {1000}{}{Pustynia}
 {1001}{}{Góry}
 {1002}{}{Miasto}
 {1003}{}{Wybrze¿e}
-{1004}{}{Nieznane}  # Unknown/visited city
-
-
-# Misc messages
+{1004}{}{Nieznane}
 {1500}{}{Zdobywasz 10000 PD!}
-{1501}{}{Ruiny}
+{1501}{}{ruiny}
 {1502}{}{Samochód dalej nie pojedzie.}
 {1503}{}{Widzisz samochód. Nie wygl¹da na to, ¿eby by³ na chodzie.}
-
-
-
-#
-# Worldmap Encounter messages
-#
-
 {2998}{}{Natrafiasz na}
 {2999}{}{Czy chcesz napotkaæ:}
-
-# Encounter Table 0
 {3000}{}{Grupê oprychów.}
 {3001}{}{Kilka radskorpionów.}
 {3002}{}{Olbrzymie szczury.}
 {3003}{}{Grupê kupców.}
 {3004}{}{<Specjalne>}
-
-# Encounter Table 1
 {3050}{}{Grupê oprychów.}
 {3051}{}{Kilka modliszek.}
 {3052}{}{Grupê gekonów.}
@@ -334,26 +194,14 @@
 {3055}{}{Grupê olbrzymich szczurów.}
 {3056}{}{Grupê kupców.}
 {3057}{}{<Specjalne>}
-
-# Encounter Table 2
 {3100}{}{Grupê oprychów.}
 {3101}{}{Grupê radskorpionów.}
 {3102}{}{Grupê olbrzymich szczurów.}
 {3103}{}{Grupê kupców.}
 {3104}{}{<Specjalne>}
-
-# Encounter Table 3
-
 {3150}{}{Grupê oprychów.}
-
-# Encounter Table 4
 {3200}{}{Grupê oprychów.}
-
-# Encounter Table 5
-
 {3250}{}{Grupê oprychów.}
-
-# Encounter Table 6
 {3300}{}{Grupê wojowników.}
 {3301}{}{Grupê kanibali.}
 {3302}{}{Grupê roœlin i kilka srebrnych gekonów.}
@@ -372,19 +220,17 @@
 {3315}{}{Grupê œwinioszczurów.}
 {3316}{}{Grupê szczurów.}
 {3317}{}{Grupê ³owców poluj¹cych na kanibali.}
-{3318}{}{Grupê mrówek.}
-{3319}{}{Grupê ³owców walcz¹cych z radskorpionami.}
+{3318}{}{Ma³¹ grupkê mrówek.}
+{3319}{}{Grupê ³owców walcz¹cych ze radskorpionami.}
 {3320}{}{Ma³¹ grupkê œwinioszczurów.}
 {3321}{}{Ma³¹ grupkê radskorpionów.}
 {3322}{}{Ma³¹ grupkê mrówek.}
 {3323}{}{Grupê ³owców.}
 {3324}{}{Grupê nomadów.}
-{3325}{}{Mê¿czyznê pilnuj¹cego mostu.}
+{3325}{}{Mê¿czyznê strzeg¹cego mostu.}
 {3326}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {3327}{}{Bandê wœciek³ych wyrzutków.}
-
-# Encounter Table 7
-{3350}{}{Sk³adowisko odpadów toksycznych.}
+{3350}{}{Sk³adowisko odpadów toksycznych}
 {3351}{}{Samotnego, wyg³odzonego psa.}
 {3352}{}{Stado bramin.}
 {3353}{}{Grupê wojowników.}
@@ -405,8 +251,8 @@
 {3368}{}{Grupê œwinioszczurów.}
 {3369}{}{Grupê szczurów.}
 {3370}{}{Grupê ³owców poluj¹cych na kanibali.}
-{3371}{}{Grupê mrówek.}
-{3372}{}{Grupê ³owców walcz¹cych z radskorpionami.}
+{3371}{}{Ma³¹ grupkê mrówek.}
+{3372}{}{Grupê ³owców walcz¹cych ze radskorpionami.}
 {3373}{}{Ma³¹ grupkê œwinioszczurów.}
 {3374}{}{Ma³¹ grupkê radskorpionów.}
 {3375}{}{Ma³¹ grupkê mrówek.}
@@ -415,13 +261,11 @@
 {3378}{}{Resztki wieloryba.}
 {3379}{}{Wielk¹ kamienn¹ g³owê.}
 {3380}{}{Rozbity wahad³owiec.}
-{3381}{}{Portal stra¿niczy.}
+{3381}{}{Portal Stra¿niczy.}
 {3382}{}{Rycerzy Króla Artura.}
 {3383}{}{Blaszanego drwala.}
 {3384}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {3385}{}{Bandê wœciek³ych wyrzutków.}
-
-# Encounter Table 8
 {3400}{}{Grupê wojowników.}
 {3401}{}{Grupê kanibali.}
 {3402}{}{Grupê roœlin i kilka srebrnych gekonów.}
@@ -448,8 +292,6 @@
 {3423}{}{Grupê ³owców.}
 {3424}{}{Grupê nomadów.}
 {3425}{}{Bandê wœciek³ych wyrzutków.}
-
-# Encounter Table 9
 {3450}{}{Sk³adowisko odpadów toksycznych}
 {3451}{}{Samotnego, wyg³odzonego psa.}
 {3452}{}{Stado bramin.}
@@ -471,17 +313,15 @@
 {3468}{}{Rodzinkê radskorpionów.}
 {3469}{}{Grupê kretoszczurów.}
 {3470}{}{Grupê nawiedzonych ludzi ok³adaj¹cych laskami kilku wojowników.}
-{3471}{}{Grupê nomadów.}
+{3471}{}{Bandê nomadów}
 {3472}{}{Resztki wieloryba.}
 {3473}{}{Wielk¹ kamienn¹ g³owê.}
 {3474}{}{Rozbity wahad³owiec.}
-{3475}{}{Portal stra¿niczy.}
+{3475}{}{Portal Stra¿niczy.}
 {3476}{}{Rycerzy Króla Artura.}
 {3477}{}{Blaszanego drwala.}
 {3478}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {3479}{}{Bandê wœciek³ych wyrzutków.}
-
-# Encounter Table 10
 {3500}{}{Bandê wyrzutków.}
 {3501}{}{Grupê nawiedzonych ludzi.}
 {3502}{}{Kilku ³owców nagród.}
@@ -504,15 +344,13 @@
 {3519}{}{Mê¿czyznê strzeg¹cego mostu.}
 {3520}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {3521}{}{Bandê wœciek³ych wyrzutków.}
-
-# Encounter Table 11
 {3550}{}{Sk³adowisko odpadów toksycznych}
 {3551}{}{Samotnego, wyg³odzonego psa.}
 {3552}{}{Stado bramin.}
 {3553}{}{Zgrajê z³ocistych gekonów i rodzinkê radskorpionów.}
 {3554}{}{Kilku bandytów.}
 {3555}{}{Grupê bezdomnych.}
-{3556}{}{Zgrajê z³ocistych gekonów.}
+{3556}{}{Grupê gekonów.}
 {3557}{}{Kilku ³owców nagród.}
 {3558}{}{Kilku ³owców nagród.}
 {3559}{}{Kilku ³owców nagród.}
@@ -527,7 +365,7 @@
 {3568}{}{Kilku bandytów atakowanych przez grupkê z³ocistych gekonów.}
 {3569}{}{Kilku farmerów broni¹cych siê przed grupk¹ gekonów.}
 {3570}{}{Kilku farmerów odpieraj¹cych atak grupki z³ocistych gekonów.}
-{3571}{}{Kilku traperów walcz¹cych ze z³ocistymi gekonami.}
+{3571}{}{Kilku traperów walcz¹cych ze z³otymi gekonami.}
 {3572}{}{Kilku traperów odpieraj¹cych atak grupki bandytów.}
 {3573}{}{Grupê traperów ujarzmiaj¹cych kilka gekonów.}
 {3574}{}{Kilku bandytów zasadzaj¹cych siê na grupê bezdomnych.}
@@ -542,16 +380,14 @@
 {3583}{}{Resztki wieloryba.}
 {3584}{}{Wielk¹ kamienn¹ g³owê.}
 {3585}{}{Rozbity wahad³owiec.}
-{3586}{}{Portal stra¿niczy.}
+{3586}{}{Portal Stra¿niczy.}
 {3587}{}{Rycerzy Króla Artura.}
 {3588}{}{Blaszanego drwala.}
-{3589}{}{Niemytyci Mieszkañców Wioski goni¹cych spamera.}
-
-# Encounter Table 12
+{3589}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {3600}{}{Zgrajê z³ocistych gekonów i rodzinkê radskorpionów.}
 {3601}{}{Kilku bandytów.}
 {3602}{}{Grupê bezdomnych.}
-{3603}{}{Zgrajê z³ocistych gekonów.}
+{3603}{}{Grupê gekonów.}
 {3604}{}{Kilku ³owców nagród.}
 {3605}{}{Kilku ³owców nagród.}
 {3606}{}{Kilku ³owców nagród.}
@@ -581,8 +417,6 @@
 {3630}{}{Mê¿czyznê strzeg¹cego mostu.}
 {3631}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {3632}{}{Bandê wœciek³ych wyrzutków.}
-
-# Encounter Table 13
 {3650}{}{Sk³adowisko odpadów toksycznych}
 {3651}{}{Samotnego, wyg³odzonego psa.}
 {3652}{}{Stado bramin.}
@@ -602,13 +436,13 @@
 {3666}{}{Rodzinkê radskorpionów atakuj¹cych grupê kupców.}
 {3667}{}{Kilku traperów próbuj¹cych schwytaæ parê radskorpionów.}
 {3668}{}{Grupê radskorpionów.}
-{3669}{}{Rodzinkê kretoszczurów.}
+{3669}{}{Rodzinka kretoszczurów.}
 {3670}{}{Kilku bandytów.}
 {3671}{}{Bandê traperów usi³uj¹cych schwytaæ kilka z³ocistych gekonów.}
 {3672}{}{Kilka radskorpionów walcz¹cych ze paroma z³otymi gekonami.}
 {3673}{}{Kilka radskorpionów atakuj¹cych kilka kretoszczurów i œwinioszczurów.}
 {3674}{}{Kilku traperów i kupca, odpieraj¹cych atak bandytów.}
-{3675}{}{Kilka z³ocistych gekonów.}
+{3675}{}{Kilka gekonów.}
 {3676}{}{Kilku traperów walcz¹cych z paroma kretoszczurami i œwinioszczurami.}
 {3677}{}{Grupê kupców odpieraj¹cych atak kilku kretoszczurów i œwinioszczurów.}
 {3678}{}{Resztki wieloryba.}
@@ -619,8 +453,6 @@
 {3683}{}{Blaszanego drwala.}
 {3684}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {3685}{}{Bandê wœciek³ych wyrzutków.}
-
-# Encounter Table 14
 {3700}{}{Sk³adowisko odpadów toksycznych}
 {3701}{}{Samotnego, wyg³odzonego psa.}
 {3702}{}{Stado bramin.}
@@ -635,7 +467,7 @@
 {3711}{}{Kilku ³owców nagród.}
 {3712}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {3713}{}{Bandê rabusiów.}
-{3714}{}{Grupê rabusiów i rozbójników.}
+{3714}{}{Bandê rabusiów i rozbójników.}
 {3715}{}{Kilka z³ocistych gekonów i radskorpionów.}
 {3716}{}{Rodzinkê z³ocistych gekonów.}
 {3717}{}{Rodzinka kretoszczurów.}
@@ -650,12 +482,10 @@
 {3726}{}{Resztki wieloryba.}
 {3727}{}{Wielk¹ kamienn¹ g³owê.}
 {3728}{}{Rozbity wahad³owiec.}
-{3729}{}{Portal stra¿niczy.}
+{3729}{}{Portal Stra¿niczy.}
 {3730}{}{Rycerzy Króla Artura.}
 {3731}{}{Blaszanego drwala.}
 {3732}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 15
 {3750}{}{Bandê rozbójników.}
 {3751}{}{Bandê rabusiów.}
 {3752}{}{Bandê rabusiów i rozbójników.}
@@ -681,8 +511,6 @@
 {3772}{}{Kupca i kilku stra¿ników.}
 {3773}{}{Mê¿czyznê strzeg¹cego mostu.}
 {3774}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 16
 {3800}{}{Sk³adowisko odpadów toksycznych}
 {3801}{}{Samotnego, wyg³odzonego psa.}
 {3802}{}{Stado bramin.}
@@ -715,8 +543,6 @@
 {3829}{}{Rycerzy Króla Artura.}
 {3830}{}{Blaszanego drwala.}
 {3831}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 17
 {3850}{}{Grupê ³owców niewolników i niewolników.}
 {3851}{}{Grupê rozbójników.}
 {3852}{}{Bandê rabusiów.}
@@ -739,8 +565,6 @@
 {3869}{}{Grupê ³owców niewolników i samych niewolników odpieraj¹cych atak z³ocistych gekonów.}
 {3870}{}{Mê¿czyznê strzeg¹cego mostu.}
 {3871}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 18
 {3900}{}{Kilku rozbójników i rabusiów.}
 {3901}{}{Kilku rozbójników.}
 {3902}{}{Spore stado z³ocistych gekonów.}
@@ -763,8 +587,6 @@
 {3919}{}{Mê¿czyznê strzeg¹cego mostu.}
 {3920}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {3921}{}{Kilku wkurzonych bandytów.}
-
-# Encounter Table 19
 {3950}{}{Kilku rozbójników.}
 {3951}{}{Kilku rabusiów.}
 {3952}{}{Kilku bezdomnych.}
@@ -793,8 +615,6 @@
 {3975}{}{Mê¿czyznê strzeg¹cego mostu.}
 {3976}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {3977}{}{Kilku wkurzonych bandytów.}
-
-# Encounter Table 20
 {4000}{}{Kilku rozbójników tropi¹cych coœ za pomoc¹ dzikich psów.}
 {4001}{}{Kilku rabusiów prowadz¹cych poszukiwania z psem.}
 {4002}{}{Bandê rabusiów.}
@@ -819,9 +639,7 @@
 {4021}{}{Karawanê.}
 {4022}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4023}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 21
-{4050}{}{Sk³adowisko odpadów toksycznych.}
+{4050}{}{Sk³adowisko odpadów toksycznych}
 {4051}{}{Samotnego, wyg³odzonego psa.}
 {4052}{}{Stado bramin.}
 {4053}{}{Kilku rozbójników tropi¹cych coœ za pomoc¹ dzikich psów.}
@@ -853,9 +671,7 @@
 {4079}{}{Rycerzy Króla Artura.}
 {4080}{}{Blaszanego drwala.}
 {4081}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 22
-{4100}{}{Kilka z³ocistych gekonów.}
+{4100}{}{Kilka gekonów.}
 {4101}{}{Chmarê modliszek.}
 {4102}{}{Kilka radskorpionów.}
 {4103}{}{Kilka dzikich bramin.}
@@ -877,12 +693,10 @@
 {4119}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4120}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {4121}{}{Kilku wkurzonych bandytów.}
-
-# Encounter Table 23
-{4150}{}{Sk³adowisko odpadów toksycznych.}
+{4150}{}{Sk³adowisko odpadów toksycznych}
 {4151}{}{Samotnego, wyg³odzonego psa.}
 {4152}{}{Stado bramin.}
-{4153}{}{Kilka z³ocistych gekonów.}
+{4153}{}{Kilka gekonów.}
 {4154}{}{Kilku ³owców nagród.}
 {4155}{}{Kilku ³owców nagród.}
 {4156}{}{Kilku ³owców nagród.}
@@ -909,9 +723,7 @@
 {4177}{}{Blaszanego drwala.}
 {4178}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {4179}{}{Kilku wkurzonych bandytów.}
-
-# Encounter Table 24
-{4200}{}{Sk³adowisko odpadów toksycznych.}
+{4200}{}{Sk³adowisko odpadów toksycznych}
 {4201}{}{Samotnego, wyg³odzonego psa.}
 {4202}{}{Stado bramin.}
 {4203}{}{Kilka zmutowanych kretoszczurów.}
@@ -941,8 +753,6 @@
 {4227}{}{Rycerzy Króla Artura.}
 {4228}{}{Blaszanego drwala.}
 {4229}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 25
 {4250}{}{Kilka zmutowanych kretoszczurów.}
 {4251}{}{Kilka zmutowanych œwinioszczurów.}
 {4252}{}{Kilka roœlin.}
@@ -965,11 +775,9 @@
 {4269}{}{Pustelnika.}
 {4270}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4271}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 26
 {4300}{}{Bandê ³owców niewolników z psami.}
 {4301}{}{Bandê ³owców niewolników.}
-{4302}{}{Kilka z³ocistych gekonów.}
+{4302}{}{Kilka gekonów.}
 {4303}{}{Zgrajê dzikich psów.}
 {4304}{}{Kilku ³owców nagród.}
 {4305}{}{Kilku ³owców nagród.}
@@ -988,9 +796,7 @@
 {4318}{}{Patrol.}
 {4319}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4320}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 27
-{4350}{}{Sk³adowisko odpadów toksycznych.}
+{4350}{}{Sk³adowisko odpadów toksycznych}
 {4351}{}{Samotnego, wyg³odzonego psa.}
 {4352}{}{Stado bramin.}
 {4353}{}{Bandê ³owców niewolników z psami.}
@@ -1004,7 +810,7 @@
 {4361}{}{Kilku ³owców nagród.}
 {4362}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {4363}{}{Bandê ³owców niewolników.}
-{4364}{}{Kilka z³ocistych gekonów.}
+{4364}{}{Kilka gekonów.}
 {4365}{}{Zgrajê dzikich psów.}
 {4366}{}{Patrol z psami dokopuj¹cy ³owcom niewolników.}
 {4367}{}{Bandê ³owców niewolników odpieraj¹cych atak z³ocistych gekonów.}
@@ -1019,12 +825,10 @@
 {4376}{}{Rycerzy Króla Artura.}
 {4377}{}{Blaszanego drwala.}
 {4378}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 28
 {4400}{}{Gromadê padlino¿erców.}
 {4401}{}{Kilku padlino¿ernych ghouli.}
 {4402}{}{Paru wariatów.}
-{4403}{}{Paru ghouli - wariatów.}
+{4403}{}{Paru ghuli - wariatów.}
 {4404}{}{Kilku ³owców nagród.}
 {4405}{}{Kilku ³owców nagród.}
 {4406}{}{Kilku ³owców nagród.}
@@ -1045,8 +849,6 @@
 {4421}{}{Kilka zmutowanych szczurów przeprowadzaj¹cych zmasowany atak na grupê padlino¿ernych ghouli.}
 {4422}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4423}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 29
 {4450}{}{Sk³adowisko odpadów toksycznych}
 {4451}{}{Samotnego, wyg³odzonego psa.}
 {4452}{}{Stado bramin.}
@@ -1079,8 +881,6 @@
 {4479}{}{Rycerzy Króla Artura.}
 {4480}{}{Blaszanego drwala.}
 {4481}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 30
 {4500}{}{Kilku kanibali.}
 {4501}{}{Paru dzikusów.}
 {4502}{}{Grupê wojowników.}
@@ -1100,8 +900,6 @@
 {4516}{}{Kilku kanibali walcz¹cych z paroma dzikusami.}
 {4517}{}{Kilka radskorpionów walcz¹cych z grupk¹ dzikusów.}
 {4518}{}{Kilku rybaków.}
-
-# Encounter Table 31
 {4550}{}{Sk³adowisko odpadów toksycznych}
 {4551}{}{Samotnego, wyg³odzonego psa.}
 {4552}{}{Stado bramin.}
@@ -1135,8 +933,6 @@
 {4580}{}{Rycerzy Króla Artura.}
 {4581}{}{Blaszanego drwala.}
 {4582}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 32
 {4600}{}{Kilku kanibali.}
 {4601}{}{Kilku wyrzutków.}
 {4602}{}{Paru dzikusów.}
@@ -1162,9 +958,7 @@
 {4622}{}{Pustelnika.}
 {4623}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4624}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 33
-{4650}{}{Sk³adowisko odpadów toksycznych.}
+{4650}{}{Sk³adowisko odpadów toksycznych}
 {4651}{}{Samotnego, wyg³odzonego psa.}
 {4652}{}{Stado bramin.}
 {4653}{}{Karawanê z Nory.}
@@ -1195,8 +989,6 @@
 {4678}{}{Rycerzy Króla Artura.}
 {4679}{}{Blaszanego drwala.}
 {4680}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 34
 {4700}{}{Karawanê z Nory.}
 {4701}{}{Kilku rozbójników i rabusiów.}
 {4702}{}{Kilku rozbójników.}
@@ -1220,9 +1012,7 @@
 {4720}{}{Karawanê z Nory.}
 {4721}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4722}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 35
-{4750}{}{Sk³adowisko odpadów toksycznych.}
+{4750}{}{Sk³adowisko odpadów toksycznych}
 {4751}{}{Samotnego, wyg³odzonego psa.}
 {4752}{}{Stado bramin.}
 {4753}{}{Kilka gekonów i parê wilków.}
@@ -1237,7 +1027,7 @@
 {4762}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {4763}{}{Kilka zagarniaczy.}
 {4764}{}{Kilka wilków.}
-{4765}{}{Kilka z³ocistych gekonów.}
+{4765}{}{Kilka gekonów.}
 {4766}{}{Kilku poszukiwaczy walcz¹cych z paroma grabie¿cami.}
 {4767}{}{Kilku traperów walcz¹cych z gekonami.}
 {4768}{}{Kilku nielegalnych handlarzy walcz¹cych z paroma wilkami.}
@@ -1253,8 +1043,6 @@
 {4778}{}{Rycerzy Króla Artura.}
 {4779}{}{Blaszanego drwala.}
 {4780}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 36
 {4800}{}{Kilka gekonów i parê wilków.}
 {4801}{}{Kilka zagarniaczy.}
 {4802}{}{Kilka wilków.}
@@ -1278,8 +1066,6 @@
 {4820}{}{Kilku poszukiwaczy.}
 {4821}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4822}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 37
 {4850}{}{Zgrajê wilków i kilka kretoszczurów.}
 {4851}{}{Kilka radskorpionów i parê wilków.}
 {4852}{}{Kilka zmutowanych kretoszczurów i parê radskorpionów.}
@@ -1301,9 +1087,7 @@
 {4868}{}{Kilka kretoszczurów walcz¹cych z paroma radskorpionami.}
 {4869}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4870}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 38
-{4900}{}{Bandê NajeŸdŸców.}
+{4900}{}{Bandê oprychów.}
 {4901}{}{Kilka wilków.}
 {4902}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
 {4903}{}{Karawanê odpieraj¹c¹ atak NajeŸdŸców.}
@@ -1325,12 +1109,10 @@
 {4919}{}{Mê¿czyznê strzeg¹cego mostu.}
 {4920}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {4921}{}{Bandê wkurzonych NajeŸdŸców.}
-
-# Encounter Table 39
-{4950}{}{Sk³adowisko odpadów toksycznych.}
+{4950}{}{Sk³adowisko odpadów toksycznych}
 {4951}{}{Samotnego, wyg³odzonego psa.}
 {4952}{}{Stado bramin.}
-{4953}{}{Bandê NajeŸdŸców.}
+{4953}{}{Bandê oprychów.}
 {4954}{}{Kilku ³owców nagród.}
 {4955}{}{Kilku ³owców nagród.}
 {4956}{}{Kilku ³owców nagród.}
@@ -1357,8 +1139,6 @@
 {4977}{}{Blaszanego drwala.}
 {4978}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {4979}{}{Bandê wkurzonych NajeŸdŸców.}
-
-# Encounter Table 40
 {5000}{}{Bandê oprychów prowadz¹cych kilka wilków.}
 {5001}{}{Parê roœlin i kilka wilków.}
 {5002}{}{Bandê oprychów.}
@@ -1377,9 +1157,7 @@
 {5015}{}{Mê¿czyznê strzeg¹cego mostu.}
 {5016}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {5017}{}{Bandê wkurzonych NajeŸdŸców.}
-
-# Encounter Table 41
-{5050}{}{Sk³adowisko odpadów toksycznych.}
+{5050}{}{Sk³adowisko odpadów toksycznych}
 {5051}{}{Samotnego, wyg³odzonego psa.}
 {5052}{}{Stado bramin.}
 {5053}{}{Bandê oprychów prowadz¹cych kilka wilków.}
@@ -1405,9 +1183,7 @@
 {5073}{}{Blaszanego drwala.}
 {5074}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {5075}{}{Bandê wkurzonych NajeŸdŸców.}
-
-# Encounter Table 42
-{5100}{}{Sk³adowisko odpadów toksycznych.}
+{5100}{}{Sk³adowisko odpadów toksycznych}
 {5101}{}{Samotnego, wyg³odzonego psa.}
 {5102}{}{Stado bramin.}
 {5103}{}{Patrol Enklawy.}
@@ -1428,8 +1204,6 @@
 {5118}{}{Blaszanego drwala.}
 {5119}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {5120}{}{Kawiarniê Niespe³nionych Marzeñ.}
-
-# Encounter Table 43
 {5150}{}{Patrol Enklawy.}
 {5151}{}{Kilku ³owców nagród.}
 {5152}{}{Kilku ³owców nagród.}
@@ -1442,8 +1216,6 @@
 {5159}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {5160}{}{Mê¿czyznê strzeg¹cego mostu.}
 {5161}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 44
 {5200}{}{Patrol Enklawy.}
 {5201}{}{Kilku ³owców nagród.}
 {5202}{}{Kilku ³owców nagród.}
@@ -1454,12 +1226,7 @@
 {5207}{}{Kilku ³owców nagród.}
 {5208}{}{Kilku ³owców nagród.}
 {5209}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-{5210}{}{Kilku ³owców nagród.}
-{5211}{}{Kilku ³owców nagród.}
-{5212}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
-
-# Encounter Table 45
-{5250}{}{Sk³adowisko odpadów toksycznych.}
+{5250}{}{Sk³adowisko odpadów toksycznych}
 {5251}{}{Samotnego, wyg³odzonego psa.}
 {5252}{}{Stado bramin.}
 {5253}{}{Kilku kosmitów i szponów œmierci.}
@@ -1489,8 +1256,6 @@
 {5277}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {5278}{}{Kawiarniê Niespe³nionych Marzeñ.}
 {5279}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 46
 {5300}{}{Kilku kosmitów i szponów œmierci.}
 {5301}{}{Armiê wisielców i centaurów.}
 {5302}{}{Kilka ognistych gekonów.}
@@ -1512,8 +1277,6 @@
 {5318}{}{Mê¿czyznê strzeg¹cego mostu.}
 {5319}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {5320}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 47
 {5350}{}{Kilku kosmitów i szponów œmierci.}
 {5351}{}{Armiê wisielców i centaurów.}
 {5352}{}{Kilka ognistych gekonów.}
@@ -1533,9 +1296,7 @@
 {5366}{}{Stado centaurów.}
 {5367}{}{Chmarê wisielców.}
 {5368}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 48
-{5400}{}{Sk³adowisko odpadów toksycznych.}
+{5400}{}{Sk³adowisko odpadów toksycznych}
 {5401}{}{Samotnego, wyg³odzonego psa.}
 {5402}{}{Stado bramin.}
 {5403}{}{Stado ognistych gekonów.}
@@ -1559,8 +1320,6 @@
 {5421}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {5422}{}{Kawiarniê Niespe³nionych Marzeñ.}
 {5423}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 49
 {5450}{}{Stado ognistych gekonów.}
 {5451}{}{Stado ognistych gekonów.}
 {5452}{}{Spore stado z³ocistych gekonów.}
@@ -1576,8 +1335,6 @@
 {5462}{}{Mê¿czyznê strzeg¹cego mostu.}
 {5463}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {5464}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 50
 {5500}{}{Stado ognistych gekonów.}
 {5501}{}{Stado ognistych gekonów.}
 {5502}{}{Spore stado z³ocistych gekonów.}
@@ -1591,9 +1348,7 @@
 {5510}{}{Kilku ³owców nagród.}
 {5511}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {5512}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 51
-{5550}{}{Sk³adowisko odpadów toksycznych.}
+{5550}{}{Sk³adowisko odpadów toksycznych}
 {5551}{}{Samotnego, wyg³odzonego psa.}
 {5552}{}{Stado bramin.}
 {5553}{}{Zgrajê szponów œmierci.}
@@ -1622,8 +1377,6 @@
 {5576}{}{Rycerzy Króla Artura.}
 {5577}{}{Blaszanego drwala.}
 {5578}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 52
 {5600}{}{Zgrajê szponów œmierci.}
 {5601}{}{Stado ognistych gekonów.}
 {5602}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
@@ -1645,9 +1398,7 @@
 {5618}{}{Karawanê.}
 {5619}{}{Mê¿czyznê strzeg¹cego mostu.}
 {5620}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 53
-{5650}{}{Sk³adowisko odpadów toksycznych.}
+{5650}{}{Sk³adowisko odpadów toksycznych}
 {5651}{}{Samotnego, wyg³odzonego psa.}
 {5652}{}{Stado bramin.}
 {5653}{}{Kilku cz³onków yakuzy.}
@@ -1674,8 +1425,6 @@
 {5674}{}{Blaszanego drwala.}
 {5675}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {5676}{}{Kawiarniê Niespe³nionych Marzeñ.}
-
-# Encounter Table 54
 {5700}{}{Kilku cz³onków yakuzy.}
 {5701}{}{Gang.}
 {5702}{}{Zgrajê wilków.}
@@ -1694,8 +1443,6 @@
 {5715}{}{Podró¿nik.}
 {5716}{}{Mê¿czyznê strzeg¹cego mostu.}
 {5717}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 55
 {5750}{}{Kilku cz³onków yakuzy.}
 {5751}{}{Gang.}
 {5752}{}{Zgrajê wilków.}
@@ -1711,10 +1458,8 @@
 {5762}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {5763}{}{Kilku bandziorów walcz¹cych z gangiem.}
 {5764}{}{Kilku bandziorów.}
-{5765}{}{Podró¿nika.}
-
-# Encounter Table 56
-{5800}{}{Sk³adowisko odpadów toksycznych.}
+{5765}{}{Podró¿nik.}
+{5800}{}{Sk³adowisko odpadów toksycznych}
 {5801}{}{Samotnego, wyg³odzonego psa.}
 {5802}{}{Stado bramin.}
 {5803}{}{Bandê z³odziei i kilka wilków.}
@@ -1730,7 +1475,7 @@
 {5813}{}{Bandê z³odziei.}
 {5814}{}{Zgrajê wilków.}
 {5815}{}{Zgrajê radskorpionów.}
-{5816}{}{K³êbowisko roœlin.}
+{5816}{}{Drapie¿ne roœliny.}
 {5817}{}{Patrol Jednoœci walcz¹cy z kilkoma z³odziejami.}
 {5818}{}{Patrol Jednoœci walcz¹cy z kilkoma wilkami.}
 {5819}{}{Patrol Jednoœci.}
@@ -1741,8 +1486,6 @@
 {5824}{}{Rycerzy Króla Artura.}
 {5825}{}{Blaszanego drwala.}
 {5826}{}{Unwashed Villagers goni¹cych za Spamerem.}
-
-# Encounter Table 57
 {5850}{}{Bandê z³odziei i kilka wilków.}
 {5851}{}{Bandê z³odziei.}
 {5852}{}{Zgrajê wilków.}
@@ -1762,8 +1505,6 @@
 {5866}{}{Patrol Jednoœci.}
 {5867}{}{Mê¿czyznê strzeg¹cego mostu.}
 {5868}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 58
 {5900}{}{Bandê najemników.}
 {5901}{}{Gang prasowy.}
 {5902}{}{Stado szponów œmierci.}
@@ -1783,8 +1524,6 @@
 {5916}{}{Centrologów.}
 {5917}{}{Bandê wkurzonych najemników.}
 {5918}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 59
 {5950}{}{Bandê najemników.}
 {5951}{}{Gang prasowy.}
 {5952}{}{Stado szponów œmierci.}
@@ -1806,8 +1545,6 @@
 {5968}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {5969}{}{Bandê wkurzonych najemników.}
 {5970}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 60
 {6000}{}{Bandê najemników.}
 {6001}{}{Gang prasowy.}
 {6002}{}{Stado szponów œmierci.}
@@ -1827,9 +1564,7 @@
 {6016}{}{Centrologów.}
 {6017}{}{Bandê wkurzonych najemników.}
 {6018}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 61
-{6050}{}{Sk³adowisko odpadów toksycznych.}
+{6050}{}{Sk³adowisko odpadów toksycznych}
 {6051}{}{Samotnego, wyg³odzonego psa.}
 {6052}{}{Stado bramin.}
 {6053}{}{Bandê najemników.}
@@ -1859,9 +1594,7 @@
 {6077}{}{Kawiarniê Niespe³nionych Marzeñ.}
 {6078}{}{Bandê wkurzonych najemników.}
 {6079}{}{Zebranie grupy ludzi. Wygl¹daj¹ na wa¿nych.}
-
-# Encounter Table 62
-{6100}{}{Sk³adowisko odpadów toksycznych.}
+{6100}{}{Sk³adowisko odpadów toksycznych}
 {6101}{}{Samotnego, wyg³odzonego psa.}
 {6102}{}{Stado bramin.}
 {6103}{}{Bandê najemników.}
@@ -1892,8 +1625,6 @@
 {6128}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {6129}{}{Kawiarniê Niespe³nionych Marzeñ.}
 {6130}{}{Bandê wkurzonych najemników.}
-
-# Encounter Table 63
 {6150}{}{Bandê najemników.}
 {6151}{}{Zgrajê szponów œmierci.}
 {6152}{}{Stado ognistych gekonów.}
@@ -1914,9 +1645,7 @@
 {6167}{}{Karawanê.}
 {6168}{}{Karawanê.}
 {6169}{}{Bandê wkurzonych najemników.}
-
-# Encounter Table 64
-{6200}{}{Sk³adowisko odpadów toksycznych.}
+{6200}{}{Sk³adowisko odpadów toksycznych}
 {6201}{}{Samotnego, wyg³odzonego psa.}
 {6202}{}{Stado bramin.}
 {6203}{}{Patrol Enklawy.}
@@ -1940,8 +1669,6 @@
 {6221}{}{Blaszanego drwala.}
 {6222}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {6223}{}{Kawiarniê Niespe³nionych Marzeñ.}
-
-# Encounter Table 65
 {6250}{}{Patrol Enklawy.}
 {6251}{}{Niedobitków z armii Mistrza.}
 {6252}{}{Zgrajê szponów œmierci.}
@@ -1957,9 +1684,7 @@
 {6262}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {6263}{}{Mê¿czyznê strzeg¹cego mostu.}
 {6264}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 66
-{6300}{}{Sk³adowisko odpadów toksycznych.}
+{6300}{}{Sk³adowisko odpadów toksycznych}
 {6301}{}{Samotnego, wyg³odzonego psa.}
 {6302}{}{Stado bramin.}
 {6303}{}{Karawanê odpieraj¹c¹ atak niedobitków z armii Mistrza.}
@@ -1985,8 +1710,6 @@
 {6323}{}{Blaszanego drwala.}
 {6324}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {6325}{}{Kawiarniê Niespe³nionych Marzeñ.}
-
-# Encounter Table 67
 {6350}{}{Karawanê odpieraj¹c¹ atak niedobitków z armii Mistrza.}
 {6351}{}{Karawanê odpieraj¹c¹ atak niedobitków z armii Mistrza.}
 {6352}{}{Karawanê odpieraj¹c¹ atak szponów œmierci.}
@@ -2004,8 +1727,6 @@
 {6364}{}{Karawanê.}
 {6365}{}{Mê¿czyznê strzeg¹cego mostu.}
 {6366}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 68
 {6400}{}{Zgrajê wilków.}
 {6401}{}{Chmarê modliszek.}
 {6402}{}{Rodzinkê radskorpionów.}
@@ -2020,9 +1741,7 @@
 {6411}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {6412}{}{Mê¿czyznê strzeg¹cego mostu.}
 {6413}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 69
-{6450}{}{Sk³adowisko odpadów toksycznych.}
+{6450}{}{Sk³adowisko odpadów toksycznych}
 {6451}{}{Samotnego, wyg³odzonego psa.}
 {6452}{}{Stado bramin.}
 {6453}{}{Zgrajê wilków.}
@@ -2045,9 +1764,7 @@
 {6470}{}{Blaszanego drwala.}
 {6471}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {6472}{}{Kawiarniê Niespe³nionych Marzeñ.}
-
-# Encounter Table 70
-{6500}{}{Sk³adowisko odpadów toksycznych.}
+{6500}{}{Sk³adowisko odpadów toksycznych}
 {6501}{}{Samotnego, wyg³odzonego psa.}
 {6502}{}{Stado bramin.}
 {6503}{}{Grupê maruderów.}
@@ -2070,7 +1787,7 @@
 {6520}{}{Karawanê.}
 {6521}{}{Karawanê.}
 {6522}{}{Karawanê.}
-{6523}{}{Podró¿nika.}
+{6523}{}{Podró¿nik.}
 {6524}{}{Resztki wieloryba.}
 {6525}{}{Wielk¹ kamienn¹ g³owê.}
 {6526}{}{Rozbity wahad³owiec.}
@@ -2080,8 +1797,6 @@
 {6530}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {6531}{}{Kawiarniê Niespe³nionych Marzeñ.}
 {6532}{}{Bandê wœciek³ych maruderów.}
-
-# Encounter Table 71
 {6550}{}{Grupê maruderów.}
 {6551}{}{Zgrajê wilków.}
 {6552}{}{Zgrajê radskorpionów.}
@@ -2106,8 +1821,6 @@
 {6571}{}{Mê¿czyznê strzeg¹cego mostu.}
 {6572}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {6573}{}{Bandê wœciek³ych maruderów.}
-
-# Encounter Table 72
 {6600}{}{Pododdzia³ armii Mistrza.}
 {6601}{}{Grupê maruderów.}
 {6602}{}{Kilku komandosów odpieraj¹cych atak armii Mistrza.}
@@ -2123,14 +1836,12 @@
 {6612}{}{Bandê brutali prowadzonych przez jednego z Braci Mortonów.}
 {6613}{}{Kilku farmerów odpieraj¹cych atak niedobitków z armii Mistrza.}
 {6614}{}{Kilku farmerów odpieraj¹cych atak maruderów.}
-{6615}{}{Pododdzia³ Komandosów RNK.}
+{6615}{}{Pododdzia³ Stra¿ników RNK.}
 {6616}{}{Kilku farmerów.}
 {6617}{}{Mê¿czyznê strzeg¹cego mostu.}
 {6618}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
 {6619}{}{Bandê wœciek³ych maruderów.}
-
-# Encounter Table 73
-{6650}{}{Sk³adowisko odpadów toksycznych.}
+{6650}{}{Sk³adowisko odpadów toksycznych}
 {6651}{}{Samotnego, wyg³odzonego psa.}
 {6652}{}{Stado bramin.}
 {6653}{}{Pododdzia³ armii Mistrza.}
@@ -2159,9 +1870,7 @@
 {6676}{}{Unwashed Villagers goni¹cych za Spamerem.}
 {6677}{}{Kawiarniê Niespe³nionych Marzeñ.}
 {6678}{}{Bandê wœciek³ych maruderów.}
-
-# Encounter Table 74
-{6700}{}{Niedobitków z armii Mistrza walcz¹cych ze zmutowanymi kretoszczurami.}
+{6700}{}{Niedobitków z armii Mistrza walcz¹cych ze zmutowanymi kretoszczurami .}
 {6701}{}{Niedobitków z armii Mistrza.}
 {6702}{}{Chmarê modliszek.}
 {6703}{}{Zgrajê zmutowanych kretoszczurów.}
@@ -2177,8 +1886,6 @@
 {6713}{}{Zgrajê radskorpionów.}
 {6714}{}{Mê¿czyznê strzeg¹cego mostu.}
 {6715}{}{Rycerzy Króla Artura walcz¹cych ze szczurem.}
-
-# Encounter Table 75
 {6750}{}{Sk³adowisko odpadów toksycznych}
 {6751}{}{Samotnego, wyg³odzonego psa.}
 {6752}{}{Stado bramin.}

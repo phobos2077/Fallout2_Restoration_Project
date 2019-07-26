@@ -3,11 +3,11 @@
 {102}{}{Il a un air bourru, un nez crochu et des oreilles en pointe. Il pourrait avoir été boxeur dans le passé.}
 {103}{}{Que puis-je te servir ?}
 {104}{}{C'est toi qui as dit à Jack de laisser tomber, hein ? C'est du bon boulot. Alors, que veux-tu ?}
-{105}{}{C'est ça !}
-{106}{}{A boire.}
+{105}{}{Certainement.}
+{106}{}{Boire.}
 {107}{}{Qui c'est le gros là-bas ?}
 {108}{}{Que peut-on faire dans cette ville ?}
-{109}{}{Au revoir.}
+{109}{}{Salut.}
 {110}{}{C'est Hoss, le garçon de la Présidente Tandi. Quand il boit, il est pas commode. Je ne m'approcherais pas de lui si j'étais toi.}
 {111}{}{C'était Hoss, le fils de la Présidente Tandi. Tu lui as filé une sacrée raclée !}
 {112}{}{La présidente Tandi ?}
@@ -24,10 +24,9 @@
 {123}{}{Qui c'est le gros ?}
 {124}{}{Merci.}
 {125}{}{Un autre verre ?}
-{126}{}{C'est ça !}
+{126}{}{Certainement.}
 {127}{}{Non.}
 {128}{}{Je t'offre un verre ! J'attends ça depuis des années !}
-{129}{}{J'aimerais te poser des questions.}
+{129}{}{J'ai quelques questions à te poser.}
 {130}{}{Bon ! Salut.}
-
 {131}{}{Tu as bien botté le cul de Hoss ! Que puis-je pour toi ?}

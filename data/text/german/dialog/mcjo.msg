@@ -4,11 +4,10 @@
 {104}{}{Sheriff Jo.}
 {105}{}{Bürgermeister Jo.}
 {106}{}{Friedensrichter Jo.}
-
 {150}{}{Wir haben alle umgebracht. Sogar die Kinder... [schluchz]}
 {151}{}{Wir treffen uns bei der Geisterfarm. Wir greifen sofort an.}
 {152}{}{Danke, daß du die Einwohner von Modoc gerettet hast.}
-{153}{}{Was machst du da?}
+{153}{}{Was machst du?}
 {154}{}{He! Laß das!}
 {155}{}{Dieb!}
 {156}{}{Tut mir leid, diese Warenbörse ist wegen der Dürre auf unbestimmte Zeit geschlossen.}
@@ -19,9 +18,9 @@
 {161}{}{Was kann ich für dich tun?}
 {162}{}{Ich such was ganz Bestimmtes, vielleicht kannst du mir ja helfen, es zu finden.}
 {164}{}{Ich möchte gerne eine goldene Taschenuhr kaufen. Weißt du, wo ich eine kriege?}
-{165}{}{Womit handelst du?}
+{165}{}{Was hast du zu Tauschen?}
 {166}{}{Was kannst du mir über die Stadt erzählen?}
-{167}{}{Was machst du hier so?}
+{167}{}{Was machst du hier?}
 {168}{}{GECK!}
 {169}{}{Da bist du ja wieder! Was hast du über die Farm erfahren?}
 {170}{}{Ich hab dein Geisterfarm-Problem gelöst. Du kannst die Farm jederzeit übernehmen.}
@@ -47,9 +46,9 @@
 {194}{}{Da gibt's eine Farm am Rand der Stadt, wo's keine geben sollte. Vor ein paar Jahren ist sie einfach aus dem Nichts "aufgetaucht".}
 {195}{}{Willst du behaupten, die Farm ist einfach über Nacht aus dem Boden gewachsen? Ja, klar!}
 {196}{}{Ein paar von uns waren auf der Jagd, als wir die Farm bemerkten. Aber das war ja nicht mal so seltsam. Kurz danach gingen ein paar von uns, um die neuen Nachbarn zu besuchen, bloß da war keiner.}
-{197}{}{Erzähl weiter.}
+{197}{}{Ja?}
 {198}{}{Wir versuchten viele Monate ohne Erfolg, mit den Besitzern in Kontakt zu treten, doch ohne Erfolg. Also dachten wir, daß die Farm bald nach ihrem Bau aufgegeben worden war. Um die Saat nicht auf dem Feld verrotten zu lassen, ist der junge Karl eingezogen.}
-{199}{}{Hmm… }
+{199}{}{Hmm... }
 {200}{}{Dann wurde es übel. Karl kam mit Geschichten über seltsame leuchtende Figuren, die sich nachts um die Felder kümmerten und die Tiere fütterten. Wir lachten ihn alle aus, weil wir glaubten, daß er das alles nur erfunden hatte. Eines Tages kam Karl nicht mehr in die Stadt.}
 {201}{}{Was ist mit ihm geschehen? Habt ihr ihn gesucht?}
 {202}{}{Aber klar! Wir gingen zur Farm, als wir vermuteten, daß da was faul war. [Er fängt an, heftig zu zittern.] Der Horror! Überall Leichen verstreut. Manche gekreuzigt, während andere in der Sonne verwesten. Ich wache immer noch mitten in der Nacht schreiend auf, weil ich die furchtbaren Bilder von damals nicht vergessen kann.}
@@ -81,7 +80,7 @@
 {229}{}{Wir haben nichts mehr zu bereden. Da ist die Tür.}
 {230}{}{Mann, bist du verkorkst. Warum kommst du nicht wieder, wenn du etwas normaler bist. Schönen Tag noch und paß auf die Tür auf, wenn du rausgehst.}
 {231}{}{Also willkommen in Modoc. Ich heiße Jo und ich leite die Warenbörse hier. Hier gibt's nicht viel, ein paar Farmen, ein Schlachthaus, Roses Pension und eine Gerberei. Gerade genug, um ein paar Waren zum Handeln herzustellen. Aber mit der Dürre könnte sich das alles ändern.}
-{232}{}{Was kannst du mir über das Schlachthaus erzählen?}
+{232}{}{Was weißt du über das Schlachthaus?}
 {233}{}{Roses Pension?}
 {234}{}{Erzähl mir von der Warenbörse.}
 {235}{}{Wo ist die Gerberei?}
@@ -93,7 +92,7 @@
 {257}{}{Worüber willst du reden, das Schlachthaus, Roses Pension, die Gerberei oder die Warenbörse?}
 {262}{}{Rück schon raus damit. Ich kann nicht helfen, wenn du mir nicht sagst, was du suchst und ich werde sicher nicht Rätselraten mit dir spielen.}
 {263}{}{Ich suche das Heilige GECK.}
-{264}{}{Egal.}
+{264}{}{Macht nichts.}
 {265}{}{Da ich auf die Produkte der Menschen von Modoc angewiesen bin, kann ich nicht viel bieten. Du weißt schon, die Dürre und so. Immer noch interessiert?}
 {266}{}{Laß uns ein Geschäft machen.}
 {267}{}{Nein danke, aber kann ich dir noch ein paar Fragen stellen?}
@@ -102,7 +101,7 @@
 {270}{}{Wow, du mußt ja richtig beliebt sein, wenn man dir all diese Pflichten anvertraut.}
 {271}{}{Danke für die Info, ich muß jetzt gehen.}
 {272}{}{Nö... ich hab nur den kürzeren gezogen. Ich war mal weg, um Vorräte zu beschaffen und wie ich zurückkomm, hatten mich die Leute gewählt. Kein anderer wollte wohl den Job. Abgesehen von ein paar Streitereien hier und da hab ich auch nicht viel zu tun und das ist mir auch recht so.}
-{273}{}{Darf ich dir noch ein paar Fragen stellen?}
+{273}{}{Kann ich dir noch ein paar Fragen stellen?}
 {274}{}{Was! Willst 'n Klugscheißer sein, oder was! Jeder hier weiß, daß der alte Cornelius seine goldene Taschenuhr verloren hat. Ich mußte für ihn sogar das Haus seines besten Freundes durchsuchen. Wenn du keine Schwierigkeiten willst, steckst du deine Nase da nicht rein. Auf Wiedersehen!}
 {275}{}{[Er nimmt die Nachricht von den Schlacken.] Was ist das? Es ist von den Leuten von der Geisterfarm. Das ist unglaublich, hast du das gelesen... huch, natürlich nicht. Ein paar Sachen müssen noch zwischen den Schlacken und Modoc geklärt werden, aber das ist viel zu kompliziert für dein kleines Hirnchen, mach dir also keine Sorgen darüber.}
 {276}{}{GECK jetzt!}
@@ -169,14 +168,10 @@
 {329}{}{Karl ist vor einiger Zeit von der Farm verschwunden. Finde heraus, was mit ihm passiert ist.}
 {330}{}{Danke, ich schau, was ich tun kann.}
 {331}{}{Leute wie dich brauchen wir hier nicht.}
-
 {400}{}{[Du läßt ihn sich den Finger abschneiden] OK, jetzt helfe ich.}
 {410}{}{Was ist das große weiße Gebäude mitten in der Stadt?}
-
 {500}{}{Oh, das ist unsere Kirche. Die Einwohner von Modoc haben sie gebaut, um ihren Glauben zu zeigen. In letzter Zeit
  gibt's aber nicht allzu viel, worüber man dankbar sein könnte, deshalb geht niemand mehr zur Messe.}
-
-# wedding script dialog
 {600}{}{Liebe Gemeinde: Wir haben uns hier versammelt ...}
 {602}{}{[Jo blättert in seinem Buch.]}
 {603}{}{OK, äh ... Bevor wir anfangen, gibt es jemanden in diesem Raum, der einen Grund kennt, warum diese beiden hier vor
@@ -187,18 +182,13 @@
 {607}{}{Im Namen des Grenzgesetzes erkläre ich euch für verbunden. Du darfst die Braut jetzt küssen.}
 {608}{}{Im Namen des Grenzgesetzes erkläre ich euch für verbunden. Die Eheleute dürfen sich jetzt küssen.}
 {609}{}{Im Namen des Grenzgesetzes erkläre ich euch für verbunden. Ihr dürft euch jetzt küssen.}
-
-# Seraph's Code: Cousin Bo
 {612}{}{[Bo blättert in seinem Buch.]}
-
 {625}{}{Ehemann?}
 {626}{}{Ehefrau?}
 {627}{}{Ähhh... andere? Ja, gesetzlich mit jemand anderen verheiratet?}
 {628}{}{andere?}
-
 {629}{}{Miria}
 {630}{}{Davin}
-
 {800}{}{Wir greifen die Schlacken in }
 {801}{}{ Tagen an, es sei denn, du kannst mich vom Gegenteil überzeugen.}
 {802}{}{Wir greifen die Schlacken morgen an, es sei denn, du kannst mich vom Gegenteil überzeugen.}
@@ -206,16 +196,10 @@
 {804}{}{Ich bin dabei!}
 {805}{}{Ich habe genug davon, ich bin nicht mehr dabei!}
 {806}{}{Laß uns jetzt angreifen. Die Schlacken haben gezeigt, daß man Ihnen nicht trauen kann.}
-
 {820}{}{Wie kann ich helfen?}
 {821}{}{Ich möchte nicht dazugehören. ich habe meinen Teil des Geschäftes erfüllt. Sag mir, wo das GECK ist.}
-
 {850}{}{Ich komme wieder, wenn ich herausgefunden habe, was mit Karl passiert ist.}
-
 {900}{}{Danke nochmals, das du unsere kleine Stadt gerettet hast, mein Freund.}
 {925}{}{Gern geschehen. Sehe dich später.}
-
 {1000}{}{Du hast Modoc gerettet.}
-
-# Seraph's Code: Cousin Bo
 {1500}{}{Du siehst den stellvertretenden Friedensrichter Bo.}

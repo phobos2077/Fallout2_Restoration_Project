@@ -1,18 +1,17 @@
-{100}{}{Tu vois un petit garçon.}
+{100}{}{Un petit garçon.}
 {101}{}{Tu vois Jonny.}
 {102}{}{Cheveux blonds, yeux bleus, le gosse américain typique.}
-
 {150}{}{Ouiiin !}
 {151}{}{Je veux qu'on me rende mon chien !}
-{152}{}{::Sanglots::}
-{153}{}{Etranger !}
+{152}{}{Whimper... }
+{153}{}{Inconnu !}
 {154}{}{Laddie ! Tu m'as manquée ! Merci de m'avoir ramené mon chien.}
 {155}{}{Bonjour, c'est la première fois que je vous vois dans le coin.}
 {156}{}{Tu t'appelles Jonny ?}
 {157}{}{Comment t'appelles-tu mon garçon ?}
 {158}{}{Allez, dis-moi ton nom, petit monstre.}
 {159}{}{Eh petit, tu veux un bonbon ?}
-{160}{}{Rebonjour !}
+{160}{}{Rebonjour.}
 {166}{}{Ta mère et ton père m'ont demandé de te retrouver.}
 {168}{}{Avez-vous parlé de mon retour à la maison avec Vegeir ?}
 {169}{}{Oui. Il dit qu'il veut que tes parents viennent te chercher.}
@@ -49,10 +48,7 @@
 {201}{}{Dépêchez-vous, je veux rentrer à la maison !}
 {202}{}{Non ! Je ne vous crois pas ! Rendez-moi mon chien ! [Ouiiin !]}
 {203}{}{Oh non ! Il paraît que Rose met de la viande de chien dans ses plats ! Laddie est probablement un hamburger à l'heure qu'il est !}
-
-
 {300}{}{Laddie !!!}
-
 {400}{}{Merci de m'avoir sauvé, monsieur.}
 {401}{}{C'est bon d'être à la maison !}
 {402}{}{Ouah...}

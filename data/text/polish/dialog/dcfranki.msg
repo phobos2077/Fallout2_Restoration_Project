@@ -1,6 +1,5 @@
 {100}{}{Widzisz w³aœciciela Dziury.}
 {101}{}{Widzisz Frankiego, w³aœciciela Dziury.}
-
 {150}{}{To chyba w³aœciciel tego lokalu.}
 {151}{}{Widzisz Frankiego. To jego lokal.}
 {152}{}{[ROZMAWIAJ]}
@@ -25,14 +24,14 @@
 {171}{}{Oto pieni¹dze.}
 {172}{}{¯artujesz?! To za drogo!}
 {173}{}{Czemu twoja whiskey jest o wiele dro¿sza od tej, któr¹ serwuje Becky?}
-{174}{}{Nie, dziêki.}
+{174}{}{Nie, dziêkujê.}
 {175}{}{Coœ jeszcze?}
 {176}{}{Tak.}
 {177}{}{Nie, dziêki.}
 {178}{}{A gdzie masz pieni¹dze?! Tu nie armia zbawienia!}
 {179}{}{Oj, przepraszam. Trochê s³abo stojê z fors¹.}
 {180}{}{Wrócê póŸniej.}
-{181}{}{Czego chcesz?}
+{181}{}{Co chcesz zrobiæ?}
 {182}{}{Whiskey.}
 {183}{}{Niczego. W³aœnie wychodzê.}
 {184}{}{Chwebo mcesz!}
@@ -68,7 +67,7 @@
 {214}{}{Pieprzyæ! Przynajmniej na razie nie ma gorza³y.}
 {215}{}{Dlaczego z ni¹ walczysz, Frankie? Po³¹czcie si³y.}
 {216}{}{Pomyœl: sk¹d jeszcze mo¿esz wzi¹æ alkohol?}
-{217}{}{Co masz na myœli?}
+{217}{}{Jak to?}
 {218}{}{Kupuj go od niej. Jest tañszy ni¿ w Nowym Reno, wiêc zarobisz wiêcej pieniêdzy.}
 {219}{}{Nie chcê tego robiæ.}
 {220}{}{Niewa¿ne.}
@@ -77,29 +76,27 @@
 {223}{}{Beze mnie. ¯egnaj.}
 {224}{}{Mo¿e masz racjê. Porozmawiam z ni¹. Dziêki.}
 {225}{}{Hej, od czego ma siê przyjació³?}
-{226}{}{Czeœæ.}
+{226}{}{Pa.}
 {227}{}{Nie dysponujê tak¹ informacj¹.}
 {228}{}{Serio? To dlaczego Becky ma o wiele tañsze drinki od ciebie?}
 {229}{}{Podobno barmani wiedz¹ wszystko.}
 {230}{}{No to jestem w niew³aœciwym miejscu.}
 {231}{}{Pogadaj z Sheil¹. Hej, Sheila, masz klienta!}
 {232}{}{Czekaj, nie oto mi chodzi³o!}
-{233}{}{Dziêki. Czeœæ.}
+{233}{}{Dziêki. Pa.}
 {234}{}{Nie w¹tpiê. Chyba nie ³atwo musi ci byæ znaleŸæ ch³opa. Spróbuj szczêœcia gdzie indziej, paniusiu. Tutaj nic nie znajdziesz.}
 {235}{}{Trudno! To mo¿e coœ innego.}
 {236}{}{Och ty...}
 {237}{}{Nie muszê tego wys³uchiwaæ!}
 {238}{}{Mam tam wolny pokój. Mo¿emy z niego skorzystaæ.}
-{239}{}{OK.}
+{239}{}{OKI.}
 {240}{}{Nie o to mi chodzi³o!}
-
 {242}{}{Ty te¿.}
 {243}{}{Obawiam siê, ¿e nie masz najmniejszego pojêcia jak zaspokoiæ kobietê.}
 {244}{}{Jeszcze nigdy nie by³o mi tak dobrze. Mówiê serio.}
 {245}{}{Nie lubiê siê œpieszyæ, ale muszê lecieæ...}
 {246}{}{Có¿, do zobaczenia.}
-{247}{}{Czeœæ.}
-
+{247}{}{Pa.}
 {248}{}{Jak tam sobie chcesz. Tylko tym razem po sobie posprz¹taj, dobra?}
 {249}{}{Hej ludzie! Oklaski dla Billiego. Chyba wreszcie coœ zaliczy!}
 {250}{}{Chcesz szmatê?}
@@ -110,9 +107,9 @@
 {255}{}{Gdzie jesteœ, kobieto?}
 {256}{}{Wchodzisz, czy nie?}
 {257}{}{No chodŸ, skarbie.}
-{258}{}{ChodŸ za mn¹.}
+{258}{}{IdŸ za mn¹.}
 {259}{}{¯adna kobieta nie bêdzie mi pyskowaæ. Wynoœ siê st¹d!}
-{260}{}{Dobra.}
+{260}{}{W porz¹dku.}
 {261}{}{Oj, obawiam siê, ¿e najpierw muszê za³atwiæ piln¹ sprawê. Przykro mi, skarbie.}
 {262}{}{Chyba jednak nie mam ochoty przespaæ siê z takim maszkaronem jak ty.}
 {263}{}{Masz szczêœcie, ¿e mi³y ze mnie goœæ. Ale nigdy wiêcej tak nie rób.}
@@ -121,16 +118,12 @@
 {266}{}{Nikt nie bêdzie tak do mnie mówi³! Giñ!}
 {267}{}{Da³em ci szansê. Teraz jest ju¿ za póŸno. Wynoœ siê st¹d.}
 {268}{}{Nie wpuszczê ciê na zaplecze z tym œmieciem!}
-
 {300}{}{Hej, nie zap³aci³em ci za zabijanie tej zdziry. Spieprzaj st¹d!}
-
 {350}{}{Rany! Ja pieprzê. To by³o niesamowite.}
 {351}{}{Cholera, ca³kiem nieŸle, skarbie.}
 {352}{}{Dziêki, by³o fajnie. A teraz spadaj.}
 {353}{}{By³o, uuch... Niewa¿ne, wynoœ siê st¹d.}
 {354}{}{Có¿, bywa³o gorzej.}
-
 {400}{}{Wiesz co, skarbie? Niez³a z ciebie laska, ale musisz siê jeszcze du¿o nauczyæ.}
 {410}{}{Skarbie, mam jeszcze du¿o roboty. Nie bêdê tu stercza³ do jutra... No dobra, mo¿e i bêdê, ale co z tego? To moja praca!}
-
 {420}{}{Patrz, ja chcê tylko ¿eby jej aparatura zosta³a zniszczona, a ty masz to zrobiæ. A teraz zje¿d¿aj.}

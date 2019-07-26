@@ -1,6 +1,3 @@
-#
-#   Messages from skilldex.c
-#
 {100}{}{ATOUTS}
 {101}{}{ANNULER}
 {102}{}{ESQUIVE}

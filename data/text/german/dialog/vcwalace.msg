@@ -21,7 +21,7 @@
 {114}{}{Wer bist du?}
 {115}{}{Was ist das alles hier?}
 {116}{}{Ich hab den Verdacht, daß Skeev, dein Assistent, ein paar krumme Dinger dreht.}
-{117}{}{Heute mal nicht, danke.}
+{117}{}{Heute nichts, danke.}
 {118}{}{Ich glaube, ich muß mal mit den Wachleuten im Vorhof reden. Die lassen ganz
  offensichtlich jeden dahergelaufenen Outsider nach Vault City rein. }
 {119}{}{Citeee. Valt Citeee? Munkel.}
@@ -64,8 +64,8 @@
 {150}{}{Verzieh dich}
 {151}{}{Das war doch alles nur ein Mißverständnis.}
 {152}{}{Ich hab ihn grade nicht dabei. Kannst du mir vielleicht einen neuen ausstellen?}
-{153}{}{Na, egal.}
-{154}{}{Vergiß es.}
+{153}{}{Na, dann egal.}
+{154}{}{Vergiss es.}
 {155}{}{Das kann ich. Aber für die Neuausstellung eines bereits ausgegebenen Tagesausweises wird
  eine Gebühr von 50 Dollar erhoben.}
 {156}{}{Na schön. Da hast du das Geld.}
@@ -105,7 +105,7 @@
 {181}{}{Gut. Ich muß mit der Erstbürgerin sprechen.}
 {182}{}{Wer ist denn diese Erstbürgerin?}
 {183}{}{Was genau ist deine Aufgabe, wenn ich fragen darf?}
-{184}{}{Danke für die Auskunft. Wiedersehen.}
+{184}{}{Danke für die Auskunft. Wiedersehn.}
 {185}{}{Das kann ich mir denken. Alle wollen eine Audienz bei der Erstbürgerin. Leider hat sie
  sehr wenig Zeit und kann sich nur um die allerwichtigsten Angelegenheiten persönlich kümmern.}
 {186}{}{Ich habe nicht den Eindruck, daß du jemand sonderlich Wichtiges bist. Die Erstbürgerin
@@ -116,7 +116,7 @@
 {188}{}{Das, was ich ihr mitzuteilen haben, ist von größter Wichtigkeit. Wirklich.}
 {189}{}{Du vergreifst dich ganz entschieden im Ton, mein Freund. Ich sagte, daß ich zu ihr muß.
  Und zwar sofort.}
-{190}{}{Na, auch egal. }
+{190}{}{Macht nichts.}
 {191}{}{Dann sag's einfach mir. Ich lauf zur Erstbürgerin rüber und überbringe Ihr die Nachricht
  persönlich.}
 {192}{}{Es war gar nicht die Rede davon, daß ich dir nicht helfen kann. Es ist nur so, daß... na
@@ -141,14 +141,14 @@
  dein Tagesausweis. Er ist nur tagsüber gültig. In der Nacht darfst du dich nicht in der Stadt
  aufhalten. Im übrigen behalten sich die Bürger das Recht vor, den Tagesausweis jederzeit
  einzuziehen. Sieh also zu, daß du dich anständig aufführst.}
-{203}{}{Alles klar. Darf ich dir noch ein paar Fragen stellen?}
+{203}{}{Verstanden. Kann ich dir noch ein paar Fragen stellen?}
 {204}{}{Danke.}
 {205}{}{Ich verschwende meine Zeit mit dir, Outsider. Geh jetzt.}
 {206}{}{Ich würde vorschlagen, daß du jetzt gehst, sonst hole ich die Wache.}
 {207}{}{NEIN DUUU GEHEN oder ich DICH HAUEN}
 {208}{}{Verzieh dich}
 {209}{}{Ich gehe nirgendwohin, und schon gar nicht freiwillig.}
-{210}{}{Ja ja, schon gut.}
+{210}{}{Schon gut, schon gut.}
 {211}{}{Und wo, wenn ich fragen darf, hast du diesen gefälschten Paß her? Der Seriennummer nach
  entstammt er den Dokumenten, die letzten Monat gestohlen wurden.}
 {212}{}{Wenn ich's dir sage, gibst du mir dann einen Tagesausweis?}
@@ -186,7 +186,7 @@
  der Nasenspitze ansehen müssen. Ich lach mich tot! Troll dich, Outsider, bevor es zu spät ist.}
 {238}{}{Du läßt mich jetzt da rein und zwar ein bißchen plötzlich, sonst kannst du dir das mit
  dem Totlachen sowieso sparen.}
-{239}{}{Ist gut, ich gehe.}
+{239}{}{OK, OK, ich geh ja schon.}
 {240}{}{Gut. Was wolltest du wissen?}
 {241}{}{Tag, Hauptmann. Kann ich dir irgendwie behilflich sein?}
 {242}{}{Tag, Bürger. Kann ich dir irgendwie behilflich sein?}
@@ -204,7 +204,7 @@
 {254}{}{Ich habe das Lager der Gangster gefunden.}
 {255}{}{Ich habe das Lager der Gangster gefunden und sie beseitigt.}
 {256}{}{Was kannst du mir über eure Anführerin erzählen?}
-{257}{}{Heute mal nicht, danke.}
+{257}{}{Heute nichts, danke.}
 {258}{}{Das war's für heute. Besten Dank.}
 {259}{}{Das kommt ganz darauf an, woher die Karawane kommt. Unsere Lieferungen stammen aus den
  verschiedensten Gegenden... Diener aus Den, Uran aus Broken Hills und Eisenerz aus Redding.}
@@ -240,33 +240,33 @@
 {282}{}{Ich weiß, warum die Lieferungen aus Redding weniger geworden sind.}
 {283}{}{Was kannst du mir über Den erzählen?}
 {284}{}{Was kannst du mir über Broken Hills erzählen?}
-{285}{}{Verstehe. Ich hätte da noch ein paar weitere Fragen...}
-{286}{}{Danke für die Auskunft. Wiedersehen.}
+{285}{}{Ach so. Ich hab da noch ein paar andere Fragen...}
+{286}{}{Danke für die Auskunft. Wiedersehn.}
 {287}{}{Wirklich? Das ist ja phantastisch! Bitte geh sofort zu Stadtrat McClure und erstatte ihm 
 Bericht.}
 {288}{}{Wirklich? Das ist ja phantastisch! Ich gebe dir einen Tagesausweis, damit du Stadtrat
  McClure Bericht erstatten kannst. Der Ausweis gilt nur tagsüber. Nachts muß du die Stadt
  verlassen. Und jetzt los.}
 {289}{}{Darf ich dir noch eine Frage stellen, bevor ich gehe?}
-{290}{}{Das werd ich tun.}
+{290}{}{Werd ich tun.}
 {291}{}{Ich geh auf der Stelle zu ihm.}
 {292}{}{Merkwürdig, daß du darauf zu sprechen kommst. Es ist in letzter Zeit teurer geworden...
  nicht, daß wir's uns nicht mehr leisten könnten, bewahre. Wir kommen immer noch weitaus
  günstiger weg als Gecko. Diese stinkenden Hyänen brauchen das Uran viel nötiger als wir.}
 {293}{}{Was kannst du mir über Den erzählen?}
 {294}{}{Was kannst du mir über Redding erzählen?}
-{295}{}{Verstehe. Ich hätte da noch ein paar weitere Fragen...}
+{295}{}{Ach so. Ich hab da noch ein paar andere Fragen...}
 {296}{}{Hmmm. Interessant. Danke für die Auskunft.}
 {297}{}{Unsere Erstbürgerin ist Joanne Lynette. In den zehn Jahren ihrer Amtszeit hat sie viel
  Gutes für unsere Stadt getan.}
-{298}{}{Zum Beispiel?}
+{298}{}{Und das wäre?}
 {299}{}{Sie hat unsere Stadt vor den verderblichen Einflüssen der Außenwelt geschützt. Sie hat
  unsere Unabhängigkeit und Stärke bewahrt, obwohl die NCR uns drängt, der Republik beizutreten
  und wir unter Angriffen von Gangstern leiden. Und jetzt gibt es Probleme mit Gecko...}
 {300}{}{Was ist die NCR?}
 {301}{}{Wer sind denn diese Gangster?}
 {302}{}{Was gibt es denn für Probleme mit Gecko?}
-{303}{}{Darf ich dir noch ein paar Fragen stellen?}
+{303}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {304}{}{Wie bedauerlich. Vielleicht erfahre ich ja ein andermal mehr darüber.}
 {305}{}{NCR steht für "New California Republic". Angeblich hat sie sich zum Ziel gesetzt,
  ganz Kalifornien unter einer Regierung zusammenzuführen. Aber wir haben ihre fadenscheinige
@@ -278,7 +278,7 @@ Bericht.}
  herausgehalten haben? Uns wäre damit ganz sicher nicht gedient.}
 {309}{}{Ich verstehe. Du hattest vorhin Gangster erwähnt. Was ist damit?}
 {310}{}{Was für Probleme hat Vault City mit Gecko?}
-{311}{}{Darf ich dir noch ein paar Fragen stellen?}
+{311}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {312}{}{Das ist mehr, als ich eigentlich wissen wollte. Mach's gut.}
 {313}{}{Wir hatten es in letzter Zeit mit einer ganzen Reihe besonders brutaler Überfälle durch
  Gangster zu tun. Gelegentliche Überfälle gab es ja schon vorher, aber so was haben wir noch nie
@@ -292,7 +292,7 @@ Bericht.}
 {319}{}{Nicht viel. Es gelingt uns einfach nicht herauszufinden, wo sie ihre Basis haben. Unser
  Bürger Sergeant Stark weiß vielleicht mehr, aber der ist in der städtischen Besserungsanstalt.}
 {320}{}{Wenn ich diese Gangster aufspüre, läßt du mich dann in die Stadt?}
-{321}{}{Ich hätte da noch ein paar Fragen...}
+{321}{}{Ich hab da noch ein paar Fragen...}
 {322}{}{Mal sehen, was ich über diese Gangster rausfinden kann. Ich mach mich gleich auf den Weg.}
 {323}{}{Danke für die Auskunft.}
 {324}{}{Sicher. Wenn du das Basislager der Gangster findest, bekommst du einen Tagesausweis von
@@ -306,7 +306,7 @@ Bericht.}
  verlassen. Und jetzt los.}
 {329}{}{Darf ich dir noch eine Frage stellen, bevor ich gehe?}
 {330}{}{Wird gemacht.}
-{331}{}{Danke. Mach's gut.}
+{331}{}{Vielen Dank. Auf Wiedersehn.}
 {332}{}{Oh, äh, das übersteigt meine Kompetenzen. In solchen Angelegenheiten mußt du dich an die
  Erstbürgerin wenden.}
 {333}{}{Wie war das noch mal mit der NCR?}
@@ -343,3 +343,5 @@ Bericht.}
 {361}{}{Ausgezeichnet. Hier... und noch mal, der gilt nur während des Tages, nachts mußt du Vault City verlassen. Die Bürger haben auch jederzeit das Recht, dir den Tagesausweis abzuerkennen, also benimm dich.}
 {362}{}{Verstanden. Kann ich dir noch ein paar Fragen stellen?}
 {363}{}{Danke.}
+{1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
+{1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}

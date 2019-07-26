@@ -27,7 +27,7 @@
 {126}{}{Jak rozumiem pani prezydent ma pewn¹ pracê, któr¹ trzeba zrobiæ.}
 {127}{}{Pani Prezydent ju¿ nie udziela wywiadów dotycz¹cych Krypty 13. Przykro mi. Jest zbyt zajêta, aby spotykaæ siê z ka¿dym poszukiwaczem, który siê tu zjawi.}
 {128}{}{Co? Nie rozumiem.}
-{129}{}{A co z GECKiem. Mo¿e coœ wie na ten temat?}
+{129}{}{What about a GECK? She might know something about that?}
 {130}{}{Mówi³o siê coœ o pracy.}
 {131}{}{Jesteœ kompletnie bezu¿yteczny. Idê st¹d.}
 {132}{}{Wiêc sugerujê przeczytaæ tablicê na pomniku na zewn¹trz. A teraz dobrego dnia ¿yczê.}
@@ -51,8 +51,8 @@
 {150}{}{Pani prezydent powiedzia³a, aby zg³osiæ siê do ciebie po nagrodê.}
 {151}{}{Ka-sa.}
 {152}{}{Jestem tu, aby odebraæ moj¹ zap³atê.}
-{153}{}{Twoja pani prezydent i ty powinniœcie wiedzieæ, ¿e macie u siebie szpiega - kogoœ o imieniu Feargus.}
-{154}{}{Nic takiego.}
+{153}{}{Pani Prezydent powiedzia³a, ¿e powinieneœ wiedzieæ, ¿e macie u siebie szpiega - kogoœ o imieniu Feargus.}
+{154}{}{Niczego.}
 {155}{}{Oczywiœcie, przed chwil¹ poinformowa³a mnie o tym przez interkom. Nagroda w wysokoœci $6000 i podziêkowanie od spo³ecznoœci RNK. Tak powiedzia³a. A teraz mam pracê do wykonania. Do widzenia.}
 {156}{}{Zobaczmy. Kontrakt mówi o $500. Oto one.}
 {157}{}{Tak naprawdê, to przed chwil¹ powiedzia³a mi przez interkom, aby zmieniæ ci wysokoœæ zap³aty - wygl¹da na to, ¿e nale¿y ci siê premia. Oto $900 i podziêkowania od RNK. A teraz mam pracê do wykonania, wiêc do widzenia.}
@@ -66,25 +66,17 @@
 {165}{}{Dziêki. Mi³ego dnia.}
 {166}{}{Ach, to ty. S³uchaj, to nie jest najlepszy czas. Tak naprawdê, to s¹dzê, ¿e Pani Prezydent raczej nie chcia³aby ciê ju¿ wiêcej w nic mieszaæ. Dziêkujê ci i mi³ego dnia.}
 {167}{}{Wyjaœnijmy coœ sobie. Pani Prezydent nie zobaczy siê ju¿ z tob¹ - teraz, ani kiedy indziej. Zap³acono ci. A teraz odejdŸ.}
-
-{171}{}{Moja iœæ.}
+{171}{}{Ja iœæ.}
 {172}{}{Zupe³nie nic.}
 {173}{}{Ty suko! Stra¿e! Zabójca! Morderca!}
-
 {174}{}{Krypta 15 zosta³a przeze mnie przeszukana. Muszê o tym porozmawiaæ z twoj¹ szefow¹.}
 {175}{}{Moja musieæ mówiæ Krypta 15.}
-
 {176}{}{Powinieneœ wiedzieæ, ¿e macie u siebie szpiega - kogoœ o imieniu na literê F.}
-
 {177}{}{Ja znaleŸæ te¿ szpieg. Ferrrgus.}
 {178}{}{Ja nie k³amaæ. Patrzeæ. (Wrêczasz mu dysk.)}
 {179}{}{Dziêkowaæ!}
-
-#define GLOBAL Message response
 {500}{}{Nie bez powodu trzymamy zamkniête drzwi.}
 {501}{}{Muszê ciê prosiæ o opuszczenie tego miejsca.}
 {502}{}{To twoje ostatnie ostrze¿enie. OdejdŸ, zanim ka¿ê ciê usun¹æ.}
 {503}{}{Ochrona - zajmijcie siê tym szkodnikiem.}
-
-# Added by killap
 {510}{}{Dobra, zaczekach chwilkê. Mam do pogadania z twoim szefem na temat Krypty 15.}

@@ -6,9 +6,9 @@
 {105}{}{Bienvenue, l'Etre Elu ! Tiens, assieds-toi au bar.}
 {106}{}{Allez ! Prends un siège et repose-toi un peu !}
 {107}{}{C'est l'Etre Elu ! On se lève tous pour la VEDETTE de Fallout 2 !}
-{108}{}{Bonjour, Capitaine.}
+{108}{}{Bonne journée, Capitaine.}
 {109}{}{La Cité de l'Abri avant tout, Capitaine !}
-{110}{}{Bonjour, citoyen.}
+{110}{}{Salut, citoyen.}
 {111}{}{La Cité de l'Abri avant tout, citoyen !}
 {112}{}{Un mutant ! Gardes ! Gardes !}
 {113}{}{Une Goule ! Gardes ! Gardes !}
@@ -17,38 +17,38 @@
 {116}{}{On est fermé. Je termine l'inventaire du stock et je ferme boutique.}
 {117}{}{Hé, là, l'Etre Elu ! On parlait justement de ton aventure... Tu veux quelque chose à boire ?}
 {118}{}{Glouglou-glouglou, coup de bambou.}
-{119}{}{[Partir]}
-{120}{}{Qu'y a-t-il en pression ?}
+{119}{}{Dégage !}
+{120}{}{Qu'est-ce que t'as en pression ?}
 {121}{}{Je cherchais des renseignements.}
 {122}{}{J'ai reçu cette livraison d'alcool que tu attendais.}
-{123}{}{Rien aujourd'hui, merci.}
+{123}{}{Rien pour aujourd'hui, merci.}
 {124}{}{Heu... C'est ce que je sens. Hum, merci encore d'avoir sauvé le monde et tout.}
 {125}{}{Coucou loulou, tout-fou tout-fou.}
-{126}{}{[Partir]}
+{126}{}{Dégage !}
 {127}{}{Ecoute, tu as peut-être sauvé le monde et tout, mais t'es loin d'être poète. Alors, ferme-la.}
 {128}{}{Poutou-poutou gouzi-gouzi.}
-{129}{}{[Partir]}
+{129}{}{Dégage !}
 {130}{}{Bon, tu prends ça et tu fiches le camp, d'accord ? Ca devrait t'occuper la bouche pendant un moment.}
 {131}{}{Ngolo-ngolo tout solo-solo.}
-{132}{}{[Partir]}
+{132}{}{Dégage !}
 {133}{}{Heu... Que puis-je faire pour vous, Capitaine ?}
 {134}{}{Que puis-je faire pour toi, citoyen ?}
-{135}{}{Oui ? Je peux faire quelque chose pour toi ?}
+{135}{}{Oui, puis-je vous être utile ?}
 {136}{}{Toi ? Toua ? Toua ? Touuuaaa. Tou-a, c'est c'que disent les autres quand y me voient.}
-{137}{}{[Partir]}
-{138}{}{Qu'y a-t-il en pression ?}
+{137}{}{Dégage !}
+{138}{}{Qu'est-ce que t'as en pression ?}
 {139}{}{Je cherchais des renseignements.}
 {140}{}{J'ai reçu cette livraison d'alcool que tu attendais.}
-{141}{}{Rien aujourd'hui, merci.}
+{141}{}{Rien pour aujourd'hui, merci.}
 {142}{}{C'est sans doute la chose la plus passionnante que j'aie jamais entendue. Attends un peu... Je voudrais bien que les gardes entendent ça, eux aussi.}
 {143}{}{Trop ? Trohooo. Troooo. Trooooo sseexy pour mes zabiiiits.}
-{144}{}{[Partir]}
+{144}{}{Dégage !}
 {145}{}{On a de la bière et de l'alcool de synthèse... Vodka-H, dérivés de tequila W et W2. Oh, et de l'eau. Et du lait de Brahmine. La bière ou l'alcool, c'est dix dollars, l'eau ou le lait : trois dollars.}
-{146}{}{Comme... ?}
+{146}{}{C'est-à-dire... ?}
 {147}{}{Euh, vous avez de vrais alcools ?}
 {148}{}{Allez, va pour de la bière de synthèse.}
-{149}{}{Un peu de vodka de synthèse, ce serait le pied !}
-{150}{}{Un peu de tequila W2, ce sera parfait !}
+{149}{}{Un peu de vodka de synthèse, ce serait le pied.}
+{150}{}{Un peu de tequila W2, ce sera parfait.}
 {151}{}{Un peu d'eau, ce sera parfait !}
 {152}{}{Du lait de Brahmine.}
 {153}{}{En fait, je cherchais des renseignements.}
@@ -58,7 +58,7 @@
 {157}{}{Très bien. Ca ne me gêne pas d'attendre. J'ai juste envie d'un verre de lait bien rafraîchissant. Hummmm-mmm. Ce serait vraiment le pied.}
 {158}{}{Bon, alors, je crois que je vais essayer autre chose.}
 {159}{}{Bon, tant pis. Au fait, je cherchais des renseignements...}
-{160}{}{Laisse tomber. Je reviendrai une autre fois.}
+{160}{}{C'est pas grave. Je reviendrai une autre fois.}
 {161}{}{Voilà. Autre chose ?}
 {162}{}{Euh, vous avez de vrais alcools ?}
 {163}{}{Allez, va pour de la bière de synthèse.}
@@ -84,7 +84,7 @@
 {183}{}{Heu, c'est la grande cavité dans le flanc de la montagne, à l'Est d'ici... Au fait, tu es bien un citoyen, n'est-ce pas ?}
 {184}{}{Heu, c'est ce gros trou dans le flanc de la montagne, à l'Est d'ici. Tu peux pas le rater. Mais tu peux pas y entrer si tu n'es pas un citoyen.}
 {185}{}{Je voulais savoir autre chose...}
-{186}{}{Mais je suis un citoyen.}
+{186}{}{Mais j'ai la citoyenneté.}
 {187}{}{Ouais, je voulais juste retrouver mon chemin, merci. Je vais aller voir.}
 {188}{}{Humm. Merci du renseignement.}
 {189}{}{Ouais, c'est ça. A ta place, je ferais gaffe à qui je dis ça, *citoyen*. Sûr que quelqu'un va te reconnaître, même avec les papiers volés que tu as achetés à ce tocard de Skeev. Alors, profil bas, compris ?}
@@ -92,38 +92,38 @@
 {191}{}{Ah. Ben, merci du conseil.}
 {192}{}{Ecoute, primo, tu devrais pas appeler ça *esclavage* dans le coin, ou tu vas t'attirer de sacrés ennuis. On appelle ça des *domestiques*, pas des esclaves. Enfin, moi je dis ça comme ça.}
 {193}{}{Ok. Dis, il y a autre chose que je voulais savoir...}
-{194}{}{Merci. Je m'en souviendrai.}
+{194}{}{Merci. Je vais garder ça à l'esprit.}
 {195}{}{Pas vraiment. L'essentiel des contacts qu'on a avec les étrangers, c'est avec les marchands qui prennent la piste des caravanes du Grand Cercle en provenance des Collines Brisées, de New Reno et de Redding. En dehors de ça, le seul endroit que je connaisse c'est Gecko.}
 {196}{}{Parle-moi des Collines Brisées.}
 {197}{}{Parle-moi de New Reno.}
 {198}{}{Parle-moi de Redding.}
 {199}{}{Parle-moi de Gecko.}
 {200}{}{Je voulais savoir autre chose...}
-{201}{}{Merci pour les renseignements.}
+{201}{}{Merci pour les informations.}
 {202}{}{C'est une communauté minière comme Redding, sauf que c'est plus au Sud. C'est de là que viennent pas mal de nos livraisons d'uranium.}
 {203}{}{Parle-moi de New Reno.}
 {204}{}{Parle-moi de Redding.}
 {205}{}{Parle-moi de Gecko.}
 {206}{}{Je voulais savoir autre chose...}
-{207}{}{Merci pour les renseignements.}
+{207}{}{Merci pour les informations.}
 {208}{}{C'est plus loin vers le Sud-Ouest. Tout le monde est pas du même avis à propos de Reno. Certains marchands, surtout les esclavagistes, l'adorent. Mais les autres... non. Parfait si on cherche du plaisir... et des emmerdes, à ce que je sais.}
 {209}{}{Parle-moi des Collines Brisées.}
 {210}{}{Parle-moi de Redding.}
 {211}{}{Parle-moi de Gecko.}
 {212}{}{Je voulais savoir autre chose...}
-{213}{}{Merci pour les renseignements.}
+{213}{}{Merci pour les informations.}
 {214}{}{C'est une ville minière, loin vers l'Ouest. On n'a pas vu beaucoup de caravanes qui venaient de là-bas ces derniers temps, même que ça inquiète un peu les grosses légumes. Surtout Monsieur le Conseiller McClure.}
 {215}{}{Parle-moi des Collines Brisées.}
 {216}{}{Parle-moi de New Reno.}
 {217}{}{Parle-moi de Gecko.}
 {218}{}{Je voulais savoir autre chose...}
-{219}{}{Merci pour les renseignements.}
+{219}{}{Merci pour les informations.}
 {220}{}{Une ville de Goules à moins d'un jour de voyage au Nord-Est, d'après ce que je sais. La rumeur dit qu'ils s'attaquent à tous ceux qui pénètrent sur leur territoire. Vaut mieux pas s'y aventurer.}
 {221}{}{Parle-moi des Collines Brisées.}
 {222}{}{Parle-moi de New Reno.}
 {223}{}{Parle-moi de Redding.}
 {224}{}{Je voulais savoir autre chose...}
-{225}{}{Merci pour les renseignements.}
+{225}{}{Merci pour les informations.}
 {226}{}{Pourquoi ? Tu cherches un truc qui décoiffe un peu plus que ces boissons de synthèse ?}
 {227}{}{Peut-être bien. On n'a pas vraiment l'impression de boire de l'alcool, avec ces trucs de synthèse.}
 {228}{}{Pas vraiment. Je cherchais plutôt des renseignements...}
@@ -155,5 +155,5 @@
 {254}{}{Je vois. Merci en tout cas.}
 {255}{}{Je... vois. Bon, euh, bonne continuation. D'accord ?}
 {256}{}{Ngolo-ngolo tout solo-solo.}
-{257}{}{[Partir]}
+{257}{}{Dégage !}
 {258}{}{Zzzzzzz.}

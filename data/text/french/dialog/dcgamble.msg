@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Tu vois un joueur.}
 {101}{}{On dirait que cette personne a beaucoup de chance.}
 {102}{}{On dirait qu'il gagne, mais il a misé tout son argent.}
@@ -7,17 +6,13 @@
 {105}{}{Cette personne n'a pas gagné depuis longtemps.}
 {106}{}{Elle a l'air d'être au bord des larmes et presque à court d'argent.}
 {107}{}{Il a l'air très en colère et on dirait qu'il perd gros.}
-
-# 1. PC Killed Becky, NPC are still around (From Where to go)
-{200}{}{Ne me fais pas mal !}
+{200}{}{Ne me fais pas mal.}
 {201}{}{Ne tire pas !}
 {202}{}{Je n'ai pas d'argent !}
 {203}{}{Pourquoi as-tu tué la pauvre Babeth ?}
 {204}{}{Que t'avait-elle fait ?}
 {205}{}{J'ai rien fait !}
 {206}{}{Va-t'en. Je ne dirai rien.}
-
-# 2. CF: Gambling (From Where to go)
 {300}{}{Oui ! La chance me sourit !}
 {301}{}{Oh, c'était tout juste !}
 {302}{}{Ne m'interromps pas, tu vas faire partir ma chance !}
@@ -50,14 +45,10 @@
 {329}{}{Pourquoi moi ?}
 {330}{}{Je ne peux pas gagner.}
 {331}{}{Je l'déteste ce jeu.}
-
-# 3. BGF: Becky Dead (From Where to go)
 {400}{}{Merde ! Le seul endroit où on pouvait jouer, c'était chez Babeth.}
 {401}{}{T'approche pas !}
 {402}{}{Ne tire pas !}
 {403}{}{Laisse-nous tranquille.}
-
-# 4. BGF: Gambling (From Where to go)
 {500}{}{T'arrête pas là.}
 {501}{}{Ne t'arrête pas.}
 {502}{}{ALLEZ, LE 7 !}
@@ -74,8 +65,8 @@
 {513}{}{Presque.}
 {514}{}{Pas mal.}
 {515}{}{Comment c'est arrivé ?}
-{516}{}{Hou la la !}
-{517}{}{Ah, c'est pas vrai ! Stop !}
+{516}{}{Oh là là !}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Eh bien, ce jeu porte bien son nom.}
 {519}{}{Il faut que je gagne le paquet.}
 {520}{}{C'est bien ma veine !}
@@ -91,10 +82,8 @@
 {530}{}{Je l'déteste ce jeu !}
 {531}{}{Merde ! C'était quoi mon chiffre sur le dernier jeu ?}
 {532}{}{Noir, encore ?!!}
-
-# 5. CF: Hostile (From Where to go)
-{600}{}{Dégage !}
+{600}{}{Allez, va-t-en !}
 {601}{}{Pourquoi as-tu fait ça ?}
-{602}{}{Dégage !}
+{602}{}{Allez, va-t-en !}
 {603}{}{Arrête, je suis fragile !}
-{604}{}{Je ne te ferai jamais ça !}
+{604}{}{I wouldn't do that to you.}

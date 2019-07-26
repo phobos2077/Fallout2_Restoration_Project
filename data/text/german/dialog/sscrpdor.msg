@@ -15,6 +15,5 @@
 {112}{}{Die Tür knarrt und bricht unter der Belastung.}
 {113}{}{Die Tür ist bereits geöffnet.}
 {114}{}{Du kannst der Tür nichts anhaben.}
-
 {120}{}{Harro, Ra Ra?}
 {121}{}{Hehe, Tür sprechie sprechie. Hi!}

@@ -1,4 +1,4 @@
-{100}{}{Tu vois une squatteuse.}
+{100}{}{Tu vois un squatteur.}
 {101}{}{Voici Roberta, la squatteuse.}
 {102}{}{Tu vois une femme d'âge moyen portant des vêtements usés.}
 {103}{}{Ca par exemple ! Je regrette, j'ai rien à te dire. Je t'en prie, va-t'en.}

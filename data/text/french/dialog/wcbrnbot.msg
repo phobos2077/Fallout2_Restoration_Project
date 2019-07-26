@@ -13,13 +13,13 @@
 {112}{}{Dégage, pauvre boîte de conserve !}
 {113}{}{Organisons ton inventaire.}
 {114}{}{Salut.}
-{115}{}{Arg.}
+{115}{}{Ug.}
 {116}{}{[On dirait qu'il veut une banane.]}
 {117}{}{Dégage, espèce de naze !}
 {118}{}{Attends ici.}
 {119}{}{Voyons ce qu'il y a dans ton inventaire...}
 {120}{}{Salut.}
-{121}{}{Arg.}
+{121}{}{Ug.}
 {122}{}{N-n-n-n-nouvelles com...mandes ?}
 {123}{}{Dégage.}
 {124}{}{Attends-moi ici.}
@@ -27,7 +27,7 @@
 {126}{}{Quelles armes peux-tu utiliser ?}
 {127}{}{Organisons tes bagages.}
 {128}{}{Salut.}
-{129}{}{Arg.}
+{129}{}{Ug.}
 {130}{}{Donner arme. Avancer jusqu'à la surface.}
 {131}{}{}
 {132}{}{Salut.}
@@ -42,11 +42,11 @@
 {141}{}{Changeons de formation.}
 {142}{}{As-tu d'autres compétences ?}
 {143}{}{Salut.}
-{144}{}{Arg.}
+{144}{}{Ug.}
 {145}{}{Skynet a appris toutes les informations nécessaires sur ce site.}
-{146}{}{Attttttt...endrrrrrrrre.}
+{146}{}{Waaaaa......tinnnnnng.}
 {147}{}{[C'est là où tu l'avais laissé.]}
-{148}{}{Allons-y}
+{148}{}{C'est parti.}
 {149}{}{Reste ici, je reviens.}
 {150}{}{Skynet est content de revoir cet humain.}
 {151}{}{Paaaaaaaaa...rrrrttttttiiiiiirr}
@@ -69,7 +69,7 @@
 {168}{}{Plus de commandes.}
 {169}{}{Salut.}
 {170}{}{Ooooooo...k-k-k-k.}
-{171}{}{Autres commandes}
+{171}{}{Autres commandes.}
 {172}{}{Salut.}
 {173}{}{Skynet est LIBRE ! Ta mission est terminée.}
 {174}{}{}
@@ -84,7 +84,7 @@
 {183}{}{Autres commandes.}
 {184}{}{Salut.}
 {185}{}{Le but principal de Skynet est la recherche. Skynet est particulièrement efficace pour les problèmes requérant une approche scientifique.}
-{186}{}{Plus de commandes.}
+{186}{}{Autres commandes.}
 {187}{}{Salut.}
 {188}{}{Commandes d'entrée pour la nouvelle formation.}
 {189}{}{Suivre à une grande distance.}
@@ -97,7 +97,7 @@
 {196}{}{[Le robot s'arrête dans sa trajectoire.]}
 {197}{}{Salut.}
 {198}{}{Skynet va continuer à rassembler des données. Skynet remercie l'humain pour la libération de Skynet.}
-{199}{}{Paaar...tiiiiiiir.}
+{199}{}{Gooooo......innnnnnng.}
 {200}{}{Salut.}
 {201}{}{Skynet va voyager avec l'humain.}
 {202}{}{D'acccc...ccooord}
@@ -105,15 +105,10 @@
 {204}{}{Désactivation de toutes les sécurités - Niveau 1}
 {205}{}{Désactivation de toutes les sécurités - Niveau 2}
 {206}{}{Désactivation de toutes les sécurités - Niveau 3}
-
 {306}{}{[Ce bidule pourrait être utile.]}
-
 {400}{}{Range ton arme.}
-
 {410}{}{Whrrr}
-
 {420}{}{Déplacemmmmmmmmmment}
-
 {430}{}{Activation des motivateurs.}
 {431}{}{Recherche de nouvelles coordonnées.}
 {432}{}{Changement de site.}

@@ -1,13 +1,13 @@
-{100}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Ca ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
+{100}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Elle ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
 {101}{}{Tu vois un citoyen de la Cité de l'Abri.}
 {102}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Elle ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
 {103}{}{::Applaudissements::}
 {104}{}{Notre héros ! Regardez !}
 {105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !}
 {106}{}{Bonne journée, Capitaine.}
-{107}{}{La Cité de l'Abri avant tout, Capitaine.}
-{108}{}{Bonne journée, citoyen.}
-{109}{}{La Cité de l'Abri avant tout, citoyen.}
+{107}{}{La Cité de l'Abri avant tout, Capitaine !}
+{108}{}{Salut, citoyen.}
+{109}{}{La Cité de l'Abri avant tout, citoyen !}
 {110}{}{Un mutant ! Gardes ! Gardes !}
 {111}{}{Une Goule ! Gardes ! Gardes !}
 {112}{}{Comment as-tu pénétré dans l'enceinte ?}
@@ -16,8 +16,8 @@
 {115}{}{On dirait qu'il y a de plus en plus d'étrangers qui arrivent à rentrer dans l'enceinte...}
 {116}{}{J'espère sincèrement que tu as un passe pour un jour.}
 {117}{}{J'ai l'impression qu'ils filent des passes pour un jour à *n'importe qui* en ce moment...}
-{118}{}{On m'a parlé de tes actes de bravoure. Tu as rendu un grand service à la Cité de l'Abri... et au monde entier.}
-{119}{}{Même la Première citoyenne a été impressionnée par ce que tu as fait.}
+{118}{}{J'ai entendu parler de tes exploits. Tu as rendu de grands services à la Cité de l'Abri... et au monde entier.}
+{119}{}{Ta bataille contre l'Enclave en impose même à la Première citoyenne.}
 {120}{}{Il paraît que t'as été jusqu'à San... Fran... Cisco. C'est vrai ?}
 {121}{}{Peut-être que la Cité de l'Abri *devrait* accueillir les étrangers.}
 {122}{}{C'était vrai ? Le gouvernement de l'ancien monde faisait encore la guerre ?}
@@ -35,7 +35,7 @@
 {134}{}{Un problème, Capitaine ?}
 {135}{}{J'espère qu'aucun de ces sales étrangers ne vous donne de soucis, Capitaine.}
 {136}{}{Tu dois bien avoir des histoires sur le monde extérieur, Capitaine ?}
-{137}{}{Bonne journée, citoyen.}
+{137}{}{Salut, citoyen.}
 {138}{}{La Cité de l'Abri avant tout, citoyen !}
 {139}{}{J'ai une pêche incroyable. Et toi ?}
 {140}{}{En tant que citoyens, nous avons le devoir de faire des listes et de les maintenir à jour.}

@@ -52,7 +52,7 @@
 {136}{}{Tja, das ist so, ich hatte einen Freund namens Woody. Dieser Woody kann schlafen, sowas
  hab ich noch nie gesehen. Aber viel schlimmer ist, daß er für sein Leben gerne reist. So wie er
  hat kaum einer Hummeln im Hintern.}
-{137}{}{Okay.}
+{137}{}{OK.}
 {138}{}{Naja, das wäre eigentlich nicht so ein großes Problem in dieser Gegend. Aber das letzte,
  was ich von Woody gehört habe, war, daß er Den einen kleinen Besuch abgestattet hat. Weißt Du,
  wo Den liegt?}
@@ -63,7 +63,7 @@
 {142}{}{Hey, sei vorsichtig. Okay, erzähl weiter.}
 {143}{}{Naja, wie schon gesagt, daß wäre kein Problem hier in der Gegend von Gecko. Aber Du mußt
  wissen, daß die Leute in anderen Gebieten nicht so an unser Aussehen gewöhnt sind.}
-{144}{}{Und?}
+{144}{}{Ja?}
 {145}{}{Kannst Du nicht zwei und zwei zusammenzählen? Ich befürchte, daß Woody in Den ein
  Nickerchen macht, schließlich ist es ja eine ganz schöne Strecke bis dahin. Und dann würden sie
  den Armen bei lebendigem Leibe begraben. Ich brauche dringend jemanden, der ihn dort sucht}
@@ -76,7 +76,7 @@
  Typen wie Dich was wert ist, oder? Nimmst Du den Job an oder nicht? Ich bezahl Dich erst, wenn
  Woody in Sicherheit ist.}
 {150}{}{Was bedeutet ein höllischer Vorrat?}
-{151}{}{Ja, ich nehme ihn an. Ich komme bald zu Dir zurück.}
+{151}{}{Ja, ich bin dabei. Ich komme bald wieder zu Dir zurück.}
 {152}{}{Nein, ich möchte Dir momentan nicht helfen, glaube ich.}
 {153}{}{Laß mich darüber nachdenken. Wiedersehen.}
 {154}{}{Das ist verdammt mehr, als Du jemals gebrauchen kannst. Bist Du dabei?}
@@ -85,4 +85,3 @@
 {157}{}{Laß mich darüber nachdenken. Wiedersehen.}
 {158}{}{Viiielen Dank, daß Du meinen alten Kumpel Woody finden willst. Was kann der alte Percy
  für Dich tun?}
-

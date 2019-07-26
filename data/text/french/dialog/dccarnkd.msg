@@ -1,7 +1,5 @@
 {100}{}{Tu vois un enfant criant des slogans racoleurs.}
 {101}{}{Cet enfant sale est apparemment payé pour faire de la publicité pour une sorte d'attraction touristique.}
-
-#Hawking floats
 {500}{}{Rencontrez la mystérieuse momie !}
 {501}{}{Vivez le miracle antique !}
 {502}{}{Une momie Véri-ta-ble, maintenant !}

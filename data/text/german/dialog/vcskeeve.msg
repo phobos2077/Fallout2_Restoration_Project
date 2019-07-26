@@ -22,8 +22,7 @@
  Zollfragen zu klären hast, was willst du dann hier?}
 {119}{}{Ich bin auf der Suche nach einer Vault.}
 {120}{}{Ich würde gerne in die Stadt hinein.}
-{121}{}{Ich hab mir gedacht, wo du doch hier beim Zoll arbeitest, könntest du mir vielleicht
- einen *Rat* geben, wie ich bestimmte Dinge in die Stadt reinschleusen kann.}
+{121}{}{Ich hab mir gedacht, wo du doch hier beim Zoll arbeitest, könntest du mir vielleicht einen *Rat* geben, wie ich bestimmte Dinge in die Stadt reinschleusen kann.}
 {122}{}{Egal. Tut mir leid, daß ich dich belästigt habe.}
 {123}{}{Die Vault? Sie ist in der Stadt. Halt mal - du willst doch nicht etwa durch das Tor?}
 {124}{}{Ja.}
@@ -46,20 +45,20 @@
 {139}{}{Wenn du nicht als Bürger geboren wurdest, muß du eine Prüfung ablegen, um Bürger zu
  werden. Willst du wissen, wie viele Outsider die Prüfung erfolgreich abgelegt haben? Ganz genau
  Null. Deine Chancen? WENIGER als Null.}
-{140}{}{Worin besteht die Prüfung?}
+{140}{}{Woraus besteht denn dieser Test?}
 {141}{}{Was gibt es sonst noch für Möglichkeiten, den Zoll zum umgehen?}
-{142}{}{Egal. Vielleicht unterhalten wir uns ein andermal.}
+{142}{}{Macht nichts. Wir können ja später noch mal darüber reden.}
 {143}{}{Gregory, der Prokonsul, stellt jeden Outsider, der Bürger werden will, vor einen Test.
  Dabei werden Intelligenz und Auffassungsgabe geprüft und verdammt viel Glück muß man außerdem
  noch haben, um da durchzukommen. Auch die meisten Bürger würden's wohl kaum schaffen.}
-{144}{}{Und was ist so schwierig dran?}
+{144}{}{Und warum ist er so schwer?}
 {145}{}{Was gibt es sonst noch für Möglichkeiten, den Zoll zu umgehen, außer Bürger zu werden?}
-{146}{}{Egal. Vielleicht unterhalten wir uns ein andermal.}
+{146}{}{Macht nichts. Wir können ja später noch mal darüber reden.}
 {147}{}{Wie du dir vorstellen kannst, können die meisten Outsider weder lesen noch Trigonometrie,
  noch "Australopithecus" richtig schreiben. Die ganze Prüfung ist nur ein Vorwand. Im Grunde geht
  es nur darum, die Outsider am Erlangen der Bürgerschaft zu hindern.}
 {148}{}{Was gibt es sonst noch für Möglichkeiten, den Zoll zu umgehen, außer Bürger zu werden?}
-{149}{}{Egal. Vielleicht unterhalten wir uns ein andermal.}
+{149}{}{Macht nichts. Wir können ja später noch mal darüber reden.}
 {150}{}{Versteck die Waren bei deinen Sklaven...deinen "Dienern". In Vault City herrscht nun mal
  die allgemeine Auffassung, daß keiner auf die Idee käme, etwas Wichtiges...oder Anrüchiges bei
  seinen Dienern zu verstecken. Ist nun mal so.}
@@ -67,7 +66,7 @@
 {152}{}{Na schön. Besten Dank.}
 {153}{}{Na ja, du KANNST Bürger werden...auf dem inoffiziellen Weg.}
 {154}{}{Wovon redest du?}
-{155}{}{Egal. Vielleicht unterhalten wir uns ein andermal.}
+{155}{}{Macht nichts. Wir können ja später noch mal darüber reden.}
 {156}{}{Weitere Einzelheiten gibt's nur gegen Bares zu hören. Andernfalls...}
 {157}{}{Ich hab das Geld. Was hast du anzubieten?}
 {158}{}{Egal. Vielleicht unterhalten wir uns ein andermal.}
@@ -84,14 +83,13 @@
 {165}{}{Nein, danke. Ein andermal vielleicht.}
 {166}{}{Ganz einfach. Keiner würde dir ein Wort glauben. Du bist ein Outsider, ich bin Bürger.
  Was glaubst du, wem sie eher Glauben schenken würden?}
-{167}{}{Dann nehm ich also den Paß.}
+{167}{}{Dann nehm ich die Papiere.}
 {168}{}{Ich nehme den Paß...aber für 150 Dollar, nicht für 200.}
-{169}{}{200 Dollar ist mir zuviel. Vielleicht komm ich wieder her, wenn ich ein bißchen mehr Geld
- habe.}
-{170}{}{Egal. Vielleicht unterhalten wir uns ein andermal.}
+{169}{}{Hmm, $200 ist mir zu teuer. Ich komm vielleicht noch mal wieder, wenn ich etwas Geld beschaffen kann.}
+{170}{}{Macht nichts. Wir können ja später noch mal darüber reden.}
 {171}{}{Hmmm. Na, also gut...heute hab ich mal die Spendierhosen an. Aber sag's keinem von deinen
  Outsiderfreunden, daß du so billig davongekommen bist.}
-{172}{}{Alles klar.}
+{172}{}{Also gut.}
 {173}{}{Gib mir einfach den verdammten Paß.}
 {174}{}{Also gut,  sie sind fertig gedruckt. Hier, bitte sehr..."Bürger". Aber erzähl keiner Menschenseele was davon, hörst
  du, besonders Wallace nicht!}
@@ -165,13 +163,13 @@
 {232}{}{Was muß man denn machen, wenn man ein echter Bürger werden will?}
 {233}{}{Und wenn ich das täte? Ich könnte jetzt direkt hingehen und ihm erzählen, daß du gefälschte Papiere verkaufst.}
 {234}{}{Das will ich hoffen. Ich kann überzeugend sein. }
-{235}{}{Das sehen wir dann.}
+{235}{}{Das werden wir ja sehen.}
 {236}{}{Ha! Dann versuch's doch. Wallace wird dir das nie glauben.}
 {237}{}{Och, das wird er schon, wenn er die gefälschten Papiere sieht, die ich von dir habe. Wenn du natürlich ein bißchen Bargeld bei dir hättest, könnte das unter uns bleiben.}
 {238}{}{Das werden wir ja sehen.}
 {239}{}{Dann nehm ich die Papiere.}
 {240}{}{Hmm, $200 ist mir zu teuer. Ich komm vielleicht noch mal wieder, wenn ich etwas Geld beschaffen kann.}
-{241}{}{Nein danke. Vielleicht beim nächsten Mal.}
+{241}{}{Nein danke. Vielleicht ein andermal.}
 {242}{}{Was muß man denn machen, wenn man ein echter Bürger werden will?}
 {243}{}{Hmmmm. Wie teuer waren die Papiere noch mal?}
 {244}{}{Und wenn ich's ihm aus den todesstarren Fingern winden muß.}

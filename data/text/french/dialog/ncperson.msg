@@ -1,43 +1,32 @@
-# 0. QUICK LOOk (ANY)
 {100}{}{Tu vois l'un des habitants de New Reno.}
-
-# 1. LOOk, MALE (WTG)
 {150}{}{Tu vois un homme en guenilles. Il a l'air de s'ennuyer.}
 {151}{}{Tu vois un homme en guenilles. Il a le regard morne.}
 {152}{}{Tu vois un homme en guenilles. On dirait qu'il a la gueule de bois.}
 {153}{}{Tu vois un homme en guenilles. Il a l'air blasé.}
 {154}{}{Tu vois un homme en guenilles. Il te jette un regard irrité avant de t'ignorer.}
 {155}{}{Tu vois un homme en guenilles. Il a l'air énervé.}
-
-# 2. LOOk, FEMALE (WTG)
 {160}{}{Tu vois une femme en guenilles. Elle a l'air de s'ennuyer.}
 {161}{}{Tu vois une femme en guenilles. Elle a un regard morne.}
 {162}{}{Tu vois une femme en guenilles. Elle semble à des années lumières d'ici.}
 {163}{}{Tu vois une femme en guenilles. Elle a l'air un peu saoule.}
 {164}{}{Tu vois une femme en guenilles. Elle te jette un regard irrité avant de t'ignorer.}
 {165}{}{Tu vois une femme en guenilles. Elle ricane en croisant ton regard.}
-
-# 3. FLOAT (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
-{200}{}{::Applaudit::}
-{201}{}{::Trinque::}
-{202}{}{C'est comme ça qu'on brûle ces enfoirés de l'Enclave ! Tout à fait !}
+{200}{}{::Applaudissements::}
+{201}{}{::Acclamations::}
+{202}{}{C'est comme ça qu'on donne une leçon à l'Enclave !}
 {203}{}{C'est comme ça qu'on botte le cul de L'Enclave, }
 {204}{}{Bravo pour avoir vaincu L'Enclave, }
-{205}{}{Bravo pour avoir vaincu L'Enclave,  }
-
-# 4. FLOAT (ANY) TO [POWER ARMOR] (WTG)
-{215}{}{Oh-oh. Dégagez du passage.}
+{205}{}{Bravo pour avoir vaincu L'Enclave, }
+{215}{}{Oups. Ne restont pas sur son chemin.}
 {216}{}{Rien qu'à voir cet... cette... ce... *peu importe*, ça me donne des frissons.}
 {217}{}{Tu penses que cette chose cherche à flinguer quelqu'un ?}
 {218}{}{C'est un suppôt de l'enfer en chair et en os. Euh, je veux dire dans cette armure.}
 {219}{}{Dégagez le chemin pour ce truc.}
 {220}{}{En parlant de choses qui ont l'air dangeureuses...}
-{221}{}{*Gloups*}
+{221}{}{*Gulp*}
 {222}{}{Je crois que ce M. Roboto m'a scanné.}
 {223}{}{Je crois que ce tank sur pattes vient de me lancer un regard assassin. Je fiche le camp.}
 {224}{}{J'ai entendu dire qu'hier ce truc avait abattu trois hommes de main.}
-
-# 5. FLOAT AND CLICK (FEMALE) TO [MALE, PORN STAR] (WTG)
 {240}{}{Hé, salut beau gosse !}
 {241}{}{Est-ce qu'un étalon comme toi a besoin d'une selle ? Je suis libre demain soir.}
 {242}{}{Tu fais quoi plus tard, matelot ?}
@@ -48,18 +37,16 @@
 {247}{}{Besoin d'un partenaire pour ton prochain film ?}
 {248}{}{::Fixe tes biceps::}
 {249}{}{::Applaudit, siffle::}
-
-# 6. FLOAT (MALE) TO [FEMALE, PORN STAR] (WTG)
 {255}{}{Whaou. Vise un peu ça.}
 {256}{}{Matte un peu *ça* !}
-{257}{}{::Mime les mots "Bon sang !"::}
+{257}{}{::Mime le mot 'putain'::}
 {258}{}{Je SAVAIS que j'aurais dû me raser aujourd'hui.}
 {259}{}{Viens me voir une seconde, tétons d'aciers.}
 {260}{}{Les tribales ont de ces nibards ! Merde !}
 {261}{}{Matte un peu les nichons de cette tribale.}
 {262}{}{Ca c'est la pouliche la plus belle de mon troupeau.}
 {263}{}{Je prendrais même un bain pour cette femme !}
-{264}{}{J'ai trouvé un beau filon juste ici.}
+{264}{}{J'ai trouvé un gros filon ici.}
 {265}{}{Bouge ton boule !}
 {266}{}{Secoue moi un peu tout ça !}
 {267}{}{::Siffle::}
@@ -80,21 +67,17 @@
 {282}{}{Booordel !}
 {283}{}{Matte un peu ces pare-chocs.}
 {284}{}{Je parie qu'elle a des problèmes de dos.}
-
-# 7. FLOAT AND CLICK (ANY) TO [MALE, PRIZEFIGHTER] (WTG)
 {285}{}{Tu n'as pas l'air si coriace, M. Le prétendant au titre.}
 {286}{}{J'ai gagné 20 jetons en pariant sur toi !}
-{287}{}{Hé, champion ! Le dernier combat était grandiose !}
-{288}{}{Je t'ai vu combattre sur le ring. T'as balancé un sacré bon crochet du droit.}
-{289}{}{Tu vas assurer ? J'ai parié 30 jetons sur toi.}
-{290}{}{Combien tu peux soulever ?}
+{287}{}{Hé, champion ! Le dernier combat était génial !}
+{288}{}{Je t'ai vu te battre sur le ring. Tu as balancé un sacré crochet du droit !}
+{289}{}{Tu vas prendre tes responsabilités ? J'ai misé 30 jetons sur toi.}
+{290}{}{Tu soulèves combien ?}
 {291}{}{Où est-ce que tu t'entraînes ?}
-{292}{}{Attention au Mastiquateur. Il a un certain goût pour les oreilles.}
-{293}{}{Je serais bien allé te chercher à boire si je n'avais pas tout dépensé en pariant sur ton adversaire.}
+{292}{}{Fais attention au Mastiquateur. Il est friand d'oreilles.}
+{293}{}{Je t'aurais bien payé un verre si j'avais pas tout misé sur ton adversaire.}
 {294}{}{Tu n'as pas l'air si coriace, Mlle Crochet du droit.}
 {295}{}{Je peux voir tes abdos se contracter ?}
-
-# 8. FLOAT (ANY) TO [MADE MAN] (WTG)
 {300}{}{Ne restons pas sur le passage de cet homme.}
 {301}{}{Je crois qu'il m'a regardé.}
 {302}{}{Je crois qu'il vient de me lancer un regard assassin. Je fiche le camp.}
@@ -112,8 +95,6 @@
 {314}{}{Je crois qu'elle vient de me lancer un regard assassin. Je fiche le camp.}
 {315}{}{J'ai entendu dire qu'hier, elle avait abattu trois hommes de main.}
 {316}{}{Quel joli cul ! Euh, jolie coup, j'voulais dire.}
-
-# 9. FLOAT (ANY) TO [SLAVER] (WTG)
 {320}{}{Il y a plus d'esclavagistes en ville, récemment...}
 {321}{}{Je n'avais jamais vu cet esclavagiste jusqu'à présent...}
 {322}{}{Je me demande si l'esclavagiste est allé aux étables...}
@@ -124,7 +105,7 @@
 {327}{}{La puanteur venant de Golgotha était vraiment forte la nuit dernière...}
 {328}{}{Saloperie d'esclavagistes...}
 {329}{}{Vraiment pas de bol...}
-{330}{}{J'ai enterndu qu'il y a une nouvelle récolte d'esclaves.}
+{330}{}{J'ai entendu qu'il y a une nouvelle récolte d'esclaves.}
 {331}{}{Il y a un nouvel arrivage d'esclaves au bordel.}
 {332}{}{Jonction, Conjonction...}
 {333}{}{J'empoche mes gains.}
@@ -152,26 +133,20 @@
 {355}{}{Cette ville est géniale... sauf pour les touristes.}
 {356}{}{Cette ville est géniale... sauf pour les esclavagistes.}
 {357}{}{Cette ville est géniale... sauf pour les macs et les putes.}
-
-# 10. FLOAT AND CLICK (ANY) TO [COMPANION: ROBOBRAIN] (WTG)
-{365}{}{C'est une espèce de machine à sous qui te suis partout ?}
-{366}{}{C'est un robot machine à sous ?}
-{367}{}{Est-ce que ton robot fait des trucs ? Euh des trucs magiques, je veux dire.}
-
-# 11. FLOAT (ANY) TO [COMPANION: MARCUS] (WTG)
-{375}{}{Dis-moi que c'est pas un mutant.}
+{365}{}{C'est une sorte de machine à sous, ce truc qui te suit ?}
+{366}{}{C'est une machine à sous robotique ?}
+{367}{}{Ton robot fait-il des tours ? Euh... Des tours de magie, j'veux dire.}
+{375}{}{Dis-moi que ce n'est pas un mutant.}
 {376}{}{C'est un mutant ?}
 {377}{}{Putain de merde. Des mutants à New Reno. Il doit y avoir des problèmes.}
-{378}{}{Les mutants c'est de la grosse merde.}
+{378}{}{Ce mutant est un sacré gaillard.}
 {379}{}{Dégoûtant ami des mutants.}
-
-# 12. FLOAT (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON REACTION TO [COMPANION = FEMALE SPOUSE] (WTG)
 {385}{}{Ton ami a un os planté dans le nez.}
 {386}{}{Est-ce que tout le monde dans sa bande doit se percer le nez avec un os pour faire ses preuves ?}
 {387}{}{Ce taré fait partie de la tribu "un-bâton-dans-le-nez-nous-fait-bander" ?}
 {388}{}{Ce fou avec un os dans le nez prouve bien que les tribals ne seront jamais civilisés.}
 {389}{}{Ce fou a un os planté dans le nez ?}
-{390}{}{Ce taré a un os de la taille de son bras planté dans le nez. Pfff.}
+{390}{}{Ce gars a un os dans le nez aussi gros que mon bras. Nom d'un chien.}
 {391}{}{Je n'veux même pas savoir comment ton pote s'est retrouvé avec cet os dans le pif.}
 {392}{}{Génial. Un de ces tribals arriérés.}
 {393}{}{Combien de tribals vont encore venir dans cette ville ?}
@@ -180,7 +155,7 @@
 {396}{}{La puanteur venant de Golgotha était vraiment forte la nuit dernière...}
 {397}{}{Putain de touristes.}
 {398}{}{Vraiment pas de bol...}
-{399}{}{J'ai enterndu qu'il y a une nouvelle récolte d'esclaves.}
+{399}{}{J'ai entendu qu'il y a une nouvelle récolte d'esclaves.}
 {400}{}{Jonction, Conjonction...}
 {401}{}{J'empoche mes gains.}
 {402}{}{Parfois, boire trop n'est pas suffisant.}
@@ -212,10 +187,8 @@
 {428}{}{Est-ce que cette femme sait cuisiner ? Si oui, je la prends.}
 {429}{}{Combien pour ce canon qui est avec toi ?}
 {430}{}{Découvrez le nouveau patron de la place !}
-{431}{}{Il va y avoir de l'action, ce soir !}
+{431}{}{Il va y avoir de l'action ce soir !}
 {432}{}{La fille de Mme Bishop a un beau cul.}
-
-# 13. FLOAT [NO REP] (WTG)
 {450}{}{La fille de Mme Bishop a un beau cul.}
 {451}{}{Si la Ligue de Tempérance vient encore me faire la leçon...}
 {452}{}{Génial. Un de ces tribals arriérés.}
@@ -252,10 +225,8 @@
 {483}{}{Cette ville est géniale... sauf pour les touristes.}
 {484}{}{Cette ville est géniale... sauf pour les esclavagistes.}
 {485}{}{Cette ville est géniale... sauf pour les macs et les putes.}
-{486}{}{Tu devrais aller en ville, voir s'il y a de nouvelles têtes...}
+{486}{}{Je pourrais aller au centre-ville, voir si de nouveaux hommes sont arrivés... }
 {487}{}{Si la Ligue de Tempérance vient encore me faire la leçon...}
-
-# 14. CLICK (ANY) TO [FLAG: ENCLAVE DESTROYED] (WTG)
 {490}{}{C'est comme ça qu'on donne une leçon à l'Enclave !}
 {491}{}{J'ai toujours su que le Président voulait tous nous tuer.}
 {492}{}{Le président était en vie ? C'était quand les dernières éléctions ?}
@@ -266,13 +237,11 @@
  Puis s'étaient éteintes aussitôt... Etrange.}
 {497}{}{Bravo pour avoir vaincu L'Enclave, }
 {498}{}{Fallout 2 vous a été présenté par Interplay productions, le studio Black Isle, et la compagnie Nuka Cola.}
-{499}{}{Tim Cain nous manque. Il faisait du très bon pain. Et il nous donnait la fessée comme à des enfants.}
+{499}{}{Tim Cain nous manque. Il avait l'habitude de faire du délicieux pain. Et il nous donnait la fessée comme aux petits enfants.}
 {500}{}{Ouais ouais, je suis l'Avatar, moi aussi.}
 {501}{}{New Reno a été créée par Chris Avellone et Tom French. La rumeur dit qu'ils vont se marier bientôt.}
 {502}{}{Feargus a eu une drôle d'expression quand il a vu combien de texte flottant il y avait.}
 {503}{}{Ton score est de 192 sur 208. Tu dois vraiment avoir bien usé cet orteil muté sur Frank Horrigan !}
-
-# 15. CLICK (ANY) TO [POWER ARMOR) (WTG)
 {510}{}{Tu cherches ton frère Robby ? Tu sais, le Robot ? Rho, laisse tomber.}
 {511}{}{Pardon, j'étais sur votre passage ? Je vais quitter la ville.}
 {512}{}{Pardon, j'ai respiré votre air ? Je vais arrêter.}
@@ -289,8 +258,6 @@
 {523}{}{On dirait que tu partais à un cosplay de jeux vidéo avec des Mechas et que tu t'es perdu.}
 {524}{}{Ouais ouais, "clank-krrrrr-clank" à toi aussi.}
 {525}{}{Si tu penses que cette armure m'intimides, ben t'as raison.}
-
-# 16. CLICK (MALE) TO [FEMALE, PORN STAR] (WTG)
 {540}{}{Tu as quelque chose à vendre ?}
 {541}{}{Puis-je acheter tes vêtements ? Je veux dire, tout de suite ?}
 {542}{}{Je SAVAIS que j'aurais dû me raser aujourd'hui.}
@@ -313,8 +280,6 @@
 {559}{}{Jolis nibards !}
 {560}{}{Matte un peu ces pare-chocs.}
 {561}{}{Je parie qu'elle a des problèmes de dos.}
-
-# 17. CLICK (ANY) TO [MALE, MADE MAN) (WTG)
 {580}{}{Bonjour monsieur. Comment allez-vous ?}
 {581}{}{Tout va bien, monsieur ?}
 {582}{}{Pardon, j'étais sur votre passage ? Je vais quitter la ville.}
@@ -323,8 +288,6 @@
 {585}{}{Ecoute... Je veux pas d'ennuis.}
 {586}{}{Bonjour madame. Comment allez-vous ?}
 {587}{}{Tout va bien, madame ?}
-
-# 18. CLICK (ANY) TO [SLAVER] (WTG)
 {600}{}{Il y a plus d'esclavagistes en ville, récemment...}
 {601}{}{Je ne t'avais jamais vu avant...}
 {602}{}{Si tu cherches à vendre des esclaves, essaie les Mordino.}
@@ -353,7 +316,7 @@
 {625}{}{La chance est contre moi.}
 {626}{}{J'suis content de savoir qu'ils ont foutu ce mec au pilori.}
 {627}{}{Crasseux puant...}
-{628}{}{Qu'est-ce que tu veux ?}
+{628}{}{Que veux-tu ?}
 {629}{}{Pas de bol, vent contraire, pas de bons moments, vraiment pas...}
 {630}{}{L'atmosphère se réchauffe à Reno, c'est le moment de se tirer.}
 {631}{}{Cette fille des Bishop est hors de contrôle.}
@@ -362,16 +325,14 @@
 {634}{}{Faut que je me tire de cette ville.}
 {635}{}{J'ai vu un autre mec en pleine overdose ce matin. Les mouches se promenaient sur sa bouche. Et il SOURIAIT !}
 {636}{}{J'ai essayé d'arrêter, mais bon...}
-{637}{}{Arrête de m'ennuyer.}
+{637}{}{Arrête de m'embêter !}
 {638}{}{Ecoute, j'ai pas le temps de te parler maintenant.}
-
-# 19. CLICK (ANY) TO [COMPANION: BONE-NOSE] OR MALE TOWNSPERSON TO (COMPANION: SPOUSE = FEMALE) (WTG)
 {650}{}{Ton ami a un os planté dans le nez.}
 {651}{}{Est-ce que tout le monde dans sa bande doit se percer le nez avec un os pour faire ses preuves ?}
 {652}{}{Ce taré fait partie de la tribu "un-bâton-dans-le-nez-nous-fait-bander" ?}
 {653}{}{Ce fou avec un os dans le nez prouve bien que les tribals ne seront jamais civilisés.}
 {654}{}{Ce fou a un os planté dans le nez ?}
-{655}{}{Ce taré a un os de la taille de son bras planté dans le nez. Pfff.}
+{655}{}{Ce gars a un os dans le nez aussi gros que mon bras. Nom d'un chien.}
 {656}{}{Je n'veux même pas savoir comment ton pote s'est retrouvé avec cet os dans le pif.}
 {657}{}{Je déteste cette putain de ville.}
 {658}{}{Je suis dans cette ville depuis trop longtemps.}
@@ -395,7 +356,7 @@
 {676}{}{La chance est contre moi.}
 {677}{}{J'suis content de savoir qu'ils ont foutu ce mec au pilori.}
 {678}{}{Crasseux puant...}
-{679}{}{Qu'est-ce que tu veux ?}
+{679}{}{Que veux-tu ?}
 {680}{}{Pas de bol, vent contraire, pas de bons moments, vraiment pas...}
 {681}{}{L'atmosphère se réchauffe à Reno, c'est le moment de se tirer.}
 {682}{}{Cette fille des Bishop est hors de contrôle.}
@@ -404,7 +365,7 @@
 {685}{}{Faut que je me tire de cette ville.}
 {686}{}{J'ai vu un autre mec en pleine overdose ce matin. Les mouches se promenaient sur sa bouche. Et il SOURIAIT !}
 {687}{}{J'ai essayé d'arrêter, mais bon...}
-{688}{}{Arrête de m'ennuyer.}
+{688}{}{Arrête de m'embêter !}
 {689}{}{Ecoute, j'ai pas le temps de te parler maintenant.}
 {690}{}{C'est ta "femme" hein ? J'peux te l'emprunter une heure ou deux.}
 {691}{}{On échange nos femmes un moment ?}
@@ -414,8 +375,6 @@
 {695}{}{Est-ce que cette femme sait cuisiner ? Si oui, je la prends.}
 {696}{}{Combien pour ce canon qui est avec toi ?}
 {697}{}{La fille de Mme Bishop a un beau cul.}
-
-# 20. CLICK (ANY) TO [NO REP] (WTG)
 {700}{}{Il va y avoir de l'action ce soir !}
 {701}{}{Trouves-toi une pute, prends du bon temps.}
 {702}{}{La fille de Mme Bishop a un beau cul.}
@@ -441,7 +400,7 @@
 {722}{}{La chance est contre moi.}
 {723}{}{J'suis content de savoir qu'ils ont foutu ce mec au pilori.}
 {724}{}{Crasseux puant...}
-{725}{}{Qu'est-ce que tu veux ?}
+{725}{}{Que veux-tu ?}
 {726}{}{Pas de bol, vent contraire, pas de bons moments, vraiment pas...}
 {727}{}{L'atmosphère se réchauffe à Reno, c'est le moment de se tirer.}
 {728}{}{Cette fille des Bishop est hors de contrôle.}
@@ -450,12 +409,10 @@
 {731}{}{Faut que je me tire de cette ville.}
 {732}{}{J'ai vu un autre mec en pleine overdose ce matin. Les mouches se promenaient sur sa bouche. Et il SOURIAIT !}
 {733}{}{J'ai essayé d'arrêter, mais bon...}
-{734}{}{Arrête de m'ennuyer.}
+{734}{}{Arrête de m'embêter !}
 {735}{}{Ecoute, j'ai pas le temps de te parler maintenant.}
 {736}{}{Je pourrais aller au centre-ville, voir si de nouveaux hommes sont arrivés... }
 {737}{}{J'suis content de savoir qu'ils ont foutu cet enfoiré au pilori.}
-
-# endlines
 {1203}{}{ !}
 {1204}{}{ ! Tu troues l'cul ! Tu troues l'CUL !}
 {1205}{}{ ! T'es trop ENORME !!}

@@ -1,20 +1,13 @@
-# quick look
 {100}{}{Du siehst einen Wissenschaftler.}
-
-# examines
 {150}{}{Du siehst einen ernsten Mann mit einem Klemmbrett und einer Spritze. Er ignoriert dich.}
 {151}{}{Er sieht äußerst müde und reizbar aus.}
 {152}{}{Du siehst eine müde aussehende Frau. Sie überprüft etwas auf einem Block und sieht sich um, als habe sie etwas vergessen.}
 {153}{}{Sie zieht eine Spritze auf und brummelt dabei vor sich hin.}
-
-# FLOAT
-# (COMPANION = MYRON)
 {154}{}{Hallo Myron.}
 {155}{}{Myron, hast du mal eine Minute Zeit...?}
 {156}{}{Weiß man inzwischen, wann die neuen Sklaven geliefert werden, Myron?}
 {157}{}{Myron, diese neuen Ergebnisse sind sehr vielversprechend...}
 {158}{}{Myron? Hast du mal eine Minute Zeit?}
-# (NORMAL)
 {159}{}{Wo zum Teufel steckt Myron schon wieder...}
 {160}{}{Hol Myron rauf. Er muß das hier sehen.}
 {161}{}{Wenn diese Sklaven doch nur die Klappe halten würden...}
@@ -22,15 +15,12 @@
 {163}{}{Hat jemand Testobjekt Nr. 31 gesehen? Er war vor einer Sekunde noch hier.}
 {164}{}{Laß die Sklaven mehr von dem Jet-Beta bringen.}
 {165}{}{Die Testergebnisse von Jet-Beta sind sehr vielversprechend, aber...}
-{166}{}{"Hoch" dauert zwischen 15 Minuten und einer Stunde...sagen wir eine Dosis pro Stunde...hmmmmnnn.}
+{166}{}{"Hoch" dauert zwischen 15 Minuten und einer Stunde... sagen wir eine Dosis pro Stunde... hmmmmnnn.}
 {167}{}{Testobjekt 12 hat immer noch Blutungen in der Lunge...}
 {168}{}{Jetzt hat Testobjekt Nr. 12 schon zum fünften Mal Krämpfe...erhöhen wir mal die Dosis und warten ab, was dann passiert...}
 {169}{}{Hmm, und welche ART von Halluzinationen hatte er?}
 {170}{}{Miß hier mal den Puls. Wenn sich der Wert immer noch in Grenzen hält, erhöhen wir die Dosis.}
 {171}{}{Warum hat sich die Sklavin in der Kontrollgruppe umgebracht? Wir haben sie doch gar nicht getestet!}
-
-# CLICK
-# (COMPANION = MYRON)
 {200}{}{Die Tests verlaufen ganz nach Plan, Myron.}
 {201}{}{Myron, diese neue Jet-Art stellt ein extremes Verlangen her. Die Sklaven bringen sich deswegen schon fast gegenseitig um.}
 {202}{}{Die Sklaven würden lieber Jet nehmen als zu essen, so wirksam ist es.}
@@ -43,7 +33,6 @@
 {209}{}{Myron, wir haben wegen der Atmungsaussetzungen von letzter Woche drei Sklaven aus der Kontrollgruppe in die Testgruppe verlegt.}
 {210}{}{Myron...wir mußten einen Sklaven erschießen, weil er fliehen wollte. Was für eine Verschwendung.}
 {211}{}{Myron, das neuentwickelte milde Halluzinogen ist sehr vielversprechend, stellt aber nicht so einen Drang her wie Jet...}
-# NORMAL
 {212}{}{Wenn du irgendwelche Vorschläge hast, schreib sie bitte auf ein Stück Papier und wirf es dann gleich in den Papierkorb da drüben.}
 {213}{}{Ja, ja, was?}
 {214}{}{Wie sollen wir denn Ergebnisse produzieren, wenn du uns ständig störst?}

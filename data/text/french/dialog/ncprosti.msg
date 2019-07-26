@@ -1,7 +1,4 @@
-# QUICK LOOk
 {100}{}{Tu vois une prostituée.}
-
-# EXAMINE
 {150}{}{Tu vois une... femme de la nuit. Ses vêtements déchirés enserrent son corps de manière provocante.}
 {151}{}{Tu vois une prostituée. Elle te fait un clin d'oeil.}
 {152}{}{Tu vois une prostituée. Ses yeux te font penser à des fusibles qui ont sauté.}
@@ -11,22 +8,16 @@
 {156}{}{Tu vois une prostituée. On dirait qu'elle tue et mange ses partenaires.}
 {157}{}{Tu vois une prostituée. Elle t'évalue avec beaucoup d'attention.}
 {158}{}{Tu vois une prostituée. Ses vêtements déchirés enserrent son corps de manière provocante.}
-
-# 1. [MALE, ENCLAVE DESTROYED]
-{175}{}{Bon sang... c'est lui.}
-{176}{}{T'es vraiment le meilleur du monde.}
-{177}{}{::En extase::}
-{178}{}{Yeah, }
-{179}{}{::Applaudit::}
-{180}{}{::Crie de joie::}
-{181}{}{Bon sang... c'est elle.}
-{182}{}{T'es trop forte, chérie !}
-{183}{}{::Met le pouce en l'air en signe de victoire::}
-
-# 2. [POWER ARMOR]
+{175}{}{Oh my... it's him.}
+{176}{}{Tu es le plus grand tombeur au monde.}
+{177}{}{Vas-y, ma fille !}
+{178}{}{Ouais, }
+{179}{}{::Applaudissements::}
+{180}{}{::Acclamations::}
+{181}{}{Oh my... it's her.}
+{182}{}{Bravo, ma belle !}
+{183}{}{::Lève le pouce et te fait signe::}
 {190}{}{Tu n'auras jamais assez de fric pour m'avoir avec toi dans ce TRUC.}
-
-# 3. [MALE, PORN STAR]
 {195}{}{Par ici, }
 {196}{}{Regardez ! C'est lui !}
 {197}{}{Hé, }
@@ -34,18 +25,16 @@
 {199}{}{Quand sors-tu ton prochain film ?}
 {200}{}{Mmmm-mmmm. Vas-y, bébé.}
 {201}{}{En quoi pourrais-je t'aider, Bête de sexe ?}
-{202}{}{Oups. J'ai fait tomber quelque chose dans ton pantalon. Attends que je le récupère.}
-{203}{}{Je t'ai adoré dans Gros Calibre à Vendre.}
-{204}{}{Je t'ai adoré dans Good Will Humping.}
+{202}{}{Ouuups. J'ai laissé tomber quelque chose dans ton futal. Laisse-moi aller le récupérer.}
+{203}{}{Je t'ai adoré dans "Tant qu'il y aura des couilles".}
+{204}{}{Je t'ai adoré dans "Blanche-Fesse et les 7 mains".}
 {205}{}{Je t'ai adoré dans l'Abri Numéro Sex.}
-{206}{}{T'étais génial dans Poker hot ass.}
+{206}{}{Je t'ai adoré dans "Les Sex Mercenaires".}
 {207}{}{Mmmmm-mmmm. Comment fais-tu pour rester en forme ?}
-{208}{}{Je peux avoir un autographe ? Sur ma poitrine ?}
+{208}{}{Je peux avoir un autographe ? Sur la poitrine ?}
 {209}{}{Je pourrais jouer dans ton prochain film ?}
 {210}{}{Je ne simulerai jamais pour TOI, }
 {211}{}{Je me sens... faible. Je ne... vais pas... tenir... longtemps. Je dois... coucher avec... toi...}
-
-# 4. [PORN STAR, FEMALE]
 {212}{}{Ce n'est pas une star, c'est juste une merde de tribal.}
 {213}{}{Je n'avais pas réalisé qu'ils autorisaient les stars du X à devenir AUSSI grosses...}
 {214}{}{Elle est trop laide.}
@@ -86,15 +75,13 @@
 {249}{}{Je ne vois vraiment pas ce que les frères Corses ont VU en toi...}
 {250}{}{T'es aussi talentueuse qu'une pierre et tu es deux fois plus moche.}
 {251}{}{Je ne parle pas aux traînées dans ton genre.}
-
-# 5. [MALE, PRIZEFIGHTER]
 {252}{}{Regarde-moi ces muscles ! Je suis toute faible à côté...}
 {253}{}{Nom d'un chien !}
 {254}{}{::Siffle::}
-{255}{}{Il est monté comme un tank. Regarde-moi cette montagne.}
+{255}{}{Il est monté comme un taureau. Regarde un peu cette masse.}
 {256}{}{Regardez-moi ce tas de muscles...}
 {257}{}{Il est à moi...}
-{258}{}{::Soupir::}
+{258}{}{::Soupire::}
 {259}{}{Wha le grand méchant.}
 {260}{}{Ce mec est impressionnant.}
 {261}{}{Si ce n'était pas le Roi du Ring...}
@@ -102,29 +89,25 @@
 {263}{}{Regarde ! C'est }
 {264}{}{}
 {265}{}{Il y a des ENNUIS dans lesquels j'aimerais me retrouver maintenant.}
-{266}{}{Tu veux sauter dans le ring avec moi, champion ?}
+{266}{}{Tu veux sauter le pas avec moi, champion ?}
 {267}{}{Tu veux boxer, champion ?}
 {268}{}{Comment ça va , }
 {269}{}{Tu me cherchais ?}
-{270}{}{Pourquoi ne viens-tu pas plus souvent ?}
+{270}{}{Pourquoi ne viens-tu pas plus souvent par ici ?}
 {271}{}{J'ai des intentions que tu pourrais combler.}
-{272}{}{Tu cherches de la compagnie, }
+{272}{}{Besoin de compagnie, }
 {273}{}{Wha le grand méchant.}
 {274}{}{Tu m'impressionnes, tu sais ?}
-{275}{}{Belle unité que tu possèdes là.}
-{276}{}{Tu cherches quelqu'un pour s'occuper de toi, champion ?}
-{277}{}{Hé... Fais gaffe au Mastiquateur. C'est un vrai con. Il a essayé de me mordre une oreille une fois.}
-
-# 6. [FEMALE, PRIZEFIGHTER]
+{275}{}{Belle unité que tu as là.}
+{276}{}{Besoin que quelqu'un prenne soin de ça pour toi champion ?}
+{277}{}{Hé... Fais attention au Mastiquateur. C'est un vrai connard. Il a déjà essayé de me mordre l'oreille une fois.}
 {278}{}{Regarde ! C'est }
-{279}{}{Tu cherches de la compagnie, }
+{279}{}{Besoin de compagnie, }
 {280}{}{}
 {281}{}{Whaa la grande méchante. J'aimerais pouvoir botter le cul des mecs comme elle.}
 {282}{}{En voilà une femme solide.}
 {283}{}{Elle est trop... ::Frissonne:: ... dangereuse.}
-{284}{}{Elle est plutôt sexy.}
-
-# 7. [MADE MAN]
+{284}{}{Elle est bien gaulée.}
 {285}{}{Oh mon dieu... C'est lui.}
 {286}{}{Il est trop... ::Frissonne:: ... dangereux.}
 {287}{}{Nom d'un chien !}
@@ -133,15 +116,13 @@
 {290}{}{Ce mec est impressionnant.}
 {291}{}{Il a du répondant, ça c'est sûr.}
 {292}{}{Saluuuuut, }
-{293}{}{Tu cherches de la compagnie, }
+{293}{}{Besoin de compagnie, }
 {294}{}{}
 {295}{}{Oh mon dieu... C'est elle. }
 {296}{}{Wha la grande méchante.}
 {297}{}{En voilà une chienne solide...}
 {298}{}{Elle est trop... ::Frissonne:: ... dangereuse.}
-{299}{}{Elle est plutôt sexy.}
-
-# 8. [SLAVER]
+{299}{}{Elle est bien gaulée.}
 {300}{}{Je m'appelle Libertine, esclavagiste. Et toi ?}
 {301}{}{Hé, esclavagiste, tu cherches de la compagnie ?}
 {302}{}{Laisse-moi t'apprendre quelques trucs que seule une nana peut t'apprendre.}
@@ -149,7 +130,7 @@
 {304}{}{C'est plein de trucs chauds par ici, l'esclavagiste.}
 {305}{}{Méchant petit cobra fourchu que voilà.}
 {306}{}{Tu cherches un peu d'action ?}
-{307}{}{Esclavagiste, tu ne connaîtras jamais l'amour si tu ne connais pas l'amour de New Reno.}
+{307}{}{Esclavagiste, tu sais pas c'que c'est qu'l'amour tant qu't'as pas eu l'amour à Reno.}
 {308}{}{Tu cherches un rendez-vous ?}
 {309}{}{J'ai entendu dire qu'il y a eu du grabuge dans la rue Commerciale...}
 {310}{}{Tu cherches de la compagnie ?}
@@ -161,16 +142,16 @@
 {316}{}{Tu veux jouer au maître et à l'esclave ?}
 {317}{}{Bel engin.}
 {318}{}{Laisse-moi te réconforter, mon petit clown triste.}
-{319}{}{T'as perdu ton chemin, l'esclavagiste ?}
+{319}{}{T'as perdu ton chemin, esclavagiste ?}
 {320}{}{T'as un fusil à décharger, l'esclavagiste ?}
-{321}{}{Ce mec peut faire fondre du métal.}
+{321}{}{Ce mec pourrait faire fondre du métal.}
 {322}{}{Myron ? Je le toucherai pas pour un million de jetons. Peut-être deux millions.}
 {323}{}{Tu cherches à passer un bon moment l'esclavagiste ?}
 {324}{}{J'aime bien le look de ton gecko, l'esclavagiste.}
 {325}{}{C'est un gecko dans ta poche ?}
 {326}{}{Salut à toi, l'esclavagiste.}
-{327}{}{Tu as besoin d'un rendez-vous, l'esclavagiste ?}
-{328}{}{Où est passé ton feu, l'esclavagiste ?}
+{327}{}{Besoin d'un rendez-vous, l'esclavagiste ?}
+{328}{}{J'embrasse pas. C'est la règle.}
 {329}{}{Mon enfant, laisse-moi faire de toi un homme.}
 {330}{}{Tu veux jouer au maître et à l'esclave ?}
 {331}{}{Tu veux jouer aux Griffemorts pendant la saison des accouplements ?}
@@ -186,10 +167,10 @@
 {341}{}{Myron : pas de moustache sur le cigare.}
 {342}{}{Myron est une vraie tornade...}
 {343}{}{AC-DC, B et D, comme tu veux.}
-{344}{}{Qu'attend-il de moi, une révérence ?}
+{344}{}{Qu'attend-t-il de moi, une révérence ?}
 {345}{}{T'as besoin de quelqu'un qui tire sur sa laisse, esclavagiste ?}
 {346}{}{Myron vient toujours par ici...}
-{347}{}{Cette fille Bishop est une vraie chaude.}
+{347}{}{La fille Bishop est une vraie chaudasse.}
 {348}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
 {349}{}{L'action réchauffe au Cat's Paw...}
 {350}{}{J'ai fait un vrai marathon pour m'enfuir loin de Myron l'autre soir.}
@@ -201,21 +182,21 @@
 {356}{}{::Sifflements::}
 {357}{}{Tu vas rester à New Reno longtemps ?}
 {358}{}{Je déteste le jeu du foulard.}
-{359}{}{Pourquoi ne m'emmènerais-tu pas dans ta cage, l'esclavagiste ?}
+{359}{}{Pourquoi tu ne m'emmènerais pas dans ta cage, l'esclavagiste ?}
 {360}{}{Ca ne te coûte que quelques jetons pour attirer mon attention.}
 {361}{}{Pure baise de Reno, juste là.}
 {362}{}{Je te donnerai de quoi jouer.}
 {363}{}{Je suis l'Epice Enivrante.}
 {364}{}{Je suis l'Epice faite Maison.}
-{365}{}{Je suis l'Epice Chaleureuse.}
-{366}{}{Je suis la Vieille Epice.}
-{367}{}{Je suis le Pain d'é... euh, l'Epice Chaleureuse.}
+{365}{}{Je suis la Vieille Epice.}
+{366}{}{Je suis l'Epice Chaleureuse.}
+{367}{}{Je suis le Pain d'é... Euh, l'Epice Chaleureuse.}
 {368}{}{Je suis l'Epice Salace.}
 {369}{}{Les mecs dans la poussière, c'est ça que je veux.}
 {370}{}{J'ai une amie si tu veux faire un trio, l'esclavagiste.}
 {371}{}{J'aimerais que Myron soit gay.}
 {372}{}{Du sang neuf en ville...}
-{373}{}{Je comprends toujours pas pourquoi ils l'appellent la Rue de la Vierge...}
+{373}{}{Je comprends toujours pas pourquoi il l'appellent la Rue de la Vierge...}
 {374}{}{Saurais-tu marteler à travers un panneau en bois avec ton pénis ?}
 {375}{}{J'aimerais qu'ils se mettent un sac de papier sur la tronche parfois...}
 {376}{}{Tu paies un verre à une fille, l'esclavagiste ?}
@@ -230,7 +211,7 @@
 {385}{}{J'suis à plat depuis la dernière convention...}
 {386}{}{J'aimerais que la convention des esclavagistes se fasse dans une autre ville.}
 {387}{}{J'ai eu l'impression que la Terre bougeait, mais c'était juste le chili.}
-{388}{}{Ca me fait fondre...}
+{388}{}{Ca me fait fondre.}
 {389}{}{Si tu continues tu vas exploser...}
 {390}{}{Je vais prendre soin de toi, l'esclavagiste.}
 {391}{}{Je suis une vierge. C'est juste que je suis pas très forte pour ça.}
@@ -238,18 +219,18 @@
 {393}{}{Hé l'esclavagiste ! Tu cherches un guide ?}
 {394}{}{Jules arrête pas de demander des coups gratos.}
 {395}{}{Tu veux que ta cage soit nettoyée, l'esclavagiste ?}
-{396}{}{J'ai entendu dire que les familles sont redevenues nerveuses.}
+{396}{}{J'ai entendu dire que les familles redevenues nerveuses.}
 {397}{}{Les choses sont plutôt lentes. J'aimerais que cette caravane arrive vite.}
 {398}{}{Donc, il s'est habillé avec son costume de Griffemort, et...}
 {399}{}{J'ai besoin d'aide pour sortir de cette robe.}
 {400}{}{Tu peux me fermer la robe ? Puis la ré-ouvrir ?}
 {401}{}{<Mmm-mmm> On dirait que c'est la saison des accouplements.}
 {402}{}{Tu cherches une amie ?}
-{403}{}{J'ai mis un coup de pied dans les burnes de Jules la semaine dernière.}
+{403}{}{J'ai frappé Jules dans les bijoux de famille la semaine dernière.}
 {404}{}{Tu veux allez faire un tour au *centre-ville*, l'esclavagiste ?}
 {405}{}{On m'appelle pas Dame Lachance pour rien.}
 {406}{}{J'adore ces préservatifs au parfum de Brahmine.}
-{407}{}{Tu montres à une dame comment on prend du bon temps ?}
+{407}{}{Tu montres à une dame comment on prend du bon temps, l'esclavagiste ?}
 {408}{}{Myron continue à m'agacer. Au moins son ARGENT est bon.}
 {409}{}{Tout ce dont tu as rêvé est ici.}
 {410}{}{Tu cherches le Jardin d'Eden ? Viens dans ma chambre.}
@@ -258,9 +239,9 @@
 {413}{}{Je suis vierge, mais j'ai besoin d'argent.}
 {414}{}{Va doucement, c'est ma première fois... de la journée.}
 {415}{}{Je suis trop bandante.}
-{416}{}{Tu as l'envie, j'en ai les moyens.}
+{416}{}{Tu cherches quelque chose, j'ai tout ce qu'il te faut.}
 {417}{}{Laisse-moi éveiller l'enfant qui est en toi.}
-{418}{}{Tu danses, mon coeur ?}
+{418}{}{Je fait ça pour payer mes études.}
 {419}{}{Tu as une requête spéciale à faire ?}
 {420}{}{Tu veux me faire gémir ?}
 {421}{}{::Ronronnement::}
@@ -269,7 +250,7 @@
 {424}{}{On se met ensemble ?}
 {425}{}{Je suis pas gratuite, mais je suis spéciale.}
 {426}{}{Si je t'attache, ça coûte plus cher.}
-{427}{}{Où ai-je laissé mon fouet ?}
+{427}{}{Où ai-je laisser mon fouet ?}
 {428}{}{Prêt tel un Siffredi.}
 {429}{}{J'ai du m'habiller comme WILMA l'autre jour, bordel de merde.}
 {430}{}{J'étais avec Myron, la nuit dernière. Pendant 5 secondes environ.}
@@ -286,8 +267,8 @@
 {441}{}{Eh bien. Regardez qui est arrivé en ville...}
 {442}{}{Tu ressembles à quelqu'un qui brûle d'impatience.}
 {443}{}{Oh mon dieu ! Un touriste !}
-{444}{}{Les morsures sont en extra.}
-{445}{}{Je m'appelle Libertine, l'esclavagiste. Et toi ?}
+{444}{}{Les morsures, c'est plus cher.}
+{445}{}{Je m'appelle Libertine. Et toi, l'esclavagiste ?}
 {446}{}{Hé, l'esclavagiste. Tu cherches une autre nana ?}
 {447}{}{Tu cherches à goûter les plaisirs de l'autre bord, chérie ?}
 {448}{}{Tu cherches une *esclave* pour la soirée, l'esclavagiste ?}
@@ -297,17 +278,15 @@
 {452}{}{L'esclavagiste, tu sais pas c'que c'est qu'l'amour tant qu't'as pas eu l'amour à Reno.}
 {453}{}{Tu veux planer, l'esclavagiste ?}
 {454}{}{T'as perdu ton chemin, l'esclavagiste ?}
-{455}{}{Tu veux du bon temps, l'esclavagiste ?}
+{455}{}{Tu cherches un peu de bon temps, l'esclavagiste ?}
 {456}{}{Je savais pas qu'il y avait des nanas dans la Guilde des Esclavagistes...}
 {457}{}{Où est ton feu, l'esclavagiste ?}
 {458}{}{Cette esclavagiste est plutôt sexy.}
 {459}{}{Cette esclavagiste me fait monter le compteur Geiger.}
-
-# 9. (ANY) TO [COMPANION: ROBOBRAIN AND/OR MARCUS]
-{460}{}{Je te garantis que je suis meilleure au pieu que ce robot qui te suit.}
+{460}{}{I guarantee I'm better in the sack than that robot following you around.}
 {461}{}{Ce robot possède-t-il TOUTES les fonctions ?}
-{462}{}{C'est une sorte de machine à sous qui te suit partout ?}
-{463}{}{C'est une sorte de robot-machine-à-sous ?}
+{462}{}{C'est une sorte de machine à sous, ce truc qui te suit ?}
+{463}{}{C'est une machine à sous robotique ?}
 {464}{}{Ton robot fait-il des tours ? Euh... Des tours de magie, j'veux dire.}
 {465}{}{Dis-moi que ce n'est pas un mutant.}
 {466}{}{Pour ce mutant ce sera plus cher. BEAUCOUP plus cher.}
@@ -315,8 +294,6 @@
 {468}{}{Ce mutant est un sacré gaillard.}
 {469}{}{On dirait que ce mutant pourrait m'écraser avec une seule main. Hmmmnnn.}
 {470}{}{Je voudrais pas savoir comment on s'occupe d'un mutant.}
-
-# 10. [COMPANION: MYRON]
 {471}{}{Hé, Myron !}
 {472}{}{Myron ! Mon petit sucre ! Quand vas-tu revenir voir ta vieille amie ?}
 {473}{}{My-ron. Myyyyyy-ron.}
@@ -329,13 +306,11 @@
 {480}{}{Peux-tu m'avoir un peu de Jet, Myron ?}
 {481}{}{Quand pourras-tu m'amener du Jet, Myron ?}
 {482}{}{Peux-tu m'aider à planer, Myron ?}
-
-# 11. [PLAYER IS MALE] + [COMPANION: BONE-NOSE]
 {483}{}{Je m'appelle Libertine. Et toi ?}
-{484}{}{Tu cherches de la compagnie ?}
+{484}{}{Besoin de compagnie ?}
 {485}{}{Laisse-moi t'apprendre quelques trucs que seule une nana peut t'apprendre.}
 {486}{}{Tu as besoin de quelqu'un pour réchauffer ta tente ?}
-{487}{}{Tu cherches quelqu'un pour partager ton sac de couchage ?}
+{487}{}{Besoin de quelqu'un pour partager ton matelas ?}
 {488}{}{C'est plein de trucs chauds par ici, mon pote.}
 {489}{}{Méchant petit cobra fourchu que voilà.}
 {490}{}{Tu cherches un peu d'action ?}
@@ -354,23 +329,23 @@
 {503}{}{Bel engin.}
 {504}{}{Laisse-moi te réconforter, mon petit clown triste.}
 {505}{}{T'as perdu ton chemin, cowboy ?}
-{506}{}{T'as un fusil à décharger ?}
+{506}{}{T'as un fusil à décharger, soldat ?}
 {507}{}{Ce mec pourrait faire fondre du métal.}
 {508}{}{Il y a trop de zonards dans cette ville, pas assez de jetons pour aller ailleurs.}
 {509}{}{Je me balade dans cette rue depuis hier soir...}
 {510}{}{T'as besoin d'une amie pour la soirée ? Ou pour dix minutes ?}
-{511}{}{Tu cherches à passer un bon moment ?}
-{512}{}{Tu veux aller dans le centre ?}
+{511}{}{Tu veux passer un bon moment ?}
+{512}{}{Tu veux aller au centre ?}
 {513}{}{J'aime bien le look de ton gecko.}
 {514}{}{C'est un gecko dans ta poche ?}
 {515}{}{Tu as besoin d'un guide en ville, mon lapin ?}
-{516}{}{J'embrasse pas. C'est la règle.}
+{516}{}{J'aimerais qu'ils sortent de l'huile pour le corps avec l'odeur du Jet...}
 {517}{}{Mon enfant, laisse-moi faire de toi un homme.}
 {518}{}{Parfois, la façon dont les femmes sont vues dans cette ville me choque.}
 {519}{}{Tu veux jouer aux Griffemorts pendant la saison des accouplements ?}
 {520}{}{Tu vas déclencher mon compteur Geiger si tu continues comme ça.}
-{521}{}{Si tu veux que je reste réveillée après, c'est plus cher.}
-{522}{}{Y a-t-il quelque chose que je peux faire pour toi, étranger ?}
+{521}{}{Si je dois te parler après, c'est plus cher.}
+{522}{}{Je peux faire quelque chose pour toi, étranger ?}
 {523}{}{Tu sais pas c'que c'est qu'l'amour tant qu't'as pas eu l'amour à Reno.}
 {524}{}{Ton ami avec son os dans le nez... Beau costume.}
 {525}{}{Ton ami avec l'os fait-il des tours de passe-passe avec son nez ou dans le genre ?}
@@ -386,7 +361,7 @@
 {535}{}{Myron : pas de moustache sur le cigare.}
 {536}{}{Myron est une vraie tornade.}
 {537}{}{AC-DC, B et D, comme tu veux.}
-{538}{}{Qu'attend-il de moi, une révérence ?}
+{538}{}{Qu'attend-t-il de moi, une révérence ?}
 {539}{}{J'arrête pas de penser que le panneau de Reno va tomber un de ces 4...}
 {540}{}{La fille Bishop est une vraie chaudasse.}
 {541}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
@@ -399,25 +374,25 @@
 {548}{}{::Sifflements::}
 {549}{}{Je déteste le jeu du foulard.}
 {550}{}{Prends les paris sur moi, mon lapin.}
-{551}{}{Tu veux du bon temps ?}
+{551}{}{Tu veux passer un bon moment ?}
 {552}{}{Pure baise de Reno, juste là.}
 {553}{}{Je te donnerai de quoi jouer.}
 {554}{}{Je suis l'Epice Enivrante.}
 {555}{}{Je suis l'Epice faite Maison.}
-{556}{}{Je suis l'Epice Chaleureuse.}
-{557}{}{Je suis la Vieille Epice.}
+{556}{}{Je suis la Vieille Epice.}
+{557}{}{Je suis l'Epice Chaleureuse.}
 {558}{}{Je suis le Pain d'é... Euh, l'Epice Chaleureuse.}
 {559}{}{Je suis l'Epice Salace.}
 {560}{}{Les mecs dans la poussière, c'est ça que je veux.}
 {561}{}{J'ai une amie si tu veux faire un trio.}
 {562}{}{J'aimerais que Myron soit gay.}
 {563}{}{Du sang neuf en ville...}
-{564}{}{Je comprends toujours pas pourquoi ils l'appellent la Rue de la Vierge...}
+{564}{}{Je comprends toujours pas pourquoi il l'appellent la Rue de la Vierge...}
 {565}{}{J'aimerais qu'ils se mettent un sac de papier sur la tronche parfois...}
 {566}{}{Tu paies un verre à une fille ?}
 {567}{}{T'emmènes une dame esseulée en ville ?}
 {568}{}{Oh mon dieu ! Un touriste !}
-{569}{}{Viens par ici, le spectacle va bientôt commencer...}
+{569}{}{Viens par ici, l'esclavagiste, le spectacle va bientôt commencer...}
 {570}{}{J'ai entendu dire que certaines filles en ville ont tué leur mac.}
 {571}{}{Saluuut, étranger.}
 {572}{}{Ce Jules ferait bien de me lâcher un peu.}
@@ -426,20 +401,20 @@
 {575}{}{J'aimerais que ces tribals aillent dans une autre ville.}
 {576}{}{J'ai eu l'impression que la Terre bougeait, mais c'était juste le chili.}
 {577}{}{Ca me fait fondre.}
-{578}{}{Si tu continues tu va exploser...}
+{578}{}{Si tu continues tu vas exploser...}
 {579}{}{Ces néons qui clignotent vont me rendre dingue...}
 {580}{}{Je suis une vierge. C'est juste que je suis pas très forte pour ça.}
 {581}{}{Et dire que je suis venu de la Fosse pour ça...}
 {582}{}{Hé étranger ! Besoin d'un guide ?}
 {583}{}{Jules arrête pas de demander des coups gratos.}
-{584}{}{J'ai entendu dire que les familles redeviennent nerveuses.}
+{584}{}{J'ai entendu dire que les familles redevenues nerveuses.}
 {585}{}{Les choses sont plutôt lentes. J'aimerais que cette caravane arrive vite.}
 {586}{}{Donc, il s'est habillé avec son costume de Griffemort, et...}
 {587}{}{J'ai besoin d'aide pour sortir de cette robe.}
 {588}{}{Tu peux me fermer la robe ? Puis la ré-ouvrir ?}
 {589}{}{<Mmm-mmm> On dirait que c'est la saison des accouplements.}
-{590}{}{Tu veux prendre un peu de bon temps ?}
-{591}{}{J'ai mis un coup de pied dans les burnes de Jules la semaine dernière.}
+{590}{}{Tu veux perdre un peu de ton temps ?}
+{591}{}{J'ai frappé Jules dans les bijoux de famille la semaine dernière.}
 {592}{}{On m'appelle pas Dame Lachance pour rien.}
 {593}{}{J'adore ces préservatifs au parfum de Brahmine.}
 {594}{}{Tu montres à une dame comment on prend du bon temps ?}
@@ -454,9 +429,9 @@
 {603}{}{Je suis vierge, mais j'ai besoin d'argent.}
 {604}{}{Va doucement, c'est ma première fois... de la journée.}
 {605}{}{Je suis trop bandante.}
-{606}{}{Tu as l'envie, j'en ai les moyens.}
+{606}{}{Tu cherches quelque chose, j'ai tout ce qu'il te faut.}
 {607}{}{Laisse-moi éveiller l'enfant qui est en toi.}
-{608}{}{Tu danses, mon coeur ?}
+{608}{}{Je fait ça pour payer mes études.}
 {609}{}{Tu as une requête spéciale à faire ?}
 {610}{}{Tu veux me faire gémir ?}
 {611}{}{::Ronronnement::}
@@ -465,19 +440,19 @@
 {614}{}{Je suis là depuis la nuit dernière...}
 {615}{}{Je suis pas gratuite, mais je suis spéciale.}
 {616}{}{Si je t'attache, ça coûte plus cher.}
-{617}{}{Où ai-je laissé mon fouet ?}
+{617}{}{Où ai-je laisser mon fouet ?}
 {618}{}{Prêt tel un Siffredi.}
 {619}{}{J'ai du m'habiller comme WILMA l'autre jour, bordel de merde.}
 {620}{}{J'étais avec Myron, la nuit dernière. Pendant 5 secondes environ.}
 {621}{}{Tu cherches à te péter les sutures ?}
 {622}{}{J'aimerais qu'ils sortent de l'huile pour le corps avec l'odeur du Jet...}
-{623}{}{Veux-tu aider une vierge à perdre sa virginité ?}
+{623}{}{Tu veux aider une vierge à perdre sa virginité ?}
 {624}{}{Mon cul est en train de tomber, Myron le remonte.}
 {625}{}{Cette saloperie de syndicat de la Modération est encore venu...}
-{626}{}{::Sifflements::}
+{626}{}{::Siffle::}
 {627}{}{Les morsures, c'est plus cher.}
 {628}{}{Je te garantis que je suis meilleure que le Pip-Boy dont tu te sers.}
-{629}{}{Veux-tu que je te resserre les boulons ?}
+{629}{}{Tu veux que je te resserre les boulons ?}
 {630}{}{Je ferais mieux d'être avec Avellone.}
 {631}{}{J'aimerais que Nick Kesting soit là. On pourrait discuter pendant des heures !}
 {632}{}{Nick Kesting est vraiment un gars sympa. Nous avons des conversations passionnantes.}
@@ -485,26 +460,24 @@
 {634}{}{Eh bien. Regardez qui est arrivé en ville...}
 {635}{}{Tu cherches le Jardin d'Eden ? Viens dans ma chambre.}
 {636}{}{Prends les paris sur moi, mon lapin.}
-{637}{}{Je m'appelle Libertine, chérie. Et toi ?}
+{637}{}{Je m'appelle Libertine. Et toi ?}
 {638}{}{Hé, mignonne. Tu cherches une autre nana ?}
 {639}{}{Tu cherches à goûter les plaisirs de l'autre bord, chérie ?}
 {640}{}{Besoin de compagnie ?}
 {641}{}{Ma fille, laisse-moi t'apprendre des trucs que seule une vraie FEMME peut t'enseigner.}
 {642}{}{Tu as besoin de réchauffer ta tente, chérie ?}
 {643}{}{Besoin de quelqu'un pour partager ton matelas, chérie ?}
-{644}{}{Tu danses, chérie ?}
+{644}{}{Tu danses, ma belle ?}
 {645}{}{Oublie les machines à sous. Avec moi c'est BIEN mieux.}
 {646}{}{Chérie, tu sais pas c'que c'est qu'l'amour tant qu't'as pas eu l'amour à Reno.}
-{647}{}{Tu veux planer, chérie ?}
+{647}{}{Tu veux planer, ma belle ?}
 {648}{}{T'as perdu ton chemin, cow-girl ?}
 {649}{}{T'as un fusil à décharger, G.I. Jane ?}
-{650}{}{Tu veux du bon temps, chérie ?}
-{651}{}{Veux-tu aller faire un tour en ville, ma belle ?}
-{652}{}{Besoin d'un guide en ville, mon lapin ?}
+{650}{}{Tu veux du bon temps, ma belle ?}
+{651}{}{Tu veux aller faire un tour en ville, ma belle ?}
+{652}{}{Tu as besoin d'un guide en ville, mon lapin ?}
 {653}{}{Où est passé ton feu, chérie ?}
 {654}{}{Cette nana me fait monter le compteur Geiger.}
-
-# 12. [NO REP]
 {655}{}{Je m'appelle Libertine. Et toi ?}
 {656}{}{Besoin de compagnie ?}
 {657}{}{Laisse-moi t'apprendre quelques trucs que seule une nana peut t'apprendre.}
@@ -533,18 +506,18 @@
 {680}{}{Il y a trop de zonards dans cette ville, pas assez de jetons pour aller ailleurs.}
 {681}{}{Je me balade dans cette rue depuis hier soir...}
 {682}{}{T'as besoin d'une amie pour la soirée ? Ou pour dix minutes ?}
-{683}{}{Tu cherches à passer un bon moment ?}
-{684}{}{Tu veux aller dans le centre ?}
+{683}{}{Tu veux passer un bon moment ?}
+{684}{}{Tu veux aller au centre ?}
 {685}{}{J'aime bien le look de ton gecko.}
 {686}{}{C'est un gecko dans ta poche ?}
 {687}{}{Tu as besoin d'un guide en ville, mon lapin ?}
-{688}{}{J'embrasse pas. C'est la règle.}
+{688}{}{J'aimerais qu'ils sortent de l'huile pour le corps avec l'odeur du Jet...}
 {689}{}{Mon enfant, laisse-moi faire de toi un homme.}
 {690}{}{<Mmmmm-mmmmm>}
 {691}{}{Tu veux jouer aux Griffemorts pendant la saison des accouplements ?}
 {692}{}{Tu vas déclencher mon compteur Geiger si tu continues comme ça.}
 {693}{}{Si tu veux que je reste réveillée après, c'est plus cher.}
-{694}{}{Y a-t-il quelque chose que je peux faire pour toi, étranger ?}
+{694}{}{Je peux faire quelque chose pour toi, étranger ?}
 {695}{}{Tu sais pas c'que c'est qu'l'amour tant qu't'as pas eu l'amour à Reno.}
 {696}{}{J'ai finalement installé cette tête de lit en mousse.}
 {697}{}{Pour un avant-goût du paradis, ça te coûtera 10 jetons.}
@@ -564,20 +537,20 @@
 {711}{}{::Sifflements::}
 {712}{}{Je déteste le jeu du foulard.}
 {713}{}{Prends les paris sur moi, mon lapin.}
-{714}{}{Tu veux du bon temps ?}
+{714}{}{Tu veux passer un bon moment ?}
 {715}{}{Pure baise de Reno, juste là.}
 {716}{}{Je te donnerai de quoi jouer.}
 {717}{}{Je suis l'Epice Enivrante.}
 {718}{}{Je suis l'Epice faite Maison.}
-{719}{}{Je suis l'Epice Chaleureuse.}
-{720}{}{Je suis la Vieille Epice.}
+{719}{}{Je suis la Vieille Epice.}
+{720}{}{Je suis l'Epice Chaleureuse.}
 {721}{}{Je suis le Pain d'é... Euh, l'Epice Chaleureuse.}
 {722}{}{Je suis l'Epice Salace.}
 {723}{}{Les mecs dans la poussière, c'est ça que je veux.}
 {724}{}{J'ai une amie si tu veux faire un trio.}
 {725}{}{J'aimerais que Myron soit gay.}
 {726}{}{Du sang neuf en ville...}
-{727}{}{Je comprends toujours pas pourquoi ils l'appellent la Rue de la Vierge...}
+{727}{}{Je comprends toujours pas pourquoi il l'appellent la Rue de la Vierge...}
 {728}{}{J'aimerais qu'ils se mettent un sac de papier sur la tronche parfois...}
 {729}{}{Tu paies un verre à une fille ?}
 {730}{}{T'emmènes une dame esseulée en ville ?}
@@ -597,14 +570,14 @@
 {744}{}{Et dire que je suis venu de la Fosse pour ça...}
 {745}{}{Hé étranger ! Besoin d'un guide ?}
 {746}{}{Jules arrête pas de demander des coups gratos.}
-{747}{}{J'ai entendu dire que les familles sont redevenues nerveuses.}
+{747}{}{J'ai entendu dire que les familles redevenues nerveuses.}
 {748}{}{Les choses sont plutôt lentes. J'aimerais que cette caravane arrive vite.}
 {749}{}{Donc, il s'est habillé avec son costume de Griffemort, et...}
 {750}{}{J'ai besoin d'aide pour sortir de cette robe.}
 {751}{}{Tu peux me fermer la robe ? Puis la ré-ouvrir ?}
 {752}{}{<Mmm-mmm> On dirait que c'est la saison des accouplements.}
-{753}{}{Tu veux prendre un peu de bon temps ?}
-{754}{}{J'ai mis un  coup de pied dans les burnes de Jules la semaine dernière.}
+{753}{}{Tu veux perdre un peu de ton temps ?}
+{754}{}{J'ai frappé Jules dans les bijoux de famille la semaine dernière.}
 {755}{}{On m'appelle pas Dame Lachance pour rien.}
 {756}{}{J'adore ces préservatifs au parfum de Brahmine.}
 {757}{}{Tu montres à une dame comment on prend du bon temps ?}
@@ -619,9 +592,9 @@
 {766}{}{Je suis vierge, mais j'ai besoin d'argent.}
 {767}{}{Va doucement, c'est ma première fois... de la journée.}
 {768}{}{Je suis trop bandante.}
-{769}{}{Tu as l'envie, j'en ai les moyens.}
+{769}{}{Tu cherches quelque chose, j'ai tout ce qu'il te faut.}
 {770}{}{Laisse-moi éveiller l'enfant qui est en toi.}
-{771}{}{Tu danses, mon coeur ?}
+{771}{}{Je fait ça pour payer mes études.}
 {772}{}{Tu as une requête spéciale à faire ?}
 {773}{}{Tu veux me faire gémir ?}
 {774}{}{::Ronronnement::}
@@ -639,7 +612,7 @@
 {786}{}{Tu veux aider une vierge à perdre sa virginité ?}
 {787}{}{Mon cul est en train de tomber, Myron le remonte.}
 {788}{}{Cette saloperie de syndicat de la Modération est encore venu...}
-{789}{}{::Sifflements::}
+{789}{}{::Siffle::}
 {790}{}{Les morsures, c'est plus cher.}
 {791}{}{Je te garantis que je suis meilleure que le Pip-Boy dont tu te sers.}
 {792}{}{Tu veux que je te resserre les boulons ?}
@@ -650,66 +623,60 @@
 {797}{}{Eh bien. Regardez qui est arrivé en ville...}
 {798}{}{Tu cherches le Jardin d'Eden ? Viens dans ma chambre.}
 {799}{}{Prends les paris sur moi, mon lapin.}
-{800}{}{Je m'appelle Libertine, chérie. Et toi ?}
+{800}{}{Je m'appelle Libertine. Et toi ?}
 {801}{}{Hé, mignonne. Tu cherches une autre nana ?}
 {802}{}{Tu cherches à goûter les plaisirs de l'autre bord, chérie ?}
 {803}{}{Besoin de compagnie ?}
 {804}{}{Ma fille, laisse-moi t'apprendre des trucs que seule une vraie FEMME peut t'enseigner.}
 {805}{}{Tu as besoin de réchauffer ta tente, chérie ?}
 {806}{}{Besoin de quelqu'un pour partager ton matelas, chérie ?}
-{807}{}{Tu danses, chérie ?}
+{807}{}{Tu danses, ma belle ?}
 {808}{}{Oublie les machines à sous. Avec moi c'est BIEN mieux.}
 {809}{}{Chérie, tu sais pas c'que c'est qu'l'amour tant qu't'as pas eu l'amour à Reno.}
-{810}{}{Tu veux planer, chérie ?}
+{810}{}{Tu veux planer, ma belle ?}
 {811}{}{T'as perdu ton chemin, cow-girl ?}
 {812}{}{T'as un fusil à décharger, G.I. Jane ?}
-{813}{}{Tu veux du bon temps, chérie ?}
+{813}{}{Tu veux du bon temps, ma belle ?}
 {814}{}{Tu veux aller faire un tour en ville, ma belle ?}
-{815}{}{Besoin d'un guide en ville, mon lapin ?}
-{816}{}{Ou est passé ton feu, chérie ?}
+{815}{}{Tu as besoin d'un guide en ville, mon lapin ?}
+{816}{}{Où est passé ton feu, chérie ?}
 {817}{}{Cette nana me fait monter le compteur Geiger.}
-
-# 13. [ENCLAVE DESTROYED]
-{818}{}{L'Enclave ? Le Président ? Raconte-moi toute l'histoire.}
-{819}{}{Tom French m'a scriptée. Il a les mains douces.}
+{818}{}{L'Enclave ? Le président ? Raconte-moi toute l'histoire.}
+{819}{}{Tom French m'a scénarisée. Avec ces mains douces et agréables.}
 {820}{}{Ils étaient toujours en GUERRE ? Vraiment ! T'as eu raison de détruire ces bâtards.}
 {821}{}{T'es un vrai gangsta, toi. J'veux dire, T'es parti d'un vulgaire tribal lanceur de pierre - Sans vouloir t'offenser - jusqu'à arriver à sauver le monde. Franchement, t'assures. Fin de l'histoire !}
-{822}{}{Tu devrais rejouer le jeu avec un personnage différent.}
+{822}{}{Tu devrais recommencer le jeu avec un autre type de personnage.}
 {823}{}{Raconte-moi tout ton combat contre l'Enclave...}
 {824}{}{Hé, Si tu veux une passe gratuite après que t'aies sauvé le monde, je suis sûre que je pourrais faire ça pour toi...}
 {825}{}{Je sais pas comment t'as survécu face à ces bâtards de l'Enclave, mais t'es le mec le plus courageux que j'ai jamais connu.}
 {826}{}{Tim Cain ? Ouais, c'est un de mes clients réguliers.}
 {827}{}{Embrasse-moi, Exterminateur d'Enclave.}
-{828}{}{J'ai entendu dire que les frères Corses te cherchaient. Ils veulent faire un film basé sur tes aventures.}
+{828}{}{J'ai entendu que les frères te cherchaient. Ils veulent tourner un film basé sur ton aventure.}
 {829}{}{Tim Cain nous manque. Il avait l'habitude de faire du délicieux pain. Et il nous donnait la fessée comme aux petits enfants.}
 {830}{}{Je suis consciente que je ne suis qu'un NPC, mais je suis terriblement outrée par la façon dont les femmes sont représentées à New Reno.}
 {831}{}{Les femmes de cette ville ont l'air d'avoir été conçues par un obsédé sexuel immature qui vit dans la cave de ses parents.}
 {832}{}{New Reno a été conçu par Chris Avellone et Tom French. Ce sont tous deux des DIEUX du sexe.}
 {833}{}{Feargus a eu cette tête renfrognée quand il a vu combien de messages flottants comme celui-ci j'avais dans mon script.Quel gouja.}
 {834}{}{Tu dis que Locutus travaillait pour l'Enclave ? Et dire que je lui ai fait une passe gratuite !}
-
-# 14. [POWER ARMOR]
 {835}{}{Beaucoup de femmes ont du te briser le coeur pour t'être retranché sous une armure comme celle-ci. Laisse-moi t'aider.}
 {836}{}{Ecoute Goldorak, si tu veux que je m'habille en Ariane ou Dorothée, c'est plus cher.}
 {837}{}{Ecoute mec, si tu veux une passe, va falloir que tu sortes de c'truc, le métal ça coupe et ça laisse des cicatrices.}
 {838}{}{Y'a un trou, ou t'es obligé de sortir de ce machin pour avoir ta branlette ?}
 {839}{}{T'as des bleus si tu bandes dans ce truc ?}
 {840}{}{On dirait que t'as amené ton propre préservatif...}
-{841}{}{C'est une capote intégrale ?}
+{841}{}{C'est quoi ça, un nouveau préservatif corporel ?}
 {842}{}{Tu dois vraiment avoir peur de chopper une MST pour rester dans c'machin.}
 {843}{}{Si tu veux que je te chevauche avec ce truc, c'est plus cher.}
 {844}{}{Si tu veux garder ce truc sur ton dos, tu vas devoir foutre le camp.}
 {845}{}{Mon lubrifiant va-t-il te faire rouiller ?}
 {846}{}{Bon... Ok. Mais y'a pas moyen que tu sois au-dessus.}
-{847}{}{Mais bordel, comment fais-tu pour aller aux toilettes avec ce machin ?}
+{847}{}{Comment fais-tu pour aller aux toilettes avec ce truc ?}
 {848}{}{Je vais avoir besoin d'un cric pour te sortir de là ?}
-{849}{}{C'est un nouveau genre de vibromasseur ?}
+{849}{}{C'est une sorte de vibromasseur, ou quoi ?}
 {850}{}{J'ai l'impression d'être dans un manga.}
 {851}{}{T'es sur que tu cherches pas une laverie d'automobile ?}
 {852}{}{Ecoute chéri, tu vas devoir foutre le camp, le métal ça coupe et ça laisse des cicatrices.}
 {853}{}{C'est un nouveau moyen de contraception que tu portes là ?}
-
-# 15. [FEMALE, PRIZEFIGHTER]
 {854}{}{Tu veux venir sur le ring avec moi, chérie ? Je peux tenir 12 rounds.}
 {855}{}{'veux boxer ?}
 {856}{}{Toi, t'es.}
@@ -721,20 +688,16 @@
 {862}{}{Bon râtelier que tu as là.}
 {863}{}{Hé... Fais attention au Mastiquateur. C'est un vrai connard. Il a déjà essayé de me mordre l'oreille une fois.}
 {864}{}{T'sais que t'es plutôt sexy ma puce ?}
-
-# 16. [MADE MAN]
 {865}{}{}
 {866}{}{Si tu cherches de la compagnie plus tard...}
 {867}{}{}
-{868}{}{Salut, }
-{869}{}{Tu pourrais parler au patron pour moi ?}
+{868}{}{Bonjour, }
+{869}{}{Tu peux glisser un mot sympa sur moi au patron ?}
 {870}{}{Bon, si c'est pas méchant }
 {871}{}{Je peux faire TOUT ce que tu veux... Y'a juste à demander.}
-{872}{}{Tu pourrais parler au patron pour moi ?}
+{872}{}{Tu peux glisser un mot sympa sur moi au patron ?}
 {873}{}{}
 {874}{}{Um, Si tu cherches de la compagnie à plus, ma'am...}
-
-# 17. [SLAVER]
 {875}{}{Je m'appelle Libertine, esclavagiste. Et toi ?}
 {876}{}{T'as besoin de quelqu'un qui tire sur sa laisse, esclavagiste ?}
 {877}{}{Pourquoi tu ne m'emmènerais pas dans ta cage, l'esclavagiste ?}
@@ -783,18 +746,18 @@
 {920}{}{Tu veux jouer au maître et à l'esclave ?}
 {921}{}{Si tu veux que je reste réveillée après, c'est plus cher.}
 {922}{}{Tu veux allez voir Là Où Les Choses Sales Se Font ?}
-{923}{}{Oublie les machines à sous. Avec moi c'est BEAUCOUP mieux.}
-{924}{}{Je suis pas au rabais mais je suis l'affaire du jour.}
+{923}{}{Oublie les machines à sous. Avec moi c'est BIEN mieux.}
+{924}{}{Je suis pas gratuite, mais je suis spéciale.}
 {925}{}{Je m'adapterai à toi comme un smoking de chair.}
 {926}{}{Parle-moi des accessoires, bébé, je les ai tous.}
 {927}{}{Eh bien. Regardez qui est arrivé en ville...}
 {928}{}{Tu cherches le Jardin d'Eden ? Viens dans ma chambre.}
 {929}{}{Tu cherches un peu d'action ?}
-{930}{}{Si tu doutes, va te faire fout'.}
+{930}{}{Tu veux visiter mon usine à "Suchard" ?}
 {931}{}{J'ai finalement installé cette tête de lit en mousse.}
 {932}{}{Pour un avant-goût du paradis, ça te coûtera 10 jetons.}
 {933}{}{Myron : pas de moustache sur le cigare.}
-{934}{}{Myron est une vrai tornade.}
+{934}{}{Myron est une vraie tornade.}
 {935}{}{AC-DC, B et D, comme tu veux.}
 {936}{}{La fille Bishop est une vraie chaudasse.}
 {937}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
@@ -808,18 +771,18 @@
 {945}{}{Oublie les machines à sous. Avec moi c'est BIEN mieux.}
 {946}{}{Je déteste le jeu du foulard.}
 {947}{}{Prends les paris sur moi, l'esclavagiste.}
-{948}{}{Tu veux prendre du bon temps ?}
+{948}{}{Tu veux passer un bon moment ?}
 {949}{}{Pure baise de Reno, juste là.}
 {950}{}{Je te donnerai de quoi jouer.}
 {951}{}{Je suis l'Epice Enivrante.}
 {952}{}{Je suis l'Epice faite Maison.}
-{953}{}{Je suis l'Epice Chaleureuse.}
-{954}{}{Je suis la Vieille Epice.}
+{953}{}{Je suis la Vieille Epice.}
+{954}{}{Je suis l'Epice Chaleureuse.}
 {955}{}{Je suis le Pain d'é... Euh, l'Epice Chaleureuse.}
 {956}{}{Je suis l'Epice Salace.}
 {957}{}{J'ai une amie si tu veux faire un trio.}
 {958}{}{J'aimerais que Myron soit gay.}
-{959}{}{Je comprends toujours pas pourquoi ils l'appellent la Rue de la Vierge...}
+{959}{}{Je comprends toujours pas pourquoi il l'appellent la Rue de la Vierge...}
 {960}{}{J'aimerais qu'ils se mettent un sac de papier sur la tronche parfois.}
 {961}{}{Tu paies un verre à une fille, l'esclavagiste ?}
 {962}{}{T'emmènes une dame esseulée en ville, l'esclavagiste ?}
@@ -829,7 +792,7 @@
 {966}{}{Ce Jules ferait bien de me lâcher un peu.}
 {967}{}{J'ai toujours cette contusion à cause de la tête de lit...}
 {968}{}{J'suis à plat depuis la dernière convention.}
-{969}{}{J'aimerais que la convention des esclavagistes se fasse dans une autre ville.}
+{969}{}{J'aimerais que la convention se fasse dans une autre ville.}
 {970}{}{Tu pourrais faire fondre du métal, tu sais ça ?}
 {971}{}{J'ai eu l'impression que la Terre bougeait, mais c'était juste le chili.}
 {972}{}{Ca me fait fondre.}
@@ -845,8 +808,8 @@
 {982}{}{Pardon peux-tu répéter ? J'étais trop occupée à mater ton cul.}
 {983}{}{Tu veux perdre un peu de ton temps ?}
 {984}{}{Tu veux passer un bon moment ?}
-{985}{}{J'ai mis un coup de pied dans les burnes de Jules la semaine dernière.}
-{986}{}{Tu veux allez faire un tour au *centre-ville*, l'esclavagiste ?}
+{985}{}{J'ai frappé Jules dans les bijoux de famille la semaine dernière.}
+{986}{}{Tu veux aller au centre ?}
 {987}{}{On m'appelle pas Dame Lachance pour rien.}
 {988}{}{BIEN SUR ! J'adore ces préservatifs au parfum de Brahmine. Miam.}
 {989}{}{Tu montres à une dame comment on prend du bon temps, l'esclavagiste ?}
@@ -859,9 +822,9 @@
 {996}{}{Je suis vierge, mais j'ai besoin d'argent.}
 {997}{}{Va doucement, c'est ma première fois... de la journée.}
 {998}{}{Je suis trop bandante.}
-{999}{}{Tu as l'envie, j'en ai les moyens.}
+{999}{}{Tu cherches quelque chose, j'ai tout ce qu'il te faut.}
 {1000}{}{Laisse-moi éveiller l'enfant qui est en toi.}
-{1001}{}{Je fais ça pour payer mes études.}
+{1001}{}{Je fais juste ça pour payer mes études.}
 {1002}{}{Ecoute, pour la dernière fois, je ne veux pas m'habiller comme "l'Habitant de l'Abri"..}
 {1003}{}{Tu as une requête spéciale à faire ?}
 {1004}{}{Tu veux me faire gémir ?}
@@ -881,8 +844,8 @@
 {1018}{}{Tu veux aider une vierge à perdre sa virginité ?}
 {1019}{}{Mon cul est en train de tomber, Myron le remonte.}
 {1020}{}{Cette saloperie de syndicat de la Modération est encore venu...}
-{1021}{}{Tu va déclencher mon compteur Geiger si tu continues comme ça.}
-{1022}{}{::Sifflements::}
+{1021}{}{Tu vas déclencher mon compteur Geiger si tu continues comme ça.}
+{1022}{}{::Siffle::}
 {1023}{}{Les morsures, c'est plus cher.}
 {1024}{}{Je te garantis que je suis meilleure que le Pip-Boy dont tu te sers.}
 {1025}{}{Tu veux que je te resserre les boulons ?}
@@ -910,8 +873,6 @@
 {1047}{}{Besoin d'un rendez-vous, l'esclavagiste ?}
 {1048}{}{Où est ton feu, l'esclavagiste ?}
 {1049}{}{Cette esclavagiste me fait monter le compteur Geiger.}
-
-# 18. [BONENOSE]
 {1050}{}{Je m'appelle Libertine. Et toi ?}
 {1051}{}{Il fait froid, hein ?}
 {1052}{}{T'as amené ta petite toilette ?}
@@ -948,7 +909,7 @@
 {1083}{}{J'aime bien le look de ton gecko.}
 {1084}{}{C'est un gecko dans ta poche ?}
 {1085}{}{Tu as besoin d'un guide en ville, mon lapin ?}
-{1086}{}{J'embrasse pas. C'est la règle.}
+{1086}{}{J'aimerais qu'ils sortent de l'huile pour le corps avec l'odeur du Jet...}
 {1087}{}{T'as le fric, j'ai le temps.}
 {1088}{}{Mon enfant, laisse-moi faire de toi un homme.}
 {1089}{}{Oh, bonjour, M. Tyler. Tu veux... descendre ?}
@@ -965,12 +926,12 @@
 {1100}{}{Ton ami sur-compense son manque avec un os dans le nez ?}
 {1101}{}{Tu cherches le Jardin d'Eden ? Viens dans ma chambre.}
 {1102}{}{Tu cherches un peu d'action ?}
-{1103}{}{Si tu doutes, va te faire fout'.}
+{1103}{}{Tu veux visiter mon usine à "Suchard" ?}
 {1104}{}{Laisse-moi t'apprendre quelques trucs que seule une nana peut t'apprendre.}
 {1105}{}{J'ai finalement installé cette tête de lit en mousse.}
 {1106}{}{Pour un avant-goût du paradis, ça te coûtera 10 jetons.}
 {1107}{}{Myron : pas de moustache sur le cigare.}
-{1108}{}{Myron est une vrai tornade.}
+{1108}{}{Myron est une vraie tornade.}
 {1109}{}{AC-DC, B et D, comme tu veux.}
 {1110}{}{La fille Bishop est une vraie chaudasse.}
 {1111}{}{Elle n'est pas accroc au Jet, elle est accroc aux OS.}
@@ -979,24 +940,24 @@
 {1114}{}{Tu cherches l'amour, mon lapin ?}
 {1115}{}{J'embrasse pas. C'est la règle.}
 {1116}{}{J'aimerais que Myron se casse loin. Très loin.}
-{1117}{}{Je peux faire TOUT ce que tu veux, l'esclavagiste... Ca dépend du prix.}
+{1117}{}{Je peux faire TOUT ce que tu veux... Ca dépend du prix.}
 {1118}{}{Je suis prête, mon lapin. Et toi ?}
 {1119}{}{Oublie les machines à sous. Avec moi c'est BIEN mieux.}
 {1120}{}{Je déteste le jeu du foulard.}
 {1121}{}{Prends les paris sur moi, mon lapin.}
-{1122}{}{Tu veux prendre du bon temps ?}
+{1122}{}{Tu veux passer un bon moment ?}
 {1123}{}{Je ne peux pas croire qu'autant de strip-teaseuses soient venues à la fête de Feargus.}
 {1124}{}{Pure baise de Reno, juste là.}
 {1125}{}{Je te donnerai de quoi jouer.}
 {1126}{}{Je suis l'Epice Enivrante.}
 {1127}{}{Je suis l'Epice faite Maison.}
-{1128}{}{Je suis la Vieille Epice.}
-{1129}{}{Je suis l'Epice Chaleureuse.}
+{1128}{}{Je suis l'Epice Chaleureuse.}
+{1129}{}{Je suis la Vieille Epice.}
 {1130}{}{Je suis le Pain d'é... Euh, l'Epice Chaleureuse.}
 {1131}{}{Je suis l'Epice Salace.}
 {1132}{}{J'ai une amie si tu veux faire un trio.}
 {1133}{}{J'aimerais que Myron soit gay.}
-{1134}{}{Je comprends toujours pas pourquoi ils l'appellent la Rue de la Vierge...}
+{1134}{}{Je comprends toujours pas pourquoi il l'appellent la Rue de la Vierge...}
 {1135}{}{J'aimerais qu'ils se mettent un sac de papier sur la tronche parfois.}
 {1136}{}{Tu paies un verre à une fille ?}
 {1137}{}{T'emmènes une dame esseulée en ville ?}
@@ -1014,14 +975,14 @@
 {1149}{}{Besoin d'un guide en ville, l'esclavagiste ?}
 {1150}{}{Whaou. CA c'est beaucoup plus cher.}
 {1151}{}{Jules arrête pas de demander des coups gratos.}
-{1152}{}{J'ai entendu dire que les familles sont redevenues nerveuses.}
+{1152}{}{J'ai entendu dire que les familles redevenues nerveuses.}
 {1153}{}{Les choses sont plutôt lentes. J'aimerais que cette caravane arrive vite.}
 {1154}{}{Donc, il s'est habillé avec son costume de Griffemort, et...}
 {1155}{}{J'ai besoin d'aide pour sortir de cette robe.}
 {1156}{}{Tu peux me fermer la robe ? Puis la ré-ouvrir ?}
 {1157}{}{Pardon peux-tu répéter ? J'étais trop occupée à mater ton cul.}
 {1158}{}{Tu veux perdre un peu de ton temps ?}
-{1159}{}{J'ai mis un coup de pied dans les burnes de Jules la semaine dernière.}
+{1159}{}{J'ai frappé Jules dans les bijoux de famille la semaine dernière.}
 {1160}{}{On m'appelle pas Dame Lachance pour rien.}
 {1161}{}{BIEN SUR ! J'adore ces préservatifs au parfum de Brahmine. Miam.}
 {1162}{}{Tu montres à une dame comment on prend du bon temps ?}
@@ -1035,10 +996,10 @@
 {1170}{}{Je suis vierge, mais j'ai besoin d'argent.}
 {1171}{}{Va doucement, c'est ma première fois... de la journée.}
 {1172}{}{Je suis trop bandante.}
-{1173}{}{Tu as l'envie, j'en ai les moyens.}
+{1173}{}{Tu cherches quelque chose, j'ai tout ce qu'il te faut.}
 {1174}{}{Laisse-moi éveiller l'enfant qui est en toi.}
-{1175}{}{Laisse-moi éveiller l'enfant qui est en toi.}
-{1176}{}{Je fais ça pour payer mes études.}
+{1175}{}{Je fais juste ça pour payer mes études.}
+{1176}{}{Je fait ça pour payer mes études.}
 {1177}{}{Ecoute, pour la dernière fois, je ne veux pas m'habiller comme "l'Habitant de l'Abri".}
 {1178}{}{Tu as une requête spéciale à faire ?}
 {1179}{}{Tu veux me faire gémir ?}
@@ -1049,7 +1010,7 @@
 {1184}{}{Tu veux jouer aux Griffemorts pendant la saison des accouplements ?}
 {1185}{}{Je suis pas gratuite, mais je suis spéciale.}
 {1186}{}{Si je t'attache, ça coûte plus cher.}
-{1187}{}{Où ai-je laissé mon fouet ?}
+{1187}{}{Où ai-je laisser mon fouet ?}
 {1188}{}{Prêt tel un Siffredi.}
 {1189}{}{J'ai du m'habiller comme WILMA l'autre jour, bordel de merde.}
 {1190}{}{J'étais avec Myron, la nuit dernière. Pendant 5 secondes environ.}
@@ -1058,8 +1019,8 @@
 {1193}{}{Tu veux aider une vierge à perdre sa virginité ?}
 {1194}{}{Mon cul est en train de tomber, Myron le remonte.}
 {1195}{}{Cette saloperie de syndicat de la Modération est encore venu...}
-{1196}{}{Tu va déclencher mon compteur Geiger si tu continues comme ça.}
-{1197}{}{::Sifflements::}
+{1196}{}{Tu vas déclencher mon compteur Geiger si tu continues comme ça.}
+{1197}{}{::Siffle::}
 {1198}{}{Les morsures, c'est plus cher.}
 {1199}{}{Je te garantis que je suis meilleure que le Pip-Boy dont tu te sers.}
 {1200}{}{Tu veux que je te resserre les boulons ?}
@@ -1082,11 +1043,9 @@
 {1217}{}{Salut, G.I. Jane.}
 {1218}{}{Tu veux du bon temps, ma belle ?}
 {1219}{}{Tu veux aller faire un tour en ville, chérie ?}
-{1220}{}{Besoin d'un guide en ville, mon lapin ?}
+{1220}{}{Tu as besoin d'un guide en ville, mon lapin ?}
 {1221}{}{Où est passé ton feu, chérie ?}
 {1222}{}{T'as le fric, chérie, j'ai le temps.}
-
-# 19. [NO REP]
 {1223}{}{Je m'appelle Libertine. Et toi ?}
 {1224}{}{Il fait froid, hein ?}
 {1225}{}{T'as amené ta petite toilette ?}
@@ -1123,7 +1082,7 @@
 {1256}{}{J'aime bien le look de ton gecko.}
 {1257}{}{C'est un gecko dans ta poche ?}
 {1258}{}{Tu as besoin d'un guide en ville, mon lapin ?}
-{1259}{}{J'embrasse pas. C'est la règle.}
+{1259}{}{J'aimerais qu'ils sortent de l'huile pour le corps avec l'odeur du Jet...}
 {1260}{}{T'as le fric, j'ai le temps.}
 {1261}{}{Mon enfant, laisse-moi faire de toi un homme.}
 {1262}{}{Oh, bonjour, M. Tyler. Tu veux... descendre ?}
@@ -1131,8 +1090,8 @@
 {1264}{}{Il y a ce gars, Fred Hatch, il voulait savoir s'il y avait pas une *grande fille* en ville. Zarbi.}
 {1265}{}{Si tu veux que je reste réveillée après, c'est plus cher.}
 {1266}{}{Tu veux allez voir Là Où Les Choses Sales Se Font ?}
-{1267}{}{Oublie les machines à sous. Avec moi c'est BEAUCOUP mieux.}
-{1268}{}{Je suis pas au rabais mais je suis l'affaire du jour.}
+{1267}{}{Oublie les machines à sous. Avec moi c'est BIEN mieux.}
+{1268}{}{Je suis pas gratuite, mais je suis spéciale.}
 {1269}{}{Salut, mon lapin.}
 {1270}{}{On s'emboîte ?}
 {1271}{}{Je m'adapterai à toi comme un smoking de chair.}
@@ -1196,7 +1155,7 @@
 {1329}{}{Tu peux me fermer la robe ? Puis la ré-ouvrir ?}
 {1330}{}{Pardon peux-tu répéter ? J'étais trop occupée à mater ton cul.}
 {1331}{}{Tu veux perdre un peu de ton temps ?}
-{1332}{}{J'ai mis un coup de pied dans les burnes de Jules la semaine dernière.}
+{1332}{}{J'ai frappé Jules dans les bijoux de famille la semaine dernière.}
 {1333}{}{On m'appelle pas Dame Lachance pour rien.}
 {1334}{}{BIEN SUR ! J'adore ces préservatifs au parfum de Brahmine. Miam.}
 {1335}{}{Tu montres à une dame comment on prend du bon temps ?}
@@ -1210,9 +1169,9 @@
 {1343}{}{Je suis vierge, mais j'ai besoin d'argent.}
 {1344}{}{Va doucement, c'est ma première fois... de la journée.}
 {1345}{}{Je suis trop bandante.}
-{1346}{}{Tu as l'envie, j'en ai les moyens.}
+{1346}{}{Tu cherches quelque chose, j'ai tout ce qu'il te faut.}
 {1347}{}{Laisse-moi éveiller l'enfant qui est en toi.}
-{1348}{}{Tu voudrais pas tremper ton concombre ?}
+{1348}{}{Je fais juste ça pour payer mes études.}
 {1349}{}{Je fait ça pour payer mes études.}
 {1350}{}{Ecoute, pour la dernière fois, je ne veux pas m'habiller comme "l'Habitant de l'Abri".}
 {1351}{}{Tu as une requête spéciale à faire ?}
@@ -1234,7 +1193,7 @@
 {1367}{}{Mon cul est en train de tomber, Myron le remonte.}
 {1368}{}{Cette saloperie de syndicat de la Modération est encore venu...}
 {1369}{}{Tu vas déclencher mon compteur Geiger si tu continues comme ça.}
-{1370}{}{::Sifflements::}
+{1370}{}{::Siffle::}
 {1371}{}{Les morsures, c'est plus cher.}
 {1372}{}{Je te garantis que je suis meilleure que le Pip-Boy dont tu te sers.}
 {1373}{}{Tu veux que je te resserre les boulons ?}
@@ -1260,12 +1219,33 @@
 {1393}{}{Besoin d'un guide en ville, mon lapin ?}
 {1394}{}{Où est passé ton feu, chérie ?}
 {1395}{}{T'as le fric, chérie, j'ai le temps.}
-
-# SPECIAL CAT'S PAW WHORE DIALOGS START
-# 0. QUICK LOOk
+{2175}{}{. La personne qui a donné une leçon à l'Enclave.}
+{2178}{}{ ! C'est comme ça qu'on donne une leçon à l'Enclave !}
+{2181}{}{. La personne qui a donné une leçon à l'Enclave.}
+{2195}{}{ !}
+{2197}{}{ ! Peux-tu m'avoir du boulot au studio ?}
+{2210}{}{.}
+{2263}{}{ ! Vas-y, tombeur !}
+{2264}{}{ botte tellement de culs qu'il devait être une chaussure dans une autre vie.}
+{2268}{}{ ?}
+{2272}{}{ ?}
+{2278}{}{ ! Vas-y, minette !}
+{2279}{}{ ?}
+{2280}{}{ botte tellement de culs qu'elle devait être une chaussure dans une autre vie.}
+{2285}{}{.}
+{2292}{}{<Grmmble...>}
+{2293}{}{ ?}
+{2294}{}{... viens par là, mon ange...}
+{2295}{}{.}
+{2855}{}{ ?}
+{2858}{}{ ?}
+{2861}{}{ ?}
+{2865}{}{, et beau mec... Où est-ce que tu étais ?}
+{2867}{}{ ! Comment vas-tu ?}
+{2868}{}{. Puis-je t'aider en... *quoi que ce soit* ?}
+{2870}{}{.}
+{2873}{}{, petite coquine... Où est-ce que tu étais ?}
 {3100}{}{Tu vois une des filles du magazine 'Cat's Paw'.}
-
-# EXAMINES
 {3150}{}{Tu vois une... femme de la nuit. Ses vêtements déchirés enserrent son corps de manière provocante.}
 {3151}{}{Tu vois une des filles du 'Cat's Paw'. Elle te fait un clin d'oeil.}
 {3152}{}{Tu vois une des filles du 'Cat's Paw'. Ses yeux te font penser à des fusibles qui ont sauté.}
@@ -1275,8 +1255,6 @@
 {3156}{}{Tu vois une des filles du 'Cat's Paw'. On dirait qu'elle tue et mange ses partenaires.}
 {3157}{}{Tu vois une des filles du 'Cat's Paw'. Elle t'évalue avec beaucoup d'attention.}
 {3158}{}{Tu vois une des filles du 'Cat's Paw'. Ses vêtements déchirés enserrent son corps de manière provocante.}
-
-#1. SOME OTHER RANDOM FLOAT TEXT [ANY DISTANCE] (WTG)
 {3200}{}{Oh, oui ! Oui ! Ohouiouioiuoui... Ooooooh oui.}
 {3201}{}{Oui ! Oui ! Oooooohhhh OuiOuiOuiOui OUI OUI OUIIIIII ! Maintenant, passe à la caisse.}
 {3202}{}{Grouille-toi. Le compteur tourne.}
@@ -1293,31 +1271,3 @@
 {3213}{}{::Halètement::}
 {3214}{}{Non, je REFUSE de porter les oreilles de Mickey.}
 {3215}{}{Oui, oui, t'as des *boules monstres*.}
-
-# END LINES
-{2175}{}{La personne qui a donné une bonne leçon à l'Enclave.}
-{2178}{}{C'est comme ça qu'on donne une leçon à l'Enclave !}
-{2181}{}{La personne qui a donné une leçon à l'Enclave.}
-{2195}{}{ !}
-{2197}{}{ ! Peux-tu m'avoir du boulot au studio ?}
-{2210}{}{.}
-{2263}{}{ ! Vas-y, tombeur !}
-{2264}{}{ botte tellement de culs qu'il devait être une chaussure dans une autre vie.}
-{2268}{}{ ?}
-{2272}{}{ ?}
-{2278}{}{ ! Vas-y, minette !}
-{2279}{}{ ?}
-{2280}{}{ botte tellement de culs qu'elle devait être une chaussure dans une autre vie.}
-{2285}{}{.}
-{2292}{}{...}
-{2293}{}{ ?}
-{2294}{}{... viens par là, mon ange...}
-{2295}{}{.}
-{2855}{}{ ?}
-{2858}{}{ ?}
-{2861}{}{ ?}
-{2865}{}{, et beau mec... Où est-ce que tu étais ?}
-{2867}{}{ ! Comment vas-tu ?}
-{2868}{}{. Puis-je t'aider en... *quoi que ce soit* ?}
-{2870}{}{.}
-{2873}{}{, petite coquine... Où est-ce que tu étais ?}

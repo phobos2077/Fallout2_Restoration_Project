@@ -7,25 +7,25 @@
 {106}{}{Toi, t'as l'intelligence d'un protozoaire.}
 {107}{}{Plus bête que toi, tu meurs.}
 {108}{}{Rien de bien neuf. Nous les mineurs, on travaille juste assez pour pouvoir prendre not'Jet.}
-{109}{}{J'aimerais te poser une autre question.}
-{110}{}{Jet ? C'est quoi le Jet ?}
+{109}{}{Je voudrais te demander autre chose.}
+{110}{}{C'est quoi le Jet ?}
 {111}{}{Je vois. Au revoir.}
 {112}{}{On se crève le cul ici pour avoir assez de Jet. Et ces foutus prix qui n'arrêtent pas de grimper ! Moi je m'sens bien que quand j'plane au Jet.}
-{113}{}{J'aimerais te poser une autre question.}
-{114}{}{Jet ? C'est quoi le Jet ?}
+{113}{}{Je voudrais te demander autre chose.}
+{114}{}{C'est quoi le Jet ?}
 {115}{}{Je vois. Au revoir.}
 {116}{}{J'arrive à peine à travailler assez pour me payer le Jet qu'il me faut. On pourrait p't'être mettre au point quelque chose avec New Reno, une sorte de contact direct. J'ai entendu dire qu'Ascorti travaillait là-dessus.}
-{117}{}{J'aimerais te poser une autre question.}
+{117}{}{Je voudrais te demander autre chose.}
 {118}{}{Asctorti ? Qui c'est ça ?}
-{119}{}{Jet ? C'est quoi le Jet ?}
+{119}{}{C'est quoi le Jet ?}
 {120}{}{Je vois. Au revoir.}
 {121}{}{Je m'sens pas si bien ces derniers temps et je suis pas le seul. J'ai essayé de planer plus au Jet mais ça fait rien. J'ai même l'impression que c'est encore pire qu'avant. Je me sens au fond du trou comme la plupart des mineurs.}
-{122}{}{J'aimerais te poser une autre question.}
-{123}{}{Jet ? C'est quoi le Jet ?}
+{122}{}{Je voudrais te demander autre chose.}
+{123}{}{C'est quoi le Jet ?}
 {124}{}{Je vois. Au revoir.}
 {125}{}{Je ne sais pas ce qui est arrivé mais tout le monde ou presque a décroché après ce dernier lot. Et dire qu'on voulait planer avec le Jet jusqu'à ce grand aéroport dans le ciel. Plus personne ne veut en prendre maintenant. Rien que l'idée nous rend malade.}
-{126}{}{J'aimerais te poser une autre question.}
-{127}{}{Jet ? C'est quoi le Jet ?}
+{126}{}{Je voudrais te demander autre chose.}
+{127}{}{C'est quoi le Jet ?}
 {128}{}{Je vois. Au revoir.}
 {129}{}{Salut. Je m'appelle Athabaska Dick, Dick pour les intimes. Bien sûr, il y en a qui m'appellent Athabaska mais pour la plupart je suis Dick.}
 {130}{}{Salut ! Que peut faire l'vieux Dick pour toi ?}
@@ -39,29 +39,29 @@
 {138}{}{Eh Dick... Que s'est-il passé en ville ces derniers temps ?}
 {139}{}{Des rumeurs intéressantes ?}
 {140}{}{Que veut dire At-ze-baskette ?}
-{141}{}{Que t'arrive-t-il ?}
-{142}{}{Que t'est-il arrivé ?}
+{141}{}{Que t'est-il arrive ?}
+{142}{}{Qu'est-il arrivé ?}
 {143}{}{Je fais de temps en temps des remplacements à la Morningstar. Ils ont toujours besoin d'un type expérimenté.}
 {144}{}{Je voudrais savoir autre chose.}
-{145}{}{Je comprends. Bon, c'est tout ce que je voulais savoir. Salut.}
+{145}{}{Je comprends. Bon, c'est tout ce que je voulais savoir. Adieu.}
 {146}{}{Pas grand-chose ces temps-ci, à part cette histoire de foutus Wanamingos.}
 {147}{}{Wana-mongols ? C'est quoi ce machin-là ?}
 {148}{}{Bien sûr. Il y a autre chose que je voulais savoir.}
 {149}{}{Bon, c'est tout ce que je voulais savoir. Au revoir.}
 {150}{}{Atha-baska, Athabaska. C'est pas si dur à dire, bon sang ?! C'est mon surnom. Tu veux savoir d'où il me vient ?}
 {151}{}{Euh, pas vraiment. Mais dis-moi...}
-{152}{}{C'est tout ce que j'ai besoin de savoir. Au revoir.}
+{152}{}{Je pense que c'est tout ce que j'ai besoin de savoir pour le moment. Au revoir.}
 {153}{}{Bon Dieu ! Je suis plus malade qu'un chien et ça fait des jours que j'me tords en deux... Depuis que j'ai pris cette dernière dose de Jet. Y a dû y avoir une erreur avec ce lot. Si je m'en sors, je n'y toucherai plus jamais de ma vie !}
 {154}{}{Pas terrible. Changeons de sujet, alors.}
-{155}{}{Je comprends. Bon, c'est tout ce que voulais savoir. Au revoir.}
+{155}{}{Je comprends. Bon, c'est tout ce que je voulais savoir. Adieu.}
 {156}{}{Je l'ai fait. Ca ne m'apporte aucune fierté particulière. Mais je pense que c'est ce qu'il y avait de mieux à faire.}
-{157}{}{Comment ça ? Que s'est-il passé ?}
+{157}{}{Comment ça ? Qu'est-il arrivé ?}
 {158}{}{T'as jamais entendu parler des Wanamingos ?!}
 {159}{}{Euh, hum. Si si, j'en ai entendu parler... Puis-je te demander autre chose ?}
 {160}{}{Non, jamais entendu parler d'un truc pareil. Parle m'en.}
 {161}{}{J'ai jamais entendu parler des Wanajesaisplusquoi et j'ai pas de temps à perdre avec tes contes de fées. Au revoir.}
 {162}{}{Je me suis sevré, ouais, c'est ça. Je ne reprendrai plus jamais du Jet. Ce dernier lot m'a pratiquement tué. Après ça, j'en avais plus vraiment envie. Et depuis, c'est fini, j'en veux plus.}
-{163}{}{Bon, eh bien tant mieux alors... Mais dis-moi...}
+{163}{}{Si ça te fait plaisir, parfait. Une autre question.}
 {164}{}{Intéressant. Bon, je te laisse te rétablir. Au revoir.}
 {165}{}{Y en a qui disent qui z'étaient là avant les bombes A, les bombes H et tout ce qui a suivi. D'autres disent qui z'ont été géné-tik-ment conçus pour servir d'armes. Et y en a même qui disent qu'ils viennent d'une tout aut' planète.}
 {166}{}{Qui c'est *ils* ? On s'en fout d'où ils viennent, dis-moi seulement qui *ils* sont.}
@@ -105,19 +105,19 @@
 {204}{}{Ascorti c'est le maire de Redding. Mais je ne sais pas où il est. Ca fait un bail que je ne l'ai pas vu.}
 {205}{}{J'ai encore une question.}
 {206}{}{Ok, d'accord. On continue avec ton histoire, alors.}
-{207}{}{Je t'ai écouté assez longtemps. Au revoir.}
+{207}{}{Je t'ai écoutée assez longtemps. Au revoir.}
 {208}{}{Le Jet c'est juste un petit truc de New Reno. J'en prends juste assez pour arrondir les angles.}
-{209}{}{J'aimerais te poser une autre question.}
+{209}{}{Je voudrais te demander autre chose.}
 {210}{}{Intéressant. Merci et au revoir.}
 {211}{}{Le Jet, y'a que ça de vrai. Si je plane pas au Jet, je me sens plus bien. Tu dois t'en trouver et essayer.}
-{212}{}{J'aimerais te poser une autre question.}
+{212}{}{Je voudrais te demander autre chose.}
 {213}{}{Intéressant. Merci et au revoir.}
 {214}{}{J'arrive à rien sans prendre de Jet. Tout le monde le fait ces derniers temps. Tu dois en prendre juste assez pour t'éclater un peu. L'état dans lequel ça me met quand j'en prends ne compense pas l'état merdique dans lequel je suis quand j'en ai pas.}
-{215}{}{J'aimerais te poser une autre question.}
+{215}{}{Je voudrais te demander autre chose.}
 {216}{}{Intéressant. Merci et au revoir.}
 {217}{}{Le Jet, c'est mauvais. Tous ceux qui en prenaient ont été malades à en crever. Je pense que... [Il se penche et laisse couler un peu de vomi.] J'm'excuse. Dis, on pourrait pas parler d'autre chose ?}
-{218}{}{Si si bien sûr. Alors dis-moi...}
+{218}{}{Bien sûr, c'est dommage. Une autre question.}
 {219}{}{Intéressant. Merci et au revoir.}
 {220}{}{Je ne veux plus entendre parler de ce foutu Jet. Cette saleté m'a tué. C'est encore pire que le venin de radscorpion. 'Peux pas croire que j'ai aimé ça. Mais la dernière fois... j'ai bien cru y rester.}
-{221}{}{J'aimerais te poser une autre question.}
+{221}{}{Je voudrais te demander autre chose.}
 {222}{}{Intéressant. Merci et au revoir.}

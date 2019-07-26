@@ -13,6 +13,5 @@
 {112}{}{La porte grince et cède sous la pression.}
 {113}{}{La porte est déjà déverrouillée.}
 {114}{}{La porte ne réagit pas du tout à tes tentatives.}
-
 {120}{}{Herro, Ra Ra ?}
 {121}{}{Hé hé, porte parlante. Bonjour !}

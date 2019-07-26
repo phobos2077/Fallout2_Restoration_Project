@@ -1,13 +1,7 @@
-# 0. Look
 {100}{}{Tu vois un esclavagiste.}
-
 {150}{}{On dirait un des gardes personnels de Metzger.}
-
-# 1. CF: Hostile
 {200}{}{Ah te voilà.}
 {201}{}{Maintenant, crève.}
-
-# 2. CF: Normal
 {300}{}{Tu veux voir le patron ? Vas-y rentre.}
 {301}{}{C'est à Metzger qu'il faut parler, pas à moi.}
 {302}{}{Entre.}

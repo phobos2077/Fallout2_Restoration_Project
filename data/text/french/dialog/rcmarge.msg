@@ -26,7 +26,7 @@
 {125}{}{Je ne faisais que passer. Je continue mon chemin. Salut.}
 {126}{}{Bonjour, je m'appelle Marge. Marge LeBarge. Je dirige cette mine.}
 {127}{}{Que peut faire Marge pour toi ?}
-{128}{}{C'est quoi comme exploitation ?}
+{128}{}{Quel type d'exploitation est-ce ?}
 {129}{}{As-tu déjà entendu parler du Jardin d'Eden en Kit ?}
 {130}{}{Es-tu originaire de Redding ?}
 {131}{}{Sais-tu ce qui se trame par ici, ou éventuellement s'il y a du boulot ?}
@@ -34,10 +34,10 @@
 {133}{}{De l'or, bien sûr. On l'exploite ici, à la Kokoweef, et on l'envoie vers la Cité de l'Abri, New Reno et la République de Nouvelle Californie.}
 {134}{}{Vous l'envoyez partout.}
 {135}{}{Pourquoi as-tu appelé ta mine Kokoweef ?}
-{136}{}{J'aimerais te poser une autre question.}
+{136}{}{Je voudrais te demander autre chose.}
 {137}{}{Je vois. Merci, c'est tout ce que j'ai besoin de savoir. Au revoir.}
 {138}{}{Bien sûr. Tout le monde aime l'or. Tu devrais parler au maître de la caravane, James Hoffy, si tu veux en savoir davantage.}
-{139}{}{J'aimerais te poser une autre question.}
+{139}{}{Je voudrais te demander autre chose.}
 {140}{}{D'accord, merci. Au revoir.}
 {141}{}{Un Jardin d'Eden en Kit ? Ca en impose. Si j'avais un truc de ce genre, tu me trouverais pas en train de gratter la terre pour joindre les deux bouts !}
 {142}{}{Probablement. Mais dis-moi...}
@@ -49,7 +49,7 @@
 {148}{}{Bon, il y a toujours des rumeurs... mais j'ai quelque chose qui doit être fait.}
 {149}{}{J'y reviendrai. Je voudrais d'abord savoir autre chose.}
 {150}{}{Parle-moi des rumeurs.}
-{151}{}{C'est quoi, ça ? }
+{151}{}{C'est quoi, ça ?}
 {152}{}{Je te crois. Je regrette, mais j'ai trop de choses à faire pour l'instant. Au revoir.}
 {153}{}{J'ai une bonne grosse pelleteuse au fond de la mine. Le hic, c'est que la puce de commande ne fonctionne plus. Il m'en faut une autre si je veux élargir mon exploitation.}
 {154}{}{C'est intéressant tout ça, mais qu'est-ce que ça a à voir avec moi ?}
@@ -74,13 +74,13 @@
 {173}{}{J'aimerais t'écouter mais je dois y aller. Au revoir.}
 {174}{}{Les gens disent toujours que c'est la Cité de l'Abri qui va prendre le contrôle de notre ville pour prendre notre or. Ou qu'une famille de New Reno va droguer tout le monde pour nous reprendre. Où même que la RNC voudrait nous annexer. Je te le dis, la RNC est notre meilleur atout, mais ils en ont tous après notre or. Jusqu'à présent, Redding est toujours indépendante.}
 {175}{}{Et les autres rumeurs ?}
-{176}{}{C'est tout ce que je veux savoir pour l'instant. Au revoir.}
+{176}{}{C'est tout ce que je voulais savoir pour le moment. Au revoir.}
 {177}{}{Le Wanamingo, c'est la bête la plus hargneuse qui soit. Deux fois la taille d'un homme, aussi forte qu'un taureau Brahmine avec des ventouses à la place des bras. Impossible de le blesser avec des fusils. Les Indiens les auraient, soi-disant, appelés pour se venger des hommes blancs après la guerre. Moi, j'y crois pas trop.}
 {178}{}{Et les autres rumeurs ?}
-{179}{}{C'est tout ce que je veux savoir pour l'instant. Au revoir.}
+{179}{}{C'est tout ce que je voulais savoir pour le moment. Au revoir.}
 {180}{}{Ouais, il y a quelque temps deux de mes mineurs planaient un petit peu au Jet, si tu vois ce que je veux dire. Ils ont juré leurs grands dieux qu'ils avaient vu un bateau voler, en direction du Sud-Ouest.}
 {181}{}{Et les autres rumeurs ?}
-{182}{}{C'est tout ce que je veux savoir pour l'instant. Au revoir.}
+{182}{}{C'est tout ce que je voulais savoir pour le moment. Au revoir.}
 {183}{}{Dan et ses gars de la Morningstar penchent du côté de ces bégueules de la RNC. J'ai le sentiment que Redding fera bientôt partie de la RNC.}
 {184}{}{C'est pas mon problème. Parle-moi d'autre chose.}
 {185}{}{Ah, bon. Au revoir.}

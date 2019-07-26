@@ -9,7 +9,7 @@
 {108}{}{He, Vikki, Dave H. ist in dich verliebt.}
 {109}{}{Toll. Muß los.}
 {110}{}{Er: Ein armes Kind der Öde. Sie: Vielleicht hilft ihm eine Anpassung? Er: Ja. Du da! Willst du eine Anpassung?}
-{111}{}{Jah!}
+{111}{}{Ja!}
 {112}{}{Nein!}
 {113}{}{Sie: Ich hoffe, das hat was gebracht. Viel Glück auf der Reise!}
 {114}{}{Wie-sehn!}
@@ -18,13 +18,13 @@
 {117}{}{Wiedersehn!}
 {118}{}{Er: Na, siehst du? Die Lehren des Hub haben sich wieder einmal als wertvoll erwiesen!}
 {119}{}{Ich habe ein paar Fragen.}
-{120}{}{Danke! Wiedersehn!}
+{120}{}{Danke! Tschüß dann!}
 {121}{}{Sie: Na, wir sind im Showgeschäft in New Reno. Wir haben Hunderte von Filmen gemacht, viele davon sind Klassiker, wie zum Beispiel "Top Fun," "Pimper-Business," und "Tage des Kommens". Dadurch sind wir berühmt geworden.}
 {122}{}{Er: Aber als einer aus dem Geschäft wirst du das sicher schon gewußt haben.}
 {123}{}{Es ist schön, endlich die Gesichter zu den Namen kennenzulernen.}
 {124}{}{Wen interessiert's, ob IHR Anhänger seid? Sollte ich nicht meine eigene Wahl treffen.}
 {125}{}{Ach so. Ich habe noch ein paar Fragen an euch.}
-{126}{}{Danke, Wiedersehn.}
+{126}{}{Danke, Tschüß.}
 {127}{}{Sie: Oh, natürlich sollst du selbst deine Wahl treffen. Er: Und mit dem neuesten Buch des Hubs kannst du lernen, die RICHTIGE Wahl zu treffen!}
 {128}{}{Sein neuestes Buch? Ich dachte er ist tot?}
 {129}{}{Die "richtige" Wahl. Klar. Wie steht's denn mit dem freien Willen?}
@@ -57,7 +57,7 @@
 {156}{}{Sie: Du wagst es, den Hub (gelobt sei Seine Weitsicht) einen Spinner zu nennen? Hier? In einer Bastion, die sich ganz seinen Lehren widmet? Er: Raus hier! Und wenn du auf dem Weg mit irgend jemandem sprichst, wird man dich angreifen. Ungläubiger! Beide: Zum Glück sind wir ihn los.}
 {157}{}{Ich seh sie mir besser nicht an. Eure Filme fand ich schon immer Mist. Spielt doch mal 'ne Todesszene.}
 {158}{}{Eure Filme sind der letzte Dreck. Tschüß.}
-{159}{}{Wiedersehn.}
+{159}{}{Tschüß.}
 {160}{}{Sie: Neurodyne sind die Essenz der im Großen Krieg zerstörten Seelen, die deine geistliche Essenz besudeln und dich vom rechten Weg abbringen. Er: Wenn du mehr über unsere Lehren erfahren willst, mußt du unserer Kirche beitreten.}
 {161}{}{Ja, das klingt sehr interessant.}
 {162}{}{Man hat mir schon gesagt, das Ganze ist etwas abgespaced, aber ich hatte keine Ahnung, wie sehr. Dieser Hub muß wirklich ein totaler Spinner gewesen sein.}
@@ -76,7 +76,7 @@
 {175}{}{Vielleicht sollte ich euch zuerst erschießen!}
 {176}{}{Ich bin schon weg.}
 {177}{}{Er: Dies ist deine letzte Chance, deine Meinung zu ändern. Sie: Wir wollen wirklich nicht, daß dir etwas zustößt.}
-{178}{}{Hol euch der Teufel!}
+{178}{}{Fahr zur Hölle.}
 {179}{}{OK. Wie kann ich beitreten?}
 {180}{}{EUCH wird gleich etwas zustoßen.}
 {181}{}{Nein. Ich werd's riskieren. Bis dann.}
@@ -126,10 +126,7 @@
 {225}{}{Nein, wir wollen dir HELFEN.}
 {226}{}{Das ist der eigentliche Zweck der Hubologie.}
 {227}{}{[Applaus]}
-
 {228}{}{. Ich hoffe, deine Erleuchtung macht gute Fortschritte. Sie: Wir haben so...große... Hoffnungen für dich.}
-
 {229}{}{1. Lektion: Hier haben wir die Ewigkeit, das Große Rad. [Zeigt auf etwas] Und hier sind wir. [Zeigt auf etwas] Jetzt müssen wir nur noch sehr, sehr weit laufen und unsere Sternenbrüder treffen.}
 {230}{}{Mensch, da werden wir eine Menge Schuhe brauchen.}
-
 {231}{}{Er: Geh und rede mit AHS-7 und wir werden Hub-Genossen sein! Sie: Ich bin ganz aufgeregt! Er: Wenn ich neue Mitglieder werbe, werde ich immer ganz scharf. Sie: Oh, Süßer... Er: Oh, Baby......}

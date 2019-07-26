@@ -1,13 +1,13 @@
-{100}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Ca ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
+{100}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Elle ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
 {101}{}{Tu vois un citoyen de la Cité de l'Abri.}
 {102}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Elle ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
 {103}{}{::Applaudissements::}
 {104}{}{Notre héros ! Regardez !}
 {105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !}
-{106}{}{Salut, Capitaine.}
-{107}{}{La Cité de l'Abri avant tout, Capitaine.}
+{106}{}{Bonne journée, Capitaine.}
+{107}{}{La Cité de l'Abri avant tout, Capitaine !}
 {108}{}{Salut, citoyen.}
-{109}{}{La Cité de l'Abri avant tout, citoyen.}
+{109}{}{La Cité de l'Abri avant tout, citoyen !}
 {110}{}{Un mutant ! Gardes ! Gardes !}
 {111}{}{Une Goule ! Gardes ! Gardes !}
 {112}{}{Comment as-tu pénétré dans l'enceinte ?}
@@ -16,8 +16,8 @@
 {115}{}{On dirait qu'il y a de plus en plus d'étrangers qui arrivent à rentrer dans l'enceinte...}
 {116}{}{J'espère sincèrement que tu as un passe pour un jour.}
 {117}{}{J'ai l'impression qu'ils filent des passes pour un jour à *n'importe qui* en ce moment...}
-{118}{}{On m'a parlé de tes actes de bravoure. Tu as rendu un grand service à la Cité de l'Abri... et au monde entier.}
-{119}{}{Même la Première citoyenne a été impressionnée par ce que tu as fait.}
+{118}{}{J'ai entendu parler de tes exploits. Tu as rendu de grands services à la Cité de l'Abri... et au monde entier.}
+{119}{}{Ta bataille contre l'Enclave en impose même à la Première citoyenne.}
 {120}{}{Il paraît que t'as été jusqu'à San... Fran... Cisco. C'est vrai ?}
 {121}{}{Peut-être que la Cité de l'Abri *devrait* accueillir les étrangers.}
 {122}{}{C'était vrai ? Le gouvernement de l'ancien monde faisait encore la guerre ?}
@@ -29,7 +29,7 @@
 {128}{}{TOUS les citoyens dignes de ce nom dorment à cette heure-ci.}
 {129}{}{Ils dorment ? Nooon, plus maintenant.}
 {130}{}{J't'en prie... Reviens dans la matinée. J'ai une longue journée demain, il faut que je fasse des listes.}
-{131}{}{Salut, Capitaine.}
+{131}{}{Bonne journée, Capitaine.}
 {132}{}{La Cité de l'Abri avant tout, Capitaine !}
 {133}{}{Tu veux un beignet, Capitaine ?}
 {134}{}{Un problème, Capitaine ?}
@@ -55,7 +55,7 @@
 {154}{}{Moi ? Je vaque à mes occupations. Tu devrais peut-être en faire autant.}
 {155}{}{Je peux voir ton passe pour un jour, s'il te plaît ?}
 {156}{}{Oh... Je m'excuse. J'ai failli te prendre pour un domestique.}
-{157}{}{J'ai vraiment pas le temps de discuter avec les gens de ton espèce. Allez, circule.}
+{157}{}{Là, j'ai vraiment pas le temps de discuter avec les gens de ton espèce. Allez, circule.}
 {158}{}{Tu peux rester à distance, s'il te plaît ?}
 {159}{}{Reste là-bas, s'il te plaît.}
 {160}{}{Les domestiques nous dégagent du temps pour des choses plus importantes. Principalement pour faire des listes.}

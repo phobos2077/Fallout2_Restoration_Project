@@ -1,5 +1,5 @@
-{100}{}{Tu vois un enfant.}
-{101}{}{Tu vois un gamin.}
+{100}{}{Tu vois un gamin.}
+{101}{}{Tu vois un enfant.}
 {102}{}{C'est un enfant qui ressemble aux autres enfants.}
 {103}{}{Tu as l'air méchant.}
 {104}{}{Ne me fais pas de mal, d'acc' ?}
@@ -29,7 +29,6 @@
 {128}{}{Qui es-tu ? T'es humain ?}
 {129}{}{Tu es vachement grand.}
 {130}{}{Whoaaaaaah !}
-{131}{}{Ne me fais pas mal !}
+{131}{}{Ne me fais pas mal.}
 {132}{}{::Pleurs::}
 {133}{}{Au secours, maman !}
-

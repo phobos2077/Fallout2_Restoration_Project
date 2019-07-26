@@ -6,7 +6,7 @@
 {105}{}{Ziemlich pelzig.}
 {106}{}{Ah, ich verstehe. Du mußt neu in der Stadt sein. Gut, ich werde dir etwas sagen. Ich werde eine spezielle Wette für
  Dich während den morgigen Kämpfen machen. Möchtest du, daß ich das für dich mache?}
-{107}{}{[Du nickst.] Ja, ja. [Und reichst deinen Geldbeutel.]}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Ich? Plemplem. Bis bald, Pelz.}
 {109}{}{Gute Idee. Du kommst morgen hier zurück und falls dein Critter bei den Kämpfen gewinnt, gebe ich dir dein Geld.
  Okay?}
@@ -68,7 +68,7 @@
 {159}{}{Kommt und seht das Duell des Tages!}
 {160}{}{Wilde Kreaturen kämpfen, während Ihr Geld gewinnt! IHR WERDET ES LIEBEN!}
 {161}{}{Bringt volle Geldbeutel und noch vollere Erwartungen! HIER ENTLANG!}
-{162}{}{Hau' ab.}
+{162}{}{Raus hier, aber schnell.}
 {163}{}{Ich brauche deine Art von Geschäft nicht.}
 {164}{}{Bring' es jemand anderem.}
 {165}{}{Bleib' einfach von meiner Arena weg.}
@@ -86,7 +86,7 @@
 {173}{}{Der sportliche Teil ist die Wette auf den Ausgang des Kampfes. Und so läuft es. Du kommst zu mir und sagst, daß du
  wetten möchtest. Ich sage dir, welche zwei Critters als nächstes kämpfen werden, und du sagst mir, auf welchen du dein Geld
  setzt.}
-{174}{}{Und dann?}
+{174}{}{Was dann?}
 {175}{}{Ganz einfach, falls dein Critter gewinnt, verdoppelt sich dein Geld. Und es VERDREIFACHT sich für den Fall eines
  K.O. in der ersten Runde! Falls dein Critter verliert, gehört dein Geld mir. Es gibt gewöhnlich mehrere Kämpfe täglich.
  Solange der Bestand der Critters niedrig ist, kannst du auf alle wetten. Aber nur eine Wette pro Kampf. Oh, ja, um alles
@@ -121,7 +121,7 @@
 {202}{}{Ich denke, ich werde diese Runde aussetzen.}
 {203}{}{Schau, niemand zwingt Dich dazu, auf sie zu setzen, oder? Wenn dir nicht gefällt, was du siehst, geh' einfach weg,
  man wird Dich nicht vermissen. Verstanden?}
-{204}{}{Ich hab verstanden.}
+{204}{}{Ich verstehe.}
 {205}{}{Was für ein Schlag! }
 {206}{}{ holte aus }
 {207}{}{ in der ersten Runde! Welche Action!}
@@ -151,12 +151,6 @@
 {229}{}{Das hätte mich gekostet.}
 {230}{}{Das war ein guter Kampf. Obwohl ich froh bin, nicht darauf gewettet zu haben.}
 {231}{}{Ok, danke.}
-
-####
-# Fighter Names
-####
-
-# Fighter 1
 {300}{}{Keen Squeek}
 {301}{}{Vicky}
 {302}{}{Spike}
@@ -166,8 +160,6 @@
 {306}{}{Jackelope}
 {307}{}{Killer}
 {308}{}{Boss}
-
-# Fighter 2
 {310}{}{Tanker}
 {311}{}{Muttley}
 {312}{}{Spud}
@@ -177,8 +169,6 @@
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-
-# Fighter 3
 {320}{}{Stumpy}
 {321}{}{Shredder}
 {322}{}{Ripper}
@@ -188,8 +178,6 @@
 {326}{}{One-eye}
 {327}{}{Spot}
 {328}{}{Lord Wiggler}
-
-# Fighter 4
 {330}{}{Lucky}
 {331}{}{Zoroaster the Great}
 {332}{}{Shub}
@@ -199,8 +187,6 @@
 {336}{}{Precious}
 {337}{}{Fraggle}
 {338}{}{Captain Midnight}
-
-# Fighter 5
 {340}{}{Hammer}
 {341}{}{Sekretäriat}
 {342}{}{Balou}
@@ -210,9 +196,7 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
 {348}{}{Mr. Baggins}
-
-# Fighter 6
-{350}{}{Lightning}
+{350}{}{Blitz}
 {351}{}{Percy}
 {352}{}{Flower}
 {353}{}{Rumpelstilzchen}

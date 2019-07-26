@@ -9,7 +9,7 @@
 {111}{}{Du hörst eine Lautsprecherdurchsage: Warnung! Eindringlinge! Sicherheitssysteme werden
  aktiviert.}
 {112}{}{Du deaktivierst das Kraftfeld.}
-{113}{}{ deaktiviert das Kraftfeld.}
+{113}{}{ schaltet das Kraftfeld ab.}
 {114}{}{Du aktivierst das Kraftfeld.}
-{115}{}{ aktiviert das Kraftfeld.}
+{115}{}{ schaltet das Kraftfeld ein.}
 {116}{}{Du zerstörst den Kraftfelderzeuger.}

@@ -16,7 +16,7 @@
 {115}{}{Systèmes de sécurité... 2A... 2B... 2C fonctionnent au niveau maximum d'efficacité.}
 {116}{}{Systèmes de sécurité... 3A... 3B... 3C fonctionnent au niveau maximum d'efficacité.}
 {117}{}{Systèmes environnementaux...}
-{118}{}{Aérations 1A... 1B... fonctionnent au niveau maximum d'efficacité.}
+{118}{}{Aérations 1A...1B... fonctionnent au niveau maximum d'efficacité.}
 {119}{}{Aérations 2A... 2B...}
 {120}{}{2B...}
 {121}{}{Confirmation en cours...}
@@ -34,9 +34,9 @@
 {133}{}{Tous les relevés sont normaux. système de diagnostic terminé. Préparation de l'écriture sur le disque...}
 {134}{}{Relevés enregistrés sur l'holodisque.}
 {135}{}{La liste des relevés a été transférée au Bureau principal des listes.}
-{136}{}{Trois listes de sauvegarde sont en cours d'intégration dans le coffre des sources.}
+{136}{}{Trois listes de sauvegarde sont en cours d'intégration dans le Coffre des sources.}
 {137}{}{Une sauvegarde de protection des listes est en cours d'envoi au principal serveur de listes pour être distribuée à tous les autres terminaux de la Cité de l'Abri.}
-{138}{}{Vous pouvez maintenant éteindre votre terminal en toute sécurité. }
+{138}{}{Vous pouvez maintenant éteindre votre terminal en toute sécurité.}
 {139}{}{Merci.}
 {140}{}{Lancement du système de diagnostic.}
 {141}{}{Une fois lancé, le système de diagnostic peut être annulé à tout moment par l'opérateur du système.}
@@ -68,7 +68,7 @@
 {167}{}{[Tu te connectes à l'ordinateur central de la Cité de l'Abri. L'interface semble relativement simple à comprendre ; tout semble divisé en archives.]}
 {168}{}{Ou-hou ? y'a quelqu'un ?}
 {169}{}{[Essayer d'ouvrir la boîte pour laisser sortir la femme]}
-{170}{}{[Partir]}
+{170}{}{Dégage !}
 {171}{}{[Faire une recherche dans les archives pour trouver l'emplacement de l'Abri 13]}
 {172}{}{[Chercher dans les archives pour trouver une allusion au Jardin d'Eden en Kit]}
 {173}{}{[Insérer le disque de la centrale de Gecko dans l'ordinateur]}
@@ -78,18 +78,18 @@
 {177}{}{[Se déconnecter du terminal]}
 {178}{}{[La boîte métallique ne répond pas.]}
 {179}{}{[Essayer d'ouvrir la boîte pour laisser sortir la femme]}
-{180}{}{[Partir]}
+{180}{}{Dégage !}
 {181}{}{[Tu t'agenouilles sous la boîte métallique. Tu insères tes doigts dans l'une des planches situées sous la boîte et tu l'arraches d'un coup. Il n'y a pas de femme, là-dedans ! Tout juste une bande de serpents morts et des lampions.]}
 {182}{}{[Aller] jusqu'aux serpents, tâtonner tout autour]}
-{183}{}{[Partir]}
+{183}{}{Dégage !}
 {184}{}{On entend un DZZZZZIIIIINNGGGG et puis...}
 {185}{}{...tu te réveilles.}
-{186}{}{[Partir]}
+{186}{}{Dégage !}
 {187}{}{[Tu ouvres le panneau situé sous la machine et tu cherches un module de reconnaissance vocale. Tu n'en vois pas... Les cartes de circuit de cet ordinateur ont l'air très différent de celles de l'ordinateur de l'Abri 13.]}
 {188}{}{[Replacer le panneau et consulter les archives informatiques]}
 {189}{}{Eh bien, ça valait le coup. Vaudrait mieux aller voir ailleurs.}
 {190}{}{[Mais en replaçant le panneau, tu aperçois soudain une petite photo du Pip-Boy située sous le terminal. A côté de la photo, se trouve un emplacement qui semble avoir la taille de ton Pip-Boy.]}
-{191}{}{[Insèrer ton Pip-Boy dans l'emplacement vide]}
+{191}{}{[Insérer ton Pip-Boy dans l'emplacement vide]}
 {192}{}{[Quitter le terminal]}
 {193}{}{[Alors que tu t'apprêtes à partir, tu vois le petit personnage souriant de ton Pip-Boy clignotant sous la boîte métallique ! Il désigne un espace libre à côté de lui. Il veut peut-être parler au petit personnage de ton Pip-Boy.]}
 {194}{}{[Alors que tu t'apprêtes à partir, tu aperçois soudain une petite photo du Pip-Boy située sous le terminal. A côté de la photo se trouve un emplacement qui semble avoir la taille de ton Pip-Boy.]}
@@ -99,22 +99,22 @@
 {198}{}{[Eh ben ! Ils ont l'air d'avoir PLEIN de choses à se dire ! Ils échangent des mots bizarres qui ressemblent à des grincements, des bip-bip et des grésillements de grillon. Il finit par y avoir un bip, et ton Pip-Boy s'éclipse.]}
 {199}{}{[Prendre ton Pip-Boy, et partir]}
 {200}{}{[Une petite fenêtre s'ouvre sur l'écran du terminal, à côté duquel se trouve un Pip-Boy souriant. A ce moment-là, le Pip-Boy se met à siffloter en silence et à taper des pieds. Une lumière rouge s'allume à côté de l'emplacement de l'ordinateur.]}
-{201}{}{[Attendre]}
-{202}{}{[Annuler la procédure et quitte le terminal]}
+{201}{}{Attends...}
+{202}{}{[Annuler la procédure et quitter le terminal]}
 {203}{}{[Un grincement malsain se fait entendre de l'emplacement du Pip-Boy. Le Pip-Boy continue à siffler silencieusement et à taper des pieds.]}
-{204}{}{[Attendre]}
+{204}{}{Attends...}
 {205}{}{[Annuler la procédure et quitter le terminal]}
 {206}{}{[Le Pip-Boy s'arrête tout d'un coup et fronce les sourcils. Un point d'exclamation apparaît au-dessus de sa tête, et il commence à brandir son doigt dans ta direction.]}
 {207}{}{[Brandir un doigt à ce petit salaud !]}
 {208}{}{[Essayer de déterminer ce qui ne va pas]}
-{209}{}{[Annuler la procédure et quitte le terminal]}
+{209}{}{[Annuler la procédure et quitter le terminal]}
 {210}{}{[Un petit écran sous le Pip-Boy indique que la dernière maintenance prévue a été effectuée il y a 50 352 ans. Les archives sont corrompues et ont besoin d'être « reformatées ».] Voulez-vous continuer ?}
-{211}{}{Heu... ouais.}
+{211}{}{Euh... Sûr.}
 {212}{}{Qu'quoi...non ! Surtout pas !}
-{213}{}{[Annuler la procédure et quitte le terminal]}
+{213}{}{[Annuler la procédure et quitter le terminal]}
 {214}{}{Début de la procédure d'initialisation... Reformatage du Pip-Boy...}
 {215}{}{}
-{216}{}{[Attendre]}
+{216}{}{Attends...}
 {217}{}{[Annuler la procédure et quitter le terminal]}
 {218}{}{Début de la procédure d'initialisation...}
 {219}{}{                             Reformatage du Pip-Boy...}
@@ -122,7 +122,7 @@
 {221}{}{Annuler ! Annuler !}
 {222}{}{Copie en cours des archives géographiques de la Californie du Nord dans la base de données du Pip-Boy.}
 {223}{}{Copie des archives... Collines Brisées... Gecko... République de Nouvelle Californie... New Reno... Redding... Cité de l'Abri... Téléchargement terminé.}
-{224}{}{[Continuer de chercher dans les archives pour trouver d'autres informations.]}
+{224}{}{[Continuer de chercher dans les archives pour trouver d'autres informations]}
 {225}{}{[Se déconnecter du terminal]}
 {226}{}{[Tu reviens au menu principal. L'écran du terminal affiche une série d'archives et de programmes de recherche.]}
 {227}{}{[Essayer de trouver une allusion quelconque à l'Abri 13 dans les archives]}
@@ -149,13 +149,13 @@
 {248}{}{[Lever le pouce pour faire signe au Pip-Boy]}
 {249}{}{[Faire un doigt au Pip-Boy]}
 {250}{}{Intégration des informations sur le développement de Fallout 2 dans la base de données du Pip-Boy. Copie des fichiers...  Cité de l'Abri... New Reno... Crédits. Téléchargement terminé.}
-{251}{}{Danke.}
+{251}{}{Merci.}
 {252}{}{Vaudrait mieux que ce truc qui me fait perdre mon temps me rapporte quelques points de compétences supplémentaires, ou je vais vraiment m'énerver.}
 {253}{}{[Le Pip-Boy à l'écran te fait un signe d'adieu, et l'écran devient noir. Le terminal s'est éteint.]}
 {254}{}{[Partir]}
 {255}{}{Ouais, tu ferais bien de cavaler, pauvre tache !}
 {256}{}{[Le terminal s'éteint. Tu n'as aucune idée du moyen de rallumer le système.]}
-{257}{}{[Partir]}
+{257}{}{[Quitter]}
 {258}{}{Lecture du disque... Données du réacteur : Centrale atomique... Efficacité : 43%/75%... Erreur : Calibrage de la centrale - MD4/gh1... Souhaitez-vous optimiser ?}
 {259}{}{}
 {260}{}{}
@@ -173,7 +173,7 @@
 {272}{}{Oooooooh. Za soooonnnne.}
 {300}{}{Alors que tu t'apprêtais à retourner dans la liste des archives, tu remarques adroitement une entrée cachée dans la liste des archives..}
 {301}{}{Alors que tu allais éteindre le terminal, tu remarques une entrée cachée dans la liste des archives.}
-{302}{}{[Continuer]}
+{302}{}{[Continue]}
 {303}{}{Après quelques minutes, tu peux accéder à l'archive verrouillée. Il y a seulement un fichier de listé et il s'intitule "Classé". On dirait que tes points de compétences en Sciences te sont utiles.}
 {304}{}{[Lire]}
 {305}{}{Au fur et à mesure de ta lecture, il apparaît que le seul objectif de l'Abri 8 était d'agir en tant qu'"Abri de contrôle" dans une série d'Abris créés par une corporation nommée Vault-Tec. La mission de l'Abri 8 était de s'ouvrir et de recoloniser la surface après 10 ans. Il apparaît également que l'Abri 8 n'était pas le seul Abri avec un objectif autre que de protéger ses habitants de la Grande Guerre.}

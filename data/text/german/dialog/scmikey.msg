@@ -7,8 +7,8 @@
 {104}{}{Womit kann ich dienen?}
 {105}{}{Gib mir Fleisch.}
 {106}{}{Ich nehm einen.}
-{107}{}{Was kannst du mir über diese Stadt sagen?}
-{108}{}{Auf Wiedersehen.}
+{107}{}{Was kannst du mir über die Stadt erzählen?}
+{108}{}{Wiedersehn.}
 {109}{}{Guten Appetit, Fremdling!}
 {110}{}{Da drüben stehen Senf und Zwiebeln.}
 {111}{}{Hey, Kumpel.}

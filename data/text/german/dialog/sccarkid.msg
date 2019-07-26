@@ -14,7 +14,7 @@
 {113}{}{Gut. Oh, Junge.}
 {114}{}{Er ist drin in seinem Büro. Er ist da immer drin.}
 {115}{}{Wo ist sein Büro?}
-{116}{}{Okay. Danke.}
+{116}{}{OK. Danke.}
 {117}{}{Am Wassertank. Ich spiel da manchmal. Ich guck ihm heimlich zu, wenn er arbeitet.}
 {118}{}{Du bist wohl eine kleine Nervensäge, was?}
 {119}{}{Danke, Kleiner. Du hast mir sehr geholfen.}
@@ -24,7 +24,7 @@
 {123}{}{Sag deinem Vater, ich bringe Neuigkeiten über Mr. Bishop. Kannst du dir das merken?}
 {124}{}{Pfnah.}
 {125}{}{Du hast Matsch in der Birne! Matschbirne!}
-{126}{}{Okay.}
+{126}{}{OK.}
 {127}{}{Neuigkeiten über Mr. Mishop. Richtig?}
 {128}{}{Nicht schlecht.}
 {129}{}{Vati sagt, er hat keine Zeit.}

@@ -1,28 +1,19 @@
-# quick look
 {100}{}{Tu vois un maquereau.}
-
-# examine
 {150}{}{Tu vois un homme bien habillé. Ses vêtements brillent tellement qu'ils réfléchissent une lumière aveuglante.}
 {151}{}{Tu vois un homme avec des vêtements tellement tape-à-l'oeil qu'il faudrait des lunettes de soleil pour le regarder.}
 {152}{}{Tu vois un maquereau. Il a vraiment de la classe.}
 {153}{}{Tu vois un maquereau. Il te fait un signe.}
 {154}{}{Tu vois un maquereau. Il est tellement élégant qu'il pourrait être élu maquereau de l'année.}
 {155}{}{Tu vois un maquereau. Ses vêtements sont tellement tape-à-l'oeil qu'il faudrait des lunettes de soleil pour le regarder.}
-
-# 1. ENCLAVE DESTROYED (MALE)
 {200}{}{Hé mec, j'ai entendu dire que tu as détruit l'Enclave. Peut-être que MAINTENANT tu veux te détendre ?}
 {201}{}{Le mec détruit l'Enclave, il croit posséder le monde. Conneries.}
 {202}{}{Yo, mec ! Tu sais ce qu'il y a de mieux que d'exploser une plate-forme pétrolière ? C'est d'avoir quelqu'un qui s'occupe de ton derrick, tu vois ce que je veux dire ?}
-
-# 2. ENCLAVE DESTROYED (FEMALE)
 {220}{}{J'ai entendu dire que tu avais détruit l'Enclave, chérie. Peut-être que MAINTENANT tu peux travailler pour moi ?}
 {221}{}{La nana détruit l'Enclave, elle croit posséder le monde. Conneries.}
 {222}{}{Une nana sexy comme toi qui botte le cul de l'Enclave pourrait gagner BEAUCOUP d'argent dans cette ville...}
-
-# 3. (MALE PORN STAR)
 {230}{}{Elle a intérêt d'avoir mon fric...}
 {231}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
-{232}{}{Celle-là, elle a intérêt à ne rien me cacher...}
+{232}{}{Celle-là elle a intérêt à ne rien me cacher...}
 {233}{}{Continue, alors. Marche à côté.}
 {234}{}{Tu cherches un peu d'action ?}
 {235}{}{Pourquoi ne prendrais-tu pas une de mes filles pour tes films, mon frère ?}
@@ -36,15 +27,13 @@
 {243}{}{J'ai celle qu'il te faut pour tes films, elle a un cul comme un beau fruit juteux.}
 {244}{}{Fais-moi confiance. J'ai été élu maquereau de l'année pendant deux années consécutives.}
 {245}{}{Je comprends pas comment TOI, tu as pu devenir une star...}
-
-# 4. (PORN STAR FEMALE)
 {260}{}{Elle a intérêt d'avoir mon fric...}
 {261}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
-{262}{}{Celle-là, elle a intérêt à ne rien me cacher...}
+{262}{}{Celle-là elle a intérêt à ne rien me cacher...}
 {263}{}{Continue, alors. Marche à côté.}
-{264}{}{Regarde moi ce cul qui ressemble à un beau fruit juteux.}
-{265}{}{Bébé, laisse-moi serrer ce cul juteux que t'as là.}
-{266}{}{::Sifle::}
+{264}{}{Regardez-moi ce joli p'tit cul juteux.}
+{265}{}{Bébé, laisse-moi serrer ce joli p'tit cul juteux que t'as là.}
+{266}{}{::Siffle::}
 {267}{}{::Mime le mot 'putain'::}
 {268}{}{Tu dances dans les casinos de temps en temps, ma chérie ?}
 {269}{}{Si tu cherches un vrai partenaire, tu devrais essayer avec moi mon petit lapin.}
@@ -55,10 +44,8 @@
 {274}{}{Bordel, un corps comme le tien ça devrait être illégal.}
 {275}{}{Chérie, c'est une merveille que la rue se mette pas à fondre sous tes jambes.}
 {276}{}{Viens travailler pour moi, chérie. J'ai été élu maquereau de l'année pendant deux années consécutives.}
-{277}{}{Bébé, laisse-moi serrer ce cul juteux que t'as là.}
+{277}{}{Bébé, laisse-moi serrer ce joli p'tit cul juteux que t'as là.}
 {278}{}{Puuuutain.}
-
-# 5. (MALE, MADE MAN)
 {290}{}{Elle a intérêt d'avoir mon fric...}
 {291}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
 {292}{}{Celle-là elle a intérêt à ne rien me cacher...}
@@ -75,11 +62,9 @@
 {303}{}{Fais-moi confiance. J'ai été élu maquereau de l'année pendant deux années consécutives.}
 {304}{}{Le gangster arrive...}
 {305}{}{Le gros bras arrive...}
-
-# 6. (FEMALE MADE MAN)
 {320}{}{Elle a intérêt d'avoir mon fric...}
 {321}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
-{322}{}{Celle-là elle a intérêt à ne rien me cacher.}
+{322}{}{Celle-là elle a intérêt à ne rien me cacher...}
 {323}{}{Mais qui est cette beauté que je vois là ?}
 {324}{}{Bordel, j'adore une femme qui connaît ses crimes.}
 {325}{}{T'as du style ma soeur, t'as du style.}
@@ -88,8 +73,6 @@
 {328}{}{Demande-moi et je protégerai tes arrières, ma soeur.}
 {329}{}{Je te protège, ma soeur.}
 {330}{}{J'adore ton attitude gangster aux cheveux bruns, chérie.}
-
-# 7. (MALE PRIZEFIGHTER)
 {350}{}{Elle a intérêt d'avoir mon fric...}
 {351}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
 {352}{}{Celle-là elle a intérêt à ne rien me cacher...}
@@ -107,8 +90,6 @@
 {364}{}{Fais-moi confiance. J'ai été élu maquereau de l'année pendant deux années consécutives.}
 {365}{}{Le champion arrive...}
 {366}{}{Le gros bras arrive...}
-
-# 8. (FEMALE PRIZEFIGHTER)
 {380}{}{Elle a intérêt d'avoir mon fric...}
 {381}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
 {382}{}{Celle-là elle a intérêt à ne rien me cacher...}
@@ -123,8 +104,6 @@
 {391}{}{Ne me laisse pas seul sur le ring, tu entends ?}
 {392}{}{J'ai mis 100 jetons sur toi, ma soeur. Ne me déçois pas maintenant.}
 {393}{}{J'adore tes cheveux bruns... et ton sacré crochet du gauche.}
-
-# 9. FLOAT (COMPANION: MYRON)
 {410}{}{Elle a intérêt d'avoir mon fric...}
 {411}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
 {412}{}{Celle-là elle a intérêt à ne rien me cacher...}
@@ -146,19 +125,17 @@
 {428}{}{Yo, Myron ! Besoin de compagnie pour ce soir ? J'en ai une vrrrraiiiiment mignonne pour toi.}
 {429}{}{C'est pas des esclaves, c'est des vraies professionnelles... T'écoutes ce que je te dis ?}
 {430}{}{Myron ! Mon garçon, tu me dois toujours le fric de la semaine dernière !}
-{431}{}{Si elle peut sucer une balle de golf à travers un tuyau de jardin ? Bordel ouais !}
+{431}{}{Si elle peut sucer une balle de golf à travers un tuyau de jardin ? Bordel ouais.}
 {432}{}{J'ai là une femme qui fera de toi un vrai mâle, en échange de quelques jetons.}
 {433}{}{J'ai ce qu'il y a de mieux dans mon étable.}
 {434}{}{Qu'est-ce que tu fous en dehors de l'étable, Myron ? Tu cherches de nouveaux talents ?}
 {435}{}{Le vieux Mordino te laisse sortir finalement, Myron ?}
-
-# 10. (COMPANION: SPOUSE = FEMALE)
 {440}{}{Elle a intérêt d'avoir mon fric...}
 {441}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
 {442}{}{Celle-là elle a intérêt à ne rien me cacher...}
 {443}{}{J'ai encore attrapé Myron qui foutait des coups de poing à une de mes filles.}
 {444}{}{J'espère que j'attraperai plus Myron en train de jouer aux Vapeurs de Cleveland sur une de mes filles.}
-{445}{}{Besoin de compagnie pour ce soir ? J'en ai une vrrrraiiiiment mignonne pour toi.}
+{445}{}{Besoin de compagnie pour ce soir, mon frère ? J'en ai une vrrrraiiiiment mignonne pour toi.}
 {446}{}{C'est pas des esclaves, c'est des vraies professionnelles... T'écoutes ce que je te dis ?}
 {447}{}{Je suis si brillant que Reno en perd de son éclat.}
 {448}{}{Tu ne pourras trouver mieux NULLE PART AILLEURS.}
@@ -173,8 +150,6 @@
 {457}{}{C'est ta *femme* hein ? Elle ferait bien de faire gaffe à ses fesses dans cette ville.}
 {458}{}{C'est mon coin, arrête de faire traîner ta pute par ici.}
 {459}{}{J'espère pour toi que je ne te verrai pas vendre ta salope dans ma rue.}
-
-# 11. FLOAT (MALE SLAVER)
 {470}{}{Elle a intérêt d'avoir mon fric...}
 {471}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
 {472}{}{Celle-là elle a intérêt à ne rien me cacher...}
@@ -203,11 +178,9 @@
 {495}{}{Ne t'amuse pas à jouer au jeu du foulard avec une de mes filles, esclavagiste.}
 {496}{}{J'aurais p'tet un stock à te vendre plus tard si ces filles me filent pas mon fric.}
 {497}{}{Les esclavagistes sont toujours les bienvenus dans cette ville.}
-
-# 12. (FEMALE SLAVER)
 {500}{}{Elle a intérêt d'avoir mon fric...}
 {501}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
-{502}{}{Celle-là, elle a intérêt à ne rien me cacher...}
+{502}{}{Celle-là elle a intérêt à ne rien me cacher...}
 {503}{}{Je suis si brillant que Reno en perd de son éclat.}
 {504}{}{Besoin de compagnie pour ce soir ? Je peux t'avoir une petite chose vrrrraiiiiment mignonne pour toi, homme ou femme, ce que tu veux.}
 {505}{}{J'ai cette fille que tu devrais voir, esclavagiste, elle a un sacré beau cul juteux.}
@@ -218,11 +191,9 @@
 {510}{}{Je ressemble pas à quelqu'un qui cherche à acheter des esclaves, mais j'aurais p'tet besoin de vendre un peu plus tard.}
 {511}{}{J'ai cette fille que tu devrais voir, esclavagiste, elle a un sacré beau cul juteux.}
 {512}{}{Les esclavagistes sont toujours les bienvenus dans cette ville.}
-
-# 13. (MALE, NO REP)
 {520}{}{Elle a intérêt d'avoir mon fric...}
 {521}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
-{522}{}{Celle-là, elle a intérêt à ne rien me cacher...}
+{522}{}{Celle-là elle a intérêt à ne rien me cacher...}
 {523}{}{Tu cherches un peu d'action ?}
 {524}{}{Tu cherches à être tout... mouillé ?}
 {525}{}{Tu ne pourras trouver mieux NULLE PART AILLEURS.}
@@ -244,8 +215,6 @@
 {541}{}{Si je te chope en train de jouer aux Vapeurs de Cleveland sur n'IMPORTE LAQUELLE de mes filles, je te TUERAI.}
 {542}{}{Tu cherches un peu d'action ?}
 {543}{}{Les femmes les plus raffinées de tout New Reno. Si tu veux, elles sont à toi... Si tu as des jetons.}
-
-# 14. (FEMALE, NO REP)
 {550}{}{Elle a intérêt d'avoir mon fric...}
 {551}{}{Ces touristes ne sont pas aussi obsédés que je le voudrais.}
 {552}{}{Celle-là elle a intérêt à ne rien me cacher...}

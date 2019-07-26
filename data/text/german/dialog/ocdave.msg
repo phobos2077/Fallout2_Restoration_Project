@@ -13,7 +13,7 @@
 {110}{}{Was auch immer; ich hab mich gerade erinnert, daß ich wohin muß.}
 {111}{}{Hey, das kann passieren — und wenn's passiert, passiert's mir.}
 {112}{}{Äh... ich jetzt gehn.}
-{113}{}{Zum Beispiel?}
+{113}{}{Wie zum Beispiel?}
 {114}{}{Hübscher Anblick. Wie kam's dazu?}
 {115}{}{Ich wär jetzt gern woanders.}
 {116}{}{Ich wurde zwei Monate zu früh geboren. Als ich ein Jahr alt war, wurde ich auf der
@@ -53,8 +53,6 @@
 {142}{}{Zumindest ist meine Zeit jetzt gekommen. Wirst du mich jetzt töten?}
 {143}{}{Ja.}
 {144}{}{Nein.}
-
-
 {145}{}{Als ich acht war, wurde mein Hund von einem Traktor überfahren. Als ich neun war, verlor
  meine Mutter ihren Arm durch ein tollwütiges Brahmin. Als ich zehn war, wurde meine Schwester
  von einem Rudel Hunde zerfetzt. Als ich elf war, hat mein Großvater sich umgebracht, weil ich
@@ -65,7 +63,6 @@
  Dachs. Mit siebzehn habe ich mir meinen linken großen Zeh mit einer Hacke abgehackt. Als ich
  achtzehn war, verlor mein Vater sein rechtes Bein durch den gleichen Traktor, der meinen Hund
  getötet hatte. Als ich neunzehn war...}
-
 {147}{}{Ja, da saß ich nun in der Wüste und wartete darauf, daß die Welt mein erbärmliches Dasein verschlucken würde, als plötzlich ein Rudel Deathclaws auftauchte. Ich hab gedacht, so, das war's jetzt. Jetzt kann ich sterben. Ich kann mein Leben als ein Haufen Deathclawkacke in der Wüste beenden. Aber nein, das Schicksal hatte noch eine grausame Karte, die es gegen mich ausspielte.}
 {148}{}{Du siehst, die Deathclaws haben mich nicht getötet. Statt dessen gaben sie mir Wasser,
  brachten mich hierher, gaben mir zu essen, wuschen mich und lassen mich jetzt nicht mehr gehen.

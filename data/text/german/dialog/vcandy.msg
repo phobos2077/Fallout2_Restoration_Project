@@ -15,7 +15,7 @@
 {112}{}{Also, mein Freund hier könnte eigentlich ein bißchen medizinische Behandlung vertragen.}
 {113}{}{Also, meine Freunde hier könnten eigentlich ein bißchen medizinische Behandlung
  vertragen.}
-{114}{}{Wo sind wir hier?}
+{114}{}{Was ist das alles hier?}
 {115}{}{Ähh, wo sind wir hier noch mal?}
 {116}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
@@ -27,16 +27,16 @@
 {122}{}{Pflick? Pflick! Nimm Geeeeld, flick Loch.}
 {123}{}{Tschüssi!}
 {124}{}{Nich nug Geld - Winke-winke.}
-{125}{}{In Ordnung.}
+{125}{}{Also gut.}
 {126}{}{Das ist aber ganz schön teuer. Wie wär's mit }
 {127}{}{?}
 {128}{}{Vergiß es. Wie wär's statt dessen mit meinem Freund?}
 {129}{}{Vergiß es. Wie wär's statt dessen mit meinen Freunden?}
-{130}{}{Wo sind wir hier?}
+{130}{}{Was ist das alles hier?}
 {131}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {132}{}{Ich hab nicht genug. Ich komm wieder, wenn ich mehr aufgetrieben habe.}
-{133}{}{Nein danke. Vielleicht ein anderes Mal.}
+{133}{}{Nein danke. Vielleicht ein andermal.}
 {134}{}{Hmmmm, na gut. Das klingt fair.}
 {135}{}{Dann mal los. Ich mach dich bloß für den alten Doc hier fest... stecke deine Arme in die
  Schlitze hier, ziehe die Klemmen an und befestige die Klammern...}
@@ -46,7 +46,7 @@
 {139}{}{Tschühüßßßß.}
 {140}{}{Kannst du meinen Freund behandeln?}
 {141}{}{Kannst du meine Freunde behandeln?}
-{142}{}{Wo sind wir hier?}
+{142}{}{Was ist das alles hier?}
 {143}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {144}{}{Mir geht's viel besser, danke.}
@@ -69,22 +69,22 @@
 {158}{}{OK... so wie's aussieht, wird's schon 'n paar }
 {159}{}{ Hühner kosten. Wenn du das Geld hast, ist's kein Problem.}
 {160}{}{Aber natürlich gibt's keine Garantie für das, was der alte Doc im Hinterzimmer treibt...}
-{161}{}{Na gut.}
+{161}{}{Also gut.}
 {162}{}{Das ist aber ganz schön teuer. Wie wär's mit }
 {163}{}{?}
 {164}{}{Macht nichts. Wie wär's statt dessen mit mir?}
-{165}{}{Wo sind wir hier?}
+{165}{}{Was ist das alles hier?}
 {166}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {167}{}{Ich hab nicht genug. Ich komm wieder, wenn ich mehr aufgetrieben habe.}
 {168}{}{Hab meine Meinung geändert. Vielleicht ein andermal.}
 {169}{}{Äh, also...ich mach dir einen Vorschlag. }
 {170}{}{ Eier für euch alle und wir sind quitt. Was sagst du dazu?}
-{171}{}{In Ordnung.}
+{171}{}{Also gut.}
 {172}{}{Ich weiß nicht recht. Das ist ein bißchen teuer. Wie wär's mit }
 {173}{}{ Hühner?}
 {174}{}{Kannst du statt dessen nur mich behandeln?}
-{175}{}{Wo sind wir hier?}
+{175}{}{Was ist das alles hier?}
 {176}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {177}{}{Ich hab nicht genug. Ich komm wieder, wenn ich mehr aufgetrieben habe.}
@@ -121,12 +121,12 @@
 {201}{}{Nur zu. Ruf sie her. Sie werden nur nicht rechtzeitig hier sein, um deine Haut zu retten.}
 {202}{}{Na denn. Keine Ursache.}
 {203}{}{Also...kann ich vielleicht sonst noch was für dich tun?}
-{204}{}{Wie kann ich dir behilflich sein?}
+{204}{}{Wie kann ich dir helfen?}
 {205}{}{Ich könnte etwas medizinische Versorgung vertragen.}
 {206}{}{Ähm, mir muß ein Geschwür entfernt werden. Mein sechster Zeh.}
 {207}{}{Mein Freund hier könnte etwas medizinische Versorgung vertragen.}
 {208}{}{Meine Freunde hier könnten etwas medizinische Versorgung vertragen.}
-{209}{}{Wo sind wir hier?}
+{209}{}{Was ist das alles hier?}
 {210}{}{Wo sind wir hier noch mal?}
 {211}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
@@ -319,9 +319,6 @@
 {348}{}{Stark! Ich wollte schon immer wie Kryten aussehen! Hier sind das Geld und die
  Kampfrüstung.}
 {349}{}{Gut. Los geht's.}
-
-# Added by Seraph:
 {350}{}{Du hast deine Max TP um 4 verringert.}
-# Added by killap:
 {351}{}{Wahh? Ich fühlt sich nix gut. Mir geht besser schlafen.}
 {352}{}{Ugh...Is guuut. Tschööö.}

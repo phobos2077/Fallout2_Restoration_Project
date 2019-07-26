@@ -1,6 +1,5 @@
 {100}{}{Tu vois Morlis, une de tes tantes, celle qui ne t'a jamais manifesté le moindre amour.}
 {101}{}{Pourquoi me déranges-tu, mon neveu ? Ne vois-tu pas que je suis occupée ?}
-{301}{}{Pourquoi me déranges-tu, ma nièce ? Ne vois-tu pas que je suis occupée ?}
 {102}{}{Euh... d'accord... excuse-moi.}
 {103}{}{Que veux-tu ?! Tu sais que j'ai des tas de choses à faire !}
 {104}{}{Euh... Mynoc a dit...}
@@ -18,7 +17,6 @@
 {116}{}{Tu me fais encore perdre mon temps ! Comment as-tu pu devenir l'Etre Elu ?}
 {117}{}{Oui, tante Morlis.}
 {118}{}{Euh, tante Morlis, j'ai ici trois doses.}
-
 {150}{}{Tante Morlis, je dois faire une quête périlleuse pour le salut de notre village. Mes chances de réussite seront meilleures si je peux garder les poudres de guérison et que tu me donnes ce silex. Qu'en dis-tu ?}
 {151}{}{Mais que fais-tu, petit ? Ce n'est pas comme ça que devrait se comporter l'Etre Elu. Allez, débarrasse le plancher !}
 {152}{}{Si ce silex est si important au point que tu es prêt à déshonorer le nom de l'Etre Elu, alors le voilà. Prends le silex et débarrasse le plancher.}
@@ -26,9 +24,6 @@
 {154}{}{Eh bien... Bon, d'accord. Voilà le silex. Je te souhaite un bon voyage, petit.}
 {155}{}{C'est hors de question. Arrête de me faire perdre mon temps et fiche le camp.}
 {156}{}{Oui, tante Morlis.}
-
-
-# new add on stuff for time limit
 {200}{}{Alors tu es de retour ? As-tu trouvé le saint Treize ?}
 {201}{}{Non, tante Morlis, je...}
 {202}{}{Alors débarrasse-moi le plancher et trouve-le ! La vie de notre peuple dépend de toi !}
@@ -46,13 +41,9 @@
 {214}{}{Oui, tante Morlis.}
 {215}{}{Alors, va-t'en et trouve le J.E.K ! La vie de nombreuses personnes dépend de toi !}
 {216}{}{Oui, tante Morlis.}
-
-#added by killap
 {300}{}{Eh bien, je crois avoir perdu mon silex. Bon, au moins j'ai mes poudres. Maintenant va-t'en ! Je n'ai pas le temps de bavarder.}
+{301}{}{Pourquoi me déranges-tu, ma nièce ? Ne vois-tu pas que je suis occupée ?}
 {302}{}{Eh bien, je n'arrive pas à mettre la main sur ce silex. Je suis sûre que tu me l'as pris lorsque j'avais le dos tourné. Que je ne t'y reprenne pas. Maintenant va-t'en ! Je n'ai pas le temps de bavarder.}
 {303}{}{Hé bien... Oh, je suis désolée mais il me semble avoir perdu le silex. Je te souhaite une bonne journée, petit. }
-
-#added by Darek
 {304}{}{Je t'ai déjà donné le silex, andouille. Arrête de me faire perdre mon temps et va-t'en !}
 {305}{}{Je t'ai déjà donné le silex, andouille. Au moins, j'ai mes poudres de guérison. Ca suffit ! Je n'ai pas le temps de bavarder.}
-

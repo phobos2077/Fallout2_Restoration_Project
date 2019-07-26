@@ -5,13 +5,13 @@
 {104}{}{Du. Was ist dein Begehr?}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Ich habe einen Brief für AHS-9 von der Erleuchteten in der NCR.}
-{107}{}{Ich bin hier, um mit Crocket über ein paar Rüstungen zu sprechen.}
+{107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{Ich würd mich gern mal umsehen.}
 {109}{}{Ich bin generell daran interessiert, eurer Gruppe beizutreten.}
 {110}{}{Wer bist du?}
 {111}{}{Ich bin gekommen, um euch alle zu töten.}
 {112}{}{Ach, du armes Kind. Möchtest du angepasst werden?}
-{113}{}{Jah!}
+{113}{}{Ja!}
 {114}{}{Nein!}
 {115}{}{Armes Kind! Trotz deiner Anpassung kannst du nicht artikulieren. Geh nur rein.}
 {116}{}{'Anke 'ir!}
@@ -22,13 +22,13 @@
 {121}{}{OK. Beeil dich aber - er ist ein vielbeschäftigter Mann.}
 {122}{}{OK.}
 {123}{}{Dieser Ort steht nicht für irgendwelche Besichtigungstouren offen. Wiedersehen.}
-{124}{}{[Fertig]}
+{124}{}{[Erledigt]}
 {125}{}{Bestens! Geh nur rein. Sprich mit Juan Cruz und Vikki Goldman. Sie sind berühmt, weißt du, aber mit DIR werden sie sprechen.}
 {126}{}{Wer sind sie?}
 {127}{}{Ooh! Berühmtheiten!}
 {128}{}{Ich bin AHS-7, der zweite Befehlshaber dieser Einrichtung Bevor du fragst: AHS steht für Ausgerichteter Hub-Sucher, was bedeutet, daß ich meinen Geist von sieben Neurodyn-Schichten befreit habe. Das bedeutet, daß ich erleuchteter und viel näher an der Nabe des Großen Rades bin als du. Und das bedeutet wiederum, daß du mir jetzt sagen wirst, was du hier willst. Also?!}
 {129}{}{Ich habe einen Brief für AHS-9 von der Erleuchteten in der NCR.}
-{130}{}{Ich bin hier, um mit Crocket über ein paar Rüstungen zu sprechen.}
+{130}{}{I'm here to speak to Crockett about some armor.}
 {131}{}{Ich würd mich gern mal umsehen.}
 {132}{}{Ich bin generell daran interessiert, eurer Gruppe beizutreten.}
 {133}{}{Ich bin gekommen, um euch alle zu töten.}
@@ -41,7 +41,7 @@
 {140}{}{Vergiß es. Ich verschwinde.}
 {141}{}{Jetzt, wo du mit Juan und Vikki gesprochen hast, sag, willst du mit unseren Freunden gemeinsam auf die Suche nach der Erleuchtung zum Großen Rad gehen?}
 {142}{}{Oh ja. Ja, ja, ja.}
-{143}{}{OK.}
+{143}{}{Sicher.}
 {144}{}{Später vielleicht. Kann ich noch mal darauf zurückkommen?}
 {145}{}{Ich glaub, das ist nichts für mich. Sorry. }
 {146}{}{Teufel, nein! Euer verrückter Kult sollte ausgerottet werden.}
@@ -55,16 +55,16 @@
 {154}{}{Danke für deine Sorge um mich. Bis dann. }
 {155}{}{Ich glaube kaum, daß ich der Verletzte wäre. Bis dann.}
 {156}{}{Uns ausrotten? UNS AUSROTTEN? WACHEN! TÖTET DIESES UNGLÄUBIGE ETWAS!}
-{157}{}{[Fertig]}
+{157}{}{[Erledigt]}
 {158}{}{So. Du hattest jetzt Zeit, um deine Entscheidung zu überdenken. Wirst du dich uns anschließen?}
 {159}{}{Ja.}
 {160}{}{Nein.}
-{161}{}{Ich brauch noch etwas mehr Zeit.}
+{161}{}{Ich brauche noch mehr Zeit.}
 {162}{}{Die Zeit ist abgelaufen. Triff deine Wahl, Felgenfleisch.}
 {163}{}{Na gut, ich schließe mich an.}
 {164}{}{Vergiß es. Ich stehe nicht auf brutale Methoden.}
 {165}{}{Die repressiven Shi haben unsere Macht angefochten und mit ihren Neurodyn beeinflussenden Mitteln Verwirrung unter unseren Brüdern gestiftet. Wir glauben, daß sie ihren Irrtum erkennen werden, sobald ihr Kaiser tot ist. Wirst du den Kaiser töten?}
-{166}{}{Ja, mach ich.}
+{166}{}{Ja, das werde ich.}
 {167}{}{Nein, die Shi haben mir nie etwas getan.}
 {168}{}{Vielleicht überdenkst du es noch mal. Sag mir Bescheid, wenn es soweit ist. Gibt es irgendwas, was der Hub für dich tun kann, Rekrut?}
 {169}{}{Ja, ich habe einige Fragen.}
@@ -76,11 +76,11 @@
 {175}{}{Wo kann ich Treibstoff für den Poseidon-Tanker bekommen?}
 {176}{}{Wo kann ich die Bedeutung all dieser Begriffe herausfinden, die du im Munde führst?}
 {177}{}{Wann startet das Schiff?}
-{178}{}{Wo ist Crocket?}
+{178}{}{Where is Crockett?}
 {179}{}{Nichts, danke. Bis dann.}
 {180}{}{Sag uns Bescheid, wenn du deine Aufgabe beendet hast.}
 {181}{}{Das werde ich. Ich habe weitere Fragen.}
-{182}{}{Klare Sache. Bis dann.}
+{182}{}{Klar. Tschüß dann.}
 {183}{}{Hast du den repressiven Schandfleck des Kaisers aus dieser materiellen Existenz entfernt?}
 {184}{}{Noch nicht.}
 {185}{}{Ja, AHS-7. Er ist tot.}
@@ -99,14 +99,14 @@
 {198}{}{Übrigens werde ich jetzt auch dich töten.}
 {199}{}{Jetzt, da das Schiff vollgetankt ist, warten wir nur noch darauf, von AHS-9, dem Großen und Schrecklichen, den Befehl zum Starten zu erhalten.}
 {200}{}{Sicher. Ich habe einige Fragen.}
-{201}{}{Danke, Wiedersehn.}
+{201}{}{Danke. Tschüß.}
 {202}{}{Außer dem wertvollen Treibstoff, den wir brauchen, um uns in den Schoß unserer Sternenbrüder auf dem Planeten Quetzel zu katapultieren. Ich weiß auch nicht, wo wir welchen kriegen könnten. Vielleicht bei den Shi?}
 {203}{}{Hmm. Ich habe weitere Fragen.}
 {204}{}{Ja, vielleicht.}
 {205}{}{Wie ich höre, haben die Shi einen gewaltigen Tank voller Benzin. Vielleicht kannst du es ihnen stehlen.}
 {206}{}{Gute Idee. Ich habe weitere Fragen.}
 {207}{}{Ja, vielleicht. Danke.}
-{208}{}{Du mußt nur die Holodisk benutzen, die Juan und Vikki dir gegeben haben und im Glossar nachsehen.}
+{208}{}{Simply use the holodisk Juan and Vikki provided to you and check out the Glossary.}
 {209}{}{Danke. Mehr Fragen?}
 {210}{}{Danke.}
 {211}{}{Sobald AHS-9 eine Vision vom Hub erhält, werden wir starten und in himmlischer Herrlichkeit zu ihm stoßen!}
@@ -124,10 +124,8 @@
 {223}{}{Wir haben einige deiner schmutzigsten Neurodyne beseitigt. Jetzt bist du als AHS-1 eingestuft. Bist du bereit, dich unserer edlen Sache anzuschließen?}
 {224}{}{Oh ja.}
 {225}{}{Nö. Nicht im Augenblick.}
-
 {226}{}{Lektion 1: Hier ist die Ewigkeit. Dort drüben ist Quetzel. [Zeigt auf etwas] Und hier sind wir. [Zeigt auf etwas] Alles, was wir jetzt tun müssen, ist den weiten Weg dorthin zu gehen.}
 {227}{}{Mensch, da werden wir eine Menge Schuhe brauchen.}
-
 {228}{}{Kann ich es mir noch mal überlegen?}
 {229}{}{Du schon wieder? Was ist?}
 {230}{}{Soll ich sonst noch irgend etwas für dich tun?}

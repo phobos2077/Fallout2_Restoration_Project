@@ -9,7 +9,7 @@
  Aber jetzt mußt du Vault 13 suchen. Vault 13. Bring das GECK nach Hause. GECK.
  Hier ist eine glänzende Flasche. Vic hat sie uns gegeben. Vic. Er ist Händler in Klamath. Klamath. Geh zu Vic. Such Vault 13. Such das GECK. Komm nach Haus. Gib dein Bestes, Kind.}
 {112}{aeld2b}{Du nicht finden Vault. Suchen Vault! Vault 13.}
-{113}{}{Aha.}
+{113}{}{Oh.}
 {114}{aeld3}{Auserwähltes Wesen, willst du, daß wir alle sterben? Du mußt die Vault finden!}
 {115}{}{Es tut mir leid, Älteste. Ich werde dich nicht enttäuschen.}
 {116}{}{Ja, ja. Hör auf zu schreien.}
@@ -32,7 +32,7 @@
 {133}{}{Bevor ich gehe, habe ich noch einige Fragen.}
 {134}{}{Bis dann. Ich werde den Stamm nicht enttäuschen.}
 {135}{aeld8}{Na gut. Komm zu mir, wenn du dich entschieden hast — warte aber nicht zu lange.}
-{136}{}{Bis dann.}
+{136}{}{Wiedersehn.}
 {137}{aeld9}{Da werde ich dir kaum helfen können. So vieles aus der Vergangenheit ist verlorengegangen... Nach welcher Erleuchtung strebst du?}
 {138}{aeld9b}{Was brauchst du?}
 {139}{}{Erzähl mir mehr über das GECK.}
@@ -41,7 +41,7 @@
 {142}{}{Wenn ich es mir recht überlege, dann brauche ich jetzt keine Hilfe. Bis dann.}
 {143}{aeld10}{Es ist ein heiliges Artefakt — das Garden-Eden-Creation-Kit. Die Disks versprechen blühendes Land und florierende Dörfer. Es wird uns retten. Mehr kann ich dir nicht sagen.}
 {144}{}{Ich muß noch mehr wissen. }
-{145}{}{Bis dann. }
+{145}{}{Wiedersehn.}
 {146}{aeld11}{Klamath liegt im Osten.}
 {147}{}{Es gibt noch mehr Dinge, die ich wissen müßte.}
 {148}{}{Ich bin bereit. Bis dann.}
@@ -61,7 +61,7 @@
 {162}{}{Wünsch mir Glück, Älteste, und ich werde dich nicht enttäuschen.}
 {163}{aeld16}{Suche Vic in Klamath. Wir zählen auf dich.}
 {164}{aeld17}{Schön, dich wiederzusehen, mein Kind. Ich will nicht unhöflich sein, aber ich sehe, daß du die heilige Dreizehn noch nicht gefunden hast. Also laß uns bitte keine Zeit vergeuden. Unser Volk ist in großer Not. Geh und finde die Vault!}
-{165}{}{Ich gehen jetzt.}
+{165}{}{Ich gehn.}
 {166}{}{In Ordnung, ich gehe schon. }
 {167}{}{Ich werde dich nicht enttäuschen, Älteste. }
 {168}{}{Ich bin ja schon dabei, OK?}
@@ -77,14 +77,12 @@
 {178}{}{Hetz mich nicht so, alte Frau. Ich tue ja mein Bestes.}
 {179}{aeld20}{Kind, unsere Not ist größer denn je zuvor. Unser Volk ist krank, die Brahmin sterben, und wir haben nichts mehr zu essen. Nur das GECK kann unser Land noch retten. Geh, finde das GECK, und rette unser Volk. }
 {180}{}{Ich verstehen.}
-{181}{}{Ich bin schon unterwegs.}
+{181}{}{Bin schon unterwegs.}
 {182}{}{Verzeih mir, Älteste. Ich begebe mich sofort auf die Suche nach dem GECK.}
 {183}{}{Ja, ja. Du hörst dich an, wie 'ne Schallplatte mit Sprung...}
-
-
 {200}{eeld1}{Auserwähltes Wesen! Wie kommst du hierher?}
 {201}{}{Uhh... duh?}
-{202}{}{Ich bin hier, um euch zu retten.}
+{202}{}{Ich bin gekommen, um dich zu befreien.}
 {203}{}{Was zum Teufel geht hier vor?}
 {204}{eeld2}{Du Monster! Willst du mich etwa auch umbringen?}
 {205}{}{Hääh?}
@@ -99,13 +97,13 @@
 {214}{eeld5a}{Dann brachten sie uns hierher, in die Hölle. Die meisten von uns haben sie getötet — mit irgendwas, das sie "eff-ee-fau" nennen. Sie werden uns noch alle umbringen! 
  Weißt du, was zu tun ist, Auserwähltes Wesen?}
 {215}{}{Effeehfau?}
-{216}{}{Ja. }
+{216}{}{Ja.}
 {217}{}{Nein.}
 {218}{eeld6}{Wenn du die Maschine zerstörst, finden wir das Schiff. Beeil dich, es sind nicht mehr viele von uns übrig.  }
 {219}{}{Was ist passiert?}
 {220}{}{Ich verstehe.}
 {221}{eeld7}{Du mußt die Maschine zerstören, und diese Teufel hier töten. Wir warten auf dich! Und, Auserwähltes Wesen, wenn du das GECK noch nicht gefunden hast, such es hier. Unsere Freiheit nützt uns nichts, wenn wir unser Dorf nicht retten können. Beeil dich!}
-{222}{}{Bis dann.}
+{222}{}{Wiedersehn.}
 {223}{eeld8}{Ich bin immer noch die Älteste. Du hast dich gefälligst zu benehmen! Entschuldige dich, oder du kannst zusehen, wie du alleine klarkommst.}
 {224}{}{Es tut mir leid, du bist keine alte Hexe. Was ist los?}
 {225}{}{Als ob du mir da drin auch helfen könntest! Fahr zur Hölle und stirb.}
@@ -123,6 +121,3 @@
 {237}{eeld13a}{Dann bilden sich Blasen auf der Haut, so als ob Maden darunter wären. Geschwüre entstehen und platzen auf. Blut läuft dir aus den Ohren, die Zunge schwillt an. Wenn man Glück hat, stirbt man durch Ersticken. Wenn nicht...}
 {238}{}{Dafür werden sie bezahlen.}
 {239}{}{Das war wirklich ziemlich ekelhaft. Was soll ich jetzt tun?}
-
-#added by killap - RP
-{240}{}{Ich flog einen Verti-äh, ich mein, ich verwendete eines ihrer Himmelsschiffe.}

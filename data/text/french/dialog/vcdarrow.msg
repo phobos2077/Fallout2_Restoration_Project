@@ -1,10 +1,10 @@
-{100}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Ca ressemble à la combinaison des habitants de l'Abri, mais sans numéro au dos.}
+{100}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Elle ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
 {101}{}{Tu vois l'officier des Sous-équipements Darrow.}
-{102}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Ca ressemble à la combinaison des habitants de l'Abri, mais sans numéro au dos.}
+{102}{}{Tu vois un citoyen dans une combinaison d'un bleu vif. Elle ressemble à la combinaison des habitants de l'Abri, mais sans numéro dans le dos.}
 {103}{}{::Applaudissements::}
-{104}{}{C'est le héros ! Regardez !}
-{105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !!}
-{106}{}{Salut, Capitaine.}
+{104}{}{Notre héros ! Regardez !}
+{105}{}{Mince ! Le héros, ici, dans la Cité de l'Abri !}
+{106}{}{Bonne journée, Capitaine.}
 {107}{}{La Cité de l'Abri avant tout, Capitaine !}
 {108}{}{Salut, citoyen.}
 {109}{}{La Cité de l'Abri avant tout, citoyen !}
@@ -25,27 +25,26 @@
 {124}{}{Excuse-moi, en quoi puis-je t'être utile ?}
 {125}{}{Utiiile ? Guili-guili ?}
 {126}{}{Dégage !}
-{127}{}{Quel est cet endroit ?}
-{128}{}{Puis-je voir ce que vous avez en stock ?}
-{129}{}{Rien aujourd'hui, merci.}
+{127}{}{Où suis-je ici ?}
+{128}{}{Je peux voir ce que tu as en stock ?}
+{129}{}{Rien pour aujourd'hui, merci.}
 {130}{}{Un instant, d'accord ? J'envoie quelqu'un pour t'accompagner.}
 {131}{}{NON MOI Y VA PAS.}
 {132}{}{Okaaayyyy.}
 {133}{}{Dis, tu sais, il y a une épicerie dehors, juste à l'entrée. Tu peux peut-être aller là-bas faire tes courses... J'ai entendu dire qu'ils ont presque autant de choix que nous.}
 {134}{}{Euh, merci.}
-{135}{}{Je ferai mes courses où je veux, t'as pigé ?}
+{135}{}{Je ferai mes courses où je veux, t'as pigé ? }
 {136}{}{La Cité de l'Abri avant tout, citoyen.}
 {137}{}{La Cité de l'Abri avant tout, Capitaine.}
-{138}{}{La Cité de l'Abri avant tout, citoyen.}
+{138}{}{La Cité de l'Abri avant tout, citoyen !}
 {139}{}{Salut, citoyen.}
 {140}{}{Bureau A des sous-équipements. Je suis responsable des fournitures générales, comme les outils et le matériel de réparation. J'm'appelle Darrow... Officier des Sous-Equipements Darrow. Te faut-il quelque chose ?}
 {141}{}{Ici, c'est le Bureau A des sous-équipements... On s'occupe des outils et du matériel de réparation pour la Cité. Crois-tu que c'est l'endroit que tu cherchais ?}
-{142}{}{Puis-je voir ce que vous avez en stock ?}
+{142}{}{Je peux voir ce que tu as en stock ?}
 {143}{}{Oui, c'est bien là. Puis-je voir ce que vous avez en stock ?}
-{144}{}{Rien aujourd'hui, merci.}
+{144}{}{Rien pour aujourd'hui, merci.}
 {145}{}{Je ne crois pas. Au revoir.}
 {146}{}{Hé, là ! Reste pas là, toi !}
 {147}{}{C'est ça ! Tu te tires, maintenant !}
-
 {148}{}{Merci.}
-{149}{}{[Continuer]}
+{149}{}{[Suite]}

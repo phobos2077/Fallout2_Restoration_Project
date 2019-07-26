@@ -2,21 +2,21 @@
 {101}{}{Tu vois Goris, le savant.}
 {102}{}{Tu vois une silhouette humanoïde portant une aube à manches longues encapuchonnée. Son attitude ne semble pas naturelle mais tu ne sais pas exactement pourquoi.}
 {103}{}{Bonjour, je suis Goris. Je ne te reconnais pas. Viens-tu d'arriver ici ?}
-{104}{}{Moi} # 213
+{104}{}{Moi }
 {105}{}{Moi aller.}
 {106}{}{Ouais, et alors ?}
-{107}{}{Salut, je suis} # 214
+{107}{}{Salut, je suis}
 {108}{}{Bonjour, Goris. Gruthar m'a dit de venir te voir. D'après lui, tu sauras répondre à mes interrogations.}
 {109}{}{Puis-je te poser quelques questions ?}
 {110}{}{Excuse-moi, je dois partir.}
-{111}{}{C'est un plaisir de te rencontrer, } # 215
+{111}{}{C'est un plaisir de te rencontrer, }
 {112}{}{Alors, tu as parlé avec Gruthar. Il a une opinion plutôt flatteuse de moi. Je ne dois connaître que la moitié de ce dont il m'imagine capable. Enfin...}
 {113}{}{Alors, tu viens de l'extérieur ! J'ai déjà vu des gens comme toi, il y en a quelques-uns à l'abri, mais tu n'es pas tout à fait comme eux. Tu as l'air plus *chevronné*, si tu vois ce que je veux dire. Je parie que tu as déjà bien bourlingué et que tu as accompli pas mal de choses. J'ai raison ?}
 {114}{}{Euh... *chevreau né* ?}
 {115}{}{Moi aller.}
 {116}{}{Je regrette, mais je crois que je vais partir.}
 {117}{}{Oui, il m'en est arrivé des choses. Accepterais-tu de répondre à certaines de mes questions, et en contrepartie je te raconterai mes aventures.}
-{118}{}{Ca ne te regarde pas.}
+{118}{}{Ca te regarde pas.}
 {119}{}{Puis-je te poser quelques questions ?}
 {120}{}{Marché conclu ! J'ai vraiment envie d'entendre tout ce que tu as à me raconter.}
 {121}{}{De plus, je ne peux rien refuser à un ami de Gruthar.}
@@ -102,7 +102,7 @@
 {201}{}{Euh... Moi perdu. Moi partir.}
 {202}{}{Je passais juste te dire bonjour. A plus tard.}
 {203}{}{Hé, je cherche un compagnon de voyage. Qu'en dis-tu ?}
-{204}{}{Que puis-je faire pour toi, } # 216
+{204}{}{Que puis-je faire pour toi, }
 {205}{}{Toi méchante bête ! Pourquoi pas dire ?}
 {206}{}{Tu es un Griffemort ? Pourquoi tu ne me l'avais pas dit ?}
 {207}{}{Comment puis-je expliquer... Toi tuer méchantes bêtes, pas parler. Moi pas te dire pour que toi croire moi gentil. Toi pas me tuer. Ok moi rester avec toi ?}
@@ -111,68 +111,59 @@
 {210}{}{Ok, toi rester.}
 {211}{}{Je regrette mais je ne supporte pas qu'on me mente. Tu ferais mieux de partir.}
 {212}{}{Je comprends pourquoi tu as caché ton identité. Je pense que nous pouvons travailler ensemble, alors, je t'en prie reste, mais ne me mens plus Goris.}
-
-# the name usually precedes these lines
 {213}{}{. Moi juste arriver ici.}
 {214}{}{. Oui, je ne suis pas de l'abri.}
 {215}{}{.}
 {216}{}{ ?}
-
 {217}{}{Alors l'Enclave a commencé à bricoler un virus et l'a injecté aux Griffemorts. Ce virus était capable de transformer des humains en super-êtres et l'Enclave a voulu voir l'effet que cela aurait sur les Griffemorts. Eh bien, ce faisant, ils ont créé une race de Griffemorts si intelligents qu'ils ont compris qu'ils étaient destinés à l'esclavage. Ils ont donc joué les idiots jusqu'à ce qu'ils puissent gagner leur liberté. Et les voilà !}
 {218}{}{Je suis contre l'idée d'attaquer les Griffemorts.}
-
 {219}{}{J'ai le soudain pressentiment que ma meute a des ennuis. Excuse-moi, mais je dois aller veiller à la sécurité de mes frères.}
 {220}{}{Ok.}
 {221}{}{Les caméras de sécurité ont filmé ce qui s'est passé. Va vérifier.}
-
 {222}{}{Tu vois un Griffemort gris. Il s'appelle Goris.}
 {223}{}{Tu vois une silhouette humanoïde portant une aube à capuche et à manches longues. C'est Goris.}
-
-#specific party messages
-{1064}{}{Toi rester près.}
-{1065}{}{Toi pas aller loin.}
-{1066}{}{Toi trop près. Recule.}
-{1073}{}{Reste à côté de moi.}
-{1074}{}{Ne t'éloigne pas trop.}
-{1075}{}{On devrait se disperser un peu.}
+{1000}{}{Oui,}
 {1001}{}{Toi te soigner.}
 {1002}{}{Toi attendre ici. Moi revenir.}
 {1003}{}{Euh... Pas d'armes maintenant. Ok ?}
-{1167}{}{Moi penser toi devoir bouger autrement.}
 {1008}{}{Toi Grif'mort ? Pourquoi toi pas dire ?}
 {1009}{}{Moi fait.}
 {1010}{}{Tu devrais te soigner, maintenant.}
-{1011}{}{Je voudrais que tu attendes ici jusqu'à ce que je revienne.}
+{1011}{}{Je veux que tu attendes ici jusqu'à mon retour.}
 {1012}{}{Ne sors pas tes armes, d'accord ?}
-{1166}{}{Changeons la distance qui nous sépare.}
-{1016}{}{Allons-y.}
+{1016}{}{C'est parti.}
 {1017}{}{Tu es un Griffemort ? Pourquoi ne me l'as-tu pas dit avant ?}
-{1018}{}{Ca suffit pour l'instant.}
-{1000}{}{Oui,}
-{1156}{}{ ?}
+{1018}{}{Ca suffit.}
 {1019}{}{Je suis guéri et prêt à partir,}
 {1020}{}{Je suis presque guéri,}
 {1021}{}{Je suis presque guéri, mais j'aurai peut-être besoin d'aide si l'occasion se présente,}
 {1022}{}{Je me suis soigné tant bien que mal, mais cela me fait toujours mal,}
-{1157}{}{.}
 {1041}{}{Je vais attendre ton retour ici,}
 {1060}{}{Je vais faire de mon mieux pour passer inaperçu,}
+{1064}{}{Toi rester près.}
+{1065}{}{Toi pas aller loin.}
+{1066}{}{Toi trop près. Recule.}
+{1073}{}{Reste près de moi.}
+{1074}{}{Ne t'en vas pas trop loin.}
+{1075}{}{On devrait se disperser un peu.}
+{1078}{}{Ca suffit.}
 {1079}{}{Je vais rester aussi près que possible,}
-{1078}{}{Ca suffit pour l'instant.}
 {1098}{}{Je vais me reculer un peu pour te laisser la place de respirer,}
 {1117}{}{Je vais rester en arrière et te faire de la place,}
 {1136}{}{Je regrette, }
+{1137}{}{J'ai beaucoup appris de nos voyages. Je t'accompagnerais volontiers, }
+{1156}{}{ ?}
+{1157}{}{. }
 {1158}{}{, mais tu as trop de monde avec toi maintenant. Je vais attendre ici qu'une place se libère.}
 {1159}{}{Je crois que je m'en tirerais mieux sans aide.}
 {1160}{}{Ta compagnie ne me plaît pas. Je m'en vais.}
-{1137}{}{J'ai beaucoup appris de nos voyages. Je t'accompagnerais volontiers, }
 {1161}{}{Je désire venger mes frères.}
 {1162}{}{Très bien. Allons-y.}
 {1163}{}{Peut-être que tu devrais faire par toi-même.}
 {1164}{}{Toi raison, nous tuer.}
 {1165}{}{Vas-y toi-même.}
-
-#added by killap - NPC info
+{1166}{}{Changeons la distance qui nous sépare.}
+{1167}{}{Moi penser toi devoir bouger autrement.}
 {2000}{}{Je pense que je me suis cassé un membre. Une assistance médicale va être nécessaire.}
 {2001}{}{Je crois que je souffre des radiations. As-tu quelque chose pour me guérir ?}
 {2002}{}{Je crois que j'ai été empoisonné. As-tu quelque chose pour me guérir ?}

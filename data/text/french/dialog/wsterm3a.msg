@@ -2,7 +2,6 @@
 {101}{}{Cet ordinateur semble être équipé d'une caméra.}
 {102}{}{Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.}
 {103}{}{[Une petite caméra tourne dans ta direction.]                   Système de sécurité Skynet                                  Désengagement du terminal de sécurité - Niveau 3                           Extraction des données sur le personnel - Caporal Dixon                   Aucun résultat                                                           Qui...êtes...vous ?}
-
 {104}{}{}
 {105}{}{}
 {106}{}{}
@@ -43,7 +42,6 @@
 {141}{}{}
 {142}{}{}
 {143}{}{[Quitter]}
-
 {200}{}{ est incapable de lire ce qu'affiche le moniteur.}
 {300}{}{L'ordinateur semble disposer d'un mécanisme de sécurité.}
 {301}{}{Tu subis un choc pour }

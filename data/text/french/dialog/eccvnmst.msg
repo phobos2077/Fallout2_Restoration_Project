@@ -1,41 +1,16 @@
 {100}{}{Tu vois un Maître de Caravane.}
 {101}{}{Remercie le créateur d'avoir réussi à arriver jusqu'ici. On dirait qu'il est de plus en plus difficile de se rendre d'un endroit à un autre sans se faire attaquer par quelqu'un ou quelque chose.}
-{102}{}{Que puis-je faire pour toi ?}
+{102}{}{Que puis-je faire pour vous ?}
 {103}{}{Où vas-tu ?}
 {104}{}{Que transportes-tu ?}
 {105}{}{Salut.}
-{106}{}{Ok.}
+{106}{}{Ug.}
 {107}{}{Je viens de prendre un chargement à }
 {108}{}{ et maintenant, je me dirige vers }
 {109}{}{.}
-
-# Town Names
-{198}{}{New Reno}
-{199}{}{La Fosse}
-{200}{}{Arroyo}
-{201}{}{Redding}
-{202}{}{La Cité de l'Abri}
-{203}{}{RNC}
-{204}{}{Les Collines Brisées}
-{205}{}{Gecko}
-{206}{}{San Francisco}
-{207}{}{Modoc}
-{208}{}{Klamath}
-{209}{}{L'Abri 15}
-
 {110}{}{Que transportes-tu ?}
 {111}{}{Salut.}
 {112}{}{Nous transportons }
-
-# Cargo for the Caravan
-{150}{}{des médicaments.}
-{151}{}{du minerai d'or.}
-{152}{}{du minerai d'uranium.}
-{153}{}{des produits fermiers.}
-{154}{}{des stupéfiants.}
-{155}{}{des esclaves.}
-{156}{}{des trucs.}
-
 {113}{}{Tu crois que je pourrais faire des échanges avec toi ?}
 {114}{}{Où vas-tu ?}
 {115}{}{Salut.}
@@ -61,7 +36,25 @@
 {135}{}{Où vas-tu ?}
 {136}{}{Que transportes-tu ?}
 {137}{}{Salut.}
-{138}{}{Ok.}
+{138}{}{Ug.}
 {139}{}{C'est bien... Bonne journée.}
-
+{150}{}{des médicaments.}
+{151}{}{du minerai d'or.}
+{152}{}{du minerai d'uranium.}
+{153}{}{des produits fermiers.}
+{154}{}{des stupéfiants.}
+{155}{}{des esclaves.}
+{156}{}{des trucs.}
+{198}{}{New Reno}
+{199}{}{La Fosse}
+{200}{}{Arroyo}
+{201}{}{Redding}
+{202}{}{La Cité de l'Abri}
+{203}{}{RNC}
+{204}{}{Les Collines Brisées}
+{205}{}{Gecko}
+{206}{}{San Francisco}
+{207}{}{Modoc}
+{208}{}{Klamath}
+{209}{}{L'Abri 15}
 {300}{}{Merci pour l'échange.}

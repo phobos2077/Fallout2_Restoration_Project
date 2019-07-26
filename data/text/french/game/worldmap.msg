@@ -1,188 +1,115 @@
-#
-#########################################################
-#
-# Text labels and messages used by town and world map
-#
-#########################################################
-#
-#
-# NE PAS METTRE D'ACCENT AVANT LA LIGNE 1500 !!
-#
-
-#
-# Town map entry-point selection names
-#
-# Format:
-#	city type.
-#	up to 10 selection names
-#
-# Arroyo
 {200}{}{Pont}
 {201}{}{Village}
-{202}{}{Temple}
-{203}{}{Terrain de chasse}
+{202}{}{Entrée du temple}
+{203}{}{Désert}
 {204}{}{Interieur du Temple}
-#
-# Den
 {210}{}{Quartier Ouest}
-{211}{}{Quartier Est}
+{211}{}{Zone Est}
 {212}{}{Quartier residentiel}
-#
-# Klamath
 {220}{}{Centre-ville}
 {221}{}{Trapper town}
 {222}{}{Grottes aux rats}
-{223}{}{Etendue sauvage}
-{224}{}{Paturages}
+{223}{}{Terrains de chasse}
+{224}{}{Pâturages}
 {225}{}{Canyon}
-#
-# Modoc
 {230}{}{Rue principale}
 {231}{}{Auberge}
 {232}{}{Paturages des Brahmines de Grisham}
 {233}{}{Jardin de Farrel}
-{234}{}{En bas des toilettes}
+{234}{}{Grottes}
 {235}{}{Puits de la ville}
-#
-# Vault City
-{240}{}{Entree}
+{240}{}{Entrée}
 {241}{}{Centre-ville}
 {242}{}{Conseil}
 {243}{}{Abri}
-#
-# Gecko
 {250}{}{Campement}
 {251}{}{Centrale}
-{252}{}{Depotoir}
+{252}{}{Dépotoir}
 {253}{}{Tunnels}
-#
-# Broken Hills
 {260}{}{Centre-ville}
-{261}{}{Quartier residentiel}
-#
-# New Reno
+{261}{}{Résidentiel}
 {270}{}{Rue de la Vierge}
-{271}{}{2eme Rue}
+{271}{}{2ème rue}
 {272}{}{Rue marchande}
-{273}{}{Quartier Est}
-{274}{}{A l'entrecote}
+{273}{}{Zone Est}
+{274}{}{A l'entrecôte}
 {275}{}{Ring de boxe}
-{276}{}{Helicoptere}
-#
-# Sierra Army Base
+{276}{}{Zone d'hélicoptères}
 {280}{}{Champ de bataille}
 {281}{}{Entrepot niveau 1 : Personnel}
 {282}{}{Entrepot niveau 2 : Quai de stockage}
 {283}{}{Entrepot niveau 3 : Labo de robotique}
 {284}{}{Entrepot niveau 4 : Labo de recherche biologique}
-#
-# Vault 15
 {290}{}{Le Squat}
 {291}{}{Squatters}
 {292}{}{Squatters}
-{293}{}{Abri 15}
-{294}{}{Entree Est}
-#
-# New California Republic
+{293}{}{L'Abri 15}
+{294}{}{Entrée Est}
 {300}{}{Bazar}
 {301}{}{Conseil 2}
 {302}{}{Centre-ville}
-{303}{}{Hotel de ville}
+{303}{}{Hôtel de ville}
 {304}{}{Ranch de Westin}
-{305}{}{Paturages}
-#
-# Vault 13
-{310}{}{Entree de la grotte}
+{305}{}{Pâturages}
+{310}{}{Entrée de la grotte}
 {311}{}{Abri 13}
-#
-# Military Base
-{320}{}{Entree}
+{320}{}{Entrée}
 {321}{}{Niveau 1}
 {322}{}{Niveau 2}
 {323}{}{Niveau 3}
 {324}{}{Niveau 4}
-#
-# Redding
 {330}{}{Centre-ville}
 {331}{}{Mine du Grand Wanamingo}
 {332}{}{Mine du Grand Wanamingo}
-{333}{}{Campement de la mine}
+{333}{}{Entrée de la mine}
 {334}{}{Tunnels du centre-ville}
 {335}{}{Tunnels de la mine}
-#
-# San Francisco
 {340}{}{Chinatown}
 {341}{}{Quai}
-{342}{}{Petrolier}
+{342}{}{Tanker}
 {343}{}{Exterieur de la navette}
-{344}{}{Interieur de la navette}
+{344}{}{Intérieur de la navette}
 {345}{}{Hubologistes}
 {346}{}{Temple Shi}
-#
-# Navarro
 {350}{}{Station essence}
 {351}{}{Porte principale}
-#
-# The Enclave
 {360}{}{Quai}
 {361}{}{Centre de detention}
 {362}{}{Boss de Fin}
 {363}{}{Caserne}
-{364}{}{Quartier presidentiel}
-{365}{}{Reacteur}
+{364}{}{Quartier présidentiel}
+{365}{}{Réacteur}
 {366}{}{Salle piegee}
-#
-# Abbey
-{370}{}{Entree}
-#
-# Primitive Tribe
+{370}{}{Entrée}
 {380}{}{Foret}
 {381}{}{Tribu}
-#
-# Environmental Protection Agency
-{390}{}{Entree}
+{390}{}{Entrée}
 {391}{}{Canalisations}
 {392}{}{Services}
 {393}{}{Niveau Un}
 {394}{}{Niveau Deux}
 {395}{}{Niveau Trois}
-{396}{}{Entrepot}
-#
-# Modoc: Ghost Town Sub-Area
+{396}{}{Entrepôt}
 {400}{}{La ville fantome}
 {401}{}{Caverne principale}
 {402}{}{Lac souterrain}
-#
-# Car Out of Gas
 {410}{}{Voiture en panne}
-#
-# Destroyed Arroyo
-{420}{}{Pont detruit}
-#
-# Klamath Toxic Caves
+{420}{}{Pont détruit}
 {430}{}{Grottes toxiques}
-#
-# Den Slave Runs
 {440}{}{Fuite des esclaves de La Fosse}
-#
-# Raiders
 {450}{}{Puits}
 {451}{}{Falaise}
 {452}{}{Entree de la grotte}
-#
-# Random Encounter Desert
-{460}{}{Desert}
-{461}{}{Desert}
-{462}{}{Desert}
-{463}{}{Desert}
-{464}{}{Desert}
-{465}{}{Desert}
-{466}{}{Desert}
-{467}{}{Desert}
-{468}{}{Desert}
-{469}{}{Desert}
-#
-# Random Encounter Mountain
+{460}{}{Désert}
+{461}{}{Désert}
+{462}{}{Désert}
+{463}{}{Désert}
+{464}{}{Désert}
+{465}{}{Désert}
+{466}{}{Désert}
+{467}{}{Désert}
+{468}{}{Désert}
+{469}{}{Désert}
 {470}{}{Montagne}
 {471}{}{Caverne}
 {472}{}{Montagne}
@@ -193,8 +120,6 @@
 {477}{}{Caverne}
 {478}{}{Montagne}
 {479}{}{Montagne}
-#
-# Random Encounter City
 {480}{}{Ville en ruines}
 {481}{}{Ville en ruines}
 {482}{}{Ville en ruines}
@@ -203,125 +128,64 @@
 {485}{}{Ville en ruines}
 {486}{}{Ville en ruines}
 {487}{}{Ville en ruines}
-#
-# Random Encounter Coast
-{490}{}{Cote}
-{491}{}{Cote}
-{492}{}{Cote}
-{493}{}{Cote}
-{494}{}{Cote}
-{495}{}{Cote}
-{496}{}{Cote}
-{497}{}{Cote}
-{498}{}{Cote}
-{499}{}{Cote}
-#
-# New Reno: Golgatha
+{490}{}{Littoral}
+{491}{}{Littoral}
+{492}{}{Littoral}
+{493}{}{Littoral}
+{494}{}{Littoral}
+{495}{}{Littoral}
+{496}{}{Littoral}
+{497}{}{Littoral}
+{498}{}{Littoral}
+{499}{}{Littoral}
 {500}{}{Golgotha}
-#
-# Special Encounter: Whale Encounter
 {510}{}{Baleine eclatee}
-#
-# Special Encounter: Tin Woodsman
-{520}{}{Homme de fer}
-#
-# Special Encounter: Big Head
-{521}{}{Grosse tete}
-#
-# Special Encounter: Crashed Federation Shuttle
+{520}{}{Homme en fer-blanc}
+{521}{}{Grosse Tête}
 {530}{}{Lieu du crash}
-#
-# Special Encounter: Unwashed Villagers
-{540}{}{Desert}
-#
-# Special Encounter: Bridge Guardian
+{540}{}{Désert}
 {550}{}{Pont}
-#
-# Special Encounter: Cafe of Broken Dreams
 {560}{}{Cafe des Illusions Perdues}
-#
-# Special Encounter: Holy Hand Grenade 1
-{570}{}{Desert}
-#
-# Special Encounter: Holy Hand Grenade 2
+{570}{}{Désert}
 {580}{}{Caverne}
-#
-# Special Encounter: Guardian of Forever
-{590}{}{Gardien de L'Eternite}
-#
-# Special Encounter: Toxic Waste Dump
-{600}{}{Depotoir de matieres toxiques}
-#
-# Special Encounter: Pariahs
-{610}{}{Desert}
-#
-# Special Encounter: Mad Brahmin
+{590}{}{Gardien de L'Eternité}
+{600}{}{Decharge de produits toxiques}
+{610}{}{Désert}
 {620}{}{Troupeau de Brahmines}
-#
-# Caravan Encounters
-{630}{}{Desert}
+{630}{}{Désert}
 {631}{}{Montagne}
-#
-# Fake Vault 13 A
 {640}{}{Caverne de l'Abri 13}
-#
-# Fake Vault 13 B
 {650}{}{Caverne}
-#
-# Shadow Areas (Those which fit nowhere else)
-{660}{}{Cote}
-{661}{}{Cote}
-{662}{}{Desert}
-{663}{}{Desert}
-{664}{}{Desert}
+{660}{}{Littoral}
+{661}{}{Littoral}
+{662}{}{Désert}
+{663}{}{Désert}
+{664}{}{Désert}
 {665}{}{Montagne}
 {666}{}{Montagne}
-{667}{}{Desert}
-{668}{}{Desert}
-#
-# New Reno Stables
+{667}{}{Désert}
+{668}{}{Désert}
 {670}{}{Etables}
-
-# Village
 {680}{}{Village}
-
 {690}{}{Tribu Umbra}
-
 {700}{}{Tribu Umbra}
-
 {710}{}{Tribu Umbra}
-
-#
-# Terrain type names for world map hover button
-#
-{1000}{}{Desert}
+{1000}{}{Désert}
 {1001}{}{Montagnes}
 {1002}{}{Ville}
-{1003}{}{Cote}
-{1004}{}{Inconnu}  # Unknown/visited city
-
-
-# Misc messages
-{1500}{}{Tu gagnes 10 000 points d'expérience !}
+{1003}{}{Côte}
+{1004}{}{Inconnu}
+{1500}{}{Tu as gagné 10 000 points d'expérience !}
 {1501}{}{Ruines}
 {1502}{}{La voiture est à court d'énergie.}
 {1503}{}{C'est une voiture. On dirait qu'elle est en panne.}
-
-#
-# Worldmap Encounter messages
-#
-
 {2998}{}{Tu rencontres :}
 {2999}{}{Veux-tu rencontrer :}
-
-# Encounter Table 0
 {3000}{}{un groupe de pillards.}
 {3001}{}{des radscorpions.}
 {3002}{}{des rats géants.}
 {3003}{}{un groupe de marchands.}
 {3004}{}{<Spécial>}
-
-# Encounter Table 1
 {3050}{}{un groupe de pillards.}
 {3051}{}{des mantes.}
 {3052}{}{un groupe de geckos.}
@@ -330,104 +194,90 @@
 {3055}{}{un groupe de rats géants.}
 {3056}{}{un groupe de marchands.}
 {3057}{}{<Spécial>}
-
-# Encounter Table 2
 {3100}{}{un groupe de pillards.}
 {3101}{}{un groupe de radscorpions.}
 {3102}{}{un groupe de rats géants.}
 {3103}{}{un groupe de marchands.}
 {3104}{}{<Spécial>}
-
-# Encounter Table 3
 {3150}{}{un groupe de pillards.}
-
-# Encounter Table 4
 {3200}{}{un groupe de pillards.}
-
-# Encounter Table 5
 {3250}{}{un groupe de pillards.}
-
-# Encounter Table 6
 {3300}{}{une expédition guerrière.}
 {3301}{}{un groupe de cannibales.}
-{3302}{}{un groupe de plantes à spores et quelques geckos argentés.}
+{3302}{}{des plantes à spores et quelques geckos argentés.}
 {3303}{}{un groupe de geckos argentés.}
-{3304}{}{des chasseurs de primes.}
-{3305}{}{des chasseurs de primes.}
-{3306}{}{des chasseurs de primes.}
-{3307}{}{des chasseurs de primes.}
-{3308}{}{des chasseurs de primes.}
-{3309}{}{des chasseurs de primes.}
-{3310}{}{des chasseurs de primes.}
-{3311}{}{des chasseurs de primes.}
+{3304}{}{quelques chasseurs de primes.}
+{3305}{}{quelques chasseurs de primes.}
+{3306}{}{quelques chasseurs de primes.}
+{3307}{}{quelques chasseurs de primes.}
+{3308}{}{quelques chasseurs de primes.}
+{3309}{}{quelques chasseurs de primes.}
+{3310}{}{quelques chasseurs de primes.}
+{3311}{}{quelques chasseurs de primes.}
 {3312}{}{une bande de voyous menée par un des frères Morton.}
 {3313}{}{un groupe de radscorpions.}
 {3314}{}{un groupe de plantes à spores.}
 {3315}{}{un groupe de rats-cochons.}
 {3316}{}{un groupe de rats.}
-{3317}{}{un groupe de chasseurs affrontant des cannibales.}
+{3317}{}{un groupe de chasseurs combattant des cannibales.}
 {3318}{}{un groupe de fourmis.}
-{3319}{}{un groupe de chasseurs affrontant des radscorpions.}
+{3319}{}{un groupe de chasseurs combattant des radscorpions.}
 {3320}{}{un petit groupe de rats-cochons.}
 {3321}{}{un petit groupe de radscorpions.}
 {3322}{}{un petit groupe de fourmis.}
 {3323}{}{un groupe de chasseurs.}
 {3324}{}{un groupe de nomades.}
-{3325}{}{un homme gardant un pont.}
+{3325}{}{un homme gardant un pont}
 {3326}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {3327}{}{une bande de parias très fachés.}
-
-# Encounter Table 7
-{3350}{}{Décharge de déchets toxiques}
+{3350}{}{décharge de déchets toxiques}
 {3351}{}{un chien solitaire.}
 {3352}{}{un troupeau de Brahmines.}
 {3353}{}{une expédition guerrière.}
-{3354}{}{des chasseurs de primes.}
-{3355}{}{des chasseurs de primes.}
-{3356}{}{des chasseurs de primes.}
-{3357}{}{des chasseurs de primes.}
-{3358}{}{des chasseurs de primes.}
-{3359}{}{des chasseurs de primes.}
-{3360}{}{des chasseurs de primes.}
-{3361}{}{des chasseurs de primes.}
+{3354}{}{quelques chasseurs de primes.}
+{3355}{}{quelques chasseurs de primes.}
+{3356}{}{quelques chasseurs de primes.}
+{3357}{}{quelques chasseurs de primes.}
+{3358}{}{quelques chasseurs de primes.}
+{3359}{}{quelques chasseurs de primes.}
+{3360}{}{quelques chasseurs de primes.}
+{3361}{}{quelques chasseurs de primes.}
 {3362}{}{une bande de voyous menée par un des frères Morton.}
 {3363}{}{un groupe de cannibales.}
-{3364}{}{un groupe de plantes à spores et des geckos argentés.}
+{3364}{}{des plantes à spores et quelques geckos argentés.}
 {3365}{}{un groupe de geckos argentés.}
 {3366}{}{un groupe de radscorpions.}
 {3367}{}{un groupe de plantes à spores.}
 {3368}{}{un groupe de rats-cochons.}
 {3369}{}{un groupe de rats.}
-{3370}{}{un groupe de chasseurs affrontant des cannibales.}
+{3370}{}{un groupe de chasseurs combattant des cannibales.}
 {3371}{}{un groupe de fourmis.}
-{3372}{}{un groupe de chasseurs affrontant des radscorpions.}
+{3372}{}{un groupe de chasseurs combattant des radscorpions.}
 {3373}{}{un petit groupe de rats-cochons.}
 {3374}{}{un petit groupe de radscorpions.}
 {3375}{}{un petit groupe de fourmis.}
 {3376}{}{un groupe de chasseurs.}
 {3377}{}{un groupe de nomades.}
 {3378}{}{les restes d'une baleine.}
-{3379}{}{une tête en pierre géante.}
+{3379}{}{une pierre tombale géante.}
 {3380}{}{une navette écrasée.}
 {3381}{}{un portail énigmatique.}
 {3382}{}{les Chevaliers de la Table Ronde.}
 {3383}{}{un homme en Fer-blanc.}
 {3384}{}{les villageois mal lavés chassant un spammeur.}
 {3385}{}{une bande de parias très fachés.}
-
-# Encounter Table 8 
 {3400}{}{une expédition guerrière.}
 {3401}{}{un groupe de cannibales.}
 {3402}{}{des plantes à spores et quelques geckos argentés.}
 {3403}{}{un groupe de geckos argentés.}
-{3404}{}{des chasseurs de primes.}
-{3405}{}{des chasseurs de primes.}
-{3406}{}{des chasseurs de primes.}
-{3407}{}{des chasseurs de primes.}
-{3408}{}{des chasseurs de primes.}
-{3409}{}{des chasseurs de primes.}
-{3410}{}{des chasseurs de primes.}
-{3411}{}{des chasseurs de primes.}
+{3404}{}{quelques chasseurs de primes.}
+{3405}{}{quelques chasseurs de primes.}
+{3406}{}{quelques chasseurs de primes.}
+{3407}{}{quelques chasseurs de primes.}
+{3408}{}{quelques chasseurs de primes.}
+{3409}{}{quelques chasseurs de primes.}
+{3410}{}{quelques chasseurs de primes.}
+{3411}{}{quelques chasseurs de primes.}
 {3412}{}{une bande de voyous menée par un des frères Morton.}
 {3413}{}{un groupe de radscorpions.}
 {3414}{}{un groupe de plantes à spores.}
@@ -442,20 +292,18 @@
 {3423}{}{un groupe de chasseurs.}
 {3424}{}{un groupe de nomades.}
 {3425}{}{une bande de parias très fachés.}
-
-# Encounter Table 9
-{3450}{}{Décharge de déchets toxiques}
+{3450}{}{décharge de déchets toxiques}
 {3451}{}{un chien solitaire.}
 {3452}{}{un troupeau de Brahmines.}
 {3453}{}{une bande de parias.}
-{3454}{}{des chasseurs de primes.}
-{3455}{}{des chasseurs de primes.}
-{3456}{}{des chasseurs de primes.}
-{3457}{}{des chasseurs de primes.}
-{3458}{}{des chasseurs de primes.}
-{3459}{}{des chasseurs de primes.}
-{3460}{}{des chasseurs de primes.}
-{3461}{}{des chasseurs de primes.}
+{3454}{}{quelques chasseurs de primes.}
+{3455}{}{quelques chasseurs de primes.}
+{3456}{}{quelques chasseurs de primes.}
+{3457}{}{quelques chasseurs de primes.}
+{3458}{}{quelques chasseurs de primes.}
+{3459}{}{quelques chasseurs de primes.}
+{3460}{}{quelques chasseurs de primes.}
+{3461}{}{quelques chasseurs de primes.}
 {3462}{}{une bande de voyous menée par un des frères Morton.}
 {3463}{}{un groupe d'âmes saintes.}
 {3464}{}{des geckos et des plantes à spores.}
@@ -474,52 +322,48 @@
 {3477}{}{un homme en Fer-blanc.}
 {3478}{}{les villageois mal lavés chassant un spammeur.}
 {3479}{}{une bande de parias très fachés.}
-
-# Encounter Table 10
 {3500}{}{une bande de parias.}
 {3501}{}{un groupe d'âmes saintes.}
-{3502}{}{des chasseurs de primes.}
-{3503}{}{des chasseurs de primes.}
-{3504}{}{des chasseurs de primes.}
-{3505}{}{des chasseurs de primes.}
-{3506}{}{des chasseurs de primes.}
-{3507}{}{des chasseurs de primes.}
-{3508}{}{des chasseurs de primes.}
-{3509}{}{des chasseurs de primes.}
-{3510}{}{une bande voyous menée par un des frères Morton.}
+{3502}{}{quelques chasseurs de primes.}
+{3503}{}{quelques chasseurs de primes.}
+{3504}{}{quelques chasseurs de primes.}
+{3505}{}{quelques chasseurs de primes.}
+{3506}{}{quelques chasseurs de primes.}
+{3507}{}{quelques chasseurs de primes.}
+{3508}{}{quelques chasseurs de primes.}
+{3509}{}{quelques chasseurs de primes.}
+{3510}{}{une bande de voyous menée par un des frères Morton.}
 {3511}{}{des geckos argentés se cachant parmi des plantes à spores.}
 {3512}{}{des geckos.}
 {3513}{}{des radscorpions se cachant parmi des plantes à spores.}
 {3514}{}{des plantes à spores.}
 {3515}{}{une famille de radscorpions.}
-{3516}{}{un groupe de rataupes.} 
+{3516}{}{un groupe de rataupes.}
 {3517}{}{un groupe de saints repoussant une expédition guerrière.}
 {3518}{}{une bande de nomades.}
-{3519}{}{un homme gardant un pont.}
+{3519}{}{un homme gardant un pont}
 {3520}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {3521}{}{une bande de parias très fachés.}
-
-# Encounter Table 11
 {3550}{}{décharge de déchets toxiques.}
 {3551}{}{un chien solitaire.}
 {3552}{}{un troupeau de Brahmines.}
 {3553}{}{des geckos dorés et une famille de radscorpions.}
 {3554}{}{des bandits.}
-{3555}{}{un groupe de sans abri.}
-{3556}{}{une horde de geckos dorés.}
-{3557}{}{des chasseurs de primes.}
-{3558}{}{des chasseurs de primes.}
-{3559}{}{des chasseurs de primes.}
-{3560}{}{des chasseurs de primes.}
-{3561}{}{des chasseurs de primes.}
-{3562}{}{des chasseurs de primes.}
-{3563}{}{des chasseurs de primes.}
-{3564}{}{des chasseurs de primes.}
+{3555}{}{un groupe de sans-abri.}
+{3556}{}{une horde de geckos.}
+{3557}{}{quelques chasseurs de primes.}
+{3558}{}{quelques chasseurs de primes.}
+{3559}{}{quelques chasseurs de primes.}
+{3560}{}{quelques chasseurs de primes.}
+{3561}{}{quelques chasseurs de primes.}
+{3562}{}{quelques chasseurs de primes.}
+{3563}{}{quelques chasseurs de primes.}
+{3564}{}{quelques chasseurs de primes.}
 {3565}{}{une bande de voyous menée par un des frères Morton.}
 {3566}{}{une famille de radscorpions.}
 {3567}{}{des plantes à spores.}
 {3568}{}{des bandits attaqués par des geckos dorés.}
-{3569}{}{des fermiers attaqués par des geckos.}
+{3569}{}{des fermiers se défendant contre des geckos.}
 {3570}{}{des fermiers repoussant des geckos dorés.}
 {3571}{}{des trappeurs affrontant des geckos dorés.}
 {3572}{}{des trappeurs repoussant des bandits.}
@@ -529,8 +373,8 @@
 {3576}{}{des bandits attaquant des fermiers.}
 {3577}{}{des fermiers repoussant des radscorpions.}
 {3578}{}{des trappeurs affrontant des radscorpions.}
-{3579}{}{des trappeurs affrontant des rats-cochons.}
-{3580}{}{des fermiers repoussant un groupe de rats-cochons.}
+{3579}{}{des trappeurs attaquant des rats-cochons.}
+{3580}{}{des fermiers éliminant une infestation de rats-cochons.}
 {3581}{}{des fermiers.}
 {3582}{}{un groupe de trappeurs.}
 {3583}{}{les restes d'une baleine.}
@@ -538,22 +382,20 @@
 {3585}{}{une navette écrasée.}
 {3586}{}{un portail énigmatique.}
 {3587}{}{les Chevaliers de la Table Ronde.}
-{3588}{}{un homme en Fer-blanc.} 
+{3588}{}{un homme en Fer-blanc.}
 {3589}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 12
 {3600}{}{des geckos dorés et une famille de radscorpions.}
 {3601}{}{des bandits.}
 {3602}{}{un groupe de sans-abri.}
-{3603}{}{une horde de geckos dorés.}
-{3604}{}{des chasseurs de primes.}
-{3605}{}{des chasseurs de primes.}
-{3606}{}{des chasseurs de primes.}
-{3607}{}{des chasseurs de primes.}
-{3608}{}{des chasseurs de primes.}
-{3609}{}{des chasseurs de primes.}
-{3610}{}{des chasseurs de primes.}
-{3611}{}{des chasseurs de primes.}
+{3603}{}{une horde de geckos.}
+{3604}{}{quelques chasseurs de primes.}
+{3605}{}{quelques chasseurs de primes.}
+{3606}{}{quelques chasseurs de primes.}
+{3607}{}{quelques chasseurs de primes.}
+{3608}{}{quelques chasseurs de primes.}
+{3609}{}{quelques chasseurs de primes.}
+{3610}{}{quelques chasseurs de primes.}
+{3611}{}{quelques chasseurs de primes.}
 {3612}{}{une bande de voyous menée par un des frères Morton.}
 {3613}{}{une famille de radscorpions.}
 {3614}{}{des plantes à spores.}
@@ -572,37 +414,35 @@
 {3627}{}{des fermiers éliminant une infestation de rats-cochons.}
 {3628}{}{des fermiers.}
 {3629}{}{un groupe de trappeurs.}
-{3630}{}{un homme gardant un pont.}
+{3630}{}{un homme gardant un pont}
 {3631}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {3632}{}{une bande de parias très fachés.}
-
-# Encounter Table 13
 {3650}{}{décharge de déchets toxiques}
 {3651}{}{un chien solitaire.}
 {3652}{}{un troupeau de Brahmines.}
 {3653}{}{un marchand et des gardes.}
-{3654}{}{des chasseurs de primes.}
-{3655}{}{des chasseurs de primes.}
-{3656}{}{des chasseurs de primes.}
-{3657}{}{des chasseurs de primes.}
-{3658}{}{des chasseurs de primes.}
-{3659}{}{des chasseurs de primes.}
-{3660}{}{des chasseurs de primes.}
-{3661}{}{des chasseurs de primes.}
+{3654}{}{quelques chasseurs de primes.}
+{3655}{}{quelques chasseurs de primes.}
+{3656}{}{quelques chasseurs de primes.}
+{3657}{}{quelques chasseurs de primes.}
+{3658}{}{quelques chasseurs de primes.}
+{3659}{}{quelques chasseurs de primes.}
+{3660}{}{quelques chasseurs de primes.}
+{3661}{}{quelques chasseurs de primes.}
 {3662}{}{une bande de voyous menée par un des frères Morton.}
 {3663}{}{des trappeurs.}
 {3664}{}{des bandits attaquant un groupe de marchands.}
 {3665}{}{des bandits tendant une embuscade à des trappeurs.}
 {3666}{}{une famille de radscorpions attaquant un groupe de marchands.}
 {3667}{}{des trappeurs essayant d'attraper des radscorpions.}
-{3668}{}{un groupe de radscorpions.} 
+{3668}{}{un groupe de radscorpions.}
 {3669}{}{une famille de rataupes.}
 {3670}{}{des bandits.}
 {3671}{}{des trappeurs essayant d'attraper des geckos dorés.}
 {3672}{}{des radscorpions affrontant des geckos dorés.}
 {3673}{}{des radscorpions attaquant des rataupes et des rats-cochons.}
 {3674}{}{des trappeurs et des marchands repoussant des bandits.}
-{3675}{}{des geckos dorés.} 
+{3675}{}{des geckos.}
 {3676}{}{des trappeurs affrontant des rataupes et des rats-cochons.}
 {3677}{}{des marchands repoussant des rataupes et des rats-cochons.}
 {3678}{}{les restes d'une baleine.}
@@ -613,20 +453,18 @@
 {3683}{}{un homme en Fer-blanc.}
 {3684}{}{les villageois mal lavés chassant un spammeur.}
 {3685}{}{une bande de parias très fachés.}
-
-# Encounter Table 14
 {3700}{}{décharge de déchets toxiques}
 {3701}{}{un chien solitaire.}
 {3702}{}{un troupeau de Brahmines.}
 {3703}{}{une bande de bandits de grand chemin.}
-{3704}{}{des chasseurs de primes.}
-{3705}{}{des chasseurs de primes.}
-{3706}{}{des chasseurs de primes.}
-{3707}{}{des chasseurs de primes.}
-{3708}{}{des chasseurs de primes.}
-{3709}{}{des chasseurs de primes.}
-{3710}{}{des chasseurs de primes.}
-{3711}{}{des chasseurs de primes.}
+{3704}{}{quelques chasseurs de primes.}
+{3705}{}{quelques chasseurs de primes.}
+{3706}{}{quelques chasseurs de primes.}
+{3707}{}{quelques chasseurs de primes.}
+{3708}{}{quelques chasseurs de primes.}
+{3709}{}{quelques chasseurs de primes.}
+{3710}{}{quelques chasseurs de primes.}
+{3711}{}{quelques chasseurs de primes.}
 {3712}{}{une bande de voyous menée par un des frères Morton.}
 {3713}{}{une bande de voleurs.}
 {3714}{}{une bande de voleurs et de bandits de grands chemin.}
@@ -634,7 +472,7 @@
 {3716}{}{une famille de geckos dorés.}
 {3717}{}{une famille de rataupes.}
 {3718}{}{un grand groupe de radscorpions.}
-{3719}{}{une grosse infestation de plantes à spores.}
+{3719}{}{un groupe de plantes à spores.}
 {3720}{}{des voleurs s'expliquant avec des bandits.}
 {3721}{}{un groupe de marchands repoussant des bandits.}
 {3722}{}{un groupe de marchands repoussant des voleurs.}
@@ -648,20 +486,18 @@
 {3730}{}{les Chevaliers de la Table Ronde.}
 {3731}{}{un homme en Fer-blanc.}
 {3732}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 15
 {3750}{}{une bande de bandits de grand chemin.}
 {3751}{}{une bande de voleurs.}
 {3752}{}{une bande de voleurs et de bandits de grands chemin.}
 {3753}{}{des geckos dorés et des radscorpions.}
-{3754}{}{des chasseurs de primes.}
-{3755}{}{des chasseurs de primes.}
-{3756}{}{des chasseurs de primes.}
-{3757}{}{des chasseurs de primes.}
-{3758}{}{des chasseurs de primes.}
-{3759}{}{des chasseurs de primes.}
-{3760}{}{des chasseurs de primes.}
-{3761}{}{des chasseurs de primes.}
+{3754}{}{quelques chasseurs de primes.}
+{3755}{}{quelques chasseurs de primes.}
+{3756}{}{quelques chasseurs de primes.}
+{3757}{}{quelques chasseurs de primes.}
+{3758}{}{quelques chasseurs de primes.}
+{3759}{}{quelques chasseurs de primes.}
+{3760}{}{quelques chasseurs de primes.}
+{3761}{}{quelques chasseurs de primes.}
 {3762}{}{une bande de voyous menée par un des frères Morton.}
 {3763}{}{une famille de geckos dorés.}
 {3764}{}{une famille de rataupes.}
@@ -673,22 +509,20 @@
 {3770}{}{un groupe de marchands repoussant des radscorpions.}
 {3771}{}{des geckos dorés se battant contre des radscorpions.}
 {3772}{}{un marchand et des gardes.}
-{3773}{}{un homme gardant un pont.}
+{3773}{}{un homme gardant un pont}
 {3774}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 16
-{3800}{}{Décharge de déchets toxiques}
+{3800}{}{décharge de déchets toxiques}
 {3801}{}{un chien solitaire.}
 {3802}{}{un troupeau de Brahmines.}
-{3803}{}{un groupe de marchands d'esclaves et d'esclaves.}
-{3804}{}{des chasseurs de primes.}
-{3805}{}{des chasseurs de primes.}
-{3806}{}{des chasseurs de primes.}
-{3807}{}{des chasseurs de primes.}
-{3808}{}{des chasseurs de primes.}
-{3809}{}{des chasseurs de primes.}
-{3810}{}{des chasseurs de primes.}
-{3811}{}{des chasseurs de primes.}
+{3803}{}{un groupe d'esclaves et de marchands d'esclaves.}
+{3804}{}{quelques chasseurs de primes.}
+{3805}{}{quelques chasseurs de primes.}
+{3806}{}{quelques chasseurs de primes.}
+{3807}{}{quelques chasseurs de primes.}
+{3808}{}{quelques chasseurs de primes.}
+{3809}{}{quelques chasseurs de primes.}
+{3810}{}{quelques chasseurs de primes.}
+{3811}{}{quelques chasseurs de primes.}
 {3812}{}{une bande de voyous menée par un des frères Morton.}
 {3813}{}{un groupe de bandits de grand chemin.}
 {3814}{}{une bande de voleurs.}
@@ -696,7 +530,7 @@
 {3816}{}{une horde de radscorpions et des rataupes.}
 {3817}{}{une horde de radscorpions.}
 {3818}{}{un groupe de rataupes.}
-{3819}{}{des voleurs tendant une embuscade  à des bandits.}
+{3819}{}{des voleurs tendant une embuscade à des bandits.}
 {3820}{}{des marchands d'esclaves tentant de réduire des gens à l'esclavage.}
 {3821}{}{des esclavagistes et des esclaves repoussant des voleurs.}
 {3822}{}{des esclavagistes et des esclaves repoussant des geckos dorés.}
@@ -709,20 +543,18 @@
 {3829}{}{les Chevaliers de la Table Ronde.}
 {3830}{}{un homme en Fer-blanc.}
 {3831}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 17
 {3850}{}{un groupe d'esclaves et de marchands d'esclaves.}
 {3851}{}{un groupe de bandits de grand chemin.}
 {3852}{}{une bande de voleurs.}
 {3853}{}{des geckos dorés se cachant parmi des plantes à spores.}
-{3854}{}{des chasseurs de primes.}
-{3855}{}{des chasseurs de primes.}
-{3856}{}{des chasseurs de primes.}
-{3857}{}{des chasseurs de primes.}
-{3858}{}{des chasseurs de primes.}
-{3859}{}{des chasseurs de primes.}
-{3860}{}{des chasseurs de primes.}
-{3861}{}{des chasseurs de primes.}
+{3854}{}{quelques chasseurs de primes.}
+{3855}{}{quelques chasseurs de primes.}
+{3856}{}{quelques chasseurs de primes.}
+{3857}{}{quelques chasseurs de primes.}
+{3858}{}{quelques chasseurs de primes.}
+{3859}{}{quelques chasseurs de primes.}
+{3860}{}{quelques chasseurs de primes.}
+{3861}{}{quelques chasseurs de primes.}
 {3862}{}{une bande de voyous menée par un des frères Morton.}
 {3863}{}{une horde de radscorpions et des rataupes.}
 {3864}{}{une horde de radscorpions.}
@@ -731,22 +563,20 @@
 {3867}{}{des marchands d'esclaves tentant de réduire des gens à l'esclavage.}
 {3868}{}{des esclavagistes et des esclaves repoussant des voleurs.}
 {3869}{}{des esclavagistes et des esclaves repoussant des geckos dorés.}
-{3870}{}{un homme gardant un pont.}
+{3870}{}{un homme gardant un pont}
 {3871}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 18
 {3900}{}{des bandits de grand chemin et des voleurs.}
-{3901}{}{des bandits de grand chemin dirigeant des geckos dorés.}
-{3902}{}{une horde de geckos dorés.}
+{3901}{}{des bandits de grand chemin.}
+{3902}{}{une grande horde de geckos dorés.}
 {3903}{}{des radscorpions se cachant dans les plantes à spores.}
-{3904}{}{des chasseurs de primes.}
-{3905}{}{des chasseurs de primes.}
-{3906}{}{des chasseurs de primes.}
-{3907}{}{des chasseurs de primes.}
-{3908}{}{des chasseurs de primes.}
-{3909}{}{des chasseurs de primes.}
-{3910}{}{des chasseurs de primes.}
-{3911}{}{des chasseurs de primes.}
+{3904}{}{quelques chasseurs de primes.}
+{3905}{}{quelques chasseurs de primes.}
+{3906}{}{quelques chasseurs de primes.}
+{3907}{}{quelques chasseurs de primes.}
+{3908}{}{quelques chasseurs de primes.}
+{3909}{}{quelques chasseurs de primes.}
+{3910}{}{quelques chasseurs de primes.}
+{3911}{}{quelques chasseurs de primes.}
 {3912}{}{une bande de voyous menée par un des frères Morton.}
 {3913}{}{des voleurs affrontant des radscorpions.}
 {3914}{}{des voleurs.}
@@ -754,23 +584,21 @@
 {3916}{}{des marchands pris dans une embuscade par des voleurs.}
 {3917}{}{des bandits attaqués par des plantes à spores.}
 {3918}{}{un groupe de marchands.}
-{3919}{}{un homme gardant un pont.}
+{3919}{}{un homme gardant un pont}
 {3920}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-{3921}{}{Quelques bandits en colère.}
-
-# Encounter Table 19
+{3921}{}{des bandits furieux.}
 {3950}{}{des bandits de grand chemin.}
 {3951}{}{des voleurs.}
 {3952}{}{des sans abri.}
 {3953}{}{des geckos dorés et des mantes.}
-{3954}{}{des chasseurs de primes.}
-{3955}{}{des chasseurs de primes.}
-{3956}{}{des chasseurs de primes.}
-{3957}{}{des chasseurs de primes.}
-{3958}{}{des chasseurs de primes.}
-{3959}{}{des chasseurs de primes.}
-{3960}{}{des chasseurs de primes.}
-{3961}{}{des chasseurs de primes.}
+{3954}{}{quelques chasseurs de primes.}
+{3955}{}{quelques chasseurs de primes.}
+{3956}{}{quelques chasseurs de primes.}
+{3957}{}{quelques chasseurs de primes.}
+{3958}{}{quelques chasseurs de primes.}
+{3959}{}{quelques chasseurs de primes.}
+{3960}{}{quelques chasseurs de primes.}
+{3961}{}{quelques chasseurs de primes.}
 {3962}{}{une bande de voyous menée par un des frères Morton.}
 {3963}{}{des Brahmines sauvages.}
 {3964}{}{des radscorpions.}
@@ -784,23 +612,21 @@
 {3972}{}{des contrebandiers.}
 {3973}{}{des fermiers.}
 {3974}{}{un troupeau de Brahmines.}
-{3975}{}{un homme gardant un pont.}
+{3975}{}{un homme gardant un pont}
 {3976}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {3977}{}{des bandits furieux.}
-
-# Encounter Table 20
 {4000}{}{des bandits suivant une piste avec des chiens sauvages.}
 {4001}{}{des voleurs faisant des fouilles avec des chiens sauvages.}
 {4002}{}{une bande de voleurs.}
 {4003}{}{une bande de bandits de grand chemin.}
-{4004}{}{des chasseurs de primes.}
-{4005}{}{des chasseurs de primes.}
-{4006}{}{des chasseurs de primes.}
-{4007}{}{des chasseurs de primes.}
-{4008}{}{des chasseurs de primes.}
-{4009}{}{des chasseurs de primes.}
-{4010}{}{des chasseurs de primes.} 
-{4011}{}{des chasseurs de primes.}
+{4004}{}{quelques chasseurs de primes.}
+{4005}{}{quelques chasseurs de primes.}
+{4006}{}{quelques chasseurs de primes.}
+{4007}{}{quelques chasseurs de primes.}
+{4008}{}{quelques chasseurs de primes.}
+{4009}{}{quelques chasseurs de primes.}
+{4010}{}{quelques chasseurs de primes.}
+{4011}{}{quelques chasseurs de primes.}
 {4012}{}{une bande de voyous menée par un des frères Morton.}
 {4013}{}{une nuée de mantes infestant des plantes à spores.}
 {4014}{}{une horde de chiens sauvages parmi des plantes à spores.}
@@ -811,22 +637,20 @@
 {4019}{}{une caravane tombant dans une embuscade de voleurs.}
 {4020}{}{une caravane tombant dans une embuscade de bandits.}
 {4021}{}{une caravane.}
-{4022}{}{un homme gardant un pont.}
+{4022}{}{un homme gardant un pont}
 {4023}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 21
 {4050}{}{décharge de déchets toxiques}
 {4051}{}{un chien solitaire.}
 {4052}{}{un troupeau de Brahmines.}
 {4053}{}{des bandits suivant une piste avec des chiens sauvages.}
-{4054}{}{des chasseurs de primes.}
-{4055}{}{des chasseurs de primes.}
-{4056}{}{des chasseurs de primes.}
-{4057}{}{des chasseurs de primes.}
-{4058}{}{des chasseurs de primes.}
-{4059}{}{des chasseurs de primes.}
-{4060}{}{des chasseurs de primes.}
-{4061}{}{des chasseurs de primes.}
+{4054}{}{quelques chasseurs de primes.}
+{4055}{}{quelques chasseurs de primes.}
+{4056}{}{quelques chasseurs de primes.}
+{4057}{}{quelques chasseurs de primes.}
+{4058}{}{quelques chasseurs de primes.}
+{4059}{}{quelques chasseurs de primes.}
+{4060}{}{quelques chasseurs de primes.}
+{4061}{}{quelques chasseurs de primes.}
 {4062}{}{une bande de voyous menée par un des frères Morton.}
 {4063}{}{des voleurs faisant des fouilles avec des chiens sauvages.}
 {4064}{}{une bande de voleurs.}
@@ -847,45 +671,40 @@
 {4079}{}{les Chevaliers de la Table Ronde.}
 {4080}{}{un homme en Fer-blanc.}
 {4081}{}{les villageois mal lavés chassant un spammeur.}
-
-
-# Encounter Table 22
-{4100}{}{des geckos dorés.} 
+{4100}{}{des geckos.}
 {4101}{}{une horde de mantes.}
 {4102}{}{des radscorpions.}
 {4103}{}{des Brahmines sauvages.}
-{4104}{}{des chasseurs de primes.}
-{4105}{}{des chasseurs de primes.}
-{4106}{}{des chasseurs de primes.}
-{4107}{}{des chasseurs de primes.}
-{4108}{}{des chasseurs de primes.}
-{4109}{}{des chasseurs de primes.}
-{4110}{}{des chasseurs de primes.}
-{4111}{}{des chasseurs de primes.}
+{4104}{}{quelques chasseurs de primes.}
+{4105}{}{quelques chasseurs de primes.}
+{4106}{}{quelques chasseurs de primes.}
+{4107}{}{quelques chasseurs de primes.}
+{4108}{}{quelques chasseurs de primes.}
+{4109}{}{quelques chasseurs de primes.}
+{4110}{}{quelques chasseurs de primes.}
+{4111}{}{quelques chasseurs de primes.}
 {4112}{}{une bande de voyous menée par un des frères Morton.}
-{4113}{}{un marchand et des gardes attaqués par des geckos dorés.}
+{4113}{}{un marchand et des gardes se battant contre des geckos dorés.}
 {4114}{}{une nuée de mantes massacrant une bande de marchands.}
 {4115}{}{une nuée de mantes attaquant des Brahmines sauvages.}
 {4116}{}{des radscorpions dévorant des mantes.}
 {4117}{}{des radscorpions massacrant des Brahmines sauvages.}
 {4118}{}{un marchand et des gardes.}
-{4119}{}{un homme gardant un pont.}
+{4119}{}{un homme gardant un pont}
 {4120}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {4121}{}{des bandits furieux.}
-
-# Encounter Table 23
 {4150}{}{décharge de déchets toxiques}
 {4151}{}{un chien solitaire.}
 {4152}{}{un troupeau de Brahmines.}
-{4153}{}{des geckos dorés.}
-{4154}{}{des chasseurs de primes.}
-{4155}{}{des chasseurs de primes.}
-{4156}{}{des chasseurs de primes.}
-{4157}{}{des chasseurs de primes.}
-{4158}{}{des chasseurs de primes.}
-{4159}{}{des chasseurs de primes.}
-{4160}{}{des chasseurs de primes.}
-{4161}{}{des chasseurs de primes.}
+{4153}{}{des geckos.}
+{4154}{}{quelques chasseurs de primes.}
+{4155}{}{quelques chasseurs de primes.}
+{4156}{}{quelques chasseurs de primes.}
+{4157}{}{quelques chasseurs de primes.}
+{4158}{}{quelques chasseurs de primes.}
+{4159}{}{quelques chasseurs de primes.}
+{4160}{}{quelques chasseurs de primes.}
+{4161}{}{quelques chasseurs de primes.}
 {4162}{}{une bande de voyous menée par un des frères Morton.}
 {4163}{}{une horde de mantes.}
 {4164}{}{des radscorpions.}
@@ -904,24 +723,22 @@
 {4177}{}{un homme en Fer-blanc.}
 {4178}{}{les villageois mal lavés chassant un spammeur.}
 {4179}{}{des bandits furieux.}
-
-# Encounter Table 24
 {4200}{}{décharge de déchets toxiques}
 {4201}{}{un chien solitaire.}
 {4202}{}{un troupeau de Brahmines.}
 {4203}{}{des rataupes.}
-{4204}{}{des chasseurs de primes.}
-{4205}{}{des chasseurs de primes.}
-{4206}{}{des chasseurs de primes.}
-{4207}{}{des chasseurs de primes.}
-{4208}{}{des chasseurs de primes.}
-{4209}{}{des chasseurs de primes.}
-{4210}{}{des chasseurs de primes.}
-{4211}{}{des chasseurs de primes.} 
+{4204}{}{quelques chasseurs de primes.}
+{4205}{}{quelques chasseurs de primes.}
+{4206}{}{quelques chasseurs de primes.}
+{4207}{}{quelques chasseurs de primes.}
+{4208}{}{quelques chasseurs de primes.}
+{4209}{}{quelques chasseurs de primes.}
+{4210}{}{quelques chasseurs de primes.}
+{4211}{}{quelques chasseurs de primes.}
 {4212}{}{une bande de voyous menée par un des frères Morton.}
 {4213}{}{des rats-cochons.}
 {4214}{}{des plantes à spores.}
-{4215}{}{un ermite et des chiens se battant contre des rataupes.}
+{4215}{}{un ermite et des chiens attaqués par des rattaupes.}
 {4216}{}{un ermite repoussant des chiens sauvages.}
 {4217}{}{un ermite repoussant des rats-cochons.}
 {4218}{}{un ermite et des chiens affrontant des rataupes.}
@@ -936,20 +753,18 @@
 {4227}{}{les Chevaliers de la Table Ronde.}
 {4228}{}{un homme en Fer-blanc.}
 {4229}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 25
 {4250}{}{des rataupes.}
 {4251}{}{des rats-cochons.}
 {4252}{}{des plantes à spores.}
 {4253}{}{un ermite et des chiens attaqués par des rattaupes.}
-{4254}{}{des chasseurs de primes.}
-{4255}{}{des chasseurs de primes.}
-{4256}{}{des chasseurs de primes.}
-{4257}{}{des chasseurs de primes.}
-{4258}{}{des chasseurs de primes.}
-{4259}{}{des chasseurs de primes.}
-{4260}{}{des chasseurs de primes.}
-{4261}{}{des chasseurs de primes.}
+{4254}{}{quelques chasseurs de primes.}
+{4255}{}{quelques chasseurs de primes.}
+{4256}{}{quelques chasseurs de primes.}
+{4257}{}{quelques chasseurs de primes.}
+{4258}{}{quelques chasseurs de primes.}
+{4259}{}{quelques chasseurs de primes.}
+{4260}{}{quelques chasseurs de primes.}
+{4261}{}{quelques chasseurs de primes.}
 {4262}{}{une bande de voyous menée par un des frères Morton.}
 {4263}{}{un ermite repoussant des chiens sauvages.}
 {4264}{}{un ermite repoussant des rats-cochons.}
@@ -958,22 +773,20 @@
 {4267}{}{des rataupes affrontant des plantes à spores.}
 {4268}{}{des rats-cochons affrontant des chiens sauvages.}
 {4269}{}{un ermite.}
-{4270}{}{un homme gardant un pont.}
+{4270}{}{un homme gardant un pont}
 {4271}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 26
 {4300}{}{une bande d'esclavagistes et des chiens sauvages.}
 {4301}{}{une bande de marchands d'esclaves.}
-{4302}{}{des geckos dorés.}
+{4302}{}{des geckos.}
 {4303}{}{une horde de chiens sauvages.}
-{4304}{}{des chasseurs de primes.}
-{4305}{}{des chasseurs de primes.}
-{4306}{}{des chasseurs de primes.}
-{4307}{}{des chasseurs de primes.}
-{4308}{}{des chasseurs de primes.}
-{4309}{}{des chasseurs de primes.}
-{4310}{}{des chasseurs de primes.}
-{4311}{}{des chasseurs de primes.}
+{4304}{}{quelques chasseurs de primes.}
+{4305}{}{quelques chasseurs de primes.}
+{4306}{}{quelques chasseurs de primes.}
+{4307}{}{quelques chasseurs de primes.}
+{4308}{}{quelques chasseurs de primes.}
+{4309}{}{quelques chasseurs de primes.}
+{4310}{}{quelques chasseurs de primes.}
+{4311}{}{quelques chasseurs de primes.}
 {4312}{}{une bande de voyous menée par un des frères Morton.}
 {4313}{}{une patrouille et des chiens maîtrisant des esclavagistes.}
 {4314}{}{des esclavagistes repoussant des geckos dorés.}
@@ -981,25 +794,23 @@
 {4316}{}{une patrouille se battant contre des geckos dorés.}
 {4317}{}{une patrouille repoussant des chiens sauvages.}
 {4318}{}{une patrouille.}
-{4319}{}{un homme gardant un pont.}
+{4319}{}{un homme gardant un pont}
 {4320}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 27
 {4350}{}{décharge de déchets toxiques}
 {4351}{}{un chien solitaire.}
 {4352}{}{un troupeau de Brahmines.}
 {4353}{}{une bande d'esclavagistes et des chiens sauvages.}
-{4354}{}{des chasseurs de primes.}
-{4355}{}{des chasseurs de primes.}
-{4356}{}{des chasseurs de primes.}
-{4357}{}{des chasseurs de primes.}
-{4358}{}{des chasseurs de primes.}
-{4359}{}{des chasseurs de primes.}
-{4360}{}{des chasseurs de primes.}
-{4361}{}{des chasseurs de primes.}
+{4354}{}{quelques chasseurs de primes.}
+{4355}{}{quelques chasseurs de primes.}
+{4356}{}{quelques chasseurs de primes.}
+{4357}{}{quelques chasseurs de primes.}
+{4358}{}{quelques chasseurs de primes.}
+{4359}{}{quelques chasseurs de primes.}
+{4360}{}{quelques chasseurs de primes.}
+{4361}{}{quelques chasseurs de primes.}
 {4362}{}{une bande de voyous menée par un des frères Morton.}
 {4363}{}{une bande de marchands d'esclaves.}
-{4364}{}{des geckos dorés.}
+{4364}{}{des geckos.}
 {4365}{}{une horde de chiens sauvages.}
 {4366}{}{une patrouille et des chiens maîtrisant des esclavagistes.}
 {4367}{}{des esclavagistes repoussant des geckos dorés.}
@@ -1012,22 +823,20 @@
 {4374}{}{une navette écrasée.}
 {4375}{}{un portail énigmatique.}
 {4376}{}{les Chevaliers de la Table Ronde.}
-{4377}{}{un homme de fer-blanc.}
+{4377}{}{un homme en Fer-blanc.}
 {4378}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 28
 {4400}{}{un tas de pilleurs de poubelles.}
-{4401}{}{des Goules pilleuses de poubelles.}
+{4401}{}{des Goules pilleurs de poubelles.}
 {4402}{}{un ramassis de Foldingues.}
 {4403}{}{des Goules Foldingues.}
-{4404}{}{des chasseurs de primes.}
-{4405}{}{des chasseurs de primes.}
-{4406}{}{des chasseurs de primes.}
-{4407}{}{des chasseurs de primes.}
-{4408}{}{des chasseurs de primes.}
-{4409}{}{des chasseurs de primes.}
-{4410}{}{des chasseurs de primes.}
-{4411}{}{des chasseurs de primes.}
+{4404}{}{quelques chasseurs de primes.}
+{4405}{}{quelques chasseurs de primes.}
+{4406}{}{quelques chasseurs de primes.}
+{4407}{}{quelques chasseurs de primes.}
+{4408}{}{quelques chasseurs de primes.}
+{4409}{}{quelques chasseurs de primes.}
+{4410}{}{quelques chasseurs de primes.}
+{4411}{}{quelques chasseurs de primes.}
 {4412}{}{une bande de voyous menée par un des frères Morton.}
 {4413}{}{des geckos.}
 {4414}{}{une horde de chiens sauvages.}
@@ -1038,22 +847,20 @@
 {4419}{}{des Goules pilleurs de poubelles repoussant des Foldingues.}
 {4420}{}{des geckos affrontant des Foldingues.}
 {4421}{}{des rats mutants infestant des Goules pilleurs de poubelles.}
-{4422}{}{un homme gardant un pont.}
+{4422}{}{un homme gardant un pont}
 {4423}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 29
 {4450}{}{décharge de déchets toxiques}
 {4451}{}{un chien solitaire.}
 {4452}{}{un troupeau de Brahmines.}
 {4453}{}{un tas de pilleurs de poubelles.}
-{4454}{}{des chasseurs de primes.}
-{4455}{}{des chasseurs de primes.}
-{4456}{}{des chasseurs de primes.}
-{4457}{}{des chasseurs de primes.}
-{4458}{}{des chasseurs de primes.}
-{4459}{}{des chasseurs de primes.}
-{4460}{}{des chasseurs de primes.}
-{4461}{}{des chasseurs de primes.}
+{4454}{}{quelques chasseurs de primes.}
+{4455}{}{quelques chasseurs de primes.}
+{4456}{}{quelques chasseurs de primes.}
+{4457}{}{quelques chasseurs de primes.}
+{4458}{}{quelques chasseurs de primes.}
+{4459}{}{quelques chasseurs de primes.}
+{4460}{}{quelques chasseurs de primes.}
+{4461}{}{quelques chasseurs de primes.}
 {4462}{}{une bande de voyous menée par un des frères Morton.}
 {4463}{}{des Goules pilleurs de poubelles.}
 {4464}{}{un ramassis de Foldingues.}
@@ -1074,20 +881,18 @@
 {4479}{}{les Chevaliers de la Table Ronde.}
 {4480}{}{un homme en Fer-blanc.}
 {4481}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 30
 {4500}{}{des cannibales.}
 {4501}{}{des sauvages.}
 {4502}{}{une expédition guerrière.}
 {4503}{}{des parias.}
-{4504}{}{des chasseurs de primes.}
-{4505}{}{des chasseurs de primes.}
-{4506}{}{des chasseurs de primes.}
-{4507}{}{des chasseurs de primes.}
-{4508}{}{des chasseurs de primes.}
-{4509}{}{des chasseurs de primes.}
-{4510}{}{des chasseurs de primes.}
-{4511}{}{des chasseurs de primes.}
+{4504}{}{quelques chasseurs de primes.}
+{4505}{}{quelques chasseurs de primes.}
+{4506}{}{quelques chasseurs de primes.}
+{4507}{}{quelques chasseurs de primes.}
+{4508}{}{quelques chasseurs de primes.}
+{4509}{}{quelques chasseurs de primes.}
+{4510}{}{quelques chasseurs de primes.}
+{4511}{}{quelques chasseurs de primes.}
 {4512}{}{une bande de voyous menée par un des frères Morton.}
 {4513}{}{une famille de radscorpions.}
 {4514}{}{des rataupes.}
@@ -1095,20 +900,18 @@
 {4516}{}{des cannibales se battant contre des sauvages.}
 {4517}{}{des radscorpions attaquant des sauvages.}
 {4518}{}{des pêcheurs.}
-
-# Encounter Table 31
 {4550}{}{décharge de déchets toxiques}
 {4551}{}{un chien solitaire.}
 {4552}{}{un troupeau de Brahmines.}
 {4553}{}{des cannibales.}
-{4554}{}{des chasseurs de primes.}
-{4555}{}{des chasseurs de primes.}
-{4556}{}{des chasseurs de primes.}
-{4557}{}{des chasseurs de primes.}
-{4558}{}{des chasseurs de primes.}
-{4559}{}{des chasseurs de primes.}
-{4560}{}{des chasseurs de primes.}
-{4561}{}{des chasseurs de primes.}
+{4554}{}{quelques chasseurs de primes.}
+{4555}{}{quelques chasseurs de primes.}
+{4556}{}{quelques chasseurs de primes.}
+{4557}{}{quelques chasseurs de primes.}
+{4558}{}{quelques chasseurs de primes.}
+{4559}{}{quelques chasseurs de primes.}
+{4560}{}{quelques chasseurs de primes.}
+{4561}{}{quelques chasseurs de primes.}
 {4562}{}{une bande de voyous menée par un des frères Morton.}
 {4563}{}{des parias.}
 {4564}{}{des sauvages.}
@@ -1116,7 +919,7 @@
 {4566}{}{des geckos se cachant dans des plantes à spores.}
 {4567}{}{des geckos et des radscorpions.}
 {4568}{}{des geckos.}
-{4569}{}{des radscorpions se cachant dans des plantes à spores.}
+{4569}{}{des radscorpions se cachant parmi des plantes à spores.}
 {4570}{}{des radscorpions.}
 {4571}{}{des geckos attaquant des parias.}
 {4572}{}{des geckos agressant des sauvages.}
@@ -1130,20 +933,18 @@
 {4580}{}{les Chevaliers de la Table Ronde.}
 {4581}{}{un homme en Fer-blanc.}
 {4582}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 32
 {4600}{}{des cannibales.}
 {4601}{}{des parias.}
 {4602}{}{des sauvages.}
 {4603}{}{une expédition guerrière.}
-{4604}{}{des chasseurs de primes.}
-{4605}{}{des chasseurs de primes.}
-{4606}{}{des chasseurs de primes.}
-{4607}{}{des chasseurs de primes.}
-{4608}{}{des chasseurs de primes.}
-{4609}{}{des chasseurs de primes.}
-{4610}{}{des chasseurs de primes.}
-{4611}{}{des chasseurs de primes.}
+{4604}{}{quelques chasseurs de primes.}
+{4605}{}{quelques chasseurs de primes.}
+{4606}{}{quelques chasseurs de primes.}
+{4607}{}{quelques chasseurs de primes.}
+{4608}{}{quelques chasseurs de primes.}
+{4609}{}{quelques chasseurs de primes.}
+{4610}{}{quelques chasseurs de primes.}
+{4611}{}{quelques chasseurs de primes.}
 {4612}{}{une bande de voyous menée par un des frères Morton.}
 {4613}{}{des geckos se cachant dans des plantes à spores.}
 {4614}{}{des geckos et des radscorpions.}
@@ -1155,22 +956,20 @@
 {4620}{}{des radscorpions se battant contre des cannibales.}
 {4621}{}{des radscorpions attaquant un ermite.}
 {4622}{}{un ermite.}
-{4623}{}{un homme gardant un pont.}
+{4623}{}{un homme gardant un pont}
 {4624}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 33
 {4650}{}{décharge de déchets toxiques}
 {4651}{}{un chien solitaire.}
 {4652}{}{un troupeau de Brahmines.}
 {4653}{}{une caravane de la Fosse.}
-{4654}{}{des chasseurs de primes.}
-{4655}{}{des chasseurs de primes.}
-{4656}{}{des chasseurs de primes.}
-{4657}{}{des chasseurs de primes.}
-{4658}{}{des chasseurs de primes.}
-{4659}{}{des chasseurs de primes.}
-{4660}{}{des chasseurs de primes.}
-{4661}{}{des chasseurs de primes.}
+{4654}{}{quelques chasseurs de primes.}
+{4655}{}{quelques chasseurs de primes.}
+{4656}{}{quelques chasseurs de primes.}
+{4657}{}{quelques chasseurs de primes.}
+{4658}{}{quelques chasseurs de primes.}
+{4659}{}{quelques chasseurs de primes.}
+{4660}{}{quelques chasseurs de primes.}
+{4661}{}{quelques chasseurs de primes.}
 {4662}{}{une bande de voyous menée par un des frères Morton.}
 {4663}{}{des bandits de grand chemin et des voleurs.}
 {4664}{}{des bandits de grand chemin.}
@@ -1178,9 +977,9 @@
 {4666}{}{une caravane de Redding repoussant des bandits.}
 {4667}{}{une caravane de New Reno repoussant des voleurs.}
 {4668}{}{une caravane de la Fosse repoussant des bandits.}
-{4669}{}{des voleurs tendant une embuscade à une caravane.}
+{4669}{}{Des voleurs attaquant  une caravane.}
 {4670}{}{une caravane de la Fosse attaquant une caravane de la Cité}
-{4671}{}{des bandits se battant contre des voleurs.}
+{4671}{}{des bandits de grand chemin se battant contre des voleurs.}
 {4672}{}{une caravane de la Cité de l'Abri.}
 {4673}{}{une caravane de la Fosse.}
 {4674}{}{les restes d'une baleine.}
@@ -1190,20 +989,18 @@
 {4678}{}{les Chevaliers de la Table Ronde.}
 {4679}{}{un homme en Fer-blanc.}
 {4680}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 34
 {4700}{}{une caravane de la Fosse.}
 {4701}{}{des bandits de grand chemin et des voleurs.}
 {4702}{}{des bandits de grand chemin.}
 {4703}{}{des voleurs.}
-{4704}{}{des chasseurs de primes.}
-{4705}{}{des chasseurs de primes.}
-{4706}{}{des chasseurs de primes.}
-{4707}{}{des chasseurs de primes.}
-{4708}{}{des chasseurs de primes.}
-{4709}{}{des chasseurs de primes.}
-{4710}{}{des chasseurs de primes.}
-{4711}{}{des chasseurs de primes.}
+{4704}{}{quelques chasseurs de primes.}
+{4705}{}{quelques chasseurs de primes.}
+{4706}{}{quelques chasseurs de primes.}
+{4707}{}{quelques chasseurs de primes.}
+{4708}{}{quelques chasseurs de primes.}
+{4709}{}{quelques chasseurs de primes.}
+{4710}{}{quelques chasseurs de primes.}
+{4711}{}{quelques chasseurs de primes.}
 {4712}{}{une bande de voyous menée par un des frères Morton.}
 {4713}{}{une caravane de Redding repoussant des bandits.}
 {4714}{}{une caravane de New Reno repoussant des voleurs.}
@@ -1213,24 +1010,22 @@
 {4718}{}{des bandits de grand chemin se battant contre des voleurs.}
 {4719}{}{une caravane de la Cité de l'Abri.}
 {4720}{}{une caravane de la Fosse.}
-{4721}{}{un homme gardant un pont.}
+{4721}{}{un homme gardant un pont}
 {4722}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 35
 {4750}{}{décharge de déchets toxiques}
 {4751}{}{un chien solitaire.}
 {4752}{}{un troupeau de Brahmines.}
 {4753}{}{des geckos et des loups.}
-{4754}{}{des chasseurs de primes.}
-{4755}{}{des chasseurs de primes.}
-{4756}{}{des chasseurs de primes.}
-{4757}{}{des chasseurs de primes.}
-{4758}{}{des chasseurs de primes.}
-{4759}{}{des chasseurs de primes.}
-{4760}{}{des chasseurs de primes.}
-{4761}{}{des chasseurs de primes.}
+{4754}{}{quelques chasseurs de primes.}
+{4755}{}{quelques chasseurs de primes.}
+{4756}{}{quelques chasseurs de primes.}
+{4757}{}{quelques chasseurs de primes.}
+{4758}{}{quelques chasseurs de primes.}
+{4759}{}{quelques chasseurs de primes.}
+{4760}{}{quelques chasseurs de primes.}
+{4761}{}{quelques chasseurs de primes.}
 {4762}{}{une bande de voyous menée par un des frères Morton.}
-{4763}{}{des fraudeurs.}
+{4763}{}{des fraudeurs}
 {4764}{}{des loups.}
 {4765}{}{des geckos.}
 {4766}{}{des prospecteurs se battant contre des fraudeurs.}
@@ -1248,20 +1043,18 @@
 {4778}{}{les Chevaliers de la Table Ronde.}
 {4779}{}{un homme en Fer-blanc.}
 {4780}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 36
 {4800}{}{des geckos et des loups.}
 {4801}{}{des fraudeurs}
 {4802}{}{des loups.}
 {4803}{}{des geckos.}
-{4804}{}{des chasseurs de primes.}
-{4805}{}{des chasseurs de primes.}
-{4806}{}{des chasseurs de primes.}
-{4807}{}{des chasseurs de primes.}
-{4808}{}{des chasseurs de primes.}
-{4809}{}{des chasseurs de primes.}
-{4810}{}{des chasseurs de primes.}
-{4811}{}{des chasseurs de primes.}
+{4804}{}{quelques chasseurs de primes.}
+{4805}{}{quelques chasseurs de primes.}
+{4806}{}{quelques chasseurs de primes.}
+{4807}{}{quelques chasseurs de primes.}
+{4808}{}{quelques chasseurs de primes.}
+{4809}{}{quelques chasseurs de primes.}
+{4810}{}{quelques chasseurs de primes.}
+{4811}{}{quelques chasseurs de primes.}
 {4812}{}{une bande de voyous menée par un des frères Morton.}
 {4813}{}{des prospecteurs se battant contre des fraudeurs.}
 {4814}{}{des trappeurs se battant contre des geckos.}
@@ -1271,45 +1064,41 @@
 {4818}{}{des contrebandiers.}
 {4819}{}{des trappeurs.}
 {4820}{}{des prospecteurs.}
-{4821}{}{un homme gardant un pont.}
+{4821}{}{un homme gardant un pont}
 {4822}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 37
 {4850}{}{une horde de loups et des rataupes.}
 {4851}{}{des radscorpions et des loups.}
 {4852}{}{des rataupes et des radscorpions}
 {4853}{}{une horde de geckos.}
-{4854}{}{des chasseurs de primes.}
-{4855}{}{des chasseurs de primes.}
-{4856}{}{des chasseurs de primes.}
-{4857}{}{des chasseurs de primes.}
-{4858}{}{des chasseurs de primes.}
-{4859}{}{des chasseurs de primes.}
-{4860}{}{des chasseurs de primes.}
-{4861}{}{des chasseurs de primes.}
+{4854}{}{quelques chasseurs de primes.}
+{4855}{}{quelques chasseurs de primes.}
+{4856}{}{quelques chasseurs de primes.}
+{4857}{}{quelques chasseurs de primes.}
+{4858}{}{quelques chasseurs de primes.}
+{4859}{}{quelques chasseurs de primes.}
+{4860}{}{quelques chasseurs de primes.}
+{4861}{}{quelques chasseurs de primes.}
 {4862}{}{une bande de voyous menée par un des frères Morton.}
 {4863}{}{une horde de loups.}
-{4864}{}{une horde de rataupes.}
+{4864}{}{une horde de rataupes}
 {4865}{}{une horde de radscorpions.}
 {4866}{}{une horde de loups et des geckos.}
 {4867}{}{des rataupes affrontant des geckos.}
 {4868}{}{des rataupes affrontant des radscorpions.}
-{4869}{}{un homme gardant un pont.}
+{4869}{}{un homme gardant un pont}
 {4870}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 38
 {4900}{}{une bande de pillards.}
 {4901}{}{des loups.}
 {4902}{}{une caravane repoussant des pillards.}
 {4903}{}{une caravane repoussant des pillards.}
-{4904}{}{des chasseurs de primes.}
-{4905}{}{des chasseurs de primes.}
-{4906}{}{des chasseurs de primes.}
-{4907}{}{des chasseurs de primes.}
-{4908}{}{des chasseurs de primes.}
-{4909}{}{des chasseurs de primes.}
-{4910}{}{des chasseurs de primes.}
-{4911}{}{des chasseurs de primes.}
+{4904}{}{quelques chasseurs de primes.}
+{4905}{}{quelques chasseurs de primes.}
+{4906}{}{quelques chasseurs de primes.}
+{4907}{}{quelques chasseurs de primes.}
+{4908}{}{quelques chasseurs de primes.}
+{4909}{}{quelques chasseurs de primes.}
+{4910}{}{quelques chasseurs de primes.}
+{4911}{}{quelques chasseurs de primes.}
 {4912}{}{une bande de voyous menée par un des frères Morton.}
 {4913}{}{une caravane repoussant des pillards.}
 {4914}{}{une caravane repoussant des pillards.}
@@ -1317,23 +1106,21 @@
 {4916}{}{une caravane.}
 {4917}{}{une caravane.}
 {4918}{}{une caravane.}
-{4919}{}{un homme gardant un pont.}
+{4919}{}{un homme gardant un pont}
 {4920}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {4921}{}{une bande de pillards furieux.}
-
-# Encounter Table 39
 {4950}{}{décharge de déchets toxiques}
 {4951}{}{un chien solitaire.}
 {4952}{}{un troupeau de Brahmines.}
 {4953}{}{une bande de pillards.}
-{4954}{}{des chasseurs de primes.}
-{4955}{}{des chasseurs de primes.}
-{4956}{}{des chasseurs de primes.}
-{4957}{}{des chasseurs de primes.}
-{4958}{}{des chasseurs de primes.}
-{4959}{}{des chasseurs de primes.}
-{4960}{}{des chasseurs de primes.}
-{4961}{}{des chasseurs de primes.}
+{4954}{}{quelques chasseurs de primes.}
+{4955}{}{quelques chasseurs de primes.}
+{4956}{}{quelques chasseurs de primes.}
+{4957}{}{quelques chasseurs de primes.}
+{4958}{}{quelques chasseurs de primes.}
+{4959}{}{quelques chasseurs de primes.}
+{4960}{}{quelques chasseurs de primes.}
+{4961}{}{quelques chasseurs de primes.}
 {4962}{}{une bande de voyous menée par un des frères Morton.}
 {4963}{}{des loups.}
 {4964}{}{une caravane repoussant des pillards.}
@@ -1352,40 +1139,36 @@
 {4977}{}{un homme en Fer-blanc.}
 {4978}{}{les villageois mal lavés chassant un spammeur.}
 {4979}{}{une bande de pillards furieux.}
-
-# Encounter Table 40
 {5000}{}{une bande de pillards menant des loups.}
 {5001}{}{des plantes à spores et des loups.}
 {5002}{}{une bande de pillards.}
 {5003}{}{une horde de loups.}
-{5004}{}{des chasseurs de primes.}
-{5005}{}{des chasseurs de primes.}
-{5006}{}{des chasseurs de primes.}
-{5007}{}{des chasseurs de primes.}
-{5008}{}{des chasseurs de primes.}
-{5009}{}{des chasseurs de primes.}
-{5010}{}{des chasseurs de primes.}
-{5011}{}{des chasseurs de primes.}
+{5004}{}{quelques chasseurs de primes.}
+{5005}{}{quelques chasseurs de primes.}
+{5006}{}{quelques chasseurs de primes.}
+{5007}{}{quelques chasseurs de primes.}
+{5008}{}{quelques chasseurs de primes.}
+{5009}{}{quelques chasseurs de primes.}
+{5010}{}{quelques chasseurs de primes.}
+{5011}{}{quelques chasseurs de primes.}
 {5012}{}{une bande de voyous menée par un des frères Morton.}
 {5013}{}{une horde de radscorpions.}
 {5014}{}{une horde de loups affrontant des pillards.}
-{5015}{}{un homme gardant un pont.}
+{5015}{}{un homme gardant un pont}
 {5016}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {5017}{}{une bande de pillards furieux.}
-
-# Encounter Table 41
 {5050}{}{décharge de déchets toxiques}
 {5051}{}{un chien solitaire.}
 {5052}{}{un troupeau de Brahmines.}
 {5053}{}{une bande de pillards menant des loups.}
-{5054}{}{des chasseurs de primes.}
-{5055}{}{des chasseurs de primes.}
-{5056}{}{des chasseurs de primes.}
-{5057}{}{des chasseurs de primes.}
-{5058}{}{des chasseurs de primes.}
-{5059}{}{des chasseurs de primes.}
-{5060}{}{des chasseurs de primes.}
-{5061}{}{des chasseurs de primes.}
+{5054}{}{quelques chasseurs de primes.}
+{5055}{}{quelques chasseurs de primes.}
+{5056}{}{quelques chasseurs de primes.}
+{5057}{}{quelques chasseurs de primes.}
+{5058}{}{quelques chasseurs de primes.}
+{5059}{}{quelques chasseurs de primes.}
+{5060}{}{quelques chasseurs de primes.}
+{5061}{}{quelques chasseurs de primes.}
 {5062}{}{une bande de voyous menée par un des frères Morton.}
 {5063}{}{des plantes à spores et des loups.}
 {5064}{}{une bande de pillards.}
@@ -1400,20 +1183,18 @@
 {5073}{}{un homme en Fer-blanc.}
 {5074}{}{les villageois mal lavés chassant un spammeur.}
 {5075}{}{une bande de pillards furieux.}
-
-# Encounter Table 42
 {5100}{}{décharge de déchets toxiques}
 {5101}{}{un chien solitaire.}
 {5102}{}{un troupeau de Brahmines.}
 {5103}{}{une patrouille de l'Enclave.}
-{5104}{}{des chasseurs de primes.}
-{5105}{}{des chasseurs de primes.}
-{5106}{}{des chasseurs de primes.}
-{5107}{}{des chasseurs de primes.}
-{5108}{}{des chasseurs de primes.}
-{5109}{}{des chasseurs de primes.}
-{5110}{}{des chasseurs de primes.}
-{5111}{}{des chasseurs de primes.}
+{5104}{}{quelques chasseurs de primes.}
+{5105}{}{quelques chasseurs de primes.}
+{5106}{}{quelques chasseurs de primes.}
+{5107}{}{quelques chasseurs de primes.}
+{5108}{}{quelques chasseurs de primes.}
+{5109}{}{quelques chasseurs de primes.}
+{5110}{}{quelques chasseurs de primes.}
+{5111}{}{quelques chasseurs de primes.}
 {5112}{}{une bande de voyous menée par un des frères Morton.}
 {5113}{}{les restes d'une baleine.}
 {5114}{}{une pierre tombale géante.}
@@ -1423,50 +1204,44 @@
 {5118}{}{un homme en Fer-blanc.}
 {5119}{}{les villageois mal lavés chassant un spammeur.}
 {5120}{}{le café des Illusions Perdues.}
-
-# Encounter Table 43
 {5150}{}{une patrouille de l'Enclave.}
-{5151}{}{des chasseurs de primes.}
-{5152}{}{des chasseurs de primes.}
-{5153}{}{des chasseurs de primes.}
-{5154}{}{des chasseurs de primes.}
-{5155}{}{des chasseurs de primes.}
-{5156}{}{des chasseurs de primes.}
-{5157}{}{des chasseurs de primes.}
-{5158}{}{des chasseurs de primes.}
+{5151}{}{quelques chasseurs de primes.}
+{5152}{}{quelques chasseurs de primes.}
+{5153}{}{quelques chasseurs de primes.}
+{5154}{}{quelques chasseurs de primes.}
+{5155}{}{quelques chasseurs de primes.}
+{5156}{}{quelques chasseurs de primes.}
+{5157}{}{quelques chasseurs de primes.}
+{5158}{}{quelques chasseurs de primes.}
 {5159}{}{une bande de voyous menée par un des frères Morton.}
-{5160}{}{un homme gardant un pont.}
+{5160}{}{un homme gardant un pont}
 {5161}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 44
 {5200}{}{une patrouille de l'Enclave.}
-{5201}{}{des chasseurs de primes.}
-{5202}{}{des chasseurs de primes.}
-{5203}{}{des chasseurs de primes.}
-{5204}{}{des chasseurs de primes.}
-{5205}{}{des chasseurs de primes.}
-{5206}{}{des chasseurs de primes.}
-{5207}{}{des chasseurs de primes.}
-{5208}{}{des chasseurs de primes.}
+{5201}{}{quelques chasseurs de primes.}
+{5202}{}{quelques chasseurs de primes.}
+{5203}{}{quelques chasseurs de primes.}
+{5204}{}{quelques chasseurs de primes.}
+{5205}{}{quelques chasseurs de primes.}
+{5206}{}{quelques chasseurs de primes.}
+{5207}{}{quelques chasseurs de primes.}
+{5208}{}{quelques chasseurs de primes.}
 {5209}{}{une bande de voyous menée par un des frères Morton.}
-
-# Encounter Table 45
 {5250}{}{décharge de déchets toxiques}
 {5251}{}{un chien solitaire.}
 {5252}{}{un troupeau de Brahmines.}
 {5253}{}{des aliens}
-{5254}{}{des chasseurs de primes.}
-{5255}{}{des chasseurs de primes.}
-{5256}{}{des chasseurs de primes.}
-{5257}{}{des chasseurs de primes.}
-{5258}{}{des chasseurs de primes.}
-{5259}{}{des chasseurs de primes.}
-{5260}{}{des chasseurs de primes.}
-{5261}{}{des chasseurs de primes.}
+{5254}{}{quelques chasseurs de primes.}
+{5255}{}{quelques chasseurs de primes.}
+{5256}{}{quelques chasseurs de primes.}
+{5257}{}{quelques chasseurs de primes.}
+{5258}{}{quelques chasseurs de primes.}
+{5259}{}{quelques chasseurs de primes.}
+{5260}{}{quelques chasseurs de primes.}
+{5261}{}{quelques chasseurs de primes.}
 {5262}{}{une bande de voyous menée par un des frères Morton.}
-{5263}{}{une armée de Flotteurs et de Centaures.}
+{5263}{}{une armée de Flotteurs et des Centaures.}
 {5264}{}{des geckos de feu.}
-{5265}{}{une grande horde d'aliens.}
+{5265}{}{une horde d'aliens.}
 {5266}{}{des Griffemorts.}
 {5267}{}{des geckos de feu.}
 {5268}{}{des aliens.}
@@ -1477,46 +1252,43 @@
 {5273}{}{une navette écrasée.}
 {5274}{}{un portail énigmatique.}
 {5275}{}{les Chevaliers de la Table Ronde.}
-{5276}{}{les villageois mal lavés chassant un spammeur.}
+{5276}{}{un homme en Fer-blanc.}
 {5277}{}{les villageois mal lavés chassant un spammeur.}
 {5278}{}{le café des Illusions Perdues.}
 {5279}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 46
 {5300}{}{des aliens}
 {5301}{}{une armée de Flotteurs et des Centaures.}
 {5302}{}{des geckos de feu.}
 {5303}{}{une horde d'aliens.}
-{5304}{}{des chasseurs de primes.}
-{5305}{}{des chasseurs de primes.}
-{5306}{}{des chasseurs de primes.}
-{5307}{}{des chasseurs de primes.}
-{5308}{}{des chasseurs de primes.}
-{5309}{}{des chasseurs de primes.}
-{5310}{}{des chasseurs de primes.}
-{5311}{}{des chasseurs de primes.}
+{5304}{}{quelques chasseurs de primes.}
+{5305}{}{quelques chasseurs de primes.}
+{5306}{}{quelques chasseurs de primes.}
+{5307}{}{quelques chasseurs de primes.}
+{5308}{}{quelques chasseurs de primes.}
+{5309}{}{quelques chasseurs de primes.}
+{5310}{}{quelques chasseurs de primes.}
+{5311}{}{quelques chasseurs de primes.}
 {5312}{}{une bande de voyous menée par un des frères Morton.}
 {5313}{}{des Griffemorts.}
 {5314}{}{des geckos de feu.}
 {5315}{}{des aliens.}
 {5316}{}{une horde de Centaures.}
 {5317}{}{une nuée de Flotteurs.}
-{5318}{}{un homme gardant un pont.}
+{5318}{}{un homme gardant un pont}
 {5319}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {5320}{}{Une assemblée d'individus importants.}
-# Encounter Table 47
 {5350}{}{des aliens}
 {5351}{}{une armée de Flotteurs et des Centaures.}
 {5352}{}{des geckos de feu.}
 {5353}{}{une horde d'aliens.}
-{5354}{}{des chasseurs de primes.}
-{5355}{}{des chasseurs de primes.}
-{5356}{}{des chasseurs de primes.}
-{5357}{}{des chasseurs de primes.}
-{5358}{}{des chasseurs de primes.}
-{5359}{}{des chasseurs de primes.}
-{5360}{}{des chasseurs de primes.}
-{5361}{}{des chasseurs de primes.}
+{5354}{}{quelques chasseurs de primes.}
+{5355}{}{quelques chasseurs de primes.}
+{5356}{}{quelques chasseurs de primes.}
+{5357}{}{quelques chasseurs de primes.}
+{5358}{}{quelques chasseurs de primes.}
+{5359}{}{quelques chasseurs de primes.}
+{5360}{}{quelques chasseurs de primes.}
+{5361}{}{quelques chasseurs de primes.}
 {5362}{}{une bande de voyous menée par un des frères Morton.}
 {5363}{}{des Griffemorts.}
 {5364}{}{des geckos de feu.}
@@ -1524,23 +1296,21 @@
 {5366}{}{une horde de Centaures.}
 {5367}{}{une nuée de Flotteurs.}
 {5368}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 48
 {5400}{}{décharge de déchets toxiques}
 {5401}{}{un chien solitaire.}
 {5402}{}{un troupeau de Brahmines.}
 {5403}{}{une horde de geckos de feu.}
-{5404}{}{des chasseurs de primes.}
-{5405}{}{des chasseurs de primes.}
-{5406}{}{des chasseurs de primes.}
-{5407}{}{des chasseurs de primes.}
-{5408}{}{des chasseurs de primes.}
-{5409}{}{des chasseurs de primes.}
-{5410}{}{des chasseurs de primes.}
-{5411}{}{des chasseurs de primes.}
+{5404}{}{quelques chasseurs de primes.}
+{5405}{}{quelques chasseurs de primes.}
+{5406}{}{quelques chasseurs de primes.}
+{5407}{}{quelques chasseurs de primes.}
+{5408}{}{quelques chasseurs de primes.}
+{5409}{}{quelques chasseurs de primes.}
+{5410}{}{quelques chasseurs de primes.}
+{5411}{}{quelques chasseurs de primes.}
 {5412}{}{une bande de voyous menée par un des frères Morton.}
 {5413}{}{une horde de geckos de feu.}
-{5414}{}{une horde de geckos dorés.}
+{5414}{}{une grande horde de geckos dorés.}
 {5415}{}{les restes d'une baleine.}
 {5416}{}{une pierre tombale géante.}
 {5417}{}{une navette écrasée.}
@@ -1550,40 +1320,34 @@
 {5421}{}{les villageois mal lavés chassant un spammeur.}
 {5422}{}{le café des Illusions Perdues.}
 {5423}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 49
 {5450}{}{une horde de geckos de feu.}
 {5451}{}{une horde de geckos de feu.}
-{5452}{}{une horde de geckos dorés.}
-{5453}{}{des chasseurs de primes.}
-{5454}{}{des chasseurs de primes.}
-{5455}{}{des chasseurs de primes.}
-{5456}{}{des chasseurs de primes.}
-{5457}{}{des chasseurs de primes.}
-{5458}{}{des chasseurs de primes.}
-{5459}{}{des chasseurs de primes.}
-{5460}{}{des chasseurs de primes.}
+{5452}{}{une grande horde de geckos dorés.}
+{5453}{}{quelques chasseurs de primes.}
+{5454}{}{quelques chasseurs de primes.}
+{5455}{}{quelques chasseurs de primes.}
+{5456}{}{quelques chasseurs de primes.}
+{5457}{}{quelques chasseurs de primes.}
+{5458}{}{quelques chasseurs de primes.}
+{5459}{}{quelques chasseurs de primes.}
+{5460}{}{quelques chasseurs de primes.}
 {5461}{}{une bande de voyous menée par un des frères Morton.}
-{5462}{}{un homme gardant un pont.}
+{5462}{}{un homme gardant un pont}
 {5463}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {5464}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 50
 {5500}{}{une horde de geckos de feu.}
 {5501}{}{une horde de geckos de feu.}
 {5502}{}{une grande horde de geckos dorés.}
-{5503}{}{des chasseurs de primes.}
-{5504}{}{des chasseurs de primes.}
-{5505}{}{des chasseurs de primes.}
-{5506}{}{des chasseurs de primes.}
-{5507}{}{des chasseurs de primes.}
-{5508}{}{des chasseurs de primes.}
-{5509}{}{des chasseurs de primes.}
-{5510}{}{des chasseurs de primes.}
+{5503}{}{quelques chasseurs de primes.}
+{5504}{}{quelques chasseurs de primes.}
+{5505}{}{quelques chasseurs de primes.}
+{5506}{}{quelques chasseurs de primes.}
+{5507}{}{quelques chasseurs de primes.}
+{5508}{}{quelques chasseurs de primes.}
+{5509}{}{quelques chasseurs de primes.}
+{5510}{}{quelques chasseurs de primes.}
 {5511}{}{une bande de voyous menée par un des frères Morton.}
 {5512}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 51
 {5550}{}{décharge de déchets toxiques}
 {5551}{}{un chien solitaire.}
 {5552}{}{un troupeau de Brahmines.}
@@ -1613,8 +1377,6 @@
 {5576}{}{les Chevaliers de la Table Ronde.}
 {5577}{}{un homme en Fer-blanc.}
 {5578}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 52
 {5600}{}{une horde de Griffemorts.}
 {5601}{}{une horde de geckos de feu.}
 {5602}{}{une caravane repoussant des Griffemorts.}
@@ -1636,8 +1398,6 @@
 {5618}{}{une caravane.}
 {5619}{}{un homme gardant un pont}
 {5620}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 53
 {5650}{}{décharge de déchets toxiques}
 {5651}{}{un chien solitaire.}
 {5652}{}{un troupeau de Brahmines.}
@@ -1665,8 +1425,6 @@
 {5674}{}{un homme en Fer-blanc.}
 {5675}{}{les villageois mal lavés chassant un spammeur.}
 {5676}{}{le café des Illusions Perdues.}
-
-# Encounter Table 54
 {5700}{}{des yakuzas.}
 {5701}{}{un gang.}
 {5702}{}{une horde de loups.}
@@ -1685,8 +1443,6 @@
 {5715}{}{un voyageur.}
 {5716}{}{un homme gardant un pont}
 {5717}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 55
 {5750}{}{des yakuzas.}
 {5751}{}{un gang.}
 {5752}{}{une horde de loups.}
@@ -1703,8 +1459,6 @@
 {5763}{}{des truands affrontant un gang.}
 {5764}{}{des truands.}
 {5765}{}{un voyageur.}
-
-# Encounter Table 56
 {5800}{}{décharge de déchets toxiques}
 {5801}{}{un chien solitaire.}
 {5802}{}{un troupeau de Brahmines.}
@@ -1732,8 +1486,6 @@
 {5824}{}{les Chevaliers de la Table Ronde.}
 {5825}{}{un homme en Fer-blanc.}
 {5826}{}{les villageois mal lavés chassant un spammeur.}
-
-# Encounter Table 57
 {5850}{}{une bande de renégats et des loups.}
 {5851}{}{une bande de renégats.}
 {5852}{}{une horde de loups.}
@@ -1753,8 +1505,6 @@
 {5866}{}{une patrouille de l'Unité.}
 {5867}{}{un homme gardant un pont}
 {5868}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 58
 {5900}{}{une bande de mercenaires.}
 {5901}{}{des racoleurs.}
 {5902}{}{un troupeau de Griffemorts.}
@@ -1774,8 +1524,6 @@
 {5916}{}{des Hubologistes.}
 {5917}{}{une bande de mercenaires furieux.}
 {5918}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 59
 {5950}{}{une bande de mercenaires.}
 {5951}{}{des racoleurs.}
 {5952}{}{un troupeau de Griffemorts.}
@@ -1797,8 +1545,6 @@
 {5968}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {5969}{}{une bande de mercenaires furieux.}
 {5970}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 60
 {6000}{}{une bande de mercenaires.}
 {6001}{}{des racoleurs.}
 {6002}{}{un troupeau de Griffemorts.}
@@ -1818,8 +1564,6 @@
 {6016}{}{des Hubologistes.}
 {6017}{}{une bande de mercenaires furieux.}
 {6018}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 61
 {6050}{}{décharge de déchets toxiques}
 {6051}{}{un chien solitaire.}
 {6052}{}{un troupeau de Brahmines.}
@@ -1850,8 +1594,6 @@
 {6077}{}{le café des Illusions Perdues.}
 {6078}{}{une bande de mercenaires furieux.}
 {6079}{}{Une assemblée d'individus importants.}
-
-# Encounter Table 62
 {6100}{}{décharge de déchets toxiques}
 {6101}{}{un chien solitaire.}
 {6102}{}{un troupeau de Brahmines.}
@@ -1883,8 +1625,6 @@
 {6128}{}{les villageois mal lavés chassant un spammeur.}
 {6129}{}{le café des Illusions Perdues.}
 {6130}{}{une bande de mercenaires furieux.}
-
-# Encounter Table 63
 {6150}{}{une bande de mercenaires.}
 {6151}{}{une horde de Griffemorts.}
 {6152}{}{une horde de geckos de feu.}
@@ -1905,8 +1645,6 @@
 {6167}{}{une caravane.}
 {6168}{}{une caravane.}
 {6169}{}{une bande de mercenaires furieux.}
-
-# Encounter Table 64
 {6200}{}{décharge de déchets toxiques}
 {6201}{}{un chien solitaire.}
 {6202}{}{un troupeau de Brahmines.}
@@ -1931,8 +1669,6 @@
 {6221}{}{un homme en Fer-blanc.}
 {6222}{}{les villageois mal lavés chassant un spammeur.}
 {6223}{}{le café des Illusions Perdues.}
-
-# Encounter Table 65
 {6250}{}{une patrouille de l'Enclave.}
 {6251}{}{les restes de l'armée du Maître.}
 {6252}{}{une horde de Griffemorts.}
@@ -1948,8 +1684,6 @@
 {6262}{}{une bande de voyous menée par un des frères Morton.}
 {6263}{}{un homme gardant un pont}
 {6264}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 66
 {6300}{}{décharge de déchets toxiques}
 {6301}{}{un chien solitaire.}
 {6302}{}{un troupeau de Brahmines.}
@@ -1976,8 +1710,6 @@
 {6323}{}{un homme en Fer-blanc.}
 {6324}{}{les villageois mal lavés chassant un spammeur.}
 {6325}{}{le café des Illusions Perdues.}
-
-# Encounter Table 67
 {6350}{}{une caravane repoussant des restes de l'armée du Maître.}
 {6351}{}{une caravane repoussant des restes de l'armée du Maître.}
 {6352}{}{une caravane repoussant des Griffemorts.}
@@ -1995,8 +1727,6 @@
 {6364}{}{une caravane.}
 {6365}{}{un homme gardant un pont}
 {6366}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 68
 {6400}{}{une horde de loups.}
 {6401}{}{une horde de mantes.}
 {6402}{}{une famille de radscorpions.}
@@ -2011,8 +1741,6 @@
 {6411}{}{une bande de voyous menée par un des frères Morton.}
 {6412}{}{un homme gardant un pont}
 {6413}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 69
 {6450}{}{décharge de déchets toxiques}
 {6451}{}{un chien solitaire.}
 {6452}{}{un troupeau de Brahmines.}
@@ -2036,8 +1764,6 @@
 {6470}{}{un homme en Fer-blanc.}
 {6471}{}{les villageois mal lavés chassant un spammeur.}
 {6472}{}{le café des Illusions Perdues.}
-
-# Encounter Table 70
 {6500}{}{décharge de déchets toxiques}
 {6501}{}{un chien solitaire.}
 {6502}{}{un troupeau de Brahmines.}
@@ -2071,8 +1797,6 @@
 {6530}{}{les villageois mal lavés chassant un spammeur.}
 {6531}{}{le café des Illusions Perdues.}
 {6532}{}{une bande de mauraudeurs énervés.}
-
-# Encounter Table 71
 {6550}{}{une bande de maraudeurs.}
 {6551}{}{une horde de loups.}
 {6552}{}{une horde de radscorpions.}
@@ -2097,8 +1821,6 @@
 {6571}{}{un homme gardant un pont}
 {6572}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {6573}{}{une bande de mauraudeurs énervés.}
-
-# Encounter Table 72
 {6600}{}{un détachement de l'armée du Maître.}
 {6601}{}{une bande de maraudeurs.}
 {6602}{}{des commandos repoussant une escouade de l'armée du Maître.}
@@ -2119,8 +1841,6 @@
 {6617}{}{un homme gardant un pont}
 {6618}{}{les Chevaliers de la Table Ronde affrontant un rat.}
 {6619}{}{une bande de mauraudeurs énervés.}
-
-# Encounter Table 73
 {6650}{}{décharge de déchets toxiques}
 {6651}{}{un chien solitaire.}
 {6652}{}{un troupeau de Brahmines.}
@@ -2150,12 +1870,10 @@
 {6676}{}{les villageois mal lavés chassant un spammeur.}
 {6677}{}{le café des Illusions Perdues.}
 {6678}{}{une bande de mauraudeurs énervés.}
-
-# Encounter Table 74
 {6700}{}{des restes de l'armée du Maître affrontant des rataupes.}
 {6701}{}{Restes de l'armée du Maître.}
 {6702}{}{une horde de mantes.}
-{6703}{}{une horde de rataupes.}
+{6703}{}{une horde de rataupes}
 {6704}{}{quelques chasseurs de primes.}
 {6705}{}{quelques chasseurs de primes.}
 {6706}{}{quelques chasseurs de primes.}
@@ -2168,8 +1886,6 @@
 {6713}{}{une horde de radscorpions.}
 {6714}{}{un homme gardant un pont}
 {6715}{}{les Chevaliers de la Table Ronde affrontant un rat.}
-
-# Encounter Table 75
 {6750}{}{décharge de déchets toxiques}
 {6751}{}{un chien solitaire.}
 {6752}{}{un troupeau de Brahmines.}

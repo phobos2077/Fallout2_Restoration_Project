@@ -1,7 +1,6 @@
 {100}{}{Un homme qui joue du luth.}
 {101}{}{Joshua.}
 {102}{}{Un troubadour ambulant.}
-
 {103}{}{Le courageux Sieur Robin s'est enfui.}
 {104}{}{Courageusement, il s'est enfui.}
 {105}{}{Le danger a montré son horrible visage, alors il a courageusement tourné les talons et s'est enfui.}

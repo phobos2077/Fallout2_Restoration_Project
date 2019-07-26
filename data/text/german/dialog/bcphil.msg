@@ -52,6 +52,5 @@
 {151}{}{Du bist ganz schön krank, ich werd dich schlafen legen.}
 {152}{}{Schön, habt ein bißchen Spaß. Ich geh jetzt.}
 {153}{}{Gib das Mädchen raus und wir können diesen Ort alle lebend verlassen.}
-
 {154}{}{Du bist also zurückgekommen. Wir werden ja sehn, wer den kürzeren zieht.}
 {155}{}{Wir haben diese Schlampe Chrissy getötet und jetzt bist du an der Reihe.}

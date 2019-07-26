@@ -8,7 +8,7 @@
 {107}{}{Ok. Je m'en vais.}
 {108}{}{Ok. J'en ai juste pour une minute.}
 {109}{}{J'ai des trucs à faire. Je partirai quand je le déciderai.}
-{110}{}{Umag Nak !?! Umag NAK !}
+{110}{}{Umag Nak ?! Umag NAK !}
 {111}{}{Je vais appeler quelques gardes pour t'escorter.}
 {112}{}{Ok. On y va.}
 {113}{}{Brog Frup.}
@@ -25,10 +25,10 @@
 {124}{}{Rien pour le moment.}
 {125}{}{Je regrette, seuls les citoyens ont le droit d'entrer dans l'Abri. Je pense que tu comprends.}
 {126}{}{Seuls les citoyens peuvent entrer. Maintenant, pars.}
-{127}{}{D'accord.}
+{127}{}{Ok.}
 {128}{}{Umgh.}
 {129}{}{Bien sûr. Je t'en prie, passe.}
-{130}{}{Meeerci !}
+{130}{}{Merciiiii !}
 {131}{}{Merci.}
 {132}{}{Oui ? Je peux t'aider ?}
 {133}{}{Je voudrais entrer dans l'Abri.}
@@ -47,32 +47,32 @@
 {146}{}{Une Goule ? Où ça ?}
 {147}{}{Un mutant ? Où ça ?}
 {148}{}{Il est avec moi.}
-{149}{}{Il voyage avec moi. Si ça vous pose un problème, bande de racistes, on peut arranger ça tout de suite.}
+{149}{}{Il est avec moi. Si ça pose un problème à l'un de vous, espèces de racistes, on peut peut-être régler ça tout de suite.}
 {150}{}{Si cette créature est avec toi, alors repartez tous les deux vers l'entrée, mais ne traînez pas dans les rues de la Cité de l'Abri.}
-{151}{}{Très bien, on va partir tranquillement.}
-{152}{}{Pourquoi ne nous escortes-tu pas hors d'ici ? Je te garantis que ce serait une expérience enrichissante.}
+{151}{}{D'accord, on y va gentiment.}
+{152}{}{Pourquoi vous n'essayez pas de nous escorter jusqu'à l'extérieur ? Je vous assure que ce sera très instructif.}
 {153}{}{Mais d'abord, comment ces étrangers sont-ils entrés ici... ?}
 {154}{}{Cette créature-là.}
 {155}{}{Repartez tous les deux vers l'entrée, mais ne traînez pas dans les rues de la Cité de l'Abri.}
-{156}{}{MOI PAS AVOIR LUI COMME AMI ! TOI PAS AMI !}
-{157}{}{On s'en va, on s'en va, du calme.}
-{158}{}{Très bien, on part tranquillement.}
-{159}{}{Il voyage avec moi. Si ça vous pose un problème, bande de racistes, on peut arranger ça tout de suite.}
+{156}{}{MOI PAS AMI LUI ! TOI PAS AMI !}
+{157}{}{On y va, on y va, geeeentiment.}
+{158}{}{D'accord, on y va gentiment.}
+{159}{}{Il est avec moi. Si ça pose un problème à l'un de vous, espèces de racistes, on peut peut-être régler ça tout de suite.}
 {160}{}{Gardes ! Des intrus sont entrés dans la Cité !}
 {161}{}{Hrnghhhhhhhh !}
-{162}{}{Quand tes amis arriveront, tu ne seras déjà plus de ce monde.}
+{162}{}{On aura ta peau avant que tes copains aient le temps de se pointer !}
 {163}{}{Hé ! C'est toi qui as vaincu l'Enclave !}
 {164}{}{Ecoutez, c'est la personne qui a vaincu l'Enclave !}
 {165}{}{Bienvenue à la Cité de l'Abri.}
-{166}{}{Ton combat contre l'Enclave a même impressionné la Première citoyenne.}
-{167}{}{J'ai entendu dire que tu avais été au Sud, jusqu'à San Francisco. C'est vrai ?}
-{168}{}{C'est vrai que les Etats-Unis étaient encore en guerre ?}
-{169}{}{Tu devrais répertorier tes voyages dans l'ordinateur de la Cité de l'Abri.}
-{170}{}{Tu peux rester à la Cité de l'Abri aussi longtemps qu'il te plaira.}
-{171}{}{Tu devrais répertorier tes exploits contre l'Enclave et les entrer sur le Serveur de listes.}
+{166}{}{Ta bataille contre l'Enclave en impose même à la Première citoyenne.}
+{167}{}{Il paraît que t'as été jusqu'à San Francisco. C'est vrai ?}
+{168}{}{C'est vrai que les Etats-Unis continuaient à se battre ?}
+{169}{}{Faudrait enregistrer tes voyages dans l'ordinateur de la Cité de l'Abri.}
+{170}{}{Bienvenue. Reste autant que tu veux à la Cité de l'Abri.}
+{171}{}{Faudrait enregistrer tes exploits contre l'Enclave et les mettre sur le serveur des listes.}
 {172}{}{Capitaine.}
-{173}{}{La Cité de l'Abri avant tout, Capitaine.}
+{173}{}{La Cité de l'Abri avant tout, Capitaine !}
 {174}{}{Bonne journée, Capitaine.}
-{175}{}{La Cité de l'Abri avant tout, citoyen.}
+{175}{}{La Cité de l'Abri avant tout, citoyen !}
 {176}{}{citoyen.}
-{177}{}{Bonne journée, citoyen.}
+{177}{}{Salut, citoyen.}

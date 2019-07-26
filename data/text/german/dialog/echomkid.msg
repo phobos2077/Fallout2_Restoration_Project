@@ -4,11 +4,9 @@
 {103}{}{Hau ab!}
 {104}{}{Ätsch-bätsch!}
 {105}{}{Whaaa!}
-{106}{}{Mamma!}
+{106}{}{Mammi!}
 {107}{}{Papa!}
-
 {200}{}{Du siehst ein kleines Kind.}
 {201}{}{Es ist ein kleiner Junge.}
 {202}{}{Es ist ein kleines Mädchen.}
-
-{210}{}{Hi.}
+{210}{}{Hey.}

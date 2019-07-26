@@ -1,6 +1,5 @@
 {100}{}{Du siehst den Ladenbesitzer.}
 {101}{}{Du siehst Tubby.}
-
 {150}{}{Das ist der Ladenbesitzer.}
 {151}{}{Das ist Tubby, der Ladenbesitzer.}
 {152}{}{[GESPRÄCH]}
@@ -9,27 +8,27 @@
 {155}{}{Kann ich dich was fragen?}
 {156}{}{Tschüß.}
 {157}{}{Schön dich wiederzusehen. Was kann ich heute für dich tun?}
-{158}{}{Laß uns handeln.}
+{158}{}{Lass uns handeln.}
 {159}{}{Kann ich dich was fragen?}
 {160}{}{Im Moment nichts. Tschüß.}
 {161}{}{Hallo, mein Herr, willkommen bei Tubby's. Ich bin der Besitzer. Was kann ich für dich
  tun?}
 {162}{}{Ja, laß uns handeln.}
 {163}{}{Ich brauche einige Informationen.}
-{164}{}{Wiedersehn. }
+{164}{}{Wiedersehn.}
 {165}{}{Hallo, meine Dame. Meine Freunde nennen mich Tubby und ich heiße dich in meinem Laden
  willkommen. Wie kann ich dir helfen?}
 {166}{}{Ich möchte einige Sachen kaufen.}
 {167}{}{Ich brauche einige Informationen.}
-{168}{}{Wiedersehn. }
+{168}{}{Wiedersehn.}
 {169}{}{Ich fände es besser, du würdest statt dessen gehen.}
 {170}{}{Tschüß.}
-{171}{}{Was möchtest du wissen?}
+{171}{}{Was möchtest du denn wissen?}
 {172}{}{Wer ist für diese Stadt verantwortlich?}
 {173}{}{Warum verkaufen alle Jet?}
 {174}{}{Weißt du, wo die Vault steht?}
 {175}{}{Eigentlich würde ich doch gerne tauschen.}
-{176}{}{Na egal. Tschüß.}
+{176}{}{Na, ist ja egal. Tschüß.}
 {177}{}{Oh Gott. Ich kann dir sagen, wir werden ein Verständigungsproblem haben.
  Nick bitte, wenn du Waren eintauschen willst.}
 {178}{}{[Nicken]}
@@ -54,13 +53,10 @@
 {192}{}{Sicher, so ein Betrag KÖNNTE helfen, meine Meinung zu ändern. Aber du hast ihn nicht!}
 {193}{}{Ich muß es irgendwo verloren haben. Ich werde danach suchen.}
 {194}{}{Ich glaub nicht, daß das reicht.}
-
-#tell petey to hold on messages
 {500}{}{Sicher, Scotty. Ich bin gleich da.}
 {501}{}{Halt durch, Scotty!}
 {502}{}{Ich komme, ich komme.}
-
-#sell petey drug messages
 {510}{}{So, jetzt, Scotty.}
 {511}{}{Weißt du Scotty, du solltest echt mit dem Zeug aufhören.}
 {512}{}{Nimm das Scotty und hau ab von hier.}
+{520}{}{So machen die Geschäfte richtig Spaß.}

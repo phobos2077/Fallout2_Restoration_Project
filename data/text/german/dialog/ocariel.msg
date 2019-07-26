@@ -13,7 +13,7 @@
 {112}{}{Du Fragen beantworten?}
 {113}{}{Nichts. Tschüß.}
 {114}{}{Du wirst mir wahrscheinlich keine Hilfe sein. Tschüß.}
-{115}{}{Ich möchte dir einige Fragen stellen.}
+{115}{}{Ich möchte Euch ein paar Fragen stellen.}
 {116}{}{Tut mir leid, dich in deiner Einsamkeit zu stören, aber könntest du mir einige Fragen beantworten?}
 {117}{}{Nur ein paar private Probleme. Nichts Wichtiges.}
 {118}{}{Du reden, ich zuhören. Das helfen.}
@@ -24,22 +24,22 @@
 {123}{}{Verzeihung, aber ich hab keine Zeit, mich mit jemandem wie dir abzugeben. Guten Tag.}
 {124}{}{}
 {125}{}{}
-{126}{}{Alles klar.}
+{126}{}{Also gut.}
 {127}{}{Was willst du wissen?}
-{128}{}{Du Gefangen?}
+{128}{}{Du Gefangener?}
 {129}{}{Todkrallen gut zu dir?}
 {130}{}{Wollen gehn?}
 {131}{}{Warum traurig?}
 {132}{}{Wie du kommen her?}
 {133}{}{Muß gehn.}
-{134}{}{Bist du eine Gefangene?}
+{134}{}{Bist du ein Gefangener?}
 {135}{}{Wirst du von den Deathclaws gut behandelt?}
 {136}{}{Möchtest du die Vault verlassen?}
 {137}{}{Also, warum bist du so traurig, Ariel?}
 {138}{}{Wie bist du in die Vault gekommen?}
 {139}{}{Ich muß jetzt gehn.}
 {140}{}{Nein, ich kann jederzeit gehn. Die Deathclaws haben mir das ausdrücklich gesagt. Sie halten hier niemanden gegen seinen Willen fest, soweit ich weiß.}
-{141}{}{Äh, OK.}
+{141}{}{Oh, ok.}
 {142}{}{Verstanden. Ich gehn.}
 {143}{}{Verstehe.}
 {144}{}{Ich glaub du lügst, du Ziege.}
@@ -85,4 +85,4 @@
  Gangster von dieser Gruppe Deathclaws unschädlich gemacht. Die Deathclaw, die Sandy und mich
  gerettet hatte, stand neben mir und redete mit mir. Sie versicherte mir immer wieder, daß wir
  in Sicherheit wären und das es ihr leid tue, daß sie nicht früher gekommen waren, um uns zu
- helfen. Anschließend brachten uns die Deathclaws hierher.} 
+ helfen. Anschließend brachten uns die Deathclaws hierher.}

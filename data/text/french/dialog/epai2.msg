@@ -1,9 +1,9 @@
 {100}{}{Soyez le bienvenu dans l'Ordinateur de Contrôle de Robots EPA. Que voulez-vous faire ?}
 {101}{}{Exécutez une commande Robots.}
 {102}{}{Lancez un diagnostic.}
-{103}{}{Quitter.}
+{103}{}{[Quitter]}
 {104}{}{ERREUR ! ERREUR ! LE PROBLEME ENCLENCHE LA SEQUENCE D'ARRET !}
-{105}{}{Retour au menu principal}
+{105}{}{[Retourner au menu principal]}
 {106}{}{Diagnostic en cours... court-circuit erreur.... section 4... alimentation défaillante.}
 {107}{}{Terminé}
 {108}{}{Vous n'avez pas la compétence pour réparer cette machine.}

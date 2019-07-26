@@ -22,9 +22,9 @@
 {2100}{}{Zone de sortie}
 {2200}{}{Zone de sortie}
 {2300}{}{Zone de sortie}
-{2400}{}{Fusée éclairante}
+{2400}{}{Fusée éclairante (Allumée)}
 {2500}{}{Grenade}
-{2600}{}{Pierre}
+{2600}{}{Rocher}
 {2700}{}{Explosion}
 {2800}{}{Explosion}
 {2900}{}{Explosion}
@@ -49,6 +49,6 @@
 {4701}{}{}
 {4800}{}{Ka-Pow !}
 {4801}{}{}
-{4900}{}{Graine de plante à spores}
+{4900}{}{Graine de plante à spores pointue}
 {4901}{}{}
 {5000}{}{Balle à plasma double}

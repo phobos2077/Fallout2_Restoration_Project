@@ -3,7 +3,7 @@
 {102}{}{Soit cette horrible chose est un mélange entre un chien et une machine, soit ce n'est qu'une machine, habilement réalisée pour ressembler à un chien. C'est difficile à dire.}
 {103}{}{Ouaf ! <Clic> Ouaouf !}
 {104}{}{<Bzzzzzz...>}
-{105}{}{<Fffffrrrrr...> Je suis pas un toutou.}
+{105}{}{<Fffffrrrrr...> Je suis pas Daggit.}
 {106}{}{<Grrrrrrrrrrrrrrrr...>}
 {107}{}{Ouaf ! oua-oua-oua <Clic> ouaf !}
 {108}{}{<Pchiiit>  Miaou... erreur}
@@ -32,20 +32,17 @@
 {131}{}{On ne peut plus réparer Cyberchien à cette heure-là.}
 {132}{}{Cyberchien a été en partie réparé.}
 {133}{}{Cyberchien est complètement réparé maintenant.}
-
-#specific party messages
 {1000}{}{Ouaf ! Hou-hou-hou- <Clic> Ouaf ?}
 {1100}{}{Ouaf ! <Clic> Ouaouf !}
 {1200}{}{Ouaf ? <Boing> Scratch ?}
 {1300}{}{<Clic> ::Gémissements::}
 {1400}{}{Oua-houuuuuuuuu ! <Clic-clic> Oua-houuuuuuuuu !}
-{1500}{}{Ii-bii-dii-bii-ii-bii-dii-bii !} //Wait here response
-{1600}{}{Certainement, je le range.}  //Put weapons away
-{1700}{}{Ouaf ouaf réglage de la distance sur proche !} //Close
-{1800}{}{Ouaf ouaf réglage de la distance sur moyenne !} //Medium
-{1900}{}{Ouaf ouaf réglage de la distance sur éloignée !} //Far
+{1500}{}{Ii-bii-dii-bii-ii-bii-dii-bii !}
+{1600}{}{Certainement, je le range.}
+{1700}{}{Ouaf ouaf réglage de la distance sur proche !}
+{1800}{}{Ouaf ouaf réglage de la distance sur moyenne !}
+{1900}{}{Ouaf ouaf réglage de la distance sur éloignée !}
 {2000}{}{<Fffffrrrrr...> Je suis pas Daggit.}
 {2100}{}{GRRR OAUF !}
 {2200}{}{Ouaf ! Hou-hou-hou- <Clic> Ouaf ?}
-
 {2204}{}{D'accord, t'es à la bonne distance pour l'instant.}

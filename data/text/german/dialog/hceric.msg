@@ -27,8 +27,8 @@
 {126}{}{Dann täte ich dir ja einen Gefallen, wenn ich dich jetzt umbringe.}
 {127}{}{Soso. So genau wollte ich's gar nicht wissen. Wiedersehn.}
 {128}{}{Hab ich ja versucht. Ich hab alles versucht. Das einzige, was hilft ist, wenn ich aufhören würde zu schwitzen... und wenn ich nicht genug Strom für die Klimaanlage habe, kann ich das eben nicht.}
-{129}{}{Alles klar. Ich habe noch ein paar Fragen.}
-{130}{}{Aha. Auf Wiedersehen.}
+{129}{}{Aha. Ich habe noch weitere Fragen.}
+{130}{}{Ach so. Auf Wiedersehn.}
 {131}{}{Ja?}
 {132}{}{Ich habe mit Brian geredet. Er sagt, daß die Stromrationen schon so eng kalkuliert sind, daß er dir nicht mehr zuteilen kann.}
 {133}{}{Wo kommen die Fliegen denn her?}
@@ -65,14 +65,14 @@
 {164}{}{Im allgemeinen drückt man Dankbarkeit durch Geld- oder Ausrüstungsgeschenke aus.}
 {165}{}{Dann laß es. Mir reicht auch ein Dankeschön.}
 {166}{}{Der Mutant Francis hat eine Powerfaust. Um die wettet er immer in Armdrückwettkämpfen. Das Problem ist, daß eigentlich niemand stärker ist als er. Wenn du willst, kann ich dir ein paar Pillen geben, mit denen du ihm überlegen sein solltest.}
-{167}{}{Aber klar.}
+{167}{}{Klare Sache.}
 {168}{}{Ich hätte lieber Bargeld, wenn du welches hier hast.}
 {169}{}{Ich will keine Bezahlung.}
 {170}{}{Die Pillen heißen Buffouts. Sie machen dich stärker, greifen aber dein Gehirn etwas an. Nimm nicht zu viele, sonst willst du immer mehr. Viel Glück mit der Faust!}
 {171}{}{Danke! Bis dann!}
 {172}{}{Könntest du mir nicht mit meinem Fliegenproblem helfen? Ich wäre dir sehr dankbar.}
 {173}{}{Wie dankbar?}
-{174}{}{Aber klar.}
+{174}{}{Klare Sache.}
 {175}{}{Ich überleg's mir mal.}
 {176}{}{Auf keinen Fall.}
 {177}{}{Das ist alles an Geld, was ich habe... $150. Und danke noch mal.}

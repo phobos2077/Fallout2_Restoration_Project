@@ -26,12 +26,12 @@
 {112}{}{Schockplatten deaktivieren                                                                          
                                            Bitte Kennwort eingeben:
                                                                           ¯}
-{113}{}{In Sicherheitssysteme einhacken}
+{113}{}{In Sicherheitssysteme einhacken.}
 {114}{}{Kennwort erraten}
 {115}{}{Zurück zum Hauptmenü}
 {116}{}{Beenden}
 {117}{}{[Du verstehst dieses Programm einfach nicht. Es ist viel zu kompliziert.]}
-{118}{}{Zurück zum Hauptmenü.}
+{118}{}{Zurück zum Hauptmenü}
 {119}{}{Beenden}
 {120}{}{[Du schaffst es, das Kennwort zu umgehen und die Schockplatten abzuschalten.]}
 {121}{}{Zurück zum Hauptmenü}
@@ -39,7 +39,7 @@
 {123}{}{Kraftfelder deaktivieren                                                                             
                                            Bitte Kennwort eingeben:
                                                                           ¯}
-{124}{}{In Sicherheitssysteme einhacken}
+{124}{}{In Sicherheitssysteme einhacken.}
 {125}{}{Kennwort erraten}
 {126}{}{Zurück zum Hauptmenü}
 {127}{}{Beenden}
@@ -96,9 +96,7 @@
 {165}{}{[Das Terminal scheint dir deine Manipulationsversuche übelzunehmen und fliegt dir mit
  einem Riesenknall um die Ohren.]}
 {166}{}{Beenden}
-
 {200}{}{Dieses Terminal ist nicht mehr funktionsfähig.}
-
-{300}{}{Du schaltest die Schockplatten ab.}
-
-{400}{}{Der Computer durchläuft die Diagnose-Routine. Bitte warten Sie bis das Diagnoseprogramm beendet ist.}
+{300}{}{Du deaktivierst die Schockplatten.}
+{400}{}{Computer befindet sich im Diagnosemodus. Bitte warten, bis die Diagnoseroutine
+ abgeschlossen ist.}

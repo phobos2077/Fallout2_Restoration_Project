@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kchild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Widzisz jedno z dzieci z Klamath.}
 {101}{}{Widzisz jedno z dzieci z Klamath.}
-
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
-
 {150}{}{Nie jedz mnie!}
 {151}{}{Iiiii! Czarownik VooDoo!}
 {152}{}{Tatuœ mówi, ¿e jesteœ z³¹ osob¹.}
@@ -44,7 +19,6 @@
 {166}{}{Mamo! Mamo! Mamo!}
 {167}{}{Zostaw mnie w spokoju!}
 {168}{}{Œmierdzisz!}
-
 {170}{}{Czeœæ.}
 {171}{}{Chcesz pobawiæ siê w dom?}
 {172}{}{Naprawdê przebijasz sobie nos koœæmi?}
@@ -55,7 +29,7 @@
 {177}{}{Za³o¿ê siê, ¿e masz lepszy charakter, ni¿ na to wygl¹dasz.}
 {178}{}{Pobawmy siê w berka. Berek.}
 {179}{}{Nie œmierdzisz a¿ tak Ÿle.}
-{180}{}{Widzisz mojego niewidzialnego przyjaciela?}
+{180}{}{Skocz po nuka-colê, bo ostatniego mia³em.}
 {181}{}{Chcê podró¿owaæ po œwiecie, kiedy bêdê w twoim wieku.}
 {182}{}{Jesteœ mi³ym plemieñcem, nie tak jak inni.}
 {183}{}{Za³o¿ê siê, ¿e siê umyjesz.}
@@ -65,7 +39,6 @@
 {187}{}{Mój pies uwielbia suszone miêso polecane przez najlepszych hodowców.}
 {188}{}{Mam œwiec¹cy kamyk, a ty nie-e.}
 {189}{}{Skocz po nuka-colê, bo ostatniego mia³em.}
-
 {190}{}{Mogê siê przy³¹czyæ do twojego plemienia?}
 {191}{}{Jesteœ w porz¹dku.}
 {192}{}{Œmiesznie wygl¹dasz.}
@@ -100,10 +73,6 @@
 {221}{}{Lubisz mnie?}
 {222}{}{Jesteœ po œlubie?}
 {223}{}{Raz, dwa, trzy - ³iiii!}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Starsza}
 {1001}{}{Founder}
 {1002}{}{Vault Dweller}
@@ -116,7 +85,6 @@
 {1009}{}{Healing Powder}
 {1010}{}{Bridge}
 {1011}{}{Mynoc}
-
 {1100}{}{Starsza jest twoj¹ matk¹ i nasz¹ przewodniczk¹.}
 {1101}{}{Nasz wielki przodek, który da³ nam œwiadomoœæ.}
 {1102}{}{Pierwszy do walki i zwyciêstwa nad chaosem.}

@@ -35,7 +35,6 @@
 {134}{}{Nachdem du ja zwei hast, kannst du mir ja vielleicht eins geben.}
 {135}{}{Nein. Nein. Das kann ich nicht. Wär nicht richtig, deine Suche so leicht zu beenden. In der Richtung gibt's noch mehr davon. Hol dir dein eignes. [Er deutet in ungefähr dieselbe Richtung, in die du gezeigt hast, als du ihm sagtest, wo die heilige Handgranate von Antiochien ist.]}
 {136}{}{[Ende]}
-
 {200}{}{Sprichst du die Sprache des Königs?}
 {201}{}{Hallooo.}
 {202}{}{He, ich bin hier drüben.}
@@ -43,9 +42,6 @@
 {204}{}{Ähem.}
 {205}{}{Hey, ignorier mich nicht einfach.}
 {206}{}{Biiiiiiiitte! Ich muß dich was Wichtiges fragen.}
-
 {207}{}{Na denn, wir müssen unsre Suche nach der Handgranate von Antiochien fortsetzen. Komm schon, Mathias.}
-
-#added by killap - RP 1.3
 {300}{}{Unsere Aufgabe ist erfüllt!}
 {301}{}{Arthur, zu euren Diensten.}

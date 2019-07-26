@@ -1,4 +1,4 @@
-{100}{}{Du siehst ein Computerterminal.}
+{100}{}{Du siehst ein Terminal.}
 {101}{}{Du siehst die Physikerstation.}
 {102}{}{Du siehst ein funktionsfähiges Computerterminal.}
 {103}{}{Willkommen. Bitte identifizieren.}
@@ -30,5 +30,4 @@
 {129}{}{[Weiter]}
 {130}{}{Der Computer reagiert nicht auf Eingabe.}
 {131}{}{Das scheint nirgendwo hinzupassen.}
-
 {132}{}{Pläne werden kopiert..... Kopiervorgang beendet... Gehe zurück zu... E/A-Fehler... GPF... Terminal wird deaktiviert.}

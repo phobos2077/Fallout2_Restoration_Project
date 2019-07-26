@@ -5,4 +5,3 @@
 {104}{}{Du weichst der Nuka Coladose aus.}
 {105}{}{ weicht geschickt einer Nuka Coladose aus.}
 {106}{}{Der Automat scheint keinen Vorrat mehr zu haben.}
-

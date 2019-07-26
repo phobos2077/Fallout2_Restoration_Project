@@ -1,11 +1,7 @@
-# 0. Look
 {100}{}{Du siehst einen kräftigen Sklavenhändler mittleren Alters.}
 {101}{}{Du siehst einen ziemlich großen Sklavenhändler.}
-
 {150}{}{Ein Sklavenhändler, dem seine Arbeit anscheinend gefällt.}
 {151}{}{Dieser Sklavenhändler scheint sehr kräftig, aber nicht sehr klug zu sein.}
-
-# 1. Metzger's Bedroom Guard (2nd Time = Hostile)
 {200}{}{Geh verdammt noch mal weg von der Tür.}
 {201}{}{Was soll der Mist?}
 {202}{}{Metzger läßt dich köpfen! Weg da.}
@@ -13,8 +9,6 @@
 {204}{}{Keine Schlampe betritt das Zimmer von Metzger. Weg da!}
 {205}{}{Weg da, Schlampe. Ob Sklavenhändlerin oder nicht, das Zimmer von Metzger darf niemand
  betreten.}
-
-# 2. CF: Generic
 {250}{}{Rede mit Metzger, nicht mit mir, Kumpel.}
 {251}{}{Willst du der Gilde beitreten?}
 {252}{}{Gutes Geld, wenn du in der Gilde bist.}

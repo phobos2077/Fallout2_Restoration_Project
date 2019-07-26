@@ -7,7 +7,7 @@
 {106}{}{L'Abri 13 ?}
 {107}{}{Du J.E.K ?}
 {108}{}{Peu importe. La spécialité de la maison.}
-{109}{}{File-moi une bière.}
+{109}{}{Gimme a beer.}
 {110}{}{Des renseignements.}
 {111}{}{Je cherche du travail.}
 {112}{}{Eh bien, exactement comme je les aime.}
@@ -39,7 +39,7 @@
 {138}{}{Tire-toi d'là, parasite !}
 {139}{}{Bien sûr, j'ai le temps. Ca fait partie du boulot de serveuse. Mais ne te fais pas d'idées.}
 {140}{}{Pour toi, j'ai toujours le temps, mon chou. Que veux-tu ?}
-{141}{}{Bien sûr.}
+{141}{}{Certainement.}
 {142}{}{Parle-moi de cette ville.}
 {143}{}{Tu as déjà entendu parler de l'Abri 13 ?}
 {144}{}{Je cherche quelque chose qui s'appelle un J.E.K. En as-tu déjà entendu parler ?}
@@ -81,11 +81,9 @@
 {180}{}{Aller nuit. Trouver corde. Entrer. Aller grande porte près de portail. Mira donner toi arme. Maintenant, partir. Gens voir toi avec moi, pas bon. Aider Mira puis revenir. Compris ?}
 {181}{}{Mira avoir entendu que Jack avoir mal. Bon travail débilos. Voici ton arme. Merci.}
 {182}{}{Va te faire. Je ne serai jamais débarrassée de ce salaud.}
-#latter additions
 {183}{}{Tu dois parler à Merk, mais il n'est pas là. Reviens ce soir. C'est plus son heure.}
 {184}{}{Je sais pas ce que t'as fait à Lenny, mais à ta place, je traînerais pas dans le coin. Ca va pas te faire une bonne pub.}
 {185}{}{Eh, je t'ai prévenu. Oh, et puis...}
-
 {186}{}{C'est toi Mira ? Y a un flic qui parlait de toi.}
 {187}{}{Toi Mira ? Méchant Jack dire choses.}
 {188}{}{Ce connard de Jack ? Et qu'est-ce qu'il dit ?}

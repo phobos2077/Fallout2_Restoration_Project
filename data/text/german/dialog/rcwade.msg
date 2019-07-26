@@ -7,7 +7,7 @@
 {106}{}{OK, gehen wir.}
 {107}{}{Hallo, du da. Mein Name ist Ben. Ben Wade. Ich führe die Handelskarawanen zwischen Redding und Vault City an. In der Regel kann ich eine Extrawache gebrauchen und wir wollen gerade aufbrechen.}
 {108}{}{Hallo, du da. Mein Name ist Ben. Ben Wade. Ich führe die Handelskarawanen zwischen Redding und Vault City an. In der Regel kann ich ein paar Extrawachen gebrauchen. Wir brechen jeden Ersten des Monats aus der Stadt auf. Wenn du für mich arbeiten möchtest, sieh zu, daß du dann hier bist.}
-{109}{}{Was willst du denn jetzt?}
+{109}{}{Was willst du jetzt?}
 {110}{}{Muh-Muhs?}
 {111}{}{Soso, du brauchst eine Wache?}
 {112}{}{Was transportiert denn diese Karawane?}
@@ -43,7 +43,7 @@
 {138}{}{Ich bin mir nicht sicher, wie lange ich brauche, um alle Medikamente aufzutreiben. Wahrscheinlich aber nicht viel länger
  als ein paar Wochen. Frag halt immer mal nach.}
 {139}{}{Was transportiert ihr denn normalerweise?}
-{140}{}{Laß mich dich noch etwas fragen.}
+{140}{}{Ich möcht dich noch was andres fragen.}
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir suchen eigentlich immer nach Wachen für die Karawane, aber diese Karawane ist noch eine Weile nicht bereit zur Abreise. Du kannst
  aber immer mal nachfragen.}
@@ -51,11 +51,11 @@
 {144}{}{Was transportiert denn diese Karawane?}
 {145}{}{OK, danke. Wiedersehn.}
 {146}{}{Tut mir leid, Junge, wir haben für diese Karawane schon genug Aushilfskräfte.}
-{147}{}{Oh, OK.}
+{147}{}{Oh, okay.}
 {148}{}{Tja, wir holen meistens Medikamente aus Vault City ab und tauschen sie in Redding gegen
  Golderz ein.}
 {149}{}{Interessant. Und du sagst, du suchst nach Wachen?}
-{150}{}{Laß mich dich noch etwas fragen.}
+{150}{}{Ich möcht dich noch was andres fragen.}
 {151}{}{Oh, OK. Wiedersehn.}
 {152}{}{Genau zum richtigen Zeitpunkt. Wir wollten gerade aufbrechen. Es gibt $1000 für den Job, aber ich zahle nur dich dafür,
  weil ich nur noch eine Wache brauche. Alles klar?}

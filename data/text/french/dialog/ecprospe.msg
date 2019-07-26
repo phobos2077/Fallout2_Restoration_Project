@@ -1,6 +1,6 @@
 {100}{}{Tu vois un chercheur.}
 {101}{}{Reste où tu es ! Généralement, je ne tends pas d'embuscade aux étrangers mais j'ai besoin de provisions et je ne peux pas quitter ma concession. On fait un échange rapide ?}
-{102}{}{C'est ça !}
+{102}{}{Certainement.}
 {103}{}{Je n'ai rien à échanger. Je regrette.}
 {104}{}{Booga.}
 {105}{}{Quel pot ! Tu ne peux pas parler, hein ? Tu ne peux raconter à personne où se trouve ma concession ! Faisons du troc.}

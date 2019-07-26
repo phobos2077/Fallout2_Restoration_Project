@@ -1,326 +1,191 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used by town and world map
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-
-#
-# Town map entry-point selection names
-#
-# Format:
-#	city type.
-#	Up to 10 selection names
-#
-# Arroyo
 {200}{}{Brücke}
 {201}{}{Dorf}
-{202}{}{Tempeleingang}
+{202}{}{Tempel Eingang}
 {203}{}{Wildnis}
 {204}{}{Tempelinnenräume}
-#
-# Den
 {210}{}{Westseite}
-{211}{}{Ostseite}
+{211}{}{East Side}
 {212}{}{Wohnbereich von Den}
-#
-# Klamath
-{220}{}{Stadtmitte}
+{220}{}{Downtown}
 {221}{}{Trapperstadt}
 {222}{}{Rattenhöhlen}
 {223}{}{Fallensteller-Gegend}
 {224}{}{Weidebereich}
 {225}{}{Canyon}
-#
-# Modoc
 {230}{}{Hauptstraße}
 {231}{}{Pension}
 {232}{}{Grishams Brahminweiden}
 {233}{}{Farrels Garten}
-{234}{}{Griff ins Klo}
+{234}{}{Höhlen}
 {235}{}{Stadtbrunnen}
-#
-# Vault City
 {240}{}{Hof}
 {241}{}{Innenstadt}
 {242}{}{Rat}
 {243}{}{Vault}
-#
-# Gecko
 {250}{}{Siedlung}
 {251}{}{Kraftwerk}
 {252}{}{Schrottplatz}
 {253}{}{Zugangstunnel}
-#
-# Broken Hills
-{260}{}{Stadtmitte}
-{261}{}{Wohngebiet}
-#
-# New Reno
+{260}{}{Downtown}
+{261}{}{Wohngegend}
 {270}{}{Virgin Street}
 {271}{}{2nd Street}
 {272}{}{Commercial Row}
 {273}{}{East Side}
 {274}{}{Chop Shop}
 {275}{}{Boxarena}
-{276}{}{Vertibird-Gebiet}
-#
-# Sierra Army Base
+{276}{}{Vertibird Bereich}
 {280}{}{Schlachtfeld}
 {281}{}{Depotebene 1: Personal}
 {282}{}{Depotebene 2: Lagerbereich}
 {283}{}{Depotebene 3: Robotiklabor}
 {284}{}{Depotebene 4: Bioforschungslabor}
-#
-# Vault 15
 {290}{}{Die illegale Siedlung}
 {291}{}{Siedler}
 {292}{}{Siedler}
 {293}{}{Vault 15}
 {294}{}{Osteingang}
-#
-# New California Republic
 {300}{}{Bazar}
 {301}{}{Rat 2}
-{302}{}{Stadtmitte}
+{302}{}{Downtown}
 {303}{}{Ratshalle}
 {304}{}{Westin-Ranch}
 {305}{}{Weideland}
-#
-# Vault 13
 {310}{}{Höhleneingang}
 {311}{}{Vault 13}
-#
-# Military Base
-{320}{}{Eingang}
-{321}{}{Ebene 1}
-{322}{}{Ebene 2}
-{323}{}{Ebene 3}
-{324}{}{Ebene 4}
-#
-# Redding
-{330}{}{Stadtmitte}
+{320}{}{Entrance}
+{321}{}{Level 1}
+{322}{}{Level 2}
+{323}{}{Level 3}
+{324}{}{Level 4}
+{330}{}{Downtown}
 {331}{}{Große Wanamingo-Mine}
 {332}{}{Wanamingo-Mine}
-{333}{}{Bergarbeiterlager}
+{333}{}{Mineneingang}
 {334}{}{Tunnel unter der Stadt}
 {335}{}{Minenstollen}
-#
-# San Francisco
 {340}{}{Chinatown}
-{341}{}{Dock}
+{341}{}{Hafen}
 {342}{}{Tanker}
 {343}{}{Shuttle-Außenbereich}
-{344}{}{Shuttle-Inneres}
+{344}{}{Shuttle Innen}
 {345}{}{Hubologen}
-{346}{}{Shi-Tempel}
-#
-# Navarro
+{346}{}{Shi Tempel}
 {350}{}{Tankstelle}
 {351}{}{Haupttor}
-#
-# The Enclave
-{360}{}{Dock}
+{360}{}{Hafen}
 {361}{}{Gefängnis}
 {362}{}{Boß des Viertels}
 {363}{}{Kaserne}
-{364}{}{Bereich des Präsidenten}
+{364}{}{Präsidenten Bereich}
 {365}{}{Reaktor}
 {366}{}{Fallenraum}
-#
-# Abbey
-{370}{}{Eingang}
-#
-# Primitive Tribe
+{370}{}{Entrance}
 {380}{}{Waldgebiet}
 {381}{}{Stamm}
-#
-# Environmental Protection Agency
-{390}{}{Eingang}
+{390}{}{Entrance}
 {391}{}{Kanäle}
 {392}{}{Versorgungseinrichtung}
-{393}{}{Ebene Eins}
-{394}{}{Ebene Zwei}
-{395}{}{Ebene Drei}
-{396}{}{Warenlager}
-#
-# Modoc: Ghost Town Sub-Area
+{393}{}{Ebene 1}
+{394}{}{Ebene 2}
+{395}{}{Ebene 3}
+{396}{}{Warehouse}
 {400}{}{Die Geisterstadt}
 {401}{}{Haupthöhle}
 {402}{}{Unterirdischer See}
-#
-# Car Out of Gas
 {410}{}{Auto ohne Strom}
-#
-# Destroyed Arroyo
 {420}{}{Zerstörte Brücke}
-#
-# Klamath Toxic Caves
 {430}{}{Gifthöhlen}
-#
-# Den Slave Runs
 {440}{}{Den-Sklavenjagd}
-#
-# Raiders
 {450}{}{Brunnen}
 {451}{}{Klippe}
 {452}{}{Eingangshöhle}
-#
-# Random Encounter Desert
-{460}{}{Wüste}
-{461}{}{Wüste}
-{462}{}{Wüste}
-{463}{}{Wüste}
-{464}{}{Wüste}
-{465}{}{Wüste}
-{466}{}{Wüste}
-{467}{}{Wüste}
-{468}{}{Wüste}
-{469}{}{Wüste}
-#
-# Random Encounter Mountain
-{470}{}{Berg}
+{460}{}{Desert}
+{461}{}{Desert}
+{462}{}{Desert}
+{463}{}{Desert}
+{464}{}{Desert}
+{465}{}{Desert}
+{466}{}{Desert}
+{467}{}{Desert}
+{468}{}{Desert}
+{469}{}{Desert}
+{470}{}{Im Ödland}
 {471}{}{Höhle}
-{472}{}{Berg}
+{472}{}{Im Ödland}
 {473}{}{Höhle}
 {474}{}{Höhle}
 {475}{}{Höhle}
 {476}{}{Höhle}
 {477}{}{Höhle}
-{478}{}{Berg}
-{479}{}{Berg}
-#
-# Random Encounter City
-{480}{}{Verfallene Stadt}
-{481}{}{Verfallene Stadt}
-{482}{}{Verfallene Stadt}
-{483}{}{Verfallene Stadt}
-{484}{}{Verfallene Stadt}
-{485}{}{Verfallene Stadt}
-{486}{}{Verfallene Stadt}
-{487}{}{Verfallene Stadt}
-#
-# Random Encounter Coast
-{490}{}{Küste}
-{491}{}{Küste}
-{492}{}{Küste}
-{493}{}{Küste}
-{494}{}{Küste}
-{495}{}{Küste}
-{496}{}{Küste}
-{497}{}{Küste}
-{498}{}{Küste}
-{499}{}{Küste}
-#
-# New Reno: Golgatha
+{478}{}{Im Ödland}
+{479}{}{Im Ödland}
+{480}{}{Im Ödland}
+{481}{}{Im Ödland}
+{482}{}{Im Ödland}
+{483}{}{Im Ödland}
+{484}{}{Im Ödland}
+{485}{}{Im Ödland}
+{486}{}{Im Ödland}
+{487}{}{Im Ödland}
+{490}{}{Küstenstrich}
+{491}{}{Küstenstrich}
+{492}{}{Küstenstrich}
+{493}{}{Küstenstrich}
+{494}{}{Küstenstrich}
+{495}{}{Küstenstrich}
+{496}{}{Küstenstrich}
+{497}{}{Küstenstrich}
+{498}{}{Küstenstrich}
+{499}{}{Küstenstrich}
 {500}{}{Golgotha}
-#
-# Special Encounter: Whale Encounter
 {510}{}{Zerquetschte Walinnereien}
-#
-# Special Encounter: Tin Woodsman
 {520}{}{Blechmann}
-#
-# Special Encounter: Big Head
 {521}{}{Großkopf}
-#
-# Special Encounter: Crashed Federation Shuttle
 {530}{}{Unfallstelle}
-#
-# Special Encounter: Unwashed Villagers
-{540}{}{Wüste}
-#
-# Special Encounter: Bridge Guardian
+{540}{}{Desert}
 {550}{}{Brücke}
-#
-# Special Encounter: Cafe of Broken Dreams
 {560}{}{Café der geplatzten Träume}
-#
-# Special Encounter: Holy Hand Grenade 1
-{570}{}{Wüste}
-#
-# Special Encounter: Holy Hand Grenade 2
+{570}{}{Desert}
 {580}{}{Höhle}
-#
-# Special Encounter: Guardian of Forever
 {590}{}{Wächter der Ewigkeit}
-#
-# Special Encounter: Toxic Waste Dump
 {600}{}{Giftmüllhalde}
-#
-# Special Encounter: Pariahs
-{610}{}{Wüste}
-#
-# Special Encounter: Mad Brahmin
+{610}{}{Desert}
 {620}{}{Brahminherde}
-#
-# Caravan Encounters
-{630}{}{Wüste}
-{631}{}{Berg}
-#
-# Fake Vault 13 A
+{630}{}{Desert}
+{631}{}{Im Ödland}
 {640}{}{Höhle von Vault 13}
-#
-# Fake Vault 13 B
 {650}{}{Höhle}
-#
-# Shadow Areas (Those which fit nowhere else)
-{660}{}{Küste}
-{661}{}{Küste}
-{662}{}{Wüste}
-{663}{}{Wüste}
-{664}{}{Wüste}
-{665}{}{Berg}
-{666}{}{Berg}
-{667}{}{Wüste}
-{668}{}{Wüste}
-#
-# New Reno Stables
+{660}{}{Küstenstrich}
+{661}{}{Küstenstrich}
+{662}{}{Desert}
+{663}{}{Desert}
+{664}{}{Desert}
+{665}{}{Im Ödland}
+{666}{}{Im Ödland}
+{667}{}{Desert}
+{668}{}{Desert}
 {670}{}{Ställe}
-
-# Village
 {680}{}{Dorf}
-
-{690}{}{Primitive Tribe}
-
-{700}{}{Primitive Tribe}
-
-{710}{}{Primitive Tribe}
-
-#
-# Terrain type names for world map hover button
-#
-{1000}{}{Wüste}
-{1001}{}{Berge}
-{1002}{}{Stadt}
-{1003}{}{Küste}
-{1004}{}{Unbekannt}  # Unknown/visited city
-
-
-# Misc messages
-{1500}{}{Du hast 10.000 Erfahrungspunkte gewonnen!}
-{1501}{}{Ruinen}
+{690}{}{Umbra Tribe}
+{700}{}{Umbra Tribe}
+{710}{}{Umbra Tribe}
+{1000}{}{Desert}
+{1001}{}{Mountains}
+{1002}{}{City}
+{1003}{}{Coast}
+{1004}{}{Unknown}
+{1500}{}{You gained 10,000 experience points!}
+{1501}{}{Ruins}
 {1502}{}{Das Auto hat keinen Strom mehr.}
 {1503}{}{Ein Auto. Es sieht nicht so aus, als ob es funktionieren würde.}
-
-
-
-#
-# Worldmap Encounter messages
-#
-
 {2998}{}{Du begegnest:}
 {2999}{}{Du möchtest begegnen:}
-
-# Encounter Table 0
 {3000}{}{Einem Gangstertrupp.}
 {3001}{}{Einigen Radskorpionen.}
 {3002}{}{Riesenratten.}
 {3003}{}{Einer Händlergruppe.}
 {3004}{}{<Spezial>}
-
-# Encounter Table 1
 {3050}{}{Einem Gangstertrupp.}
 {3051}{}{Einigen Gottesanbeterinnen.}
 {3052}{}{Einer Gruppe Geckos.}
@@ -329,24 +194,14 @@
 {3055}{}{Einer Gruppe Riesenratten.}
 {3056}{}{Einer Händlergruppe.}
 {3057}{}{<Spezial>}
-
-# Encounter Table 2
 {3100}{}{Einem Gangstertrupp.}
 {3101}{}{Einer Gruppe Radskorpione.}
 {3102}{}{Einer Gruppe Riesenratten.}
 {3103}{}{Einer Händlergruppe.}
 {3104}{}{<Spezial>}
-
-# Encounter Table 3
 {3150}{}{Einem Gangstertrupp.}
-
-# Encounter Table 4
 {3200}{}{Einem Gangstertrupp.}
-
-# Encounter Table 5
 {3250}{}{Einem Gangstertrupp.}
-
-# Encounter Table 6
 {3300}{}{Einer Kriegertruppe.}
 {3301}{}{Einer Gruppe Kannibalen.}
 {3302}{}{Einer Gruppe Sporenpflanzen und einigen Silbergeckos.}
@@ -360,13 +215,13 @@
 {3310}{}{Ein paar Kopfgeldjägern.}
 {3311}{}{Ein paar Kopfgeldjägern.}
 {3312}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{3313}{}{Einer Gruppe Skorpione.}
+{3313}{}{Einer Gruppe Radskorpione.}
 {3314}{}{Einer Gruppe Sporenpflanzen.}
 {3315}{}{Einer Gruppe Schweineratten.}
 {3316}{}{Einer Gruppe Ratten.}
 {3317}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3318}{}{Einer Gruppe von Ameisen.}
-{3319}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
+{3319}{}{A hunting party fighting some radscorpions.}
 {3320}{}{Einer kleinen Gruppe Schweineratten.}
 {3321}{}{Einer kleinen Gruppe Radskorpione.}
 {3322}{}{Einer kleinen Gruppe Ameisen.}
@@ -375,8 +230,6 @@
 {3325}{}{Einem Mann, der eine Brücke bewacht.}
 {3326}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {3327}{}{Einer Bande zorniger Ausgestoßener.}
-
-# Encounter Table 7
 {3350}{}{Einer Giftmülldeponie.}
 {3351}{}{Einem einsamen überlebenden Hund.}
 {3352}{}{Einer Herde Brahmin.}
@@ -393,13 +246,13 @@
 {3363}{}{Einer Gruppe Kannibalen.}
 {3364}{}{Einer Gruppe Sporenpflanzen und einigen Silbergeckos.}
 {3365}{}{Einer Gruppe Silbergeckos.}
-{3366}{}{Einer Gruppe Skorpione.}
+{3366}{}{Einer Gruppe Radskorpione.}
 {3367}{}{Einer Gruppe Sporenpflanzen.}
 {3368}{}{Einer Gruppe Schweineratten.}
 {3369}{}{Einer Gruppe Ratten.}
 {3370}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3371}{}{Einer Gruppe von Ameisen.}
-{3372}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
+{3372}{}{A hunting party fighting some radscorpions.}
 {3373}{}{Einer kleinen Gruppe Schweineratten.}
 {3374}{}{Einer kleinen Gruppe Radskorpione.}
 {3375}{}{Einer kleinen Gruppe Ameisen.}
@@ -413,8 +266,6 @@
 {3383}{}{Dem Blechmann.}
 {3384}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3385}{}{Einer Bande zorniger Ausgestoßener.}
-
-# Encounter Table 8
 {3400}{}{Einer Kriegertruppe.}
 {3401}{}{Einer Gruppe Kannibalen.}
 {3402}{}{Einer Gruppe Sporenpflanzen und einigen Silbergeckos.}
@@ -428,21 +279,19 @@
 {3410}{}{Ein paar Kopfgeldjägern.}
 {3411}{}{Ein paar Kopfgeldjägern.}
 {3412}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{3413}{}{Einer Gruppe Skorpione.}
+{3413}{}{Einer Gruppe Radskorpione.}
 {3414}{}{Einer Gruppe Sporenpflanzen.}
 {3415}{}{Einer Gruppe Schweineratten.}
 {3416}{}{Einer Gruppe Ratten.}
 {3417}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3418}{}{Einer Gruppe von Ameisen.}
-{3419}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
+{3419}{}{A hunting party fighting some radscorpions.}
 {3420}{}{Einer kleinen Gruppe Schweineratten.}
 {3421}{}{Einer kleinen Gruppe Radskorpione.}
 {3422}{}{Einer kleinen Gruppe Ameisen.}
 {3423}{}{Einer Jagdgruppe.}
 {3424}{}{Einer Gruppe Nomaden.}
 {3425}{}{Einer Bande zorniger Ausgestoßener.}
-
-# Encounter Table 9
 {3450}{}{Einer Giftmülldeponie.}
 {3451}{}{Einem einsamen überlebenden Hund.}
 {3452}{}{Einer Herde Brahmin.}
@@ -473,8 +322,6 @@
 {3477}{}{Dem Blechmann.}
 {3478}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3479}{}{Einer Bande zorniger Ausgestoßener.}
-
-# Encounter Table 10
 {3500}{}{Einer Bande Ausgestoßener.}
 {3501}{}{Einer Gruppe heiliger Menschen.}
 {3502}{}{Ein paar Kopfgeldjägern.}
@@ -497,15 +344,13 @@
 {3519}{}{Einem Mann, der eine Brücke bewacht.}
 {3520}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {3521}{}{Einer Bande zorniger Ausgestoßener.}
-
-# Encounter Table 11
 {3550}{}{Einer Giftmülldeponie.}
 {3551}{}{Einem einsamen überlebenden Hund.}
 {3552}{}{Einer Herde Brahmin.}
 {3553}{}{Einem Rudel Goldgeckos und einer Familie von Radskorpionen.}
 {3554}{}{Einigen Banditen.}
 {3555}{}{Einer Gruppe Obdachloser.}
-{3556}{}{Einem Rudel Goldgeckos.}
+{3556}{}{Einem Rudel Geckos.}
 {3557}{}{Ein paar Kopfgeldjägern.}
 {3558}{}{Ein paar Kopfgeldjägern.}
 {3559}{}{Ein paar Kopfgeldjägern.}
@@ -526,8 +371,8 @@
 {3574}{}{Einigen Banditen, die Obdachlose in einen Hinterhalt locken.}
 {3575}{}{Einigen Obdachlosen, die Farmer abschlachten.}
 {3576}{}{Einigen Banditen, die Bauern angreifen.}
-{3577}{}{Einigen Bauern, die Skorpione abwehren.}
-{3578}{}{Einigen Fallenstellern im Kampf gegen Skorpione.}
+{3577}{}{Some farmers fending off some radscorpions.}
+{3578}{}{Some trappers fighting some radscorpions.}
 {3579}{}{Einigen Fallenstellern, die Schweineratten angreifen.}
 {3580}{}{Einigen Bauern, die ein Nest von Schweineratten ausheben.}
 {3581}{}{Einigen Bauern.}
@@ -539,12 +384,10 @@
 {3587}{}{Den Rittern der Tafelrunde.}
 {3588}{}{Dem Blechmann.}
 {3589}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 12
 {3600}{}{Einem Rudel Goldgeckos und einer Familie von Radskorpionen.}
 {3601}{}{Einigen Banditen.}
 {3602}{}{Einer Gruppe Obdachloser.}
-{3603}{}{Einem Rudel Goldgeckos.}
+{3603}{}{Einem Rudel Geckos.}
 {3604}{}{Ein paar Kopfgeldjägern.}
 {3605}{}{Ein paar Kopfgeldjägern.}
 {3606}{}{Ein paar Kopfgeldjägern.}
@@ -565,8 +408,8 @@
 {3621}{}{Einigen Banditen, die Obdachlose in einen Hinterhalt locken.}
 {3622}{}{Einigen Obdachlosen, die Farmer abschlachten.}
 {3623}{}{Einigen Banditen, die Bauern angreifen.}
-{3624}{}{Einigen Bauern, die Skorpione abwehren.}
-{3625}{}{Einigen Fallenstellern im Kampf gegen Skorpione.}
+{3624}{}{Some farmers fending off some radscorpions.}
+{3625}{}{Some trappers fighting some radscorpions.}
 {3626}{}{Einigen Fallenstellern, die Schweineratten angreifen.}
 {3627}{}{Einigen Bauern, die ein Nest von Schweineratten ausheben.}
 {3628}{}{Einigen Bauern.}
@@ -574,8 +417,6 @@
 {3630}{}{Einem Mann, der eine Brücke bewacht.}
 {3631}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {3632}{}{Einer Bande zorniger Ausgestoßener.}
-
-# Encounter Table 13
 {3650}{}{Einer Giftmülldeponie.}
 {3651}{}{Einem einsamen überlebenden Hund.}
 {3652}{}{Einer Herde Brahmin.}
@@ -598,10 +439,10 @@
 {3669}{}{Einer Familie von Maulwurfsratten.}
 {3670}{}{Einigen Banditen.}
 {3671}{}{Einer Truppe Fallensteller, die versuchen, Goldgeckos zu fangen.}
-{3672}{}{Einigen Skorpionen im Kampf gegen Goldgeckos.}
-{3673}{}{Einigen Skorpionen, die Maulwurfs- und Schweineratten angreifen.}
+{3672}{}{Some radscorpions fighting some golden geckos.}
+{3673}{}{Some radscorpions attacking some molerats and pig rats.}
 {3674}{}{Einigen Fallenstellern und einer Händlergruppe, die sich gegen Banditen wehren.}
-{3675}{}{Einigen Goldgeckos.}
+{3675}{}{Einigen Geckos.}
 {3676}{}{Einigen Fallenstellern im Kampf gegen Maulwurfs- und Schweineratten.}
 {3677}{}{Einer Händlergruppe, die Maulwurfs- und Schweineratten abwehrt.}
 {3678}{}{Den Überresten eines Wals.}
@@ -612,8 +453,6 @@
 {3683}{}{Dem Blechmann.}
 {3684}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3685}{}{Einer Bande zorniger Ausgestoßener.}
-
-# Encounter Table 14
 {3700}{}{Einer Giftmülldeponie.}
 {3701}{}{Einem einsamen überlebenden Hund.}
 {3702}{}{Einer Herde Brahmin.}
@@ -647,8 +486,6 @@
 {3730}{}{Den Rittern der Tafelrunde.}
 {3731}{}{Dem Blechmann.}
 {3732}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 15
 {3750}{}{Einer Truppe Straßenräuber.}
 {3751}{}{Einer Räuberbande.}
 {3752}{}{Einer Bande Räuber und Wegelagerern.}
@@ -674,8 +511,6 @@
 {3772}{}{Einem Händler mit Wachen.}
 {3773}{}{Einem Mann, der eine Brücke bewacht.}
 {3774}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 16
 {3800}{}{Einer Giftmülldeponie.}
 {3801}{}{Einem einsamen überlebenden Hund.}
 {3802}{}{Einer Herde Brahmin.}
@@ -708,8 +543,6 @@
 {3829}{}{Den Rittern der Tafelrunde.}
 {3830}{}{Dem Blechmann.}
 {3831}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 17
 {3850}{}{Einer Gruppe Sklavenhändler mit Sklaven.}
 {3851}{}{Einer Straßenräuberbande.}
 {3852}{}{Einer Räuberbande.}
@@ -732,12 +565,10 @@
 {3869}{}{Einigen Sklavenhändlern und Sklaven, die sich gegen Goldgeckos wehren}
 {3870}{}{Einem Mann, der eine Brücke bewacht.}
 {3871}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 18
 {3900}{}{Einigen Wegelagerern und Räubern.}
 {3901}{}{Einigen Straßenräubern.}
 {3902}{}{Einem großen Rudel Goldgeckos.}
-{3903}{}{Einigen Skorpionen, versteckt zwischen Sporenpflanzen.}
+{3903}{}{Some radscorpions hiding in the spore plants.}
 {3904}{}{Ein paar Kopfgeldjägern.}
 {3905}{}{Ein paar Kopfgeldjägern.}
 {3906}{}{Ein paar Kopfgeldjägern.}
@@ -747,7 +578,7 @@
 {3910}{}{Ein paar Kopfgeldjägern.}
 {3911}{}{Ein paar Kopfgeldjägern.}
 {3912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{3913}{}{Einigen Räubern im Kampf gegen Skorpione.}
+{3913}{}{Some robbers fighting some radscorpions.}
 {3914}{}{Einigen Räubern.}
 {3915}{}{Einer Gruppe von Kaufleuten, die von Wegelagerern angegriffen wird.}
 {3916}{}{Einer Gruppe von Kaufleuten, die von Räubern überfallen wird.}
@@ -756,8 +587,6 @@
 {3919}{}{Einem Mann, der eine Brücke bewacht.}
 {3920}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {3921}{}{Ein paar irren Banditen.}
-
-# Encounter Table 19
 {3950}{}{Einigen Straßenräubern.}
 {3951}{}{Einigen Räubern.}
 {3952}{}{Einigen Obdachlosen.}
@@ -772,7 +601,7 @@
 {3961}{}{Ein paar Kopfgeldjägern.}
 {3962}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3963}{}{Einigen wilden Brahmin.}
-{3964}{}{Einigen Skorpionen.}
+{3964}{}{Einigen Radskorpionen.}
 {3965}{}{Einigen Schwarzbrennern, die von Straßenräubern angegriffen werden.}
 {3966}{}{Einigen Straßenräubern, die Obdachlose angreifen.}
 {3967}{}{Einigen Schwarzbrennern und Bauern.}
@@ -786,8 +615,6 @@
 {3975}{}{Einem Mann, der eine Brücke bewacht.}
 {3976}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {3977}{}{Ein paar irren Banditen.}
-
-# Encounter Table 20
 {4000}{}{Einigen Straßenräubern auf Spurensuche mit Wildhunden.}
 {4001}{}{Einigen Räubern mit Wildhunden.}
 {4002}{}{Einer Räuberbande.}
@@ -812,8 +639,6 @@
 {4021}{}{Einer Karawane.}
 {4022}{}{Einem Mann, der eine Brücke bewacht.}
 {4023}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 21
 {4050}{}{Einer Giftmülldeponie.}
 {4051}{}{Einem einsamen überlebenden Hund.}
 {4052}{}{Einer Herde Brahmin.}
@@ -846,9 +671,7 @@
 {4079}{}{Den Rittern der Tafelrunde.}
 {4080}{}{Dem Blechmann.}
 {4081}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 22
-{4100}{}{Einigen Goldgeckos.}
+{4100}{}{Einigen Geckos.}
 {4101}{}{Einem Schwarm Gottesanbeterinnen.}
 {4102}{}{Einigen Radskorpionen.}
 {4103}{}{Einigen wilden Brahmin.}
@@ -870,12 +693,10 @@
 {4119}{}{Einem Mann, der eine Brücke bewacht.}
 {4120}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {4121}{}{Ein paar irren Banditen.}
-
-# Encounter Table 23
 {4150}{}{Einer Giftmülldeponie.}
 {4151}{}{Einem einsamen überlebenden Hund.}
 {4152}{}{Einer Herde Brahmin.}
-{4153}{}{Einigen Goldgeckos.}
+{4153}{}{Einigen Geckos.}
 {4154}{}{Ein paar Kopfgeldjägern.}
 {4155}{}{Ein paar Kopfgeldjägern.}
 {4156}{}{Ein paar Kopfgeldjägern.}
@@ -902,8 +723,6 @@
 {4177}{}{Dem Blechmann.}
 {4178}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4179}{}{Ein paar irren Banditen.}
-
-# Encounter Table 24
 {4200}{}{Einer Giftmülldeponie.}
 {4201}{}{Einem einsamen überlebenden Hund.}
 {4202}{}{Einer Herde Brahmin.}
@@ -934,8 +753,6 @@
 {4227}{}{Den Rittern der Tafelrunde.}
 {4228}{}{Dem Blechmann.}
 {4229}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 25
 {4250}{}{Einigen mutierten Maulwurfsratten.}
 {4251}{}{Einigen mutierten Schweineratten.}
 {4252}{}{Einigen Sporenpflanzen.}
@@ -958,11 +775,9 @@
 {4269}{}{Einem Einsiedler.}
 {4270}{}{Einem Mann, der eine Brücke bewacht.}
 {4271}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 26
 {4300}{}{Einer Gruppe Sklavenhändler mit Hunden.}
 {4301}{}{Einer Gruppe Sklavenhändler.}
-{4302}{}{Einigen Goldgeckos.}
+{4302}{}{Einigen Geckos.}
 {4303}{}{Einem Rudel Wildhunde.}
 {4304}{}{Ein paar Kopfgeldjägern.}
 {4305}{}{Ein paar Kopfgeldjägern.}
@@ -981,8 +796,6 @@
 {4318}{}{Einer Patrouille.}
 {4319}{}{Einem Mann, der eine Brücke bewacht.}
 {4320}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 27
 {4350}{}{Einer Giftmülldeponie.}
 {4351}{}{Einem einsamen überlebenden Hund.}
 {4352}{}{Einer Herde Brahmin.}
@@ -997,7 +810,7 @@
 {4361}{}{Ein paar Kopfgeldjägern.}
 {4362}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4363}{}{Einer Gruppe Sklavenhändler.}
-{4364}{}{Einigen Goldgeckos.}
+{4364}{}{Einigen Geckos.}
 {4365}{}{Einem Rudel Wildhunde.}
 {4366}{}{Einer Patrouille mit Hunden, die Sklaven knechten.}
 {4367}{}{Einer Gruppe Sklavenhändler, die sich gegen Goldgeckos wehren.}
@@ -1012,8 +825,6 @@
 {4376}{}{Den Rittern der Tafelrunde.}
 {4377}{}{Dem Blechmann.}
 {4378}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 28
 {4400}{}{Einem Haufen Leichenfledderer.}
 {4401}{}{Einigen leichenfleddernden Ghuls.}
 {4402}{}{Einem Haufen Irrer.}
@@ -1038,8 +849,6 @@
 {4421}{}{Einigen mutierten Ratten, die leichenfleddernde Ghuls heimsuchen.}
 {4422}{}{Einem Mann, der eine Brücke bewacht.}
 {4423}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 29
 {4450}{}{Einer Giftmülldeponie.}
 {4451}{}{Einem einsamen überlebenden Hund.}
 {4452}{}{Einer Herde Brahmin.}
@@ -1072,8 +881,6 @@
 {4479}{}{Den Rittern der Tafelrunde.}
 {4480}{}{Dem Blechmann.}
 {4481}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 30
 {4500}{}{Einigen Kannibalen.}
 {4501}{}{Einigen Verirrten.}
 {4502}{}{Einer Kriegertruppe.}
@@ -1093,8 +900,6 @@
 {4516}{}{Einigen Kannibalen im Kampf gegen einige Verirrte.}
 {4517}{}{Einigen Radskorpionen, die einige Verirrte angreifen.}
 {4518}{}{Einigen Fischern.}
-
-# Encounter Table 31
 {4550}{}{Einer Giftmülldeponie.}
 {4551}{}{Einem einsamen überlebenden Hund.}
 {4552}{}{Einer Herde Brahmin.}
@@ -1115,7 +920,7 @@
 {4567}{}{Einigen Geckos und Radskorpionen.}
 {4568}{}{Einigen Geckos.}
 {4569}{}{Einigen Radskorpionen, versteckt zwischen Sporenpflanzen.}
-{4570}{}{Einigen Skorpionen.}
+{4570}{}{Einigen Radskorpionen.}
 {4571}{}{Einigen Geckos, die einige Ausgestoßene angreifen.}
 {4572}{}{Einigen Geckos im Kampf mit einigen Verirrten.}
 {4573}{}{Einigen Radskorpionen im Kampf gegen Kannibalen.}
@@ -1128,8 +933,6 @@
 {4580}{}{Den Rittern der Tafelrunde.}
 {4581}{}{Dem Blechmann.}
 {4582}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 32
 {4600}{}{Einigen Kannibalen.}
 {4601}{}{Einigen Ausgestoßenen.}
 {4602}{}{Einigen Verirrten.}
@@ -1147,7 +950,7 @@
 {4614}{}{Einigen Geckos und Radskorpionen.}
 {4615}{}{Einigen Geckos.}
 {4616}{}{Einigen Radskorpionen, versteckt zwischen Sporenpflanzen.}
-{4617}{}{Einigen Skorpionen.}
+{4617}{}{Einigen Radskorpionen.}
 {4618}{}{Einigen Geckos, die einige Ausgestoßene angreifen.}
 {4619}{}{Einigen Geckos im Kampf mit einigen Verirrten.}
 {4620}{}{Einigen Radskorpionen im Kampf gegen Kannibalen.}
@@ -1155,8 +958,6 @@
 {4622}{}{Einem Einsiedler.}
 {4623}{}{Einem Mann, der eine Brücke bewacht.}
 {4624}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 33
 {4650}{}{Einer Giftmülldeponie.}
 {4651}{}{Einem einsamen überlebenden Hund.}
 {4652}{}{Einer Herde Brahmin.}
@@ -1188,8 +989,6 @@
 {4678}{}{Den Rittern der Tafelrunde.}
 {4679}{}{Dem Blechmann.}
 {4680}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 34
 {4700}{}{Einer Den-Karawane.}
 {4701}{}{Einigen Wegelagerern und Räubern.}
 {4702}{}{Einigen Straßenräubern.}
@@ -1213,8 +1012,6 @@
 {4720}{}{Einer Den-Karawane.}
 {4721}{}{Einem Mann, der eine Brücke bewacht.}
 {4722}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 35
 {4750}{}{Einer Giftmülldeponie.}
 {4751}{}{Einem einsamen überlebenden Hund.}
 {4752}{}{Einer Herde Brahmin.}
@@ -1246,8 +1043,6 @@
 {4778}{}{Den Rittern der Tafelrunde.}
 {4779}{}{Dem Blechmann.}
 {4780}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 36
 {4800}{}{Einigen Geckos und Wölfen.}
 {4801}{}{Einigen Grubenspringer.}
 {4802}{}{Einigen Wölfen.}
@@ -1271,8 +1066,6 @@
 {4820}{}{Einigen Goldsuchern.}
 {4821}{}{Einem Mann, der eine Brücke bewacht.}
 {4822}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 37
 {4850}{}{Einem Rudel Wölfe und einigen Maulwurfsratten.}
 {4851}{}{Einigen Radskorpionen und Wölfen.}
 {4852}{}{Einigen mutierten Maulwurfsratten und einigen Radskorpionen.}
@@ -1294,8 +1087,6 @@
 {4868}{}{Einigen Maulwurfsratten im Kampf gegen Radskorpione.}
 {4869}{}{Einem Mann, der eine Brücke bewacht.}
 {4870}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 38
 {4900}{}{Einer Gangsterbande.}
 {4901}{}{Einigen Wölfen.}
 {4902}{}{Einer Karawane, die sich gegen Gangster wehrt.}
@@ -1318,8 +1109,6 @@
 {4919}{}{Einem Mann, der eine Brücke bewacht.}
 {4920}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {4921}{}{Einer irren Gangsterbande.}
-
-# Encounter Table 39
 {4950}{}{Einer Giftmülldeponie.}
 {4951}{}{Einem einsamen überlebenden Hund.}
 {4952}{}{Einer Herde Brahmin.}
@@ -1350,8 +1139,6 @@
 {4977}{}{Dem Blechmann.}
 {4978}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4979}{}{Einer irren Gangsterbande.}
-
-# Encounter Table 40
 {5000}{}{Einer Gangsterbande, die einige Wölfe anführt.}
 {5001}{}{Einigen Sporenpflanzen und Wölfen.}
 {5002}{}{Einer Gangsterbande.}
@@ -1370,8 +1157,6 @@
 {5015}{}{Einem Mann, der eine Brücke bewacht.}
 {5016}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5017}{}{Einer irren Gangsterbande.}
-
-# Encounter Table 41
 {5050}{}{Einer Giftmülldeponie.}
 {5051}{}{Einem einsamen überlebenden Hund.}
 {5052}{}{Einer Herde Brahmin.}
@@ -1398,8 +1183,6 @@
 {5073}{}{Dem Blechmann.}
 {5074}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5075}{}{Einer irren Gangsterbande.}
-
-# Encounter Table 42
 {5100}{}{Einer Giftmülldeponie.}
 {5101}{}{Einem einsamen überlebenden Hund.}
 {5102}{}{Einer Herde Brahmin.}
@@ -1421,8 +1204,6 @@
 {5118}{}{Dem Blechmann.}
 {5119}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5120}{}{Dem Café der geplatzten Träume.}
-
-# Encounter Table 43
 {5150}{}{Einer Enklaven-Patrouille.}
 {5151}{}{Ein paar Kopfgeldjägern.}
 {5152}{}{Ein paar Kopfgeldjägern.}
@@ -1435,8 +1216,6 @@
 {5159}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5160}{}{Einem Mann, der eine Brücke bewacht.}
 {5161}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 44
 {5200}{}{Einer Enklaven-Patrouille.}
 {5201}{}{Ein paar Kopfgeldjägern.}
 {5202}{}{Ein paar Kopfgeldjägern.}
@@ -1447,8 +1226,6 @@
 {5207}{}{Ein paar Kopfgeldjägern.}
 {5208}{}{Ein paar Kopfgeldjägern.}
 {5209}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-
-# Encounter Table 45
 {5250}{}{Einer Giftmülldeponie.}
 {5251}{}{Einem einsamen überlebenden Hund.}
 {5252}{}{Einer Herde Brahmin.}
@@ -1479,8 +1256,6 @@
 {5277}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5278}{}{Dem Café der geplatzten Träume.}
 {5279}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 46
 {5300}{}{Einigen Aliens und Deathclaws.}
 {5301}{}{Einer Armee von Floaters und Zentauren.}
 {5302}{}{Einigen Feuergeckos.}
@@ -1502,8 +1277,6 @@
 {5318}{}{Einem Mann, der eine Brücke bewacht.}
 {5319}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5320}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 47
 {5350}{}{Einigen Aliens und Deathclaws.}
 {5351}{}{Einer Armee von Floaters und Zentauren.}
 {5352}{}{Einigen Feuergeckos.}
@@ -1523,8 +1296,6 @@
 {5366}{}{Einer Herde Zentauren.}
 {5367}{}{Einem Schwarm Floaters.}
 {5368}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 48
 {5400}{}{Einer Giftmülldeponie.}
 {5401}{}{Einem einsamen überlebenden Hund.}
 {5402}{}{Einer Herde Brahmin.}
@@ -1549,8 +1320,6 @@
 {5421}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5422}{}{Dem Café der geplatzten Träume.}
 {5423}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 49
 {5450}{}{Einem Rudel Feuergeckos.}
 {5451}{}{Einem Rudel Feuergeckos.}
 {5452}{}{Einem großen Rudel Goldgeckos.}
@@ -1566,8 +1335,6 @@
 {5462}{}{Einem Mann, der eine Brücke bewacht.}
 {5463}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5464}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 50
 {5500}{}{Einem Rudel Feuergeckos.}
 {5501}{}{Einem Rudel Feuergeckos.}
 {5502}{}{Einem großen Rudel Goldgeckos.}
@@ -1581,8 +1348,6 @@
 {5510}{}{Ein paar Kopfgeldjägern.}
 {5511}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5512}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 51
 {5550}{}{Einer Giftmülldeponie.}
 {5551}{}{Einem einsamen überlebenden Hund.}
 {5552}{}{Einer Herde Brahmin.}
@@ -1597,7 +1362,7 @@
 {5561}{}{Ein paar Kopfgeldjägern.}
 {5562}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5563}{}{Einem Rudel Feuergeckos.}
-{5564}{}{  Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5564}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
 {5565}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
 {5566}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
 {5567}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
@@ -1612,8 +1377,6 @@
 {5576}{}{Den Rittern der Tafelrunde.}
 {5577}{}{Dem Blechmann.}
 {5578}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 52
 {5600}{}{Einem Rudel Deathclaws.}
 {5601}{}{Einem Rudel Feuergeckos.}
 {5602}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
@@ -1635,8 +1398,6 @@
 {5618}{}{Einer Karawane.}
 {5619}{}{Einem Mann, der eine Brücke bewacht.}
 {5620}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 53
 {5650}{}{Einer Giftmülldeponie.}
 {5651}{}{Einem einsamen überlebenden Hund.}
 {5652}{}{Einer Herde Brahmin.}
@@ -1664,8 +1425,6 @@
 {5674}{}{Dem Blechmann.}
 {5675}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5676}{}{Dem Café der geplatzten Träume.}
-
-# Encounter Table 54
 {5700}{}{Einigen Yakuza.}
 {5701}{}{Einer Gang.}
 {5702}{}{Einem Rudel Wölfe.}
@@ -1684,8 +1443,6 @@
 {5715}{}{Einem Reisenden.}
 {5716}{}{Einem Mann, der eine Brücke bewacht.}
 {5717}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 55
 {5750}{}{Einigen Yakuza.}
 {5751}{}{Einer Gang.}
 {5752}{}{Einem Rudel Wölfe.}
@@ -1702,8 +1459,6 @@
 {5763}{}{Einigen Mafiosi im Kampf gegen eine Gang.}
 {5764}{}{Einigen Mafiosi.}
 {5765}{}{Einem Reisenden.}
-
-# Encounter Table 56
 {5800}{}{Einer Giftmülldeponie.}
 {5801}{}{Einem einsamen überlebenden Hund.}
 {5802}{}{Einer Herde Brahmin.}
@@ -1731,8 +1486,6 @@
 {5824}{}{Den Rittern der Tafelrunde.}
 {5825}{}{Dem Blechmann.}
 {5826}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
-
-# Encounter Table 57
 {5850}{}{Einer Gruppe Schurken und einigen Wölfen.}
 {5851}{}{Einer Gruppe Schurken.}
 {5852}{}{Einem Rudel Wölfe.}
@@ -1752,8 +1505,6 @@
 {5866}{}{Einer Einheits-Patrouille.}
 {5867}{}{Einem Mann, der eine Brücke bewacht.}
 {5868}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 58
 {5900}{}{Einer Söldnerbande.}
 {5901}{}{Einer Preßpatrouille.}
 {5902}{}{Einer Herde Deathclaws.}
@@ -1773,8 +1524,6 @@
 {5916}{}{Hubologen.}
 {5917}{}{Einer Gruppe von zornigen Söldnern.}
 {5918}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 59
 {5950}{}{Einer Söldnerbande.}
 {5951}{}{Einer Preßpatrouille.}
 {5952}{}{Einer Herde Deathclaws.}
@@ -1796,8 +1545,6 @@
 {5968}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5969}{}{Einer Gruppe von zornigen Söldnern.}
 {5970}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 60
 {6000}{}{Einer Söldnerbande.}
 {6001}{}{Einer Preßpatrouille.}
 {6002}{}{Einer Herde Deathclaws.}
@@ -1817,8 +1564,6 @@
 {6016}{}{Hubologen.}
 {6017}{}{Einer Gruppe von zornigen Söldnern.}
 {6018}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 61
 {6050}{}{Einer Giftmülldeponie.}
 {6051}{}{Einem einsamen überlebenden Hund.}
 {6052}{}{Einer Herde Brahmin.}
@@ -1829,7 +1574,7 @@
 {6057}{}{Ein paar Kopfgeldjägern.}
 {6058}{}{Ein paar Kopfgeldjägern.}
 {6059}{}{Ein paar Kopfgeldjägern.}
-{6050}{}{Ein paar Kopfgeldjägern.}
+{6060}{}{Ein paar Kopfgeldjägern.}
 {6061}{}{Ein paar Kopfgeldjägern.}
 {6062}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6063}{}{Einer Preßpatrouille.}
@@ -1847,10 +1592,8 @@
 {6075}{}{Dem Blechmann.}
 {6076}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6077}{}{Dem Café der geplatzten Träume.}
-{6079}{}{Einer Gruppe von zornigen Söldnern.}
+{6078}{}{Einer Gruppe von zornigen Söldnern.}
 {6079}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
-
-# Encounter Table 62
 {6100}{}{Einer Giftmülldeponie.}
 {6101}{}{Einem einsamen überlebenden Hund.}
 {6102}{}{Einer Herde Brahmin.}
@@ -1882,8 +1625,6 @@
 {6128}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6129}{}{Dem Café der geplatzten Träume.}
 {6130}{}{Einer Gruppe von zornigen Söldnern.}
-
-# Encounter Table 63
 {6150}{}{Einer Söldnerbande.}
 {6151}{}{Einem Rudel Deathclaws.}
 {6152}{}{Einem Rudel Feuergeckos.}
@@ -1904,8 +1645,6 @@
 {6167}{}{Einer Karawane.}
 {6168}{}{Einer Karawane.}
 {6169}{}{Einer Gruppe von zornigen Söldnern.}
-
-# Encounter Table 64
 {6200}{}{Einer Giftmülldeponie.}
 {6201}{}{Einem einsamen überlebenden Hund.}
 {6202}{}{Einer Herde Brahmin.}
@@ -1930,8 +1669,6 @@
 {6221}{}{Dem Blechmann.}
 {6222}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6223}{}{Dem Café der geplatzten Träume.}
-
-# Encounter Table 65
 {6250}{}{Einer Enklaven-Patrouille.}
 {6251}{}{Den Überresten der Armee des Meisters.}
 {6252}{}{Einem Rudel Deathclaws.}
@@ -1947,8 +1684,6 @@
 {6262}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6263}{}{Einem Mann, der eine Brücke bewacht.}
 {6264}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 66
 {6300}{}{Einer Giftmülldeponie.}
 {6301}{}{Einem einsamen überlebenden Hund.}
 {6302}{}{Einer Herde Brahmin.}
@@ -1975,8 +1710,6 @@
 {6323}{}{Dem Blechmann.}
 {6324}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6325}{}{Dem Café der geplatzten Träume.}
-
-# Encounter Table 67
 {6350}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
 {6351}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
 {6352}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
@@ -1994,8 +1727,6 @@
 {6364}{}{Einer Karawane.}
 {6365}{}{Einem Mann, der eine Brücke bewacht.}
 {6366}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 68
 {6400}{}{Einem Rudel Wölfe.}
 {6401}{}{Einem Schwarm Gottesanbeterinnen.}
 {6402}{}{Einer Familie von Radskorpionen.}
@@ -2010,8 +1741,6 @@
 {6411}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6412}{}{Einem Mann, der eine Brücke bewacht.}
 {6413}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 69
 {6450}{}{Einer Giftmülldeponie.}
 {6451}{}{Einem einsamen überlebenden Hund.}
 {6452}{}{Einer Herde Brahmin.}
@@ -2035,8 +1764,6 @@
 {6470}{}{Dem Blechmann.}
 {6471}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6472}{}{Dem Café der geplatzten Träume.}
-
-# Encounter Table 70
 {6500}{}{Einer Giftmülldeponie.}
 {6501}{}{Einem einsamen überlebenden Hund.}
 {6502}{}{Einer Herde Brahmin.}
@@ -2070,8 +1797,6 @@
 {6530}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6531}{}{Dem Café der geplatzten Träume.}
 {6532}{}{Einer Gruppe von wilden Plünderern.}
-
-# Encounter Table 71
 {6550}{}{Einer Bande Plünderer.}
 {6551}{}{Einem Rudel Wölfe.}
 {6552}{}{Einem Rudel Radskorpione.}
@@ -2096,8 +1821,6 @@
 {6571}{}{Einem Mann, der eine Brücke bewacht.}
 {6572}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {6573}{}{Einer Gruppe von wilden Plünderern.}
-
-# Encounter Table 72
 {6600}{}{Einer Abordnung der Armee des Meisters.}
 {6601}{}{Einer Bande Plünderer.}
 {6602}{}{Einigen Rangern, die sich gegen eine Kommandotruppe der Armee des Meisters wehren.}
@@ -2118,8 +1841,6 @@
 {6617}{}{Einem Mann, der eine Brücke bewacht.}
 {6618}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {6619}{}{Einer Gruppe von wilden Plünderern.}
-
-# Encounter Table 73
 {6650}{}{Einer Giftmülldeponie.}
 {6651}{}{Einem einsamen überlebenden Hund.}
 {6652}{}{Einer Herde Brahmin.}
@@ -2149,8 +1870,6 @@
 {6676}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6677}{}{Dem Café der geplatzten Träume.}
 {6678}{}{Einer Gruppe von wilden Plünderern.}
-
-# Encounter Table 74
 {6700}{}{Überresten der Armee des Meisters im Kampf gegen mutierte Maulwurfsratten.}
 {6701}{}{Überresten der Armee des Meisters.}
 {6702}{}{Einem Schwarm Gottesanbeterinnen.}
@@ -2167,8 +1886,6 @@
 {6713}{}{Einem Rudel Radskorpione.}
 {6714}{}{Einem Mann, der eine Brücke bewacht.}
 {6715}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
-
-# Encounter Table 75
 {6750}{}{Einer Giftmülldeponie.}
 {6751}{}{Einem einsamen überlebenden Hund.}
 {6752}{}{Einer Herde Brahmin.}

@@ -15,7 +15,7 @@
 {114}{}{Excellent travail.}
 {115}{}{Le Projet progresse comme prévu.}
 {116}{}{Excellents résultats.}
-{117}{}{Quoi, encore ?}
+{117}{}{Quoi encore ?}
 {118}{}{Les radiations vont foutre tout mon travail en l'air.}
 {119}{}{Encore un autre exercice.}
 {120}{}{Je ne peux pas abandonner mon travail maintenant.}
@@ -46,8 +46,8 @@
 {145}{}{Ouais, et d'où viendrait-il cet intrus ?!}
 {146}{}{Comme si on ne remarquerait pas un intrus s'approcher !}
 {147}{}{C'est pas vrai, encore une autre panne de l'alarme !!!}
-{148}{}{J'ai pas de temps à perdre avec ces conneries !!}
-{149}{}{Que veux-tu ?!}
+{148}{}{Je n'ai pas le temps pour cette merde.}
+{149}{}{Que veux-tu ?}
 {150}{}{Ca se voit pas que je travaille ?!}
 {151}{}{Fous le camp. Je suis occupé.}
 {152}{}{T'as rien de mieux à faire ?}

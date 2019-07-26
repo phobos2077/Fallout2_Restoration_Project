@@ -1,6 +1,3 @@
-#
-#   Interface text from INTFACE.C
-#
 {100}{}{ESQUIVE}
 {101}{}{NIVEAU}
 {102}{}{DEPENDANCE}

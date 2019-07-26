@@ -9,19 +9,18 @@
 {108}{}{Quels produits proposez-vous ?}
 {109}{}{Je n'ai rien à échanger, je regrette.}
 {110}{}{Peut-être une autre fois, hein ? Que tes voyages se passent sans danger !}
-{111}{}{Salut.}
+{111}{}{Merci. Au revoir.}
 {112}{}{Quel dommage... Alors repose-toi et sois ici chez toi.}
 {113}{}{Salut.}
 {114}{}{Ma proposition est arrivée trop tard. Le soleil a déjà brûlé les mots dans ton cerveau. Je dois être bon avec les moins bien lotis que moi. Reste aussi longtemps qu'il te plaira dans mon campement, faible d'esprit...}
-{115}{}{Bonjour.}
+{115}{}{Salut.}
 {116}{}{Infidèle !}
 {117}{}{Pourquoi nous attaques-tu ?}
 {118}{}{Je défendrai la tribu au prix de ma vie !}
 {119}{}{Comment oses-tu violer notre hospitalité ?!}
-{120}{}{Hors de ma vue !}
-{121}{}{Laisse-nous.}
+{120}{}{Hors d'ici !}
+{121}{}{Laisse-nous !}
 {122}{}{Notre tribu est pacifique.}
-
 {200}{}{Ah, un voyageur. Je suis désolé de ne pas avoir de tente qui aurait pu te fournir de l'ombre et te protéger de la chaleur incessante du désert. Repose-toi un moment, comme ça on pourra discuter.}
 {201}{}{Merci, j'accepte volontiers votre offre.}
 {202}{}{Quel dommage. Repose-toi un moment, tu es le bienvenu parmi nous.}

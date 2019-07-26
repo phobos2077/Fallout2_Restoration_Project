@@ -1,19 +1,13 @@
-# 0. Look
 {100}{}{Widzisz zahartowanego ³owcê niewolników w œrednim wieku.}
 {101}{}{Widzisz dobrze zbudowanego ³owcê niewolników.}
-
 {150}{}{Oto £owca, który czerpie przyjemnoœæ ze swojej pracy.}
 {151}{}{Ten £owca jest bardzo silny, ale chyba niezbyt bystry.}
-
-# 1. Metzger's Bedroom Guard (2nd Time = Hostile)
 {200}{}{OdejdŸ od tych cholernych drzwi.}
 {201}{}{Czego tu kurwa szukasz?}
 {202}{}{Metzger urwie ci ³eb. Spadaj st¹d, stary.}
 {203}{}{Hej, suko, zostaw te drzwi w spokoju.}
 {204}{}{¯adna suka nie ma wstêpu do pokoju Metzgera. Spadaj.}
 {205}{}{Spadaj, suko. £owca czy nie - pokój Metzgera nie jest do zwiedzania.}
-
-# 2. CF: Generic
 {250}{}{Gadaj z Metzgerem, a nie ze mn¹.}
 {251}{}{Chcesz do³¹czyæ do gildii?}
 {252}{}{W gildii mo¿na nieŸle zarobiæ.}

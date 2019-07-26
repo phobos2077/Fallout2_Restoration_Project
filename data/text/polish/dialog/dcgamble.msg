@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Widzisz gracza.}
 {101}{}{Wygl¹da na to, ¿e komuœ tu wyj¹tkowo dobrze idzie.}
 {102}{}{Wygl¹da na to, ¿e wygrywa, ale wszystkie jego pieni¹dze le¿¹ teraz na stole.}
@@ -7,8 +6,6 @@
 {105}{}{Ta osoba jak dot¹d nic nie wygra³a.}
 {106}{}{W jej oczach dostrzegasz ³zy. Zdaje siê, ¿e straci³a wszystkie swoje pieni¹dze.}
 {107}{}{Wygl¹da na bardzo z³ego - prawdopodobnie straci³ du¿o pieniêdzy.}
-
-# 1. PC Killed Becky, NPC are still around (From Where to go)
 {200}{}{Nie bij mnie!}
 {201}{}{Nie strzelaj!}
 {202}{}{Nie mam ¿adnych pieniêdzy!}
@@ -16,8 +13,6 @@
 {204}{}{Co ona ci zrobi³a?}
 {205}{}{To nie moja wina!}
 {206}{}{Proszê, odejdŸ. Nikomu nic nie powiemy.}
-
-# 2. CF: Gambling (From Where to go)
 {300}{}{O tak! Koœci mnie dziœ kochaj¹!}
 {301}{}{Och, tak ma³o brakowa³o.}
 {302}{}{Nie przeszkadzaj mi, bo przerwiesz moj¹ œwietn¹ passê.}
@@ -50,23 +45,19 @@
 {329}{}{Dlaczego ja zawsze mam pecha?}
 {330}{}{Nie mogê wygraæ.}
 {331}{}{Nienawidzê tej gry.}
-
-# 3. BGF: Becky Dead (From Where to go)
 {400}{}{Cholera, Becky prowadzi³a jedyne miejsce w okolicy, gdzie mo¿na by³o uprawiaæ hazard!}
 {401}{}{Nie zbli¿aj siê.}
 {402}{}{Nie strzelaj!}
 {403}{}{Mo¿e zostaw w spokoju choæ nas.}
-
-# 4. BGF: Gambling (From Where to go)
 {500}{}{Nie zatrzymuj siê.}
 {501}{}{No dalej, dalej...}
 {502}{}{NO DAWAJ, MA BYÆ 7!}
-{503}{}{Jupi!}
+{503}{}{Nareszcie!}
 {504}{}{Dalej, naprzód!}
 {505}{}{Becky! Oskubiê ciê dzisiaj wszystkich twoich pieniêdzy!}
 {506}{}{Hurra! Wygrana!}
 {507}{}{Dajcie jak¹œ wiêksz¹ stawkê!}
-{508}{}{Juuupii!}
+{508}{}{Nareszcie!}
 {509}{}{W porz¹dku!}
 {510}{}{Jeszcze raz, zobaczymy co siê stanie.}
 {511}{}{No dalej.}
@@ -74,8 +65,8 @@
 {513}{}{Prawie.}
 {514}{}{NieŸle.}
 {515}{}{Jak to siê sta³o?}
-{516}{}{Uups.}
-{517}{}{Znowu nic, znowu nic. Koniec z tym!}
+{516}{}{Ups.}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Nied³ugo przegram w tej grze w³asne imiê.}
 {519}{}{Potrzebujê tylko jednej du¿ej wygranej.}
 {520}{}{Cyfra!}
@@ -85,16 +76,14 @@
 {524}{}{Becky! Twoje sto³y mnie zabij¹!}
 {525}{}{Podmieniliœcie kostki do gry, czy co?}
 {526}{}{No nie, znowu!}
-{527}{}{Dlaczego ja?}
+{527}{}{Dlaczego mnie?}
 {528}{}{Psiakrew! Tak ma³o brakowa³o!}
 {529}{}{O Jezu, kochany Jezu, NIE MAM PO CO ¯YÆ!}
 {530}{}{Nienawidzê tej gry!}
 {531}{}{Cholera! To by³ mój numer w poprzedniej grze!}
 {532}{}{Znowu czarne!?!?}
-
-# 5. CF: Hostile (From Where to go)
-{600}{}{OdejdŸ!}
+{600}{}{Uciekaj st¹d!}
 {601}{}{Dlaczego to robisz?}
-{602}{}{OdejdŸ!}
+{602}{}{Uciekaj st¹d!}
 {603}{}{Stój, nie mam broni.}
-{604}{}{Jak mo¿na zrobiæ coœ takiego?}
+{604}{}{I wouldn't do that to you.}

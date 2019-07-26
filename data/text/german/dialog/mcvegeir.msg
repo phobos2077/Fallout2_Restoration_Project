@@ -1,7 +1,6 @@
 {100}{}{Anführer der Schlacken.}
 {101}{}{Du siehst Vegeir.}
 {102}{}{Ein großer, stattlicher Mann. Seine Bewegungen erinnern an eine schleichende Katze.}
-
 {150}{}{Du kommst durch die Klapptür an der Rückseite des Gebäudes raus.}
 {151}{}{Bitte bring diese Nachricht nach Modoc.}
 {152}{}{Modoc liegt im Süden.}
@@ -21,7 +20,7 @@
 {167}{}{Kann ich Jonny jetzt mit nach Hause zu seinen Eltern nehmen?}
 {168}{}{Ich möchte mich für die unschönen Umstände entschuldigen, unter denen wir uns hier treffen. Normalerweise hätten die Protektoren versucht, dich abzuschrecken. Im allgemeinen genügt es, mit ein paar Ketten zu rasseln und zu stöhnen. Aber kürzlich wurden sie instruiert, alle Oberflächler, die sie finden, zu mir zu bringen.}
 {169}{}{Schon gut. Ich geh jetzt einfach.}
-{170}{}{Was wollt ihr denn von mir?}
+{170}{}{Was hast du mit mir vor?}
 {171}{}{Geister?}
 {172}{}{Du gehst, wenn ich es sage. Keine Sekunde früher.}
 {173}{}{Nur eine einfache Bitte. Wir müssen Kontakt mit einer Stadt im Südwesten aufnehmen. Modoc heißt sie, glaub ich. Würdest du uns diesen Gefallen tun?}
@@ -37,7 +36,7 @@
 {191}{}{Wozu dieses Geistertheater auf der Oberfläche?}
 {192}{}{Was ist der Zweck deiner Botschaft?}
 {194}{}{Seit der Versiegelung hat sich unser Volk verändert. Nur wenige ertragen es über der Erde, da sie nicht an das große schwarze Nichts über ihnen gewöhnt sind. Das Gefühl nach oben zu fallen ist so übermächtig, daß sie starr vor Angst am Boden liegen und sich festkrallen. Aber das ist nicht das Hauptproblem. Tatsache ist, daß wir das grelle Licht nicht ertragen können, das ihr die Sonne nennt. Durch das lange Wohnen unter der Erde sind unsere Augen lichtempfindlich geworden. Wir können uns nicht weit von unseren sicheren Behausungen unter der Erde entfernen.}
-{195}{}{Kann ich noch ein paar Fragen stellen?}
+{195}{}{Kann ich dir noch ein paar Fragen stellen?}
 {197}{}{Vor langer Zeit einmal waren wir wie die Oberflächler. Auch wir wohnten über der Erde, bis die Welt in Flammen aufging. Unsere Vorfahren waren Angehörige einer geheimen Miliz. Sie siegelten sich und ihre Familien hier unten ein, um sich zu schützen. Und hier blieben wir über Generationen hinweg, sicher geborgen im Schoß der Mutter Erde.}
 {200}{}{Unsere Bevölkerung ist seit der Versiegelung ständig angewachsen. Bald wurde klar, daß wir nicht ohne weitere Nahrungsmittel überleben konnten. Also wurde das Siegel aufgebrochen und auf der Suche nach Überlebensmöglichkeiten sahen wir uns einmal mehr auf der Oberfläche um.}
 {203}{}{Vor einigen Jahren versuchte jemand, sich unsere Farm anzueignen. Er nahm unsere Ernte und stahl unser Vieh. Dazu hatte er kein Recht! Wir sind von Natur aus friedfertig, aber wir mußten etwas tun. Unser Überleben hing von dieser Ernte ab. Damals hatten wir die Idee mit den Geistern. Wir rieben uns mit phosphoreszierenden Pilzen ein und vertrieben den Kerl und alle neugierigen Nachbarn. Leider war das ein bißchen zu wirksam - seit einiger Zeit schon versuchen wir, Kontakt zu den Oberflächlern aufzunehmen, aber es kommt niemand mehr zur Farm, aus Angst vor den Geistern. Es war Glück, daß du vorbeigekommen bist.}
@@ -62,10 +61,8 @@
 {231}{}{Wie ich sehe, hast du Jonny getroffen. Wir haben ihn in einem unserer tiefsten Tunnel gefunden, wo er in der Dunkelheit umherirrte. Er sagte, er sei in einen ausgetrockneten Brunnen in der Nähe seines Hauses gefallen und saß dann in einem Tunnel zu unseren Höhlen fest. Wir haben ihn wie einen der unseren behandelt und lieben ihn alle. Du wirst verstehen, daß wir ihn nicht einfach einem völlig Fremden anvertrauen können, der erst noch zeigen muß, ob er vertrauenswürdig ist. Ich werde Jonny nach Hause schicken, wenn ich sicher bin, daß er auch sicher dort ankommt.}
 {232}{}{An deiner Vertrauenswürdigkeit kann kein Zweifel mehr bestehen. Wir werden Jonny sehr vermissen, aber wir haben bereits eine Eskorte für euch beide bereitgestellt, die euch jetzt nach Modoc begleiten wird.}
 {233}{}{Grundgütiger! Kein Wunder, daß du dich von unseren Tricks nicht hast abschrecken lassen! Du bist einfach zu dämlich, um Angst zu haben. Ich verlasse mich nur ungern auf ein so halbhirniges Wesen, aber wir brauchen deine Hilfe. Bring diese Nachricht nach Modoc. Gib es dem dortigen Herrscher und geh unterwegs nicht verloren, wenn es geht.}
-
 {300}{}{Ich geh dann jetzt.}
 {301}{}{Was hast du mit mir vor?}
 {302}{}{Tschüß.}
 {303}{}{Geister?}
-
 {400}{}{Die Botschaft wurde gut aufgenommen. Die Stadt Modoc würde gern mit deinem Volk Handel treiben.}

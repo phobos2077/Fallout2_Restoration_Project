@@ -2,23 +2,16 @@
 {101}{}{Vor dir befindet sich eine düstere Ebene voller Gräber. Blutige Pfähle mit menschlichen Überresten ragen aus dem Boden.}
 {102}{}{Es sieht aus wie eine alte elektrische Ladestation aus der Vorkriegszeit. Ein Autofriedhof umgibt die Gebäude.}
 {103}{}{Du hast die Ställe erreicht. Ein neuer Kettenzaun umgibt die beiden Farmeingänge.}
-
 {150}{}{[Zurück]}
-{151}{}{[Weiter]}
-
-# family name
+{151}{}{[Mehr]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-
 {221}{}{Salvatores}
 {222}{}{der Shark Club}
 {223}{}{das Desperado}
 {224}{}{}
-
-
-# made man name
 {300}{}{}
 {301}{}{Whisper}
 {302}{}{Spinne}
@@ -113,9 +106,6 @@
 {391}{}{Ruby}
 {392}{}{X}
 {393}{}{}
-
-# prizefighter name
-
 {400}{}{}
 {401}{}{Jabby}
 {402}{}{Windmühlen-Jenny}
@@ -193,15 +183,10 @@
 {474}{}{Athena}
 {475}{}{Mad Dog}
 {476}{}{}
-
-# special stupid names
 {496}{}{Big Stu}
 {497}{}{Miami}
 {498}{}{X}
 {499}{}{Dein Name}
-
-# porn star name
-# male
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
@@ -252,7 +237,6 @@
 {547}{}{}
 {548}{}{}
 {549}{}{}
-# female
 {550}{}{}
 {551}{}{Vixxxen}
 {552}{}{Musch Honig}
@@ -303,8 +287,6 @@
 {597}{}{Valerie Vixen}
 {598}{}{Vaga Mutig}
 {599}{}{}
-
-# other boxer names
 {700}{}{Mal Fisto}
 {701}{}{Tommy Gunn}
 {702}{}{"Stahl" Mark Torrance}
@@ -325,31 +307,21 @@
 {717}{}{Drago}
 {718}{}{Tommy Gunn}
 {719}{}{Apollo}
-
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{Der Beißer}
-
-# GOING TO THE CHOP SHOP
 {1000}{}{Jules führt dich in das Straßengewirr der verfallenen Häuser um New Reno. Du glaubst nicht, daß du diesen Ort allein gefunden hättest. Kurz nach eurer Ankunft verschwindet Jules.}
 {1100}{}{Der Weg führt in das Straßengewirr der verfallenen Häuser um New Reno.}
-
-# MORDINO/MYRON STASH
 {1200}{}{Du findest eine kleine Geldschatulle aus Metall. Du hättest sie nicht gefunden, wenn du nicht danach gesucht hättest.}
-
-# CODY/CHOP SHOP
 {1300}{}{Cody führt dich in das Straßengewirr der verfallenen Häuser um New Reno und verschwindet dann auf demselben Weg. Du glaubst nicht, daß du diesen Ort allein gefunden hättest.}
-
-# BOXING LEVELS
 {1400}{}{Du hast deinen ersten Gegner besiegt.}
 {1401}{}{Du hast deinen zweiten Gegner besiegt.}
 {1402}{}{Du hast deinen dritten Gegner besiegt.}
 {1403}{}{Du hast den Beißer besiegt!}
 {1404}{}{Du bist jetzt der Schwergewichts-Champion von New Reno.}
-
+{1405}{}{You have defeated your last challenger!}
 {1500}{}{Du hast Mrs. Wright dazu gebracht, die Brennerei zu vernichten.}
 {1550}{}{Du hast die geheime Transaktion beobachtet.}
-
 {1600}{}{Im Eifer des Gefechts reißt der Beißer dir ein Ohr ab.}
 {1700}{}{Wutentbrannt reißt du dem Beißer ein Ohr ab.}

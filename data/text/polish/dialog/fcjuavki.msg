@@ -9,28 +9,28 @@
 {108}{}{Hej, Vikki, David H. kocha siê w tobie.}
 {109}{}{Œwietnie. Muszê ju¿ iœæ.}
 {110}{}{On: Biedne dziecko pustkowia. Ona: Mo¿e oœwiecenie tu pomo¿e? On: Tak. Ty. Czy chcesz doznaæ oœwiecenia?}
-{111}{}{Ta!}
-{112}{}{Nie!}
+{111}{}{'ak!}
+{112}{}{Ne!}
 {113}{}{Ona: Mam wielk¹ nadziejê, ¿e to pomog³o. Wiele szczêœcia w twojej podró¿y!}
 {114}{}{Do dzenia!}
 {115}{}{Na pewno!}
 {116}{}{On: Je¿eli nie chcesz przyj¹æ naszej pomocy... Ona: ...to nie mo¿emy ci pomóc. ¯egnaj.}
-{117}{}{Pa pa!}
+{117}{}{Pa!}
 {118}{}{On: Widzisz? Nauki Centrum znowu pokaza³y swoj¹ wartoœæ!}
 {119}{}{Mam kilka pytañ.}
-{120}{}{Dziêki! Na razie!}
+{120}{}{Dziêki! Czeœæ!}
 {121}{}{Ona: Ale¿ dzia³amy w biznesie filmowym w Nowym Reno. Nakrêciliœmy setki filmów, wiele z nich jest ju¿ klasykami, jak "Top gan", "Ryœka biznes", czy "Mission possible 2". Oto, co czyni z nas gwiazdy.}
 {122}{}{On: Ale, jako osoba zwi¹zana z tym Przemys³em, ju¿ o tym dawno wiesz.}
 {123}{}{Mi³o jest w koñcu skojarzyæ twarze z nazwiskami.}
 {124}{}{Co z tego, ¿e WY popieracie Centrologiê? Przecie¿ decyzja o tym, czy bêdê j¹ popieraæ, nale¿y do mnie!}
 {125}{}{Rozumiem. Có¿, mam kilka innych pytañ.}
-{126}{}{Dziêki, na razie.}
+{126}{}{Dziêki, czeœæ.}
 {127}{}{Ona: O tak, z pewnoœci¹ musisz samodzielnie podejmowaæ decyzje. On: A dziêki ostatniej ksi¹¿ce Hubberta Centrobela mo¿esz nauczyæ siê, jak dokonaæ W£AŒCIWEGO wyboru!}
 {128}{}{Dziêki jego ostatniej ksi¹¿ce? Czy on nie jest przypadkiem martwy?}
 {129}{}{"W³aœciwego" wyboru. Jasne. A co z woln¹ wol¹?}
 {130}{}{Brzmi wspaniale. Jak mogê siê przy³¹czyæ?}
 {131}{}{Jasne. Mam wiêcej pytañ.}
-{132}{}{Jasne. Na razie.}
+{132}{}{Tak. Na razie.}
 {133}{}{On: Wiêcej pytañ? Wiêc mamy na nie odpowiedzi! Oczywiœcie dziêki ³asce Wielkiego Ko³a.}
 {134}{}{Jak mogê siê przy³¹czyæ?}
 {135}{}{Co czyni was s³awnymi?}
@@ -57,7 +57,7 @@
 {156}{}{Ona: Oœmielasz siê nazywaæ Centrum (niech jego imiê bêdzie œwiête) wariatem? W fortecy poœwieconej jego badaniom? On: Wynoœ siê st¹d. Je¿eli bêdziesz próbowaæ z kimœ porozmawiaæ, zginiesz na miejscu. Istoto Niewierna. Oboje: W koñcu przestaniesz tu psuæ powietrze.}
 {157}{}{Mo¿e lepiej, je¿eli ja wykonam pierwszy krok. I tak nie znoszê waszych filmów. Obejrzyjmy sobie scenê œmierci.}
 {158}{}{Wasze filmy s¹ do dupy. Spadajcie.}
-{159}{}{¯egnam.}
+{159}{}{Pa.}
 {160}{}{Ona: Neurodyny s¹ esencj¹ dusz zniszczonych w czasie Wielkiej Wojny, zatruwaj¹ twoj¹ esencje duchow¹ i prowadz¹ ciê na manowce. On: Je¿eli chcesz dowiedzieæ siê wiêcej o naszych naukach, musisz do³¹czyæ do naszego koœcio³a.}
 {161}{}{Tak, to brzmi fascynuj¹co.}
 {162}{}{By³o mi wiadome, ¿e to science fiction, ale nie ¿e a¿ tak. Centrum musia³ byæ ca³kiem niez³ym wariatem.}
@@ -76,14 +76,14 @@
 {175}{}{Mo¿e to ja najpierw was zastrzelê.}
 {176}{}{Zmywam siê st¹d.}
 {177}{}{On: To twoja ostatnia szansa na zmianê zdania. Ona: By³oby nam bardzo przykro, gdyby musia³o ci siê staæ coœ z³ego.}
-{178}{}{Pieprzcie siê.}
+{178}{}{Wal siê.}
 {179}{}{Dobrze. Jak mogê siê przy³¹czyæ?}
 {180}{}{Coœ z³ego zaraz przytrafi siê WAM.}
 {181}{}{Nie. Zaryzykujê. ¯egnajcie.}
 {182}{}{On: Zrobiliœmy wszystko, co mogliœmy dla ciebie uczyniæ. Ona: Powodzenia w twojej podró¿y.}
-{183}{}{Czeœæ!}
+{183}{}{Pa!}
 {184}{}{Ona: Dave? Ten od komputerów? On: Ha ha! Co za frajer! Vikki jest moja i tylko moja! On nigdy... Przepraszam. Zdajê siê, ¿e a¿ promieniujê negatywn¹ energi¹. Chyba splami³em swoje neurodyny. Ona: [szepcze do ciebie] Dave jest ca³kiem milutki, ale tak d³ugo jak Juan jest w pobli¿u, do niczego nie dojdzie. On: Ufff. Neurodyny s¹ znów czyste.}
-{185}{}{Có¿, mam jeszcze kilka pytañ.}
+{185}{}{Có¿, mam tak¿e inne pytania.}
 {186}{}{To wszystko. Na razie.}
 {187}{}{Ona: Nie by³o tak Ÿle, prawda? On: Teraz po prostu idŸ porozmawiaæ z UKC-7, a staniemy siê towarzyszami w Centrologii! Ona: Jestem taka podniecona! On: Zawsze ciê po¿¹dam po wci¹gniêciu nowych cz³onków. Ona: Och, kochanie... On: Och, z³otko...}
 {188}{}{...Wrócê póŸniej.}
@@ -126,10 +126,7 @@
 {225}{}{Nie, chcemy wam POMÓC.}
 {226}{}{I na tym w³aœnie polega Centrologia.}
 {227}{}{[Oklaski.]}
-
 {228}{}{. Mam nadziejê, ¿e twoje oœwiecanie odbywa siê pomyœlnie. Ona: Mamy takie... du¿e... nadzieje zwi¹zane z tob¹.}
-
 {229}{}{Lekcja 1: Tutaj jest wiecznoœæ, Wielkie Ko³o. [wskazuje na coœ] A tutaj jesteœmy my. [wskazuje na coœ innego] Teraz wszystko co musimy zrobiæ, to przejœæ naprawdê daleko i spotkaæ tam naszych gwiezdnych braci.}
 {230}{}{O rany, bêdziemy potrzebowali du¿o butów.}
-
 {231}{}{On: Teraz po prostu idŸ porozmawiaæ z UKC-7, a staniemy siê towarzyszami w Centrologii! Ona: Jestem taka podniecona! On: Zawsze ciê po¿¹dam po wci¹gniêciu nowych cz³onków. Ona: Och, kochanie... On: Och, z³otko...}

@@ -17,7 +17,7 @@
 {112}{}{Bißchen beschränkt, wie? Du. Fragen? Frag mich. Klar?}
 {113}{}{Vault 13?}
 {114}{}{GECK?}
-{115}{}{Okay.}
+{115}{}{OK.}
 {116}{}{Keine Ahnung. Das würde sogar Präsidentin Tandi ganz gerne wissen. Würde eine Menge
  Probleme lösen.}
 {117}{}{Probleme?}
@@ -30,7 +30,7 @@
 {123}{}{Ich hätte da schon zwei, drei Sachen auf Lager, wenn du wirklich interessiert bist.}
 {124}{}{Das soll wohl ein Witz sein? Nach allem, was du mit Jack angestellt hast? Sieh zu, daß du
  einen ordentlichen Job kriegst.}
-{125}{}{Zum Beispiel?}
+{125}{}{Wie zum Beispiel?}
 {126}{}{Nein, laß uns einfach das Thema wechseln.}
 {127}{}{Egal, ich hab's mir anders überlegt. Bis dann.}
 {128}{}{Nix Vault 13. Vault 15, ja.}
@@ -49,10 +49,10 @@
 {138}{}{Tandi große Chefin. Tandi brauchen Hilfe. Du reden mit Tandi. Gehen zu Kon-greß-haus.
  Okay?}
 {139}{}{GECK?}
-{140}{}{Okay.}
+{140}{}{OK.}
 {141}{}{Nix GECK. Ich gesund. Nix krank.}
 {142}{}{Vault 13?}
-{143}{}{Okay}
+{143}{}{OK.}
 {144}{}{Sieh dich um. Die NCR ist im Wachsen. Wir brauchen Ersatzteile, Computer, alles Mögliche.
  Das Problem gibt es, seit diese Siedler in Vault 15 eingezogen sind.}
 {145}{}{Vault 15? Siedler? Was geht da vor?}
@@ -65,16 +65,13 @@
 {150}{}{Hmm. Das ist kein Zuckerlecken, würd ich sagen.}
 {151}{}{Dich? Hmmm.... nein, das geht nicht. Ich kenn dich ja gar nicht - am besten wär's, wenn
  du einfach selber zu ihr hingehst. Ihr Büro ist in der Kongreßhalle.}
-{152}{}{Danke. Das mach ich.}
+{152}{}{Danke. Werd ich tun.}
 {153}{}{Weißt du was von einem GECK?}
 {154}{}{Ist ja furchtbar nett von dir, Fremdling - und auch verdammt frech. Ich hab überhaupt
  keine Ahnung, wer du bist und woher du kommst und ich muß sagen, rein äußerlich gefällst du mir
  ganz und gar nicht. Ich empfehle dich überhaupt niemandem. Und jetzt muß ich weiterarbeiten.}
-{155}{}{Da wäre dieser Duppo bei den Viehzüchtern. Der stellt die Leute für die Brahmin-Touren
- ein. Und dann gäbe es da noch Mr. Westin. Kannst ihm sagen, daß ich dich geschickt habe. Sogar
- Präsidentin Tandi sucht nach Leuten.}
-{156}{}{Duppo beim Viehzüchter-Verband sucht händeringend nach Leuten für die Brahmin-Touren.
- Versuch's mal bei ihm.}
+{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
+{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{Westin?}
 {158}{}{Präsidentin Tandi?}
 {159}{}{Muß los.}
@@ -104,9 +101,6 @@
 {174}{}{Tandi?}
 {175}{}{Ich nehm das mal so als Hinweis.}
 {176}{}{Ich weiß nichts von mehr Arbeit.}
-{177}{}{Duppo vom Viehzüchter-Verband behandelt die Sachen zwecks Brahmin-Trieb. Präsidentin
- Tandi sucht Hilfe.}
-{178}{}{Würde jeder eurer Statur, die Stadt verlassen, gäbs weniger Suche nach Arbeit.} 
-{179}{}{Duppo vom Viehzüchter-Verband behandelt die Sachen zwecks Brahmin-Trieb. Versuchs bei
- Ihm. Dann ist da noch Mr. Westin. Wenn du mit Ihm sprechen solltest, sag ihm, das ich dich 
- geschickt habe.}
+{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
+{178}{}{Würde jeder eurer Statur, die Stadt verlassen, gäbs weniger Suche nach Arbeit.}
+{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}

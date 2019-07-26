@@ -1,98 +1,60 @@
-# 0. QUICK LOOk
 {100}{}{Tu vois Mason.}
-
-# 0. LOOk
 {150}{}{Tu vois un homme d'âge moyen à la forte carrure et à la calvitie naissante.}
 {151}{}{Tu vois Mason. Il te regarde avec attention.}
-
-# 1. FLOAT (WTG)
 {200}{}{Que fais-tu là ?}
-
-# 2. FLOAT: PLAYER IS TRAVELING WITH COMPANIONS (WTG)
 {205}{}{Regarde-moi cet assortiment de trous du cul.}
-
-# 3. FLOAT: PLAYER TOUCHES DOOR, PERMISSION = FALSE (WTG)
 {210}{}{Touche cette porte encore une fois, et j'te transforme en torche.}
-
-# 4. FLOAT/CLICK: PERMISSION = TRUE (WTG)
 {215}{}{Tu peux rentrer... pour CETTE fois.}
-
-# 5. INTRO (WTG)
 {220}{}{T'as pas choisi le bon endroit, tribal. Enflure.}
 {221}{}{T'es pas dans un studio porno. Enflure.}
 {222}{}{Que fais-tu là, gros dur ? T'as pas trouvé le ring ? Tire-toi.}
 {223}{}{Sois malin.}
 {224}{}{Echpliquer michion.}
-{225}{}{[Tu pars]}
+{225}{}{[Partir]}
 {226}{}{Il y a quoi derrière cette porte ?}
 {227}{}{Je veux voir M.Salvatore.}
 {228}{}{Puis-je te demander où tu as eu ces pisto-lasers ?}
 {229}{}{Le bruit court que vous avez empoisonné le gosse Wright.}
 {230}{}{D'accord, je m'en vais.}
-
-# 6. GET SMART (5)
 {240}{}{Casse-toi, débile. J'vais pas l'redire.}
 {241}{}{Me redire KOUA ?}
-
-# 7. I WANT TO SEE M. SALVATORE (5, 11)
 {250}{}{La vie est pleine de déceptions. Alors DEGAGE, compris ?}
 {251}{}{[Sarcastique.] Derrière cette porte ? Celle-là ? C'est la chambre de M.SALVATORE. Maintenant CASSE-toi.}
 {252}{}{Je veux voir M.Salvatore. Je veux du travail.}
 {253}{}{Ecoute, tête de chiotte... Je suppose que tu veux pas perdre ton boulot ? J'ai des infos sur une des autres familles de Reno qui vont intéresser M.Salvatore. Alors laisse-moi lui parler TOUT DE SUITE.}
 {254}{}{Où as-tu trouvé ces pisto-lasers ?}
-
-# 8. LOOk, DIPSHIT ... (FAILED) (7)
 {265}{}{}
 {266}{}{Mec, tu dois être plus con qu'une MERDE pour me parler comme ça. Encore un mot, juste UN, et t'es une torche.}
 {267}{}{Pétasse, tu dois être plus conne qu'une MERDE pour me parler comme ça. Encore un mot, juste UN, et t'es une torche.}
 {268}{}{Je veux voir M.Salvatore, j'ai DIT.}
 {270}{}{[Tu pars tranquillement]}
-
-# 9. LOOk, DIPSHIT ... (SUCCEEDS) (7)
 {275}{}{[Il rougit et commence soudain à parler.] Excusez-moi, M.Salvatore, c'est Mason. }
 {276}{}{Cet... homme... dit qu'il sait quelque chose qui vous intéresse.}
 {277}{}{Cette... femme... dit qu'elle sait quelque chose qui vous intéresse.}
 {278}{}{[Tu attends]}
 {279}{}{[Tu attaques Mason avant qu'il ne puisse continuer]}
-
-# 10. I WANT TO SEE M. SALVATORE. I WANT A JOB. (7)
 {285}{}{Ecoute, t'as p't'être mal ENTENDU, tribal, mais t'es chez Salvatore. MON boulot c'est de m'assurer que le patron soit pas dérangé par des chiens de ton espèce. Va retrouver ta tribu et bouffer un de tes potes.}
-
-# 11. WHERE DO YOU GET THOSE LASER PISTOLS? (5, 7, 10)
 {295}{}{Ces pistolets ? Ah, je sais pas trop. J'ai complètement oublié. [Il te jette un regard mauvais.] Ecoute, tribal. Si tu mets pas les voiles tout de suite, j'vais te transformer en torche. Allez.}
 {298}{}{Ok ! J'y vais, j'y vais.}
-{299}{}{[Tu pars sans faire d'histoires]}
-
-# 12. FINAL STRAW (6, 8)
+{299}{}{[Pars sans faire d'histoires]}
 {305}{}{J't'avais PREVENU, maintenant trou du'c, tu vas... [Mason s'interrompt soudain. Il écoute quelque chose que tu n'entends pas, puis se met à serrer les dents.] M.Salvatore dit que tu peux entrer...}
-{1305}{}{.}
 {306}{}{Oh, je vais entrer, d'accord. Une fois que je me serai débarrassé de toi.}
 {307}{}{Merci, trou du'c. Je ferai part de ta conduite à M.Salvatore, tu peux compter là-dessus.}
-{308}{}{Bon, très bien.}
-
-# 13. WARNING ABOUT M. SALVATORE BEFORE GOING IN (56)
+{308}{}{D'accord.}
 {315}{}{[Mason t'arrête.] Ecoute... [Il se rapproche, baisse la voix.] ... quelques règles de base, mec.}
 {316}{}{Ecoute... [Il se rapproche, baisse la voix.] ... quelques règles de base, ma fille.}
 {317}{}{Fais pas perdre son temps à M.Salvatore, et lui raconte pas de conneries, ou tu auras affaire à moi.}
 {318}{}{Compris.}
 {319}{}{Ouais, ouais, c'est ça. Hors de ma vue.}
-
-# 14. WARNING ABOUT M. SALVATORE BEFORE GOING IN (13)
 {325}{}{[Mason t'arrête de nouveau.] J'ai pas FINI. Tu lui montres du RESPECT. Tu l'appelles *M.Salvatore*, et quand il parle, *tu la fermes et t'écoutes*. Compris ?}
 {327}{}{C'est ta dernière chance, Mason : tire-toi de là.}
-
-# 15. WARNING ABOUT M. SALVATORE BEFORE GOING IN (14)
 {335}{}{Un jour, il faudra que je t'aide à résoudre ton problème avec l'autorité.}
 {336}{}{J'ai pas de problème. Tout va très bien.}
 {337}{}{Vas-y.}
-
-# 16. PATIENCE = 0 (5, 7, 10, 13, 14, 15, 17, 18, 19, 20, 21, 22, 27, 30, 34, 35, 36, 42, 53, 56, 57, 58, 59)
 {345}{}{Ok, tu me les gonfles, enflure ! T'as dépassé les bornes... [Il fait craquer ses doigts.] Maintenant tu vas avoir mal.}
 {346}{}{Malle ? Louis Malle ?}
-{347}{}{C'est la fête.}
+{347}{}{Maintenant, on danse.}
 {348}{}{Non, c'est TOI qui vas avoir MAL ! Tu M'ENTENDS, MASON ?! C'EST TOI QUI VAS AVOIR M --}
-
-# 17. MISSION ONE LLOYD = MASON (WTG)
 {355}{}{C'est pas trop tôt, mec. }
 {356}{}{C'est pas trop tôt, ma fille. }
 {357}{}{C'est pas trop tôt. J'sais pas pourquoi M.Salvatore loue des trucs pornos, mais j'vais pas lui poser des questions là-dessus. }
@@ -105,39 +67,23 @@
 {365}{}{Je peux le faire. Recule et laisse-moi bosser maintenant.}
 {366}{}{Ca y est, j'ai déjà réglé le *problème* de Lloyd.}
 {367}{}{C'était qui le donneur à la table où Lloyd a gagné son argent ?}
-
-# 18. QUESTION NODE? (19, 20, 21, 22, 23, 24, 25, 26)
-{375}{}{Ouais ? Quelles questions ?}
+{375}{}{Ouais ? Par exemple ?}
 {381}{}{C'est tout ce que je dois savoir. Merci, Mason.}
 {382}{}{C'est tout ce que je dois savoir. Recule et laisse-moi bosser maintenant, Mason.}
-
-# 19. WHERE CAN I FIND LLOYD? (17, 18)
 {390}{}{Il est descendu bien bas, et c'est TOI qui vas te charger de le retrouver, mec.}
 {391}{}{Il est descendu bien bas, et c'est TOI qui vas te charger de le retrouver, ma fille.}
 {392}{}{Mon avis ? Va voir les bars de la rue de la Vierge. Lloyd pourrait y fomenter un nouveau coup fourré.}
 {393}{}{J'ai d'autres questions...}
-
-# 20. WHAT DOES LLOYD LOOk LIKE? (17, 18)
 {400}{}{Lloyd ? Ben... Taille moyenne, blanc, cheveux châtains. La dernière fois que j'l'ai vu, il avait une chemise et une écharpe marron. Il s'est sûrement pas changé depuis.}
 {401}{}{Cette description correspond à beaucoup de ceux que j'ai vus depuis que j'ai quitté Arroyo. }
-
-# 21. SIMILAR MODELS (20)
 {410}{}{Hé ! J'te l'fais pas dire. Les noms sont le seul moyen de distinguer les gens. A croire qu'il n'y a que dix physiques différents. [Il se penche vers toi.] A mon avis, y'a eu un gros accident de clonage dans le passé.}
-
-# 22. HOW MUCH DID HE STEAL? (17, 18)
 {420}{}{Environ un millier de jetons. Alors écoute, même si ça ne vaut pas grand-chose pour M.Salvatore, il a ses principes : souviens-toi que tout ce que tu prends à M.Salvatore, tu devras lui rendre, jusqu'au dernier jeton.}
-
-# 23. WHY AREN'T YOU TRACKING DOWN LLOYD? (17, 18)
 {430}{}{J'ai bien regardé, mais Lloyd a fait gaffe à pas se montrer... Pas devant un Salvatore, en tous cas. Je parie que le patron pense que tu pourrais avoir plus de chance, vu que tu viens d'arriver dans le coin.}
 {431}{}{Ouais, comme tu veux. J'me ça --}
 {432}{}{J'avais d'autres qu --}
 {433}{}{D'accord, je vais vérifier --}
-
-# 24. CHILL. I WAS JUST CURIOUS. (57)
-{440}{}{Bon, très bien.}
+{440}{}{D'accord.}
 {442}{}{C'est tout ce que je dois savoir. Recule et laisse-moi bosser maintenant.}
-
-# 26. YOU FOUND LLOYD? (WTG)
 {465}{}{T'as trouvé Lloyd ?}
 {466}{}{[Il te jette un regard mauvais.] Tu ferais MIEUX d'avoir de bonnes nouvelles. T'as trouvé Lloyd ?}
 {467}{}{[Il te jette un regard mauvais.] Tu ferais MIEUX d'avoir de bonnes nouvelles pour M.Salvatore ou tu vas finir avec les radscorpions.}
@@ -145,42 +91,26 @@
 {470}{}{Ouais, j'ai trouvé Lloyd.}
 {472}{}{Non, je crois qu'il a quitté la ville avec le fric.}
 {473}{}{Pas encore. Je m'excuse.}
-
-# 27. LAST TIME (18, 19, 20, 21, 22, 24, 25, 26, 57)
 {480}{}{Attends une minute, enflure. Je vais être TRES clair pour que tu puisses me suivre : t'avise pas de me parler tant que t'as pas retrouvé Lloyd ou j'vais péter les plombs. Fais ton BOULOT.}
 {481}{}{D'accord, d'accord...}
 {482}{}{Vas-y, Mason.}
-
-# 28. LAST TIME (26)
 {490}{}{Je t'avais DIT de pas revenir tant que t'aurais pas trouvé Lloyd... [Il se tape la tête.] T'es stupide ou quoi ?! Ca doit être ça, vu que te ramènes ici. Stupide... Mais pour l'ETERNITE.}
 {491}{}{On y va, trou du cul.}
-{492}{}{Amène-toi.}
+{492}{}{Vas-y.}
 {493}{}{Non, c'est TOI le STUPIDE POUR l'ETERNITE ! Tu M'ENTENDS, MASON ?!! C'est TOI QUI EST STU --}
-
-# 29. NO, HE LEFT TOWN WITH THE CASH (26)
 {500}{}{[Il te fixe d'un regard incrédule.] T'as tout foiré. On t'a donné un boulot tout simple, et TU... LE... FOIRES.}
 {501}{}{T'es bien le PLUS CON des fils de pute sur Terre.}
 {502}{}{T'es bien la PLUS CONNE des salopes sur Terre.}
 {503}{}{[Il ricane et attrape ses armes.] C'est ton heure, tribal.}
 {506}{}{Non, c'est TOI qui vas MOURIR ! Tu M'ENTENDS, MASON ?!! C'EST TOI QUI VAS MOU --}
-
-# 30. SUCCESS (26)
 {514}{}{Alors, pourquoi ne l'as-tu pas dit TOUT de suite, imbécile ? Va dire à M.Salvatore ce que tu as trouvé.}
 {515}{}{[Il hoche la tête et fronce légèrement les sourcils.] Bon, d'accord... Va dire à M.Salvatore ce que tu as trouvé.}
 {516}{}{Oh, VRAIMENT ? C'est CA que je dois faire ? Merci, Mason. Sans toi, je saurais même pas comment aller d'un endroit à un autre. Pfffff. Idiot.}
 {517}{}{D'accord.}
-
-# 31. FLOAT MESSAGE: DONE JOB? (WTG)
 {520}{}{T'as fini le boulot ?}
-
-# 32. FLOAT MESSAGE: GO SEE THE BOSS (WTG)
 {525}{}{Va voir M.Salvatore. Il t'attend.}
-
-# 33. TRIBUTE = MASON (WTG)
 {530}{}{Bon. Tu vas te transformer en agence de recouvrement. C'est simple : tu vas à la pharmacie de Renesco, dans l'Ouest de la ville, tu récupères le tribut, 1000 jetons, et tu le ramènes.}
 {531}{}{D'accord... Autre chose ?}
-
-# 34. RETURN FROM RENESCO (WTG)
 {535}{}{T'as récupéré le tribut ?}
 {536}{}{[Il fronce les sourcils.] T'as récupéré le tribut ?}
 {537}{}{[Il te jette un regard mauvais.] Tu ferais MIEUX d'avoir l'argent cette fois, tête de chiotte. M.Salvatore attend.}
@@ -190,146 +120,82 @@
 {543}{}{Ouais, mais j'ai pas l'argent sur moi...}
 {544}{}{Presque. Je l'aurai la prochaine fois, Mason.}
 {546}{}{J'ai ton tribut ici-même... Crève.}
-
-# 35. RENESCO'S? (34)
 {555}{}{*La pharmacie de Renesco*. Dans l'Ouest de la ville. Mille jetons. Maintenant vas-y.}
 {556}{}{C'est tout ce que je dois savoir. Recule et laisse-moi bosser maintenant, Mason.}
-
-# 36. WARNING (34, 35, 38, 39, 59)
 {565}{}{Attends une minute, enflure. Je vais être TRES clair pour que tu puisses me suivre : je veux pas te voir tant que t'auras pas récupéré cet argent chez Renesco ou je pète les plombs. Maintenant fais ton BOULOT.}
-
-# 37. LAST TIME (34)
 {575}{}{Je t'avais DIT de pas revenir tant que t'aurais pas cet argent... [Il se tape la tête.] T'es stupide ou quoi ?! Ca doit être ça, vu que te ramènes ici. Stupide... Mais pour l'ETERNITE.}
-
-# 38. RENESCO'S GIVING ME SHIT. (34)
 {585}{}{[Mason plisse les yeux.] Alors résidu de fausse couche ? Tu lui as dit pour qui tu travaillais ?}
 {586}{}{Oui.}
 {587}{}{Eh bien, non.}
-
-# 39. YES. (38)
 {595}{}{Tu lui as MONTRE pour qui tu travaillais ?}
 {596}{}{Lui montrer ?}
 {598}{}{Heu, non. Je l'aurais la prochaine fois, Mason.}
-
-# 40. NO. (38, 39)
 {605}{}{Quoi, faut que j'te prenne par la MAIN ?! Le putain de boulot le plus simple et tu viens encore pleurer « Ma-son, Ma-son, truc y veut pas payer son tribut. »}
 {606}{}{Attends un peu...}
-
-# 41. IF PLAYER KILLED RENESCO. (WTG)
 {615}{}{[Mason te voit et ricane..] Exactement l'abruti d'enculé de sa mère que je cherchais.}
 {617}{}{Impossible de récupérer un tribut auprès de cadavres. [Il attrape ses armes.] T'es naze et pour de BON.}
 {618}{}{Ouais, bon, tu commençais à me fatiguer de toute façon...}
 {619}{}{Non, c'est TOI qu'es NAZE ET POUR DE BON ! Tu M'ENTENDS, MASON ?! C'EST TOI QU'ES NAZE PUTAIN ET POUR DE --}
-
-# 42. PLAYER GOT MONEY. (34)
 {625}{}{[Mason baisse la tête, déçu.] Hé. J'pensais bien qu'on saignerait l'vieux Renesco. Bon d'accord, bien... Apporte ça au patron. [Il fronce les sourcils.] Vas-y maintenant.}
-
-# 43. GET THE HELL OUTTA HERE. (WTG)
 {635}{}{Sors de là. M.Salvatore ne souhaite plus faire affaire avec toi.}
-
-# 44. GUARD = MASON (WTG)
 {640}{}{Ok d'accord, le patron dit que t'es des nôtres pour une petite TRANSACTION qu'on va faire. Oublie pas de venir bien armé... et pas avec des sarbacanes... Après tu reviens me voir.}
 {642}{}{M.Salvatore a dit que tu devais me donner un pisto-lasers.}
 {643}{}{Quelle est cette transaction que nous allons effectuer ?}
 {644}{}{On peut y aller tout de suite. On va le faire.}
 {645}{}{Donne-moi du temps pour me préparer, je reviens.}
-
-# 45. SALVATORE SAID YOU WERE GOING TO GIVE ME A LASER PISTOL. (44, 46, 49)
 {655}{}{Ouais, j'avais cru comprendre. Voilà... Mais t'amuse pas avec. Tu fais mal à un SEUL type avec ce truc, et je t'abats.}
 {656}{}{Peux-tu m'apprendre comment l'utiliser ?}
 {658}{}{Bon d'accord, on peut y aller. On va le faire.}
-
-# 46. WHAT IS THIS TRANSACTION WE'RE DOING? (44, 45, 49, 51, 52)
 {665}{}{[Il ricane.] Si le patron te l'a pas dit, c'est que tu dois pas savoir. Alors tu la fermes... et tu parles à personne de tout ça, sinon je m'engage à ce que tu parles plus jamais.}
-
-# 47. I'M READY TO GO RIGHT NOW. (45, 46, 49, 51, 52)
 {675}{}{Allez, on y va.}
 {676}{}{[Tu les suis, lui et les autres Salvatore, dans le désert]}
-
-# 48. GIVE ME SOME TIME TO GET READY ... (44, 45, 46, 49, 51, 52)
 {685}{}{Et surtout dépêche-toi. On n'a que 24 heures pour faire ça. Si tu arrives trop tard, je m'engage à ce que tu pourrisses sur le Golgotha.}
 {686}{}{Ne t'inquiète pas. J'y serai.}
-
-# 49. RETURN ... (WTG)
 {695}{}{T'as assez dormi ? MAINTENANT on pourrait peut-être y aller ?}
 {696}{}{C'est quoi déjà cette transaction qu'on va mener ?}
-{697}{}{Oui. On y va.}
+{697}{}{Oui. Allons-y.}
 {698}{}{J'ai besoin d'un peu plus de temps, et je reviens.}
 {699}{}{Peux-tu m'apprendre comment utiliser ce pistolet ?}
-
-# 50. RETURN LATE ... (WTG)
 {705}{}{Ca fait LONGTEMPS que ça me démange de te tuer... J't'avais PREVENU de ce qui arriverait si t'étais en retard.}
 {706}{}{Ouais, excuse-moi mais j'ai pas de putain de montre.}
 {707}{}{Non, c'est TOI qui étais PREVENU ! Tu M'ENTENDS, MASON ?!! C'EST TOI QUI ETAIT PRE --}
-
-# 51. WHY DO I NEED ... (52)
 {715}{}{Pourquoi faut-il que tu discutes tout ce que je dis ?!! Ecoute : l'AUTRE partie dans cette transaction va pas être impressionnée par ces pisto-lasers, Ok ? Alors oublie pas d'amener AUTRE chose.}
-
-# 52. CAN YOU TEACH ME ... (45, 49, 51)
 {725}{}{[Il grogne.] C'est pas vrai... Ecoute, d'abord, tu le tiens comme CA. [Il corrige ta prise.] Bon, le chargeur est là... [Une heure d'entraînement plus tard, Mason a amélioré tes compétences avec les armes à énergie.]}
 {726}{}{Et pourquoi ai-je besoin d'autre chose ? Ces pistolets semblent plutôt puissants.}
 {728}{}{Bien, on peut y aller. On va le faire.}
 {729}{}{D'accord. Donne-moi du temps pour me préparer, je reviens.}
-
-# 53. MADE MAN. (WTG)
 {735}{}{[Il grogne.] Hé, là...}
 {736}{}{Tu prends les objets.}
-
-# 54. MADE MAN 2. (53)
 {745}{}{Nous les Salvatore... Nous avons un ARRANGEMENT spécial avec Miss Kitty au Cat's Paw. Et avec Eldridge à l'armurerie... et chez Renesco. [Il te fait un clin d'oeil.] Amuse-toi.}
 {746}{}{Merci, Mason.}
 {747}{}{Ca alors, Mason, merci... Sauf que la prochaine fois, tu m'appelleras « Monsieur ». Ca me plairait. HA HA HA HA...}
 {748}{}{Ca alors, Mason, merci... Sauf que la prochaine fois, tu m'appelleras « Madame ». Ca me plairait. HA HA HA HA...}
-
-# 55. MADE MAN 2. (WTG)
 {755}{}{Bonjour... Monsieur.}
 {756}{}{Bonjour... Madame.}
-
-# 56. LOOk, DIPSHIT ... (SUCCEEDS) (9)
 {765}{}{[Mason s'interrompt, il écoute quelque chose que tu n'entends pas. Après un moment, il serre les dents.] M.Salvatore dit que tu peux entrer, }
 {766}{}{Merci, trou de balle. Je ne manquerai pas de parler de tes bonnes manières à M.Salvatore.}
-
-# 57. WHY AREN'T YOU TRACKING DOWN LLOYD? (23)
 {775}{}{[Il plisse les yeux.] Si tu sous-entends que je fais pas mon BOULOT, on peut avoir une petite discussion en tête à tête tous les deux. M.Salvatore demandera pas ce qu'est arrivé à une sale hyène comme toi.}
 {776}{}{Je ne sous-entends pas que tu ne fais pas ton boulot, tête de noeud. Je te le DIS.}
 {777}{}{Relax. Je voulais juste savoir.}
 {778}{}{Cette conversation commence à m'ennuyer. Je me tire.}
-
-# 58. EXTORTION ASSIGNMENT (33)
 {785}{}{Laisse pas ce papy te raconter des conneries... S'il ose, dis-lui que tu travailles pour M.Salvatore. Ca devrait dissiper tous les malentendus. T'as compris ?}
 {786}{}{Compris. Recule et laisse-moi bosser maintenant.}
-
-# 59. NO 2. (40)
 {795}{}{Fais-toi pousser des COUILLES, mec, et *fais le boulot*.}
 {796}{}{J'aurais dû m'y attendre, en envoyant une femme pour un boulot d'homme. Arrête de *gueuler* et *fais le boulot*.}
 {797}{}{Je vais m'en occuper. Merci, Mason. Ton aide a été DETERMINANTE.}
 {798}{}{Je vais m'en occuper.}
 {799}{}{Oh, je vais m'en occuper. En commençant par toi.}
-
-# 60. IF SALVATORE WAS ASSASSINATED (WTG)
 {805}{}{Pauvre M.Salvatore... Il se faisait vieux. Il a finalement rendu son dernier soupir.}
 {806}{}{<Sniff...> M.Salvatore... C'était un père pour moi.}
 {807}{}{J'aimais ce vieux paralytique. Il est mort maintenant, et il ne saura jamais ce que j'éprouvais.}
-
-# 61. IF PC KILLED RENESCO BEFORE TALKING TO MASON (WTG)
 {815}{}{[Il te voit et ricane.] J'ai entendu dire que Renesco a eu un *accident*. D'après la rumeur, tu aurais une part de responsabilité. Pour information, il était des NOTRES, tribal. Tu as une dette... Une dette de sang.}
 {818}{}{Non, c'est TOI qui vas PARTIR ! Tu M'ENTENDS, MASON ?!! C'EST TOI QUI VAS PAR --}
-
-# 62. ACCUSE MURDER (5, 7, 10)
 {825}{}{[Le visage de Mason se pétrifie, et il cherche à prendre ses armes.]}
 {826}{}{Je pense pas que tu ME tueras aussi facilement que t'as empoisonné ce gamin...}
-
-# 63. TRADE DISRUPTED (WTG)
 {835}{}{Peu importe. Ce boulot a été annulé. Va-t'en.}
-
-# 64. GO SEE THE BOSS
 {840}{}{Content de te revoir après tout ce temps. Le patron veut te voir.}
-
-
-# END LINES
-{5735}{}{. M.Salvatore nous a mis au courant de ta promotion. Bravo. J'ai des trucs pour toi... Voyons voir... [Il te tend une brassée d'objets.] Fais gaffe...}
-{5765}{}{.}
-
-# Expansion pack - killap (Nikki lines)
 {900}{}{Son nom c'est Nikki. Elle est en bas dans l'arrière-salle. [Mason regarde au loin derrière toi.] Bordel, elle a vraiment un cul parfait.}
 {901}{}{J'ai d'autres questions...}
+{1305}{}{.}
+{5735}{}{. M.Salvatore nous a mis au courant de ta promotion. Bravo. J'ai des trucs pour toi... Voyons voir... [Il te tend une brassée d'objets.] Fais gaffe...}
+{5765}{}{.}

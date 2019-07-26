@@ -23,7 +23,6 @@
 {119}{}{Ah, schön Sie kennenzulernen, Herr Großer Ana...irgendwas.}
 {120}{}{Hm, Mysterien lassen mich immer schlecht schlafen, ich gehe jetzt besser. Auf Wiedersehen.}
 {121}{}{Trete nur näher!}
-
 {127}{}{Heute habe ich im Innern dieses Raumes, exklusiv für ihre Augen, eine wahrhaftige ägyptische Mumie!}
 {128}{}{Eine Mumie?}
 {129}{}{Eine Mumie? Hm, ich frage mich, ob es wohl.... Nein, niemand wäre so dumm.}
@@ -59,20 +58,15 @@ stößt einen Schrei aus und rennt zur Tür, wobei seine Mumienverpackung eine Spur
 {156}{}{Einköpfiges Brahmin? Klar, wer würde das jemals glauben! Auf Wiedersehen, Du Scharlatan.}
 {157}{}{Du hast Woody den Ghul aufgeweckt und ihn von seiner vertraglichen Verpflichtung als Mumie befreit.}
 {158}{}{Ich glaube, ich möchte lieber die Geistergeschichte hören.}
-
-{200}{}{Ich weiß Dinge, die sonst kein Sterblicher wissen darf. Aiiieeee! Nyarloth... Oh, Entschuldigung (he, he). Für einen Moment ist es mit mir durchgegangen. Ich kenne Geschichten von einem Geist, der sich in genau diesen Gebieten herumtreibt sowie eine wahrhaftige ägyptische Mumie, die Du hier in diesem unglaublichen Sarkophag bewundern kannst.} 
-
-
+{200}{}{Ich weiß Dinge, die sonst kein Sterblicher wissen darf. Aiiieeee! Nyarloth... Oh, Entschuldigung (he, he). Für einen Moment ist es mit mir durchgegangen. Ich kenne Geschichten von einem Geist, der sich in genau diesen Gebieten herumtreibt sowie eine wahrhaftige ägyptische Mumie, die Du hier in diesem unglaublichen Sarkophag bewundern kannst.}
 {201}{}{Erzähl mir von der Mumie. Ich sterbe vor Spannung.}
 {202}{}{Ich habe mir gerade schon diese Geistergeschichte angehört. Äh, bekomme ich dazu eine schöne heiße Tasse Kakao?}
 {203}{}{Ich glaube, ich möchte keine Sekunde länger mit Deinen Geschichten verschwenden.}
-
 {300}{}{Tja, Du mußt wissen, (er winkt Dich näher heran) einst   gab es eine mächtige Königin, die über diese Stadt und das gesamte Umland regierte. Sie behauptete ihren Thron mit der Kraft eines besonderen Amuletts, welches sie stets um ihren Hals trug.
  Gute Geschichte, was?}
 {301}{}{Äh, ja. Darauf kannst Du wetten. Diese Prinzessin hatte also ein *magisches* Amulett. Oh, erzähl weiter. Ich kann diese Spannung nicht mehr ertragen
  (gähn).}
 {302}{}{OK. Ich glaube, ich habe jetzt genug gehört. Auf Wiedersehen.}
-
 {400}{}{Naja, ich verkürze das Ganze dann mal. Also, ein böser Zauberer vergiftete die junge Prinzessin und nahm das Amulett an sich. Seitdem wandert sie im Zimmer nebenan umher.
  Tja, äh, auf jeden Fall passiert das immer genau zur Geisterstunde. Darum halte ich die Tür immer verschlossen.
  Ganz schön angsteinflößend, was?}

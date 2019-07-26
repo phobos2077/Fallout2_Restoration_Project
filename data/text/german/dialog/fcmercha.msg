@@ -1,5 +1,5 @@
-{100}{}{Du siehst eine Händlerin.}
-{101}{}{Du siehst eine Händlerin.}
+{100}{}{Du siehst einen Händler.}
+{101}{}{Du siehst einen Händler.}
 {102}{}{Du siehst einen gestikulierenden Shi-Kaufmann. Wie alle anderen lügt er, was das Zeug
  hält.}
 {103}{}{Kauft Tintenfisch! Sehr lecker!}

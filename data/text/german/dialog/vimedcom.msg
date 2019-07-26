@@ -82,11 +82,11 @@
  ziehen, das Pieptöne von sich gibt. Es gelingt dir jedoch nicht, es zu öffnen. Schließlich wird
  es dir zu langweilig und du läßt den Kasten in Ruhe.}
 {202}{}{Geh woanders hin.}
-{203}{}{Biep.}
+{203}{}{*Piep*}
 {204}{}{Biep. Biiieeee-eep.}
 {205}{}{Dwiiieeeee-eep.}
-{206}{}{Biiee-eep}
-{207}{}{Biep.}
+{206}{}{*Pip-piiiep*}
+{207}{}{*Piep*}
 {208}{}{PING!}
 {209}{}{Tut mir leid, Dave. Ich schaffe das nicht.}
 {210}{}{Gefahr! Will Robinson!}

@@ -12,4 +12,3 @@
 {1200}{}{Tu livres le repas de Smitty.}
 {1300}{}{Tu as trouvé une faiblesse dans le gang de Tyler.}
 {1400}{}{Tu as obtenu la permission pour le gang de Lara d'attaquer.}
-

@@ -15,7 +15,7 @@
                                        Gegenmaßnahmen Ebene 1 werden aktiviert.}
 {106}{}{Alarmstufe für Ebene 1 aufheben - Fehlalarm}
 {107}{}{[Du bemerkst eine Taste mit der Aufschrift "Hilfe" auf der Tastatur.] Taste drücken.}
-{108}{}{In Sicherheitssysteme einhacken}
+{108}{}{In Sicherheitssysteme einhacken.}
 {109}{}{Beenden}
 {110}{}{Ark! [Du schlägt völlig entnervt mit der Faust auf die Tastatur.]}
 {112}{}{Skynet-Sicherheitssysteme                                          
@@ -56,6 +56,5 @@
 {139}{}{Unbefugter Zugriff.                                     
  Sicherheitssperre für Fernterminal wird eingerichtet. Benutzerzugriff auf dieses Terminal GESPERRT!}
 {140}{}{Beenden}
-
 {200}{}{Computer befindet sich im Diagnosemodus. Bitte warten, bis die Diagnoseroutine
  abgeschlossen ist.}

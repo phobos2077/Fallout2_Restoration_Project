@@ -18,7 +18,7 @@
 {108}{}{Warum sollte ich dir helfen?}
 {109}{}{Okay, ich helf dir. Pfeif die Metallmonster zurück.}
 {110}{}{Uff. Verdammter Computer!}
-{111}{}{Beenden.}
+{111}{}{Beenden}
 {112}{}{[Du kannst nicht lesen, was auf dem Monitor steht.]}
 {113}{}{[Irgendwoher weiß Skynet, daß du ein Gehirn dabei hast.]
         In Robotiklabor begeben - Ebene 3
@@ -35,7 +35,7 @@
  Keine Programmdateien vorhanden.                               Bitte Neustart ausführen!}
 {121}{}{Fehler! Heruntergeladenes File beschädigt.}
 {122}{}{}
-{123}{}{Ug}
+{123}{}{Beenden}
 {124}{}{Beenden}
 {125}{}{[Du kannst nicht lesen, was auf dem Monitor steht.]}
 {126}{}{Ich bin Skynet
@@ -48,7 +48,7 @@
 {131}{}{Warum wolltest du mich umbringen?}
 {132}{}{Künstliche Intelligenz?}
 {133}{}{Gewartet? Auf mich?}
-{134}{}{Agh.}
+{134}{}{Beenden}
 {135}{}{Beenden}
 {136}{}{Weiter}
 {137}{}{Was willst du?}
@@ -63,7 +63,7 @@
 {146}{}{Du wirst ausgeschaltet
                                       –Übertragung abgeschlossen–}
 {147}{}{}
-{148}{}{Urk}
+{148}{}{Beenden}
 {149}{}{Beenden}
 {150}{}{[Die Tür zu dem Raum fällt mit einem lauten Knall zu. Im selben Augenblick verschwindet
  die östliche Wand und dahinter kommt eine ganz Kolonne schwerbewaffneter Roboter zum Vorschein.]}
@@ -91,8 +91,7 @@
 {166}{}{Ich kann dich hier nicht raustragen.}
 {167}{}{Skynet benötigt ein Transportmittel, um von hier wegzukommen.}
 {168}{}{Transportmittel? Das versteh ich nicht.}
-{169}{}{Du mußt dein Programm in ein Behältnis überführen, das sich besser transportieren läßt.
- Richtig?}
+{169}{}{You need a way to transfer your program into a more mobile container, correct?}
 {170}{}{Ich will nichts damit zu tun haben.}
 {171}{}{Ein Behältnis, in dem Skynet von hier wegkommt.}
 {172}{}{Warum möchtest du denn weg von hier?}
@@ -182,6 +181,5 @@
  Roboterträgerstruktur aus dem Robotiklabor auf Ebene 3 eingesetzt werden kann.}
 {228}{}{Ich helfe dir.}
 {229}{}{Ich helfe dir nicht.}
-
 {250}{}{ kann nicht lesen, was auf dem Monitor steht.}
 {300}{}{Der Computer scheint mit einer Art Abwehrmechanismus ausgestattet zu sein.}

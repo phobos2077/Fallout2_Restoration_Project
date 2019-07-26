@@ -3,7 +3,6 @@
 {102}{}{Widzisz mieszkañca miasta.}
 {103}{}{Widzisz odprê¿aj¹cego siê robotnika.}
 {104}{}{Widzisz osobê spêdzaj¹c¹ czas przy kieliszku.}
-
 {150}{}{Chyba to nie ta tawerna, co?}
 {151}{}{Nie potrzebujemy tu wagabundów.}
 {152}{}{Dzicy zawsze oznaczaj¹ k³opoty.}
@@ -24,12 +23,11 @@
 {167}{}{[W bardzo subtelny sposób pokazuje ci bardzo nieuprzejmy gest]}
 {168}{}{To pewnie ty odpowiadasz za okaleczenia bramin.}
 {169}{}{Kilku naszych myœliwych ostatnio zaginê³o. Ty pewnie jesteœ przyczyn¹.}
-{170}{}{Dooko³a miasta pe³nego jakiegoœ robactwa.}
+{170}{}{Dooko³a miasta pe³nego jakichœ skorpioludów.}
 {171}{}{W kanionie na wschód od miasta jest duch.}
 {172}{}{Nie pozwól, aby dorwa³ ciê Wêdruj¹cy Duch!}
 {173}{}{Nawet nie próbuj kraœæ naszych bramin.}
 {174}{}{Mamy na ciebie oko.}
-
 {201}{}{Mi³o widzieæ kogoœ nowego w mieœcie.}
 {202}{}{Myœlê, ¿e koniec koñców dzicy nie s¹ tacy Ÿli.}
 {203}{}{Postaw nam kolejkê!}
@@ -49,5 +47,5 @@
 {217}{}{[wznosi do ciebie kufel]}
 {218}{}{[puszcza do ciebie oczko]}
 {219}{}{Nigdy nie wêdruj w nocy.}
-{220}{}{Tam na wzgórzach jest pe³no robali.}
+{220}{}{Tam na wzgórzach jest pe³no Skorpioludów.}
 {221}{}{Jeden z naszych najlepszych traperów zagin¹³.}

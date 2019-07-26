@@ -4,7 +4,7 @@
 {103}{}{Przykro mi, nie mam nic na sprzeda¿.}
 {104}{}{Bala.}
 {105}{}{Ja to mam szczêœcie. Nie potrafisz mówiæ, prawda? No to nie powiesz nikomu gdzie jest moja dzia³ka. Bierzmy siê do wymiany.}
-{106}{}{[Handluj]}
+{106}{}{[Handluj.]}
 {107}{}{Dobra, spadaj! Tylko nie mów nikomu gdzie le¿y moja dzia³ka.}
 {108}{}{[Koniec]}
 {109}{}{Lepiej ju¿ sobie idŸ.}

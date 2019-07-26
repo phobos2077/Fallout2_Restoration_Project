@@ -25,7 +25,7 @@
 {124}{}{C'est quoi ça, le quart d'heure mondain ?}
 {125}{}{Moi, c'est Merk. Qu'est-ce que tu veux ?}
 {126}{}{Encore toi ?}
-{127}{}{Bon, un peu de courtoisie, sale punk, ou ça pourrait mal finir.}
+{127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{<Burp>}
 {129}{}{Je cherche du travail.}
 {130}{}{Les gens bien informés disent que c'est toi qu'il faut voir quand on veut parler affaires, si tu vois ce que je veux dire.}
@@ -35,14 +35,14 @@
 {134}{}{Encore toi ? Alors, le boulot est terminé ?}
 {135}{}{<Glup>}
 {136}{}{Non.}
-{137}{}{J'ai des questions à te poser.}
+{137}{}{I got some questions.}
 {138}{}{Hum... Robuste... Imbécile... Si tu veux du boulot, va parler à Mira. Compris ? Mi-ra. Là-bas.}
 {139}{}{Tu aimes faire des bruits ? Quelqu'un peut-il jeter cette bouse dehors ?}
 {140}{}{T'es débile ou quoi ? Tu crois que je vais engager n'importe qui ? Si tu veux travailler pour moi, il faut montrer ce que tu sais faire.}
 {141}{}{Et si je flinguais Lenny ? Il le mérite.}
 {142}{}{Montrer de quelle manière ?}
 {143}{}{Tu connais quelqu'un qui serait intéressé par du Jet ?}
-{144}{}{Ecoute, moi c'est } //258
+{144}{}{Ecoute, moi c'est }
 {145}{}{C'est ça, faut que je fasse mes preuves. Va te faire voir, grosse limace.}
 {146}{}{C'était ce salaud de Doofus, hein ? Ce sale junkie parle trop. Ecoute, rends-moi un service, tu le zigouilles et après on discute.}
 {147}{}{Tope là.}
@@ -70,7 +70,7 @@
 {169}{}{Tope là.}
 {170}{}{Non, je peux pas faire ça à un ami.}
 {171}{}{Je crois qu'on va pouvoir s'entendre. Voilà ce que je te propose : il y a un toubib dingo en ville, le Dr Henry. Il a des papiers que j'aimerais avoir. Je te donnerai $1 000. Mais ne lui fais pas de mal. Il est plus utile vivant que mort. Ca t'intéresse ?}
-{172}{}{C'est d'accord.}
+{172}{}{J'm'en occupe.}
 {173}{}{Non, c'est pas mon genre.}
 {174}{}{Le savoir, ça se paie. Tu me suis ?}
 {175}{}{"Le prix de la sagesse dépasse celui des rubis."}
@@ -95,18 +95,18 @@
 {194}{}{Eh bien, je suis un érudit. Quelle est ta question ?}
 {195}{}{Demande toujours.}
 {196}{}{Je cherche l'Abri 13.}
-{197}{}{As-tu déjà entendu parler d'un J.E.K ?}
+{197}{}{Ever heard of a GECK?}
 {198}{}{Que sais-tu sur un groupe nommé le Commando ?}
 {199}{}{Que sais-tu sur un gars nommé Westin ?}
 {200}{}{Je cherche des renseignements sur le vice-président Carlson.}
-{201}{}{C'est ça.}
+{201}{}{Voilà.}
 {202}{}{Cet argent te donne droit à une réponse. La prochaine question te coûtera $50.}
 {203}{}{D'accord, voilà.}
 {204}{}{J'ai toutes les données qu'il me faut.}
 {205}{}{Il se trouve que j'ai une carte de l'Abri 13. Ca fait seulement $1 000. Ca t'intéresse ?}
 {206}{}{Bien sûr. Je la prends.}
 {207}{}{Et je parie que tu me vends le pont pour m'y rendre.}
-{208}{}{Plus tard peut-être.}
+{208}{}{Peut-être plus tard.}
 {209}{}{S'il y a des stupéfiants à New Reno ? Je n'en ai jamais entendu parler.}
 {210}{}{Non. J'ai d'autres questions à te poser.}
 {211}{}{C'est tout ce que je voulais savoir.}
@@ -120,7 +120,7 @@
 {219}{}{Je crois que je n'aurai jamais le plaisir de le rencontrer. J'ai tellement entendu parler de lui.}
 {220}{}{C'est tout ce que je voulais savoir.}
 {221}{}{C'est tout ?}
-{222}{}{Non, j'ai encore quelques questions.}
+{222}{}{No, I've got some more questions.}
 {223}{}{Ouais, c'est tout pour le moment.}
 {224}{}{Hé, qui ne tente rien n'a rien. L'Abri 13, c'est presque une religion par ici. Ils ont même érigé la statue d'un crétin qui serait originaire de là-bas. C'est tout ce que je sais.}
 {225}{}{Tu m'as acheté une carte pour ça. Utilise-la.}
@@ -149,7 +149,7 @@
 {248}{}{Les jours comme aujourd'hui me rendent heureux. Bon, concluons notre affaire.}
 {249}{}{J'ai appris que l'ingénieux docteur a rendu l'âme pendant ta visite. C'était contre mes ordres. Pour dédommager les pertes afférentes, je crois qu'un remboursement s'impose.}
 {250}{}{Ecoute, je te donne $500 et on oublie toute l'affaire.}
-{251}{}{Cours toujours !}
+{251}{}{Va t'faire !}
 {252}{}{Bien, bonne chance pour la suite. Nous n'aurons plus l'occasion de nous reparler.}
 {253}{}{Ca me va.}
 {254}{}{Marché conclu, mais seulement parce que c'est toi. Un conseil : ne reviens pas de sitôt.}
@@ -160,8 +160,7 @@
 {259}{}{ ce type.}
 {260}{}{ cette nana.}
 {261}{}{Un Hubologiste est un cinglé, un fanatique religieux. On en trouve à l'église en ville.}
-{262}{}{J'y vais.}
-
+{262}{}{Je m'en vais.}
 {263}{}{Je ne te parle plus tant que le boulot n'est pas terminé ! Il me faut les papiers qui sont chez le Dr Henry, illico !}
 {264}{}{Non, mais j'ai besoin d'informations.}
 {265}{}{Je sais que la mort de Lenny a rien d'un accident, salopard.}
@@ -170,9 +169,7 @@
 {268}{}{Je te l'ai dit, je regrette que ça n'ait pas marché comme tu le voulais.}
 {269}{}{Eh, ça te dirait d'avaler cette balle pour soulager mes misères ?}
 {270}{}{<Hummphf>}
-
 {271}{}{Tu reçois }
 {272}{}{points d'expérience pour avoir récupéré les papiers du Dr Henry.}
-
 {300}{}{Où penses-tu aller ?! Essaie ça encore et je te botte le cul.}
-{301}{}{Je te préviens !}
+{301}{}{Je t'ai prévenu !}

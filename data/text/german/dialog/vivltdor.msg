@@ -10,8 +10,8 @@
 {108}{}{*Hrnnnnn*}
 {109}{}{Mit roher körperlicher Gewalt stemmst du die Tür auf.}
 {110}{}{Wow. Sie hat nicht einmal einen Kratzer abbekommen.}
-{111}{}{BUMM Tür nich wehtun}
+{111}{}{BOOM no hurt door.}
 {112}{}{Die Tür ist nicht verschlossen, sie klemmt.}
-{113}{}{Tür nich zu, nur klemmie}
+{113}{}{Door stuckie not lockie.}
 {114}{}{Die Tür läßt sich nicht schließen. Sie ist blockiert.}
 {115}{}{Tür nich bewegen.}

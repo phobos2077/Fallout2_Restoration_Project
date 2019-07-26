@@ -9,10 +9,9 @@
 {108}{}{<Phhhhhhhttttttt>}
 {109}{}{Zaius, à la mine, dit qu'il aura peut-être du travail pour moi le mois prochain.}
 {110}{}{Cet endroit est un vrai boxon ! Quand vas-tu te mettre à faire le ménage ?}
-{111}{}{T'as vraiment une belle bouche !}
+{111}{}{You got a real smart mouth on ya', woman!}
 {112}{}{Je t'aime, belles gencives.}
 {113}{}{Tu veux t'en prendre une, femme ?}
-
 {140}{}{Fais-la toi-même ta tourte de merde, gros tas !}
 {141}{}{::Marmonnement:: j'lui mets autant de poivre que j'veux... ::Marmonnement::}
 {142}{}{Je nettoyais tes caleçons dégueulasses dans le puits de la ville, comme d'hab !}
@@ -23,6 +22,5 @@
 {147}{}{Y doit bien y avoir quelqu'un d'intelligent QUELQUE PART ici !}
 {148}{}{Moi aussi, mon lapin en sucre.}
 {149}{}{Je veux rien qui ait QUOI QUE CE SOIT à faire avec ton derrière !}
-
 {200}{}{Qu'est-ce tu veux merde ? Tire-toi de ma maison !}
 {201}{}{J'te jure, un jour je vais partir sans crier gare. Et que fera cette feignasse ?}

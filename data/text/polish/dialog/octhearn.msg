@@ -6,7 +6,7 @@
 {105}{}{Kto ty?}
 {106}{}{Co ty robiæ?}
 {107}{}{Jak ty sprytny?}
-{108}{}{Ja ju¿ iœæ.}
+{108}{}{Moja ju¿ iœæ.}
 {109}{}{Kim jesteœ?}
 {110}{}{Czym siê tutaj zajmujesz?}
 {111}{}{Bez obrazy, ale jak bardzo inteligentny jesteœ?}
@@ -41,5 +41,4 @@
 {140}{}{Witaj znowu. Wci¹¿ tu pilnujê.}
 {141}{}{}
 {142}{}{Arrrrrrrrrgggh! Giñ!}
-
 {143}{}{.}

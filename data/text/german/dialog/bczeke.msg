@@ -2,14 +2,14 @@
 {101}{}{Du siehst Zeke, einen illegalen Siedler.}
 {102}{}{Du siehst einen älteren Mann mit dünnem, weißen Haar.}
 {103}{}{Ich heiße Zeke, Fremder. Tut mir leid, aber ich hab keine Zeit, mit dir zu reden. Und ich glaub, hier in der Stadt gibt's nichts, das dich interessieren könnte. Du solltest weiterziehen.}
-{104}{}{Äh, OK.}
+{104}{}{Oh, ok.}
 {105}{}{Ich haben Fragen.}
 {106}{}{OK, ich geh.}
 {107}{}{Ich möcht dir nur einige Fragen stellen.}
 {108}{}{Du wirst feststellen, daß hier niemand Antworten hat. Komm am besten wieder, wenn wir eine neue Lieferung bekommen.}
-{109}{}{Fertig.}
+{109}{}{OK.}
 {110}{}{Hallo. Ich hab noch immer keine Antworten für dich, Fremder. Warum folgst du nicht dem Wink mit dem Zaunpfahl und machst dich vom Acker?}
-{111}{}{Fertig.}
+{111}{}{OK.}
 {112}{}{Rebecca hat mir erzählt, was du für sie getan hast. Ich möcht mich für die schlechte Behandlung entschuldigen, die du hier erfahren hast. Das war nicht fair. Was kann ich für dich tun?}
 {113}{}{Ich haben Fragen.}
 {114}{}{Nichts. Tschau.}
@@ -45,21 +45,20 @@
 {144}{}{Du recht, ich kümmern.}
 {145}{}{Ich nicht sicher.}
 {146}{}{Ja, ich denk, das muß gemacht werden.}
-{147}{}{Ich weiß nicht recht.}
+{147}{}{Ich weiß es nicht.}
 {148}{}{Super. Viel Glück und danke.}
-{149}{}{Fertig.}
+{149}{}{OK.}
 {150}{}{Nimm dir Zeit, um darüber nachzudenken, aber eines solltest du wissen: Bis Darion beseitigt ist, muß ich hier alles so lassen wie es ist. Das ist zur Sicherheit aller. Das heißt, kein Deal und du bist weiterhin Persona non grata. Verstanden?}
 {151}{}{OK.}
 {152}{}{He, ich warte immer noch auf eine endgültige Lösung unseres Problems. Mit anderen Worten: Gib Darion einen Tritt in den Hintern!}
-{153}{}{Fertig.}
+{153}{}{OK.}
 {154}{}{Du hast es geschafft. Wir sind Darion los. Danke! Ich bin bereit, das Angebot der NCR zu akzeptieren. Sag ihnen, sie sollen einen Bevollmächtigten schicken, dann machen wir den Deal komplett.}
-{155}{}{Fertig.}
+{155}{}{OK.}
 {156}{}{Danke, daß du uns die Chance auf ein neues Leben gegeben hast. Wir stehen alle in deiner Schuld.}
 {157}{}{Verschwinde einfach. Ich hab dir nichts zu sagen.}
 {158}{}{Warte, bevor du gehst... Vor einiger Zeit hab ich diese Keycard gefunden. Ich weiß nicht, wofür sie ist. Rebecca hat erzählt, du hast eine Tür gefunden, wo sie Chrissy festgehalten haben. Vielleicht kannst du sie mit dieser Karte öffnen. Hier, nimm sie.}
 {159}{}{Danke.}
-{160}{}{Was kann ich für dich tun?}
+{160}{}{Wie kann ich dir helfen?}
 {161}{}{Da sind die Probleme mit der NCR, aber ich denke, der Deal, den du vorgeschlagen hast, wird sie lösen.}
 {162}{}{Du hast es geschafft! Wir werden nicht mehr von Darion unterjocht. Danke!}
-
 {163}{}{Ohne Darion haben wir keine Möglichkeit, an Essen zu kommen. Wir werden zugrunde gehen! Vielen Dank auch.}

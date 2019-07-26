@@ -147,7 +147,7 @@
 {13100}{}{Heldin (nicht einsetzen)}
 {13200}{}{Held (nicht einsetzen)}
 {13300}{}{Heldin (nicht einsetzen)}
-{13400}{}{Wache von Vault City}
+{13400}{}{Wache der Vault City}
 {13500}{}{Wache der Vault City}
 {13600}{}{Cyberhund}
 {13700}{}{NCR-Wache}
@@ -214,7 +214,7 @@
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Metzger}
+{20000}{}{Schlächter}
 {20100}{}{Petey}
 {20200}{}{Primitiver Jäger}
 {20300}{}{Primitiver Jäger}
@@ -266,7 +266,7 @@
 {24900}{}{Fieser Zentaur}
 {25000}{}{Enklaven-Patrouille}
 {25100}{}{Enklaven-Patrouille}
-{25200}{}{Preßpatroullie}
+{25200}{}{Preßpatrouille}
 {25300}{}{Preßpatrouille}
 {25400}{}{Söldner}
 {25500}{}{Söldner}
@@ -499,13 +499,13 @@
 {48100}{}{Besonderer Gecko}
 {48200}{}{Sensenmann}
 {48300}{}{Frank Horrigan}
-{48301}{}{Der Bodyguard des Präsidenten}
-{48400}{}{Karli}
-{48401}{}{Der Geist der toten Karli}
+{48301}{}{The President's Body Guard.}
+{48400}{}{Nessa}
+{48401}{}{The ghost of dead Nessa.}
 {48500}{}{Schamane}
 {48501}{}{Stammes-Medizinmann}
 {48600}{}{Krieger}
-{48601}{}{Stammeskrieger}
+{48601}{}{Tribe warrior.}
 {48700}{}{Wächter}
 {48800}{}{Suliks Schwester}
 {48900}{}{Kaga}
@@ -514,26 +514,26 @@
 {49200}{}{Kaga}
 {49300}{}{Kaga}
 {49400}{}{Hologramm 00000}
-{49401}{}{Das Hologramm des Wissenschaftsdirektors}
+{49401}{}{The hologram for the director of science.}
 {49500}{}{Hologramm 10001}
-{49501}{}{Das Hologramm des Sicherheitsdirektors}
+{49501}{}{The hologram for the director of security.}
 {49600}{}{Hologramm 12001}
-{49601}{}{Das Hologramm des Betriebsdirektors}
+{49601}{}{The hologram for the director of operations.}
 {49700}{}{Hologramm 10031}
-{49701}{}{Das Hologramm des Direktors für Grundwartungen}
+{49701}{}{Hologram for the director of Ground Maintenance.}
 {49800}{}{Hologramm 40011}
-{49801}{}{Das Hologramm des Direktors für Öffentlichkeitsarbeiten]}
+{49801}{}{Hologram for the Director of Public Relations.}
 {49900}{}{Mr. Handy Roboter}
 {49901}{}{Eine wirklich sehr depressive Version des Mr. Handy Roboter}
 {50000}{}{Der Doktor}
-{50001}{}{Der führende und auch der einzige Doktor, der in der EPA zurückgelassen wurde.}
+{50001}{}{The leading, and only, Doctor left in the EPA.}
 {50100}{}{EPA-Sporenpflanze}
-{50101}{}{Eine schrecklich mutierte Pflanze}
+{50101}{}{A hideously mutated spore plant.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
 {50500}{}{Doktors Krieger}
-{50501}{}{Ein Krieger für den Doktor}
+{50501}{}{A warrior for the doctor.}
 {50600}{}{Fruchtfliege}
 {50601}{}{Eine mutierte Fruchtfliege.}
 {50700}{}{Ein Hologramm}
@@ -562,7 +562,7 @@
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
 {53100}{}{Obi-Wan-Killap}
-{53200}{}{Emperor Timeslip}
+{53200}{}{Empress Timeslip}
 {53300}{}{Luke Skynet}
 {53400}{}{Mon-Morticia}
 {53500}{}{Kanhef}
@@ -576,6 +576,9 @@
 {54300}{}{Sporenpflanzen- Mutter}
 {54400}{}{Alien-Mutter}
 {54500}{}{EPA-Sporenpflanze}
+{54501}{}{A hideously mutated spore plant.}
 {54600}{}{Wildhund}
+{54601}{}{Ein wilder Mischlingshund.}
 {54700}{}{Wachroboter Mark II}
 {54800}{}{Old Joe}
+{54900}{}{A plant creature}

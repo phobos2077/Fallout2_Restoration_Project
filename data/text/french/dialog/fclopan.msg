@@ -3,7 +3,7 @@
 {102}{}{Tu vois un gangster Shi portant des vêtements en soie. Ses mains sont calleuses et rêches. Il a l'air dangereux et mauvais.}
 {103}{}{Que veux-tu ?}
 {104}{}{Ding dang dong !}
-{105}{}{Qui toi être ?}
+{105}{}{Qui toi ?}
 {106}{}{Contre qui te battais-tu ?}
 {107}{}{Qui es-tu ?}
 {108}{}{Je veux apprendre à me battre comme toi. Apprends-moi.}
@@ -77,15 +77,11 @@
 {176}{}{Formidable. J'ai des questions.}
 {177}{}{Formidable. Au revoir.}
 {178}{}{Bien. Je vais le faire immédiatement.}
-
 {200}{}{Lo Pan anticipe ton premier pas et te glisse entre les doigts.}
 {201}{}{Ecoute, je n'apprécie guère qu'on me vole mes affaires alors va voler quelqu'un d'autre. Maintenant, va-t'en.}
 {202}{}{Je t'avais demandé de partir, pas de mourir. Enfin bon.}
-{203}{}{Il semble que tu aies besoin d'entraînement supplémentaire.}
-#{203}{}{Tu as déjà passé l'épreuve du Dragon !}
-
+{203}{}{Tu as déjà passé l'épreuve du Dragon !}
 {204}{}{J'ai donné assez de leçons pour aujourd'hui. Reviens demain.}
-
 {205}{}{Je suis Maître Khung, ta dernière épreuve.}
 {206}{}{Je suis Imbot. Tiens toi prêt.}
 {207}{}{Je suis Wejungh. Prépare-toi.}
@@ -98,30 +94,23 @@
 {214}{}{Tu as battu Lo Pan lors d'un combat à mort. Bizarrement, le soleil semble plus éclatant aujourd'hui.}
 {215}{}{Tu as déjà vaincu mes hommes. Tu as réussi l'épreuve. Tu peux maintenant affronter le Dragon.}
 {216}{}{Tu sais déjà combattre comme il faut. Va apprendre à tirer ou à faire autre chose.}
-
-#training messages
 {217}{}{Commençons. Suis mon exemple.}
 {218}{}{L'entraînement est fini pour aujourd'hui.}
 {219}{}{Tu as bien appris.}
-
 {220}{}{Tu as déjà vaincu mes hommes. Plus personne ne veut te défier.}
-
 {221}{}{Tu m'as aidé sans même le savoir. Maintenant que le Dragon est mort, je ne suis plus obligé de suivre ces traditions à la morale dépassée.}
 {222}{}{Tout le plaisir est pour moi. Au revoir.}
 {223}{}{Je t'en prie. Au revoir.}
 {224}{}{Je t'en prie. Puis-je te poser une question ?}
 {225}{}{De rien. Moi demander ?}
-
 {226}{}{Tu as GAGNE !}
 {227}{}{Tu as PERDU !}
 {228}{}{Adversaire suivant !}
-
 {229}{}{Hé, regarde ce que j'ai trouvé !}
-
 {230}{}{Tu vas d'abord devoir prouver que tu en es capable en te battant contre cinq de mes hommes, un par un. Si tu réussis à les battre, tu pourras tenter l'ultime épreuve.}
-{231}{}{De quoi s'agit-il ?}
+{231}{}{Qu'est-ce que c'est ?}
 {232}{}{Ca semble trop compliqué. Au revoir.}
-{233}{}{Tu vas devoir me vaincre. Mais aucune de ces batailles n'ira jusqu'à la mort - pour protéger mes hommes, bien sûr. [Il te regarde avec un sourire sadique.]}
+{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Allons-y !}
 {235}{}{Tu peux t'occuper du Dragon toi-même.}
 {236}{}{[Lo Pan te fixe et t'envoie un coup sur le nez avant même que tu n'aies le temps de réagir.] Tu n'es pas à la hauteur.}

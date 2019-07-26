@@ -1,9 +1,3 @@
-#
-#   Messages from perk.c
-#
-#
-#   PERK NAMES
-#
 {101}{}{Intuition}
 {102}{}{Bonus attaques en Rixe}
 {103}{}{Bonus dégâts en Rixe}
@@ -21,7 +15,7 @@
 {115}{}{Tireur d'élite}
 {116}{}{Course silencieuse}
 {117}{}{Survivant}
-{118}{}{Maître marchand}
+{118}{}{Marchande endurcie}
 {119}{}{Erudit}
 {120}{}{Guérisseur}
 {121}{}{Découvreur de trésor}
@@ -40,7 +34,7 @@
 {134}{}{Maître Voleur}
 {135}{}{Orateur}
 {136}{}{Oh Hisse !}
-{137}{}{ERREUR - LIBRE}  # was -- Friendly Foe
+{137}{}{ERREUR - LIBRE}
 {138}{}{Pickpocket}
 {139}{}{Fantôme}
 {140}{}{Culte de la personnalité}
@@ -50,7 +44,7 @@
 {144}{}{Pionnier}
 {145}{}{Ami des animaux}
 {146}{}{Eclaireur}
-{147}{}{Etranger mystérieux}
+{147}{}{Etrangère mystérieuse}
 {148}{}{Commando}
 {149}{}{Poches}
 {150}{}{Beau parleur}
@@ -108,7 +102,7 @@
 {202}{}{Pyromane}
 {203}{}{Récupération rapide}
 {204}{}{Vendeur}
-{205}{}{Muraille}
+{205}{}{Mur de pierre}
 {206}{}{Voleur}
 {207}{}{Manipulation des armes}
 {208}{}{Entraînement de la Cité}
@@ -121,14 +115,10 @@
 {215}{}{PI réduits par l'autodoc}
 {216}{}{PI réduits par l'autodoc II}
 {217}{}{Expéditeur d'Excréments Expert}
-{218}{}{Chances de K.O accrues}
+{218}{}{Chances de K.O accrues avec l'utilisation d'une arme.}
 {219}{}{La-Poisse}
 {220}{}{Dépendance à l'alcool}
 {221}{}{Fumeur}
-
-#
-#   PERK DESCRIPTIONS
-#
 {1101}{}{Grâce à l'Intuition, tu recevras des informations détaillées sur toutes les créatures que tu examineras. Tu peux ainsi connaître leur nombre exact de points d'impact et obtenir des informations sur leurs armes.}
 {1102}{}{Soit tu as appris les secrets des arts martiaux, soit tu cognes plus vite que tout le monde. Dans les deux cas, chaque attaque en Rixe (CàC ou Mêlée) te coûte 1 PA de moins.}
 {1103}{}{Ton expérience du Corps à Corps fait de toi un adversaire redoutable. A chaque niveau de cette aptitude, tes attaques au Corps à Corps ou en Mêlée infligent +2 points de dégâts à ton adversaire.}
@@ -203,48 +193,48 @@
 {1172}{}{Tu ressens une envie irrépressible d'ouvrir une autre boîte de cartes Tragic.}
 {1173}{}{Charisme d'armure}
 {1174}{}{Tu sais comment dépouiller les geckos pour utiliser leur cuir.}
-{1175}{}{Tu possèdes une protection inhérente contre les attaques physiques.}     # Dermal Impact Armor
-{1176}{}{Tu possèdes une protection inhérente supplémentaire contre les attaques physiques.}  # Dermal Impact Assault Enhancement
-{1177}{}{Tu possèdes une protection inhérente contre les attaques énergétiques.}     # Phoenix Armor Implants
-{1178}{}{Tu possèdes une protection inhérente supplémentaire contre les attaques énergétiques.}   # Phoenix Assault Enhancement
-{1179}{}{Tu as acquis une résistance de +10 % au poison et aux radiations.}  # Vault City Inoculations
-{1180}{}{Avec cette aptitude, tu ajoutes +1 à ta force lorsque tu descends sous la moitié du maximum de tes points d'impact.}  # Adrenaline Rush
-{1181}{}{Tu es plus alerte à l'extérieur et tes ennemis risquent moins de te surprendre. Avec cette aptitude, tu ajoutes +3 à ta perception pour déterminer le placement (Séquence) lors des rencontres aléatoires.}  # Cautious Nature
-{1182}{}{Tu fais bien plus attention aux petits détails lorsque tu lis. Tu augmentes ton total de points de compétence gagnés de 50% en lisant des livres.}  # Comprehension
-{1183}{}{Tu es un pro pour la manipulation d'explosifs. ce qui te permet de toujours les faire détonner au moment voulu. De plus, les explosions causent des dégâts supplémentaires.}  # Demolition Expert
-{1184}{}{Tu peux jouer avec les meilleurs. Ta compétence Jeu augmente de 20 %.}  # Gambler
-{1185}{}{Cette aptitude ajoute +1 à ta Force.}     # Gain Strength
-{1186}{}{Cette aptitude ajoute +1 à ta Perception.}   # Gain Perception
-{1187}{}{Cette aptitude ajoute +1 à ton Endurance.}    # Gain Endurance
-{1188}{}{Cette aptitude ajoute +1 à ton Charisme.}     # Gain Charisma
-{1189}{}{Cette aptitude ajoute +1 à ton Intelligence.} # Gain Intelligence
-{1190}{}{Cette aptitude ajoute +1 à ton Agilité.}      # Gain Agility
-{1191}{}{Cette aptitude ajoute +1 à ta Chance.}         # Gain Luck
-{1192}{}{Ton air innocent t'aide à détrousser ton prochain. Ta compétence Voleur s'accroît de +20%.}  # Harmless
-{1193}{}{Cette aptitude te fait aussitôt gagner un niveau d'expérience.}  # Here and Now
-{1194}{}{Si les deux emplacements d'objet sont vides, chaque point d'action restant à la fin du tour donne +2 (au lieu de +1) à ta Classe d'armure, plus 1/12ème de ta compétence Corps à Corps.}  # HtH Evade
-{1195}{}{Pour ce qui est du plaisir sexuel, tu es au sommet.}  # Kama Sutra Master
-{1196}{}{Ton karma est deux fois plus puissant. Qu'il soit positif ou négatif, il est doublé en ce qui concerne les réactions et les modificateurs afférents.}  # Karma Beacon
-{1197}{}{Tu es agile, tu as de la chance et tu fais preuve de prudence. Cette aptitude réduit de moitié tes chances de déclencher un piège.}  # Light Step
-{1198}{}{Tu as une meilleure compréhension des créatures vivantes, de leurs points forts et de leurs points faibles. Tu obtiens un bonus unique de +10% en Médecine et tu infliges +5 de dégâts par attaque sur des créatures vivantes.}  # Living Anatomy
-{1199}{}{Tu bénéficies d'un emplacement supplémentaire dans ta liste de compagnons. Mais attention, à plus de cinq, on commence à se sentir serré...}  # Magnetic Personality
-{1200}{}{Tu es un négociateur très habile. Tu peux marchander avec les plus durs et te sortir des pires situations juste en parlant. Grâce à cette aptitude, tu gagnes +10% à Troc et à Discours.}  # Negotiator
-{1201}{}{Préparer ton sac à dos et gérer ton inventaire, ça te connaît. Il devient donc plus facile de transporter ces petits riens dont on a toujours besoin.} # Pack Rat
-{1202}{}{Tu occasionnes plus de dégâts par le feu et tes ennemis semblent toujours mourir de la manière la plus douloureuse imaginable.}  # Pyromaniac
-{1203}{}{Tu récupères vite après avoir été mis K.O.} # Quick Recovery
-{1204}{}{Tu as la fibre commerciale ! Grâce à cette aptitude, tu bénéficies de +20% pour ta compétence Troc.}  # Salesman
-{1205}{}{Tu risques beaucoup moins de te faire mettre à terre lors d'un combat.}  # Stonewall
-{1206}{}{L'aptitude Voleur t'offre un bonus unique de +10% pour les compétences Esquive, Crochetage, Voleur et Pièges. Un bon voleur est un voleur vivant.}  # Thief
-{1207}{}{Tu sais manier des armes bien plus grosses que la normale. Tu reçois un bonus de +3 à tes tests de Force quand il s'agit de manier une arme.}  # Weapon Handling
-{1208}{}{Tu as reçu une formation médicale à la Cité de l'Abri.}  # Vault City Training
-{1209}{}{Tes points d'impact sont quelque peu accrus par ton ivrognerie.}  # Alcohol Enhanced hit points
-{1210}{}{Tes points d'impact sont accrus encore un peu plus par ton ivrognerie.}  # Alcohol Enhanced hit points II
-{1211}{}{Tes points d'impact sont quelque peu réduits par ton ivrognerie.}  # Alcohol Lowered hit points
-{1212}{}{Tes points d'impact sont réduits encore un peu plus par ton ivrognerie.}  # Alcohol Lowered hit points II
-{1213}{}{Tes points d'impact sont quelque peu accrus par l'usage répété de l'autodoc.}  # Autodoc Enhanced hit points
-{1214}{}{Tes points d'impact sont accrus encore un peu plus par l'usage répété de l'autodoc.}  # Autodoc Enhanced hit points II
-{1215}{}{Tes points d'impact sont quelque peu réduits par l'usage répété de l'autodoc.}  # Autodoc Lowered hit points
-{1216}{}{Tes points d'impact sont réduits encore un peu plus par l'usage répété de l'autodoc.}  # Autodoc Lowered hit points II
+{1175}{}{Tu possèdes une protection inhérente contre les attaques physiques.}
+{1176}{}{Tu possèdes une protection inhérente supplémentaire contre les attaques physiques.}
+{1177}{}{Tu possèdes une protection inhérente contre les attaques énergétiques.}
+{1178}{}{Tu possèdes une protection inhérente supplémentaire contre les attaques énergétiques.}
+{1179}{}{Tu as acquis une résistance de +10 % au poison et aux radiations.}
+{1180}{}{Avec cette aptitude, tu ajoutes +1 à ta force lorsque tu descends sous la moitié du maximum de tes points d'impact.}
+{1181}{}{Tu es plus alerte à l'extérieur et tes ennemis risquent moins de te surprendre. Avec cette aptitude, tu ajoutes +3 à ta perception pour déterminer le placement (Séquence) lors des rencontres aléatoires.}
+{1182}{}{Tu fais bien plus attention aux petits détails lorsque tu lis. Tu augmentes ton total de points de compétence gagnés de 50% en lisant des livres.}
+{1183}{}{Tu es un pro pour la manipulation d'explosifs. ce qui te permet de toujours les faire détonner au moment voulu. De plus, les explosions causent des dégâts supplémentaires.}
+{1184}{}{Tu peux jouer avec les meilleurs. Ta compétence Jeu augmente de 20 %.}
+{1185}{}{Cette aptitude ajoute +1 à ta Force.}
+{1186}{}{Cette aptitude ajoute +1 à ta Perception.}
+{1187}{}{Cette aptitude ajoute +1 à ton Endurance.}
+{1188}{}{Cette aptitude ajoute +1 à ton Charisme.}
+{1189}{}{Cette aptitude ajoute +1 à ton Intelligence.}
+{1190}{}{Cette aptitude ajoute +1 à ton Agilité.}
+{1191}{}{Cette aptitude ajoute +1 à ta Chance.}
+{1192}{}{Ton air innocent t'aide à détrousser ton prochain. Ta compétence Voleur s'accroît de +20%.}
+{1193}{}{Cette aptitude te fait aussitôt gagner un niveau d'expérience.}
+{1194}{}{Si les deux emplacements d'objet sont vides, chaque point d'action restant à la fin du tour donne +2 (au lieu de +1) à ta Classe d'armure, plus 1/12ème de ta compétence Corps à Corps.}
+{1195}{}{Pour ce qui est du plaisir sexuel, tu es au sommet.}
+{1196}{}{Ton karma est deux fois plus puissant. Qu'il soit positif ou négatif, il est doublé en ce qui concerne les réactions et les modificateurs afférents.}
+{1197}{}{Tu es agile, tu as de la chance et tu fais preuve de prudence. Cette aptitude réduit de moitié tes chances de déclencher un piège.}
+{1198}{}{Tu as une meilleure compréhension des créatures vivantes, de leurs points forts et de leurs points faibles. Tu obtiens un bonus unique de +10% en Médecine et tu infliges +5 de dégâts par attaque sur des créatures vivantes.}
+{1199}{}{Tu bénéficies d'un emplacement supplémentaire dans ta liste de compagnons. Mais attention, à plus de cinq, on commence à se sentir serré...}
+{1200}{}{Tu es un négociateur très habile. Tu peux marchander avec les plus durs et te sortir des pires situations juste en parlant. Grâce à cette aptitude, tu gagnes +10% à Troc et à Discours.}
+{1201}{}{Préparer ton sac à dos et gérer ton inventaire, ça te connaît. Il devient donc plus facile de transporter ces petits riens dont on a toujours besoin.}
+{1202}{}{Tu occasionnes plus de dégâts par le feu et tes ennemis semblent toujours mourir de la manière la plus douloureuse imaginable.}
+{1203}{}{Tu récupères vite après avoir été mis K.O.}
+{1204}{}{Tu as la fibre commerciale ! Grâce à cette aptitude, tu bénéficies de +20% pour ta compétence Troc.}
+{1205}{}{Tu risques beaucoup moins de te faire mettre à terre lors d'un combat.}
+{1206}{}{L'aptitude Voleur t'offre un bonus unique de +10% pour les compétences Esquive, Crochetage, Voleur et Pièges. Un bon voleur est un voleur vivant.}
+{1207}{}{Tu sais manier des armes bien plus grosses que la normale. Tu reçois un bonus de +3 à tes tests de Force quand il s'agit de manier une arme.}
+{1208}{}{Tu as reçu une formation médicale à la Cité de l'Abri.}
+{1209}{}{Tes points d'impact sont quelque peu accrus par ton ivrognerie.}
+{1210}{}{Tes points d'impact sont accrus encore un peu plus par ton ivrognerie.}
+{1211}{}{Tes points d'impact sont réduits encore un peu plus par ton ivrognerie.}
+{1212}{}{Tes points d'impact sont réduits encore un peu plus par ton ivrognerie.}
+{1213}{}{Tes points d'impact sont quelque peu accrus par l'usage répété de l'autodoc.}
+{1214}{}{Tes points d'impact sont accrus encore un peu plus par l'usage répété de l'autodoc.}
+{1215}{}{Tes points d'impact sont réduits encore un peu plus par l'usage répété de l'autodoc.}
+{1216}{}{Tes points d'impact sont réduits encore un peu plus par l'usage répété de l'autodoc.}
 {1217}{}{Tu peux te mesurer aux meilleurs.}
 {1218}{}{Chances de K.O accrues avec l'utilisation d'une arme.}
 {1219}{}{L'avantage, c'est que tout le monde autour de toi a plus d'échecs critiques en combat. L'inconvénient, c'est que... toi aussi !}

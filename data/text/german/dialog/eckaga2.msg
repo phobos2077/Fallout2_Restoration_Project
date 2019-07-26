@@ -12,18 +12,12 @@
 {111}{}{Du kannst den großen Kaga nicht töten!}
 {112}{}{Du hast Glück, dass Kaga woanders geschäftliche Dinge zu erledigen hat.}
 {113}{}{Kaga wird dich wiedertreffen.}
-
 {120}{}{Es ist wieder dieser Kaga-Typ.}
-
-#added by RP 1.3
 {150}{}{[Ein großer, kräftig gebauter Krieger steht vor dir, seine Augen glänzen hasserfüllt als er dich ansieht.] So, sie vertreiben Kaga und jetzt sollst du das "Auserwählte Wesen" sein? Ha! Du glaubst du bist was besonderes weil du das Enkelkind des Vaultbewohners bist. Du glaubst du bist besser als ich, Kaga der Große?!}
-{151}{}{Sicher, Ich BIN das "Auserwählte Wesen", oder?}
+{151}{}{Well, I AM the Chosen One, aren't I?}
 {152}{}{Hey wart mal ne Sekunde. Ich hab nie gesagt dass ich etwas besseres als du bin.}
-
-{160}{}{Dieser Titel bedeutet nichts, wenn Kaga dir den Kopf von den Schultern reißt!} 
+{160}{}{Dieser Titel bedeutet nichts, wenn Kaga dir den Kopf von den Schultern reißt!}
 {161}{}{Deine Worte sind umsonst. Mit deinem Tod wird meine Ehre wiederhergestellt. Kaga bekommt jetzt seine Rache!}
-
-#dumb dialogue
 {200}{}{Ggrrr?}
 {201}{}{Was!? Du bist das neue "Auserwählte Wesen"? Oh man Sie müssen echt verzweifelt sein.}
 {202}{}{Mich nicht mögen. Du sehen aus Schlecht.}

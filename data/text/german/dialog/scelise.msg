@@ -47,7 +47,7 @@
 {146}{}{Genau das ist die Haltung, durch die die Greuel der Sklaverei überhaupt erst möglich werden. Tut mir leid, aber jemanden wie dich können wir in unserer Organisation nicht gebrauchen.}
 {147}{}{OK.}
 {148}{}{Also, hast du's dir anders überlegt? Willst du beweisen, daß du etwas taugst?}
-{149}{}{Klar.}
+{149}{}{Sicher.}
 {150}{}{Was soll ich gleich noch mal machen?}
 {151}{}{Hattest du nicht etwas zu erledigen? Komm erst wieder her, wenn du mit der Arbeit fertig bist.}
 {152}{}{Ich hab's schon gehört. Du hast die Sklaven befreit. Gut gemacht! Bist du jetzt bereit, ein Ranger zu werden?}
@@ -60,7 +60,7 @@
 {159}{}{Interessant... Ich werde mir das mal durch den Kopf gehen lassen.}
 {160}{}{Schwörst du, bei jeder sich bietenden Gelegenheit gegen die Sklaverei zu kämpfen und deinen in Not geratenen Rangerkameraden beizustehen?}
 {161}{}{Ja.}
-{162}{}{Nein,}
+{162}{}{Nein.}
 {163}{}{Glückwünsche, du bist jetzt ein Ranger.}
 {164}{}{Sei gegrüßt, Rangerkamerad. Ich fürchte, hier ist momentan nicht allzuviel für dich zu tun. Die meisten unserer Leute sind auf Patrouille. Ich mach bekannt, daß du jetzt zu uns gehörst. Ich will ja nicht, daß du von den eigenen Leuten erschossen wirst.}
 {165}{}{Wir sind immer auf der Suche nach neuen Leuten, die unsere Sache unterstützen. Solltest du's dir noch mal überlegen, komm einfach zu mir. Bist du dir sicher, daß du dir die Gelegenheit entgehen lassen möchtest?}
@@ -74,17 +74,13 @@
 {173}{}{Wenn das so ist, muß ich dich auffordern, mir aus den Augen zu gehen. Und zwar sofort!}
 {174}{}{OK.}
 {175}{}{Ein Sklavenhändler! Mach, daß du dich hier verpißt, sonst puste ich dir deine Tätowierung mit 'ner Kugel weg!}
-{176}{}{Klar}
+{176}{}{Sicher.}
 {177}{}{Versuch's!}
-
 {178}{}{Wir haben in einigen Städten im Norden Agenten und Sympathisanten. Wir werben für unsere Auffassungen und knöpfen uns alle Sklavenhändler vor, deren wir habhaft werden können.}
 {179}{}{Tag. Hast du's dir noch mal überlegt von wegen deiner Mitgliedschaft bei uns?}
-{180}{}{Egal.}
-
-
+{180}{}{Macht nichts.}
 {181}{}{Das gehört dir nicht. Jetzt geh, sonst muß ich sehr unhöflich werden.}
 {182}{}{Ich weiß nicht, was du mit Gond angestellt hast, aber es wird dich teuer zu stehen kommen!}
-
 {200}{}{Herzlichen Glückwunsch, du bist nun ein Ranger. Es ist deine Pflicht die Sklaverei zu bekämpfen wo auch immer es dich hin verschlägt. Pass auf dich auf mein Freund.}
 {201}{}{Bevor ich gehe habe ich noch einige Informationen die dich bestimmt Interessieren werden.}
 {202}{}{In Ordnung, lass hören.}
@@ -95,7 +91,7 @@
 {207}{}{Ich kann es dir nicht sagen - ich war noch nicht dort.}
 {208}{}{Tatsächlich? Das ist erstaunlich! Ich muß es den anderen Rangern erzählen. Jetzt ist der richtige Zeitpunkt für uns, aufzustehen und sie anzugreifen, während sie damit beschäftigt sind, ihre Wunden zu lecken. Ich kann dir nicht genug danken. Wir stehen tief in deiner Schuld.}
 {209}{}{Ihr Dank ist alles was ich brauche. Auf Wiedersehen}
-{210}{}{Wenn du mit meiner Arbeit so zufrieden bist, wie wär's mit etwas Bargeld als Belohnung?}
+{210}{}{Wenn du von meiner Arbeit so begeistert bist, wie wär's mit etwas Bargeld als Belohnung?}
 {211}{}{Wir müssen sie sofort angreifen. Willst du diese Drecksäcke für uns beseitigen?}
 {212}{}{Ich denke das war genug Arbeit für einen Tag. Tut mir leid.}
 {213}{}{Als Ranger ist es meine Pflicht. Natürlich werd ich euch helfen.}
@@ -105,52 +101,41 @@
 {217}{}{Ich bin eine spontane Person. Ich brauch mich nicht vorzubereiten. Lass es uns über die Bühne bringen.}
 {218}{}{Um ehrlich zu sein, habe ich meine Meinung geändert. Ich bin sicher, du und die anderen Ranger werden es locker ohne mich schaffen. Viel Glück.}
 {219}{}{Ich denke, es wäre besser wenn mich ein paar Ranger begleiten. Alleine wird es ziemlich schwer.}
-
 {220}{}{Nein, tut mir leid. Ich hab einfach keine Möglichkeiten Männer dafür zu besorgen. Das musst du alleine erledigen.}
 {221}{}{Alles klar, Ich mach's allein. Melde mich wieder wenn ich alles erledigt habe.}
-{222}{}{Alles klar, Ich mach's allein. Ich brauche etwas Zeit um mich vorzubereiten. Ich komme wieder.} #not used
+{222}{}{Alles klar, Ich mach's allein. Ich brauche etwas Zeit um mich vorzubereiten. Ich komme wieder.}
 {223}{}{Dann schaffe ich es nicht. Auf Wiedersehen.}
-
 {224}{}{Du hast recht. Ich kann ein paar Männer auftreiben und schicke sie zu dir. Bist du bereit?}
 {225}{}{Ich brauche etwas Zeit um mich vorzubereiten. Ich komme wieder.}
 {226}{}{Ich bin soweit. Los geht's.}
-
 {227}{}{Geld? Das ist wohl das Mindeste was wir für dich tun können. Hier sind $1000. Nochmals vielen Dank.}
 {228}{}{Es war mir ein Vergnügen. Auf Wiedersehen.}
-
 {229}{}{Bist du bereit das Lager der Sklavenhändler anzugreifen?}
 {230}{}{Ich brauche noch mehr Zeit.}
 {231}{}{Ich hab alles dabei. Lass uns loslegen.}
-
 {232}{}{Deine Ranger-Kameraden werden unterwegs mit dir zusammentreffen. Die besten Glückwünsche für dich.}
-{233}{}{[Fertig]}
+{233}{}{[Ende]}
 {234}{}{Ich habe die Neuigkeiten schon gehört. Vielen Dank für deine Hilfe. Das ist ein heftiger Rückschlag für die Sklavenhändler. Wir stehen tief in deiner Schuld.}
-{235}{}{Bitte zöger nicht zu lange. Dieser Angriff ist der entscheidende Schlag gegen die Sklaverei.}
+{235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
 {236}{}{Du hast den Rangern in ihrem anhaltendem Kampf gegen die Sklaverei geholfen.}
-
 {240}{}{Vielen Dank. Auf Wiedersehen.}
-
 {250}{}{Da wäre noch etwas. Du siehst vertrauenswürdig aus und du siehst vor allem wie jemand aus der nicht viel von der Sklaverei hält.}
 {251}{}{Naja, Ich habe grade eine komplettes Lager der Sklavenhändler ausgelöscht. Worum geht es?}
 {252}{}{Sehe ich aus wie Mutter Theresa? Meine gute Tat für heute ist schon erledigt. Man sieht sich.}
-
-#added in RP 1.3
 {260}{}{Was machst du hier? Das ist kein öffentlicher - He, Moment mal, ich glaub ich hab von dir gehört. Bist du nicht derjenige, der eines von Metzgers Sklavenlager ausgelöscht hat?}
 {261}{}{Klar. Das war ich.}
 {262}{}{Todsicher war ich das. Hast du ein Problem damit? }
 {263}{}{Vielleicht... warum fragst du?}
 {264}{}{Ich hab keine Ahnung wovon du sprichst. Also, wenn du mich entschuldigst, ich muß mich auf den Weg machen.}
-
 {270}{}{Du hast ein echt gutes Werk vollbracht, und ich möchte dir einfach die Hand schütteln.}
 {271}{}{Durchaus nicht. Genau genommen, möchte ich dir gerne die Hand schütteln.}
 {272}{}{Weil du da eine echt gute Sache gemacht hast, und ich dir einfach die Hand schütteln möchte.}
 {273}{}{Wenn du von meiner Arbeit so begeistert bist, wie wär's mit etwas Bargeld als Belohnung?}
 {274}{}{Gern geschehen. Warum erzählst du mir jetzt nicht wer du bist?}
-
 {280}{}{Wir haben nicht viel Geld zur Verfügung, aber du *hast* uns einen großen Gefallen erwiesen, darum, denke ich, können wir einiges erübrigen. Hier hast du $1000.}
 {281}{}{Danke. Tschüß.}
 {282}{}{Danke. Warum erzählst du mir jetzt nicht wer du bist?}
-
 {290}{}{Ich bin Elise. Das ist Gond. Wir sind Mitglieder einer Anti-Sklaven Organisation genannt die New California Ranger. Wir könnten jemanden wie dich gebrauchen. Wenn du daran interessiert bist, bei uns mitzumachen, habe ich eine Aufgabe für dich.}
 {291}{}{Erzähl mir davon.}
-{292}{}{Ich bin nicht interessiert. Tschüß.}
+{292}{}{Kein Interesse. Tschüß.}
+{300}{}{Help you with something, Ranger?}

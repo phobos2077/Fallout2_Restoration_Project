@@ -1,9 +1,9 @@
 {100}{}{Du siehst einen schlanken, sonnengebräunten Mann.}
-{101}{}{Du siehst einen Farmer.}
+{101}{}{Du siehst eine Farmerin.}
 {102}{}{Du bemerkst, daß er die typische Bräune eines Farmers hat.}
 {103}{}{Du bist genau im richtigen Augenblick angekommen. Wenn du nicht genau dann gekommen wärst...Naja, sind wir mal dankbar, daß du zum richtigen Zeitpunkt gekommen bist. Wir haben nicht viel, aber ich möchte, daß du dies als Belohnung für deine Hilfe annimmst. [Er gibt dir etwas.]}
 {104}{}{Danke.}
-{105}{}{Ug}
+{105}{}{Ups!}
 {106}{}{Nochmals danke für deine Hilfe.}
 {107}{}{}
 {108}{}{}
@@ -18,7 +18,7 @@
 {117}{}{Ich sagte, raus hier!}
 {118}{}{}
 {119}{}{[Er beruhigt sich ein bißchen.] Du bist zu dumm, du kannst kein Bandit sein. Brauchste Vorräte?}
-{120}{}{Mh hmm.}
+{120}{}{Aha.}
 {121}{}{Äh äh.}
 {122}{}{Na, dann haben wir nichts zu bereden. Mach dich auf die Socken.}
 {123}{}{[Ende]}
@@ -26,7 +26,7 @@
 {125}{}{Niemand nimmt mir mein Heim.}
 {126}{}{Dreckige Banditen.}
 {127}{}{Runter von meinem Land.}
-{128}{}{Heutzutage kann man wirklich niemand trauen.}
+{128}{}{Heutzutage kann man niemandem trauen.}
 {129}{}{Verdammte Banditen.}
 {130}{}{Ich hab zu hart gearbeitet, um jetzt aufzugeben.}
 {131}{}{Vielleicht kauf ich anderswo eine Farm.}
@@ -35,7 +35,5 @@
 {134}{}{Die Landwirtschaft hat mir eh nie gefallen.}
 {135}{}{Ich komme wieder.}
 {136}{}{Nimm meine Frau. Bitte...}
-
-#added by killap
 {200}{}{Danke für deine Hilfe.}
 {201}{}{Langsam wurde etwas Ordnung ins Land gebracht.}

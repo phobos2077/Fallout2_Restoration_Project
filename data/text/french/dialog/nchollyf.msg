@@ -1,32 +1,22 @@
-# quick looks
 {100}{}{Tu vois un boxeur.}
 {101}{}{Tu vois Evan Hollyfeld.}
-
-# examines
-{150}{}{Tu vois un homme noir trapu à la mâchoire carrée. Ses oreilles ont l'air d'avoir été déchiquetées.}
-{151}{}{Ses oreilles ont l'air d'avoir été déchiquetées.}
-{152}{}{Ses oreilles ont l'air d'avoir été déchiquetées.}
-
-# FLOAT DIALOGUES
+{150}{}{Tu vois un noir costaud et court sur patte avec une épaisse mâchoire carrée. Ses oreilles semblent avoir été horriblement mutilées.}
+{151}{}{Ses oreilles semblent avoir été horriblement mutilées.}
+{152}{}{Ses oreilles semblent avoir été horriblement mutilées.}
 {200}{}{<Gnurffff>}
 {201}{}{<Haaarrggghhh>}
 {202}{}{::Il geint, se touche les oreilles::}
 {203}{}{::Flexions::}
-
-# CLICK DIALOGUE
-# MALE, PRIZEFIGHTER
 {300}{}{::Il se couvre les oreilles de ses mains et te foudroie du regard::}
-# other
 {301}{}{Moi aimer coups de boule.}
-{302}{}{Moi et Mike aimer coups de boule.}
-{303}{}{Moi donner coup de boule à Mike mais lui mordre oreilles à moi.}
+{302}{}{Moi et Mike aimer coups de boule}
+{303}{}{Moi donner coup de boule à Mike mais lui mordre oreilles à moi...}
 {304}{}{Mike mordre oreilles à moi parce que lui avoir faim.}
 {305}{}{Moi entendre pas bien.}
 {306}{}{::Il gratte ses moignons d'oreille::}
-{307}{}{Hein ?}
+{307}{}{Heinh ?}
 {308}{}{Quoi ? Moi pas bien entendre.}
-{309}{}{Oreille ô désespoir !}
-# FEMALE, ANY BUT PRIZEFIGHTER
+{309}{}{Oreille ô désespoir}
 {310}{}{Tu mords ?}
 {311}{}{Salut sent-bon.}
 {312}{}{Salut chouquette.}
@@ -37,6 +27,6 @@
 {317}{}{Mike mordre oreilles à moi parce que lui avoir faim.}
 {318}{}{Moi entendre pas bien.}
 {319}{}{::Il gratte ses moignons d'oreille::}
-{320}{}{Hein ?}
+{320}{}{Heinh ?}
 {321}{}{Quoi ? Moi pas bien entendre.}
 {322}{}{Oreille ô désespoir}

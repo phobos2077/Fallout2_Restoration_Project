@@ -1,11 +1,10 @@
 {100}{}{Un homme totalement ivre. [Il a une petite pancarte où l'on peut lire : « Je travaille en échange d'un repas ».]}
 {101}{}{Tu vois Karl.}
 {102}{}{Il est tellement sale que des fleurs sauvages lui poussent dans les cheveux.}
-
 {150}{}{Tiens, prends une bière.}
 {151}{}{Tiens, prends cette bouteille de bibine.}
 {152}{}{Tiens, prends un nuka cola.}
-{153}{}{Hé.}
+{153}{}{Hé !}
 {154}{}{Hé !}
 {155}{}{HE !!}
 {156}{}{Les fantômes ne pourront pas me trouver ici... ::Sanglot::}
@@ -25,7 +24,7 @@
 {173}{}{Je m'excuse, je n'ai rien à te donner. Au revoir.}
 {174}{}{Sais-tu où je peux trouver un J.E.K. ?}
 {175}{}{Tu as parlé d'un jardin. J'aimerais en savoir plus à ce propos.}
-{178}{}{Moi partir.}
+{178}{}{Moi aller.}
 {179}{}{Hé radin ! <Hic> Allez, je sais bien qu't'as d'l'argent... <Hic> Juste quelques p'tites pièces alors... <Hic> Quelque chose, quoi. Soyez pas égoïste !}
 {180}{}{Tiens, voici $25.}
 {184}{}{Tiens, voici $1.}
@@ -63,8 +62,8 @@
 {225}{}{[Eh bien, tu pourras peut-être lui parler plus tard.]}
 {226}{}{Tu es vrai... <Hic> ment mon meilleur ami sur cette... <Hic> maudit planète. [Karl ouvre la bouteille et commence à boire, puis te recrache tout dessus.] Pfuit ! Qu'est-ce... que... tu essaies de m'empoisonner ou quoi ? Allez ! Fous-moi l'camp !}
 {227}{}{Ca alors, merci... <Hic> tu es tellement... <Hic> sympathique. Attends, j'vais t'aider, ton porte-monnaie est trop lourd. [Karl plonge la main dans ton porte-monnaie et t'allège de la moitié de ton argent.] C'est très gentil... <Hic> si tu as besoin de quoi... qu'ce soit... <Hic> y'a qu'à demander.}
-{228}{}{J.E.K. ?}
-{229}{}{J'y vais.}
+{228}{}{Du J.E.K ?}
+{229}{}{Je pars.}
 {230}{}{« Coca »... <Hic> C'est une fête dans une bouteille.}
 {231}{}{Alors, plus tard peut-être.}
 {232}{}{Ooooh... <Hic> merci. P't-être qu'avec ça j'vais... <Hic> pouvoir acheter une balle pour m'en tirer une... <Hic> Pour sûr, faudrait que j'éco... <Hic> que j'économise pour le revolver.}
@@ -84,19 +83,15 @@
 {246}{}{[Karl et toi passez à l'arrière pour un petit coup rapide. A ta grande surprise, tu aimes ça.]}
 {247}{}{[Il dessaoule rapidement et commence à raconter son histoire.] J'étais un citoyen respectable avant de venir ici, un fermier paisible qui travaillait ses champs aussi dur qu'un autre, jusqu'à ce qu'ils commencent à venir la nuit. Leur peau était blanche, pâteuse, comme fluorescente. Je n'ai jamais eu aussi peur de ma vie. Nuit après nuit, ils venaient me voler mes récoltes, mon bétail et je ne pouvais rien faire pour les arrêter. Je sais bien ce que tu vas dire. « Pourquoi n'es-tu pas allé chercher de l'aide ? » Eh bien je l'ai fait. Mais personne ne m'a cru. Ils ont pensé que j'étais fou. Finalement, je n'en pouvais plus. JE NE POUVAIS PLUS LE SUPPORTER ! J'ai fait ma valise et je suis venu ici... où je demeure depuis ce jour-là. [Karl commence à pleurer sans retenue. Tu décides de le laisser seul avec son chagrin.]}
 {248}{}{Oh bon sang ! J'ai dû perdre mon argent en chemin. Tiens, voilà $}
-{249}{}{ .}
-
+{249}{}{.}
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
 {252}{}{Zzzzzzzzz}
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
 {255}{}{::Reniflement:: ::Grognement:: ::Reniflement::}
-
 {260}{}{Oh bon sang ! J'ai dû perdre mon argent en chemin. Tiens, voilà $}
 {261}{}{ . C'est tout ce que j'ai.}
 {262}{}{Oh bon sang ! J'ai dû perdre mon argent en chemin. Dommage, on s'est bien marré quand même.}
-
 {300}{}{Je vais rentrer chez moi, merci !}
-
 {400}{}{Tu as mis Karl sur le chemin du retour, vers Modoc.}

@@ -11,6 +11,5 @@
 {110}{}{Witaj... i ¿egnaj.}
 {111}{}{Dziêkujê za wszystko co zrobi³eœ. Przepraszam, ¿e tak zimno ciê przyjêliœmy wczeœniej.}
 {112}{}{Pieprz siê, dupku!}
-
 {113}{}{Nich to szlag, nie cierpiê, kiedy tak siê dzieje.}
 {114}{}{Spróbuj tego! Tak, to ci poka¿e.}

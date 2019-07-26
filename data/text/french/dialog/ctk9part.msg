@@ -1,2 +1,1 @@
-{100}{}{Tu as récupéré le motaviteur K-9.}
-
+{100}{}{Tu as récupéré le motivateur du K-9.}

@@ -83,7 +83,3 @@
 {182}{}{Si seulement je savais comment vous sauver !}
 {183}{}{Il faut que j'y réfléchisse.}
 {184}{}{Quelle étrange coïncidence !! Je voudrais te poser une autre question.}
-
-{190}{}{J'ai un plan. Je descends jusqu'à la centrale électrique pour arrêter le courant et vous libérer. Quand les champs de force seront éteints, courez sur le toit jusqu'au vertibird.}
-{191}{}{Excellente idée. Je peux utiliser mes explosifs pour dézinguer l'ordinateur. Ensuite vous pourrez courir jusqu'à mon vertibird. Je serai juste derrière vous.}
-{192}{}{Bonne idée. Je peux aller chercher des explosifs et les utiliser pour faire sauter l'ordinateur. Ensuite vous pourrez courir jusqu'à mon vertibird. Je serai juste derrière vous.}

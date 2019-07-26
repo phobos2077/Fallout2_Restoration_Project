@@ -3,7 +3,6 @@
 {102}{}{Du siehst einen Stadtbewohner.}
 {103}{}{Du siehst einen Arbeiter, der sich ausruht.}
 {104}{}{Du siehst eine Person, die einen Drink genießt.}
-
 {150}{}{Du bist in der falschen Kneipe, glaubst du nicht?}
 {151}{}{Wir brauchen hier keine Unruhestifter.}
 {152}{}{Wilde suchen immer Ärger.}
@@ -23,13 +22,12 @@
 {166}{}{(Schaut dich an und schüttelt den Kopf)}
 {167}{}{(Macht ein subtile unhöfliche Geste)}
 {168}{}{Du bist wahrscheinlich für die Verstümmlungen der Brahmin verantwortlich.}
-{169}{}{Einige unserer Jäger sind verschwunden; wahrscheinlich bist du dafür verantwortlich.}
+{169}{}{Some of our trappers' is gone missing an' you're prob'ly why.}
 {170}{}{In der Stadt treiben sich Wanzenmänner rum.}
 {171}{}{Es gibt einen Geist in einem Canyon östlich der Stadt.}
 {172}{}{Laß dich nicht vom Wandelnden Geist erwischen!}
 {173}{}{Es wär besser für dich, wenn du unsere Brahmin in Ruhe läßt.}
-{174}{}{Wir werden dich im Auge behalten.}
-
+{174}{}{Wir behalten dich im Auge.}
 {201}{}{Es ist schön, jemand Neues in der Stadt zu sehen.}
 {202}{}{Wilde sind wahrscheinlich gar nicht so schlecht.}
 {203}{}{Schmeiß 'ne Runde!}
@@ -40,7 +38,7 @@
 {208}{}{Wetter wird wohl bald umschlagen.}
 {209}{}{Ich habe eine gute Stelle für Fallen südlich von hier gefunden.}
 {210}{}{Wenn du clever bist, hältst du dich von den Duntons fern.}
-{211}{}{Wenn du verspannt bist, probier das Badehaus aus.}
+{211}{}{If you're anxious, try the Bathhouse.}
 {212}{}{Geh nach Westen, in die Trapperstadt, wenn du einen Platz suchst, wo du pennen kannst.}
 {213}{}{Willkommen, Freund.}
 {214}{}{Ich hoffe, dir gefällt unsere Stadt.}

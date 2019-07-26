@@ -1,7 +1,7 @@
 {100}{}{Du siehst eine schwer bewaffnete Wache.}
 {101}{}{Du siehst eine Wache der Hubologen.}
 {102}{}{Du siehst eine schwer bewaffnete Gestalt, der die Grausamkeit ins Gesicht geschrieben steht}
-{103}{}{Eindringling!}
+{103}{}{Einbrecher!}
 {104}{}{Schnappt euch den Eindringling!}
 {105}{}{Hierher! Hierher!}
 {106}{}{Deine Zeit ist gekommen Ungläubiger! Das Große Rad wird dich überrollen!}

@@ -2,7 +2,7 @@
 {101}{}{Du siehst Dar, die Deathclaw.}
 {102}{}{Du siehst eine typische Deathclaw. Die Kreatur ist riesig, sie hat einen kräftigen Körper, scharfe Zähne und lange Klauen.}
 {103}{}{Hallo, Mensch.}
-{104}{}{Was wollen?}
+{104}{}{Was willste?}
 {105}{}{Hi. Wer du?}
 {106}{}{Warum du hier?}
 {107}{}{Du klug wie alle?}
@@ -14,9 +14,9 @@
 {113}{}{Ich Dar, Krieger.}
 {114}{}{OK.}
 {115}{}{Ihr alle gleich. Ich gehn.}
-{116}{}{Ich} #continue 137
+{116}{}{Ich}
 {117}{}{Verstehe. Ich muß gehn.}
-{118}{}{Ich bin} #continue 138
+{118}{}{Ich bin}
 {119}{}{Kapiert.}
 {120}{}{Krieger! Ha! Guter Witz, hast du noch mehr auf Lager!}
 {121}{}{Dar bewachen die Halle und sorgen für Friede. Das alles.}
@@ -35,6 +35,5 @@
 {134}{}{Du bist also so dumm, daß ein anderer dich zwingen muß, was zu lernen. Wie nett.}
 {135}{}{Hallo. Du Rudelfreund.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}
-
 {137}{}{.}
 {138}{}{, Dar.}

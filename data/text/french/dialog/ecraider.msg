@@ -1,6 +1,5 @@
 {100}{}{Tu vois quelqu'un qui a l'air d'une brute.}
 {101}{}{Tu vois un pillard.}
-
 {200}{}{Tu as pénétré sur nos terres. Tu dois mourir !}
 {201}{}{Comment oses-tu venir ici sans invitation ? }
 {202}{}{Crève !}
@@ -13,11 +12,8 @@
 {209}{}{"Pas de survivants", c'est la consigne.}
 {210}{}{Bishop a dit : "Propriété privée".}
 {211}{}{On veut être payés !}
-
-
 {300}{}{Tu vois Gâchette Morton.}
 {301}{}{Tu vois Barillet Morton.}
 {302}{}{Tu vois Crosse Morton.}
 {303}{}{Tu vois Colt Morton.}
-
 {305}{}{Tu as tué mon frère ! Maintenant, je vais te tuer !}

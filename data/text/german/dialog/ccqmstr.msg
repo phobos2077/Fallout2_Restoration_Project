@@ -2,7 +2,7 @@
 {101}{}{Du siehst den Quartiermeister.}
 {102}{}{Du siehst jemanden in einer Powerrüstung von ungewöhnlichem Aussehen. Auf der Brustplatte
  befindet sich ein Abzeichen, das du nicht kennst.}
-{103}{}{Wer zum Teufel seid ihr...Alarm! Eindringlinge in der Basis!}
+{103}{}{Wer zum Teufel seid ihr... Alarm! Eindringlinge in der Basis!}
 {104}{}{Was zum...Ich weiß schon, was du hier willst. Offensichtlich willst du den uralten Anzug
  loswerden, den du da anhast.}
 {105}{}{Warum trägst du keine Uniform, Soldat?}
@@ -24,7 +24,7 @@
 {120}{}{Ja, ich bin neu hier.}
 {121}{}{Dann brauchst du eine Grundausrüstung. Geh in die Waffenkammer, hol dir 'nen Anzug und
  nimm deine Waffe. Danach mußt du dich beim Ausbildungs-Sergeant melden.}
-{122}{}{Danke!}
+{122}{}{Danke auch!}
 {123}{}{Gern geschehen. Jetzt raus mit dir. Ich muß arbeiten und will dabei nicht gestört werden.}
 {124}{}{Ich hab jetzt zu tun, komm nachher wieder.}
 {125}{}{Hallo, Rekrut. Ich hab gerade 'nen Anruf von deinem Sergeant erhalten. Er sagt, ich soll
@@ -38,5 +38,4 @@
 {131}{}{Papiere? Deine Papiere habe ich hier!}
 {132}{}{Falsche Antwort, du Wurm. Du mußt deine Papiere immer bei dir haben und das solltest du
  wissen!}
-{133}{}{Fertig}
-
+{133}{}{Hoppla.}

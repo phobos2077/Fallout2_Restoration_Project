@@ -14,7 +14,7 @@
 {117}{aeld4}{Czemu tu jesteœ, Dziecko?}
 {118}{}{Wiem gdzie znajduje siê Krypta 13!}
 {119}{}{Mogê ju¿ wyruszyæ na œwiêt¹ wyprawê.}
-{120}{}{Potrzebujê dowiedzieæ siê jeszcze kilku rzeczy.}
+{120}{}{Muszê dowiedzieæ siê jeszcze kilku rzeczy.}
 {121}{}{Nie mam zamiaru pope³niaæ samobójstwa!}
 {122}{}{Jeszcze raz - co jest moim zadaniem?}
 {123}{}{Wyruszam w tej chwili.}
@@ -23,13 +23,13 @@
 {126}{}{Dobrze, wyruszê tam natychmiast.}
 {127}{aeld6}{Uda³o ci siê przetrwaæ. Dziecko Przeznaczenia nie mo¿e byæ s³abe, bo oznacza³oby to nasz¹ zag³adê. Czy jesteœ w stanie wyruszyæ ze swoj¹ misj¹?}
 {128}{}{Mój test zosta³ ukoñczony pomyœlnie. Oczywiœcie, ¿e mogê wyruszyæ, choæby zaraz.}
-{129}{}{Muszê to jeszcze przemyœleæ.}
+{129}{}{Muszê to sobie najpierw przemyœleæ.}
 {130}{}{Nie mam zamiaru pope³niaæ samobójstwa!}
 {131}{aeld7}{S³uchaj uwa¿nie. ZnajdŸ œwiêt¹ Kryptê 13 i wróæ do nas z GECKiem. Vic, kupiec z Klamath, da³ nam tê butelkê, pochodz¹c¹ ze Œwiêtej Trzynastki. Rozpocznij poszukiwania od niego. Ten dysk bêdzie przypomina³ ci o twoim zadaniu. I niech bogowie Krypty czuwaj¹ nad tob¹.}
 {133}{}{Zanim odejdê, mam kilka pytañ.}
 {134}{}{Nie zawiodê mojego plemienia. ¯egnaj.}
 {135}{aeld8}{Dobrze wiêc. Wróæ do mnie, gdy siê zdecydujesz - ale niech to nie trwa zbyt d³ugo.}
-{136}{}{¯egnaj.}
+{136}{}{Do widzenia.}
 {137}{aeld9}{Niewiele mogê pomóc. Niewiele wiedzy zosta³o nam od Dawnych Czasów. Jakich m¹droœci poszukujesz?}
 {138}{aeld9b}{Czego potrzebujesz?}
 {139}{}{Opowiedz mi wiêcej o GECKu.}
@@ -38,7 +38,7 @@
 {142}{}{Po krótkim namyœle dochodzê do wniosku, ¿e nie potrzebujê na razie ¿adnej pomocy. ¯egnaj.}
 {143}{aeld10}{Jest to œwiêty artefakt - Generator Ekosystemu Cudownej Krainy. Dyski obiecuj¹, ¿e GECK zazieleni nasz¹ ziemiê i zeœle szczêœcie do naszej wioski. Uratuje nas. To wszystko co wiem.}
 {144}{}{Chcê wiedzieæ coœ jeszcze.}
-{145}{}{¯egnaj.}
+{145}{}{Do widzenia.}
 {146}{aeld11}{Klamath le¿y na wschodzie.}
 {147}{}{Jest jeszcze parê rzeczy, których chcê siê dowiedzieæ.}
 {148}{}{Mogê ruszaæ. ¯egnaj.}
@@ -58,7 +58,7 @@
 {162}{}{¯ycz mi szczêœcia, Starsza. Nie zawiodê ciê.}
 {163}{aeld16}{ZnajdŸ Vica w Klamath. Liczymy na ciebie.}
 {164}{aeld17}{Dobrze ciê znowu widzieæ, Dziecko. Nie chcê byæ niegrzeczna, lecz, jak widzê, twoja misja odszukania Œwiêtej Trzynastki nie jest jeszcze zakoñczona. Proszê, nie marnuj czasu na rozmowy. Nasz lud jest w wielkiej potrzebie. ZnajdŸ Kryptê!}
-{165}{}{Moja iœæ ju¿}
+{165}{}{Moja ju¿ iœæ.}
 {166}{}{No dobrze, ju¿ idê.}
 {167}{}{Nie zawiodê ciê, Starsza.}
 {168}{}{Pracujê nad tym, dobra?}
@@ -74,14 +74,12 @@
 {178}{}{Nie dra¿nij mnie starucho. Robiê co mogê.}
 {179}{aeld20}{Dziecko. Jesteœmy w wiêkszej potrzebie ni¿ kiedykolwiek wczeœniej. Ludzie choruj¹, braminy zdychaj¹, a zapasy jedzenia prawie siê wyczerpa³y. Niep³odnoœæ ziemi mo¿e zostaæ uleczona tylko za pomoc¹ GECKa. ZnajdŸ GECK i uratuj nas.}
 {180}{}{Moja rozumieæ.}
-{181}{}{Wyruszam natychmiast.}
+{181}{}{Ju¿ idê.}
 {182}{}{Wybacz mi. Znajdê GECK najszybciej, jak to tylko mo¿liwe.}
 {183}{}{Dobrze ju¿, dobrze. Zaczynasz rzêziæ jak zepsuty holodysk...}
-
-
 {200}{eeld1}{Dziecko Przeznaczenia! Jak uda³o ci siê tu dostaæ?}
 {201}{}{Uuch... duh?}
-{202}{}{Przybywam, by was uratowaæ.}
+{202}{}{Przychodzê ¿eby was uratowaæ.}
 {203}{}{Co tu siê u diab³a wyprawia?}
 {204}{eeld2}{Potworze! Czy mnie te¿ zamierzasz zabiæ?}
 {205}{}{Uuuch?}
@@ -101,7 +99,7 @@
 {219}{}{Co siê sta³o?}
 {220}{}{Rozumiem.}
 {221}{eeld7}{Musisz zniszczyæ maszynê i zabiæ wszystkie demony, które tu ¿yj¹. Spotkamy siê na zewn¹trz! I pamiêtaj, Dziecko - jeœli jeszcze nie masz GECKa, poszukaj go gdzieœ tutaj. Wolnoœæ na nic nam siê nie zda, jeœli nie zdo³amy uratowaæ naszej wioski. IdŸ ju¿!}
-{222}{}{¯egnaj.}
+{222}{}{Do widzenia.}
 {223}{eeld8}{Wci¹¿ jestem Starsz¹. Znaj swoje miejsce! Przeproœ, albo nie pomogê ci ju¿ wiêcej.}
 {224}{}{Wybacz, nie jesteœ star¹ dziwk¹. Co tu siê dzieje?}
 {225}{}{Jakbyœ mog³a mi w czymœ tutaj pomóc. Pierdol siê i umieraj.}
@@ -112,13 +110,10 @@
 {230}{}{Tylko tak siê z tob¹ dra¿niê. Wszystko jest pod kontrol¹. Nie martw siê.}
 {231}{eeld11}{(westchnienie) IdŸ ni¿ej. Zabijaj. Zbij maszyny. IdŸ ju¿!}
 {232}{eeld12}{Tym razem pos³uchaj! Zbadaj poziomy poni¿ej nas. ZnajdŸ maszynê, która daje moc. Zatrzymaj j¹, byœmy mogli uciec. Ludzie, którzy tu ¿yj¹, nie s¹ tacy, jak ich przedstawia³y nasze sny o Krypcie. S¹ Ÿli. Poza tym, jeœli jeszcze nie masz GECKa, poszukaj go tutaj. Nasza wolnoœæ na nic nam siê nie zda, jeœli nie zdo³amy uratowaæ naszej wioski. IdŸ ju¿!}
-{233}{}{Kapujê.}
+{233}{}{Rozumiem.}
 {234}{eeld13}{Tak to nazywaj¹. Ig³a wbija siê w twoj¹ skórê, jak w stimpakach, lecz potem dziej¹ siê straszne rzeczy. Skóra... (szloch)}
 {235}{}{Co siê dzieje potem?}
 {236}{}{To mnie przyprawi o md³oœci, prawda?}
 {237}{eeld13a}{Potem skóra zaczyna kipieæ, jakby pod spodem by³o stado wij¹cych siê czerwi. Wielkie b¹ble wyrastaj¹ i pêkaj¹. Krew zaczyna p³yn¹c z uszu, a jêzyk puchnie. Ci, którzy maj¹ szczêœcie, d³awi¹ siê nim na œmieræ. Ci, którzy maj¹ pecha...}
 {238}{}{Zap³ac¹ mi za to.}
 {239}{}{To z pewnoœci¹ musia³o byæ obrzydliwe. Co mam zrobiæ?}
-
-{240}{}{Mam Latacza, yyy... to znaczy jedn¹ z ich lataj¹cych maszyn.}
-{241}{}{Jeœli zniszczysz te machinê, znajdziemy twoj¹ lataj¹c¹ maszynê. Poœpiesz siê, nie zosta³o ju¿ nas wielu. }

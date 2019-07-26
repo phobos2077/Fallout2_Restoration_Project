@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen relativ jungen Wissenschaftler, dessen Haar sich bereits lichtet. Er sieht aus, als wäre er ganz auf seine Arbeit konzentriert.}
-{101}{}{Du siehst Crocket, den Hubologen-Wissenschaftler.}
+{101}{}{You see Crockett, the Hubologist scientist.}
 {102}{}{Du siehst einen relativ jungen Wissenschaftler, dessen Haar sich bereits lichtet. Er wirkt wie ein schlampiger Wirrkopf.}
 {103}{}{Ja? Was willste'n?}
 {104}{}{Agg. Um. Duur.}
@@ -7,17 +7,17 @@
 {106}{}{Kannst du Powerrüstungen aufrüsten?}
 {107}{}{Wer bist du?}
 {108}{}{Was machst du hier?}
-{109}{}{Nichts, danke.}
+{109}{}{Nichts, Danke.}
 {110}{}{Verdammt, es laufen doch täglich mehr Untermenschen herum. Schh! Schh!}
 {111}{}{Aooouu.}
 {112}{}{Ja, das kann ich schon. Aber was gibste mir dafür?}
 {113}{}{Dr. Jing ist sicher bereit, dir Benzin für das Raumschiff zu verkaufen.}
 {114}{}{Ich kann dafür bezahlen.}
 {115}{}{Ich laß dich leben.}
-{116}{}{Nichts. Vergiß es.}
-{117}{}{Ich bin Crocket. Ich bin Wissenschaftler und Reparaturgenie. Kann ich damit weitermachen?}
+{116}{}{Nichts, vergiß es.}
+{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
 {118}{}{Nein. Ich habe noch Fragen.}
-{119}{}{Ja, Mann, klar.}
+{119}{}{Ja, sicher.}
 {120}{}{Ich entwickle neue Technologien und ich habe ganz gut Spaß mit den Kultlerinnen, wenn du verstehst, was ich meine!?}
 {121}{}{Du bist also kein Hubologe?}
 {122}{}{Alles klar. Ich habe noch weitere Fragen.}
@@ -39,7 +39,7 @@
 {138}{}{Ich hol die Rüstung dann später ab.}
 {139}{}{Wenn keine Rüstung da ist, kann ich wohl schlecht meine Kunst auf sie anwenden. Komm wieder, wenn du eine hast.}
 {140}{}{Ich habe noch weitere Fragen.}
-{141}{}{Wiedersehn.}
+{141}{}{Tschüß.}
 {142}{}{[Er zuckt mit den Schultern] Willst du nun diese Rüstung oder nicht? Sie kostet 10.000 Dollar bar auf den Tisch.}
 {143}{}{Ich denk drüber nach.}
 {144}{}{OK. Hier.}
@@ -59,10 +59,10 @@
 {158}{}{Ach so. Ich hätte noch ein paar Fragen.}
 {159}{}{Hmm. Muß los. Tschüß.}
 {160}{}{Hey, ich hab keinen Streit mit dir. Also tu mir nichts.}
-{161}{}{Ich habe einige Fragen an dich.}
+{161}{}{Ich hab einige Fragen an dich.}
 {162}{}{Ich komme, um meine Rüstung zu holen.}
 {163}{}{Zu spät.}
-{164}{}{Wiedersehn.}
+{164}{}{Tschüß.}
 {165}{}{Sie ist noch nicht fertig. Laß mir noch etwas Zeit!}
 {166}{}{OK. Ich habe ein paar Fragen.}
 {167}{}{OK. Ich komm später wieder.}

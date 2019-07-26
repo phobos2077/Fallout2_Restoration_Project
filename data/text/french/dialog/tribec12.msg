@@ -1,6 +1,5 @@
 {100}{}{Tu vois un tribal qui semble âgé.}
 {101}{}{Tu vois le chef de la tribu.}
-
 {102}{}{Merci d'avoir ramené Kurisu au village. Y-a-t-il quelque chose que tu désires ?}
 {103}{}{Salutations, voyageur. J'ai eu connaissance de ce que tu as fait pour notre tribu et nous t'en sommes très reconnaissants. Qu'est-ce qui t'amène dans notre village ?}
 {104}{}{Rebonjour. Y a-t-il quelque chose d'autre que tu désires ?}
@@ -9,11 +8,9 @@
 {107}{}{Je recherche une femme disparue. C'est la soeur de mon ami Sulik.}
 {108}{}{Y a-t-il quelque chose d'autre à faire par ici ?}
 {109}{}{Ca n'a pas d'importance. Salut.}
-
 {110}{}{Je connais un animal de ce nom là, peut-être est-ce ce que tu recherches ? Sinon, je suis désolé, nous sommes une tribu primitive et n'avons aucun contact avec le monde extérieur.}
-{111}{}{Laisse-moi te demander autre chose.}
+{111}{}{Je voudrais te demander autre chose.}
 {112}{}{C'est tout ce que je voulais savoir. Salut.}
-
 {120}{}{Sulik ? Cet homme est un membre de notre tribu. Il est parti à la recherche de sa soeur après qu'elle ne soit pas revenue d'un trajet vers une tribu voisine. Où est Sulik à présent ?}
 {121}{}{Ho, il est juste là. Hé Sulik, viens par là...}
 {122}{}{Ho, il va bien. Je lui ai demandé de m'attendre le temps de régler quelques trucs.}
@@ -23,26 +20,17 @@
 {126}{}{C'est une bien triste nouvelle. Sulik était un homme remarquable. Ainsi, sa soeur est toujours introuvable ? Elle aussi est membre de notre tribu.}
 {127}{}{Oui, les esclavagistes l'ont capturée. J'ai proposé à Sulik de l'aider à la retrouver. Saurais-tu quelque chose qui pourrait m'aider dans mes recherches ?}
 {128}{}{Eh bien, le chef des esclavagistes se nomme Metzger et on peut le trouver à la Fosse. Peut-être la détient-il captive là-bas ou sait-il où elle pourrait se trouver.}
-{129}{}{Merci. Laisse moi te demander autre chose.}
-
+{129}{}{Merci. Permets-moi de te demander autre chose.}
 {130}{}{Je n'ai personnellement besoin de rien, mais je suis sûr que d'autres ont besoin d'aide. Demande aux gens à travers le village.}
-
-#dumb dialgoue
 {140}{}{Moi chercher J.E.K.}
 {141}{}{Moi chercher femelle perdue. Elle soeur mon ami Sulik.}
 {142}{}{Salut.}
-
 {150}{}{Moi demander plus.}
-
 {160}{}{Oh, lui Etre juste là. Sulik, chef vouloir parler toi.}
 {161}{}{Oh, lui Etre bien. Lui attendre moi.}
 {162}{}{Moi être désolé. Lui mort.}
-
 {170}{}{Oui, méchants prendre elle. Moi aider Sulik. Toi savoir où elle est ?}
-
 {200}{}{Tes sauvageries s'arrêtent ici, esclavagiste !}
-
-# PC has beaten the Enclave
 {300}{}{[Le vieil homme fume sa pipe et te regarde avec des yeux ternes qui donnent l'impression de s'infiltrer jusqu'au plus profond de ton âme. Il te demande de t'asseoir près de lui, dans de sa tente remplie de fumée.] Tu as fait une grande action, petit. J'entends les cris de nombreux esprits des os cruels perdus dans la grande eau salée. Maintenant que tu as accompli ceci, je peux partager avec toi le grand secret final.}
 {301}{}{Enfin, finalement ! Ecoutons ça !}
 {302}{}{Ca ne m'intéresse pas vieil homme. Adieu.}

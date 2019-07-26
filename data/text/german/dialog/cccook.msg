@@ -17,14 +17,12 @@
 {114}{}{Worüber willst'n reden?}
 {115}{}{Was hier los?}
 {116}{}{Wo Vertibird-Pläne?}
-{117}{}{Wo Kraftwerk?}
 {118}{}{Wo Hauptbasis?}
 {119}{}{Ich wieder Dienst. Danke.}
-{120}{}{Was geht hier so ab?}
+{120}{}{Was geht hier vor?}
 {121}{}{Ich interessiere mich für die Vertibirds. Wenn ich mir die Pläne ansehen wollte, wo finde
  ich die denn?}
-{122}{}{Wo liegt das Kraftwerk?}
-{123}{}{Wo liegt die Enklave-Hauptbasis?}
+{123}{}{Where's the Enclave main base located?}
 {124}{}{Danke. Ich muß zurück zu meinem Dienstposten.}
 {125}{}{Magste 'n bißchen Tratsch hören? Ich kann dir die letzten Neuigkeiten aus der Wartung,
  dem Labor oder von den Füchsen liefern.}
@@ -32,7 +30,7 @@
 {127}{}{Wie steht's mit Wartung?}
 {128}{}{Wie steht's mit dem Labor?}
 {129}{}{Wie steht's mit den Füchsen?}
-{130}{}{Noch was?}
+{130}{}{Noch irgendwas?}
 {131}{}{Ich genug hören.}
 {132}{}{Was läuft in der Wartung?}
 {133}{}{Was weißt du über das Labor?}
@@ -49,7 +47,7 @@
  keine Ahnung was. Auf jeden Fall gab's viel Lärm, bis der Kommandant das Zimmer schallisolieren
  ließ.}
 {141}{}{Kapiert.}
-{142}{}{Das ist interessant. }
+{142}{}{That's interesting. }
 {143}{}{Ha! Da wird's romantisch, mein Freund. Scheint als ob einer der Computerfreaks sich in
  eine Füchsin verguckt hat, die Wache vor der Praxis. Hat sogar 'nen Kosenamen für sie. Nennt sie
  ausgerechnet Snookie.}
@@ -61,13 +59,10 @@
  glaub ich. }
 {148}{}{OK.}
 {149}{}{Wo das?}
-{150}{}{Ich verstehe.}
-{151}{}{Wo ist das?}
+{150}{}{Verstehe.}
+{151}{}{Where's that?}
 {152}{}{Nordöstliche Ecke der Basis, mein Freund. Kannst es nicht verfehlen.}
 {153}{}{OK. Danke.}
-{154}{}{Geh rüber zur Kommandozentrale, über die Straße bei den Hundezwingern und nimm den Aufzug
- nach unten.}
-{155}{}{Über Straße, geh unten. OK.}
 {156}{}{Komisch, daß du das nicht weißt, bist wohl hier aus der Gegend. Die Hauptbasis ist mitten
  im verdammten Ozean. Naja, nicht genau mittendrin, aber so gut wie. Kommt man nur mit Schiff
  oder Vertibird hin und das blöde Schiff is' irgendwie manipuliert. Brauchst 'n SHS dafür.}
@@ -97,7 +92,7 @@
  schön für dich. Jetzt beweg deinen Hintern zum Nachschub und laß dich ausrüsten.}
 {174}{}{Wo das?}
 {175}{}{OK.}
-{176}{}{Wo ist das?}
+{176}{}{Where's that?}
 {177}{}{Ich kümmer mich darum.}
 {178}{}{Nimm den Aufzug im nächsten Raum nach unten, den Flur entlang bis zur Hauptkreuzung, dann
  links und die erste Tür links. Auf geht's. }

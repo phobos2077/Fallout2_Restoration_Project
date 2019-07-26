@@ -9,12 +9,12 @@
 {108}{}{Ja, Bürger?}
 {109}{}{Ja, was gibt es? Ich muß noch jede Menge Zuteilungen bearbeiten.}
 {110}{}{Emm... Igg suck Valt!}
-{111}{}{Trotte weg}
+{111}{}{Verzieh dich}
 {112}{}{Was ist das für ein Gebäude?}
 {113}{}{Ich suche die Vault.}
 {114}{}{Ich suche einen bestimmten Diener... Joshua, glaub ich. Ist er hier?}
 {115}{}{Möchtest du Sklaven... ähh... Diener kaufen?}
-{116}{}{Im Augenblick nichts, danke.}
+{116}{}{Heute nichts, danke.}
 {117}{}{Das hier? Das hier ist das Amt für Dienerzuteilung. Benötigst du einen Diener?}
 {118}{}{Das hier ist das Amt für Dienerzuteilung.}
 {119}{}{Amt für Dienerzuteilung? Was ist das denn?}
@@ -29,7 +29,7 @@
 {127}{}{Ich hätt da noch 'ne andere Frage...}
 {128}{}{Danke für die Beschreibung. Tschüß.}
 {129}{}{Was zum -? Bist du einer der neuen Diener}
-{130}{}{Jo.}
+{130}{}{Jo}
 {131}{}{Uh-uh ich gehen.}
 {132}{}{Du bist hier wohl neu. Paß auf, ich erklär's dir... langsam.}
 {133}{}{Bürger, die Hilfe bei niederen Arbeiten benötigen, kommen hierher, um sich einen Tag lang
@@ -60,7 +60,7 @@
 {152}{}{Habt ihr hier auch einen Freigänger namens Joshua?}
 {153}{}{Möchtest du jetzt gleich Sklaven... ähh... Diener kaufen?}
 {154}{}{Hmmm. Ich hätte da noch 'ne Frage...}
-{155}{}{Verstehe. Danke für die Auskunft.}
+{155}{}{Alles klar. Besten Dank für die Auskunft.}
 {156}{}{Nein, keine Skripter, du Schwachkopf.}
 {157}{}{Schwachkopf? Ich hab hart gearbeitet, um auf den Mindestfaktor 9 für Intelligenz- und
  Wahrnehmung zu kommen, um diesen Node hier zu finden. Na egal, was wolltest du sagen?}
@@ -126,12 +126,12 @@
 {200}{}{Naja, ein bißchen mehr könnt's schon sein, aber es reicht. Ich werde dafür sorgen, daß
  dieser Joshua, den du angefordert hast, zur weiteren Verfügung in den Vorhof überstellt wird. 
  Einen Moment, ich veranlasse eben alles Erforderliche.}
-{201}{}{Okay.}
+{201}{}{OK.}
 {202}{}{So, erledigt. Joshua ist kein Diener von Vault City mehr und wurde zusammen mit den
  restlichen Außenweltlern in den Vorhof gebracht.}
 {203}{}{Danke. Ich hätte da noch ein paar Fragen...}
 {204}{}{Sehr schön. Dann geh ich ihn jetzt da abholen.}
-{205}{}{Klingt gut. Hoffentlich schlüpft er nicht wieder irgendwie in die Stadt rein.}
+{205}{}{Sounds good. Hopefully, he won't make his way back into the city.}
 {206}{}{Tatsächlich? Weißt du nicht, daß alle Diener sorgfältig überprüft werden, bevor sie in
  das Zuteilungszentrum eingelassen werden?}
 {207}{}{Vielleicht irre ich mich. Aber ich möchte trotzdem über seine Freilassung verhandeln.}
@@ -190,8 +190,7 @@
 {244}{}{Nein, der Junge sieht so aus, als ob er schwierig auszubilden wäre...200 oder gar nichts.}
 {245}{}{Überleg mal. Das wird 'ne ganze Woche dauern, den Geruch von dem Sippenhannes hier
  wegzukriegen. 100 oder vergiß es.}
-{246}{}{Wer garantiert mir, daß er nicht in 10 Minuten einen Herzinfarkt kriegt? Er ist alt.
- 100 oder gar nichts.}
+{246}{}{You can't even promise me that he won't have a heart attack once he leaves your care. He's old. 100 or nothing.}
 {247}{}{OK, das ist fair. Der Diener gehört dir.}
 {248}{}{Dann vergiß es. Ich hab da noch ein paar Fragen an dich...}
 {249}{}{Dann wird nichts draus. Kann mir nicht leisten, meinen Diener für den Preis abzustoßen.
@@ -227,3 +226,4 @@
 {267}{}{Was machst du denn hier? Ich hab dich doch zur Vault geschickt! Das ist doch... Na schön, ich laß dich von jemandem wieder hinbringen.}
 {268}{}{Oh-keeehh}
 {269}{}{Du hast Barkus dazu überredet, Joshua freizulassen.}
+{300}{}{I heard you're quite the hero. Good job.}

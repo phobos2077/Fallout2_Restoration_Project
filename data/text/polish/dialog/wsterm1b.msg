@@ -1,6 +1,6 @@
 {100}{}{Terminal komputerowy.}
 {101}{}{Oszczêdzacz ekranu jest w³¹czony.}
-{102}{}{Nie mo¿esz odczytaæ, co pokazuje monitor.}
+{102}{}{Nie mo¿esz odczytaæ tego, co wyœwietla monitor.}
 {103}{}{System Bezpieczeñstwa Skynet                                     
  Intruz na Poziomie 1                                                 
  Uruchamiam Œrodki Zapobiegawcze na Poziomie 1                
@@ -16,9 +16,9 @@
  Uruchamiam Œrodki Zapobiegawcze na Poziomie 1}
 {106}{}{Alarm na Poziomie 1 odwo³any - Fa³szywy Alarm}
 {107}{}{[Dostrzegasz na klawiaturze klawisz z napisem "Pomoc". Wciœnij Klawisz.]}
-{108}{}{W³am siê do systemu bezpieczeñstwa.}
+{108}{}{W³am siê do systemu ochrony.}
 {109}{}{WyjdŸ.}
-{110}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê]}
+{110}{}{Ajj! [Uderzasz ze z³oœci¹ piêœci¹ w klawiaturê.]}
 {112}{}{System Bezpieczeñstwa Skynet                                     
  Wykryto Intruzów - Obszar Zewnêtrzny                         
  Rozpoczêto Automatyczn¹ Naprawê...                            
@@ -51,7 +51,7 @@
 {130}{}{Wciœnij 3}
 {131}{}{Uwaga! Ten program dzia³a najlepiej, gdy wszystkie inne programy s¹ wy³¹czone. Czy chcesz zrobiæ to teraz?}
 {132}{}{Tak}
-{133}{}{Nie}
+{133}{}{Nie.}
 {134}{}{WyjdŸ.}
 {135}{}{Wy³¹czam wyszystkie programy                                      
  Wy³¹czam Program Ochronny Skynet - Poziom 1                
@@ -68,5 +68,4 @@
  Uruchamiam Blokadê Bezpieczeñstwa Terminala...                
  Dostêp do tego terminala zosta³ ODCIÊTY}
 {140}{}{WyjdŸ.}
-
 {200}{}{Komputer znajduje siê w trybie diagnostycznym. Proszê zaczekaæ, a¿ procedura diagnostyczna zostanie ukoñczona.}

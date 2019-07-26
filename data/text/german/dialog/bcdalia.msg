@@ -11,14 +11,14 @@
 {110}{}{Wer bist du?}
 {111}{}{Was machst du?}
 {112}{}{Du siehst so aus, als würdest du den Pfad bewachen.}
-{113}{}{Ich geh jetzt.}
+{113}{}{Ich mach mich dann mal auf den Weg.}
 {114}{}{Tja, hallo. Tut mir leid, aber du solltest jetzt gehn.}
-{115}{}{Ich reden.}
-{116}{}{OK, ich gehn.}
+{115}{}{Ich wollen reden.}
+{116}{}{Ja, ich gehn.}
 {117}{}{Ich möchte mit dir reden.}
 {118}{}{Tschüß.}
 {119}{}{Ich sagte, ich bin Dalia. Ich will nicht unhöflich sein, aber im Moment möchte ich allein sein. OK?}
-{120}{}{OK. Wieder-sehn.}
+{120}{}{Okay, Tschüß.}
 {121}{}{Nur wenig noch.}
 {122}{}{Dann geh ich.}
 {123}{}{Ich möcht dich nur was fragen.}
@@ -45,7 +45,7 @@
 {144}{}{Hast du jemanden hier vorbeilaufen sehen, der in Eile war?}
 {145}{}{Hier laufen jeden Tag Leute vorbei. Ich achte wirklich nicht besonders auf sie.}
 {146}{}{Ich kein Zeit für dein Mist.}
-{147}{}{Oh, OK.}
+{147}{}{Oh, okay.}
 {148}{}{Mädchen in Gefahr. Junges Mädchen. Jemand Tochter. Du helfen bitte?}
 {149}{}{Ich hab keine Zeit für deinen Mist.}
 {150}{}{Schön, Tschüß.}
@@ -54,6 +54,6 @@
 {153}{}{Danke. Ich nicht vergessen, Dalia.}
 {154}{}{Danke. Das werde ich dir nie vergessen, Dalia.}
 {155}{}{Dann geh zum Teufel und laß mich hier in Ruhe.}
-{156}{}{Fertig.}
+{156}{}{OK.}
 {157}{}{Dann geh zum Teufel und laß mich hier in Ruhe.}
-{158}{}{Fertig.}
+{158}{}{OK.}

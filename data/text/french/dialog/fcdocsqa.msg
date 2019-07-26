@@ -11,7 +11,7 @@
 {110}{}{Nous bougerons un jour, j'en suis sûr.}
 {111}{}{Tu aimes nos foyers ?}
 {112}{}{J'adore vivre sur la plage.}
-{113}{}{Pitié, ne me frappe pas !}
+{113}{}{Ne me fais pas mal.}
 {114}{}{Non ! Ne me frappe pas !}
 {115}{}{Laisse-nous tranquilles !}
 {116}{}{Arrête ! Ne nous fais pas de mal !}
@@ -20,4 +20,3 @@
 {119}{}{Oh non ! Un despote !}
 {120}{}{Si seulement nous avions des gardes !}
 {121}{}{Je regrette de ne plus assurer désormais la protection de la société...}
-

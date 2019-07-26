@@ -8,7 +8,7 @@
 {107}{}{[Extraire]}
 {108}{}{[Entreposer]}
 {109}{}{[Quitter]}
-{110}{}{Ok.}
+{110}{}{Ug.}
 {111}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
 {112}{}{Ce terminal est hors service                                Veuillez contacter l'administrateur réseau pour plus de détails.}
 {113}{}{}
@@ -21,7 +21,7 @@
 {120}{}{[Sélectionner virus]}
 {121}{}{[Sélectionner organes]}
 {122}{}{[Sélectionner cadavres]}
-{123}{}{[Retour au menu principal]}
+{123}{}{[Retourner au menu principal]}
 {124}{}{[Quitter]}
 {125}{}{Menu Virus                                                            Anthrax                                                             Peste noire (Souche 238)                                          Petite vérole (Souche 1025)                                              Ebola                                                                   Hantavirus (Souche 304)}
 {126}{}{}
@@ -88,7 +88,7 @@
 {200}{}{[Bien que les mesures indiquent que ce cerveau est vivant, les niveaux de sortie neuronaux sont bien en dessous de la normale.]                           Extraire ?}
 {201}{}{}
 {202}{}{[Extraire]}
-{203}{}{[Ne pas extraire]}
+{203}{}{Non.}
 {204}{}{[Les ondes du cerveau sont actives mais diffèrent de celles d'un cerveau humain.]                                                          Extraire ?}
 {208}{}{[L'activité du cerveau correspond à celle d'un humain normal.]                   Extraire ?}
 {212}{}{[L'activité du cerveau dépasse tous les paramètres connus ! On dirait des signaux mixtes, humains et numériques.]           Extraire ?}
@@ -102,7 +102,7 @@
 {223}{}{[D'après les paramètres affichés, le soldat Dobbs est vivant ! Il est entreposé dans le réservoir de régénération de gel Biomed expérimental.]   Extraire ?}
 {224}{}{}
 {225}{}{[Extraire]}
-{226}{}{Ne pas extraire]}
+{226}{}{Non.}
 {227}{}{[Le corps du soldat Dobbs repose à tes pieds. Soudain il se relève et se met à marcher vers toi. Bizarre, il n'a pas l'air mort.]}
 {228}{}{[Quitter]}
 {229}{}{Aucun cadavre actuellement en stock.}
@@ -111,5 +111,4 @@
 {232}{}{[Même si tu vois clairement des unités de stockage vides, l'écran indique qu'elles sont pleines. Il doit s'agir d'une erreur de programme. Oh, bof !]}
 {233}{}{[Retourner au menu principal]}
 {234}{}{[Quitter]}
-
 {300}{}{ est incapable de lire ce qu'affiche le moniteur.}

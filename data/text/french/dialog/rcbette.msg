@@ -76,9 +76,8 @@
 {175}{}{On dirait qu't'es moins bête que t'en as l'air. Mais tu dois l'être quand même, t'es raide comme un piquet. Cours à la maison voir môman et dis-lui que tu n'as pas eu assez de cran pour faire quoi que ce soit.}
 {176}{}{Ca suffit ! J'en ai assez de ta grande gueule ! Une dernière chance, tu pars sans faire d'histoires ou je te mets en pièces.}
 {177}{}{Ouais, c'est mieux pour tout le monde. Je n'veux surtout pas blesser quelqu'un. Au revoir.}
-{178}{}{D'accord j'ai compris. Tu peux m'emmener et Caminetto aussi. [A Caminetto :] Pas vrai, ma petite ordure ?}
+{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
+ (to Caminetto) Right, my little fuckface?}
 {179}{}{Je préfère ça.}
 {180}{}{Non, c'est trop tard maintenant. Je vais devoir vous régler votre compte à tous les deux.}
-# Begin Seraph's Code
 {181}{}{Je crois que je botterai les fesses de Caminetto un autre jour.}
-# End Seraph's Code

@@ -13,7 +13,7 @@
 {110}{}{Sklaverei ist nur ein geistiges Konzept. Kannst du etwa von dir behaupten, daß du
  wirklich frei bist?}
 {111}{}{Gnade! Bitte, nicht das Haus der Schmerzen!}
-{112}{}{Laß mich!}
+{112}{}{Faß mich nicht an!}
 {113}{}{Ungeheuer! Du und deinesgleichen haben mir das angetan!}
 {114}{}{Möge das Urteil des Allmächtigen über dich kommen!}
 {115}{}{Ich gehorche dir aufs Wort.}
@@ -22,7 +22,7 @@
 {118}{}{Freiheit! Süßer Segen der Freiheit!}
 {119}{}{Sieh nur, was du angerichtet hast - du hast mein Leben ruiniert!}
 {120}{}{Kann nicht stehenbleiben. Muß laufen. Sie dürfen mich nicht kriegen.}
-{121}{}{Sch...! Es ist um mich geschehen - sie werden mich kriegen und dann töten sie mich.}
+{121}{}{Shit! I'm doomed - they're gonna hunt me down and kill me.}
 {122}{}{Wo soll ich jetzt hin? Was soll ich tun?}
 {123}{}{Danke vielmals. Jetzt geht's den Sklavenhändlern an den Kragen.}
 {124}{}{Ich kann's gar nicht glauben - ich bin frei!}

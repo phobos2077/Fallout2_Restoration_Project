@@ -20,9 +20,9 @@
 {119}{}{[Tu découvres de nombreuses formules chimiques et des notes de laboratoire. Tu ne sais pas vraiment ce que tout cela signifie.]}
 {120}{}{Transférer carburant vers pétrolier Poséidon.}
 {121}{}{Transférer carburant vers Hubologistes.}
-{122}{}{Retour.}
+{122}{}{[Retour]}
 {123}{}{[Après avoir réussi à te familiariser avec la symbologie et la terminologie technique, tu découvres que les Shis travaillent sur un nouveau type d'armure de combat polymérique capable de résister aux flammes et aux projectiles. Il va encore falloir des années pour finaliser ce projet. Tu vois également des allusions à de nouvelles armes et techniques de construction. Apparemment les Shis ont des projets pour l'avenir.]}
-{124}{}{Retour.}
+{124}{}{[Retour]}
 {125}{}{Carburant correctement transféré. Réservoirs de stockage = vides. Fermeture du programme en cours.}
 {126}{}{[Terminé]}
 {127}{}{Carburant correctement transféré. Réservoirs de stockage = vides. Fermeture du programme en cours.}
@@ -31,11 +31,9 @@
 {130}{}{Activer la station.}
 {131}{}{[Quitter]}
 {132}{}{[Ton approche au hasard a fait des merveilles... Tu accèdes à la machine !]}
-{133}{}{[Suite]}
-
+{133}{}{[Plus]}
 {134}{}{L'ordinateur ne répond à aucune commande.}
 {135}{}{Tu ne trouves aucun endroit pour mettre ça.}
-
 {136}{}{[Deviner le mot de passe]}
 {137}{}{Transférer carburant via pipeline.}
 {138}{}{Destination requise.}

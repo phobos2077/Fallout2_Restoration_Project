@@ -1,48 +1,34 @@
 {100}{}{Ein sehr reger alter Mann.}
 {101}{}{Grisham.}
 {102}{}{Du kannst ihn nicht zuordnen, doch er kommt dir bekannt vor.}
-
 {151}{}{Ich hab doch gesagt, du kommst auch noch dran!}
 {152}{}{Buahahaha!}
 {153}{}{Hau ab!}
 {154}{}{Ich hab zu tun!}
 {155}{}{Ich hab doch gewußt, daß meine Tochter etwas seltsam ist.}
-{156}{}{Über Geschmack läßt sich halt nicht streiten.}
+{156}{}{Ich finde über Geschmack kann man sich streiten.}
 {157}{}{Ich glaub, mir wird übel.}
 {158}{}{Ich hab doch gewußt, daß mein Sohn etwas seltsam ist.}
-
-{159}{}{Du gehörst jetzt wohl zur Familie.}
-{160}{}{Kümmer dich gut um meine Tochter.}
+{159}{}{Kümmer dich gut um meine Tochter.}
+{160}{}{Ich schätze du gehörst jetzt zur Familie.}
 {161}{}{Kümmer dich gut um meinen Sohn.}
-
-# Node 0
 {162}{}{Ich heiße Grisham. Willkommen in meinem Schlachthaus. Willst du was abliefern oder mitnehmen?}
 {163}{}{Mitnehmen wohl eher. Ich möchte Reiseproviant kaufen.}
 {164}{}{Du hast hier nicht zufällig eine goldene Uhr rumliegen sehen?}
-{350}{}{[Mit Blick auf Bessy.] Abliefern.}
-
-# Node 1
 {165}{}{Was kann ich jetzt für dich tun?}
 {166}{}{Ich möchte etwas von deinem berühmten Schnetzelfleisch kaufen.}
 {168}{}{Kannst du mir etwas über das Schlachthaus erzählen?}
 {169}{}{Die Dürre hat dein Geschäft anscheinend noch nicht beeinträchtigt.}
-{360}{}{Ich hätte gern, daß du etwas Schnetzelfleisch für mich machst.}
-
-# Node 2
 {170}{}{Ich hab gewußt, daß du das schaffst. Mal sehen, ich schulde dir $1000 für den Job. Allerdings sind, }
 {171}{}{ Brahmin wegen deiner Nachlässigkeit umgekommen. Bei $100 pro Brahmin beträgt deine Belohnung }
 {172}{}{. Versuch nicht zu lügen, wie viele Brahmin umgekommen sind, einer meiner Jungs ist dir gefolgt und hat dich beobachtet.}
 {173}{}{Du hast kein Wort davon gesagt, daß ich für tote Brahmin zahlen muß!}
 {174}{}{Du hinterhältiger, vertrockneter alter Sack. Aahh! Merk's dir: Das ist das letzte Mal, daß du mich reinlegst!}
 {175}{}{Danke, Opa, es war mir ein Vergnügen.}
-
-# Node 3
 {176}{}{Wie kannst du es wagen, hier noch mal aufzutauchen! Wegen deiner Feigheit habe ich zehn Brahmin verloren. Wenn du das aber gutmachen willst - $1500 würden einen Großteil meiner Verluste abdecken.}
 {177}{}{Die Brahmin waren nicht mehr als $1000 wert.}
 {178}{}{So viel Geld hab ich nicht und wenn, würd ich's nie einem Beutelschneider wie dir geben.}
 {179}{}{Ich hab mein Geld im Zimmer gelassen, ich hol's schnell.}
-
-# Node 10
 {180}{}{Ah! Natürlich, natürlich. Mal sehen, für unterwegs empfehle ich unsere weltberühmten gedörrten Brahminstreifen. Sehr haltbar und schmecken lecker. Nur $10 pro Packung. Interessiert?}
 {181}{}{Klingt gut. Gib mir eine Packung.}
 {182}{}{Nein, danke. Später vielleicht. Aber ich möchte dir ein paar Fragen stellen.}
@@ -64,7 +50,7 @@
 {199}{}{[SCHÜTTEL GRISHAMS HAND]}
 {200}{}{Moment mal. Wenn ich so drüber nachdenke, die Brahmin sahen recht dünn aus. Wie wär's mit $750?}
 {201}{}{Ich hab's mir überlegt, ich will dich nicht bezahlen.}
-{202}{}{[Zeigt dir ein Zahnpasta-Grinsen] Schön zu sehen, daß du Charakter hast.}
+{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
 {203}{}{[Grisham bekommt einen hochroten Kopf und spricht durch zusammengebissene Zähne.] OK, $750. Gib mir das Geld!}
 {204}{}{Also weißt du, $750 ist immer noch ziemlich teuer. Die Brahmin wären auch gestorben, wenn die Hunde sie nicht erwischt hätten. Aber ich bin kein Egoist, ich geb dir $50.}
 {206}{}{GUT! GIB MIR DAS GELD UND HAU AB!}
@@ -104,80 +90,53 @@
 {246}{}{Na ja, wenn du 'n Arzt bist, ist es wohl OK. Zieht euch schnell an, mit solchen Mißverständnissen fängt Gerede immer an. Wenn du schon da bist, ich hab in letzter Zeit so Schmerzen im Hintern, vielleicht kannst du dir das mal ansehen.}
 {247}{}{Ähh ... das schau ich mir später mal an. Ein anderer Patient wartet noch auf mich. Tschüß.}
 {248}{}{Ja. Warum kommst du nicht mit, den Priester holen. Versuch keine krummen Dinger, sonst brauchst du 'nen Doktor.}
-
 {260}{}{Ich hab gewußt, daß du das schaffst. Mal sehen, ich schulde dir $1000 für den Job. Da hast du's.}
-
-# rape script dialog
 {300}{}{Was zum Teufel ist hier los?}
 {301}{}{Ähhh... Sir, ich wollte nur...}
 {302}{}{Laß bloß deine Pfoten von ihr...}
-
-#define wedding script dialog
+{350}{}{[Mit Blick auf Bessy.] Abliefern.}
+{360}{}{Ich hätte gern, daß du etwas Schnetzelfleisch für mich machst.}
 {400}{}{Was ist hier los?}
 {402}{}{Ach du Scheiße! Ich hab gewußt, daß }
-{452}{}{ anders ist, aber das ist nur auf eine Art zu richten!}
 {403}{}{Wie kannst du die Ehre von }
-{453}{}{. besudeln! Das ist nur auf eine Art zu richten!}
 {404}{}{Äh, Jo, können wir das Blabla am Anfang nicht einfach überspringen?}
 {406}{}{Junge...}
 {407}{}{Mädel...}
 {410}{}{Zwing mich nicht }
-{460}{}{ zur Witwe machen.}
-{461}{}{ zum Witwer machen.}
 {412}{}{Miria}
 {413}{}{Davin}
-
-# Seraph's Code: Cousin Bo
 {414}{}{Oh, Bo, können wir den Teil mit dem Ehegelöbnis nicht einfach überspingen?}
-
-# Seraph's Fix: changed '220' to '420' and '221' to '421'. Thanks Wasteland Ghost!
 {420}{}{Du gehst niergendwo hin Junge!}
 {421}{}{Du gehst niergendwo hin Mädel!}
-
-# Node 4
+{452}{}{ anders ist, aber das ist nur auf eine Art zu richten!}
+{453}{}{. besudeln! Das ist nur auf eine Art zu richten!}
+{460}{}{ zur Witwe machen.}
+{461}{}{ zum Witwer machen.}
 {500}{}{Da hast du aber ein schönes Tier. Gibt gutes Schnetzelfleisch. Paß auf, ich behalt was vom Schnetzelfleisch als Zahlung. Was meinst du?}
 {501}{}{Niemals! Ich liebe Bess. Aus der macht niemand Schnetzelfleisch.}
 {502}{}{Klingt gut. Wann kann ich mir das Schnetzelfleisch abholen?}
 {503}{}{Vergiß es, Opa. Ich verschwinde.}
-
-# Node 5
 {510}{}{Ach ... so einer bist du. Ich möcht dir deine "Freundin" nicht wegnehmen. Die Nächte in der Wüste wären wahrscheinlich ganz schön einsam ohne sie. Für sowas hab ich keine Zeit, ich hab zu tun.}
-
-# Node 6
 {515}{}{Super! Komm in einer Woche wieder. Du kannst dir das Schnetzelfleisch in der Räucherkammer gleich neben dem Schlachthaus abholen. Ich laß es dort in einem Sack. War mir ein Vergnügen.}
-
-# Node 50
 {600}{}{Hallo }
-{1600}{}{. Ich hoffe, du paßt gut auf meine Tochter Miria auf. Sie ist das Licht meines Lebens, und es würde mir das Herz brechen, wenn ihr etwas zustoßen würde. Wo ist sie eigentlich? Ich wollte sie eigentlich wiedersehen.}
 {601}{}{Na, ist das nicht }
-{1601}{}{. Wie bekommt dir das Eheleben denn so? Wie ich sehe, reist mein Sohn Davin nicht mit dir zusammen. Ich vermisse ihn schon sehr. Vielleicht kannst du ihn ja beim nächsten Besuch mitbringen. Das wär eine große Freude für einen alten Mann, wenn er seinen einzigen Sohn wiedersehen könnte.}
 {602}{}{Ähhhm, er ist tot.}
 {603}{}{Ähhhm, sie ist tot.}
 {604}{}{Miria lebte zwar noch, als ich sie verließ, aber jetzt ist sie bestimmt tot.}
 {605}{}{Davin lebte zwar noch, als ich ihn verließ, aber jetzt ist er bestimmt tot.}
-{606}{}{Davin, äh, konnte nicht mitkommen, aber ich werd ihm deine Grüße ausrichten, wenn ich ihn wiedersehe.}
-{607}{}{Miria, äh, konnte nicht mitkommen, aber ich werd ihr deine Grüße ausrichten, wenn ich sie wiedersehe.}
-
-# Node 51
+{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
+{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
 {700}{}{Aggghh... [Grishams Gesicht zeigt einen entsetzten Ausdruck, als er sich plötzlich an die Brust greift und zusammenbricht.]}
-
-# Node 52
 {750}{}{OK, ich muß jetzt wieder an die Arbeit. Bis später mal.}
-
 {800}{}{Du hast Grishams Brahmin gerettet.}
-
-# Seraph's Code: Uncle Biff
 {1101}{}{Du siehst Onkel Biff.}
-
 {1155}{}{Ich weiß meine Nichte war sonderbar.}
 {1156}{}{Ich finde über Geschmack kann man sich streiten.}
 {1157}{}{Ich bin froh das Grisham nicht mehr am Leben ist um das mit anzusehen.}
 {1158}{}{Ich weiß mein Neffe war sonderbar.}
-
 {1159}{}{Ich schätze du gehörst jetzt zur Familie.}
 {1160}{}{Pass gut auf meine Nichte auf.}
 {1161}{}{Pass gut auf meinem Neffen auf.}
-
 {1228}{}{Junge, versuche erst gar nicht mir das zu erklären. Ich will das nicht hören. Ich geh 'n Priester holen, um das hier nach Gesetz ablaufen zu lassen, wenn er fertig ist nimmst du meinen Neffen und verschwindest.}
 {1229}{}{Ich kann nicht leugnen dass mich das nicht anmacht, aber ich muss das tun was Grisham getan hätte. Ihr zwei werdet heiraten und dann gehen.}
 {1230}{}{Könntest du mir mal erklären, was du mit meiner Nichte machst?}
@@ -187,7 +146,8 @@
 {1237}{}{Na Klasse. Jetzt krieg ich 'nen Klugscheißer als Verwandten. Komm schon... Nichte. Bringen wir's hinter uns.}
 {1238}{}{Mal sehen. Es sah so aus, als ob du und meine Nichte die Paarungszeit der Brahmins nachgemacht hättet.}
 {1239}{}{Mal sehen. Es sah so aus, als ob du und mein Neffe 'nen Horizontalen Tango unterm Betttuch tanzen würdet.}
- 
 {1403}{}{Wie kannst du nur die Ehre meines Bruders besudeln }
-{1412}{}{Tochter}
-{1413}{}{Sohn}
+{1412}{}{daughter.}
+{1413}{}{son.}
+{1600}{}{. Ich hoffe, du paßt gut auf meine Tochter Miria auf. Sie ist das Licht meines Lebens, und es würde mir das Herz brechen, wenn ihr etwas zustoßen würde. Wo ist sie eigentlich? Ich wollte sie eigentlich wiedersehen.}
+{1601}{}{. Wie bekommt dir das Eheleben denn so? Wie ich sehe, reist mein Sohn Davin nicht mit dir zusammen. Ich vermisse ihn schon sehr. Vielleicht kannst du ihn ja beim nächsten Besuch mitbringen. Das wär eine große Freude für einen alten Mann, wenn er seinen einzigen Sohn wiedersehen könnte.}

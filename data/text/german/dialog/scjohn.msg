@@ -11,6 +11,3 @@
 {110}{}{Hallo... und Tschüß.}
 {111}{}{Danke für alles, was du für uns getan hast. Ich möcht mich für den kalten Empfang vorhin entschuldigen.}
 {112}{}{Hau ab, du Vollidiot.}
-
-{113}{}{Verdammt, ich hasse so was.}
-{114}{}{Hier, nimm das! Das wird dich lehren.}

@@ -41,7 +41,7 @@
 {140}{}{Travail, travail, travail. Riz, riz, riz. ::Soupir::}
 {141}{}{N'y a-t-il pas autre chose dans la vie ?}
 {142}{}{Nous sommes plus rusés que tu ne le crois.}
-{143}{}{Hé ! Un gaijin !}
+{143}{}{Regarde ! Un gaijin !}
 {144}{}{Le porte-parole de l'Empereur ! Mort ! La ville va tomber !}
 {145}{}{Que va-t-il se passer maintenant ?}
 {146}{}{J'espère que les sauvages ne vont pas nous envahir maintenant.}
@@ -54,7 +54,6 @@
 {153}{}{N'y a-t-il pas autre chose dans la vie ?}
 {154}{}{Nous sommes plus rusés que tu ne le crois.}
 {155}{}{Regarde ! Un gaijin !}
-
 {163}{}{Tu as tué AHS-9 ? Ouais !}
 {164}{}{Ces Hubologistes me donnent la chair de poule.}
 {165}{}{Tu nous as rendu un immense service.}
@@ -67,7 +66,7 @@
 {172}{}{Tu as déshonoré ta famille !}
 {173}{}{Laisse-nous tranquilles, gaijin !}
 {174}{}{N'as-tu pas causé assez de dégâts ?}
-{175}{}{Je te déteste !}
+{175}{}{Je te déteste.}
 {176}{}{Quitte cette ville !}
 {177}{}{Rentre chez toi !}
 {178}{}{N'assombris pas ma vie de ta présence !}

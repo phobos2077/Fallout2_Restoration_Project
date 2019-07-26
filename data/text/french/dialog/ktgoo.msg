@@ -1,24 +1,5 @@
-#############################################################
-#  Message File: ktgoo.msg                                  #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: March 1, 1998                                   #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Tu vois de la substance collante toxique.}
 {101}{}{Tu vois de la substance collante toxique.}
-
-#############################################################
-#  The following lines are floaters for citizens            #
-#############################################################
-
 {110}{}{Aïe, ça brûle.}
 {120}{}{Ces vieilles bottes en caoutchouc évitent d'avoir un dépôt gluant.}
 {130}{}{Tes bottes viennent de fondre.}

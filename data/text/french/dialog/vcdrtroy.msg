@@ -18,9 +18,9 @@
 {117}{}{Bonjour, je suis le Dr Troy. En quoi puis-je t'être utile ?}
 {118}{}{Moi bobo.}
 {119}{}{Aitr-utiiil ?}
-{120}{}{[Partir]}
+{120}{}{(Partir)}
 {121}{}{Je cherche l'ordinateur central. Sais-tu où il se trouve ?}
-{122}{}{Que fais-tu là ?}
+{122}{}{Que fais-tu ici ?}
 {123}{}{Rien, je passais, merci.}
 {124}{}{Vous êtes ? Enchanté de vous rencontrer. Si vous avez le temps, on pourrait peut-être comparer nos notes ? Je n'ai pas souvent l'occasion de parler à un autre médecin.}
 {125}{}{Volontiers. J'adorerais apprendre certaines des techniques médicales que vous, les citoyens, utilisez.}
@@ -32,7 +32,7 @@
 {131}{}{Sans aucun doute. Il y a encore quelques questions que je voulais te poser...}
 {132}{}{Merci de la visite, docteur Troy. Ca a été très instructif.}
 {133}{}{L'ordinateur central ? Il est au troisième étage. Descends par l'ascenseur, va tout droit jusqu'à un croisement en T, puis prends la première à gauche. Ca donne directement sur la salle des commandes.}
-{134}{}{Que fais-tu là ?}
+{134}{}{Que fais-tu ici ?}
 {135}{}{Merci.}
 {136}{}{Je suis le médecin-chef de la Cité de l'Abri. Je m'occupe de tous les citoyens et je fais de mon mieux pour que tout le monde soit en bonne santé.}
 {137}{}{Je cherche l'ordinateur central. Sais-tu où il se trouve ?}
@@ -62,7 +62,7 @@
 {161}{}{Merci pour les indications... Parfois, je m'égare un peu ? Je vais remonter à la surface maintenant.}
 {162}{}{Je ne crois pas que ce soit encore le moment de partir, *docteur*. D'abord, j'aimerais voir ce que tu as en stock.}
 {163}{}{Je cherche quelqu'un qui pourrait me faire une commission un peu spéciale.}
-{164}{}{Qu'est-ce que c'est ?}
+{164}{}{Qu'y a-t-il ?}
 {165}{}{M'intéresse pas. Merci.}
 {166}{}{Excellent ! Content que tu aies changé d'avis.}
 {167}{}{Je me suis laissé dire qu'il existe un nouveau stimulant dans le désert. Ca s'appelle le *Jet*, je crois. Je suis prêt à payer un millier de dollars pour avoir un échantillon.}
@@ -70,10 +70,10 @@
 {169}{}{Il se trouve que j'ai un peu de Jet sur moi. Il est à toi pour mille deux cents.}
 {170}{}{J'ai un peu de Jet sur moi... Je m'en sépare pour mille cinq cents.}
 {171}{}{Donc... Tu veux que j'introduise du Jet en contrebande dans la Cité ?}
-{172}{}{Que veux-tu que je fasse ?}
+{172}{}{Que voulez-vous que je fasse ?}
 {173}{}{M'intéresse pas. Merci.}
 {174}{}{C'est dommage. Reviens si tu changes d'avis... Je ne manquerai pas de te rembourser pour la peine.}
-{175}{}{J'avais encore deux ou trois questions à te poser...}
+{175}{}{J'avais d'autres questions pour toi...}
 {176}{}{Rembourser... Heu... Je préférerais du pognon, merci. Salut.}
 {177}{}{Très bien. Salut.}
 {178}{}{Hum. Etant donné que tu l'as sur toi, ça me paraît un prix plus que raisonnable. Très bien. Voilà ton argent... et merci.}
@@ -128,7 +128,7 @@
 {228}{}{Continue. Appelle-moi si tu as besoin de quelque chose... comme une batte de baseball par exemple.}
 {229}{}{Des vapeurs de Brahmines ? Pas banal comme procédé de fabrication, mais... hum. Il faudrait peut-être que je prélève du sang sur la Brahmine qui est dans l'entrée... Merci du conseil.}
 {230}{}{Pas de problème.}
-{231}{}{C'est ça !}
+{231}{}{Certainement.}
 {232}{}{Tu pourrais peut-être aussi dire à ton voyou de copain qu'il gaspille ses hautes facultés intellectuelles à fabriquer des stimulants. D'autre part, ses manières et son langage laissent PLUS qu'à désirer.}
 {233}{}{Tu m'en diras tant.}
 {234}{}{Allez, toubib, laisse-toi un peu aller. Un peu de stimulant n'a jamais fait de mal à personne. Bon, à part ces SuperStimpaks... et le Buffout... et le Psycho. Bon, en fait, tant pis. Je vais y aller, là.}
@@ -181,11 +181,11 @@
 {281}{}{Pas de problème. Merci, doc.}
 {282}{}{Bonjour, Capitaine. En quoi puis-je vous être utile ?}
 {283}{}{Bonjour, citoyen. En quoi puis-je t'être utile ?}
-{284}{}{En quoi puis-je vous être utile ?}
+{284}{}{Que puis-je faire pour toi ?}
 {285}{}{Oui ?}
 {286}{}{Moi bobo.}
 {287}{}{Aitr-utiiil ?}
-{288}{}{[Partir]}
+{288}{}{(Partir)}
 {289}{}{J'ai besoin de tes compétences médicales.}
 {290}{}{Tu as dit tout à l'heure que tu étais médecin... Moi-même, je suis un genre de médecin.}
 {291}{}{As-tu des bloqueurs d'endorphine ?}
@@ -194,7 +194,7 @@
 {294}{}{Au sujet de ce Jet... Je crois que les autres citoyens aimeraient bien être au courant, aussi.}
 {295}{}{Rien aujourd'hui. Bonne journée, docteur.}
 {296}{}{Certainement. Je regrette... Ca fait un moment que j'ai pas eu à en administrer. Il y a belle lurette que la plupart des citoyens ont reçu les leurs. Un instant, je vais programmer l'Autodoc pour qu'il en fabrique...}
-{297}{}{Très bien.}
+{297}{}{D'accord.}
 {298}{}{Voilà, c'est fini. Ah, un mot encore : ce vaccin n'immunise pas contre le poison et les radiations, mais il augmente la résistance naturelle.}
 {299}{}{Merci bien. Au fait, j'aurais encore une ou deux questions...}
 {300}{}{Super. Merci, docteur.}
@@ -273,7 +273,7 @@
 {375}{}{Ce serait possible de soigner mon ami ?}
 {376}{}{Ce serait possible de soigner mes amis ?}
 {377}{}{Vous connaissez quelque chose aux implants dermiques ?}
-{378}{}{C'est pas grave. J'avais une ou deux autres questions...}
+{378}{}{Laisse tomber. J'avais une ou deux autres questions...}
 {379}{}{Rien. Merci, docteur.}
 {380}{}{Très bien. Il faut juste que je vérifie tes signes vitaux... Penche-toi et on va te raccorder à l'Autodoc là...}
 {382}{}{Ca devrait te remettre sur pieds. Comment te sens-tu ?}
@@ -291,5 +291,5 @@
 {395}{}{Bien mieux. J'avais quelques questions à vous poser...}
 {396}{}{Super. Merci, docteur.}
 {397}{}{Gardes !}
-{398}{}{<Zzzzzzz>}
+{398}{}{Zzzzzzz.}
 {399}{}{Tu expliques au Dr. Troy comment on fabrique le Jet.}

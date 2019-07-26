@@ -1,7 +1,6 @@
 {100}{}{Tu vois un trappeur crasseux.}
 {101}{}{Tu vois un trappeur très costaud.}
 {102}{}{Tu vois un trappeur de geckos.}
-
 {200}{}{Ici, tu te sentiras comme chez toi.}
 {201}{}{Paie donc la tournée !}
 {202}{}{Une partie de bras de fer avec les frères Dunton ?}
@@ -27,7 +26,6 @@
 {222}{}{Un esprit se cache dans le canyon, à l'Est d'ici.}
 {223}{}{La chasse est dangereuse, nous avons perdu un de nos trappeurs.}
 {224}{}{J'adore jouer des tours à Torr.}
-
 {300}{}{Tiens, on a de la visite.}
 {301}{}{::marmonne:: Chochotte est toujours là... ::marmonne::}
 {302}{}{T'es dans la mauvaise partie de la ville.}

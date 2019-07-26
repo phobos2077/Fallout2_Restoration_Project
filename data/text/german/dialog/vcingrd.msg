@@ -9,7 +9,7 @@
 {108}{}{Umag Nak!?! Umag NAK!}
 {109}{}{Ich werde dafür sorgen, daß du gesund und munter auf dem Vorhof ankommst. Los, auf
  geht's.}
-{110}{}{OK. Los jetzt!}
+{110}{}{Okay. Let's go.}
 {111}{}{Brog Frup}
 {112}{}{Ich find schon allein dahin.}
 {113}{}{Tut mir leid, ich habe meine Befehle. Ich muß dich zur anderen Seite des Tors bringen.}
@@ -19,7 +19,7 @@
  keinen Ärger. Das könnte sonst für uns beide sehr unangenehm werden. Verstanden?}
 {117}{}{OK, alles klar. Ich geh ja schon.}
 {118}{}{Nur über meine Leiche!}
-{119}{}{Vault City lebe hoch, Bürger.}
+{119}{}{Vault City wird bestehen, Bürger.}
 {120}{}{Sei gegrüßt, Bürger.}
 {121}{}{Viel zu tun, Bürger?}
 {122}{}{Nach dir, Bürger.}
@@ -30,8 +30,8 @@
 {127}{}{Schau: Ich bin Bürger.}
 {128}{}{Keine besonderen Vorkommnisse, Hauptmann.}
 {129}{}{Ich behalte hier nur alles im Auge, Hauptmann.}
-{130}{}{Vault City lebe hoch, Hauptmann.}
-{131}{}{Schönen Tag noch, Hauptmann.}
+{130}{}{Vault City wird bestehen, Hauptmann.}
+{131}{}{Guten Tag, Hauptmann.}
 {132}{}{Du da! Halt! Was hat dieser Ghul hier in Vault City zu suchen?!}
 {133}{}{Du da! Halt! Was hat dieser Mutant hier in Vault City zu suchen?!}
 {134}{}{Briep... uup fuup fuup}
@@ -58,7 +58,7 @@
 {152}{}{Hey! Das ist der, der die Enklave besiegt hat!}
 {153}{}{Hey! Glückwunsch zum Sieg über die Enklave!}
 {154}{}{Willkommen in Vault City, Held!}
-{155}{}{Dein Kampf gegen die Enklave hat sogar die Erstbürgerin beeindruckt.}
+{155}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
 {156}{}{Ich habe gehört, du bist bis ganz runter in den Süden gereist, bis nach San Francisco.
  Stimmt das?}
 {157}{}{Stimmt es, daß die Vereinigten Staaten den Krieg immer noch weitergeführt haben?}

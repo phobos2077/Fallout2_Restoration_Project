@@ -19,12 +19,12 @@
  daß nur Bürger die Vault betreten dürfen.}
 {115}{}{Ich muß in die Vault.}
 {116}{}{Kann ich dich noch etwas anderes fragen?}
-{117}{}{Danke für die Hilfe.}
+{117}{}{Danke für die Hilfe. Auf Wiedersehen.}
 {118}{}{Wie ich heiße? Naja, ich heiße Melinda. Ich bin die Haupt-Begrüßungsoffizierin von
  Vault City.}
 {119}{}{Hört sich nach einem harten Job an.}
 {120}{}{Kann ich dich noch etwas anderes fragen?}
-{121}{}{Danke für die Hilfe. Auf Wiedersehen.}
+{121}{}{Danke für die Hilfe.}
 {122}{}{Der Vorhof ist ein Bereich, in dem wir die vom Glück nicht so begünstigten Außenweltler
  beschützen. Unter unserem Schutz leben viele Menschen und tragen so zum Glanz und Wohlstand von
  Vault City bei. In der Innenstadt leben die Bürger der Stadt.}

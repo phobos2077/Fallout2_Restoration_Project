@@ -5,7 +5,7 @@
 {104}{}{Oooch. Futerko.}
 {105}{}{Futerko ³aaadne.}
 {106}{}{Ach, rozumiem. Jesteœ od niedawna w mieœcie. Wiesz, powiem ci coœ. Postawiê za ciebie specjalny zak³ad w czasie jutrzejszych walk. Czy chcesz, abym to zrobi³a?}
-{107}{}{(Kiwasz g³ow¹) Uuk, Uuk. (i dajesz swoj¹ sakiewkê).}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Muuk? Gaga. Pa pa, futerko.}
 {109}{}{Dobry pomys³. Wróæ tu jutro i jeœli twój zwierzak wygra walki, to dam ci twoje pieni¹dze. W porz¹dku?}
 {110}{}{Okej, dobre posuniêcie. Upewniê siê, ¿e otrzymasz naprawdê specjalny zak³ad. Na razie.}
@@ -60,7 +60,7 @@
 {159}{}{ChodŸcie zobaczyæ pojedynek dnia!}
 {160}{}{Dzikie zwierzêta walcz¹, gdy ty wygrywasz pieni¹dze! POKOCHASZ TO!}
 {161}{}{Przynieœcie du¿e sakiewki i wiêksze oczekiwania! TÊDY PROSZÊ!}
-{162}{}{Wynocha st¹d.}
+{162}{}{Wynoœ siê st¹d, do cholery.}
 {163}{}{Nie potrzebujê tutaj twojego interesu.}
 {164}{}{IdŸ z tym nigdzie indziej.}
 {165}{}{Trzymaj siê z dala od klatek.}
@@ -72,7 +72,7 @@
 {171}{}{Ee, Wchodzê. Chyba.}
 {172}{}{Du¿e jaszczury mnie przera¿aj¹. Lepiej bêdê siê trzymaæ od tego z daleka. Dziêki za ostrze¿enie. Do zobaczenia. (myœlisz do siebie) *Uff, by³o blisko*}
 {173}{}{Czêœci¹ sportow¹ jest zak³ad dotycz¹cy wyniku walki. Oto, jak to dzia³a. Przychodzisz do mnie i mówisz, ¿e chcesz postawiæ zak³ad. Ja mówiê ci, które zwierzaki bêd¹ walczy³y nastêpne, a ty mi powiesz, na którego stawiasz.}
-{174}{}{A potem?}
+{174}{}{Co siê dzieje potem?}
 {175}{}{TO proste, je¿eli twój zwierzak wygra, podwajasz stawkê. Stawka roœnie POTRÓJNIE, je¿eli przeciwnik padnie w pierwszej rundzie! Je¿eli twój zwierzak przegra, pieni¹dze nale¿¹ do mnie. Zazwyczaj ka¿dego dnia odbywa siê kilka walk. Dopóki zasób zwierz¹t siê nie zmniejszy, mo¿esz stawiaæ na nie wszystkie. Ale tylko jeden zak³ad na walkê. A, i ¿ebyœmy sobie wszystko wyjaœnili, to wszystkie zak³ady wynosz¹ $100.}
 {176}{}{OK. Rozumiem. Daj mi spróbowaæ.}
 {177}{}{Rozumiem. Hmm, chyba spróbujê tego kiedy indziej. Do zobaczenia.}
@@ -93,8 +93,8 @@
 {192}{}{. Nieprêdko zobaczysz tak¹ walkê. Twoje ¿yczenie?}
 {193}{}{Moje pieni¹dze z pewnoœci¹ pomno¿y }
 {194}{}{.}
-{195}{}{}
-{196}{}{ - to dobry wybór.}
+{195}{}{Moje pieni¹dze z pewnoœci¹ pomno¿y }
+{196}{}{.}
 {197}{}{Hmm, chyba jednak tym razem spasujê. }
 {198}{}{Chyba mam ju¿ na dzisiaj dosyæ. Zobaczymy siê innym razem. Do zobaczenia.}
 {199}{}{Proszê bardzo, mistrzu. Oto twoje wygrane. To dzisiaj ju¿ ostatnia walka. PrzyjdŸ jutro, je¿eli chcesz wiêcej akcji.}
@@ -102,7 +102,7 @@
 {201}{}{Jasne.}
 {202}{}{Chyba tym razem spasujê.}
 {203}{}{S³uchaj, nikt ciê nie zmusza do stawiania, nie? Nie podoba siê, to zmykaj, nikt nie bêdzie za tob¹ têskniæ. Rozumiemy siê?}
-{204}{}{Tak.}
+{204}{}{Rozumiem.}
 {205}{}{Có¿ za uderzenie! }
 {206}{}{ pokaza³ co umie, przez co }
 {207}{}{ pad³ na glebê ju¿ w pierwszej rundzie! Co za akcja!}
@@ -129,13 +129,7 @@
 {228}{}{Cieszê siê, ¿e pieni¹dze zosta³y w sakiewce.}
 {229}{}{To by mnie nieŸle kosztowa³o.}
 {230}{}{To by³a dobra walka. Ale dobrze, ¿e nieobstawiana.}
-{231}{}{Ok, dziêki.}
-
-####
-# Fighter Names
-####
-
-# Fighter 1
+{231}{}{W porz¹dku, dziêki.}
 {300}{}{Ostry Pisk}
 {301}{}{Vicky}
 {302}{}{Spike}
@@ -143,10 +137,8 @@
 {304}{}{Dimsdale}
 {305}{}{Marengo}
 {306}{}{Kud³aczek}
-{307}{}{Zabójca}
+{307}{}{£omot}
 {308}{}{Boss}
-
-# Fighter 2
 {310}{}{Tankowiec}
 {311}{}{Muttley}
 {312}{}{Spud}
@@ -156,8 +148,6 @@
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-
-# Fighter 3
 {320}{}{Krêpy}
 {321}{}{Szatkownik}
 {322}{}{Rozpruwacz}
@@ -167,8 +157,6 @@
 {326}{}{Jednooki}
 {327}{}{Pryszcz}
 {328}{}{Lord Gibacz}
-
-# Fighter 4
 {330}{}{Szczêœciarz}
 {331}{}{Zaratustra Wielki}
 {332}{}{Shub}
@@ -178,8 +166,6 @@
 {336}{}{Sskarb}
 {337}{}{Fraggle}
 {338}{}{Kapitan ¯bik}
-
-# Fighter 5
 {340}{}{M³ot}
 {341}{}{Sekretariat}
 {342}{}{Wojownik}
@@ -189,9 +175,7 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelopa}
 {348}{}{Pan Baggins}
-
-# Fighter 6
-{350}{}{Piorun}
+{350}{}{B³yskawica}
 {351}{}{Percy}
 {352}{}{Kwiatuszek}
 {353}{}{Rumplestiltskin}

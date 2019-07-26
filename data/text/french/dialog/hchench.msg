@@ -14,40 +14,34 @@
 {113}{}{Tu devrais penser qu'après tant de temps passé à essayer de civiliser ce trou on est censé se rapprocher de notre but.}
 {114}{}{J'en ai marre de ces chamailleries entre humains et mutants. Ne devrions nous pas montrer l'exemple ?}
 {115}{}{Qu'est-ce tu veux ? Tu vois pas que j'me repose ?!}
-{116}{}{Quand est-ce qu'elle part la prochaine caravane ?}
+{116}{}{Quand part la prochaine caravane ?}
 {117}{}{Patrouiller, patrouiller, patrouiller, c'est tout ce que je fais ici...}
 {118}{}{J'ai besoin d'une sieste.}
 {119}{}{Je mérite une augmentation. C'est un travail dangereux.}
-
 {200}{}{J'peux t'aider ?}
-{201}{}{Oui, je cherche le maître de la caravane.}
-{202}{}{Je me demandais si je pouvais te pauser quelques questions à propos de Chad.}
-{203}{}{Qui es tu ?}
+{201}{}{Oui, je cherche le maître des caravanes.}
+{202}{}{Je me demandais si je ne pourrais pas te poser quelques questions au sujet de Chad.}
+{203}{}{Qui es-tu ?}
 {204}{}{Non, merci.}
 {205}{}{Dans ce cas, tu devrais parler à Bill, l'armateur des Collines Brisées. Il est dans ce bâtiment là-bas.}
-{2050}{}{Dans ce cas, tu devrais parler à Bill, l'armateur des Collines Brisées. C'est celui qui porte un chapeau, juste là-bas.}
 {206}{}{J'ai encore quelques autres questions.}
-{207}{}{Merci. Salut.}
-#About Chad...
-{208}{}{Tu as des questions, peut-être ai-je des réponses. Que veux-tu savoir ?}
+{207}{}{Merci. Au revoir.}
+{208}{}{T'as des questions, j'ai peut-être des réponses. Que veux-tu savoir ?}
 {209}{}{Comment est-il ?}
-{210}{}{Peut-on avoir confiance en lui ?}
-{211}{}{Ou trouve-t-il cet argent ?}
-{212}{}{Quel est son histoire ?}
-{213}{}{Oublie ça. A plus tard.}
-
+{210}{}{Est-ce un homme de confiance ?}
+{211}{}{Où trouve-t-il son argent ?}
+{212}{}{Quelle est son histoire ?}
+{213}{}{Laisse tomber. A plus tard.}
 {214}{}{Moi ? Je suis }
-{215}{}{. Je suis membre des gardes de la caravane de Bill. Autre chose ?}
-
-{216}{}{Comment il est ? Eh bien, Il est sympa, mais assez caustique. C'est un bon patron, et la plupart du temps il est plutôt juste avec nous. Il ne nous traite pas mal ou quoi que ce soit d'autre, si c'est ce que tu veux dire. D'autres questions ?}
-{217}{}{Eh bien, il est un peu ombrageux, je suppose mais bon la plupart des gens sont comme ça ces derniers temps. D'autres questions ?}
-{218}{}{J'ai toujours cru qu'il l'emmenait avec lui...  en tout cas un bon pactole... Ce n'est pas le genre de chose qu'on demande à quelqu'un, tu vois. D'autres questions ?}
-{219}{}{Je ne connais pas son histoire. Je veux dire, un peu comme nous tous, les gardes de caravanes sont de simples gars venus pour le boulot. Je pense que c'est encore un qui a dû prendre une place laissée vacante par un autre qui ne s'en est pas tiré... D'autres questions ?}
+{215}{}{. Je suis garde pour les caravanes de Bill. Autre chose ?}
+{216}{}{Comment il est ? Eh bien, il est sympa, mais caustique. C'est un bon patron, en général, il est juste avec nous. Il ne nous traite pas mal, si c'est ce que tu veux dire. D'autres questions ?}
+{217}{}{Eh bien, il est un peu louche, c'est vrai... mais comme la plupart des gens aujourd'hui. D'autres questions ?}
+{218}{}{J'ai toujours pensé qu'il l'avait amené avec lui, et il en a un paquet, avec ça. C'est pas le genre de truc que tu demandes à un mec, tu sais. D'autres questions ?}
+{219}{}{Je n'en ai aucune idée. En général, les gardes de caravanes sont des gens qui ne savaient pas trop quoi faire et qui sont venus pour le boulot. Il a sûrement dû se tirer vite fait d'où il était avant. D'autres questions ?}
 {220}{}{Oui.}
 {221}{}{Non.}
-{222}{}{Très bien. A plus.}
+{222}{}{D'accord. A plus, alors.}
 {223}{}{Salut.}
-
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}
@@ -62,7 +56,6 @@
 {311}{}{Eddie}
 {312}{}{John}
 {313}{}{Max}
-
 {400}{}{Tawni}
 {401}{}{Kim}
 {402}{}{Urs}
@@ -77,6 +70,6 @@
 {411}{}{Mary}
 {412}{}{Julie}
 {413}{}{Sarah}
-
 {450}{}{Tu vois }
-{451}{}{, membre des gardes de la caravane.}
+{451}{}{, le garde de caravane.}
+{2050}{}{Dans ce cas, tu devrais parler à Bill, l'armateur des Collines Brisées. C'est celui qui porte un chapeau, juste là-bas.}

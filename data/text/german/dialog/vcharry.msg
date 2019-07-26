@@ -4,7 +4,7 @@
 {103}{}{Ich suche günstige Waren. Kann mal sehen, was du auf Lager hast?}
 {104}{}{Ist der Pflug da draußen immer noch zu haben?}
 {105}{}{Ik gauf}
-{106}{}{Im Augenblick nichts, danke.}
+{106}{}{Heute nichts, danke.}
 {107}{}{Tut mir leid, da kann ich dir nicht helfen, Freund.}
 {108}{}{Aber ja, natürlich! Der kostet, sagen wir... achthundert.}
 {109}{}{Ich gebe dir sechshundert dafür.}
@@ -19,17 +19,14 @@
 {120}{}{Ich gehe das Geld holen.}
 {121}{}{Kein Problem. Ich möchte, daß er sofort geliefert wird.}
 {122}{}{Hast wohl gedacht, du könntest dich hier selbst bedienen, was? Verdammter Dieb... Wachen! Wachen!}
-
-{123}{}{Dave, ein Händler, hat mich geschickt. Wir versuchen, eine kaputte Wasserpumpe zu reparieren, und er meint, dass du einen Ersatz-Motor auf Lager hast.}
-{124}{}{Du arbeitest also mit Dave, ja? Ja Mann, ich kenn den Typen. Wie ich sehe, hat er immer noch ein Talent dafür, andere dazu zu bewegen, für ihn die Laufarbeit zu machen - fauler Bastard. [Er kichert.] Also, ich denke ich hab was du suchst,
- aber lass mich kurz nach hinten gehen und nachsehen. [Harry geht ins Nebenzimmer und du hörst wie er Kisten hin- und herschiebt. Nach einigen Minuten kommt er zurück.]
- Jup, hab hier was, für $500 isses deiner.}
-{125}{}{Klar. Hier ist das Geld.}
+{123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
+{124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
+ [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
+ hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
+{125}{}{Sicher. Hier ist das Geld.}
 {126}{}{$500? Verdammt. Ich hoffe ich kriege das erstattet. Na gut, hier ist das Geld.}
 {127}{}{Eine Freude mit dir Geschäfte zu machen. Pass auf dich auf.}
-{128}{}{Wiedersehen.}
-{1288}{}{Ich hab leider nicht genug Geld. Wiedersehen.}
-
+{128}{}{Tschüß.}
 {129}{}{Connar hat mich wegen der Sachen geschickt.}
 {130}{}{[Harrys Augen springen durch den Raum, er scheint nervös zu sein.] Ja, sicher. Einen Moment.}
 {131}{}{[Harry bringt dir die Gewehre.] Hier, nimm sie. Das macht dann zehntausend, und drück auf die Tube.}
@@ -51,9 +48,9 @@
 {147}{}{Na, immerhin ist das Essen in Ordnung.}
 {148}{}{Hey, was guckst du mich an?}
 {149}{}{Was wird nur aus meinem Laden?}
-
-{200}{}{$500? Hey, vielleicht könntest du mir einen Nachlass geben, immerhin bist du mit Dave befreundet, richtig?} 
+{200}{}{$500? Hey, vielleicht könntest du mir einen Nachlass geben, immerhin bist du mit Dave befreundet, richtig?}
 {201}{}{Um dir die Wahrheit zu sagen, ich konnte den Kerl noch nie leiden. $500 für den Motor. Nimm ihn, oder lass es.}
 {202}{}{Gut. Hier ist dein Geld.}
 {203}{}{Vergiss es, ich hau ab.}
 {204}{}{$500!? Vergiss es, ich hau ab.}
+{1288}{}{Ich hab leider nicht genug Geld. Wiedersehen.}

@@ -1,4 +1,4 @@
 {100}{}{Du siehst den Brunnen.}
-{101}{}{Du bist dir nicht ganz sicher, als du dich über den Brunnen beugst glaubst du aber dass Wärme aufsteigt.}
-{102}{}{Du nimmst einen tiefen Schluck Brunnenwasser. Es ist ungewöhnlich warm.}
-{103}{}{Du nimmst einen tiefen Schluck Brunnenwasser. Es schmeckt viel besser als vorher.}
+{101}{}{Du könntest falsch liegen, aber als du in den Brunnenschacht siehst, fühlst du eine strahlende Hitze aus der Dunkelheit.}
+{102}{}{Du nimmst einen großen Schluck vom Brunnenwasser. Es ist unnatürlich Warm.}
+{103}{}{Du nimmst einen großen Schluck vom Brunnenwasser. Es schmeckt viel besser als vorher.}

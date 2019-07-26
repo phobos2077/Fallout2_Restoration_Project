@@ -1,7 +1,7 @@
-{100}{}{Widzisz mieszkañca wioski.}
+{100}{}{Widzisz mieszkankê wioski.}
 {101}{}{Widzisz mieszkankê wioski.}
-{102}{}{Witaj.}
-{103}{}{Dzieñ dobry.}
+{102}{}{Czeœæ.}
+{103}{}{Mi³ego dnia.}
 {104}{}{Witaj w naszej wiosce.}
 {105}{}{Potwory nas broni¹.}
 {106}{}{Witaj.}

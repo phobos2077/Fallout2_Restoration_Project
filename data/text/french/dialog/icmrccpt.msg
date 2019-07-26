@@ -1,12 +1,7 @@
-# 0. QUICK LOOk
 {100}{}{Tu vois un capitaine mercenaire.}
-
-# 0. LOOk
 {150}{}{Tu vois un homme à l'apparence bourrue vêtu d'une armure de combat. Son armure et ses armes semblent bien entretenues, presque neuves.}
 {151}{}{Tu vois un capitaine mercenaire. Il scrute les environs en tripotant son arme.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
-{200}{}{Hé, regarde les balles en cuivre de cette ordure...}
+{200}{}{Hé, regarde les balles en cuivre de cette crapule...}
 {201}{}{Contact !}
 {202}{}{On a un intrus, les gars !}
 {203}{}{Remuez-vous, les gars, on a un intrus !}
@@ -14,9 +9,7 @@
 {205}{}{Merde ! Quelqu'un nous a trouvés !}
 {206}{}{T'as du cran de venir ici...}
 {207}{}{Garce ! T'as frappé à la *mauvaise* porte !}
-{208}{}{Hé, regardez comme cette crevure se pavane...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{208}{}{Eh bien, regarde le culot de cette salope...}
 {215}{}{On ferait mieux d'appeler tout de suite les équipes de tueurs...}
 {216}{}{Je crois que l'équipe Bravo est à quelques km au Sud de la Cité de l'Abri... Ils continuent à poursuivre cette caravane.}
 {217}{}{Cette brebis galeuse a intérêt à la mettre en veilleuse... Ce genre de merde ne prend pas par ici.}

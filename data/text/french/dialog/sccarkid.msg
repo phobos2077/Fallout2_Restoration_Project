@@ -14,7 +14,7 @@
 {113}{}{D'accord. Eh ben...}
 {114}{}{Il est à l'intérieur. Dans son bureau. Il est toujours là.}
 {115}{}{Où est son bureau ?}
-{116}{}{D'accord. Merci.}
+{116}{}{Ok. Merci.}
 {117}{}{Près de la citerne. Je vais parfois jouer là-bas. Je le regarde en cachette quand il travaille.}
 {118}{}{Tu es un sale gosse gâté et capricieux, hein ?}
 {119}{}{Merci gamin. Ton aide a été précieuse.}
@@ -24,7 +24,7 @@
 {123}{}{Dis à ton père que j'ai des nouvelles de M. Bishop. Tu te souviendras ?}
 {124}{}{Fneu...}
 {125}{}{T'as une petite crotte à la place du cerveau !}
-{126}{}{D'accord.}
+{126}{}{Ok.}
 {127}{}{Des nouvelles de M. Mishop ? D'accord.}
 {128}{}{Pas mal.}
 {129}{}{Papa dit qu'il veut bien te voir.}

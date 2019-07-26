@@ -46,7 +46,7 @@
 {129}{}{Hallo, Schwester, suchst du Arbeit?}
 {130}{}{Äh, ja. Ich bin hier, um dich zu besuchen.}
 {131}{}{Arbeit? Was für Arbeit?}
-{132}{}{Äh, ich habe mich nur umgesehen. Wiedersehn.}
+{132}{}{Äh, ich hab mich nur mal umgesehen. Tschüß.}
 {133}{}{Na, bist du nicht süß. Machst einen auf schüchtern und so. Das kostet dich $60 für
  einen Besuch bei mir, Schnucki.}
 {134}{}{Vielleicht hältst du es ja dieses Mal ein bißchen länger aus, Süßer. Dann kriegst du mehr
@@ -128,8 +128,6 @@
  Wiedersehn.}
 {185}{}{Ich weiß ja nicht, wie du das durchstehst, aber wahrscheinlich tust du das ja nie.
  Stehen, meine ich. Tschüß.}
-
-# Begin Seraph's Code
 {186}{}{[Fannie scheint eine große Last von den Schultern zu fallen.] Hey, du bist's! Lou hat
  mir schon erzählt was du getan hast. Das Zeug was sie mir eingeflößt haben hat mich sicher krank gemacht, aber
  seitdem hatte ich kein Bedürfnis mehr nach Jet. [Sie küsst dich auf die Wange.] Ich stehe für immer in deiner Schuld...
@@ -141,9 +139,6 @@
 {190}{}{Sorry Süße... Mir geht's heut nicht so gut. Ich komm später wieder.}
 {191}{}{Hast du grade etwas Zeit für mich?}
 {192}{}{Komm wieder wann immer du möchtest! Es ist immer schon dich hier zu sehen.}
-{193}{}{[Fertig]}
-
+{193}{}{[Erledigt]}
 {200}{}{Du schüttest das Jet-Gegenmittel in Fannie Maes Getränk.}
-# End Seraph's Code
-
 {210}{}{Alles klar, hier sind $60. Wie sieht's mit der nächsten Runde aus?}

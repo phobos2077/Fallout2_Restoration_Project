@@ -1,14 +1,11 @@
-{100}{}{Du rauchst einen Kommie.} 
+{100}{}{Du rauchst einen Kommie.}
 {101}{}{Du rauchst noch einen Kommie.}
-{102}{}{Im Inneren deines Helms steht eine Warnung: 'WARNUNG! - Nicht Rauchen!!'. Du denkst, du solltest besser tun, was da steht.}
+{102}{}{Inside your helmet there's a warning: "DANGER! - No smoking!!" You think you better do as it says.}
 {103}{}{Du hast alle geraucht.}
 {104}{}{Du brauchst erst ein Feuerzeug.}
-
-
 {200}{}{Du rauchst einen Joint.}
 {201}{}{Du rauchst noch einen Joint.}
 {203}{}{Du hast kein Gras mehr.}
-
 {210}{}{Whoa. Das ist ein HERRVORRAGENDES Kraut.}
 {211}{}{Okay, ich werde mich einfach kurz hinlegen.}
 {212}{}{Du fängst an dich SEHR schwindellig zu fühlen.}
@@ -18,3 +15,4 @@
 {216}{}{Oh scheiße...}
 {217}{}{Du wirst ohnmächtig.}
 {218}{}{Du wachst benommen und verwirrt auf.}
+{250}{}{Smoking is a disgusting habit for a woman to have.}

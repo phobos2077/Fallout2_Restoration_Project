@@ -31,7 +31,7 @@
 {130}{}{Ich mach Kleinholz aus dir, weil du hier eine Schlägerei begonnen hast.}
 {131}{}{Du Dummkopf.}
 {132}{}{Wer sowas macht, kann nicht überleben.}
-{133}{}{Zeit, dich aus dem Gen-Pool zu holen}
+{133}{}{Time to take you outta' da' gene-pool.}
 {134}{}{Du hättest es besser wissen sollen.}
 {135}{}{Entschuldigung, daß es soweit kommen mußte.}
 {136}{}{Du Verlierer.}
@@ -42,10 +42,10 @@
 {141}{}{Jetzt werden wir härter mit dir umgehen.}
 {142}{}{Das wird wirklich weh tun... DIR!}
 {143}{}{Steck' lieber die Waffe weg, Bursche.}
-{144}{}{Wir wollen hier keinen Ärger, Freund. Steck' das weg.}
+{144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Steck dieses Teil lieber weg.}
 {146}{}{Lass' sie im Halfter, Bursche.}
-{147}{}{Steck' diese Waffe weg.}
+{147}{}{Steck die Waffe weg.}
 {148}{}{Nimm diese Waffe besser weg.}
 {149}{}{Laß deine Hände von den Waffen, solange du hier drinnen bist.}
 {150}{}{Steck' diese Waffe weg, Bursche.}
@@ -54,7 +54,7 @@
 {153}{}{Wir wollen nur Ordnung wahren.}
 {154}{}{Verhalte dich nett.}
 {155}{}{Immer schön nett und lieb bleiben.}
-{156}{}{Beweg' dich weiter.}
+{156}{}{Beweg dich.}
 {157}{}{Hier gibt es nichts zu sehen.}
 {158}{}{Habe einen schönen Tag.}
 {159}{}{Willkommen bei Ascorti.}
@@ -85,10 +85,9 @@
 {184}{}{Ich kann es nicht glauben, daß du vor uns so einen Mist abziehst.}
 {185}{}{Oh, Verzeihung. LEGT IHN UM, DIESEN DRECKSKERL!}
 {186}{}{Lass' die Tür in Ruhe, du Idiot.}
-{187}{}{Was tust du?}
+{187}{}{Was machst du?}
 {188}{}{Mist, die Verbrecher werden täglich qualitativ schlechter.}
 {189}{}{Geh' weg von der Tür.}
 {190}{}{Fass' diese Tür nicht nochmal an.}
 {191}{}{Geh' weg von der Tür.}
 {192}{}{Fass' diese Tür nicht nochmal an.}
-

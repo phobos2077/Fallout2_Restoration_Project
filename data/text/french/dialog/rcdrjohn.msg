@@ -29,7 +29,7 @@
 {128}{}{Ecoute, je vais te faire un prix de groupe puisque je vois que vous êtes tous bien amochés. $100 pour le lot.}
 {129}{}{Voilà ton argent, Doc. Arrange-nous comme il faut.}
 {130}{}{On peut pas se payer ça maintenant. Je regrette Doc, plus tard peut-être.}
-{131}{}{$100, hein ? On verra ça plus tard. Au revoir, Doc.}
+{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
 {132}{}{J'ai l'impression que c'est pas vraiment la forme. Je peux te guérir pour $100. Veux-tu que j'essaie ?}
 {133}{}{Ton camarade ne va pas fort. Je peux le retaper pour $100. Veux-tu que j'essaie ?}
 {134}{}{J'espère que tu feras mieux qu'essayer, Doc. Voilà ton argent.}

@@ -1,23 +1,3 @@
-#############################################################
-#  Message File: ACBrahmn.msg                               #
-#                                                           #
-#       Body Type:  Brahmin                                 #
-#       Combat AI: None                                     #
-#       Weapons: None                                       #
-#       HP: ?                                               #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: December 01, 1997                               #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Tu vois une Brahmine apprivoisée ordinaire.}
 {101}{}{Une Brahmine à deux têtes est probablement issue d'une vache normale exposée trop tôt à des radiations.}
 {102}{}{Tu ne remarques rien d'inhabituel au sujet de la Brahmine.}

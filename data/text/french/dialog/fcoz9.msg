@@ -15,7 +15,7 @@
 {114}{}{Rien, pardon.}
 {115}{}{Oui, mon enfant ?}
 {116}{}{Hinchoaf ? [Tu me comprends ?]}
-{117}{}{A agga da gou dou ! [Oh, dieu soit loué ! Je cherche mon peuple. Je dois passer au-dessus de la grande eau.]}
+{117}{}{Agga da gou dou ! [Oh, dieu soit loué ! Je cherche mon peuple. Je dois passer au-dessus de la grande eau.]}
 {118}{}{Pou papi ! [Eh bien, merci de m'avoir accordé un peu de ton temps. Je dois continuer maintenant. Ce fut un plaisir de parler avec toi.]}
 {119}{}{Je ne comprends pas un mot de ce que tu racontes. Tu devrais peut-être voir avec Juan ou Vikki pour un balayage.}
 {120}{}{Merssi !}

@@ -1,7 +1,7 @@
 {100}{}{Tu vois un garde bien armé.}
 {101}{}{Tu vois un garde Hubologiste.}
 {102}{}{Tu vois une personne bien armée au regard cruel.}
-{103}{}{Intrus !}
+{103}{}{Envahisseur !}
 {104}{}{Emparez-vous de l'intrus !}
 {105}{}{Par ici ! Par ici !}
 {106}{}{Ton heure est venue, infidèle ! La Grande Roue va rouler sur toi !}

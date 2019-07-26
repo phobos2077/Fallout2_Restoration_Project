@@ -16,7 +16,7 @@
 {115}{}{Change-moi en esclavagiste.}
 {116}{}{Change-moi en tueur d'enfant.}
 {117}{}{En rien... Baisse simplement mon karma de 100.}
-{118}{}{Laisse tomber. J'ai besoin d'autre chose...}
+{118}{}{Bon. Il y a autre chose que je voulais...}
 {119}{}{Non, rien.}
 {120}{}{Qui ?}
 {121}{}{Marcus.}
@@ -24,4 +24,4 @@
 {123}{}{Vic.}
 {124}{}{Myron.}
 {125}{}{Personne. J'ai besoin d'autre chose.}
-{126}{}{Pas la peine. A plus.}
+{126}{}{Ca n'a pas d'importance. Salut.}

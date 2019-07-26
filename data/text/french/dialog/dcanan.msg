@@ -10,19 +10,16 @@
 {109}{}{J'ai tellement faim.}
 {110}{}{Comment vais-je nourrir ma famille maintenant ?}
 {111}{}{T'es né avec un coeur 12 fois trop petit.}
-
 {112}{}{Non, une momie ! Venue droit des sables de l'Egypte antique aux sables du Désert !}
 {113}{}{Ok, je mords. Combien pour voir le corps ?}
 {114}{}{(A toi-même) Hum, une momie... Ma foi, les Goules ont tout l'air de momies. Bon, j'veux bien jeter un coup d’oeil. C'est combien ?}
 {115}{}{J'ai vu assez de cadavres pour aujourd'hui. Au revoir.}
-
 {116}{}{Bonjour et bienvenue ! Je suis le Grand Ananias (Il se prosterne amplement). Je révèle les mystères d'ici et d'au-delà. Les mystères d'un monde au-delà du nôtre... celui des Profondeurs.}
 {117}{}{Tu viens découvrir les Mystères des Profondeurs par le Grand Ananias ?}
 {118}{}{Quel genre de mystères ?}
 {119}{}{Euh, très enchanté Monsieur Le Grand... Anus... je-n'sais-quoi.}
 {120}{}{Hmm, les mystères m'empêchent de dormir, j'préfère m'en aller. Au revoir.}
 {121}{}{Approche !}
-
 {127}{}{Aujourd'hui, dans la pièce intérieure, j'ai, pour toi et toi seulement... Une Véri-ta-ble momie égyptienne !}
 {128}{}{Une momie ?}
 {129}{}{Une momie ? Hmm, je doute que ça en soit une... Non, personne n'est si stupide.}
@@ -35,7 +32,6 @@
 {136}{}{Je serais enchanté de montrer cet unique spécimen historique à une personne de ta classe. Et pour seulement $25.}
 {137}{}{Ok. Maint'nant... montre moi la momie !}
 {138}{}{Je ne veux pas dépenser autant. Je pense pouvoir survivre sans voir la chose. Au revoir.}
-
 {139}{}{Ouvre juste le couvercle du sarcophage et la merveilleuse momie se révélera à toi dans sa gloire ancestrale. Mais s'il te plaît, ne touche pas, et euh, pas de flash.}
 {140}{}{Chouette.}
 {141}{}{La voilà ! La momie ! (La porte du sarcophage oscille et s'ouvre, révélant un corps disséqué qui ressemble beaucoup à une Goule ordinaire, reposant dans un sarcophage en papier mâché, écaillé et peinturluré.}
@@ -56,16 +52,13 @@
 {156}{}{Une Brahmine à une tête ? Qui avalerait ça ?! Allez, salut charlatan.}
 {157}{}{Tu as réveillé Woody la Goule et l'as libéré de son insoutenable momitude.}
 {158}{}{Je préfère l'histoire de fantômes...}
-
 {200}{}{Je sais des choses que les simples mortels n'ont pas à savoir. Ayyye ! Nyarloth... Oh, désolé... hé, hé... Je me suis laissé emporter... J'ai des histoires de fantômes qui hantent ces profondeurs, tout comme une momie Véri-ta-ble é-gy-ptienne que tu peux voir, ici-même, dans ce merveilleux sarcophage.}
 {201}{}{Parle-moi de cette momie. Je meurs d'envie d'en savoir plus.}
 {202}{}{Raconte-moi cette histoire de fantôme. Euh, j'ai droit à une tasse de chocolat chaud aussi ?}
 {203}{}{Je n'ai pas de temps à perdre à écouter tes salades.}
-
 {300}{}{Bien, tu vois, (Il te fait signe de t'avancer.) il était une fois une grande reine qui régnait sur la ville. Elle gardait le trône grâce aux vertus d'une amulette spéciale qu'elle gardait toujours autour du cou. Belle histoire, hein ?}
 {301}{}{Euh, ouais. Donc, cette princesse avait une amulette magique. Oh, allez, continue. J'peux pas supporter un suspense si intense !!}
-{302}{}{Ok. J'en ai assez entendu. Au revoir.}
-
+{302}{}{Ok. Je crois que j'en ai assez entendu.}
 {400}{}{Bien, j'en viens aux faits. Ainsi, le sorcier empoisonna la jeune princesse et lui prit son amulette. Elle erre depuis dans la pièce à côté. Mais, euh, c'est juste pendant le sabbat de toute façon. C'est pourquoi je laisse la porte fermée. Assez lugubre, hein ?}
 {401}{}{Le fantôme d'une princesse sans amulette dans le débarras à côté. C'est tout ? T'appelles ça une histoire toi ?! Je préfère entendre parler de la stupide momie que tu prétends garder ici.}
 {402}{}{Ok. Je crois que j'en ai assez entendu.}

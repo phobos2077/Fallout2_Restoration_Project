@@ -1,34 +1,19 @@
-# QUICK LOOK
 {100}{}{Widzisz jednego z ochroniarzy Bishopa.}
-
-# EXAMINE
 {150}{}{Widzisz krzepkiego mÍøczyznÍ ubranego w skÛrzanπ zbroje. Jego cia≥o pokrywajπ liczne blizny i úlady po ranach postrza≥owych.}
 {151}{}{Widzisz jednego z ochroniarzy Bishopa. MÍøczyzna obserwuje teren i obraca w palcach swojπ broÒ.}
-
-# 1. FLOAT DIALOGUE: ENCLAVE DESTROYED IS TRUE (WTG)
 {200}{}{Hej! }
-{201}{}{! Enklawa ma teraz za swoje!}
-
-# 2. FLOAT DIALOGUE: POWER ARMOR (WTG)
-{205}{}{Jak u licha moøesz korzystaÊ z ≥azienki z czymú takim na grzbiecie?}
-
-# 3. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [ARMED] (WTG)
+{201}{}{! Dobra robota z tπ Enklawπ!}
+{205}{}{Jak u licha moøesz korzystaÊ z ≥azienki z czymú takim na grzebiecie?}
 {210}{}{Bishop ciÍ oczekuje, }
 {211}{}{? Idü na gÛrÍ. Tylko nie machaj tak ta broniπ na wszystkie strony.}
-
-# 4. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [SNEAK] (WTG)
 {215}{}{Uch, s≥uchaj... Bishop ciÍ oczekuje, no nie }
 {216}{}{? Idü na gÛrÍ. Ale wy≥πcz juø tryb skradania siÍ.}
-
-# 5. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=BISHOP [NORMAL] (WTG)
 {221}{}{? Idü na gÛrÍ.}
-
-# 6. FLOAT/CLICK DIALOGUE: MADE MAN, FA=NOT BISHOP (WTG)
 {225}{}{Ty kupo gÛwna, w≥azisz pod z≥y adres.}
 {226}{}{ProszÍ, proszÍ, popatrzcie tylko na tego nadÍtego sukinsyna... Zmiataj ch≥optasiu, zanim ciÍ zestrzelimy.}
 {227}{}{Ten goúÊ siÍ prosi o k≥opoty.}
 {228}{}{Lepiej odejdü, }
-{229}{}{ProszÍ proszÍ, czyø to nie }
+{229}{}{Niech mnie szlag, jeúli to nie jest }
 {230}{}{S≥ysza≥em, øe }
 {231}{}{Wydawa≥o mi siÍ, øe daliúmy wystarczajπco duøo czasu cz≥onkom rodziny }
 {232}{}{Ty suko, w≥azisz pod z≥y adres.}
@@ -36,178 +21,122 @@
 {234}{}{Zmiataj stπd dziewczynko, zanim ciÍ zestrzelimy.}
 {235}{}{Ta suka siÍ prosi o k≥opoty...}
 {236}{}{S≥ysza≥em, øe }
-
-# 8. FLOAT DIALOGUE: MALE, PRIZEFIGHTER [ARMED] (WTG)
 {245}{}{Jo, mistrzu. Øadnych broni, dobra?}
 {246}{}{Jo, mistrzu! Od≥Ûø tÍ broÒ.}
 {247}{}{Hej, }
-
-# 9. FLOAT DIALOGUE: MALE, PRIZEFIGHTER AND MALE PORN STAR [SNEAK] (WTG)
 {255}{}{Po co siÍ tak skradasz? }
 {256}{}{PrÛbujesz uciec przed fanami? }
 {257}{}{Uch, po co ta ca≥a dyskrecja? }
-
-# 10. FLOAT DIALOGUE: MALE/FEMALE, PRIZEFIGHTER (WTG)
 {265}{}{Jo, }
 {266}{}{Jo, }
-
-# 11. FLOAT DIALOGUE: MALE/FEMALE, PORN STAR [ARMED] (WTG)
 {275}{}{Jo, kochasiu. Øadnych broni, dobra?}
 {276}{}{Hej, }
 {277}{}{Jo, }
 {278}{}{S≥onko, nie moøesz wnosiÊ tu broni. Hle-hle... I tak jesteú wystarczajπco zabÛjcza.}
 {279}{}{Hej, }
-
-# 13. FLOAT DIALOGUE: [PORN STAR, FEMALE] [SNEAK] (WTG)
-{285}{}{Kochanie, z takim cia≥em nie dasz rady wúliznπÊ siÍ niezauwaøenie dokπdkolwiek.}
-
-# 14. FLOAT DIALOGUE: [PORN STAR] (WTG)
+{285}{}{Kochanie, z takim cia≥kiem nigdzie nie wejdziesz ukradkiem.}
 {290}{}{Uwielbiam twoje filmy, }
 {291}{}{Uwielbiam ciÍ za "Majtkix".}
 {292}{}{Uwielbiam ciÍ za film "Ten wibrator 2".}
 {293}{}{Jestem wielkim fanem twojej roli z "Archiwum XXX".}
-{294}{}{::gwiødøe::} imienia
-
-# 16. FLOAT DIALOGUE: SLAVER [ARMED] (WTG)
+{294}{}{::gwiødøe::}
 {300}{}{Chcesz poszukaÊ swojego øywego towaru na Golgocie? Od≥Ûø tÍ broÒ.}
 {301}{}{Od≥Ûø tÍ broÒ, albo zrobiÍ sobie z ciebie tarczÍ strzelniczπ.}
 {302}{}{Lepiej NATYCHMIAST zabezpiecz tÍ broÒ.}
-
-# 17. FLOAT DIALOGUE: SLAVER [SNEAK] (WTG)
 {305}{}{Chcesz poszukaÊ swojego øywego towaru na Golgocie? PrzestaÒ siÍ skradaÊ.}
 {306}{}{PrzestaÒ siÍ skradaÊ, albo zrobiÍ sobie z ciebie tarcze strzelnicza.}
 {307}{}{Moøe lepiej wrÛÊ do szko≥y ninja - a teraz przestaÒ siÍ skradaÊ.}
 {308}{}{Lepiej przestaÒ úciemniaÊ z tym cichym chodzeniem. OD ZARAZ.}
-
-# 18. FLOAT DIALOGUE: MALE/FEMALE, NO REP [ARMED] (WTG)
 {315}{}{Szukasz dla siebie grobu na Golgocie, dzikusie? Od≥Ûø to.}
 {316}{}{Od≥Ûø tÍ broÒ, dzikusie, albo zrobiÍ sobie z ciebie tarczÍ strzelniczπ.}
-{317}{}{Dzikusie, lepiej NATYCHMIAST zabezpiecz tÍ broÒ.}
-
-# 19. FLOAT DIALOGUE: MALE/FEMALE, NO REP [SNEAK] (WTG)
+{317}{}{Lepiej NATYCHMIAST schowaj tÍ broÒ, dzikusie.}
 {325}{}{Dzikusie, szukasz dla siebie grobu na Golgocie? PrzestaÒ siÍ skradaÊ.}
 {326}{}{PrzestaÒ siÍ skradaÊ, dzikusie, albo zrobiÍ sobie z ciebie tarczÍ strzelniczπ.}
 {327}{}{Moøe lepiej wrÛÊ do szko≥y ninja, dzikusie - a teraz przestaÒ siÍ skradaÊ.}
-{328}{}{Dzikusie, lepiej przestaÒ úciemniaÊ z tym cichym chodzeniem. JUØ.}
-
-# 20. FLOAT DIALOGUE: COMPANION: ROBOBRAIN (WTG)
+{328}{}{Lepiej NATYCHMIAST przestaÒ siÍ skradaÊ, dzikusie.}
 {335}{}{Zabieraj stπd tego robota. Ale juø.}
 {336}{}{Zabierz stπd tego robota zanim zrobimy sobie z niego kosz na úmieci i podpalimy.}
 {337}{}{Jeúli ten robot tu zostanie, to bÍdπ z niego czÍúci zamienne.}
-
-# 21. FLOAT DIALOGUE: COMPANION: MARCUS (WTG)
 {345}{}{*Wydawa≥o* mi siÍ, øe poczu≥em zapach mutanta. Lepiej zabierz stπd tego øÛ≥tego dupka. Natychmiast.}
 {346}{}{Ty i twÛj zmutowany kumpel szukacie guza? Spadaj.}
 {347}{}{Ten mutant lepiej niech siÍ stπd wynosi, albo powiesimy sobie jego g≥owÍ na úcianie.}
-
-# 22. FLOAT DIALOGUE: COMPANION: LENNY (WTG)
 {355}{}{*Wydawa≥o* mi siÍ, øe poczu≥em zapach czegoú gnijπcego. Zabierz stπd tego ghula.}
 {356}{}{Zabierz stπd tego úmierdzπcego ghula. Natychmiast.}
-{357}{}{Jeúli ten ghul nie wyniesie siÍ stπd w ciπgu minuty, to bÍdzie jeszcze bardziej martwy, niø jest teraz.}
-
-# 23. FLOAT DIALOGUE: MALE/FEMALE, NO REP (WTG)
-{365}{}{Widzieliúcie moøe wczorajszπ walkÍ?}
+{357}{}{Jak nie zabierzesz stπd tego chodzπcego úcierwa, to bÍdzie jeszcze bardziej martwy, niø jest teraz.}
+{365}{}{Widzieliúcie wczorajszπ walkÍ?}
 {366}{}{Po pracy lecÍ do baru.}
-
-# 24. CLICK DIALOGUE: MALE/FEMALE, MADE MAN: BISHOP, BISHOP = DEAD (WTG)
 {370}{}{Jeúli chcesz, moøesz pÛjúÊ na gore. Bishop kopnπ≥ w kalendarz, wiÍc moøesz teø skorzystaÊ z basenu.}
-
-# 25. INTRO (WTG)
 {375}{}{Czego chcesz, ch≥opie? SprÍøaj siÍ.}
 {376}{}{Czego chcesz, kobieto? SprÍøaj siÍ.}
 {377}{}{Znowu ty. Czego u licha chcesz tym razem?}
-{378}{}{Ja chcieÊ pokÛj úwiatowy}
+{378}{}{Moja chce úwiatowy pokÛj}
 {379}{}{Ja chcieÊ iúÊ na gÛra}
-{380}{}{Ktoo Tyyy}
-{381}{}{Odejdü}
+{380}{}{Kto tyy?}
+{381}{}{[Odejdü]}
 {382}{}{Co jest na gÛrze?}
 {383}{}{Przybywam, by spotkaÊ siÍ z panem Bishopem.}
 {384}{}{Przybywam, by spotkaÊ siÍ z panem Bishopem. Mam dla niego teczkÍ od pana Moore'a.}
 {385}{}{Przepraszam, chyba pomyli≥y mi siÍ kierunki. Juø sobie idÍ.}
-
-# 26. TRY TO GO UPSTAIRS (WTG)
 {390}{}{Kolego, masz jakiú interes na gÛrze?}
 {391}{}{Kochanie, masz jakiú interes na gÛrze?}
-
-# 27.  RETARD (25, 26, 29, 30, 32, 33)
 {405}{}{Rany, ale z ciebie g≥upi sukinsyn, no nie? }
 {406}{}{Rany, ale z ciebie g≥upia suka, no nie? }
 {407}{}{Wiesz co, spieprzaj stπd zanim wytrzepiemy ci z g≥owy te resztki mÛzgu, ktÛre tam jeszcze zosta≥y.}
-{408}{}{JA CHCIE∆ POK”J åWIATOWY JA CHCIE∆ LASY DESZCZOWE}
+{408}{}{MOJA CHCIE∆ POK”J MOJA CHCIE∆ POK”J!!!}
 {409}{}{M”WIE, ØE CHCE Iå∆ NA G”RA}
-{410}{}{KTOO TYYY}
+{410}{}{KTOO TYY}
 {411}{}{Odejdü bez s≥owa}
 {412}{}{Daj mi przejúÊ.}
 {414}{}{Dobrze juø, dobrze. OdchodzÍ.}
-
-# 28. LOUD RETARD (27)
 {420}{}{Ty dupku, w≥aúnie doprosi≥eú siÍ, øeby ci zrobiÊ wielkπ krzywdÍ.}
 {421}{}{Ty suko, w≥aúnie doprosi≥aú siÍ, øeby ci zrobiÊ wielkπ krzywdÍ.}
-{422}{}{TO TYYY PROSI∆ KRZYWD }
+{422}{}{TO TY DOSTA∆ CZAPA}
 {423}{}{ tylko chcieÊ, øeby zostawiÊ SAMEMU, ale wszÍdzie WIELKA krzywda }
 {424}{}{ wiÍc }
 {425}{}{ ZGNIEå∆ MA£E LUDZIKI}
 {426}{}{Z wrzaskiem rzuÊ siÍ w poszukiwaniu os≥ony.}
 {427}{}{Ucichnij, skup siÍ i przygotuj siÍ na dokonanie drobnych zniszczeÒ.}
 {428}{}{A sami chcecie TROCH  tego, co ch≥opcy?! CHCECIE?! WiÍc chodücie tu i WEèCIE sobie, wy øa≥osne SKURWYSY...}
-
-# 29. WHAT'S UP THOSE STAIRS? (25, 26)
 {435}{}{Jeúli nie wiesz, to nie musisz wiedzieÊ. A teraz zmiataj.}
-
-# 30.  BISHOP DEAD (25, 26, 27, 29)
 {445}{}{To wielka szkoda, bo Bishop w≥aúnie niedawno wybra≥ siÍ w podrÛø autostradπ do nieba. A teraz spadaj.}
 {446}{}{Z twoim s≥uchem coú nie tak? Jebany John Bishop jest jebanym TRUPEM, no nie? A teraz wynoú siÍ zanim do niego do≥πczysz.}
 {447}{}{S≥uchaj, muszÍ wejúÊ na gÛrÍ, tylko na chwilkÍ.}
 {448}{}{Dobra, juø sobie idÍ.}
-
-# 31. I'M HERE TO SEE BISHOP (25, 26, 27)
 {455}{}{Nie, znam plan zajÍÊ pana Bishopa i ciebie w nim nie ma.}
 {456}{}{On czeka na mnie. Powiedz mu, øe tu jestem.}
 {458}{}{No dobrze. Øegnam.}
-
-# 32. HE'S EXPECTING ME. (31)
 {465}{}{No dobra, koleú. Jak siÍ nazywasz? SprawdzÍ u szefa.}
 {466}{}{No dobra, ma≥a. Jak siÍ nazywasz? SprawdzÍ u szefa.}
-{467}{}{Jestem }
+{467}{}{To ja jestem }
 {468}{}{.}
 {469}{}{Nie musisz znaÊ mojego imienia. Po prostu pozwÛl mi go zobaczyÊ.}
 {471}{}{Niewaøne. Nie musisz siÍ fatygowaÊ... juø sobie idÍ.}
-
-# 33. HE'S EXPECTING ME (REFUSE) (32)
 {475}{}{(Straønik odchodzi na chwilÍ, otwiera szafkÍ znajdujπcπ siÍ w jednej ze úcian i szepcze coú. Przez parÍ chwil nas≥uchuje, a potem odwraca siÍ do ciebie.) }
 {476}{}{On ciÍ nie zna. Odwal siÍ, koleú. Marnujesz swÛj czas.}
 {477}{}{On ciÍ nie zna. Odwal siÍ, z≥otko. Marnujesz swÛj czas.}
 {478}{}{Daj mi go zobaczyÊ. Natychmiast.}
 {479}{}{Powiedz mu, øe mam dla niego teczkÍ... od pana Moore'a.}
 {480}{}{A wiÍc niewaøne.}
-
-# 34. HE'S EXPECTING ME (AGREE) (25, 26, 27, 28, 29, 33)
 {490}{}{(Straønik odchodzi na chwilÍ, otwiera szafkÍ znajdujπcπ siÍ w jednej ze úcian i szepcze coú. Przez parÍ chwil nas≥uchuje, a potem odwraca siÍ do ciebie i wzrusza ramionami.) MÛwi, øe moøesz wejúÊ.}
-{491}{}{W porzπdku.}
-
-# 35. MADE MAN: BISHOP (WTG)
+{491}{}{No dobra.}
 {495}{}{Jo, }
 {496}{}{! }
 {497}{}{Pan Bishop ciÍ oczekuje?}
 {498}{}{Tak. MogÍ wejúÊ na gÛrÍ? Mamy kilka spraw do przedyskutowania.}
 {499}{}{Nie, nie w tej chwili. Trzymajcie siÍ ch≥opaki.}
-
-# 36. MADE MAN (35)
 {505}{}{Pewnie, w≥aü na gÛrÍ }
 {506}{}{. }
 {507}{}{NastÍpnym razem nawet siÍ nie fatyguj z pytaniem... po prostu w≥aü.}
 {508}{}{DziÍki.}
-
-# END LINES
 {1228}{}{. Natychmiast.}
 {1229}{}{. Czy twojej rodzinie nie bÍdzie ciÍ brakowa≥o?}
 {1230}{}{ to banda wymoczkÛw. Co ty na to?}
 {1231}{}{, aby zrobili coú wiÍcej, niø tylko ca≥owanie ty≥ka swojemu szefowi.}
 {1236}{}{ to banda wymoczkÛw. Teraz wiem juø, øe to prawda.}
-{1247}{}{! Nie moøesz wnosiÊ tu broni, no nie?}
+{1247}{}{! Nie moøesz tak machaÊ tutaj tπ broniπ, no nie?}
 {1265}{}{. Dbasz o siebie?}
 {1266}{}{. Co jest?}
 {1276}{}{! Nie moøesz tak machaÊ tutaj tπ broniπ, no nie?}
 {1277}{}{! Od≥Ûø tÍ broÒ.}
 {1279}{}{! Moøesz trzymaÊ na wierzchu cycki, ale nie moøesz trzymaÊ na wierzchu broni, dobra?}
-{1290}{}{!}
+{1290}{}{ moøe mi, kurwa, rozkazywaÊ!}

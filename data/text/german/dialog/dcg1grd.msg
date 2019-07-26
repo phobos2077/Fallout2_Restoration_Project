@@ -1,14 +1,7 @@
-# 0. Look
 {100}{}{Du siehst eine Wache.}
-
 {150}{}{Er ist einer von Tylers Wachen.}
-# Seraph: Part of Haenlomal's gang fixes.
 {151}{}{Sie ist eine von Tylers Wachen.}
-
-# 1. Hostile
 {200}{}{Lebst du noch? }
-
-# 2. CF: Gang 2 Defeated
 {210}{}{Wir haben es ihnen so richtig gezeigt, nicht wahr?}
 {211}{}{Niemand wagt es, sich mit uns anzulegen.}
 {212}{}{Wir haben richtig zugeschlagen.}
@@ -16,8 +9,6 @@
 {214}{}{Ich kann seinen Gesichtsausdruck nicht vergessen. Großartig!}
 {215}{}{Ich bin überrascht, daß Metzger nicht stocksauer war.}
 {216}{}{Warum Metzger wohl nicht eingegriffen hat?}
-
-# 3. ELSE
 {225}{}{Keine Ahnung, warum Metzger wollte, daß wir auf diesen Mist aufpassen.}
 {226}{}{Wer versucht schon, diesen Müll zu klauen?}
 {227}{}{Der Job ist ein Kinderspiel.}
@@ -26,8 +17,6 @@
 {230}{}{Was suchst du eigentlich?}
 {231}{}{Außer uns Mäusen gibt's hier nichts.}
 {232}{}{Verschwende nicht deine Zeit, wir haben das Zeug schon Millionen Mal geprüft.}
-
-# 4. SET
 {233}{}{Heute Nacht wird es passieren.}
 {234}{}{Ich hasse Warten.}
 {235}{}{Für das hier schlag ich jeden Drink aus.}
@@ -35,8 +24,6 @@
 {237}{}{Hoffentlich leg ich den ersten um.}
 {238}{}{Warum haben sie bis jetzt gewartet, um sich mit uns anzulegen?}
 {239}{}{Sieht aus, als würde es interessant werden. }
-
-# 5. NOSHOW
 {240}{}{Zu schade, daß letztendlich gar nichts passiert ist.}
 {241}{}{Ich frage mich, warum sie ihre Meinung geändert haben. }
 {242}{}{Die lange Warterei und dann nichts.}

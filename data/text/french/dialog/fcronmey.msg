@@ -4,10 +4,10 @@
 {103}{}{Qu'est-ce tu veux ? Je n'adresse la parole qu'à mes amis et aux gens bien. Commence par faire quelque chose pour un des mes potes si tu veux me parler.}
 {104}{}{[Terminé]}
 {105}{}{J'ai entendu parler de ce que tu as fait pour mes hommes. Merci. Que puis-je faire pour toi ?}
-{106}{}{Qui toi ?}
+{106}{}{Toi qui ?}
 {107}{}{J'ai entendu dire que tu en savais beaucoup sur ce navire.}
 {108}{}{Pourquoi t'appellent-ils Capitaine ?}
-{109}{}{Comment tu fais marcher ce truc ?}
+{109}{}{Comment fais-tu marcher ce truc ?}
 {110}{}{Rien.}
 {111}{}{Je suis le Capitaine. Je commande ce navire. Si tu as d'autres questions, adresse-toi à un des Shi, à Badger, ou à quelqu'un d'autre. Je n'ai pas de temps à t'accorder.}
 {112}{}{[Terminé]}
@@ -20,7 +20,7 @@
 {119}{}{Des gens plus honnêtes ? Ces types ?}
 {120}{}{C'est quoi au juste l'Enclave ?}
 {121}{}{Comment fais-tu marcher ce truc ?}
-{122}{}{Au revoir.}
+{122}{}{Salut.}
 {123}{}{Comment on pilote ce rafiot ? Tu le remplis avec du carburant, t'as qu'à essayer chez les Hubologistes ou les Shis après que tu te sois occupé de tout le reste, et tu appuies sur le bouton. L'ordinateur s'occupera du reste, enfin, s'il marche toujours. Il naviguera jusqu'à la plate-forme pétrolière, à moins que ce vieux sous-marin ne le fasse exploser. Mais au moins tu n'auras pas à t'inquiéter que l'Enclave te tire dessus, parce que tu as le transpondeur IFF. Arrange-toi juste pour avoir tout le nécessaire pour obtenir un accès total : le passe FOB, un ordinateur qui marche et du carburant. Trop facile, hein ?}
 {124}{}{Certainement. Comment sais-tu tout ça ?}
 {125}{}{C'est quoi au juste ce transpondeur IFF et ce fameux passe ?}
@@ -53,12 +53,8 @@
 {152}{}{Comment faire pour piloter ce bateau ? Eh bien, je vois que tu as déjà fait le plein de carburant. Quand tu te seras occupé de tout le reste, contente-toi d'appuyer sur le bouton. L'ordinateur s'occupera du reste, enfin, s'il marche toujours. Il naviguera jusqu'à la plate-forme pétrolière, à moins que ce vieux sous-marin ne le fasse exploser. Mais au moins tu n'auras pas à t'inquiéter que l'Enclave te tire dessus, parce que tu as le transpondeur IFF. Arrange-toi juste pour avoir tout le nécessaire pour obtenir un accès total : le passe FOB, un ordinateur qui marche et du carburant. Trop facile, hein ?}
 {153}{}{Oh ouais. Tu dois également faire marcher l'ordinateur de navigation.}
 {154}{}{Je suis content de te revoir ! De quoi t'as besoin ?}
-# Begin Seraph's Code
 {155}{}{, et sauf si je me trompe, c'est la que sont tes amis aussi.}
 {156}{}{.}
-# End Seraph's Code
-
-#added by killap
 {200}{}{Quel vieux sous-marin ?}
 {210}{}{Il y a un vieux sous-marin chinois abandonné là-bas dans la baie. Cette satanée chose me donne la chair de poule, tapie sous l'eau comme un fantôme rouillé. Je doute qu'il marche encore, mais si c'était le cas, son système d'armes automatisées pourrait envoyer ce tanker en enfer avant même que tu ne t'approches de la plate-forme pétrolière.}
 {211}{}{Qu'est-ce qui te fait croire que le sous-marin n'est plus actif ?}

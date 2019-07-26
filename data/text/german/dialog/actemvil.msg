@@ -25,11 +25,11 @@
 {124}{}{OK.}
 {125}{}{Verstehe.}
 {126}{}{Nein, mein Freund, du mußt mich nur besiegen. Wir werden den Kampf zu gegebener Zeit beenden.}
-{127}{}{Ich verstehn.}
-{128}{}{Alles klar.}
+{127}{}{Ich verstehen.}
+{128}{}{Also gut.}
 {129}{}{Ja. Waffen entfremden uns dem Kampf und desensibilisieren uns für die Auswirkungen unserer Handlungen gegen andere. Wenn du ein anderes menschliches Wesen mit der bloßen Faust triffst, fühlen beide den Schmerz, den du verursachst. Der Kampf wird dann persönlich und realistisch. }
-{130}{}{, dies ist eine wichtige Lektion, die du zu lernen hast.}
-{131}{}{Ich verstehn.}
+{130}{}{.}
+{131}{}{Ich kapiert.}
 {132}{}{Ich verstehe.}
 {133}{}{Sehr gut. Sollen wir beginnen?}
 {134}{}{Ich fertig.}
@@ -53,7 +53,7 @@
 {152}{}{Hallo, Dumar. Bist du für einen weiteren Kampf bereit?}
 {153}{}{Ich wollte nur kurz Hallo sagen. Bis später.}
 {154}{}{Nimm den Weg zu meiner Linken, Auserwähltes Wesen. Er führt dich zum eigentlichen Tempel. Durch den Eingang hinter mir gelangst du in die letzte Kammer.}
-{155}{}{OK, ich gehn.}
+{155}{}{OK, ich gehen.}
 {156}{}{OK, danke.}
 {157}{}{Nein danke, Auserwähltes Wesen. Die Wunden unseres letzten Aufeinandertreffens sind noch nicht verheilt. Das wird Jahre dauern.}
 {158}{}{Guten Tag, Dumar.}
@@ -68,13 +68,10 @@
 {170}{}{Hmm... Ich verstehe was du meinst. Aber wir müssen trotzdem kämpfen. Ich werde einfach darauf achten, dich nicht zu sehr zu verletzen.}
 {171}{}{Danke! Ich sehe dich später im Dorf.}
 {172}{}{Verstehe.}
-
 {200}{}{Ich erinnere mich nicht an unseren letzten Kampf, Auserwähltes Wesen. Es ist mir ein Rätsel, wie du es geschafft hast, an mir vorbeizukommen.}
 {201}{}{Du bist sehr redegewandt, Auserwähltes Wesen. Diese Gabe wird dir viele Türen öffnen.}
-
 {300}{}{Dir auch, Auserwähltes Wesen. Mögen die guten Geister dir bei deiner Suche beistehen.}
 {301}{}{Danke, Dumar.}
-
 {302}{}{Auserwähltes Wesen, ich konnte nicht umhin festzustellen, daß es dir an Kampferfahrung und -technik mangelt. Ich habe festgestellt, daß ein scharfer Verstand oder kluge Worte nicht immer ausreichen, um sich zu schützen. Wenn du erlaubst, werde ich dir ein paar Dinge beibringen, die dir sicher nützlich sein werden.}
 {303}{}{Ja, du beibring.}
 {304}{}{Nein, ich nix brauch.}
@@ -86,16 +83,12 @@
 {310}{}{Na gut. Komm wieder, wenn du deine Meinung geändert hast.}
 {311}{}{Ich danken, Dumar.}
 {312}{}{Danke, Dumar. Ich werde dein Angebot nicht vergessen.}
-
-#added by killap - expansion
 {400}{}{Denkst du jemals darüber nach von deiner Position als finale Tempelherausforderung zurückzutreten? Ich meine, es ist ziemlich gefährlich.}
-
 {401}{}{Das Leben ist eine andauernde Folge von Risiken, Auserwähltes Wesen. Mit jedem Morgengrauen, nimmt jeder von uns ein Risiko auf sich. Einfach dadurch, dass man aus seinem Zelt kommt um den unbekannten Tag zu begrüßen. Warum fragst du?}
 {402}{}{Einfach nur so. Wir sprechen uns später, Dumar.}
-{403}{}{Nun, ich habe nur darüber nachgedacht was aus deinem Vorgänger geworden ist. Du weißt schon, während des Kampfes mit… äh, "Er-Dessen-Name-Nicht-Genannt-Werden-Darf".}
+{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
 {410}{}{Ah, das war tatsächlich ein dunkler Tag, da unser Stamm an ihm zwei gute Männer verloren hat: einen im Leben, den anderen im Geiste. Aber die verdorbene Handlung dieses Tages ist nicht meine Angelegenheit. Meine Zeit wird kommen, wenn die Götter es für richtig halten.}
 {411}{}{Und möge dieser Tag noch lange auf sich warten lassen. Guten Tag, Dumar.}
 {412}{}{Werden sie überhaupt andere Leute den Tempel erproben lassen? Wurde es nicht schon bestimmt, dass ich das Auserwählte Wesen bin?}
-
 {420}{}{Es wird immer die Notwendigkeit geben, die Stärke unserer Leute zu testen. Und es ist mir eine große Ehre meinen Teil dazu beizutragen.}
 {421}{}{Alles klar, ich sehe dich später, Dumar.}

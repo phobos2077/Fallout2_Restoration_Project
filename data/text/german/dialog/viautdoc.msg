@@ -1,4 +1,4 @@
-{100}{}{Du siehst einen Autodoc}
+{100}{}{Du siehst einen Autodoc.}
 {101}{}{Du siehst einen altmodisch wirkenden Autodoc. Obwohl er uralt ist, hast du hast ihn
  wieder zum Laufen gebracht.}
 {102}{}{Du siehst einen Autodoc.}

@@ -35,7 +35,6 @@
 {134}{}{Puisque vous en avez deux, vous pourriez peut-être m'en donner un ?!}
 {135}{}{Non. Je ne peux pas faire ça. Ca ne serait pas juste de terminer ta quête aussi facilement. Il te reste encore beaucoup à faire. Chacun sa quête. [Il te montre une direction de l'index, à peu près là où tu lui as indiqué l'emplacement de la Sainte Grenade d'Antioche.] }
 {136}{}{[FIN]}
-
 {200}{}{Parles-tu la langue des rois ?}
 {201}{}{Bonjouuuur.}
 {202}{}{Hé, je suis là.}
@@ -43,9 +42,6 @@
 {204}{}{Ah... hum.}
 {205}{}{Allez. Ne m'ignore pas.}
 {206}{}{Je t'en prie, j'aimerais te poser une question importante !}
-
 {207}{}{Nous devons continuer notre quête de la Sainte Grenade d'Antioche. Allez, viens, Patsy.}
-
-#added by killap - RP 1.3
 {300}{}{Notre quête a été accomplie !}
 {301}{}{Arthur, à votre service.}

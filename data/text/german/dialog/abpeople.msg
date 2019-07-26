@@ -1,4 +1,4 @@
-{100}{}{Du siehst einen Bauern.}
+{100}{}{Du siehst einen Dorfbewohner.}
 {101}{}{Du siehst einen gesund wirkenden Bauern.}
 {102}{}{Du siehst eine Person}
 {103}{}{Gestern zuviel Schnaps getrunken?}
@@ -16,8 +16,7 @@
 {115}{}{Hey, Wilder.}
 {116}{}{Es wird heute sicher ein heißer Tag!}
 {117}{}{Gute Ackerböden hier...}
-{118}{}{Hab einen schönen Tag.}
-{119}{}{Willkommen in Abbey, Reisender!}
+{118}{}{Habe einen schönen Tag.}
+{119}{}{Welcome to the Abbey, wanderer!}
 {120}{}{Wir haben hier ein beeindruckendes Kloster, was?}
-
 {200}{}{Nimm deine verdammten Hände von mir!}

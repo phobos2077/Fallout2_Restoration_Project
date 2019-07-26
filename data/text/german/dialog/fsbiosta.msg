@@ -1,4 +1,4 @@
-{100}{}{Du siehst ein Computerterminal.}
+{100}{}{Du siehst ein Terminal.}
 {101}{}{Du siehst das Biologieterminal.}
 {102}{}{Du siehst ein funktionsfähiges Computerterminal.}
 {103}{}{Willkommen. Bitte identifizieren.}
@@ -11,7 +11,7 @@
 {110}{}{Botanikprogramm.}
 {111}{}{Genetikprogramm}
 {112}{}{Xeno-Programm.}
-{113}{}{Personalvermerke}
+{113}{}{Neueste Personalvermerke.}
 {114}{}{Terminal deaktivieren.}
 {115}{}{Falsches Kennwort. Bitte mit Systemadministrator in Verbindung setzen. Auf Wiedersehen.}
 {116}{}{[Hack dich in den Computer]}
@@ -43,7 +43,5 @@
 {142}{}{[Geh]}
 {143}{}{[Durch dein wahlloses Herumtippen auf der Tastatur findest du das richtige Kennwort... dein Glück ist wirklich unglaublich!]}
 {144}{}{[Weiter]}
-
-
-{145}{}{Der Computer reagiert nicht auf deine Eingabe.}
+{145}{}{Der Computer reagiert nicht auf Eingabe.}
 {146}{}{Das scheint nirgendwo hinzupassen.}

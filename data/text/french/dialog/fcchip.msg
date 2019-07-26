@@ -4,7 +4,7 @@
 {103}{}{Hoo, mon ventre... Oh là là !}
 {104}{}{Fentre ?}
 {105}{}{Ouille ?}
-{106}{}{Qu'est-ce qui ne va pas ?}
+{106}{}{Que t'est-il arrive ?}
 {107}{}{Tu souffres ? Ha ha ha !}
 {108}{}{Qui es-tu ?}
 {109}{}{As-tu des informations pour moi au sujet de mon peuple ?}
@@ -26,15 +26,15 @@
 {125}{}{Hé, tu l'as perdue. C'est ton problème. A toi de te débrouiller.}
 {126}{}{Bon sang. Hé bien, je vais te la retrouver.}
 {127}{}{J'apprécie vraiment ton geste. Va parler à Lao Chou, le marchand, et dis-lui que je dois récupérer ma rate.}
-{128}{}{Je vais revenir.}
+{128}{}{Je reviendrai.}
 {129}{}{Je m'appelle Chip. Et je souffre le martyre.}
-{130}{}{Quel est ton problème ?}
+{130}{}{Que t'est-il arrive ?}
 {131}{}{Tu souffres ? Ha ha ha !}
 {132}{}{C'est vraiment triste. A bientôt.}
 {133}{}{Des informations ? Je souffre atrocement et tu veux des informations ?}
-{134}{}{Quel est ton problème ?}
+{134}{}{Que t'est-il arrive ?}
 {135}{}{Tu souffres ? Ha ha ha !}
-{136}{}{Oublie ça.}
+{136}{}{Laisse tomber.}
 {137}{}{As-tu retrouvé ma rate ?}
 {138}{}{Oui. Le Docteur Wong Yi Tze l'a et il va te la rendre. Va lui parler.}
 {139}{}{Oui. Va jeter un coup d'oeil sur le cadavre du Docteur Wong.}
@@ -43,7 +43,7 @@
 {142}{}{Non, pas encore. Mais je la trouverai.}
 {143}{}{Non. Je ne la cherche pas pour l'instant.}
 {144}{}{Très bien. [Haletant...] Nous pourrions peut-être trouver un moyen de me la réimplanter. Parle-en au Docteur Fung, d'accord ? Merci.}
-{145}{}{Très bien.}
+{145}{}{D'accord.}
 {146}{}{Non.}
 {147}{}{J'apprécie vraiment ce que tu fais pour moi. Je ne l'oublierai pas.}
 {148}{}{Pas d'soucis.}
@@ -62,7 +62,7 @@
 {161}{}{Ouais, pour ça, il m'a réclamé $1 000.}
 {162}{}{}
 {163}{}{Ouah ! Tu as de bonnes relations, toi. Reviens demain, je vais voir ce que je pourrai faire pour te rendre service.}
-{164}{}{C'est bien.}
+{164}{}{Ok, je marche.}
 {165}{}{Peux-tu me couvrir ?}
 {166}{}{Ouais, je suppose.}
 {167}{}{Non.}
@@ -77,24 +77,23 @@
 {176}{}{J'ai besoin que quelques travaux informatiques soient effectués.}
 {177}{}{Rien pour le moment, merci. Salut.}
 {178}{}{Adresse-toi au Capitaine. Il se trouve dans le bureau à l'étage.}
-{179}{}{Merci. J'ai d'autres questions...}
-{180}{}{Merci. Salut.}
+{179}{}{Merci. Quelques questions....}
+{180}{}{Merci. Au revoir.}
 {181}{}{On dit qu'ils sont partis vers l'Ouest et qu'ils ont traversé la mer. Le meilleur moyen pour aller là-bas, c'est de remettre en marche ce navire.}
-{182}{}{Merci. Quelques questions...}
-{183}{}{Merci. Salut.}
+{182}{}{Merci. Quelques questions....}
+{183}{}{Merci. Au revoir.}
 {184}{}{Des travaux informatiques ? Si tu ne parviens pas à les faire faire par les Shis ou les Hubologistes, parle à Badger. C'est un génie.}
-{185}{}{Merci. J'ai d'autres questions...}
-{186}{}{Merci. Salut.}
+{185}{}{Merci. Quelques questions....}
+{186}{}{Merci. Au revoir.}
 {187}{}{Merde. Parle aux Hubologistes ou aux Shis. Avec Badger qui est mort, je ne sais pas quoi faire.}
 {188}{}{Merci. Quelques questions....}
-{189}{}{Merci. Salut.}
+{189}{}{Merci. Au revoir.}
 {190}{}{Sac à merde.}
 {191}{}{Tu vas avoir besoin de puissants antalgiques.}
 {192}{}{Pourriture ! Je vais m'occuper de toi, saleté !}
 {193}{}{Tu vois un voyou chauve.}
 {194}{}{Tu vois Chip. Il a l'air de souffrir horriblement.}
 {195}{}{Tu vois un voyou chauve. Il se tient le côté et semble endurer une vive douleur.}
-
 {196}{}{Très bien. Je vais parler à Fung.}
 {197}{}{Toujours rien à propos de ma rate ?}
 {198}{}{Ouais, et il voulait $1 000, mais j'ai payé.}

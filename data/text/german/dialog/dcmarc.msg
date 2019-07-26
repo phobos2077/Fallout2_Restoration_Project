@@ -1,36 +1,23 @@
-# 0. Look
 {100}{}{Du siehst eine Wache.}
 {101}{}{Du siehst Marc, eine Wache.}
 {102}{}{Du siehst Marc, eine von Tylers Wachen.}
-
-# 1. Door opened
 {150}{}{Hey Tyler!}
-
-# 2. Hostile
-{200}{}{Was zum...}
-
-# 3. Gang 1 Won War
-{225}{}{Ich wußte, daß wir diese Weicheier erledigen können.}
-{226}{}{Danke für den Tip, das hat Spaß gemacht.}
+{200}{}{What the...?}
+{225}{}{Danke für den Tip, das hat Spaß gemacht.}
+{226}{}{Ich wußte, daß wir diese Weicheier erledigen können.}
 {227}{}{Schade, daß wir sie alle umgebracht haben. Was machen wir jetzt?}
 {228}{}{Sind wir nicht die Elite?}
 {229}{}{Wir sind einfach gut.}
 {230}{}{Die haben wir sauber aufgemischt! Yeah!}
-
-# 4. TRAP NO
 {250}{}{Du mußt mit Tyler reden, nicht mit mir, junge Dame.}
 {251}{}{Was ist denn los? Du mußt hier mit Tyler über etwas reden.}
 {252}{}{Was starrst du denn?}
 {253}{}{Du mußt mit Tyler reden, nicht mit mir, junger Mann.}
-
-# 5. TRAP SET
 {255}{}{Wir werden heute Abend mal so richtig aufmischen!}
 {256}{}{Heute Abend ist es soweit!}
 {257}{}{An diesen Abend werde ich mich noch lange erinnern.}
 {258}{}{Ich will jetzt nicht hören, daß sie Muffensausen bekommen haben.}
 {259}{}{Ich will doch hoffen, daß die Wichser kommen.}
-
-# 6. TRAP NOSHOW
 {260}{}{Ich wußte, daß die Waschlappen nicht kommen würden.}
 {261}{}{Wir sollten sie allein deswegen aufmischen, weil sie sich einbilden, gegen uns kämpfen
  zu können.}

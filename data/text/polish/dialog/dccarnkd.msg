@@ -1,7 +1,5 @@
 {100}{}{Widzisz dziecko wykrzykuj¹ce slogany reklamowe.}
 {101}{}{To brudne dziecko wydaje siê byæ zatrudnione do reklamowania jakiejœ atrakcji turystycznej.}
-
-#Hawking floats
 {500}{}{Zobacz Tajemnicz¹ Mumiê!}
 {501}{}{Obejrzyj Staro¿ytny Cud!}
 {502}{}{Auto-styczna Mumia, tu i teraz!}

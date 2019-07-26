@@ -27,7 +27,7 @@
 {123}{}{Ich hier raus.}
 {124}{}{Warum?}
 {125}{}{Verstehe.}
-{126}{}{Ich geh jetzt.}
+{126}{}{Ich mach mich dann mal auf den Weg.}
 {127}{}{Weil ich in ihnen, im Gegensatz zu den Schafen die ebenfalls hier wohnen, eine Bedrohung
  für die Menschheit sehe. Sie wissen, wenn ich hier rauskomm, werde ich alles tun, damit sie vom
  Erdboden verschwinden! Sie können eigenständig denken und sind lernfähig, können lesen und,
@@ -50,7 +50,6 @@
 {138}{}{Ja.}
 {139}{}{Nein.}
 {140}{}{Du scheinst dich ja in ziemliche Verlegenheit gebracht zu haben.}
-
 {141}{}{Ich nicht hier wegen Flucht. Ich hier, weil jemand Computer kaputt. Du?}
 {142}{}{Ich bin nicht hier, um über einen Fluchtplan zu sprechen. Jemand hat den Großrechner
  sabotiert. Weißt du was drüber?}

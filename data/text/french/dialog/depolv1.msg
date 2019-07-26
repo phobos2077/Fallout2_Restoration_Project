@@ -10,8 +10,6 @@
 {109}{}{Dispositif de protection du bio-risque du niveau 1 en danger.}
 {110}{}{Brèche de l'endiguement du niveau 1.}
 {111}{}{Niveau 2 contaminé.}
-
-# X minutes and Y seconds to evacuate.
 {112}{}{ minutes et }
 {113}{}{ secondes pour évacuer.}
 {114}{}{ minute et }

@@ -1,9 +1,3 @@
-#
-#	 Messages from stat.c
-#
-#
-#	 STAT NAMES
-#
 {100}{}{Stärke}
 {101}{}{Wahrnehmung}
 {102}{}{Ausdauer}
@@ -42,44 +36,21 @@
 {135}{}{Trefferpunkte}
 {136}{}{Vergiftungsgrad}
 {137}{}{Verstrahlungsgrad}
-#
-#	 STAT DESCRIPTIONS
-#
-# @ Basic stats @
-#
-# Strength
 {200}{}{Rohe körperliche Gewalt. Große Stärke ist für körperbetonte Figuren wichtig. Beeinflußt: Trefferpunkte, Schaden im Nahkampf und Tragekapazität.}
-# Perception
 {201}{}{Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. Beeinflußt: Reaktions- und Distanzkampffaktoren.}
-# Endurance
 {202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflußt: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
-# Charisma
 {203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflußt: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
-# Intelligenz
 {204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jede Figur wichtig. Beeinflußt: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
-# Agility
 {205}{}{Koordination und geschickte Bewegung. Eine hohe Beweglichkeit ist für jede aktive Figur wichtig. Beeinflußt: Aktionspunkte, Rüstung, Reaktion und viele Fähigkeiten.}
-# Luck
 {206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich auf irgendeine Art auf die Figur aus. Ereignisse und Situationen ändern sich in Abhängigkeit davon, wie viel oder wenig Glück eine Figur hat.}
-#
-# Derived/Non Derived stats
-#
-# Maximum Hit Points
 {207}{}{Die Verletzungen, die deine Figur verkraften kann, bevor sie stirbt. Wenn du null oder weniger Trefferpunkte erreichst, bist du tot.}
-# Maximum Action Points
 {208}{}{Die Anzahl der Aktionen, die eine Figur durchführen kann, wenn sie am Zug ist.}
-# Armor Class
 {209}{}{Beeinflußt die Wahrscheinlichkeit, daß diese Figur getroffen wird.}
-# Unarmed Damage
 {210}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
 {211}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
-# Carry Weight
 {212}{}{Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in Pfund.}
-# Sequence
 {213}{}{Legt fest, wie schnell deine Figur im Kampf reagieren kann.}
-# Healing Rate
 {214}{}{Am Ende eines jeden Tages heilt deine Figur einen Trefferpunkt mit einem Heilungspunkt. Wenn du dich ausruhst, erfolgt die Heilung alle sechs Stunden.}
-# Critical Chance
 {215}{}{Die Wahrscheinlichkeit, im Kampf einen kritischen Treffer zu landen, wird um diesen Prozentsatz erhöht.}
 {216}{}{Bessere kritische Treffer}
 {217}{}{Verletzungsschwelle}
@@ -89,7 +60,6 @@
 {221}{}{Verletzungsschwelle - Elektrisch}
 {222}{}{Verletzungsschwelle - EMP}
 {223}{}{Verletzungsschwelle - Explosion}
-# Damage Resistance
 {224}{}{Jede Verletzung wird um diesen Prozentsatz verringert. Die Verletzungsresistenz kann durch das Tragen einer Rüstung erhöht werden.}
 {225}{}{Verletzungsresistenz - Laser}
 {226}{}{Verletzungsresistenz - Feuer}
@@ -97,51 +67,31 @@
 {228}{}{Verletzungsresistenz - Elektrisch}
 {229}{}{Verletzungsresistenz - EMP}
 {230}{}{Verletzungsresistenz - Explosion}
-# Radiation Resistance
 {231}{}{Die Strahlung, der du ausgesetzt bist, wird um diesen Prozentsatz verringert. Die Strahlungsresistenz läßt sich durch die Art der getragenen Rüstung und Antistrahlenmittel beeinflussen.}
-# Poison Resistance
 {232}{}{Jede Vergiftung wird um diesen Prozentsatz verringert.}
 {233}{}{Alter}
 {234}{}{Geschlecht}
 {235}{}{Trefferpunkte}
 {236}{}{Vergiftungsgrad}
 {237}{}{Verstrahlungsgrad}
-#
-# STAT LEVEL DESCRIPTIONS
-#
 {301}{}{Übel}
 {302}{}{Mies}
 {303}{}{Dürftig}
 {304}{}{Leidlich}
 {305}{}{Mittel}
 {306}{}{Gut}
-{307}{}{Toll}         # Abbreviated for character editor
+{307}{}{Toll}
 {308}{}{Klasse}
 {309}{}{Super}
 {310}{}{Spitze}
-#
-#	 PC STAT NAMES
-#
 {400}{}{Übrige Fähigkeitspunkte}
 {401}{}{Level}
 {402}{}{Erfahrung}
 {403}{}{Ansehen}
 {404}{}{Karma}
-#
-#	 PC STAT DESCRIPTIONS
-#
-# Unspent Skill Points
 {500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt läßt sich eine Fähigkeit um 1 % oder eine Spezialkenntnis um 2 % erhöhen.}
-# Level
 {501}{}{Die allgemeine Kompetenz einer Spielerfigur. Ein Maß für deine Erfahrung und Fähigkeiten.}
-# Experience
 {502}{}{Eine Belohnung für die Durchführung bestimmter Aufgaben oder das Besiegen des Feindes im Kampf. Um höhere Level zu erreichen, sind mehr Erfahrungspunkte erforderlich.}
-# Reputation
 {503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflußt die Reaktionen von inaktiven Figuren.}
-# Karma
 {504}{}{Die Auswirkungen deiner Handlungen. Wichtige Informationen werden angezeigt.}
-
-#
-#  Experience-gain messages
-#
 {600}{}{Du hast ein neues Level erreicht.}

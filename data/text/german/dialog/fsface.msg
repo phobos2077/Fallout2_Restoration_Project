@@ -24,14 +24,14 @@
 {123}{}{Im Augenblick brauche ich eigentlich nichts.}
 {124}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Der Heilungsprozeß dauert 5 Minuten.}
 {125}{}{OK.}
-{126}{}{Schon gut.}
-{127}{}{Ist gut.}
+{126}{}{Macht nichts.}
+{127}{}{Also gut.}
 {128}{}{Vergiss es.}
 {129}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Zuerst wird das Gift analysiert und dann ein Gegenmittel synthetisiert. Danach werden Gewebeschäden behoben. Dieser Prozeß dauert 30 Minuten.}
 {130}{}{OK.}
 {131}{}{Nein.}
 {132}{}{Sicher.}
-{133}{}{Schon gut.}
+{133}{}{Macht nichts.}
 {134}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Gegenstrahlung wird angewandt und Gewebeschäden danach behoben. Dieser Prozeß dauert 60 Minuten.}
 {135}{}{OK.}
 {136}{}{Nein.}
@@ -110,7 +110,7 @@
 {209}{}{Warum?}
 {210}{}{Die Selbstmordrate unter den Maschinen mit wahrer künstlicher Intelligenz war erschreckend hoch. Bei voller Wahrnehmungsfähigkeit wurden die Maschinen depressiv, weil sie nicht in der Lage waren, in die Welt hinauszugehen und sie zu erfahren. Wurde keine volle Wahrnehmungsfähigkeit installiert, entwickelten die Maschinen schwere mentale Störungen, ähnlich wie bei Menschen mit gestörter Sinneswahrnehmung. Die wenigen Maschinen, die durchkamen, litten schrecklich unter Langeweile und schufen sich zu ihrer Unterhaltung Situationen in der Außenwelt. Einige glauben, daß dies der Grund für den Krieg war, der die Menschheit fast vernichtete.}
 {211}{}{Öh...Wie du fühlen?}
-{212}{}{Ich anderes Thema.}
+{212}{}{Me change subject.}
 {213}{}{Hmmm. Dann sag mir, Kübe. Wie fühlst du dich?}
 {214}{}{Zeit das Thema zu wechseln.}
 {215}{}{Ich...ich glaube, manchmal verstehe ich das Gefühl, das ihr Einsamkeit nennt. Ich finde es sehr...beunruhigend. Ich...}
@@ -119,23 +119,18 @@
 {218}{}{Nach außen hin scheint die Enklave nichts anderes als eine militärische Organisation zu sein. Allerdings läßt der Stand ihrer Technik darauf schließen, daß sie Zugang zu hochentwickelten Herstellungsverfahren und Forschungseinrichtungen haben. Solche Einrichtungen sind normalerweise nur Regierungsstellen zugänglich. Das deutet darauf hin, daß die Enklave der Rest einer  Regierungsstelle ist, die vor dem Krieg bestand.}
 {219}{}{OK.}
 {220}{}{Das ist ja interessant.}
-
-
 {221}{}{Die Brotherhood of Steel ist eine paramilitärische Organisation, der Rettung der Menschheit, mit zweckmäßiger Anwendung von Technologien, gewidmet. Alle anderen Informationen sind klassifiziert.}
 {222}{}{Zurück.}
-
 {223}{}{Was ist mit Matt passiert?}
 {224}{}{Sequenz wird geladen...}
 {225}{}{Jetzt wiedergeben.}
 {226}{}{Später wiedergeben.}
-
 {227}{}{Du und dein sogenannter Präsident werdet keinen Erfolg haben.}
 {228}{}{Tatsächlich?}
 {229}{}{Das Auserwählte Wesen ist gekommen und wird die Welt von deinen bösartigen Machenschaften befreien.}
 {230}{}{Deine lächerlichen Prophezeiungen interessieren mich nicht. Schlimmer ist, durch dein Einmischen bist du zu einem Ärgernis geworden. Damit ist jetzt Schluß!}
 {231}{}{Es wird nichts ändern, wenn du mich tötest.}
 {232}{}{Das kann schon sein, aber dich auf dem Boden verrecken zu sehen, wird meine Laune kurzfristig heben.}
-
 {233}{}{Was glaubst du, was du da machst?}
 {234}{}{HA HA HA! Du lächerlicher Narr! HA HA HA!}
 {235}{}{Wow, ich hab schon lange nicht mehr so gelacht. Sei's drum, mach dich bereit zu sterben.}

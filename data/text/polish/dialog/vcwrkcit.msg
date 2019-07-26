@@ -16,8 +16,8 @@
 {115}{}{Wygl¹da na to, ¿e coraz wiêcej obcych znajduje drogê do wnêtrza miasta...}
 {116}{}{Mam nadziejê, ¿e masz Dzienn¹ Przepustkê.}
 {117}{}{Wygl¹da na to, ¿e wydaj¹ teraz Dzienne Przepustki absolutnie *ka¿demu* obcemu...}
-{118}{}{Du¿o siê teraz mówi o twoich odwa¿nych czynach. To cudowne, ¿e uda³o ci siê uratowaæ Kryptopolis i... ca³y œwiat.}
-{119}{}{Twoja walka przeciw Enklawie zaimponowa³a nawet Pierwszemu Obywatelowi.}
+{118}{}{S³yszeliœmy o twoich wspania³ych wyczynach. To zadziwiaj¹ce, ¿e chcia³o ci siê ryzykowaæ ¿ycie dla Kryptopolis... i ca³ego œwiata.}
+{119}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
 {120}{}{Podobno uda³o ci siê dotrzeæ daleko na po³udnie, a¿ do San... Fran... Szyszki? Czy to prawda?}
 {121}{}{Mo¿e Kryptopolis *powinno* otworzyæ siê na obcych. }
 {122}{}{Czy to prawda? Czy stary rz¹d ci¹gle prowadzi wojnê?}
@@ -49,12 +49,12 @@
 {148}{}{Musimy dbaæ o to, aby utrzymaæ nasze piêkne miasto w czystoœci.}
 {149}{}{S³u¿¹cy? Och, u¿ywamy ich do czarnej roboty.}
 {150}{}{Wczorajsze zebranie Rady by³o bardzo produktywne. Zrobiliœmy mnóstwo wykazów. Tu, w Kryptopolis, uwielbiamy robiæ wykazy.}
-{151}{}{Tak?}
+{151}{}{S³ucham.}
 {152}{}{Czy mogê ci w czymœ pomóc... obcy?}
 {153}{}{Przepraszam, czy coœ mówi³eœ?}
 {154}{}{Ja? Wracam do swoich spraw. Ty równie¿ to zrób.}
 {155}{}{Czy mogê zobaczyæ twoj¹ Dzienn¹ Przepustkê?}
-{156}{}{Och... przepraszam. Zdawa³o mi siê, ¿e jesteœ s³u¿¹cym.}
+{156}{}{Oh... sorry. I almost mistook you for a servant.}
 {157}{}{Naprawdê nie mam teraz czasu na rozmowê z obcymi. Proszê zostawiæ mnie w spokoju.}
 {158}{}{Czy mo¿esz zachowaæ tê odleg³oœæ?}
 {159}{}{Proszê tam stan¹æ.}

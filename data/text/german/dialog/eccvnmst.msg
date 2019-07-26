@@ -2,7 +2,7 @@
 {101}{}{Dank sei dem Herrn, daß du zum richtigen Zeitpunkt hier angekommen bist. Es wird wohl
  immer schwieriger, von einem zum andern Ort zu gelangen, ohne von jemandem oder etwas
  angegriffen zu werden.}
-{102}{}{Wie kann ich dir behilflich sein?}
+{102}{}{Was kann ich jetzt für dich tun?}
 {103}{}{Wohin willst du?}
 {104}{}{Was führst du mit dir?}
 {105}{}{Tschüß.}
@@ -10,41 +10,16 @@
 {107}{}{Ich hab gerade 'ne Ladung aus }
 {108}{}{ und jetzt will ich nach }
 {109}{}{.}
-
-# Town Names
-{198}{}{New Reno}
-{199}{}{Den}
-{200}{}{Arroyo}
-{201}{}{Redding}
-{202}{}{Vault City}
-{203}{}{NCR}
-{204}{}{Broken Hills}
-{205}{}{Gecko}
-{206}{}{San Francisco}
-{207}{}{Modoc}
-{208}{}{Klamath}
-{209}{}{Vault 15}
-
 {110}{}{Was führst du mit dir?}
 {111}{}{Tschüß.}
 {112}{}{Wir haben }
-
-# Cargo for the Caravan
-{150}{}{Medizin.}
-{151}{}{Golderz.}
-{152}{}{Uranerz.}
-{153}{}{landwirtschaftliche Produkte.}
-{154}{}{Jet.}
-{155}{}{Sklaven.}
-{156}{}{Kram.}
-
 {113}{}{Kann ich mit dir 'n Geschäft machen?}
 {114}{}{Wohin willst du?}
 {115}{}{Tschüß.}
 {116}{}{Klar, warum nicht, wenn du uns schon aus der Klemme geholfen hast. Klar, hier ist meine
  Ware.}
 {117}{}{[Tauschen]}
-{118}{}{Ich hab's mir anders überlegt.}
+{118}{}{Ich habe meine Meinung geändert.}
 {119}{}{Ich glaub, ich hab dich schon mal wo gesehn. Heilige Maria! Du bist der auf den
  Steckbriefen! Paß auf, wir wollen keinen Ärger. Du gehst deinen Weg und wir unseren. Ich werd's
  auch nicht erzählen, daß wir dich gesehn haben. Und jetzt verschwinde!}
@@ -77,5 +52,23 @@
 {137}{}{Tschüß.}
 {138}{}{Agh.}
 {139}{}{Das ist...schön. Ich wünsch dir noch 'nen schönen Tag. }
-
+{150}{}{Medizin.}
+{151}{}{Golderz.}
+{152}{}{Uranerz.}
+{153}{}{landwirtschaftliche Produkte.}
+{154}{}{Jet.}
+{155}{}{Sklaven.}
+{156}{}{Kram.}
+{198}{}{New Reno}
+{199}{}{Den}
+{200}{}{Arroyo}
+{201}{}{Redding}
+{202}{}{Vault City}
+{203}{}{NCR}
+{204}{}{Broken Hills}
+{205}{}{Gecko}
+{206}{}{San Francisco}
+{207}{}{Modoc}
+{208}{}{Klamath}
+{209}{}{Vault 15}
 {300}{}{Danke für den Deal.}

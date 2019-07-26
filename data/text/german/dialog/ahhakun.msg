@@ -5,8 +5,8 @@
 {104}{hak001}{Sei gegrüßt, Auserwähltes Wesen. Warum erwärmt sich die Erde, wenn du sie berührst?}
 {105}{}{Häh?}
 {106}{}{Ich bin gekommen, um mich zu verabschieden. Ich begebe mich auf meine heilige Suche.}
-{107}{}{Ich breche nun auf. Ich hatte gehofft, daß du nur dieses eine Mal wie ein normaler Mensch reden würdest.}
-{108}{}{Du nimmst einfach zu viele Zeug. Ich verschwinde.}
+{107}{}{Ich breche nun auf. Ich hatte eigentlich gehofft, daß du nur dieses eine Mal wie ein normaler Mensch reden würdest.}
+{108}{}{Du rauchst einfach zu viele Zeug. Ich verschwinde.}
 {109}{}{Ich bin verletzt. Kannst du mich heilen?}
 {110}{}{Dein Garten war von einigen ziemlich scheußlichen Pflanzen befallen. Ich hab mich drum gekümmert.}
 {111}{hak001a}{Enthülle meinem trüben Blick den Grund deines Erscheinens.}
@@ -16,7 +16,7 @@
 {115}{}{Du rauchst einfach zu viele Zeug. Ich verschwinde.}
 {116}{}{Dein Garten war von einigen ziemlich scheußlichen Pflanzen befallen. Ich hab mich drum gekümmert.}
 {117}{hak002}{Die Erde singt von der Ankunft eines Helden... Würdest du mir bevor du gehst eine Gunst erweisen?}
-{118}{}{Na klar doch. Wie kann ich dir helfen?}
+{118}{}{Sicher, was brauchst du?}
 {119}{}{Das kommt drauf an...was bekomme ich dafür?}
 {120}{hak002a}{Die Welt hat viele Gesichter. Das wirst du schon bald lernen.... Bevor du gehst, um von den Erfahrungen des Lebens zu kosten, würdest du mir eine Gunst erweisen?}
 {121}{}{Hast du mich gerade um einen Gefallen gebeten? Wenn ja, dann klar, warum nicht?}
@@ -42,14 +42,14 @@
 {141}{}{Oh. Schon viel besser. Die Lektion, die ich gelernt habe, ist die: Die Klappe halten und nur fragen, wo der Garten ist.}
 {142}{}{Versuchen wir es mal mit dem Wort "Tschüß". Es bedeutet, daß ich jetzt verschwinde.}
 {143}{hak007}{Du wirst dich erinnern, daß er im Nordosten ist, du närrisches Wesen.}
-{144}{}{Danke für deine Hilfe.}
+{144}{}{Danke für die Hilfe.}
 {145}{}{Danke. Ich hab das schon verstanden.}
 {146}{}{Nennst du mich etwa einen Narren? Ich glaub nicht, daß ich dir jetzt noch helfen will.}
 {147}{}{Ich werde bald zurückkommen, um meinen Lohn abzuholen.}
 {148}{hak008}{Die Last, die du nun trägst, wird schwerer und schwerer werden.}
 {149}{hak009}{Mögen die Götter dich segnen, Auserwähltes Wesen. Und möge deine Aura mich beglücken, wenn die Erde wieder frei atmen kann.}
 {150}{}{Ich schätze, du willst mich wiedersehen, wenn ich fertig bin... Das hättest du doch einfach sagen können.}
-{151}{}{Bis dann.}
+{151}{}{Wiedersehn.}
 {152}{hak010}{Ha! Der Geist des Gründers lebt in dir. Konzentriere dich auf dein Inneres, stärke dein Ich, so daß es sich ausdehnen und die Welt berühren kann. Deine Belohnung wird mehr als nur geistiger Natur sein. }
 {153}{}{Klingt gut. Ich komme wieder, wenn ich fertig bin.}
 {154}{}{Also kriege ich also doch eine richtige Belohnung. Das ist völlig OK. Bis später.}
@@ -69,7 +69,7 @@
 {168}{}{Ich mag meine Seele so wie sie ist. Mach's gut.}
 {169}{}{Ich bin unwürdig. Ich werde jetzt gehen.}
 {170}{hak014}{Auserwähltes Wesen, die Gesamtheit deines Ichs gleicht einem gesegneten Land.}
-{171}{}{Ich danke dir.}
+{171}{}{Danke.}
 {172}{}{Du meinst, ich bin geheilt?}
 {173}{hak015}{Die Einheit herzustellen, erweckt ein Gefühl der Vollkommenheit, Auserwähltes Wesen.}
 {174}{}{Warte, sag's mir nicht. Mir geht's besser, und du hast es gern getan, richtig? Danke.}
@@ -82,7 +82,7 @@
 {181}{}{Danke.}
 {182}{hak018a}{Und außerdem kann ich die Broc-Blume mit der Xander-Wurzel mischen, wenn du beides zu mir bringst. Mögen deine Wege stets die rechten sein und möge dein Herz dem folgen. }
 {183}{}{Wo kann ich diese Dinge finden?}
-{184}{}{Ich danke dir.}
+{184}{}{Danke.}
 {185}{}{Beinahe schade, daß ich gehen muß. Gerade fange ich an, dich einigermaßen zu verstehen. Bis dann.}
 {186}{hak019}{Ah, in meinem Garten steht alles zum besten - wie steht es in deinem?}
 {187}{}{Ich bin OK.}
@@ -97,7 +97,7 @@
 {196}{}{Tschüß.}
 {197}{}{Immer noch am Kräutermischen, hm? Bis später.}
 {198}{hak021}{Wir alle haben einen Garten. Mögen deine Reisen der Pflege dieses Gartens dienen. Lebe wohl, ich muß nun das Gehör der Götter suchen.}
-{199}{}{Mach's gut.}
+{199}{}{Man sieht sich.}
 {200}{}{Ich wette, daß du deine Götter immer bei dir trägst. Leb wohl.}
 {201}{hak022}{Blicke nach Norden, Auserwähltes Wesen, und der Weg tut sich auf.}
 {202}{}{OK. Danke.}
@@ -109,10 +109,10 @@
 {208}{}{OK. Danke.}
 {209}{}{Jup!}
 {210}{hak026}{Du bist geheilt.}
-{211}{}{Ich danke dir.}
+{211}{}{Danke.}
 {212}{}{Keine Lektionen? Kein unverständliches Gerede? Geht es dir wirklich gut?}
 {213}{hak027}{Willkommen, Auserwähltes Wesen. Segne uns mit der Nachricht, daß das GECK bald gefunden wird. Unser Dorf leidet, und die Zeit ist knapp.}
-{214}{}{Nuh.}
+{214}{}{Nö.}
 {215}{}{Und deine Fähigkeit, normal zu reden, ist anscheinend nicht vorhanden. Ich arbeite noch dran.}
 {216}{}{Ich arbeite dran.}
 {217}{}{Halt mir keine Gardinenpredigt, alter Mann. Ich tu ja schon mein möglichstes.}
@@ -123,21 +123,21 @@
 {222}{hak028d}{Möge das Feuer deinen Hintern rösten, bis deine Aufgabe erfüllt ist.}
 {223}{}{Danke.}
 {224}{}{Wie bitte?!}
-{225}{}{Jup.}
+{225}{}{Oh.}
 {226}{}{Häh?!}
 {227}{hak029}{Willkommen zurück, Auserwähltes Wesen. Ich sehe dir an, daß das rettende GECK noch nicht unser ist. Sei fleißig wie die Ameise. Du bist unsere letzte Hoffnung.}
-{228}{}{Nöö.}
+{228}{}{A-ha.}
 {229}{}{Ich geb mir Mühe. Aber ich möchte die Ameise sehen, die so weite Wege zurücklegt...}
 {230}{}{Ich tue mein möglichstes.}
 {231}{}{Ich werde meine Bemühungen verstärken, Heiliger Mann. Ich werde euch nicht enttäuschen.}
 {232}{}{Ja, ja. Das hab ich alles schon mal gehört.}
 {233}{hak030}{Auserwähltes Wesen. Das Dorf versinkt in Verzweiflung. Die Kinder sind schwach vom Hunger. Bitte. Unsere Kraft ist bald am Ende.}
-{234}{}{Uh-huh.}
+{234}{}{A-ha.}
 {235}{}{Ich mach ja schon. Ich mach ja schon! Mach mal halblang!}
 {236}{}{Ich werde das GECK finden, Heiliger Mann. Mein Wort darauf.}
 {237}{}{Ich werde mein möglichstes tun, um das GECK zu finden.}
 {238}{hak031}{Auserwähltes Wesen, der Sand der Zeit zerrinnt uns zwischen den Fingern. Bring uns bald das GECK. Beeil dich, bevor unsere Zeit abläuft.}
-{239}{}{Uh-huh.}
+{239}{}{A-ha.}
 {240}{}{OK. Bin schon unterwegs.}
 {241}{}{Das Leben ist eins der härtesten, was?}
 {242}{}{Ich werde das GECK finden, Heiliger Mann. Ich werde unser Volk nicht enttäuschen.}
@@ -156,13 +156,13 @@
 {255}{hak104}{Nein! Kein schöner Glanz! Sie verschleppten unser Volk und brachten sie in den Südwesten.}
 {256}{}{Oh.}
 {257}{hak105}{Ja. Große Trauer und großes Leid. Ich stehe zwischen den Welten, um dir dies zu sagen. Rette dein Volk.}
-{258}{}{Häh?}
+{258}{}{Uh?}
 {259}{hak106}{Auserwähltes Wesen, laß mich dich mit meinen Worten berühren. Gehe nach Südwesten. Süden und Westen. Rette unser Volk. Rette unser Volk.}
 {260}{}{Ah-hah.}
 {261}{hak107}{Den Vorfahren sei Dank. Nun kann meine Seele in das ewige Lied einstimmen. Gute Reise, Auserwähltes Wesen.}
 {262}{}{Gehn?}
 {263}{hak108}{Geh!...}
-{264}{}{Winke-winke.}
+{264}{}{Wiedersehn.}
 {265}{hak109}{Dunkle Seelen kamen. Sie nahmen alle mit.}
 {266}{}{Dunkle Seelen? Wie meinst du das?}
 {267}{hak110}{Ein Sturm kam auf. Und brachte riesige Libellen, die Feuer spien. Böse Menschen krochen aus den Bäuchen der Ungeheuer und brachten unseren Kriegern den Tod.}
@@ -189,7 +189,6 @@
 {288}{hak121}{Ein seltsamer Nebel beraubte sie ihrer Sinne und brachte sie in das Land der Träume. Die Bösen wandelten unter den Träumenden, doch sie träumten nicht.}
 {289}{}{Und dann?}
 {290}{hak122}{Zu viele Jahre und zu viele Wunden, Auserwähltes Wesen. Hör mir statt dessen lieber zu.}
-{291}{}{In Ordnung.}
-
+{291}{}{Also gut.}
 {300}{}{Diejenigen welche stehlen, tragen eine große Last. Vergiss dies nicht, Auserwähltes Wesen.}
 {301}{}{Jetzt musst du für deine Sünden zahlen, Auserwähltes Wesen.}

@@ -1,14 +1,9 @@
-#0. Look
 {100}{}{Tu vois un garde.}
 {101}{}{Tu vois un garde devant le Casino Bar de Babeth.}
 {150}{}{On dirait qu'il cherche les voleurs parmi la foule.}
 {151}{}{On dirait qu'elle surveille tout le monde dans cette pièce.}
-
-#1. Hostile
 {200}{}{Tu l'auras cherché !}
 {201}{}{Je t'aurai cette fois !}
-
-#2. CF: Generic
 {210}{}{Je regrette, Babeth ne veut pas qu'on dérange les clients.}
 {211}{}{J'espère que tu t'amuses bien.}
 {212}{}{La règle d'or ici, c'est "les voleurs dehors".}
@@ -18,6 +13,4 @@
 {216}{}{Tu tentes ta chance ce soir ? Moi, mon truc c'est le Black Jack.}
 {217}{}{Babeth est juste là-bas si tu as besoin de quelque chose.}
 {218}{}{Les tables d'Elisabeth sont réglos, alors tente ta chance.}
-
-#3. Self: Caught Stealing
-{230}{}{On ne tolère pas ça ici.}
+{230}{}{On ne tolère pas ça ici !}

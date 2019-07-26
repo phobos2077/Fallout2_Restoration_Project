@@ -1,22 +1,20 @@
 {100}{}{Du siehst eine Prostituierte.}
-
 {150}{}{Sie ist eine gewöhnliche Durchschnittsprostituierte.}
-
 {152}{}{[GESPRÄCH]}
 {153}{}{Hey, ich mach es nicht mit Mädchen!}
-{154}{}{Was auch immer.}
+{154}{}{Wie du willst.}
 {155}{}{Entschuldigung.}
-{156}{}{Mama?}
+{156}{}{Mom?}
 {157}{}{Hey, mit Zuschauern wird's teurer.}
 {158}{}{Hey, jeder kommt wenn ich komm.}
 {159}{}{Ich möchte sie dabeihaben.}
 {160}{}{Ich komme wieder.}
-{161}{}{Mama?}
+{161}{}{Mom?}
 {162}{}{Oh, Baby, wo warst du mein ganzes Leben lang?}
 {163}{}{Ich war immer hier, Baby.}
 {164}{}{Wieviel, Schwester?}
 {165}{}{Äh, ich muß gehen. Tschüß.}
-{166}{}{Wahnsinn!}
+{166}{}{Whaa!}
 {167}{}{Ich mag sie groß und dumm.}
 {168}{}{So wie ich!}
 {169}{}{Oh ja!}
@@ -32,12 +30,12 @@
 {180}{}{Äh, nein.}
 {181}{}{[Sabber]}
 {182}{}{Du hast nicht genug Kohle. Hau ab, Schätzchen.}
-{183}{}{Ich komme wieder.}
+{183}{}{I'll come back.}
 {184}{}{Das bist du nicht wert, Kleine.}
 {185}{}{Wah!}
 {186}{}{Du warst unglaublich!}
 {187}{}{Immer, Schätzchen.}
-{188}{}{Was auch immer.}
+{188}{}{Wie du willst.}
 {189}{}{Du aber auch.}
 {190}{}{Ich laublich!}
 {191}{}{Du warst klasse!}
@@ -46,7 +44,7 @@
 {194}{}{Ja.}
 {195}{}{Klasse!}
 {196}{}{OK, wir sind fertig. Tschüß.}
-{197}{}{Das ist alles?}
+{197}{}{That's it?}
 {198}{}{OK. Tschüß}
 {199}{}{Es war gut.}
 {200}{}{Wiedersehn.}
@@ -63,7 +61,6 @@
 {210}{}{Man sieht sich.}
 {211}{}{Tschüß.}
 {212}{}{Wiedersehn.}
-# It will cost $(amount) for a session. Pay first.
 {213}{}{Es kostet $}
 {214}{}{ für ein Mal. Bezahlt wird vorher.}
 {215}{}{Komm mit.}
@@ -77,6 +74,5 @@
 {223}{}{Komm mit.}
 {224}{}{Hey Kumpel, Hände weg von der Ware.}
 {225}{}{Hör auf, ich lasse mich nicht wie ein Spielzeug benutzen.}
-
 {230}{}{Ich habe ja schon einige schlechte Nummern geschoben, aber das muß wohl die mieseste
  aller Zeiten gewesen sein.}

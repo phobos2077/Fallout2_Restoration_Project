@@ -10,10 +10,10 @@
  voller Haie,}
 {108}{}{.}
 {109}{}{Was meinen?}
-{110}{}{Was meinst du damit?}
+{110}{}{Was meinst du denn damit?}
 {111}{}{Sagen wir einfach, du bist neu hier und du hast keine Ahnung, was in der Nachbarschaft
  so passiert. Und es passiert eine ganze Menge mehr als deine kleine Odyssee...}
-{112}{}{Weiter.}
+{112}{}{Ja?}
 {113}{}{Sprich weiter, ich hör dir zu.}
 {114}{}{Ich habe für heute genug gesagt. Ich glaube, du solltest dich jetzt um deine
  Angelegenheiten kümmern.}
@@ -23,7 +23,7 @@
 {118}{}{Du wissen wo finden GECK?}
 {119}{}{Du wissen wo finden Vault 13?}
 {120}{}{Ich suchen Händler, Name Vic. Wo finden?}
-{121}{}{Weißt du vielleicht, wo ich ein GECK finden kann? }
+{121}{}{Weißt du, wo ich ein GECK finden kann?}
 {122}{}{Weißt du vielleicht, wo ich Vault 13 finde?}
 {123}{}{Ich suche einen Händler namens Vic. Weißt du vielleicht, wo ich ihn finde?}
 {124}{}{Die GECKs gehörten zur Standardausstattung jeder Vault. Wenn ich mich recht erinnere,
@@ -42,7 +42,7 @@
  von einst. Schau doch irgendwann mal in unserem Büro in der New California Republic
  vorbei. Vielleicht bringt es dir etwas. Wenn du mich jetzt entschuldigst, ich muß weg.}
 {133}{}{Du bist's?! Ich hab dir nichts mehr zu sagen.}
-{134}{}{Warte...}
+{134}{}{Moment...}
 {135}{}{Dies ist ein privates Büro.}
 {136}{}{Da hast du nichts verloren.}
 {137}{}{Dies ist Privatbesitz. Mach, daß du weiterkommst.}

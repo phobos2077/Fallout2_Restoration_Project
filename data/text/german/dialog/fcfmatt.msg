@@ -8,15 +8,15 @@
 {107}{}{Du könntest zunächst mal einige Fragen beantworten.}
 {108}{}{Im Augenblick nichts. Ich komme später wieder}
 {109}{}{Ich finde, du verdienst Antworten auf deine Fragen.}
-{110}{}{Was kann ich für dich tun?}
+{110}{}{Wie kann ich dir helfen?}
 {111}{}{Ihr sein wer?}
 {112}{}{Warum keiner von euch reden?}
 {113}{}{Wieso hier nur ein Mann?}
-{114}{}{Ich jetzt gehn.}
+{114}{}{Ich gehn.}
 {115}{}{Wer seid ihr Typen?}
 {116}{}{Wie kommt es, daß niemand in der Gegend von euch spricht?}
 {117}{}{Warum habt ihr nur einen Mann hier?}
-{118}{}{Ich muß gehen.}
+{118}{}{Ich muß gehn.}
 {119}{}{Wir sind eine paramilitärische Organisation, bekannt als die Brotherhood of Steel.}
 {120}{}{Was machen Brotherhood?}
 {121}{}{OK, und was macht ihr so?}
@@ -37,19 +37,19 @@
 {136}{}{Ich will ganz ehrlich zu dir sein,}
 {137}{}{. Die Brotherhood of Steel ist nicht mehr so mächtig wie einst. Wir hielten uns für die einzige Technologiequelle, die der Menschheit geblieben ist. Auf diesem Glauben ruhten wir uns aus und ließen unsere Organisation über die Jahre verfallen. Nun haben wir nicht mehr die Ressourcen, um mit der Enklave fertigzuwerden. Wir brauchen deine Hilfe.}
 {138}{}{Ich mache dir also folgendes Angebot: Erledige diesen Auftrag für mich und ich gewähre dir Zugang zu unseren Einrichtungen hier. Die besten Technologien der Brotherhood werden dir offenstehen, nur dir. Was sagst du dazu?}
-{139}{}{Ich über nachdenken.}
-{140}{}{Nie. Ich gehn.}
-{141}{}{Was soll! Ich machen.}
-{142}{}{Ich werde darüber nachdenken.}
+{139}{}{Ich denken darüber.}
+{140}{}{Nix gut. Ich gehn.}
+{141}{}{Was soll. Ich machen.}
+{142}{}{Ich denk darüber nach.}
 {143}{}{Niemals! Such dir 'nen anderen Dummen.}
 {144}{}{Was soll's. Ich muß verrückt sein, aber ich mach's.}
 {145}{}{In Ordnung. Komm zu mir, wenn du dich entschieden hast.}
-{146}{}{OK. Tschüß.}
+{146}{}{OK. Wiedersehn.}
 {147}{}{OK, aber ich mehr Fragen.}
 {148}{}{Ist gut. Wir sehen uns.}
 {149}{}{Ist gut, aber ich hätte da noch ein paar Fragen.}
 {150}{}{Ich verstehe dein Zögern, eine solche Mission anzunehmen. Wenn du deine Meinung ändern solltest, laß es mich wissen.}
-{151}{}{OK. Tschüß.}
+{151}{}{OK. Wiedersehn.}
 {152}{}{OK, aber ich mehr Fragen.}
 {153}{}{Ist gut. Wir sehen uns.}
 {154}{}{Ist gut, aber ich hätte da noch ein paar Fragen.}
@@ -60,7 +60,7 @@
 {159}{}{Ist gut. Ich mach mich auf.}
 {160}{}{Nach erfolgreichem Abschluß deiner Mission werde ich dir Zugang zu unseren Einrichtungen gewähren. Bis dahin wird es das Beste sein, wenn du gleich aufbrichst. Vielen Dank. }
 {161}{}{.}
-{162}{}{OK. Tschüß.}
+{162}{}{OK. Wiedersehn.}
 {163}{}{Klar, aber ich mehr Fragen.}
 {164}{}{OK, bis denn.}
 {165}{}{Geht klar, aber ich würd gern noch ein paar Sachen fragen.}
@@ -87,18 +87,18 @@
 {186}{}{Hast du deine Mission erfüllt?}
 {187}{}{Nein, ich haben noch nicht fertig.}
 {188}{}{Ich holen Pläne.}
-{189}{}{Nein, ich arbeite noch daran.}
+{189}{}{Nein, Ich arbeite daran.}
 {190}{}{Ich habe die Vertibird-Pläne für dich beschafft.}
 {191}{}{Na, dann mach weiter. Ich weiß, es ist eine schwierige Mission, aber ich denke, du wirst damit fertig.  }
 {192}{}{OK.}
 {193}{}{Großartige Arbeit! Gib mir die Pläne. Ich werde dafür sorgen, daß sie in die richtigen Hände kommen. Wie versprochen sollst du unbeschränkten Zugang zu unseren Einrichtungen haben. Vielen Dank.}
-{194}{}{Gern schehn.}
-{195}{}{Keine Ursache.}
+{194}{}{Gemacht gern.}
+{195}{}{Gern geschehen.}
 {196}{}{Navarro ist relativ neu und noch nicht vollständig bemannt. Meine Kundschafter berichten, daß von Zeit zu Zeit neue Rekruten ankommen. Du könntest dich als Neuankömmling ausgeben. Das scheint mir das Beste.}
 {197}{}{Navarro ist relativ neu und noch nicht vollständig bemannt. Meine Kundschafter berichten, daß von Zeit zu Zeit neue Rekruten ankommen. Wenn du allein gehst, könntest du dich als Neuankömmling ausgeben. Das scheint mir das Beste. Deine Freunde könnten hier auf dich warten.}
 {198}{}{OK.}
 {199}{}{Du sagen 'Kundschafter.' Was sein?}
-{200}{}{Ist gut.}
+{200}{}{Also gut.}
 {201}{}{Du sagtest, deine 'Kundschafter.' Und wer sind die?}
 {202}{}{Ich habe eine Mitarbeiterin ausgeschickt, die Basis auszukundschaften. Seit kurzem kommen keine Berichte mehr von ihr. Ich muß das Schlimmste annehmen. Bitte sei vorsichtig}
 {203}{}{. Es macht mir keinen Spaß, Menschen in den Tod zu schicken.}
@@ -112,7 +112,6 @@
 {211}{}{Woher du mich kennen?}
 {212}{}{Wir wissen so manches.}
 {213}{}{Nach erfolgreichem Abschluß deiner Mission werde ich den Tanker für dich fertig machen und dir Zugang zu unseren Anlagen hier gewähren. Ansonsten solltest du am besten sofort aufbrechen. Vielen Dank,}
-#161
 {214}{}{Nix zu danken.}
 {215}{}{Großartige Arbeit! Gib mir die Pläne, damit ich eine Kopie davon machen kann. Wie versprochen werde ich dafür sorgen, daß der Tanker für dich bereitgemacht wird, so daß du zur Bohrinsel fahren kannst. Geh zum Computer auf der oberen Ebene und betätige den Startschalter. Ich gewähre dir außerdem unbeschränkten Zugang zu unseren Anlagen. Danke.}
 {216}{}{Nix danken!}

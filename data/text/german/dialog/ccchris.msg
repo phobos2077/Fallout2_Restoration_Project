@@ -1,4 +1,4 @@
-{100}{}{Du siehst einen alten Mann.}
+{100}{}{Ein alter Mann.}
 {101}{}{Du siehst Chris, den Tankwart.}
 {102}{}{Du siehst einen schmuddeligen alten Mann in einer violetten Robe.}
 {103}{}{Hallo, Fremdling. Boa, Baby! Schau dir die Räder an. Solche hab ich seit Jahren nicht
@@ -47,11 +47,11 @@
 {139}{}{Was glaubst du denn, was du da machst?}
 {140}{}{He, ich hau hier ab.}
 {141}{}{[Spricht ins Funkgerät] Alarm! Eindringling an der Tankstelle! Alarm!}
-{142}{}{Fertig.}
+{142}{}{[Erledigt]}
 {143}{}{Na, war nett, mit dir zu plaudern. Ein Rat noch — hier in der Gegend gibt's nichts außer
  Öde und Strahlung. Die Zivilisation gibt's südlich von hier. An deiner Stelle würd ich mich
  dahin wenden.}
-{144}{}{Danke}
+{144}{}{Danke.}
 {145}{}{Metallvögel? Ach, du meinst die Vertibirds. Was interessierst du dich denn für die?}
 {146}{}{Vertibirds? Faszinierendes Thema. Was interessierst du dich denn für die?}
 {147}{}{Schamane sagen Metallvogel nehmen Dorf, fliegen Navarro. Ich wollen finden.}
@@ -127,12 +127,12 @@ wollen?}
 {199}{}{Einen Augenblick, Schwachkopf. Willst du sagen, daß du einer der Ersatzleute der Enklave
  bist?}
 {200}{}{Einen Augenblick. Willst du sagen, daß du einer der Ersatzleute der Enklave bist?}
-{201}{}{Äh... ja}
-{202}{}{Genau.}
+{201}{}{Äh...ja.}
+{202}{}{Ganz recht.}
 {203}{}{Verflixt. Tut mir leid wegen der Scherereien. Ich soll 'n paar Neulinge hier durchlassen,
  muß aber den "Müll" aussondern. Egal, geh rüber zum Tor, gleich durch den Wald da und sag die
  Parole. Sie lautet 'Schafskopf'. Ach ja, und bleib auf dem Weg.}
-{204}{}{Danke!}
+{204}{}{Danke auch!}
 {205}{}{Einen Augenblick, Schwachkopf. Willst du sagen, daß du einer der Ersatzleute der Enklave
  bist? Warum bist du dann nicht allein?}
 {206}{}{Einen Augenblick. Willst du sagen, daß du einer der Ersatzleute der Enklave bist? Warum
@@ -141,7 +141,7 @@ wollen?}
 {208}{}{Ich hab 'ne Eskorte angeheuert!}
 {209}{}{Ich möcht jetzt nicht unhöflich sein oder so, aber das hier ist Privatbesitz. Wenn du wo
  rumschnüffeln willst, dann tu das nicht hier.}
-{210}{}{[Fertig]}
+{210}{}{[Erledigt]}
 {211}{}{Du schon wieder. Womit kann dir der alte Chris helfen?}
 {212}{}{Du sagen Navarro Süden. Du lügen! Ich hier für Wahrheit.}
 {213}{}{Du hast mir gesagt, Navarro liegt im Süden, Alter. Jetzt will ich die Wahrheit wissen.}
@@ -164,7 +164,7 @@ wollen?}
 {228}{}{Keine gute Idee, Partner.}
 {229}{}{Was glaubst du denn, was du da machst?}
 {230}{}{He, ich hau hier ab.}
-{231}{}{Ja, sicher.}
+{231}{}{Ja, genau.}
 {232}{}{Er zieht ein Funkgerät heraus. Er wird die ganze verfluchte Basis warnen. Ich muß mir
  schnell was einfallen lassen.}
 {233}{}{Oh nein. Mann holt Sprechgerät raus. Er mich verraten. Muss aufhalten.}

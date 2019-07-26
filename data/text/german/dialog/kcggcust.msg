@@ -2,12 +2,10 @@
 {101}{}{Du siehst einen Kneipengast, der Schnetzelfleisch ißt.}
 {102}{}{Du siehst einen Kneipengast, der einen Krug Bier trinkt.}
 {103}{}{Du siehst einen Kneipengast.}
-
 {104}{}{Du siehst einen schmuddeligen Kneipengast. Möglicherweise ein Fallensteller.}
 {105}{}{Du siehst einen brutal aussehenden Gast. Wahrscheinlich ein Fallensteller.}
 {106}{}{Du siehst einen runzligen Gast. Wahrscheinlich ein Fallensteller oder ein Farmer.}
 {107}{}{Du siehst einen fit aussehenden Barbesucher. Könnte ein Brahmin-Hirte oder ein Farmer sein.}
-
 {110}{}{Du wirst gut hierher passen.}
 {111}{}{Könntest 'ne Runde Drinks spendieren, he?}
 {112}{}{Interesse am Armdrücken mit den Duntons?}
@@ -33,7 +31,6 @@
 {132}{}{Es gibt einen Geist in einem Canyon östlich von hier.}
 {133}{}{Fallenstellen ist gefährlich. Vor ein paar Wochen habe ich einen guten Fallensteller verloren.}
 {134}{}{Es gefällt mir, diesen Torr auszutricksen.}
-
 {140}{}{Sieh mal, wer uns besuchen kommt.}
 {141}{}{(Murmel, murmel) ...Mr. Alleskönner hier... (murmel)}
 {142}{}{Bist du nicht im falschen Teil der Stadt?}
@@ -55,7 +52,6 @@
 {158}{}{Hmpf. (Spuckt auf den Boden)}
 {159}{}{Du bist wirklich kein schöner Anblick.}
 {160}{}{Fühlst du dich schon recht unwillkommen?}
-
 {162}{}{Wird auch Zeit, Wilder.}
 {163}{}{Danke.}
 {164}{}{Nee!}

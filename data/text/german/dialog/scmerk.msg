@@ -25,7 +25,7 @@
 {124}{}{Was soll das werden - eine Spendenaktion?}
 {125}{}{Ich bin Merk. Worum geht's?}
 {126}{}{Du schon wieder?}
-{127}{}{Paß auf, was du sagt, oder es könnte sehr unerfreulich für dich werden.}
+{127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Urt.}
 {129}{}{Ich such Arbeit.}
 {130}{}{Aus gewöhnlich gut unterrichteten Kreisen hört man, daß du der richtige Mann fürs Geschäftliche bist.}
@@ -35,14 +35,14 @@
 {134}{}{Du schon wieder? Hast du die Sache erledigt?}
 {135}{}{Glabb.}
 {136}{}{Nein.}
-{137}{}{Ich hab ein paar Fragen}
+{137}{}{I got some questions.}
 {138}{}{Hmm...stark. Beschränkt... Wenn du 'nen Job willst, rede mit Mira. Verstanden? Mi-ra. Da drüben.}
 {139}{}{Du machst wohl gern Radau, wie? Wirft mal bitte jemand diesen Haufen Brahminkacke hier raus!}
 {140}{}{Bist du wirklich so bescheuert zu glauben, ich würde jedem x-beliebigen einen Job geben? Wenn du für mich arbeiten willst, muß du erst mal beweisen, daß du was taugst.}
 {141}{}{Wie wär's, wenn ich kurz mal Lenny da abknalle? Der hätte es verdient.}
 {142}{}{Wie meinst du das: Beweisen?}
 {143}{}{Kennst du zufällig jemand, der eine Portion Jet gebrauchen könnte?}
-{144}{}{Hör zu, ich bin} //258
+{144}{}{Hör zu, ich bin}
 {145}{}{Ich hab's gar nicht nötig, dir irgendwas zu beweisen. Vergiß es, du fette Kröte.}
 {146}{}{Das war dieser gottverdammte Skeeter, stimmt's? Dieser dreckige kleine Junkie quatscht mir ein bißchen zuviel. Hör mal zu - du ziehst ihn aus dem Verkehr - nur als kleinen Gefallen - und hinterher reden wir weiter.}
 {147}{}{Topp!}
@@ -75,7 +75,7 @@
 {174}{}{Gratis gibt's die Info aber nicht. Hab ich mich klar genug ausgedrückt?}
 {175}{}{"Weisheit ist mit Gold nicht aufzuwiegen."}
 {176}{}{Hier sind 50 Dollar.}
-{177}{}{Vergiß es.}
+{177}{}{Vergiss es.}
 {178}{}{Ach, du bist das.}
 {179}{}{Weiter}
 {180}{}{Wenn du meine ganz persönliche Meinung hören willst: Für mich bist du ein Haufen Dreck.}
@@ -86,8 +86,8 @@
 {185}{}{So jemand wäre vielleicht sogar dazu imstande.}
 {186}{}{Und jetzt würde ich vorschlagen, daß du gehst.}
 {187}{}{Von mir aus, geh zu den Herren in Uniform. Du hast ja sicherlich auch Beweise für deine wilden Anschuldigungen.}
-{188}{}{Na klar.}
-{189}{}{Vergiß es.}
+{188}{}{Ja, sicher.}
+{189}{}{Macht nichts.}
 {190}{}{Da wäre zum Beispiel diese verdammte Hubologin in der Stadt, die mir ganz gewaltig auf den Senkel geht. Wenn dieser Störfaktor ausgeschaltet ist, komm wieder her, dann reden wir weiter.}
 {191}{}{Schon so gut wie erledigt. Ich hab da so meine Methoden zum Ruhigstellen, aber...was ist eine Hubologin und wo finde ich sie?}
 {192}{}{Wie kannst du's wagen, wider den wahren Glauben zu reden!}
@@ -95,7 +95,7 @@
 {194}{}{Je nun, ich bin Gelehrter. Wie lautet deine Frage?}
 {195}{}{Frage weiter.}
 {196}{}{Ich bin auf der Suche nach Vault 13.}
-{197}{}{Schon mal was von einem GECK gehört?}
+{197}{}{Ever heard of a GECK?}
 {198}{}{Was weißt über diese Gruppe namens Ranger?}
 {199}{}{Was kannst du mir über einen Typen namens Westin erzählen?}
 {200}{}{Ich suche nach Informationen über Vizepräsident Carlson.}
@@ -120,7 +120,7 @@
 {219}{}{Sieht wohl so aus, als würde ich dem Mann nie begegnen. Ich hab schon eine Menge über ihn gehört.}
 {220}{}{Das ist alles, was ich wissen wollte.}
 {221}{}{War's das?}
-{222}{}{Nein, ich hab noch mehr Fragen}
+{222}{}{No, I've got some more questions.}
 {223}{}{Ja, das wär's fürs erste gewesen.}
 {224}{}{Man muß alles mal versuchen. Vault 13 ist hier der totale Kult. Sie haben sogar eine Statue für so einen Knaben aufgestellt, der angeblich von da stammt. Mehr kann ich dazu nicht sagen.}
 {225}{}{Ich hab dir eine Karte zu dem Zweck verkauft. Nimm einfach die.}
@@ -149,7 +149,7 @@
 {248}{}{Ach, an so einem Tag kann man ja richtig gute Laune kriegen. Bringen wir also die Angelegenheit zum Abschluß.}
 {249}{}{Es ist mir zu Ohren gekommen, daß der genialische Doktor im Laufe deines Besuches verschieden ist. So haben wir nicht gewettet. Angesichts dieses in wirtschaftlicher Hinsicht schweren Schlages für mich muß ich auf einer Rückzahlung bestehen.}
 {250}{}{Ich geb dir einfach 500 Mäuse und dann Schwamm über die ganze Geschichte.}
-{251}{}{Verzisch dich.}
+{251}{}{Fahr zur Hölle.}
 {252}{}{Na dann, viel Erfolg für alles Weitere. Ich nehme nicht an, daß wir je wieder was miteinander zu tun haben.}
 {253}{}{Geht in Ordnung.}
 {254}{}{Einverstanden - aber nur, weil ich dich sympathisch finde. Wenn du einen guten Rat brauchst: Laß dich hier nicht so bald wieder blicken.}
@@ -160,20 +160,16 @@
 {259}{}{ Typ.}
 {260}{}{ Mieze.}
 {261}{}{Ein Hubologe ist ein religiöser Fanatiker, der ins Irrenhaus gehört. Trifft man bei der Kirche in der Stadt an.}
-{262}{}{Ich mach mich auf den Weg.}
-
+{262}{}{Bin schon unterwegs.}
 {263}{}{Ich rede erst wieder mit dir, wenn der Job gemacht ist! Ich brauch die Unterlagen von Dr. Henry und zwar auf der Stelle, klar?}
 {264}{}{Nein, aber ich brauche ein paar Informationen.}
 {265}{}{Ich weiß ganz genau, daß Lennys Tod kein Unfall war, du Drecksack.}
-{266}{}{Aber diese Karte war eine Fälschung.}
-{267}{}{Und wie ist das mit dem Geld, das ich dir gegeben habe?}
+{266}{}{Hey, that map was a fake.}
+{267}{}{Well, what about the money I gave you.}
 {268}{}{Wie schon gesagt, es tut mir leid, daß es nicht geklappt hat.}
 {269}{}{Mein Vorschlag wäre der: Zum Ausgleich für den ganzen Ärger, den ich hatte, puste ich dir mit dieser Kugel hier das Hirn weg.}
 {270}{}{Hmmpfh.}
-
 {271}{}{Du hast das Problem mit den Hubologen für Merk "erledigt".}
 {272}{}{Du hast die Papiere von Dr. Henry beschafft.}
-
 {300}{}{Wo zum Teufel glaubst du eigentlich gehst du hin?! Versuch das nochmal und du kriegst den Arsch voll.}
-{301}{}{Das war's, ich habe dich gewarnt!}
-
+{301}{}{Ich habe dich gewarnt!}

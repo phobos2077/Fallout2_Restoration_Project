@@ -1,6 +1,5 @@
-{100}{}{Du siehst einen Einwohner von Den.}
-{101}{}{Du siehst eine Einwohnerin von Den.}
-
+{100}{}{Du siehst einen Bewohner von Den.}
+{101}{}{Du siehst einen Bewohner von Den.}
 {200}{}{Hallo und willkommen im- Hey! Du bist derjenige der das Alles
  hier möglich machte. Die Leute in Den sind dir wirklich dankbar für
  das was du getan hast.}

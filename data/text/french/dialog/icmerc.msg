@@ -1,11 +1,6 @@
-# 0. QUICK LOOk
 {100}{}{Tu vois un mercenaire bien armé.}
-
-# 0. LOOk
 {150}{}{Tu vois un homme à l'allure bourrue vêtu d'une armure en cuir. Son corps est couvert de cicatrices et de blessures par balles. Son armure et ses armes semblent bien entretenues, presque neuves.}
 {151}{}{Tu vois un pillard bien armé. Il scrute les environs en tripotant son arme.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{Hé, regarde les balles en cuivre de cette crapule...}
 {201}{}{Contact !}
 {202}{}{Une brèche a été ouverte dans le secteur !}
@@ -15,9 +10,7 @@
 {206}{}{Merde ! Quelqu'un nous a trouvés !}
 {207}{}{T'as du cran de venir ici...}
 {208}{}{Garce ! T'as frappé à la *mauvaise* porte !}
-{209}{}{Hé, regardez comme cette crapule se pavane !}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{209}{}{Eh bien, regarde le culot de cette salope...}
 {250}{}{On est sortis boire un verre et on a appelé ça la *leçon de comportement*, alors on lui a botté le train.}
 {251}{}{Il faut qu'on aille voir s'il n'y a personne dans la grotte...}
 {252}{}{C'est bientôt l'heure de retourner surveiller le périmètre...}

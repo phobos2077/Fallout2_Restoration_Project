@@ -6,7 +6,7 @@
 {104}{}{Ist dieser ganze eingezäunte Bereich etwa die Stadt?}
 {105}{}{Was meinst du mit "schönster Ort"?}
 {106}{}{Ich suche die Vault. Kannst du mir sagen, wo sie ist?}
-{107}{}{Tschüß.}
+{107}{}{Wiedersehn.}
 {108}{}{Ähhh... [Liest aus dem Handbuch ab.] Ähhh... diese Frage
  ist nicht vorgesehen. Hier steht keine passende Antwort drin.}
 {109}{}{Hast du überhaupt von irgendwas 'ne Ahnung?}

@@ -1,11 +1,5 @@
-#
-#   Messages from trait.c
-#
-#
-#   TRAIT NAME
-#
 {100}{}{Métabofast}
-{101}{}{M. Muscle}
+{101}{}{La Châtaigne}
 {102}{}{Gringalet}
 {103}{}{Main-d'Or}
 {104}{}{Finesse}
@@ -17,12 +11,9 @@
 {110}{}{Bon Vivant}
 {111}{}{Dépendance}
 {112}{}{Dur-à-cuire}
-{113}{}{Sex Appeal}  # was: Night Person
+{113}{}{Sex Appeal}
 {114}{}{Compétence}
 {115}{}{Talent}
-#
-#   TRAIT DESCRIPTIONS
-#
 {200}{}{Ton métabolisme est deux fois plus rapide que la normale. Cela se traduit par un affaiblissement de ta résistance aux radiations et au poison mais tu guéris plus rapidement.}
 {201}{}{Un peu de lenteur mais une carrure imposante. Tu ne frappes pas si souvent mais à chaque fois, on le sent passer ! Le total de tes points d'action s'en trouve diminué mais ton niveau de force est accru.}
 {202}{}{D'une taille certes plus modeste que les autres villageois, rien ne peut pourtant te freiner. Bien sûr, impossible de supporter de lourdes charges mais question d'agilité, tu n'as pas ton pareil.}

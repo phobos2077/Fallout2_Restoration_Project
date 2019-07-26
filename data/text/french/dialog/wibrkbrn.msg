@@ -2,5 +2,4 @@
 {101}{}{Tu remplaces le motivateur cassé.}
 {102}{}{Tu connectes le cerveau à l'interface neuronale du réceptacle.}
 {103}{}{Les réservoirs de gel Biomed sont pleins.}
-#added by killap
 {104}{}{Tout semble être en place pour l'activer.}

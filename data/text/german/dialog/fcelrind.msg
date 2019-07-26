@@ -27,7 +27,6 @@
 {126}{}{Ich freue mich schon darauf, zu den Sternen zurückzukehren.}
 {127}{}{Stör mich jetzt bitte nicht. Ich konzentriere meine Neurodyne.}
 {128}{}{Bring meine Neurodyne bitte nicht durcheinander.}
-
 {138}{}{Verdammt, der Verfolger!}
 {139}{}{Der Unerleuchtete!}
 {140}{}{Komm mir nicht zu nahe, Elender!}
@@ -40,7 +39,6 @@
 {147}{}{Die dunklen Zeiten sind zurück!}
 {148}{}{Sternenvater! Beschütze mich vor dem Heiden!}
 {149}{}{Irgend jemand wird dich für deine Niedertracht bestrafen!}
-
 {150}{}{Ich liebe den Hub.}
 {151}{}{Ich bin gern Hubologe.}
 {152}{}{Ich möchte mein Potential aktivieren.}
@@ -57,7 +55,6 @@
 {163}{}{Die "wahre" Wissenschaft ist ein Haufen Lügen.}
 {164}{}{Hör nicht auf das, was die sogenannten "Wissenschaftler" dir erzählen.}
 {165}{}{Die Antwort kennen nur der Hub und AHS-9.}
-
 {178}{}{Gelobt sei der Sternenvater! Endlich kommen wir zu den Sternen!}
 {179}{}{Planet Quetzel, wir kommen!}
 {180}{}{Die ganze Mühe hat sich endlich bezahlt gemacht!}

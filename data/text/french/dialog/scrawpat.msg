@@ -6,10 +6,10 @@
 {105}{}{J'ai entendu parler de toi. T'as pas l'impression de t'être planté d'endroit ?!}
 {106}{}{Tu cherches la bagarre ? Va voir Merk.}
 {107}{}{Hé beauté, tu veux aller t'amuser dans un petit coin privé ?}
-{108}{}{Me parle pas ! Je ne veux pas être battu encore une fois.}
+{108}{}{Ne me parle pas ! Je ne veux pas qu'on me batte encore une fois.}
 {109}{}{Foutu whisky dégueulasse ! Tu sais, ils servent les pires alcools ici !}
 {110}{}{Merde ! Je voulais pas renverser mon verre sur toi. Laisse-moi nettoyer ça. Pardon. Pardon.}
-{111}{}{Ne t'approche pas de moi !}
+{111}{}{Ne t'approche pas de moi.}
 {112}{}{J'ai entendu parler de toi. Pitié, ne me frappe pas.}
 {113}{}{Tu débarques en ville ? Merk cherche de nouveaux durs.}
 {114}{}{T'es quoi toi, une sorte de gros dur ? Fiche-moi le camp d'ici !}
@@ -21,7 +21,7 @@
 {120}{}{Alors je lui ai dit : "Ecoute..."}
 {121}{}{Essaie le rataupe grillé. C'est ici qu'on le fait le mieux.}
 {122}{}{Salut. C'est quoi ton signe ?}
-{123}{}{Si tu cherches du boulot, descends à l'Assos des Eleveurs.}
+{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
 {124}{}{Merde ! T'as vu ça ?}
 {125}{}{C'est pas vrai, j'vais être malade.}
 {126}{}{J'en ai eu assez.}

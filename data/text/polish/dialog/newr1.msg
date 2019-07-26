@@ -2,23 +2,16 @@
 {101}{}{Przed tob¹ posêpna równina usiana grobami. Okrwawione pale stercz¹ z ziemi z przywi¹zanymi do nich resztkami ludzkich zw³ok.}
 {102}{}{Wygl¹da to na star¹ przedwojenn¹ elektryczn¹ stacjê regeneracyjn¹. Budynki otacza cmentarzysko wraków.}
 {103}{}{Jesteœ przy Stajniach. Nowy p³ot otacza wejœcia do dwu czêœci farmy.}
-
 {150}{}{[WSTECZ]}
-{151}{}{[DALEJ]}
-
-# family name
+{151}{}{[Dalej]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-
 {221}{}{Salvatore}
 {222}{}{Klub Rekin}
 {223}{}{Desperado}
 {224}{}{}
-
-
-# made man name
 {300}{}{}
 {301}{}{Szept}
 {302}{}{Paj¹k}
@@ -36,7 +29,7 @@
 {314}{}{Goryl}
 {315}{}{Paker}
 {316}{}{Czarny}
-{317}{}{Swój}
+{317}{}{Gooch}
 {318}{}{Tasak}
 {319}{}{Brocoo}
 {320}{}{Dwa-Razy}
@@ -113,20 +106,17 @@
 {391}{}{Rubin}
 {392}{}{X}
 {393}{}{}
-
-# prizefighter name
-
 {400}{}{}
 {401}{}{Jabby}
 {402}{}{Krêc¹ca Jenny}
 {403}{}{T³ok}
 {404}{}{Huragan}
 {405}{}{Wielki Z³y Matkozdziebca}
-{406}{}{Dziecko Przeznaczenia}
+{406}{}{Chosen One}
 {407}{}{Wœciek³y Byk}
 {408}{}{LaMotta}
 {409}{}{P³ug}
-{410}{}{Joe Szklaneczka}
+{410}{}{Szklany Joe}
 {411}{}{Nancy Nowe Reno}
 {412}{}{£ysy Byk}
 {413}{}{Ksiê¿niczka}
@@ -179,7 +169,7 @@
 {460}{}{Zajebójca}
 {461}{}{Szeryf}
 {462}{}{Butch Coolidge}
-{463}{}{Kotka}
+{463}{}{Alley Cat}
 {464}{}{Z³y Urok}
 {465}{}{Czo³g}
 {466}{}{Miêœniak}
@@ -193,15 +183,10 @@
 {474}{}{Atena}
 {475}{}{Wœciek³y Pies}
 {476}{}{}
-
-# special stupid names
 {496}{}{Wielki Stu}
 {497}{}{Miami}
 {498}{}{X}
 {499}{}{Twoje Imiê}
-
-# porn star name
-# male
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}
@@ -252,7 +237,6 @@
 {547}{}{}
 {548}{}{}
 {549}{}{}
-# female
 {550}{}{}
 {551}{}{Vixxxen}
 {552}{}{Syrop Klonowy}
@@ -303,8 +287,6 @@
 {597}{}{Valerie Vixen}
 {598}{}{Ruth Less}
 {599}{}{}
-
-# other boxer names
 {700}{}{Diabe³}
 {701}{}{Tony Spluwa}
 {702}{}{"Stalowy" Mark Torrance}
@@ -325,32 +307,21 @@
 {717}{}{Drago}
 {718}{}{Tommy Spluwa}
 {719}{}{Apollo}
-
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{Prze¿uwacz}
-
-# GOING TO THE CHOP SHOP
 {1000}{}{Jules prowadzi ciê w kierunku ruin bloków otaczaj¹cych Nowe Reno. Nie s¹dzisz, aby uda³o ci siê samodzielnie znaleŸæ to miejsce. Gdy tylko docieracie na miejsce, Jules znika.}
 {1100}{}{Œlad prowadzi ciê do zrujnowanych bloków otaczaj¹cych Nowe Reno.}
-
-# MORDINO/MYRON STASH
 {1200}{}{Odkrywasz ma³¹ metalow¹ skrzynkê na pieni¹dze. Nie uda³oby ci siê jej odnaleŸæ bez specjalnych poszukiwañ.}
-
-# CODY/CHOP SHOP
 {1300}{}{Cody prowadzi ciê do ruin bloków otaczaj¹cych Nowe Reno. Nie s¹dzisz, aby uda³o ci siê samodzielnie znaleŸæ to miejsce.}
-
-# BOXING LEVELS
 {1400}{}{Pokonujesz pierwszego przeciwnika.}
 {1401}{}{Pokonujesz drugiego przeciwnika.}
 {1402}{}{Pokonujesz trzeciego przeciwnika.}
 {1403}{}{Pokonujesz Prze¿uwacza!}
 {1404}{}{Zostajesz Miêdzynarodowym Mistrzem Krajowym Wagi Ciê¿kiej Nowego Reno.}
 {1405}{}{Pokonujesz ostatniego przeciwnika!}
-
 {1500}{}{Uda³o ci siê przekonaæ pani¹ Wright do zniszczenia kadzi.}
 {1550}{}{Uda³o ci siê byæ œwiadkiem tajnej transakcji.}
-
 {1600}{}{W ogniu walki Prze¿uwacz odgryza ci ucho.}
 {1700}{}{W gniewie odgryzasz Prze¿uwaczowi ucho.}

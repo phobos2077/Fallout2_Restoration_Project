@@ -1,15 +1,13 @@
 {100}{}{Du siehst einen buckligen alten Mann.}
-
 {101}{}{Der altersschwache Greis stinkt nach Schweiß und vermutlich Urin. Er ist in zerrissene, schmutzige Lumpen gekleidet und trägt eine Schaufel.}
 {102}{}{Du siehst Tom.}
-
 {200}{}{[Der alte Mann schreckt überrascht auf, als er sieht, wie du dich näherst.] Äh, schau, ich muß wirklich gehen...}
 {201}{}{Wart jetzt mal 'ne Minute. [Du packst den Mann am Arm als er gerade gehen will.] Wer bist du, und was machst du hier um diese Uhrzeit?}
 {202}{}{Was? Warum, eh... mein Name ist Tom. Kann ein alter Mann nicht einen nächtlichen Spaziergang unternehmen ohne belästigt zu werden?}
 {203}{}{Nicht, wenn er wie ein Dieb herumschleicht und eine Schaufel mitschleppt.}
 {204}{}{In Ordnung, aber warum trägst du eine Schaufel bei dir?}
-{205}{}{Was auch immer, ich hau ab.}
-{206}{}{Schon gut. T'schuldigung das ich gestört habe.}
+{205}{}{Whatever, I'm out of here.}
+{206}{}{Kein Problem. Entschuldige die Störung.}
 {207}{}{Du meinst das alte Teil? [Er streift die verrostete Schaufel in seiner Hand mit einem Blick.] Naja, äh, man weiß ja nie,
  wann man mal was findet, das man ausgraben muß. Allseits bereit sag ich immer.}
 {208}{}{Was finden? Du meinst, was man in 'nem Grab so findet?}
@@ -31,7 +29,6 @@
 {221}{}{[Die Augen des alten Mannes leuchten auf.] Das hört sich nicht schlecht an. Hey, danke. Vielleicht ist diese Welt doch nicht so schlecht, wie ich immer gedacht habe.}
 {222}{}{Pass auf dich auf Tom. Ich werd mich nachher mit dir treffen, um zu sehen, wie die Dinge bei dir laufen.}
 {223}{}{Ich hoffe, das dein Kumpel Peterson genauso freundlich ist wie du gesagt hast.}
-
 {300}{}{Du siehst Tom, er trägt neue Arbeitskleidung und pfeift fröhlich vor sich hin.}
 {301}{}{Grüß dich! Mann, du hast tatsächlich Recht gehabt. Mr. Peterson ist ein echt netter Kerl. Er hat mir verziehen und mir sogar einen Job als Feldarbeiter angeboten. Er sagt, sobald ich die gestohlene Nahrung abgearbeitet hab, bekomme ich ein wöchentliches Gehalt. Danke nochmal für deine Hilfe.}
 {302}{}{Gern geschehen, Tom. Pass auf dich auf!}
@@ -39,15 +36,11 @@
 {304}{}{Danke Tom. Ich bin sicher, dass es praktisch für mich sein wird. Bis bald.}
 {305}{}{[Der alte Mann nickt und geht zurück an seine Arbeit.]}
 {306}{}{[Ende]}
-
 {307}{}{Hallo nochmal, danke für alles!}
 {308}{}{*pfeift*}
-
 {400}{}{Ihr jungen lernt es nicht, ihr seid sicher nicht meine Chefs. Ich denke ich werde dich stattdessen einfach töten.}
-
 {450}{}{Hör zu, ich hab auch meinen Teil ausgegraben. Ich bin aber ein bisschen kleptomanisch. Was ist deine Begründung?}
 {451}{}{Es ist mir nicht fremd Gräber auszuheben, Tom. Jeder Mann hat sein persönliches Vergnügen. Nun, du hast deine eigene Art.}
-
 {1000}{}{Du findest heraus, wer die Gräber geschändet hat und verhilfst Tom zu einem neuen Leben.}
 {1001}{}{Du findest heraus, wer die Gräber geschändet hat.}
 {1002}{}{Ich gehe. Kein Grund einen alten Mann zu hetzen.}

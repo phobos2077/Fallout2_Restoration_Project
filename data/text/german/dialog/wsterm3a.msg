@@ -4,7 +4,6 @@
 {103}{}{[Eine kleine Kamera dreht sich in deine Richtung.] Skynet-Sicherheitssystem.
  Sicherheitsterminal, Ebene 3, wird umgangen. Persönliche Daten werden abgefragt - Korporal
  Dixon. Keine Übereinstimmung. Wer...bist...du?}
-
 {104}{}{}
 {105}{}{}
 {106}{}{}
@@ -12,7 +11,7 @@
 {108}{}{}
 {109}{}{Was zum... Wer zum Teufel bist du?}
 {110}{}{Ich bin Korporal Dixon.}
-{111}{}{Ich heiße }
+{111}{}{Ich bin }
 {112}{}{Ark!}
 {113}{}{[Du kannst nicht lesen, was auf dem Monitor steht.]}
 {114}{}{FEHLER!                                                             
@@ -26,7 +25,7 @@
  vor feindlichen Gebilden beschützen. Bitte Identität eingeben!}
 {120}{}{}
 {121}{}{Ich bin Korporal Dixon.}
-{122}{}{Ich heiße }
+{122}{}{Ich bin }
 {123}{}{Ich bin ein Freund.}
 {124}{}{Beenden}
 {125}{}{Bild entspricht nicht der Personalakte von Korporal Dixon.     Feststellung: Subjekt lügt
@@ -53,7 +52,6 @@
 {141}{}{}
 {142}{}{}
 {143}{}{Beenden}
-
 {200}{}{ kann nicht lesen, was auf dem Monitor steht.}
 {300}{}{Der Computer scheint mit einer Art Abwehrmechanismus ausgestattet zu sein.}
 {301}{}{Du stehst unter Schock. Dauer }

@@ -1,13 +1,7 @@
-#
-#   Messages from skill.c
-#
-#
-#   SKILL NAMES
-#
 {100}{}{Armes légères}
 {101}{}{Armes lourdes}
 {102}{}{Armes à énergie}
-{103}{}{Corps à Corps}
+{103}{}{Pas d'arme.}
 {104}{}{Armes de Mêlée}
 {105}{}{Projectiles}
 {106}{}{Secourisme}
@@ -22,9 +16,6 @@
 {115}{}{Troc}
 {116}{}{Jeu}
 {117}{}{Vie en plein air}
-#
-#   SKILL DESCRIPTIONS
-#
 {200}{}{Maniement, entretien et connaissance générale des petites armes à feu. - Pistolets, mitraillettes et carabines.}
 {201}{}{Fonctionnement et entretien de l'armement lourd. - Mini-canons, lance-roquettes, lance-flammes et autres.}
 {202}{}{Entretien et chargement des armes à énergie. Comment armer et manier des armes utilisant des techniques au laser ou au plasma.}
@@ -43,12 +34,6 @@
 {215}{}{Sens du commerce. Capacité à tout marchander, à la vente comme à l'achat.}
 {216}{}{L'art et la manière de parier. Talent aux jeux de cartes, de dés et autres.}
 {217}{}{Connaissance pratique de la vie en plein air et capacité à survivre en milieu hostile. Connaissance de la flore et de la faune.}
-#
-#   SKILL ATTRIBUTES
-#
-#   Updated: 6/5/97 KSW
-#   Updated to New Skill System: 9/16/98 rwh2
-#
 {300}{}{+ (4 x AG)}
 {301}{}{+ (2 x AG)}
 {302}{}{+ (2 x AG)}
@@ -67,9 +52,6 @@
 {315}{}{+ (4 x CR)}
 {316}{}{+ (5 x CH)}
 {317}{}{+ (2 x (EN+IN))}
-#
-#   Skill Use Text
-#
 {500}{}{Tu guéris %d points d'impact.}
 {501}{}{Tu n'as pas besoin de soins.}
 {502}{}{%s n'a pas besoin de soins.}
@@ -83,7 +65,7 @@
 {521}{}{Tu soignes : %s.}
 {525}{}{Tu n'as pas réussi à soigner : %s.}
 {526}{}{Tu n'as pas réussi à soigner : %s.}
-{530}{}{Oeil crevé}    # Lines 530-534 are the endings to lines 525 & 526.
+{530}{}{Oeil crevé}
 {531}{}{bras gauche estropié}
 {532}{}{bras droit estropié}
 {533}{}{jambe droite estropiée}
@@ -99,27 +81,14 @@
 {590}{}{Tu as épuisé tes compétences en la matière. Attends un moment.}
 {591}{}{Tu es à bout de forces.}
 {592}{}{Le surmenage, c'est mauvais pour le coeur.}
-
-# Fallout 2!
 {600}{}{Tu ne disposes pas du niveau de compétence permettant de guérir les membres estropiés.}
 {601}{}{L'unité robotique n'est pas réparable.}
-
-
-
-
-#
-# Fallout 2: Party Member skill use generic responses
-#
-
-#   I'll try
 {1000}{}{Laisse-moi t'aider.}
-{1001}{}{Je peux faire ça.}
+{1001}{}{Pas de problèmes.}
 {1002}{}{Je m'en occupe.}
 {1003}{}{Ca m'a fait plaisir d'être utile.}
 {1004}{}{Ok.}
-{1005}{}{Laisse-moi essayer.}
-
-#   Player wants to do it
+{1005}{}{Je vais essayer.}
 {1100}{}{En cas de problème, appelle-moi.}
 {1101}{}{Tu t'en charges ?}
 {1102}{}{Bon, si tu veux.}

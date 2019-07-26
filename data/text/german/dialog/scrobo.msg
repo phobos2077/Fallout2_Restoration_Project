@@ -30,26 +30,23 @@
 {125}{}{Du mußt hier warten, bis ich wieder da bin.}
 {126}{}{Das wär's dann vorerst mal.}
 {127}{}{<klick> winsel}
-{128}{}{Vergiß es.}
+{128}{}{Macht nichts.}
 {129}{}{OK}
 {130}{}{TP:}
 {131}{}{Cyberhund kann diesmal nicht mehr repariert werden.}
 {132}{}{Cyberhund wurde teilweise repariert.}
 {133}{}{Cyberhund ist wieder vollkommen funktionstüchtig.}
-
-#specific party messages
 {1000}{}{Wuff! Wu-wu-wu-<klick>wuff?}
 {1100}{}{Arf! <klick> Wuff!}
 {1200}{}{Rawuff? <boing> Raggy?}
 {1300}{}{<klick> winsel.}
 {1400}{}{Ha-wuh! <klick-klick> Ha-wuh!}
-{1500}{}{I-bi-di-bi-i-bi-di-bi!} //Wait here resoponse
-{1600}{}{Klare Sache, ich tu's weg.}  //Put weapons away
-{1700}{}{Arf-arf-Abstand auf nah eingestellt.} //Close
-{1800}{}{Arf-arf-Abstand auf mittel eingestellt.} //Medium
-{1900}{}{Arf-arf-Abstand auf weit eingestellt.} //Far
+{1500}{}{I-bi-di-bi-i-bi-di-bi!}
+{1600}{}{Klare Sache, ich tu's weg.}
+{1700}{}{Arf-arf-Abstand auf nah eingestellt.}
+{1800}{}{Arf-arf-Abstand auf mittel eingestellt.}
+{1900}{}{Arf-arf-Abstand auf weit eingestellt.}
 {2000}{}{.schwirrrrr... Ich bin kein Daggit.}
 {2100}{}{GRRR-RAWUFF!}
 {2200}{}{Wuff! Wu-wu-wu-<klick>wuff?}
-
 {2204}{}{Okay, du ziehst dich jetzt erst mal ein bißchen zurück.}

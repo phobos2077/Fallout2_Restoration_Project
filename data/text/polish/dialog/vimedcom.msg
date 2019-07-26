@@ -2,18 +2,18 @@
 {101}{}{Widzisz terminal medyczny Kryptopolis. }
 {102}{}{Ten terminal wyœwietla zbiór œwiec¹cych zielonych pasków, które nieregularnie podnosz¹ siê i opadaj¹.}
 {103}{}{Mo¿e uda ci siê wydobyæ wiêcej informacji z tego terminala, je¿eli podejdziesz do niego bardziej naukowo.}
-{104}{}{Nie udaje ci siê zrozumieæ, jak dzia³a ten terminal.}
+{104}{}{Nie udaje ci siê wykoncypowaæ, jak dzia³a ten terminal.}
 {105}{}{Cholerne komputery.}
 {106}{}{Nie udaje ci siê wykoncypowaæ, jak dzia³a ten terminal.}
 {107}{}{G³upie kompaktery.}
 {108}{}{Logujesz siê do Bazy Medycznej Kryptopolis. Jej obs³uga jest k³opotliwa, a baza danych jest rozbita na wiele archiwów.}
 {109}{}{Poszukaj w archiwum lokalizacji ró¿nych Krypt.}
-{110}{}{Poszukaj w archiwum jakichkolwiek wzmianek na temat Generatora Ekosystemu Cudownej Krainy.}
+{110}{}{Poszukaj w archiwach jakichkolwiek wzmianek na temat Generatora Ekosystemu Cudownej Krainy.}
 {111}{}{Poszukaj w bazie medycznej czegokolwiek interesuj¹cego.}
 {112}{}{Wyloguj siê z terminala.}
 {113}{}{W bazie tej nie znajdujesz ¿adnych wzmianek na temat Krypt. S¹ tam g³ównie informacje medyczne dotycz¹ce anatomii, znanych chorób, leczenia, leków i implantów.}
 {114}{}{Poszukaj w archiwum jakichkolwiek wzmianek na temat Generatora Ekosystemu Cudownej Krainy.}
-{115}{}{Poszukaj w bazie medycznej czegokolwiek interesujacego.}
+{115}{}{Poszukaj w bazie medycznej czegokolwiek interesuj¹cego.}
 {116}{}{Wyloguj siê z terminala.}
 {117}{}{W bazie tej nie znajdujesz ¿adnych wzmianek na temat GECKa. S¹ tam g³ównie informacje medyczne dotycz¹ce anatomii, znanych chorób, leczenia, leków i implantów.}
 {118}{}{Poszukaj w archiwum lokalizacji ró¿nych Krypt.}
@@ -47,9 +47,9 @@
 {146}{}{Schematy ukazuj¹ w szczegó³ach operacje wszczepienia p³yt uderzeniowych oraz membran rozpraszaj¹cych ciep³o w szkielet ludzki, co zapewni³oby odpornoœæ obiektów na obra¿enia fizyczne i od ciep³a. Wygl¹da to na skomplikowan¹ procedurê.}
 {147}{}{Zapisz informacje o tym, a nastêpnie przeszukaj bazê w poszukiwaniu wiêkszej iloœci danych.}
 {148}{}{Nagraj te informacje, a potem wyloguj siê z terminala.}
-{149}{}{Powracasz do g³ównego menu. Lista archiwów i programów wyszukuj¹cych jest wyœwietlona na ekranie.}
-{150}{}{Poszukaj jakichkolwiek wzmianek na temat Krypty 13.}
-{151}{}{Poszukaj w archiwum jakichkolwiek odwolañ do Generatora Ekosystemu Cudownej Krainy.}
+{149}{}{Powracasz do g³ównego menu. Na ekranie terminala ukazuje siê lista archiwów i programów wyszukiwawczych.}
+{150}{}{Poszukaj w archiwach jakichkolwiek wzmianek na temat Krypty 13.}
+{151}{}{Poszukaj w archiwach odwo³añ do Generatora Ekosystemu Cudownej Krainy.}
 {152}{}{Poszukaj w bazie medycznej czegokolwiek interesuj¹cego.}
 {153}{}{Wyloguj siê z terminala.}
 {200}{}{Twoje badania medycznej bazy danych Kryptopolis zakoñczy³y siê.}

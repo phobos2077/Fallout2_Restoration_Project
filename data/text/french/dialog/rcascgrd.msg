@@ -31,7 +31,7 @@
 {130}{}{Je vais te transformer en copeaux rien que pour avoir démarré une baston ici.}
 {131}{}{Trouduc.}
 {132}{}{Tu ne peux pas faire ça et y survivre.}
-{133}{}{C'est l'heure de t'effacer ton génome.}
+{133}{}{Time to take you outta' da' gene-pool.}
 {134}{}{T'aurais dû le savoir mieux que ça.}
 {135}{}{Désolé d'en arriver à ce point.}
 {136}{}{Pauvre tache.}
@@ -42,7 +42,7 @@
 {141}{}{Maintenant, on doit te tomber sur la gueule et bien rude.}
 {142}{}{Ca va vraiment te faire mal.}
 {143}{}{Tu ferais mieux de lâcher ce flingue.}
-{144}{}{On veut pas d'ennui ici. Range-moi ça.}
+{144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Range ton engin, ce sera mieux pour tout le monde.}
 {146}{}{Range-moi ça.}
 {147}{}{Range cette arme.}
@@ -54,7 +54,7 @@
 {153}{}{On fait juste respecter le règlement.}
 {154}{}{Amuse-toi sagement.}
 {155}{}{Reste cool.}
-{156}{}{Tu peux passer.}
+{156}{}{Dégage !}
 {157}{}{Y a rien à voir ici.}
 {158}{}{Passe une bonne journée.}
 {159}{}{Bienvenue chez Ascorti.}
@@ -88,6 +88,6 @@
 {187}{}{Que fais-tu ?}
 {188}{}{<Pfuuui> La qualité des criminels baisse de jours en jours.}
 {189}{}{Ecarte-toi de cette porte.}
-{190}{}{Ne touche plus jamais cette porte.}
+{190}{}{Ne touche plus jamais à cette porte.}
 {191}{}{Ecarte-toi de cette porte.}
 {192}{}{Ne touche plus jamais à cette porte.}

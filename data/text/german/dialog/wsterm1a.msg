@@ -2,10 +2,6 @@
 {101}{}{Bei näherer Betrachtung des Terminals bemerkst du einen Aufkleber mit der Aufschrift
  "I*tel Inside".}
 {102}{}{Du kannst nicht lesen, was auf dem Monitor steht.}
-
-#NPC is unable to read what is on the monitor
-{200}{}{ kann nicht lesen, was auf dem Monitor steht.}
-
 {103}{}{Hauptstromversorgung = nicht verfügbar                          Notstromversorgung = verfügbar
                                   Sicherheitsprogramm wird neu initialisiert                       
  Warnung! Stromzufuhr unzureichend - Kraftfelder bei 50%    Ladevorgang abgeschlossen...                
@@ -38,14 +34,14 @@
 {132}{}{Du hast nicht die mindeste Ahnung. Beenden.}
 {133}{}{[Wenn man <Strg><Alt><C> drückt, stürzt das Programm ab. Du hoffst, daß sich die übrigen
  Sicherheitsmechanismen auf ähnlich einfache Weise ausschalten lassen.]}
-{134}{}{Beenden.}
+{134}{}{Beenden}
 {135}{}{Sicherheitsverstoß Ebene 1                                           Sicherheitsprotokoll wird aktiviert
                                 Benutzerzugriff auf dieses Terminal ist gesperrt              -Übertragung abgeschlossen-}
 {136}{}{Beenden}
 {137}{}{Durch deine Ungeschicklichkeit hast du das Alarmsystem ausgelöst.}
 {138}{}{Es hat keinen Sinn. Das Programm ist einfach zu kompliziert. Du verstehst es nicht.}
 {139}{}{Beenden}
-
+{200}{}{ kann nicht lesen, was auf dem Monitor steht.}
 {300}{}{Der Computer scheint mit einer Art Abwehrmechanismus ausgestattet zu sein.}
 {301}{}{Du stehst unter Schock. Dauer }
 {302}{}{ steht unter Schock. Dauer }

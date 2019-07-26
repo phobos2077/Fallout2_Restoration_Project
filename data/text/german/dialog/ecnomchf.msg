@@ -18,13 +18,11 @@
 {115}{}{Tschüß.}
 {116}{}{Ungläubiger!}
 {117}{}{Warum greifst du uns an?}
-{118}{}{Ich werde den Stamm mit meinem Leben verteidigen!}
+{118}{}{Ich werd die Sippe mit meinem Leben verteidigen!}
 {119}{}{Wie kannst du es wagen unsere Gastfreundschaft so zu verletzen.}
-
-{120}{}{Geh fort!}
-{121}{}{Verlass uns.}
+{120}{}{Verschwinde!}
+{121}{}{Hau ab.}
 {122}{}{Wir sind ein friedlicher Stamm.}
-
 {200}{}{Ah, ein Reisender. Verzeiht dass wir kein Zelt haben, was wir dir als Schatten vor der endlosen Hitze des Landes
  anbieten können. Raste für einen Moment damit wir vielleicht miteinander sprechen können.}
 {201}{}{Danke; wohlwollend nehme ich euer Angebot an.}

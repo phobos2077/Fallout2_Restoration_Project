@@ -9,7 +9,7 @@
 {108}{}{Je laisserai entrer toutes les foutues mouches que je veux ! Minable !}
 {109}{}{D'accord. Tchao.}
 {110}{}{Ferme la porte ! Je t'en prie ! Va-t'en et emmène ces saletés de mouches avec toi !}
-{111}{}{Okééé !}
+{111}{}{D'OOkK !}
 {112}{}{Désolé. Je suis un peu sur les nerfs. Toutes ces foutues mouches et pas d'air conditionné. Avec un peu plus d'énergie je pourrais les chasser... mais je ne peux pas.}
 {113}{}{Qui es-tu ?}
 {114}{}{D'où vient l'énergie ?}
@@ -27,7 +27,7 @@
 {126}{}{Alors je vais te rendre un service en te tuant.}
 {127}{}{Je vois. J'ai pas besoin d'en savoir plus. Au revoir.}
 {128}{}{J'ai essayé ça. J'ai tout essayé. La seule chose pour éviter que les mouches se collent à moi c'est de ne pas suer... et quand j'ai pas assez d'énergie pour l'air conditionné, c'est impossible.}
-{129}{}{Je vois. J'ai d'autres questions.}
+{129}{}{Je vois. J'ai encore des questions.}
 {130}{}{Je vois. Au revoir.}
 {131}{}{Oui ?}
 {132}{}{J'ai parlé à Brian et il dit que les rations d'énergie sont si minimes qu'il est impossible d'augmenter ta part.}
@@ -65,14 +65,14 @@
 {164}{}{En général pour remercier les gens, on offre des cadeaux ou du matériel.}
 {165}{}{Dis rien alors. Tes remerciements suffisent.}
 {166}{}{Francis le mutant a un SuperPoing qu'il met en jeu dans des combats de bras de fer. Le problème c'est qu'il faut être plus fort que lui. Si tu veux essayer, je peux te fournir des cachets qui te donneront l'avantage.}
-{167}{}{Bien sûr.}
+{167}{}{Certainement.}
 {168}{}{Je préférerai du cash, si c'est possible.}
 {169}{}{Je ne veux pas de récompense.}
 {170}{}{Ces cachets sont appelés Buffouts. Ils augmentent ta force, mais ton esprit va souffrir un peu. N'en prends pas trop ou le besoin pourrait vite se faire ressentir. Bonne chance pour le SuperPoing !}
 {171}{}{Merci ! Tchao !}
 {172}{}{Tu peux m'aider pour mon problème de mouches ? Je t'en serais extrêmement reconnaissant.}
 {173}{}{C'est-à-dire ?}
-{174}{}{Bien sûr.}
+{174}{}{Certainement.}
 {175}{}{Laisse-moi y réfléchir.}
 {176}{}{Pas question.}
 {177}{}{Voilà tout mon argent... $150. Merci.}

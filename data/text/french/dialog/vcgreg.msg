@@ -6,7 +6,7 @@
 {105}{}{Un intrus ! Gardes ! Gardes !}
 {106}{}{Mais... ?!! Un mutant ! GARDES !! GARDES !!!}
 {107}{}{Mais... ?!! Une Goule ! GARDES !! GARDES !!!}
-{108}{}{Salut, Capitaine.}
+{108}{}{Bonne journée, Capitaine.}
 {109}{}{La Cité de l'Abri avant tout, Capitaine !}
 {110}{}{Salut, citoyen.}
 {111}{}{La Cité de l'Abri avant tout, citoyen !}
@@ -21,16 +21,16 @@
 {120}{}{Je ne sais pas comment tu as pu devenir Capitaine, pour moi tu n'es qu'un mutant. Si seulement on me croyait...}
 {121}{}{Je m'excuse... Puis-je faire quelque chose pour toi ?}
 {122}{}{Hé toa.}
-{123}{}{[Partir]}
+{123}{}{Dégage !}
 {124}{}{Qui es-tu ?}
 {125}{}{Je jette juste un oeil, merci.}
 {126}{}{ENCORE un domestique qui s'est égaré ?!! Je vais mettre Barkus au rapport s'il continue à les laisser vagabonder... Bon, tu vas te casser ? Allez, ouste !!}
 {127}{}{CASSER toi ? D'ac-cord.}
-{128}{}{[Partir]}
+{128}{}{Dégage !}
 {129}{}{<Tsss> Ces domestiques semblent devenir chaque jour plus stupides.}
 {130}{}{Je suis le Proconsul Grégory. Est-ce bien le bureau que tu cherchais ?}
 {131}{}{« Proconsul ? » Qu'est-ce donc qu'un « Proconsul » ?}
-{132}{}{Que fais-tu ici ?}
+{132}{}{Qu'est-ce tu fais ici ?}
 {133}{}{Je jette juste un oeil, merci.}
 {134}{}{Je suis l'ASSISTANT de la Première citoyenne. C'est moi qui prends ses rendez-vous, qui gère le test de citoyenneté pour les candidats potentiels et qui mets à jour les listes sur le serveur de la Cité de l'Abri. Ce n'est pas rien, je te le garantis.}
 {135}{}{Le test de citoyenneté ?}
@@ -42,12 +42,12 @@
 {141}{}{En quoi consiste le test exactement ?}
 {142}{}{J'aimerais repasser le test.}
 {143}{}{Quels avantages y a-t-il à devenir citoyen ?}
-{144}{}{Puis-je te poser d'autres questions ?}
+{144}{}{Je peux vous poser d'autres questions ?}
 {145}{}{Je vois. Nous en reparlerons peut-être plus tard.}
 {146}{}{Les avantages ? Eh bien, regarde autour de toi... La Cité de l'Abri est la plus riche de la région. Les citoyens bénéficient de traitements médicaux gratuits, de nourriture et d'eau en abondance et il n'y a ni criminalité ni maladies.}
 {147}{}{En quoi consiste le test exactement ?}
 {148}{}{Ca a l'air sympa. J'aimerais repasser le test.}
-{149}{}{Puis-je te poser d'autres questions ?}
+{149}{}{Je peux vous poser d'autres questions ?}
 {150}{}{Je vois. Nous en reparlerons peut-être plus tard.}
 {151}{}{C'est un examen complet, composé de plusieurs parties... Mathématiques avancées, relations dans l'espace, raisonnement déductif, compréhension de la langue... Oh et il y a aussi un examen de santé complet.}
 {152}{}{Des mathé-quoi ? Hum, je ne pourrais pas plutôt aller chercher un objet ou me battre avec quelqu'un pour devenir citoyen ?}
@@ -57,26 +57,26 @@
 {156}{}{On ne vérifie pas l'acuité visuelle ou la logique du sujet ? Hummm. Bon, peut-être envisageras-tu de réviser ce test... lorsque je l'aurai passé.}
 {157}{}{Je vois. Puis-je te poser d'autres questions ?}
 {158}{}{Intéressant. Merci de m'avoir accordé du temps.}
-{159}{}{Bon, si tu finis cette tâche pour la Première citoyenne, elle te donnera la citoyenneté, bien que tu ne la mérites pas vraiment. Je suppose qu'elle a ses raisons.}
+{159}{}{Bon, si tu finis cette tâche pour la Première citoyenne, elle te donnera la citoyenneté, bien que tu la mérites pas vraiment. Je suppose qu'elle a ses raisons.}
 {160}{}{Non. Si tu veux devenir citoyen, tu dois passer le test.}
 {161}{}{Tu désapprouves le fait qu'elle m'offre la citoyenneté pour ça ?}
 {162}{}{Je vais essayer le test alors.}
 {163}{}{Je vais repasser le test alors.}
-{164}{}{Hummm. Puis-je te poser d'autres questions ?}
+{164}{}{Hummm. Puis-je te poser encore quelques questions ?}
 {165}{}{Merci de m'avoir accordé du temps. Au revoir.}
 {166}{}{Tu veux passer le test ? Excellent, excellent ! Rien ne me fait plus plaisir que mettre des candidats potentiels à l'essai... Mais je te préviens, le test dure plusieurs heures. Tu veux le passer maintenant ?}
 {167}{}{Eh bien, n'importe qui peut passer le test. Mais dans ton cas, ce serait une perte de temps... pour nous deux. Quelqu'un de ton envergure n'a simplement pas l'étoffe d'un citoyen.}
-{168}{}{Bien sûr !}
+{168}{}{Certainement.}
 {169}{}{Pas maintenant. Mais dis-moi...}
-{170}{}{Peut-être une autre fois.}
+{170}{}{Peut-être plus tard.}
 {171}{}{J'aimerais quand même le passer ce test.}
 {172}{}{Contente-toi de me donner ce foutu test.}
 {173}{}{Laisse tomber alors. Puis-je te poser encore des questions ?}
-{174}{}{Laisse tomber. Je m'en vais.}
+{174}{}{Peu importe. Je me tire d'ici.}
 {175}{}{Très bien.}
 {176}{}{Hummm. C'est ton droit, mais je doute que tu réussisses.}
 {177}{}{Voici les formulaires 5028, 6112 et la console de réponse du Pip-Boy. Veille à bien remplir chaque cercle ENTIEREMENT. Bon, si tu veux bien prendre place ici...}
-{178}{}{Très bien.}
+{178}{}{D'accord.}
 {179}{}{Tu as déjà terminé ? Tu ne veux vraiment pas vérifier encore une fois tes réponses ?}
 {180}{}{Bon, le temps imparti a expiré. Voyons ton formulaire...}
 {181}{}{J'ai déjà terminé. Voilà.}
@@ -95,7 +95,7 @@
 {194}{}{Mais... Tu as réussi ! Félicitations !}
 {195}{}{Génial. Alors je suis citoyen ?}
 {196}{}{Eh bien, tu dois encore passer l'examen de santé. Heureusement, j'ai tout ce qu'il faut ici. Enlève tes bottes.}
-{197}{}{D'accord.}
+{197}{}{Ok.}
 {198}{}{Tu... Tu as six orteils ! Tu es un mutant ! Comment oses-tu même ESSAYER de devenir l'un des nôtres... Espèce... Espèce d'abomination ! Sors d'ici ! Dehors !! Et ne reviens jamais !!!}
 {199}{}{Bon, je vais bientôt perdre patience et tuer tous les citoyens de la Cité de l'Abri pour le plaisir. En commençant par toi.}
 {200}{}{Je m'en vais, je m'en vais !}
@@ -111,11 +111,11 @@
 {210}{}{Bon, si tu finis cette tâche pour la Première citoyenne, elle te donnera la citoyenneté, bien que tu la mérites pas vraiment. Je suppose qu'elle a ses raisons.}
 {211}{}{Y a-t-il un autre moyen de devenir citoyen ?}
 {212}{}{Tu désapprouves le fait qu'elle m'offre la citoyenneté pour ça ?}
-{213}{}{Puis-je te poser d'autres questions ?}
+{213}{}{Je peux vous poser d'autres questions ?}
 {214}{}{Humm. Au revoir.}
 {215}{}{Ce n'est pas à moi de mettre en doute les actes de la Première citoyenne.}
 {216}{}{Y a-t-il un autre moyen de devenir citoyen ?}
-{217}{}{Puis-je te poser encore d'autres questions ?}
+{217}{}{Je peux vous poser d'autres questions ?}
 {218}{}{Bon, tant pis.}
 {219}{}{Gecko ? C'est un bidonville crasseux vers le Nord, habité par ces créatures, les... « Goules ». Tu sais, ce sont elles qui empoisonnent notre nappe phréatique ! C'est un acte terroriste à l'encontre la Cité de l'Abri !}
 {220}{}{Comment empoisonnent-elles les eaux ?}
@@ -123,5 +123,5 @@
 {222}{}{Merci, au revoir.}
 {223}{}{Leur bidonville entoure les ruines d'une ancienne centrale atomique... Une centrale qu'elles ont REUSSI à remettre en service, et qui fuit ! Il faut absolument chasser ces créatures et fermer la centrale pour arrêter la radioactivité !}
 {224}{}{Hummm. Puis-je te poser encore quelques questions ?}
-{225}{}{Merci du renseignement. Au revoir.}
+{225}{}{Merci pour l'information. Au revoir.}
 {226}{}{Tu as réussi le test de citoyenneté et tu fais maintenant partie des citoyens de la Cité de l'Abri.}

@@ -4,7 +4,7 @@
 {103}{}{Hi, ich bin Rebecca. Kann ich dich mal allein sprechen?}
 {104}{}{Wo-rüber sprechen?}
 {105}{}{Warum 'lein?}
-{106}{}{Ok.}
+{106}{}{OK.}
 {107}{}{Nein. Ich gehn.}
 {108}{}{Tut mir leid. Kein Interesse.}
 {109}{}{Worüber willst du mit mir reden?}
@@ -13,7 +13,7 @@
 {112}{}{[Flüsternd] Meine Tochter ist verschwunden, und ich brauch Hilfe bei der Suche nach ihr. Ich kann hier nicht darüber reden. Können wir woanders hingehn?}
 {113}{}{OK.}
 {114}{}{Warum 'lein?}
-{115}{}{Nein, ich gehn.}
+{115}{}{Nein, ich gehen.}
 {116}{}{Alles klar, laß uns gehn.}
 {117}{}{Warum so geheimnisvoll?}
 {118}{}{Nein danke, ich will damit nichts zu tun haben.}
@@ -72,7 +72,7 @@
 {163}{}{Danke. Mehr Fragen.}
 {164}{}{Danke. Ich möchte dir gerne noch ein paar Fragen stellen.}
 {165}{}{Tut mir leid, ich hab keine Ahnung. Frag am besten in der NCR. Die haben seit neuestem ein großes Interesse an Vaults.}
-{166}{}{OK, ich mach.}
+{166}{}{OK, ich tun.}
 {167}{}{OK, das mach ich.}
 {168}{}{Tja... wir sollen eigentlich nicht darüber reden, aber da ich deine Hilfe brauche... Die Vault wird gerade von Darion repariert. Er ist unser Gönner. Wenn wieder alles funktioniert, sollen wir alle dort einziehen, weil wir dann sicher vor Räubern, Sklavenhändlern und so sind. Im Moment hat er die Nahrungsmittel- und Trinkwassersysteme repariert, aber das ist alles.}
 {169}{}{Ich verstehn. Muß noch wissen.}
@@ -113,7 +113,6 @@
 {204}{}{Ich suchen.}
 {205}{}{Ich werde weiter nach ihr suchen.}
 {206}{}{Danke für alles, was du für mich getan hast.}
-
 {207}{}{Ich weiß nicht warum, aber ich glaube nicht, daß die Sklavenhändler sie erwischt haben. Ich hab das ungute Gefühl, daß da noch was anderes läuft. Und dann hab ich ständig das Gefühl, daß mich jemand verfolgt. Das ist, seitdem ich mit Zeke über Chrissy gesprochen habe. Ich brauche jemanden, der mir hilft, meine Tochter zu finden. Würdest du mir helfen? Bitte!}
 {208}{}{Sie schicken ständig Leute her, die uns überreden sollen, unser Heim zu verlassen. Sie scheinen nicht zu verstehen, daß wir nirgendwo anders hin können. Wir sind nicht in der Lage, allein zu überleben, wenn wir diesen Ort verlassen.}
 {209}{}{Es ist schon merkwürdig, daß sie in der Lage sind, so etwas Komplexes zu reparieren aber das Licht kriegen sie nicht hin. Der verdammte Ort ist mit Fackeln erleuchtet. Und Darion will nicht, daß jemand weiß, was in der Vault vor sich geht. Er hat Angst, daß sie uns alles wegnehmen, wenn sie es herausfinden. Wir haben die Anweisung, jeden wegzujagen, der hier aufkreuzt — besonders die von der NCR.}

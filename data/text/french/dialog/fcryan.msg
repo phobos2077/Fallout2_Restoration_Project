@@ -6,7 +6,7 @@
 {105}{}{Je vais te saigner jusqu'à ce que tu meures. Pardon, je parlais à voix haute ?}
 {106}{}{A y carumba ! Nalgas con queso !}
 {107}{}{Wou hou hou hou hou !}
-{108}{}{Je me casse.}
+{108}{}{Je m'en vais d'ici.}
 {109}{}{J'ai connu Big Jésus Mordino lorsqu'il était encore Bébé Jésus.}
 {110}{}{Jésus Marie Mère de Dieu !}
 {111}{}{J'suis producteur. J'crée des jeux. C'est amusant les jeux. Joue à mes jeux.}

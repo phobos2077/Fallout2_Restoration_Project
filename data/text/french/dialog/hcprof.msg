@@ -25,13 +25,13 @@
 {124}{}{Pourquoi pas ma matière grise ?}
 {125}{}{Hmm. Rien du tout.}
 {126}{}{Très bien. Je te confronterai au radscorpion. Vous allez tous les deux essayer d'ouvrir ces boîtes. Bonne chance.}
-{127}{}{Go !}
-{128}{}{C'est parti !}
+{127}{}{Partir !}
+{128}{}{Allons-y.}
 {129}{}{Bien. Tu vas te tenir derrière cette rampe, et toi et le radscorpion allez me dire les lettres que vous lisez, de gauche à droite.}
-{130}{}{Go !}
+{130}{}{Partir !}
 {131}{}{Compris ! C'est parti !}
 {132}{}{Toi et le radscorpion allez jouer à un jeu de mon invention. Je l'appelle les *échecs*. Tu es prêt ?}
-{133}{}{Oui !}
+{133}{}{'ui !}
 {134}{}{Ouep.}
 {135}{}{Je suis le professeur. Je fais des tests d'intelligence appliquée. Je crée des composants chimiques pour accroître l'intelligence. J'en essaie avec le radscorpion ici, après mon échec avec la plante.}
 {136}{}{Tu l'as fait avec une plante ?}
@@ -46,9 +46,7 @@
 {145}{}{Très bien, très bien. Bon, j'aimerais confronter mes connaissances à celle du radscorpion.}
 {146}{}{Très bien, je te crois. Je vais m'en aller maintenant.}
 {147}{}{Comment... comment as-tu pu tuer mon radscorpion ? J'étais proche... si proche...}
-{148}{}{[Tu t'en vas]}
-
-# Test d'agilité
+{148}{}{Dégage !}
 {200}{}{Wou hou! Fais mieux que ça, M. Exosquelette.}
 {201}{}{Woooouuu Hoouu !}
 {202}{}{Saleté !}
@@ -58,8 +56,6 @@
 {206}{}{Comment f'as oufert afec des pinfes ?}
 {207}{}{::Tricheur::}
 {208}{}{Bon, c'est un match nul.}
-# The following 4 strings are used in the phrase:
-# "You lose. Scorpion: [SCORE], [Player Name]: [SCORE]."
 {209}{}{Perdu. Scorpion : }
 {210}{}{, }
 {211}{}{ : }
@@ -67,8 +63,6 @@
 {213}{}{Hein ?}
 {214}{}{Tu as prouvé que tu es juste aussi agile que le radscorpion.}
 {215}{}{Hé, prends donc ces Mentats. On dirait que tu en as bien besoin .}
-
-# Test de perception.
 {300}{}{E...Z...W...T...O...D...F...E...R...T...F...P...Y...J...M}
 {301}{}{Oui, c'est bon.}
 {302}{}{M...E...U... MEU ?}
@@ -76,13 +70,11 @@
 {304}{}{::Tricheur tricheur:: <Clic clac> ::La queue tourne::}
 {305}{}{Correct ! C'est bien ! Très bien ! Tes connaissances en Morse sont en bonne progression.}
 {306}{}{Tu as prouvé que tes perceptions sont aussi bonnes que celles du radscorpion.}
-
-# Test d'Intelligence
 {400}{}{Echec et mat ::clic::}
 {401}{}{QUOI ? T'as triché !}
 {402}{}{Emat ?}
 {403}{}{Ne sois pas mauvaise langue parce que tu as perdu.}
-{404}{}{Et... échec et mat !}
+{404}{}{And... checkmate!}
 {405}{}{Echec et mat !}
 {406}{}{::Tricheur:: Tuer plante ! <Clic clac clic>}
 {407}{}{Tu as prouvé que tu peux surpasser un radscorpion plus intelligent que toi.}

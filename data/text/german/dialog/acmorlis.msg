@@ -1,6 +1,5 @@
 {100}{}{Du siehst Morlis, eine deiner Tanten - sie mochte dich noch nie.}
 {101}{}{Warum störst du mich, Neffe? Siehst du nicht, daß ich beschäftigt bin?}
-{301}{}{Warum störst du mich, Nichte? Siehst du nicht, daß ich beschäftigt bin?}
 {102}{}{Ähm, OK. Tut mir leid.}
 {103}{}{Was ist los? Du weißt, daß ich viel zu tun habe.}
 {104}{}{Ähm, Mynoc sagte...}
@@ -18,7 +17,6 @@
 {116}{}{Du verschwendest schon wieder meine kostbare Zeit, du Nichtsnutz! Wie bist du nur zum Auserwählten Wesen geworden?}
 {117}{}{Ja, Tante Morlis.}
 {118}{}{Äh, Tante Morlis, ich hab drei Portionen hier.}
-
 {150}{}{Tante Morlis, meine Suche nach Rettung für unser Dorf ist ein äußerst gefährliches Unterfangen. Meine Chancen auf Erfolg wären weitaus höher, wenn ich das Heilpulver selbst behalte, und du mir trotzdem den Feuerstein gibst. Bist du nicht auch der Meinung?}
 {151}{}{Was glaubst du denn, was du da tust, Kind? Das ist doch keine Art für den Auserwählten! Und jetzt geh mir aus den Augen!}
 {152}{}{Wenn dieser Feuerstein so wichtig ist, daß du sogar bereit bist, den Namen des Auserwählten Wesens zu entehren, dann nimm ihn. Nimm den Feuerstein und geh mir aus den Augen.}
@@ -26,9 +24,6 @@
 {154}{}{Tja... ähm, naja. Hier hast du den Feuerstein. Ich wünsche dir eine gute Reise, mein Kind.}
 {155}{}{Durchaus nicht. Und jetzt verschwende nicht länger meine Zeit und verschwinde!}
 {156}{}{Ja, Tante Morlis.}
-
-
-# new add on stuff for time limit
 {200}{}{So, du bist zurückgekehrt. Hast du die heilige Dreizehn gefunden?}
 {201}{}{Nein, Tante Morlis, ich...}
 {202}{}{Dann verschwinde hier und such' sie! Die Menschen hier sind auf dich angewiesen!}
@@ -46,12 +41,9 @@
 {214}{}{Ja, Tante Morlis.}
 {215}{}{Dann verschwinde und such das GECK! Die Menschen hier sind auf dich angewiesen!}
 {216}{}{Ja, Tante Morlis.}
-
-#added by killap
 {300}{}{Hm, anscheinend habe ich den Feuerstein verlegt. Naja, zumindest habe ich mein Pulver. Und nun verschwinde! Ich hab keine Zeit zum plaudern.}
+{301}{}{Warum störst du mich, Nichte? Siehst du nicht, daß ich beschäftigt bin?}
 {302}{}{Hm, ich kann den Feuerstein nirgends finden. Ich bin sicher, dass du ihn genommen hast als ich gerade nicht hinsah. Früher oder später erwischte ich dich. Und nun verschwinde! Ich habe keine Zeit zum plaudern.}
 {303}{}{Hm...oh, tut mir leid, aber anscheinend habe ich den Feuerstein verlegt. Ich wünsche dir eine sichere Reise, Kind. }
-
-#added by Darek
 {304}{}{Ich hab dir den Feuerstein schon gegeben, Dummkopf. Jetzt hör auf, meine Zeit zu vergeuden, und verschwinde von hier!}
 {305}{}{Ich hab dir den Feuerstein schon gegeben, Dummkopf. Naja, wenigstens hab ich mein Pulver. Jetzt verschwinde! Ich habe keine Zeit zum plaudern.}

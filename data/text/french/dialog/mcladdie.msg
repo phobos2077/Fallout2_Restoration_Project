@@ -2,14 +2,13 @@
 {101}{}{Tu vois Laddie.}
 {102}{}{Ce chien a l'air très vif et intelligent.}
 {103}{}{Il n'y pas de doute, ce chien est sûrement plus malin que toi.}
-
 {150}{}{Ouaf !}
 {151}{}{Ouaf ! Ouaf !}
 {152}{}{Ouaf ! Ouaf ! Ouaf !}
 {153}{}{[Ce chien a l'air particulièrement agité.]}
 {154}{}{T'es un bon toutou toi.}
 {155}{}{Tu sais où est Jonny ?}
-{156}{}{Reste ici Laddie.}
+{156}{}{Stay here, Laddie.}
 {157}{}{Allons chercher Jonny.}
 {158}{}{Laddie, Jonny est-il tombé dans le puits ?}
 {159}{}{Que se passe-t-il ? Tu essaies de me dire quelque chose ?}
@@ -35,7 +34,6 @@
 {183}{}{Il est parti vers l'Ouest ?}
 {186}{}{Ouaf ?}
 {187}{}{Ok, Ok... Peut-être ailleurs alors ?}
-
 {190}{}{Il jouait aux cow-boys et aux indiens quand il est tombé accidentellement dans le puits et tu veux que j'aille chercher une corde pour descendre le chercher. Ok, on y va Laddie. [Incroyable !]}
 {191}{}{Il jouait aux cow-boys et aux indiens quand il est tombé accidentellement dans le puits et tu veux que j'utilise ma corde pour descendre le chercher. Ok, on y va Laddie. [Incroyable !]}
 {195}{}{Ok, je vais aller chercher une corde pour descendre dans le puits et secourir Jonny.}

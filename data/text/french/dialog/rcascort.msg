@@ -13,7 +13,7 @@
 {112}{}{Y a-t-il du travail à Redding ?}
 {113}{}{Que se passe-t-il en ville ces temps-ci ?}
 {114}{}{As-tu entendu parler de quelque chose qui s'appelle le Jardin d'Eden en Kit ?}
-{115}{}{Que fais-tu ici ?}
+{115}{}{Qu'est-ce tu fais ici ?}
 {116}{}{Je ne faisais que passer, M. le Maire. A plus tard. Au revoir.}
 {117}{}{Je dirige ce casino et j'aide à gérer les affaires de cette ville. J'archive les actes et ce genre de choses.}
 {118}{}{Des actes ? Des actes pour quoi ?}
@@ -29,7 +29,7 @@
 {128}{}{Bien sûr. Euh, mais dis-moi, M. le Maire...}
 {129}{}{Oui, bien sûr. Simple vérification. Au revoir, M. Le Maire.}
 {130}{}{Tout type de propriété privée. Là, en ce moment, j'ai un acte pour un truc super-chic à vendre.}
-{131}{}{C'est quoi, ça ? }
+{131}{}{C'est quoi, ça ?}
 {132}{}{Je te crois, mais je veux te demander autre chose, M. le Maire.}
 {133}{}{Hum, je pense que je vais d'abord aller faire un tour en ville. Au revoir.}
 {134}{}{C'est l'acte concernant la mine du Grand Wanamingo juste à l'extérieur de la ville. Je peux te le vendre pour seulement $1 000. Offre spéciale. T'as de la veine de tomber sur moi parce qu'aujourd'hui c'est mon jour de générosité.}
@@ -76,7 +76,7 @@
 {175}{}{T'as tout compris. Je savais que tu pigeais plus vite que tu en avais l'air. Tu peux être rapide quand t'en as envie.}
 {176}{}{Ouais. Alors, combien je pourrais me faire avec mes $1 000 ?}
 {177}{}{Ca avait l'air si confortable que quelqu'un y a emménagé. Un méchant type du nom de Gâchette Morton, euh, et sa bande aussi, d'après ce que je sais.}
-{178}{}{Pourquoi on l'appelle Gâchette Morton ?}
+{178}{}{Pourquoi l'appelle-t-on Gâchette Morton ?}
 {179}{}{Et en quoi ça me concerne ?}
 {180}{}{Super, et qu'est-ce que je fais maintenant ?}
 {181}{}{Je crois que c'est parce qu'il a la réputation d'assassiner les gens. C'est un client vraiment méchant qui ne sera pas regretté... et toute la gloire te reviendra. Ca t'plairait ?}
@@ -84,7 +84,7 @@
 {183}{}{Ouais, bien sûr. Qu'est-ce que je fais alors ?}
 {184}{}{Je crois que j'ai encore du ménage à faire. Je reviendrai quand j'en aurai secoué un peu plus.}
 {185}{}{Bon, tant que la mine n'est pas dégagée, je ne peux pas y envoyer des mineurs bosser. Alors, si tu veux me vendre la mine, à toi de jouer.}
-{186}{}{Pourquoi on l'appelle Gâchette Morton ?}
+{186}{}{Pourquoi l'appelle-t-on Gâchette Morton ?}
 {187}{}{Super, qu'est-ce que je fais alors ?}
 {188}{}{Je ferais mieux de m'y remettre alors. Au revoir.}
 {189}{}{Je crois que tu devrais retourner à la mine du Grand Wanamingo pour tuer Gâchette et sa bande. Après, tu peux revenir ici et je te rachèterai la mine avec plaisir.}
@@ -169,7 +169,8 @@
 {268}{}{Merci. Puis-je te demander autre chose ?}
 {269}{}{J'irai peut-être y faire un tour et leur parler. Merci. Au revoir.}
 {270}{}{Ces derniers temps nos expéditions d'or ont ralenti parce que les mineurs passent trop de temps à planer au Jet.}
-{271}{}{Tous les mineurs ou presque passent plus de temps à planer au Jet qu'à exploiter l'or... Nos prix montent et nos exportations dégringolent. C'est très mauvais pour les affaires tout ça.}
+{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
+ are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Tout le monde plane trop au Jet pour travailler de façon efficace. Nous ne faisons qu'un dixième de nos exportations habituelles d'or et nous en avons beaucoup augmenté le prix. Ca ne peut pas durer.}
 {273}{}{Il semble que tout le monde ait eu un mauvais lot de Jet. Tous ceux qui utilisent du Jet semblent subir un genre de désintoxication massive. Je pense que quelque chose ne leur a pas réussi. Je ne sais pas ce qui est arrivé au juste mais j'espère que les choses vont rentrer dans l'ordre.}
 {274}{}{Les choses sont presque revenues à la normale. Tous ceux qui sont tombés malades à cause du Jet on décidé de décrocher. Notre production minière et notre calendrier de livraisons sont redevenus pratiquement normaux. On dirait que le pire est passé.}

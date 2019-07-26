@@ -1,10 +1,7 @@
-# examine
 {150}{}{Du siehst einen Mann in zerknitterten Kleidern. Er reibt sich die Nase und sieht sich
  verstohlen um.}
-{151}{}{Du siehst einen Jet-Händler.}
+{151}{}{Du siehst einen Drogendealer.}
 {152}{}{Du siehst einen Jet-Händler. Sieht so aus, als sehe er sich nach Kundschaft um.}
-
-# float
 {200}{}{Hey, Held! Willste mit 'n bißchen Jet feiern? Sprich mit mir!}
 {201}{}{War 'ne reife Leistung, die Enklave in den Hintern zu treten, Held! Willste jetzt 'n
  bißchen relaxen und mit Jet feiern?}
@@ -20,10 +17,8 @@
 {209}{}{Warum gehen, wenn du FLIEGEN kannst?}
 {210}{}{Ich hab das sauberste Jet in der Stadt. Is' nich' gerade billig, aber jeden Cent wert.}
 {211}{}{Willste fliegen? Haste Geld? ICH bin dein Mann.}
-{212}{}{Ich hab Jet, mit dem kannste den Himmel küssen, Freund.}
+{212}{}{Ich hab Stoff, mit dem kannste den Himmel küssen, Freund.}
 {213}{}{Ich hab Jet und dann noch Jet. Laß uns reden.}
-
-# click dialogue
 {214}{}{Laß mich wissen, wie ich DIR helfen kann, Held. Sag mir, was du brauchst und ich geb dir
  den besten Preis in der Stadt.}
 {215}{}{Du willst also mit 'n bißchen Jet feiern, Held? Da bist du richtig bei mir. Für dich
@@ -34,14 +29,10 @@
  langgeht, oder? Hab ich recht? Meine Waren gibt's alle zu Sonderpreisen für dich.}
 {218}{}{Ich hab Jet, mit dem kannst den Himmel küssen, Held. Und für dich mit nettem Rabatt. Wie
  klingt das?}
-
 {219}{}{Du Süßichkajten? }
 {220}{}{[Verschwinde]}
 {221}{}{Was hast du?}
 {222}{}{Ich will nichts, danke.}
-
-# player great
-# male
 {230}{}{Hey, hey...Ich bin wahrer Größe begegnet. Für DICH, Freund, gibt's auf meine Ware
  Sonderrabatt. Erzähl allen deinen Freunden von mir, OK?}
 {231}{}{Du willst also mit 'n bißchen Jet Party machen, Freund? Da bist du bei mir richtig. Für
@@ -52,14 +43,12 @@
  das OK?}
 {234}{}{Na, das ist doch das Mindeste, was ich für dich tun kann, daß ich für DICH meine Ware
  runtersetze, Freund. Is' nur meine Art, freundlich zu sein.}
-# generic
 {235}{}{Du hast Klasse, weißte das? Klasse. Und wenn jemand mit so viel Klasse wie du mit mir
  Geschäfte macht, bekommt er einen Rabatt auf die Ware, verstehste?}
 {236}{}{Laß mich wissen, wie ich DIR helfen kann, Freund. Sag mir, was du brauchst und ich geb
  dir den besten Preis in der Stadt.}
 {237}{}{Es gibt doch nichts Besseres als etwas Jet nach einem langen Tag Rumrennen, was? Hab ich
  recht? Für DICH mach ich Sonderpreise auf alle meine Waren.}
-# female
 {238}{}{Hey, hey...hier ist wahre Größe. Für DICH, Fräulein, mach ich Sonderpreise. Erzähl allen
  deinen Freunden von mir, OK?}
 {239}{}{Du willst also mit 'n bißchen Jet Party machen, Frollein? Da bist du bei mir richtig. Für
@@ -70,7 +59,6 @@
  Sonderrabatt. Klingt das OK?}
 {242}{}{Na, das ist doch das Mindeste, was ich für dich tun kann, daß ich für DICH meine Ware
  runtersetze, Frollein. Is' nur meine Art, freundlich zu sein.}
-
 {247}{}{Ich weiß, was du suchst, Sklaventreiber und ich hab es. Alles Jet, das du BRAUCHST.}
 {248}{}{Warum gehen, wenn man fliegen kann? Du willst Jet, ich hab es.}
 {249}{}{Sklaventreiber, ich hab das sauberste Jet in der Stadt. Is' nich' gerade billig, aber
@@ -84,7 +72,6 @@
  versorgen.}
 {255}{}{Du suchst Jet? Komm schon, Sklaventreiber, kommen wir ins Geschäft.}
 {256}{}{Du suchst Jet? Komm schon, Sklaventreiber, du und ich: laß uns reden.}
-
 {261}{}{Ich weiß, was du brauchst, Freund und ich hab's. So viel Jet, wie du BRAUCHST.}
 {262}{}{Warum gehen, wenn du FLIEGEN kannst?}
 {263}{}{Ich hab das sauberste Jet in der Stadt. Is' nich' gerade billig, aber jeden Cent wert.}
@@ -96,5 +83,4 @@
 {268}{}{Hast du Erfahrung? Laß mich dich mit dem besten Jet in der Stadt versorgen.}
 {269}{}{Suchst du Jet? Laß uns ins Geschäft kommen.}
 {270}{}{Suchst du Jet? Laß uns reden.}
-
 {519}{}{ MAG Süß!}

@@ -55,7 +55,6 @@
 {153}{}{Gibt es denn nichts anderes im Leben?}
 {154}{}{Wir sind schlauer, als du glaubst.}
 {155}{}{Schaut! Ein Lao Wai!}
-
 {163}{}{Du hast AHS-9 getötet? Hurra!}
 {164}{}{Bei diesen Hubologen schüttelt's mich.}
 {165}{}{Du hast uns einen großen Dienst erwiesen.}

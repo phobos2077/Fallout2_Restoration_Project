@@ -10,8 +10,8 @@
 {501}{}{ein altes Faß aus Stahl.}
 {600}{}{Metallfaß}
 {601}{}{ein altes Faß aus Stahl.}
-{700}{}{Reifenstapel}
-{701}{}{Ein Stapel alter Gummireifen. Sie sind, wahrscheinlich aufgrund der Wärme, vulkanisiert und verhärtet.}
+{700}{}{ein Stapel Reifen}
+{701}{}{Ein Stapel alter Gummireifen. Sie sind verschmolzen und verhärtet, vermutlich wegen der Hitze.}
 {800}{}{Sicherheitstür}
 {801}{}{Diese Tür schließt sehr sicher. Sie bietet Schutz vor den Elementen der Außenwelt und wilden Tieren}
 {900}{}{Computer}
@@ -22,9 +22,9 @@
 {1101}{}{Ein Computerterminal, das an einen Mainframe-Computer angeschlossen ist.}
 {1200}{}{Computer}
 {1201}{}{Ein Computerterminal, das an einen Mainframe-Computer angeschlossen ist.}
-{1300}{}{Bildschirm}
+{1300}{}{Monitor}
 {1301}{}{Bildschirm mit grüner Anzeige, auf dem diverse Daten erscheinen. Hin und wieder tauchen ein paar Byte auf.}
-{1400}{}{Bildschirm}
+{1400}{}{Monitor}
 {1401}{}{Bildschirm mit grüner Anzeige, auf dem diverse Daten erscheinen.}
 {1500}{}{Holo-Generator}
 {1501}{}{Ein großes Abspielgerät für THT-Unterhaltungsbänder. Seit 80 Jahren wurden keine neuen Filme gedreht.}
@@ -36,34 +36,34 @@
 {1801}{}{Auch nach längerer Untersuchung noch eine Tür.}
 {1900}{}{Tür}
 {1901}{}{Auch nach längerer Untersuchung noch eine Tür.}
-{2000}{}{Belüftung}
-{2001}{}{Lüftungsschacht, der den ganzen Komplex mit aufbereiteter und gereinigter Luft versorgt.}
-{2100}{}{Belüftung}
-{2101}{}{Lüftungsschacht, der den ganzen Komplex mit aufbereiteter und gereinigter Luft versorgt.}
+{2000}{}{Lüftungsgitter}
+{2001}{}{Ein Lüftungsschacht, führt dem gesamten Komplex gereinigte und aufbereitete Luft zu.}
+{2100}{}{Lüftungsgitter}
+{2101}{}{Ein Lüftungsschacht, führt dem gesamten Komplex gereinigte und aufbereitete Luft zu.}
 {2200}{}{Vault 13-Tür}
 {2201}{}{Eine schwere Tür, die jede Art von Schaden und Trauma überstehen soll.}
 {2300}{}{Vault 13-Tür}
 {2301}{}{Eine schwere Tür, die jede Art von Schaden und Trauma überstehen soll.}
 {2400}{}{Podest}
 {2401}{}{Eine Hydraulikvorrichtung, die der Plattform Hilfs-, Energie- und Kommunikationsleitungen zuführt.}
-{2500}{}{Bildschirm}
+{2500}{}{Monitor}
 {2501}{}{Kennst du einen Bildschirm, kennst du alle.}
-{2600}{}{Bildschirm}
+{2600}{}{Monitor}
 {2601}{}{Bildschirm zur Anzeige diverser Daten.}
 {2700}{}{Gitter}
 {2701}{}{Bodengitter.}
-{2800}{}{Rohrleitungen}
+{2800}{}{Rohre}
 {2801}{}{Ein paar Rohre. Selbst nach näherer Untersuchung sind es nur ein paar Rohre}
-{2900}{}{Luftumwälzung}
-{2901}{}{Standard Vaultlüftungssystem.}
+{2900}{}{Lüftungsgitter}
+{2901}{}{Standard Vault-Tec Ventilationssystem.}
 {3000}{}{Säule}
 {3001}{}{Ein Standard Vault-Säulenstützsystem.}
 {3100}{}{Säule}
 {3101}{}{Ein Standard Vault-Säulenstützsystem.}
-{3200}{}{Klimaanlage}
-{3201}{}{Standard Vaultkühl- und heizsystem.}
-{3300}{}{Klimaanlage}
-{3301}{}{Standard Vaultkühl- und heizsystem.}
+{3200}{}{Lüftungsgitter}
+{3201}{}{Standard Vault-Tec Ventilationssystem.}
+{3300}{}{Lüftungsgitter}
+{3301}{}{Standard Vault-Tec Ventilationssystem.}
 {3400}{}{Bett}
 {3401}{}{Ein Bett - nach allem was du gewohnt bist, sieht es recht bequem aus.}
 {3500}{}{Bett}
@@ -82,17 +82,17 @@
 {4101}{}{Ein Stuhl. Nur schade, daß du keine Zeit zum Hinsetzen und Entspannen hast.}
 {4200}{}{Stuhl}
 {4201}{}{Ein Stuhl. Nur schade, daß du keine Zeit zum Hinsetzen und Entspannen hast.}
-{4300}{}{Bildschirm}
+{4300}{}{Monitor}
 {4301}{}{Bildschirm zur Anzeige diverser Daten.}
-{4400}{}{Bildschirm}
+{4400}{}{Monitor}
 {4401}{}{Bildschirm zur Anzeige diverser Daten.}
-{4500}{}{Bildschirm}
+{4500}{}{Monitor}
 {4501}{}{Bildschirm zur Anzeige diverser Daten.}
-{4600}{}{Bildschirm}
+{4600}{}{Monitor}
 {4601}{}{Bildschirm zur Anzeige diverser Daten.}
-{4700}{}{Bildschirm}
+{4700}{}{Monitor}
 {4701}{}{Bildschirm zur Anzeige diverser Daten.}
-{4800}{}{Bildschirm}
+{4800}{}{Monitor}
 {4801}{}{Bildschirm zur Anzeige diverser Daten.}
 {4900}{}{Ausgangsmarkierung}
 {4901}{}{Ausgangsmarkierung}
@@ -159,7 +159,7 @@
 {8000}{}{Felsen}
 {8001}{}{Ein kleiner Felshaufen.}
 {8100}{}{Felsen}
-{8101}{}{Ein großer Felshaufen.}
+{8101}{}{Ein großer Haufen Steine.}
 {8200}{}{Knochen}
 {8201}{}{Ein großer Haufen ausgebleichter Tierknochen. Zumindest glaubst, daß sie von Tieren stammen...}
 {8300}{}{Knochen}
@@ -304,9 +304,9 @@
 {15601}{}{Dies ist das Innere eines Aufzugs der Brotherhood. Er ist blitzblank!}
 {15700}{}{Markierung}
 {15701}{}{Dies ist das Symbol der Brotherhood of Steel. Die Markierung zeigt dem Ödland, daß dies ihr Gebiet ist, das sofort zu verlassen ist.}
-{15800}{}{Bildschirm}
+{15800}{}{Monitor}
 {15801}{}{Du siehst einen Computerbildschirm. Er wurde mit Technologie der Brotherhood hergestellt.}
-{15900}{}{Bildschirm}
+{15900}{}{Monitor}
 {15901}{}{Du siehst einen Computerbildschirm. Er wurde mit Technologie der Brotherhood hergestellt.}
 {16000}{}{Computer}
 {16001}{}{Dies ist eine Computer-Datenbank. Offensichtlich mit Technologie der Brotherhood hergestellt.}
@@ -316,9 +316,9 @@
 {16201}{}{Ein High-Tech-Computer, der moderne Bandspeicherung anstelle der altmodischen Lochkarten einsetzt.}
 {16300}{}{Computer}
 {16301}{}{Ein High-Tech-Computer, der moderne Bandspeicherung anstelle der altmodischen Lochkarten einsetzt.}
-{16400}{}{Bildschirm}
+{16400}{}{Monitor}
 {16401}{}{Du siehst einen Computerbildschirm. Er wurde mit Technologie der Brotherhood hergestellt.}
-{16500}{}{Bildschirm}
+{16500}{}{Monitor}
 {16501}{}{Du siehst einen Computerbildschirm. Er wurde mit Technologie der Brotherhood hergestellt.}
 {16600}{}{Kabel}
 {16601}{}{Irgendein Computerkabel.}
@@ -331,7 +331,7 @@
 {17000}{}{Säule}
 {17001}{}{Eine Stützsäule.}
 {17100}{}{Türsteuerungscomputer}
-{17101}{}{Dieser Computer steuert die große Vaulttür. Du mußt einen Zugangscode eingeben, damit er deine Befehle akzeptiert.}
+{17101}{}{Dieser Computer steuert die große Vault-Tür. Du mußt einen Zugangscode eingeben, damit er deine Befehle akzeptiert.}
 {17200}{}{Kasinoschild}
 {17201}{}{Sieht aus wie eine Werbung für Gizmos Kasino.}
 {17300}{}{Vault 13-Außentür}
@@ -348,21 +348,21 @@
 {18100}{}{Oberteil des Aufzugs}
 {18101}{}{Du siehst den Teil eines Aufzugs.}
 {18200}{}{Computerkonsole}
-{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. Technologie der Brotherhood.}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18300}{}{Computerkonsole}
-{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist. Technologie der Brotherhood.}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
 {18400}{}{Emblem}
 {18401}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18500}{}{Emblem}
 {18501}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18600}{}{Schild der Ebene "Eins"}
-{18601}{}{Das könnte wohl bedeuten, daß du dich auf Ebene Eins der Brotherhood befindest.}
+{18601}{}{You think this could mean that you are on level one.}
 {18700}{}{Schild der Ebene "Zwei"}
-{18701}{}{Du bist auf Ebene Zwei der Brotherhood.}
+{18701}{}{You are on level two.}
 {18800}{}{Schild der Ebene "Drei"}
-{18801}{}{Das heißt wohl, daß du auf Ebene Drei der Brotherhood bist.}
+{18801}{}{This must mean that you are on level three.}
 {18900}{}{Schild der Ebene "Vier"}
-{18901}{}{Du bist wohl auf Ebene Vier der Brotherhood.}
+{18901}{}{You must be on level four.}
 {19000}{}{Etagenbett}
 {19001}{}{Ein Etagenbett im Militärstil. Sieht sehr unbequem aus. Sieht auch so aus, als würde eine aufs Bett geworfene Münze vom Bettlaken abprallen.}
 {19100}{}{Etagenbett}
@@ -398,9 +398,9 @@
 {20700}{}{Alte Matratze.}
 {20701}{}{Selbst wenn du allein auf dem Ding schlafen würdest, wärst du nicht einsam.}
 {20800}{}{Bett}
-{20801}{}{Ein provisorisches Bett. Das Material wurde aus anderen Quellen zusammengesammelt.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Bett}
-{20901}{}{Ein provisorisches Bett. Das Material wurde aus anderen Quellen zusammengesammelt.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Bett}
 {21001}{}{Dieses Bett hat schon bessere Tage gesehen (und Nächte wahrscheinlich auch).}
 {21100}{}{Bett}
@@ -415,9 +415,9 @@
 {21501}{}{}
 {21600}{}{}
 {21601}{}{}
-{21700}{}{UNUSED.}
-{21800}{}{UNUSED.}
-{21900}{}{UNUSED.}
+{21700}{}{UNUSED}
+{21800}{}{UNUSED}
+{21900}{}{UNUSED}
 {22000}{}{Kisten}
 {22001}{}{Diese Holzkisten sind so verwittert, daß sie auseinanderfallen.}
 {22100}{}{Kisten}
@@ -457,23 +457,23 @@
 {23800}{}{}
 {23900}{}{}
 {24000}{}{}
-{24100}{}{UNUSED.}
-{24200}{}{UNUSED.}
+{24100}{}{UNUSED}
+{24200}{}{UNUSED}
 {24300}{}{Feuerhydrant}
 {24301}{}{Dies ist ein Feuerhydrant. Ohne Deckensprinkler in der Vault brauchst du so einen vielleicht, um Feuer zu löschen.}
-{24400}{}{Laterne}
+{24400}{}{Lampe}
 {24401}{}{Diese Laterne sieht aus, als ob sie noch funktionieren würde. Stell dir das vor, etwas funktioniert hier draußen noch.}
-{24500}{}{Laterne}
+{24500}{}{Lampe}
 {24501}{}{Diese Laterne wird nie wieder funktionieren.}
-{24600}{}{Laterne}
+{24600}{}{Lampe}
 {24601}{}{Dies ist eine funktionierende Laterne. Nachts wirft sie ein blasses, sanftes Licht, das dich an absolut nichts erinnert.}
-{24700}{}{Laterne}
+{24700}{}{Lampe}
 {24701}{}{Dies ist eine kaputte Laterne. Er kann nicht repariert werden.}
-{24800}{}{Laterne}
+{24800}{}{Lampe}
 {24801}{}{Dieser Beleuchtungskörper funktioniert.}
-{24900}{}{Laterne}
+{24900}{}{Lampe}
 {24901}{}{Die Lampe in dieser Laterne ist irreparabel zerstört.}
-{25000}{}{Laterne}
+{25000}{}{Lampe}
 {25001}{}{Dies ist eine funktionierende Laterne.}
 {25100}{}{Tor}
 {25101}{}{Das Schloß dieses Tors wurde verriegelt, und die Riegel sehen sehr stabil aus.}
@@ -696,7 +696,7 @@
 {36400}{}{Schale}
 {36401}{}{Eine schön gearbeitete Holzschale.}
 {36500}{}{Topf}
-{36501}{}{Ein schön gefertigter Topf.}
+{36501}{}{Ein schöner handgefertigter Topf.}
 {36600}{}{Pflanze}
 {36601}{}{Sieht deiner Ansicht nach wie ein Mutantenkohl aus. Scheint im warmen Wetter gut zu gedeihen.}
 {36700}{}{Pflanze}
@@ -748,7 +748,7 @@
 {39000}{}{Vaulttür}
 {39001}{}{Diese Vaulttür ist jetzt nur noch ein schweres Stück Altmetall.}
 {39100}{}{Wand}
-{39101}{}{Der Mechanismus zum Öffnen und Schließen der schweren Vaulttür wurde irreparabel beschädigt.}
+{39101}{}{Der Mechanismus zum Bewegen der schweren Vault-Tür ist irreparabel zerstört.}
 {39200}{}{Strebe}
 {39201}{}{Diese Strebe stützt den Abwehrwall.}
 {39300}{}{Strebe}
@@ -765,7 +765,7 @@
 {39801}{}{Dem hohlen Klang nach zu schließen sind die Fässer wahrscheinlich leer.}
 {39900}{}{Metallfässer}
 {39901}{}{Dem hohlen Klang nach zu schließen sind die Fässer wahrscheinlich leer.}
-{40000}{}{Luftschacht}
+{40000}{}{Lüftungsgitter}
 {40001}{}{Dieser Luftschacht scheint für ein unterirdisches Gebäude gedacht zu sein.}
 {40100}{}{Kiste}
 {40101}{}{Eine Holzkiste. Sieht gar nicht so schlecht aus.}
@@ -793,11 +793,11 @@
 {41201}{}{Dieser Schrott wurde fast weggeschwemmt.}
 {41300}{}{Schrott}
 {41301}{}{Eine exklusive Auswahl nutzlosen Schrotts.}
-{41400}{}{Rohrleitungen}
+{41400}{}{Rohre}
 {41401}{}{Diese Rohre dienten einmal dazu, Treibstoff von einem unterirdischen Tank zur Tankstelle zu leiten. Sie wurden schon lange nicht mehr genutzt.}
 {41500}{}{Rohr}
 {41501}{}{Diese Rohre dienten einmal dazu, Treibstoff von einem unterirdischen Tank zur Tankstelle zu leiten. Sie wurden schon lange nicht mehr genutzt.}
-{41600}{}{Rohrleitungen}
+{41600}{}{Rohre}
 {41601}{}{Diese Rohre dienten einmal dazu, Treibstoff von einem unterirdischen Tank zur Tankstelle zu leiten. Sie wurden schon lange nicht mehr genutzt.}
 {41700}{}{Aufzugsschacht}
 {41701}{}{Teil eines Aufzugssystems.}
@@ -823,15 +823,15 @@
 {43000}{}{Felsen}
 {43001}{}{Ein kleiner Haufen Steine. Überhaupt nicht interessant für dich.}
 {43100}{}{Felsen}
-{43101}{}{Ein sehr kleiner Haufen Steine.}
+{43101}{}{Ein sehr kleiner Steinhaufen.}
 {43200}{}{Felsen}
-{43201}{}{Ein sehr kleiner Haufen Steine.}
+{43201}{}{Ein sehr kleiner Steinhaufen.}
 {43300}{}{Felsen}
-{43301}{}{Ein sehr kleiner Haufen Steine.}
+{43301}{}{Ein sehr kleiner Steinhaufen.}
 {43400}{}{Felsen}
-{43401}{}{Ein sehr kleiner Haufen Steine.}
+{43401}{}{Ein sehr kleiner Steinhaufen.}
 {43500}{}{Felsen}
-{43501}{}{Ein sehr kleiner Haufen Steine.}
+{43501}{}{Ein sehr kleiner Steinhaufen.}
 {43600}{}{Vaulttür}
 {43601}{}{Diese Vaulttür ähnelt derjenigen von Vault 13. Der Türmechanismus wurde lahmgelegt.}
 {43700}{}{Tür}
@@ -918,15 +918,15 @@
 {48200}{}{Tür}
 {48201}{}{Diese Tür ähnelt verdächtig Türen, die man in einem Lagerhaus finden würde.}
 {48300}{}{Wetterfahne}
-{48301}{}{Mit Hilfe dieser einfachen Wetterfahne beobachten die Einwohner von Shady Sands das Wetter.}
+{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
 {48400}{}{Altar}
 {48401}{}{Ein einfacher Altar aus bemalten Holz.}
 {48500}{}{Pult}
 {48501}{}{Normales Rednerpult für öffentlich gehaltene Reden.}
 {48600}{}{Altar}
-{48700}{}{Bildschirm}
+{48700}{}{Monitor}
 {48701}{}{Ein großer Schwarz-Weiß-Fernseher. Der Empfang ist recht gut, wenn man bedenkt, daß er ohne Antenne in einem Innenraum steht.}
-{48800}{}{Bildschirm}
+{48800}{}{Monitor}
 {48801}{}{Ein großer Schwarz-Weiß-Fernseher. Die Figur in einer Robe betet mit fieberhafter Geschwindigkeit religiöse Dogmen herunter.}
 {48900}{}{Kraftfeld}
 {48901}{}{Dies ist ein mächtiges Energiefeld.}
@@ -972,11 +972,11 @@
 {50901}{}{Der eingefallene Teil des Dachs hat diesen Schutthaufen gebildet. Dein Seil führt zurück zur Oberfläche.}
 {51000}{}{Felsen}
 {51001}{}{fgfgfg}
-{51100}{}{UNUSED.}
-{51200}{}{UNUSED.}
-{51300}{}{UNUSED.}
-{51400}{}{UNUSED.}
-{51500}{}{UNUSED.}
+{51100}{}{UNUSED}
+{51200}{}{UNUSED}
+{51300}{}{UNUSED}
+{51400}{}{UNUSED}
+{51500}{}{UNUSED}
 {51600}{}{Tisch}
 {51601}{}{Der große Tisch sieht wichtig aus. Vielleicht werden hier Sitzungen abgehalten?}
 {51700}{}{Tisch}
@@ -1247,9 +1247,9 @@
 {65301}{}{Dieses Tor besitzt einen Balken, der sich hebt und senkt.}
 {65400}{}{Rohr}
 {65500}{}{Rohr}
-{65600}{}{Stromgenerator}
-{65601}{}{Ein Stromgenerator vom Typ Wattz ElectroBox. Ziemlich typisch für Notstromaggregate vor dem Krieg.}
-{65700}{}{Tank}
+{65600}{}{Stromaggregat}
+{65601}{}{Ein Wattz ElectroBox Generator. Standart-Stromaggregat vor dem Krieg.}
+{65700}{}{Panzer}
 {65701}{}{Eine großer Wassertank. Sieht gut erhalten aus, was wahrscheinlich positiv ist.}
 {65800}{}{Notrufsäule}
 {65801}{}{Eine Notrufsäule aus Großbritannien, ca. 1960.}
@@ -1315,17 +1315,17 @@
 {68901}{}{Ein große Felsformation. Sie kann unmöglich auf natürliche Weise entstanden sein.}
 {69000}{}{Toilette}
 {69001}{}{Eine klobige, aber effektive Toilette. Einige Blätter sind in das Loch gefallen und halten so den Gestank im Zaum.}
-{69100}{}{Berg}
+{69100}{}{Im Ödland}
 {69101}{}{Diese Bergwände sehen wenig zugänglich aus.}
-{69200}{}{Berg}
+{69200}{}{Im Ödland}
 {69201}{}{Diese Bergwände sehen wenig zugänglich aus.}
-{69300}{}{Berg}
+{69300}{}{Im Ödland}
 {69301}{}{Diese Bergwände sehen wenig zugänglich aus.}
-{69400}{}{Berg}
+{69400}{}{Im Ödland}
 {69401}{}{Diese Bergwände sehen wenig zugänglich aus.}
-{69500}{}{Berg}
+{69500}{}{Im Ödland}
 {69501}{}{Diese Bergwände sehen wenig zugänglich aus.}
-{69600}{}{Berg}
+{69600}{}{Im Ödland}
 {69601}{}{Diese Bergwände sehen wenig zugänglich aus.}
 {69700}{}{Glibber}
 {69701}{}{Du siehst seltsamen, giftigen biologischen Glibber.}
@@ -1463,10 +1463,8 @@
 {76301}{}{Da so viel Glibber auf den Bildschirm gespritzt ist, kannst du nichts auf dem Monitor lesen.}
 {76400}{}{Monitore}
 {76401}{}{Da so viel Glibber auf den Bildschirm gespritzt ist, kannst du nichts auf dem Monitor lesen.}
-{76500}{}{Belüftung}
-{76501}{}{Ein Lüftungsschacht, verteilt die Luft behutsam im gesamten Komplex.}
-{76600}{}{Belüftung}
-{76601}{}{Ein Lüftungsschacht, verteilt die Luft behutsam im gesamten Komplex.}
+{76500}{}{UNUSED ART}
+{76600}{}{UNUSED ART}
 {76700}{}{Boden}
 {76800}{}{Bombe}
 {76801}{}{Dies ist eine Atombombe. Sie sieht hier ziemlich gefährlich aus, wie sie so daliegt.}
@@ -1516,13 +1514,13 @@
 {79001}{}{Diese Monitore sind kaputt und können nicht funktionieren.}
 {79100}{}{Monitore}
 {79101}{}{Diese Monitore sind kaputt und können nicht funktionieren.}
-{79200}{}{Belüftung}
+{79200}{}{Lüftungsgitter}
 {79201}{}{Aus diesem Luftauslass kommt nur wenig Frischluft.}
-{79300}{}{Belüftung}
+{79300}{}{Lüftungsgitter}
 {79301}{}{Aus diesem Luftauslass kommt fast keine Frischluft.}
-{79400}{}{Belüftung}
+{79400}{}{Lüftungsgitter}
 {79401}{}{Aus diesem Luftauslass kommt keine Frischluft.}
-{79500}{}{Belüftung}
+{79500}{}{Lüftungsgitter}
 {79501}{}{Aus diesem Luftauslass kommt nur ganz wenig Frischluft.}
 {79600}{}{Tisch}
 {79601}{}{An diesem Tisch gibt es nichts Ungewöhnliches, außer, daß er fast völlig zerstört ist.}
@@ -1536,9 +1534,9 @@
 {80001}{}{Die Bildschirme in dieser Monitorreihe wurden zerstört.}
 {80100}{}{Monitore}
 {80101}{}{Die Bildschirme in dieser Monitorreihe wurden irreparabel beschädigt.}
-{80200}{}{Bildschirm}
+{80200}{}{Monitor}
 {80201}{}{Der Bildschirm ist gesprungen und kaputt.}
-{80300}{}{Bildschirm}
+{80300}{}{Monitor}
 {80301}{}{Mit einer kaputten Röhre ist der Monitor wertlos.}
 {80400}{}{Computer}
 {80401}{}{Dieser Computer ist kaputt.}
@@ -1554,27 +1552,27 @@
 {80901}{}{Dieser Stuhl ist ruiniert.}
 {81000}{}{Stuhl}
 {81001}{}{Dieser Stuhl ist ruiniert.}
-{81100}{}{Ventilation}
+{81100}{}{Lüftungsgitter}
 {81101}{}{Diese Belüftung ist irreparabel beschädigt.}
-{81200}{}{Ventilation}
+{81200}{}{Lüftungsgitter}
 {81201}{}{Diese Belüftung ist schwer beschädigt und nicht zu reparieren.}
-{81300}{}{Ventilation}
+{81300}{}{Lüftungsgitter}
 {81301}{}{Diese Belüftung funktioniert überhaupt nicht.}
 {81400}{}{Computer}
 {81401}{}{Dieser Computer sieht aus, als ob er kaum noch funktionieren würde.}
 {81500}{}{Computer}
 {81501}{}{Dieser Computer sieht aus, als ob er kaum noch funktionieren würde.}
-{81600}{}{Bildschirm}
+{81600}{}{Monitor}
 {81601}{}{Der Monitor funktioniert kaum noch.}
-{81700}{}{Bildschirm}
+{81700}{}{Monitor}
 {81701}{}{Der Monitor funktioniert kaum noch.}
 {81800}{}{Computer}
 {81801}{}{Der Computer funktioniert nicht.}
 {81900}{}{Computer}
 {81901}{}{Der Computer funktioniert nicht.}
-{82000}{}{Bildschirm}
+{82000}{}{Monitor}
 {82001}{}{Der Monitor funktioniert nicht.}
-{82100}{}{Bildschirm}
+{82100}{}{Monitor}
 {82101}{}{Der Monitor funktioniert nicht.}
 {82200}{}{Türöffnung}
 {82201}{}{Das sieht wie eine nette Türöffnung aus. Sie erfüllt ihre Aufgabe, die Tür zu halten, sehr gut.}
@@ -1585,20 +1583,20 @@
 {82500}{}{Wand}
 {82600}{}{Banktür}
 {82601}{}{Eine sehr solide Tresortür. Die Tür sieht sehr sicher aus.}
-{82700}{}{Leuchte}
+{82700}{}{Leicht}
 {82701}{}{Eine Sicherheitsleuchte.}
-{82800}{}{Leuchte}
+{82800}{}{Leicht}
 {82801}{}{Eine Sicherheitsleuchte.}
 {82900}{}{Pfeiler}
 {82901}{}{Pfeiler.}
 {83000}{}{Ladestation für Roboter}
-{83001}{}{Dies ist eine Ladestation für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
+{83001}{}{Dies ist eine Ladegerät für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
 {83100}{}{Ladestation für Roboter}
-{83101}{}{Dies ist eine Ladestation für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
+{83101}{}{Dies ist eine Ladegerät für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
 {83200}{}{Ladestation für Roboter}
-{83201}{}{Dies ist eine Ladestation für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
+{83201}{}{Dies ist eine Ladegerät für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
 {83300}{}{Ladestation für Roboter}
-{83301}{}{Dies ist eine Ladestation für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
+{83301}{}{Dies ist eine Ladegerät für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
 {83400}{}{Ladestation für Roboter}
 {83401}{}{Dies ist eine Ladegerät für Roboter. Wenn sie keinen Dienst haben, schließen sich die Roboter hier zum Aufladen an.}
 {83500}{}{Maschine}
@@ -1710,7 +1708,7 @@
 {90100}{}{Aufzugsschacht}
 {90101}{}{In dem Schacht hängt ein Seil von oben herab.}
 {90200}{}{Aufzugsschacht}
-{90201}{}{In dem Schacht hängt ein Seil vom Rand herab.}
+{90201}{}{Ein Seil hängt vom Rand des Schachtes herunter.}
 {90300}{}{Krankenbett}
 {90301}{}{In diesem Bett gibt es eine eingebaute Anzeige, die den Gesundheitszustand des Patienten anzeigt.}
 {90400}{}{Wasserpumpe}
@@ -1719,9 +1717,9 @@
 {90501}{}{In diesem Bett gibt es eine eingebaute Anzeige, die den Gesundheitszustand des Patienten anzeigt.}
 {90600}{}{Powerrüstungsteile}
 {90601}{}{Dies sind Teile einer Powerrüstung.}
-{90700}{}{Leuchte}
+{90700}{}{Leicht}
 {90701}{}{Diese Sicherheitsleuchte blinkt momentan grellrot.}
-{90800}{}{Leuchte}
+{90800}{}{Leicht}
 {90801}{}{Diese Sicherheitsleuchte blinkt momentan grellrot.}
 {90900}{}{Symbol}
 {91000}{}{Symbol}
@@ -2036,20 +2034,20 @@
 {116801}{}{Eine nicht funktionierende Maschine.}
 {116900}{}{Tür}
 {117000}{}{Tür}
-{117100}{}{rostige Rohre}
+{117100}{}{vor sich hin rostende Rohre}
 {117101}{}{Ein paar alte rostende Rohre.}
-{117200}{}{Tank}
-{117300}{}{Tanks}
-{117400}{}{Tanks}
-{117500}{}{Tanks}
-{117600}{}{Luftabsaugung}
-{117700}{}{Luftabsaugung}
+{117200}{}{Panzer}
+{117300}{}{Tanke}
+{117400}{}{Tanke}
+{117500}{}{Tanke}
+{117600}{}{Lüftungsgitter}
+{117700}{}{Lüftungsgitter}
 {117800}{}{Schild der Kneipe "Die Harfe"}
 {117900}{}{Sägebock}
 {118000}{}{Sägebock}
 {118100}{}{Sägebock}
-{118200}{}{Lüftungsschlitze}
-{118300}{}{Lüftungsschlitze}
+{118200}{}{Lüftungsgitter}
+{118300}{}{Lüftungsgitter}
 {118400}{}{Maschinensaalschild}
 {118500}{}{Schild "Büro des Geschäftsführers"}
 {118600}{}{Versorgungsraumschild}
@@ -2057,7 +2055,7 @@
 {118800}{}{Dampf}
 {118900}{}{Maschine}
 {118901}{}{Ausrüstungsteil für das Atomkraftwerk.}
-{119000}{}{Tank}
+{119000}{}{Panzer}
 {119100}{}{Feuer}
 {119200}{}{Wasser}
 {119300}{}{Schild "Trapperstadt"}
@@ -2260,7 +2258,7 @@
 {136701}{}{Diese seltsame Kanone sieht aus wie ein Überbleibsel aus der Vorkriegszeit. Du fragst dich, wie sie hierher kommt.}
 {136800}{}{Tempel}
 {136900}{}{Tempel}
-{137000}{}{Berg}
+{137000}{}{Im Ödland}
 {137100}{}{Höhle}
 {137200}{}{Türenspur}
 {137300}{}{Fackel}
@@ -2271,7 +2269,7 @@
 {137501}{}{Eine brennende Fackel in einer Wandhalterung.}
 {137600}{}{Fackel}
 {137601}{}{Eine brennende Fackel in einer Wandhalterung.}
-{137700}{}{Verti-Bird}
+{137700}{}{Vertibird}
 {137701}{}{Ein großes Militärflugzeug.}
 {137800}{}{Zerstörte Tür}
 {137801}{}{Die Trümmer blockieren den Eingang vollständig.}
@@ -2283,7 +2281,7 @@
 {138300}{}{Wand}
 {138400}{}{Wand}
 {138500}{}{Wand}
-{138600}{}{Licht}
+{138600}{}{Leicht}
 {138700}{}{Tür}
 {138800}{}{Tür}
 {138900}{}{Tür}
@@ -2416,8 +2414,8 @@
 {151300}{}{Wand}
 {151400}{}{Wand}
 {151500}{}{Wand}
-{151600}{}{Holzvertäfelung}
-{151700}{}{Holzvertäfelung}
+{151600}{}{Holzverkleidung}
+{151700}{}{Holzverkleidung}
 {151800}{}{Rohr}
 {151900}{}{Rohr}
 {152000}{}{Rohr}
@@ -2478,8 +2476,8 @@
 {157400}{}{Tür}
 {157500}{}{Tür}
 {157600}{}{Tür}
-{157700}{}{Ventilation}
-{157800}{}{Autodoc}
+{157700}{}{Lüftungsgitter}
+{157800}{}{Auto-Doc}
 {157801}{}{Dieser Autodoc ist für die Heilung von Krankheiten und Verabreichung verschiedener Medikamente entwickelt worden.}
 {157900}{}{Statue}
 {157901}{}{Kleine Statue des berühmten Vaultbewohners.}
@@ -2597,21 +2595,21 @@
 {168500}{}{Minenaufzug}
 {168600}{}{Minenaufzug}
 {168700}{}{Minenaufzug}
-{168800}{}{Verti-Bird}
-{168900}{}{Verti-Bird}
-{169000}{}{Verti-Bird}
-{169100}{}{Verti-Bird}
-{169200}{}{Verti-Bird}
+{168800}{}{Vertibird}
+{168900}{}{Vertibird}
+{169000}{}{Vertibird}
+{169100}{}{Vertibird}
+{169200}{}{Vertibird}
 {169300}{}{Schatten}
 {169400}{}{Schatten}
 {169500}{}{Schatten}
 {169600}{}{Schatten}
-{169700}{}{Abgestürzter Vertibird}
-{169800}{}{Abgestürzter Vertibird}
-{169900}{}{Abgestürzter Vertibird}
-{170000}{}{Abgestürzter Vertibird}
-{170100}{}{Abgestürzter Vertibird}
-{170200}{}{Abgestürzter Vertibird}
+{169700}{}{Strange machine, crashed}
+{169800}{}{Strange machine, crashed}
+{169900}{}{Strange machine, crashed}
+{170000}{}{Strange machine, crashed}
+{170100}{}{Strange machine, crashed}
+{170200}{}{Strange machine, crashed}
 {170300}{}{Schatten}
 {170400}{}{Schatten}
 {170500}{}{Schatten}
@@ -2630,14 +2628,15 @@
 {171600}{}{Wand}
 {171700}{}{Wand}
 {171800}{}{Wand}
-{171900}{}{Ventilation}
-{172000}{}{Ventilation}
+{171900}{}{Lüftungsgitter}
+{172000}{}{Lüftungsgitter}
 {172100}{}{Kugelsicheres Glas}
 {172200}{}{Kugelsicheres Glas}
 {172300}{}{Kugelsicheres Glas}
 {172400}{}{Schwerer Lasergeschützturm}
 {172401}{}{Der Turm dreht sich auf bedrohliche Art.}
 {172500}{}{Schwerer Lasergeschützturm}
+{172501}{}{Der Turm dreht sich auf bedrohliche Art.}
 {172600}{}{Felsen}
 {172700}{}{Felsen}
 {172800}{}{Felsen}
@@ -2662,7 +2661,7 @@
 {174700}{}{Ventilator}
 {174800}{}{Tür zum Büro des Präsidenten}
 {174900}{}{Augentabelle}
-{175000}{}{Ruinen}
+{175000}{}{Ruins}
 {175100}{}{Wächter der Ewigkeit}
 {175200}{}{Schild "Außer Betrieb"}
 {175300}{}{Eingebrochener Boden}
@@ -2775,9 +2774,9 @@
 {185000}{}{Sichtblenden}
 {185100}{}{Dampf}
 {185200}{}{altes Motorrad}
-{185201}{}{Altes Vorkriegsmotorrad. Es fährt nirgendwo mehr hin.}
+{185201}{}{An old pre-war motorcycle. It doesn't run anymore.}
 {185300}{}{Wassertank}
-{185301}{}{Metallturm der Trinkwasser speichert}
+{185301}{}{A metal tower which holds drinkable water.}
 {185400}{}{Mom's Waisenhaus-Schild}
 {185500}{}{Ventilator}
 {185600}{}{gesundaussehenden Baum}
@@ -2788,65 +2787,65 @@
 {186100}{}{gesundaussehenden Busch}
 {186200}{}{Pflanze}
 {186201}{}{Eine mutierte Maispflanze. Sie scheint unter diesen Begebenheiten zu wachsen. Diese hat eine ganz andere Farbe als Andere die du bisher gesehen hast.}
-{186300}{}{Fruchtbare Erde}
-{186400}{}{Fruchtbare Erde}
-{186500}{}{Fruchtbare Erde}
-{186600}{}{Thron}
-{186601}{}{Thron für einen Anführer oder Kommandanten}
-{186700}{}{Thron}
-{186701}{}{Thron für einen Anführer oder Kommandanten}
+{186300}{}{Dünge Erde}
+{186400}{}{Dünge Erde}
+{186500}{}{Dünge Erde}
+{186600}{}{USED ART}
+{186601}{}{}
+{186700}{}{USED ART}
+{186701}{}{A throne for a leader or commander.}
 {186800}{}{Luftschacht}
-{186801}{}{kreisrunden Luftschacht der in die unterirdische Anlage führt}
+{186801}{}{A circular air vent to an underground facility.}
 {186900}{}{Seil}
-{186901}{}{Seil welches zu einem höheren Lüftungsschacht führt}
-{187000}{}{Luftverarbeitungsschacht}
-{187001}{}{Lüftungsöffnung welches zur Filterung der Luft im Untergrund dient}
-{187100}{}{Lüftungsöffnung}
-{187101}{}{Lüftungsöffnung welches zur Aufbereitung der Luft dient.}
+{186901}{}{A rope leading to an overhead air vent.}
+{187000}{}{Lüftungsgitter}
+{187001}{}{A vent used to filter air underground.}
+{187100}{}{Lüftungsgitter}
+{187101}{}{A vent used to purify air.}
 {187200}{}{Brahminzeichen}
-{187201}{}{Schild welches Instruktionen gibt}
+{187201}{}{A sign giving instructions.}
 {187300}{}{Brahminzeichen}
-{187301}{}{Warnschild}
+{187301}{}{A sign giving a warning.}
 {187400}{}{Fertigungsmaschine}
-{187401}{}{Maschine mit der du deine eigenen chemischen Präparate erstellen kannst}
+{187401}{}{A machine with which you can make your own drugs.}
 {187500}{}{Chemikalien}
-{187501}{}{Übelriechende gallerartige Chemikalien}
+{187501}{}{Foul smelling gelatinous chemicals.}
 {187600}{}{Chemikalien}
-{187601}{}{Übelriechende gallerartige Chemikalien}
+{187601}{}{Foul smelling gelatinous chemicals.}
 {187700}{}{Chemikalien	}
-{187701}{}{Übelriechende gallerartige Chemikalien}
+{187701}{}{Foul smelling gelatinous chemicals.}
 {187800}{}{Chemikalien	}
-{187801}{}{Übelriechende gallerartige Chemikalien}
+{187801}{}{Foul smelling gelatinous chemicals.}
 {187900}{}{Seil}
-{187901}{}{Seil welches auf eine nichtbegehbare Zone hinweist}
+{187901}{}{Rope to signify a non-walking area.}
 {188000}{}{Seil}
-{188001}{}{Seil welches den Zugang zu bestimmten Zonen verhindert}
+{188001}{}{Rope preventing access to certain areas.}
 {188100}{}{Galleriebild}
-{188101}{}{Bild welches die Mona Lisa darstellt}
+{188101}{}{A picture depicting The Mona Lisa.}
 {188200}{}{Galleriebild}
-{188201}{}{Bild welches den ersten Mondgang darstellt}
+{188201}{}{A picture depicting the first moon walk.}
 {188300}{}{Fertigungsmaschine}
-{188301}{}{Maschine mit der du deine eigenen chemischen Präparate erstellen kannst}
+{188301}{}{A machine with which you can make your own drugs.}
 {188400}{}{Dünge Erde}
-{188401}{}{Erde bereit bepflanzt zu werden.}
+{188401}{}{Ground ready for planting.}
 {188500}{}{Dünge Erde}
-{188501}{}{Erde bereit bepflanzt zu werden.}
+{188501}{}{Ground ready for planting.}
 {188600}{}{Parkschild}
-{188601}{}{Schild welches Parkplätze zuweist}
+{188601}{}{A sign designating areas to park.}
 {188700}{}{Aufzug}
-{188701}{}{Einen Aufzug um von einem Stockwerk ins Nächste zu gelangen}
+{188701}{}{An elevator to travel to another floor.}
 {188800}{}{Kryokammer- Kontrollcomputer}
-{188801}{}{Computer der die Kryokammern kontrolliert}
+{188801}{}{Computer controlling the hibernation vats.}
 {188900}{}{Gruppe von Fässern}
-{188901}{}{Fässer die verschiedene Chemikalien enthalten}
+{188901}{}{Barrels storing various chemicals.}
 {189000}{}{brennendes Fass}
-{189001}{}{Offenbar sagt das Zeichen es sei entflammbar}
+{189001}{}{Apparently the sign says its flammable.}
 {189100}{}{Fass}
-{189101}{}{Fass gefüllt mit irgendeiner Flüssigkeit}
+{189101}{}{A barrel filled with some sort of liquid.}
 {189200}{}{Fass}
 {189201}{}{Fass gefüllt mit einer dicken,giftigen, roten Flüssigkeit}
 {189300}{}{Fass}
-{189301}{}{Fass mit einem Biogefährdungswarnzeichen}
+{189301}{}{A barrel with a biohazard warning label.}
 {189400}{}{Pflanze}
 {189401}{}{Diese Pflanze scheint eine Form von Beeren zu tragen}
 {189500}{}{Baum}
@@ -2858,8 +2857,8 @@
 {189801}{}{Standard HD2000 Hologrammprojektor}
 {189900}{}{Hologrammprojektor}
 {189901}{}{Standard HD2000 Hologrammprojektor}
-{190000}{}{Hologrammprojektor}
-{190001}{}{Standard HD2000 Hologrammprojektor}
+{190000}{}{Schatten}
+{190001}{}{}
 {190100}{}{Vertibird}
 {190200}{}{Kryogene Schlafkammer}
 {190201}{}{Kryogene Schlafkammer welches Platz für einen Menschen bietet. Diese ist offen}
@@ -2924,7 +2923,7 @@
 {193601}{}{Im Schacht hängt ein zerstörter Lift und ein Seil.}
 {193700}{}{Aufzugsschacht}
 {193701}{}{Im Schacht fehlt die Aufzugskabine. Gefahr!}
-{193800}{}{rostende Rohre}
+{193800}{}{vor sich hin rostende Rohre}
 {193801}{}{Ein paar alte verrostete Rohre.}
 {193900}{}{Stromaggregat}
 {193901}{}{Ein Wattz ElectroBox Generator. Standart-Stromaggregat vor dem Krieg.}
@@ -2945,16 +2944,16 @@
 {194700}{}{Monitor}
 {194701}{}{Ein großer Monitor, nur Schwarzweiss. Auf dem siehst du einen würdigen, aber einfältig schauenden Mann, der weitschweifig herumfaselt.}
 {194800}{}{Monitor}
-{194801}{}{Ein großer Monitor, nur Schwarzweiss. Die Abbildung zeigt rotierende Kreuze und Kreise.}
+{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Schatten}
 {195200}{}{Schatten}
-{195300}{}{Große klebrige mechanische Pumpe}
-{195301}{}{Du siehst eine große mechanische Pumpe, die von unbekannter widerlicher biologischer Schmiere bedeckt wird.}
+{195300}{}{große klebrige mechanische Pumpe}
+{195301}{}{Du siehst eine große mechanische Pumpe, bedeckt von fremder widerlicher biologischer Schmiere.}
 {195400}{}{Gitterrost}
 {195401}{}{verrostetes Fußbodengitter.}
-{195500}{}{große mechanische Pumpe}
+{195500}{}{Große mechanische Pumpe}
 {195501}{}{Eine große mechanische Pumpe die aus einem Bodengitter herausragt.}
 {195600}{}{große klebrige mechanische Pumpe}
 {195601}{}{Du siehst eine große mechanische Pumpe, bedeckt von fremder widerlicher biologischer Schmiere.}
@@ -2975,13 +2974,13 @@
 {196401}{}{Ein alter Gummireifen. Zerschmolzen und verhärtet, vermutlich wegen der Hitze.}
 {196500}{}{Große Turbine}
 {196501}{}{Eine große rotierende Turbine}
-{196600}{}{Belüftung}
+{196600}{}{Lüftungsgitter}
 {196601}{}{Ein Lüftungsschacht, führt dem gesamten Komplex gereinigte und aufbereitete Luft zu.}
-{196700}{}{Belüftung}
+{196700}{}{Lüftungsgitter}
 {196701}{}{Ein Lüftungsschacht, führt dem gesamten Komplex gereinigte und aufbereitete Luft zu.}
 {196800}{}{Lüftungsgitter}
 {196900}{}{Lüftungsgitter}
-{197000}{}{Rostige Belüftungsöffnung}
+{197000}{}{Eingerostete Belüftungsöffnung}
 {197001}{}{Diese Lüftungsgitter ist festgerostet.}
 {197100}{}{Eingerostete Belüftungsöffnung}
 {197101}{}{Diese Lüftungsgitter ist festgerostet.}
@@ -3004,7 +3003,7 @@
 {198201}{}{Typische kleine Treppe.}
 {198300}{}{Schmale verrostete Treppen}
 {198301}{}{Diese Treppe rostet vor sich hin.}
-{198400}{}{Blockierter Ventilator}
+{198400}{}{blockierten Ventilator}
 {198401}{}{Ein Stück Metall verklemmt diesen Ventilator.}
 {198500}{}{Lüftungsgitter}
 {198501}{}{Standard Vault-Tec Ventilationssystem.}
@@ -3104,7 +3103,7 @@
 {205201}{}{Ein schöner handgefertigter Topf.}
 {205300}{}{Lüftungsgitter}
 {205400}{}{Lüftungsgitter}
-{205500}{}{Vault-Außentür}
+{205500}{}{Vault Außentür}
 {205501}{}{Diese große Tür ist die Verbindung zwischen der Vault und der Außenwelt.}
 {205600}{}{verrostete Vault-Außentür}
 {205601}{}{Diese große rostige Tür ist die Verbindung zwischen der Vault und der Außenwelt.}
@@ -3114,7 +3113,7 @@
 {205801}{}{Der Mechanismus zum Bewegen der schweren Vault-Tür ist irreparabel zerstört.}
 {205900}{}{verrostete Vault-Außentür}
 {205901}{}{Der Türmechanismus wurde blockiert.}
-{206000}{}{Vault-Außentür}
+{206000}{}{Vault Außentür}
 {206001}{}{Diese große Tür ist die Verbindung zwischen der Vault und der Außenwelt.}
 {206100}{}{Topf}
 {206101}{}{Ein schöner handgefertigter Topf.}
@@ -3149,9 +3148,9 @@
 {207701}{}{Eine Abbildung der NCR-Fahne.}
 {207800}{}{NCR Bild}
 {207801}{}{Eine Abbildung der NCR-Fahne.}
-{207900}{}{Berg}
+{207900}{}{Im Ödland}
 {207901}{}{Diese Bergwände sehen wenig zugänglich aus.}
-{208000}{}{Berg}
+{208000}{}{Im Ödland}
 {208001}{}{Diese Bergwände sehen wenig zugänglich aus.}
 {208100}{}{Bild}
 {208200}{}{Bild}
@@ -3183,15 +3182,15 @@
 {210400}{}{Türsteuerungscomputer}
 {210401}{}{Dieser Computer steuert die große Vault-Tür. Du mußt einen Zugangscode eingeben, damit er deine Befehle akzeptiert.}
 {210500}{}{rostiges Boot}
-{210501}{}{Dieses Boot sieht kaum seetauglich aus.}
+{210501}{}{Das Boot sieht kaum seetauglich aus.}
 {210600}{}{rostiges Boot}
-{210601}{}{Dieses Boot sieht kaum seetauglich aus.}
+{210601}{}{Das Boot sieht kaum seetauglich aus.}
 {210700}{}{Hafenpoller}
 {210701}{}{Ein Tauwerk führt vom Hafenpoller zum Boot.}
 {210800}{}{Hafenpoller}
 {210801}{}{Ein Tauwerk führt vom Hafenpoller zum Boot.}
 {210900}{}{verrostete U-Boot-Luke}
-{210901}{}{Mit etwas Einsatz könnte man die Luke öffnen.}
+{210901}{}{Mit etwas mehr Einsatz könnte man die Luke öffnen.}
 {211000}{}{rostenden U-Boot Turm}
 {211001}{}{Der Zahn der Zeit und Salzwasser zerstören langsam dieses U-Boot.}
 {211100}{}{rostenden U-Boot Turm}
@@ -3242,21 +3241,27 @@
 {214000}{}{trübes Meer}
 {214100}{}{rostenden Rumpf}
 {214200}{}{Torpedoabschussanlage}
+{214201}{}{These metal tubes are made up of a considerable number of interlocks. It looks like they're still in working condition.}
 {214300}{}{rostenden Rumpf}
 {214301}{}{rostenden Rumpf}
 {214400}{}{rostenden Rumpf}
 {214500}{}{rostenden Rumpf}
 {214600}{}{rostenden Rumpf}
 {214700}{}{Torpedos}
+{214701}{}{Torpedos}
 {214800}{}{Torpedos}
+{214801}{}{Torpedos}
 {214900}{}{Torpedos}
+{214901}{}{Torpedos}
 {215000}{}{rostenden Rumpf}
 {215100}{}{rostenden Rumpf}
 {215200}{}{rostenden Rumpf}
 {215300}{}{verrostete Maschinen}
 {215400}{}{verrostete Maschinen}
 {215500}{}{Torpedos}
+{215501}{}{Torpedos}
 {215600}{}{Torpedos}
+{215601}{}{Torpedos}
 {215700}{}{verrostete Maschinen}
 {215800}{}{rostenden Rumpf}
 {215900}{}{verrostete Maschinen}
@@ -3299,3 +3304,169 @@
 {219900}{}{Ventilator}
 {220000}{}{blockierten Ventilator}
 {220100}{}{rostige Stahlschiene}
+{220200}{}{Schild}
+{220201}{}{Auf dem Schild steht: Gemischtwaren.}
+{220300}{}{Abgenutzte Wolldecke}
+{220301}{}{Ein einfacher Teppich. Der Weber war offensichtlich sehr talentiert.}
+{220400}{}{Glowing Bones}
+{220401}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
+{220500}{}{Glowing Bones}
+{220501}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
+{220600}{}{Glowing Bones}
+{220601}{}{A very large pile of glowing bones. You cannot determine the species of the dead critters.}
+{220700}{}{Glowing Bones}
+{220701}{}{You think these might be Horned Kangaroo bones, but you cannot be sure. They are glowing and too weathered to make a final determination.}
+{220800}{}{Glowing Bones}
+{220801}{}{You see the bones of a large, glowing two-headed cow.}
+{220900}{}{Einsturz}
+{220901}{}{A large amount of glowing rocks, far more than could ever be moved easily.}
+{221000}{}{Glowing Metal Cover}
+{221001}{}{A heavy glowing man-hole cover. It looks like it is in good shape, and that it was recently moved.}
+{221100}{}{Glowing Sewer Hole}
+{221101}{}{It looks like an access hole for the sewer system. It's glowing green!}
+{221200}{}{Glowing Stalagmite}
+{221201}{}{A natural extension of the rock floor. This one's glowing green!}
+{221300}{}{Glowing Stalagmite}
+{221301}{}{A natural extension of the rock floor. This one's glowing green!}
+{221400}{}{Glowing Rock Column}
+{221401}{}{This thick column of rock extends from floor to ceiling. It's glowing!}
+{221500}{}{Glowing Rock Column}
+{221501}{}{This thin column of rock extends from floor to ceiling. It's glowing!}
+{221600}{}{Glowing Cave Wall}
+{221700}{}{Glowing Cave Wall}
+{221800}{}{Glowing Cave Wall}
+{221900}{}{Glowing Cave Wall}
+{222000}{}{Glowing Cave Wall}
+{222100}{}{Glowing Cave Wall}
+{222200}{}{Glowing Cave Wall}
+{222300}{}{Glowing Cave Wall}
+{222400}{}{Glowing Cave Wall}
+{222500}{}{Glowing Cave Wall}
+{222600}{}{Glowing Cave Wall}
+{222700}{}{Glowing Cave Wall}
+{222800}{}{Glowing Cave Wall}
+{222900}{}{Glowing Cave Wall}
+{223000}{}{Glowing Cave Wall}
+{223100}{}{Glowing Rocks}
+{223101}{}{A pile of glowing rocks. Not very interesting.}
+{223200}{}{Glowing Rocks}
+{223201}{}{A pile of glowing rocks. Not very interesting.}
+{223300}{}{Glowing Rocks}
+{223301}{}{A small pile of glowing rocks. Not in the least bit interesting to you.}
+{223400}{}{Glowing Rocks}
+{223401}{}{A very small pile of glowing rocks.}
+{223500}{}{Glowing Rocks}
+{223501}{}{A very small pile of glowing rocks.}
+{223600}{}{Glowing Rocks}
+{223601}{}{A very small pile of glowing rocks.}
+{223700}{}{Glowing Rocks}
+{223701}{}{A very small pile of glowing rocks.}
+{223800}{}{Glowing Rocks}
+{223801}{}{A pile of glowing rocks. Not very interesting.}
+{223900}{}{Glowing Egg Shell}
+{223901}{}{Pieces of a broken egg shell. It glows!}
+{224000}{}{Glowing Egg Shell}
+{224001}{}{Pieces of a broken egg shell. It glows!}
+{224100}{}{Glowing Egg Shell}
+{224101}{}{Pieces of a broken egg shell. It glows!}
+{224200}{}{Glowing Egg Shell}
+{224201}{}{Pieces of a broken egg shell. It glows!}
+{224300}{}{Small glowing rocks}
+{224301}{}{Scattered small glowing rocks.}
+{224400}{}{Small glowing rocks}
+{224401}{}{Scattered small glowing rocks.}
+{224500}{}{Small glowing rocks}
+{224501}{}{Scattered small glowing rocks.}
+{224600}{}{Glowing Egg Shell}
+{224601}{}{Pieces of a broken egg shell. It glows!}
+{224700}{}{Glowing Wood Planks}
+{224701}{}{Diese dicken Holzplanken sind fest zusammengebunden.}
+{224800}{}{Glowing Wood Planks}
+{224801}{}{Diese dicken Holzplanken sind fest zusammengebunden.}
+{224900}{}{Leiter}
+{224901}{}{It's an old, glowing, fairly rickety ladder. It looks like it will barely support your weight.}
+{225000}{}{Leiter}
+{225001}{}{Ein künstliches Loch, in dem eine Leiter nach unten führt.}
+{225100}{}{Glowing Rocks}
+{225101}{}{You study the glowing rocks for a while, but they never move.}
+{225200}{}{Glowing Rocks}
+{225201}{}{You keep a close eye on these glowing rocks, in case they move to attack you.}
+{225300}{}{Glowing Rocks}
+{225301}{}{A large pile of glowing rocks. They look radioactive.}
+{225400}{}{Glowing Rocks}
+{225401}{}{A small pile of glowing rocks.}
+{225500}{}{Glowing Rocks}
+{225501}{}{A small pile of glowing rocks.}
+{225600}{}{Glowing Rocks}
+{225601}{}{A large pile of glowing rocks.}
+{225700}{}{Glowing Rocks}
+{225701}{}{A very large pile of glowing rocks. They look dangerous just sitting there.}
+{225800}{}{Glowing Rocks}
+{225801}{}{A large pile of glowing rocks. If you look closely, you can see the faces of little old men in the sides of the stones.}
+{225900}{}{Glowing Rocks}
+{225901}{}{Rocks, rocks, rocks! Everywhere you look, glowing rocks!}
+{226000}{}{Glowing Rocks}
+{226001}{}{A small pile of glowing rocks.}
+{226100}{}{Glowing Rocks}
+{226200}{}{Glowing Rocks}
+{226300}{}{Glowing Rocks}
+{226400}{}{Glowing Rocks}
+{226500}{}{Glowing Rocks}
+{226600}{}{Glowing Rocks}
+{226700}{}{Glowing Rocks}
+{226800}{}{Glowing Wall}
+{226900}{}{Glowing Wall}
+{227000}{}{Glowing Wall}
+{227100}{}{Glowing Wall}
+{227200}{}{Glowing Wall}
+{227300}{}{Glowing Wall}
+{227400}{}{Glowing Drain}
+{227401}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluß empor. Nach einigen Augenblicken riecht es nicht mehr so übel.}
+{227500}{}{Glowing Drain}
+{227501}{}{You can barely make out some movement behind the grate covering this drain. You can see small green glowing eyes peering back at you. Rat eyes.}
+{227600}{}{Glowing Drain}
+{227601}{}{Gurgelnde Wassergeräusche kommen aus dem Abfluß. Und ein abscheulicher Geruch.}
+{227700}{}{Glowing Drain}
+{227701}{}{Gurgelnde Wassergeräusche kommen von jenseits des Abflusses. Und ein abscheulicher Geruch.}
+{227800}{}{Grimy Bed}
+{227801}{}{Nach näherer Betrachtung stellst du fest, daß die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
+{227900}{}{Grimy Bed}
+{227901}{}{Nach näherer Betrachtung stellst du fest, daß die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
+{228000}{}{Grimy Bed}
+{228001}{}{Nach näherer Betrachtung stellst du fest, daß die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
+{228100}{}{Glas}
+{228101}{}{This glass is difficult to see through.}
+{228200}{}{Glas}
+{228201}{}{This glass is difficult to see through.}
+{228300}{}{Glas}
+{228301}{}{This glass is difficult to see through.}
+{228400}{}{Glas}
+{228401}{}{This glass is barely transparent.}
+{228500}{}{Glas}
+{228501}{}{This glass is barely transparent.}
+{228600}{}{Glas}
+{228601}{}{This glass is barely transparent.}
+{228700}{}{Metalltür}
+{228701}{}{A sturdy metal door.}
+{228800}{}{Metalltür}
+{228801}{}{A sturdy metal door.}
+{228900}{}{Guards Shack}
+{228901}{}{A run down guards shack.}
+{229000}{}{Guards Shack}
+{229001}{}{A run down guards shack.}
+{229100}{}{Green Bubbling Liquid}
+{229101}{}{Green bubbling liquid. It smells strange.}
+{229200}{}{Heavy Laser Tower}
+{229201}{}{The laser turret rests on this concrete tower.}
+{229300}{}{Schwerer Lasergeschützturm}
+{229301}{}{Der Turm dreht sich auf bedrohliche Art.}
+{229400}{}{Heavy Laser Tower}
+{229401}{}{The laser turret rests on this concrete tower.}
+{229500}{}{Schwerer Lasergeschützturm}
+{229501}{}{Der Turm dreht sich auf bedrohliche Art.}
+{229800}{}{Film Poster}
+{229801}{}{An old tatered film poster. "Hobo With a Shotgun".}
+{229900}{}{An odd looking creature}
+{229901}{}{A dead body with plant growth wrapped around it.}
+{230000}{}{An odd looking creature}
+{230001}{}{A dead body with plant growth wrapped around it.}

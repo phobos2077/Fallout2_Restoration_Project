@@ -1,22 +1,15 @@
-# 0. QUICK LOOK
 {100}{}{Du siehst einen Söldnerhauptmann.}
-
-# 0. LOOK
 {150}{}{Du siehst einen finsteren Mann in einer Kampfrüstung. Seine Rüstung und seine Waffen sind tadellos, sehen fast neu aus.}
 {151}{}{Du siehst einen Söldnerhauptmann. Er beobachtet die Umgebung genau und spielt mit seiner Waffe.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{Jetzt guck dir die Chuzpe von diesem Idioten an...}
 {201}{}{Kontakt!}
 {202}{}{Hier ist ein Eindringling, Jungs!}
 {203}{}{Bewegt euch Jungs, hier ist ein Eindringling!}
 {204}{}{Tja, wer hat denn da reingeschaut, um zu sterben...}
 {205}{}{Verdammt! Jemand hat uns entdeckt!}
-{206}{}{Hier ist eine Störung...}
+{206}{}{Du hast echt Nerven, hier einzudringen...}
 {207}{}{Du bist hier am *falschen* Ort, Miststück.}
-{208}{}{Schau dir dieses angeberische Miststück an...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{208}{}{Schaut mal wie die Schlampe hier rumstolziert...}
 {215}{}{Wir sollten schnellstens diese Killer-Kommandos rufen...}
 {216}{}{Das Bravo-Team ist gerade ein paar Kilometer südlich von Vault City...Die verfolgen immer noch die Karawane.}
 {217}{}{Dieser Wüstenneuling sollte sich besser schnell wieder einkriegen... so was läuft hier einfach nicht.}

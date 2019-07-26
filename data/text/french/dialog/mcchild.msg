@@ -1,106 +1,78 @@
-#############################################################
-#  Message File: mcChild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Un petit garçon.}
 {101}{}{Une petite fille.}
-
 {120}{}{Un petit garçon. Il a l'air malicieux.}
 {121}{}{Une petite fille. Elle a l'air malicieuse.}
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
-{150}{}{Ne me mangez pas !}
-{151}{}{Hiiiiii ! Le vilain monstre !}
-{152}{}{Papa dit que vous êtes méchant.}
-{153}{}{Aiiiii ! Allez sauve-toi !}
-{154}{}{Vous me faites peur.}
-{155}{}{Arrêtez de me regarder.}
-{156}{}{On m'a interdit de parler aux tribals.}
+{150}{}{Ne me mange pas !}
+{151}{}{Ahhhh ! Un ogre !}
+{152}{}{Papa dit que tu es un méchant.}
+{153}{}{Pchit ! Va-t'en !}
+{154}{}{Tu me fais peur.}
+{155}{}{Arrête de me regarder.}
+{156}{}{Je n'ai pas le droit de parler aux tribals.}
 {157}{}{Grosse andouille.}
-{158}{}{Ma maman dit que vous me mangerez si je ne suis pas sage.}
-{159}{}{J'ai pas peur de vous !}
-{160}{}{Aidez-moi !}
-{161}{}{Il me court après !}
-{162}{}{S'il vous plaît ne me faites pas de mal !}
-{163}{}{N'approchez pas de moi.}
-{164}{}{Hiiiiiiiiiiiiiii !}
-{165}{}{Je vous déteste !}
+{158}{}{Ma maman a dit que tu me mangeras si je ne suis pas sage.}
+{159}{}{Je n'ai pas peur de toi.}
+{160}{}{A l'aiiiiiiide !}
+{161}{}{Il veut m'attraper.}
+{162}{}{Ne me fais pas mal.}
+{163}{}{Ne t'approche pas de moi.}
+{164}{}{Ahhhhhhhh !}
+{165}{}{Je te déteste.}
 {166}{}{Maman maman maman !}
-{167}{}{Laissez-moi tranquille !}
+{167}{}{Laisse-moi tranquille.}
 {168}{}{Tu pues !}
-
-{170}{}{Salut.}
-{171}{}{Vous voulez jouer avec moi ?}
-{172}{}{C'est vrai que vous vous mettez un os dans le nez ?}
-{173}{}{Pourquoi avez-vous l'air si bizarre ?}
-{174}{}{Ma maman dit que vous êtes un primitif.}
-{175}{}{Votre tribu mange-t-elle encore des gens ?}
-{176}{}{Qui c'est qui vous habille aussi bizarrement ?}
-{177}{}{Je parie que vous êtes plus sympa que vous en avez l'air.}
-{178}{}{Jouons au chat. C'est toi le chat.}
-{179}{}{Vous ne sentez pas si mauvais que ça.}
-{180}{}{Est-ce que vous avez vu mon copain invisible ?}
-{181}{}{Quand je serai grand comme vous je voyagerai dans le monde entier.}
-{182}{}{Vous êtes un gentil tribal, pas comme les autres.}
+{170}{}{Salut tout le monde !}
+{171}{}{Tu veux jouer au papa et à la maman ?}
+{172}{}{C'est vrai que tu te mets un os dans les narines ?}
+{173}{}{Pourquoi est-ce que tu as l'air bizarre ? }
+{174}{}{Ma maman a dit que tu étais un être primitif.}
+{175}{}{Est-ce que ta tribu mange toujours des gens ?}
+{176}{}{Qui t'a mis ces drôles d'habits ?}
+{177}{}{Je suis sûr que tu es plus gentil que tu en as l'air.}
+{178}{}{On joue à touche-touche. Touché.}
+{179}{}{Tu ne sens pas si mauvais que ça.}
+{180}{}{Tu as vu mon copain invisible ?}
+{181}{}{Quand j'aurai ton âge, je veux voyager dans le monde entier.}
+{182}{}{Tu es un gentil tribal, pas comme les autres.}
 {183}{}{Je parie que ça vous arrive de vous laver.}
-{184}{}{Vous êtes plus intelligent que Torr.}
-{185}{}{Est-ce que votre lame là elle est si tranchante que ça ?}
-
-{186}{}{Quand je serai grand, je veux être exactement comme vous.}
+{184}{}{Tu es plus intelligent que Torr.}
+{185}{}{Cette épée que tu as, est-elle vraiment tranchante ?}
+{186}{}{Quand je serai grand, je veux être comme toi.}
 {187}{}{Mon chien adore la viande séchée.}
-{188}{}{J'ai trouvé un galet qui brille.}
-{189}{}{Est-ce que vous avez vu mon copain invisible ?}
-
-{190}{}{Est-ce que je peux faire partie de votre tribu ?}
-{191}{}{Vous êtes sympa.}
-{192}{}{Vous avez l'air drôle.}
-{193}{}{Qu'est-ce que vous portez ?}
+{188}{}{J'ai un caillou brillant.}
+{189}{}{Tu as vu mon copain invisible ?}
+{190}{}{Est-ce que je peux venir dans votre tribu ?}
+{191}{}{Tu es gentil.}
+{192}{}{Tu as un drôle d'air. }
+{193}{}{Qu'est-ce que tu portes ?}
 {194}{}{Je veux faire un tour de Brahmine !}
-{195}{}{Vous venez de loin ?}
+{195}{}{Est-ce que tu viens de loin ?}
 {196}{}{Wiiii ! Ha Ha Ha !}
-{197}{}{Ne partez pas !}
-{198}{}{Est-ce que vous avez à manger ?}
-{199}{}{Est-ce que je vous dérange ?}
-{200}{}{Où allez-vous ?}
-{201}{}{Je peux venir avec vous ?}
-{202}{}{Quel âge avez-vous ?}
-{203}{}{Comment vous vous appelez ?}
-{204}{}{Vous aimez les enfants ?}
+{197}{}{Ne pars pas !}
+{198}{}{Tu as de la nourriture ?}
+{199}{}{Est-ce que je te dérange ?}
+{200}{}{Où vas-tu ?}
+{201}{}{Est-ce que je peux venir avec toi ?}
+{202}{}{Quel âge as-tu ?}
+{203}{}{Comment t'appelles-tu ?}
+{204}{}{Tu aimes les enfants ?}
 {205}{}{Qu'est-ce que c'est ?}
-{206}{}{On joue à un jeu ?}
-{207}{}{Qu'est-ce que vous faites ?}
-{208}{}{Vous avez vu des bestioles ?}
-{209}{}{Où qu'c'est qu'vous avez trouvé ça ?}
-{210}{}{Est-ce que je peux le garder ?}
-{211}{}{Que faites-vous ?}
-{212}{}{Je peux courir vite. Vous voulez voir ?}
-{213}{}{Regardez-moi ! Regardez-moi !}
+{206}{}{Tu veux faire un jeu ?}
+{207}{}{Qu'est-ce que tu fais ?}
+{208}{}{Est-ce que tu as vu des Hommeinsectes ?}
+{209}{}{Où as-tu pris ça ? }
+{210}{}{Est-ce que je peux avoir ça ?}
+{211}{}{Que fais-tu ?}
+{212}{}{Je cours vite. Tu veux voir ?}
+{213}{}{Regarde-moi ! Regarde-moi !}
 {214}{}{Maman dit que je parle trop.}
-{215}{}{Où est votre maison ?}
-{216}{}{Hiiiii ! Hiiiii !}
-{217}{}{Vous allez rester ici ?}
-{218}{}{Vous avez des enfants ?}
-{219}{}{Pourquoi vous êtes ici ?}
-{220}{}{Je vous aime bien.}
-{221}{}{Est-ce que vous m'aimez bien ?}
-{222}{}{Est-ce que vous êtes marié ?}
+{215}{}{Où habites-tu ?}
+{216}{}{Youpi ! Youpi !}
+{217}{}{Est-ce que tu vas rester ici ?}
+{218}{}{Tu as des enfants ? }
+{219}{}{Pourquoi es-tu venu ici ?}
+{220}{}{Je t'aime bien. }
+{221}{}{Est-ce que tu m'aimes bien ?}
+{222}{}{Tu es marié ?}
 {223}{}{Un, deux, trois, Hiiii !}
-
 {300}{}{Inconnu !}

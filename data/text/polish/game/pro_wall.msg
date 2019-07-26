@@ -60,7 +60,7 @@
 {5800}{}{rura}
 {5900}{}{osprzêt}
 {5901}{}{}
-{6000}{}{rura}
+{6000}{}{rury}
 {6100}{}{rura}
 {6200}{}{rura}
 {6300}{}{rura}
@@ -125,7 +125,7 @@
 {12000}{}{drewniana œciana}
 {12100}{}{drewniana œciana}
 {12200}{}{drewniana œciana}
-{12300}{}{rama okienna}
+{12300}{}{okno}
 {12400}{}{drewniana œciana}
 {12500}{}{drewniana œciana}
 {12600}{}{drewniana œciana}
@@ -566,7 +566,7 @@
 {56100}{}{œciana}
 {56200}{}{przejœcie}
 {56300}{}{przejœcie}
-{56400}{}{rama okienna}
+{56400}{}{okno}
 {56500}{}{œciana}
 {56600}{}{œciana}
 {56700}{}{œciana}
@@ -586,7 +586,7 @@
 {58100}{}{œciana}
 {58200}{}{przejœcie}
 {58300}{}{przejœcie}
-{58400}{}{rama okienna}
+{58400}{}{okno}
 {58500}{}{œciana}
 {58600}{}{œciana}
 {58700}{}{œciana}
@@ -640,14 +640,14 @@
 {63500}{}{œciana}
 {63600}{}{œciana}
 {63700}{}{œciana}
-{63800}{}{rama okienna}
-{63900}{}{rama okienna}
-{64000}{}{rama okienna}
-{64100}{}{rama okienna}
-{64200}{}{rama okienna}
-{64300}{}{rama okienna}
-{64400}{}{rama okienna}
-{64500}{}{rama okienna}
+{63800}{}{okno}
+{63900}{}{okno}
+{64000}{}{okno}
+{64100}{}{okno}
+{64200}{}{okno}
+{64300}{}{okno}
+{64400}{}{okno}
+{64500}{}{okno}
 {64600}{}{œciana}
 {64700}{}{œciana}
 {64800}{}{œciana}
@@ -666,8 +666,8 @@
 {66100}{}{przejœcie}
 {66200}{}{przejœcie}
 {66300}{}{przejœcie}
-{66400}{}{rama okienna}
-{66500}{}{rama okienna}
+{66400}{}{okno}
+{66500}{}{okno}
 {66600}{}{œciana}
 {66700}{}{œciana}
 {66800}{}{œciana}
@@ -841,12 +841,12 @@
 {83600}{}{œciana}
 {83700}{}{œciana}
 {83800}{}{œciana}
-{83900}{}{rama okienna}
-{84000}{}{rama okienna}
-{84100}{}{rama okienna}
-{84200}{}{rama okienna}
+{83900}{}{okno}
+{84000}{}{okno}
+{84100}{}{okno}
+{84200}{}{okno}
 {84300}{}{œciana}
-{84400}{}{filar}
+{84400}{}{kolumna}
 {84500}{}{przejœcie}
 {84600}{}{przejœcie}
 {84700}{}{œciana}
@@ -1139,32 +1139,32 @@
 {113200}{}{przejœcie}
 {113300}{}{przejœcie}
 {113400}{}{przejœcie}
-{113500}{}{emiter pola si³owego}
-{113600}{}{emiter pola si³owego}
-{113700}{}{emiter pola si³owego}
-{113800}{}{emiter pola si³owego}
+{113500}{}{Emiter pola si³owego.}
+{113600}{}{Emiter pola si³owego.}
+{113700}{}{Emiter pola si³owego.}
+{113800}{}{Emiter pola si³owego.}
 {113900}{}{œciana}
 {114000}{}{œciana}
 {114100}{}{œciana}
 {114200}{}{œciana}
 {114300}{}{œciana}
-{114400}{}{zbiornik na wodê}
+{114400}{}{zbiornik z wod¹}
 {114401}{}{}
-{114500}{}{zbiornik na wodê}
+{114500}{}{zbiornik z wod¹}
 {114501}{}{}
-{114600}{}{zbiornik na wodê}
+{114600}{}{zbiornik z wod¹}
 {114601}{}{}
-{114700}{}{zbiornik na wodê}
+{114700}{}{zbiornik z wod¹}
 {114701}{}{}
-{114800}{}{zbiornik na wodê}
+{114800}{}{zbiornik z wod¹}
 {114801}{}{}
-{114900}{}{zbiornik na wodê}
+{114900}{}{zbiornik z wod¹}
 {114901}{}{}
-{115000}{}{zbiornik na wodê}
+{115000}{}{zbiornik z wod¹}
 {115001}{}{}
-{115100}{}{zbiornik na wodê}
-{115200}{}{zbiornik na wodê}
-{115300}{}{zbiornik na wodê}
+{115100}{}{zbiornik z wod¹}
+{115200}{}{zbiornik z wod¹}
+{115300}{}{zbiornik z wod¹}
 {115400}{}{œciana}
 {115500}{}{zniszczone wejœcie}
 {115600}{}{zniszczone wejœcie}
@@ -1536,39 +1536,39 @@
 {152200}{}{œciana}
 {152300}{}{œciana}
 {152400}{}{œciana}
-{152500}{}{wejœcie do kopalni}
-{152600}{}{wejœcie do kopalni}
+{152500}{}{Wejœcie do kopalni}
+{152600}{}{Wejœcie do kopalni}
 {152700}{}{przejœcie}
 {152800}{}{przejœcie}
 {152900}{}{przejœcie}
 {153000}{}{przejœcie}
-{153100}{}{œciana wahad³owca}
-{153200}{}{œciana wahad³owca}
-{153300}{}{œciana wahad³owca}
-{153400}{}{œciana wahad³owca}
-{153500}{}{œciana wahad³owca}
-{153600}{}{œciana wahad³owca}
-{153700}{}{œciana wahad³owca}
-{153800}{}{œciana wahad³owca}
-{153900}{}{œciana wahad³owca}
-{154000}{}{œciana wahad³owca}
-{154100}{}{œciana wahad³owca}
-{154200}{}{œciana wahad³owca}
-{154300}{}{œciana wahad³owca}
-{154400}{}{œciana wahad³owca}
-{154500}{}{œciana wahad³owca}
-{154600}{}{œciana wahad³owca}
-{154700}{}{œciana wahad³owca}
-{154800}{}{œciana wahad³owca}
-{154900}{}{œciana wahad³owca}
-{155000}{}{œciana wahad³owca}
-{155100}{}{œciana wahad³owca}
-{155200}{}{œciana wahad³owca}
-{155300}{}{emiter pola si³owego}
+{153100}{}{œciana}
+{153200}{}{œciana}
+{153300}{}{Kamienny filar.}
+{153400}{}{Kamienny filar.}
+{153500}{}{Kamienny filar.}
+{153600}{}{Kamienny filar.}
+{153700}{}{Kamienny filar.}
+{153800}{}{œciana}
+{153900}{}{œciana}
+{154000}{}{œciana}
+{154100}{}{œciana}
+{154200}{}{œciana}
+{154300}{}{œciana}
+{154400}{}{œciana}
+{154500}{}{œciana}
+{154600}{}{œciana}
+{154700}{}{œciana}
+{154800}{}{œciana}
+{154900}{}{œciana}
+{155000}{}{œciana}
+{155100}{}{œciana}
+{155200}{}{œciana promu}
+{155300}{}{Emiter pola si³owego.}
 {155400}{}{œciana}
 {155500}{}{œciana}
 {155600}{}{œciana}
-{155700}{}{emiter pola si³owego}
+{155700}{}{Emiter pola si³owego.}
 {155800}{}{przejœcie}
 {155900}{}{przejœcie}
 {156000}{}{przejœcie}
@@ -1586,16 +1586,16 @@
 {157200}{}{przejœcie}
 {157300}{}{przejœcie}
 {157400}{}{œciana}
-{157500}{}{emiter pola si³owego}
+{157500}{}{Emiter pola si³owego.}
 {157600}{}{œciana}
 {157700}{}{œciana}
-{157800}{}{emiter pola si³owego}
-{157900}{}{emiter pola si³owego}
-{158000}{}{emiter pola si³owego}
+{157800}{}{Emiter pola si³owego.}
+{157900}{}{Emiter pola si³owego.}
+{158000}{}{Emiter pola si³owego.}
 {158100}{}{œciana}
 {158200}{}{œciana}
-{158300}{}{emiter pola si³owego}
-{158400}{}{emiter pola si³owego}
+{158300}{}{Emiter pola si³owego.}
+{158400}{}{Emiter pola si³owego.}
 {158500}{}{œciana}
 {158600}{}{œciana}
 {158700}{}{przejœcie}
@@ -1645,7 +1645,6 @@
 {163100}{}{przejœcie}
 {163200}{}{przejœcie}
 {163300}{}{œciana}
-
 {163400}{}{œciana}
 {163500}{}{œciana}
 {163600}{}{œciana}
@@ -1766,7 +1765,7 @@
 {175300}{}{œciana}
 {175400}{}{œciana}
 {175500}{}{œciana}
-{175600}{}{Rura.}
+{175600}{}{rura}
 {175700}{}{œciana}
 {175800}{}{œciana}
 {175900}{}{œciana}
@@ -1897,8 +1896,8 @@
 {188400}{}{œwiec¹ca œciana jaskini}
 {188500}{}{œwiec¹ca œciana jaskini}
 {188600}{}{œwiec¹ca œciana jaskini}
-{188700}{}{wejœcie}
-{188800}{}{wejœcie}
+{188700}{}{przejœcie}
+{188800}{}{przejœcie}
 {188900}{}{œciana}
 {189000}{}{œciana}
 {189100}{}{œciana}
@@ -1950,8 +1949,8 @@
 {193700}{}{okno}
 {193800}{}{okno}
 {193900}{}{okno}
-{194000}{}{wejœcie}
-{194100}{}{wejœcie}
-{194200}{}{wejœcie}
-{194300}{}{wejœcie}
-{194400}{}{wejœcie}
+{194000}{}{przejœcie}
+{194100}{}{przejœcie}
+{194200}{}{przejœcie}
+{194300}{}{przejœcie}
+{194400}{}{przejœcie}

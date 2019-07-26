@@ -25,11 +25,11 @@
 {124}{}{W tej chwili, w niczym.}
 {125}{}{Przykro mi, ale tylko Obywatele s¹ upowa¿nieni do wejœcia do Krypty. Jestem pewien, ¿e rozumiesz.}
 {126}{}{Tylko Obywatele mog¹ wejœæ. OdejdŸ.}
-{127}{}{Okay.}
+{127}{}{Dobra.}
 {128}{}{Umgh}
 {129}{}{Oczywiœcie. Proszê wejœæ.}
-{130}{}{Dziêki!}
-{131}{}{Dziêkujê.}
+{130}{}{Dziêkowaæ!}
+{131}{}{Dziêki ci.}
 {132}{}{Tak? W czym mogê pomóc?}
 {133}{}{Chcê wejœæ do Krypty.}
 {134}{}{W niczym, przepraszam, ¿e przeszkadzam.}
@@ -37,7 +37,7 @@
 {136}{}{Ja *jestem* Obywatelem.}
 {137}{}{Wybacz... ale nie poznaje ciê. Moje rozkazy mówi¹ wyraŸnie ¿eby wpuszczaæ do Krypty, tylko Obywateli których znam. Byæ mo¿e Pierwszy Obywatel Lynette bêdzie mog³a ci pomóc. Do widzenia.}
 {138}{}{Witam Kapitanie. W czym mogê pomóc?}
-{139}{}{Och, dobrze.}
+{139}{}{Rozumiem.}
 {140}{}{Oczywiœcie. Tylko siê rozgl¹dam.}
 {141}{}{Umgh}
 {142}{}{Ta, jasne. Gadaj do rêki.}
@@ -47,9 +47,9 @@
 {146}{}{Ghul? Gdzie?}
 {147}{}{Mutant? Gdzie?}
 {148}{}{Jest ze mn¹.}
-{149}{}{Podró¿uje ze mn¹. Je¿eli jakiœ rasista ma z tym problem to mo¿emy to rozwi¹zaæ tu i teraz.}
+{149}{}{On podró¿uje ze mn¹. Je¿eli jakiœ rasista ma z tym problem to mo¿e powinniœmy go rozwi¹zaæ tu i teraz.}
 {150}{}{Je¿eli on jest z tob¹, to obaj powinniœcie wróciæ na Podmurze, a nie wychodziæ na ulice Kryptopolis.}
-{151}{}{W porz¹dku, odejdziemy spokojnie.}
+{151}{}{Dobra... odchodzimy.... spokojnie.}
 {152}{}{Czemu nie spróbujesz nas st¹d odeskortowaæ? Zapewniam ciê, to bêdzie pouczaj¹ce doœwiadczenie.}
 {153}{}{Jak ci obcy siê tu w ogóle dostali...?}
 {154}{}{To coœ, tam.}
@@ -64,7 +64,7 @@
 {163}{}{Hej! To tobie uda³o siê pokonaæ Enklawê!}
 {164}{}{Hej! Opowiedz nam o zniszczeniu Enklawy!}
 {165}{}{Witam w Kryptopolis.}
-{166}{}{Twoja wyprawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
+{166}{}{Twoja walka z Enklawa zrobi³a wra¿enie nawet na Pierwszym Obywatelu.}
 {167}{}{S³ysza³em, ¿e uda³o ci siê dotrzeæ a¿ do San Francisco. To prawda?}
 {168}{}{Czy to prawda, ¿e Stany Zjednoczone nadal toczy³y wojnê?}
 {169}{}{Ktoœ powinien spisaæ twoje podró¿e w komputerze Kryptopolis.}
@@ -75,4 +75,4 @@
 {174}{}{Witam, Kapitanie.}
 {175}{}{Kryptopolis ponad wszystkim, Obywatelu.}
 {176}{}{Obywatelu.}
-{177}{}{Witam, Obywatelu.}
+{177}{}{Witaj, Obywatelu.}

@@ -1,16 +1,9 @@
 {100}{}{Tu vois Frenchy.}
 {101}{}{Tu vois Paine.}
 {102}{}{Tu vois Sims.}
-
-# 0. MALE (WTG)
 {150}{}{Tu vois un homme vêtu de lambeaux. Il est blotti près du feu de la poubelle et il chante. Il a une très jolie voix.}
 {151}{}{Tu vois un chanteur. Il est blotti près du feu de la poubelle et il chante.}
-
-# 1. CLICK (WTG)
-{200}{}{Hé... }
-{1200}{}{ ! La star ! Que peut-on faire pour toi ? Peut-être te chanter quelque chose de spécial, hein ?}
-{1201}{}{. On peut t'aider ?}
-{1202}{}{. On peut faire quelq'chose pour toi ?}
+{200}{}{Hé, }
 {203}{}{T'as besoin de quelq'chose ?}
 {204}{}{::Enlève un chapeau imaginaire:: Besoin de quelq'chose, m'dame ?}
 {205}{}{Tu connais "le bateau qui vogue sur les flots" ?}
@@ -19,49 +12,35 @@
 {208}{}{Ce serait un honneur. Merci les gars.}
 {209}{}{Voici quelques dollars. Tu peux jouer autre chose.}
 {210}{}{Non, j'écoute juste, merci.}
-
-# 2. SURE (1)
 {300}{}{Bon, très bien... Vous avez entendu le m'sieur, les gars. Essayons quelq'chose d'autre.}
 {301}{}{Bon, très bien... Vous avez entendu la dame, les gars. Essayons quelq'chose d'autre.}
 {302}{}{Meeerci.}
 {303}{}{Merci les gars.}
-
-# 3. FLOAT (SONG] (WTG)
 {400}{}{Hoooo...}
 {402}{}{My baby ain't comin' home...}
 {405}{}{My baby done me wroooong...}
 {408}{}{My baby gone an' left me all aloooone...}
 {409}{}{}
-
-# 4. FLOAT (SONG] (WTG)
 {500}{}{Continue}
 {501}{}{Goûte à la souffrance.}
 {502}{}{Reviens un aut'jour.}
 {503}{}{}
-
-# 6. FLOAT (SONG] (WTG)
 {600}{}{ Des bouteilles de bière sur le mur...}
 {601}{}{ Des bouteilles de bière...}
 {602}{}{Prends-en une...}
 {603}{}{Fais-la passer...}
 {605}{}{}
-
-# 7. FLOAT (SONG] (WTG)
 {700}{}{Rame rame et rame...}
 {701}{}{Ton bateau...}
 {702}{}{Qui descend tranquillement la rivière...}
 {703}{}{Joyeusement...}
 {706}{}{La vie n'est pas un rêve...}
 {707}{}{}
-
-# 8. FLOAT (HERO SONG] (WTG)
 {800}{}{Nous n'avons pas besoin d'un autre héros...}
 {801}{}{Nous n'avons pas besoin de connaître le chemin de la maison...}
 {802}{}{Nous avons simplement besoin de ce qu'il y a au-delà...}
 {803}{}{Méthadone...}
 {804}{}{}
-
-# 5. FLOAT (SONG] (WTG)
 {900}{}{Donne-m'en...}
 {901}{}{Un baiser pour construire un rêve..}
 {902}{}{Et mon imagination...}
@@ -81,8 +60,11 @@
 {921}{}{Et mon imagination fera vivre ce moment...}
 {923}{}{Donne-moi ce que tu peux...}
 {925}{}{::Bouche en trompette::}
-{930}{}{Je serai... avec toiiiiiii...}
+{930}{}{I'll... be with yoooou}
 {933}{}{Hooooo...}
 {935}{}{Lèvres pour un instant...}
 {937}{}{Feront vivre ce moment...}
 {941}{}{}
+{1200}{}{ ! La star ! Que peut-on faire pour toi ? Peut-être te chanter quelque chose de spécial, hein ?}
+{1201}{}{. On peut t'aider ?}
+{1202}{}{. On peut faire quelq'chose pour toi ?}

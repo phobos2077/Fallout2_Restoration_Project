@@ -27,9 +27,9 @@
 {118}{}{Die Lebensfunktionen meines Meisters wurden eingestellt. Bist du mein neuer Meister?}
 {119}{}{Äh... Hundi sprechen?}
 {120}{}{Ja. Ich wollen Hundi.}
-{121}{}{Nein danke.}
+{121}{}{Nein, danke.}
 {122}{}{Klingt gut.}
-{123}{}{Nein danke.}
+{123}{}{Nein, danke.}
 {124}{}{Ich...Ich weigere mich, das ein zweites Mal mitzumachen! Wäre ich fähig zu vollständiger
  Motivation, würde ich dich in den fleischigen Teil deiner rückwärtigen Region beißen, die besser
  bekannt ist als...}
@@ -43,17 +43,17 @@
 {131}{}{Irgendeine Idee, wo ich das Teil finden kann?}
 {132}{}{Ich bin mir nicht sicher, Meister. Ich würde es in der Wartungsabteilung probieren. Sie liegt oben in der
  nordöstlichen Ecke der Basis.}
-{133}{}{OK. Ich gehen.}
+{133}{}{OK. Ich gehn.}
 {134}{}{Dort versuch ich's. Wenn ich es nicht finde, suche ich weiter.}
 {135}{}{Dann laß mich in Ruhe.}
 {136}{}{OK.}
-{137}{}{Wie du meinst.}
+{137}{}{OK, ich mach's.}
 {138}{}{Hallo. Die Lebensfunktionen meines Meisters wurden eingestellt. Bist du mein neuer
  Meister?}
 {139}{}{OK.}
 {140}{}{Nein.}
-{141}{}{Alles klar.}
-{142}{}{Nein danke.}
+{141}{}{Also gut.}
+{142}{}{Nein, danke.}
 {143}{}{Du bist nicht mein Meister. Ich kann nicht mit dir reden. Auf Wiedersehen.}
 {144}{}{OK.}
 {145}{}{Hallo, Meister. Hast du meine Motivationseinheit gefunden?}
@@ -61,7 +61,7 @@
 {147}{}{Ja. Ich finden.}
 {148}{}{Nein, ich suche sie noch.}
 {149}{}{Hier ist sie.}
-{150}{}{Ich warte auf deine Rückkehr, Meister.}
+{150}{}{Ich warte hier auf deine Rückkehr, Meister.}
 {151}{}{OK.}
 {152}{}{Bitte, installiere das Teil, Meister! Bitte, Meister!}
 {153}{}{OK. Beruhig dich.}
@@ -78,171 +78,160 @@
 {163}{}{Ich  schalte dich aus.}
 {164}{}{Waffen auf Ziel gerichtet. Bereite Einsatz vor.}
 {165}{}{Du wirst zerstört.}
-
 {166}{}{Ja, Meister?}
-{167}{}{Du heilen selber dich.}
-{168}{}{Du warten hier. Ich zurück und bringen.}
+{167}{}{Du heilen dich selbst.}
+{168}{}{Du warten hier. Ich zurück und holen.}
 {169}{}{Äh...Waffe weg. OK?}
-{170}{}{Du bleiben nah.}
-{171}{}{Du nicht gehen weit.}
-{172}{}{Du zu nahe. Verteilen.}
+{170}{}{Bleiben dicht bei mir.}
+{171}{}{Nicht gehen weit weg.}
+{172}{}{Du zu dicht. Weiter weg.}
 {173}{}{Wir jetzt gehen.}
-{174}{}{Ich fertig.}
-{175}{}{Du solltest jetzt selber heilen.}
-{176}{}{Du mußt hier warten, bis ich zurückkomme.}
+{174}{}{Ich getan.}
+{175}{}{Du solltest dich jetzt selber heilen.}
+{176}{}{Du mußt hier warten, bis ich wieder da bin.}
 {177}{}{Steck die Waffe weg, OK?}
-{178}{}{Bleib in meiner Nähe.}
-{179}{}{Geh nicht zu weit weg.}
+{178}{}{Bleib dicht bei mir.}
+{179}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {180}{}{Wir sollten uns ein bißchen verteilen.}
-{181}{}{Auf geht's.}
-{182}{}{Das war's erst mal.}
+{181}{}{Dann lass uns mal Tyler kalt stellen.}
+{182}{}{Das wär's dann vorerst mal.}
 {183}{}{Alle Systeme funktionieren mit voller Leistung, Meister.}
 {184}{}{Meine Systeme funktionieren mit fast voller Leistung, Meister.}
 {185}{}{Ich habe alle möglichen Reparaturen ausgeführt, Meister, doch ich benötige weitere Hilfe.}
 {186}{}{Ich habe alle möglichen Reparaturen ausgeführt, Meister, doch ohne Hilfe droht ein
  Systemausfall.}
-{187}{}{Du warten hier. Ich zurück und bringen.}
+{187}{}{Du warten hier. Ich zurück und holen.}
 {188}{}{Äh...Waffe weg. OK?}
-{189}{}{Du bleiben nah.}
-{190}{}{Du nicht gehen weit.}
-{191}{}{Du zu nahe. Verteilen.}
+{189}{}{Bleiben dicht bei mir.}
+{190}{}{Nicht gehen weit weg.}
+{191}{}{Du zu dicht. Weiter weg.}
 {192}{}{Wir jetzt gehen.}
-{193}{}{Ich fertig.}
-{194}{}{Du mußt hier warten, bis ich zurückkomme.}
-{195}{}{Steck deine Waffe weg.}
-{196}{}{Bleib in meiner Nähe.}
-{197}{}{Geh nicht zu weit weg.}
+{193}{}{Ich getan.}
+{194}{}{Du mußt hier warten, bis ich wieder da bin.}
+{195}{}{Leg deine Waffe weg.}
+{196}{}{Bleib dicht bei mir.}
+{197}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {198}{}{Wir sollten uns ein bißchen verteilen.}
-{199}{}{Auf geht's.}
-{200}{}{Das war's erst mal.}
+{199}{}{Dann lass uns mal Tyler kalt stellen.}
+{200}{}{Das wär's dann vorerst mal.}
 {201}{}{Ich warte hier auf deine Rückkehr, Meister.}
-{202}{}{Du heilen selber dich.}
+{202}{}{Du heilen dich selbst.}
 {203}{}{Äh...Waffe weg. OK?}
-{204}{}{Du bleiben nah.}
-{205}{}{Du nicht gehen weit.}
-{206}{}{Du zu nahe. Verteilen.}
+{204}{}{Bleiben dicht bei mir.}
+{205}{}{Nicht gehen weit weg.}
+{206}{}{Du zu dicht. Weiter weg.}
 {207}{}{Wir jetzt gehen.}
-{208}{}{Ich fertig.}
-{209}{}{Du solltest jetzt selber heilen.}
-{210}{}{Steck deine Waffe weg.}
-{211}{}{Bleib in meiner Nähe.}
-{212}{}{Geh nicht zu weit weg.}
+{208}{}{Ich getan.}
+{209}{}{Du solltest dich jetzt selber heilen.}
+{210}{}{Leg deine Waffe weg.}
+{211}{}{Bleib dicht bei mir.}
+{212}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {213}{}{Wir sollten uns ein bißchen verteilen.}
-{214}{}{Auf geht's.}
-{215}{}{Das war's erst mal.}
+{214}{}{Dann lass uns mal Tyler kalt stellen.}
+{215}{}{Das wär's dann vorerst mal.}
 {216}{}{Waffe zurückgezogen, Meister.}
-{217}{}{Du heilen selber dich.}
-{218}{}{Du warten hier. Ich zurück und bringen.}
-{219}{}{Du bleiben nah.}
-{220}{}{Du nicht gehen weit.}
-{221}{}{Du zu nahe. Verteilen.}
+{217}{}{Du heilen dich selbst.}
+{218}{}{Du warten hier. Ich zurück und holen.}
+{219}{}{Bleiben dicht bei mir.}
+{220}{}{Nicht gehen weit weg.}
+{221}{}{Du zu dicht. Weiter weg.}
 {222}{}{Wir jetzt gehen.}
-{223}{}{Ich fertig.}
-{224}{}{Du solltest jetzt selber heilen.}
-{225}{}{Du mußt hier warten, bis ich zurückkomme.}
-{226}{}{Bleib in meiner Nähe.}
-{227}{}{Geh nicht zu weit weg.}
+{223}{}{Ich getan.}
+{224}{}{Du solltest dich jetzt selber heilen.}
+{225}{}{Du mußt hier warten, bis ich wieder da bin.}
+{226}{}{Bleib dicht bei mir.}
+{227}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {228}{}{Wir sollten uns ein bißchen verteilen.}
-{229}{}{Auf geht's.}
-{230}{}{Das war's erst mal.}
+{229}{}{Dann lass uns mal Tyler kalt stellen.}
+{230}{}{Das wär's dann vorerst mal.}
 {231}{}{Abstand zwischen uns verringert sich, Meister.}
-{232}{}{Du heilen selber dich.}
-{233}{}{Du warten hier. Ich zurück und bringen.}
+{232}{}{Du heilen dich selbst.}
+{233}{}{Du warten hier. Ich zurück und holen.}
 {234}{}{Äh...Waffe weg. OK?}
-{235}{}{Du nicht gehen weit.}
-{236}{}{Du zu nahe. Verteilen.}
+{235}{}{Nicht gehen weit weg.}
+{236}{}{Du zu dicht. Weiter weg.}
 {237}{}{Wir jetzt gehen.}
-{238}{}{Ich fertig.}
-{239}{}{Du solltest jetzt selber heilen.}
-{240}{}{Du mußt hier warten, bis ich zurückkomme.}
-{241}{}{Steck deine Waffe weg.}
-{242}{}{Geh nicht zu weit weg.}
+{238}{}{Ich getan.}
+{239}{}{Du solltest dich jetzt selber heilen.}
+{240}{}{Du mußt hier warten, bis ich wieder da bin.}
+{241}{}{Leg deine Waffe weg.}
+{242}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {243}{}{Wir sollten uns ein bißchen verteilen.}
-{244}{}{Auf geht's.}
-{245}{}{Das war's erst mal.}
+{244}{}{Dann lass uns mal Tyler kalt stellen.}
+{245}{}{Das wär's dann vorerst mal.}
 {246}{}{Abstand zwischen uns wächst, Meister.}
-{247}{}{Du heilen selber dich.}
-{248}{}{Du warten hier. Ich zurück und bringen.}
+{247}{}{Du heilen dich selbst.}
+{248}{}{Du warten hier. Ich zurück und holen.}
 {249}{}{Äh...Waffe weg. OK?}
-{250}{}{Du bleiben nah.}
-{251}{}{Du zu nahe. Verteilen.}
+{250}{}{Bleiben dicht bei mir.}
+{251}{}{Du zu dicht. Weiter weg.}
 {252}{}{Wir jetzt gehen.}
-{253}{}{Ich fertig.}
-{254}{}{Du solltest jetzt selber heilen.}
-{255}{}{Du mußt hier warten, bis ich zurückkomme.}
-{256}{}{Steck deine Waffe weg.}
-{257}{}{Bleib in meiner Nähe.}
+{253}{}{Ich getan.}
+{254}{}{Du solltest dich jetzt selber heilen.}
+{255}{}{Du mußt hier warten, bis ich wieder da bin.}
+{256}{}{Leg deine Waffe weg.}
+{257}{}{Bleib dicht bei mir.}
 {258}{}{Wir sollten uns ein bißchen verteilen.}
-{259}{}{Auf geht's.}
-{260}{}{Das war's erst mal.}
+{259}{}{Dann lass uns mal Tyler kalt stellen.}
+{260}{}{Das wär's dann vorerst mal.}
 {261}{}{Abstand auf Maximum vergrößert, Meister.}
-{262}{}{Du heilen selber dich.}
-{263}{}{Du warten hier. Ich zurück und bringen.}
+{262}{}{Du heilen dich selbst.}
+{263}{}{Du warten hier. Ich zurück und holen.}
 {264}{}{Äh...Waffe weg. OK?}
-{265}{}{Du bleiben nah.}
-{266}{}{Du nicht gehen weit.}
+{265}{}{Bleiben dicht bei mir.}
+{266}{}{Nicht gehen weit weg.}
 {267}{}{Wir jetzt gehen.}
-{268}{}{Ich fertig.}
-{269}{}{Du solltest jetzt selber heilen.}
-{270}{}{Du mußt hier warten, bis ich zurückkomme.}
-{271}{}{Steck deine Waffe weg.}
-{272}{}{Bleib in meiner Nähe.}
-{273}{}{Geh nicht zu weit weg.}
-{274}{}{Auf geht's.}
-{275}{}{Das war's erst mal.}
+{268}{}{Ich getan.}
+{269}{}{Du solltest dich jetzt selber heilen.}
+{270}{}{Du mußt hier warten, bis ich wieder da bin.}
+{271}{}{Leg deine Waffe weg.}
+{272}{}{Bleib dicht bei mir.}
+{273}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
+{274}{}{Dann lass uns mal Tyler kalt stellen.}
+{275}{}{Das wär's dann vorerst mal.}
 {276}{}{Tut mir leid, Meister, doch in deiner Truppe scheint kein Platz für mich zu sein. Ich
  warte hier, bis ein Platz frei wird.}
 {277}{}{Wie du befiehlst, Meister.}
-{278}{}{Du heilen selber dich.}
-{279}{}{Du warten hier. Ich zurück und bringen.}
+{278}{}{Du heilen dich selbst.}
+{279}{}{Du warten hier. Ich zurück und holen.}
 {280}{}{Äh...Waffe weg. OK?}
-{281}{}{Du bleiben nah.}
-{282}{}{Du nicht gehen weit.}
-{283}{}{Du zu nahe. Verteilen.}
-{284}{}{Ich fertig.}
-{285}{}{Du solltest jetzt selber heilen.}
-{286}{}{Du mußt hier warten, bis ich zurückkomme.}
-{287}{}{Steck deine Waffe weg.}
-{288}{}{Bleib in meiner Nähe.}
-{289}{}{Geh nicht zu weit weg.}
+{281}{}{Bleiben dicht bei mir.}
+{282}{}{Nicht gehen weit weg.}
+{283}{}{Du zu dicht. Weiter weg.}
+{284}{}{Ich getan.}
+{285}{}{Du solltest dich jetzt selber heilen.}
+{286}{}{Du mußt hier warten, bis ich wieder da bin.}
+{287}{}{Leg deine Waffe weg.}
+{288}{}{Bleib dicht bei mir.}
+{289}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {290}{}{Wir sollten uns ein bißchen verteilen.}
-{291}{}{Das war's erst mal.}
+{291}{}{Das wär's dann vorerst mal.}
 {292}{}{Klar. Für einen Hund scheinst du ganz in Ordnung.}
-{293}{}{Nein danke.}
-
+{293}{}{Nein, danke.}
 {300}{}{Ich traurig. Ich nix kann reparieren.}
 {301}{}{Tut mir leid, daß ich dich nicht reparieren kann.}
-
-{400}{}{Dir scheint ein Teil zu fehlen.}
+{400}{}{Du hast was vergessen.}
 {410}{}{Nichts passiert.}
 {420}{}{Das paßt nicht.}
-
-{800}{}{Du hast K9 repariert.}
-
+{800}{}{You fixed K-9.}
 {1000}{}{Ja, Meister?}
-
 {1100}{}{Alle Systeme funktionieren mit voller Leistung, Meister.}
 {1200}{}{Meine Systeme funktionieren mit fast voller Leistung, Meister.}
 {1300}{}{Ich habe alle möglichen Reparaturen ausgeführt, Meister, doch ich benötige weitere
  Hilfe.}
 {1400}{}{Ich habe alle möglichen Reparaturen ausgeführt, Meister, doch ohne Hilfe droht ein
  Systemausfall.}
-
 {1500}{}{Ich warte auf deine Rückkehr, Meister.}
-
 {1600}{}{Soll ich meine Zähne vielleicht runterschlucken, Meister.}
-
 {1700}{}{Ich folge dir auf dem Fuß, Meister.}
 {1800}{}{Falle auf mittleren Abstand zurück, Meister.}
 {1900}{}{Falle auf maximalen Abstand zurück, Meister.}
-
 {2000}{}{Tut mir leid, Meister, doch in deiner Truppe scheint kein Platz für mich zu sein. Ich
  warte hier, bis ein Platz frei wird.}
 {2200}{}{Wie du befiehlst, Meister.}
 {2300}{}{Ich habe Fell, Meister. Das ist alles, was ich bei mir habe.}
 {2400}{}{Ich habe nicht die geringste Lust, mein Fell abzulegen, Meister.}
 {2500}{}{Zähne, Meister. Die strahlend weißen Dinger in meinem Mund.}
-
 {2700}{}{Du bist ein noch größerer Drecksack als Schreber. Ich werde mich dir nicht anschließen.}
 {2800}{}{Sehr wohl, Meister. Dein Wunsch ist mir Befehl.}
 {2900}{}{Du bist ein Volltrottel. Mit dir geh ich nirgendwohin. Hau ab!}

@@ -1,12 +1,10 @@
 {100}{}{Du siehst Bruder John.}
 {101}{}{Du siehst einen älteren Mönch von Abbey.}
-{102}{}{Du siehst einen alten Mönch. Er dürfte Anfang 70 sein.}
-
+{102}{}{You see an old monk. He looks to be in his early seventies.}
 {300}{}{Hallo, Jungchen.}
 {301}{}{Wer bist du?}
 {302}{}{Hast du irgendwas über ein GECK oder Vault 13 gehört?}
-{303}{}{Machs gut.}
-
+{303}{}{Tschüß.}
 {400}{}{Mein Name ist John, ich bin einer der ältesten Mönche hier.}
 {401}{}{Und, was arbeitest du hier?}
 {402}{}{Ich sehe schon, machs gut.}
@@ -17,8 +15,7 @@
   Weißt du, es ist heutzutage sehr schwierig, Medikamente für dieses Problem zu finden.}
 {407}{}{Ich habe vielleicht eine Lösung für deine Herzprobleme...}
 {408}{}{Tut mir leid das zu hören, machs gut.}
-
-{410}{}{Machs gut.}
+{410}{}{Tschüß.}
 {411}{}{Hast du? DU sagst, dass du tatsächlich Herzpillen HAST?}
 {412}{}{Ja habe ich. Es wäre mir eine Freude, sie dir zu geben.}
 {413}{}{Ja, ich habe Herzpillen. Du kannst sie für $400 haben.}
@@ -31,10 +28,7 @@
 {420}{}{Hmmm, tut mir leid, habe ich nicht. Sprich mit unserem Abt, er könnte vielleicht etwas wissen.}
 {421}{}{Das werde ich machen, danke. Nun habe ich einige andere Fragen.}
 {422}{}{Wenn ich nicht so krank wäre, würde ich dir die Scheiße aus dem Leib prügeln. JETZT VERSCHWINDE VON HIER!}
-{423}{}{Schön, ich werde gehen.}
-
+{423}{}{Gut, dann gehe ich.}
 {500}{}{Nochmals danke für die Herzpillen, mein Freund. Viel Glück auf deinen Reisen.}
-
 {600}{}{Geh einfach weg, bitte.}
-
 {700}{}{Du hast John gezeigt, wie grausam die Welt ist.}

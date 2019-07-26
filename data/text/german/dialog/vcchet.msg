@@ -16,12 +16,12 @@
 {115}{}{Make me a slaver.}
 {116}{}{Make me a childkiller.}
 {117}{}{Nothing...just lower my karma by a 100.}
-{118}{}{Nevermind. I wanted something else...}
+{118}{}{Na, egal. Ich wollte was anderes...}
 {119}{}{Nope, nothing.}
-{120}{}{Who?}
+{120}{}{Wer?}
 {121}{}{Marcus.}
 {122}{}{Lenny.}
 {123}{}{Vic.}
 {124}{}{Myron.}
 {125}{}{Nobody. I have more needs.}
-{126}{}{Nevermind. Bye.}
+{126}{}{Schon gut. Tschüß.}

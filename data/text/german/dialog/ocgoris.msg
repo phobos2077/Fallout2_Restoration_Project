@@ -3,30 +3,30 @@
 {102}{}{Du siehst eine menschenähnliche Gestalt in einem langärmeligen Gewand mit Kapuze. Die
  Erscheinung hat etwas Unnatürliches, aber du bist dir nicht sicher, was es ist.}
 {103}{}{Hallo, ich bin Goris. Ich kenne dich nicht, bist du neu hier?}
-{104}{}{Ich } # 213
-{105}{}{Ich gehn.}
+{104}{}{Ich}
+{105}{}{Ich gehen.}
 {106}{}{Ja, na und?}
-{107}{}{Hi. Ich bin } # 214
+{107}{}{Hi. Ich bin }
 {108}{}{Hallo, Goris. Gruthar sagte, ich sollte dich aufsuchen. Er meint, du bist derjenige, der
  meine Fragen beantworten kann.}
 {109}{}{Kann ich dir einige Fragen stellen?}
 {110}{}{Tut mir leid, ich muß gehn.}
-{111}{}{Freut mich, dich kennenzulernen, } # 215
+{111}{}{Freut mich, dich kennenzulernen, }
 {112}{}{Du hast also mit Gruthar gesprochen. Er hat eine etwas zu hohe Meinung von mir. Ich weiß
  eigentlich nicht mal halb so viel wie er glaubt.}
 {113}{}{Du bist also ein Outsider! Ich hab schon einige wie dich gesehen. Einige sind hier in der
  Vault, aber du siehst anders aus. Du scheinst reifer zu sein, wenn du weißt, was ich meine.
  Ich wette, du bist schon länger unterwegs und hast einiges erledigt. Hab ich recht?}
 {114}{}{Äh... reif?}
-{115}{}{Ich gehn.}
+{115}{}{Ich gehen.}
 {116}{}{Tschuldigung, ich glaub, ich geh lieber.}
 {117}{}{Ja, ich hab schon einige Abenteuer erlebt. Wenn du mir einige Fragen beantwortest,
  erzähl ich dir ein paar davon.}
-{118}{}{Geht dich nichts an.}
+{118}{}{Geht dich nix an.}
 {119}{}{Darf ich dir ein paar Fragen stellen?}
 {120}{}{Das ist ein Deal. Ich würd gern alles hören, was du zu erzählen hast.}
 {121}{}{Außerdem könnte ich nie einen Freund von Gruthar abweisen.}
-{122}{}{Was möchtest du wissen?}
+{122}{}{Was möchtest du denn wissen?}
 {123}{}{Was tust du hier?}
 {124}{}{Bist du ein Gefangener?}
 {125}{}{Wie lange bist du schon hier?}
@@ -141,7 +141,7 @@
  können, sonst hättest du nicht bis jetzt in dieser Welt überlebt...es muß diese Fiesheit sein,
  die ich in dir sehe. OK. Tschüß.}
 {190}{}{Äh... OK.}
-{191}{}{Ich gehn.}                                 
+{191}{}{Ich gehen.}
 {192}{}{Tut mir leid, ich wollt mich nicht in deine privaten Angelegenheiten einmischen.}
 {193}{}{Ja, OK. Achte drauf, daß sowas nicht noch mal passiert!}
 {194}{}{Jaja. Ich brauch einige Informationen von dir.}
@@ -156,7 +156,7 @@
 {201}{}{Äh...nix verstehn. Jetzt gehn.}
 {202}{}{Ich dachte, ich schau mal kurz vorbei und sag Hallo. Bis später.}
 {203}{}{He, ich suche jemanden, der mich auf meiner Reise begleitet. Hast du Lust?}
-{204}{}{Was kann ich für dich tun, } # 216
+{204}{}{Was kann ich für dich tun, }
 {205}{}{Du böses Ding. Warum nix sagen?}
 {206}{}{Du bist eine Deathclaw? Gibt es einen Grund, warum du mir das nicht erzählt hast?}
 {207}{}{Wie soll ich sagen... Du nix reden mit böse Kreaturen, du töten. Ich nix sagen, so du
@@ -172,13 +172,10 @@
 {211}{}{Tut mir leid, aber ich mag es nicht, wenn man mich täuscht. Du solltest besser gehn.}
 {212}{}{Ich verstehe, warum du deine Identität verbergen wolltest. Ich glaube, daß wir
  zusammenarbeiten können, also bleib - aber versuch nie wieder, mich zu täuschen, Goris.}
-
-# the name usually precedes these lines
 {213}{}{. Ich neu hier.}
 {214}{}{. Ja, ich komme von außerhalb der Vault.}
 {215}{}{.}
 {216}{}{?}
-
 {217}{}{Also, die Enklave hat mit einem Virus oder so was ähnlichem experimentiert und hat die
  Deathclaws damit infiziert. Dieses Virus konnte Menschen in Supergeschöpfe verwandeln. Die
  Enklave wollte sehen, welche Auswirkungen es auf die Deathclaws hat. Das Ergebnis war eine
@@ -186,60 +183,53 @@
  würde. Also spielten sie die Dummen, bis sie eine Chance bekamen, in die Freiheit zu gelangen.
  Und hier sind sie nun!}
 {218}{}{Ich bin dagegen, Deathclaws anzugreifen.}
-
 {219}{}{Ich hab ganz plötzlich das Gefühl, daß mein Rudel Probleme hat. So leid es mir tut, ich muß weg, um nach meinen Brüdern zu sehen.}
-{220}{}{Okay.}
+{220}{}{OK.}
 {221}{}{Die Überwachungskameras haben alles mitgeschnitten. Sieh dir mal die Aufzeichnungen an.}
-
 {222}{}{Du siehst eine graue Deathclaw. Es ist Goris.}
 {223}{}{Du siehst eine menschenähnliche Gestalt in einem langärmeligen Gewand mit Kapuze. Das ist Goris.}
-
-#specific party messages
-{1064}{}{Bleiben dicht bei mir.}
-{1065}{}{Nicht gehen weit weg.}
-{1066}{}{Du zu dicht. Weiter weg.}
-{1073}{}{Bleib in meiner Nähe.}
-{1074}{}{Beweg dich nicht zu weit weg.}
-{1075}{}{Wir sollten uns ein bißchen verteilen.}
+{1000}{}{Ja,}
 {1001}{}{Du heilen dich selbst.}
 {1002}{}{Du warten hier. Ich zurück und holen.}
 {1003}{}{Äh...keine Waffen jetzt, OK?}
-{1167}{}{Ich denken, du müssen anders bewegen}
-{1167}{}{Ich denken, du müssen anders bewegen}
 {1008}{}{Du Todkralle? Warum nicht sagen?}
 {1009}{}{Ich getan.}
 {1010}{}{Du solltest dich jetzt selber heilen.}
-{1011}{}{Du mußt hier warten, bis ich zurück bin.}
+{1011}{}{Du mußt hier warten, bis ich wieder da bin.}
 {1012}{}{Keine Waffen im Anschlag, OK?}
-{1166}{}{Wir sollten unseren Abstand ändern.}
-{1016}{}{Gehn wir.}
+{1016}{}{Dann lass uns mal Tyler kalt stellen.}
 {1017}{}{Du bist eine Deathclaw? Gibt es einen Grund, warum du das nicht vorher gesagt hast?}
-{1018}{}{Das wär's erst mal.}
-{1000}{}{Ja,}
-{1156}{}{? }
+{1018}{}{Das wär's dann vorerst mal.}
 {1019}{}{Ich bin geheilt und bereit zu gehn,}
 {1020}{}{Ich bin fast geheilt,}
 {1021}{}{Ich bin fast geheilt, aber ich könnte noch Hilfe gebrauchen, wenn's irgendwie geht,}
 {1022}{}{Ich habe mich selbst geheilt, soweit es ging. Aber ich bin noch immer ziemlich verletzt,}
-{1157}{}{. }
 {1041}{}{Ich warte hier, bis du zurückkommst,}
 {1060}{}{Ich werde versuchen, harmlos auszusehen,}
+{1064}{}{Bleiben dicht bei mir.}
+{1065}{}{Nicht gehen weit weg.}
+{1066}{}{Du zu dicht. Weiter weg.}
+{1073}{}{Bleib dicht bei mir.}
+{1074}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
+{1075}{}{Wir sollten uns ein bißchen verteilen.}
+{1078}{}{Das wär's dann vorerst mal.}
 {1079}{}{Ich bleib so nah wie möglich bei dir,}
-{1078}{}{Das wär's erst mal.}
 {1098}{}{Ich entferne mich etwas, dann hast du mehr Luft,}
 {1117}{}{Ich bleib zurück und geb dir etwas mehr Freiraum,}
 {1136}{}{Tut mir leid,}
+{1137}{}{Ich habe viel durch unsere Reisen gelernt. Ich komme gern mit dir,}
+{1156}{}{? }
+{1157}{}{. }
 {1158}{}{, es sind im Moment zu viele Leute bei dir. Ich warte hier, bis ein Platz frei wird.}
 {1159}{}{Ich glaub, ich komm alleine besser klar.}
 {1160}{}{Leuten wie dir geh ich lieber aus dem Weg. Ich verdrück mich.}
-{1137}{}{Ich habe viel durch unsere Reisen gelernt. Ich komme gern mit dir,}
 {1161}{}{Ich hege den Wunsch, meine Brüder zu rächen.}
 {1162}{}{Also gut. Machen wir uns an die Arbeit.}
 {1163}{}{Da kümmerst du dich wohl lieber selber drum.}
 {1164}{}{Du recht. Wir töten.}
 {1165}{}{Ohne mich.}
-
-#added by killap - NPC info
+{1166}{}{Wir sollten unseren Abstand ändern.}
+{1167}{}{Ich denken, du müssen anders bewegen}
 {2000}{}{Ich glaube ich hab mir was gebrochen. Ich brauche ärztliche Hilfe.}
 {2001}{}{Ich glaube, ich habe eine Strahlenvergiftung. Hast du irgendetwas, um mir zu helfen?}
 {2002}{}{Ich glaub ich bin vergiftet. Hast du irgendetwas, um mir zu helfen?}

@@ -42,11 +42,11 @@
  Vault City, New Reno und in die New California Republic.}
 {134}{}{Es wird ja überallhin geschickt!}
 {135}{}{Warum hast du deine Mine Kokoweef genannt?}
-{136}{}{Laß mich dich noch etwas fragen.}
+{136}{}{Ich möcht dich noch was andres fragen.}
 {137}{}{Ach so. Danke; das ist alles, was ich im Moment wissen muß. Wiedersehn.}
 {138}{}{Klar. Jeder mag Gold. Du solltest mal mit dem Karawanen-Meister James Hoffy sprechen,
  wenn du wirklich daran interessiert bist.}
-{139}{}{Laß mich dich noch etwas fragen.}
+{139}{}{Ich möcht dich noch was andres fragen.}
 {140}{}{Danke, das werde ich tun. Wiedersehn.}
 {141}{}{Ein Garden-Eden-Creation-Kit, was? Der Name macht was her! Wenn ich sowas hätte,
  würde ich sicher nicht in der Erde herumbuddeln, um über die Runden zu kommen, oder?}
@@ -102,18 +102,18 @@
  sogar, daß die NCR uns annektieren will. Aber ich sage dir, die NCR wäre noch die beste Option,
  aber die wollen alle nur unser Gold. Bis jetzt ist Redding immer noch unabhängig.}
 {175}{}{Was ist mit den anderen Gerüchten?}
-{176}{}{Das ist wahrscheinlich alles, was ich im Augenblick wissen muß. Wiedersehn.}
+{176}{}{Ich glaube, das ist im Augenblick alles. Wiedersehn.}
 {177}{}{Ein Wanamingo ist einfach das allerekligste Geschöpf, das es gibt. Zwei Mann hoch,
  stärker als ein Brahminbulle und mit herumschlagenden Saugern anstatt Armen. Kann auch mit
  Gewehren nicht verwundet werden. Angeblich haben die Rothäute das Vieh heraufbeschworen, um sich
  am weißen Mann für den Krieg zu rächen. Da würde ich aber nicht zuviel drauf geben.}
 {178}{}{Was ist mit den anderen Gerüchten?}
-{179}{}{Das ist wahrscheinlich alles, was ich im Augenblick wissen muß. Wiedersehn.}
+{179}{}{Ich glaube, das ist im Augenblick alles. Wiedersehn.}
 {180}{}{Ach ja, ein paar gedopte Bergarbeiter sind vor einer Weile wohl selbst ein bißchen
  geflogen, auf Jet, wenn du verstehst, was ich meine. Die haben Stein auf Bein geschworen, sie
  hätten ein Schiff vorbeifliegen sehen, nach Südwesten.}
 {181}{}{Was ist mit den anderen Gerüchten?}
-{182}{}{Das ist wahrscheinlich alles, was ich im Augenblick wissen muß. Wiedersehn.}
+{182}{}{Ich glaube, das ist im Augenblick alles. Wiedersehn.}
 {183}{}{Tja, Dan und seine Morningstar-Jungs sind ja eher für diese New Reno-Spinner. Ich denke
  ja, daß Redding bald ein Teil der New California Republic sein wird.}
 {184}{}{Mir eigentlich egal. Erzähl mir was anderes.}

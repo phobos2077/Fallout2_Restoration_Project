@@ -6,7 +6,7 @@
 {105}{}{Ich werd's dir geben, bis aufs Blut. Wie? Hast du was gesagt?}
 {106}{}{Ay caramba! Nalgas con queso!}
 {107}{}{Wuh huh huh huh huh!}
-{108}{}{Bloﬂ weg hier.}
+{108}{}{Ich bin hier weg.}
 {109}{}{Ich kannte Big Jesus Mordino schon, als er noch Baby Jesus war.}
 {110}{}{Heilige Maria, Mutter Gottes!}
 {111}{}{Ich bin Produzent. Ich mache Spiele. Spiele machen Spaﬂ. Willst du nicht meine Spiele

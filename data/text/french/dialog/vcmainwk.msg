@@ -25,18 +25,18 @@
 {124}{}{Ouais ?!!}
 {125}{}{Bon, tu VOULAIS quelque chose, ou tu vas juste rester là à faire la potiche ?}
 {126}{}{Pooo-tich ?!}
-{127}{}{Dégage.}
+{127}{}{Dégage !}
 {128}{}{Oh, là, calmos. Je passais juste pour voir de quoi cet endroit avait l'air.}
 {129}{}{Fais gaffe. J'suis pas d'humeur à me laisser emmerder aujourd'hui.}
 {130}{}{Je cherchais l'Abri. Peux-tu me dire où il se trouve ?}
 {131}{}{En fait, j'allais justement partir.}
 {132}{}{C'est ce gros trou dans la montagne, à l'Est, derrière ces deux gardes armés jusqu'aux dents. Il y a autre chose que tu veux savoir ou je peux retourner bosser ?}
-{133}{}{Quel est cet endroit ?}
+{133}{}{Où suis-je ici ?}
 {134}{}{Fais gaffe. J'suis pas d'humeur à me laisser emmerder aujourd'hui.}
-{135}{}{Merci pour les indications. Salut.}
+{135}{}{Merci. Salut.}
 {136}{}{Comme si la Cité de l'Abri n'avait pas assez de Brahmines humaines... Ecoute, tu NE PEUX PAS RESTER LA, COMPRIS ? Tu pourrais te faire MAL ! ALLEZ, DEGAGE ! ALLEZ !!}
 {137}{}{[Sniff...] Toi pas yenti... [Sniff...] Moi va partir et pis faire la fête avec des clowns... [Sniff...] ... et pis la glassse... et le ggâteau... et pis moi invite pas michants côme TOI !}
-{138}{}{Dégage.}
+{138}{}{Dégage !}
 {139}{}{Fiche le camp d'ici, ou j'appelle les gardes pour te FAIRE dégager !}
 {140}{}{Essaie un peu. Ca va me plaire.}
 {141}{}{Bon, je m'en vais.}
@@ -52,12 +52,12 @@
 {151}{}{Ca a l'air dur, comme boulot. Je vais te laisser, là.}
 {152}{}{Là, j'ai ce tour métallique qui marche à peine, et ma clef qui a disparu... ENCORE... et les dents de mes tenailles qui sont émoussées.}
 {153}{}{Puis-je faire quelque chose pour toi ?}
-{154}{}{Pourquoi est-ce un problème de ne plus avoir d'outils ?}
+{154}{}{Pourquoi c'est un problème d'avoir plus d'outils ?}
 {155}{}{Bon, très bien. Bonne journée.}
 {156}{}{Toi ? Ca m'étonnerait.}
 {157}{}{Eh bien, j'ai justement une clef et une paire de tenailles sur moi.}
 {158}{}{Ca te dépannerait, une nouvelle clef et une paire de tenailles ?}
-{159}{}{Pourquoi est-ce un problème d'avoir plus d'outils ?}
+{159}{}{Pourquoi c'est un problème d'avoir plus d'outils ?}
 {160}{}{Je voulais juste t'aider. Tant pis, alors.}
 {161}{}{Le PROBLEME, c'est que je peux pas aller en acheter comme ça. Il faut que je fasse une demande auprès de la Cité de l'Abri. Ca veut dire qu'il faut que je remplisse un milliard de listes, que je les envoie en trois exemplaires et que j'ATTENDE.}
 {162}{}{Alors, pourquoi t --}
@@ -65,7 +65,7 @@
 {164}{}{Bordel, j'ai commandé un Super kit à outils Claque et d'Equerre il y a des MOIS. Mais, comme d'habitude, il arrivera quand j'en aurai plus besoin. C'est un miracle quand les choses arrivent à se faire ici...}
 {165}{}{Je peux peut-être t'aider.}
 {166}{}{Oh. Je regrette. Je vais peut-être revenir.}
-{167}{}{Ouais. Pourquoi ?}
+{167}{}{Oui. Pourquoi ?}
 {168}{}{Eh bien, j'ai justement une clef et une paire de tenailles sur moi.}
 {169}{}{Je peux peut-être en trouver un ou deux et te les rapporter.}
 {170}{}{Pourquoi c'est un problème d'avoir plus d'outils ?}
@@ -92,11 +92,11 @@
 {191}{}{Peux-tu me réparer un truc ?}
 {192}{}{Qu'as-tu en stock ?}
 {193}{}{C'est quoi, l'histoire avec toi et ton père ?}
-{194}{}{C'est pas grave. Je te laisse travailler.}
+{194}{}{Bon. Je te laisse travailler.}
 {195}{}{Rien de bien intéressant. Il est venu ici il y a vingt ans, pendant un de ses voyages en caravane, il a mis ma mère en cloque et il s'est tiré. Quand il est passé, ça faisait au moins cinq ans que je l'avais pas vu. Pas une grosse perte, d'ailleurs.}
 {196}{}{On dirait que toi et lui, vous avez des comptes à régler.}
 {197}{}{Oh. Eh bien, euh, j'avais deux ou trois autres questions...}
-{198}{}{C'est pas grave. Je te laisse travailler.}
+{198}{}{Bon. Je te laisse travailler.}
 {199}{}{Non, non. Ca fait longtemps qu'on s'est déjà dit tout ce qu'on avait à se dire.}
 {200}{}{Vraiment ?}
 {201}{}{Bon, très bien. J'avais encore deux ou trois questions...}
@@ -121,7 +121,7 @@
 {220}{}{[Lui montrer tes fusils]}
 {221}{}{[Lui montrer tout ton inventaire]}
 {222}{}{Tant pis. Il y autre chose que je voulais savoir...}
-{223}{}{Peut-être une autre fois.}
+{223}{}{Peut-être plus tard.}
 {224}{}{Pour $800, je peux mettre un chargeur rapide sur ton Magnum.}
 {225}{}{Hum. Cet Desert Eagle, que tu as là... Je pourrais lui adapter un plus gros chargeur, si tu veux. Ca te coûtera $1 000.}
 {226}{}{Améliore-moi mon Magnum.}
@@ -134,9 +134,9 @@
 {233}{}{Hum. Peut-être une autre fois.}
 {234}{}{Ce fusil d'assaut, que tu as là... Je peux lui mettre un plus gros chargeur pour $1 500.}
 {235}{}{Hum. J'ai une lunette infra-rouge que je peux fixer sur ton FN FAL pour $3 500.}
-{236}{}{Agrandis-moi le chargeur de ce fusil d'assaut AK-112.}
+{236}{}{Agrandis le magasin du fusil d'assaut AK-112.}
 {237}{}{Que dirais-tu de $1 350 pour améliorer le fusil d'assaut ?}
-{238}{}{Fixe-moi cette lunette infra-rouge sur le FN FAL.}
+{238}{}{Fixe cette lunette à infra-rouge sur le FN FAL.}
 {239}{}{Que dirais-tu de $3 100 pour la lunette infra-rouge ?}
 {240}{}{Tu pourrais améliorer une autre de mes armes ?}
 {241}{}{Tant pis. Il y a autre chose que je voulais...}
@@ -148,13 +148,13 @@
 {247}{}{En fait, tu pourrais pas plutôt améliorer une autre de mes armes ?}
 {248}{}{Bon. Il y a autre chose que je voulais...}
 {249}{}{En fait, aucune. Il faut que j'y aille.}
-{250}{}{J'suis pas Crésus. Je reviendrai quand j'aurai plus d'argent.}
+{250}{}{C'est un luxe pour ma pomme ! Je reviendrai quand j'aurai l'argent.}
 {251}{}{Je vois que tu as piqué quelques trucs à mon radin de père. Donne-moi encore une heure, et ce sera bon...}
 {252}{}{Très bien, très bien. Tu parles vraiment comme mon radin de père. Donne-moi encore une heure, et ce sera bon...}
 {253}{}{Très bien, très bien, donne-moi encore une heure, et ce sera bon...}
-{254}{}{Très bien.}
+{254}{}{D'accord.}
 {255}{}{Voilà. Autre chose ?}
-{256}{}{J'avais deux ou trois autres questions à te poser...}
+{256}{}{J'ai d'autres questions...}
 {257}{}{Tu peux améliorer autre chose, dans ce que j'ai ?}
 {258}{}{Rien de plus aujourd'hui. Merci.}
 {259}{}{Qu'est-ce que... euh... P'pa ?}
@@ -241,17 +241,17 @@
 {340}{}{2 secondes}
 {341}{}{Ouais, c'est ça, P'pa.}
 {342}{}{2 secondes}
-{343}{}{Disparition pendant 3 secondes}
+{343}{}{Disparition pendant 3 secondes.}
 {344}{}{Hé ! Ca fait plaisir qu'tu sois de retour. Dernière fois que j'ai entendu parler de toi, tu te baladais dans le Sud, à tirer sur des vieilles citernes et à faire exploser des derricks.}
 {345}{}{Tu reviens ici te mettre un peu au vert, M le Héros ?}
 {346}{}{Tu reviens ici te mettre un peu au vert, Mlle l'Héroïne ?}
 {347}{}{Hé-rro ? Yi-hi ! Ouais !}
-{348}{}{Dégage.}
+{348}{}{Dégage !}
 {349}{}{J'ai pensé que j'allais revenir et poser un peu mes valises à la Cité de l'Abri. Un peu de calme, c'est pas mal, non plus. Mais, d'abord, il me faut un truc...}
 {350}{}{Rien aujourd'hui, merci. Porte-toi bien.}
 {351}{}{Bien, tu vas faire un peu attention ici, hein ? Si tu peux éviter de faire sauter la Cité de l'Abri, ce sera pas plus mal. Et... hé, merci de nous avoir tous sauvés !}
 {352}{}{Bien chuure ! Saaluut !}
-{353}{}{Dégage.}
+{353}{}{Dégage !}
 {354}{}{Tant pis. Je te parlerai plus tard.}
 {355}{}{Tu as aidé Valérie à trouver de nouveaux outils.}
 {356}{}{Tu as convaincu Val de laisser une chance à son père.}

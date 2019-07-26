@@ -8,7 +8,7 @@
 {107}{}{Ruszaj siê.}
 {108}{}{Hej, ty. Nazywam siê Earl Marion i jestem szeryfem tego miasta. Brzmi to jak kwestia Johna Wayne'a... ale có¿, taka jest moja praca.}
 {109}{}{Co móg³bym dla ciebie zrobiæ?}
-{110}{}{Co tu robisz jako szeryf?}
+{110}{}{Pytam jako szeryf, czego szukasz w naszym mieœcie?}
 {111}{}{Jestem tu, aby albo po¿uæ sobie gumê i skopaæ komuœ dupê - a wygl¹da na to, ¿e zabrak³o mi gum.}
 {112}{}{Nie bêdzie ze mn¹ problemów. Ju¿ wychodzê, do widzenia.}
 {113}{}{Witaj, Stra¿niku. Nazywam siê Earl Marion i jestem szeryfem miasta Redding. Cieszê siê, ¿e mamy tu kogoœ takiego, jak ty.}
@@ -30,7 +30,7 @@
 {129}{}{Wspólne interesy, powiadasz? A jakiej dziedziny ¿ycia one dotykaj¹?}
 {130}{}{Rozumiem. Muszê siê ju¿ zbieraæ. Do zobaczenia.}
 {131}{}{Nie mo¿na tak ³atwo odpuszczaæ. Na taki uœcisk d³oni móg³ wpaœæ ka¿dy.}
-{132}{}{Och.}
+{132}{}{Aaa!}
 {133}{}{Zazwyczaj utrzymujê spokój. To znaczy robi³em to, dopóki moja noga nie nawali³a.}
 {134}{}{Jest tak, jak ju¿ mówilem. Moja noga jest niezdatna do u¿ytku i nie jestem w stanie wykonywaæ swojej pracy.}
 {135}{}{Co siê sta³o z twoj¹ nog¹?}
@@ -41,7 +41,7 @@
 {140}{}{Có¿, nie nale¿a³em do najlepszych tancerzy, zanim to siê sta³o, przypuszczam, ¿e teraz siê to ju¿ nie zmieni. Mogê trochê kuœtykaæ, ale dr Johnson mówi, abym siedzia³ spokojnie, jeœli chcê, aby siê szybko zagoi³o. Przyda³aby siê pomocna d³oñ.}
 {141}{}{Z t¹ nog¹ na niewiele siê zdajê. Dr Johnson mówi, abym jej nie nadwyrê¿a³. W czym mogê ci pomóc?}
 {142}{}{Chcia³bys j¹ trochê pomêczyæ? S³u¿ê pomoc¹.}
-{143}{}{Kim jest dr Johnson?}
+{143}{}{Kim jest doktorek Johnson?}
 {144}{}{Potrzebujesz pomocy, szeryfie?}
 {145}{}{Kiedy kota nie ma...}
 {146}{}{Nie chcê ciê d³u¿ej zatrzymywaæ, na pewno jesteœ zmêczony i chcesz odpocz¹æ. Do widzenia.}
@@ -115,7 +115,7 @@
 {214}{}{To oczywiste. Yy, móg³byœ mi powtórzyæ, co trzeba zrobiæ?}
 {215}{}{Och, okej. Do zobaczenia.}
 {216}{}{Porz¹dnie wykonana praca z t¹ Wdow¹ Rooney. Oto twoje 100$. Mo¿esz zacz¹æ nastêpn¹ pracê? Przyda mi siê jeszcze twoja pomoc.}
-{217}{}{Powiedz mi o nastêpnej pracy.}
+{217}{}{Powiedz mi o nastêpnej robocie.}
 {218}{}{Raczej nie, do widzenia, szeryfie.}
 {219}{}{Postêpowanie z Wdow¹ Rooney, to by³ naprawdê dobry uczynek. Przysporzy³ ci przyjació³ i uspokoi³ nastroje. Chcesz nastêpne zadanie? Posiadasz do tego prawdziwy talent.}
 {220}{}{Powiedz mi o nastêpnej robocie.}
@@ -124,26 +124,26 @@
 {223}{}{Powiedz mi o nastêpnej robocie.}
 {224}{}{Wydaje mi siê, ¿e nie mam teraz ochoty na nastêpne zadanie. Do widzenia, szeryfie.}
 {225}{}{Nie najlepiej ci posz³o z przerwaniem tej bójki w barze. Nie mogê zap³aciæ ci za niewykonane zadanie, ale moja noga nadal jest niezdatna do u¿ytku. Chcesz nastêpn¹ pracê?}
-{226}{}{Powiedz mi o nastêpnym zadaniu.}
+{226}{}{Powiedz mi o nastêpnej robocie.}
 {227}{}{Wydaje mi siê, ¿e nie mam teraz ochoty na nastêpne zadanie. Do widzenia, szeryfie.}
 {228}{}{Wygl¹da na to, ¿e wsadzenie tych górników z Morningstar podzia³a³o, ale nie s¹dzê, aby ich szef, Dan McGrew, siê z tego ucieszy³. Oto twoje pieni¹dze. Bierzesz nastêpn¹ pracê?}
-{229}{}{Powiedz mi o nastêpnym zadaniu.}
+{229}{}{Powiedz mi o nastêpnej robocie.}
 {230}{}{Wydaje mi siê, ¿e nie mam teraz ochoty na nastêpne zadanie. Do widzenia, szeryfie.}
 {231}{}{Marge bêdzie na ciebie naprawdê wkurwiona za to przymkniêcie jej górników. Ale zadzia³a³o, oto twoje pieni¹dze. Bierzesz nastêpn¹ pracê?}
-{232}{}{Powiedz mi o nastêpnym zadaniu.}
+{232}{}{Powiedz mi o nastêpnej robocie.}
 {233}{}{Wydaje mi siê, ¿e nie mam teraz ochoty na nastêpne zadanie. Do widzenia, szeryfie.}
 {234}{}{Nie jestem pewien, czy zamkniêcie wszystkich górników w mieœcie by³o najlepszym rozwi¹zaniem. Mam nadziejê, ¿e to podzia³a. Oto twoje pieni¹dze. Chcesz nastêpn¹ robotê?}
-{235}{}{Powiedz mi o nastêpnym zadaniu.}
+{235}{}{Powiedz mi o nastêpnej robocie.}
 {236}{}{Wydaje mi siê, ¿e nie mam teraz ochoty na nastêpne zadanie. Do widzenia, szeryfie.}
 {237}{}{To jak dawanie dziecku klapsa przy pomocy siekiery. Po prostu przegiêcie, dostaniesz tylko po³owê p³acy. Mo¿e to nauczy ciê czegoœ. Nikt nie musi gin¹æ w zwyczajnej bójce. Lepiej spisz siê lepiej przy nastêpnym zadaniu. Decydujesz siê?}
-{238}{}{Powiedz mi o nastêpnej pracy.}
+{238}{}{Powiedz mi o nastêpnej robocie.}
 {239}{}{Wydaje mi siê, ¿e nie mam teraz ochoty na nastêpne zadanie. Do widzenia, szeryfie.}
 {240}{}{Witaj. Cieszy mnie, ¿e zajmujesz siê tym problemem z pociêt¹ dziewczyn¹ Lou. Wróæ, kiedy rozwi¹¿esz tê sprawê.}
 {241}{}{Pracujê nad tym, szeryfie. Do zobaczenia.}
 {242}{}{Mam taki zamiar, do zobaczenia.}
 {243}{}{Jak mo¿na puœciæ wolno takiego skurwysyna, który poci¹³ dziewczynê? Rzuci³o ci siê na rozum? Dam ci nastêpne zadanie, ale za to nie dostaniesz ani grosza.}
 {244}{}{Zaraz ci powiem o rzucaniu na mózg, ty rogaty platfusie z odznak¹ wyciêt¹ z puszki!}
-{245}{}{Powiedz mi o nastêpnej pracy.}
+{245}{}{Powiedz mi o nastêpnej robocie.}
 {246}{}{Wydaje mi siê, ¿e nie mam teraz ochoty na nastêpne zadanie. Do widzenia, szeryfie.}
 {247}{}{Dziêki Bogu ten skurwysyn Hakeswill znalaz³ siê za kratkami. Poka¿emy mu, co spotyka takich jak on w Redding, zostanie powieszony. Dobra robota, oto twoje pieni¹dze. Chcesz nastêpn¹ pracê?}
 {248}{}{Powiedz mi o nastêpnej robocie.}
@@ -185,12 +185,7 @@
 {284}{}{Hej, masz przecie¿ robotê do wykonania. Wróæ, gdy ju¿ "¿abijesz" dla nas tê ¯abkê.}
 {285}{}{Tylko uzupe³niê zapasy i ju¿ siê tym zajmujê. Do widzenia.}
 {286}{}{Ju¿ tam zmierzam, szeryfie. Do zobaczenia.}
-# Begin Seraph's Code
 {287}{}{Nie wiem jak ci siê to uda³o, ale w Saloonie Malamute Lou jest ciszej ni¿ kiedykolwiek. Tu masz swoje pieni¹dze. Chcesz nastêpn¹ robotê?}
-# End Seraph's Code
-
 {300}{}{Ta robota mo¿e byæ dla ciebie trochê za trudna. Wróæ, gdy ju¿ bêdziesz mieæ trochê wiêcej doœwiadczenia.}
 {301}{}{Dobra, szeryfie.}
-
-#added by killap
 {302}{}{Nic wiêcej nie mo¿na zrobiæ z t¹ nog¹. Tylko czas mo¿e j¹ zaleczyæ.}

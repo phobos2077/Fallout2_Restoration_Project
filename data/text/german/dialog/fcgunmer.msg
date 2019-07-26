@@ -7,7 +7,7 @@
 {105}{}{Ich kaufen!}
 {106}{}{Ich hätte gern einige Waffen.}
 {107}{}{Erzähl mir was über diesen Ort.}
-{108}{}{Schon gut.}
+{108}{}{Vergiss es.}
 {109}{}{Tut mir leid, ich spreche deine Sprache nicht! Schönen Tag noch!}
 {110}{}{Err?}
 {111}{}{Aah, eine Waffe, he? Da siehst du, was so da ist.}
@@ -20,10 +20,10 @@
 {118}{}{Nein. Wiedersehn}
 {119}{}{Brauchst du sonst noch was?}
 {120}{}{Ich kaufen!}
-{121}{}{Nein. Wiedersehn.}
+{121}{}{Nein. Tschüß.}
 {122}{}{Ich hätte gern einige Waffen.}
 {123}{}{Erzähl mir was über diesen Ort.}
-{124}{}{Schon gut.}
+{124}{}{Vergiss es.}
 {125}{}{Wir leben seit Jahren hier, aber wir haben nicht immer hier gelebt. Dr. Fung kennt die
  komplette Geschichte. Ich wette, du interessierst dich mehr für das, was wir heute machen.}
 {126}{}{Ja, genau.}
@@ -34,11 +34,11 @@
 {129}{}{Die Welt verändern? Inwiefern?}
 {130}{}{Was passiert hier noch so in der Stadt?}
 {131}{}{Aha. Interessant. Ich habe noch weitere Fragen.}
-{132}{}{Danke, Wiedersehn.}
+{132}{}{Danke. Tschüß.}
 {133}{}{Ich weiß nicht. Sie reden mit niemandem über ihre Geheimnisse.}
 {134}{}{Aha. Was passiert hier noch so in der Stadt?}
 {135}{}{Aha. Ich habe noch weitere Fragen.}
-{136}{}{Danke, Wiedersehn.}
+{136}{}{Danke. Tschüß.}
 {137}{}{Wir haben zwei rivalisierende Kampfsportler in der Stadt. Der eine ist Lo Pan, der liebt
  sich selbst, der andere ist der Drache, der liebt andere. Man sagt, daß derjenige, der gewinnt,
  die Zukunft des Kampfsports bestimmen wird.}
@@ -51,13 +51,12 @@
  haben.}
 {142}{}{Sonst noch Neuigkeiten?}
 {143}{}{Aha. Ich habe noch weitere Fragen.}
-{144}{}{Danke, Wiedersehn.}
+{144}{}{Danke. Tschüß.}
 {145}{}{Die Wissenschaftler erzählen, jemand habe das Sicherheitssystem ihres Computers
  durchbrochen und unsere Geheimnisse gestohlen.}
 {146}{}{Sonst noch Neuigkeiten?}
 {147}{}{Aha. Ich habe noch weitere Fragen.}
-{148}{}{Danke, Wiedersehn.}
+{148}{}{Danke. Tschüß.}
 {149}{}{Das ist alles, was mir im Augenblick einfällt. Auf Wiedersehen.}
 {150}{}{Auf Wiedersehen.}
 {151}{}{Du bist ein Dieb, ein Mörder und ein Schurke. Ich fürchte, ich werde dich töten müssen.}
-

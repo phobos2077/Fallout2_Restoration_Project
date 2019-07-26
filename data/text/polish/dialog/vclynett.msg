@@ -49,11 +49,9 @@
 {148}{}{Huuu?}
 {149}{}{Nuuu-mar}
 {150}{}{W³oski œmieszne!}
-{151}{}{OdejdŸ}
+{151}{}{OdejdŸ, jak gdyby nigdy nic.}
 {152}{lyn010}{Nie wiem jakim cudem uda³o ci siê dostaæ do miasta, ale postaram siê, ¿eby wiêcej ciê tu nie wpuszczono... stra¿e! OdprowadŸcie tego zwierzaka poza mury!}
 {153}{}{NIE!}
-
-# player's name prepended to line 154
 {154}{}{ iœæ z metalowe ludki}
 {155}{lyn011}{Witaj, przybyszu. Nazywam siê Lynette, jestem Pierwszym Obywatelem. Mogê wiedzieæ, co siê tu sprowadza?}
 {156}{}{Sporo-wadza? Wadza?}
@@ -63,7 +61,7 @@
 {160}{}{Szukam Generatora Ekosystemu Cudownej Krainy, Pierwszy Obywatelu. Czy mogê go od was odkupiæ?}
 {161}{}{Czy jesteœ... Nadzorc¹ tej Krypty?}
 {162}{}{Wybacz moj¹ ignorancjê, ale... czy tytu³ Pierwszego Obywatela oznacza, ¿e jesteœ Nadzorc¹ tej Krypty?}
-{163}{}{To jest Kryptopolis? To dlaczego nie mieszkacie w Krypcie?}
+{163}{}{TO jest Kryptopolis? Dlaczego nie mieszkacie w Krypcie?}
 {164}{}{Nic wa¿nego. Porozmawiamy innym razem.}
 {165}{}{Nic szczególnego. Przepraszam, jeœli przeszkadzam w czymœ wa¿nym, Pierwszy Obywatelu. Do zobaczenia.}
 {166}{lyn012a}{Sk¹d ktoœ taki jak ty dowiedzia³ siê o Generatorze Ekosystemu Cudownej Krainy?}
@@ -80,7 +78,7 @@
 {177}{}{Rozumiem. Chcê porozmawiaæ z Nadzorc¹ tej Krypty. Czy mo¿esz mnie do niego zabraæ?}
 {178}{}{Co muszê zrobiæ, ¿eby zostaæ Mieszkañcem Krypty, tak jak wy?}
 {179}{}{Skoro tak bardzo nienawidzicie zewnêtrznego œwiata, to dlaczego opuœciliœcie Kryptê?}
-{180}{}{To mi wystarczy. ¯egnaj.}
+{180}{}{Mam doœæ. ¯egnam.}
 {181}{}{Ja... rozumiem. Dziêkujê za te wyjaœnienia, Pierwszy Obywatelu.}
 {182}{lyn014}{WSZYSCY obcy s¹ okropni. Jesteœcie band¹ niecywilizowanych, brudnych zwierz¹t! A teraz wynoœ siê st¹d, albo ka¿ê ciê st¹d usun¹æ si³¹.}
 {183}{}{Nie! Nie ruszam siê st¹d, dopóki nie uzyskam kilku odpowiedzi!}
@@ -109,7 +107,7 @@
 {206}{}{Muszê koniecznie porozmawiaæ z Nadzorc¹. Mo¿esz mnie do niego zaprowadziæ?}
 {207}{}{Kobieto, marnujê tylko cenny czas na rozmowê z tob¹. PrzyprowadŸ mi tu zaraz Nadzorcê.}
 {208}{}{Marnujê tylko cenny czas na rozmowê z tob¹. PrzyprowadŸ mi tu zaraz Nadzorcê.}
-{209}{}{To ju¿ chyba wszystko. Do zobaczenia.}
+{209}{}{Mam doœæ. ¯egnam.}
 {210}{}{Dziêkujê za pomoc, Pierwszy Obywatelu. Do zobaczenia.}
 {211}{lyn019}{Nie mamy ju¿ "Nadzorcy." Kiedy wyszliœmy na powierzchniê, zdecydowaliœmy siê powo³aæ inn¹ formê rz¹dów. Stanowisko Nadzorcy sta³o siê zbêdne.}
 {212}{}{Inna forma rz¹dów? Opowiedz mi o tym.}
@@ -118,8 +116,8 @@
 {215}{}{Rozumiem. Dziêkujê za informacje. Do zobaczenia.}
 {216}{lyn020}{Twoje informacje s¹ nieprawdziwe. Zapiski w naszych archiwach s¹ jasne: dwa lata po zamkniêciu nasza Krypty otrzyma³a sygna³ "droga wolna".}
 {217}{}{Sygna³ "droga wolna"? Sk¹d?}
-{218}{}{Gdzie znajdê te zapiski?}
-{219}{}{Gdzie jest Nadzorca? Muszê z nim porozmawiaæ.}
+{218}{}{Gdzie znajdê te archiwa?}
+{219}{}{Gdzie jest nadzorca? Muszê z nim porozmawiaæ.}
 {220}{}{Có¿, NASZE plemienne legendy g³osz¹, ¿e Krypta by³a zamkniêta przez wiele lat, i nigdy nie dotar³ do niej sygna³ "droga wolna".}
 {221}{}{K³amiesz! Nigdy nie og³oszono sygna³u "droga wolna"!}
 {222}{}{Rozumiem. Dziêkujê za informacje. Do zobaczenia.}
@@ -136,8 +134,8 @@
 {233}{}{Rozumiem. Dziêkujê za informacje. Do zobaczenia.}
 {234}{lyn023}{Tak... przynajmniej tak wynika³o z zapisków. W ka¿dym razie jestem pewna, ¿e sytuacjê na powierzchni monitorowa³o wiele osób.}
 {235}{}{Wiesz mo¿e gdzie teraz znajduj¹ siê systemy monitoruj¹ce powierzchniê?}
-{236}{}{Gdzie znajdê te zapiski?}
-{237}{}{Gdzie jest Nadzorca? Muszê z nim porozmawiaæ.}
+{236}{}{Gdzie znajdê te archiwa?}
+{237}{}{Gdzie jest nadzorca? Muszê z nim porozmawiaæ.}
 {238}{}{K³amiesz! Nigdy nie og³oszono sygna³u "droga wolna"!}
 {239}{}{Rozumiem. Dziêkujê za informacje. Do zobaczenia.}
 {240}{lyn024}{B³¹d w twoim rozumowaniu jest oczywisty dla kogoœ, kogo inteligencja pozwala na obiektywn¹ ocenê sytuacji. Nasze archiwa odporne s¹ na przek³amania, których ofiar¹ padaj¹ twoje... "plemienne legendy".}
@@ -196,8 +194,8 @@
 {293}{lyn035}{To niemo¿liwe. Przez stulecie, które spêdziliœmy na zewn¹trz, nikt nie odwa¿y³ siê odejœæ. By³o wprawdzie dwóch Obywateli, którzy zostali wygnani z miasta bardzo dawno temu... By³a to kara za ich zbrodnie.}
 {294}{}{A wiêc to wy wygnaliœcie Przybysza z Krypty! Przychodzê, by odebraæ, co mi siê prawnie nale¿y!}
 {295}{}{Co zrobili ci Obywatele?}
-{296}{}{Jeœli to nie jest Krypta, której szukam, to muszê wyruszyæ na dalsze poszukiwania.}
-{297}{}{Muszê ju¿ iœæ. Mi³ego dnia.}
+{296}{}{Jeœli to nie jest w³aœciwa Krypta, to muszê ruszaæ na dalsze poszukiwania.}
+{297}{}{Muszê ju¿ iœæ. Do zobaczenia.}
 {298}{lyn036a}{Wioski? Ale masz na sobie kombinezon mieszkañca Krypty... o jakiej wiosce mówisz? Wyra¿aj siê jaœniej, moja cierpliwoœæ dobiega koñca.}
 {299}{lyn036b}{Wioski? Najpierw wmawiasz mi, ¿e pochodzisz z Krypty, teraz, ¿e z wioski. Wiêc jak jest naprawdê?! Moja cierpliwoœæ dobiega ju¿ koñca.}
 {300}{}{Czekaj, Ÿle mnie zrozumia³aœ. Moja wioska zosta³a za³o¿ona przez Przybysza z Krypty.}
@@ -215,7 +213,7 @@
 {312}{}{Pierwszy Obywatelu Lynette, muszê koniecznie poznaæ po³o¿enie Krypty, z której przyby³ mój przodek. Pozwól mi zajrzeæ do waszych archiwów.}
 {313}{}{Hmmmm. Dziêkujê za informacje. Do zobaczenia.}
 {314}{lyn039}{Przykro mi, ale nasz GECK pos³u¿y³ do budowy Kryptopolis. Nie wydaje mi siê, ¿ebyœmy mieli jakieœ zapasowe, ale sprawdŸ jeszcze w Biurze Udogodnieñ. Znajduje siê przy wejœciu do naszej Krypty.}
-{315}{}{Dziêkujê. Mam jeszcze kilka pytañ...}
+{315}{}{Dziêki. Mam jeszcze kilka pytañ...}
 {316}{}{Wiesz mo¿e, gdzie znajduje siê Krypta 13?}
 {317}{}{Œwietnie! Natychmiast tam pójdê. Mi³ego dnia.}
 {318}{lyn040}{Brudny kombinezon i poobijana manierka? To maj¹ byæ dowody? Sk¹d mogê wiedzieæ, gdzie uda³o ci siê wygrzebaæ te artefakty... albo kto musia³ zgin¹æ, zanim wesz³y w twoje posiadanie.}
@@ -225,10 +223,10 @@
 {322}{}{Jeœli nawet to nie wystarczy, ¿eby ciê przekonaæ, to nie mamy o czym rozmawiaæ. ¯egnaj.}
 {323}{lyn041a}{Zdajesz sobie sprawê, ile obowi¹zków spoczywa na mojej g³owie? Losy ca³ego miasta zale¿¹ ode mnie i prawdê mówi¹c, nie mam czasu na wys³uchiwanie twoich szaleñczych ¿¹dañ.}
 {324}{lyn041b}{Zdajesz sobie sprawê, ile obowi¹zków spoczywa na mojej g³owie? Losy ca³ego miasta zale¿¹ ode mnie! Nie mam zamiaru marnowaæ na ciebie mojego cennego czasu.}
-{325}{lyn041c}{A teraz wynoœ siê st¹d, albo zawo³am stra¿e.}
+{325}{lyn041c}{WyjdŸ st¹d natychmiast, albo wezwê stra¿e.}
 {326}{}{Œmia³o, wo³aj ile si³ w p³ucach. Zanim tu wejd¹ bêdziesz ju¿ martwa.}
 {327}{}{Dobrze. Wychodzê.}
-{328}{}{W porz¹dku, Pierwszy Obywatelu. Mi³ego dnia.}
+{328}{}{Uczywiœcie. Do zobaczenia.}
 {329}{lyn042}{Plemienne legendy? Jeœli chcesz, ¿ebym uwierzy³a w twoje teorie musisz przedstawiæ bardziej wiarygodne dowody ni¿... MITOLOGIA twojego plemienia.}
 {330}{}{Ale mam œwiête artefakty pozostawione przez Przybysza z Krypty... ten kombinezon, i tê œwiêt¹ butelkê.}
 {331}{}{Mam strój mieszkañca Krypty, i tê manierkê. Nale¿a³y do mojego przodka.}
@@ -243,7 +241,7 @@
 {340}{}{Jaki problem?}
 {341}{}{Oczywiœcie. Moim obowi¹zkiem jest dbanie o dobro Kryptopolis.}
 {342}{}{No nie wiem... przecie¿ standardow¹ procedur¹ jest przyst¹pienie do testu na obywatelstwo, prawda?}
-{343}{}{Nie jestem chyba odpowiedni¹ osob¹ do tego rodzaju zadañ... do zobaczenia.}
+{343}{}{Chyba nie jestem w³aœciw¹ osob¹ do tego typu zadañ... ¯egnaj.}
 {344}{}{Dziêki, ale niestety muszê ju¿ iœæ. Mi³ego dnia.}
 {345}{lyn045}{Obydwaj byli mordercami. Boyarsky zosta³ wygnany dziesiêæ lat temu, a Richard Moreau - krótko po tym, jak opuœciliœmy Kryptê. Obywatelstwo to zaszczytny tytu³ - w tym mieœcie nie tolerujemy zbrodni.}
 {346}{}{Jeœli to nie jest w³aœciwa Krypta, to muszê ruszaæ na dalsze poszukiwania.}
@@ -270,7 +268,7 @@
 {367}{}{Muszê znaleŸæ Kryptê, z której wywodzi siê mój lud.}
 {368}{}{Czy macie tu Generator Ekosystemu Cudownej Krainy?}
 {369}{}{Ach, wiêc teraz jestem mile widzianym goœciem? Daruj sobie... Wynoszê siê st¹d.}
-{370}{}{Nawet sobie nie wyobra¿asz... kiedyœ ci opowiem o œwi¹tyni prób. ¯egnaj.}
+{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
 {371}{lyn051}{Dam ci szansê, któr¹ otrzyma³o bardzo niewielu obcych. Jeœli chcesz, mo¿esz zdawaæ test na obywatelstwo, ale pomoc w rozwi¹zaniu tego problemu mo¿e ci siê bardziej op³aciæ. Rozumiemy siê?}
 {372}{}{W porz¹dku. Co to za problem?}
 {373}{}{Rozumiem. Zrobiê wszystko, czego wymaga dobro Kryptopolis.}
@@ -280,10 +278,10 @@
 {377}{}{Zanim zacznê przegl¹daæ archiwa, chcê ciê jeszcze o coœ zapytaæ...}
 {378}{}{Macie tu mo¿e GECKa?}
 {379}{}{Œwietnie! Dziêki.}
-{380}{}{Dziêkujê, Pierwszy Obywatelu.}
+{380}{}{Dziêkujê.}
 {381}{lyn053a}{Tak? W czym ci mogê pomóc?}
 {382}{lyn053b}{Tak? O co chodzi?}
-{383}{}{Hymh?}
+{383}{}{Hê?}
 {384}{}{Krupta! Krupta!}
 {385}{}{Œmiesznee oooczki!}
 {386}{}{Pa-pa}
@@ -298,19 +296,19 @@
 {395}{}{Wydaje mi siê, ¿e dr Troy macza palce w nielegalnym interesie.}
 {396}{}{Musimy porozmawiaæ o dostarczeniu holodysku.}
 {397}{}{Chyba zmieniê zdanie. Dostarczê ten holodysk Doradcy w RNK.}
-{398}{}{Niewa¿ne. Do zobaczenia.}
+{398}{}{Nic. Wybacz, ¿e ciê niepokoje.}
 {399}{lyn054a}{Oczywiœcie. W czym mogê pomóc, Obywatelu?}
 {400}{lyn054b}{Naturalnie. W czym mogê pomóc, Kapitanie?}
 {401}{}{Co wiesz o atakach NajeŸdŸców na nasze miasto?}
 {402}{}{W centrum miasta jest pewien Obywatel, niejaki Thomas Moore. Co to za jeden?}
-{403}{}{Czy macie tu GECKa?}
+{403}{}{Czy masz GECK?}
 {404}{}{Szukam Krypty 13.}
-{405}{}{To jest Kryptopolis? Dlaczego nie mieszkacie w Krypcie?}
+{405}{}{TO jest Kryptopolis? Dlaczego nie mieszkacie w Krypcie?}
 {406}{}{Dlaczego tolerujecie niewolnictwo?}
-{407}{}{Chwilowo w niczym, dziêkujê.}
+{407}{}{Niczego dziœ nie potrzebujê, dziêki.}
 {408}{lyn055}{Jak na nie-Obywatela zajmujesz bardzo du¿o mojego czasu.}
 {409}{}{Ale ja JESTEM Obywatelem.}
-{410}{}{Macie tu mo¿e GECKa?}
+{410}{}{Czy masz GECK?}
 {411}{}{Szukam Krypty 13.}
 {412}{}{Co mam zrobiæ, ¿eby zostaæ Obywatelem?}
 {413}{}{TO jest Kryptopolis? Dlaczego nie mieszkacie w Krypcie?}
@@ -320,11 +318,11 @@
 {417}{}{Mo¿e zechcesz odpowiedzieæ na jeszcze jedno pytanie.}
 {418}{}{Przepraszam za moje wczeœniejsze zachowanie, Pierwszy Obywatelu. Mam jeszcze kilka pytañ dotycz¹cych Kryptopolis.}
 {419}{}{Wiesz co, niektóre bezkofeinowe nie s¹ wcale takie okropne w smaku.}
-{420}{}{Niewa¿ne.}
+{420}{}{Nikogo.}
 {421}{}{Przepraszam. Nie bêdê ci wiêcej przeszkadzaæ.}
 {422}{lyn057}{O co chodzi? Myœla³am, ¿e to temat zamkniêty?}
 {423}{}{To trochê bardziej skomplikowane. Widzisz, ci goœcie nie byli zwyk³¹ bandyck¹ szajk¹... to byli najemnicy.}
-{424}{}{Niewa¿ne. Mi³ego dnia.}
+{424}{}{Jeszcze tu wrócê.}
 {425}{lyn058}{Nie pamiêtam, ¿ebyœmy ciê przyjmowali. Poka¿ swoje papiery.}
 {426}{}{Proszê bardzo. Wszystko powinno byæ w porz¹dku.}
 {427}{}{Emm... Niestety, nie mam ich przy sobie.}
@@ -332,14 +330,14 @@
 {429}{}{Moje papiery? Jeszcze ich nie przetworzono. Powinny wkrótce wp³yn¹æ do twojego biura.}
 {430}{lyn059}{Nie igraj ze mn¹, "Obywatelu", albo postaram siê, ¿eby ju¿ nigdy nie wpuszczono ciê za mury. A teraz wyjdŸ.}
 {431}{}{¯aden problem... Ju¿ sobie idê. Do zobaczenia.}
-{432}{}{Do zobaczenia, Pierwszy Obywatelu Lynette.}
+{432}{}{¯yczê mi³ego dnia.}
 {433}{lyn060}{Masz mnie za G£UPI¥? Jeœli ktoœ potrafi rozpoznaæ podróbki to w³aœnie JA! Od kogo je masz?! Jeœli mi powiesz, pozwolê ci zachowaæ twoj¹ Dzienn¹ Przepustkê.}
 {434}{}{Od Obywatela imieniem Skeev, przy g³ównej bramie.}
 {435}{}{Ja, eee... nie pamiêtam.}
 {436}{}{Musia³abyœ mnie najpierw z³apaæ.}
 {437}{lyn061}{Hmmmm... no dobrze. Ale nie krêæ siê tutaj, dopóki nie otrzymasz dokumentów potwierdzaj¹cych obywatelstwo. Mi³ego dnia.}
 {438}{}{Do widzenia.}
-{439}{}{Do widzenia, Pierwszy Obywatelu.}
+{439}{}{¯yczê mi³ego dnia.}
 {440}{lyn062}{Ach, naprawdê? To potwierdza moje podejrzenia. Odbieram ci przywilej wstêpu do Kryptopolis. Oddaj swoj¹ Dzienn¹ Przepustkê, a moi stra¿nicy odprowadz¹ ciê do g³ównej bramy.}
 {441}{}{Co?! Przecie¿ obieca³aœ pozostawiæ mi Dzienn¹ Przepustkê!}
 {442}{}{Nigdzie siê nie wybieram. Chcesz moj¹ Dzienn¹ Przepustkê - to chodŸ i j¹ sobie WE.}
@@ -348,7 +346,7 @@
 {445}{}{Tak - w zamian za obywatelstwo i dostêp do komputerów w waszej Krypcie.}
 {446}{}{Nie, niezupe³nie. Chcê siê tylko upewniæ, ¿e oferta jest nadal aktualna.}
 {447}{lyn064}{Znakomicie. Zg³oœ siê do mnie po wykonaniu zadania a ja nadam ci obywatelstwo.}
-{448}{}{Mogê ciê jeszcze o coœ zapytaæ zanim wyruszê?}
+{448}{}{Zanim pójdê, mogê siê jeszcze o coœ zapytaæ?}
 {449}{}{Dobrze. Wrócê, gdy Kryptopolis bêdzie ju¿ bezpieczne.}
 {450}{lyn065}{Czy nasz problem zosta³ ju¿ rozwi¹zany?}
 {451}{}{Wygl¹da na to, ¿e przy pomocy hydroelektrycznego regulatora magnetosfery wyciek z elektrowni w Gecko mo¿e zostaæ zlikwidowany.}
@@ -357,12 +355,12 @@
 {454}{}{Nie, jeszcze nie. Wci¹¿ nad tym pracujê.}
 {455}{lyn066}{Wiêc nie marnuj mojego czasu. Wróæ, gdy uporasz siê z robot¹.}
 {456}{}{W porz¹dku. Wrócê póŸniej.}
-{457}{}{W porz¹dku. Mi³ego dnia, Pierwszy Obywatelu.}
+{457}{}{Dobrze. ¯yczê mi³ego dnia.}
 {458}{lyn067a}{A wiêæ problem WCI¥¯ nie zosta³ rozwi¹zany?}
 {459}{lyn067b}{Jeœli nadal chcesz otrzymaæ obywatelstwo, postaraj siê lepiej.}
 {460}{}{Jeœli dobrze rozumiem, czêœæ potrzebna do naprawy znajduje siê tutaj, w Kryptopolis.}
 {461}{}{W porz¹dku. Wrócê póŸniej.}
-{462}{}{Dobrze. Do zobaczenia, Pierwszy Obywatelu.}
+{462}{}{Dobrze. ¯yczê mi³ego dnia.}
 {463}{lyn068}{I co z tego? To wy³¹cznie tymczasowe rozwi¹zanie. Masz unieszkodliwiæ tê elektrowniê, a nie j¹ naprawiaæ. Czy to jasne?}
 {464}{}{Z ca³ym szacunkiem, Pierwszy Obywatelu, ale istnieje sposób na pokojowe rozwi¹zanie problemu. Nie musimy ani zabijaæ ghuli ani wy³¹czaæ ich reaktora. Jeœli tylko wolno mi bêdzie zabraæ tê czêœæ...?}
 {465}{}{Mówi³aœ, ¿e trzeba coœ zrobiæ z reaktorem. O masakrowaniu Gecko nie by³o mowy.}
@@ -372,10 +370,10 @@
 {469}{lyn069b}{Naprawdê? A co z twoimi zapewnieniami, ¿e jesteœ Obywatelem? Od tej pory zabraniam ci wstêpu do Kryptopolis. Moi stra¿nicy odstawi¹ ciê do g³ównej bramy.}
 {470}{lyn069c}{Mam serdecznie doœæ twoich niedorzecznoœci! Zabraniam ci wstêpu do Kryptopolis. Moi stra¿nicy odstawi¹ ciê do g³ównej bramy.}
 {471}{}{Giñ szklane-oczy!}
-{472}{}{Yhym}
+{472}{}{Ach-cha}
 {473}{}{Nie podoba ci siê mój przyjaciel, tak? To fatalnie. Bo on bardzo lubi takich jak ty... na KOLACJÊ.}
-{474}{}{Twoi stra¿nicy nie zd¹¿¹ ciê uratowaæ... "Pierwszy Obywatelu".}
-{475}{}{Nie musisz wo³aæ stra¿y - odejdê spokojnie.}
+{474}{}{Zanim twoja stra¿ zd¹¿y tu wejœæ bêdzie ju¿ po tobie... "Pierwszy Obywatelu".}
+{475}{}{Nie wo³aj stra¿y - odejdê spokojnie.}
 {476}{lyn070}{Co? Jak to zniszczona?! A ska¿enie?! IMBECYL! Ach, przynajmniej pozbyliœmy siê tych ghuli... zejdŸ mi z oczu.}
 {477}{}{Hej! A co z obiecanym obywatelstwem?}
 {478}{}{Myœlisz, ¿e spowodowanie tak ogromnych zniszczeñ by³o ³atwe?! Jakaœ nagroda chyba mi siê nale¿y...}
@@ -383,7 +381,7 @@
 {480}{}{Do zobaczenia.}
 {481}{lyn071}{Nie igraj ze mn¹, albo postaram siê, ¿eby ju¿ nigdy nie wpuszczono ciê do Kryptopolis.}
 {482}{}{Uwa¿aj co mówisz, "Pierwszy Obywatelu". ¯egnam.}
-{483}{}{Do zobaczenia.}
+{483}{}{¯yczê mi³ego dnia.}
 {484}{lyn072a}{Uda³o ci siê! Wspaniale! Dziêki tobie Kryptopolis znów jest bezpieczne. Przyjmij to jako wyraz naszej wdziêcznoœci. Pomyœleæ, ¿e grupa NAJEDCÓW sprawi³a nam tyle k³opotów...}
 {485}{lyn072b}{Znakomicie. Tylko na to zas³u¿yli. Pomyœleæ, ¿e grupa NAJEDCÓW sprawi³a nam tyle k³opotów...}
 {486}{}{Có¿, tak naprawdê to nie by³a zwyk³a banda... okazuje siê, ¿e mieliœcie do czynienia z najemnikami.}
@@ -400,7 +398,7 @@
 {497}{}{Spróbuj mi podskoczyæ, Lynette, a Kryptopolis bêdzie musia³o poszukaæ sobie nowego Pierwszego Obywatela. Rozumiemy siê?}
 {498}{}{I co z tego? McClure przyzna mi je znowu. Wydaje mi siê, ¿e to on powinien byæ Pierwszym Obywatelem.}
 {499}{}{Wrócê, kiedy trochê siê uspokoisz.}
-{500}{}{Do zobaczenia.}
+{500}{}{¯yczê mi³ego dnia.}
 {501}{lyn076a}{Znakomicie. Twoje zachowanie jest godne Obywatela Kryptopolis.}
 {502}{lyn076b}{Z wielk¹ przyjemnoœci¹ nadajê ci obywatelstwo Kryptopolis, z wszystkimi nale¿nymi przywilejami i dostêpem do naszych obiektów.}
 {503}{}{Hej, chyba zas³ugujê na jak¹œ nagrodê finansow¹.}
@@ -412,7 +410,7 @@
 {509}{lyn077b}{Obywatelstwo to nagroda sama w sobie.}
 {510}{}{Gówno prawda! Albo zobaczê zaraz spor¹ sumê gotówki, albo Kryptopolis bêdzie sobie szukaæ nowego Pierwszego Obywatela.}
 {511}{}{Oczywiœcie... Pytam tylko z ciekawoœci. Do zobaczenia.}
-{512}{}{Oczywiœcie. Mi³ego dnia.}
+{512}{}{Uczywiœcie. Do zobaczenia.}
 {513}{lyn077_a}{W ¿adnym wypadku.}
 {514}{}{Ciekawe kogo mianuj¹ na to stanowisko po twojej œmierci... czyli za jak¹œ minutê.}
 {515}{}{To trudno... Warto by³o spróbowaæ. Do zobaczenia.}
@@ -421,21 +419,21 @@
 {518}{}{S³u¿y pomoc¹ wy³¹cznie Obywatelom.}
 {519}{}{Niewa¿ne... To by³o przejêzyczenie. Do zobaczenia.}
 {520}{lyn079}{A kim ty jesteœ, ¿eby oskar¿aæ Obywatela o takie zbrodnie? Stra¿e! OdprowadŸcie tego obcego do bramy!}
-{521}{}{Twoi stra¿nicy nie zd¹¿¹ ocaliæ ci ¿ycia... "Pierwszy Obywatelu".}
+{521}{}{Zanim twoja stra¿ zd¹¿y tu wejœæ bêdzie ju¿ po tobie... "Pierwszy Obywatelu".}
 {522}{}{Nie wo³aj stra¿y - odejdê spokojnie.}
 {523}{}{Ale to prawda! Musisz mi uwierzyæ! Mam dow...!}
 {524}{lyn080}{To bardzo powa¿ne oskar¿enia. Jesteœ Obywatelem, wiêc nie mogê zignorowaæ twojego ostrze¿enia... ale czy masz ca³kowit¹ pewnoœæ? Jeœli tak, jego obywatelstwo zostanie cofniête a on sam - wygnany.}
 {525}{}{S³uchaj, wiem, ¿e trudno w to uwierzyæ, ale poprosi³ mnie o przeszmuglowanie do miasta Jetu!}
 {526}{}{Czy to nie zbyt surowa kara? Mo¿e da³o by siê go jakoœ resocjalizowaæ? To w koñcu dobry lekarz.}
-{527}{}{Och. Mo¿e tylko mi siê wydawa³o. Nie znam doktora wystarczaj¹co d³ugo, ¿eby wysuwaæ pod jego adresem tak powa¿ne oskar¿enia.}
-{528}{}{Hmmmm. Mo¿e uda mi siê jeszcze czegoœ dowiedzieæ.}
+{527}{}{Eee... Mo¿e mi siê tylko wydawa³o. Doktor Troy jest szanowanym Obywatelem i z pewnoœci¹ nie dopuœci³by siê takiej zbrodni.}
+{528}{}{Hmmmm. Poszukam jeszcze dodatkowych informacji.}
 {529}{lyn081}{Trudno uwierzyæ, ¿e tak powa¿any Obywatel móg³ uzale¿niæ siê od narkotyków. Dziêkujê ci za szczeroœæ, Obywatelu. Zajmê siê t¹ spraw¹ osobiœcie.}
-{530}{}{Mam jeszcze kilka pytañ...}
+{530}{}{Mam kilka innych pytañ...}
 {531}{}{Œwietnie. Ta ca³a sytuacja nie dawa³a mi spokoju. Do zobaczenia.}
 {532}{}{Dziêkujê, Pierwszy Obywatelu. Chcê tylko, ¿eby zatriumfowa³a sprawiedliwoœæ.}
 {533}{lyn082a}{Chcê byæ natychmiast informowana o wszelkich odkryciach.}
 {534}{lyn082b}{Kryptopolis na wieki, Obywatelu.}
-{535}{}{Mam jeszcze kilka pytañ...}
+{535}{}{Mam kilka innych pytañ...}
 {536}{}{Oczywiœcie. Do zobaczenia.}
 {537}{}{Naturalnie. Dziêkujê, Pierwszy Obywatelu.}
 {538}{lyn083}{Prawo jest prawem. Jeœli zaczniemy robiæ wyj¹tki, staniemy siê nielepsi od ludzi z zewn¹trz. Dlatego ponawiam pytanie, czy podtrzymujesz swoje oskar¿enia?}
@@ -448,7 +446,7 @@
 {545}{lyn084c}{Jeœli jeszcze raz bêdziesz utrudniaæ ¿ycie doktorowi b¹dŸ innym Obywatelom, postaram siê, ¿eby ju¿ nigdy nie wpuszczono ciê do Kryptopolis. Zrozumiano?}
 {546}{}{Oczywiœcie. Przeprasza. Mam jeszcze kilka pytañ...}
 {547}{}{Jasne jak s³oñce. Chyba ju¿ sobie pójdê.}
-{548}{}{Przepraszam najmocniej. Mi³ego dnia.}
+{548}{}{Najmocniej przepraszam. Do zobaczenia.}
 {549}{lyn085}{OCZYWIŒCIE, ¿e leczy wy³¹cznie Obywateli. Nie ma czasu, ¿eby zajmowaæ siê obcymi... od tego mamy Auto-doktora.}
 {550}{}{Mo¿e zainteresuje ciê, ¿e doktor poprosi³ mnie o przemycenie do Kryptopolis nielegalnych zwi¹zków chemicznych.}
 {551}{}{Mam jeszcze kilka pytañ...}
@@ -457,11 +455,11 @@
 {554}{}{Najmocniej przepraszam. Do zobaczenia.}
 {555}{lyn086}{Zdaje siê, ¿e pora na ciebie. Na twoim miejscu nie przed³u¿a³abym zbytnio pobytu w Kryptopolis.}
 {556}{}{Zanim pójdê, mam jeszcze kilka pytañ...}
-{557}{}{Dobrze. Wychodzê.}
+{557}{}{Dobrze ju¿, dobrze. Odchodzê.}
 {558}{lyn087}{Moore? Ten cz³owiek uwielbia sprawiaæ k³opoty.}
 {559}{}{Masz racjê. Jest chyba... sympatykiem œwiata zewnêtrznego.}
 {560}{}{Dlaczego uwa¿asz, ¿e lubi sprawiaæ k³opoty?}
-{561}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{561}{}{Mogê zadaæ nastêpne pytanie?}
 {562}{}{Rozmawialiœmy... i sporo z tego co mówi³ mia³o sens.}
 {563}{}{To prawda. Czy mam siê nim... zaj¹æ?}
 {564}{}{Wiêc odbierzcie mu obywatelstwo.}
@@ -471,19 +469,19 @@
 {568}{}{W jaki sposób próbuje przekonaæ Obywateli?}
 {569}{}{Brzmi niebezpiecznie. Czy mam siê nim... zaj¹æ?}
 {570}{}{Nie mo¿ecie go po prostu wyrzuciæ?}
-{571}{}{Mam jeszcze kilka pytañ...}
+{571}{}{Mam kilka innych pytañ...}
 {572}{}{Có¿, dziêkujê za informacje. Do zobaczenia.}
 {573}{lyn089}{Z archiwów wynika, ¿e wiele przedwojennych pañstw kultywowa³o w³aœnie tê formê rz¹dów. No i wiemy do czego to doprowadzi³o. Wyobra¿asz sobie, ile czasu potrzeba by, ¿eby coœ postanowiæ w takim spo³eczeñstwie? To wprost niemo¿liwe.}
 {574}{}{Niemo¿liwe? Dlaczego?}
 {575}{}{W jaki sposób Moore próbuje przekonaæ Obywateli?}
-{576}{}{Mam jeszcze kilka pytañ...}
-{577}{}{Pewnie masz racjê. Muszê ju¿ iœæ.}
-{578}{}{Dziêkujê za rozmowê. Mi³ego dnia.}
+{576}{}{Mam kilka innych pytañ...}
+{577}{}{Zapewne masz racjê. Muszê ju¿ iœæ.}
+{578}{}{Dziêkujê za tê rozmowê. Do zobaczenia.}
 {579}{lyn090}{Ka¿dy rz¹d potrzebuje silnego przywódcy, który mo¿e szybko podejmowaæ najwa¿niejsze decyzje i wprowadzaæ je w ¿ycie. Rz¹dy grupy ludzi to ¿adne rz¹dy.}
 {580}{}{W jaki sposób Moore próbuje przekonaæ mieszkañców do wprowadzenia demokracji w Kryptopolis?}
-{581}{}{Mam jeszcze kilka pytañ...}
+{581}{}{Mam kilka innych pytañ...}
 {582}{}{Zapewne masz racjê. Muszê ju¿ iœæ.}
-{583}{}{Dziêkujê za rozmowê. Mi³ego dnia.}
+{583}{}{Dziêkujê za tê rozmowê. Do zobaczenia.}
 {584}{lyn091}{Z regu³y poprzez publiczne robienie z siebie durnia. Próbuje zagraæ na naszym wspó³czuciu opowiadaj¹c historiê o zarazie w RNK, jakbyœmy mogli pomóc ca³emu œwiatu.}
 {585}{}{To mi wygl¹da na powa¿ny problem. Czy mam siê nim... zaj¹æ?}
 {586}{}{Ale on ma racjê: moglibyœcie pomóc, gdybyœcie zechcieli. Dysponujecie niesamowitym sprzêtem medycznym.}
@@ -503,36 +501,36 @@
 {600}{lyn094}{Przetrwaliœmy w œwiecie, w którym wielu poch³onê³a pustynia, a ty twierdzisz, ¿e powinniœmy siê zmieniæ? Spójrz tylko na zewnêtrzny œwiat! Anarchia, zdziczenie, choroby... Kryptopolis jest rajem na ziemi!}
 {601}{}{W³aœnie DLATEGO potrzeba zmian. Podzielcie siê swoimi osi¹gniêciami z innymi.}
 {602}{}{Raj? Mo¿e, dla w¹skiej grupy wybrañców. Wasi niewolnicy maj¹ pewnie inne zdanie na ten temat.}
-{603}{}{Nie mam ochoty na dalsze k³ótnie z tob¹. ¯egnaj.}
+{603}{}{Nie zamierzam dalej siê z tob¹ k³óciæ. ¯egnaj.}
 {604}{lyn095}{Kryptopolis powsta³o dziêki ciê¿kiej pracy i cierpieniu wielu Obywateli. Zewnêtrzny œwiat ma przyk³ad, który mo¿e naœladowaæ, ale zamiast tego woli koczowaæ pod naszymi murami i skomleæ o litoœæ.}
 {605}{}{Ciê¿ka praca Obywateli? Gdzie nie spojrzeæ w tym mieœcie, wszystkie ciê¿kie prace wykonuj¹ niewolnicy.}
-{606}{}{Nie bêdê siê z tob¹ d³u¿ej sprzeczaæ. ¯egnaj.}
+{606}{}{Nie zamierzam dalej siê z tob¹ k³óciæ. ¯egnaj.}
 {607}{lyn096}{Dlaczego tolerujemy niewolnictwo? Ten system sprawdza siê jak dot¹d bez zarzutu, czemu mielibyœmy go zmieniaæ? Obydwie strony zyskuj¹ na tym uk³adzie.}
 {608}{}{Rozumiem. Mogê ciê jeszcze o coœ zapytaæ?}
 {609}{}{Wasi niewolnicy chyba maj¹ nieco odmienne zdanie.}
 {610}{}{Ale... kupujecie i sprzedajecie ludzkie istoty jakby by³y przedmiotami. Czy naprawdê wam to nie przeszkadza?}
-{611}{}{Nie mam wiêcej pytañ. ¯egnaj.}
+{611}{}{Mam doœæ. ¯egnam.}
 {612}{}{Dziêkujê za tê rozmowê. Do zobaczenia.}
 {613}{lyn097}{To nie niewolnicy, tylko nasza "s³u¿ba". Daliœmy im dom, jedzenie, ubranie i cel w ¿yciu. Daliœmy im nowe ¿ycie.}
 {614}{}{Jasne. Po co komuœ wolnoœæ, skoro mo¿e harowaæ dla was w pocie czo³a?}
 {615}{}{S³uchaj, mo¿esz dalej snuæ bajki o waszych wznios³ych intencjach, ale niewolnictwo i tak pozostanie niewolnictwem.}
 {616}{}{Taa... jasne. Mam jeszcze kilka pytañ...}
-{617}{}{Nie zamierzam dalej siê z tob¹ sprzeczaæ. ¯egnaj.}
+{617}{}{Nie zamierzam dalej siê z tob¹ k³óciæ. ¯egnaj.}
 {618}{}{Hmmmm. Kto wie, mo¿e jest w tym trochê racji. Muszê to sobie jeszcze przemyœleæ.}
 {619}{lyn098}{Twoja hipokryzja jest wrêcz nie do uwierzenia. Nosisz znak ³owcy niewolników, a sprzeciwiasz siê niewolnictwu?}
 {620}{}{Nie sprzeciwiam siê niewolnictwu, tylko stwierdzam, ¿e najciê¿sz¹ robotê odwalaj¹ tu w³aœnie niewolnicy.}
 {621}{}{Nie nale¿ê do ³owców niewolników. Zrobienie tego tatua¿u pozwoli³o mi uzyskaæ cenne informacje.}
 {622}{}{B³êdy m³odoœci... I chêæ ³atwego zarobku...}
 {623}{}{Nie zamierzam dalej siê z tob¹ k³óciæ. ¯egnaj.}
-{624}{lyn099}{Co masz na myœli?}
-{625}{}{Tak naprawdê Moore pracuje dla Republiki Nowej Kalifornii.}
-{626}{}{Niewa¿ne. Mam kilka innych pytañ...}
+{624}{lyn099}{Jak to?}
+{625}{}{Moore pracuje tak naprawdê dla RNK.}
+{626}{}{Niewa¿ne. Mam jeszcze kilka pytañ...}
 {627}{}{Nic. Muszê ju¿ iœæ. ¯egnaj.}
 {628}{}{Nic. Wydawa³o mi siê. Do zobaczenia.}
 {629}{lyn100}{Zabiæ go?! Morderstwo, z jakichkolwiek powodów, nie jest tolerowane w Kryptopolis. Udam, ¿e nie by³o tej rozmowy.}
-{630}{}{Rozumiem. Mogê ciê jeszcze o coœ zapytaæ?}
+{630}{}{Rozumiem. Czy mogê zadaæ ci jeszcze kilka pytañ?}
 {631}{}{S³uchaj, 'morderstwo to takie paskudne s³owo. Móg³by mu siê przydarzyæ jakiœ wypadek... przedawkowanie narkotyków, stratowanie przez bramina... ¿yjemy w niebezpiecznym œwiecie a wypadki chodz¹ po ludziach.}
-{632}{}{W porz¹dku. ¯egnaj.}
+{632}{}{Dobrze ju¿, dobrze. Odchodzê.}
 {633}{}{Uczywiœcie. Do zobaczenia.}
 {634}{lyn101}{To zachowanie niegodne Obywatela! Niniejszym odbieram ci obywatelstwo. Moi stra¿nicy odprowadz¹ ciê do g³ównej bramy.}
 {635}{}{Zanim twoja stra¿ zd¹¿y tu wejœæ bêdzie ju¿ po tobie... "Pierwszy Obywatelu".}
@@ -540,39 +538,38 @@
 {637}{lyn102}{Chocia¿ by³o by to niew¹tpliwie z korzyœci¹ dla Kryptopolis, to nie mogê... dopóki nie z³amie jakiegoœ prawa, Moore mo¿e mówiæ, co mu siê ¿ywnie podoba.}
 {638}{}{Czy mam siê nim... zaj¹æ?}
 {639}{}{Ale on ju¿ to zrobi³. Widzisz, Moore to nie tylko Obywatel... on dba równie¿ o interesy kogoœ innego.}
-{640}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{640}{}{Mogê zadaæ nastêpne pytanie?}
 {641}{}{Có¿, w takim tempie i tak pewnie nied³ugo wpadnie. Odezwê siê póŸniej.}
 {642}{}{Rozumiem. Dziêkujê za rozmowê.}
 {643}{lyn103}{Szpieg RNK? To... to... wiele wyjaœnia. Dziêkujê, Obywatelu. Zajmê siê nim osobiœcie.}
-{644}{}{Mam jeszcze kilka pytañ...}
+{644}{}{Mam kilka innych pytañ...}
 {645}{}{Œwietnie, dziêkujê. Do zobaczenia.}
 {646}{}{Dziêkujê.}
 {647}{lyn104}{Napady zaczê³y siê kilka miesiêcy temu. Póki co, wie¿yczki laserowe trzymaj¹ ich na bezpieczn¹ odleg³oœæ, ale nie wiem, ile jeszcze takich oblê¿eñ wytrzymamy.}
 {648}{}{Kim s¹ ci NajeŸdŸcy?}
-{649}{}{Mam jeszcze kilka pytañ...}
-{650}{}{Muszê ju¿ iœæ. Do zobaczenia.}
+{649}{}{Mam kilka innych pytañ...}
+{650}{}{Muszê ju¿ iœæ. ¯egnaj.}
 {651}{}{Przykro mi to s³yszeæ. Mo¿e w koñcu siê zmêcz¹ i poszukaj¹ sobie ³atwiejszego celu. Mi³ego dnia.}
 {652}{lyn105}{Szumowiny z zewn¹trz. Od przesz³o stu lat obcy próbowali spl¹drowaæ nasze miasto... i zawsze odchodzili z kwitkiem. Kiedyœ pokonamy i tê szajkê.}
 {653}{}{Hmmm... "kiedyœ"? Dlaczego nie rozprawiliœcie siê z nimi do tej pory?}
-{654}{}{Mogê ciê jeszcze o coœ zapytaæ?}
-{655}{}{Muszê ju¿ iœæ. Do widzenia.}
+{654}{}{Mogê zadaæ nastêpne pytanie?}
+{655}{}{Muszê ju¿ iœæ. ¯egnaj.}
 {656}{}{Muszê ju¿ iœæ. Mi³ego dnia.}
 {657}{lyn106}{Nie tak ³atwo odnaleŸæ ich bazê. W dodatku dysponuj¹ niema³¹ si³¹ ognia. Mimo to jakoœ odpieramy ich ataki... przy niewielkich stratach w³asnych.}
-{658}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{658}{}{Mogê zadaæ nastêpne pytanie?}
 {659}{}{Muszê ju¿ iœæ. ¯egnaj.}
 {660}{}{Dziêkujê za rozmowê. Mi³ego dnia.}
 {661}{lyn107}{O co chodzi? }
-{662}{}{Wiem gdzie jest ich baza. Zaszyli siê w kilku jaskiniach u podnó¿a wzgórz na po³udnie st¹d.}
-{663}{}{Ju¿ po nich. Chowali siê w kilku jaskiniach u podnó¿a wzgórz, na po³udnie st¹d.}
-{1663}{}{Chowali siê w kilku jaskiniach u podnó¿a wzgórz, na po³udnie st¹d. Uda³o mi siê przekonaæ ich przewodnika, ¿eby ich wiêcej nie prowadzi³. Bez niego nie znajd¹ drogi przez góry.}
+{662}{}{Wiem gdzie jest ich baza. Ukrywaj¹ siê w kilku jaskiniach u podnó¿a wzgórz, na po³udnie st¹d.}
+{663}{}{NajeŸdŸcy nie ¿yj¹. Ukrywali siê w jaskiniach u podnó¿a wzgórz, na po³udnie st¹d.}
 {664}{}{Ka¿da informacja ma swoj¹ cenê.}
 {665}{}{Niewa¿ne. Muszê ju¿ iœæ.}
 {666}{lyn108}{Naprawdê? To wspaniale! Niestety, nasza stra¿ miejska jest ju¿ mocno przerzedzona... A ty? Mo¿e ty ich powstrzymasz? Zap³acê ci.}
 {667}{}{Nie, chwilowo nie mam czasu.}
-{668}{}{Zobaczê co siê da zrobiæ.}
+{668}{}{Zobaczê, co siê da zrobiæ.}
 {669}{lyn109}{No trudno. Jeœli mi wybaczysz... ja te¿ jestem bardzo zajêta. Wiesz gdzie jest wyjœcie, prawda?}
 {670}{}{Mam jeszcze kilka pytañ...}
-{671}{}{W porz¹dku, wychodzê.}
+{671}{}{Dobra, ju¿ wychodzê.}
 {672}{}{Dobrze. ¯yczê mi³ego dnia.}
 {673}{lyn110a}{Najemnicy? A kto ich wynaj¹³?}
 {674}{lyn110b}{Tak, zdaje siê, ¿e ju¿ o tym rozmawialiœmy. Wiesz mo¿e kto ich wynaj¹³?}
@@ -585,7 +582,7 @@
 {681}{}{W sejfie NajeŸdŸców by³a ta ksiêga rachunków. S¹ w niej zapiski o zleconej przez Bishopów trzymiesiêcznej kampanii wymierzonej w Kryptopolis... z ewentualnym przed³u¿eniem o miesi¹c, gdybyœcie okazali siê uparci.}
 {682}{}{Nie mam ¿adnych konkretnych dowodów. Wci¹¿ szukam. }
 {683}{lyn112}{Nie zdziwi³abym siê. Nie tak dawno temu Bishop odwiedzi³ Kryptopolis i zabiega³ o sojusz. Oczywiœcie odmówi³am. Nie wspó³pracujemy z kryminalistami.}
-{684}{}{Mo¿e w ten sposób próbuje zmusiæ was do zawarcia przymierza.}
+{684}{}{Mo¿e w ten sposób próbowa³ zmusiæ was do sojuszu.}
 {685}{lyn113}{Prêdzej wezwê na pomoc RNK. Jeœli znajdziesz jakieœ konkretne dowody na to, ¿e Bishop macza³ w tym palce, dostarcz je do mnie natychmiast.}
 {686}{}{W porz¹dku. Mam jeszcze kilka pytañ...}
 {687}{}{Jeœli coœ znajdê, dam ci znaæ.}
@@ -594,12 +591,12 @@
 {690}{}{Chyba w³aœnie na to liczy³. W sejfie Bishopa by³ ten holodysk. ON zosta³ wynajêty przez RNK. Ostatecznym celem by³o przy³¹czenie Kryptopolis do Republiki. Kiedy odmówiliœcie, wynaj¹³ zbirów licz¹c, ¿e poprosicie o pomoc RNK.}
 {691}{}{Mo¿e w ten sposób próbowa³ zmusiæ was do sojuszu.}
 {692}{lyn115}{Mo¿liwe... ale to by mu siê nie uda³o. Prêdzej poproszê o pomoc RNK. Kryptopolis du¿o ci zawdziêcza. Przyjmij to jako wyraz naszej wdziêcznoœci.}
-{693}{}{Dziêkujê. Mam jeszcze kilka pytañ...}
+{693}{}{Dziêki. Mam jeszcze kilka pytañ...}
 {694}{}{Jeœli dowiem siê czegoœ nowego, dam ci znaæ.}
 {695}{}{Ca³a przyjemnoœæ po mojej stronie. Mi³ego dnia.}
 {696}{lyn116}{Oczywiœcie. Wys³ali najemników, którzy mieli wymordowaæ moich ziomków, bo nie chcieliœmy poddaæ siê ich rz¹dom? Ja... Trudno w to uwierzyæ.}
 {697}{}{To jeszcze nie wszystko. Thomas Moore równie¿ jest w to wmieszany.}
-{698}{}{Czy mogê w jakiœ sposób pomóc?}
+{698}{}{Mogê wam w jakiœ sposób pomóc?}
 {699}{}{Tak, œwiat bywa okrutny. A przy okazji, co z moj¹ nagro - }
 {700}{lyn117}{To zachowanie niegodne Obywatela, ale potrzebujê tej informacji. Jaka jest twoja cena?}
 {701}{}{$100}
@@ -610,7 +607,6 @@
 {706}{lyn118}{Dobrze, oto twoje pieni¹dze. Teraz powiedz mi co wiesz.}
 {707}{}{Wiem gdzie jest ich baza. Ukrywaj¹ siê w kilku jaskiniach u podnó¿a wzgórz, na po³udnie st¹d.}
 {708}{}{NajeŸdŸcy nie ¿yj¹. Ukrywali siê w jaskiniach u podnó¿a wzgórz, na po³udnie st¹d.}
-{1708}{}{Ukrywali siê w jaskiniach u podnó¿a wzgórz, na po³udnie st¹d. Uda³o mi siê przekonaæ ich przewodnika, ¿eby ich wiêcej nie prowadzi³. Bez niego nie znajd¹ drogi przez góry.}
 {709}{}{Prawdê mówi¹c to nie wiem nic konkretnego.}
 {710}{}{Dziêki za pieni¹dze. Muszê ju¿ iœæ.}
 {711}{lyn119}{Musisz natychmiast udaæ siê do Republiki Nowej Kalifornii i znaleŸæ radnego Westina, Rogera Westina. Dasz mu holodysk. To powinno zagwarantowaæ nam, ¿e ¿adni "najeŸdŸcy" nie zostan¹ ponownie wynajêci.}
@@ -625,15 +621,15 @@
 {720}{lyn121b}{Tak, tak... œwietna robota. Proszê... Przyjmij to jako nagrodê za trudy.}
 {721}{}{Nie bêdzie nagrody?! Myœlisz, ¿e rozwi¹zanie tego politycznego gówna przysz³o mi z ³atwoœci¹? Chyba zas³ugujê na jak¹œ premiê?!}
 {722}{}{Czekaj, mam jeszcze kilka wa¿nych pytañ...}
-{723}{}{W porz¹dku, wychodzê.}
+{723}{}{Dobra, ju¿ wychodzê.}
 {724}{}{Dziêki. Mam jeszcze kilka pytañ...}
-{725}{}{Wspaniale! Wielkie dziêki... Muszê ju¿ iœæ.}
+{725}{}{Wspaniale! Wielkie dziêki... Niestety, muszê ju¿ iœæ.}
 {726}{}{Dziêkujê.}
 {727}{lyn122}{Roger Westin jest chyba jedynym uczciwym cz³owiekiem w Nowej Kalifornii i w dodatku sympatykiem naszej sprawy.}
 {728}{}{W porz¹dku, dostarczê mu ten dysk.}
 {729}{}{Przykro mi, chwilowo nie mam czasu.}
-{730}{lyn123}{Twój patriotyzm zostanie nale¿ycie doceniony. Teraz idŸ ju¿, nie mamy wiele czasu.}
-{731}{}{Zanim pójdê, jest coœ, o co chcê zapytaæ...}
+{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{731}{}{Zanim pójdê, mam jeszcze kilka pytañ...}
 {732}{}{Ju¿ siê robi.}
 {733}{}{Mo¿esz na mnie liczyæ. Wrócê jak tylko dysk trafi do r¹k Westina.}
 {734}{lyn124}{Tak czy inaczej, Kryptopolis przetrwa. Twoje czyny nie zostan¹ zapomniane... przyjmij ten drobiazg jako wyraz naszej wdziêcznoœci.}
@@ -679,7 +675,7 @@
 {774}{}{Dziêkujê. Mi³ego dnia.}
 {775}{lyn134}{Zginê³a?! Ta korespondencja mo¿e zadecydowaæ o byæ albo nie byæ Kryptopolis! No dobrze... tu jest zap³ata za dostarczenie dysku. A teraz wybacz... }
 {776}{}{Chwileczkê. Zanim pójdê, muszê ciê jeszcze o coœ zapytaæ...}
-{777}{}{Na razie!}
+{777}{}{Do zobaczenia.}
 {778}{}{¯yczê mi³ego dnia.}
 {779}{lyn135}{Westin nic ci nie da³? Dziwne... tak czy inaczej, masz tu zap³atê za dostarczenie mu holodysku. A teraz wybacz, jestem zajêta...}
 {780}{}{Chwileczkê. Zanim pójdê, muszê ciê jeszcze o coœ zapytaæ...}
@@ -692,8 +688,6 @@
 {787}{lyn138}{Szpieg RNK? To... to... wiele wyjaœnia. Dziêkujê za ujawnienie tego spisku, Obywatelu. Zajmê siê tym problemem osobiœcie.}
 {788}{}{Jeœli chodzi o te problemy z RNK... mo¿e mogê w czymœ pomóc?}
 {789}{}{Mi³o to s³yszeæ. Tak czy inaczej, za odkrycie tylu ciekawostek o Reno i RNK znajdzie siê zapewne jakaœ nagro - }
-
-# Generic line from 790 to 846 are not used. If this changes, we will need to do the lip-syncing and attach voc files.
 {790}{}{Stra¿!}
 {791}{}{Porozmawiaj w tej sprawie z Prokonsulem.}
 {792}{}{Porozmawiaj w tej sprawie ze Starszym Cz³onkiem Rady McClurem.}
@@ -706,28 +700,28 @@
 {799}{}{Pó³nocny wschód}
 {800}{}{Po³udniowy zachód}
 {801}{}{Po³udniowy wschód}
-{802}{}{Na pó³nocy}
-{803}{}{Na po³udniu}
+{802}{}{Na pó³noc.}
+{803}{}{Na po³udnie.}
 {804}{}{Na wschodzie}
-{805}{}{Na zachodzie}
-{806}{}{Na pó³nocnym zachodzie}
-{807}{}{Na pó³nocnym wschodzie}
-{808}{}{Na po³udniowym zachodzie}
-{809}{}{Na po³udniowym wschodzie}
+{805}{}{Na zachód.}
+{806}{}{Na pó³nocny zachód.}
+{807}{}{Na pó³nocny wschód.}
+{808}{}{Na po³udniowy zachód.}
+{809}{}{Na po³udniowy wschód.}
 {810}{}{Nie potrzebujê tego.}
-{811}{}{Dziêkujê.}
+{811}{}{Dziêki ci.}
 {812}{}{Dziêkujê za rozmowê.}
 {813}{}{Stra¿!}
 {814}{}{Uwielbiam Scotta Rodenhisera.}
 {815}{}{Moja fryzura jest po prostu olœniewaj¹ca.}
 {816}{}{T-Ray ma o sobie trochê zbyt du¿e mniemanie.}
 {817}{}{To dobre nowiny.}
-{818}{}{W porz¹dku.}
+{818}{}{Dobrze.}
 {819}{}{Mi³ego dnia.}
 {820}{}{Mi³ego dnia, Obywatelu.}
 {821}{}{Wezmê to.}
 {822}{}{Daj mi to.}
-{823}{}{Nic mi o tym nie wiadomo.}
+{823}{}{Nic o tym nie wiem.}
 {824}{}{Nie wiem.}
 {825}{}{Tak.}
 {826}{}{Nie.}
@@ -735,11 +729,11 @@
 {828}{}{Oczywiœcie.}
 {829}{}{Zgadza siê.}
 {830}{}{Dok³adnie.}
-{831}{}{Racja.}
+{831}{}{Dobrze.}
 {832}{}{Hmph.}
 {833}{}{Wyjaœnij mi proszê, dlaczego w Fallout 2 nie ma czarnych bohaterów gry?}
 {834}{}{Kryptopolis na wieki.}
-{835}{}{Kryptopolis na wieki, Obywatelu.}
+{835}{}{Kryptopolis ponad wszystkim, Obywatelu.}
 {836}{}{Ojej! Sen! Tylko tu mogê byæ Wikingiem!}
 {837}{}{Degenerat!}
 {838}{}{Obcy}
@@ -751,8 +745,6 @@
 {844}{}{Przykro mi, zdawa³o mi siê, ¿e wszystkie gryz¹ ju¿ ziemiê.}
 {845}{}{To dobry pocz¹tek, ale nasza woda jest nadal zatruwana. Musisz zaj¹æ siê ich elektrowni¹.}
 {846}{}{To przydatne, ale g³ówny problem pozostaje nierozwi¹zany: ska¿enie wód gruntowych. Musisz powstrzymaæ wyciek z elektrowni.}
-# End of Unused Dialog
-
 {847}{}{Starsza mojej wioski da³a mi manierkê, ale nie mam jej przy sobie. Mimo to, z opowiadanych przez ni¹ historii wynika jasno, ¿e mój przodek przyby³ z Krypty.}
 {848}{}{Masz na myœli ghule? Tak, wiem ju¿ co jest nie tak z ich elektrowni¹.}
 {849}{}{Do naprawienia elektrowni wystarczy hydro-magnesowe, eee... coœ. Ghule powiedzia³y mi, ¿e coœ takiego mo¿na dostaæ u was, w Kryptopolis. Dajcie mi tylko potrzebn¹ czêœæ i elektrownia przestanie zatruwaæ wodê.}
@@ -761,7 +753,7 @@
 {852}{lyn047b}{I co z tego? To tylko tymczasowe rozwi¹zanie.}
 {853}{}{Eee... no có¿, nie znam szczegó³ów, ale wygl¹da na to, ¿e przy pomocy takiej magneto-szajbki mo¿emy pomóc zarówno Kryptopolis jak i Gecko. To jak, mogê dostaæ tê zabawkê?}
 {854}{}{Prawdê mówi¹c, dziêki regulatorowi elektrownia bêdzie bezawaryjnie pracowaæ przez wiele lat. Gdyby tylko wolno mi by³¹ wzi¹æ jeden...?}
-{855}{}{Niewa¿ne. Znajdê kogoœ, kto zechce mi pomóc.}
+{855}{}{Niewa¿ne. Mo¿e ktoœ inny mi pomo¿e.}
 {856}{}{Masz oczywiœcie racjê. Zobaczê co siê da zrobiæ w tej sprawie.}
 {857}{}{Nie bardzo rozumiem. Macie problem z elektrowni¹ w Gecko... czy z ghulami?}
 {858}{}{Wys³uchaj mnie, proszê... czy znalezienie tej czêœci stanowi jakiœ problem? Dziêki niej rozwi¹¿emy za jednym zamachem problemy wasze i ghuli!}
@@ -792,3 +784,5 @@
 {883}{}{Eee... mój b³¹d. To nie tak mia³o zabrzmieæ...}
 {884}{}{Najmocniej przepraszam. Ja...}
 {885}{}{Stra¿!}
+{1663}{}{Ukrywali siê w jaskiniach u podnó¿a wzgórz, na po³udnie st¹d. Uda³o mi siê przekonaæ ich przewodnika, ¿eby ich wiêcej nie prowadzi³. Bez niego nie znajd¹ drogi przez góry.}
+{1708}{}{Ukrywali siê w jaskiniach u podnó¿a wzgórz, na po³udnie st¹d. Uda³o mi siê przekonaæ ich przewodnika, ¿eby ich wiêcej nie prowadzi³. Bez niego nie znajd¹ drogi przez góry.}

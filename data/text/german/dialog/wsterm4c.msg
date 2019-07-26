@@ -45,7 +45,7 @@
 {133}{}{Pocken holen}
 {134}{}{Ebola-Virus holen}
 {135}{}{Hantavirus holen}
-{137}{}{Zurück zum Hauptmenü}
+{137}{}{Zurück zum Entnahmemenü}
 {138}{}{Beenden}
 {139}{}{[Du siehst, wie der Roboter sich durch die Gänge bewegt, in denen das biologische
  Material aufbewahrt wird. Er kehrt mit einer kleinen Phiole zurück und legt sie in einer Öffnung
@@ -92,7 +92,7 @@
 {166}{}{[Wegen deiner Ungeschicklichkeit sterben alle Gehirne ab. Daß du die Temperatur auf 
  98,6 °C erhöht hast, war wohl doch ein bißchen viel des Guten. Wissenschaft war noch nie deine
  Stärke.]}
-{167}{}{Beenden.}
+{167}{}{Beenden}
 {168}{}{[Offensichtlich probierst du nach dem Motto "Aus Fehlern wird man klug" einfach alle
  Möglichkeiten aus. Auf diese Weise schaffst du es, immerhin eins von vier Gehirnen zu retten.
  Tja, Wissenschaft ist sowieso was für Fachidioten.]}
@@ -165,5 +165,4 @@ urteilen, sind die Signale teils digitalen, teils menschlichen Ursprungs.] Holen
  leere zu sehen. Scheint ein Programmfehler zu sein. Das kennt man ja zur Genüge.]}
 {233}{}{Zurück zum Hauptmenü}
 {234}{}{Beenden }
-
 {300}{}{ kann nicht lesen, was auf dem Monitor steht.}

@@ -4,15 +4,15 @@
 {103}{}{Du siehst einen Mann mit wilden Augen, ungepflegtem Bart und krächzender Stimme. Sein linkes Auge sieht so aus, als würde es gleich aus seinem Kopf springen.}
 {104}{}{Stop! Wer die Todesbrücke beschreiten will, muß erst Antworten der Fragen drei, bevor ich geb den Weg ihm frei.}
 {105}{}{Cee...Deeee...Eee...efff...Gggee}
-{106}{}{Verzieh dich.}
-{107}{}{Na gut.}
+{106}{}{Geh weg.}
+{107}{}{Na schön.}
 {108}{}{Dann schieß los, Brückenwächter. Ich hab keine Angst.}
 {109}{}{Vielleicht komm ich einfach später noch mal.}
 {110}{}{Wie ist dein Name?}
 {111}{}{Hhhaa....Iiii...Jott...Kaaa...Elll...}
 {112}{}{?}
-{113}{}{Ich} #continue at 172
-{114}{}{Verzieh dich.}
+{113}{}{Ich}
+{114}{}{Geh weg.}
 {115}{}{aus Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakunin}
@@ -70,15 +70,12 @@
 {169}{}{Der Spieler löst sich auf.}
 {170}{}{Ha-ha.}
 {171}{}{Irgendwie habe ich das Gefühl, daß ich mein Spiel als ganz neuen Eintrag speichern sollte.}
-{1171}{}{Hm, oh. Ich sollte das Spiel in einem neuen Slot speichern.}
-
 {172}{}{wie dajn Nahme?}
-
 {173}{}{Ich darf nie die guten Fragen stellen.}
 {174}{}{Ich werde mit meinem Agenten darüber sprechen.}
 {175}{}{Ich hab ihm schon so oft gesagt, daß ich nicht mehr diese idiotischen Dinger machen will.}
 {176}{}{Wie soll ich die Anerkennung kriegen, die ich verdiene, wenn ich nur in Low-Budget-Filmen und Videospielen zu sehen bin?}
 {177}{}{Hmmm. Ich sollte mir wirklich ernsthaft überlegen, ob ich nicht besser eine Kfz-Werkstatt aufmache.}
 {178}{}{Ich hab gehört, damit wird heutzutage das große Geld gemacht. }
-
 {200}{}{AAAAAAAHHHHHHHHhhhhhh!}
+{1171}{}{Hm, oh. Ich sollte das Spiel in einem neuen Slot speichern.}

@@ -6,7 +6,7 @@
 {105}{}{Nyug aarg.}
 {106}{}{Qui es-tu ?}
 {107}{}{Où suis-je ici ?}
-{108}{}{Déjà entendu parler d'un J.E.K ?}
+{108}{}{As-tu déjà entendu parler d'un J.E.K ?}
 {109}{}{Ecoute, Eric m'a demandé de régler la quantité d'énergie qui arrive chez lui. Il dit qu'il transpire trop.}
 {110}{}{Hé, Eric est vraiment heureux dans sa maison toute fraîche ! Et si j'ai bien vu, il n'y a pas eu de problèmes en ville.}
 {111}{}{Je viens d'aller parler à Eric, il dit qu'il était le patron ici avant et qu'il y a une telle quantité d'énergie dans les barres d'uranium qu'on ne remarquerait jamais le peu qu'il prendrait en plus. Alors, fais péter.}
@@ -14,7 +14,7 @@
 {113}{}{Moi ? Je m'appelle Brian. Je suis aux commandes du générateur qui fournit l'énergie à cette ville.}
 {114}{}{Alors t'es le gars que je dois voir. Eric dit qu'il est trop mal à l'aise chez lui, et il a besoin de plus d'énergie pour son air conditionné.}
 {115}{}{Je vois. Très intéressant. Ca doit être très gratifiant comme travail.}
-{116}{}{Super. J'ai d'autres questions.}
+{116}{}{Génial. J'ai d'autres questions.}
 {117}{}{Tu es dans la centrale des Collines Brisées. Je travaille principalement à la maintenance... je m'assure que ça roule. Ca marche hyper bien de toute façon... c'est alimenté par des barres d'uranium.}
 {118}{}{Ca doit être génial. Ecoute, j'ai d'autres questions.}
 {119}{}{Des barres d'uranium ?}
@@ -26,17 +26,17 @@
 {125}{}{Si cette machine est alimentée avec des barres d'uranium, tu peux fournir de l'énergie non seulement à cette ville MAIS AUSSI à New Reno, sans qu'on remarque quoi que ce soit. Maintenant fais péter.}
 {126}{}{Mais... mais... il souffre.}
 {127}{}{Alors tu ne peux pas faire quelques petits réglages ?}
-{128}{}{[Il regarde ses boutons d'un air maussade et dit d'une petite voix :] Tu es sans coeur.}
+{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
 {129}{}{Ouaip. Salut !}
 {130}{}{Hé ! Ne touche à rien ! Ce matériel est fragile ! Dehors ! Tout de suite ! Allez, rentre chez toi !!}
 {131}{}{Ooooh ! Boutooon !}
 {132}{}{Non. Pas vraiment. Je suis le plus souvent assis ici, je vérifie qu'aucun des cadrans ne s'affole. Je fais des petits changements. Je tripote quelques interrupteurs. C'est à peu près tout. C'est à la portée de n'importe qui.}
 {133}{}{Alors tu pourrais envoyer plus d'énergie à la maison d'Eric ?}
 {134}{}{N'importe qui, tu dis ? J'ai d'autres questions.}
-{135}{}{Merci. Salut.}
+{135}{}{Merci. Au revoir.}
 {136}{}{Eh bien, avec la mine d'uranium sur place, et étant donné que l'énergie atomique est l'énergie du futur, ça me semble logique que nous soyons modernes. C'est peut-être petit ici, mais nous sommes progressistes.}
 {137}{}{Hum. D'accord. J'ai d'autres questions.}
-{138}{}{D'accord. Salut.}
+{138}{}{Bien. Au revoir.}
 {139}{}{Eh bien, techniquement c'est vrai mais...}
 {140}{}{Mais rien du tout. T'es juste une grosse fainéasse. Bouge-toi.}
 {141}{}{Pas besoin d'être désagréable. [Il baisse la tête et tourne un bouton.] Voilà. Dis-lui d'arrêter de se plaindre maintenant.}

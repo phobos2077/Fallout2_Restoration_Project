@@ -3,7 +3,7 @@
 {102}{}{Son regard fixe et sa béatitude un peu niaise pourraient être dérangeants si elle n'était pas aussi calme.}
 {103}{}{Bonjour mon enfant. Fais-tu partie des Eclairés ?}
 {104}{}{::Bave::}
-{105}{}{Bien sûr, pourquoi pas.}
+{105}{}{Oui, pourquoi pas ?}
 {106}{}{Eh bien, je suis l'Etre Elu.}
 {107}{}{Heu, je ne sais vraiment pas de quoi tu parles.}
 {108}{}{Alors, c'est toi l'abcès que Merk veut crever ?}
@@ -15,7 +15,7 @@
 {114}{}{Y'a per-sonne ?}
 {115}{}{Oh, un *Niveau Un* resté à l'état primitif. Peut-être qu'un alignement par balayage-zéta t'aiderait. Ca te dit ?}
 {116}{}{Zé-ta !}
-{117}{}{NON !}
+{117}{}{Non !}
 {118}{}{Ne te moque pas de l'Eglise d'Hubol ! Ce sont les oppresseurs de ton espèce qui compliquent les choses pour nous tous. Regarde ce que tu as fait. Je suis tout émotionnée !}
 {119}{}{L'Etre Elu ? Tu veux dire CHA ? Tu travailles sur quel texte ?}
 {120}{}{C'est simple. Je suis l'Etre Elu. C'est ainsi que les choses doivent être.}
@@ -27,7 +27,7 @@
 {126}{}{Non, je cherche un J.E.K.}
 {127}{}{M'aider ? Comment ?}
 {128}{}{Un lance-roquettes me donne la paix spirituelle dont j'ai besoin, ma belle.}
-{129}{}{"Comprends bien" ça ! [geste grossier de la main avec le majeure levé]}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk ? Que veut-il ?}
 {131}{}{C'est simple. Il veut ta mort. Dis au revoir.}
 {132}{}{Je ne sais pas ce que tu as fait, mais il a payé quelqu'un pour te descendre.}
@@ -61,7 +61,7 @@
 {160}{}{Un état d'oppression ?}
 {161}{}{Alors, comment fonctionne cette purge ? C'est douloureux ?}
 {162}{}{C'est sans douleur. On te fait simplement un balayage-zéta, on peut le faire maintenant si tu veux.}
-{163}{}{Bien sûr !}
+{163}{}{Certainement.}
 {164}{}{Ca va pas la tête ?!}
 {165}{}{L'Eglise d'Hubol existe pour libérer l'humanité des entraves qui brident son potentiel spirituel.}
 {166}{}{Comment fais-tu ?}
@@ -79,7 +79,7 @@
 {178}{}{Tu dormais pendant l'endoctrinement ? Hum... Tu ne fais pas partie des Eclairés !}
 {179}{}{Alors tu dis qu'il existe une force supérieure qui nous a créés dans un but précis puis qui nous a abandonnés ? Existe-t-il un être avec aussi peu de pitié ? Viens, embrasse l'Eglise d'Hubol. Laisse-nous te montrer le vrai chemin.}
 {180}{}{Quel vrai chemin ?}
-{181}{}{Non merci.}
+{181}{}{Pas de problème.}
 {182}{}{Sans pouvoir contrôler nos vies, à quoi bon ? Rien de ce que tu fais n'a de valeur. As-tu choisi de te lever ce matin ? Non, tu n'es qu'une marionnette si j'en crois ta philosophie. Nous, dans l'Eglise d'Hubol, nous détenons la vraie réponse.}
 {183}{}{C'est-à-dire ?}
 {184}{}{Evidemment...}
@@ -114,9 +114,7 @@
 {213}{}{L'Eglise est fermée. Reviens demain.}
 {214}{}{J'aimerais beaucoup t'aider, mais même CHA-4 doit dormir. Reviens quand il fera jour.}
 {215}{}{Cherches-tu à profaner ce lieu ? Dehors !}
-
 {216}{}{Merveilleux, ma soeur. Alors, quel est ton niveau ?}
 {217}{}{. Je suis sûr que si je continue à voyager et à tuer des monstres lors des rencontres aléatoires, j'atteindrai le niveau 99 en un rien de temps.}
-
-{218}{}{Tu reçois }
+{218}{}{Tu gagnes }
 {219}{}{points d'expérience pour t'être occupé de l'Hubologiste à la place de Merk.}

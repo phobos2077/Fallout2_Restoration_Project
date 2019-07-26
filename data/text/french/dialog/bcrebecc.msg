@@ -6,14 +6,14 @@
 {105}{}{Pourquoi parler en privé ?}
 {106}{}{Ok.}
 {107}{}{Non. Moi partir.}
-{108}{}{Je regrette, ça m'intéresse pas.}
+{108}{}{Ca m'intéresse pas.}
 {109}{}{De quoi veux-tu me parler ?}
 {110}{}{Très bien, où pouvons-nous aller pour parler en privé ?}
 {111}{}{Pourquoi en privé ?}
 {112}{}{(en chuchotant) Ma fille a disparu et j'ai besoin d'aide pour la retrouver. Je ne peux pas en parler ici. Pouvons-nous aller ailleurs ?}
 {113}{}{Ok.}
 {114}{}{Pourquoi parler en privé ?}
-{115}{}{Non, moi partir.}
+{115}{}{Moi partir.}
 {116}{}{Très bien, allons-y.}
 {117}{}{Pourquoi en privé ?}
 {118}{}{Non, je ne veux pas m'en mêler.}
@@ -64,7 +64,7 @@
 {163}{}{Merci. Demander plus.}
 {164}{}{Merci. Je dois encore te poser quelques questions.}
 {165}{}{Je regrette, je n'en ai aucune idée. Si j'étais toi, je me renseignerais en RNC. Ils s'intéressent beaucoup aux abris ces temps-ci.}
-{166}{}{Ok, moi faire.}
+{166}{}{Ok, moi faire ça.}
 {167}{}{Très bien, je le ferai.}
 {168}{}{Eh bien... Nous ne sommes pas censés en parler, mais comme j'ai besoin de ton aide... Darion répare l'abri. C'est notre bienfaiteur. Lorsqu'il sera totalement réparé, nous nous y installerons pour échapper aux pillards, aux esclavagistes et à tous les autres. Pour le moment, il a réparé les systèmes d'eau et de nourriture, c'est tout ce que je peux te dire.}
 {169}{}{Moi comprendre. Besoin savoir plus.}
@@ -105,7 +105,6 @@
 {204}{}{Moi chercher.}
 {205}{}{Je continuerai de la chercher.}
 {206}{}{Merci pour tout ce que tu as fait pour moi.}
-
 {207}{}{Je ne sais pas pourquoi, mais je ne crois pas que les esclavagistes l'aient enlevée. Je pense qu'il se passe quelque chose d'autre. J'ai aussi l'impression qu'on me suit depuis que j'ai parlé à Zeke au sujet de Chrissy. J'ai besoin que quelqu'un m'aide à retrouver ma fille. Veux-tu bien m'aider ? S'il te plaît ?}
 {208}{}{Ils continuent à envoyer des gens ici pour essayer de négocier notre départ, mais ils ne comprennent pas que nous n'avons nulle part ailleurs où aller. Nous ne pourrons pas survivre si nous quittons cet endroit.}
 {209}{}{Tu sais, c'est marrant qu'ils aient réussi à réparer un truc aussi complexe, alors qu'ils n'ont pas réparé l'éclairage. Ce fichu endroit est éclairé par des torches. De toute façon, Darion veut que personne ne sache ce qui se passe dans l'abri. Il craint que quelqu'un nous le prenne si on découvrait ce qui s'y passe. C'est pour ça que nous devons renvoyer toutes les personnes qui se présentent ici. Notamment, les gens de la RNC.}

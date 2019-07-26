@@ -1,7 +1,6 @@
 {100}{}{Ein Mann, der auf einer Laute klimpert.}
 {101}{}{Joshua.}
 {102}{}{Ein reisender Minnesänger.}
-
 {103}{}{Der Tapfre Sir Robin lief davon.}
 {104}{}{Lief davon, lief tapfer davon.}
 {105}{}{Als der Gefahr ins Aug' er sieht, dreht er sich tapfer um und flieht.}

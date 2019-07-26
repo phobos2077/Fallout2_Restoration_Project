@@ -18,37 +18,36 @@
 {117}{}{Patrouille, Patrouille, Patrouille... Was anderes mach ich hier nicht.}
 {118}{}{Ich glaub ich brauch ne Pause.}
 {119}{}{Ich verdiene eine Gehaltserhöhung. Der Job ist gefährlich.}
-
-{200}{}{Kann ich helfen?}
-{201}{}{Ja, ich suche den Karawanenführer.}
-{202}{}{Ich dachte mir ich könnte dir ein paar Fragen über Chad stellen.}
+{200}{}{Dir helfen?}
+{201}{}{Ja, ich will zum Karawanenmeister.}
+{202}{}{Kann ich Dir vielleicht ein paar Fragen über Chad stellen?}
 {203}{}{Wer bist du?}
-{204}{}{Nein, Danke.}
+{204}{}{Nein, danke.}
 {205}{}{In diesem Fall möchtest du wohl mit Bill, dem Händler aus Broken Hills reden. Er ist in dem Gebäude da drüben.}
 {206}{}{Ich hab noch einige Fragen.}
 {207}{}{Danke. Tschüß.}
-#About Chad...
-{208}{}{Du hast fragen, vielleicht hab ich Antworten. Was willste wissen?}
+{208}{}{Du hast Fragen, und ich hab vielleicht Antworten dazu. Was willste wissen?}
 {209}{}{Wie ist er so?}
 {210}{}{Kann man ihm trauen?}
-{211}{}{Woher bekommt er sein Geld?}
-{212}{}{Was ist seine Geschichte?}
-{213}{}{Vergiss es. Wir sehen uns.}
-
+{211}{}{Wo hat er sein Geld her?}
+{212}{}{Kennst du seine Vergangenheit?}
+{213}{}{Vergiß es. Bis später.}
 {214}{}{Ich? Ich bin }
-{215}{}{. Eine Wache für Bills Karawanen. Sonst noch was?}
-{216}{}{Wie er ist? Nun, er ist freundlich, aber hart. Er ist ein guter Boss und uns gegenüber für gewöhnlich fair.
- Er behandelt uns nicht schlecht, wenn du das meinst. Noch irgendwelche Fragen?}
-{217}{}{Nun, er ist ein bißchen halbseiden. Aber ich denk, die Leute sind heutzutage einfach so. Noch was?}
-{218}{}{Ich dachte mir immer daß er es mitgebracht hat — und zwar ne ganze Menge.
- Es ist aber nicht die Frage die man jemandem stellen sollte, wenn du verstehst. Sonst noch was?}
-{219}{}{Darüber weiß ich absolut nichts. Ich mein wir, die Karawanenwächter sind alles Rumtreiber die für den Job
- da sind. Ich denk er ist jemand der irgendeinen Ort in Eile verlassen musste. Noch was?}
+{215}{}{. Ich bin Wächter bei Bills Karawanen. Sonst noch was?}
+{216}{}{Wie er ist? Tja, freundlich eigentlich, aber ein bißchen barsch. Er ist ein guter Chef
+ und im allgemeinen sehr fair zu uns. Er behandelt uns nicht schlecht, falls du das meinst. Noch
+ Fragen?}
+{217}{}{Hmm, er ist natürlich ein bißchen undurchsichtig...aber das sind ja viele Leute
+ heutzutage. Noch Fragen?}
+{218}{}{Ich dachte immer, daß er das mitgebracht hat. Er hat ganz schön viel davon. Sowas fragt
+ man jemanden ja eigentlich nicht, oder? Noch Fragen?}
+{219}{}{Seine Vergangenheit kenne ich nicht. Fast alle bei den Karawanenwächtern sind nicht
+ seßhaft und einfach wegen des Jobs hier. Ich kann mir denken, daß er woanders schnell abhauen
+ mußte. Noch Fragen?}
 {220}{}{Ja.}
 {221}{}{Nein.}
-{222}{}{Alles Klar. Wir sehen uns dann.}
+{222}{}{Alles klar. Bis dann also.}
 {223}{}{Tschüß.}
-
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}
@@ -63,7 +62,6 @@
 {311}{}{Eddie}
 {312}{}{John}
 {313}{}{Max}
-
 {400}{}{Tawni}
 {401}{}{Kim}
 {402}{}{Urs}
@@ -77,7 +75,7 @@
 {410}{}{Lori}
 {411}{}{Mary}
 {412}{}{Julie}
-{413}{}{Sarah}
-
+{413}{}{Marina}
 {450}{}{Du siehst }
-{451}{}{, die Karawanenwache.}
+{451}{}{, der Karawanenwächter.}
+{2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}

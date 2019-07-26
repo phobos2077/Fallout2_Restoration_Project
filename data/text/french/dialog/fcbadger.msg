@@ -3,10 +3,10 @@
 {102}{}{Tu vois un voyou affichant un demi-sourire moqueur.}
 {103}{}{[Il éructe violemment.] Qu'est-ce tu veux ?}
 {104}{}{[Rote]}
-{105}{}{T'es qui ?}
+{105}{}{Toi qui ?}
 {106}{}{Qui es-tu ?}
 {107}{}{Peux-tu me parler de ce pétrolier ?}
-{108}{}{Que fais-tu ici ?}
+{108}{}{Qu'est-ce tu fais ici ?}
 {109}{}{J'aimerais que tu pirates un ordinateur pour moi.}
 {110}{}{Quelle sorte de piratage ?}
 {111}{}{Laisse tomber. Joli rot.}
@@ -20,15 +20,15 @@
 {119}{}{Quelle sorte de truc informatique fais-tu ?}
 {120}{}{Je parie que ton groupe puait un max.}
 {121}{}{C'était un bon groupe ?}
-{122}{}{Merci. Salut.}
+{122}{}{Merci. Au revoir.}
 {123}{}{Euh... Ok.}
-{124}{}{Salut !}
+{124}{}{Au revoir !}
 {125}{}{Tu d'vrais parler de ça à Marc ou au Capitaine.}
 {126}{}{Où puis-je trouver Marc ?}
 {127}{}{Où puis-je trouver le Capitaine ?}
 {128}{}{Je suis l'informaticien du coin.}
 {129}{}{Quelle sorte de truc informatique fais-tu ?}
-{130}{}{Merci. Salut.}
+{130}{}{Merci. Au revoir.}
 {131}{}{Arrête de me harceler. [Il lâche une caisse.] J'y travaille, Ok ?}
 {132}{}{Bien, bien. Fais-moi savoir quand tu auras terminé.}
 {133}{}{Eh bien, disons que je suis spécialiste de la recherche d'informations.}
@@ -51,7 +51,7 @@
 {150}{}{Quel est ton prix ?}
 {151}{}{Ouais, peu importe. Je dois y aller.}
 {152}{}{Ca veut dire que je peux trouver les données dont tu as besoin.}
-{153}{}{Peux-tu faire quelque chose pour moi ?}
+{153}{}{Can you do something for me?}
 {154}{}{Je vois. Cool. J'ai d'autres questions.}
 {155}{}{Je vois. Merci.}
 {156}{}{Ouais, c'est ça. Bon, je dois m'y remettre.}
@@ -93,25 +93,20 @@
 {192}{}{Non. A plus.}
 {193}{}{Tu as fait une grave erreur, mon pote. Je t'ai mis les Shis sur le dos via leurs ordinateurs. Tu es foutu à San Francisco. }
 {194}{}{Je ferai mieux de te tuer alors.}
-
 {195}{}{Laisse-moi quelques heures pour me remettre les idées au clair.}
 {196}{}{Tu veux que je pirate un ordinateur formaté ? Les informations ont disparu. Ca ne peut pas se faire.}
-
 {197}{}{Je vais devoir abandonner cet endroit.}
 {198}{}{Sympa de te revoir.}
-
 {199}{}{Je cherche du carburant.}
 {200}{}{J'ai entendu dire que les Hubologistes avaient du carburant et je peux me connecter à leur ordinateur pour toi.}
 {201}{}{Les Shis ont tout le carburant des alentours. Je pourrais infiltrer leur ordinateur pour toi.}
 {202}{}{Vraiment ?}
-
-{203}{}{Que veux-tu bon sang ?}
+{203}{}{Que veux-tu ?}
 {204}{}{Badger du gang de voyous, je suppose ?}
 {205}{}{Tu as déshonoré notre Empereur pour la dernière fois !}
 {206}{}{Je crois que je vais aller acheter des bonbons chez Lao Chou en ville.}
 {207}{}{Tu parles d'une épreuve juste. Hum...}
 {208}{}{Déstresse mon gars. Je voulais juste des bonbons.}
-
 {209}{}{Peux-tu transférer le carburant de leur navette spatiale vers le pétrolier ?}
 {210}{}{Peux-tu te procurer une copie de leurs plans d'hélicos ?}
 {211}{}{Peux tu transférer le carburant et m'obtenir les plans d'hélicos ?}
@@ -120,11 +115,10 @@
 {214}{}{Très bien, mais ça risque de merder.}
 {215}{}{Peux-tu transférer le carburant de leurs réserves vers le pétrolier ?}
 {216}{}{Tant pis. Je vais faire autrement.}
-{217}{}{Tant pis.}
+{217}{}{Ca ne fait rien.}
 {218}{}{Très bien. Reviens me voir dans un jour ou deux et je te dirai.}
 {219}{}{As-tu obtenu ce que je voulais ?}
 {220}{}{Ouais, j'ai le carburant.}
 {221}{}{Ouais, j'ai les plans des hélicos.}
 {222}{}{Ouais, j'ai le carburant et les plans des hélicos.}
 {223}{}{Merci beaucoup. A plus.}
-

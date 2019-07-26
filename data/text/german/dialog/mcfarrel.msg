@@ -1,7 +1,6 @@
 {100}{}{Ein alter Mann. Neben ihm sähe eine Dörrpflaume frisch aus.}
 {101}{}{Farrel.}
 {102}{}{Wenn er sich bewegt, klingt es, als ob trockene Zweige knacken.}
-
 {150}{}{He, weg da!}
 {151}{}{Hör auf damit!}
 {152}{}{Dieb!}
@@ -9,7 +8,7 @@
 {154}{}{Cornelius sagt, du hast seine goldene Uhr geklaut.}
 {155}{}{Woher hast du das Geld für die neuen Werkzeuge?}
 {156}{}{Was kannst du mir über Modoc erzählen?}
-{157}{}{Was machst du hier so?}
+{157}{}{Was treibst du hier so?}
 {158}{}{Uhr? Wovon redest du?}
 {159}{}{Und jetzt!?}
 {162}{}{Was versteckst du im Wandsafe?}
@@ -24,7 +23,7 @@
 {173}{}{Hat Miria dir das gesagt? Ich versohl ihr den Hintern, wenn sie wieder Gerüchte verbreitet! Ich bin vielleicht arm, aber ich habe meinen Stolz. Ich habe einem Händler geholfen, seinen Wagen zu reparieren und dafür hat er mir Werkzeuge geschenkt.}
 {174}{}{Gib's zu, du bist schuldig!}
 {175}{}{Wie kannst du beweisen, daß das wahr ist?}
-{176}{}{Und das soll ich glauben?}
+{176}{}{Und du erwartest, daß ich das glaube?}
 {177}{}{Meine Ehre ist Beweis genug, daß ich die Wahrheit sage. Ich kann dir sonst nichts bieten.}
 {178}{}{Wenn du's nicht warst, wer kann sie dann genommen haben?}
 {179}{}{Wahrscheinlich hat ein Dieb auf der Durchreise die Uhr geklaut und ist schon lange wieder weg. Aber ich kann mir ums Verrecken nicht vorstellen, was der mit meinen alten Werkzeugen will}
@@ -44,7 +43,7 @@
 {195}{}{Tut mir leid, dann kann ich dir nicht helfen.}
 {196}{}{Das wäre wunderbar. Ich kann dir gar nicht genug danken. Mein Garten liegt etwas östlich von hier. Komm mit, ich zeig ihn dir.}
 {197}{}{Danke! Du bist ein wahrer Held. Es gibt nicht viele, die ihr Leben für einen Fremden einsetzen würden. Danke! Danke! Danke ... [Ein warmes, wohliges Gefühl breitet sich bis in deine Zehenspitzen aus.]}
-{198}{}{Darf ich dir noch ein paar Fragen stellen?}
+{198}{}{Kann ich dir noch ein paar Fragen stellen?}
 {199}{}{Lieber verhunger ich, als daß ich meinen Namen beflecke! Fahr zur Hölle!}
 {200}{}{Jeder beschuldigt mich, daß ich die goldene Taschenuhr von meinem Freund Cornelius geklaut hab. Cornelius und ich sind Freunde, so lange ich denken kann. Ich würde nie seine Uhr stehlen. Ich hab sie überall gesucht, damit wir wieder Freunde werden, aber ich hatte kein Glück.}
 {201}{}{Ich werde noch ein bißchen in der Gegend bleiben. Wenn ich sie seh, laß ich dich's wissen.}
@@ -59,15 +58,11 @@
 {211}{}{Das ist zu nett von dir, mein Lieber. [Er nimmt dich an der Hand und führt dich zum Garten.] Will ja nicht, daß du dich verläufst. Komm zurück, wenn du das Ungeziefer ausgerottet hast.}
 {212}{}{Meine liebe, süße Frau. Du bist so gut zu einem alten Mann. [Er nimmt dich an der Hand und führt dich zum Garten.] Will ja nicht, daß du dich verläufst. Komm zurück, wenn du das Ungeziefer ausgerottet hast.}
 {213}{}{Phantastisch! Und das ist deine Belohnung. [Er wühlt in seiner Hosentasche und holt einen angeknabberten Keks hervor.] Sei jetzt ein braver Höhlenmann, nimm deinen Keks und spiel draußen.}
-
 {300}{}{Ich bring das Schwein um.}
 {301}{}{Ich hasse ihn...}
 {302}{}{Grrr...}
-
 {501}{}{Ich hab deine blöde Uhr nicht geklaut!}
 {502}{}{Ich bin unschuldig, ich sag's dir!}
 {503}{}{Du würdest ja nicht einmal eine Scheune treffen!}
-
 {550}{}{Er hört dir überhaupt nicht zu.}
-
 {600}{}{Du hast den Konflikt zwischen Farrel und Cornelius friedlich beigelegt.}

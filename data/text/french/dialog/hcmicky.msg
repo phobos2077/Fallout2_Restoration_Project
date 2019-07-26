@@ -11,14 +11,14 @@
 {110}{}{Non, pas aujourd'hui. Mais si j'en rencontre, tu le sauras.}
 {111}{}{Hé bien, oui, en fait. Je crois que tu serais le parfait partenaire pour, dirions-nous, une *association*.}
 {112}{}{Comment t'appelles-tu ?}
-{113}{}{Laisse tomber.}
+{113}{}{Ca ne fait rien.}
 {114}{}{Moi ? C'est Micky, suave et débonnaire Chasseur de Trésors des Collines Brisées.}
 {115}{}{Chasssseurrs ?}
-{116}{}{Salut.}
+{116}{}{Salut !}
 {117}{}{Chasseur de trésors ?}
 {118}{}{Marrant. Bonne journée.}
 {119}{}{Ne me dis pas que tu ne me connais pas ? N'as-tu donc jamais entendu parler des aventures de Micky Speedy ? De ses duels au pistolet, de ses coups à deux poings, de ses pillages pernicieux ?!}
-{120}{}{Non.}
+{120}{}{Léé.}
 {121}{}{Je crains ne jamais en avoir eu le plaisir.}
 {122}{}{Eh ben, t'en as raté de bien bonnes. Un de ces jours, il faudra que je te raconte les détails sanglants.}
 {123}{}{Ouiiii.}
@@ -45,4 +45,3 @@
 {144}{}{Quoi ? Dans le centre-ville ? Ha ! Celui qui t'a dit ça est soit fou, soit menteur. A l'exception de quelques endroits nauséabonds et humides, j'ai été partout dans cette ville et je n'ai rien trouvé. Je crois que je vais continuer mon chemin.}
 {145}{}{Trop nuuul. Salut.}
 {146}{}{C'est trop nul. J'espérais vraiment des informations. bon, alors salut.}
-

@@ -3,7 +3,7 @@
 {102}{}{Tu vois un jeune homme à la musculature impressionnante. Il a l'air sûr de lui.}
 {103}{}{Bonjour à toi, }
 {104}{}{. Tu ne peux pas passer. Tu n'as pas terminé l'épreuve de la Doyenne.}
-{105}{}{Hein ? Euh...}
+{105}{}{Euh...}
 {106}{}{Je dois retourner au village.}
 {107}{}{J'ai quelques questions à te poser.}
 {108}{}{Très bien, je vais relever le défi.}

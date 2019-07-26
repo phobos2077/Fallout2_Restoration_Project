@@ -1,8 +1,6 @@
 {100}{}{Diese Person schwankt irgendwie.}
 {101}{}{Du siehst den Barkeeper der Party.}
 {102}{}{Er hat wohl ein paar seiner Sachen selbst getestet.}
-#edit below by killap - was 202
-{210}{}{Sie hat wohl ein paar ihrer Sachen selbst getestet.}
 {103}{}{Wa...wa...was willsse. [Hick.]}
 {104}{}{Nuka-Cola [$6]}
 {105}{}{Bier [$15]}
@@ -20,7 +18,7 @@
 {117}{}{Oh, Mann! Du has' nich' genuch Geld! Komm wieder, wennde was has'.}
 {118}{}{[Ende]}
 {119}{}{Er schaut irgendwie wild aus.}
-{120}{}{Du siehst einen Junkie.}
+{120}{}{Du siehst einen Jettie.}
 {121}{}{Er ist scheinbar leicht nervös.}
 {122}{}{Waswillste? Ichhaballes!}
 {123}{}{Mentats [$560]}
@@ -37,43 +35,34 @@
 {134}{}{Ich gehen.}
 {135}{}{OHJA! Dasgibtdirwiederkraft!}
 {136}{}{[Ende]}
-
-#Drunk: sets the sex flag
 {150}{}{Hey, du bist irgendwie süß, wie heißt du?}
 {151}{}{Noch 'n bißchen higher. Ohh jaa.}
 {152}{}{Na, biste so weit...kommste gut drauf?}
 {153}{}{Na..na..na..na nu na.}
 {154}{}{Schau, so. Ja.}
-#Drunk: the sex flag is set and you got some
 {155}{}{Nich' jetz', geh weg.}
 {156}{}{Laß mich hier betrunken sein.}
 {157}{}{Komm woanders gut drauf.}
-#prop Drunk
 {158}{}{Wie wär's, wenn wir uns 'n einsames Plätzchen suchen?}
 {159}{}{Ahh, laß es uns tun!}
 {160}{}{Nee, Ich bin blau.}
 {161}{}{::Rülps:: [lächelt]}
-
-#Addict: set the sex flag
 {170}{}{Hey, willste hinter den Busch da gehn?}
 {171}{}{Hast du's schon mal gemacht, als du drauf warst?}
 {172}{}{Ich könnt dir die Sterne zeigen, Baby.}
 {173}{}{Weißte, ich sehn mich nach 'n bißchen Liebe.}
 {174}{}{Ich hatt gehofft, ich würd jemand treffen, der mit mir geht.}
-#Addict: the set flag is set and you got some
 {175}{}{Das hat schon gereicht.}
 {176}{}{Hey, haste 'ne Zigarette?}
 {177}{}{Hey, jetzt klammer bloß nicht zu sehr - ich brauch meine Freiheit.}
-#prop Addict
 {178}{}{Du bist so geschmeidig wie ein Panther und ich will dich reiten.}
-{179}{}{Biste spitz?}
+{179}{}{Fertig?}
 {180}{}{Nich' jetzt, ich muß erst was Jet haben.}
 {181}{}{Alle Mann auf Gefechtsstation - wir gehen rein.}
-
 {200}{}{Sei kein Blödmann!}
 {201}{}{Feier woanders.}
 {202}{}{Wer hat dich denn reingelassen?}
-
 {203}{}{Das ist nicht cool!}
 {204}{}{Nur die Ruhe!}
 {205}{}{Reg dich ab, Mann!}
+{210}{}{Sie hat wohl ein paar ihrer Sachen selbst getestet.}

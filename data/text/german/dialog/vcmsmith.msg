@@ -3,7 +3,7 @@
 {102}{}{Dich hab ich hier glaub ich noch nie gesehen, Fremder. Ich heiße Smith. Kann
  ich dir irgendwie helfen?}
 {103}{}{Brauchst du sonst noch irgendwas?}
-{104}{}{Erzähl mir mal was über Vault City.}
+{104}{}{Kannst du mir was über Vault City erzählen?}
 {105}{}{Was treibst du hier so?}
 {106}{}{Ich suche die Vault.}
 {107}{}{Ich würd dir gern mit dem Pflug helfen.}
@@ -12,40 +12,40 @@
 {110}{}{Umpf... Wasn jetz los?}
 {111}{}{Das, was du hier siehst, ist gar nicht wirklich Vault City... Das ist es der Vorhof der Stadt.}
 {112}{}{Warum bist du nicht in der Stadt?}
-{113}{}{Was tust du hier?}
-{114}{}{Kann ich dich noch was anderes fragen?}
-{115}{}{Danke. Auf Wiedersehen.}
+{113}{}{Was machst du hier?}
+{114}{}{Kann ich dich noch etwas anderes fragen?}
+{115}{}{Vielen Dank. Auf Wiedersehn.}
 {116}{}{Ich betreibe mit meiner Familie einen Bauernhof hier im Hof. Wir kommen einigermaßen
  zurecht. Aber ich weiß nicht, für wie lange noch.}
-{117}{}{Woran liegt's?}
+{117}{}{Wo liegt das Problem?}
 {118}{}{Warum bist du nicht in der Stadt?}
-{119}{}{Kann ich dich noch was anderes fragen?}
+{119}{}{Kann ich dich noch etwas anderes fragen?}
 {120}{}{Ja, harte Zeiten sind das. Mach's gut.}
 {121}{}{Stimmt, alter Knabe. Ich muß jetzt los.}
 {122}{}{Meinst du die Vault in der Stadt? Ich hab sie nur einmal gesehen... sie ist innerhalb der
  Stadtmauern am Abhang, glaube ich. Da lassen sie aber nur Bürger rein.}
-{123}{}{Kann ich dich noch was anderes fragen?}
+{123}{}{Kann ich dich noch etwas anderes fragen?}
 {124}{}{Danke für die Beschreibung. Tschüß.}
 {125}{}{So Leute wie mich und meine Familie lassen sie da nicht rein. Wir leben hier unter dem
  Schutz der Stadt.}
 {126}{}{Warum dürft ihr nicht in der Stadt leben?}
 {127}{}{Schutz? Was für Schutz? }
-{128}{}{Kann ich dich noch was anderes fragen?}
+{128}{}{Kann ich dich noch etwas anderes fragen?}
 {129}{}{Ach so, verstehe. Danke für deine Geduld. Wiedersehn.}
 {130}{}{Ohne Pflug ist's wirklich hart. Wir schuften und schuften, aber es kommt nicht viel dabei rum.}
 {131}{}{Kann ich helfen?}
-{132}{}{Kann ich dich noch was anderes fragen?}
+{132}{}{Kann ich dich noch etwas anderes fragen?}
 {133}{}{Tut mir echt leid. Wiedersehn.}
 {134}{}{Sicher.}
 {135}{}{Naja, wir sind aus dem Ödland, genau wie du auch. Daher können wir schon froh sein, wenn
  Vault City uns wenigstens schützt.}
 {136}{}{Wie sieht dieser Schutz denn aus?}
-{137}{}{Kann ich dich noch was anderes fragen?}
-{138}{}{Danke. Auf Wiedersehen.}
+{137}{}{Kann ich dich noch etwas anderes fragen?}
+{138}{}{Vielen Dank. Auf Wiedersehn.}
 {139}{}{Sie schützen uns gegen Überfälle von außen, aber wir müssen kräftig dafür zahlen. Und
  ohne Pflug kommt man dabei auf keinen grünen Zweig.}
 {140}{}{Kann ich dir mit dem Pflug irgendwie helfen?}
-{141}{}{Kann ich dich noch was anderes fragen?}
+{141}{}{Kann ich dich noch etwas anderes fragen?}
 {142}{}{Tut mir echt leid. Wiedersehn.}
 {143}{}{Meine Frau und ich reden nicht mit Leuten wie dir.}
 {144}{}{Mary, halt dich von dem Typen da fern.}
@@ -53,7 +53,7 @@
  aber wir wären dir natürlich sehr dankbar.}
 {146}{}{Uahh! Wenn ihr nichts zahlen könnt, kann ich euch auch nicht helfen.}
 {147}{}{Kein Problem. Ich helf euch gerne.}
-{148}{}{Kann ich dich noch was anderes fragen?}
+{148}{}{Kann ich dich noch etwas anderes fragen?}
 {149}{}{Ich werde mal drüber nachdenken. Tschüß.}
 {150}{}{Wir haben ungefähr 150 Dollar gespart, vielleicht nützt das ja was. Aber wir können die
  nächste Zahlung nicht mehr leisten, wenn wir den Pflug nicht bis nächste Woche haben.}

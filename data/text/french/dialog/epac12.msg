@@ -3,9 +3,7 @@
 {102}{}{Ses yeux sont d'une couleur différente : l'un marron teinté de jaune, l'autre vert pomme.}
 {103}{}{Tu vois une femme mince aux cheveux noirs qui a l'air difficile à cerner.}
 {104}{}{Elle a un visage apaisant et un regard envoûtant.}
-
 {150}{}{C'est pas bien de mater...}
-
 {200}{}{Tu remarques un coffre avec de l'eau glacée s'écoulant lentement à travers un long et sinueux tuyau. A l'intérieur, une femme nue de la tête aux pieds gît, grelottante. En parcourant rapidement les alentours du regard, tu remarques un tas de vêtements abandonnés et tu couvres la pauvre femme avec en réponse à ses frissons.}
 {201}{}{Whoa. Ca a dû être un sacré voyage. Ca va aller ?}
 {202}{}{O-oui, le p-p-préservateur a r-restauré la t-t-température d-de mon c-corps.}
@@ -26,7 +24,7 @@
 {217}{}{Ca va aller ?}
 {218}{}{Mon Dieu. Je n'y crois pas. J'ai passé plus d'un siècle à l'intérieur de ce truc ?!}
 {219}{}{On dirait bien. Hé, attends, me regarde pas comme ça. J'ai rien à voir avec le fait que t'aies passé ta vie dans ce machin. En fait, je suis né il y'a seulement une vingtaine année. Je suis tombé par hasard sur cet endroit et j'ai voulu voir ce qui s'y passait.}
-{220}{}{Bon, tu vas m'aider, ou tu préfères que je reste nue à tes pieds ?}
+{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
 {221}{}{J'allais justement le faire. [Tu l'aides à se mettre debout.]}
 {222}{}{Pourquoi m'as-tu réveillée ?}
 {223}{}{Aucune raison particulière.}
@@ -40,7 +38,6 @@
 {231}{}{[Elle enfile un pantalon.] Alors, que fait-on maintenant ?}
 {232}{}{Eh bien, On ne s'est pas encore présentés. Je m'appelle }
 {233}{}{. et toi ?}
-{2330}{}{Et si tu me disais ton nom ? Je suis }
 {234}{}{Tu peux m'appeler Kitsune.}
 {235}{}{Kitsune, que faisais-tu cryogénisée dans ce coffre ?}
 {236}{}{J'en suis pas vraiment sûre. Ils savaient qu'une guerre se préparait, alors ils m'ont mise dans un préservateur comme les autres.}
@@ -50,31 +47,19 @@
 {240}{}{J'étais femme au foyer, mariée à un conseiller municipal. Avant ça, j'écrivais des articles de presse. C'est pas vraiment ce que l'on appellerait une vie trépidante.}
 {241}{}{Qu'est-il arrivé à ton mari ?}
 {242}{}{Je ne sais pas. Probablement l'une des milliards de victimes. Je doute que quelqu'un de ma famille ait réussi à survivre à la guerre.}
-
-#dialogue added 12/31/08
 {245}{}{Eh bien, puisque tu me laisses le choix... [Sourire narquois.]}
 {246}{}{[Elle te regarde sans un mot.]}
 {247}{}{Oh, je veux dire, bien-sûr je vais t'aider. [Tu l'aides à se relever.]}
-
-
-#join me
 {250}{}{Que comptes-tu faire maintenant ?}
 {251}{}{Je ne sais pas. Que fait-on quand on vient d'hiberner plus d'un siècle ? Même les ours ne dorment pas aussi longtemps. Le monde dehors n'est pas celui que j'ai connu. Je ne sais pas si je peux supporter de voir ce qu'il est devenu.}
 {252}{}{Je sais que c'est un désert dehors, mais t'as encore la vie devant toi. T'étais en train de la gâcher dans ce coffre. Viens avec moi et peut-être qu'on pourra en faire quelque chose de passionnant.}
 {253}{}{Visiblement, tu n'as pas beaucoup d'options. Soit tu restes ici à pourrir, ou alors tu pourrais venir avec moi. Ca dépend de toi.}
-
-
-#join success
 {260}{}{Tu sais, t'as raison. Je pourrais repartir me congeler et dormir pour 100 autres années, mais ça, ça serait la solution de facilité. J'ai besoin de voir par moi-même ce que le monde est devenu, et contribuer à sa restauration.}
 {261}{}{Allez viens. Commençons par prendre un steak de Brahmine.}
 {262}{}{Ne me le fais pas le regretter.}
-
-#join failure
 {270}{}{Oublie ça. Ca a été comme ça pendant plus d'un siècle. Qu'est-ce qui te fait penser qu'on pourrait y changer quelque chose ?}
 {271}{}{Je reviendrai. Peut-être que tu auras changé d'avis.}
 {272}{}{Peut-être. Mais n'y compte pas trop. Je devrais plutôt repartir dormir pour un siècle de plus.}
-
-#2nd chance at join failure
 {280}{}{Et si ces machines s'arrêtaient de fonctionner ? Tu mourrais, tu ne sauras même pas si la Terre qui a été détruite s'est jamais reconstruite pour redevenir le monde que tu as connu.}
 {281}{}{Ensuite je verrai ce qu'il en advient de n'importe quel endroit.}
 {282}{}{Comment peux-tu être sûre de te retrouver dans un endroit si particulier après être sortie du grand sommeil ? Je viens d'une tribu qui croit en la vie après la mort mais d'un point de vue pragmatique nous sommes tous des machines organiques qui pensent, parlent, ressentent à cause de notre chair et de ses composants chimiques. Et s'il n'avait rien après la mort, qu'on s'éteigne comme des ordinateurs, et que tout cela soit tout ce que nous ayons ?}
@@ -82,25 +67,18 @@
 {284}{}{Ah ouais ? T'as plus l'air aussi sûre de toi tout d'un coup.}
 {285}{}{[Kitsune médite sur tes paroles pendant un long moment. Finalement, son regard se pose sur le tien.] Je ne peux pas nier le fait que tu aies raison sur ce point. Peut-être que... Peut-être que je vais tenter ma chance avec toi.}
 {286}{}{Allons-nous en d'ici alors. Il est temps que je parte de cet endroit.}
-
-#NPC doesn't join and leaves for good
 {287}{}{En fait, je crois que je vais partir d'ici toute seule. J'ai toujours été une femme indépendante, alors ça ne devrait pas être trop dur pour moi. Beaucoup de choses ont changé depuis mon sommeil et j'ai envie de découvrir tout ça par moi-même. Merci de m'avoir réveillée. Prends soin de toi.}
 {288}{}{[Terminé]}
-
-#in party
 {300}{}{Oui ?}
 {301}{}{Je suis toute ouïe.}
 {302}{}{Y'a quelque chose que tu voulais ?}
 {303}{}{Qu'y a-t-il ? T'as l'air d'avoir quelque chose à me dire.}
 {304}{}{Quel est le problème ?}
 {305}{}{Y'a-t-il quelque chose que je puisse faire pour toi ?}
-
-#past
 {310}{}{Kitsune, Je suis sûr que tu n'aurais pas été congelée dans un réservoir cryogénique sans une bonne raison. J'aimerais savoir ce que tu as fait exactement avant que l'on te congèle.}
 {311}{}{Pourquoi ? C'est du passé.}
 {312}{}{Nous voyageons ensemble. Je veux en savoir plus sur toi.}
 {313}{}{[Elle soupire.] Bon, j'imagine que la discrétion n'est plus nécessaire. C'est juste difficile de perdre une habitude que j'ai depuis toujours. En fait, je suis née espionne.}
-{3130}{}{Bien. Maintenant, on y arrive.}
 {314}{}{Mon père était chinois, mais lui et sa famille n'étaient pas des amis du gouvernement chinois. Il est né à Pékin mais il a reçu la plus grande part de son éducation ici, aux States. Quand il est rentré à la maison et a eu un boulot de serviteur public, il avait déjà été recruté par les américains comme agent secret.}
 {315}{}{Je ne suis pas particulièrement familier de la politique de ce temps, mais je pense comprendre ce que tu dis : ton père était chinois, mais il était secrètement espion au service des américains. Et les chinois ne l'ont jamais suspecté ?}
 {316}{}{Mon père fut employé du ministère de l'agriculture durant trente-huit ans.}
@@ -109,14 +87,11 @@
 {319}{}{Ca ne pouvait pas se passer si bien.}
 {320}{}{A vrai dire, ça ne s'est pas si mal passé. Tu vois, l'assistant en question partageait les mêmes opinions que mon père, et après quelques mois, ils se sont retrouvés mariés.}
 {321}{}{Y'en a qui ont de la chance.}
-{3210}{}{Ok, maintenant que je connais la vie de ton père, pourrais-tu en venir au moment te concernant ?}
 {322}{}{Ils m'ont eu un an plus tard. J'ai été élevé en Chine, sous le visage d'une patriote. A l'école, j'écrivais sur la force de la Chine unifiée, et nous devions continuer à promouvoir l'équité sociale. Quand j'étais plus âgée, j'ai écrit pour des journaux nationalistes et participé à des débats soutenant le parti.}
 {323}{}{Wow, tout ça me passe au-dessus de la tête. Mais si je comprends bien, tu dis que toi et tes parents trompaient les chinois en leur faisant croire que vous étiez fidèles. Je vois.}
 {324}{}{Tes parents se sont donné du mal pour cacher la véritable allégeance de ta famille.}
 {325}{}{Toutes les guerres sont basées sur une tromperie. Mes parents aimaient leur pays. Ils haïssaient seulement les gens qui le dirigeaient et pensaient qu'il se porterait mieux en démocratie. De leur point de vue, ils ne trahissaient pas la Chine, ils travaillaient contre un gouvernement qu'ils ne considéraient pas bon pour le pays.}
 {326}{}{Continue.}
-{3260}{}{Donc ils étaient des traîtres à leur peuple, mais pour le bien de ce peuple. Je vois.}
-{3261}{}{Bon, j'en ai assez entendu sur tes parents. Et si tu passais directement au moment ou tu es devenue une espionne ?}
 {327}{}{Je me suis mariée avec un fonctionnaire qui bossait pour le Ministère National Chinois de la Défense. Je l'ai choisi parce que c'était le plus bavard sur son travail quand nous étions ensemble. Alors j'ai joué le rôle d'une épouse dévouée, tandis que je faisais mes rapports à mes supérieurs américains. Mais c'est ensuite que les choses se sont corsées.}
 {328}{}{Et comment ?}
 {329}{}{Mon père fût contacté par le docteur Raynar Muldrake, un ancien collègue avec qui il avait travaillé quand il était aux States. Le docteur Muldrake a demandé en urgence une entrevue privée, mais mon père était en mauvaise santé en ce temps, et il n'était pas en état de voyager. Le docteur Muldrake a accepté de me rencontrer à sa place.}
@@ -133,14 +108,10 @@
 {340}{}{Le gouvernement américain désespérait de trouver la fuite. Il m'ont finalement attrapée juste avant la fin. Ils se préparaient déjà à me congeler quand les sirènes ont commencé à retentir. Probablement pour me préserver au cas ou j'aurais d'autres secrets à révéler.}
 {341}{}{Et c'était le cas ?}
 {342}{}{Ca n'a plus aucune importance maintenant. Tout le monde est mort...}
-
-#you caused the war
 {345}{}{As-tu une idée des conséquences que tu as provoquées ?}
 {346}{}{Ce que j'ai provoqué ? La planète aurait fini par exploser tôt ou tard de toute façon. C'était seulement une question de temps.}
 {347}{}{Peut-être que tu devrais garder ce genre d'information pour toi la prochaine fois.}
 {348}{}{Je vois où tu veux en venir.}
-
-#you didn't cause the war
 {350}{}{Tu dois te sentir coupable, mais tu peux pas t'en vouloir pour quelque chose comme ça.}
 {351}{}{C'est toujours plus facile de ne pas prendre ses responsabilités.}
 {352}{}{Tu pouvais pas savoir. En plus, il y avait d'autres conflits entre les deux puissances. Ils se seraient fait exploser l'un et l'autre tôt ou tard. C'était juste une question de temps.}
@@ -149,14 +120,10 @@
 {355}{}{La nature a tenté de nous exterminer depuis un millénaire. Toutes ces nouvelles maladies, catastrophes naturelles. Nous étions une sorte d'erreur de l'évolution. Peut-être que nous sommes apparus trop tôt ou alors nous n'étions même pas sensés apparaître du tout. Nous avons fait plus de dommages à cette planète que n'importe quelle autre espèce existante ou disparue.}
 {356}{}{Mais nous pouvons expier notre faute. Et ça c'est notre particularité.}
 {357}{}{Tu as une terriblement belle façon de voir les choses. Merci de m'avoir écoutée. J'ai presque l'impression de pouvoir passer à autre chose.}
-
-#teach me something
 {360}{}{Dis, vu que tu es une espionne, je suis sûr que tu dois être très discrète. T'as quelque chose à m'apprendre ?}
 {361}{}{Ouais, j'ai pas mal de pratique dans la filature, le crochetage de serrure, et le vol. Maintenant, laisse-moi t'apprendre les trucs que l'on de dit pas dans les bouquins.}
 {362}{}{Ca y est, tu y es. Rappelle-toi bien, plus tu pratiqueras plus tu seras efficace.}
 {363}{}{Hé, merci. Je crois qu'il est temps d'y aller.}
-
-#your eyes
 {370}{}{Tes yeux...}
 {371}{}{Qu'est-ce qu'ils ont ? }
 {372}{}{Ils sont d'une couleur différente.}
@@ -165,12 +132,8 @@
 {375}{}{Que veux-tu dire ?}
 {376}{}{Depuis que j'ai subit cette transplantation, j'ai toujours eu l'impression de voir le passé d'un oeil et le présent de l'autre. Et maintenant plus que jamais. Et ça me donne la force d'avancer.}
 {377}{}{On a tous notre manière de copier.}
-
-#skills
 {410}{}{Que veux-tu savoir ?}
 {411}{}{Je suis ceinture noire de sanshou. Je peux poignarder n'importe qui si la situation se présente. Je suis également relativement douée dans le maniement des pistolets et fusils.}
-
-#distance
 {420}{}{Parlons un peu de la distance entre nous.}
 {421}{}{Quel est le problème ?}
 {422}{}{Reste près de moi.}
@@ -179,13 +142,9 @@
 {425}{}{T'as sûrement besoin d'espace, non ?}
 {426}{}{Dispersons-nous.}
 {427}{}{Ok. Nous serons des cibles plus difficiles à abattre si on se sépare.}
-
-#wait
 {430}{}{Ne me fais pas trop attendre ou je partirai sans toi.}
 {431}{}{Je vais jouer au solitaire ou autre chose le temps que tu reviennes.}
 {432}{}{J'suis sûre que je trouverai quelque chose à faire le temps que tu reviennes.}
-
-#come back
 {440}{}{Quand t'as besoin de moi, j'suis là.}
 {441}{}{Content que tu sois de retour. J'ai organisé des auditions mais je ne suis pas parvenu à trouver meilleure compagnie.}
 {442}{}{Je t'ai manquée ?}
@@ -193,148 +152,70 @@
 {444}{}{J'étais en train de penser que tu ne reviendrais jamais.}
 {445}{}{Il était temps. Dans la Chine ancienne, le manque de ponctualité t'aurait valu la pendaison,la lapidation et l'écartèlement.}
 {446}{}{J'étais justement en train de penser à toi.}
-
-#lets go
 {450}{}{Tu as bien sûr pris tout ton temps pour faire tout ce que tu faisais sans moi.}
 {451}{}{C'est bon d'être de nouveau sur la route.}
 {452}{}{Où va-t-on ?}
 {453}{}{Alors, où va-t-on ?}
 {454}{}{Je vous suis, cap'taine.}
-
-#party full
 {460}{}{T'as déjà assez de monde avec toi. T'as pas besoin qu'une foule te colle aux basques.}
 {461}{}{Peut-être lorsque t'auras un peu plus de place. J'aime pas la foule.}
-
 {462}{}{T'es prêt pour me compter dans l'équipe ?}
-{463}{}{Allons-y.}
-{464}{}{Nan, pas encore.}
-
-#ch <= 1
+{463}{}{C'est parti.}
+{464}{}{Non, pas encore.}
 {470}{}{Mon Dieu, tu ressembles à la faucheuse. Tu ferais mieux de te soigner.}
-
-#remove armor
 {480}{}{Pas de problème. Je me sens plus légère dans mes baskets sans ce machin.}
-
-#hurt
 {490}{}{Je n'ai jamais été aussi en forme. Allons-y.}
 {491}{}{J'ai vu pire. Juste quelques égratignures.}
 {492}{}{Ca va pas trop mal. Juste quelques blessures.}
 {493}{}{Ca va pas très bien là... Y'a plus de sang qui sort de mon corps que je pensais qu'il y'en avait à l'intérieur.}
 {494}{}{J'ai besoin de me faire soigner ou alors je ne vais plus te servir à grand-chose.}
 {495}{}{Je ne peux pas tenir plus longtemps... Laisse-moi mourir ou emmène-moi voir un médecin. Vite.}
-
-#remove weapon
 {500}{}{Puisque tu insistes. Je pourrai toujours briser des nuques avec mes mains.}
-
-#location floats
-
-#EPA
 {1000}{}{J'arrive pas à croire que j'ai passé plus d'un siècle dans cet endroit.}
-
-#ARROYO
-{1010}{}{C'est pas trop le genre de lieu où je suis née, ici, sans vouloir te vexer.}
-
-#TEMPLE OF TRIALS
+{1010}{}{C'est pas trop le genre de lieu où je suis née, sans vouloir te vexer.}
 {1020}{}{On dirait un lieu funéraire pour un empereur du XVème siècle.}
-
-#KLAMATH
 {1030}{}{Cet endroit sent le fumier où que l'on aille.}
-
-#TOXIC CAVES
 {1040}{}{Je ne pense pas qu'il soit sage d'entrer là-dedans sans les chaussures adéquates.}
-
-#THE DEN
 {1050}{}{Oh j'ai vu pire, crois-moi. Mais c'est pas pour ça que j'aime cet endroit...}
-
-#MODOC
 {1060}{}{Rustique. J'aime ça.}
-
-#GHOST FARM
 {1070}{}{On se croirait dans un film d'horreur.}
-
-#GECKO
 {1080}{}{Je peux sentir les radiations dans l'air.}
-
-#VAULT CITY (OUTER)
 {1090}{}{Qu'est-ce que cet endroit est-il sensé être, un camp de travail ?}
-
-#VAULT CITY (INNER)
 {1100}{}{Les gens à l'intérieur se portent tellement mieux que ceux de l'extérieur. Le monde n'a pas tant changé que ça finalement.}
-
-#REDDING
 {1110}{}{Comment appelles-tu ce genre de ville minière ?}
-
-#PRIMITIVE TRIBE
 {1120}{}{C'est pas trop le genre de lieu où je suis née, sans vouloir te vexer.}
-
-#RAIDERS
 {1130}{}{C'est une bonne cachette si la police est à tes trousses.}
-
-#SIERRA ARMY DEPOT
 {1140}{}{Je me demande s'il y'a d'autres bunkers comme celui-ci dans le coin.}
-
-#NEW RENO
 {1150}{}{La plus grande des petites villes de la planète. J'parie.}
-
-#STABLES
 {1160}{}{Ils ne doivent pas garder que du bétail ici...}
-
-#GOLGOTHA
 {1170}{}{Des morts, de partout...}
 {1171}{}{Je ne voudrais pas être enterrée ici.}
-
-#BROkEN HILLS
 {1180}{}{Au final, nous allons au devant de dame Nature et continuons d'évoluer, n'est-ce pas ?}
-
-#SAN FRANCISCO
 {1190}{}{Ca fait depuis le Taipei 101 que je n'ai pas vu un building aussi grand.}
-
-#MILITARY BASE
 {1200}{}{Ils ont sûrement très bien verrouillé cette base.}
-
-#VAULT 13
 {1210}{}{J'ai entendu parler de ces bunkers...}
-
-#NEW CALIFORNIA REPUBLIC
 {1220}{}{C'est sympa de se promener dans une ville qui n'a pas l'air trop détraquée.}
-
-#VAULT 15
 {1230}{}{J'ai entendu parler de ces bunkers...}
-
-#ABBEY
 {1240}{}{Un lieu si sacré au beau milieu de ces ordures.}
-
-#DESERT MAP
 {1250}{}{Il fait chaud ici.}
 {1251}{}{Je transpire à pleines gouttes.}
 {1252}{}{Je meurs de soif.}
 {1253}{}{Je n'aime pas le sable. C'est rêche et irritant. J'arrive pas à croire ce que je viens de dire.}
 {1254}{}{Sulik, Tu connais la danse de la pluie ?}
-
-#MOUNTAIN MAP
 {1260}{}{On est loin de la civilisation ici.}
-
-#SEASIDE
 {1270}{}{Même si je filtrais tout le sel de cette eau, je doute qu'elle soit potable.}
 {1271}{}{Les poissons qu'il y'a dans ces eaux sont sûrement des mutants.}
 {1272}{}{C'est cool ici.}
 {1273}{}{100 billets à celui qui piquera une tête dans cette eau.}
-
-#CAVE
 {1280}{}{On voit rien là-dedans.}
 {1281}{}{Cet endroit sent mauvais, et si je pouvais y voir plus clair, ça aurait certainement l'air bien pire.}
 {1282}{}{Attention. Il y'a certainement quelque chose de vilain et répugnant caché dans ce trou.}
 {1283}{}{Ce sont des chauves-souris que j'entends ?}
 {1284}{}{Que comptes-tu faire, spéléologue ?}
 {1285}{}{Vaudrait mieux allumer une bougie plutôt que de s'aventurer dans le noir.}
-
-#CITY RUINS
 {1290}{}{La guerre... Ca nous a fait du bien.}
 {1291}{}{Tu es né poussière et tu redeviendras poussière...}
 {1292}{}{Ca me rappelle l'endroit où j'habitais...}
-
-#general floats
-
 {2001}{}{Mes yeux te dérangent tant que ça ?}
 {2002}{}{Je ferais bien trempette dans une source d'eau chaude. Je me demande s'il en reste dans le coin.}
 {2003}{}{Je tuerais pour trouver quelqu'un qui jouerait au mahjong avec moi.}
@@ -348,75 +229,42 @@
 {2011}{}{T'as pas soif ? Moi si.}
 {2012}{}{::Bâillement::}
 {2013}{}{L'Homme construit et Dieu détruit.}
-
-#sulik in party
 {2020}{}{Hé, Sulik. Que racontent les esprits ?}
-
-#vic in party
 {2030}{}{Tu veux faire un régime Vic ? Demande-moi quand tu veux pour une leçon de Tae Bo.}
-
-#miria in party
 {2040}{}{Ta femme ne parle que d'elle.}
 {2041}{}{Dis à ta femme d'arrêter de me coller.}
-
-#myron in party
 {2050}{}{Arrête de mater ma poitrine, Myron.}
 {2051}{}{Ca te dirait de la fermer deux minutes, Myron ? Ca te tuerait ?}
 {2052}{}{Non, Myron. Je ne coucherai pas avec toi, même si tu construisais une machine à remonter le temps.}
 {2053}{}{Ecoute-moi bien, Myron. Si je te prends encore à mettre tes mains sur mes épaules, je te jure que je ferai de toi un eunuque.}
-
-#marcus in party
 {2060}{}{Hé, Marcus. Tu veux faire un peu de catch ?}
-
-#k-9 and dogmeat both in party
 {2070}{}{On a largement assez de chiens qui nous suivent. On en a pas besoin d'autres.}
-
-#poisoned
 {2100}{}{Ugh, je me sens pas bien.}
 {2101}{}{Je crois que j'ai été empoisonnée.}
-
-#radiated
 {2110}{}{Y'a quelque chose de bizarre chez moi...}
 {2111}{}{Je me sens bizarre...}
 {2112}{}{Mes mains, elles brillent...}
 {2113}{}{Je suis un renard, pas un serpent... Alors pourquoi suis-je en train de peler ?}
 {2114}{}{Ca brûle à l'intérieur... Qu'est-ce qu'il m'arrive ?}
-
-#broken limb
 {2120}{}{Ce membre devait être examiné au plus vite sinon va falloir amputer.}
 {2121}{}{Wow, ce membre est définitivement cassé. Ugh.}
-
-#blind
 {2130}{}{Je ne vois plus très bien désormais.}
 {2131}{}{On dirait qu'une opération de l'oeil serait la bienvenue...}
-
-#items used on Kitsune - Nodes 4000
-
-#stimpak
+{2330}{}{Et si tu me disais ton nom ? Je suis }
 {3000}{}{Ca va mieux.}
 {3001}{}{Je te remercie. Ils tombent bien ceux-là.}
 {3002}{}{Je me sens déjà mieux. Merci.}
 {3003}{}{Merci. J'en avais bien besoin.}
 {3004}{}{T'en as assez pour toi ?}
-
-#booze
 {3010}{}{C'est fort. Une bonne chose que je tiennes bien l'alcool.}
 {3011}{}{Je ne sais même pas pourquoi je bois ça. Ca a le goût d'un détergent.}
 {3012}{}{Je n'ai jamais trop aimé l'alcool. Mais ça soulage la douleur.}
 {3013}{}{Il n'y a rien d'autre à boire ?}
 {3014}{}{Je vais finir complètement saoule à ce rythme.}
 {3015}{}{Voilà où s'en va ma résolution de rester sobre aujourd'hui.}
-
-#psycho
 {3020}{}{Mon Dieu... Espérons que l'on ne tombera pas sur un gang de mecs shootés à cette drogue.}
-
-#buffout
 {3030}{}{Tu ferais mieux d'y aller doucement. Ce truc dérègle ta testostérone.}
-
-#mentats
 {3040}{}{J'espère que ça ne va pas me transformer en idiote une fois que ça ne fera plus effet.}
-
-#jet
 {3050}{}{La dépendance c'est une araignée d'abord, et une toile ensuite.}
 {3051}{}{L'épée est plus puissante que le ciel.}
 {3052}{}{Oeil pour dent, dent pour tous.}
@@ -486,8 +334,10 @@
 {3116}{}{Ramène un club à l'intérieur de la tanière d'un tigre.}
 {3117}{}{Une ordure jette un collier de perles.}
 {3118}{}{Empereur Caviar.}
-
-#Don't apply ERSI to specimen == horrible flaming death for specimen
-{5000}{}{[La personne te regarde dans les yeux, ses yeux s'ouvrent soudainement et elle se met inspirer profondément.]}
-{5001}{}{[Fin]}
+{3130}{}{Bien. Maintenant, on y arrive.}
+{3210}{}{Ok, maintenant que je connais la vie de ton père, pourrais-tu en venir au moment te concernant ?}
+{3260}{}{Donc ils étaient des traîtres à leur peuple, mais pour le bien de ce peuple. Je vois.}
+{3261}{}{Bon, j'en ai assez entendu sur tes parents. Et si tu passais directement au moment ou tu es devenue une espionne ?}
+{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
+{5001}{}{[FIN]}
 {5002}{}{Bordel de merde !}

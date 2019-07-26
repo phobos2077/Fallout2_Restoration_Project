@@ -15,9 +15,9 @@
 {113}{}{Guten Tag, Bürger. Kann ich Dir helfen?}
 {114}{}{Ja? Gab es da noch etwas, was Du wolltest?}
 {115}{}{Weiiihnachtsmaaann?}
-{116}{}{Weglatschen}
-{117}{}{Kann ich Dir ein paar Fragen stellen?}
-{118}{}{Wer bist Du?}
+{116}{}{Verzieh dich}
+{117}{}{Kann ich dir einige Fragen stellen?}
+{118}{}{Wer bist du?}
 {119}{}{Ich schau' mich nur um, danke. Guten Tag.}
 {120}{}{Wie bist Du in unsere Stadt gekommen? Wache! Wir haben einen Outsider, der zum Tor begleitet werden muß!}
 {121}{}{Ich gehe nein ICH GEHE NEIN}
@@ -26,10 +26,10 @@
 {124}{}{Natürlich, Bürger.}
 {125}{}{Was würdest Du gerne wissen?}
 {126}{}{Was ist hier Deine Aufgabe?}
-{127}{}{Ich suche ein GECK - Garden-Eden-Creation-Kit.}
+{127}{}{Ich suche nach einem GECK.}
 {128}{}{Was kannst Du mir über die Erstbürgerin erzählen?}
 {129}{}{Ich würde Dir gerne ein paar Fragen über Gecko stellen.}
-{130}{}{Was kannst Du mir über Redding erzählen?}
+{130}{}{Was kannst du mir über Redding erzählen?}
 {131}{}{Ich muß mit Dir über Redding reden.}
 {132}{}{Wie wird man ein Bürger?}
 {133}{}{Ich denke, daß Du vielleicht einen Gegenstand hast, der Geckos Kraftwerk in Ordnung bringen kann.}
@@ -37,16 +37,16 @@
 {135}{}{Ich habe hier eine Wirtschaftsdatendisk, die Dich vielleicht interessieren könnte.}
 {136}{}{Ich habe einen Weg gefunden, den Gecko-Reaktor zu optimieren.}
 {137}{}{Hier ist die Gecko-Reaktordisk. Kannst Du sie optimieren?}
-{138}{}{Heute nicht, danke.}
+{138}{}{Heute nichts, danke.}
 {139}{}{Ich bin der Ehrwürdige Stadtrat McClure. Und Du bist...?}
-{140}{}{Das geht Dich nichts an.}
+{140}{}{Geht dich nix an.}
 {141}{}{. Nett, Dich kennenzulernen.}
 {142}{}{Ich muß jetzt wirklich gehen. Vielleicht können wir uns ein anderes Mal vorstellen.}
 {143}{}{Ich erwarte diese Art von Unhöflichkeit von einem Outsider, nicht von einem Bürger. Ich bin ein Mitglied des
  Vault City Rates und Du wirst mir den nötigen Respekt entgegen bringen, oder ich werde Deine Staatsbürgerschaft
  zurückziehen. Hast Du mich verstanden?}
 {144}{}{Verzieh' Dich, Alter.}
-{145}{}{Egal. Ich war sowieso mit unserem Gespräch fertig.}
+{145}{}{Von mir aus. Mit dir bin ich sowieso fertig.}
 {146}{}{Entschuldigung. Ich wollte Dich nicht beleidigen.}
 {147}{}{Nun, das ist Unhöflichkeit, die ich von einem Outsider erwarte! Gib mir Deinen Tagesausweis und geh' mit der Wache.
  Für Deine Sorte gibt es in dieser Stadt keinen Platz.}
@@ -62,16 +62,16 @@
 {155}{}{Du liegst verdammt richtig damit, meine Staatsbürgerschaft anzuerkennen!}
 {156}{}{Ja, richtig. Ich bin schon weg.}
 {157}{}{Sprich mich nie wieder an. Falls Du es tust, werde ich Deine Staatsbürgerschaft zurückziehen. Guten Tag.}
-{158}{}{Guten Tag.}
+{158}{}{Auf Wiedersehen.}
 {159}{}{Wenn Du versucht, meine Staatsbürgerschaft zurückzuziehen, wirst Du es bereuen.}
 {160}{}{Deine Macht ist gering, Alter. Du bist mir nicht gewachsen.}
 {161}{}{Das ist es! Bürger oder nicht, Du fliegst hier raus. Wachen, bringt diese entlarvte Person zum Tor!}
 {162}{}{Ich gehe. Dieser Ort nervt mich sowieso.}
-{163}{}{Ich gehe überhaupt nirgends hin.}
-{164}{}{Was kann ich für Dich tun?}
+{163}{}{Ich gehe nirgendwo hin.}
+{164}{}{Was kann ich für dich tun?}
 {165}{}{Weiß ich nicht, alter Mann. Was KANNST Du für mich tun?}
-{166}{}{Ich suche ein Garden-Eden-Creation-Kit.}
-{167}{}{Kann ich Dir ein paar Fragen stellen?}
+{166}{}{Ich suche nach einem GECK.}
+{167}{}{Kann ich dir einige Fragen stellen?}
 {168}{}{Heute nicht. Ich habe gerade eine Runde durch das Ratsgebäude gemacht.}
 {169}{}{EIN GECK? So wie ich es verstanden habe, hatten wir nur eines. Ich las, daß er lange überdauert hat, aber vor vielen
  Jahren zusammenbrach, noch bevor ich geboren wurde. Wir hätten zwei haben sollen...}
@@ -80,58 +80,58 @@
  die eigentlich bestimmt war für Vault Nummer...dreizehn, glaube ich. Vielleicht haben die unseren GECK erhalten.}
 {172}{}{Was war in der Sendung, die für Vault 13 bestimmt war?}
 {173}{}{Was geschah mit dem GECK, das zusammenbrach?}
-{174}{}{Kann ich Dir eine andere Frage stellen?}
-{175}{}{Ich verstehe. Danke für die Information.}
+{174}{}{Darf ich dir noch eine Frage stellen?}
+{175}{}{Alles klar. Besten Dank für die Auskunft.}
 {176}{}{Steuerchips, ungefähr hundert. Ich weiß nicht, weshalb sie so viele gesendet haben...wir mußten nie unsere alten
  ersetzen. Wir hatten dieselben Steuerchips seit dem Tag, an dem unsere Leute in dem Untergrund der Vault leben.}
 {177}{}{Was geschah mit dem GECK, das zusammenbrach?}
-{178}{}{Kann ich Dir eine andere Frage stellen?}
-{179}{}{Interessant. Danke für Deine Zeit.}
+{178}{}{Darf ich dir noch eine Frage stellen?}
+{179}{}{Sehr interessant. Danke, daß du dir Zeit für mich genommen hast.}
 {180}{}{Diese Ironie ist messerscharf. Vielleicht werden wir später miteinander reden, wenn ich das Blut gestoppt  habe.}
 {181}{}{Er wurde auseinandergenommen, und seine Teile wurden für andere Verwendungen benutzt.}
 {182}{}{Was war in der Lieferung, die für Vault 13 gedacht war?}
-{183}{}{Kann ich Dir eine andere Frage stellen?}
-{184}{}{Ich verstehe. Danke für die Zeit.}
+{183}{}{Darf ich dir noch eine Frage stellen?}
+{184}{}{Ah ja. Besten Dank für die Auskunft.}
 {185}{}{Sie ist die Herrscherin über die Leute. Die Bürger von Vault City stehen unter ihrer Führung, aber sie haben durch
  den Rat immer noch ein letztes Wort bei allen Angelegenheiten. In diesen schwierigen Zeiten ist sie eine Stütze der
  Gesellschaft.}
 {186}{}{"Schwierige Zeiten?" Was meinst Du damit?}
 {187}{}{Was ist es, was Du tust?}
-{188}{}{Kann ich Dir eine andere Frage stellen?}
-{189}{}{Danke für Deine Zeit. Wiedersehen.}
+{188}{}{Darf ich dir noch eine Frage stellen?}
+{189}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
 {190}{}{Gecko? Was möchtest Du wissen?}
-{191}{}{Wer ist Gecko?}
+{191}{}{Wo ist Gecko?}
 {192}{}{Was ist Gecko?}
-{193}{}{Kann ich Dir eine andere Frage stellen?}
-{194}{}{Danke für Deine Zeit. Wiedersehen.}
+{193}{}{Darf ich dir noch eine Frage stellen?}
+{194}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
 {195}{}{Da gibt es nicht viel zu erzählen, außer der Tatsache, daß unsere Erzlieferungen rar geworden sind und nur noch in
  großen Abständen kommen.}
 {196}{}{Hast Du irgendeine Ahnung warum?}
 {197}{}{Wo ist Redding?}
-{198}{}{Kann ich Dir eine andere Frage stellen?}
-{199}{}{Danke für Deine Zeit. Wiedersehen.}
+{198}{}{Darf ich dir noch eine Frage stellen?}
+{199}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
 {200}{}{Ich bin ein Ehrenratmitglied. Ich leite die Ratsversammlungen.}
 {201}{}{Was macht dann die Erstbürgerin?}
-{202}{}{Kann ich Dir eine andere Frage stellen?}
+{202}{}{Darf ich dir noch eine Frage stellen?}
 {203}{}{Danke für Deine Zeit. Wiedersehen.}
 {204}{}{Nun, die Staatsbürgerschaft ist nicht für jeden, verstehst Du. Du wirkst auf mich eher wie ein Abenteurer... Ich
  glaube wirklich nicht, daß die Staatsbürgerschaft etwas für Dich ist.}
 {205}{}{Na, komm jetzt... sage mir einfach, was ich tun muß, um ein Bürger zu werden.}
 {206}{}{Ich würde trotzdem immer noch gerne ein Bürger werden.}
-{207}{}{Kann ich Dir eine andere Frage stellen?}
-{208}{}{Macht dann nichts.}
+{207}{}{Darf ich dir noch eine Frage stellen?}
+{208}{}{Na, dann egal.}
 {209}{}{Du möchtest ein Bürger werden? Gut, wir wären erfreut, Dich zu haben. Du mußt nur mit dem ProKonsul Gregory reden und
  er wird Dir den Staatsbürgerschaftstest geben.}
 {210}{}{Wo kann ich ProKonsul Gregory finden?}
-{211}{}{Kann ich Dir eine andere Frage stellen?}
+{211}{}{Darf ich dir noch eine Frage stellen?}
 {212}{}{Danke. Ich werde ihn jetzt suchen. Wiedersehen.}
 {213}{}{Sehr gut. Du mußt nur mit dem ProKonsul Gregory reden und er wird Dir den Staatsbürgerschaftstest geben.}
 {214}{}{Wo kann ich ProKonsul Gregory finden?}
-{215}{}{Kann ich Dir eine andere Frage stellen?}
+{215}{}{Darf ich dir noch eine Frage stellen?}
 {216}{}{OK. Ich werde jetzt mit dem ProKonsul reden.}
 {217}{}{Du wirst ihn im Ostflügel finden. Sein Büro ist gegenüber der Erstbürgerin.}
-{218}{}{Kann ich Dir eine andere Frage stellen?}
-{219}{}{Danke für Deine Zeit. Wiedersehen.}
+{218}{}{Darf ich dir noch eine Frage stellen?}
+{219}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
 {220}{}{Es waren harte Zeiten in den letzten zwei Jahre. Die NCR wurde aggressiver in deren Bemühungen, Vault City dazu
  bringen, sich mit der Republik zu vereinigen.}
 {221}{}{Sie sagten uns, daß, falls wir uns mit ihnen vereinigen würden, es ihnen möglich wäre, uns vor den Gangsterangriffen
@@ -145,25 +145,25 @@
  Anti-Strahlungsmedikament zu kaufen. Wenn sie unser Wasser verschmutzen, ist es wahrscheinlich, das ihre eigene Stadt
  verstrahlt ist.}
 {228}{}{Was ist Gecko?}
-{229}{}{Kann ich Dir eine andere Frage stellen?}
+{229}{}{Darf ich dir noch eine Frage stellen?}
 {230}{}{Danke für die Warnung. Wiedersehen.}
 {231}{}{Es ist ein verlassener Ort, eine Hüttenstadt, um die Überreste eines alten Atomkraftwerks herumgebaut.}
 {232}{}{Wo liegt Gecko?}
-{233}{}{Kann ich Dir eine andere Frage stellen?}
-{234}{}{Danke für Deine Zeit. Wiedersehen.}
+{233}{}{Darf ich dir noch eine Frage stellen?}
+{234}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
 {235}{}{Nein. Ich verstehe es überhaupt nicht. Wir sind gewillt, ihnen eine Menge Dollars für deren Erz zu zahlen, aber
  jedesmal, wenn wir versuchen, mit ihnen darüber zu reden, weichen sie aus. Wenn ich nur wüßte, was los ist...}
 {236}{}{Ich könnte es für Dich herausfinden.}
 {237}{}{Wo ist Redding?}
-{238}{}{Danke für Deine Zeit. Wiedersehen.}
+{238}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
 {239}{}{Wirst Du das? Mir ist es nicht möglich, Dich zu bezahlen, aber Deine Hilfe wird sehr geschätzt werden.}
 {240}{}{Wo ist Redding?}
 {241}{}{Kein Problem. Ich werde es überprüfen und zurückkommen, wenn ich herausgefunden habe, was nicht stimmt.}
 {242}{}{Redding ist ungefähr eine Woche westlich von hier. Ich bin nie dort gewesen. Eigentlich bin ich nie außerhalb von Vault City gewesen. So wie ich es verstanden habe, scheint Redding eher eine der angenehmeren Siedlungen in der Öde zu sein.}
 {243}{}{Hast Du irgendeine Idee, was die Lieferungen veranlasst, abzuladen?}
-{244}{}{Ich verstehe. Danke für die Information.}
+{244}{}{Alles klar. Besten Dank für die Auskunft.}
 {245}{}{Was ist es? Alles, was Du mir erzählen kannst, wäre eine große Hilfe.}
-{246}{}{Was kannst Du mir über Redding erzählen?}
+{246}{}{Was kannst du mir über Redding erzählen?}
 {247}{}{Ich habe herausgefunden, daß ein großer Teil von Redding mit einem Präparat namens Jet zu tun hat. Die Bergmänner
  verkaufen das meiste Erz nach New Reno, nur um versorgt zu bleiben.}
 {248}{}{Dr. Troy hat ein Gegenmittel gegen Jet entwickelt.}
@@ -172,16 +172,16 @@
 {251}{}{Das werde ich Dir später erzählen, wenn ich mehr herausgefunden habe.}
 {252}{}{Es ist ein Präparat von dem du nicht genung bekommen kannst.}
 {253}{}{Bitte halte mich auf dem Laufenden.}
-{254}{}{Kann ich Dir ein paar andere Fragen stellen?}
+{254}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {255}{}{Sicher.}
 {256}{}{Das sind traurige Nachrichten, wir müssen einen Weg finden, das zu beenden. Wenn das anhält, werden unsere
  Erzbestände auf Null zurückgehen. Bitte hilf uns.}
-{257}{}{Ich werde sehen, was ich tun kann.}
+{257}{}{Ich werd sehen, was ich tun kann.}
 {258}{}{Hat er? Ok, was machst Du dann hier? Bring' es Doc Johnson in Redding! Er wird einen Weg finden, es den Bergmännern
  zu verabreichen.}
 {259}{}{Ich weiß, das hast Du mir bereits erzählt. Bitte bring' es nach Redding und schau, ob Du ihnen helfen kannst.}
 {260}{}{Kann ich ihnen ein paar Fragen stellen, bevor ich gehe?}
-{261}{}{Okay, Wiedersehen.}
+{261}{}{OK, Tschüß.}
 {262}{}{Dankeschön. Jetzt können wir nur warten! Hoffentlich wird das unser Problem lösen. Nochmals vielen Dank für all ihre
  Hilfe.}
 {263}{}{Gern geschehen. Ich war gern eine Hilfe.}
@@ -190,7 +190,7 @@
 {266}{}{Falls es Geld ist, was Du willst, Geld wirst Du bekommen. Hier sind $500 für Deine Mühe. Und nun einen guten Tag.}
 {267}{}{DANKE.}
 {268}{}{Fünfhun --? Du rückst lieber schnell mehr raus, oder dein Leben wird keinen Cent mehr wert sein.}
-{269}{}{Was meinst Du damit?}
+{269}{}{Was meinst du damit?}
 {270}{}{Wenn ich einen hydroelektrischen Magnetosphären-Regulator hätte, könnte deren Werk wieder sauber laufen.}
 {271}{}{Oh, nichts. Entschuldige die Belästigung.}
 {272}{}{Das ist eine annehmbare Lösung. Das Strahlungsgift zu stoppen ist das Einzige, was mir wichtig ist.}
@@ -205,7 +205,7 @@
 {280}{}{Da gibt es noch etwas. Vielleicht interessiert Dich diese Wirtschaftsdatendisk.}
 {281}{}{Wunderbar! Ich war besorgt, daß das Strahlungsgebiet uns eventuell zum Umziehen gezwungen hätte. Du mußt für eine gut
  gemachte Arbeit belohnt werden.}
-{282}{}{Vault City siegt, Bürger.}
+{282}{}{Vault City wird bestehen, Bürger.}
 {283}{}{Vault City siegt, Hauptmann.}
 {284}{}{Hier sind Deine Staatsbürgerschaftspapiere. Falls Du irgendwann etwas brauchst, komm' zu mir.}
 {285}{}{Vault City siegt, Rat.}
@@ -214,16 +214,16 @@
 {288}{}{Gut gemacht, Hauptmann.}
 {289}{}{Gut gemacht, Bürger.}
 {290}{}{Gut gemacht.}
-{291}{}{Ich habe noch ein paar Fragen...}
+{291}{}{Ich hab da noch ein paar Fragen...}
 {292}{}{Danke.}
 {293}{}{Entschuldigung... eine Wirtschaftsdatendisk? Was meinst Du damit?}
 {294}{}{Hier, schau' sie Dir an.}
 {295}{}{Es ist eine Wirtschaftsdisk, die die Energiemenge anzeigt, die Geckos Atomkraftwerk vor dem Krieg produzierte...
  und wieder produzieren könnte.}
-{296}{}{Macht nichts. Ich habe noch ein paar Fragen.}
-{297}{}{Nichts. Entschuldige die Störung.}
+{296}{}{Egal. Ich hätt da ein paar andere Fragen.}
+{297}{}{Tut mir leid, daß ich euch gestört habe.}
 {298}{}{Sehr gut. Gib mir kurz Zeit...}
-{299}{}{O.k.}
+{299}{}{Also gut.}
 {300}{}{Hmmm. Wie kamst Du zu dieser Disk?}
 {301}{}{Ich... habe sie gefunden.}
 {302}{}{Ich habe sie beim Durchsuchen von einigen der Archive in der Bibliothek von Vault City gefunden.}
@@ -262,12 +262,12 @@
 {324}{}{Das verstehe ich. Danke.}
 {325}{}{Hmmm. Nun, ich kann Dir keinen Zugang zur Vault erlauben, aber ich kann die Reaktordisk für Dich optimieren.}
 {326}{}{In Ordnung. Aber ich habe die Reaktordisk nicht bei mir. Ich werde mit ihr zurückkommen.}
-{327}{}{Das wäre prima.}
+{327}{}{Das wär toll.}
 {328}{}{Wunderbar!}
-{329}{}{In Ordnung.}
+{329}{}{Also gut.}
 {330}{}{Lass' mich die Reaktordisk nehmen und ich werde sie mit dem Vault-Zentralcomputer optimieren.}
 {331}{}{Genial. Danke.}
-{332}{}{Was ist das?}
+{332}{}{Was ist es?}
 {333}{}{Ich habe hier eine Reaktordatendisk aus Gecko. Laut... dem... äh, Techniker des Kraftwerks, kann der
  Vault City-Computer die Reaktordisk optimieren und das Werk ruhiger laufen lassen.}
 {334}{}{Wache! Wache!}
@@ -281,9 +281,7 @@
 {341}{}{Vielleicht. Ich habe ein paar andere Fragen...}
 {342}{}{Vielleicht ist es so. Ich werde danach sehen.}
 {343}{}{Du hast McClure von der Jet Gegenmittel-Lieferung erzählt.}
-
 {344}{}{Jetzt wo das Kraftwerk wieder richtig funktioniert und optimiert wurde, ist die Energieproduktion viel höher. So viel kann Gecko selbst gar nicht verbrauchen und Vault City könnte den Überschuss nutzen. Der Stadtrat muss unbedingt sehen welche Möglichkeiten diese Disk bietet.}
-
 {345}{}{Weißt du etwas über das nahe gelegene Dorf, das voller Maulwurfsratten ist?}
 {346}{}{Nun, ein wenig schon. Sergeant Stark hat mir etwas darüber erzählt. Warum fragst du?}
 {347}{}{Wollt ihr wirklich all diese Leute zu euren Dienern machen?}
@@ -299,7 +297,5 @@
 {357}{}{Das ist unglaublich, die Angriffe der Maulwurfsratten auf unsere Patrouillen hörten ohne Vorwarnung auf. Ich weiß nicht wie du es gemacht hast, aber ich danke dir. Ferner werde ich meinen Teil der Abmachung einhalten - Ich werde Stark befehlen, die Angriffe sofort abzubrechen. Solange die Dorfbewohner keine Bedrohung für Vault City sind, haben sie von uns nichts zu befürchten - Ich werde dafür sorgen.}
 {358}{}{Vielen Dank!}
 {359}{}{Du hast das Dorf gerettet.}
-
-{360}{}{Das ist wirklich interessant.} #was 345-killap
-
+{360}{}{Das ist wirklich interessant.}
 {370}{}{Alles klar. Ich werde dir nicht im Weg stehen.}

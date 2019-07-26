@@ -34,13 +34,13 @@
 {121}{}{Danke. Ich freu mich auf ein Treffen mit Goris.}
 {122}{}{Ich bin nicht daran interessiert, meinen Freundeskreis um Deathclaws zu erweitern.
  Tschüß.}
-{123}{}{Alles klar.}
+{123}{}{Also gut.}
 {124}{}{Sie sind fort, Mensch. Wir haben sie nicht getötet, um dann ihr Zuhause einzunehmen. Es
  ist nicht unsere Art zu töten. Du magst es nicht glauben, aber ich hoffe, du beurteilst mich
  nach meinem Verhalten dir gegenüber und hörst nicht auf Angst oder Vorurteile.}
 {125}{}{Hey, vielleicht könnte ich dir in den Hintern treten?}
 {126}{}{Du scheinst ein ehrenhaftes Wesen zu sein, Gruthar.}
-{127}{}{Ja, wahrscheinlich.}
+{127}{}{Ja, ich denke schon.}
 {128}{}{Ein GECK. Ist das nicht eine kleine Echse... nein, warte... Das ist ein Gecko. Tut mir
  leid, aber ich weiß nicht, was ein GECK ist, oder wo du es finden kannst.}
 {129}{}{Ja, ich glaube, das hast du schon einmal erwähnt. Ich weiß nicht, was ein GECK ist, oder
@@ -75,7 +75,7 @@
  gehorcht nicht mehr und steuert die anderen Maschinen nicht. Uns gehen Nahrung und Wasser aus.
  Ich habe Überfälle auf das Gebiet der Menschen angeordnet, damit wir überleben können. Ich bin
  keinesfalls Stolz darauf und ich würde es gerne beenden. Wenn du diese Maschine reparierst,
- kann ich meine Leute wieder ernähren und die Überfälle einstellen. Würdest du das tun?} 
+ kann ich meine Leute wieder ernähren und die Überfälle einstellen. Würdest du das tun?}
 {146}{}{Tut mir leid, ich hab keine Ahnung, wie so ein Ding repariert wird.}
 {147}{}{Ich bin kein Techniker, aber ich versuch's mal.}
 {148}{}{Hmm... hört sich an, als wär das Modul für die Stimmerkennung kaputt gegangen. Laß mich
@@ -93,7 +93,7 @@
  wenn man ihnen in der Wildnis begegnet. Aber ich bin sicher, du hast bemerkt, daß wir eine
  Ausnahme sind. Mein Rudel stellt keine Gefahr für euch Menschen dar. Wir haben uns anders als
  unsere primitiven Verwandten entwickelt und möchten einfach in Ruhe gelassen werden.}
-{157}{}{Äh... ja.}
+{157}{}{Äh...ja.}
 {158}{}{Euer hoher Intellekt könnte euch zu einer noch größeren Gefahr machen als eine
  durchschnittliche Deathclaw, Gruthar.}
 {159}{}{Ich sehe, daß ihr keine gefährlichen Killer seid wie es von Deathclaws allgemein
@@ -119,14 +119,14 @@
 {168}{}{Ich verstehe...}
 {169}{}{Deine Entscheidung mißfällt mir, aber ich akzeptiere sie. Du kannst gehen, aber komm
  wieder, falls du es dir anders überlegst.}
-{170}{}{Fertig.}
-{171}{}{Hallo} // Goes to 231
+{170}{}{OK.}
+{171}{}{Hallo}
 {172}{}{Nein, aber ich werd mich dranmachen.}
 {173}{}{Tut mir leid Gruthar. Das Stimmerkennungsmodul ist kaputt. Ich muß ein neues besorgen.}
-{174}{}{Ich hab keine Ahnung, wie solche Dinge funktionieren, aber ich vertraue dir,} // 232
-{175}{}{Fertig.}
+{174}{}{Ich hab keine Ahnung, wie solche Dinge funktionieren, aber ich vertraue dir,}
+{175}{}{OK.}
 {176}{}{Ich komme wieder, du hast mein Wort.}
-{177}{}{Hallo} // 233
+{177}{}{Hallo}
 {178}{}{Nein, ich suche noch immer.}
 {179}{}{Ja, hier ist es!}
 {180}{}{}
@@ -139,7 +139,7 @@
 {185}{}{Ah, lass mich mal sehen. [Er verschwindet, gleich darauf kommt er zurück. Mit seinen großen Klauen umklammert er unbeholfen einen metallischen Behälter.] Ja, da war ein GECK im Vaultlagerraum. Es gehört dir. Vielen Dank.}
 {186}{}{Ja, da war ein GECK im Vaultlagerraum. Aber es ist verschwunden. Tut mir leid, daß ich
  es dir nicht als Belohnung für deine großzügige Hilfe geben kann.}
-{187}{}{Danke!}
+{187}{}{Danke auch!}
 {188}{}{Äh... das ist schon OK. Ich werd versuchen, woanders eins zu finden.}
 {189}{}{Hallo, Mensch. Ich hoffe, du versuchst nicht, mich zum Narren zu halten.}
 {190}{}{Ich möcht mich entschuldigen und noch mal neu anfangen, Gruthar.}
@@ -162,7 +162,7 @@
 {206}{}{OK, laß uns reden.}
 {207}{}{Du bist eine Deathclaw und das ist ein Todesurteil... für dich!}
 {208}{}{Tut mir leid, Gruthar. Laß uns reden.}
-{209}{}{Was auch immer, ich bin hier raus.}
+{209}{}{Whatever. I'm gone.}
 {210}{}{Nein, ich bin hier derjenige, der entscheidet. Wenn dir das mißfällt, kannst du in das
  Land der Menschen zurückkehren!}
 {211}{}{Boa, ey!}
@@ -183,19 +183,16 @@
 {223}{}{Ist so gut wie gemacht!}
 {224}{}{}
 {225}{}{Du bist hier momentan nicht willkommen. Geh!}
-{226}{}{Tschüß}
+{226}{}{Tschüß.}
 {227}{}{Tschüß.}
-{228}{}{Fertig.}
+{228}{}{OK.}
 {229}{}{Entschuldigung angenommen, Mensch. Schönen Tag noch.}
-{230}{}{Fertig.}
+{230}{}{OK.}
 {231}{}{. Hast du dir die Maschine angesehen?}
 {232}{}{. Ich warte auf deine Rückkehr.}
 {233}{}{. Hast du das Teil gefunden, um die Maschine zu reparieren?}
-
-#added later
-{234}{}{Äh, OK.}
+{234}{}{Oh, ok.}
 {235}{}{Ich hoffe, du genießt deinen Aufenthalt.}
-
 {236}{}{Unglücklicherweise hat es so kommen müssen. Ich habe ihm erlaubt hier zu bleiben.
  Solange er dem Rudel nichts antat, wurde er in Ruhe gelassen. Er wählte seinen Weg. Ich hoffe
  du verstehst das.}

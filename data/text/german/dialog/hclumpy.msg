@@ -2,7 +2,6 @@
 {101}{}{Du siehst Lumpy. Du hoffst, daß es ihm gut geht.}
 {102}{}{Du siehst einen Ghul, der ziemliche Schmerzen zu haben scheint. Das wäre vielleicht nicht
  passiert, wenn Deine Fahrfertigkeiten besser wären.}
-
 {103}{}{Oooooh! Das tut weh!}
 {104}{}{Aua! Mein Allerwertester!}
 {105}{}{Hat irgendjemand meine Gallenblase gesehen?}
@@ -48,7 +47,5 @@
 {138}{}{Oh... tja, ich ... hmmmm. Bist Du...bist Du okay?}
 {139}{}{Ich sag noch zu ihnen "Wir brauchen Verkehrsschilder" aber glaubst Du, die hören auf
  mich? Wer hört schon auf den alten Lumpy!}
-
-# Player float
 {200}{}{Oh, Scheisse!}
 {201}{}{Uh, oh. Ich gerammt stinken Kerl.}

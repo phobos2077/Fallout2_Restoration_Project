@@ -6,7 +6,7 @@
 {105}{}{Tu vois une jeune femme en vêtements de travail. Elle garde ses yeux rivés au sol.}
 {106}{}{J'ai entendu parler de tes exploits. Tu as rendu de grands services à la Cité de l'Abri... et au monde entier.}
 {107}{}{Ta bataille contre l'Enclave en impose même à la Première citoyenne.}
-{108}{}{J'aimerais pouvoir te donner quelque chose pour tout ce que tu as fait pour nous, mais je n'ai rien... Excepté mes plus sincères remerciements.}
+{108}{}{Je voudrais bien pouvoir quand même te donner quelque chose pour tout ce que tu as fait pour nous. Mais j'ai rien à offrir... A part... mes remerciements.}
 {109}{}{Les autres domestiques seront jaloux en sachant que j'ai parlé au héros du Désert.}
 {110}{}{Oui, Capitaine ?}
 {111}{}{Capitaine ?}

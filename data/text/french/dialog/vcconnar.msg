@@ -38,7 +38,7 @@
 {137}{}{On a besoin de quatre fusils d'assaut et d'un fusil de chasse. Le plus vite tu nous les amèneras, le mieux ce sera.}
 {138}{}{Ok.}
 {139}{}{Avec ça, on sera capable de tenir cet endroit durant les prochains mois. Si jamais tu cherches à faire une escale dans ton voyage, tu seras toujours bienvenu ici.}
-{140}{}{De rien.}
+{140}{}{Pas d'quoi.}
 {141}{}{Bonjour ! Les choses vont bien. Nous allons nous mettre à travailler sur l'expansion de notre village durant les mois à venir.}
 {142}{}{Rebonjour ! Les choses se sont bien passées, comme tu vois. Regarde donc autour de toi si tu as le temps.}
 {143}{}{On est toujours en travaux. On espère étendre encore les murs le mois prochain.}
@@ -73,46 +73,36 @@
 {172}{}{Ca n'a pas d'importance. Salut.}
 {173}{}{Pas encore. Je reviendrai quand je les aurai.}
 {174}{}{Ce fut un plaisir. A la prochaine.}
-#additions
 {200}{}{J'ai déjà ce genre d'armes avec moi.}
 {201}{}{J'ai déjà ce genre d'armes avec moi. Je pense que je peux t'en dépanner de quelques-unes. Es-tu cependant certain que c'est la meilleure solution pour résoudre ton problème ?}
 {202}{}{J'ai ce dont tu as besoin, mais je ne pense pas que ce soit la bonne solution. Il y a quelqu'un de raisonnable au conseil de la Cité de l'Abri, le conseiller spécial McClure. Je suis sûr qu'il peut convaincre le conseil d'arriver à une solution pacifique à ce sujet.}
 {203}{}{Je ne pense pas que ce soit la bonne solution. Il y a quelqu'un de raisonnable au conseil de la Cité de l'Abri, Le conseiller spécial McClure. Je suis sûr qu'il peut convaincre le conseil d'arriver à une solution pacifique sur ce sujet.}
-
 {205}{}{Tu connais quelqu'un au conseil qui pourrait nous écouter ? Hum... Je n'ai pas confiance dans ces bâtards de la Cité de l'Abri. S'il te plaît, retourne à la Cité de l'Abri et parle à cet homme nommé Joe. C'est un des nôtres et on le trouve en général dans le bar de la cour ou traînant dans les environs. Il saura quoi faire. Je t'en prie, fais vite.}
 {206}{}{Ok. Je reviendrai quand j'aurai d'autres nouvelles.}
-
 {210}{}{Bien sûr que c'est la bonne solution. Maintenant, vas-tu nous donner les armes ? J'ai dû te payer $10 000 pour les avoir. La liberté n'a pas de prix.}
 {211}{}{Tu l'as fait ?! Excellent. Tiens, je te donne $10 000 pour ces armes. C'est plus qu'assez, mais la liberté n'a pas prix. Tu nous a rendu un grand service. Tu seras toujours bienvenu ici.}
 {212}{}{Très bien. Voici les armes.}
 {213}{}{Non, j'ai décidé que non. Au revoir.}
 {214}{}{Pas de prix, hein ? Eh bien, je sais comment l'économie fonctionne. Une augmentation de la demande signifie une augmentation des prix.}
+{215}{}{[Terminé]}
+{216}{}{[Attaque]}
 {217}{}{Ecoute, je sais que la Cité de l'Abri peut être pleine de vertus, mais vivre en conflit permanent n'est pas une solution à long terme. êtes sûrement capables de leur résister des années durant, mais ça ne durera pas éternellement. Laisse-moi chercher là-bas quelqu'un à qui parler. Je sais faire en sorte que les gens m'écoutent et je suis sûr de pouvoir ainsi convaincre quelqu'un au conseil de la Cité de l'Abri.}
 {218}{}{Hum... Très bien, je crois que tu souhaites défendre au mieux nos intérêts. S'il te plaît, parle à quelqu'un du conseil et vois s'il peut arriver à un arrangement. Je te suggère de parler à Joe, un de mes hommes stationnés à la Cité de l'Abri. Tu peux le trouver au bar dans la cour ou dans les environs. Bonne chance. Nous comptons tous sur toi.}
-
 {220}{}{Quoi !? Es-tu en train d'essayer de nous escroquer ? Non, on ne payera pas. Pars immédiatement. Ta présence n'est plus la bienvenue ici.}
 {221}{}{Quoi !? Oh, très bien. Nous pouvons seulement offrir $1 000 de plus. Vas-tu nous donner les armes maintenant ?}
 {222}{}{Bien sûr, c'est un plaisir de faire affaire avec toi. Salut.}
 {223}{}{En fait, je pense que je peux faire de meilleures affaires ailleurs. Au revoir.}
-{215}{}{[Terminé]}
-{216}{}{[Attaque]}
-
 {225}{}{Excellent. Tiens, je te donne $10 000 pour ces armes. C'est plus qu'assez, mais la liberté n'a pas de prix. Tu nous as rendu un grand service. Tu seras toujours bienvenu ici.}
 {226}{}{Très bien, prends les donc.}
-
 {300}{}{Quoi de neuf à propos de notre dilemme ?}
 {301}{}{Rien encore. Je reviendrai quand j'aurai trouvé quelque chose.}
 {302}{}{J'ai convaincu le conseil de la Cité de l'Abri de ne pas toucher à votre village.}
-
 {310}{}{Veux-tu te séparer de ces armes que tu possèdes ? Nous sommes prêts à t'en donner $10 000.}
 {311}{}{Très bien. Voici les armes.}
 {312}{}{Non, je ne veux toujours pas. Au revoir.}
-
 {400}{}{Merci mon ami. Nous avons une chance grâce à ces armes !}
 {401}{}{Bienvenue. Grâce à toi nous avons pu repousser avec succès les patrouilles de la Cité de l'Abri. Ils ne nous dérangent plus désormais.}
-
 {500}{}{Ne me dérange pas.}
-
 {600}{}{Quel était le nom de votre contact dans à la Cité de l'Abri ?}
 {601}{}{L'vieux Joe. Comme son nom l'indique, c'est un vieux pote. Tu le trouveras soit dans la cour du bar soit errant à proximité.}
 {602}{}{Très bien, merci.}
@@ -123,21 +113,14 @@
 {610}{}{Très bien. N'oublie pas de nous aider.}
 {611}{}{En fait, je ne le ferai pas. A plus.}
 {612}{}{Je vais probablement le faire. Je reçois tellement de quêtes, il est difficile de s'y retrouver. Si je n'avais pas mon magnifique petit Pip-Boy, je serais totalement perdu. Allez salut.}
-
-#RP 1.3
 {700}{}{Oh, Très bien. Tu peux y aller. [Lui remettre $10 000.]}
 {701}{}{Désolé, j'ai eu à le dépenser dans le cadre de l'opération..}
-{702}{}{Merde, je n'ai pas assez pour te rembourser. J'ai dû en dépenser sans faire attention. Je t'en ramène dès que possible.}
-
+{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
 {710}{}{Merci. Tiens. [Il te donne $5 000.] C'est le moins que nous puissions faire pour te rembourser.}
-
 {720}{}{Ah, je vois. Eh bien, si ça a acheté notre liberté, ça devait coûter très cher. Merci encore pour tout ce que tu as fait pour nous.}
-
 {730}{}{Que penses-tu de me payer la moitié ? As-tu $5 000 ?}
 {731}{}{Bien sûr, voici. [Tu lui donnes $5 000.]}
 {732}{}{Désolé, je n'ai pas tant.}
-
 {740}{}{Merci, }
 {741}{}{. Nous n'oublierons pas ce que tu as fait pour nous.}
-
 {750}{}{Je vois... Eh bien, ne t'inquiète pas. L'argent n'est pas aussi important que notre liberté. Merci.}

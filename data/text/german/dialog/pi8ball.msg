@@ -1,44 +1,41 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
-{200}{}{Aussicht gut.}
-{201}{}{Aussicht nicht so gut.}
+{200}{}{Die Aussichten sind gut.}
+{201}{}{Die Aussichten sind nicht so gut.}
 {202}{}{Meine Antwort ist nein.}
-{203}{}{Darauf kannst Du nicht zählen.}
-{204}{}{Darauf kannst Du Dich verlassen.}
-{205}{}{Frage später noch einmal.}
-{206}{}{Sehr wahrscheinlich.}
-{207}{}{Kann ich jetzt nicht voraussagen.}
+{203}{}{Verlaß dich nicht darauf.}
+{204}{}{Darauf kannst du dich verlassen.}
+{205}{}{Frag später noch mal.}
+{206}{}{Höchstwahrscheinlich.}
+{207}{}{Kann ich jetzt nicht genau sagen.}
 {208}{}{Ja.}
-{209}{}{Ja. Ganz bestimmt.}
-{210}{}{Das erzählt man Dir jetzt besser nicht.}
-{211}{}{Es ist sicher.}
-{212}{}{Sehr zweifelhaft.}
-{213}{}{Das ist bestimmt so.}
-{214}{}{Konzentriere Dich und frage noch einmal.}
-{215}{}{Die Zeichen stehen auf ja.}
-{216}{}{Meine Quellen sagen nein.}
+{209}{}{Ja, ganz bestimmt.}
+{210}{}{Das sag ich dir jetzt besser nicht.}
+{211}{}{Das ist sicher.}
+{212}{}{Sehr fraglich.}
+{213}{}{Das ist mit Sicherheit so.}
+{214}{}{Konzentrier dich und frag noch mal.}
+{215}{}{Alles deutet auf ja hin.}
+{216}{}{Meine Quellen glauben es nicht.}
 {217}{}{Ohne Zweifel.}
-{218}{}{Antwort vage, versuche es noch einmal.}
-{219}{}{So, wie ich es sehe, ja.}
-{220}{}{Hör' auf, mich so stark zu schütteln. Es tut weh.}
-{221}{}{Du hast einen starken rechten Arm.}
-{222}{}{Wasche bitte Deine Hände, bevor Du mich nochmals schüttelst.}
-{223}{}{Zeitweise außer Betrieb.}
-{224}{}{Geschlossen auf Befehl der RPG Kommission.}
-{225}{}{Schüttel' mich weiter und es wird Ärger geben.}
-{226}{}{Ich werde krank.}
+{218}{}{Antwort unklar. Versuch's noch mal.}
+{219}{}{So wie ich das seh, ja.}
+{220}{}{Hör auf, mich so fest zu schütteln. Das tut weh.}
+{221}{}{Dein rechter Arm ist ganz schön stark.}
+{222}{}{Bitte wasch deine Hände, bevor du mich noch mal schüttelst.}
+{223}{}{Vorübergehend außer Betrieb.}
+{224}{}{Auf Anordnung des RPG-Komitees geschlossen.}
+{225}{}{Wenn du mich weiterhin so schüttelst, kriegst du Ärger.}
+{226}{}{Mir wird schlecht.}
 {227}{}{Mir wird übel.}
 {228}{}{Deine Hände sind warm.}
-{229}{}{Feargus war dagegen, mich in das Spiel zu bringen. Er ist ein großer Geizkragen.}
-{230}{}{Dein Stand ist 23 von 100. Du mußt noch ganz schön viel tun.}
+{229}{}{Feargus war dagegen, daß ich bei Fallout mitmachen darf. Er is' 'n ziemlicher Fiesling.}
+{230}{}{Du hast 23 von 100 Punkten. Du mußt dich noch ganz schön anstrengen.}
 {231}{}{Scotty Everts seufzt laut, als er sieht, wieviele Bestandteile das Spiel hat.}
-# 9 or greater luck
-{232}{}{Schau' in die Männertoilette im ersten Stock des Mordino-Casinos in New Reno.}
+{232}{}{Sieh im Mordino-Kasino in New Reno in der Herrentoilette im ersten Stock nach.}
 {233}{}{Wenn Du das Kreuz, auf dem 'Abfall' geschrieben steht, in Golgotha aktivierst, wirst Du ein Geheimnis entdecken.}
-{234}{}{Geh' zurück und rede mit Vater Tully in New Reno, nachdem Du das Spiel beendet hast.}
+{234}{}{Geh zurück und sprich mit Vater Tully in New Reno, wenn du das Spiel beendet hast.}
 {235}{}{Du weißt, daß Du mich als Waffe benutzen kannst.}
-{236}{}{Hör' auf, mich so hart zu schütteln.}
-{237}{}{Du hast viel GLÜCK. Schüttel' mich weiter, um Hinweise zu bekommen!}
-{238}{}{Ja, wir WISSEN, der Abstieg zum unteren Berg war Mist.}
+{236}{}{Hör auf, mich so fest zu schütteln.}
+{237}{}{Du hast 'ne ziemliche GLÜCKSSTRÄHNE. Wenn du mich weiterschüttelst, kannst du noch mehr
+ rausholen!}
+{238}{}{Ja, wir WISSEN, daß "Descent to Undermountain" Müll war.}

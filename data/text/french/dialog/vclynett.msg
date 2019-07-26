@@ -25,7 +25,7 @@
 {124}{}{Oh. Au revoir.}
 {125}{lyn004}{Oooooohhh... là, là. Dès que tu as besoin d'un câlin, viens voir Tante Lynette, d'accord ?}
 {126}{}{D'ac-o-d'ac.}
-{127}{}{Au revoir.}
+{127}{}{Salut !}
 {128}{lyn005}{Quelle cruauté ! Ne connaissaient-ils pas l'existence de la communauté que nous avions formée ici ?}
 {129}{}{Il y a peut-être une leçon importante à tirer de la situation, Lynette. Isolé du reste du monde, le gouvernement s'apprêtait à vous détruire sans même reconnaître la valeur de votre communauté. La Cité de l'Abri devrait peut-être adopter un autre regard sur le monde extérieur et sur sa place dans celui-ci.}
 {130}{}{Cruauté... Peut-être. Tout ce que je sais c'est que ma force de feu était supérieure. Au revoir Première citoyenne.}
@@ -40,7 +40,7 @@
 {139}{}{Hein ?}
 {140}{}{Abri ! Abri !}
 {141}{}{Drôle de tête.}
-{142}{}{Au revoir.}
+{142}{}{Salut.}
 {143}{}{Ne s'agirait-il pas de l'Abri de mon ancêtre ?}
 {144}{}{Je ne sais pas. Je viens d'un village de l'Ouest.}
 {145}{}{Je ne sais pas, j'essaie de trouver l'Abri d'où mon ancêtre était originaire... Peux-tu m'aider ?}
@@ -49,21 +49,19 @@
 {148}{}{Hrnnnn ?}
 {149}{}{Nooom-bre.}
 {150}{}{Très drôle !}
-{151}{}{[Partir]}
+{151}{}{Dégage !}
 {152}{lyn010}{Je me demande bien comment tu as pu trouver suffisamment d'énergie cérébrale pour pénétrer dans la cité, mais je vais veiller à ce que tu ne traînes plus par ici... Gardes ! Escortez l'imbécile hors des murs !}
 {153}{}{NON !}
-
-# player's name prepended to line 154
 {154}{}{ aller avec gens métalliques.}
 {155}{lyn011}{Bonjour. Je suis Lynette, la Première citoyenne. Puis-je te demander ce qui t'amène ici ?}
 {156}{}{Afffaires ? Apffff-airrr ?}
 {157}{}{Euh !}
-{158}{}{Au revoir.}
+{158}{}{Salut !}
 {159}{}{Je recherche un Jardin d'Eden en Kit. Tu en as un ?}
 {160}{}{Je suis à la recherche d'un Jardin d'Eden en Kit, Première citoyenne. Y en aurait-il un que je pourrais acheter dans ta ville ?}
 {161}{}{Es-tu le Dirigeant de cet abri ?}
 {162}{}{Pardonne-moi mon ignorance, Première citoyenne... Le titre de « Première citoyenne » indique t-il que tu es le Dirigeant de cet abri ?}
-{163}{}{C'est la Cité de l'Abri ici ? Pourquoi ne vis-tu pas dans un abri ?}
+{163}{}{La Cité de l'Abri ? Pourquoi ne vis-tu pas dans un abri ?}
 {164}{}{Pas d'affaires aujourd'hui. Peut-être une autre fois.}
 {165}{}{Rien aujourd'hui. Excuse-moi de t'avoir dérangée, Première citoyenne. Bonne journée.}
 {166}{lyn012a}{Où quelqu'un comme toi a-t-il pu entendre parler du Jardin d'Eden en Kit ?}
@@ -133,7 +131,7 @@
 {230}{}{Hmmm. Mais c'est bien le Dirigeant qui a donné l'ordre de quitter l'abri ?}
 {231}{}{Où est le Dirigeant ? Je dois lui parler de ça.}
 {232}{}{Je ne te crois pas. Puisque je te dis qu'il n'y a jamais eu de signal d'alerte !}
-{233}{}{Je vois. Merci du renseignement. Bonne journée. }
+{233}{}{Je vois. Merci du renseignement. Bonne journée.}
 {234}{lyn023}{Oui... En tous cas, c'est ce que les archives disaient. Mais je suis sûre que de nombreux citoyens étaient chargés de surveiller les capteurs à la surface.}
 {235}{}{D'après toi, où pourraient se trouver ces capteurs de surface maintenant ?}
 {236}{}{Où sont ces archives ?}
@@ -215,7 +213,7 @@
 {312}{}{Première citoyenne, c'est très important pour moi. J'apprécierais beaucoup si je pouvais consulter les archives pour chercher l'emplacement de l'abri de mon ancêtre.}
 {313}{}{Hmmmm. Merci du renseignement. Bonne journée.}
 {314}{lyn039}{Je suis désolée, mais nous avons utilisé le nôtre pour construire la Cité. Je ne pense pas qu'il en existe d'autres, mais tu peux vérifier auprès du Bureau des Acquisitions. Il se trouve près de l'entrée de notre abri.}
-{315}{}{Merci. J'avais d'autres questions...}
+{315}{}{Merci. J'avais encore une ou deux questions...}
 {316}{}{Sais-tu où se trouve l'Abri 13 ?}
 {317}{}{Génial ! J'y vais. Bonne journée.}
 {318}{lyn040}{Une combinaison d'abri sale et une fiole toute cabossée ? C'est ça ta preuve ? Qui sait où tu as repêché ces *reliques*... ou qui tu as tué pour les voler.}
@@ -243,7 +241,7 @@
 {340}{}{Quel genre de situation ?}
 {341}{}{Bien sûr. Mon travail consiste à ravitailler les abris.}
 {342}{}{Je ne sais pas... Le test de citoyenneté n'est-il pas la procédure habituelle ?}
-{343}{}{Je ne crois pas que ce boulot soit pour moi.}
+{343}{}{Je ne crois pas être capable de faire ça. Au revoir.}
 {344}{}{Non, merci. Il faut vraiment que je m'en aille. Bonne journée, Première citoyenne.}
 {345}{lyn045}{Des meurtriers, tous les deux. Boyarsky a été exilé il y dix ans, et Richard Moreau peu de temps après notre départ de l'Abri. La citoyenneté est sacrée, le crime n'est pas toléré à l'intérieur de nos murs.}
 {346}{}{Si cet Abri n'est pas le bon, je dois trouver celui de mon ancêtre.}
@@ -270,7 +268,7 @@
 {367}{}{Je dois trouver l'Abri d'où vient mon peuple.}
 {368}{}{J'ai besoin d'un Jardin d'Eden en Kit, en avez-vous un ?}
 {369}{}{Alors maintenant, ma présence est bienvenue dans ta cité. Laisse tomber... je me casse.}
-{370}{}{Tu ne peux pas savoir... mais je te parlerai du Temple des Epreuves une autre fois. Au revoir.}
+{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
 {371}{lyn051}{Je te donne une chance que peu d'étrangers ont jamais eue. Tu pourras passer le test, si c'est ce que tu veux. Mais en résolvant cette situation pour nous, tu pourrais gagner plus. Est-ce que tu comprends ?}
 {372}{}{Très bien. Quel genre de situation ?}
 {373}{}{Je comprends. Mon travail consiste à ravitailler les abris.}
@@ -286,7 +284,7 @@
 {383}{}{Hein ?}
 {384}{}{Abri ! Abri !}
 {385}{}{Drôôôôles d'yeux !}
-{386}{}{Au revoir.}
+{386}{}{Salut.}
 {387}{}{J'avais quelques questions à te poser.}
 {388}{}{J'avais quelques questions à te poser.}
 {389}{}{Comment devient-on citoyen de la Cité de l'Abri ?}
@@ -298,19 +296,19 @@
 {395}{}{Je crois que le Docteur Troy est impliqué dans quelque chose d'illégal.}
 {396}{}{Je dois te parler de la livraison de cet holodisque.}
 {397}{}{J'ai changé d'avis. Je remettrai cet holodisque au Conseiller à la RNC.}
-{398}{}{Rien. Pardon, je ne voulais pas te déranger.}
+{398}{}{Rien. Excuse-moi de te déranger.}
 {399}{lyn054a}{Bien sûr. En quoi puis-je t'être utile, citoyen ?}
 {400}{lyn054b}{Bien sûr. En quoi puis-je t'être utile, Capitaine ?}
 {401}{}{Que sais-tu sur ces attaques de Pillards sur notre ville ?}
 {402}{}{En ville, j'ai rencontré par hasard ce citoyen, Thomas Moore. Qui est-ce ?}
-{403}{}{Aurais-tu un J.E.K ?}
+{403}{}{As-tu un J.E.K ?}
 {404}{}{Je cherche l'Abri 13.}
 {405}{}{La Cité de l'Abri ? Pourquoi ne vis-tu pas dans un abri ?}
 {406}{}{Pourquoi fermez-vous les yeux sur l'esclavage ?}
-{407}{}{Rien aujourd'hui, merci.}
+{407}{}{Rien pour aujourd'hui, merci.}
 {408}{lyn055}{Pour quelqu'un qui n'est pas citoyen, tu exiges beaucoup de mon temps.}
 {409}{}{Mais je suis citoyen.}
-{410}{}{Aurais-tu un J.E.K ?}
+{410}{}{As-tu un J.E.K ?}
 {411}{}{Je cherche l'Abri 13.}
 {412}{}{Que me faut-il pour obtenir la citoyenneté ?}
 {413}{}{La Cité de l'Abri ? Pourquoi ne vis-tu pas dans un abri ?}
@@ -320,11 +318,11 @@
 {417}{}{J'espérais pouvoir te poser une autre question.}
 {418}{}{Je m'excuse pour les remarques de tout à l'heure. J'espérais que tu pourrais répondre à mes questions sur la Cité de l'Abri.}
 {419}{}{Tu sais, il y a des marques qui font des versions décaféinées, et c'est aussi bon que le vrai.}
-{420}{}{Tant pis.}
+{420}{}{Laisse tomber.}
 {421}{}{Toutes mes excuses, Première citoyenne. Pardon de t'avoir dérangée.}
 {422}{lyn057}{Qu'y a-t-il ?!! Ce n'est pas encore fait ?}
 {423}{}{C'est un peu plus compliqué que ça. En fait, ces types ne sont pas de simples pillards, ce sont des mercenaires.}
-{424}{}{Tant pis. Au revoir.}
+{424}{}{Je reviendrai.}
 {425}{lyn058}{Je ne me souviens pas de toi. Fais-moi voir tes papiers.}
 {426}{}{Voilà. Tout devrait être en ordre.}
 {427}{}{Euh... Je n'ai pas mes papiers sur moi..}
@@ -338,7 +336,7 @@
 {435}{}{Je... euh... Je ne me souviens pas.}
 {436}{}{Il faudra d'abord que tu m'attrapes.}
 {437}{lyn061}{Hmmmm... Parfait. Mais ne te montre pas avant d'avoir tes papiers de citoyenneté. Bonne journée.}
-{438}{}{Au revoir.}
+{438}{}{Salut.}
 {439}{}{Bonne journée, Première citoyenne.}
 {440}{lyn062}{Ah bon, vraiment ? Cela confirme mes soupçons. Ton permis d'entrée dans la Cité t'est désormais retiré. Donne-moi ton Passe et rends-toi à la porte d'entrée avec mes gardes.}
 {441}{}{Quoi ? Tu m'avais dit que je pourrais garder mon Passe pour un jour !}
@@ -372,9 +370,9 @@
 {469}{lyn069b}{Ah, vraiment ? Je me rappelle que tu prétendais être citoyen. Tu n'as plus l'autorisation de rester dans la Cité de l'Abri. Mes gardes vont t'escorter jusqu'à la porte d'entrée.}
 {470}{lyn069c}{J'en ai assez de ta bêtise ! Tu n'as plus l'autorisation de rester dans la Cité de l'Abri. Mes gardes vont t'escorter jusqu'au portail d'entrée.}
 {471}{}{Va au diable, sale binoclard !}
-{472}{}{Euh-hein.}
+{472}{}{Euh - Euh.}
 {473}{}{Tu n'aimes pas mon ami, hein ? C'est dommage parce qu'il t'aime bien... comme repas.}
-{474}{}{Tes gardes n'arriveront pas à temps pour sauver ta peau... « Première citoyenne ».}
+{474}{}{Les gardes n'arriveront pas à temps pour te sauver la vie.}
 {475}{}{Inutile d'appeler les gardes, je m'en vais tranquillement.}
 {476}{lyn070}{Quoi... Tu as détruit la centrale ?! La contamination ! Espèce de débile ! Au moins c'en est fini des Goules... Hors de ma vue !}
 {477}{}{Ouah ! Et la citoyenneté que tu m'avais promise ?}
@@ -421,7 +419,7 @@
 {518}{}{Il ne fait que soigner les citoyens.}
 {519}{}{Rien... Ma langue a fourché. Bonne journée.}
 {520}{lyn079}{Pour qui tu te prends pour accuser un citoyen de tels crimes ? Gardes ! Escortez cet individu aux portes !}
-{521}{}{Tes gardes n'arriveront pas à temps pour sauver ta peau... Première citoyenne.}
+{521}{}{Les gardes n'arriveront pas à temps pour te sauver la vie.}
 {522}{}{Inutile d'appeler les gardes, je m'en vais tranquillement.}
 {523}{}{Mais c'est la vérité ! Tu dois me croire ! J'ai --}
 {524}{lyn080}{Mais c'est une accusation très grave. Maintenant que tu es des nôtres, je dois te faire confiance... Mais n'as-tu aucun doute sur ce que tu avances ? Si c'est vrai, sa citoyenneté devra lui être retirée et il sera exilé.}
@@ -430,12 +428,12 @@
 {527}{}{Euh euh... Ma langue a fourché. Je voulais dire que le Dr. Troy était impliqué dans des affaires para-légales, pas illégales.}
 {528}{}{Hummm. Je vais essayer de trouver autre chose.}
 {529}{lyn081}{Je n'arrive pas à croire qu'un citoyen d'une telle envergure goûte à ces choses-là. Merci pour ton honnêteté, citoyen. Je vais m'occuper de cela sur-le-champ.}
-{530}{}{J'avais d'autres questions...}
+{530}{}{J'ai d'autres questions...}
 {531}{}{Génial. La situation me préoccupait. Au revoir.}
 {532}{}{Merci, Première citoyenne. Je voulais juste que justice soit faite.}
 {533}{lyn082a}{Préviens-moi si tu découvres autre chose.}
 {534}{lyn082b}{La Cité de l'Abri avant tout, citoyen.}
-{535}{}{J'avais d'autres questions...}
+{535}{}{J'ai d'autres questions...}
 {536}{}{Bien sûr. Au revoir.}
 {537}{}{Oui. Merci, Première citoyenne.}
 {538}{lyn083}{La loi est la loi. En faisant des exceptions, nous ne valons pas mieux que les autres. Encore une fois, tes accusations sont-elles justifiées ?}
@@ -457,7 +455,7 @@
 {554}{}{Toutes mes excuses, Première citoyenne. Bonne journée.}
 {555}{lyn086}{Je pense qu'il est temps que tu partes. Je te suggère d'abréger ton séjour dans la Cité.}
 {556}{}{Avant de partir, je voudrais te poser quelques questions...}
-{557}{}{Très bien. Je m'en vais.}
+{557}{}{D'accord, je m'en vais.}
 {558}{lyn087}{Moore ? C'est un fauteur de trouble. C'est tout ce qu'il est.}
 {559}{}{Tu as raison. Il a des intérêts... extérieurs.}
 {560}{}{Pourquoi dis-tu que c'est un fauteur de trouble ?}
@@ -471,7 +469,7 @@
 {568}{}{Comment essaie-t-il de convaincre les citoyens ?}
 {569}{}{Il a l'air de poser des problèmes. Je pourrais peut-être m'occuper de son cas ?}
 {570}{}{Pourquoi ne le chasses-tu pas ?}
-{571}{}{J'ai encore d'autres questions...}
+{571}{}{J'ai d'autres questions...}
 {572}{}{Oh. Eh bien, merci du renseignement. Bonne journée.}
 {573}{lyn089}{Selon les archives, certaines nations anciennes avaient de tels gouvernements. Nous savons où ça les a menés. Dans une société pareille, il faudrait un temps fou pour prendre la moindre décision ! C'est inconcevable.}
 {574}{}{Inconcevable ? Pourquoi ?}
@@ -524,15 +522,15 @@
 {621}{}{Eh, si j'ai cette marque, c'est par pur stratège pour obtenir des informations... Je ne suis pas esclavagiste.}
 {622}{}{J'étais jeune... J'avais besoin d'argent...}
 {623}{}{Je ne veux plus en débattre avec toi. Au revoir.}
-{624}{lyn099}{Que veux-tu dire par là ?}
+{624}{lyn099}{Que veux-tu dire ?}
 {625}{}{En fait, Moore travaille pour la République de Nouvelle Californie.}
-{626}{}{Laisse tomber. J'avais d'autres questions...}
+{626}{}{Laisse tomber. J'avais une ou deux autres questions...}
 {627}{}{Rien. Je dois partir. Au revoir.}
 {628}{}{Rien. Oublie ce que j'ai dit. Bonne journée, Première citoyenne.}
 {629}{lyn100}{Le tuer ?!! Le meurtre sous toutes ses formes est banni de la Cité, même pour la meilleure cause. Ne parle plus jamais de ça.}
-{630}{}{Je comprends. Puis-je te poser d'autres questions ?}
+{630}{}{Compris. Puis-je te poser d'autres questions ?}
 {631}{}{Ecoute, *tuer* est un mot un peu fort, mais je peux m'arranger pour qu'il ait un accident... une overdose de Jet, une attaque de Brahmine... Tellement de choses regrettables peuvent survenir, dans ce monde truffé de dangers.}
-{632}{}{Bon. Je m'en vais.}
+{632}{}{D'accord, je m'en vais.}
 {633}{}{Très bien, Première citoyenne. Bonne journée.}
 {634}{lyn101}{Un citoyen n'a pas le droit de se conduire de la sorte ! Je te retire ta citoyenneté. Mes gardes vont t'accompagner à la porte d'entrée.}
 {635}{}{Les gardes n'arriveront pas à temps pour te sauver la vie.}
@@ -544,12 +542,12 @@
 {641}{}{Eh bien, à l'allure où il va, il s'enfonce de lui-même. Je reviendrai te voir plus tard.}
 {642}{}{Je comprends. Eh bien, merci de m'avoir accordé un peu de ton temps, Première citoyenne.}
 {643}{lyn103}{Un espion de la RNC ? Ca... ça expliquerait un grand nombre de choses. Merci, citoyen. Je m'en occupe immédiatement.}
-{644}{}{J'avais d'autres questions...}
+{644}{}{J'ai d'autres questions...}
 {645}{}{Génial, merci. Au revoir. }
 {646}{}{Merci, Première citoyenne.}
 {647}{lyn104}{Ils ont commencé il y a quelques mois. Les tourelles-laser parviennent à les tenir à distance pour l'instant, mais je ne sais pas jusqu'à quand.}
 {648}{}{Qui sont ces pillards ?}
-{649}{}{J'avais d'autres questions...}
+{649}{}{J'ai d'autres questions...}
 {650}{}{Je dois m'en aller. Au revoir.}
 {651}{}{Ca m'attriste d'entendre ça. Peut-être iront-ils chercher des cibles plus faciles ailleurs. Bonne journée, Première citoyenne.}
 {652}{lyn105}{Des ordures ! Depuis plus d'un siècle, les étrangers essaient de piller notre cité... et ils n'y sont jamais parvenus. Nous finirons par gagner.}
@@ -563,10 +561,9 @@
 {660}{}{Merci de m'avoir accordé un peu de ton temps. Bonne journée, Première citoyenne.}
 {661}{lyn107}{[Intéressée.] Qu'est-ce que c'est ?}
 {662}{}{J'ai trouvé leur base. Ils se cachent dans un réseau de grottes dans les collines du Sud.}
-{663}{}{Je les ai exterminés. Ils étaient cachés dans un réseau de grottes dans les collines du Sud.}
-{1663}{}{Ils étaient cachés dans un réseau de grottes dans les collines du Sud. J'ai convaincu leur guide de ne plus les aider. Sans lui, ils ne seront plus capables de se repérer dans les montages.}
+{663}{}{Je les ai exterminés. Ils se cachaient dans un réseau de grottes dans les collines du Sud.}
 {664}{}{Tout renseignement a un prix.}
-{665}{}{Tant pis. Je dois m'en aller.}
+{665}{}{C'est pas grave. Je dois partir.}
 {666}{lyn108}{C'est vrai ? Excellent ! Mais les gardes de la cité sont déjà utilisés au maximum... Et toi ? Pourrais-tu mettre fin aux attaques ? Je te paierai.}
 {667}{}{Non, j'ai trop à faire pour le moment.}
 {668}{}{Je vais voir ce que je peux faire.}
@@ -594,12 +591,12 @@
 {690}{}{Je crois qu'il s'attendait à ça. J'ai trouvé cet holodisque dans le coffre de Bishop. Il était en fait commandité par la RNC pour convaincre la Cité de l'Abri de rallier la République. Quand tu as refusé son offre, il a engagé des mercenaires afin que tu demandes de l'aide à la RNC.}
 {691}{}{C'était peut-être une façon pour lui de t'obliger à conclure une alliance.}
 {692}{lyn115}{C'est possible... mais ça ne marcherait pas. Je demanderais plutôt l'aide de la RNC. Tu as rendu un grand service à la Cité de l'Abri. Accepte cela en gage de notre reconnaissance.}
-{693}{}{Merci. J'ai d'autres questions...}
+{693}{}{Merci. J'avais encore une ou deux questions...}
 {694}{}{Si j'apprends quoi que ce soit, je t'en informerai.}
 {695}{}{Tout le plaisir était pour moi, Première citoyenne. Bonne journée.}
 {696}{lyn116}{Bien sûr. Ils ont envoyé des mercenaires pour liquider mon peuple parce que je refusais de m'allier à leur gouvernement ? Je... Je n'arrive pas à y croire.}
 {697}{}{La situation se complique encore. Thomas Moore est également impliqué.}
-{698}{}{En quoi puis-je t'être utile ?}
+{698}{}{Y a-t-il quelque chose que je puisse faire pour aider ?}
 {699}{}{C'est un monde difficile. En tout cas, à propos de la compens --}
 {700}{lyn117}{Un citoyen ne se conduit pas de la sorte ! Mais j'ai besoin de ces informations. Quel est ton prix... citoyen ?}
 {701}{}{$100}
@@ -610,7 +607,6 @@
 {706}{lyn118}{Bon, voilà l'argent. Maintenant dis-moi tout ce que tu sais.}
 {707}{}{J'ai trouvé leur base. Ils se cachent dans un réseau de grottes dans les collines du Sud.}
 {708}{}{Je les ai exterminés. Ils se cachaient dans un réseau de grottes dans les collines du Sud.}
-{1708}{}{Ils étaient cachés dans un réseau de grottes dans les collines du Sud. J'ai convaincu leur guide de ne plus les aider. Sans lui, ils ne seront plus capables de se repérer dans les montages.}
 {709}{}{En fait, je ne sais pas grand-chose.}
 {710}{}{Merci pour l'argent. Je dois m'en aller maintenant.}
 {711}{lyn119}{Je veux que tu te rendes immédiatement en République de Nouvelle Californie et que tu trouves le Conseiller Westin, Roger Westin. Donne-lui l'holodisque. Ca devrait suffire pour qu'ils arrêtent d'engager des *Pillards*.}
@@ -625,19 +621,19 @@
 {720}{lyn121b}{Oui, oui... Tu as fait du bon travail. Tiens... prends ça comme récompense.}
 {721}{}{Pas de récompense ?! Ca n'a pas été facile de découvrir toutes ces manigances politiques. Je crois que je mérite un petit quelque chose, non ?!}
 {722}{}{Attends, j'ai pas encore terminé. J'ai encore des questions...}
-{723}{}{D'accord, je m'en vais.}
-{724}{}{Merci. J'ai encore des questions...}
-{725}{}{Super ! Merci... Je vais y aller maintenant.}
+{723}{}{Bon, je m'en vais.}
+{724}{}{Merci. J'avais encore une ou deux questions...}
+{725}{}{Super ! Merci. J'avais d'autres questions.}
 {726}{}{Merci, Première citoyenne.}
 {727}{lyn122}{Roger Westin est probablement le seul homme honnête de la République de Nouvelle Californie et il soutient notre cause.}
 {728}{}{Très bien, je lui remettrai le disque.}
 {729}{}{Non merci. J'ai trop à faire pour le moment.}
-{730}{lyn123}{Ton patriotisme sera récompensé. Maintenant, hâte-toi. Il faut faire vite.}
-{731}{}{Avant de partir, j'ai encore quelques questions...}
-{732}{}{D'accord.}
+{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{731}{}{Avant de partir, j'ai encore des questions. }
+{732}{}{J'm'en occupe.}
 {733}{}{Tu peux compter sur moi, Première citoyenne. Je reviendrai dès que j'aurai remis le disque à Westin.}
 {734}{lyn124}{Néanmoins, la Cité de l'Abri l'emportera. [Au joueur :] Tu nous as rendu un précieux service... Accepte ceci en témoignage de notre reconnaissance.}
-{735}{}{Merci. J'avais d'autres questions.}
+{735}{}{Merci. J'avais encore une ou deux questions...}
 {736}{}{Super ! Merci. J'avais d'autres questions.}
 {737}{}{Merci, Première citoyenne.}
 {738}{lyn125}{Le lui as-tu remis ?}
@@ -648,11 +644,11 @@
 {743}{}{Pas encore. Je reviendrai dès que je l'aurai fait.}
 {744}{}{Pas encore, Première citoyenne. Je reviendrai dès que je l'aurai remis à Westin.}
 {745}{lyn126}{C'est vrai ?!! Excellent ! Prends le disque que Bishop t'a donné et dépêche-toi. Il faut faire vite.}
-{746}{}{Avant de partir, j'ai encore des questions...}
-{747}{}{D'accord.}
+{746}{}{Avant de partir, j'ai encore des questions. }
+{747}{}{J'm'en occupe.}
 {748}{}{Tu peux compter sur moi, Première citoyenne. Je reviendrai dès que j'aurai remis le disque à Westin.}
 {749}{lyn127}{Crois-moi, tu ne le regretteras pas. Maintenant va remettre cet holodisque.}
-{750}{}{Avant de partir, j'ai encore des questions...}
+{750}{}{Avant de partir, j'ai encore des questions. }
 {751}{}{Très bien. D'accord.}
 {752}{}{Tu peux compter sur moi, Première citoyenne. Je reviendrai dès que j'aurai remis le disque à Westin.}
 {753}{lyn128}{Je vois que notre marché ne signifiait rien pour toi. Très bien, dans ce cas, tes privilèges de citoyen de l'Abri te sont retirés. Mes gardes vont t'escorter jusqu'à la porte d'entrée.}
@@ -692,8 +688,6 @@
 {787}{lyn138}{Un espion de la RNC ? Ca... Ca expliquerait beaucoup de choses. Merci pour tes révélations. Ce problème-là je peux m'en occuper immédiatement.}
 {788}{}{Y a-t-il quelque chose que je puisse faire au sujet du problème de la RNC ?}
 {789}{}{C'est agréable à entendre. Mais, pour découvrir toutes ces choses sur Reno et la RNC, je me demandais s'il y aurait une récomp --}
-
-# Generic line from 790 to 846 are not used. If this changes, we will need to do the lip-syncing and attach voc files.
 {790}{}{Gardes !}
 {791}{}{Va voir le Proconsul. Il aura ce qu'il te faut.}
 {792}{}{Rends-toi auprès de Monsieur le Conseiller Mc Clure. Il aura ce dont tu as besoin.}
@@ -723,23 +717,23 @@
 {816}{}{T-Ray a une opinion de lui lééégèrement trop haute.}
 {817}{}{Ca c'est une bonne nouvelle.}
 {818}{}{Très bien.}
-{819}{}{Bonne journée.}
-{820}{}{Bonne journée, citoyen.}
+{819}{}{Au revoir.}
+{820}{}{Salut, citoyen.}
 {821}{}{Je prends ça.}
 {822}{}{Donne-moi ça.}
-{823}{}{Je ne sais rien à ce sujet.}
-{824}{}{Je ne sais pas.}
+{823}{}{J'en sais rien.}
+{824}{}{Je n'sais pas.}
 {825}{}{Oui.}
 {826}{}{Non.}
 {827}{}{Certainement.}
 {828}{}{Bien sûr.}
 {829}{}{C'est exact.}
 {830}{}{Tout à fait.}
-{831}{}{Oui.}
+{831}{}{Très bien.}
 {832}{}{Hmpphhh.}
 {833}{}{On pourrait m'expliquer encore pourquoi Fallout 2 n'a pas de héros noir ?}
 {834}{}{La Cité de l'Abri avant tout.}
-{835}{}{La Cité de l'Abri avant tout, citoyen.}
+{835}{}{La Cité de l'Abri avant tout, citoyen !}
 {836}{}{Ouh là là ! Dormir ! C'est là que je joue les Vikings !}
 {837}{}{Dégénéré !}
 {838}{}{Etranger.}
@@ -751,8 +745,6 @@
 {844}{}{Excuse-moi, je croyais les avoir tous tués.}
 {845}{}{C'est un bon début, mais nos eaux souterraines sont toujours contaminées. Tu dois désactiver leur centrale.}
 {846}{}{Ca aide, certainement, mais ça n'empêche que nos eaux souterraines sont toujours contaminées. Tu dois mettre un terme à ces fuites radioactives.}
-# End of Unused Dialog
-
 {847}{}{La Doyenne de mon village m'a donné une fiole d'eau, mais je ne l'ai pas sur moi. En tout cas, d'après les histoires que nous racontait la Doyenne, mon ancêtre venait d'un Abri.}
 {848}{}{Tu veux parler des Goules ? Ouais, j'ai découvert ce qui ne fonctionnait pas dans leur centrale.}
 {849}{}{La centrale a besoin d'un, euh, d'un hydro-magnéto je ne sais quoi pour fonctionner. Les Goules m'ont dit que tu en avais un ici, alors j'en ai besoin pour réparer leur centrale.}
@@ -792,3 +784,5 @@
 {883}{}{Euh, j'ai fait une erreur... Je ne voulais pas dire --}
 {884}{}{Toutes mes excuses, Première citoyenne. Je --}
 {885}{}{Gardes !}
+{1663}{}{Ils étaient cachés dans un réseau de grottes dans les collines du Sud. J'ai convaincu leur guide de ne plus les aider. Sans lui, ils ne seront plus capables de se repérer dans les montages.}
+{1708}{}{Ils étaient cachés dans un réseau de grottes dans les collines du Sud. J'ai convaincu leur guide de ne plus les aider. Sans lui, ils ne seront plus capables de se repérer dans les montages.}

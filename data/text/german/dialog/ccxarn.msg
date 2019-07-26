@@ -57,11 +57,11 @@
 {138}{}{Nein, aber ich denke darüber nach.}
 {139}{}{Nein, ich glaube nicht.}
 {140}{}{Also gut... Ich warte hier, bis du zu einer Entscheidung kommst.}
-{141}{}{Fertig.}
+{141}{}{OK.}
 {142}{}{Also gut... Deine Entscheidung macht mich traurig, doch es ist deine Wahl. Wenn du deine
  Meinung änderst, ich bin hier.}
 {143}{}{Tschüß.}
-{144}{}{Auf Wiedersehen.}
+{144}{}{Wiedersehn.}
 {145}{}{Ich möchte dich bitten, mir bei der Flucht von hier zu helfen. Tust du das?}
 {146}{}{Ja, ich tun.}
 {147}{}{Ich denken nach über.}
@@ -117,7 +117,7 @@
 {195}{}{Ich danke dir, Mensch. Wir werden es der Enklave zeigen! Es lebe Gruthars Rudel!
  Grrrrrrrhh!}
 {196}{}{OK.}
-{200}{}{[Weiter]}
+{200}{}{[Mehr]}
 {201}{}{Ja. Wer bist du?}
 {202}{}{Ja. Warum?}
 {300}{}{Also gut. Die Enklave schuf mein Volk als Kriegssklaven. Sie verbesserten unseren
@@ -138,15 +138,12 @@
 {600}{}{Gemeinsam zermalmen wir unsere Feinde.}
 {601}{}{Du lockst sie her und ich hau sie um.}
 {602}{}{Jetzt werden Köpfe rollen.}
-
 {700}{}{Du siehst eine Deathclaw. Sie blickt dich mit seltsam intelligenten Augen an.}
 {701}{}{Du siehst Xarn, die Deathclaw.}
 {702}{}{Du siehst eine typische Deathclaw. Das Wesen ist riesig, mit einem kräftigen Körper,
  scharfen Zähnen und langen Klauen.}
-
 {800}{}{Du hast Xarn getötet.}
 {810}{}{Du hast Xarn befreit.}
 {820}{}{Du hast dich mit Xarn verbündet.}
-
 {900}{}{Nein. Ich hier dich retten. EHRLICH. Ich hab schon Tür zum gehen aufgmacht. Geh.}
 {901}{}{Schau, ich bin wirklich hier um dich zu retten! Ich habe bereits die andere Tür geöffnet. Es steht dir frei zu gehen.}

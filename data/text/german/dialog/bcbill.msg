@@ -5,5 +5,4 @@
 {104}{}{He, ich sagte, ich hab keine Zeit zum Plaudern. Bitte geh.}
 {105}{}{Danke, daß du Rebecca geholfen hast. Das war eine gute Tat.}
 {106}{}{Laß mich allein, ich bin keine Gefahr für dich.}
-#push messages
 {107}{}{Ist schon gut, ich gehe ja.}

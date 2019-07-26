@@ -18,17 +18,17 @@
 {117}{}{OK. Einverstanden.}
 {118}{}{Tut mir leid, aber im Moment hab ich keine Zeit.}
 {119}{}{Du hast jetzt alles gelernt, was ich dir beibringen konnte. Viel Glück auf deiner Suche.}
-{120}{}{Oh, OK.}
+{120}{}{Oh, okay.}
 {121}{}{Ha! Auserwähltes Wesen, du bist zu ungelenk. Ich kann dir nichts beibringen.}
-{122}{}{Oh, OK.}
+{122}{}{Oh, okay.}
 {123}{}{Du bist nicht schnell genug im Kampf. Mein Training wird dir nicht helfen, Auserwähltes Wesen.}
-{124}{}{Oh, OK.}
+{124}{}{Oh, okay.}
 {125}{}{Zunächst mußt du noch mehr über Kampftechnik lernen, bevor ich dir helfen kann, kleiner Bruder.}
-{126}{}{Oh, OK.}
+{126}{}{Oh, okay.}
 {127}{}{Ich kann dir einen kräftigeren Tritt zeigen. Das dauert ungefähr einen Tag.}
 {128}{}{OK.}
 {129}{}{Ich kann dir genug beibringen, um deine Kampftechnik zu verbessern. Es wird einen Tag dauern.}
 {130}{}{OK.}
 {131}{}{Du hast schnell gelernt, Auserwähltes Wesen. Möge der Wind stets aus der richtigen Richtung für dich wehen.}
-{132}{}{Danke für deine Hilfe.}
+{132}{}{Danke für die Hilfe.}
 {133}{}{Ich hab dir alles beigebracht, was ich weiß, Auserwähltes Wesen. Viel Glück auf deiner Suche.}

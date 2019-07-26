@@ -1,24 +1,24 @@
 {100}{}{Tu vois une jeune femme vêtue de loques.}
 {101}{}{Tu vois Dalia.}
 {102}{}{Tu vois une jeune femme vêtue de loques. Elle a l'air sur le qui-vive et regarde avec attention autour d'elle.}
-{103}{}{Bonjour. Je m'appelle Dalia. Que puis-je faire pour toi ?}
+{103}{}{Que puis-je faire pour toi ?}
 {104}{}{Rien, moi dire juste bonjour.}
 {105}{}{Euh, qui toi ?}
-{106}{}{Quoi toi faire ici ?}
+{106}{}{Quoi toi faire ?}
 {107}{}{On dirait toi garde.}
 {108}{}{Moi partir maintenant.}
-{109}{}{Rien, je passais juste dire bonjour.}
+{109}{}{Juste dire bonjour.}
 {110}{}{Qui es-tu ?}
 {111}{}{Que fais-tu ?}
 {112}{}{On dirait que tu gardes le passage.}
-{113}{}{Je dois m'en aller maintenant.}
+{113}{}{Je m'en vais alors.}
 {114}{}{Eh bien, bonjour. Désolée, mais il faudrait que tu partes.}
 {115}{}{Moi vouloir parler.}
 {116}{}{Ok, moi partir.}
 {117}{}{J'aimerais te parler.}
 {118}{}{Salut.}
 {119}{}{J'ai dit que je m'appelais Dalia. Ecoute, je ne veux pas être impolie mais je ne veux parler à personne. Compris ?}
-{120}{}{Ok, au revoir.}
+{120}{}{D'accord, salut.}
 {121}{}{Encore un peu.}
 {122}{}{Ensuite, je partirai.}
 {123}{}{Je veux juste te poser une question.}
@@ -45,7 +45,7 @@
 {144}{}{As-tu vu quelqu'un passer par ici d'un pas pressé ?}
 {145}{}{Je vois tous les jours des gens passer par ici. Je n'y prête pas vraiment attention.}
 {146}{}{Moi pas avoir temps pour tes trucs.}
-{147}{}{Oh, très bien.}
+{147}{}{Oh, d'accord.}
 {148}{}{Vie d'une fille en jeu. Jeune fille. Fille de quelqu'un. Toi aider moi ?}
 {149}{}{J'ai pas le temps de m'occuper de tes conneries.}
 {150}{}{Très bien, au revoir.}
@@ -54,6 +54,6 @@
 {153}{}{Merci, moi pas oublier ça, Dalia.}
 {154}{}{Merci, je ne l'oublierai pas, Dalia.}
 {155}{}{Alors va au diable et lâche-moi !}
-{156}{}{Terminé.}
+{156}{}{Marché conclu.}
 {157}{}{Alors va au diable et lâche-moi !}
-{158}{}{Terminé.}
+{158}{}{Marché conclu.}

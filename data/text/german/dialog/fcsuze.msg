@@ -21,7 +21,7 @@
 {117}{}{Ich hab den Raum gefunden, in dem ich war. Außerdem noch einen Raum, der aussah wie ein
  Auftankbereich. Viel weiter bin ich nicht gekommen, wegen der Monster.}
 {118}{}{Ich habe noch weitere Fragen.}
-{119}{}{Woher kommst du?}
+{119}{}{Woher bist du?}
 {120}{}{Gut. Das reicht für den Augenblick.}
 {121}{}{Ich komme von einem Ort südlich des Knochengartens und südlich des Glows. Nicht allzu
  weit vom Meer entfernt. Ich war Kindermädchen, aber dann mutierten die Kinder zu Monstern.}
@@ -36,9 +36,8 @@
 {129}{}{Jaaaah.}
 {130}{}{Was hast du da unten gemacht?}
 {131}{}{Hast du irgendwas Interessantes gefunden?}
-{132}{}{Woher kommst du?}
+{132}{}{Woher bist du?}
 {133}{}{Wie hast du Dachs kennengelernt?}
 {134}{}{Jetzt nicht. Bis dann.}
-{135}{}{Oh mein Gott...Dachs ist tot...ich weiß nicht, was ich jetzt tun soll...Ich hab hier
- keine Freunde...meine ganze Familie ist tot...oh mein Gott.}
+{135}{}{Oh my god... Badger is dead... I don't know what I'll do... I haven't got any friends here... all my family is dead... oh my god...}
 {136}{}{Danke für deine Hilfe. Ich werde jetzt Dachs suchen.}

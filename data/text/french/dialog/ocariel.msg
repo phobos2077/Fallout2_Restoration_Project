@@ -2,16 +2,16 @@
 {101}{}{Tu vois Ariel, la veuve.}
 {102}{}{Tu vois une petite femme svelte portant une robe d'été en velours bleu. Elle a l'air triste.}
 {103}{}{Bonjour, je m'appelle Ariel. Je crois qu'on ne s'est jamais rencontrés. Qui es-tu ?}
-{104}{}{Moi}
+{104}{}{Moi }
 {105}{}{Euh... Toi triste. Pourquoi ?}
-{106}{}{Moi partir.}
+{106}{}{Moi partir maintenant.}
 {107}{}{Bonjour, Ariel, je m'appelle}
 {108}{}{Salut, ça n'a pas l'air d'aller. Qu'y a-t-il ?}
 {109}{}{Tu n'as pas besoin de savoir mon nom, mais tu dois me donner des informations.}
 {110}{}{Je regrette, mais je n'ai pas le temps.}
 {111}{}{C'est un plaisir de faire ta connaissance. Que puis-je faire pour toi ?}
 {112}{}{Répondre questions ?}
-{113}{}{Rien. Au revoir.}
+{113}{}{Rien. Salut.}
 {114}{}{Tu ne peux vraiment pas m'aider. Au revoir.}
 {115}{}{J'aimerais te poser quelques questions.}
 {116}{}{Excuse-moi de troubler ta solitude, mais pourrais-tu répondre à quelques questions ?}
@@ -24,22 +24,22 @@
 {123}{}{Excuse-moi, mais je n'ai pas de temps à accorder à quelqu'un comme toi. Au revoir.}
 {124}{}{}
 {125}{}{}
-{126}{}{Très bien.}
+{126}{}{D'accord.}
 {127}{}{Que veux-tu savoir ?}
 {128}{}{Toi prisonnier ?}
 {129}{}{Grif'morts gentils avec toi ?}
 {130}{}{Vouloir partir ?}
 {131}{}{Alors pourquoi toi triste ?}
 {132}{}{Comment toi venir ici ?}
-{133}{}{Moi partir.}
-{134}{}{Es-tu retenue prisonnière ici ?}
+{133}{}{Moi devoir partir.}
+{134}{}{Es-tu retenu prisonnier ici ?}
 {135}{}{Les Griffemorts te traitent-ils bien ?}
 {136}{}{Aimerais-tu quitter l'abri ?}
 {137}{}{Mais alors, Ariel, pourquoi es-tu si triste ?}
 {138}{}{Comment as-tu atterri ici, à l'abri ?}
 {139}{}{Je dois m'en aller maintenant.}
 {140}{}{Non, je peux partir quand je veux. Les Griffemorts me l'ont bien fait comprendre. D'après ce que je sais, ils ne retiennent personne de force.}
-{141}{}{Euh, Ok.}
+{141}{}{Uh, Ok.}
 {142}{}{Compris. Moi partir.}
 {143}{}{Je vois.}
 {144}{}{Je crois que tu mens, salope.}

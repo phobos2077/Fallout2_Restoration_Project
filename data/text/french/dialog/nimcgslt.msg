@@ -1,10 +1,5 @@
-# QUICK LOOk
-
-# EXAMINE
 {150}{}{Tu vois une horrible machine à sous recouverte de rouille.}
 {151}{}{Tu vois une horrible machine à sous. Elle est couverte de rouille et elle est cabossée à plusieurs endroits, comme si elle avait été frappée à maintes reprises avec un objet lourd.}
-
-# 1. FLOAT DIALOGUE (PLAYER = MALE, DRUNK OR HIGH) (WTG)
 {200}{}{*Hé, là-bas, jeune... ::Tousse:: ::Tousse:: ::Respire bruyamment:: ::Tousse:: ...viens jouer une seconde.*}
 {201}{}{*Bonjour, jeune... ::Tousse:: ::Tousse::*}
 {202}{}{*Hé là-bas, jeune homme... ::Tousse:: ::Crache:: ::Respire bruyamment:: ...pourquoi... ::Tousse:: ...tu viendrais pas miser ?*}
@@ -22,65 +17,29 @@
 {214}{}{*Bonjour, beaut... ::Tousse:: ::Tousse:: Bon sang !*}
 {215}{}{*Insère un jeton, tire mon bras. Tu ne le regretteras pas. Hé-hé.*}
 {216}{}{*Oh, c'est-i pas mignon, ça ::Tousse:: ::Crache:: ::Respire bruyamment:: Pourquoi... ::Crache:: ... tu viendrais pas jouer ?*}
-
-# 4. RETARD (WTG)
 {230}{}{Tu vois une étrange boîte métallique insignifiante avec trois yeux et un bras.}
-
-# 5.  RETARD TALKS TO SLOT MACHINE (4, 5)
 {235}{}{L'étrange boîte métallique à trois yeux et un bras ne répond pas.}
-
-# 6.  RETARD PULLS HANDLE (4, 5)
 {240}{}{Tu saisis son bras et le secoues chaleureusement. A ce moment-là, tu entends un cliquetis aigu !}
-
-# PLAY... ? (WTG, 14, 15)
 {245}{}{[Tu vois une machine à sous. C'est peut-être la plus hideuse des machines à sous que tu aies vue à New Reno. Son manche est tordu, deux de ses fenêtres sont cassées et elle est toute cabossée.]}
 {246}{}{Ta main frémit au moment où tu saisis tes jetons. [La machine continue à te susurrer d'une voix grave] *Allez viens... ::Tousse:: ... c'est ça...*}
-
-# LOOOOOOSER (8)
 {250}{}{Tu entends un cliquetis affreusement désagréable au moment où les chambres des yeux tournent et...}
 {251}{}{RIEN ! [La machine glousse sèchement] *T'auras plus de chance la prochaine fois, jeune -- ::Tousse:: ::Tousse:: ::Respire bruyamment::}
-
-# WIN x1 (8)
 {255}{}{[La machine continue à te susurrer] *Essaie encore... une fois encore pour... ::Tousse:: ::Crache:: ... tenter ta chance.*}
-
-# WIN x2 (8)
 {260}{}{Les tambours cliquettent puis s'arrêtent et affichent...}
 {261}{}{[La machine glousse chaleureusement] *C'est ça. Je savais que tu pou... ::Tousse:: ::Tousse:: ... vais le faire.*}
-
-# WIN x3 (8)
 {265}{}{[La machine rigole] *C'est ça, jeune freluquet ! Je savais que j'avais encore... ::Respire bruyamment:: ... du mordant ! Hé-hé !*}
-
-# DRUNK, HIGH OR OTHERWISE FUCKED UP (WTG)
 {270}{}{[Devant toi se trouve peut-être la plus hideuse des machines à sous que tu aies jamais vue. Alors que tu l'observes avec une fascination morbide, tu entends une voix masculine grave murmurer de la fente des jetons :] *Je n'avais pas vu de jeune comme toi par ici avant -- ::Tousse:: ::Tousse:: Tu veux... ::Crache:: ::Respire bruyamment:: ... tenter ta chance ?*}
-
-# DRUNK CONVERSATION 1 (13)
 {275}{}{*Je suis toujours là,* la machine à sous grince. *Allez... tu veux miser ? J'en ai plus pour très longtemps.*}
-
-# DRUNK 2 (14)
 {280}{}{*Je suis la plus vieille des machines à un bras de Reno. Je suis ici depuis près de... ::Tousse:: ::Tousse:: ... depuis une éternité. Ca commence à se voir, j'en ai bien peur. Bon, tu vas miser ou tu vas me laisser rouiller ici ?*}
-
-# DRUNK 3 (15)
 {285}{}{::Tousse:: ::Tousse:: *J'ai pas le TEMPS de tailler une bavette avec toi. Et t'as sûrement mieux à faire que de causer avec moi, non ? Y a quelque chose qui te tracasse ?*}
-
-# DRUNK 4 (16)
 {295}{}{*Doucement, sèche-moi ces grosses larmes. Ca va aller, tu m'entends ? Je te protège, d'accord ?*}
-
-# DRUNK 5 (17)
 {300}{}{*Hé, allez, arrête maintenant. Va te promener, fais le vide dans ta tête... ::Tousse:: ... ça t'aidera à te détendre. Tu crois que ça va aller ?*}
 {301}{}{Ca fa aller... Merciii de m'avoir parléééé, vieille machine à ssssous.}
-
-# DRUNK 6 (18)
 {305}{}{*Bah ! Pas besoin de me remercier, [X]. Bon, tu vas y retourner et leur en mettre plein la VUE. T'es le seul personnage héroïque dans ce monde de pacotille de salauds et de voleurs... ::Tousse:: ::Respire bruyamment:: ::Tousse:: ... tu fais attention, hein ?*}
 {306}{}{Ouiiii, toiii aussiiii, d'accoord ?}
-
-# JACKPOT! (8)
 {310}{}{[Au moment où tu tires le manche tordu, tu crois entendre la machine soupirer de soulagement, puis un long silence. Alors que tu étais sur le point d'abandonner, tu entends un cliquetis. Quelques secondes plus tard, le cliquetis se transforme en rugissement assourdissant et les pièces commencent à tomber en cascade !] JACKPOT !}
 {311}{}{[Ramasser tes gains]}
-
-# AFTER JACKPOT (WTG)
 {315}{}{[Cette machine semble avoir finalement rendu l'âme. On dirait que le jackpot a été son dernier soupir. Tu ne peux pas t'empêcher d'être triste pour elle.]}
-
-# skill use
 {320}{}{Cette machine est une antiquité. C'est un miracle qu'elle fonctionne encore.}
 {321}{}{Tu ne peux pas travailler sur la machine tant que le vieil homme joue dessus.}
 {322}{}{Cette machine est irréparable.}

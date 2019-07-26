@@ -16,4 +16,3 @@
 {115}{}{}
 {116}{}{D'accord, je t'ouvre les portes dans une seconde.}
 {117}{}{Ne rigole pas avec ça ! Va-t'en s'il te plaît ou tu le regretteras.}
-

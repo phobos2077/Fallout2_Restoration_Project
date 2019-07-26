@@ -1,56 +1,48 @@
 {100}{}{Du siehst einen Techniker.}
 {101}{}{Du siehst einen Enklave-Techniker.}
-{102}{}{Du siehst jemanden in einem Laborkittel. Er erscheint selbstsicher und selbstbewußt.}
-
+{102}{}{Du siehst jemanden, der einen Laborkittel trägt. Er wirkt überzeugt und selbstsicher.}
 {103}{}{Ja, Soldat?}
 {104}{}{Was sein das hier?}
 {105}{}{Ich nur sagen Hallo. Ich gehen.}
 {106}{}{Was ist das alles hier?}
-{107}{}{Wollte nur Hallo sagen. Bis die Tage.}
-
-{108}{}{Das ist der Computerraum. Da drüben steht der Großrechner, das Interfaceterminal steht
- daneben und diese Geräte da sind Holobandspeicher. Das Beste vom Besten.}
+{107}{}{Ich sag nur Hallo. Bis später.}
+{108}{}{Dies ist der Computerraum. Das da vorne ist der Mainframe, daneben befindet sich das
+ Interface-Terminal und diese Vorrichtungen hier sind Einheiten zur Speicherung von Holotapes.
+ Es ist das Beste und Neueste.}
 {109}{}{Oh. Äh, was du tun?}
-{110}{}{Was treibst du hier so?}
-
-{111}{}{Ich bin der leitende Computeranalytiker. Ich warte die gesamten Geräte hier.}
-{112}{}{Oh. Ich benutzen Computer?}
-{113}{}{Nix verstehn. Ich gehn.}
-{114}{}{Sag mal, kann ich das System 'nen Augenblick lang benutzen? Weißt schon, mal ansehen?}
-{115}{}{Hey, war nett, mit dir zu plaudern. Bis später.}
-
+{110}{}{Also, was machst Du hier?}
+{111}{}{Ich bin der Hauptcomputeranalytiker. Ich kümmere mich um die Wartung der gesamten
+ Ausstattung hier.}
+{112}{}{Oh. Ich dürfen probieren den Computer?}
+{113}{}{Ich nichts verstehen. Ich gehen.}
+{114}{}{Kann ich das System mal für eine Minute benutzen? Nur mal so ausprobieren, weißt Du?}
+{115}{}{Hey, es war nett, Dich kennengelernt zu haben. Bis später.}
 {116}{}{Naja...außer ausgebildetem Personal darf eigentlich keiner an die Geräte ran. Es ist
  alles ziemlich komplex und empfindlich, weißt du.}
-{117}{}{Bitte? Ich nix kaputt!}
+{117}{}{Was? Ich nichts kaputt machen.}
 {118}{}{Ich verspreche, nichts kaputtzumachen}
-
 {119}{}{In Ordnung. Du kannst an dem Terminal da drüben in das System. Aber sei bitte vorsichtig.
  Die werden uns beide erschießen, wenn du den Rechner beschädigst. Übrigens, das Gästekennwort
  heißt 'Snookie'.}
-{120}{}{Tut mir leid, kommt nicht in Frage. Ich darf Militärpersonal nicht einmal in den Raum
- lassen, ganz zu schweigen, die Geräte benutzen lassen.}
-{121}{}{Snookie? Was Snookie?}
-{122}{}{OK. Ich verstehen.}
-{123}{}{Snookie? Was ist denn ein Snookie?}
+{120}{}{Tut mir leid, aber das kommt nicht in Frage. Ich darf nicht einmal den Angestellten,
+ die in diesem Raum arbeiten, erlauben, die Ausstattung zu benutzen.}
+{121}{}{Snookie? Was heißt Snookie?}
+{122}{}{Ok. Ich verstehen.}
+{123}{}{Snookie? Was ist Snookie?}
 {124}{}{In Ordnung. Ich verstehe.}
-
-{125}{}{'Snookie' ist der Kosename meiner Freundin. Ich finde das putzig. Sie ist da draußen im
- Flur, übrigens. Sie ist bei der Wache.}
-{126}{}{OK, fein. Danke.}
+{125}{}{'Snookie' ist der Spitzname meiner Freundin. Ich finde das süß. Das ist sie übrigens, da
+ drüben in der Halle. Sie ist eine der Wachen.}
+{126}{}{Ok, gut. Danke.}
 {127}{}{Ja...Putzig. Danke.}
-
-{128}{}{Du trägst keine Uniform. }
-{129}{}{Laß dich lieber ausrüsten. Die Waffenkammer ist den Flur entlang links.}
+{128}{}{You're out of uniform. }
+{129}{}{Zieh Dir besser eine an. Die Waffenkammer ist am Ende der Halle auf der linken Seite.}
 {130}{}{Das ist sehr riskant, ohne Uniform herumzulaufen. Meld dich lieber beim Nachschub.}
-
 {131}{}{Wer zum Teufel seid ihr...Alarm! Eindringlinge!}
 {132}{}{Wir wurden unterwandert! Alarm!}
 {133}{}{Eindringlinge! Schlagt Alarm!}
-
-{134}{}{Verflucht! Fahrt die Backups hoch.}
-{135}{}{Schließt alle geheimen Operationen.}
-{136}{}{Sichert das System, und aktiviert alle Sicherheitskennwörter.}
-
-{137}{}{Ich bin Wissenschaftler, kein Kämpfer!}
-{138}{}{Spitzes Ende mit Laserdiode auf den Feind richten. Dann den Abzug drücken.}
-{139}{}{Hilfe! Hilfe! Zum Computerraum!}
+{134}{}{Mist! Aktiviert die Sicherungskopien.}
+{135}{}{Schließt alle geheimen Anwendungen.}
+{136}{}{Sichert das System und autorisiert alle Sicherheitspasswörter.}
+{137}{}{Ich bin ein Wissenschaftler und kein Kämpfer!}
+{138}{}{Das spitze Ende mit der Laserdiode wird auf den Feind gerichtet. Dann drückst du den Auslöser.}
+{139}{}{Hilfe! Hilfe! Zum Computerlabor!}

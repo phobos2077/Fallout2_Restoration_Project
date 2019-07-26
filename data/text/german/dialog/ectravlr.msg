@@ -2,7 +2,7 @@
 {101}{}{Sei gegrüßt, Reisender.}
 {102}{}{Ich hab mich verirrt. Kannst du mir helfen?}
 {103}{}{Wohin willst du?}
-{104}{}{Was machst du?}
+{104}{}{Was machst'n du so?}
 {105}{}{Agh.}
 {106}{}{Nun... Keine Ahnung. Ich bin ziemlich neu hier in der Gegend und kam bisher nur an folgenden Orten vorbei.}
 {107}{}{New Reno.}
@@ -32,7 +32,7 @@
 {131}{}{Danke. Tschüß.}
 {132}{}{Oh... Ist wirklich nicht wichtig. Eines Tages dachte ich mir, fängst du an zu wandern, und nun bin ich hier.}
 {133}{}{Vielleicht kannst du mir helfen. Ich brauch ein paar Wegbeschreibungen.}
-{134}{}{Was machst du?}
+{134}{}{Was machst'n du so?}
 {135}{}{War nett mit dir zu reden.}
 {136}{}{Ich halt mich hier und da mit Gelegenheitsjobs über Wasser. Aber die meiste Zeit reise ich einfach.}
 {137}{}{Vielleicht kannst du mir helfen. Ich brauch ein paar Wegbeschreibungen.}
@@ -48,5 +48,4 @@
 {147}{}{Zeit zu gehen.}
 {148}{}{Meine Gastfreundschaft wird überstrapaziert.}
 {149}{}{Ich muss weiter.}
-
 {150}{}{Danke. Ich brauch eine Wegbeschreibung zu anderen Orten.}

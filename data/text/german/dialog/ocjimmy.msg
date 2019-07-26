@@ -5,7 +5,7 @@
 {104}{}{Ich umsehn.}
 {105}{}{Ich}
 {106}{}{Äh... Ich laufen rum. Ich jetzt gehn.}
-{107}{}{Seh mich nur 'n bißchen um.}
+{107}{}{Schau mich nur 'n bißchen um.}
 {108}{}{Hi Jim. Ich bin}
 {109}{}{Geht dich nichts an, Brillenschlange. Hau ab.}
 {110}{}{Ich lauf hier nur 'n bißchen rum. Ich geh jetzt.}
@@ -15,8 +15,8 @@
 {114}{}{Du nervst. Verschwinde.}
 {115}{}{Hey, tut mir leid. Ich wollt dir nicht zu nahe treten. Ich laß dich in Ruh.}
 {116}{}{Gut.}
-{117}{}{Freut mich, dich kennenzulernen,}
-{118}{}{Was möchtest du wissen?}
+{117}{}{Freut mich, dich kennenzulernen, }
+{118}{}{Was möchtest du denn wissen?}
 {119}{}{Was du machen hier?}
 {120}{}{Was das für Maschinen?}
 {121}{}{Vault haben Aufseher. Das Aufseherraum?}
@@ -78,7 +78,6 @@
 {177}{}{Danke.}
 {178}{}{Danke, daß du den Computer repariert hast. Du hast unsern Hintern gerettet.}
 {179}{}{Ich hab Besseres zu tun als Leute wie dich zu erschießen, aber jeder braucht mal Urlaub.}
-
 {180}{}{. Ich Frage stellen?}
 {181}{}{. Kann ich dir ein paar Fragen stellen?}
 {182}{}{. Ich beantworte dir gern einige Fragen.}

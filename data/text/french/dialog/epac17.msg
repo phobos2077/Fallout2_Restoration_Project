@@ -8,7 +8,6 @@
 {107}{}{Tu vois Le DOC.}
 {108}{}{L'unique, et le seul, Docteur restant d'EPA.}
 {109}{}{Ce ne serait pas sage de m'attaquer.}
-
 {120}{}{Oui ?}
 {121}{}{Salut, mon nom est }
 {122}{}{. Qui es-tu ?}
@@ -18,7 +17,7 @@
 {132}{}{D'accord, merci.}
 {140}{}{Je vois que tu es doté de connaissances en sciences. Peut-être pourrais-tu comprendre ce que je fais après tout. Que veux-tu savoir ?}
 {141}{}{Pourquoi es-tu ici ?}
-{142}{}{Que fais-tu ?}
+{142}{}{Qu'est-ce tu fais ici ?}
 {150}{}{Je suis désolé, mais je ne crois pas que tu aies assez de connaissances pour comprendre ce que je fais. Reviens lorsque tu seras moins bête.}
 {151}{}{Hé, attends. Je suis prêt à essayer tout ce que tu as à me donner !}
 {152}{}{Bah, Ok alors. Au revoir.}
@@ -31,7 +30,7 @@
 {181}{}{Ce n'est pourtant pas mon cas. Fais-moi confiance.}
 {190}{}{[Il sourit.] Ok, peut-être. Ok, si tu veux, je te donne une chance. Que désires-tu savoir ?}
 {191}{}{Pourquoi es-tu ici ?}
-{192}{}{Que fais-tu ?}
+{192}{}{Qu'est-ce tu fais ici ?}
 {200}{}{Bien sûr, pourquoi ?! Personne ne surveille mon travail. Plus de règles. Je fais ce que je veux, quand je veux. De plus, comme je suis le dernier qui reste, j'ai accès à tous les équipements dont j'ai besoin. Autre chose ?}
 {201}{}{Qui sont ces gens, là, dans ces cages ?}
 {202}{}{Quel est ce drôle de liquide verdâtre qu'il y a tout autour d'EPA ?}
@@ -61,7 +60,7 @@
 {272}{}{C'est quoi ce drôle de liquide verdâtre tout autour d'EPA ?}
 {273}{}{Où as-tu récupéré tout cet équipement et ces provisions pour tes expériences ?}
 {280}{}{Non, non, non. Avant que tu partes, je dois te demander quelque chose. Pourrais-tu m'accorder une petite faveur ? Je ne quitte pas la sécurité de cet endroit de peur que l'on me vole quelque chose. J'ai besoin de matières premières. Peux-tu m'aider ?}
-{281}{}{Ouais, je suppose. De quoi as-tu besoin ?}
+{281}{}{Ouais, je pense que je peux faire ça. De quoi as-tu besoin ?}
 {282}{}{Non, je suis trop occupé pour le moment. Peut-être plus tard.}
 {290}{}{Ouais, je me demandais ce que le virus ferait sur un simple animal domestique sauvegardé dans les entrepôts d'avant guerre. L'effet négatif était la modification de leurs cycles reproductifs et qu'ils se multipliaient très vite. Je les ai libérés dans le désert tout de suite après avoir réalisé ça.}
 {291}{}{Tu es un monstre ! Pas étonnant que personne dans le secteur ne veuille de toi ! Tu dois être cinglé.}
@@ -92,7 +91,7 @@
 {400}{}{Pardon, avant que tu t'en ailles. S'il te plaît, prends ceci en guise de remerciement pour avoir ramené Myron ici. Je ne m'en sers pas réellement.}
 {401}{}{Hé, merci. Hum, mais c'est quoi ?}
 {410}{}{C'est une pistolet solaire. C'était une de mes expériences. Il est alimenté par l'énergie du soleil et ne requiert aucune munition. Il est en état de fonctionnement et pourra grandement t'aider j'en suis sûr lorsque tu seras dans le désert. Cela mérite une mûre réflexion cependant...}
-{411}{}{Quoi ?}
+{411}{}{C'est quoi, ça ?}
 {420}{}{Tu as l'air d'être un aventurier. Je suis obligé de rester dans le sous-sol de l'EPA pour surveiller beaucoup de mes expériences, mais j'ai besoin de quelques fournitures. Pourrais-tu m'en avoir quelques-unes ?}
 {421}{}{Ouais, je pense que je peux faire ça. De quoi as-tu besoin ?}
 {422}{}{Non, je suis trop occupé à sauver mon village pour le moment. Peut-être une autre fois.}
@@ -115,21 +114,21 @@
 {483}{}{Je recherche du travail, aurais-tu quelque chose pour moi ?}
 {484}{}{Où as-tu récupéré tout cet équipement ?}
 {490}{}{As-tu les peaux dont j'ai besoin ?}
-{491}{}{Oui, les voici.}
+{491}{}{Oui, la voici.}
 {492}{}{Non, pas encore.}
 {500}{}{Magnifique ! Excellent ! Laisse-moi voir... Ahh oui, ça le f'ra à merveille ! Veux-tu un autre boulot ?}
 {501}{}{Oui, si tu as quelque chose.}
 {502}{}{Pas maintenant merci. Salut.}
 {510}{}{Alors, bien que l'entrepôt soit l'endroit où je fais la majeure partie de mon travail, je dois toujours entrer au complexe principal de temps en temps. Cependant, les lumières sont en permanence réglées sur le plus bas paramètre. Règle-les pour moi de sorte que je puisse entrer dans EPA.}
-{511}{}{Aucun problème.}
+{511}{}{Pas de problème.}
 {512}{}{Je reviendrai lorsque j'aurai un peu plus de temps.}
 {513}{}{C'est déjà fait ! Il y avait des fils manquants sur le tableau de contrôle principal et j'ai répar --}
 {520}{}{Maintenant que tu as tué tous mes guerriers, tu as très bien prouvé tes compétences. Voudrais-tu travailler pour moi ?}
 {521}{}{Quoi !? Travailler pour toi !? Que veux-tu que je fasse ?}
-{522}{}{Non merci. Au revoir .}
+{522}{}{Non merci. Salut.}
 {530}{}{As-tu déjà réglé le problème d'électricité ?}
 {531}{}{Oui, oui, oui, Je n'ai pas besoin de savoir les détails. Merci. Maintenant, il me reste encore une tâche si tu veux l'entreprendre.}
-{532}{}{C'est quoi ?}
+{532}{}{C'est quoi, ça ?}
 {533}{}{Non, je suis déjà pas mal occupé.}
 {540}{}{J'expérimente un nouveau sérum en ce moment pour améliorer l'agilité et les réflexes des gens afin de les aider à survivre dans ce monde de brutes. Tu veux bien le tester pour moi, n'est-ce pas ?}
 {541}{}{Euh... oui, il y a des effets secondaires ?}
@@ -140,7 +139,7 @@
 {570}{}{Tu es resté inconscient pendant quelques heures, mais tu devrais te sentir bien maintenant. Les indications montrent que tu es beaucoup plus alerte et prévenant.}
 {571}{}{Waouh ! Merci, DOC.}
 {580}{}{Pas de problème. Si t'as besoin de quoi que ce soit, fais-le-moi savoir.}
-{581}{}{Ok. Au revoir.}
+{581}{}{Entendu. Au revoir.}
 {590}{}{As-tu décidé de m'aider maintenant ?}
 {591}{}{Oui, je vais t'aider. Je reviens dès que toute ma force sera revenue.}
 {592}{}{Non, désolé.}
@@ -148,14 +147,13 @@
 {601}{}{Salut.}
 {602}{}{Oui, il y a des fils manquants et je dois aller dehors pour tr --}
 {603}{}{Non ! Que fais-tu ?}
-
 {700}{}{Attends une seconde ! Tu faisais partie de l'équipe originale ?! Mais, tu aurais plus de 200 ans si c'était vrai !}
 {701}{}{Euh, je suppose que c'est vrai, en un sens. Je suis né il y a 202 ans. Bien que ce ne soit pas possible que je sois toujours en vie selon le bon entendement.}
 {702}{}{Continue. J'écoute.}
 {703}{}{Lorsque la guerre a commencé, les autres scientifiques et moi-même, avons utilisé les chambres cryogéniques. Nous avons remis la gestion des équipements aux hologrammes et aux robots, nous nous sommes congelés lorsque la catastrophe est arrivée.}
 {704}{}{Mais, mais la grande guerre a eu lieu il y a très, très longtemps déjà.}
 {705}{}{C'est vrai. Nous sommes sortis de l'hibernation environ 90 ans après, et nous avons découvert que cet endroit avait été très abîmé. La plupart des scientifiques ont continué leurs recherches originelles, car ils ne savaient pas vraiment quoi faire.}
-{706}{}{[Continuer]}
+{706}{}{[Plus]}
 {707}{}{Je ne pouvais pas croire leur courte vision scientifique... Leur manque total d'imagination ! Nous avions une occasion fantastique de faire quelque chose d'incroyable. Nous avions la chance de refaire des choses comme nous en avions envie. Malheureusement, mes camarades ont payé pour leur manque de vision...}
 {708}{}{Tu les as tués !?}
 {709}{}{Indubitablement.}
@@ -181,35 +179,28 @@
 {729}{}{Tu sais, tu es un cinglé. Je crois que je vais te montrer comment j'*expérimente* mes savoirs sur les gens. C'est l'heure de mourir !}
 {730}{}{Donc, tu es heureux maintenant ? Je veux dire, être tout seul ici ?}
 {731}{}{Qu'aimerais-tu savoir ?}
-
 {800}{}{En fait, attends une seconde. T'as l'air d'être un aventurier. J'aurai besoin de tes compétences.}
 {801}{}{Bien sûr. De quoi as-tu besoin ?}
 {802}{}{Non merci. Salut.}
 {803}{}{J'ai été récupérer quelques échantillons dans un de mes sites de travail et il me semble avoir laissé un de mes outils là bas. Normalement j'irai le chercher moi-même, mais je suis extrêmement occupé à l'heure actuelle et pour mon plus grand malheur je ne me rappelle plus de l'endroit exact où je l'ai laissé. En tout cas, va au Nord-Ouest de ce bâtiment et tu trouveras le secteur où j'ai laissé mon outil. Ca devrait être du gâteau.}
 {804}{}{J'y vais tout de suite.}
-{805}{}{Pas intéressé. Salut.}
+{805}{}{Jamais de la vie, espèce de... Salut.}
 {806}{}{Euh, attends. Es-tu sûr de ne pas vouloir m'aider pour quelque chose ?}
-
 {810}{}{Excellent ! Maintenant, je dois retourner au travail. [à lui même :] Tout marche selon mes plans.}
-{811}{}{[Fin]}
-
+{811}{}{[Terminé]}
 {820}{}{C'est dommage. Bon, je dois retourner au travail. [à lui même :] Je l'ai presque eu. Maintenant, où vais-je trouver un autre cobaye.}
-{821}{}{[Fin]}
-
+{821}{}{[Terminé]}
 {830}{}{[L'homme lève des yeux effrayés.] Qu'est-ce que ?!}
 {831}{}{Je cherche toujours ta pièce.}
 {832}{}{Voici ton outil. C'était vraiment du gâteau.}
 {833}{}{Tu voulais me tuer ou quoi là bas ? C'était un labyrinthe plein de monstres mutants. Ce n'était pas une simple quête de récupération, n'est-ce pas ?}
-
 {840}{}{Quoi ?! Donne-moi ça ! [Il arrache l'objet de tes mains.] Comment t'as fait... ?! Oh, tant pis. Retourne à la planche à dessin alors...}
 {841}{}{[Tu ignores sa réaction.] Bien, si t'as besoin de quelque chose d'autre, fais-le-moi savoir. Salut.}
 {850}{}{Ce n'est pas tes affaires. [Il arrache l’outil de tes mains.] Maintenant va-t'en. J'ai des choses à faire. [Il regarde ailleurs murmurant à lui même.]}
-{851}{}{Salut.}
+{851}{}{Allez va, salut.}
 {852}{}{Je ne crois pas. Tu as essayé de me tuer et maintenant je vais te retourner la pareille. Meurs !}
 {860}{}{Euh, oui, bien sûr. Bon, au travail maintenant.}
 {861}{}{[Terminé]}
-
 {900}{}{::Il bougonne::}
 {901}{}{[à lui même :] J'étais pourtant sûr qu'il ne reviendrait pas.}
-
 {1000}{}{Tu rends au Docteur son outil oublié.}

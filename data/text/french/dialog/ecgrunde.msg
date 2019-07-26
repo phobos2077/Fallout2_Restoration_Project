@@ -6,5 +6,4 @@
 {105}{}{Allez petite souris. Moi avoir faim.}
 {106}{}{Couic-couic-couic-COUIIIIC !}
 {107}{}{Bon, moi mentir. Moi te manger.}
-
 {110}{}{Ohhh ! Toi être grosse souris. Faire gros repas pour Grundel.}

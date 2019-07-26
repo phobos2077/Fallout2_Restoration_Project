@@ -20,7 +20,7 @@
  könntest. Wiedersehen.}
 {115}{}{Über die süße Wissenschaft natürlich. Die sportliche Kunst.}
 {116}{}{Äh, die Kunst? Sprichst du von Magie!?! Kannst du mir Zaubersprüche beibringen?}
-{117}{}{Wovon sprichst du?}
+{117}{}{Wovon redest du?}
 {118}{}{(Er grinst breit) Aber sicher, ich kann Dir alles beibringen über das Feenvolk, Kobolde,
  Zauberer und Geister. Würde Dir das gefallen?}
 {119}{}{Das klingt toll. Fang an.}
@@ -57,7 +57,7 @@
 {136}{}{Äh, nun ja, ich verstehe, daß du ein vielbeschäftigter Mann bist. Ich sehe dich später.
  Wiedersehen.}
 {137}{}{(Er schaut dich an.) Vielleicht ist das so. Nun, dann kümmer dich alleine darum.}
-{138}{}{Das werde ich tun. Wiedersehen.}
+{138}{}{Ich werd's mir merken. Wiedersehn.}
 {139}{}{Nun, vielleicht bin ich das. Nichts desto trotz warst du ein fairer Sportler. Hier hast
  du ein Bier, geht auf mich, dafür, daß du dich so gut gehalten hast.}
 {140}{}{Danke. Also, was hast du über die süße Wissenschaft gesagt?}
@@ -94,4 +94,3 @@ l das beizubringen, was ich kann. Paß bloß auf dich auf. Du hast gutes Potential
 {163}{}{Oh, okay. Danke, John. Wiedersehen.}
 {164}{}{John Sullivan hat Dir geholfen Deine Nahkampf-Fähigkeiten und Kampf-Fertigkeiten zu
  verbessern.}
-

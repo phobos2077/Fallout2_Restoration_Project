@@ -3,7 +3,7 @@
 {102}{}{Los, du hast doch sicher was zu tun.}
 {103}{}{Wird Zeit, daß du verschwindest.}
 {104}{}{Mir paßt deine Visage nicht.}
-{105}{}{Kümmer dich um deinen eigenen Mist.}
+{105}{}{Paß bloß auf.}
 {106}{}{Hallo Bürger.}
 {107}{}{Sei gegrüßt, Bürger.}
 {108}{}{Viel zu tun, Bürger?}
@@ -12,10 +12,7 @@
 {111}{}{Geh deinen Geschäften nach, Außenweltler.}
 {112}{}{Kein Herumlungern.}
 {113}{}{Rede mit Wallace, wenn Du in die Stadt willst.}
-
-# Begin Seraph's Code
-{114}{}{Keine besonderen Vorkomnisse, Hauptmann.}
-{115}{}{Beobachte weiter was passiert, Hauptmann.}
-{116}{}{Vault City wird siegen, Hauptmann.}
+{114}{}{Keine besonderen Vorkommnisse, Hauptmann.}
+{115}{}{Ich behalte hier nur alles im Auge, Hauptmann.}
+{116}{}{Vault City wird bestehen, Hauptmann.}
 {117}{}{Guten Tag, Hauptmann.}
-# End Seraph's Code

@@ -1,4 +1,4 @@
-{100}{}{Du siehst eine illegale Siedlerin.}
+{100}{}{Du siehst einen illegalen Siedler.}
 {101}{}{Du siehst Roberta, die Siedlerin.}
 {102}{}{Du siehst eine Frau mittleren Alters mit abgetragenen Kleidern.}
 {103}{}{Oh. Tut mir leid, aber ich hab dir nichts zu sagen. Bitte geh'.}

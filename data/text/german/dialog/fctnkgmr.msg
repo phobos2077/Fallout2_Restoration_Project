@@ -8,7 +8,7 @@
 {107}{}{Nein, ich gehen.}
 {108}{}{Ich brauche einige Informationen.}
 {109}{}{Klar, zeig mir was du hast.}
-{110}{}{Schon gut.}
+{110}{}{Macht nichts.}
 {111}{}{Ich verkaufe keine Informationen. Ich handle mit Waffen. Möchtest du einen Blick auf
  meine Ware werfen?}
 {112}{}{Ja.}

@@ -11,7 +11,7 @@
 {110}{}{Toi prisonnier ?}
 {111}{}{Moi partir maintenant.}
 {112}{}{Qui es-tu ?}
-{113}{}{Es-tu prisonnier ici ?}
+{113}{}{Es-tu retenu prisonnier ici ?}
 {114}{}{Je m'en vais.}
 {115}{}{Je m'appelle Matt. C'est important ?}
 {116}{}{Moi pas penser.}
@@ -24,7 +24,7 @@
 {123}{}{Moi partir d'ici.}
 {124}{}{Pourquoi ?}
 {125}{}{Je vois.}
-{126}{}{Je dois m'en aller maintenant.}
+{126}{}{Je m'en vais alors.}
 {127}{}{Parce que, contrairement au reste des moutons qui vivent ici, je les considère comme une menace pour l'humanité. Ils savent que si je pars d'ici je veillerai à ce qu'ils soient éliminés de la surface de la terre ! Ecoute, ils savent prendre des décisions par eux-mêmes, ils peuvent apprendre, ils savent lire et même écrire s'ils trempent une griffe dans de l'encre. Ils sont rapides, résistants, perspicaces et redoutables. Si leur nombre continue à augmenter, ils représenteront la plus grande menace jamais rencontrée par l'espèce humaine. Réfléchis-y. Ils doivent être exterminés !}
 {128}{}{Hum. Moi comprendre.}
 {129}{}{Moi penser toi pas raison.}
@@ -39,7 +39,6 @@
 {138}{}{Oui.}
 {139}{}{Non.}
 {140}{}{On dirait que tu t'es mis dans une sacrée merde !}
-
 {141}{}{Moi pas être ici pour aider toi évader. Moi ici car quelqu'un casser ordinateur ? Toi faire ça ?}
 {142}{}{Je ne suis pas ici pour mettre en place des plans d'évasion. Quelqu'un a saboté l'interface de l'ordinateur central. Tu ne sais rien là-dessus ?}
 {143}{}{On dirait que tu t'es mis dans une sacrée merde !}

@@ -4,4 +4,4 @@
 {103}{}{Naiwnoœæ.}
 {104}{}{Zostaw nas!}
 {105}{}{Nieczysty!}
-{106}{}{OdejdŸ!}
+{106}{}{Wynoœ siê st¹d!}

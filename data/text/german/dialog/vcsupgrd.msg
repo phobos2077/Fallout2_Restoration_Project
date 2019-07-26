@@ -47,7 +47,7 @@
 {142}{}{Er ste-ste-steht da-da drüben. Der sp-sp-sprechende Compuh-puh-pjuter ist es.}
 {143}{}{(Er steht da drüben. Der sprechende Computer ist es.)}
 {144}{}{Was machst du hier?}
-{145}{}{Danke. Mach's gut.}
+{145}{}{Vielen Dank. Auf Wiedersehn.}
 {146}{}{Gib a-a-aber auf die Sachen acht, di-di-die hier gela-la-lagert werden. Sieh z-z-zu, daß
  alle Türen verschlo-schlo-schlossen b-bleiben.}
 {147}{}{(Gib aber auf die Sachen acht, die hier gelagert werden. Sieh zu, daß alle Türen
@@ -79,7 +79,7 @@
  Wahnsinnigwerden.}
 {171}{}{Du hast eine wunderbare Singstimme. Nur immer schön weiterüben.}
 {172}{}{Was machst du hier noch mal?}
-{173}{}{Schon gut. Entschuldige die Störung.}
+{173}{}{Kein Problem. Entschuldige die Störung.}
 {174}{}{Da-da-danke für das Ko-ko-kompliment.}
 {175}{}{Was machst du hier noch mal?}
 {176}{}{Wollte ich dir nur mal gesagt haben. Mach's gut.}

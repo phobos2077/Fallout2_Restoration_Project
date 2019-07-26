@@ -1,4 +1,4 @@
-{100}{}{Widzisz tablicê og³oszeniow¹.}
+{100}{}{Widzisz tablicê og³oszeñ.}
 {101}{}{Widzisz tablicê z wywieszonymi prawami RNK.}
 {102}{}{To typowa tablica og³oszeniowa z kilkoma przypiêtymi kartkami papieru. Najwa¿niejsza z nich to prawa RNK.}
 {103}{}{Witamy w Republice Nowej Kalifornii! Zanim wejdziesz do naszego sprawiedliwego miasta, poœwiêæ chwilê czasu na zapoznanie siê z nastêpuj¹cymi prawami i regulacjami.}
@@ -27,5 +27,4 @@
 {126}{}{Powiedziane nieco bez ogródek, ale to uœwiadamia, o co tu chodzi.}
 {127}{}{(wróæ)}
 {128}{}{Wystarczy ju¿ tego czytania.}
-
 {130}{}{Moja go³wa boleæ. Za du¿o czytaæ.}

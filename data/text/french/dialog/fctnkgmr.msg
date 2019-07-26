@@ -1,14 +1,14 @@
-{100}{}{Tu vois un commerçant.}
+{100}{}{Tu vois un marchand.}
 {101}{}{Tu vois Cal, le marchand d'armes.}
 {102}{}{Tu vois un homme qui semble s'ennuyer mais qui a l'air aimable.}
 {103}{}{Bonjour, mon gars. Que puis-je faire pour toi ?}
 {104}{}{Bonjour, mam'zelle. Que puis-je faire pour toi ?}
 {105}{}{Moi vouloir informations.}
 {106}{}{Quoi toi avoir ?}
-{107}{}{Non, moi partir.}
+{107}{}{Moi partir.}
 {108}{}{J'ai besoin d'informations.}
 {109}{}{Montre-moi ce que tu as.}
-{110}{}{Laisse tomber.}
+{110}{}{Ca ne fait rien.}
 {111}{}{Je ne vends aucune information, juste des armes. Tu veux voir ce que j'ai ?}
 {112}{}{Oui.}
 {113}{}{Non.}

@@ -5,7 +5,6 @@
 {104}{}{By³em kiedyœ wiêŸniem w Zamku Hemoroid.}
 {105}{}{Sir Launcelot mnie uwolni³. Niech go diabli!}
 {106}{}{A mog³em dalej byæ jeñcem. [Poci¹ga nosem]}
-
 {200}{}{Ale, ale! Masz lodowate rêce!}
 {201}{}{To nie nale¿y do ciebie.}
 {202}{}{Hej, to moje rzeczy!}

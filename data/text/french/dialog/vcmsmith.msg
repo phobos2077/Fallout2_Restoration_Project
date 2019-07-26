@@ -2,7 +2,7 @@
 {101}{}{Tu vois Smith.}
 {102}{}{J'crois pas que tu sois du coin. Mon nom, c'est Smith. Puis-je t'aider ?}
 {103}{}{Voulais-tu autre chose ?}
-{104}{}{Peux-tu me parler de la Cité de l'Abri ?}
+{104}{}{Vous pouvez me parler de la Cité de l'Abri ?}
 {105}{}{Que fais-tu dans le coin ?}
 {106}{}{Je recherche l'Abri.}
 {107}{}{Je vais t'aider pour cette charrue.}
@@ -11,7 +11,7 @@
 {110}{}{Um... Waga Nu-kik ?}
 {111}{}{Bon, ce que tu vois là, c'est pas vraiment la Cité de l'Abri... En fait, tu te trouves dans l'entrée de la Cité.}
 {112}{}{Pourquoi n'es-tu pas dans la Cité ?}
-{113}{}{Que fais-tu ici ?}
+{113}{}{Qu'est-ce tu fais ici ?}
 {114}{}{Puis-je te poser une autre question ?}
 {115}{}{Merci. Au revoir.}
 {116}{}{Ma famille et moi exploitons une ferme, ici, dans l'entrée. On s'en sort pas trop mal. Mais je sais pas combien de temps ça va durer.}
@@ -32,7 +32,7 @@
 {131}{}{Puis-je vous aider ?}
 {132}{}{Puis-je te poser une autre question ?}
 {133}{}{Oh, eh bien, je regrette. Au revoir.}
-{134}{}{C'est ça !}
+{134}{}{Certainement.}
 {135}{}{Ben, on est du désert... Comme toi. Alors, tout ce à quoi on a droit, c'est la protection de la Cité de l'Abri.}
 {136}{}{Quel genre de protection ?}
 {137}{}{Puis-je te poser une autre question ?}

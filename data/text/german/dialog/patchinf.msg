@@ -1,2 +1,2 @@
-{100}{}{Es läuft Killap's Fallout 2 Restoration Project Version 2.1.2b. Vielen Dank für die Installation!}
-{101}{}{Es läuft Killap's Fallout 2 Restoration Project Version 2.1.2b. Vielen Dank für die Installation!}
+{100}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u3. Thanks for installing!}
+{101}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u3. Thanks for installing!}

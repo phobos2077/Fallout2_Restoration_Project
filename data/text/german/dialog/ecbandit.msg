@@ -3,7 +3,6 @@
 {102}{}{Du siehst einen R‰uber.}
 {103}{}{Du siehst einen Straﬂenr‰uber.}
 {104}{}{Du siehst einen Gauner.}
-
 {200}{}{Ergib dich!}
 {201}{}{Geld oder Leben.}
 {202}{}{Das ist ein ‹berfall.}
@@ -14,7 +13,6 @@
 {207}{}{Nur keine Panik, das dauert nur eine Minute.}
 {208}{}{Zeig mir mal deine H‰nde.}
 {209}{}{Gebt mir Deckung, Kumpel.}
-
 {210}{}{Macht euch das Leben nicht noch schwerer.}
 {211}{}{Her mit der Beute.}
 {212}{}{Schnappt sie euch, Jungs.}

@@ -1,4 +1,4 @@
-{100}{}{Tu vois un joueur. }
+{100}{}{Tu vois un joueur.}
 {101}{}{Tu vois un joueur qui espère se faire de l'argent.}
 {102}{}{Tu vois une personne très excitée qui joue.}
 {103}{}{Allez, j'ai besoin de nouvelles chaussures.}

@@ -6,7 +6,6 @@
 {104}{}{Das war ein großer Fehler von dir, die Mordinos zu bestehlen. Dafür wirst du bezahlen - mit Zinsen.
  Fürs Erste geh mir einfach nur aus den Augen.}
 {105}{}{Ein Dieb? Das nehm ich dir übel, du undankbares Schwein. Ich gehe. Adieu.}
-{200}{}{Warum rechnen wir nicht gleich ab? Bereite dich auf dein Ende vor, du Schwein.}
 {106}{}{Eines schönen Tages wirst du bedauern, mir über den Weg gelaufen zu sein. Auf Wiedersehen.}
 {107}{}{Diese Karawane war eine Schande. Ich bin nur froh, daß Savinelli nicht überlebt hat. Ich kann nicht glauben, daß du dir einbildest,
  für diesen Reinfall würde ich dich bezahlen. Hau bloß ab.}
@@ -29,3 +28,4 @@
 {121}{}{Savinelli ist tot. Mist, ich kann es noch nicht glauben. Ich bin Velani und ich gebe dir, was wir dir schulden.}
 {122}{}{Äh, danke.}
 {123}{}{Scheiße, ich kann es immernoch nicht glauben dass es Savinelli erwischt hat.}
+{200}{}{Warum rechnen wir nicht gleich ab? Bereite dich auf dein Ende vor, du Schwein.}

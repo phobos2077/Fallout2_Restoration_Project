@@ -19,8 +19,8 @@
 {118}{}{Quelles sont tes relations avec M.Westin ?}
 {119}{}{Moi besoin travail.}
 {120}{}{Juste bavarder.}
-{121}{}{Heu...}
-{122}{}{Tant pis.}
+{121}{}{Euh...}
+{122}{}{Laisse tomber.}
 {123}{}{Je cherche du travail et j'ai entendu dire qu'il embauchait.}
 {124}{}{J'aimerais bavarder avec M.Westin.}
 {125}{}{Tant pis. Je reviendrai plus tard.}
@@ -30,19 +30,15 @@
 {129}{}{M.Westin ne *bavarde* pas avec la première personne qui débarque ici. Si tu ne viens pas pour affaires, je te conseille de partir et de ne revenir que si tu as quelque chose à lui proposer. Maintenant, je te prie de t'en aller.}
 {130}{}{[Terminé]}
 {131}{}{([Soupir.] J'ai entendu dire que M.Westin avait un faible pour les gens comme toi. Entre.}
-{132}{}{Moi merci toi.}
+{132}{}{Moi dire merci toi.}
 {133}{}{Ouais, ouais. Je suis en train de faire quelque chose.}
-{134}{}{Hé, casse-toi de là.}
+{134}{}{Hé, bas les pattes !}
 {135}{}{Faudrait demander avant de jouer avec des trucs qui t'appartiennent pas.}
-
 {136}{}{Re-bonjour. Tu as encore besoin de voir M.Westin ?}
 {137}{}{Oui.}
 {138}{}{Non.}
-
 {139}{}{Moi avoir choses de Cité de l'Abri pour M. Westin.}
 {140}{}{J'ai quelque chose de la Cité de l'Abri pour M. Westin.}
 {141}{}{C'est bon, entre. Mais fais gaffe, j'te surveille.}
 {142}{}{Tu ne peux pas entrer dans le ranch si tu n'as rien d'officiel à y faire.}
-
-# added by killap - RP
 {150}{}{Je suis désolé, il y a eu un incident. Désormais, plus personne n'est autorisé à entrer dans la propriété. Circulez.}

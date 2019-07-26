@@ -1,4 +1,4 @@
-{100}{}{Tu vois un homme à l'air négligé vêtu d'une chemise marron sale. Ses bras sont couverts de plaques rouges qu'il gratte souvent.}
+{100}{}{Tu vois un homme à l'air négligé vêtu d'une chemise marron sale. Ses bras sont couverts de plaques rouges, qu'il gratte souvent.}
 {101}{}{Tu vois le « docteur » Andrew.}
 {102}{}{Tu vois un homme à l'air négligé vêtu d'une chemise marron sale. Ses bras sont couverts de plaques rouges, qu'il gratte souvent.}
 {103}{}{On dirait que tu as fait de mauvaises rencontres, hein ?}
@@ -12,7 +12,7 @@
 {111}{}{Hum, j'ai besoin de me faire enlever une excroissance. Mon sixième orteil.}
 {112}{}{En fait, mon acolyte, là, aurait besoin de quelques soins médicaux.}
 {113}{}{En fait, mes amis, là, auraient besoin de quelques soins médicaux.}
-{114}{}{Quel est cet endroit ?}
+{114}{}{Où suis-je ici ?}
 {115}{}{Euh, c'est quoi, déjà, cet endroit ?}
 {116}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {117}{}{Pas maintenant. Ca a l'air pire que ça n'est.}
@@ -23,12 +23,12 @@
 {122}{}{'fistoleeer ? 'fistoler ! Prendre argeent, répppare fuites.}
 {123}{}{Salut !}
 {124}{}{Pas 'ssez argeent, Salut !}
-{125}{}{Très bien.}
+{125}{}{D'accord.}
 {126}{}{C'est pas donné. Que dirais-tu de }
 {127}{}{ ?}
 {128}{}{C'est pas grave. Pourquoi pas plutôt mon acolyte ?}
 {129}{}{C'est pas grave. Pourquoi pas plutôt mes amis ?}
-{130}{}{Quel est cet endroit ?}
+{130}{}{Où suis-je ici ?}
 {131}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {132}{}{J'ai pas assez. Je reviendrai quand j'aurai plus d'argent.}
 {133}{}{Non, merci. Peut-être une autre fois.}
@@ -40,7 +40,7 @@
 {139}{}{Shaalut.}
 {140}{}{Peux-tu soigner mon acolyte, là ?}
 {141}{}{Peux-tu soigner mes amis, là ?}
-{142}{}{Quel est cet endroit ?}
+{142}{}{Où suis-je ici ?}
 {143}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {144}{}{Je me sens beaucoup mieux, merci.}
 {145}{}{Heu, bon, ce n'est peut-être pas la chose la plus sûre pour toi. Vu la façon dont tu parles, on dirait que tu as déjà fait quelques tours dans le vieux Doc. Mais si tu veux...}
@@ -59,21 +59,21 @@
 {158}{}{Très bien... Vu l'état, ça va coûter }
 {159}{}{ dollars. Si t'as le fric, c'est bon.}
 {160}{}{Evidemment, je garantis rien avec le vieux Doc de la pièce du fond...}
-{161}{}{Très bien.}
+{161}{}{D'accord.}
 {162}{}{C'est pas donné. Que dirais-tu de }
 {163}{}{ ?}
 {164}{}{Tant pis. Et pourquoi pas moi, à la place ?}
-{165}{}{Quel est cet endroit ?}
+{165}{}{Où suis-je ici ?}
 {166}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {167}{}{J'ai pas assez. Je reviendrai quand j'aurai plus d'argent.}
 {168}{}{J'ai changé d'avis. Peut-être une autre fois.}
 {169}{}{Bon, alors, écoute... }
 {170}{}{ dollars pour vous tous, et on dira qu'on est quittes. Qu'en dis-tu ?}
-{171}{}{Très bien.}
+{171}{}{D'accord.}
 {172}{}{Je ne sais pas. C'est pas donné. Que dirais-tu de }
 {173}{}{ dollars ?}
 {174}{}{Peux-tu simplement me soigner moi, à la place ?}
-{175}{}{Quel est cet endroit ?}
+{175}{}{Où suis-je ici ?}
 {176}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {177}{}{J'ai pas assez. Je reviendrai quand j'aurai plus d'argent.}
 {178}{}{J'ai changé d'avis. Peut-être une autre fois.}
@@ -107,7 +107,7 @@
 {206}{}{Hum, j'ai besoin de me faire enlever une excroissance. Mon sixième orteil.}
 {207}{}{Mon acolyte, là, a besoin de soins médicaux.}
 {208}{}{Mes amis, là, ont besoin de soins médicaux.}
-{209}{}{Quel est cet endroit ?}
+{209}{}{Où suis-je ici ?}
 {210}{}{C'est quoi, déjà, cet endroit ?}
 {211}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {212}{}{C'est tout pour aujourd'hui, en fait.}
@@ -142,17 +142,17 @@
 {241}{}{Bon, alors il te faut d'abord la greffe dermique de base.}
 {242}{}{D'accord, ça suppose quoi ?}
 {243}{}{Parle-moi des autres implants.}
-{244}{}{Tant pis. J'avais deux ou trois autres questions.}
+{244}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {245}{}{Je vois. Peut-être une autre fois.}
 {246}{}{Bon, il va me falloir une autre armure de combat complète pour récupérer les plaques d'assaut supplémentaires. Ce qu'il y a de bien, c'est que les plaques vont doubler la résistance des greffes d'origine, par conséquent, elles vont absorber 10% du choc. Sauf que...}
 {247}{}{Oui ?}
 {248}{}{Parle-moi des autres implants.}
-{249}{}{Tant pis. J'avais deux ou trois autres questions.}
+{249}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {250}{}{Je vois. Peut-être une autre fois.}
 {251}{}{Ca va prendre un petit bout de temps, quelques jours au moins, et encore, si le vieux Doc fait pas tout foirer. Et c'est pas donné. A mon avis, faut compter $40 000. En plus... Ben, ça va pas t'arranger le portrait.}
 {252}{}{A quoi vais-je ressembler, après ça ?}
 {253}{}{Parle-moi des autres implants.}
-{254}{}{Tant pis. J'avais deux ou trois autres questions.}
+{254}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {255}{}{Je vois. Peut-être une autre fois.}
 {256}{}{Ben, toutes les courbes que tu as, là, ça va devenir des angles droits, c'est à peu près tout ce que je peux dire.}
 {257}{}{Tu auras l'air d'un bloc quand j'aurai fini.}
@@ -160,7 +160,7 @@
 {259}{}{Oh, et puis merde. Voilà le pognon et l'armure de combat.}
 {260}{}{Je sais pas. $40 000, c'est plutôt cher. Mais si tu veux, j'ai $30 000 sur moi.}
 {261}{}{Parle-moi des autres implants.}
-{262}{}{Tant pis. J'avais deux ou trois autres questions.}
+{262}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {263}{}{Je reviendrai quand j'aurai plus d'argent.}
 {264}{}{Je reviendrai quand j'aurai une armure de combat.}
 {265}{}{Je vois. Peut-être une autre fois.}
@@ -168,7 +168,7 @@
 {267}{}{C'est bon. Voilà l'armure et le fric.}
 {268}{}{$10 000, c'est un peu au-dessus de mes moyens. Que dis-tu de $8 000 ?}
 {269}{}{Parle-moi des autres implants.}
-{270}{}{Tant pis. J'avais deux ou trois autres questions.}
+{270}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {271}{}{Je reviendrai quand j'aurai plus d'argent.}
 {272}{}{Je reviendrai quand j'aurai une armure de combat.}
 {273}{}{Je vois. Peut-être une autre fois.}
@@ -176,12 +176,12 @@
 {275}{}{Bon, alors, il va d'abord falloir faire l'implant Phoenix de base.}
 {276}{}{D'accord, ça suppose quoi ?}
 {277}{}{Parle-moi des autres implants.}
-{278}{}{Tant pis. J'avais deux ou trois autres questions.}
+{278}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {279}{}{Je vois. Peut-être une autre fois.}
 {280}{}{Ben, il va falloir que je récupère des dissipateurs thermiques sur une autre armure de combat. Ce qu'il y a de bien, c'est que les dissipateurs vont doubler la résistance thermique et absorber 10% de la morsure. Mais...}
 {281}{}{Oui ?}
 {282}{}{Parle-moi des autres implants.}
-{283}{}{Tant pis. J'avais deux ou trois autres questions.}
+{283}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {284}{}{Je vois. Peut-être une autre fois.}
 {285}{}{Ta peau va se couvrir de cloques. Partout. Tu vas un peu ressembler à ce papier d'emballage plein de bulles qu'il y avait avant la guerre, tu sais, alors t'attends pas à faire des ravages, après ça. Et ça va te coûter un max. $50 000. D'avance.}
 {286}{}{Qu'est-ce que ça peut faire après tout... Voilà le fric... et une autre armure de combat.}
@@ -191,7 +191,7 @@
 {290}{}{Je reviendrai quand j'aurai plus d'argent.}
 {291}{}{Je reviendrai quand j'aurai une autre Armure de combat.}
 {292}{}{Je vois. Peut-être une autre fois.}
-{293}{}{Bon... Ca semble honnête.}
+{293}{}{Bon... ça semble honnête.}
 {294}{}{Très bien, alors je vais te verrouiller dans le vieux Doc, là... J'espère que le réservoir d'anesthésiant va pas encore se boucher... Tu ferais peut-être mieux de mordre ce bout de cuir de Brahmine... à tout hasard.}
 {295}{}{Heu... D'accord. Je veux dire, l'Auto-Doc est régulièrement révisé, hein ? Heuh-heuh. Ca pourrait vraiment mal tourner ?}
 {296}{}{Tu sais quoi ? On laisse tomber. J'ai pas envie de courir le risque que le « vieux Doc » soit pas à la hauteur.}
@@ -227,7 +227,7 @@
 {326}{}{Ben, je peux essayer. Evidemment, j'garantis rien avec le vieux Doc dans la pièce du fond. Ca va te coûter... Et j'peux pas dire si l'opération marchera. Ca risque de repousser.}
 {327}{}{Ca m'est égal. Je veux m'en débarrasser avant qu'il ne devienne aussi gros que moi.}
 {328}{}{Bon, c'est pas grave. J'avais encore une ou deux questions...}
-{329}{}{Bon, alors laisse tomber. Peut-être que j'reviendrai.}
+{329}{}{Bon, alors laisse tomber. Je reviendrai peut-être.}
 {330}{}{Hum. Cinq cents, et ça marche. Je n'ai pas le droit de pratiquer des amputations avec l'Auto-Doc, et si on découvre ça, moi j'ai plus de boulot.}
 {331}{}{Très bien. Cinq cents. Et maintenant, enlève-moi cette saloperie.}
 {332}{}{C'est un peu chérot. Que dis-tu de $300 ?}
@@ -248,8 +248,6 @@
 {347}{}{ dollars pour vous tous, et on dira qu'on est quittes. Mais la procédure ne marchera pas sur ton pote au cerveau artificiel. Qu'en dis-tu ?}
 {348}{}{Cool ! J'ai toujours voulu ressembler à Kryten ! Voilà le fric et l'armure de combat.}
 {349}{}{Très bien. On y va.}
-# Added by Seraph
 {350}{}{Tu as perdu -4 PI maximum.}
-# Added by killap :
 {351}{}{Ouahh ? Moi pas sentir bien encore. Moi aller dormir.}
 {352}{}{Ugh... Ok. Salut}

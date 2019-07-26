@@ -12,9 +12,7 @@
 {111}{}{Zajmij siê swoimi sprawami, cudzoziemcze.}
 {112}{}{Nie zatrzymywaæ siê.}
 {113}{}{Je¿eli chcesz dostaæ siê do Kryptopolis, porozmawiaj z Wallacem.}
-# Begin Seraph's Code
 {114}{}{Nic siê nie dzieje, Kapitanie.}
 {115}{}{Mam tutaj na wszystko oko, Kapitanie.}
 {116}{}{Kryptopolis ponad wszystkim, Kapitanie.}
 {117}{}{Mi³ego dnia, Kapitanie.}
-# End Seraph's Code

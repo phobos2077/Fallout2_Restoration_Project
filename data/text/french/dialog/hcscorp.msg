@@ -16,4 +16,3 @@
 {115}{}{<Clic clac>}
 {116}{}{::Aiguisé::}
 {117}{}{De plus près, ce radscorpion semble porter des montures de lunettes en fer. En fait, il a l'air intelligent et pas menaçant.}
-

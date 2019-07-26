@@ -1,14 +1,5 @@
-#
-# Messages for Prototypes
-#
-# strings
-#
 {10}{}{<Aucun>}
-
-#
-# Material Types
-#
-{100}{}{Verre}
+{100}{}{Vitre}
 {101}{}{Métal}
 {102}{}{Plastique}
 {103}{}{Bois}
@@ -16,10 +7,6 @@
 {105}{}{Pierre}
 {106}{}{Ciment}
 {107}{}{Cuir}
-
-#
-# Item Types
-#
 {150}{}{Armure}
 {151}{}{Conteneur}
 {152}{}{Stimulants}
@@ -27,20 +14,12 @@
 {154}{}{Munitions}
 {155}{}{Divers}
 {156}{}{Clé}
-
-#
-#Scenery Types
-#
 {200}{}{Portail}
-{201}{}{Escaliers}
+{201}{}{Marches d'escalier}
 {202}{}{Ascenseur}
 {203}{}{Base de l'échelle}
 {204}{}{Sommet de l'échelle}
 {205}{}{Paysage ordinaire}
-
-#
-#Damage Code Types
-#
 {250}{}{normal_dam}
 {251}{}{laser}
 {252}{}{feu}
@@ -48,11 +27,7 @@
 {254}{}{électrique}
 {255}{}{emp}
 {256}{}{explosion}
-
-#
-# Caliber Types for weapons
-#
-{300}{}{Aucun}
+{300}{}{Aucune préférence.}
 {301}{}{Roquette}
 {302}{}{Combustible pour lance-flammes}
 {303}{}{Cellule énergétique C}
@@ -71,29 +46,17 @@
 {316}{}{4,7 mm, sans douille}
 {317}{}{Needler HN}
 {318}{}{7,62 mm}
-
-#
-# Race Types
-#
 {350}{}{Caucasien}
 {351}{}{Africain}
-
-#
-# Body Types
-#
 {400}{}{Bipède}
 {401}{}{Quadrupède}
 {402}{}{Robotique}
-#
-# Kill Types names
-#
-# Note: These were moved to 1450+ to handle new ones!
 {450}{}{Homme(s)}
 {451}{}{Femme(s)}
 {452}{}{Enfant(s)}
-{453}{}{Super Mutant(s}
+{453}{}{Super mutants}
 {454}{}{Goule(s)}
-{455}{}{Brahmine(s)}
+{455}{}{Brahmine}
 {456}{}{Radscorpion(s)}
 {457}{}{Rat(s)}
 {458}{}{Flotteur(s)}
@@ -102,11 +65,7 @@
 {461}{}{Chien(s)}
 {462}{}{Mante(s)}
 {463}{}{Griffemort(s)}
-{464}{}{Plante(s)}
-#{465}{}{}
-#
-# Kill type info descriptions
-#
+{464}{}{Plante}
 {465}{}{Cette ligne indique le nombre d'hommes humains que tu as tués au cours de tes aventures.}
 {466}{}{Cette ligne indique le nombre de femmes humaines que tu as tuées au cours de tes aventures.}
 {467}{}{Cette ligne indique le nombre d'enfants humains que tu as tués au cours de tes aventures. Ordure !}
@@ -122,41 +81,21 @@
 {477}{}{Cette ligne indique le nombre total de mantes ou de gros insectes de la famille des mantes que tu as écrasés jusqu'ici.}
 {478}{}{Cette ligne indique le nombre total de Griffemorts de tout âge que tu as exterminés.}
 {479}{}{Cette ligne indique le nombre de plantes que tu as arrachées à ce monde.}
-
-#
-# Use text
-#
 {480}{}{Tu vois : %s.}
-
-#
-# Use Container text
-#
 {485}{}{Tu explores : %s.}
 {486}{}{Tu fermes : %s.}
-{487}{}{C'est verrouillé.} #new
-
-#
-#Look text
-#
+{487}{}{C'est verrouillé.}
 {490}{}{Tu vois : %s.}
 {491}{}{Tu vois un cadavre : %s.}
 {492}{}{Tu vois les restes de : %s.}
-{493}{}{Tu ne vois rien d'inhabituel.}
-
-#
-#Examine text
-#
+{493}{}{Tu ne vois rien de particulier.}
 {500}{}{sans vie}
 {501}{}{d'être à l'agonie}
 {502}{}{grièvement blessé}
 {503}{}{mal en point}
 {504}{}{indemne}
-
-#
-# Examine text messages
-#
 {510}{}{Mod. CA : %d}
-{511}{}{Mod. RD : %d}
+{511}{}{DT Mod: %d}
 {512}{}{Mod. Dégâts : %d/%d}
 {518}{}{Tu as l'air %s }
 {519}{}{%s %s }
@@ -165,15 +104,12 @@
 {522}{}{Il a l'air %s }
 {523}{}{Elle a l'air %s }
 {524}{}{L'adversaire a l'air %s }
-#(note:  hps are short for hit-points)
 {525}{}{%s a %d/%d PI.}
-#(note: this is for guns that have ammo)
 {526}{}{Capacité : %d/%d coup(s) de %s.}
-{530}{}{et a les membres estropiés.}#These append to lines 500-504
+{530}{}{et a les membres estropiés.}
 {531}{}{mais a les membres estropiés.}
 {532}{}{et ont les membres estropiés.}
 {533}{}{mais ont les membres estropiés.}
-#(note: hps are short for hit-points)
 {535}{}{Il a %d/%d PI }
 {536}{}{Elle a %d/%d PI }
 {537}{}{PI : %d/%d }
@@ -185,22 +121,14 @@
 {547}{}{et manie : %s avec %d/%d coups de %s.}
 {548}{}{La voiture n'a pas l'air de fonctionner pour l'instant.}
 {549}{}{La voiture roule à une puissance de %d%%.}
-
-#
-# Examine text error messages
-#
 {550}{}{\nErreur : lookup_val hors limite !}
 {551}{}{\nErreur : obj_examine : Echec de proto_ptr !}
-
-#
-# Use text messages
-#
 {580}{}{Utilisation de : %s.}
 {581}{}{Utilisation de : %s sur %s.}
-{582}{}{Aucun effet.}
+{582}{}{Cela ne fait rien.}
 {583}{}{Avec consternation, tu constates que la mort a déjà fait son oeuvre.}
 {584}{}{En t'approchant, tu te rends compte que la mort a déjà fait son oeuvre.}
-{585}{}{Hélas, tu arrives trop tard.} # This is relating to a critter being dead.
+{585}{}{Hélas, tu arrives trop tard.}
 {586}{}{Ca ne marche pas sur les morts.}
 {587}{}{Tu allumes la fusée éclairante.}
 {588}{}{La fusée éclairante est allumée.}
@@ -209,47 +137,32 @@
 {595}{}{Tu recharges la voiture.}
 {596}{}{La voiture a déjà fait le plein d'énergie.}
 {597}{}{L'entrée semble être bloquée.}
-
-#
-# Experience-Point messages
-#
 {620}{}{Tu gagnes %d points d'expérience pour avoir tué : %s.}
-{621}{}{%s, tu gagnes %d points d'exp.}
-{622}{}{Pour avoir tenu tes ennemis en échec} # 622-626 prepend to line 621
+{621}{}{%s you earn %d experience points.}
+{622}{}{Pour avoir tenu tes ennemis en échec}
 {623}{}{Pour avoir décimé tes adversaires}
-{624}{}{Tu es le vainqueur du combat}
+{624}{}{You are victorious in combat,}
 {625}{}{Pour avoir écrasé tes ennemis}
 {626}{}{Pour avoir anéanti tes ennemis sans une égratignure}
-
-#
-#Dialog messages
-#
 {650}{}{[Terminé]}
-{651}{}{[Suite]}
+{651}{}{[More]}
 {652}{}{Suite}
-{653}{}{[Retour]}
-{654}{}{Retour}#changed number from 653
-{655}{}{Continuer}#new
-{656}{}{Err...}#new
+{653}{}{[Back]}
+{654}{}{Retour}
+{655}{}{Continue}
+{656}{}{Err...}
 {660}{}{Impossible de voir par là.}
 {661}{}{Trop loin.}
-{670}{}{Ok.}    # F2: Used in PM: CombatAI settings
-{671}{}{Sûr.}    # F2: Used in PM: CombatAI settings
-{672}{}{Comme tu veux.}       # F2: Used in PM: CombatAI settings
-{673}{}{Tout ce que tu voudras.}  # F2: Used in PM: CombatAI settings
-{674}{}{Je vais essayer.}          # F2: Used in PM: CombatAI settings
-{675}{}{Je ne peux pas faire ça.}   # F2: Used in PM: CombatAI settings
-{676}{}{Je ne pense pas pouvoir faire ça.}   # F2: Used in PM: CombatAI settings
-{677}{}{Arf !}   # F2: Used in PM: CombatAI settings -- RoboDog
-{678}{}{Ouah !}  # F2: Used in PM: CombatAI settings -- RoboDog
-
-#
-# Not Enough AP message
-#
+{670}{}{Ok.}
+{671}{}{Certainement.}
+{672}{}{Comme tu veux.}
+{673}{}{Comme tu dis.}
+{674}{}{Je vais essayer.}
+{675}{}{Je ne peux pas faire ça.}
+{676}{}{Je ne pense pas pouvoir faire ça.}
+{677}{}{Ouaf !}
+{678}{}{Ouaf !}
 {700}{}{Tu n'as pas assez de points d'action.}
-#
-#Book messages
-#
 {800}{}{Tu lis le livre.}
 {801}{}{Tu n'apprends rien de nouveau.}
 {802}{}{Tu apprends de nouvelles informations scientifiques.}
@@ -257,9 +170,6 @@
 {804}{}{Tu apprends de nouvelles méthodes de soins.}
 {805}{}{Tu apprends comment mieux manier tes fusils.}
 {806}{}{Tu apprends beaucoup sur les techniques de survie en milieu naturel.}
-#
-#Use on messages (and some extra stuff that Jesse needed)
-#
 {900}{}{La trousse de médecin est presque vide.}
 {901}{}{La trousse de secours est presque vide.}
 {902}{}{Impossible en situation de combat.}
@@ -269,17 +179,12 @@
 {910}{}{Les fournitures de la trousse du technicien médical s'épuisent.}
 {911}{}{Les produits de la trousse de secours du médecin sur le terrain s'épuisent.}
 {913}{}{Cette créature ne peut rien transporter.}
-
-
-#
-# Kill Types names
-#
 {1450}{}{Homme(s)}
 {1451}{}{Femme(s)}
 {1452}{}{Enfant(s)}
 {1453}{}{Super Mutant(s)}
 {1454}{}{Goule(s)}
-{1455}{}{Brahmine(s)}
+{1455}{}{Brahmine}
 {1456}{}{Radscorpion(s)}
 {1457}{}{Rat(s)}
 {1458}{}{Flotteur(s)}
@@ -293,9 +198,6 @@
 {1466}{}{Alien(s)}
 {1467}{}{Fourmi(s) géante(s)}
 {1468}{}{Grand(s) Méchant(s) Patron(s)}
-#
-# Kill type info descriptions
-#
 {1469}{}{Cette ligne indique le nombre d'hommes humains que tu as tués au cours de tes aventures.}
 {1470}{}{Cette ligne indique le nombre de femmes humaines que tu as tuées au cours de tes aventures.}
 {1471}{}{Cette ligne indique le nombre d'enfants humains que tu as tués au cours de tes aventures. Ordure !}

@@ -1,4 +1,3 @@
-# Brok Encounter Table
 {100}{}{Spotykasz rzezimieszków i wilki.}
 {101}{}{Spotykasz rzezimieszków.}
 {102}{}{Spotykasz wilki.}
@@ -7,8 +6,6 @@
 {105}{}{Spotykasz Patrol Jednoœci walcz¹cy z rzezimieszkami.}
 {106}{}{Spotykasz Patrol Jednoœci walcz¹cy z wilkami.}
 {107}{}{Spotykasz Patrol Jednoœci.}
-
-# VPat Encounter Table
 {150}{}{Spotykasz ³owców niewolników z psami.}
 {151}{}{Spotykasz ³owców niewolników.}
 {152}{}{Spotykasz z³ociste gekony.}
@@ -19,8 +16,6 @@
 {157}{}{Spotykasz patrol walcz¹cy ze z³ocistymi gekonami.}
 {158}{}{Spotykasz patrol walcz¹cy z dzikimi psami.}
 {159}{}{Spotykasz patrol.}
-
-# RDRC Encounter Table
 {200}{}{Wpadasz w zasadzkê najeŸdŸców.}
 {201}{}{Spotykasz wilki.}
 {202}{}{Spotykasz karawanê napadniêt¹ przez najeŸdŸców.}
@@ -31,8 +26,6 @@
 {207}{}{Spotykasz karawanê.}
 {208}{}{Spotykasz karawanê.}
 {209}{}{Spotykasz karawanê.}
-
-# VNNB Encounter Table
 {250}{}{Spotykasz maruderów.}
 {251}{}{Spotykasz wilki.}
 {252}{}{Spotykasz skorpiony.}
@@ -45,8 +38,6 @@
 {259}{}{Spotykasz karawanê.}
 {260}{}{Spotykasz karawanê.}
 {261}{}{Spotykasz wêdrowca.}
-
-# NCR Encounter Table
 {300}{}{Spotykasz pozosta³oœci armii Mistrza.}
 {301}{}{Spotykasz maruderów.}
 {302}{}{Spotykasz Stra¿ników RNK walcz¹cych z pozosta³oœciami armii Mistrza.}
@@ -55,8 +46,6 @@
 {305}{}{Spotykasz famerów napadniêtych przez maruderów.}
 {306}{}{Spotykasz Stra¿ników RNK.}
 {307}{}{Spotykasz farmerów.}
-
-# DNRV Encounter Table
 {350}{}{Spotykasz karawanê ³owców niewolników.}
 {351}{}{Spotykasz piratów drogowych i bandytów.}
 {352}{}{Spotykasz piratów drogowych.}
@@ -69,8 +58,6 @@
 {359}{}{Spotykasz rozbójników walcz¹cych z bandytami.}
 {360}{}{Spotykasz karawanê.}
 {361}{}{Spotykasz karawanê.}
-
-# DMRV Encounter Table
 {400}{}{Spotykasz piratów drogowych.}
 {401}{}{Spotykasz bandytów.}
 {402}{}{Spotykasz bandytów i piratów drogowych.}
@@ -85,8 +72,6 @@
 {411}{}{Spotykasz karawanê napadniêt¹ przez skorpiony.}
 {412}{}{Spotykasz gekony walcz¹ce ze skorpionami.}
 {413}{}{Spotykasz karawanê.}
-
-# Band Encounter Table
 {450}{}{Spotykasz piratów drogowych i bandytów.}
 {451}{}{Spotykasz piratów drogowych i gekony.}
 {452}{}{Spotykasz z³ociste gekony.}
@@ -97,8 +82,6 @@
 {457}{}{Spotykasz karawanê napadniêt¹ przez bandytów.}
 {458}{}{Spotykasz kilku piratów drogowych plewi¹cych drapie¿ne roœliny.}
 {459}{}{Spotykasz karawanê.}
-
-# DVMV Encounter Table
 {500}{}{Spotykasz piratów drogowych i dzikie psy.}
 {501}{}{Spotykasz bandytów i dzikie psy.}
 {502}{}{Spotykasz bandytów.}
@@ -112,8 +95,6 @@
 {510}{}{Spotykasz karawanê napadniêt¹ przez bandytów.}
 {511}{}{Spotykasz karawanê napadniêt¹ przez piratów drogowych.}
 {512}{}{Spotykasz karawanê.}
-
-# Red Encounter Table
 {550}{}{Spotykasz gekony i wilki.}
 {551}{}{Spotykasz rabusiów.}
 {552}{}{Spotykasz wilki.}
@@ -126,20 +107,16 @@
 {559}{}{Spotykasz trepów.}
 {560}{}{Spotykasz traperów.}
 {561}{}{Spotykasz poszukiwaczy z³ota.}
-
-# SRNRRN Encounter Table
 {600}{}{Spotykasz szpony œmierci.}
 {601}{}{Spotykasz ogniste gekony.}
 {602}{}{Spotykasz karawanê uciekaj¹c¹ przed szponami œmierci.}
 {603}{}{Spotykasz karawanê walcz¹c¹ ze szponami œmierci.}
-{604}{}{Spotykasz karawanê walcz¹c¹ z ognistymi gekonami.}
+{604}{}{Spotykasz karawanê walcz¹cy z ognistymi gekonami.}
 {605}{}{Spotykasz karawanê walcz¹cy z ognistymi gekonami.}
 {606}{}{Spotykasz karawanê.}
 {607}{}{Spotykasz karawanê.}
 {608}{}{Spotykasz karawanê.}
 {609}{}{Spotykasz karawanê.}
-
-# EPA Encounter Table
 {650}{}{Spotykasz obcych i szpony œmierci.}
 {651}{}{Spotykasz centaury i wisielce.}
 {652}{}{Spotykasz ogniste gekony.}
@@ -149,8 +126,6 @@
 {656}{}{Spotykasz obcych.}
 {657}{}{Spotykasz centaury.}
 {658}{}{Spotykasz wisielce.}
-
-# New Encounter Table
 {700}{}{Spotykasz kilku cz³onków Yakuzy.}
 {701}{}{Spotykasz gang.}
 {702}{}{Spotykasz kilka wilków.}
@@ -158,8 +133,6 @@
 {704}{}{Spotykasz kilku gangsterów walcz¹cych z pomniejszym gangiem.}
 {705}{}{Spotykasz kilku gangsterów.}
 {706}{}{Spotykasz wêdrowca.}
-
-# NRNR Encounter Table
 {750}{}{Spotykasz karawanê napadniêt¹ przez pozosta³oœci armii Mistrza.}
 {751}{}{Spotykasz karawanê walcz¹c¹ z pozosta³oœciami armii Mistrza.}
 {752}{}{Spotykasz karawanê walcz¹c¹ ze szponami œmierci.}

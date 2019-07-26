@@ -14,6 +14,5 @@
 {113}{}{::Marmonnements::}
 {114}{}{Vous voyez pas que je bois là ? <Hic>}
 {115}{}{Me dérangez pas. <Hic>}
-
 {116}{}{En fait il est un peu moins de 11 heures, mais ce n'est pas le plus important pour le moment. Sérieusement, savez-vous où est votre enfant ?}
 {117}{}{En fait il est un peu plus de 11 heures, mais ce n'est pas le plus important pour le moment. Sérieusement, savez-vous où est votre enfant ?}

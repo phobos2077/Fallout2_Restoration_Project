@@ -1,7 +1,6 @@
 {100}{}{Ein gutaussehender junger Mann.}
 {101}{}{Du siehst Davin.}
 {102}{}{Ein junger Mann um die Zwanzig. Er sieht Grisham sehr ähnlich.}
-
 {150}{}{Hättest du gefragt, hättest du mich haben können.}
 {151}{}{Hmpf! So gut ist Miria auch wieder nicht im Bett.}
 {152}{}{Ich glaub nicht, daß du mich verkuppelt hast.}
@@ -14,13 +13,13 @@
 {159}{}{Was machst du im Schlachthaus?}
 {160}{}{Ich höre Gerüchte über dich und die Brahmin.}
 {161}{}{Erzähl mir von deinem Vater.}
-{162}{}{Hallo noch mal.}
+{162}{}{Hallo.}
 {163}{}{Ich hab gewußt, daß du zu mir zurückkommst.}
 {168}{}{Warum machen wir's uns nicht gemütlicher?}
 {171}{}{Bleib hier.}
 {172}{}{Klar, ich hab Zeit. Leg los.}
 {178}{}{Nö, hab ich nirgends gesehen.}
-{179}{}{Darf ich noch ein paar Fragen stellen?}
+{179}{}{Kann ich dir noch ein paar Fragen stellen?}
 {180}{}{Also, ich äh... ich meine, ich... ich paß auf und kümmer mich und so. Ich bin ja der Sohn vom Besitzer. Ich erb den Laden ja mal, wenn mein Papa ins Gras beißt.}
 {182}{}{Gelogen. Nachts geh ich nur in den Stall, um... nachzusehen, ob alles verriegelt ist. Weißt schon, mit den wilden Tieren hier und so.}
 {184}{}{Papa leitet das Schlachthaus. Als Vater ist er OK. Ein Tip, wenn du Geschäfte mit ihm machst. An seinen Geschäften ist normalerweise mehr dran, als er zugibt.}
@@ -31,7 +30,8 @@
 {190}{}{Hör auf zu reden, du machst es für uns beide kaputt. Lehn dich zurück und genieß.}
 {191}{}{Das muß ein Irrtum sein, ich wollte dir nur ein paar Fragen stellen.}
 {192}{}{Danke für das Angebot, aber nein. Ähhh ... Ich geh jetzt.}
-{193}{}{Oh Gott! Nimm mich! Nimm mich jetzt! [Er reißt sich die Kleider vom Leib, dann dir... dann ... Laß deine Phantasie spielen]}
+{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
+ imagination.]}
 {194}{}{[Er kichert] Ich lieg oben! Du darfst das nächste Mal.}
 {195}{}{[Zwei Stunden später. Es war unglaublich. Dieses Bett wird nie wieder das selbe sein.]}
 {196}{}{[Eine Stunde und den besten je erlebten Orgasmus später.]}
@@ -39,34 +39,18 @@
 {198}{}{[15 Minuten und einige Grunzer später.]}
 {199}{}{[Du schaffst es noch, das Hemd auszuziehen, dann spürst du kein Bedürfnis mehr.]}
 {200}{}{Ich muß gehen. Tschau.}
-
-# wedding script dialog
 {400}{}{Papa!}
 {401}{}{Oh-oh!}
-{402}{}{Aber natürlich!}
-# Seraph's Code: Uncle Biff
+{402}{}{Darauf kannst du wetten!}
 {405}{}{Onkel Biff!}
-
 {410}{}{Ähh...}
 {411}{}{Ähhh... Weiter bitte...}
-{412}{}{Aber klar...}
-{413}{}{Äh... Ja.}
-
+{412}{}{Und wie...}
+{413}{}{Ähm... Ja.}
 {450}{}{Ähhh, da bist du bei mir an der falschen Adresse.}
-
 {500}{}{Au Mann, bald hab ich hier das Sagen.}
-
 {1000}{}{Ja, mein Liebling.}
 {1001}{}{Was kann ich für dich tun, Liebster?}
-{1100}{}{Ich bin vollständig geheilt und aufbruchbereit.}
-{1200}{}{Ich hab kaum noch einen Kratzer.}
-{1300}{}{Ich bin so gut wie geheilt, aber ich könnte noch 'n bißchen Heilung brauchen, wenn wir dazu kommen.}
-{1400}{}{Ich hab mich so gut wie möglich selber geheilt, aber ich bin noch in ziemlich schlechter Verfassung.}
-{1500}{}{Nein, Baby, ich will mitkommen.}
-{1600}{}{Klar, ich tu's weg.}
-{1700}{}{OK, ich bin immer direkt hinter dir.}
-{1800}{}{Dann kann ich dich aber nicht beschützen. Ich bleibe lieber nah bei dir.}
-{1900}{}{Ach ja? Nie im Leben! Ich laß dich nicht aus den Augen, du Sexbombe.}
 {1005}{}{Du verstehst mich nicht. Ich will nicht, daß du mir ständig auf der Pelle hängst, wenn wir unterwegs sind.}
 {1006}{}{Du machst das falsch, du mußt weiter hinten gehen.}
 {1007}{}{Aber... Aber... Was hab ich denn falsch gemacht?}
@@ -74,8 +58,15 @@
 {1009}{}{Danke, wurde sowieso allmählich zuviel. Also was jetzt, Schätzchen?}
 {1010}{}{Ich hab früher die Brahmin im Schlachthaus gehäutet, deswegen bin ich ganz fix mit dem Messer. Außerdem mußte ich für Dad mal ein Brahmin mit der Brechstange totschlagen. Ich könnte mit einem Knüppel schon umgehen, wenn's sein muß. Ähhh, ach ja, Dad hat mich auch einmal mit einer Pistole schießen lassen, aber da hab ich mich so sehr erschrocken, daß ich ihn fast erschossen hätte.}
 {1020}{}{Ich brauch ein bißchen Platz, Davin.}
-
-#added by killap - NPC info
+{1100}{}{Ich bin völlig geheilt und aufbruchbereit.}
+{1200}{}{Ich hab kaum noch einen Kratzer.}
+{1300}{}{Ich bin so gut wie geheilt, aber ich könnte noch 'n bißchen Heilung brauchen, wenn wir dazu kommen.}
+{1400}{}{Ich hab mich so gut wie möglich selber geheilt, aber ich bin noch in ziemlich schlechter Verfassung.}
+{1500}{}{Nein, Baby, ich will mitkommen.}
+{1600}{}{Klare Sache, ich tu's weg.}
+{1700}{}{OK, ich bin immer direkt hinter dir.}
+{1800}{}{Dann kann ich dich aber nicht beschützen. Ich bleibe lieber nah bei dir.}
+{1900}{}{Ach ja? Nie im Leben! Ich laß dich nicht aus den Augen, du Sexbombe.}
 {2000}{}{Ahh, Ich glaub ich hab mir etwas gebrochen. Kannst du die Stelle küssen, dann gehts mir gleich viel besser.}
 {2001}{}{Ugh, Ich fühle mich als würd ich brennen. Ich glaub ich bin verstrahlt}
 {2002}{}{Ugh, Mir ist so schlecht. Ich glaub ich wurde vergiftet.}

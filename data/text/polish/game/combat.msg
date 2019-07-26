@@ -1,6 +1,3 @@
-#
-# This is all of the combat messages used by combat.c
-#
 {100}{}{Potrzebujesz %d pkt. akcji.}
 {101}{}{Brak amunicji.}
 {102}{}{Cel poza zasiêgiem.}
@@ -10,9 +7,6 @@
 {106}{}{Nie mo¿esz u¿ywaæ broni oburêcznej maj¹c okaleczon¹ rêkê.}
 {107}{}{Nie masz wystarczaj¹co du¿o si³y, by prawid³owo pos³ugiwaæ siê t¹ broni¹.}
 {108}{}{ i }
-#
-# Combat Flag Strings (MALE PLAYER)
-#
 {200}{}{traci przytomnoœæ}
 {201}{}{upada}
 {202}{}{ma okaleczon¹ lew¹ nogê}
@@ -36,9 +30,6 @@
 {220}{}{przypadkowo obrywa}
 {221}{}{ma okaleczon¹ jedn¹ z koñczyn}
 {222}{}{obrywa od³amkami}
-#
-# Combat Flag Strings (FEMALE PLAYER)
-#
 {250}{}{traci przytomnoœæ}
 {251}{}{upada}
 {252}{}{ma okaleczon¹ lew¹ nogê}
@@ -62,9 +53,6 @@
 {270}{}{przypadkowo obrywa}
 {271}{}{ma okaleczon¹ jedn¹ z koñczyn}
 {272}{}{obrywa od³amkami}
-#
-# Combat Flag Strings (MALE PLAYER)
-#
 {300}{}{traci przytomnoœæ}
 {301}{}{upada}
 {302}{}{ma okaleczon¹ lew¹ nogê}
@@ -88,9 +76,6 @@
 {320}{}{przypadkowo obrywa}
 {321}{}{ma okaleczon¹ jedn¹ z koñczyn}
 {322}{}{obrywa od³amkami}
-#
-# Combat Flag Strings (FEMALE PLAYER)
-#
 {400}{}{traci przytomnoœæ}
 {401}{}{upada}
 {402}{}{ma okaleczon¹ lew¹ nogê}
@@ -114,9 +99,6 @@
 {420}{}{przypadkowo obrywa}
 {421}{}{ma okaleczon¹ jedn¹ z koñczyn}
 {422}{}{obrywa od³amkami}
-#
-# Miscellaneous combat messages (MALE PLAYER)
-#
 {506}{}{Twoja postaæ}
 {509}{}{O rany! Obrywa %s, a nie %s!}
 {511}{}{%s krytycznie obrywa %s, trac¹c %d PW}
@@ -135,9 +117,6 @@
 {528}{}{%s obrywa krytycznie, lecz nie odnosi obra¿eñ}
 {533}{}{%s haniebnie pud³uje i traci 1 pkt. wytrzyma³oœci}
 {534}{}{%s haniebnie pud³uje i traci %d PW}
-#
-# Miscellaneous combat messages (MALE PLAYER)
-#
 {556}{}{Twoja postaæ}
 {559}{}{O rany! Obrywa %s, a nie %s!}
 {561}{}{%s krytycznie obrywa %s, trac¹c %d PW}
@@ -156,9 +135,6 @@
 {578}{}{%s obrywa krytycznie, lecz nie odnosi obra¿eñ}
 {583}{}{%s haniebnie pud³uje i traci 1 pkt. wytrzyma³oœci}
 {584}{}{%s haniebnie pud³uje i traci %d PW}
-#
-# Miscellaneous combat messages (MALE PLAYER)
-#
 {608}{}{O rany! Obrywa %s, zamiast ciebie!}
 {609}{}{O rany! Obrywa %s, a nie %s!}
 {611}{}{%s krytycznie obrywa %s, trac¹c %d PW}
@@ -177,9 +153,6 @@
 {628}{}{%s obrywa krytycznie, lecz nie odnosi obra¿eñ}
 {633}{}{%s haniebnie pud³uje i traci 1 pkt. wytrzyma³oœci}
 {634}{}{%s haniebnie pud³uje i traci %d PW}
-#
-# Miscellaneous combat messages (MALE PLAYER)
-#
 {708}{}{O rany! Obrywa %s, zamiast ciebie!}
 {709}{}{O rany! Obrywa %s, a nie %s!}
 {711}{}{%s krytycznie obrywa %s, trac¹c %d PW}
@@ -198,251 +171,186 @@
 {728}{}{%s obrywa krytycznie, lecz nie odnosi obra¿eñ}
 {733}{}{%s haniebnie pud³uje i traci 1 pkt. wytrzyma³oœci}
 {734}{}{%s haniebnie pud³uje i traci %d PW}
-#
-# Hit Locations (by art_num alias)
-#
-# regular humans
-#
 {1110}{}{w g³owê}
-{1111}{}{w lew¹ rêkê}
-{1112}{}{w praw¹ rêkê}
-{1113}{}{w pierœ}
+{1111}{}{w lewe ramiê}
+{1112}{}{w prawe ramiê}
+{1113}{}{w korpus}
 {1114}{}{w praw¹ nogê}
 {1115}{}{w lew¹ nogê}
 {1116}{}{w oczy}
-{1117}{}{w pachwinê}
-{1118}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Brahmin (Mutant 2-Headed Cows)
-#
+{1117}{}{w krocze}
+{1118}{}{wolisz nie wiedzieæ co}
 {1150}{}{w g³owê}
-{1151}{}{w lew¹ tyln¹ nogê}
-{1152}{}{w praw¹ tyln¹ nogê}
-{1153}{}{w tu³ów}
-{1154}{}{w praw¹ przedni¹ nogê}
-{1155}{}{w lew¹ przedni¹ nogê}
+{1151}{}{w lewe odnó¿e tylne}
+{1152}{}{w prawe odnó¿e tylne}
+{1153}{}{w korpus}
+{1154}{}{w prawe odnó¿e przednie}
+{1155}{}{w lewe odnó¿e przednie}
 {1156}{}{w oczy}
 {1157}{}{w wymiê}
-{1158}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# dogs
-#
-{1160}{}{w ³eb}
+{1158}{}{wolisz nie wiedzieæ co}
+{1160}{}{w g³owê}
 {1161}{}{w tyln¹ ³apê}
 {1162}{}{w tyln¹ ³apê}
-{1163}{}{w tu³ów}
+{1163}{}{w korpus}
 {1164}{}{w przedni¹ ³apê}
 {1165}{}{w przedni¹ ³apê}
 {1166}{}{w oczy}
-{1167}{}{w pachwinê}
-{1168}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Mr. Handy
-#
+{1167}{}{w krocze}
+{1168}{}{wolisz nie wiedzieæ co}
 {1170}{}{w CPU}
 {1171}{}{w manipulator}
 {1172}{}{w manipulator}
-{1173}{}{w korpus}
+{1173}{}{w obudowê}
 {1174}{}{w motywator}
 {1175}{}{w motywator}
 {1176}{}{w czujniki}
 {1177}{}{w regulator}
-{1178}{}{w niezidentyfikowany element}
-#
-# Super Mutants
-#
+{1178}{}{wolisz nie wiedzieæ co}
 {1180}{}{w g³owê}
-{1181}{}{w lew¹ rêkê}
-{1182}{}{w praw¹ rêkê}
-{1183}{}{w tors}
+{1181}{}{w lewe ramiê}
+{1182}{}{w prawe ramiê}
+{1183}{}{w korpus}
 {1184}{}{w praw¹ nogê}
 {1185}{}{w lew¹ nogê}
 {1186}{}{w oczy}
-{1187}{}{w pachwinê}
-{1188}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Mole-Rat
-#
-{1190}{}{w ³eb}
+{1187}{}{w krocze}
+{1188}{}{wolisz nie wiedzieæ co}
+{1190}{}{w g³owê}
 {1191}{}{w lew¹ ³apê}
 {1192}{}{w praw¹ ³apê}
-{1193}{}{w tu³ów}
+{1193}{}{w korpus}
 {1194}{}{w praw¹ nogê}
 {1195}{}{w lew¹ nogê}
 {1196}{}{w oczy}
-{1197}{}{w pachwinê}
-{1198}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# big humans and mutants
-#
+{1197}{}{w krocze}
+{1198}{}{wolisz nie wiedzieæ co}
 {1210}{}{w g³owê}
-{1211}{}{w lew¹ rêkê}
-{1212}{}{w praw¹ rêkê}
-{1213}{}{w tors}
+{1211}{}{w lewe ramiê}
+{1212}{}{w prawe ramiê}
+{1213}{}{w korpus}
 {1214}{}{w praw¹ nogê}
 {1215}{}{w lew¹ nogê}
 {1216}{}{w oczy}
-{1217}{}{w pachwinê}
-{1218}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Radscorpion
-#
+{1217}{}{w krocze}
+{1218}{}{wolisz nie wiedzieæ co}
 {1220}{}{w g³owê}
 {1221}{}{w ogon}
-{1222}{}{w kleszcze}
-{1223}{}{w korpus}
-{1224}{}{w przednie nogi}
-{1225}{}{w tylne nogi}
+{1222}{}{w kolec}
+{1223}{}{w skorupê}
+{1224}{}{w przednie odnó¿a}
+{1225}{}{w tylne odnó¿a}
 {1226}{}{w oczy}
 {1227}{}{w mózg}
-{1228}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Floater
-#
-{1230}{}{w ³eb}
-{1231}{}{w pysk}
+{1228}{}{wolisz nie wiedzieæ co}
+{1230}{}{w g³owê}
+{1231}{}{w otwór gêbowy}
 {1232}{}{w przedpyszcze}
-{1233}{}{w tu³ów}
+{1233}{}{w korpus}
 {1234}{}{w pêcherz p³awny}
 {1235}{}{w ogon}
 {1236}{}{w zwój nerwowy}
 {1237}{}{w pok³ade³ko}
-{1238}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# masrat? a rat perhaps?
-#
-{1240}{}{w ³eb}
+{1238}{}{wolisz nie wiedzieæ co}
+{1240}{}{w g³owê}
 {1241}{}{w lew¹ ³apê}
 {1242}{}{w praw¹ ³apê}
-{1243}{}{w tu³ów}
+{1243}{}{w korpus}
 {1244}{}{w praw¹ nogê}
 {1245}{}{w lew¹ nogê}
 {1246}{}{w oczy}
-{1247}{}{w pachwinê}
-{1248}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Centaur
-#
+{1247}{}{w krocze}
+{1248}{}{wolisz nie wiedzieæ co}
 {1250}{}{w g³owê}
-{1251}{}{w lew¹ rêkê}
-{1252}{}{w praw¹ rêkê}
-{1253}{}{w tu³ów}
+{1251}{}{w lewe ramiê}
+{1252}{}{w prawe ramiê}
+{1253}{}{w korpus}
 {1254}{}{w praw¹ nogê}
 {1255}{}{w lew¹ nogê}
 {1256}{}{w oczy}
-{1257}{}{w pachwinê}
-{1258}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# human midgets and children
-#
+{1257}{}{w krocze}
+{1258}{}{wolisz nie wiedzieæ co}
 {1270}{}{w g³owê}
-{1271}{}{w lew¹ rêkê}
-{1272}{}{w praw¹ rêkê}
-{1273}{}{w pierœ}
+{1271}{}{w lewe ramiê}
+{1272}{}{w prawe ramiê}
+{1273}{}{w korpus}
 {1274}{}{w praw¹ nogê}
 {1275}{}{w lew¹ nogê}
 {1276}{}{w oczy}
-{1277}{}{w pachwinê}
-{1278}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Overseer
-#
+{1277}{}{w krocze}
+{1278}{}{wolisz nie wiedzieæ co}
 {1460}{}{w g³owê}
-{1461}{}{w lew¹ rêkê}
-{1462}{}{w praw¹ rêkê}
-{1463}{}{w tors}
+{1461}{}{w lewe ramiê}
+{1462}{}{w prawe ramiê}
+{1463}{}{w korpus}
 {1464}{}{w praw¹ nogê}
 {1465}{}{w lew¹ nogê}
 {1466}{}{w oczy}
-{1467}{}{w pachwinê}
-{1468}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Gizmo
-#
+{1467}{}{w krocze}
+{1468}{}{wolisz nie wiedzieæ co}
 {1490}{}{w g³owê}
-{1491}{}{w lew¹ rêkê}
-{1492}{}{w praw¹ rêkê}
-{1493}{}{w tors}
+{1491}{}{w lewe ramiê}
+{1492}{}{w prawe ramiê}
+{1493}{}{w korpus}
 {1494}{}{w praw¹ nogê}
 {1495}{}{w lew¹ nogê}
 {1496}{}{w oczy}
-{1497}{}{w pachwinê}
-{1498}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# The Master!
-#
+{1497}{}{w krocze}
+{1498}{}{wolisz nie wiedzieæ co}
 {1500}{}{w g³owê}
 {1501}{}{???}
 {1502}{}{???}
-{1503}{}{w korpus}
+{1503}{}{w obudowê}
 {1504}{}{???}
 {1505}{}{???}
 {1506}{}{w oczy}
 {1507}{}{w CPU}
-{1508}{}{w niezidentyfikowany punkt}
-#
-# Death Claw
-#
+{1508}{}{wolisz nie wiedzieæ co}
 {1510}{}{w g³owê}
-{1511}{}{w lew¹ rêkê}
-{1512}{}{w praw¹ rêkê}
-{1513}{}{w tors}
+{1511}{}{w lewe ramiê}
+{1512}{}{w prawe ramiê}
+{1513}{}{w korpus}
 {1514}{}{w praw¹ nogê}
 {1515}{}{w lew¹ nogê}
 {1516}{}{w oczy}
-{1517}{}{w pachwinê}
-{1518}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Mantis
-#
+{1517}{}{w krocze}
+{1518}{}{wolisz nie wiedzieæ co}
 {1520}{}{w g³owê}
 {1521}{}{w chwytak}
 {1522}{}{w chwytak}
-{1523}{}{w odw³ok}
+{1523}{}{w ¿o³¹dek}
 {1524}{}{w nogi}
 {1525}{}{w skrzyd³a}
 {1526}{}{w oczy}
 {1527}{}{w tu³ów}
-{1528}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Robobrain
-#
+{1528}{}{wolisz nie wiedzieæ co}
 {1530}{}{w CPU}
 {1531}{}{w manipulator}
 {1532}{}{w manipulator}
-{1533}{}{w korpus}
+{1533}{}{w obudowê}
 {1534}{}{w motywator}
 {1535}{}{w motywator}
 {1536}{}{w czujniki}
 {1537}{}{w regulator}
-{1538}{}{w niezidentyfikowany element}
-#
-# Eyeball (Robot)
-#
+{1538}{}{wolisz nie wiedzieæ co}
 {1540}{}{w CPU}
 {1541}{}{w manipulator}
 {1542}{}{w manipulator}
-{1543}{}{w korpus}
+{1543}{}{w obudowê}
 {1544}{}{w motywator}
 {1545}{}{w motywator}
 {1546}{}{w czujniki}
 {1547}{}{w regulator}
-{1548}{}{w niezidentyfikowany element}
-#
-# Mutant Pig Rat (small Mole-Rat)
-#
-{1550}{}{w ³eb}
+{1548}{}{wolisz nie wiedzieæ co}
+{1550}{}{w g³owê}
 {1551}{}{w lew¹ ³apê}
 {1552}{}{w praw¹ ³apê}
-{1553}{}{w tu³ów}
+{1553}{}{w korpus}
 {1554}{}{w praw¹ nogê}
 {1555}{}{w lew¹ nogê}
 {1556}{}{w oczy}
-{1557}{}{w pachwinê}
-{1558}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Deathclaw egg
-#
+{1557}{}{w krocze}
+{1558}{}{wolisz nie wiedzieæ co}
 {1580}{}{w skorupê}
 {1581}{}{w skorupê}
 {1582}{}{w skorupê}
@@ -451,22 +359,16 @@
 {1585}{}{w skorupê}
 {1586}{}{w skorupê}
 {1587}{}{w skorupê}
-{1588}{}{w niezidentyfikowan¹ czêœæ cia³a}
-#
-# Lesser Radscorpion
-#
-{1590}{}{w ³eb}
+{1588}{}{wolisz nie wiedzieæ co}
+{1590}{}{w g³owê}
 {1591}{}{w ogon}
 {1592}{}{w kolec}
 {1593}{}{w skorupê}
-{1594}{}{w odnó¿a przednie}
-{1595}{}{w odnó¿a tylnie}
+{1594}{}{w przednie odnó¿a}
+{1595}{}{w tylne odnó¿a}
 {1596}{}{w oczy}
 {1597}{}{w mózg}
-{1598}{}{w nienazwane}
-#
-# Lesser Death Claw
-#
+{1598}{}{wolisz nie wiedzieæ co}
 {1600}{}{w g³owê}
 {1601}{}{w lewe ramiê}
 {1602}{}{w prawe ramiê}
@@ -475,10 +377,7 @@
 {1605}{}{w lew¹ nogê}
 {1606}{}{w oczy}
 {1607}{}{w krocze}
-{1608}{}{w nienazwane}
-#
-# Giant Plant
-#
+{1608}{}{wolisz nie wiedzieæ co}
 {1650}{}{w otwór gêbowy}
 {1651}{}{w ³odygê}
 {1652}{}{w ³odygê}
@@ -487,10 +386,7 @@
 {1655}{}{w korzenie}
 {1656}{}{w pn¹cza czuciowe}
 {1657}{}{w nasadê}
-{1658}{}{w nienazwane}
-#
-# Security Robot
-#
+{1658}{}{wolisz nie wiedzieæ co}
 {1660}{}{w g³owê}
 {1661}{}{w rêkê - rakietnicê}
 {1662}{}{w rêkê - giwerê}
@@ -499,11 +395,8 @@
 {1665}{}{w lew¹ nogê}
 {1666}{}{w czujniki}
 {1667}{}{w ni¿szy korpus}
-{1668}{}{w nienazwane}
-#
-# Gecko 2
-#
-{1670}{}{w ³eb}
+{1668}{}{wolisz nie wiedzieæ co}
+{1670}{}{w g³owê}
 {1671}{}{w lewego szpona}
 {1672}{}{w prawego szpona}
 {1673}{}{w korpus}
@@ -511,11 +404,8 @@
 {1675}{}{w lew¹ nogê}
 {1676}{}{w oczy}
 {1677}{}{w krocze}
-{1678}{}{w nienazwane}
-#
-# Gecko
-#
-{1680}{}{w ³eb}
+{1678}{}{wolisz nie wiedzieæ co}
+{1680}{}{w g³owê}
 {1681}{}{w lewego szpona}
 {1682}{}{w prawego szpona}
 {1683}{}{w korpus}
@@ -523,22 +413,16 @@
 {1685}{}{w lew¹ nogê}
 {1686}{}{w oczy}
 {1687}{}{w krocze}
-{1688}{}{w nienazwane}
-#
-# Alien Thing
-#
+{1688}{}{wolisz nie wiedzieæ co}
 {1800}{}{w g³owê}
 {1801}{}{w lew¹ mackê}
 {1802}{}{w praw¹ mackê}
 {1803}{}{w korpus}
 {1804}{}{w praw¹ stopê}
 {1805}{}{w lew¹ stopê}
-{1806}{}{w oczy}
+{1806}{}{w oczy?}
 {1807}{}{w organ rozrodczy}
-{1808}{}{w nienazwane}
-#
-# End Boss
-#
+{1808}{}{wolisz nie wiedzieæ co}
 {1850}{}{w g³owê}
 {1851}{}{w lewe ramiê}
 {1852}{}{w prawe ramiê}
@@ -547,10 +431,7 @@
 {1855}{}{w lew¹ nogê}
 {1856}{}{w oczy}
 {1857}{}{w krocze}
-{1858}{}{w nienazwane}
-#
-# Alien Queen
-#
+{1858}{}{wolisz nie wiedzieæ co}
 {1860}{}{w g³owê}
 {1861}{}{w lew¹ mackê}
 {1862}{}{w praw¹ mackê}
@@ -559,10 +440,7 @@
 {1865}{}{w lew¹ stopê}
 {1866}{}{w oczy?}
 {1867}{}{w organ rozrodczy}
-{1868}{}{w nienazwane}
-#
-# Gun Turret 2
-#
+{1868}{}{wolisz nie wiedzieæ co}
 {1900}{}{w jednostkê centraln¹}
 {1901}{}{w mech. ster. dzia³em}
 {1902}{}{w mech. ster. dzia³em}
@@ -571,10 +449,7 @@
 {1905}{}{w g³ówny mech. ster.}
 {1906}{}{w czujniki}
 {1907}{}{w regulator}
-{1908}{}{w nienazwane}
-#
-# Giant Ant
-#
+{1908}{}{wolisz nie wiedzieæ co}
 {1970}{}{w g³owê}
 {1971}{}{w lewe odnó¿e przednie}
 {1972}{}{w prawe odnó¿e przednie}
@@ -583,10 +458,7 @@
 {1975}{}{w lewe odnó¿e tylne}
 {1976}{}{w czu³ki}
 {1977}{}{w tu³ów}
-{1978}{}{w nienazwane}
-#
-# Goris Robed
-#
+{1978}{}{wolisz nie wiedzieæ co}
 {1990}{}{w g³owê}
 {1991}{}{w lewe ramiê}
 {1992}{}{w prawe ramiê}
@@ -595,10 +467,7 @@
 {1995}{}{w lew¹ nogê}
 {1996}{}{w oczy}
 {1997}{}{w krocze}
-{1998}{}{w nienazwane}
-#
-# Goris UnRobed
-#
+{1998}{}{wolisz nie wiedzieæ co}
 {2000}{}{w g³owê}
 {2001}{}{w lewe ramiê}
 {2002}{}{w prawe ramiê}
@@ -607,10 +476,7 @@
 {2005}{}{w lew¹ nogê}
 {2006}{}{w oczy}
 {2007}{}{w krocze}
-{2008}{}{w nienazwane}
-#
-# Gun Turret 2
-#
+{2008}{}{wolisz nie wiedzieæ co}
 {2010}{}{w jednostkê centraln¹}
 {2011}{}{w mech. ster. dzia³em}
 {2012}{}{w mech. ster. dzia³em}
@@ -619,11 +485,7 @@
 {2015}{}{w g³ówny mech. ster.}
 {2016}{}{w czujniki}
 {2017}{}{w regulator}
-{2018}{}{w nienazwane}
-
-#
-# Fruit Fly
-#
+{2018}{}{wolisz nie wiedzieæ co}
 {2030}{}{w g³owê}
 {2031}{}{w ¿¹d³o}
 {2032}{}{w czu³ki}
@@ -633,33 +495,25 @@
 {2036}{}{w oczy}
 {2037}{}{w skrzyd³a}
 {2038}{}{wolisz nie wiedzieæ co}
-
-
-#
-# Critical Hit Messages
-#
-
-# 5000 series - men (including generics)
-#
-{5000}{}{. To go naprawdê boli}
-{5001}{}{. Skutkuje to groŸn¹ ran¹}
+{5000}{}{. To j¹ naprawdê boli}
+{5001}{}{. Serious pain is inflicted.}
 {5002}{}{, jako ¿e nie chroni go pancerz}
 {5003}{}{. To straszliwe uderzenie pozbawia go przytomnoœci}
 {5004}{}{. Ten cios go powala}
 {5005}{}{. Tak silny cios w g³owê od razu go nokautuje}
 {5006}{}{. Trafienie zmienia jego skroñ w krwaw¹ miazgê. Dobranoc, Anio³ku}
 {5007}{}{ - zgon jest natychmiastowy}
-{5008}{}{. Biedak, cierpi teraz na ostry przypadek ³okcia tenisisty}
-{5009}{}{. Wyszarpniêcie koñczyny ze stawu barkowego nie wyjdzie mu na zdrowie}
-{5010}{}{. Zostaje mu po tym wielki siniak}
-{5011}{}{. Jego lewe ramiê zosta³o powa¿nie okaleczone}
+{5008}{}{. Biedaczka, cierpi teraz na ostry przypadek ³okcia tenisisty}
+{5009}{}{. Wyszarpniêcie koñczyny ze stawu barkowego nie wyjdzie jej na zdrowie}
+{5010}{}{. Zostaje jej po tym wielki siniak}
+{5011}{}{. Jej lewe ramiê zosta³o powa¿nie okaleczone}
 {5012}{}{. Jego lewa koñczyna dynda na strzêpie skóry}
-{5013}{}{. To ramiê wygl¹da teraz jak zakrwawiony pieniek}
-{5014}{}{. Okaleczenie jego prawego ramienia jest bardzo powa¿ne}
+{5013}{}{. To ramiê wygl¹da teraz jak krwawy kikut}
+{5014}{}{. Okaleczenie jej prawego ramienia jest bardzo powa¿ne}
 {5015}{}{. Jego prawe ramiê uleg³o zmia¿d¿eniu wskutek tego potê¿nego uderzenia}
 {5016}{}{ na skutek tego mocarnego trafienia}
 {5017}{}{ pomimo pancerza}
-{5018}{}{. Dziêki temu otrzymuje on dodatkow¹ dawkê obra¿eñ}
+{5018}{}{. Dziêki temu otrzymuje ona dodatkow¹ dawkê obra¿eñ}
 {5019}{}{ oraz grunt pod nogami}
 {5020}{}{, i pada po tym, jak si³a uderzenia pozbawi³a jego p³uca zapasu powietrza}
 {5021}{}{. Niestety, od przodu mo¿na teraz z ³atwoœci¹ dostrzec jego krêgos³up}
@@ -668,9 +522,9 @@
 {5024}{}{. Œwie¿o okaleczona koñczyna nie jest w stanie utrzymaæ jego ciê¿aru i w rezultacie traci on równowagê}
 {5025}{}{, podczas gdy jego kolano zostaje zdruzgotane, a on sam upada}
 {5026}{}{. Dotkliwy ból, wywo³any niespodziewan¹ utrat¹ koñczyny, pozbawia go œwiadomoœci}
-{5027}{}{, co zwiêksza jego dawkê cierpienia}
+{5027}{}{, co zwiêksza jej dawkê cierpienia}
 {5028}{}{ oraz - niefortunnie dla niego - zdolnoœæ widzenia}
-{5029}{}{, a jako ¿e nie posiada on tam os³ony, sprawia mu to prawdziwy ból}
+{5029}{}{, a jako ¿e nie ma ona tam os³ony, sprawia jej to prawdziwy ból}
 {5030}{}{ i wzrok za spraw¹ osza³amiaj¹cego ciosu}
 {5031}{}{. Utrata oka to dla niego zbyt wiele, zatem grunt usuwa mu siê spod nóg}
 {5032}{}{; co smutne, jest on nadmiernie zaabsorbowany wtargniêciem powietrza do jego nagle otwartej mózgoczaszki, by zauwa¿yæ nadejœcie œmierci}
@@ -679,11 +533,8 @@
 {5035}{}{. Nie mia³ on os³ony w punkcie trafienia, wiêc natychmiast pada, jêcz¹c w agonii}
 {5036}{}{. Cierpienie jest dla niego nie do zniesienia, tote¿ po chwili osuwa siê on w dó³ jak szmaciana lalka}
 {5037}{}{. Mamrocze "Mamo", gdy oczy uciekaj¹ mu w ty³ czaszki}
-#
-# series 5100 - women
-#
 {5100}{}{. To j¹ naprawdê boli}
-{5101}{}{. Skutkuje to groŸn¹ ran¹}
+{5101}{}{. Serious pain is inflicted}
 {5102}{}{, jako ¿e nie chroni jej pancerz}
 {5103}{}{. To straszliwe uderzenie pozbawia j¹ przytomnoœci}
 {5104}{}{. Ten cios j¹ powala}
@@ -718,9 +569,6 @@
 {5133}{}{. Przyjmuje to jak prawdziwy mê¿czyzna. Innymi s³owy, boli j¹ jak diabli}
 {5134}{}{, i pada jak œciêta k³oda}
 {5135}{}{. Jej zdolnoœæ do prokreacji staje pod znakiem zapytania, podczas gdy ona sama wiotczeje i osuwa siê w dó³}
-#
-# series 5200 - children
-#
 {5200}{}{. Doprowadza je to do p³aczu}
 {5201}{}{. Natychmiast pada przez to nieprzytomne}
 {5202}{}{. A³ajæ}
@@ -748,9 +596,6 @@
 {5224}{}{, gdy cios dosiêga jego ma³ego mózgu}
 {5225}{}{. Wygl¹da teraz na zdezorientowane i wstrz¹œniête}
 {5226}{}{. Natychmiast powala to ten m³odziutki cel}
-#
-# series 5300 - Super Mutants
-#
 {5300}{}{. Sprawia to ból temu potê¿nemu œwiadectwu twórczej mocy promieniowania}
 {5301}{}{ po trafieniu w witalny organ}
 {5302}{}{. Uderzenie w czu³e miejsce œcina tego olbrzyma z nóg}
@@ -773,9 +618,6 @@
 {5319}{}{. Oœlepiony, nie przygotowany na kolejny atak, potyka siê do ty³u}
 {5320}{}{. Trafienie pozbawia wzroku ten teraz nieprzytomny skutek uboczny wojny staro¿ytnych}
 {5321}{}{. Oczy jarz¹ mu siê przez chwilê, lecz ich œwiat³o zaraz gaœnie - na zawsze}
-#
-# series 5400 - Ghouls
-#
 {5400}{}{. Zosta³ zaskoczony, wiêc nie uda³o mu siê obroniæ przed tym atakiem}
 {5401}{}{. Ten cios go pogrzeba³}
 {5402}{}{. D³oñ oszo³omionego stwora ulega rozszarpaniu}
@@ -785,9 +627,6 @@
 {5406}{}{. Stwór nie za³o¿y³ na to miejsce os³ony}
 {5407}{}{, a jako ¿e nie ma he³mu, zostaje oœlepiony}
 {5408}{}{, przez co w swych ostatnich chwilach wygl¹da na oszo³omionego}
-#
-# series 5500 - Brahmin
-#
 {5500}{}{, co przewraca to wielkie bydlê na ziemiê}
 {5501}{}{. Skuteczny atak pozbawia œwiadomoœci oba mózgi i powala to olbrzymie zwierzê}
 {5502}{}{. Ta zmutowana krowa wydaje z siebie donoœny ryk wyra¿aj¹cy zaskoczenie}
@@ -802,9 +641,6 @@
 {5511}{}{. Zwierzê dr¿y z wœciek³oœci}
 {5512}{}{. Muæka parska z bólu oboma pyskami}
 {5513}{}{. Zwierzak jest rozjuszony tym wymiê-rnie destruktywnym atakiem}
-#
-# series 5600 - Radscorpions
-#
 {5600}{}{, co posy³a tego stawonoga na grzbiet}
 {5601}{}{, co od³¹cza mu ³eb od tu³owia}
 {5602}{}{; koñczy siê to dla niego powa¿n¹ ran¹ na jadowitym zaodw³oku}
@@ -822,9 +658,6 @@
 {5614}{}{. Mo¿esz przysi¹c, ¿e gdyby by³ cz³owiekiem, by³by teraz naprawdê wkurwiony}
 {5615}{}{. Zranienie pozbawia to biedne stworzonko zmys³ów}
 {5616}{}{; si³a uderzenia wyrzuca jego mózg na ziemiê}
-#
-# series 5700 - Rats
-#
 {5700}{}{. Czaszka gryzonia wydaje kilka niezdrowych odg³osów}
 {5701}{}{, co mia¿d¿y czaszkê tego gryzonia równie ³atwo, jak papierowy kubek}
 {5702}{}{; jego lewa koñczyna jest teraz trochê p³aska}
@@ -838,9 +671,6 @@
 {5710}{}{, co skutkuje pojawieniem siê wielkiej dziury w jego lewym odnó¿u}
 {5711}{}{, dziêki naruszeniu czu³ego punktu odnosi on nieco dodatkowych obra¿eñ}
 {5712}{}{; stworzenie wezwa³ Wielki Szczuro³ap w Niebiosach}
-#
-# series 5800 - Floaters
-#
 {5800}{}{, i natychmiast siê przewraca}
 {5801}{}{; stworzenie upada, najwyraŸniej bez ¿ycia}
 {5802}{}{, co ma powa¿ne konsekwencje dla jego dalszej egzystencji}
@@ -852,9 +682,6 @@
 {5808}{}{, potem doznaje gwa³townego skurczu i zaczyna dr¿eæ jak galareta}
 {5809}{}{, ten cios dosiêgn¹³ jego czu³ego punktu}
 {5810}{}{. Stwór jest w sposób oczywisty zdenerwowany}
-#
-# series 5900 - Centaurs
-#
 {5900}{}{; odrzucony jak z³y na³óg, przewraca siê i mdleje}
 {5901}{}{, gdy cios trafia w krytyczny punkt}
 {5902}{}{, co skutkuje rozleg³¹ niewydolnoœci¹ uk³adu nerwowego}
@@ -868,9 +695,6 @@
 {5910}{}{, co go zaskakuje. Natychmiast pada jak k³oda}
 {5911}{}{, co go zaskakuje. Upada tworz¹c stertê odra¿aj¹cej mazi}
 {5912}{}{. Ten atak nie by³ maksymalnie skuteczny}
-#
-# series 6000 - Robots
-#
 {6000}{}{, co powoduje uszkodzenia strukturalne}
 {6001}{}{; sypi¹ siê iskry i robot momentalnie wyrywa siê spod kontroli}
 {6002}{}{; uszkodzenie wa¿nego komponentu uwalnia robota spod kontroli}
@@ -885,9 +709,6 @@
 {6011}{}{. Robot usi³uje to skompensowaæ, lecz nie odnosi powodzenia i upada na pod³o¿e}
 {6012}{}{. Robot nadwerê¿a siê w obliczu przemocy i pada na pod³o¿e}
 {6013}{}{, soczewki jego czujników optycznych ulegaj¹ st³uczeniu}
-#
-# series 6100 - Dogs
-#
 {6100}{}{, co powala go na pod³o¿e}
 {6101}{}{ po uderzeniu prosto w pysk}
 {6102}{}{. Psina siê przewraca, ale wci¹¿ oddycha}
@@ -896,9 +717,6 @@
 {6105}{}{, co okalecza mu odnó¿e. Zwierzak stara siê ustaæ, lecz siê mu to nie udaje}
 {6106}{}{. Oœlepione zwierzê wyje z bólu}
 {6107}{}{; trafienie sterylizuje tego biednego zwierzaka}
-#
-# series 6200 - Manti
-#
 {6200}{}{; trafienie powala tego zmutowanego owada}
 {6201}{}{; insekt-mutant ciê¿ko upada}
 {6202}{}{. Owad rozwa¿a, czy pozostaæ przy ¿yciu}
@@ -910,25 +728,16 @@
 {6208}{}{; po tym ataku nie pozostan¹ jej ju¿ nawet tylko marzenia o lataniu}
 {6209}{}{; uderzenie omija chitynow¹ zbrojê i ciska tym przeroœniêtym owadem}
 {6210}{}{; ten celny cios oœlepia insekta}
-#
-# series 6300 - Deathclaw
-#
 {6300}{}{. Nawet taka bestia wydaje siê byæ zaskoczona tym osza³amiaj¹cym atakiem}
 {6301}{}{. Uderzenie ominê³o wielkie szpony, by trafiæ w samego potwora, który teraz otrz¹sa siê i warczy}
 {6302}{}{. Skutkiem tego s¹ rozleg³e obra¿enia narz¹du wzroku potwora}
-#
-# series 6400 - Spore Plant # Was The Master
-#
 {6400}{}{. Zas³ona nic nie pomog³a}
 {6401}{}{, i gubi sporo liœci}
 {6402}{}{, i traci kilka ga³êzi}
 {6403}{}{. Musia³o to nieŸle zaboleæ}
 {6404}{}{, i wyrzuca w powietrze chmurê zarodników}
-{6405}{}{, i niemal siê przewraca}
+{6405}{}{, i prawie j¹ przewraca}
 {6406}{}{, i ³amie kilka grubych ga³êzi}
-#
-# series 6500 - The Player
-#
 {6500}{}{. Czeka ciê jutro ból g³owy, o ile po¿yjesz tak d³ugo}
 {6501}{}{. Pancerz nie zapewnia ci ochrony przed tym dobrze wymierzonym ciosem}
 {6502}{}{. Przez moment odczuwasz ból, a potem ogarnia ciê ciemnoœæ..}
@@ -956,43 +765,27 @@
 {6524}{}{. Chwytasz siê za podbrzusze i upadasz z bólu na pod³ogê}
 {6525}{}{. Spowodowany tym ból wystarcza, by pozbawiæ ciê œwiadomoœci. A³æ}
 {6526}{}{. W ca³ym wszechœwiecie nie ma tylu s³ów, aby opisaæ ból, jaki w³aœnie odczuwasz}
-
-# Fallout 2: DO POPRAWY
-
-#
-# series 6700 - Gecko
-#
 {6700}{}{; próba uniku na nic siê zda³a}
 {6701}{}{, i gubi spory kawa³ ³uskowatej skóry}
 {6702}{}{, i ³amie kilka palców}
 {6703}{}{; jaszczur ma powa¿ne k³opoty z oddychaniem}
 {6704}{}{; jaszczur krztusi siê w³asn¹ krwi¹}
-{6705}{}{, i niemal siê przewraca}
+{6705}{}{, i prawie j¹ przewraca}
 {6706}{}{, i ³amie kilka koñczyn}
-
-#
-# series 6800 - Alien
-#
 {6800}{}{, mimo próby zas³ony}
 {6801}{}{, i gubi spory kawa³ œluzowatego cia³a}
 {6802}{}{, i traci parê szczêkoczu³ek}
 {6803}{}{, i rani sobie tchawki}
 {6804}{}{, i wytrz¹sa z siebie jakieœ obrzydliwoœci}
-{6805}{}{, i niemal siê przewraca}
+{6805}{}{, i prawie j¹ przewraca}
 {6806}{}{, i uszkadza kilka macek}
-#
-# series 6900 - Giant Ant
-#
-{6900}{}{, mimo próby uniku}
-{6901}{}{, i gubi kilka czu³ek}
-{6902}{}{, i ³amie parê czu³ek}
+{6900}{}{, przebijaj¹c siê przez os³ony}
+{6901}{}{, wyrywaj¹c niektóre z jej anten}
+{6902}{}{, niszcz¹c czêœæ jej czujników}
 {6903}{}{, i odnosi powa¿ny uszczerbek na zdrowiu}
-{6904}{}{, i dostaje konwulsji}
-{6905}{}{, i prawie siê przewraca}
-{6906}{}{. Czêœæ egzoszkieletu jest uszkodzona}
-#
-# series 7000 - Gun Turret -- WIP! Won't Work!
-#
+{6904}{}{, i trochê j¹ przechyla}
+{6905}{}{, i prawie j¹ przewraca}
+{6906}{}{, i uszkadza jej egzoszkielet}
 {7000}{}{, przebijaj¹c siê przez os³ony}
 {7001}{}{, wyrywaj¹c niektóre z jej anten}
 {7002}{}{, niszcz¹c czêœæ jej czujników}
@@ -1000,8 +793,6 @@
 {7004}{}{, i trochê j¹ przechyla}
 {7005}{}{, i prawie j¹ przewraca}
 {7006}{}{, i uszkadza jej egzoszkielet}
-
-# Series 7100 - End Boss
 {7100}{}{, mimo noszonego pancerza.}
 {7101}{}{, sprowadzaj¹c Ochroniarza na kolana}
 {7102}{}{; mechanizm ramienia jest chyba uszkodzony}

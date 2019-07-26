@@ -2,14 +2,14 @@
 {101}{}{Tu vois Zeke, un squatteur.}
 {102}{}{Tu vois un vieil homme aux cheveux fins et blancs.}
 {103}{}{Je m'appelle Zeke. Je m'excuse, mais je n'ai pas le temps de te parler - et je ne pense pas qu'il y ait quoi que ce soit dans cette ville pour toi. Tu devrais t'en aller.}
-{104}{}{Euh, Ok.}
+{104}{}{Uh, Ok.}
 {105}{}{Moi avoir questions.}
 {106}{}{Très bien, je m'en vais.}
 {107}{}{Je voulais juste te poser quelques questions.}
 {108}{}{Eh bien, je pense que tu vas te rendre compte qu'on a pas de réponses ici. Pourquoi ne reviens-tu pas quand on aura reçu une nouvelle cargaison ?}
-{109}{}{Terminé.}
+{109}{}{Marché conclu.}
 {110}{}{Re-bonjour. Je n'ai toujours pas de réponses pour toi. Tu ne comprends pas ou quoi ? Pourquoi tu vas pas voir ailleurs si j'y suis ?}
-{111}{}{[Terminé]}
+{111}{}{Marché conclu.}
 {112}{}{Elisabeth m'a dit ce que tu avais fait pour elle. Je tiens à m'excuser pour l'accueil que tu as reçu ici. Tu ne l'as certainement pas mérité. Que puis-je faire pour toi ?}
 {113}{}{Moi avoir questions.}
 {114}{}{Rien. Salut.}
@@ -45,21 +45,20 @@
 {144}{}{Toi avoir raison, moi m'occuper ça.}
 {145}{}{Moi pas vraiment savoir.}
 {146}{}{Ouais, je pense qu'il faut le faire.}
-{147}{}{Je ne sais pas.}
+{147}{}{Je n'sais pas.}
 {148}{}{Parfait. Bonne chance à toi et merci.}
-{149}{}{Terminé.}
+{149}{}{Marché conclu.}
 {150}{}{Eh bien, prends le temps d'y réfléchir, mais sache que tant que Darion sera dans les parages, je n'ai pas d'autre choix que de veiller à ce que rien ne change ici. C'est pour la sécurité de tous. Ce qui signifie aucun marché et tu es toujours persona non grata. Compris ?}
 {151}{}{Ok.}
 {152}{}{Bonjour. J'attends toujours que nos problèmes soient définitivement réglés. En d'autres termes, j'attends de jeter Darion dehors à coups de pieds au cul !}
-{153}{}{Terminé.}
+{153}{}{Marché conclu.}
 {154}{}{Tu as réussi. Nous ne sommes plus commandés par Darion. Merci. Je suis prêt à accepter ton pacte avec la RNC. Dis leur d'envoyer un de leurs représentants et c'est un marché conclu.}
-{155}{}{Terminé.}
+{155}{}{Marché conclu.}
 {156}{}{Merci pour cette nouvelle vie ! Nous te sommes très reconnaissants.}
 {157}{}{Va-t'en. Je n'ai rien à te dire.}
 {158}{}{Attends, avant que tu t'en ailles... J'ai trouvé cette carte d'accès il y a quelque temps et je ne sais vraiment pas à quoi elle sert. Elisabeth dit que tu as trouvé une sorte de porte derrière laquelle ils détenaient Chrissy. Cette carte permet peut-être de l'ouvrir. Tiens, prends-la.}
 {159}{}{Merci.}
-{160}{}{Que puis-je faire pour toi ?}
+{160}{}{En quoi puis-je t'être utile ?}
 {161}{}{Juste les problèmes avec la RNC, mais je pense que le marché que tu as offert va permettre d'y remédier.}
 {162}{}{Tu as réussi ! Nous ne sommes plus sous le joug de Darion. Merci !}
-
 {163}{}{Maintenant que Darion est parti, nous n'avons plus de moyens d'obtenir de la nourriture. Nous allons certainement mourir. Vraiment merci !}

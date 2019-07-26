@@ -2,7 +2,7 @@
 {101}{}{Il a l'air en forme mais semble plutôt désorienté.}
 {102}{}{Oh ma tête.}
 {103}{}{Qui es-tu ?}
-{104}{}{<Argh>}
+{104}{}{Argh !}
 {105}{}{Je-je suis Dobbs... Soldat, première classe.}
 {106}{}{Tu peux me dire comment tu as pu arriver ici ?}
 {107}{}{Salut.}
@@ -17,14 +17,11 @@
 {116}{}{Salut.}
 {117}{}{Après je me suis réveillé ici. Je dois partir ! Je dois rejoindre mon unité !}
 {118}{}{Salut.}
-
 {200}{}{Où suis-je ?}
 {201}{}{Ma tête me fait mal.}
 {202}{}{Pourquoi est-ce que je suis couvert de substance collante ?}
-
 {300}{}{Je dois rejoindre mon unité !}
 {301}{}{Oh non ! Je suis devenu un déserteur !}
 {302}{}{Dans quelle direction se trouve le front ?}
 {303}{}{C'est pour toi Jonny.}
-
 {400}{}{Le Soldat Dobbs souffre du Syndrome Post-Cryogénique.}

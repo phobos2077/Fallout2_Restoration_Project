@@ -1,4 +1,4 @@
-{100}{}{Tu vois un paysan.}
+{100}{}{Tu vois un villageois.}
 {101}{}{Tu vois un villageois.}
 {102}{}{Bonjour.}
 {103}{}{Bonne journée.}

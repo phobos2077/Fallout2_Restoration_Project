@@ -11,6 +11,5 @@
 {110}{}{Bonjour... Et au revoir.}
 {111}{}{Merci pour tout ce que tu as fait. Excuse-moi d'avoir fait preuve de tant de froideur.}
 {112}{}{Va te faire voir, enflure !}
-
 {113}{}{Merde, je déteste quand ce genre de chose arrive.}
 {114}{}{Prends ça ! Ouais, ça t'apprendra !}

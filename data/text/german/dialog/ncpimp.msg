@@ -1,27 +1,18 @@
-# quick look
 {100}{}{Du siehst einen Zuhälter.}
-
-# examine
 {150}{}{Du siehst einen gut gekleideten Mann. Seine Kleider fangen das Licht ein und reflektieren es, wodurch du geblendet wirst.}
 {151}{}{Du siehst einen Mann mit Klamotten, geschmackloser als eine abgestandene Flasche Mineralwasser.}
 {152}{}{Du siehst einen Zuhälter. Er macht sich gerade zurecht.}
 {153}{}{Du siehst einen Zuhälter. Er nickt dir zu.}
 {154}{}{Du siehst einen Zuhälter. Er sieht schick genug aus, um Zuhälter des Jahres zu werden.}
 {155}{}{Du siehst einen Zuhälter mit Klamotten, geschmackloser als eine abgestandene Flasche Mineralwasser.}
-
-# 1. ENCLAVE DESTROYED (MALE)
 {200}{}{Mann, ich hab gehört du hast die Enklave zerstört. Vielleicht wirst du ja jetzt locker?}
 {201}{}{Mann zerstört die Enklave, glaubst du jetzt, dass dir die Welt gehört...}
 {202}{}{Yo, Mann! Das einzige was besser ist als ne Bohrinsel in die Luft zu blasen, ist an deinem Bohrer geblasen zu werden, du weißt was ich meine?}
-
-# 2. ENCLAVE DESTROYED (FEMALE)
 {220}{}{Ich habe gehört du hast die Enklave zerstört, Lady. Willst du jetzt vielleicht für mich arbeiten?}
 {221}{}{Frau zerstört die Enklave, du glaubst jetzt die Welt gehört dir...}
 {222}{}{Eine sexy, enklavensprengende Frau wie du könnte eine Menge Chips in dieser Stadt machen...}
-
-# 3. (MALE PORN STAR)
-{230}{}{Die Frauen sollten besser mein Geld haben...}
-{231}{}{Diese Touristen sind nicht so geil wie ich sie gerne hätte.}
+{230}{}{Die Tussi sollte mein Geld lieber haben...}
+{231}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {232}{}{Die Schlampe verheimlicht mir besser nichts...}
 {233}{}{Mach dann weiter. Tue was du willst.}
 {234}{}{Willste 'n bißchen Action?}
@@ -36,14 +27,12 @@
 {243}{}{Ich hab diese eine Frau, die musst du einfach für deinen nächsten Film testen; Sie hat einen richtig geilen knackigen Arsch.}
 {244}{}{Laß mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {245}{}{Ich verstehe nicht wie jemand wie du ein Star werden konnte...}
-
-# 4. (PORN STAR FEMALE)
 {260}{}{Die Tussi sollte mein Geld lieber haben...}
 {261}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {262}{}{Die Schlampe verheimlicht mir besser nichts...}
 {263}{}{Mach dann weiter. Tue was du willst.}
-{264}{}{Sie dir mal diesen extra knackigen Hintern an.}
-{265}{}{Oh Baby lass mich mal an deinen kleinen, knackigen Hintern.}
+{264}{}{Sie sich einer diesen Prachtarsch an.}
+{265}{}{Baby, Komm und lass mich an deinen geilen Hintern.}
 {266}{}{::Pfeift::}
 {267}{}{::Verdammt bist du heiß::}
 {268}{}{Tanzt du in nächster Zeit in einem der Kasinos, Süße?}
@@ -55,10 +44,8 @@
 {274}{}{Verdammt, Körper wie deiner sollten verboten werden.}
 {275}{}{Frau, es ist ein Wunder, dass unter deinen Beinen nicht der Asphalt schmilzt.}
 {276}{}{Komm und arbeite für mich. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
-{277}{}{Baby lass mich deinen knackigen Hintern mal Anfassen.}
+{277}{}{Baby, lass mich mal an deinen Prachtarsch.}
 {278}{}{Verdammt.}
-
-# 5. (MALE, MADE MAN)
 {290}{}{Die Tussi sollte mein Geld lieber haben...}
 {291}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {292}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -74,9 +61,7 @@
 {302}{}{Du bist der Mann, der HAUPT Mann, weißt du was ich meine?}
 {303}{}{Laß mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {304}{}{Der Gangster kommt...}
-{305}{}{Big Mann kommt hier durch...}
-
-# 6. (FEMALE MADE MAN)
+{305}{}{Big Man kommt...}
 {320}{}{Die Tussi sollte mein Geld lieber haben...}
 {321}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {322}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -84,12 +69,10 @@
 {324}{}{Verdammt, ich liebe Frauen die sich nicht an Gesetze halten.}
 {325}{}{Du siehst gut aus Schwester, echt gut.}
 {326}{}{Netter Zwirn Schwester.}
-{327}{}{Dein Style, Leder und Verbrechen, ich liebe es.}
-{328}{}{Sag das Wort und ich stehe hinter dir Schwester.}
-{329}{}{Ich steh hinter dir Schwester.}
+{327}{}{Dein Style, Leder und Prügel, ich liebe es.}
+{328}{}{Sag das Wort und ich stehe voll hinter dir Schwester.}
+{329}{}{Ich stehe hinter dir Schwester.}
 {330}{}{Ich liebe dein rabenschwarzes Haar und deine Gangstereinstellung Baby.}
-
-# 7. (MALE PRIZEFIGHTER)
 {350}{}{Die Tussi sollte mein Geld lieber haben...}
 {351}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {352}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -99,7 +82,7 @@
 {356}{}{Sprich mit mir Champ. Ich hab ne Frau für dich.}
 {357}{}{Das hier ist keine verarsche Mann, ich gebe dir ne besonders gute Frau?}
 {358}{}{Du siehst gut aus Mann. Champ, du siehst echt gut aus.}
-{359}{}{Leg mich bloß nicht flach, hörst du?}
+{359}{}{Aber nicht das du mich flachlegst, hörst du?}
 {360}{}{Ich habe 100 Chips auf dich gesetzt Champ, also enttäusche mich nicht.}
 {361}{}{Brauchst du nen Sparingspartner heute Nacht? Ich hab eine süße für dich.}
 {362}{}{Sag das Wort und ich stehe voll hinter dir Champ.}
@@ -107,8 +90,6 @@
 {364}{}{Laß mich für dich sorgen Champ. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {365}{}{Hier kommt der Champ...}
 {366}{}{Big Man kommt...}
-
-# 8. (FEMALE PRIZEFIGHTER)
 {380}{}{Die Tussi sollte mein Geld lieber haben...}
 {381}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {382}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -123,8 +104,6 @@
 {391}{}{Aber nicht das du mich flachlegst, hörst du?}
 {392}{}{Ich habe 100 Chips auf dich gesetzt Schwester, also enttäusch mich jetzt nicht.}
 {393}{}{Ich liebe dein rabenschwarzes Haar und deinen linken Hacken Baby.}
-
-# 9. FLOAT (COMPANION: MYRON)
 {410}{}{Die Tussi sollte mein Geld lieber haben...}
 {411}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {412}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -146,13 +125,11 @@
 {428}{}{Yo, Myron! Brauchst du ne Freundin  für die Nacht? Ich habe da ne echt Süße.}
 {429}{}{Das hier sind keine Sklaven, sondern Profis, hörste?}
 {430}{}{Myron! Junge,du schuldest mir noch was von letzter Woche!}
-{431}{}{Kann sie einen Golfball durch nen Gartenschlauch saugen? Natürlich kann sie das.}
+{431}{}{Die Frau kann einen Golfball durch einen Gartenschlauch saugen.}
 {432}{}{Ich hab Frauen, die machen aus dir 'nen richtigen Mann und kosten nur ein paar Chips.}
 {433}{}{Ich hab in meinem Stall die besten Pferdchen.}
 {434}{}{Was machst du eigentlich da draußen in den Ställen Myron? Suchst du da nach neuen Talenten?}
 {435}{}{Hat dich der alte Mordino endlich rausgelassen Myron?}
-
-# 10. (COMPANION: SPOUSE = FEMALE)
 {440}{}{Die Tussi sollte mein Geld lieber haben...}
 {441}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {442}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -173,8 +150,6 @@
 {457}{}{Sie ist also nur deine Frau, du solltest in dieser Stadt gut auf sie aufpassen.}
 {458}{}{Das hier ist meine Ecke. Schick deine Schlampe woanders hin.}
 {459}{}{Wäre besser für dich wenn ich die hier nicht anschaffen sehe.}
-
-# 11. FLOAT (MALE SLAVER)
 {470}{}{Die Tussi sollte mein Geld lieber haben...}
 {471}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {472}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -187,24 +162,22 @@
 {479}{}{Brauchste für heute nacht 'nen Freund? Ich besorg dir was Süüüßes.}
 {480}{}{Das hier sind keine Sklaven, sondern Profis, hörste?}
 {481}{}{Hast du Ware zum Anbieten Sklavenhändler? Ich brauche ein neues Gesicht.}
-{482}{}{Die kann einen Golfball durch nen Gartenschlauch saugen.}
+{482}{}{Die Frau kann einen Golfball durch einen Gartenschlauch saugen.}
 {483}{}{Ich hab Frauen, die machen aus dir 'nen richtigen Mann und kosten nur ein paar Chips.}
 {484}{}{Ich hab in meinem Stall die besten Pferdchen.}
-{485}{}{Wenn ich nachher ein paar Frauen vermisse, weiß ich wo ich suchen muss, Sklavenhändler!}
+{485}{}{Sklavenhändlerin, wenn nachher eine meiner Frauen fehlt, weiß ich wo ich suchen muss. Kapiert?}
 {486}{}{Laß mich für dich sorgen Sklavenhändler. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
-{487}{}{Ich habe ne Frau, die solltest du dir mal ansehen Sklavenhändler, die hat nen echten Prachtarsch.}
-{488}{}{Ich will keine Frauen kaufen, aber vielleicht verkaufe ich dir später ein paar.}
-{489}{}{Meine Frauen machen keinen Teebeutel Sklavenhändler.}
+{487}{}{Ich hab da ne Frau die du dir ansehen solltest Sklavenhändlerin, die hat einen echten Prachtarsch.}
+{488}{}{Ich will keine Sklaven kaufen, aber vielleicht habe ich nachher ein paar Frauen, die ich die verkaufen kann.}
+{489}{}{Meine Frauen machen keine Teebeutel Sklavenhändler.}
 {490}{}{Sklavenhändler, wehe ich erwische dich, wie du meinen Frauen den Hintern grün und blau schlägst.}
 {491}{}{Seit Myron da war haben alle meine Frauen so nen marschmallowartigen Ausschlag.}
 {492}{}{Wenn Myron noch einmal meine Frauen als Stahlarbeiter verkleidet prügel ich ihn windelweich.}
-{493}{}{Wenn ich nachher ein paar Frauen vermisse, weiß ich wo ich suchen muss, Sklavenhändler!}
+{493}{}{Sklavenhändlerin, wenn nachher eine meiner Frauen fehlt, weiß ich wo ich suchen muss. Kapiert?}
 {494}{}{Sklavenhändler, wenn du irgendwo billigere Frauen findest gleiche ich den Preis aus.}
 {495}{}{Meine Frauen machen keine Teebeutel Sklavenhändler.}
-{496}{}{Ich hätte ein paar Frauen die ich vielleicht an dich verkaufen könnte, wenn sie noch mal frech werden.}
+{496}{}{Wenn ein paar von meinen Frauen wieder frech werden, hab ich vielleicht nachher noch etwas Ware zu verkaufen.}
 {497}{}{Sklavenhändler sind in dieser Stadt immer willkommen.}
-
-# 12. (FEMALE SLAVER)
 {500}{}{Die Tussi sollte mein Geld lieber haben...}
 {501}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {502}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -218,8 +191,6 @@
 {510}{}{Ich will keine Sklaven kaufen, aber vielleicht habe ich nachher ein paar Frauen, die ich die verkaufen kann.}
 {511}{}{Ich hab da ne Frau die du dir ansehen solltest Sklavenhändlerin, die hat einen echten Prachtarsch.}
 {512}{}{Sklavenhändler sind in dieser Stadt immer willkommen.}
-
-# 13. (MALE, NO REP)
 {520}{}{Die Tussi sollte mein Geld lieber haben...}
 {521}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {522}{}{Die Schlampe verheimlicht mir besser nichts...}
@@ -244,8 +215,6 @@
 {541}{}{Ich töte dich wenn ich dich dabei erwische wie du die Frauen als Stahlarbeiter aus Cleveland verkleidest.}
 {542}{}{Willste 'n bißchen Action?}
 {543}{}{Ich hab die besten Nutten in ganz New Reno. Probier sie nur aus, wirst schon sehen.}
-
-# 14. (FEMALE, NO REP)
 {550}{}{Die Tussi sollte mein Geld lieber haben...}
 {551}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {552}{}{Die Schlampe verheimlicht mir besser nichts...}

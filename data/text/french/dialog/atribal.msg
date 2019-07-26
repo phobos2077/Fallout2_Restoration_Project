@@ -1,6 +1,5 @@
 {100}{}{Tu vois un tribal.}
 {101}{}{Tu vois un homme d'apparence robuste.}
-
 {200}{}{Salutations.}
 {201}{}{Bienvenue à l'Abbaye.}
 {202}{}{Salut.}
@@ -9,5 +8,4 @@
 {205}{}{Salutations.}
 {206}{}{Jolie tenue !}
 {207}{}{Bonjour, frère tribal !}
-
 {500}{}{Touche pas à mes affaires !}

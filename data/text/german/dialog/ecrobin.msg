@@ -5,7 +5,6 @@
 {104}{}{Du wirst mir nicht weh tun, oder?}
 {105}{}{Für Gewalt gibt's keinen Grund, oder?}
 {106}{}{Bitte geh.}
-
 {200}{}{Mann! Deine Hände sind ja eiskalt!}
 {201}{}{Das gehört dir nicht.}
 {202}{}{Hey, das sind meine Sachen!}

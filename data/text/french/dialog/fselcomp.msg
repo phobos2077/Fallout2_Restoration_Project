@@ -3,12 +3,12 @@
 {102}{}{Tu vois un ordinateur. Il semble en état de marche même s'il a l'air très vieux.}
 {103}{}{Cette unité n'accepte pas les commandes. Au revoir.}
 {104}{}{[Tu as beau essayer, tu ne parviens pas à casser le code de cryptage de cet ordinateur.]}
-{105}{}{[Déconnexion]}
+{105}{}{[Se déconnecter]}
 {106}{}{Bienvenue sur HubLink.}
 {107}{}{Veuillez entrer vos commandes.}
 {108}{}{Accéder à la base de données.}
 {109}{}{Commandes d'accès.}
-{110}{}{[Déconnexion]}
+{110}{}{[Se déconnecter]}
 {111}{}{Sélectionner la base de données.}
 {112}{}{Rechercher.}
 {113}{}{Objectifs futurs.}
@@ -31,22 +31,18 @@
 {130}{}{Opération limitée. Veuillez consulter l'administrateur système. Déconnexion en cours. Au revoir.}
 {131}{}{[Terminé]}
 {132}{}{On dirait qu'il n'existe aucune interface pour ça.}
-
 {133}{}{HSS Quetzel ravitaillé en carburant et prêt à décoller.}
 {134}{}{HSS Quetzel non ravitaillé.}
 {135}{}{Ordinateur central opérationnel. Pipeline opérationnel. Stations de recherche opérationnelles. Centre de réparations opérationnel. Caméras opérationnelles.}
 {136}{}{[Retour]}
-{137}{}{[Déconnexion]}
-
+{137}{}{[Se déconnecter]}
 {200}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste à demander aux nouvelles recrues de faire don à l'Eglise de tous leurs biens terrestres en témoignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont caché un butin colossal quelque part dans le désert. Après quelques piratages et de complexes calculs mathématiques, tu réussis à déterminer les coordonnées de son emplacement. Tu les notes dans ton Pip-Boy.]}
 {201}{}{[L'Eglise d'Hubol semble incroyablement riche. L'approche standard consiste à demander aux nouvelles recrues de faire don à l'Eglise de tous leurs biens terrestres en témoignage de leur bonne foi. Lorsque les Hubologistes ne le demandent pas, ce n'est pas bon signe. Ils ont caché un butin colossal quelque part dans le désert. Tu en as déjà déterminé l'emplacement.]}
 {210}{}{[Pirater l'ordinateur]}
 {211}{}{[Après un certain temps, tu as obtenu le plein accès à l'unité centrale. Tu peux désormais faire ce que tu veux.]}
 {212}{}{[Formater l'unité centrale]}
 {213}{}{Initialisation de la procédure de formatage... Initialisation... Formatage... Formatage effectué... Fermeture du programme en cours. Au revoir.}
-
 {220}{}{Tu formates l'unité centrale des Hubologistes.}
-
-{250}{}{Diriger le carburant vers le cargo Poseidon.}
+{250}{}{Transférer carburant vers pétrolier Poséidon.}
 {251}{}{Carburant correctement transféré. Réservoirs de stockage = vides. Fermeture du programme en cours.}
 {252}{}{[Terminé]}

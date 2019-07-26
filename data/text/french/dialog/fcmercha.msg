@@ -1,15 +1,15 @@
-{100}{}{Tu vois un commerçant.}
-{101}{}{Tu vois une commerçante.}
+{100}{}{Tu vois un marchand.}
+{101}{}{Tu vois un marchand.}
 {102}{}{Tu vois un marchand Shi affairé. Comme tous les autres, il semble brasser de l'air.}
 {103}{}{Achetez mes pieuvres ! Elles sont délicieuses !}
 {104}{}{Tu aimes le poisson ? Nous avons du poisson ?}
 {105}{}{Hé ! Hé ! Achète ça ! Achète ça !}
 {106}{}{Ne fais pas affaire avec lui ! C'est un voleur !}
 {107}{}{Viens ici et regarde ça ! Ca va te plaire !}
-{108}{}{Regardez ! Regardez !}
+{108}{}{Regarde ! Regarde ! Regarde !}
 {109}{}{Hé, gaijin ! Tu veux faire des affaires ? J'ai des affaires à te proposer !}
-{110}{}{Viens ici ! Viens ici !}
-{111}{}{Tu penses que ça c'est bien ? Regarde ça !}
+{110}{}{Viens ici ! Viens ici ! Viens ici !}
+{111}{}{Tu penses que c'est bien ça ? Regarde ça !}
 {112}{}{On a du poisson, on a des algues, on a du riz, on a... Hum...}
 {113}{}{Il ne pousse pas grand chose ici, mais tout ce qui pousse, on l'a en stock !}
 {114}{}{Toi rentrer chez toi ! Toi rentrer chez toi, gaijin !}
@@ -25,7 +25,7 @@
 {124}{}{Hé ! Hé ! Achète ça ! Achète ça !}
 {125}{}{Ne fais pas affaire avec lui ! C'est un voleur !}
 {126}{}{Viens ici et regarde ça ! Ca va te plaire !}
-{127}{}{Regarde ! Regarde !}
+{127}{}{Regarde ! Regarde ! Regarde !}
 {128}{}{Hé gaijin ! Tu veux faire des affaires ? J'ai des affaires à te proposer !}
 {129}{}{Viens ici ! Viens ici ! Viens ici !}
 {130}{}{Tu penses que c'est bien ça ? Regarde ça !}

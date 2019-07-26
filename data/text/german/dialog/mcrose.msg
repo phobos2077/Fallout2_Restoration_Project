@@ -1,7 +1,6 @@
 {100}{}{Eine nette, mollige Frau.}
 {101}{}{Rose.}
 {102}{}{Ihr graues Haar ist in einen losen Knoten geschlungen und sie watschelt etwas beim Laufen. In ihrer Nähe muß man sich einfach entspannen.}
-
 {150}{}{Tut mir leid, wir haben geschlossen. Wir haben einen Todesfall in der Familie. [schnüff]}
 {151}{}{He! Außer mir darf niemand an die Kiste mit den Fundsachen ran.}
 {152}{}{Langsam glaube ich, du bist ein Dieb!}
@@ -51,7 +50,7 @@
 {200}{}{Ah, das ist meine Spezialität. Ich hoffe du hast ordentlich Hunger. Ich versichere dir, du hast noch nie ein Omelett wie dieses gegessen. [Sie geht und kommt mit dem größten Omelett zurück, das du je gesehen hast.]}
 {201}{}{[Nach einer derartig riesigen Mahlzeit fühlst du dich gestärkt.]}
 {202}{}{[Sie verschwindet rasch hinter der Theke und kommt mit deiner Bestellung zurück.]}
-{203}{}{Kann ich dir ein paar Fragen stellen?}
+{203}{}{Ich hätte da ein paar Fragen?}
 {204}{}{Tut mir leid, Schätzchen, ich muß meine Kunden bedienen. Wenn du was bestellst, hätt ich vielleicht Zeit, zwischen den Bestellungen etwas mit dir zu plaudern.}
 {205}{}{Wenn das so ist, habe ich einen Riesenhunger. Was gibt's denn zu essen?}
 {206}{}{Sicher, wenn es nicht zu lange dauert. Ich will die anderen Gäste nicht warten lassen.}
@@ -77,5 +76,4 @@
 {229}{}{Ich bin aber wirklich hungrig. Was gibt's denn sonst noch so.}
 {230}{}{Und ich hab mich so auf dein weltberühmtes Omelett gefreut! Dann muß ich wohl noch ein bißchen weiterhungern.}
 {231}{}{Ahh! Ooh!}
-
 {300}{}{[Sie kommt schnell mit einem Glas zurück, in dem eine braune, flüssige Substanz ist. Es fällt auf, das mehr Dreck als Wasser im Glas ist. Wie auch immer, du bist so durstig, daß du das Glas mit einem Zug leerst.] Ich habe dir noch ein Plätzchen mitgebracht, Süßer.}

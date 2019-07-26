@@ -7,7 +7,7 @@
 {106}{}{Widzisz wychudzonego mê¿czyznê... Ma wyraŸne symptomy choroby popromiennej.}
 {107}{}{Widzisz Charliego... chyba trochê przyty³ i oddycha normalnie.}
 {108}{}{Widzisz Charliego.}
-{109}{}{Widzisz Charliego... chyba trochê przyty³ i zacz¹³ normalnie oddychaæ.}
+{109}{}{Widzisz Charliego... chyba trochê przyty³ i oddycha normalnie.}
 {110}{}{Ten cz³owiek cierpi na chorobê popromienn¹. Twoje umiejêtnoœci nie wystarcz¹, ¿eby mu pomóc. On potrzebuje pomocy medycznej.}
 {111}{}{Ten cz³owiek wygl¹da na bardzo schorowanego. Nie wiesz co mu dolega.}
 {112}{}{Dziêki, ale nic mi nie jest. Ten AntyRad bardzo mi pomóg³.}

@@ -1,7 +1,8 @@
 {100}{}{Un représentant.}
 {101}{}{Willy.}
 {102}{}{Un représentant rusé.}
-{103}{}{Salut, je m'appelle Willy et je veux te proposer un marché. [On dirait qu'il lit une carte, et après un moment, tu t'endors.]}
+{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
+ a card, and after a while you doze off.]}
 {104}{}{<Zzzzzzz...>}
 {105}{}{[Groggy, tu ouvres les yeux, et tu t'aperçois que quelqu'un te donne des coups.] Alors, ça t'intéresse ou pas ?}
 {106}{}{C'est quoi qui devrait m'intéresser ?}
@@ -18,7 +19,7 @@
 {117}{}{[Fin]}
 {118}{}{Putain, tu me fais perdre mon temps ! Allez, casse-toi !}
 {119}{}{[Fin]}
-{120}{}{Quel gaspillage de salive pour rien... $} #continue on 152
+{120}{}{Quel gaspillage de salive pour rien... $}
 {121}{}{Ouais !}
 {122}{}{Non.}
 {123}{}{Hé, encore toi. J'ai des nouvelles choses, ça t'intéresse ?}
@@ -50,6 +51,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-
 {152}{}{. Tu le veux ou pas ?}
 {200}{}{.}

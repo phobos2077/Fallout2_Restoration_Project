@@ -7,5 +7,4 @@
 {106}{}{Jeszcze tylko trochê.}
 {107}{}{To wygl¹da na po prostu niemo¿liwe do naprawienia.}
 {108}{}{Gdy tylko generator wraca do ¿ycia, w³¹czaj¹ siê s³abe œwiat³a.}
-
 {200}{}{Uda³o ci siê naprawiæ generator zasilania.}

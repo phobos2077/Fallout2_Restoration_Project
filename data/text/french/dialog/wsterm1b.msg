@@ -25,7 +25,7 @@
 {129}{}{[Appuyer sur 2]}
 {130}{}{[Appuyer sur 3]}
 {131}{}{Attention ! Ce programme fonctionne mieux si vous fermez tous les autres programmes. Fermer tous les autres programmes maintenant ?}
-{132}{}{Oui.}
+{132}{}{[Extraire]}
 {133}{}{Non.}
 {134}{}{[Quitter]}
 {135}{}{Fermeture de tous les programmes                                  Arrêt du programme de sécurité Skynet - Niveau 1        Dernier diagnostic système 15 oct. 1990        Analyse du système...                                             Temps nécessaire estimé 99:24:60:60}
@@ -34,5 +34,4 @@
 {138}{}{[Quitter]}
 {139}{}{Accès non autorisé                                            Initiation du verrouillage de sécurité du terminal distant                  L'accès utilisateur à ce terminal est TERMINE}
 {140}{}{[Quitter]}
-
 {200}{}{L'ordinateur est en mode diagnostic. Veuillez patienter jusqu'à la fin de la routine de diagnostic.}

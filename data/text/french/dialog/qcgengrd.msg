@@ -3,9 +3,9 @@
 {102}{}{Tu vois une personne portant une SuperArmure qui a l'air particulièrement sophistiquée.}
 {103}{}{Qui va là ?}
 {104}{}{Avance.}
-{105}{}{Tu veux ma photo ?}
-{106}{}{Dégage.}
-{107}{}{On ne traîne pas !}
+{105}{}{Qu'est-ce que tu regardes ?}
+{106}{}{Dégage !}
+{107}{}{On ne traîne pas.}
 {108}{}{Je vais te mettre au rapport.}
 {109}{}{Reprends le travail.}
 {110}{}{As-tu l'autorisation d'être dans cette section ?}
@@ -42,7 +42,7 @@
 {141}{}{Bougez pas d'un millimètre les gars !}
 {142}{}{A nous de faire notre travail !}
 {143}{}{Bien sûr, sergent.}
-{144}{}{A vos ordres.}
+{144}{}{Oui monsieur.}
 {145}{}{Section B, rien à signaler.}
 {146}{}{Couloir, rien à signaler.}
 {147}{}{Retour au poste.}

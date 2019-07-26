@@ -2,4 +2,3 @@
 {101}{}{Du siehst ein Loch im Höhlenboden.}
 {102}{}{ sieht ein Loch im Höhlenboden.}
 {103}{}{Du siehst ein Loch im Höhlenboden.}
-

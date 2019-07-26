@@ -3,4 +3,4 @@
 {102}{}{Ich werde dir Helfen.}
 {103}{}{Ich rede nicht viel..}
 {104}{}{Sieht so aus, als könntest du Unterstützung gebrauchen.}
-{105}{}{Let's rock!} #extra nicht übersetzt!
+{105}{}{Let's rock!}

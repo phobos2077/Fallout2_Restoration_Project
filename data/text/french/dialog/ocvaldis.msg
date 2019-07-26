@@ -9,7 +9,7 @@
 {108}{}{Bonjour, qui es-tu ?}
 {109}{}{Quel est ton travail ?}
 {110}{}{Sans vouloir offenser tes amis Griffemorts, tu sembles plus... instruit, pas vrai ?}
-{111}{}{Eh bien, je fais passer le temps.}
+{111}{}{Eh bien, je fais juste passer le temps.}
 {112}{}{Je m'appelle Valdis. Et toi, qui es-tu ?}
 {113}{}{Moi humain.}
 {114}{}{Ouhhhh ! Quelque chose briller. Moi partir.}
@@ -26,12 +26,12 @@
 {125}{}{Eh bien, tu sembles bien connaître ton travail.}
 {126}{}{As-tu assez de cervelle pour savoir qui est autorisé et qui ne l'est pas ?}
 {127}{}{Oui, bien sûr. J'ai également assez de cervelle pour savoir qui est ou non un trou-du-cul, et je devine que tu excelles dans cette catégorie ! Maintenant, tu ferais mieux de partir avant que je ne me mette à danser sur ton corps.}
-{128}{}{Très bien.}
+{128}{}{D'accord.}
 {129}{}{Sale lézard. Maintenant, je vais devoir te tuer.}
 {130}{}{Hé, je regrette. Je vais faire attention à ce que je dis maintenant.}
 {131}{}{Oui. Nous sommes assez différents en termes d'éducation. Je fais de mon mieux pour en apprendre davantage pendant mon temps libre.}
 {132}{}{Un iguane qui a un but dans la vie. Comme c'est mignon.}
-{133}{}{Toi faire bien.}
+{133}{}{Tu fais de bonnes choses.}
 {134}{}{C'est un excellent objectif. Continue comme ça.}
 {135}{}{Hein ? Je sais bien que tu es humain. Je voulais juste connaître ton nom.}
 {136}{}{Toi pas demander nom, demander "qui être". Moi être humain.}
@@ -49,5 +49,4 @@
 {148}{}{Ouais.}
 {149}{}{Bonne journée.}
 {150}{}{Je regrette mais je vais devoir te tuer.}
-
 {151}{}{.}

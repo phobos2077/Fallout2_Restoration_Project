@@ -4,7 +4,7 @@
 {103}{}{Je suis le Dr Henry. Désolé mais je suis très occupé. Que veux-tu ?}
 {104}{}{Encore toi ? Que veux-tu ?}
 {105}{}{Arghh.}
-{106}{}{Je m'appelle }
+{106}{}{Je suis}
 {107}{}{Assez bavardé. M. Merk veut des papiers que tu détiens. Donne-les moi et personne ne sera blessé.}
 {108}{}{Tu as déjà entendu parler d'un endroit appelé L'Enclave ?}
 {109}{}{Ca te regarde pas.}
@@ -22,7 +22,7 @@
 {121}{}{Oh, c'est un nouveau domaine, passionnant. Je travaille sur des projets en ce moment, entre autres un concept radicalement nouveau sur le problème des mutants. C'est très simple : la mutation n'est pas irrémédiable. Ca peut se soigner.}
 {122}{}{Bien sûr mes collègues simples d'esprit ont essayé de résoudre le problème crûment, par la purification. Je dois admettre qu'il y a eu des problèmes au début, mais j'ai trouvé des solutions... Je crois}
 {123}{}{}
-{124}{}{Continue.}
+{124}{}{[Continuer]}
 {125}{}{En fait, tu pourrais m'aider à mener mes expériences sur le terrain. Ca t'intéresse ? }
 {126}{}{Des expériences sur le terrain ? Que veux-tu dire ?}
 {127}{}{Cours toujours.}
@@ -31,9 +31,9 @@
 {130}{}{C'est bon, j'me casse.}
 {131}{}{Toi ? Oh non. Le sérum n'est pas assez raffiné pour supporter un quotient mutagénique aussi faible. Il doit être utilisé sur un Super Mutant. Les Collines Brisées en ont plein. Rends-toi là-bas, injecte le sérum sur un Super Mutant et rapporte-moi les résultats.}
 {132}{}{Qu'est-ce que ça fait ?}
-{133}{}{Qu'est-ce que je gagne ?}
+{133}{}{Qu'est-ce que j'y gagne ?}
 {134}{}{Ca devrait entraîner une régression du code génétique, une déstabilisation et une assimilation d'un ADN anormal, ce qui ôterait au cobaye son potentiel mutagénique. Si c'était prouvé, je n'aurais pas besoin que tu le testes.}
-{135}{}{Qu'est-ce que je gagne ?}
+{135}{}{Qu'est-ce que j'y gagne ?}
 {136}{}{Tu participeras à une expérience importante, et même capitale dans le domaine scientifique... Oh, mais attends... Tu veux parler d'argent ! J'ai un Cyber-Chien Mk II, Modèle de Sécurité Personnel. Je pourrais l'activer et le mettre en ligne pour ton retour. Ca t'irait ?}
 {137}{}{Un cyber-chien ? Pourquoi pas.}
 {138}{}{Tu as perdu la boule ? Complètement barjo !}

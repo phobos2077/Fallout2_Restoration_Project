@@ -19,7 +19,7 @@
 {118}{}{Ici, c'est le bureau des DOUANES. Comme le panneau l'indique. Si tu n'as rien à déclarer, que fais-tu ici ?}
 {119}{}{Je cherchais l'Abri.}
 {120}{}{Je cherchais à entrer à l'intérieur de la Cité.}
-{121}{}{Puisque tu fais partie du service des douanes, je me demandais si tu n'avais pas quelques *conseils* sur la façon de faire entrer des biens dans la cité.}
+{121}{}{Puisque tu fais partie du service des douanes, je me demandais si tu n'avais pas quelques *conseils* sur la façon de faire entrer des biens dans la Cité.}
 {122}{}{Rien. Je m'excuse de t'avoir dérangé.}
 {123}{}{L'Abri ? Il est à l'intérieur de la Cité. Pourquoi ? Tu cherches à passer ?}
 {124}{}{Oui.}
@@ -70,7 +70,7 @@
 {169}{}{Eh bien, $200 c'est un peu trop pour moi. Je reviendrai peut-être si je trouve l'argent.}
 {170}{}{Tant pis. On en reparlera peut-être une autre fois.}
 {171}{}{Hummm. Bon d'accord... Je suis d'humeur charitable aujourd'hui. Mais ne dis pas à tes amis étrangers que tu les as eus pour cette somme.}
-{172}{}{Très bien.}
+{172}{}{D'accord.}
 {173}{}{Allez, donne-les moi ces maudits papiers.}
 {174}{}{Très bien, ils sont en cours d'impression... *citoyen*. Ne parle de cela à personne, SURTOUT pas à Wallace, c'est d'accord ?}
 {175}{}{Pas de problème. Je ne ferai jamais une chose pareille à un citoyen intègre comme toi, en particulier lorsque j'ai une preuve de tes activités illégales juste ici dans ma poche.}
@@ -103,7 +103,7 @@
 {202}{}{Ecoute, andouille, va-t'en d'ici ou j'appelle les gardes.}
 {203}{}{Ecoute, andouille, va-t'en d'ici ou - Humm. Attends une minute. Peut-être que...}
 {204}{}{Heurnh ?}
-{205}{}{Casse-toi !}
+{205}{}{Dégage !}
 {206}{}{Viens avec moi une seconde, andouille. Il y a quelqu'un que j'aimerais te présenter.}
 {207}{}{D'ac.}
 {208}{}{Oui, oui MOI RESTER.}
@@ -130,7 +130,7 @@
 {229}{}{D'aaaaccord.}
 {230}{}{Dégage !}
 {231}{}{Comme je te l'ai déjà dit, je peux t'accorder la citoyenneté pour $200. Tu pourras franchir librement la porte, sans embêtements. Je peux faire les papiers, enregistrer ton numéro d'identification, et te laisser repartir en cinq minutes.}
-{232}{}{Que faut-il faire pour devenir un vrai citoyen ?}
+{232}{}{Que doit-on faire pour devenir un vrai citoyen ?}
 {233}{}{Et que se passera-t-il sinon ? Je peux aller tout de suite lui dire que tu vends des faux papiers de citoyenneté.}
 {234}{}{Oui, j'espère. Je sais convaincre quand je m'en donne la peine.}
 {235}{}{On va voir ça.}

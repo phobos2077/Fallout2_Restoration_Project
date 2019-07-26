@@ -11,7 +11,7 @@
 {110}{}{Podobno by³y u ciebie jakieœ problemy z kilkoma karawanami. Ka¿dy ma czasem problemy - byle nie za czêsto.}
 {111}{}{S³ysza³em, ¿e karawaniarstwo to dla ciebie nie pierwszyzna. To dobrze. Zawsze przyda siê kilku dobrych stra¿ników.}
 {112}{}{Kim jesteœ?}
-{113}{}{Czy wkrótce wyje¿d¿aj¹ jakieœ karawany?}
+{113}{}{Czy w tej chwili wyje¿d¿aj¹ jakieœ karawany?}
 {114}{}{Dok¹d zazwyczaj wyje¿d¿aj¹ karawany z Redding?}
 {115}{}{S³ysza³eœ mo¿e ostatnio jakieœ wieœci o mieœcie?}
 {116}{}{S³ysza³eœ kiedyœ o czymœ, co nazywa siê Generator Ekosystemu Cudownej Krainy?}
@@ -27,9 +27,9 @@
 {126}{}{Twojego zamku? O co ci chodzi?}
 {127}{}{Okej... Idê z nimi pogadaæ. Na razie! Dziêki!}
 {128}{}{JeŸdzimy z karawanami wszêdzie. Mówiê ci, wiêksz¹ czêœæ z³ota wywozimy do Kryptopolis, czêœæ do Nowego Reno (ciekawe miasteczko, rozumiesz...), a reszta jedzie do tej cholernej, sztywnej RNK.}
-{129}{}{Co wiesz na temat Kryptopolis?}
-{130}{}{Co wiesz na temat Nowego Reno?}
-{131}{}{Co wiesz na temat RNK?}
+{129}{}{A co powiesz na temat Kryptopolis?}
+{130}{}{A co powiesz na temat Nowego Reno?}
+{131}{}{A co powiesz na temat RNK?}
 {132}{}{Pomówmy o czymœ innym.}
 {133}{}{To wszystko, co chcê na razie wiedzieæ. Dziêkujê, do widzenia.}
 {134}{}{A czym¿e innym jest dom? Kurczê... Wychowali ciê w namiocie czy co?}
@@ -61,13 +61,13 @@
 {160}{}{Nie za wiele siê dzieje. To co zwykle, kopanie, karawany i inne takie.}
 {161}{}{Tia, ten ktoœ to ja... coœ siê nie podoba?}
 {162}{}{Ktoœ musi utrzymaæ porz¹dek w tym zawszonym mieœcie.}
-{163}{}{Pozwól, ¿e o coœ ciê spytam.}
+{163}{}{Pozwól, ¿e o coœ spytam.}
 {164}{}{Tak tylko sprawdzam. Dziêki i na razie.}
 {165}{}{Nie ma problemu. Ale wiesz, ¿e mieszasz siê w politykê, robi¹c to?}
 {166}{}{Jak to?}
 {167}{}{Ale¿ tak, oczywiœcie. Do widzenia.}
 {168}{}{No, bo zale¿nie od tego, komu oddasz ten procesor, ten dorobi siê naprawdê ciê¿kiej kasy, a drugi pójdzie z torbami.}
-{169}{}{No i?}
+{169}{}{I...?}
 {170}{}{Tak to jest w kapitalizmie, przyjacielu. Do zobaczenia.}
 {171}{}{Jeœli dostanie go kopalnia Morningstar, to w mieœcie pojawi siê du¿o wiêcej Jetu. Z kolei jeœli dasz procesor Marge LeBarge z kopalni Kokoweef, to w mieœcie pojawi siê du¿o pajaców z RNK. W ka¿dym razie ktoœ wygra, a ktoœ inny przegra.}
 {172}{}{Jeœli nie ja, to i tak ktoœ inny to zrobi. Powiedz mi jeszcze coœ...}

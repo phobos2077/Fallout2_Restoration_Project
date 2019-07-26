@@ -21,7 +21,7 @@
 {120}{}{::Pantomimes applaudissant, et grondement d'une foule::}
 {121}{}{2 secondes}
 {122}{}{Me-me-merci, me-me-merci... Qu-qu-quel merveilleux public !}
-{123}{}{2 secondes.}
+{123}{}{2 secondes}
 {124}{}{Un bi-bis ? Da-d'accord !}
 {125}{}{<Snifff>}
 {126}{}{Que ?!! Aighhh !}
@@ -43,7 +43,7 @@
 {142}{}{Ch'est par là-là-bas... Ch'est l'ord-l'ord-l'ordinateur pa-parlant.}
 {143}{}{(C'est par là-bas. C'est l'ordinateur parlant.)}
 {144}{}{Que fais-tu ici ?}
-{145}{}{Merci. Au revoir}
+{145}{}{Merci. Au revoir.}
 {146}{}{T'as ju-ju-juste à garder un oeil sur les ch-ch-choses qui sont stockées i-i-ici et à r'garder que les p-p-portes sont bien fermées.}
 {147}{}{(Tu n'as qu'à garder un oeil sur les choses qui sont stockées ici et à t'assurer que les portes sont bien verrouillées.)}
 {148}{}{As-tu une clé ?}
@@ -71,7 +71,7 @@
 {170}{}{Tu peux pas arrêter de chanter une seconde ?!! Ca me rend dingue.}
 {171}{}{Tu as une très belle voix. Tu devrais continuer à travailler le chant.}
 {172}{}{Que fais-tu ici déjà ?}
-{173}{}{C'est pas grave. Je regrette de t'avoir dérangé.}
+{173}{}{Ca ne fait rien. Je m'excuse de t'avoir dérangée.}
 {174}{}{Me-me-merci ! C'est ge-gentil de dire ça.}
 {175}{}{Que fais-tu ici déjà ?}
 {176}{}{Je pensais que tu devais le savoir. Bonne journée.}

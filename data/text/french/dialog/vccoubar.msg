@@ -4,10 +4,10 @@
 {103}{}{Cet homme a un visage impassible. S'il a remarqué ta présence, il ne le montre pas.}
 {104}{}{Quelque chose à boire ?}
 {105}{}{Bienvenue. Je t'en prie, assieds-toi au bar.}
-{106}{}{Allez ! Prends un siège, repose-toi un peu !}
-{107}{}{Bonjour, Capitaine.}
+{106}{}{Allez ! Prends un siège et repose-toi un peu !}
+{107}{}{Bonne journée, Capitaine.}
 {108}{}{La Cité de l'Abri avant tout, Capitaine !}
-{109}{}{Bonjour, citoyen.}
+{109}{}{Salut, citoyen.}
 {110}{}{La Cité de l'Abri avant tout, citoyen !}
 {111}{}{Un mutant ! Gardes ! Gardes !}
 {112}{}{Une Goule ! Gardes ! Gardes !}
@@ -17,20 +17,20 @@
 {116}{}{Bienvenue ! On a tous entendu parler de tes exploits contre l'Enclave. Je peux te servir quelque chose ?}
 {117}{}{Awnt-awnt.}
 {118}{}{Dégage !}
-{119}{}{Qu'y a-t-il en pression ?}
+{119}{}{Qu'est-ce que t'as en pression ?}
 {120}{}{Je cherchais des renseignements.}
-{121}{}{Rien aujourd'hui, merci.}
+{121}{}{Rien pour aujourd'hui, merci.}
 {122}{}{Hé-hé, « awnt-awnt » à toi aussi. Fais attention quand tu seras dans le désert.}
 {123}{}{Oonnt-oooont !}
 {124}{}{Dégage !}
 {125}{}{Que puis-je pour vous, capitaine ?}
-{126}{}{Que puis-je faire pour toi, citoyen ? }
-{127}{}{Oui ? Je peux faire quelque chose pour toi ?}
+{126}{}{Que puis-je faire pour toi, citoyen ?}
+{127}{}{Oui, puis-je vous être utile ?}
 {128}{}{Awnt-awnt.}
 {129}{}{Dégage !}
-{130}{}{Qu'y a-t-il en pression ?}
+{130}{}{Qu'est-ce que t'as en pression ?}
 {131}{}{Je cherchais des renseignements.}
-{132}{}{Rien aujourd'hui, merci.}
+{132}{}{Rien pour aujourd'hui, merci.}
 {133}{}{Oui, « awnt-awnt » à toi aussi. Attends un peu que j'appelle les gardes pour qu'ils te « awnt-awnt » jusqu'au portail.}
 {134}{}{Ournt ! Ournt-ournt.}
 {135}{}{Dégage !}
@@ -39,8 +39,8 @@
 {138}{}{Hum.... Qu'avez-vous comme alcools de synthèse ?}
 {139}{}{Hum, vous n'auriez pas de vraies boissons ?}
 {140}{}{Un peu d'eau, ce sera parfait.}
-{141}{}{Tant pis. Je cherchais quelques renseignements.}
-{142}{}{Rien aujourd'hui, merci.}
+{141}{}{Bon. Je cherchais quelques renseignements.}
+{142}{}{Rien pour aujourd'hui, merci.}
 {143}{}{Très bien, m'sieur.}
 {144}{}{Très bien, m'dame.}
 {145}{}{Laquelle voulez-vous ? Minérale ? Distillée ? Ou gazeuse ? Elles sont toutes au prix modique de cinq dollars le verre.}
@@ -48,7 +48,7 @@
 {147}{}{Je vais essayer l'eau distillée.}
 {148}{}{Cette eau gazeuse me fera du bien.}
 {149}{}{Qu'avez-vous comme alcools de synthèse ?}
-{150}{}{Tant pis. Je cherchais quelques renseignements.}
+{150}{}{Bon. Je cherchais quelques renseignements.}
 {151}{}{C'est un peu chérot pour moi. Je reviendrai quand j'aurai plus d'argent.}
 {152}{}{Je crois que je vais m'abstenir, merci.}
 {153}{}{Nous avons des dérivés synthétiques H et T, et nous venons de mettre au point un breuvage très apprécié, l'« alcool-Z », très riche en pseudo-arômes de micro-brasserie. Chaque boisson est au prix modique de vingt dollars le verre.}
@@ -58,12 +58,12 @@
 {157}{}{Hum. Je vais tenter ce fameux alcool-Z.}
 {158}{}{Bon. Je cherchais quelques renseignements.}
 {159}{}{C'est un peu chérot. Je reviendrai quand j'aurai plus d'argent.}
-{160}{}{Rien aujourd'hui, merci.}
+{160}{}{Rien pour aujourd'hui, merci.}
 {161}{}{Autre chose ?}
 {162}{}{Je voudrais encore un peu d'eau, merci.}
 {163}{}{Qu'avez-vous comme alcools de synthèse ?}
 {164}{}{Bon. Je cherchais quelques renseignements.}
-{165}{}{Rien aujourd'hui, merci.}
+{165}{}{Rien pour aujourd'hui, merci.}
 {166}{}{Ca va bien, m'sieur ? On dirait que tout cet « alcool-Z », ça ne vous a pas réussi. Vous êtes sûr d'en vouloir encore ?}
 {167}{}{Ca va bien, m'sieur ? On dirait que tout cet « alcool-Z », ça ne vous a pas réussi. Vous êtes sûr d'en vouloir encore ?}
 {168}{}{Autre chose ?}
@@ -73,7 +73,7 @@
 {172}{}{Je vais reprendre de ce délicieux alcool-Z.}
 {173}{}{Comment sont fabriqués ces alcools de synthèse ?}
 {174}{}{En fait, je cherchais des renseignements.}
-{175}{}{Ca ira pour aujourd'hui, merci.}
+{175}{}{C'est tout pour aujourd'hui. Merci.}
 {176}{}{Les Autodocs de la Cité de l'Abri fabriquent des substituts synthétiques à des substances créant une dépendance. Si j'ai bien compris, ces produits de synthèse servaient de placebo pour les accros aux stimulants avant la guerre.}
 {177}{}{Tu as l'air d'en savoir long sur ces produits de synthèse.}
 {178}{}{Hum, vous n'auriez pas de vraies boissons ?}
@@ -113,18 +113,18 @@
 {212}{}{Bien sûr. Que voulez-vous savoir, Capitaine ?}
 {213}{}{Bien sûr. Que voulez-vous savoir, citoyen ?}
 {214}{}{Tu peux me dire qui dirige la Cité de l'Abri ?}
-{215}{}{Tu peux m'en dire un peu plus long sur l'esclavage dans la Cité de l'Abri ?}
-{216}{}{C'est pas grave. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
-{217}{}{Rien aujourd'hui, merci.}
+{215}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la Cité de l'Abri ?}
+{216}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
+{217}{}{Rien pour aujourd'hui, merci.}
 {218}{}{Bah, la Première citoyenne Lynette, bien sûr. Ca fait deux mandats qu'elle est à ce poste, maintenant. Elle doit toujours des comptes au Conseil, mais c'est elle qui décide l'essentiel des lois de la Cité de l'Abri.}
 {219}{}{Conseil ?}
 {220}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la Cité de l'Abri ?}
-{221}{}{C'est pas grave. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
+{221}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
 {222}{}{Je vois. Merci et au revoir.}
 {223}{}{Oui, il y a aussi un Conseil de la Cité de l'Abri. Le porte-parole, c'est Monsieur le Conseiller McClure. [Se penche vers toi.] En fait, McClure et la Première citoyenne se sont déjà querellés à plusieurs reprises.}
 {224}{}{Vraiment... ?}
 {225}{}{Peux-tu m'en dire un peu plus long sur l'esclavage dans la Cité de l'Abri ?}
-{226}{}{C'est pas grave. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
+{226}{}{Bon. Je voulais boire quelque chose. Qu'y a-t-il en pression ?}
 {227}{}{Je vois. Merci et au revoir.}
 {228}{}{Oh, oui. Récemment, il y a des citoyens qui ont demandé à McClure et au Conseil d'annuler certaines décisions de la Première citoyenne. Tu peux me croire que ça a fait des vagues.}
 {229}{}{Hum. Il y a autre chose que je voulais savoir...}

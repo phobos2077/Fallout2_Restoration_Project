@@ -1,12 +1,7 @@
-# QUICK LOOK
 {100}{}{Du siehst einen älteren Mann.}
 {101}{}{Du siehst den Alten McGee.}
-
-# LOOK
 {150}{}{Du siehst einen älteren Mann. Er sieht ärgerlich aus und murmelt vor sich hin.}
 {151}{}{Du siehst den Alten McGee. Er sieht ärgerlich aus und murmelt vor sich hin.}
-
-# 1. FLOAT [McGEE = JACKPOT, MALE] (WTG)
 {200}{}{Idiot! Has' mir mein Glück versaut!}
 {201}{}{Ich bring dich um! Nimm das, du Gangster!}
 {202}{}{Glaubste, ich hab den Schneid nicht, Möchtegern? Komm schon!}
@@ -18,14 +13,10 @@
 {208}{}{Willste was von mir, isses das? Ich werd dir zeigen, wo's langgeht.}
 {209}{}{Ich werd dir dein Früchtchen abschneiden, Bursche.}
 {210}{}{Ich werd dich kastrieren wie ein Brahmin.}
-
-# 2. FLOAT (McGEE = JACKPOT, FEMALE] (WTG)
 {225}{}{Du nichtsnutzige Dirne! Du has' mir mein Glück verdor'm!}
 {226}{}{Ich mach dich fertig, du kleines Luder.}
 {227}{}{Willste meine Faust spüren, Mädel?}
 {228}{}{Werd dich verprügeln, Mädel.}
-
-# 3. FLOAT (SLOT MACHINE) (WTG)
 {235}{}{Gottverdammtes Stück Brahmin-Scheiße!}
 {236}{}{Verdammter einarmiger Bandit! Zahl den ollen McGee!}
 {237}{}{Hör auf, dem ollen McGee was vorzuenthalten, Liebling...}
@@ -40,31 +31,21 @@
 {246}{}{Morg'n sieht die Welt wieder anners aus.}
 {247}{}{Heut werd ich gewinnen. Die Glücksmarie sagt, 's is' so gut wie sicher.}
 {248}{}{::Schlägt auf den Automaten ein::}
-
-# 4. FLOAT (McGEE WARNING] (WTG)
 {255}{}{Faß mein' Automat noch mal an und ich werd deine Haut auf Golgotha verrotten sehn.}
 {256}{}{Du bleibs' besser von mei'm Automat weg, wennde weißt, was gut für dich ist...}
-
-# 5. FLOAT (McGEE BROKE] (WTG)
 {260}{}{Verdammt! Bin schon wieder pleite!}
 {261}{}{Das Haus is' wieder geg'n mich!}
 {262}{}{Muß noch 'n paar Chips hol'n...}
 {263}{}{Gottverdammter Automat! Schluckt meine ganzen Chips...}
-
-# 6. FLOAT (McGEE APOLOGIZES] (WTG)
 {270}{}{Hast meine 'Tschuldigung, Fremdling. Glück sei mit dir.}
 {271}{}{Tut mir leid, hab die Beherrschung verlor'n. Wüstensonne bringt 'n Mann dazu, verdammt blöde Sachen zu sagen.}
 {272}{}{::Tippt sich an einen imaginären Hut::}
-
-# 7. JACKPOT, ATTACK (WTG)
 {275}{}{}
 {276}{}{}
 {277}{}{Du! Du hast dir den Jackpot von MEI'M Automaten geholt! Ich hab *fünf gottverdammte Jahre* dafür gespielt und 
  keinen einzigen verdammten Chip rausgeholt!}
 {278}{}{Ernnhh?}
 {279}{}{Jetzt halt --}
-
-# 8. JACKPOT, CHANCE TO TALK (7)
 {285}{}{Ich hab meine ganzen Ersparnisse in dieses einarmige kleine Luder gesteckt und hab noch nich' mal die gestohlene Zeit 
  zurückgekriegt. Dann kommst DU un' nimmst dir alles! }
 {286}{}{Ich mach dich fertig, du kleiner Schwanzlutscher!}
@@ -79,15 +60,11 @@
 {295}{}{Wart mal einen Moment. Wie wär's, wenn ich dir das Geld gebe, das ich gewonnen habe?}
 {296}{}{Schwanzlutscher? SCHWANZLUTSCHER?! Opa, du wirst einen Chirurgen brauchen, um meinen Stiefel wieder aus deinem Hintern zu kriegen.}
 {297}{}{Schlampe? SCHLAMPE?! Opa, du wirst einen Chirurgen brauchen, um meinen Stiefel wieder aus deinem Hintern zu kriegen.}
-{298}{}{Was auch immer. Ich gehe.}
-
-# 9. JACKPOT, McGEE NEGOTIATING (8)
+{298}{}{Egal. Ich gehe.}
 {305}{}{Reden?! REDEN?! Was zum TEUFEL haben wir zu bereden, du gottverdammter Dieb!}
 {307}{}{Schau, ich habe das Geld anständig und ehrlich gewonnen, Opa. Paßt dir nicht? Das ist DEIN Problem.}
 {309}{}{Dieb? Opa, du hältst besser deine Zunge im Zaum, bevor ich sie dir in den Rachen schiebe.}
 {310}{}{Dann vergiß es. Ich gehe.}
-
-# 10. JACKPOT, McGEE COMBAT (8)
 {315}{}{Junge, wir wer'n hier über GAR NIX reden. Du wirst dir nicht mehr als ein paar Kugeln holen.}
 {316}{}{Mädel, wir wer'n hier über GAR NIX reden. Du wirst dir nicht mehr als ein paar Kugeln holen.}
 {317}{}{(Faßt nach seinem Gewehr, greift ins Leere) Eh? Wo zum Teufel ist mein Gewehr...?}
@@ -95,19 +72,13 @@
 {319}{}{Äh oh...}
 {320}{}{I nehm widu nix guckst.}
 {321}{}{Äh...}
-
-# 11. JACKPOT, SQUARE AND FAIR (8, 9)
 {325}{}{Anständig und ehrlich, dass ich nicht LACHE! Junge, du hast grad dein eigenes Todesurteil unterzeichnet!}
 {326}{}{Anständig und ehrlich, dass ich nicht LACHE! Mädel, du hast grad dein eigenes Todesurteil unterzeichnet!}
-
-# 12. RECOMPENSATE McGEE . . .? (8, 9)
 {335}{}{Was? (Blinzelt) Du willst mir meinen Gewinn zurückzugeben? Alle 473 Chips?}
 {336}{}{Äh, wie wär's mit 250 Chips?}
 {337}{}{Sicher. Die ganzen 473 Chips. Hier.}
 {338}{}{Im Moment geht's nicht. Ich hab nicht so viel bei mir.}
 {339}{}{Vergiß es. Ich gehe.}
-
-# 13. GIVE McGEE BACK 1/2 (12)
 {345}{}{}
 {346}{}{}
 {347}{}{Hmmmmmm. Ja, also...dassis nich' annähernd so viel, wie ich in diesen Automaten reingesteckt hab, 
@@ -115,24 +86,16 @@
 {348}{}{In Ordnung, Junge. 250 Chips und dann sind wir quitt.}
 {349}{}{In Ordnung, Mädel. 250 Chips und dann sind wir quitt.}
 {350}{}{Also gut.}
-
-# 14. McGEE SAYS NO DICE (12, 9)
 {355}{}{Keine Spielchen, Junge. Ich hol mir mein' Gewinn jetzt sofort zurück.}
 {356}{}{Keine Spielchen, Mädel. Ich hol mir mein' Gewinn jetzt sofort zurück.}
-
-# 15. PAY McGEE BACK EVERYTHING (12)
 {365}{}{}
 {366}{}{}
 {367}{}{(Blinzelt, während die Chips den Eigentümer wechseln) Also, jetzt...Naja, ich weiß nich', was ich sagen soll. }
 {368}{}{Das war ziemlich nett von dir, Junge...äh, Mister. Ich...}
 {369}{}{Das war ziemlich nett von dir, Mädel...äh, Fräulein. Ich...}
 {370}{}{Ja?}
-
-# 16. TURN BACK ON McGEE (8, 12, 9)
 {375}{}{WAGE es nicht, mir den Rücken zuzukehren, Junge!}
 {376}{}{WAGE es nicht, mir den Rücken zuzukehren, Mädel!}
-
-# 17. McGEE INTRO (WTG)
 {385}{}{}
 {386}{}{}
 {387}{}{Eh? Was willst'n, Junge?}
@@ -142,48 +105,32 @@
 {391}{}{Wer du}
 {392}{}{ wollen Automat spielen}
 {393}{}{[Verschwinde]}
-{394}{}{Wer bist du denn?}
+{394}{}{Wer bist du?}
 {395}{}{Was machst du?}
 {396}{}{Was dagegen, wenn ich zieh?}
-{397}{}{Nichts. Tut mir leid, daß ich dich belästige.}
-
-# 18. BOTHERING McGEE (17)
+{397}{}{Egal. Tut mir leid, daß ich dich belästigt habe.}
 {405}{}{(Eine Reihe von Symbolen laufen am Spielautomaten durch und ein *bsssst* ist zu hören) Verdammt! Störrischer Kasten! 
  Eines Tages werd ich mir meine Chips zurückhol'n...}
 {407}{}{ gehn jetzt! Tschüüüß}
 {409}{}{Äh...wie lange machst du das schon?}
 {410}{}{Kein Problem. Entschuldige die Störung.}
-
-# 19. McGEE's REASON FOR LIVING (18)
 {415}{}{}
 {416}{}{}
 {417}{}{Fast fünf Jahre jetzt...ich denk, der Automat musses jetzt jeden Tag ausspucken und wenn es PASSIERT... Zahltag! Heh-heh!}
 {418}{}{Äh, viel Glück dann.}
 {419}{}{Suuuper. Wir reden später.}
-
-# 20. McGEE JEALOUS (17, 18)
 {425}{}{}
 {426}{}{}
 {427}{}{(Grinst) Dich meinen Automaten anfassen lassen? Mir Pech bringen lassen?! Verdammt, nee! Verschwinde hier!}
 {428}{}{In Ordnung also...}
-
-# 21. RETARDED vs. McGEE (8)
 {435}{}{Verdammter sabbernder Idiot! Ich nehm mir das Geld jetzt zurück!}
-
-# 22. McGEE LOSES TEMPER, VOL. 56 (9, 12)
 {445}{}{Sieht so aus, als müßt ich mir mein Geld von deiner Leiche holen, Junge! Mach dich auf 'ne Bleiladung gefaßt!}
 {446}{}{Sieht so aus, als müßt ich mir mein Geld von deiner Leiche holen, Mädel! Mach dich auf 'ne Bleiladung gefaßt!}
-
-# 23. JACKPOT, ATTACK 2 (7)
 {455}{}{Hab meine ganzen Ersparnisse in dieses einarmige kleine Luder gesteckt und hab noch nich' mal die gestohlene 
  Zeit zurückgekriegt. Dann kommst DU und nimmst dir alles!}
-
-# 24. PAY McGEE BACK EVERYTHING (15)
 {465}{}{Wüstensonne kann 'n Mann dazu bringen, verdammt blöde Sachen zu sagen und ich möcht mich bei dir 
  entschuldigen, hier und jetzt. (Tippt sich respektvoll an einen imaginären Hut.) }
 {466}{}{Das Glück sei mit dir, Mister.}
 {467}{}{Das Glück sei mit dir, Frollein.}
 {468}{}{Also, in Ordnung. Entschuldigung angenommen.}
-
-# end lines
 {1290}{}{.}

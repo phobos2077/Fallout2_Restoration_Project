@@ -9,9 +9,9 @@
 {108}{}{Was? Ein Mutant! Wache!}
 {109}{}{Was? Ein Ghul! Wache!}
 {110}{}{Guten Tag, Hauptmann.}
-{111}{}{Vault City lebe hoch, Hauptmann.}
+{111}{}{Vault City wird bestehen, Hauptmann.}
 {112}{}{Guten Tag, Bürger.}
-{113}{}{Vault City lebe hoch, Bürger.}
+{113}{}{Vault City wird bestehen, Bürger.}
 {114}{}{Ich muß Verteilungsdiagramme an die Nebenstellen A und B des Büros für Annehmlichkeiten
  senden...}
 {115}{}{Ich muß die aktuellen Bestandsaufnahmen zusammenstellen und auf den Listenserver
@@ -62,7 +62,7 @@
 {150}{}{Klar. Was liegt dir auf dem Herzen?}
 {151}{}{Geckkh?}
 {152}{}{Verzieh dich}
-{153}{}{Was war das noch mal für eine Institution hier?}
+{153}{}{Wo sind wir hier noch mal?}
 {154}{}{Hast du zufällig ein GECK am Lager?}
 {155}{}{Valerie, die Dame von der Reparaturwerkstatt, bräuchte einen neuen Schraubenschlüssel und
  eine Zange.}
@@ -90,14 +90,14 @@
  die Vorschriften wollen es so. Versuch's doch mal bei Happy Harry im Vorhof.}
 {170}{}{Tut mir wirklich leid, aber ich bin nur für Bürger zuständig. Nimm's nicht persönlich,
  die Vorschriften wollen es so. Versuch's doch mal bei Happy Harry im Vorhof.}
-{171}{}{Wie kann ich Bürger werden?}
+{171}{}{Wie kann ich ein Bürger werden?}
 {172}{}{Aber...äh, ich bin Bürger. Erkennst du mich nicht?}
 {173}{}{Mein Geld ist auch nicht schlechter als das von anderen Bürgern.}
 {174}{}{Stadtrat McClure meinte, ich könnte bei dir einen hydroelektrischen
  Magnetosphären-Regulator bekommen.}
 {175}{}{Die Erstbürgerin hat mich hergeschickt, damit ich meine Belohnung abhole.}
 {176}{}{Würde es dir was ausmachen, wenn ich dir ein paar Fragen stelle?}
-{177}{}{Ausgezeichnet. Bis dann.}
+{177}{}{Fein. Wiedersehn.}
 {178}{}{Du kannst einen Bürgerschaftstest ablegen. Prokonsul Gregory nimmt ihn jedem Outsider ab,
  der Bürger werden will. Aber zuerst solltest du mit Lynette, der Erstbürgerin, reden. Die hat
  hier sozusagen das Heft in der Hand. }
@@ -120,7 +120,7 @@
  ich muß gehen.}
 {192}{}{Also gut. Ich bin sicher, alles ist in Ordnung.}
 {193}{}{Na ja...ähm, wenn's denn sein muß.}
-{194}{}{Dürfte ich dir ein paar Fragen stellen?}
+{194}{}{Darf ich dir ein paar Fragen stellen?}
 {195}{}{Wir sehen uns.}
 {196}{}{Alles bestens. Hier hast du deine Papiere wieder. Was kann ich für dich tun?}
 {197}{}{Zeig mir, was du am Lager hast.}
@@ -128,12 +128,12 @@
 {199}{}{Heute mal nichts.}
 {200}{}{So...du bist also Bürger }
 {201}{}{Ja, er sagte so was, von wegen daß du hier vorbeikommen würdest...}
-{202}{}{Alles klar.}
+{202}{}{Also gut.}
 {203}{}{Ist gar nicht dringend. Ich komm später wieder.}
 {204}{}{Okay, hier, bitte schön. Ein Hy-Mag. Sieht ein bißchen wie eine Lavalampe aus, findest du
  nicht? Vorsicht, nicht fallenlassen...ist ziemlich empfindlich, das gute Stück.}
 {205}{}{Was hast du sonst noch so am Lager?}
-{206}{}{Dürfte ich dir ein paar Fragen stellen?}
+{206}{}{Darf ich dir ein paar Fragen stellen?}
 {207}{}{Danke. Ich hätte gute Lust, mir das Teil ein paar Stunden lang ausführlich anzusehen, bevor ich's zum Kraftwerk nach Gecko bringe.}
 {208}{}{Alles klar. Danke für das Teil.}
 {209}{}{Ja, die Erstbürgerin hat gesagt, du kommst vorbei...Hauptmann (zwinkert). Ich sag dir mal
@@ -150,7 +150,7 @@
 {215}{}{Kein Problem. Hier hast du noch ein paar Splittergranaten, die gehen auf meine Kappe. Als
  Dank dafür, daß du diese Gangster beseitigt hast.}
 {216}{}{Spitze. Kann ich mir ansehen, was du sonst noch am Lager hast?}
-{217}{}{Darf ich dir noch ein paar Fragen stellen?}
+{217}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {218}{}{Danke. Ich werd sie bestimmt gebrauchen können.}
 {219}{}{Wär's das dann?}
 {220}{}{Würde es dir was ausmachen, wenn ich dir ein paar Fragen stelle?}
@@ -165,6 +165,5 @@
  Hy-Mag.}
 {227}{}{, stimmt's? Warte einen Augenblick, ich hol die dir den hydroelektrischen Magneto-
 ...äh, den Hy-Mag.}
-
 {228}{}{Danke.}
 {229}{}{[Fortfahren]}

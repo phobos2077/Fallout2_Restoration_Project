@@ -1,6 +1,6 @@
 {100}{}{Terminal komputerowy.}
 {101}{}{Ten komputer jest doœæ antyczny. Jego procesor ma tylko 500MHz.}
-{102}{}{Nie mo¿esz przeczytaæ tego, co pokazuje monitor.}
+{102}{}{Nie mo¿esz odczytaæ tego, co wyœwietla monitor.}
 {103}{}{Zautomatyzowana Stacja Napraw                                   
  Przetwarzam ¯¹dania Napraw zg³oszone przez Skynet...     
  Wysy³am Jednostki Naprawcze}

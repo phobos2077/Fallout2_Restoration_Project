@@ -3,7 +3,7 @@
 {102}{}{Tu vois un citoyen pâle mais apparemment en bonne santé.}
 {103}{}{Il ferait mieux de se reposer un peu.}
 {104}{}{Je me demande quel va être le film de sécurité ce soir.}
-{105}{}{Qu'est-ce que tu es ?}
+{105}{}{Qu'est-ce que t'es ?}
 {106}{}{La météo ne change jamais ici.}
 {107}{}{Le Projet progresse bien.}
 {108}{}{C'est vraiment dommage pour le Vice-président Bird.}

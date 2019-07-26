@@ -5,4 +5,3 @@
 {104}{}{Tu évites la canette de Nuka-Cola.}
 {105}{}{ évite la canette de Nuka-Cola avec habileté.}
 {106}{}{La machine ne semble plus avoir de canettes.}
-

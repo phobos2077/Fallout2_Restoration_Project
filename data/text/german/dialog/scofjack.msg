@@ -62,7 +62,7 @@
 {144}{}{Meist du wirklich?}
 {145}{}{Ja, Jack. So ist das.}
 {146}{}{Na klar. Was glaubst du - daß ich dich anlüge?}
-{147}{}{Ich weiß nicht.}
+{147}{}{Ich weiß es nicht.}
 {148}{}{Du darfst nicht zulassen, daß sie gewinnt, Jack.}
 {149}{}{Das ist die Gelegenheit, Mensch. Zeig, was in dir steckt. Mach sie zur Schnecke!}
 {150}{}{Alles Schwachsinn. Mir steht's bis hier. Ich bin dir doch völlig egal!}

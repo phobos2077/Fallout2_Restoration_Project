@@ -4,7 +4,6 @@
 {103}{}{T'es pitoyable. Si j'étais plus costaud, tu n'aurais plus le loisir de déserter encore une caravane. Dégage maintenant.}
 {104}{}{Tu as commis une grosse erreur en volant la famille Mordino. Tu le paieras... intérêts compris. A présent, hors de ma vue !}
 {105}{}{On m'accuse de vol ? Cette remarque m'offense ; c'est vraiment ingrat. C'est bon, je me tire.}
-{200}{}{Réglons ce différend sur le champ ! Fais ta prière !}
 {106}{}{Un de ces jours, tu regretteras qu'on se soit rencontrés. Salut.}
 {107}{}{Quelle honte, cette caravane ! Une bonne chose que Savinelli y soit resté. Tu penses pas sérieusement qu'on va te payer pour ce fiasco. Tire-toi d'ici.}
 {108}{}{Espèce de pourriture ! Tu paieras pour m'avoir volé ma part ! Salut.}
@@ -23,3 +22,4 @@
 {121}{}{Savinelli, mort. Merde, j'y crois pas. Je m'appelle Velani, je réglerai ce qu'on te doit.}
 {122}{}{Euh, merci.}
 {123}{}{Merde, je peux pas croire que Savinelli soit mort !}
+{200}{}{Réglons ce différend sur le champ ! Fais ta prière !}

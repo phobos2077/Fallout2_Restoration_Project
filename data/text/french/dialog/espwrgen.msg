@@ -7,5 +7,4 @@
 {106}{}{Encore un petit peu.}
 {107}{}{La réparation semble impossible.}
 {108}{}{Les lumières vacillent alors que le générateur crépite.}
-
 {200}{}{Tu as réussi à réparer le générateur.}

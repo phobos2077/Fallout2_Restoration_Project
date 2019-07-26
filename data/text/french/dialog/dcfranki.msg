@@ -1,14 +1,13 @@
 {100}{}{Tu vois le propriétaire du Trou.}
 {101}{}{Tu vois Frankie, le propriétaire du Trou.}
-
 {150}{}{Voici le propriétaire de cet endroit.}
 {151}{}{Voici Frankie, c'est le propriétaire de ce bistrot.}
-{152}{}{[Parler]}
+{152}{}{[PARLER]}
 {153}{}{C'est moi, Frankie. Je suis l'proprio. Tu fais la queue comme tout l'monde, Ok ?}
 {154}{}{D'ac.}
 {155}{}{C'est cela même...}
 {156}{}{Je comprends pourquoi cet endroit s'appelle *Le Trou*.}
-{157}{}{Hein ?}
+{157}{}{Heinh ?}
 {158}{}{Que te faut-il ?}
 {159}{}{Du whisky.}
 {160}{}{Des femmes.}
@@ -25,10 +24,10 @@
 {171}{}{Voilà ton argent.}
 {172}{}{Pas question ! C'est trop cher !}
 {173}{}{Pourquoi ton whisky coûte-t-il plus cher que chez Elisabeth ?}
-{174}{}{Non merci.}
+{174}{}{Pas de problème.}
 {175}{}{Rien d'autre ?}
 {176}{}{Oui.}
-{177}{}{Non merci.}
+{177}{}{Non, merci.}
 {178}{}{T'as pas assez d'argent ! C'est pas une oeuvre de charité ici !}
 {179}{}{Oh, pardon. J'ai peu de ressources.}
 {180}{}{Je reviendrai.}
@@ -71,7 +70,7 @@
 {217}{}{Que veux-tu dire ?}
 {218}{}{Achète-lui de l'alcool. C'est moins cher qu'à New Reno. Tu feras même des bénéfices en plus.}
 {219}{}{Je veux pas faire ça.}
-{220}{}{Laisse tomber.}
+{220}{}{Ca ne fait rien.}
 {221}{}{Je veux juste que tu détruises son alambic. Tu le feras ?}
 {222}{}{D'accord.}
 {223}{}{Non. Au revoir.}
@@ -84,22 +83,20 @@
 {230}{}{Alors, je ne suis pas au bon endroit. Salut.}
 {231}{}{Va parler à Sheila. Hé Sheila, quelqu'un pour toi !}
 {232}{}{Hé, c'est pas ça que je veux !}
-{233}{}{Merci. Salut.}
+{233}{}{Merci. Au revoir.}
 {234}{}{Va tenter ta chance ailleurs, petite. Ouah, ah !}
 {235}{}{Et si on essayait autre chose ?}
 {236}{}{Tu n'es qu --}
 {237}{}{Je n'ai pas besoin de ça !}
 {238}{}{J'ai une chambre là-bas. On peut y aller.}
-{239}{}{D'accord.}
+{239}{}{Ok.}
 {240}{}{Non, je ne voulais pas dire ça !}
-
 {242}{}{Si.}
 {243}{}{Tu as moins de 50% de mauvais en toi.}
 {244}{}{C'est toi qui détiens la palme pour le moment. Sérieux !}
 {245}{}{J'ai horreur qu'on me presse, mais...}
 {246}{}{Bon, à bientôt.}
 {247}{}{Salut.}
-
 {248}{}{Ouais, c'est ça. Nettoie quand tu as fini cette fois-ci, hein !}
 {249}{}{Hé, la compagnie ! Un petit bravo pour Billy ! Il est en pleine action !}
 {250}{}{Tu veux une serpillière ?}
@@ -121,15 +118,12 @@
 {266}{}{Personne ne me parle sur ce ton ! Prends ça !}
 {267}{}{Je t'ai laissé toutes tes chances. Maintenant, dégage d'ici.}
 {268}{}{Pas question que tu viennes dans ma chambre avec cette merde !}
-
 {300}{}{Hé, je n'ai jamais dit que je te paierai pour tuer cette salope. Casse-toi de là !}
-
 {350}{}{Hé ben Bon Dieu ! Ca c'était quelque chose !}
 {351}{}{Purée, t'étais pas mal mon chou.}
 {352}{}{Merci, c'était amusant. Maintenant, tire-toi.}
 {353}{}{Tu étais wahou... Peu importe. Tire-toi.}
 {354}{}{Putain ! Je parie qu'avec Billy ç'aurait été mieux qu'avec toi.}
-
 {400}{}{Tu sais, mon chou, tu as peut-être le sang chaud et tout ça. Mais tu baises vraiment mal. Tu peux peut-être te faire le petit Frankie un jour.}
 {410}{}{Mon chou, j'ai du boulot tu sais. Je ne reste pas là toute la journée à rien faire. Bon, d'accord, ça change rien de toute façon... C'est mon boulot.}
 {420}{}{Ecoute, je voulais simplement que son alambic soit détruit et tu l'as fait. Maintenant casse-toi.}

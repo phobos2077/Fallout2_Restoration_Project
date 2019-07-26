@@ -1,6 +1,5 @@
 {100}{}{Du siehst einen einschüchternden Rohling.}
 {101}{}{Du siehst einen Wachposten von Den.}
-
 {102}{}{Jetzt nicht. Ich bin im Dienst.}
 {103}{}{Ich kann nicht mit Dir sprechen.}
 {104}{}{Bitte geh.}
@@ -11,4 +10,3 @@
 {109}{}{Ich arbeite hier nur.}
 {110}{}{Ich weiß gar nichts.}
 {111}{}{Ich spreche nur mit meinem Chef.}
-

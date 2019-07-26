@@ -1,7 +1,6 @@
 {100}{}{Tu vois une femme aux rondeurs agréables.}
 {101}{}{Tu vois Rose.}
 {102}{}{Ses cheveux gris sont coiffés en chignon et elle marche avec un léger déhanchement. Tu ne peux t'empêcher de te sentir bien en sa présence.}
-
 {150}{}{Je suis désolée, mais nous sommes fermés. Nous avons un décès dans la famille. [Sniff...]}
 {151}{}{Hé ! Il n'y a que moi qui aie le droit de chercher dans la boîte des objets trouvés.}
 {152}{}{J'ai dans l'idée que vous êtes là pour me voler.}
@@ -51,7 +50,7 @@
 {200}{}{Ah, ça, c'est ma spécialité. J'espère que vous avez faim. Je vous garantis que vous n'avez jamais mangé une omelette comme celle-là. [Elle quitte la pièce et revient avec la plus grosse omelette que tu n'as jamais vue.]}
 {201}{}{[Après un tel repas, tu sens que tu vas vite déborder d'énergie.]}
 {202}{}{[Elle disparaît rapidement derrière le comptoir et revient avec ta commande.]}
-{203}{}{Puis-je vous poser quelques questions ?}
+{203}{}{Puis-je te poser quelques questions ?}
 {204}{}{Je suis désolée mon coeur, mais je suis occupée à servir les clients. Peut-être que si vous commandiez quelque chose, j'aurais le temps de bavarder avec vous entre les commandes.}
 {205}{}{Dans ce cas, j'ai une faim de loup. Que me proposez-vous ?}
 {206}{}{Bien sûr, mais faites vite, je ne veux pas faire attendre les autres clients.}
@@ -77,5 +76,4 @@
 {229}{}{J'ai tellement faim. Qu'avez-vous d'autre ?}
 {230}{}{Je me réjouissais vraiment à l'idée de manger votre omelette de réputation mondiale. Alors je vais rester sur ma faim.}
 {231}{}{Ahh ! Boogie !}
-
 {300}{}{[Elle revient vite avec un verre contenant une substance brunâtre. Le verre contient plus de saletés que d'eau, mais tu as tellement soif que tu le bois quand même.] J't'ai aussi apporté un biscuit à déguster avec, mon chou.}

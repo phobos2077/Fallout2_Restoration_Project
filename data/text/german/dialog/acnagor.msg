@@ -1,7 +1,6 @@
 {100}{}{Du siehst deinen jungen Cousin Nagor. Aber du siehst seinen Hund Rauch nirgends.}
 {101}{}{Du kennst Nagor seit er klein war und hast ihm immer geholfen, wenn du konntest.}
 {102}{}{Cousin, bin ich froh, dich zu sehen! Ich brauch deine Hilfe.}
-{302}{}{Cousin, bin ich froh, dich zu sehen! Ich brauch deine Hilfe.}
 {103}{}{Tut mir leid, aber ich hab keine Zeit.}
 {104}{}{Wobei brauchst du Hilfe?}
 {105}{}{Dann geh ich allein raus in die Wildnis.}
@@ -38,14 +37,12 @@
 {129}{}{Ich bin beschäftigt, Dummerchen. Geh und spiel irgendwas.}
 {130}{}{Ich geh.}
 {131}{}{Ich gehe Rauch suchen.}
-
-# new nodes for time limit
 {200}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
  Ich hab viel Gerede über schlechte Zeiten gehört.}
 {201}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
  Ich hab viel Gerede über schlechte Zeiten gehört.}
 {202}{}{Ich noch such, Nagor.}
-{203}{}{Ich such noch, Neffe.}
+{203}{}{I'm still looking, cousin.}
 {204}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
  Dreizehn und das GECK gefunden?}
 {205}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
@@ -67,3 +64,4 @@
  Leute sind krank, die Brahmin sterben und... ich... mein Hund Smoke ist gestorben. Ich vermisse
  ihn sehr. Tschuldigung, aber ich kann nicht mehr reden...}
 {300}{}{Du siehst Nagor.}
+{302}{}{Cousin, bin ich froh, dich zu sehen! Ich brauch deine Hilfe.}

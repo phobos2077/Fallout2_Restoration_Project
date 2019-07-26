@@ -8,7 +8,7 @@
 {106}{}{Wache! Alarm!}
 {107}{}{Was willst du?}
 {108}{}{Körg?}
-{109}{}{Wo sind wir hier?}
+{109}{}{Was ist das alles hier?}
 {110}{}{Die Ranger haben mich geschickt.}
 {111}{}{Ich suche den Besitzer.}
 {112}{}{Bruder Sklavenhändler, ich hätte da ein paar Fragen.}
@@ -16,17 +16,16 @@
 {114}{}{Raus hier, mach schon. Ich hab schon genügend dämliche Wachleute!}
 {115}{}{Bist du blind, oder was? Das hier ist ein Sklavenpferch. Wenn du mehr wissen willst,
  wende dich an Vortis.}
-{116}{}{Ach tatsächlich? Dich schick ich im Leichensack zurück.}
+{116}{}{Is that so? Well, I'm sending you back in a body bag.}
 {117}{}{Das ist wohl Vortis, der alte Knabe.}
-{118}{}{Danke. Ich hab den Eindruck, du bist ganz schön helle. Du kannst mir bestimmt ein paar
- Fragen beantworten.}
+{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
 {119}{}{Der alte Knabe, wie? Okay.}
 {120}{}{Wenn du's so formulierst, kann ich gar nicht nein sagen. Was liegt dir auf der Seele?}
 {121}{}{Danke, Fremdling.}
 {122}{}{Ich weiß mehr, als der alte Vortis vermutet, das laß dir gesagt sein.}
 {123}{}{Ich hab schon so einiges hinter mir, auch wenn man's nicht vermuten würde. Aber ich mag
  diesen Job hier. Ziemlich gemütliche Sache.}
-{124}{}{Was auch immer.}
+{124}{}{Wie du willst.}
 {125}{}{Wie ist das mit diesen Rangern, von denen ich gehört habe?}
 {126}{}{Ich bin auf der Suche nach Vault 13. Schon mal davon gehört?}
 {127}{}{Schon mal was von einem GECK gehört?}
@@ -55,11 +54,7 @@
  betrunken war, fing er an von irgendwelchen Typen zu erzählen, die er die Enklave nannte.}
 {142}{}{Genau das wollte ich wissen. Du bist ganz schön gut informiert.}
 {143}{}{Das war's auch schon. Besten Dank.}
-{144}{}{Was mich betrifft, ich halte immer Ausschau - das Problem ist, daß heutzutage keiner mehr
- Sklavenhändler anheuern will. Vortis, mein Chef, hat da irgendwelche Heimlichkeiten am Laufen.
- In der Stadt gibt's die Ranchbesitzer vom Viehzüchter-Verband, die suchen immer jemanden. Und
- Dorothy kann immer eine Aushilfe für das Kraftwerk gebrauchen, falls du dich mit so was
- auskennst. Es heißt, daß sogar Präsidentin Tandi einen Fachmann sucht.}
+{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
 {145}{}{Mensch, du bist aber informiert. Am liebsten würde ich dir den ganzen Tag lang Fragen
  stellen.}
 {146}{}{Ich geh diesen Hinweisen sofort nach.}

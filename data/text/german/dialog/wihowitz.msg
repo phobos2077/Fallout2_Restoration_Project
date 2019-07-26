@@ -2,10 +2,8 @@
 {101}{}{Sie sieht ein bißchen klapprig aus. Du glaubst, daß sie trotzdem noch einsatzfähig ist.
  Wenn du doch bloß eine Granate finden könntest.}
 {102}{}{Der Zündmechanismus klemmt. Diese Haubitze taugt bestenfalls noch zum Briefbeschwerer.}
-
 {200}{}{Die Haubitze ist bereits geladen.}
 {201}{}{Du lädst die Granate in die Haubitze.}
-
 {210}{}{Du feuerst mit der Haubitze auf die Tür und sprengst sie auf diese Weise auf.}
 {211}{}{Es gibt keine Munition für die Haubitze.}
 {212}{}{Du feuerst die Haubitze ab.}

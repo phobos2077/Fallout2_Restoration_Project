@@ -10,7 +10,7 @@
 {109}{}{Je suis juste ici pour revérifier nos projets secrets.}
 {110}{}{Je suis ici pour te tuer.}
 {111}{}{Continue soldat. Continue. Vous faites du super boulot les gars. Nous sommes prêts à faire face à n'importe quel imprévu.}
-{112}{}{Hein ?}
+{112}{}{Heinh ?}
 {113}{}{Euh, oui. Bien, je ferais mieux de terminer ma ronde. Au revoir.}
 {114}{}{Hmm, dis-moi, comment écrit-on patate ? Avec un ou deux "T" ?}
 {115}{}{Hmm, dis-moi, comment écrit-on cristal ? Avec un "I" ou un "Y" ?}
@@ -23,7 +23,7 @@
 {122}{}{Pourquoi ça ?}
 {123}{}{J'ai du travail. Au revoir.}
 {124}{}{Continue soldat. Les lendemains chanteront.}
-{125}{}{Que veux-tu dire par là ?}
+{125}{}{Qu'entends-tu par là ?}
 {126}{}{Non, pas pour toi. J'extermine tous les baveux prétentieux de l'Enclave et tu es le prochain sur ma liste !}
 {127}{}{Euh, oui. Si tu le dis. Au revoir.}
 {128}{}{On doit travailler ensemble pour réussir.}

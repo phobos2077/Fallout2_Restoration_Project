@@ -1,8 +1,8 @@
 {100}{}{Tu vois un Griffemort. Il te regarde avec des yeux étrangement intelligents.}
 {101}{}{Tu vois Dar, le Griffemort.}
-{102}{}{Tu vois un Griffemort typique. Une créature immense, avec un corps puissant, une dentition aiguisée et de longues griffes.}
+{102}{}{Tu vois un Griffemort typique. La créature est immense, avec un corps puissant, une dentition aiguisée et de longues griffes.}
 {103}{}{Bonjour, humain.}
-{104}{}{Toi vouloir quoi ?}
+{104}{}{Quoi toi vouloir ?}
 {105}{}{Salut. Toi qui ?}
 {106}{}{Pourquoi toi ici ?}
 {107}{}{Toi intelligent comme autres ?}
@@ -10,14 +10,14 @@
 {109}{}{Excuse-moi de te déranger, mais qui es-tu ?}
 {110}{}{Quel est ton travail à l'abri ?}
 {111}{}{Ne le prends pas mal mais... as-tu reçu une quelconque éducation ?}
-{112}{}{Eh bien, je passe le temps.}
+{112}{}{Eh bien, je fais juste passer le temps.}
 {113}{}{Moi Dar, guerrier.}
 {114}{}{Ok.}
 {115}{}{Vous tous pareils. Moi partir.}
-{116}{}{Moi } #continue 137
+{116}{}{Moi }
 {117}{}{Je vois. Bon, je dois partir maintenant.}
-{118}{}{Je suis} #continue 138
-{119}{}{Je comprends.}
+{118}{}{Je suis}
+{119}{}{Moi comprendre.}
 {120}{}{Guerrier ! Ah, c'te bonne blague ! T'en as d'autres des comme ça ?}
 {121}{}{Dar garder hall et préserver paix. Rien d'autre.}
 {122}{}{Moi entendre ça avant.}
@@ -31,10 +31,9 @@
 {130}{}{Doyenne du village faire pareil avec moi.}
 {131}{}{Ah.}
 {132}{}{Gruthar a raison, vous devriez tous essayer de vous instruire.}
-{133}{}{Je comprends.}
+{133}{}{Moi comprendre.}
 {134}{}{Alors t'es tellement stupide que t'as besoin que d'autres t'obligent à apprendre ?! Chapeau !}
 {135}{}{Bonjour. Toi ami meute.}
 {136}{}{Grrrrrrrrr ! Argggggghhhh.}
-
 {137}{}{.}
 {138}{}{, Dar.}

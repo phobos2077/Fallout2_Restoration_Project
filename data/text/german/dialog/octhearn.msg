@@ -41,5 +41,4 @@
 {140}{}{Hallo, ich bewachen immer noch.}
 {141}{}{}
 {142}{}{Arrrrrrrrrgggh! Stirb!}
-
 {143}{}{.}

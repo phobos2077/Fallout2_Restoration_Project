@@ -3,7 +3,7 @@
 {102}{}{Tu vois un homme torse nu, très musclé et dont les mains ressemblent à de redoutables armes.}
 {103}{}{Que puis-je faire pour toi ?}
 {104}{}{Oh ! Femme avec zizi !}
-{105}{}{Qui toi ?}
+{105}{}{Toi qui ?}
 {106}{}{Contre qui te battais-tu ?}
 {107}{}{Qui es-tu ?}
 {108}{}{Apprends-moi à me battre.}
@@ -13,7 +13,7 @@
 {112}{}{Au revoooooir !}
 {113}{}{Je suis le Dragon, mon ami. Je combats l'oppression et mon ennemi, Lo Pan, qui désire contrôler entièrement cette ville. Je me bats et j'apprends aux autres à se battre.}
 {114}{}{Apprends-moi !}
-{115}{}{Mersssi.}
+{115}{}{Mèssi.}
 {116}{}{Alors, commençons.}
 {117}{}{[Terminé]}
 {118}{}{[Il te regarde attentivement.] Je ne te crois pas capable de faire bon usage de ces connaissances. Au revoir.}
@@ -38,7 +38,7 @@
 {137}{}{Ok, l'optimiste. Cool.}
 {138}{}{J'appelle ça combattre intelligemment. *L'honneur* est un terme inventé pour glorifier les tueurs.}
 {139}{}{Je comprends. J'ai d'autres questions.}
-{140}{}{Trèèès bien. Salut.}
+{140}{}{Trèèès bien. Au revoir.}
 {141}{}{Nous devons tout d'abord déterminer si tu veux un combat qui aille jusqu'à son terme ou un test pour comparer tes compétences aux miennes.}
 {142}{}{Jusqu'à son terme. Je peux te battre.}
 {143}{}{Un test de compétences. Je ne veux pas te tuer.}
@@ -51,18 +51,18 @@
 {150}{}{Hum. Tu as raison. Eh bien, j'ai d'autres questions.}
 {151}{}{Ouais. Ok. Au revoir.}
 {152}{}{Très bien. Allons sur le ring et battons-nous jusqu'à ce que l'un d'entre nous ne puisse plus bouger.}
-{153}{}{[Attaque maintenant, avec ton armure et tes armes]}
-{154}{}{[Va sur le ring, débarrasse-toi de tes armes et de ton armure, et bats-toi au Corps à Corps]}
+{153}{}{[Attaque maintenant, avec ton armure et tes armes.]}
+{154}{}{[Va sur le ring, débarrasse-toi de tes armes et de ton armure, et bats-toi au Corps à Corps.]}
 {155}{}{Ah, tu es de la race des guerriers. Je vais t'opposer à mes hommes pour voir comment tu t'en sors. Allons-y.}
-{156}{}{[Commencer]}
+{156}{}{[commencer]}
 {157}{}{Mais dans un environnement de combat formel, tu ne peux pas contester que tu as décidé d'entrer dans l'arène de ton plein gré. Dans un tel contexte, ne devrais-tu pas obéir aux règles ?}
 {158}{}{Oui, probablement. Mais dans une situation de vie ou de mort, tu dois tout faire pour survivre.}
-{159}{}{Non, je ne pense pas.}
+{159}{}{Non, je ne crois pas.}
 {160}{}{Je suis d'accord avec toi. Eh bien, si tu veux affronter Lo Pan, le feras-tu sans armes et sans armure ? Si nous devons te demander de nous aider, nous voulons que tu obéisses à nos règles.}
 {161}{}{Ouais, je le ferai selon vos règles.}
 {162}{}{Non. Laisse tomber.}
 {163}{}{Excellent. Voyons voir si tes compétences sont suffisamment poussées pour te battre contre Lo Pan.}
-{164}{}{Allons-y.}
+{164}{}{C'est parti.}
 {165}{}{Pas tout de suite. Je reviendrai plus tard.}
 {166}{}{Je suis le Dragon, le protecteur du peuple et ennemi juré de Lo Pan. Lui et moi sommes les derniers maîtres de notre style de combat.}
 {167}{}{Je ne me débrouille pas trop mal au combat au Corps à Corps. Tu veux essayer ?}
@@ -82,22 +82,19 @@
 {181}{}{Très bien. J'ai des questions.}
 {182}{}{Err... Ok. Au revoir.}
 {183}{}{J'ai récemment mené une mission d'honneur. Nous étions forts cette nuit-là.}
-{184}{}{Formidable. Mais dis-moi...}
+{184}{}{Formidable. J'ai des questions.}
 {185}{}{Formidable. Au revoir.}
 {186}{}{Lo Pan est mort ! C'est certainement toi que je dois remercier. Je suis maintenant sûr que mon école imposera notre style de combat à l'avenir.}
-{187}{}{Formidable. Mais dis-moi...}
+{187}{}{Formidable. J'ai des questions.}
 {188}{}{Formidable. Au revoir.}
 {189}{}{Ton kung fu n'est pas le bienvenu ici.}
 {190}{}{Je te battrai un jour, Dragon.}
 {191}{}{Je t'attendrai, Lo Pan.}
-
 {200}{}{Le Dragon détecte ta progression et tu lui échappes.}
 {201}{}{Les voleurs n'ont pas d'honneur parmi les Shis. Pars maintenant.}
 {202}{}{Je t'avais dit de partir. Maintenant tu vas payer.}
 {203}{}{Visiblement, tu n'as pas besoin que je t'entraîne.}
-
 {204}{}{Les leçons dépassent l'aspect physique, petite sauterelle. Réfléchis-y et reviens demain.}
-
 {205}{}{Je suis Maître Ziggy, ta dernière épreuve.}
 {206}{}{Je suis Zurak. Tiens-toi prêt.}
 {207}{}{Je suis Jimmy. Prépare-toi.}
@@ -110,31 +107,24 @@
 {214}{}{Tu as vaincu le Dragon lors d'un combat à mort. Et même si le combat était en règle, il sera regretté par beaucoup de monde.}
 {215}{}{Tu as déjà vaincu mes hommes et tu as réussi l'épreuve. Tu peux désormais affronter Lo Pan.}
 {216}{}{Désormais, seule la pratique pourra améliorer tes compétences. Je n'ai plus rien à t'apprendre.}
-
-#training messages
-{217}{}{Commençons. Fais comme moi.}
+{217}{}{Commençons. Suis mon exemple.}
 {218}{}{L'entraînement est fini pour aujourd'hui.}
 {219}{}{Le Dragon est très doué, tu as appris beaucoup.}
-
 {220}{}{Tu as déjà vaincu mes hommes. Plus personne ne veut te défier.}
-
-
 {221}{}{Sans le savoir, tu as soutenu notre cause en supprimant Lo Pan. Nous t'en remercions.}
 {222}{}{Tout le plaisir est pour moi. Au revoir.}
 {223}{}{De rien. Au revoir.}
 {224}{}{De rien. Puis-je te poser une question ?}
 {225}{}{De rien. Moi demander ?}
-
 {226}{}{Tu as GAGNE !}
 {227}{}{Tu as PERDU !}
 {228}{}{Adversaire suivant !}
-
-{230}{}{Tu vas d'abord devoir prouver que tu en es capable. Tu vas devoir affronter cinq de mes combattants, un par un. Si tu les bats, alors tu accéderas à l'épreuve ultime.}
-{231}{}{De quoi s'agit-il ?}
+{230}{}{Tu vas d'abord devoir prouver que tu en es capable en te battant contre cinq de mes hommes, un par un. Si tu réussis à les battre, tu pourras tenter l'ultime épreuve.}
+{231}{}{Qu'est-ce que c'est ?}
 {232}{}{Ca semble trop compliqué. Au revoir.}
 {233}{}{Humblement, je vais moi-même tester tes compétences. Mais aucune de ces batailles n'entraînera la mort.}
 {234}{}{Ok, ça marche.}
 {235}{}{Tu n'as qu'à t'occuper de Lo Pan toi-même.}
 {236}{}{[Le Dragon t'étudie.] Je ne peux pas laisser quelqu'un ayant de telles compétences se blesser.}
-{237}{}{Ok. Puis-je te demander autre chose ?}
-{238}{}{Très bien. Salut.}
+{237}{}{Ok, puis-je te demander autre chose ?}
+{238}{}{Très bien. Au revoir.}

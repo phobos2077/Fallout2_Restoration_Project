@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Tu vois un junkie.}
 {101}{}{Cette personne est vraiment pas nette.}
 {102}{}{Il a l'air de planer.}
@@ -7,8 +6,6 @@
 {105}{}{Elle a connu des jours meilleurs.}
 {106}{}{On dirait un mort-vivant.}
 {107}{}{On dirait qu'il vient juste de vomir.}
-
-# 1. CF: Attacked by PC
 {150}{}{La lumière me fait mal !}
 {151}{}{Partout, des monstres !}
 {152}{}{Quelle étrange sensation !}
@@ -17,11 +14,9 @@
 {155}{}{Arrête !}
 {156}{}{Quelqu'un peut-il m'aider ?}
 {157}{}{A l'aide !}
-{158}{}{Dégage !}
+{158}{}{Allez, va-t-en !}
 {159}{}{Ma tête me fait assez souffrir comme ça !}
-{160}{}{Laisse-moi tranquille !}
-
-# 2. CF: Normal
+{160}{}{Laisse-moi tranquille.}
 {200}{}{Oh là là, tu brilles du noir...}
 {201}{}{T'es vraiment une mauviette !}
 {202}{}{Ne leur dis pas que tu-sais-quoi n'est pas là.}
@@ -61,19 +56,15 @@
 {236}{}{Je crois que j'vais gerber.}
 {237}{}{Je devrais peut-être essayer de dormir...}
 {238}{}{Eh, la belle ! J'ai la tremblote pour de bon !}
-
-# 3. BGF: Hostile
 {300}{}{Non mais je saigne là !}
 {301}{}{Merde, c'est mon sang ça ?! Je sens plus rien !}
 {302}{}{J'ai des fourmis partout.}
 {303}{}{Qui a fait ça ?}
-{304}{}{Qu'est-ce qui s'passe ?}
+{304}{}{Que se passe-t-il ?}
 {305}{}{Je saigne... enfin, je crois.}
 {306}{}{Oh, quelle douleur !}
 {307}{}{Maintenant, j'ai vraiment besoin de me faire un fix.}
 {308}{}{Laisse-moi crever.}
-
-# 4. BGF: Normal
 {350}{}{Ahhhh...}
 {351}{}{Je plane...}
 {352}{}{Je détiens la force !}
@@ -89,7 +80,7 @@
 {362}{}{Qu'est-ce que c'était ?}
 {363}{}{Sacha ? Sacha, où es-tu ?}
 {364}{}{Les couleurs disparaissent !}
-{365}{}{Maman ?}
+{365}{}{M'man ?}
 {366}{}{Hé ! Ne me touche pas ! Oh...}
 {367}{}{Ne fais pas ça !}
 {368}{}{J'y vois plus... encore une fois.}
@@ -98,13 +89,11 @@
 {371}{}{Là ? Non.}
 {372}{}{Non. Je ne le trouve pas. }
 {373}{}{Arrête ça !}
-{374}{}{Ouga.}
+{374}{}{Ug.}
 {375}{}{Oh, quelle douleur !}
 {376}{}{<Hum> <Hum> <Hum>}
 {377}{}{Oh, ma tête !}
 {378}{}{Où est-ce que j'ai foutu mon magot ?}
-
-# 5. Self Initiated: Attacking Player
 {400}{}{Un démon !}
 {401}{}{L'ennemi est parmi nous !}
 {402}{}{Espèce de monstre ! Tu as tué mon fils !}

@@ -10,7 +10,7 @@
 {109}{}{Ne me parle pas ! Je ne veux pas qu'on me batte encore une fois.}
 {110}{}{L'esclavage, c'est une vue de l'esprit. En fait, qui est vraiment libre ?}
 {111}{}{Non, arrête ! Pitié, pas la Maison de la Douleur ! }
-{112}{}{Ne t'approche pas de moi !}
+{112}{}{Ne t'approche pas de moi.}
 {113}{}{Monstre ! C'est toi et les tiens qui m'avez fait ça !}
 {114}{}{Le jugement du Tout Puissant s'abattra sur toi.}
 {115}{}{J'obéirai à tous tes ordres.}

@@ -28,32 +28,25 @@
 {127}{}{<Ahum>}
 {128}{}{QUI OSE S'APPROCHER DE LA TETE SACREE DE L'HABITANT DE L'ABRI ?!}
 {129}{}{C'est moi, l'Etre Elu.}
-{1129}{}{Moi Etre Elu.}
 {130}{}{HA HA HA HA HA HA !}
 {131}{}{*TOI* ?! L'ETRE ELU ?!}
 {132}{}{MEME MON PETIT DOIGT EST PLUS GROS QUE TOI !!}
 {133}{}{TU N'ES *PAS* L'ETRE ELU.}
 {134}{}{Si, c'est moi.}
-{1134}{}{Moi Etre Elu !!!}
 {135}{}{NON, CE N'EST PAS VRAI !}
 {136}{}{Si, c'est moi.}
-{1136}{}{Moi Etre Eluuuu !!!}
 {137}{}{UH-UH.}
-{138}{}{Uh-huh.}
-{1138}{}{Uh-huh.}
+{138}{}{Euh-euh.}
 {139}{}{UH-UH.}
-{140}{}{Uh-huh.}
-{1140}{}{Uh-huh.}
+{140}{}{Euh-euh.}
 {141}{}{UH...UH...}
 {142}{}{Uh...huh...}
-{1142}{}{Uh...huh...}
 {143}{}{NON...ASSEZ !}
 {144}{}{BON, TU AS FAIT TES PREUVES !}
 {145}{}{TU *ES* L'ETRE ELU !}
 {146}{}{PRENDS CA !}
 {147}{}{MAINTENANT, LAISSE-MOI.}
 {148}{}{Hé, merci !}
-{1148}{}{Miciii !}
 {149}{}{OUAIS, C'EST CA. MAINTENANT, CASSE-TOI !}
 {150}{}{SALETE DE TOURISTES !}
 {151}{}{JE T'AI DEJA DONNE UN CADEAU.}
@@ -62,5 +55,11 @@
 {154}{}{QUOI ?!!}
 {155}{}{CREVE !}
 {156}{}{Désintégration du joueur avec une animation de mise à mort au plasma.}
-
 {200}{}{(12 heures plus tard)}
+{1129}{}{Moi Etre Elu.}
+{1134}{}{Moi Etre Elu !!!}
+{1136}{}{Moi Etre Eluuuu !!!}
+{1138}{}{Euh-euh.}
+{1140}{}{Euh-euh.}
+{1142}{}{Uh...huh...}
+{1148}{}{Miciii !}

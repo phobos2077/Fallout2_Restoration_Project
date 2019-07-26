@@ -1,14 +1,14 @@
-{100}{}{Tu vois un homme en armure métallique.}
+{100}{}{Tu vois un homme portant une armure métallique.}
 {101}{}{Tu vois Matthew.}
-{102}{}{Tu vois un homme portant une armure métallique dotée d'un insigne en forme d'éclair.}
+{102}{}{Tu vois un homme portant une armure métallique dotée d'un insigne représentant un éclair.}
 {103}{}{Bonjour}
-{104}{}{. Que puis-je faire pour toi ?}
+{104}{}{. Que puis-je faire pour vous ?}
 {105}{}{Toi répondre questions ?}
 {106}{}{Rien. Moi revenir après.}
 {107}{}{Tu peux commencer par répondre à quelques questions.}
 {108}{}{Rien pour le moment. Je reviendrai plus tard.}
 {109}{}{Je pense que tu mérites des réponses à tes questions.}
-{110}{}{Que puis-je faire pour toi ?}
+{110}{}{En quoi puis-je t'être utile ?}
 {111}{}{Qui vous être ?}
 {112}{}{Pourquoi personne parler de vous ?}
 {113}{}{Pourquoi tout seul ici ?}
@@ -37,10 +37,10 @@
 {136}{}{Laisse-moi faire preuve de franchise avec toi, }
 {137}{}{. La Confrérie de l'Acier n'est plus ce qu'elle était. Nous pensions être la seule source de technologie de l'humanité. Confortés par cette croyance, nous avons laissé notre ordre décliner pendant des années. Et maintenant, nous ne disposons pas des ressources nécessaires pour nous occuper de l'Enclave. Nous avons besoin d'aide.}
 {138}{}{C'est pour cette raison que je veux te faire une offre. Mène à bien cette mission pour moi et tu auras accès à nos installations ici. Tu disposeras alors, et en exclusivité, du meilleur de la technologie de la Confrérie. Qu'en dis-tu ?}
-{139}{}{Moi réfléchir.}
+{139}{}{Moi devoir penser.}
 {140}{}{Pas d'accord. Moi partir.}
 {141}{}{Bon sang. Moi faire.}
-{142}{}{Je vais y réfléchir.}
+{142}{}{Il faut que j'y réfléchisse.}
 {143}{}{C'est hors de question. Trouve-toi un autre pigeon.}
 {144}{}{Bon sang, c'est peut-être de la folie, mais j'accepte.}
 {145}{}{D'accord. Reviens me voir lorsque tu auras pris ta décision.}
@@ -82,37 +82,36 @@
 {181}{}{Bonjour. As-tu changé d'avis au sujet de mon offre ?}
 {182}{}{Non.}
 {183}{}{Oui. Moi accepter.}
-{184}{}{Non.}
+{184}{}{Non désolé.}
 {185}{}{Oui, j'accepte.}
 {186}{}{As-tu terminé ta mission ?}
 {187}{}{Non, moi toujours chercher.}
 {188}{}{Moi avoir plans.}
-{189}{}{Non, je m'en occupe.}
+{189}{}{Non, je suis déjà pas mal occupé.}
 {190}{}{J'ai les plans des hélicos pour toi.}
 {191}{}{Eh bien, continue. Je sais que c'est une mission difficile, mais je te crois capable de la mener à bien.}
 {192}{}{Ok.}
 {193}{}{Beau travail ! Donne-moi les plans, je vais en faire une copie. Comme promis, je vais te permettre l'accès à toutes nos installations. Merci.}
-{194}{}{Deux rein.}
-{195}{}{Il n'y a pas de quoi.}
+{194}{}{Pas de quoi.}
+{195}{}{Pas d'quoi.}
 {196}{}{Navarro est relativement nouvelle et les effectifs n'y sont pas à leur maximum. Selon mes sources, elle reçoit de nouvelles recrues de temps en temps. Tu pourrais peut-être postuler. Oui, je te conseille de faire ça.}
 {197}{}{Navarro est relativement nouvelle et les effectifs n'y sont pas à leur maximum. Selon mes sources, elle reçoit de nouvelles recrues de temps en temps. Tu pourrais peut-être y aller seul et proposer ta candidature. Oui, c'est une bonne idée. Tes amis pourraient t'attendre ici.}
 {198}{}{Ok.}
 {199}{}{Toi dire *sources* à toi. Quoi être ?}
-{200}{}{Très bien.}
+{200}{}{D'accord.}
 {201}{}{Tu as parlé de tes *sources*. De quoi s'agit-il ?}
 {202}{}{Une de mes opératrices est allée en reconnaissance sur la base. Elle ne donne plus de nouvelles depuis peu et je ne peux m'empêcher de penser au pire. Fais attention.}
 {203}{}{. Je n'aime pas envoyer des gens au casse-pipe.}
 {204}{}{Moi faire à tension, merci.}
 {205}{}{Je vais faire attention. Merci.}
 {206}{}{Merci encore de ton aide. Tu as libre accès à nos installations maintenant.}
-{207}{}{C'est un bureau privé ici.}
-{208}{}{Il n'y a rien pour toi ici.}
-{209}{}{C'est une propriété privée ici. Alors passe ton chemin.}
+{207}{}{C'est un bureau privé.}
+{208}{}{Il n'y a rien pour toi là-bas.}
+{209}{}{C'est une propriété privée alors passe ton chemin.}
 {210}{}{Comment sais-tu qui je suis ?}
 {211}{}{Comment toi connaître moi ?}
 {212}{}{Nous savons beaucoup de choses.}
 {213}{}{Lorsque tu auras mené à bien ta mission, je préparerai le pétrolier pour toi et je t'autoriserai l'accès à notre installation. En attendant, ce serait bien que tu commences tout de suite. Merci.}
-#161
 {214}{}{Deux reins.}
 {215}{}{Beau travail ! Donne-moi les plans, je vais en faire une copie. Comme prévu, je vais faire en sorte que le pétrolier soit prêt pour que tu te rendes à la plate-forme. Va simplement à l'ordinateur du niveau supérieur, et appuie sur le bouton *Marche*. Je t'autoriserai aussi l'accès à toutes nos installations. Merci.}
 {216}{}{Avoir pas de koi !}

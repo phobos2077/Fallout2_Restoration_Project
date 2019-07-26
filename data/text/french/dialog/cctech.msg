@@ -4,7 +4,6 @@
 {103}{}{Hé, combien d'fois je dois l'répéter, imbéciles ?! Sortez du chemin !}
 {104}{}{Vous n'avez donc rien à détruire !}
 {105}{}{Bonjour soldat.}
-
 {106}{}{Qui va là ? Gardes !}
 {107}{}{Bon dieu, qu'est-ce-que c'est ? Des espions dans la base !}
 {108}{}{Merde ! Où est mon flingue ?}
@@ -26,7 +25,6 @@
 {124}{}{T'as des trucs à faire ici ? Dégage sinon.}
 {125}{}{C'est une zone protégée, soldat.}
 {126}{}{Dégage de mon chemin, soldat !}
-
 {127}{}{Bon dieu mais que se passe-t-il là-haut ?}
 {128}{}{Merde ! Ils sont rentrés !}
 {129}{}{Quels clowns ! C'est sûrement une fausse alerte.}

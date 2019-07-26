@@ -3,7 +3,7 @@
 {102}{}{Elle a l'air un peu triste.}
 {103}{}{Arrête !}
 {104}{}{Comment as-tu pu ?}
-{105}{}{Hors de ma vue !}
+{105}{}{Dégage !}
 {106}{}{Pourquoi ?}
 {107}{}{Je t'en prie, arrête !}
 {108}{}{Tu es un assassin !}
@@ -23,9 +23,6 @@
 {122}{}{Je t'aurai plus tard. Au revoir.}
 {123}{}{Ok ?}
 {124}{}{Ug.}
-
-# Node 005 removed
-
 {131}{}{Ne me dérange pas. Je ne suis pas d'humeur pour le moment.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -54,7 +51,7 @@
 {156}{}{Je l'avais lorsque j'étais enfant, mais elle a disparu. Je n'ai jamais su ce qui lui était arrivé, j'étais trop petite.}
 {157}{}{Pourquoi ?}
 {158}{}{Eh bien, la nourriture était très rare en ce temps-là et les gens avaient besoin de se nourrir. C'est vraiment triste.}
-{159}{}{Pourquoi ?}
+{159}{}{Quoi ?}
 {160}{}{Les gens les chassaient car c'étaient des proies faciles. C'est pour ça qu'ils ont tous disparu.}
 {161}{}{Malade !}
 {162}{}{Je peux comprendre ça.}
@@ -63,5 +60,5 @@
 {165}{}{Quel dommage !}
 {166}{}{Oh...}
 {167}{}{Je suis triste rien que d'y penser...}
-{168}{}{Au revoir.}
+{168}{}{Salut.}
 {169}{}{Stacy t'a raconté une belle histoire à propos de Caresses, sa chatte adorée.}

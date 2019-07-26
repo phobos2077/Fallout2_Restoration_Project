@@ -6,10 +6,10 @@
 {105}{}{S³ysza³em o tobie. Cholera, pomyli³y ci siê drzwi!}
 {106}{}{Szukasz guza? Gadaj z Merkiem.}
 {107}{}{Hej, laleczko, chcesz gdzieœ iœæ na stronê i trochê siê zabawiæ?}
-{108}{}{Nie gadaj do mnie! Nie chcê znowu dostaæ w mordê.}
+{108}{}{Nie mów do mnie! Nie chcê kolejnego bicia.}
 {109}{}{Cholerna tania whisky! Wiesz co, daj¹ tu najgorsze szczochy.}
 {110}{}{Kurde! Nie chcia³em wylaæ mojego drinka na ciebie. Wyczyszczê to. Sory, sory.}
-{111}{}{Odczep siê ode mnie!}
+{111}{}{Trzymaj siê z daleka ode mnie!}
 {112}{}{S³ysza³em o tobie. Nie bij mnie, proszê.}
 {113}{}{Od niedawna w mieœcie? Mówi siê, ¿e Merk szuka jakichœ twardych hombres.}
 {114}{}{Co ty, twardziela zgrywasz? Wynocha mi st¹d!}
@@ -21,7 +21,7 @@
 {120}{}{Na to ja, proszê ciebie, mówiê do niego, "S³uchaj", mówiê...}
 {121}{}{Spróbuj pieczonego kretoszczura. Najlepszy w okolicy.}
 {122}{}{Czeœæ. Postawisz kolejkê, nie?}
-{123}{}{Je¿eli szukasz roboty, przybyszu, to idŸ na dó³ do Wolarzy.}
+{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
 {124}{}{Kurwa! Widzia³eœ to?}
 {125}{}{O Bo¿e, chyba siê porzygam.}
 {126}{}{Dla mnie ju¿ wystarczy.}

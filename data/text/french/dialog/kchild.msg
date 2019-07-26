@@ -1,31 +1,5 @@
-#############################################################
-#  Message File: kchild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
-
 {100}{}{Tu vois un enfant de Klamath.}
 {101}{}{Tu vois un enfant de Klamath.}
-
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
-
 {150}{}{Ne me mange pas !}
 {151}{}{Ahhhh ! Un ogre !}
 {152}{}{Papa dit que tu es un méchant.}
@@ -45,7 +19,6 @@
 {166}{}{Maman, maman, maman !}
 {167}{}{Laisse-moi tranquille.}
 {168}{}{Tu pues !}
-
 {170}{}{Salut tout le monde !}
 {171}{}{Tu veux jouer au papa et à la maman ?}
 {172}{}{C'est vrai que tu te mets un os dans les narines ?}
@@ -66,7 +39,6 @@
 {187}{}{Mon chien adore la viande séchée.}
 {188}{}{J'ai un caillou brillant.}
 {189}{}{Tu as vu mon copain invisible ?}
-
 {190}{}{Est-ce que je peux venir dans votre tribu ?}
 {191}{}{Tu es gentil.}
 {192}{}{Tu as un drôle d'air. }
@@ -101,11 +73,6 @@
 {221}{}{Est-ce que tu m'aimes bien ?}
 {222}{}{Tu es marié ?}
 {223}{}{Un, deux, trois ! Youpi !}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
-
 {1000}{}{La doyenne}
 {1001}{}{Fondatrice}
 {1002}{}{Habitant de l'Abri }
@@ -118,7 +85,6 @@
 {1009}{}{Poudre médicinale}
 {1010}{}{Pont}
 {1011}{}{Mynoc}
-
 {1100}{}{La doyenne est à la fois ta mère et ton chef.}
 {1101}{}{Notre illustre ancêtre qui nous a légué le savoir.}
 {1102}{}{La première à avoir combattu et vaincu le chaos. }

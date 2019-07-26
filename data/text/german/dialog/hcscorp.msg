@@ -18,4 +18,3 @@
 {116}{}{::schärfen::}
 {117}{}{Wenn man genauer hinschaut, schient dieser Skorpion ziemlich intelligent zu sein und
  keine Bedrohung.}
-

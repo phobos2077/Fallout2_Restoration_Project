@@ -1,29 +1,23 @@
 {100}{}{Du siehst einen Techniker.}
 {101}{}{Du siehst einen Enklave-Techniker.}
-{102}{}{Du siehst jemanden in einem Laborkittel. Er erscheint sehr selbstbewußt.}
+{102}{}{Du siehst jemanden, der einen Laborkittel trägt. Er wirkt überzeugt und selbstsicher.}
 {103}{}{Ja, Sir?}
 {104}{}{Ich neu hier. Muß Frage stellen.}
 {105}{}{Ich nur sagen Hallo. Ich gehen.}
 {106}{}{Ich bin neu hier und möchte mich mit der Basis vertraut machen. Darf ich dich etwas
  fragen?}
-{107}{}{Wollte nur Hallo sagen. Bis die Tage.}
+{107}{}{Ich sag nur Hallo. Bis später.}
 {108}{}{Aber natürlich, Soldat.}
 {109}{}{Wie kann ich dir helfen?}
 {110}{}{Was sein das hier?}
 {111}{}{Was dein Job?}
 {112}{}{Wo Enklave-Hauptbasis.}
 {113}{}{Ich suchen Vertibird-Pläne. Wo finden?}
-{114}{}{Ich suchen Sprengstoff. Wo finden?}
-{115}{}{Ich suchen Energiezentrale. Wo sein?}
-{116}{}{Wo Kommandant?}
 {117}{}{Ich jetzt gehen.}
 {118}{}{Was ist das alles hier?}
 {119}{}{Was ist dein Job hier?}
 {120}{}{Wo liegt die Enklave-Hauptbasis?}
 {121}{}{Ich muß die Vertibird-Pläne sehen. Wo werden die aufbewahrt?}
-{122}{}{Haben wir hier in der Basis Sprengstoff?}
-{123}{}{Kannst du mir sagen, wo die Energiezentrale ist?}
-{124}{}{Wo ist der Kommandant der Basis?}
 {125}{}{Nichts, ich muß gehen.}
 {126}{}{Dies ist die Kommandozentrale. Von hier aus läuft die gesamte Kommunikation mit der
  Hauptbasis und allen Außenposten, die aufgebaut wurden.}
@@ -59,18 +53,8 @@
 {143}{}{Sie befinden sich in der Wartungsabteilung, neben der Luftverkehrsüberwachung. }
 {144}{}{OK.}
 {145}{}{Kapiert.}
-{146}{}{Explosivwaffen werden in der Waffenkammer aufbewahrt.}
-{147}{}{Ich dort versuchen.}
-{148}{}{Verstanden.}
-{149}{}{Der Aufzug hier führt zur Energiezentrale.}
-{150}{}{Kapiert.}
-{151}{}{Alles klar.}
-{152}{}{Nimm irgendeinen Aufzug außer diesem hier zur unteren Ebene. Dort kann dir dann jemand
- weiterhelfen.}
-{153}{}{Danke.}
-{154}{}{Sicher.}
 {155}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Laß dich ausrüsten!}
-{156}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
+{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
 {157}{}{Warum trägst du keine Uniform? }
 {158}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {159}{}{Eindringlinge! Ruft die Wache!}

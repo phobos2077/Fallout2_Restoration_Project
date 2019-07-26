@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen Wissenschaftler.}
 {101}{}{Du siehst Dr. Schreber.}
-{102}{}{Du siehst einen Mann mit beginnender Glatze im Laborkittel.}
+{102}{}{Du siehst einen glatzköpfigen Mann im Laborkittel.}
 {103}{}{Hoffentlich hast du einen guten Grund, mich bei der Arbeit zu stören, Soldat.}
 {104}{}{Ich wollen fragen.}
 {105}{}{Nein, ich kommen später.}
@@ -15,7 +15,7 @@
 {113}{}{Warum Hundi bei Tür nicht bewegen? Gar nix?}
 {114}{}{Ich müssen gehen.}
 {115}{}{Wer bist du?}
-{116}{}{Was tust du hier?}
+{116}{}{Was machst du hier?}
 {117}{}{Was ist das alles hier?}
 {118}{}{Wieso ist der Raum hier schalldicht?}
 {119}{}{Warum befindet sich nebenan eine Deathclaw?}
@@ -46,7 +46,7 @@
  werden die dann etwas laut. Der Basiskommandant empfand dies als störend, deshalb ließ er die
  Schallisolierung einbauen.}
 {136}{}{Oh...}
-{137}{}{Ich verstehe.}
+{137}{}{Verstehe.}
 {138}{}{Groß, braun und häßlich? Ein Experiment, das ich kürzlich vollendet habe. Seine
  Ausschaltung ist schon geplant.}
 {139}{}{Was Ausschaltung?}
@@ -63,7 +63,7 @@
 {146}{}{Wir haben es geschafft! Wir haben tatsächlich ihre Intelligenz gesteigert. Doch ich
  ahnte, daß wir zu weit gegangen sind. Daß sie vielleicht klüger waren, als sie zeigten. Als ich
  hierher versetzt wurde, brachte ich also eine von ihnen mit, um meine Theorie zu überprüfen.}
-{147}{}{Und?}
+{147}{}{Oh-oh...}
 {148}{}{Ich hatte recht! Die Deathclaws hatten sich offensichtlich dumm gestellt, versuchten
  Zeit zu schinden und so viel wie möglich von uns zu lernen. Sie können sogar die menschliche
  Sprache imitieren! Ich habe mich tatsächlich mit dem Exemplar nebenan unterhalten.}
@@ -88,7 +88,7 @@
 {164}{}{Wieder da? Was kann ich jetzt für dich tun?}
 {165}{}{Du sicher Zimmer schallisol?}
 {166}{}{Ich noch Fragen.}
-{167}{}{Nix. Ich sagen Hallo.}
+{167}{}{Nichts, ich wollen nur Hallo sagen.}
 {168}{}{Bist du sicher, daß das Zimmer hier schalldicht ist?}
 {169}{}{Ich wollte noch ein paar Fragen stellen.}
 {170}{}{Nichts, ich wollte nur vorbeischauen.}
@@ -98,7 +98,7 @@
 {174}{}{Nur neugierig.}
 {175}{}{Ich möchte nicht, daß jemand dein Geschrei hört, wenn ich Experimente an dir durchführe.}
 {176}{}{Bitte sehr. Sie ist nebenan.}
-{177}{}{Danke!}
+{177}{}{Danke auch!}
 {178}{}{Das ist K-9, mein Hund. Ich wollte wissen, ob ich seine Intelligenz kybernetisch
  steigern könnte. Es funktionierte, aber hat er dabei eine eigene Moral entwickelt. Er mag meine
  Arbeit oder mich nicht besonders und hat mich gebissen.}
@@ -107,17 +107,17 @@
  durchführe.}
 {180}{}{Oh...}
 {181}{}{Er repariert?}
-{182}{}{Ich verstehe.}
+{182}{}{Verstehe.}
 {183}{}{Kann er repariert werden?}
 {184}{}{Oh ja. Ich habe seinen Motivator-Schaltkreis entfernt und ihn Raul in der
  Wartungsabteilung gegeben. Er kann jederzeit wieder eingesetzt werden... Vielleicht mache ich
  das eines Tages, um zu sehen, ob sich seine Einstellung geändert hat.}
 {185}{}{OK.}
-{186}{}{Alles klar.}
+{186}{}{Also gut.}
 {187}{}{Bist du ein Zivilist?}
 {188}{}{Das ist das medizinische Labor. Die Waffenkammer ist den Flur entlang links.}
-{189}{}{Warum trägst du keine Uniform?}
-{190}{}{Heilige Scheiße! Wir werden überfallen! Alarm!}
+{189}{}{Warum trägst du keine Uniform? }
+{190}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {191}{}{Eindringlinge! Ruft die Wache!}
 {192}{}{Wache! Eindringlinge im medizinischen Labor!}
 {193}{}{Was ist los? Werden wir angegriffen?}
@@ -126,7 +126,7 @@
 {196}{}{Ich bin kein Feind, nicht schießen.}
 {197}{}{Ich habe mich nicht für den Kampfeinsatz gemeldet, also laß mich in Ruhe.}
 {198}{}{Verdammt! Ich bin Arzt, kein Soldat!}
-{200}{}{[Weiter]}
-{201}{}{Ich wollte einige Fragen stellen.}
-{202}{}{Jetzt nicht. 'Tschuldige das ich störe.} 
+{200}{}{[Mehr]}
+{201}{}{Ich möchte dich was fragen.}
+{202}{}{Jetzt nicht. 'Tschuldige das ich störe.}
 {800}{}{Du hast Doktor Schreber getötet.}

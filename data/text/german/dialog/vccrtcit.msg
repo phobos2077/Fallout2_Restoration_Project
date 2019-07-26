@@ -11,7 +11,7 @@
 {109}{}{Könntest du bitte ein bißchen Abstand halten?}
 {110}{}{Bleib einfach dort drüben.}
 {111}{}{Du solltest dich jetzt auf den Weg machen.}
-{112}{}{[Verschwinde.]}
+{112}{}{Verschwinde.}
 {113}{}{Vorsicht, oder ich rufe die Wachen.}
-{114}{}{Ich hab dich auf dem Kieker.}
+{114}{}{Ich hab dich im Auge.}
 {115}{}{Immer diese Außenweltler...}

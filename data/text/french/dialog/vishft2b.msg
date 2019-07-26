@@ -1,7 +1,7 @@
 {100}{}{Un système d'aération, produisant et distribuant de l'air propre et traité dans tout le complexe de l'abri. Tu entends une légère vibration provenant de la ventilation.}
 {101}{}{Tu vois une bouche d'aération.}
 {102}{}{Un système d'aération, produisant et distribuant de l'air propre et traité dans tout le complexe de l'abri. Tu entends une légère vibration provenant de la ventilation.}
-{103}{}{Un système d'aération, produisant de l'air propre et traité dans tout le complexe de l'abri.}
+{103}{}{C'est un système d'aération, produisant de l'air propre et traité, dans tout le complexe de l'abri.}
 {104}{}{Tu vois une bouche d'aération.}
 {105}{}{C'est un système d'aération, produisant de l'air propre et traité, dans tout le complexe de l'abri.}
 {106}{}{::Vibration::}

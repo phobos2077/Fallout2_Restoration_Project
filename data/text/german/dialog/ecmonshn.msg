@@ -2,7 +2,7 @@
 {101}{}{Wir verkaufen nur Schnaps der besten Qualit‰t. Interesse?}
 {102}{}{Ja, schau'n wir mal, was du so alles hast.}
 {103}{}{Nein.}
-{104}{}{Ug}
+{104}{}{Agh.}
 {105}{}{Dann hau ab! Wir sind besch‰ftigt.}
 {106}{}{Ich paﬂ schon auf, daﬂ die Alkoholmischung genau richtig ist.}
 {107}{}{Baka. Baka BAKA!}

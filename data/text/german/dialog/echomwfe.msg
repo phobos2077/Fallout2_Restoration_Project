@@ -1,7 +1,6 @@
 {100}{}{Du siehst eine schlanke, sonnengebräunte Frau.}
 {101}{}{Du siehst eine Farmerin.}
 {102}{}{Du bemerkst, dass sie die typische Bräune einer Farmerin hat.}
-
 {200}{}{Dies ist mein Haus.}
 {201}{}{Verdammte Banditen.}
 {202}{}{Haut ab!}
@@ -13,8 +12,6 @@
 {208}{}{Bitte verschont mich.}
 {209}{}{Ich hab die Landwirtschaft eh immer gehaßt.}
 {210}{}{Bitte brennt das Haus nicht nieder.}
-
 {220}{}{Nerv mich nicht.}
-
 {230}{}{Danke, das du uns geholfen hast.}
 {231}{}{Ich wünschte, da wären mehr Leute wie du auf der Welt.}

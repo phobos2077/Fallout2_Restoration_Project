@@ -1,10 +1,7 @@
 {100}{}{Du siehst eine Wache.}
 {101}{}{Du siehst eine der Wachen, die dir bei dieser Karawane hilft.}
-
 {200}{}{Du siehst einen Karawanentreiber.}
 {201}{}{Du siehst einen der Treiber, der bei dieser Karawane hilft.}
-
-
 {300}{}{Ich hoffe, wir begegnen nicht noch mehr Leuten auf unserm Weg.}
 {301}{}{Der Scheck, den wir am Ziel bekommen, ist wohl verdient.}
 {302}{}{Ich hoffe, die Bar hat auf, wenn wir dort ankommen.}

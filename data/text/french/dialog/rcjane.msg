@@ -5,7 +5,7 @@
 {104}{}{Oooh. Fouuurrrrrure !}
 {105}{}{Jolie fourrure.}
 {106}{}{Ah, je vois. Toi tu n'es pas d'ici. Eh bien, je vais te dire. Je vais faire un pari spécial pour toi demain pendant les combats. Veux-tu que je fasse ça pour toi ?}
-{107}{}{[Tu fais oui de la tête.] Ok, Ok. [Et tu sors ta bourse.]}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Moâk ? Gaga. Au revoir jolie fourrure.}
 {109}{}{Bonne idée. Reviens ici demain et si ta créature gagne le combat, je te donnerai ton argent, Ok ?}
 {110}{}{D'accord, bien joué. Je vais m'assurer que tu aies un pari spécial avec ça. A plus tard.}
@@ -60,7 +60,7 @@
 {159}{}{Venez voir le duel du jour !}
 {160}{}{Des créatures sauvages combattent pendant que vous gagnez de l'argent ! VOUS ADOREREZ !}
 {161}{}{Amenez vos bourses et vos plus fortes espérances ! PAR ICI !}
-{162}{}{Du balai !}
+{162}{}{Fous le camp d'ici.}
 {163}{}{Je n'ai pas besoin de ce genre de business.}
 {164}{}{Emmenez-moi ça ailleurs.}
 {165}{}{Dégage de mon enclos.}
@@ -72,7 +72,7 @@
 {171}{}{Euh, j'en suis.}
 {172}{}{Les gros lézards me font peur. Je ferais mieux de rester en dehors de tout ça. Merci pour l'avertissement. [A toi-même :] Pfuui, j'ai eu chaud...}
 {173}{}{Le côté sport, c'est le pari sur l'issue du combat. Voilà comment ça marche : tu viens me voir et tu me dis que tu veux faire un pari. Je te dis quelles créatures s'affrontent et tu me dis sur laquelle tu paries.}
-{174}{}{Et ensuite ?}
+{174}{}{Et puis ?}
 {175}{}{Simple, si ta créature gagne, tu doubles ta mise. Tu la TRIPLES dans le cas d'un KO au premier round ! Si ta créature perd alors ton argent devient le mien. Il y a d'habitude plusieurs combats par jour. Tant qu'il y a encore des monstres, tu peux parier sur tous les monstres. Mais juste un pari par combat. Ah, aussi, pour que les choses restent simples, tous les paris sont à $100.}
 {176}{}{Ok. J'ai compris. Je vais essayer.}
 {177}{}{Je vois. Humm, je crois que je vais essayer ça une autre fois. Salut.}
@@ -102,7 +102,7 @@
 {201}{}{Bien sûr.}
 {202}{}{Humm, celle-là, je ne la sens pas très bien. Pas maintenant.}
 {203}{}{Hé, personne te force à parier dessus, Ok ? Si t'aimes pas ce que tu vois ici, et ben casse-toi, on ne te regrettera pas. T'as compris ?}
-{204}{}{Oui oui.}
+{204}{}{Je comprends.}
 {205}{}{Quel coup !}
 {206}{}{ a écrasé }
 {207}{}{ au premier round ! Quel combat !}
@@ -129,13 +129,7 @@
 {228}{}{J'ai bien fait de garder mon argent.}
 {229}{}{Celle-ci m'aurait coûté.}
 {230}{}{Beau combat. Mais j'ai bien fait de ne pas parier.}
-{231}{}{Oh, merci.}
-
-####
-# Fighter Names
-####
-
-# Fighter 1
+{231}{}{D'accord, merci.}
 {300}{}{Keen Squeek}
 {301}{}{Vicky}
 {302}{}{Spike}
@@ -143,10 +137,8 @@
 {304}{}{Dimsdale}
 {305}{}{Marengo}
 {306}{}{Jackelope}
-{307}{}{Killer}
+{307}{}{Tueur}
 {308}{}{Boss}
-
-# Fighter 2
 {310}{}{Tanker}
 {311}{}{Muttley}
 {312}{}{Spud}
@@ -156,20 +148,16 @@
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-
-# Fighter 3
 {320}{}{Stumpy}
 {321}{}{Broyeur}
-{322}{}{Eclateur}
+{322}{}{l'Eventreur}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
 {326}{}{Cyclope}
 {327}{}{Spot}
 {328}{}{Seigneur Wiggler}
-
-# Fighter 4
-{330}{}{Lucky}
+{330}{}{La Chance}
 {331}{}{Zoroastre le Grand}
 {332}{}{Shub}
 {333}{}{Usuthu}
@@ -178,9 +166,7 @@
 {336}{}{Précieux}
 {337}{}{Fraggle}
 {338}{}{Capitaine de Minuit}
-
-# Fighter 5
-{340}{}{Marteau}
+{340}{}{Le Marteau}
 {341}{}{Secrétariat}
 {342}{}{Man o' War}
 {343}{}{Sancho Panza}
@@ -189,9 +175,7 @@
 {346}{}{Grendel}
 {347}{}{Dame Pénélope}
 {348}{}{M.Baggins}
-
-# Fighter 6
-{350}{}{Eclair}
+{350}{}{Foudre}
 {351}{}{Percy}
 {352}{}{Fleur}
 {353}{}{Rumplestiltskin}
@@ -200,4 +184,3 @@
 {356}{}{McComb}
 {357}{}{Avellone}
 {358}{}{Zeb}
-

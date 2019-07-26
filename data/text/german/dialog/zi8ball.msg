@@ -1,8 +1,5 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
-{199}{}{Das ist ja wohl 'ne absolut dämliche Frage.}
+{199}{}{Was soll diese beschissene Frage?}
 {200}{}{Die Aussichten sind gut.}
 {201}{}{Die Aussichten sind nicht so gut.}
 {202}{}{Meine Antwort ist nein.}
@@ -32,7 +29,6 @@
 {226}{}{Mir wird schlecht.}
 {227}{}{Mir wird übel.}
 {228}{}{Deine Hände sind warm.}
-# 9 or greater luck
 {229}{}{Feargus war dagegen, daß ich bei Fallout mitmachen darf. Er is' 'n ziemlicher Fiesling.}
 {230}{}{Du hast 23 von 100 Punkten. Du mußt dich noch ganz schön anstrengen.}
 {231}{}{Scott Everts stößt einen tiefen Seufzer aus, wenn er sieht, wie viele Inventarobjekte

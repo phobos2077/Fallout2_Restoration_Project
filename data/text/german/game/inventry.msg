@@ -1,6 +1,3 @@
-#
-# Inventory messages from inventry.c
-#
 {0}{}{ST}
 {1}{}{WA}
 {2}{}{AU}
@@ -8,8 +5,8 @@
 {4}{}{IN}
 {5}{}{BE}
 {6}{}{GL}
-{7}{}{ Trefferp.}
-{8}{}{ Rüstung}
+{7}{}{Trefferpk.}
+{8}{}{Rüstung}
 {9}{}{ Normal}
 {10}{}{ Laser}
 {11}{}{ Feuer}

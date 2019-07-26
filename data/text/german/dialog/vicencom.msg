@@ -44,7 +44,7 @@
 {137}{}{Abgesicherte Sicherungskopie der Listen wird zur Verteilung an alle Terminals in
  Vault City an den Hauptlistenserver gesendet.}
 {138}{}{Sie können das Terminal jetzt ausschalten.}
-{139}{}{Danke schön.}
+{139}{}{Danke.}
 {140}{}{Systemdiagnose wird begonnen. }
 {141}{}{Nachdem die Systemdiagnose begonnen wurde, kann sie jederzeit durch den Systemoperator
  abgebrochen werden.}
@@ -74,14 +74,14 @@
 {163}{}{Abgesicherte Sicherungskopie der Listen wird zur Verteilung an alle Terminals in
  Vault City an den Hauptlistenserver gesendet.}
 {164}{}{Sie können das Terminal jetzt ausschalten.}
-{165}{}{Danke schön.}
+{165}{}{Danke.}
 {166}{}{Du siehst einen Metallkasten, aus dem ein Frauenstimme spricht. Die Frau muß sich im
  Inneren des Kastens befinden! Da drin muß es doch fürchterlich eng sein.}
 {167}{}{Du hast dich beim Zentralcomputer von Vault City angemeldet. Die Benutzeroberfläche
  sieht recht einfach aus, alles ist in einzelne Archive unterteilt.}
 {168}{}{Hullo? Hullo?}
 {169}{}{Versuche den Kasten aufzustemmen, um die Frau daraus zu befreien.}
-{170}{}{[Verschwinde.]}
+{170}{}{Verzieh dich}
 {171}{}{Durchsuche die Archive nach einem Hinweis auf Vault 13.}
 {172}{}{Durchsuche die Archive nach einem Hinweis auf das Garden-Eden-Creation-Kit.}
 {173}{}{Lege die Disk aus dem Gecko-Kraftwerk in den Computer ein.}
@@ -91,15 +91,15 @@
 {177}{}{Melde dich beim Terminal ab.}
 {178}{}{Der Metallkasten antwortet nicht.}
 {179}{}{Versuche den Kasten aufzustemmen, um die Frau daraus zu befreien.}
-{180}{}{[Verschwinde.]}
+{180}{}{Verzieh dich}
 {181}{}{Du kniest unter dem Metallkasten nieder. Du bohrst deine Finger in eine der Platten unter
  dem Kasten und reißt die Platte ab. Es ist keine Frau in dem Kasten! Nur ein paar tote Schlangen
  und blinkende Lichter.}
 {182}{}{Du greifst in die Schlangen hinein und tastest dich in dem Kasten vor.}
-{183}{}{[Verschwinde.]}
+{183}{}{Verzieh dich}
 {184}{}{Es ertönt ein GZZZZTTTTTT und dann...}
 {185}{}{...wachst du auf.}
-{186}{}{[Verschwinde.]}
+{186}{}{Verzieh dich}
 {187}{}{Du stemmst die Abdeckung unter der Maschine auf und suchst nach einem Modul für die
  Stimmerkennung. Du kannst keines entdecken... die Platinen in diesem Computer unterscheiden sich
  grundlegend von denen im Vault 13-Computer.}
@@ -125,11 +125,11 @@
 {200}{}{Ein kleines Fenster mit einem lächelnden PIPBoy daneben öffnet sich auf dem Bildschirm.
  Der PIPBoy beginnt zu pfeifen und mit den Füßen auf den Boden zu klopfen. Ein rotes Licht
  leuchtet neben dem Computerschacht auf.}
-{201}{}{Warte...}
+{201}{}{Moment...}
 {202}{}{Brich das Verfahren ab und melde dich bei dem Terminal ab.}
 {203}{}{Ein ungesundes Knirschen ertönt aus dem PIPBoy-Schacht. Der PIPBoy pfeift weiter
  leise vor sich hin und klopft mit den Füßen.}
-{204}{}{Warte...}
+{204}{}{Moment...}
 {205}{}{Brich das Verfahren ab und melde dich bei dem Terminal ab.}
 {206}{}{Der PIPBoy hält plötzlich inne und runzelt die Stirn. Über seinem Kopf erscheint ein
  Ausrufezeichen und er droht dir mit dem Zeigefinger. }
@@ -138,12 +138,12 @@
 {209}{}{Brich das Verfahren ab und melde dich bei dem Terminal ab.}
 {210}{}{Eine kleine Anzeige unter dem PIPBoy gibt an, daß die letzte Wartung vor 50.352 Jahren
  war. Die Archive sind beschädigt und müssen "neu formatiert" werden. Möchtest du fortfahren?}
-{211}{}{Oh... sicher doch.}
+{211}{}{Äh... sicher.}
 {212}{}{Waa... nein! Auf gar keinen Fall! }
 {213}{}{Brich das Verfahren ab und melde dich bei dem Terminal ab.}
 {214}{}{Initialisierungsverfahren wird gestartet... PIPBoy wird neu formatiert...}
 {215}{}{}
-{216}{}{Warte...}
+{216}{}{Moment...}
 {217}{}{Brich das Verfahren ab und melde dich bei dem Terminal ab.}
 {218}{}{Initialisierungsverfahren wird gestartet...}
 {219}{}{                             PIPBoy wird neu formatiert...}
@@ -197,11 +197,11 @@
  Sonst werd ich ziemlich stinkig.}
 {253}{}{Der PIPBoy auf dem Bildschirm winkt zum Abschied und der Bildschirm wird schwarz. Das
  Computerterminal wird heruntergefahren.}
-{254}{}{Verschwinde.}
+{254}{}{[Du gehst.]}
 {255}{}{Ja, mach besser, daß du wegkommst, du kleiner Mistkerl.}
 {256}{}{Das Computerterminal wurde heruntergefahren. Du hast keine Ahnung, wie du das System
  wieder einschaltest.}
-{257}{}{Verschwinde.}
+{257}{}{[Geh]}
 {258}{}{Datenträger wird gelesen... Reaktordaten: Atomkraftwerk... Leistung: 43%/75%... Fehler: Kraftwerkkalibrierung - MD4/gh1... Möchten Sie optimieren?}
 {259}{}{}
 {260}{}{}
@@ -217,8 +217,6 @@
 {270}{}{Durchsuche die Archive.}
 {271}{}{Melde dich beim Terminal ab.}
 {272}{}{Oooooooh. Dasss kribbbelt.}
-
-
 {300}{}{Als du gerade wieder zur Auflistung der Archive zurückkehren willst, entdeckst du einen versteckten Eintrag.}
 {301}{}{Als du dich gerade abmelden willst, entdeckst du einen versteckten Eintrag.}
 {302}{}{[Weiter]}
@@ -230,5 +228,4 @@
 Eventuell kann über den wahren Zweck dieser Vaults an anderer Stelle mehr herausgefunden werden.}
 {306}{}{[Kehre zur Archiv-Auflistung zurück.]}
 {307}{}{[Abmelden.]}
-{308}{}{Du hast den wahren Zweck von Vault 8 erfahren und merkst, dass es einige Geheimnisse gibt die genauso schwer zu knacken sind wie die Vaults selbst.}
-
+{308}{}{You learn about the real purpose of Vault 8 and that there is more to the construction of all the Vaults than meets the eye.}

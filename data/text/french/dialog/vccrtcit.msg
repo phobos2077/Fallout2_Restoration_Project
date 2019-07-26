@@ -10,7 +10,7 @@
 {109}{}{Tu peux t'éloigner un peu, s'il te plaît ?}
 {110}{}{Reste là-bas, toi.}
 {111}{}{Tu ferais mieux de partir.}
-{112}{}{Dégage de là !}
+{112}{}{Hors d'ici !}
 {113}{}{Attention, ou j'appelle les gardes !}
-{114}{}{Je t'ai à l’oeil.}
+{114}{}{Je te regarde.}
 {115}{}{C'est des étrangers comme toi...}

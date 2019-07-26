@@ -8,7 +8,7 @@
 {107}{}{Du siehst eine Frau aus Redding.}
 {108}{}{Du siehst eine Frau, die wahrscheinlich in den Minen arbeitet.}
 {109}{}{Du siehst eine Farmerin.}
-{110}{}{Wo starrst du denn so?}
+{110}{}{Was schaust du so?}
 {111}{}{Willkommen in der großen Stadt.}
 {112}{}{Hallo.}
 {113}{}{Bist du schon lange in Redding?}
@@ -32,7 +32,7 @@
 {131}{}{Du siehst einen Schluckspecht.}
 {132}{}{Diese Frau sieht betrunken aus.}
 {133}{}{Hallo, Fremdling.}
-{134}{}{Hallo, du da.}
+{134}{}{Hey da.}
 {135}{}{Hmmm.}
 {136}{}{Rülps.}
 {137}{}{Gluck-gluck-gluck.}
@@ -64,7 +64,7 @@
 {163}{}{Diese Frau ruht sich aus.}
 {164}{}{Diese Frau entspannt sich in ihrem Heim.}
 {165}{}{Hallo.}
-{166}{}{Was machst du hier?}
+{166}{}{Was tust du hier?}
 {167}{}{Ich habe dich nicht eingeladen.}
 {168}{}{Hau ab, hier ist keine Almosenstelle für Sippenangehörige.}
 {169}{}{Verzisch dich, du Stück Dreck.}
@@ -89,7 +89,7 @@
 {188}{}{Diese Person sieht aufgeregt aus.}
 {189}{}{Pack ihn dir!}
 {190}{}{Da geht ein Wochenlohn dahin...schon wieder.}
-{191}{}{Jawohl!}
+{191}{}{Yeah!}
 {192}{}{Mach ihn kalt!}
 {193}{}{An den Hals!}
 {194}{}{Verstümmel das Schwein!}

@@ -1,6 +1,3 @@
-#
-#   Messages from skilldex.c
-#
 {100}{}{   KÖNNEN}
 {101}{}{ABBRECHEN}
 {102}{}{SCHLEICHEN}
@@ -11,4 +8,3 @@
 {107}{}{ARZT}
 {108}{}{WISSENSCHAFT}
 {109}{}{REPARIEREN}
-

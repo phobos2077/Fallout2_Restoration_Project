@@ -9,7 +9,5 @@
 {107}{}{}
 {108}{}{}
 {109}{}{Beenden}
-
-
 {200}{}{ kann nicht lesen, was auf dem Monitor steht.}
 {300}{}{Der Computer scheint mit einer Art Abwehrmechanismus ausgestattet zu sein.}

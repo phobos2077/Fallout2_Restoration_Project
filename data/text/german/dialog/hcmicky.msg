@@ -10,15 +10,15 @@
 {109}{}{Tschüß.}
 {110}{}{Nein, heute nicht. Falls mir welche begegnen sollten, laß ich es dich wissen.}
 {111}{}{Äh, ja, um es genau zu sagen. Ich schätze, du wärst genau der richtige Partner für ein "joint venture".}
-{112}{}{Wie lautet Dein Name?}
+{112}{}{Wie heißt du?}
 {113}{}{Macht nichts.}
 {114}{}{Ich? Ich bin Micky, der milde und heitere Schatzjäger aus Broken Hills.}
 {115}{}{Jägerrr?}
-{116}{}{Wiedersehen.}
+{116}{}{Tschüssi!}
 {117}{}{Schatzjäger?}
 {118}{}{Wie nett. Guten Tag.}
 {119}{}{Sag bloß, du hast noch nichts von mir gehört? Kennst du nicht die Geschichten vom Schnellen Micky? Von seinen laufenden Schießereien, seinen Zweikampf-Aktionen und seinen gefürchteten Plünderungen?}
-{120}{}{Nee.}
+{120}{}{Nee}
 {121}{}{Ich bedaure, ich hatte noch nicht das Vergnügen.}
 {122}{}{Nun, da hast du was verpaßt, mein Freund. Ich muß dich in den nächsten Tagen mal mit den glorreichen Details versorgen.}
 {123}{}{Guuuuut.}

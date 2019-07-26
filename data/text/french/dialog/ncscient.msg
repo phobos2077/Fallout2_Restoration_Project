@@ -1,20 +1,13 @@
-# quick look
 {100}{}{Tu vois un savant.}
-
-# examines
 {150}{}{Tu vois un homme à l'air sévère avec un écritoire et une seringue hypodermique. Il t'ignore.}
 {151}{}{Il semble extrêmement fatigué et irritable.}
 {152}{}{Tu vois une femme à l'air fatiguée. Elle examine un écritoire et elle regarde autour d'elle comme si elle avait oublié quelque chose.}
 {153}{}{Elle remplit une seringue hypodermique, en bougonnant.}
-
-# FLOAT
-# (COMPANION = MYRON)
 {154}{}{Bonjour Myron, chef.}
 {155}{}{Myron... Chef, as-tu une minute... ?}
 {156}{}{On a des nouvelles du prochain arrivage d'esclaves, chef ?}
 {157}{}{Myron... Les derniers résultats sont très prometteurs, chef...}
 {158}{}{Myron ? Tu as une minute d'attention chef ?}
-# (NORMAL)
 {159}{}{Merde, où est Myron ?}
 {160}{}{Fais venir Myron. Il faut qu'il voie ça.}
 {161}{}{J'aimerais que ces esclaves la ferment...}
@@ -28,13 +21,10 @@
 {169}{}{Bon, quelles SORTES d'hallucinations avait-il ?}
 {170}{}{Vérifie son pouls. S'il est encore dans des limites tolérables, augmente la dose.}
 {171}{}{Pourquoi l'esclave du groupe témoin s'est-elle suicidée ? On ne s'est même pas servi d'elle pour faire des expériences !}
-
-# CLICK
-# (COMPANION = MYRON)
 {200}{}{Les tests se déroulent comme prévu, Myron.}
 {201}{}{Chef, ce nouveau lot de Jet crée une forte dépendance. Les esclaves sont presque prêts à s'entre-tuer pour en avoir.}
 {202}{}{Les esclaves préfèrent prendre du Jet plutôt que se nourrir.}
-{203}{}{Qui sont ces gens Myron ? De nouveaux sujets ? }
+{203}{}{Qui sont ces gens Myron ? De nouveaux sujets ?}
 {204}{}{Chef, Myron, il semble que le troisième groupe soit le meilleur de tous.}
 {205}{}{Myron, chef, je crois que le prochain groupe devrait comporter au moins 3 enfants.}
 {206}{}{Chef, Myron, le n°46 a eu une attaque cardiaque. Nous avons réduit les doses à 6 par jour.}
@@ -43,7 +33,6 @@
 {209}{}{Chef, Myron, nous avons déplacé 3 esclaves du groupe témoin vers le groupe d'essai à cause des problèmes respiratoires de la semaine dernière.}
 {210}{}{Chef, Myron, nous avons dû abattre un esclave qui tentait de s'échapper. Quel gâchis.}
 {211}{}{Myron, ton nouvel hallucinogène léger est prometteur, mais il n'a pas l'avantage du besoin permanent que le Jet entraîne.}
-# NORMAL
 {212}{}{Si tu as des suggestions, mets-les par écrit, et jette le papier directement dans la corbeille là-bas.}
 {213}{}{Oui, oui, quoi ?}
 {214}{}{On arrivera à rien si tu nous interromps tout le temps.}

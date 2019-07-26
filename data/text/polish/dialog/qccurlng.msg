@@ -32,12 +32,12 @@
 {131}{}{Mo¿esz mieæ racjê. Do widzenia.}
 {132}{}{Jestem por. dr Charles Curling, Wydzia³ Chemiczny Stanów Zjednoczonych. A kim do jasnej cholery TY jesteœ?}
 {133}{}{Jestem twoim najgorszym koszmarem - wkurwionym mutantem z gnatem.}
-{134}{}{Jestem }
+{134}{}{To ja jestem }
 {135}{}{ z Arroyo - mamy du¿o spraw do omówienia.}
 {136}{}{Jestem kimœ, kto musi z tob¹ porozmawiaæ.}
 {137}{}{Musisz ze mn¹ porozmawiaæ? Kim jesteœ i dlaczego mia³bym z tob¹ rozmawiaæ?}
 {138}{}{Pochodzê z Arroyo i muszê z tob¹ porozmawiaæ o tysi¹cach ludzkich istnieñ, jakie trzeba uratowaæ.}
-{139}{}{Jestem }
+{139}{}{To ja jestem }
 {140}{}{, a ty lepiej ze mn¹ gadaj, bo to ja tu trzymam wszystkie asy.}
 {141}{}{Masz racjê. Nie mamy o czym rozmawiaæ. I tak jesteœ ju¿ martwy.}
 {142}{}{Proszê kontynuowaæ, doktorze. Ja ju¿ wychodzê. Do widzenia.}
@@ -52,13 +52,13 @@
 {151}{}{Alarm w sekcji chemicznej!}
 {152}{}{Stra¿e! Alarm! Stra¿e!}
 {153}{}{Czy na pewno? Nasze badania przeprowadzone na twoich pobratymcach dowodz¹, ¿e wasze DNA uleg³o licznym zmianom. To chyba oczywiste, wzi¹wszy pod uwagê iloœæ radiacji jaka wch³onêliœcie.}
-{154}{}{I co z tego, ¿e nasze DNA jest odrobinê inne?}
+{154}{}{I co z tego, ¿e nasze DNA jest inne?}
 {155}{}{Nie do koñca pana zrozumia³em, ale te zmiany chyba nie s¹ a¿ tak powa¿ne?}
 {156}{}{Nie, nie ca³kiem. Jesteœcie odmieñcami, a to was wyklucza. Wasze DNA ró¿ni siê znacznie od naszego. Nieszczêœliwy efekt silnego promieniowania, jak s¹dzê.}
 {157}{}{I co z tego, ¿e nasze DNA jest inne?}
 {158}{}{Nie do koñca pana zrozumia³em, ale te zmiany chyba nie s¹ a¿ tak powa¿ne?}
 {159}{}{Och, zmiany w waszym DNA nie s¹ *drobne*. S¹ naprawdê powa¿ne. Gdyby nie to, ¿e ludzie kieruj¹cy Projektem dali mi tak ma³o czasu, chêtnie przeprowadzi³bym mnóstwo testów, by dok³adnie przestudiowaæ zmiany, jakich F.E.V. dokona³ w waszych organizmach. Doprawdy fascynuj¹ce.}
-{160}{}{Czego chcia³eœ siê dowiedzieæ?}
+{160}{}{Co chcesz wiedzieæ?}
 {161}{}{Pod jakimi wzglêdami nasze DNA jest odmienne?}
 {162}{}{Prowadzisz testy na moim ludzie?}
 {163}{}{Czym do cholery jest ten 'Projekt'?}
@@ -94,7 +94,7 @@
 {193}{}{W porz¹dku, idê. Jeden z nas ma przerypane - i to nie jestem ja. ¯egnam.}
 {194}{}{Toksykologiczne badania nad efektywnoœci¹ toksyny F.E.V. tak.}
 {195}{}{Toksyna F.E.V.? Co to takiego?}
-{196}{}{Pozwól, ¿e zapytam o coœ innego.}
+{196}{}{Pomówmy o czymœ innym.}
 {197}{}{Toksyna F.E.V. to idealne rozwi¹zanie wszystkich naszych problemów.}
 {198}{}{Czym jest toksyna F.E.V.?}
 {199}{}{Chwileczkê. Pozwól, ¿e zapytam o coœ innego.}
@@ -105,7 +105,7 @@
 {204}{}{Ach tak, có¿, w³aœnie do tego przechodzi³em... Wi¹zanie wirusa F.E.V. jest bardzo specyficzne, powi¹zuje siê tylko z ludzkimi glikoproteinami. Potrzbowa³em tylko kilku lat, aby uczyniæ F.E.V bardziej zabójczym, ni¿ by³ do tej pory. Rezultat by³ perfekcyjny w ka¿dym calu.}
 {205}{}{Perfekcyjny? Jak to?}
 {206}{}{Czy to nie oczywiste, mój zmutowany przyjacielu? F.E.V, dziêki mnie, jest œmierteln¹ trucizn¹, a dziêki jakiemuœ tajemniczemu geniuszowi, nazywaj¹cemu siê, raczej dramatycznie, Mistrzem, dzia³a tylko na ludzi, zmutowanych lub nie.}
-{207}{}{Wiêc?}
+{207}{}{No i?}
 {208}{}{To znaczy, ¿e mamy doskona³¹ maszynkê do oczyszczania dla wszystkich prawie ludzkich mutantów infekuj¹cych Ziemiê. }
 {209}{}{Wci¹¿ nie rozumiem, jak to mo¿e byæ *doskona³e*.}
 {210}{}{Muszê ciê spytaæ o jakieœ inne twoje szalone pomys³y.}
@@ -148,12 +148,12 @@
 {247}{}{Gdy gwiazdami zap³aka³o,}
 {248}{}{Czy szczêœliwy pracê z³o¿y³?}
 {249}{}{Pan Baranka - ciebie stworzy³?}
-{250}{}{Co?}
+{250}{}{Hê?}
 {251}{}{Och, tylko coœ, co przypomnia³em sobie z dawno zmar³ego poety. Ciekawe, czy wci¹¿ jest miejsce dla tych, którzy pracowali tak d³ugo dla tak ciemnego koñca. Nasz czas jest skoñczony, wasz siê dopiero zacz¹³. IdŸ ju¿!}
 {252}{}{Och, w porz¹dku, dziêkujê za ca³¹ twoj¹ pomoc, doktorze. Jesteœ odwa¿nym cz³owiekiem.}
 {253}{}{Jesteœ wariatem - ale u¿ytecznym wariatem. ¯egnaj.}
 {254}{}{IdŸ ju¿!}
-{255}{}{Uciekaj st¹d.}
+{255}{}{Wynoœ siê st¹d.}
 {256}{}{Rusz siê!}
 {257}{}{Nie masz na to czasu!}
 {258}{}{IdŸ, gdy jeszcze mo¿esz!}

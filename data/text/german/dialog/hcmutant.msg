@@ -2,7 +2,6 @@
 {101}{}{Du siehst einen alten Mutanten aus Broken Hills.}
 {102}{}{Bei näherer Betrachtung handelt es sich um einen alternden Mutanten. Die Stärke seiner 
 Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er ausstrahlt.}
-
 {103}{}{Ich glaube,... das... Radongas hält die Minenarbeiter jung.}
 {104}{}{Mein Gedächtnis läßt mich im Stich... jetzt weiß ich's wieder... warte...}
 {105}{}{Hast du schon gehört, daß die Menschen uns umbringen wollen?}
@@ -13,7 +12,6 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {109}{}{Mir scheint irgendwie alles zu entgleiten. Ich war doch immer so schnell und stark...
  jetzt bin ich kaum besser als ein Mensch.}
 {110}{}{Was ist das Leben schon wert, wenn es sowieso irgendwann aufhört?}
-
 {132}{}{Wer hat denn diese Hunde freigelassen? Die mach ich fertig!}
 {133}{}{Franc und Manson bleiben besser in ihrem Versteck... Denen schlag ich mit bloßen Händen
  den Schädel ein, wenn ich sie erwische.}
@@ -23,7 +21,6 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {137}{}{Ich werde auf jeden Fall nicht mehr schlafen, bis die beiden Verrückten nicht tot sind.}
 {138}{}{War wohl nichts mit der Sicherheit.}
 {139}{}{Hhhmm... jaaa... wer bist du noch mal?}
-
 {140}{}{Franc und Manson wollen sich benehmen? Haha, das ist ja wohl der beste Witz seit langem.}
 {141}{}{Wir danken dir natürlich nicht, wenn diese beiden Idioten noch mehr anstellen, das ist
  dir ja wohl klar!}
@@ -33,7 +30,6 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {145}{}{Ich werde auf jeden Fall nicht mehr schlafen, bis die beiden Verrückten nicht tot sind.}
 {146}{}{War wohl nichts mit der Sicherheit.}
 {147}{}{Hhhmm... jaaa... wer bist du noch mal?}
-
 {148}{}{Ich wußte es doch! Ich wußte genau, daß diese zwei Scheißtypen es auf uns abgesehen
  hatten!}
 {149}{}{Diesem Bastard Jacob hab ich noch nie getraut.}
@@ -43,17 +39,14 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {153}{}{Ich verliere jeden Tag etwas anderes... heute war es mein Gedächtnis und mein Vertrauen
  in die Menschheit.}
 {154}{}{Du bist schon in Ordnung.}
-
 {162}{}{Francis ist sehr beeindruckt, und das bin ich auch.}
 {163}{}{Wie kann ein Mensch einen Mutanten beim Armdrücken besiegen? Hast du dabei betrogen?}
 {164}{}{Was machst du denn jetzt mit deinem Siegespreis?}
 {165}{}{Stark. Ganz schön stark.}
-
 {166}{}{Wenn du einmal einen Mutanten hattest, willst du gar nichts anderes mehr.}
 {167}{}{Wie ich höre, brennst du schon auf den Kampf gegen Francis.}
 {168}{}{Ich kann's kaum glauben, daß du überhaupt noch gehen kannst.}
 {169}{}{He, Vorsicht... Francis ist vielleicht alt, aber er hat's immer noch drauf!}
-
 {170}{}{Die armen Leute.}
 {171}{}{Unterirdisch gefangen zu sein...}
 {172}{}{Ich hab ja schon immer gesagt, "Jacob und Aileen machen uns noch mal Schwierigkeiten.
@@ -61,7 +54,6 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {173}{}{Tunnel, soso. Ich hab ja schon immer gewußt, daß diese Typen eigentlich Ratten und Würmer
  sind.}
 {174}{}{Dann kam der Gestank wohl von den Leichen, was?}
-
 {175}{}{Warum willst du uns verletzen?}
 {176}{}{Menschen haben mir nie getraut.}
 {177}{}{Laß mich in Ruhe.}

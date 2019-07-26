@@ -11,23 +11,8 @@
 {111}{}{Arhh ! [Tu tapes du poing sur le clavier de rage]}
 {113}{}{Systèmes de sécurité Skynet                                         Attention ! Intrus détecté Niveau 1                                Scanner rétinien activé                                       Analyse                                                             Recherche dans la base de données}
 {114}{}{Scanner Retinien Enclenché                                           Scan...                                                              Recherche dans la base de données}
-{300}{}{ - IDENTITE confirmée}
-{301}{}{Dernier accès enregistré il y a : }
-{303}{}{Caporal Dixon}
-{304}{}{Général Clifton}
-{305}{}{5 décembre 2120}
-{306}{}{ jours.}
-
-{307}{}{Systèmes de sécurité Skynet                                             Attention ! Intrus détecté Niveau }
-{308}{}{Systèmes de sécurité Skynet                                     Attention ! Intrus détecté Niveaux : }
-#no security breach - spaces to align text
-{310}{}{                                             }
-#security breach, only one level - spaces to align text
-{309}{}{                               }
-#security breach, multiple levels - spaces to align text
-{311}{}{                       }
 {115}{}{[Activer le système d'alarme Niveau 2]}
-{116}{}{[Lancer le programme d'auto-diagnostic]}
+{116}{}{[Exécuter le programme automatique de diagnostic]}
 {117}{}{[Quitter]}
 {118}{}{Arhh ! [Tu tapes du poing sur le clavier de rage]}
 {120}{}{Systèmes de sécurité Skynet                                      Accès à ce terminal refusé}
@@ -35,7 +20,7 @@
 {124}{}{Erreur !                                                                 Fichiers programme introuvables                                            Veuillez redémarrer}
 {126}{}{[Quitter]}
 {127}{}{Analyse de la commande. Veuillez patienter...                                  Dérivation des commandes utilisateur                                            Accès refusé}
-{128}{}{[Suite]}
+{128}{}{[Plus]}
 {129}{}{Pour désactiver l'alarme, appuyer sur - 1                                    Pour lancer le programme de diagnostic, appuyer sur - 2                             Pour quitter, appuyer sur - 3}
 {130}{}{[Appuyer sur 1]}
 {131}{}{[Appuyer sur 2]}
@@ -54,4 +39,15 @@
 {144}{}{Analyse de la commande Veuillez patienter...                           Terminer...                                                         Dérivation par code Skynet 667                                      L'accès à ce terminal est terminé.}
 {145}{}{[Quitter]}
 {146}{}{Quitter le programme de diagnostics.}
-{147}{}{[Suite]}
+{147}{}{[Plus]}
+{300}{}{ - IDENTITE confirmée}
+{301}{}{Dernier accès enregistré il y a : }
+{303}{}{Caporal Dixon}
+{304}{}{Général Clifton}
+{305}{}{5 décembre 2120}
+{306}{}{ jours.}
+{307}{}{Systèmes de sécurité Skynet                                             Attention ! Intrus détecté Niveau }
+{308}{}{Systèmes de sécurité Skynet                                     Attention ! Intrus détecté Niveaux : }
+{309}{}{                               }
+{310}{}{                                             }
+{311}{}{                       }

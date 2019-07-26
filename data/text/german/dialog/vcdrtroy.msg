@@ -23,9 +23,9 @@
 {117}{}{Hallo, ich bin Dr. Troy. Kann ich dir irgendwie behilflich sein?}
 {118}{}{Ich aua-aua}
 {119}{}{Hifichsain?}
-{120}{}{[Verschwinde.]}
+{120}{}{[Trotte weg]}
 {121}{}{Ich suche den Hauptcomputer. Kannst du mir sagen, wo er ist?}
-{122}{}{Was willst du hier?}
+{122}{}{Was machst du hier?}
 {123}{}{Schau mich nur mal um, danke.}
 {124}{}{Wer bist du? Sehr erfreut, dich kennenzulernen. Hättest du ein wenig Zeit zum 
 Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkollegen.}
@@ -44,7 +44,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {133}{}{Der Hauptcomputer? Der ist unten auf Ebene 3. Fahr einfach mit dem Aufzug runter,
  dann geh geradeaus und bei der Verzweigung nimmst du die erste links. Dann kommst du geradewegs
  zum Kontrollraum.}
-{134}{}{Was willst du hier?}
+{134}{}{Was machst du hier?}
 {135}{}{Danke.}
 {136}{}{Ich bin der Chefarzt von Vault City. Ich kümmere mich um alle Bürger von Vault City und
  gebe mein Bestes, um alle gesund zu halten.}
@@ -59,7 +59,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {144}{}{Nein, bin ich nicht.}
 {145}{}{Sehr erfreut, dich kennenzulernen.}
 {146}{}{. Falls du mal meine Dienste benötigst: Du findest mich hier.}
-{147}{}{Danke. Auf Wiedersehen.}
+{147}{}{Vielen Dank. Auf Wiedersehn.}
 {148}{}{Du bist aber nicht hier in Vault City geboren, stimmt's? Ich würde mich sonst ganz
  sicher an dich erinnern. Woher stammst du?}
 {149}{}{Moment mal, du bist ein Outsider, stimmt's? Woher stammst du?}
@@ -93,11 +93,11 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {169}{}{Zufällig habe ich etwas Jet dabei. Das kannst du für zwölfhundert Dollar haben.}
 {170}{}{Ich habe etwas Jet dabei. Für fünfzehnhundert würde ich mich davon trennen.}
 {171}{}{Soso... Ich soll also Jet nach Vault City schmuggeln?}
-{172}{}{Was soll ich tun?}
+{172}{}{Was soll ich denn tun?}
 {173}{}{Danke, kein Interesse.}
 {174}{}{Tut mir leid, das zu hören. Komm zurück, wenn du es dir doch noch anders überlegst...
  Ich entschädige dich gerne für deine Mühe.}
-{175}{}{Ich hätte da noch ein paar andere Fragen...}
+{175}{}{Da sind noch mehr Fragen, die ich dir stellen wollte...}
 {176}{}{Entschädigen? Ähh... Bar auf die Hand wär's mir lieber. Wiedersehn.}
 {177}{}{Alles klar. Wiedersehen.}
 {178}{}{Hmmmmm. Das ist wirklich ein fairer Preis, wenn man bedenkt, daß du es dabei hast. Also gut. Hier
@@ -114,7 +114,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {185}{}{Ich kann mir einfach nicht vorstellen, daß du wirklich dieses... Zeug... inhalieren willst.
  Vertrau mir.}
 {186}{}{Tut mir leid, wollte nur behilflich sein. Bis dann, Doktor.}
-{187}{}{Worüber spricht du eigentlich?}
+{187}{}{Wovon redest du?}
 {188}{}{Vergiß es. Ich möchte dich gern noch was anderes fragen...}
 {189}{}{Dieses Zeug wird aus Brahmin-Mist gewonnen.}
 {190}{}{In dem Jet-Kanister sind Dämpfe von verbranntem Brahmin-Mist. Stark, was?}
@@ -236,7 +236,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
  Dollar für das Jet, dein Stillschweigen... und du stellst keine Fragen mehr. Willst du den Job?}
 {273}{}{Gut, was möchtest du wissen? Ich habe zufällig ein bißchen Jet dabei.}
 {274}{}{Was sollte mich davon abhalten, dich jetzt sofort anzuzeigen?}
-{275}{}{Klar, ich mach's.}
+{275}{}{Klar, mach ich.}
 {276}{}{Bin nicht interessiert.}
 {277}{}{Wirklich?}
 {278}{}{Hervorragend! Danke, mein Lieber... Du ahnst ja nicht, wie wichtig das für meine Arbeit
@@ -247,11 +247,11 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {281}{}{Kein Problem. Danke, Doktor.}
 {282}{}{Hallo, Hauptmann. Kann ich irgendwie behilflich sein?}
 {283}{}{Hallo Bürger. Kann ich irgendwie behilflich sein?}
-{284}{}{Kann ich irgendwie behilflich sein?}
+{284}{}{Wie kann ich dir behilflich sein?}
 {285}{}{Ja?}
 {286}{}{Ich aua-aua}
 {287}{}{Hifichsain?}
-{288}{}{[Verschwinde.]}
+{288}{}{[Trotte weg]}
 {289}{}{Ich benötige einen medizinischen Rat.}
 {290}{}{Du hast vorhin gesagt, du wärst Arzt... Ich bin nämlich auch so was wie ein Arzt.}
 {291}{}{Hast du Endorphin-Blocker?}
@@ -263,7 +263,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {296}{}{Sicher. Tut mir leid... Es ist einige Zeit her, daß ich die das letzte Mal verabreicht
  habe. Die meisten Bürger haben ihre Ration vor vielen, vielen Jahren gekriegt. Warte mal, ich
  stelle den Autodoc kurz darauf ein...}
-{297}{}{Na gut.}
+{297}{}{Also gut.}
 {298}{}{Fertig. Aber sieh dich vor: Die Impfung immunisiert nicht völlig gegen Gift
  und Strahlen, aber sie unterstützt das natürliche Abwehrsystem.}
 {299}{}{Vielen Dank. Ich wollte noch was anderes fragen...}

@@ -1,16 +1,13 @@
-{100}{}{Du siehst eine kräftigen Mann in Arbeitskleidung. Sein Blick fixiert starr den Boden.}
+{100}{}{Du siehst eine kräftigen Mann in Arbeitskleidung. Sein Blick fixiert starr  den Boden.}
 {101}{}{Du siehst einen Sklaven aus Vault City.}
 {102}{}{Du siehst eine kräftigen Mann in Arbeitskleidung. Sein Blick fixiert starr  den Boden.}
-{103}{}{Du siehst eine gesund aussehende Frau in Arbeitskleidung. Ihr Blick fixiert starr den Boden.}
-
+{103}{}{Du siehst eine gesund aussehende Frau in Arbeitskleidung.  Ihr Blick fixiert starr den Boden.}
 {104}{}{Du siehst einen Sklaven aus Vault City.}
 {105}{}{Du siehst eine gesund aussehende Frau in Arbeitskleidung.  Ihr Blick fixiert starr den Boden.}
-
 {106}{}{Ich habe von Deinen mutigen Taten gehört. Du hast Vault City einen großen Dienst erwiesen...und der Welt.}
 {107}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
-{108}{}{Ich wünschte, ich könnte Dir irgendwie etwas geben für all das, was Du für uns getan hast, aber ich habe nichts, was
- ich Dir geben könnte...außer meinen Dank.}
-
+{108}{}{Ich wünschte, ich könnte dir irgendwas geben... für alles, was du für uns getan hast,
+ aber ich habe nichts... außer "Danke" zu sagen.}
 {109}{}{Die anderen Diener werden darauf neidisch sein, daß ich mit dem Held der Öde gesprochen habe.}
 {110}{}{Ja, Hauptmann?}
 {111}{}{Hauptmann?}
@@ -34,7 +31,6 @@
 {129}{}{Bitte lass' mich. Ich bin ein Diener aus Vault City.}
 {130}{}{Ich flehe Dich an: hast Du die zwei Kinder gesehen, dunkelhaarig...? Sie wurden von anderen Sklavenhändlern vor zwei
  Jahren genommen und nach Norden verkauft.}
-
 {131}{}{Bitte... mir ist es nicht gestatten, mit irgendjemandem zu reden.}
 {132}{}{Falls ein Bürger mich erwischt, wenn ich mit einem Sklavenhändler rede, werde ich bestraft.}
 {133}{}{Die Wache wird mich melden, wenn Du Dich weiter mit mir unterhältst.}
@@ -62,6 +58,4 @@
 {155}{}{Ja? Kann ich Dir helfen?}
 {156}{}{Ich wurde vor langer Zeit von Sklavenhändlern eingenommen. Ich kann mich kaum daran erinnern.}
 {157}{}{Ich hatte zwei Kinder, aber sie wurden in den Norden verschifft. Ich hoffe, sie kommen eines Tages hier her.}
-
 {158}{}{Es tut mir leid, aber ich habe keine Zeit, mich zu unterhalten.}
-

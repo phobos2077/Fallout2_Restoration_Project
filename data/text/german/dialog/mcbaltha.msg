@@ -1,7 +1,6 @@
 {100}{}{Ein grobschlächtiger Mann mit einer Lederschürze.}
 {101}{}{Balthas, der Gerber.}
 {102}{}{Ein großer, muskulöser Mann, der nach Leder riecht und aussieht.}
-
 {151}{}{Mein Sohn wurde aus Versehen im Kampf getötet.}
 {152}{}{Ich ertrag es nicht, ohne Jonny zu leben.}
 {153}{}{[Schluchz]}
@@ -45,7 +44,7 @@
 {200}{}{Meine Gebete wurden erhört! Nimm Laddie mit, vielleicht kann er dir helfen. Bitte, mach schnell!}
 {201}{}{Naja, vielleicht hast du recht. Danke fürs Zuhören.}
 {202}{}{Von dir hab ich schon gehört. Paß auf, ich will keinen Ärger, wir sind friedliche Leute. Bleiben wir beim Geschäftlichen, OK?}
-{203}{}{Ich muß dir ein paar Fragen stellen.}
+{203}{}{Ich hab einige Fragen an dich.}
 {204}{}{Im Augenblick möcht ich keine Geschäfte machen. Tschau.}
 {205}{}{Also ... ich mach mir Sorgen um meinen Jonny. Wir haben schon überall gesucht, aber wir können ihn nicht finden. Ich habe Angst, daß wilde Tiere ihn sich geschnappt haben.}
 {206}{}{Vielleicht kann ich da helfen. Ich komm viel rum, ich halt die Augen nach deinem Jungen offen.}
@@ -58,11 +57,8 @@
 {217}{}{[Er schaut dich genau an und lächelt.] Sei ein braves Mädchen, geh nach draußen und spiel dort?}
 {218}{}{Such bitte weiter. Ich weiß, daß er noch lebt, ich spür's!}
 {219}{}{Ja, das ist Jonnys Luftgewehr. Neeeeeeeiiiiiiiiiiinnn! [Balthas bricht zusammen und weint hemmungslos.]}
-{2199}{}{Richtig das ist Jonnys Luftgewehr...Ich glaube aber nicht das er tot ist. Bitte such weiter nach meinem Sohn. Ich weiß er ist noch irgendo da drausen.}
 {220}{}{Ich wußte, daß Jonny nicht tot ist! Du sagst, ich soll warten ... Das versteh ich nicht! Ist er verletzt? Mein Instinkt befiehlt mir, meinen Sohn zu holen, aber ich spüre, daß dir sein Wohl am Herzen liegt. Bitte beeil dich und bring mir meinen Sohn zurück.}
 {221}{}{Oh nein! Nicht die Geister! Ich hab gewußt, daß wir alles hätten niederbrennen sollen. Ich laß nicht zu, daß die mir meinen Jungen nehmen, ich hol den kleinen Jonny zurück, koste es, was es wolle. Die Leute von Modoc helfen mir dabei bestimmt! Wir treffen uns an der Geisterfarm. Wir bringen die alle um!}
-
 {230}{}{Du hast Jonny sicher zurück nach Modoc gebracht.}
-
-#added by killap - RP
 {240}{}{Bitte, bring unseren Sohn gesund zurück.}
+{2199}{}{Richtig das ist Jonnys Luftgewehr...Ich glaube aber nicht das er tot ist. Bitte such weiter nach meinem Sohn. Ich weiß er ist noch irgendo da drausen.}

@@ -1,4 +1,4 @@
-{100}{}{Tu vois un robot, M. Handy.}
+{100}{}{Tu vois un robot M. Handy.}
 {101}{}{Tu vois un robot, M. Handy, très dépressif.}
 {102}{}{Ce robot, M. Handy, semble très dépressif pour plusieurs raisons.}
 {200}{}{ô le malheur est sur moi !}
@@ -12,6 +12,5 @@
 {208}{}{La vie. Ne me parlez pas de la vie.}
 {209}{}{Je pense que vous voudriez savoir, je me sens très déprimé.}
 {210}{}{Désolé pour la respiration, ce que je ne fais jamais de toute façon donc je ne sais pas pourquoi je me donne la peine d'en parler, oh Dieu, je suis si diminué.}
-
-{500}{}{Oui, Pousse-moi du haut d'une falaise}
+{500}{}{Yeah, just push me over a cliff.}
 {501}{}{<Bzzt> Arrête ! <Bzzt>}

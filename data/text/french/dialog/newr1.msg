@@ -2,23 +2,16 @@
 {101}{}{Devant toi, se trouve une plaine morne ponctuée de tombes. Des restes de cadavres sont attachés à des poteaux ensanglantés qui se dressent du sol.}
 {102}{}{Ca ressemble à une station de rechargement électrique d'avant-guerre. Un cimetière de carcasses de voitures entoure les bâtiments.}
 {103}{}{Tu arrives aux Etables. Une nouvelle clôture barbelée entoure les deux entrées de la ferme.}
-
 {150}{}{[PRECEDENT]}
-{151}{}{[SUITE]}
-
-# family name
+{151}{}{[Plus]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-
 {221}{}{Chez Salvatore}
 {222}{}{le Shark Club}
 {223}{}{le Desperado}
 {224}{}{}
-
-
-# made man name
 {300}{}{}
 {301}{}{Soupir}
 {302}{}{Araignée}
@@ -36,7 +29,7 @@
 {314}{}{Macaque boy}
 {315}{}{Bosselé}
 {316}{}{Les Paluches}
-{317}{}{Shadow}
+{317}{}{Gouch}
 {318}{}{Couperet}
 {319}{}{El manouche}
 {320}{}{L'infidèle}
@@ -65,7 +58,7 @@
 {343}{}{La Ruse}
 {344}{}{Le Malin}
 {345}{}{Charlie}
-{346}{}{Opium}
+{346}{}{Véronique Partout}
 {347}{}{Dague}
 {348}{}{Yeux d'ange}
 {349}{}{La Combine}
@@ -113,16 +106,13 @@
 {391}{}{Rubis}
 {392}{}{X}
 {393}{}{}
-
-# prizefighter name
-
 {400}{}{}
 {401}{}{Baragouineur}
 {402}{}{Jenny la Tournoyante}
 {403}{}{Piston}
 {404}{}{Ouragan}
 {405}{}{Grand Méchant Mouthouh}
-{406}{}{Etre Elu}
+{406}{}{Elu}
 {407}{}{Taureau Furieux}
 {408}{}{LaMotta}
 {409}{}{La Luge}
@@ -154,7 +144,7 @@
 {435}{}{Scrapiron}
 {436}{}{La Tigresse}
 {437}{}{Tyson}
-{438}{}{Madame J}
+{438}{}{Madame X}
 {439}{}{Drago}
 {440}{}{La Matraque}
 {441}{}{Duchesse}
@@ -179,11 +169,11 @@
 {460}{}{Le Fabricant de Veuves}
 {461}{}{Baliff}
 {462}{}{Bernard Froideure}
-{463}{}{La Matou}
+{463}{}{Anne Halle}
 {464}{}{La Poisse}
 {465}{}{Le Char}
 {466}{}{La Châtaigne}
-{467}{}{L'Espiègle}
+{467}{}{Coquine}
 {468}{}{L'Alligator}
 {469}{}{L'Ecchymose}
 {470}{}{Cheetah}
@@ -193,15 +183,10 @@
 {474}{}{Athéna}
 {475}{}{Chien Fou}
 {476}{}{}
-
-# special stupid names
 {496}{}{Grand Stu}
 {497}{}{Benjamin}
 {498}{}{X}
 {499}{}{Mon Nom}
-
-# porn star name
-# male
 {500}{}{}
 {501}{}{Jérémy Mac Hulott}
 {502}{}{Fredo Mercury}
@@ -235,25 +220,23 @@
 {530}{}{Arnold Lapainchasseur}
 {531}{}{Le "Démonte Pneu"}
 {532}{}{"35cm"}
-{533}{}{Goldfinger}
-{534}{}{Oncle Popaul}
-{535}{}{Malaucul}
-{536}{}{Analgeddon}
-{537}{}{Ejacula}
-{538}{}{Glandiator}
-{539}{}{Harry Ploteur}
-{540}{}{La grande touffe}
-{541}{}{Le chibre}
-{542}{}{Le seigneur des anus}
-{543}{}{Penetrator}
-{544}{}{Merlin l'enfileur}
-{545}{}{Rasta kékette}
-{546}{}{Scarfesse}
-{547}{}{Petit Soldat}
-{548}{}{Le Baobab}
+{533}{}{}
+{534}{}{}
+{535}{}{}
+{536}{}{}
+{537}{}{}
+{538}{}{}
+{539}{}{}
+{540}{}{}
+{541}{}{}
+{542}{}{}
+{543}{}{}
+{544}{}{}
+{545}{}{}
+{546}{}{}
+{547}{}{}
+{548}{}{}
 {549}{}{}
-
-# female
 {550}{}{}
 {551}{}{Jaimie Trovite}
 {552}{}{Sophie Fonfec}
@@ -304,8 +287,6 @@
 {597}{}{Valerie Vixen}
 {598}{}{Crystal}
 {599}{}{}
-
-# other boxer names
 {700}{}{Sophie Nancier}
 {701}{}{Tony Gunn}
 {702}{}{"Acier" Mark Torrance}
@@ -326,32 +307,21 @@
 {717}{}{Drago}
 {718}{}{Tommy le Canon}
 {719}{}{Apollon}
-
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{Le Mastiquateur}
-
-# GOING TO THE CHOP SHOP
 {1000}{}{Jules te conduit aux quartiers en ruine entourant New Reno. Tu penses que tu n'aurais pas réussi à trouver cet endroit sans aide. Peu après ton arrivée, Jules disparaît.}
 {1100}{}{La piste mène aux quartiers en ruine entourant New Reno.}
-
-# MORDINO/MYRON STASH
 {1200}{}{Tu découvres une petite boîte métallique. Tu ne l'aurais pas trouvée si tu ne l'avais pas cherchée.}
-
-# CODY/CHOP SHOP
 {1300}{}{Cody te conduit aux quartiers en ruine entourant New Reno et retourne en courant d'où il venait. Tu penses que tu n'aurais pas trouvé cet endroit sans aide.}
-
-# BOXING LEVELS
 {1400}{}{Tu as vaincu ton premier adversaire.}
 {1401}{}{Tu as vaincu ton second adversaire.}
 {1402}{}{Tu as vaincu ton troisième adversaire.}
 {1403}{}{Tu as vaincu le Mastiquateur !}
 {1404}{}{Tu es devenu le Champion Poids Lourd de New Reno.}
 {1405}{}{Tu as vaincu ton dernier adversaire !}
-
 {1500}{}{Tu as convaincu Mme Wright de détruire les alambics.}
 {1550}{}{Tu as été témoin de la transaction secrète.}
-
 {1600}{}{Dans le feu de la bataille, le Mastiquateur t'arrache l'oreille.}
 {1700}{}{Furieux, tu arraches l'oreille du Mastiquateur.}

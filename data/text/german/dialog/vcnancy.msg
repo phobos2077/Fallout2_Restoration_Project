@@ -60,7 +60,7 @@
 {151}{}{Na dann, willkommen in Vault City, Mitbürger.}
 {152}{}{Man sieht hier nicht allzuoft ein neues Gesicht. Ich bin Phyllis. Wie heißt du?}
 {153}{}{Ich heiße }
-{154}{}{Ich heiße }
+{154}{}{Ich bin }
 {155}{}{Wenn ich Lust hätte, dir meinen Namen zu sagen, hätte ich's längst getan, Syphyllis...
   oder wie in drei Teufels Namen du auch immer heißt.}
 {156}{}{Tut mir leid, ich hab momentan keine Zeit zum Plaudern.}
@@ -72,7 +72,7 @@
 {161}{}{Also gut, wenn du unbedingt willst...}
 {162}{}{Ich bin die Assistenzärztin. Ich arbeite für Dr. Troy.}
 {163}{}{Was hältst du von Dr. Troy?}
-{164}{}{Darf ich dich ein paar Sachen fragen?}
+{164}{}{Kann ich dir einige Fragen stellen?}
 {165}{}{Das trifft sich gut. Ich brauche ärztliche Hilfe.}
 {166}{}{Tut mir leid, ich hab momentan keine Zeit zum Plaudern.}
 {167}{}{Nett, dich wiederzusehen. Kann ich dir irgendwie behilflich sein?}
@@ -80,8 +80,8 @@
 {169}{}{Was hältst du von Dr. Troy?}
 {170}{}{Kannst du mir sagen, wo der Zentralcomputer ist?}
 {171}{}{Ich brauche jemanden, der mich heilt.}
-{172}{}{Was tust du hier?}
-{173}{}{Kannst du mir etwas über Vault City erzählen?}
+{172}{}{Was machst du hier?}
+{173}{}{Kannst du mir was über Vault City erzählen?}
 {174}{}{Nicht weiter wichtig. Trotzdem danke.}
 {175}{}{Oh, Dr. Troy ist manchmal ganz schön streng, aber im Grunde genommen ist er ein guter
  Mensch. Vault City kann froh sein, daß es ihn gibt.}
@@ -102,9 +102,9 @@
 {187}{}{Danke für den Hinweis. Vielleicht rede ich besser mit jemand anderem.}
 {188}{}{Das ist unten auf der dritten Ebene, wenn ich mich recht entsinne. Ich war schon eine
  Ewigkeit nicht mehr da.}
-{189}{}{Warum nicht?}
+{189}{}{Wieso nicht?}
 {190}{}{Darf ich dir noch eine Frage stellen?}
-{191}{}{Danke für die Auskunft. Mach's gut.}
+{191}{}{Danke für die Beschreibung. Tschüß.}
 {192}{}{Oh, ich weiß nicht. Es gibt keinen rechten Grund, in die Vault runterzugehen. Sie dient
  nur noch als Lagerraum. Außer Martin ist da unten keiner mehr und...ganz unter uns gesprochen,
  er ist nicht gerade ein Konversationsgenie.}
@@ -148,7 +148,7 @@
 {220}{}{Ja. Schwangerschaften sind nur zu bestimmten Zeiten erlaubt, die vom Rat festgelegt
  werden.}
 {221}{}{Und was ist, wenn man schwanger wird, obwohl es gerade nicht erlaubt ist?}
-{222}{}{Oh. Ich hätte da noch ein paar weitere Fragen...}
+{222}{}{Oh. Ich hab da noch ein paar andere Fragen...}
 {223}{}{Ich verstehe. Also, danke für die Auskunft.}
 {224}{}{Wie sollte das passieren?}
 {225}{}{Äh, soweit ich informiert bin, kann man durch Geschlechtsverkehr schwanger werden.}
@@ -157,12 +157,12 @@
 {228}{}{Ach so, du meinst Geschlechtsverkehr? Der ist auch außerhalb der Schwangerschaftszyklen
  zulässig.}
 {229}{}{Werden die Frauen dabei nicht schwanger?}
-{230}{}{Oh. Ich hätte da noch ein paar weitere Fragen...}
+{230}{}{Oh. Ich hab da noch ein paar andere Fragen...}
 {231}{}{Schon gut. Ich wollte nur mal nachfragen.}
 {232}{}{Oh, nein, nein...verstehst du, bei uns wird man nicht durch Geschlechtsverkehr schwanger.}
 {233}{}{Ich trau mich nicht zu fragen. Aber ich tu's trotzdem.}
 {234}{}{Mehr will ich gar nicht drüber wissen. Aber ich hätte da noch ein paar andere Fragen...}
-{235}{}{Ich denke, das reicht.}
+{235}{}{Ich glaube, ich habe genug gehört.}
 {236}{}{Die männlichen Bürger "spenden" an den Autodoc hier in der Vault. Der Computer bestimmt die
  günstigste genetische Kombination und besamt daraufhin den entsprechenden weiblichen Bürger.}
 {237}{}{Kann ich auch spenden?}
@@ -174,7 +174,7 @@
 {241}{}{Ich verzieh mich jetzt erst mal an ein stilles Örtchen und kotze eine Runde. Mach's gut.}
 {242}{}{Selbstverständlich. Dein Beitrag ist uns hochwillkommen. Vault City braucht dringend
  frisches genetisches Material.}
-{243}{}{Also gut...}
+{243}{}{In Ordnung also...}
 {244}{}{Könnte ich vielleicht eine, ähm, Zeitschrift haben oder so was?}
 {245}{}{Ein enormer Beitrag, den du da geleistet hast...du scheinst ein ziemliches Talent zu
  haben. Wie fühlst du dich?}
@@ -197,7 +197,7 @@
 {255}{}{Das hatte ich mir auch schon gedacht. Vielleicht sollte ich mit Dr. Troy darüber reden.
  Er hatte in letzter Zeit immer sehr viel zu tun und konnte sich mit dieser Frage nicht befassen,
  aber schließlich steht der nächste Schwangerschaftszyklus bevor und darum...}
-{256}{}{Darf ich dir noch ein paar Fragen stellen?}
+{256}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {257}{}{Sicher ein gute Idee, mit Dr. Troy darüber zu reden. Viel Erfolg.}
 {258}{}{Sie machen alle den Eindruck von...Klonen. Sie tragen die gleiche Kleidung, sie essen das gleiche, und was das Schlimmste daran ist: Sie sind anscheinend zufrieden damit. Ich...naja, manchmal mache ich mir ernsthaft Sorgen, daß ich auch so enden könnte wie sie. Das klingt vielleicht albern, was?}
 {259}{}{Nicht im geringsten. Hier herrscht zweifellos ein starker Anpassungsdruck, zumal das soziale Gefüge von Vault City völlig isoliert dasteht.}

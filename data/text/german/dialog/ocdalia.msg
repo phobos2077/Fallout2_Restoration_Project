@@ -2,7 +2,7 @@
 {101}{}{Du siehst Dalia.}
 {102}{}{Du siehst eine schöne junge Frau in einer Metallrüstung. Sie beobachtet ihre Umgebung
  sehr sorgfältig.}
-{103}{}{Na so was! Wie geht's dir,} #continue to 153
+{103}{}{Na so was! Wie geht's dir,}
 {104}{}{Du Dalia. Ich erinnern, du helfen.}
 {105}{}{Alles OK. Ich gehn.}
 {106}{}{Dalia! Dank dir ist alles super gelaufen.}
@@ -20,7 +20,7 @@
 {117}{}{Wie du kommen her?}
 {118}{}{Warum du sorgen über Sicherheit?}
 {119}{}{Danke. Ich gehn.}
-{120}{}{Bist du eine Gefangene?}
+{120}{}{Bist du ein Gefangener?}
 {121}{}{Kannst du jederzeit gehn?}
 {122}{}{Was kannst du mir über die Deathclaws sagen?}
 {123}{}{Wie bist du hierher gekommen?}
@@ -30,7 +30,7 @@
  das ist ein sicherer Ort für mich, hier kann ich eine Weile bleiben.}
 {127}{}{OK.}
 {128}{}{Tschüß.}
-{129}{}{Alles klar.}
+{129}{}{Also gut.}
 {130}{}{Verstehe. Ich geh dann mal.}
 {131}{}{Ja, man hat mir freigestellt, zu bleiben oder zu gehen. Also bleib ich erst einmal.}
 {132}{}{Ich verstehn.}
@@ -49,7 +49,7 @@
  im Dunkeln draußen bleiben. In der Ferne glaubte ich ein Lagerfeuer zu sehen — also sah ich
  nach, wer das war.}
 {140}{}{Wow.}
-{141}{}{Das ist interessant.}
+{141}{}{Das ist ja interessant.}
 {142}{}{Als ich dich bei der illegalen Siedlung durchgelassen habe, hab ich den Vertrag mit
  meinem Auftraggeber gebrochen. Ich wußte, daß ich deswegen gejagt und getötet werden würde. Da
  ich dich hier sehe, weiß ich, daß ich mir darum keine Sorgen machen muß. Ich kann nur annehmen,
@@ -57,15 +57,14 @@
  Aufenthaltsort zu kümmern.}
 {143}{}{Du sein sicher hier. Dalia nicht Angst.}
 {144}{}{Du bist jetzt sicher, Dalia. Du mußt dir keine Sorgen wegen einer Vergeltung machen.}
-{145}{}{Danke,} # continue 155
-{146}{}{Bitte.}
+{145}{}{Danke,}
+{146}{}{Gemacht gern.}
 {147}{}{Tschüß.}
-{148}{}{Bitte, gern geschehn.}
+{148}{}{Gern geschehen.}
 {149}{}{Wir sehen uns.}
 {150}{}{Hallo.}
 {151}{}{Hallo. Wie geht's?}
 {152}{}{Ich hab keinen Streit mit dir.}
-
 {153}{}{. Ich hoffe, es lief alles glatt für dich bei der illegalen Siedlung.}
 {154}{}{Ich schleich mich also an den Lagerplatz an und da sitzen diese zwei Deathclaws
  schwatzend am Lagerfeuer. Blöd wie ich bin, hab ich vor Schreck einen Laut von mir gegeben,

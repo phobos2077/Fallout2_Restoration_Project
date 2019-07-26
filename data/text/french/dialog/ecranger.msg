@@ -17,12 +17,12 @@
 {116}{}{Merde ! J'me casse !}
 {117}{}{Je ne mourrai pas pour ça !}
 {118}{}{Je vois que tu as un tatouage là, la marque des esclavagistes. Tu n'es pas esclavagiste, dis ?}
-{119}{}{Si.}
+{119}{}{Oui.}
 {120}{}{Non.}
 {121}{}{Pas de chance. T'as déjà entendu parler du Commando de la RNC ? C'est nous. On tue les esclavagistes.}
 {122}{}{Espèce de tas de merde !!}
 {123}{}{Salut ! Je m'appelle Ezéchiel. Je fais partie du Commando de la RNC. Qui es-tu ?}
-{124}{}{Ca ne te regarde pas.}
+{124}{}{Ca te regarde pas.}
 {125}{}{Hé, j'ai déjà entendu ce nom. Tu fais partie du Commando, c'est ça ?}
 {126}{}{Oui.}
 {127}{}{Ca te regarde pas.}

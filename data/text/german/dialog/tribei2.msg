@@ -1,7 +1,6 @@
 {100}{}{Du siehst eine Kiste.}
 {101}{}{Eine Holzkiste die, so scheint es, voller Stimpaks ist.}
 {102}{}{Du siehst eine Holzkiste, voller nutzloser und falscher Stimpaks.}
-
 {200}{}{[Nach einem kurzen Blick in die Kiste stellst du fest, dass in ihr etwa fünfzig Stimpaks liegen. Genau so, wie es der Händler sagte.]}
 {201}{}{[Weiter untersuchen.]}
 {202}{}{[Fertig]}

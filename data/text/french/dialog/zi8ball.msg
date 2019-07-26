@@ -1,8 +1,5 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
-{199}{}{Qu'est-ce que c'est que ces questions à la con ?}
+{199}{}{C'est quoi cette question conne ?}
 {200}{}{Les chances sont bonnes.}
 {201}{}{Les chances ne sont pas si bonnes.}
 {202}{}{Ma réponse est non.}
@@ -32,7 +29,6 @@
 {226}{}{Je commence à me sentir mal...}
 {227}{}{J'ai la nausée...}
 {228}{}{Tes mains sont chaudes.}
-# 9 or greater luck
 {229}{}{Feargus était contre le fait que je joue. Il est méchant.}
 {230}{}{Ton score est de 23 sur 100. Tu as encore de quoi faire.}
 {231}{}{Scotty Everts soupire souvent quand il voit combien d'objets d'inventaire ce jeu contient.}

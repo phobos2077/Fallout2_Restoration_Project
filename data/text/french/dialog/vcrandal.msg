@@ -8,10 +8,10 @@
 {107}{}{Un intrus ! Gardes ! Gardes !}
 {108}{}{Mais ?! Un mutant ! Gardes !}
 {109}{}{Mais ? Une Goule ! Gardes !}
-{110}{}{Salut, Capitaine.}
-{111}{}{La Cité de l'Abri avant tout, Capitaine.}
+{110}{}{Bonne journée, Capitaine.}
+{111}{}{La Cité de l'Abri avant tout, Capitaine !}
 {112}{}{Salut, citoyen.}
-{113}{}{La Cité de l'Abri avant tout, citoyen.}
+{113}{}{La Cité de l'Abri avant tout, citoyen !}
 {114}{}{Il faut envoyer des tableaux de distribution aux Bureaux des Sous-équipements Collectifs A et B...}
 {115}{}{Il faut compiler les derniers inventaires de stock et les mettre sur le serveur...}
 {116}{}{DOS me manque. C'est plus difficile d'entrer des listes avec ce nouveau système.}
@@ -21,24 +21,24 @@
 {120}{}{Bonjour. Ca fait toujours plaisir de voir une nouvelle tête. Je m'appelle Randal... Je suis le chef du Bureau des Equipements Collectifs. Tu veux quelque chose ?}
 {121}{}{Jechkk.}
 {122}{}{Nooooooooon.}
-{123}{}{[Partir]}
+{123}{}{Dégage !}
 {124}{}{Eh bien, ça dépend. Dans quel bureau suis-je ?}
 {125}{}{Rien aujourd'hui en fait.}
 {126}{}{Un J.E.K ? C'est un jardin d'Eden en Kit, un genre de valise grise, n'est-ce pas ? Je n'ai pas entendu parler de ce machin-là depuis... voyons... depuis une éternité.}
 {127}{}{BESOIN DE J.E.Kkkk.}
-{128}{}{[Partir]}
+{128}{}{Dégage !}
 {129}{}{En as-tu un ?}
 {130}{}{Puis-je te demander autre chose ?}
 {131}{}{Bon, c'est pas grave.}
 {132}{}{Je regrette de devoir te dire ça, mais nous n'avons plus le nôtre. Nous l'avons utilisé pour créer la Cité de l'Abri... *pouf*, terminé.}
 {133}{}{BESOIN DE J.E.Kkkk.}
-{134}{}{[Partir]}
+{134}{}{Dégage !}
 {135}{}{Ah... Et tu ne sais pas où je pourrais en trouver ?}
 {136}{}{Puis-je te demander autre chose ?}
 {137}{}{Bon, c'est pas grave.}
 {138}{}{Hummm. Ca ne va pas être facile, le J.E.K, c'est de la vieille technologie... De la technologie d'avant-guerre, même. On n'en trouve plus. Ils n'ont été délivrés qu'aux abris.}
 {139}{}{BESOIN DE Abroui.}
-{140}{}{[Partir]}
+{140}{}{Dégage !}
 {141}{}{Sais-tu où je pourrais trouver d'autres abris ?}
 {142}{}{Puis-je te demander autre chose ?}
 {143}{}{Bon, c'est pas grave.}
@@ -50,8 +50,8 @@
 {149}{}{Salut, content de te revoir. Puis-je faire quelque chose pour toi ?}
 {150}{}{Bien sûr. A quoi tu penses ?}
 {151}{}{Jechkk ?}
-{152}{}{[Partir]}
-{153}{}{C'est quoi ici déjà ?}
+{152}{}{Dégage !}
+{153}{}{C'est quoi, déjà, cet endroit ?}
 {154}{}{T'aurais pas un J.E.K en stock par hasard ?}
 {155}{}{Valérie, de l'atelier de maintenance, aurait besoin d'une nouvelle clé et de quelques tenailles.}
 {156}{}{Le conseiller McClure a dit que tu avais un... heu... magnéto-hydro-truc que je pourrais emprunter pour la centrale de Gecko.}
@@ -69,16 +69,16 @@
 {168}{}{Je reviendrai peut-être une autre fois.}
 {169}{}{Bon, je regrette de devoir te dire ça, mais je ne suis autorisé qu'à traiter avec les citoyens. Je ne veux pas t'offenser, mais c'est la règle. Essaie d'aller voir chez Harry, à l'entrée.}
 {170}{}{Bon, je regrette de devoir te dire ça, mais je ne suis autorisé qu'à traiter avec les citoyens. Je ne veux pas t'offenser, mais c'est la règle. Essaie d'aller voir chez Harry, à l'entrée.}
-{171}{}{Comment devient-on citoyen ?}
+{171}{}{Comment puis-je devenir citoyen ?}
 {172}{}{Mais... heu... je suis citoyen. Tu ne te souviens pas de moi ?}
 {173}{}{Ecoute, mon argent est aussi bon à prendre que celui des citoyens.}
 {174}{}{Le conseiller McClure a dit que tu avais un régulateur de magnétosphère hydroélectrique en stock que je pourrais emprunter.}
 {175}{}{La Première citoyenne m'envoie réclamer ma récompense.}
 {176}{}{Puis-je te poser d'autres questions ?}
-{177}{}{D'accord. Au revoir.}
+{177}{}{Très bien. Au revoir.}
 {178}{}{Tu peux passer le test de citoyenneté. Le Proconsul Grégory le fait passer aux étrangers qui veulent devenir citoyens. Tu devrais d'abord parler à Lynette, la Première citoyenne. C'est plus ou moins elle qui décide ici.}
 {179}{}{Très bien. Où est-elle ?}
-{180}{}{Je vois. Puis-je te poser une autre question ?}
+{180}{}{Je vois. Je pourrais te poser une autre question ?}
 {181}{}{Merci pour les renseignements. Je vais aller la voir.}
 {182}{}{Elle se trouve au bâtiment du conseil... Quand tu sors d'ici, prends à droite et continue tout droit dans la rue, après le parc. Tu devrais tomber juste dessus.}
 {183}{}{Je vois. Je pourrais te poser une autre question ?}
@@ -92,7 +92,7 @@
 {191}{}{Heu... En fait, je n'ai pas le temps d'acheter quoi que ce soit. Rends-moi mes papiers et je m'en irai.}
 {192}{}{D'accord. De toute façon, je suis en règle.}
 {193}{}{Bon... heu... d'accord.}
-{194}{}{Pourrais-je te poser quelques questions ?}
+{194}{}{Puis-je te poser quelques questions ?}
 {195}{}{A plus tard.}
 {196}{}{Tout est en ordre. Voilà tes papiers. Que puis-je faire pour toi ?}
 {197}{}{Fais-moi voir ce que tu as en stock.}
@@ -100,22 +100,22 @@
 {199}{}{Rien aujourd'hui en fait.}
 {200}{}{Alors... Tu es le citoyen }
 {201}{}{Ouais, il a dit que tu passerais...}
-{202}{}{Très bien.}
+{202}{}{D'accord.}
 {203}{}{En fait, ça fait rien, je reviendrai plus tard.}
 {204}{}{Ok, voilà. Un Reg-Mag. Ca ressemble plutôt à une lampe de lave, non ? Oh, fais attention... C'est très fragile.}
 {205}{}{Dis-moi, qu'as-tu d'autre en stock ?}
-{206}{}{Pourrais-je te poser quelques questions ?}
+{206}{}{Puis-je te poser quelques questions ?}
 {207}{}{Merci. Je vais regarder ça pendant quelques heures avant de l'amener à la centrale de Gecko.}
 {208}{}{Compris. Merci pour la pièce.}
 {209}{}{Ouais, la Première citoyenne a dit que tu passerais... Capitaine. [Il fait un clin d'oeil] Laisse-moi te dire, Capitaine, j'ai quelque chose de toute BEAUTE pour toi.}
 {210}{}{Ouais, la Première citoyenne a dit que tu passerais. Bon, laisse-moi te dire, j'ai quelque chose de toute BEAUTE pour toi.}
-{211}{}{Qu'est-ce que c'est ?}
+{211}{}{Qu'y a-t-il ?}
 {212}{}{En fait, mets-le de côté pour moi. Je viendrai le chercher plus tard.}
 {213}{}{Rien de moins qu'un Heckler et Koch G11, l'une des meilleures armes d'assaut jamais construites... [Il soupèse l'arme et te la passe] Cartouche 4,7 mm sans douille, chargeur rond de 50. Quand elle parle, on l'écoute.}
 {214}{}{Je te crois. Merci.}
 {215}{}{Pas de problème. Tiens... prends aussi quelques grenades offensives, je te les offre. C'est pour te remercier de nous avoir débarrassés de ces pillards.}
 {216}{}{Génial. Puis-je voir ce que tu as d'autre en stock ?}
-{217}{}{Puis-je te poser encore d'autres questions ?}
+{217}{}{Je peux vous poser d'autres questions ?}
 {218}{}{Merci. J'en ferai bon usage.}
 {219}{}{Ca sera assez, alors ?}
 {220}{}{Puis-je te poser d'autres questions ?}
@@ -126,6 +126,5 @@
 {225}{}{ !}
 {226}{}{, hein ? Attends une seconde. Je vais chercher la magnéto... heu... le Reg-Mag.}
 {227}{}{, d'accord ? Attends une minute, je vais chercher la magnéto... heu... le Reg-Mag.}
-
 {228}{}{Merci.}
-{229}{}{[Continuer]}
+{229}{}{[Suite]}

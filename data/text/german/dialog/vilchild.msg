@@ -1,4 +1,4 @@
-{100}{}{Du siehst einen kleinen Jungen.}
+{100}{}{Ein kleiner Junge.}
 {101}{}{Du siehst ein kleines Mädchen.}
 {102}{}{Er lächelt dich an.}
 {103}{}{Sie lächelt dich an.}
@@ -6,7 +6,6 @@
 {105}{}{Sie blickt unsicher zu dir herüber.}
 {106}{}{Er sieht zornig zu dir herüber.}
 {107}{}{Sie sieht zornig zu dir herüber.}
-
 {200}{}{Vielen Dank für Ihre Hilfe!}
 {201}{}{Yippie, jetzt sind wir sicher!}
 {202}{}{Vielen Dank für Ihre Hilfe!}

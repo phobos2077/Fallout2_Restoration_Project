@@ -38,23 +38,23 @@
 {137}{}{Heu... humm. Ecoute-moi encore, attentivement : TOI - ALLER - CHEZ - MARTIN.}
 {138}{}{CHEF MARTIN.}
 {139}{}{J'ai... aïe... <Snifff> ... MAL !}
-{140}{}{[Partir]}
+{140}{}{Dégage !}
 {141}{}{OUI, MARTIN. VA - NIVEAU - INFERIEUR.}
 {142}{}{OUI, MAR-TIN. VA A NIVEAU INFERIEUR.}
 {143}{}{J'ai... aïe... <Snifff> ... MAL !}
-{144}{}{[Partir]}
+{144}{}{Dégage !}
 {145}{}{VA - NIVEAU - INFERIEUR. NIVEAU - TROIS. MAINTENANT.}
 {146}{}{MOI ALLER NIVEAU INFERIEUR TROIS MAINTENANT}
 {147}{}{J'ai... aïe... <Snifff> ... MAL !}
-{148}{}{[Partir]}
+{148}{}{Dégage !}
 {149}{}{Nos domestiques souffrent peut-être d'une sorte de syndrome de déficience mentale...}
 {150}{}{Oh ! Eh bien, bienvenue à la Cité de l'Abri, Capitaine.}
 {151}{}{Eh bien, bienvenue à la Cité de l'Abri, compatriote citoyen.}
 {152}{}{Nous ne voyons pas beaucoup de nouvelles têtes par ici. Je suis Phyllis. Comment t'appelles-tu ?}
-{153}{}{Mon nom c'est }
+{153}{}{Je m'appelle }
 {154}{}{Je m'appelle }
 {155}{}{Si je voulais te dire mon nom, je te l'aurais déjà dit, « Sy-phyllis »... ou je sais pas trop quoi.}
-{156}{}{Je regrette, je n'ai pas le temps de parler pour l'instant.}
+{156}{}{Je regrette, je n'ai pas le temps de papoter pour l'instant.}
 {157}{}{Mais, nom d'une... ! JAMAIS je n'ai rencontré quelqu'un d'aussi grossier que toi. Je te conseille de partir. Maintenant.}
 {158}{}{Je te conseille de changer de ton ou ça va mal se passer.}
 {159}{}{Ouais, c'est ça. J'en ai marre de te parler, de toute façon.}
@@ -70,8 +70,8 @@
 {169}{}{Que penses-tu du Dr Troy ?}
 {170}{}{Peux-tu me dire où se trouve l'ordinateur central ?}
 {171}{}{J'ai besoin de soins médicaux.}
-{172}{}{Que fais-tu ici ?}
-{173}{}{Peux-tu me parler de la Cité de l'Abri ?}
+{172}{}{Qu'est-ce tu fais ici ?}
+{173}{}{Vous pouvez me parler de la Cité de l'Abri ?}
 {174}{}{Bon, tant pis. Merci quand même.}
 {175}{}{Oh, le Dr Troy est parfois sévère mais, en fin de compte, c'est un homme bon. La Cité de l'Abri a de la chance de l'avoir.}
 {176}{}{Eh bien, il m'a demandé de passer des stupéfiants en fraude dans la Cité pour lui.}
@@ -87,9 +87,9 @@
 {186}{}{D'accord. Puis-je te poser une autre question ?}
 {187}{}{Merci pour le conseil. Je devrais peut-être aller parler à quelqu'un d'autre.}
 {188}{}{C'est au niveau -3, si je me souviens bien. Ca fait une éternité que je n'y suis pas allée.}
-{189}{}{Et pourquoi pas ?}
+{189}{}{Pourquoi ça ?}
 {190}{}{Puis-je te poser une autre question ?}
-{191}{}{Merci. Au revoir.}
+{191}{}{Merci. Salut.}
 {192}{}{Oh, je ne sais pas. Je n'ai pas vraiment de raisons de descendre dans l'Abri. C'est surtout utilisé pour stocker des choses. Le seul qui travaille en bas c'est Martin et... bon, entre nous, ce n'est pas un grand causeur.}
 {193}{}{Hein.... Pourquoi l'ont-ils nommé causeur s'il n'est pas très bon dans ce domaine ?}
 {194}{}{Puis-je te poser une autre question ?}
@@ -120,7 +120,7 @@
 {219}{}{Je vois. Eh bien, merci pour ces renseignements.}
 {220}{}{Ouais. Les grossesses ne sont autorisées que pendant certaines années définies par le Conseil.}
 {221}{}{Et si tu tombes quand même enceinte ?}
-{222}{}{Oh. J'avais encore quelques questions...}
+{222}{}{Oh. J'avais d'autres questions...}
 {223}{}{Je vois. Eh bien, merci pour ces renseignements.}
 {224}{}{Comment cela pourrait-il arriver ?}
 {225}{}{Hum, aux dernières nouvelles, le SEXE peut rendre une femme enceinte !}
@@ -128,12 +128,12 @@
 {227}{}{C'est pas grave. Il faut que j'y aille.}
 {228}{}{Oh, tu veux dire des rapports sexuels ? Ils sont autorisés en dehors des cycles de grossesse.}
 {229}{}{Et aucune femme ne tombe enceinte ?}
-{230}{}{Oh. J'avais encore quelques questions...}
+{230}{}{Oh. J'avais d'autres questions...}
 {231}{}{Oh, je demandais ça comme ça.}
 {232}{}{Oh, non, non... Tu vois, nos grossesses ne résultent pas des rapports sexuels.}
 {233}{}{Je n'ose pas te demander, mais je vais quand même le faire...}
 {234}{}{Je ne veux pas en savoir plus. Mais j'aurais d'autres questions...}
-{235}{}{J'en ai assez entendu comme ça.}
+{235}{}{Je crois que j'en ai assez entendu.}
 {236}{}{Les citoyens mâles *font don* à l'Auto Doc, ici à l'Abri et les unions les plus favorables sont choisies par l'ordinateur. Ensuite, la citoyenne femelle est ensemencée par l'Auto Doc.}
 {237}{}{Puis-je faire don ?}
 {238}{}{Mais les femmes ne peuvent pas tomber enceintes à la suite de rapports sexuels ? Que fais-tu des grossesses accidentelles ?}
@@ -141,7 +141,7 @@
 {240}{}{Tu m'excuseras, mais je vais aller voir si je peux faire annuler ma citoyenneté.}
 {241}{}{J'ai besoin d'air, je crois que je vais me sentir mal. Au revoir.}
 {242}{}{Certainement. Nous serions heureux de ta contribution. La Cité de l'Abri a toujours besoin de nouveau matériel génétique.}
-{243}{}{D'accord...}
+{243}{}{Bon d'accord...}
 {244}{}{Dis, pourrais-je avoir un magazine ou quelque chose comme ça ?}
 {245}{}{Ta contribution est impressionnante. La nature semble t'avoir gâté. Comment te sens-tu ?}
 {246}{}{Excellent ! Merci.}
@@ -154,7 +154,7 @@
 {253}{}{Peut-être qu'ils ne font simplement pas beaucoup l'amour ici.}
 {254}{}{Oh, je demandais ça comme ça.}
 {255}{}{Tu sais, je pensais la même chose. Je devrais peut-être en faire part au Dr Troy. Il a été trop occupé pour s'en occuper dernièrement, mais le prochain cycle de grossesses est pour bientôt, alors...}
-{256}{}{Puis-je te poser d'autres questions ?}
+{256}{}{Je peux vous poser d'autres questions ?}
 {257}{}{C'est une bonne idée d'en parler au Dr Troy. Bonne chance.}
 {258}{}{On dirait que ce sont tous des pantins. Ils sont tous habillés pareil, ils agissent de la même façon et le pire, c'est que tout le monde semble heureux ! Je... Eh bien parfois, j'ai peur de devenir comme eux. Ca doit te paraître stupide, hein ?}
 {259}{}{Pas du tout. La pression pour la conformité doit être assez forte ici, surtout si l'on pense que la communauté de l'Abri est assez insulaire.}

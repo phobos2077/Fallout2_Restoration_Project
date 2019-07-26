@@ -8,7 +8,7 @@
 {107}{}{Dégage !}
 {108}{}{Comment ça va ? Je m'appelle Earl Marion et je suis le Shérif de ce lieu. Plutôt bizarre non ? Ben, c'est mon boulot.}
 {109}{}{Que peut faire le Shérif Marion pour toi ?}
-{110}{}{En tant que Shérif, que fais-tu dans cette ville ?}
+{110}{}{Quel est ton rôle de Shérif dans cette ville ?}
 {111}{}{Je suis ici pour donner des coups et mâcher du chewing-gum, et il se trouve que j'en ai plus.}
 {112}{}{T'inquiète pas. J'allais partir. Au revoir.}
 {113}{}{Bonjour, commando. Je m'appelle Earl Marion et je suis le Shérif de Redding. Bien content de t'avoir en ville.}
@@ -121,7 +121,7 @@
 {220}{}{En quoi ça consiste ?}
 {221}{}{Pas tout de suite, Shérif. Au revoir.}
 {222}{}{Tu as complètement disjoncté avec la Veuve Rooney ! C'était une pauvre petite vieille, une veuve, nom de Dieu !! Pourquoi tu l'as tuée ?! Voilà ton argent. Mais tu as intérêt à surveiller ta gâchette la prochaine fois !}
-{223}{}{En quoi ça consiste.}
+{223}{}{En quoi ça consiste ?}
 {224}{}{J'ai pas envie d'un autre boulot tout de suite, Shérif. Au revoir.}
 {225}{}{Pas terrible ta façon d'arrêter cette baston. Je peux pas te payer pour quelque chose que tu n'as pas bien fait. Mais j'ai encore une jambe bancale. Tu veux un autre boulot ?}
 {226}{}{En quoi ça consiste ?}
@@ -146,7 +146,7 @@
 {245}{}{En quoi ça consiste ?}
 {246}{}{J'ai pas envie d'un autre boulot tout de suite, Shérif. Au revoir.}
 {247}{}{Je remercie le ciel que tu aies arrêté cet assassin d'Hakeswill. On lui fera un petit procès, et après on le pendra. Voilà ta paie. Tu te sens d'attaque pour reprendre du service ?}
-{248}{}{Pour faire quoi ?}
+{248}{}{En quoi ça consiste ?}
 {249}{}{J'ai pas envie d'un autre boulot tout de suite, Shérif. Au revoir.}
 {250}{}{Je suis sûr que ce salaud méritait ça mais tu ne t'es pas fait d'amis chez les mineurs en le tuant. Ils aiment tellement voir un joli petit procès avant une bonne pendaison. Bon, le boulot est fait. Voilà ton argent. Que dirais-tu d'un autre boulot ?}
 {251}{}{En quoi ça consiste ?}
@@ -185,13 +185,7 @@
 {284}{}{Eh, toi, tu as un boulot à faire. Reviens quand tu auras liquidé Gâchette.}
 {285}{}{Je me réapprovisionnais. Je m'y remets. Au revoir.}
 {286}{}{A vos ordres, Shérif ! Au revoir.}
-# Begin Seraph's
 {287}{}{Eh bien, je ne sais pas comment tu as fait, mais c'est bien la première fois qu'il y a aussi peu de bruit dans le Malamute Saloon. Voila ton argent. T'es prêt pour un autre boulot ?}
-# End Seraph's Code
-
 {300}{}{Ce boulot est peut-être un peu trop dur pour toi. Reviens me voir le jour où tu auras plus d'expérience.}
 {301}{}{Ok, Shérif.}
-
-#added by killap
 {302}{}{Il n'y a plus rien à faire pour cette jambe, tu ne parviens pas à la soigner..}
-{303}{}{D'accord, Shérif, j'étais curieux de savoir autre chose...}

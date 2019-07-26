@@ -9,4 +9,3 @@
 {107}{}{Du bist ein aufmerksamer Schüler. Du hast nun alles gelernt, was ich über den Umgang mit
  Speeren weiß.}
 {108}{}{Danke Jordan, das wird mir wirklich weiterhelfen}
-

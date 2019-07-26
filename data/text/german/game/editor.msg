@@ -1,14 +1,4 @@
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-# Text labels and messages used by EDITOR.C
-#
-# (These MUST match "text message" enumeration on the top of EDITOR.C)
-#
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
-#
-#
-{100}{}{OK}
+{100}{}{[Fertig]}
 {101}{}{OPTIONEN}
 {102}{}{ABBRECHEN}
 {103}{}{DRUCKEN}
@@ -23,12 +13,11 @@
 {112}{}{ FÄHIGKEITSPUNKTE}
 {113}{}{Level:}
 {114}{}{Erf:}
-{115}{}{Näch. Lvl:}
+{115}{}{Nächster Level:}
 {116}{}{  FIGURENPUNKTE}
 {117}{}{FÄHIGKEITEN}
-{118}{}{Du mußt alle Figurenpunkte verwenden,} # 1
-{119}{}{um mit dem Spiel zu beginnen!}         # 2
-#
+{118}{}{Du mußt alle Figurenpunkte verwenden,}
+{119}{}{ um mit dem Spiel zu beginnen!}
 {120}{}{Figurenpunkte}
 {121}{}{Anzahl der freien Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
 {122}{}{Nächster Level}
@@ -41,72 +30,58 @@
 {129}{}{Ein Zähler, der die Art und Anzahl der Wesen aufzeichnet, die du getötet hast, oder deren Tötung du miterlebt hast.}
 {130}{}{Fähigkeitspunkte}
 {131}{}{Mit diesen Punkten kannst du Fähig- keiten erhöhen. Je weiter bestimmte Fähigkeiten ausge- baut werden, um so mehr Punkte werden benötigt. Es kann viel Zeit und Punkte kosten, eine Fähig- keit zu beherrschen.}
-#
-{132}{}{Höchststand.}        # 1
-{133}{}{Zuwachs nicht möglich.}  # 2
-{134}{}{Mindeststand.}        # 1
-{135}{}{Abnahme nicht möglich.}  # 2
+{132}{}{Höchststand.}
+{133}{}{Zuwachs nicht möglich.}
+{134}{}{Mindeststand.}
+{135}{}{Abnahme nicht möglich.}
 {136}{}{Keine Fähigkeitspunkte mehr verfügbar.}
 {137}{}{Basis:}
 {138}{}{SPEZIALTALENTE}
 {139}{}{ZUSATZMERKMALE}
-{140}{}{Du besitzt schon die Höchstzahl von} # 1
-{141}{}{drei Spezialtalenten!}               # 2
-{142}{}{Spezialtalente müssen ausgewählt}  # 1
-{143}{}{sein, um mit dem Spiel zu beginnen!}       # 2
+{140}{}{Du besitzt schon die Höchstzahl von}
+{141}{}{drei Spezialtalenten!}
+{142}{}{Spezialtalente müssen ausgewählt}
+{143}{}{ um mit dem Spiel zu beginnen!}
 {144}{}{Spezialtalente}
 {145}{}{Spezialtalente sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jedes Spezialtalent bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialtalente aussuchen.}
 {146}{}{Zusatzmerkmale}
 {147}{}{Zusatzmerkmale beschreiben deine Figur genauer. Alle Merkmale haben positive und negative Auswirkungen. Beim Erstellen kannst du bis zu zwei Merkmale wählen.}
-{148}{}{Du besitzt schon die Höchstzahl von} # 1
-{149}{}{zwei Merkmalen!}                     # 2
+{148}{}{Du besitzt schon die Höchstzahl von}
+{149}{}{zwei Merkmalen!}
 {150}{}{Fähigkeiten}
 {151}{}{Fähigkeiten sind erlerntes Wissen. Fähigkeiten werden durch Erfahrung bzw. im Verlauf des Spiels durch besondere Ereignisse verbessert. Je höher der Fähigkeitsgrad, desto besser ist deine Fähigkeit.}
-#
 {152}{}{BONUS WÄHLEN}
 {153}{}{NEUES MERKMAL WÄHLEN}
 {154}{}{MERKMAL ABLEGEN}
 {155}{}{NEUES SPEZIALTALENT WÄHLEN}
 {156}{}{MERKMALE}
-#
-{157}{}{ Alle Werte müssen zwischen 1 und 10 liegen} # 1
-{158}{}{ um mit dem Spiel zu beginnen!}          # 2
-# Fallout 2:
-{160}{}{ Du hast den Spielernamen nicht geändert.} # 1
-{161}{}{ Soll diese Spielerfigur dennoch verwendet werden?}        # 2
-
-{175}{}{Näch. Lvl:}  # Short for Level:
-
-
-#
-# Abbreviated basic stat levels
-#
-{200}{}{Übel}  # Terrible
-{201}{}{Mies}    # Bad
-{202}{}{Dürftig}   # Poor
-{203}{}{Leidlich}   # Fair
-{204}{}{Mittel}   # Average
-{205}{}{Gut}   # Good
-{206}{}{Toll} # Very Good
-{207}{}{Klasse}  # Great
-{208}{}{Super} # Excellent
-{209}{}{Spitze} # Heroic
-
-#
-# Abbreviated Derived/Non Derived stat names
-#
-{300}{}{Trefferpk.}
+{157}{}{ Alle Werte müssen zwischen 1 und 10 liegen}
+{158}{}{ um mit dem Spiel zu beginnen!}
+{160}{}{ Du hast den Spielernamen nicht geändert.}
+{161}{}{ Soll diese Spielerfigur dennoch verwendet werden?}
+{175}{}{Näch. Lvl:}
+{200}{}{Übel}
+{201}{}{Mies}
+{202}{}{Dürftig}
+{203}{}{Leidlich}
+{204}{}{Mittel}
+{205}{}{Gut}
+{206}{}{Toll}
+{207}{}{Klasse}
+{208}{}{Super}
+{209}{}{Spitze}
+{300}{editor}{Trefferpk.}
 {301}{}{Aktionspunkte}
-{302}{}{Rüstung}
-{303}{}{Schad./Unbew.}
-{304}{}{Schaden/Nahk.}
+{302}{editor}{Rüstung}
+{303}{}{Schaden ohne Bewaffnung}
+{304}{}{Schaden im Nahkampf}
 {305}{}{Verletz.-Res.}
 {306}{}{Giftresistenz}
 {307}{}{Strahlungsres.}
-{308}{}{Reaktion}
-{309}{}{Heilung}
-{310}{}{Krit. Treffer}
-{311}{}{Tragekapazität}
+{308}{editor}{Reaktion}
+{309}{editor}{Heilung}
+{310}{editor}{Kritische Treffer}
+{311}{editor}{Tragekapazität}
 {312}{}{Vergiftet}
 {313}{}{Verstrahlt}
 {314}{}{Augenverletzung}
@@ -114,26 +89,13 @@
 {316}{}{Armverletz. (links)}
 {317}{}{Beinverletz. (rechts)}
 {318}{}{Beinverletz. (links)}
-
-#
-# Damage info texts
-#
-# Poisoned
 {400}{}{Deine Figur wurde vergiftet. Gift schadet dem Organismus eine gewisse Zeitlang, bis es neutralisiert oder ausgeschieden wird.}
-# Radiation
 {401}{}{Deine Figur leidet an einer beträchtlichen Strahlenvergiftung. Je höher die Verstrahlung, desto tödlicher der Effekt.}
-# Eye Damage
 {402}{}{Dies bedeutet, daß deine Figur schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
-# Crippled right arm
 {403}{}{Der rechte Arm wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
-# Crippled left arm
 {404}{}{Der linke Arm deiner Figur wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
-# Crippled right leg
 {405}{}{Deine Figur hat ein verstümmeltes rechtes Bein.}
-# Crippled left leg
 {406}{}{Deine Figur hat ein verstümmeltes linkes Bein.}
-
-# Month strings
 {500}{}{Januar}
 {501}{}{Februar}
 {502}{}{März}
@@ -146,17 +108,13 @@
 {509}{}{Oktober}
 {510}{}{November}
 {511}{}{Dezember}
-
-#
-# Option menu text
-#
 {600}{}{SPEICHERN}
 {601}{}{LADEN}
 {602}{}{IN DATEI DRUCKEN}
 {603}{}{LÖSCHEN}
-{604}{}{OK}
-{605}{}{Bist du sicher, daß du}      # line 1
-{606}{}{die aktuelle Figur löschen willst?}                 # line 2
+{604}{}{[Fertig]}
+{605}{}{Bist du sicher, daß du}
+{606}{}{die aktuelle Figur löschen willst?}
 {607}{}{ wurde gespeichert.}
 {608}{}{ wurde geladen.}
 {609}{}{existiert schon.}
@@ -169,78 +127,44 @@
 {616}{}{DRUCKEN}
 {617}{}{SPIELER}
 {618}{}{BLANK.GCD}
-
-#
-# ASCII text file printing text
-#
-{620}{}{FALLOUT}                   # Title line 1
-{621}{}{Vault 13 PERSONALAKTEN} # Title line 2
-{622}{}{Stunden} # Title line 3
-# -
-# -
-#{000}{}{      Stärke: 00        Trefferpunkte: 000/000          Reaktion: 00}
-#{000}{}{    Wahrnehmung: 00       Rüstung: 000          Heilung: 00}
-#{000}{}{     Ausdauer: 00     Aktionspunkte: 000       Kritischer Treffer: 000%}
-#{000}{}{      Charisma: 00      Schaden im Nahkampf: 000          Tragekapazität: 000 Pfd.}
-#{000}{}{  Intelligenz: 00       Resistenz gegen Verletzungen: 000%}
-#{000}{}{       Beweglichkeit: 00    Resistenz gegen Strahlung: 000%}
-#{000}{}{          Glück: 00       Resistenz gegen Gift: 000%}
-#
+{620}{}{FALLOUT}
+{621}{}{Vault 13 PERSONALAKTEN}
+{622}{}{Stunden}
 {623}{}{ ::: Werte :::}
 {624}{}{       Stärke:}
 {625}{}{        Trefferpunkte:}
 {626}{}{        Reaktion:}
-# -
 {627}{}{     Wahrnehmung:}
 {628}{}{       Rüstungsart:}
 {629}{}{        Heilung:}
-# -
 {630}{}{      Ausdauer:}
 {631}{}{     Aktionspunkte:}
 {632}{}{      Kritischer Treffer:}
-# -
 {633}{}{       Charisma:}
 {634}{}{      Schaden im Nahkampf:}
 {635}{}{         Tragekapazität:}
-# -
 {636}{}{   Intelligenz:}
 {637}{}{       Resistenz gegen Verletzungen:}
-# -
 {638}{}{        Beweglichkeit:}
 {639}{}{    Resistenz gegen Strahlung:}
-# -
 {640}{}{           Glück:}
 {641}{}{       Resistenz gegen Gift:}
-# -
-# -
-#{000}{}{ Name: 01234567890        Alter: 00         Geschlecht: Weiblich}
 {642}{}{  Name:}
 {643}{}{Alter:}
 {644}{}{               Geschlecht:}
 {645}{}{Männlich}
 {646}{}{Weiblich}
-#-
-#{000}{}{ Level: 00                 Erf: 000,000    Nächster Level: 000,000}
 {647}{}{ Level:}
 {648}{}{                Erf:}
 {649}{}{Nächster Level:}
-#-
 {650}{}{ ::: Zusatzmerkmale :::}
 {651}{}{ ::: Bonus :::}
 {652}{}{ ::: Karma :::}
-
-#-
 {653}{}{ ::: Fähigkeiten :::                ::: Opfer :::}
-#-
 {654}{}{ ::: Inventar :::}
-#-
 {655}{}{                                      Gesamtgewicht:}
 {656}{}{ ::: Abhängigkeiten :::}
 {657}{}{ ::: Ansehen :::}
-
-#
-# Karma name strings
-#
 {1000}{}{Ansehen (Allgemein) }
 {1001}{}{Berserker}
 {1002}{}{Champion}
@@ -268,10 +192,6 @@
 {1024}{}{Mafioso: Wright}
 {1025}{}{Getrennt}
 {1026}{}{Raucher}
-
-#
-# Karma description strings
-#
 {1100}{}{Dies ist ein Wert, der dein allgemeines Ansehen darstellt. Je höher der Wert, desto bekannter und respektierter bist du. Ist dein Ansehen negativ, wirst du von manchen wegen deiner bösartigen Handlungen gehaßt.}
 {1101}{}{Du hast ein viele Menschen getötet. Hierdurch bekannt zu werden ist im allgemeinen kein Vorteil. Menschen aus dem falschen Lager werden dich aber etwas mehr mögen.}
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
@@ -280,7 +200,7 @@
 {1105}{}{Du bist vom Präparat Buffout abhängig. Du mußt es ständig nehmen, sonst leidest du an Entzugserscheinungen.}
 {1106}{}{Du leidest an einer Mentats-Abhängigkeit. Du mußt es nehmen, sonst leidest du an Entzugserscheinungen.}
 {1107}{}{Du hast eine Präparat-Abhängigkeit. Wenn du Psycho nicht regelmäßig nimmst, leidest du. Ansonsten leiden andere.}
-{1108}{}{Dein Körper ist abhängig von RadAway. Das ist zwar nicht lebensbedrohlich, doch du mußt es regelmäßig nehmen.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
 {1110}{}{Du hast eine Präparat-Abhängigkeit. Du mußt regelmäßig Jet einnehmen.}
 {1111}{}{Tragischerweise bist von Tragic abhängig. Du bist ständig auf der Suche nach neuen Expansions-        möglichkeiten.}
@@ -299,10 +219,6 @@
 {1124}{}{Du bist ein Mafioso der Familie Wright. Du bist bekannt, wirst respektiert, und der Filzhut steht dir ausgezeichnet.}
 {1125}{}{Deine bessere Hälfte ist nicht mehr bei dir. Hoffentlich bist du jetzt zufrieden.}
 {1126}{}{Du bist Raucher. Man sagt, dass es dich töten wird. Aber hey, du lebst immer noch. Auf jeden Fall ist es eine gute Methode in der postapokalyptischen Welt verdammt cool auszusehen.}
-
-#
-# Town reputations
-#
 {2000}{}{Verehrt}
 {2001}{}{Gemocht}
 {2002}{}{Akzeptiert}
@@ -310,7 +226,6 @@
 {2004}{}{Antipathie}
 {2005}{}{Gehaßt}
 {2006}{}{Verachtet}
-
 {2100}{}{Jeder in der Gegend würde gerne mit dir tauschen. Du bist der Liebling der ganzen Stadt und giltst als leuchtendes Beispiel dafür, was jemand aus sich machen kann.}
 {2101}{}{Die Leute winken dir zu und grüßen dich, egal wohin du auch kommst. Jeder in der Gegend hat schon von dir gehört und ist begeistert von dem, was man sich erzählt.}
 {2102}{}{Obwohl du in der Gegend nicht gerade mit offenen Armen empfangen wirst, nicken dir die meisten Leute doch zumindest zu. Du paßt ganz gut in die hiesige Gesellschaft.}
@@ -318,10 +233,6 @@
 {2104}{}{Du bist einfach einer von vielen Fremden in der Stadt und führst wahrscheinlich nichts Gutes im Schilde.}
 {2105}{}{Du hast den Leuten aus der Gegend bewiesen, daß ihr anfängliches Mißtrauen dir gegenüber gerechtfertigt war. Es ist bekannt, daß du nichts Gutes im Schilde führst.}
 {2106}{}{Manche Leute wechseln unter Geflüster und bösen Blicken die Straßenseite, damit sie nicht in deiner Nähe gehen müssen. Alle wissen, daß du mit zu den schlimmsten Gestalten zählst.}
-
-#
-# Karma status strings
-#
 {3000}{}{Retter der Verdammten}
 {3001}{}{Wächter des Ödlands}
 {3002}{}{Schild der Hoffnung}
@@ -331,27 +242,15 @@
 {3006}{}{Schwert der Verzweiflung}
 {3007}{}{Geißel des Ödlands}
 {3008}{}{Teufelsbrut}
-
-#
-# Karma section titles.
-#
 {4000}{}{Ansehen}
 {4001}{}{Abhängigkeiten}
-
-#
-# Karma section descriptions.
-#
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
 {4101}{}{Dinge, von denen du nicht genug bekommen kannst.}
-
-#
-# Special Demo version only text
-#
-{5000}{}{Bedaure, Drucken der }   # 1
-{5001}{}{Figur geht nur in der Vollversion.}   # 2
-{5002}{}{Bedaure, Speichern der}    # 1
-{5003}{}{Figur geht nur in der Vollversion.}   # 2
-{5004}{}{Bedaure, Laden einer gespeicherten} # 1
-{5005}{}{Figur geht nur in der Vollversion.}   # 2
+{5000}{}{Bedaure, Drucken der }
+{5001}{}{Figur geht nur in der Vollversion.}
+{5002}{}{Bedaure, Speichern der}
+{5003}{}{Figur geht nur in der Vollversion.}
+{5004}{}{Bedaure, Laden einer gespeicherten}
+{5005}{}{Figur geht nur in der Vollversion.}
 {5006}{}{CHEATMODUS}
 {5007}{}{In der Demo nicht verfügbar.}

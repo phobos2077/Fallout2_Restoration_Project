@@ -5,7 +5,7 @@
 {104}{}{Pauvre de moi. A croire que tout peut régresser.}
 {105}{}{On dirait que t'as du mal à imprimer, hein ?}
 {106}{}{J'ai pas le temps. Dis donc, t'aurais pas quelques cases en moins ?}
-{107}{}{Manque plus que quelques clowns pour faire un cirque, hein ?}
+{107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Bonjour. Je m'appelle Dan McGrew la Menace. Je dirige la mine Morningstar. Que veux-tu ?}
 {109}{}{Que veux-tu ?}
 {110}{}{Quel type d'exploitation est-ce ?}
@@ -50,11 +50,11 @@
 {149}{}{Tu m'étonnes. Laisse-moi te demander autre chose.}
 {150}{}{Merci pour l'information. A plus tard, Dan.}
 {151}{}{En ce moment, on a à peine assez de Jet en ville pour contenter tout le monde. J'espère que les prochaines caravanes arriveront à bon port.}
-{152}{}{Intéressant. Je peux te poser une autre question ?}
+{152}{}{Intéressant. Je peux te poser une autre question, Dan ?}
 {153}{}{Je continue ma ballade. Au revoir.}
 {154}{}{Tout le monde semble se jeter sur le Jet ces derniers temps. On dirait que la plupart des types n'en ont jamais assez. Ca fait de bons travailleurs, alors je ne me plains pas. Ils font la queue en rang par deux chez Doc Johnson. Mais s'il y en avait beaucoup plus, je commencerais à m'inquiéter.}
 {155}{}{Qui est le Doc Johnson ?}
-{156}{}{Intéressant. Mais dis-moi...}
+{156}{}{Intéressant. Je peux te poser une autre question, Dan ?}
 {157}{}{Mieux vaut que je décampe, Dan. Au revoir.}
 {158}{}{Bon sang, il y a trop de Jet dans cette ville. On est en train de sombrer. Personne ne veut travailler, ils veulent juste planer. Je ne peux pas remplir mes quotas d'or avec la moitié de mes mineurs qui planent au Jet. Foutu Docteur Johnson !}
 {159}{}{Qui est le Doc Johnson ?}

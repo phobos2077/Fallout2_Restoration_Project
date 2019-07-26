@@ -14,7 +14,7 @@
 {113}{}{Du kannst gehen.}
 {114}{}{Ich hab nix gesehen.}
 {115}{}{Das sind nicht die Droiden, die wir suchen.}
-{116}{}{Schieb ab.}
+{116}{}{Beweg dich.}
 {117}{}{Ich hab keine Lust mehr, zu töten.}
 {118}{}{Los, faß!}
 {119}{}{Rührt euch, Männer.}
@@ -76,5 +76,3 @@
 {161}{}{EÜ?}
 {162}{}{Enklavenüberwachung. Wir sind verantwortlich für den Umgebungsschutz, *normalerweise*.}
 {163}{}{Ach so. Was heißt *normalerweise*?}
-
-{170}{}{Es sei denn du hilfst mir an Horrigan vorbei zu meinem Vertibird zu kommen.}

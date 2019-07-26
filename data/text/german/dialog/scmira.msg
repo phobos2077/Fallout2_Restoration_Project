@@ -10,7 +10,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{Mir egal. Bring mir die Spezialität des Hauses.}
-{109}{}{Bring mir 'n Bier. }
+{109}{}{Gimme a beer.}
 {110}{}{Informationen.}
 {111}{}{Ich such Arbeit.}
 {112}{}{Hey, du bist mir ja einer! So mag ich sie.}
@@ -26,10 +26,10 @@
 {121}{}{Ja.}
 {122}{}{Nein.}
 {123}{}{Ein Rad-A-Waster, bitte sehr! Zehn Dollar.}
-{124}{}{Okay.}
+{124}{}{OK.}
 {125}{}{Zehn Eier? Das ist mir zu teuer.}
 {126}{}{Klar, macht einen Dollar.}
-{127}{}{Okay.}
+{127}{}{OK.}
 {128}{}{Kann ich mir nicht leisten.}
 {129}{}{Geh mal zu Merk ins Hinterzimmer.}
 {130}{}{Da bist du hier an der falschen Adresse, Fremdling.}
@@ -90,8 +90,8 @@
 {175}{}{Nein.}
 {176}{}{Hör zu - böser Mann war böse zu Mira. Böser Mann heißt Jack. Mira mag dich, Mira gibt dir
  hübschen Revolver. Ja?}
-{177}{}{Ja}
-{178}{}{Nein}
+{177}{}{Ja.}
+{178}{}{Nein.}
 {179}{}{Gut! Mira hängt Seil über Mauer. Du warten, bis dunkel ist. Du finden Seil. Du schleichen
  hinein. Du gehen zu großem Haus an Tor. Du finden Jack. Du Jack weh tun. Mira gibt dir Revolver.}
 {180}{}{Du warten, bis dunkel ist. Du finden Seil. Du schleichen hinein. Du gehen zu großem Haus
@@ -100,12 +100,10 @@
 {181}{}{Mira hat gehört, du haben Jack aua gemacht. Gut gemacht, Dummchen. Hier Revolver, du
  nehmen. Danke.}
 {182}{}{Du mich auch. Diesen Schweinehund werd ich nicht mehr los.}
-#latter additions
 {183}{}{Du mußt dich an Merk wenden, aber er ist gerade nicht hier. Komm heut abend wieder vorbei.
  Das ist eher seine Zeit.}
 {184}{}{Ich weiß nicht, was du Lenny getan hast, aber an deiner Stelle würde ich mich nicht hier rumtreiben. Du machst dich damit nicht gerade beliebter.}
 {185}{}{Ich hab dich gewarnt. Also gut...}
-
 {186}{}{Du bist Mira, stimmt's? Irgend so ein Bulle hat was über dich gesagt.}
 {187}{}{Du Mira? Böser Jack sagen Sachen.}
 {188}{}{Jack, diese Kanaille? Was spricht er denn so?}
@@ -115,7 +113,7 @@
 {192}{}{Nicht sonderlich viel. Ich hab ihn umgelegt.}
 {193}{}{Im Ernst? Donnerwetter, wenn das mal keine erfreuliche Nachricht ist! Sein Hirn dürfte eine hübsche Tapete abgeben, wenn's schon zu sonst nichts getaugt hat. Komm, ich geb dir einen Rad-a-Waster aus.}
 {194}{}{Ich mag.}
-{195}{}{Ich jetzt gehn.}
+{195}{}{Ich gehn.}
 {196}{}{Danke - nett von dir. Hast du einen Augenblick Zeit? Ich wollte dich was fragen.}
 {197}{}{Danke. Ich dachte mir, du solltest es erfahren.}
 {198}{}{Du hast WAS? Wenn ich hier nicht Dienst schieben würde, ich würd glatt über den Tresen hüpfen und...und dich knutschen. Dieser kleine Scheißer, es geschieht ihm recht! Ganz unter uns gesagt, ich hab die ganze Zeit gehofft, daß ich mal irgendeinen blöden Ochsen finde, der mir die Dreckarbeit abnimmt. Ich hab auch schon eine kleine Belohnung beiseite gelegt. Die gehört jetzt dir - du hast sie dir redlich verdient, finde ich.}

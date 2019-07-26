@@ -47,7 +47,7 @@
 {146}{}{Les schémas décrivent une opération de greffe de plaques d'impact et de membranes de dissipation thermique sur un squelette humain, qui rend le sujet résistant au traumatisme physique et à la chaleur. La procédure a l'air compliquée.}
 {147}{}{[Les recopier, puis faire une autre recherche sur la base pour trouver d'autres informations]}
 {148}{}{[Enregistrer les informations, puis se déconnecter du terminal]}
-{149}{}{Tu reviens au menu principal. L'écran du terminal affiche une série d'archives et de programmes de recherche.}
+{149}{}{[Tu reviens au menu principal. L'écran du terminal affiche une série d'archives et de programmes de recherche.]}
 {150}{}{[Essayer de trouver une allusion quelconque à l'Abri 13 dans les archives]}
 {151}{}{[Essayer de trouver des références au Jardin d'Eden en Kit]}
 {152}{}{[Rechercher dans la base médicale pour essayer de trouver des choses intéressantes]}
@@ -55,11 +55,11 @@
 {200}{}{Tu as fini d'étudier la base de données médicale de la Cité de l'Abri.}
 {201}{}{Ton acolyte essaie d'attirer ton attention sur la fenêtre colorée qui fait BIIIP BIIIP, mais tu n'as pas l'air de comprendre comment l'ouvrir. Tu finis par en avoir marre et tu laisses tomber.}
 {202}{}{[Partir]}
-{203}{}{<Biip>}
+{203}{}{<Beep>}
 {204}{}{<Biip> <Biii-ouup>}
 {205}{}{<Dweeee-oop>}
-{206}{}{<Biii-ouup>}
-{207}{}{<Biip>}
+{206}{}{<Bee-Oop>}
+{207}{}{<Beep>}
 {208}{}{PING !}
 {209}{}{Désolé, Dave. Je ne peux pas faire ça.}
 {210}{}{Attention ! Will Robinson !}

@@ -9,7 +9,7 @@
 {108}{}{Hé, Vikki, Dave H. est amoureux de toi.}
 {109}{}{Formidable. Je dois partir.}
 {110}{}{Lui : Un pauvre enfant du désert. Elle : Un petit balayage lui ferait peut-être du bien ? Lui : Oui. Toi. Tu veux un balayage ?}
-{111}{}{Voui !}
+{111}{}{'ui !}
 {112}{}{Non !}
 {113}{}{Elle : J'espère que ça t'a été utile. Bonne chance dans tes voyages !}
 {114}{}{'alut !}
@@ -18,19 +18,19 @@
 {117}{}{Au revoir !}
 {118}{}{Lui : Ah, tu vois ? Les enseignements du Centre se sont une nouvelle fois révélés utiles !}
 {119}{}{J'ai quelques questions.}
-{120}{}{Merci ! Au revoir !}
+{120}{}{Merci ! Salut !}
 {121}{}{Elle : Eh bien, nous étions dans le cinéma à New Reno. Nous avons fait des centaines de films, et de grands classiques comme, « Top Bun », « Frisky Bizness », et « Jours de commères ». C'est comme ça que nous sommes devenus des stars.}
 {122}{}{Lui : Mais faisant partie du business, tu sais déjà tout ça.}
 {123}{}{C'est bien de pouvoir enfin mettre des visages sur des noms.}
 {124}{}{Qu'est-ce que ça peut faire que VOUS soyez d'accord avec l'hubologie ? Ne devrais-je pas faire mes propres choix ?}
 {125}{}{Je vois. Eh bien, j'ai d'autres questions à poser.}
-{126}{}{Merci et au revoir.}
+{126}{}{Merci. Salut.}
 {127}{}{Elle : Oh, oui, tu devrais vraiment faire tes propres choix. Lui : Et grâce au dernier livre d'Hubol, tu peux apprendre à faire le BON choix !}
 {128}{}{Son dernier livre ? Il n'est pas mort ?}
 {129}{}{Le *bon* choix. Certainement. Et le libre arbitre dans tout ça ?}
 {130}{}{Ca a l'air formidable. Comment on fait pour devenir membre ?}
 {131}{}{Sans aucun doute. J'ai d'autres questions.}
-{132}{}{Très bien. Au revoir.}
+{132}{}{Bien. Au revoir.}
 {133}{}{Lui : D'autres questions ? Alors, nous avons les réponses ! Fournies par les grâces de la Grande Roue, bien sûr.}
 {134}{}{Comment fait-on pour devenir membre ?}
 {135}{}{Qu'est-ce qui fait de vous des stars ?}
@@ -57,7 +57,7 @@
 {156}{}{Elle : Tu oses traiter le Centre (louange à lui) de cinglé ? Ici ? Dans ce bastion consacré à ses recherches ? Lui : Fiche le camp d'ici. N'adresse la parole à personne en partant, tu le regretterais. Infidèle. Tous les deux : Bon débarras.}
 {157}{}{Je devrais peut-être leur sauter dessus. De toute façon, j'ai toujours détesté vos films. Voyons comment vous jouez une scène de meurtre.}
 {158}{}{Vos films sont merdiques. Au revoir.}
-{159}{}{Au revoir.}
+{159}{}{Salut.}
 {160}{}{Elle : Les neurodines sont l'essence des âmes détruites lors de la Grande Guerre, polluant ton essence spirituelle et te guidant hors du droit chemin. Lui : Si tu veux en savoir plus sur nos enseignements, tu dois rejoindre notre église.}
 {161}{}{Oui, tout cela semble fascinant.}
 {162}{}{J'ai entendu dire que c'était de la science fiction, mais je ne savais pas dans quelle proportion. Hubol devait être un sacré cinglé.}
@@ -76,7 +76,7 @@
 {175}{}{Je devrais peut-être vous tuer d'abord.}
 {176}{}{Je suis parti.}
 {177}{}{Lui : C'est ta dernière chance de changer d'avis. Elle : Nous ne voudrions pas qu'il t'arrive quoi que ce soit.}
-{178}{}{Allez vous faire foutre.}
+{178}{}{Va t'faire !}
 {179}{}{Très bien. Comment faire pour devenir membre ?}
 {180}{}{Quelque chose de mal va bientôt t'arriver.}
 {181}{}{Non. Je prends le risque. Au revoir.}
@@ -90,7 +90,7 @@
 {189}{}{Lui : C'est bien dommage. Elle : Tu viens de prendre un engagement.}
 {190}{}{[Terminé]}
 {191}{}{Lui : Tu as pris une décision qui va changer ta vie. Elle : Et hélas, ce n'était pas la bonne. Tous les deux : Gardes ! Gardes !}
-{192}{}{Bon sang.}
+{192}{}{Putain.}
 {193}{}{Lui : Salutations, }
 {194}{}{Bon, eh bien, je fais quoi maintenant que je suis Hubologiste ?}
 {195}{}{Comment faire pour devenir comme vous ?}
@@ -126,10 +126,7 @@
 {225}{}{Non, nous voulons t'aider, TOI.}
 {226}{}{Et c'est tout cela l'Hubologie.}
 {227}{}{::Applaudissements::}
-
 {228}{}{. J'espère que ton éclairement se passe bien. Elle : Nous avons placé tant... d'espoirs... en toi.}
-
 {229}{}{Leçon n°1 : Ici, nous avons l'éternité, la Grande Roue. ::Montre quelque chose:: Et c'est ici que nous sommes. ::Montre quelque chose:: Maintenant tout ce que nous avons à faire c'est de marcher très loin pour y rencontrer notre fratrie étoilée.}
 {230}{}{Eh bien mon gars, on va avoir besoin de pas mal de paires de chaussures.}
-
 {231}{}{Lui : Maintenant, va parler à AHS-7 et nous serons camarades en Hubologie ! Elle : J'en suis toute excitée ! Lui : Les nouvelles recrues me rendent lascif. Elle : Oh, chéri... Lui : Oh, mon chou...}

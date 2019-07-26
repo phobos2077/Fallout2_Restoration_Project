@@ -21,7 +21,7 @@
 {120}{}{Oui, certainement. Très bien. Si on se quitte en amis, humain, tu devrais parler à Goris. Il comprend mieux le sujet que moi. Il est souvent à la bibliothèque de l'abri.}
 {121}{}{Merci. J'ai hâte de rencontrer Goris.}
 {122}{}{Je n'ai aucunement l'intention d'ajouter un Griffemort à ma liste d'amis. Au revoir !}
-{123}{}{Très bien.}
+{123}{}{D'accord.}
 {124}{}{Ils sont partis, humain. Nous ne les avons pas tués, ni pris leur maison. On n'a pas l'habitude de tuer. Je comprendrais que tu ne veuilles pas me croire, mais j'espère que tu me jugeras au travers de mes actions envers toi et non à cause de la peur et des préjugés.}
 {125}{}{Hé, tu crois peut-être que je peux te botter le train ?}
 {126}{}{Tu as l'air de quelqu'un d'honorable, Gruthar.}
@@ -55,7 +55,7 @@
 {154}{}{Merci, je m'en souviendrai.}
 {155}{}{Il y a vraiment une nouvelle naissance toutes les minutes...}
 {156}{}{Je vois... Eh bien, les Griffemorts sont dangereux par nature et il convient d'être prudent si on les rencontre dans le désert. Mais, tu as certainement remarqué que nous faisons exception. Ma meute ne représente aucune menace pour toi ou pour les communautés humaines. Nous avons évolué par rapport à nos simples cousins et nous souhaitons juste vivre tranquillement.}
-{157}{}{Euh... Ouais.}
+{157}{}{Heu... ouais.}
 {158}{}{Ton intellect supérieur pourrait faire de toi une menace encore plus grande que celle des autres Griffemorts, Gruthar.}
 {159}{}{Je constate que vous n'êtes pas les tueurs sauvages que la réputation décrit habituellement.}
 {160}{}{J'ai passé des nuits entières à réfléchir et à méditer sur ces questions. Je suis finalement arrivé à la conclusion que les charges et les responsabilités associées au don d'intelligence sont innombrables. Deux choix s'offrent à tous les êtres pensants : accepter la vie comme elle vient et en tirer le meilleur pour soi-même et pour les autres, ou simplement arrêter de vivre. J'ai choisi d'accepter les défis de la vie. Si cela fait de moi une menace pour l'humanité, alors je plains le petit esprit qui pense ça...}
@@ -68,14 +68,14 @@
 {167}{}{J'en ai assez entendu pour le moment. J'ai besoin de temps pour réfléchir.}
 {168}{}{Je vois...}
 {169}{}{Ta décision me déplaît, mais je l'accepte. Tu peux partir, mais je t'en prie, reviens si tu changes d'avis.}
-{170}{}{[Terminé]}
-{171}{}{Bonjour } // Goes to 231
+{170}{}{Marché conclu.}
+{171}{}{Bonjour }
 {172}{}{Non, mais on verra.}
 {173}{}{Je regrette, Gruthar. Le module vocal ne fonctionne pas et je dois aller en chercher un autre.}
-{174}{}{Je ne comprends rien au fonctionnement de ces trucs, mais je te fais confiance, } // 232
-{175}{}{[Terminé]}
+{174}{}{Je ne comprends rien au fonctionnement de ces trucs, mais je te fais confiance, }
+{175}{}{Marché conclu.}
 {176}{}{Je reviendrai, je te le promets.}
-{177}{}{Bonjour } // 233
+{177}{}{Bonjour }
 {178}{}{Non, je cherche toujours.}
 {179}{}{Oui, le voilà !}
 {180}{}{}
@@ -93,14 +93,14 @@
 {192}{}{Euh, moi regretter.}
 {193}{}{Bonjour, humain. As-tu changé d'avis ? Vas-tu m'aider ?}
 {194}{}{Certainement pas. Je voulais juste t'entendre encore massacrer notre langage.}
-{195}{}{Non, je ne pense pas.}
+{195}{}{Non, je ne crois pas.}
 {196}{}{Oui, Gruthar. Je vais t'aider.}
 {197}{}{Salutations, ami. As-tu déjà examiné la machine ?}
 {198}{}{Pas encore, mais je vais m'y mettre.}
 {199}{}{Bonjour, mon ami. Tu as sauvé la meute et nous t'en remercions.}
 {200}{}{}
 {201}{}{}
-{202}{}{Va au diable, traître d'humain !}
+{202}{}{Crève, humain perfide !}
 {203}{}{}
 {204}{}{}
 {205}{}{Je n'ai rien à te reprocher, humain, et je n'ai pas envie que ça change. J'essaie de bien me conduire avec toi. Alors, s'il te plaît, fais-en autant !}
@@ -126,15 +126,13 @@
 {225}{}{Ta présence ici n'est plus la bienvenue, tu peux partir.}
 {226}{}{Au revoir.}
 {227}{}{Au revoir.}
-{228}{}{[Terminé]}
+{228}{}{Marché conclu.}
 {229}{}{J'accepte tes excuses, humain. Passe une bonne journée !}
-{230}{}{[Terminé]}
+{230}{}{Marché conclu.}
 {231}{}{. As-tu examiné la machine ?}
 {232}{}{. Je vais attendre ton retour.}
 {233}{}{. As-tu trouvé la pièce pour réparer la machine ?}
-
-#added later
-{234}{}{Euh, Ok.}
+{234}{}{Uh, Ok.}
 {235}{}{J'espère que tu passes un bon séjour.}
 {236}{}{Malheureusement, on a dû en arriver là. J'lui ai dit qu'on le toucherait pas tant qu'il ne s'approcherait pas de la meute. Il a fait son choix. J'espère que tu comprends.}
 {237}{}{Toi méchant.}

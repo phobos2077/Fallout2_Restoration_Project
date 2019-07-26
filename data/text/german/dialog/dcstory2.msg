@@ -3,9 +3,9 @@
 {102}{}{Sie scheint ein wenig traurig.}
 {103}{}{Hör auf!}
 {104}{}{Wie konntest du nur?!}
-{105}{}{Bleib mir vom Leibe!}
+{105}{}{Lass mich in Ruhe!}
 {106}{}{Warum?}
-{107}{}{Bitte hör auf damit!}
+{107}{}{Bitte hör auf!}
 {108}{}{Du Mörder!}
 {109}{}{Arme Mom! Dafür wirst du bezahlen!}
 {110}{}{Mom...}
@@ -13,7 +13,7 @@
 {112}{}{Tut mir leid, mir fällt nichts Interessantes mehr ein.}
 {113}{}{Mein Hirn ist ganz eingetrocknet.}
 {114}{}{Das war's.}
-{115}{}{Hallo.}
+{115}{}{Hey.}
 {116}{}{Hast du Mom schon begrüßt?}
 {117}{}{Oh, hallo.}
 {118}{}{Ach, du bist es.}
@@ -22,10 +22,7 @@
 {121}{}{Bist du öfter hier?}
 {122}{}{Wir sehen uns später. Tschüß.}
 {123}{}{OK?}
-{124}{}{Uck.}
-
-# Node 005 removed
-
+{124}{}{Agh.}
 {131}{}{Bitte stör mich jetzt nicht. Ich bin jetzt wirklich nicht in der richtigen Stimmung.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -35,7 +32,7 @@
 {137}{}{Ja, Kuschel. Sie war so eine süße Katze. Ich möchte jetzt wirklich nicht darüber reden... es sei denn, du spendierst mir 'nen Drink. Vielleicht hilft das.}
 {138}{}{Ich sag doch, ich möchte im Moment lieber nicht darüber reden. Aber wenn du mir 'nen Drink spendierst, löst das vielleicht meine Zunge.}
 {139}{}{Klar mach ich das. Ich würde es wirklich gern hören.}
-{140}{}{Klar.}
+{140}{}{Sicher.}
 {141}{}{Bedaure, ich habe im Moment keine 10 Dollar übrig.}
 {142}{}{Offensichtlich.}
 {143}{}{Hältst dich wohl für witzig, was? Denk dir 'ne bessere Anmache aus. }
@@ -51,7 +48,7 @@
 {153}{}{Mit Kuschel konnte ich abends immer viel besser einschlafen.
  Jeden abend, wenn ich versuche einzuschlafen, denke ich an sie.}
 {154}{}{Hört sich schön an.}
-{155}{}{Weiter.}
+{155}{}{Ja?}
 {156}{}{Ich hatte sie als ich klein war, aber sie verschwand. Damals wußte ich nicht, was mit ihr passiert war, ich war noch zu klein.}
 {157}{}{Warum?}
 {158}{}{Damals gab es wirklich furchtbar wenig zu essen, und die Menschen mußten ja essen. Es ist wirklich ganz schön traurig...}

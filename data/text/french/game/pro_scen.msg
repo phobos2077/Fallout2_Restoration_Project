@@ -10,9 +10,9 @@
 {501}{}{Un vieux baril en tôle.}
 {600}{}{Baril en métal}
 {601}{}{Un vieux baril en tôle.}
-{700}{}{Tas de pneus}
-{701}{}{Tas de vieux pneus en caoutchouc. Ils sont vulcanisés et durcis, vraisemblablement par la chaleur.}
-{800}{}{Porte de sécurité}
+{700}{}{Pile de pneus}
+{701}{}{Une pile d'anciens pneu de caoutchouc. Ils sont endommagés et durcis, probablement à cause de la chaleur.}
+{800}{}{Portes de sécurité}
 {801}{}{Cette porte semble très solide. Elle protège des éléments du monde extérieur et des créatures dangereuses.}
 {900}{}{Ordinateur}
 {901}{}{Un terminal d'ordinateur relié à un ordinateur central.}
@@ -22,9 +22,9 @@
 {1101}{}{Un terminal d'ordinateur relié à un ordinateur central.}
 {1200}{}{Ordinateur}
 {1201}{}{Un terminal d'ordinateur relié à un ordinateur central.}
-{1300}{}{Moniteur}
+{1300}{}{Ecran}
 {1301}{}{Un écran vert affichant des données éparses. Quelques octets apparaissent de temps à autre.}
-{1400}{}{Moniteur}
+{1400}{}{Ecran}
 {1401}{}{Moniteur à écran vert, affichant plusieurs octets de données.}
 {1500}{}{Holo-Générateur}
 {1501}{}{Projecteur de films THT à grande échelle. Aucun nouveau film n'a été réalisé en 80 ans.}
@@ -36,34 +36,34 @@
 {1801}{}{En y regardant de plus près, c'est toujours une porte.}
 {1900}{}{Porte}
 {1901}{}{En y regardant de plus près, c'est toujours une porte.}
-{2000}{}{Trou d'aération}
-{2001}{}{Une bouche d'aération qui fournit de l'air recyclé et purifié au complexe.}
-{2100}{}{Trou d'aération}
-{2101}{}{Une bouche d'aération qui fournit de l'air recyclé et purifié au complexe.}
+{2000}{}{Conduit d'aération}
+{2001}{}{Un conduit d'aération, approvisionnant de l'air propre et purifié dans tout le complexe.}
+{2100}{}{Conduit d'aération}
+{2101}{}{Un conduit d'aération, approvisionnant de l'air propre et purifié dans tout le complexe.}
 {2200}{}{Porte de l'Abri 13}
-{2201}{}{Une porte lourde, conçue pour résister à toutes sortes de dégâts et de chocs.}
+{2201}{}{Lourde porte, construite pour résister à toutes sortes de dégâts et chocs.}
 {2300}{}{Porte de l'Abri 13}
 {2301}{}{Lourde porte, construite pour résister à toutes sortes de dégâts et chocs.}
 {2400}{}{Socle}
 {2401}{}{Un monte-charge hydraulique, prévu pour amener du matériel, de l'énergie et des lignes de communication de la plate-forme du dirigeant.}
-{2500}{}{Moniteur}
+{2500}{}{Ecran}
 {2501}{}{Si tu as vu un moniteur, tu les as tous vus.}
-{2600}{}{Moniteur}
+{2600}{}{Ecran}
 {2601}{}{Moniteur d'ordinateur affichant plusieurs octets de données.}
 {2700}{}{Grillage}
 {2701}{}{Une grille dans le sol.}
 {2800}{}{Tuyaux}
 {2801}{}{Quelques tuyaux. En y regardant mieux, ce sont toujours des tuyaux.}
-{2900}{}{Trou d'aération}
-{2901}{}{Système de ventilation standard Abri-Tec.}
+{2900}{}{Conduit d'aération}
+{2901}{}{Un système de ventilation standard de Vault-Tec.}
 {3000}{}{Colonne}
 {3001}{}{Système de soutien en colonnes standard Abri-Tec.}
 {3100}{}{Colonne}
 {3101}{}{Système de soutien en colonnes standard Abri-Tec.}
-{3200}{}{Trou d'aération}
-{3201}{}{Système de ventilation standard Abri-Tec.}
-{3300}{}{Trou d'aération}
-{3301}{}{Système de ventilation standard Abri-Tec.}
+{3200}{}{Conduit d'aération}
+{3201}{}{Un système de ventilation standard de Vault-Tec.}
+{3300}{}{Conduit d'aération}
+{3301}{}{Un système de ventilation standard de Vault-Tec.}
 {3400}{}{Lit}
 {3401}{}{Lit. Il a l'air plutôt confortable par rapport à ceux dont tu as l'habitude.}
 {3500}{}{Lit}
@@ -82,17 +82,17 @@
 {4101}{}{Voici une chaise. Dommage, tu n'as pas le temps de t'asseoir pour te détendre.}
 {4200}{}{Chaise}
 {4201}{}{Voici une chaise. Dommage, tu n'as pas le temps de t'asseoir pour te détendre.}
-{4300}{}{Moniteur}
+{4300}{}{Ecran}
 {4301}{}{Moniteur d'ordinateur affichant plusieurs octets de données.}
-{4400}{}{Moniteur}
+{4400}{}{Ecran}
 {4401}{}{Moniteur d'ordinateur affichant plusieurs octets de données.}
-{4500}{}{Moniteur}
+{4500}{}{Ecran}
 {4501}{}{Moniteur d'ordinateur affichant plusieurs octets de données.}
-{4600}{}{Moniteur}
+{4600}{}{Ecran}
 {4601}{}{Moniteur d'ordinateur affichant plusieurs octets de données.}
-{4700}{}{Moniteur}
+{4700}{}{Ecran}
 {4701}{}{Moniteur d'ordinateur affichant plusieurs octets de données.}
-{4800}{}{Moniteur}
+{4800}{}{Ecran}
 {4801}{}{Moniteur d'ordinateur affichant plusieurs octets de données.}
 {4900}{}{Repère - Zone de sortie}
 {4901}{}{Repère - Zone de sortie}
@@ -131,8 +131,8 @@
 {6600}{}{Arbre}
 {6601}{}{Arbre mort. Rien ne pousse vraiment ici.}
 {6700}{}{Case de blocage secrète}
-{6701}{}{Si tu la vois, tu dois blâmer le concepteur technique.}
-{6800}{}{Escaliers}
+{6701}{}{Si tu vois cela, blâme le concepteur technique.}
+{6800}{}{Marches d'escalier}
 {6801}{}{Une cage d'escalier.}
 {6900}{}{Stalagmite}
 {6901}{}{Extension naturelle du sol rocheux.}
@@ -148,8 +148,8 @@
 {7401}{}{Voilà un moment que tu étudies les rochers, mais ils ne bougent jamais.}
 {7500}{}{Rochers}
 {7501}{}{Tu surveilles de près ces rochers, au cas où ils se mettraient bouger pour t'attaquer.}
-{7600}{}{Sol de cabine de voiture}
-{7601}{}{SUPPRIME}
+{7600}{}{}
+{7601}{}{}
 {7700}{}{Portail}
 {7701}{}{Un portail en bois.}
 {7800}{}{Rochers}
@@ -159,7 +159,7 @@
 {8000}{}{Rochers}
 {8001}{}{Petit amas de rochers.}
 {8100}{}{Rochers}
-{8101}{}{Gros amas de rochers.}
+{8101}{}{Un gros tas de cailloux.}
 {8200}{}{Os}
 {8201}{}{Gros tas d'os d'animaux blanchis. Du moins, tu penses que tous les os sont d'origine animale...}
 {8300}{}{Os}
@@ -191,8 +191,8 @@
 {9600}{}{Chaise}
 {9601}{}{Vieille chaise malodorante qui faisait autrefois office de siège de voiture. Les ressorts sont en très mauvais état.}
 {9700}{}{Chaise}
-{9701}{}{Vieille chaise pourrie et odorante soutenue par des briques. Elle n'a pas l'air très confortable.}
-{9800}{}{Fauteuil}
+{9701}{}{Vieux siège pourri et malodorant soutenu par des briques. Il n'a pas l'air très confortable.}
+{9800}{}{Chaise}
 {9801}{}{Vieux siège pourri et malodorant soutenu par des briques. Il n'a pas l'air très confortable.}
 {9900}{}{Divan}
 {9901}{}{Siège très inconfortable, parfois appelé divan.}
@@ -201,20 +201,20 @@
 {10100}{}{Pneu}
 {10101}{}{Vieux pneu en caoutchouc trônant au milieu de quelques mauvaises herbes.}
 {10200}{}{Broussailles}
-{10201}{}{Variétés de mauvaises herbes du désert.}
+{10201}{}{Quelques variétés de mauvaises herbes du désert.}
 {10300}{}{Broussailles}
-{10301}{}{Variétés de mauvaises herbes du désert.}
+{10301}{}{Quelques variétés de mauvaises herbes du désert.}
 {10400}{}{Broussailles}
-{10401}{}{Variétés de mauvaises herbes du désert.}
+{10401}{}{Quelques variétés de mauvaises herbes du désert.}
 {10500}{}{Broussailles}
 {10501}{}{Quelques variétés de mauvaises herbes du désert.}
-{10600}{}{Ferraille}
+{10600}{}{Vieilleries}
 {10601}{}{Voici une portière de voiture rouillée appuyée sur un baril en métal également rouillé. La rouille ne cesse de ronger.}
-{10700}{}{Ferraille}
+{10700}{}{Vieilleries}
 {10701}{}{Toilettes cassées à moitié enterrées dans le sable.}
 {10800}{}{Mauvaises herbes}
 {10801}{}{Quelques mauvaises herbes du désert. Elles poussaient encore dans un passé récent, mais ce n'est plus le cas.}
-{10900}{}{Ferraille}
+{10900}{}{Vieilleries}
 {10901}{}{Pneu de voiture enterré dans le sable. Quelques petits morceaux de bois sont entassés autour.}
 {11000}{}{Rochers}
 {11001}{}{En y regardant de plus près, tu penses qu'il s'agit de morceaux de bois pétrifié.}
@@ -228,11 +228,11 @@
 {11401}{}{Un peu de terre.}
 {11500}{}{Mauvaise herbe}
 {11501}{}{Un peu de terre. Il en sort une mauvaise herbe sèche.}
-{11600}{}{Ferraille}
+{11600}{}{Vieilleries}
 {11601}{}{Morceau tordu de métal rouillé.}
-{11700}{}{Ferraille}
+{11700}{}{Vieilleries}
 {11701}{}{Quelques morceaux de bois cassés.}
-{11800}{}{Ferraille}
+{11800}{}{Vieilleries}
 {11801}{}{Petit tas de vieilleries en tout genre.}
 {11900}{}{Terre}
 {11901}{}{Un peu de terre.}
@@ -282,13 +282,13 @@
 {14501}{}{Une explosion a formé un gros trou dans cette porte.}
 {14600}{}{Trou}
 {14601}{}{Une explosion a formé un gros trou dans cette porte.}
-{14700}{}{Verre pare-balles}
+{14700}{}{Verre blindé}
 {14701}{}{Du verre vraiment incassable. N'essaie même pas.}
-{14800}{}{Verre pare-balles}
+{14800}{}{Verre blindé}
 {14801}{}{Du verre vraiment incassable. N'essaie même pas.}
-{14900}{}{Verre pare-balles}
+{14900}{}{Verre blindé}
 {14901}{}{Du verre vraiment incassable. N'essaie même pas.}
-{15000}{}{Verre pare-balles}
+{15000}{}{Verre blindé}
 {15001}{}{Du verre vraiment incassable. N'essaie même pas.}
 {15100}{}{Porte}
 {15101}{}{Cette porte est une pièce de construction ultra-sophistiquée. Elle s'ouvre par dilatation et fait pivoter les trois éléments qui la forment.}
@@ -304,9 +304,9 @@
 {15601}{}{Voici l'intérieur de l'ascenseur de la Confrérie. Il est incroyablement propre !}
 {15700}{}{Repère}
 {15701}{}{Voici le symbole de la Confrérie de l'Acier. Dans le désert, il indique qu'il s'agit de leur secteur. Faire immédiatement demi-tour.}
-{15800}{}{Moniteur}
+{15800}{}{Ecran}
 {15801}{}{Voici un moniteur d'ordinateur. Il fait partie de la technologie de la Confrérie.}
-{15900}{}{Moniteur}
+{15900}{}{Ecran}
 {15901}{}{Voici un moniteur d'ordinateur. Il fait partie de la technologie de la Confrérie.}
 {16000}{}{Ordinateur}
 {16001}{}{Voici une banque de données de mémoire d'ordinateur. Il s'agit de toute évidence d'une technologie de la Confrérie.}
@@ -316,40 +316,40 @@
 {16201}{}{Ordinateur high-tech utilisant des périphériques de stockage à la place des anciennes cartes perforées.}
 {16300}{}{Ordinateur}
 {16301}{}{Ordinateur high-tech utilisant des périphériques de stockage à la place des anciennes cartes perforées.}
-{16400}{}{Moniteur}
+{16400}{}{Ecran}
 {16401}{}{Voici un moniteur d'ordinateur. Il fait partie de la technologie de la Confrérie.}
-{16500}{}{Moniteur}
+{16500}{}{Ecran}
 {16501}{}{Voici un moniteur d'ordinateur. Il fait partie de la technologie de la Confrérie.}
-{16600}{}{Câbles}
+{16600}{}{Câble}
 {16601}{}{Quelques câbles informatiques.}
-{16700}{}{Câbles}
+{16700}{}{Câble}
 {16701}{}{Quelques câbles informatiques.}
-{16800}{}{Câbles}
+{16800}{}{Câble}
 {16801}{}{Quelques câbles informatiques.}
 {16900}{}{Colonne}
 {16901}{}{Colonne de soutien.}
 {17000}{}{Colonne}
 {17001}{}{Colonne de soutien.}
-{17100}{}{Ordinateur de porte d'entrée}
-{17101}{}{Cet ordinateur contrôle la grande porte de l'abri. Pour le faire fonctionner, tu dois utiliser un code d'accès spécifique.}
-{17200}{}{Enseigne de casino}
+{17100}{}{Ordinateur de la Porte d'Entrée}
+{17101}{}{Cet ordinateur contrôle la porte de l'Abri. VOus devez entrer un code spécifique pour que ça fonctionne.}
+{17200}{}{Enseigne du Casino}
 {17201}{}{On dirait une publicité pour le Casino de Gizmo.}
 {17300}{}{Porte extérieure de l'Abri 13}
-{17301}{}{Cette grande porte relie l'abri au monde extérieur.}
+{17301}{}{Cette grande porte est le seul lien entre l'Abri est le monde extérieur.}
 {17400}{}{Porte extérieure de l'Abri 13}
-{17401}{}{Cette grande porte relie l'abri au monde extérieur.}
-{17500}{}{Enseigne de casino}
+{17401}{}{Cette grande porte est le seul lien entre l'Abri est le monde extérieur.}
+{17500}{}{Enseigne du Casino}
 {17501}{}{Cette partie de l'enseigne contient un moteur électrique qui fait doucement pivoter le néon qui y est fixé.}
 {17600}{}{Flèche Bas}
 {17700}{}{Flèche Haut}
-{17800}{}{Cageot}
-{17900}{}{Cageot}
-{18000}{}{Cageot}
+{17800}{}{Caisse}
+{17900}{}{Caisse}
+{18000}{}{Caisse}
 {18100}{}{Haut de l'ascenseur}
 {18101}{}{Tu regardes une partie de l'ascenseur.}
-{18200}{}{Console d'ordinateur}
+{18200}{}{Console informatique}
 {18201}{}{Voici un terminal passif relié par un câble à l'ordinateur central.}
-{18300}{}{Console d'ordinateur}
+{18300}{}{Console informatique}
 {18301}{}{Voici un terminal passif relié par un câble à l'ordinateur central.}
 {18400}{}{Emblème}
 {18401}{}{Le symbole de la Confrérie. Les mécanismes représentent leurs connaissances en ingénierie, l'épée leur volonté à se défendre et les ailes l'espoir enrichissant.}
@@ -369,7 +369,7 @@
 {19101}{}{Lits superposés de style militaire. Ils n'ont pas l'air confortable.}
 {19200}{}{Lits superposés}
 {19201}{}{Lits superposés de style militaire. Ils n'ont pas l'air confortable.}
-{19300}{}{Cageot}
+{19300}{}{Caisse}
 {19400}{}{Machine à Nuka-Cola}
 {19401}{}{La publicité figurant sur le côté de la machine plébiscite le célèbre soda.}
 {19500}{}{Mur}
@@ -398,9 +398,9 @@
 {20700}{}{Vieux matelas}
 {20701}{}{Même si tu le devais, tu ne pourrais pas dormir dans un tel lit.}
 {20800}{}{Lit}
-{20801}{}{Lit de fortune. Il a été fabriqué avec du matériel de récupération.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Lit}
-{20901}{}{Lit de fortune. Il a été fabriqué avec du matériel de récupération.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Lit}
 {21001}{}{Ce lit a connu de meilleurs jours (et de meilleures nuits aussi.)}
 {21100}{}{Lit}
@@ -409,22 +409,22 @@
 {21201}{}{Il y a plusieurs taches d'origine douteuse sur cette espèce de lit usé.}
 {21300}{}{Lit}
 {21301}{}{Ce lit est très abîmé. On dirait que quelque chose s'est glissé entre les matelas pour y mourir.}
-{21400}{}{Bibliothèque}
+{21400}{}{}
 {21401}{}{}
-{21500}{}{Bibliothèque}
+{21500}{}{}
 {21501}{}{}
-{21600}{}{Bibliothèque}
+{21600}{}{}
 {21601}{}{}
-{21700}{}{Bibliothèque}
-{21800}{}{Bibliothèque}
-{21900}{}{Bibliothèque}
-{22000}{}{Caisses}
+{21700}{}{Paroi de la navette}
+{21800}{}{Paroi de la navette}
+{21900}{}{Paroi de la navette}
+{22000}{}{Boîtes}
 {22001}{}{Ces caisses en bois sont usées par le temps.}
-{22100}{}{Caisses}
+{22100}{}{Boîtes}
 {22101}{}{Tu ne vois pas de détails intéressants à noter au sujet de ces caisses en bois.}
-{22200}{}{Caisses}
+{22200}{}{Boîtes}
 {22201}{}{Tu as tout le temps de bien examiner ces vieilleries.}
-{22300}{}{Caisses}
+{22300}{}{Boîtes}
 {22301}{}{Ces caisses en bois sont usées par le temps.}
 {22400}{}{Voiture}
 {22401}{}{Cette voiture est en très mauvais état. Tu ne vois pas comment la restaurer.}
@@ -440,13 +440,13 @@
 {22901}{}{Chaise confortable.}
 {23000}{}{Chaise}
 {23001}{}{On dirait que cette chaise a connu de meilleurs jours.}
-{23100}{}{Fauteuil}
+{23100}{}{Chaise}
 {23101}{}{Ce siège grossier est moisi. Evidemment, il pue.}
-{23200}{}{Fauteuil}
+{23200}{}{Chaise}
 {23201}{}{Ce siège tombe en miettes. A toute vitesse.}
-{23300}{}{Fauteuil}
+{23300}{}{Chaise}
 {23301}{}{Si on te payait très cher et que tu pouvais porter un pantalon en acier, tu accepterais peut-être de t'asseoir dans cette chaise.}
-{23400}{}{Fauteuil}
+{23400}{}{Chaise}
 {23401}{}{On dirait une vieille chaise de bureau, toujours en bon état après toutes ces années.}
 {23500}{}{Chaise}
 {23501}{}{Voici une vieille chaise de bureau. Elle pourrait encore supporter le poids d'une personne.}
@@ -454,11 +454,11 @@
 {23601}{}{Cette chaise de bureau a connu de meilleurs jours. Elle est aujourd'hui en très mauvais état.}
 {23700}{}{Chaise}
 {23701}{}{On dirait une chaise d'entrepreneur des pompes funèbres.}
-{23800}{}{Bureau}
-{23900}{}{Bureau}
-{24000}{}{Commode}
-{24100}{}{Commode}
-{24200}{}{Commode}
+{23800}{}{}
+{23900}{}{}
+{24000}{}{}
+{24100}{}{Paroi de la navette}
+{24200}{}{Paroi de la navette}
 {24300}{}{Bouche d'incendie}
 {24301}{}{Voici une bouche d'incendie. Sans les systèmes d'extinction des plafonds de l'Abri, tu pourrais avoir besoin d'une de ces bouches pour éteindre les incendies.}
 {24400}{}{Réverbère}
@@ -475,17 +475,17 @@
 {24901}{}{Ce réverbère ne peut pas être réparé.}
 {25000}{}{Réverbère}
 {25001}{}{Voici un réverbère en état de marche.}
-{25100}{}{Grille}
+{25100}{}{Portail}
 {25101}{}{Le cadenas de cette grille est fermé à clé. Il a l'air très solide.}
-{25200}{}{Amas de vieilleries}
+{25200}{}{Vieilleries}
 {25201}{}{Des vieilleries inutiles, nul doute à cela.}
-{25300}{}{Amas de vieilleries}
+{25300}{}{Vieilleries}
 {25301}{}{Des vieilleries inutiles, nul doute à cela.}
-{25400}{}{Amas de vieilleries}
+{25400}{}{Vieilleries}
 {25401}{}{Des vieilleries inutiles, nul doute à cela.}
-{25500}{}{Amas de vieilleries}
+{25500}{}{Vieilleries}
 {25501}{}{Des vieilleries inutiles, nul doute à cela.}
-{25600}{}{Amas de vieilleries}
+{25600}{}{Vieilleries}
 {25601}{}{Des vieilleries inutiles, nul doute à cela.}
 {25700}{}{Boîte à lettres}
 {25701}{}{La boîte à lettres est vide. Tu penses que cela fait un moment qu'elle est vide.}
@@ -504,30 +504,30 @@
 {26400}{}{Banc d'église}
 {26401}{}{Banc d'église en bois qui a subi les affres du temps.}
 {26500}{}{Distributeur de journaux}
-{26501}{}{Le distributeur de journaux est vide.}
+{26501}{}{Le distributeur est vide.}
 {26600}{}{Distributeur de journaux}
-{26601}{}{Le distributeur de journaux est vide.}
+{26601}{}{Le distributeur est vide.}
 {26700}{}{Distributeur de journaux}
-{26701}{}{Le distributeur de journaux est vide.}
+{26701}{}{Le distributeur est vide.}
 {26800}{}{Distributeur de journaux}
 {26801}{}{Le distributeur est vide.}
 {26900}{}{Distributeur de journaux}
 {26901}{}{Le distributeur est vide.}
 {27000}{}{Distributeur de journaux}
 {27001}{}{Le distributeur est vide. On dirait qu'il contenait autrefois des magazines pour adultes.}
-{27100}{}{Des trucs}
+{27100}{}{Vieilleries}
 {27101}{}{Un matelas dans un sale état. Même les rats refusent d'y dormir.}
-{27200}{}{Des trucs}
+{27200}{}{Vieilleries}
 {27201}{}{Un matelas de lit à deux personnes qui a connu des jours meilleurs.}
-{27300}{}{Des trucs}
+{27300}{}{Vieilleries}
 {27301}{}{Un tas de bois pourri et inutilisable. Ne vaut pas son poids en..., euh, en rien du tout.}
-{27400}{}{Des trucs}
+{27400}{}{Vieilleries}
 {27401}{}{Un tas de bois avec des vieux clous rouillés enfoncés profondément.}
 {27500}{}{Boîtes}
 {27501}{}{Une pile de vieux cartons. Tu te demandes comment ils ont pu survivre si longtemps.}
 {27600}{}{Boîtes}
 {27601}{}{Une pile de vieux cartons.}
-{27700}{}{Des trucs}
+{27700}{}{Vieilleries}
 {27701}{}{Un machin qui a dû être un matelas avant de succomber aux détériorations de l'environnement.}
 {27800}{}{Rochers}
 {27900}{}{Rochers}
@@ -584,13 +584,13 @@
 {30501}{}{On dirait une vieille table de bistrot, très basse pour ces tout petits mutants.}
 {30600}{}{Table}
 {30601}{}{On dirait une vieille table de bistrot, très basse pour ces tout petits mutants.}
-{30700}{}{Toilettes}
+{30700}{}{Siège de toilette}
 {30701}{}{Les bords aiguisés du siège le rendent très inconfortable.}
-{30800}{}{Toilettes}
+{30800}{}{Siège de toilette}
 {30801}{}{Ces toilettes sont cassées.}
-{30900}{}{Toilettes}
+{30900}{}{Siège de toilette}
 {30901}{}{Berk ! La dernière personne qui a utilisé ces toilettes n'a pas tiré la chasse d'eau !}
-{31000}{}{Toilettes}
+{31000}{}{Siège de toilette}
 {31001}{}{Ces toilettes sont cassées et vraiment peu recommandables aux femmes.}
 {31100}{}{Détritus}
 {31101}{}{Tuyaux cassés à moitié enterrés dans la terre. Rien d'important à voir ici. Continue.}
@@ -603,7 +603,7 @@
 {31500}{}{Poubelle}
 {31501}{}{Poubelle portant une étiquette presque illisible : Gardez les rues de votre ville propres !}
 {31600}{}{Arbre}
-{31601}{}{C'est un arbre mort.}
+{31601}{}{Voici un arbre mort.}
 {31700}{}{Arbre}
 {31701}{}{Souche. Rien de bien passionnant. En fait, cela doit être la chose la moins passionnante que tu aies jamais vu.}
 {31800}{}{Arbre}
@@ -611,7 +611,7 @@
 {31900}{}{Arbre}
 {32000}{}{Arbre}
 {32100}{}{Arbre}
-{32200}{}{Camion}
+{32200}{}{Paroi de la navette}
 {32300}{}{Camion}
 {32301}{}{Les restes en ruine d'un camion diesel. Ce tas de ferraille ne roulera plus jamais.}
 {32400}{}{Camion}
@@ -628,8 +628,8 @@
 {32901}{}{Ce n'est qu'un urinoir. Rien de spécial.}
 {33000}{}{Urinoir}
 {33001}{}{Ce n'est qu'un urinoir. Rien de spécial.}
-{33100}{}{Réservoir à eau}
-{33101}{}{Grand réservoir à liquides. Dans ce cas, tu penses qu'il a été conçu pour stocker de l'eau.}
+{33100}{}{Citerne d'Eau}
+{33101}{}{Une grande citerne qui contient du liquide. Celle-ci a été prévue pour contenir de l'Eau.}
 {33200}{}{Porte}
 {33201}{}{Porte en bois. Elle n'a rien de très intéressant.}
 {33300}{}{Porte}
@@ -656,7 +656,7 @@
 {34301}{}{Ce panneau est effacé, mais on peut encore y lire les mots CEDER LE PASSAGE.}
 {34400}{}{Case de blocage Auto Inviso}
 {34401}{}{Si tu vois cela, blâme le concepteur technique.}
-{34500}{}{Sol}
+{34500}{}{Plancher}
 {34600}{}{Porte}
 {34601}{}{Porte en bois décoré. C'est vraiment du très beau travail.}
 {34700}{}{Banc d'église}
@@ -695,8 +695,8 @@
 {36301}{}{Superbe bol en bois. On dirait qu'il a été conçu pour écraser et séparer des graines.}
 {36400}{}{Bol}
 {36401}{}{Superbe bol en bois.}
-{36500}{}{Pot}
-{36501}{}{Superbe pot.}
+{36500}{}{Poterie}
+{36501}{}{Une poterie très bien réalisée.}
 {36600}{}{Plante}
 {36601}{}{On dirait un chou ayant subi une mutation. Il semble s'épanouir avec le beau temps.}
 {36700}{}{Plante}
@@ -709,7 +709,7 @@
 {37001}{}{Epi de maïs en pleine mutation. Il semble s'épanouir sous ces conditions.}
 {37100}{}{Plante}
 {37101}{}{Epi de maïs en pleine mutation. Il semble s'épanouir sous ces conditions.}
-{37200}{}{Pot}
+{37200}{}{Poterie}
 {37201}{}{Superbe pot en argile.}
 {37300}{}{Râteau}
 {37301}{}{Ce râteau appartient à son propriétaire. Tu ne peux même pas concevoir de l'utiliser.}
@@ -718,11 +718,11 @@
 {37500}{}{Râteau}
 {37501}{}{Ce râteau appartient à son propriétaire. Tu ne peux même pas concevoir de l'utiliser.}
 {37600}{}{Tapis}
-{37601}{}{Tapis simple. Le tisseur était de toute évidence très doué.}
+{37601}{}{Un tapis simple. Le tisserand était certainement très talentueux.}
 {37700}{}{Tapis}
-{37701}{}{Tapis simple. Le tisseur était de toute évidence très doué.}
+{37701}{}{Un tapis simple. Le tisserand était certainement très talentueux.}
 {37800}{}{Tapis}
-{37801}{}{Tapis simple. Le tisseur était de toute évidence très doué.}
+{37801}{}{Un tapis simple. Le tisserand était certainement très talentueux.}
 {37900}{}{Pelle}
 {37901}{}{Cette pelle appartient à son propriétaire. Tu ne peux même pas concevoir de l'utiliser.}
 {38000}{}{Pelle}
@@ -732,7 +732,7 @@
 {38200}{}{Vase}
 {38201}{}{Très joli vase en argile.}
 {38300}{}{Puits}
-{38301}{}{Le type de puits qu'on trouve dans le désert.}
+{38301}{}{Un puits typique des terres désolées.}
 {38400}{}{Poteau}
 {38401}{}{Ce poteau permet de soutenir la yourte.}
 {38500}{}{Poteau}
@@ -745,10 +745,10 @@
 {38801}{}{Ce poteau permet de soutenir la yourte.}
 {38900}{}{Poteau}
 {38901}{}{Ce poteau permet de soutenir la yourte.}
-{39000}{}{Porte d'abri}
+{39000}{}{Porte de l'Abri}
 {39001}{}{Cette porte d'abri n'est qu'un lourd amas de ferraille.}
 {39100}{}{Mur}
-{39101}{}{Le mécanisme permettant d'ouvrir et de fermer la lourde porte d'abri est endommagé et ne peut pas être réparé.}
+{39101}{}{Le mécanisme d'ouverture de cette grande porte d'Abri a été endommagé et est impossible à réparer.}
 {39200}{}{Entretoise}
 {39201}{}{Cette entretoise permet de soutenir le mur défensif.}
 {39300}{}{Entretoise}
@@ -762,10 +762,10 @@
 {39700}{}{Baril en métal}
 {39701}{}{A en juger par le son, ce baril est probablement vide.}
 {39800}{}{Barils en métal}
-{39801}{}{A en juger par le son, ces barils sont sûrement vides.}
+{39801}{}{A en juger par le son, ces barils sont probablement vides.}
 {39900}{}{Barils en métal}
 {39901}{}{A en juger par le son, ces barils sont probablement vides.}
-{40000}{}{Trou d'aération}
+{40000}{}{Conduit d'aération}
 {40001}{}{Ce système d'aération doit servir à une installation souterraine.}
 {40100}{}{Caisse}
 {40101}{}{Une caisse en bois. Elle n'a pas l'air en trop mauvais état.}
@@ -779,11 +779,11 @@
 {40501}{}{Un simple bureau avec un ordinateur.}
 {40600}{}{Porte}
 {40601}{}{Porte en bois en bon état.}
-{40700}{}{Effondrement}
+{40700}{}{Entassement de rochers}
 {40701}{}{Gros amas de rochers, si gros qu'il est impossible à déplacer.}
 {40800}{}{Voiture}
 {40801}{}{Cette voiture inondée ne peut pas être réparée.}
-{40900}{}{Car}
+{40900}{}{Voiture}
 {40901}{}{Cette voiture est un peu humide et ne peut pas être réparée.}
 {41000}{}{Voiture}
 {41001}{}{Cette voiture est très mal garée et ne peut malheureusement pas être réparée.}
@@ -795,17 +795,17 @@
 {41301}{}{Sélection de vieilleries inutiles.}
 {41400}{}{Tuyaux}
 {41401}{}{Ces tuyaux servaient à transférer le carburant d'un réservoir souterrain vers le garage. Cela fait longtemps qu'ils n'ont pas été utilisés.}
-{41500}{}{Tuyaux}
+{41500}{}{Tuyau}
 {41501}{}{Ces tuyaux servaient à transférer le carburant d'un réservoir souterrain vers le garage. Cela fait longtemps qu'ils n'ont pas été utilisés.}
 {41600}{}{Tuyaux}
 {41601}{}{Ces tuyaux servaient à transférer le carburant d'un réservoir souterrain vers le garage. Cela fait longtemps qu'ils n'ont pas été utilisés.}
-{41700}{}{Cage d'ascenseur}
+{41700}{}{Conduit d'ascenseur}
 {41701}{}{Partie d'un ascenseur.}
 {41800}{}{Cage d'ascenseur}
 {41801}{}{Cage d'ascenseur qui s'étend jusqu'au sol. Elle a été endommagée.}
 {41900}{}{Ascenseur}
 {41901}{}{Ascenseur que tu peux utiliser pour passer d'un étage à l'autre.}
-{42000}{}{Cage d'ascenseur}
+{42000}{}{Conduit d'ascenseur}
 {42001}{}{Cage d'ascenseur qui s'étend jusqu'au sol. Elle a été endommagée.}
 {42100}{}{Porte d'ascenseur}
 {42101}{}{Cette porte mène à la cage d'ascenseur. Si tu veux utiliser l'ascenseur, tu dois d'abord ouvrir cette porte.}
@@ -817,22 +817,22 @@
 {42600}{}{Boîte}
 {42700}{}{Boîte}
 {42800}{}{Rochers}
-{42801}{}{Amas de rochers. Rien de très intéressant.}
+{42801}{}{Un tas de cailloux. Pas très intéressant.}
 {42900}{}{Rochers}
-{42901}{}{Amas de rochers. Rien de très intéressant.}
+{42901}{}{Un tas de cailloux. Pas très intéressant.}
 {43000}{}{Rochers}
-{43001}{}{Petit amas de rochers. Rien de très intéressant pour toi.}
+{43001}{}{Un petit tas de cailloux. Pas du tout intéressant.}
 {43100}{}{Rochers}
-{43101}{}{Très petit amas de rochers.}
+{43101}{}{Un tout petit tas de cailloux.}
 {43200}{}{Rochers}
-{43201}{}{Très petit amas de rochers.}
+{43201}{}{Un tout petit tas de cailloux.}
 {43300}{}{Rochers}
-{43301}{}{Très petit amas de rochers.}
+{43301}{}{Un tout petit tas de cailloux.}
 {43400}{}{Rochers}
-{43401}{}{Très petit amas de rochers.}
+{43401}{}{Un tout petit tas de cailloux.}
 {43500}{}{Rochers}
-{43501}{}{Très petit amas de rochers.}
-{43600}{}{Porte d'abri}
+{43501}{}{Un tout petit tas de cailloux.}
+{43600}{}{Porte de l'Abri}
 {43601}{}{Cette porte d'abri ressemble beaucoup à celle de l'Abri 13. Le mécanisme de la porte à été désactivé.}
 {43700}{}{Porte}
 {43701}{}{Très jolie porte en bois, renforcée par les entretoises en métal décoré d'un motif quasi-hypnotique.}
@@ -859,7 +859,7 @@
 {44801}{}{Porte de sécurité apparemment lourdement blindée.}
 {44900}{}{Ogive nucléaire}
 {45000}{}{Puits}
-{45001}{}{Le type de puits qu'on trouve dans le désert.}
+{45001}{}{Un puits typique des terres désolées.}
 {45100}{}{Table de jeu}
 {45101}{}{Voici une table de jeu.}
 {45200}{}{Table de jeu}
@@ -920,13 +920,13 @@
 {48300}{}{Girouette}
 {48301}{}{Cette simple girouette aide les habitants des terres désolées à étudier le temps.}
 {48400}{}{Autel}
-{48401}{}{Un autel simple en bois peint.}
-{48500}{}{Estrade}
+{48401}{}{Simple autel en bois peint.}
+{48500}{}{Podium}
 {48501}{}{Une estrade ordinaire pour s'exprimer en public.}
 {48600}{}{Autel}
-{48700}{}{Moniteur}
+{48700}{}{Ecran}
 {48701}{}{Grand moniteur, à affichage noir et blanc uniquement. La réception est assez bonne pour se faire à l'intérieur et sans antenne.}
-{48800}{}{Moniteur}
+{48800}{}{Ecran}
 {48801}{}{Grand moniteur noir et blanc. La silhouette revêtue d'une robe récite un dogme religieux à une cadence fiévreuse.}
 {48900}{}{Champ de force}
 {48901}{}{Voici un puissant champ énergétique.}
@@ -972,11 +972,11 @@
 {50901}{}{Voici les décombres d'une partie du toit qui s'est effondré. Ta corde mène à la surface.}
 {51000}{}{Rochers}
 {51001}{}{Un tout petit tas de cailloux.}
-{51100}{}{Etagère à livres}
-{51200}{}{Etagère à livres}
-{51300}{}{Etagère à livres}
-{51400}{}{Etagère à livres}
-{51500}{}{Etagère à livres}
+{51100}{}{Paroi de la navette}
+{51200}{}{Paroi de la navette}
+{51300}{}{Paroi de la navette}
+{51400}{}{Paroi de la navette}
+{51500}{}{Paroi de la navette}
 {51600}{}{Table}
 {51601}{}{Cette grande table semble importante. Des réunions y sont peut-être organisées.}
 {51700}{}{Table}
@@ -1022,20 +1022,20 @@
 {53700}{}{Sac de frappe}
 {53701}{}{Voici un sac de frappe StrongMan(tm).}
 {53800}{}{Stepper}
-{53801}{}{Machine d'exercices.}
+{53801}{}{Un appareil pour faire de l'exercice.}
 {53900}{}{Stepper}
 {54000}{}{Tapis de course}
-{54001}{}{Machine d'exercices.}
+{54001}{}{Un appareil pour faire de l'exercice.}
 {54100}{}{Tapis de course}
-{54101}{}{Machine d'exercices.}
+{54101}{}{Un appareil pour faire de l'exercice.}
 {54200}{}{Banc de musculation}
-{54201}{}{Machine d'exercices.}
+{54201}{}{Un appareil pour faire de l'exercice.}
 {54300}{}{Banc de musculation}
 {54301}{}{Un appareil pour faire de l'exercice.}
 {54400}{}{Planches en bois}
-{54401}{}{Ces planches robustes ont été solidement assemblées.}
+{54401}{}{Ces planches de bois ont été solidement attachées ensemble.}
 {54500}{}{Planches en bois}
-{54501}{}{Ces planches robustes ont été solidement assemblées.}
+{54501}{}{Ces planches de bois ont été solidement attachées ensemble.}
 {54600}{}{Table de roulette}
 {54601}{}{Voici une table de jeu.}
 {54700}{}{Table de roulette}
@@ -1054,7 +1054,7 @@
 {55301}{}{Ordinateur à l'apparence très moderne.}
 {55400}{}{Ordinateur}
 {55401}{}{Ordinateur à l'apparence très moderne.}
-{55500}{}{Réservoir à suspension}
+{55500}{}{Cuve en Suspension}
 {55501}{}{Sorte d'appareil médical expérimental. On dirait qu'il peut contenir un humain, voire plus.}
 {55600}{}{Réservoir à suspension cassé}
 {55601}{}{Appareil cassé et irréparable.}
@@ -1074,7 +1074,7 @@
 {56401}{}{On dirait un câble série.}
 {56500}{}{Câble}
 {56501}{}{On dirait un câble série.}
-{56600}{}{Pancarte}
+{56600}{}{Panneau}
 {56601}{}{On peut lire sur cette pancarte : BAR. Ceci semble assez éloquent.}
 {56700}{}{Poutre}
 {56701}{}{Cette grosse poutre est positionnée au-dessus du trou du cratère.}
@@ -1106,7 +1106,7 @@
 {58001}{}{Belle vue sur l'extérieur de la Cathédrale.}
 {58100}{}{Porte}
 {58101}{}{Porte qui semble être celle d'une cellule.}
-{58200}{}{Pancarte}
+{58200}{}{Panneau}
 {58201}{}{Cette pancarte indique que ce magasin s'appelle Darkwater's.}
 {58300}{}{Echelle}
 {58301}{}{Cette échelle mène à l'obscurité souterraine.}
@@ -1138,11 +1138,11 @@
 {59601}{}{Des informations d'embauche sont agrafées sur le tableau. Il semble très utilisé.}
 {59700}{}{Guérite}
 {59701}{}{Cette guérite de gardien à plus de cent ans et elle est toujours en excellent état.}
-{59800}{}{Pancarte}
-{59801}{}{Cette pancarte indique : Epicerie.}
-{59900}{}{Pancarte}
-{59901}{}{Cette pancarte indique : Epicerie.}
-{60000}{}{Pancarte}
+{59800}{}{Panneau}
+{59801}{}{Le panneau indique : Magasin.}
+{59900}{}{Panneau}
+{59901}{}{Le panneau indique : Magasin.}
+{60000}{}{Panneau}
 {60001}{}{Cette pancarte indique : Marché}
 {60100}{}{Piscine de limon}
 {60101}{}{Cela n'a pas l'air très sain. Il te faudrait une armure avant d'y plonger.}
@@ -1174,11 +1174,11 @@
 {61401}{}{Tu regardes ton reflet dans le miroir un moment.}
 {61500}{}{Evier}
 {61501}{}{Evier en état, beau et propre.}
-{61600}{}{Toilettes}
+{61600}{}{Siège de toilette}
 {61601}{}{Ces toilettes sont très propres et en plus elles fonctionnent.}
 {61700}{}{Urinoir}
 {61701}{}{Cet urinoir est fonctionnel.}
-{61800}{}{Toilettes}
+{61800}{}{Siège de toilette}
 {61801}{}{Si tu aimes les toilettes, celles-ci devraient te plaire.}
 {61900}{}{Evier}
 {61901}{}{Cet évier est en parfait état.}
@@ -1247,9 +1247,9 @@
 {65301}{}{Ce portail est équipé d'une barre qui se lève ou s'abaisse.}
 {65400}{}{Tuyau}
 {65500}{}{Tuyau}
-{65600}{}{Générateur d'énergie}
-{65601}{}{Générateur Wattz ElectroBox. Très répandu comme générateur de secours avant la guerre.}
-{65700}{}{Réservoir}
+{65600}{}{Générateur électrique}
+{65601}{}{Un Générateur Wattz ElectroBox. Un équipement de secours standard d'avant guerre.}
+{65700}{}{Le Char}
 {65701}{}{Grand réservoir à eau. Il semble en bon état, ce qui est une bonne chose.}
 {65800}{}{Cabine de police}
 {65801}{}{Cabine de police britannique datant de 1960.}
@@ -1313,20 +1313,20 @@
 {68801}{}{Importante formation de rochers. Elle n'a rien de naturelle.}
 {68900}{}{Rochers}
 {68901}{}{Importante formation de rochers. Elle n'a rien de naturelle.}
-{69000}{}{Toilettes}
+{69000}{}{Siège de toilette}
 {69001}{}{Toilettes simples, mais fonctionnelles. Il y a quelques feuilles dans le trou pour atténuer l'odeur.}
 {69100}{}{Montagne}
-{69101}{}{Ces parois de montagnes semblent très inaccessibles.}
+{69101}{}{Ces montagnes semblent vraiment inaccessibles}
 {69200}{}{Montagne}
-{69201}{}{Ces parois de montagnes semblent très inaccessibles.}
+{69201}{}{Ces montagnes semblent vraiment inaccessibles}
 {69300}{}{Montagne}
-{69301}{}{Ces parois de montagnes semblent très inaccessibles.}
+{69301}{}{Ces montagnes semblent vraiment inaccessibles}
 {69400}{}{Montagne}
-{69401}{}{Ces parois de montagnes semblent très inaccessibles.}
+{69401}{}{Ces montagnes semblent vraiment inaccessibles}
 {69500}{}{Montagne}
-{69501}{}{Ces parois de montagnes semblent très inaccessibles.}
+{69501}{}{Ces montagnes semblent vraiment inaccessibles}
 {69600}{}{Montagne}
-{69601}{}{Ces parois de montagnes semblent très inaccessibles.}
+{69601}{}{Ces montagnes semblent vraiment inaccessibles}
 {69700}{}{Substance collante}
 {69701}{}{Voici une étrange substance biologique collante et nocive.}
 {69800}{}{Substance collante}
@@ -1465,12 +1465,12 @@
 {76401}{}{Tu ne peux rien lire sur le moniteur à cause de la substance collante présente sur les écrans.}
 {76500}{}{INUTILISE}
 {76600}{}{INUTILISE}
-{76700}{}{Sol}
+{76700}{}{Plancher}
 {76800}{}{Bombe}
 {76801}{}{Voici une bombe nucléaire. Rester ici devient dangereux.}
 {76900}{}{Socle de support}
 {76901}{}{Ce socle abrite la bombe nucléaire qui s'y trouve.}
-{77000}{}{Console d'ordinateur}
+{77000}{}{Console informatique}
 {77001}{}{Voici un ordinateur d'accès nucléaire. Il a l'air très sûr. Il y a une fente réservée à une étrange clé.}
 {77100}{}{Câbles}
 {77101}{}{Ces câbles relient la bombe à l'ordinateur.}
@@ -1514,13 +1514,13 @@
 {79001}{}{Ces moniteurs sont cassés et ne fonctionnent plus.}
 {79100}{}{Moniteurs}
 {79101}{}{Ces moniteurs sont cassés et ne fonctionnent plus.}
-{79200}{}{Trou d'aération}
+{79200}{}{Conduit d'aération}
 {79201}{}{Peu d'air frais sort de ce trou d'aération.}
-{79300}{}{Trou d'aération}
+{79300}{}{Conduit d'aération}
 {79301}{}{Très peu d'air frais sort de ce trou d'aération.}
-{79400}{}{Trou d'aération}
+{79400}{}{Conduit d'aération}
 {79401}{}{Il ne sort jamais d'air frais de ce trou d'aération.}
-{79500}{}{Trou d'aération}
+{79500}{}{Conduit d'aération}
 {79501}{}{Seul un faible filet d'air sort de ce trou d'aération.}
 {79600}{}{Table}
 {79601}{}{Cette table n'a rien d'exceptionnel, à part qu'elle est pratiquement détruite.}
@@ -1534,9 +1534,9 @@
 {80001}{}{Les écrans de cette banque de moniteurs ont été détruits.}
 {80100}{}{Moniteurs}
 {80101}{}{Les écrans de cette banque de moniteurs ont été endommagés et sont irréparables.}
-{80200}{}{Moniteur}
+{80200}{}{Ecran}
 {80201}{}{L'écran du moniteur est fêlé et détruit.}
-{80300}{}{Moniteur}
+{80300}{}{Ecran}
 {80301}{}{Ce moniteur ne sert à rien avec son écran cassé.}
 {80400}{}{Ordinateur}
 {80401}{}{Cet ordinateur est cassé.}
@@ -1552,27 +1552,27 @@
 {80901}{}{Cette chaise ne vaut plus rien.}
 {81000}{}{Chaise}
 {81001}{}{Cette chaise ne vaut plus rien.}
-{81100}{}{Trou d'aération}
+{81100}{}{Conduit d'aération}
 {81101}{}{Ce trou d'aération a été endommagé et est irréparable.}
-{81200}{}{Trou d'aération}
+{81200}{}{Conduit d'aération}
 {81201}{}{Ce trou d'aération est très endommagé et ne peut pas être réparé.}
-{81300}{}{Trou d'aération}
+{81300}{}{Conduit d'aération}
 {81301}{}{Ce trou d'aération ne fonctionne pas du tout.}
 {81400}{}{Ordinateur}
 {81401}{}{Cet ordinateur ne semble pas fonctionner.}
 {81500}{}{Ordinateur}
 {81501}{}{Cet ordinateur ne semble pas fonctionner.}
-{81600}{}{Moniteur}
+{81600}{}{Ecran}
 {81601}{}{Le moniteur fonctionne à peine.}
-{81700}{}{Moniteur}
+{81700}{}{Ecran}
 {81701}{}{Le moniteur fonctionne à peine.}
 {81800}{}{Ordinateur}
 {81801}{}{L'ordinateur ne fonctionne pas.}
 {81900}{}{Ordinateur}
 {81901}{}{L'ordinateur ne fonctionne pas.}
-{82000}{}{Moniteur}
+{82000}{}{Ecran}
 {82001}{}{Le moniteur ne fonctionne pas.}
-{82100}{}{Moniteur}
+{82100}{}{Ecran}
 {82101}{}{Le moniteur ne fonctionne pas.}
 {82200}{}{Embrasure de porte}
 {82201}{}{On dirait un très joli encadrement de porte. Il soutient parfaitement bien la porte.}
@@ -1583,9 +1583,9 @@
 {82500}{}{Mur}
 {82600}{}{Porte de banque}
 {82601}{}{Porte d'abri de banque très solide. Elle a l'air sûre.}
-{82700}{}{Voyant de sécurité}
+{82700}{}{Faible}
 {82701}{}{Un voyant de sécurité.}
-{82800}{}{Voyant de sécurité}
+{82800}{}{Faible}
 {82801}{}{Un voyant de sécurité.}
 {82900}{}{Pilier}
 {82901}{}{Ce pilier trône sur la place des Sables Ombragés. Il raconte aux gens des histoires d'espoir et de paix.}
@@ -1620,13 +1620,13 @@
 {84901}{}{Porte en bois absolument normale.}
 {85000}{}{Porte}
 {85001}{}{Porte en bois absolument normale.}
-{85100}{}{Pancarte}
+{85100}{}{Panneau}
 {85101}{}{Cette pancarte porte la mention des Amis Prêteurs.}
 {85200}{}{Emblème}
 {85201}{}{C'est probablement un emblème religieux.}
 {85300}{}{Table médicale}
 {85301}{}{On dirait une table d'examen médical.}
-{85400}{}{Enseigne}
+{85400}{}{Panneau}
 {85401}{}{Ce néon signale le Faucon Maltais}
 {85500}{}{Graffiti}
 {85600}{}{Graffiti}
@@ -1642,23 +1642,23 @@
 {86600}{}{Graffiti}
 {86700}{}{Graffiti}
 {86800}{}{Graffiti}
-{86900}{}{Pancarte}
+{86900}{}{Panneau}
 {86901}{}{On peut y lire : ARMES. On doit y vendre des armes.}
-{87000}{}{Pancarte}
+{87000}{}{Panneau}
 {87001}{}{On peut y lire : Police.}
-{87100}{}{Pancarte}
+{87100}{}{Panneau}
 {87101}{}{C'est l'enseigne des Marchands du Lointain.}
-{87200}{}{Pancarte}
+{87200}{}{Panneau}
 {87201}{}{On peut y lire : Contrebandiers.}
-{87300}{}{Pancarte}
+{87300}{}{Panneau}
 {87301}{}{Voici l'enseigne de la compagnie commerciale de la Caravane Ecarlate.}
-{87400}{}{Pancarte}
+{87400}{}{Panneau}
 {87401}{}{On peut y lire : Hôpital. Cela doit être une bonne chose.}
-{87500}{}{Pancarte}
+{87500}{}{Panneau}
 {87501}{}{Voici l'enseigne de la Pieuterie.}
-{87600}{}{Pancarte}
+{87600}{}{Panneau}
 {87601}{}{Cette enseigne étrange indique : Chez Bob, le Marché de l'Occasion.}
-{87700}{}{Pancarte}
+{87700}{}{Panneau}
 {87701}{}{C'est l'enseigne des Marchands d'Eau, une compagnie commerciale du Centre.}
 {87800}{}{Coquille d'oeuf}
 {87801}{}{Morceaux d'une coquille d'oeuf brisée.}
@@ -1678,26 +1678,26 @@
 {88501}{}{Morceaux d'une coquille d'oeuf brisée.}
 {88600}{}{Réverbère}
 {88601}{}{Réverbère qui semble en bon état.}
-{88700}{}{Pancarte}
+{88700}{}{Panneau}
 {88701}{}{On peut y lire : Motel.}
 {88800}{}{Champignons}
 {88801}{}{Cette table à planter est recouverte de fumier et des champignons y poussent joyeusement.}
 {88900}{}{Champignons}
 {88901}{}{Cette table à planter est recouverte de fumier et des champignons y poussent joyeusement.}
 {89000}{}{Squelette}
-{89100}{}{Pancarte}
+{89100}{}{Panneau}
 {89101}{}{On peut y lire : Prison.}
-{89200}{}{Pancarte}
+{89200}{}{Panneau}
 {89201}{}{C'est l'enseigne du bar Skum Pitt et de la maison de fous.}
-{89300}{}{Pancarte}
+{89300}{}{Panneau}
 {89301}{}{Publicité pour les lames de rasoir Ecorcheurs.}
 {89400}{}{Douche}
 {89401}{}{Cabine de douche tout à fait normale.}
 {89500}{}{Douche}
 {89501}{}{Cabine de douche tout à fait normale.}
-{89600}{}{Pancarte}
+{89600}{}{Panneau}
 {89601}{}{Voici l'enseigne des Amis Prêteurs.}
-{89700}{}{Pancarte}
+{89700}{}{Panneau}
 {89701}{}{Voici l'enseigne des Amis Prêteurs.}
 {89800}{}{Affiche}
 {89801}{}{Voici l'affiche d'un film d'horreur des années d'avant-guerre.}
@@ -1705,10 +1705,10 @@
 {89901}{}{Voici l'affiche d'un film d'horreur des années d'avant-guerre.}
 {90000}{}{Bar}
 {90001}{}{Il y a une urne sur ce bar. Elle est un peu abîmée mais semble malgré tout de valeur.}
-{90100}{}{Cage d'ascenseur}
+{90100}{}{Conduit d'ascenseur}
 {90101}{}{Une corde pend de la cage.}
-{90200}{}{Cage d'ascenseur}
-{90201}{}{Une corde pend sur le côté de la cage.}
+{90200}{}{Conduit d'ascenseur}
+{90201}{}{Il y a une corde qui pend sur le cote.}
 {90300}{}{Lit médical}
 {90301}{}{Ce lit est équipé d'un écran intégré pour surveiller l'état des patients.}
 {90400}{}{Pompe à eau}
@@ -1717,9 +1717,9 @@
 {90501}{}{Ce lit est équipé d'un écran intégré pour surveiller l'état des patients.}
 {90600}{}{Pièces de SuperArmure}
 {90601}{}{Pièces appartenant à une SuperArmure.}
-{90700}{}{Voyant de sécurité}
+{90700}{}{Faible}
 {90701}{}{Ce voyant de sécurité propage une lumière rouge vif.}
-{90800}{}{Voyant de sécurité}
+{90800}{}{Faible}
 {90801}{}{Ce voyant de sécurité propage une lumière rouge vif.}
 {90900}{}{Symbole}
 {91000}{}{Symbole}
@@ -1823,7 +1823,7 @@
 {98600}{}{Substance collante radioactive}
 {98700}{}{Substance collante radioactive}
 {98800}{}{Substance collante radioactive}
-{98900}{}{Porte de sécurité}
+{98900}{}{Portes de sécurité}
 {99000}{}{Porte de l'Abri}
 {99100}{}{Grue}
 {99200}{}{Grue}
@@ -1874,17 +1874,17 @@
 {101800}{}{Charrue}
 {101801}{}{Cette charrue a été conçue pour être tirée par une Brahmine.}
 {101900}{}{Eau}
-{102000}{}{Enseigne}
+{102000}{}{Panneau}
 {102001}{}{La pancarte à l'entrée de New Reno.}
-{102100}{}{Enseigne}
+{102100}{}{Panneau}
 {102101}{}{La pancarte à l'entrée de New Reno.}
-{102200}{}{Enseigne}
+{102200}{}{Panneau}
 {102201}{}{La pancarte à l'entrée de New Reno.}
-{102300}{}{Enseigne}
+{102300}{}{Panneau}
 {102301}{}{La pancarte à l'entrée de New Reno.}
-{102400}{}{Enseigne}
+{102400}{}{Panneau}
 {102401}{}{La pancarte à l'entrée de New Reno.}
-{102500}{}{Enseigne}
+{102500}{}{Panneau}
 {102501}{}{La pancarte à l'entrée de New Reno.}
 {102600}{}{Ombre}
 {102700}{}{Ombre}
@@ -1920,7 +1920,7 @@
 {105700}{}{Graffiti}
 {105800}{}{Graffiti}
 {105900}{}{Graffiti}
-{106000}{}{Enseigne}
+{106000}{}{Panneau}
 {106100}{}{Graffiti}
 {106200}{}{Graffiti}
 {106300}{}{Graffiti}
@@ -1970,14 +1970,14 @@
 {110700}{}{Graffiti}
 {110800}{}{Graffiti}
 {110900}{}{Graffiti}
-{111000}{}{Enseigne}
-{111100}{}{Enseigne}
-{111200}{}{Enseigne}
-{111300}{}{Enseigne}
-{111400}{}{Enseigne}
-{111500}{}{Enseigne}
-{111600}{}{Enseigne}
-{111700}{}{Enseigne}
+{111000}{}{Panneau}
+{111100}{}{Panneau}
+{111200}{}{Panneau}
+{111300}{}{Panneau}
+{111400}{}{Panneau}
+{111500}{}{Panneau}
+{111600}{}{Panneau}
+{111700}{}{Panneau}
 {111800}{}{Papier-peint}
 {111900}{}{Papier-peint}
 {112000}{}{Papier-peint}
@@ -2034,20 +2034,20 @@
 {116801}{}{Une machine hors service.}
 {116900}{}{Porte}
 {117000}{}{Porte}
-{117100}{}{Tuyaux}
+{117100}{}{Tuyaux rouillés}
 {117101}{}{Un ensemble de tuyaux s'enfonçant dans le réacteur.}
-{117200}{}{Réservoir}
-{117300}{}{Réservoirs}
-{117400}{}{Réservoirs}
-{117500}{}{Réservoirs}
-{117600}{}{Trou d'aération}
-{117700}{}{Trou d'aération}
+{117200}{}{Le Char}
+{117300}{}{Merchi.}
+{117400}{}{Merchi.}
+{117500}{}{Merchi.}
+{117600}{}{Conduit d'aération}
+{117700}{}{Conduit d'aération}
 {117800}{}{Enseigne de la Harpe}
 {117900}{}{Chevalet de sciage}
 {118000}{}{Chevalet de sciage}
 {118100}{}{Chevalet de sciage}
-{118200}{}{Trou d'aération}
-{118300}{}{Trou d'aération}
+{118200}{}{Conduit d'aération}
+{118300}{}{Conduit d'aération}
 {118400}{}{Pancarte : Atelier des machines}
 {118500}{}{Pancarte : Bureau du directeur}
 {118600}{}{Pancarte : Réserve}
@@ -2055,7 +2055,7 @@
 {118800}{}{Vapeur}
 {118900}{}{Machine}
 {118901}{}{Une pièce détachée pour la centrale.}
-{119000}{}{Réservoir}
+{119000}{}{Le Char}
 {119100}{}{Feu}
 {119200}{}{Eau}
 {119300}{}{Pancarte de Trapper Town}
@@ -2112,10 +2112,10 @@
 {123001}{}{Un corps cybernétique auquel manquent plusieurs pièces.}
 {123100}{}{Obusier}
 {123101}{}{Ce drôle de canon doit dater d'avant la guerre. C'est à se demander comment il a atterri ici.}
-{123200}{}{Enseigne}
-{123300}{}{Enseigne}
-{123400}{}{Enseigne}
-{123500}{}{Enseigne}
+{123200}{}{Panneau}
+{123300}{}{Panneau}
+{123400}{}{Panneau}
+{123500}{}{Panneau}
 {123600}{}{Commutateur}
 {123700}{}{Croix}
 {123800}{}{Croix}
@@ -2281,7 +2281,7 @@
 {138300}{}{Mur}
 {138400}{}{Mur}
 {138500}{}{Mur}
-{138600}{}{Lumière}
+{138600}{}{Faible}
 {138700}{}{Porte}
 {138800}{}{Porte}
 {138900}{}{Porte}
@@ -2304,7 +2304,7 @@
 {140600}{}{Bannière}
 {140700}{}{Pancarte : Cat's Paw}
 {140800}{}{Pancarte : Cat's Paw}
-{140900}{}{Enseigne}
+{140900}{}{Panneau}
 {141000}{}{Pancarte : Jungle Gym}
 {141100}{}{Pancarte : Jungle Gym}
 {141200}{}{Pancarte : Jungle Gym}
@@ -2312,8 +2312,8 @@
 {141400}{}{Enseigne de l'armurerie de New Reno}
 {141500}{}{Enseigne du Bar de Salvatore}
 {141600}{}{Statue}
-{141700}{}{Porte de l'entrepôt}
-{141800}{}{Porte de l'entrepôt}
+{141700}{}{Porte de Hangar}
+{141800}{}{Porte de Hangar}
 {141900}{}{Enseigne Doc Johnson}
 {142000}{}{Pancarte : Shérif}
 {142100}{}{Enseigne du Malamute Saloon}
@@ -2414,8 +2414,8 @@
 {151300}{}{Mur}
 {151400}{}{Mur}
 {151500}{}{Mur}
-{151600}{}{Lambris}
-{151700}{}{Lambris}
+{151600}{}{Panneau en bois}
+{151700}{}{Panneau en bois}
 {151800}{}{Tuyau}
 {151900}{}{Tuyau}
 {152000}{}{Tuyau}
@@ -2427,8 +2427,8 @@
 {152600}{}{Tuyau}
 {152700}{}{Tuyau}
 {152800}{}{Tuyau}
-{152900}{}{Trou d'aération}
-{153000}{}{Trou d'aération}
+{152900}{}{Conduit d'aération}
+{153000}{}{Conduit d'aération}
 {153100}{}{Porte}
 {153200}{}{Porte}
 {153300}{}{Porte}
@@ -2476,8 +2476,8 @@
 {157400}{}{Porte}
 {157500}{}{Porte}
 {157600}{}{Porte}
-{157700}{}{Trou d'aération}
-{157800}{}{Autodoc}
+{157700}{}{Conduit d'aération}
+{157800}{}{Auto-Doc}
 {157801}{}{Cet Autodoc est conçu pour soigner les maladies et administrer des remèdes.}
 {157900}{}{Statue}
 {157901}{}{Une petite statue du fameux Habitant de l'Abri.}
@@ -2490,21 +2490,21 @@
 {158301}{}{Un champ de force te barre la route}
 {158400}{}{Champ de force}
 {158401}{}{Un champ de force te barre la route}
-{158500}{}{Pétrolier}
-{158600}{}{Pétrolier}
-{158700}{}{Pétrolier}
-{158800}{}{Pétrolier}
-{158900}{}{Pétrolier}
-{159000}{}{Pétrolier}
-{159100}{}{Pétrolier}
-{159200}{}{Pétrolier}
-{159300}{}{Pétrolier}
-{159400}{}{Pétrolier}
-{159500}{}{Pétrolier}
-{159600}{}{Pétrolier}
-{159700}{}{Pétrolier}
-{159800}{}{Pétrolier}
-{159900}{}{Pétrolier}
+{158500}{}{Tanker}
+{158600}{}{Tanker}
+{158700}{}{Tanker}
+{158800}{}{Tanker}
+{158900}{}{Tanker}
+{159000}{}{Tanker}
+{159100}{}{Tanker}
+{159200}{}{Tanker}
+{159300}{}{Tanker}
+{159400}{}{Tanker}
+{159500}{}{Tanker}
+{159600}{}{Tanker}
+{159700}{}{Tanker}
+{159800}{}{Tanker}
+{159900}{}{Tanker}
 {160000}{}{Mur}
 {160100}{}{Mur}
 {160200}{}{Creux dans le sol}
@@ -2524,7 +2524,7 @@
 {161600}{}{Ombre du port}
 {161700}{}{Ombre du port}
 {161800}{}{Ombre du port}
-{161900}{}{Escaliers}
+{161900}{}{Marches d'escalier}
 {162000}{}{Cyberchien désactivé}
 {162001}{}{Tu vois un Cyberchien désactivé.}
 {162100}{}{Générateur détruit}
@@ -2604,12 +2604,12 @@
 {169400}{}{Ombre}
 {169500}{}{Ombre}
 {169600}{}{Ombre}
-{169700}{}{Hélico crashé}
-{169800}{}{Hélico crashé}
-{169900}{}{Hélico crashé}
-{170000}{}{Hélico crashé}
-{170100}{}{Hélico crashé}
-{170200}{}{Hélico crashé}
+{169700}{}{Strange machine, crashed}
+{169800}{}{Strange machine, crashed}
+{169900}{}{Strange machine, crashed}
+{170000}{}{Strange machine, crashed}
+{170100}{}{Strange machine, crashed}
+{170200}{}{Strange machine, crashed}
 {170300}{}{Ombre}
 {170400}{}{Ombre}
 {170500}{}{Ombre}
@@ -2628,8 +2628,8 @@
 {171600}{}{Mur}
 {171700}{}{Mur}
 {171800}{}{Mur}
-{171900}{}{Trou d'aération}
-{172000}{}{Trou d'aération}
+{171900}{}{Conduit d'aération}
+{172000}{}{Conduit d'aération}
 {172100}{}{Verre blindé}
 {172200}{}{Verre blindé}
 {172300}{}{Verre blindé}
@@ -2662,7 +2662,7 @@
 {174800}{}{Porte du bureau du Président}
 {174900}{}{Schéma de l'oeil}
 {175000}{}{Ruines}
-{175100}{}{Gardien de Pour Toujours}
+{175100}{}{Gardien de L'Eternité}
 {175200}{}{Pancarte « En Dérangement »}
 {175300}{}{Sol effondré}
 {175400}{}{Siège de toilette}
@@ -2756,13 +2756,13 @@
 {183200}{}{Choses diverses}
 {183300}{}{Choses diverses}
 {183400}{}{Fauteuil du Président}
-{183500}{}{Escaliers}
+{183500}{}{Marches d'escalier}
 {183600}{}{Carte du monde}
 {183700}{}{Carte tactique}
-{183800}{}{Table de la salle de guerre}
+{183800}{}{Table tactique}
 {183900}{}{Table de la salle du conseil}
 {184000}{}{Table de la salle du conseil}
-{184100}{}{Table de la salle de guerre}
+{184100}{}{Table tactique}
 {184200}{}{Arbre}
 {184300}{}{Arbre}
 {184400}{}{Rampe}
@@ -2791,16 +2791,16 @@
 {186400}{}{Sol Fertile}
 {186500}{}{Sol Fertile}
 {186600}{}{Trône}
-{186601}{}{Un trône pour un chef ou un commandant}
+{186601}{}{}
 {186700}{}{Trône}
 {186701}{}{Un trône pour un chef ou un commandant}
 {186800}{}{Ventilation}
 {186801}{}{Un conduit d'aération circulaire vers un laboratoire souterrain}
 {186900}{}{Corde}
 {186901}{}{Une corde menant à un conduit d'aération}
-{187000}{}{Dispositif d'aération}
+{187000}{}{Conduit d'aération}
 {187001}{}{Un objet utilisé pour filtrer l'air du sous-sol}
-{187100}{}{Purificateur}
+{187100}{}{Conduit d'aération}
 {187101}{}{Un dispositif permettant de purifier l'air}
 {187200}{}{Panneau Brahmine}
 {187201}{}{Une pancarte indiquant des instructions}
@@ -2857,8 +2857,8 @@
 {189801}{}{Votre projecteur d'hologramme HD 2000 basique.}
 {189900}{}{Un projecteur d'hologramme}
 {189901}{}{Votre projecteur d'hologramme HD 2000 basique.}
-{190000}{}{Un projecteur d'hologramme}
-{190001}{}{Votre projecteur d'hologramme HD 2000 basique.}
+{190000}{}{Ombre}
+{190001}{}{}
 {190100}{}{Hélico}
 {190200}{}{Un Réfrigérateur Cryogénique}
 {190201}{}{Un réfrigérateur qui peut conserver une vie humaine. Celui-ci est ouvert.}
@@ -2898,7 +2898,7 @@
 {192100}{}{Os}
 {192101}{}{Ah ces humains !}
 {192200}{}{Os}
-{192201}{}{Restes humains éparpillés.}
+{192201}{}{Os humains éparpillés.}
 {192300}{}{Os}
 {192400}{}{Os}
 {192500}{}{Os}
@@ -2910,9 +2910,9 @@
 {192800}{}{Os}
 {192900}{}{Plaque de Béton}
 {193000}{}{Plaque de Béton}
-{193100}{}{Porte de sécurité}
-{193101}{}{Cette porte a l'air très bien sécurisée.}
-{193200}{}{Porte de sécurité}
+{193100}{}{Portes de sécurité}
+{193101}{}{Cette porte semble être très sécurisée.}
+{193200}{}{Portes de sécurité}
 {193201}{}{Cette porte rouillée a quand même l'air très bien sécurisée.}
 {193300}{}{Conduit d'ascenseur}
 {193400}{}{Conduit d'ascenseur}
@@ -2944,7 +2944,7 @@
 {194700}{}{Ecran}
 {194701}{}{Un grand écran, en noir et blanc. Celui-là présente un homme digne mais d'apparence simple.}
 {194800}{}{Ecran}
-{194801}{}{Un grand écran, en noir et blanc. L'image est celle d'une croix qui tourne et d'un cercle.}
+{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Ombre}
@@ -2993,7 +2993,7 @@
 {197700}{}{Conduit d'aération}
 {197800}{}{Puits}
 {197801}{}{Un puits typique des terres désolées.}
-{197900}{}{Marches}
+{197900}{}{Marches d'escalier}
 {197901}{}{Des marches d'escalier plutôt larges.}
 {198000}{}{Marches rouillées}
 {198001}{}{Ces marches d'escalier se rouillent lentement.}
@@ -3039,8 +3039,8 @@
 {200600}{}{Ombre}
 {200700}{}{Table tactique}
 {200800}{}{Table tactique}
-{200900}{}{Porte de Sécurité}
-{200901}{}{Cette porte semble vraiment sécurisée.}
+{200900}{}{Portes de sécurité}
+{200901}{}{Cette porte semble être très sécurisée.}
 {201000}{}{Panneau EPA}
 {201100}{}{Panneau EPA}
 {201200}{}{Plaque de l'EPA}
@@ -3090,9 +3090,9 @@
 {204600}{}{}
 {204601}{}{}
 {204700}{}{Tapis}
-{204701}{}{Un vieux tapis de sol tressé.}
+{204701}{}{Un ancien tapis de sol tressé.}
 {204800}{}{Tapis}
-{204801}{}{Un vieux tapis de sol tressé.}
+{204801}{}{Un ancien tapis de sol tressé.}
 {204900}{}{Poterie}
 {204901}{}{Une poterie très bien réalisée.}
 {205000}{}{Poterie}
@@ -3136,11 +3136,11 @@
 {207100}{}{Eau de Cale sale}
 {207200}{}{Cuve en Fer}
 {207201}{}{Une immense cuve en fer qui contient un étrange liquide vert.}
-{207300}{}{Porte de Sécurité}
+{207300}{}{Portes de sécurité}
 {207301}{}{Cette porte semble être très sécurisée.}
-{207400}{}{Tapis de sol usé}
+{207400}{}{Tapis}
 {207401}{}{Un ancien tapis de sol tressé.}
-{207500}{}{Tapis de sol usé}
+{207500}{}{Tapis}
 {207501}{}{Un ancien tapis de sol tressé.}
 {207600}{}{Tableau de la RNC}
 {207601}{}{Un tableau de la bannière de la RNC.}
@@ -3149,7 +3149,7 @@
 {207800}{}{Tableau de la RNC}
 {207801}{}{Un tableau de la bannière de la RNC.}
 {207900}{}{Montagne}
-{207901}{}{Ces montagnes semblent vraiment inaccessibles.}
+{207901}{}{Ces montagnes semblent vraiment inaccessibles}
 {208000}{}{Montagne}
 {208001}{}{Ces montagnes semblent vraiment inaccessibles}
 {208100}{}{Tableau}
@@ -3177,20 +3177,20 @@
 {210101}{}{Cette porte d'abri est encastrée dans la roche de la montagne. Apparemment elle a survécu à la déflagration d'une bombe atomique.}
 {210200}{}{Porte extérieure de l'Abri}
 {210201}{}{Cette grande porte est le seul lien entre l'Abri est le monde extérieur. Elle a été défoncée par une énorme explosion.}
-{210300}{}{Entrée de la cave}
+{210300}{}{Entrée de la grotte}
 {210301}{}{Cette cave s'ouvre sur un plus large réseau de caves.}
 {210400}{}{Ordinateur de la Porte d'Entrée}
 {210401}{}{Cet ordinateur contrôle la porte de l'Abri. VOus devez entrer un code spécifique pour que ça fonctionne.}
-{210500}{}{Bateau Rouillé}
-{210501}{}{Ce bateau semble à peine en état de naviguer.}
-{210600}{}{Bateau Rouillé}
-{210601}{}{Ce bateau semble à peine en état de naviguer.}
+{210500}{}{Rusting Boat}
+{210501}{}{This boat looks barely seaworthy.}
+{210600}{}{Rusting Boat}
+{210601}{}{This boat looks barely seaworthy.}
 {210700}{}{Poteau d'amarrage}
-{210701}{}{Une corde relie le poteau d'amarrage au bateau.}
+{210701}{}{Une corde relie le poteau d'amarrage au bateau}
 {210800}{}{Poteau d'amarrage}
 {210801}{}{Une corde relie le poteau d'amarrage au bateau}
-{210900}{}{Ecoutille rouillée de Sous-marin}
-{210901}{}{Avec un petit effort, cet écoutille pourrait encore être ouverte.}
+{210900}{}{Ecoutille rouillée du Sous-marin}
+{210901}{}{Avec un petit effort cette écoutille peut encore être ouverte.}
 {211000}{}{Tour rouillée de sous-marin}
 {211001}{}{Les ravages du temps et du sel consument lentement cette épave rouillée.}
 {211100}{}{Tour rouillée de sous-marin}
@@ -3199,8 +3199,8 @@
 {211201}{}{Le sel de l'eau de mer dissout lentement cet escalier de métal.}
 {211300}{}{Tour rouillée de sous-marin}
 {211301}{}{Les ravages du temps et du sel consument lentement cette épave rouillée.}
-{211400}{}{Bateau Rouillé}
-{211401}{}{Ce bateau semble à peine en état de naviguer.}
+{211400}{}{Rusting Boat}
+{211401}{}{This boat looks barely seaworthy.}
 {211500}{}{Océan maussade}
 {211600}{}{Epave rouillée}
 {211601}{}{La carcasse rouillée du sous-marin est submergée sous les eaux glauques de cet océan.}
@@ -3293,7 +3293,7 @@
 {219101}{}{Un jeu de marches d'escalier en bois.}
 {219200}{}{Marches d'escalier}
 {219201}{}{Un jeu de marches d'escalier en bois.}
-{219300}{}{Escalier}
+{219300}{}{Echelle}
 {219400}{}{Ecoutille rouillée du Sous-marin}
 {219500}{}{Ecoutille rouillée du Sous-marin}
 {219501}{}{Avec un petit effort cette écoutille peut encore être ouverte.}
@@ -3303,7 +3303,6 @@
 {219801}{}{Un portrait de fugitif recherché par les autorités locales.}
 {219900}{}{Ventilateur}
 {220000}{}{Ventilateur bloqué}
-{220100}{}{Rails en acier rouillés}
 {220100}{}{Rusty Steel Rail}
 {220200}{}{Panneau}
 {220201}{}{Le panneau indique : Magasin.}
@@ -3365,13 +3364,13 @@
 {223800}{}{Rochers rayonnants}
 {223801}{}{Un amas de rochers rayonnants. Pas très intéressant.}
 {223900}{}{Coquille d'oeuf rayonnante}
-{223901}{}{Morceaux d'une coquille d'oeuf brisée. Ils brillent !}
+{223901}{}{Morceaux d'une coquille d'oeuf brisée.. Ils brillent !}
 {224000}{}{Coquille d'oeuf rayonnante}
-{224001}{}{Morceaux d'une coquille d'oeuf brisée. Ils brillent !}
+{224001}{}{Morceaux d'une coquille d'oeuf brisée.. Ils brillent !}
 {224100}{}{Coquille d'oeuf rayonnante}
-{224101}{}{Morceaux d'une coquille d'oeuf brisée. Ils brillent !}
+{224101}{}{Morceaux d'une coquille d'oeuf brisée.. Ils brillent !}
 {224200}{}{Coquille d'oeuf rayonnante}
-{224201}{}{Morceaux d'une coquille d'oeuf brisée. Ils brillent !}
+{224201}{}{Morceaux d'une coquille d'oeuf brisée.. Ils brillent !}
 {224300}{}{Petit cailloux rayonnants}
 {224301}{}{De petits cailloux dispersés et rayonnants.}
 {224400}{}{Petit cailloux rayonnants}

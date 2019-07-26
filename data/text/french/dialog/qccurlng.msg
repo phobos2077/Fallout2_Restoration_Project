@@ -94,7 +94,7 @@
 {193}{}{D'accord, j'y vais. L'un de nous n'a pas d'avenir et je n'ai pas l'impression que ce soit moi. Adieu.}
 {194}{}{Les études toxicologiques sur l'efficacité du FEV, oui.}
 {195}{}{Le FEV ? Qu'est-ce que c'est ?}
-{196}{}{J'ai une autre question à te poser.}
+{196}{}{J'ai encore une question.}
 {197}{}{Le FEV. C'est la solution idéale pour ce problème difficile.}
 {198}{}{Qu'est-ce que c'est que le FEV ?}
 {199}{}{Attends un peu. J'ai une autre question à te poser.}
@@ -129,7 +129,7 @@
 {228}{}{C'est dur à admettre mais tu as peut-être raison. Ce que nous avons planifié n'est pas moral. J'étais tellement absorbé par l'aspect technique de ma quête que je n'ai pas eu le temps de réfléchir à l'aspect moral.}
 {229}{}{Bon maintenant que tu as réfléchi, tu vas détruire la toxine.}
 {230}{}{Peut-être... Non, ça ne marcherait pas.}
-{231}{}{Et pourquoi pas ?}
+{231}{}{Pourquoi ça ?}
 {232}{}{Parce qu'ils recommenceraient. Même si je meurs, il y a suffisamment de données ici et à Navarro pour dupliquer mon travail. Il faut quelque chose de bien plus radical.}
 {233}{}{Plus radical ? Explique-toi !}
 {234}{}{L'Enclave doit être détruite. Complètement. Sinon, on ramassera les morceaux et on reconstituera le puzzle ailleurs.}
@@ -148,12 +148,12 @@
 {247}{}{Hors de l'herbe humide, lève-toi !}
 {248}{}{La nuit s'épuise,}
 {249}{}{Et le matin surgit De la masse ensommeillée.}
-{250}{}{Hein ?}
+{250}{}{Heinh ?}
 {251}{}{Oh, juste quelques vers d'un poète mort il y a longtemps. Je me demandais s'il y avait toujours une place au paradis pour ceux qui ont travaillé à des fins si terribles pendant si longtemps. Notre ère est finie, la vôtre commence. Pars !}
 {252}{}{Oh, d'accord, merci de ton aide docteur. Tu es un homme courageux.}
 {253}{}{Tu es dingue mais un dingue utile. Adieu.}
 {254}{}{Continue !}
-{255}{}{Sors de là.}
+{255}{}{Hors d'ici !}
 {256}{}{Dépêche-toi !}
 {257}{}{On n'a pas de temps pour ça !}
 {258}{}{Vas-y, pendant qu'il est encore temps !}

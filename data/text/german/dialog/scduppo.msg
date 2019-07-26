@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen rotgesichtigen, freundlich dreinblickenden Mann.}
-{101}{}{Das ist Duppo, der Leiter des Viehzüchter-Verbandes.}
+{101}{}{It's Duppo. He runs the Stockman's Association.}
 {102}{}{Er ist korpulent, hat ein ständig rot angelaufenes Gesicht und dünnes blondes Haar auf dem Kopf. Beim Gehen hinkt er ein wenig.}
 {103}{}{Grüß dich, Fremder. Hab dich hier noch nie gesehen, du bist offenbar kein Rancher. Suchst du Arbeit, oder bist du hier um was zu kaufen?}
 {104}{}{Was darf's denn sein, Fremder?}
@@ -14,7 +14,7 @@
 {113}{}{Klingt, als wärst du brauchbar. Wir suchen Wachleute für den Brahmin-Trieb nach Redding. Es gibt 2000 Dollar Lohn. Verluste an Inventar bis zur Ankunft gehen davon ab. Wenn du interessiert bist, dann komm morgen ans Tor von Westins Ranch. Wenn du nicht aufkreuzt, wird's nichts mit dem Job, klar?}
 {114}{}{Ich kommen.}
 {115}{}{Nix wollen. Ich nix tun.}
-{116}{}{Hört sich gut an.}
+{116}{}{Klingt gut.}
 {117}{}{Nein, ich will nicht nach Redding.}
 {118}{}{Dann gibt's hier auch keine Arbeit für dich. Auf dem Land herrschen rauhe Sitten. Für Weicheier ist hier kein Platz, Fremdling. }
 {119}{}{Noch irgendwas?}
@@ -25,13 +25,12 @@
 {124}{}{Ich suche Roger Westin. Schon mal was von ihm gehört?}
 {125}{}{Wo finde ich Frank Carlson?}
 {126}{}{Carl-son?}
-{127}{}{Wiedersehen.}
+{127}{}{Wiedersehn.}
 {128}{}{Du meinst Roger Westin? Im Westen der Stadt.}
 {129}{}{Einer von den Viehbesitzern hier. Im Westen der Stadt. Ich glaube nicht, daß auf seiner Ranch derzeit Leute gebraucht werden, falls du's auf einen Job abgesehen haben solltest.}
 {130}{}{Er ist der Vizepräsident. Das ist auch so ziemlich alles, was ich weiß. Verbringt seine Zeit in der Präsidentenvilla. Kommt fast nie raus, besonders seit es hier so hoch hergeht.}
 {131}{}{Carlson. Großer Chef. Wohnt in großem Haus. Das ist alles.}
 {132}{}{Tut mir leid - die Viehtriebe sind schon vorbei. Komm in paar Monaten wieder.}
-
 {133}{}{Ach so... gibt's vielleicht noch andere Möglichkeiten, in dieser Stadt schnell zu Geld zu kommen?}
 {134}{}{Gut möglich. Ich will's mal so ausdrücken: Es ist am besten, wenn die Offiziellen von so einer Gelegenheit nichts erfahren.}
 {135}{}{Ich wär bereit, für ein paar Informationen ein bißchen was zu zahlen.}
@@ -54,6 +53,5 @@
 {152}{}{Bist du ganz sicher, daß du nicht mit den Bullen unter einer Decke steckst?}
 {153}{}{Allmählich kommen wir der Sache näher. Nur nicht lockerlassen.}
 {154}{}{Nur ein ganz klein wenig mehr noch.}
-
 {155}{}{Komm morgen ans Tor zu Westins Ranch. Wenn du nicht aufkreuzt, wird's nichts mit dem Job, klar?}
 {156}{}{Wir planen in den nächsten Tagen einen Viehtrieb nach Redding. Wie gut bist du mit der Waffe?}

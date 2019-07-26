@@ -2,5 +2,4 @@
 {101}{}{Du siehst eine Frau in einer Kampfrüstung.}
 {102}{}{Er trägt das Abzeichen der NCR Ranger.}
 {103}{}{Sie trägt das Abzeichen der NCR Ranger.}
-
-{200}{}{Danke für die Hilfe, Kamerad. Erstatte Bericht in der NCR über die guten Neuigkeiten.)
+{200}{}{Thanks for your help fellow Ranger. Report back to NCR and tell them the good news.}

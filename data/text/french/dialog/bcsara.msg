@@ -1,4 +1,4 @@
-{100}{}{Tu vois une squatteuse.}
+{100}{}{Tu vois un squatteur.}
 {101}{}{Tu vois Sara, la squatteuse.}
 {102}{}{Tu vois une femme d'âge moyen portant des vêtements usés.}
 {103}{}{Laisse-moi tranquille, j'ai beaucoup à faire.}

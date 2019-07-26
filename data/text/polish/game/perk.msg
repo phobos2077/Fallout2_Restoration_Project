@@ -1,9 +1,3 @@
-#
-#   Messages from perk.c
-#
-#
-#   PERK NAMES
-#
 {101}{}{Orientacja}
 {102}{}{Szybkie piêœci}
 {103}{}{Twarde piêœci}
@@ -21,7 +15,7 @@
 {115}{}{Strzelec wyborowy}
 {116}{}{Cichobieg}
 {117}{}{Traper}
-{118}{}{Mistrz kupiecki}
+{118}{}{Mistrzyni handlu}
 {119}{}{Erudycja}
 {120}{}{Uzdrowiciel}
 {121}{}{Poszukiwacz skarbów}
@@ -40,7 +34,7 @@
 {134}{}{Ksi¹¿ê z³odziei}
 {135}{}{Mówca}
 {136}{}{Lotem bli¿ej!}
-{137}{}{ERROR -- UNIMPED}  # was -- Friendly Foe
+{137}{}{ERROR -- UNIMPED}
 {138}{}{Kieszonkowiec}
 {139}{}{Duch}
 {140}{}{Kult jednostki}
@@ -50,7 +44,7 @@
 {144}{}{Pionier}
 {145}{}{Przyjaciel zwierz¹t}
 {146}{}{Zwiadowca}
-{147}{}{Tajemniczy Wêdrowiec}
+{147}{}{Tejemnicza nieznajoma}
 {148}{}{Obie¿yœwiat}
 {149}{}{Szybkie kieszenie}
 {150}{}{G³adka gadka}
@@ -67,7 +61,7 @@
 {161}{}{Zdolnoœæ penetracji broni}
 {162}{}{Moc broni}
 {163}{}{Pancerz wspomagany}
-{164}{}{Pancerz bojowy}
+{164}{}{pancerz bojowy}
 {165}{}{Zasiêg broni wspomaganej optyk¹}
 {166}{}{Szybkie prze³adowanie}
 {167}{}{Noktowizor}
@@ -76,7 +70,7 @@
 {170}{}{Super Pancerz II}
 {171}{}{Uzal. od Jetu}
 {172}{}{Tragiczne uzale¿nienie}
-{173}{}{Urok pancerza}
+{173}{}{Atrakcyjnoœæ pancerza}
 {174}{}{Patroszenie gekonów}
 {175}{}{Podskórny pancerz ochronny}
 {176}{}{Wzmocnienie pancerza podskórnego}
@@ -108,7 +102,7 @@
 {202}{}{Piroman}
 {203}{}{Padnij-powstañ}
 {204}{}{Komiwoja¿er}
-{205}{}{Cz³owiek-ska³a}
+{205}{}{Œciana}
 {206}{}{Z³odziej}
 {207}{}{Ekspert uzbrojenia}
 {208}{}{Praktyka w Kryptopolis}
@@ -125,10 +119,6 @@
 {219}{}{Pechowiec}
 {220}{}{Nie anonimowy alkoholik}
 {221}{}{Palacz}
-
-#
-#   PERK DESCRIPTIONS
-#
 {1101}{}{£atwiej ci dostrzegaæ szczegó³y dotycz¹ce innych osób. Dziêki temu, poprzez obserwacjê uzyskujesz bardziej dok³adne informacje na ich temat, ³¹cznie z liczb¹ punktów wytrzyma³oœci i u¿ywan¹ broni¹.}
 {1102}{}{Znasz sekretne sztuki walki Wschodu lub po prostu szybciej wymachujesz rêkami. Tak czy owak, ataki, których dokonujesz w trakcie walki wrêcz, kosztuj¹ ciê o 1 pkt. akcji mniej.}
 {1103}{}{Doœwiadczenie w walce wrêcz pozwala ci uzyskaæ w niej przewagê. Za ka¿dy poziom tego profitu stopieñ obra¿eñ zadawanych w trakcie walki bezpoœredniej roœnie o 2 pkt.}
@@ -192,7 +182,7 @@
 {1161}{}{Zdolnoœæ penetracji broni}
 {1162}{}{Moc broni}
 {1163}{}{Pancerz wspomagany}
-{1164}{}{Pancerz bojowy}
+{1164}{}{pancerz bojowy}
 {1165}{}{Zasiêg broni wspomaganej optyk¹}
 {1166}{}{Szybkie prze³adowanie}
 {1167}{}{Noktowizor}
@@ -203,48 +193,48 @@
 {1172}{}{Czujesz pal¹c¹ potrzebê otwarcia kolejnego pude³ka Tragicznych kart.}
 {1173}{}{Atrakcyjnoœæ pancerza}
 {1174}{}{Posiadasz wiedzê jak obdzieraæ gekony ze skóry.}
-{1175}{}{Posiadasz podskórny pancerz ochronny przeciwko fizycznym formom ataku.}     # Dermal Impact Armor
-{1176}{}{Posiadasz ulepszony podskórny pancerz ochronny przeciwko fizycznym formom ataku.}  # Dermal Impact Assault Enhancement
-{1177}{}{Posiadasz implanty os³onowe typu Phoenix przeciwko energetycznym formom ataku.}     # Phoenix Armor Implants
-{1178}{}{Posiadasz ulepszone implanty os³onowe typu Phoenixy przeciwko energetycznym formom ataku.}  # Phoenix Assault Enhancement
-{1179}{}{Otrzyma³eœ 10 procentowy wzrost odpornoœci na trucizny i radiacjê.}  # Vault City Inoculations
-{1180}{}{Z tym profitem otrzymasz 1 punkt do si³y za ka¿dym razem, gdy liczba punktów wytrzyma³oœci spadnie poni¿ej po³owy swej maksymalnej wartoœci.}  # Adrenaline Rush
-{1181}{}{Jesteœ wyczulony na niebezpieczeñstwa czyhaj¹ce na otwartej przestrzeni. Jest ma³o prawdopodobne, ¿e ktoœ zajdzie ciê od ty³u. Otrzymujesz dodatkowe 3 punkty do percepcji w trakcie przypadkowych spotkañ i podczas rozmieszczania postaci.}  # Cautious Nature
-{1182}{}{Podczas czytania zwracasz uwagê na szczegó³y, które umykaj¹ innym. Otrzymujesz 50% wiêcej punktów umiejêtnoœci czytaj¹c lektury.}  # Comprehension
-{1183}{}{Jesteœ specjalist¹ w sztuce delikatnego obchodzenia siê z materia³ami wybuchowymi. Eksploduj¹ zawsze wtedy, kiedy powinny i czyni¹ znacznie wiêcej szkód ni¿ powinny.}  # Demolition Expert
-{1184}{}{Jesteœ rasowym ryzykantem. Otrzymujesz 20% premii do swej umiejêtnoœci hazardzisty.}  # Gambler
-{1185}{}{Z tym profitem otrzymujesz 1 punkt do Si³y.}     # Gain Strength
-{1186}{}{Z tym profitem otrzymujesz 1 punkt do Percepcji.}   # Gain Perception
-{1187}{}{Z tym profitem otrzymujesz 1 punkt do Wytrzyma³oœci.}    # Gain Endurance
-{1188}{}{Z tym profitem otrzymujesz 1 punkt do Charyzmy.}     # Gain Charisma
-{1189}{}{Z tym profitem otrzymujesz 1 punkt do Inteligencji.} # Gain Intelligence
-{1190}{}{Z tym profitem otrzymujesz 1 punkt do Zwinnoœci.}      # Gain Agility
-{1191}{}{Z tym profitem otrzymujesz 1 punkt do Szczêœcia.}         # Gain Luck
-{1192}{}{Twoja niewinna mina sprawia, ¿e pozbawianie innych maj¹tku jest jeszcze prostsze. Otrzymujesz 20% do umiejêtnoœci kradzie¿y.}  # Harmless
-{1193}{}{Ten profit pozwala na jednorazowy awans na kolejny poziom doœwiadczenia.}  # Here and Now
-{1194}{}{Jeœli obie rêce masz puste, ka¿dy niewykorzystany punkt akcji daje na koniec tury dodatkowe 2 punkty do klasy pancerza, do tego dochodzi 1/12 punktów twojej umiejêtnoœci walki wrêcz.}  # HtH Evade
-{1195}{}{Jesteœ niedoœcignionym mistrzem, jeœli chodzi o dawanie przyjemnoœci seksualnej.}  # Kama Sutra Master
-{1196}{}{Twoja Karma œwieci z podwójn¹ si³¹. Niezale¿nie od powinowactwa twych czynów, Karma jest podwajana na potrzeby reakcji i ró¿nego rodzaju modyfikatorów.}  # Karma Beacon
-{1197}{}{Jesteœ zwinnym i ostro¿nym farciarzem. Z tym profitem twoje szanse uruchomienia pu³apki s¹ o po³owê mniejsze.}  # Light Step
-{1198}{}{Posiadasz dog³êbn¹ wiedzê o ¿ywych organizmach, znasz ich mocne i s³abe strony. Dostajesz jednorazow¹, 10 procentow¹ premiê do umiejêtnoœci lekarskich, a ataki na istoty ¿ywe przynios¹ dodatkowe 5 pkt. obra¿eñ.}  # Living Anatomy
-{1199}{}{Limit towarzysz¹cych ci osób zwiêksza siê o 1, nie zapominaj jednak, ¿e wiêcej ni¿ 5 osób w ekipie to ju¿ t³um.}  # Magnetic Personality
-{1200}{}{Jesteœ zdolnym negocjatorem. Potrafisz targowaæ siê bez koñca, umiesz wykrêciæ siê od wszystkiego i wejœæ na ka¿d¹ imprezê. Otrzymujesz 10% premii do umiejêtnoœci handlowych i retorycznych.}  # Negotiator
-{1201}{}{Jesteœ œwietnie zorganizowany i potrafisz siê dobrze spakowaæ. Pozwoli ci to zabraæ ze sob¹ w podró¿ tych kilka rzeczy, które do tej pory nijak nie chcia³y siê pomieœciæ.}  # Pack Rat
-{1202}{}{Ogieñ to twój ¿ywio³. Bronie o niego oparte, w twych rêkach staj¹ siê przyczyn¹ dodatkowych obra¿eñ, zaœ wrogowie wystawieni na ich dzia³anie zawsze umieraj¹ w najgorêtszy mo¿liwy sposób.}  # Pyromaniac
-{1203}{}{Nie lubisz kontaktu z gleb¹ - b³yskawicznie podnosisz siê z wszelkich upadków.}  # Quick Recovery
-{1204}{}{Jesteœ bieg³ym handlowcem. Z tym profitem otrzymujesz 20% premii do umiejêtnoœci handlowych.}  # Salesman
-{1205}{}{Jest ma³o prawdopodobne, byœ z tym profitem mia³ du¿o okazji do witania siê z twardym pod³o¿em w czasie walki.}  # Stonewall
-{1206}{}{W twych ¿y³ach p³ynie krew z³odzieja. Otrzymujesz 10% jednorazowego bonusu do umiejêtnoœci skradania siê, otwierania zamków, kradzie¿y i omijania pu³apek. Dobry z³odziej, to ¿ywy z³odziej.}  # Thief
-{1207}{}{Mo¿esz dzier¿yæ broñ o wiele wiêksz¹, ni¿ byœ normalnie by³ w stanie. Otrzymujesz 3 punkty do si³y na u¿ytek kontroli mo¿liwoœci utrzymania w rêkach ciê¿szej broni.}  # Weapon Handling
-{1208}{}{Ukoñczy³eœ praktykê medyczn¹ w Kryptopolis.}  # Vault City Training
-{1209}{}{Dziêki swemu uporczywemu pijañstwu otrzyma³eœ kilka dodatkowych punktów wytrzyma³oœci.}  # Alcohol Enhanced hit points
-{1210}{}{Dziêki swemu uporczywemu pijañstwu otrzyma³eœ kolejne punkty wytrzyma³oœci.}  # Alcohol Enhanced hit points II
-{1211}{}{Przez swe uporczywe pijañstwo straci³eœ kilka punktów wytrzyma³oœci.}  # Alcohol Lowered hit points
-{1212}{}{Przez swe uporczywe pijañstwo straci³eœ kolejne punky wytrzyma³oœci.}  # Alcohol Lowered hit points II
-{1213}{}{Dziêki zastrzykom z Doktomatu otrzyma³eœ kilka dodatkowych punktów wytrzyma³oœci.}  # Autodoc Enhanced hit points
-{1214}{}{Dziêki zastrzykom z Doktomatu otrzyma³eœ kolejne punkty wytrzyma³oœci.}  # Autodoc Enhanced hit points II
-{1215}{}{Przedawkowanie zastrzyków z Doktomatu spowodowa³o ubytek kilku punktów wytrzyma³oœci.}  # Autodoc Lowered hit points
-{1216}{}{Przedawkowanie zastrzyków z Doktomatu spowodowa³o ubytek kolejnych punktów wytrzyma³oœci.}  # Autodoc Lowered hit points II
+{1175}{}{Posiadasz podskórny pancerz ochronny przeciwko fizycznym formom ataku.}
+{1176}{}{Posiadasz ulepszony podskórny pancerz ochronny przeciwko fizycznym formom ataku.}
+{1177}{}{Posiadasz implanty os³onowe typu Phoenix przeciwko energetycznym formom ataku.}
+{1178}{}{Posiadasz ulepszone implanty os³onowe typu Phoenixy przeciwko energetycznym formom ataku.}
+{1179}{}{Otrzyma³eœ 10 procentowy wzrost odpornoœci na trucizny i radiacjê.}
+{1180}{}{Z tym profitem otrzymasz 1 punkt do si³y za ka¿dym razem, gdy liczba punktów wytrzyma³oœci spadnie poni¿ej po³owy swej maksymalnej wartoœci.}
+{1181}{}{Jesteœ wyczulony na niebezpieczeñstwa czyhaj¹ce na otwartej przestrzeni. Jest ma³o prawdopodobne, ¿e ktoœ zajdzie ciê od ty³u. Otrzymujesz dodatkowe 3 punkty do percepcji w trakcie przypadkowych spotkañ i podczas rozmieszczania postaci.}
+{1182}{}{Podczas czytania zwracasz uwagê na szczegó³y, które umykaj¹ innym. Otrzymujesz 50% wiêcej punktów umiejêtnoœci czytaj¹c lektury.}
+{1183}{}{Jesteœ specjalist¹ w sztuce delikatnego obchodzenia siê z materia³ami wybuchowymi. Eksploduj¹ zawsze wtedy, kiedy powinny i czyni¹ znacznie wiêcej szkód ni¿ powinny.}
+{1184}{}{Jesteœ rasowym ryzykantem. Otrzymujesz 20% premii do swej umiejêtnoœci hazardzisty.}
+{1185}{}{Z tym profitem otrzymujesz 1 punkt do Si³y.}
+{1186}{}{Z tym profitem otrzymujesz 1 punkt do Percepcji.}
+{1187}{}{Z tym profitem otrzymujesz 1 punkt do Wytrzyma³oœci.}
+{1188}{}{Z tym profitem otrzymujesz 1 punkt do Charyzmy.}
+{1189}{}{Z tym profitem otrzymujesz 1 punkt do Inteligencji.}
+{1190}{}{Z tym profitem otrzymujesz 1 punkt do Zwinnoœci.}
+{1191}{}{Z tym profitem otrzymujesz 1 punkt do Szczêœcia.}
+{1192}{}{Twoja niewinna mina sprawia, ¿e pozbawianie innych maj¹tku jest jeszcze prostsze. Otrzymujesz 20% do umiejêtnoœci kradzie¿y.}
+{1193}{}{Ten profit pozwala na jednorazowy awans na kolejny poziom doœwiadczenia.}
+{1194}{}{Jeœli obie rêce masz puste, ka¿dy niewykorzystany punkt akcji daje na koniec tury dodatkowe 2 punkty do klasy pancerza, do tego dochodzi 1/12 punktów twojej umiejêtnoœci walki wrêcz.}
+{1195}{}{Jesteœ niedoœcignionym mistrzem, jeœli chodzi o dawanie przyjemnoœci seksualnej.}
+{1196}{}{Twoja Karma œwieci z podwójn¹ si³¹. Niezale¿nie od powinowactwa twych czynów, Karma jest podwajana na potrzeby reakcji i ró¿nego rodzaju modyfikatorów.}
+{1197}{}{Jesteœ zwinnym i ostro¿nym farciarzem. Z tym profitem twoje szanse uruchomienia pu³apki s¹ o po³owê mniejsze.}
+{1198}{}{Posiadasz dog³êbn¹ wiedzê o ¿ywych organizmach, znasz ich mocne i s³abe strony. Dostajesz jednorazow¹, 10 procentow¹ premiê do umiejêtnoœci lekarskich, a ataki na istoty ¿ywe przynios¹ dodatkowe 5 pkt. obra¿eñ.}
+{1199}{}{Limit towarzysz¹cych ci osób zwiêksza siê o 1, nie zapominaj jednak, ¿e wiêcej ni¿ 5 osób w ekipie to ju¿ t³um.}
+{1200}{}{Jesteœ zdolnym negocjatorem. Potrafisz targowaæ siê bez koñca, umiesz wykrêciæ siê od wszystkiego i wejœæ na ka¿d¹ imprezê. Otrzymujesz 10% premii do umiejêtnoœci handlowych i retorycznych.}
+{1201}{}{Jesteœ œwietnie zorganizowany i potrafisz siê dobrze spakowaæ. Pozwoli ci to zabraæ ze sob¹ w podró¿ tych kilka rzeczy, które do tej pory nijak nie chcia³y siê pomieœciæ.}
+{1202}{}{Ogieñ to twój ¿ywio³. Bronie o niego oparte, w twych rêkach staj¹ siê przyczyn¹ dodatkowych obra¿eñ, zaœ wrogowie wystawieni na ich dzia³anie zawsze umieraj¹ w najgorêtszy mo¿liwy sposób.}
+{1203}{}{Nie lubisz kontaktu z gleb¹ - b³yskawicznie podnosisz siê z wszelkich upadków.}
+{1204}{}{Jesteœ bieg³ym handlowcem. Z tym profitem otrzymujesz 20% premii do umiejêtnoœci handlowych.}
+{1205}{}{Jest ma³o prawdopodobne, byœ z tym profitem mia³ du¿o okazji do witania siê z twardym pod³o¿em w czasie walki.}
+{1206}{}{W twych ¿y³ach p³ynie krew z³odzieja. Otrzymujesz 10% jednorazowego bonusu do umiejêtnoœci skradania siê, otwierania zamków, kradzie¿y i omijania pu³apek. Dobry z³odziej, to ¿ywy z³odziej.}
+{1207}{}{Mo¿esz dzier¿yæ broñ o wiele wiêksz¹, ni¿ byœ normalnie by³ w stanie. Otrzymujesz 3 punkty do si³y na u¿ytek kontroli mo¿liwoœci utrzymania w rêkach ciê¿szej broni.}
+{1208}{}{Ukoñczy³eœ praktykê medyczn¹ w Kryptopolis.}
+{1209}{}{Dziêki swemu uporczywemu pijañstwu otrzyma³eœ kilka dodatkowych punktów wytrzyma³oœci.}
+{1210}{}{Dziêki swemu uporczywemu pijañstwu otrzyma³eœ kolejne punkty wytrzyma³oœci.}
+{1211}{}{Przez swe uporczywe pijañstwo straci³eœ kolejne punky wytrzyma³oœci.}
+{1212}{}{Przez swe uporczywe pijañstwo straci³eœ kolejne punky wytrzyma³oœci.}
+{1213}{}{Dziêki zastrzykom z Doktomatu otrzyma³eœ kilka dodatkowych punktów wytrzyma³oœci.}
+{1214}{}{Dziêki zastrzykom z Doktomatu otrzyma³eœ kolejne punkty wytrzyma³oœci.}
+{1215}{}{Przedawkowanie zastrzyków z Doktomatu spowodowa³o ubytek kolejnych punktów wytrzyma³oœci.}
+{1216}{}{Przedawkowanie zastrzyków z Doktomatu spowodowa³o ubytek kolejnych punktów wytrzyma³oœci.}
 {1217}{}{Jesteœ w tym naprawdê dobry...}
 {1218}{}{Wzmocniona si³a uderzenia}
 {1219}{}{Dobra wiadomoœæ to to, ¿e wszyscy dooko³a ciebie maj¹ wiêcej krytycznych wpadek w czasie walki. Z³a wiadomoœæ zaœ brzmi: tobie te¿ ich nie brakuje!}

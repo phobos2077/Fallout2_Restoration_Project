@@ -20,10 +20,10 @@
 {119}{}{Ee, przez.}
 {120}{}{Oczywiœcie, ¿e nie.}
 {121}{}{Oczywiœcie, ¿e tak, oczywiœcie. Ka¿dy lojalny obywatel Stanów Zjednoczonych tak by zrobi³.}
-{122}{}{A to dlaczego?}
+{122}{}{Dlaczego?}
 {123}{}{Mam robotê do wykonania. Do widzenia.}
 {124}{}{Kontynuujcie, ¿o³nierzu. Nasza przysz³oœæ to lepsze jutro.}
-{125}{}{Co chcia³ pan przez to powiedzieæ?}
+{125}{}{Co masz na myœli?}
 {126}{}{Nie dla ciebie. W³aœnie eksterminujê wszystkie gnidy z Enklawy - ty jesteœ nastêpny na liœcie.}
 {127}{}{Ee, tak. Niewa¿ne. Do widzenia.}
 {128}{}{Musimy wspó³pracowaæ, poniewa¿ jeœli nam siê nie powiedzie, nara¿amy siê na niepowodzenie.}
@@ -44,7 +44,7 @@
 {143}{}{Tak, w³aœnie widzê.}
 {144}{}{A jaki wp³yw na historiê chce mieæ pan?}
 {145}{}{Tak, lubiê ten kierunek. W przesz³oœci dokonywa³em dobrych wyborów. W przysz³oœci równie¿. A wiêc, jak wszystko na to wskazuje, idŸmy w tym kierunku.}
-{146}{}{Ee, tak.}
+{146}{}{Tak.}
 {147}{}{Wierzê, ¿e jesteœmy na bezpowrotnej drodze do wolnoœci i demokracji - ale to mo¿e siê zmieniæ.}
 {148}{}{Zanieczyszczonemu œrodowisku Pustkowi przyda³aby siê dla odmiany odrobina wolnoœci.}
 {149}{}{Nie wytrzymam tego d³u¿ej - pan po prostu musi zostaæ zlikwidowany.}

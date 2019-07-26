@@ -7,7 +7,7 @@
 {106}{}{Toi étrange, moi partir.}
 {107}{}{Je suis la personne qui va te botter le cul si tu continues à te comporter comme un chat et à refuser de me dire ton nom.}
 {108}{}{Je suis une personne normale qui est assez impressionnée par ta nature spéciale. Peux-tu me dire ton nom ?}
-{109}{}{Qu'importe.}
+{109}{}{Ca ne fait rien.}
 {110}{}{[Petit rire.] Tu es drôle ! Miaou... Je m'appelle Sandy. Je ne suis pas un vrai chat. Mais j'aime faire le chat.}
 {111}{}{[Cris.] Maman ! Maman ! Maman !}
 {112}{}{Je m'appelle Sandy. Je ne suis pas un vrai chat, mais j'aime bien jouer.}

@@ -1,7 +1,6 @@
 {100}{}{Widzisz starszego mê¿czyznê. Suszona œliwka wygl¹da przy nim œwie¿utko.}
 {101}{}{Widzisz Farrela.}
 {102}{}{Zawsze, gdy Farrel siê porusza, s³ychaæ jak gdyby trzask ³amanych ga³êzi.}
-
 {150}{}{Hej, odejdŸ stamt¹d!}
 {151}{}{Przestañ!}
 {152}{}{Z³odziej!}
@@ -24,7 +23,7 @@
 {173}{}{Miria ci to powiedzia³a? Bêdê musia³ daæ jej kilka klapsów za ci¹g³e rozpowiadanie tych bredni! Spójrz, mo¿e jestem biedny, ale mam swoj¹ dumê. Pomog³em niedawno jednemu z handlarzy naprawiæ wóz. W zamian da³ mi nowe narzêdzia... to wszystko!}
 {174}{}{Przyznaj siê - jesteœ winny!}
 {175}{}{Jaki masz dowód na to, ¿e to co powiedzia³eœ, jest prawd¹?}
-{176}{}{Czy myœlisz, ¿e w to uwierzê?}
+{176}{}{Czy s¹dzisz, ¿e w to uwierzê?}
 {177}{}{Sam mój honor jest wystarczaj¹cym dowodem na to, ¿e moje s³owa s¹ prawdziwe. Nie mogê zaproponowaæ ci nic innego.}
 {178}{}{Je¿eli ty tego zegarka nie zabra³eœ, to kto móg³ to zrobiæ?}
 {179}{}{Podejrzewam, ¿e zrobi³ to zwyk³y z³odziej. Przebywaj¹c w mieœcie ukrad³ zegarek i powêdrowa³ dalej. Chocia¿ naprawdê nie wiem, dlaczego chcia³by moje stare narzêdzia...}
@@ -44,7 +43,7 @@
 {195}{}{Przykro mi, ale w takim wypadku nic nie mogê zrobiæ.}
 {196}{}{To cudownie. Nie wiem, jak ci dziêkowaæ. Mój ogród le¿y kawa³ek na wschód. ChodŸ ze mn¹, zaprowadzê ciê tam.}
 {197}{}{Dziêkujê ci! Jesteœ najodwa¿niejszym cz³owiekiem na Ziemi. Niewielu ludzi zaryzykowa³oby swoje ¿ycie dla nieznajomego. Dziêkujê! Dziêkujê! Dziêkujê... [Doznajesz tego mi³ego, ciep³ego uczucia, które przenika ciê do samych czubków palców]}
-{198}{}{Czy mogê ci zadaæ kilka pytañ?}
+{198}{}{Czy mogê ci zadaæ jeszcze kilka pytañ?}
 {199}{}{Wolê ju¿ zdechn¹æ z g³odu, ni¿ szargaæ moje dobre imiê! IdŸ do diab³a!}
 {200}{}{Wszyscy oskar¿aj¹ mnie o to, ¿e ukrad³em kieszonkowy z³oty zegarek mojego najlepszego przyjaciela - Corneliusa. PrzyjaŸnimy siê ze sob¹, od kiedy tylko pamiêtam. Przecie¿ nigdy nie wzi¹³bym jego zegarka. Szuka³em ju¿ wszêdzie, z nadziej¹, ¿e odnajdê zegarek i znowu bêdziemy mogli byæ przyjació³mi. Ale szczêœcie jak na razie mi nie dopisa³o.}
 {201}{}{Przez pewien czas bêdê w okolicy. Je¿eli natknê siê na ten zegarek, powiadomiê ciê o tym.}
@@ -59,15 +58,11 @@
 {211}{}{Mój kochany przyjacielu [Chwyta ciê za rêkê i prowadzi do swojego ogrodu] Nie chcia³bym, ¿ebyœ mi siê gdzieœ tutaj zgubi³... PrzyjdŸ do mnie, kiedy tylko usuniesz wszystkie szkodniki.}
 {212}{}{Moja droga, kochana damulko. Jesteœ taka dobra dla starego cz³owieka. [Chwyta ciê za rêkê i prowadzi do swojego ogrodu] Nie chcia³bym, ¿ebyœ mi siê gdzieœ tutaj zgubi³a... PrzyjdŸ do mnie, kiedy tylko usuniesz wszystkie szkodniki.}
 {213}{}{Fantastycznie! Tu jest twoja nagroda. [Szuka czegoœ w swoich kalesonach i wyjmuje... nadgryzione ciasteczko] Teraz b¹dŸ dobrym jaskiniowcem, weŸ swoje ciasteczko i idŸ siê pobawiæ.}
-
 {300}{}{Zabijê tego szmaciarza.}
 {301}{}{Nienawidzê go...}
 {302}{}{Grrr...}
-
 {501}{}{Ten zegarek to nie moja sprawka!}
 {502}{}{Jestem niewinny, mówi³em ci!}
 {503}{}{Przecie¿ ty nie trafi³byœ nawet w dupê s³onia!}
-
 {550}{}{Nie zwraca uwagi na to, co mówisz.}
-
 {600}{}{Spór pomiêdzy Farrelem, a Corneliusem zosta³ pokojowo za¿egnany.}

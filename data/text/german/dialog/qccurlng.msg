@@ -35,12 +35,12 @@
 {132}{}{Ich bin Oberleutnant Dr. Charles Curling, Chemie-Corps der Vereinigten Staaten. Und wer
  zum Teufel bist du?}
 {133}{}{Ich bin dein schlimmster Alptraum - ein Mutant mit einer Waffe und was im Kopf.}
-{134}{}{Ich heiße }
+{134}{}{Ich bin }
 {135}{}{ aus Arroyo und wir müssen uns mal unterhalten.}
 {136}{}{Ich bin jemand, der mit dir reden muß.}
 {137}{}{Du mußt mit mir reden? Wer bist du, und warum sollte ich meine Zeit mit dir verschwenden?}
 {138}{}{Ich bin aus Arroyo und ich muß mit dir über die Rettung Tausender von Leben reden.}
-{139}{}{Ich heiße }
+{139}{}{Ich bin }
 {140}{}{ und du redest lieber mit mir, denn ich habe alle Trümpfe in der Hand.}
 {141}{}{Du hast recht. Für uns gibt es nichts zu bereden. Du bist sowieso tot.}
 {142}{}{Weiter so, Doktor. Ich gehe jetzt. Auf Wiedersehen.}
@@ -147,7 +147,7 @@
 {206}{}{Ist das nicht offensichtlich, mein mutierter Freund? Das F.E.V. ist dank mir ein
  tödliches Gift und dank eines rätselhaften Genies, der etwas dramatisch "Der Meister" genannt
  wird, wirkt es nur bei Menschen, mutiert oder nicht.}
-{207}{}{So?}
+{207}{}{Ja?}
 {208}{}{Somit haben wir das perfekte Entsorgungsmittel für alle fast menschlichen Mutanten, die
  den Erdball verseuchen.}
 {209}{}{Ich verstehe immer noch nicht, warum das *perfekt* ist.}
@@ -183,7 +183,7 @@
  Ethik meiner Arbeit nachgedacht habe.}
 {229}{}{Jetzt, da du darüber nachgedacht hast, solltest du das Gift zerstören.}
 {230}{}{Das könnte... Nein, das funktioniert nicht.}
-{231}{}{Warum nicht?}
+{231}{}{Wieso nicht?}
 {232}{}{Weil sie einfach wieder von vorne anfangen. Selbst wenn ich tot bin, gibt es zwischen
  hier und Navarro genügend Daten, mit denen man meine Arbeit nachvollziehen könnte. Nur etwas
  Drastischeres hilft.}
@@ -214,14 +214,14 @@
 {247}{}{                                 Und mit Tränen Himmel tränkten,}
 {248}{}{                                  Freut' er da des Werkes sich?}
 {249}{}{                                     Schuf er, der auch das Lamm schuf, dich?}
-{250}{}{Was?}
+{250}{}{Häh?}
 {251}{}{Ach, nur was von einem Dichter, der schon lange tot ist. Ich frage mich, ob es immer noch
  einen Ort gibt für Leute, die so lange auf so ein böses Ziel hingearbeitet haben. Unsere Zeit
  ist vorbei, eure beginnt. Mach dich auf!}
 {252}{}{Oh, OK, danke für die Hilfe, Doktor. Du bist ein tapferer Mann.}
 {253}{}{Du bist ein Irrer, aber ein nützlicher Irrer. Tschüß.}
 {254}{}{Mach schon!}
-{255}{}{Raus hier.}
+{255}{}{Verschwinde.}
 {256}{}{Beweg dich!}
 {257}{}{Du hast keine Zeit dafür!}
 {258}{}{Geh, solange du noch kannst!}

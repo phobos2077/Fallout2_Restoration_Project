@@ -33,4 +33,3 @@
 {127}{}{Was... Hat er dir das erzählt? Nach meinem Dienst werd ich's ihm zeigen... Schieb ab,
  Soldat. Und hör bloß zu grinsen auf!}
 {128}{}{OK.}
-

@@ -14,6 +14,5 @@
 {113}{}{*Murmelt*}
 {114}{}{Siehste nicht das ich trinke? *hicks*'}
 {115}{}{Lass mich in Ruhe. *hicks*}
-
 {116}{}{In Wirklichkeit ist es kurz vor 11 Uhr. Aber das ist jetzt unwichtig. Im Ernst, weiﬂt du wo deine Kinder stecken?}
 {117}{}{In Wirklichkeit ist es kurz nach 11 Uhr. Aber das ist jetzt unwichtig. Im Ernst, weiﬂt du wo deine Kinder stecken?}

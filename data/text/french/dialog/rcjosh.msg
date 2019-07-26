@@ -7,7 +7,7 @@
 {106}{}{Dégage, espèce de débile !}
 {107}{}{Dégage avant de saloper le plancher !}
 {108}{}{Bonjour, toi. Je m'appelle Josh Laurance. Je suis le boss.}
-{109}{}{Que puis-je faire pour toi ?}
+{109}{}{Que puis-je pour toi ?}
 {110}{}{Quel est cet endroit au juste ?}
 {111}{}{J'aimerais prendre un verre.}
 {112}{}{J'aimerais payer une tournée générale.}
@@ -26,7 +26,7 @@
 {125}{}{Quelles sont les démarches à faire pour le service funèbre ?}
 {126}{}{Je vais me tenir à distance de ton gin frelaté.}
 {127}{}{Certainement. Ca fera $5.}
-{128}{}{Voici ton argent.}
+{128}{}{Voilà ton argent.}
 {129}{}{Tout compte fait, je ne veux plus de bière. Mais j'ai quelque chose à te demander.}
 {130}{}{C'est généreux de ta part. Ce sera $50 pour une tournée de bière pour tout le parterre. Eh, je fais des vers sans le savoir.}
 {131}{}{Aïe, ça tue ce genre de calembours, Josh. Juste un avertissement amical. Voici ton argent.}

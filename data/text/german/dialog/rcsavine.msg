@@ -26,7 +26,6 @@
 {122}{}{Ich respektiere Diebe...aber nur die guten. Du bist nur ein Ganove. Also hau ab bevor ich
  dir wehtun muß.}
 {123}{}{Ein Dieb? Das nehm ich dir übel, du undankbares Schwein. Ich gehe. Adieu.}
-{200}{}{Mach schon!}
 {124}{}{Du wirst es noch bereuen, mir über den Weg gelaufen zu sein. Ich gehe.}
 {125}{}{Das war eine der schlechtesten Karawanen seit Jahren. Ich verdiene gar kein Geld dabei, also - Überraschung!
  - verdienst du auch nichts. Geh mir aus den Augen.}
@@ -48,7 +47,7 @@
 {138}{}{Hey, ich stelle gerade eine Ladung von heiklem Zeug zusammen. Zeug, das so seine Zeit dauert. Qualität kann man nicht
  über den Zaun brechen, weißt du. Wir brechen wahrscheinlich am 21. auf. Komm dann wieder, wenn du immer noch einen Job suchst.}
 {139}{}{Was transportiert ihr denn normalerweise?}
-{140}{}{Laß mich dich noch etwas fragen.}
+{140}{}{Ich möcht dich noch was andres fragen.}
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir suchen eigentlich immer Karawanenwachen, aber ich bin noch nicht fertig zum Aufbruch. Am 21. werde ich so
  weit sein. Komm dann wieder, wenn du einen Job brauchst.}
@@ -56,17 +55,18 @@
 {144}{}{Was transportiert denn diese Karawane?}
 {145}{}{OK, danke. Wiedersehn.}
 {146}{}{Hey, Kumpel, man muß wissen, wann man nein sagen sollte. Und *ich* weiß es. NEIN!}
-{147}{}{Oh, OK.}
+{147}{}{Oh, okay.}
 {148}{}{Tja, in New Reno nehmen wir meistens, äh, Medikamente mit - ja genau, das ist es - und die tauschen wir in
  Redding gegen Gold ein.}
 {149}{}{Interessant. Und du sagst, du suchst nach Wachen?}
-{150}{}{Laß mich dich noch etwas fragen.}
+{150}{}{Ich möcht dich noch was andres fragen.}
 {151}{}{Oh, OK. Wiedersehn.}
-{153}{}{Genau zum richtigen Zeitpunkt. Wir wollten gerade aufbrechen. Es gibt $1500 für den Job. Alles klar?}
 {152}{}{Genau zum richtigen Zeitpunkt. Wir sind gerade bereit aufzubrechen. Der Job bringt $1500, aber ich bezahle
  nur dich für diesen Job, weil ich nur noch eine Wache brauche. Alles klar?}
+{153}{}{Genau zum richtigen Zeitpunkt. Wir wollten gerade aufbrechen. Es gibt $1500 für den Job. Alles klar?}
 {154}{}{Hört sich gut an. Ich bin bereit. Gehen wir.}
 {155}{}{Ich glaube, ich will keine Karawane bewachen. Man sieht sich. Wiedersehn.}
 {156}{}{Es war ganz unterhaltsam mit dir, aber jetzt habe ich dich satt. Hau ab, du Spinner.}
 {157}{}{Spin-när? Tschüß.}
 {158}{}{Grrr! Ich tötn!}
+{200}{}{Versucht's doch mal!}

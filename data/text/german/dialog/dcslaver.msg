@@ -1,13 +1,7 @@
-# 0. Look
 {100}{}{Du siehst einen Sklavenh‰ndler.}
-
 {150}{}{Er ist anscheinend einer von Metzgers Leibw‰chtern.}
-
-# 1. CF: Hostile
 {200}{}{Da bist du ja.}
 {201}{}{Jetzt wirst du sterben.}
-
-# 2. CF: Normal
 {300}{}{Du willst mit dem Boﬂ sprechen, also geh rein.}
 {301}{}{Rede mit Metzger, nicht mit mir.}
 {302}{}{Jetzt geh schon rein.}

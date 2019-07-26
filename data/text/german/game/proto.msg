@@ -1,13 +1,4 @@
-#
-# Messages for Prototypes
-#
-# strings
-#
 {10}{}{<Keine>}
-
-#
-# Material Types
-#
 {100}{}{Glas}
 {101}{}{Metall}
 {102}{}{Kunststoff}
@@ -16,10 +7,6 @@
 {105}{}{Stein}
 {106}{}{Zement}
 {107}{}{Leder}
-
-#
-# Item Types
-#
 {150}{}{Rüstung}
 {151}{}{Container}
 {152}{}{Droge}
@@ -27,20 +14,12 @@
 {154}{}{Munition}
 {155}{}{Verschiedenes}
 {156}{}{Schlüssel}
-
-#
-# Scenery Types
-#
 {200}{}{Portal}
 {201}{}{Treppe}
 {202}{}{Aufzug}
 {203}{}{Leiter unten}
 {204}{}{Leiter oben}
 {205}{}{Normale Aussicht}
-
-#
-# Damage Code Types
-#
 {250}{}{normal_dam}
 {251}{}{Laser}
 {252}{}{Feuer}
@@ -48,10 +27,6 @@
 {254}{}{elektrisch}
 {255}{}{emp}
 {256}{}{Explosion}
-
-#
-# Caliber Types for weapons
-#
 {300}{}{Keine}
 {301}{}{Rakete}
 {302}{}{Brennstoff für Flammenwerfer}
@@ -71,27 +46,15 @@
 {316}{}{4,7mm, hülsenlos}
 {317}{}{HN-Nadler}
 {318}{}{7,62mm}
-
-#
-# Race Types
-#
 {350}{}{Kaukasisch}
 {351}{}{Afrikanisch}
-
-#
-# Body Types
-#
 {400}{}{Zweifüßer}
 {401}{}{Vierfüßer}
 {402}{}{Robotisch}
-#
-# Kill Types names
-#
-# Note: These were moved to 1450+ to handle new ones!
 {450}{}{Männer}
 {451}{}{Frauen}
 {452}{}{Kinder}
-{453}{}{Supermutanten}
+{453}{}{Super mutants}
 {454}{}{Ghuls}
 {455}{}{Brahmin}
 {456}{}{Radskorpione}
@@ -103,10 +66,6 @@
 {462}{}{Gottesanbeterin}
 {463}{}{Deathclaws}
 {464}{}{Pflanze}
-#{465}{}{}
-#
-# Kill type info descriptions
-#
 {465}{}{Diese Zeile zeigt die Zahl der männlichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {466}{}{Diese Zeile zeigt die Zahl der weiblichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {467}{}{Diese Zeile zeigt die Zahl der menschlichen Kleinkinder, die du im Verlauf deines Abenteuers getötet hast. Du Widerling.}
@@ -122,39 +81,19 @@
 {477}{}{Diese Zeile zeigt die Zahl der toten Gottesanbeterinnen oder großer mutierter gottesanbeterartigen Insekten, die du bis jetzt zerquetscht hast.}
 {478}{}{Diese Zeile zeigt, daß du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
 {479}{}{Die Anzahl an Pflanzen, deren Streben zur Sonne du beendet hast.}
-
-#
-# Use text
-#
 {480}{}{Du siehst: %s.}
-
-#
-# Use Container text
-#
 {485}{}{Du durchsuchst %s.}
 {486}{}{Du schließt %s.}
-{487}{}{Verschlossen.} # new
-
-#
-# Look text
-#
+{487}{}{Verschlossen.}
 {490}{}{Du siehst: %s.}
 {491}{}{Tot vor dir liegt: %s.}
 {492}{}{Du siehst die Überreste von: %s.}
 {493}{}{Du siehst nichts Ungewöhnliches.}
-
-#
-# Examine text
-#
 {500}{}{tot}
 {501}{}{so gut wie tot}
 {502}{}{schwer verletzt}
 {503}{}{verletzt}
 {504}{}{unverletzt}
-
-#
-# Examine text messages
-#
 {510}{}{RA-Mod: %d}
 {511}{}{RV-Mod: %d}
 {512}{}{Sch-Mod: %d/%d}
@@ -165,15 +104,12 @@
 {522}{}{Er ist: %s}
 {523}{}{Sie ist %s}
 {524}{}{Es ist %s}
-# (note: hps are short for hit-points)
 {525}{}{%s hat %d/%d Trefferpunkte.}
-# (note: this is for guns that have ammo)
 {526}{}{Es hat %d/%d Schuß %s.}
-{530}{}{ und hat schwer verletzte Gliedmaßen.}  # These append to lines 500-504
+{530}{}{ und hat schwer verletzte Gliedmaßen.}
 {531}{}{, hat aber schwer verletzte Gliedmaßen.}
 {532}{}{ und hast schwer verletzte Gliedmaßen.}
 {533}{}{, hast aber schwer verletzte Gliedmaßen.}
-# (note: hps are short for hit-points)
 {535}{}{Er hat %d/%d Trefferpunkte}
 {536}{}{Sie hat %d/%d Trefferpunkte}
 {537}{}{Es hat %d/%d Trefferpunkte}
@@ -185,22 +121,14 @@
 {547}{}{ und trägt: %s mit %d/%d Schuß %s.}
 {548}{}{Das Auto sieht nicht so aus, als würde es im Augenblick funktionieren.}
 {549}{}{Das Auto läuft mit %d%% Energie.}
-
-#
-# Examine text error messages
-#
 {550}{}{Fehler: lookup_val ist außerhalb des Bereichs!}
 {551}{}{Fehler: obj_examine: proto_ptr fehlgeschlagen!}
-
-#
-# Use text messages
-#
 {580}{}{Du benutzt %s.}
 {581}{}{Du verwendest %s an %s.}
-{582}{}{Das bewirkt nichts.}
+{582}{}{Nichts passiert.}
 {583}{}{Entsetzt merkst du, daß es schon tot ist.}
 {584}{}{Als du es berührst, merkst du, daß es schon tot ist.}
-{585}{}{Leider kommst du zu spät.} # This is relating to a critter being dead.
+{585}{}{Leider kommst du zu spät.}
 {586}{}{Das funktioniert nicht bei Toten.}
 {587}{}{Du zündest die Leuchtrakete an.}
 {588}{}{Die Leuchtrakete brennt schon.}
@@ -209,47 +137,32 @@
 {595}{}{Du lädst das Auto mit mehr Energie.}
 {596}{}{Das Auto ist schon voll aufgeladen.}
 {597}{}{Die Türöffnung scheint blockiert zu sein.}
-
-#
-# Experience-Point messages
-#
 {620}{}{Du erhältst %d Erfahrungspunkte für das Töten von: %s.}
-{621}{}{%s verdienst du %d Erfahrungspunkte.}
-{622}{}{Für den Sieg über deine Feinde}  # 622-626 prepend to line 621
-{623}{}{Für das Erledigen deiner Gegner}
-{624}{}{Da du siegreich aus dem Kampf hervorgegangen bist,}
-{625}{}{Für die Vernichtung deiner Gegner}
-{626}{}{Für die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,}
-
-#
-# Dialog messages
-#
+{621}{}{%s you earn %d experience points.}
+{622}{}{For defeating your enemies,}
+{623}{}{For slaying your opponents,}
+{624}{}{You are victorious in combat,}
+{625}{}{For crushing your enemies,}
+{626}{}{For destroying your enemies without taking a scratch,}
 {650}{}{[Fertig]}
 {651}{}{[Weiter]}
 {652}{}{Weiter}
 {653}{}{[Zurück]}
-{654}{}{Zurück}                                    # changed number from 653
-{655}{}{Fortfahren}                                # new
-{656}{}{Ähh...}                                    # new
+{654}{}{Zurück.}
+{655}{}{Weiter im Text}
+{656}{}{Ähh...}
 {660}{}{Du siehst dort nichts.}
 {661}{}{Zu weit weg.}
-{670}{}{OK.}                                       # F2: Used in PM: CombatAI settings
-{671}{}{Klar.}                                     # F2: Used in PM: CombatAI settings
-{672}{}{Wie du meinst.}                            # F2: Used in PM: CombatAI settings
-{673}{}{Wie du willst.}                            # F2: Used in PM: CombatAI settings
-{674}{}{Ich versuch's.}                            # F2: Used in PM: CombatAI settings
-{675}{}{Das kann ich nicht tun.}                   # F2: Used in PM: CombatAI settings
-{676}{}{Ich glaube nicht, daß ich das tun kann.}   # F2: Used in PM: CombatAI settings
-{677}{}{Arf!}                                      # F2: Used in PM: CombatAI settings -- RoboDog
-{678}{}{Wuff!}                                     # F2: Used in PM: CombatAI settings -- RoboDog
-
-#
-# Not Enough AP message
-#
+{670}{}{OK.}
+{671}{}{Sicher.}
+{672}{}{Wie du meinst.}
+{673}{}{Was immer du sagst.}
+{674}{}{Ich werde es versuchen.}
+{675}{}{Das kann ich nicht tun.}
+{676}{}{Ich glaube nicht, daß ich das tun kann.}
+{677}{}{Arf}
+{678}{}{Wuff!}
 {700}{}{Du hast nicht genügend Aktionspunkte.}
-#
-# Book messages
-#
 {800}{}{Du liest das Buch.}
 {801}{}{Du erfährst nichts Neues.}
 {802}{}{Du erfährst neue wissenschaftliche Informationen.}
@@ -257,9 +170,6 @@
 {804}{}{Du lernst neue Arten, Verletzungen zu heilen.}
 {805}{}{Du lernst, wie man besser mit Waffen umgeht.}
 {806}{}{Du lernst viel über das Überleben in der Wildnis.}
-#
-# Use on messages (and some extra stuff that Jesse needed)
-#
 {900}{}{Der Vorrat in der Arzttasche geht zur Neige.}
 {901}{}{Die Vorräte im Erste-Hilfe-Kasten gehen zur Neige.}
 {902}{}{Das kannst du nicht während eines Kampfes machen.}
@@ -269,11 +179,6 @@
 {910}{}{Die Vorräte in der Sanitätertasche gehen zur Neige.}
 {911}{}{Die Vorräte im Erste-Hilfe-Kasten für Feldärzte gehen zur Neige.}
 {913}{}{Dieses Wesen kann nichts tragen.}
-
-
-#
-# Kill Types names
-#
 {1450}{}{Männer}
 {1451}{}{Frauen}
 {1452}{}{Kinder}
@@ -293,9 +198,6 @@
 {1466}{}{Aliens}
 {1467}{}{Riesenameisen}
 {1468}{}{Big Bad Boß}
-#
-# Kill type info descriptions
-#
 {1469}{}{Diese Zeile zeigt die Zahl der männlichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {1470}{}{Diese Zeile zeigt die Zahl der weiblichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {1471}{}{Diese Zeile zeigt die Zahl der menschlichen Kleinkinder, die du im Verlauf deines Abenteuers getötet hast. Du Widerling.}

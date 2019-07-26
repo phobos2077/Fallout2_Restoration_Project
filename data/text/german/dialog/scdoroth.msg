@@ -3,9 +3,9 @@
 {102}{}{Der öligen Schmiere nach zu urteilen, mit der sie über und über bedeckt ist, ist sie praktisch veranlagt und scheut sie sich nicht, selbst Hand anzulegen. Ein Wartungsroboter folgt ihr überallhin.}
 {103}{}{Oh mein Gott, jemand muß etwas unternehmen! Was soll ich nur tun? Ich brauche ganz schnell Hilfe.}
 {104}{}{Häh? Gak?}
-{105}{}{Was ist los?}
+{105}{}{Was geht hier vor?}
 {106}{}{Du kommen. Bösen Mann stoppen. Ihn stoppen, damit nicht kaputtmachen Maschine. Gut?}
-{107}{}{Okay.}
+{107}{}{OK.}
 {108}{}{Nein, nix kommen.}
 {109}{}{Oh Gott, das ist Jack. Er droht, das Kraftwerk in die Luft zu jagen. Es bleibt nicht mehr viel Zeit, du mußt ihn aufhalten. Meinst du, du schaffst es?}
 {110}{}{Trödel nicht herum. Bring mich zu ihm.}
@@ -40,10 +40,8 @@
 {139}{}{Du hast ihn davon abgebracht? Phantastisch! Die Stadt steht tief in deiner Schuld. Ich will dir das hier geben. Es ist nichts Besonderes, nur ein paar Bücher, die ich gesammelt habe. Vielleicht kannst du sie verkaufen oder so.}
 {140}{}{Laß mich dir nur noch das eine sagen: Ich bin tief beeindruckt davon, wie du das mit Jack gemeistert hast. Ich und Toto müssen jetzt weg. Mach's gut!}
 {141}{}{Mist! Ich kann dir nur einen Rat geben: LAUF!}
-
 {142}{}{Schau mal, Toto. Das ist die Fremde, die uns aus dem Schlamassel geholfen hat. Nochmals besten Dank.}
 {143}{}{Du hast ihn davon abgebracht? Phantastisch! Die Stadt steht tief in deiner Schuld, Schwester. Ich will dir das hier geben. Es ist nichts Besonderes, nur ein paar Bücher, die ich gesammelt habe. Vielleicht kannst du sie verkaufen oder so.}
-
 {144}{}{Mach schnell! Er meint es ernst.}
 {145}{}{Du mußt sofort etwas unternehmen!}
 {146}{}{Steh nicht einfach rum — halte ihn auf!}

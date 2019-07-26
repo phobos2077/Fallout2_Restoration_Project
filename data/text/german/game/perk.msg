@@ -1,9 +1,3 @@
-#
-#   Messages from perk.c
-#
-#
-#   PERK NAMES
-#
 {101}{}{Bewußtsein}
 {102}{}{Mehr Nahkampfverletzungen}
 {103}{}{Bessere Nahkampfangriffe}
@@ -40,7 +34,7 @@
 {134}{}{Meisterdieb}
 {135}{}{Sprecher}
 {136}{}{Wurfkraft}
-{137}{}{FEHLER - UNIMPED}  # was -- Friendly Foe
+{137}{}{FEHLER - UNIMPED}
 {138}{}{Taschendieb}
 {139}{}{Geist}
 {140}{}{Kult der Persönlichkeit}
@@ -62,10 +56,10 @@
 {156}{}{Mentats-Sucht}
 {157}{}{Psycho-Sucht}
 {158}{}{RadAway-Sucht}
-{159}{}{Waffen-Reichweite}
-{160}{}{Waffen-Genauigkeit}
-{161}{}{Waffen-Durchschlagskraft}
-{162}{}{Waffen-Rückstoß}
+{159}{}{Waffen - Reichweite}
+{160}{}{Waffen - Genauigkeit}
+{161}{}{Waffen - Durchschlagskraft}
+{162}{}{Waffen - Rückstoß}
 {163}{}{Powerrüstung}
 {164}{}{Kampfrüstung}
 {165}{}{Waffe Reichweite Visier}
@@ -108,7 +102,7 @@
 {202}{}{Pyromane}
 {203}{}{Schnelle Erholung}
 {204}{}{Verkäufer}
-{205}{}{Steinmauer}
+{205}{}{Felswand}
 {206}{}{Dieb}
 {207}{}{Waffenhandhabung}
 {208}{}{Vault City-Training}
@@ -125,11 +119,8 @@
 {219}{}{Verhext}
 {220}{}{Alkoholsucht}
 {221}{}{Raucher}
-#
-#   PERK DESCRIPTIONS
-#
 {1101}{}{Mit Bewußtsein bekommst du genaue Informationen über jede Kreatur, die du untersuchst. Du siehst ihre genauen Trefferpunkte sowie Angaben zu allen Waffen, die sie bei sich trägt.}
-{1102}{}{Du kennst die geheimen Künste des Ostens, oder du schlägst einfach schneller. Auf jeden Fall kosten deine Nahkampfangriffe 1 AP weniger.}
+{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand or melee attacks cost 1 AP less to perform.}
 {1103}{}{Erfahrung im Kampf ohne Waffen verleiht dir einen Vorteil bei Verletzungen. Für jede Stufe dieses Bonus verursachst Du +2 Trefferpunkte bei Nahkampfangriffen }
 {1104}{}{Für jede Stufe der Bonus-Bewegung erhältst du pro Zug 2 APs umsonst, die nur für Bewegung eingesetzt werden können. Für jede Stufe dieses Bonus kannst du dich also bei jedem Zug um zwei Felder umsonst bewegen.}
 {1105}{}{Deine Ausbildung an Feuerwaffen und anderen Distanz- waffen hat dich zu einem tödlichen Waffenkämpfer gemacht. Für jede Stufe dieses Bonus fügst du +2 Trefferpunkte mit Distanzwaffen zu.}
@@ -202,48 +193,48 @@
 {1172}{}{Du fühlst das brennende Verlangen, noch eine Schachtel tragische Karten zu öffnen.}
 {1173}{}{Rüstung - Charisma}
 {1174}{}{Du weißt, wie man Geckos richtig häutet, um die Haut weiterzuverwenden.}
-{1175}{}{Du hast einen inneren Schutz gegen körperliche Angriffe.}     # Dermal Impact Armor
-{1176}{}{Du hast einen besonders starken inneren Schutz gegen körperliche Angriffe.}  # Dermal Impact Assault Enhancement
-{1177}{}{Du hast einen inneren Schutz gegen Energieangriffe.}     # Phoenix Armor Implants
-{1178}{}{Du hast einen besonders starken inneren Schutz gegen Energieangriffe.}  # Phoenix Assault Enhancement
-{1179}{}{Du hast +10 % Resistenz gegen Gift und Strahlung erlangt.}  # Vault City Inoculations
-{1180}{}{Mit diesem Bonus gewinnst du 1 Stärkepunkt, wenn du unter 1/2 deiner max. Trefferpunkte fällst.}  # Adrenaline Rush
-{1181}{}{Du bist im Freien wachsamer, und Feinde können sich nicht so leicht an dich heranschleichen. Mit diesem Bonus bekommst du +3 zu deiner Wahrnehmung in Zufallsbegegnungen hinzu, wenn du die Plazierung festlegst.}  # Cautious Nature
-{1182}{}{Du kannst dich beim Lesen viel besser auf Details konzentrieren. Du gewinnst 50% mehr Fähigkeitspunkte beim Lesen von Büchern.}  # Comprehension
-{1183}{}{Du bist ein Experte in Fragen der Sprengstoffhandhabung. Alles geht immer genau dann hoch, wenn du es auch willst und richtet besonders großen Schaden an.}  # Demolition Expert
-{1184}{}{Du würfelst wie ein Meister. Deine Spielfähigkeiten erhöhen sich um 20 %.}  # Gambler
-{1185}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Stärke.}     # Gain Strength
-{1186}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Wahrnehmung.}   # Gain Perception
-{1187}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Ausdauer.}    # Gain Endurance
-{1188}{}{Mit diesem Bonus erhältst du 1 Punkt zu deinem Charisma.}     # Gain Charisma
-{1189}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Intelligenz.} # Gain Intelligence
-{1190}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Beweglichkeit.}      # Gain Agility
-{1191}{}{Mit diesem Bonus erhältst du 1 Punkt zu deinem Glück.}         # Gain Luck
-{1192}{}{Dein unschuldiges Aussehen erleichtert dir das Stehlen ein wenig. Du gewinnst 20% zu deiner Stehlfähigkeit hinzu.}  # Harmless
-{1193}{}{Mit diesem Bonus erhältst du automatisch einen Erfahrungslevel hinzu.}  # Here and Now
-{1194}{}{Wenn beide Objektschächte leer sind, erhältst du für jeden ungenutzten Aktionspunkt +2 anstelle von +1 für deine Rüstungsart am Ende der Runde, und 1/12 deiner unbewaffneten Fähigkeiten.}  # HtH Evade
-{1195}{}{Du bist Experte darin, anderen sexuelle Höhepunkte zu verschaffen.}  # Kama Sutra Master
-{1196}{}{Dein Karma leuchtet doppelt so hell. Egal ob schlecht oder gut, dein Karma wird für alle Reaktionen und Faktoren verdoppelt.}  # Karma Beacon
-{1197}{}{Du bist agil, hast Glück und läßt immer Vorsicht walten. Dieser Bonus halbiert die Wahrscheinlichkeit, daß du in eine Falle läufst.}  # Light Step
-{1198}{}{Deine Kenntnis aller Lebewesen und ihrer Stärken und Schwächen hat sich verbessert. Du erhältst einen einmaligen Bonus von +10% für Arzt, und du fügst allen Lebewesen +5 Schaden pro Angriff zu.}  # Living Anatomy
-{1199}{}{Du erhältst einen zusätzlichen Eintrag für dein Begleiterlimit, aber denk daran: Mehr als fünf sind einfach zuviel.}  # Magnetic Personality
-{1200}{}{Du bist ein gewiefter Unterhändler. Du handelst wie eine Marktfrau, doch kannst du dich aus so ziemlich allem herausreden. Mit diesem Bonus erhältst du 10 % zu deiner Handels- und Redefähigkeit.}  # Negotiator
-{1201}{}{Du bist gut darin, dein Inventar in Ordnung zu halten. Dadurch wird es wesentlich leichter, das bißchen an Extras zu tragen, die du immer benötigst.}  # Pack Rat
-{1202}{}{Du richtest besonders großen Schaden mit Feuerwaffen an, und deine Feinde sterben immer auf die qualvollste Weise in einem Höllenszenario. }  # Pyromaniac
-{1203}{}{Du erholst dich schnell, wenn du niedergeschlagen wurdest.}  # Quick Recovery
-{1204}{}{Du bist ein gerissener Verkäufer. Mit diesem Bonus erhältst du 20 % zu deiner Handelsfähigkeit.}  # Salesman
-{1205}{}{Es ist viel unwahrscheinlicher, daß du im Kampf niedergeschlagen wirst.}  # Stonewall
-{1206}{}{Durch deine Adern fließt Diebesblut. Mit dem Diebesbonus erhältst du einen einmaligen Bonus von +10% zu den Fähigkeiten Schleichen, Öffnen, Stehlen und Fallen. Ein vielseitiger Dieb lebt länger.}  # Thief
-{1207}{}{Du kannst eine Waffe wesentlich länger als normal erlaubt halten. Du erhältst +3 zu deiner Stärke, die du in Kraftproben einsetzen kannst, wenn du Waffen lange führen mußt.}  # Weapon Handling
-{1208}{}{Du hast das medizinische Training von Vault City absolviert.}  # Vault City Training
-{1209}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit erhöht worden.}  # Alcohol Enhanced hit points
-{1210}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit noch ein wenig mehr erhöht worden.}  # Alcohol Enhanced hit points II
-{1211}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}  # Alcohol Lowered hit points
-{1212}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}  # Alcohol Lowered hit points II
-{1213}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc leicht erhöht worden.}  # Autodoc Enhanced hit points
-{1214}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc noch ein wenig mehr erhöht worden.}  # Autodoc Enhanced hit points II
-{1215}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}  # Autodoc Lowered hit points
-{1216}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}  # Autodoc Lowered hit points II
+{1175}{}{Du hast einen inneren Schutz gegen körperliche Angriffe.}
+{1176}{}{Du hast einen besonders starken inneren Schutz gegen körperliche Angriffe.}
+{1177}{}{Du hast einen inneren Schutz gegen Energieangriffe.}
+{1178}{}{Du hast einen besonders starken inneren Schutz gegen Energieangriffe.}
+{1179}{}{Du hast +10 % Resistenz gegen Gift und Strahlung erlangt.}
+{1180}{}{Mit diesem Bonus gewinnst du 1 Stärkepunkt, wenn du unter 1/2 deiner max. Trefferpunkte fällst.}
+{1181}{}{Du bist im Freien wachsamer, und Feinde können sich nicht so leicht an dich heranschleichen. Mit diesem Bonus bekommst du +3 zu deiner Wahrnehmung in Zufallsbegegnungen hinzu, wenn du die Plazierung festlegst.}
+{1182}{}{Du kannst dich beim Lesen viel besser auf Details konzentrieren. Du gewinnst 50% mehr Fähigkeitspunkte beim Lesen von Büchern.}
+{1183}{}{Du bist ein Experte in Fragen der Sprengstoffhandhabung. Alles geht immer genau dann hoch, wenn du es auch willst und richtet besonders großen Schaden an.}
+{1184}{}{Du würfelst wie ein Meister. Deine Spielfähigkeiten erhöhen sich um 20 %.}
+{1185}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Stärke.}
+{1186}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Wahrnehmung.}
+{1187}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Ausdauer.}
+{1188}{}{Mit diesem Bonus erhältst du 1 Punkt zu deinem Charisma.}
+{1189}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Intelligenz.}
+{1190}{}{Mit diesem Bonus erhältst du 1 Punkt zu deiner Beweglichkeit.}
+{1191}{}{Mit diesem Bonus erhältst du 1 Punkt zu deinem Glück.}
+{1192}{}{Dein unschuldiges Aussehen erleichtert dir das Stehlen ein wenig. Du gewinnst 20% zu deiner Stehlfähigkeit hinzu.}
+{1193}{}{Mit diesem Bonus erhältst du automatisch einen Erfahrungslevel hinzu.}
+{1194}{}{Wenn beide Objektschächte leer sind, erhältst du für jeden ungenutzten Aktionspunkt +2 anstelle von +1 für deine Rüstungsart am Ende der Runde, und 1/12 deiner unbewaffneten Fähigkeiten.}
+{1195}{}{Du bist Experte darin, anderen sexuelle Höhepunkte zu verschaffen.}
+{1196}{}{Dein Karma leuchtet doppelt so hell. Egal ob schlecht oder gut, dein Karma wird für alle Reaktionen und Faktoren verdoppelt.}
+{1197}{}{Du bist agil, hast Glück und läßt immer Vorsicht walten. Dieser Bonus halbiert die Wahrscheinlichkeit, daß du in eine Falle läufst.}
+{1198}{}{Deine Kenntnis aller Lebewesen und ihrer Stärken und Schwächen hat sich verbessert. Du erhältst einen einmaligen Bonus von +10% für Arzt, und du fügst allen Lebewesen +5 Schaden pro Angriff zu.}
+{1199}{}{Du erhältst einen zusätzlichen Eintrag für dein Begleiterlimit, aber denk daran: Mehr als fünf sind einfach zuviel.}
+{1200}{}{Du bist ein gewiefter Unterhändler. Du handelst wie eine Marktfrau, doch kannst du dich aus so ziemlich allem herausreden. Mit diesem Bonus erhältst du 10 % zu deiner Handels- und Redefähigkeit.}
+{1201}{}{Du bist gut darin, dein Inventar in Ordnung zu halten. Dadurch wird es wesentlich leichter, das bißchen an Extras zu tragen, die du immer benötigst.}
+{1202}{}{Du richtest besonders großen Schaden mit Feuerwaffen an, und deine Feinde sterben immer auf die qualvollste Weise in einem Höllenszenario. }
+{1203}{}{Du erholst dich schnell, wenn du niedergeschlagen wurdest.}
+{1204}{}{Du bist ein gerissener Verkäufer. Mit diesem Bonus erhältst du 20 % zu deiner Handelsfähigkeit.}
+{1205}{}{Es ist viel unwahrscheinlicher, daß du im Kampf niedergeschlagen wirst.}
+{1206}{}{Durch deine Adern fließt Diebesblut. Mit dem Diebesbonus erhältst du einen einmaligen Bonus von +10% zu den Fähigkeiten Schleichen, Öffnen, Stehlen und Fallen. Ein vielseitiger Dieb lebt länger.}
+{1207}{}{Du kannst eine Waffe wesentlich länger als normal erlaubt halten. Du erhältst +3 zu deiner Stärke, die du in Kraftproben einsetzen kannst, wenn du Waffen lange führen mußt.}
+{1208}{}{Du hast das medizinische Training von Vault City absolviert.}
+{1209}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit erhöht worden.}
+{1210}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit noch ein wenig mehr erhöht worden.}
+{1211}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}
+{1212}{}{Deine Trefferpunkte sind aufgrund wiederholter Trunkenheit leicht gesenkt worden.}
+{1213}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc leicht erhöht worden.}
+{1214}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc noch ein wenig mehr erhöht worden.}
+{1215}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}
+{1216}{}{Deine Trefferpunkte sind aufgrund wiederholter Verwendung des Autodoc ein wenig gesenkt worden.}
 {1217}{}{Im Schwafeln übertrifft dich so schnell keiner.}
 {1218}{}{Durch Waffen verbesserter K.o.}
 {1219}{}{Das Gute an dir ist, daß alle um dich herum mehr kritische Treffer im Kampf erleiden. Der Nachteil ist, daß das auch für dich gilt!}

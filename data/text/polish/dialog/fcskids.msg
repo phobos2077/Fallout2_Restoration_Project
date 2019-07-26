@@ -23,12 +23,12 @@
 {122}{}{Aaa! Potwór!}
 {123}{}{Patrzcie na tego pajaca!}
 {124}{}{Czy to twoja mama?}
-{125}{}{Ratunku! Goni mnie ogromniasty robot!}
+{125}{}{Pomocy! Goni mnie robot!}
 {126}{}{Pomocy! Goni mnie robot!}
 {127}{}{Nie jest ci w tym za gor¹co? Halo? Jest tam kto?}
 {128}{}{Co to takiego? Jesteœ cz³owiekiem?}
 {129}{}{Ale olbrzym.}
 {130}{}{£aa!}
-{131}{}{Nie rób mi krzywdy!}
+{131}{}{Nie bij mnie!}
 {132}{}{::p³acze::}
 {133}{}{Mamo, ratunku!}

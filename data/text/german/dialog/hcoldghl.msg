@@ -35,4 +35,3 @@
 {133}{}{Ich brauche ein Nickerchen.}
 {134}{}{Es ist kalt und die Wölfe sind hinter mir her.}
 {135}{}{Wenn Hunde sterben, wedeln sie noch stundenlang mit ihrem Schwanz!}
-

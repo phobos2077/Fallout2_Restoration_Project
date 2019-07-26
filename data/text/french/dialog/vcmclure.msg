@@ -14,7 +14,7 @@
 {113}{}{Bonjour, citoyen. Puis-je t'être utile ??}
 {114}{}{Oui ? Tu voulais autre chose ?}
 {115}{}{Peur Nouël ?}
-{116}{}{[Partir.]}
+{116}{}{Dégage !}
 {117}{}{Puis-je te poser quelques questions ?}
 {118}{}{Qui es-tu ?}
 {119}{}{Je me balade, merci. Bonne journée.}
@@ -25,10 +25,10 @@
 {124}{}{Bien sûr, citoyen.}
 {125}{}{Que veux-tu savoir ?}
 {126}{}{C'est quoi ton boulot ?}
-{127}{}{Je suis à la recherche d'un Jardin d'Eden en Kit.}
+{127}{}{Je cherche un Jardin d'Eden en Kit.}
 {128}{}{Que peux-tu me dire sur la Première citoyenne ?}
 {129}{}{Je voudrais te poser quelques questions sur Gecko.}
-{130}{}{Que peux-tu me dire sur Redding ?}
+{130}{}{Que sais-tu au sujet de Redding ?}
 {131}{}{Je dois te parler de Redding.}
 {132}{}{Comment devient-on citoyen ?}
 {133}{}{Je pense que vous avez une pièce qui peut réparer la centrale de Gecko.}
@@ -36,14 +36,14 @@
 {135}{}{J'ai ici un petit disque dans lequel il y a des informations économiques qui t'intéresseraient peut-être.}
 {136}{}{J'ai trouvé un moyen d'optimiser le réacteur de Gecko.}
 {137}{}{Voici le disque du réacteur de Gecko. Peux-tu l'optimiser ?}
-{138}{}{Rien aujourd'hui, merci.}
+{138}{}{Rien pour aujourd'hui, merci.}
 {139}{}{Je suis le Conseiller McClure, et tu es... ?}
 {140}{}{Ca te regarde pas.}
 {141}{}{. C'est un plaisir de te connaître.}
 {142}{}{Je dois vraiment y aller, peut-être pourrions-nous faire connaissance plus tard.}
 {143}{}{Je peux tolérer une telle grossièreté de la part d'un étranger, mais pas de celle d'un citoyen. Je suis un membre du Conseil de la Cité de l'Abri et tu me dois le respect qui me revient, ou ta citoyenneté sera mise en jeu. Tu m'as bien compris ?}
 {144}{}{Va te faire mettre, vieux con !!}
-{145}{}{De toute façon, j'ai fini de te parler.}
+{145}{}{Ouais, c'est ça. J'en ai marre de te parler, de toute façon.}
 {146}{}{Je m'excuse, je ne voulais pas t'offenser.}
 {147}{}{Eh bien !! De telles grossièretés ne pouvaient venir que de quelqu'un comme toi ! Donne-moi ton passe et suis les gardes. Il n'y a pas de place pour les gens comme toi dans la Cité.}
 {148}{}{Je ne te donnerai rien du tout. Si tu le veux, viens le chercher.}
@@ -56,28 +56,28 @@
 {155}{}{Plutôt oui, que tu vas l'honorer ma citoyenneté !}
 {156}{}{Allez, je m'en vais.}
 {157}{}{Ne me parle plus jamais. Si cela se reproduit, je serai dans l'obligation de te retirer ta citoyenneté. Bonne journée.}
-{158}{}{Bonne journée.}
+{158}{}{Au revoir.}
 {159}{}{Essaie un peu de m'enlever ma citoyenneté et tu vas vite le regretter !}
 {160}{}{Tes pouvoirs sont trop faibles, vieux croûton, tu n'es pas au niveau !!}
 {161}{}{Tu as dépassé les bornes ! citoyen ou pas, je te vire !! Gardes, montrez la sortie à c'te imbécile !!}
 {162}{}{Je me casse. Ca chlingue ici, de toute façon.}
-{163}{}{Je n'irai nulle part.}
-{164}{}{Que puis-je faire pour toi ?}
+{163}{}{J'arrive à rien.}
+{164}{}{Que puis-je pour toi ?}
 {165}{}{Je ne sais pas, vieil homme. Que peux-tu faire pour moi ?}
-{166}{}{Je recherche un Jardin d'Eden en Kit.}
-{167}{}{je peux te poser quelques questions ?}
+{166}{}{Je cherche un Jardin d'Eden en Kit.}
+{167}{}{Puis-je te poser quelques questions ?}
 {168}{}{Rien aujourd'hui. Je faisais juste un tour du conseil municipal.}
 {169}{}{Un Jardin d'Eden en Kit ?!? Si je comprends bien, il n'en existe qu'un. J'ai lu qu'il avait marché un bon moment mais qu'il était tombé en panne bien avant ma naissance. Mais nous devrions en avoir un second...}
 {170}{}{Devrions ?}
 {171}{}{... mais apparemment, l'ancien gouvernement s'était embrouillé avec les livraisons et nous avons reçu un paquet destiné à l'Abri... Treize... oui, je crois que c'était ça. Ils ont probablement reçu notre autre J.E.K.}
 {172}{}{Qu'y avait-il dans le paquet destiné à l'Abri Treize ?}
-{173}{}{Qu'est-il arrivé au J.E.K qui était tombé en panne ?}
+{173}{}{Qu'est-il arrivé au J.E.K qui est tombé en panne ?}
 {174}{}{Puis-je te poser une autre question ?}
-{175}{}{Je vois, merci pour les informations.}
+{175}{}{Je vois. Merci pour ces renseignements.}
 {176}{}{Des puces d'eau, des centaines. Je ne sais pas pourquoi ils en envoyaient autant... Nous n'avons jamais eu besoin de remplacer la nôtre. Nous avons toujours eu la même puce, celle que notre peuple utilisait quand il vivait sous terre dans l'abri.}
 {177}{}{Qu'est-il arrivé au J.E.K qui est tombé en panne ?}
 {178}{}{Puis-je te poser une autre question ?}
-{179}{}{Intéressant, merci de m'avoir accordé un peu de ton temps.}
+{179}{}{Intéressant. Merci de m'avoir accordé du temps.}
 {180}{}{L'ironie est tranchante, si le sort en est ainsi. Peut-être aurons-nous l'occasion de parler quand j'aurai arrêté cette hémorragie.}
 {181}{}{Il a été démonté et ses composants ont été utilisés pour d'autres applications.}
 {182}{}{Qu'y avait-il dans le paquet destiné à l'Abri Treize ?}
@@ -87,17 +87,17 @@
 {186}{}{Que veux-tu dire par *temps difficiles* ?}
 {187}{}{Que fais-tu ?}
 {188}{}{Puis-je te poser une autre question ?}
-{189}{}{Merci de m'avoir accordé un peu de ton temps. Au revoir.}
+{189}{}{Merci de m'avoir accordé du temps. Au revoir.}
 {190}{}{Gecko ?! Que veux-tu savoir ?}
 {191}{}{Où se trouve Gecko ?}
-{192}{}{Qu'est-ce que c'est Gecko ?}
+{192}{}{C'est quoi Gecko ?}
 {193}{}{Puis-je te poser une autre question ?}
-{194}{}{Merci de m'avoir accordé ton temps. Au revoir.}
+{194}{}{Merci de m'avoir accordé du temps. Au revoir.}
 {195}{}{Il n'y a pas grand-chose à dire excepté que nos livraisons de minerais sont devenues de moins en moins fréquentes.}
 {196}{}{Sais-tu pourquoi ?}
 {197}{}{Où se trouve Redding ?}
 {198}{}{Puis-je te poser une autre question ?}
-{199}{}{Merci de m'avoir accordé de ton temps. Au revoir.}
+{199}{}{Merci de m'avoir accordé du temps. Au revoir.}
 {200}{}{Je suis le plus vieux Conseiller. Je dirige les réunions du conseil.}
 {201}{}{Et que fait la Première citoyenne ?}
 {202}{}{Puis-je te poser une autre question ?}
@@ -106,7 +106,7 @@
 {205}{}{Allez... Dis-moi seulement ce qu'il me faut devenir citoyen.}
 {206}{}{J'aimerais quand même devenir citoyen.}
 {207}{}{Puis-je te poser une autre question ?}
-{208}{}{Tant pis.}
+{208}{}{Laisse tomber alors.}
 {209}{}{Tu veux devenir citoyen ?!? Nous serions ravis de te compter parmi nous. Il te suffit d'aller parler au Proconsul Grégory et il te fera passer le test de citoyenneté.}
 {210}{}{Où puis-je trouver le Proconsul Grégory ?}
 {211}{}{Puis-je te poser une autre question ?}
@@ -117,34 +117,34 @@
 {216}{}{Très bien, je vais aller parler au Proconsul tout de suite.}
 {217}{}{Tu le trouveras dans l'aile Est. Son bureau est en face de celui de la Première citoyenne.}
 {218}{}{Puis-je te poser une autre question ?}
-{219}{}{Merci de m'avoir accordé de ton temps. Au revoir.}
+{219}{}{Merci de m'avoir accordé du temps. Au revoir.}
 {220}{}{Tout est devenu difficile ces deux dernières années. La RNC est devenue de plus en plus agressive en essayant d'unir la Cité de l'Abri à la République.}
 {221}{}{Ils nous ont dit que si nous nous joignions à eux, ils pourraient nous protéger des attaques commando sur notre cité. Et depuis, ces attaques sont devenues de plus en plus brutales.}
 {222}{}{En plus de ça, il y a des Goules à Gecko qui contaminent notre eau souterraine.}
 {223}{}{Où se trouve Gecko ?}
-{224}{}{Qu'est-ce que c'est que Gecko ?}
+{224}{}{C'est quoi Gecko ?}
 {225}{}{Les temps sont durs, en effet. Puis-je te poser une autre question ?}
 {226}{}{Quelle histoire... Merci de m'avoir accordé de ton temps. Au revoir.}
 {227}{}{C'est juste au Nord-Est d'ici, mais si tu veux y aller, je te conseille de prendre des pilules anti-radiations. S'ils contaminent notre eau, c'est que leur ville doit être irradiée elle-même.}
 {228}{}{C'est quoi Gecko ?}
-{229}{}{Je peux te poser une autre question ?}
+{229}{}{Puis-je te poser une autre question ?}
 {230}{}{Merci pour l'avertissement. Au revoir.}
 {231}{}{C'est un endroit abandonné, un bidonville construit autour des restes d'une vieille centrale atomique.}
 {232}{}{Où se trouve Gecko ?}
-{233}{}{Je peux te poser une autre question ?}
-{234}{}{Merci de m'avoir accordé de ton temps. Au revoir.}
+{233}{}{Puis-je te poser une autre question ?}
+{234}{}{Merci de m'avoir accordé du temps. Au revoir.}
 {235}{}{Non, je n'y comprends rien. Nous sommes prêts à payer un maximum pour leur minerai, mais quand nous essayons d'aborder le sujet avec eux, ils deviennent évasifs. Si seulement nous savions ce qui se passe...}
 {236}{}{Je pourrais aller voir.}
 {237}{}{Où se trouve Redding ?}
-{238}{}{Merci de m'avoir accordé de ton temps. Au revoir.}
+{238}{}{Merci de m'avoir accordé du temps. Au revoir.}
 {239}{}{Tu ferais ça ? Je ne peux pas te payer, mais ton aide serait fortement appréciée.}
 {240}{}{Où se trouve Redding ?}
 {241}{}{Pas de problème, je vais aller voir ce qui se passe et trouver ce qui ne va pas.}
 {242}{}{Redding est à une semaine à l'Ouest d'ici. J'y suis jamais allé. Je ne suis jamais sorti de la Cité de l'Abri. Mais si j'ai bien compris, Redding est l'un des villages les plus plaisants du désert.}
 {243}{}{Sais-tu pourquoi les envois ont cessé ?}
-{244}{}{Je vois. Merci pour l'information.}
+{244}{}{Je vois. Merci pour ces renseignements.}
 {245}{}{De quoi s'agit-il ? Tout ce que tu pourras me dire me serait d'une grande aide.}
-{246}{}{Que peux-tu me dire sur Redding ?}
+{246}{}{Que sais-tu au sujet de Redding ?}
 {247}{}{Je crois qu'une grande partie de la population de Redding est intoxiquée à cause d'un stimulant appelé le Jet. Les mineurs échangent la plupart des minéraux qu'ils extraient avec New Reno pour s'approvisionner.}
 {248}{}{Le docteur Troy a trouvé un antidote contre le Jet.}
 {249}{}{J'ai donné cet antidote à Redding.}
@@ -152,14 +152,14 @@
 {251}{}{Je t'en dirai plus quand j'aurai du nouveau.}
 {252}{}{C'est un stimulant qui rend dépendant à 100%, doublé d'un très fort sentiment d'isolement.}
 {253}{}{Tiens-moi au courant, s'il te plaît.}
-{254}{}{Je peux te poser d'autres questions ?}
-{255}{}{Bien sûr.}
+{254}{}{Je peux vous poser d'autres questions ?}
+{255}{}{Certainement.}
 {256}{}{Ce sont là de bien mauvaises nouvelles. Nous devons trouver un moyen de les arrêter. Si cela continuait comme ça, nos réserves de minerais seraient réduites à néant. Aide-nous, par pitié.}
-{257}{}{Je vais voir ce que je peux faire pour vous.}
+{257}{}{Je vais voir ce que je peux faire.}
 {258}{}{Ah bon ?? Alors, qu'attends-tu ?! Il faut absolument l'amener au docteur Johnson à Redding. Il trouvera sûrement un moyen de l'administrer aux mineurs.}
 {259}{}{Je sais, tu me l'as déjà dit. Emmène-le à Redding et vois si tu peux les aider.}
 {260}{}{Avant de partir, puis-je te poser d'autres questions ?}
-{261}{}{D'accord, à bientôt.}
+{261}{}{Ok, Salut.}
 {262}{}{Merci !! Maintenant, il ne nous reste qu'à attendre. Heureusement, nos problèmes sont résolus. Merci encore pour tout ce que tu as fait pour nous.}
 {263}{}{De rien. Ce fut un plaisir de pouvoir vous aider.}
 {264}{}{De rien. Mais dis-moi...}
@@ -189,15 +189,15 @@
 {288}{}{Bien joué, Capitaine !}
 {289}{}{Bien joué, citoyen !}
 {290}{}{Bien joué !}
-{291}{}{J'ai encore des questions...}
+{291}{}{J'ai d'autres questions...}
 {292}{}{Merci.}
 {293}{}{Euh... Un disque magnétique ? Qu'entends-tu par là ?!?}
 {294}{}{Tiens, regarde.}
 {295}{}{C'est un disque magnétique qui montre combien d'énergie pouvait produire la centrale de Gecko avant la guerre et combien elle pourrait en produire aujourd'hui...}
-{296}{}{Ce n'est pas grave, j'ai d'autres questions.}
-{297}{}{Rien. Excuse-moi pour le dérangement.}
+{296}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
+{297}{}{Rien. Excuse-moi de te déranger.}
 {298}{}{Très bien, laisse-moi un instant...}
-{299}{}{Très bien.}
+{299}{}{D'accord.}
 {300}{}{Hmmm, comment as-tu eu ce disque ?}
 {301}{}{Je... Je l'ai trouvé.}
 {302}{}{Je l'ai trouvé quand je recherchais des documents dans la bibliothèque de la Cité de l'Abri.}
@@ -225,12 +225,12 @@
 {324}{}{J'apprécie ce geste. Merci.}
 {325}{}{Hmmm. Je ne peux pas te laisser l'accès à l'Abri, mais je pourrais optimiser le disque du réacteur pour toi.}
 {326}{}{D'accord, mais je n'ai pas le disque avec moi, je vais revenir avec.}
-{327}{}{Ce serait génial.}
+{327}{}{Ce serait cool.}
 {328}{}{Excellent !}
 {329}{}{D'accord.}
 {330}{}{Laisse-moi prendre le disque du réacteur et je pourrai alors l'optimiser grâce à l'ordinateur de l'Abri.}
 {331}{}{Génial, merci.}
-{332}{}{Qu'est-ce que c'est ?}
+{332}{}{Qu'y a-t-il ?}
 {333}{}{J'ai ici un disque du réacteur de Gecko. D'après le... heu... technicien de la centrale, l'ordinateur de la Cité de l'Abri peut optimiser le disque du réacteur et permettre ainsi à la centrale de marcher comme sur des roulettes.}
 {334}{}{Gardes !! Gardes !!}
 {335}{}{}

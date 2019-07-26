@@ -15,7 +15,7 @@
 {114}{}{Non.}
 {115}{}{En quoi ça te regarde ?}
 {116}{}{Si je te demande, c'est en fait parce que ma femme a disparu. Je ne sais pas où elle est. Ca fait des jours. J'ai demandé partout, mais personne ne l'a vue. Pourrais-tu la retrouver pour moi ?}
-{117}{}{J'en retire quoi ?}
+{117}{}{Qu'est-ce que j'y gagne ?}
 {118}{}{Je vais voir. A quoi elle ressemble ?}
 {119}{}{Non. J'ai trop de choses à faire.}
 {120}{}{Je peux te donner $500. Toutes mes économies.}

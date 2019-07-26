@@ -9,7 +9,7 @@
 {108}{}{OK, ich werde die Prüfung machen.}
 {109}{}{(Seufz) }
 {110}{}{. Du gehen zu Tempel. Du machen Prüfung. Du kommst nicht hier zurück, ohne Prüfung. Befolge Rat der Ältesten. Geh!}
-{111}{}{Ich gehn.}
+{111}{}{Ich gehen.}
 {112}{}{Entschuldige, }
 {113}{}{, aber ich kann dich nicht durchlassen. Wenn du in das Dorf zurückkehren möchtest, mußt du dich zuerst den Erprobungen stellen.}
 {114}{}{Ich verstehe. Dann geh ich wohl mal.}

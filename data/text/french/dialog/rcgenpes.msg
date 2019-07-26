@@ -8,15 +8,15 @@
 {107}{}{Tu vois une femme du coin.}
 {108}{}{Tu vois une femme qui travaille sûrement dans les mines.}
 {109}{}{Tu vois une fermière.}
-{110}{}{Que regardes-tu ?}
+{110}{}{Qu'est-ce que tu regardes ?}
 {111}{}{Bienvenue dans la grande ville.}
-{112}{}{Bonjour !}
+{112}{}{Bonjour.}
 {113}{}{Ca fait longtemps que tu es à Redding ?}
 {114}{}{Première visite à Redding, hein ?}
 {115}{}{On ne veut pas d'ennuis ici.}
 {116}{}{Je te regardais, aussi.}
 {117}{}{Salut, toi.}
-{118}{}{Quoi de neuf ? }
+{118}{}{Quoi de neuf ?}
 {119}{}{Comment vas-tu ?}
 {120}{}{Bonne journée.}
 {121}{}{Ouais !}
@@ -24,7 +24,7 @@
 {123}{}{Tu vois un homme qui tient une boisson fraîche à la main.}
 {124}{}{Tu vois un homme qui commande une bière.}
 {125}{}{Ce type a déjà trop bu.}
-{126}{}{Tu vois un ivrogne.}
+{126}{}{Tu vois une ivrogne.}
 {127}{}{Ce monsieur a l'air très heureux.}
 {128}{}{Tu vois une femme qui tient une boisson fraîche à la main.}
 {129}{}{Tu vois une femme qui commande une bière.}
@@ -32,8 +32,8 @@
 {131}{}{Tu vois une ivrogne.}
 {132}{}{Cette femme a l'air ivre.}
 {133}{}{Bonjour, toi.}
-{134}{}{Bonjour.}
-{135}{}{Hum...}
+{134}{}{Salut tout le monde !}
+{135}{}{Hum !}
 {136}{}{<Beurp>}
 {137}{}{<Glou-glou-gou>}
 {138}{}{Merci, toi.}
@@ -43,7 +43,7 @@
 {142}{}{Merci.}
 {143}{}{Toi et moi on est les meilleurs amis du monde.}
 {144}{}{Quel super pote !}
-{145}{}{Qu'est-ce que t'assures !}
+{145}{}{Tu es formidable.}
 {146}{}{Les tribals sont aussi des êtres humains.}
 {147}{}{Rien de tel que les amis, n'est-ce pas ?}
 {148}{}{J'ai comme une envie de chanter...}
@@ -63,7 +63,7 @@
 {162}{}{Tu vois une femme qui reprise un vêtement.}
 {163}{}{Cette femme se repose.}
 {164}{}{Cette femme se repose chez elle.}
-{165}{}{Bonjour !}
+{165}{}{Bonjour.}
 {166}{}{Que fais-tu ici ?}
 {167}{}{Je ne t'ai pas invité.}
 {168}{}{Va-t'en, on fait pas l'aumône aux tribals par ici.}
@@ -121,7 +121,7 @@
 {220}{}{C'est vrai que tu manges les gens ?}
 {221}{}{Je croyais que tu avais des cornes sur la tête.}
 {222}{}{D'où tu viens ?}
-{223}{}{Tu viens de loin ?}
+{223}{}{Est-ce que tu viens de loin ?}
 {224}{}{T'peux pas m'attraper !}
 {225}{}{Na, na, nère !}
 {226}{}{T'es un drôle de bonhomme.}

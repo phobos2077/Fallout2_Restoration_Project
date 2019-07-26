@@ -1,7 +1,6 @@
 {100}{}{Tu vois un gars costaud qui porte un tablier en cuir.}
 {101}{}{Tu vois Balthas le tanneur.}
 {102}{}{Tu vois un homme très musclé qui a l'odeur et l'aspect du cuir.}
-
 {151}{}{Mon fils a été tué par erreur pendant le combat.}
 {152}{}{Je ne pourrais jamais vivre sans Jonny.}
 {153}{}{[Sanglots]}
@@ -12,7 +11,7 @@
 {158}{}{Tu n'aurais pas vu une montre en or traîner dans le coin ?}
 {159}{}{Je reviendrai plus tard.}
 {160}{}{Je cherche un objet appelé J.E.K. En as-tu entendu parler ? Saurais-tu par hasard où je pourrais m'en procurer un ?}
-{161}{}{Un J.E.K. ?}
+{161}{}{Du J.E.K ?}
 {163}{}{En quoi puis-je t'être utile ?}
 {168}{}{Je jette juste un coup d'oeil, merci.}
 {171}{}{Alors, tu as trouvé Jonny ?}
@@ -58,11 +57,8 @@
 {217}{}{[Il t'examine de près, puis il sourit.] Allez, sois une gentille petite fille et va jouer dehors.}
 {218}{}{Continue à chercher, je t'en prie. Je sais qu'il est encore vivant. Je le sens !}
 {219}{}{C'est bien la carabine à air de Jonny. Noooooooonnnnn ! [Les nerfs de Balthas lâchent et il éclate en sanglots.]}
-{2199}{}{C'est bien la carabine à air de Jonny... Je ne crois pas qu'il soit mort. Je t'en prie, continue à le chercher. Je suis sûr qu'il est toujours quelque part, dehors.}
 {220}{}{Je savais que Jonny n'était pas mort ! Tu dis que je dois attendre... Je ne comprends pas ! Est-il blessé ? Mon instinct me dit d'aller vers mon fils, mais j'ai le pressentiment qu'avec toi, son sort est entre de bonnes mains. Dépêche-toi et ramène-le-moi.}
 {221}{}{Oh non, pas les fantômes ! Je savais bien que nous aurions dû tout faire brûler. Je ne les laisserai pas prendre mon fils, je retrouverai mon petit Jonny, coûte que coûte. Je suis sûr que les habitants de Modoc m'aideront à retrouver mon fils ! Retrouvons-nous à la ferme perdue. Nous les tuerons tous !}
-
 {230}{}{Tu as ramené Johnny sain et sauf à Modoc.}
-
-#added by killap - RP
 {240}{}{S'il te plaît, ramène moi mon fils sain et sauf.}
+{2199}{}{C'est bien la carabine à air de Jonny... Je ne crois pas qu'il soit mort. Je t'en prie, continue à le chercher. Je suis sûr qu'il est toujours quelque part, dehors.}

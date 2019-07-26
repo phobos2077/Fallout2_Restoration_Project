@@ -29,7 +29,7 @@
 {128}{}{Powiem ci tak: dam wam grupowy upust, szczególnie widz¹c, jak wygl¹dacie. Za 100$ doprowadzê was do normalnoœci.}
 {129}{}{Oto twoje pieni¹dze, doktorze. Ulecz nas.}
 {130}{}{Chyba nie mo¿emy sobie na to pozwoliæ w tej chwili. Przykro mi, doktorze, mo¿e innym razem.}
-{131}{}{100$, co? Mo¿e za³atwimy to póŸniej. Do zobaczenia, doktorze.}
+{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
 {132}{}{Wygl¹da na to, ¿e nie czujesz siê zbyt dobrze. Mogê zlikwidowaæ tê dolegliwoœæ za 100$. Chcesz, abym spróbowa³?}
 {133}{}{Twój kumpel nie czuje siê zbyt dobrze. Chyba mogê mu pomóc za 100$. Chcesz, abym spróbowa³?}
 {134}{}{Mam nadziejê, ¿e to bêdzie wiêcej ni¿ próba, doktorze. Oto twoje pieni¹dze.}
@@ -198,21 +198,21 @@
 {297}{}{Wed³ug tego, co przeczyta³em, podskórny pancerz ochronny zapewnia 5% odpornoœæ na obra¿enia zwyk³e i od wybuchów - ponad to, co daje jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera dwa dni, potrzebny jest jeden pancerz bojowy (na czêœci), i bêdzie ciê to kosztowaæ 5000$. Ta operacja powinna byæ doœæ prosta... tak s¹dzê. Hmm, byæ mo¿e nawet nie bêdzie a¿ tyle blizn.}
 {298}{}{Brzmi wspaniale, doktorze. Zróbmy to. Po prostu nie znoszê ci¹g³ego postrzeliwania, dŸgania i wysadzania w powietrze mojej osoby.}
 {299}{}{Powiedz mi coœ o innych operacjach, doktorze.}
-{300}{}{Wrócê, gdy bêdê mieæ wiêcej pieniedzy, doktorze. Do widzenia}
-{301}{}{Wrócê, gdy wydobêdê sk¹dœ pancerz bojowy, doktorze. Do widzenia.}
+{300}{}{Wrócê, gdy bêdê mieæ wiêcej pieniêdzy, doktorze. Do widzenia}
+{301}{}{Wrócê, gdy wydobêdê sk¹dœ Pancerz Bojowy, doktorze. Do widzenia.}
 {302}{}{Raczej nie chcê tego robiæ w tej chwili. Do widzenia, doktorze.}
 {303}{}{Musisz mieæ podskórny pancerz ochronny, zanim bêdê mogl wszczepic ci wersjê ulepszon¹. Ale powiem ci, co ci to powinno daæ. Ulepszenie powinno w sumie daæ ci 10% odpornoœci na obra¿enia zwyk³e i od wybuchów - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 30000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich p³yt uderzeniowych pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco kanciasto, ale w op³ywowy sposób. Ale któ¿ nie lubi wygl¹du nowoczesnych samochodów? Spróbujê nie dodawaæ ci z ty³u stateczników.}
 {304}{}{Ulepszony podskórny pancerz ochronny powinien w sumie daæ ci 10% odpornoœci na obra¿enia zwyk³e i od wybuchów - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 30000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich p³yt uderzeniowych pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco kanciasto, ale w op³ywowy sposób. Ale któ¿ nie lubi wygl¹du nowoczesnych samochodów? Spróbujê nie dodawaæ ci z ty³u stateczników. Mo¿emy zaczynaæ?}
 {305}{}{To wspania³e, doktorze. Zróbmy to. Wci¹¿ jestem w boju i nie przejmujê siê czêœci¹ estetyczn¹.}
 {306}{}{Powiedz mi coœ o innych operacjach, doktorze.}
 {307}{}{Wrócê, gdy bêdê mieæ wiêcej pieniêdzy, doktorze. Do widzenia}
-{308}{}{Wrócê, gdy wydobêdê sk¹dœ pancerz bojowy, doktorze. Do widzenia.}
+{308}{}{Wrócê, gdy wydobêdê sk¹dœ Pancerz Bojowy, doktorze. Do widzenia.}
 {309}{}{Raczej nie chcê tego robiæ w tej chwili. Do widzenia, doktorze.}
 {310}{}{Wed³ug raportów, implanty os³onowe typu Phoenix zapewniaj¹ 5% odpornoœæ na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co daje jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni, potrzebny jest jeden pancerz bojowy (dla membran rozpraszaj¹cych ciep³o), i bêdzie ciê to kosztowaæ 8000$. Nie martw siê jednak. Ta operacja *powinna* stworzyæ tylko niewielkie blizny - przynajmniej tak czyta³em.}
 {311}{}{To wspania³e, doktorze. Z pewnoœci¹ nie bêdzie mi ju¿ potrzebny ¿aden ekstra krem z filtrem do twarzy.}
 {312}{}{Powiedz mi coœ o innych operacjach, doktorze.}
 {313}{}{Wrócê, gdy bêdê mieæ wiêcej pieniêdzy, doktorze. Do widzenia}
-{314}{}{Wrócê, gdy wydobêdê sk¹dœ pancerz bojowy, doktorze. Do widzenia.}
+{314}{}{Wrócê, gdy wydobêdê sk¹dœ Pancerz Bojowy, doktorze. Do widzenia.}
 {315}{}{Raczej nie chcê tego robiæ w tej chwili. Do widzenia, doktorze.}
 {316}{}{Musisz mieæ implanty os³onowe typu Phoenix zanim bêdê móg³ wszczepiæ ci ulepszon¹ wersjê. Ale powiem ci, co ci to powinno daæ. Ulepszenie powinno w sumie daæ ci 10% odpornoœci na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 48000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich rozpraszaczy ciep³a pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹daæ nieco bry³owato, trochê jak przetuczony knur.}
 {317}{}{Ulepszone implanty os³onowe typu Phoenix powinny w sumie daæ ci 10% odpornoœci na obra¿enia cieplne (od ognia, lasera i plazmy) - ponad to, co zapewnia jakakolwiek inna zbroja, któr¹ nosisz. Operacja zabiera kilka dni i kosztuje 48000$. Dodatkowo ucierpi na tym twoja Charyzma. Wciœniêcie tych wszystkich rozpraszaczy ciep³a pod twoj¹ skórê spowoduje, ¿e bêdziesz wygl¹d¹æ nieco bry³owato, trochê jak przetuczony knur. Mo¿emy zaczynaæ?}

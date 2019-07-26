@@ -8,14 +8,14 @@
 {107}{}{Hast du Stimpaks? Ich möchte gern welche kaufen.}
 {108}{}{Wer bist du?}
 {109}{}{Einem Freund von mir fehlt die Milz. Kannst du ihm helfen?}
-{110}{}{Was kannst du mir über diesen Ort verraten?}
-{111}{}{Wiedersehn.}
+{110}{}{Was kannst du mir über diesen Ort hier sagen?}
+{111}{}{Tschüß.}
 {112}{}{Laß mich einen Blick darauf werfen. Hmm. Ja. Ich werde dir das natürlich berechnen.}
 {113}{}{Wieviel?}
-{114}{}{Schon gut.}
+{114}{}{Vergiss es.}
 {115}{}{Ich kann heilen... aber nur gegen Bezahlung, wenn du verstehst.}
 {116}{}{Wieviel?}
-{117}{}{Schon gut.}
+{117}{}{Vergiss es.}
 {118}{}{Wer ich bin? Ich bin Dr. Fung. Ich lehre und heile.}
 {119}{}{Dr. Fung? Kennst du Doc Holliday?}
 {120}{}{Sehr erfreut. Ich suche Heilung.}
@@ -28,30 +28,29 @@
 {127}{}{Wahrscheinlich. Ich muß jetzt gehen. Bis dann.}
 {128}{}{Das macht 100 Dollar.}
 {129}{}{In Ordnung.}
-{130}{}{Schon gut.}
+{130}{}{Vergiss es.}
 {131}{}{Scheint was Ernstes zu sein. Das kostet 200 Dollar.}
 {132}{}{In Ordnung.}
-{133}{}{Schon gut.}
+{133}{}{Vergiss es.}
 {134}{}{Das sind schwere Verletzungen. Für nur 300 Dollar stehen dir meine Dienste zur Verfügung.}
 {135}{}{In Ordnung.}
-{136}{}{Schon gut.}
+{136}{}{Vergiss es.}
 {137}{}{Ich befürchte, daß ich für so schwere Verletzungen  400 Dollar verlangen muß.}
 {138}{}{In Ordnung.}
-{139}{}{Schon gut.}
+{139}{}{Vergiss es.}
 {140}{}{Setz dich lieber hin, bevor ich dir meinen Preis nenne. Verkrüppelte Gliedmaßen kosten 600 Dollar.}
 {141}{}{In Ordnung.}
-{142}{}{Schon gut.}
-
+{142}{}{Vergiss es.}
 {158}{}{Was? Du hast das Geld nicht? Was glaubst du denn, wie ich leben soll, wenn ich umsonst heile?}
 {159}{}{Hast du Stimpaks?}
-{160}{}{Nein danke.}
+{160}{}{Nein, danke.}
 {161}{}{Es war mir ein Vergnügen, mit dir Geschäfte zu machen.}
 {162}{}{Danke.}
 {163}{}{Dein Angebot ist leider inakzeptabel.}
-{164}{}{Was hältst du davon?}
+{164}{}{Wie wär's damit?}
 {165}{}{Das ist alles, was ich dir anbieten kann. Bis dann.}
 {166}{}{Bist du verletzt? Ts-ts. Dieses alte Hausmittel wird helfen.}
-{167}{}{O-kay!}
+{167}{}{O-K!}
 {168}{}{}
 {169}{}{Wir sind fertig. Geh jetzt und sei vorsichtig!}
 {170}{}{Tanke!}
@@ -76,10 +75,10 @@
 {189}{}{[Weiter]}
 {190}{}{Zum Wiederaufbau nahmen wir alles, was wir finden konnten. Um unsere Wissenschaftler und unsere Technologie beneidet uns heute die ganze Welt. Wir bauen eine neue Zivilisation auf, ganz anders als es dieser grauenvolle Meister tat.}
 {191}{}{Aha. Ich habe noch weitere Fragen.}
-{192}{}{Danke, Wiedersehn.}
+{192}{}{Danke. Tschüß.}
 {193}{}{Natürlich kann ich das. Und weil du Doc Holliday kennst, werde ich es aus reiner Freundschaft machen. Bitte deinen milzlosen Freund, hierher zu kommen, dann werde ich ihm eine neue einsetzen.}
 {194}{}{Danke! Ich habe weitere Fragen.}
-{195}{}{Danke!}
+{195}{}{Danke auch!}
 {196}{}{Das ist kein Problem. Allerdings kostet es 1000 Dollar und zwar im voraus. Bist du einverstanden?}
 {197}{}{Ja.}
 {198}{}{Nein.}
@@ -90,7 +89,6 @@
 {203}{}{Auf Wiedersehen.}
 {204}{}{Ich behandle keine Feinde meines Volkes. Tut mir sehr leid.}
 {205}{}{Ehrenwerter Herr, ich empfehle dir, einen Arzt aus deinem Kult aufzusuchen.}
-
 {206}{}{Was weißt du über Rüstungsimplantate?}
 {207}{}{Ich habe den Artikel über gepanzerte Implantate mitverfaßt. Alles, was ich brauche ist mein Können und deine Materialien. Was für Implantate willst du?}
 {208}{}{Was für welche gibt es denn?}
@@ -124,6 +122,5 @@
 {236}{}{OK.}
 {237}{}{Alles klar! Du bist... gestärkt. Denk dran... wenn du zu deinem nunmehr nicht ganz so tollen Aussehen nicht auch noch häßliche Narben haben willst, dann darfst du den Schorf nicht aufkratzen.}
 {238}{}{Danke, Doc. Bis dann.}
-
 {239}{}{Ich habe das Geld für die Milz.}
 {240}{}{Bist du wieder an Implantaten interessiert?}

@@ -9,7 +9,7 @@
 {108}{}{Dobra, idê przejœæ tê próbê.}
 {109}{}{[westchnienie] }
 {110}{}{. IdŸ do œwi¹tyni. Ukoñcz próbê. Nie wracaj tu wiêcej! To rozkaz Starszej. IdŸ!}
-{111}{}{Moja iœæ.}
+{111}{}{Ja iœæ.}
 {112}{}{Wybacz mi, }
 {113}{}{, ale nie mogê ciê przepuœciæ. Jeœli chcesz wróciæ do wioski, musisz ukoñczyæ próbê, która czeka na ciebie w œwi¹tyni.}
 {114}{}{Rozumiem. Do zobaczenia.}

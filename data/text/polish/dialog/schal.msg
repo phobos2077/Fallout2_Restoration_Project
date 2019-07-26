@@ -5,7 +5,7 @@
 {104}{}{}
 {105}{}{Tak.}
 {106}{}{Nie.}
-{107}{}{Miej oczy otwarte.}
+{107}{}{Miej oczy szeroko otwarte.}
 {108}{}{Trzymaæ siê razem ludzie!}
 {109}{}{Nie oci¹gaæ siê ch³opaki.}
 {110}{}{Super. Bierz je. ProwadŸ je do ch³opaków z Redding!}
@@ -16,6 +16,4 @@
 {115}{}{Có¿, mieliœmy troszkê pecha, ale uda³o nam siê. Oto 2000$, na które siê umówiliœmy.}
 {116}{}{Cholera, doskonale ci posz³o! Oto 1000$ premii dla ciebie. To i 2000$ razem daje twoj¹ zap³atê. Niech Redding lepiej dzisiaj w nocy uwa¿a!}
 {117}{}{Dalej pod¹¿asz ju¿ beze mnie. Dobrze siê z tob¹ podró¿owa³o.}
-
-#added by killap
 {118}{}{Nigdy nie widzia³em gorszego konwojenta. Spadaj st¹d!}

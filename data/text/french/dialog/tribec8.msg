@@ -1,22 +1,18 @@
 {100}{}{Tu vois un pêcheur.}
 {101}{}{Tu vois une pêcheuse.}
-
 {102}{}{Il transporte un pieu aiguisé pour la pêche.}
-{103}{}{Elle semble occuper à cuisiner.}
-{104}{}{Salut.}
-
-
-{200}{}{Tu n'es pas bienvenu ici.}
+{103}{}{Elle a l'air très occupée à cuisiner.}
+{104}{}{Salutations.}
+{200}{}{Ta personne n'est pas la bienvenue ici.}
 {201}{}{Les esprits ne t'aiment pas.}
-{202}{}{Va-t'en étranger.}
+{202}{}{Va-t-en étranger.}
 {203}{}{Pourquoi nous harcèles-tu ?}
-{204}{}{Bienvenue guerrier.}
-{205}{}{Tu seras toujours bienvenu ici.}
-{206}{}{les esprits t'acceptent comme l'un des nôtres.}
-{207}{}{Merci pour ton aide.}
-{208}{}{Je pensais que les étrangers étaient mauvais. Ce n'est visiblement pas le cas...}
-{209}{}{Ne fais pas ça.}
-
+{204}{}{Bienvenue.}
+{205}{}{Ta personne sera toujours la bienvenue ici.}
+{206}{}{Les esprits t'acceptent comme l'un des nôtres désormais.}
+{207}{}{Merci de nous avoir aidés.}
+{208}{}{Je pensais que les étrangers étaient maléfiques. Ce n'est pas le cas...}
+{209}{}{Ne fais pas ça !}
 {300}{}{Excuse-moi, mais pourrais-tu me faire une petite faveur ? Je suis un peu débordé et je ne sais pas si je peux laisser cette marmite sans surveillance.}
 {301}{}{Bien sûr. De quoi as-tu besoin ?}
 {302}{}{Je suis également très occupé. Peut-être un peu plus tard.}
@@ -36,20 +32,13 @@
 {316}{}{Oui, le voilà.}
 {317}{}{Non, pas encore. Je reviendrai quand j'aurai les trois ballots de bois.}
 {318}{}{Es-tu prêt à m'aider ?}
-{319}{}{Oui. Que veux-tu ?}
+{319}{}{Bien sûr. De quoi as-tu besoin ?}
 {320}{}{Non, j'ai encore besoin de temps. Salut.}
 {321}{}{Non et je ne le serai pas. Occupe toi de tes propres problèmes. Au revoir.}
-
-#added in RP 1.3 - Node004
 {330}{}{Aucune réelle utilité ? Alors pourquoi ne me l'as-tu pas donné tout de suite ? [Murmure :] Sale con.}
-
-#dumb dialogue
 {400}{}{Koi toi besoin ?}
 {401}{}{Ooo ! Toi faire mon mangé préféré !}
-
 {410}{}{Moi regarder.}
 {411}{}{Moi avoir bois. Héhé... Bois.}
-
 {420}{}{D'accord. Salut !}
-
 {500}{}{Enfoiré d'esclavagiste !}

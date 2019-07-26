@@ -1,13 +1,9 @@
 {100}{}{Du siehst einen sehr hyperaktiven, kleinen Jungen.}
 {101}{}{Du siehst Little Todd.}
-
-#random floats
 {200}{}{BOOM!!! Ich liebe Explosionen!}
 {201}{}{Bam-bam! Ich jage Mutanten!}
 {202}{}{Ich wünsche, ich könnte mehr Explosionen sehen!}
 {203}{}{Alles sollte explodieren!}
-
-#dialogue
 {300}{}{Können sie etwas in die Luft jagen, mein Herr?}
 {301}{}{Wenn ich groß bin, werde ich die Welt beherrschen!}
 {302}{}{Ich bin nicht gerne hier. Ich will an die Ostküste ziehen!}

@@ -1,5 +1,5 @@
 {100}{}{Widzisz mê¿czyznê o czerwonej twarzy i przyjaznym wygl¹dzie.}
-{101}{}{To jest Duppo. Pracuje w Stowarzyszeniu Hodowców Byd³a.}
+{101}{}{It's Duppo. He runs the Stockman's Association.}
 {102}{}{Ten krêpy cz³owiek ma wiecznie zarumienion¹ twarz i strzechê rzadkich, jasnych w³osów na g³owie. Poruszaj¹c siê lekko utyka.}
 {103}{}{Witaj. Nie przypominam sobie, ¿ebym widzia³ ciê kiedyœ w tej okolicy, a to oznacza, ¿e nie jesteœ w³aœcicielem rancza. Szukasz pracy czy chcesz coœ kupiæ?}
 {104}{}{Co dla ciebie?}
@@ -14,7 +14,7 @@
 {113}{}{No dobra, chyba siê nadasz. Szukamy ochrony dla karawany prowadz¹cej braminy do Redding. Zap³ata wynosi $2000 minus kara za byd³o utracone przed dotarciem na miejsce. Jeœli ciê to interesuje, b¹dŸ jutro pod bram¹ Westina. Nie przyjdziesz, to nie pójdziesz. Stoi?}
 {114}{}{Ja przyjdziesz.}
 {115}{}{Nie podoba. Ja nie chcieæ.}
-{116}{}{Brzmi nieŸle.}
+{116}{}{Brzmi uczciwie.}
 {117}{}{Eee tam, nie chcê iœæ do Redding.}
 {118}{}{No to nie ma tu dla ciebie pracy. Wieœ to niespokojne miejsce. Nie ma tu miejsca dla wymoczków. }
 {119}{}{Coœ jeszcze?}
@@ -31,7 +31,6 @@
 {130}{}{To wiceprezydent. Tyle wiem, ale nie umiem powiedzieæ wiele wiêcej. Prawie bez przerwy siedzi w Domu Prezydenckim. Rzadko wychodzi, w szczególnoœci teraz, z tymi wszystkimi k³opotami na g³owie.}
 {131}{}{Carlson. Du¿y pan wódz. Mieszka du¿y dom. To wszystko.}
 {132}{}{Przykro mi, sezon na karawany z byd³em ju¿ siê skoñczy³. PrzyjdŸ za kilka miesiêcy.}
-
 {133}{}{Dobra, dobra... mo¿na jeszcze zrobiæ w tym mieœcie jak¹œ szybk¹ kasê?}
 {134}{}{Byæ mo¿e. Ale powiedzmy, ¿e w³adze nie chcia³yby wiedzieæ o tego rodzaju mo¿liwoœci.}
 {135}{}{Chêtnie zap³acê za pewn¹ informacjê.}
@@ -54,7 +53,5 @@
 {152}{}{Czy aby nie wchodzisz w jakiœ konflikt z prawem?}
 {153}{}{Tak trzymaæ, ju¿ prawie ci siê uda³o.}
 {154}{}{W porz¹dku, jeszcze tylko trochê, naprawdê.}
-
 {155}{}{B¹dŸ jutro pod bram¹ Westina. Nie przyjdziesz, to nie pójdziesz, rozumiesz?}
-
 {156}{}{Mamy zamiar poprowadziæ kolejny spêd byd³a do Redding. Jak radzisz sobie z broni¹?}

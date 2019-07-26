@@ -24,7 +24,7 @@
 {123}{}{::Respiration sifflante::}
 {124}{}{::Toux-toux::}
 {125}{}{<Eurkkk>}
-{126}{}{C'est la dernière fois que je bois la saloperie d'eau de cette ville, ça, c'est sûr !}
+{126}{}{Dernière fois que je bois la saloperie d'eau de cette ville, ça, c'est sûr.}
 {127}{}{Bizarre que je ne sois pas déjà en train de rayonner...}
 {128}{}{Saloperie d'Anti-Rad, ça me file la courante...}
 {129}{}{Merci. C'est sympa de ta part de m'aider... Je pouvais pas me permettre de payer l'Autodoc.}

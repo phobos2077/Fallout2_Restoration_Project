@@ -45,7 +45,7 @@
 {144}{}{Tu crois vraiment ?}
 {145}{}{Oui Jack, c'est la vérité.}
 {146}{}{Bien entendu. Que crois-tu ? Que je mens ?}
-{147}{}{Je ne sais pas.}
+{147}{}{Je n'sais pas.}
 {148}{}{Ne la laisse pas gagner, Jack.}
 {149}{}{C'est ta chance. Sois un homme. Tiens-lui tête.}
 {150}{}{Va te faire foutre. Tu racontes n'importe quoi. Tu te fous de moi !}

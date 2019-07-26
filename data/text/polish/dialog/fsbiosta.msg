@@ -3,9 +3,9 @@
 {102}{}{Widzisz dzia³aj¹cy terminal komputerowy.}
 {103}{}{Witamy. Proszê potwierdziæ swoj¹ to¿samoœæ.}
 {104}{}{[Oooch! Jakie fajne migaj¹ce œwiate³ka!]}
-{105}{}{[Zgadnij has³o]}
+{105}{}{[Zgadnij has³o.]}
 {106}{}{INTLVR-Dnky-Pnch-98790}
-{107}{}{[W³am siê do komputera]}
+{107}{}{[W³am siê do komputera.]}
 {108}{}{Wyloguj siê.}
 {109}{}{Dane do znalezienia: - program botaniczny - program genetyczny - program kseno}
 {110}{}{Program botaniczny.}
@@ -14,8 +14,8 @@
 {113}{}{Ostatnie Noty Personalne.}
 {114}{}{Wy³¹cz stacjê robocz¹.}
 {115}{}{Has³o nieprawid³owe. Proszê skontaktowaæ siê z administratorem systemu. Do widzenia.}
-{116}{}{[W³am siê do komputera]}
-{117}{}{[OdejdŸ]}
+{116}{}{[W³am siê do komputera.]}
+{117}{}{[OdejdŸ.]}
 {118}{}{Intruz wykryty, alarm aktywowany. Wy³¹czenie systemu. Mi³ego dnia ¿yczê.}
 {119}{}{[dalej]}
 {120}{}{[Po dwudziestu minutach odkrywasz, ¿e pocz¹tkowe wyniki botanicznego rozpraszania radiacji s¹ nieobiecuj¹ce. Dr Sheng wyhodowa³ roœlinn¹ formê ¿ycia odporn¹ na promieniowanie - z nieprzyjemnymi skutkami ubocznymi. Uzyskana roœlinna forma ¿ycia uwa¿ana jest za zbyt niebezpieczn¹. Sheng nalega na dalsze badania w tym kierunku i po³¹czenie ich z programem genetycznym.]}
@@ -45,7 +45,5 @@
 {142}{}{[OdejdŸ.]}
 {143}{}{[Twoje uderzenie piêœci¹ w klawisze uruchamia odpowiednie has³o... twoje szczêœcie jest niesamowite!]}
 {144}{}{[Dalej.]}
-
-
 {145}{}{Ten komputer nie odpowiada na ¿adne komendy.}
 {146}{}{Nie znajdujesz ¿adnego miejsca, gdzie mo¿na by to w³o¿yæ.}

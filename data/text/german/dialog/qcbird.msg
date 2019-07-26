@@ -12,7 +12,7 @@
 {110}{}{Ich bin hier, um dich umzubringen.}
 {111}{}{Nur weiter, Soldat. Weiter so. Ihr Jungs macht großartige Arbeit. Wir sind bereit für
  jedes unvorhergesehene Ereignis, das vielleicht eintritt oder nicht.}
-{112}{}{Was?}
+{112}{}{Häh?}
 {113}{}{Äh, ja. Also, ich setze meine Patrouille fort. Auf Wiedersehen.}
 {114}{}{Hmm, sag mal, wie schreibt man Kartoffel? Mit 'H' oder ohne?}
 {115}{}{Hmm, sag mal, wie schreibt man Übernahme? Mit 'H' oder ohne?}
@@ -23,10 +23,10 @@
 {120}{}{Ohne natürlich.}
 {121}{}{Aber natürlich, klar. Jeder loyale Bürger dieser großartigen Vereinigten Staaten würde
  das gleiche tun.}
-{122}{}{Warum das?}
+{122}{}{Und warum?}
 {123}{}{Ich muß was erledigen. Auf Wiedersehen.}
 {124}{}{Nur weiter so, Soldat. Die Zukunft wird besser sein.}
-{125}{}{Was meinst du damit?}
+{125}{}{Was meinst du denn damit?}
 {126}{}{Nicht für dich. Ich rotte alle eingebildeten Schleimköpfe in der Enklave aus und du bist
  der nächste.}
 {127}{}{Ach ja. Egal. Wiedersehn.}

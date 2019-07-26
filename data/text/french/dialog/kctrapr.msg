@@ -2,9 +2,8 @@
 {101}{}{Tu vois un citoyen de Klamath.}
 {102}{}{Tu vois un squatteur.}
 {103}{}{Tu vois un habitant des forêts.}
-{104}{}{Tu vois un trappeur.}
+{104}{}{Tu vois un chasseur.}
 {105}{}{Tu vois un chasseur.}
-
 {110}{}{Hé, hé ! Alors, tu es des nôtres maintenant ?}
 {111}{}{Il n'y a plus rien à voler ici.}
 {112}{}{Trapper Town a des rats chaque jour un peu plus gros. Certains se tiennent même debout.}
@@ -22,7 +21,6 @@
 {124}{}{On ne veut pas de toi par ici.}
 {125}{}{C'est quoi ton problème ?}
 {126}{}{<Bla-bla-bla> Il n'y a qu'une sorte de bon tribal, et c'est... <Bla-bla-bla>}
-
 {130}{}{Cette partie de la ville est réservée aux professionnels.}
 {131}{}{Hum, on dirait que tu ne saurais pas trouver un gecko même s'il te mordait.}
 {132}{}{Je suis surpris que tu aies réussi à venir jusqu'ici en un seul morceau.}
@@ -42,7 +40,6 @@
 {146}{}{Si les Hommeinsectes se montrent ici, les rats les mangeront. Hé, Hé !}
 {147}{}{Mais oui, je vous dis qu'il y a des galeries souterraines à Klamath. Il faut me croire.}
 {148}{}{Tout s'écroule dans ces bâtiments.}
-
 {150}{}{On dirait que tu sais bien t'orienter dans les bois.}
 {151}{}{La chasse aux geckos, c'est dangereux, mais ça gagne bien.}
 {152}{}{Je déteste tous ces rats. Ils sont trop intelligents pour se laisser prendre au piège.}
@@ -56,7 +53,6 @@
 {160}{}{Souviens-toi, si tu vends trop de peaux de gecko en même temps, les prix vont baisser.}
 {161}{}{Un jour, j'aimerais avoir une arme à longue portée.}
 {162}{}{Je vous jure que j'ai vu des Hommeinsectes près des pâturages de Brahmines, à l'Est de la ville. }
-
 {170}{}{Je détestais ces rats. Je regrette pas qu'ils soient partis.}
 {171}{}{La chasse aux geckos, c'est dangereux mais ça paie.}
 {172}{}{Fais gaffe aux geckos dorés. Ils sont deux fois plus vicieux que les autres.}
@@ -69,7 +65,6 @@
 {179}{}{Il y a longtemps que j'ai pas entendu la voix sinistre des rats dans les grottes. J'me demande où elle est passée ?}
 {180}{}{Hé, te fous pas de moi, mais j'crois que le Dieu des rats est mort.}
 {181}{}{Il paraît que le Dieu des rats est mort. Pas que je crois à des trucs comme ça.}
-
 {200}{}{Tu vois une personne à peine dégrossie, chaussée de bottes de cuir.}
 {201}{}{Tu vois une personne visiblement habituée au grand air.}
 {202}{}{Tu vois une personne portant des vêtements grossiers et reprisés.}

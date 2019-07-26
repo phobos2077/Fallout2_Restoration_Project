@@ -30,7 +30,7 @@
 {129}{}{Bonjour, ma soeur. Tu cherches du boulot ?}
 {130}{}{Ouais. Je viens te rendre visite.}
 {131}{}{Boulot ? Quel genre de boulot ?}
-{132}{}{Euh, je ne faisais que passer. Au revoir.}
+{132}{}{Euh, je faisais juste un tour. Au revoir.}
 {133}{}{C'est pas mignon, ça. L'air si timide et tout. Ca sera $60 pour un tour avec moi, mon chou.}
 {134}{}{Ce coup-ci, tu tiendras peut-être un peu plus longtemps, mon chou. Comme ça, tu en auras plus pour tes $60.}
 {135}{}{Vas-y doucement. Tu vas te payer du bon temps pour tes $60.}
@@ -84,7 +84,6 @@
 {183}{}{Eh bien, ça peut aider si ton nez n'est pas très sensible. Ces mineurs ne sont pas très portés sur l'eau et le savon.}
 {184}{}{Vraiment ? C'est peut-être pas mon truc, après tout. Merci quand même. Au revoir.}
 {185}{}{Je sais pas comment tu fais, mais j'imagine que t'as du mal à le supporter. Au revoir.}
-# Begin Seraph's Code
 {186}{}{[Fannie donne l'impression qu'un poids énorme vient de s'envoler de ses épaules.] Hé c'est toi ! Lou m'a raconté ce que tu as fait. Le truc qu'elle m'a filé à boire m'a rendu malade, mais je ne ressens plus aucun besoin de Jet à présent. [Elle t'embrasse sur la joue.] Je ne sais pas comment je pourrais te remercier... Hmm il y a bien un *moyen*. Chaque fois que tu te sentiras un peu seul, viens ici, ce sera gratuit. [Elle te fait un clin d'oeil.]}
 {187}{}{Je m'en souviendrai. Merci, Fannie.}
 {188}{}{Merci encore. N'oublie pas, c'est sur le compte de la maison pour toi. [Elle te fait un clin d'oeil.]}
@@ -93,9 +92,5 @@
 {191}{}{Tu as un peu de temps libre ?}
 {192}{}{Reviens quand tu veux ! C'est toujours un plaisir de faire des affaires régulières.}
 {193}{}{[Terminé]}
-
 {200}{}{Tu as versé l'antidote du Jet dans le verre de Fannie Mae.}
-# End Seraph's Code
-
-
 {210}{}{Très bien, voici $60. Que dirais-tu d'un p'tit tour supplémentaire ?}

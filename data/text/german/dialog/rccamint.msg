@@ -42,7 +42,7 @@
 {141}{}{Ich bin unschuldig.}
 {142}{}{Ich hab nix getan.}
 {143}{}{Sheriff? Ich muß mal für kleine Jungs.}
-{144}{}{Was zum Teufel willst du denn?}
+{144}{}{Was zum Teufel willst du?}
 {145}{}{Ich laß euch nicht miteinander kämpfen.}
 {146}{}{Hab mich nur gefragt, was hier los ist.}
 {147}{}{Ich und meine Jungs bringen diesen Morningstar-Törtchen 'n paar nützliche Dinge bei. Und mit der lästernden
@@ -51,7 +51,7 @@
 {149}{}{Ach so. Tja, das kann ich nicht zulassen. Ihr müßt jetzt aufhören damit.}
 {150}{}{Wir hatten bloß die Nase voll davon, daß diese Stinker die Luft in unserer Bar verpestet haben.}
 {151}{}{Das reicht aber nicht. Ich kann euch nicht kämpfen lassen.}
-{152}{}{Tja, das hört sich nach 'nem ernsten Problem an. Kann ich euch nicht übelnehmen. Viel Glück.}
+{152}{}{Na, das hört sich allerdings nach einem Problem an. Das kann ich dir nicht übelnehmen. Wiedersehn.}
 {153}{}{Ach ja? Und wie willste uns aufhalten?}
 {154}{}{Ich bring den Ersten um, der die Faust schwingt.}
 {155}{}{Ich bitte euch ganz nett. Dann lade ich meine Waffe und warte auf eine Gelegenheit
@@ -88,7 +88,4 @@
  Nimm uns mit, Sheriff.}
 {179}{}{Das hört sich schon besser an.}
 {180}{}{Nee, jetzt isses zu spät. Auf euch beide pell ich mir 'ne Wurst.}
-
-# Begin Seraph's Code
-{181}{}{Keine Angst; Heut Abend fang ich keinen Ärger an.}
-# End Seraph's Code
+{181}{}{Don't worry; I won't be startin' any trouble tonight.}

@@ -11,7 +11,7 @@
 {109}{}{Verteufelt billiger Whiskey! Die setzen einem hier den allerübelsten Fusel vor.}
 {110}{}{Sch...! War keine Absicht, wollt dich nicht bekleckern. Hier, ich wisch's weg. Tut mir
  echt leid.}
-{111}{}{Laß mich!}
+{111}{}{Faß mich nicht an!}
 {112}{}{Ich hab von dir gehört. Bitte hau mich nicht.}
 {113}{}{Neu in der Stadt? Es heißt, Merk ist auf der Suche nach ein paar zähen Burschen.}
 {114}{}{Was bist denn du für einer, so'n Schlägertyp? Geh mir aus den Augen!}
@@ -24,7 +24,7 @@
 {120}{}{Und ich sag zu ihm, "Paß auf", sag ich...}
 {121}{}{Probier mal die geröstete Maulwurfsratte. Spezialität des Hauses.}
 {122}{}{Hallo. Was bist du für ein Sternzeichen?}
-{123}{}{Wenn du Arbeit suchst, Fremdling, geh zu den Viehzüchtern.}
+{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
 {124}{}{Mist! Hast du das gesehen?}
 {125}{}{Oh Mann, ich glaub ich werd' krank.}
 {126}{}{Für mich nichts mehr.}

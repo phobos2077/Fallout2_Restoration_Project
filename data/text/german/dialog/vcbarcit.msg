@@ -3,7 +3,6 @@
 {101}{}{Du siehst einen Bürger von Vault City.}
 {102}{}{Du siehst einen Bürger in einem hellen blauen Overall. Es sieht wie Vaultbewohner-Overall aus, aber es ist keine
  Nummer hinten drauf.}
-
 {103}{}{::Beifall::}
 {104}{}{Es ist der Held! Schau!}
 {105}{}{Wie ich gesagt habe! Es ist der Held, hier, in Vault City!}
@@ -19,9 +18,10 @@
 {115}{}{Scheint, als ob mehr und mehr Outsiders ihren Weg in dieses Gemäuer finden...}
 {116}{}{Ich hoffe wirklich, daß Du einen Tagesausweis hast.}
 {117}{}{Scheint, als ob sie in letzter Zeit für so ziemlich *jeden* Outsider einen Tagesausweis ausstellen...}
-{118}{}{Ich habe von Deinen mutigen Taten gehört. Du hast Vault City einen großen Dienst geleistet...und der Welt.}
-{119}{}{Dein Kampf gegen die Enklave hat selbst die Erstbürgerin beeindruckt.}
-{120}{}{Ich habe gehört, daß Du soweit nach Süden bis San...Fran...Cisco gereist bist. Ist das wahr?}
+{118}{}{Ich habe von Deinen mutigen Taten gehört. Du hast Vault City einen großen Dienst erwiesen...und der Welt.}
+{119}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
+{120}{}{Ich habe gehört, du seist bis ganz runter in den Süden, bis nach San...Fran...zisco
+ gereist. Stimmt das?}
 {121}{}{Vielleicht *sollte* Vault City Outsider begrüßen. }
 {122}{}{Ist das wahr? Hat die alte Weltregierung immer noch Krieg geführt?}
 {123}{}{Du solltest Deine Reisen im  Vault City-Computer festhalten, damit andere darüber lesen können.}
@@ -52,7 +52,7 @@
 {146}{}{Brauchst Du eine Bleibe, während Du in der Stadt bist?}
 {147}{}{Dem Rat liegen unsere Interessen am Herzen.}
 {148}{}{Wir müssen darauf achten, unsere schöne Stadt sauber zu halten.}
-{149}{}{Unsere Diener? Oh, wir benutzen sie für untergeordnete Aufgaben.}
+{149}{}{Die Diener? Oh, wir benutzen sie für untergeordnete Aufgaben.}
 {150}{}{Dieses Treffen des Rates gestern waren sehr produktiv. Wir haben eine *Menge* von Listen erstellt. Wir hier in
  Vault City lieben es, Listen zu erstellen.}
 {151}{}{Ja?}
@@ -68,4 +68,3 @@
 {161}{}{Die Diener? Oh, wir benutzen sie für untergeordnete Aufgaben.}
 {162}{}{Ja, ich kann riechen... äh, sehen, daß Du ein Outsider bist.}
 {163}{}{Du bist ein Outsider? Wie putzig.}
-

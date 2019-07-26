@@ -38,7 +38,5 @@
 {137}{}{Oh. Euh, tu vas bien ?}
 {138}{}{Oh... hé bien je... hmmmm. Tu... tu vas bien ?}
 {139}{}{Je leur ai dit : "Il faut des panneaux de signalisation", que j'ai dit ! Mais m'ont-ils écouté ? Nooon... N'écoutons pas le vieux Bosselé !}
-
-# Player float
 {200}{}{Oh, fait chier !}
 {201}{}{Ho, ho. Moi avoir percuté homme-qui-pue.}

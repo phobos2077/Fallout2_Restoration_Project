@@ -1,4 +1,4 @@
-{100}{}{Du siehst eine Händlerin.}
+{100}{}{Du siehst einen Händler.}
 {101}{}{Du siehst Jenna, die Händlerin.}
 {102}{}{Du siehst eine schöne Ladenbesitzerin.}
 {103}{}{Hallo! Ich bin Jenna. Kann ich dir helfen?}
@@ -15,7 +15,7 @@
 {113}{}{Gut. Laß mal sehen.}
 {114}{}{}
 {115}{}{OK.}
-{116}{}{Sonst noch etwas?}
+{116}{}{Noch irgendwas?}
 {117}{}{Ja.}
 {118}{}{Nein.}
 {119}{}{Tja, schönen Tag noch.}

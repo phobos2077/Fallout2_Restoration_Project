@@ -2,5 +2,4 @@
 {101}{}{C'était formidable... mais il ne la méritait pas.}
 {102}{}{<>nif> <>nif>}
 {103}{}{Pourquoi je lis encore ce torchon ?}
-
 {200}{}{A part une sensation de chaleur, ce livre ne t'aura rien apporté de bien utile.}

@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kchild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Du siehst eines der Kinder von Klamath.}
 {101}{}{Du siehst eines der Kinder von Klamath.}
-
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
-
 {150}{}{Friß mich nicht!}
 {151}{}{Iiihh! Der schwarze Mann!}
 {152}{}{Papa sagt, daß du böse bist.}
@@ -44,7 +19,6 @@
 {166}{}{Mami, Mami, Mami!}
 {167}{}{Laß mich in Ruh!}
 {168}{}{Du stinkst!}
-
 {170}{}{Hey da.}
 {171}{}{Magst du mit mir spielen?}
 {172}{}{Steckst du dir wirklich einen Knochen durch die Nase?}
@@ -65,7 +39,6 @@
 {187}{}{Mein Hund liebt Dörrfleisch.}
 {188}{}{Ich hab 'nen Glitzerstein}
 {189}{}{Hast du meinen unsichtbaren Freund gesehen?}
-
 {190}{}{Darf ich zu deinem Stamm gehören?}
 {191}{}{Du bist nett.}
 {192}{}{Du siehst komisch aus.}
@@ -100,10 +73,6 @@
 {221}{}{Magst du mich?}
 {222}{}{Bist du verheiratet?}
 {223}{}{Eins, zwei, drei, uuiiih!}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Älteste}
 {1001}{}{Gründer}
 {1002}{}{Vaultbewohner}
@@ -116,7 +85,6 @@
 {1009}{}{Heilpulver}
 {1010}{}{Brücke}
 {1011}{}{Mynoc}
-
 {1100}{}{Die Älteste ist unsere Mutter und unsere Führerin.}
 {1101}{}{Unsere große Ahne, der wir unser Wissen zu verdanken haben.}
 {1102}{}{Die erste, der gegen das Chaos gekämpft und gesiegt hat.}

@@ -11,15 +11,15 @@
 {110}{}{Bonjour citoyen. Que puis-je faire pour toi ?}
 {111}{}{Bonjour. Bienvenue à la Cité de l'Abri. Que puis-je faire pour toi ?}
 {112}{}{Frazz-urb-luuw !}
-{113}{}{[Partir]}
+{113}{}{Dégage !}
 {114}{}{Qui es-tu ?}
 {115}{}{Où suis-je ici ?}
 {116}{}{Je pense que ton assistant, Skeev, est impliqué dans des affaires illégales.}
-{117}{}{Rien aujourd'hui, merci.}
+{117}{}{Rien pour aujourd'hui, merci.}
 {118}{}{Eh bien, je vais devoir dire deux mots aux gardes à l'entrée. Il semblerait qu'ils laissent entrer N'IMPORTE QUI dans la Cité de l'Abri ces jours-ci !}
 {119}{}{M'man. Môman ? Mammmman.}
-{120}{}{[Partir]}
-{121}{}{Imbécile.}
+{120}{}{Dégage !}
+{121}{}{Imbécile !}
 {122}{}{*Maman*, tu dis ? Comme c'est fascinant. Pourquoi ne retournes-tu pas à l'entrée raconter tout ça à tes amis les étrangers ?}
 {123}{}{D'accoooord !}
 {124}{}{En fait, maintenant que j'y pense, tu ferais mieux de laisser tes armes et ton armure ici, par mesure de sécurité pour la Cité de l'Abri.}
@@ -35,23 +35,23 @@
 {134}{}{Que veux-tu ?}
 {135}{}{Citééé ? Moi entrer ?}
 {136}{}{Hewooo ?}
-{137}{}{[Partir]}
+{137}{}{Dégage !}
 {138}{}{J'aimerais retourner dans la cité.}
 {139}{}{Je voulais te poser quelques questions...}
 {140}{}{Ca ne fait rien.}
 {141}{}{Arrête de m'embêter, andouille.}
 {142}{}{Moi pas ANDOUILLE. Toi ANDOUILLE.}
-{143}{}{[Partir]}
+{143}{}{Dégage !}
 {144}{}{Ecoute. Ca peut peut-être s'arranger...}
 {145}{}{Heu, au revoir, alors.}
 {146}{}{On t'a mis à la porte de la Cité de l'Abri pour une bonne raison. Pas de deuxième chance.}
 {147}{}{Un autre ? Qu'est-il arrivé au premier ?}
 {148}{}{MOI ENTRER. MAINTENANT.}
 {149}{}{S'iou plaît ?}
-{150}{}{[Partir]}
+{150}{}{Dégage !}
 {151}{}{Ecoute, tout ça n'était qu'un malentendu.}
 {152}{}{C'est que je ne l'ai pas sur moi. Tu ne peux pas m'en délivrer un autre ?}
-{153}{}{Bon tant pis.}
+{153}{}{Laisse tomber alors.}
 {154}{}{Laisse tomber.}
 {155}{}{Je peux, mais le prix est de $50 pour chaque passe pour un jour que j'émets après le premier.}
 {156}{}{D'accord. Voilà l'argent.}
@@ -82,13 +82,13 @@
 {181}{}{Eh bien, je dois parler à la Première citoyenne.}
 {182}{}{Qui est la Première citoyenne ?}
 {183}{}{C'est quoi ton travail, exactement ?}
-{184}{}{Merci du renseignement. Au revoir.}
+{184}{}{Merci pour l'information. Au revoir.}
 {185}{}{Bien sûr. Tout le monde veut avoir une audience avec la Première citoyenne. Malheureusement, elle n'accorde son temps qu'aux affaires de première importance.}
 {186}{}{J'ai bien peur que tu n'aies pas l'air assez important pour disposer de son temps.}
 {187}{}{C'est pourquoi il est vital que je lui parle. Je lui toucherai deux mots à propos de l'efficacité du bureau de douane, tu peux compter sur moi. Mais si tu ne peux pas m'aider, alors...}
 {188}{}{Les informations que je possède sont de la plus haute importance. Vraiment.}
 {189}{}{A ta place, je changerais de ton. Je dois la voir. Tout de suite.}
-{190}{}{C'est pas grave alors.}
+{190}{}{Ca ne fait rien.}
 {191}{}{Oh, eh bien dis-le-moi et je m'empresserai d'apporter les nouvelles personnellement à la Première citoyenne.}
 {192}{}{Je n'ai pas dit que je ne pouvais rien faire, c'est juste que... Eh bien... quel est le but de ta visite ?}
 {193}{}{Heu... J'ai des informations qui... pourraient aider à établir un réseau de... hum, tous les abris existants dans tout le pays. Voilà.}
@@ -101,14 +101,14 @@
 {200}{}{Tant pis. J'avais d'autres questions à te poser...}
 {201}{}{C'est pas grave. Je reviendrai une autre fois.}
 {202}{}{Eh bien... Effectivement, ça a l'air très important. Voici ton passe pour un jour. Il n'est valable que pour la journée. A la nuit tombée, il te faudra quitter la cité. Les citoyens se réservent également le droit d'annuler un passe pour un jour s'ils le jugent nécessaire, alors tiens-toi bien.}
-{203}{}{Je comprends. Puis-je te poser d'autres questions ?}
+{203}{}{Compris. Puis-je te poser d'autres questions ?}
 {204}{}{Merci.}
 {205}{}{Ne me fais pas perdre plus de temps. Du balai.}
 {206}{}{Je te conseille de partir maintenant ou j'appelle les gardes.}
 {207}{}{NON pas PARTIR ou moi FRAPPER TOI.}
-{208}{}{[Partir]}
+{208}{}{Dégage !}
 {209}{}{Je n'irai nulle part. Essaie un peu de me faire bouger, allez vas-y.}
-{210}{}{Ca va, ça va.}
+{210}{}{Très bien, très bien.}
 {211}{}{Puis-je te demander où tu t'es procuré ces faux papiers de citoyenneté ? Ces numéros de série sont les mêmes que ceux des papiers volés le mois dernier.}
 {212}{}{Si je te le dis, tu me donneras un passe pour un jour ?}
 {213}{}{C'est ton assistant, Skeev. C'est lui qui me les a vendus.}
@@ -146,7 +146,7 @@
 {245}{}{Bien sûr, citoyen. Que voulais-tu savoir d'autre ?}
 {246}{}{Que voulais-tu savoir d'autre ?}
 {247}{}{Frazz-urb-luuw !}
-{248}{}{[Partir]}
+{248}{}{Dégage !}
 {249}{}{Où suis-je ici ?}
 {250}{}{Quel genre de cargaisons recevez-vous ici ?}
 {251}{}{Ton assistant, Skeev, est impliqué dans des trafics illégaux.}
@@ -154,9 +154,8 @@
 {253}{}{J'ai trouvé la raison pour laquelle les livraisons de Redding ont diminué.}
 {254}{}{J'ai trouvé le camp des Pillards.}
 {255}{}{J'ai trouvé le camp des Pillards et je les ai tous tués.}
-{1255}{}{J'ai trouvé le repaire des Pillards et j'ai convaincu leur guide de ne plus les aider. Ils ne seront plus capables de trouver leur chemin sans lui.}
 {256}{}{Que peux-tu me dire sur ton chef ?}
-{257}{}{Rien aujourd'hui, merci.}
+{257}{}{Rien pour aujourd'hui, merci.}
 {258}{}{C'est tout pour aujourd'hui. Merci.}
 {259}{}{Ca dépend d'où vient la caravane. On a des cargaisons qui arrivent de beaucoup d'endroits... Des domestiques de la Fosse, de l'uranium des Collines Brisées et du métal de Redding.}
 {260}{}{Que sais-tu au sujet de la Fosse ?}
@@ -184,44 +183,43 @@
 {282}{}{Je sais pourquoi les livraisons en provenance de Redding ont ralenti.}
 {283}{}{Que sais-tu au sujet de la Fosse ?}
 {284}{}{Que peux-tu me dire sur les Collines Brisées ?}
-{285}{}{Je vois. Mais dis-moi...}
-{286}{}{Merci du renseignement. Au revoir.}
+{285}{}{Je vois. J'ai d'autres questions à poser...}
+{286}{}{Merci pour l'information. Au revoir.}
 {287}{}{C'est vrai ? Excellente nouvelle ! Va le dire tout de suite au Conseiller McClure.}
 {288}{}{C'est vrai ? Excellente nouvelle ! Je te donne un passe pour un jour pour que tu puisses aller parler au Conseiller McClure. Ce passe n'est valable que pendant la journée. A la nuit tombée, tu dois quitter la cité. Vas-y maintenant.}
 {289}{}{Puis-je te poser une autre question avant de partir ?}
-{290}{}{J'y vais.}
+{290}{}{Je le ferai.}
 {291}{}{Je vais aller tout de suite lui parler.}
 {292}{}{C'est intéressant que tu parles de ça. Les prix ont augmenté dernièrement... Tu me diras, ça reste toujours dans nos moyens. Nous obtenons sûrement un meilleur prix que Gecko. Ces sales charognards ont plus besoin d'uranium que nous.}
 {293}{}{Que sais-tu au sujet de la Fosse ?}
 {294}{}{Que sais-tu au sujet de Redding ?}
-{295}{}{Je vois. Mais dis-moi...}
+{295}{}{Je vois. J'ai d'autres questions à poser...}
 {296}{}{Hummm. Intéressant. Merci pour ces renseignements.}
 {297}{}{Notre Première citoyenne c'est Joanne Lynette. Elle a fait beaucoup de bien pour notre cité pendant ses dix ans de service.}
-{298}{}{Par exemple ?}
+{298}{}{C'est-à-dire ?}
 {299}{}{Elle a réussi à maintenir notre cité à l'abri de la corruption du monde extérieur. Malgré la RNC qui fait pression pour que nous fassions partie de la République et les attaques des pillards, la cité est restée forte. Mais maintenant il y a des problèmes avec Gecko...}
 {300}{}{Qu'est-ce que la RNC ?}
 {301}{}{Qui sont ces pillards ?}
 {302}{}{Quel genre de problème ?}
-{303}{}{Puis-je te poser encore d'autres questions ?}
+{303}{}{Je peux vous poser d'autres questions ?}
 {304}{}{C'est moche. Peut-être pourras-tu m'en dire plus une autre fois.}
 {305}{}{La RNC c'est la « République de Nouvelle Californie ». Ils disent vouloir unifier toute la Californie sous un seul gouvernement, mais nous ne sommes pas dupes, leur stratagème est minable.}
 {306}{}{*Stratagème* ? Est-ce une arme que cette RNC -- ?}
 {307}{}{Stratagème ? En es-tu sûr ?}
 {308}{}{Même s'ils étaient sincères, pourquoi devrions-nous partager nos ressources avec les égorgeurs et les voleurs qui vivent à l'extérieur de nos murs ? Je suis *pas* d'accord.}
 {309}{}{Je vois. Que disais-tu sur les pillards déjà ?}
-{310}{}{Quels problèmes la Cité a-t-elle avec Gecko ?}
-{311}{}{Je peux te poser d'autres questions ?}
+{310}{}{Quels problèmes la Cité de l'Abri a-t-elle avec Gecko ?}
+{311}{}{Je peux vous poser d'autres questions ?}
 {312}{}{Je n'ai pas besoin d'en savoir plus. Au revoir.}
 {313}{}{Nous avons récemment subi un regain d'attaques de pillards d'une violence inhabituelle. Il y en avait dans le passé, mais rien comparé à maintenant. J'ai peur que ces pillards finissent par passer au travers de nos tourelles-laser.}
 {314}{}{Vous n'aurez plus à vous inquiéter de ces pillards. Je les ai anéantis.}
-{1314}{}{Vous n'aurez plus à vous inquiéter de ces pillards. J'ai convaincu leur guide de partir et sans son aide, ils ne retrouveront plus leur chemin parmi les montagnes.}
 {315}{}{Que peux-tu me dire d'autre sur ces pillards ?}
 {316}{}{Oh, je regrette d'entendre ça. Que disais-tu à propos de la RNC ?}
 {317}{}{Quels problèmes la Cité de l'Abri a-t-elle avec Gecko ?}
 {318}{}{Ca a l'air grave. Je te souhaite bonne chance.}
 {319}{}{Pas grand-chose. Nous n'arrivons pas à trouver d'où ils attaquent. Le citoyen Sergent Stark en sait peut-être plus, mais en ce moment il est au Centre de Corrections, à l'intérieur de la cité.}
 {320}{}{Si je poursuis ces pillards, me laisseras-tu entrer dans la Cité ?}
-{321}{}{J'avais d'autres questions...}
+{321}{}{J'ai d'autres questions...}
 {322}{}{Je vais voir ce que je peux apprendre sur ces pillards.}
 {323}{}{Merci pour les informations.}
 {324}{}{Certainement. Si tu trouves le camp où sont basés les pillards, je te donnerai un passe pour un jour.}
@@ -231,7 +229,7 @@
 {328}{}{C'est vrai ? Excellente nouvelle ! Je te donne un passe pour que tu puisses aller le dire à la Première citoyenne. Ce passe n'est valable que pendant la journée. A la tombée de la nuit, tu dois quitter la cité. Vas-y maintenant.}
 {329}{}{Avant de partir, puis-je te poser encore une question ?}
 {330}{}{J'y vais.}
-{331}{}{Merci. Au revoir}
+{331}{}{Merci. Au revoir.}
 {332}{}{Oh, heu, ce n'est pas à moi de le dire. Tu devrais parler à la Première citoyenne pour les affaires de ce genre.}
 {333}{}{Que disais-tu à propos de la RNC ?}
 {334}{}{Que disais-tu à propos des pillards ?}
@@ -264,3 +262,5 @@
 {361}{}{Excellent. Voilà... Mais je te répète qu'il n'est valable qu'en journée. Le soir, tu dois quitter la ville. Les citoyens se réservent également le droit d'annuler les privilèges de ce passe à tout moment, alors tiens-toi bien.}
 {362}{}{Compris. Puis-je te poser d'autres questions ?}
 {363}{}{Merci.}
+{1255}{}{J'ai trouvé le repaire des Pillards et j'ai convaincu leur guide de ne plus les aider. Ils ne seront plus capables de trouver leur chemin sans lui.}
+{1314}{}{Vous n'aurez plus à vous inquiéter de ces pillards. J'ai convaincu leur guide de partir et sans son aide, ils ne retrouveront plus leur chemin parmi les montagnes.}

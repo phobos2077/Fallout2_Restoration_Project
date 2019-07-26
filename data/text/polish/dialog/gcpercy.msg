@@ -35,24 +35,23 @@
 {134}{}{Ca³a przyjemnoœæ po mojej stronie, Percy. Dziêkujê za lekarstwa.}
 {135}{}{Ekstra - ³atwa robota za du¿¹ kasê. To mi siê podoba.}
 {136}{}{A bo widzisz... mia³em przyjaciela imieniem Woody. Ten Woody, on lubi sobie pospaæ jak nikt inny. Co gorsza, Woody lubi równie¿ podró¿owaæ. Ot - nie potrafi usiedzieæ na ty³ku d³u¿ej ni¿ dwa dni.}
-{137}{}{W porz¹dku.}
+{137}{}{Dobra.}
 {138}{}{Có¿, w tych stronach nie jest to jakiœ szczególny problem, ale z tego co s³ysza³em, Woody wybra³ siê na spacer do Nory. Wiesz gdzie to jest?}
 {139}{}{Tak, wiem gdzie le¿y Nora. Mów dalej.}
 {140}{}{Niestety, nie wiem gdzie le¿y Nora.}
 {141}{}{Ca³kiem ³atwo tam dotrzeæ. Patrz: Zaznaczê j¹ na tej twojej fikuœnej mapce.}
 {142}{}{Hej, tylko ostro¿nie! W porz¹dku, mów dalej.}
 {143}{}{Có¿, tak czy inaczej, jak ju¿ mówi³em - w Gecko nie jest to wielki problem, ale obcy ludzie nie s¹ przyzwyczajeni do naszego wygl¹du.}
-{144}{}{I co z tego?}
+{144}{}{No i?}
 {145}{}{Co jest? Nie kojarzysz jeszcze?! Bojê siê, ¿e Woody uci¹³ sobie ma³¹ drzemkê gdzieœ w Norze - w koñcu to spory kawa³ drogi - a nieprzyzwyczajeni mieszkañcy pochowali biedaka ¿ywcem! Szukam w³aœnie kogoœ, kto zechcia³by go tam poszukaæ.}
 {146}{}{I...?}
 {147}{}{Có¿, brakuje mi go. Ot co. (Percy mruga trochê intensywniej) Och, rozumiem, chcesz wiedzieæ czy ci siê to op³aci?}
-
 {148}{}{Te s³owa bardzo pozytywnie wp³ywaj¹ na moj¹ motywacjê. Mów dalej.}
 {149}{}{No tak... wiem gdzie mo¿na znaleŸæ ca³e mnóstwo przedwojennego towaru - g³ównie oryginalnych Anty-Radów i Rad-Xu. Mi siê ju¿ nie przydadz¹, ale dla g³adkoskórych s¹ na pewno sporo warte. To jak - pomo¿esz mi czy nie? Zap³acê ci dopiero jak bêdê mia³ pewnoœæ, ¿e Woody jest bezpieczny.}
 {150}{}{Ca³e mnóstwo? To znaczy ile?}
-{151}{}{Dobra, umowa stoi. Odezwê siê wkrótce.}
-{152}{}{Przykro mi. Chwilowo nie mogê ci pomóc.}
-{153}{}{Zastanowiê siê jeszcze. Do widzenia.}
+{151}{}{Dobra, zrobiê to. Odezwê siê do ciebie nied³ugo.}
+{152}{}{Obawiam siê, ¿e chwilowo nie mogê ci pomóc.}
+{153}{}{Jeszcze siê zastanowiê. Do widzenia.}
 {154}{}{Wiêcej, ni¿ dasz radê kiedykolwiek zu¿yæ. To jak - umowa stoi?}
 {155}{}{Dobra, zrobiê to. Odezwê siê do ciebie nied³ugo.}
 {156}{}{Obawiam siê, ¿e chwilowo nie mogê ci pomóc.}

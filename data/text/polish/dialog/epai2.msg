@@ -1,9 +1,9 @@
 {100}{}{Witamy w Komputerze Kontroli Robotów AOŒ. Co chcesz zrobiæ?}
 {101}{}{Polecenia dla robotów.}
 {102}{}{Uruchom diagnostykê.}
-{103}{}{OdejdŸ.}
+{103}{}{[OdejdŸ]}
 {104}{}{!B£¥D! !B£¥D! NAPOTKANO PROBLEM, ZAMYKAM SYSTEM!}
-{105}{}{Wróæ do g³ównego menu.}
+{105}{}{Wróæ do Menu G³ównego}
 {106}{}{Procedura diagnostyczna...b³¹d obwodu p³yty g³ównej....sekcja czwarta...luŸny przewód.}
 {107}{}{GOTOWE}
 {108}{}{Nie jesteœ w stanie tego naprawiæ.}

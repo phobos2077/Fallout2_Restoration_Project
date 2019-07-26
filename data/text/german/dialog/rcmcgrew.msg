@@ -7,7 +7,7 @@
 {104}{}{Da soll mich doch einer. Die Evolution funktioniert wohl auch rückwärts.}
 {105}{}{Du hast wohl nicht alle Nadeln an der Tanne, was?}
 {106}{}{Ich habe keine Zeit für dich. Du hast wohl auch 'n Knick in der Antenne.}
-{107}{}{Du hast ja wohl auch ein paar Schrauben locker, was?}
+{107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Hallo, du da. Ich bin der gefährliche Dan McGrew. Mir gehört die Morningstar-Mine hier. Was kann ich für
  dich tun?}
 {109}{}{Was brauchst du von mir?}
@@ -79,7 +79,7 @@
  können. Macht aber die Arbeiter glücklich, also kann ich nicht klagen. Stehen in Doppelreihen Schlange vor Doc
  Johnsons Praxis. Wenn es noch etwas mehr gäbe, würde ich mir aber langsam Sorgen machen.}
 {155}{}{Wer ist Doc Johnson?}
-{156}{}{Interessant. Laß mich dich noch etwas fragen, Dan.}
+{156}{}{Interessant. Laß mich dich noch was fragen, Dan.}
 {157}{}{Ich muß dann mal los, Dan. Wiedersehn.}
 {158}{}{Mist; es gibt einfach zuviel Jet in dieser Stadt. Wir ertrinken in dem Zeug. Niemand will mehr arbeiten;
  die wollen einfach nur high sein. Ich kann meine Erzquoten nicht halten, solange die Hälfte meiner Arbeiter high von Jet ist.

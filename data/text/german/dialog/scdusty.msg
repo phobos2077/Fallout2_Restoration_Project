@@ -5,11 +5,11 @@
 {103}{}{Womit kann ich dienen?}
 {104}{}{Bist du nicht der Knabe, der Jack fertiggemacht hat? Hast du gut gemacht. Was möchtest
  du?}
-{105}{}{Klar.}
-{106}{}{Was zu trinken.}
+{105}{}{Sicher.}
+{106}{}{Trinken.}
 {107}{}{Wer ist der große Typ da drüben?}
 {108}{}{Was kann man in dieser Stadt so unternehmen?}
-{109}{}{Wiedersehen.}
+{109}{}{Wiedersehn.}
 {110}{}{Das ist Hoss, der Sohn von Präsidentin Tandi. Wird ziemlich schnell unberechenbar, wenn
  er getrunken hat. An deiner Stelle würd ich aufpassen, daß ich ihm nicht zu nahe komme.}
 {111}{}{Das war Hoss, der Sohn von Präsidentin Tandi. Junge, Junge, dem hast du's aber gegeben!}
@@ -31,10 +31,9 @@
 {123}{}{Wer ist der Große da?}
 {124}{}{Danke.}
 {125}{}{Willst du was drinken?}
-{126}{}{Aber sicher.}
+{126}{}{Sicher.}
 {127}{}{Nein.}
 {128}{}{Ich geb dir einen aus! Ich hatte das schon seit Jahren vor!}
-{129}{}{Ich hätte da ein paar Fragen.}
+{129}{}{Ich hab da ein paar Fragen...}
 {130}{}{Gut! Bis dann.}
-
 {131}{}{Junge, du hast Hoss wirklich kräftig den Hintern versohlt! Was kann ich dir bringen?}

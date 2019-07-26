@@ -20,7 +20,6 @@
 {119}{}{Uch, mi³o by³o pana poznaæ, panie Wielki Ananas... czy jakoœ tak.}
 {120}{}{Hmm, od tych wszystkich tajemnic chce mi siê spaæ. Lepiej ju¿ pójdê. ¯egnam.}
 {121}{}{Zerwij siê na nogi!}
-
 {127}{}{Dzisiaj, wœród œcian tego pokoju, wy³¹cznie dla twych oczu... auto-styczna mumia egipska!}
 {128}{}{Mumia?}
 {129}{}{Mumia? Hmm, ciekawe kto móg³by siê na to nabraæ.... Nie, nikt nie jest taki g³upi.}
@@ -53,16 +52,13 @@
 {156}{}{Jednog³owa bramina? Jasne, drugiego takiego kitu ju¿ mi nie wciœniesz! ¯egnaj szarlatanie.}
 {157}{}{Uda³o ci siê uwolniæ Woodego.}
 {158}{}{Chyba wolê pos³uchaæ historii o duchach.}
-
 {200}{}{Wiem o rzeczach, o których zwyk³ym œmiertelnikom nawet siê nie œni³o. Ajjjaaa! Njarlot... Upss, sorki (heh, heh). Mam trochê rzeczy przywiezionych z daleka. Mogê opowiedzieæ ci o duchu, jak równie¿ pokazaæ auto-styczn¹ mumiê, która przyby³a prosto z Egiptu w sarkofagu, który stoi obok.}
 {201}{}{Opowiedz mi o mumii. Wprost umieram z ciekawoœci.}
 {202}{}{Mo¿e historia o duchu? Masz mo¿e colê albo kubek kakao?}
 {203}{}{Nie mam czasu na takie g³upoty.}
-
 {300}{}{Tak wiêc [daje znak, ¿eby podejœæ bli¿ej], niegdyœ ¿y³a sobie potê¿na królowa, rz¹dz¹ca wszystkimi ziemiami otaczaj¹cymi miasto. Potrafi³a utrzymaæ swoj¹ w³adzê dziêki jakiemuœ tajemniczemu amuletowi, z którym nigdy siê nie rozstawa³a. No i jak?}
 {301}{}{Uch, mo¿e byæ. No dobra. Tak wiêc królowa mia³a *magiczny* amulet. Och, opowiadaj dalej, bo chyba nie wytrzymam tego napiêcia [ziewniêcie].}
 {302}{}{Dobra, na dzisiaj starczy. Na razie.}
-
 {400}{}{Jak chcesz. No wiêc, z³y czarownik otru³ m³od¹ ksiê¿niczkê i zabra³ jej amulet. Od tamtej pory, b³¹ka siê w pokoju obok szukaj¹c amuletu. Có¿, eee, w ka¿dym razie przynajmniej w godzinê wiedŸm. Dlatego zawsze zamykam te drzwi. Mo¿na siê przestraszyæ, co?}
 {401}{}{Duch ksiê¿niczki szukaj¹cej amuletu znajduje siê w pokoju obok? To wszystko? Nie mogê uwierzyæ, ¿e sprzedajesz *to* jako opowieœæ. Ju¿ wolê pos³uchaæ o tej g³upiej mumii, któr¹ podobno masz.}
 {402}{}{Dobra, na dzisiaj starczy. Na razie.}

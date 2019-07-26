@@ -1,16 +1,4 @@
-#
-######################################################################
-#
-# Text labels and messages used by EDITOR.C
-#
-# (These MUST match "text message" enumeration on the top of EDITOR.C)
-#
-######################################################################
-#
-#
-#
-
-{100}{}{VALIDER}
+{100}{}{TERMINER}
 {101}{}{OPTIONS}
 {102}{}{ANNULER}
 {103}{}{IMPRIMER}
@@ -25,12 +13,11 @@
 {112}{}{POINTS COMP.}
 {113}{}{Niveau}
 {114}{}{Exp}
-{115}{}{Niveau suiv.}
+{115}{}{Niveau suivant :}
 {116}{}{PTS PERSO.}
 {117}{}{COMPETENCES}
-{118}{}{Tu dois utiliser tous tes points de } # 1
-{119}{}{personnage avant de lancer le jeu !}         # 2
-#
+{118}{}{Tu dois utiliser tous tes points de }
+{119}{}{avant de lancer le jeu !}
 {120}{}{Points personnage}
 {121}{}{Nombre de points personnage disponibles pouvant être ajoutés à l'une des statistiques de base.}
 {122}{}{Niveau suivant}
@@ -43,73 +30,58 @@
 {129}{}{Indicateur répertoriant le type et le nombre de créatures que tu as éliminées ou que tu as vu se faire tuer.}
 {130}{}{Points de compétence}
 {131}{}{Utilise tes points de compétence pour accroître le niveau d'une compétence. Il faut plus de points pour l'accroître à mesure qu'il s'élève. La maîtrise d'une compétence demande du temps et des efforts.}
-#
-{132}{}{Niveau maximum.}        # 1
-{133}{}{Impossible de l'augmenter.}  # 2
-{134}{}{Niveau minimum.}        # 1
-{135}{}{Impossible de décroître.}  # 2
+{132}{}{Niveau maximum.}
+{133}{}{Impossible de l'augmenter.}
+{134}{}{Niveau minimum.}
+{135}{}{Impossible de décroître.}
 {136}{}{Pas assez de point(s) de compétence.}
 {137}{}{Base :}
 {138}{}{ATOUTS}
 {139}{}{QUALITES FACULTATIVES (TRAITS)}
-{140}{}{Tu possèdes déjà les trois } # 1
-{141}{}{atouts personnels maximaux !}               # 2
-{142}{}{Tu dois sélectionner tous les atouts }  # 1
-{143}{}{personnels avant de lancer le jeu !}       # 2
+{140}{}{Tu possèdes déjà les deux }
+{141}{}{atouts personnels maximaux !}
+{142}{}{Tu dois sélectionner tous les atouts }
+{143}{}{avant de lancer le jeu !}
 {144}{}{Atouts personnels}
 {145}{}{Les atouts personnels correspondent aux spécialités de ton personnage. Chaque atout personnel donne +20% et augmente deux fois plus vite. Tu dois choisir trois atouts.}
 {146}{}{Qualités facultatives (traits)}
 {147}{}{Les qualités facultatives (traits) décrivent ton personnage plus en détail. Toutes les qualités ont des effets positifs et négatifs. Pour créer ton personnage, tu peux choisir au maximum deux qualités.}
-{148}{}{Tu possèdes déjà les deux } # 1
-{149}{}{qualités maximales !}                     # 2
+{148}{}{Tu possèdes déjà les deux }
+{149}{}{qualités maximales !}
 {150}{}{Compétences}
 {151}{}{Correspondent aux connaissances acquises. Augmentent selon l'expérience ou les événements. Tes performances sont meilleures quand le niveau de la compétence est élevé.}
-#
 {152}{}{SELECTIONNE UNE APTITUDE}
 {153}{}{SELECTIONNE UNE QUALITE (TRAIT)}
 {154}{}{RENONCE A UNE QUALITE (TRAIT)}
 {155}{}{CHOISIS UN NOUVEL ATOUT}
 {156}{}{QUALITES (TRAITS)}
-#
-{157}{}{Toutes les statistiques doivent être comprises entre 1 et 10} # 1
-{158}{}{avant de lancer le jeu !}          # 2
-
-# Fallout 2:
-{160}{}{Attention : tu n'as pas changé le nom } # 1
-{161}{}{de ton personnage. Continuer ?}        # 2
-
-{175}{}{Niveau suiv. :}  # Short for Level:
-
-
-#
-# Abbreviated basic stat levels
-#
-{200}{}{Nul}  # Terrible
-{201}{}{Mauv.}    # Bad
-{202}{}{Faible}   # Poor
-{203}{}{Moyen}   # Fair
-{204}{}{Normal}   # Average
-{205}{}{Bon}   # Good
-{206}{}{T. bon} # Very Good
-{207}{}{Super}  # Great
-{208}{}{Exclt} # Excellent
-{209}{}{Héros} # Heroic
-
-#
-# Abbreviated Derived/Non Derived stat names
-#
-{300}{}{PI}
+{157}{}{Toutes les statistiques doivent être comprises entre 1 et 10}
+{158}{}{avant de lancer le jeu !}
+{160}{}{Attention : tu n'as pas changé le nom }
+{161}{}{de ton personnage. Continuer ?}
+{175}{}{Niveau suiv. :}
+{200}{}{Nul}
+{201}{}{Mauv.}
+{202}{}{Faible}
+{203}{}{Moyen}
+{204}{}{Normal}
+{205}{}{Bon}
+{206}{}{T. bon}
+{207}{}{Super}
+{208}{}{Exclt}
+{209}{}{Héros}
+{300}{editor}{PI}
 {301}{}{Points d'action}
-{302}{}{Cla. d'armure}
-{303}{}{Dégâts au Corps à Corps} # non fonctionnel dans Fallout 1/2 - remplacé par la stat ci-dessous
+{302}{editor}{Classe d'armure}
+{303}{}{Dégâts en Corps à Corps}
 {304}{}{Dégâts en Rixe}
 {305}{}{Rés. dégâts}
 {306}{}{Rés. poison}
 {307}{}{Rés. radiations}
-{308}{}{Séquence}
-{309}{}{Vit. guérison}
-{310}{}{Coups critiques}
-{311}{}{Charge max.}
+{308}{editor}{Séquence}
+{309}{editor}{Vit. guérison}
+{310}{editor}{Coups critiques}
+{311}{editor}{Charge max.}
 {312}{}{Empoisonnement}
 {313}{}{Irradiation}
 {314}{}{Blessure à l'oeil }
@@ -117,26 +89,13 @@
 {316}{}{Bras g. estropié}
 {317}{}{Jambe dr. estropiée}
 {318}{}{Jambe g. estropiée}
-
-#
-# Damage info texts
-#
-# Poisoned
 {400}{}{Ton personnage a été empoisonné. Le poison agira un certain temps, jusqu'à ce que le mal soit soigné ou jusqu'à ce qu'il se dissipe.}
-# Radiation
 {401}{}{Ton personnage a été sérieusement irradié. Plus les radiations sont importantes, plus leurs effets sont mortels.}
-# Eye Damage
 {402}{}{Cela signifie que ton personnage a été sérieusement touché à un oeil ou aux deux yeux. Ta perception en sera affectée.}
-# Crippled right arm
 {403}{}{Le bras droit du personnage a été gravement touché et estropié. Lorsqu'un bras est estropié tu ne peux plus utiliser d'armes à deux mains. Lorsque les deux bras sont estropiés, tu ne peux plus utiliser aucune arme pour attaquer.}
-# Crippled left arm
 {404}{}{Le bras gauche du personnage a été gravement touché et estropié. Lorsqu'un bras est estropié tu ne peux plus utiliser d'armes à deux mains. Lorsque les deux bras sont estropiés, tu ne peux plus utiliser aucune arme pour attaquer.}
-# Crippled right leg
 {405}{}{La jambe droite de ton personnage est estropiée.}
-# Crippled left leg
 {406}{}{La jambe gauche de ton personnage est estropiée.}
-
-# Month strings
 {500}{}{janvier}
 {501}{}{février}
 {502}{}{mars}
@@ -149,17 +108,13 @@
 {509}{}{octobre}
 {510}{}{novembre}
 {511}{}{décembre}
-
-#
-# Option menu text
-#
 {600}{}{SAUVEGARDER}
 {601}{}{CHARGER}
 {602}{}{IMPRIMER FICHIER}
 {603}{}{EFFACER}
-{604}{}{ANNULER}
-{605}{}{Veux-tu vraiment supprimer}      # line 1
-{606}{}{ce personnage ?}                 # line 2
+{604}{}{TERMINER}
+{605}{}{Veux-tu vraiment supprimer}
+{606}{}{ce personnage ?}
 {607}{}{ a été sauvegardé}
 {608}{}{ a été chargé}
 {609}{}{existe déjà}
@@ -172,78 +127,44 @@
 {616}{}{IMPRIMER}
 {617}{}{JOUEUR}
 {618}{}{BLANK.GCD}
-
-#
-# ASCII text file printing text
-#
-{620}{}{FALLOUT}                   # Title line 1
-{621}{}{REGISTRE DU PERSONNEL DE L'ABRI 13} # Title line 2
-{622}{}{heures} # Title line 3
-# -
-# -
-#{000}{}{      Force: 00        Points d'impact: 000/000          Séquence: 00}
-#{000}{}{    Perception: 00       Classe d'armure: 000          Vit. guérison: 00}
-#{000}{}{     Endurance: 00     Points d'action: 000       Coups critiques: 000%}
-#{000}{}{      Charisme: 00      Dégâts en rixe: 000          Charge max: 000 lbs.}
-#{000}{}{  Intelligence: 00       Rés. dégâts: 000%}
-#{000}{}{       Agilité 00    Rés. radiations: 000%}
-#{000}{}{          Chance: 00       Rés. poison: 000%}
-#
+{620}{}{FALLOUT}
+{621}{}{REGISTRE DU PERSONNEL DE L'ABRI 13}
+{622}{}{heures}
 {623}{}{ ::: Statistiques :::}
 {624}{}{       Force :}
 {625}{}{        Points d'impact :}
 {626}{}{        Séquence :}
-# -
 {627}{}{     Perception :}
 {628}{}{       Cla. d'armure :}
 {629}{}{        Vit. guérison :}
-# -
 {630}{}{      Endurance :}
 {631}{}{     Points d'action :}
 {632}{}{      Coups critiques :}
-# -
 {633}{}{       Charisme :}
 {634}{}{      Dégâts en rixe :}
 {635}{}{         Charge max :}
-# -
 {636}{}{   Intelligence :}
 {637}{}{       Rés. dégâts :}
-# -
 {638}{}{        Agilité :}
 {639}{}{    Rés. radiations :}
-# -
 {640}{}{           Chance :}
 {641}{}{       Rés. poison :}
-# -
-# -
-#{000}{}{ Name: 01234567890        Age: 00         Gender: Female}
 {642}{}{  Nom :}
 {643}{}{Age :}
 {644}{}{               Sexe :}
 {645}{}{Masc.}
 {646}{}{Fém.}
-#-
-#{000}{}{ Level: 00                 Exp: 000,000    Next Level: 000,000}
 {647}{}{Niveau :}
 {648}{}{                Exp :}
 {649}{}{Niveau suivant :}
-#-
 {650}{}{ ::: Qualités (Traits):::}
 {651}{}{ ::: Aptitudes :::}
 {652}{}{ ::: Karma :::}
-
-#-
 {653}{}{ ::: Compétences :::                ::: Victimes :::}
-#-
 {654}{}{ ::: Inventaire :::}
-#-
 {655}{}{                                      Charge totale :}
 {656}{}{ ::: Dépendances :::}
 {657}{}{ ::: Réputation :::}
-
-#
-# Karma name strings
-#
 {1000}{}{Réputation (générale) }
 {1001}{}{Folie Furieuse !}
 {1002}{}{Champion}
@@ -271,10 +192,6 @@
 {1024}{}{Membre de la Famille Wright}
 {1025}{}{Séparé(e)}
 {1026}{}{Fumeur}
-
-#
-# Karma description strings
-#
 {1100}{}{Statistique reflétant ta réputation générale. Plus cette valeur est élevée, plus on te respecte. Si ta réputation est négative, cela signifie que certains te détestent pour tes actions malveillantes.}
 {1101}{}{Tu as tué beaucoup de gens. Il est préférable de ne pas t'en vanter. Pourtant cela peut aussi t'attirer les faveurs de certaines personnes malveillantes.}
 {1102}{}{Tes actions ont fait de toi un champion. Ta lutte contre le mal et l'infamie est largement reconnue. Cela peut t'attirer les faveurs de personnes honorables.}
@@ -283,7 +200,7 @@
 {1105}{}{Tu dois prendre du Buffout régulièrement pour te sentir bien.}
 {1106}{}{Tu dois prendre des Mentats régulièrement pour te sentir bien.}
 {1107}{}{Si tu n'absorbes pas régulièrement du Psycho, tu souffres. Et si tu souffres, tu fais souffrir les autres.}
-{1108}{}{Ton corps est devenu dépendant de l'Anti-Rad. Bien que ta vie ne soit pas en danger, tu dois en prendre régulièrement.}
+{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
 {1109}{}{Tu as un problème avec la bouteille. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
 {1110}{}{Tu es accro stimulants. Tu dois prendre du Jet régulièrement.}
 {1111}{}{C'est tragique, tu es accro au jeu de cartes Tragic. Tu es constamment à la recherche de nouvelles cartes.}
@@ -302,10 +219,6 @@
 {1124}{}{Tu es un Membre de la Famille Wright. On te connaît, on te respecte, et le chapeau mou te va à ravir.}
 {1125}{}{Ta moitié est partie. J'espère que tu es content(e).}
 {1126}{}{Tu es un fumeur. Ils disent que ça va te tuer, mais tu n'es pas encore mort. De toute façon, c'est une sacrée bonne manière pour mourir dans un monde post-apocalyptique.}
-
-#
-# Town reputations
-#
 {2000}{}{Idolâtré}
 {2001}{}{Aimé}
 {2002}{}{Accepté}
@@ -313,7 +226,6 @@
 {2004}{}{Antipathie}
 {2005}{}{Haï}
 {2006}{}{Diffamé}
-
 {2100}{}{Tout le monde dans le coin aimerait te ressembler. La ville entière te fait fête et te considère comme l'exemple à suivre.}
 {2101}{}{Les gens te saluent, de la voix et du geste, chaque fois qu'ils te voient en ce lieu. Tout le monde a entendu parler de toi, et en bien.}
 {2102}{}{Même si on ne te reçoit pas à bras ouverts, on te gratifie d'un signe de tête quand tu croises quelqu'un dans la rue. Il y a pire, comme traitement.}
@@ -321,10 +233,6 @@
 {2104}{}{Tu viens d'ailleurs, comme tant d'autres par ici. Et tu ne dois pas valoir grand-chose.}
 {2105}{}{Tu as prouvé aux gens du coin que leur défiance initiale à ton égard était justifiée. On te dévisage et on baisse le ton en ta présence. On sait bien que tu n'as rien d'un ange.}
 {2106}{}{On te dévisage, on marmonne, on change de trottoir sur ton passage. Il y en a même qui se retournent et qui crachent par terre. Tout le monde sait bien que tu es la pire vermine qu'on ait jamais vue par ici.}
-
-#
-# Karma status strings
-#
 {3000}{}{Sauveur des Damnés}
 {3001}{}{Gardien du Désert}
 {3002}{}{Bouclier de l'Espoir}
@@ -334,27 +242,15 @@
 {3006}{}{Epée du Désespoir}
 {3007}{}{Fléau du Désert}
 {3008}{}{Enfant du Démon}
-
-#
-# Karma section titles.
-#
 {4000}{}{Réputation}
 {4001}{}{Dépendances}
-
-#
-# Karma section descriptions.
-#
 {4100}{}{Il s'agit de ta réputation en fonction d'un lieu donné.}
 {4101}{}{Tout ce dont tu raffoles (et dépends).}
-
-#
-# Special Demo version only text
-#
-{5000}{}{Imprimer un personnage n'est}   # 1
-{5001}{}{possible que dans la version complète.}   # 2
-{5002}{}{Sauvegarder un personnage n'est}    # 1
-{5003}{}{possible que dans la version complète.}   # 2
-{5004}{}{Charger un personnage sauvegardé n'est } # 1
-{5005}{}{possible que dans la version complète.}   # 2
+{5000}{}{Imprimer un personnage n'est}
+{5001}{}{possible que dans la version complète.}
+{5002}{}{Sauvegarder un personnage n'est}
+{5003}{}{possible que dans la version complète.}
+{5004}{}{Charger un personnage sauvegardé n'est }
+{5005}{}{possible que dans la version complète.}
 {5006}{}{MODE TRICHE}
 {5007}{}{Non disponible dans la démo.}

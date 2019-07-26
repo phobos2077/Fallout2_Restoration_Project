@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Du siehst einen Spieler.}
 {101}{}{Dieser Spieler spielt scheinbar besonders gut.}
 {102}{}{Er scheint zu gewinnen, aber sein ganzes Geld ist auf dem Tisch.}
@@ -7,8 +6,6 @@
 {105}{}{Diese Person hat schon seit einiger Zeit nicht mehr gewonnen.}
 {106}{}{Sie sieht aus, als finge sie gleich an zu heulen und sie scheint fast kein Geld mehr zu haben.}
 {107}{}{Er sieht sehr wütend aus und scheint im großen Stil zu verlieren. }
-
-# 1. PC Killed Becky, NPC are still around (From Where to go)
 {200}{}{Tu mir nicht weh!}
 {201}{}{Nicht schießen!}
 {202}{}{Ich hab kein Geld!}
@@ -16,8 +13,6 @@
 {204}{}{Hat sie dir jemals etwas getan?}
 {205}{}{Ich hab' nichts gemacht!}
 {206}{}{Geh bitte, ich werde nichts sagen.}
-
-# 2. CF: Gambling (From Where to go)
 {300}{}{Ja! Die Würfel lieben mich!}
 {301}{}{Oh, das war knapp.}
 {302}{}{Stör mich nicht, du machst mir sonst meine Glückssträhne kaputt.}
@@ -50,14 +45,10 @@
 {329}{}{Warum passiert das immer mir?}
 {330}{}{Ich kann nicht gewinnen.}
 {331}{}{Ich hasse dieses Spiel.}
-
-# 3. BGF: Becky Dead (From Where to go)
 {400}{}{Verdammt, Becky's war der einzige Ort für Glücksspiele hier!}
 {401}{}{Bleib bloß weg.}
 {402}{}{Nicht schießen!}
 {403}{}{Laß uns bitte allein.}
-
-# 4. BGF: Gambling (From Where to go)
 {500}{}{Nicht da, nicht da, weiter.}
 {501}{}{Weiter, weiter.}
 {502}{}{LOS, JETZT DIE 7!}
@@ -74,8 +65,8 @@
 {513}{}{Fast.}
 {514}{}{Nicht schlecht.}
 {515}{}{Wie ist das denn passiert?}
-{516}{}{Huch!}
-{517}{}{Keine Einsätze mehr, Stop!}
+{516}{}{Hoppla.}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{Das Spiel macht seinem Namen Ehre.}
 {519}{}{Ich brauche nur einen dicken Gewinn.}
 {520}{}{Zahlen!}
@@ -91,10 +82,8 @@
 {530}{}{Ich hasse dieses Spiel!}
 {531}{}{Verdammt! Das war meine Zahl im letzten Dreh!}
 {532}{}{Schon wieder schwarz!?!?}
-
-# 5. CF: Hostile (From Where to go)
 {600}{}{Verschwinde!}
 {601}{}{Warum hast du das getan?}
 {602}{}{Verschwinde!}
 {603}{}{Hör auf, ich bin empfindlich.}
-{604}{}{Das würd ich dir doch nicht antun.}
+{604}{}{I wouldn't do that to you.}

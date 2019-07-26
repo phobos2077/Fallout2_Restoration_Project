@@ -4,8 +4,8 @@
 {103}{}{Wer da?}
 {104}{}{Geh weiter.}
 {105}{}{Was schaust du so?}
-{106}{}{Schieb ab.}
-{107}{}{Rumhängen verboten.}
+{106}{}{Beweg dich.}
+{107}{}{Kein Herumlungern.}
 {108}{}{Ich werde dich melden.}
 {109}{}{Zurück an die Arbeit.}
 {110}{}{Hast du eine Erlaubnis für diese Sektion?}
@@ -42,7 +42,7 @@
 {141}{}{Ganz kühl bleiben, Leute.}
 {142}{}{Wir müssen hier einen Job erledigen.}
 {143}{}{Darauf kannst du wetten, Sarge.}
-{144}{}{Jawohl, Sir.}
+{144}{}{Jawohl.}
 {145}{}{Sektion B, alles klar.}
 {146}{}{Korridor klar.}
 {147}{}{Rückkehr zur Dienststation.}

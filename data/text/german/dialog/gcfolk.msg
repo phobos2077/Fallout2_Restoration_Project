@@ -1,11 +1,9 @@
 {100}{}{Du siehst eine Gestalt, deren Haut stark verbrannt ist.}
 {101}{}{Du siehst einen Ghul-Bürger von Gecko.}
 {102}{}{Du siehst eine Gestalt, deren Haut von Radioaktivität verbrannt ist. Derartige Strahlungskonzentrationen hätten normalerweise alles getötet, aber dieser hier scheint noch ganz munter.}
-
 {110}{}{Die Gestalt, die du siehst, glüht leicht. Die Haut sieht ziemlich verbrannt aus.}
 {111}{}{Du siehst einen verstrahlten Ghul, einen Einwohner von Gecko.}
 {112}{}{Du siehst jemanden, der so hoher Radioaktivität ausgesetzt war, daß der Körper leicht glüht. Derartige Strahlungskonzentrationen hätten normalerweise alles getötet, aber dieser hier scheint noch ganz munter.}
-
 {120}{}{Danke, daß du uns vor Vault City gerettet hast.}
 {121}{}{Wenn du nicht gewesen wärst, hätten uns diese Fanatiker in Vault City umgebracht.}
 {122}{}{Du bist ein Held.}
@@ -16,10 +14,9 @@
 {127}{}{Wenn du uns nicht geholfen hättest, hätte Vault City uns zerstört.}
 {128}{}{Du bist unser Held.}
 {129}{}{Noch mal danke.}
-{130}{}{Danke für deine Hilfe.}
+{130}{}{Danke für die Hilfe.}
 {131}{}{Du bist einfach Irre. Danke.}
 {132}{}{Nicht schlecht für eine Glatthaut.}
-
 {140}{}{Hey, mein glatthäutiger Freund.}
 {141}{}{Willkommen in Gecko.}
 {142}{}{Hallo, mein Freund.}
@@ -32,18 +29,16 @@
 {149}{}{Irgendwann werden andere auch von unsrem Strom profitieren.}
 {150}{}{Ich bin froh, daß nicht alle Glatthäute so sind wie die in Vault City. }
 {151}{}{Wenn die Leute in Vault City wie du wären, hätten wir keine Probleme mit ihnen.}
-
 {160}{}{Hmpf, noch so eine hinterlistige Glatthaut.}
 {161}{}{Hey, Glatthaut.}
-{162}{}{Hallo.}
-{163}{}{Was gibt's?}
+{162}{}{Hey da.}
+{163}{}{Was ist los?}
 {164}{}{Mach keinen Ärger, so lang du in der Stadt bist.}
 {165}{}{Kommst du von weit her?}
 {166}{}{Du siehst aus, als ob du aus Vault City kommst.}
 {167}{}{Wir sind hier zwar tolerant, aber nicht dämlich, Glatthaut.}
 {168}{}{Bleib lieber fern von Vault City. Das sind alles Idioten dort.}
 {169}{}{Hallo. In letzter Zeit war's ja ziemlich trocken.}
-
 {180}{}{War schon recht trocken in letzter Zeit.}
 {181}{}{Verdammtes Unkaut überall.}
 {182}{}{Wegen dem Atomreaktor wird's immer schlimmer mit dem Unkraut.}
@@ -54,7 +49,6 @@
 {187}{}{Gemüse ist gut für dich.}
 {188}{}{Kann bald geerntet werden.}
 {189}{}{Ein bißchen mehr Regen könnte nicht schaden.}
-
 {200}{}{Ich muß diese Brahmin im Auge behalten.}
 {201}{}{Diese Brahmin sind ja so süß. Mir graut schon, wenn ich sie umbringen muß.}
 {202}{}{Mir ist so langweilig.}
@@ -65,7 +59,6 @@
 {207}{}{Jemand hat ihnen letzte Nacht einen Tip gegeben.}
 {208}{}{Manche sind viel niedlicher als andere.}
 {209}{}{Hmm, ich frag mich, warum niemand auf ihnen reitet.}
-
 {220}{}{Hey, Glatthaut.}
 {221}{}{Los, Glatthaut, schmeiß 'ne Runde.}
 {222}{}{Mann, hab ich'n Durst.}
@@ -76,7 +69,6 @@
 {227}{}{Komm, wir singen eins.}
 {228}{}{...Was machen die Köpfe dann? Ich kann Wooz echt nicht verstehn.}
 {229}{}{Was ist ein Apfel?}
-
 {240}{}{Für eine Glatthaut bist du ganz nett.}
 {241}{}{Los, Glatthaut, gib noch 'ne Runde aus.}
 {242}{}{./~ Bier her, Bier her, oder ich fall um.... ./~}
@@ -87,7 +79,6 @@
 {247}{}{Hier sollte mal jemand ein paar Klamotten machen.}
 {248}{}{Ahh, Bier ist was Feines.}
 {249}{}{Das Bier ist spitze. Liegt wohl am Wasser - und an sonstigen Dingen.}
-
 {260}{}{Du bist die beste Glatthaut, die mir je über den Weg gelaufen ist.}
 {261}{}{Mehr Strahlensaft! Mehr Strahlensaft!}
 {262}{}{Noch 'ne Runde, oder Glatthaut?}
@@ -98,11 +89,10 @@
 {267}{}{Ich hab gehört, Chester ist ein Spion aus Vault City.}
 {268}{}{Ich würd mich gern in eine Glatthaut erneuern.}
 {269}{}{Ich schwör, ich hab gesehen, wie nachts irgendwelche Dinge über uns hinweg fliegen.}
-
 {280}{}{Mann, ich liebe dich.}
 {281}{}{Du bist einfach klasse.}
 {282}{}{Wir werden Vault City mit Kernwaffen angreifen, bis es strahlt!}
-{283}{}{./~99 RadAway-Spritzen seh ich im Regal dort sitzen, 99 Spritzen.... ./~}
+{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
 {284}{}{./~ Im Re-ak-tor arbeit' ich, arbeit' ich den ganzen Tag.... ./~}
 {285}{}{Bevor ich dich kennengelernt hab, hätt ich keiner Glatthaut getraut.}
 {286}{}{Scheint, als ob manche Glatthäute ganz OK sind.}
@@ -111,7 +101,6 @@
 {289}{}{Ich bin echt froh, daß unser Reaktor funktioniert.}
 {290}{}{Ich muß einen in der Krone haben. Das Gelaber von Wooz macht langsam Sinn.}
 {291}{}{Ich glaub, ich hab mal einen Apfel gesehen... oder war's 'ne Banane?}
-
 {300}{}{Der Reaktor arbeitet so gut. man kann ihn fast summen hören.}
 {301}{}{Danke, daß du das mit Vault City geregelt hast.}
 {302}{}{Wir werden jetzt jede Menge Strom erzeugen.}
@@ -122,7 +111,6 @@
 {307}{}{Danke, daß du unsren Atomreaktor repariert hast.}
 {308}{}{Der Reaktor schnurrt jetzt wie geölt. Danke.}
 {309}{}{Du bist die beste Glatthaut, die mir je über den Weg gelaufen ist.}
-
 {320}{}{Erneuere Kamerad. Erneuere!}
 {321}{}{Du gehörst zu uns.}
 {322}{}{Hallo, Kamerad. Die Erneuerung steht bevor.}
@@ -133,7 +121,6 @@
 {327}{}{Komm her, dann erneuer ich dich, Kumpel.}
 {328}{}{Man kann wirklich keinen Schritt mehr machen, ohne einem dieser verdammten Okkultisten zu begegnen.}
 {329}{}{Du wirst nie erleben, daß ich eine überdimensionale Ratte verehre.}
-
 {340}{}{Lenny sollte sich deine Verletzungen mal ansehn.}
 {341}{}{Du siehst ja ziemlich fertig aus. Laß dich mal von Lenny durchchecken.}
 {342}{}{Du solltest dich einfach nicht mit Deathclaws anlegen. Schau mal bei Lenny vorbei.}

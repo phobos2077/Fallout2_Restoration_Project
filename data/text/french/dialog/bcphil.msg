@@ -1,4 +1,4 @@
-{100}{}{Tu vois un pillard Khan.}
+{100}{}{Tu vois un pillard des Khans.}
 {101}{}{Tu vois Phil, un garde Khan.}
 {102}{}{Tu vois un jeune homme robuste doté d'une armure métallique. Il est très lourdement armé.}
 {103}{}{Je devrais te tuer sur le champ, mais j'ai envie de savoir ce que tu peux bien avoir à me dire.}
@@ -21,10 +21,10 @@
 {120}{}{Hum. Rien, je pense que je vais y aller maintenant.}
 {121}{}{Tu t'imagines que tu peux venir ici et qu'on va répondre à tes questions ! C'est incroyable ça ! De toute façon, tu vas mourir... et je suis généreux. On garde sa gamine prisonnière dans l'arrière-salle... on s'est bien amusés avec elle... Cette conne d'Elisabeth a essayé de la retrouver, alors on doit garder l'oeil pour ne pas qu'elle s'approche de trop.}
 {122}{}{Toi malade dans ta tête ! Moi enlever ta tête pour soigner.}
-{123}{}{Toi s'amuser avec la fille ?}
+{123}{}{Que veux-tu dire par s'amuser avec la fille ?}
 {124}{}{Oh, moi comprendre. Moi partir maintenant.}
-{125}{}{Espèce de sale mioche, je vais te mettre au lit maintenant.}
-{126}{}{Très bien, amuse-toi bien. Je m'en vais maintenant.}
+{125}{}{Espèce de sale mioche, je vais te mettre au lit maintenant !}
+{126}{}{Très bien. Amuse-toi bien, je m'en vais maintenant.}
 {127}{}{Rends la fille et on pourra tous sortir vivants d'ici.}
 {128}{}{Penses-y au moment de mourir, imbécile.}
 {129}{}{}
@@ -52,6 +52,5 @@
 {151}{}{Espèce de sale mioche, je vais te mettre au lit maintenant !}
 {152}{}{Très bien. Amuse-toi bien, je m'en vais maintenant.}
 {153}{}{Rends la fille et on pourra tous sortir vivants d'ici.}
-
 {154}{}{Alors, te revoilà. On va voir qui s'en sort le mieux.}
 {155}{}{On a tué cette garce de Chrissy et maintenant c'est ton tour !}

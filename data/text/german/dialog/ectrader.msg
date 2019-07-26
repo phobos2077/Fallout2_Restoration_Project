@@ -1,8 +1,8 @@
 {100}{}{Ein Verkäufer.}
 {101}{}{Frank.}
 {102}{}{Ein aalglatter Vertreter.}
-{103}{}{Sei gegrüßt, Freund, ich heiße Frank und hab ein Superangebot für dich. [Er liest
- scheinbar von einer Karte ab und du döst nach einer Weile ein.]}
+{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
+ a card, and after a while you doze off.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Du machst ganz erschöpft die Augen auf, als du merkst, daß dich jemand tritt.] Hast du
  nun Interesse oder nicht?}
@@ -29,7 +29,7 @@
 {117}{}{[Ende]}
 {118}{}{Mist! Die reinste Zeitverschwendung. Los, hau ab!}
 {119}{}{[Ende]}
-{120}{}{Na, da hab ich mir den Mund ja umsonst fransig geredet. $} #continue on 152
+{120}{}{Na, da hab ich mir den Mund ja umsonst fransig geredet. $}
 {121}{}{Jo.}
 {122}{}{Nö.}
 {123}{}{Ach, du schon wieder. Ich hab ganz neue Sachen, Interesse?}
@@ -61,6 +61,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-
 {152}{}{. Willste's jetzt oder nicht.}
 {200}{}{.}

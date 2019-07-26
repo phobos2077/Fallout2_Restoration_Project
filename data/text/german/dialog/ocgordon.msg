@@ -5,14 +5,14 @@
 {104}{}{Schrein?}
 {105}{}{Ich Fragen stellen?}
 {106}{}{Äh... nicht erinnern. Tschüß.}
-{107}{}{Schön, dich kennenzulernen, Gordon. Ich bin} # continued 177
+{107}{}{Schön, dich kennenzulernen, Gordon. Ich bin}
 {108}{}{Das nennst du einen Schrein? Wem auch immer er gewidmet ist, der muß sich im Grab umdrehen!}
 {109}{}{Tut mir leid, dich gestört zu haben. Ich gehe besser.}
 {110}{}{Ja. Ein Schrein ist ein Ort der Verehrung und normalerweise einem Gott, einem Heiligen oder einem anderen mächtigen Wesen gewidmet. }
 {111}{}{Ah. OK. Ich fragen dürfen?}
 {112}{}{OK. Wiedersehn.}
 {113}{}{Natürlich darfst du.}
-{114}{}{Was möchtest du wissen?}
+{114}{}{Was möchtest du denn wissen?}
 {115}{}{Schrein für wen?}
 {116}{}{Wie lang du hier?}
 {117}{}{Todkrallen schlecht?}
@@ -38,8 +38,8 @@
 {137}{}{Es ist dein Leben, das du verschwendest.}
 {138}{}{Du warst also hier, als die Deathclaws hierher kamen?}
 {139}{}{Nein. Vor ein paar Monaten habe ich diesen Ort verlassen, um die Statue des Vaultbewohners zu besichtigen. Sie wurde im Zentrum der NCR  - das ist die New California Republic, östlich von hier - errichtet. Als ich zurückkam, waren die Deathclaws bereits hier. Das war natürlich ein Schock für mich. Ich bin jedoch überzeugt, daß sie nicht dafür verantwortlich sind, was mit meinen Mitbürgern geschehen ist. Wenn du noch mehr darüber wissen möchtest, wende dich an Goris in der Bibliothek.}
-{140}{}{OK, danke.}
-{141}{}{OK. Wieder-sehn.}
+{140}{}{Okay, danke.}
+{141}{}{Okay, Tschüß.}
 {142}{}{Ich werde daran denken.}
 {143}{}{Du brauchst mir nicht zu sagen, wohin ich gehen soll, oder wen ich aufsuchen soll.}
 {144}{}{Danke für deine Hilfe. Ich hab aber noch ein paar Fragen.}
@@ -75,5 +75,4 @@
 {174}{}{Ich vorher schon da? Tut leid. Muß gehn.}
 {175}{}{Ich wollt noch mal mit dir sprechen.}
 {176}{}{Ich wollte nur mal Hallo sagen.}
-
 {177}{}{. Kann ich dir ein paar Fragen stellen?}

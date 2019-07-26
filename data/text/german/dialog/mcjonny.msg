@@ -1,10 +1,9 @@
-{100}{}{Du siehst einen kleinen Jungen.}
+{100}{}{Ein kleiner Junge.}
 {101}{}{Du siehst Jonny.}
 {102}{}{Blondes Haar, blaue Augen, ein typisch amerikanischer Junge.}
-
 {150}{}{Wäääää!}
 {151}{}{Ich will meinen Hund wieder!}
-{152}{}{Winsel... }
+{152}{}{Whimper... }
 {153}{}{Fremder!}
 {154}{}{Komm zu Jonny, Laddie! Ich hab dich vermißt. Danke, daß du meinen Hund zurückgebracht hast.}
 {155}{}{Hallo, dich hab ich hier ja noch nie gesehen.}
@@ -12,7 +11,7 @@
 {157}{}{Wie heißt du, Kleiner?}
 {158}{}{Sag mir, wie du heißt, du kleines Monster.}
 {159}{}{Magst du Süßigkeiten, Kleiner?}
-{160}{}{Hallo noch mal.}
+{160}{}{Hallo.}
 {166}{}{Deine Eltern haben mich geschickt, damit ich dich finde.}
 {168}{}{Hast du schon mit Vegeir gesprochen, ob ich heim darf?}
 {169}{}{Ja. Er sagt, er will, daß deine Eltern herkommen und dich abholen.}
@@ -49,9 +48,7 @@
 {201}{}{Bitte mach schnell. Ich möchte nach Hause.}
 {202}{}{Nein! Ich glaub dir kein Wort! Gib mir meinen Hund zurück! [Wäääää!]}
 {203}{}{Oh nein! Weißt du nicht, daß Rose mit Hundefleisch kocht? Laddie ist bestimmt schon ein Burger.}
-
 {300}{}{Laddie!!!}
-
 {400}{}{Danke, dass du mich gerettet hast.}
 {401}{}{Es ist schön zu Hause zu sein!}
 {402}{}{Wahoo...}

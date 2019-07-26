@@ -1,4 +1,4 @@
-{100}{}{Du siehst eine Wache in weiter Kleidung mit mißtrauisch-gelangweiltem Gesichtsausdruck.}
+{100}{}{Du siehst eine gelangweilte Wache in weiter Kleidung.}
 {101}{}{Du siehst eine Palastwache}
 {102}{}{Du siehst eine Palastwache, die eine gefährlich aussehende Waffe trägt.}
 {103}{}{Geh einfach weiter, es besteht keine Gefahr.}

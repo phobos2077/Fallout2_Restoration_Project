@@ -2,181 +2,180 @@
  ob er mitkriegt, daß du ihn ansiehst.}
 {101}{}{Du siehst Cassidy.}
 {102}{}{Du siehst einen älteren Mann mit tiefen Furchen im Gesicht. Er nickt dir zu.}
-{103}{}{Hallo. Ich habe dich hier noch nicht gesehen, Fremdling. Ich heiß Cassidy. Ich bin hier
+{103}{Cas0103}{Hallo. Ich habe dich hier noch nicht gesehen, Fremdling. Ich heiß Cassidy. Ich bin hier
  der Boß. Was kann ich für dich tun?}
-{104}{}{Hey, wenn das nicht der geheimnisvolle Fremde ist. Was kann ich heute für dich tun?}
+{104}{Cas0104}{Hey, wenn das nicht der geheimnisvolle Fremde ist. Was kann ich heute für dich tun?}
 {105}{}{Urg nurg?}
-{106}{}{[Verschwinde.]}
+{106}{}{Verzieh dich}
 {107}{}{Ich suche die Vault.}
-{108}{}{Versuchst du, hier raus zu kommen?}
+{108}{}{Du suchst einen Weg hier raus?}
 {109}{}{Was gibt's denn hier im Ausschank?}
 {110}{}{Ist hier irgendwas Interessantes los?}
-{111}{}{Im Augenblick nichts, danke.}
-{112}{}{Dir haben sie wohl zu oft auf die Rübe gehauen? Tut mir leid, ich sprech kein
+{111}{}{Heute nichts, danke.}
+{112}{Cas0112}{Dir haben sie wohl zu oft auf die Rübe gehauen? Tut mir leid, ich sprech kein
  Schwachköpfisch.}
 {113}{}{Wack-köff?}
-{114}{}{Vault? Die einzige Vault, die ich kenne, ist in der Stadt. Ein gottverdammtes Loch.
+{114}{Cas0114}{Vault? Die einzige Vault, die ich kenne, ist in der Stadt. Ein gottverdammtes Loch.
  Kann man nicht übersehen, glaub's mir.}
-{115}{}{Was habt ihr hier zu trinken?}
+{115}{}{Was hast du für Drinks auf Lager?}
 {116}{}{Ist hier irgendwas Interessantes los?}
 {117}{}{Danke für die Beschreibung. Tschüß.}
-{118}{}{Bier 20 Dollar, Schluck Whiskey 30 Dollar. Nichts Besonderes. Warum, möchtest du was?}
+{118}{Cas0118}{Bier 20 Dollar, Schluck Whiskey 30 Dollar. Nichts Besonderes. Warum, möchtest du was?}
 {119}{}{Ich suche die Vault.}
-{120}{}{Ich nehme ein Bier.}
-{121}{}{Ich nehme einen Whiskey.}
+{120}{}{Ich nehm ein Bier.}
+{121}{}{Ich nehm einen Whisky.}
 {122}{}{Ist hier irgendwas Interessantes los?}
 {123}{}{Nee, eigentlich nicht. Trotzdem Danke.}
-{124}{}{"Interessantes"? Haha. Freundchen, Vault City ist kein "interessanter" Ort...es sei denn, die Wachen haben Langeweile, dann sollte man sich lieber verziehen. Warum fragst du? Suchst du was in diesem Dreckloch?}
-{125}{}{Was habt ihr hier zu trinken?}
+{124}{Cas0124}{"Interessantes"? Haha. Freundchen, Vault City ist kein "interessanter" Ort...es sei denn, die Wachen haben Langeweile, dann sollte man sich lieber verziehen. Warum fragst du? Suchst du was in diesem Dreckloch?}
+{125}{}{Was hast du für Drinks auf Lager?}
 {126}{}{Ich suche die Vault.}
 {127}{}{So schlimm wird's wohl auch wieder nicht sein hier.}
 {128}{}{Nee, eigentlich nicht. Trotzdem Danke.}
-{129}{}{Bitte schön. Trink. Das hilft dir vielleicht vergessen, wo du dich befindest.}
+{129}{Cas0129}{Bitte schön. Trink. Das hilft dir vielleicht vergessen, wo du dich befindest.}
 {130}{}{So schlimm kann's hier doch wohl auch nicht sein.}
 {131}{}{Danke für den Drink. Ich muß jetzt gehen.}
-{132}{}{Tatsächlich? Also, dann ich muß mich wohl geirrt haben. Schließlich bist DU ja der
+{132}{Cas0132}{Tatsächlich? Also, dann ich muß mich wohl geirrt haben. Schließlich bist DU ja der
  Experte. Hast du die Razzia letzte Woche etwa verpennt?}
 {133}{}{Razzia?}
-{134}{}{Oh ja, es war phantastisch. Eine Wachpatrouille platzte auf der Suche nach "illegalen
+{134}{Cas0134}{Oh ja, es war phantastisch. Eine Wachpatrouille platzte auf der Suche nach "illegalen
  Substanzen" hier herein. Sie traten die Tür ein, zertrümmerten meine ganzen Flaschen und zum
  Schluß haben sie auch noch ein paar von meinen Kunden eingebuchtet.}
 {135}{}{Und was passierte dann?}
 {136}{}{Tut mir echt leid. Bis später.}
-{137}{}{Nachdem sie den einen Typen, Joshua, wegen Widerstand bei seiner Festnahme in die
+{137}{Cas0137}{Nachdem sie den einen Typen, Joshua, wegen Widerstand bei seiner Festnahme in die
  Arrestzelle geschleppt hatten, haben sie mir auch noch ein Bußgeld aufgebrummt, weil sie
  - das mußt du dir mal reinziehen! - ECHTEN Whiskey hier bei mir gefunden haben. Dabei hab ich
  vor drei Monaten eine Genehmigung von Stark erhalten. Diese Schweine.}
 {138}{}{Wow! Was du nicht sagst.}
 {139}{}{Tut mir echt leid. Bis später.}
-{140}{}{Und es kommt noch besser. Jetzt schulde ich den Wachen das Bußgeld und ich mußte bei
+{140}{Cas0140}{Und es kommt noch besser. Jetzt schulde ich den Wachen das Bußgeld und ich mußte bei
  einem Händler 'ne neue Kiste Alkohol zum dreifachen Preis kaufen. Und ich rechne damit, daß die
  Wachen bald wieder auftauchen, nur um mir das Leben zur Hölle zu machen. }
 {141}{}{Wie läuft es denn normalerweise?}
 {142}{}{Na, hoffentlich läuft's demnächst wieder besser. Tschüß.}
-{143}{}{Selbst an guten Tagen läuft das Geschäft eher beschissen. Die Bürger trinken nicht viel,
+{143}{Cas0143}{Selbst an guten Tagen läuft das Geschäft eher beschissen. Die Bürger trinken nicht viel,
  also bin ich drauf angewiesen, an Händler auszuschenken. Dem nächsten knauserigen Vollidioten,
  der über die Preise meckert, reiß ich den Hintern auf.}
 {144}{}{Warum bist du noch hier, wenn dich das alles so annervt?}
 {145}{}{Tut mir echt leid. Ich such eine Vault. Kannst du mir helfen?}
 {146}{}{Tut mir echt leid. Hoffentlich geht's bald wieder bergauf.}
-{147}{}{Ich habe Herzprobleme. Brauche Spezialmedikamente, um die Pumpe am Laufen zu halten. Nur
+{147}{Cas0147}{Ich habe Herzprobleme. Brauche Spezialmedikamente, um die Pumpe am Laufen zu halten. Nur
  hier in der Stadt gibt's ausreichende medizinische Versorgung. Deshalb hab ich mich hier
  niedergelassen.}
-{148}{}{Hört sich an, als hättest du die Nase voll von hier.}
+{148}{}{Hört sich so an als ob du echt genug hättest.}
 {149}{}{Verstehe. Hör mal, ich suche eine Vault. Kannst du mir da weiterhelfen?}
 {150}{}{Hoffentlich läuft's von jetzt an wieder besser. Tschüß.}
-{151}{}{Ich hätte Lust, den Laden einfach dicht zu machen und die ganz Stadt zur Hölle zu
+{151}{Cas0151}{Ich hätte Lust, den Laden einfach dicht zu machen und die ganz Stadt zur Hölle zu
  schicken. Die können mich alle mal kreuzweise.}
-{152}{}{Warum gehst du nicht?}
+{152}{}{Warum haust du nicht einfach ab?}
 {153}{}{Tut mir echt leid. Hoffentlich läuft's bald wieder besser.}
-{154}{}{Soll ich alleine ins Ödland gehen? Ha! Der Ort hier hängt mir zum Hals raus, aber ich bin
+{154}{Cas0154}{Soll ich alleine ins Ödland gehen? Ha! Der Ort hier hängt mir zum Hals raus, aber ich bin
  doch nicht blöd.}
-{155}{}{Ich zieh bald wieder weiter. Warum kommst du nicht mit?}
+{155}{}{Ich verschwinde wieder. Warum kommst du nicht mit mir?}
 {156}{}{Na ja, dann viel Glück.}
-{157}{}{Nichts für ungut, aber du wirkst nicht gerade wie der geborene Anführer. Sieht eher so
+{157}{Cas0157}{Nichts für ungut, aber du wirkst nicht gerade wie der geborene Anführer. Sieht eher so
  aus, als ob du im Ödland im Handumdrehen verrecken würdest.}
-{158}{}{Nee, ich reise nicht mit Sklavenhändlern. Die haben die üble Angewohnheit, einen zu
+{158}{Cas0158}{Nee, ich reise nicht mit Sklavenhändlern. Die haben die üble Angewohnheit, einen zu
  verkaufen, wenn ihnen die Kohle ausgeht. Nichts für ungut!}
-{159}{}{Nee, du siehst aus wie einer, der mit dem einem Fuß im Grab und mit dem anderen in der
- Hölle steht. Ich glaub nicht, daß ich meinen Ruf noch mehr ruinieren sollte, als er eh schon
- ist.}
-{160}{}{Nee... sieht aus, als hättest du schon genug Leute an dir dranhängen.}
-{161}{}{Alles klar. Also dann, viel Glück.}
+{159}{Cas0159}{Nee, du siehst aus wie einer, der mit dem einem Fuß im Grab und mit dem anderen in der
+ Hölle steht. Ich glaub nicht, daß ich meinen Ruf noch mehr ruinieren sollte, als er eh 
+schon ist.}
+{160}{Cas0160}{Nee... sieht aus, als hättest du schon genug Leute an dir dranhängen.}
+{161}{}{Alles klar. Viel Glück.}
 {162}{}{Dann vergiß es einfach, du Penner. Dann bleib doch Barkeeper in dieser Miststadt.}
 {163}{}{Na, dann nicht. Dein Pech.}
-{164}{}{Heh! Meinst du das ernst?}
+{164}{Cas0164}{Heh! Meinst du das ernst?}
 {165}{}{Klar. Warum denn auch nicht? Siehst aus, als ob du ein guter Kämpfer wärst.}
 {166}{}{Andererseits: Da draußen ist es ganz schön gefährlich, besonders für jemanden mit
  Herzproblemen. Hier bist du wohl sicherer.}
-{167}{}{Alles klar, ich bin dabei.}
+{167}{Cas0167}{Alles klar, ich bin dabei.}
 {168}{}{Laß uns die Sache angehen.}
 {169}{}{}
 {170}{}{}
-{171}{}{Was ist denn jetzt los? Du machst wieder so ein
+{171}{Cas0171}{Was ist denn jetzt los? Du machst wieder so ein
  "Ich-muß-dir-jetzt-was-sagen-das-dir-nicht-gefallen-wird" Gesicht.}
-{172}{}{Ja?}
-{173}{}{Was ist los? Du wirkst schon wieder, als wolltest du den Vorgesetzten rauskehren.}
-{174}{}{Ich möcht dir ein paar Fragen stellen...}
+{172}{Cas0172}{Ja?}
+{173}{Cas0173}{Was ist los? Du wirkst schon wieder, als wolltest du den Vorgesetzten rauskehren.}
+{174}{}{Ich wollte dich was fragen...}
 {175}{}{Sieht aus, als ob du was abgekriegt hättest. Nimm paar Stimpaks und heil dich.}
 {176}{}{Cassidy, warte hier auf mich.}
-{177}{}{Tu die Waffe weg.}
+{177}{}{Leg deine Waffe weg.}
 {178}{}{Bleib dicht bei mir.}
-{179}{}{Etwas weniger Abstand.}
-{180}{}{Besser, wir verteilen uns.}
+{179}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
+{180}{}{Wir sollten uns ein bißchen verteilen.}
 {181}{}{Los, Cassidy. Zeit, die Fliege zu machen.}
-{182}{}{Nichts. Vergiß es.}
-
-{261}{}{Du möchtest, daß ich Myron eine Kugel in den Kopf jage, ist es das? Wär echt kein
+{182}{}{Nichts, gar nichts.}
+{261}{Cas0261}{Du möchtest, daß ich Myron eine Kugel in den Kopf jage, ist es das? Wär echt kein
  Problem. Brauchst es bloß zu sagen.}
-{262}{}{Was hast du vor?}
+{262}{Cas0262}{Was hast du vor?}
 {263}{}{Warum möchtest du Myron umlegen?}
 {264}{}{Mit was für Waffen kannst du umgehen?}
 {265}{}{Ehrlich gesagt, möchte ich, daß du was anderes tust...}
 {266}{}{Ehrlich gesagt, hätte ich da was, das du tun sollst...}
 {267}{}{Vergiß es. Los, weiter.}
 {268}{}{Nein, tu Myron nichts. Jedenfalls heute nicht. Ich werd dich auf dem laufenden halten.}
-{269}{}{Hauptsächlich Schrotflinten und Gewehre... hab dafür 'ne besondere Vorliebe. Aber ich bin
+{269}{Cas0269}{Hauptsächlich Schrotflinten und Gewehre... hab dafür 'ne besondere Vorliebe. Aber ich bin
  auch mit Pistolen nicht schlecht.}
 {270}{}{Noch irgendwas?}
 {271}{}{OK. Ich hätt da noch ein paar Fragen...}
 {272}{}{Alles klar. Wollte ich nur mal wissen.}
-{273}{}{Wenn du mal einem Manieren beibringen willst, dann gib mir 'n paar Schlagringe und ich
+{273}{Cas0273}{Wenn du mal einem Manieren beibringen willst, dann gib mir 'n paar Schlagringe und ich
  führ einen Stepptanz auf seinem Gesicht auf.}
 {274}{}{Super. Sonst noch was?}
 {275}{}{OK. Ich hätt da noch ein paar Fragen...}
 {276}{}{Alles klar. Wollte ich nur mal wissen.}
-{277}{}{Naja... ganz unter uns: Ich kann auch ziemlich gut mit einem Speer umgehen. Früher haben
+{277}{Cas0277}{Naja... ganz unter uns: Ich kann auch ziemlich gut mit einem Speer umgehen. Früher haben
  meine Kumpels und ich mit Speeren Jagd auf Radskorpione gemacht... naja... und ich lebe noch und
  die können dir nichts mehr erzählen.}
 {278}{}{Nicht schlecht, wenn man mit einem Speer umgehen kann.}
 {279}{}{OK. Ich hätt da noch ein paar Fragen...}
 {280}{}{Alles klar. Wollte ich nur mal wissen.}
-{281}{}{Du sagst es. Solang du mich nicht als Wilden bezeichnest, werden wir gut miteinander
+{281}{Cas0281}{Du sagst es. Solang du mich nicht als Wilden bezeichnest, werden wir gut miteinander
  auskommen.}
-{282}{}{Ich mag's nicht, wenn die Leute mich mit der alten Knochennase da drüben verwechseln.
+{282}{Cas0282}{Ich mag's nicht, wenn die Leute mich mit der alten Knochennase da drüben verwechseln.
  Hä-hä. Hab noch keinen aus 'ner Sippe gesehen, der so blöd war, sich einen Knochen durch die
  Nase zu schieben.}
-{283}{}{Natürlich nicht. Speere sind feine Waffen. 'Ne Menge meiner Freunde aus den Sippen
+{283}{Cas0283}{Natürlich nicht. Speere sind feine Waffen. 'Ne Menge meiner Freunde aus den Sippen
  verwenden welche.}
 {284}{}{Wußtest du, daß ich aus einer Sippe stamme?}
 {285}{}{Hmmm. Hör mal, ich hätt da noch ein paar andere Fragen...}
 {286}{}{Alles klar. Danke für die Auskunft.}
-{287}{}{Mach dich bloß nicht über den alten Cassidy lustig. Du bist doch kein Sippling.}
+{287}{Cas0287}{Mach dich bloß nicht über den alten Cassidy lustig. Du bist doch kein Sippling.}
 {288}{}{Doch, bin ich.}
 {289}{}{Was soll's. Hör mal, ich hätte da noch ein paar andere Fragen...}
 {290}{}{Vergiß es. Darüber möcht ich mich im Moment nicht weiter mit dir unterhalten.}
-{291}{}{Oh, naja... scheiß drauf. OK, ich entschuldige mich bei dir. Wollte dich nicht
+{291}{Cas0291}{Oh, naja... scheiß drauf. OK, ich entschuldige mich bei dir. Wollte dich nicht
  beleidigen.}
 {292}{}{Ja gut, glaub ich dir. Hör mal, ich hätte da noch ein paar Fragen...}
 {293}{}{Vergiß es. Laß uns aufbrechen.}
-{294}{}{Moment mal, bevor du gehst, möcht ich dich noch was fragen. Was machst du hier draußen?
+{294}{Cas0294}{Moment mal, bevor du gehst, möcht ich dich noch was fragen. Was machst du hier draußen?
  Sieht so aus, als ob wir kreuz und quer durch die Gegend laufen und irgendwas suchen. Gibt's da
  sowas wie 'nen Plan?}
 {295}{}{Wir suchen nach einem GECK - einem Garden-Eden-Creation-Kit. Mein Dorf braucht es, um
  seine Felder zu retten.}
 {296}{}{Wir gehen zur Vault und bringen dann das GECK in mein Dorf.}
 {297}{}{Meine Leute wurden verschleppt. Ich versuche herauszufinden, was mit ihnen passiert ist.}
-{298}{}{Häh, gibt's für sowas jetzt auch Kits? Davon steht nichts in den Schulbüchern, was? Naja.
+{298}{Cas0298}{Häh, gibt's für sowas jetzt auch Kits? Davon steht nichts in den Schulbüchern, was? Naja.
  OK, Gehn wir auf die Jagd.}
-{299}{}{Aha. Na dann, alles klar. Wollt's eben genau wissen.}
-{300}{}{Würde mir nichts ausmachen, 'n paar Kidnapper mit Blei vollzupumpen. Bißchen Lynchjustiz
+{299}{Cas0299}{Aha. Na dann, alles klar. Wollt's eben genau wissen.}
+{300}{Cas0300}{Würde mir nichts ausmachen, 'n paar Kidnapper mit Blei vollzupumpen. Bißchen Lynchjustiz
  hat noch niemandem geschadet... Mir jedenfalls nicht.}
 {301}{}{Alles klar. Auf geht's!}
-{302}{}{Die Sachen, die dieser kleine Kerl da von sich gibt, sind nichts für empfindliche Ohren.}
-{303}{}{Besonders nicht für Frauenohren.}
+{302}{Cas0302}{Die Sachen, die dieser kleine Kerl da von sich gibt, sind nichts für empfindliche Ohren.}
+{303}{Cas0303}{Besonders nicht für Frauenohren.}
 {304}{}{Oha, Cassidy. Hätte nicht geglaubt, daß dir sowas was ausmacht. Ich krieg ja
  Herzflattern.}
 {305}{}{Also? Was willst du damit sagen?}
 {306}{}{Also weißt du: Du fluchst auch ziemlich oft, Cassidy.}
 {307}{}{Als ob ich das nicht wüßte... Laß uns aufbrechen.}
-{308}{}{Ja, aber wenn ich fluche, dann mit Stil. Er hat einfach nur ein Schandmaul.}
-{309}{}{Und mir gefällt auch nicht, wie er dich ansieht.}
+{308}{Cas0308}{Ja, aber wenn ich fluche, dann mit Stil. Er hat einfach nur ein Schandmaul.}
+{309}{Cas0309}{Und mir gefällt auch nicht, wie er dich ansieht.}
 {310}{}{Oha, Cassidy. Hätte nicht geglaubt, daß dir sowas was ausmacht. Ich krieg ja
  Herzflattern.}
 {311}{}{Also? Was willst du damit sagen?}
 {312}{}{Als ob ich das nicht wüßte... Laß uns aufbrechen.}
-{313}{}{Ach hör mal, so hab ich's nicht gemeint.}
-{314}{}{Bloß daß das letzte Stündlein eines gutgläubigen kleinen Dämlacks geschlagen hat, wenn
+{313}{Cas0313}{Ach hör mal, so hab ich's nicht gemeint.}
+{314}{Cas0314}{Bloß daß das letzte Stündlein eines gutgläubigen kleinen Dämlacks geschlagen hat, wenn
  er, ich und eine Grube in der Wüste - ohne Zeugen - beisammen sind.}
 {315}{}{Das Leben kann schon ein harter Lehrmeister sein. Ich hätt da noch ein paar Fragen an
  dich...}
@@ -210,7 +209,7 @@
 {339}{}{Wenn der Cyberhund mir ans Bein pinkelt, bring ich ihn um.}
 {340}{}{Ahhhh. Junge, bin ich froh, daß die Millionen von den Dingern hergestellt haben, bevor
  die Bombe runterging.}
-{341}{}{Danke, Freund.}
+{341}{}{Danke, mein Freund.}
 {342}{}{Hoffentlich kriegt mein Herz nichts ab, wenn ich diese Stimpaks nehme...}
 {343}{}{Was ist d--?! Nein! mein Herz! Ich... *hrrrkkk*.}
 {344}{}{Tschuldige, ich hab nur die Aussicht bewundert.}
@@ -245,75 +244,48 @@
 {369}{}{Ich brauch hier ein paar Krücken und einen Rollstuhl.}
 {370}{}{Cassidy stirbt an 'nem Herzinfarkt.}
 {371}{}{Du hast Cassidy dazu überredet, sich der Gruppe anzuschließen.}
-{372}{}{Lass mich erstmal ne Tablette einschmeißen...} # Seraph's Code
-
-
-{1000}{}{Gut... OK, ich warte dann hier. Ich warte hier, bis du zurückkommst. }
-{1100}{}{Klar. Ich kann aber nicht versprechen, daß ich nicht wieder aussteige, wenn's Ärger
+{372}{}{Lass mich erstmal ne Tablette einschmeißen...}
+{1000}{Cas1000}{Gut... OK, ich warte dann hier. Ich warte hier, bis du zurückkommst. }
+{1100}{Cas1100}{Klar. Ich kann aber nicht versprechen, daß ich nicht wieder aussteige, wenn's Ärger
  gibt.}
-{1200}{}{Alles klar, ich halte mich dicht bei dir. Du rechnest bestimmt mit Ärger.}
-{1300}{}{Alles klar, ich halte etwas Abstand. Auf die Art kriegen wir eine bessere Übersicht.}
-{1400}{}{Alles klar, ich halt dir den Rücken frei. Schrei, wenn du mich brauchst. Dann komme ich.}
-
-{2000}{}{Nichts für ungut, aber du wirkst nicht gerade wie der geborene Anführer. Sieht eher so
+{1200}{Cas1200}{Alles klar, ich halte mich dicht bei dir. Du rechnest bestimmt mit Ärger.}
+{1300}{Cas1300}{Alles klar, ich halte etwas Abstand. Auf die Art kriegen wir eine bessere Übersicht.}
+{1400}{Cas1400}{Alles klar, ich halt dir den Rücken frei. Schrei, wenn du mich brauchst. Dann komme ich.}
+{2000}{Cas2000}{Nichts für ungut, aber du wirkst nicht gerade wie der geborene Anführer. Sieht eher so
  aus, als ob du im Ödland im Handumdrehen verrecken würdest.}
-{2100}{}{Nee, ich reise nicht mit Sklavenhändlern. Die haben die üble Angewohnheit, einen zu
+{2100}{Cas2100}{Nee, ich reise nicht mit Sklavenhändlern. Die haben die üble Angewohnheit, einen zu
  verkaufen, wenn ihnen die Kohle ausgeht. Nichts für ungut!}
-{2200}{}{Nee, du siehst aus wie einer, der mit dem einem Fuß im Grab und mit dem anderen in der
+{2200}{Cas2200}{Nee, du siehst aus wie einer, der mit dem einem Fuß im Grab und mit dem anderen in der
  Hölle steht. Ich glaub nicht, daß ich meinen Ruf noch mehr ruinieren sollte, als er eh 
 schon ist.}
-{2300}{}{Nee... sieht aus, als hättest du schon genug Leute an dir dranhängen.}
-{2400}{}{OK, alles klar.}
-
+{2300}{Cas2300}{Nee... sieht aus, als hättest du schon genug Leute an dir dranhängen.}
+{2400}{Cas2400}{Alles klar.}
 {2999}{}{Alles klar. Dann mach's mal gut.}
 {3000}{}{Laß uns aufbrechen.}
 {3100}{}{Dann vergiß es einfach wieder, du Armleuchter.}
 {3200}{}{Na, dann nicht. Dein Pech.}
-
-{4100}{}{OK, alles wieder zusammengeflickt. Ich denke, ich kann wieder laufen.}
-{4200}{}{OK, so ziemlich alles ist wieder zusammengeflickt.}
-{4300}{}{Das hat ziemlich gut geholfen, aber ich könnt noch ein paar Stimpaks gebrauchen.}
-{4400}{}{Hab alles probiert, bin aber immer noch ziemlich übel dran. Wenn du noch 'n paar 
+{4100}{Cas4100}{OK, alles wieder zusammengeflickt. Ich denke, ich kann wieder laufen.}
+{4200}{Cas4200}{OK, so ziemlich alles ist wieder zusammengeflickt.}
+{4300}{Cas4300}{Das war schon nicht schlecht, ich könnte aber noch ein paar mehr Stims gebrauchen.}
+{4400}{Cas4400}{Hab alles probiert, bin aber immer noch ziemlich übel dran. Wenn du noch 'n paar 
 Stimpaks übrig hättest, die könnt ich jetzt wirklich gebrauchen. Ich kann aber trotzdem laufen.}
-
-{9999}{}{Ich möcht dir ein paar Fragen stellen...}
+{9999}{}{Ich wollte dich was fragen...}
 {10001}{}{Nimm paar Stimpaks und heil dich selbst.}
 {10002}{}{Cassidy, warte hier auf mich.}
-{10003}{}{Tu die Waffe weg.}
+{10003}{}{Leg deine Waffe weg.}
 {10004}{}{Bleib dicht bei mir.}
-{10005}{}{Etwas weniger Abstand.}
-{10006}{}{Besser, wir verteilen uns.}
-{10100}{}{Los, Cassidy. Zeit, die Fliege zu machen.}
+{10005}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
+{10006}{}{Wir sollten uns ein bißchen verteilen.}
 {10007}{}{Wir sollten jetzt aufbrechen.}
-
-# NEW TOM PARTY MEMBER ADDITIONS
-
-# NODE 1007 WE NEED TO CHANGE DISTANCE
-{20000}{}{Alles klar, ich hör ja schon zu.}
-
-# NODE 1008 TALK ABOUT GEAR
-{20001}{}{Meine Sachen? Was ist damit?}
-
-# NODE 1009 REMOVE ARMOR
-{20002}{}{Kein Problem. Ist sowieso zu heiß für das Zeug. Da schwitz ich drin wie 'ne Hure aus New Reno.}
-
-# NODE 1010 WHAT WEAPONS CAN YOU USE -- DAN NEEDS TO REPLACE THIS.
-
-# NODE 1100 CAN'T JOIN PARTY BECAUSE LOW CHR -- DAN NEEDS TO REPLACE THIS.
-
-# We need to change our distance from one another
+{10100}{}{Los, Cassidy. Zeit, die Fliege zu machen.}
+{20000}{Cas20000}{Alles klar, ich hör ja schon zu.}
+{20001}{Cas20001}{Meine Sachen? Was ist damit?}
+{20002}{Cas20002}{Kein Problem. Ist sowieso zu heiß für das Zeug. Da schwitz ich drin wie 'ne Hure aus New Reno.}
 {20003}{}{Laß uns mal eine andere Anordnung ausprobieren.}
-# I need to talk to you about your gear.
-{20004}{}{Ich muß mal mit dir über deine Sachen reden.}
-# On second thought, I think this distance is OK for now.
+{20004}{}{Ich muß mit dir über deine Ausrüstung reden.}
 {20005}{}{Kannste vergessen. Wir bleiben bei der selben Anordnung wie immer.}
-# Actually, I guess there's nothing I need to really know right about your gear.
 {20006}{}{Schon gut. Ich muß gar nichts über deine Sachen wissen.}
-# I need to remove the armor that you're wearing.
 {20007}{}{Du mußt diese Rüstung da ausziehen.}
-# I need to know what kind of weapons you can use. Transplant original comment from Question Node Line: 264
-
-#added by killap - expansion
 {30000}{}{Ah, das tut gut! Jetzt bin ich wieder voll da.}
 {30001}{}{Wow, ist ein bisschen komisch, aber diese Herzpillen sind echt gut.}
-
+{30100}{}{Yeah, why not... It'll help me feel like I'm dead.}

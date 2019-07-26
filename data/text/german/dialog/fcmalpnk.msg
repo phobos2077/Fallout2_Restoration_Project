@@ -43,7 +43,7 @@
 {141}{}{Als ob noch irgendwer mit dir reden würde.}
 {142}{}{Chip-Hasser!}
 {143}{}{Kann ich was für dich tun? Schade! }
-{144}{}{Sprich mich nicht an.}
+{144}{}{Rede nicht mit mir.}
 {145}{}{Netter Zug, daß du dich um Chips Milz gekümmert hast.}
 {146}{}{Wenigstens hast du's versucht.}
 {147}{}{Armer Chip.}

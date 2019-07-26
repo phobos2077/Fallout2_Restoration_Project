@@ -21,7 +21,7 @@
 {120}{}{Erreur !                                                          Fichiers programme introuvables                                         Veuillez redémarrer.}
 {121}{}{Erreur ! Téléchargement de fichier corrompu.}
 {122}{}{}
-{123}{}{Arg.}
+{123}{}{[Quitter]}
 {124}{}{[Quitter]}
 {125}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
 {126}{}{Je suis Skynet                                                          Une intelligence artificielle expérimentale                                         Skynet VOUS attendait.}
@@ -32,7 +32,7 @@
 {131}{}{Pourquoi avoir tenté de me tuer ?}
 {132}{}{Intelligence artificielle ?}
 {133}{}{Tu m'attendais ?}
-{134}{}{Ok.}
+{134}{}{[Quitter]}
 {135}{}{[Quitter]}
 {136}{}{[Continuer]}
 {137}{}{Que veux-tu ?}
@@ -46,7 +46,7 @@
 {145}{}{[Tu ne parviens pas à lire ce qui s'affiche sur le moniteur.]}
 {146}{}{Interruption                                               -Fin de transmission-}
 {147}{}{}
-{148}{}{Urg.}
+{148}{}{[Quitter]}
 {149}{}{[Quitter]}
 {150}{}{[La porte de la pièce se ferme violemment alors que le mur à l'Est disparaît révélant une rangée de robots lourdement armés.]}
 {151}{}{Uhm... J'ai réfléchi à ton offre. Que puis-je faire pour toi ?}
@@ -128,6 +128,5 @@
 {227}{}{Ce cerveau a été modifié pour fonctionner avec un corps de robot amélioré, situé dans le laboratoire de robotique au niveau 3.}
 {228}{}{Je t'aiderai.}
 {229}{}{Je ne t'aiderai pas.}
-
 {250}{}{ est incapable de lire ce qu'affiche le moniteur.}
 {300}{}{L'ordinateur semble disposer d'un mécanisme de sécurité.}

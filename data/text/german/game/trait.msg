@@ -1,9 +1,3 @@
-#
-#   Messages from trait.c
-#
-#
-#   TRAIT NAMES
-#
 {100}{}{Schneller Stoffwechsel}
 {101}{}{Schläger}
 {102}{}{Kleiner Körperbau}
@@ -17,12 +11,9 @@
 {110}{}{Umgänglich}
 {111}{}{Anfällig}
 {112}{}{Stabil}
-{113}{}{Sex Appeal} # was: Night Person
+{113}{}{Sex Appeal}
 {114}{}{Versiert}
 {115}{}{Begabt}
-#
-#   TRAIT DESCRIPTIONS
-#
 {200}{}{Dein Stoffwechsel ist zweimal so schnell wie normal. Du bist daher gegen Strahlung und Gift weniger resistent, dafür heilt dein Körper aber auch schneller.}
 {201}{}{Du bist zwar ein bißchen langsamer, dafür aber auch ein bißchen größer. Du schlägst nur selten, dafür aber richtig zu! Du hast insgesamt weniger Aktionspunkte, dafür bist du aber stärker.}
 {202}{}{Du bist zwar nicht so groß wie die anderen Vaultbewohner, aber das war noch nie ein Hindernis für dich! Du kannst nicht so viel tragen, dafür bist du aber beweglicher.}
@@ -39,4 +30,3 @@
 {213}{}{Du hast den Stoff, aus dem die Helden sind. Das andere Geschlecht fühlt sich zu dir hingezogen, währenddessen Leute vom selben Geschlecht ziemlich eifersüchtig auf dich sind.}
 {214}{}{Du hast viel Zeit in die Ausbildung deiner Fähigkeiten gesteckt, so daß du mit höheren Anfangswerten beginnst. Dafür erhältst du weniger zusätzliche Fähigkeiten und nur alle vier Level einen Bonus.}
 {215}{}{Du verfügst über mehr angeborene Fähigkeiten als andere. Daher sind alle deine Anfangswerte um einen Punkt höher, aber du verlierst am Anfang bei allen Fähigkeiten 10 % und erhältst pro Level 5 Fähigkeitspunkte weniger.}
-

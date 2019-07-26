@@ -1,7 +1,5 @@
 {100}{}{Du siehst einen bemitleidenswert wirkenden Spammer.}
 {110}{}{Du siehst absolut nichts Interessantes.}
-
-# Grim's Floats
 {120}{}{Wird es eine Mac-Version geben?}
 {121}{}{Ich möchte Mehrspieler-Modus!}
 {122}{}{Ich hasse Euch alle!}
@@ -13,7 +11,6 @@
 {128}{}{Tu mir nicht weh.}
 {129}{}{Ich wollte mich nicht so idiotisch aufführen.}
 {130}{}{Ich habe diese Todesdrohungen nicht ernst gemeint.}
-{131}{}{Tut mir leid, Buffy!}
-{132}{}{Tut mir leid, Ungewaschenes Wesen! Ich wollte nur wahrgenommen werden.}
+{131}{}{I'm sorry, Buffy!}
+{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
 {133}{}{Ich möchte eine Online-Version!}
-

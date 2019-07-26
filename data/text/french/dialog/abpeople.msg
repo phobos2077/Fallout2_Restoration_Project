@@ -1,4 +1,4 @@
-{100}{}{Tu vois un paysan.}
+{100}{}{Tu vois un villageois.}
 {101}{}{Tu vois un paysan en bonne santé.}
 {102}{}{Tu vois une personne}
 {103}{}{Bus trop d'alcool récemment ?}
@@ -16,8 +16,7 @@
 {115}{}{Salut, sauvage.}
 {116}{}{Sûr que c'est une journée chaude aujourd'hui !}
 {117}{}{Bonne terre fertile ici...}
-{118}{}{Bonne journée.}
+{118}{}{Passe une bonne journée.}
 {119}{}{Bienvenue à l'Abbaye, voyageur !}
 {120}{}{C'est une impressionnante cathédrale qu'on a ici, hein ?}
-
 {200}{}{Enlève tes sales pattes de moi !}

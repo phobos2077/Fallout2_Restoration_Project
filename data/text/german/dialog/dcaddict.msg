@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Du siehst einen Jettie.}
 {101}{}{Diese Person hat Jet zu sich genommen.}
 {102}{}{Er sieht aus, als wäre er total mit Jet abgefüllt.}
@@ -8,8 +7,6 @@
 {105}{}{Sie hat schon bessere Tage gesehen. Sie sieht aus, als wäre sie schon lange ohne Jet.}
 {106}{}{Dieser Jettie sieht aus wie der Tod auf Urlaub.}
 {107}{}{Dieser sieht aus, als hätte er sich gerade übergeben.}
-
-# 1. CF: Attacked by PC
 {150}{}{Die Lichter tun mir weh!}
 {151}{}{Überall Monster!}
 {152}{}{Das hat sich komisch angefühlt.}
@@ -18,11 +15,9 @@
 {155}{}{Aufhören, Mann!}
 {156}{}{Hilft mir denn keiner?}
 {157}{}{Hilfe!}
-{158}{}{Verschwinde.}
+{158}{}{Verschwinde!}
 {159}{}{Mein Kopf schmerzt so schon genug!}
 {160}{}{Laß mich in Ruhe.}
-
-# 2. CF: Normal
 {200}{}{Wow, du hast ein unheimliches, dunkles Glühen...}
 {201}{}{Meine Güte, bist du eine Niete.}
 {202}{}{Sag ihnen nicht, daß wir wissen, daß dort nichts ist.}
@@ -62,8 +57,6 @@
 {236}{}{Ich glaub, ich muß kotzen.}
 {237}{}{Vielleicht wenn ich einfach schlafe...}
 {238}{}{Ich hab ein ziemlich übles Zittern, Lady.}
-
-# 3. BGF: Hostile
 {300}{}{Ist das Blut?}
 {301}{}{Uoah! Blute ich? Ich fühl überhaupt nichts!}
 {302}{}{Es kribbelt.}
@@ -73,8 +66,6 @@
 {306}{}{Oh, dieser Schmerz.}
 {307}{}{Jetzt brauch ich wirklich Jet.}
 {308}{}{Laß mich einfach nur sterben.}
-
-# 4. BGF: Normal
 {350}{}{Ahhhh...}
 {351}{}{Ich schwebe...}
 {352}{}{Ich habe die Kraft!}
@@ -90,7 +81,7 @@
 {362}{}{Was war denn das?}
 {363}{}{Sascha? Wo bist du Sascha?}
 {364}{}{Die Farben verblassen!}
-{365}{}{Mama?}
+{365}{}{Mom?}
 {366}{}{Hey! Weg von mir! Oh...}
 {367}{}{Untersteh dich!}
 {368}{}{Ich kann nichts sehen... mal wieder.}
@@ -104,8 +95,6 @@
 {376}{}{<hust> <hust> <hust>}
 {377}{}{Oh, mein Kopf!}
 {378}{}{Wo hab ich nur meinen Vorrat hin.}
-
-# 5. Self Initiated: Attacking Player
 {400}{}{Ein Dämon!}
 {401}{}{Der Feind ist uns auf den Fersen!}
 {402}{}{Du Mörder! Du hast meinen Sohn umgebracht!}

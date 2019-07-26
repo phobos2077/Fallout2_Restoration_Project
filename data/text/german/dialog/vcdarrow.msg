@@ -1,15 +1,15 @@
-{100}{}{Du siehst einen Bürger in einem leuchtendblauen Overall. Sieht aus wie ein
- Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
+{100}{}{Du siehst einen Bürger in einem hellen blauen Overall. Es sieht wie Vaultbewohner-Overall aus, aber es ist keine
+ Nummer hinten drauf.}
 {101}{}{Du siehst Darrow, den Offizier des Büros für Annehmlichkeiten.}
-{102}{}{Du siehst einen Bürger in einem leuchtendblauen Overall. Sieht aus wie ein
- Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
-{103}{}{::Klatscht::}
-{104}{}{Da ist der Held! Sieh mal!}
-{105}{}{Ungelogen! Das ist der Held, hier, in Vault City!}
-{106}{}{Schönen Tag noch, Hauptmann.}
-{107}{}{Vault City lebe hoch, Hauptmann.}
+{102}{}{Du siehst einen Bürger in einem hellen blauen Overall. Es sieht wie Vaultbewohner-Overall aus, aber es ist keine
+ Nummer hinten drauf.}
+{103}{}{::Beifall::}
+{104}{}{Es ist der Held! Schau!}
+{105}{}{Wie ich gesagt habe! Es ist der Held, hier, in Vault City!}
+{106}{}{Guten Tag, Hauptmann.}
+{107}{}{Vault City wird bestehen, Hauptmann.}
 {108}{}{Guten Tag, Bürger.}
-{109}{}{Vault City lebe hoch, Bürger.}
+{109}{}{Vault City wird bestehen, Bürger.}
 {110}{}{Ein Mutant! Wache! Wache!}
 {111}{}{Ein Ghul! Wache! Wache!}
 {112}{}{Muß ein paar mehr Werkzeuge aus Redding anfordern.}
@@ -29,10 +29,10 @@
 {123}{}{Kann ich dir in irgendeiner Weise behilflich sein, Bürger?}
 {124}{}{Entschuldigung, kann ich dir in irgendeiner Weise behilflich sein.}
 {125}{}{Hilflichsein? Diedeldiedeldiiiiee}
-{126}{}{[Verschwinde.]}
-{127}{}{Wo sind wir hier?}
-{128}{}{Kann ich mal sehen, was du am Lager hast?}
-{129}{}{Im Augenblick nichts, danke.}
+{126}{}{Verzieh dich}
+{127}{}{Was ist das alles hier?}
+{128}{}{Zeigst du mir, was du im Angebot hast?}
+{129}{}{Heute nichts, danke.}
 {130}{}{Warte einen Moment hier, in Ordnung? Ich hol jemanden, der dich rausbegleitet.}
 {131}{}{NEIN ICH NIX GEHN}
 {132}{}{Na guhuut }
@@ -42,18 +42,18 @@
 {135}{}{Ich kauf da ein, wo's mir paßt, kapiert?}
 {136}{}{Vielen Dank für deinen Besuch. Vault City lebe hoch, Bürger.}
 {137}{}{Vielen Dank für deinen Besuch. Vault City lebe hoch, Hauptmann.}
-{138}{}{Vault City lebe hoch, Bürger.}
+{138}{}{Vault City wird bestehen, Bürger.}
 {139}{}{Guten Tag, Bürger.}
 {140}{}{Nebenstelle A des Büros für Annehmlichkeiten. Ich bin für die Versorgung mit Werkzeugen
  und Reparaturausrüstungen zuständig. Mein Name ist Darrow... Offizier des Büros für 
  Annehmlichkeiten. Kann ich dir helfen? }
 {141}{}{Dies ist die Nebenstelle A des Büros für Annehmlichkeiten... wir versorgen die Stadt mit
  Werkzeugen und Reparaturausrüstungen. Bist du sicher, daß du am richtigen Ort bist?}
-{142}{}{Kann ich mal sehen, was du am Lager hast?}
+{142}{}{Zeigst du mir, was du im Angebot hast?}
 {143}{}{Ja, hier bin ich richtig. Kann ich mir ansehen, was ihr auf Lager habt?}
-{144}{}{Im Augenblick nichts, danke.}
+{144}{}{Heute nichts, danke.}
 {145}{}{Ich glaube kaum. Wiedersehn.}
 {146}{}{Hey! Weg da!}
 {147}{}{Das reicht! Mach, daß du wegkommst!}
 {148}{}{Danke.}
-{149}{}{[Weiter]}
+{149}{}{[Fortfahren]}

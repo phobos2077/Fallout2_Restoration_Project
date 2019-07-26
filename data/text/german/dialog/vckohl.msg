@@ -18,7 +18,7 @@
 {115}{}{Fras-ser-pluh!}
 {116}{}{Verzieh dich}
 {117}{}{Was ist das alles hier?}
-{118}{}{Nein, nein. Entschuldige die Störung.}
+{118}{}{Tut mir leid, daß ich euch gestört habe.}
 {119}{}{Äh... wie bitte?}
 {120}{}{Immer an der Wand lang, immer an der Wand, an der Wand entlang.}
 {121}{}{Verzieh dich}
@@ -39,31 +39,31 @@
 {133}{}{Da bist du ja wieder. Suchst du was? Brauchst du jemanden, der dir hilft?}
 {134}{}{Aber gewiß doch. Was möchtest du gerne wissen?}
 {135}{}{Was ist das alles hier?}
-{136}{}{Weißt du, wo ich ein GECK finde?}
+{136}{}{Weißt du, wo ich ein GECK finden kann?}
 {137}{}{Weißt du vielleicht, wo ich die Vault finden kann?}
-{138}{}{Heute mal nicht, danke.}
+{138}{}{Heute nichts, danke.}
 {139}{}{Ein GECK? Ich glaube, ich habe schon davon gehört. Für was ist das?}
 {140}{}{Das Problem ist, ich weiß selber nicht, wie es aussieht. Wenn es nach der Älteren meines
  Dorfes geht, ist es so eine Art Allheilmittel für alle unsere Probleme. Ich persönlich bin da
  nicht ganz so blauäugig.}
 {141}{}{Keine Ahnung.}
-{142}{}{Darf ich dir noch ein paar Fragen stellen?}
-{143}{}{Egal. Vielleicht unterhalten wir uns ein andermal.}
+{142}{}{Kann ich dich noch ein paar andere Dinge fragen?}
+{143}{}{Macht nichts. Wir können ja später noch mal darüber reden.}
 {144}{}{Die Vault? Der Eingang ist einfach die Straße hinunter... das große Loch in der
  Seite des Berges.}
 {145}{}{Weißt du etwas von weitere Vaults?}
-{146}{}{Darf ich dir noch ein paar Fragen stellen?}
+{146}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {147}{}{Danke für die Wegbeschreibung.}
 {148}{}{Von weiteren Vaults? Hmmm. Nein, das kann ich nicht behaupten. Ich habe gehört, daß
  außer unserem noch andere Vaults gebaut wurden, aber wir konnten bislang keinen davon ausfindig
  machen. Vielleicht findest du auf dem Zentralrechner in der Vault einen Hinweis in dieser Richtung.}
 {149}{}{Wie gelange ich in die Vault?}
-{150}{}{Darf ich dir noch ein paar Fragen stellen?}
+{150}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {151}{}{Danke für die Auskunft.}
 {152}{}{Hmmmm. Ich halte es für möglich, daß auf dem Zentralrechner drüben in der Vault Daten dazu
  vorliegen. Ein Großteil der älteren Archive liegt dort unten.}
 {153}{}{Wie gelange ich in die Vault?}
-{154}{}{Darf ich dir noch ein paar Fragen stellen?}
+{154}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {155}{}{Danke für die Auskunft.}
 {156}{}{Du bist doch ein Bürger der Gemeinschaft, oder nicht? Du hast somit das Recht, dort hinunterzugehen.}
 {157}{}{Wenn da so ist, dann bitte ich vielmals um Entschuldigung. Selbstverständlich bist du
@@ -72,21 +72,21 @@
  möchtest, kannst du einen Bürgerschaftstest ablegen... oder noch besser, du gehst gleich zur
  Erstbürgerin Lynette. Ich denke, in deinem Fall macht sie vielleicht eine Ausnahme.}
 {159}{}{Äh, aber ich bin doch Bürger.}
-{160}{}{Darf ich dir noch ein paar Fragen stellen?}
+{160}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {161}{}{Danke für die Auskunft.}
 {162}{}{Also, Grund für die Überführung ist, daß... hmmm. Das ist eine etwas heikle Angelegenheit,
  aber ich glaube, meine Stelle hier in Vault City ist hinfällig geworden.}
 {163}{}{Hin-fäl-lig? Was soll das heißen?}
 {164}{}{Hinfällig?}
-{165}{}{Oh. Ich hätte da noch ein paar weitere Fragen...}
+{165}{}{Oh. Ich hab da noch ein paar andere Fragen...}
 {166}{}{Mein aufrichtiges Mitgefühl. Ich muß jetzt gehen.}
 {167}{}{Das soll heißen, daß ich überflüssig geworden bin. Im Grunde ist es das Beste so.}
 {168}{}{Man plant, alle Haushalte mit Informationsterminals auszustatten, die an den Listenserver
  und die Datenarchive angeschlossen werden. Wenn es einmal soweit ist, wird das
  Informationszentrum nicht mehr gebraucht... und damit bin auch ich überflüssig. Im Grunde ist es
  das Beste so.}
-{169}{}{Bist du dir da sicher?}
-{170}{}{Oh. Ich hätte da noch ein paar weitere Fragen...}
+{169}{}{Bist du sicher?}
+{170}{}{Oh. Ich hab da noch ein paar andere Fragen...}
 {171}{}{Mein aufrichtiges Mitgefühl. Ich muß jetzt gehen.}
 {172}{}{Allerdings. Die Erstbürgerin irrt sich selten in solchen Dingen. Trotzdem wird es mir
  schwerfallen, von hier wegzugehen. Ich habe gehört, im Listenbüro gibt es eine Stelle für mich.}
@@ -94,20 +94,20 @@
  ein richtiges Buch viel lieber, als stundenlang auf einen Computerbildschirm starren zu müssen.}
 {174}{}{Oh. Ich finde es traurig, daß alle Bücher auf den Computer überführt werden. Mir ist so
  ein richtiges Buch viel lieber, als stundenlang auf einen Computerbildschirm starren zu müssen.}
-{175}{}{Oh. Ich hätte da noch ein paar weitere Fragen...}
+{175}{}{Oh. Ich hab da noch ein paar andere Fragen...}
 {176}{}{Mein aufrichtiges Mitgefühl. Ich muß jetzt gehen.}
 {177}{}{Ganz meine Meinung! Nicht daß ich etwas gegen das elektronische Format hätte, durchaus
  nicht, aber es hat so etwas... Grundsolides, ein Buch in Händen zu halten und Seite um Seite
  umzuschlagen. Hmmm. Weißt du...}
 {178}{}{Ja?}
-{179}{}{Oh. Ich hätte da noch ein paar weitere Fragen...}
+{179}{}{Oh. Ich hab da noch ein paar andere Fragen...}
 {180}{}{Mein aufrichtiges Mitgefühl. Ich muß jetzt gehen.}
 {181}{}{Wir haben noch nicht alle Bücher an das Büro für Annehmlichkeiten überstellt. Randal
  würde sie bestimmt nicht vermissen, wenn ich sie einem Liebhaber gebe, der etwas damit
  anzufangen weiß... zum Beispiel dir.}
 {182}{}{Das wäre ganz wunderbar. Vielen Dank.}
 {183}{}{Ich geh sie holen...}
-{184}{}{Alles klar.}
+{184}{}{Also gut.}
 {185}{}{Hier, bitte sehr. Ich wünsche dir eine vergnügliche Lektüre. Es sind einige meiner
  Lieblingsbücher... ziemlich technisch, aber trotzdem sehr gut.}
 {186}{}{Danke. Dürfte ich dir noch ein paar weitere Fragen stellen?}

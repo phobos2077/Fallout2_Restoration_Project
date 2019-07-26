@@ -8,10 +8,10 @@
 {105}{}{Willkommen, Auserwähltes Wesen! Bitte, setz dich.}
 {106}{}{Bitte! Setz dich und ruh dich ein wenig aus!}
 {107}{}{Es ist das Auserwählte Wesen! Alle mal herhören: Hier ist der HELD von Fallout 2!}
-{108}{}{Schönen Tag noch, Hauptmann.}
-{109}{}{Vault City lebe hoch, Hauptmann.}
+{108}{}{Guten Tag, Hauptmann.}
+{109}{}{Vault City wird bestehen, Hauptmann.}
 {110}{}{Guten Tag, Bürger.}
-{111}{}{Vault City lebe hoch, Bürger.}
+{111}{}{Vault City wird bestehen, Bürger.}
 {112}{}{Ein Mutant! Wache! Wache!}
 {113}{}{Ein Ghul! Wache! Wache!}
 {114}{}{Wir haben geschlossen. Komm morgen wieder.}
@@ -21,38 +21,38 @@
 {117}{}{He da, Auserwähltes Wesen! Wir haben gerade über deine Abenteuer geredet... darf ich dir
  einen ausgeben?}
 {118}{}{Dwinkie-winkie, ich mach stinkie }
-{119}{}{[Verschwinde.]}
-{120}{}{Was gibt's hier denn hier im Ausschank?}
+{119}{}{Verzieh dich}
+{120}{}{Was gibt's denn vom Faß?}
 {121}{}{Ich brauche ein paar Auskünfte.}
 {122}{}{Ich hab die Ladung Alkohol dabei, die du angefordert hast.}
-{123}{}{Im Augenblick nichts, danke.}
+{123}{}{Heute nichts, danke.}
 {124}{}{Wuähh... das rieche ich! Ähh, vielen Dank fürs Retten der Welt und so.}
 {125}{}{Stinkie-blinkie, zwinkie-zwinkie!}
-{126}{}{[Verschwinde.]}
+{126}{}{Verzieh dich}
 {127}{}{Mag ja sein, daß du die Welt gerettet hast, aber ein begnadeter Poet bist du nicht
  gerade. Und jetzt mach die Fliege.}
 {128}{}{Flinkie-flinkie, klinkie-klinkie!}
-{129}{}{[Verschwinde.]}
+{129}{}{Verzieh dich}
 {130}{}{Hör zu, nimm das und verschwinde, verstanden? Das sollte dir für ne Weile den Hals
  stopfen.}
 {131}{}{Dankie-wankie, Blinkie-Stinkie.}
-{132}{}{[Verschwinde.]}
+{132}{}{Verzieh dich}
 {133}{}{Ahem... was kann ich für dich tun, Hauptmann?}
 {134}{}{Was kann ich für dich tun, Bürger?}
-{135}{}{Ja? Kann ich etwas für dich tun?}
+{135}{}{Ja? Kann ich Dir helfen?}
 {136}{}{Tun? Tuhn? Tuh? Titatuh un aus bis duh.}
-{137}{}{[Verschwinde.]}
-{138}{}{Was gibt's hier denn hier im Ausschank?}
+{137}{}{Verzieh dich}
+{138}{}{Was gibt's denn vom Faß?}
 {139}{}{Ich brauche ein paar Auskünfte.}
 {140}{}{Ich hab die Ladung Alkohol dabei, die du angefordert hast.}
-{141}{}{Im Augenblick nichts, danke.}
+{141}{}{Heute nichts, danke.}
 {142}{}{Wirklich sehr interessant. Einen Augenblick mal... das möchten sich die Wachleute sicher
  auch nicht entgehen lassen.}
 {143}{}{Wachleute, Schwachbräute. Lachläute. Leute, läute, bin ich toll...}
-{144}{}{[Verschwinde.]}
+{144}{}{Verzieh dich}
 {145}{}{Wir haben synthetische Biere und Schnäpse... Wodka-H und Tequila-Derivat W und W2. Ach ja,
  und Wasser. Und Brahmin-Milch. Bier und Schnaps kosten zehn Mäuse, Wasser oder Milch drei.}
-{146}{}{Nämlich?}
+{146}{}{Wie zum Beispiel...?}
 {147}{}{Äh, habt ihr auch was mit richtigem Alkohol?}
 {148}{}{Ich könnte mich für ein synthetisches Bier erwärmen.}
 {149}{}{Synthetischer Wodka wäre jetzt genau das Richtige.}
@@ -68,7 +68,7 @@
  Das wär jetzt genau das Richtige.}
 {158}{}{Dann nehme ich lieber was anderes.}
 {159}{}{Naja, macht nichts. Ich brauche ein paar Auskünfte.}
-{160}{}{Vergiß es. Ich komm ein andermal wieder.}
+{160}{}{Vergiß es. Ich komme ein andermal wieder.}
 {161}{}{Bitte schön. Sonst noch was?}
 {162}{}{Äh, habt ihr auch was mit richtigem Alkohol?}
 {163}{}{Ich könnte mich für ein synthetisches Bier erwärmen.}
@@ -97,7 +97,7 @@
 {184}{}{Die große Öffnung in der Felswand am Berg im Osten. Man kann sie gar nicht übersehen. Man
  kommt aber auch nicht rein, wenn man kein Bürger ist.}
 {185}{}{Ich möchte noch was wissen...}
-{186}{}{Aber ich bin Bürger!}
+{186}{}{Aber ich bin doch Bürger.}
 {187}{}{Ja, danke, ich werd' mich schon zurechtfinden. Das werd ich mir mal ansehen.}
 {188}{}{Hmmm. Danke für die Auskunft.}
 {189}{}{Natürlich bist du einer. Ich würde lieber aufpassen, bei wem ich das behaupte, "Bürger".
@@ -108,7 +108,7 @@
 {192}{}{Also zuerst mal: Red hier in der Gegend besser nicht von "Sklaverei", wenn du nicht eine
  Menge Ärger an den Hals kriegen willst. Man nennt sie "Diener", nicht Sklaven. Das nur als Tip.}
 {193}{}{Hab schon kapiert. Aber ich möchte noch was andres wissen...}
-{194}{}{Danke. Das werd ich mir merken.}
+{194}{}{Danke. Ich werde es im Auge behalten.}
 {195}{}{Nicht viel. Der meiste Kontakt mit Outsidern, den wir haben, ist mit Händlern, die mit
  den Karawanen auf der großen Runde über Broken Hills, New Reno und Redding her kommen. Der
  einzige Ort außerhalb der Karawanenroute, den ich kenne, ist Gecko.}
@@ -152,7 +152,7 @@
 {226}{}{Warum? Suchst du was, was ein bißchen stärker reinhaut, als dieses synthetische Zeugs?}
 {227}{}{Vielleicht. Synthetischer Alkohol bringt's nun mal einfach nicht.}
 {228}{}{Eigentlich nicht. Ich brauchte nur ein paar Auskünfte...}
-{229}{}{Heut nicht.}
+{229}{}{Heute nicht.}
 {230}{}{Wohl wahr. Ich hatte mal einen, äh, ich kannte mal einen Händler, der hatte ne Flasche
  Maddog 30/30. Ziemlich bitteres Zeug... brannte wie Feuer, war aber wenigstens mal was anderes.}
 {231}{}{Und was ist mit dem Geheimvorrat von diesem "Händler" passiert?}
@@ -191,5 +191,5 @@
 {254}{}{Aha. Trotzdem vielen Dank.}
 {255}{}{Ich... verstehe. Naja, äh... paß auf dich auf. OK?}
 {256}{}{Dankie-wankie, Blinkie-Stinkie.}
-{257}{}{[Verschwinde.]}
+{257}{}{Verzieh dich}
 {258}{}{Zzzzzzz.}

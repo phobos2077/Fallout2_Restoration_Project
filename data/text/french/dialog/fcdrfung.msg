@@ -8,8 +8,8 @@
 {107}{}{As-tu des Stimpaks ? J'aimerais en acheter.}
 {108}{}{Qui es-tu ?}
 {109}{}{Un de mes amis a perdu sa rate. Peux-tu l'aider ?}
-{110}{}{Que peux-tu me dire sur cet endroit ?}
-{111}{}{Au revoir.}
+{110}{}{Que pouvez-vous me dire sur cet endroit ?}
+{111}{}{Salut.}
 {112}{}{Laisse-moi jeter un oeil à ça. Oui. Je vais devoir te faire payer, bien sûr.}
 {113}{}{Combien ?}
 {114}{}{Laisse tomber.}
@@ -20,7 +20,7 @@
 {119}{}{Le Docteur Fung ? Connais-tu le Docteur Holliday ?}
 {120}{}{C'est un plaisir de te rencontrer. J'ai besoin de me faire soigner.}
 {121}{}{Un de mes amis à besoin de se faire soigner.}
-{122}{}{Je vois. Merci et au revoir.}
+{122}{}{Je vois. Merci, au revoir.}
 {123}{}{Holliday ? Oui ! Je lui ai appris tout ce qu'il sait ! Où est-il maintenant ?}
 {124}{}{Il vit aux Collines Brisées.}
 {125}{}{Il est rentré chez lui, n'est-ce pas ? J'espère qu'il y a trouvé la paix.}
@@ -41,20 +41,19 @@
 {140}{}{Assieds-toi. Tu vas en avoir besoin lorsque je vais t'annoncer mon prix... Pour ce genre d'intervention, je prends $600.}
 {141}{}{Je paierai.}
 {142}{}{Laisse tomber.}
-
 {158}{}{Quoi ? Tu n'as pas d'argent ? Comment crois-tu que je pourrais vivre si je devais exercer gratuitement ?}
 {159}{}{As-tu des Stimpaks ?}
-{160}{}{Non merci.}
+{160}{}{Pas de problème.}
 {161}{}{Ce fut un plaisir de traiter avec toi.}
 {162}{}{Merci.}
 {163}{}{Ton offre n'est hélas pas acceptable.}
-{164}{}{Et que dis-tu de ça ?}
-{165}{}{C'est tout ce que je peux te proposer. Au revoir.}
+{164}{}{Et ça ?}
+{165}{}{C'est tout ce que je peux offrir. Salut.}
 {166}{}{Tu as des blessures ? Les anciens remèdes guériront ça.}
-{167}{}{Ok !}
+{167}{}{O-kkk !}
 {168}{}{}
 {169}{}{Nous avons terminé. Maintenant, pars et fais attention !}
-{170}{}{Merci !}
+{170}{}{Merssi !}
 {171}{}{Tu as besoin d'autre chose ?}
 {172}{}{J'ai besoin de soins.}
 {173}{}{Un de mes amis a besoin de soins.}
@@ -71,11 +70,11 @@
 {184}{}{Merci. J'ai d'autres questions.}
 {185}{}{Merci.}
 {186}{}{La version longue... : nous sommes ici parce que notre peuple descend d'un sous-marin nucléaire appelé Shih-huang-ti. Lorsque les missiles se sont abattus lors du Grand Déluge, les instruments à bord du sous-marin ont cessé de fonctionner et nous avons dérivé dans l'obscurité pendant des jours et des jours.}
-{187}{}{[Suite]}
+{187}{}{[suite]}
 {188}{}{Enfin, nous avons dérivé vers le rivage pour nous retrouver près des ruines de San Francisco. La quasi-totalité de la ville avait été dévastée par la guerre. Nous avons dû y recréer une société avec les quelques survivants retrouvés dans la ville.}
-{189}{}{[Suite]}
+{189}{}{[suite]}
 {190}{}{Nous l'avons reconstruite avec ce que nous avons trouvé. Nous avons des scientifiques et une technologie que le monde entier doit nous envier. Nous reconstruisons la civilisation, mais pas comme cette monstrueuse créature qu'est le Maître.}
-{191}{}{Je vois. Alors dis-moi.}
+{191}{}{Je vois. J'ai encore des questions.}
 {192}{}{Merci. Au revoir.}
 {193}{}{Bien sûr que c'est possible. Et puisque tu connais le Docteur Holliday... au nom de notre amitié, je ferai ça gratuitement. Demande à ton ami sans rate de venir ici et je la lui remplacerai.}
 {194}{}{Merci ! J'ai d'autres questions.}
@@ -90,7 +89,6 @@
 {203}{}{Au revoir.}
 {204}{}{Je ne soigne pas les ennemis de mon peuple. Je m'excuse sincèrement.}
 {205}{}{Très sincèrement, je te suggère de consulter les médecins de ta secte.}
-
 {206}{}{Que peux-tu me dire sur les implants d'armure ?}
 {207}{}{J'ai co-écrit l'article sur les implants d'armure. Mon expérience et ton matériel devraient suffire. Quel type d'implants veux-tu ?}
 {208}{}{Quels sont les différents types ?}
@@ -124,6 +122,5 @@
 {236}{}{Ok.}
 {237}{}{Et voilà ! Ton amélioration est... terminée. Surtout, ne gratte pas les croûtes à moins que tu veuilles que de très vilaines cicatrices viennent enlaidir ton physique devenu soudainement si repoussant.}
 {238}{}{Merci, docteur. Au revoir.}
-
 {239}{}{J'ai l'argent pour la rate.}
 {240}{}{Les implants t'intéressent-ils toujours ?}

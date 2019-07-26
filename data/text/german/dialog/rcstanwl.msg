@@ -4,7 +4,7 @@
 {103}{}{Die NCR ist Drückebergern gegenüber nicht gerade freundlich gesinnt. Hau ab von hier.}
 {104}{}{Du weißt, was ich von deiner Sorte halte. Geh mir einfach aus den Augen.}
 {105}{}{Hüa! Treib sie raus.}
-{106}{}{OK, gehen wir.}
+{106}{}{Okay, let's go.}
 {107}{}{Ich bin Stanwell. Ich führe die Karawane zwischen Redding und der New California Republic an. Brahmin gegen
  Gold. Wir könnten noch eine Wache gebrauchen und wir wollen jetzt sofort aufbrechen.}
 {108}{}{Man nennt mich Stanwell. Ich führe die Karawane zwischen Redding und der New California Republic an.
@@ -47,7 +47,7 @@
 {138}{}{Wir müssen die Brahmin von den umliegenden Dörfern herholen, bevor wir aufbrechen können. Wir werden
  am frühen Morgen des 11. zum Aufbruch bereit sein. Komm dann wieder vorbei, wenn du einen Job möchtest.}
 {139}{}{Wie war das, was transportierst du normalerweise?}
-{140}{}{Laß mich dich noch etwas fragen.}
+{140}{}{Ich möcht dich noch was andres fragen.}
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir sind eigentlich immer auf der Suche nach Karawanenwachen, aber wie ich schon sagte, vor dem 11. des Monats werden wir nicht zum
  Aufbruch bereit sein. Wenn du dann immer noch einen Job brauchst, komm doch einfach vorbei.}
@@ -55,10 +55,10 @@
 {144}{}{Was transportiert denn diese Karawane?}
 {145}{}{OK, danke. Wiedersehn.}
 {146}{}{Tut mir leid, Junge, wir haben für diese Karawane schon genug Aushilfskräfte.}
-{147}{}{Oh, OK.}
+{147}{}{Oh, okay.}
 {148}{}{Wir tauschen die besten Brahmin aus der NCR gegen Golderz in Redding. Ganz einfach — genau so, wie ich es gern mag.}
 {149}{}{Da bist du ja. Du sagtest doch, daß du noch Wachen suchst? }
-{150}{}{Laß mich dich noch etwas fragen.}
+{150}{}{Ich möcht dich noch was andres fragen.}
 {151}{}{Oh, OK. Wiedersehn.}
 {152}{}{Genau zum richtigen Zeitpunkt. Wir wollten gerade aufbrechen. Es gibt $2000 für den Job, aber ich zahle nur dich dafür,
  weil ich nur noch eine Wache brauche. Alles klar?}

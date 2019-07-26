@@ -7,25 +7,25 @@
 {106}{}{Gardes ! Alerte !}
 {107}{}{Que veux-tu ?}
 {108}{}{Hein ?}
-{109}{}{Quel est cet endroit ?}
+{109}{}{Où suis-je ici ?}
 {110}{}{C'est le commando qui m'envoie.}
 {111}{}{Je cherche le propriétaire.}
 {112}{}{Frère esclavagiste, j'ai quelques questions à te poser.}
 {113}{}{Je regrette, j'ai dû m'tromper de personne.}
 {114}{}{Allez, dehors ! J'ai assez de gardes idiots comme ça !}
 {115}{}{T'es aveugle ou quoi ? Ici, c'est un enclos à esclaves. Si tu veux en savoir plus, va parler à Vortis.}
-{116}{}{Ah ouais ?! Je vais te renvoyer dans un sac à viande, moi !}
+{116}{}{Is that so? Well, I'm sending you back in a body bag.}
 {117}{}{Ca doit être Vortis, le vieux.}
-{118}{}{Merci. Hé, t'as l'air d'un gars brillant. Je parie que tu peux répondre à quelques questions.}
+{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
 {119}{}{Le vieux, hein ? D'accord.}
 {120}{}{Bon, maintenant, si tu me le demandes comme ça, je peux pas refuser. A quoi penses-tu ?}
 {121}{}{Merci, toi.}
 {122}{}{J'en sais plus que le vieux Vortis ne croit.}
 {123}{}{Eh ben, j'ai fait beaucoup plus que ce que la plupart des gens croient. Mais ce boulot, c'est une bonne planque.}
-{124}{}{C'est cela même...}
+{124}{}{Peu importe.}
 {125}{}{C'est quoi l'histoire avec ce commando ?}
 {126}{}{Je cherche l'Abri 13. Ca te dit quelque chose ?}
-{127}{}{T'as déjà entendu parler d'un J.E.K ?}
+{127}{}{As-tu déjà entendu parler d'un J.E.K ?}
 {128}{}{Tu sais quelque chose à propos d'une bande appelée l'Enclave ?}
 {129}{}{Je cherche du travail. Tu connaîtrais pas quelqu'un qui embauche ?}
 {130}{}{Laisse tomber. Je ne veux pas gaspiller ton temps.}
@@ -42,7 +42,7 @@
 {141}{}{L'Enclave... Il y a un médecin en ville qui s'appelle Henri. Une nuit qu'il était ivre, il a commencé à parler de certains types qu'il appelait l'Enclave.}
 {142}{}{C'est exactement ce que je voulais savoir. Tu es un homme bien renseigné.}
 {143}{}{C'est tout ce que je voulais te demander. Merci.}
-{144}{}{Je suis toujours à l'affût. Malheureusement, personne ne veut plus embaucher un esclavagiste. Mon patron, Vortis, est très secret. En ville, les propriétaires de ranchs de l'Association des éleveurs embauchent et Dorothée a toujours besoin d'aide à la centrale si t'as des compétences. J'ai même entendu que la présidente Tandi cherche un spécialiste.}
+{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
 {145}{}{Eh ben, t'en sais des choses. Je pourrais passer la journée à te poser des questions !}
 {146}{}{Bon, je vais suivre cette piste.}
 {147}{}{Tu leur coupes les... Tu sais quoi, pour moi d'accord ?}

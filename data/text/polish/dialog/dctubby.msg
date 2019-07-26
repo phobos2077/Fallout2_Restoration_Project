@@ -1,13 +1,12 @@
 {100}{}{Widzisz w³aœciciela sklepu.}
 {101}{}{Widzisz Tubby'ego.}
-
 {150}{}{To jest w³aœciciel sklepu.}
 {151}{}{To jest Tubby, w³aœciciel sklepu.}
-{152}{}{[Rozmawiaj.]}
+{152}{}{[ROZMAWIAJ]}
 {153}{}{Lepiej za³atwiaj swoje interesy gdzie indziej.}
 {154}{}{Jesteœ cz³owiekiem biznesu. Porozmawiajmy o interesach.}
 {155}{}{Mogê ciê o coœ zapytaæ?}
-{156}{}{¯egnaj.}
+{156}{}{Pa.}
 {157}{}{Tak siê cieszê, ¿e ciê znów widzê. Co mogê dla ciebie zrobiæ tym razem?}
 {158}{}{Pohandlujmy.}
 {159}{}{Mogê ciê o coœ zapytaæ?}
@@ -15,11 +14,11 @@
 {161}{}{Witam, drogi panie, witam u Tubby'ego. Jestem Tubby, we w³asnej osobie. Czym mogê s³u¿yæ?}
 {162}{}{Interesuje mnie wymiana towarów.}
 {163}{}{Potrzebujê informacji.}
-{164}{}{¯egnam.}
+{164}{}{Do widzenia.}
 {165}{}{Witam, droga pani. Przyjaciele mówi¹ na mnie Tubby. Witam w moim skromnym sklepie. W czym mogê pani pomóc?}
 {166}{}{Chcê coœ kupiæ.}
 {167}{}{Potrzebujê informacji.}
-{168}{}{¯egnam.}
+{168}{}{Do widzenia.}
 {169}{}{Lepiej bêdzie jak sobie pójdziesz.}
 {170}{}{Pa.}
 {171}{}{Co chcesz wiedzieæ?}
@@ -27,7 +26,7 @@
 {173}{}{Dlaczego wszyscy tutaj handluj¹ prochami?}
 {174}{}{Wiesz gdzie znajduje siê jakaœ Krypta?}
 {175}{}{Mo¿e jednak kupiê coœ od ciebie.}
-{176}{}{Niewa¿ne. ¯egnaj.}
+{176}{}{Niewa¿ne. Na razie.}
 {177}{}{Ojej. Widzê, ¿e porozumienie siê z tob¹ mo¿e byæ nieco problematyczne. Kiwnij g³ow¹, jeœli chcesz coœ kupiæ.}
 {178}{}{[Kiwnij g³ow¹.]}
 {179}{}{Pa-pa.}
@@ -41,21 +40,15 @@
 {187}{}{Mo¿e stówka pomo¿e ci zmieniæ zdanie?}
 {188}{}{Mo¿e dam ci za ni¹ $50. Co ty na to?}
 {189}{}{To mo¿e zawrzyjmy uk³ad: albo ty powiesz mi co wiesz, albo ja przewietrzê ci mózg.}
-{190}{}{Niewa¿ne.}
+{190}{}{Nikogo.}
 {191}{}{A mogê ciê zapytaæ o coœ innego?}
 {192}{}{No có¿, takie pieni¹dze z pewnoœci¹ uspokoi³y by moje sumienie. Tyle tylko, ¿e nie masz doœæ gotówki!}
 {193}{}{Pewnie zosta³a w innych spodniach. Pójdê jej poszukaæ.}
 {194}{}{To raczej nie wystarczy.}
-
-#tell petey to hold on messages
 {500}{}{Jasne Petey. Zaraz przyjdê.}
 {501}{}{Zaczekaj, Petey!}
 {502}{}{Ju¿ lecê, ju¿ lecê.}
-
-#sell petey drug messages
 {510}{}{Proszê bardzo, Petey.}
 {511}{}{Wiesz co, Petey, powinieneœ odstawiæ to gówno.}
 {512}{}{Masz, Petey, i zje¿d¿aj st¹d w cholerê.}
-
-#added by killap
 {520}{}{Interesy z tob¹ to przyjemnoœæ.}

@@ -2,20 +2,15 @@
 {101}{}{Tu vois, Lou, la patronne du Malamute Saloon.}
 {102}{}{Tu vois une femme d'un âge avancé assez fardée.}
 {103}{}{Je veux que tu saches que j'apprécie ce que tu as fait. Comment puis-je t'aider ?}
-{1103}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Je tenais à ce que tu saches que je suis reconnaissante pour ce que t'as fait. Que puis-je faire pour toi ?}
 {104}{}{La prison est bien trop douce après ce qu'a fait ce salaud.}
-{1104}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. La prison est bien trop douce après ce qu'a fait ce salaud.}
 {105}{}{Je peux pas croire que tu aies laissé partir le salaud qui a amoché une de mes filles. Tu manques pas d'air de revenir ici. Que veux-tu bon sang ?}
-{1105}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Je peux pas croire que tu aies laissé partir le salaud qui a amoché une de mes filles. Tu manques pas d'air de revenir ici. Que veux-tu bon sang ?}
 {106}{}{T'es toujours aussi con. Pour nous autres, la vie continue. Alors, tu veux quoi au juste ?}
-{1106}{}{T'es toujours aussi con. Pour nous autres, la vie continue. Je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Alors, que veux-tu au juste ?}
 {107}{}{Rappelle-toi bien ceci. Trop d'argent, c'est pas bon pour cette fille. Bon, que veux-tu ?}
-{1107}{}{Je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Rappelle-toi bien ceci. Trop d'argent, c'est pas bon pour cette fille. Bon, que veux-tu ?}
 {108}{}{Bonjour, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco.}
-{109}{}{Quoi, encore ?}
+{109}{}{Quoi encore ?}
 {110}{}{Quoi ?}
 {111}{}{Il y a quelque chose qui m'intéresse ici.}
-{112}{}{As-tu entendu parler d'un truc qui s'appelle le Jardin d'Eden en Kit ?}
+{112}{}{Tu as entendu parler de quelque chose qu'on appelle le Jardin d'Eden en Kit ?}
 {113}{}{Bonjour, Lou. Que se passe-t-il dans cette ville ?}
 {114}{}{C'est quoi un Malamute ?}
 {115}{}{Où est Frisco par rapport à ici ?}
@@ -44,7 +39,7 @@
 {138}{}{C'est intéressant. Parle-moi d'autre chose.}
 {139}{}{Oui. Juste dans la partie Nord de la ville, il y a deux mines d'or en exploitation.}
 {140}{}{Tu disais que tu vendais du minerai ?}
-{141}{}{C'est intéressant. Puis-je te demander autre chose.}
+{141}{}{C'est intéressant. Puis-je te demander autre chose ?}
 {142}{}{En fait on échange avec la Cité de l'Abri du minerai d'or contre du matériel médical. Avec la RNC, on échange du minerai contre des Brahmines fraîches et autres victuailles et avec New Reno contre des stimulants et de la bibine.}
 {143}{}{Vous exploitez de l'or ici ?}
 {144}{}{C'est intéressant. Puis-je te demander autre chose ?}
@@ -69,23 +64,23 @@
 {163}{}{Je l'ai renvoyée. Elle n'était plus bonne à rien pour ce genre de boulot. Personne n'aurait voulu d'elle après ce que ce salaud lui a fait. Je lui ai donné de l'argent et je l'ai laissée partir.}
 {164}{}{Sais-tu qui a fait ça ?}
 {165}{}{Sais-tu ce qui est arrivé ?}
-{166}{}{J'aimerais te poser une autre question.}
+{166}{}{Je voudrais te demander autre chose.}
 {167}{}{T'inquiète pas, je m'en charge. Au revoir.}
 {168}{}{Je ne sais pas qui a fait ça mais elle tenait à la main un bon de paie de la mine Morningstar lorsqu'on l'a trouvée et c'est un mineur qui a été vu avec elle pour la dernière fois.}
 {169}{}{Puis-je voir la fille ?}
 {170}{}{Sais-tu ce qui est arrivé ?}
 {171}{}{Un bon de paie de la mine Morningstar ? C'est quoi ça ?}
-{172}{}{J'aimerais te poser une autre question.}
+{172}{}{Je voudrais te demander autre chose.}
 {173}{}{T'inquiète pas, je m'en charge. Au revoir.}
 {174}{}{Bon, comme il y avait des cris et du barouf, je suis allée voir. Le salaud s'était déjà barré quand je suis arrivée et ma fille était en mauvais état. J'ai appelé le doc et le Shérif. Tu connais la suite.}
 {175}{}{Sais-tu qui a fait ça ?}
 {176}{}{Puis-je voir la fille ?}
-{177}{}{J'aimerais te poser une autre question.}
+{177}{}{Je voudrais te demander autre chose.}
 {178}{}{T'inquiète pas, je m'en charge. Au revoir.}
 {179}{}{Au Nord de la ville, Dan McGrew dirige la mine Morningstar. Les mineurs sont souvent payés par acompte ou avec des avoirs venant de chaque mine... enfin, tu sais, des bons. On a retrouvé ma fille avec un de ces bons à la main. Regarde, le voilà. [Elle te tend le bon.]}
 {180}{}{Ah, je vois. Puis-je voir la fille ?}
 {181}{}{Ah, je vois. Sais-tu ce qui est arrivé ?}
-{182}{}{J'aimerais te poser une autre question.}
+{182}{}{Je voudrais te demander autre chose.}
 {183}{}{T'inquiète pas, je m'en charge. Au revoir.}
 {184}{}{Bon, c'est pas une mauvaise chose que quelqu'un s'y soit mis. C'est mauvais sur toute la ligne, ce genre de choses. J'espère que tu feras payer à ce salaud ce qu'il a fait à ma fille. Arrange-toi pour qu'il n'ait plus l'occasion de le refaire.}
 {185}{}{Bon, je ferai de mon mieux. Autre chose, voyons.}
@@ -94,7 +89,7 @@
 {188}{}{J'aimerais une chambre avec un lit vide, Lou.}
 {189}{}{Un lit plein. Ca a l'air intéressant. Donne-moi plus de détails.}
 {190}{}{De la bibine et d'autres trucs. Ouais, ce serait le pied. Tope-là.}
-{191}{}{Hum, est-ce que je peux te demander autre chose.}
+{191}{}{Hum, je peux te demander autre chose ?}
 {192}{}{Ca ira pour toi, où y a-t-il autre chose que tu veux acheter ?}
 {193}{}{On dirait que tu as du mal à te décider. C'est bon, ou tu veux encore jeter un coup d'oeil ?}
 {194}{}{Non, j'ai tout ce qu'il me faut pour l'instant. Merci. Encore une question.}
@@ -138,7 +133,11 @@
 {232}{}{Bien... D'accord. Puis-je faire quelque chose d'autre pour toi ?}
 {233}{}{Oui, il me faudrait autre chose.}
 {234}{}{S'passe quoi en ville, en ce moment ?}
-
 {300}{}{Tu as aidé Fannie à vaincre sa dépendance au Jet.}
-{301}{}{Au revoir.}
+{301}{}{Salut.}
 {310}{}{J'ai peut-être quelque chose qui puisse aider Fannie. [Donner à Lou l'antidote au Jet]}
+{1103}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Je tenais à ce que tu saches que je suis reconnaissante pour ce que t'as fait. Que puis-je faire pour toi ?}
+{1104}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. La prison est bien trop douce après ce qu'a fait ce salaud.}
+{1105}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Je peux pas croire que tu aies laissé partir le salaud qui a amoché une de mes filles. Tu manques pas d'air de revenir ici. Que veux-tu bon sang ?}
+{1106}{}{T'es toujours aussi con. Pour nous autres, la vie continue. Je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Alors, que veux-tu au juste ?}
+{1107}{}{Je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Rappelle-toi bien ceci. Trop d'argent, c'est pas bon pour cette fille. Bon, que veux-tu ?}

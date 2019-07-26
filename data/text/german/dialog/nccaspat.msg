@@ -1,7 +1,4 @@
-# quick look
 {100}{}{Du siehst einen Kasino-Besucher.}
-
-# examines
 {150}{}{Du siehst einen der Kasino-Besucher. Er sieht müde aus.}
 {151}{}{Du siehst einen der Kasino-Besucher. Er hat einen goldenen Glanz in den Augen.}
 {152}{}{Du siehst einen der Kasino-Besucher. Er verbirgt sein Gesicht in den Händen.}
@@ -17,19 +14,18 @@
  weg.}
 {161}{}{Du siehst eine der Kasino-Besucherinnen. Sie versucht, die Aufmerksamkeit des Kellners
  auf sich zu lenken.}
- 
-# float
-{200}{}{::Applaus::}
-{201}{}{::Prost::}
+{200}{}{::Klatscht::}
+{201}{}{::Jubelt::}
 {202}{}{Toll, wie du diese Enklaven-Spinner abgebrannt hast! Ganz toll!}
-{204}{}{Glückwunsch für das Einstampfen der Enclave, }
-{205}{}{Glückwunsch für das Einstampfen der Enclave, }
-{206}{}{Oh-oh. Aus dem Weg.}
+{203}{}{Das war ja 'ne Art, die Enklave fertig zu machen, }
+{204}{}{Herzlichen Glückwunsch zum zerquetschen der Enklave, }
+{205}{}{Herzlichen Glückwunsch zum zerquetschen der Enklave, }
+{206}{}{Äh-oh. Geh schon aus dem Weg.}
 {207}{}{Wenn ich ihn... sie... es... *was auch immer* nur ansehe, krieg ich ne Gänsehaut.}
 {208}{}{Denkste das Ding will alle übertreffen?}
 {209}{}{Das ist der Fleisch gewordene Zorn der Hölle. Äh, da unter der Rüstung.}
 {210}{}{Komm dem Ding nicht in die Quere.}
-{211}{}{Sprechen wir über gefährliches Aussehen...}
+{211}{}{Wo wir gerade von gefährlichem Aussehen sprachen…}
 {212}{}{*Schluck*}
 {213}{}{Ich glaub dieser Roboter Typ beobachtet mich.}
 {214}{}{Ich glaub dieser Laufpanzer warf seinen Todesblick auf mich. Ich hau ab.}
@@ -42,7 +38,7 @@
 {221}{}{Ich hab gehört, er hat erst gestern drei Killer niedergeschossen.}
 {222}{}{Äh-oh. Geh schon aus dem Weg.}
 {223}{}{Das ist der Fleisch gewordene Zorn der Hölle.}
-{224}{}{Wo wir gerade von gefährlichem Aussehen sprachen...}
+{224}{}{Wo wir gerade von gefährlichem Aussehen sprachen…}
 {225}{}{*Schluck*}
 {226}{}{Wie Nikita, und noch einiges mehr.}
 {227}{}{Wenn ich sie nur ansehe, krieg ich ne Gänsehaut.}
@@ -51,25 +47,25 @@
 {230}{}{Ich glaub sie hat mich mit ihrem Todesblick angesehen. Ich hau ab.}
 {231}{}{Ich hab gehört, sie hat erst gestern drei Killer niedergeschossen.}
 {232}{}{Was für eine Brust! Äh, Brustpanzerung, mein ich.}
-{233}{}{So taff siehst du nicht aus, Mr. Preisboxer.}
+{233}{}{Du siehst gar nicht so zäh aus, Mr. Preiskämpfer.}
 {234}{}{Ich hab 20 Mäuse auf dich gesetzt!}
 {235}{}{Hey, Champ! Dein letzter Kampf war toll!}
-{236}{}{Wie groß bist 'n so?}
-{237}{}{Schaffst du den Kampf? Ich habe 30 Piepen auf dich gesetzt.}
+{236}{}{Ich hab dich im Ring gesehen. Du hast einen verdammt guten rechten Haken.}
+{237}{}{Schaffst du den Kampf? Ich habe 30 Kröten auf dich gesetzt.}
 {238}{}{Wie viel drückst du?}
 {239}{}{Wo trainierst du?}
-{240}{}{Pass auf den Masticator auf. Er hat Geschmack an Ohren gefunden.}
-{241}{}{Ich hätt gern 'n Drink, aber leider hab ich mein ganzes Geld verpulvert, als ich auf deinen Gegner gesetzt habe.}
-{242}{}{Du siehst gar nicht so zäh aus, Miss linker Haken.}
+{240}{}{Pass auf den Masticator auf. Er steht auf Ohren.}
+{241}{}{Ich würd dir nen Drink spendieren, wenn ich nicht mein ganzes Geld auf deinen Gegner gesetzt hätte.}
+{242}{}{Du siehst gar nicht so zäh aus, Meister des linken Haken.}
 {243}{}{Kann ich mal deine Bauchmuskel sehen?}
 {244}{}{Wow. Sieh dir das an.}
 {245}{}{Würdest du dir *das* ansehen?}
-{246}{}{::Seine Lippen formen 'Sakra'::}
+{246}{}{::Verdammt bist du heiß::}
 {247}{}{Ich WUSSTE, dass ich mich heute hätte rasieren sollen.}
 {248}{}{Komm, plaudern wir ein Weilchen, Süße.}
 {249}{}{Die Wilden haben solche Titten! Mannomann!}
 {250}{}{Sieh sich einer den Vorbau an.}
-{251}{}{Das hier ist die beste Stute aus meiner Herde.}
+{251}{}{Das hier ist die beste Stute aus meinem Stall.}
 {252}{}{Für diese Frau würd ich auch baden.}
 {253}{}{Ich hab deinen Höhepunkt genau hier.}
 {254}{}{Tanz!}
@@ -80,24 +76,24 @@
 {259}{}{Hast du Hummeln im Hintern, dass er beim gehen so wackelt, Puppe?}
 {260}{}{Vielleicht tanzt sie heute Abend.}
 {261}{}{Hast du ihren neuesten Film gesehen? Heiß, Mann, BRANDHEISS.}
-{262}{}{Entschuldige mich. Ich muß kurz auf die Toilette und äh, meine Haare kämmen.}
+{262}{}{Entschuldige mich. Ich muß schnell auf die Toilette und äh, kurz meine Haare kämmen.}
 {263}{}{Ich möchte ihr Slip sein.}
 {264}{}{Ich möchte ihre Unterwäsche sein.}
 {265}{}{Ich möchte an ihrem Höschen riechen.}
 {266}{}{Die ist ein sexy Biest.}
 {267}{}{Mann. So viele Kurven und ich hab keine Bremsen.}
 {268}{}{Aber hallooooo, du Hengst.}
-{269}{}{Ein Hengst wie du benötigt doch einen Sattel? Ich bin frei morgen Abend.}
+{269}{}{Brauchst du 'n Partner für deinen nächsten Film?}
 {270}{}{Was machst du später, Seemann?}
-{271}{}{Kann ich deine Muskeln betatschen?}
+{271}{}{Kann ich deine Muskeln mal anfassen?}
 {272}{}{Wie kommt es, dass du nicht in Ohnmacht fällst, wenn du erregt bist?}
-{273}{}{Willst du nicht für einen Drink an meinen Platz herüberkommen?}
+{273}{}{Willst du nicht für einen Drink zu mir rüberkommen?}
 {274}{}{Ich will mein Abendessen von deinem Brustkorb essen.}
-{275}{}{Brauchst du einen Partner für deinen nächsten Film?}
+{275}{}{Brauchst du noch jemanden für deinen nächsten Film?}
 {276}{}{::Starrt auf deinen Bizeps.::}
-{277}{}{Ist das eine Art Spielautomat, der dir die ganze Zeit folgt?}
+{277}{}{Ist das eine Art Spielautomat, was da hinter dir herrennt? }
 {278}{}{Ist das ein einarmiger Bandit?}
-{279}{}{Macht dein Roboter auch ne Nummer? Äh... ich mein jetzt ne Zaubernummer.}
+{279}{}{Kann dein Roboter auch Tricks? Äh... Zaubertricks, meine ich.}
 {280}{}{Das klingt verrückter als wenn Hennen Füchse lieben würden.}
 {281}{}{Roll die Knochen.}
 {282}{}{Baby braucht ein neues Paar Schuhe...}
@@ -108,7 +104,7 @@
 {287}{}{Ich übernehm die Bank.}
 {288}{}{Ich? Ich übernehm die Bank. Schau mir zu.}
 {289}{}{Das Haus war gegen mich.}
-{290}{}{Das Glück war mir nicht hold.}
+{290}{}{Die Glücksgöttin mag mich nicht.}
 {291}{}{Glücksgöttin, enttäusch mich jetzt nicht.}
 {292}{}{Das Haus hatte Erbarmen mit mir.}
 {293}{}{Zwischen Trinkgeldern und diesen besoffenen Ausgabeorgien...}
@@ -139,20 +135,20 @@
 {318}{}{23 rot!23 rot! Na los... 23 rot...}
 {319}{}{50 Chips auf 15 schwarz...}
 {320}{}{Sie läuft und läuft im Kreis... wo sie hält, weiß niemand...}
-{321}{}{Toll wie du den Enklavenbastarden eingeheizt hast! Weiter so!}
+{321}{}{Toll, wie du diese Enklaven-Spinner abgebrannt hast! Ganz toll!}
 {322}{}{Ich wusste immer, dass der Präsident uns alle töten wollte.}
 {323}{}{Der Präsident war am Leben? Wann war die letzte Wahl?}
 {324}{}{Hast die Enklave zerstört, nicht? Nun, ich lad dich auf einen Drink ein.}
-{325}{}{Toll wie du den Enklave zerquetscht hast, }
+{325}{}{Das war ja 'ne Art, die Enklave fertig zu machen, }
 {326}{}{Mit der Zerstörung der Enklave hast du dieses Casino zu einem besseren Ort für meine Kinder gemacht. Wie kann ich dir jemals danken?}
 {327}{}{Die Enklave ist mir nie blöd gekommen, aber ich bin froh, dass sie weg sind.}
-{328}{}{Ich kann nicht glauben, dass die Enklave nach all dieser Zeit noch kämpfte. Idioten.}
+{328}{}{Ich kann nicht glauben, dass die Enklave nach all den Jahren noch gekämpft hat. Idioten.}
 {329}{}{Ich fühlte eine große Unruhe... als ob hunderte Bastarde auf einem Bohrturm plötzlich ihre Angst herausschrien und dann verstummten. Mysteriös.}
 {330}{}{Herzlichen Glückwunsch zum zerquetschen der Enklave, }
-{331}{}{Herzlichen Glückwunsch zum zertreten der Enklave, }
+{331}{}{Herzlichen Glückwunsch zum zerquetschen der Enklave, }
 {332}{}{Du suchst deinen Bruder Robby? Weißt schon, den Roboter? Ach, vergiss es.}
 {333}{}{Entschuldigung, war ich im Weg? Ich werde die Stadt verlassen.}
-{334}{}{Verzeihung, Atme ich deine Luft? Ich werde aufhören.}
+{334}{}{Verzeihung, nehme ich dir die Luft? Ich halt den Atem an.}
 {335}{}{Ich wusste nicht, dass sie Eingänge in deiner Größe machten.}
 {336}{}{::Klopft auf die Rüstung:: Wer da drin?}
 {337}{}{'Gefahr, Will Robinson! Gefahr, Will Robinson!' Hah-hah. Äh... nur ein Scherz.}
@@ -170,18 +166,18 @@
 {349}{}{Wenn du denkst, dass mich deine Rüstung einschüchtert, hast du Recht.}
 {350}{}{Du mußt einer dieser Videospielautomaten von vor dem Krieg sein.}
 {351}{}{Hör mal, bitte... ich will keine Schwierigkeiten. Ich bin nur diesen Tag in der Stadt.}
-{352}{}{Hör mal, bitte... ich will keine Schwierigkeiten.}
+{352}{}{Sieh mal, bitte...ich will keinen Ärger.}
 {353}{}{Entschuldigung, war ich im Weg? Ich werde die Stadt verlassen.}
-{354}{}{Verzeihung, Atme ich deine Luft? Ich werde aufhören.}
-{355}{}{Einen schönen Gruß an deinen Boss.}
+{354}{}{Verzeihung, nehme ich dir die Luft? Ich halt den Atem an.}
+{355}{}{Grüß deinen Boß von mir.}
 {356}{}{Äh... *Schluck*... stimmt was nicht?}
 {357}{}{Hör mal, bitte... ich will keine Schwierigkeiten. Ich bin nur diesen Tag in der Stadt.}
-{358}{}{Hör mal, bitte... ich will keine Schwierigkeiten.}
+{358}{}{Sieh mal, bitte...ich will keinen Ärger.}
 {359}{}{Verkaufst du was?}
 {360}{}{Kann ich deine Kleidung kaufen? Ich meine jetzt gleich?}
 {361}{}{Ich WUSSTE, dass ich mich heute hätte rasieren sollen.}
-{362}{}{Komm, plauder einen Augenblick mit mir, Süße.}
-{363}{}{Na los, Herzchen... komm mit.}
+{362}{}{Komm, plaudern wir ein Weilchen, Süße.}
+{363}{}{Mist. So viele Kurven und ich steh ohne Bremsen da.}
 {364}{}{Bewegliches kleines Biest, nicht wahr?}
 {365}{}{Für dich geh ich auch baden.}
 {366}{}{Ich hab deinen Höhepunkt genau hier.}
@@ -195,7 +191,6 @@
 {374}{}{Mann. So viele Kurven und ich hab keine Bremsen.}
 {375}{}{Weißt du, was gut auf dir aussehen würde? Ich.}
 {376}{}{Dein Höschen ist vielleicht nicht die beste Sache der Welt, aber es ist verdammt nah dran.}
-
 {503}{}{!}
 {504}{}{! Du Hintern treten! Du HINTERN treten!}
 {505}{}{! Du bist so GELDig!}

@@ -14,7 +14,7 @@
 {113}{}{Ich möchte gerne zu Präsidentin Tandi.}
 {114}{}{Ich möchte gerne zu Präsidentin Tandi.}
 {115}{}{Ich suche Arbeit.}
-{116}{}{Wo sind wir hier?}
+{116}{}{Was ist das alles hier?}
 {117}{}{Das geht nicht.}
 {118}{}{Ich weggehn.}
 {119}{}{Tu mir leid, hier gibt es keine öffentlichen Toiletten. Am besten, du gehst gleich wieder.}
@@ -30,7 +30,7 @@
 {129}{}{Das ist nicht dein Bier.}
 {130}{}{Ist ja rührend. Wir sind hier keine Arbeitsvermittlung. Warum versuchst du's nicht mal in der Stadt?}
 {131}{}{Das hier ist die Kongreßhalle. Hier werden die Gesetze der NCR gemacht.}
-{132}{}{(weiter)}
+{132}{}{(Weiter)}
 {133}{}{13? Du meinst nicht zufällig 15?}
 {134}{}{Ich sagte 13.}
 {135}{}{15?}
@@ -47,16 +47,13 @@
 {146}{}{(Weiter)}
 {147}{}{Macht ja nichts. Mein Fehler. 13, sagtest du? Ich hab davon keine Ahnung.}
 {148}{}{(Weiter)}
-
 {149}{}{Ich Problem weg. Töten bösen Mann. Wollen Geld.}
 {150}{}{Sag ihr, daß ich das Problem mit den illegalen Siedlern gelöst habe.}
 {151}{}{Darion ist tot? Oh, ich bitte um Verzeihung. Geh einfach rein.}
 {152}{}{Tatsächlich? Wenn das mal keine gute Nachricht ist! Hast du sonst noch was in Erfahrung bringen können?}
-{153}{}{Nein}
+{153}{}{Nein.}
 {154}{}{Ja, da wäre noch was - es geht um einen Spion.}
 {155}{}{Was für eine Erlei- ich meine, ich bin froh, daß alles vorbei ist. Geh einfach rein.}
-
-#messages for when the player is tampering with something he shouldn't
 {500}{}{Entschuldige, aber du kannst ohne Erlaubnis nicht hinein.}
 {501}{}{Ich muß dich darum bitten, deine Einmischungsversuche zu unterlassen.}
 {502}{}{Das ist meine letzte Warnung: Geh, oder ich muß andere Saiten aufziehen.}

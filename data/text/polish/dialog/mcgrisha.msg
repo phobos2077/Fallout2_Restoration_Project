@@ -1,48 +1,34 @@
 {100}{}{Widzisz bardzo aktywnego staruszka.}
 {101}{}{Widzisz Grishama.}
 {102}{}{Nie mo¿esz go sobie przypomnieæ, niemniej wygl¹da on dla ciebie znajomo.}
-
 {151}{}{Powiedzia³em ci, ¿e dostanie ci siê!}
 {152}{}{Buahahaha!}
 {153}{}{Wynoœ siê st¹d!}
 {154}{}{Jestem zajêty!}
 {155}{}{Wiedzia³em, ¿e moja córka jest dziwna.}
-{156}{}{Ró¿ni ludzie, ró¿ne gusta - jak przypuszczam.}
+{156}{}{Ró¿ni ludzie, ró¿ne gusty, jak przypuszczam.}
 {157}{}{Chyba siê porzygam.}
 {158}{}{Wiedzia³em, ¿e mój syn jest dziwny.}
-
 {159}{}{Chyba teraz jesteœ w mojej rodzinie.}
-{160}{}{Opiekuj siê dobrze moj¹ córk¹.}
+{160}{}{Czyli teraz nale¿ysz do rodziny.}
 {161}{}{Opiekuj siê dobrze moim synem.}
-
-# Node 0
 {162}{}{Nazywam siê Grisham. Witaj w mojej rzeŸni. Zostawiasz coœ, czy raczej zabierasz?}
 {163}{}{Raczej zabieram? Chcê tu zrobiæ pewne zapasy na drogê.}
 {164}{}{Nie widzia³eœ przypadkiem, aby le¿a³ gdzieœ tutaj z³oty zegarek?}
-{350}{}{[Patrz¹c na Bessy.] Zostawiam.}
-
-# Node 1
 {165}{}{Co mogê dla ciebie zrobiæ?}
 {166}{}{Chcê kupiæ trochê twojej s³ynnej wêdzonki.}
 {168}{}{Czy mo¿esz mi powiedzieæ coœ o rzeŸni?}
 {169}{}{Widzê, ¿e susza jeszcze nie wp³ynê³a zbytnio na twój biznes?}
-{360}{}{Chcê, abyœ przygotowa³ dla mnie trochê wêdzonki.}
-
-# Node 2
 {170}{}{Wiedzia³em, ¿e dasz sobie z tym radê. Wiêc jestem ci winien $1000 za ukoñczenie tej roboty. Niemniej, z powodu twojej nieostro¿noœci pog³owie bramin zmniejszy³o siê o }
 {171}{}{. Licz¹c po $100 za braminê, twoja nagroda wynosi }
 {172}{}{. Nie zadawaj sobie trudu, i nie zmyœlaj liczby bramin, które zosta³y zabite - jeden z moich ch³opaków poszed³ za tob¹ i obserwowa³ ciê z ukrycia.}
 {173}{}{Nie mówi³eœ nic o obci¹¿aniu mnie w przypadku œmierci jakiejkolwiek braminy!}
 {174}{}{Ty wredny, dwulicowy starcu! Argh! Uprzedzam ciê - to jest ostatni raz, gdy zachowujê siê tak grzecznie!}
 {175}{}{Dziêki, ojczulku, interesy z tob¹ to przyjemnoœæ.}
-
-# Node 3
 {176}{}{Jak œmiesz pokazywaæ tutaj swoj¹ twarz! Przez twoje tchórzostwo straci³em dziesiêæ bramin! Jakkolwiek, jeœli chcesz mi to wynagrodziæ, to myœlê, ¿e $1500 pokry³oby wiêkszoœæ moich strat.}
 {177}{}{Te braminy nie by³y warte wiêcej ni¿ $1000.}
 {178}{}{Nie mam takich pieniêdzy, a nawet gdyby, to nie dam ich takiemu cwaniakowi, jak ty.}
 {179}{}{Pieni¹dze mam w swoim pokoju. Pójdê po nie i zaraz wrócê.}
-
-# Node 10
 {180}{}{Ach! Oczywiœcie, oczywiœcie. Zobaczmy, na podró¿... Polecam znane na ca³ym œwiecie paski wêdzonki z bramin. Nie zepsuj¹ siê w podró¿y, a do tego s¹ smaczne. Tylko $10 za paczkê. Nadal zainteresowany?}
 {181}{}{Brzmi nieŸle. Daj mi jedn¹ paczkê.}
 {182}{}{Na razie dziêki, mo¿e póŸniej. Chcê jednak zadaæ ci kilka pytañ.}
@@ -64,7 +50,7 @@
 {199}{}{[Podaj rekê Grishamowi]}
 {200}{}{Poczekaj chwilkê. Teraz, gdy o tym pomyœlê, to te braminy wygl¹da³y na nieco wychudzone. Co powiesz na $750, zamiast $1000?}
 {201}{}{Zmieniam zdanie: nie chcê ci za nic p³aciæ.}
-{202}{}{[Wyszczerza do ciebie zêby] Dobrze wiedzieæ, ¿e jesteœ osob¹ z charakterem.}
+{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
 {203}{}{[Grisham robi siê czerwony jak burak i mówi do ciebie przez zaciœniête zêby.] OK, mo¿e byæ $750. Daj mi pieni¹dze!}
 {204}{}{Wiesz co, $750 dalej wydaje siê byæ znacznie zawy¿on¹ kwot¹. Te braminy i tak by zdech³y, nawet gdyby nie dopad³y ich te psy. Znaj jednak moja dobroæ. Dam ci $50.}
 {206}{}{DOBRA! DAWAJ MI PIENI¥DZE I WYNOŒ SIÊ ST¥D!}
@@ -104,79 +90,53 @@
 {246}{}{Có¿, skoro faktycznie jesteœ lekarzem, to wszystko jest w porz¹dku. Lepiej ju¿ siê ubierzcie - z takich nieporozumieñ rodz¹ siê póŸniej najgorsze plotki. Jeszcze jedno - odczuwam ostatnio jakieœ bóle w odbycie - póki tu jesteœ, czy mo¿esz zerkn¹æ na to okiem?}
 {247}{}{Emm... póŸniej to obejrzê. Czeka na mnie nastêpny pacjent. Do widzenia.}
 {248}{}{Tia. Dlaczego nie pójdziemy po prostu do ksiêdza? Nie próbuj mnie wykiwaæ, albo to ty bêdziesz potrzebowaæ lekarza.}
-
 {260}{}{Wiedzia³em, ¿e sobie z tym poradzisz. Hmm, wiêc jestem ci winien $1000 za ukoñczon¹ robotê. Proszê, oto one.}
-
-# rape script dialog
 {300}{}{Co tu siê, do cholery, dzieje?}
 {301}{}{Uuch... Wiêc, proszê pana, ja w³aœnie...}
 {302}{}{Zabieraj od niej swoje cholerne ³apska...}
-
-#define wedding script dialog
+{350}{}{[Patrz¹c na Bessy.] Zostawiam.}
+{360}{}{Chcê, abyœ przygotowa³ dla mnie trochê wêdzonki.}
 {400}{}{Co tu siê dzieje?}
 {402}{}{Cholera jasna! Wiedzia³em, ¿e }
-{452}{}{ jest trochê nie tego, ale jest tylko jedna metoda, aby to wszystko wyprostowaæ!}
 {403}{}{Jak mo¿na by³o tak zhañbiæ moje dziecko! }
-{453}{}{! Wiesz, ¿e jest tylko jedna metoda, aby to naprawiæ!}
 {404}{}{Ech, Jo, czy mo¿emy pomin¹æ te nudne kawa³ki?}
 {406}{}{Ch³opcze...}
 {407}{}{Panienko...}
 {410}{}{Nie zmuszaj mnie, aby }
-{460}{}{ sta³a siê wdow¹.}
-{461}{}{ sta³ siê wdowcem.}
 {412}{}{Miria}
 {413}{}{Davin}
-
-# Seraph's Code: Cousin Bo
 {414}{}{Yyy, Bo, mo¿emy pomin¹æ tê czêœæ o wi¹zaniu?}
-
 {420}{}{Nigdzie nie pójdziesz, ch³opcze!}
 {421}{}{Nigdzie nie pójdziesz, panienko!}
-
-# Node 4
+{452}{}{ jest trochê nie tego, ale jest tylko jedna metoda, aby to wszystko wyprostowaæ!}
+{453}{}{! Wiesz, ¿e jest tylko jedna metoda, aby to naprawiæ!}
+{460}{}{ sta³a siê wdow¹.}
+{461}{}{ sta³ siê wdowcem.}
 {500}{}{O, ten okaz wygl¹da na ca³kiem dorodny. Powinno byæ z niego sporo dobrej wêdzonki. Wiesz co, powiedzmy, ¿e zatrzymam sobie czêœæ tego miêsa jako zap³atê. Co ty na to?}
 {501}{}{Nie ma mowy! Kocham Bess. Nikt nie bêdzie z niej robi³ ¿adnej wêdzonki.}
 {502}{}{Jak dla mnie, brzmi nieŸle. Kiedy mogê przyjœæ po moj¹ wêdzonkê?}
 {503}{}{Zapomnij o tym, dziadku. Spadam st¹d.}
-
-# Node 5
 {510}{}{Ach... nale¿ysz do 'tych'. Nie chcia³bym zabieraæ ci twojej 'przyjació³ki'. Bez niej noce na pustkowiu by³yby zapewne bardzo... samotne. Nie mam na to czasu, mam du¿o roboty do zrobienia.}
-
-# Node 6
 {515}{}{Œwietnie! PrzyjdŸ do mnie mniej wiêcej za tydzieñ. Bêdziesz móg³ odebraæ swoj¹ wêdzonkê w wêdzarni, która jest zaraz za rzeŸni¹. Zostawiê j¹ dla ciebie w sakwie. Mi³o by³o z tob¹ robiæ interesy.}
-
-# Node 50
 {600}{}{Witaj, }
-{1600}{}{. Mam nadziejê, ¿e dobrze opiekujesz siê moj¹ córk¹, Miri¹. Ona jest dla mnie œwiate³kiem rozjaœniaj¹cym moje ¿ycie. Pêk³o by mi serce, gdyby coœ mia³o siê jej staæ. Gdzie ona jest, tak przy okazji? Mia³em nadziejê, ¿e znowu siê z ni¹ zobaczê.}
 {601}{}{Niech mnie szlag, jeœli to nie jest }
-{1601}{}{. Jak tam ci siê ¿yje w ma³¿eñstwie? Widzê, ¿e mój syn, Davin, nie podró¿uje z tob¹. Bardzo mi go brak. Mo¿e kiedy tu wpadniesz nastêpnym razem, to i on móg³by tu przyjœæ razem z tob¹? Staruszek ucieszy³by siê, gdyby móg³ znowu zobaczyæ swojego syna.}
 {602}{}{Eeeee, on nie ¿yje.}
 {603}{}{Eeeee, ona nie ¿yje.}
 {604}{}{Przed moim odejœciem Miria by³a jeszcze ¿ywa ale mam przeczucie, ¿e teraz jest ju¿ martwa.}
 {605}{}{Przed moim odejœciem Davin by³ jeszcze ¿ywy ale mam przeczucie, ¿e teraz jest ju¿ martwy.}
 {606}{}{Davin, eeee, nie móg³ udaæ siê w podró¿ ale kiedy siê tylko z nim zobaczê, to przeka¿ê mu twoje pozdrowienia.}
 {607}{}{Miria, eeee, nie mog³a udaæ siê w podró¿ ale kiedy siê tylko z ni¹ zobaczê, to uœciskam j¹ od ciebie.}
-
-# Node 51
 {700}{}{Aaach... [Twarz Grishama wykrzywia siê w paroksyzmie bólu, po czym ³apie siê on za serce i pada na pod³ogê]}
-
-# Node 52
 {750}{}{Có¿, muszê teraz wróciæ do pracy. Do zobaczenia.}
-
 {800}{}{Uda³o ci siê uratowaæ braminy Grishama.}
-
-# Seraph's Code: Uncle Biff
 {1101}{}{Widzisz wuja Biffa.}
-
 {1155}{}{Wiedzia³em, ¿e moja bratanica by³a jakaœ dziwna.}
 {1156}{}{Ró¿ni ludzie, ró¿ne gusty, jak przypuszczam.}
 {1157}{}{Cieszê siê, ¿e Grisham tego nie do¿y³.}
 {1158}{}{Wiedzia³em, ¿e mój bratanek by³ jakiœ dziwny.}
-
 {1159}{}{Czyli teraz nale¿ysz do rodziny.}
 {1160}{}{Dobrze siê opiekuj moj¹ bratanic¹.}
 {1161}{}{Dobrze siê opiekuj moim bratankiem.}
-
 {1228}{}{Ch³opcze, nawet nie próbuj tego wyjaœniæ. Nie chcê tego s³yszeæ. Idê po kaznodziejê, za³atwimy to zgodnie z prawem, a potem wyjedziesz i zabierzesz ze sob¹ mojego bratanka.}
 {1229}{}{Nie mogê powiedzieæ, ¿e nie jestem tym wkurzony, ale muszê zrobiæ to co zrobi³by Grisham. Musicie siê hajtn¹æ i wyjechaæ.}
 {1230}{}{Mo¿esz mi wyjaœniæ, co robisz z moj¹ bratanic¹?}
@@ -186,7 +146,8 @@
 {1237}{}{Œwietnie. Bêdê mia³ teraz cwaniaczkê w rodzinie. Có¿... chodŸ bratanico, za³atwmy to szybko.}
 {1238}{}{Popatrzmy. Wygl¹da mi na to, ¿e ty i moja bratanica naœladowaliœcie braminy w sezonie parzenia.}
 {1239}{}{Popatrzmy. Wygl¹da mi na tu, ¿e ty i mój bratanek odstawialiœcie poziome tango miêdzy przeœcierad³ami.}
- 
 {1403}{}{Jak œmiesz plamiæ honor }
-{1412}{}{córki mojego brata.}
-{1413}{}{syna mojego brata.}
+{1412}{}{daughter.}
+{1413}{}{son.}
+{1600}{}{. Mam nadziejê, ¿e dobrze opiekujesz siê moj¹ córk¹, Miri¹. Ona jest dla mnie œwiate³kiem rozjaœniaj¹cym moje ¿ycie. Pêk³o by mi serce, gdyby coœ mia³o siê jej staæ. Gdzie ona jest, tak przy okazji? Mia³em nadziejê, ¿e znowu siê z ni¹ zobaczê.}
+{1601}{}{. Jak tam ci siê ¿yje w ma³¿eñstwie? Widzê, ¿e mój syn, Davin, nie podró¿uje z tob¹. Bardzo mi go brak. Mo¿e kiedy tu wpadniesz nastêpnym razem, to i on móg³by tu przyjœæ razem z tob¹? Staruszek ucieszy³by siê, gdyby móg³ znowu zobaczyæ swojego syna.}

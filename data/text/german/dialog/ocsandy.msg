@@ -7,7 +7,7 @@
 {106}{}{Du komisch. Ich gehn.}
 {107}{}{Ich bin die Person, die dir den Hintern versohlt, wenn du nicht mit diesem Unfug aufhörst und mir deinen Namen sagst.}
 {108}{}{Ich bin nur ein normaler Mensch, der von deiner besonderen Art beeindruckt ist. Wie heißt du?}
-{109}{}{Mach dir nichts draus.}
+{109}{}{Macht nichts.}
 {110}{}{(Kichert) Du siehst lustig aus! Miau... Ich bin Sandy. Ich bin eigentlich keine Katze. Ich spiel nur gern Katze.}
 {111}{}{(Schreit) Mami! Mami! Mami!}
 {112}{}{Ich bin Sandy. Ich bin eigentlich keine Katze. Ich spiel nur gern Katze.}
@@ -31,11 +31,11 @@
 {130}{}{Ich glaub, ich hab genug gehört. Tschüß.}
 {131}{}{Glaub schon. Ich hätt gern Spielkameraden. Aber Mama sagt, das ändert sich bald. Sie meint, daß andere Kinder hierher ziehen. Bis dahin spiel ich gern mit Valdis. Er ist lustig und spielt mit mir Hoppereiter. Mama sagt, ich soll Valdis in Ruhe lassen. Er ist beschäftigt und hat keine Zeit zum Spielen. Aber er spielt immer mit mir, wenn ich ihn frage. Ich erzähl es Mama aber nicht mehr.}
 {132}{}{Hoppe-... (Verwirrter Welpenblick)}
-{133}{}{Ich gehn.}
+{133}{}{Ich gehen.}
 {134}{}{Das ist schön.}
 {135}{}{OK, bis dann.}
 {136}{}{Ja, Mama paßt auf mich auf und Valdis würd nicht zulassen, daß mir jemand weh tut. Ich bin hier sicher.}
 {137}{}{OK. Ich jetzt gehn.}
 {138}{}{Gut, ich geh dann.}
-{139}{}{Hi.}
+{139}{}{Hey.}
 {140}{}{Geh weg! Ich mag dich nicht!}

@@ -22,10 +22,10 @@
 {121}{}{Komm her!}
 {122}{}{Ich kann dir erzählen, was du wissen willst.}
 {123}{}{Ich bin der Martin, ne.}
-{124}{}{Ich kann dir erzählen, was passiert ist.}
+{124}{}{Ich kann dir sagen, was passiert ist.}
 {125}{}{Hallo, ich bin Martin Frobisher. Ich spreche im Namen dieser Leute. Dem Himmel sei Dank,
  daß du hier bist.}
-{126}{}{Was möchtest du wissen?}
+{126}{}{Was möchtest du denn wissen?}
 {127}{}{Nette Klamotten, wie meine. Wer seid ihr?}
 {128}{}{Was macht ihr hier?}
 {129}{}{Bist du der Aufseher?}
@@ -113,7 +113,3 @@
 {182}{}{Wenn ich bloß wüßte, wie ich euch retten kann.}
 {183}{}{Ich denk darüber nach.}
 {184}{}{So ein bizarrer Zufall. Ich habe da noch eine Frage.}
-
-{190}{}{Ich habe einen Plan. Ich geh die Treppe runter und schalte das Kraftwerk ab. Wenn die Kraftfelder ausfallen rennt ihr zum Dach, dort steht ein Vertibird.}
-{191}{}{Großartig, ich sprenge den Computer mit meinem Sprengstoff und ihr rennt dann zum Dach. Ich komme dann nach und wir hauen mit dem Vertibird ab.}
-{192}{}{Gute Idee, ich besorge den Sprengstoff und lasse den Computer hochgehen. Dann könnt ihr zum Dach rennen und beim Vertibird auf mich warten.}

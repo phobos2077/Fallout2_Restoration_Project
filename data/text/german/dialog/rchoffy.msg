@@ -94,7 +94,7 @@
 {167}{}{Ja, klar. Wiedersehn.}
 {168}{}{Na, welchem Minenbesitzer du den Chip auch gibst, der oder die wird jede Menge Vorteil
  aus dem Ding schlagen. Genug, um die andere Mine vom Markt zu drängen.}
-{169}{}{Und...?}
+{169}{}{Und weiter...?}
 {170}{}{Sowas nennt man Kapitalismus, mein Freund. Wiedersehn.}
 {171}{}{Naja, wenn du den Chip Dan McGrew von der Morningstar-Mine gibst, werden wir eine Menge
  mehr Jet in der Stadt sehen. Wenn du den Chip aber der Kokoweef-Mine gibst, werden in

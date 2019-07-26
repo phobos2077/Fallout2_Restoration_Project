@@ -6,15 +6,15 @@
 {105}{}{Aahhrg, aaahrg.}
 {106}{}{Wer bist du?}
 {107}{}{Was ist das alles hier?}
-{108}{}{Schon mal von einem GECK gehört?}
+{108}{}{Schon mal was von einem GECK gehört?}
 {109}{}{Hör mal, Eric fragt, ob er mehr Strom zugeteilt bekommen kann. Er sagt, daß er zuviel schwitzt.}
 {110}{}{He, Eric ist überglücklich in seinem kühlen Haus. Und mir fällt auf, daß der Strom für die Stadt auch nicht ausgefallen ist.}
 {111}{}{Ich hab gerade mit Eric gesprochen. Er sagt, daß er hier früher gearbeitet hat und daß es bei den ganzen Uranblöcken gar nicht auffallen würde, wenn er etwas mehr Strom bekommt. Also her damit.}
-{112}{}{Nichts. Wiedersehn.}
+{112}{}{Nichts. Tschüß.}
 {113}{}{Ich? Ich heiße Brian. Ich betreibe den Generator, der die Stadt mit Strom versorgt.}
 {114}{}{Dann muß ich mit dir reden. Eric sagt, daß es ihm in seinem Haus zu heiß ist ohne Strom für die Klimaanlage und fragt, ob er etwas mehr zugeteilt bekommen kann.}
 {115}{}{Aha, sehr interessant. Mit dem Job bist du wohl sehr zufrieden?}
-{116}{}{Klasse. Ich habe noch mehr Fragen.}
+{116}{}{OK. Ich habe noch mehr Fragen.}
 {117}{}{Das ist hier der Stromgenerator für ganz Broken Hills. Mein Job besteht im Grunde darin, den Generator am Laufen zu halten...also hauptsächlich in der Wartung. Er funktioniert aber sehr gut, muß man sagen...wird von Uranblöcken angetrieben.}
 {118}{}{Das hört sich ja toll an. Ich hab noch ein paar Fragen.}
 {119}{}{Uranblöcke?}
@@ -26,7 +26,7 @@
 {125}{}{Wenn dieser Generator von Uranblöcken angetrieben wird, dann habt ihr mehr als genug Energie für diese Stadt UND New Reno, ohne daß der Energieverlust weiter auffällt. Also her damit.}
 {126}{}{Aber...er leidet doch.}
 {127}{}{Es gibt also gar keine Möglichkeit, ein paar Änderungen vorzunehmen?}
-{128}{}{[schaut mißmutig auf sein Schaltpult und sagt leise] Du bist gemein.}
+{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
 {129}{}{Jau. Tschüß!}
 {130}{}{He! Pack ja nichts an! Das sind empfindliche Geräte! Raus hier! Raus! Jetzt hau schon ab!}
 {131}{}{Ooooh! Nöpfe!}
@@ -36,10 +36,10 @@
 {135}{}{Danke. Tschüß.}
 {136}{}{Tja, mit der Uranmine vor Ort und weil Atomkraft doch die Energiequelle der Zukunft ist, gehen wir halt mit der Zeit. Wir sind zwar nur eine kleine Stadt, aber wir denken fortschrittlich.}
 {137}{}{Hmm. Alles klar. Ich habe noch ein paar Fragen.}
-{138}{}{OK. Tschüß.}
+{138}{}{OK. Wiedersehn.}
 {139}{}{Ja ja, technisch gesehen stimmt das schon, aber...}
 {140}{}{Aber gar nichts. Du bist ja nur faul. Beweg dich mal.}
-{141}{}{Du brauchst gar nicht so gemein zu sein. [zieht den Kopf ein und dreht an einem Schalter] Hier. Jetzt sag ihm auch, er soll sich nicht mehr beschweren.}
+{141}{}{You don't have to be mean about it. [He ducks his head and turns a dial.] There. Please tell him to stop complaining now.}
 {142}{}{Du hast ja im Grunde doch ein weiches Herz, was?}
 {143}{}{Steck's dir sonstwohin. Du hast das alles schwieriger als notwendig gemacht.}
 {144}{}{Vielleicht sollte er ein bißchen öfter baden. Auf Wiedersehen.}

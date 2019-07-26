@@ -25,7 +25,7 @@
 {124}{}{Wenn du mir einen Gefallen erweist, dann werde ich dir helfen, mein Kind.}
 {125}{}{Oink? [Worum geht's? Ich werde dir gern behilflich sein.]}
 {126}{}{Nein!}
-{127}{}{Mein Rivale, der Kaiser von Shitown, hat mir das Leben immer schwer gemacht. Darum sollst du seines beenden. Als Gegenleistung werde ich dafür sorgen, daß du überall hinkommst, wo du willst.}
+{127}{}{Mein Rivale, der Kaiser von Shi-Town, hat mir das Leben immer schwer gemacht. Darum sollst du seines beenden. Als Gegenleistung werde ich dafür sorgen, daß du überall hinkommst, wo du willst.}
 {128}{}{Ais! [Ich mach's.]}
 {129}{}{Nein!}
 {130}{}{Laß es mich wissen, wenn du deine Meinung änderst. Denk dran, ich könnte deine einzige Chance sein, deine Familie wiederzufinden.}
@@ -92,13 +92,13 @@
 {191}{}{Na los doch.}
 {192}{}{Warte, ich habe meine Meinung geändert.}
 {193}{}{Zu spät, Felgenfleisch. Du hast dich als nicht vertrauenswürdig erwiesen. Stirb!}
-{194}{}{[Fertig]}
+{194}{}{[Erledigt]}
 {195}{}{Mein Kind, es gibt einige Dinge, die du im Moment nicht wissen darfst. [Er lächelt wohlwollend.]}
 {196}{}{OK. Ich habe noch weitere Fragen.}
 {197}{}{Hm. Bis dann.}
 {198}{}{Die HSS Quetzel wird starten, sobald die Sterne richtig stehen.}
 {199}{}{Alles klaro. Ich habe weitere Fragen.}
-{200}{}{Danke, Wiedersehn.}
+{200}{}{Danke. Tschüß.}
 {201}{}{Deine zerrissene Aura verrät mir, daß du nichts Gutes im Schilde führst. Sag, mein Sohn, möchtest du etwa aus deinem Unternehmen Profit schlagen?}
 {202}{}{Ja.}
 {203}{}{Nein.}

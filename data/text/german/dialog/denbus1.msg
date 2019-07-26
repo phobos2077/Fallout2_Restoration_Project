@@ -12,4 +12,3 @@
 {1200}{}{Du lieferst Smittys Essen.}
 {1300}{}{Du hast eine Schwachstelle in Tylers Gang entdeckt.}
 {1400}{}{Du hast die Erlaubnis Laras Gang anzugreifen.}
-

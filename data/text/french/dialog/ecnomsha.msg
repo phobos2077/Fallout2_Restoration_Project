@@ -2,16 +2,16 @@
 {101}{}{On dirait un chaman nomade.}
 {102}{}{L'odeur forte des herbes reste accrochée à ses vêtements.}
 {103}{}{Bonjour. Je suis le chaman de cette tribu. Je possède des pouvoirs de guérison.}
-{104}{}{Re-bonjour.}
+{104}{}{Rebonjour.}
 {105}{}{J'ai besoin d'une guérison.}
 {106}{}{Peux-tu mélanger la racine de Xandre et la fleur de Broc ?}
 {107}{}{Salut.}
-{108}{}{Ouga.}
+{108}{}{Ooga.}
 {109}{}{Reste calme. Je vais t'examiner.}
-{110}{}{[Suite]}
-{111}{}{Voici les maux que j'ai trouvés : } #continue at 136
+{110}{}{[Continue]}
+{111}{}{Voici les maux que j'ai trouvés : }
 {112}{}{Peux-tu m'aider ?}
-{113}{}{Pour ce prix-là, je peux : } # continue at 140
+{113}{}{Pour ce prix-là, je peux : }
 {114}{}{S'il te plaît, extrais ce poison de mon corps.}
 {115}{}{Guéris-moi, je t'en prie !}
 {116}{}{Vois ce que tu peux faire avec mon membre cassé.}
@@ -22,10 +22,10 @@
 {121}{}{J'ai encore besoin de tes compétences.}
 {122}{}{Merci, je me sens beaucoup mieux. Salut.}
 {123}{}{Mes compétences sont limitées et je ne peux pas t'aider plus dans ce domaine.}
-{124}{}{[Suite]}
+{124}{}{[Continue]}
 {125}{}{Tu n'as pas besoin de ce genre de soin.}
-{126}{}{[Suite]}
-{127}{}{Ah, tu connais les vertus thérapeutiques de ces deux plantes. Ca te coûtera seulement } # continue at 150
+{126}{}{[Continue]}
+{127}{}{Ah, tu connais les vertus thérapeutiques de ces deux plantes. Ca te coûtera seulement }
 {128}{}{S'il te plaît, mélange ces deux plantes pour moi.}
 {129}{}{Plus tard peut-être. Salut.}
 {130}{}{[Tu le regardes broyer avec soin les deux plantes et les mélanger. Il te tend des quantités de poudre dosées avec précision.]}
@@ -44,8 +44,8 @@
 {143}{}{Infidèle !}
 {144}{}{Pourquoi nous attaques-tu ?}
 {145}{}{Je défendrai la tribu au prix de ma vie !}
-{146}{}{Comment oses-tu violer notre hospitalité ?}
+{146}{}{Comment oses-tu violer notre hospitalité ?!}
 {147}{}{Hors d'ici !}
-{148}{}{Laisse-nous.}
+{148}{}{Laisse-nous !}
 {149}{}{Notre tribu est pacifique.}
 {150}{}{ et je mélangerai les deux plantes pour toi.}

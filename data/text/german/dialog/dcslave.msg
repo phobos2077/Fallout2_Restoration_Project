@@ -1,18 +1,11 @@
-# 0. Look Primitive
 {100}{}{Du siehst einen großen, Wilden.}
 {125}{}{Sein ganzer Körper ist mit Narben übersät.}
-
 {150}{}{Du siehst eine schlanke Wilde.}
 {175}{}{Sie sieht aus, als ob sie geschlagen worden wäre.}
-
-# 1. Look Nomad
 {200}{}{Du siehst einen zerlumpten Mann.}
 {225}{}{Er sieht nicht besonders gesund aus.}
-
 {250}{}{Du siehst eine gefangene Frau.}
 {275}{}{Sie ist schmutzig und scheint unterernährt zu sein.}
-
-# 2. CF: Freed
 {300}{}{Bitte nichts tun!}
 {301}{}{Gehn wir jetzt?}
 {302}{}{Kann nicht reden. Muß fliehen.}
@@ -21,8 +14,6 @@
 {305}{}{Du bist ein Heiliger.}
 {306}{}{Was tust du? Wir sollten gehen.}
 {307}{}{Hilf uns bitte bei der Flucht.}
-
-# 3. CF: PC is Slaver
 {320}{}{Du schlecht!}
 {321}{}{Wir nix reden mit dir.}
 {322}{}{Wir werden sein frei.}
@@ -36,9 +27,7 @@
 {330}{}{Was haben wir falsch gemacht?}
 {331}{}{Laß uns in Ruhe, Sklavenhändler!}
 {332}{}{Tu mir nicht weh!}
-{333}{}{Bleib mir vom Leib!}
-
-# 4. CF: PC is Not Slaver
+{333}{}{Lass mich in Ruhe!}
 {350}{}{Wer du?}
 {351}{}{Du nix Sklavenhändler.}
 {352}{}{Du nix weh tun?}
@@ -50,8 +39,6 @@
 {358}{}{Was glauben diese Leute, was sie sind?!}
 {359}{}{Bitte hilf uns!}
 {360}{}{Hol mich hier raus.}
-
-# 5. BGF: Not Free
 {380}{}{Du nix halten uns hier!}
 {381}{}{Nix Recht!}
 {382}{}{Wir nicht schlecht!}
@@ -88,8 +75,6 @@
 {413}{}{Hilfe! Verlaß uns nicht!}
 {414}{}{Was war das für eine Schießerei?}
 {415}{}{Was geht hier vor?}
-
-# 7. BGF: Fleeing
 {420}{}{Ahhh!}
 {421}{}{Ug!}
 {422}{}{Hör nicht auf!}
@@ -97,8 +82,6 @@
 {424}{}{Ich versuche, so weit weg von diesem Ort zu kommen, wie möglich.}
 {425}{}{Los weiter!}
 {426}{}{Freiheit! Endlich in Freiheit!}
-
-# 8. Metzger is Dead (From Where to go)
 {440}{}{Welche lauten Schüsse? Was willst du?}
 {441}{}{Hey! Was war das für eine Schießerei? Sind die Sklavenhändler tot?}
 {442}{}{Hey! Was war das für eine Schießerei? Was ist los?}
@@ -108,46 +91,33 @@
 {446}{}{Du frei.}
 {447}{}{ Freund. Er töten Mezgur. Du gehen.}
 {448}{}{ Freund. Sie töten Mezgur. Du gehen.}
-
-# 9. Metzger is Dead (From 8)
 {460}{}{Er tot? Danke! Wir gehen schnell. Tschüß. Du Freund.}
 {461}{}{Was? Metzger ist tot? Oh vielen Dank! Wir gehen besser, bevor die anderen kommen. Noch
  mal vielen Dank.}
 {462}{}{Keine Ursache. Aber geht jetzt.}
 {463}{}{Halt die Ohren steif.}
 {464}{}{Gern geschehen.}
-
 {470}{}{Warte... Ich suche jemand bestimmtes und ich sehe sie hier nicht. Weißt du ob irgendwo noch andere Sklaven gefangen gehalten werden?}
 {471}{}{Es gibt ein großes Lager außerhalb. [Er weist Richtung Südwesten.] Zwei Monde von hier.}
 {472}{}{Es gibt ein Lager etwa zwei Tagesreisen südwestlich von hier. Dort war ich bevor ich hierher kam.}
 {473}{}{Danke. Nun laufe in die Freiheit.}
 {474}{}{Danke. Pass auf dich auf.}
-
-#dumb dialgoue added by killap
 {475}{}{Wart. Ich such'n. Wo mehr Sklavn?}
 {476}{}{Danke. Ich jetz gehn!}
-
-# 10. Metzger Dead, Next Times (From Where to go)
 {480}{}{Was willste?}
 {481}{}{Was willst du?}
 {482}{}{Oh, nichts.}
-
-# 11. Bullet (From 8)
-{500}{}{Was?}
+{500}{}{Häh?}
 {501}{}{Macht nichts. Ihr könnt gehen. Metzger ist tot.}
-
-# 12. You Free (From 8)
 {510}{}{Was? Frei? Schlechte Männer weg? Wir jetzt gehen! Danke! Du Freund! Tschüß!}
 {511}{}{Frei? Was? Du hast alle getötet? Oh vielen Dank! Wir sollten gehen, solange wir noch
  können. Noch mal danke, du bist ein Heiliger!}
-
-# 13. NPC Sold to Slavery (From WTG)
 {520}{}{Du Mistkerl!}
 {521}{}{Du sollst in der Hölle schmoren!}
 {522}{}{Dafür sollst du büßen.}
 {523}{}{Warum redest du überhaupt mit mir?}
 {524}{}{Laß mich in Ruhe.}
-{525}{}{Ich möchte nicht mit Dir reden.}
+{525}{}{Will mit dir nicht reden.}
 {526}{}{Wie konntest Du!?}
 {527}{}{Ich will dich nie wieder sehen.}
 {528}{}{Dadurch wird sich nichts ändern.}
@@ -158,19 +128,16 @@
 {533}{}{Laß mich in Ruhe.}
 {534}{}{Keine Chance.}
 {535}{}{Glaubst du, dadurch ändert sich was?}
-
-# 6. BGF: Just Freed
 {600}{}{Wir gehn?}
 {601}{}{Nix weh?}
 {602}{}{Gehn!}
 {603}{}{Nach Hause!}
 {604}{}{Frei?}
-{605}{}{Hä?}
+{605}{}{Häh?}
 {606}{}{Was?}
 {607}{}{Sagtest du frei?}
 {608}{}{Nichts wie raus hier!}
 {609}{}{Also gehen wir!}
 {610}{}{Hört alle her! Wir sind frei!}
 {611}{}{Juhuuu!}
-
 {700}{}{Du befreist die Sklaven aus ihren Pferchen.}

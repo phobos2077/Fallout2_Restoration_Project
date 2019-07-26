@@ -1,12 +1,11 @@
 {100}{}{Ein Stockbetrunkener. [Er trägt ein Schild mit der Aufschrift "Arbeite für eine Mahlzeit".]}
 {101}{}{Karl.}
 {102}{}{Er ist so verdreckt, daß ihm schon Blumen aus dem Haar wachsen.}
-
 {150}{}{Hier, nimm ein Bier.}
 {151}{}{Hier, nimm 'ne Flasche Schnaps.}
 {152}{}{Hier, nimm 'ne Nuka Cola.}
 {153}{}{Hey.}
-{154}{}{Hey!}
+{154}{}{He!}
 {155}{}{HEY!!}
 {156}{}{Hier werden die Geister mich nicht finden... [schluchz]}
 {157}{}{Ist das schön, wieder Zuhause zu sein.}
@@ -86,18 +85,14 @@
 {247}{}{[Er ernüchtert schnell und beginnt, seine Geschichte zu erzählen.] Bevor ich hierher kam, war ich ein aufrechter Bürger. Ein friedlicher Farmer, der hart auf dem Acker arbeitete.Bis sie plötzlich bei Nacht erschienen! Ihre fahle weiße Haut leuchtete. Haben mich echt zu Tode erschreckt. Jede Nacht kamen sie und stahlen das Vieh und die Ernte und ich konnte nichts dagegen tun. Ich weiß schon, was du jetzt sagen wirst - "Warum hast du niemanden um Hilfe gefragt?" Hab ich ja! Niemand wollte mir glauben. Sie dachten, ich wär verrückt. Und irgendwann konnte ich es nicht mehr aushalten. ICH KONNTE EINFACH NICHT MEHR! Ich bin einfach gegangen und kam hierher. Und seitdem bin ich hier. [Karl beginnt, hemmungslos zu weinen. Du beschließt, ihn mit seinem Elend alleine zu lassen.]}
 {248}{}{Oh Gott. Ich muß mein Geld unterwegs verloren haben. Hier hast du $}
 {249}{}{.}
-
 {250}{}{Zzz}
 {251}{}{Zzzzzz}
 {252}{}{Zzzzzzzzz}
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
 {255}{}{*schnarch* *grunz* *schnarch*}
-
 {260}{}{Oh Gott. Ich muß mein Geld unterwegs verloren haben. Hier hast du $}
 {261}{}{. Mehr hab ich nicht.}
 {262}{}{Oh Gott. Ich muß mein Geld unterwegs verloren haben. Tut mir leid. Aber es war schön.}
-
 {300}{}{Ich geh nach Hause. Danke Dir!}
-
 {400}{}{Du hast Karl auf den Weg zurück nach Modoc geschickt.}

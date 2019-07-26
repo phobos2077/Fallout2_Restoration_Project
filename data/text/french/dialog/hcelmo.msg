@@ -18,4 +18,3 @@
 {117}{}{Tu veux t'battre ? J'suis une épave.}
 {118}{}{::Armure:: ::Chancellement::}
 {119}{}{Je t'aime !}
-

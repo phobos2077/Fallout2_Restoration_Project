@@ -6,7 +6,7 @@
 {104}{}{Du schon wieder? Was willst du?}
 {105}{}{Was willst du?}
 {106}{}{Duh...}
-{107}{}{Ich suchen Vault 13? Du helfen?}
+{107}{}{Me look Vault 13. You help?}
 {108}{}{Ich suche Vault 13. Kannst du mir helfen?}
 {109}{}{Ich hab deine schmutzige Arbeit erledigt.}
 {110}{}{Böse Dinger kommen. Ich scheuch. Muh-Muhs sicher.}
@@ -14,7 +14,7 @@
 {112}{}{Ich such 'nen Job.}
 {113}{}{Die Erstbürgerin Lynette läßt dich grüßen. Sie hat etwas für dich.}
 {114}{}{Bishop hat mich geschickt.}
-{115}{}{Uups.}
+{115}{}{Hoppla.}
 {116}{}{Ist das alles? Rede mit Felix, meinem Vorarbeiter.}
 {117}{}{Du verstehst mich nicht. Ich bin wegen 'nem Job hergekommen.}
 {118}{}{Der Sheriff meinte, ich sollt mich an dich selber wenden.}
@@ -25,17 +25,17 @@
 {122}{}{Halt's Maul.}
 {123}{}{Oh - ein einfaches Gemüt, was? Traurige Sache. Muß ein schweres Los sein. Hör zu - du
  gehen zu Fee-lix. Felix dir geben Job. Kapiert?}
-{124}{}{Ah-ha.}
+{124}{}{A-ha.}
 {125}{}{Was glaubst du denn? Du weißt zuviel. Was wäre, wenn du wieder in die NCR kommst und ihn
  verpfeifst - oder damit drohst? Du bist schon so gut wie tot. Ich hätte dagegen ein besseres
  Angebot.}
 {126}{}{Und das wäre?}
-{127}{}{Ich glaub dir nicht.}
+{127}{}{Das glaub ich nicht.}
 {128}{}{Leg statt dessen Bishop um. Ich zahle bar, dasselbe wie er und schlag noch mal 50 Prozent
  drauf. Wieviel hat er dir geboten?}
 {129}{}{(brauche Info von Chris)}
 {130}{}{(soll heißen, Avellone)}
-{131}{}{Gut.}
+{131}{}{Wie du willst.}
 {132}{}{Topp!}
 {133}{}{Pech für dich, Alter.}
 {134}{}{Ich freue mich drauf, von dir zu hören. Geh jetzt wieder raus, wie du gekommen bist.}
@@ -43,7 +43,7 @@
  versprochen und ich halte mich an meine Zusagen. Hier hast du's.}
 {136}{}{Kann ich sonst noch was für dich tun?}
 {137}{}{Danke. Vielleicht kannst du mir weiterhelfen. Ich bin auf der Suche nach Vault 13.}
-{138}{}{Auf Wiedersehen.}
+{138}{}{Wiedersehn.}
 {139}{}{Dumont hat dich empfohlen? Das genügt mir. Ich hab Probleme mit ein paar Typen oder Biestern, die
  nachts mein Vieh überfallen. Ich muß wissen, was da los ist. Kannst du das für mich rausfinden? Ich würd dich auch bezahlen.}
 {140}{}{Klingt nach leichter Arbeit. Ich erledige das.}
@@ -66,8 +66,7 @@
 {153}{}{Ich weiß nicht, ob ich dir das glaube, aber hier ist dein Geld. Wenn du gelogen hast, finden meine Jungs dich. Ich wollte dir auch noch 'ne Auskunft geben, also: Ich habe allerhand über Tandi und den Vaultbewohner gehört. Anscheinend hat er ihr das Leben gerettet, lange bevor die NCR gegründet wurde. Also, die Legende besagt, daß er einen Vault östlich von hier gesucht hat. Wenn das nicht Vault 13 ist, findest du dort vielleicht einen Hinweis, wie du dahin kommst.}
 {154}{}{Ich tanke!}
 {155}{}{Danke.}
-{156}{}{Die Erstbürgerin? Hervorragend, genau darauf hab ich gewartet. Bist du Bürger von
- Vault City?}
+{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
 {157}{}{Ja.}
 {158}{}{Nein.}
 {159}{}{Bestimmt bist du ein guter Bürger, da bin ich mir sicher. Ich möchte dich bitten, diese
@@ -77,20 +76,17 @@
 {161}{}{Jawohl.}
 {162}{}{Das wär's dann.}
 {163}{}{Ich hab noch ein paar Fragen.}
-{164}{}{Was auch immer.}
+{164}{}{Wie du willst.}
 {165}{}{Einen Job. Du meinst --}
 {166}{}{Bishop schickt mich. Ich hab eine kleine Nachricht für dich.}
 {167}{}{Mach's gut und gute Nacht, Alter.}
 {168}{}{Dollar, abgemacht. Wenn du die Arbeit machst, geb ich dir das Geld. Wenn du Nein sagst,
  kommst du hier nicht mehr lebend weg. Wie sieht's aus?}
-
 {169}{}{Oh ja. Ich hatte ein paar Probleme mit Schädlingen, aber seit einiger Zeit ist Ruhe. Tut mir leid. Frag mal Felix, vielleicht hat der was für dich.}
-{170}{}{Okay, danke.}
-
+{170}{}{Ok, danke.}
 {171}{}{Ähhhem....ich hab ein schwaches Herz...ich kann nicht...}
 {172}{}{Muß.....Feeellliixx sssaaaagennnn...}
 {173}{}{Donnerlittchen, sieht wirklich stark nach Herzschwäche aus.}
-
 {174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! DAS BRENNT!!!}
-
 {175}{}{Du hast die Holodisk bei Westin abgeliefert.}
+{176}{}{His heart go boom boom.}

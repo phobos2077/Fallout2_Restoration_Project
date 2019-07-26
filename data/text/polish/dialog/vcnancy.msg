@@ -38,23 +38,23 @@
 {137}{}{Uch... hmmm. Pos³uchaj mnie, tym razem uwa¿nie: TY - IŒÆ - MARTIN.}
 {138}{}{TYCI MARTIN.}
 {139}{}{Ja boli... *snfff*... auæ BOLI}
-{140}{}{OdejdŸ bez s³owa.}
+{140}{}{OdejdŸ, jak gdyby nigdy nic.}
 {141}{}{TAK, MARTIN. IŒÆ - DOLNY - POZIOM.}
 {142}{}{TAK, MAR-TIN. IŒÆ - DOLNY - POZIOM.}
 {143}{}{Ja boli... *snfff*... auæ BOLI}
-{144}{}{OdejdŸ bez s³owa.}
+{144}{}{OdejdŸ, jak gdyby nigdy nic.}
 {145}{}{IŒÆ - DOLNY - POZIOM. POZIOM - TRZY. JU¯.}
 {146}{}{JA IŒÆ DOLNY POZIOM TRZY JU¯}
 {147}{}{Ja boli... *snfff*... auæ BOLI}
-{148}{}{OdejdŸ bez s³owa.}
+{148}{}{OdejdŸ, jak gdyby nigdy nic.}
 {149}{}{Mo¿e nasi S³u¿¹cy cierpi¹ na Zespó³ Nabytego Braku Inteligencji...}
 {150}{}{Och! Có¿, witamy w Kryptopolis, Kapitanie.}
 {151}{}{Có¿, drogi Obywatelu, witamy w Kryptopolis.}
 {152}{}{Rzadko zagl¹da tu ktoœ nowy. Jestem Fillis. A ty jak masz na imiê?}
-{153}{}{Nazywam siê}
-{154}{}{Jestem }
+{153}{}{Jestem }
+{154}{}{To ja jestem }
 {155}{}{Przedstawiam siê, gdy mam tak¹ chêæ, "Sy-filis"... czy jak ciê tam u diab³a zw¹.}
-{156}{}{Przepraszam, ale nie mam teraz czasu na pogaduszki.}
+{156}{}{Wybacz, nie mam teraz czasu na rozmowy.}
 {157}{}{Co takiego, na wszystkie...! NIGDY nie zdarzy³o mi siê spotkaæ kogoœ równie Ÿle wychowanego. Proszê wyjœæ, natychmiast.}
 {158}{}{Lepiej uwa¿aj na ton, albo bêdziesz mieæ k³opoty.}
 {159}{}{Wszystko jedno. I tak mam ju¿ doœæ tej rozmowy.}
@@ -70,12 +70,12 @@
 {169}{}{Co myœlisz o doktorze Troyu?}
 {170}{}{Czy mo¿esz wskazaæ mi drogê do G³ównego Komputera?}
 {171}{}{Potrzebujê uzdrowienia.}
-{172}{}{Na czym polega twoje zajêcie?}
-{173}{}{Co mo¿esz powiedzieæ mi o Kryptopolis?}
+{172}{}{Czym siê zajmujesz?}
+{173}{}{Co mo¿esz mi powiedzieæ o Kryptopolis?}
 {174}{}{W³aœciwie to niewa¿ne, ale i tak dziêki.}
 {175}{}{Och, dr Troy potrafi byæ czasem bardzo surowy, ale w gruncie rzeczy jest dobrym cz³owiekiem. To wielkie szczêœcie dla Kryptopolis, ¿e jest z nami.}
 {176}{}{Bo wiesz, chcia³, ¿eby przeszmuglowaæ mu tutaj trochê narkotyków.}
-{177}{}{Mogê zadaæ jeszcze jedno pytanie?}
+{177}{}{Mogê zadaæ nastêpne pytanie?}
 {178}{}{Dziêki za to, ¿e znalaz³aœ dla mnie chwilê. Do widzenia.}
 {179}{}{}
 {180}{}{}
@@ -87,12 +87,12 @@
 {186}{}{Jak chcesz. Mogê zadaæ ci inne pytanie?}
 {187}{}{Dziêki za ostrze¿enie. Lepiej pójdê pogadaæ z kimœ innym.}
 {188}{}{Jest na 3-cim poziomie, jeœli dobrze pamiêtam. Dawno ju¿ tam nie zagl¹da³am.}
-{189}{}{Czemu?}
-{190}{}{Mogê zadaæ ci jeszcze jedno pytanie?}
+{189}{}{Dlaczego?}
+{190}{}{Mogê zadaæ nastêpne pytanie?}
 {191}{}{Dziêki za wskazówki. Na razie.}
 {192}{}{Och, nie wiem. W sumie nie ma zbyt wielu powodów, ¿eby tam schodziæ. Dolne poziomy Krypty u¿ywane s¹ teraz g³ównie jako magazyny. Jedynym ich mieszkañcem jest Martin, ale... no wiêc, tak miêdzy nami, to kiepski z niego partner do konwersacji.}
 {193}{}{Uuch... dlaczego uczyniono go partnerem do rozmowy, skoro nie jest w tym dobry?}
-{194}{}{Mogê zadaæ ci jeszcze jedno pytanie?}
+{194}{}{Mogê zadaæ nastêpne pytanie?}
 {195}{}{Rozumiem. Dziêki za informacjê.}
 {196}{}{Có¿... mo¿e LEPIEJ sprawdziæ to osobiœcie? Ty i on macie ze sob¹ wiêcej wspólnego, ni¿ mi siê na pocz¹tku wydawa³o.}
 {197}{}{Czy mogê najpierw jeszcze o coœ ciê spytaæ?}
@@ -129,11 +129,11 @@
 {228}{}{Co, masz na myœli stosunek p³ciowy? Stosunki p³ciowe s¹ dozwolone równie¿ poza cyklami rozrodczymi.}
 {229}{}{I nie powoduje to zachodzenia w ci¹¿ê?}
 {230}{}{Och. Mam kilka innych pytañ...}
-{231}{}{Och, no có¿. Tylko tak pytam.}
+{231}{}{Och, no có¿. Tak tylko pytam.}
 {232}{}{Oj, nie, nie nie... my nie zachodzimy w ci¹¿ê na skutek stosunków p³ciowych.}
 {233}{}{A¿ siê bojê pytaæ, ale i tak zapytam.}
 {234}{}{Nie chcê wiedzieæ nic wiêcej. Mimo to mam kilka innych pytañ...}
-{235}{}{Myœlê, ¿e starczy mi ju¿ tej wiedzy.}
+{235}{}{Chyba mam ju¿ doœæ.}
 {236}{}{Obywatele p³ci mêskiej "sk³adaj¹ dary" do Auto-doktora tu, w Krypcie, a komputer dobiera najkorzystniejsze po³¹czenia genów. Potem odpowiedni Obywatel p³ci ¿eñskiej zostaje zap³odniony przez Auto-doktora.}
 {237}{}{Czy móg³bym z³o¿yæ dar?}
 {238}{}{Czy mimo tego ludzie nie zachodz¹ w ci¹¿ê poprzez stosunek p³ciowy? No wiesz, co z przypadkowymi ci¹¿ami?}
@@ -154,7 +154,7 @@
 {253}{}{Mo¿e dzieje siê tak po prostu dlatego, ¿e nie uprawiacie tu zbyt wiele porz¹dnego seksu.}
 {254}{}{Och, no có¿. Tak tylko pytam.}
 {255}{}{Wiesz co, te¿ o tym myœla³am. Mo¿e powinnam wspomnieæ o tym doktorowi Troyowi. Ostatnio jest bardzo zajêty, ale przecie¿ ZBLI¯A siê kolejny cykl rozrodczy, wiêc...}
-{256}{}{Mogê zadaæ ci kilka innych pytañ?}
+{256}{}{Czy mogê zadaæ ci kilka innych pytañ?}
 {257}{}{To chyba dobry pomys³. Powodzenia.}
 {258}{}{Chodzi o to, ¿e oni wszyscy s¹ jak... klony. Wszyscy ubieraj¹ siê tak samo, robi¹ to samo, a najbardziej przera¿aj¹ce w tym wszystkim jest to, ¿e im jest z tym dobrze. Ja... có¿, czasami bojê siê, ¿e siê w koñcu do nich upodobniê. To pewnie nie brzmi zbyt m¹drze, co?}
 {259}{}{Ani trochê. Nacisk na podporz¹dkowywanie siê grupie musi byæ tutaj bardzo silny, szczególnie gdy weŸmiemy po uwagê, jak zamkniêt¹ spo³ecznoœci¹ jest Kryptopolis.}

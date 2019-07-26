@@ -1,7 +1,5 @@
-{100}{}{Tu vois Sheb.}
-
+{100}{}{You see... Sheb.}
 {150}{}{Tu vois un homme décharné portant des vêtements bleu vif. Comme si ça ne suffisait pas pour se faire remarquer, il hurle à pleins poumons.}
-
 {200}{}{Butin, butin, bu-tiiin !}
 {201}{}{Entrez, amateurs de butin !}
 {202}{}{Ici, au Cat's Paw, on coupe les prix en deux !}

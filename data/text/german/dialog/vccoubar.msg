@@ -7,10 +7,10 @@
 {104}{}{Wie wär's mit einem Drink, Held?}
 {105}{}{Wilkommen, Held. Bitte, setz dich.}
 {106}{}{Bitte! Setz dich und ruh dich ein wenig aus!}
-{107}{}{Schönen Tag noch, Hauptmann.}
-{108}{}{Vault City lebe hoch, Hauptmann.}
+{107}{}{Guten Tag, Hauptmann.}
+{108}{}{Vault City wird bestehen, Hauptmann.}
 {109}{}{Guten Tag, Bürger.}
-{110}{}{Vault City lebe hoch, Bürger.}
+{110}{}{Vault City wird bestehen, Bürger.}
 {111}{}{Ein Mutant! Wache! Wache!}
 {112}{}{Ein Ghul! Wache! Wache!}
 {113}{}{Tut mir leid, die Bar ist für heute geschlossen.}
@@ -19,25 +19,25 @@
 {116}{}{Willkommen! Wir haben alle schon von deinen Heldentaten gegen die Enklave gehört. Kann
  ich dir einen ausgeben?}
 {117}{}{Onn-onn}
-{118}{}{[Verschwinde.]}
-{119}{}{Was gibt's hier denn hier im Ausschank?}
+{118}{}{Verzieh dich}
+{119}{}{Was gibt's denn vom Faß?}
 {120}{}{Ich brauche ein paar Auskünfte.}
-{121}{}{Im Augenblick nichts, danke.}
+{121}{}{Heute nichts, danke.}
 {122}{}{Hah-hah, selber "onn-onn". Sei bitte vorsichtig im Ödland.}
 {123}{}{Uuhnt-uuhnt!}
-{124}{}{[Verschwinde.]}
+{124}{}{Verzieh dich}
 {125}{}{Was kann ich für dich tun, Hauptmann?}
 {126}{}{Was kann ich für dich tun, Bürger?}
-{127}{}{Ja? Kann ich etwas für dich tun?}
+{127}{}{Ja? Kann ich Dir helfen?}
 {128}{}{Onn-onn}
-{129}{}{[Verschwinde.]}
-{130}{}{Was gibt's hier denn hier im Ausschank?}
+{129}{}{Verzieh dich}
+{130}{}{Was gibt's denn vom Faß?}
 {131}{}{Ich brauche ein paar Auskünfte.}
-{132}{}{Im Augenblick nichts, danke.}
+{132}{}{Heute nichts, danke.}
 {133}{}{Ja, ja, du auch "onn-onn". Moment mal, ich rufe nur schnell die Wachen zusammen, um dich
  zum Tor zu "onnten".}
 {134}{}{Ernt? Örnt-örnt.}
-{135}{}{[Verschwinde.]}
+{135}{}{Verzieh dich}
 {136}{}{"Im Ausschank?" Wie...niedlich...}
 {137}{}{Wir haben Mineralwasser, destilliertes Wasser und Sprudelwasser. Außerdem haben wir
  mehrere synthetische Alkoholsorten.}
@@ -45,7 +45,7 @@
 {139}{}{Äh, habt ihr auch was Richtiges zu trinken?}
 {140}{}{Wasser, bitte.}
 {141}{}{Macht nichts. Ich brauche ein paar Auskünfte.}
-{142}{}{Im Augenblick nichts, danke.}
+{142}{}{Heute nichts, danke.}
 {143}{}{Sehr gut.}
 {144}{}{Sehr gut.}
 {145}{}{Was möchtest du also? Mineralwasser? Destilliertes Wasser? Oder Sprudelwasser? Alles zum 
@@ -66,12 +66,12 @@
 {157}{}{Hmmm. Ich probier mal diesen köstlichen Alkohol-Z.}
 {158}{}{Macht nichts. Ich brauche ein paar Auskünfte.}
 {159}{}{Das ist ja ganz schön teuer. Ich komm wieder, wenn ich mehr Geld habe.}
-{160}{}{Im Augenblick nichts, danke.}
+{160}{}{Heute nichts, danke.}
 {161}{}{Darf's sonst noch was sein?}
 {162}{}{Ja, bitte noch etwas Wasser.}
 {163}{}{Was für synthetische Alkoholsorten gibt's denn?}
 {164}{}{Macht nichts. Ich brauche ein paar Auskünfte.}
-{165}{}{Im Augenblick nichts, danke.}
+{165}{}{Heute nichts, danke.}
 {166}{}{Alles in Ordnung, mit dir? Es scheint fast, als würde der Alkohol-Z bei dir zu wirken
  anfangen. Möchtest du wirklich noch mehr?}
 {167}{}{Alles in Ordnung, mit dir? Es scheint fast, als würde der Alkohol-Z bei dir zu wirken
@@ -85,10 +85,8 @@
 {172}{}{Ich möchte gerne noch was von diesem köstlichen Alkohol-Z.}
 {173}{}{Wie wird synthetischer Alkohol denn hergestellt?}
 {174}{}{Eigentlich brauche ich nur ein paar Auskünfte.}
-{175}{}{Nein, heute nichts mehr, vielen Dank.}
-{176}{}{Die Autodocs in Vault City können ungefährliche synthetische Ersatzstoffe für
- suchterzeugende Substanzen herstellen. Soweit ich weiß, wurden diese synthetischen Stoffe vor
- dem Krieg als Ersatzstoff für Vollkonsumenten eingesetzt.}
+{175}{}{Das war's für heute. Besten Dank.}
+{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
 {177}{}{Du scheinst dich aber gut mit diesem synthetischen Zeug auszukennen.}
 {178}{}{Äh, habt ihr auch was Richtiges zu trinken?}
 {179}{}{Oh. Ich glaube, ich nehme dann doch lieber nur Wasser.}
@@ -141,7 +139,7 @@
 {214}{}{Kannst du mir sagen, wer der Boß von Vault City ist?}
 {215}{}{Kannst du mir was über die Sklavenhaltung in Vault City erzählen?}
 {216}{}{Vergiß es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}
-{217}{}{Im Augenblick nichts, danke.}
+{217}{}{Heute nichts, danke.}
 {218}{}{Erstbürgerin Lynette natürlich. Sie ist jetzt schon fast seit zwei Amtsperioden
  Erstbürgerin. Sie muß immer noch dem Rat gegenüber Rechenschaft ablegen, aber sie ist für die
  wesentlichsten Belange der Rechtsprechung in Vault City verantwortlich.}
@@ -162,10 +160,7 @@
 {229}{}{Hmmm. Mich würde da noch was anderes interessieren...}
 {230}{}{So, so. Tja, ich könnte einen Drink gebrauchen. Was gibt's denn hier im Ausschank?}
 {231}{}{Interessant. Danke für die Information. Tschüß.}
-{232}{}{Nein, nein, nein...das ist keine Sklaverei. Die Leute, die du in der Stadt arbeiten
- siehst, sind Diener, genau wie ich. Wir werden hier sehr gut behandelt, lernen lesen und 
- schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen genug zu
- essen.}
+{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
 {233}{}{Alles, außer einem: Freiheit. Stimmt's?}
 {234}{}{Wenn's einem nichts ausmacht, ist es nicht so schlimm. Vergiß die Frage einfach.}
 {235}{}{Vergiß es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}

@@ -3,10 +3,10 @@
 {102}{}{Du siehst eine Sporenpflanze, die irgendwie eine Aura von Intelligenz verströmt.}
 {103}{}{Hi! Wir hatten schönes Wetter bis jetzt, was?}
 {104}{}{Duuu sprichst?}
-{105}{}{Rrr?}
+{105}{}{Err?}
 {106}{}{Entschuldige, aber ist das die Pflanze, die da spricht?}
 {107}{}{Hast du irgend etwas mit dem Wissenschaftler zu tun?}
-{108}{}{Wiedersehen.}
+{108}{}{Tschüß.}
 {109}{}{Genau, Ich kann sprechen. Offensichtlich besser als manch andere Leute. Ich würde dich ja
  jetzt anlächeln, aber ich habe keinen Mund. [sie lacht] Sag mal, könntest du mir einen riesigen
  Gefallen tun?}
@@ -15,7 +15,7 @@
 {112}{}{Ich suche einen besseren Aufenthaltsort. Es ist zwar ganz schön hier, aber diese Pflanzen
  geben nicht gerade gute Gesprächspartner ab. Ich habe mir überlegt, da drüben bei dem Gebäude
  mit all den Ghuls wäre ein guter Platz... Würdest du mich umpflanzen?}
-{113}{}{Klar!}
+{113}{}{Ja!}
 {114}{}{Nö!}
 {115}{}{Sicher.}
 {116}{}{Ich glaube nicht.}
@@ -29,20 +29,20 @@
 {122}{}{Solltest du deine Meinung ändern,  weißt du ja, wo du mich findest. Ich hab hier nämlich
  Wurzeln geschlagen. Ha ha ha! Eine kleine Kostprobe vom Pflanzenhumor für dich. Aber laß dich
  nicht von mir aufhalten. Bis dann!}
-{123}{}{Wiedersehen.}
+{123}{}{Tschüß.}
 {124}{}{Gut gesagt, gut gesagt! Wie erfrischend, wenn ein menschliches Wesen sein Gehirn in
  vollem Ausmaß benutzt. Mein guter Freund, würdest du mir einen Gefallen tun?}
 {125}{}{Klar.}
 {126}{}{Nö!}
 {127}{}{Ja! Ja, das ist es! Sehr scharf beobachtet!. Ich sehe, du hast gestern nicht gekeimt!
  Mein schön gestengelter Freund, hättest du die Güte, mir einen Gefallen zu tun?}
-{128}{}{SICHER.}
+{128}{}{Sicher.}
 {129}{}{Ich glaube nicht.}
 {130}{}{Er-fri-schend! Ich bin sehr, sehr erfreut. Such dir einfach nur eine Schaufel und komm
  zurück. Wenn du fertig bist, verrate ich dir vielleicht ein Geheimnis. Mein Freund, ich hoffe,
  du wirst weiterhin blühen.}
 {131}{}{Ähm, sicher. Bis dann.}
-{132}{}{Ich habe es mir anders überlegt.}
+{132}{}{Ich habe meine Meinung geändert.}
 {133}{}{Oh, ja, der Professor. Er hat mich aus kleinen Sporen gezüchtet und aufgepäppelt... aber
  ich habe bereits in frühester Kindheit gemerkt, daß er mich, sollte ich mich so schlau verhalten,
  wie ich wirklich bin, in Stücke schneiden würde, um mich zu untersuchen. Also habe ich mich dumm
@@ -65,7 +65,7 @@
  Witzbold! Er ist wahrlich eine Stimulation für meinen Intellekt!}
 {144}{}{Schach?}
 {145}{}{Was hast du da gerade über Schach gesagt?}
-{146}{}{Wiedersehen.}
+{146}{}{Tschüß.}
 {147}{}{Nun, ich habe gesagt, daß ich weiß, wie man den Skorpion des Professors besiegen kann.
  Mein Freund, es ist die Einfachheit selbst. Der Angriff der Fliegenden Leber ist für diese Wanze
  wie eine Fliegenfalle - sie läuft geradewegs hinein und kann sich dann nicht mehr selbst
@@ -76,15 +76,14 @@
  geblüht? Bist du bereit für den Umzug? Ich schon!}
 {151}{}{Ja!}
 {152}{}{Äh, nee! Kein Umzug!}
-{153}{}{Los geht's.}
+{153}{}{Dann lass uns mal Tyler kalt stellen.}
 {154}{}{Ich habe es mir anders überlegt, ich möchte dir nicht helfen.}
 {155}{}{Ich bin so aufgeregt, daß ich eine ganze Wolke von Sprossen über mich ergießen könnte!
  Los geht's!}
 {156}{}{[Fertig]}
 {157}{}{Das ist schade, wirklich schade. Ich hoffe, du änderst eines Tages deine Meinung.
  Vielleicht werden dann die Pollen deiner Entscheidung über meinen Weg wehen. Guten Tag.}
-
-{158}{}{Äh.}
+{158}{}{Oh.}
 {159}{}{In der Tat ein guter Tag.}
 {160}{}{Oooh... die Erde fühlt sich hier so anders an. Irgendwie sauberer. Vielleicht, weil ich
  sie nicht mit all den anderen Pflanzen teilen muß. Ahhh. Uh! Ja! Sollte dir jemals der
@@ -102,7 +101,7 @@
 {169}{}{Ich glaube nicht.}
 {170}{}{Leider scheinst du keine Schaufel zu haben. Bevor du keine findest, kann ich nicht gehen.
  Ich erwarte deine Rückkehr mit heißer Erwartung.}
-{171}{}{Wiedersehen.}
+{171}{}{Tschüß.}
 {172}{}{Psst! Hey! Hey, Kumpel! Hier drüben!}
 {173}{}{Komm her! Ich verspreche dir, ich tue dir nicht weh.}
 {174}{}{Na los. Hast du etwa Angst vor einer Pflanze?}
@@ -113,4 +112,3 @@
 {178}{}{Du hast Seymour beim Heim der alten Ghuls neu eingepflanzt.}
 {179}{}{Habe Schaufel! Jetzt pflanzen!}
 {180}{}{Zufällig habe ich gerade eine Schaufel da. Auf geht's.}
-

@@ -1,7 +1,6 @@
 {100}{}{Du siehst eine Deathclaw. Sie sieht dich mit merkwürdig intelligenten Augen an.}
 {101}{}{Du siehst Valdis, die Deathclaw.}
-{102}{}{Du siehst eine typische Deathclaw. Die Kreatur ist riesig, sie hat einen kräftigen
- Körper, scharfe Zähne und lange Klauen.}
+{102}{}{Du siehst eine typische Deathclaw. Die Kreatur ist riesig, sie hat einen kräftigen Körper, scharfe Zähne und lange Klauen.}
 {103}{}{Sei gegrüßt, Mensch}
 {104}{}{Was kann ich für dich tun?}
 {105}{}{Wer du sein?}
@@ -30,7 +29,7 @@
 {127}{}{Ja, allerdings. Ich habe auch genug Grips, um zu beurteilen, wer ein Volltrottel ist und
  wer nicht. Und ich bin zu dem Schluß gekommen, daß du ein Musterexemplar dieser Kategorie bist!
  Also, warum gehst du nicht, bevor ich eine halbe Stunde auf deinem Gesicht tanze.}
-{128}{}{Alles klar.}
+{128}{}{Also gut.}
 {129}{}{Böse Echse. Jetzt muß ich dich erschießen.}
 {130}{}{Hey, tut mir leid. Ich paß jetzt auf, was ich sage.}
 {131}{}{Ja, wir haben ein recht unterschiedliches Bildungsniveau. Ich tue mein Bestes, um mich in
@@ -44,17 +43,16 @@
 {137}{}{Ich wissen. Ich dich testen. Äh... du bestehn.}
 {138}{}{Ich hören rufen. Ich gehn.}
 {139}{}{Verstehe. Laß es uns noch mal versuchen. Hallo. Ich bin Valdis. Wie heißt du?}
-{140}{}{Mich.}
+{140}{}{Ich}
 {141}{}{Tschüß.}
 {142}{}{Unbefugte Personen. Das heißt 'Leute, die keine Erlaubnis haben, hier zu sein'.}
-{143}{}{OK. Ich verstehn.}
+{143}{}{Ok. Ich verstehen.}
 {144}{}{Ich haben wieder Kopfschmerzen. Ich jetzt gehn.}
 {145}{}{Mein Ziel ist, in Anbetracht deiner Unhöflichkeit nicht die Geduld zu verlieren. Wenn du
  dich nicht zivilisiert benehmen kannst, dann geh.}
 {146}{}{Tut mir leid, ich werd versuchen, etwas höflicher zu sein.}
 {147}{}{Vergiß es!}
-{148}{}{Yeah.}
-{149}{}{Guten Tag.}
+{148}{}{Ja.}
+{149}{}{Guten Tag auch.}
 {150}{}{Ich bedaure, dich töten zu müssen.}
-
 {151}{}{.}

@@ -10,9 +10,9 @@
 {106}{}{Wa-? Ein Mutant! WACHE! WACHE!}
 {107}{}{Wa-? Ein Ghul! WACHE! WACHE!}
 {108}{}{Guten Tag, Hauptmann.}
-{109}{}{Vault City lebe hoch, Hauptmann.}
+{109}{}{Vault City wird bestehen, Hauptmann.}
 {110}{}{Guten Tag, Bürger.}
-{111}{}{Vault City lebe hoch, Bürger.}
+{111}{}{Vault City wird bestehen, Bürger.}
 {112}{}{Listen, Listen, Listen...wie ich Listen liebe!}
 {113}{}{Fragebogen 5632 in Listenserver kompilieren...}
 {114}{}{Liste der Listen 43A bis einschließlich 121B erstellen...anschließend in Listenarchiv
@@ -38,14 +38,14 @@
 {130}{}{Ich bin Prokonsul Gregory. Bist du dir sicher, daß es mein Büro ist, wonach du suchst,
  oder...?}
 {131}{}{"Prokonsul"? Was zum Teufel soll das sein, ein "Prokonsul"?}
-{132}{}{Was tust du hier?}
+{132}{}{Was machst du hier?}
 {133}{}{Ich seh mich nur ein wenig um, besten Dank.}
 {134}{}{Ich bin der ASSISTENT der Erstbürgerin. Ich kümmere mich um ihre Termine, ich führe die
  Aufsicht über den Bürgerschaftstest für Zuwanderer und ich verwalte die Listen auf dem Server
  von Vault City. Eine verantwortungsvolle Tätigkeit, das laß dir gesagt sein.}
 {135}{}{Den Bürgerschaftstest?}
 {136}{}{Wo wir gerade beim Thema Bürgerschaftstest sind: Ich würde ihn gern noch mal machen.}
-{137}{}{Darf ich dich ein paar Sachen fragen?}
+{137}{}{Kann ich dir einige Fragen stellen?}
 {138}{}{So, so. Ich glaub, ich muß jetzt gehen.}
 {139}{}{Ja, so ist es richtig...durch erfolgreiches Ablegen des Bürgerschaftstests kannst du
  Bürger werden.}
@@ -53,8 +53,8 @@
  der Bürger von Vault City werden möchte.}
 {141}{}{Worin genau besteht denn dieser Test?}
 {142}{}{Ich würde den Test gern noch mal machen.}
-{143}{}{Was bringt es, wenn man ein Bürger ist?}
-{144}{}{Darf ich dir noch ein paar Fragen stellen?}
+{143}{}{What are the benefits of being a Citizen?}
+{144}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {145}{}{Verstehe. Vielleicht sprechen uns später noch mal.}
 {146}{}{Was es bringt? Du brauchst dich nur umzusehen... Vault City ist die sicherste und
  wohlhabendste Stadt in der gesamten Öde. Als Bürger erhält man kostenlose medizinische
@@ -62,7 +62,7 @@
  Krankheiten gibt es hier praktisch überhaupt nicht.}
 {147}{}{Worin genau besteht denn dieser Test?}
 {148}{}{Hört sich gut an. Ich würde den Test gern noch mal machen.}
-{149}{}{Darf ich dir noch ein paar Fragen stellen?}
+{149}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {150}{}{Verstehe. Vielleicht sprechen uns später noch mal.}
 {151}{}{Bei dem Bürgerschaftstest handelt es sich um ein umfassendes Examen mit mehreren
  Bestandteilen...höhere Mathematik, räumliches Vorstellungsvermögen, induktives Denken,
@@ -95,16 +95,16 @@
  richtigen Holz geschnitzt, um Bürger zu werden.}
 {168}{}{Sicher.}
 {169}{}{Jetzt nicht. Kann ich dir noch ein paar Fragen stellen?}
-{170}{}{Vielleicht ein andermal.}
+{170}{}{Vielleicht ein anderes Mal.}
 {171}{}{Ich würde trotzdem gern den Test machen.}
 {172}{}{Fang schon an mit deinem bescheuerten Test.}
 {173}{}{Vergessen wir das. Kann ich dir noch ein paar Fragen stellen?}
-{174}{}{Äh... Ich verzieh mich.}
-{175}{}{Na gut.}
+{174}{}{Von mir aus. Ich hau ab.}
+{175}{}{Na schön.}
 {176}{}{Hmmm. Es ist dein gutes Recht. Aber ich habe dich gewarnt.}
 {177}{}{Hier hast du die Fragebögen 5028 und 6112 sowie eine PIPBoy-Antwortkonsole. Achte darauf,
  daß du alle Kreise VOLLSTÄNDIG ausfüllst. Wenn du jetzt bitte hier Platz nehmen würdest...}
-{178}{}{Alles klar.}
+{178}{}{Also gut.}
 {179}{}{Schon fertig? Hast du deine Antworten auch noch mal gründlich durchgesehen?}
 {180}{}{Nun denn, die Zeit ist abgelaufen. Gib mir deinen Fragebogen.}
 {181}{}{Schon geschehen. Hier.}
@@ -136,7 +136,7 @@ Differentialgleichung...ich kann nur sagen: eine Glanzleistung!}
 {195}{}{Super. Bin ich jetzt ein Bürger?}
 {196}{}{Die gesundheitliche Untersuchung steht noch aus. Glücklicherweise habe ich alle Geräte
  hier. Wenn ich dich bitten dürfte, die Stiefel abzulegen.}
-{197}{}{Okay.}
+{197}{}{OK.}
 {198}{}{Du...du hast einen sechsten Zeh! Du bist ein Mutant! Wie kannst du es wagen, auch nur
  daran zu DENKEN, einer von uns zu werden...du...du...Abschaum! Raus hier! Fort! Laß dich nie
  wieder hier blicken!}
@@ -157,22 +157,22 @@ Differentialgleichung...ich kann nur sagen: eine Glanzleistung!}
  Bürgerrecht. Das soll nicht heißen, daß du es verdient hättest. Sie hat sicherlich ihre Gründe.}
 {211}{}{Gibt es sonst noch eine Möglichkeit, Bürger zu werden?}
 {212}{}{Du bist nicht einverstanden damit, daß sie mir dafür das Bürgerrecht anbietet?}
-{213}{}{Darf ich dir noch ein paar Fragen stellen?}
+{213}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {214}{}{Hmm. Wiedersehen.}
 {215}{}{Es steht mir nicht zu, das Tun und Lassen der Erstbürgerin zu hinterfragen.}
 {216}{}{Gibt es sonst noch eine Möglichkeit, Bürger zu werden?}
-{217}{}{Darf ich dir noch ein paar Fragen stellen?}
+{217}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {218}{}{Na, egal.}
 {219}{}{Gecko? Das ist eine lausige Barackensiedlung im Norden, wo diese Gestalten wohnen,
  diese... "Ghuls". Die haben uns das Grundwasser vergiftet, mußt du wissen! Ein Akt des offenen
  Terrorismus gegen Vault City!}
 {220}{}{Wie kommen die dazu, das Wasser zu vergiften?}
 {221}{}{Hmmm. Kann ich dir noch ein paar Fragen stellen?}
-{222}{}{Danke. Wiedersehn.}
+{222}{}{Danke, Wiedersehn.}
 {223}{}{Da, wo sie ihre Barackensiedlung hingestellt haben, steht auch die Ruine eines
  Atomkraftwerks. Und IRGENDWIE haben sie es geschafft, das Kraftwerk wieder in Betrieb zu nehmen
  und jetzt verstrahlt es die ganze Umgebung. Diese Kreaturen müssen vertrieben und das AKW muß
  wieder abgeschaltet werden!}
 {224}{}{Hmmm. Kann ich dir noch ein paar Fragen stellen?}
-{225}{}{Danke für die Auskunft. Wiedersehen.}
+{225}{}{Danke für die Auskunft. Wiedersehn.}
 {226}{}{Du hast den Bürgerschaftstest bestanden und wirst zum Bürger von Vault City.}

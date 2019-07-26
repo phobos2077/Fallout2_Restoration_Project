@@ -1,6 +1,3 @@
-#
-# Inventory messages from inventry.c
-#
 {0}{}{FO}
 {1}{}{PE}
 {2}{}{EN}
@@ -9,7 +6,7 @@
 {5}{}{AG}
 {6}{}{CH}
 {7}{}{PI}
-{8}{}{CA}
+{8}{}{Classe d'armure}
 {9}{}{ Normal}
 {10}{}{ Laser}
 {11}{}{ Feu}
@@ -34,5 +31,4 @@
 {30}{}{Chg}
 {31}{}{Tu ne peux pas porter tout ça !!}
 {32}{}{Malheureusement, tu ne peux pas porter tout ça.}
-
 {50}{}{Tu ne trouves rien de bon à prendre dans tout ça.}

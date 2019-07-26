@@ -21,7 +21,7 @@
 {116}{}{Ich hab in einem kleinen Dorf gelebt.}
 {117}{}{Hör, mal, sei hier lieber vorsichtig. Es ist alles nicht mehr so einfach, wie's mal war.
  Halt dir den Rücken frei.}
-{118}{}{OK, danke.}
+{118}{}{Okay, danke.}
 {119}{}{Ja, ich hab 'ne Zeit lang nach deiner Vault gesucht, ihn aber nie gefunden. Hast du denn
  ein paar gute Nachrichten für deinen alten Freund Ian?}
 {120}{}{Ian?}
@@ -33,7 +33,7 @@
 {123}{}{Ja, das macht schon etwas mehr Sinn. Gut zu hören, daß mein Freund Erfolg gehabt hat. Hör
  zu, der alte Ian gibt dir jetzt einen Rat. Gib acht dort draußen. Das ist hier nicht so
  idyllisch, wie's aussieht. }
-{124}{}{Was geht denn hier vor?}
+{124}{}{Was läuft hier?}
 {125}{}{Die Vaultbürger halten viel auf ihre Abstammung und kümmern sich nicht wirklich um Leute
  wie dich oder mich. Hier. Nimm diese Knarre. Die schützt dich, wenn es mal drunter und
  drüber geht. Besser, man sieht dich nicht mit mir verrücktem altem Mann reden. Am besten machst
@@ -45,7 +45,6 @@
 {130}{}{Besser du gehst jetzt.}
 {131}{}{Die werden mißtrauisch, wenn wir weiter reden.}
 {132}{}{Na los. Wird's bald! Und enttäusche mich nicht.}
-
 {133}{}{Danke. Aber noch etwas. Ich versuche diesem kleinen Dorf, nordöstlich von hier, zu helfen. Ein Mann namens Connar sagte mir, ich soll dich suchen und mit dir sprechen.}
 {134}{}{Connar, hm? Er ist ein guter Mann. Ich halte hier meine Augen für ihn offen. Was genau will Connar denn jetzt?}
 {135}{}{Er versucht einige Waffen in die Hände zu bekommen. Er denkt mit genug Feuerkraft könnten sie sich die Einheiten der Stadt vom Leib halten.}
@@ -61,21 +60,15 @@
 {141}{}{Vielleicht werde ich mit ihm sprechen. Wie auch immer, ich hab mich über die Maulwurfsratten, die das Dorf beschützen, gewundert.}
 {142}{}{Ja, was ist mit ihnen?}
 {143}{}{Weißt du woher sie aufgetaucht sind oder wer sie kontrolliert?}
-{144}{}{Da bin ich mir nicht sicher. Eine Gruppe Ghule waren bei ihnen. Die haben so komische Amulette getragen und irgendetwas
- über eine "Erneuerung" gefaselt. Das ist aber auch schon alles was ich weiß. Vielleicht findest du was raus wenn du in Gecko
- suchst. Da kann man keinen Schritt machen ohne einen Ghul zu sehen. Apropos große Ratten, habe ich dir schon von damals erzählt,
- als der Vaultbewohner und ich zu Vault 15 reisten?}
+{144}{}{That, I'm not sure about. A bunch of ghouls came by with them. They were carrying strange amulets and talking about some "Renewal". That's pretty much all I know. You might wanna check out Gecko though. That place is bustling with ghouls. Speaking of big rats, did I ever tell you about the time the Vault Dweller and I went to Vault 15?}
 {145}{}{Nein, aber ich kenn die Geschichte sehr gut, sie wurde zu einer heilige Legende bei meinem Volk.
  Wie auch immer, vielleicht erfahre ich in Gecko etwas mehr. Pass auf dich auf, Ian.}
 {146}{}{Äh, danke für den Tip. Ich glaub du bist genau der Mann den ich suche. Ich komme von Connar und hab einige Fragen.}
 {147}{}{Moment mal! Connar sagte du hast wichtige Informationen.}
 {148}{}{Nein, aber ich kenn die Geschichte sehr gut, sie wurde zu einer heilige Legende bei meinem Volk.
  Wie auch immer, vielleicht erfahre ich in Gecko etwas mehr. Pass auf dich auf.}
-
 {150}{}{Er wollte sich Waffen besorgen, um die Truppen aus Vault City loszuwerden. Ich konnte ihn aber davon überzeugen, dass es bessere Lösungen gibt als Waffengewalt.}
-{151}{}{Achso, das ist also sein neuer Plan, hm? Manchmal ist es das Beste, bei einem offenen Gespräch zu versuchen, die
- Menschen zu überzeugen. Das ist eine Lektion, die ich von meinem alten Freund, dem Vaultbewohner, gelernt habe. Der
- Ratsälteste McClure hat gezeigt, dass er ein vernünftiger Mann ist. Vielleicht kann mit ihm eine Vereinbarung getroffen werden?}
+{151}{}{Ah, so that's his new plan, eh? Yeah, Connar's a good man, but he doesn't always think things all the way through. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller.}
 {152}{}{Gut, hast du 'ne Ahnung mit wem im Stadtrat man darüber sprechen könnte?}
 {153}{}{Ich denke der Ratsälteste McClure ist der richtige Mann dafür. Was hältst du davon?}
 {154}{}{Der Ratsälteste McClure ist ein helles Köpfchen in Vault City. Vielleicht kann mit ihm eine Vereinbarung getroffen werden?}
@@ -84,10 +77,8 @@
 {157}{}{Er wird deine einzige Chance sein. Er ist der einzige im Stadtrat der überhaupt noch einen Funken Ehre im Leib hat.}
 {158}{}{Alles klar. Ich werd es bei ihm versuchen. Auf Wiedersehen.}
 {159}{}{Dann gehe ich zu ihm und rede mit ihm. Allerdings hab ich mich über die Maulwurfsratten, die das Dorf schützen, gewundert.}
-
-#added by killap - new in RP 1.3
 {200}{}{He, wenn du wirklich der gleiche Ian bist, der mit meinem Vorfahr reiste, dann habe ich eine Frage an dich.}
-{201}{}{OK, lass hören.}
+{201}{}{In Ordnung, lass hören.}
 {202}{}{Wie zum Teufel kannst du noch leben? Du mußt über hundert Jahre alt sein. Ganz zu schweigen von den Vaultbewohner Memoiren, in denen von deinem Tod in Nekropolis durch den Flammenwerfer eines Supermutanten berichtet wird.}
 {203}{}{[Er lacht eine Zeit lang herzhaft; schließlich setzt er sich und wischt ein paar Tränen aus den Augen.] Oh, ist das absurd. Gegrillt von einen Flammenwerfer, ha! Schau mal, ich bat den Vaultbewohner eine Geschichte über meinen Tod zu erfinden, da ich nicht wollte dass irgendwelche unserer alten Feinde mich zur Strecke bringen — darum habe ich auch meinen Namen geändert. Er sollte erzählen dass ich bei einem heißen Kampf umgekommen bin, und er hat es buchstäblich getan. Ha, das ist klassisch.}
 {204}{}{He, ich denke das erklärt es. Allerdings hab ich mich über die Maulwurfsratten, die das Dorf schützen, gewundert.}
@@ -95,3 +86,4 @@
 {206}{}{He, ich bin genauso verwirrt wie du es bist. Wer weiß? Möglicherweise hat es etwas mit der Strahlung, der ich damals in den alten Tagen ausgesetzt war, zu tun. Zur Hölle, als wir im Glow unterwegs waren, warf sich der Vaultbewohner Rad-X ein wie Süßigkeiten, aber bat er dem alten Ian welches an? Natürlich nicht. Ich glaube, er war noch über das kleines Missgeschick mit der Kugel im Rücken, verärgert. Hä hä hm... [seufzt] Das waren tolle Zeiten.}
 {207}{}{Das waren sie sicher. Danke für die Geschichte Joe, äh, Ian. Machs gut!}
 {208}{}{Das waren sie sicher. Danke für die Geschichte Joe, äh, Ian. Allerdings hab ich mich über die Maulwurfsratten, die das Dorf schützen, gewundert.}
+{300}{}{Wait a minute! Are you the contact in Vault City that Connar was talking about?}

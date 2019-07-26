@@ -1,22 +1,8 @@
-#
-# Quest descriptons
-#
-#    Please leave space between the areas (like 100 or so)
-#
-
-
-#
-# Arroyo Quests
-#
 {100}{}{Tue les plantes maléfiques qui infestent le jardin d'Hakunin.}
 {110}{}{Trouve du silex pour que Mynoc aiguise ta lance.}
 {120}{}{Sauve Fumace, le chien de Nagor, au terrain de chasse.}
 {130}{}{Récupère le JEK pour Arroyo.}
 {140}{}{Trouve Vic le Marchand.}
-
-#
-# Den Quests
-#
 {200}{}{Efface la dette de Vic en récupérant sa radio chez lui à Klamath et en payant Metzger.}
 {201}{}{Trouve comment Becky peut vendre son alcool à des prix aussi peu élevés.}
 {202}{}{Sabote l'alambic de Becky.}
@@ -30,10 +16,6 @@
 {210}{}{Trouve la faiblesse du gang de Tyler qui garde l'église.}
 {211}{}{Aide Lara à attaquer le gang de Tyler.}
 {212}{}{Trouve un moyen de sortir les orphelins de la rue.}
-
-#
-# Klamath Quests
-#
 {300}{}{Réalimente l'alambic.}
 {301}{}{Sauve Souriant le trappeur.}
 {302}{}{Protège les Brahmines.}
@@ -41,10 +23,6 @@
 {304}{}{Tue le dieu rat.}
 {305}{}{Sauve Torr.}
 {306}{}{Résous le mystère des Brahmines volées.}
-
-#
-# Modoc Quests
-#
 {400}{}{Il se passe des choses curieuses dans la ferme au Nord-Est de Modoc. Mène l'enquête et fais ton rapport à Jo.}
 {401}{}{Cornélius a perdu sa montre en or. Retrouve-la et rends-la-lui.}
 {402}{}{Farrel veut que tu retrouves et que tu lui donnes, à lui, la montre en or de Cornélius.}
@@ -55,10 +33,6 @@
 {407}{}{Jo soupçonne les Slags. Trouve le responsable du massacre à la ferme perdue et découvre ce qui est arrivé à Karl.}
 {408}{}{Va à la Fosse et dis à Karl qu'il peut rentrer chez lui.}
 {409}{}{Défends les Brahmines de Grisham.}
-
-#
-# Vault City Quests
-#
 {500}{}{Trouve une charrue pour M. Smith.}
 {501}{}{Apporte la mallette de Moore à M. Bishop, à New Reno.}
 {502}{}{Apporte un échantillon de Jet au docteur Troy.}
@@ -72,10 +46,6 @@
 {510}{}{Résous le problème avec le village aux alentours.}
 {511}{}{Récupère les armes pour Connar afin que le village les utilisent.}
 {512}{}{Récupère de la nourriture (10 morceaux de viande séchée et 6 fruits) pour Ann au village.}
-
-#
-# Gecko Quests
-#
 {600}{}{Résous le problème de la centrale énergétique de Gecko.}
 {601}{}{Répare la centrale.}
 {602}{}{Optimise la centrale.}
@@ -83,10 +53,6 @@
 {604}{}{Trouve un super-kit de réparation pour Skeeter.}
 {605}{}{Trouve le laser plasma à 3 crans pour Skeeter.}
 {606}{}{Trouve Woody la Goule pour le compte de Percy. Essaie à la Fosse.}
-
-#
-# Broken Hills Quests
-#
 {700}{}{Détermine comment Chad dérobe de l'argent aux caravanes.}
 {701}{}{Répare le purificateur d'air de la mine.}
 {702}{}{Retrouve les disparus pour le compte de Marcus.}
@@ -94,10 +60,6 @@
 {704}{}{Fais évader Manson et Franc de prison.}
 {705}{}{Fais sauter le purificateur d'air de la mine.}
 {706}{}{Transfère plus d'énergie électrique vers la maison d'Eric.}
-
-#
-# New Reno Quests
-#
 {800}{}{Retrouve ta voiture volée.}
 {801}{}{Découvre le responsable de l'overdose de Richard Wright.}
 {802}{}{     Suspect : Jimmy J l'édenté}
@@ -118,20 +80,8 @@
 {817}{}{Récupère le tribut auprès des Frères Corses.}
 {818}{}{Assassine le boss Salvatore pour le compte de Big Jésus Mordino.}
 {819}{}{Apporte une bouteille de bière de l'Abbaye au Père Tully.}
-
-#
-# Sierra Army Base Quests
-#
 {900}{}{}
-
-#
-# Vault 15 Quests
-# Moved it to 3000 on accedent
 {1000}{}{}
-
-#
-# New California Republic Quests
-#
 {1100}{}{Récupère les pièces détachées/Obtiens l'accès à l'Abri 15.}
 {1101}{}{Occupe-toi de l'officier Jack pour le compte de Mira.}
 {1102}{}{Termine de convoyer les Brahmines.}
@@ -146,31 +96,15 @@
 {1111}{}{Mets fin aux vols de Brahmines.}
 {1112}{}{Nettoie l'avant-poste des Rangers au Nord pour Vortis l'esclavagiste.}
 {1113}{}{Nettoie le Camp des Esclavagistes au Nord-Ouest pour les Rangers.}
-
-#
-# Vault 13 Quests
-#
 {1200}{}{Répare l'ordinateur de l'Abri 13.}
 {1201}{}{Parle à Goris.}
-
-#
-# Military Base Quests
-#
 {1300}{}{}
-
-#
-# Redding Quests
-#
 {1398}{}{Nettoie la mine.}
 {1399}{}{Trouve la puce excavatrice.}
 {1400}{}{Occupe-toi de la situation de la Veuve Rooney.}
 {1401}{}{Mets fin à la bagarre dans le bar.}
 {1402}{}{Découvre qui a tailladé la prostituée.}
 {1403}{}{Tue Gâchette Morton.}
-
-#
-# San Francisco Quests
-#
 {1500}{}{Le pétrolier a besoin de carburant.}
 {1501}{}{L'ordinateur de navigation a besoin du module NavComp pour fonctionner.}
 {1502}{}{Il te faut un passe électronique pour accéder à l'ordinateur de navigation.}
@@ -195,23 +129,10 @@
 {1521}{}{Rapporte l'échantillon de graine au Dr. Wong.}
 {1522}{}{Elimine le Dr. Wong sans alerter les Shi.}
 {1523}{}{Nettoyer le labo du Dr. Sheng.}
-
-#
-# Navarro Quests
-#
-#1515, ...
 {1600}{}{Traite avec le Griffemort.}
 {1601}{}{Répare K-9.}
 {1602}{}{Récupère le passe électronique auprès du commandant de la base.}
-
-#
-# The Enclave Quests
-#
 {1700}{}{}
-
-#
-# The Abbey Quests
-#
 {1800}{}{Tue la bête sous l'église.}
 {1801}{}{Apporte la pièce pour la machine à Frère Max.}
 {1802}{}{Répare la pompe à eau et fais ton rapport au chef des moines.}
@@ -221,10 +142,6 @@
 {1806}{}{Collecte des informations sur la botanique pour Frère Paul.}
 {1807}{}{Formate la base de donnée des livres de l'Abbaye.}
 {1808}{}{Escorte Frère Jason à Gecko.}
-
-#
-# Primitive Tribe Quests
-#
 {1900}{}{Collecte 10 couteaux et 5 lances pour les guerriers de la tribu.}
 {1901}{}{Répare le puits pour Marli et la tribu.}
 {1902}{}{Découvre ce qui hante le Shaman de la tribu.}
@@ -234,10 +151,6 @@
 {1906}{}{Réuni Sulik et sa soeur, Kurisu.}
 {1907}{}{Accompagne Krom lors de la rencontre avec le marchand.}
 {1908}{}{Rapporte des plantes (5 racines de xandre, 3 fleurs de broc) au Shaman.}
-
-#
-# EPA Quests
-#
 {2000}{}{Répare l'Hologramme 00000.}
 {2001}{}{Répare l'Ordinateur Vocal.}
 {2002}{}{Trouve une solution au problème des plantes.}
@@ -246,66 +159,17 @@
 {2005}{}{Répare l'hologramme qui parle avec des interférences.}
 {2006}{}{Trouve l'outil que le Docteur a laissé derrière lui.}
 {2007}{}{Essaie le lance-flammes solaire pour le Directeur de Recherche Scientifiques.}
-
-#
-# Ghost Town Quests
-#
 {2100}{}{}
-
-#
-# Car outta Gas Quests
-#
 {2200}{}{}
-
-#
-# Destroyed Arroyo Quests
-#
 {2300}{}{}
-
-#
-# Toxic Caves Quests
-#
 {2400}{}{}
-
-#
-# Den Slave Run Quests
-#
 {2500}{}{}
-
-#
-# Raiders Quests
-#
 {2600}{}{}
-
-#
-# Desert Encounter Quests
-#
 {2700}{}{}
-
-#
-# Mountain Encounter Quests
-#
 {2800}{}{}
-
-#
-# Ruined City Encounter Quests
-#
 {2900}{}{}
-
-#
-# Coast Encounter Quests
-#
 {3000}{}{}
-
-#
-# Golgotha Quests
-#
 {3100}{}{}
-
-
-#
-# Vault 15 Quests
-#
 {3200}{}{Sauve Chrissy.}
 {3201}{}{Tue Darion.}
 {3202}{}{Mène à bien le marché conclu avec la RNC.}

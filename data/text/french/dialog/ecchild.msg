@@ -1,7 +1,5 @@
 {100}{}{Tu vois un petit garçon.}
-{101}{}{Tu vois une petite fille.}
-
-
+{101}{}{Une petite fille.}
 {200}{}{Quand est-ce qu'on arrive ?}
 {201}{}{J'ai sommeil.}
 {202}{}{Tu me porteras ?}

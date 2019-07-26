@@ -1,5 +1,5 @@
 {100}{}{Tu vois un voyageur qui a l'air couvert de poussière.}
-{101}{}{Tu vois un client du bar.}
+{101}{}{Tu vois une cliente du bar.}
 {102}{}{Tu vois un voyageur qui a l'air couvert de poussière.}
 {103}{}{Hé ! Les gars ! C'est la personne qui a foutu la pâtée aux mecs de l'Enclave !}
 {104}{}{Félicitations !! Bravo !}

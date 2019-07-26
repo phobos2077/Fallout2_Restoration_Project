@@ -3,7 +3,7 @@
 {102}{}{Tu vois Hakunin. Il est sur le point de mourir.}
 {103}{}{Hakunin est gravement brûlé. Il sent le poulet rôti, il ressemble à du hachis de viande brûlé, et tu te demandes comment il a pu survivre si longtemps.}
 {104}{hak001}{Bonjour, Etre Elu. Pourquoi la Terre que je contemple se réchauffe sur ton passage ?}
-{105}{}{Euh... }
+{105}{}{Euh ?}
 {106}{}{Je suis là pour te dire au revoir. Je vais mener ma sainte quête.}
 {107}{}{Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie personne.}
 {108}{}{Tu as ingurgité trop de stimulants. Je m'en vais.}
@@ -16,7 +16,7 @@
 {115}{}{Tu as ingurgité trop de stimulants. Je m'en vais.}
 {116}{}{Ton jardin était envahi de mauvaises herbes. J'en ai pris soin pour toi.}
 {117}{hak002}{La Terre chante en apprenant l'arrivée d'un champion dans ces contrées... Peut-être accepteras-tu de m'accorder une faveur ?}
-{118}{}{Bien sûr. Que veux-tu que je fasse ?}
+{118}{}{Bien sûr. De quoi as-tu besoin ?}
 {119}{}{Ca dépend. Que me donnes-tu en échange ?}
 {120}{hak002a}{Les visions du monde sont nombreuses. C'est une leçon que tu apprendras bientôt.... Avant de récolter les fruits de l'expérience, m'accorderas-tu une faveur ?}
 {121}{}{M'as-tu demandé de te faire une faveur ? Si c'est le cas, certainement, pourquoi pas ?}
@@ -42,14 +42,14 @@
 {141}{}{Oh, ouais. Encore mieux. Et la leçon que j'ai apprise est de me taire et de juste demander où se trouve le jardin.}
 {142}{}{Essayons le terme *au revoir*. Ca veut dire que je m'en vais. }
 {143}{hak007}{Pauvre créature, tu as oublié qu'il est au Nord-Est ?}
-{144}{}{Merci de ton aide.}
+{144}{}{Merci pour ton aide.}
 {145}{}{Merci. J'ai bien compris ça.}
 {146}{}{Tu me traites de créature ? Eh bien dans ce cas, je refuse de t'aider.}
 {147}{}{Je reviendrai bientôt me faire payer.}
 {148}{hak008}{Le fardeau qui te pèse toujours plus te pèsera.}
 {149}{hak009}{Que les dieux bénissent tes efforts, Etre Elu. Que ton aura honore ma présence le jour où le souffle de la terre sera à nouveau pur.}
 {150}{}{Si je comprends bien, tu veux me revoir lorsque j'aurai terminé... Tu aurais pu le dire plus simplement, tu sais...}
-{151}{}{Au revoir.}
+{151}{}{Salut.}
 {152}{hak010}{Ha ! L'esprit du fondateur vit en toi. Concentre-toi pour fortifier ton moi intérieur et développer la grandeur afin que celle-ci touche le monde. Bien sûr, les gratifications dépasseront celles de l'esprit.}
 {153}{}{Ca à l'air bien. Je reviendrai lorsque j'aurai terminé.}
 {154}{}{Alors, je vais obtenir quelque chose en guise de paiement. Parfait. A plus tard.}
@@ -94,10 +94,10 @@
 {193}{}{Ow ?}
 {194}{}{Ooog ! Bak !}
 {195}{hak020}{Ces mots me remplissent de joie. Hélas, les dieux m'appellent. Au revoir.}
-{196}{}{Au revoir.}
+{196}{}{Salut.}
 {197}{}{Euh, tu mélanges toujours les herbes ? Au revoir.}
 {198}{hak021}{Nous avons tous un jardin. Puissent tes voyages servir de remède à tes maux. Porte-toi bien, je m'en vais à présent demander audience auprès des dieux.}
-{199}{}{Au revoir.}
+{199}{}{A plus. }
 {200}{}{Je suis sûr que tu attires les foules partout où tu vas. Porte-toi bien.}
 {201}{hak022}{Regarde vers le Nord, Etre Elu, et la route s'ouvrira.}
 {202}{}{Ok. Merci.}
@@ -112,7 +112,7 @@
 {211}{}{Merci.}
 {212}{}{Pas de leçons ? Pas de discours incompréhensibles ? Tu es sûr que tu vas bien ?}
 {213}{hak027}{Bienvenue, Etre Elu. Bénis-nous en nous disant que le J.E.K sera bientôt découvert. Notre village souffre, notre besoin est grand, et le temps nous est compté.}
-{214}{}{Nuh.}
+{214}{}{Nan.}
 {215}{}{Et ton habilité à parler normalement, inexistante. J'essaie toujours.}
 {216}{}{J'y travaille.}
 {217}{}{Fiche-moi la paix, vieil homme. Je fais de mon mieux.}
@@ -123,7 +123,7 @@
 {222}{hak028d}{Et que le feu te grille les fesses jusqu'à ce que ta mission soit remplie.}
 {223}{}{Merci.}
 {224}{}{Qu'as+tu dit ?!}
-{225}{}{Euh.}
+{225}{}{Heu.}
 {226}{}{Euh ?!}
 {227}{hak029}{Bonjour, Etre Elu. Je vois que le J.E.K n'est pas encore à nous. Montre autant de détermination que la fourmi, avant que nos réserves ne s'épuisent. Tu es notre seul espoir.}
 {228}{}{Euh-euh.}
@@ -137,7 +137,7 @@
 {236}{}{Je vais trouver le J.E.K, saint homme. Je t'en fais la promesse.}
 {237}{}{Je vais faire de mon mieux pour trouver le J.E.K.}
 {238}{hak031}{Etre Elu, les dunes du temps s'égrènent. Trouve le J.E.K et fait du futur de notre village la plage de l'océan. Vite, avant que le dernier grain ne s'écoule.}
-{239}{}{Euh-Euh.}
+{239}{}{Euh-euh.}
 {240}{}{Très bien, je vais le chercher.}
 {241}{}{La vie est une plage, hein ?}
 {242}{}{Je trouverai le J.E.K, saint homme. Je ne vais pas laisser tomber notre peuple.}
@@ -156,13 +156,13 @@
 {255}{hak104}{Non ! Pas belles dorées ! Ils ont enlevé notre peuple et l'ont emmené au Sud-Ouest.}
 {256}{}{Oh là là !}
 {257}{hak105}{Oui. La tristesse et la douleur sont grandes. Je suis entre les mondes pour te dire ceci, Etre Elu. Sauve ton peuple.}
-{258}{}{Euh ?}
+{258}{}{Hein ?}
 {259}{hak106}{Etre Elu, laisse mes mots t'atteindre. Va vers le Sud-Ouest. Sauve notre peuple. Sauve notre peuple. Sauve notre peuple.}
 {260}{}{Euh-euh.}
 {261}{hak107}{Rends grâce aux ancêtres. A présent mon âme rejoint le chant éternel. Bon voyage, Etre Elu.}
 {262}{}{Partir ?}
 {263}{hak108}{Partir... !}
-{264}{}{Au revoir.}
+{264}{}{Salut.}
 {265}{hak109}{Les âmes rongées sont venues. Elles ont pris tout le monde.}
 {266}{}{Les âmes rongées ? Que veux-tu dire par là ?}
 {267}{hak110}{Un coup de vent est apparu. Sur son dos, de grandes libellules crachaient des flammes. Des hommes-démons sortirent en rampant des ventres des monstres et semèrent la mort parmi nos guerriers.}
@@ -187,9 +187,8 @@
 {286}{hak120}{Un océan de larmes, pleuré par une mère pour ses enfants.}
 {287}{}{Oh, l'océan. Mais que dois-je faire ?}
 {288}{hak121}{Une étrange brume a pris leurs esprits et les a expédiés au pays du sommeil. Les démons ont marché parmi les rêveurs, et pourtant n'ont pas rêvé.}
-{289}{}{Et alors ?}
+{289}{}{Et ensuite ?}
 {290}{hak122}{Trop de saisons et trop de blessures, Etre Elu. Tu devrais plutôt écouter.}
-{291}{}{Très bien.}
-
+{291}{}{D'accord.}
 {300}{}{Ceux qui volent portent un grand fardeau. Rappelle-le-toi, être élu.}
 {301}{}{Tu dois maintenant payer pour tes péchés, être élu.}

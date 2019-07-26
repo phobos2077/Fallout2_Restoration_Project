@@ -1,7 +1,5 @@
 {100}{}{Du siehst einen kleinen Jungen.}
-{101}{}{Du siehst ein kleines Mädchen.}
-
-
+{101}{}{Ein kleines Mädchen.}
 {200}{}{Sind wir bald da?}
 {201}{}{Ich bin müde.}
 {202}{}{Trägst du mich?}

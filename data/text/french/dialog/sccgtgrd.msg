@@ -11,6 +11,5 @@
 {110}{}{Je suis en service, j'ai pas le temps de faire connaissance.}
 {111}{}{Hé, chouettes tes grolles !}
 {112}{}{Tu devrais t'occuper de tes affaires. }
-
-{113}{}{Vous y êtes Monsieur. Bonne journée.}
+{113}{}{There you are, sir. Have a good day.}
 {114}{}{Il y a eu un incident. Circuler.}

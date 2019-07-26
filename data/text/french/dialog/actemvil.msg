@@ -26,7 +26,7 @@
 {125}{}{Je vois.}
 {126}{}{Non, tu dois seulement me battre. Lorsque le moment viendra, nous mettrons fin au combat.}
 {127}{}{Moi comprendre.}
-{128}{}{Très bien.}
+{128}{}{D'accord.}
 {129}{}{Oui. Les armes ont tendance à nous éloigner du combat et à désensibiliser les effets de nos actions contre les autres. Lorsque tu frappes un autre être humain avec tes seuls poings, tu ressens la douleur que tu lui causes. Le combat devient plus personnel et plus réaliste à la fois. C'est une importante leçon pour toi, }
 {130}{}{.}
 {131}{}{Moi comprendre.}
@@ -38,7 +38,7 @@
 {137}{}{Non, j'ai besoin d'un peu de temps pour me préparer.}
 {138}{}{Très bien. Reviens quand tu auras décidé de relever ce défi.}
 {139}{}{Alors, tu as décidé de relever le défi, }
-{140}{}{?}
+{140}{}{ ?}
 {141}{}{Quand tu veux.}
 {142}{}{Pas encore.}
 {143}{}{Je crois que oui.}
@@ -68,13 +68,10 @@
 {170}{}{Hum... Je comprends ton point de vue. Mais nous devons quand même nous battre. Je vais juste veiller à ne pas te faire trop mal.}
 {171}{}{Merci ! Je te reverrai au village.}
 {172}{}{Je vois.}
-
 {200}{}{Il ne me semble pas me souvenir de notre dernier combat. Je me demanderai toujours comment tu as réussi à passer.}
 {201}{}{Tes paroles sont d'or, Etre Elu. Ton éloquence t'ouvrira de nombreuses portes.}
-
 {300}{}{Et pour toi aussi, Etre Elu. Puissent les esprits te guider dans ta quête.}
 {301}{}{Merci, Dumar.}
-
 {302}{}{Etre Elu, j'ai remarqué que tes compétences au combat étaient loin d'être parfaites. Je sais, par expérience, que tu ne peux pas compter que sur toi-même}
 {303}{}{Oui, toi apprendre à moi.}
 {304}{}{Non, moi pas avoir besoin.}
@@ -86,16 +83,12 @@
 {310}{}{Très bien. Reviens me voir si tu changes d'avis.}
 {311}{}{Moi remercier toi, Dumar.}
 {312}{}{Merci, Dumar. Je me souviendrai de ton offre.}
-
-#added by killap - expansion
 {400}{}{T'arrive-t-il de penser à te retirer de ton poste à la dernière épreuve du temple ? Je veux dire, ça peut être assez risqué.}
 {401}{}{Etre Elu, la vie est une constante prise de risques. A chaque nouvelle aurore, chacun d'entre nous prend un risque simplement en sortant de sa tente pour accueillir le jour nouveau. Pourquoi me demandes-tu ça ?}
 {402}{}{Sans raison. A plus tard, Dumar.}
 {403}{}{Hé bien, j'étais en train de penser à ce qui est arrivé à ton prédécesseur, tu sais, lors de son combat face à... euh, Celui-Qui-Ne-Peut-Etre-Nommé.}
-
 {410}{}{Ha, ce fut un jour sombre, en effet, car notre tribu a perdu deux bons éléments : un par le corps et l'autre par l'esprit. Mais l'action vile de ce jour-là ne me concerne pas. Le jour viendra où les Dieux jugeront qu'il doit en être ainsi.}
 {411}{}{Et puisse ce jour être encore loin. Bonne journée, Dumar.}
 {412}{}{Va-t-il y avoir d'autres personnes à tenter l'épreuve du temple ? N'est-il pas déjà établi que je suis l'Etre Elu ?}
-
 {420}{}{Nous aurons toujours besoin de tester la force de notre peuple. Et c'est un immense honneur pour moi d'y participer.}
 {421}{}{Bien, à plus tard, Dumar.}

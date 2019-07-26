@@ -7,13 +7,12 @@
 {203}{}{Öffnen}
 {204}{}{Weizen}
 {205}{}{Abre}
-{206}{}{ENDE}
+{206}{}{[Ende]}
 {300}{}{Falscher Türcode. Tür verschlossen. Bitte kontaktieren Sie den PR Leiter zur Code-Überschreibung.}
-{301}{}{ENDE}
+{301}{}{[Ende]}
 {400}{}{Bestätige Code-Überschreibung.}
-{401}{}{Beenden.}
+{401}{}{[Ende]}
 {402}{}{Diese Tür ist elektronisch gesichert.}
 {403}{}{Tür aufgeschlossen. Danke, daß sie Vault-Tec benutzt haben.}
 {404}{}{[Ende]}
-
 {500}{}{Hier gibt es kein Schloss zum knacken.}

@@ -1,11 +1,6 @@
-# 0. QUICK LOOK
 {100}{}{Du siehst einen gutbewaffneten Söldner.}
-
-# 0. LOOK
 {150}{}{Du siehst einen finsteren Mann in lederner Rüstung. Sein Körper ist von Narben und Schußwunden gezeichnet. Seine Rüstung und seine Waffen sind dagegen in sehr gutem Zustand und sehen fast neu aus.}
 {151}{}{Du siehst einen bewaffneten Gangster. Er beobachtet die Umgebung genau und spielt mit seiner Waffe.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{Jetzt guck dir die Chuzpe von diesem Idioten an...}
 {201}{}{Kontakt!}
 {202}{}{Jemand ist in das Gebiet eingedrungen!}
@@ -13,11 +8,9 @@
 {204}{}{Bewegt euch Jungs, hier ist ein Eindringling!}
 {205}{}{Tja, wer hat denn da reingeschaut, um zu sterben...}
 {206}{}{Verdammt! Jemand hat uns entdeckt!}
-{207}{}{Hier ist eine Störung...}
+{207}{}{Du hast echt Nerven, hier einzudringen...}
 {208}{}{Du bist hier am *falschen* Ort, Miststück.}
-{209}{}{Schau dir dieses angeberische Miststück an...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{209}{}{Schaut mal wie die Schlampe hier rumstolziert...}
 {250}{}{Wir waren zusammen was trinken und nannten das "Einstellungsanpassungsappell". Also haben wir ihm in den Hintern getreten.}
 {251}{}{Wir müssen diese Haufen in der Höhle prüfen...}
 {252}{}{Es ist bald Zeit, die Grenze noch mal zu kontrollieren...}

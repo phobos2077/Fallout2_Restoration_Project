@@ -13,10 +13,10 @@
 {112}{}{La prochaine fois, je veux trouver une tribu de goths.}
 {113}{}{J'ai vu Selmy et Barro en train de s'engueuler en bas.}
 {114}{}{J'ai entendu dire que l'Empereur Shi était inhumainement intelligent.}
-{115}{}{Ces Shis sont vraiment drôles.}
+{115}{}{Ces Shi sont vraiment drôles.}
 {116}{}{J'ai l'esprit large, euh ?}
 {117}{}{Je veux bien te prêter ma copine, si tu me prêtes la tienne.}
-{118}{}{Regardez-moi toutes ces nouvelles crapules ! Quelle frime !}
+{118}{}{Regarde toutes ces nouvelles crapules. Un vrai casse-tête.}
 {119}{}{AHS-9 nous a trompés et il te trompera aussi si tu le laisses faire.}
 {120}{}{Tu n'es rien d'autre qu'un mouton meurtrier.}
 {121}{}{Dis à ces enfoirés d'Hubologistes que jamais nous ne viendrons.}
@@ -26,7 +26,7 @@
 {125}{}{T'es une ordure.}
 {126}{}{Bêêêh ! Bêêêh !}
 {127}{}{Alors c'était comment avec le mutant ?}
-{128}{}{Est-ce que Francis t'a fait du mal ?}
+{128}{}{Est-ce que ce Francis, ce mutant grand et fort, t'a fait du mal ?}
 {129}{}{Francis t'a fait ta fête ?}
 {130}{}{Francis est un grand gaillard.}
 {131}{}{Ce grand gaillard de Francis, hein ?}
@@ -37,12 +37,12 @@
 {136}{}{Ca t'apporte quelque chose d'être aussi con ?}
 {137}{}{Sacrifier notre petit Chip, tu le ferais ?}
 {138}{}{Pauvre Chip.}
-{139}{}{Regardez, voilà notre *héros*.}
-{140}{}{Regardez tout le monde ! L'ordure égoïste est parmi nous !}
+{139}{}{Hé, regardez, c'est notre *héros* !}
+{140}{}{Hé, regardez tous ! Voilà l'égoïste !}
 {141}{}{Eh bien, tout le monde veut te parler maintenant.}
-{142}{}{Espèce d'ordure qui déteste Chip !}
+{142}{}{Espèce d'anti-Chip !}
 {143}{}{Je peux faire quelque chose pour toi ? C'est dommage !}
-{144}{}{Ne m'adresse pas la parole.}
+{144}{}{Ne me parle pas.}
 {145}{}{C'est sympa de ta part d'essayer de faire quelque chose pour la rate de Chip.}
 {146}{}{Tu auras au moins essayé.}
 {147}{}{Pauvre Chip.}

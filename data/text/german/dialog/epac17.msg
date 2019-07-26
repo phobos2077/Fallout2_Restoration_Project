@@ -8,7 +8,6 @@
 {107}{}{Du siehst: Den Doktor.}
 {108}{}{Der leitende - und einzige - Doktor der EPA.}
 {109}{}{Es wäre unklug mich anzugreifen.}
-
 {120}{}{Ja?}
 {121}{}{Hallo, Ich bin }
 {122}{}{. Wer bist du?}
@@ -61,7 +60,7 @@
 {272}{}{Was ist das für ne komisch Flüssigkeit die ich hier überall im EPA sehe?}
 {273}{}{Woher nimmst du dir die ganzen Gerätschaften und Vorräte für deine Experimente?}
 {280}{}{Nein, nein, nein. Bevor du gehst, muss Ich dich noch etwas fragen. Könntest du mir einen kleinen Gefallen erweisen? Ich verlasse nicht gern die Sicheren Wände der Lagerhalle, aus Angst es könnten Dinge gestohlen werden. Ich brauche ein paar Rohmaterialien. Könntest du mir damit helfen?}
-{281}{}{Ja, glaub schon. Was brauchst du?}
+{281}{}{Ja, schätze schon. Was brauchst du?}
 {282}{}{Nein, ich bin gerade zu beschäftigt. Vielleicht ein ander mal.}
 {290}{}{Ja, ich fragte mich, was der Virus wohl mit den gezähmten Tieren, die vor dem Krieg in Sicherheit gebracht wurden, anstellen würde. Unglücklicherweise affektierte es ihren Geburtszyklus und sie vermehrten sich sehr schnell. Ich hab sie ins Ödland gelassen nachdem ich die Erfahrung gemacht hab.}
 {291}{}{Du Monster! Kein Wunder, warum niemand in der Gegend etwas von dir weiß! Man sollte dich beseitigen.}
@@ -92,7 +91,7 @@
 {400}{}{Einen Augenblick. Bevor du gehst möchte ich dir noch eine Frage stellen.}
 {401}{}{Hey, Danke. Öhm, um was gehts?}
 {410}{}{Es ist ein Gatling-Gauss-Gewehr, oder auch GGG, wie ich es nenne. Eine besonders verheerende, automatische Waffe die eine enorme Stärke erfordert sowie große Quantitäten an Munition. Es ist die einzige, die Ich noch hier habe. Ursprünglich gab es mehrere, die für den Einsatz an schwerem Geschütztürmen gedacht war. Die Restlichen hab ich ausgeschlachtet. Ich bin mir sicher, dass es sich im Ödland für dich als nützlich erweisen wird. Allerdings erfordert es noch eine weitere Frage...}
-{411}{}{Die wäre?}
+{411}{}{Was ist das?}
 {420}{}{Du siehst nach einem Abenteurer aus. Ich kann die EPA nicht verlassen da ich die vielen Experimente zu überwachen hab. Ich brauche aber einige Gegenstände die mir ausgegangen sind. Könntest du mir bei der Beschaffung helfen?}
 {421}{}{Ja, schätze schon. Was brauchst du?}
 {422}{}{Nein, Ich bin gerade zu beschäftigt mein Dorf zu retten. Vielleicht später.}
@@ -115,7 +114,7 @@
 {483}{}{Ich suche nach Arbeit. Hast du welche?}
 {484}{}{Woher hast du deine ganze Ausrüstung her?}
 {490}{}{Hast du die Häute um die ich dich gebeten habe?}
-{491}{}{Ja, hier sind sie.}
+{491}{}{Ja, hier ist es.}
 {492}{}{Nein noch nicht.}
 {500}{}{Wunderbar! Ausgezeichnet! Mal sehen... Ah ja, das wird es sein! Also dann, willst du einen weiteren Auftrag?}
 {501}{}{Wenn du einen hast, ja.}
@@ -126,10 +125,10 @@
 {513}{}{Hab ich bereits erledigt! Da waren ein paar lose Drähte auf dem Hauptschaltkreis und ich hab es gescha-}
 {520}{}{Jetzt, wo du alle meine Krieger getötet hast, hast du dich mehr als würdig erwiesen. Würdest du es in Erwägung ziehen für mich zu arbeiten?}
 {521}{}{Was!? Für dich Arbeiten!? Was soll ich überhaupt dabei machen?}
-{522}{}{Nein Danke. Tschüß.}
+{522}{}{Nein danke. Tschüß.}
 {530}{}{Hast du das Energieproblem in den Griff bekommen?}
 {531}{}{Ja, ja, ja, Ich will keine Einzelheiten hören. Danke. Gut, Ich habe noch immer eine Aufgabe für dich wenn du dich bereit erklärst.}
-{532}{}{Die wäre?}
+{532}{}{Was ist das?}
 {533}{}{Nein, Ich arbeite daran.}
 {540}{}{Ich experimentiere zurzeit mit einem neuen Serum, welches die Beweglichkeit und Wahrnehmung verbessern sollte, um den Menschen beim Überleben in dieser rauen Welt zu Helfen. Wenn du mir erlauben würdest es an dir auszuprobieren?}
 {541}{}{Nun... Ich denke schon, welchen Schaden könnte es anrichten?}
@@ -140,7 +139,7 @@
 {570}{}{Du bist gerade für einige Stunden bewusstlos gewesen. Dir sollte es jetzt besser gehen. Die Indikationen zeigen, dass du jetzt reaktionsschneller und aufmerksamer bist.}
 {571}{}{Wow! Danke, Doktor.}
 {580}{}{Kein Problem. Wenn du noch irgendwas brauchst, lass es mich wissen.}
-{581}{}{Werd ich. Wiedersehen.}
+{581}{}{Ich werd's mir merken. Wiedersehn.}
 {590}{}{Hast du dich jetzt entschlossen mir zu helfen?}
 {591}{}{Ja, das habe ich. Ich komme zurück sobald die Energieversorgung wieder steht.}
 {592}{}{Leider nein.}
@@ -148,7 +147,6 @@
 {601}{}{Na dann, wiedersehen.}
 {602}{}{Ja, da waren ein paar lose Drähte und ich musste etwas Schrott finden um-}
 {603}{}{NEIN! Was machst du?}
-
 {700}{}{Sekunde! Du sagst, du warst Teil des *ursprünglichen* Teams?! Aber dann wärst du über 200 Jahre alt!}
 {701}{}{Nun, das stimmt auch, in gewisser Weise. Ich wurde vor 202 Jahren geboren. Allerdings gibt es keinen Weg das ich so lange auf natürlicher Weise leben könnte.}
 {702}{}{Weiter. Ich höre noch zu.}
@@ -181,38 +179,29 @@
 {729}{}{Weißt du das du ne ziemlich verdrehte Persönlichkeit hast? Ich denke ich muss dir mal zeigen wie ich mit Menschen 'experimentiere'. Zeit zu sterben!}
 {730}{}{Und bist du glücklich damit? Ich mein, der Einzige hier zu sein.}
 {731}{}{Was möchtest du sonst noch wissen?}
-
 {800}{}{Warte mal einen Moment. Du siehst recht abenteuerlustig aus. Ich hab da ne Verwendung für jemanden mit deinen Fähigkeiten.}
-{801}{}{Klar. Was brauchst du?}
+{801}{}{Sicher, was brauchst du?}
 {802}{}{Nein danke. Tschüß.}
 {803}{}{Ich habe Proben an einer meiner Arbeitsplätze gesammelt und ich glaube das ich eins meiner Werkzeuge dort verlegt hab. Normalerweise würde ich selbst danach suchen, aber ich bin gerade ziemlich beschäftigt und ich kann mich nicht einmal genau erinnern wo genau ich es liegen gelassen hab. Wenn du von diesem Gebäude aus nach Nordwesten gehst solltest du die Gegend finden in der ich mein Werkzeug liegen gelassen habe. Sollte ein Kinderspiel sein.}
 {804}{}{Ich werd gleich danach suchen.}
-{805}{}{Nicht interessiert. Tschüß.}
+{805}{}{Kein Interesse. Tschüß.}
 {806}{}{Warte. Bist du dir sicher das du mir bei einer Kleinigkeit nicht helfen kannst?}
-
 {810}{}{Ausgezeichnet! Jetzt muss ich aber zurück zu meiner Arbeit. [Zu sich selbst.] Alles verläuft nach Plan.}
-{811}{}{[Fertig]}
-
+{811}{}{[Erledigt]}
 {820}{}{Zu schade. Nun muss ich mich aber wieder meiner Arbeit zuwenden. [Zu sich selbst.] Ich hatte ihn fast. Wo kriege ich jetzt bloß ein anderes Testsubjekt her?}
-{821}{}{[Fertig]}
-
+{821}{}{[Erledigt]}
 {830}{}{[Der Mann schreckt auf.] Was zum-?!}
 {831}{}{Ich suche immer noch nach deinem Teil.}
 {832}{}{Hier ist das Werkzeug. In der Tat ein Kinderspiel.}
 {833}{}{Wolltest du versuchen mich da draußen umzulegen? Das war ein Labyrinth voller Mutanten! Auf keinen Fall war das ein normaler Rückholauftrag, oder?}
-
 {840}{}{Was?! Gib mir das! [Er reißt dir das Werkzeug aus den Händen.] Wie hast du- Öh, nicht so wichtig. Zurück ans Zeichenbrett...}
 {841}{}{[Du ignorierst seine Reaktion.] Ok, wenn du sonst noch was brauchst, lass es mich wissen. Tschüß.}
- 
 {850}{}{Geht dich nichts an. [Er reißt dir das Werkzeug aus den Händen.] Und jetzt raus. Ich hab noch Anderes zu Erledigen.
  [Er sieht weg und murmelt in sich hinein.]}
-{851}{}{Was auch immer. Tschüß.}
+{851}{}{Wie du meinst. Bis dann. }
 {852}{}{Das glaube ich nicht. Du hast versucht mich zu töten und jetzt erwidere ich den Gefallen. Mach dich bereit zu Sterben!}
- 
 {860}{}{Öh, Ja, sicher. Ich geh dann mal.}
-{861}{}{[Fertig]}
-
+{861}{}{[Erledigt]}
 {900}{}{*brummt*}
 {901}{}{*Zu sich selbst* Ich war mir sicher er würde nicht zurückkehren.}
-
 {1000}{}{Du hast das verlorene Werkzeug des Doktors zurückgebracht.}

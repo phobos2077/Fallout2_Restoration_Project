@@ -19,7 +19,7 @@
 {118}{}{Mais... es-tu l'Etre Elu ?}
 {119}{}{Tu devrais parler à la doyenne.}
 {120}{}{La doyenne a dit que tu pouvais nous sauver !}
-{121}{}{As-tu parlé à la doyenne ?}
+{121}{}{As-tu parlé à la Doyenne ?}
 {122}{}{La doyenne est dans la première cellule, tu devrais lui parler.}
 {123}{}{Parle à la doyenne.}
 {124}{}{Libère-nous !}
@@ -42,13 +42,13 @@
 {141}{}{Coupe le courant !}
 {142}{}{Libère-nous.}
 {143}{}{Allez, sors-nous de là !}
-{144}{}{Aide-nous, par pitié !}
+{144}{}{Aide-nous, pas pitié !}
 {145}{}{Tu es notre seul espoir !}
 {146}{}{Pitié, je n'en peux plus !}
 {147}{}{Je ne veux plus de médicaments. Nooooooon !}
 {148}{}{Que les esprits nous protègent !}
 {149}{}{Les esprits ne sont jamais là quand on a besoin d'eux !}
-{150}{}{A l'aide !}
+{150}{}{Aide-nous !}
 {151}{}{Libère-nous !}
 {152}{}{Je veux rentrer à la maison.}
 {153}{}{D'abord la sécheresse et ensuite ça.}

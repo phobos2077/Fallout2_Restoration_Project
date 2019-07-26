@@ -3,13 +3,11 @@
 {102}{}{Voici un citadin.}
 {103}{}{Voici un travailleur qui fait une pause.}
 {104}{}{Voici une personne qui boit un verre avec plaisir.}
-
 {106}{}{Tu vois des clients du bar. Ils ont l'air content.}
 {107}{}{Tu vois des clients. Ils ont l'air bien nourri et en bonne santé.}
 {108}{}{Tu vois un client qui discute tranquillement avec son voisin.}
 {109}{}{Tu vois un client qui boit tranquillement une chope de bière.}
 {110}{}{Tu vois des clients qui ont l'air de bien rigoler.}
-
 {120}{}{Tu as atterri dans la mauvaise taverne, hein ?}
 {121}{}{On ne veut pas de fauteurs de troubles ici.}
 {122}{}{Les tribals sont toujours des fauteurs de troubles.}
@@ -35,7 +33,6 @@
 {142}{}{Te laisse pas prendre par l'Esprit Ambulant !}
 {143}{}{Si tu voles une de nos Brahmines, gare à toi !}
 {144}{}{On t'a à l'oeil.}
-
 {150}{}{Ca fait plaisir de voir des nouvelles têtes.}
 {151}{}{Faut croire que les tribals ne sont finalement pas aussi mauvais que ça.}
 {152}{}{Paie donc une tournée !}
@@ -57,7 +54,6 @@
 {168}{}{Ne te promène pas la nuit.}
 {169}{}{Il y a des Hommeinsectes dans les collines.}
 {170}{}{Un de nos meilleurs trappeurs a disparu.}
-
 {201}{}{Eh bien, ça m'a rempli le gosier.}
 {202}{}{Merci.}
 {203}{}{Mm... C'est bon.}

@@ -58,13 +58,11 @@
 {145}{}{Jetzt haben wir von Vault City nichts mehr zu befürchten — sieht so aus, als ob wir hier endlich in
  Frieden leben können. Nochmals vielen Dank, Reisender.}
 {146}{}{Hör einfach auf, da draußen irgendwas zu töten, du Einfaltspinsel.}
-
-
 {147}{}{Was zum Teufel hast du getan?!?! Du verdammter Verräter! Ich hasse dich!!!}
 {148}{}{Uuuuuuups...}
 {149}{}{Lass mich hier raus!!!}
 {150}{}{Hey, was hab ich dir getan?}
-{151}{}{Hilf mir!}
+{151}{}{Hilfe!}
 {152}{}{Sicher. Hier, das ist alles was wir anbieten können. [Er gibt dir $5.000.] Möglicherweise bin ich ein verdammter Narr, wenn ich es einem Fremden anvertraue, aber du bist unsere letzte Hoffnung, um unsere Freiheit zu erhalten.
  Sprich mit Old Joe in Vault Citys Vorhof. Er treibt sich normalerweise in der Nähe der Kneipe rum. Er weiß was zu tun ist.}
 {153}{}{Bin schon unterwegs.}
@@ -72,7 +70,11 @@
 {155}{}{Sicher, was möchtest du von mir wissen?}
 {156}{}{Woher sind die Maulwurfsratten gekommen, und warum greifen sie nicht an?}
 {157}{}{Schon gut, bye.}
-{158}{}{Naja, es ist schon eine seltsame Geschichte. Weißt du, ein paar Ghoule sind hier eines Tages im Dorf aufgetaucht und haben irgendwas von einer "Erneuerung" geredet und dabei so komische Amulette verteilt. [Er zeigt dir ein Amulett in Form eines Anks.] Diese großen Nager kamen mit ihnen, und die Ghuls sagten, dass die uns von nun an beschützen würden. Die Ghuls gingen wieder — wahrscheinlich zurück nach Gecko — aber die Nager rührten sich nicht vom Fleck, und seitdem sind sie hier. Wie ich schon sagte, eine echt seltsame Sache. Es ist zwar etwas mühselig hinter den Dingern sauber zu machen, aber zum Teufel, wenn sie uns Vault City vom Leib halten, kann ich mich wohl mit ein wenig Rattenscheiße abfinden.}
+{158}{}{Well, it's kind of a strange story. You see, a bunch of ghouls came here one day, mumbling something about a "renewal",
+ and giving out these funky amulets. [He shows you an Ankh shaped amulet.] These big rodents came with em, and the ghouls said
+ they'd be protecting us from now on. The ghouls left--probably back up to Gecko--but the rodents stayed put, and they've
+ been here ever since. Like I said, it's pretty strange stuff. It's kind of a pain to clean up after these things, but hell,
+ if they keep Vault City off our ass, then I suppose I can put up with a little rat shit.}
 {159}{}{Sehr interessant, kann ich eins dieser Amulette haben?}
 {160}{}{Auf jeden Fall. Sie haben uns jede Menge davon gegeben, und wir wissen überhaupt nicht was wir damit machen sollen. Hier, nimm eins.}
 {161}{}{Danke! Auf Wiedersehen.}
@@ -81,31 +83,29 @@
 {164}{}{Es stimmt wirklich — vertrau mir. Ich konnte an ein paar Fäden ziehen, und etwas aushandeln, aber auf die Details kommt's nicht an. Wichtig ist, dass du und deine Leute jetzt außer Gefahr seid.}
 {165}{}{Ich werde dir ewig dankbar sein... ähm... aber ich weiß ja nicht einmal deinen Namen.}
 {166}{}{Ich heiße - }
-{167}{}{Vielen Dank, }
+{167}{}{Ich danke dir, }
 {168}{}{, aber was ist mit dem Geld, dass ich dir für den Waffenkauf gegeben habe?}
 {169}{}{Du bist hier immer willkommen! Mach's gut.}
 {170}{}{Ja, aber ich denke du wirst sie nicht brauchen. Zumindest nicht gegen Vault City. Weißt du, ich konnte den Stadtrat von Vault City dazu überreden, euer Dorf in Ruhe zu lassen.}
 {171}{}{Ich mach's. Bevor ich loslege habe ich aber noch einige Fragen.}
-{172}{}{Kein Problem.Auf Wiedersehen.}
+{172}{}{Schon gut. Tschüß.}
 {173}{}{Bisher nicht. Ich melde mich wieder wenn ich sie habe.}
 {174}{}{Danke! Man sieht sich.}
-#additions
 {200}{}{Ich habe zufälligerweise alle dabei, die du haben möchtest.}
 {201}{}{Wie sich zeigt, bin ich bereits im Besitz dieser Waffen. Ich denke, dass ich einige entbehren könnte, aber bist du dir sicher, dass das die beste Lösung ist?}
 {202}{}{Ich habe die Waffen für dich, aber ich bezweifle dass das der richtige Weg ist. Es gibt einen sehr vernünftigen Mann im Stadtrat von Vault City, der Ratsälteste McClure.
  Ich könnte ihn sicher zu einer friedlichen Lösung überreden.}
 {203}{}{Ehrlich, ich glaube es gibt einen besseren Weg. Es gibt einen vernünftigen Mann im Rat von Vault City, den Ehrwürdigen Stadtrat McClure.
  Ich bin mir sicher, dass er den Rat von einer friedlichen Lösung überzeugen kann.}
-{205}{}{Ha! Du denkst wirklich, dass einem dieser Rats-Bonzen nicht völlig schnuppe ist, was mit uns geschieht? Sei nicht so naiv, mein Freund, diesen Vault City Drecksäcken kann man nicht trauen. Also bitte, geh zu Joe
- im Vorhof von Vault City. Wenn er nicht in der Bar ist, dann ist er in der Nähe davon. Old Joe weiß was zu tun ist.
- Du kannst ihm vertrauen. Beeil dich bitte.}
+{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naïve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
 {206}{}{Ok. Ich melde mich wenn ich was Neues weiß.}
-
 {210}{}{Vertrau mir, wir haben alle Alternativen in Betracht gezogen, aber das einzige, worauf diese Vault City Drecksäcke reagieren werden, ist Gewalt. Also, gibst du uns die Waffen? Ich zahl $5.000 dafür. Für die Freiheit ist uns kein Preis zu hoch.}
 {211}{}{Du stimmst zu?! Hervorragend. Hier sind die $5.000 für die Waffen. Es ist alles was wir haben, aber die Freiheit ist unbezahlbar. Du hast sehr viel für uns getan und wirst hier immer willkommen sein.}
 {212}{}{Alles klar. hier sind die Waffen.}
 {213}{}{Nein, ich habe mich dagegen entschieden. Auf Wiedersehen.}
 {214}{}{Unbezahlbar? Ich weiß wie der Kapitalismus läuft, steigt die Nachfrage steigt auch der Preis!}
+{215}{}{[Erledigt]}
+{216}{}{[ANGRIFF]}
 {217}{}{Hör zu, mit Vault City einen Krieg zu beginnen ist keine Lösung. Sicher, ihr seid vielleicht in der Lage,
  sie für Monate oder sogar Jahre abzuwehren, aber ihr könnt sie nicht besiegen. Und in der Zwischenzeit verliert
  ihr unnötigerweise eure Leben. Aber wenn ich nur einen im Stadtrat
@@ -113,30 +113,21 @@
 {218}{}{Hmm... Na gut, ich denke du meinst es gut. Wenn du wirklich denkst, dass du einen der Stadträte überzeugen kannst,
  mußt du auf jeden Fall einen Versuch wagen. Allerdings solltest du mit Old Joe sprechen und dir seine Meinung anhören.
  Du findest ihn in der Nähe der Bar im Vorhof. Viel Glück. Wir zählen auf dich.}
-
 {220}{}{Ein weiterer herzloser Opportunist, ich hätte es wissen müssen. Um deinesgleichen zu entkommen, haben wir diese Gemeinschaft gegründet. Weißt du was? Vergiss es. Wir brauchen keine Hilfe von jemandem wie dir. Ich schlage vor, dass du jetzt gehst.}
 {221}{}{Ein weiterer herzloser Opportunist, ich hätte es wissen müssen. Um deinesgleichen zu entkommen, haben wir diese Gemeinschaft gegründet. [Er seufzt.] Gut, wir legen noch $1.000 extra drauf, aber jetzt sind wir pleite. Gibst du uns jetzt die Waffen?}
 {222}{}{Sicher, freut mich Geschäfte mit dir gemacht zu haben. Mach's gut.}
 {223}{}{Wirklich, Ich denke da kriege ich woanders bessere Preise. Auf Wiedersehen.}
-{215}{}{[Fertig]}
-{216}{}{[ANGRIFF]}
-
 {225}{}{Hervorragend. Hier sind die $5.000 für die Waffen. Es ist alles was wir haben, aber die Freiheit ist unbezahlbar. Du hast sehr viel für uns getan und wirst hier immer willkommen sein.}
 {226}{}{Alles klar, pass auf dich auf.}
-
 {300}{}{Gibt's was neues bei unserem Dilemma?}
 {301}{}{Bisher nicht, ich melde mich wenn ich was gefunden habe.}
 {302}{}{Gute Neuigkeiten: Ich habe den Stadtrat von Vault City überzeugt, euer Dorf nicht anzurühren.}
-
 {310}{}{Wärst du bereit uns einige Waffen zu überlassen? Wir zahlen dir auch $5.000 dafür.}
 {311}{}{Du hast einen Handel abgeschlossen. Hier sind die Waffen.}
 {312}{}{Kein Handel. Die Welt da draußen ist gefährlich, und ich brauche alle Waffen die ich in die Finger bekomme. Auf Wiedersehen.}
-
 {400}{}{Danke mein Freund. Mit diesen Waffen haben wir endlich eine Chance!}
 {401}{}{Willkommen zurück. Durch deine Hilfe konnten wir die Patrouillen von Vault City ausschalten. Sie werden uns nicht mehr belästigen.}
-
-{500}{}{Geh mir bloß nicht auf die Nerven!}
-
+{500}{}{Nerv mich nicht.}
 {600}{}{Wie heißt die Kontaktperson in Vault City nochmal?}
 {601}{}{Old Joe. Wie der Name schon andeutet, ist er ein wirklich alter Kerl. Du wirst ihn in der Bar im Vorhof finden, oder er streift in der Nähe rum.}
 {602}{}{Ok, danke.}
@@ -147,21 +138,14 @@
 {610}{}{Gut. Schön für dich. Also, dann solltest du daran festhalten. Vergiss nur nicht uns zu helfen.}
 {611}{}{Keine Angst, das werde ich nicht. Wir sehen uns.}
 {612}{}{Könnte passieren, um ehrlich zu sein. Ich hab soviel um die Ohren, da verliert man leicht den Überblick. Ohne meinen PIPBoy wäre ich wahrscheinlich schon lange verloren. Machs gut.}
-
-#RP 1.3
 {700}{}{Ach, richtig. Bitte sehr. [Du gibst ihm $5.000.]}
 {701}{}{Es tut mir leid, ich musste es als Teil des Abkommens ausgeben.}
-{702}{}{Kacke, ich hab nicht genug um es dir zurückzuzahlen. Ich muss etwas ausgegeben haben, ohne darüber nachzudenken. Ich werde es dir so schnell wie möglich zurückgeben.}
-
+{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
 {710}{}{Danke. Da. [Er gibt dir $2.500 zurück.] Behalte es. Es ist das Mindeste, das wir tun können, um es dir zu vergelten.}
-
 {720}{}{Oh, ich verstehe. Gut, wenn uns damit die Freiheit erkauft wurde, dann war es jede Münze wert. Vielen Dank nochmal für alles, was du für uns getan hast.}
-
 {730}{}{Ich sag dir was — Wie wärs wenn du uns nur die Hälfte zurückzahlst? Hast du $2.500?}
 {731}{}{Sicher, hier. [Du gibst ihm $2.500.]}
 {732}{}{Tut mir leid, ich habe nicht einmal so wenig.}
-
 {740}{}{Ich danke dir, }
 {741}{}{. Wir werden nie vergessen, was du für uns getan hast.}
-
 {750}{}{Ich verstehe . . . nun gut, mach dir nichts draus. Das Geld ist nicht so wichtig wie unsere Freiheit. Ich danke dir.}

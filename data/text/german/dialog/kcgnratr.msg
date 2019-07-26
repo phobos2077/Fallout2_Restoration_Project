@@ -6,4 +6,3 @@
 {300}{}{Diese Fähigkeit ist für einen Generator nicht von Nutzen.}
 {400}{}{Du reparierst den Generator und startest ihn.}
 {401}{}{Du hast es nicht geschafft, den Generator zu reparieren.}
-

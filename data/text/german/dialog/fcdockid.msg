@@ -15,4 +15,3 @@
 {114}{}{Oh Nein! Der Buhmann!}
 {115}{}{Mamiiiiiiiiiiiii!}
 {116}{}{Lauf weg! Es ist ein Monster!}
-

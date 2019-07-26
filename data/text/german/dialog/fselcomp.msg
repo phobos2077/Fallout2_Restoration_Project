@@ -1,4 +1,4 @@
-{100}{}{Du siehst ein Computerterminal.}
+{100}{}{Du siehst ein Terminal.}
 {101}{}{Du siehst einen Hubologen-Computer.}
 {102}{}{Du siehst einen Computer. Er ist zwar recht primitiv, scheint aber funktionsfähig zu
  sein.}
@@ -40,33 +40,26 @@
 {128}{}{Zurück.}
 {129}{}{Abmelden.}
 {130}{}{Unerlaubter Vorgang. Bitte mit Systemadministrator in Verbindung setzen. Abmelden. Auf Wiedersehen.}
-{131}{}{[Fertig]}
+{131}{}{[Erledigt]}
 {132}{}{Es scheint kein Interface dafür zu geben.}
-
 {133}{}{Raumschiff HSS Quetzel betankt und startbereit.}
 {134}{}{Raumschiff HSS Quetzel nicht betankt.}
 {135}{}{Großrechner einsatzbereit. Pipeline einsatzbereit. Forschungsstationen einsatzbereit.
  Reparaturzentrum einsatzbereit. Kameras einsatzbereit.}
 {136}{}{Zurück.}
 {137}{}{Abmelden.}
-
-
 {200}{}{[Die Hubologenkirche scheint ausgesprochen reich zu sein. Die Standardmethode ist; das neue Rekruten, als Zeichen des guten Glaubens sich von 
  all ihren weltlichen Gütern trennen. Wenn jemand nicht gefragt wird das zu tun, bedeutet es, daß die Hubologen nicht fair Handeln. Sie haben ein 
  riesiges Lager irgendwo draußen in der Wüste versteckt. Nach etwas mehr Hacken und mathematischer Berechnungen, findest du die Koordinaten und markierst
  die Position auf deinem PIPBoy.]}
- 
 {201}{}{[Die Hubologenkirche scheint ausgesprochen reich zu sein. Die Standardmethode ist; das neue Rekruten, als Zeichen des guten Glaubens sich von 
  all ihren weltlichen Gütern trennen. Wenn jemand nicht gefragt wird das zu tun, bedeutet es, daß die Hubologen nicht fair Handeln. Sie haben ein 
  riesiges Lager irgendwo draußen in der Wüste versteckt. Du hast bereits die Koordinaten.]}
- 
 {210}{}{System hacken.}
 {211}{}{[Nach einiger Zeit erlangst du vollen administrativen Zugang zum Hauptrechner. Du kannst nun mit dem System anstellen, was immer du willst.]}
 {212}{}{System formatieren.}
-{213}{}{Starte Formatierungsprozess... Initialisiert... Formatiere... Formatierung Komplett... System fährt herunter. Sie können den Computer jetzt ausschalten.})
-
+{213}{}{Starte Formatierungsprozess... Initialisiert... Formatiere... Formatierung Komplett... System fährt herunter. Sie können den Computer jetzt ausschalten.}
 {220}{}{Du formatierst den Hubologen-Hauptrechner.}
-
-{250}{}{Leite Treibstoff zum Poseidontanker.}
-{251}{}{Treibstoff entsprechend umgeleitet. Lagertanks = Leer. Anwendung beendet.}
-{252}{}{[Fertig]}
+{250}{}{Leite Benzin zum Poseidon-Tanker.}
+{251}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
+{252}{}{[Erledigt]}

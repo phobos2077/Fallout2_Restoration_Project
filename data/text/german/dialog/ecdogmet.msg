@@ -9,7 +9,6 @@
 {108}{}{Keine Bange, Junge. Ich komm zurück und hol dich, sobald ich 'n bißchen Platz hab.}
 {109}{}{Tut mir leid, Dogmeat. Diesmal nicht.}
 {110}{}{Der Hund schlingt den Leguan am Spieß gierig hinunter und sieht dich dann erwartungsvoll an.}
-{1110}{}{Der Hund schlingt den Inhalt der Dose Hundefutter gierig hinunter und sieht dich dann erwartungsvoll an.}
 {111}{}{Pfiff}
 {112}{}{Viellajcht kannsse mit mir komm', wenn isch mehr Platz hab.}
 {113}{}{Oh-oh, Hundi. Du hier.}
@@ -39,10 +38,9 @@
 {137}{}{Ey, Mann, ey, laß ja meinen Hund in Ruhe.}
 {138}{}{Grrrrr....}
 {139}{}{[Vielleicht kann ich Dogmeat dazu bringen, den Abstand zu ändern?]}
-#added by killap - expansion
 {150}{}{Wuff! Wuff!}
-{200}{}{Schau was ich für dich hab, Junge! Jetzt darfst du dich mit irgendwem anlegen! [Du legst Dogmeat das K9-Kevlar an.]}
-
-#added by killap - NPC info
+{200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
+{201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
 {300}{}{*winseln*}
 {301}{}{Auuuuuuuuuuu! *winseln*}
+{1110}{}{Der Hund schlingt den Inhalt der Dose Hundefutter gierig hinunter und sieht dich dann erwartungsvoll an.}

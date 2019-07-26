@@ -15,7 +15,7 @@
 {230}{}{[Er runzelt seine Brauen] Dorf? Ich weiß nicht so recht — ah! Du meinst das verseuchte
  kleine Rattenloch dort hinten?}
 {231}{}{Mmh, vielleicht.}
-{232}{}{Ja, bin ich.}
+{232}{}{Doch, bin ich.}
 {233}{}{Es ist kein Rattenloch. Sie sind ein aufstrebendes Dorf, das sich wirklich gut entwickelt.}
 {240}{}{Schau, ich habe bereits deren Bekanntschaft gemacht, und ich sage dir das Selbe,
  was ich denen bereits gesagt habe. Die sind einfach zu klein, als das es sich für mich
@@ -23,7 +23,7 @@
 {241}{}{Ok, ein Versuch war es wert. Tschüß.}
 {242}{}{Ach komm, es liegt nicht so abseits deines Weges. Eigentlich führt er geradezu
  daran vorbei.}
-{243}{}{Gibt es eine Möglichkeit deine Meinung zu ändern?}
+{243}{}{Kann ich etwas tun, um deine Meinung zu ändern?}
 {250}{}{Also was jetzt? Wenn du nicht handeln willst, stiehl mir nicht meine kostbare Zeit.}
 {251}{}{Lass uns handeln.}
 {252}{}{T'schuldigung, ich gehe jetzt.}
@@ -55,8 +55,7 @@
  wir hier?}
 {301}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
  zahle ich dir $500.}
-{302}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
- werde ich meinen Teil dazu tun, daß deiner Karawane nichts 'Unvorhergesehenes' zustößt.}
+{302}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
 {303}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
  werde ich für den größten Spaß deines Lebens sorgen.}
 {304}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
@@ -64,9 +63,9 @@
 {305}{}{Weißt du was, das interessiert mich nicht. Tschüß.}
 {310}{}{Jetzt sprichst du meine Sprache. Gut, das ist abgemacht. [Gierig greift er nach dem Geld
  und schüttelt dir danach die Hand.]}
-{311}{}{Ein Vergnügen mit dir Geschäfte zu machen. Tschüß.}
+{311}{}{Ein Vergnügen mit dir Geschäfte zu machen. Tschüß}
 {312}{}{Tschüß.}
-{320}{}{$500? Das ist nicht genug. Mach $1000 daraus und wir sind im Geschäft.}
+{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
 {321}{}{Ich habe nicht so viel. Tschüß.}
 {322}{}{Ok, gut. Hier, $1000.}
 {323}{}{Auf keine Fall. Auf Wiedersehen.}
@@ -76,7 +75,7 @@
 {332}{}{Tschüß.}
 {340}{}{Drohst du mir? Niemand droht mir und lebt weiter! [zu seinen Karawanenwächtern]
  Tötet diesen verrückten Idioten.}
-{341}{}{Macht schon!}
+{341}{}{Versucht's doch mal!}
 {350}{}{Schau, ich will keinen Ärger. Wenn du willst, daß ich umdrehe, um Handel mit
  dem Dorf zu treiben, ok, kein großer Akt. Teufel nochmal, es liegt ja sowieso fast auf
  meinem Weg. Kein Problem.}
@@ -94,18 +93,14 @@
  anzubieten?}
 {371}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
  zahle ich dir $500.}
-{372}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
- werde ich meinen Teil dazu tun, daß deiner Karawane nichts 'Unvorhergesehenes' zustößt.}
+{372}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
 {373}{}{Nee. Tschüß.}
 {380}{}{[Er mustert Dich von oben bis unten und grinst dann.] Ich denke, wir sind im Geschäft.
  Wollen wir es bei der Hintertür erledigen?}
 {381}{}{Baby, ich mache es, wo immer du willst.}
 {382}{}{Das wirst Du rausfinden müssen, nicht wahr?}
 {383}{}{Uhh! Zum Teufel damit. Beeilung, laß uns fertig damit werden, bevor ich kotzen muß.}
-{390}{}{[Der Händler grinst Dich an, nachdem er seinen Gürtel festgezogen hat.] Heilige Scheiße,
- du weißt, wie du ein gutes Geschäft anleierst. Wenn du jemals einem Händler wieder
- etwas aufschwatzen willst, stell sicher, daß ich mit von der Partie bin. Jetzt muß ich aber
- wirklich los. War ein Vergnügen Geschäfte mit dir zu machen.}
+{390}{}{[The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
 {391}{}{[dir schaudert] Einmal war genug. Tschüß.}
 {392}{}{Jederzeit. Tschüß.}
 {393}{}{Tschüß.}
@@ -122,7 +117,7 @@
  du weißt, wie du ein gutes Geschäft anleierst. Wenn du jemals einem Händler wieder
  etwas aufschwatzen willst, stell sicher, daß ich mit von der Partie bin. Jetzt muß ich aber
  wirklich los. War ein Vergnügen Geschäfte mit dir zu machen.}
-{411}{}{Was auch immer. Tschüß.}
+{411}{}{Wie du meinst. Bis dann. }
 {412}{}{Jederzeit. Tschüß.}
 {413}{}{Tschüß.}
 {500}{}{Du überzeugst Den Händler das Dorf auf seine Handelsroute aufzunehmen.}

@@ -8,13 +8,13 @@
 {107}{}{Descendons cette espèce de monstre !}
 {108}{}{Faites-lui sa fête !}
 {109}{}{Faut y aller là.}
-{110}{}{C'est parti !}
+{110}{}{Yeah !}
 {111}{}{J'vais l'allumer cet iroquois !}
 {112}{}{J'aime pas trop descendre des débiles.}
 {113}{}{Tu peux y aller.}
 {114}{}{J'ai rien vu}
 {115}{}{C'est pas les robots qu'on cherchait.}
-{116}{}{Dégage.}
+{116}{}{Dégage !}
 {117}{}{J'en ai assez de tuer.}
 {118}{}{Vas-y !}
 {119}{}{Du calme les gars.}
@@ -22,7 +22,7 @@
 {121}{}{Bonne chance, mutant. T'en auras besoin.}
 {122}{}{Halte ! Que fais-tu là ?}
 {123}{}{J'essaie de rejoindre mon peuple.}
-{124}{}{Ca ne te regarde pas.}
+{124}{}{Ca te regarde pas.}
 {125}{}{Je n'ai pas de temps à perdre avec vos questions.}
 {126}{}{Mais qui es-tu ?}
 {127}{}{Tu sais l'autre monstre, l'agent Horrigan, il vient de passer en trombe. Il attend que quelqu'un se jette à l'eau.}
@@ -62,5 +62,3 @@
 {161}{}{Compagnie CE ?}
 {162}{}{Compagnie de Contrôle de l'Enclave. Nous avons la responsabilité du périmètre de défense, enfin *normalement*.}
 {163}{}{Oh, je vois. Qu'est-ce tu entends par *normalement* ?}
-
-{170}{}{A moins que vous ne m'aidiez à passer Horrigan pour rejoindre mon hélico.}

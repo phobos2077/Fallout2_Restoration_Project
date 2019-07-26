@@ -1,6 +1,4 @@
 {100}{}{Du siehst eine Enklavenwache.}
-
-# Floats if PC is male
 {200}{}{Du bist ein Fremder auf Enklavengebiet. Vorschrift 312 besagt, sofort zu schießen. Tut mir leid, Junge!}
 {201}{}{Er ist ein Mutantenspion! Liquidiert ihn, Jungs!}
 {202}{}{Als getreuer Soldat der Enklave hab ich den Befehl, dich zu erschießen. Hoffe, das macht dir nichts aus.}
@@ -9,8 +7,6 @@
 {205}{}{Stirb, du Abschaum des Ödlands!}
 {206}{}{Du! Typen wie du haben diese einst mächtige Nation zerstört. Dafür wirst du bezahlen!}
 {207}{}{Hey, Leutnant! Schon mal gesehn, was diese Babys mit Tempotaschentüchern machen? Schau mal!}
-
-# (Floats if PC is female)
 {300}{}{Ugh, ich hasse es, Frauen zu töten. Bringen wir's schnell hinter uns, okay?}
 {301}{}{Alarm! Alarm!}
 {302}{}{Sieht so aus, als hättest du den langen Weg ganz umsonst gemacht, Fräulein. }

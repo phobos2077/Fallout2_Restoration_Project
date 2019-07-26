@@ -31,10 +31,10 @@
 {1600}{}{pistolet laserowy}
 {1601}{}{Pistolet laserowy Wattz 1000. Model cywilny, zatem dysponuj¹cy mniejsz¹ moc¹ ni¿ odmiany wojskowa i policyjna. Wykorzystuje ma³e ogniwa energetyczne. Min. SI: 3.}
 {1700}{}{pancerz bojowy}
-{1701}{}{Zaawansowany technicznie pancerz wykonany z polimerów.}
+{1701}{}{Zaawansowany technicznie pancerz, zrobiony z ulepszonych polimerów obronnych.}
 {1800}{}{Desert Eagle .44}
 {1801}{}{Pradawny pistolet Magnum Desert Eagle na amunicjê 0,44 cala. D³ugoletnie zainteresowanie kinematografi¹ koñca XX w. sprawi³o, ¿e to bodaj najpopularniejsza krótka broñ palna wszechczasów. Min. SI: 4.}
-{1900}{}{kamieñ}
+{1900}{}{ska³a}
 {1901}{}{Ulepszona wersja produkcji firmy Granit SA. Min. SI: 1.}
 {2000}{}{³om}
 {2001}{}{Bardzo solidny i ciê¿ki kawa³ metalu, specjalnie zaprojektowany do podwa¿ania wszelkich obiektów. I rozwalania ³bów. Min. SI: 5.}
@@ -76,7 +76,7 @@
 {3801}{}{Niewielka, autonomiczna jednostka s³u¿¹ca do przechowywania energii.}
 {3900}{}{ogniwo termoj¹drowe}
 {3901}{}{Œredniej wielkoœci ogniwo wytwarzaj¹ce energiê w procesie mikrosyntezy termoj¹drowej. Autonomiczna elektrownia atomowa.}
-{4000}{}{stimpak}
+{4000}{}{Stimpaki.}
 {4001}{}{Specyfik leczniczy. Natychmiast po wstrzykniêciu goi drobne rany.}
 {4100}{}{pieni¹dze}
 {4101}{}{Legalny œrodek p³atniczy.}
@@ -90,7 +90,7 @@
 {4501}{}{Nó¿ specjalnie wywa¿ony do rzucania. Wykonany z tytanu, zaostrzony laserowo. Min. SI: 3.}
 {4600}{}{torba}
 {4601}{}{Torba œredniej wielkoœci, wykonana z tkanego ow³osienia braminy.}
-{4700}{}{zestaw pierwszej pomocy}
+{4700}{}{Apteczkê pierwszej pomocy.}
 {4701}{}{Niewielki zestaw zawieraj¹cy podstawowe œrodki medyczne. Plastry, banda¿e, aerozol antyseptyczny i inne podobne materia³y.}
 {4800}{}{AntyRad}
 {4801}{}{Roztwór chemiczny, który wi¹¿e pierwiastki radioaktywne i wyp³ukuje je ze sob¹ z organizmu. Mija nieco czasu, nim zadzia³a.}
@@ -102,7 +102,7 @@
 {5101}{}{Silny materia³ wybuchowy sk³adaj¹cy siê z nitrogliceryny zmieszanej w proporcji 3:1 z substancj¹ ch³onn¹ - ziemi¹ okrzemkow¹. Do³¹czono do niego zapalnik czasowy.}
 {5200}{}{licznik Geigera}
 {5201}{}{Licznik Geigera produkcji Wattz Electronics, model WID-Rad. Wykrywa obecnoœæ i si³ê promieniowania.}
-{5300}{}{Mentaty}
+{5300}{}{Mentaty.}
 {5301}{}{Tabletki modyfikuj¹ce funkcjonowanie mózgu. Poprawiaj¹ pracê pamiêci i przyspieszaj¹ inne procesy umys³owe. Silnie uzale¿niaj¹ce.}
 {5400}{}{urz¹dzenie maskuj¹ce}
 {5401}{}{SkradoBoy 3001 - osobiste urz¹dzenie maskuj¹ce produkcji firmy RobCo. Wytwarza pole moduluj¹ce, które zakrzywia promienie œwiat³a wokó³ osoby u¿ytkownika.}
@@ -159,7 +159,7 @@
 {8000}{}{podrêcznik pierwszej pomocy}
 {8001}{}{Podrêcznik objaœniaj¹cy teoriê i praktykê udzielania pierwszej pomocy.}
 {8100}{}{iguana na patyku}
-{8101}{}{Iguana upieczona we chrupi¹cej skórce. Palce lizaæ.}
+{8101}{}{A cooked iguana, roasted in its own skin.}
 {8200}{}{klucz}
 {8201}{}{Klucz przeznaczony do konkretnego zamka.}
 {8300}{}{kó³ko z kluczami}
@@ -170,7 +170,7 @@
 {8501}{}{Kawa³ Cordexu, wojskowego materia³u wybuchowego o du¿ej stabilnoœci i sile niszcz¹cej. Do³¹czono do niego zapalnik czasowy.}
 {8600}{}{Poradnik harcerza}
 {8601}{}{Ksi¹¿ka o technikach i idea³ach skautingu. Zawiera bardzo praktyczne informacje o ¿yciu z dala od cywilizacji.}
-{8700}{}{Wygrzew}
+{8700}{}{Wygrzew.}
 {8701}{}{Wysoce zaawansowane sterydy. Czasowo zwiêkszaj¹ si³ê i poprawiaj¹ refleks. Silnie uzale¿niaj¹ce.}
 {8800}{}{zegarek}
 {8801}{}{Drogi zegarek. Tak naprawdê nie chodzi, ale nadal ³adnie wygl¹da.}
@@ -178,7 +178,7 @@
 {8901}{}{Silnik elektryczny o mocy 40 KM.}
 {9000}{}{plecak}
 {9001}{}{Prosty plecak z dodatkowymi paskami.}
-{9100}{}{torba lekarska}
+{9100}{}{Torbê lekarsk¹.}
 {9101}{}{Ta czarna torba zawiera instrumenty i specyfiki u¿ywane przez lekarzy do wykonywania swojego zawodu.}
 {9200}{}{ogon radskorpiona}
 {9201}{}{Oderwany ogon radskorpiona.}
@@ -192,7 +192,7 @@
 {9601}{}{Elektroniczny klucz kodowy w kolorze czerwonym.}
 {9700}{}{niebieska karta dostêpowa}
 {9701}{}{Elektroniczny klucz kodowy w kolorze niebieskim.}
-{9800}{}{z³om}
+{9800}{}{œmieci}
 {9801}{}{Kupka starych czêœci. Po trochu wszystkiego.}
 {9900}{}{medalion}
 {9901}{}{Cenny, z³oty medalion.}
@@ -214,9 +214,9 @@
 {10701}{}{Zbiór dziwnych koœci.}
 {10800}{}{koœci}
 {10801}{}{Zbiór dziwnych koœci.}
-{10900}{}{Rad-X}
+{10900}{}{Rad-X.}
 {10901}{}{Specyfik antyradiacyjny (uwaga, nale¿y stosowaæ go PRZED wystawieniem siê na promieniowanie). Brak znanych efektów ubocznych.}
-{11000}{}{Psycho}
+{11000}{}{Psycho.}
 {11001}{}{Unikalny system wstrzykiwania, nape³niony niezidentyfikowanymi specyfikami, prawdopodobnie produkcji wojskowej. Ich zadaniem jest zwiêkszanie potencja³u bojowego u¿ytkownika.}
 {11100}{}{amunicja 0,44 cala Magnum FMJ}
 {11101}{}{Amunicja kalibru 0,44 cala Magnum, pociski pe³nop³aszczowe.}
@@ -226,11 +226,11 @@
 {11301}{}{Szata Dzieci Katedry.}
 {11400}{}{d³oñ Pl¹tacza}
 {11401}{}{Cybernetyczny manipulator w formie d³oni. Uszkodzony z powodu nie doœæ ostro¿nego traktowania.}
-{11500}{}{m³ot wspomagany}
+{11500}{}{Super M³ot}
 {11501}{}{M³ot wspomagany, wyprodukowany przez Bractwo Stali w oparciu o najlepsze dostêpne technologie zbrojeniowe. Ma zainstalowane urz¹dzenie s³u¿¹ce do przechowywania energii kinetycznej, której uwolnienie zwiêksza moc uderzenia. Min. SI: 5.}
 {11600}{}{Rozpruwacz}
 {11601}{}{Zasilane ma³y ogniwem energetycznym wibroostrze ³añcuchowe, wnikaj¹ce w niemal dowolny cel równie ³atwo jak w pustynny piasek. Min. SI: 4.}
-{11700}{}{kwiat}
+{11700}{}{Kwiatuszek}
 {11701}{}{Piêkny kwiat.}
 {11800}{}{karabin laserowy}
 {11801}{}{Karabin laserowy Wattz 2000. W porównaniu z modelem 1000 ma wiêksz¹ moc promienia, osi¹gniêt¹ poprzez zasilanie ogniwami termoj¹drowymi, oraz zwiêkszony, dziêki przed³u¿eniu lufy, zasiêg. Min. SI: 6.}
@@ -261,21 +261,21 @@
 {13100}{}{skrzynia}
 {13101}{}{Prosta skrzynia. Trzyma siê w niej ró¿ne rzeczy, mo¿na j¹ zamykaæ i trzymaæ pod ³ó¿kiem.}
 {13200}{}{szafka}
-{13201}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13201}{}{Pojemnik magazynowy.}
 {13300}{}{szafka}
-{13301}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13301}{}{Pojemnik magazynowy.}
 {13400}{}{szafka}
-{13401}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13401}{}{Pojemnik magazynowy.}
 {13500}{}{szafka}
-{13501}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13501}{}{Pojemnik magazynowy.}
 {13600}{}{szafka}
-{13601}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13601}{}{Pojemnik magazynowy.}
 {13700}{}{szafka}
-{13701}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13701}{}{Pojemnik magazynowy.}
 {13800}{}{szafka}
-{13801}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13801}{}{Pojemnik magazynowy.}
 {13900}{}{szafka}
-{13901}{}{Obiekt pe³ni¹cy funkcje sk³adowe.}
+{13901}{}{Pojemnik magazynowy.}
 {14000}{}{karta dostêpu}
 {14001}{}{W pe³ni sprawna karta dostêpu.}
 {14100}{}{symbol Dzieci Katedry}
@@ -284,7 +284,7 @@
 {14201}{}{Jest to symbol Dzieci Katedry. Dostrzegasz na nim wybrzuszenie przypominaj¹ce klucz.}
 {14300}{}{Karabin snajperski}
 {14301}{}{Karabin snajperski DKS-501. Doskona³a broñ palna dalekiego zasiêgu. Pierwotnie kalibru 7,62 mm, ale ten egzemplarz ma lufê o bardziej popularnej œrednicy 5,56 mm. Min. SI: 5.}
-{14400}{}{superstimpak}
+{14400}{}{Super Stimpaki.}
 {14401}{}{Zaawansowany specyfik leczniczy o bardzo silnym dzia³aniu. Z racji na sw¹ moc, po up³ywie pewnego czasu od momentu u¿ycia wywo³uje lekkie obra¿enia.}
 {14500}{}{rega³ na ksi¹¿ki}
 {14501}{}{Drewniany rega³.}
@@ -298,17 +298,17 @@
 {14901}{}{Drewniany rega³.}
 {15000}{}{rega³ na ksi¹¿ki}
 {15001}{}{Drewniany rega³.}
-{15100}{}{rega³}
+{15100}{}{pó³ki}
 {15101}{}{Zestaw drewnianych pó³ek.}
-{15200}{}{rega³}
+{15200}{}{pó³ki}
 {15201}{}{Zestaw drewnianych pó³ek.}
-{15300}{}{rega³}
+{15300}{}{pó³ki}
 {15301}{}{Zestaw drewnianych pó³ek.}
-{15400}{}{rega³}
+{15400}{}{pó³ki}
 {15401}{}{Zestaw drewnianych pó³ek.}
-{15500}{}{rega³}
+{15500}{}{pó³ki}
 {15501}{}{Zestaw drewnianych pó³ek.}
-{15600}{}{rega³}
+{15600}{}{pó³ki}
 {15601}{}{Zestaw drewnianych pó³ek.}
 {15700}{}{warsztat}
 {15701}{}{Zwyczajny warsztat. Tak, standardowy, stary, sztampowy stó³ roboczy. Wygl¹da tu ca³kiem ³adnie.}
@@ -332,29 +332,29 @@
 {16601}{}{Zwyczajny stó³. Utrzymuje rzeczy nad pod³o¿em.}
 {16700}{}{stó³}
 {16701}{}{Zwyczajny stó³. Utrzymuje rzeczy nad pod³o¿em.}
-{16800}{}{jakieœ rzeczy}
+{16800}{}{fanty}
 {16801}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{16900}{}{jakieœ rzeczy}
+{16900}{}{fanty}
 {16901}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17000}{}{jakieœ rzeczy}
+{17000}{}{fanty}
 {17001}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17100}{}{jakieœ rzeczy}
+{17100}{}{fanty}
 {17101}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17200}{}{jakieœ rzeczy}
+{17200}{}{fanty}
 {17201}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17300}{}{jakieœ rzeczy}
+{17300}{}{fanty}
 {17301}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17400}{}{jakieœ rzeczy}
+{17400}{}{fanty}
 {17401}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17500}{}{jakieœ rzeczy}
+{17500}{}{fanty}
 {17501}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17600}{}{jakieœ rzeczy}
+{17600}{}{fanty}
 {17601}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17700}{}{jakieœ rzeczy}
+{17700}{}{fanty}
 {17701}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17800}{}{jakieœ rzeczy}
+{17800}{}{fanty}
 {17801}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
-{17900}{}{jakieœ rzeczy}
+{17900}{}{fanty}
 {17901}{}{Rozmaite przedmioty, znane tak¿e jako "jakieœ rzeczy".}
 {18000}{}{skrzynia}
 {18001}{}{Drewniana skrzynia wype³niona ró¿norakimi rzeczami.}
@@ -377,27 +377,27 @@
 {18900}{}{szafka}
 {18901}{}{Zwyczajna szafka.}
 {19000}{}{taœma o FEV}
-{19001}{}{Holotaœma zawieraj¹ca informacje medyczne. Mo¿na je przenieœæ do Pip-Boya.}
+{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
 {19100}{}{taœma Ochrony}
-{19101}{}{Holotaœma z napisem "Dziennik Ochrony" na etykiecie. Zapisane na niej dane mo¿na przenieœæ do Pip-Boya.}
+{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
 {19200}{}{taœma z eksperymentu Alfa}
 {19201}{}{Etykieta na tej holotaœmie g³osi "Dziennik eksperymentu Alfa"}
 {19300}{}{taœma z eksperymentu Delta}
 {19301}{}{Etykieta na tej holotaœmie g³osi "Dziennik eksperymentu Delta"}
 {19400}{}{taœma z eksperymentu Vree}
-{19401}{}{Ta holotaœma zawiera dane medyczne uzyskane przez Vree z BS. Zapisane na niej informacje mo¿na przenieœæ do Pip-Boya.}
+{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
 {19500}{}{Kodeks Honorowy Bractwa}
-{19501}{}{Holotaœma z naniesionym zarysem symbolu Bractwa Stali. Zapisane na niej dane mo¿na przenieœæ do Pip-Boya.}
+{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
 {19600}{}{transmisja mutantów}
-{19601}{}{Wygl¹da na to, ¿e na tê holotaœmê nagra³ siê radiowy przekaz dŸwiêkowy. Jej zawartoœæ mo¿na przenieœæ do Pip-Boya.}
-{19700}{}{pud³o}
-{19800}{}{pud³o}
-{19900}{}{pud³o}
-{20000}{}{pud³o}
-{20100}{}{pud³o}
-{20200}{}{pud³o}
-{20300}{}{pud³o}
-{20400}{}{pud³o}
+{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19700}{}{skrzynia}
+{19800}{}{skrzynia}
+{19900}{}{skrzynia}
+{20000}{}{skrzynia}
+{20100}{}{skrzynia}
+{20200}{}{skrzynia}
+{20300}{}{skrzynia}
+{20400}{}{skrzynia}
 {20500}{}{flara}
 {20501}{}{Standardowa flara. Przez krótki okres czasu po uaktywnieniu (poprzez odkrêcenie czubka) wytwarza œwiat³o. Jest teraz zapalona.}
 {20600}{}{dynamit}
@@ -410,7 +410,7 @@
 {20901}{}{Kawa³ Cordexu, wojskowego materia³u wybuchowego o du¿ej stabilnoœci i sile niszcz¹cej. Do³¹czono do niego tykaj¹cy w³aœnie zapalnik czasowy.}
 {21000}{}{urz¹dzenie maskuj¹ce}
 {21001}{}{SkradoBoy 3001 - osobiste urz¹dzenie maskuj¹ce produkcji firmy RobCo. Wytwarza pole moduluj¹ce, które zakrzywia promienie œwiat³a wokó³ osoby u¿ytkownika.}
-{21100}{}{szkielet}
+{21100}{}{koœci}
 {21101}{}{To Ed. Ed zszed³.}
 {21200}{}{Tandi}
 {21201}{}{Targujesz siê o uwolnienie Tandi.}
@@ -419,7 +419,7 @@
 {21400}{}{biurko}
 {21401}{}{To jest biurko i nawet bli¿sze oglêdziny tego nie zmieni¹.}
 {21500}{}{Historia Bractwa}
-{21501}{}{Holotaœma zawieraj¹ca informacje o Bractwie Stali. Mo¿na je przenieœæ do Pip-Boya.}
+{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
 {21600}{}{Historia Maxsona}
 {21700}{}{dziennik Maxsona}
 {21800}{}{umowa o leczenie ekonomiczne}
@@ -449,7 +449,7 @@
 {23000}{}{Przewodnik po Kryptach}
 {23001}{}{Kompendium zdarzeñ i wa¿nych nagrañ zarejestrowanych w systemie komputerowym Krypty. Mo¿liwe, ¿e uszkodzone.}
 {23100}{}{kod dostêpu do Bazy Wojskowej}
-{23101}{}{ }
+{23101}{}{}
 {23200}{}{utwardzony pancerz wspomagany}
 {23201}{}{Zmodyfikowany pancerz wspomagany T-51b. Proces utwardzania zwiêkszy³ potencja³ defensywny tego zaawansowanego technicznie systemu.}
 {23300}{}{karabin turboplazmowy}
@@ -473,9 +473,9 @@
 {24200}{}{strzelba bojowa}
 {24201}{}{Strzelba bojowa Winchester City-Killer kalibru 12 w doskona³ym stanie. Zamontowane dodatkowe uszczelnienie przeciwpy³owe do walki pustynnej zwiêksza jej niezawodnoœæ. Min. SI: 5.}
 {24300}{}{dzban}
-{24301}{}{Starannie wykonany gliniany dzban.}
+{24301}{}{Starannie wykonany, gliniany dzban.}
 {24400}{}{dzban}
-{24401}{}{Starannie wykonany gliniany dzban.}
+{24401}{}{Starannie wykonany, gliniany dzban.}
 {24500}{}{skrzynia}
 {24501}{}{Drewniana skrzynia.}
 {24600}{}{pó³ka}
@@ -483,9 +483,9 @@
 {24700}{}{pó³ka}
 {24701}{}{Drewniana pó³ka zape³niona ró¿nymi przedmiotami.}
 {24800}{}{dzban}
-{24801}{}{Starannie wykonany gliniany dzban.}
+{24801}{}{Starannie wykonany, gliniany dzban.}
 {24900}{}{dzban}
-{24901}{}{Starannie wykonany gliniany dzban.}
+{24901}{}{Starannie wykonany, gliniany dzban.}
 {25000}{}{koœci}
 {25001}{}{Sterta ludzkich koœci.}
 {25100}{}{koœci Anny}
@@ -532,7 +532,7 @@
 {27101}{}{Pospolita roœlina stanowi¹ca podstawê proszku leczniczego.}
 {27200}{}{korzeñ Xandrowy}
 {27201}{}{Rzadka roœlina nadaj¹ca proszkowi leczniczemu jego niezwyk³e w³aœciwoœci.}
-{27300}{}{proszek leczniczy}
+{27300}{}{Healing Powder}
 {27301}{}{Potê¿na lecznicza magia. Po u¿yciu pacjent mo¿e czuæ pewn¹ ospa³oœæ.}
 {27400}{}{rakiety do wyrzutni dla robotów}
 {27401}{}{Wykorzystywana jedynie przez odpowiednio wyposa¿one automaty.}
@@ -570,16 +570,16 @@
 {29001}{}{Wyposa¿enie Lataj¹cego Oka. Zadaje obra¿enia elektryczne.}
 {29100}{}{2 broñ robota do walki wrêcz}
 {29101}{}{Wyposa¿enie Lataj¹cego Oka. Zadaje obra¿enia elektryczne.}
-{29200}{}{rêkawice bokserskie}
+{29200}{}{Rêkawice bokserskie}
 {29201}{}{Para œmierdz¹cych lekko potem rêkawic bokserskich. Wygl¹daj¹ na solidnie zu¿yte - da siê zauwa¿yæ sporo starych plam zakrzep³ej krwi.}
 {29300}{}{wzmocnione rêkawice bokserskie}
 {29301}{}{Te rêkawice bokserskie zosta³y "przypadkiem" wzmocnione metalowymi p³ytkami. Teoretycznie mo¿na by to uznaæ za oszustwo, ale ty wolisz na to patrzeæ jako na szansê zadawania silniejszych ciosów.}
-{29400}{}{holotaœma Krypty 13}
+{29400}{}{Holodysk z Krypty 13}
 {29401}{}{Ta holotaœma rzekomo zawiera informacje na temat lokalizacji Krypty 13.}
 {29500}{}{chipsy serowe}
 {29501}{}{Pude³ko chipsów o smaku serowym. Bardzo dobre.}
 {29600}{}{H&K P90c}
-{29601}{}{W momencie wybuchu Wojny Heckler&Koch P90c bêd¹cy kontynuacj¹ linii Belgijskiego FN P90 dopiero wchodzi³ do u¿ycia. Pneumatyczny uk³ad broni i jej niewielkie rozmiary u³atwiaj¹ kontrolê nad ni¹. P90c jest cenione za niezawodnoœæ i du¿¹ si³ê ognia. Min. SI: 4.}{29700}{}{metalowy dr¹g}
+{29601}{}{W momencie wybuchu Wojny Heckler&Koch P90c bêd¹cy kontynuacj¹ linii Belgijskiego FN P90 dopiero wchodzi³ do u¿ycia. Pneumatyczny uk³ad broni i jej niewielkie rozmiary u³atwiaj¹ kontrolê nad ni¹. P90c jest cenione za niezawodnoœæ i du¿¹ si³ê ognia. Min. SI: 4.}
 {29700}{}{prêt}
 {29701}{}{D³ugi, metalowy prêt. A co by to niby mia³o byæ?}
 {29800}{}{klucz do Osady Traperów}
@@ -628,13 +628,13 @@
 {31901}{}{Ostrze tego ma³ego no¿a jest przytrzymywane przez sprê¿ynê. Wciœniêcie przycisku na rêkojeœci powoduje zwolnienie sprê¿yny i gwa³towne wysuniêcie ostrza. Min. SI: 1.}
 {32000}{}{zaostrzony pal}
 {32001}{}{Drewniany pal zaostrzony z jednej strony. Min. SI: 4.}
-{32100}{}{cybernetyczny mózg}
+{32100}{}{Mózg Cybernetyczny}
 {32101}{}{Ludzki mózg o mo¿liwoœciach zwiêkszonych licznymi elektronicznymi czêœciami robota.}
-{32200}{}{ludzki mózg}
+{32200}{}{Mózg Cz³owieka}
 {32201}{}{Zwyk³y, ludzki mózg. Z regu³y jednak znajduje siê je w czaszkach. Fuj!}
-{32300}{}{mózg szympansa}
+{32300}{}{Mózg Szympansa}
 {32301}{}{Miêkki i wilgotny mózg ma³py.}
-{32400}{}{nienormalny mózg}
+{32400}{}{Mózg Upoœledzony}
 {32401}{}{To mo¿e byæ ludzki mózg, kolor wydaje siê jednak byæ doœæ dziwny, a lewa pó³kula jakby siê w sobie zapad³a.}
 {32500}{}{koœci}
 {32501}{}{Zwyk³e koœci do gry. By³oby super, gdyby uda³o ci siê zdobyæ takie du¿e i pluszowe do samochodu.}
@@ -654,17 +654,17 @@
 {33201}{}{Ta broñ zape³nia³a arsena³y Gwardii Narodowej - z czynnej s³u¿by wypar³o je nowsze uzbrojenie. Prosta konstrukcja i ma³e koszty produkcji sprawiaj¹ jednak, ¿e w u¿yciu pozostaje nadal du¿a liczba jej egzemplarzy. Min. SI: 4.}
 {33300}{}{pigu³ki na serce}
 {33301}{}{Pigu³ki za¿ywane przez osoby z chorobami uk³adu kr¹¿enia.}
-{33400}{}{trucizna}
+{33400}{}{Truciznê.}
 {33401}{}{Strzykawka wype³niona siln¹ trucizn¹.}
 {33500}{}{walizka Moore'a}
-{33501}{}{Thomas Moore prosi³ ciê o dostarczenie tej walizki ze skóry braminy rodzinie Bishopów z Nowego Reno. Walizka jest zamkniêta i nie jesteœ w stanie jej otworzyæ.}
+{33501}{}{Thomas Moore prosi³ ciê o dostarczenie tej walizki ze skóry braminy rodzinie Bishopów w Nowym Reno. Walizka jest zamkniêta i nie jesteœ w stanie jej otworzyæ.}
 {33600}{}{walizka Moore'a}
 {33601}{}{Thomas Moore prosi³ ciê o dostarczenie tej walizki ze skóry braminy rodzinie Bishopów w Nowym Reno. Walizka jest zamkniêta i nie jesteœ w stanie jej otworzyæ.}
 {33700}{}{holotaœma Lynette}
 {33701}{}{Holotaœma, któr¹ da³a ci Lynette.}
-{33800}{}{holotaœma Westina}
+{33800}{}{Holodysk Westina}
 {33801}{}{Holotaœma, któr¹ da³ ci Westin.}
-{33900}{}{szpiegowska holotaœma RNK}
+{33900}{}{Holodysk szpiega z RNK}
 {33901}{}{Ta holotaœma zawiera informacje dotycz¹ce bezpieczeñstwa RNK i jego karawan. Adresatem tych danych jest niejaki Darion, autorem - tajemniczy 'F'. W œwietle tej holotaœmy nie dziwi ³atwoœæ, z jak¹ NajeŸdŸcy unikali poœcigów.}
 {34000}{}{Dokumenty doktora}
 {34001}{}{Zestaw niezwykle szczegó³owych schematów cyberpsa. Dziêki tym planom ktoœ dysponuj¹cy odpowiednimi œrodkami i umiejêtnoœciami móg³by zbudowaæ cybernetyczne zwierzê.}
@@ -703,17 +703,17 @@
 {35801}{}{Amunicja.}
 {35900}{}{bez³uskowa amunicja 4.7 mm}
 {35901}{}{Amunicja bez³uskowa kalibru 4.7 mm.}
-{36000}{}{9mm}
+{36000}{}{9 mm}
 {36001}{}{Amunicja kalibru 9mm.}
 {36100}{}{magazynek pistoletu wstrzykuj¹cego}
 {36101}{}{Amunicja. Ten magazynek wydaje siê pasowaæ do pistoletu wstrzykuj¹cego - ka¿dy 'nabój' wstrzykuje celowi swoj¹ zawartoœæ w momencie trafienia.}
 {36200}{}{magazynek AP pistoletu wstrzykuj¹cego}
 {36201}{}{Amunicja. Ten magazynek wydaje siê pasowaæ do pistoletu wstrzykuj¹cego. Ig³y tych 'nabojów' zosta³y wykonane z dziwnego stopu i cechuj¹ siê wyj¹tkow¹ ostroœci¹.}
-{36300}{}{7.62mm}
+{36300}{}{7.62 mm}
 {36301}{}{Amunicja kalibru 7.62mm.}
 {36400}{}{motywator robota}
 {36401}{}{Napêd robota.}
-{36500}{}{kolec roœlinny}
+{36500}{}{Kolczasta roœlina}
 {36501}{}{Organiczny kolec a zarazem ziarno, którym drapie¿ne roœliny pluj¹ w kierunku potencjalnych celów.}
 {36600}{}{G.E.C.K.}
 {36601}{}{Generator Ekosystemu Cudownej Krainy to standardowe wyposa¿enie ka¿dej Krypty firmy Krypt-Tech, a zarazem narzêdzie umo¿liwiaj¹ce odbudowê cywilizacji po Wojnie. Wystarczy dodaæ wody i zamieszaæ.}
@@ -727,9 +727,9 @@
 {37201}{}{szpon}
 {37300}{}{karta dostêpowa Krypty 15}
 {37301}{}{Elektroniczny klucz kodowy w kolorze czerwonym.}
-{37400}{}{Miejsce pochówku}
-{37500}{}{Miejsce pochówku}
-{37600}{}{Miejsce pochówku}
+{37400}{}{miejsce pochówku}
+{37500}{}{miejsce pochówku}
+{37600}{}{miejsce pochówku}
 {37700}{}{czêœci komputerowe z Krypty 15}
 {37701}{}{Czêœci komputerowe o ró¿nych zastosowaniach. Marzenie ka¿dego m³odego elektronika.}
 {37800}{}{ciastko}
@@ -873,8 +873,8 @@
 {44701}{}{Ta holotaœma zawiera informacje o tajnej umowie Bishopa z RNK. Wynajmowa³ on najemników, którzy atakowali Kryptopolis w celu wymuszenia na mieœcie zwrócenia siê o pomoc do RNK. Ca³e nagranie jest w formie dŸwiêkowej. Te informacje mog¹ zainteresowaæ w³adze Kryptopolis.}
 {44800}{}{ksiêga przychodów i rozchodów}
 {44801}{}{Ksiêga zawiera listê miesiêcznych wyp³at, jakie banda najemników otrzymywa³a od rodziny Bishopów z Nowego Reno. Wysokoœæ sum wydaje siê byæ zale¿na od tego, jak wiele k³opotów sprawili najemnicy miastu Kryptopolis. Te informacje mog¹ zainteresowaæ w³adze miasta.}
-{44900}{}{niewykorzystane}
-{44901}{}{niewykorzystane}
+{44900}{}{Nieu¿ywane}
+{44901}{}{Nieu¿ywane}
 {45000}{}{podarty papier 1}
 {45001}{}{Widzisz kawa³ek zapisanego papieru. Wygl¹da na czêœæ jakiegoœ kodu. Niestety jest on niepe³ny - gdyby ci siê uda³o znaleŸæ wszystkie 3 czêœci! Na tej widzisz tylko nastêpuj¹ce zapiski: 1. Has³o fizyki KSLJ, 2. Has³o chemii TIU, 3. Has³o biologii INTL}
 {45100}{}{podarty papier 2}
@@ -920,13 +920,13 @@
 {47100}{}{"Kwiat lawendy"}
 {47101}{}{Jakiœ romans autorstwa Dorothy Rixon. Ok³adka przedstawia kobietê le¿¹c¹ na ³ó¿ku otoczonym kwiatami.}
 {47200}{}{holotaœma Centrologów}
-{47201}{}{Napis na taœmie identyfikuje j¹ jako "Centrologia: Prawda, nie k³amstwa". Wygl¹da na to, ¿e jest kompatybilna z twoim PIP-boyem.}
+{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
 {47300}{}{zmutowany palec}
 {47301}{}{Widzisz swój szósty palec u nogi. To ma³a, zmutowana czêœæ twojej osoby. Z jakiegoœ powodu widok usuniêtego palca nape³nia ciê strasznym poczuciem straty.}
 {47400}{}{stokrotki}
 {47401}{}{Doniczka pe³na stokrotek. Jakie to s³odkie.}
-{47500}{}{niewykorzystane}
-{47501}{}{niewykorzystane}
+{47500}{}{Nieu¿ywane}
+{47501}{}{Nieu¿ywane}
 {47600}{}{list Oœwieconej}
 {47601}{}{Adresatem tego raportu jest UKC-9 z San Francisco. Na ma w nim nic ciekawego - mnóstwo tabel, raportów, danych o wydatkach i innych bzdur, na które nie warto marnowaæ czasu.}
 {47700}{}{holotaœma z audycj¹}
@@ -934,7 +934,7 @@
 {47800}{}{holotaœma misji Sierra}
 {47801}{}{' Opis misji'.}
 {47900}{}{czêœci komputera nawigacyjnego}
-{47901}{}{Czêœci komputerowe. Wydaje ci siê, ¿e pasowa³yby do wnêtrza jakiejœ maszyny. Czytasz nadrukowane na nich napisy "Poseidon Oil" i "Komputer nawigacyjny", co nasuwa ci wniosek, ¿e te czêœci mog¹ byæ przeznaczone do komputera nawigacyjnego Poseidon Oil.}
+{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
 {48000}{}{+1 do Zrêcznoœci}
 {48100}{}{+1 do Inteligencji}
 {48200}{}{+1 do Si³y}
@@ -951,7 +951,7 @@
 {48800}{}{motywator K-9}
 {48801}{}{Napêd robota serii K-9.}
 {48900}{}{specjalna broñ boksera}
-{49000}{}{holotaœma z histori¹ RNK}
+{49000}{}{Holodysk z RNK - Broszura}
 {49001}{}{'Historia Republiki Nowej Kalifornii'.}
 {49100}{}{lalka Nixona}
 {49101}{}{Widzisz ma³¹ lalkê z wielkim, czerwonym nosem. Z jakiegoœ powodu nie jesteœ w stanie zaufaæ tej niby-niewinnej dzieciêcej zabawce.}
@@ -1044,7 +1044,7 @@
 {54000}{}{Instrukcja Obs³ugi}
 {54001}{}{Instrukcja obs³ugi KV-75; przenoœnej, taktycznej maszyny szyfruj¹cej. U¿ywana by³a tak¿e przez nie-taktycznych u¿ytkowników do komunikacji w lokalnych szerokopasmowych sieciach telefonicznych i przez szerokopasmowe terminale satelitarne.}
 {54100}{}{Chiñska Armia: Podrêcznik Oddzia³ów Specjalnych}
-{54101}{}{Nie rozumiesz niczego z tekstu, ale ilustracje s¹ bardzo pouczaj¹ce.}
+{54101}{}{Nie rozumiesz ani s³owa z tekstu, ale ilustracje s¹ bardzo sugestywne.}
 {54200}{}{butelka gorza³ki}
 {54201}{}{Œwie¿a butelka, najlepszego trunku z Opactwa.}
 {54300}{}{pamiêtnik}
@@ -1062,7 +1062,7 @@
 {54900}{}{maska przeciwgazowa}
 {54901}{}{Maska ochronna: Twoja maska to pierwszy œrodek ochrony przed zagro¿eniami biologicznymi i chemicznymi. Dbaj o ni¹.}
 {55000}{}{Toster}
-{55001}{}{Srebrny ma³y toster stoi na biurku.}
+{55001}{}{Ma³y srebrny toster stoi na biurku.}
 {55100}{}{strzykawka}
 {55101}{}{Przedwojenny œrodek podawania lekarstw. Jest pe³na nieznanej substancji.}
 {55200}{}{psie ¿arcie}
@@ -1103,8 +1103,8 @@
 {56901}{}{Nie otwarta paczka twardych cukierków zrobionych z cukru, laktozy (wiêcej cukru), syropu skrobiowego (jeszcze wiêcej cukru) i przypraw. Wed³ug plotki w po³¹czeniu z pewnymi napojami jak na przyk³ad z Nuka Col¹ mog¹ rozsadziæ ¿o³¹dek.}
 {57000}{}{butelka szamponu}
 {57001}{}{Szampon w limitowanej butelce. W przeciwieñstwie do innych wiod¹cych marek, ten szampon jest w elastycznej plastikowej butelce. Zosta³a tak zaprojektowana, ¿e po œciœniêciu uwalnia okreœlon¹ iloœæ szamponu - nie mniej, nie wiêcej. A i mo¿na nim umyæ pó³ g³owy.}
-{57100}{}{K9 Kewlar}
-{57101}{}{Zakurzony zestaw solidnych kewlarowych p³yt w czarnym nylonowym obszyciu. Na pierwszy rzut oka wygl¹da na kamizelkê kuloodporn¹ szyt¹ na kar³a, ale wewn¹trz jest metka na której pisze: Psi Kewlar. Rozmiar: L. Produkt firmy PsiKumpel. Z³o¿ono na Tajwanie.} 
+{57100}{}{K9 Kevlar}
+{57101}{}{Zakurzony zestaw solidnych kewlarowych p³yt w czarnym nylonowym obszyciu. Na pierwszy rzut oka wygl¹da na kamizelkê kuloodporn¹ szyt¹ na kar³a, ale wewn¹trz jest metka na której pisze: Psi Kewlar. Rozmiar: L. Produkt firmy PsiKumpel. Z³o¿ono na Tajwanie.}
 {57200}{}{ludzkie ucho}
 {57201}{}{Kobiece ucho. Okropieñstwo! Tylko ktoœ psychicznie niezrównowa¿ony móg³by odci¹æ ludzkie ucho.}
 {57300}{}{zbiornik SSOŒ}

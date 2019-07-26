@@ -34,7 +34,7 @@
 {1701}{}{Armure d'une technologie de pointe, constituée de polymères défensifs avancés.}
 {1800}{}{Desert Eagle .44}
 {1801}{}{Ancien pistolet Desert Eagle, version .44 Magnum. L'intérêt récent porté aux films de la fin du XXème siècle en a fait de l'arme la plus populaire de tous les temps. FO min. : 4.}
-{1900}{}{Pierre}
+{1900}{}{Rocher}
 {1901}{}{Et bien, c'est une pierre. Le modèle Granite & Cie est une version améliorée. FO min. : 1.}
 {2000}{}{Pince à levier}
 {2001}{}{Pièce de métal très solide et lourde, spécialement conçue pour faire levier. Ou tabasser les autres. FO min. : 5.}
@@ -90,7 +90,7 @@
 {4501}{}{Un couteau conçu spécifiquement pour le lancer. Composé de titane et affûté au laser. FO min. : 3.}
 {4600}{}{Sac}
 {4601}{}{Un sac de taille moyenne. Tissé à partir de crins de Brahmine.}
-{4700}{}{Trousse de secours}
+{4700}{}{Trousse de premiers secours}
 {4701}{}{Une petite trousse contenant du matériel médical de base. Bandages, couvertures, désinfectant etc.}
 {4800}{}{Anti-Rad}
 {4801}{}{Une solution chimique absorbant les particules radioactives pour les faire quitter ton organisme. Nécessite du temps avant de fonctionner.}
@@ -98,13 +98,13 @@
 {4901}{}{Un flacon contenant un antidote de fabrication artisanale contre le poison. Liquide laiteux avec des morceaux flottants de chair de radscorpion.}
 {5000}{}{Objet réservé}
 {5001}{}{Ceci est un objet réservé. NE PAS UTILISER.}
-{5100}{}{Dynamite}
+{5100}{}{Dynamite (Minuterie activée)}
 {5101}{}{Un explosif puissant, composé de nitroglycérine mélangée avec de la substance absorbante à base de kiselguhr. Comprend une minuterie.}
-{5200}{}{Compteur Geiger}
+{5200}{}{Compteur Geiger (Activé)}
 {5201}{}{Un compteur Geiger Wattz Electronics, modèle C-Radz. Cet appareil détecte et indique le taux des radiations.}
 {5300}{}{Mentats}
 {5301}{}{Une boîte de pilules stimulantes altérant l'esprit. Augmente les facultés de mémorisation et accélère les autres processus mentaux. Provoque une forte dépendance.}
-{5400}{}{Homme invisible}
+{5400}{}{Homme invisible (Activé)}
 {5401}{}{Appareil de furtivité personnel Homme Invisible 3001 de RobCo. Génère un champ de modulation transmettant la lumière réfléchie d'un côté à l'autre d'un objet, ce qui rend son porteur beaucoup plus difficile à voir.}
 {5500}{}{Puce d'eau}
 {5501}{}{Une puce d'eau Vault-Tek. En général, on les trouve conditionnées par boîtes de cinq.}
@@ -114,7 +114,7 @@
 {5701}{}{Un appareil d'enregistrement et d'émission miniaturisé.}
 {5800}{}{Bande}
 {5801}{}{Une bande holodisque de Wattz Electronics. Cette bande semble être en particulièrement mauvais état.}
-{5900}{}{Détecteur de mouvements}
+{5900}{}{Détecteur de mouvements (Activé)}
 {5901}{}{Un détecteur de mouvements Wattz Electronics, modèle C-U. Détecte les mouvements des créatures biologiques sur plusieurs mètres à la ronde. En avoir un dans ton inventaire t'aidera aussi à éviter les rencontres en extérieur (+20% à la compétence Vie en plein air pour les rencontres en extérieur uniquement ).}
 {6000}{}{Bibliothèque}
 {6001}{}{Une bibliothèque en bois.}
@@ -154,19 +154,19 @@
 {7701}{}{Un passe électronique Micromanipulator FingerStuff de Wattz Electronics. Pour tous les problèmes de verrous électroniques et de systèmes de sécurité.}
 {7800}{}{Peinture floue}
 {7801}{}{L'image d'un chanteur. A l'évidence, très ancien. L'image comporte un revêtement en feutre toujours en bon état.}
-{7900}{}{Fusée éclairante}
+{7900}{}{Fusée éclairante (Allumée)}
 {7901}{}{Une fusée éclairante. Produit de la lumière pour une courte période. Le carton est un peu écorné, mais elle est en bon état. Tordre l'extrémité pour l'activer.}
 {8000}{}{Guide de secourisme}
 {8001}{}{Un guide consacré à la théorie et à l'application pratique du secourisme.}
 {8100}{}{Brochette d'iguane}
-{8101}{}{Un iguane cuit, rôti dans sa propre peau.}
+{8101}{}{A cooked iguana, roasted in its own skin.}
 {8200}{}{Clé}
 {8201}{}{Une clé. Une clé correspond toujours à une serrure.}
 {8300}{}{Porte-clés}
 {8301}{}{Clés multiples.}
 {8400}{}{Des passe-partouts.}
 {8401}{}{Un jeu d'outils de serrurerie. Comprend tous les pics et clés à enrouleur nécessaires pour ouvrir les serrures à gorge ou à broche conventionnelles.}
-{8500}{}{Plastic}
+{8500}{}{Plastic (Minuterie activée)}
 {8501}{}{Un morceau de Cordex, une marque militaire d'explosifs au plastic. Très stable, très dévastateur. Comprend une minuterie.}
 {8600}{}{Guide de l'Eclaireur}
 {8601}{}{Un livre sur les méthodes de reconnaissance. Comporte des informations très pratiques pour la vie au grand air.}
@@ -178,7 +178,7 @@
 {8901}{}{Un moteur électrique de 40 chevaux.}
 {9000}{}{Sac à dos}
 {9001}{}{Un sac à dos ordinaire avec des lanières en option.}
-{9100}{}{Trousse de médecin}
+{9100}{}{Sacoche de médecin}
 {9101}{}{Cette trousse contient des instruments et des produits chimiques utilisés par les médecins dans l'exercice de leur art.}
 {9200}{}{Queue de radscorpion}
 {9201}{}{La queue coupée d'un radscorpion.}
@@ -192,7 +192,7 @@
 {9601}{}{Une clé de sécurité électronique utilisant le code de couleur rouge.}
 {9700}{}{Passe bleu}
 {9701}{}{Une clé de sécurité électronique utilisant le code de couleur bleu.}
-{9800}{}{Des vieux trucs}
+{9800}{}{Vieilleries}
 {9801}{}{Une pile de vieilles pièces. Un peu de tout en somme.}
 {9900}{}{Médaillon en or}
 {9901}{}{Un médaillon en or de valeur.}
@@ -226,9 +226,9 @@
 {11301}{}{Les aubes des Enfants de la Cathédrale.}
 {11400}{}{Main de Tangler}
 {11401}{}{Un manipulateur cybernétique, qui à la forme exacte d'une main. Endommagé du fait d'un manque d'expertise au démontage.}
-{11500}{}{SuperMassue}
+{11500}{}{Super Luge}
 {11501}{}{Une Super Massue, fabriquée par la Confrérie de l'Acier, utilisant les dernières technologies en matière d'armement. Comprend un mécanisme de stockage d'énergie cinétique pour renforcer les percussions. FO min. : 5.}
-{11600}{}{Ripper}
+{11600}{}{l'Eventreur}
 {11601}{}{Une lame vibrante Ripper(tm). Alimentée par une petite cellule énergétique, les lames entraînées par une chaîne pénètrent et déchiquettent la cible. FO min : 4.}
 {11700}{}{Fleur}
 {11701}{}{Une très jolie fleur.}
@@ -261,21 +261,21 @@
 {13100}{}{Coffre}
 {13101}{}{Un coffre personnel ordinaire. Il est pratique et permet de ranger pas mal de choses. Il ferme à clé.}
 {13200}{}{Placard}
-{13201}{}{Un placard de rangement.}
+{13201}{}{Un conteneur de stockage.}
 {13300}{}{Placard}
-{13301}{}{Un placard de rangement.}
+{13301}{}{Un conteneur de stockage.}
 {13400}{}{Placard}
-{13401}{}{Un placard de rangement.}
+{13401}{}{Un conteneur de stockage.}
 {13500}{}{Placard}
-{13501}{}{Un placard de rangement.}
+{13501}{}{Un conteneur de stockage.}
 {13600}{}{Placard}
-{13601}{}{Un placard de rangement.}
+{13601}{}{Un conteneur de stockage.}
 {13700}{}{Placard}
-{13701}{}{Un placard de rangement.}
+{13701}{}{Un conteneur de stockage.}
 {13800}{}{Placard}
-{13801}{}{Un placard de rangement.}
+{13801}{}{Un conteneur de stockage.}
 {13900}{}{Placard}
-{13901}{}{Un placard de rangement.}
+{13901}{}{Un conteneur de stockage.}
 {14000}{}{Carte d'accès}
 {14001}{}{Une carte d'accès de sécurité. Toujours en état de marche.}
 {14100}{}{Badge EDLC}
@@ -356,7 +356,7 @@
 {17801}{}{Des objets divers parfois appelés "choses".}
 {17900}{}{Choses diverses}
 {17901}{}{Des objets divers parfois appelés "choses".}
-{18000}{}{Cageot}
+{18000}{}{Caisse}
 {18001}{}{Un cageot en bois contenant diverses choses.}
 {18100}{}{Bureau}
 {18101}{}{Un bureau en bois. Quand on en a vu un, on les a tous vus.}
@@ -377,19 +377,19 @@
 {18900}{}{Placard}
 {18901}{}{Un placard.}
 {19000}{}{Disque sur le FEV}
-{19001}{}{Une holobande contenant des informations médicales. Peut être utilisée pour entrer des informations dans votre Pip-Boy.}
+{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
 {19100}{}{Disque de sécurité}
-{19101}{}{Une holobande portant la mention "Journal de sécurité". Tu peux transférer les données qu'elle contient vers ton Pip-Boy.}
+{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
 {19200}{}{Disque sur l'expérience Alpha}
 {19201}{}{Cette holobande porte la mention : "Journal de l'expérience Alpha"}
 {19300}{}{Disque sur l'expérience Delta}
 {19301}{}{Cette holobande porte la mention : "Journal de l'expérience Delta"}
 {19400}{}{Disque sur les expériences de Vree}
-{19401}{}{Cette holobande a été mise à jour avec la découverte de Vree concernant le BoS. Tu peux transférer les données qu'elle contient vers ton Pip-Boy.}
+{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
 {19500}{}{Code d'honneur de la Confrérie}
-{19501}{}{Une holobande comportant une représentation vague du symbole de la Confrérie de l'Acier. Utilisez cette bande pour transférer les données qu'elle contient vers votre Pip-Boy.}
+{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
 {19600}{}{Transmissions des mutants}
-{19601}{}{Cette holobande semble avoir été utilisée pour enregistrer des transmissions radio. Utilisez cette bande pour transférer les données qu'elle contient vers votre Pip-Boy.}
+{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
 {19700}{}{Boîte}
 {19800}{}{Boîte}
 {19900}{}{Boîte}
@@ -419,7 +419,7 @@
 {21400}{}{Bureau}
 {21401}{}{Un bureau. Après un examen approfondi, tu constates qu'il s'agit bien d'un bureau.}
 {21500}{}{Histoire de la Confrérie}
-{21501}{}{Une holobande comportant des informations sur la Confrérie de l'Acier. Peut être utilisée pour entrer des informations dans votre Pip-Boy.}
+{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
 {21600}{}{Histoire de Maxson}
 {21700}{}{Journal de Maxson}
 {21800}{}{Légère guérison}
@@ -449,7 +449,7 @@
 {23000}{}{Enregistrements de l'Abri}
 {23001}{}{Une combinaison d'événements et d'enregistrements importants issus d'un ordinateur de l'Abri. Probablement endommagée.}
 {23100}{}{Code de sécurité de la base militaire}
-{23101}{}{ }
+{23101}{}{}
 {23200}{}{SuperArmure renforcée}
 {23201}{}{Une SuperArmure T-51b. Les renforts ont permis d'améliorer les capacités défensives de cette armure de pointe.}
 {23300}{}{Fusil à turbo-plasma}
@@ -472,20 +472,20 @@
 {24101}{}{Un fusil calibre .223 modifié et scié au format pistolet. C'est une arme unique en son genre, visiblement travaillée avec amour et savoir-faire. FO min. : 5.}
 {24200}{}{Fusil de combat}
 {24201}{}{Un fusil de combat Winchester City-Killer calibre 12, version bullpup. En parfait état, il est équipé en outre de l'option d'isolation de l'environnement DesertWarfare pour une fiabilité accrue. FO min. : 5.}
-{24300}{}{Pot}
-{24301}{}{Un pot en argile travaillé finement travaillé.}
-{24400}{}{Pot}
-{24401}{}{Un pot en argile travaillé finement travaillé.}
+{24300}{}{Poterie}
+{24301}{}{Superbe pot en argile.}
+{24400}{}{Poterie}
+{24401}{}{Superbe pot en argile.}
 {24500}{}{Coffre}
 {24501}{}{Un coffre en bois.}
 {24600}{}{Etagère}
 {24601}{}{Une étagère en bois comportant différents objets.}
 {24700}{}{Etagère}
 {24701}{}{Une étagère en bois comportant différents objets.}
-{24800}{}{Pot}
-{24801}{}{Un pot en argile travaillé finement travaillé.}
-{24900}{}{Pot}
-{24901}{}{Un pot en argile travaillé finement travaillé.}
+{24800}{}{Poterie}
+{24801}{}{Superbe pot en argile.}
+{24900}{}{Poterie}
+{24901}{}{Superbe pot en argile.}
 {25000}{}{Os}
 {25001}{}{Une pile d'ossements humains.}
 {25100}{}{Os d'Anna}
@@ -527,12 +527,12 @@
 {26900}{}{Pièces de robot}
 {26901}{}{Une pile de pièces de robot endommagées.}
 {27000}{}{Lance-roquettes robotisé}
-{27001}{}{Utilisé uniquement par les robots équipés de roquettes.}
+{27001}{}{Utilisée uniquement par les robots équipés de lance-roquettes robotisés.}
 {27100}{}{Fleur de Broc}
 {27101}{}{Ces fleurs abondantes servent à concocter la poudre de guérison.}
 {27200}{}{Racine de Xandre}
 {27201}{}{Cette racine rare apporte ses vertus curatives à la poudre de guérison.}
-{27300}{}{Poudre de guérison}
+{27300}{}{Poudre médicinale}
 {27301}{}{Une puissante solution de guérison magique vaguement soporifique.}
 {27400}{}{Roquette pour robots}
 {27401}{}{Utilisée uniquement par les robots équipés de lance-roquettes robotisés.}
@@ -628,13 +628,13 @@
 {31901}{}{La lame de ce petit couteau est retenue par un ressort. Lorsque tu appuies sur le bouton situé sur le côté du manche, la lame ressort en faisant un petit « Cccchhhak » très plaisant. FO min. : 1.}
 {32000}{}{Piquet aiguisé}
 {32001}{}{Un piquet en bois aiguisé à l'une de ses extrémités. FO min. : 4.}
-{32100}{}{Cerveau cybernétique}
+{32100}{}{[Cerveau cybernétique]}
 {32101}{}{Un cerveau humain qui a été amélioré en greffant des composants électroniques et cybernétiques.}
-{32200}{}{Cerveau humain}
+{32200}{}{[Cerveau humain]}
 {32201}{}{Un cerveau humain ordinaire. Se trouve généralement dans les crânes humains. Pouah.}
-{32300}{}{Cerveau de chimpanzé}
+{32300}{}{[Cerveau de chimpanzé]}
 {32301}{}{Un cerveau de singe. Mou au toucher.}
-{32400}{}{Cerveau anormal}
+{32400}{}{[Cerveau anormal]}
 {32401}{}{Semble bien être un cerveau humain. La couleur est un peu bizarre et l'hémisphère gauche s'est effondré.}
 {32500}{}{Dés}
 {32501}{}{Une paire de dés standard. Ce serait sympa d'en avoir une paire pour votre voiture.}
@@ -713,7 +713,7 @@
 {36301}{}{Munitions. Calibre : 7,62 mm.}
 {36400}{}{Motivateur de robot}
 {36401}{}{Le mécanisme d'entraînement des robots.}
-{36500}{}{Graine de plante à spores}
+{36500}{}{Graine de plante à spores pointue}
 {36501}{}{Des graines crachées par les plantes carnivores vers les proies potentielles ou les porteurs de graines.}
 {36600}{}{J.E.K.}
 {36601}{}{Jardin d'Eden en Kit. Cette unité se trouve dans tous les abris Vault-Tek. Le JEK sert à rebâtir la civilisation après la bombe. Il suffit d'ajouter de l'eau et de touiller.}
@@ -843,10 +843,10 @@
 {43201}{}{Tu as reçu cette boîte de la part de Big Jesus Mordino et dois la donner à Ramirez, à l'étable. Elle est ouverte et tu as retiré tout le Jet qu'elle contenait.}
 {43300}{}{Lunettes de soleil}
 {43301}{}{Ces lunettes réfléchissantes te donnent un air plus martial tout en restant à la mode. L'idée des les avoir dans ton inventaire te met à l'aise.}
-{43400}{}{Chariot}
-{43401}{}{Un wagon de caravane assemblé à partir des restes d'une vieille voiture.}
-{43500}{}{Chariot}
-{43501}{}{Un wagon de caravane assemblé à partir des restes d'une vieille voiture.}
+{43400}{}{Wagon}
+{43401}{}{Wagon de caravane construit à partir des restes d'une vieille voiture.}
+{43500}{}{Wagon}
+{43501}{}{Wagon de caravane construit à partir des restes d'une vieille voiture.}
 {43600}{}{Jeu de cartes}
 {43601}{}{Un jeu de cartes ordinaire.}
 {43700}{}{Jeu de cartes truqué}
@@ -873,8 +873,8 @@
 {44701}{}{Il recèle des informations sur le pacte secret conclu par Bishop avec la RNC. Il semble que Bishop ait engagé des mercenaires pour attaquer la Cité de l'Abri dans l'espoir que celle-ci demande une aide militaire à la RNC. C'est un holodisque audio. Il pourrait intéresser la Cité de l'Abri.}
 {44800}{}{Livre de comptes}
 {44801}{}{Ce livre de comptes répertorie des versements mensuels de la Famille Bishop de New Reno à un groupe de mercenaires. Leur montant est fortement lié à la « pression » exercée par les mercenaires sur la Cité de l'Abri... que ce document pourrait intéresser.}
-{44900}{}{Inutilisé}
-{44901}{}{Inutilisé}
+{44900}{}{Unused}
+{44901}{}{Unused}
 {45000}{}{Bout de papier 1}
 {45001}{}{Un bout de papier sur lequel est écrit un code... incomplet, hélas. Il doit te manquer deux autres morceaux... Tu parviens tout de même à déchiffrer les inscriptions suivantes : 1. Mot de passe Physique KSLJ, 2. Mot de passe Chimie TIU, 3. Mot de passe Biologie INTL}
 {45100}{}{Bout de papier 2}
@@ -920,13 +920,13 @@
 {47100}{}{« La Lavande »}
 {47101}{}{Un roman à l'eau de rose écrit par une certaine Dorothy Rixon. La couverture représente une femme étendue sur un lit et entourée de dizaines de fleurs.}
 {47200}{}{Holodisque Hubologiste}
-{47201}{}{L'étiquette de cet holodisque dit : « L'Hubologie : La Vérité Est Ici. » Il doit être compatible avec ton Pip-Boy.}
+{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
 {47300}{}{Orteil muté}
 {47301}{}{Tu vois ton sixième orteil, une portion minuscule, mais mutée, de toi-même. Curieusement, la vue de ce membre amputé t'emplit de nostalgie.}
 {47400}{}{Marguerites}
 {47401}{}{Un pot de marguerites. Ne sont-elles pas jolies ?}
-{47500}{}{Inutilisé}
-{47501}{}{Inutilisé}
+{47500}{}{Unused}
+{47501}{}{Unused}
 {47600}{}{Lettre de l'Eclairée}
 {47601}{}{Un rapport adressé à AHS-9 à San Francisco. C'est ennuyeux à mourir : tableaux, tables, courbes et graphiques dont tu arriveras très bien à te passer.}
 {47700}{}{Holodisque de journaux}
@@ -934,7 +934,7 @@
 {47800}{}{Holodisque de la base Sierra}
 {47801}{}{Sur l'étiquette, tu lis : « Ordre de mission. »}
 {47900}{}{Pièces détachées NavCom}
-{47901}{}{Ces pièces doivent pouvoir s'adapter dans un ordinateur. Le fait qu'elles soient étiquetées « Poséidon Oil » et « Ordinateur de navigation » te font penser qu'elles sont destinées à un Ordinateur de Navigation Poséidon Oil.}
+{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
 {48000}{}{Bonus +1 Agilité}
 {48100}{}{Bonus +1 Intelligence}
 {48200}{}{Bonus +1 Force}
@@ -1044,7 +1044,7 @@
 {54000}{}{Manuel d'Opérateur}
 {54001}{}{Le manuel d'opérateur du KV-75; un dispositif cryptographique tactique portable. Aussi utilisé par des utilisateurs non tactiques pour des communications de haut niveau dans la boucle locale du réseau de téléphonie et les terminaux de satellites.}
 {54100}{}{Manuel de Survie de l'Armée}
-{54101}{}{Une manuel de survie publié par l'Armée des Etats-Unis pour ses troupes au champ de bataille.}
+{54101}{}{Tu ne comprends absolument rien au texte, mais les images sont informatives.}
 {54200}{}{Bouteille de vin}
 {54201}{}{Un bouteille fraîche de la meilleure liqueur de l'Abbaye.}
 {54300}{}{Journal}
@@ -1087,7 +1087,7 @@
 {56101}{}{Un paquet de graines, utilisé pour faire pousser des plantes. Elles sont étiquetées en maïs transgénique immunisé aux maladies et aux infestations d'insectes.}
 {56200}{}{Aérosol désherbant}
 {56201}{}{Une bombe aérosol remplie d'une substance qui tue différents types de plantes.}
-{56300}{}{Dynamite à détonateur}
+{56300}{}{Dynamite à détonateur activée}
 {56301}{}{Contrairement aux dynamites normales qui sont utilisées avec un compte à rebours, cette dynamite doit être activée par un détonateur.}
 {56400}{}{Détonateur}
 {56401}{}{Détonateur pour dynamite.}
@@ -1103,7 +1103,7 @@
 {56901}{}{Un sachet encore fermé de bonbons savoureux et gazéifiés composés de sucre, de lactose (sucre), de sirop de maïs (sucre), et d'agents aromatisants. La rumeur prétend que s'ils sont mélangés avec des boissons comme le Nuka Cola, cela entraîne une explosion de l'estomac.}
 {57000}{}{Bouteille de shampoing}
 {57001}{}{Une bouteille de shampoing. Contrairement à d'autres grandes marques, ce shampoing est contenu dans une flexi-bouteille. Il a été conçu de cette façon pour que la bonne quantité se répande à chaque pression, ni plus, ni moins. Ouvrez juste le couvercle pour en profiter !}
-{57100}{}{Kevlar K-9}
+{57100}{}{Kevlar de K9}
 {57101}{}{Un vieil ensemble poussiéreux en plaques de kevlar avec des manches en nylon noir. Vous pensiez qu'il doit être fabriqué pour un nain, jusqu'à ce que vous remarquiez une étiquette à l'intérieur : Canine Kevlar. Grand. Un produit DoggieBuddy. Fabriqué à Taiwan.}
 {57200}{}{Oreille humaine}
 {57201}{}{Une oreille de femme. Dégueulasse ! Seule une personne psychologiquement instable couperait une oreille humaine.}
@@ -1115,7 +1115,7 @@
 {57501}{}{P'tit gars, toutes ces croyances à la noix et ces armes démodées, ça vaut pas un bon pisto-laser à tes côtés. Min ST: 3}
 {57600}{}{Sabre laser}
 {57601}{}{C'est élégant, maniable, une arme noble d'une époque civilisée. Les nouveaux pisto-lasers sont bien moins précis... Il t'a été donné par l'Empereur Timeslip.  FO Min : 2.}
-{57700}{}{Ventilateur}
+{57700}{}{Conduit d'aération}
 {57701}{}{La grille de ce ventilateur semble différente.}
 {57800}{}{Conteneur en Métal}
 {57801}{}{Un conteneur de stockage.}

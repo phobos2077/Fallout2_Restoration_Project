@@ -4,11 +4,10 @@
 {104}{}{Tu vois le Shérif Jo.}
 {105}{}{Tu vois le Maire Jo.}
 {106}{}{Tu vois Jo, le Juge.}
-
 {150}{}{Nous les avons tous tués. Même les enfants... [Sanglots...]}
 {151}{}{Retrouvez-nous à la ferme perdue. Nous passons tout de suite à l'attaque.}
 {152}{}{Je vous remercie d'avoir sauvé les habitants de Modoc.}
-{153}{}{Que faites-vous ?}
+{153}{}{Que fais-tu ?}
 {154}{}{Hé ! Ne touchez pas à ça !}
 {155}{}{Au voleur !}
 {156}{}{Désolé, ce poste d'approvisionnement est fermé à cause de la sécheresse.}
@@ -16,12 +15,12 @@
 {158}{}{Je viens juste d'arriver. Que pouvez-vous me dire sur cette ville ?}
 {159}{}{Je ne pense pas que vous ayez une montre en or à vendre ?}
 {160}{}{J.E.K !}
-{161}{}{Que puis-je faire pour vous ?}
+{161}{}{Que puis-je pour toi ?}
 {162}{}{Je cherche un objet et je me demandais si vous pourriez m'aider à le trouver.}
 {164}{}{Je cherche à acheter une montre de gousset en or. Savez-vous où je pourrais en trouver une ?}
-{165}{}{Qu'avez-vous à vendre ?}
+{165}{}{Quels produits proposez-vous ?}
 {166}{}{Que pouvez-vous me dire à propos de cette ville ?}
-{167}{}{Que faites-vous ici ?}
+{167}{}{Qu'est-ce tu fais ici ?}
 {168}{}{J.E.K !}
 {169}{}{Vous êtes de retour ! Qu'avez-vous découvert au sujet de la ferme ?}
 {170}{}{J'ai résolu le problème de la ferme perdue. Vous pouvez la reprendre quand vous voulez.}
@@ -29,7 +28,7 @@
 {172}{}{Mess-age.}
 {173}{}{Ferme ?}
 {174}{}{Méchants partis !}
-{175}{}{Moi aller.}
+{175}{}{Je pars.}
 {176}{}{Je reviendrai quand j'aurai du nouveau.}
 {179}{}{J'ai trouvé cet ivrogne à la Fosse. Il correspond à la description de Karl. Il dit qu'il était fermier avant que les fantômes ne le chassent.}
 {180}{}{Tous ces cadavres sont des faux. Rien que des mannequins couverts de boyaux de Brahmines. Ils voulaient seulement vous empêcher de voler leurs récoltes.}
@@ -47,9 +46,9 @@
 {194}{}{Il y a une ferme juste à la sortie de la ville, à un endroit où il ne devrait pas y en avoir. Elle est soudainement apparue il y a quelques années.}
 {195}{}{Cette ferme est apparue comme ça, du jour au lendemain ? Ouais ouais, c'est ça...}
 {196}{}{Nous étions quelques-uns à chasser dans le coin quand nous avons découvert cette nouvelle ferme. Mais ce n'est pas ça le plus étrange. Un peu plus tard, nous y sommes allés pour rendre visite à notre nouveau voisin, mais l'endroit était désert... Personne !}
-{197}{}{Et après ?}
+{197}{}{Continue.}
 {198}{}{Après plusieurs mois durant lesquels nous avons essayé de contacter les propriétaires, nous en avons conclu que cette ferme avait été abandonnée peu après sa construction. Alors, au lieu de laisser les récoltes pourrir dans les champs, le jeune Karl s'y est installé.}
-{199}{}{Hmm...}
+{199}{}{Hmm... }
 {200}{}{C'est là que tout a commencé à mal tourner. Karl a commencé à raconter que, la nuit, il voyait d'étranges silhouettes lumineuses travailler le sol et nourrir le bétail. Nous nous sommes moqués de lui, pensant qu'il racontait des blagues. Et un jour nous n'avons plus revu Karl en ville.}
 {201}{}{Que lui est-il arrivé ? L'avez-vous recherché ?}
 {202}{}{Evidemment ! Nous sommes allés là-bas dès que nous avons soupçonné que quelque chose n'allait pas. [Il se met à trembler violemment.] C'était l'horreur ! Des corps éparpillés partout ! Certains avaient été crucifiés, d'autres pourrissaient au soleil. Je me réveille encore en plein milieu de la nuit en hurlant à cause de ce que j'ai vu ce jour-là.}
@@ -70,7 +69,7 @@
 {217}{}{Apparemment, vous n'êtes pas si désespéré que ça. Je laisse tomber.}
 {218}{}{Qu'avez-vous dit ? Ai-je bien entendu J.E.K sacré ?}
 {219}{}{Unh. J.E.K.}
-{220}{}{Moi partir.}
+{220}{}{Moi aller.}
 {222}{}{Je m'appelle Jo. Est-ce que vous savez dire Jo ? Tans pis. Vous voyez cette chose rectangulaire là-bas ? Ca s'appelle une porte. Faites attention à ce qu'elle ne vous frappe pas en sortant !}
 {223}{}{[Tu ne comprends pas tout ce qu'il te dit, mais tu hoches la tête et tu te tournes pour partir.]}
 {224}{}{[Il a l'air de réfléchir un instant, puis il sourit et te regarde.] Peut-être que nous pourrions faire affaire après tout. Je m'appelle Jo, je tiens le poste d'approvisionnement. J'ai des informations sur le J.E.K. Ca vous intéresse ?}
@@ -81,7 +80,7 @@
 {229}{}{Bon, eh bien tout est dit. La porte est par là.}
 {230}{}{Eh bien, c'est un sacré problème que vous avez là. Pourquoi ne revenez-vous pas lorsqu'il sera moins gros ? Bonne journée à vous et faites attention à la porte en sortant.}
 {231}{}{Bienvenue à Modoc. Je m'appelle Jo et je tiens ce poste d'approvisionnement. Il n'y a pas grand-chose ici : quelques fermes, un abattoir, l'Auberge de Rose et la tannerie. On a juste de quoi fabriquer des marchandises à vendre. Mais avec cette sécheresse, tout pourrait bien changer.}
-{232}{}{Et que pouvez-vous me dire sur l'abattoir ?}
+{232}{}{Que peux-tu me dire sur l'abattoir ?}
 {233}{}{L'Auberge de Rose ?}
 {234}{}{Parlez-moi du poste d'approvisionnement...}
 {235}{}{Où est la tannerie ?}
@@ -93,7 +92,7 @@
 {257}{}{De quoi voulez-vous parler ? De l'abattoir, de l'Auberge de Rose, de la tannerie ou du poste d'approvisionnement ?}
 {262}{}{Bon ben, va falloir me donner plus de détails... Je ne peux pas vous aider si vous ne me dites pas ce que vous cherchez et je ne vais pas attendre planté là à jouer aux devinettes.}
 {263}{}{Je cherche le J.E.K sacré.}
-{264}{}{Aucune importance.}
+{264}{}{Ca ne fait rien.}
 {265}{}{Comme je dépends énormément de la production des habitants de Modoc, je n'ai pas grand-chose à offrir. Vous savez avec cette sécheresse et tout le reste. Ca vous intéresse toujours ?}
 {266}{}{Faisons affaire.}
 {267}{}{Non merci, mais puis-je vous poser quelques questions ?}
@@ -102,7 +101,7 @@
 {270}{}{Eh bien dites donc, vous devez être très apprécié dans le coin pour que l'on vous confie toutes ces responsabilités !}
 {271}{}{Merci pour tout. Je vais reprendre la route.}
 {272}{}{Non... c'est juste une question de hasard. Un jour, j'étais parti me réapprovisionner et à mon retour, j'ai appris que les habitants m'avaient élu. Il semble que personne ne voulait le faire. Et puis à part une querelle de temps en temps, je n'ai vraiment rien à faire, ce qui me convient tout à fait.}
-{273}{}{Puis-je vous poser d'autres questions ?}
+{273}{}{Puis-je te poser encore quelques questions ?}
 {274}{}{Quoi ?! Vous trouvez ça malin ?! Tout le monde sait que le vieux Cornélius a perdu sa montre en or. Il m'a même envoyé fouiller la maison de son meilleur ami. Si vous voulez éviter les problèmes, restez en dehors de tout ça. Bonjour chez vous !}
 {275}{}{[Il prend le message des Slags.] Qu'est-ce que c'est ? Ca vient des gens qui vivent à la ferme perdue. C'est incroyable, vous avez as lu ça ? Oups... Bien sûr que non. Il reste encore des choses à mettre au clair entre Modoc et les Slags. Mais c'est trop pour qu'un petit cerveau comme le vôtre puisse comprendre. Alors vous cassez pas la tête avec tout ça. Au revoir}
 {276}{}{J.E.K maint'nant !}
@@ -155,13 +154,9 @@
 {329}{}{Karl a disparu de la ferme il y a déjà pas mal de temps. Essayez de découvrir ce qui lui est arrivé.}
 {330}{}{Merci, je vais voir ce que je peux découvrir.}
 {331}{}{Nous n'avons pas besoin d'individus de votre genre ici.}
-
 {400}{}{[Tu le laisses se couper le doigt.] Ok, maintenant je vais vous aider.}
 {410}{}{C'est quoi ce gros bâtiment blanc au milieu de la ville ?}
-
 {500}{}{Oh c'est notre église. Les habitants de Modoc l'ont construite en témoignage de leur foi. Récemment, nous n'avons pas eu beaucoup de raison d'être reconnaissants. Personne ne va plus aux offices.}
-
-# wedding script dialog
 {600}{}{Frères et soeurs, nous sommes réunis ici...}
 {602}{}{[Jo tourne quelques pages de son livre.]}
 {603}{}{Ok... hem... Avant de commencer, y a-t-il quelqu'un dans cette salle qui connaisse un empêchement à la célébration de cette union ?}
@@ -171,17 +166,13 @@
 {607}{}{Donc, conformément à la loi de l'Ouest, je vous déclare unis par les liens du mariage. Vous pouvez embrasser la mariée.}
 {608}{}{Donc, conformément à la loi de l'Ouest, je vous déclare unis par les liens du mariage. Les époux peuvent s'embrasser.}
 {609}{}{Donc, conformément à la loi de l'Ouest, je vous déclare unis par les liens du mariage. Vous pouvez vous embrasser.}
-# Seraph's Code: Cousin Bo
 {612}{}{[Bo tourne quelques pages de son livre.]}
-
 {625}{}{pour époux ?}
 {626}{}{pour épouse ?}
 {627}{}{euh... moitié ? C'est ça, de prendre pour moitié ?}
 {628}{}{moitié ?}
-
 {629}{}{Miria}
 {630}{}{Davin}
-
 {800}{}{On attaquera les Slags dans }
 {801}{}{ jours, à moins que vous ne réussissiez à me convaincre de ne pas le faire.}
 {802}{}{On attaquera les Slags demain, à moins que vous ne réussissiez à me convaincre de ne pas le faire.}
@@ -189,16 +180,10 @@
 {804}{}{Comptez sur moi !}
 {805}{}{J'en ai marre de tout ça. Ne comptez pas sur moi.}
 {806}{}{Alors, à l'attaque ! Les Slags ont prouvé qu'ils n'étaient pas dignes de confiance.}
-
 {820}{}{Que puis-je faire pour vous aider ?}
 {821}{}{Je ne veux pas m'en mêler. J'ai rempli ma part du marché alors maintenant dites-moi où est le J.E.K.}
-
 {850}{}{Je reviendrai une fois que j'aurai appris ce qui est arrivé à Karl.}
-
 {900}{}{Encore merci, mon ami, pour avoir sauvé notre petite ville.}
 {925}{}{De rien. A une prochaine.}
-
 {1000}{}{Tu as sauvé la ville de Modoc.}
-
-# Seraph's Code: Cousin Bo
 {1500}{}{Tu vois l'auxiliaire de justice Bo.}

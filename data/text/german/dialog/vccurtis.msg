@@ -24,7 +24,7 @@
 {123}{}{Dein Metallhund kuckt, als wollte er mich auffressen.}
 {124}{}{Ich habe Mr. Nixon verloren. Ich weiß nicht, wo ich ihn hingetan habe.}
 {125}{}{Das Nicksn?}
-{126}{}{[Verschwinde.]}
+{126}{}{Verzieh dich}
 {127}{}{Isser das? Er hat auch nach dir gesucht.}
 {128}{}{Hier habe ich Mr. Nixon. Aber, weißt du was? Wir sollten Mr. Nixon dafür bestrafen, daß er einfach so abgehauen ist. Man sollte eine rituelle Verstümmelung durchführen, oder so. Also, als erstes reiße ich ihm die Arme raus, dann...}
 {129}{}{Ich auch nicht.}

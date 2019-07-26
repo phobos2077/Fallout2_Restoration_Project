@@ -1,9 +1,8 @@
-{100}{}{You see a guard.}
-
+{100}{}{Du siehst eine Wache.}
 {150}{}{The guard is guarding the old church.}
-{151}{}{[TALK]}
+{151}{}{[GESPRÄCH]}
 {152}{}{How dare you show your face again!}
-{153}{}{[Done]}
+{153}{}{[Fertig]}
 {154}{}{Ho! No one enters the Family Wright warehouse at night!}
 {155}{}{Well, Mr. Wright himself sent me on an errand. If you don’t know about it, too bad.}
 {156}{}{I’ll come back tomorrow.}
@@ -14,10 +13,10 @@
 {161}{}{I left them back with my guard. I’ll go fetch them.}
 {162}{}{You cannot get in without papers.}
 {163}{}{Here’s my authorization! Attack!}
-{164}{}{I’ll come back.}
+{164}{}{I'll come back.}
 {165}{}{[Embarrassed] No...um...alright, just go on in...}
-{166}{}{Thank you.}
-{167}{}{That’s more like it.}
+{166}{}{Danke.}
+{167}{}{Das hört sich schon besser an.}
 {168}{}{What do you people want?}
 {169}{}{We need to go inside.}
 {170}{}{We were sent here by the boss.}
@@ -30,20 +29,18 @@
 {177}{}{Removing your head from your shoulders.}
 {178}{}{Sorry, wrong place.}
 {179}{}{Hello again. You can go on in.}
-{180}{}{Thanks.}
+{180}{}{Danke.}
 {181}{}{Hey, get the hell away from the door!}
 {182}{}{Don't touch the door again unless you want trouble.}
 {183}{}{I see you touch that door again, you're gonna get a bullet in the head.}
-{184}{}{Hey, what do you think you're doing?}
+{184}{}{Hey, was glaubst Du, was Du da machst?}
 {185}{}{I've had enough of you.}
 {186}{}{Sorry; I can let you in, but your friends are gonna have to wait outside.}
 {187}{}{Only one of you are allowed in at a time.}
-
 {200}{}{Good evening.}
 {201}{}{Good afternoon.}
 {202}{}{Good morning.}
 {203}{}{Just finish up your business, thank you.}
-
 {250}{}{You know, pal, I've had enough of your shit!}
 {251}{}{You know, bitch, I've had enough of your shit!}
-{252}{}{[END]}
+{252}{}{[Ende]}

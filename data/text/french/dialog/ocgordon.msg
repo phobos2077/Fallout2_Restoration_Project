@@ -5,14 +5,14 @@
 {104}{}{Otèle ?}
 {105}{}{Moi poser questions ?}
 {106}{}{Euh... Moi pas souvenir. Au revoir.}
-{107}{}{C'est un plaisir de faire ta connaissance Gordon. Je suis } # continued 177
+{107}{}{C'est un plaisir de faire ta connaissance Gordon. Je suis }
 {108}{}{Tu appelles ça un autel ? Celui à qui il est dédié doit se retourner dans sa tombe !}
 {109}{}{Eh bien, excuse-moi de t'avoir dérangé. Je m'en vais.}
 {110}{}{Oui. Un autel est un lieu de vénération généralement dédié à un dieu, un saint ou une autre forme de puissance.}
 {111}{}{Ah. Ok. Moi poser questions ?}
 {112}{}{Ok. Au revoir.}
 {113}{}{Mais certainement, vas-y.}
-{114}{}{Que voudrais-tu savoir ?}
+{114}{}{Que veux-tu savoir ?}
 {115}{}{Pour qui autel ?}
 {116}{}{Longtemps toi être ici ?}
 {117}{}{Grif'morts méchants ?}
@@ -38,8 +38,8 @@
 {137}{}{C'est ta vie que tu gâches, mec !}
 {138}{}{Alors, tu étais déjà là lorsque les Griffemorts ont pris le pouvoir ?}
 {139}{}{Non, je n'étais pas là. Je suis parti il y a quelques mois pour voir la statue de l'Habitant de l'Abri érigée dans la cour centrale de la RNC (la République de Nouvelle Californie, à l'Est d'ici). Lorsque je suis revenu à l'abri, les Griffemorts étaient déjà là. Inutile de dire que ça a été un choc. Mais je suis convaincu qu'ils ne sont pas responsables de ce qui est arrivé à mes concitoyens. Si tu veux d'autres renseignements sur le sujet, tu peux aller voir Goris, à la bibliothèque.}
-{140}{}{Ok, merci.}
-{141}{}{Ok, au revoir.}
+{140}{}{D'accord, merci.}
+{141}{}{D'accord, salut.}
 {142}{}{Je m'en souviendrai.}
 {143}{}{Ce n'est pas à toi de me dire où je dois me rendre et qui je dois rencontrer.}
 {144}{}{Merci de ton aide. J'ai encore des questions à te poser.}
@@ -75,5 +75,4 @@
 {174}{}{Moi venir ici avant ? Pardon. Moi devoir partir.}
 {175}{}{Je voulais encore te parler.}
 {176}{}{Juste dire bonjour.}
-
 {177}{}{. Puis-je te poser quelques questions ?}

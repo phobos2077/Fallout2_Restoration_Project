@@ -1,4 +1,4 @@
-{100}{}{Tu vois un Auto-Doc}
+{100}{}{Tu vois un Auto-Doc.}
 {101}{}{Tu vois un Auto-Doc à l'air antédiluvien. Malgré son âge, tu as réussi à le remettre en état, à force de soins.}
 {102}{}{Tu vois un Auto-Doc.}
 {103}{}{Tu vois un Auto-Doc à l'air antédiluvien. Malgré son âge, tu as réussi à le remettre en état, à force de soins.}

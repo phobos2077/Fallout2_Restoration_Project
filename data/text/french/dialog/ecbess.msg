@@ -1,2 +1,2 @@
-{100}{}{Oh, mon Dieu ! C'est Bess.}
+{100}{}{Bon Dieu, c'est Bess !}
 {101}{}{Cette Brahmine me rappelle vaguement quelque chose...}

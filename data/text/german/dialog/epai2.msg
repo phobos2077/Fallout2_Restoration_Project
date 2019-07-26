@@ -1,7 +1,7 @@
 {100}{}{Willkommen am EPA-Roboterkontrollcomputer. Was möchten Sie tun?}
 {101}{}{Roboter befehligen.}
 {102}{}{Diagnoseprüfung durchlaufen.}
-{103}{}{[Beenden.]}
+{103}{}{[Geh]}
 {104}{}{!FEHLFUNKTION! !FEHLFUNKTION! FEHLER ENTDECKT   SEQUENZ ABGEBROCHEN!}
 {105}{}{Zurück zum Hauptmenü}
 {106}{}{Diagnoseprüfung... Schaltkreisfehler....Sektion Vier... unterbrochene Leitungen.}
@@ -13,3 +13,4 @@
 {112}{}{PIEP!}
 {113}{}{BOOP!}
 {114}{}{Bzzzt..}
+{115}{}{You already repaired it.}

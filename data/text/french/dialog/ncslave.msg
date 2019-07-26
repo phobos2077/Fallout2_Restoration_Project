@@ -1,10 +1,6 @@
-# QUICK LOOk
 {100}{}{Tu vois un esclave à l'air maladif.}
 {101}{}{Tu vois un esclave intoxiqué.}
 {102}{}{Tu vois un esclave.}
-
-# EXAMINES
-# 1. [SICKLY MALE SLAVE]
 {150}{}{Tu vois un homme à l'air agité. Ses yeux bougent dans tous les sens, comme s'il suivait le vol d'un insecte invisible.}
 {151}{}{Tu vois un esclave à l'air maladif. Il a l'air terriblement effrayé et son regard ne semble pas pouvoir se poser sur toi.}
 {152}{}{Tu vois un esclave à l'air maladif. Ses vêtements sont en lambeaux et sa peau est toute flasque.}
@@ -12,7 +8,6 @@
 {154}{}{Tu vois un esclave à l'air maladif. Il dégage une odeur d'urine et de fèces séchés.}
 {155}{}{Tu vois un esclave à l'air maladif. Il n'a plus de dents et ses yeux sont injectés de sang.}
 {156}{}{Tu vois un esclave à l'air maladif. Son visage et son cou sont couverts de boutons et il se gratte de temps à autre.}
-# 2. [SICKLY FEMALE SLAVE]
 {160}{}{Tu vois une femme à l'air agité. Elle fixe le sol avec une vive attention, comme si elle avait peur de lever la tête.}
 {161}{}{Tu vois une esclave à l'air maladif. Elle a l'air terriblement effrayée et son regard semble ne pas pouvoir se poser sur toi.}
 {162}{}{Tu vois une esclave à l'air maladif. Elle ne semble pas remarquer les mouches qui se posent sur son visage et ses bras.}
@@ -21,45 +16,34 @@
 {165}{}{Tu vois une esclave à l'air maladif. Elle dégage une odeur d'urine et de fèces séchés.}
 {166}{}{Tu vois une esclave à l'air maladif. Elle gratte les boutons qui recouvrent son visage et son cou.}
 {167}{}{Tu vois une esclave à l'air maladif. Elle semble vouloir pleurer, mais aucune larme ne peut couler.}
-# 3. [MALE SLAVE, DRUGGED]
 {170}{}{Tu vois un homme à l'air apathique. Il regarde droit devant lui, l'air absent.}
 {171}{}{Tu vois un esclave intoxiqué. Ses yeux bougent dans tous les sens, sans jamais se poser.}
 {172}{}{Tu vois un esclave intoxiqué. Lorsque tu le regardes, il mord son avant-bras et détache la peau avec ses dents, puis la mâche lentement.}
 {173}{}{Tu vois un esclave intoxiqué. Il sourit vaguement, mais son regard est vitreux et vide.}
 {174}{}{Tu vois un esclave intoxiqué. Il regarde vaguement en l'air. De la bave sort de sa bouche.}
 {175}{}{Tu vois un esclave intoxiqué. Au moment où il te voit, il tressaille et sourit péniblement, comme s'il était ébloui.}
-4. [DRUGGED FEMALE SLAVE]
 {180}{}{Tu vois une femme tremblante. Elle fixe le sol, comme si elle avait peur qu'il disparaisse si elle arrêtait de le regarder.}
 {181}{}{Tu vois une esclave intoxiquée. Elle ricane toute seule et il y a des traces de sang aux coins de sa bouche.}
 {182}{}{Tu vois une esclave intoxiquée. Ses bras sont couverts de marques, ainsi que de bleus et de traces de fouet.}
 {183}{}{Tu vois une esclave intoxiquée. Elle cligne rapidement des yeux, comme s'ils étaient secs.}
 {184}{}{Tu vois une esclave intoxiquée. Elle se gratte le dos des mains, au point qu'elle s'arrache la peau.}
 {185}{}{Tu vois une esclave intoxiquée. Sa chemise est couverte de taches de vomi et elle dégage une légère odeur de térébenthine.}
-# 5. [MALE SLAVE, BEATEN]
 {190}{}{Tu vois un homme mince. Son corps est couvert de marques de coups de fouet et il fixe humblement le sol, comme s'il attendait des ordres.}
 {191}{}{Tu vois un esclave battu.}
 {192}{}{Tu vois un esclave mince. Son corps est couvert de marques de fouet et il fixe humblement le sol, comme s'il attendait des ordres.}
-# 6. [DRUGGED FEMALE SLAVE]
 {195}{}{Tu vois une femme tremblante. Son corps est couvert de marques de fouet et ses vêtements sont en lambeaux.}
 {196}{}{Tu vois une esclave.}
 {197}{}{Tu vois une esclave. Elle tremble légèrement et son corps est couvert de marques de fouet.}
-
-# FLOAT:
-# 7. [SICKLY SLAVE]
 {200}{}{<Snnnffff>}
 {201}{}{<Huhhhhk>}
 {202}{}{::Tousse::}
 {203}{}{::Se gratte::}
 {204}{}{::Fait fuir les mouches::}
-# 8. [DRUGGED SLAVE]
 {210}{}{<Snnnffff>}
 {211}{}{::Ricane::}
 {212}{}{<Heeeeeeee>}
-{213}{}{<Héé hééééé héé... héé...>}
-{214}{}{<AaaaaAAAAaaaaAAAA>}
-
-# CLICK:
-# 9. [SICKLY SLAVE]
+{213}{}{<Hee heeeee hee... hee...>}
+{214}{}{<EeeeEEEEeeeeEEEE>}
 {220}{}{::Te regarde avec des yeux vides::}
 {221}{}{::Pleure silencieusement::}
 {222}{}{::Te regarde avec des yeux vides::}
@@ -70,7 +54,6 @@
 {227}{}{::Se mouche::}
 {228}{}{<Hunnnnnh>}
 {229}{}{<Rrrurrr... rr...> ::Tousse::}
-# 10. [DRUGGED SLAVE]
 {240}{}{::Se frotte les yeux::}
 {241}{}{::Renifle comme un porc::}
 {242}{}{::Se gratte la tête puis se frotte les yeux::}
@@ -84,19 +67,17 @@
 {250}{}{<Meeeeeeuuuuuuuuuuh>}
 {251}{}{<Héé hééééé héé... héé...>}
 {252}{}{<AaaaaAAAAaaaaAAAA>}
-# 11. [BEATEN SLAVE vs. SLAVER]
 {260}{}{Oui j'appartiens déjà à quelqu'un. Mon maître a tous les papiers.}
 {261}{}{Laisse-moi tranquille. J'appartiens déjà à quelqu'un.}
 {262}{}{Je t'en supplie, as-tu vu deux enfants, bruns... ? Les esclavagistes les ont pris il y a deux ans et les ont vendus au Nord.}
 {263}{}{S'il te plaît... Je ne suis pas autorisé à parler avec toi.}
-{264}{}{Laisse-moi tranquille. Mon maître ne va pas tarder à revenir.}
+{264}{}{Please... let me be. My master will be back soon.}
 {265}{}{Si mon maître me prend en train de parler avec toi, il va me frapper.}
 {266}{}{J'ai déjà un maître. Elle ne sera pas contente si tu continues à me parler.}
-{267}{}{Je ne peux pas te parler, j'ai des choses à faire.}
+{267}{}{Je ne peux pas vous parler, j'ai un devoir à accomplir.}
 {268}{}{Si on me prend en train de parler avec un esclavagiste, il vont tester des drogues sur moi.}
-{269}{}{S'il te plaît, va-t'en, l'esclavagiste. Je ne veux pas d'ennuis.}
+{269}{}{Va-t'en. Je ne veux pas avoir de problèmes.}
 {270}{}{S'échapper ? Je... n'ai jamais essayé. Je ne devrais pas désobéir à mon maître.}
-# 12. [BEATEN AND/OR GENERIC SLAVE]
 {280}{}{S'ils me voient en train de te parler, il vont tester des stimulants sur moi.}
 {281}{}{Avant, je travaillais avec cet autre esclave, mais il est mort d'overdose, il y a quelques jours.}
 {282}{}{Ils testent des drogues sur nous. Certaines sont empoisonnées.}
@@ -107,9 +88,9 @@
 {287}{}{Si mon maître me prend en train de parler avec toi, il va me frapper.}
 {288}{}{Mon maître est bon. Il ne me frappe pas trop souvent.}
 {289}{}{Ma famille ne me manque pas. Mon maître est gentil.}
-{290}{}{J'ai été enlevé du village tribal au Nord. La vie est tellement... meilleure ici.}
+{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
 {291}{}{J'ai été capturé à La Fosse.}
-{292}{}{Je ne peux pas te parler. J'ai du travail à faire.}
+{292}{}{Je ne peux pas te parler, j'ai du travail.}
 {293}{}{Je dois finir mon travail avant que le maître ne revienne.}
 {294}{}{Je n'ai pas le droit de te parler.}
 {295}{}{S'il te plaît. Va-t-en. Je t'en prie. Je vais finir par avoir des ennuis.}
@@ -125,8 +106,8 @@
 {305}{}{::Se retourne, effrayé::}
 {306}{}{::T'ignore, effrayé::}
 {307}{}{Une fois que tu as appris quels étaient les besoins de ton maître, les coups deviennent moins... fréquents.}
-{308}{}{J'ai été capturé par des esclavagistes il y a longtemps. Je m'en souviens à peine.}
+{308}{}{Il y a longtemps, j'ai été capturé par des esclavagistes. Je m'en rappelle à peine.}
 {309}{}{J'avais deux enfants, mais ils ont été envoyés au Nord. J'espère qu'ils finiront dans un meilleur endroit qu'ici.}
-{310}{}{Je suis désolé mais je n'ai pas le temps de bavarder.}
+{310}{}{Je regrette mais je n'ai pas le temps de discuter.}
 {311}{}{Mon maître est en colère contre moi. Il dit qu'il va me vendre aux Etables, si je le contrarie encore.}
 {312}{}{Les esclaves fugitifs meurent à Golgotha ou sont envoyés aux Etables pour subir des expériences.}

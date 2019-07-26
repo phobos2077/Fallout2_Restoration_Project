@@ -47,7 +47,6 @@
 {146}{}{[Continuer]}
 {147}{}{Oh rien. J'ai mal compris. Tu as dit 13, hein ? Je ne sais rien là-dessus.}
 {148}{}{[Continuer]}
-
 {149}{}{Moi régler problème. Tuer méchant. Vouloir argent.}
 {150}{}{Dis-lui que j'ai réglé son problème avec les squatteurs.}
 {151}{}{Darion est mort ? Oh, pardon. Vas-y, entre.}
@@ -55,8 +54,6 @@
 {153}{}{Non.}
 {154}{}{Ouais, il y a autre chose... A propos d'un espion.}
 {155}{}{Quel soulag... je veux dire... j'suis content que ce soit terminé ! Vas-y, entre.}
-
-#messages for when the player is tampering with somthing he shouldn't
 {500}{}{Je regrette, mais tu ne peux pas entrer sans permission.}
 {501}{}{Je dois te demander de ne pas y toucher sans permission.}
 {502}{}{C'est ton dernier avertissement ! Après on s'occupe de toi.}

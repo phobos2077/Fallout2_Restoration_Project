@@ -1,16 +1,9 @@
-# LOOKS
 {100}{}{Du siehst eine die Jet nimmt.}
-
 {110}{}{Du siehst eine Jet-Prostituierte.}
 {111}{}{Du siehst eine von Tubbys Jet-Prostituierten.}
-
-# EXAMINES
 {150}{}{Sie scheint eine Freundin von Tubby zu sein.}
-
 {160}{}{Sieht aus, als wär sie völlig zu.}
 {161}{}{Sieht aus, als sie schon länger ohne Jet.}
-
-# 1. CF: Tubby's Dead
 {200}{}{Oh Mann, wo kriegen wir jetzt unser Jet her?}
 {201}{}{Warum hast du Tubby umgebracht?}
 {202}{}{Oh Mann, das ist beschissen.}
@@ -18,8 +11,6 @@
 {204}{}{Oh, Mann.}
 {205}{}{Hey, das ist nicht fair.}
 {206}{}{Tu uns nicht weh, wir werden nichts verraten.}
-
-# 2. CF: Standard
 {220}{}{Boa, du siehst ganz schön mies aus.}
 {221}{}{Hat dir schon mal jemand gesagt, das du ein ganz netter Kerl bist?}
 {222}{}{Hat dir schon mal jemand gesagt, das du ein ganz nettes Mädel bist?}
@@ -40,37 +31,28 @@
 {237}{}{Hey, haste gehört? Metzger ist tot oder sowas.}
 {238}{}{Wow, irgend jemand hat Metzger den Schlächter zu Hackfleisch verarbeitet.}
 {239}{}{Ich hoffe Tubby bleibt im Geschäft, wenn Metz weg ist. }
-
-# 3. BGF: Tubby Dead (From Where to go)
 {250}{}{Wow, Mann. Er hat Tubby getötet.}
 {251}{}{Ich glaube, mein Jet ist schlecht geworden.}
 {252}{}{Uoh, was ist los?}
 {253}{}{Was hat der ganze Krach zu bedeuten?}
 {254}{}{Mann, das war mieses Jet.}
 {255}{}{Wow, Mann. Sie hat Tubby getötet.}
-
-# 4. BGF: Standard
 {260}{}{Uuuuuhhyaaa... Gutes Zeug.}
 {261}{}{Was ist das?}
 {262}{}{Oh, ja. Ich fliege.}
 {263}{}{Oh, es ist so warm.}
 {264}{}{Sie ist so schön.}
 {265}{}{Oh, Blackout. Mist, ich kann nichts sehen.}
-
-# 5. Conversation
-# CONVERSATION 1
 {270}{}{Wow, siehst du das?}
 {271}{}{Ja, weißt du was es war?}
 {272}{}{Ich denke, es war ein Vogel.}
 {273}{}{Nein, ein Hund.}
-{274}{}{Aber es war ein fliegender Mann.}
+{274}{}{But it was flying, man.}
 {275}{}{Niemals, es rauschte über den Boden.}
 {276}{}{Eh, du bildest dir Sachen ein. }
 {277}{}{Och Komm. Das war Wirklichkeit.}
-{278}{}{Jaja.}
+{278}{}{Wie du willst.}
 {279}{}{Ohhhh es geht noch mal los. Ahh.}
-
-# CONVERSATION 2
 {290}{}{Schöne Lichter.}
 {291}{}{Viele Lichter.}
 {292}{}{Sie sind so warm.}
@@ -94,8 +76,6 @@
 {310}{}{Kartoffeln sind nicht grün.}
 {311}{}{Ohhhh, die schönen Lichter.}
 {312}{}{Oh, mein Kopf tut weh...}
-
-# 6. CF: Hostile
 {320}{}{Red bloß nicht mit mir, Mensch, mein Kopf tut weh.}
 {321}{}{Ich erzähl es niemandem.}
 {322}{}{Tu mir nicht weh.}
@@ -104,16 +84,11 @@
 {325}{}{Ich hab nichts gehört.}
 {326}{}{Bitte geh einfach nur.}
 {327}{}{Ich kann jetzt nicht sprechen, Mädel. Die verdammten Kopfschmerzen bringen mich um.}
-
-# 7. BGF: Hostile
 {340}{}{Oh Mann, du bist ätzend.}
 {341}{}{Warum mußtest du gehen und einen perfekten Rausch zerstören?}
 {342}{}{Mann, das tut weh.}
 {343}{}{Was zum Henker.}
 {344}{}{Wie soll das denn vor sich gehen?}
-
-# CRACH WHORES
-#8. Click Floats
 {400}{}{Tubby ist so wunderbar.}
 {401}{}{Jet macht mich so scharf.}
 {402}{}{Tubby weiß, wie er sich um seine Frauen kümmern muß.}
@@ -123,12 +98,10 @@
 {406}{}{Prickelt deine Haut nicht auch davon?}
 {407}{}{Tubby hat die beste Ware in der Stadt.}
 {408}{}{Ich fühl mich so lebendig!}
-
-{420}{}{Hast du eine Ladung knallen hören?}
+{420}{}{Did you hear a loud bang?}
 {421}{}{Hab Tubby schon seit einer Weile nicht mehr gesehen.}
 {422}{}{Wo ist Tubby?}
 {423}{}{Tubby gesehen?}
-
 {440}{}{Oh, mein Kopf!}
 {441}{}{Wo ist Tubby! Ich glaub, ich sterbe!}
 {442}{}{Ich halte das nicht länger aus.}
@@ -136,11 +109,9 @@
 {444}{}{Tubby hat uns seit einiger Zeit nichts gegeben. Wo ist er?}
 {445}{}{Meine Lippen sind taub.}
 {446}{}{Ich kann meine Finger nicht mehr spüren.}
-
-#9. Hostile
 {460}{}{Tu mir nicht weh!}
 {461}{}{Bitte nicht!}
 {462}{}{Ich hab's nicht genommen!}
 {463}{}{Ich war's nicht!}
-{464}{}{Laß mich zufrieden!}
+{464}{}{Laß mich in Ruh!}
 {465}{}{Ich wußte nicht, daß es deins war.}

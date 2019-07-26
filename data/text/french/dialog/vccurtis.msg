@@ -24,7 +24,7 @@
 {123}{}{On dirait que ton toutou en ferraille veut me bouffer.}
 {124}{}{J'ai perdu M.Nixon. Je ne sais pas où je l'ai laissé.}
 {125}{}{Zésa, Nixxson ?}
-{126}{}{Dégage.}
+{126}{}{Dégage !}
 {127}{}{C'est lui ? Lui aussi, il te cherchait.}
 {128}{}{J'ai M.Nixon ici avec moi. Mais tu sais quoi ? Je crois que M.Nixon devrait être puni parce qu'il est parti tout seul. Un petit démembrement rituel me semble tout indiqué. Alors, je vais déjà lui arracher les pattes, puis...}
 {129}{}{Moi non plus.}

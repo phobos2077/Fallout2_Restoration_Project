@@ -10,8 +10,6 @@
 {109}{}{Biorisikoversiegelung Ebene 1 gefährdet.}
 {110}{}{Ebene 1 Abschottung durchbrochen.}
 {111}{}{Ebene 1 Kontaminiert.}
-
-# X minutes and Y seconds to evacuate.
 {112}{}{ Minuten und }
 {113}{}{ Sekunden zum Evakuieren.}
 {114}{}{ Minute und }

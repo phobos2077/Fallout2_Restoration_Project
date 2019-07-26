@@ -1,3 +1,1 @@
-{100}{}{Du hast den K9-Motivator erhalten.}
-
-
+{100}{}{Du hast dir den K-9-Motivator geholt.}

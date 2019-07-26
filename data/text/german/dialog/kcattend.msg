@@ -5,7 +5,6 @@
 {104}{}{Du siehst eine Frau, die dich eingehend mustert.}
 {105}{}{Diese Frau zieht dich mit den Augen aus.}
 {106}{}{Du siehst eine junge Frau.}
-
 {110}{}{Das ging schnell.}
 {111}{}{Lange her, was, Süßer?}
 {112}{}{Vielleicht dauert's beim nächsten Mal länger.}
@@ -14,7 +13,6 @@
 {115}{}{Wenn alle meine Kunden so schnell wären, könnte ich früh nach Hause gehen.}
 {116}{}{Es macht mehr Spaß, wenn du wartest, bis ich dir helfe.}
 {117}{}{Es würde dir sicher besser gefallen, wenn du warten würdest, bis ich mich ausgezogen habe.}
-
 {120}{}{Das war richtig gut. Du bist wirklich ein echter Mann.}
 {121}{}{Das war wirklich was Besonderes. Du bist wunderbar. Der Nächste!}
 {122}{}{Oh yeah, Baby, so hatt ich's noch nie. (Gähn)}
@@ -23,21 +21,18 @@
 {125}{}{Nein, Süßer, die Größe spielt überhaupt keine Rolle. Das war schön.}
 {126}{}{Was bist du doch für ein Mann!}
 {127}{}{Was für einen süßen kleinen Kerl du da hast.}
-
 {130}{}{Die Größe ist alles! Süßes Geheimnis des Lebens.... }
 {131}{}{Wenn du das nächste Mal vorbeischaust, mach ich freiwillig Überstunden.}
 {132}{}{Du kriegst wirklich was für dein Geld.}
 {133}{}{Ich nehm den Rest des Tages frei.}
 {134}{}{Wow! War es für dich auch so unglaublich einmalig?}
 {135}{}{Jetzt weiß ich, wie Katharina die Große sich gefühlt hat.}
-
 {140}{}{Tja, manche Dinge ändern sich nie.}
 {141}{}{Äh, das war irgendwie anders.}
 {142}{}{Das war wirklich was Besonderes. Der Nächste!}
 {143}{}{Nein, du darfst mein Parfüm nicht benutzen.}
 {144}{}{Naja, wenigstens ist dein Bart kleiner als bei meinen meisten Kunden.}
 {145}{}{Du bist sicher, daß du ein Mädchen bist?}
-
 {150}{}{Das war irgendwie ganz gut.}
 {151}{}{Das war anders, aber nicht schlecht anders.}
 {152}{}{Ich glaub, das möchte ich irgendwann noch mal probieren.}
@@ -45,7 +40,6 @@
 {154}{}{Das war süß, Liebling.}
 {155}{}{Wow! Mein Leben wird sich von jetzt an ziemlich ändern.}
 {156}{}{Ich wußte nicht, daß es so sein kann.}
-
 {160}{}{Du solltest mit der dicken Nase Sally reden.}
 {161}{}{Ach, was bist du süß.}
 {162}{}{Ich werd dich so schnell nicht vergessen!}

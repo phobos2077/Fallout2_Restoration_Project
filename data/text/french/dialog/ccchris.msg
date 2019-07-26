@@ -5,7 +5,7 @@
 {104}{}{Salut. C'est la première fois que je te vois par ici. Que peut faire l'vieux Chris pour toi ?}
 {105}{}{Quoi être ici ?}
 {106}{}{Moi chercher Navarro. Ca être ici ?}
-{107}{}{Toi voir oiseaux de métal voler par ici ?}
+{107}{}{Toi voir oiseaux métalliques voler par ici ?}
 {108}{}{Toi entendre parler d'Enclave ? Eux ici ?}
 {109}{}{Moi juste regarder.}
 {110}{}{Où suis-je ici ?}
@@ -36,11 +36,11 @@
 {135}{}{Moi te tuer !}
 {136}{}{Toi quoi faire ?}
 {137}{}{Moi partir.}
-{138}{}{Je ferais pas ça à ta place.}
-{139}{}{Mais qu'est-ce que tu fous ?}
+{138}{}{Je ferais pas ça à ta place !}
+{139}{}{Non mais tu t'crois où ?}
 {140}{}{J'me casse.}
 {141}{}{(Il parle à la radio.) Alerte un intrus à la station service ! Alerte !!}
-{142}{}{Terminé.}
+{142}{}{[Terminé]}
 {143}{}{Bon, content d'avoir fait ta connaissance. Mais écoute mes conseils : y a rien par ici sauf du désert et des radiations. La civilisation se trouve au Sud d'ici. J'irais dans cette direction si j'étais toi.}
 {144}{}{Merci.}
 {145}{}{Des oiseaux métalliques ? Oh, tu veux sûrement parler des hélicos. Pourquoi tu demandes ça ?}
@@ -100,7 +100,7 @@
 {199}{}{Attends, débile, tu veux dire que tu fais partie des remplaçants de l'Enclave ?}
 {200}{}{Attends, t'es en train d'me dire que tu fais partie des remplaçants de l'Enclave ?}
 {201}{}{Heu... ouais.}
-{202}{}{C'est ça.}
+{202}{}{C'est exact.}
 {203}{}{Ooh. Désolé. On m'a demandé de laisser passer tout un groupe de nouveaux arrivants par ici et de chasser les emmerdeurs. Bon, va jusqu'au portail, c'est à travers les bois là-bas et donne le mot de passe. C'est "tête de mouton". Ah, et surtout reste bien sur le sentier !}
 {204}{}{Merci !}
 {205}{}{Attends une minute, débile. Tu veux dire que tu fais partie des remplaçants de l'Enclave ? Si c'est vrai, pourquoi t'es avec des gens ?}
@@ -108,7 +108,7 @@
 {207}{}{Heu... escorte ?}
 {208}{}{J'ai engagé une escorte !}
 {209}{}{Bon, j'veux pas être grossier, mais ici, c'est une propriété privée. Si t'as l'intention de fouiner, fais-le ailleurs que chez moi !}
-{210}{}{Terminé.}
+{210}{}{[Terminé]}
 {211}{}{Encore toi ! Que peut faire l'vieux Chris pour toi ?}
 {212}{}{Toi dire que Navarro au Sud. Toi mentir ! Moi ici pour savoir vérité.}
 {213}{}{Tu m'as dit que Navarro était au Sud, mon vieux. Bon, maintenant, je veux la vérité !}
@@ -127,11 +127,10 @@
 {226}{}{Toi quoi faire ?}
 {227}{}{Moi partir.}
 {228}{}{Je ferais pas ça à ta place !}
-{229}{}{Mais que fais-tu ?!}
+{229}{}{Non mais tu t'crois où ?}
 {230}{}{J'me casse.}
-{231}{}{Ouais, ouais.}
+{231}{}{Ouais, d'accord.}
 {232}{}{Il sort une radio. Il va alerter toute la base !! Je dois me débarrasser de lui rapidement.}
 {233}{}{Oh, non. Le monsieur a sorti une boite qui parle. Lui grosse balance. Moi arrêter lui.}
-
 {800}{}{Tu as dupé Chris pour avoir le mot de passe.}
 {810}{}{Tu as tué Chris avant qu'il ne puisse prévenir la base.}

@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kcitizen.msg                               #
-#                                                           #
-#       Body Type:  NAROBE                                  #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Du siehst einen der Bürger von Klamath.}
 {101}{}{Du siehst einen der Bürger von Klamath.}
-
-#############################################################
-#  The following lines are floaters for citizens            #
-#############################################################
-
 {150}{}{Warum gehst du nicht zurück zu deinem Stamm?}
 {151}{}{Ich gebe dir ein paar schöne Glasperlen, wenn du mich in Ruhe läßt.}
 {152}{}{Guter Wilder, braver Wilder, tu mir nicht weh.}
@@ -37,7 +12,6 @@
 {159}{}{Wir brauchen niemanden, der hier Unruhe stiftet.}
 {160}{}{Du mußt von Den in den Norden gekommen sein.}
 {161}{}{Das letzte, was wir brauchen, sind mehr von deiner Sorte.}
-
 {170}{}{Hey, Fremder.}
 {171}{}{Ich hoffe wirklich, daß das eine erfolgreiche Saison fürs Fallenstellen wird.}
 {172}{}{In letzter Zeit sind viele Brahmin verschwunden.}
@@ -57,8 +31,7 @@
 {186}{}{Kein Ausruhen für die Armen.}
 {187}{}{Meine Glieder schmerzen, das Wetter muß sich ändern.}
 {188}{}{Es wird etwas windiger.}
-
-{190}{}{Schön, dich zu sehen.}
+{190}{}{Schön dich zu sehen.}
 {191}{}{Mehr von deiner Sorte zu Hause?}
 {192}{}{Ich hoffe, dir gefällt's in Klamath.}
 {193}{}{Wir könnten ein paar mehr Leute deines Kalibers gebrauchen.}
@@ -70,26 +43,21 @@
 {199}{}{Nimm dich in acht vor Geckos, die ihre Farbe geändert haben.}
 {200}{}{Hallo, Reisender.}
 {201}{}{Freut mich, daß du hier in Klamath bist.}
-{202}{}{Wie geht's, Fremder.}
+{202}{}{Hallöchen, Fremder.}
 {203}{}{Nimm dich in acht vor den Duntons, sie sind gefährlich.}
 {204}{}{In der Trapperstadt gibt es wirklich ziemlich viele Ratten.}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Älteste}
 {1001}{}{Gründer}
 {1002}{}{Vaultbewohner}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Das Auserwählte Wesen}
+{1006}{}{Auserwähltes Wesen}
 {1007}{}{Schamane}
 {1008}{}{Hakunin}
 {1009}{}{Heilpulver}
 {1010}{}{Brücke}
 {1011}{}{Mynoc}
-
 {1100}{}{Die Älteste ist unsere Mutter und unsere Führerin.}
 {1101}{}{Unsere große Ahne, der wir unser Wissen zu verdanken haben.}
 {1102}{}{Die erste, der gegen das Chaos gekämpft und gesiegt hat.}

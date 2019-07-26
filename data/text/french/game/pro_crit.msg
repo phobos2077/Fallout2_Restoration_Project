@@ -2,15 +2,15 @@
 {101}{}{}
 {200}{}{Héroïne}
 {201}{}{}
-{300}{}{Villageois}
+{300}{}{Villageoise}
 {400}{}{Villageoise}
 {500}{}{Radscorpion}
 {501}{}{Un petit radscorpion.}
 {600}{}{Radscorpion}
 {601}{}{Un radscorpion.}
-{700}{}{Griffemort}
+{700}{}{ Griffemort}
 {701}{}{Un Griffemort immature.}
-{800}{}{Griffemort}
+{800}{}{ Griffemort}
 {801}{}{Un Griffemort immature.}
 {900}{}{Chien}
 {901}{}{Un chien, probablement un croisement.}
@@ -18,82 +18,82 @@
 {1001}{}{Une vache mutante à deux têtes.}
 {1100}{}{Rat}
 {1101}{}{Un gros rat à la taille particulière.}
-{1200}{}{Mante}
+{1200}{}{La Mante}
 {1201}{}{Une mante mutante.}
-{1300}{}{Doyenne}
+{1300}{}{La doyenne}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Plante à spores}
 {1601}{}{Une plante carnivore.}
 {1700}{}{Belle esclave}
 {1800}{}{Bel esclave}
-{1900}{}{Esclave saine}
+{1900}{}{Esclave sain}
 {2000}{}{Esclave sain}
 {2100}{}{Esclave robuste}
 {2200}{}{Esclave robuste}
 {2300}{}{Esclave de combat}
 {2400}{}{Esclave de combat}
-{2500}{}{Esclave intelligente}
+{2500}{}{Esclave intelligent}
 {2600}{}{Esclave intelligent}
 {2700}{}{Esclave générique}
 {2800}{}{Esclave générique}
 {2900}{}{Anna}
-{3000}{}{Voyou endurci}
+{3000}{}{Criminelle endurcie}
 {3100}{}{Criminelle endurcie}
-{3200}{}{Voyou de rixe}
+{3200}{}{Criminelle de rixe}
 {3300}{}{Criminelle de rixe}
-{3400}{}{Voyou agile}
+{3400}{}{Criminelle agile}
 {3500}{}{Criminelle agile}
-{3600}{}{Voyou armé}
+{3600}{}{Criminelle armée}
 {3700}{}{Criminelle armée}
-{3800}{}{Voyou armé lourdement}
+{3800}{}{Criminelle armée lourdement}
 {3900}{}{Criminelle armée lourdement}
-{4000}{}{Garde brutal}
+{4000}{}{Garde brutale}
 {4100}{}{Garde brutale}
 {4200}{}{Garde de rixe}
 {4300}{}{Garde de rixe}
 {4400}{}{Garde agile}
 {4500}{}{Garde agile}
-{4600}{}{Garde armé}
+{4600}{}{Garde armée}
 {4700}{}{Garde armée}
-{4800}{}{Garde armé lourdement}
+{4800}{}{Garde armée lourdement}
 {4900}{}{Garde armée lourdement}
 {5000}{}{Orphelin}
 {5100}{}{Orpheline}
 {5200}{}{Garçon}
 {5300}{}{Fille}
-{5400}{}{Pauv'type}
+{5400}{}{Pauv'fille}
 {5500}{}{Pauv'fille}
-{5600}{}{Mauvais marchand}
+{5600}{}{Mauvaise marchande}
 {5700}{}{Mauvaise marchande}
-{5800}{}{Marchand moyen}
+{5800}{}{Marchande moyenne}
 {5900}{}{Marchande moyenne}
-{6000}{}{Maître marchand}
+{6000}{}{Marchande endurcie}
 {6100}{}{Marchande endurcie}
 {6200}{}{Vic}
-{6300}{}{Paysan faible}
+{6300}{}{Paysanne faible}
 {6400}{}{Paysanne faible}
-{6500}{}{Paysan moyen}
+{6500}{}{Paysanne moyenne}
 {6600}{}{Paysanne moyenne}
-{6700}{}{Paysan fort}
+{6700}{}{Paysanne forte}
 {6800}{}{Paysanne forte}
 {6900}{}{Garde de rixe faible}
 {7000}{}{Garde de rixe faible}
-{7100}{}{Garde armé faible}
+{7100}{}{Garde armée faible}
 {7200}{}{Garde armée faible}
 {7300}{}{Robot de réparation}
 {7400}{}{Robot de réparation Modèle II}
 {7500}{}{Robo-cerveau}
 {7600}{}{Robot à oeil flottant}
 {7700}{}{Robot sentinelle}
-{7800}{}{Robot sentinelle Modèle II}
+{7800}{}{Securitron Mark II}
 {7900}{}{Robo-cerveau}
 {8000}{}{Petit gecko}
 {8100}{}{P'tit gecko brutal}
 {8200}{}{Chien sauvage}
-{8201}{}{Un chien bâtard retourné à l'état sauvage.}
+{8201}{}{Chien bâtard errant.}
 {8300}{}{Gecko doré}
-{8400}{}{Griffemort}
+{8400}{}{ Griffemort}
 {8500}{}{Oeufs de Griffemort}
 {8600}{}{Gecko doré brutal}
 {8700}{}{Lynette}
@@ -135,7 +135,7 @@
 {11900}{}{Super Mutant}
 {12000}{}{Mutant puissant}
 {12100}{}{Melchior}
-{12200}{}{Héros androïde (ne pas utiliser)}
+{12200}{}{Héroïne androïde (ne pas utiliser)}
 {12300}{}{Héroïne androïde (ne pas utiliser)}
 {12400}{}{Héro (ne pas utiliser)}
 {12500}{}{Héroïne (ne pas utiliser)}
@@ -155,7 +155,7 @@
 {13900}{}{Garde de RNC de rixe}
 {14000}{}{Garde Esclavagiste}
 {14100}{}{Dirigeant Esclavagiste}
-{14200}{}{Grand Maître marchand}
+{14200}{}{Grande Maîtresse marchande}
 {14300}{}{Grande Maîtresse marchande}
 {14400}{}{Tandi}
 {14500}{}{Merc}
@@ -181,7 +181,7 @@
 {16500}{}{Laddie}
 {16600}{}{Rondo}
 {16700}{}{Garçon de ferme}
-{16800}{}{Fille de ferme}
+{16800}{}{Garçon de ferme}
 {16900}{}{Garçon de ferme}
 {17000}{}{Videur}
 {17100}{}{Videur}
@@ -197,7 +197,7 @@
 {18100}{}{Chef des Chasseurs de primes}
 {18200}{}{Chasseur de prime}
 {18300}{}{Chef des Chasseurs de primes}
-{18400}{}{Chasseur de primes}
+{18400}{}{Chasseur de primes }
 {18500}{}{Chasseur de primes }
 {18600}{}{Chef des Chasseurs de primes}
 {18700}{}{Chasseur de primes}
@@ -211,10 +211,10 @@
 {19400}{}{Phil}
 {19500}{}{Poulet}
 {19600}{}{Karl}
-{19700}{}{Jonny}
+{19700}{}{Jonny.}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Boucher}
+{20000}{}{Le Boucher}
 {20100}{}{Petey}
 {20200}{}{Chasseur primitif}
 {20300}{}{Chasseur primitif}
@@ -228,9 +228,9 @@
 {21100}{}{Nomade}
 {21200}{}{Bandit}
 {21300}{}{Bandit}
-{21400}{}{Fermier}
+{21400}{}{Fermière}
 {21500}{}{Fermière}
-{21600}{}{Mante}
+{21600}{}{La Mante}
 {21700}{}{Esclavagiste}
 {21800}{}{Esclavagiste}
 {21900}{}{Brahmine sauvage}
@@ -250,7 +250,7 @@
 {23300}{}{Sauvage}
 {23400}{}{Contrebandier}
 {23500}{}{Contrebandier}
-{23600}{}{Prospecteur}
+{23600}{}{Prospectrice}
 {23700}{}{Prospectrice}
 {23800}{}{Pillard}
 {23900}{}{Pillard}
@@ -266,7 +266,7 @@
 {24900}{}{Centaure féroce}
 {25000}{}{Patrouille de l'Enclave}
 {25100}{}{Patrouille de l'Enclave}
-{25200}{}{Racoleurs}
+{25200}{}{Racoleuses}
 {25300}{}{Racoleuses}
 {25400}{}{Mercenaire}
 {25500}{}{Mercenaire}
@@ -284,7 +284,7 @@
 {26700}{}{Homme de l'Abri 13}
 {26800}{}{Femme de l'Abri 13}
 {26900}{}{Garde du pont}
-{27000}{}{Etranger mystérieux}
+{27000}{}{Etrangère mystérieuse}
 {27100}{}{Etrangère mystérieuse}
 {27200}{}{Hakeswill}
 {27300}{}{Big Jésus Mordino}
@@ -294,13 +294,13 @@
 {27700}{}{Lo Pan}
 {27800}{}{Hubologiste}
 {27900}{}{Hubologiste}
-{28000}{}{Etranger mystérieux}
+{28000}{}{Etrangère mystérieuse}
 {28100}{}{Etrangère mystérieuse}
-{28200}{}{Etranger mystérieux}
+{28200}{}{Etrangère mystérieuse}
 {28300}{}{Etrangère mystérieuse}
-{28400}{}{Etranger mystérieux}
+{28400}{}{Etrangère mystérieuse}
 {28500}{}{Etrangère mystérieuse}
-{28600}{}{Etranger mystérieux}
+{28600}{}{Etrangère mystérieuse}
 {28700}{}{Etrangère mystérieuse}
 {28800}{}{Garde du corps présidentiel}
 {28900}{}{Oeuf de Griffemort}
@@ -502,7 +502,7 @@
 {48301}{}{Garde du corps présidentiel}
 {48400}{}{Nessa}
 {48401}{}{Le fantôme de Nessa morte}
-{48500}{}{Shaman}
+{48500}{}{Chaman}
 {48501}{}{Shaman Tribal.}
 {48600}{}{Guerrier}
 {48601}{}{Guerrier de la tribu}
@@ -527,9 +527,9 @@
 {49901}{}{Une version sérieusement déprimé de M. Handy Robot.}
 {50000}{}{Le Docteur}
 {50001}{}{e premier, et seulement, docteur à gauche dans l'EPA}
-{50100}{}{EPA Spore Plant}
-{50101}{}{Un hideously muté de spores de plantes}
-{50200}{}{Kitsune}
+{50100}{}{Plante à Spore de l'EPA}
+{50101}{}{Une hideuse plante à spores.}
+{50200}{}{[Kitsune]}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
 {50500}{}{Le Guerrier du Docteur}
@@ -578,13 +578,7 @@
 {54500}{}{Plante à Spore de l'EPA}
 {54501}{}{Une hideuse plante à spores.}
 {54600}{}{Chien sauvage}
-{54601}{}{Chien bâtard errant.}   
+{54601}{}{Chien bâtard errant.}
 {54700}{}{Securitron Mark II}
 {54800}{}{Vieux Joe}
 {54900}{}{Une créature végétale}
-{55000}{}{Miria - Niveau 1}
-{55100}{}{Miria - Niveau 2}
-{55200}{}{Miria - Niveau 3}
-{55300}{}{Miria - Niveau 4}
-{55400}{}{Miria - Niveau 5}
-{55500}{}{Miria - Niveau 6}

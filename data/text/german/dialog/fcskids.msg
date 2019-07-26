@@ -1,5 +1,5 @@
 {100}{}{Du siehst ein Kind.}
-{101}{}{Ein kleines Kind.}
+{101}{}{Du siehst ein Kind.}
 {102}{}{Das Kind sieht aus wie andere Kinder auch.}
 {103}{}{Du siehst aber fies aus.}
 {104}{}{Tu mir nichts, okay?}
@@ -29,7 +29,6 @@
 {128}{}{Was bist du? Bist du ein Mensch?}
 {129}{}{Wie furchtbar groß du bist!}
 {130}{}{Waaaaaah!}
-{131}{}{Tu mir nichts!}
+{131}{}{Tu mir nicht weh!}
 {132}{}{::weint::}
 {133}{}{Hilfe, Mami!}
-

@@ -1,6 +1,6 @@
 {100}{}{Le terminal est éteint.}
 {101}{}{Le code est entré : 3... P... C... F... 1... 6.}
-{102}{}{<Biiip>}
+{102}{}{<Beep>}
 {103}{}{Le distributeur d'urgence médicale est déclenché.}
 {104}{}{<kling kling>}
 {105}{}{Veuillez enlever le Stimpak du casier.}

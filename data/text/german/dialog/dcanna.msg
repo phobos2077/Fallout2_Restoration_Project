@@ -1,6 +1,5 @@
 {100}{}{Du siehst einen Geist.}
 {101}{}{Du siehst Anna, den Geist.}
-
 {150}{}{Das ist ein Geist, also etwas, das du nicht alle Tage siehst.}
 {151}{}{Sie sieht ziemlich gequält aus.}
 {152}{}{[GESPRÄCH]}
@@ -28,22 +27,18 @@
 {174}{}{OK.}
 {175}{}{Nein.}
 {176}{}{Mein Medaillon, mein Medaillon! Ich komme, Papa! Ich komme!}
-{177}{}{Wiedersehn. }
+{177}{}{Wiedersehn.}
 {178}{}{Warte! Geh nicht!}
 {179}{}{Geh in das Licht!}
-
 {200}{}{Wo könnte es sein?}
 {201}{}{Ohhh.}
 {202}{}{Mama? Papa? Wo seid ihr?}
 {203}{}{Ich kann es nicht finden!}
-
 {500}{}{Mama... Papa... ich komme...}
 {501}{}{Es ist so hell...}
 {502}{}{Oma, ich kann dich sehen...}
 {503}{}{Oh, es ist der nette Herr Cain... Schön dich wieder zu sehen.}
-
 {550}{}{Dieses Haus ist sauber.}
 {551}{}{Oh, schöne Knochen.}
-
 {560}{}{GEISTERJÄGER!}
 {561}{}{Agh.}

@@ -3,9 +3,9 @@
 {102}{}{Tu vois un homme grand et mince portant des lunettes épaisses. Il semble absorbé par ses pensées et il se parle tout seul tout en marchant dans la pièce.}
 {103}{}{Oh, bonjour. Je m'appelle Jim, ou Jimmy. Que fais-tu ici ?}
 {104}{}{Moi regarder.}
-{105}{}{Moi}
+{105}{}{Moi }
 {106}{}{Euh... Moi promener. Moi partir.}
-{107}{}{Je jetais juste un coup d'oeil.}
+{107}{}{Je ne fais que passer.}
 {108}{}{Bonjour Jim. Je m'appelle}
 {109}{}{Ce sont pas tes affaires, binoclard. Va-t'en.}
 {110}{}{Je me promenais. Je m'en vais maintenant.}
@@ -14,8 +14,8 @@
 {113}{}{Je jette juste un coup d'oeil. Je ne dérangerai rien.}
 {114}{}{Tu m'agaces. Va-t'en.}
 {115}{}{Hé, excuse-moi, je ne voulais pas te marcher sur les pieds. Je te laisse à tes affaires.}
-{116}{}{Bien.}
-{117}{}{C'est un plaisir de te rencontrer,}
+{116}{}{Bon.}
+{117}{}{C'est un plaisir de te rencontrer, }
 {118}{}{Que veux-tu savoir ?}
 {119}{}{Quoi toi faire ?}
 {120}{}{Machines quoi faire ?}
@@ -24,7 +24,7 @@
 {123}{}{Quoi toi penser des Grif'morts ?}
 {124}{}{Ordinateur besoin pièce. Toi savoir où trouver ?}
 {125}{}{Moi savoir assez. Moi partir.}
-{126}{}{Que fais-tu ici ?}
+{126}{}{Qu'est-ce tu fais ici ?}
 {127}{}{A quoi servent toutes ces machines ?}
 {128}{}{N'est-ce pas la salle du dirigeant de l'abri ?}
 {129}{}{Es-tu dans l'abri de ton plein gré ?}
@@ -47,7 +47,7 @@
 {146}{}{D'accord, mais moi avoir encore questions.}
 {147}{}{Très bien, mais je dois auparavant te poser quelques questions.}
 {148}{}{Voici le système de l'ordinateur central et ses périphériques connexes. Toutes les fonctions de l'abri sont télécommandées à partir d'ici.}
-{149}{}{Euh... Quoi ?}
+{149}{}{Euh... Quoi toi dire ?}
 {150}{}{Ah, je vois.}
 {151}{}{Normalement, le dirigeant de l'abri est posté ici, mais l'Abri 13 a été intégralement automatisé.}
 {152}{}{Pourquoi ?}
@@ -78,7 +78,6 @@
 {177}{}{Merci.}
 {178}{}{Merci d'avoir réparé l'ordinateur. Tu nous as tous sauvés.}
 {179}{}{J'ai mieux à faire que de tirer sur les gens de ton espèce, mais tout le monde a besoin de vacances !}
-
 {180}{}{. Moi poser question ?}
 {181}{}{. Puis-je te poser quelques questions ?}
 {182}{}{. Ca me ferait plaisir de répondre à quelques questions.}

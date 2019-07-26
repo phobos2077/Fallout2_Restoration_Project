@@ -11,10 +11,9 @@
 {108}{}{**Phhhhhhh**}
 {109}{}{Zaius von der Mine sagt, daß sie nächsten Monat vielleicht Arbeit für mich haben.}
 {110}{}{Hier sieht's wie im Saustall aus! Wann putzt du denn endlich mal, Alte?}
-{111}{}{Du bist mir ein bißchen zu frech, Weib!}
+{111}{}{You got a real smart mouth on ya', woman!}
 {112}{}{Ich liebe dich, Warzenschwein.}
 {113}{}{Soll ich's dir mal mit dem flachen Handrücken geben, ja?}
-
 {140}{}{Mach dir deinen verdammten Auflauf doch selbst, du fauler Hund!}
 {141}{}{...(murmel) geb ihm soviel verdammten Pfeffer, wie ich will (murmel)...}
 {142}{}{Deine dreckigen Unterhosen im Brunnen schrubben, wie immer!}
@@ -26,7 +25,6 @@
 {147}{}{In diesem Haus muß doch IRGEND JEMAND etwas Verstand haben!}
 {148}{}{Ich liebe dich auch, Zuckerstückchen.}
 {149}{}{Ich will nichts, was IRGEND ETWAS mit deinem Rücken zu tun hat!}
-
 {200}{}{Was willst du denn, verdammt noch mal? Raus aus meinem Haus, Pinkie.}
 {201}{}{Eines schönen Tages haue ich einfach ab, das schwöre ich. Und was passiert dann mit dem
  faulen Hund hier?}

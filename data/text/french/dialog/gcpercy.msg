@@ -42,7 +42,7 @@
 {141}{}{Oh, c'est vraiment facile d'y aller, tiens, j'va t'la marquer d'une croix dans votre petit bloc-notes là.}
 {142}{}{Hé, fais-y attention ! Bon, continue maintenant.}
 {143}{}{Bon, n'empêche qu'y a pas vraiment de problèmes autour de Gecko. Mais, tu vois, les gens dans les autres endroits, y ne nous ressemblent pas.}
-{144}{}{Et ?}
+{144}{}{Et alors ?}
 {145}{}{Tu vois donc pas où j'veux en venir ? C'est pourtant logique : c'que j'crains c'est que Woody il s'est arrêté faire un p'tit somme quèkpart dans la Fosse, c'est un long chemin après tout. Et si c'est l'cas, ils seraient bien capables de l'enterrer vivant ! J'ai donc besoin de quelqu'un qui veut bien aller le chercher là-bas.}
 {146}{}{Et... ?}
 {147}{}{Ben, il me manque. Voilà la raison. (Percy cligne de ses yeux humides en te regardant). Oh, j'y suis, tu veux savoir c'que toi t'auras en échange ?}

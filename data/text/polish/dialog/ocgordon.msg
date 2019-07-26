@@ -3,9 +3,9 @@
 {102}{}{Widzisz smuk³ego mê¿czyznê w d³ugich szatach. Ma chyba ponad 40 lat i mi³¹ powierzchownoœæ. NajwyraŸniej medytuje.}
 {103}{}{Witaj. Nazywam siê Gordon i jestem Opiekunem Kaplicy. W czym mogê ci pomóc?}
 {104}{}{Kaplica?}
-{105}{}{Moja zapyta?}
+{105}{}{Moja zapytuje?}
 {106}{}{Uch... nie pamiêta. Pa.}
-{107}{}{Mi³o mi ciê poznaæ, Gordon. Jestem} # continued 177
+{107}{}{Mi³o mi ciê poznaæ, Gordon. Jestem}
 {108}{}{To ma byæ kaplica? Ktokolwiek jest tu czczony, musi przewracaæ siê w grocie na sam¹ myœl o niej!}
 {109}{}{Nie bêdê ci przeszkadzaæ. Pójdê ju¿ sobie.}
 {110}{}{Tak. Tak, kaplica jest miejscem kultu, gdzie oddaje siê czeœæ bogu, œwiêtemu lub innej potê¿nej istocie.}
@@ -19,8 +19,8 @@
 {118}{}{Czemu ty zostaæ?}
 {119}{}{Moja ju¿ iœæ.}
 {120}{}{Komu poœwiêcona jest ta œwi¹tynia?}
-{121}{}{Od kiedy tu przebywasz?}
-{122}{}{Co mo¿esz mi powiedzieæ o szponach œmierci?}
+{121}{}{Od jak dawna tu jesteœ?}
+{122}{}{Mo¿esz mi opowiedzieæ o szponach œmierci?}
 {123}{}{Dlaczego st¹d nie odejdziesz?}
 {124}{}{Dziêki, Gordon. Do widzenia.}
 {125}{}{Tê kaplicê poœwiêcono bezimiennemu bohaterowi zwanemu po prostu jako Przybysz z Krypty. Jemu, lub jej, zawdziêczaj¹ ¿ycie ludzie zamieszkuj¹cy Pustkowie kilkadziesi¹t lat temu. Nie wiemy co sta³o siê póŸniej z tym zbawc¹ ludzkoœci, ale pamiêæ o nim, lub niej, przetrwa na zawsze w naszych sercach.}
@@ -38,13 +38,13 @@
 {137}{}{To twoje ¿ycie - marnuj je, jeœli chcesz.}
 {138}{}{To znaczy, ¿e by³eœ tu, kiedy przyby³y szpony œmierci?}
 {139}{}{Nie, nie by³em. Opuœci³em Kryptê kilka miesiêcy temu, ¿eby odwiedziæ pomnik Przybysza z Krypty, wzniesiony na g³ównym placu RNK (tak nazywa siê czasem Republikê Nowej Kalifornii, na wschód st¹d). Kiedy wróci³em do domu szpony ju¿ tu by³y. Oczywiœcie by³em w szoku, ale nie wierzê, ¿eby to one by³y odpowiedzialne za to, co sta³o siê z moimi ziomkami. Jeœli interesuje ciê przybycie szponów do Krypty, porozmawiaj z Gorisem. Znajdziesz go w bibliotece.}
-{140}{}{Dziêkujê.}
-{141}{}{W porz¹dku, do zobaczenia.}
+{140}{}{Dobra, dziêki.}
+{141}{}{Dobra, czeœæ.}
 {142}{}{Bêdê o tym pamiêtaæ.}
 {143}{}{Nie musisz mi mówiæ gdzie mam chodziæ i z kim rozmawiaæ.}
 {144}{}{Dziêkujê za pomoc. Mam jeszcze kilka pytañ.}
 {145}{}{Mieszkam ze szponami œmierci ju¿ od kilku miesiêcy. To szlachetne istoty. Traktuj¹ pozosta³ych mieszkañców Krypty bardzo przyjaŸnie. Ufam im, a z czasem i ty nauczysz siê im ufaæ.}
-{146}{}{Uch... Dobra.}
+{146}{}{Uch... dobra.}
 {147}{}{Humph. Moja ju¿ iœæ.}
 {148}{}{Chwilowo uwierzê ci na s³owo.}
 {149}{}{Jeœli chcesz - ufaj tym jaszczurkom. Póki co, ja zachowam moje sceptyczne nastawienie.}
@@ -52,7 +52,7 @@
 {151}{}{Moje miejsce jest tutaj, w Kaplicy. Nie chcê st¹d odchodziæ.}
 {152}{}{Ach.}
 {153}{}{Moja ju¿ iœæ.}
-{154}{}{W porz¹dku.}
+{154}{}{OKI.}
 {155}{}{Jesteœ albo bardzo oddany, albo bardzo g³upi. Osobiœcie stawiam na to drugie!}
 {156}{}{Twoje oddanie jest godne podziwu.}
 {157}{}{Jesteœ nieuprzejm¹ i wulgarn¹ osob¹. Szkoda, ¿e nie ma z nami któregoœ ze stra¿ników. Mo¿e nauczy³by ciê trochê og³ady.}
@@ -74,6 +74,5 @@
 {173}{}{Zapytaæ?}
 {174}{}{Moja ju¿ tu byæ? Przeprasza. Ju¿ iœæ.}
 {175}{}{Chcê ciê jeszcze o coœ zapytaæ.}
-{176}{}{Tylko siê rozgl¹dam.}
-
-{177}{}{. Mogê ciê o coœ zapytaæ?}
+{176}{}{Dziêki, po prostu siê rozgl¹dam.}
+{177}{}{. Czy mogê ciê o coœ zapytaæ?}

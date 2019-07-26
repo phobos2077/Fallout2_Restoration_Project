@@ -3,6 +3,5 @@
 {102}{}{Grands Esprits, protégez-moi !}
 {103}{}{Mes os nourriront la terre... mais pas maintenant.}
 {104}{}{Esprits, laisse béton ! J'me tire !}
-
 {105}{}{Tu vois un illuminé.}
-{106}{}{Tu vois une illuminée.}
+{106}{}{Tu vois une sainte femme.}

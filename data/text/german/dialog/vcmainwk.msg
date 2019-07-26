@@ -5,10 +5,10 @@
 {103}{}{Du siehst eine braunhaarige Frau, die braunes Drillichzeug und einen Metallpanzer trägt.
  Sie sieht aus als wäre sie Mechanikerin.}
 {104}{}{Oh, hallo "Papi".}
-{105}{}{1 Sekunde.}
+{105}{}{Sekunde}
 {106}{}{Valerie. Schön, daß wir uns wiedersehen.}
 {107}{}{Oh, äh, hallo "Papi". Schön, dich zu sehen. Echt.}
-{108}{}{1 Sekunde.}
+{108}{}{Sekunde}
 {109}{}{Hallo, Valerie. Ich freue mich auch.}
 {110}{}{Besser, du bringst den Mutanten hier weg, bevor ihn die Wachen sehen.}
 {111}{}{Besser, du bringst den Ghul hier weg, bevor ihn die Wachen sehen.}
@@ -28,21 +28,21 @@
 {124}{}{Ja?!}
 {125}{}{WILLST du was, oder willst du bloß da rumstehen und dumm glotzen?}
 {126}{}{Dumm-glotz}
-{127}{}{[Verschwinde.]}
+{127}{}{Verzieh dich}
 {128}{}{Heee, mach mal halblang. Wollte mich bloß mal 'n bißchen umschaun.}
 {129}{}{Paß bloß auf. Ich hab heut keinen Bock auf so 'n Mist.}
 {130}{}{Ich suche die Vault. Kannst du mir sagen, wo sie ist?}
 {131}{}{Bin ja schon weg.}
 {132}{}{Das ist das große Loch im Berg dort im Osten, wo die beiden schwerbewaffneten Wachposten
  stehen. Hast du sonst noch irgendwelche Fragen, oder kann ich jetzt weiterarbeiten?}
-{133}{}{Wo sind wir hier?}
+{133}{}{Was ist das alles hier?}
 {134}{}{Paß bloß auf. Ich hab heut keinen Bock auf so 'n Mist.}
 {135}{}{Danke für die Beschreibung. Tschüß.}
 {136}{}{Als ob in Vault City nicht schon genug menschlicher Abschaum rumhängt... Hör zu: DU HAST
  HIER NICHTS ZU SUCHEN, KAPIERT? Hier ist VERLETZUNGSGEFAHR! RAUS JETZT! HAU AB!}
 {137}{}{*Schniief*... Du fies... *schnieef*... ich gehn weg und spielen mit Freunde... *schnief*
  essen Eis... un' Kuchen... und du fiese KUH darfs nich' mitspielen!}
-{138}{}{Trotte weg}
+{138}{}{Verzieh dich}
 {139}{}{Mach, daß du wegkommst. Oder ich rufe die Wache, damit sie dir Beine macht.}
 {140}{}{Versuch's doch. Das macht mir doch nichts aus.}
 {141}{}{OK, OK, ich geh ja schon.}
@@ -186,9 +186,9 @@ Lasergeschütztürmen, Computermonitore, was auch immer - ich brauche nur passende
 {252}{}{OK, OK. Du klingst wie mein Vater, der alte Geizkragen. Ich brauche dafür ungefähr eine
  Stunde...}
 {253}{}{OK, ich brauche dafür ungefähr eine Stunde...}
-{254}{}{Alles klar.}
+{254}{}{Also gut.}
 {255}{}{Bitte schön. Sonst noch was?}
-{256}{}{Ich hätte da noch ein paar andere Fragen...}
+{256}{}{Ich hab da noch ein paar Fragen...}
 {257}{}{Kannst du sonst noch irgendwas von meinen Sachen aufrüsten?}
 {258}{}{Das reicht für heute. Danke.}
 {259}{}{Was suchst... oh... Papi?}
@@ -295,14 +295,14 @@ Lasergeschütztürmen, Computermonitore, was auch immer - ich brauche nur passende
 {345}{}{Bist du zurückgekommen, um hier ein bißchen Ruhe und Frieden zu finden, großer Held?}
 {346}{}{Bist du zurückgekommen, um hier ein bißchen Ruhe und Frieden zu finden, große Heldin?}
 {347}{}{KROSS-HELT? Hiii-hiiii! Wupp!}
-{348}{}{[Verschwinde.]}
+{348}{}{Verzieh dich}
 {349}{}{Ich dachte, ich geh mal wieder in heimatliche Gefilde. Ruhe und Frieden sind auch mal gar
  nicht so schlecht. Aber vorher müßte ich doch noch was erledigen...}
 {350}{}{Nein, heute nicht, danke. Paß auf dich auf.}
 {351}{}{Reiß dich hier bloß zusammen, hörst du? Bitte nicht Vault City in die Luft jagen, bloß
  weil dir danach ist. Und... naja, noch mal danke, daß du uns alle gerettet hast.}
 {352}{}{So isses! Tschühüß!}
-{353}{}{[Verschwinde.]}
+{353}{}{Verzieh dich}
 {354}{}{Vergiß es. Wir sprechen uns noch.}
 {355}{}{Du hast Valerie zu neuem Werkzeug verholfen.}
 {356}{}{Du hast Val dazu gebracht, ihrem Vater noch eine Chance zu geben.}
@@ -310,5 +310,3 @@ Lasergeschütztürmen, Computermonitore, was auch immer - ich brauche nur passende
 {358}{}{}
 {359}{}{Heh, ich hab diese Werkzeuge, die du haben wolltest.}
 {360}{}{Sieht nicht so aus, als hättest du irgendwas, womit ich etwas anfangen könnte. Ich kümmer mich hauptsächlich um Pistolen und Gewehre, sowas in der Art.}
-
-{370}{}{Hi! Schön dich wieder zu sehen. Das letzte was ich über dich gehört habe war, dass du irgendwo im Süden Helikopter fliegst und Ölbohrtürme sprengst.}

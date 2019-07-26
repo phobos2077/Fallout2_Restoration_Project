@@ -1,12 +1,12 @@
 {100}{}{Tu vois un scientifique plutôt jeune à la chevelure dégarnie. Il a l'air absorbé par son travail.}
-{101}{}{Tu vois Crocket, le scientifique Hubologiste.}
+{101}{}{You see Crockett, the Hubologist scientist.}
 {102}{}{Tu vois un scientifique plutôt jeune à la chevelure dégarnie. Il est débraillé et semble négligé.}
 {103}{}{Ouais ? Qu'est-ce tu veux ?}
 {104}{}{Agh. Hum. Duur.}
 {105}{}{Le Docteur Jing m'envoie. Il veut une SuperArmure renforcée.}
 {106}{}{Peux-tu améliorer ma SuperArmure ?}
 {107}{}{Qui es-tu ?}
-{108}{}{Que fais-tu ici ?}
+{108}{}{Qu'est-ce tu fais ici ?}
 {109}{}{Rien. Merci.}
 {110}{}{Ma parole, c'est dingue ! Il y a de plus en plus de sous-humains qui se baladent dans le coin ! Allez, ouste ! Ouste !}
 {111}{}{Euh.}
@@ -14,8 +14,8 @@
 {113}{}{Le Docteur Jing voudra certainement te vendre du carburant pour le vaisseau spatial.}
 {114}{}{Je peux payer.}
 {115}{}{Je te laisserai en vie.}
-{116}{}{Rien. Oublie ça.}
-{117}{}{Je m'appelle Crocket. Je suis scientifique et bricoleur. J'peux me remettre au travail là ?}
+{116}{}{Rien. Laisse tomber.}
+{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
 {118}{}{Non. J'ai d'autres questions.}
 {119}{}{Ouais, bien sûr.}
 {120}{}{Je mets au point une nouvelle technologie et je prends ma part du gâteau sur les membres de la secte, si tu vois ce que je veux dire.}
@@ -39,7 +39,7 @@
 {138}{}{Je reviendrai pour l'armure.}
 {139}{}{Je ne peux pas exercer mes talents si tu ne l'as pas. Reviens quand tu l'auras.}
 {140}{}{J'ai d'autres questions.}
-{141}{}{Au revoir.}
+{141}{}{Salut.}
 {142}{}{[Il hausse les épaules] Tu veux cette armure ou quoi ? C'est $10 000 à prendre ou à laisser.}
 {143}{}{Je reviendrai plus tard.}
 {144}{}{Très bien. Voilà.}
@@ -59,10 +59,10 @@
 {158}{}{Je vois. Eh bien, j'ai d'autres questions.}
 {159}{}{Hum. Je dois partir. Au revoir.}
 {160}{}{Hé, je n'ai rien contre toi. Ne me fais pas de mal.}
-{161}{}{J'ai d'autres questions à te poser.}
+{161}{}{J'ai quelques questions à te poser.}
 {162}{}{Je suis ici pour mon armure.}
 {163}{}{Trop tard.}
-{164}{}{Au revoir.}
+{164}{}{Salut.}
 {165}{}{C'est pas encore prêt. Tu dois me laisser du temps !}
 {166}{}{Très bien. J'ai quelques questions.}
 {167}{}{Très bien, je reviendrai.}

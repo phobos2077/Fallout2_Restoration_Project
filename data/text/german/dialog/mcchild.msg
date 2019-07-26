@@ -1,31 +1,7 @@
-#############################################################
-#  Message File: mcChild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Ein kleiner Junge.}
 {101}{}{Ein kleines Mädchen.}
-
 {120}{}{Ein kleiner Junge. Er sieht verspielt aus.}
 {121}{}{Ein kleines Mädchen. Es sieht verspielt aus.}
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
 {150}{}{Friß mich nicht!}
 {151}{}{Iiihh! Der schwarze Mann!}
 {152}{}{Papa sagt, daß du böse bist.}
@@ -45,8 +21,7 @@
 {166}{}{Mami, Mami, Mami!}
 {167}{}{Laß mich in Ruh!}
 {168}{}{Du stinkst!}
-
-{170}{}{Hallo.}
+{170}{}{Hey da.}
 {171}{}{Magst du mit mir spielen?}
 {172}{}{Steckst du dir wirklich einen Knochen durch die Nase?}
 {173}{}{Warum siehst du so komisch aus?}
@@ -60,13 +35,12 @@
 {181}{}{Ich möchte in der Welt herumreisen, wenn ich so alt bin wie du.}
 {182}{}{Du bist ein netter Wilder, nicht so wie die anderen.}
 {183}{}{Beim Baden aber bestimmt.}
-{184}{}{Du bist klüger als Torr.}
+{184}{}{Du bist klüger als Torr}
 {185}{}{Ist die Klinge da richtig scharf?}
 {186}{}{Wenn ich erwachsen bin, möchte ich sein wie du.}
 {187}{}{Mein Hund liebt Dörrfleisch.}
-{188}{}{Ich hab 'nen Glitzerstein.}
+{188}{}{Ich hab 'nen Glitzerstein}
 {189}{}{Hast du meinen unsichtbaren Freund gesehen?}
-
 {190}{}{Darf ich zu deinem Stamm gehören?}
 {191}{}{Du bist nett.}
 {192}{}{Du siehst komisch aus.}
@@ -101,5 +75,4 @@
 {221}{}{Magst du mich?}
 {222}{}{Bist du verheiratet?}
 {223}{}{Eins, zwei, drei, uuiiih!}
-
 {300}{}{Fremder!}

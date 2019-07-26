@@ -6,5 +6,4 @@
 {105}{}{Komm, Mäuschen. Ich Hunger.}
 {106}{}{Quiek, Quiiiiiiieeeeek. QUIIIIIIIIEK!}
 {107}{}{OK, OK, ich gelogen, ich dich essen.}
-
 {110}{}{Oooh! Du fettes Mäuschen. Du gutes Abendessen für Grundel.}

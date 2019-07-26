@@ -1,4 +1,3 @@
 {100}{}{Après environ un quart d'heure, l'épave qui te sert de bateau arrive au pied d'une sorte de kiosque rouillé se dressant hors de l'eau, au large de la cote de San Fransisco. Les eaux bien que peu profondes sont obscures, mais tu peux clairement distinguer les contours de cet énorme sous-marin.}
 {101}{}{L'équipe technique Shi débarque et disparaît à l'intérieur du sous-marin.}
 {102}{}{Alors que tu t'éloignes du sous-marin, une grande explosion apparaît dans le ciel, envoyant des centaines de litres d'eau dans toutes les directions. Tu regardes derrière toi et remarques qu'en lieu et place du kiosque rouillé, il n'y a à présent plus rien.}
-

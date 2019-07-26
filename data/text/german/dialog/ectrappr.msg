@@ -1,5 +1,4 @@
 {100}{}{Du siehst einen dreckigen, unrasierten Mann.}
-{200}{}{Du siehst eine dreckige, ausgezehrte Frau.}
 {101}{}{Fallensteller.}
 {102}{}{Besser nicht zu nah rangehn. Das Ungeziefer in seinen Klamotten würde sich bestimmt über ein sauberes Zuhause freuen.}
 {103}{}{Wie geht's. Treff nicht allzu viele Leute hier im Fallenstellerland. Was willste?}
@@ -8,11 +7,11 @@
 {106}{}{Agh.}
 {107}{}{Hm, ich denk schon, daß ich dir meine Häute verkaufen könnt. Dann bräucht ich nicht in die Stadt.}
 {108}{}{Was hast du denn?}
-{109}{}{Nur so.}
+{109}{}{Macht nichts.}
 {110}{}{Agh.}
-{111}{}{Ich hab:}
-{112}{}{normale Geckohäute.}
-{113}{}{goldene Geckohäute.}
+{111}{}{Here's what I got: }
+{112}{}{ regular gecko pelts.}
+{113}{}{ golden gecko pelts.}
 {114}{}{Ich nehm alle.}
 {115}{}{Vielleicht nächstes Mal. Tschüß.}
 {116}{}{War nett, mit dir Geschäfte zu machen. Bis dann.}
@@ -33,10 +32,12 @@
 {131}{}{Das ist mein Jagdrevier. Verschwinde!}
 {132}{}{Ich zieh dir die Haut bei lebendigem Leib ab!}
 {133}{}{Ich häng mir deinen Kopf als Trophäe an die Wand.}
-
 {134}{}{Eine normale Geckohaut: $}
 {135}{}{Eine goldene Geckohaut: $}
-
 {136}{}{OK, Aufseher. Du gewinnst.}
 {137}{}{Dein Glück. Ich muß mal meine Fallen prüfen.}
 {138}{}{Ich glaub, meine Mama ruft mich.}
+{140}{}{Looks like I don't have any regular gecko pelts, but I do have }
+{141}{}{Looks like I don't have any golden gecko pelts, but I do have }
+{142}{}{Sorry, looks like I'm all out of stock.}
+{200}{}{Du siehst eine dreckige, ausgezehrte Frau.}

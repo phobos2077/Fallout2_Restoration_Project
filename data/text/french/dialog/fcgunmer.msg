@@ -15,11 +15,11 @@
 {114}{}{D'autres questions !}
 {115}{}{Au revoir !}
 {116}{}{Non. Ce n'est pas assez bien. Mille excuses. Autre chose peut-être ?}
-{117}{}{D'autres questions.}
+{117}{}{J'ai d'autres questions.}
 {118}{}{Non. Au revoir}
 {119}{}{Tu as besoin d'autre chose ?}
 {120}{}{Moi acheter !}
-{121}{}{Non. Au revoir.}
+{121}{}{Non. Salut.}
 {122}{}{Je cherche des armes.}
 {123}{}{Parle-moi de cet endroit.}
 {124}{}{Laisse tomber.}

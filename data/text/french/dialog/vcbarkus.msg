@@ -9,12 +9,12 @@
 {108}{}{Oui, citoyen ?}
 {109}{}{Oui, qu'est-ce que c'est ? Je suis en retard dans mes affectations.}
 {110}{}{Heu... Moi chèrche abbrii !}
-{111}{}{[Partir]}
+{111}{}{Dégage !}
 {112}{}{Quel est ce bâtiment ?}
 {113}{}{Je recherche l'Abri.}
 {114}{}{Je recherche un domestique en particulier... Joshua, je crois. Est-il là ?}
 {115}{}{Tu veux acheter des esclaves... euh, des domestiques ?}
-{116}{}{Rien aujourd'hui, merci.}
+{116}{}{Rien pour aujourd'hui, merci.}
 {117}{}{Ca ? Ben, c'est le Centre de Répartition des Domestiques. Tu as besoin d'un domestique ?}
 {118}{}{C'est le Centre de Répartition des Domestiques.}
 {119}{}{Le Centre de répartition des domestiques ? Qu'est-ce que c'est que ça ?}
@@ -26,7 +26,7 @@
 {125}{}{Quel est ce bâtiment ?}
 {126}{}{On peut entrer, là-bas ?}
 {127}{}{Je voulais te poser une autre question.}
-{128}{}{Merci pour les indications. Salut.}
+{128}{}{Merci. Salut.}
 {129}{}{Qu'est-ce que -- Tu fais partie des nouveaux domestiques ?}
 {130}{}{Ouais.}
 {131}{}{Heu-heu, moi partir maintenant.}
@@ -53,7 +53,7 @@
 {152}{}{As-tu sous ta garde un prisonnier contractuel du nom de Joshua ?}
 {153}{}{Tu cherches à acheter des esclaves... heu, des domestiques, là, maintenant ?}
 {154}{}{Hum. J'avais encore une question...}
-{155}{}{Je vois. Merci pour les renseignements.}
+{155}{}{Je vois. Merci pour ces renseignements.}
 {156}{}{Non, pas un scénariste, espèce de débile !}
 {157}{}{Débile ? Il a fallu que je bosse dur pour obtenir le chiffre minimum de 9 en Intelligence et en Perception nécessaire pour trouver cette énigme, et toi tu m'traites de débile !! Enfin, passons... tu disais ?}
 {158}{}{Y'en a qui sont mal placés pour donner des leçons de morale, esclavagiste ! Dégage d'ici.}
@@ -99,7 +99,7 @@
 {198}{}{Je vois. Il est possible que je revienne plus tard.}
 {199}{}{Je vois. Il est possible que je revienne plus tard, quand j'aurai les fonds suffisants pour faire une donation.}
 {200}{}{Bon... J'appelle pas vraiment ça une donation, mais enfin ça ira. Je vais veiller à ce que ce Joshua que tu as demandé soit envoyé à l'entrée pour y être traité. Je vais faire les démarches qu'il faut.}
-{201}{}{D'accord.}
+{201}{}{Ok.}
 {202}{}{C'est fait. Joshua n'est plus un domestique de la Cité de l'Abri, il a été déplacé vers l'entrée avec les autres étrangers.}
 {203}{}{Merci. J'avais encore une ou deux questions...}
 {204}{}{Très bien. Je vais aller le chercher là-bas, alors.}
@@ -118,7 +118,7 @@
 {217}{}{Contaminé ? Contaminé par quoi ?}
 {218}{}{Des symptômes ? Quel genre de symptômes ?}
 {219}{}{Vous avez peut-être constaté récemment une baisse du niveau d'énergie de vos domestiques ? Une faible capacité d'attention ? L'incapacité à entendre les ordres et à les exécuter correctement ? Il ne s'agit là que des stades primaires.}
-{220}{}{Heu...}
+{220}{}{Euh...}
 {221}{}{. Beaucoup d'étrangers en sont porteurs. Ses symptômes sont, notamment, euh, de parler quand on ne vous a pas adressé la parole. Et d'être grossier.}
 {222}{}{Hum. Ca ne va pas aller si les citoyens commencent à se plaindre de problèmes avec les domestiques... Très bien, je vais libérer Joshua sur le champ. Si tu veux bien me laisser le temps de tout arranger...}
 {223}{}{Oui... J'ai remarqué ces symptômes chez les derniers domestiques. Contagieux, tu dis ? Hum. Bon, si c'est ce Joshua qui transmet la maladie, je vais le libérer tout de suite. Si tu veux bien me laisser un moment pour tout arranger...}
@@ -168,5 +168,4 @@
 {267}{}{Que fais-tu là ? Je t'avais fait envoyer à l'Abri ! Par tous les... Très bien, je vais demander à quelqu'un de t'escorter jusque là-bas.}
 {268}{}{Oh-kééééé.}
 {269}{}{Tu as réussi à convaincre Barkus de libérer Joshua.}
-#added by killap
 {300}{}{J'ai entendu dire que tu étais un héros. Félicitations.}

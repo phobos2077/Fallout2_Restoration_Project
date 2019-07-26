@@ -4,7 +4,7 @@
  scheint.}
 {103}{}{Wer bist du? Was machst du in meinem Haus?}
 {104}{}{Hääh? Huuhh?}
-{105}{}{Ich heiße }
+{105}{}{Ich bin }
 {106}{}{Niemand Wichtiges.}
 {107}{}{Ich bin auf Raubzug.}
 {108}{}{Nichts. Niemand. Tschüß.}
@@ -20,7 +20,7 @@
 {116}{}{Ich frage ja nur, weil meine Frau vermißt ist. Ich weiß nicht, wo sie ist. Sie ist schon
  seit Tagen weg. Ich hab in der Stadt herumgefragt, aber niemand hat sie gesehen. Kannst du sie
  nicht für mich finden?}
-{117}{}{Was hab ich denn davon?}
+{117}{}{Wieviel ist für mich drin?}
 {118}{}{Ich seh mich mal um. Wie sieht sie denn aus?}
 {119}{}{Nee, ich hab zu tun.}
 {120}{}{Ich kann dir $500 geben. Das ist mein gesamtes Erspartes.}

@@ -1,22 +1,8 @@
-#
-# Quest descriptons
-#
-# Please leave space between the areas (like 100 or so)
-#
-
-
-#
-# Arroyo Quests
-#
 {100}{}{Zabij z³oœliwe chwasty, które rozpleni³y siê w ogrodzie Hakuninna.}
 {110}{}{Zdob¹dŸ krzemieñ dla Mynoca, ¿eby móg³ naostrzyæ twoj¹ w³óczniê.}
 {120}{}{Odszukaj psa Nagora, który zagin¹³ w dziczy.}
 {130}{}{Zdob¹dŸ GECK dla Arroyo.}
 {140}{}{ZnajdŸ handlarza imieniem Vic.}
-
-#
-# Den Quests
-#
 {200}{}{Ureguluj nale¿noœci Vica przez przyniesienie radia z jego domu w Klamath i sp³acenie Metzgera.}
 {201}{}{Dowiedz siê dlaczego Becky mo¿e sprzedawaæ gorza³ê tak tanio.}
 {202}{}{Zepsuj aparaturê Becky.}
@@ -30,10 +16,6 @@
 {210}{}{ZnajdŸ s³abe punkty gangu Tylera, strzeg¹cego koœcio³a.}
 {211}{}{Pomó¿ Larze zaatakowaæ gang Tylera.}
 {212}{}{ZnajdŸ miejsce dla sierot z ulicy.}
-
-#
-# Klamath Quests
-#
 {300}{}{Pod³ó¿ ogieñ pod aparaturê destylacyjn¹.}
 {301}{}{Uratuj trapera imieniem Smiley.}
 {302}{}{Pilnuj bramin.}
@@ -41,9 +23,6 @@
 {304}{}{Zabij króla szczurów.}
 {305}{}{Ocal Torra.}
 {306}{}{Dowiedz siê kto kradnie braminy.}
-#
-# Modoc Quests
-#
 {400}{}{Na farmie po³o¿onej na pó³nocny wschód od Modoc dzieje siê coœ dziwnego. Zbadaj sprawê i z³ó¿ relacjê Jo.}
 {401}{}{Cornelius zgubi³ swój z³oty zegarek kieszonkowy. ZnajdŸ go i zwróæ w³aœcicielowi.}
 {402}{}{Farrel chce, ¿ebyœ znalaz³ z³oty zegarek kieszonkowy Corneliusa. ZnajdŸ go i zwróæ Farrelowi.}
@@ -54,10 +33,6 @@
 {407}{}{Jo jest podejrzliwy wobec ¯u¿lowców. Dowiedz siê, sk¹d pochodz¹ martwe cia³a na Nawiedzonej Farmie, a tak¿e co przytrafi³o siê Karlowi.}
 {408}{}{IdŸ do Nory powiedz Karlowi, ¿e mo¿e ju¿ wróciæ do domu.}
 {409}{}{Pilnuj bramin Grishama.}
-
-#
-# Vault City Quests
-#
 {500}{}{Zdob¹dŸ p³ug dla Pana Smitha.}
 {501}{}{Dostarcz aktówkê Moore'a Panu Bishopowi w Nowym Reno.}
 {502}{}{Dostarcz próbkê narkotyku Jet doktorowi Troy.}
@@ -71,9 +46,6 @@
 {510}{}{Rozwi¹¿ problemy pobliskiej wioski.}
 {511}{}{Zdob¹dŸ broñ dla Connara.}
 {512}{}{Umieœæ Wioskê na szlaku kupieckim.}
-#
-# Gecko Quests
-#
 {600}{}{Rozwi¹¿ problem z elektrowni¹ w Gecko.}
 {601}{}{Napraw elektrowniê.}
 {602}{}{Zoptymalizuj pracê elektrowni.}
@@ -81,10 +53,6 @@
 {604}{}{Zdob¹dŸ super zestaw naprawczy od Skeetera.}
 {605}{}{Zdob¹dŸ trójfazowy transformator plazmowy dla Skeetera.}
 {606}{}{Poszukaj ghula Woody'ego dla Percy'ego. Spróbuj w Norze.}
-
-#
-# Broken Hills Quests
-#
 {700}{}{Dowiedz siê czy Chad podbiera pieni¹dze z karawan.}
 {701}{}{Napraw system oczyszczania powietrza w kopalni.}
 {702}{}{ZnajdŸ zaginionych ludzi dla Marcusa.}
@@ -92,10 +60,6 @@
 {704}{}{Odbij Mansona i Francisa z wiêzienia.}
 {705}{}{WysadŸ system oczyszczania powietrza w kopalni.}
 {706}{}{Skieruj wiêcej mocy elektrycznej do domu Erica.}
-
-#
-# New Reno Quests
-#
 {800}{}{Odzyskaj swój skradziony samochód.}
 {801}{}{ZnajdŸ winnego przedawkowania przez Richarda Wrighta.}
 {802}{}{     Podejrzany: Jimmy J}
@@ -116,19 +80,8 @@
 {817}{}{Zbierz op³aty od Braci Corsican.}
 {818}{}{Zlikwiduj Pana Salvatore dla Du¿ego Jesusa Mordino.}
 {819}{}{Przynieœ Ojcu Tully'emu butelkê gorza³ki z Opactwa.}
-#
-# Sierra Army Base Quests
-#
 {900}{}{}
-
-#
-# Vault 15 Quests
-# Moved it to 3000 on accedent
 {1000}{}{}
-
-#
-# New California Republic Quests
-#
 {1100}{}{Zdob¹dŸ czêœci/uzyskaj dostêp do Krypty 15.}
 {1101}{}{Zaopiekuj siê "oficerem Jackiem" dla Miry.}
 {1102}{}{Skoñcz sprawê z braminami.}
@@ -143,31 +96,15 @@
 {1111}{}{Powstrzymaj uprowadzenia bramin.}
 {1112}{}{Zniszcz bazy Stra¿ników RNK, dla Vortisa £owcy Niewolników.}
 {1113}{}{Zabij ³owców niewolników w obozie na pó³nocny-zachód, dla Stra¿ników NRK.}
-
-#
-# Vault 13 Quests
-#
 {1200}{}{Napraw komputer Krypty 13.}
 {1201}{}{Porozmawiaj z Gorisem.}
-
-#
-# Military Base Quests
-#
 {1300}{}{}
-
-#
-# Redding Quests
-#
 {1398}{}{Oczyœæ kopalniê.}
 {1399}{}{ZnajdŸ procesor do maszyny górniczej.}
 {1400}{}{Zajmij siê sytuacj¹ wdowy Rooney.}
 {1401}{}{Przerwij rozróbê w barze.}
 {1402}{}{Dowiedz siê, kto poci¹³ dziwkê.}
 {1403}{}{Zabij ¯abê Mortona.}
-
-#
-# San Francisco Quests
-#
 {1500}{}{Tankowiec potrzebuje paliwa.}
 {1501}{}{Komputer nawigacyjny potrzebuje uk³adu nawigacyjnego, ¿eby móc dzia³aæ.}
 {1502}{}{Musisz u¿yæ karty wejœciowej, ¿eby uzyskaæ dostêp do komputera nawigacyjnego.}
@@ -192,22 +129,10 @@
 {1521}{}{Dostarcz próbkê nasion roœlin dla Dr. Wong'a.}
 {1522}{}{Zabij Dr Wong'a zanim ostrze¿e Shi.}
 {1523}{}{Oczyœæ labolatorium Dr Sheng'a.}
-#
-# Navarro Quests
-#
-#1515, ...
 {1600}{}{Uwolnij szpona œmierci.}
 {1601}{}{Napraw K9.}
 {1602}{}{Zdob¹dŸ kartê dostêpu od dowódcy bazy.}
-
-#
-# The Enclave Quests
-#
 {1700}{}{}
-
-#
-# The Abbey Quests
-#
 {1800}{}{Zabij bestiê pod koœcio³em.}
 {1801}{}{Dostarcz czêœæ do Brata Maxa.}
 {1802}{}{Napraw pompê wodn¹ i powiedz o tym Opatowi.}
@@ -217,10 +142,6 @@
 {1806}{}{Zbierz informacje o Botanice dla Brata Paula.}
 {1807}{}{Sformatuj bazê danych Opactwa.}
 {1808}{}{Eskortowaæ brata Jasona do Gecko.}
-
-#
-# Primitive Tribe Quests
-#
 {1900}{}{Zbierz broñ dla wojowników Plemienia.}
 {1901}{}{Napraw studniê dla Marli'ego i plemienia.}
 {1902}{}{Dowiedz siê co przeœladuje Szamana plemienia.}
@@ -230,10 +151,6 @@
 {1906}{}{DoprowadŸ do spotkania Sulika i jego siostry, Kurisu.}
 {1907}{}{Towarzyszyæ Kromowi na spotkanie z handlarzem.}
 {1908}{}{Zdob¹dŸ zio³a dla Szamana (5 Korzeni Xandrowych, 3 Kwiaty Broca)}
-
-#
-# EPA Quests
-#
 {2000}{}{Napraw Hologram 00000.}
 {2001}{}{Napraw Komputer G³osowy.}
 {2002}{}{Rozwi¹¿ problem z roœlinami.}
@@ -242,65 +159,17 @@
 {2005}{}{Napraw Hologram, który mówi z zak³óceniami.}
 {2006}{}{ZnajdŸ zostawione przez Doktora narzêdzie.}
 {2007}{}{Przetestowaæ S³oneczny Opiekacz dla Dyrektora Naukowego.}
-#
-# Ghost Town Quests
-#
 {2100}{}{}
-
-#
-# Car outta Gas Quests
-#
 {2200}{}{}
-
-#
-# Destroyed Arroyo Quests
-#
 {2300}{}{}
-
-#
-# Toxic Caves Quests
-#
 {2400}{}{}
-
-#
-# Den Slave Run Quests
-#
 {2500}{}{}
-
-#
-# Raiders Quests
-#
 {2600}{}{}
-
-#
-# Desert Encounter Quests
-#
 {2700}{}{}
-
-#
-# Mountain Encounter Quests
-#
 {2800}{}{}
-
-#
-# Ruined City Encounter Quests
-#
 {2900}{}{}
-
-#
-# Coast Encounter Quests
-#
 {3000}{}{}
-
-#
-# Golgotha Quests
-#
 {3100}{}{}
-
-
-#
-# Vault 15 Quests
-#
 {3200}{}{Ocal Chrissy}
 {3201}{}{Zabij Dariona}
 {3202}{}{Zfinalizuj transakcjê z RNK.}

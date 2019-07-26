@@ -1,36 +1,30 @@
 {100}{}{Tu vois un esclave.}
 {101}{}{Tu vois un esclave en bonne santé.}
-
-
-# 3. CF: PC is Slaver
 {320}{}{Toi méchant !}
-{321}{}{Nous pas parler à pas toi.}
-{322}{}{On sera libre.}
-{323}{}{Tu nous garderas pas.}
+{321}{}{Nous pas parler toi.}
+{322}{}{Nous prendre liberté.}
+{323}{}{Toi pas garder nous.}
 {324}{}{Toi esclavagiste !}
-{325}{}{Pourquoi faites-vous ça ?}
-{326}{}{Comment peux-tu travailler pour ces gens ?}
-{327}{}{On n'est pas des tribals !}
-{328}{}{N'as-tu pas de morale ?}
+{325}{}{Pourquoi faites-vous ça, esclavagistes ?}
+{326}{}{Comment est-ce possible de travailler pour ces gens ?}
+{327}{}{On n'est pas des primitifs !}
+{328}{}{Vous n'avez donc aucune morale ?}
 {329}{}{Que va-t-il nous arriver ?}
-{330}{}{Qu'a-t-on fait de mal ?}
+{330}{}{Qu'avons-nous fait de mal ?}
 {331}{}{Laisse-nous tranquilles, esclavagiste !}
-{332}{}{Ne me fais pas mal !}
-{333}{}{Reste à l'écart !}
-
-# 4. CF: PC is Not Slaver
-{350}{}{Qui tu es toi ?}
+{332}{}{Ne me fais pas mal.}
+{333}{}{Dégage !}
+{350}{}{Qui toi ?}
 {351}{}{Toi pas esclavagiste.}
-{352}{}{Toi pas faire de mal, hein ?}
+{352}{}{Toi pas faire mal ?}
 {353}{}{Ami ?}
-{354}{}{Toi aider nous ?}
+{354}{}{Toi aider ?}
 {355}{}{Que va-t-il nous arriver ?}
-{356}{}{T'as été capturé aussi ?}
-{357}{}{On n'est pas des tribals !}
-{358}{}{Ces gens nous prennent pour quoi ?}
-{359}{}{Aide-nous !}
-{360}{}{Sors-moi de là.}
-
+{356}{}{Toi aussi, tu es en captivité ?}
+{357}{}{On n'est pas des primitifs !}
+{358}{}{Pour qui se prennent-ils ?}
+{359}{}{Aide-nous, pas pitié !}
+{360}{}{Toi pas garder nous ici !}
 {400}{}{Oh, pourquoi moi ?!}
 {401}{}{::Tousse::}
-{402}{}{::Se gratte::}
+{402}{}{::Se griffe::}

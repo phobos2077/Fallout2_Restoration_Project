@@ -1,13 +1,9 @@
 {100}{}{Tu vois un petit garçon hyperactif.}
 {101}{}{Tu vois le petit Todd.}
-
-#random floats
 {200}{}{BOUM !!! J'adore les explosions !}
 {201}{}{Pan-pan ! Je tire sur des mutants !}
 {202}{}{J'aimerai bien voir plus d'explosions !}
 {203}{}{Tout devrait exploser !}
-
-#dialogue
 {300}{}{Monsieur, est-ce que tu peux faire exploser quelque chose ?}
 {301}{}{Quand je serai grand, je dirigerai le monde !}
 {302}{}{J'aime pas cet endroit, je veux aller vivre sur la côte Est !}

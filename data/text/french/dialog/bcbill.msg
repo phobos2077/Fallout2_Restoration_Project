@@ -5,5 +5,4 @@
 {104}{}{Hé, j'ai dit que j'avais pas le temps de parler. Allez, va-t'en.}
 {105}{}{Merci d'avoir aidé Elisabeth. Tu as fait quelque chose de bien.}
 {106}{}{Laisse-moi, je ne te veux aucun mal.}
-#push messages
 {107}{}{Très bien, très bien, j'me pousse.}

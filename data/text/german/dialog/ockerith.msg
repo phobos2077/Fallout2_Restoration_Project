@@ -2,7 +2,7 @@
 {101}{}{Du siehst Kerith, die Deathclawmutter.}
 {102}{}{Du siehst eine typische Deathclaw. Eine riesige Erscheinung mit einem kräftigen Körper, scharfen Zähnen und langen Krallen. Dies scheint ein Weibchen zu sein, aber mit Sicherheit kann man das nicht sagen. Du siehst die Narben mehrerer Verletzungen auf ihrem Körper.}
 {103}{}{Ein menschlicher Besucher ist ein unerwartetes, aber nicht unwillkommenes Ereignis. Ich bin Kerith.}
-{104}{}{Was kann ich für dich tun?}
+{104}{}{Wie kann ich dir helfen?}
 {105}{}{Du Todkrallmutter?}
 {106}{}{Wer Todkrallvater?}
 {107}{}{Tür sehen schlimm aus. Was passieren?}
@@ -22,7 +22,7 @@
 {121}{}{Ah, ich verstehn.}
 {122}{}{Ich verstehe.}
 {123}{}{Gruthar ist der Vater dieses Geleges. Er ist der Anführer des Rudels. Er entscheidet, wer sich paaren darf. Gruthar wird das Rudel stark machen.}
-{124}{}{Äh, OK.}
+{124}{}{Oh, ok.}
 {125}{}{Hmmm. Ich verstehe. Selektive Zucht zur Stärkung der Art.}
 {126}{}{Das sind schmerzhafte Erinnerungen. Während ich schlief, drang ein tückischer Mensch ein und legte eine Bombe zwischen die Eier. Gott sei Dank bin ich aufgewacht, als er versuchte sich wegzustehlen und hab die Bombe noch entdeckt. Ich hatte jedoch nicht genug Zeit, die Bombe zu entschärfen. Ich warf sie also zur Tür und legte mich schützend vor die Eier. Die Eier und ich überlebten. Die Tür nicht.}
 {127}{}{Was passieren mit Mensch?}
@@ -38,7 +38,7 @@
 {137}{}{OK.}
 {138}{}{Die Wache wurde erst nach diesem Vorfall aufgestellt. Vorher hatten wir mehr Vertrauen. Jetzt sind wir vorsichtiger.}
 {139}{}{Was passieren mit Mensch?}
-{140}{}{Ich verstehn.}
+{140}{}{Ich kapiert.}
 {141}{}{Was ist mit dieser Person passiert?}
 {142}{}{Verstehe.}
 {143}{}{Wir haben diesen Höhlenbereich gebaut. Ein Menschenfreund hat die Tür eingebaut. Er hat die Teile aus einer Siedlung nordöstlich von hier.}

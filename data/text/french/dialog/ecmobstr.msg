@@ -10,6 +10,6 @@
 {109}{}{. Quelle belle journée, hein, }
 {110}{}{ ?}
 {111}{}{Tu es ici pour échapper à tout ça ? }
-{112}{}{ ? }
+{112}{}{ ?}
 {113}{}{ se demandait ce que tu manigançais, }
 {114}{}{.}

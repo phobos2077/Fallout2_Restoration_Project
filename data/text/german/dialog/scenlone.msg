@@ -2,13 +2,13 @@
 {101}{}{Das ist die Erleuchtete.}
 {102}{}{Ihr starrer Blick und der Ausdruck entgeisterter Glückseligkeit könnte zur Besorgnis Anlaß geben, ginge nicht zugleich eine ungeheure Ruhe von ihr aus.}
 {103}{}{Ich grüße dich, mein Kind. Gehörst auch du zu den Erleuchteten?}
-{104}{}{<Sabber>}
-{105}{}{Klar, warum nicht.}
+{104}{}{<Sabber (Geifer)>}
+{105}{}{Aber klar, warum nicht?}
 {106}{}{Ich bin das Auserwählte Wesen.}
 {107}{}{Äh, ich hab nicht die leiseste Ahnung, wovon du sprichst.}
 {108}{}{Du bist also der Störfaktor, den Merk ausgeschaltet sehen möchte!}
 {109}{}{Ja.}
-{110}{}{Nein}
+{110}{}{Nein.}
 {111}{}{Ich möchte einfach nur allein sein.}
 {112}{}{Hallo? Ist da wer?}
 {113}{}{Gah.}
@@ -27,7 +27,7 @@
 {126}{}{Nein, ich suche ein GECK.}
 {127}{}{Helfen? Wie?}
 {128}{}{Alles, was ich zu meinem Frieden im Geiste und sonstwo brauche, ist ein Raketenwerfer,}
-{129}{}{"Wahre Erkenntnis"! Erkenn das! (Obszöne Geste)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? Was will der denn?}
 {131}{}{Er will, daß du stirbst. Den Löffel abgibst. Ganz einfach.}
 {132}{}{Ich weiß nicht, was du ihm angetan hast. Jedenfalls hat er ein Kopfgeld auf dich ausgesetzt.}
@@ -61,7 +61,7 @@
 {160}{}{Unterdrückungszustand?}
 {161}{}{Und wie geht das mit der Reinigung? Tut das weh?}
 {162}{}{Nein, das tut nicht weh. Du unterziehst dich einfach nur einem Zeta-Scan. Ich kann ihn sogleich vornehmen, wenn du möchtest.}
-{163}{}{Klar.}
+{163}{}{Sicher.}
 {164}{}{Niemals!}
 {165}{}{Die Kirche der Hubologen hat es sich zum alleinigen Ziel gemacht, die Menschheit von den Ketten zu befreien, die sie an der vollen Entfaltung ihrer geistigen Potentiale hindern.}
 {166}{}{Und wie geht das vor sich?}
@@ -74,8 +74,6 @@
 {173}{}{Das ist beeindruckend. Obwohl ich glaube, dass wir über zwei verschiedene Dinge sprechen, klingt es immer noch so, als ob du einen Erfahrungsbonus verdienst.}
 {174}{}{Ja!}
 {175}{}{Es ist erledigt. Vergiss jedoch nicht, dass es mehr im Leben gibt, als immer weiter Erfahrungspunkten nachzujagen, um den nächsten Level zu erreichen. Da draußen gibt es eine riesige "echte" Welt. Also, da wir das hinter uns gebracht haben, sollen wir es nochmals versuchen?}
-
-
 {176}{}{Transzendenz? Wie soll ich denn das Wort verbreiten, wenn man mich nicht mal über deren aktuellen Stand auf dem laufenden hält?}
 {177}{}{(Weiter)}
 {178}{}{Hast du während der Unterweisung geschlafen? Hmpf - du bist keiner von den Erleuchteten!}
@@ -97,7 +95,7 @@
 {194}{}{Ausgezeichnet. Hier ist der Brief. Kann ich noch irgend etwas für dich tun? Möchtest du vielleicht einen Zeta-Scan?}
 {195}{}{Einen Scan? Wieso eigentlich nicht?}
 {196}{}{Du hast schon genug getan. Mach's gut.}
-{197}{}{Dann habe ich bereits zuviel gesagt. Lebe wohl}
+{197}{}{Then I've spoken too much already. Goodbye.}
 {198}{}{Ich grüße dich abermals. Wie kann die Kirche der Hubologen dir behilflich sein?}
 {199}{}{<Sabber (Geifer)>}
 {200}{}{Du bist also der Störfaktor, den Merk ausgeschaltet sehen möchte!}
@@ -116,7 +114,6 @@
 {213}{}{Die Kirche ist geschlossen. Komm morgen wieder.}
 {214}{}{Ich würde dir gerne helfen, aber selbst ein AHS-4 braucht manchmal seinen Schlaf. Komm bei Tag wieder.}
 {215}{}{Eindringling! Hast du vor, diesen Ort zu entweihen? Hinaus!}
-
 {216}{}{Ausgezeichnet, Schwester. Auf welcher Ebene bist du denn?}
 {217}{}{ }
 {218}{}{Du erhältst }

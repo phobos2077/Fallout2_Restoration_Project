@@ -1,11 +1,10 @@
 {100}{}{Tu vois un vieil homme.}
 {101}{}{Tu vois Cornélius.}
 {102}{}{Mis à part l'expression quelque peu perturbée de son visage, il a l'air tout à fait normal.}
-
 {150}{}{Bienvenue à l'Auberge de Rose. Je m'appelle Rose, euh... j'veux dire... Cornélius... c'est moi qui m'occupe de l'Auberge. Que puis-je faire pour toi ?}
 {151}{}{Si c'est toi qui diriges cette maison, pourquoi l'appelle-t-on l'Auberge de Rose ?}
 {152}{}{Je cherche une montre en or.}
-{153}{}{Que fais-tu ici ?}
+{153}{}{Qu'est-ce tu fais ici ?}
 {154}{}{Qui est Rose ?}
 {155}{}{Je voudrais une chambre.}
 {156}{}{Des questions ? T'ai-je demandé quelque chose moi ? Je m'appelle Cornélius.}
@@ -30,7 +29,7 @@
 {189}{}{D'accord, je vais te ramener ta montre.}
 {190}{}{L'as-tu cherchée sur ton bureau ?}
 {191}{}{Tu vas m'aider ? C'est fantastique ! Va mettre une bonne raclée à Farrel et ramène-moi ma montre. Il l'a probablement bien cachée. N'hésite pas, retourne toute sa baraque s'il le faut mais trouve-la.}
-{192}{}{Mais de quoi parles-tu ?}
+{192}{}{De quoi parles-tu ?}
 {193}{}{Ecoute, je ne veux pas me mêler de ça.}
 {194}{}{Tuer Farrel, reprendre la montre... C'est compris ! Je reviens tout de suite.}
 {195}{}{Tuer Farrel ! Qui va tuer Farrel ? C'est mon meilleur ami. Je pendrai moi-même haut et court le vaurien qui essaie de le tuer !}
@@ -62,16 +61,12 @@
 {223}{}{J'AI TROUVE LE MEURTRIER ! IL A AVOUE LE MEURTRE DE FARREL ! ALLONS L'ARRETER !}
 {224}{}{J'AI TROUVE LA MEURTRIERE ! ELLE A AVOUE LE MEURTRE DE FARREL ! ALLONS L'ARRETER !}
 {225}{}{Moi tuer Farrel.}
-
 {300}{}{[Hmmm... Certains mots semblent le mettre en colère.] Rose... chambre... courir...}
-{301}{}{Ouga.}
-
+{301}{}{Ooga.}
 {501}{}{J'ai toujours su que tu étais un voleur.}
 {502}{}{Comment as-tu pu faire une chose pareille à ton meilleur ami ?}
 {503}{}{Je vais te tuer !}
 {504}{}{Je vais faire empailler ta tête et l'accrocher dans mon salon !}
-
 {550}{}{Il a l'air inquiet.}
-
 {600}{}{Tu as rapporté la montre à Cornélius.}
 {650}{}{Tu as réglé le problème de Cornélius et Farrel.}

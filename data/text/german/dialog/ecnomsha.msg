@@ -6,26 +6,26 @@
 {105}{}{Ich brauche Heilung.}
 {106}{}{Kannst du die Xander-Wurzel und die Broc-Blume zusammenmischen?}
 {107}{}{Tschüß.}
-{108}{}{Uhga.}
+{108}{}{Ooga.}
 {109}{}{Beweg dich nicht, damit ich dich untersuchen kann.}
-{110}{}{[Weiter]}
-{111}{}{Ich hab folgendes festgestellt.} #continue at 136
+{110}{}{[Mehr]}
+{111}{}{Ich hab folgendes festgestellt.}
 {112}{}{Kannst du mir helfen?}
-{113}{}{Gegen Geld kann ich folgendes für dich tun:} # continue at 140
+{113}{}{Gegen Geld kann ich folgendes für dich tun:}
 {114}{}{Bitte zieh das Gift aus meinem Körper.}
 {115}{}{Bitte heil mich.}
 {116}{}{Sieh dir mal an, ob du was für mein gebrochenes Gliedmaß tun kannst.}
 {117}{}{Tschüß.}
-{118}{}{Ihr seid geheilt.}
+{118}{}{Du bist geheilt.}
 {119}{}{Du bist geheilt.}
 {120}{}{Du bist geheilt.}
 {121}{}{Ich muß deine Fähigkeiten weiter in Anspruch nehmen.}
 {122}{}{Danke, jetzt fühl ich mich schon viel besser. Wiedersehn.}
 {123}{}{Meine Fähigkeiten sind beschränkt und ich kann dir hier nicht weiterhelfen.}
-{124}{}{[Weiter]}
+{124}{}{[Mehr]}
 {125}{}{Diese Art von Heilung brauchst du nicht.}
-{126}{}{[Weiter]}
-{127}{}{Ahh...Du kennst die heilende Wirkung dieser beiden Pflanzen. Das kostet nur} # continue at 150
+{126}{}{[Mehr]}
+{127}{}{Ahh...Du kennst die heilende Wirkung dieser beiden Pflanzen. Das kostet nur}
 {128}{}{Bitte misch die beiden Pflanzen für mich.}
 {129}{}{Vielleicht später. Tschüß.}
 {130}{}{[Du siehst zu, wie er die beiden Pflanzen vorsichtig zerstößt und mischt und dir dann die richtige Dosis des Pulvers gibt.]}
@@ -44,7 +44,7 @@
 {143}{}{Ungläubiger!}
 {144}{}{Warum greifst du uns an?}
 {145}{}{Ich werd die Sippe mit meinem Leben verteidigen!}
-{146}{}{Wie kannst du es nur wagen, unsre Gastfreundschaft zu mißbrauchen.}
+{146}{}{Wie kannst du es wagen unsere Gastfreundschaft so zu verletzen.}
 {147}{}{Verschwinde!}
 {148}{}{Hau ab.}
 {149}{}{Wir sind ein friedlicher Stamm.}

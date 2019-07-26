@@ -15,7 +15,7 @@
 {114}{}{Je ne suis pas du même avis, vieillard. Je doute que TOI tu puisses m'apprendre quelque chose. Au revoir.}
 {115}{}{De la science douce, pardi. L'art du sport.}
 {116}{}{Euh, l'art ? Tu parles de magie !? Tu peux m'apprendre des formules magiques ?}
-{117}{}{De quoi parlez-vous ?}
+{117}{}{De quoi parles-tu ?}
 {118}{}{[Il sourit franchement.] Juré craché, je pourrais te parler des lutins, des esprits, des sorciers, tout ça. Ca te plairait ?}
 {119}{}{Ca a l'air cool. C'est quand tu veux.}
 {120}{}{La boxe, l'art viril du corps à corps. C'est ce que je veux dire.}
@@ -36,7 +36,7 @@
 {135}{}{J'sais pas pourquoi mais j'ai l'impression que tu te moques de moi.}
 {136}{}{Euh, je vois que tu es un homme très occupé. A plus tard.}
 {137}{}{[Il te regarde de haut.] P'têt ben. P'têt ben. C'est toi qui vois.}
-{138}{}{Au revoir.}
+{138}{}{Entendu. Au revoir.}
 {139}{}{Ben, p'têt ben que je l'suis. Mais en tout cas t'as été plutôt cool. Tiens, prends une bière, j'te l'offre, pour ne pas l'avoir mal pris.}
 {140}{}{Merci. Au fait, que disiez-vous sur la science douce ?}
 {141}{}{J'en veux pas de ta bière. J'en sais plus que toi, vieil alcoolique. Au revoir.}

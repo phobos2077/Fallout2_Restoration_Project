@@ -3,8 +3,6 @@
  absichtlich aufeinandergehäuft worden.}
 {102}{}{Nur ein Haufen Steine.}
 {103}{}{Hey! Ich hab einen Schraubenschlüssel unter den Steinen gefunden.}
-{104}{}{Hier gibt es sonst nichts.}
-
-#added by killap
+{104}{}{Sonst ist hier nichts.}
 {110}{}{Hey! Ich finden Werkzeug.}
 {111}{}{Ich nix mehr finden Schatz.}

@@ -32,7 +32,7 @@
 {130}{}{Eindringlinge! Alarm!}
 {131}{}{Lauft um euer Leben! Die Wilden sind los!}
 {132}{}{Wache! Hiiiiiiilllllffeeeee!}
-{133}{}{Alarm, Eindringlinge! Alarm, Eindringlinge!}
+{133}{}{Alarm! Eindringlinge! Alarm! Eindringlinge!}
 {134}{}{Stillegen? Bist du wahnsinnig. *Meinen* Reaktor legst du nicht still.}
 {135}{}{Oh doch. Du sagst mir jetzt lieber wie, oder ich lege dich still, für immer.}
 {136}{}{Sagte ich stillegen? Tut mir leid, ich wollte nur wissen, wie der Reaktor funktioniert.}
