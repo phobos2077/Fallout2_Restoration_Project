@@ -1,0 +1,35 @@
+ // Map vars for Navarro Map
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Replace                           :=0;     //      (0)
+MVAR_Plans                             :=0;     //      (1)
+MVAR_Snookie                           :=0;     //      (2)
+MVAR_See_Me                            :=0;     //      (3)
+MVAR_Exterminate                       :=0;     //      (4)
+MVAR_Clean                             :=0;     //      (5)
+MVAR_Secure                            :=0;     //      (6)
+MVAR_Made_Car                          :=0;     //      (7)
+MVAR_Open_Sesame                       :=0;     //      (8)
+MVAR_Touched                           :=0;     //      (9)
+MVAR_Exit                              :=0;     //     (10)
+MVAR_Doctor_Dead                       :=0;     //     (11)
+MVAR_Door                              :=0;     //     (12)
+MVAR_Pass                              :=0;     //     (13)
+MVAR_Gate                              :=0;     //     (14)
+MVAR_Xarn_Door                         :=0;     //     (15)
+MVAR_Fight                             :=0;     //     (16)
+MVAR_Argument                          :=0;     //     (17)
+MVAR_Take_It                           :=0;     //     (18)
+MVAR_Quincy_Allows_Plans               :=0;     //     (19)
+MVAR_Get_Armor                         :=0;     //     (20)
+MVAR_Deathclaw_Allowed                 :=0;     //     (21)
+MVAR_Xarn_In_Party                     :=0;     //     (22)
+MVAR_Med_Guard_Dead                    :=0;     //     (23)
+MVAR_Guard_Shift                       :=0;     //     (24)
+MVAR_Verti_Satellite_Alignment         :=0;     //     (25)
+MVAR_Verti_Status                      :=0;     //     (26)

@@ -1,0 +1,15 @@
+ // Map vars for EPA Level 7
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Field_1                        :=0;     //      (0)
+MVAR_Kitsune_Free					:=0;     //      (1)
+MVAR_Dex_Free        				:=0;     //      (2)
+MVAR_Cat_Jules_Free                 :=0;     //      (3)
+MVAR_Read_Kitsune_Bio               :=0;     //      (4)
+MVAR_Read_Dex_Bio                   :=0;     //      (5)
+MVAR_Read_Cat_Jules_Bio             :=0;     //      (6)

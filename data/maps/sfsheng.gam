@@ -1,0 +1,12 @@
+ // Map vars for Dr. Sheng's hideout (San Francisco area)
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Attack_Player                        :=0;     //      (0)
+MVAR_Met_Sheng                            :=0;     //      (1)
+MVAR_Failed_Creature_Count                :=8;     //      (2)
+MVAR_Open_Lab_Door                        :=0;     //      (3)

@@ -1,0 +1,15 @@
+//      *** Created by Fallout Script Editor. ***
+
+// Map vars for hubstash.map Map.
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+// All Map Vars need to start w/ MVAR_
+
+MVAR_Attack_Player                     :=0;     //      (0)
+MVAR_Stash_Enter		       :=0;     //      (1)
+MVAR_Guard_Time			       :=0;     //      (2)
+MVAR_Room_Empty			       :=0;     //      (3)
+MVAR_Made_Car                          :=0;     //      (4)

@@ -1,0 +1,776 @@
+;
+; City datafile for worldmap, etc.
+; Fallout 2
+;
+
+
+;
+;   This information is the default, starting information, but
+; in actual game play, it will be saved out locally to the
+; individual savegame.  This allows us to have some locations
+; that have random-by-game positions.
+;   Note that this could cause code headaches if the bounding
+; circles overlap!
+;
+
+;   Code determines how many "Areas" there are based on how many
+; are in this file.  So there are *2* digits in city segment #
+; in order to preserve the ordering of the segments!
+
+;   Note: All areas are assumed to have at *least* one (ON) entrance!
+; If none is found, the system will generate one for you.  If there
+; aren't any that are *ON*, then it will force the first one on anyway.
+
+
+
+[Area 00]                ; Arroyo
+area_name=Arroyo
+   ; Note: City names are kept in the Worldmap.msg message file
+;world_pos=173,122        ; Absolute position? ; SAVED
+world_pos=184,133        ; Absolute position? ; SAVED
+start_state=On           ; Starting state     ; SAVED
+   ; Small/Medium/Large
+size=Medium               ; Size of circle (city/town/etc.) (large/etc.)
+townmap_art_idx=156       ; Fid num index for the townmap art
+townmap_label_art_idx=370 ; Fid num index for the townmap label
+
+   ; Starting state, xpos, ypos, map index, elevation, tile_num, orientation
+   ;    (state is SAVED)
+   ; Note: entrance_# -- # is entrance value for map script
+entrance_0=On,350,275,Arroyo Bridge,-1,-1,3  ; Etc.
+entrance_1=On,280,175,Arroyo Village,-1,-1,0
+; WIP! This is a gross work-around!
+;entrance_2=Off,-1,-1,Arroyo Caves,-1,-1,0
+entrance_2=On,200,90,Arroyo Temple,-1,-1,0
+entrance_3=Off,100,150,Arroyo Wilderness,-1,-1,0
+entrance_4=Off,-1,-1,Arroyo Caves,-1,-1,0
+
+
+[Area 01]                ; The Den
+area_name=Den
+world_pos=473,272	 ;573,222
+start_state=On
+size=Large
+townmap_art_idx=160
+townmap_label_art_idx=372
+entrance_0=On,124,293,Den Business 1,-1,-1,0
+entrance_1=Off,256,334,Den Business 2,-1,-1,0
+entrance_2=Off,110,360,Den Residential 1,-1,-1,0
+
+
+[Area 02]                ; Klamath
+area_name=Klamath
+world_pos=373,122
+start_state=On
+size=Large
+townmap_art_idx=158
+townmap_label_art_idx=377
+entrance_0=On,309,203,Klamath Downtown,-1,-1,0
+entrance_1=Off,155,264,Klamath Mall,-1,-1,0
+entrance_2=Off,-1,-1,Klamath Rat Caves,-1,-1,0
+entrance_3=Off,292,315,Klamath Trapping Caves,-1,-1,0
+entrance_4=Off,-1,-1,Klamath Grazing Area,-1,-1,0
+entrance_5=Off,-1,-1,Klamath Canyon,-1,-1,0
+
+
+[Area 03]                ; Modoc
+area_name=Modoc
+world_pos=923,272
+start_state=On
+size=Large
+townmap_art_idx=159
+townmap_label_art_idx=379
+entrance_0=On,130,150,Modoc Main Street,-1,-1,0
+entrance_1=Off,350,150,Modoc Bed And Breakfast,-1,-1,0
+entrance_2=Off,130,210,Modoc: Grisham's Brahmin Pastures,-1,-1,0
+entrance_3=Off,350,210,Modoc: Farrel's Garden,-1,-1,0
+entrance_4=Off,130,300,Modoc: Down the Shitter,-1,-1,0
+entrance_5=Off,350,300,Modoc: Town Hall,-1,-1,0
+
+
+[Area 04]                ; Vault City
+area_name=Vault City
+world_pos=1223,322
+start_state=On
+size=Large
+townmap_art_idx=453
+townmap_label_art_idx=387
+entrance_0=On,405,265,Vault City Courtyard,-1,-1,0
+entrance_1=Off,147,160,Vault City Downtown,0,29718,5
+entrance_2=Off,-1,-1,Vault City Council,-1,-1,0
+entrance_3=Off,-1,-1,Vault City Vault,-1,-1,0
+
+
+[Area 05]                ; Gecko
+area_name=Gecko
+world_pos=1273,222
+start_state=On
+size=Large
+townmap_art_idx=161
+townmap_label_art_idx=375
+entrance_0=On,51,169,Gecko Settlement,-1,-1,0
+entrance_1=Off,-1,-1,Gecko Power Plant,-1,-1,0
+entrance_2=Off,282,173,Gecko Junkyard,-1,-1,0
+entrance_3=Off,-1,-1,Gecko Access Tunnels,-1,-1,0
+
+
+[Area 06]                ; Broken Hills
+area_name=Broken Hills
+world_pos=1173,872
+start_state=On
+size=Large
+townmap_art_idx=157
+townmap_label_art_idx=376
+entrance_0=On,125,276,Broken Hills 1,-1,-1,0
+entrance_1=Off,298,283,Broken Hills 2,-1,21948,0
+
+
+[Area 07]                ; New Reno
+area_name=New Reno
+world_pos=923,922
+start_state=On
+size=Large
+townmap_art_idx=163
+townmap_label_art_idx=382
+entrance_0=On,230,300,New Reno 1,0,25105,5
+entrance_1=Off,230,210,New Reno 2,0,10307,2
+entrance_2=Off,100,210,New Reno 3,0,20720,0
+entrance_3=Off,360,210,New Reno 4,0,17866,3
+entrance_4=Off,360,100,New Reno Chop Shop,-1,-1,0
+entrance_5=Off,-1,-1,New Reno Boxing Arena,-1,-1,0
+entrance_6=Off,-1,-1,New Reno VB,-1,-1,0
+
+
+[Area 08]                ; Sierra Army Base
+area_name=Sierra Army Base
+world_pos=923,822
+start_state=Off
+size=Medium
+townmap_art_idx=164
+townmap_label_art_idx=369
+entrance_0=On,130,150,Sierra Army Depot: The Battlefield,-1,-1,0
+entrance_1=Off,-1,-1,Sierra Army Depot: Levels 1-3,-1,-1,0
+entrance_2=Off,-1,-1,Sierra Army Depot: Levels 1-3,1,19500,0
+entrance_3=Off,-1,-1,Sierra Army Depot: Levels 1-3,2,20310,0
+entrance_4=Off,-1,-1,Sierra Army Depot: Level 4,-1,-1,0
+
+
+[Area 09]                ; Vault 15
+area_name=Vault 15
+world_pos=1284,1433
+start_state=On
+size=Medium
+townmap_art_idx=167
+townmap_label_art_idx=386
+entrance_0=On,180,273,The Squat A,-1,-1,0
+entrance_1=Off,-1,-1,The Squat A,-1,-1,0
+entrance_2=Off,-1,-1,The Squat B,-1,-1,0
+entrance_3=Off,-1,-1,Vault 15,-1,-1,0
+entrance_4=Off,-1,-1,Vault 15 East Entrance,-1,-1,0
+
+
+[Area 10]                ; New California Republic
+area_name=NCR
+world_pos=1123,1422
+start_state=On
+size=Large
+townmap_art_idx=162
+townmap_label_art_idx=380
+entrance_0=On,240,125,NCR: Bazaar,-1,-1,0
+entrance_1=Off,-1,-1,NCR: Council 2,-1,-1,0
+entrance_2=Off,240,210,NCR: Downtown,-1,12316,0
+entrance_3=Off,300,340,NCR: Council 1,-1,-1,0
+entrance_4=Off,150,250,NCR: Westin Ranch,-1,-1,0
+entrance_5=Off,-1,-1,NCR: Grazing Lands,-1,-1,0
+
+
+[Area 11]                ; Vault 13
+area_name=Vault 13
+world_pos=984,1433
+start_state=Off
+size=Medium
+townmap_art_idx=166
+townmap_label_art_idx=385
+entrance_0=On,205,327,Vault 13 Entrance,-1,-1,0
+entrance_1=Off,190,190,Vault 13,-1,-1,0
+
+
+[Area 12]                ; Military Base
+area_name=Military Base
+world_pos=672,1422
+start_state=On
+size=Large
+townmap_art_idx=468
+townmap_label_art_idx=378
+entrance_0=On,125,58,Military Base Entrance,-1,-1,0
+entrance_1=Off,-1,-1,Military Base Levels 1-2,-1,-1,0
+entrance_2=Off,-1,-1,Military Base Levels 1-2,-1,-1,1
+entrance_3=Off,-1,-1,Military Base Levels 3-4,-1,-1,0
+entrance_4=Off,-1,-1,Military Base Levels 3-4,-1,-1,1
+
+
+[Area 13]                ; Redding
+area_name=Redding
+world_pos=673,522
+start_state=On
+size=Large
+townmap_art_idx=452
+townmap_label_art_idx=381
+entrance_0=On,160,321,Redding Downtown,-1,-1,0
+entrance_1=Off,225,200,Wanamingo Mine Entrance,0,21270,4
+entrance_2=Off,-1,-1,Wanamingo Mine Level 12,-1,-1,0
+entrance_3=Off,200,255,Redding Mine Entrance,0,27707,5
+entrance_4=Off,-1,-1,Redding Downtown Tunnels,-1,-1,0
+entrance_5=Off,-1,-1,Redding Mine Tunnels,-1,-1,0
+
+
+[Area 14]                ; San Francisco
+area_name=San Francisco
+world_pos=472,1322
+start_state=On
+size=Large
+townmap_art_idx=165
+townmap_label_art_idx=383
+entrance_0=On,365,215,San Fran China,-1,-1,0
+entrance_1=Off,425,179,San Fran Dock,-1,26900,0
+entrance_2=Off,420,127,San Fran Tanker,-1,-1,0
+entrance_3=Off,-1,-1,Shuttle Outside,-1,-1,0
+entrance_4=Off,-1,-1,Shuttle Interior,-1,-1,0
+entrance_5=Off,280,180,Elronologist Base,-1,-1,0
+entrance_6=Off,-1,-1,Shi Temple,-1,-1,0
+
+[Area 15]                ; Navarro
+area_name=Navarro
+world_pos=177,875
+start_state=Off
+size=Medium
+townmap_art_idx=450
+townmap_label_art_idx=371
+entrance_0=On,150,330,Navarro Entrance,0,28695,5
+
+[Area 16]                ; The Enclave
+area_name=Enclave
+world_pos=123,1322
+start_state=Off
+size=Large
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,130,150,Enclave Dock,-1,-1,0
+entrance_1=Off,-1,-1,Enclave Detention,-1,-1,0
+entrance_2=Off,-1,-1,Enclave End Fight,-1,-1,0
+entrance_3=Off,-1,-1,Enclave Guard Barracks,-1,-1,0
+entrance_4=Off,-1,-1,Enclave Presidential,-1,-1,0
+entrance_5=Off,-1,-1,Enclave Reactor,-1,-1,0
+entrance_6=Off,-1,-1,Enclave Trap Room,-1,-1,0
+
+
+[Area 17]                ; Abbey
+area_name=abbey
+world_pos=1332,31
+start_state=On
+size=Medium
+townmap_art_idx=475
+townmap_label_art_idx=368
+entrance_0=On,320,355,Abbey Entrance,-1,-1,0
+entrance_1=Off,-1,-1,Abbey Basement,-1,-1,0
+entrance_2=Off,-1,-1,Abbey Cave,-1,-1,0
+
+
+[Area 18]                ; Primitive Tribe
+area_name=Umbra Tribe
+world_pos=82,531
+start_state=On
+size=Medium
+townmap_art_idx=477
+townmap_label_art_idx=384
+entrance_0=On,390,296,Umbra Tribe,-1,-1,0
+entrance_1=On,250,136,Umbra Tribe,1,28710,5
+entrance_2=Off,-1,-1,Umbra Tribe Waterside,-1,-1,0
+
+
+[Area 19]                ; Environmental Protection Agency
+area_name=EPA
+world_pos=621,970
+start_state=Off
+size=Medium
+townmap_art_idx=476
+townmap_label_art_idx=374
+entrance_0=On,125,58,EPA,-1,-1,3
+entrance_1=Off,-1,-1,EPA,-1,-1,3
+entrance_2=Off,-1,-1,EPA,-1,-1,3
+entrance_3=Off,-1,-1,EPA SubLevels 1,-1,-1,3
+entrance_4=Off,-1,-1,EPA SubLevels 1,-1,-1,3
+entrance_5=Off,-1,-1,EPA SubLevels 1,-1,-1,3
+entrance_6=Off,-1,-1,EPA SubLevels 2,-1,-1,3
+entrance_7=Off,-1,-1,EPA SubLevels 2,-1,-1,3
+entrance_8=Off,-1,-1,EPA SubLevels 2,-1,-1,3
+entrance_9=Off,-1,-1,Secret Level,-1,-1,3
+
+
+[Area 20]                ; Modoc Ghost Town Sub-area
+area_name=Ghost Farm
+world_pos=990,248
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,130,150,Ghost Town: The Ghost Farm,-1,-1,0
+entrance_1=Off,-1,-1,Ghost Town: Main Cavern,-1,-1,0
+entrance_2=Off,-1,-1,Ghost Town: Underground Lake,-1,-1,0
+
+
+; NOTE: This index # CANNOT CHANGE without a code change in Worldmap.c!
+[Area 21]                ; Car out of gas Sub-area
+area_name=Car Outta Gas
+world_pos=100,100
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+;entrance_0=On,130,150,Car Outta Gas,-1,-1,0
+;townmap_art_idx=-1
+;townmap_label_art_idx=379
+entrance_0=On,130,150,Car: Desert,-1,-1,0
+
+
+[Area 22]                ; Destroyed Arroyo
+area_name=Arroyo
+world_pos=184,133
+start_state=Off
+size=Medium
+townmap_art_idx=-1
+townmap_label_art_idx=370
+entrance_0=On,345,230,Destroyed Arroyo Bridge,-1,26719,0
+
+
+[Area 23]                ; Klamath Toxic Caves
+area_name=Klamath Toxic Caves
+world_pos=330,107
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Klamath Toxic Caves,-1,-1,3
+
+
+
+[Area 24]                ; Den Slave Run Area
+area_name=Den Slave Run
+world_pos=570,310
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Den Slave Run,-1,-1,3
+
+
+
+[Area 25]                ; Raiders
+area_name=Raiders
+world_pos=1172,673
+start_state=Off
+size=Medium
+townmap_art_idx=451
+townmap_label_art_idx=474
+entrance_0=Off,350,150,Raiders Camp 1, 1, 20709, 3
+entrance_1=On,120,210,Raiders Camp 1, 0, 23114, 3
+entrance_2=Off,-1,-1,Raiders Camp 2, 0, 18937, 4
+
+[Area 26]                ; Random Encounter Desert
+area_name=Random
+world_pos=670,310
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Desert Encounter 1,-1,-1,3
+entrance_1=On,-1,-1,Desert Encounter 2,-1,-1,3
+entrance_2=On,-1,-1,Desert Encounter 3,-1,-1,3
+entrance_3=On,-1,-1,Desert Encounter 4,-1,-1,3
+entrance_4=On,-1,-1,Desert Encounter 5,-1,-1,3
+entrance_5=On,-1,-1,Desert Encounter 6,-1,-1,3
+entrance_6=On,-1,-1,Desert Encounter 7,-1,-1,3
+entrance_7=On,-1,-1,Desert Encounter 8,-1,-1,3
+entrance_8=On,-1,-1,Desert Encounter 9,-1,-1,3
+entrance_9=On,-1,-1,Desert Encounter 10,-1,-1,3
+
+[Area 27]                ; Random Encounter Mountain
+area_name=Random
+world_pos=670,310
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Mountain Encounter 1,-1,-1,0
+entrance_1=On,345,230,Cavern Encounter 0,-1,-1,0
+entrance_2=On,345,230,Mountain Encounter 2,-1,-1,0
+entrance_3=On,345,230,Cavern Encounter 1,-1,-1,0
+entrance_4=On,345,230,Cavern Encounter 2,-1,-1,0
+entrance_5=On,345,230,Cavern Encounter 3,-1,-1,0
+entrance_6=On,345,230,Cavern Encounter 4,-1,-1,0
+entrance_7=On,345,230,Cavern Encounter 5,-1,-1,0
+entrance_8=On,345,230,Mountain Encounter 3,-1,-1,0
+entrance_9=On,345,230,Mountain Encounter 4,-1,-1,0
+
+
+[Area 28]                ; Random Encounter City
+area_name=Random
+world_pos=670,310
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,City Encounter 1,-1,-1,0
+entrance_1=Off,-1,-1,City Encounter 2,-1,-1,0
+entrance_2=Off,-1,-1,City Encounter 3,-1,-1,0
+entrance_3=Off,-1,-1,City Encounter 4,-1,-1,0
+entrance_4=Off,-1,-1,City Encounter 5,-1,-1,0
+entrance_5=Off,-1,-1,City Encounter 6,-1,-1,0
+entrance_6=Off,-1,-1,City Encounter 7,-1,-1,0
+entrance_7=Off,-1,-1,City Encounter 8,-1,-1,0
+
+
+
+[Area 29]                ; Random Encounter Coast
+area_name=Random
+world_pos=670,310
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Coast Encounter 1,-1,-1,0
+entrance_1=On,345,230,Coast Encounter 2,-1,-1,0
+entrance_2=On,345,230,Coast Encounter 3,-1,-1,0
+entrance_3=On,345,230,Coast Encounter 4,-1,-1,0
+entrance_4=On,345,230,Coast Encounter 5,-1,-1,0
+entrance_5=On,345,230,Coast Encounter 6,-1,-1,0
+entrance_6=On,345,230,Coast Encounter 7,-1,-1,0
+entrance_7=On,345,230,Coast Encounter 8,-1,-1,0
+entrance_8=On,345,230,Coast Encounter 9,-1,-1,0
+entrance_9=On,345,230,Coast Encounter 10,-1,-1,0
+
+
+[Area 30]               ; Golgotha
+area_name=Golgotha
+world_pos=935,992
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,New Reno Golgatha,0,-1,-1,0
+
+
+[Area 31]		; Special Encounter Whale
+area_name=Special Whale
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Whale Encounter,0,-1,-1,0
+
+
+[Area 32]		; Special Encounter Tin Woodsman
+area_name=Special Woodsman
+world_pos=120,350
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Woodsman Encounter,-1,-1,0
+
+
+[Area 33]		; Special Encounter Big Head
+area_name=Special Head
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Head Encounter,-1,-1,0
+
+
+[Area 34]		; Special Encounter Federation Shuttle
+area_name=Special Shuttle
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Shuttle Encounter,-1,-1,0
+
+
+[Area 35]		; Special Encounter Unwashed Villagers
+area_name=Special Unwashed
+world_pos=120,350
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Unwashed Encounter,-1,-1,0
+
+
+[Area 36]		; Special Encounter Monty Python Bridge
+area_name=Special Bridge
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Bridge Encounter,-1,-1,0
+
+
+[Area 37]		; Special Encounter Cafe of Broken Dreams
+area_name=Special Cafe
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Cafe Encounter,-1,-1,0
+
+
+[Area 38]		; Special Encounter Holy Hand Grenade 1
+area_name=Special Holy 1
+world_pos=120,350
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Holy Encounter 1,-1,-1,0
+
+
+[Area 39]		; Special Encounter Holy Hand Grenade 2
+area_name=Special Holy 2
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Holy Encounter 2,-1,-1,0
+
+
+[Area 40]		; Special Encounter Guardian of Forever
+area_name=Special Guardian
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Guardian Encounter,-1,-1,0
+
+
+[Area 41]		; Special Encounter Toxic Waste Dump
+area_name=Special Toxic
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Toxic Encounter,-1,-1,0
+
+
+[Area 42]		; Special Encounter Pariahs
+area_name=Special Pariah
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Pariahs Encounter,-1,-1,0
+
+
+[Area 43]		; Special Encounter Mad Cow
+area_name=Special Brahmin
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Special Mad Brahmin Encounter,-1,-1,0
+
+
+[Area 44]		; Caravan Encounters
+area_name=Random
+world_pos=120,350
+start_state=Off
+lock_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Broken Hills Desert 1,-1,-1,0
+entrance_1=Off,-1,-1,Broken Hills Mountain 1,-1,-1,0
+
+[Area 45]		; Fake Vault 13
+area_name=Fake Vault 13a
+world_pos=1070,1260
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Cavern Encounter 6,-1,-1,0
+
+[Area 46]		; Fake Vault 13
+area_name=Fake Vault 13b
+world_pos=1070,1260
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Cavern Encounter 7,-1,-1,0
+
+[Area 47]		; areas that have no where else to go
+area_name=Shadow Worlds
+world_pos=672,972
+start_state=Off
+lock_state=On
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,345,230,Coast Encounter 11,-1,-1,0
+entrance_1=On,345,230,Coast Encounter 12,-1,-1,0
+entrance_2=On,345,230,Desert Encounter 11,-1,-1,0
+entrance_3=On,345,230,Desert Encounter 12,-1,-1,0
+entrance_4=On,345,230,Desert Encounter 13,-1,-1,0
+entrance_5=On,345,230,Mountain Encounter 5,-1,-1,0
+entrance_6=On,345,230,Mountain Encounter 6,-1,-1,0
+entrance_7=On,-1,-1,In Game Movie Map 1,-1,-1,0
+entrance_8=On,-1,-1,Bess Dead, -1,-1,0
+
+[Area 48]
+area_name=Reno Stables
+world_pos=953,882
+start_state=Off
+;lock_state=on
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,130,410,New Reno Stables,-1,-1,0
+
+[Area 49]
+area_name=Village
+world_pos=1235,272
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Village,-1,-1,0
+
+[Area 50]
+area_name=Slaver Camp
+world_pos=237,400
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Slaver Camp,-1,-1,0
+
+[Area 51]
+area_name=Hubologist Stash
+world_pos=500,1395
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Hubologist Stash,-1,-1,0
+
+[Area 52]
+area_name=Ranger Safe House 1
+world_pos=343,200
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Ranger Safe House 1,-1,-1,0
+
+[Area 53]
+area_name=Ranger Safe House 2
+world_pos=600,700
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Ranger Safe House 2,-1,-1,0
+
+[Area 54]
+area_name=Ranger Safe House 3
+world_pos=1023,988
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Ranger Safe House 3,-1,-1,3
+
+[Area 55]
+area_name=Easter Egg
+world_pos=475,1332
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Easter Egg,-1,-1,0
+
+[Area 56]
+area_name=Merchant
+world_pos=83,531
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Merchant,-1,-1,0
+
+[Area 57]
+area_name=Vault Village Merchant
+world_pos=1236,272
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Vault Village Merchant,-1,-1,0
+
+[Area 58]
+area_name=Shi Sub
+world_pos=465,1322
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Shi Sub,-1,-1,0
+
+[Area 59]
+area_name=San Fran Dr. Sheng
+world_pos=520,1430
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,San Fran Dr. Sheng,-1,-1,0
+
+[Area 60]
+area_name=Gecko Enclave Patrol
+world_pos=1250,275
+start_state=Off
+size=Small
+townmap_art_idx=-1
+townmap_label_art_idx=-1
+entrance_0=On,-1,-1,Gecko Enclave Patrol,-1,-1,0

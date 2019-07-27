@@ -1,0 +1,13 @@
+ // Map vars for EPA Main
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Gave_Float                           :=0;    //      (0)
+MVAR_Cleaned_Fan                          :=0;    //      (1)
+MVAR_Planted_Seeds                        :=0     //      (2)
+MVAR_Grow_Time                            :=0     //      (3)
+MVAR_Sprouted                             :=0     //      (4)

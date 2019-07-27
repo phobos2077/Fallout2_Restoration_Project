@@ -1,0 +1,13 @@
+//      *** Created by Fallout Script Editor. ***
+
+// Map vars for denres1.map Map.
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+// All Map Vars need to start w/ MVAR_
+MVAR_Johnny_Move                          :=0;     //      (0)
+MVAR_Dealer_Attacked                      :=0;     //      (1)
+MVAR_Squaters_Unites                      :=0;     //      (2)
+MVAR_Squater_Count                        :=0;     //      (3)

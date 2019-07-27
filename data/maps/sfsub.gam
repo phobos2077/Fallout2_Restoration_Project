@@ -1,0 +1,14 @@
+//      *** Created by Fallout Script Editor. ***
+
+// Map vars for sfsub.map Map.
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+// All Map Vars need to start w/ MVAR_
+
+
+MVAR_Attack_Player			:=0;     //      (0)
+MVAR_Torpedo_Permission	    :=0;     //      (1)
+MVAR_Explosive_Timer		:=0		 //      (2)

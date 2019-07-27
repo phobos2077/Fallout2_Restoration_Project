@@ -1,0 +1,15 @@
+//      *** Created by Fallout Script Editor. ***
+
+// Map vars for klaratcv.map Map.
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+// All Map Vars need to start w/ MVAR_
+
+MVAR_CVN1                           :=0;    //      (0)
+MVAR_CVN2                           :=0;    //      (1)
+MVAR_CVN3                           :=0;    //      (2)
+MVAR_CVN4                           :=0;    //      (3)
+MVAR_RATGOD_TRAPPED                 :=0;    //      (4)

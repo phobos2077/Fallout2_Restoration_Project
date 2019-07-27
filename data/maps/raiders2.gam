@@ -1,0 +1,12 @@
+ // Map vars for Raiders Map 2
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+MVAR_Been_Here_1                                :=0;   //  (0)
+MVAR_Been_Here_2                                :=0;   //  (1)
+MVAR_Been_Here_3                                :=0;   //  (2)
+MVAR_Scout_Left                                 :=0;   //  (3)
+MVAR_Raiders_Leave_Time                         :=0;   //  (4)

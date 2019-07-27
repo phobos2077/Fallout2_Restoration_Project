@@ -1,0 +1,42 @@
+ // Map vars for Broken Hills Map
+
+ // Comments
+
+//MAP_GLOBAL_VARS:
+MAP_GLOBAL_VARS:
+//GLOBAL                                        NUMBER
+
+MVAR_Town_Rep                          :=0;     //      (0)
+MVAR_Round_Of_Drinks                   :=0;     //      (1)
+MVAR_Arm_Wrestle_Success               :=0;     //      (2)
+MVAR_Arm_Wrestle_Fail                  :=0;     //      (3)
+MVAR_Just_Had_Sex                      :=0;     //      (4)
+MVAR_Stealing                          :=0;     //      (5)
+MVAR_Caravan                           :=0;     //      (6)
+MVAR_Boss                              :=0;     //      (7)
+MVAR_Hench_Count                       :=0;     //      (8)
+MVAR_Female_Names_Used                 :=0;     //      (9)
+MVAR_Male_Names_Used                   :=0;     //      (10)
+MVAR_Hench_Killed                      :=0;     //      (11)
+MVAR_Rank_Killed                       :=0;     //      (12)
+MVAR_checked                           :=0;     //      (13)
+MVAR_Made_Car                          :=0;     //      (14)
+MVAR_Lockpick_Attempt                  :=0;     //      (15)
+MVAR_Count_Lockpick                    :=0;     //      (16)
+
+MVAR_Know_Liz_Guns                     :=0;     //      (17)
+MVAR_Stealing_From_Liz                 :=0;     //      (18)
+MVAR_Player_Tried_Basement             :=0;     //      (19)
+MVAR_Phil_Told_About_Guns              :=0;     //      (20)
+MVAR_Jacob_Told_About_Guns             :=0;     //     (21)
+MVAR_Basement_Permission               :=0;     //     (22)
+MVAR_Liz_Dead                          :=0;     //     (23)
+MVAR_Aileen_Dead                       :=0;     //      (24)
+MVAR_Jacob_Dead                       :=0;     //      (25)
+MVAR_Manson_Dead                       :=0;     //      (26)
+MVAR_Frank_Dead                       :=0;     //      (27)
+MVAR_Phil_Dead                        :=0;      //      (28)
+MVAR_Female_Mutant_Dead               :=0;      //      (29)
+MVAR_Dwarf_In_Well                    :=0;      //      (30)
+
+MVAR_Chad_Draw                        :=0;      //      (31)
