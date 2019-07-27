@@ -5,6 +5,8 @@ This page lists various items that are deliberate developers' decisions and/or t
 However, if you present a strong case why a decision is wrong, it might be reversed.
 The chance is slim, but it improves if you're willing to implement it **yourself** and submit a pull request.
 
+- General:
+  - Appearance mod is untranslated. Current build system doesn't let to do this easily.
 - EPA:
   - Holograms show on motion sensor.
     - Just too minor to bother.
