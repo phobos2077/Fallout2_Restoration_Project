@@ -4,8 +4,8 @@
 {103}{}{Kdo je tam?}
 {104}{}{Jdi dál.}
 {105}{}{Na co èumíš?}
-{106}{}{Dej si odchod.}
-{107}{}{Pøestaò tady okounìt.}
+{106}{}{Táhni odsud.}
+{107}{}{ádné okounìní.}
 {108}{}{Pùjdeš do hlášení.}
 {109}{}{Vra se zpátky do práce.}
 {110}{}{Máš povolení pro tuhle oblast?}

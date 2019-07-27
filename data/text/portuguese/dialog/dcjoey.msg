@@ -61,7 +61,7 @@
 {206}{}{Er, não... eu não penso assim. Eu preciso de algo mais.}
 {207}{}{Você vai voltar.}
 {208}{}{Talvez.}
-{209}{}{Don't count on it.}
+{209}{}{Não conte com isso.}
 {210}{}{Aguarde! Posso perguntar uma coisa?}
 {211}{}{Ninguém fala assim comigo!}
 {212}{}{Eu apenas fiz. Você faz mais do que falar?}

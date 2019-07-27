@@ -1,50 +1,50 @@
 {100}{}{Você vê um terminal de computador.}
-{101}{}{You see the biology workstation.}
-{102}{}{You see a functional computer terminal.}
-{103}{}{Greetings. Please confirm your identity.}
-{104}{}{[Oooh! Look at the flashing lights!]}
-{105}{}{::guess password::}
+{101}{}{Você vê a estação biológica.}
+{102}{}{Você vê um terminal de computador em funcionamento.}
+{103}{}{Olá. Por favor, confirme sua identidade.}
+{104}{}{[Oooh! Olhe todas essas luzes ofuscantes!]}
+{105}{}{::adivinhar a senha::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
-{107}{}{::hack into computer::}
-{108}{}{Log Out}
-{109}{}{Data to find: -Botany program- -Genetic program- -Xeno program-}
-{110}{}{Botany program.}
-{111}{}{Genetic program.}
+{107}{}{::hackear o computador::}
+{108}{}{Desconectar}
+{109}{}{Informação a procurar: -Programa Botânico- -Programa Genético- -Programa Xeno-}
+{110}{}{Programa Botânico.}
+{111}{}{Programa Genético.}
 {112}{}{Xeno program.}
-{113}{}{Recent Personnel Notes.}
-{114}{}{Deactivate workstation.}
-{115}{}{Incorrect password. Please speak to the system administrator. Goodbye.}
-{116}{}{::hack into computer::}
-{117}{}{::leave::}
-{118}{}{Intruder alert activated. Shutting down. Have a nice day.}
-{119}{}{-done-}
+{113}{}{Nota pessoal.}
+{114}{}{Desativar estação.}
+{115}{}{Senha incorreta. Favor falar com o administrador do sistema. Até logo.}
+{116}{}{::hackear o computador::}
+{117}{}{::sair::}
+{118}{}{Alerta de intruso ativado. Desligando. Tenha um bom dia.}
+{119}{}{-pronto-}
 {120}{}{(after about twenty minutes, you discover this: Initial results of botanical radiation disruption prove unpromising. Dr. Sheng develops radiation resistant plant-life - unpleasant side-effects follow. Resultant plant life deemed too dangerous. Sheng insists on pursuing line and mixing it with genetic program.)}
-{121}{}{Genetic program.}
+{121}{}{Programa Genético.}
 {122}{}{Xeno program.}
-{123}{}{Recent Personnel Notes.}
+{123}{}{Nota pessoal.}
 {124}{}{Voltar.}
-{125}{}{(after about twenty minutes you piece together this information: Using the basics of FEV virus, Dr. Long Wang is convinced of success in creating mutant soldiers. He creates a serum providing interesting results with rodent experiments. He injects himself and dissolves into a puddle of goo. Dr. Sheng disables line of inquiry. With the death of Dr. Long, Dr. Sheng is in charge. Sheng demands focus on radiation-consuming plant life.)}
-{126}{}{Botany program.}
+{125}{}{(cerca de vinte minutos depois você juntou estas informações: Usando o básico do vírus FEV, Dr. Long Wang está convencido do sucesso em criar soldados mutantes. Ele criou um soro que forneceu resultados interessantes em roedores. Ele injetou em si mesmo e se desfez em gosma. Dr. Sheng desativou os inquéritos. Com a morte do Dr. Long, Dr. Shendg está no comando. Sheng exige foco na radiação consumida por plantas.)}
+{126}{}{Programa Botânico.}
 {127}{}{Xeno program.}
-{128}{}{Recent Personnel Notes.}
+{128}{}{Nota pessoal.}
 {129}{}{Voltar.}
-{130}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative."
+{130}{}{"O conteúdo no qual esperávamos estabelecer séries de experimentos significativos desapareceram, presumo que ainda destruídos ou roubados por Hubologistas. Investigações mais profundas fracassaram. Until such time as further specimens are obtained, this database will remain inoperative."#essa última parte aí tá osso.
 - Dr. Sheng}
-{131}{}{Botany program.}
-{132}{}{Genetic program.}
-{133}{}{Recent Personnel Notes.}
+{131}{}{Programa Botânico.}
+{132}{}{Programa Genético.}
+{133}{}{Nota pessoal.}
 {134}{}{Voltar.}
-{135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
-                                                       Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
-                                           Dr. Long: Recently deceased via FEV serum.}
-{136}{}{Botany program.}
-{137}{}{Genetic program.}
+{135}{}{Dr. Wong: Novo cabeça do Projeto Biológico, junto com a Pesquisa Física.
+Dr. Sheng: Cabeça do Projeto Biológico até dois meses atrás. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
+Dr. Long: Recently deceased via FEV serum.}
+{136}{}{Programa Botânico.}
+{137}{}{Programa Genético.}
 {138}{}{Xeno program.}
 {139}{}{Voltar.}
-{140}{}{Station deactivated.}
-{141}{}{Activate station.}
-{142}{}{-leave-}
-{143}{}{[Your ham-fisted approach across the keys triggers the correct password... your luck is incredible!]}
+{140}{}{Estação desativada.}
+{141}{}{Ativar estação.}
+{142}{}{-sair-}
+{143}{}{[Seus dedos digitam a senha correta nas teclas... sua sorte é incrível!]}
 {144}{}{-mais-}
-{145}{}{The computer does not respond to any input.}
-{146}{}{You can't seem to find anywhere to put that.}
+{145}{}{O computador não responde a nenhum comando.}
+{146}{}{Você não consegue achar nenhum lugar pra colocar isso.}

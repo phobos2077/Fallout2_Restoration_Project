@@ -10,7 +10,7 @@
 {109}{}{Co...? Ghoul! Stráe!}
 {110}{}{Dobrı den, Kapitáne.}
 {111}{}{Vault City vdy zvítìzí, Kapitáne.}
-{112}{}{Dobrı den, Obèane.}
+{112}{}{Zdravíèko, Obèane.}
 {113}{}{Vault City vdy zvítìzí, Obèane.}
 {114}{}{Musím poslat seznam pøídìlù do koloniálù A a B...}
 {115}{}{Musím sepsat nejnovìjší soupis majetku a zadat je do poèítaèe...}
@@ -51,16 +51,16 @@
 {150}{}{Jistì. Co máte na mysli?}
 {151}{}{Gek?}
 {152}{}{Odbelhat se.}
-{153}{}{Co je tohle za místo?}
+{153}{}{Co e je tohle za místo?}
 {154}{}{Nemáte náhodou na skladì GECK?}
-{155}{}{Valerie z Centra údrby potøebuje novı montání klíè a nìjaké kleštì.}
+{155}{}{Valerie z Centra Údrby potøebuje novı montání klíè a nìjaké kleštì.}
 {156}{}{Radní McClure mi øekl, e byste mìl mít... eh, jakousi hydro-magneto-vìcièku, kterou si mùu vzít na opravu elektrárny v Gecku.}
 {157}{}{Radní McClure mi øekl, e byste mìl mít na skladì hydroelektrickı regulátor magnetosféry, kterı si mùu vzít.}
 {158}{}{První Obèanka mì sem poslala pro odmìnu.}
 {159}{}{Dnes nic.}
 {160}{}{Toto je Obchodní centrum. Máme standardní zboí... základní ivotní potøeby, knihy, pøíruèky "Jak na to", náøadí, Stimpaky, lékaøské potøeby a tak podobnì.}
 {161}{}{To zní dobøe. Mùu vidìt, co máte na skladì?}
-{162}{}{Máte GECK?}
+{162}{}{Nemáš GECK?}
 {163}{}{Valerie z Centra Údrby potøebuje novı montání klíè a nìjaké kleštì.}
 {164}{}{Radní McClure mi øekl, e byste mìl mít... eh, jakousi hydro-magneto-vìcièku, kterou si mùu vzít na opravu elektrárny v Gecku.}
 {165}{}{Radní McClure mi øekl, e byste mìl mít na skladì hydroelektrickı regulátor magnetosféry, kterı si mùu vzít.}
@@ -75,7 +75,7 @@
 {174}{}{Radní McClure mi øekl, e byste mìl mít na skladì hydroelektrickı regulátor magnetosféry, kterı si mùu vzít.}
 {175}{}{První Obèanka mì sem poslala pro odmìnu.}
 {176}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{177}{}{Tak fajn. Sbohem.}
+{177}{}{To je jedno. Sbohem.}
 {178}{}{Mùete zkusit test Obèanství. Prokonzul Gregory ho dá kadému venkovanovi, kterı se chce stát Obèanem. Ale radìji si nejdøív promluvte s První Obèankou Lynette. Ona to tu tak nìjak øídí.}
 {179}{}{Dobøe. Kde ji najdu?}
 {180}{}{Aha. Nebude vám vadit, kdy se zeptám na nìco jiného?}
@@ -92,7 +92,7 @@
 {191}{}{Eh... vlastnì teï nemám na nakupování èas. Vrate mi zpìt moje doklady a já si pùjdu svojí cestou.}
 {192}{}{Dobøe. Jsem si jistı, e je vše v poøádku.}
 {193}{}{No... eh, dobøe.}
-{194}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
+{194}{}{Nebude ti vadit, kdy se na nìco zeptám?}
 {195}{}{Uvidíme se pozdìji.}
 {196}{}{Všechno v poøádku. Tady jsou vaše doklady. Co pro vás mohu udìlat?}
 {197}{}{Ukate mi co máte na skladì.}
@@ -104,18 +104,18 @@
 {203}{}{Vlastnì nevadí, vrátím se pro nìj pozdìji.}
 {204}{}{Dobøe, tady to máte. Jeden Hy-Mag. Vypadá to jako lávová lampa, e ano? Pozor, neupuste to... je to dost køehké.}
 {205}{}{Poslyšte, co máte ještì na skladì?}
-{206}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
+{206}{}{Nebude ti vadit, kdy se na nìco zeptám?}
 {207}{}{Díky. Moná do toho budu civìt nìkolik hodin, ne to odnesu do elektrárny v Gecku.}
 {208}{}{Mám to. Díky za souèástku.}
 {209}{}{Jo, První Obèanka øíkala, e se zastavíte... Kapitáne. (Mrkne.) Musím øíct, Kapitáne, e na vás èeká poøádná KRÁSKA.}
 {210}{}{Jo, První Obèanka øíkala, e se zastavíte. No, musím øíct, pøíteli, e na vás èeká poøádná KRÁSKA.}
-{211}{}{Co je to?}
+{211}{}{Co to je?}
 {212}{}{Vlastnì chci, abyste mi to schoval. Vyzvednu si to pozdìji.}
 {213}{}{Unikátní Heckler&Koch G11, jedna z nejlepších útoènıch zbraní, která kdy byla vyrobena... (Vezme zbraò a podá ti ji.) ...støílí beznábojnicové 4.7 mm støelivo a má 50ti-ranı zásobník. Kdy zpívá, lidi poslouchají.}
 {214}{}{To vìøím. Díky.}
 {215}{}{ádnı problém. A tady máte ještì nìco ode mì... pár granátù. Berte to jako podìkování za zlikvidování tìch nájezdníkù.}
 {216}{}{Vıbornì. Mùu se podívat, co máte na skladì?}
-{217}{}{Mùu se zeptat na nìco jiného?}
+{217}{}{Mùu se vás ještì na nìco zeptat?}
 {218}{}{Díky. Budou se hodit.}
 {219}{}{Bude to všechno?}
 {220}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
@@ -126,6 +126,5 @@
 {225}{}{!}
 {226}{}{, e? Poèkejte chvíli, dám vám ten hydroelektrickı magneto... eh, Hy-Mag.}
 {227}{}{, ano? Poèkejte chvíli, dám vám ten hydroelektrickı magneto... eh, Hy-Mag.}
-
 {228}{}{Díky.}
 {229}{}{[Pokraèovat]}

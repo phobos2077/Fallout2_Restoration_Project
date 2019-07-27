@@ -26,8 +26,8 @@
 {125}{}{Jenom procházím a myslím, že pùjdu dál. Sbohem.}
 {126}{}{Zdravím, já jsem Marge. Marge LeBarge. Jsem majitelka tohohle dolu.}
 {127}{}{Co pro tebe mùže Marge udìlat?}
-{128}{}{Co tady tìžíte?}
-{129}{}{Neslyšela jsi náhodou o vìci zvané GECK? Souprava k vytvoøení rajské zahrady?}
+{128}{}{Co se tady tìží?}
+{129}{}{Neslyšel jsi náhodou o vìci zvané GECK neboli "Soupravì k vytvoøení rajské zahrady"?}
 {130}{}{Narodila ses v Reddingu?}
 {131}{}{Nevíš o nìjaké práci nebo o nìèem, co by se ve mìstì dalo dìlat?}
 {132}{}{Jenom se tak dívám. Sbohem.}
@@ -38,7 +38,7 @@
 {137}{}{Aha, díky. To bude všechno. Sbohem.}
 {138}{}{Samozøejmì. Každý má rád zlato. Pokud sháníš bližší informace, promluv si s vùdcem karavany, Jamesem Hoffym.}
 {139}{}{Chci se ještì na nìco zeptat.}
-{140}{}{Díky, promluvím si s ním. Sbohem.}
+{140}{}{Díky, stavím se. Sbohem.}
 {141}{}{GECK? Souprava na vytvoøení rajské zahrady? To zní opravdu úžasnì, ale nemyslíš, že kdybych nìco takového mìla, nemusela bych se poøád hrabat v zemi?}
 {142}{}{Chci se ještì na nìco zeptat.}
 {143}{}{Jen se ptám. Sbohem.}
@@ -49,7 +49,7 @@
 {148}{}{No, drby jsou všude... poslyš, mám ještì nìco na práci.}
 {149}{}{Ještì se k nim vrátíme, ale nejdøív se chci zeptat na nìco jiného.}
 {150}{}{Povìz mi nìjaké drby.}
-{151}{}{O co jde?}
+{151}{}{A co tam teda je?}
 {152}{}{To urèitì máš. Promiò, ale taky mám ještì spoustu práce. Sbohem.}
 {153}{}{Ve svém dole mám velikou dùlní mašinu. Problém je v tom, že její kontrolní èip jaksi dosloužil. Abych mohla expandovat, potøebuju získat nový.}
 {154}{}{To je opravdu zajímavé, ale co to má se mnou spoleèného?}
@@ -74,13 +74,13 @@
 {173}{}{Moc rád bych tì poslouchal, ale už musím jít. Sbohem.}
 {174}{}{No, neustále se mluví o tom, že se nás chystá pøevzít Vault City kvùli našemu zlatu. Nebo by to mohla být jedna z rodin v New Renu, která zahrnuje celý naše mìsto drogami, aby nad náma mohli pøevzít kontrolu. Nebo dokonce NCR, který se nás k sobì snaží pøipojit. NCR by pro nás bylo nejlepší, to ti povím... ale chtìjí nás jen kvùli zlatu. Prozatím je ale Redding samostatný.}
 {175}{}{Co nìjaké další drby?}
-{176}{}{Myslím, že to bude prozatím všechno. Sbohem.}
+{176}{}{Myslím, že to bude všechno. Nashle.}
 {177}{}{Wanamingo je ta nejhorší potvora na svìtì. Je velký jako dva urostlí muži, silnìjší než brahmíní samec a místo rukou má dvì odporná slizká chapadla. Nedají se zranit žádnou zbraní. Prej je stvoøili Indoši jako pomstu bílým lidem za to, co zpùsobila válka, ale moc bych na to nesázela.}
 {178}{}{Co nìjaké další drby?}
-{179}{}{Myslím, že to bude prozatím všechno. Sbohem.}
+{179}{}{Myslím, že to bude všechno. Nashle.}
 {180}{}{Ano. Teda, nìkolik mých horníkù létalo samo o sobì na Jetu... jestli mi rozumíš, ale stejnì se nìkteøí z nich zapøísáhli, že pøed pár mìsíci vidìli létající loï letící jihozápadním smìrem.}
 {181}{}{Co nìjaké další drby?}
-{182}{}{Myslím, že to bude prozatím všechno. Sbohem.}
+{182}{}{Myslím, že to bude všechno. Nashle.}
 {183}{}{No, Dan a jeho hoši z Morningstaru preferujou ty mafiány z New Rena. Zdá se, že bude zanedlouho Redding doupì plné závislákù na Jetu.}
 {184}{}{To není moje starost. Povìz mi ještì o nìèem jiném.}
 {185}{}{No, co už. Sbohem.}

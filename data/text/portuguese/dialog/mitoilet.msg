@@ -1,1 +1,1 @@
-{100}{}{You notice a ladder going down into the black hole.}
+{100}{}{Você notou uma escada que vai até o buraco negro.}

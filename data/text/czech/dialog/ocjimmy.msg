@@ -5,7 +5,7 @@
 {104}{}{Já dívat kolem.}
 {105}{}{Já}
 {106}{}{Eh... já dívat kolem. Já teï jít.}
-{107}{}{Jen se tak dívám.}
+{107}{}{Jenom se rozhlížím.}
 {108}{}{Ahoj, Jime. Jsem}
 {109}{}{Do toho ti nic není, brejloune. Odpal.}
 {110}{}{Jen se tak rozhlížím. Už pùjdu.}
@@ -15,8 +15,8 @@
 {114}{}{Jsi otravný. Jdi pryè.}
 {115}{}{Promiò. Nechtìl jsem tì prudit. Nechám tì zase pracovat.}
 {116}{}{Dobøe.}
-{117}{}{Rád tì poznávám,}
-{118}{}{Co chceš vìdìt?}
+{117}{}{Rád tì potkávám,}
+{118}{}{Co potøebujete vìdìt?}
 {119}{}{Co ty tady dìlat?}
 {120}{}{Co dìlat tyhle stroje?}
 {121}{}{Vault mít správce. Tohle místnost správce?}
@@ -24,7 +24,7 @@
 {123}{}{Co ty myslet o páraèi?}
 {124}{}{Poèítaè potøebovat souèástku. Ty vìdìt kde sehnat?}
 {125}{}{Já vìdìt dost. Já teï jít.}
-{126}{}{Co tu dìláš?}
+{126}{}{Co tady dìláš?}
 {127}{}{K èemu jsou všechny tyhle stroje?}
 {128}{}{Není tohle náhodou místnost správce vaultu?}
 {129}{}{Jsi tu, protože tu chceš být?}
@@ -50,7 +50,7 @@
 {149}{}{Eh... co ty øíkat?}
 {150}{}{Aha, chápu.}
 {151}{}{Obvykle by tu mìl sídlit správce vaultu, avšak Vault 13 byl plnì zautomatizován.}
-{152}{}{Proè?}
+{152}{}{Jak to?}
 {153}{}{Dobøe, já ptát víc.}
 {154}{}{Proè? Chci øíct, není to neobvyklé?}
 {155}{}{Aha. Zmìòme téma.}
@@ -72,13 +72,12 @@
 {171}{}{Ahoj. Rád tì zase vidím. S èím ti mùžu pomoct?}
 {172}{}{Potøebovat zeptat otázka.}
 {173}{}{Jen tebe zdravit. Já jít.}
-{174}{}{Chci se na nìco zeptat.}
+{174}{}{Chci se tì na nìco zeptat.}
 {175}{}{Jenom jsem tì chtìl pozdravit.}
 {176}{}{No, hmm... myslím, že bude nejlepší, když zaèneš hledat ve Vault City, jelikož je to nejmodernìjší mìsto, které znám. Zkusil bych to i v New Renu. Jsou blíž a èasto obchodují s Vault City.}
 {177}{}{Díky.}
 {178}{}{Dìkuji ti, že jsi opravil ten poèítaè. Zachránil jsi nám zadky.}
 {179}{}{Mám jiné vìci na práci než zabíjet ubožáky, ale každý obèas potøebuje dovolenou!}
-
 {180}{}{. Já mít otázky.}
 {181}{}{. Mùžu se tì na nìco zeptat?}
 {182}{}{. Rád ti odpovím na tvoje otázky.}

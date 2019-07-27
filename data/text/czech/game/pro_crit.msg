@@ -2,15 +2,15 @@
 {101}{}{}
 {200}{}{Hrdinka}
 {201}{}{}
-{300}{}{Vesnièan}
+{300}{}{Vesnièanka}
 {400}{}{Vesnièanka}
 {500}{}{Radškorpion}
 {501}{}{Malý zmutovaný škorpion.}
 {600}{}{Radškorpion}
 {601}{}{Zmutovaný škorpion.}
-{700}{}{Páraè}
+{700}{}{páraè                                                         }
 {701}{}{Mládì páraèe.}
-{800}{}{Páraè}
+{800}{}{páraè                                                         }
 {801}{}{Mládì páraèe.}
 {900}{}{Pes}
 {901}{}{Vypadá to na nìjaké smíšené plemeno.}
@@ -18,66 +18,66 @@
 {1001}{}{Dvouhlavá zmutovaná kráva.}
 {1100}{}{Krysa}
 {1101}{}{Obyèejná obøí krysa.}
-{1200}{}{Mantis}
+{1200}{}{Kudlanka}
 {1201}{}{Zmutovaná verze kudlanky nábožné.}
-{1300}{}{Starší}
+{1300}{}{Starsi}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Masožravý plevel}
 {1601}{}{Masožravá rostlina.}
 {1700}{}{Pìkný otrok}
 {1800}{}{Krásná otrokynì}
-{1900}{}{Zdravý otrok}
+{1900}{}{Zdravá otrokynì}
 {2000}{}{Zdravá otrokynì}
-{2100}{}{Silný otrok}
+{2100}{}{Silná otrokynì}
 {2200}{}{Silná otrokynì}
-{2300}{}{Bojovný otrok}
+{2300}{}{Bojovná otrokynì}
 {2400}{}{Bojovná otrokynì}
-{2500}{}{Chytrý otrok}
+{2500}{}{Chytrá otrokynì}
 {2600}{}{Chytrá otrokynì}
-{2700}{}{Otrok}
+{2700}{}{Otrokynì}
 {2800}{}{Otrokynì}
 {2900}{}{Anna}
 {3000}{}{Houževnatý hrdloøez}
 {3100}{}{Houževnatý hrdloøez}
-{3200}{}{Hrdloøez. Specialista na chladné zbranì}
+{3200}{}{Hrdloøez. Specialistka na chladné zbranì}
 {3300}{}{Hrdloøez. Specialistka na chladné zbranì}
 {3400}{}{Hbitý hrdloøez}
 {3500}{}{Hbitý hrdloøez}
 {3600}{}{Ozbrojený hrdloøez}
 {3700}{}{Ozbrojený hrdloøez}
-{3800}{}{Hrdloøez. Specialista na tìžké zbranì}
+{3800}{}{Hrdloøez. Specialistka na tìžké zbranì}
 {3900}{}{Hrdloøez. Specialistka na tìžké zbranì}
 {4000}{}{Houževnatá stráž}
 {4100}{}{Houževnatá stráž}
-{4200}{}{Stráž. Specialista na chladné zbranì}
+{4200}{}{Stráž. Specialistka na chladné zbranì}
 {4300}{}{Stráž. Specialistka na chladné zbranì}
 {4400}{}{Hbitá stráž}
 {4500}{}{Hbitá stráž}
-{4600}{}{Ozbrojený èlen ochranky}
+{4600}{}{Ozbrojená èlenka ochranky}
 {4700}{}{Ozbrojená èlenka ochranky}
-{4800}{}{Èlen ochranky. Specialista na tìžké zbranì}
+{4800}{}{Èlenka ochranky. Specialistka na tìžké zbranì}
 {4900}{}{Èlenka ochranky. Specialistka na tìžké zbranì}
 {5000}{}{Sirotek}
 {5100}{}{Sirotek}
 {5200}{}{Chlapec}
 {5300}{}{Dívka}
-{5400}{}{Ubožák}
+{5400}{}{Ubožaèka}
 {5500}{}{Ubožaèka}
-{5600}{}{Špatný obchodník}
+{5600}{}{Špatná obchodnice}
 {5700}{}{Špatná obchodnice}
-{5800}{}{Tuctový obchodník}
+{5800}{}{Tuctová obchodnice}
 {5900}{}{Tuctová obchodnice}
-{6000}{}{Mistr obchodník}
+{6000}{}{Mistr obchodnice}
 {6100}{}{Mistr obchodnice}
 {6200}{}{Vic}
-{6300}{}{Hubený farmáø}
+{6300}{}{Hubená farmáøka}
 {6400}{}{Hubená farmáøka}
-{6500}{}{Tuctový farmáø}
+{6500}{}{Tuctová farmáøka}
 {6600}{}{Tuctová farmáøka}
-{6700}{}{Silný farmáø}
+{6700}{}{Silná farmáøka}
 {6800}{}{Silná farmáøka}
-{6900}{}{Slabá stráž. Specialista na chladné zbranì}
+{6900}{}{Slabá stráž. Specialistka na chladné zbranì}
 {7000}{}{Slabá stráž. Specialistka na chladné zbranì}
 {7100}{}{Ozbrojená slabá stráž}
 {7200}{}{Ozbrojená slabá stráž}
@@ -90,10 +90,10 @@
 {7900}{}{Kyborg}
 {8000}{}{Malý geckon}
 {8100}{}{Odolný malý geckon}
-{8200}{}{Divoký pes}
+{8200}{}{Zdivoèelé plemeno psa.}
 {8201}{}{Zdivoèelé plemeno psa.}
 {8300}{}{Zlatý geckon}
-{8400}{}{Páraè}
+{8400}{}{páraè                                                         }
 {8500}{}{Líhnì páraèù}
 {8600}{}{Odolný zlatý geckon}
 {8700}{}{Lynette}
@@ -104,12 +104,12 @@
 {9200}{}{Obèan}
 {9300}{}{Obèanka vyšší tøídy}
 {9400}{}{Obèan vyšší tøídy}
-{9500}{}{Lovec}
+{9500}{}{Stopaøka}
 {9600}{}{Stopaøka}
 {9700}{}{Sulik}
 {9800}{}{Maida Bucknerová}
 {9900}{}{Torr}
-{10000}{}{Lumpy}
+{10000}{}{Vazba}
 {10100}{}{"Záøící" ghoul. Obsluha reaktoru}
 {10200}{}{Ghoul. Obsluha reaktoru}
 {10300}{}{Èlen ochranky reaktoru}
@@ -155,7 +155,7 @@
 {13900}{}{Stráž NCR. Specialista na chladné zbranì}
 {14000}{}{Hlídaè otrokù}
 {14100}{}{Dozorce otrokù}
-{14200}{}{Obchodník - velmistr}
+{14200}{}{Obchodnice - velmistrynì}
 {14300}{}{Obchodnice - velmistrynì}
 {14400}{}{Tandi}
 {14500}{}{Merc}
@@ -176,8 +176,8 @@
 {16000}{}{Myron}
 {16100}{}{Marcus}
 {16200}{}{Doc Jones}
-{16300}{}{Davin}
-{16400}{}{Miria}
+{16300}{}{Davina}
+{16400}{}{Mirie}
 {16500}{}{Laddie}
 {16600}{}{Rondo}
 {16700}{}{Nádeník}
@@ -211,34 +211,34 @@
 {19400}{}{Phil}
 {19500}{}{Kuøe}
 {19600}{}{Karl}
-{19700}{}{Jonny}
+{19700}{}{Jonny.}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Butcher}
+{20000}{}{Øezník}
 {20100}{}{Petey}
-{20200}{}{Primitivní lovec}
+{20200}{}{Primitivní lovkynì}
 {20300}{}{Primitivní lovkynì}
 {20400}{}{Kanibal}
 {20500}{}{Kanibal}
 {20600}{}{Svatý muž}
 {20700}{}{Svatá žena}
-{20800}{}{Koèovník}
+{20800}{}{Koèovnice}
 {20900}{}{Nomád}
 {21000}{}{Koèovnice}
 {21100}{}{Nomád}
 {21200}{}{Bandita}
 {21300}{}{Bandita}
-{21400}{}{Farmáø}
+{21400}{}{Farmáøka}
 {21500}{}{Farmáøka}
-{21600}{}{Mantis}
+{21600}{}{Kudlanka}
 {21700}{}{Otrokáø}
-{21800}{}{Otrokáøka}
+{21800}{}{Otrokáø}
 {21900}{}{Divoká brahmína}
-{22000}{}{Starousedlík}
+{22000}{}{Starousedlice}
 {22100}{}{Starousedlice}
-{22200}{}{Èlen hlídky z Vault City}
+{22200}{}{Èlenka hlídky z Vault City}
 {22300}{}{Èlenka hlídky z Vault City}
-{22400}{}{Silný otrokáø}
+{22400}{}{Silná otrokáøka}
 {22500}{}{Silná otrokáøka}
 {22600}{}{Blázni}
 {22700}{}{Mrchožrouti}
@@ -246,13 +246,13 @@
 {22900}{}{Záøící mrchožrouti}
 {23000}{}{Rybáø}
 {23100}{}{Rybáøka}
-{23200}{}{Divoch}
+{23200}{}{Divoška}
 {23300}{}{Divoška}
-{23400}{}{Pøekupník s alkoholem}
+{23400}{}{Pøekupnice s alkoholem}
 {23500}{}{Pøekupnice s alkoholem}
-{23600}{}{Prospektor}
+{23600}{}{Prospektorka}
 {23700}{}{Prospektorka}
-{23800}{}{Nájezdník}
+{23800}{}{Nájezdnice}
 {23900}{}{Nájezdnice}
 {24000}{}{Ohnivý geckon}
 {24100}{}{Houževnatý ohnivý geckon}
@@ -266,7 +266,7 @@
 {24900}{}{Naštvaný kentaur}
 {25000}{}{Hlídka Enklávy}
 {25100}{}{Hlídka Enklávy}
-{25200}{}{Èlen vymahaèského gangu}
+{25200}{}{Èlenka vymahaèského gangu}
 {25300}{}{Èlenka vymahaèského gangu}
 {25400}{}{Žoldák}
 {25500}{}{Žoldák}
@@ -285,14 +285,14 @@
 {26800}{}{Obyvatelka Vaultu 13}
 {26900}{}{Strážce mostu}
 {27000}{}{Záhadný cizinec}
-{27100}{}{Záhadná cizinka}
+{27100}{}{Záhadný cizinec}
 {27200}{}{Hakeswill}
 {27300}{}{Velkej Ježíš Mordino}
 {27400}{}{Dumar}
 {27500}{}{Matka páraèù}
 {27600}{}{Dragon}
 {27700}{}{Lo Pan}
-{27800}{}{Hubologista}
+{27800}{}{Hubologistka}
 {27900}{}{Hubologistka}
 {28000}{}{Záhadný cizinec}
 {28100}{}{Záhadný cizinec}
@@ -317,9 +317,9 @@
 {30000}{}{Obchodník se zbranìmi}
 {30100}{}{Laboratorní technik Shi}
 {30200}{}{Stráž Shi}
-{30300}{}{Pøíslušník Shi}
+{30300}{}{Èlenka Shi}
 {30400}{}{Èlenka Shi}
-{30500}{}{Èlen klanu Lo Pan}
+{30500}{}{Èlenka klanu Lo Pan}
 {30600}{}{Èlenka klanu Lo Pan}
 {30700}{}{Pøístavní dìlník}
 {30800}{}{Obchodník Shi}
@@ -371,12 +371,12 @@
 {35400}{}{Královna alienù}
 {35500}{}{Èerný radškorpion}
 {35600}{}{Èerný radškorpion}
-{35700}{}{Spud}
+{35700}{}{Rýè}
 {35800}{}{Kapitán žoldákù}
 {35900}{}{Žoldák}
 {36000}{}{Žoldák}
 {36100}{}{Stín-Který-Kráèí}
-{36200}{}{Pankáè}
+{36200}{}{Punkerka}
 {36300}{}{Punkerka}
 {36400}{}{Marc}
 {36500}{}{Dave H.}
@@ -502,7 +502,7 @@
 {48301}{}{Prezidentùv bodyguard.}
 {48400}{}{Nessa}
 {48401}{}{Duch mrtvé Nessy.}
-{48500}{}{Šaman}
+{48500}{}{Saman}
 {48501}{}{Šaman kmene.}
 {48600}{}{Váleèník   }
 {48601}{}{Váleèník kmene.}
@@ -528,7 +528,7 @@
 {50000}{}{Doktor}
 {50001}{}{Hlavní a také jediný lékaø, který zùstal v EPA.}
 {50100}{}{Masožravý plevel z EPA}
-{50101}{}{Odpornì zmutovaný plevel.}
+{50101}{}{Ohavnì zmutovaná masožravá rostlina.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Kocour Jules}
@@ -577,8 +577,8 @@
 {54400}{}{Matka alienù}
 {54500}{}{Masožravý plevel z EPA}
 {54501}{}{Ohavnì zmutovaná masožravá rostlina.}
-{54600}{}{Divoký pes}
 {54600}{}{Zdivoèelé plemeno psa.}
+{54601}{}{Zdivoèelé plemeno psa.}
 {54700}{}{Strážný robot Mark II}
 {54800}{}{Starej Joe}
 {54900}{}{Rostlinný tvor}

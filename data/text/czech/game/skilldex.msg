@@ -1,6 +1,3 @@
-#
-#   Messages from skilldex.c
-#
 {100}{}{ POUŽÍT}
 {101}{}{ZRUŠIT}
 {102}{}{PLÍŽENÍ}
@@ -11,4 +8,3 @@
 {107}{}{LÉÈENÍ}
 {108}{}{VÌDU}
 {109}{}{OPRAVY}
-

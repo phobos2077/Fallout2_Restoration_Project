@@ -12,7 +12,7 @@
 {111}{}{Svìt, mùj pøíteli... svìt je SOBECKÝ. Pøidej k tomu aroganci a co dostaneš? Vault City... v celé své nadøazené slávì z otrokáøství.}
 {112}{}{Proè tu tedy žiješ, když to tu tak nenávidíš?}
 {113}{}{Ámen, bratøe!}
-{114}{}{Myslím, že už to nebudu poslouchat. Sbohem.}
+{114}{}{Myslím, že už to nechci poslouchat. Sbohem.}
 {115}{}{Bìž si vykládat ty svoje bláboly nìkam jinam, kámo... takovejch, jako jsi ty, už tu bylo dost.}
 {116}{}{Ano! }
 {117}{}{Je NAÈASE vyslyšet naøíkání našich druhù za zdí a pustit je dovnitø! Máme víc než dost k nasycení a ubytování našich bratrù... nepotøebujeme být bohatí zatímco je na svìtì TOLIK chudých.}
@@ -109,7 +109,7 @@
 {208}{}{Pøedstírání je to samé jako èin. Táhni, otroku.}
 {209}{}{Ale já se ze svých chyb pouèil!}
 {210}{}{Tak a dost. Je naèase ti udìlat díru do bøicha a podívat se, co je uvnitø...}
-{211}{}{Budiž.}
+{211}{}{Tak dobøe.}
 {212}{}{Nemám co øíct nìkomu tak prohnilému, jako jsi ty. Odejdi.}
 {213}{}{Chceš prohnilou povahu? Já ti UKÁŽU, co je to prohnilá povaha...}
 {214}{}{Vidím chyby své povahy. Pøicházím pro odpuštìní a chci slyšet pravdivé slovo!}

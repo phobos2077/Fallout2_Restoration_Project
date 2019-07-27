@@ -1,17 +1,17 @@
 {100}{}{You see a fisherman.}
 {101}{}{You see a fisherwoman.}
 {102}{}{He is carrying a sharpened pole used for fishing.}
-{103}{}{She appears to be busily cooking.}
+{103}{}{Ela parece ocupada cozinhando.}
 {104}{}{Cumprimentos.}
-{200}{}{You're not welcome here.}
-{201}{}{The spirits do not like you.}
-{202}{}{Go away, outworlder.}
-{203}{}{Why do you plague us?}
-{204}{}{Welcome, friend.}
-{205}{}{You will always be welcome here.}
-{206}{}{The spirits accept you as one of us.}
+{200}{}{Você não é bem vindo aqui.}
+{201}{}{Os espíritos não gostam de você.}
+{202}{}{Vá embora, estranho.}
+{203}{}{Por que nos afligem?}
+{204}{}{Bem vindo, amigo.}
+{205}{}{Você sempre será bem-vindo aqui.}
+{206}{}{Os espíritos aceitam você como um de nós.}
 {207}{}{Obrigado por nos ajudar.}
-{208}{}{I thought all outworlders were evil. It is not so...}
+{208}{}{Eu pensei que todos estranhos eram maus. Não é tão...}
 {209}{}{Não faça isso.}
 {300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}
 {301}{}{Com certeza. O que você precisa?}

@@ -7,7 +7,7 @@
 {106}{}{Ooh! Ooh! Aah!}
 {107}{}{Quem é você?}
 {108}{}{O que é este lugar?}
-{109}{}{Who's in charge?}
+{109}{}{Quem está no comando?}
 {110}{}{Nada. Tchau.}
 {111}{}{Hmm. Nope, sorry, can't help you with that. Maybe you should try someone else.}
 {112}{}{Anks?}

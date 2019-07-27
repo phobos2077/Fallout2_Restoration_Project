@@ -37,7 +37,7 @@
 {212}{}{, you are better than JET!}
 {213}{}{::Cheers wildly::}
 {214}{}{::Claps wildly::}
-{215}{}{::Whistles::}
+{215}{}{::Assobios::}
 {220}{}{My head...}
 {221}{}{Crash and burn... crash and burn...}
 {222}{}{Hurts worse than last time...}

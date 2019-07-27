@@ -8,7 +8,7 @@
 {107}{}{To je Vyvolenı! Kadı pozvednìte èíši na HRDINU Falloutu 2!}
 {108}{}{Dobrı den, Kapitáne.}
 {109}{}{Vault City vdy zvítìzí, Kapitáne.}
-{110}{}{Dobrı den, Obèane.}
+{110}{}{Zdravíèko, Obèane.}
 {111}{}{Vault City vdy zvítìzí, Obèane.}
 {112}{}{Mutant! Stráe! Stráe!}
 {113}{}{Ghoul! Stráe! Stráe!}
@@ -18,7 +18,7 @@
 {117}{}{Zdravím, Vyvolenı! Zrovna jsme mluvili o tvıch dobrodrustvích... dáš si nìco k pití?}
 {118}{}{Kdo whisky pít, ten blít.}
 {119}{}{Odbelhat se.}
-{120}{}{Co tady èepujete?}
+{120}{}{Co se dneska èepuje?}
 {121}{}{Sháním nìjaké informace.}
 {122}{}{Mám pro tebe ten alkohol.}
 {123}{}{Dnes nic, díky.}
@@ -33,10 +33,10 @@
 {132}{}{Odbelhat se.}
 {133}{}{Eh... co pro vás mùu udìlat, Kapitáne?}
 {134}{}{Co pro tebe mùu udìlat, Obèane?}
-{135}{}{Ano? S èím ti mùu pomoct?}
+{135}{}{Ano? Mohu vám pomoci?}
 {136}{}{Ty? Tııı? Ííííí? Íííí lidi dìlat kdy já blízko.}
 {137}{}{Odbelhat se.}
-{138}{}{Co tady èepujete?}
+{138}{}{Co se dneska èepuje?}
 {139}{}{Sháním nìjaké informace.}
 {140}{}{Mám pro tebe ten alkohol.}
 {141}{}{Dnes nic, díky.}
@@ -44,7 +44,7 @@
 {143}{}{Sráe? Sráèe. Sráèe nemít rád.}
 {144}{}{Odbelhat se.}
 {145}{}{Máme syntetická piva a lihoviny...vodku-H, deriváty tequily W a W2. Jo a vodu. A brahmíní mléko. Pivo a lihoviny jsou za $10, voda a mléko stojí $3.}
-{146}{}{Jako tøeba...?}
+{146}{}{Tak tøeba...?}
 {147}{}{Eh, nemáte nìjakı opravdovı alkohol?}
 {148}{}{Dám si syntetické pivo.}
 {149}{}{Syntetická vodka by fakt bodla.}
@@ -52,14 +52,14 @@
 {151}{}{Voda by byla vıborná.}
 {152}{}{Brahmíní mléko.}
 {153}{}{Vlastnì sháním nìjaké informace.}
-{154}{}{Vrátím se, a budu mít víc penìz.}
+{154}{}{Vrátím se a budu mít víc penìz.}
 {155}{}{Myslím, e nic. Díky.}
 {156}{}{Brahmíní mléko neèepujeme... toti, ne tak docela. Musela bych jít ven a rychle nìjaké sehnat.}
 {157}{}{To nevadí, já klidnì poèkám. Mám opravdu chu na sklenici èerstvého mléka. Mmmmm-mmm. To by fakt bodlo.}
 {158}{}{Tak já tedy zkusím nìco jiného.}
 {159}{}{Nevadí. Chci tedy aspoò nìjaké informace...}
-{160}{}{Zapomeò na to. Nìkdy se zase stavím.}
-{161}{}{Tady to je. Ještì nìco?}
+{160}{}{Zapomeòte na to. Vrátím se jindy.}
+{161}{}{Tady to máš. Ještì nìco?}
 {162}{}{Eh, nemáte nìjakı opravdovı alkohol?}
 {163}{}{Dám si syntetické pivo.}
 {164}{}{Syntetická vodka by fakt bodla.}
@@ -67,7 +67,7 @@
 {166}{}{Voda by byla vıborná.}
 {167}{}{Brahmíní mléko.}
 {168}{}{Vlastnì sháním nìjaké informace.}
-{169}{}{Vrátím se, a budu mít víc penìz.}
+{169}{}{Vrátím se a budu mít víc penìz.}
 {170}{}{Myslím, e nic. Díky.}
 {171}{}{Ano? Co konkrétnì?}
 {172}{}{Kdo má na starosti Vault City?}
@@ -79,20 +79,20 @@
 {178}{}{Tak dobøe. Pøeju hezkı den.}
 {179}{}{Pøece První Obèanka Lynette... jsi snad Obèan, nebo ne?}
 {180}{}{První Obèanka Lynette. Je v budovì radnice smìrem na sever, jestli s ní potøebuješ mluvit.}
-{181}{}{Chci se ještì zeptat...}
+{181}{}{Chci se ještì na nìco zeptat...}
 {182}{}{Tak dobøe. Pùjdu si s ní promluvit.}
 {183}{}{Eh, to je ten velkı otvor ve skále na vıchod odtud... poslyš, jsi snad Obèan, nebo ne?}
 {184}{}{Je to ten velkı otvor ve skále na vıchod odsud. Nemùeš to minout. Ale dovnitø se nedostaneš, pokud nejsi Obèan.}
-{185}{}{Chci se ještì zeptat...}
+{185}{}{Chci se ještì na nìco zeptat...}
 {186}{}{Ale já jsem Obèan.}
 {187}{}{No, jen si ovìøuju, e jdu správnì. Díky. Pùjdu se tam podívat.}
 {188}{}{Hmmm. Díky za informace.}
 {189}{}{Jistìe jsi. Bıt tebou, tak si dám pozor na to, komu to øíkáš, "Obèane." Nìkdo by si mohl všimnout, e máš kradené doklady od toho vydøiducha Skeeva. Take na sebe neupozoròuj, jasné?}
 {190}{}{Eh, dobøe. Poslyš, chci se ještì na nìco zeptat...}
-{191}{}{Aha, díky za radu.}
+{191}{}{Aha. No, díky za radu.}
 {192}{}{Podívej, mìla bych ti asi øíct, e tady v okolí bude lepší nepouívat vıraz "otroctví", pokud se nechceš dostat do potíí. Øíkáme jim "sluebníci", ne otroci. Ber to jako dobrou radu.}
 {193}{}{Rozumím. Poslyš, chci se ještì na nìco zeptat...}
-{194}{}{Díky. Budu si to pamatovat.}
+{194}{}{Díky. Budu na to myslet.}
 {195}{}{Moc ne. Nejvíc kontaktù máme s karavany obchodníkù, kteøí jezdí Velkı okruh z Broken Hills, New Rena a Reddingu. Jediné další místo, o kterém vím, je Gecko.}
 {196}{}{Povìz mi o Broken Hills.}
 {197}{}{Povìz mi o New Renu.}

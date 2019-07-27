@@ -4,8 +4,8 @@
  you with something?}
 {103}{}{Was there something else you wanted?}
 {104}{}{Can you tell me about Vault City?}
-{105}{}{What do you do around here?}
-{106}{}{I'm looking for the Vault.}
+{105}{}{O que você faz por aqui?}
+{106}{}{Estou a procura da Vault.}
 {107}{}{I'd like to help you with that plow.}
 {108}{}{Your wife says things have been hard.}
 {109}{}{No, just passing through. Goodbye.}
@@ -27,7 +27,7 @@
  inside the gates, along the cliff, I think. They only let the Citizens into it,
  though.}
 {123}{}{Posso pedir mais uma coisa?}
-{124}{}{Thanks for the directions. Goodbye.}
+{124}{}{Obrigado pelas direções. Tchau.}
 {125}{}{Me and the family ain't the kind of people they let in there. So we
  live here under their protection.}
 {126}{}{Why aren't you allowed to live in the city?}

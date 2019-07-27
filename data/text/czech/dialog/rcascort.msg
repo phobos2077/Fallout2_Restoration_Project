@@ -11,7 +11,7 @@
 {110}{}{Zdravím. Vítej v našem krásném Reddingu... a vítej v mém kasínu. Tady u Ascortiho vyhrává kadı. Já jsem Ascorti, majitel tohohle kasína a starosta našeho krásného mìsta.}
 {111}{}{Co pro tebe mùe starosta Ascorti udìlat?}
 {112}{}{Je tu v Reddingu nìjaká práce?}
-{113}{}{Dìje se tu nìco zajímavého?}
+{113}{}{Dìje se nìco poslední dobou ve mìstì?}
 {114}{}{Neslyšel jsi nìkdy o vìci zvané GECK?}
 {115}{}{Co tady dìláš?}
 {116}{}{Jen se tak dívám, starosto. Uvidíme se pozdìji. Sbohem.}
@@ -29,7 +29,7 @@
 {128}{}{Samozøejmì, e jo. Eh, chci se ještì na nìco zeptat, starosto.}
 {129}{}{Ano, samozøejmì. Chtìl jsem se jen ujistit. Sbohem, starosto Ascorti.}
 {130}{}{Rùzné druhy soukromého majetku. Právì teï mám na prodej velmi vıhodnou listinu od šviháka Jima.}
-{131}{}{Co je to?}
+{131}{}{A co tam teda je?}
 {132}{}{To vìøím, ale nejdøív se chci na nìco zeptat, starosto.}
 {133}{}{Hmm. Myslím, e se nejdøív porozhlédnu po mìstì, starosto. Sbohem.}
 {134}{}{Je to kupní smlouva na Velkı Wanamingo Dùl, kterı leí nedaleko od mìsta. Je na prodej jen za $1000. Speciální nabídka. Dneska je tvùj šastnı den.}
@@ -76,7 +76,7 @@
 {175}{}{Pøesnì tak. Vìdìl jsem, e ti to myslí, i kdy na to moc nevypadáš. Docela ti to pálí, kdy se nad nìèím zamyslíš.}
 {176}{}{Jasnì. Take kolik získám z tìch svıch $1000?}
 {177}{}{Vypadalo to tam tak útulnì, e u se tam nìkdo nastìhoval. Parchant jménem abák Morton, eh, i s celou svojí bandou.}
-{178}{}{Proè mu øíkají abák Morton?}
+{178}{}{Proè mu øíkají zrovna abák?}
 {179}{}{Jak to, e je to mùj problém?}
 {180}{}{Bezva a co s tím mám jako udìlat?}
 {181}{}{Øekl bych, e je to kvùli jeho povìsti. Donutí prı kadého kuòkat bolestí. Je to pìknì mizernej parchant, kterej nikomu nebude chybìt... a ty budeš hrdina. Chceš se stát hrdinou, nebo ne?}
@@ -84,7 +84,7 @@
 {183}{}{Jo, jasnì. A co s tím mám jako udìlat?}
 {184}{}{Myslím, e to tam budu muset trochu vyèistit. Vrátím se, a nakopu dalších pár zadkù, starosto.}
 {185}{}{No, dokud nebude dùl úplnì prázdnı, nemùu tam poslat horníky a rozjet tìbu. Take jestli mi ho chceš prodat zpátky, tak to je tvùj problém.}
-{186}{}{Proè mu øíkají abák Morton?}
+{186}{}{Proè mu øíkají zrovna abák?}
 {187}{}{Bezva a co s tím mám jako udìlat?}
 {188}{}{Radìji se tedy dám do práce. Sbohem, starosto.}
 {189}{}{Myslím, e by ses mìl vrátit do Wanamingo Dolu a zlikvidovat abáka a jeho bandu. A to udìláš, vra se zpátky a já od tebe ten dùl s radostí odkoupím.}
@@ -169,7 +169,8 @@
 {268}{}{Díky, ale chci se ještì na nìco zeptat.}
 {269}{}{Moná tam zajdu a promluvím si s nimi. Díky, starosto. Sbohem.}
 {270}{}{V poslední dobì se naše vıvozy zlata zaèínají zpoïovat, protoe horníci tráví moc èasu "lítáním" na Jetu.}
-{271}{}{Skoro všichni horníci tráví víc èasu "lítáním" na Jetu ne tìbou zlata... a tak naše ceny rostou a naše vıvozy jdou dolù. Obojí je pro obchod špatné.}
+{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
+ are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Všichni "lítají" na Jetu, take je tìba neefektivní. Naše pravidelné vıvozy zlata klesly takøka na desetinu a díky tomu jsme museli zvednout ceny. Tohle nemùe dlouho vydret.}
 {273}{}{Vypadá to, e všichni dostali nìjakou špatnou dávku Jetu. Všichni, kdo pravidelnì uívali Jet, teï prochází nìjakou masivní detoxikací. Zdá se, e v té dodávce nìco bylo. Nevím sice co, ale myslím, e se teï všechno obrátí k lepšímu.}
 {274}{}{Všechno u je skoro tak jako døív. Všichni, kdo byli závislí na Jetu, se u z toho dostali. Naše tìba a plán dodávek je u taky jako kdysi. Vypadá to, e to nejhorší je u za náma.}

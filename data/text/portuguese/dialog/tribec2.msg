@@ -1,5 +1,5 @@
 {100}{}{}
-{101}{}{You see a member of the tribe.}
+{101}{}{Você vê um membro da tribo.}
 {102}{}{You see Marli.}
 {103}{}{You see a warrior with a scowl on his face.}
 {110}{}{Be gone. I'm seeking council with the spirits and they don't like you, outworlder. If you must speak to me, do it another time.}

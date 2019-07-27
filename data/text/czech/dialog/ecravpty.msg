@@ -1,14 +1,12 @@
 {100}{}{Tato osoba se trochu potácí.}
 {101}{}{Vidíš barmana.}
 {102}{}{Zdá se, že už ochutnal nìco ze svého zboží.}
-#edit below by killap - was 202
-{210}{}{Zdá se, že už ochutnala nìco ze svého zboží.}
 {103}{}{C... cco... cco ssi dáš. (Škyt.)}
 {104}{}{Nuka Cola [$6]}
 {105}{}{Pivo [$15]}
 {106}{}{Chlast [$30]}
 {107}{}{Dnes nic. Díky.}
-{108}{}{Ug.}
+{108}{}{Eh.}
 {109}{}{Óóóó... nesnáášim pití. (Podá ti tvùj drink.)}
 {110}{}{[Konec]}
 {111}{}{Tu máš. Je to trožku teplý, paè se to neztihlo vychladid. Prodávám to rychlejš než je dìlám. (Je to teplé, je to žluté, jsou to...)}
@@ -27,7 +25,7 @@
 {124}{}{Buffout [$400]}
 {125}{}{Psycho [$800]}
 {126}{}{Dnes nic. Díky.}
-{127}{}{Ug.}
+{127}{}{Eh.}
 {128}{}{Tojesuper! Navalprachyavypadniodsuï. Mamnìjakoupraci.}
 {129}{}{[Konec]}
 {130}{}{Jakøikapøislovi. Žadnypenizežadnakuøba. Eh. Tojeprosex. Cotakhlebezpenìzdohospodynelez. Pøiïažbudešmitpenize.}
@@ -36,44 +34,35 @@
 {133}{}{[Dát tomu muži $1000]}
 {134}{}{Já jít.}
 {135}{}{JO! Totìnakopne!}
-{136}{}{[Konec]}
-
-#Drunk: sets the sex flag
+{136}{}{[KONEC]}
 {150}{}{Hej, vypadáš roztomile. Jak se jmenuješ?}
 {151}{}{Trošku výš. To je ono.}
 {152}{}{Pøipravena... se odvázat?}
 {153}{}{Ne..ne..ne..ne NE ne.}
 {154}{}{Takhle se dívej. Jo.}
-#Drunk: the sex flag is set and you got some
 {155}{}{Teï jdi.}
 {156}{}{Ožeru se jinde.}
 {157}{}{Odvaž se... nìkde jinde.}
-#prop Drunk
 {158}{}{Co kdybysme šli nìkam pryè od lidí?}
 {159}{}{Eh, pojïme na to!}
 {160}{}{Nee, jsem ožralej.}
 {161}{}{[Krk] ::úsmìv::}
-
-#Addict: set the sex flag
 {170}{}{Poslyš, nechceš jít támhle za to køoví?}
 {171}{}{Už jsi nìkdy byla sjetá a dìlala to?}
 {172}{}{Mohl bych ti ukázat ráj, bejby.}
 {173}{}{Ty víš, že to chci.}
 {174}{}{Doufal jsem, ze narazím na nìkoho, kdo bude chtít.}
-#Addict: the set flag is set and you got some
 {175}{}{Už toho na mì bylo dost.}
 {176}{}{Hele, nemáš cigáro?}
 {177}{}{Hele, moc se na mì neupínej. Já mám rád svoji svobodu.}
-#prop Addict
 {178}{}{Jseš štíhlá jako panter a já tì chci.}
-{179}{}{Pøipravena?}
+{179}{}{Jdeme na to?}
 {180}{}{Teï ne. Musím si šlehnout.}
 {181}{}{Držte si klobouky. Jdeme na to.}
-
 {200}{}{Nebuï blbá!}
 {201}{}{Bìž paøit jinam.}
-{202}{}{Kdo tì sem pustil?}
-
+{202}{}{Kdo tì pustil dovnitø?}
 {203}{}{Tohle není v pohodì!}
 {204}{}{Vychladni, frajere.}
 {205}{}{Klídek, chlape!}
+{210}{}{Zdá se, že už ochutnala nìco ze svého zboží.}

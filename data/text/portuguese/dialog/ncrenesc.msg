@@ -1,392 +1,524 @@
-{100}{}{You see Renesco the Rocketman.}
-{150}{}{You see an old man with a pair of huge, garish glasses. He sighs irritatedly as you watch.}
-{200}{}{You see Renesco the Rocketman. As you watch, he takes off his cracked glasses and polishes the one good lens.}
-{201}{}{You see Renesco the Rocketman. As you watch, he takes off his cracked glasses and polishes the one good lens.}
-{210}{}{One more lens, that's all I ask.}
-{211}{}{Goddamn glasses!}
-{212}{}{Damn my eyes!}
-{213}{}{You gonna BUY something?}
-{214}{}{This ain't a soup kitchen. You gonna BUY something?}
-{215}{}{I'm gonna go blind I keep up this line of work.}
+{100}{}{Você vê Renesco, o Homem-foguete.}
+{150}{}{Você vê um homem idoso com um par de grandes e deslumbrantes óculos. 
+Ele suspira irritado enquanto você o observa.}
+{200}{}{Você vê Renesco, o Homem-foguete. Enquanto você observa, ele tira 
+seus óculos quebrados e começa a polir a única lente boa.}
+{201}{}{Você vê Renesco, o Homem-foguete. Enquanto você observa, ele tira 
+seus óculos quebrados e começa a polir a única lente boa.}
+{210}{}{Só uma lente, isso é tudo que eu peço.}
+{211}{}{Malditos óculos!}
+{212}{}{Malditos olhos!}
+{213}{}{Você vai COMPRAR alguma coisa?}
+{214}{}{Isso não é uma cozinha de sopa. Você vai COMPRAR alguma coisa?}
+{215}{}{Eu vou ficar cego se eu continuar nesse ramo de trabalho.}
 {216}{}{Gonna need some more base chemtex nine...}
-{217}{}{Demand's picking up...}
-{225}{}{Go to hell.}
-{226}{}{Get outta here, or I'll have you shot to death. Twice.}
-{227}{}{Get OUT of here.}
-{228}{}{Out! Out! Out! Out! Out!}
-{235}{}{(The old man pushes his broken glasses up on his nose and sighs in exasperation.) YES? What is it you want? }
-{236}{}{Come on, man, out with it!}
-{237}{}{Come on, woman, out with it!}
-{238}{}{Okee dokee it coming out... you better stand back (Zip.)}
-{239}{}{Okee dokee. Need open bra first. Hold on (Zip.)}
-{240}{}{Whut me WANT? Whut you GOT?}
-{241}{}{[Stare at him for a second, just to make sure he's real, then wander away]}
+{217}{}{A demanda tá ascendente…}
+{225}{}{Vá para o inferno.}
+{226}{}{Saia daqui, ou atiro em você até você morrer. Duas vezes.}
+{227}{}{Dê o FORA daqui!!.}
+{228}{}{Fora! Fora! Fora! Fora! Fora!}
+{235}{}{(O velhote enfia os óculos em seu nariz e suspira em exasperação.) 
+SIM? O que  você quer?}
+{236}{}{Vamos lá homem, desembucha!}
+{237}{}{Vamos lá mulher, desembucha!}
+{238}{}{Taa legal ta saindo pra fora… Melhor você afastar(Zip.)}
+{239}{}{Taa legal. Precisa abrir sutiã primeiro. Esperar.(Zip.)}
+{240}{}{U que mim QUER? U que você TER?}
+{241}{}{Encará-lo por um tempo, só pra ter certeza que ele é real, e então 
+sair fora.}
 {242}{}{Quem é você?}
-{243}{}{Hey, I have a pair of glasses, if you want them.}
-{244}{}{How's the glasses?}
-{245}{}{You know, there are decaf brands that taste just as good as the real thing.}
-{246}{}{Man, am I in the wrong place. Goodbye.}
-{255}{}{(Stares in shock.)}
-{256}{}{...another postnatally-aborted wreck in a post-holocaust world replete with idiot man-children. (Raises his fists.)
- Out of my shop! Get out at once! Don't you come back, you hear?!}
-{257}{}{Me sorry little }
-{258}{}{Me not know how to put bra back on}
-{259}{}{No shout at }
-{260}{}{ hate you! }
-{261}{}{I'm going, I'm going. For now.}
-{270}{}{Me? Oh, I'm just jolly Saint Nick, you cranially challenged half-wit.}
-{271}{}{Me? I'm jolly Saint Nick. And YOU must be that stupid thug-for-hire that's been roaming around town like a
- starved dog hungry for its own excrement.}
-{272}{}{Me? I'm jolly ol' Saint Nick. And YOU must be that stupid piece of tailchasing porno trash that's hung like
- a horse and as stupid as one.}
-{273}{}{Me? I'm jolly ol' Saint Nick. And YOU must be that stupid slip of porno trash that trench coat-wearing elderly
- men use to fulfill their masturbatory fantasies.}
-{274}{}{Well, I'm glad I don't have to introduce myself then. What do you do here, "Nick?"}
-{275}{}{Saint Nick? Who the hell is that?}
-{276}{}{Look grandpa, one more comment like that, and I'll be wearing your teeth as a necklace.}
-{277}{}{Look, I'm going to let your comment slide... this time. Now, who are you?}
-{278}{}{Impressive vocabulary..."Nick." You from around here?}
-{279}{}{Forget this. I'm out of here.}
-{290}{}{(Glares at you, then snorts.) Name's Renesco. Just tell me what it is you want, you... well, whatever it is you are.
- (Squints at you.) You look like one of those sun-worshipping primates under all that get-up.}
-{291}{}{I'm from a village to the northwest. Arroyo.}
-{292}{}{What do you sell here?}
-{293}{}{What do I WANT? I don't really know. Most of the time I ignore my quest and walk into the homes of others,
- riffling through people's shelves... oooh, like those over there!}
-{294}{}{You have an interesting vocabulary... Renesco. Are you from around here?}
+{243}{}{Hey, eu tenho um par de lentes, se você quiser.}
+{244}{}{Como vão os óculos?}
+{245}{}{Sabe, algumas coisas sem-sal são tão boas quanto as normais.}
+{246}{}{Home, eu to no lugar errado. Adeus.}
+{255}{}{(Encara em choque.)}
+{256}{}{…Outro idiota abortado desse mundo pós-holocausto repleto de crianções imbecis. (levanta os seus punhos) Fora da minha loja! Dê o fora agora! Não te quero de volta, ta escutando?!}
+{257}{}{Mim lamenta pouco.}
+{258}{}{Mim não saber como colocar sutiã de volta.}
+{259}{}{Não gritar em mim}
+{260}{}{Odeio você!}
+{261}{}{Eu estou indo, eu estou indo. Por enquanto.}
+{270}{}{Eu? Ah eu sou o alegre São Nicolau, sua besta quadrada.}
+{271}{}{Eu? Oh, eu só sou o bom e velho alegre São Nicolau. E VOCÊ deve ser aquele 
+estúpido capanga-para-contratar que está andando pela cidade que nem um 
+cachorro com fome esfomeado pelo próprio excremento.}
+{272}{}{Eu? Oh, eu só sou o bom e velho alegre São Nicolau. E VOCÊ deve ser aquele 
+estúpido resto de lixo pornô caçando o próprio rabo que é tão travado quanto um cavalo e estúpido como um.}
+{273}{}{Eu? Oh, eu só sou o alegre velho São Nicolau. E VOCÊ deve ser aquele 
+estúpido resto de lixo pornô que os velhotes vestidos com casaco de trincheira usam para preencher as suas fantasias masturbatórias.}
+{274}{}{Bem, eu estou feliz já que não preciso me apresentar. O que você 
+faz aqui, "Nicolau?"}
+{275}{}{São Nicolau? Que diabos é isso?}
+{276}{}{Olha vovô, mais um comentário igual a esse, e eu vou estar usando 
+seus dentes como colar.}
+{277}{}{Olha, eu vou deixar esse seu comentário passar… Dessa vez. Agora, 
+quem é você?}
+{278}{}{Vocabulário impressionante… "Nicolau". Você é das redondezas?}
+{279}{}{Esqueça isso. Eu vou dar o fora daqui.}
+{290}{}{(Olha para você, e então resmunga) O nome é Renesco. Apenas diga o 
+que você quer, seu… Bem, seja lá o que você for.
+(Olhar vesgo em você.) Por baixo dessas roupas você parece um daqueles 
+primitivos adoradores do sol.}
+{291}{}{Eu sou de uma vila ao Noroeste. Arroyo.}
+{292}{}{O que você vende aqui?}
+{293}{}{O que eu QUERO? Eu realmente não sei. Na maior parte do tempo eu 
+ignoro minha jornada e entro na casa dos outros, mexendo nas estantes dos 
+outros… oooh, que nem essas aí!}
+{294}{}{Você tem um vocabulário interessante… Renesco. Você é das 
+redondezas?}
 {295}{}{Estou fora daqui.}
-{305}{}{I sell recreational drugs mostly. That's why they gave me that idiotic appellation, 'the Rocketman.' Hmmmph. I
- also sell some caravan supplies. You NEED anything or can I get back to something important?}
-{306}{}{Rocketman, huh? Know the line in that Elton John song, "Rocketman, burning off the mmmncfnfm there at home?' What's
- he really saying there?}
-{307}{}{Can I see what you have in stock?}
-{308}{}{You sell drugs here in the STORE?}
-{309}{}{You mean like selling drugs to Wright's son?}
-{310}{}{Go on back to what you were doing.}
-{320}{}{(Renesco glares at you. It looks like he is undressing you mentally, then tearing you limb from limb.)}
+{305}{}{Eu vendo drogas mais recreativas. É por isso que eles me deram esse 
+apelido idiota,'O homem-foguete'. Hmmmph. Eu também vendo alguns suprimentos 
+de caravanas. Você PRECISA de alguma coisa ou eu posso voltar a fazer algo 
+importante?}
+{306}{}{Homem-foguete, huh? Conhece aquela parte da música do Elton John, 
+"Homem-Foguete, queimando mmmncfnfm aqui em casa?" O que ele está realmente dizendo ali?}
+{307}{}{Posso ver o que você tem no estoque?}
+{308}{}{Você vende drogas aqui na LOJA?}
+{309}{}{Você quer dizer que nem vender drogas para o filho do Wright?}
+{310}{}{Volte ao que você estava fazendo.}
+{320}{}{(Renesco te encara. Parece que ele está te despindo mentalmente, e 
+depois te despedaçando membro por membro.)}
 {321}{}{Nevermind, then. I had some other questions...}
-{322}{}{Nevermind, then.}
-{330}{}{(Renesco looks at you in disgust.) Yes. In the STORE. This isn't the 20th century where drugs are sold by
- street corner cockroaches who live in constant fear of the authorities.}
-{331}{}{Well, then -}
-{332}{}{But -}
-{333}{}{Uh, I think I better -}
-{350}{}{This is NEW RENO. There are no cops, no law, and there's plenty of customers who don't mind buying poison at the
- pharmacy down the street. Does THAT answer your question, primate?}
-{351}{}{All except one: Was Richard Wright one of your customers?}
+{322}{}{Deixe pra lá, então.}
+{330}{}{(Renesco olha para você em desgosto.) Sim. Na LOJA. Isso não é o 
+século 20 onde drogas são vendidas por baratas de beco que vivem com um 
+constante medo das autoridades.}
+{331}{}{Bem, então -}
+{332}{}{Mas -}
+{333}{}{Uh, Eu acho que é melhor eu -}
+{350}{}{Aqui é NEW RENO. Não temos policiais, nem lei, e há fregueses em 
+abundância que não se importam em comprar veneno na farmácia da esquina. 
+Dessa vez ISSO respondeu sua questão, primitivo?}
+{351}{}{Todas exceto uma: Foi Richard Wright um de seus fregueses?}
 {352}{}{All right, all right... what have you got in stock?}
-{353}{}{Actually, I had some more questions...}
-{354}{}{But, like you said, the drugs are... poisonous. They kill the spirit. Doesn't it bother you to sell them?}
-{355}{}{Sure does. I'll be going now.}
-{365}{}{Does it BOTHER me to sell them to idiots, slavers, crime lords and tribals that the world would be better off
- without? Primate, three words: get out more.}
+{353}{}{Na verdade, eu tenho algumas perguntas a mais…}
+{354}{}{Mas, como você disse, as drogas são… venenosas. Elas matam o 
+espírito. Não lhe deixa perturbado vendê-las?}
+{355}{}{Com certeza. Eu estou indo.}
+{365}{}{Se me deixa perturbado vendê-las para idiotas, escravagistas, 
+senhores do crime e tribais que o mundo ficaria melhor sem? Primitivo, três 
+palavras: Saia fora mais.}
 {366}{}{OK... can I see what you have in stock?}
-{367}{}{All right, all right. Look, I had some other questions...}
-{368}{}{The drugs here in New Reno are finding their way to other places, and hurting people there. Doesn't that concern you?}
-{369}{}{I'll start by leaving right now.}
-{375}{}{So? What do I care about them?}
-{377}{}{The human race suffered a horrible tragedy. Now we are trying to rebuild. Selling Jet seems... counterproductive
- to that reconstruction.}
-{378}{}{Well, whatever. I must be going now.}
-{385}{}{So. What. No one is FORCING those idiots to inhale Jet. No one's going around and jamming it down their
- throats!}
+{367}{}{Ta certo, ta certo. Olha, eu tenho outras perguntas…}
+{368}{}{As drogas daqui de New Reno estão encontrando seu caminho direto para 
+outros lugares, e ferindo as pessoas lá. Isso não lhe preocupa?}
+{369}{}{Eu vou começar saindo daqui agora mesmo.}
+{375}{}{Como? Por que eu me preocuparia sobre eles?}
+{377}{}{A raça humana sofreu uma terrível tragédia. Agora nós estamos 
+tentando reconstruir. Vender Jet parece… contra-produtivo a essa 
+reconstrução.}
+{378}{}{Bem, Seja o que for. Eu preciso ir agora.}
+{385}{}{Assim. De que maneira. Ninguém esta FORÇANDO esses idiotas a inalar 
+Jet. Ninguém esta indo por aí e enfiando isso goela abaixo!
+{386}
 {386}{}{Can I see -}
-{387}{}{But don't -}
-{388}{}{That is your -}
-{395}{}{Those lamphead rock humpers in Redding KNOW what they're taking, so I don't feel a millimeter of pity for 'em!
- Far as I'm concerned, Jet weeds out the human trash that shoulda died when the bombs dropped!}
-{396}{}{Uh, okay. Can I see your stock?}
-{397}{}{Where is this Redding you speak of? Why do you mention them?}
-{398}{}{You mentioned Redding specifically. Why is Jet so prevalent in Redding?}
-{400}{}{That is your right to feel that way. I must be going now.}
-{410}{}{Well, Redding's a... special case. See, there's people in Reno who make sure Redding's well-supplied. After all, you
- taste Jet once, you're hooked. It's how I make MY living.}
-{411}{}{Speaking of which, can I see your stock?}
-{412}{}{Who is making sure Redding is well-supplied? And why?}
-{413}{}{So I noticed. Look, I had some other questions...}
+{387}{}{Mas não -}
+{388}{}{Esse é seu -}
+{395}{}{Esses quebradores de pedra com cabeça de lâmpada em Redding SABEM o 
+que é que estão tomando, assim eu não sinto um milímetro de pena por eles!
+Eu estou remotamente preocupado, Jet limpa o lixo humano que deveria ter 
+morrido quando as bombas caíram!}
+{396}{}{Uh, tá certo. Posso ver seu estoque?}
+{397}{}{Onde é essa Redding que você fala? Por que você a menciona?}
+{398}{}{Você mencionou Redding especificamente. Por que o Jet é tão 
+prevalente em Redding?}
+{400}{}{Você tem o direito de se sentir assim. Eu preciso ir agora.}
+{410}{}{Bem, Redding é um… caso especial. Veja, existem pessoas em Reno que 
+fazem o preciso para que Redding esteja bem suprida. Afinal, você prova Jet uma vez, 
+você está viciado. Assim é como eu faço MINHA vida.}
+{411}{}{Falando como, eu posso ver seu estoque?}
+{412}{}{Quem é que está fazendo com que Redding está bem suprida? E por 
+que?}
+{413}{}{Assim eu percebi. Olhe, eu tenho algumas outras perguntas…}
 {414}{}{I see... I must be going now.}
-{420}{}{Well, tribal, I doubt you have the sense to notice this yet, but New Reno doesn't produce anything useful.
- It's like a big, brightly-lit prairie tick sitting out in the desert. Now, Redding, on the other hand...}
+{420}{}{Bem tribal, eu duvido que você tenha a percepção para noticiar isso 
+ainda, mas New Reno não produz nada útil. É igual a um grande, bem iluminado 
+carrapato da planície sentada no deserto. Agora, Redding, por outro lado…}
 {421}{}{Continue.}
-{422}{}{...DOES produce something useful.}
+{422}{}{…REALMENTE Produz alguma coisa útil.}
 {423}{}{Eu já ouvi o suficiente.}
-{430}{}{First and last time I'm gonna warn you, tribal: Don't finish my goddamn sentences. I don't like smartass primates
- that talk when they should listen. No wonder you all still use spears...}
-{431}{}{Not all of us. For example, I use a variety of weapons to kill people... let me show you.}
-{432}{}{Forgive me. Please go on.}
-{433}{}{Burn in hell. I'm outta here. }
-{440}{}{Redding has a stable work force that mines raw materials, mostly gold. New Reno sure could use that gold. Somebody
- figures all we gotta do is get those miners addicted, and we got 'em for life. You understand now?}
-{441}{}{Yes... except for one thing: Where did Jet come from?}
-{442}{}{Who's trying to addict all the miners?}
-{443}{}{Yeah, I understand. Look, I had some other questions...}
-{444}{}{I don't want to hear anymore. I must be going now.}
-{450}{}{(Points at Myron.) Why don't you ask your little horny toad friend there? I'm sure he'd be happy to tell you. (Glares
- at Myron.) Right, kid?}
-{451}{}{We have one person to thank for Jet. You heard of Family Mordino's little golden boy, Myron? Well, the little
- bastard CREATED Jet. Big Jesus Mordino just let everyone know where they could get it.}
-{452}{}{Tell me more about Myron.}
-{453}{}{Is there any cure for Jet?}
-{454}{}{I had some other questions...}
-{460}{}{Big Jesus Mordino's funneling Jet into Redding. Typical power play. Once the pipeline really gets going, those
- miners are goners.}
-{461}{}{Where did Jet come from?}
-{463}{}{I see. Look, I had some other questions...}
-{470}{}{Horny as a toad and all the morals of one. Smart kid, though. High IQ. Wasting his brains manufacturing drugs, that's
- for damn certain.}
-{471}{}{Where can I find him?}
-{472}{}{I see. I had some other questions...}
-{480}{}{The Mordinos' got him locked up somewhere. Heavily-guarded, probably. Don't know exactly where.}
-{481}{}{Thanks for the information. Can I see what you have in stock?}
-{490}{}{A CURE for methamphetamine addiction?! Ha! I only know two: one is death. The other is locking yourself
- in a cage for a year without Jet and sweat it out of your system. Hmmmph. "Cure," my ass! What nonsense!}
-{492}{}{There must be a cure. What's Jet's chemical composition?}
-{505}{}{Why don't you ask your friend there? He designed the drug.}
-{506}{}{I just sell the stuff. I'd ask a scientist. Or Myron. He designed the drug.}
-{515}{}{(Renesco glares at you in silence.)}
-{516}{}{(Renesco glares at you again, this time in silence.)}
-{517}{}{I think you'd like Arroyo. It's a peaceful village. Except for the plants possessed by evil spirits... and of course, the temple
- of trials filled with those deadly spear traps and the man-eating giant ants.}
-{518}{}{Hey, you ever heard of a Garden of Eden Creation Kit? Or Vault 13?}
+{430}{}{Primeira e última vez que eu vou te avisar, tribal: Não termine 
+minhas malditas frases. Eu não gosto de primitivos espertinhos que falam 
+quando eles deveriam escutar. Não é de admirar que todos vocês ainda usam 
+lanças…}
+{431}{}{Nem todos de nós. Por exemplo, eu uso uma variedade de armas para 
+matar pessoas… Deixe-me lhe mostrar.}
+{432}{}{Me desculpe. Por favor, continue.}
+{433}{}{Queime no inferno. Eu to fora daqui.}
+{440}{}{Redding tem uma força de trabalho estável que mineira materiais 
+puros, como ouro mesmo. Alguém em New Reno com certeza poderia usar este 
+ouro. Alguém compreende que tudo o que temos que fazer é viciar esses 
+mineradores, e nós temos para viver. Você compreende agora?}
+{441}{}{Sim… exceto por uma coisa: de onde o Jet veio?}
+{442}{}{Quem está tentando viciar todos os mineradores?}
+{443}{}{Yeah, eu entendi. Olhe, eu tenho algumas outras perguntas…}
+{444}{}{Eu não quero escutar mais nada. Eu tenho que me mandar agora.}
+{450}{}{(Aponta para Myron.) Por quê você não pergunta para o seu pequeno 
+amigo sapo tarado bem ai? Eu estou certo de que ele vai estar feliz em lhe 
+contar. (olha para Myron) Certo, criança?}
+{451}{}{Nós temos uma pessoa para agradecer pelo jet. Você ouviu falar do 
+pequeno garoto de ouro da família Mordino, Myron? Bem, o pequeno bastardo 
+CRIOU o Jet. Big Jesus Mordino apenas deixa todo mundo saber onde eles 
+podem pegá-lo.}
+{452}{}{Fale-me mais sobre Myron.}
+{453}{}{Existe alguma cura para o Jet?}
+{454}{}{Eu tenho mais algumas perguntas...}
+{460}{}{O Jet de Big Jesus Mordino está entrando em Redding. Típico jogo de 
+poder. Assim que o cano realmente escoar, esses mineiros vão se ferrar.}
+{461}{}{De onde vem o Jet?}
+{463}{}{Eu vejo. Olhe, eu tenho algumas outras perguntas…}
+{470}{}{Tarado como um sapo e com toda a moral de um. Mas é um moleque 
+esperto. Alto QI. Mas gastando seus miolos para manufaturar drogas, isso é 
+certo pra caralho.}
+{471}{}{Aonde eu posso encontrá-lo?}
+{472}{}{Entendo. Eu tenho outras perguntas...}
+{480}{}{Os Mordinos estão com ele trancado em algum lugar. Provavelmente 
+guardado pesadamente. Não sei exatamente onde.}
+{481}{}{Obrigado pela informação. Posso ver o que você tem no estoque?}
+{490}{}{Uma CURA para o vício Metanfetaminal?! Ha! Eu só conheço duas! Uma é 
+a morte. A outra é se trancar em uma jaula sem Jet e vomitá-lo para fora do 
+seu sistema. Hmmmph. "Cura," minha bunda! Que coisa sem nexo!}
+{492}{}{Tem de ter uma cura. Qual é a composição química do Jet?}
+{505}{}{Por que você não pergunta para o seu amigo aí? Ele que criou a droga.}
+{506}{}{Eu só vendo a coisa. Eu perguntaria a um cientista. Ou Myron. Ele 
+criou a droga.}
+{515}{}{(Renesco lhe encara em silêncio.)}
+{516}{}{(Renesco lhe encara de novo, dessa vez em silêncio.)}
+{517}{}{Eu acho que você gostaria de Arroyo. É uma vila pacata. Exceto 
+pelas plantas possuídas por espíritos maus e é claro, o Templo dos Desafios, 
+cheio  daquelas mortíferas armadilhas com lanças e aquelas formigas gigantes 
+devoradoras de gente.}
+{518}{}{Ei, você já ouviu falar do Kit de Criação do Paraíso? Ou do Vault 
+13?}
 {519}{}{Okay, then... I'm out of here.}
-{525}{}{(Renesco continues to glare at you.)}
-{526}{}{And sometimes the elder gets upset at little things, like... heh-heh... that one night when I ignored my vow of
- celibacy and snuck out with Reyna - Whose - Legs - Crush - With - Strength - of - Thousand - Snakes to the Arroyo canyon...}
-{535}{}{(Renesco gives you a withering stare.)}
-{536}{}{It was like yesterday. Reyna's body glowed like silver in the moonlight when she knelt down and... hey, you know what?
- You might like the elder. She's about your age.}
-{545}{}{(Renesco continues to glare at you as if he could somehow make you disappear just by imagining it hard enough.)}
-{546}{}{Did I mention Arroyo was founded by my ancestor, the holy Vault Dweller? He made a legendary journey from the
- south after defeating a great evil. (Puff up chest and stare proudly into the distance.) Now, *I* am the deliverer of my
- tribe, chosen to search for the holy GECK!}
-{547}{}{Okay, then, enough stories... I better be on my way. Praise the Vault!}
-{555}{}{(Renesco's glare crumbles.) }
-{556}{}{GECK? As in 'Garden of Eden Creation Kit?' Comes with a basic replicator unit, holodisc reader with selections
- from the library of congress, and a little pen flashlight?}
-{557}{}{Yes, but that's not important right now. I haven't finished telling you about Arroyo.}
-{558}{}{Yes! My village is having trouble with crops, and the GECK is needed to restore them. Do you know where I can find one?}
-{559}{}{It is said to be sealed within Vault 13, or so the legends say. Do you know of such a place?}
-{560}{}{If you're not going to LISTEN when I recite the holy scriptures, I'm out of here.}
-{561}{}{Could be. Look, I have to go.}
-{570}{}{Your backwater herb-smoking village be damned, and you along with it. Why is
- a primate like you looking for a GECK?}
-{571}{}{Arroyo... my backwater herb-smoking village, as you say... is having trouble with its crops. The GECK is needed
- to restore them.}
-{572}{}{It is said to be sealed within Vault 13. Do you know of such a place?}
-{573}{}{I don't think I feel like sharing that at the moment. Goodbye.}
-{580}{}{Hmmmmm. It sure could do that... easy. IF you could find one. Don't even know where you'd start looking. NCR
- or Vault City, maybe, but I doubt they'd have one... still...}
-{581}{}{Still...?}
-{590}{}{Still, those self-righteous bastards might be able to point you in a direction. If they speak slowly and use small words...}
-{591}{}{NCR or Vault City you say? I will go in search of these places and ask their villagers about the GECK. Thank you.}
-{592}{}{Why would the GECK not be in sacred Vault 13? The scriptures SAY that the GECK is sealed within the sacred Vault 13.}
+{525}{}{(Renesco continua com o catarro.)}
+{526}{}{E algumas vezes a anciã fica furiosa com pequenas coisas, 
+como… heh-heh… Aquela noite em que eu ignorei meu voto de castidade e transei 
+com Kor – Que – Fulmina – Igual – A – Milhares de – Garanhões do 
+desfiladeiro de Arroyo.}
+{535}{}{(Renesco lhe dá um olhar seco.)}
+{536}{}{Foi como ontem. O corpo de Reyna brilhava como prata na luz da Lua 
+quando ela se ajoelhou e… ei, você quer saber? Você talvez goste da Anciã. 
+Ela é quase da sua idade.}
+{545}{}{(Renesco continua a lhe encarar como se de alguma maneira ele 
+pudesse fazer você desaparecer simplesmente imaginando com força o 
+bastante.)}
+{546}{}{Eu mencionei que Arroyo foi fundada pelo meu ancestral, o sagrado 
+Vault Dweller? Ele fez uma lendária jornada do sul depois de derrotar um 
+grande mal. (Estufa o peito e começa a olhar o longe orgulhosamente.) Agora, 
+*EU* sou o libertador da minha tribo, escolhido para procurar pelo sagrado 
+GECK!}
+{547}{}{Ta legal, então, chega de histórias… Melhor eu seguir meu caminho. 
+Louve o Vault!}
+{555}{}{(O olhar de Renesco se despedaça)}
+{556}{}{GECK? Como em '"Kit de Criação do Paraíso"? Vem com uma unidade 
+replicadora básica, leitor de holodisks com seleções da livraria do 
+congresso, e uma pequena caneta de pena com uma lanterna?}
+{557}{}{Sim, mas isso não é importante agora mesmo. Eu não acabei de te 
+contar sobre Arroyo.}
+{558}{}{Sim! Minha vila esta tendo problemas com suas colheitas, e o GECK é 
+necessário para restaurá-las. Você sabe onde eu posso encontrar um?}
+{559}{}{Dizem que está selado dentro do Vault 13, ou assim as lendas dizem. 
+Você conhece algum lugar assim?}
+{560}{}{Se você não vai me ESCUTAR quando eu recitar as escrituras sagradas, 
+eu dou o fora daqui.}
+{561}{}{Pode ser. Olha, eu tenho que ir.}
+{570}{}{Sua vila caipira fumadora de erva que se dane, e você com ela. Porque um primitivo que nem você está procurando por um GECK?}
+{571}{}{Arroyo… Minha vila caipira fumadora de erva, como você disse… está 
+tendo problemas com suas colheitas. O GECK é necessário para restaurá-las.}
+{572}{}{É dito que tem de estar selado dentro do Vault 13. Você conhece tal 
+lugar?}
+{573}{}{Nesse momento, eu não sinto que gostaria de compartilhar isso. 
+Adeus.}
+{580}{}{Hmmmmm. Com certeza poderia fazer isso… facilmente. SE você puder 
+encontrar um. Não sei nem aonde você poderia começar a olhar. NRC Ou Vault 
+City, mais eu duvido que eles ainda tenham um… ainda…}
+{581}{}{Ainda…?}
+{590}{}{Ainda, esses bastardos direitinhos podem lhe apontar uma pista. Se 
+eles falaram devagar e usarem palavras pequenas…}
+{591}{}{Você disse NRC ou Vault City? Eu vou ir a procura desses lugares e 
+perguntar aos seus moradores sobre o GECK. Obrigado.}
+{592}{}{Por quê o GECK não estaria no sagrado Vault 13? As escrituras DIZEM 
+que o GECK está dentro do sagrado Vault 13.}
 {593}{}{Very funny. I had some other questions...}
 {594}{}{Okay, then... I'll go check it out. Thanks.}
-{600}{}{Hell no, primate. I've heard of vaults, sure, but not Vault 13. Closest thing is Vault City to the northeast... and
- if those aristocratic jackanapes inhabited a Vault once, they sure as hell don't live there no more.}
-{601}{}{Vault City, you say? I will go in search of this Vault city and ask their villagers about the GECK.
- Thank you, Renesco. Praise the Vault! }
-{602}{}{"Vaults?" There is more than one Vault?}
-{603}{}{Hmmm. I had some other questions...}
-{610}{}{If you're going to Vault City, don't thank me, primate. You're better off in New Reno. At least the people
- sizing you up for a coffin are honest about it.}
-{611}{}{Okay, then... I'm on my way to Vault City. Praise the Vault! }
-{612}{}{I see. Thanks for the warning. }
-{620}{}{Why do you think it's called Vault THIRTEEN, spearchucker? What, was your tribe short on brains or do you just
- perform ritual lobotomies to cleanse the tiny voice of reason that speaks in your head?}
-{623}{}{Yeah, there you go sugar-talking me again. Thanks... for the info, at least. }
-{630}{}{A person's past ain't a smart topic of conversation here in New Reno. Now, what is you want?}
-{632}{}{You sound like an educated man. Have you ever heard of a GECK or a place called Vault 13?}
-{634}{}{Nothing, nevermind.}
-{640}{}{(Renesco snatches the glasses from you and puts them on. His eyes widen.) Sweet Reno! THAT'S what this damn
- shop looks like. (Frowns.) What a mess... and what is that on the shelves? Looks like brahmin shit.}
+{600}{}{Diabos, não, primata. Eu ouvi falar de Vaults, claro, mas não Vault 
+13. Coisa mais próxima é Vault City ao Nordeste… E Se esses aristocratas 
+impertinentes habitaram um Vault antes, eles com certeza não vivem mais 
+lá.}
+{601}{}{Você disse Vault City? Eu vou procurar essa Vault City e perguntar 
+a seus moradores sobre o GECK. Obrigado Renesco. Louve o Vault!}
+{602}{}{"Vaults?" Existe mais que um Vault?}
+{603}{}{Hmmm. Eu tenho outras perguntas…}
+{610}{}{Se você está indo para Vault City, não me agradeça, primitivo. É 
+melhor ficar em New Reno. Pelo menos as pessoas querendo te botar num túmulo 
+são honestas sobre isso.}
+{611}{}{Tá certo, então… estou indo para Vault City. Louve o vault!}
+{612}{}{Entendi. Obrigado pelo aviso.}
+{620}{}{Por que você acha que é chamada Vault TREZE, chupa-lanças? O quê, 
+sua tribo tinha poucos miolos ou você celebra rituais de lobotomia para 
+limpar a pequena voz de razão que fala na sua cabeça?}
+{623}{}{Yeah, aí vai você falando docemente comigo novamente. Obrigado… Pela 
+informação, pelo menos.}
+{630}{}{O passado de uma pessoa não é um assunto esperto de conversa aqui em 
+New Reno. Agora, o que você quer?}
+{632}{}{Você parece um homem educado. Você já ouviu falar de um lugar 
+chamado Vault 13?}
+{634}{}{Nada, esquece.}
+{640}{}{(Renesco pega os óculos de você e coloca-os. Seus olhos arregalam) 
+Doce Reno! É ASSIM que essa maldita loja se parece. (faz careta.) Que 
+bagunça… E o que é isso nas estantes? Parece merda de Brahmin.}
 {641}{}{You're welcome...}
-{642}{}{Enjoy.}
-{650}{}{Hmpphh! I... hmmm... uh... where did you get these?}
-{651}{}{Well, there was this tiny radscorpion, see, and there was this scientist that was training him, and... you know what? Even I
- don't believe it. Just keep them, all right?}
-{652}{}{Let's just say I found them. Somewhere.}
-{660}{}{Hey! Waitaminute! Where did you get these?}
-{661}{}{Well, there was this tiny radscorpion, see, and there was this scientist that was training him, and... you know what? Even I
- don't believe it. Just keep them, all right?}
-{670}{}{Well, I... hmnnn... I'm... eh, grateful. I thought I was going to have to suffer with those broken frames for the
- rest of my life. If I can do something for you, you let me know... and, uh, I'll THINK about it.}
-{671}{}{How about a discount?}
-{672}{}{Nevermind... look, just wear them in good health, okay? I had some other questions...}
-{673}{}{Someday - and that day may never come - I'll call upon you to do a service for me. But until that day
- accept these glasses as a gift on my daughter's wedding day. }
+{642}{}{Aproveite.}
+{650}{}{Hmpphh! Eu… hmmm… uh… onde você conseguiu pegar esses?}
+{651}{}{Bem, tinha aquele pequeno Radscorpion, vê, e tinha aquele cientista 
+que estava treinando-o, e… Você quer saber? Nem eu acreditei nisso. Só 
+fique com eles, tá certo?}
+{652}{}{Vamos apenas dizer que eu os encontrei. Por aí.}
+{660}{}{Ei! Espera um minuto! Aonde você encontrou esses?}
+{661}{}{Bem, tinha aquele pequeno Radscorpion, vê, e tinha aquele cientista 
+que estava treinando-o, e… Você quer saber? Nem eu acreditei nisso. Só 
+fique com eles, tá certo?}
+{670}{}{Bem, eu…hmnnn… Eu estou… er, muito grato. Eu achava que eu teria que 
+sofrer com esses vidros quebrados pelo resto da minha vida. Se eu puder 
+fazer algo por você, você me avisa… e, uh, eu vou PENSAR sobre isso.}
+{671}{}{Que tal um desconto?}
+{672}{}{Esquece… Apenas use-os numa boa, ta legal? Eu tenho algumas outras 
+questões…}
+{673}{}{Algum dia – e que esse dia nunca chegue – eu vou chamá-lo para fazer 
+um serviço para mim. Mas até que esse dia chegue, aceite esses óculos como um presente do 
+dia de casamento da minha filha.}
 {680}{}{Ehhh...}
 {681}{}{Errr...}
 {682}{}{Bem...}
-{683}{}{Okay! Okay! I'll give you a discount! Hmphhh.}
+{683}{}{Okay! Okay! Eu vou te dar um desconto! Hmphhh.}
 {684}{}{C'mon. Just a little discount. C'mon...}
-{687}{}{Great! Let's see what you've got, "buddy."}
+{687}{}{Grande! Vamos ver o que você tem, "amigo."}
 {688}{}{Excellent! Say, I had some other questions...}
-{689}{}{I'll be back to shop later. }
+{689}{}{Eu voltar pra loja depois.}
 {700}{}{Faça isso rápido.}
 {701}{}{Look, I'm a busy man...}
-{702}{}{Well? Out with it already!}
+{702}{}{Bem? Desembucha isso!}
 {703}{}{Sim?}
-{704}{}{Did I ever tell you about my village Arroyo?}
-{706}{}{Did you sell Jet to Richard Wright?}
-{707}{}{I've come to collect Mr. Salvatore's tribute.}
+{704}{}{Eu já te falei sobre minha vila Arroyo?}
+{706}{}{Foi você que vendeu Jet para Richard Wright?}
+{707}{}{Eu vim coletar o imposto do Sr. Salvatore.}
 {710}{}{I'm looking for some mine parts for Broken Hills...}
-{711}{}{You have an interesting vocabulary... are you from around here?}
-{712}{}{Nevermind. }
-{725}{}{(Eyes narrow.) So?}
-{726}{}{Well, I need the parts to fix the air purifier in their mine. I was told you could help me.}
-{727}{}{Well, I need the parts to fix the air purifier in their mine. Zaius sent me. He said, uh... said... uh... shit.}
-{728}{}{Well, I need the parts to fix the air purifier in their mine. Zaius sent me. He said, 'The canary's kicked the bucket.'}
-{735}{}{Yes, I do happen to have some parts that could fix the air purifier. 100 bucks.}
-{736}{}{I'll take it. Here you go.}
-{737}{}{How about fifty bucks?}
-{738}{}{Uh, I don't have a hundred on me... I'll be back later with the cash. }
-{745}{}{Inflation due to managerial irritation with hagglers. 200 or nothing.}
-{746}{}{(Frowns.) 200 or nothing.}
-{747}{}{Two hundred?! You said a HUNDRED a second ago!}
-{748}{}{Uh, I'll take it. Here you go.}
-{749}{}{Uh, I don't have two hundred on me... I'll be back later with the cash. }
-{755}{}{I STRONGLY doubt that is what he said. It wasn't 'The canary's kicked the bucket,' was it?}
-{756}{}{Well, yes.}
-{760}{}{And...?}
-{761}{}{"And?"}
-{765}{}{And the SECOND part was...?}
-{766}{}{"Second part?" He didn't say anything about a SECOND part. That low-down bast -!}
-{769}{}{Just testing you. There is no second part. Well, if Zaius sent you, I SUPPOSE I have some parts to spare. }
-{770}{}{Here you go. Don't drop them.}
-{771}{}{Thanks. I had some other questions...}
-{772}{}{Uh, thanks. }
-{780}{}{Don't you even TRY and pin that accusation on me. You want to know who did it, ask Tweedledum and Tweedledumber
- if they're still selling Jet laced with arsenic.}
-{781}{}{'Tweedledum' and 'Tweedledumber?' Who are they?}
-{782}{}{Jules said to ask you. He says you sell bad shit.}
-{783}{}{Jagged Jimmy said to ask you. He says you sell bad shit.}
-{784}{}{They both said to ask YOU about it. They say you sell bad shit.}
-{785}{}{I don't think it was arsenic... I DO think he was poisoned, though.}
-{786}{}{Can you tell me anything about this empty Jet canister?}
-{788}{}{I'll go ask them then. }
-{795}{}{That vulture Jules and that lying reprobate 'Jagged Jimmy.' Jules is always perched near the entrance
- to town looking for ignorant visitors to victimize, and Jagged Jimmy deals on 2nd Street to the rest of the Reno cattle.}
-{798}{}{They said to ask you. They say you sell bad shit. Shit that kills people.}
-{800}{}{I'll go talk to them then. }
+{711}{}{Você tem um vocabulário interessante… Você é daqui?}
+{712}{}{Esquece.}
+{725}{}{(Olhar desconfiado.) Então?}
+{726}{}{Bem, eu preciso de peças para concertar o purificador de ar na mina 
+deles. Me disseram que você poderia me ajudar.}
+{727}{}{Bem, eu preciso das peças para concertar o purificador de ar na mina 
+deles. Zaius me enviou. Ele disse uh… disse… uh… merda.}
+{728}{}{Bem, eu preciso de peças para concertar o purificador de ar na mina 
+deles. Zaius me enviou. Ele disse "O canário bateu as botas".}
+{735}{}{Sim, acontece que eu tenho algumas peças que poderiam concertar o 
+purificador de ar. 100 pratas.}
+{736}{}{Eu vou pegar. Aí esta.}
+{737}{}{Que tal cinqüenta pratas?}
+{738}{}{Uh, eu não tenho uma centena comigo… Eu voltarei depois com o 
+dinheiro.}
+{745}{}{Inflação devido á irritação administrativa com pechinchadores. 200 
+ou nada.}
+{746}{}{(faz careta.) 200 ou nada.}
+{747}{}{Duas centenas? Você disse uma CENTENA a um segundo atrás!}
+{748}{}{Uh, eu vou pegar. Aí vai.}
+{749}{}{Uh, Eu não tenho duas centenas comigo… eu volto depois com o 
+dinheiro.}
+{755}{}{Eu DUVIDO mesmo que ele tenha dito isso. Não seria "O canário 
+bateu as botas"?}
+{756}{}{Bem, sim.}
+{760}{}{E…?}
+{761}{}{"E?"}
+{765}{}{E a segunda parte era…?}
+{766}{}{"Segunda parte?" Ele não disse qualquer coisa sobre uma SEGUNDA 
+parte. Aquele ze-mané bast -!}
+{769}{}{Só estou testando você. Não tem segunda parte nenhuma. Bem, se Zaius 
+te enviou, eu SUPONHO que eu tenho algumas peças para compartilhar.}
+{770}{}{Aí vai. Não deixe-as cair.}
+{771}{}{Obrigado. Eu tenho algumas outras questões...}
+{772}{}{Uh, obrigado.}
+{780}{}{Melhor você nem tentar enfiar essa acusação em mim. Você quer saber 
+quem fez isso, pergunte para som de violino e som de violino agudo se eles 
+continuam vendendo Jet junto com arsênico.}
+{781}{}{'O som de violino' e 'Som de violino agudo?' Quem são eles?}
+{782}{}{Jules disse para perguntar para você. Ele diz que você vende merda 
+ruim.}
+{783}{}{Jagged Jimmy disse para perguntar para você. Ele diz que você vende 
+merda ruim.}
+{784}{}{Os dois disseram para perguntar a VOCÊ sobre isso. Eles dizem que 
+você vende merda ruim.}
+{785}{}{Eu não acho que foi arsênico… EU REALMENTE acho que ele foi 
+envenenado, porém}
+{786}{}{Poderia você falar-me qualquer coisa sobre essa seringa de Jet 
+vazia?}
+{788}{}{Irei questioná-los então.}
+{795}{}{Esse urubu Jules e esse protegido mentiroso "Jagged Jimmy". Jules 
+tá sempre pousado perto da entrada da cidade procurando visitantes 
+ignorantes para vitimizar, e Jagged Jimmy negocia na 2nd Street o resto 
+do rebanho de Reno.}
+{798}{}{Eles dizem para perguntar para você. Eles dizem que você vende 
+merda ruim. Merda que mata pessoas.}
+{800}{}{Eu vou falar com eles então.}
 {805}{}{Look, primate... you don't even KNOW what you're babbling about.}
-{806}{}{Oh, I think I -}
-{807}{}{Yeah? Well then, why don't -}
-{808}{}{Nevermind. I had some other qu -}
-{809}{}{Look I better be go -}
-{815}{}{OPEN your mouth again and even a WHISPER, even a HINT, reaches Mr. Wright that I... or you... might've had anything
- to do that boy's OD, our lives ain't worth Brahmin shit. If THAT happens --}
-{816}{}{Oh? So you -}
-{817}{}{Me?! Now hold on just a -}
-{825}{}{If THAT happens, you tribal SHIT, I SWEAR you'll die before I do. Now... for the LAST time, that kid never bought SHIT
- from me, understand? Don't you EVER say his name in here again, or so help me...}
-{826}{}{JULES says he didn't sell to the kid. JIMMY says he didn't sell to the kid. YOU say you didn't sell to him. One
- of you is lying.}
-{827}{}{JULES says he didn't sell to the kid. JIMMY says he didn't sell to the kid. YOU say you didn't sell to him. Either
- you all are lying, or... somebody else is responsible.}
-{828}{}{Can you tell me anything else about Richard Wright? Who did he hang around who might have used drugs?}
+{806}{}{Oh, eu acho eu -}
+{807}{}{Yeah? Certo então, por que nã -}
+{808}{}{Esquece. Eu tenho algumas outras per -}
+{809}{}{Olhe melhor -}
+{815}{}{Abra sua boca de novo e até mesmo que um cochicho, até mesmo que uma dica, chegue ao Sr.Wright de que eu… ou você… talvez tenhamos tido alguma coisa a ver com a overdose do garoto, nossas vidas não valem merda de Brahmim. Se ISSO acontecer --}
+{816}{}{Oh? Então você -}
+{817}{}{Eu?! Agora pare por um -}
+{825}{}{Se ISSO acontecer, seu tribal de MERDA, EU JURO que você vai morrer 
+antes de mim. Agora… pela última vez, essa criança nunca comprou nenhuma MERDA de 
+mim, entendeu? Melhor você nunca mais dizer seu nome de novo, ou então me 
+ajude…}
+{826}{}{JULES diz que ele não vendeu para o garoto. JYMMY diz que ele não 
+vendeu para o garoto. VOCÊ diz que você não vendeu para ele. Um de vocês 
+esta mentindo.}
+{827}{}{JULES diz que ele não vendeu para o garoto. JYMMY diz que ele não 
+vendeu para o garoto. VOCÊ diz que você não vendeu para ele. Ou vocês todos 
+estão mentindo, ou… Alguém mais é responsável.}
+{828}{}{Você pode me dizer mais alguma coisa sobre Richard Wright? Por acaso 
+ele saía com alguém mais que talvez tenha usado drogas?}
 {829}{}{All right... look, I had some other questions...}
 {830}{}{Okay, okay... I'm going now. }
-{835}{}{I can answer that easy. One of those two mongrels is lying to save their behind. Between the two, they
- sell 90% of the Jet in Reno, and that's the only place the 'boy' we're talking about could've gotten it from.}
-{836}{}{Or somebody that bought from one of you three. Who were your customers last month who might have had contact
- with... the victim?}
-{837}{}{Can you tell me anything else about Richard Wright? Did he hang around anyone else who might have used drugs?}
+{835}{}{Eu posso responder isso facilmente. Um dos dois idiotas está 
+mentindo para salvar o próprio traseiro. Eles vendem 90% do Jet em 
+Reno, e esse é o único lugar no qual o 'garoto' poder ter pego.}
+{836}{}{Ou alguém que comprou de um dos três. Quais foram seus clientes que 
+no mês anterior talvez possam ter tido contato com a vítima?}
+{837}{}{Você pode me dizer mais alguma coisa sobre Richard Wright? Por acaso 
+ele saía com alguém mais que talvez tenha usado drogas?}
 {838}{}{I see... I had some other questions...}
-{839}{}{I'm going now. }
-{845}{}{You STUPID bastard. }
-{846}{}{You STUPID bitch. }
-{847}{}{I TOLD you not to say his name in here. Get out! I see you again, I'll SHOOT YOU DEAD. If Mr. Wright comes looking
- for me, thinks I killed his boy, YOU'LL die first.}
+{839}{}{Estou indo agora.}
+{845}{}{Seu bastardo estúpido.}
+{846}{}{Sua puta estúpida.}
+{847}{}{Eu DISSE para você não falar o nome dele aqui. Dê o fora! Se eu ver 
+você de novo, eu VOU ATIRAR EM VOCÊ! Se o Sr.Wright vier procurando por mim, 
+achando que eu matei seu garoto, VOCÊ VAI morrer primeiro.}
 {848}{}{Don't threaten me, old man...}
-{849}{}{Whoa. I'm going now. }
-{855}{}{I have NO idea. I didn't know the boy, so I don't know his friends OR his habits. The only one who could tell
- you for sure is too busy being dead in Golgotha to tell you.}
+{849}{}{Whoa. Eu to indo agora.}
+{855}{}{Eu NÃO tenho idéia. Eu não conhecia o garoto, então eu não conhecia 
+seus amigos OU seus hábitos. O único que poderia lhe dizer claramente está muito 
+ocupado morto em Golgotha para lhe falar.}
 {856}{}{Golgotha?}
-{858}{}{Maybe I'll do that. Goodbye. }
-{865}{}{Then you wasted a trip. I PAID Mr. Salvatore his 'tribute' *two weeks ago,* as per the schedule. I don't know
- who you are, or what you think you're doing, but you aren't getting one red chip from me. Get.}
-{866}{}{Look, gramps. Stop giving me a hard time. Cough up the chips, or you'll be coughing up blood.}
-{867}{}{I am Mr. Salvatore's representative. You will give me the tribute I have asked for, and you will do so now.}
-{868}{}{I'll check with Mr. Salvatore about the schedule, then I'll be back. }
-{875}{}{You lose your hearing, boy? }
-{876}{}{You lose your hearing, girl? }
-{877}{}{I SAID I. PAID. THE. TRIBUTE. ALREADY. *Two weeks ago.* If you were really from Salvatore, you would know that. Now git!}
-{878}{}{Look. Last time: Hand over the chips.}
-{879}{}{You are the one who has lost your hearing. I am Mr. Salvatore's representative, and you will pay the tribute.}
-{880}{}{I warned you, gramps. Looks like we'll be doing this the hard way. Time to die.}
-{881}{}{I'll check with Mr. Salvatore about the tribute, then I'll be back. }
-{890}{}{Prove you're from Salvatore, and I'll CONSIDER giving you the chips. Else, you aren't getting shit.}
-{891}{}{I do not need to prove myself. I am his representative, and that is all you need to know.}
-{892}{}{What, you think this laser pistol is just for show?}
-{893}{}{If you do not give me the tribute in five seconds, I WILL kill you.}
-{900}{}{Get the hell out of here, you penny-ante thug! You so much as show your face in here again, and I'll shoot you myself!}
-{901}{}{I warned you. Time to die.}
-{910}{}{Hmmmph. Don't matter, I can't pay. The last collection nearly wiped me out.}
-{911}{}{That is not my concern. You will get me the money now. Mr. Salvatore does not want to hear your excuses.}
-{920}{}{Threatening me ain't gonna help. Mr. Salvatore wants his money. I don't have it. He'll be mad at me, but he'll
- be mad at you, too. Salvatore doesn't LIKE people who let him down... you better figure out something quick.}
-{921}{}{I already have. I will pay your share for this period. In exchange, you will give me a discount at your store.}
+{858}{}{Talvez eu faça isso. Adeus.}
+{865}{}{Então você perdeu a viagem. EU PAGUEI ao Sr.Salvatore seu 'tributo' 
+*duas semanas atrás,* pelo compromisso. Eu não sei quem você é, ou o 
+que você acha que está fazendo, mas você não vai pegar uma moedinha vermelha 
+de mim. Saia.}
+{866}{}{Olhe, grão-de-bico. Pare de me dar dificuldade. Espirre as moedas, 
+ou você vai estar tossindo sangue.}
+{867}{}{Eu sou o representante do Sr.Salvatore. Você vai me dar o tributo 
+que eu pedi, e você fará isso agora.}
+{868}{}{Eu vou checar com o Sr.Salvatore sobre o compromisso, e então eu 
+voltarei.}
+{875}{}{Você perdeu sua audição, garoto?}
+{876}{}{Você perdeu sua audição, garota?}
+{877}{}{EU DISSE EU-JÁ-PAGUEI-O-IMPOSTO. *Duas semanas atrás.* Se você 
+fosse realmente do Salvatore, você saberia isso. Agora rasga!}
+{878}{}{Olhe. Última vez: passe-me as moedas.}
+{879}{}{Você é que perdeu a sua audição. Eu sou um representante do 
+Sr.Salvatore, e você vai pagar o imposto.}
+{880}{}{Eu te avisei, grão-de-bico. Parece que nós vamos ter que fazer 
+isso da maneira difícil. Hora de morrer.}
+{881}{}{Eu vou checar com o Sr.Salvatore sobre o imposto, então eu vou 
+voltar.}
+{890}{}{Prove que você representa os Salvatore, e eu IREI CONSIDERAR te dar as moedas. Senão você não levará merda nenhuma.}
+{891}{}{Eu não preciso provar nada. Eu sou o representante dele, e 
+isso é tudo que você precisa saber.}
+{892}{}{O quê, você acha que essa pistola laser é só para mostrar?}
+{893}{}{Se você não me dar o imposto em cinco segundos, EU VOU MATAR você.}
+{900}{}{Dê o fora daqui, porra, seu ladrão de moedas! É só você mostrar a sua cara aqui de novo, e eu atiro em você eu mesmo!}
+{901}{}{Eu te avisei. Hora de morrer.}
+{910}{}{Hmmmph. Não importa, não posso pagar mesmo. A última coleta quase me quebrou.}
+{911}{}{Problema seu. Você dará o dinheiro agora. O Sr. Salvatore não está interessado nas suas desculpas.}
+{920}{}{Me ameaçar não vai ajudar. Sr.Salvatore quer seu dinheiro. Eu não 
+tenho. Ele vai ficar puto comigo, mas ele vai ficar puto com você, também. 
+Salvatore não GOSTA de pessoas que o decepcionam… Melhor você pensar em algo 
+rápido.}
+{921}{}{Já pensei. Eu vou pagar sua parte nesse período. Em troca, você 
+mais me dar um desconto na sua loja.}
 {924}{}{I'll try and figure something out... I'll be back.}
-{930}{}{Now hold on, you Neanderthal...}
-{931}{}{I will not argue with you anymore. My patience is at an end. Those are my terms.}
-{940}{}{I... look, now, I... hmmmm... all right, then. You get a..."discount."}
-{941}{}{Let me see your stock. I will make my 'purchases' now.}
-{943}{}{I don't want anything now, but don't worry, I'll be back. }
-{950}{}{(Folds arms.) Adequate. If you are expecting some handout for being a Good Samaritan, you are GRAVELY
- mistaken. Now... what do you want?}
-{951}{}{Goddamn whatever Deathclaw or marketing director spawned you! You WANT something?! Here! HERE! Take THIS!
- Take ALL I have! Anything to get you to LEAVE ME ALONE!}
-{952}{}{Let me see your stock.}
-{953}{}{I had some questions...}
+{930}{}{Agora pare, seu neandertal…}
+{931}{}{Eu não quero mais discutir com você. Minha paciência está no fim. 
+Esses são os meus termos.}
+{940}{}{Eu… Olhe, agora, eu… hmmmm… Tá certo, então. Você vai pegar um… 
+"desconto."}
+{941}{}{Deixe-me ver seu estoque. Eu vou fazer minhas 'compras' agora.}
+{943}{}{Eu não quero nada agora, mas não se preocupe, eu vou voltar.}
+{950}{}{(cruza os braços.) Adequados. Se você está esperando alguma nota por 
+ser um bom samaritano, você está GRAVEMENTE errado. Agora… O que você quer?}
+{951}{}{Deus amaldiçoe seja lá o que Deathclaw ou diretor de marketing te deu! Você QUER alguma coisa? Aqui! AQUI! Tome ISTO! Pegue TUDO que eu tenho! Qualquer coisa para fazer você ME DEIXAR SOZINHO!}
+{952}{}{Deixe-me ver seu estoque.}
+{953}{}{Eu tenho algumas perguntas…}
 {955}{}{What the hell IS this...? }
-{960}{}{Poisoned? What are you babbling about?}
-{961}{}{The body's condition was consistent with Radscorpion poisoning. I think he died because his Jet was poisoned,
- NOT because of an overdose.}
-{962}{}{I found an empty Jet canister in his room. It had traces of Radscorpion venom in it.}
-{963}{}{Nevermind. I had some other questions...}
-{964}{}{Forget it. I have to be going now. }
-{970}{}{Radscorpion...? (Renesco suddenly freezes, as if remembering something.)}
-{971}{}{You son of a bitch. You *poisoned* the kid, didn't you?}
-{972}{}{You know something about it, don't you?}
-{980}{}{Whoa! Now wait just a minute...!}
-{981}{}{Don't mess with me, Renesco! You try and weasel out of this one, and you'll be joining Richard. Understand?}
-{982}{}{That's it. Me and Mr. Wright are going to have a little talk. Good day, Renesco... or should I say, "goodbye."}
-{990}{}{Wait a minute! Look... I didn't SELL it to the kid! He never bought ANYTHING from me! I... was ASKED
- to make some Jet laced with radscorpion venom, but... but I DIDN'T sell it to the kid!}
-{991}{}{You were ASKED to make poisoned Jet? For who?}
-{992}{}{Who DID you sell it to?}
-{995}{}{The Salvatores requested it -- they said it was a..."special order." I didn't know they were going to give
- it to the Wright kid. You HAVE to believe me... I don't poison kids!}
-{996}{}{Just adults, huh, Renesco? You sorry son of a bitch...}
-{997}{}{WHY did you poison the Jet? You had to know they were going to kill someone with it.}
-{998}{}{All right, all right, I believe you. I had some other questions...}
-{999}{}{Just shut up. Look, I had some other questions...}
-{1000}{}{The Salvatores, huh? I think Mr. Wright will want to know about this. }
-{1005}{}{The Salvatores OWN me, they OWN this place, and when they want something, I give it to them, or they'll kill
- me and have me replaced. I never meant any harm to that boy.}
-{1007}{}{Just shut up. Look, I had some other questions for you...}
-{1008}{}{Yeah, I'm sure you had the best of intentions while you were spiking that Jet with poison. Goodbye, Renesco.}
-{1009}{}{Later, Renesco. }
-{1020}{}{It's empty. It's a Jet canister like the hundreds of others all over New Reno. Anything else I can help you with?}
-{1021}{}{Does this belong to you?}
-{1022}{}{Know anything about the radscorpion venom traces that are in this canister?}
-{1023}{}{Yeah, I had some other questions...}
-{1030}{}{No. Anything ELSE I can help you with?}
-{1033}{}{No. Goodbye. }
-{1040}{}{Golgotha? Mass graveyard outside of town to the south. Follow the stench... the one OTHER than your own.}
-{1041}{}{Oh. I had some other questions...}
-{1042}{}{You keep sweet-talking me like that, Renesco, and you'll be a long time dying. }
-{1043}{}{THANKS, Renesco. }
+{960}{}{Envenenado? Sobre o que você está tagarelando?}
+{961}{}{A condição do corpo era compatível com envenenamento de Radscorpion. 
+Eu acho que ele morreu por que seu Jet estava envenenado, NÃO por causa de 
+uma overdose.}
+{962}{}{Eu encontrei uma seringa de Jet vazia no quarto dele. Tinha traços 
+de veneno de Radscorpion dentro.}
+{963}{}{Esqueça. Eu tenho outras perguntas…}
+{964}{}{Esqueça isso. Eu tenho que ir agora.}
+{970}{}{Radscorpion…? (Renesco congela subitamente, como se lembrasse de 
+alguma coisa.)}
+{971}{}{Seu filho da puta. Você *envenenou* o moleque, não foi?}
+{972}{}{Você sabe algo sobre isso, não sabe?}
+{980}{}{Whoa! Agora espere só um minuto…!}
+{981}{}{Não tente dar uma de espertinho comigo, Renesco! Tente jogar a culpa em cima de mim e você 
+vai fazer companhia ao Richard. Entendeu?}
+{982}{}{Chega. Eu e o Sr.Wright vamos ter uma pequena conversa. Bom dia, 
+Renesco… ou eu deveria dizer,"adeus."}
+{990}{}{Espera um minuto! Olhe… Eu nunca VENDI isso para o moleque! Ele 
+nunca comprou nada de mim! Eu… fui solicitado para fazer algum Jet banhado 
+com veneno de Radscorpion, mas… mas eu NUNCA vendi isso para o moleque!}
+{991}{}{Pediram para você fazer um jet envenenado? Para quem?}
+{992}{}{Você vendeu isso para QUEM?}
+{995}{}{Os Salvadores pediram – Eles disseram que isso era um… "pedido 
+especial." Eu não sabia que eles iriam dar isso para a criança Wright. Você 
+TEM que acreditar em mim… Eu não enveneno crianças!}
+{996}{}{Só adultos, hein, Renesco? Seu filho da puta lamentável…}
+{997}{}{PORQUE você envenenou o Jet? Você deveria saber que eles iriam 
+matar alguém com aquilo.}
+{998}{}{Ta certo, ta certo, eu acredito em você. Eu tenho outras 
+perguntas…}
+{999}{}{Apenas cale a boca. Olhe, eu tenho algumas outras perguntas…}
+{1000}{}{Os Salvadores, hêin? Eu acho que o Sr. Wright vai querer saber 
+disso.}
+{1005}{}{Os Salvadores MANDAM em mim. Eles MANDAM nesse lugar, e quando eles 
+querem alguma coisa, eu dou a eles, ou então eles me matam e me 
+substituem. Eu nunca quis causar nenhum ferimento a esse garoto.}
+{1007}{}{Apenas cale a boca. Olhe, eu tenho algumas outras perguntas…}
+{1008}{}{Yeah, estou certo de que você tinha a melhor das intenções 
+enquanto você estava misturando esse Jet com veneno. Adeus, Renesco.}
+{1009}{}{Até mais tarde, Renesco.}
+{1020}{}{Está vazio. É uma seringa de Jet igual a centenas de outras em toda 
+New Reno. Mais alguma coisa em que posso lhe ajudar?}
+{1021}{}{Por acaso isso é seu?}
+{1022}{}{Sabe qualquer coisa sobre os traços de veneno de Radscorpion 
+que estão nessa seringa?}
+{1023}{}{Yeah, eu tenho algumas outras perguntas…}
+{1030}{}{Não. Posso te ajudar com alguma OUTRA coisa?}
+{1033}{}{Não. Adeus.}
+{1040}{}{Golgotha? O cemitério enorme fora da cidade ao sul. Siga o 
+fedor… o único ALÉM do seu próprio.}
+{1041}{}{Oh. Ei, tenho algumas outras perguntas…}
+{1042}{}{Continue falando carinhosamente desse jeito, Renesco, e você vai 
+agonizar por muito tempo.}
+{1043}{}{OBRIGADO, Renesco.}
 {1526}{}{And sometimes the elder gets upset at little things, like... heh-heh... that one night when I ignored my vow of
  chastity and snuck out with Kor - Who - Thunders - Like - a - Thousand - Stallions to the Arroyo canyon...}
-{1536}{}{It was like yesterday. Kor's body rippled like bronze in the moonlight as I knelt down and... hey, you know what?
- You might like the elder. She's about your age.}
-{2000}{}{You have exposed Renesco's involvement in Richard Wright's death.}
-{5257}{}{ is so big. Me go now }
-{5259}{}{ no shout WHY YOU KEEP SHOUTING BE STOPPING THE SHOUTING }
-{5260}{}{...*sniff*...go get big brother to beat you up, old man! Then we'll have ice cream and...*sniff*...CAKE
- and a big party with clowns and...}
+{1536}{}{Foi como ontem. O corpo de Kor agitou-se que nem bronze na luz da 
+Lua quando eu me ajoelhei e… Ei, você quer saber? Você talvez goste da anciã. 
+Ela tem quase a sua idade.}
+{2000}{}{Você expôs o envolvimento de Renesco na morte de Richard Wright.}
+{5257}{}{É tão grande. Eu ir agora.}
+{5259}{}{Não grite. PORQUE VOCÊ CONTINUA GRITANDO? PARE A GRITARIA!}
+{5260}{}{…*sniff*…vou chamar o irmãozão pra te bater, velhote! Aí então nós 
+teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}
 {6010}{}{I know this must come as something of a shock to you, but a white smock does not automatically confer a cardiology degree. I am a pharmacist. I produce chems. Then you buy them. Then, you leave. Quietly.}
 {6011}{}{Fair enough. Moving on, then...}
@@ -443,4 +575,4 @@
 {6130}{}{All the parts that weren't belches or grunts, anyway. Now wait here. (Renesco takes your money and goes to work). And for the love of God, *try* not to get any of my merchandise stuck in your simian face-holes while my back is turned.}
 {6141}{}{Oh, *this* again. My fee is $200, in the highly likely event that it slipped your mind.}
 {6142}{}{Once more, in case you were distracted by something shiny the first time around: $300. And don't push your luck.}
-{6259}{}{ KILL YOU}
+{6259}{}{MATAR VOCÊ}

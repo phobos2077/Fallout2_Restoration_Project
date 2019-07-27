@@ -12,7 +12,7 @@
 {111}{}{Obávám se, e nerozumím tvému jazyku. ::uklání se:: Hezkı den.}
 {112}{}{Ahóój!}
 {113}{}{Jsem Dragon, pøíteli. Bojuji s utlaèovateli a mım nepøítelem Lo Panem, kterı touí vládnout tomuto mìstu. Bojuji a uèím bojovat i další.}
-{114}{}{Uèit ty já!}
+{114}{}{Ty uèit mì!}
 {115}{}{Dík.}
 {116}{}{Pak tedy zaèneme.}
 {117}{}{[KONEC]}
@@ -21,27 +21,27 @@
 {120}{}{Prosím, omluv moji nevychovanost, ale teï s tebou nemùu mluvit.}
 {121}{}{Eeeeeh... dobøe!}
 {122}{}{To byl Lo Pan. Je to mùj úhlavní nepøítel a rival. Jestli nade mnou zvítìzí, budu se obávat o blaho lidu.}
-{123}{}{Lidé jsou ovce. Mìl bys slouit jen sám sobì.}
+{123}{}{Lidi jsou ovce. Mìl bys slouit jen sám sobì.}
 {124}{}{Pak musíš zvítìzit.}
 {125}{}{Chápu. Mám další otázky.}
 {126}{}{Ty tomu opravdu vìøíš? Pak by ses mìl moná vypoøádat s Lo Panem ty. Hezkı den.}
 {127}{}{[KONEC]}
 {128}{}{To musím. Obávám se ale, e jsme si v boji stále rovni. Dokonce i naši následovníci jsou si rovni. Bude zapotøebí jeden èlovìk, kterı naruší rovnováhu sil.}
-{129}{}{Já jsem ten èlovìk.}
-{130}{}{Chápu. Dobøe, mám další otázky.}
-{131}{}{Chápu. Dobøe, tak zatím.}
+{129}{}{Já jsem ten nìkdo.}
+{130}{}{Chápu. No, mám další otázky.}
+{131}{}{Chápu. No, zatím.}
 {132}{}{Opravdu? Moná bychom tì mìli vyzkoušet. Chci ho ale porazit pouze v poctivém boji.}
 {133}{}{Hele, umøe tak jako tak, take jakı je v tom rozdíl?}
-{134}{}{To zní fér. V èem spoèívá ta zkouška?}
-{135}{}{Hm. Fajn, v tom pøípadì u musím jít.}
+{134}{}{To zní fér. Jak bude ta zkouška probíhat?}
+{135}{}{Aha. Tak v tom pøípadì musím jít.}
 {136}{}{Ti, jen bojují beze cti, nejsou o nic lepší ne zvíøata!}
 {137}{}{Dobrá, Pollyanno. Klídek.}
 {138}{}{Já tomu øíkám chytrı boj. "Èest" je jen vymyšlené slovo ospravedlòující zabijáky.}
 {139}{}{Chápu. Mám další otázky.}
 {140}{}{Jasnì. Zatím.}
 {141}{}{Nejdøíve se dohodneme, jestli chceš, aby tento boj byl a do konce, nebo jenom test tvıch schopností proti mım.}
-{142}{}{A do konce. Myslím, e tì dokáu porazit.}
-{143}{}{Test schopností. Nechci tì zabít.}
+{142}{}{A do konce. Mám na tebe.}
+{143}{}{Jenom zkoušku schopností. Nechci tì zabít.}
 {144}{}{Ani jedno. Zapomeò na to.}
 {145}{}{Nejsi pro tohle ten pravı èlovìk. Hezkı den.}
 {146}{}{[KONEC]}
@@ -57,7 +57,7 @@
 {156}{}{[Zaèít]}
 {157}{}{Avšak pokud vstoupíš do arény, nemùeš netvrdit, e jsi tak neuèinil z vlastní vùle. Take jakmile do ní jednou vstoupíš, nemìl bys také dodrovat její pravidla?}
 {158}{}{Ano, asi jo. Ale v situaci na ivot a na smrt musíš udìlat cokoliv, abys pøeil.}
-{159}{}{Ne, to si nemyslím.}
+{159}{}{Ne. Myslím, e ne.}
 {160}{}{Máš pravdu. Dobøe tedy. Pokud chceš bojovat s Lo Panem, budeš pøi tom ozbrojenı nebo neozbrojenı? Pokud tì poádáme o pomoc, chceme, abys dodroval naše pravidla.}
 {161}{}{Jasnì, udìlám to vaším zpùsobem.}
 {162}{}{Nene. Zapomeò na to.}
@@ -67,7 +67,7 @@
 {166}{}{Jsem Dragon, ochránce lidí a úhlavní nepøítel Lo Pana. On a já jsme posledními mistry našeho bojového umìní.}
 {167}{}{Nejsem úplnì nejhorší v pìstním souboji. Nechceš si mì vyzkoušet?}
 {168}{}{Zajímavé. To musí bıt opravdu prospìšné. Mám další otázky.}
-{169}{}{Díky. Nashle.}
+{169}{}{Dík. Naskle.}
 {170}{}{Pokusil ses zneuctít mùj lid, take tì teï musím zabít. Omlouvám se za pøípadnou bolest pøi umírání.}
 {171}{}{[KONEC]}
 {172}{}{Nemluv na mì, ty ovce Hubu. Nemám pro tebe ádné vyuití.}
@@ -75,29 +75,26 @@
 {174}{}{Máš èest prasete a zásady bahníka. Nechci se s tebou pøátelit.}
 {175}{}{[KONEC]}
 {176}{}{Tvé bojové schopnosti jsou opravdu úasné. Budeš bojovat s Lo Panem?}
-{177}{}{Ano. Udìlám to hned teï.}
-{178}{}{To opravdu není mùj boj.}
+{177}{}{Ano. Udìlám to teï hned.}
+{178}{}{To fakt není mùj boj.}
 {179}{}{Jasnì, ale nejdøív mám nìjaké otázky.}
 {180}{}{Rozumím. Pokud si to rozmyslíš, víš kde ho najdeš. Prostì mu øekni, e pøicházíš ve jménu Dragona.}
-{181}{}{Dobøe. Mám další otázky.}
+{181}{}{Dobøe. Mám otázky.}
 {182}{}{Eeee... dobøe. Nashle.}
 {183}{}{Nedávno jsem se vrátil z mise cti. Tu noc jsme byli silní.}
-{184}{}{Skvìle. Mám další otázky.}
-{185}{}{Skvìle. Nashle.}
+{184}{}{Skvìle. Mám otázky.}
+{185}{}{Vıbornì. Nashle.}
 {186}{}{Lo Pan je mrtev! Urèitì jsi to ty, komu musím podìkovat. Nyní jsem si jistı, e má škola povede náš bojovı styl i v budoucnosti.}
-{187}{}{Skvìle. Mám další otázky.}
-{188}{}{Skvìle. Nashle.}
+{187}{}{Skvìle. Mám otázky.}
+{188}{}{Vıbornì. Nashle.}
 {189}{}{Tvé kung fu je tu k nièemu.}
 {190}{}{Jednou tì porazím, Dragone.}
 {191}{}{Poèkám si na tebe, Lo Pane.}
-
 {200}{}{Dragon odhalí tvùj zámìr a ty kolem nìj jenom proklouzneš.}
 {201}{}{Zlodìj nemá ádnou èest mezi Shi. Teï odejdi.}
 {202}{}{Varoval jsem tì, abys odešel. Teï za to zaplatíš.}
 {203}{}{Zdá se, e u ode mì nepotøebuješ ádnı trénink.}
-
 {204}{}{Tréninky nejsou jenom o fyzièce, zelenáèi. Pøemıšlej o tom a vra se zítra.}
-
 {205}{}{Jsem Mistr Ziggy, tvùj poslední test.}
 {206}{}{Jsem Zurak. Buï pøipraven.}
 {207}{}{Jsem Jimmy. Pøiprav se.}
@@ -110,31 +107,24 @@
 {214}{}{Podaøilo se ti porazit Dragona v boji na ivot a na smrt. Aèkoliv to byl férovı zápas, jeho ztráta zasáhne mnoho lidí.}
 {215}{}{U jsi vyøídil mé mue a prošel jsi mojí zkouškou. Jsi pøipravenı bojovat s Lo Panem.}
 {216}{}{Tvé schopnosti se budou zlepšovat jen kdy je budeš vyuívat. U ti nemùu víc pomoct ve studiu.}
-
-#training messages
 {217}{}{Zaèneme. Opakuj po mì.}
-{218}{}{Pro dnešek u bylo dost trénování.}
+{218}{}{Pro dnešek je náš trénink u konce.}
 {219}{}{Dragon je velmi dobrı, ale nìco ses taky nauèil.}
-
-{220}{}{U jsi porazil mé mue. Nikdo další u tì nechce vyzvat na souboj.}
-
-
+{220}{}{U jsi porazil moje mue. Nikdo další s tebou nechce bojovat.}
 {221}{}{I kdy jsi to nemohl vìdìt, odstranìním Lo Pana jsi pomohl naší budoucnosti. Máš naše díky.}
-{222}{}{Bylo mi potìšením. Nashle.}
+{222}{}{Bylo mi potìšením. Zatím.}
 {223}{}{Nemít zaè. Naskle.}
 {224}{}{Není zaè. Mùu se na nìco zeptat?}
-{225}{}{Vítat. Já ptát?}
-
-{226}{}{ZVÍTÌZIL jsi!}
+{225}{}{Prosím. Já ptát?}
+{226}{}{VYHRÁL jsi!}
 {227}{}{PROHRÁL jsi!}
-{228}{}{Další soupeø!}
-
-{230}{}{Nejprve musíš prokázat, e to dokáeš. Postavím tì proti svım pìti bojovníkùm - postupnì. Kdy je porazíš, èeká na tebe tvoje poslední zkouška.}
-{231}{}{Jaká?}
+{228}{}{Další protivník!}
+{230}{}{Nejprve musíš prokázat, e to dokáeš. Postavím tì proti svım pìti bojovníkùm -  postupnì. Kdy je porazíš, èeká na tebe tvoje poslední zkouška.}
+{231}{}{Co to máš?}
 {232}{}{To zní moc obtínì. Nashle.}
 {233}{}{Budeš muset porazit mého vybraného áka. Nicménì ádnı z tìchto soubojù nebude na smrt.}
 {234}{}{Dobøe, pojïme na to.}
 {235}{}{Vyøiï si to s Lo Panem sám.}
 {236}{}{(Dragon tì studuje.) S lítostí ti oznamuji, e nedovolím, aby sis ublíil.}
-{237}{}{Dobøe, ale mùu se ještì na nìco zeptat?}
+{237}{}{Dobøe, ale mùu se na nìco zeptat?}
 {238}{}{Fajn. Nashle.}

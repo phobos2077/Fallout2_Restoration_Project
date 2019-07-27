@@ -1,10 +1,6 @@
-# 0. Look
 {100}{}{Vidíš obèana Denu.}
 {101}{}{Vidíš Dereka.}
-
 {150}{}{Vypadá docela obratnì.}
-
-# 1.  Night (From Where to go)
 {200}{}{Vypadni.}
 {201}{}{Jsem moc unavenej na to, abych si povídal.}
 {202}{}{Vypadni z mýho území.}
@@ -13,8 +9,6 @@
 {205}{}{Jsem utahanej.}
 {206}{}{Doh!}
 {207}{}{Hej, co tu dìláš?}
-
-# 2. Floats before Quest 2 (From Where to go)
 {220}{}{Vyhni se Metzgerovi, divochu.}
 {221}{}{Proè je poøád takový zatracený horko?}
 {222}{}{Proè žijem v poušti?}
@@ -24,8 +18,6 @@
 {226}{}{Proè mám poøád takovou smùlu?}
 {227}{}{Lidi mì vždycky podrazej.}
 {228}{}{Fred je snílek. Mistr plánování, to urèitì.}
-
-# 3. Floats after Job 2, and having talk to him (From Where to go)
 {240}{}{Pšššt! Jsou všude.}
 {241}{}{Zastav je!}
 {242}{}{Takže jsi našel tu zatracenou knihu?}
@@ -39,32 +31,22 @@
 {250}{}{Och, pìknì mì bolí hlava.}
 {251}{}{Jsem šéfkuchaø!}
 {252}{}{Nikdy bych neotrávil nováèkùm jídlo.}
-
-# 4. 1st Time, On Job (From Where to go)
 {260}{}{Nazdar, hledáš èerstvì upeèenej chleba?}
 {261}{}{Ano.}
 {262}{}{Hledám Beckyinu knihu.}
 {263}{}{Ne, nashle.}
-
-# 5. Next Times (From Where to go)
 {270}{}{Zdravím.}
 {271}{}{Kde je Beckyina kniha?}
 {272}{}{Hej, co takhle kousek toho chleba?}
 {273}{}{Nashle.}
-
-# 6. Bread (From 4)
 {280}{}{Ha! Já taky. Už jsem ti øíkal, jakej jsem skvìlej kuchaø? Becky mì ale z nìjakýho dùvodu nechce zamìstnat. Øíká, že jsem prej labilní.}
 {281}{}{Nejspíš má pravdu.}
 {282}{}{Hledám Beckyinu knihu.}
 {283}{}{To je skvìlé. Už, eh... musím jít.}
-
-# 7. She's right (From 6)
 {290}{}{Co? Ty! Jdi do hajzlu, kámo! Já nejsem... au! Kurva.}
 {291}{}{Co? Ty! Jdi do hajzlu, holka! Já nejsem... au! Kurva.}
 {292}{}{Zatracenì.}
 {293}{}{Už dost.}
-
-# 8. Looking for Book (From 4-6)
 {300}{}{Jo tahle. Nelíbila se mi. Samý líbání. Hodil jsem ji do kouta támhletý budovy... ne, támhletý budovy... ne... byla to vùbec budova? Možná jsem ji zahodil nìkde jinde... zahodil jsem ji vùbec? Au! Moje hlava!}
 {301}{}{Kniha? Jó, tahle kniha. Kdo tì poslal? Nejsem si jistej, jestli je to tahle strana. Nezapomeò na kapesník.}
 {302}{}{Nemùžu! Oni jsou... a do hajzlu... máš ten sýr? Schovej se!}
@@ -72,14 +54,10 @@
 {304}{}{Bolí mì hlava! Co... kdo to øekl?}
 {305}{}{No to mi opravdu pomohlo.}
 {306}{}{Eh.}
-
-# 9. More bread (From 5)
 {310}{}{Co? Posmíváš se mi! Jdi do hajzlu! Nejsem labilní! Umím vaøit! Nemám žádný hlasy v hlavì!}
 {311}{}{Chystám se... do prdele! Kurva! Zatracenì! Pøestaò s tím. Buï zticha! Co?... dobøe.}
 {312}{}{Hej! Pøe... dìlat... kurva.}
 {313}{}{Nashle.}
 {314}{}{No nic.}
-
-# 10. Dumb Floats (From Where to go)
 {320}{}{Hej! Vypadni ode mì!}
 {321}{}{Nedotýkej se mì!}

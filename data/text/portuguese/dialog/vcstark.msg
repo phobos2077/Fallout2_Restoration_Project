@@ -5,11 +5,11 @@
 {104}{}{Good job down south. Saw the fireworks all the way up here.}
 {105}{}{Good day... sir.}
 {106}{}{Vault City prevails... sir.}
-{107}{}{Good day, Citizen.}
+{107}{}{Bom dia, Citizen.}
 {108}{}{Vault City prevails, Citizen.}
 {109}{}{You'll wish you stayed out of the city... Guards!}
-{110}{}{A mutant! Guards!}
-{111}{}{A ghoul! Guards!}
+{110}{}{Um mutante! Guardas!}
+{111}{}{Um ghoul! Guardas!}
 {112}{}{Need to compile those ammunition lists...}
 {113}{}{Need to check the weapon lockers down in the Vault tomorrow...}
 {114}{}{Maybe being in these cells will teach you to behave yourselves.}
@@ -29,7 +29,7 @@
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
 {129}{}{Tudo bem, eu vou.}
 {130}{}{Captain. Can I help you... sir?}
-{131}{}{Can I help you, Citizen?}
+{131}{}{Posso ajudá-lo, Cidadão?}
 {132}{}{O que você quer?}
 {133}{}{Yah!}
 {134}{}{Desliga}
@@ -79,12 +79,12 @@
 {178}{}{I believe you, Sergeant. Well done. Now listen to me: I want you to pardon Mr. Cassidy, wipe his record clean, and pay him restitution for the damages you caused his establishment.}
 {179}{}{You know, I think my fist and your face are about to have a conversation.}
 {180}{}{Forget it. I had some other questions...}
-{181}{}{Nevermind then. Goodbye.}
+{181}{}{Não faz mal. Tchau.}
 {182}{}{Thanks for looking out for me, friend. Stark's one stubborn sonuvabitch.}
 {183}{}{Just try it. I'll look forward to putting trash like you and Cassidy in their place.}
 {184}{}{Fine. I was looking forward to kicking your ass anyway.}
 {185}{}{Forget it. I had some other questions...}
-{186}{}{Nevermind then. Goodbye.}
+{186}{}{Não faz mal. Tchau.}
 {187}{}{Yes... SIR.}
 {188}{}{NOW, Sergeant.}
 {189}{}{Come on, Sergeant. Chop-chop.}
@@ -151,7 +151,7 @@
 {250}{}{Actually, I already found their base.}
 {251}{}{Actually, I wiped them out already.}
 {252}{}{Any idea where these raiders are striking from?}
-{253}{}{All right. I had some other questions...}
+{253}{}{Certo. Eu tenho outras perguntas...}
 {254}{}{Eu vou fazer isso.}
 {255}{}{Curious, huh? So am I. Now, what do you know about the raiders?}
 {256}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
@@ -166,7 +166,7 @@
 {265}{}{No, I'd like to try and find their base, maybe stop the attacks if I can.}
 {266}{}{You got me. I'm obviously in league with the raiders. Arrest me.}
 {267}{}{I'm leaving. You want to stop me? Go ahead.}
-{268}{}{All right then...}
+{268}{}{Tudo bem, então...}
 {269}{}{Whoa! Whoa! I didn't --}
 {270}{}{Bring it on, dead man.}
 {271}{}{I don't think we'll be dropping the subject quite that easily. Now... what do you know about the raiders?}
@@ -175,26 +175,26 @@
 {274}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
 {275}{}{I don't know. These raiders don't make much sense. IF they are raiders.}
 {276}{}{O que você quer dizer?}
-{277}{}{I had some other questions...}
-{278}{}{I have to be going.}
+{277}{}{Eu tenho mais algumas perguntas...}
+{278}{}{Tenho que ir.}
 {279}{}{They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop short of breaking through our defenses.}
 {280}{}{Uh... they stop short of breaking through the defenses?}
-{281}{}{I had some other questions...}
-{282}{}{I have to be going.}
+{281}{}{Eu tenho mais algumas perguntas...}
+{282}{}{Tenho que ir.}
 {283}{}{I've seen them do it. The last attack, they disabled a laser turret on the western perimeter. They had a clear shot into the city. Then I saw one of their "captains" ORDER them to fall back. Makes no sense.}
 {284}{}{Any idea where they're coming from?}
-{285}{}{Hmmm. I had some other questions...}
+{285}{}{Hmmm. Eu tenho outras perguntas…}
 {286}{}{Interesting. I have to be going.}
 {287}{}{No. That's the most frustrating part. They keep retreating south. I can't spare any men to go and scout the area. I think the raiders have some native guide that leads them through the southern canyons.}
 {288}{}{What's the deal with the south?}
-{289}{}{Hmmm. I had some other questions...}
+{289}{}{Hmmm. Eu tenho outras perguntas…}
 {290}{}{Interesting. I have to be going.}
 {291}{}{Plenty of places to hide if you don't know where to look. The place is riddled with caves.}
 {292}{}{I could probably find them.}
-{293}{}{I had some other questions...}
+{293}{}{Eu tenho mais algumas perguntas...}
 {294}{}{Hmmm. I'll keep that in mind. Goodbye.}
 {295}{}{Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.}
-{296}{}{I had some other questions...}
+{296}{}{Eu tenho mais algumas perguntas...}
 {297}{}{If that's what it takes... thanks for the information.}
 {298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
 {299}{}{Recon-o-what?}
@@ -259,7 +259,7 @@
 {357}{}{You're back again? You lost, or do you need something?}
 {358}{}{Like what... sir?}
 {359}{}{Yes, Citizen. What did you want to know?}
-{360}{}{Like what?}
+{360}{}{Como o quê?}
 {361}{}{Hep-Hep Schlep-Bep}
 {362}{}{Desliga}
 {363}{}{You got some kind of problem, Sergeant?}

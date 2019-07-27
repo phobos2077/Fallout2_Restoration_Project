@@ -1,28 +1,28 @@
-{100}{}{Rose makes the best omelets.}
+{100}{}{A Rose faz os melhores omeletes.}
 {101}{}{Psst... Stay away from the brahmin fries.}
-{102}{}{I stop by Rose's every chance I get.}
-{103}{}{Have you tried Rose's omelets?}
-{110}{}{Do you smell something?}
-{111}{}{Good god! What the hell have you been rolling in!}
-{112}{}{Could you please stand downwind? I'm trying to eat.}
-{120}{}{Do you mind? I'm trying to get some sleep.}
-{121}{}{Hey, what are you doing in my room?!}
-{122}{}{Get out!}
-{130}{}{Rose is out of omelets.}
-{131}{}{I'll kill the person who let her chicken escape.}
-{132}{}{There's no point in coming here if I can't get an omelet.}
-{140}{}{I don't know why I bother to come here to trade.}
-{141}{}{This town is dying.}
-{142}{}{This used to be a prosperous farming town.}
-{150}{}{I hear Modoc 'acquired' a prosperous farm northeast of here.}
-{151}{}{I don't know if I want to trade for food grown at the Ghost Farm.}
-{152}{}{The crops at the Ghost Farm are probably cursed.}
-{160}{}{I hear they slaughtered innocent women and children.}
-{161}{}{I don't want to trade with savages who kill recklessly.}
-{162}{}{After I heard what they did, I almost puked.}
-{163}{}{Whatever their reason, I don't think I'll be coming by Modoc to trade anymore.}
-{164}{}{The people of Modoc are killers.}
-{170}{}{Looks like things are looking up around here.}
-{171}{}{I'll probably need to hire another team to carry all the food from here.}
+{102}{}{Eu venho aqui sempre que posso.}
+{103}{}{Você já experimentou os omeletes que a Rose faz?}
+{110}{}{Você sentiu esse cheiro?}
+{111}{}{Puta que pariu! O que você tem comido?}
+{112}{}{Você poderia sair da frente do vento por favor? Estou tentando comer.}
+{120}{}{Algum problema? Estou tentando dormir.}
+{121}{}{Ei, o que você está fazendo no meu quarto?!}
+{122}{}{Cai fora!}
+{130}{}{Os omeletes acabaram.}
+{131}{}{Vou matar a pessoa que deixou a galinha dela escapar.}
+{132}{}{Não faz sentido vir aqui se não vou poder comer um omelete.}
+{140}{}{Eu nem sei por que me incomodo de vir aqui para negociar.}
+{141}{}{Essa cidade está morrendo.}
+{142}{}{Essa lugar costumava ser um próspera cidade rural.}
+{150}{}{Ouvi falar que Modoc 'adquiriu' uma próspera fazendo a nordeste daqui.}
+{151}{}{Eu não sei se quero comprar aliementos produzidos na Fazenda Fantasma.}
+{152}{}{As lavouras na Fazenda Fantasma devem estar amaldiçoadas}
+{160}{}{Ouvi falar que eles mataram mulheres e crianças inocentes.}
+{161}{}{Não quero negociar com selvagens que matam sem motivos.}
+{162}{}{Depois de ouvir o que eles disseram eu quase vomitei.}
+{163}{}{Seja quais forem suas razões, acho que não virei mais aqui por Modoc para negociar.}
+{164}{}{As pessoas de Modoc são assassinos.}
+{170}{}{Parece que as coisas estão melhorando por aqui.}
+{171}{}{Parece que vou precisar de contratar mais algumas pessoas para carregar toda comida daqui.}
 {172}{}{It looks as if Modoc is going to be alright after all.}
-{500}{}{You see a trader.}
+{500}{}{Você vê um comerciante.}

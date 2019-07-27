@@ -1,253 +1,253 @@
-{100}{}{You see a scruffy-looking man in a dirty brown shirt. His arms are covered with a bright red rash, which he scratches frequently.}
-{101}{}{You see "Doctor" Andrew.}
-{102}{}{You see a scruffy-looking man in a dirty brown shirt. His arms are covered with a bright red rash, which he scratches frequently.}
-{103}{}{Looks like you've seen some fighting, friend.}
+{100}{}{Você vê um homem desmazelado  em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutãnea vermelha e clara, a qual ele esfrega frequentemente.}
+{101}{}{Você vê o "Doutor" Andrew.}
+{102}{}{Você vê um homem desmazelado  em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutãnea vermelha e clara, a qual ele esfrega frequentemente.}
+{103}{}{Parece que você presenciou uma bela de uma briga...}
 {104}{}{Whoa... looks like you've seen some serious action, friend.}
-{105}{}{Whoa... looks like you've been in some heavy fighting, friend.}
-{106}{}{Holy...! You're bleeding all over the floor!}
-{107}{}{You here to get patched up?}
-{108}{}{Patssshh.}
-{109}{}{Nup.}
-{110}{}{Yeah, I could use some medical attention.}
-{111}{}{Um, I need a growth removed. My sixth toe.}
-{112}{}{Actually, my friend here could use some medical attention.}
-{113}{}{Actually, my friends here could use some medical attention.}
+{105}{}{Puxa...parece que você esteve em uma briga séria...}
+{106}{}{Put...! Você está sangrando por todo o chão!}
+{107}{}{Está aqui pra "consertar-se"?}
+{108}{}{Conssssserta...aaar.}
+{109}{}{Não.}
+{110}{}{É, eu poderia receber um pouco de cuidados médicos.}
+{111}{}{Hã, eu preciso de uma remoção em um tumor. Meu sexto dedão do pé.}
+{112}{}{Na verdade, meu amigo aqui poderia receber um pouco de cuidados médicos.}
+{113}{}{Na verdade, meus amigos aqui poderiam receber um pouco de cuidados médicos.}
 {114}{}{O que é este lugar?}
-{115}{}{Uh, what is this place again?}
-{116}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
-{117}{}{Not right now. It looks worse than it is.}
-{118}{}{No, I'm fine. Just stopping by.}
-{119}{}{All right... from the looks of it, it's gonna cost }
-{120}{}{ bucks. You got the cash, then you're good to go.}
-{121}{}{No guarantees with the ol' Doc in the back room, of course...}
-{122}{}{Patshhh? Patshh! Take moneee, fixx leaks.}
-{123}{}{Bye-bye.}
-{124}{}{Not nuff moneee. Bye-bye.}
+{115}{}{Hã, que lugar é este mesmo?}
+{116}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
+{117}{}{Não agora. É mais complicado do que parece..}
+{118}{}{Não, estou bem. Só estou dando uma passada.}
+{119}{}{Tudo bem...pela aparência, vai custar caro. }
+{120}{}{ mangos. Você me dá o dinheiro e sai recuperado.}
+{121}{}{Sem garantias com o ol'Doc no quarto dos fundos, é claro...}
+{122}{}{Conssssertar? Consssertar! Pegue dinheirooo... consertarrr corte...}
+{123}{}{Tchau-tchau.}
+{124}{}{Dinheiro insuficienteeee. Tchau-tchau.}
 {125}{}{Tudo certo.}
-{126}{}{That's pretty steep. How about }
+{126}{}{Isso é bem alto. Que tal }
 {127}{}{?}
-{128}{}{Never mind. How about my friend instead?}
-{129}{}{Never mind. How about my friends instead?}
+{128}{}{De nada. E quanto aos meus amigos?}
+{129}{}{{De nada. E quanto aos meus amigos??}
 {130}{}{O que é este lugar?}
-{131}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
-{132}{}{I don't have enough. I'll be back when I have some more cash.}
-{133}{}{No, thanks. Maybe some other time.}
+{131}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
+{132}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
+{133}{}{Não, valeu. Talvez outra hora.}
 {134}{}{Well... all right. That sounds fair.}
-{135}{}{Let's get to it, then. I'll just hook you up to the ol' Doctor here... slip your arms into the slots there, and I'll tighten the braces and secure the clamps...}
-{136}{}{Fade out for 3 Seconds}
-{137}{}{All right! Knew the ol' Doctor wouldn't let me down.}
-{138}{}{Me wanna ride agin! Agin!}
-{139}{}{Buyhye.}
-{140}{}{Can you cure my friend here?}
-{141}{}{Can you cure my friends here?}
+{135}{}{{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
+{136}{}{Apagar-se por 3 segundos}
+{137}{}{Beleza! Sabia que o ol'Doctor não ia me deixar na mão.}
+{138}{}{Eu qué brincá de novo! De novo!}
+{139}{}{Tchuauauau.}
+{140}{}{Você pode curar meu amigo aqui?}
+{141}{}{Você pode curar meus amigos aqui?}
 {142}{}{O que é este lugar?}
-{143}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
-{144}{}{I feel much better, thanks.}
-{145}{}{Uh, well now, that might not be the safest thing for you, friend. Seems like you already took a few trips in the ol' Doctor from the way you talk. But if you want to...}
-{146}{}{Fade out for 3 Seconds}
-{147}{}{Uh... how you feel? Any better? Any worse?}
-{148}{}{Agin! Agin! Agin!}
-{149}{}{Me feel like maxxx hup puints incrise so me fine for nowww. Buhyyee.}
-{150}{}{Uh, well, I warned you...}
-{151}{}{Fade out for 3 Seconds}
-{152}{}{Uh-oh. Looks like the ol' Doctor took a pound of flesh this time.}
-{153}{}{Urrrhkkk... me hurt... insighde... me never want ta ride in bad thin agin...}
-{154}{}{Well, now I ain't a mechanic, so I can't help that brain whazzit you got with you. Sorry, friend.}
-{155}{}{Can you heal me instead?}
-{156}{}{I see. Say, I had some questions I wanted to ask you...}
-{157}{}{Oh, well. Thanks anyway.}
-{158}{}{All right... from the looks of it, it's gonna cost }
-{159}{}{ bucks. You got the cash, then you're good to go.}
-{160}{}{No guarantees with the ol' Doctor in the back room, of course...}
+{143}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
+{144}{}{Eu me sinto bem melhor, valeu.}
+{145}{}{Uh, bem, isso pode não ser a coisa mais segura pra você, amigo. Parece que você já viajou demais no ol'Doctor, pelo jeito que você fala. Mas se você quer...}
+{146}{}{Apagar-se por 3 segundos}
+{147}{}{Uh...como se sente? Melhorou? Piorou?}
+{148}{}{De novo! De novo! De novo!}
+{149}{}{Eu sentir com máxxximos pontos de vida aumentados, então eu bom por enquaaaanto. Tchuauau.}
+{150}{}{Uh, bem, eu te alertei...}
+{151}{}{Apagar-se por 3 segundos}
+{152}{}{Oh-oh. Parece que o ol'Doctor triturou um bocado de carne dessa vez.}
+{153}{}{Urrrhkkk...eu machucado...dentrooo...eu nunca querer andar na coisa má de novo...}
+{154}{}{Bem, eu não sou mecânico, então não posso ajudar com essa coisa no seu cérebro. Desculpe, amigo.}
+{155}{}{Pode me curar então?}
+{156}{}{Entendo. Gostaria de fazer algumas perguntas...}
+{157}{}{Oh, bem. Valeu, de qualquer forma.}
+{158}{}{Tudo bem...pela aparência, vai custar caro. }
+{159}{}{ mangos. Você me dá o dinheiro e sai recuperado.}
+{160}{}{Sem garantias com o ol'Doctor no quarto de trás, é claro . . .}
 {161}{}{Tudo certo.}
-{162}{}{That's pretty steep. How about }
+{162}{}{Isso é bem alto. Que tal }
 {163}{}{?}
-{164}{}{Never mind. How about me instead?}
+{164}{}{De nada. E quanto a mim então?}
 {165}{}{O que é este lugar?}
-{166}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
-{167}{}{I don't have enough. I'll be back when I have some more cash.}
-{168}{}{I've changed my mind. Maybe some other time.}
+{166}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
+{167}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
+{168}{}{Mudei de idéia. Talvez outra hora.}
 {169}{}{Well, now... tell you what. }
-{170}{}{ bucks for the whole lot of you, and we'll call it even. What do you say?}
+{170}{}{ mangos por tudo, e temos um trato. O que você diz?}
 {171}{}{Tudo certo.}
-{172}{}{I don't know. That's a little steep. How about }
-{173}{}{ bucks?}
+{172}{}{Eu não sei... Está um pouco caro. Que tal }
+{173}{}{ mangos?}
 {174}{}{Can you heal just me instead?}
 {175}{}{O que é este lugar?}
-{176}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
-{177}{}{I don't have enough. I'll be back when I have some more cash.}
-{178}{}{I've changed my mind. Maybe some other time.}
+{176}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
+{177}{}{Eu não tenho o suficiente. Voltarei quando tiver algum dinheiro.}
+{178}{}{Mudei de idéia. Talvez outra hora.}
 {179}{}{Well... all right. That sounds fair.}
-{180}{}{Let's get to it, then. I'll just hook up the ol' Doctor here... have 'em lay down, and I'll tighten the braces and secure the clamps...}
-{181}{}{Fade out for 3 Seconds}
+{180}{}{{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
+{181}{}{Apagar-se por 3 segundos}
 {182}{}{There, all stitched up! Knew the ol' Doctor still had some life left in 'im.}
-{183}{}{Thanks. Say, there was another thing I needed...}
-{184}{}{Much appreciated. We may be back.}
-{185}{}{This here's the common body shop for Vault City. Me an' the ol' Doctor in the back patch up whoever needs some attention.}
+{183}{}{Valeu. Há outra coisa que eu precisava...}
+{184}{}{Apreciei bastante. Nós voltaremos algum dia.}
+{185}{}{Este é o hospital da plebe de Vault City. Entretanto eu e o ol'Doctor ali atrás também precisamos de alguns cuidados.}
 {186}{}{"Ol' Doctor?"}
-{187}{}{I see. Say, I had some other questions for you...}
-{188}{}{Hmmm. Maybe I'll be back when I need your services.}
-{189}{}{Yeah, the "Auto-Doctor" in the back room there. It's a loaner from the city.}
-{190}{}{It can be a little ornery sometimes, but mostly it does its job. Mostly.}
-{191}{}{Been running a lot smoother lately, which is good. Cuts down on repeat visitors.}
-{192}{}{Yeah, I replaced some of the cables and cleaned out the interior. It shouldn't give you any more trouble.}
-{193}{}{I see. Say, I had some other questions for you...}
-{194}{}{Ornery, huh? Maybe I'll go take a look at it...}
-{195}{}{Good to hear it. Talk to you later, Andrew.}
+{187}{}{Entendo. Eu tenho mais perguntas pra você...}
+{188}{}{Hmmm. Talvez eu volte quando precisar dos seus serviços.}
+{189}{}{Sim, o "Auto-Doctor" no quarto de trás. É um empréstimo de Vault City.}
+{190}{}{Ele costuma ficar  indisposto algumas vezes, mas na maioria delas faz o seu trabalho. Na maioria.}
+{191}{}{Não está funcionando muito bem por esses dias, o que é bom. Reduz o número de visitas freqüentes.}
+{192}{}{É, eu troquei alguns cabos e limpei o interior. Ele não te dará mais problemas.}
+{193}{}{Entendo. Eu tenho mais perguntas pra você...}
+{194}{}{Hum... talvez eu vá dar uma olhada nisso depois...}
+{195}{}{Bom ouvir isso. Falo com você depois, Andrew.}
 {196}{}{Eh... well... thank you very much. That was decent of you to volunteer to fix it like that.}
-{197}{}{Oh, it wasn't a volunteer job. I expect some money for my services.}
-{198}{}{Any chance I could get some sort of discount?}
-{199}{}{No problem. Glad to help.}
-{200}{}{Hell, no! I didn't ask you to fix it, so you don't get jack. I wouldn't push your luck as long as the guards are in earshot.}
-{201}{}{Go ahead. Call them. They won't get here in time to save your ass.}
-{202}{}{Well, then. You're welcome.}
+{197}{}{Oh, não foi um trabalho voluntário. Eu espero algum dinheiro pelos meus seviços.}
+{198}{}{Alguma chance de ter um desconto?}
+{199}{}{Sem problemas. Foi um prazer ajudar.}
+{200}{}{Diabos, não! Eu não te pedi para consertá-lo, então não banque o técnico. E não banque o espertalhão, os guardas podem me ouvir daqui.}
+{201}{}{Vá em frente. Chame-os. Eles não chegarão a tempo de salvar sua pele.}
+{202}{}{Bem, então... de nada.}
 {203}{}{So... was there something else I could help you with?}
 {204}{}{Com o que posso ajudar?}
-{205}{}{I could use some medical attention.}
-{206}{}{Um, I need a growth removed. My sixth toe.}
-{207}{}{My friend here could use some medical attention.}
-{208}{}{My friends here could use some medical attention.}
+{205}{}{Eu poderia receber um pouco de cuidados médicos.}
+{206}{}{Hã, eu preciso de uma remoção em um tumor. Meu sexto dedão do pé.}
+{207}{}{Meu amigo aqui poderia receber um pouco de cuidados médicos.}
+{208}{}{Meus amigos aqui poderiam receber um pouco de cuidados médicos.}
 {209}{}{O que é este lugar?}
-{210}{}{What is this place again?}
-{211}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
-{212}{}{Nothing more today, actually.}
-{213}{}{Combat implants? What do you mean?}
-{214}{}{Well, according to the schematics I saw, you can graft dermal plates and thermal dissipaters to a person's skeleton using the following procedure...}
-{215}{}{Huh. Well, I suppose with help from the ol' Doctor I could do that operation. Course, I'd need some impact plates and dissipaters first... might be able to pry some out of a suit of combat armor, if you can find one.}
-{216}{}{Can you give me the information on some of the implants?}
-{217}{}{I've got a suit of combat armor right here. Can you give me the information on some of the implants?}
-{218}{}{Hmmm. All right then. Say, I needed something else...}
-{219}{}{Thanks. I may be back.}
-{220}{}{Heh! You're serious then, I see. Well, now, this is a risky venture. The Citizens find out I'm using the ol' Doctor for this, an' they'll take it right back.}
-{221}{}{I see. How much for the implants?}
-{222}{}{Never mind then. I needed something else, though.}
-{223}{}{Forget it, then. Maybe some other time.}
-{224}{}{Depends what you want. You want low impact, high impact, low thermal, or high thermal? Each one's got its price tag.}
-{225}{}{Which one? Low impact, high impact, low thermal, or high thermal?}
+{210}{}{Que lugar é esse mesmo?}
+{211}{}{Eu achei alguns projetos de implantes de combate no banco de dados médico de Vault City. Você pode realizar a operação?}
+{212}{}{Na verdade, nada mais por hoje.}
+{213}{}{Implantes de Combate? Como assim?}
+{214}{}{Bem, de acordo com os esquemas que eu vi, pode-se implantar placas cutâneas e dissipadores térmicos no esqueleto de uma pessoa usando os seguintes procedimentos...}
+{215}{}{Huh. Bem, suponho que com a ajuda do ol'Doctor eu posso fazer a operação. Claro, vou precisar de algumas placas de impacto e dissipadores primeiro...eu posso tirá-las de uma combat armor, se você achar alguma.}
+{216}{}{Você pode me dar informações sobre alguns implantes?}
+{217}{}{Eu tenho uma combat armor bem aqui. Você pode me dar informações sobre alguns implantes.}
+{218}{}{Hmmm. Está certo, então. Eu preciso de outra coisa...}
+{219}{}{Valeu. Eu volto mais tarde.}
+{220}{}{Ei! Você está falando sério, então. Bem, agora, esse é um empreendimento de risco. Se os Cidadãos descobrirem que estou usando o ol'Doctor para isso, levam-no de volta.}
+{221}{}{Entendo. Quanto pelos implantes?}
+{222}{}{Deixe pra lá, então. Eu preciso de outra coisa...}
+{223}{}{Esqueça. Talvez outra hora.}
+{224}{}{Depende de qual você quer.Você quer a low impact, high impact, low thermal, ou high thermal? Cada uma tem seu preço.}
+{225}{}{Qual implante? Low impact, high impact, low thermal, ou high thermal?}
 {226}{}{Low impact.}
 {227}{}{High impact.}
 {228}{}{Low thermal.}
 {229}{}{High thermal.}
-{230}{}{Nevermind. I had some other questions...}
-{231}{}{Forget it. I have to be going.}
-{232}{}{Standard Dermal Impact Armor takes the kick outta most explosions, punches, kicks, stuff like that. Say, 5%. I'll need to strip some Combat Armor for the plates, and it'll take two days to do the grafts. 7K oughta cover it.}
-{233}{}{Sounds good. Here's the Combat Armor and the cash.}
-{234}{}{7000? Uh, 5000 bucks is all I have.}
-{235}{}{Hmmm. Tell me about the other implants.}
-{236}{}{Never mind. I had some other questions...}
+{230}{}{Esqueça. Eu tenho outras perguntas…}
+{231}{}{Esqueça. Eu tenho que ir.}
+{232}{}{A Standard Dermal Impact Armor absorve a maioria das explosões, socos, chutes, coisas do tipo. Digamos, 5%. Eu vou precisar desmanchar uma Combat Armor para pegar as placas, e vai levar dois dias para o implante. 7K deve cobrir os custos..}
+{233}{}{Parece bom. Aqui está a Combat Armor e o dinheiro.}
+{234}{}{7000? Uh, 5000 pratas, é tudo o que tenho.}
+{235}{}{Hmmm. Fale sobre outros implantes.}
+{236}{}{Sem problemas. Eu tenho outras perguntas...}
 {237}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{238}{}{I'll come back when I get a set of Combat Armor.}
-{239}{}{I see. Maybe some other time.}
-{240}{}{Well, technically, "high impact" is standard Dermal Impact Armor with extra assault-issue impact plates crammed under your skin.}
-{241}{}{So you're gonna need the basic dermal graft first.}
-{242}{}{Okay, what's involved?}
-{243}{}{Tell me about the other implants.}
-{244}{}{Never mind. I had some other questions.}
-{245}{}{I see. Maybe some other time.}
-{246}{}{Well, I'm gonna need another set of combat armor to get the extra assault plates. Good thing is, the plates'll double the strength of the original grafts, so they'll absorb 10% of the kick. Except...}
+{238}{}{Eu volto quando conseguir uma Combat Armor.}
+{239}{}{Entendo. Talvez outra hora.}
+{240}{}{Bem, tecnicamente, "high impact" é uma standard Dermal Impact Armor com placas distribuidoras de impactos colocadas por baixo de sua pele.}
+{241}{}{Então você vai precisar do basic implant enxertado primeiro.}
+{242}{}{Ok, no que isso implica?}
+{243}{}{Fale-me sobre outros implantes.}
+{244}{}{Deixe pra lá. Eu tenho outras perguntas.}
+{245}{}{Entendo. Talvez outra hora.}
+{246}{}{Bem, eu vou precisar de mais uma Combat Armor para pegar as placas extras de impacto. O bom é que as placas vão dobrar a força dos implantes originais, então absorverão 10% do impacto. Exceto...}
 {247}{}{Sim?}
-{248}{}{Tell me about the other implants.}
-{249}{}{Never mind. I had some other questions.}
-{250}{}{I see. Maybe some other time.}
-{251}{}{It'll take a stretch, a few days at least, assuming the ol' Doctor don't mess it up. An' it's expensive. 40K, as I see it. Plus... well, it ain't gonna help your looks none.}
-{252}{}{How much will it hurt my looks?}
-{253}{}{Tell me about the other implants.}
-{254}{}{Never mind. I had some other questions.}
-{255}{}{I see. Maybe some other time.}
-{256}{}{All the curves you got are gonna become right angles, near as I can tell.}
-{257}{}{You're gonna be all blocky-looking when I'm done.}
-{258}{}{Shoving all those plates into your body means your charisma's gonna take a hit. You still game?}
-{259}{}{Oh, what the hell. Here's the cash and the combat armor.}
-{260}{}{I don't know. 40K's pretty steep. I do have $30,000 on me, though.}
-{261}{}{Tell me about the other implants.}
-{262}{}{Never mind. I had some other questions.}
+{248}{}{Fale-me sobre outros implantes.}
+{249}{}{Deixe pra lá. Eu tenho outras perguntas.}
+{250}{}{Entendo. Talvez outra hora.}
+{251}{}{It'll take a stretch, a few days at least, assuming the ol' Doctor don't mess it up. An' it's expensive. 40K, as I see it. Plus...well, it ain't gonna help your looks none.}
+{252}{}{Quanto isso vai afetar em mina aparência?}
+{253}{}{Fale-me sobre outros implantes.}
+{254}{}{Deixe pra lá. Eu tenho outras perguntas.}
+{255}{}{Entendo. Talvez outra hora.}
+{256}{}{Todas as curvas que você possui se tornarão ângulos, pelo que eu presumo.}
+{257}{}{Você vai ter uma aparência cúbica quando eu terminar.}
+{258}{}{Ao colocar todas essas placas no seu corpo, seu carisma vai ser prejudicado. Ainda está afim?}
+{259}{}{Oh, que diabos. Aqui está o dinheiro e a combat armor.}
+{260}{}{Eu não sei. 40K é muito dinheiro. Eu tenho $30.000 comigo.}
+{261}{}{Fale-me sobre outros implantes.}
+{262}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {263}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{264}{}{I'll come back when I get a suit of Combat Armor.}
-{265}{}{I see. Maybe some other time.}
-{266}{}{The Phoenix Implants take the bite outta fire, lasers and plasma burns... about 5%. I'll need to strip some combat armor for the thermal membranes, and it'll take two days for the operation. 10K oughta cover it.}
-{267}{}{Sounds good. Here's the armor and the cash.}
-{268}{}{$10,000's a bit out of my league. How about $8000?}
-{269}{}{Tell me about the other implants.}
-{270}{}{Never mind. I had some other questions.}
+{264}{}{Eu voltarei quando tiver a Combat Armor.}
+{265}{}{Entendo. Talvez outra hora.}
+{266}{}{Os Phoenix Implants suportam queimaduras com fogo, laser e plasma... cerca de 5%. Vou precisar desmanchar uma combat armor para retirar as membranas térmicas. E vai levar dois dias para a operação. 10K deve cobrir os gastos.}
+{267}{}{Parece justo. Aque está a armadura e o dinheiro.}
+{268}{}{$10,000 é um pouco fora do meu alcance. Que tal $8000?}
+{269}{}{Fale-me sobre outros implantes.}
+{270}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {271}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{272}{}{I'll come back when I get a suit of combat armor.}
-{273}{}{I see. Maybe some other time.}
-{274}{}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipaters layered over the membranes.}
-{275}{}{So you're gonna need the basic Phoenix implant graft first.}
-{276}{}{Okay, what's involved?}
-{277}{}{Tell me about the other implants.}
-{278}{}{Never mind. I had some other questions.}
-{279}{}{I see. Maybe some other time.}
-{280}{}{Well, I'm gonna need to scavenge thermal dissipaters from another set of combat armor. Good thing is, the dissipaters'll double the thermal resistance, absorbing 10% of the bite. But...}
+{272}{}{Eu voltarei quando tiver a combat armor.}
+{273}{}{Entendo. Talvez outra hora.}
+{274}{}{Bem, tecnicamente, "high thermal" é a Phoenix Armor com alguns dissipadores térmicos sobre as membranas.}
+{275}{}{Então você vai precisar do basic Phoenix implant enxertado primeiro.}
+{276}{}{Ok, no que isso implica?}
+{277}{}{Fale-me sobre outros implantes.}
+{278}{}{Deixe pra lá. Eu tenho outras perguntas.}
+{279}{}{Entendo. Talvez outra hora.}
+{280}{}{Bem, eu vou precisar retirar alguns dissipadores térmicos de outra combat armor. O bom é que os dissipadores vão dobrar a resistência térmica, absorvendo 10% da queimadura. Mas...}
 {281}{}{Sim?}
-{282}{}{Tell me about the other implants.}
-{283}{}{Never mind. I had some other questions.}
-{284}{}{I see. Maybe some other time.}
-{285}{}{It's gonna make your skin blister. Bad. You'll look a lot like that bubbly pre-war packaging material, so don't expect to be getting too many dates after this. And it's gonna cost you. 50K. Up front.}
-{286}{}{What the hell. Here's the cash... and another set of combat armor.}
-{287}{}{40,000 and it's a deal.}
-{288}{}{Tell me about the other implants.}
-{289}{}{Never mind. I had some other questions.}
+{282}{}{Fale-me sobre outros implantes.}
+{283}{}{Deixe pra lá. Eu tenho outras perguntas.}
+{284}{}{Entendo. Talvez outra hora.}
+{285}{}{O implante vai fazer sua pele empolar. Isso é mau. Você vai parecer muito com aquele plástico-bolha, que servia pra empacotar as coisas antes da guerra, então não espere ter muitos encontros depois dele. E vai custar 50K. Topa?}
+{286}{}{Que diabos. Aqui está a grana... e outra combat armor.}
+{287}{}{40,000 e temos um trato..}
+{288}{}{Fale-me sobre outros implantes.}
+{289}{}{Deixe pra lá. Eu tenho outras perguntas.}
 {290}{}{Eu vou voltar quando eu tiver mais dinheiro.}
-{291}{}{I'll come back when I have another set of combat armor.}
-{292}{}{I see. Maybe some other time.}
+{291}{}{Eu voltarei quando tiver a combat armor.}
+{292}{}{Entendo. Talvez outra hora.}
 {293}{}{Well... that sounds fair.}
-{294}{}{All right, let me just bolt you into the ol' Doctor here... hope the anesthesia reservoir ain't clogged again... maybe you better bite down on this piece of brahmin hide just in case.}
-{295}{}{Uh... okay. I mean, the Auto-Doc has regularly scheduled maintenance times, right? Heh-heh. How bad could it be?}
-{296}{}{You know what? Forget it. I don't want to run the risk that the "ol' Doctor's" not up to it.}
+{294}{}{Muito bem, deixe-me prender você aqui no ol'Doctor... espero que o reservatório de anestesia não tenha entopido de novo... talvez seja melhor você morder esse pedaço de couro de brahmin aqui...}
+{295}{}{Uh...ok. Quero dizer, o Auto-Doc tem a manutenção marcada regularmente, certo? Heh-heh. O que pode acontecer de ruim?}
+{296}{}{Sabe de uma coisa? Esqueça. Eu não quero correr o risco do "ol"Doctor" falhar.}
 {297}{}{Aieeeeeeeeeee!}
-{298}{}{Wait 2 Seconds.}
+{298}{}{Esperar por 2 segundos.}
 {299}{}{Uh-oh.}
-{300}{}{Player explodes in gruesome death animation.}
-{301}{}{Wait 2 Seconds.}
-{302}{}{Looks like the ol' Doctor wasn't up to it, after all...}
-{303}{}{Wait 2 Seconds}
-{304}{}{Nice boots on this one, though. Maybe I can sell them...}
-{305}{}{Goto Death Screen}
+{300}{}{O jogador explode numa animação mortal terrível.}
+{301}{}{Esperar por 2 segundos.}
+{302}{}{Parece que o ol'Doctor não estava bom, acima de tudo...}
+{303}{}{Esperar 2 segundos.}
+{304}{}{Botas legais deste aqui. Talvez eu possa vendê-las...}
+{305}{}{Ir para a cena de morte}
 {306}{}{Well... that sounds fair.}
-{307}{}{All right, let me just bolt you into the ol' Doctor here... hope the anesthesia reservoir ain't clogged again... maybe you better bite down on this piece of brahmin hide just in case.}
-{308}{}{Fade out for 3 Seconds}
-{309}{}{Well, they're in, I guess. Uh, about the swelling and soreness, I'm pretty sure that both are just temporary side effects. Oh, that stabbing sensation you feel when you move your arms and legs should fade in a few weeks.}
-{310}{}{Can you hear me? Whew. I didn't think there was any room left for those impact plates, but I was able to pry a lot of muscle tissue and cartilage out of the way. They're in a jar over there, if you want a souvenir.}
-{311}{}{Mercy... that was trial and error surgery if I ever saw it. I ended up having to amputate some of your nerve endings... that's the burning and itching sensation you're feeling right now. It'll probably fade in a few weeks.}
-{312}{}{I hope to heaven you can hear me right now. Look, when you regain feeling in your extremities, you'll feel an incredible itching sensation all over. Don't scratch! If you do, those pus-crusts over the drainage incisions'll burst and leave scars. Give 'em a few weeks to heal, okay?}
-{313}{}{Fanks. Kuh uh ast yew sum mewr kesstions?}
-{314}{}{Fanks, Adrew. Bye.}
+{307}{}{Muito bem, deixe-me prender você aqui no ol'Doctor... espero que o reservatório de anestesia não tenha entopido de novo... talvez seja melhor você morder esse pedaço de couro de brahmin aqui...}
+{308}{}{Apagar-se por 3 segundos}
+{309}{}{Bem, está tudo dentro, eu acho. Ham, sobre o inchaço e a dor... estou certo de que ambas são efeitos colaterias temporários. Ah, e a sensação de agulhadas que você sente eu seus braços e pernas quando se move deve sumir em algumas semanas.}
+{310}{}{Você pode me ouvir? Ufa. Eu não achei que haveria mais lugar para essas placas de impacto, mas consegui tirar um pouco de músculo e cartilagem do lugar. Eles estão naqule jarro ali, se você quiser um souvenir.}
+{311}{}{Misericórdia... essa foi uma cirurgia por tentativas. Se eu a menos já tivesse visto uma... Tive que amputar algumas de suas terminações nervosas... é essa sensação de queimadura e coceira que você está sentindo agora. Provavelmente sumirá em algumas semanas.}
+{312}{}{Céus, espero que você esteja me escutado agora. Olha, quando você voltar a sentir suas extremidades, você vai sentir uma coceira imensa. Não coce! Se o fizer, essas crostas-purulentas sob as drenagens vão se romper e deixar cicatrizes. Dê a elas algumas semanas para que se recuperem, ok?}
+{313}{}{'bigado. Vucê p'de m' r'spond'r maiji ulgumas p'rguntajs?}
+{314}{}{'bigado, Adrew. Chau.}
 {315}{}{Well... all right. That sounds fair.}
-{316}{}{Let's get to it, then. I'll just hook up the ol' Doctor here... let me tighten the braces and secure the clamps...}
-{317}{}{Fade out for 3 Seconds}
-{318}{}{Hmmph. Looks like the ol' Doctor's being stubborn again. Piece of junk... still, I was glad I was able to pop the clamps before it started the exploratory surgery routine. Maybe it'll work better next time.}
-{319}{}{Wha...? I want my money back!}
-{320}{}{Oh, well, I hope so. Look, I needed something else...}
-{321}{}{Yeah, maybe. I'm leaving.}
-{322}{}{Sorry, no guarantees, no refunds. You take your chances. If you got a problem with it, take it up with the guards.}
-{323}{}{Give me my money back right now, or I'll put you in the "ol' Doctor."}
-{324}{}{Forget it then. I needed something else...}
-{325}{}{Whatever. I'm leaving.}
-{326}{}{Well, I can try. No guarantees with the ol' Doctor in the back room, of course. It's gonna cost you... and there's no telling if the operation'll take. Might grow back.}
-{327}{}{I don't care. I want it off before it grows into a new me.}
-{328}{}{Never mind then. I had some other questions...}
-{329}{}{Forget it, then. Maybe I'll be back.}
-{330}{}{Hmmmmm. Five hundred, and we'll call it a deal. I'm not authorized to perform amputations with the Auto-Doc, and it'll be my job if they find out.}
-{331}{}{Fine. Five hundred. Now get the damn thing off.}
-{332}{}{That's a little steep. How about $300?}
-{333}{}{Never mind then. I had some other questions...}
-{334}{}{Forget it, then. Maybe I'll be back.}
-{335}{}{Forget it. I don't have that kind of cash right now. I may be back.}
+{316}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
+{317}{}{Apagar-se por 3 segundos}
+{318}{}{Hmmph. Parece que o ol'Doctor está teimando de nobo. Pedaço de lixo...  ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcinoe melhor da próxima vez.}
+{319}{}{O qu...? Eu quero meu dinheiro de volta!}
+{320}{}{Oh, bem, espero que sim. Olha, eu preciso de mais uma coisa...}
+{321}{}{É, talvez. Estou indo.}
+{322}{}{Desculpe, sem garantias, sem reembolso. Você teve sua chance. Se você tem algum problema com isso, fale com os guardas.}
+{323}{}{Devolva meu dinheiro agora, ou eu coloco você no "ol'Doctor".}
+{324}{}{Esqueça isso então. Eu preciso de outra coisa...}
+{325}{}{Que seja. Estou indo.}
+{326}{}{Bem, eu posso tentar. Sem garantias com o ol'Doctor no quarto de trás, é claro. Vai ter custar... e não há ceteza se a operação vai funcionar. Pode crescer de novo.}
+{327}{}{Eu não ligo. Eu quero ele fora antes que cresça mais um "eu" nele.}
+{328}{}{Deixe pra lá então. Eu tenho outras perguntas...}
+{329}{}{Esqueça isso então. Eu volto mais tarde.}
+{330}{}{Hmmmmm. Quinhentos, e temos um trato. Não estou autorizado a realizar amputações com o Auto-Doc, e vai custar meu emprego se eles descobrirem.}
+{331}{}{Certo. Quinhentos. Agora tire essa coisa logo.}
+{332}{}{Está um pouco caro. Que tal $300?}
+{333}{}{Deixe pra lá então. Eu tenho outras perguntas...}
+{334}{}{Esqueça isso então. Eu volto mais tarde.}
+{335}{}{Esqueça isso. Eu não tenho todo esse dinheiro agora. Eu volto depois.}
 {336}{}{Well... all right. That sounds fair.}
-{337}{}{Let's get to it, then. I'll just hook up the ol' Doctor here... have 'em lay down, and I'll tighten the braces and secure the clamps...}
-{338}{}{Fade out for 3 Seconds}
-{339}{}{That little friend of yours should be gone now. I hope. It's hard to squeeze out all of that mutated pus out of the bone marrow. Anyway, here you go.}
-{340}{}{Glad that's taken care of then. Say, there was another thing I needed...}
-{341}{}{It better not grow back this time. I mean it.}
-{342}{}{Much appreciated. I may be back.}
-{343}{}{You have gained +2 Max HP.}
-{344}{}{You have gained +4 Max HP.}
-{345}{}{You have lost -2 Max HP.}
-{346}{}{Uh, well, okay... but I warned you last time that it might not be safe.}
-{347}{}{ bucks for the whole lot of you, and we'll call it even. The procedure won't work on your robot brain, buddy. What do you say?}
-{348}{}{Cool! I've always wanted to look like Kryten! Here's the cash and the combat armor.}
-{349}{}{All right. Here we go.}
-{350}{}{You have lost -4 Max HP.}
-{351}{}{Wahh? Me still fee no good. Me go sleep now.}
+{337}{}{{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
+{338}{}{Apagar-se por 3 segundos}
+{339}{}{Aquele seu amiguinho já era. Espero. Foi difícil comprimir todo aquele pus mutado pra fora do osso. De qualquer forma, está pronto.}
+{340}{}{Grato por ter dado um jeito nisso. Tem outra coisa de que eu preciso...}
+{341}{}{É melhor que não cresça de novo dessa vez. Espero.}
+{342}{}{Muito grato. Eu volto depois.}
+{343}{}{Você ganhou +2 Max HP.}
+{344}{}{Você ganhou +4 Max HP.}
+{345}{}{Você perdeu -2 Max HP.}
+{346}{}{Ham, bem, ok... mas eu te alertei da última vez que poderia nã ser seguro.}
+{347}{}{ mangos por tudo, e temos um trato. O procedimento não funciona no seu cérebro robô, camarada. O que você diz?}
+{348}{}{Legal! Eu sempre quis parecer com o Kryten! Aqui está o dinheiro e a combat armor.}
+{349}{}{Muito bem. Lá vamos nós.}
+{350}{}{Você perdeu -4 Max HP.}
+{351}{}{Wahh? Não estou me sentindo bem. Preciso dormir agora.}
 {352}{}{Ugh... otay. Byeeee}

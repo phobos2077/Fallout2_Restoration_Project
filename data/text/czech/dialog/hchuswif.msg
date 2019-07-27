@@ -9,10 +9,9 @@
 {108}{}{**Prrrrrrdddddd**}
 {109}{}{Zaius øíkal, že by pro mì pøíští mìsíc mohl mít práci.}
 {110}{}{Tady je bordel jak v tanku! Kdy se chystáš uklízet, ženská?}
-{111}{}{Ženská, ty jseš chytrá jak rádio!}
+{111}{}{You got a real smart mouth on ya', woman!}
 {112}{}{Miluju tì, koèko.}
 {113}{}{Mám ti nafackovat, krávo?}
-
 {140}{}{Upeè si ten zatracenej koláè sám, ty lenochu!}
 {141}{}{...(mumlá) dám mu tam tolik pepøe, kolik budu chtít (mumlá)... }
 {142}{}{Prala jsem tvoje spodky v mìstský studni, jako vždycky!}
@@ -23,6 +22,5 @@
 {147}{}{Nìkdo v tomhle baráku musí mít rozum!}
 {148}{}{Já tebe taky, kocourku.}
 {149}{}{Nechci mít nic spoleènýho s tvojí prackou!}
-
 {200}{}{Co k èertu chceš? Vypadni z mýho domu, blbeèku.}
 {201}{}{Pøísahám, že se jednoho dne seberu a zmizím odsud. A jsem moc zvìdavá, co si tady ten línej zadek potom sám poène.}

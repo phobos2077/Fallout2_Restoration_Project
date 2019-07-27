@@ -1,6 +1,3 @@
-#
-#   Interface text from INTFACE.C
-#
 {100}{}{PLÍŽENÍ}
 {101}{}{NOVÁ ÚROVEÒ}
 {102}{}{ZÁVISLOST}

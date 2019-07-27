@@ -1,6 +1,6 @@
 {100}{}{Poèítaèovı terminál.}
 {101}{}{Na rùznıch místech poèítaèe jsou nalepeny obrázky spoøe odìnıch dívek.}
-{102}{}{Nedokáeš pøeèíst text na obrazovce.}
+{102}{}{Obrazovka je pro tebe zcela neèitelná.}
 {103}{}{Zbrojní pøístupovı terminál                                        Silová pole - Vypnuta                                           Elektrická podlaha - Vypnuta}
 {104}{}{Zbrojní pøístupovı terminál                                        Silová pole - Vypnuta                                           Elektrická podlaha - Zapnuta}
 {105}{}{Zbrojní pøístupovı terminál                                        Silová pole - Zapnuta                                           Elektrická podlaha - Vypnuta}
@@ -11,7 +11,7 @@
 {110}{}{Konec.}
 {111}{}{(A se snaíš sebevíc, tyhle zakroucené èáry ti nedávají praádnı smysl.)}
 {112}{}{Vypnout elektrickou podlahu                                        Prosím zadejte heslo:}
-{113}{}{Hacknout bezpeènostní systémy.}
+{113}{}{Hacknout se do systému.}
 {114}{}{Hádat heslo.}
 {115}{}{Zpìt do hlavního menu.}
 {116}{}{Konec.}
@@ -22,7 +22,7 @@
 {121}{}{Zpìt do hlavního menu.}
 {122}{}{Konec.}
 {123}{}{Vypnout silová pole                                             Prosím zadejte heslo:}
-{124}{}{Hacknout bezpeènostní systémy.}
+{124}{}{Hacknout se do systému.}
 {125}{}{Hádat heslo.}
 {126}{}{Zpìt do hlavního menu.}
 {127}{}{Konec.}
@@ -53,22 +53,19 @@
 {152}{}{Konec.}
 {153}{}{(Máš neuvìøitelné štìstí! Podaøilo se ti uhádnout heslo "Dudy".)
                                                                Deaktivuji elektrickou podlahu}
-{154}{}{Zpìt ho hlavního menu.}
+{154}{}{Zpìt do hlavního menu.}
 {155}{}{Konec.}
 {156}{}{(Je úplnì jedno, jak dlouho se budeš snait... to heslo stejnì neuhádneš.)}
-{157}{}{Zpìt ho hlavního menu.}
+{157}{}{Zpìt do hlavního menu.}
 {158}{}{Konec.}
 {159}{}{(Ten, kdo tu vymıšlel hesla, musel bıt blázen do poprsí. Správné heslo je "Bradavky".)                                   Deaktivuji silová pole}
-{160}{}{Zpìt ho hlavního menu.}
+{160}{}{Zpìt do hlavního menu.}
 {161}{}{Konec.}
 {162}{}{(Je úplnì jedno, jak dlouho se budeš snait... to heslo stejnì neuhádneš.)}
-{163}{}{Zpìt ho hlavního menu.}
+{163}{}{Zpìt do hlavního menu.}
 {164}{}{Konec.}
 {165}{}{(Tvoje neodborné hrátky zpùsobily, e ti terminál explodoval pøímo do tváøe.)}
 {166}{}{Konec.}
-
 {200}{}{Tento terminál je nefunkèní.}
-
-{300}{}{Elektrická podlaha je nyní vypnuta.}
-
-{400}{}{Poèítaè je v diagnostickém módu. Prosím vyèkejte, dokud proces neskonèí.}
+{300}{}{Vypínáš energetické pláty.}
+{400}{}{Poèítaè je v diagnostickém reimu. Prosím vyèkejte, dokud proces neskonèí.}

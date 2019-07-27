@@ -45,7 +45,7 @@
 {144}{}{Opravdu si to myslíš?}
 {145}{}{Ano, Jacku. Je to tak.}
 {146}{}{Samozøejmì. Snad si nemyslíš, e ti lu?}
-{147}{}{Kdy já nevím...}
+{147}{}{Nevím.}
 {148}{}{Nenech ji vyhrát, Jacku.}
 {149}{}{Teï máš šanci. Buï chlap. Uka jí, e nejsi srab.}
 {150}{}{Kašlu na to. Vdy ty jenom kecáš a mùj osud je ti úplnì ukradenej!}

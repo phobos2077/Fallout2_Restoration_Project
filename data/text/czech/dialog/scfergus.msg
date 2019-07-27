@@ -47,7 +47,6 @@
 {146}{}{(Pokraèovat)}
 {147}{}{To nic, moje chyba. Øíkáte 13, jo? Hmm, o tom nic nevím.}
 {148}{}{(Pokraèovat)}
-
 {149}{}{Já vyøešit problém. Zabít zlá chlap. Chtít peníze.}
 {150}{}{Øeknìte prezidentce, e je problém se squattery vyøešenı.}
 {151}{}{Darion je mrtvı? Och, tak to se vám omlouvám. Mùete vstoupit.}
@@ -55,8 +54,6 @@
 {153}{}{Ne.}
 {154}{}{Jo, ještì nìco - nìco o špehovi.}
 {155}{}{Co to pov... ehm, chci øíct, jsem rád, e je po všem. Mùete vstoupit.}
-
-#messages for when the player is tampering with something he shouldn't
 {500}{}{Promiòte, ale tam nemùete vstoupit bez povolení.}
 {501}{}{Musím vás poádat, a to necháte na pokoji.}
 {502}{}{To je poslední varování. Odejdìte, nebo budete mít problémy.}

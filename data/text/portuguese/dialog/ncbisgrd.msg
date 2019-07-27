@@ -2,9 +2,9 @@
 {150}{}{You see a rugged-looking man dressed in leather armor. Numerous scars and gunshot wounds
  cover his body.}
 {151}{}{You see one of Bishop's bodyguards. He is scanning the area and fingering his weapon.}
-{200}{}{Hey! }
+{200}{}{Ei! }
 {201}{}{! Way to kick the Enclave's ass!}
-{205}{}{How the hell do you go to the bathroom with that thing on?}
+{205}{}{Como diabos você vai no banheiro com essa coisa?}
 {210}{}{Bishop expecting you, }
 {211}{}{? Go on up. Just don't be waving that weapon around him.}
 {215}{}{Uh, look... Bishop's expecting you, right, }
@@ -14,7 +14,7 @@
 {226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
 {227}{}{This guy's asking for trouble...}
 {228}{}{You better leave, }
-{229}{}{Well, if it isn't }
+{229}{}{Ora ora, se não é }
 {230}{}{I hear the }
 {231}{}{Didn't think members of family }
 {232}{}{You just walked into the WRONG place, bitch.}
@@ -24,17 +24,17 @@
 {236}{}{I hear the }
 {245}{}{Yo, champ. No weapons in here, 'kay?}
 {246}{}{Yo, champ! Put that weapon away.}
-{247}{}{Hey, }
+{247}{}{Ei, }
 {255}{}{What are you sneaking around for?}
 {256}{}{Are you trying to avoid your fans?}
 {257}{}{Uh, why all the secrecy?}
 {265}{}{Yo, }
 {266}{}{Yo, }
 {275}{}{Yo, lover-boy. No weapons in here, 'kay?}
-{276}{}{Hey, }
+{276}{}{Ei, }
 {277}{}{Yo, }
 {278}{}{Honey, you can't be carryin' weapons in here. Heh-heh... You're deadly enough as it is.}
-{279}{}{Hey, }
+{279}{}{Ei, }
 {285}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
 {290}{}{Love the films, }
 {291}{}{Loved you in Great Balls for Hire.}
@@ -62,8 +62,8 @@
 {346}{}{You and your mutant friend looking to get shot? Beat it.}
 {347}{}{That mutant better get outta here right now, or we'll be mounting his head on a wall.}
 {355}{}{I *thought* I smelled something rotting. Get that ghoul outta here.}
-{356}{}{Get that stinky ghoul outta here. Now.}
-{357}{}{That ghoul ain't outta here in a minute, he's gonna be deader than he already is.}
+{356}{}{Tire esse ghoul fedorento daqui. Agora.}
+{357}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
 {365}{}{Catch the fight last night?}
 {366}{}{I'm hitting the bar after work.}
 {370}{}{You can go up if you want. Bishop got whacked, so you can use the pool, too.}
@@ -73,7 +73,7 @@
 {378}{}{Me want world peace}
 {379}{}{Me want to go up stairs}
 {380}{}{Hoo Yoo}
-{381}{}{[Wander off.]}
+{381}{}{Sair andando}
 {382}{}{What's up those stairs?}
 {383}{}{I'm here to see Mr. Bishop.}
 {384}{}{I'm here to see Mr. Bishop. I have a suitcase for him from Mr. Moore.}

@@ -74,7 +74,7 @@
 {204}{}{Normally, I would just leave that cursed place be, but for some reason the crops at this farm
  are still flourishing despite the drought. We'll starve if we don't get food soon. Will you help us
  rid the farm of these ghosts?}
-{205}{}{What do I get out of this?}
+{205}{}{Como que eu saio disso?}
 {206}{}{In return for helping us, I'll tell you where you can find what you seek.}
 {207}{}{OK, then let's seal the deal. Cut off your right pinky finger.}
 {208}{}{Then it's a deal. Show me where this Ghost Farm is.}
@@ -113,11 +113,11 @@
 {231}{}{Well, then -- welcome to Modoc. My name's Jo and I run this here trading post. We don't have
  much; just a few farms, a slaughterhouse, Rose's Bed and Breakfast, and a tannery. Just enough to
  produce goods to trade. Although that could all change with this drought.}
-{232}{}{What can you tell me about the slaughterhouse?}
+{232}{}{O que você pode me dizer sobre o matadouro?}
 {233}{}{Rose's Bed and Breakfast?}
 {234}{}{Tell me about the trading post.}
 {235}{}{Where's the tannery?}
-{236}{}{Can I ask you a few more questions?}
+{236}{}{Posso lhe fazer mais algumas perguntas?}
 {237}{}{The slaughterhouse is run by Grisham and his son Davin. It's just east of here. He makes the
  best damn jerky this side of the Rockies.}
 {242}{}{Rose's Bed and Breakfast is on the north side of town. Travelers from all over come just to
@@ -147,7 +147,7 @@
 {272}{}{Nah... I just drew the short straw. It seems I was out getting some supplies and when I came back,
  I found out the townsfolk went and elected me. Seems no one else wanted the job. Except for the
  occasional argument, I really don't have to do anything -- which suits me fine.}
-{273}{}{Can I ask you some more questions?}
+{273}{}{Posso fazer mais algumas perguntas?}
 {274}{}{What! Are you trying to be a wise ass? Everyone knows old Corny lost his gold pocket watch.
  He even had me search his best friend's house looking for it. If you know what's good for you, you'd
  keep your nose out of this. Good day!}
@@ -256,7 +256,7 @@
 {328}{}{You need to find out who those people staked out in front of the Ghost Farm are. }
 {329}{}{Karl disappeared from the farm some time ago. Find out what happened to him.}
 {330}{}{Thanks, I'll see what I can find out.}
-{331}{}{We don't want your kind around here.}
+{331}{}{Não queremos gente como você por aqui.}
 {400}{}{[Letting him cut his finger off] OK, now I'll help.}
 {410}{}{What's the big white building in the middle of town?}
 {500}{}{Oh, that's our town church. The people of Modoc built it to show their faith. Lately,

@@ -1,115 +1,115 @@
-{100}{}{You see a well-dressed man.}
-{101}{}{You see AHS-9, the Great and Terrible.}
-{102}{}{You see a well-dressed man.}
-{103}{}{You blaspheme the Hub's name! You must die!}
-{104}{}{Your perfidy knows no bounds!}
-{105}{}{The Great Wheel will run you over!}
-{106}{}{You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?}
+{100}{}{Você vê um homem bem vestido.}
+{101}{}{Você vê AHS-9, o Grande e Terrível.}
+{102}{}{Você vê um homem bem vestido.}
+{103}{}{Você profana o nome do Hub! Você deve morrer!}
+{104}{}{A sua traição não conhece limites!}
+{105}{}{A Grande Roda irá te atropelar!}
+{106}{}{Você está na presença do AHS-9, o Grande e Terrível. O que é que você deseja dele?}
 {107}{}{Agh a nu, AHS!}
-{108}{}{I'm looking for my people. I heard they came down this way in flying ships.}
-{109}{}{I have many questions for you, AHS-9.}
-{110}{}{The Enlightened One in NCR wanted me to deliver a letter. She said something about a reward?}
-{111}{}{The Enlightened One in NCR wanted me to deliver a letter. Here you go.}
-{112}{}{Oh, AHS-9, I come bearing a letter from your agent in NCR. I bow to your glory.}
-{113}{}{Your death. Good bye, old man.}
-{114}{}{Nothing, sorry.}
-{115}{}{Yes, my child?}
-{116}{}{Hinchoaf? [You can understand me?]}
-{117}{}{Aagga diggle doodle doo! [Oh, thank goodness. I'm looking for my people. I need to get over the big water.]}
-{118}{}{Poopy pants! [Well, thanks for your time. I have to be running along now. A pleasure talking to you.]}
-{119}{}{I can't understand a word you're saying. Perhaps you should see Juan or Vikki about an alignment.}
-{120}{}{Anks!}
-{121}{}{Of course, child. The alignment has cleared your basic neurodynes and aligned them with mine and the spokes of the Great Wheel. What do you need?}
-{122}{}{Aagga diggle doodle doo! [Oh, thank goodness. I'm looking for my people. I need to get over the big water.]}
-{123}{}{B-b-b-enny [Nothing, thanks. It's just nice being able to talk to you. Bye!]}
-{124}{}{If you'll agree to do me a favor, I can help you, child.}
-{125}{}{Oik? [What is it? I'd be happy to be of assistance.]}
+{108}{}{Estou procurando pelo meu povo. Eu ouvi que eles desceram desse jeito em naves voadoras.}
+{109}{}{Eu tenho muitas perguntas para você, AHS-9.}
+{110}{}{A Primeira Esclarecida em NCR queria que eu te entregasse uma carta. Ela disse algo sobre uma recompensa?}
+{111}{}{A Primeira Esclarecida em NCR queria que eu te entregasse uma carta. Aqui está.}
+{112}{}{Oh, AHS-9, eu venho para trazer uma carta do seu agente em NCR. Eu o saúdo em sua glória.}
+{113}{}{Sua morte. Até mais, velhote.}
+{114}{}{Nada, perdão.}
+{115}{}{Sim, minha criança?}
+{116}{}{Hinchoaf? [Você pode me entender?]}
+{117}{}{Aagga diggle doodle doo! [Oh, graças a Deus. Estou procurando pelo meu povo. Eu preciso reestabelecer a grande água.]}
+{118}{}{Calças borradas! [Bem, obrigado pelo seu tempo. Tenho de correr agora. Foi um prazer conversar com você.]}
+{119}{}{Não consigo entender uma palavra que você está dizendo. Talvez você devesse ir ver Juan ou Vikki atrás de algum alinhamento.}
+{120}{}{Brigado!}
+{121}{}{É claro, criança. O alinhamento limpou os seus neurodines e os alinhou com os meus e com os aros da Grande Roda. O que você precisa?}
+{122}{}{Aagga diggle doodle doo! [Oh, graças a Deus. Estou procurando pelo meu povo. Eu preciso reestabelecer a grande água.]}
+{123}{}{B-b-b-enny [Nada não, obrigado. É que é legal poder conversar com você, Tchau!]}
+{124}{}{Se você concordar em me fazer um favor, eu poderei te ajudar em troca, criança.}
+{125}{}{Oik? [O que é que é? Eu ficaria feliz em ser de sua ajuda.]}
 {126}{}{Não!}
-{127}{}{My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.}
-{128}{}{Ays! [I'll do it.]}
+{127}{}{Minha contraparte, O Imperador da cidade Shi, tem tornado a minha vida miserável. Eu gostaria que você desse um fim nisso. Em retorno, eu farei com que você possa chegar aonde quer.}
+{128}{}{Ays! [Eu farei isso.]}
 {129}{}{Não!}
-{130}{}{If you change your mind, let me know. Remember, I may be the only way you have of reaching your family.}
-{131}{}{Ok. [What is this favor?]}
-{132}{}{Didgeroo! [Thanks, I'd rather not owe anyone. So long!]}
-{133}{}{Good. Let me know when you're done, and I'll begin making inquiries into ways we can achieve your goal at the same time. Farewell, child.}
-{134}{}{D'bye! [So long, AHS-9. You're a great man.]}
-{135}{}{Have you completed your task? Your future and that of the Wheel on this planet depend on it.}
-{136}{}{Unh-uh [Not yet. I just wanted to say hi.]}
-{137}{}{I'm working on it. I have some questions.}
-{138}{}{Not yet. I'll get back to you.}
-{139}{}{Greetings to you as well. Now, please finish your job so that I may aid you.}
-{140}{}{Ng! Ng! [Yes, sir!]}
-{141}{}{I can see by your emanations that you have succeeded in ridding the world of the polluting neurodynes of the Emperor.}
-{142}{}{Jirsa! [Yes, I have. How is your part of the bargain coming along?]}
-{143}{}{Yes, I have. Now I require your assistance in helping my people.}
-{144}{}{If you go to Shi-town's docks, you will find the PMV Valdez. Enter the ship. Head to your right, and up to the captain's station. Hit the Go button, and the tanker will sail you to your destination.}
-{145}{}{Anks! [It has been a pleasure, AHS-9. I wish you all the best. Good bye.]}
-{146}{}{Flying ships? You must be referring to the Enclave and their vertibirds.}
-{147}{}{Yeah, I guess so.}
-{148}{}{Enclave? Enclave who?}
-{149}{}{Trust me, child, you are referring to the Enclave.}
-{150}{}{Yeah, okay. How do I find them?}
-{151}{}{The Enclave are a remnant of the past - a neurodyne that has yet to be aligned. They have hidden bases all over the shards of old California, and their strongest stronghold is off to the west, over the waters.}
-{152}{}{How do I get there?}
-{153}{}{How do you know all this?}
-{154}{}{That, my child, you will have to discover on your own. Ask around and you shall find the truth.}
-{155}{}{Very helpful. I have more questions.}
-{156}{}{How do you know all this?}
+{130}{}{Venha me dizer caso você mude de idéia. Lembre-se, eu devo ser o único meio de você reencontrar a sua família.}
+{131}{}{Ok. [qua seria este favor?]}
+{132}{}{Didgeroo! [Obrigado, mas é melhor eu não dever nada a ninguém. Até mais!]}
+{133}{}{Ótimo. Me avise quando você estiver pronto, e eu começarei a pesquisar as maneiras com que poderemos alcançar os seus objetivos neste mesmo tempo. Vá em paz, criança.}
+{134}{}{Ti'au! [Até mais, AHS-9. Você é um grande homem.]}
+{135}{}{Já completou a sua tarefa? O seu futuro e o da Roda neste planeta depende disso.}
+{136}{}{Anh-an [Ainda não. Só queria dar um alô.]}
+{137}{}{Estou trabalhando nisso. Tenho algumas perguntas.}
+{138}{}{Ainda não. Mas trarei isso a você.}
+{139}{}{Meus cumprimentos a você também. Agora, por favor termine seu trabalho e então eu poderei ajudá-lo.}
+{140}{}{Ng! Ng! [Sim, senhor!]}
+{141}{}{Eu posso ver pelas suas emanações que você foi bem sucedido em libertar o mundo dos poluídos neurodines do Imperador.}
+{142}{}{Jirsa! [Sim, eu fui. E como vai a sua parte do nosso acordo?]}
+{143}{}{Sim, eu fui. Agora eu exijo a sua ajuda no resgate do meu povo.}
+{144}{}{Se você for para as docas da cidade Shi, você irá encontrar o PMV Valdez. Entre nesta embarcação. Vá para a sua direita, e suba para o posto do capitão. Aperte o botão de partida, e o petroleiro irá navegar até o seu destino.}
+{145}{}{Anks! [Foi um prazer, AHS-9. Desejo o melhor a você. Adeus.]}
+{146}{}{Naves voadoras? VocÊ deve estar se referindo à Enclave e aos seus vertibirds.}
+{147}{}{Isso, eu acho.}
+{148}{}{Enclave? Que Enclave?}
+{149}{}{Acredite, criança, você está falando da Enclave.}
+{150}{}{Sim, ok. Como eu posso encontrá-los?}
+{151}{}{A Enclave é um remanescente do passado – uma dor de cabeça que ainda precisa ser curada. Eles possuem bases escondidas por todos os cacos da velha Califórnia, e a sua mais forte fortaleza afasta-se para o oeste, através das águas.}
+{152}{}{Como poderei chegar lá?}
+{153}{}{Como você sabe tudo isso?}
+{154}{}{Isto, minha criança, você terá de descobrir por si próprio. Pergunte por aí e você encontrará a verdade.}
+{155}{}{De muita ajuda. Eu tenho mais perguntas.}
+{156}{}{Como você sabe tudo isso?}
 {157}{}{Seja o que for. Tchau.}
-{158}{}{Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
+{158}{}{Criança, eu sou o AHS-9. Eu vejo muitas coisas que transpiram deste gordo mundo. Você tem mais perguntas, ou eu posso voltar para as minha meditações?}
 {159}{}{Mais perguntas.}
-{160}{}{Return to your meditations. I'm done.}
-{161}{}{You have killed the Emperor and destroyed his minions?}
-{162}{}{Yes, I have.}
-{163}{}{Then there is no one who can stand in my way! But I see no need to be beholden to a mere tool. Farewell - and good riddance!}
-{164}{}{Why, you scumbag. I'm going to kill you now.}
-{165}{}{Oh. Well, if that's the way it's got to be. So long.}
-{166}{}{A letter from the Enlightened One? Is that what she calls herself now? Bah. [he takes the letter from you] And she promised a reward? You have a reward - my gratitude. Good day.}
-{167}{}{That's it? Old man, you're dead.}
-{168}{}{Err, I had some questions.}
-{169}{}{Gee, great. Bye.}
-{170}{}{Address your questions to AHS-7. I am AHS-9, the Great and Terrible, and I have many matters on my mind. Trouble me not, meat.}
-{171}{}{If you won't answer my questions, you'll answer my weapons.}
+{160}{}{Retorne para as suas meditações. Já acabei.}
+{161}{}{Você matou o Imperador e destruiu os seus servos?}
+{162}{}{Sim, eu o fiz.}
+{163}{}{Então não há mais ninguém que possa ficar no meu caminho! Mas eu não vejo necessidade para dever algo a uma mera ferramenta. Vá em paz - e ótimo trabalho!}
+{164}{}{O quê, seu asqueroso. Eu vou te matar.}
+{165}{}{Oh. Bem, se é assim que tem de ser. Até mais.}
+{166}{}{Uma carta da Primeira Esclarecida? É assim que ela se chama agora? Bah. [ele pega a carta] E ela prometeu uma recompensa? Você tem uma recompensa - minha gratidão. Tenha um bom dia.}
+{167}{}{Então é isso? Velhote, você está morto.}
+{168}{}{Err, eu tenho algumas perguntas.}
+{169}{}{Ah meu Deus, que ótimo. Tchau.}
+{170}{}{Direcione as suas perguntas ao AHS-7. Eu sou o AHS-9, o Grande e Terrível, e tenho muitas preocupações na minha cabeça. Não me traga problemas, carne.}
+{171}{}{Se você não responder minhas perguntas, irá responder às minhas armas.}
 {172}{}{Seja o que for.}
-{173}{}{Ahh, a letter from my field agent. Pity she calls herself "The Enlightened One" - it shows that she truly is not enlightened. You have my gratitude.}
-{174}{}{No problem. I have a question or two, though.}
+{173}{}{Ahh, uma carta do meu agente de campo. Misericórdia, ela está se chamando como "A Primeira Esclarecida" - isto mostra como ela não está verdadeiramente alinhada. Você tem a minha gratidão.}
+{174}{}{Sem problema. Eu tenho uma ou duas perguntas, de qualquer maneira.}
 {175}{}{Grande. Tchau.}
-{176}{}{Yes, my child?}
-{177}{}{When does the spaceship take off?}
-{178}{}{Do you have any tasks for me?}
-{179}{}{Where does all the money we provide go?}
-{180}{}{Oh, nothing. Forget it.}
-{181}{}{My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.}
-{182}{}{Sure thing, boss. See ya.}
-{183}{}{I'd rather not.}
-{184}{}{Seek out Badger, whose caustic presence holds those pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.}
-{185}{}{Sure thing, boss. See ya.}
-{186}{}{I'd rather not.}
-{187}{}{I was not aware I had made it a request, child. Kill him!}
+{176}{}{Sim, minha criança?}
+{177}{}{Quando a espaçonave irá decolar?}
+{178}{}{Você tem algumas tarefas para mim?}
+{179}{}{Pra onde vai todo o dinheiro que nós damos?}
+{180}{}{Ah, nada. Esqueça.}
+{181}{}{Minha contraparte, O Imperador da cidade Shi, tem tornado a minha vida miserável. Eu gostaria que você desse um fim nisso. Em retorno, eu farei com que você possa chegar aonde quer.}
+{182}{}{Sem dúvida, chefe. Até.}
+{183}{}{Acho melhor não.}
+{184}{}{Procure pelo Badger, o qual a sua cáustica presença mantém estes errantes patéticos do petroleiro unidos. Livre a nossa honrada cidade deles. Quando tiver feito isso, visite o AHS-7.}
+{185}{}{Sem dúvida, chefe. Até.}
+{186}{}{Acho melhor não.}
+{187}{}{Eu não fui avisado de que fiz disso um pedido, criança. Mate-o!}
 {188}{}{Não.}
 {189}{}{Ah, tudo bem. Eu faço isso.}
-{190}{}{You disobey the commands of AHS-9, the Great and Terrible? Then you shall die.}
-{191}{}{Bring it on.}
-{192}{}{Wait, I changed my mind.}
-{193}{}{Too late, meat. You have shown you cannot be trusted. Die!}
+{190}{}{Você desobedeceu as ordens do AHS-9, the Grande e Terrível? Então você deve morrer.}
+{191}{}{Traga à mostra.}
+{192}{}{Espere, mudei de idéia.}
+{193}{}{Tarde demais, carne. Você mostrou que não é confiável. Morra!}
 {194}{}{[FEITO]}
-{195}{}{Child, there are some things you are not meant to know for now. [He smiles benignly.]}
+{195}{}{Criança, existem coisas que você não deveria saber por ora. [Ele sorri benevolentemente.]}
 {196}{}{Tudo bem. Eu tenho mais perguntas.}
-{197}{}{Hm. Bye.}
-{198}{}{The ESS Quetzel will launch when the stars are right. }
-{199}{}{Right-o. I have more questions.}
+{197}{}{Hm. Tchau.}
+{198}{}{O ESS Quetzel será lançado quando as estrelas estiverem corretas. }
+{199}{}{Certo. Eu tenho mais perguntas.}
 {200}{}{Obrigado. Tchau.}
-{201}{}{Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?}
+{201}{}{A sua aura roubada me diz que você veio aqui para nada. Conte-me, criança, você deseja lucrar com a sua aventura?}
 {202}{}{Sim.}
 {203}{}{Não.}
-{204}{}{No, I just want you to die.}
-{205}{}{This, then, is my bargain: return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed.}
+{204}{}{Não, eu só quero morrer.}
+{205}{}{Isto, então, é a minha barganha: retorne aos Shi e elimine Ken Lee e o Imperador. Eu irei bancar você com mais dinheiro do que você jamais tenha sonhado.}
 {206}{}{Não, eu não penso assim.}
-{207}{}{You've got a deal, fat man.}
-{208}{}{Then go and smite those troublesome souls. I await word of your success. [He smiles beatifically.]}
+{207}{}{Você tem um acordo, gordo.}
+{208}{}{Então vá e destrua essas almas problemáticas. Eu aguardarei pelo seu sucesso. [Ele sorri benevolentemente.]}
 {209}{}{Até mais.}
-{210}{}{No, wait, I changed my mind. I want you dead.}
-{211}{}{Ah, child, how could you stray from the path of truth like this? I see from your aura that you plan to kill me. I am bitterly disappointed. Bitterly. Ah well. Let us proceed.}
-{212}{}{Yes, let's. Die.}
-{213}{}{Remember, you will need to visit AHS-7 when you have completed your task.}
-{214}{}{All our needs have been met. Now it is time for me to meditate.}
+{210}{}{Não, espere, mudei de idéia. Eu quero você morto.}
+{211}{}{Ah, criança, como pode você ter se enganado dessa maneira com o caminho da verdade? Posso ver pela sua aura que você planeja me matar. Estou amargamente desapontado com você. Amargamente. Oh bem. Vamos em frente.}
+{212}{}{Sim, vamos. Morra.}
+{213}{}{Lembre-se, você precisará visitar o AHS-7 quando você tiver completado a sua tarefa.}
+{214}{}{Todas as nossas necessidades tem se encontrado. Agora é hora para eu meditar.}

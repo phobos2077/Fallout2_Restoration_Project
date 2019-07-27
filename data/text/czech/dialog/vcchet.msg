@@ -16,12 +16,12 @@
 {115}{}{Udìlej ze mì otrokáøe.}
 {116}{}{Udìlej ze mì vraha dìtí.}
 {117}{}{Nic... jenom mi sniž karmu o 100.}
-{118}{}{Vlastnì nic. Chci nìco jiného.}
+{118}{}{Nevadí. Chci se na nìco zeptat...}
 {119}{}{Ne, nic.}
-{120}{}{Koho?}
-{121}{}{Marcuse.}
-{122}{}{Lennyho.}
-{123}{}{Vica.}
-{124}{}{Myrona.}
+{120}{}{Kdo?}
+{121}{}{Marcus.}
+{122}{}{Lenny.}
+{123}{}{Vic.}
+{124}{}{Myron.}
 {125}{}{Nikoho. Potøebuju nìco jiného.}
-{126}{}{Zapomeò na to. Mìj se.}
+{126}{}{Ale nic. Nashle.}

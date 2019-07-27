@@ -20,20 +20,20 @@
 {181}{}{You see one of the casino dealers. Her dress barely covers her body.}
 {182}{}{You see one of the casino dealers. Her dress barely covers her body.}
 {183}{}{You see one of the casino dealers. She motions for you to come over and play.}
-{200}{}{::Cheers::}
-{201}{}{::Claps::}
-{202}{}{::Whistles::}
+{200}{}{::Assobios::}
+{201}{}{::Palmas::}
+{202}{}{::Assobios::}
 {203}{}{! Welcome to the casino, hero!}
 {204}{}{Thought you'd forgotten about us while you were saving the world.}
 {210}{}{Olá, }
-{211}{}{If you're looking for a little company later...}
+{211}{}{Se precisar de companhia mais tarde...}
 {212}{}{Hey, you...(winks)...you looking to gamble?}
-{213}{}{He looks so...(shivers)...dangerous.}
+{213}{}{Ele parece tão... (arrepios) perigoso.}
 {214}{}{Welcome to the casino, }
-{215}{}{Put in a good word with the boss for me?}
-{216}{}{Hello, ma'am. Let me know if I can help you with anything.}
+{215}{}{Fale bem de mim pro chefe, beleza?}
+{216}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
 {217}{}{Looking to gamble, ma'am?}
-{218}{}{She looks so...(shivers)...dangerous.}
+{218}{}{Ela parece tão... (arrepios) perigosa.}
 {220}{}{Looks like this one's already gambling with his life.}
 {221}{}{Uh, I think he just walked into the wrong casino...}
 {222}{}{If he doesn't leave before the boys see him...}
@@ -44,9 +44,9 @@
 {230}{}{Hey, muscles. You looking to spend some chips?}
 {231}{}{Hey, champ...(winks)...you looking to gamble?}
 {232}{}{Hey, champ...(smiles)...wanna take a chance?}
-{233}{}{If you're looking for a little company later...}
+{233}{}{Se precisar de companhia mais tarde...}
 {234}{}{I wonder if I should talk to him...}
-{235}{}{Hey, }
+{235}{}{Ei, }
 {236}{}{If you're looking to win some chips, you came to the right place.}
 {237}{}{Best casino in New Reno. In the WORLD, even.}
 {238}{}{Lady Luck's in the house tonight... nothing but winners!}
@@ -57,8 +57,8 @@
 {243}{}{Looking to gamble, }
 {244}{}{Welcome to the casino, }
 {250}{}{Hey there, movie man. You looking to spend some chips?}
-{251}{}{Hey, }
-{252}{}{Hey, }
+{251}{}{Ei, }
+{252}{}{Ei, }
 {253}{}{If you're looking to win some chips }
 {254}{}{Best casino in New Reno. In the WORLD, even.}
 {255}{}{Lady Luck's in the house tonight... nothing but winners!}
@@ -114,25 +114,25 @@
 {332}{}{Sorry, better luck next time.}
 {333}{}{You have [C] chips. Keep playing?}
 {334}{}{Liga-o por um dia.}
-{335}{}{Call it a night.}
+{335}{}{Isso que é noite!}
 {340}{}{Winner! Well done, sir!}
 {341}{}{Winner! Well done, ma'am!}
 {342}{}{Winner!}
 {343}{}{You have [C] chips. Keep playing?}
 {344}{}{Liga-o por um dia.}
-{345}{}{Call it a night.}
+{345}{}{Isso que é noite!}
 {350}{}{Winner! You've doubled your money! Well done, sir!}
 {351}{}{Winner! You've doubled your money! Well done, ma'am!}
 {352}{}{Winner! You've doubled your money!}
 {353}{}{You have [C] chips. Keep playing?}
 {354}{}{Liga-o por um dia.}
-{355}{}{Call it a night.}
+{355}{}{Isso que é noite!}
 {360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {362}{}{Winner! You've tripled your money!}
 {363}{}{You have [C] chips. Keep playing?}
 {364}{}{Liga-o por um dia.}
-{365}{}{Call it a night.}
+{365}{}{Isso que é noite!}
 {370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
 {371}{}{I'm whoever you WANT me to be, sweetheart. Now, you gonna place a bet?}
 {372}{}{I'm whoever you WANT me to be, girlfriend. Now, you gonna place a bet?}

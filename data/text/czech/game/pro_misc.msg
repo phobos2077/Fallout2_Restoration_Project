@@ -1,6 +1,6 @@
 {100}{}{Raketa}
 {200}{}{Oblak plazmy}
-{300}{}{Exploze}
+{300}{}{Výbuch}
 {400}{}{Krev}
 {500}{}{Neprùchozí hex}
 {501}{}{}
@@ -9,11 +9,11 @@
 {800}{}{EMP impuls}
 {900}{}{Laserový puls}
 {1000}{}{Zážeh plazmy}
-{1100}{}{Exploze}
+{1100}{}{Výbuch}
 {1200}{}{Omezovaè scrollingu}
 {1300}{}{Elektrický výboj}
-{1400}{}{Exploze}
-{1500}{}{Exploze}
+{1400}{}{Výbuch}
+{1500}{}{Výbuch}
 {1600}{}{Východ}
 {1700}{}{Východ}
 {1800}{}{Východ}
@@ -26,7 +26,7 @@
 {2500}{}{Granát}
 {2600}{}{Kámen}
 {2700}{}{Výbuch}
-{2800}{}{Exploze}
+{2800}{}{Výbuch}
 {2900}{}{Výbuch}
 {3000}{}{Molotovùv koktejl}
 {3100}{}{Východ}

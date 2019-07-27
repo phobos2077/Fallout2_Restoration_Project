@@ -2,7 +2,7 @@
 {101}{}{Vidíš Karla, zástupce mìsta.}
 {102}{}{Vidíš mladíka sotva odrostlého z puberty. Vypadá vlídnì.}
 {103}{}{Vítej, cizinèe. Jsem Karl a zastupuji toto mìsto. Co pro tebe mohu udìlat?}
-{104}{}{Jako napøíklad?}
+{104}{}{Jako tøeba?}
 {105}{}{Eh... heee..}
 {106}{}{Jsem v NCR nováèek. Co mi mùžeš øíct o tomhle mìstì?}
 {107}{}{No, hledám Vault 13.}
@@ -22,13 +22,13 @@
 {121}{}{Je to drsný chlap, jo?}
 {122}{}{Co s ním chcete dìlat?}
 {123}{}{O tobì už jsem urèitì slyšel. Jo... jen samé dobré vìci. Poslyš, vím o pár lidech, kterým by se tvoje dovednosti hodily. Zajdi do obchodu s auty a ptej se po Elise. Øekni jí, že ji Karl pozdravuje.}
-{124}{}{Práci? Stockmanova Asociace hledá stráže. Nájezdníci opìt podnikli útok na dobytek. A také jsem slyšel, že naše prezidentka Tandi hledá nìkoho *speciálního*. Pomùže ti to?}
-{125}{}{Dobøe, chci se ještì na nìco zeptat.}
+{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{125}{}{Dobøe, mám ještì nìjaké otázky.}
 {126}{}{Trochu. Díky.}
 {127}{}{To je dùstojník Jack, cizinèe. Jeden z našich lidí. Ještì jsi nemluvil s Mirou, že ne?}
-{128}{}{Ano, mluvil.}
+{128}{}{Ano.}
 {129}{}{Kdo je Mira?}
-{130}{}{Toho parchanta? Má ranè venku za mìstem. Najdeš ho, když pùjdeš po cestì za Stockmanovou Asociací.}
+{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
 {131}{}{Ty ho asi nemáš moc rád, že?}
 {132}{}{Dobøe, mám ještì nìjaké otázky.}
 {133}{}{Díky.}

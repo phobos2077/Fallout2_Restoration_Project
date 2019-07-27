@@ -6,16 +6,16 @@
 {105}{}{Jo... mám zranìní a vy vypadáte jako doktor.}
 {106}{}{Ano. Potøebuju doktora pro mého pøítele.}
 {107}{}{Nemáte nìjaké Stimpaky? Chci si nìjaké koupit.}
-{108}{}{Kdo jste?}
+{108}{}{Kdo jsi?}
 {109}{}{Mám pøítele, kterému chybí slezina. Mùete mu pomoct?}
-{110}{}{Co mi mùete øíct o tomhle místì?}
+{110}{}{Co mi mùeš øíct o tomto místì?}
 {111}{}{Nashle.}
 {112}{}{Ukate, podívám se na to. Hmm... ano. Budete mi muset zaplatit, samozøejmì.}
-{113}{}{Kolik?}
-{114}{}{Zapomeòte na to.}
+{113}{}{Kolik za to?}
+{114}{}{Zapomeò na to.}
 {115}{}{Mohu ho vyléèit... samozøejmì za peníze.}
-{116}{}{Kolik?}
-{117}{}{Zapomeòte na to.}
+{116}{}{Kolik za to?}
+{117}{}{Zapomeò na to.}
 {118}{}{Kdo jsem? Jsem Dr. Fung. Uèím a léèím.}
 {119}{}{Dr. Fung? Znáte Doc Hollidaye?}
 {120}{}{Tìší mì. Potøebuju vyléèit.}
@@ -28,20 +28,19 @@
 {127}{}{Nejspíš. U musím jít. Nashle.}
 {128}{}{Bude vás to stát $100.}
 {129}{}{Zaplatím.}
-{130}{}{Zapomeòte na to.}
+{130}{}{Zapomeò na to.}
 {131}{}{Tohle vypadá vánì. Bude to stát $200.}
 {132}{}{Zaplatím.}
-{133}{}{Zapomeòte na to.}
+{133}{}{Zapomeò na to.}
 {134}{}{To jsou opravdu rozsáhlá zranìní. $300 bude staèit na zaplacení mıch slueb.}
 {135}{}{Zaplatím.}
-{136}{}{Zapomeòte na to.}
+{136}{}{Zapomeò na to.}
 {137}{}{Obávám se, e za takové zranìní budu muset poadovat $400.}
 {138}{}{Zaplatím.}
-{139}{}{Zapomeòte na to.}
+{139}{}{Zapomeò na to.}
 {140}{}{Radìji se posaïte. Budete to potøebovat, a uslyšíte èástku, kterou poaduji. Zmrzaèené konèetiny stojí $600.}
 {141}{}{Zaplatím.}
-{142}{}{Zapomeòte na to.}
-
+{142}{}{Zapomeò na to.}
 {158}{}{Coe? Vy nemáte peníze? Z èeho myslíte, e budu ít, kdy po mnì poadujete práci zadarmo?}
 {159}{}{Máte Stimpaky?}
 {160}{}{Ne, díky.}
@@ -49,17 +48,17 @@
 {162}{}{Díky.}
 {163}{}{Bohuel vaše nabídka není pøijatelná.}
 {164}{}{A co tohle?}
-{165}{}{Víc nabídnout nemùu. Zatím.}
+{165}{}{Víc nabídnout nemùu. Sbohem.}
 {166}{}{Máte zranìní? Ts, ts, ts. Starovìkı léèebnı prostøedek to vyléèí. }
 {167}{}{Dobøe!}
 {168}{}{}
 {169}{}{Hotovo. Teï jdìte a buïte opatrnı!}
-{170}{}{Dík!}
+{170}{}{Díky!}
 {171}{}{Ještì nìco?}
-{172}{}{Potøebuju vyléèit.}
+{172}{}{Potøebuju uzdravit.}
 {173}{}{Mám pøítele, kterı potøebuje uzdravit.}
-{174}{}{Kdo jste?}
-{175}{}{Povìzte mi o tomhle místì.}
+{174}{}{Kdo jsi?}
+{175}{}{Povìz mi nìco o tomhle místì.}
 {176}{}{Mám pøítele, kterému chybí slezina. Mùete mu pomoct?}
 {177}{}{Ne, ale kadopádnì díky.}
 {178}{}{Tak to jste na správném místì. Chcete radìji slyšet dlouhı pøíbìh nebo ten krátkı?}
@@ -75,8 +74,8 @@
 {188}{}{Nakonec jsme se dostali na bøeh poblí ruin San Francisca. Vìtšina mìsta byla znièena válkou. Museli jsme znovu vybudovat základy spoleènosti zaloené pouze na nìkolika lidech, kteøí pøeili a dobelhali se zpìt do mìsta.}
 {189}{}{[Více]}
 {190}{}{Stavìli jsme z materiálu, kterı jsme mìli po ruce a díky vìdcùm a technologiím, které by nám mohl závidìt celı svìt, budujeme novou civilizaci, ale ne takovou, jakou pøed námi vytvoøil ten šílenı Vùdce.}
-{191}{}{Aha. Mám další otázky.}
-{192}{}{Díky. Nashle.}
+{191}{}{Chápu. Mám další otázky.}
+{192}{}{Dík. Naskle.}
 {193}{}{Samozøejmì e ano. A ponìvad znáte Doc Hollidaye... udìlám to èistì z pøátelství. Øeknìte svému kamarádovi bez sleziny, a sem pøijde a já mu ji dám zpìt.}
 {194}{}{Díky! Mám další otázky.}
 {195}{}{Díky!}
@@ -87,10 +86,9 @@
 {200}{}{Díky. Mám další otázky.}
 {201}{}{Díky.}
 {202}{}{Nemohu pro nìj nic udìlat, dokud nedáte dohromady $1000. Mìjte se.}
-{203}{}{Nashle.}
+{203}{}{Hezkı den.}
 {204}{}{Neošetøuji nepøátele mıch lidí. Omlouvám se.}
 {205}{}{Velectìnı pane, doporuèuji vám najít vašeho kultovního léèitele.}
-
 {206}{}{Co mi mùete øíct o implantátech?}
 {207}{}{Publikoval jsem nìkolik èlánkù o implantátech. Jsou zapotøebí jen mé znalosti a vaše materiály. Jakı druh implantátu si pøejete?}
 {208}{}{Jaké druhy existují?}
@@ -124,6 +122,5 @@
 {236}{}{Dobøe.}
 {237}{}{Tady jste! Jste... vylepšen. Pamatujte... neškrábejte si strupy, pokud nechcete, aby vám na tìle zùstaly ohavné jizvy.}
 {238}{}{Díky, doktore. Sbohem.}
-
 {239}{}{Mám ty peníze na slezinu.}
 {240}{}{Opìt se zajímáte o implantáty?}

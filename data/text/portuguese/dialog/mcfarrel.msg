@@ -1,101 +1,71 @@
-{100}{}{You see an old man. He makes a prune look fresh.}
-{101}{}{You see Farrel.}
-{102}{}{You hear the sound of dry twigs cracking every time he moves.}
-{150}{}{Hey, get away from there!}
+{100}{}{Um idoso. Ele faz uma ameixa parecer lisa.}
+{101}{}{Farrel.}
+{102}{}{Você ouve o som de galhos secos se quebrando cada vez que ele se move.}
+{150}{}{Ei, saia daí!}
 {151}{}{Pare com isso!}
 {152}{}{Ladrão!}
-{153}{}{I didn't steal the watch, so stop coming over here and harassing poor old Farrel!}
-{154}{}{Cornelius says you stole his gold watch.}
-{155}{}{Where'd you get the money for the new tools?}
-{156}{}{What can you tell me about Modoc?}
-{157}{}{What do you do around here?}
-{158}{}{Watch? What are you talking about?}
-{159}{}{Now what!?}
-{162}{}{What are you hiding in the wall safe?}
-{165}{}{Can you take me to your garden?}
-{166}{}{I cleared out all the vermin from your garden.}
-{167}{}{You mentioned something about a watch earlier.}
-{168}{}{Is this the watch you were looking for?}
-{169}{}{All furries dead!}
-{170}{}{Gar -- din?}
-{171}{}{Not again! How many people is Cornelius going to send over to look for his watch? I didn't do
- it! In fact, I was probably the victim of the same thief. Around the same time his watch disappeared,
- some of my tools were stolen. I'm sure you don't believe me, so you might as well have a look
- around, otherwise you'll never go away. Well, go on!}
-{172}{}{I think I will have a look around.}
-{173}{}{Did Miria tell you that? I'll have to spank her bottom for spreading rumors again! Look, I may
- be poor, but I have my pride. I helped one of the traders fix his wagon, and in return he gave me some
- tools.}
-{174}{}{Admit it - you're guilty!}
-{175}{}{What proof do you have that what you say is true?}
-{176}{}{Do you expect me to believe that?}
-{177}{}{My honor alone is proof enough that my words are true. I can offer nothing more.}
-{178}{}{If you didn't take it, then who do you think took it?}
-{179}{}{I suspect a thief passing through town took the watch, and has since moved on. Although I can't
- for the life of me think of a reason he would want my old tools...}
-{180}{}{Do you expect me to believe that?}
-{181}{}{No, but since I know I didn't do it, that's the only theory I could come up with.}
-{182}{}{Can I ask you some more questions?}
-{183}{}{HA! If you think I'm so guilty, why don't you just shoot me and get it over with. You little
- punk, come and get me!}
+{153}{}{Eu não roubei o relógio, então pare de me incomodar! Estou muito velho pra isso!}
+{154}{}{Cornelius diz que você roubou o relógio dele.}
+{155}{}{Onde você conseguiu a grana pra comprar as ferramentas novas?}
+{156}{}{Me fale sobre Modoc.}
+{157}{}{O que você faz por aqui?}
+{158}{}{Relógio? Do que você ta falando??}
+{159}{}{E agora!?}
+{162}{}{O que você esconde no cofre da parede?}
+{165}{}{Pode me levar pro seu jardim?}
+{166}{}{Eu limpei seu jardim.}
+{167}{}{Você tinha falado sobre um relógio.}
+{168}{}{Esse é o relógio que você tá procurando?}
+{169}{}{Morte aos EMOs!}
+{170}{}{Jar – din?}
+{171}{}{De novo não! Quantas vezes o Cornelius irá mandar procurar o relógio? Eu não roubei! Na verdade, eu provavelmente fui vítima do mesmo ladrão. Coincidentemente, quando o relógio dele foi roubado, algumas ferramentas minhas sumiram. Eu sei que você não acredita em mim, então pode vasculhar, vocês não saem se olhar mesmo. Bem, va em frente!}
+{172}{}{Acho que vou dar uma olhada por aqui.}
+{173}{}{Miria te falou isso? Vou ter que dar uns bons tapas naquela bunda! Olhe, eu posso ser pobre, mas eu tenho meu orgulho. Eu ajudei um comerciante a consertar uma carroça, ele me pagou com umas ferramentas.}
+{174}{}{Admita - você é culpado!}
+{175}{}{Que provas você tem de que está falando a verdade?}
+{176}{}{Você espera que eu acredite nisso?}
+{177}{}{Minha única prova é a minha honra. Não posso oferecer mais nada.}
+{178}{}{Se você não pegou, então quem foi?}
+{179}{}{Suspeito que um ladrão passando pela cidade o fez, e depois partiu. Embora eu não consiga pensar no porque alguém iria querer minhas velhas ferramentas...}
+{180}{}{Você espera que eu acredite nisso?}
+{181}{}{Não, mas como eu sei que eu não peguei nada, essa é a única teoria que eu consegui formular.}
+{182}{}{Posso fazer mais algumas perguntas?}
+{183}{}{HA! Se você acha que eu sou tão culpado porque você não atira logo em mim e acaba de uma vez com isso? Seu verme, venha me pegar!
+{184}
 {184}{}{How did you find it? I hid that safe so nobody would be able to find it. You must be a
  professional thief. Hmm... where were you when the gold watch disappeared? I think you'd better leave,
  and nothing better be missing from the safe or I'll have Sheriff Jo on ya. Now get out!}
-{185}{}{Modoc is a small community of farmers and ranchers. We supply most of the food for the
- surrounding towns and cities by trading our crops for various essentials. It's actually a very nice
- arrangement. However, this could all change with the drought. We can barely keep ourselves fed, let
- alone have surplus to trade.}
-{187}{}{Well, mostly I putter around in the garden, trying to make those damn plants grow without
- water. I can't do that now because something big has moved in and I can't seem to get rid of it.
- And to top it all off, nobody will help me because they think I stole Cornelius's gold watch.}
-{188}{}{Well, mostly I putter around in the garden, trying to make those damn plants grow without
- water. But I can't do that now because something big has moved in and I can't seem to get rid of it.
- Without food from my garden, I'll surly starve.}
-{189}{}{I can help you, for a price.}
-{190}{}{I'll be happy to help.}
-{191}{}{Admit you stole the watch and I'll help.}
-{193}{}{Look around! I'm just a poor old man. I can barely afford to keep myself fed, let alone reward
- you.}
-{194}{}{I'll be glad to help you anyway.}
-{195}{}{Sorry, I can't help you then.}
-{196}{}{That would be wonderful. I can't thank you enough. My garden is little ways east of here. Come
- with me, I'll show you.}
-{197}{}{Thank you! You are truly a hero amongst heroes. Not many people would risk their lives for a
- total stranger. Thank you! Thank you! Thank you... [You get this warm fuzzy feeling all the way down to
- your toes.]}
-{198}{}{Can I ask you a few more questions?}
-{199}{}{I'd rather starve than tarnish my good name! Go to hell!}
-{200}{}{Everybody is accusing me of stealing my best friend Cornelius's gold pocket watch. Me and
- Cornelius have been friends as long as I can remember; I would never take his watch. I've searched
- everywhere hoping to find it so we can be friends again, but I've had no such luck.}
-{201}{}{I'll be around for awhile. If I come across it, I'll let you know.}
-{202}{}{That's really too bad. Can I ask you some more questions?}
-{203}{}{Would you really? Nobody will help me because they think I stole the watch. It would be nice to
- have somebody on my side, for once. I've already questioned everyone about it, but it won't hurt to ask
- everybody again. Maybe they'll tell you something they wouldn't tell me. It also won't hurt to poke yer
- nose around Rose's Bed and Breakfast; Cornelius is notorious for putting stuff down and forgetting
- where he put it a minute later.}
-{205}{}{Let me see that! Yes, this is it! You said a rat living down the sewage hole stole it? And you
- climbed down there and retrieved it? EWWW! I'm going to give this to Cornelius right now! Now we can be
- friends again. Thank you.}
-{206}{}{Ooga right back at ya. How would you like to do old Farrel a favor, my slope-foreheaded little
- friend? I have this little vermin problem in my garden. Make the little pests go away and I'll give
- you a reward.}
+{185}{}{Modoc é uma pequena comunidade de fazendeiros pecuaristas. Nós fornecemos a maior parte da comida pras cidades vizinhas pelo comércio da comida por vário outro produtos. É um esquema bom. Mas isso ta mudando com a seca. Não estamos conseguindo nos alimentar, quanto mais comercializar.}
+{187}{}{Bem, eu levo a vida cuidando do jardim, tentando fazer a porcaria das plantas crescerem sem água. Não consigo mais fazer isso porque algo grande se mudou pra lá, e eu não consigo me livrar. E ainda por cima ninguém quer me ajudar porque pensam que eu roubei o relógio de ouro de Cornelius.}
+{188}{}{Bem, eu levo a vida cuidando do jardim, tentando fazer a porcaria das plantas crescerem sem água. Não consigo mais fazer isso porque algo grande se mudou pra lá, e eu não consigo me livrar. Sem a comida do meu jardim, eu provavelmente vou morrer de fome.}
+{189}{}{Posso te ajudar, por um preço.}
+{190}{}{Fico feliz em ajudar.}
+{191}{}{Admita que você roubou o relógio que eu te ajudo.}
+{193}{}{Olhe em volta! Sou só um velho pobre. Mal posso me alimentar, quanto mais te dar uma recompensa.}
+{194}{}{De qualquer jeito, fico feliz em ajudar.}
+{195}{}{Sendo assim, não poso ajudar, desculpe.}
+{196}{}{Isso seria maravilhoso. Não tenho palavras pra te agradecer. Meu jardim fica a leste. Venha, eu te mostro.}
+{197}{}{Obrigado! Você é realmente um herói. Ninguém arriscaria a vida por um estranho. Obrigado! Obrigado! Obrigado… [Você sente um energia vibrante até o dedão do pé.]}
+{198}{}{Posso lhe fazer mais algumas perguntas?}
+{199}{}{Prefiro passar fome do que manchar meu nome! Vá pro inferno!}
+{200}{}{Todo mundo tá me acusando de roubar o relógio de bolso de ouro do meu melhor amigo, Cornelius. Eu e Cornelius somos amigos desde que me entendo por gente; eu nunca roubaria o relógio. Eu já procurei em todo lugar na esperança de encontrá-lo para que possamos ser amigos novamente, mas não tive sorte.}
+{201}{}{Vou ficar aqui por um tempo. Te aviso se achar.}
+{202}{}{Isso é péssimo. Poso te perguntar outra coisa?}
+{203}{}{Sério? Ninguém me ajuda porque pensam que eu roubei o relógio. Seria bom ter alguém do meu lado, pelo menos uma vez. Já perguntei a todo mundo, mas não custa perguntar novamente. Talvez eles digam a você alguma coisa que não tenham me dito. Também não tiraria pedaço se você desse uma olhada no Café da Manhã da Rose; Cornelius é famoso por esquecer as coisas.}
+{205}{}{Deixe eu ver isso! Sim, é esse! Você disse que um rato que vive no esgoto roubou? Você desceu e pegou? Aeeeee! Eu vou dar isso pro Cornelis agora mesmo! Agora podemos ser amigos de novo. Muito obrigado.}
+{206}{}{Uga prá você também. Você gostaria de fazer um favor ao velho Farrel meu amigo cabeça-de-bagre? Eu tenho um probleminha com uns vermes em meu jardim. Faça as pestes irem embora que eu lhe dou uma recompensa.}
 {207}{}{No, no, no... me no do.}
-{208}{}{Yep. I do.}
-{209}{}{Bye bye!}
-{210}{}{Then get out, you dimwitted cave dweller!}
-{211}{}{So good of you, my dear fellow. [He takes your hand and walks you to the garden.] Wouldn't want
- you to get lost. Come back and see me when you finish killing the pests.}
-{212}{}{My dear, sweet, woman. You're so kind to an old man. [He takes your hand and walks you to the
- garden.] Wouldn't want you to get lost. Come back and see me when you finish killing the pests.}
-{213}{}{Fantastic! And here is your reward. [He digs in his pants and produces a half eaten cookie.] Now
- be a good little caveman and take your cookie outside and play.}
-{300}{}{I'm gonna kill that bastard.}
-{301}{}{I hate him...}
+{208}{}{Sim. Eu fazer.}
+{209}{}{Tchau tchau!}
+{210}{}{Então vá embora, homem das cavernas burro!}
+{211}{}{É muita bondade sua meu amigo. [Ele pega você pela mão e o leva até o jardim.] Não quero que você se perca. Volte quando terminar de matar a praga.}
+{212}{}{Minha querida, doce moça. Você é muito boa com este velho. [Ele pega você pela mão e a leva até o jardim.] Não quero que você se perca. Volte quando terminar de matar a praga.}
+{213}{}{Fantástico! E aqui está sua recompensa. [Ele mete a mão no bolso e tira um biscoito comido pela metade.] Agora seja um bom homenzinho das cavernas, pegue seu biscoitinho e vá brincar lá fora.}
+{300}{}{Vou mata aquele desgraçado.}
+{301}{}{Eu odeio ele...}
 {302}{}{Grrr...}
-{501}{}{I didn't steal yer stupid watch!}
-{502}{}{I'm innocent, I tell ya!}
-{503}{}{You couldn't hit the broadside of a barn!}
-{550}{}{He's not paying attention to what you're saying.}
-{600}{}{You have peacefully solved the feud between Farrel and Cornelius.}
+{501}{}{Eu não roubei porra de relógio nenhum!}
+{502}{}{Sou inocente, to dizendo!}
+{503}{}{Você não acerta nem um celeiro!}
+{550}{}{Ele não está prestando atenção no que você está dizendo.}
+{600}{}{Você resolveu o problema entre Farrel e Cornelius pacificamente.}

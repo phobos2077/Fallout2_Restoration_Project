@@ -1,7 +1,7 @@
 {100}{}{You see a strong Tribal warrior.}
 {101}{}{This tribal looks very strong, but not very bright.}
 {200}{}{Halt! Wut you want?}
-{201}{}{What are you doing here?}
+{201}{}{O que faz aqui?}
 {202}{}{Me guard cave for tribe. Me make sure no bad men sneak up on us.}
 {203}{}{I see. Could I look around the cave?}
 {204}{}{No. Me no allowed to let strangers in cave. Head warrior told so.}

@@ -20,7 +20,7 @@
 {231}{}{Me want... me no know what I want}
 {232}{}{Me want}
 {233}{}{Eu}
-{234}{}{[Wander off.]}
+{234}{}{Sair andando}
 {235}{}{I have information for you.}
 {236}{}{I have information for you, Mr. Salvatore.}
 {237}{}{I'm looking for a job.}
@@ -37,7 +37,7 @@
  nothing... that I need to know, }
 {271}{}{Um, I don't recall introducing myself. How do you know my name?}
 {272}{}{Uh, okay. Well then, I'm looking for a job.}
-{276}{}{Actually, I seem to have entered the wrong room. Pardon me.}
+{276}{}{Na verdade, acho que entrei no quarto errado. Perdão.}
 {290}{}{(Looks at you silently for a minute. He might be either amused at your question
  or irritated... it's hard to tell.) Again, }
 {291}{}{Uh... hmmm. Well, uh, I'm looking for a job.}
@@ -48,7 +48,7 @@
 {307}{}{Whoa. Did I say I was looking for work? I meant to say I was leaving.}
 {315}{}{(Takes a breath from the oxygen mask, then gives a slight smile.) Of... course. But
  I require a... token of your good faith. A sample of your... willingness to work for me.}
-{316}{}{What do you want me to do?}
+{316}{}{O que você quer que eu faça?}
 {317}{}{What would you have me do, Mr. Salvatore?}
 {325}{}{(Shakes his head slightly.) Your naiveté has... no place here. Words are not
  sufficient: You wish to work for Louis Salvatore? Then I must know how much I can rely on you.}

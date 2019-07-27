@@ -8,7 +8,7 @@
 {107}{}{Blbý po-ší-ta-še.}
 {108}{}{Podaøilo se ti pøihlásit do lékaøské databáze Vault City. Aèkoliv není uživatelské rozhraní pøíliš srozumitelné, samotná databáze se zdá být rozdìlena do sérií archívù.}
 {109}{}{Prohledat archívy: umístìní Vaultù.}
-{110}{}{Prohledat archívy: jakákoliv zmínka o GECKu.}
+{110}{}{Hledat jakoukoliv zmínku o GECKu ve všech archívech.}
 {111}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
 {112}{}{Odhlásit se z terminálu.}
 {113}{}{Nenacházíš v databázi žádné informace o Vaultech. Vìtšina archívù obsahuje lékaøské informace týkající se anatomie, známých nemocí, ošetøení, lékù a implantátù.}
@@ -33,7 +33,7 @@
 {132}{}{Nech už toho.}
 {133}{}{Proè si radìji nejdeš hrát se zdravotní sestrou?}
 {134}{}{Už tu nic není!}
-{135}{}{Prohledáváš archívy a nic nenacházíš.}
+{135}{}{Opìt prohledáváš archívy a nic nenacházíš.}
 {136}{}{Prohledal jsi tento terminál 53 krát. Nenašel jsi nic zajímavého.}
 {137}{}{Musel jsi to zkusit ještì jednou, že jo? Ach jo.}
 {138}{}{Tak dobøe, podívej. Tady máš jedno tajemství. Až dokonèíš hru, tak urèitì prozkoumej hlavní poèítaè ve tøetím patøe. Teï se odhlas z terminálu a jdi si hrát ven.}
@@ -47,19 +47,19 @@
 {146}{}{Schémata popisují detaily o implantaci speciálních termálních a protinárazových plátù na lidskou kostru, garantující vyšší odolnost jedince proti fyzickému poškození a teplu. Zdá se to být docela komplikovaný proces.}
 {147}{}{Poznamenat si informace a pokraèovat v prohledávání databáze.}
 {148}{}{Zapsat informace a odhlásit se z terminálu.}
-{149}{}{Jsi zpìt v hlavním menu. Seznam archívù a vyhledávacích programù je vypsán na obrazovce terminálu.}
-{150}{}{Prohledat: jakákoliv zmínka o Vaultu 13.}
-{151}{}{Prohledat: jakýkoliv odkaz na GECK.}
+{149}{}{Jsi zpìt v hlavním menu. Na obrazovce terminálu jsou vypsány øady archívù a vyhledávacích programù.}
+{150}{}{Hledat jakoukoliv zmínku o Vaultu 13 ve všech archívech.}
+{151}{}{Hledat cokoliv o GECKu ve všech archívech.}
 {152}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
 {153}{}{Odhlásit se z terminálu.}
 {200}{}{Dokonèil jsi studium lékaøské databáze Vault City.}
 {201}{}{Tvùj pøítel se tì sice snaží obeznámit s tou barevnou krabicí, která dìlá PÍÍP PÍÍP, ale nemáš tušení, jak ji otevøít, takže tì to nakonec pøestane bavit a vzdáš to.}
 {202}{}{Odbelhat se.}
-{203}{}{*Pííííp*}
+{203}{}{*Píp*}
 {204}{}{*Píííp-Píísk*}
 {205}{}{*Týýýýt-Pííp*}
-{206}{}{*Pííp-*Písk}
-{207}{}{*Pííp*}
+{206}{}{*Pí... Oop*}
+{207}{}{*Píp*}
 {208}{}{Pink!}
 {209}{}{Je mi líto, Dave. To nemùžu udìlat.}
 {210}{}{Nebezpeèí! Will Robinson!}

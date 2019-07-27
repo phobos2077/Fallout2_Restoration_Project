@@ -1,9 +1,8 @@
-{100}{}{Vidíš nìkoho, kdo by mohl bıt lovec koešin.}
+{100}{}{Vidíš nìkoho, kdo vypadá jako lovec koešin.}
 {101}{}{Vidíš nìkoho, kdo relaxuje.}
-{102}{}{Vidíš místního štamgasta.}
+{102}{}{Vidíš místního obyvatele.}
 {103}{}{Vidíš pracujícího, kterı odpoèívá.}
 {104}{}{Vidíš osobu vychutnávající si svùj nápoj.}
-
 {150}{}{Jseš ve špatnı krèmì, víš o tom?}
 {151}{}{Nepotøebujem tady nìkoho, kdo dìlá potíe.}
 {152}{}{Divoši vdycky znamenaj potíe.}
@@ -29,7 +28,6 @@
 {172}{}{Dej si pozor, a tì nedostane kráèející duch!}
 {173}{}{A tì ani nenapadne krást naše brahmíny.}
 {174}{}{Dáme si na tebe pozor.}
-
 {201}{}{Je fajn vidìt tu novou tváø.}
 {202}{}{Myslím, e ti divoši nejsou a tak špatní.}
 {203}{}{Kup nám rundu pití!}

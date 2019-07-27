@@ -1,20 +1,20 @@
-{1}{}{You gained %d %s.}
-{2}{}{You lost %d %s.}
-{3}{}{You feel better.}
-{4}{}{You suffer a fatal heart attack from chem overdose.}
-{5}{}{%s has no charges left.}
-{6}{}{%s is on.}
-{7}{}{%s is off.}
-{8}{}{You pass the Geiger counter over your body. The rem counter reads: %d}
-{9}{}{This item can only be used from the interface bar.}
-{10}{}{Nothing happens.}
-{50}{}{That didn't seem to do that much.}
-{500}{}{There is not enough light to recharge this item.}
-{600}{}{%s succumbs to the adverse effects of chems.}
-{800}{}{Light}
-{801}{}{Medium}
-{802}{}{Heavy}
-{803}{}{Extreme}
-{820}{}{Short}
-{821}{}{Medium}
-{822}{}{Long}
+{1}{}{Você ganhou %d %s.}
+{2}{}{Você perdeu %d %s.}
+{3}{}{Você se sente melhor.}
+{4}{}{Você sofre um ataque cardíaco fatal devido a uma overdose.}
+{5}{}{%s não tem cargas.}
+{6}{}{%s esta ligado.}
+{7}{}{%s esta desligado.}
+{8}{}{Você passa o contador Geiger sobre o seu corpo. O contador marca: %d}
+{9}{}{Este item só pode ser usado a partir da barra de interface.}
+{10}{}{Nada acontece.}
+{50}{}{Isso não faz nada.}
+{500}{}{Não há luz suficiente para recarregar este item.}
+{600}{}{%s sucumbe aos efeitos adversos da droga.}
+{800}{}{Luz}
+{801}{}{Médio}
+{802}{}{Pesado}
+{803}{}{Extremo}
+{820}{}{Curto}
+{821}{}{Médio}
+{822}{}{Longo}

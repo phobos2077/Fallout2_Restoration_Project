@@ -4,10 +4,10 @@
 {103}{}{Tenhle chlap nevykazuje ádné emoce. Pokud si tì všiml, není to na nìm vidìt.}
 {104}{}{Co takhle nìco k pití, hrdino?}
 {105}{}{Vítej, hrdino. Prosím, posaï se na baru.}
-{106}{}{Prosím! Posaï se a na chvíli si odpoèiò!}
+{106}{}{Prosím! Posaï se a odpoèiò si!}
 {107}{}{Dobrı den, Kapitáne.}
 {108}{}{Vault City vdy zvítìzí, Kapitáne.}
-{109}{}{Dobrı den, Obèane.}
+{109}{}{Zdravíèko, Obèane.}
 {110}{}{Vault City vdy zvítìzí, Obèane.}
 {111}{}{Mutant! Stráe! Stráe!}
 {112}{}{Ghoul! Stráe! Stráe!}
@@ -17,18 +17,18 @@
 {116}{}{Vítej! Všichni jsme tady slyšeli o tvıch hrdinskıch èinech proti Enklávì. Mùu ti nabídnout nìco k pití?}
 {117}{}{Ehmm-ehmm}
 {118}{}{Odbelhat se.}
-{119}{}{Co tady èepujete?}
+{119}{}{Co se dneska èepuje?}
 {120}{}{Sháním nìjaké informace.}
 {121}{}{Dnes nic, díky.}
 {122}{}{Hehe, "ehmm-ehmm" vám taky. Prosím, dávejte na sebe v pustinì pozor.}
 {123}{}{Tù-tùùùù!}
 {124}{}{Odbelhat se.}
 {125}{}{Co pro vás mùu udìlat, Kapitáne?}
-{126}{}{Co pro vás mùu udìlat, Obèane?}
-{127}{}{Ano? Mùu vám nìjak pomoct?}
+{126}{}{Co pro tebe mùu udìlat, Obèane?}
+{127}{}{Ano? Mohu vám pomoci?}
 {128}{}{Ehmm-ehmm}
 {129}{}{Odbelhat se.}
-{130}{}{Co tady èepujete?}
+{130}{}{Co se dneska èepuje?}
 {131}{}{Sháním nìjaké informace.}
 {132}{}{Dnes nic, díky.}
 {133}{}{Ano, "ehmm-ehmm" vám taky. Poèkejte chvíli, ne zavolám stráe, aby vás "ehmm-ehmm" k pøední bránì.}
@@ -38,8 +38,8 @@
 {137}{}{Máme minerálku, destilovanou vodu a vodu s bublinkama. Taky máme nìkolik druhù syntetického alkoholu.}
 {138}{}{Eh... jaké druhy syntetického alkoholu máte?}
 {139}{}{Eh, máte nìjaké opravdové pití?}
-{140}{}{Dám si trochu vody.}
-{141}{}{Zapomeòte na to. Sháním nìjaké informace.}
+{140}{}{Voda by byla vıborná.}
+{141}{}{Sháním nìjaké informace.}
 {142}{}{Dnes nic, díky.}
 {143}{}{Velmi dobøe, pane.}
 {144}{}{Velmi dobøe, paní.}
@@ -48,11 +48,11 @@
 {147}{}{Zkusím trochu destilky.}
 {148}{}{Nalijte mi trochu té s bublinkama.}
 {149}{}{Jaké druhy syntetického alkoholu máte?}
-{150}{}{Zapomeòte na to. Sháním nìjaké informace.}
+{150}{}{Sháním nìjaké informace.}
 {151}{}{To je na mì trochu moc. Vrátím se, a budu mít víc penìz.}
-{152}{}{Myslím, e si nic nedám. Díky.}
+{152}{}{Myslím, e nic. Díky.}
 {153}{}{Máme syntetické deriváty H a T a právì teï jsme uvaøili velmi populární smìs, "Alkohol-Z," kterı má bohatou mikro-pivní chu. Cena je rozumná, jen dvacet dolarù za korbel.}
-{154}{}{Jak tenhle syntetickı alkohol vyrábíte?}
+{154}{}{Jak tyhle syntetické alkoholy vyrábíte?}
 {155}{}{Eh, máte nìjaké opravdové pití?}
 {156}{}{Dám si jenom trochu vody.}
 {157}{}{Hmmm. Zkusím trochu toho lahodného Alkoholu-Z.}
@@ -73,18 +73,18 @@
 {172}{}{Dám si trochu toho lahodného Alkoholu-Z.}
 {173}{}{Jak tyhle syntetické alkoholy vyrábíte?}
 {174}{}{Vlastnì sháním nìjaké informace.}
-{175}{}{To bude pro dnešek všechno, díky.}
+{175}{}{Dnes u nic, díky.}
 {176}{}{Auto-Dok ve Vault City je schopen destilovat syntetické náhrady za návykové látky. Tyto látky byly pøed válkou pouívány jako placeba pro drogovì závislé.}
 {177}{}{Zdá se, e o tìch syntetikách hodnì víte.}
 {178}{}{Eh, máte nìjaké opravdové pití?}
 {179}{}{Aha. Dobøe, tak si dám jen trochu vody.}
 {180}{}{Hmmm. Zkusím trochu toho Alkoholu-Z.}
-{181}{}{Zajímavé. Poslyšte, sháním nìjaké informace...}
-{182}{}{Aha. Díky za info. Sbohem.}
+{181}{}{Zajímavé. Poslyšte, sháním ještì nìjaké informace...}
+{182}{}{Aha. Díky za informace. Sbohem.}
 {183}{}{Pomáhal jsem nìkolik mìsícù Dr. Troyovi, ne mì sem pøidìlili. Vyadoval ode mì, abych se sblíil s lékaøskou databází Vault City.}
 {184}{}{"Sblíil?" On vás mùe o nìco takového legálnì poádat?}
 {185}{}{S lékaøskou databází?}
-{186}{}{Zajímavé. Sháním nìjaké informace...}
+{186}{}{Zajímavé. Poslyšte, sháním ještì nìjaké informace...}
 {187}{}{Aha. Díky za informace. Sbohem.}
 {188}{}{Eh..."sblíit" znamená, e v tom získáte praxi.}
 {189}{}{Hmm. No dobøe, kdy to rád nazıváte tímhle zpùsobem... co jste to øíkal o té lékaøské databázi?}
@@ -107,24 +107,24 @@
 {206}{}{V tom pøípadì radìji navštivte naše informaèní centrum namísto tohohle podniku. Je to v centru. A teï u bìte... mám další zákazníky.}
 {207}{}{Poèkejte, dám si nìco k pití. Co tady toèíte?}
 {208}{}{Ne, nejdøív mi øeknìte, co chci vìdìt. A odpustíte si pøitom ten tón, jestli nechcete pøijít k úrazu.}
-{209}{}{Tak dobøe. Hezkı den.}
+{209}{}{Tak dobøe. Pøeju hezkı den.}
 {210}{}{Samozøejmì. Co chcete vìdìt, pane?}
 {211}{}{Samozøejmì. Co chcete vìdìt, madam?}
 {212}{}{Samozøejmì. Co chcete vìdìt, Kapitáne?}
 {213}{}{Samozøejmì. Co chcete vìdìt, Obèane?}
 {214}{}{Mùete mi øíct, kdo je ve Vault City vùdcem?}
 {215}{}{Mùete mi øíct nìco o zdejším otroctví?}
-{216}{}{Zapomeòte na to, chci nìco k pití. Co tady toèíte?}
+{216}{}{Dám si nìco k pití. Co tady toèíte?}
 {217}{}{Dnes nic, díky.}
 {218}{}{No, První Obèanka Lynette, samozøejmì. Je První Obèankou ji témìø dvì období. Stále se sice zodpovídá mìstské radì, ale je zodpovìdná za vìtšinu legislativních rozhodnutí ve Vault City.}
 {219}{}{Mìstské radì?}
 {220}{}{Mùete mi øíct nìco o zdejším otroctví?}
-{221}{}{Zapomeòte na to, chci nìco k pití. Co tady toèíte?}
+{221}{}{Dám si nìco k pití. Co tady toèíte?}
 {222}{}{Zajímavé. Díky za informace. Sbohem.}
 {223}{}{Ano, je tu taky mìstská rada Vault City. Její mluvèí je radní McClure. (Nakloní se k tobì.) Nemá se s První Obèankou moc v lásce.}
 {224}{}{Opravdu...?}
 {225}{}{Mùete mi øíct nìco o zdejším otroctví?}
-{226}{}{Zapomeòte na to, chci nìco k pití. Co tady toèíte?}
+{226}{}{Dám si nìco k pití. Co tady toèíte?}
 {227}{}{Zajímavé. Díky za informace. Sbohem.}
 {228}{}{Ano. Nìkolik obèanù nedávno písemnì poádalo McClura a mìstskou radu, aby pøehlasovali nìkterá rozhodnutí První Obèanky. Byla z toho slušná hádka, to vám teda øeknu.}
 {229}{}{Hmmm. Chci se ještì na nìco zeptat...}

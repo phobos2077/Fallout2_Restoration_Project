@@ -5,7 +5,6 @@
 {104}{}{Vidíš ženu, která si tì prohlíží.}
 {105}{}{Tahle žena tì doslova svléká pohledem.}
 {106}{}{Vidíš mladou ženu.}
-
 {110}{}{To bylo rychlý.}
 {111}{}{Kdypak to bylo naposledy, zlatíèko?}
 {112}{}{Snad to bude pøíštì delší.}
@@ -14,7 +13,6 @@
 {115}{}{Kdyby byli všichni mí zákazníci tak rychlí, mohla bych jít døív domù.}
 {116}{}{Je to vìtší zábava, když poèkáš, až ti s tím pomùžu.}
 {117}{}{Kdybys poèkal, až se svléknu, urèitì by se ti to líbilo víc.}
-
 {120}{}{To bylo opravdu pìkné. Jsi opravdový chlap.}
 {121}{}{To bylo skvìlé. Jsi úžasný. Další!}
 {122}{}{Jo, zlatíèko, ještì nikdy jsem nic lepšího nezažila. (zív)}
@@ -23,21 +21,18 @@
 {125}{}{Ne zlato, na velikosti nezáleží. Bylo to hezké.}
 {126}{}{Nejsi jenom - hup na to a je to.}
 {127}{}{Hezkej malej šikula, co ho tam máš schovanýho...}
-
 {130}{}{Velikost je dùležitá! Ach ty záhady života... }
 {131}{}{Až pøijdeš pøíštì, udìlám si pøesèas.}
 {132}{}{Jistì sis za svý peníze užil.}
 {133}{}{Na zbytek dne si budu muset vzít volno.}
 {134}{}{Páni! Taky se s tebou otøásla zem?}
 {135}{}{Teï už vím, jak se cítila Kateøina Veliká.}
-
 {140}{}{No, prachy jsou prachy.}
 {141}{}{Tohle bylo, hmm, jiné, øekla bych.}
 {142}{}{Tohle bylo fakt super. Další!}
 {143}{}{Ne, nemùžeš používat mùj parfém.}
 {144}{}{No, aspoò je tvùj knírek menší, než má vìtšina mých zákazníkù.}
 {145}{}{Jseš si jistá, že jsi holka?}
-
 {150}{}{To bylo velmi nìžné.}
 {151}{}{To bylo nezvyklé, ale rozhodnì ne špatné.}
 {152}{}{Myslím, že bych si to ráda nìkdy opìt vyzkoušela.}
@@ -45,7 +40,6 @@
 {154}{}{To bylo parádní, zlato.}
 {155}{}{Fíha! Od teï bude mùj život úplnì jiný.}
 {156}{}{Nevìdìla jsem, že to mùže být i pøíjemné.}
-
 {160}{}{Jdi si promluvit s Nosatou Sally.}
 {161}{}{Vypadáš roztomile.}
 {162}{}{Hroznì tì miluju!}

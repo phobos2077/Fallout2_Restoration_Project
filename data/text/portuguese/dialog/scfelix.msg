@@ -2,7 +2,7 @@
 {101}{}{It's Felix, the ranch foreman.}
 {102}{}{He looks like a cooler, tougher customer than the rest of the lot hanging around here.}
 {103}{}{What can I do for you, stranger?}
-{104}{}{You again?}
+{104}{}{Você novamente?}
 {105}{}{Nyeh.}
 {106}{}{The sheriff told me to come by - said Mr. Westin might have a job for me.}
 {107}{}{I'm here to see the boss.}

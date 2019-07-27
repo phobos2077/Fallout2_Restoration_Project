@@ -1,360 +1,359 @@
-{100}{}{You see a middle-aged man in a white lab coat. He looks preoccupied.}
-{101}{}{You see Dr. Troy.}
-{102}{}{You see a middle-aged man in a white lab coat. He looks preoccupied.}
-{103}{}{Let's see... we have three inoculation shots scheduled for tomorrow morning.}
-{104}{}{I swear Gregory's a hypochondriac...}
-{105}{}{Still need to give those new Servants their physicals.}
-{106}{}{Phyllis, could you bring me the Proconsul's blood test, please?}
-{107}{}{Odd... these results aren't consistent with low platelet levels.}
-{108}{}{Maybe we can clone that spleen from those cells taken this afternoon.}
-{109}{}{Need to introduce more vitamins into the dietary supplements...}
+{100}{}{Você vê um homem de meia-idade em um jaleco branco de laboratório. Ele parece preocupado.}
+{101}{}{Você vê o Dr. Troy.}
+{102}{}{Você vê um homem de meia-idade em um jaleco branco de laboratório. Ele parece preocupado.}
+{103}{}{Vejamos... nós temos três vacinações marcadas para amanhã de manhã.}
+{104}{}{Eu juro que o Gregory é um hipocondríaco...}
+{105}{}{Ainda tenho que fazer o exame físico dos novos Servos.}
+{106}{}{Phyllis, você poderia me trazer o exame de sangue do Proconsul, por favor?}
+{107}{}{Estranho... esses resultados não estão coerentes com a baixa quantidade de plaquetas.}
+{108}{}{Talvez nós possamos clonar o baço a partir das células que retiramos essa tarde.}
+{109}{}{Temos que introduzir mais vitaminas nos suplementos dietéticos...}
 {110}{}{Hmmmmm.}
-{111}{}{Phyllis, could you bring me a hardcopy of Helen's file please?}
-{112}{}{To think I could have taken that job with LoveLine...}
-{113}{}{Getting tired of making these lists for the First Citizen...}
-{114}{}{Another request for a list of medical supplies? I just submitted one yesterday!}
-{115}{}{A mutant! Guards!}
-{116}{}{A ghoul! Guards!}
-{117}{}{Hello, I'm Dr. Troy. How may I be of assistance?}
-{118}{}{Me got ouchie}
+{111}{}{Phyllis, você poderia me trazer uma cópia do arquivo da Helen, por favor?}
+{112}{}{E pensar que eu poderia ter tomado esse trabalho com LoveLine ...}
+{113}{}{Estou ficando cansado de fazer todas essas listas pra First Citizen...}
+{114}{}{Outro pedido pra uma lista de medicamentos? Eu já enviei uma ontem!}
+{115}{}{Um mutante! Guardas!}
+{116}{}{Um ghoul! Guardas!}
+{117}{}{Olá, eu sou o Dr. Troy. Em que posso ajudar?}
+{118}{}{Mim com dodói.}
 {119}{}{Ass-is-tense?}
 {120}{}{(Desliga)}
-{121}{}{I'm looking for the main computer. Can you tell me where it is?}
-{122}{}{What is it you do here?}
-{123}{}{Just passing through, thanks.}
-{124}{}{You are? It's a pleasure to meet you. If you have the time, perhaps we could compare notes? It
- is not often that I get the chance to speak to another physician.}
-{125}{}{Absolutely. I'd love to learn some of the medical techniques you Citizens use.}
-{126}{}{Not right now. I had some other questions...}
-{127}{}{Maybe later. I have to be going.}
-{128}{}{Excellent! Well, first, let me take you on a tour. Over here, we have the monitoring systems...}
+{121}{}{Estou procurando pelo computador central. Você sabe me dizer onde é?}
+{122}{}{O que você faz aqui?}
+{123}{}{Só estou de passagem. Até logo.}
+{124}{}{Você é? Muito prazer. Se você tiver algum tempo, talvez possamos comparar algumas anotações. Não
+ é sempre que tenho a oportunidade de conversar com outro médico.}
+{125}{}{Certamente. Eu adoraria aprender algumas técnicas que vocês Citizens usam.}
+{126}{}{Não agora. Eu tenho outras perguntas...}
+{127}{}{Talvez mais tarde. Eu tenho que ir.}
+{128}{}{Excelente! Bem, antes de mais nada, deixe-me te levar para um "tour". Bem aqui, nós temos os sistemas de monitoramento...}
 {129}{}{}
-{130}{}{... and that is how we can clone cells to make replacement limbs. We have to be careful that the
- tissue cultures don't get contaminated, but... in any event, I think I've talked enough... hope it was
- informative.}
-{131}{}{It certainly was. I had some other questions I wanted to ask you...}
-{132}{}{Thanks for the tour, Doctor Troy. It's been very educational.}
-{133}{}{The main computer? It's down on the third level. Just take the elevator down, walk straight
- until you hit the T-intersection, then make the first left. That'll take you right to the control room.}
-{134}{}{What is it you do here?}
+{130}{}{... e é assim que nós conseguimos clonar células para fazer reposição de membros. Temos que ser cuidadosos para que as
+ culturas de tecido não sejam contaminas, mas... de qualquer forma, acho que já falei demais... espero que tenha sido
+ informativo.}
+{131}{}{Certamente que foi. Eu tenho outras perguntas que gostaria de fazer...}
+{132}{}{Obrigador pelo "tour", Doutor Troy. Foi muito educativo.}
+{133}{}{O computador central? Fica no terceiro piso abaixo. Apenas pegue o elevador, siga em frente
+ até chegar em uma interseção em T, então vire à esquerda. Ela irá te levar direto para a sala de controle.}
+{134}{}{O que você faz aqui?}
 {135}{}{Obrigado.}
-{136}{}{I am Vault City's primary physician. I take care of all the Citizens within Vault City and do my
- best to keep everyone healthy.}
-{137}{}{I'm looking for the main computer. Can you tell me where it is?}
-{138}{}{I see. Maybe we'll talk later, then.}
+{136}{}{Eu sou o médico principal de Vault City. Eu tomo conta de todos os Citizens dentro de Vault City e faço
+ o melhor de mim para que todos fiquem saudáveis.}
+{137}{}{Estou procurando pelo computador central. Você sabe me dizer onde é?}
+{138}{}{Entendo. Talvez nos falemos mais tarde, então.}
 {139}{}{Hold on a moment... I don't recall seeing you around before. Are you a Citizen?}
-{140}{}{Yes. I just got my Citizenship papers only recently.}
-{141}{}{Actually, I'm }
-{142}{}{. I am the Captain of the Guard.}
-{143}{}{Uh... sure. Sure I am.}
-{144}{}{No, I'm not.}
-{145}{}{A pleasure to meet you, }
-{146}{}{. If you are ever in need of my services, you can find me here.}
+{140}{}{Sim. Eu acabei de conseguir minha cidadania.}
+{141}{}{Na verdade, eu sou }
+{142}{}{. Eu sou o Captão da Guarda.}
+{143}{}{Hã... claro. Claro que sou.}
+{144}{}{Não, não sou.}
+{145}{}{Muito prazer, }
+{146}{}{. Se precisar dos meus serviços, pode me encontrar aqui.}
 {147}{}{Obrigado. Adeus.}
-{148}{}{You're not a Vault City native, though, am I right? I'm certain I would remember someone like
- you. Where are you from?}
-{149}{}{Hold on a moment... you're an Outsider, correct? Where are you from?}
-{150}{}{From a small village to the west, Arroyo.}
-{151}{}{Why do you want to know?}
-{152}{}{None of your business, "doctor." Can I go now, or do you have more questions for me?}
-{153}{}{I don't like to discuss my past.}
-{154}{}{Arroyo? I don't believe I've heard of it. I'm sorry to pry. I was just looking for someone who
- had traveled beyond the walls of Vault City... most Citizens here have never left the City.}
-{155}{}{Looking for someone? Why?}
-{156}{}{That's *fascinating.* What's that got to do with me?}
-{157}{}{I'm sorry to pry. I was just looking for someone who had traveled beyond the walls of Vault
- City... most Citizens here have never left the City.}
-{158}{}{Looking for someone? Why?}
-{159}{}{That's *fascinating.* What's that got to do with me?}
-{160}{}{You must have gotten turned around in the city streets... head back to the corridor you entered
- from, then make a right. That'll take you back to the surface, all right?}
-{161}{}{Thanks for the directions... sometimes I get so turned around, you know? I'll just head back up
- to the surface right now.}
-{162}{}{I don't think I'm ready to go right now, "doctor." First, I'd like to see what you've got in
- stock.}
-{163}{}{I've been looking for someone who might be able to perform a special errand for me.}
+{148}{}{Você não nasceu em Vault City, estou certo? Tenho certeza que eu lembraria de alguém como
+ você. De onde você é?}
+{149}{}{Espere um momento... você é de fora, não é? De onde você é?}
+{150}{}{De uma pequena vila ao oeste, Arroyo.}
+{151}{}{Por que você quer saber?}
+{152}{}{Não é da sua conta, doutor. Posso ir agora, ou você tem mais perguntas pra mim?}
+{153}{}{Eu não gosto de discutir meu passado.}
+{154}{}{Arroyo? Acho que nunca ouvi falar. Deculpe pela intromissão. Estava apenas procurando por alguém
+ que viajou para além dos muros de Vault City... a maioria dos Citizens nunca deixaram a cidade.}
+{155}{}{Procurando por alguém? Por quê?}
+{156}{}{Isso é *fascinante*. O que isso tem a ver comigo?}
+{157}{}{Desculpe a intromissão. Estava apenas procurando alguém que já tenha viajado para além dos muros de Vault
+ City... a maioria do Citizens nunca deixaram a cidade.}
+{158}{}{Procurando por alguém? Por quê?}
+{159}{}{Isso é *fascinante*. O que isso tem a ver comigo?}
+{160}{}{Você deve ter se perdido nas ruas da cidade... volte para o corredor de onde veio,
+ então vire à direita e chegará na superfície, tudo bem?}
+{161}{}{Agradeço as direções... às vezes eu me perco por aí, você sabe... Vou voltar para
+ a superfície agora.}
+{162}{}{Eu não acho que estou pronto pra ir agora, "doutor". Primeiro, eu gostaria de ver o que você tem
+ no estoque.}
+{163}{}{Estou procurando por alguém que possa fazer uma missão especial pra mim.}
 {164}{}{O que é?}
-{165}{}{Not interested, thanks.}
-{166}{}{Excellent! I'm glad you've reconsidered.}
-{167}{}{It has come to my attention that there is a new drug in the wastes. It's called "Jet," I
- believe. I'm willing to pay a thousand dollars for a sample of this drug.}
-{168}{}{Jet? I have a sample right here.}
-{169}{}{I happen to have some Jet on me. It's yours for twelve hundred.}
-{170}{}{I have some Jet on me... I'll part with it for fifteen hundred.}
-{171}{}{So... you want me to smuggle some Jet into Vault City for you?}
-{172}{}{What do you want me to do?}
-{173}{}{Not interested, thanks.}
-{174}{}{I'm sorry to hear that. Return if you change your mind... I'll gladly reimburse you for your
- trouble.}
-{175}{}{I had some other questions for you...}
-{176}{}{Reimburse? Uhhhh... I'd rather have cash, thanks. Goodbye.}
-{177}{}{All right. Goodbye.}
-{178}{}{Hmmmmm. Considering the fact you have it on you, that is more than a fair price. Very well. Here
- is your money... and thank you.}
-{179}{}{I had something else I wanted to ask you...}
-{180}{}{You know, I don't think you really want to inhale that... crap. Trust me.}
-{181}{}{Need any help on how to use that? I mean, I've found to get the best rush, you need to close
- your nostrils, force all the air out of your lungs, then take a deep breath, inhale, and hold it for
- about a minute...}
-{182}{}{Pleasure doing business with you, doctor. Be careful with that stuff.}
-{183}{}{*Thank* you. You can leave now.}
-{184}{}{I had something else I wanted to ask you first...}
-{185}{}{You know, I don't think you really want to inhale that... crap. Trust me.}
-{186}{}{Sorry, just trying to help. Later, Doctor.}
+{165}{}{Não tenho interesse... mas agradeço.}
+{166}{}{Excelente! Fico feliz por ter reconsiderado.}
+{167}{}{Fique sabendo que há uma nova droga nas wastes. Ela se chama "Jet", eu
+ acho. Eu pago mil dólares por uma amostra dessa droga.}
+{168}{}{Jet? Eu tenho uma amostra bem aqui.}
+{169}{}{Eu tenho um pouco de Jet bem aqui comigo. É seu por mil e duzentos.}
+{170}{}{Eu tenho um pouco de Jet comigo... eu posso te passar por mil e quinhentos.}
+{171}{}{Então... você quer que eu contrabandeie Jet dentro da cidade pra você?}
+{172}{}{O que você quer que eu faça?}
+{173}{}{Não tenho interesse... mas agradeço.}
+{174}{}{Sinto muito em ouvir isso. Volte caso mude de idéia... irei te reembolsar muito bem pelo
+ serviço.}
+{175}{}{Eu tenho outras perguntas pra você...}
+{176}{}{Reembolsar? Hã... eu prefiro dinheiro. Tchau.}
+{177}{}{Certo. Tchau.}
+{178}{}{Hmmmmm. Considerando o fato de você ter um com você, é mais que um preço justo. Muito bem. Aqui
+ está o seu dinheiro... e obrigado.}
+{179}{}{Há outra coisa que eu gostaria de perguntar...}
+{180}{}{Sabe, eu não acho que você deva inalar isso... Confie em mim.}
+{181}{}{Precisa de ajuda pra saber como se usa isso? Quero dizer, eu descobri a melhor maneira de usar. Você precisa fechar
+ suas narinas, forçar todo o ar para fora dos seus pulmões, inspirar profundamente, inalar e esperar por pelo menos
+ um minuto...}
+{182}{}{Foi um prazer fazer negócios com você, doutor. Tome cuidado com essa coisa.}
+{183}{}{*Muito* obrigado. Você pode ir agora.}
+{184}{}{Eu tenho outra coisa que preciso perguntar primeiro...}
+{185}{}{Sabe, eu não acho que você deva inalar isso... Confie em mim.}
+{186}{}{Desculpe, só estou tentando ajudar. Até mais, doutor.}
 {187}{}{Do que você está falando?}
-{188}{}{Forget it. I had something else I wanted to ask you...}
-{189}{}{Well, they make that stuff from brahmin shit.}
-{190}{}{Those are brahmin shit fumes in that Jet canister. Gross, huh?}
-{191}{}{Those are brahmin shit fumes in that Jet canister. Gross, huh? Hey, by the way... I've been
- looking for some endorphin blockers. Do you have any?}
-{192}{}{Well, according to the boy genius here, they make that stuff from brahmin shit.}
-{193}{}{Well, according to the boy genius here, those are brahmin shit fumes in that Jet canister.
- Gross, huh?}
-{194}{}{Well, according to the boy genius here, those are brahmin shit fumes in that Jet canister.
- Gross, huh? Hey, by the way... we've been looking for some endorphin blockers. Do you have any?}
-{195}{}{Uh... nevermind. Maybe it's better you don't know.}
-{196}{}{I think you must be... mistaken.}
-{197}{}{Well, it's pretty hard to swallow. I had some other questions...}
-{198}{}{No, really. They grow Jet in brahmin shit... they use it as fertilizer.}
-{199}{}{No, really. They were originally growing hallucinogens in brahmin shit, but then they discovered
- that the *fumes* were actually making the workers high. See, it turns out there's this contaminated
- pre-war protein extract in the brahmin systems...}
-{200}{}{Probably so. I don't think I believe it myself. See you later, Doctor.}
-{201}{}{Really? Hmmmmm. I suppose brahmin... excrement would make a good fertilizer. I hadn't considered
- that before. Thank you, friend. I was curious about the manufacturing process.}
-{202}{}{Yeah, except they use brahmin shit to make the Jet, not excrement. See you, Doc.}
-{203}{}{No problem. Be careful with that stuff, all right?}
-{204}{}{Hey, aren't we all? See you later, Doctor.}
-{205}{}{That's... fascinating. Hmmmmm. Perhaps I could take blood samples from the brahmin in the
- courtyard, then... thank you, my friend. Thank you very much, indeed. I was curious about the
- manufacturing process.}
-{206}{}{No problem. Be careful with that stuff, all right?}
-{207}{}{Hey, aren't we all? See you later, Doctor.}
-{208}{}{Endorphin blockers? Whatever for?}
-{209}{}{I think endorphin blockers could be used to neutralize Jet once it's in someone's system. I
- can't test it without some endorphin blockers, though.}
-{210}{}{Never mind. I had something else I wanted to ask you...}
-{211}{}{Nothing. I have to be going.}
-{212}{}{We don't have endorphin blockers here, but I could program the Auto-Doc to manufacture some.
- Would you care to explain to me your theory?}
-{213}{}{Well, you see Jet's chemical addiction is probably the hardest thing to shake, so I was thinking
- that if we introduced endorphin blockers into the body we could...}
+{188}{}{Esqueça. Eu tenho outras coisas que gostaria de perguntar...}
+{189}{}{Bem, eles fazem essas coisas com merda de brahmin.}
+{190}{}{Isso dentro do compartimento do Jet é gás de merda de brahmin. Nojento, não?}
+{191}{}{Isso dentro do compartimento do Jet é gás de merda de brahmin. Nojento, não? Ei, por falar nisso... eu estive
+ procurando por alguns bloqueadores de endorfinas. Você tem alguns?}
+{192}{}{Bem, de acordo com o menino-gênio aqui, eles fazem essas coisas de merda de brahmin.}
+{193}{}{Bem, de acordo com o menino-gênio aqui, há gás de merda de brahmin dentro desse compartimento de Jet.
+ Nojento, não?}
+{194}{}{Bem, de acordo com o menino-gênio aqui, eles fazem essas coisas de merda de brahmin.
+ Nojento, não? Ei, por falar nisso... eu estive procurando por alguns bloqueadores de endorfinas. Você tem alguns?}
+{195}{}{Hã... deixa pra lá. É melhor você não saber.}
+{196}{}{Eu acho que você pode estar... enganado.}
+{197}{}{Bem, é muito difícil de tragar. Eu tenho outras perguntas...}
+{198}{}{Não, sério. Eles cultivam Jet com merda de brahmin... eles a utilizam como fertilizante.}
+{199}{}{Não, sério. Eles cultivavam alucinógenos em merda de brahmin, mas então descobriram
+ que o *gás* estava deixando os trabalhadores doidões. O sistema das brahmins revelou essa proteína de antes da guerra...}
+{200}{}{Provavelmente. Eu não acredito muito nisso. Até mais, doutor.}
+{201}{}{Sério? Hmmmm. Suponho que... os excrementos das brahmins dão um ótimo fertilizante. Eu não considerei
+ isso antes. Obrigado. Estava curioso para saber sobre o processo de fabricação.}
+{202}{}{É. Exceto que eles usam merda de brahmin pra fazer o Jet, não excremento. Tchau, dotô.}
+{203}{}{Sem problemas. Cuidado com isso, certo?}
+{204}{}{Todos nós. Te vejo mais tarde, doutor.}
+{205}{}{Isso é... fascinante. Hmmmmm. Talvez eu possa tirar algumas amostras de sangue de brahmins em
+ courtyard, então... obrigado. Muito obrigado mesmo. Estava curioso para saber sobre o
+ processo de fabricação.}
+{206}{}{Sem problemas. Cuidado com isso, certo?}
+{207}{}{Todos nós. Te vejo mais tarde, doutor.}
+{208}{}{Bloqueadores de endorfina? Pra quê?}
+{209}{}{Eu acho que bloqueadores de endorfina podem ser usados para neutralizar o Jet no sistema de alguém. Entretanto, eu
+ não posso testar sem alguns bloqueadores.}
+{210}{}{Deixe pra lá. Eu tenho outras perguntas que gostaria de fazer...}
+{211}{}{Nada. Eu tenho que ir.}
+{212}{}{Nós não temos bloqueadores de endorfina aqui, mas eu posso programar o Autodoc para produzir alguns.
+ Você se importa de explicar sua teoria?}
+{213}{}{Bem, você sabe que a química viciante do Jet provavelmente é a mais difícil de abalar, então eu pensei
+ que se nós introduzíssimos bloqueadores de endorfina no corpo nós poderíamos...}
 {215}{}{I'm... speechless. That's simply the most brilliant solution I have ever heard. I've been
  experimenting with methods of curing Jet addiction for months, and came up with nothing.}
-{216}{}{You've been working on an antidote, too?}
-{217}{}{Yes, that's what I needed a Jet sample for.}
-{218}{}{Yes... and unsuccessfully.}
-{219}{}{This drug's stranglehold needs to be stopped before it can spread. Why... with the information
- you've provided, we could manufacture the antidote today! Hold on.}
-{220}{}{Great! Thanks, Doctor.}
-{221}{}{This young man here? He made Jet?}
-{222}{}{I wouldn't say "man," but yes, he designed Jet. Or so he says.}
-{223}{}{Yeah, you wouldn't think it to look at him.}
+{216}{}{Você também andou trabalhando num antídoto?}
+{217}{}{Sim, por isso precisava de uma amostra de Jet.}
+{218}{}{Sim... e sem sucesso.}
+{219}{}{O domínio dessa droga precisa ser contido antes que se espalhe. Ei... com a informação
+ que você providenciou nós podemos criar um antídoto hoje! Espere aí!}
+{220}{}{Ótimo!}
+{221}{}{Esse homem jovem aí? Ele inventou o Jet?}
+{222}{}{Eu não diria "homem", mas sim, ele criou o Jet. É o que ele diz.}
+{223}{}{É, não parece mas é.}
 {224}{}{Myron, Dr. Troy... Dr. Troy, Myron.}
-{225}{}{Then I have some questions for this young man...}
-{226}{}{Uh, sure. You might want to take some aspirin before you start, though. I'll wait here.}
-{227}{}{Be my guest.}
-{228}{}{Go ahead. Call me if you need anything... like a baseball bat.}
-{229}{}{Brahmin fumes? Not a conventional manufacturing process, but... hmmmmm. Perhaps I could take
- blood samples from the brahmin in the courtyard, then... thank you, my friend.}
+{225}{}{Então eu tenho algumas perguntas pra esse rapazinho...}
+{226}{}{Hã, claro. É capaz de você querer tomar algumas aspirinas antes de começar. Eu vou esperar aqui.}
+{227}{}{Com prazer.}
+{228}{}{Vá em frente. Chame se precisar de algo... como um taco de baseball.}
+{229}{}{Gás de excemento de Brahmin? Não é um processo de fabricação convencional, mas... hmmmmm, talvez eu possa
+ tirar algumas amostras de sangue de brahmin em courtyard, então... obrigado.}
 {230}{}{Não há problema.}
 {231}{}{Com certeza.}
-{232}{}{You may also tell your little hooligan friend that he is wasting his considerable intellect
- manufacturing drugs. His manners and language also leave MUCH to be desired.}
-{233}{}{Tell me about it.}
-{234}{}{Maybe you should loosen up a little, Doc. A little drug use never hurt anyone. Well, except for
- those super stimpacks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
-{235}{}{I'll pass that along.}
-{236}{}{Yes, I'm willing to pay you a thousand dollars for the sample... and your silence.}
-{237}{}{I have a sample of Jet right here.}
-{238}{}{What do you want the Jet for?}
-{239}{}{Sounds good. I'm in.}
-{240}{}{I'm not interested.}
-{241}{}{It would be... helpful to me and my work if you could bring me a sample of this drug. I will pay
- you a thousand dollars for the delivery. But it is of utmost importance that you keep this transaction
- confidential.}
-{242}{}{Uh... confidential?}
-{243}{}{Oh really? How much are you going to pay me to keep silent? I could turn you in right now.}
-{244}{}{I have a sample of Jet right here.}
-{245}{}{What do you want the Jet for?}
-{246}{}{No problem. You can count on me.}
-{247}{}{I'm not interested.}
-{248}{}{Uh, yes... confidential. As in, keep the matter between you and me. Tell no one.}
-{249}{}{I have a sample of Jet right here.}
-{250}{}{What do you want the Jet for?}
-{251}{}{What's to keep me from turning you in right now?}
-{252}{}{No problem. I'll keep it "confidential" and all that, uh, no talking stuff.}
-{253}{}{I'm not interested.}
-{254}{}{That is not your concern. Obtain a sample of Jet, bring it to me, and I will pay you a thousand
- dollars... and that price includes your silence.}
-{255}{}{Well, I have a sample of Jet right here.}
-{256}{}{What's to keep me from turning you in right now?}
-{257}{}{No problem. You can count on me.}
-{258}{}{I'm not interested.}
-{259}{}{Wha --? You wouldn't! How *dare* you threaten me!}
-{260}{}{Whoa! Calm down, I was just asking. No need to panic.}
-{261}{}{I would, and I will. How much is your Citizenship worth to you? Life out in the wastes can be
- pretty rough on a person...}
-{262}{}{I was a fool for trusting you! Very well... what is it you want?}
-{263}{}{Five hundred on the first of every month, and we'll keep your drug smuggling between the two of
- us.}
-{264}{}{A thousand on the first of every month, and you get to keep your Citizenship.}
-{265}{}{Two thousand on the first of every month, and I'll keep quiet.}
-{266}{}{Are you insane?! There's no way I can afford that!}
-{267}{}{All right, all right. Make it five hundred, and we don't need to involve the First Citizen at all.}
-{268}{}{You better FIND a way to afford it, or you'll be begging for scraps in the Courtyard like the
- rest of the Outworlders.}
-{269}{}{Very well. Here is your first payment. I hope you choke on it.}
-{270}{}{It's been a pleasure, Doctor. You'll be seeing me again real soon.}
-{271}{}{You better watch your mouth, or you'll be the next patient in that Auto-Doc. Understand?}
-{272}{}{This is NOT something to be joking about; this is a very serious matter. I will pay a thousand
- dollars for the Jet, your silence... and no more questions. Do you want the job?}
-{273}{}{Well, what do you know? I have a sample of Jet right here.}
-{274}{}{What's to keep me from turning you in right now?}
+{232}{}{Você deveria dizer ao seu amigo rebelde que ele está desperdiçando consideravelmente seu intelecto
+ fabricando drogas. Suas maneiras e linguagem também deixam MUITO a desejar.}
+{233}{}{Fale-me sobre isso.}
+{234}{}{Você deveria se conter um pouco, doutor. Um pouquinho de droga não machuca ninguém. Bem, exceto pelos
+ super stimpacks... e peloos Buffouts... e pelos Psychos. Na verdade, deixa pra lá... Tchau.}
+{235}{}{Deixa pra lá.}
+{236}{}{Sim, eu posso te pagar mil dólares por uma amostra... e pelo seu silêncio.}
+{237}{}{Eu tenho uma amostra de Jet bem aqui.}
+{238}{}{Pra quê você precisa de Jet?}
+{239}{}{Parece bom. Conte comigo.}
+{240}{}{Não... mas agradeço a oferta.}
+{241}{}{Seria... útil para mim e para o meu trabalho se você pudesse trazer uma amostra dessa droga. Eu pago
+ mil dólares pela entrega. Mas é de extrema importância que você mantenha essa transação
+ em segredo.}
+{242}{}{Hã... confidencial?}
+{243}{}{Sério? Quanto você irá me pagar para que eu mantenha o silêncio? Eu posso te denunciar agora mesmo.}
+{244}{}{Eu tenho uma amostra de Jet bem aqui.}
+{245}{}{Pra quê você precisa de Jet?}
+{246}{}{Sem problemas. Pode contar comigo.}
+{247}{}{Não... mas agradeço a oferta.}
+{248}{}{Hã, sim... confidencial. Mantenha o assunto entre você e eu. Não conte a ninguém.}
+{249}{}{Eu tenho uma amostra de Jet bem aqui.}
+{250}{}{Pra quê você precisa de Jet?}
+{251}{}{Quanto custa o meu silêncio? Poderia te denunciar agora mesmo.}
+{252}{}{Sem problemas. Vou manter isso "confidencial".}
+{253}{}{Não... mas agradeço a oferta.}
+{254}{}{Não é da sua conta. Consiga o Jet, traga para mim e eu pagarei os mil dólares...
+ e o preço inclui o seu silêncio.}
+{255}{}{Bem, eu tenho uma amostra de Jet bem aqui.}
+{256}{}{Quanto custa o meu silêncio? Poderia te denunciar agora mesmo.}
+{257}{}{Sem problemas. Pode contar comigo.}
+{258}{}{Não... mas agradeço a oferta.}
+{259}{}{O q--? Você não faria isso! Como *ousa* a me destratar!}
+{260}{}{Opa! Calma, só estava perguntando. Não precisa desse pânico todo.}
+{261}{}{Eu posso e eu vou. Quanto a sua Cidadania vale pra você? A vida fora daqui pode ser
+ muito dura pra uma pessoa...}
+{262}{}{Eu fui um tolo em confiar em você! Muito bem... o que você quer?}
+{263}{}{Quinhentos em cada dia primeiro por mês e mantemos seu contrabando de drogas entre nós
+ dois.}
+{264}{}{Mil em cada dia primeiro por mês, e mantemos a sua cidadania.}
+{265}{}{Dois mil em cada dia primeiro por mês e deixamos tudo quieto.}
+{266}{}{Você é louco? Não há como eu pagar tudo isso!}
+{267}{}{Certo, certo. Vamos fazer por quinhentos e não envolvemos a First Citzen nisso.}
+{268}{}{É melhor você CONSEGUIR pagar, ou você vai começar a pedir esmolas em Courtyard como
+ o resto dos forasteiros.}
+{269}{}{Muito bem. Aqui está seu primeiro pagamento. Espero que se dane com ele.}
+{270}{}{Foi um prazer, doutor. Vejo você em breve.}
+{271}{}{É melhor controlar sua língua, ou você será o próximo paciente no Autodoc. Entendeu?}
+{272}{}{Isso NÃO é algo com que se brinque; é algo muito sério. Eu pago mil
+ dólares pelo Jet e seu silêncio... e sem mais perguntas. Quer o trabalho?}
+{273}{}{Bem, o que você sabe? Eu tenho um Jet bem aqui.}
+{274}{}{Quanto custa o meu silêncio? Poderia te denunciar agora mesmo.}
 {275}{}{Com certeza, eu vou fazer.}
-{276}{}{I'm not interested.}
-{277}{}{You do?}
-{278}{}{Excellent! Thank you, my friend... you have no idea how important this is to my work. Here is
- your payment, as promised.}
-{279}{}{Great. Before I go, I had some other questions...}
-{280}{}{You know, I don't think you really want to inhale that... crap. Trust me.}
-{281}{}{No problem. Thanks, Doc.}
-{282}{}{Hello, Captain. How may I be of assistance?}
-{283}{}{Hello, Citizen. How may I be of assistance?}
+{276}{}{Não... mas agradeço a oferta.}
+{277}{}{Você aceita?}
+{278}{}{Excelente! Obrigado... você não tem idéia do quão importante isso é para o meu trabalho. Aqui está
+ seu pagamento, como prometido.}
+{279}{}{Ótimo. Antes de ir, eu tenho algumas perguntas...}
+{280}{}{Sabe, eu não acho que você deva inalar isso... Confie em mim.}
+{281}{}{Sem problemas.}
+{282}{}{Olá, Capitão. Como posso ajudar?}
+{283}{}{Olá, Citizen. Como posso ajudar?}
 {284}{}{Como posso ser de ajuda?}
 {285}{}{Sim?}
-{286}{}{Me got ouchie}
+{286}{}{Mim com dodói.}
 {287}{}{Ass-is-tense?}
 {288}{}{(Desliga)}
-{289}{}{I'm in need of your medical expertise.}
-{290}{}{You mentioned before you were a doctor... I'm something of a doctor myself.}
-{291}{}{Do you have any endorphin blockers?}
-{292}{}{I got that Jet you wanted.}
-{293}{}{I'm interested in that job, if it's still available.}
-{294}{}{About that Jet you wanted... I think the other Citizens might like to know about it, too.}
-{295}{}{Nothing today. Good day, Doctor.}
-{296}{}{Certainly. I'm sorry... it's been some time since I actually had to administer them. Most
- Citizens received theirs many, many years ago. Let me prep the Auto-Doc for the procedure...}
+{289}{}{Preciso de seus dotes medicinais.}
+{290}{}{Você mencionou ser um doutor... eu sou um tipo de médico também.}
+{291}{}{Você tem algum bloqueador de endorfina?}
+{292}{}{Eu consegui aquele Jet que você queria.}
+{293}{}{Estou interessado no trabalho, se ainda estiver a disposição.}
+{294}{}{Sobre o Jet que você queria... Eu acho que os outros Citzens gostariam de saber dele também.}
+{295}{}{Nada por hoje. Bom dia.}
+{296}{}{Certamente. Desculpe... foi um longo tempo desde que eu comecei a adiministrar. A maioria
+ dos Citizens receberam os seus há muito, muito tempo atrás. Deixe-me preparar o Autodoc para os procedimentos...}
 {297}{}{Tudo certo.}
-{298}{}{All finished. A word of caution: This vaccination doesn't make you immune to poison and
- radiation, but it does bolster your natural resistance.}
-{299}{}{Much appreciated. Say, I had some other questions I wanted to ask you...}
-{300}{}{Great. Thanks, Doctor.}
-{301}{}{Oh, it's you. What do you want?}
-{302}{}{I'm in need of healing.}
-{303}{}{I've been poisoned.}
-{304}{}{I've been irradiated.}
-{305}{}{I've come to pick up my cash. You got it?}
+{298}{}{Tudo pronto. Um conselho: Essa vacina não te deixa imune ao veneno e
+ radiação, mas aumenta sua resistência natural.}
+{299}{}{Agradeço. Eu gostaria de perguntar algumas coisas...}
+{300}{}{Ótimo. Até mais.}
+{301}{}{Oh, é você. O que quer?}
+{302}{}{Preciso me curar.}
+{303}{}{Eu fui envenenado.}
+{304}{}{Eu fui irradiado.}
+{305}{}{Eu vim buscar meu dinheiro. Já está com ele?}
 {306}{}{I'm here to remind you that the first is coming up, and you better have my money.}
-{307}{}{Nothing... today.}
-{308}{}{I haven't forgotten. Here is your money. Now leave.}
-{309}{}{Hold on... I want some healing, too.}
-{310}{}{Hold on... I've been poisoned. I need you to cure it.}
-{311}{}{Hold on... I've been irradiated. I need you to cure it.}
-{312}{}{Pleasure doing business with you. See you soon, Doc.}
-{313}{}{I haven't forgotten. You'll get your money. Now leave.}
-{314}{}{Hold on... I want some healing, too.}
-{315}{}{Hold on... I've been poisoned. I need you to cure it.}
-{316}{}{Hold on... I've been irradiated. I need you to cure it.}
-{317}{}{That's all I want to hear. See you soon, Doc.}
-{318}{}{I see. First, I'll need to check your vital signs... lean back and we'll hook you up to the
- Auto-Doc here...}
-{320}{}{Hmmmm. It seems that during the start-up procedure, an operator priority override has caused the
- Auto-Doc to accidentally inject you with Sodium Tri-Ethylene.}
-{321}{}{What? What's that mean?}
-{322}{}{It means you have less than ten seconds to live. Your stupidity is really quite staggering.
- Blackmail someone, then put your life in their hands? Simply amazing. Goodbye... and good riddance.}
-{323}{}{Now I have to reload! This is so shitty! I'll get you during my next save game.}
-{324}{}{What about the Hippocratic Oath?! Hey! I...}
+{307}{}{Nada... por hoje.}
+{308}{}{Eu não esqueci. Aqui está. Agora saia.}
+{309}{}{Espere... eu quero me curar também.}
+{310}{}{Espere... eu fui envenenado. Eu preciso que me cure.}
+{311}{}{Espere... eu fui irradiado. Preciso que me cure.}
+{312}{}{Foi um prazer fazer negócios com você. Vejo você mais tarde, doutor.}
+{313}{}{Eu não esqueci. Você terá seu dinheiro. Agora saia.}
+{314}{}{Espere... eu quero me curar também.}
+{315}{}{Espere... eu fui envenenado. Eu preciso que me cure.}
+{316}{}{Espere... eu fui irradiado. Preciso que me cure.}
+{317}{}{Isso é tudo o que eu queria aqui. Te vejo mais tarde, doutor.}
+{318}{}{Entendo. Primeiro, eu preciso checar seus sinais vitais... apoie-se aqui e nós te colocaremos no
+ Autodoc...}
+{320}{}{Hmmmm. Parece que durante o procedimento inicial uma operação prioritária errada fez o
+ Autodoc injetar acidentalmente Sodium Tri-Ethalene em você.}
+{321}{}{O quê? O que você quer dizer?}
+{322}{}{Significa que você tem menos de dez segundos de vida. Sua estupidez é surpreendente.
+ Chantagear alguém, então colocar sua vida nas mão da pessoa? Simplesmente fantástico. Adeus... e boa viagem.}
+{323}{}{Agora eu tenho que recarregar o jogo! Que cu! Eu te pego no meu próximo "jogo salvo".}
+{324}{}{E quanto ao seu Juramento de Hipócrates?! Ei! Eu...}
 {325}{}{I'll haunt you from the grave. I swear it.}
-{326}{}{How did you get down here? I'm afraid you'll have to leave. Hold a moment while I summon some
- guards to escort you out.}
-{327}{}{ME NO GOH!}
-{328}{}{(Stand around for a moment)}
-{329}{}{I have some good news. I was able to make an antidote from that sample of Jet you gave me.}
-{330}{}{Good news... I was able to use the information you gave me to make an antidote.}
-{331}{}{Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated
- with the drug.}
-{332}{}{Great. Can I have some?}
-{333}{}{Can I get a sample of it? I think it could help the people in Redding.}
-{334}{}{Of course. Here you go. Take it to one of my colleagues, Dr. Johnson, in Redding. He should be
- able to see that it gets to those that need it.}
-{335}{}{Of course - here you go. I understand that the Jet problem is especially prevalent in Redding.
- If you take the antidote to the physician there, Dr. Johnson, he should be able to see that it gets to
- those that need it.}
-{336}{}{Great! I'll be sure to keep this safe. I had some questions for you...}
-{337}{}{Thanks for the antidote.}
-{338}{}{Excellent! Return here when you have obtained the Jet sample, and I will have your payment
- ready.}
-{339}{}{Deal. I had some other questions...}
-{340}{}{I'll be back with the Jet.}
-{341}{}{Yes, I'm familiar with them. It's an invasive procedure, where impact plates and thermal
- dissipater membranes are grafted to the skeleton to help protect against physical trauma and heat. Why
- do you ask?}
-{342}{}{Yes, you mentioned the implants before. I will not perform the operation, I'm sorry. The
- procedure is irreversible, and the implants do more harm than good.}
-{343}{}{I ran across them in the Vault City medical database. Could you perform the operation on me?}
-{344}{}{Could you perform the operation? I can't do it myself.}
-{345}{}{All right. I had some other questions...}
-{346}{}{Fine. Just checking.}
-{347}{}{Fine. Maybe I can find somebody else to do the procedure.}
-{348}{}{No, I'm sorry... as I said, the implants are an invasive procedure and the recovery period is
- long and arduous. Patients undergoing the operation in the past have also frequently developed skeletal
- deformities.}
-{349}{}{I'm willing to risk it. Can you do it anyway?}
-{350}{}{I would consider performing the operation only in the event of an emergency, not for the sake of
- convenience. The risk is too great, and the implants are not a substantial improvement over standard
- combat armor.}
-{351}{}{Hmmm. Okay, I had some other questions...}
+{326}{}{Como você conseguiu entrar aqui? Você deve sair. Espere um momento enquanto eu chamo alguns
+ guardas para te escoltar.}
+{327}{}{MIM NÃO IR!}
+{328}{}{Esperar por um momento}
+{329}{}{Eu tenho boas notícias. Eu consegui fazer um antídoto com a amostra de Jet que você me deu.}
+{330}{}{Boas notícias... eu consegui usar as informações que você me deu para fazer um antídoto.}
+{331}{}{Uma vez tomado, ele anula os sintomas da droga e ainda... remove a euforia associada
+ com a droga.}
+{332}{}{Ótimo. Posso pegar um pouco?}
+{333}{}{Posso pegar uma amostra? Acho que posso ajudar as pessoas em Redding.}
+{334}{}{Claro. Aqui está. Leve para um dos meus colegas, Dr. Johnson, em Redding. Ele será
+ capaz de usá-lo para o bem dos que precisam.}
+{335}{}{Claro - aqui está. Eu entendo que o Jet é um problema, especialmente em Redding.
+ Se você levar o antídoto para o médico de lá, o Dr. Johnson, ele será capaz de usá-lo com os
+ que precisam.}
+{336}{}{Ótimo! Vou mantê-lo seguro. Eu tenho algumas perguntas pra você...}
+{337}{}{Obrigado pelo antídoto.}
+{338}{}{Excelente! Volte quando obtiver a amostra  de Jet e você será
+ pago.}
+{339}{}{Feito. Eu tenho outras perguntas...}
+{340}{}{Eu voltarei com o Jet.}
+{341}{}{Sim, eu conheço. É um procedimento invasivo, onde placas de impacto e dissipadores
+ termais são acoplados no esqueleto, protejendo o corpo de danos físicos e calor. Por que
+ quer saber?}
+{342}{}{Sim, você já me falou sobre os implantes antes. Eu não vou fazer a operação, desculpe. O
+ procedimento é irreversível e os implantes causam mais dor do que benefícios.}
+{343}{}{Eu procurei por eles na database médica de Vault City. Você pode realizar a operação em mim?}
+{344}{}{Você pode realizar a operação? Eu não conseguiria fazer em mim mesmo.}
+{345}{}{Certo. Eu tenho outras perguntas...}
+{346}{}{Certo. Só checando.}
+{347}{}{Certo. Talvez eu ache outra pessoa que possa fazer.}
+{348}{}{Não, desculpe... como eu disse, os implantes são um processo invasivo e o período de recuperação é
+ longo e doloroso. Pacientes que sofreram a operação no passado freqüentemente desenvolviam deformidades
+ esqueléticas.}
+{349}{}{Eu corro o risco. Você pode fazer assim mesmo?}
+{350}{}{Eu consideraria a operação somente em um caso de emergência, não por simples
+ conveniência. O risco é muito grande e os implantes não são mais benéficos que uma combat
+ armor comum.}
+{351}{}{Hmmm. Certo, eu tenho outras perguntas...}
 {352}{}{Bem, de qualquer forma obrigado.}
-{353}{}{Well, thanks anyway. Maybe I can find somebody else to perform the operation.}
-{354}{}{I'm sorry. The facilities are only for Citizens, and a list of all patients is kept in the
- database... [Lowers voice.] However, the stimpacks in the lower level supply lockers would not be missed
- if you put them to good use.}
-{355}{}{Hmmm. Okay, I had some other questions...}
-{356}{}{Thanks. I'll go look for them.}
-{357}{}{Of course, Captain. Let me see what I can do for you and your friends.}
-{358}{}{Of course, Captain. Let me see what I can do for you and your friend.}
-{359}{}{I just need to check your vital signs first... lean back and we'll hook you up to the Auto-Doc
- here...}
-{361}{}{My, your mutant friend had a great deal of bullets and shrapnel lodged in his body. It's a
- wonder he didn't have lead poisoning. I finally managed to get it all out. Here it all is.}
-{362}{}{That should take care of the problem. Let me know if you need any other healing.}
-{363}{}{I'm in need of healing, too.}
-{364}{}{I could use some help... I've been irradiated.}
-{365}{}{I've been poisoned. Can you help me?}
-{366}{}{Thanks, Doctor. Say, do you know anything about dermal implants?}
-{367}{}{Much appreciated, Doctor. Say, I had some other questions I wanted to ask you...}
-{368}{}{I'll probably be back. Thanks, Doctor.}
-{369}{}{Of course, Citizen. What seems to be the problem?}
-{370}{}{Of course, Captain. What seems to be the problem?}
-{371}{}{Of course. What seems to be the problem?}
-{372}{}{I'm in need of healing.}
-{373}{}{I've been irradiated.}
-{374}{}{I've been poisoned.}
-{375}{}{Can you heal my friend?}
-{376}{}{Can you heal my friends?}
-{377}{}{Do you know anything about dermal implants?}
-{378}{}{Never mind. I had some other questions...}
-{379}{}{Nothing. Thanks, Doctor.}
-{380}{}{Very well. Just let me check your vital signs... lean back and we'll hook you up to the Auto-Doc
- here...}
-{382}{}{That should fix you up nicely. How do you feel?}
-{383}{}{Great. Say, can you heal my friend, too?}
-{384}{}{Great. Say, can you heal my friends, too?}
-{385}{}{Do you know anything about dermal implants?}
-{386}{}{Much better, thanks. I had some other questions...}
-{387}{}{Great. Thanks, Doctor.}
-{388}{}{Very well. Just let me check your vital signs... lean back and we'll hook you up to the Auto-Doc
- here...}
-{390}{}{That should fix you up nicely. How do you feel?}
-{391}{}{Much better, thanks. Say, before I get poisoned or irradiated again, during that tour you gave
- me, you mentioned you had a vaccine that gave resistance to poison and radiation. Could I get that?}
-{392}{}{Great. Say, can you heal my friend, too?}
-{393}{}{Great. Say, can you heal my friends, too?}
-{394}{}{Do you know anything about dermal implants?}
-{395}{}{Much better. I had some questions for you...}
-{396}{}{Great. Thanks, Doctor.}
+{353}{}{Bem, agradeço mesmo assim. Talvez eu ache outra pessoa que possa realizar a operação.}
+{354}{}{Desculpe. As instalações são apenas para Citizens e uma lista de todos os pacientes é mantida na
+ database... [Abaixa a voz.] Entretanto, os simpacks nos armários de suprimento no último andar não iriam se perder
+ se você os pegasse para um bom uso.}
+{355}{}{Hmmm. Certo, eu tenho outras perguntas...}
+{356}{}{Vou procurar por eles então.}
+{357}{}{É claro, Captão. Deixe-me ver o que eu posso fazer por você e por seus amigos.}
+{358}{}{É claro, Captão. Deixe-me ver o que eu posso fazer por você e por seu amigo.}
+{359}{}{Só preciso checar seus sinais vitais primeiro... apóie-se e vamos te colocar no Autodoc
+ aqui...}
+{361}{}{Puxa, seu amigo mutante tem um belo négocio com balas e e estilhaços alojados no corpo. É um
+ milagre ele não ter se infeccionado. Finalmente consegui tirar tudo. Aqui está, veja.}
+{362}{}{Isso deve cuidar do problema. Fale-me se precisar se recuperar novamente.}
+{363}{}{Eu preciso de cura  também.}
+{364}{}{Eu poderia receber alguma ajuda... eu fui irradiado.}
+{365}{}{Eu fui envenenado. Você pode me ajudar?}
+{366}{}{Certo. Diga, você sabe alguma coisa sobre implantes dérmicos?}
+{367}{}{Agraço a ajuda, doutor. Eu gostaria de fazer mais algumas perguntas...}
+{368}{}{Provavelmente eu voltarei. Até mais, doutor.}
+{369}{}{É claro, citzen. Qual é o problema?}
+{370}{}{É claro, captão. Qual é o problema?}
+{371}{}{É claro. Qual é o problema?}
+{372}{}{Preciso me curar.}
+{373}{}{Eu fui irradiado.}
+{374}{}{Eu fui envenenado.}
+{375}{}{Você pode curar meu amigo?}
+{376}{}{Você pode curar meus amigos?}
+{377}{}{Você sabe alguma coisa sobre implantes dérmicos?}
+{378}{}{Sem problemas. Eu tenho outras perguntas...}
+{379}{}{Nada. Até, doutor.}
+{380}{}{Muito bem. Deixe-me apenas checar seus sinais vitais... apóie-se e te colocaremos no Autodoc
+ aqui...}
+{382}{}{Isso deve consertar. Como se sente?}
+{383}{}{Ótimo. Você pode curar meu amigo também?}
+{384}{}{Ótimo. Você pode curar meus amigos também?}
+{385}{}{Você sabe alguma coisa sobre implantes dérmicos?}
+{386}{}{Muito melhor. Eu tenho outras perguntas...}
+{387}{}{Ótimo. Até mais.}
+{388}{}{Muito bem. Deixe-me apenas checar seus sinais vitais... apóie-se e te colocaremos no Autodoc
+ aqui...}
+{390}{}{Isso deve consertar. Como se sente?}
+{391}{}{Muito melhor. Doutor, antes que eu me envenene ou irradie novamente, durante o "tour" que você me ofereceu, 
+ você mencionou uma vacina que dá resistência a veneno e radiação. Posso pegar uma?}
+{392}{}{Ótimo. Você pode curar meu amigo também?}
+{393}{}{Ótimo. Você pode curar meus amigos também?}
+{394}{}{Você sabe alguma coisa sobre implantes dérmicos?}
+{395}{}{Muito melhor... Eu tenho outras perguntas pra você...}
+{396}{}{Ótimo. Até mais.}
 {397}{}{Guardas!}
 {398}{}{Zzzzzzz.}
 {399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}

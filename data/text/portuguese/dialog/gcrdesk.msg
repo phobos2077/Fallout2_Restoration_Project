@@ -24,12 +24,12 @@
 {135}{}{I guess I don't need directions after all. Goodbye.}
 {140}{}{I think Jeremy has a key. The guards at the security doors have keys, as do some of the people
  that live here in the reactor.}
-{141}{}{Interesting. Let me ask you something else.}
+{141}{}{Interessante. Deixe-me perguntar outra coisa.}
 {142}{}{Thanks. That's all I needed to know. Goodbye.}
 {150}{}{The reactor pit is just past the control room and then past Festus' room. But you're going to
  need a Red Keycard to get in there.}
 {151}{}{Where's the reactor control room?}
-{152}{}{Interesting. Let me ask you something else.}
+{152}{}{Interessante. Deixe-me perguntar outra coisa.}
 {153}{}{I need a keycard? How do I get one of those?}
 {154}{}{Thanks. That's all I needed to know. Goodbye.}
 {160}{}{The supply room is through the door to the left of the one that you came into the building
@@ -38,19 +38,19 @@
 {162}{}{Thanks. That's all I needed to know. Goodbye.}
 {170}{}{Well, we tend to like the background radiation leakage here. The Glowing Ones really like it.
  None of us would feel very well without it.}
-{171}{}{Interesting. Let me ask you something else.}
+{171}{}{Interessante. Deixe-me perguntar outra coisa.}
 {172}{}{Background leakage?!?!}
 {173}{}{Oh, okay. Well that's all I needed to know. Goodbye.}
 {180}{}{The reactor control room is through the door to the right of the one you entered the building
  through. Then through a door at the end. Past the Yellow Security Door. Then you go off to the right.
  You'll need a keycard for the security door, though.}
-{181}{}{Interesting. Let me ask you something else.}
+{181}{}{Interessante. Deixe-me perguntar outra coisa.}
 {182}{}{I need a keycard? How do I get one of those?}
 {183}{}{Thanks. That's all I needed to know. Goodbye.}
 {190}{}{Don't know why you'd want to go there. Damn maintenance robot hasn't worked right in years.
  It's just past the reactor control room, though.}
 {191}{}{Where's the reactor control room?}
-{192}{}{Interesting. Let me ask you something else.}
+{192}{}{Interessante. Deixe-me perguntar outra coisa.}
 {193}{}{I need a keycard? How do I get one of those?}
 {194}{}{Thanks. That's all I needed to know. Goodbye.}
 {200}{}{Well, I wouldn't worry unless you plan to stay here for more than a couple of weeks. Most of

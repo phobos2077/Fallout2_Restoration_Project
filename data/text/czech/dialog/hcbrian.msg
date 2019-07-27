@@ -14,7 +14,7 @@
 {113}{}{Já? Jsem Brian. Obsluhuju generátor, kterı dodává energii mìstu.}
 {114}{}{Tak tebe zrovna hledám. Eric øíkal, e u nìj není moc pøíjemnì a e potøebuje zvıšit dodávku energie pro svou klimatizaci.}
 {115}{}{Aha. To je opravdu zajímavé. To musí bıt zajímavá práce.}
-{116}{}{Skvìlé. Mám další otázky.}
+{116}{}{Super. Mám další otázky.}
 {117}{}{Tohle je elektrárna Broken Hills. A já se tady v podstatì starám... aby to fungovalo. A bìí to zatracenì dobøe... díky uranovım èlánkùm.}
 {118}{}{To musí bıt skvìlé. No, mám další otázky.}
 {119}{}{Uranovım èlánkùm?}
@@ -26,17 +26,17 @@
 {125}{}{Jestli ten stroj funguje na uranové èlánky, tak máte dost vıkonu pro tohle mìsto a JEŠTÌ New Reno a ani si toho nevšimnete. Pøidej mu.}
 {126}{}{Ale... ale... on trpí.}
 {127}{}{Take není vùbec ádná šance, e bys mohl udìlat pár úpravièek?}
-{128}{}{(Podívá se mrzutì na svoje ciferníky a pronese slabım hlasem.) Jsi zlı.}
+{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
 {129}{}{Jo. Nashle!}
 {130}{}{Hej! Nièeho se nedotıkej! To je citlivé zaøízení! Ven! Vypadni! Bì pryè! Bì domù!}
 {131}{}{Ooooch! Butunz!}
 {132}{}{No, není. Ani ne. Vìtšinou tady jen sedím a dávám pozor na ciferníky, aby se drely ve správnıch hodnotách. Sem tam nìco upravím a obèas nìco pøepnu. A to je asi tak všechno. Zvládl by to kadı.}
 {133}{}{Take, mohl bys pøidat víc energie do Erikova domu?}
 {134}{}{Kadı, jo? Mám další otázky.}
-{135}{}{Díky. Nashle.}
+{135}{}{Dík. Naskle.}
 {136}{}{No, díky našemu uranovému dolu a atomové energii, která je energií budoucnosti, je jen v poøádku, e dríme krok s dobou. Moná jsme malí, ale pokrokoví.}
 {137}{}{Hmm. Tak dobøe. Mám další otázky.}
-{138}{}{Dobøe. Nashle.}
+{138}{}{Jasnì. Nashle.}
 {139}{}{No, jistì, technicky øeèeno to pravda je, ale...}
 {140}{}{Ale nic. Jseš prostì jen línej. Dej se do toho.}
 {141}{}{Nemusíš bejt kvùli tomu na mì zlej. (Sklopí hlavu a otoèí knoflíkem.) Hotovo. Øekni mu, a u si teï pøestane stìovat.}

@@ -1,10 +1,8 @@
 {100}{}{Vidíš prostitutku.}
-
 {150}{}{Je to naprosto obyèejná prostitutka.}
-
 {152}{}{[MLUVIT]}
 {153}{}{Hej, já nedìlám enskı!}
-{154}{}{Jak chceš.}
+{154}{}{Nevadí.}
 {155}{}{Omlouvám se.}
 {156}{}{Mami?}
 {157}{}{Hele, chlapeèku, bude to draší, jestli chceš mít i obecenstvo.}
@@ -16,7 +14,7 @@
 {163}{}{Pøímo tady, zlato.}
 {164}{}{Za kolik, sestro?}
 {165}{}{Ach jo, musím jít. Nashle.}
-{166}{}{Jehee!}
+{166}{}{Vííí!}
 {167}{}{Mám je ráda velkı a tupı.}
 {168}{}{To jsem pøesnì já!}
 {169}{}{Jó!}
@@ -37,7 +35,7 @@
 {185}{}{Ehh!}
 {186}{}{Byl jsi ohromnej!}
 {187}{}{Jako vdycky, zlato.}
-{188}{}{To je jedno.}
+{188}{}{Nevadí.}
 {189}{}{Ty taky.}
 {190}{}{Já ochromenej!}
 {191}{}{Byl jsi skvìlej!}
@@ -46,7 +44,7 @@
 {194}{}{Jooo.}
 {195}{}{Skvìlı!}
 {196}{}{Fajn, hotovo. Nashle.}
-{197}{}{To je všechno?}
+{197}{}{That's it?}
 {198}{}{Dobøe. Nashle.}
 {199}{}{Bylo to dobrı.}
 {200}{}{Pápá.}
@@ -62,7 +60,6 @@
 {210}{}{Zatím.}
 {211}{}{Nashle.}
 {212}{}{Pápá.}
-# It will cost $(amount) for a session. Pay first.
 {213}{}{Stojí to $}
 {214}{}{ za èíslo. Nejdøív zapla.}
 {215}{}{Pojï za mnou.}
@@ -76,5 +73,4 @@
 {223}{}{Pojï za mnou.}
 {224}{}{Hej, kámo, dej ty pracky pryè.}
 {225}{}{Ruce pryè! Nejsem ádná hraèka, se kterou si mùeš hrát.}
-
 {230}{}{Ehhh...? To bylo tvoje poprvé?}

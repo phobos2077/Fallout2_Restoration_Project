@@ -12,5 +12,5 @@
 {208}{}{ivot. Nemluv mi o ivotì.}
 {209}{}{Myslím, e bys mìl vìdìt, e jsem velice nešastnı.}
 {210}{}{Odpus, e dıchám, co... vlastnì nedìlám, take ani nevím, proè tì obtìuji svımi slovy. Ó Boe, jsem tak smutnı.}
-{500}{}{Jo, prostì mì hoï z útesu.}
+{500}{}{Yeah, just push me over a cliff.}
 {501}{}{***bzzt Pøestaò s tím! *** bzzt}

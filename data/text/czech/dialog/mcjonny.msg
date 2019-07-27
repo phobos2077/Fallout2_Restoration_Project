@@ -1,10 +1,9 @@
-{100}{}{Vidíš malého chlapce.}
+{100}{}{Malı chlapec.}
 {101}{}{Vidíš Jonnyho.}
 {102}{}{Blond vlasy, modré oèi, no prostì typicky americké dítì.}
-
 {150}{}{Áááááá!}
 {151}{}{Já chci zpátky svıho pejska!}
-{152}{}{Fòuk...}
+{152}{}{Whimper... }
 {153}{}{Cizinec!}
 {154}{}{Laddie! Chybìl jsi mi, chlapèe. Díky moc za jeho pøivedení.}
 {155}{}{Zdravím, vás jsem tu ještì nevidìl.}
@@ -49,9 +48,7 @@
 {201}{}{Pospìšte si, prosím. Chci u jít domù.}
 {202}{}{Ne! Nevìøím vám. Vrate mi mıho psa! (Bééééé!)}
 {203}{}{Ale ne! Copak nevíte, e Róza dìlá ze psù jídlo!? Z Laddie je teï nejspíš hamburger.}
-
 {300}{}{Laddie!!!}
-
 {400}{}{Díky, e jste mì zachránil, pane.}
 {401}{}{Doma je to nejlepší!}
 {402}{}{Jupí...}

@@ -18,10 +18,10 @@
 {117}{}{Co mi mùžeš øíct o Rogeru Westinovi?}
 {118}{}{Chci se sejít se starým Carlsonem. Nevíš o nìkom, kdo by mi s tím mohl pomoct?}
 {119}{}{Nemáš GECK?}
-{120}{}{To je sice hezký, cizinèe, ale já nejsem žádná charita.}
+{120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Možná. Mám tady optickej zamìøovaè Triveld x10 - perfektnì sedí na loveckou pušku, jestli máš zájem. Jenom za $500.}
 {122}{}{Už nic nemám.}
-{123}{}{Jasnì, to beru.}
+{123}{}{Sure, it's a deal.}
 {124}{}{Ne, díky.}
 {125}{}{NCR je New California Republic. Prezidentka Tandi a její poskoci tvrdìj, že se pokoušej vrátit starý èasy, ale podle mì spíš zkoušej ukrást, co se dá. Nemám s tím žádnej problém... ostatnì jsem starý èasy nezažil. Taky jsou trochu úzkoprsí... nemaj rádi otrokáøství, hazard a tak podobnì. A proto jsem se usadil tady. Nesnáším totiž naøízení... vždycky jsem je nesnášel.}
 {126}{}{Aha.}
@@ -34,10 +34,10 @@
 {133}{}{Sbohem.}
 {134}{}{Je zvláštní, že se na to ptáš, potom co se stalo Rogeru Westinovi. Já nic nevím, ale je tu jeden chlápek - Merk - dole u Nevydìlaný kùže. Ten by ti možná mohl pomoct.}
 {135}{}{Aha.}
-{136}{}{Sbohem}
+{136}{}{Sbohem.}
 {137}{}{Není to jeden z tìch pøedváleènejch dovozù? Nech mì hádat, 14mm munice? Ne, nemám.}
 {138}{}{Aha.}
-{139}{}{Sbohem}
+{139}{}{Sbohem.}
 {140}{}{Hele, umím to pøidìlat jenom na loveckou pušku. Takhle je to prostì zkonstruovaný, chápeš?}
 {141}{}{Aha.}
 {142}{}{Sbohem.}

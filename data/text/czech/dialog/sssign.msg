@@ -27,5 +27,4 @@
 {126}{}{No, to je sice trochu pøehnané, ale naprosto srozumitelné.}
 {127}{}{Zpìt.}
 {128}{}{Nic dalšího už èíst nechci.}
-
 {130}{}{Au au hlava bolet. Moc písmena.}

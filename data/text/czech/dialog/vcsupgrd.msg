@@ -71,7 +71,7 @@
 {170}{}{Mùžeš pøestat s tím zatraceným zpíváním?! Pøivádí mì to k šílenství.}
 {171}{}{Máš hezký hlas. Mìl bys cvièit.}
 {172}{}{Co jsi øíkal, že tady dìláš?}
-{173}{}{Vlastnì nic. Promiò, že ruším.}
+{173}{}{Zapomeò na to. Omlouvám se za obtìžování.}
 {174}{}{Dí-dí-díky! To je od tebe hezký.}
 {175}{}{Co jsi øíkal, že tady dìláš?}
 {176}{}{Jen jsem si øíkal, že bys to mìl vìdìt. Mìj se.}

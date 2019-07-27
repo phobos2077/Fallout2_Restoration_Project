@@ -19,23 +19,23 @@
 {175}{}{NO DICE!!!}
 {176}{}{TOO MANY DICE!!!}
 {177}{}{The odds seem right ever since you switched the dice.}
-{178}{}{The odds don't seem quite right.}
-{179}{}{You can't gauge the odds for certain.}
+{178}{}{As chances não são boas.}
+{179}{}{Você não consegue calcular suas chances com certeza.}
 {185}{}{The odds seem about right.}
-{186}{}{You can't gauge the odds for certain.}
-{187}{}{The odds don't seem quite right.}
-{200}{}{::Cheers::}
-{201}{}{::Claps::}
-{202}{}{::Whistles::}
+{186}{}{Você não consegue calcular suas chances com certeza.}
+{187}{}{As chances não são boas.}
+{200}{}{::Assobios::}
+{201}{}{::Palmas::}
+{202}{}{::Assobios::}
 {203}{}{}
 {204}{}{Thought you'd forgotten about us while you were off saving the world.}
 {215}{}{Olá, }
-{216}{}{If you're looking for a little company later...}
+{216}{}{Se precisar de companhia mais tarde...}
 {217}{}{Hey, you...[winks]...you looking to gamble?}
 {218}{}{He looks so...[shivers]...dangerous.}
 {219}{}{Welcome to the casino, }
-{220}{}{Put in a good word with the boss for me?}
-{221}{}{Hello, ma'am. Let me know if I can help you with anything.}
+{220}{}{Fale bem de mim pro chefe, beleza?}
+{221}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
 {222}{}{Looking to gamble, ma'am?}
 {223}{}{She looks so...[shivers]...dangerous.}
 {235}{}{Looks like this one's already gambling with his life.}
@@ -48,9 +48,9 @@
 {250}{}{Hey, muscles. You looking to spend some chips?}
 {251}{}{Hey, champ...[winks]...you looking to gamble?}
 {252}{}{Hey, champ...[smiles]...wanna take a chance?}
-{253}{}{If you're looking for a little company later...}
+{253}{}{Se precisar de companhia mais tarde...}
 {254}{}{I wonder if I should talk to him...}
-{255}{}{Hey, }
+{255}{}{Ei, }
 {256}{}{If you're looking to win some chips, you came to the right place.}
 {257}{}{Lady Luck's in the house tonight... nothing but winners!}
 {258}{}{Step right up, }
@@ -60,8 +60,8 @@
 {262}{}{Looking to gamble, }
 {263}{}{Welcome to the casino, }
 {270}{}{Hey there, movie man. You looking to spend some chips?}
-{271}{}{Hey, }
-{272}{}{Hey, }
+{271}{}{Ei, }
+{272}{}{Ei, }
 {273}{}{If you're looking to win some chips }
 {274}{}{Lady Luck's in the house tonight... nothing but winners!}
 {275}{}{Step right up, }
@@ -117,14 +117,14 @@
 {431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {440}{}{Liga-o por um dia.}
-{441}{}{Call it a night.}
+{441}{}{Isso que é noite!}
 {450}{}{Sorry, this table has been closed. Someone has been tampering with the dice.}
 {451}{}{Sorry sir, this table has been closed. Someone has been tampering with the dice.}
 {452}{}{Sorry ma'am, this table has been closed. Someone has been tampering with the dice.}
 {453}{}{Uhhh, OK.}
 {454}{}{Sorry to hear that. Thanks.}
 {2203}{}{! Welcome to the casino, hero!}
-{2215}{}{. Can I help you with...*anything?*}
+{2215}{}{. Posso te ajudar com *alguma coisa?*}
 {2219}{}{.}
 {2255}{}{. Looking to spend some chips?}
 {2258}{}{, win some chips.}

@@ -2,14 +2,13 @@
 {101}{}{Vidíš Laddie.}
 {102}{}{Tenhle pes se zdá být opravdu inteligentní a ostražitý.}
 {103}{}{Nepochybnì je tento pes urèitì chytøejší než ty.}
-
-{150}{}{HAF!}
+{150}{}{Haf!}
 {151}{}{HAF! HAF!}
 {152}{}{HAF! HAF! HAF!}
 {153}{}{(Tento pes je opravdu rozrušený.)}
 {154}{}{Hezký pejsek.}
 {155}{}{Nevíš, kde je Jonny?}
-{156}{}{Zùstaò tady, Laddie.}
+{156}{}{Stay here, Laddie.}
 {157}{}{Pojïme najít Jonnyho.}
 {158}{}{Myslíš, že se Jonny propadl do té studny, Laddie?}
 {159}{}{Copak pejsku, snažíš se mi nìco øíct?}
@@ -35,7 +34,6 @@
 {183}{}{Šel na západ?}
 {186}{}{HAF?}
 {187}{}{Dobøe, dobøe...  možná nìkde jinde?}
-
 {190}{}{Hrál si na kovboje a indiány a pøitom náhodou spadl do studny a ty po mnì chceš, abych sehnal lano a spustil se dolù pro nìj. Dobøe, tak pojï, Laddie. (Úžasné!)}
 {191}{}{Hrál si na kovboje a indiány a pøitom náhodou spadl do studny a ty po mnì chceš, abych použil lano a spustil se dolù pro nìj. Dobøe, tak pojï, Laddie. (Úžasné!)}
 {195}{}{Dobøe, seženu lano a slezu dolù pro Jonnyho.}

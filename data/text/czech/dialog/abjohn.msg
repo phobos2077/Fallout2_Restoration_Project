@@ -1,12 +1,10 @@
 {100}{}{Vidíš Bratra Johna}
 {101}{}{Vidíš postaršího mnicha z Opatství.}
 {102}{}{Vidíš starého mnicha. Vypadá na èerstvého sedmdesátníka.}
-
 {300}{}{Zdravím, mladíku.}
 {301}{}{Kdo jsi?}
 {302}{}{Slyšel jsi nìkdy nìco o GECKu nebo Vaultu 13?}
-{303}{}{Sbohem.}
-
+{303}{}{Nashle.}
 {400}{}{Jmenuji se John a jsem zde jedním z nejstarších mnichù.}
 {401}{}{Takže, co tu dìláš?}
 {402}{}{Chápu, sbohem.}
@@ -17,8 +15,7 @@
  se takové léky špatnì shánìjí.}
 {407}{}{Možná mám øešení na tvoje srdeèní problémy...}
 {408}{}{To mì mrzí, sbohem.}
-
-{410}{}{Sbohem.}
+{410}{}{Nashle.}
 {411}{}{Opravdu? Chceš mi snad øíct, že MÁŠ u sebe pilulky na srdce?}
 {412}{}{Ano, mám. A bude mi potìšením ti je dát.}
 {413}{}{Jo, mám pilulky na srdce. Mùžeš je mít za $400.}
@@ -31,10 +28,7 @@
 {420}{}{Hmmm, bohužel mi to nic neøíká. Zeptej se Opata, možná bude nìco vìdìt on.}
 {421}{}{To udìlám, díky. Teï se chci zeptat na nìco jiného.}
 {422}{}{Kdybych nebyl tak nemocný, tak bych ti poøádnì nakopal prdel. A TEÏ ODSUD VYPADNI!}
-{423}{}{Fajn, už jdu.}
-
+{423}{}{Fajn, už pùjdu.}
 {500}{}{Ještì jednou díky za ty pilulky na srdce, pøíteli. Hodnì štìstí na cestách.}
-
 {600}{}{Prostì odejdi, prosím.}
-
 {700}{}{Právì jsi Johnovi ukázal, jak je svìt krutý.}

@@ -117,5 +117,5 @@
 {215}{}{Intruder! Do you plan to desecrate this place? Out!}
 {216}{}{Wonderful, sister. So what level are you?}
 {217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
-{218}{}{You gain }
+{218}{}{Você ganhou }
 {219}{}{ experience points for "taking care of" the Hubologist for Merk.}

@@ -1,153 +1,121 @@
-{100}{}{You see a short, swarthy man smiling at you.}
-{101}{}{You see Sajag, the owner and barman of the Golden Gecko.}
-{110}{}{Hello there, stranger. Welcome to the Golden Gecko Tavern, Hotel, and Trading Post. I'm Sajag;
- I run the place. What can I get for you?}
+{100}{}{Você vê um homem baixo e moreno sorrindo para você.}
+{101}{}{Você vê Sajag, dono e barman do Gecko Dourado.}
+{110}{}{Olá, estranho. Bem-vindo à taverna, hotel e posto de troca Gecko Dourado. Sou Sajag; eu comando o lugar. O que vai querer?}
 {111}{}{Oh eh oh?}
-{112}{}{Grink! (point at glass)}
-{113}{}{I'll have a drink.}
-{114}{}{I'd like to buy a round of drinks for the whole bar, to introduce myself.}
-{115}{}{I'd like to trade.}
-{116}{}{I'd like a room for the night.}
-{120}{}{Well, if it's not another dang idiot. Just like Torr. Get the hell out of my bar.}
-{130}{}{You're our kind of people. You came to the right tavern to spend your money. What can I do for
- you, pal?}
-{131}{}{You don't seem to be too popular in this part of town. Well, maybe the jury's still out on you.
- How can I help you?}
-{132}{}{I need some beer.}
-{133}{}{I would like to buy a round of drinks for everyone in the bar.}
-{134}{}{I'd like to trade.}
-{135}{}{I'd like a room for the night.}
-{136}{}{Thanks for your help. Goodbye.}
+{112}{}{Gebida! (aponta para o copo)}
+{113}{}{Vou querer uma bebida.}
+{114}{}{Gostaria de pagar uma rodada de bebidas a todos do bar, para me apresentar.}
+{115}{}{Gostaria de negociar.}
+{116}{}{Gostaria de um quarto para esta noite.}
+{120}{}{Ótimo, se não é mais um idiota maldito. Igualzinho ao Torr. Cai fora do meu bar!}
+{130}{}{Você é um dos nossos. Veio para a taverna certa pra gastar seu dinheiro. O que eu posso fazer por você, amigo?}
+{131}{}{Você não parece ser tão popular nesta parte da cidade... Bem, talvez as opiniões ainda não estejam formadas sobre você. Como posso te ajudar?}
+{132}{}{Preciso de alguma cerveja.}
+{133}{}{Eu adoraria pagar uma rodada de bebidas para todos do bar.}
+{134}{}{Gostaria de negociar.}
+{135}{}{Gostaria de um quarto para esta noite.}
+{136}{}{Obrigado pela ajuda. Tchau.}
 {137}{}{Adeus.}
-{140}{}{One tall mug of Golden Gecko Piss coming up. Only $5 for the best beer north of Redding.}
-{141}{}{You poured me a mug of piss!?!}
-{142}{}{Thanks for the beer. I need some information though.}
-{143}{}{Thanks. That's all I need for now. Goodbye.}
-{150}{}{A round of piss for the whole bar then! Huzzah! That'll be $30. (Big smile)}
-{151}{}{Everyone in here is drinking lizard piss!?!}
-{152}{}{Hope everyone enjoys the beer. Sajag, I need some information.}
-{153}{}{Enjoy your piss, everyone. Goodbye.}
-{160}{}{Looks as though you don't have enough money for that right now. Sorry, friend. No credit here.
- (smiles)}
-{161}{}{Just like one of your kind to try and get something for nothing. No money, no service; now get
- out.}
-{170}{}{Relax, pal; it's just what we call the beer here. (chuckles) This is the Golden Gecko, remember?}
-{171}{}{It's just beer. Golden Gecko, Gecko Piss? Are you slow or what? (shakes his head) Tribals,
- sheesh.}
-{172}{}{Oh. Heh, heh; well, back at Arroyo we actually... Uh, never mind.}
-{173}{}{Oh, I get it. Well, aren't you folks clever.}
-{174}{}{I'm not drinking piss! I don't care where it's being served or what you call it!}
-{180}{}{Well, now that we've got first things first out of the way... how can I help you? (smiles)}
-{181}{}{Nice of you to drink with us lowlifes. (snickers) Just what do you want anyway?}
-{182}{}{I think I'll have another drink.}
-{183}{}{I'd like to buy a round of drinks for all my new friends here.}
+{140}{}{Uma caneca de mijo de Gecko Dourado saindo. Apenas $5 pela melhor cerveja ao norte de Redding.}
+{141}{}{Você me serviu uma caneca de mijo!?!}
+{142}{}{Obrigado pela cerveja. Mas preciso de algumas informações.}
+{143}{}{Obrigado. Isso é tudo que preciso por enquanto. Adeus.}
+{150}{}{Uma rodada de mijo para todos do bar então! Huzzah! Isso vai dar $30. (Sorriso grande)}
+{151}{}{Todos aqui estão tomando mijo de lagarto!?!}
+{152}{}{Espero que todos aproveitem a cerveja. Sajag, preciso de algumas informações.}
+{153}{}{Aproveitem o mijo, todo mundo. Até mais.}
+{160}{}{Parece que você não tem dinheiro suficiente para isso agora. Desculpe, camarada. Não vendemos fiado aqui. (sorri)}
+{161}{}{Igualzinho aos da sua espécie, querendo ter algo por nada. Sem dinheiro, sem serviço; agora cai fora.}
+{170}{}{Relaxa, camarada; É só a maneira que chamamos a cerveja aqui. (ri) Aqui é o Gecko Dourado, lembra?}
+{171}{}{É apenas cerveja. Gecko Dourado, Mijo de Gecko? Você é devagar ou o que? (balança a cabeça) Tribais, sheesh.}
+{172}{}{Oh. Heh, heh; bem, na verdade em Arroyo nós... Hum, deixa pra lá...}
+{173}{}{Ah, Entendi. Vocês são muito espertinhos...}
+{174}{}{Eu não vou beber mijo! Não importa onde esteja sendo servido ou como vocês o chamam!}
+{180}{}{Bem, agora que temos as coisas mais importantes fora do caminho...como posso lhe ajudar? (sorri)}
+{181}{}{Bondade sua beber conosco, a escória. (ri debochando) De qualquer forma, o que você quer?}
+{182}{}{Acho que vou querer mais uma bebida.}
+{183}{}{Gostaria de pagar uma rodada de bebidas para todos os meus novos amigos aqui.}
 {184}{}{Eu tenho algumas perguntas para você.}
-{185}{}{I think that's all I need for now, thanks.}
-{190}{}{Well information's what it's all about, pal. What do you want to know about?}
-{191}{}{Yeah? What the heck do you want to know about?}
-{192}{}{Are there any other settlements nearby?}
-{193}{}{Are there any traders here in Klamath?}
-{194}{}{Anything unusual going on here in Klamath?}
-{195}{}{I'm looking for a job. Any leads?}
-{196}{}{Where can I get healing supplies?}
-{197}{}{I'm looking for something called a Garden of Eden Creation Kit. Know where I might find such a
- thing?}
-{198}{}{That's all I need to know for now. But there's something else I need.}
-{199}{}{I guess, that's enough info for now.}
-{210}{}{Hey there, friend. A little bird told me that you know where old Whiskey Bob has his still. I
- sure would like to know where that is.}
-{211}{}{You're mistaken. I've never met anyone named Whiskey.}
-{212}{}{I don't think I want to tell you that.}
-{213}{}{Why do you want to know where that is?}
-{214}{}{I might know that. What's it worth to you?}
-{215}{}{Can't stand a little competition, huh?}
-{220}{}{Forget I mentioned it then. Not a big thing. (smiles)}
-{230}{}{Well, Bob's getting in the way of certain business partners. I don't mind the competition.
- (grins) But they sure do. I'll pay $50 to a smart cookie that can tell me where the still is. No other
- action required. (smiles)}
-{231}{}{The story is that Bob's homemade hootch is making people sick. I'll pay $50 just to know where
- the still is, and then we can get the town council to shut him down. (smiles warmly)}
-{232}{}{$50 is a good price -- especially when I don't need to do anything myself to get it.
- (you give directions to the still)}
-{233}{}{I don't think I should tell you where the still is.}
-{234}{}{I just don't think Bob's whiskey is making people sick.}
-{235}{}{I'll tell you where it is for $50. But, I want to hear more about your business partners.
- (you give directions to the still)}
-{240}{}{Thanks for the information, friend. I'll make sure it's put to good use. (smiles) Here's your
- $50 and a piss on the house, too. Anything else I can help you with?}
-{241}{}{I think I'd like to have a nice piss to celebrate.}
-{242}{}{How about a piss for all of my friends here?}
-{243}{}{I have some questions that I'd like to ask you.}
-{244}{}{That's all I need for now. Goodbye.}
-{250}{}{Well, let's just say that I have connections with some important people south of here -- in the
- Den.}
-{251}{}{Well, I'll keep that in mind. Thanks for the money.}
-{260}{}{I've got all kinds of things right here, kid: healing supplies, booze, all kinds of stuff. I've
- got special sources, ya' might say. Always willing to look at a good gecko pelt, too.}
-{261}{}{Let me see what you've got.}
-{262}{}{I guess I don't need anything right now. But I do have some questions.}
-{263}{}{Special sources? Then you should be able to give me a really good price.}
-{270}{}{Always plenty of rooms here for our friends. Only going to cost you $20 for eight hours of safe
- and comfortable shut-eye. A whole room to yourself. Have a party.}
-{271}{}{We don't have any rooms here, pal. Sorry, full up.}
-{272}{}{$20 sounds like a fair price to me. I'll take it.}
-{273}{}{I don't think I'll take you up on that offer just now, Sajag. What about something else?}
-{280}{}{Hey pal, thanks for the information. My friends down in the Den aren't worried about any
- competition anymore. (evil grin)}
-{281}{}{Thanks for the information, friend. The town council, um, voted, to shut down Whiskey Bob's
- still. He won't be poisoning anyone else for a while. (sincere looking smile)}
-{282}{}{I'm glad that I was able to help; of course, the $50 didn't hurt, either.}
-{283}{}{Well, I'm sure I'll sleep easier knowing that Klamath is safe from Bob's hooch.}
-{284}{}{No skin off my back, pal.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's }
-{291}{}{Tell me about the brahmin-mutilating bugmen, please.}
-{292}{}{Tell me about the RUS's, please.}
-{293}{}{Tell me about the walking spirit, please.}
-{294}{}{I'm not surprised that a trapper's gone missing with all this excitement, but tell me about him,
- too.}
-{295}{}{I'd like to ask about other things.}
-{296}{}{I don't want to know about anything else.}
-{300}{}{Well, the Dunton brothers are always looking for someone to do their dirty work for them. And
- for that matter, Torr, the Buckner boy, is scared to go tend the brahmin at night on account of the
- bugmen.}
-{301}{}{Thanks; I have another question for you.}
-{302}{}{I guess that's all I need to know. But I do need something else.}
-{303}{}{That's all I need for now. Goodbye.}
-{310}{}{There are a couple of settlements nearby. There are some tribals northwest of us -- but I 'spose
- you know about them. (smiles) Then there's the Den a few days southeast of here -- that's the closest --
- and there's a mining town called Redding quite a ways to the southeast.}
-{320}{}{Not too many traders in town. Just Vic, that I can think of. He's got a house in the east
- part of town. He used to trade prewar stuff at the Den and to tribals. Haven't seen him for a bit,
- though.}
-{330}{}{Well, I don't have prices like this for just anybody. It's not easy to get this stuff from the
- Den.}
-{331}{}{I'd like to make you one of my special friends, sweetheart. (grins) It's not easy to get this
- stuff from the Den. Tell you what -- I'll give you a special price on what I've got.}
-{340}{}{I don't know what you're talking about, pal. Do you want to trade or not?}
-{341}{}{Yeah, sure I want to trade. Sorry for asking.}
-{342}{}{I guess I don't want to trade with you after all.}
-{343}{}{You've got connections to the Den. Come on - I know you can make me a better deal.}
-{350}{}{Well, they say critters that look like man-sized bugs walking around on two legs are
- tearing open brahmin in the middle of the night. Only Torr's caught a good look at them though. Scary,
- huh?}
-{360}{}{Some say that there's a gigantic rat, the size of a Corvega, that rules over all the rats over
- in Trapper Town, west of here. They say that it lives in an old mine underneath Trapper Town and
- that all the other rats bring it any shiny objects that they find. (licks his lips) Mmm, shiny baubles.}
-{370}{}{Well, west of town there's a canyon. A few months back there was a bright light coming from there
- and then critters started disappearing. Tracks lead into the canyon, but none lead out. Spooky, huh?
- Some have heard a weird whining sound echoing off the canyon walls there, too.}
-{380}{}{Well, Smiley was one of the best trappers there ever was. He up and left Mrs. Buckner one day,
- and said he was going to find where all the golden geckos come from. Said he'd be rich if he could
- find it. But he hasn't come back -- and that was a while back, too.}
-{381}{}{That's incredible. Tell me more local news.}
-{382}{}{That's all I need to know for now.}
-{390}{}{Garden of Eden, huh? Well, Jenny's the closest I've been to the Garden of Eden. Only a few
- dollars to create that. (smiles) Sounds nice, but I don't know where you'd find it. }
-{391}{}{Well, that's not quite what I was looking for. Let me ask you something else.}
-{392}{}{That's all I need to know for now.}
-{2900}{}{Things are pretty quiet around here now, actually.}
-{2901}{}{brahmin-mutilating bugmen}
-{2902}{}{rodents of unusual size}
-{2903}{}{a walking spirit}
-{2904}{}{a missing trapper}
-{2905}{}{. Klamath's become a real hot spot lately.}
+{185}{}{Acho que isso é tudo que preciso por enquanto, obrigado.}
+{190}{}{Bem, é tudo informação no fim das contas, camarada. Sobre o que você quer saber?}
+{191}{}{É? Sobre o que diabos você quer saber?}
+{192}{}{Existem outras cidades nas proximidades?}
+{193}{}{Existem comerciantes aqui em Klamath?}
+{194}{}{Tem alguma coisa incomum acontecendo aqui em Klamath?}
+{195}{}{Estou procurando um emprego. Alguma idéia?}
+{196}{}{Onde posso obter suprimentos de cura?}
+{197}{}{Estou à procura de uma coisa chamada Garden of Eden Creation Kit. Sabe onde posso encontrar tal item?}
+{198}{}{Isso é tudo que eu queria saber por enquanto. Mas há outra coisa que preciso.}
+{199}{}{Eu acho que isso é informação suficiente por enquanto.}
+{210}{}{Hey, colega. Um passarinho me contou que você sabe onde fica o alambique do velho Whiskey Bob. Eu com certeza gostaria de saber onde é.}
+{211}{}{Você está enganado. Nunca conheci ninguém chamado Whiskey.}
+{212}{}{Eu não acho que quero te dizer isso.}
+{213}{}{Por que você quer saber onde é?}
+{214}{}{Talvez eu saiba. Qual o valor disso pra você?}
+{215}{}{Não suporta um pouco de concorrência, né?}
+{220}{}{Esqueça o que eu disse então. Não é grande coisa. (sorri)}
+{230}{}{Bem, Bob está ficando no caminho de alguns parceiros de negócios. Eu não me importo com a concorrência. (sorri ironicamente) Mas eles com certeza sim. Pagarei $50 pra alguém inteligente que possa me dizer onde o alambique está. Nenhuma outra ação é necessária. (sorri)}
+{231}{}{Acontece que a bebida caseira do Bob está deixando as pessoas doentes. Pagarei $50 só para saber onde está o alambique, e então poderemos ir ao conselho da cidade para fechá-lo. (sorri calorosamente)}
+{232}{}{$50 é um bom preço -- especialmente quando não preciso fazer nada eu mesmo para conseguir. (você dá as direções para o alambique)}
+{233}{}{Eu não acho que devo lhe dizer onde fica o alambique.}
+{234}{}{Eu não acho que o whiskey do Bob esteja deixando as pessoas doentes.}
+{235}{}{Eu te digo onde está por $50. Mas quero ouvir mais sobre seus parceiros de negócios. (você dá as direções para o alambique)}
+{240}{}{Obrigado pela informação, amigo(a). Terei certeza de que será bem utilizada. (sorri) Aqui está seus $50 e uma urina por conta da casa também. Algo mais em que possa ajudar??}
+{241}{}{Acho que gostaria de uma boa caneca de mijo para comemorar.}
+{242}{}{Que tal uma caneca de mijo para todos os meus amigos aqui?}
+{243}{}{Eu tenho algumas perguntas que gostaria de fazer.}
+{244}{}{Isso é tudo que preciso por enquanto. Adeus.}
+{250}{}{Bem, vamos dizer que eu tenho contato com algumas pessoas importantes ao sul daqui -- no Den.}
+{251}{}{Bem, vou guardar essa informação. Valeu pelo dinheiro.}
+{260}{}{Eu tenho tudo que precisar aqui, criança: suplimentos de cura, cerveja, qualquer tipo de coisa. Tenho fontes especiais, pode-se dizer. Sempre disposto a procurar um bom couro de gecko também.}
+{261}{}{Deixe-me ver o que você tem.}
+{262}{}{Acho que não preciso de nada agora. Mas eu tenho algumas perguntas.}
+{263}{}{Recursos especiais? Então você deve estar disposto a me dar um preço muito bom.}
+{270}{}{Sempre tem muitos quartos aqui para nossos amigos. Só vai custar $20 por oito horas de sono confortável e seguro. Um quarto inteiro para si mesmo. Faça a festa.}
+{271}{}{Não temos nenhum quarto aqui, camarada. Desculpe, estamos cheios.}
+{272}{}{$20 parece um preço justo pra mim. Vou querer.}
+{273}{}{Eu não acho que vou querer aceitar esta oferta por enquanto, Sajag. Que tal algo mais?}
+{280}{}{Hey camarada, obrigado pela informação. Meus amigos la de baixo no Den não estão mais preocupado com nenhuma competição. (sorriso maligno)}
+{281}{}{Obrigado pela informação, amigo(a). O conselho da cidade, hum, votou, para desligar o alambique do Whiskey Bob. Ele não vai envenenar mais ninguém por um tempo. (sorriso que aparenta ser sincero)}
+{282}{}{Estou feliz por ter sido capaz de ajudá-lo; de fato, os $50 não machucaram também.}
+{283}{}{Bem, Tenho certeza de que dormirei mais fácil sabendo que Klamath está salvo da bebida do Bob.}
+{284}{}{Sem peso na minha consciência, camarada.}
+{290}{}{Bem, vamos ver. Todos os tipos de coisas acontecendo na cidade recentemente.}
+{291}{}{Diga-me sobre os homens-inseto multiladores de brahmin, por favor.}
+{292}{}{Diga-me sobre os Ratos, por favor.}
+{293}{}{Diga-me sobre o espírito ambulante, por favor.}
+{294}{}{Não me surpreende que um caçador desapareceu com toda essa agitação, mas me diga sobre ele também.}
+{295}{}{Gostaria de perguntar sobre outras coisas.}
+{296}{}{Não quero saber de mais nada.}
+{300}{}{Bem, os irmãos Dunton estão sempre procurando por alguém para fazer o trabalho sujo para eles. E
+ por falar nisso, Torr, o rapaz Buckner, está com medo de ir vigiar os brahmins à noite por conta dos
+ homens-inseto.}
+{301}{}{Obrigado; tenho outra pergunta pra te fazer.}
+{302}{}{Acho que isso é tudo que preciso saber. Mas preciso de algo mais.}
+{303}{}{Isso é tudo que preciso por enquanto. Adeus.}
+{310}{}{Há um par de estabelecimentos nas proximidades. Existem alguns tribais ao noroeste de nós
+ -- mas eu suponho que você saiba sobre eles. (sorri) Então, tem o Den a poucos dias daqui no sudeste
+ -- Este é o mais próximo -- e há uma cidade de mineiração chamada Redding também no sudeste, mas você terá um caminho mais longo a percorrer.}
+{320}{}{Não há muitos comerciantes na cidade. Só consigo pensar no Vic. Ele tem uma casa na parte leste da cidade. Ele costumava negociar coisas de antes da guerra no Den e com os tribais. Apesar de eu não o ver há algum tempo.}
+{330}{}{Bem, eu não faço preços como este para qualquer pessoa. Não é fácil conseguir estas coisas do Den.}
+{331}{}{Gostaria de fazer de você uma das minhas amigas especiais, querida. (sorri) Não é fácil conseguir estas coisas do Den.
+ Sabe -- Te darei um preço especial pelas coisas que tenho.}
+{340}{}{Não sei do que você está falando, camarada. Você quer negociar ou não?}
+{341}{}{É, Claro que quero negociar. Desculpe por perguntar.}
+{342}{}{Eu acho que eu não quero negociar com você afinal.}
+{343}{}{Você tem contato com o Den. Vamos lá - Eu sei que você pode me fazer uma proposta melhor.}
+{350}{}{Bem, Dizem que criaturas parecidas com insetos de tamanho humano que andam por ai sobre duas pernas, estão rasgando brahmins no meio da noite. Embora só o Torr tenha dado uma boa olhada neles. Assustador, não?}
+{360}{}{Alguns dizem que existe um rato gigantesco, do tamanho de um Carro, que comanda todos os ratos no Bairro dos caçadores, a oeste daqui. Dizem que ele vive em uma mina antiga, embaixo do Bairro dos caçadores e todos os ratos levam a ele qualquer objeto brilhante que encontram. (lambe os lábios) Mmm, bugigangas brilhantes.}
+{370}{}{Bem, a oeste da cidade tem um desfiladeiro. Há alguns meses atrás tinha uma luz brilhante vindo de lá e em seguida, criaturas começaram a desaparecer. Trilhas te levam para dentro do desfiladeiro, mas nenhuma para fora. Assustador, hãn? Alguns ouviram um som estranho de choro ecoando pelas paredes de lá também.}
+{380}{}{Bem, Smiley foi um dos melhores caçadores que já existiu. Um dia ele partiu e deixou a Sra. Buckner, ele falou que iria procurar o lugar de onde os geckos dourados viam. Disse que seria rico se pudesse encontrar. Mas ele não voltou -- isso foi há um tempo atrás também.}
+{381}{}{Isso é incrivel. Diga-me mais noticias do local.}
+{382}{}{Isso é tudo que preciso saber por enquanto.}
+{390}{}{Garden of Eden, hein? Bem, Jenny é o mais próximo que cheguei do Garden of Eden. Apenas alguns dollares para criá-lo. (sorri) Parece ótimo, Mas não sei onde você poderia achar. }
+{391}{}{Certo, isso não é bem o que eu estava procurando. Deixe-me perguntar algo mais.}
+{392}{}{Isso é tudo que preciso saber por enquanto.}
+{2900}{}{(conta nos dedos dele)}
+{2901}{}{ Há homens-inseto mutiladores de brahmins}
+{2902}{}{ roedores de tamanho incomum}
+{2903}{}{ um espírito ambulante}
+{2904}{}{ e um caçador desaparecido}
+{2905}{}{. Klamath está realmente se tornando um ponto quente ultimamente.}

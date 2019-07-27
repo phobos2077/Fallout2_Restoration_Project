@@ -15,7 +15,7 @@
 {111}{}{You need a guard, huh?}
 {112}{}{What does this caravan transport?}
 {113}{}{Why are you waiting until the 11th?}
-{114}{}{I don't think that's for me. Goodbye.}
+{114}{}{Não acho que isso seja pra mim. Tchau.}
 {115}{}{Damn. I hate it when that happens.}
 {116}{}{Same job. Different day.}
 {117}{}{Nothing's ever easy.}

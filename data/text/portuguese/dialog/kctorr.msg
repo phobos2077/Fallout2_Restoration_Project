@@ -1,156 +1,154 @@
-{100}{}{You see a very large man covered in dust with a small smile and a blank look on his face.}
-{101}{}{You see Torr Buckner, the town simpleton.}
-{102}{}{You see a large, muscular man in dirty clothing, covered with dirt and dust,
- with a beatific smile upon his face.}
-{110}{}{You bad. You hurt Torr. Go away now!}
-{111}{}{Go bad person! No hurt Torr.}
-{112}{}{Owwww! Go away!}
-{113}{}{Stop hurt Torr.}
-{114}{}{Torr good. No hurt Torr.}
-{115}{}{Torr hurt. Bad mans! Bad mans go away!}
-{120}{}{Torr help! (Please help me. There's some sort of creature preventing me from escaping from this
- place.)}
-{121}{}{Torr help!}
-{122}{}{ Torr Help. (I'm coming to help you, Torr. Just hold on a bit longer!)}
-{123}{}{I'm trying to help you, Torr.}
-{130}{}{Squea Squea bad! Hep Torr! (Watch out for the Spirit that Walks! We can talk after you get me
- out of here.)}
-{131}{}{Squea Squea! Ack! Spirit Bad! Hep Torr! Torr go now!}
-{132}{}{Ook Torr. (Sound thinking, Torr. Let's get out of here.)}
-{133}{}{We can talk later. Let's just get out of here now.}
-{140}{}{Me Torr. (I'm Torr. Can I help you with anything?)}
-{141}{}{Me Torr.}
-{142}{}{You Torr. (Hello, Torr. I do have a few questions for you.)}
-{143}{}{Nice to meet you, Torr. Anything interesting happening here lately?}
-{144}{}{I am here about the brah- err, I mean moo-moos.}
-{150}{}{Me guard moo-moos from bugmen. (I guard our family's brahmin herd from ferocious nocturnal
- attacks by bipedal, carapaced creatures that I call bugmen.)}
-{151}{}{Me guard moo-moos from bugmen.}
-{152}{}{Gugmen? (Bugmen? Well, that seems an appropriate appellation from your description. Tell me
- more about that.)}
-{153}{}{Bugmen?}
-{160}{}{Bugmen take moo-moos at night. Torr scared! Hep Torr? (Well, as I said, they are nocturnal in
- their feeding habits. I sure could use some assistance in guarding the brahmin. Will you kill any
- bugmen that you see near the brahmin?)}
-{161}{}{Bugmen take moo-moos at night. Torr scared! Hep Torr?}
-{162}{}{Hep Torr hep moo-moo. (Yes, of course I'll help you fend off the predation of your family's
- brahmin by these nefarious bugmen.)}
-{163}{}{Bugmen bad. No hep Torr. (Hmm, I don't think I can help you with the bugmen just now, Torr.
- But I do wish you the very best of luck with them. Goodbye.)}
-{164}{}{Uh... sure, Torr. I can help you guard the brahmin.}
-{165}{}{I can't (shaking head at Torr) help you with that. Goodbye.}
-{166}{}{Traygu Oo? (Before we get into that Torr, do you know of a trader that lives here in town?)}
-{170}{}{You hep Torr. Moo-moos field (points east of here) dark yes? (smiles) (Thanks for your
- assistance. I can really use your help tonight.)}
-{171}{}{You hep Torr. Moo-moos field. (points east of here) dark yes? (smiles)}
-{172}{}{ Hep Torr. (I'll meet you in the pasture to the east of downtown at sunset.)}
-{173}{}{Torr? (I'll help you guard your brahmin, but I have some other questions for you, as well.)}
-{174}{}{I'll help you guard the Brahmin tonight, Torr. See you in the pasture east of town, right around
- sunset. Goodbye.}
-{175}{}{I can't help you guard the brahmin tonight, Torr. Goodbye.}
-{180}{}{Torr tell? (What would you like to know, my friend?)}
-{181}{}{ here! (Tell me what's going on around here.)}
-{182}{}{ Zzzzzzz. Ook? (I need a place to stay, please.)}
-{183}{}{Want! (you point at things)(Where can I barter?)}
-{184}{}{Bar-ba Eden? (Have you ever heard of a Garden of Eden Creation Kit?)}
-{185}{}{Go Torr. (That's all I need to know for now. Goodbye, Torr.)}
-{190}{}{Ook! Ugmen, Ulik ribal, Smiley mook. (Well, there's my bugmen problem. Then there's Sulik, the
- tribal, that my mom is making work off a debt -- I think sis is in love with him. Mom's boyfriend,
- a fellow named Smiley, is missing someplace out to the west. Quite exciting here, lately.)}
-{191}{}{Torr? (There is a lot going on here. Let me ask you something else.)}
-{192}{}{Ook! (That's enough information for now. Goodbye.)}
-{200}{}{Zzzzz? Torr Zzzzz. (Well, you're welcome to sleep in my room -- no charge.)}
-{201}{}{Torr Zzzzzz? (You'll let me stay with you? That's very generous of you; I'll take you up on that
- right now. I'm all done in. Thanks.)}
-{202}{}{Zzzzz? (I don't think I need to sleep right now. Maybe another time. I do have some other
- questions for you, though.)}
-{203}{}{Zzzzz No Torr. (I don't really want to sleep now. Thanks for your generous offer, though.
- Goodbye for now, my friend.)}
-{210}{}{Uckner! Zoogy (I think you'll get the best prices right here at my family's place. You'll only
- get laughed at in the Golden Gecko.)}
-{211}{}{Uckner Zoogy? (Thanks. I'll do my shopping here. Let me ask you something else.)}
-{212}{}{Zoogy no. (Good advice. I don't think I need anything else right now, though. Goodbye.)}
-{220}{}{Jeannie? Gick Vic (So you want a GECK, huh? Weren't those originally issued to vaults? I don't
- know where you'd find one, but if anyone does it would be Vic, the trader. He specializes in prewar
- things. He lives in the northeast part of Klamath.)}
-{221}{}{Bellows, Gick Vic? (Thanks for the low down on that. I'll have to give Vic a try. Let me ask
- you something else.)}
-{222}{}{Roger? Gick Vic, Haji! (Thanks; I think I'll go look for him now. Goodbye.)}
-{229}{}{Torr like }
-{230}{}{. Torr thank. Bugmen bad, no let bugmen eat moo-moos! (Thanks so much for helping me out. These
- bugmen give me the creeping willies. I hope we can keep any brahmin from being lost.)}
-{231}{}{. Torr thank. Bugmen bad, no let bugmen eat moo-moos!}
-{232}{}{Torr. (I'm sure that they won't take your brahmin if we're both here.)}
-{233}{}{I hope we can put a stop to these things attacking your moo-moos. Uh, I mean brahmin. I don't
- think anything would attack with both of us here.}
-{234}{}{Actually, I'm here to warn you. I saw some Bugmen just on the other side of that rock. As a
- friend, I'll watch the moo-moos for you, while you run for help.}
-{240}{}{Ook? Hep moo-moos hep Torr? No bugmen! Bugmen bad! (Are you here to help me guard the brahmin
- from the assault of the Bugmen?)}
-{241}{}{Ook? Hep moo-moos hep Torr? No bugmen! Bugmen bad!}
-{242}{}{ hep moo-moos hep Torr (Yes, I'm here to help you guard the brahmin against the bugmen. They
- won't get one of them with the two of us on the job.)}
-{243}{}{No hep. (I'm sorry, I'm just wandering around. I'm not really here to help you. Goodbye.)}
-{244}{}{Uh, yes; I'm here to help you guard the brahmin -- that is, the moo-moos -- from the bugmen.}
-{245}{}{Actually, I'm here to warn you. I saw some bugmen just on the other side of that rock. As a
- friend, I'll watch the moo-moos for you, while you run for help.}
-{246}{}{Sorry, Torr. I'm too busy to stand around with a bunch of brahmin, whether they've got two legs
- or four.}
-{249}{}{Torr love }
-{250}{}{. Torr love ma. Torr love fa. (I'm so happy you found me. I was really thinking that I was
- going to buy the farm that time.)}
-{251}{}{. Torr love ma. Torr love fa.}
-{252}{}{Torr good. (It wasn't anything, really. I'm sure you'd have done the same for me. Let me ask
- you something, though.)}
-{253}{}{Torr heh, heh, heh. (Well, you looked pretty funny there, stranded by that automaton. Just be
- more careful next time. Goodbye.)}
-{254}{}{Torr, you be careful now, okay? Okay, then. Goodbye, Torr.}
-{255}{}{You have no idea what I'm saying, do you? You stupid moron. You almost got me killed. Goodbye,
- and good riddance.}
-{260}{}{Bugmen bad. Torr scared.}
-{261}{}{Torr see bugmen hurt moo-moo.}
-{262}{}{Moo-moos hurt!}
-{263}{}{Bugmen come from canyon.}
-{264}{}{Torr see dead bugmen.}
+{100}{}{Você ve um homem muito grande coberto com poeira com um pequeno sorriso e um olhar branco em sua face.}
+{101}{}{Você vê Torr Buckner, o pateta da cidade.}
+{102}{}{Você vê um grande, e musculoso homem numa roupa suja, coberto com sujeira e poeira, com um bondoso sorriso em sua face.}
+{110}{}{Você mal. Você machuca Torr. Vá embora agora!}
+{111}{}{Vai má pessoa! Não Machuca Torr.}
+{112}{}{Owwww! Vai embora!}
+{113}{}{Para de machucar Torr.}
+{114}{}{Torr bom. Nao machuca Torr.}
+{115}{}{Torr Ferido. Homens maus! homens maus vão embora!}
+{120}{}{Torr Ajuda! (Por favor me ajude. Tem uma especie de criatura me impedindo de escapar desse lugar.)}
+{121}{}{Torr ajuda!}
+{122}{}{Torr ajuda. (Estou indo te salvar, Torr. Só aguente um pouco mais!)}
+{123}{}{Estou tentando te ajudar, Torr.}
+{130}{}{Squea Squea mau! juda Torr! (Cuidado com o espírito que anda! Nós podemos conversar depois
+ que você me tirar daqui.)}
+{131}{}{Squea Squea! Ack! Espírito ruim! juda Torr! Torr vai agora!}
+{132}{}{Ook Torr. (Parece estar pensando, Torr. Vamos embora daqui.)}
+{133}{}{Podemos conversar depois. Vamos sair daqui agora.}
+{140}{}{Eu Torr. (Sou o Torr. Posso te ajudar com algo?)}
+{141}{}{Eu Torr.}
+{142}{}{Você Torr. (Olá, Torr. Eu tenho algumas perguntas pra você.)}
+{143}{}{Prazer te ver, Torr. Algo interessante acontecendo aqui ultimamente?}
+{144}{}{Estou aqui por causa dos brah- err, Eu digo moo-moos.}
+{150}{}{Eu protege moo-moos do homem-inseto. (Eu protejo a manada de brahmin dos ataques ferozes noturnos
+ de umas criaturas bipedes, encarapaçadas que eu chamo de homem-inseto.)}
+{151}{}{Eu proteger moo-moos dos homem-inseto.}
+{152}{}{Bobem-inseto? (homem-inseto? Bem, isso parece ter uma apelação apropriada a sua descrição. Diga-me
+ mais sobre isso.)}
+{153}{}{homem-inseto?}
+{160}{}{homem-inseto leva moo-moos de noite. Torr assustado! Ajud Torr? (Bem, como eu disse, eles são noturnos em
+ seus habitos alimentares. Eu concerteza poderia usar alguma ajuda para proteger os brahmin. Você poderia matar qualquer
+ homem-inseto que você ver perto dos brahmin?)}
+{161}{}{Homem-inseto leva moo-moos de noite. Torr Assustado! Ajud Torr?}
+{162}{}{Ajud Torr Ajudar moo-moo. (Sim, Com certeza irei ajudá-lo a afastar a predação dos 
+ brahmin da sua familia desses nefastos homem-inseto.)}
+{163}{}{Homem-inseto mau. Nao aju´ar Torr. (Hmm, Não acho que poderei te ajudar com o homem-inseto agora, Torr.
+ Mas te desejo a melhor de toda a sorte com eles. Adeus.)}
+{164}{}{Uh...claro, Torr. Eu posso te ajudar a proteger os brahmin.}
+{165}{}{Não posso(Balançando a cabeça para Torr) Ajudá-lo com isso. Adeus.}
+{166}{}{Traygu Oo? (Antes de entrarmos nessa Torr, Você conhece algum trader que vive aqui na cidade?)}
+{170}{}{Você ajud Torr.Campo dos Moo-moos(Aponta a leste daqui) escuro sim? (Sorri) (Obrigado pela sua ajuda.
+ eu poderia usar muito a sua ajuda de noite.)}
+{171}{}{Você ajud Torr.Campo dos Moo-moos(Aponta a leste daqui) escuro sim? (Sorri)}
+{172}{}{ Ajud Torr. (Te encontrarei no pasto a leste da cidade ao por do sol.)}
+{173}{}{Torr? (Irei lhe ajudar a proteger seus brahmin, mas eu tenho outras perguntas pra voce ,também.)}
+{174}{}{Irei lhe ajudar a proteger os Brahmin a noite, Torr. te encontro no pasto a leste da cidade, Bem no 
+pôr do sol. Tchau.}
+{175}{}{Não posso te ajudar a proteger os brahmin essa noite, Torr. Tchau.}
+{180}{}{Torr diz? (O que você gostaria de saber, meu amigo?)}
+{181}{}{ Aqui! (Diga-me os que está acontecendo por aqui.)}
+{182}{}{ Zzzzzzz. Ook? (Preciso de um lugar pra ficar, por favor.)}
+{183}{}{Quero! (Você aponta pras coisas)(Onde eu posso trocar?)}
+{184}{}{Bar-ba Eden? (Já ouviu falar do Garden of Eden Creation Kit?)}
+{185}{}{Vai Torr. (Isso é tudo que eu preciso saber por agora. Tchau, Torr.)}
+{190}{}{Ook! Ugmen, Ulik ribal, Smiley mook. (Bem, Tem meu problema com os Homem-inseto. E tem o Sulik, o
+ tribal, que a minha mãe está pagando um débito pra ele -— acho que a minha mana está apaixonada por ele. Namorado da mãe,
+ um cara chamado Smiley, está perdido em algum lugar do oeste. Muito excitante aqui, ultimamente.)}
+{191}{}{Torr? (Tem muita coisa acontecendo aqui. Deixe me te perguntar sobre outra coisa.)}
+{192}{}{Ook! (Isso é bastante informação por enquanto. Tchau.)}
+{200}{}{Zzzzz? Torr Zzzzz. (Bem, Você é bem vindo a dormir no meu quarto -— de graça.)}
+{201}{}{Torr Zzzzzz? (Você me deixa ficar com você? isso e muito generoso de sua parte; Vou levá-lo nesse instanteI'll take you up on that
+# right now. Já estou pronto. Obrigado.)}
+{202}{}{Zzzzz? (Não acho que preciso dormir agora. Talvez outra hora. Entretanto eu tenho outras
+Perguntas pra você.)}
+{203}{}{Zzzzz No Torr. (Eu não quero dormir agora. Mas obrigado pela sua generosa oferta.
+ Adeus por enquanto, meu amigo.)}
+{210}{}{Uckner! Zoogy (Acho que você conseguirá os melhores preços aqui no lugar da familia. Só vão rir
+ de você lá no golden gecko.)}
+{211}{}{Uckner Zoogy? (Obrigado. Eu faço minhas compras aqui. Deixe-me te perguntar outra coisa.)}
+{212}{}{Zoogy não. (Bom aviso. Eu acho que não preciso de mais nada tambem, though. Tchau.)}
+{220}{}{Jeannie? Gick Vic (Então você quer um GECK, huh? Esses não eram originalmente permitidos nas vaults? Não sei
+ onde você pode encontrar um, Mas se alguém creio que alguem sabe, o negociante. Ele é especializado em coisas da
+ pré-guerra. Ele vive na parte noroeste de Klamath.)}
+{221}{}{Bellows, Gick Vic? (Obrigado por essa dica. irei tentar com o Vic. Deixe-me 
+ te perguntar outra coisa.)}
+{222}{}{Roger? Gick Vic, Haji! (Obrigado; Acho que vou vê-lo agora. Tchau.)}
+{229}{}{Torr gostar }
+{230}{}{. Torr Agradece. Homem-inseto mau, Não deixe homem-inseto comer moo-moos! (Muito obrigado por me ajudar. Esses
+ Homem-insetos me dão arrepios. Espero que não possamos perder nenhum brahmin.)}
+{231}{}{. Torr Agradece. Homem-inseto mau, Não deixar homem-inseto comer moo-moos!}
+{232}{}{Torr. (Tenho certeza que eles não irão pegar seus brahmins se nós dois estivermos aqui.)}
+{233}{}{Espero que possamos parar esses ataques nos seus moo-moos. Uh, eu digo brahmin. Não acho
+ que alguma coisa iria atacar com nós dois aqui.}
+{234}{}{Na verdade, Vim aqui pra te avisar. Vi alguns Homens-inseto do outro lado daquela pedra. Como seu
+ amigo, Eu vigio os moo-moos pra você, enquanto você corre pra pedir ajuda.}
+{240}{}{Ook? juda moo-moos judá Torr? Não Homem-inseto! Homen-inseto mau! (Você está aqui pra me ajudar a vigiar os brahmin
+ do assalto dos Homem-inseto?)}
+{241}{}{Ook? juda moo-moos judá Torr? Não Homem-inseto! Homen-inseto mau!}
+{242}{}{ juda moo-moos judar Torr (Sim, Estou aqui para ajudar a vigiar os brahmin contra os homem-inseto. Eles
+ não irão pegar nenhum deles com nós dois fazendo o trabalho.)}
+{243}{}{Não juda. (Me desculpe, SAo estou andando por ai. Não estou aqui para te ajudar. tchau.)}
+{244}{}{Uh, sim; Estou aqui para te ajudar a protejer os brahmin -- é isso, os moo-moos -- do homem-inseto.}
+{245}{}{Na verdade, Vim aqui pra te avisar. Vi alguns Homens-inseto do outro lado daquela pedra. Como seu
+ amigo, Eu vigio os moo-moos pra você, enquanto você corre pra pedir ajuda.}
+{246}{}{Desculpe, Torr. estou muito ocupado pra ficar parado com um monte de brahmins, sejam que tenham duas pernas 
+ou quatro.}
+{249}{}{Torr amar }
+{250}{}{. Torr amar ma. Torr amar pa. (Estou tão feliz que você me encontrou. Eu estava mesmo pensando que eu iria
+ comprar a fazenda aquela hora.)}
+{251}{}{. Torr amar ma. Torr amar pa.}
+{252}{}{Torr bom. (Não foi nada, mesmo. tenho certeza que você faria o mesmo por mim. deixe-me te perguntar
+ algo, aliás.)}
+{253}{}{Torr heh, heh, heh. (bem, você pareceu bem engraçado ali, agarrado com aquele autômato. tenha
+ mais cuidado da proxima vez. Tchau.)}
+{254}{}{Torr, você ter cuidado agora, okay? Okay, então. Tchau, Torr.}
+{255}{}{Você não tem ídeia do que eu estou dizendo, tem? seu idiota estúpido. Você quase me matou. Tchau,
+ e boa viagem.}
+{260}{}{Homem-inseto mau. Torr assustado.}
+{261}{}{Torr viu homem-inseto machucar moo-moo.}
+{262}{}{Moo-moos machucado!}
+{263}{}{Homem-inseto vem do desfiladeiro.}
+{264}{}{Torr vê homem-inseto morto.}
 {265}{}{Heh heh heh.}
 {266}{}{Leonard?}
-{267}{}{Duntons bad.}
-{268}{}{Jerky good.}
-{269}{}{Torr strong.}
+{267}{}{Duntons mau.}
+{268}{}{Jerky bom.}
+{269}{}{Torr forte.}
 {270}{}{Ook?}
 {271}{}{Zugzug.}
 {272}{}{Sorbew?}
 {273}{}{Aroo?}
-{274}{}{I gotta pee.}
+{274}{}{Tenho que mijar.}
 {275}{}{Olá.}
 {276}{}{Oi.}
 {277}{}{Torr!}
-{279}{}{Torr see }
-{280}{}{! (Hello again, friend. Can I help you with anything?)}
-{281}{}{ see Torr! (Well, actually, I did have some questions for you.)}
-{282}{}{Torr, bye. (Nice to see you again, Torr. I'm just ambling through. Goodbye for now.)}
-{300}{}{Torr go get hep! (Torr scampers off into the night, leaving you alone with the moo-moos, uh,
+{279}{}{Torr vê }
+{280}{}{! (Olá denovo, amigo. posso te ajudar com alguma coisa?)}
+{281}{}{ vê Torr! (Bem, na verdade, Eu tenho alguma perguntas pra você.)}
+{282}{}{Torr, tchau. (Bom te ver denovo, Torr. So estou de passagem. Tchau por enquanto.)}
+{300}{}{Torr busca juda! (Torr foje pra dentro da noite, eixando você sozinho com os, uh,
  brahmin.)}
-{301}{}{Bugs dead. Moo-moos safe. Torr thank-you.}
-{400}{}{You hep Torr. Moo-moos field (points east of here) now yes? (smiles) (Thanks for your
- assistance. I can really use your help.)}
-{401}{}{You hep Torr. Moo-moos field. (points east of here) now yes? (smiles)}
-{402}{}{ Hep Torr. (I'll go with you to the pasture east of downtown.)}
-{404}{}{I'll help you guard the brahmin now, Torr.}
-{405}{}{I can't help you guard the brahmin now, Torr.}
-{500}{}{Stop hurt moo-moos.}
-{501}{}{Torr help moo-moos.}
-{502}{}{Bad woman, bad! No hurt moo-moos!}
-{503}{}{Go way, bad man.}
-{504}{}{Bad woman, bad! Go way!}
-{505}{}{Bad mans, bad! No hurt moo-moos!}
-{506}{}{No hurt Torr's moo-moos!}
-{507}{}{Torr coming to save moo-moos!}
-{600}{}{Torr, thank. Torr okay now. You go.}
-{700}{}{Tragu? Oo Kramat? Ick boo Den. (A trader here in Klamath? Why yes, Vic trades in
- antiquities for the most part. He's not in town right now. I think he might be trading
- things at the Den. That's south of here.)}
-{701}{}{Groo! (Thanks so much, Torr. Now what were you saying about your predators?)}
-{702}{}{Grok! Torr! (Thanks so much, Torr. You're a prince amongst men. I need to be
- leaving but I wish you the best of luck with your cattle production. Goodbye, friend Torr.)}
-{800}{}{You have successfully rescued Torr.}
+{301}{}{Bugs mortos. Moo-moos seguros. Torr agradece.}
+{400}{}{Você juda Torr. Moo-moos campo (Aponta a lest daqui) agora sim? (sorri) (Obrigado pela sua ajuda
+ . Eu realmente posso usar sua ajuda.)}
+{401}{}{Você juda Torr. Moo-moos campo. (Aponta a lesta daqui) agora sim? (sorri)}
+{402}{}{ juda Torr. (Eu vou com você no pasto a leste da cidade.)}
+{404}{}{Irei te ajudar a proteger os brahmin agora, Torr.}
+{405}{}{Nao posso te ajudar a proteger os brahmin agora, Torr.}
+{500}{}{Para de machucar moo-moos.}
+{501}{}{Torr ajuda moo-moos.}
+{502}{}{Mulher mau, mau! Nao machuca moo-moos!}
+{503}{}{Vaimbora, Homem mau.}
+{504}{}{Mulher mau, mau! Vaimbora!}
+{505}{}{homens maus, Mau! Nao machuca moo-moos!}
+{506}{}{Não machuca Torr's moo-moos!}
+{507}{}{Torr vindo pra salvar moo-moos!}
+{600}{}{Torr, agradece. Torr okay agora. você vai.}
+{700}{}{Tragu? Oo Kramat? Ick boo Den. (Um trader aqui em Klamath? porque sim, Vic troca antiguidades
+ a maioria do tempo. Ele não está na cidade agora. Acho que pode estar trocando
+ coisas em Den. Isso é a sul daqui.)}
+{701}{}{Groo! (Muito obrigado, Torr. Agora o que você estava dizendo sobre seus predadores?)}
+{702}{}{Grok! Torr! (Muito obrigado, Torr. Você é um príncipe entre os homens. Eu preciso de
+ ir mas eu te desejo muita sorte com sua criaçao de gado. Adeus, amigo Torr.)}
+{800}{}{Você resgatou com sucesso Torr.}

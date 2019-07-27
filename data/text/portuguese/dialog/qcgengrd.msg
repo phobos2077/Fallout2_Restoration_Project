@@ -1,58 +1,58 @@
-{100}{}{You see a person in powered armor.}
-{101}{}{You see an Enclave trooper.}
-{102}{}{You see a person in very advanced-looking powered armor.}
-{103}{}{Who goes there?}
-{104}{}{Move on.}
-{105}{}{What are you looking at?}
+{100}{}{Você vê uma pessoa em uma power armor.}
+{101}{}{Você vê um soldado da Enclave.}
+{102}{}{Você vê uma pessoa em uma power armor muito avançada.}
+{103}{}{Quem vem lá?}
+{104}{}{Prossiga.}
+{105}{}{O que você está olhando?}
 {106}{}{Mova-se.}
-{107}{}{No loitering.}
-{108}{}{I'll put you on report.}
-{109}{}{Get back to work.}
-{110}{}{Do you have clearance for this section?}
-{111}{}{Can't park it here, bub.}
-{112}{}{Keep on keeping on.}
-{113}{}{Button up.}
-{114}{}{This is no drill, repeat, no drill.}
-{115}{}{Start containment procedures.}
-{116}{}{Get yourself into a clear area. Now!}
-{117}{}{We've got a hazardous situation here.}
-{118}{}{You better get yourself to cover.}
-{119}{}{Didn't you notice the alarm?}
-{120}{}{Rads or toxins, what a great day.}
-{121}{}{Some days it don't pay to get out of bed.}
-{122}{}{Every inspection's a parade.}
-{123}{}{I love my work.}
-{124}{}{Did you hear something?}
-{125}{}{My feet are *killing* me.}
-{126}{}{So, did you hear the one about the new second Louie?}
-{127}{}{Nothing ever happens here anyway.}
-{128}{}{I sure wish something exciting would happen.}
-{129}{}{I hear that the Vice-President's real sick, as in the head.}
-{130}{}{You aren't asleep are you?}
-{131}{}{Radio check. Check, check. You reading me?}
-{132}{}{(Yawwwwn)}
-{133}{}{Hey, poker game tonight. Man, do I feel lucky too.}
-{134}{}{Stay alert people.}
-{135}{}{Keep sharp.}
-{136}{}{This is no drill.}
-{137}{}{Get the civilians to safety.}
-{138}{}{Check the perimeter.}
-{139}{}{All units report in.}
-{140}{}{They're close, I can sense it.}
-{141}{}{Stay frosty, people.}
-{142}{}{We've got a job to do here.}
-{143}{}{You bet, Sarge.}
-{144}{}{Yes, sir.}
-{145}{}{Section B, all clear.}
-{146}{}{Corridor clear.}
-{147}{}{Returning to duty station.}
+{107}{}{Pare de vagabundar.}
+{108}{}{Eu irei te colocar no relatório.}
+{109}{}{Volte para o trabalho.}
+{110}{}{Você tem permissão para este setor?}
+{111}{}{Não pode estacionar aqui.}
+{112}{}{Circulando, circulando.}
+{113}{}{Positivo.}
+{114}{}{Isso não é uma simulação, repito, não é uma simulação.}
+{115}{}{Iniciar procedimentos de contenção.}
+{116}{}{Vá para uma uma área segura. Agora!}
+{117}{}{Nós temos uma situação perigosa aqui.}
+{118}{}{É melho você se proteger.}
+{119}{}{Você não ouviu o alarme?}
+{120}{}{Radiação ou toxina, que ótimo dia.}
+{121}{}{Em alguns dias é melhor nem levantar da cama.}
+{122}{}{Toda inspeção é como um desfile.}
+{123}{}{I Eu amo meu trabalho.}
+{124}{}{Você ouviu alguma coisa?}
+{125}{}{Meus pés estão me *matando*.}
+{126}{}{So, did you hear the one about the new second louie?}
+{127}{}{Não acontece nada por aqui mesmo.}
+{128}{}{Queria que acontecesse alguma coisa excitante por aqui.}
+{129}{}{Eu ouvi dizer que o vice-Presidente é doente, da cabeça.}
+{130}{}{Você não está dormindo, está?}
+{131}{}{Checando o rádio. Checando, checando. Você está me lendo?}
+{132}{}{(Bocejo)}
+{133}{}{Ei, vai ter poker hoje a noite. Cara, eu me sinto com tanta sorte.}
+{134}{}{Fiquem alertas.}
+{135}{}{Continuem atentos.}
+{136}{}{Isso não é uma simulação.}
+{137}{}{Levem os civis para um lugar seguro.}
+{138}{}{Checar o perímetro.}
+{139}{}{Todas as unidades, relatório.}
+{140}{}{Eles estão perto, eu posso sentir.}
+{141}{}{Mantenham a calma, pessoal.}
+{142}{}{Nós temos um trabalho a fazer aqui.}
+{143}{}{Você manda, sargento.}
+{144}{}{Sim, senhor.}
+{145}{}{Setor B, tudo limpo.}
+{146}{}{Corredor limpo.}
+{147}{}{Retornar aos seus postos.}
 {148}{}{Bravo team reporting in.}
 {149}{}{Gamma team reporting in.}
 {150}{}{./~Shines the name, shines the name, shines the name of Rodger Young ./~}
-{151}{}{Awright, who's smacking gum into the headset?}
+{151}{}{Certo, quem está mastigando goma de mascar no palco?}
 {152}{}{Stop stompin' those grapes.}
-{153}{}{./~ Jody's home now, smokin' grass ./~ Jody's pumpin' your wife's.../~}
+{153}{}{./~ Jody's home now, smokin' grass ./~ Jody's pumpin' your wife's…./~}
 {154}{}{./~ Sound off, 1-2-3-4, bring it on down ./~}
-{155}{}{Level 2, all clear.}
-{156}{}{Sector 7, clear.}
-{157}{}{Holodeck clear.}
+{155}{}{Nível 2, tudo limpo.}
+{156}{}{Setor 7, tudo limpo.}
+{157}{}{Holodeck limpo.}

@@ -1,18 +1,18 @@
-{100}{}{You see a scruffy little lad hard at work caring for the brahmin.}
-{101}{}{You see the stable boy.}
-{150}{}{He seems to be busy.}
-{200}{}{Sorry, the stables are full. You'll have to look elsewhere.}
-{201}{}{I'm really busy right now.}
-{250}{}{Smell? I guess you get used to it.}
-{251}{}{It doesn't smell that bad.}
-{252}{}{I guess I don't have to fertilize the fields this year. Thanks.}
-{300}{}{This one needs some fresh hay.}
-{301}{}{Got to get some more water.}
-{302}{}{Whew! Time to get the shovel.}
-{303}{}{Everything seems okay with this one.}
-{304}{}{Better keep an eye on this one. Looks a little sick.}
-{350}{}{Zzz... I'm sleeping... Zzz...}
-{351}{}{*YAWN* I've gotta be up early.}
-{352}{}{Hey, I'm still growing. I need my sleep.}
-{353}{}{Why don't you go talk to someone else.}
-{354}{}{Boy, I sure am sleepy. If only someone wouldn't keep talking to me.}
+{100}{}{Você vê um rapaz imundo de tanto trabalhar cuidando do brahmin.}
+{101}{}{Você vê um vaqueiro.}
+{150}{}{Ele parece ocupado.}
+{200}{}{Sinto muito, mas os estábulos estão cheios. Você terá de procurar em outro lugar.}
+{201}{}{Estou realmente ocupado agora.}
+{250}{}{Esse cheiro? Acho que você logo se acostuma com isso.}
+{251}{}{Não está fedendendo tanto assim.}
+{252}{}{Acho que não precisarei fertilizar o solo esse ano. Obrigado.}
+{300}{}{Esse aqui precisa de um pouco de feno fresco.}
+{301}{}{Tenho que ir pegar mais água.}
+{302}{}{Vish! Hora de trabalhar.}
+{303}{}{Parece tudo tranquilo com esse aqui.}
+{304}{}{Acho bom ficar atento com esse aqui. Se parece um pouco doente.}
+{350}{}{Zzz... estou dormindo... Zzz...}
+{351}{}{*YAWN* Tenho que acordar cedo.}
+{352}{}{Pô, eu ainda estou na fase de crescimento. Preciso dormir.}
+{353}{}{Por que você não vai conversar com outro?}
+{354}{}{Cara, eu estou com muito sono. Se ao menos não tivesse ninguém conversando comigo...}

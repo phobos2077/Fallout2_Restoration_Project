@@ -2,7 +2,6 @@
 {101}{}{Vidíš destilátor. Vypadá funkènì.}
 {102}{}{Vidíš znièený destilátor.}
 {103}{}{Vidíš znièený destilátor. Nìkdo se na nìm pìknì vyøádil.}
-
 {110}{}{Podle zvukù usuzuješ, že pøístroj destiluje koøalku. Získáváš }
 {111}{}{ zkušenostních bodù za doplnìní døeva do destilátoru.}
 {120}{}{Nic to nedìlá.}

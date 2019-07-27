@@ -10,7 +10,7 @@
 {109}{}{Co to znamenat?}
 {110}{}{Co tím myslíš?}
 {111}{}{Øeknìme, že jsi tu nový a nevíš, co se tu dìje. Avšak vìz, že tu nejde jen o jeden malý úkol...}
-{112}{}{Pokraèovat.}
+{112}{}{Pokraèuj.}
 {113}{}{Pokraèuj, poslouchám.}
 {114}{}{Už jsem prozradil dost. Myslím, že bude lepší, když se vrátíš ke své práci.}
 {115}{}{Poèkat, já potøebovat zeptat otázka.}
@@ -32,7 +32,7 @@
 {131}{}{Zdravím. Už ti nemám co øíct.}
 {132}{}{. No... už nejsi ten obyèejný divoch jako na zaèátku. Doporuèuju ti navštívit naši poboèku v New California Republic. Urèitì se ti to vyplatí. A teï když mì omluvíš...}
 {133}{}{Zdravím. Už ti nemám co øíct.}
-{134}{}{Poèkej...}
+{134}{}{Èekat...}
 {135}{}{To je soukromá kanceláø.}
 {136}{}{Tam pro tebe nic není.}
 {137}{}{To je soukromý pozemek, takže odejdi.}

@@ -1,8 +1,8 @@
 {100}{}{Vidíš rolníka Shi.}
 {101}{}{Vidíš pøístavního dìlníka.}
 {102}{}{Vidíš rolníka Shi, jehož obleèení je zamazané šupinami, dehtem a solí.}
-{103}{}{Krásný den na to být u oceánu.}
-{104}{}{Vždycky jsem mìl rád vlny.}
+{103}{}{Krásný den na to strávit u oceánu.}
+{104}{}{Vlny se mi vždycky líbily.}
 {105}{}{Máš rád rybí omáèku?}
 {106}{}{Slunce, svìží vzduch a plody moøe. Co víc èlovìk potøebuje k tomu, aby si šel zaplavat?}
 {107}{}{Z ryb se mi zvedá žaludek.}

@@ -1,41 +1,41 @@
 {100}{}{Você vê um cidadão.}
-{200}{}{I sure hope it rains soon.}
-{201}{}{Our crops are dying from lack of water.}
-{202}{}{Even the wells have gone dry.}
-{203}{}{Not a cloud in the sky.}
-{204}{}{I'm thinking of moving away from here.}
-{205}{}{Modoc used to be a prosperous farming community.}
-{206}{}{Life in Modoc is slow. Just the way I like it.}
-{220}{}{I hear that people have seen glowing figures during the night hours at the Ghost Farm.}
-{221}{}{Did you hear? They found some idiot to go and investigate the Ghost Farm.}
-{222}{}{I've been to the Ghost Farm. Scary!}
-{223}{}{Daytime is the best time to go to the Ghost Farm.}
-{224}{}{Karl used to live at the Ghost Farm. Now he probably haunts it.}
-{225}{}{People shouldn't mess with the supernatural.}
-{226}{}{Why would ghosts grow food?}
-{240}{}{They found out the people living at the Ghost Farm call themselves Slags.}
-{241}{}{What kind of name is Slag?}
-{242}{}{I don't trust the Slags.}
-{243}{}{Maybe I could trust the Slags if I knew what happened to Karl.}
-{260}{}{I'll meet you down at the Ghost Farm.}
-{261}{}{We're gonna kill a bunch of murderous Slags.}
-{262}{}{I hope we're doing the right thing.}
-{263}{}{We should attack during the daytime, while they're asleep.}
-{280}{}{The Slags were just like us...}
-{281}{}{We even killed the women and children of the Slags.}
-{282}{}{I feel dirty.}
-{283}{}{The blood stains won't come off my hands!}
-{284}{}{I hope no one finds out what we did.}
-{285}{}{What we did to the Slags was wrong.}
-{300}{}{Did you hear? A powerful priest exorcised the ghosts from the farm.}
-{301}{}{The harvest from the Ghost Farm should keep us fed for another year.}
-{302}{}{There's not a drop of water at the Ghost Farm.}
-{303}{}{Maybe the soil at the Ghost Farm is magic. How else could the crops grow without water?}
-{304}{}{Maybe the ghosts used blood to feed their crops.}
-{305}{}{I think the ghosts were stealing our water.}
-{306}{}{I bet things will return to normal around here, now that the ghosts are gone.}
-{320}{}{We're gonna trade with the Slags.}
-{321}{}{The Slags have offered to supply water to Modoc during the drought.}
-{322}{}{You're the one that helped us, aren't you? You're a hero!}
-{323}{}{You've saved the town of Modoc.}
-{324}{}{You'll always be welcome at Modoc.}
+{200}{}{Espero que chova em breve.}
+{201}{}{Nossas colheitas estão morrendo por falta de água.}
+{202}{}{Até as paredes estão secando.}
+{203}{}{Nem uma nuvem no céu.}
+{204}{}{Eu estou pensando em mudar para longe daqui.}
+{205}{}{Modoc costumava ser uma comunidade agrícola próspera.}
+{206}{}{Vida em Modoc é lento. Apenas o jeito que eu gosto.}
+{220}{}{Ouvi dizer que as pessoas têm visto figuras brilhantes durante a noite na Fazenda Fantasma.}
+{221}{}{Você ouviu? Eles encontraram algum idiota de ir e investigar a Fazenda Fantasma.}
+{222}{}{Eu fui para a fazenda fantasma. Assustador!}
+{223}{}{Durante o dia é a melhor hora para ir para a fazenda fantasma.}
+{224}{}{Karl costumava viver na fazenda fantasma. Agora, ele, provavelmente,é uma assombração.}
+{225}{}{Pessoas não deve mexer com o sobrenatural.}
+{226}{}{Por que fantasmas cultivar alimentos?}
+{240}{}{Eles descobriram as pessoas que vivem na fazenda fantasma chamar-se Slags.}
+{241}{}{Que tipo de nome é Slag?}
+{242}{}{Eu não confio nos Slags.}
+{243}{}{Talvez eu pudesse confiar nos Slags se eu soubesse o que aconteceu com Karl.}
+{260}{}{Vou encontrá-lo a baixo na fazenda Fantasma.}
+{261}{}{Nós vamos matar um bando de Slags assassinos.}
+{262}{}{Espero que estamos fazendo seja a coisa certa.}
+{263}{}{Devemos atacar durante o dia, enquanto eles estão dormindo.}
+{280}{}{As escórias foram apenas como nós ...}
+{281}{}{Temos até mortos as mulheres e crianças do Slags.}
+{282}{}{Eu me sinto sujo.}
+{283}{}{As manchas de sangue não vai sair minhas mãos!}
+{284}{}{Espero que ninguém descubra o que fizemos.}
+{285}{}{O que fizemos para o Slags estava errado.}
+{300}{}{Você ouviu? Um padre poderoso exorcizou os fantasmas da fazenda.}
+{301}{}{A colheita da fazenda Fantasma deveriam manter-nos alimentados por mais um ano.}
+{302}{}{Não há uma gota de água na fazenda Fantasma.}
+{303}{}{Talvez o solo na fazenda Fantasma é mágica. De que outra forma poderia culturas crescer sem água?}
+{304}{}{Talvez os fantasmas usavam sangue para alimentar as suas culturas.}
+{305}{}{Eu acho que os fantasmas estavam roubando a nossa água.}
+{306}{}{Aposto que as coisas vão voltar ao normal por aqui, agora que os fantasmas se foram.}
+{320}{}{Nós vamos ao comércio com os Slags.}
+{321}{}{Os Slags propuseram para fornecer água para Modoc durante a seca.}
+{322}{}{Você é o único que nos ajudou, não é? Você é um herói!}
+{323}{}{Você salvou a cidade de Modoc.}
+{324}{}{Você sempre será bem-vindo em Modoc.}

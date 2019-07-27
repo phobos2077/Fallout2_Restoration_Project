@@ -1,114 +1,114 @@
-{100}{}{You see a rather worn-looking woman.}
-{101}{}{You see Fannie Mae, one of the hostesses at the Malamute Saloon.}
+{100}{}{Você vê uma mulher bastante cansada.}
+{101}{}{Você vê Fannie Mae, uma das garçonetes do Malamute Saloon.}
 {102}{}{You see a woman who shows more wear from mileage than from years.}
-{103}{}{[Fannie looks distinctly unhealthy as she wobbles towards you] Hey there, lover. I'm feeling a
- little under the weather lately. Want to give me some money for a quick boost? I can make it worth your
- while. (grins)}
-{104}{}{(Fannie looks distinctly unhealthy as she wobbles towards you) Hey there, sister. Can you spare
- a few bucks to help a gal who's down on her luck? Just 'til I get back on my feet again.}
-{105}{}{(Fannie doesn't look very well at all) Hey there, pal. Ready for a li'l fun with Fannie?
- Half-price for you, lover. Where'd I put my Jet?}
-{106}{}{(Fannie doesn't look very well at all) Hey there, lady, spare some money? Or a bit o' Jet fuel
- even?}
-{107}{}{Fannie, you look like hell. Why don't you lay off the Jet for a while?}
-{108}{}{I think you've enjoyed enough of my charity, and it didn't seem to help you at all.}
-{109}{}{You've had enough for now.}
+{103}{}{(Fannie parece estar doente, por chegar até você cambaleando) Olá, amor. Estou me sentindo
+ um pouco doente ultimamente. Quer me dar uma pouco de dinheiro pra uma rapidinha? Posso fazer valer a
+ pena. (sorriso largo)}
+{104}{}{(Fannie parece estar doente, por chegar até você cambaleando) Olá, amiga. Pode dividir
+ um pouco de grana pra ajudar uma garota de má sorte? Só até eu conseguir me reerguer de novo.}
+{105}{}{(Fannie não parece bem mesmo) Olá, camarada. Pronto pra um pouco de diversão com a Fannie??
+ A metade do preço pra você, amorzinho. Onde eu coloquei o meu Jet?}
+{106}{}{(Fannie não parece bem mesmo) Olá, moça, me arruma um poco de grana? Ou um poco de Jet,
+ então?}
+{107}{}{Fannie, você está péssima. Por que não deixa o Jet de lado por um tempo?}
+{108}{}{Acho que você já aproveitou o bastante da minha caridade e parece que ela não te ajudar em nada.}
+{109}{}{Você já teve o suficiente por hoje.}
 {110}{}{Why don't you just sleep it off?}
-{111}{}{Jet's the only thing that makes me fly. ./~Come fly with me ./~ Give me a little something
- special, won'tcha?}
-{112}{}{Oh, you're just full of great ideas now, aren't you. Well, I don't need you. Plenty of people
- still want to pay for Fannie's charms. If you won't give me money for Jet, then just get out of my
- sight.}
-{113}{}{I have something that should cure you of that addiction to Jet.}
-{114}{}{Find yourself another sucker, Fannie. Goodbye.}
-{115}{}{You're going to kill yourself if you keep on this way. I don't want to watch you do that.
- Goodbye.}
+{111}{}{Jet é a única coisa que me faz voar. ./~Vem voar comigo ./~ Me dá um pouco de algo
+ especial, me dá?}
+{112}{}{Ora, você tem muitas idéias boas, não é? Bem, não preciso de você. Um monte de gente
+ ainda quer pagar pros charmes da Fannie. Se não for me dar dinheiro ou Jet, então sai logo da
+ minha frente.}
+{113}{}{Eu tenho algo que pode curar seu vício pelo Jet.}
+{114}{}{Vá procurar um outro otário, Fannie. Tchau.}
+{115}{}{Você vai se matar se continuar com essa coisa. Eu não quero te ver fazendo isso.
+ Tchau.}
 {116}{}{Ain't you a sight.}
 {117}{}{Fannie don't flop for no morons.}
-{118}{}{Come back with some money and maybe Fannie can learn you something.}
+{118}{}{Volte com um pouco de dinheiro e talvez a Fannie te ensine alguma coisa.}
 {119}{}{You're not the sharpest tool in the shed, are ya?}
 {120}{}{You're 'bout as smart as bait. Ain't ya?}
-{121}{}{A cure? What, are you crazy? Do I look like I want to be cured? You want to make me feel better,
- sugar? Give me some more Jet.}
-{122}{}{Well, I guess just a little more to get you by wouldn't hurt. Here's some Jet.}
-{123}{}{You've already had more than enough Jet. Last thing I need to do is watch another Jet addict.
- Goodbye.}
-{124}{}{If I had any Jet, I'd be using it myself. Goodbye.}
-{125}{}{Yeah, that's what I need. Oh yeah. What a rush. Mmmmm...}
-{126}{}{Uh, well, I guess I'll just let you enjoy yourself now. Goodbye.}
-{127}{}{Sounds like you're really Jetted-up, now. I'll see you around. Goodbye.}
-{128}{}{Hey there, sailor. Come here often? You come here to visit with Fannie Mae?}
-{129}{}{Hello, sister. Looking for work?}
-{130}{}{Uh, yeah. I'm here to visit you.}
-{131}{}{Work? What kind of work?}
-{132}{}{Uh, I was just looking around. Goodbye.}
-{133}{}{Well, aren't you sweet. Acting so bashful and all. It's going to cost you $60 for a visit with
- me, sugah.}
-{134}{}{Maybe you'll last a bit longer this time, honey. You'll get more of your $60 worth that way.}
-{135}{}{Nice and slow, baby. I'll show you a real nice time for your $60.}
-{136}{}{$60, huh? Sounds like a good price to me. Here's my money.}
-{137}{}{Thanks for the offer, but maybe another time would be better. Goodbye.}
-{138}{}{$60? I don't think I want to visit you if it's going to cost that much. Goodbye.}
-{139}{}{You've been so nice to me. I felt that you really meant something when you did that. (sob) I
- sure wish it was like that all the time.}
-{140}{}{Well, when you're with me, it is.}
+{121}{}{Uma cura? O quê, você enlouqueceu? Eu pareço querer uma cura? Quer fazer eu me sentir melhor,
+ docinho? Me dê mais Jet?}
+{122}{}{Bem, acho que só mais um pouco não vai fazer mal. Aqui está um pouco de Jet.}
+{123}{}{Você tem mais Jet do que o necessário. A última coisa que eu quero ver é mais uma pessoa viciada em Jet.
+ Tchau.}
+{124}{}{Se eu tivesse algum Jet estaria usando agora. Tchau.}
+{125}{}{É, é disso que eu preciso. Ah, sim. Que beleza. Mmmmm...}
+{126}{}{Hã, bem, acho que vou deixar você se divertir então. Tchau.}
+{127}{}{Parece que você já está suprida o suficiente de Jet. Te vejo por aí. Tchau.}
+{128}{}{Olá, marinheiro. Você vem sempre aqui? Veio pra visitar a Fannie Mae?}
+{129}{}{Olá, garota. Procurando trabalho?}
+{130}{}{Hã, isso. Estou aqui pra te visitar.}
+{131}{}{Trabalho? Que tipo de trabalho?}
+{132}{}{Hã, eu só estava dando uma olhada por aqui. Tchau.}
+{133}{}{Oh, mas que doce. Agindo desse jeito tímido. Uma visita comigo só vai te custar $60,
+ docinho.}
+{134}{}{Talvez você consiga agüentar um pouco mais dessa vez, querido. You'll get more of your $60 worth that way.}
+{135}{}{Devagar e gosotos, baby. Vou te dar um tempo muito prazeroso pelos seus $60.}
+{136}{}{$60, hein? Parece um bom preço pra mim. Aqui está o meu dinheiro.}
+{137}{}{Agradeço a oferta, mas talvez outra hora. Tchau.}
+{138}{}{$60? Eu não acho que quero te visitar se vai custar tanto. Tchau.}
+{139}{}{Você foi tão doce comigo. Eu senti que você queria dizer algo quando fez aquilo (suspiro). Eu
+ queria que fosse sempre assim.}
+{140}{}{Bem, quando você está comigo, é.}
 {141}{}{You sure know how to talk the talk.}
-{142}{}{I don't want to do this anymore. Me and my fella' are going to get away from here and live life
- straight. Just as soon as I can pay off Lou.}
-{143}{}{Pay off Lou?}
-{144}{}{Hey, I gave you money already. What are you talking about?}
-{145}{}{Yeah, well... I owe Lou some money and I can't leave until I pay her off. But as soon as I do
- (sniff) I'm going to take my beau and get myself as far away from this life as I can. If I could only
- raise a little extra dough.}
-{146}{}{How much extra money do you need to pay off Lou?}
-{147}{}{Can't your boyfriend help you out of debt?}
-{148}{}{That's a sad story, but you should have the money you need soon enough. As long as you keep your
- back to the mattress, that is. Goodbye.}
-{149}{}{All I need now is $200 and I'm in the clear. My man and I are out of here clean and free. No
- more strange, grubby, people pawing at me all day and night. Uh, I didn't mean no offense.}
-{150}{}{None taken. I don't really paw, do I? Anyhow, I could pay your way out of here. Here's $200.}
-{151}{}{Sounds sad, alright. Well, I guess you'd better get busy then. Goodbye.}
-{152}{}{Oh thank you, thank you. I didn't think that there was anyone this kind outside of my
- dreams. You're the best. Thanks again. Hey, want a freebie? On the house?}
-{153}{}{Why sure, Fannie. I think I'll take you up on that offer.}
-{154}{}{That's not really necessary, Fannie. Just use the money to get yourself out of this life. Goodbye.}
-{155}{}{He really wants to, but he's just barely getting by as a miner. We keep hoping he'll make a big
- strike but that hasn't happened yet. And last week a beam fell on him and broke his leg, so he can't
- work. Now I have to give him what little money I can spare 'til he gets better.}
-{156}{}{Sounds as though you two have had some bad luck. How much did you say you need?}
-{157}{}{Thanks again. I can't wait to tell my guy. We'll be out of here as soon as his leg
- heals up.}
-{158}{}{That was quite a thank you, Fannie. I just better get myself out of here while I can still walk.
- You're welcome. Goodbye.}
-{159}{}{It'll be a loss to the profession to see you go, Fannie. Goodbye.}
-{160}{}{Hey there. You want to spend some time with Fannie?}
-{161}{}{Didn't I give you some money so you could stop doing this?}
-{162}{}{Sure, sounds good to me. Good thing I caught you before you left.}
-{163}{}{Well, yes... but it turns out that I owe Lou more than I thought.}
-{164}{}{How much more?}
-{165}{}{I've heard enough of this. Goodbye.}
-{166}{}{Uh, I know, and I'm real grateful... but I guess I owed Lou more than I thought. I need more
- money.}
-{167}{}{I can't believe it! How much more money do you need to get out of this?}
-{168}{}{Well, you've got all you're going to from me. Good bye.}
-{169}{}{That's okay, baby. You've already helped enough. (sniff) I only need another $150, though.}
+{142}{}{Eu não quero fazer mais isso. Eu minhas amigas vamos dar o fora daqui e viver a vida
+ corretamente. Assim que eu puder pagar à Lou.}
+{143}{}{Pagar à Lou?}
+{144}{}{Ei, eu já te dei o meu dinheiro. Do que você está falando?}
+{145}{}{Bem, é que... eu devo uma grana pra Lou e não posso ir até quitar a dívida. Mas assim que eu conseguir
+ (snif) eu vou pegar meu namorado e sair dessa vida o mais rápido que puder. Se eu pudesse ao menos
+ conseguir uma grana extra.}
+{146}{}{Quanto você precisa pra pagar à Lou.}
+{147}{}{Seu namorado não pode te ajudar com o débito?}
+{148}{}{Essa é uma história triste, mas você deve conseguir o dinheiro de que precisa logo logo. Desde que continue com suas
+ costas no colchão, você consegue. Tchau.}
+{149}{}{Tudo o que preciso agora são $200 e eu fico limpa. Meu homem e eu vamos dar o fora daqui limpos e livres. Nada mais
+ de pessoas estranhas, encardidas, me arranhando por todo o dia e noite. Er, eu não quis ofender.}
+{150}{}{Sem problemas. Eu não te arranhei, arranhei? De qualquer forma, eu posso pagar sua saída daqui. Aqui estão os $200.}
+{151}{}{Parece triste. Bem, acho melhor você se ocupar então. Tchau.}
+{152}{}{Oh, obrigada, obrigada. Eu não imaginava que havia pessoas assim fora dos meus
+ sonhos. Você é demais. Obrigada de novo. Ei, quer uma de graça? Na casa?}
+{153}{}{Claro, Fannie. Acho que vou aceitar sua oferta.}
+{154}{}{Isso não é necessário, Fannie. Só use o dinheiro pra sair dessa vida. Tchau.}
+{155}{}{Ele quer muito, mas está vivendo com um mineiro. Nós ficamos na esperança dele conseguir uma grande
+ bolada mas isso nunca aconteceu. E na última semana uma viga caiu sobre ele e ele quebrou a perna, por isso ele não
+ pode trabalhar. Agora eu tenho que dar um pouco do meu dinheiro pra ele até que ele se recupere.}
+{156}{}{Parece que vocês dois têm tido muito azar. Quanto você disse que precisava?}
+{157}{}{Obrigada de novo. Não posse esperar pra contar pro meu namorado. Nós vamos dar o fora daqui assim que a perna dele
+ se curar.}
+{158}{}{Isso foi um belo de um obrigado, Fannie. Acho melhor eu dar o fora daqui, enquanto ainda posso andar.
+ De nada. Tchau.}
+{159}{}{Vai ser uma perda pra profissão ver você partir, Fannie. Tchau.}
+{160}{}{Olá. Quer gastar um pouco do seu tempo com a Fannie?}
+{161}{}{Eu não te dei dinheiro pra você parar com isso?}
+{162}{}{Claro, é uma boa idéia. É bom eu te pegar mais uma vez antes que parta.}
+{163}{}{Bem, sim... mas eu descobri que devo mais do que eu pensava pra Lou.}
+{164}{}{Quanto mais?}
+{165}{}{Já ouvi o suficiente. Tchau.}
+{166}{}{Er, eu sei e sou muito grata... mas acho que eu devo mais do que eu pensava pra Lou. Eu preciso de mais
+ dinheiro.}
+{167}{}{Eu não acredito nisso! De quanto mais você precisa pra dar o fora daqui?}
+{168}{}{Bem, você já tirou o máximo que conseguiria de mim. Tchau.}
+{169}{}{Tudo bem, baby. Você já ajudou o suficiente. (snif) Eu só precisava de mais $150...}
 {170}{}{Well, I guess if that's all you need. But this is it. I mean it.}
-{171}{}{Yeah, sure. I'm out of here. Goodbye.}
-{172}{}{Hey there, you came back. Looking for a little fun, or did you come back to give me some money
- for Lou?}
-{173}{}{Just here for some fun this time, Fannie. We'll see how it goes.}
-{174}{}{How much do you need for Lou?}
-{175}{}{Just stopping by, Fannie. Goodbye.}
-{176}{}{Always nice to get some repeat business. For you, I'll even change the sheets.}
-{177}{}{You sure know how to make a guy feel special. Thanks.}
-{178}{}{Uh, I think I've changed my mind. See you around, Fannie. Goodbye.}
+{171}{}{É, claro. Eu vou dar o fora daqui. Tchau.}
+{172}{}{Olá, você voltou. Procurando por diversão ou voltou pra me dar dinheiro pra
+ pagar pra Lou?}
+{173}{}{Um pouco de diversão dessa vez, Fannie.}
+{174}{}{De quanto você precisa pra pagar à Lou?}
+{175}{}{Só estou aqui de passagem, Fannie. Tchau.}
+{176}{}{É sempre bom pegar trabalhos repetidos. Pra você, eu vou até trocar os lençóis.}
+{177}{}{Você sabe mesmo como fazer um cara se sentir especial. Obrigado.}
+{178}{}{Ham... acho que mudei de idéia. Te vejo por aí, Fannie. Tchau.}
 {179}{}{You know, back-floppin' work. With looks like yours, I bet you could make a good living.}
 {180}{}{You know, back-floppin' work. Even the way you look, you could make some money. Those miners
  ain't too particular, ya know.}
-{181}{}{You think so? Hmm, maybe I should.}
-{182}{}{I don't think that's for me. Goodbye.}
+{181}{}{Você acha? Hmm, talvez eu deva.}
+{182}{}{Não acho que isso seja pra mim. Tchau.}
 {183}{}{Well it shore helps if'n your nose ain't to keen. Those miners ain't too fond of soap and water.}
-{184}{}{Really? Maybe this isn't for me after all. Thanks for the offer, though. Goodbye.}
+{184}{}{Sério? Talvez isso não sirva pra mim... Agradeço a oferta. Tchau.}
 {185}{}{I don't know how you can stand it, but then I guess you don't. Stand, that is. Goodbye.}
 {186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
  me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since

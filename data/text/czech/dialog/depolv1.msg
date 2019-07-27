@@ -10,8 +10,6 @@
 {109}{}{Plomby nebezpeèného biomateriálu v patøe 1 narušeny.}
 {110}{}{Patro 1 Únik nebezpeèného materiálu.}
 {111}{}{Patro 1 kontaminováno.}
-
-# X minutes and Y seconds to evacuate.
 {112}{}{ minut a }
 {113}{}{ vteøin k evakuaci.}
 {114}{}{ minuta a }

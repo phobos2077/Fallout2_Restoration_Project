@@ -1,3 +1,3 @@
-{100}{}{The air smells rank, with the odor of metal and blood.}
-{101}{}{You gain }
-{102}{}{ experience points for finding Vault 13.}
+{100}{}{O ar esta fedido, com cheiro de metal e sangue.}
+{101}{}{Você ganhou }
+{102}{}{ pontos de experiência por ter achado o Vault 13.}

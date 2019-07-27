@@ -14,18 +14,18 @@
 {113}{}{Vidíš èervená, zelená a modrá svìtla, jejichž kombinace vytváøí jakýsi obraz...}
 {114}{}{Zírá na tebe nìjaký velice hnusný oblièej. Tak moment, tento terminál je vypnutý.}
 {115}{}{Toto okno nakukuje do temné dimenze mimo náš prostor a èas.}
-{116}{}{Tento terminál zobrazuje text: "Nahrávám Fenestra '98." Terminál je pokryt tlustou vrstvou prachu. }
+{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
 {117}{}{Zdá se, že je tento terminál znaèky Meruòka. Bìží na nìm cosi, co se nazývá Fallout 3. Páni, to vypadá jako multiplayer a 3D grafika!}
 {118}{}{Zadejte ID uživatele:}
 {119}{}{(Zkusím tøeba tohle.) Seznam uživatelù.}
 {120}{}{(Jestlipak tohle bude fungovat?) Smith, J.}
 {121}{}{Zpìt.}
 {123}{}{Myslím, že bude lepší, když pùjdu nìkam jinam.}
-{124}{}{Seznam: (Terminál zobrazil seznam o pìti stech jménech)}
-{125}{}{Seznam: (Poèítaè zobrazil seznam jmen)}
+{124}{}{Listing (the terminal displays a list of about 500 names).}
+{125}{}{Listing (the computer displays a list of names).}
 {126}{}{Vyberte ID uživatele, nebo se odhlašte:}
 {127}{}{(Tenhle má slušný pøístup.) Smith, J.}
-{128}{}{(Tenhle vypadá opravdu výjimeènì.) Prezidentský bezpeènostní klíè}
+{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
 {129}{}{(Tenhle má nadprùmìrný pøístup.) Murray, T.}
 {130}{}{(Tenhle má dobrý pøístup.) Curling, Dr. C.}
 {131}{}{(Tenhle vypadá, že má opravdu dobrý pøístup.) Bird, D.}
@@ -33,7 +33,7 @@
 {133}{}{Vybrat: }
 {134}{}{A. E. C.: Èinnost atomové elektrárny, }
 {135}{}{Stav zabezpeèení?}
-{136}{}{Stáhnout A. E. C.: Èinnost atomové elektrárny}
+{136}{}{Download A. E. C.: Atomic Power plant Operations.}
 {137}{}{Stav zabezpeèení.}
 {138}{}{Návrat k seznamu uživatelù:}
 {139}{}{Vybrat: }
@@ -42,8 +42,8 @@
 {142}{}{A. E. C.: Èinnost atomové elektrárny, }
 {143}{}{Stav zabezpeèení?}
 {144}{}{Zabezpeèení/Úroveò: Souèasný stav}
-{145}{}{Stáhnout protichemické jednotky: Zpráva o souèasném stavu projektu}
-{146}{}{Stáhnout A. E. C.: Èinnost atomové elektrárny}
+{145}{}{Download Chemical Corps: Project Status Report.}
+{146}{}{Download A. E. C.: Atomic Power plant Operations.}
 {147}{}{Stav zabezpeèení.}
 {148}{}{Návrat k seznamu uživatelù:}
 {149}{}{Vybrat: }
@@ -56,32 +56,32 @@
 {156}{}{Situace národa: Souèasný stav}
 {157}{}{Stáhnout seznam slov.}
 {158}{}{Zabezpeèení/Úroveò: Souèasný stav}
-{159}{}{Stáhnout protichemické jednotky: Zpráva o souèasném stavu projektu}
-{160}{}{Stáhnout A. E. C.: Èinnost atomové elektrárny}
+{159}{}{Download Chemical Corps: Project Status Report.}
+{160}{}{Download A. E. C.: Atomic Power plant Operations.}
 {161}{}{Stav zabezpeèení.}
 {162}{}{Návrat k seznamu uživatelù:}
 {163}{}{Vybrat: Stav zabezpeèení?}
 {164}{}{Stav zabezpeèení.}
-{165}{}{Ukonèit pøístup.}
+{165}{}{End Access.}
 {166}{}{Stahování selhalo - Soubor se stavem zabezpeèení nelze nalézt.}
 {167}{}{Situace národa: Souèasný stav}
 {168}{}{Stáhnout seznam slov.}
-{169}{}{Zabezpeèení/Úroveò: Souèasný stav.}
-{170}{}{Stáhnout protichemické jednotky: Zpráva o souèasném stavu projektu}
-{171}{}{Stáhnout A. E. C.: Èinnost atomové elektrárny}
+{169}{}{Zabezpeèení/Úroveò: Souèasný Stav.}
+{170}{}{Download Chemical Corps: Project Status Report.}
+{171}{}{Download A. E. C.: Atomic Power plant Operations.}
 {172}{}{Návrat k seznamu uživatelù:}
 {173}{}{Stahování dokonèeno.}
 {174}{}{Stáhnout seznam slov.}
-{175}{}{Zabezpeèení/Úroveò: Souèasný stav.}
+{175}{}{Zabezpeèení/Úroveò: Souèasný Stav.}
 {176}{}{Stáhnout protichemické jednotky: Zpráva o souèasném stavu projektu}
-{177}{}{Stáhnout A. E. C.: Èinnost atomové elektrárny}
+{177}{}{Stáhnout A. E. C.: Èinnost Atomové Elektrárny}
 {178}{}{Stav zabezpeèení.}
 {179}{}{Návrat k seznamu uživatelù:}
 {180}{}{Stahování dokonèeno.}
 {181}{}{Situace národa: Souèasný stav}
 {182}{}{Zabezpeèení/Úroveò: Souèasný Stav.}
 {183}{}{Stáhnout protichemické jednotky: Zpráva o souèasném stavu projektu}
-{184}{}{Stáhnout A. E. C.: Èinnost atomové elektrárny}
+{184}{}{Stáhnout A. E. C.: Èinnost Atomové Elektrárny}
 {185}{}{Stav zabezpeèení.}
 {186}{}{Návrat k seznamu uživatelù:}
 {187}{}{Podlaží - Ubikace stráží: Bezpeènostní støelecké vìže jsou v pohotovostním režimu.}
@@ -99,30 +99,30 @@
 {199}{}{Podlaží - Informaèní støedisko a elektrárna: Bezpeènostní støelecké vìže jsou v pohotovostním režimu.}
 {200}{}{Podlaží - Informaèní støedisko a elektrárna: Bezpeènostní støelecké vìže jsou v normálním režimu.}
 {201}{}{Podlaží - Informaèní støedisko a elektrárna: Bezpeènostní støelecké vìže jsou v deaktivovaném režimu.}
-{202}{}{Zmìnit stupeò zabezpeèení.}
+{202}{}{Adjust security level.}
 {203}{}{Situace národa: Souèasný stav}
 {204}{}{Stáhnout seznam slov.}
-{205}{}{Stáhnout protichemické jednotky: Zpráva o souèasném stavu projektu}
-{206}{}{Stáhnout A. E. C.: Èinnost atomové elektrárny}
+{205}{}{Download Chemical Corps: Project Status Report.}
+{206}{}{Download A. E. C.: Atomic Power plant Operations.}
 {207}{}{Stav zabezpeèení.}
 {208}{}{Návrat k seznamu uživatelù:}
-{209}{}{Stahování kompletní.}
-{210}{}{Stáhnout Situace národa: Souèasný stav}
+{209}{}{Stahování dokonèeno.}
+{210}{}{Download State of the Nation: Current status.}
 {211}{}{Stáhnout seznam slov.}
 {212}{}{Zabezpeèení/Úroveò: Souèasný stav}
-{213}{}{Stáhnout A. E. C.: Èinnost Atomové Elektrárny}
+{213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Stav zabezpeèení.}
 {216}{}{Návrat k seznamu uživatelù:}
 {217}{}{Stahování dokonèeno.}
-{218}{}{Stáhnout Situace národa: Souèasný stav}
+{218}{}{Download State of the Nation: Current status.}
 {219}{}{Stáhnout seznam slov.}
 {220}{}{Zabezpeèení/Úroveò: Souèasný stav}
-{221}{}{Stáhnout protichemické jednotky: Zpráva o souèasném stavu projektu}
+{221}{}{Download Chemical Corps: Project Status Report.}
 {222}{}{Stav zabezpeèení.}
 {223}{}{Návrat k seznamu uživatelù:}
 {224}{}{Na tomto terminálu momentálnì bìží diagnostický program. Prosím zkuste jiný terminál. Dìkujeme.}
 {225}{}{Vítejte v nápovìdì sítì PoseidoNet. Je nám líto, ale soubory vaší Nápovìdy jsou v souèasné dobì již zastaralé a tím pádem nepoužitelné. Chcete vyhledat aktualizace souborù Nápovìdy? (Ano/Ne)}
-{226}{}{Ano}
+{226}{}{Ano.}
 {227}{}{Ne, zpìt.}
 {228}{}{Aktualizace souborù Nápovìdy není dostupná ve zkušební verzi PoseidoNet software. Prosím zakupte si plnou verzi pro získání pøístupu ke všem dalším aktualizacím. Vaše zkušební verze pro pøístup k síti PoseidoNet vypršela pøed 59 439 dny.}
 {229}{}{Zpìt k pøihlašovací obrazovce.}
@@ -153,16 +153,15 @@
 {254}{}{Prezidentský bezpeènostní klíè nebyl rozpoznán. Pøístup zamítnut.}
 {255}{}{(Hmm, zajímalo by mì, jestli dokážu oklamat skener, aby si myslel, že mám klíè. Staèí se jen hacknout do pøístupového souboru. Myslím, že to zkusím.)}
 {256}{}{(No nic, za pokus to stálo.) Zpìt.}
-{257}{}{Bezpeènostní skener selhal... Reinicializuji skener...}
-{258}{}{(To je moje šance, teï jen musím dostat do pamìti poèítaèe, že byl Prezidentský bezpeènostní klíè rozpoznán...)}
-{259}{}{(Zatracenì, no nic...) Zpìt.}
-{260}{}{Skener reinicializován. Pøeskenovávám...}
+{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
+{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
+{259}{}{(Damn, well nothing ventured...) Back.}
+{260}{}{Scanner reinitialized. Rescanning...}
 {261}{}{(A nyní pøichází oèekávaný moment.) Zbìsile psát.}
 {262}{}{Detekována nedovolená èinnost. Další pøístup k tomuto terminálu byl odepøen... Poplachové hlášení odesláno.}
 {263}{}{Zatracenì. Tak to se tedy vùbec nepovedlo.}
 {264}{}{Prezidentský bezpeènostní klíè rozpoznán. Dobrý den, pane prezidente. (Ano! Podíváme se co dál...)}
 {265}{}{(Co dál?)}
-#added by killap
-{266}{}{Prezidentský bezpeènostní klíè rozpoznán. Dobrý den, pane prezidente... Spouštím Nouzové vypnutí systému obrany...**Chyba** Cíl nenalezen. Ujistìte se, že jsou senzory v naprostém poøádku. Pokud ne, prosím vyplòte formuláø FG-I-106-32-0635 pro schválení opravy. Dìkujeme za použití našeho dalšího spolehlivého Vault-Tec produktu. Hezký den.}
+{266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
 {267}{}{(Hmm... možná to bude fungovat, až tady nìkdo bude. Musím to zkusit pozdìji.) Návrat k seznamu uživatelù.}
 {268}{}{(Zajímalo by mì jaké mám ještì možnosti.) Zpìt.}

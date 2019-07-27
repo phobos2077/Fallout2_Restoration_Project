@@ -76,9 +76,8 @@
 {175}{}{Jsi chytøejší, než vypadáš. Ale to asi musíš být, když jsi poøád ještì naživu. Teï utíkej zpátky za maminkou a øekni jí, že jsme na tebe byli hroznì moc oškliví.}
 {176}{}{Tak dost. Už mám tìch tvých kecù až po krk. Poslední výzva. Pojï v klidu se mnou, nebo tì roztrhnu jak hada.}
 {177}{}{To možná udìlám. Nechci nikomu ublížit. Sbohem.}
-{178}{}{Já vím, jak to chodí, ty malej sráèi. Dobøe, pùjdu s tebou a Caminetto taky. (Na Caminetta) Že jo, ty mùj ocásku?}
+{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
+ (to Caminetto) Right, my little fuckface?}
 {179}{}{Tak se mi to líbí.}
 {180}{}{Ne, už je pozdì. Udìlám z vás obou žrádlo pro psy. }
-# Begin Seraph's Code
 {181}{}{Myslím, že nakopu Caminettovi prdel nìkdy jindy.}
-# End Seraph's Code

@@ -1,4 +1,4 @@
-{100}{}{Vidíš prokonzula Gregoryho.}
+{100}{}{Vidíš prokonsula Gregoryho.}
 {101}{}{Vidíš byrokrata s vážným výrazem, úzkou hlavou a hustým oboèím.}
 {102}{}{Vidíš prokonsula Gregoryho.}
 {103}{}{Vidíš byrokrata s vážným výrazem, úzkou hlavou a hustým oboèím.}
@@ -8,7 +8,7 @@
 {107}{}{Kd...? Ghoul! STRÁŽE! STRÁŽE!}
 {108}{}{Dobrý den, Kapitáne.}
 {109}{}{Vault City vždy zvítìzí, Kapitáne.}
-{110}{}{Dobrý den, Obèane.}
+{110}{}{Zdravíèko, Obèane.}
 {111}{}{Vault City vždy zvítìzí, Obèane.}
 {112}{}{Seznamy, seznamy a zase jenom seznamy... jak já miluji seznamy!}
 {113}{}{Zpracovávám formuláø 5632 k odeslání do rozesílacího serveru...}
@@ -22,7 +22,7 @@
 {121}{}{Promiòte... mohu vám s nìèím pomoci?}
 {122}{}{Nìco pomoèit?}
 {123}{}{Odbelhat se.}
-{124}{}{Kdo jste?}
+{124}{}{Kdo jsi?}
 {125}{}{Jen se dívám, díky.}
 {126}{}{DALŠÍ služebník, co se ztratil?! Asi dám brzy Barkuse do hlášení, jestli je bude poøád nechávat bez dozoru... a teï zmizte... vystøelte! Vystøelte!}
 {127}{}{Støílet? Dobøe.}
@@ -30,24 +30,24 @@
 {129}{}{*Tststs* Ti služebníci jsou èím dál hloupìjší.}
 {130}{}{Jsem prokonzul Gregory. Je tohle úøad, který hledáte, nebo...?}
 {131}{}{"Prokonzul?" Co je sakra "prokonzul?"}
-{132}{}{Co tu dìláte?}
+{132}{}{Co tady dìláš?}
 {133}{}{Jen se dívám, díky.}
 {134}{}{Jsem ASISTENT První Obèanky. Plánuji jí schùze, mám na starosti testy udìlování Obèanství pro pøípadné uchazeèe a spravuji všechny seznamy na serveru Vault City. Není to nic jednoduchého, to vás mohu ujistit.}
 {135}{}{Testy pro udìlování Obèanství?}
 {136}{}{Když už jste se zmínil o testech pro udìlování Obèanství, chci ho znovu podstoupit.}
-{137}{}{Mùžu mít nìjaké otázky?}
+{137}{}{Mùžu se tì na nìco zeptat?}
 {138}{}{Aha. No, už musím jít.}
 {139}{}{Ano. Jediná SPRÁVNÁ cesta, jak získat Obèanství, je projít testem.}
 {140}{}{Ano. Všechno, co se týká testù Obèanství, spadá pode mne. Kdokoliv ho mùže podstoupit a v pøípadì úspìchu se stát Obèanem Vault City.}
 {141}{}{Co je to vlastnì za test?}
 {142}{}{Chci znovu podstoupit ten test.}
 {143}{}{Jaké z toho budu mít výhody, když budu Obèan?}
-{144}{}{Mùžu mít pár otázek?}
+{144}{}{Mùžu se vás ještì na nìco zeptat?}
 {145}{}{Aha. Možná si promluvíme nìkdy jindy.}
 {146}{}{Výhody? Rozhlédnìte se kolem... Vault City je nejbezpeènìjší a nejprosperující mìsto široko daleko. Obèané mají zdarma lékaøské ošetøení, máme spoustu vody a jídla a slovo kriminalita tu vùbec neznáme.}
 {147}{}{Co je to vlastnì za test?}
 {148}{}{To zní dobøe. Chci znovu podstoupit ten test.}
-{149}{}{Mùžu mít nìjaké jiné otázky?}
+{149}{}{Mùžu se vás ještì na nìco zeptat?}
 {150}{}{Aha. Možná si promluvíme nìkdy jindy.}
 {151}{}{Jedná se o test rozdìlený do nìkolika èástí... pokroèilá matematika, prostorové vnímání, deduktivní uvažování, jazykové znalosti... a také dùkladné vyšetøení fyzického stavu.}
 {152}{}{Co... pokroèilá mat-ko-tika? Ehm... a není nìjaká jiná možnost, jak získat nebo vybojovat Obèanství?}
@@ -62,21 +62,21 @@
 {161}{}{Nesouhlasíte snad s její nabídkou udìlení Obèanství za splnìní toho úkolu?}
 {162}{}{Zkusím ten test podstoupit.}
 {163}{}{Chci ten test znovu podstoupit.}
-{164}{}{Hmmm. Mùžu mít jiné otázky?}
-{165}{}{Díky za váš èas. Sbohem.}
+{164}{}{Hmmm. Mùžu mít nìjaké další otázky?}
+{165}{}{Díky za tvùj èas. Sbohem.}
 {166}{}{Pøejete si podstoupit test? Výbornì, výbornì! Nic mi nedìlá vìtší radost, než testování uchazeèù... ale musím vás varovat, zabere to nìkolik hodin. Pøejete si ho podstoupit hned?}
 {167}{}{Inu, kdokoliv mùže podstoupit test. Avšak mám takový dojem... myslím si, že v tomto pøípadì to bude jen plýtvání èasem... pro nás pro oba. Obèas se prostì vyskytnou i tací, co nemají na to stát se Obèany.}
-{168}{}{Jistì.}
+{168}{}{Jasnì.}
 {169}{}{Teï ne. Mùžu se zeptat na nìco jiného?}
-{170}{}{Možná nìkdy jindy.}
+{170}{}{Možná nìkdy pøíštì.}
 {171}{}{Chci ten test podstoupit ihned.}
 {172}{}{Tak už mi dejte ten zatracenej test.}
 {173}{}{Zapomeòte na to. Mùžu mít nìjaké otázky?}
-{174}{}{Jak myslíte. Mizím odsud.}
-{175}{}{Tak dobøe.}
+{174}{}{No nic. Mizím odsud.}
+{175}{}{Tak dobrá.}
 {176}{}{Dobrá, je to vaše právo, i když pochybuji, že to dopadne jinak, než poslednì.}
 {177}{}{Tady máte formuláøe 5028, 6112 a doplòovací konzoli pro Pip-Boye. Ujistìte se prosím, že máte všechny kolonky KOMPLETNÌ a øádnì vyplnìny. A teï si prosím sednìte támhle...}
-{178}{}{Dobøe.}
+{178}{}{Tak dobøe.}
 {179}{}{Hotovo? Urèitì si nechcete ještì jednou zkontrolovat své odpovìdi?}
 {180}{}{Nuže, èas vypršel. Podíváme se na to.}
 {181}{}{Ano, hotovo. Tady to je.}
@@ -109,18 +109,18 @@
 {208}{}{Co mi mùžete øíct o Gecku?}
 {209}{}{Zapomeòte na to. Možná si promluvíme pozdìji.}
 {210}{}{No, pokud dokonèíte ten úkol pro První Obèanku, získáte Obèanství, i když to není správné. Ale asi má pro to své dùvody.}
-{211}{}{Není nìjaký jiný zpùsob, jak získat Obèanství?}
+{211}{}{Je nìjaký jiný zpùsob, jak se stát Obèanem?}
 {212}{}{Nesouhlasíte snad s její nabídkou udìlení Obèanství za splnìní toho úkolu?}
-{213}{}{Mùžu mít nìjaké jiné otázky?}
+{213}{}{Mùžu se vás ještì na nìco zeptat?}
 {214}{}{Hmm. Sbohem.}
 {215}{}{Nejsem ten pravý èlovìk, abych mohl kritizovat èiny První Obèanky.}
 {216}{}{Je nìjaký jiný zpùsob, jak se stát Obèanem?}
-{217}{}{Mùžu mít nìjaké jiné otázky?}
-{218}{}{Tak na to zapomeòte.}
+{217}{}{Mùžu se vás ještì na nìco zeptat?}
+{218}{}{Tak na to zapomeò.}
 {219}{}{Gecko? To je špinavá osada na sever odsud, obydlená tìmi tvory... "ghouly." Jsou odpovìdní za otrávení našich podzemních zdrojù vody, víte! Zcela jasný akt záškodnictví vùèi Vault City!}
 {220}{}{Jak otrávili podzemní zdroje vody?}
-{221}{}{Hmmm. Mùžu se zeptat na nìco jiného?}
-{222}{}{Dìkuju vám, sbohem.}
+{221}{}{Hmmm. Mùžu mít nìjaké další otázky?}
+{222}{}{Díky. Sbohem.}
 {223}{}{Ta jejich osada je totiž zbudována poblíž zbytkù staré atomové elektrárny... a oni tu elektrárnu NÌJAK uvedli opìt do chodu a teï z ní uniká spousta radiace! Musíme ty tvory odtamtud vyhnat a elektrárnu odstavit!}
 {224}{}{Hmmm. Mùžu mít nìjaké další otázky?}
 {225}{}{Díky za informace. Sbohem.}

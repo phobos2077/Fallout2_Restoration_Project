@@ -1,8 +1,8 @@
-{100}{}{You see a prisoner.}
-{101}{}{You see a Citizen prisoner.}
-{102}{}{Not a good idea to talk back to Lynette.}
-{103}{}{Just sleeping it off.}
-{104}{}{Didn't do enough to get my Citizenship revoked.}
-{105}{}{Moore *said* I'd get caught...}
-{106}{}{I'm in here for my own good.}
-{107}{}{I needed to learn this lesson.}
+{100}{}{Você vê um preso.}
+{101}{}{Você vê um cidadão preso.}
+{102}{}{Não é uma boa idéia retrucar a Lynnete.}
+{103}{}{Apenas dormindo para curar a ressaca.}
+{104}{}{Não fiz algo tão grave para ter minha cidadania revogada.}
+{105}{}{Moore *disse* que fui pego...}
+{106}{}{Estou aqui para o meu próprio bem.}
+{107}{}{Precisava aprender esta lição.}

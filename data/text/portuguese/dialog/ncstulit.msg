@@ -1,223 +1,223 @@
-{100}{}{You see a cute "little person."}
-{101}{}{You see Stuart Little.}
-{150}{}{You see a midget in children's clothes. He is chewing on a toothpick and studying you.}
-{151}{}{You see Stuart Little, the midget boxing agent. He is chewing on a toothpick and studying you.}
-{152}{}{You see Stuart Little, the midget boxing agent. He looks so cute. Like a smelly, red-haired teddy bear.}
-{200}{}{Kid, I knew you'd do good, but I didn't know you were gonna save the world, too. Good job.}
-{201}{}{You done me proud, kid.}
-{202}{}{You went the distance, kid. You done Stuart proud.}
-{210}{}{I wish I coulda seen you put your fist through the Enclave.}
-{211}{}{That battle 'gainst the Enclave musta been something else. Damn.}
-{212}{}{Ha! Ever thought of using that energy o' yours in the RING rather than savin' the world?}
-{220}{}{How's it hanging, champ?}
-{221}{}{Looking good, fella.}
-{222}{}{Fists like gold is what you have.}
-{223}{}{Ya eat lightning and crap thunder, kid.}
-{224}{}{You dropped that sonuvabitch like a bad habit. Good job.}
-{225}{}{Glad I took the chance on you, sweetheart.}
-{226}{}{Looking good, darling.}
-{230}{}{Need some new talent...}
+{100}{}{Você vê um homenzinho muito bonitinho.}
+{101}{}{Você vê Stuat Little.}
+{150}{}{Você vê um anão em roupas infantis. Ele está mastigando um palito de dentee estudando você.}
+{151}{}{Você vê Stuart Little, o agente de boxe anão. Ele está mastigando um palito de dente e estudando você.}
+{152}{}{Você vê Stuart Little, o agente de boxe anão. Ele é uma gracinha. Como se fosse um sorridente teddy bear vermelho.}
+{200}{}{Putz, eu sabia que você era fazia coisas boas, mas não sabia que você iria salvar o mundo também. Bom trabalho.}
+{201}{}{Você me deixa orgulhoso.}
+{202}{}{Você arrasou, chapa. Você deixa Stuart orgulhoso.}
+{210}{}{Eu queria ter visto você socar a Enclave.}
+{211}{}{Essa batalha contra a Enclave deve ter sido demais. Puxa...}
+{212}{}{Ha! Já pensou em usar essa sua energia no RINGUE ao invés de salvar o mundo?}
+{220}{}{Como vão as coisas, campeão?}
+{221}{}{Parece bem, chapa.}
+{222}{}{Punhos de ouro, é o que você tem.}
+{223}{}{Você come raios e trovões, garoto.}
+{224}{}{Você derrubou aquele "bichinha" facilmente. Bom trabalho.}
+{225}{}{Ainda bem que apostei em você, garotão.}
+{226}{}{Parece bem, querido.}
+{230}{}{Preciso de um talento novo...}
 {231}{}{Sorry lead asses...}
-{232}{}{If I was just a little taller...}
-{233}{}{These guys all fight like bums...}
-{240}{}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) }
-{241}{}{Yeah, whatta YOU want, big guy?}
-{242}{}{What can I do for you, honey?}
-{243}{}{Hey there, hero. What can I do for you?}
+{232}{}{Se eu fosse só um pouco mais alto...}
+{233}{}{Esses caras lutam como mendigos...}
+{240}{}{(O anão estuda você ao se aproximar e tira o palito de dente da boca.) }
+{241}{}{Quê, o que é que cê quer, grandalhão?}
+{242}{}{O que posso fazer por você, docinho?}
+{243}{}{E aí, herói. Em que posso ajudar?}
 {244}{}{Hunh?}
-{245}{}{Why you soooo small?}
-{246}{}{[Wander off.]}
+{245}{}{Por que você tããããooo pequeno?}
+{246}{}{Sair andando}
 {247}{}{Quem é você?}
-{248}{}{Nothing. I was just looking around.}
-{250}{}{(Makes a shooing motion.) Buzz off, asshead. Yer wasting my time.}
+{248}{}{Nada. Só estou dando uma olhada no local.}
+{250}{}{(Faz um gesto de expulsão.) Sai fora, cabeçudo. Cê tá me fazendo perder tempo.}
 {251}{}{Bzzzzzzz-bzzzzzz}
-{260}{}{(Sighs, looks like he is about to say something, then pauses as he studies your frame.) You fight at all? You
- look pretty fit.}
-{261}{}{Me fight a LOT. Me fight u?}
-{262}{}{Me no look pretty. U like men? Me willing}
-{270}{}{No, no... fight in the RING! You know, the ring? (Points at the boxing ring, makes jabbing motions in the air.)
- That something you might be interested in?}
-{271}{}{(Punch the tiny man in the face and take his lunch money)}
-{272}{}{Uh-huh}
-{273}{}{Can I get ice cream if fight?}
-{274}{}{Nuh-uh}
-{275}{}{Me married to advenshure me leave}
-{280}{}{(Jumps back.) Whoa there, asshead! Save it for the ring. Now look: you in or you out?}
-{281}{}{I'm an innie}
-{283}{}{I'm an outtie}
-{290}{}{(Smiles.) All right, it's a done deal. Name's Stuart, most call me Stuart Little, but that's only cause... well, all YOU
- need to know is I'm big in all the important ways. You got a name, asshead?}
+{260}{}{(Parece que ele iria dizer algo, mas pára e estuda o seu porte.) Você luta? Parece
+ que você está em boa forma.}
+{261}{}{Mim lutar MUITO. Mim lutar você?}
+{262}{}{Mim não boa. Você gostar homem? Mim pronto}
+{270}{}{Não, não... a luta é no RINGUE! Você sabe, o ringue? (Aponta para o ringue de boxe, faz gestos de "entendeu".)
+ Talvez você esteja interessado?}
+{271}{}{(Socar o homem pequenino e pegar seu dinheiro do lanche)}
+{272}{}{hã-ham.}
+{273}{}{Eu vou ganhar um sorvete se eu lutar?}
+{274}{}{hã-hã}
+{275}{}{Mim casado com aventura. Mim sair}
+{280}{}{(Salta para trás.) Opa! Cuidado, cabeça de pistola! Guarde isso pro ringue. Agora preste atenção: você está dentro ou está fora?}
+{281}{}{Eu sou de dentro}
+{283}{}{Eu sou de fora}
+{290}{}{(Sorri.) Muito bem, estamos acertados. Meu nome é Stuart, muitos me chamam de Stuart Little, mas é só porque... bem, tudo o que VOCÊ
+ precisa saber é que eu sou grande nos negócios importantes. Entendeu o nome, cabeça de pistola?}
 {291}{}{Eu}
 {292}{}{Me... uh... me...}
-{293}{}{Me Big Stu}
-{296}{}{[Wander away in search of adventure.]}
-{300}{}{Me-a-me, huh? "Miami..." I LIKE it. I LIKE it. All right then, let's go do some damage.}
-{301}{}{(Frowns.) Wise-ass, huh? Hmmph... can't get no respect in this town. (Shrugs.) All right then, let's go do some
- damage.}
-{302}{}{, huh? All right then, }
-{305}{}{[Run away and hide.]}
-{310}{}{(Puffs up indignantly.) Look. Just because I'm not of so-called "average height" does not mean I have to receive my thrills
- vicariously.}
-{311}{}{Is that so?}
-{320}{}{Get outta my sight, asshead. No hope for you in this town. Beat it!}
-{321}{}{I NEVER should have taken a risk on you, what a friggin' disappointment. Now get outta here! Beat it!}
-{322}{}{ME }
-{323}{}{What about ice cream}
-{324}{}{[Run off crying.]}
-{326}{}{[Smile calmly, nod, then attack him.]}
-{327}{}{Give me another chance, Stuart. Come on, just ONE more chance. I can go the distance!}
-{328}{}{[Leave.]}
-{329}{}{(Stuart looks disgusted with you as you're hauled out of the ring.) }
-{330}{}{What, the Masticator bite your ears off, boy?! }
-{331}{}{What, the Masticator bite your ears off, girl?! }
-{332}{}{I said BEAT it! Get outta here!}
-{333}{}{[Kick the loud red little man.]}
-{334}{}{[Tromp out angrily.]}
-{336}{}{[Hit the road.]}
-{337}{}{(Turns red.) }
-{340}{}{One more chance. I get 75%, no arguments. }
-{341}{}{One more chance. I still get 75%, no arguments. }
-{342}{}{Done. I'm ready to fight again right now. Lead on, Stuart.}
-{343}{}{Done. Give me a little time to rest up, and I'll be ready to fight again.}
-{344}{}{Nothing's worth this much grief.}
-{345}{}{(Stuart turns red, looks like he is about to start shouting, then simmers down.) Awright. }
-{346}{}{Screw up again, yer outta here.}
-{350}{}{(Stuart is smiling like a jackal.) Damn fine performance up there, }
-{351}{}{Me ready now READY TO DO SOME DAMAGE NOW NOW}
-{352}{}{Me take brief nap then me ready to fight again}
-{353}{}{Me want some ice cream}
-{355}{}{I'm ready. Let's get down to business.}
-{356}{}{Let me rest a little, then I'll be ready.}
-{357}{}{I think I'm done with this, Stuart... I saw my death up there in that ring, and it has me spooked. I'm hanging up the gloves.}
-{360}{}{(The midget blinks, then frowns.) Ice... what?}
-{361}{}{I scream, you scream, everybody screams for ice cream}
-{362}{}{Uh-uh. Ice CREAM}
-{363}{}{[Wander off in search of adventure.]}
-{370}{}{(The midget smiles uneasily.) }
-{371}{}{Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. }
-{372}{}{Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. }
-{373}{}{Now you wanna fight or what?}
-{374}{}{Okay}
-{375}{}{Me want to rest a bit first.}
-{376}{}{Naw}
-{380}{}{Well, I ain't gonna force you, but it could have been a sweet deal, a rocket road to the top, a jackpot in the
- sky... come back if you change your mind. You're gold, kid.}
-{390}{}{All right then! Let's get this circus on the road!}
-{391}{}{[Follow him.]}
-{400}{}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? }
-{401}{}{Someone's done you a disservice not telling you about me, pal. }
-{402}{}{Someone's done you a disservice not telling you about me, darling. }
-{404}{}{Hmmmph. So. What's your name?}
+{293}{}{Mim Big Stu}
+{296}{}{Sair andando em busca de aventura}
+{300}{}{Mim-a-mim, huh? "Miami…" EU GOSTEI! EU GOSTEI! Muito bem, vamos causar alguns danos.}
+{301}{}{(Ele fanze as sobrancelhas.) Sabichão, huh? Hmmpf…não se consegue respeito nessa cidade. (Ele dá de ombros.) Pois muito bem. Vamos dar
+ umas porradas.}
+{302}{}{, huh? Pois muito bem, }
+{305}{}{Sair correndo e esconder}
+{310}{}{(Solta o ar indigndo.) Olha. Só porque eu não sou lá "tamanho-moderado" não quer dizer que eu não tenha emoções
+ indiretas.}
+{311}{}{É isso?}
+{320}{}{Sai fora da minha frente, cabeça de pistola! Sem chances pra você nessa cidade. Cai fora!}
+{321}{}{Eu NUNCA deveria ter arriscado com você, mas que decepção. Agora saia daqui! Cai fora!}
+{322}{}{MIM }
+{323}{}{E o sorvete?}
+{324}{}{Sair correndo e chorando}
+{326}{}{(Sorrir calmamente, inclinar a cabeça... e atacá-lo.)}
+{327}{}{Me dê outra chance, Stuart. Colé, só mais UMA chance. Eu posso conseguir!}
+{328}{}{(Sair.)}
+{329}{}{(Stuart olha com desgosto para você quando lhe retiram do ringue. }
+{330}{}{O quê, o Masticator mordeu sua orelha, garoto?!}
+{331}{}{O quê, o Masticator mordeu sua orelha, garota?! }
+{332}{}{Eu disse CAI fora! Saia daqui!}
+{333}{}{Chutar o o homenzinho vermelho e barulhento}
+{334}{}{Sair batendo em tudo nervosamente}
+{336}{}{(Cair na estrada.)}
+{337}{}{(Ficar vermelho..) }
+{340}{}{(Mais uma chance. Eu fico com 75%, sem mais argumentos. }
+{341}{}{(Mais uma chance. E ainda fico com 75%, sem mais argumentos. }
+{342}{}{Feito. Estou pronto pra lutar de novo agora mesmo. Vamos lá, Stuart.}
+{343}{}{Feito. Me dê um tempo pra descansar, e estarei pronto pra lutar de novo.}
+{344}{}{Meu arrependimento não tem valor.}
+{345}{}{(Stuart fica vermelho, parece que vai começar a gritar, mas se acalma. Tudo bem. }
+{346}{}{Perca de novo e você está fora.}
+{350}{}{(Stuart sorri como um chacal.) Foi uma ótima briga, }
+{351}{}{Mim ok agora QUER DAR PORRADA AGORA AGORA}
+{352}{}{Mim descansar e então ok pra lutar de novo}
+{353}{}{Mim que sorvete}
+{355}{}{Mim ok. Vamos aos negócios.}
+{356}{}{Deixe-me descansar um pouco.}
+{357}{}{Eu acho que cansei disso, Stuart... Eu vi minha morte naquele ringue, e me deu arrepios. Estou pendurando as luvas.}
+{360}{}{(O anão pisca e depois levanta os ombros.) Sor... o quê?}
+{361}{}{É... todos nós gostamos de sorvete.}
+{362}{}{Uh-uh. SorVETE}
+{363}{}{Sair a procura de aventuras}
+{370}{}{(O anão sorri desconfortavelmente.) }
+{371}{}{Bem, eu posso te arrumar creme, chapa... uma puta ou uma variedade de droga... mas é só isso. }
+{372}{}{Bem, eu posso te arrumar um creme, docinho... um garoto de programa ou uma variedade de droga... mas é só isso. }
+{373}{}{Agora você quer brigar ou o quê?}
+{374}{}{Certo}
+{375}{}{Mim quer descansar antes.}
+{376}{}{Não}
+{380}{}{Bem, eu não vou te forçar, mas seria um ótimo negócio, um negócio de primeira, um caça-níqueis no
+ céu... volte se mudar de idéia. Você é ouro, criança.}
+{390}{}{Muito bem então! Vamos colocar o circo na estrada!}
+{391}{}{Segui-lo.}
+{400}{}{O qu... você não me OUVIU? Stuart, Stuart Little? Maior agente de toda Reno? }
+{401}{}{Alguém fez o favor de não te contar sobre mim, chapa. }
+{402}{}{Alguém fez o favor de não te contar sobre mim, docinho.  }
+{404}{}{Hmmmpf. Então. Qual o seu nome?}
 {405}{}{Eu sou }
-{407}{}{You ever worked in a circus, Stuart?}
+{407}{}{Você já trabalhou no cico, Stuart?}
 {408}{}{"Stuart Little?"}
-{409}{}{There's a little more to me than my legs, Stuart. So be polite, or else you're going to have even more trouble getting
- a date in this town, all right?}
-{410}{}{Actually, I was just looking around. Catch you later, Stuart.}
-{411}{}{(Sticks toothpick back in mouth, chews on it.) Got a name?}
-{412}{}{(Looks you up and down.) Got a name to go with those legs?}
-{420}{}{(Stuart nods.) }
-{421}{}{Awright, }
-{422}{}{... }
+{409}{}{Há mais em mim do que minhas pernas, Stuart. Então seja mais educado, senão você terá problemas em arrumar
+ encontros nessa cidade, okay?}
+{410}{}{Na verdade, eu só estav dando uma olhada. Te vejo por aí, Stuart.}
+{411}{}{(Coloca o palito de volta na boca e o mastiga.) Tem um nome?}
+{412}{}{(Olha pra você de cima para baixo.) Tem um nome para ir com essas pernas?}
+{420}{}{(Stuart inclina a cabeça.) }
+{421}{}{Tudo bem, }
+{422}{}{… }
 {423}{}{O que posso fazer por você?}
-{424}{}{I'm looking to box. Can you help me out?}
-{430}{}{(Stuart nods and smiles as you approach.) Hey, hero! Heard about what you did. Congratulations. What's up?}
-{431}{}{(Stuart nods as you approach.) Heeeey, }
-{432}{}{(Stuart sneers as you approach.) Well, if it ain't "}
-{433}{}{Me wanta fight more}
-{434}{}{Th'sky. Byeee}
-{435}{}{I'm reeeeeeady to rumble.}
-{436}{}{Give me another chance, Stuart. I can GO the distance! C'mon...}
-{437}{}{Nothing. Just looking around.}
-{440}{}{You wanna BOX? Uh... awright, let me level with you, kid. You just don't look like you
- have the frame for it.}
-{441}{}{You wanna BOX? Awright, now I've heard it all. Look, most job opportunities in Reno for women are... hmmm.
- Well, from the looks of it, maybe those jobs weren't cut out for you.}
-{442}{}{You wanna BOX? Awright, now I've heard it all. Look, not to be mean or nothing, it's just that boxing is an
- UGLY sport... and it makes people in it ugly, too. In your case, that would be a damn shame.}
+{424}{}{Estou procurando por boxe. Você pode me ajudar?}
+{430}{}{(Stuart mexe a cabeça e sorri quando você se aproxima.) Escutou o que você fez? Parabéns. E então?}
+{431}{}{(Stuart mexe a cabeça quando você se aproxima.) Heeeeeey, }
+{432}{}{(Stuart brinca com você ao se aproximar.) Bem, bem... se não é  "}
+{433}{}{Mim querer brigar mais}
+{434}{}{Nada. Tchauuu}
+{435}{}{Estou prooooooonto pra arrebentar.}
+{436}{}{Me dê outra chance, Stuart. Eu consigo! Por favor...}
+{437}{}{Nada. Só estou dando uma olhada por aqui.}
+{440}{}{Você quer lutar? Hum... certo, deixe-me ser franco com você, criança. Você não parece ter
+ corpo pra isso.}
+{441}{}{Você quer lutar? Certo, já ouvi tudo. Olha, a maioria dos trabalhos em Reno pras mulheres são…hmmm.
+ Bem, pelo visto, esses trabalhos não foram feitos pra você.}
+{442}{}{Você quer lutar? Certo, já ouvi tudo. Olha, eu não quero ser chato, mas boxe é um
+ esporte FEIO... e faz as pessoas que o lutam feias, também. No seu caso, isso seria uma vergonha.}
 {444}{}{Give me a chance, and I'll forget that LITTLE crack you just made.}
-{445}{}{Give me a chance, Stuart.}
-{446}{}{Oh, forget this brahmin shit. I'm out of here.}
-{450}{}{No, sorry, honey, too much of a risk... chances are, they wouldn't even let you fight. Now get
- on home, 'kay?}
-{451}{}{No, sorry, pal, too much of a risk... it'd be a massacre. Now get on home, 'kay?}
-{452}{}{There aren't any woman boxers, Stuart, and that's my point. You'll be the first agent sponsoring a woman boxer. People will
- come in DROVES to see it.}
-{453}{}{But that's just it, Stu... I can call you Stu, can't I?...it WOULD be a massacre. Do you know how much attention that would
- grab? It'd be like going to see an execution!}
-{454}{}{Oh, this is brahmin shit. I'm out of here.}
-{460}{}{No, sorry, honey, too much of a risk... chances are, they wouldn't even let you fight. Now get
- on home, 'kay?}
-{461}{}{No, sorry, pal, it wouldn't even be an entertaining massacre. Now get on home, 'kay?}
-{462}{}{It's a risk, sure... but you know, Stuart, I could *dress down* a little in the ring. Might draw more of a crowd than you're
- used to...}
-{463}{}{Oh, this is brahmin shit. I'm out of here.}
-{470}{}{Hmmmmm... awright, I'll give you a chance... but I ain't promising anything. This hurts business,
- even a little, and you're out. (Puts his hands on hips.) My take is half the winnings, no arguments.}
-{471}{}{Hmmmmm... I'll give you a chance... but I ain't promising anything; I'm doing you a favor
- taking some unknown under my wing. My take is half the winnings... no arguments.}
+{445}{}{Me dê uma chance, Stuart.}
+{446}{}{Ah, esqueça essa merda de brahmin. Estou fora.}
+{450}{}{Não, desculpe, docinho, é muito arriscado... as chances são... eles nem deviam ter deixado você lutar. Agora volte
+ pra casa, okay?}
+{451}{}{Não, desculpe, chapa, é muito arriscado... seria um massacre. Agora volte pra casa, okay?}
+{452}{}{Não há mulheres boxeadoras, Stuart, esse é o canal. Você será o primeiro agente a patrocinar uma mulher. As pessoas virão
+ aos MONTES para assistir.}
+{453}{}{Mas é isso, Stu... Eu posso te chamar de Stu, não posso? ... realmente SERIA um massacre. Você tem noção do quanto isso iria chamar atenção?
+ Seria como assisitir uma execução!}
+{454}{}{Ah, isso é merda de brahmin. Estou fora.}
+{460}{}{Não, desculpe, docinho, é muito arriscado... as chances são... eles nem deviam ter deixado você lutar. Agora volte
+ pra casa, okay?}
+{461}{}{Não, desculpe, chapa, é muito arriscado... seria um massacre. Agora volte pra casa, okay?}
+{462}{}{É um risco, realmente... mas sabe, Stuart, eu poderia *aguentar a luta* por um tempo no ringue. Atrairia mais pessoas do que
+ de costume…}
+{463}{}{Ah, isso é merda de brahmin. Estou fora.}
+{470}{}{Hmmmmm…certo, eu vou te dar mais uma chance... mas não prometo nada. Se prejudicar meu trabalho,
+ mesmo que seja um pouco, você está fora. (Põe as mãos na cintura.) Eu fico com a metade do que ganhar. E sem mais argumentos.}
+{471}{}{Hmmmmm…vou te dar outra chance... mas não prometo nada; Estou te fazendo um favor
+ pegando um desconhecido. Eu fico com a metade do que ganhar... sem mais argumentos.}
 {472}{}{Feito.}
-{473}{}{Cut your take down to 25%, and we got a deal.}
-{474}{}{Oh, this is brahmin shit. I'm out of here.}
-{480}{}{(Stuart's frown deepens. He looks like he is about to protest, then he shakes his head with a smirk.) All right already!
- Now if yer ALL done whittling away my livelihood, let's talk management.}
-{481}{}{Okay...}
-{490}{}{Awright... (Stuart looks you over.) Yer gonna need a name, y'know, a handle. Something that sounds tough. Mean. Like }
-{500}{}{(The midget frowns.) Didn't he die against that Russian guy way back when? Aw, whatever. Shall we hit the ring?}
-{501}{}{(The midget smirks.) Looks like you and the "Masticator" will be getting along just fine. Just don't bite off too many
- ears. Well... shall we hit the ring?}
-{502}{}{(The midget smirks.) You don't look Russian. But whatever works for you... shall we hit the ring?}
-{503}{}{(The midget smirks.) "Pity the fo," huh? Well, okay... but let's hope YOUR career goes somewhere. Shall we head to the ring?}
-{504}{}{(The midget smirks.) Eye of the Tiger, huh? "Aaaydrian," "Aaaaydrian..." Heh-heh. I like it... lot of weight associated with it.
- Shall we head to the ring?}
-{505}{}{(The midget nods.) }
+{473}{}{Corte sua parte pra 25%, e fechamos o negócio.}
+{474}{}{Ah, isso é merda de brahmin. Estou fora.}
+{480}{}{(Stuart franze as sobrancelhas ainda mais. Parece que vai protestar e então balança a cabeça com um sorriso falso.) Está certo!
+ Agora, se 'cê TERMINOU de zombar da minha profissão, vamos falar de negócios.}
+{481}{}{Beleza…}
+{490}{}{Muito bem… (Stuart olha bem pra você.) 'Cê vai precisar de um nome, 'cê sabe, um título. Algo que soe forte. Mau. Como }
+{500}{}{(O anão franze as sobrancelhas.) Ele não morreu lutando contra aquele cara russo? Ah, fodas... Já podemos ir pro ringue?}
+{501}{}{(O anão sorri falsamente.) Parece que você e o "Mastigador" vão se entender muito bem. Só não morda muitas
+ orelhas. Bem... podemos ir pro ringue?}
+{502}{}{(O anão sorri falsamente.) Você não parece russo. Mas qualquer coisa serve... podemos ir pro ringue?}
+{503}{}{(O anão sorri falsamente.) "Pity the fo," hein? Bem, está certo... vamos torcer pra SUA carreira ir pra algum lugar. Podemos ir pro ringue?}
+{504}{}{(O anão sorri falsamente.) Olho do Tigre, huh? "Aaaydrian," "Aaaaydrian…" Heh-heh. Eu gostei... bastante peso associado nisso.
+ Podemos ir pro ringue?}
+{505}{}{(O anão mexe a cabeça.) }
 {506}{}{Vamos lá.}
-{510}{}{No dice. Fifty-fifty or NOTHING. If you don't like that, walk.}
-{511}{}{Fine. Though I wasn't aware vampires came in your size.}
-{512}{}{Okay. 50/50. What's next?}
-{513}{}{Did I say 25/75? I MEANT 50/50. We'll split the profit right down the middle. No problems here.}
-{514}{}{[Walk.]}
-{520}{}{Yeah, yeah, I know, "Stuart Little." My Mom used to read a lotta E.B. White. Now, you got a name?}
-{521}{}{Hmmpph. You got a name?}
-{526}{}{Nice meeting you, Stu. I don't have time to talk right now. Catch you later.}
-{530}{}{And what makes you think I've ever spectated a circus, much less been enslaved by one?}
-{531}{}{Uh... well, I know that many of the citizens of New Reno act like they came out of a circus, and I thought...}
-{540}{}{YOU thought because I'm a person of short stature, the only career I could procure would be confined to the so-called 'big top.'}
+{510}{}{Nada disso. Cinqüenta-cinqüenta ou NADA. Se não gosta, saia.}
+{511}{}{Ótimo. Não sabia que faziam vampiros do seu tamanho.}
+{512}{}{Certo. 50/50. E agora?}
+{513}{}{Eu disse 25/75? Eu quis dizer 50/50. Vamos dividir na metade. Sem problemas.}
+{514}{}{Sair.}
+{520}{}{Tá, tá, eu sei, "Stuart Little." Minha mãe costumava ler muito E.B. White. Agora, você tem um nome?}
+{521}{}{Hmmpf. Você tem um nome?}
+{526}{}{É um prazer conhecê-lo Stu. Eu não tenho tempo pra convesar agora. A gente se esbarra.}
+{530}{}{E o que te faz pensar que eu já me apresentei num circo, ou mesmo sido escravizado por algum?}
+{531}{}{Ah... bem, eu sei que muitos cidadãos de New Reno agem como se tivessem vindo do circo, então eu pensei que...}
+{540}{}{VOCÊ pensa que só porque eu sou de baixa estatura, a única carreira que eu poderia ter seria ficar confinado numa 'tenda do circo'.}
 {541}{}{Uh... well, now...}
-{550}{}{You took one QUICK look at me and thought you could deduce my entire life. It would never have occurred to you that a
- person of my height could have obtained a career in *Boxing Management.*}
-{551}{}{I'm sorry, I meant no offense.}
-{560}{}{Why should I take offense? Just because it seems to be the habit of everyone in this game to make instantaneous judgments
- of other NPCs based solely on their physical appearance?}
-{561}{}{Well, I don't know about an INSTANTANEOUS judgment...}
-{570}{}{Why, I've done the same thing to you, for example.}
+{550}{}{Você só deu uma RÁPIDA olhada em mim e pensou que poderia deduzir toda a minha vida. Não te ocorreu que uma
+ pessoa do meu tamanho poderia conquistar a carreira de *Agente de Boxe.*}
+{551}{}{Desculpe, eu não quis ofender.}
+{560}{}{Por que eu tomaria como ofensa? Só porque é um hábito de todos neste jogo fazer julgamentos instantâneos
+ de outros NPCs baseado somente em suas aparências físicas?}
+{561}{}{Bem, eu não sei se foi um julgamento INSTANTÂNEO...}
+{570}{}{Bem, eu fiz o mesmo com você, por exemplo.}
 {571}{}{Oh?}
-{580}{}{(Looks at you pityingly.) But do you see the TRAGEDY here? I have mistakenly reduced you to a stereotype, a caricature,
- a generic Fallout model, instead of regarding you as a specific, unique character.}
-{581}{}{Uh, but Stuart, I AM a typical hero model. In fact, I am the player character of this game.}
-{590}{}{Not all women are attracted to barrel-chested, overly muscled male character models. You'd be surprised how many women
- find my size intriguingly ALLURING.}
-{591}{}{And you'd be surprised how many men do as well.}
-{600}{}{I've taken in your ridiculously overly-muscled physique, your gritty Mad Maxx wanna-be demeanor, your unimaginative
- character point allocation and concluded you are a mini-maxing munchkin.}
-{601}{}{I've taken in your over-pixilated breasts, your ridiculous sashay when you walk, your unimaginative character point
- allocation and concluded you are a mini-maxing Laura Kroft wannabe... a "munchkin."}
+{580}{}{(Olha pra você com piedade.) Você reparou que TRAGÉDIA? Eu me enganei reduzindo você a um esteriótipo, uma caricatura,
+ um modelo de Fallout genérico, ao invés de o considerar como um específico, único personagem.}
+{581}{}{Ahm, mas Stuart, EU SOU um típico modelo de herói. De fato, eu estou jogando como personagem desse jogo.}
+{590}{}{Nem todas as mulheres se atraem por barrigas-de-barril. Quase sempre é por personagens masculinos musculosos. Você se espantaria se soubesse  quantas mulheres
+ acham meu tamanho intigantemente TENTADOR.}
+{591}{}{E você ficaria surpreso se soubesse o número de homens que também acha.}
+{600}{}{Eu olhei pro seu físico musculoso ridículo, seu comportamento de Mad Max, your gritty Mad Maxx wanna-be demeanor, seu personagem
+ mal planejado e concluí que você é um pirralho.}
+{601}{}{Eu olhei pros seus peitos pixelados, seu rebolado ridículo quando anda, sua personagema
+ mal planejada e concluí que não passa de uma "quero ser a Laura Kroft"... uma pirralha.}
 {602}{}{I...}
 {610}{}{You are nothing more than a typical 'RPG male hero model,' if you will, one of MANY such models that seems to fill this
  world in droves.}
 {611}{}{You are nothing more than a typical 'RPG female hero model,' if you will, one of MANY such models that seems to fill this
  world in droves.}
 {612}{}{Bem...}
-{1302}{}{ let's go do some damage.}
-{1322}{}{ NOT ASS HEAD ME KILL YOU KILL YOU KILL Y--}
+{1302}{}{ vamos dar umas porradas.}
+{1322}{}{ NÃO CABEÇA DE PISTOLA MIM MATAR VOCÊ MATAR VOCÊ MATAR V--}
 {1350}{}{...you doing all right, feeling all right? Let me know when you're ready for your next match.}
 {1405}{}{.}
-{1406}{}{, I'm looking to box. Can you help me out?}
-{1421}{}{. Nice ta meet ya. }
-{1422}{}{... I like that. Pretty name. Well, it's a pleasure to meet you, }
-{1431}{}{! What's up? Ready to get back in the ring?}
-{1432}{}{." What brings you back around?}
-{1490}{}{ the Hurricane, }
-{2490}{}{ the Brawler, y'know.}
-{2505}{}{... not bad, not bad. It fits. (Nods at the ring.) Shall we get to it, then? You ready?}
+{1406}{}{, Estou procurando por boxe. Você pode me ajudar?}
+{1421}{}{. Prazer em te conhecer. }
+{1422}{}{… Eu gosto disso. Belo nome. Bem, é prazer te conhecer, }
+{1431}{}{(! E aí? Vai mais uma luta no ringue?}
+{1432}{}{." O que te trás de volta?}
+{1490}{}{ o Furacão, }
+{2490}{}{ o Agressivo, 'cê sabe.}
+{2505}{}{… nada mau, nada mau. Isso serve. (Aponta pro ringue com a cabeça.) Podemos ir, então?}
 {3422}{}{. }

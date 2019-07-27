@@ -1,50 +1,38 @@
-{100}{}{Some sort of notice board.}
-{101}{}{You see Klamath's bulletin board.}
-{102}{}{Ads and notices for employment are tacked to this board. Some of them have been here for a
- while.}
-{110}{}{There are several things here. Some ads, job notices, and even a drawing. It looks as though
- some of these have been here for a while.}
-{120}{}{I guess I'll take a closer look at that drawing.}
-{130}{}{This one looks good -- something about booze.}
-{140}{}{Something here about a bath.}
-{150}{}{Someone wants to buy some lizard hides.}
-{160}{}{Here's something about rats.}
-{170}{}{Something about old stuff here.}
-{180}{}{Looks like someone's gone missing.}
-{190}{}{(Walk Away)}
-{210}{}{A crude drawing of what looks like a brahmin with a big 'X' through it and the word 'Torr'
- scrawled underneath.}
-{220}{}{I think I'll take a look at another notice.}
-{230}{}{That's all the info that I need for now.}
-{240}{}{Booze -- gotcher 'tention didn't I? Bum laig prevents business. Need help refueling still.
- Speedy and reliable type needed. See Whiskey Bob over at Ma Buckner's place.}
-{250}{}{I think I'll take a look at another notice.}
-{260}{}{That's all the info that I need for now.}
-{270}{}{Missing Person. Has anyone seen Smiley the trapper? Smiley's about six feet tall, clean and
- housebroken (mostly). Disappeared up north and I kinda miss him. --Ardin Buckner}
-{280}{}{I think I'll take a look at another notice.}
-{290}{}{That's all the info that I need for now.}
-{310}{}{Top dollar for top pelts. You have gecko pelts? I have $$$. Golden gecko pelts especially
- welcome. See me first! -Sajag, owner, operator, Golden Gecko Tavern.}
-{320}{}{I think I'll take a look at another notice.}
-{330}{}{That's all the info that I need for now.}
-{340}{}{Too many damn rats in Trapper Town. Come an get 'em, all you can eat.--Slim.}
-{350}{}{I think I'll take a look at another notice.}
-{360}{}{That's all the info that I need for now.}
-{370}{}{Feelin' grubby? Nuthin' makes a feller feel better 'an a nice bath. Three fun-filled types to
- choose from! Featuring the beautiful and talented Jenny (late of the Den) -- See Big Nosed Sal at the
- Bathhouse for more excitin' details.}
-{380}{}{I think I'll take a look at another notice.}
-{390}{}{That's all the info that I need for now.}
-{400}{}{Jan-u-wine Antee-cues. They don't make it like they usta. In fact, they mostly don't make it at
- all. If you want the good old stuff, see Vic the Trader -- East side of Downtown.}
-{410}{}{I think I'll take a look at another notice.}
-{420}{}{That's all the info that I need for now.}
-{430}{}{You see a piece of wood with scraps of paper tacked to it. All but one of the papers have those
- pesky little bug-like marks on them. Whew! Boy, are you tired. Maybe you should find something less
- taxing to do.}
-{440}{}{Torr. (Look at the one notice that makes any sense.)}
-{450}{}{Ook}
-{460}{}{A crude drawing of what looks like a brahmin with a big 'X' through it and the word 'Torr'
- scrawled underneath. (Not exactly Lascaux but the meaning is clear enough.)}
-{470}{}{Eruu. (Well, plainly some poor soul named Torr needs help with his brahmin in some way.)}
+{100}{}{Algum tipo de placa de avisos.}
+{101}{}{Você vê uma placa de avisos de Klamath.}
+{102}{}{Anúncios e avisos de empregos estão anexados a essa placa. Alguns deles estiveram aqui por um tempo.}
+{110}{}{Há várias coisas aqui. Alguns anúncios, avisos de trabalho, e até mesmo um desenho. Parece que algumas delas estão aqui há algum tempo.}
+{120}{}{Acho que vou dar uma olhada naquele desenho.}
+{130}{}{Esse parece ser bom -- algo sobre bebida alcoólica.}
+{140}{}{Algo sobre um banho.}
+{150}{}{Alguém está querendo comprar algumas peles de lagarto.}
+{160}{}{Algo sobre ratos.}
+{170}{}{Algo sobre coisas velhas.}
+{180}{}{Parece que alguém está desaparecido.}
+{190}{}{(Se afasta)}
+{210}{}{Um imperfeito desenho do que parece um brahmin com um grande 'X' e a palavra 'Torr' rabiscada em baixo.}
+{220}{}{Acho que vou dar uma olhada em outro aviso.}
+{230}{}{Essa é toda a informação que eu preciso por enquanto.}
+{240}{}{Bebida alcoólica -— chamei sua atenção, não é? Vadiagem impede os negócios. Ainda preciso de ajuda no reabastecimento. Do tipo rápido e confiável. Procure o Whiskey Bob la na casa Buckner.}
+{250}{}{Acho que vou dar uma olhada em outro aviso.}
+{260}{}{Essa é toda a informação que eu preciso por enquanto.}
+{270}{}{DESAPARECIDO. Alguém viu Smiley o caçador? Smiley tem 1 metro e 82cm, limpo e fiél (quase). Desapareceu ao norte de Klamath e eu meio que sinto falta dele. -Ardin Buckner }
+{280}{}{Acho que vou dar uma olhada em outro aviso.}
+{290}{}{Essa é toda a informação que eu preciso por enquanto.}
+{310}{}{Preço alto para boas peles. Você tem peles de gecko? Eu tenho $$$. Especialmente peles de gecko dourado. Me procure! -Sajag, dono, operador, Taberna Golden Gecko.}
+{320}{}{Acho que vou dar uma olhada em outro aviso.}
+{330}{}{Essa é toda a informação que eu preciso por enquanto.}
+{340}{}{Muitos ratos em Trapper Town. Venha e pegue os que você consiga comer. --Slim.}
+{350}{}{Acho que vou dar uma olhada em outro aviso.}
+{360}{}{Essa é toda a informação que eu preciso por enquanto.}
+{370}{}{Se sentindo sozinho? nada faz um cara se sentir melhor do que um bélo banho. Três tipos de banhos repletos de diversão para escolher! Aprensentando a béla e talentosa Jenny. -— Procure Sally a nariguda no Bathhouse para mais excitantes detalhes.}
+{380}{}{Acho que vou dar uma olhada em outro aviso.}
+{390}{}{Essa é toda a informação que eu preciso por enquanto.}
+{400}{}{Ótimas Antiguidades. Eles não fazem mais como antigamente. De fato eles nem fazem mais. Se é bugigangas o que você procura, Procure Vic o comerciante -— Lado leste de Downtown.}
+{410}{}{Acho que vou dar uma olhada em outro aviso.}
+{420}{}{Essa é toda a informação que eu preciso por enquanto.}
+{430}{}{Você vê um pedaço de madeira com vários pedaços de papel colados a ele. Todos, exceto um deles estão cheios dessas listras malditas. Ufa! Rapaz, que dor de cabeça. É mehor você procurar algo menos difícil de entender.}
+{440}{}{Torr. (Olhou para o único aviso que fazia sentido)}
+{450}{}{Ok}
+{460}{}{Um imperfeito desenho do que parece um brahmin com um grande 'X' e a palavra 'Torr' rabiscada em baixo. (Não é exatamente Lascaux mas o significado é bem claro.)}
+{470}{}{Hehehe. (Bem, claramente alguma pobre alma chamada Torr precisa de ajuda com o seu brahmin de alguma forma.)}

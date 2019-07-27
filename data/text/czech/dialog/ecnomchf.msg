@@ -9,20 +9,18 @@
 {108}{}{Co máš k obchodování?}
 {109}{}{Nemám nic ke smìnìní. Je mi líto.}
 {110}{}{Tak snad nìkdy jindy. A jsou tvé cesty prosty nebezpeèí.}
-{111}{}{Díky. Sbohem.}
+{111}{}{Dík. Naskle.}
 {112}{}{Jaká škoda. Odpoèiò si tedy a vítej v našem táboøe.}
 {113}{}{Dìkuju. Sbohem.}
 {114}{}{Vidím, e moje nabídka stínu pøišla pøíliš pozdì. Slunce ti u nejspíš vypálilo mozek. Musím bıt pøívìtivı k tìm, kteøí v ivotì nemají tolik štìstí. Zùstaò v mém táboøe, jak dlouho budeš chtít, zabednìnèe.}
-{115}{}{Sbohem.}
+{115}{}{Nashle.}
 {116}{}{Nevìøící!}
 {117}{}{Proè na nás útoèíš?}
-{118}{}{Budu bránit náš kmen dokud nepadnu!}
+{118}{}{Budu bránit svùj kmen do poslední kapky krve!}
 {119}{}{Jak se opovauješ zneuít mé pohostinnosti!}
 {120}{}{Zmiz!}
 {121}{}{Nech nás na pokoji.}
 {122}{}{Jsme mírumilovnı kmen.}
-
-#killap - expansion
 {200}{}{Á, poutník. Omlouvám se, ale nemáme ádnı stan, v jeho stínu mùeš spoèinout a ulevit si od nekoneèného vedra. Odpoèiò si na chvíli a poté si promluvíme.}
 {201}{}{Dìkuju ti. S vdìèností pøijímám tvoji nabídku.}
 {202}{}{Jaká škoda. Odpoèiò si tedy a vítej v našem táboøe.}

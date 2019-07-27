@@ -1,185 +1,185 @@
-{100}{}{You see... another... Vault City official.}
-{101}{}{You see Barkus, the Vault City Servant Coordinator.}
-{102}{}{What th--?! A mutant! In Vault City! Guards! Guards!}
-{103}{}{What th--?! A ghoul! In Vault City! Guards! Guard!}
+{100}{}{Você vê...mais um...funcionário de Vault City.}
+{101}{}{Você vê Barkus, Coordenador de Servos de Vault City.}
+{102}{}{Que diabos--?! Um mutante! Em Vault City! Guardas! Guardas!}
+{103}{}{Que diabos--?! Um ghoul! Em Vault City! Guardas! Guarda!}
 {104}{}{Umm... hurnhh?}
-{105}{}{If it's a fight you want...}
-{106}{}{The Servant Allocation Center is closed. Please return in the morning.}
-{107}{}{Yes, Captain?}
-{108}{}{Yes, Citizen?}
-{109}{}{Yes, what is it? I'm behind in my assignments.}
-{110}{}{Umm... Me luuwk Valt!}
+{105}{}{Se é briga que você está querendo...}
+{106}{}{O Centro de Alocação de Servos está fechado. Por favor, retorne pela manhã.}
+{107}{}{Pois não, Capitão?}
+{108}{}{Pois não, Cidadão?}
+{109}{}{Sim, o que é? Estou atrasado com minhas atribuições.}
+{110}{}{Umm...Mim prucurar Vault!}
 {111}{}{Desliga}
-{112}{}{What is this building?}
-{113}{}{I'm looking for the Vault.}
-{114}{}{I'm looking for a particular Servant... Joshua, I believe. Is he here?}
+{112}{}{O que é este edifício?}
+{113}{}{Estou a procura da Vault.}
+{114}{}{Estou procurando por um servo em particular...Joshua, acredito que ele está aqui?}
 {115}{}{You looking to buy any slaves... er, servants?}
-{116}{}{Nothing today, thanks.}
-{117}{}{This? Why, this is the Servant Assignment Center. Were you in need of a servant?}
-{118}{}{This is the Servant Assignment Center.}
-{119}{}{Servant Assignment Center? What's that?}
-{120}{}{I'm looking for a particular Servant... Joshua, I believe. Is he here?}
-{121}{}{Servant Allocation, huh? Do you buy slaves... er, servants here?}
-{122}{}{No, just curious. Thanks.}
-{123}{}{Just curious. thanks.}
-{124}{}{The Vault? It's that huge hole in the mountain on the east side of the city. Head out the front door, turn left and walk straight ahead. You can't miss it.}
-{125}{}{What is this building?}
-{126}{}{Can anyone get in there?}
-{127}{}{I had another question for you.}
-{128}{}{Thanks for the directions. Goodbye.}
-{129}{}{What th-? Are you one of the new Servants?}
-{130}{}{Yup}
-{131}{}{Uh-uh me leave now}
-{132}{}{You must be new around here. I'll explain it... slowly.}
-{133}{}{Citizens who need help with menial tasks come here to have a Servant assigned to them for the day.}
-{134}{}{That sounds a lot like slavery.}
-{135}{}{Oh, so this is where the slaves are stored? Why didn't you say so?}
-{136}{}{Where do you get all these servants?}
-{137}{}{I am looking for a particular Servant... Joshua, I believe. Is he here?}
-{138}{}{Are you looking to buy slaves... er, servants, right now?}
-{139}{}{All right, just curious, thanks. Good day.}
-{140}{}{I'm tired of Servants being sent over with no clearance... *sigh*... let's see, you said you were looking for the Vault?
- That must be your assignment for the day. Very well. I will have someone escort you there.}
+{116}{}{Nada por hoje, valeu.}
+{117}{}{Este? Porque? Este é o Centro de Designação de Servos. Você está precisando de um servo?}
+{118}{}{Este é o Centro de Designação de Servos.}
+{119}{}{Centro de Designação de Servos? O que é isso?}
+{120}{}{Estou procurando por um servo em particular...Joshua, acredito que ele está aqui?}
+{121}{}{Alocação de Servos, hã? Vocês compram escrav...eeh, servos aqui?}
+{122}{}{Não, só curiosidade. Obrigado.}
+{123}{}{Apenas curiosidade. Obrigado.}
+{124}{}{A Vault? É aquele enorme buraco na montanha na parte leste da cidade. Saindo a porta da frente, vire a esquerda e siga em frente. Não tem como não encontrar.}
+{125}{}{O que é este edifício?}
+{126}{}{Qualquer um pode entrar lá?}
+{127}{}{Tenho outra questão pra você.}
+{128}{}{Obrigado pelas direções. Tchau.}
+{129}{}{Que diabos-? Você é um dos novos servos?}
+{130}{}{Aham}
+{131}{}{Uh-uh mim ir agora}
+{132}{}{Você deve ser novo por aqui. Eu vou explicar isso...bem devagar.}
+{133}{}{Cidadãos que necessitam de ajuda com trabalhos degradantes vem aqui para ter um servo designado para eles por um dia.}
+{134}{}{Isto soa muito como escravidão.}
+{135}{}{Ah, então é aqui que os escravos são trancados? Porque você não disse isso?}
+{136}{}{Onde você consegue todos estes servos?}
+{137}{}{Estou procurando por um servo em particular...Joshua, eu creio. Ele está aqui?}
+{138}{}{Você está procurando algum escrav...eeh, servo para comprar hoje?}
+{139}{}{Tudo bem, apenas curiosidade, obrigado. Bom dia.}
+{140}{}{Estou cansado dos servos serem enviados sem a devida autorização... *suspiro*... Vamos ver, você disse que está procurando pela Vault?
+ Deve ser sua designação do dia. Muito bem. Vou providenciar que alguém te acompanhe até lá.}
 {141}{}{Valt! Valt!}
-{142}{}{I'd watch that kind of talk if I were you. It is NOT slavery. We take care of these refugees,
- and they have a good life... better than they would get in the wastes.}
-{143}{}{Where do you get them?}
-{144}{}{Oh, I had some other questions...}
-{145}{}{That's all I needed to know then, thanks. Good day.}
-{146}{}{No, you need to be a Citizen in order to be allowed into the Vault. Now, look, I happen to be very busy at the moment, so if you would please excuse me...}
-{147}{}{Just one more question...}
-{148}{}{All right. Goodbye.}
-{149}{}{Our Servants are usually refugees from raider attacks or contractual prisoners who wish to work off their sentence in a productive manner.}
-{150}{}{Oh, you mean scripters? I knew this guy named Dan once who...}
-{151}{}{At the cost of their freedom, eh?}
-{152}{}{Do you have a contractual prisoner named Joshua in custody?}
-{153}{}{Are you looking to buy any slave... er, servants... right now?}
-{154}{}{Hmmm. I had another question...}
-{155}{}{I see. Thanks for the information.}
-{156}{}{No, not scripters, you moron.}
-{157}{}{Moron? I had to work hard to get the minimum 9 Intelligence and Perception to find this node. Anyway, you were saying?}
-{158}{}{You're a fine one to make moral judgments, slaver. Get out of here.}
-{159}{}{You sound a lot like that idiot Moore... just what Vault City needs. Look, whoever you are, I have work to do, so if you'll kindly remove yourself...}
-{160}{}{All right, all right...}
-{161}{}{Why don't you make me leave?}
-{162}{}{Joshua? Yes, we do have a Servant by that name, but you wouldn't want him assigned to you.
- Training him has been... difficult. I'm not certain he can be trained.}
-{163}{}{Joshua? I think we once had a Servant by that name, but not anymore.}
-{164}{}{I need to question him about a matter of Vault City security. Have him sent to the Courtyard
- at once.}
-{165}{}{I would like him assigned to me anyway.}
-{166}{}{Difficult?}
-{167}{}{Oh, I don't want him assigned to me. Far from it. I am concerned that he might be infected.}
-{168}{}{Hmmm. Another question then...}
-{169}{}{All right. Goodbye.}
-{170}{}{I don't think it's a good idea. Wait until he has undergone some more training first, then I'll consider it.}
-{171}{}{You said he's been difficult?}
-{172}{}{Just one more question...}
-{173}{}{All right. Goodbye.}
-{174}{}{Yes, he's more stubborn than almost any Servant we've ever had here. If I didn't know
- better, I'd assume his father was a brahmin.}
-{175}{}{You know, that kind of attitude could prove to be a problem. What if the rest of the
- Servants start following his example?}
-{176}{}{I could purchase him and take him off your hands. Does the Center take..."donations?"}
-{177}{}{Just one more question...}
-{178}{}{All right. Goodbye.}
-{179}{}{That's true. I have had to separate him from some of the others... and just yesterday one of the Servants actually had the audacity to question one of my requests.}
-{180}{}{You should release him now before it gets worse.}
-{181}{}{Joshua? Yes, we do have a Servant by that name. He was recently transferred from the Corrections Center. Your interest in him is...?}
-{182}{}{I'd like to negotiate for his release.}
-{183}{}{I suspect he has a contagious disease. You might want to release him before he infects the other Servants.}
-{184}{}{No reason. I did have some other questions...}
-{185}{}{All right. Goodbye.}
-{186}{}{Oh, really? And what makes you think I would release him?}
-{187}{}{A sizeable donation to the Servant Allocation Center operating fund, perhaps?}
-{188}{}{I suspect he has a contagious disease. You might want to release him before he infects the other Servants.}
-{189}{}{No reason. I did have some other questions...}
-{190}{}{All right. Goodbye.}
-{191}{}{No, I was thinking of a more sizeable donation.}
-{192}{}{Hmmn. Donations are indeed welcome to insure the smooth operation of the Center, but it would require a sizeable donation before I could release Joshua into your care.}
-{193}{}{How about $1000?}
-{194}{}{How about $750?}
-{195}{}{How about $500?}
-{196}{}{How about $250?}
-{197}{}{I'll think about it. I did have some other questions...}
-{198}{}{I see. I may return later.}
-{199}{}{I see. I may return later when I have enough funds for a donation.}
-{200}{}{Well... that's not as much of a donation as I would like, but it will do. I shall see to it that this Joshua you have
- requested is shipped to the Courtyard for processing. Let me make the necessary arrangements.}
+{142}{}{Eu tomaria cuidado com esse tipo de assunto se fosse você. Isto NÃO É escravidão. Nós cuidamos destes refugiados,
+ e eles tem uma boa vida...melhor do que que teriam no deserto.}
+{143}{}{Onde você os consegue?}
+{144}{}{Hum, eu tenho outras questões...}
+{145}{}{Era tudo que eu precisava saber então, obrigado. Bom dia.}
+{146}{}{Não, você precisa ser um cidadão para ser permitido dentro da Vault. Agora, veja bem, acontece de eu estar muito ocupado no momento, então se você me der licença...}
+{147}{}{Só mais uma questão...}
+{148}{}{Certo. Tchau.}
+{149}{}{Nossos servos são geralmente refugiados dos ataques dos Raiders, ou prisioneiros contratuais que desejam cumprir suas setenças de forma produtiva.}
+{150}{}{Ah, você quis dizer scripters? Uma vez conheci um cara chamado Dan que...}
+{151}{}{A custo da liberdade deles, hã?}
+{152}{}{Você possui um prisioneiro contratual chamado Joshua sobre sua custódia?}
+{153}{}{Você está procurando algum escrav...eeh, servo para comprar hoje?}
+{154}{}{Hummm. Eu tenho outra questão...}
+{155}{}{Entendo. Obrigado pela informação.}
+{156}{}{Não, não são scripters, seu idiota.}
+{157}{}{Idiota? Eu tive que trabalhar duro para ter no mínimo 9 de Inteligência e Percepção para desbloquear essa opção de diálogo. De qualquer forma, o que estava dizendo?}
+{158}{}{Você é bom em fazer julgamentos morais, seu traficante de escravos. Dá o fora daqui.}
+{159}{}{Você soa muito como aquela idiota do Moore...exatamente o que Vault City precisa. Olhe, quem quer que você seja, eu tenho trabalho a fazer, então se você fizesse a gentileza de se retirar...}
+{160}{}{tudo bem, tudo bem...}
+{161}{}{Porque você não me faz sair?}
+{162}{}{Joshua? Sim, nós temos um servo com este nome, mas você não iria querer ele designado para você.
+ Treiná-lo tem sido...difícil. Não estou certo que ele possa ser treinado.}
+{163}{}{Joshua? Eu acho que uma vez tivemos um servo com este nome, mas não temos mais.}
+{164}{}{Eu preciso perguntar a ele algo que diz respeito a segurança de Vault City. Envie-o para o pátio
+ imediatamente.}
+{165}{}{Gostaria que ele fosse designado para mim de qualquer forma}
+{166}{}{Dificil?}
+{167}{}{Ah, mas eu não quero ele designado para mim. Longe disso. Estou preocupado que ele possa estar infectado.}
+{168}{}{Hummm. Outra questão então...}
+{169}{}{Certo. Tchau.}
+{170}{}{Eu não acho que seja uma boa ideia. Espere até ele passar por mais algum treinamento primeiro, e então eu irei considerá-lo.}
+{171}{}{Você disse que ele tem sido difícil, certo?}
+{172}{}{Só mais uma questão...}
+{173}{}{Certo. Tchau.}
+{174}{}{Sim, ele é mais teimoso do que quase todos os servos que já tivemos por aqui. Se eu não o conhecesse
+ melhor, eu diria que o pai dele era um brahmin.}
+{175}{}{Sabe, este tipo de atitude pode se mostrar um problema. E se o restante dos
+ servos começar a seguir o exemplo dele?}
+{176}{}{Eu poderia comprá-lo e te livrar as mãos dele. O Centro aceita..."doações?"}
+{177}{}{Só mais uma questão...}
+{178}{}{Certo. Tchau.}
+{179}{}{Tem razão. Eu tive que separá-lo de alguns dos outros...e justo ontem um dos servos realmente teve a audácia de questionar uma das minhas solicitações.}
+{180}{}{Você deveria soltá-lo agora, antes que isso fiquei pior.}
+{181}{}{Joshua? Sim, nós temos um servo com este nome. Ele foi recentemente transferido do Centro de Correções. Seu interesse nele é...?}
+{182}{}{Eu gostaria de negociar a sua liberação.}
+{183}{}{Eu suspeito que ele tenha uma doença contagiosa. Você talvez queira soltá-lo antes que ele infecte os outros servos.}
+{184}{}{Nenhuma razão. Eu tenho algumas outras questões...}
+{185}{}{Certo. Tchau.}
+{186}{}{Ah, sério? E o que faz você pensar que eu vou soltá-lo?}
+{187}{}{Uma doação considerável para o fundo de operação do Centro de Alocação de Servos, talvez?}
+{188}{}{Eu suspeito que ele tenha uma doença contagiosa. Você talvez queira soltá-lo antes que ele infecte os outros servos.}
+{189}{}{Nenhuma razão. Eu tenho algumas outras questões...}
+{190}{}{Certo. Tchau.}
+{191}{}{Não, eu estava pensando em uma doação ainda mais considerável.}
+{192}{}{Hummn. Doações são de fato bem vindas para assegurar uma operação eficiente do Centro, mas eu pediria uma doação considerável antes que eu pudesse liberar o Joshua aos seus cuidados.}
+{193}{}{Que tal $1000?}
+{194}{}{Que tal $750?}
+{195}{}{Que tal $500?}
+{196}{}{Que tal $250?}
+{197}{}{Vou pensar sobre isso. Eu tenho algumas outras questões...}
+{198}{}{Entendo. Talvez eu volte mais tarde.}
+{199}{}{Entendo. Talez eu volte mais tarde, quando tiver dinheiro suficiente para uma doação.}
+{200}{}{Bem... Este não é o tanto de doação que eu gostaria, mas isso deve bastar. Eu devo verificar se este Joshua que você
+ solicitou foi despachado para o pátio para processamento. Deixe me tomar as providências necessárias.}
 {201}{}{Tudo bem.}
-{202}{}{It is done. Joshua is no longer a servant of Vault City, and he has been moved into the Courtyard with the rest
- of the Outworlders.}
-{203}{}{Thanks. I had some other questions...}
-{204}{}{Very well. I will go pick him up there, then.}
-{205}{}{Sounds good. Hopefully, he won't make his way back into the city.}
-{206}{}{Is that so? Are you aware that each Servant is thoroughly checked before being admitted into the Allocation Center?}
-{207}{}{Maybe I was wrong. Nevertheless, I'd like to negotiate for his release.}
-{208}{}{Are you aware of }
-{209}{}{'s Syndrome? It doesn't show up on most medical scans, and its symptoms can lie dormant for weeks.}
-{210}{}{In the wastes, there is a disease called }
-{211}{}{'s Syndrome. Perhaps you've noticed the lowered energy level of your Servants recently? Their general surliness?}
-{212}{}{That is utter nonsense. Now if you are quite done with wasting my time with your lies...}
-{213}{}{All right, forget "}
-{214}{}{'s Syndrome." I'd still like to negotiate for Joshua's release.}
-{215}{}{Never mind, then. I had some other questions...}
-{216}{}{I'm leaving, then. Goodbye.}
-{217}{}{Infected? Infected with what?}
-{218}{}{Symptoms? What kind of symptoms?}
-{219}{}{Perhaps you've noticed the lowered energy level of your Servants recently? Short attention span? Their inability to hear orders and follow them correctly? Those are only the early stages.}
+{202}{}{Pronto. Joshua não é mais um servo de Vault City, e ele foi movido para o pátio para se juntar com o restante
+ dos forasteiros.}
+{203}{}{Obrigado. Eu tenho algumas outras questões...}
+{204}{}{Muito bem. Eu vou pegá-lo lá, então.}
+{205}{}{Parece bom. Tomara que ele não faça o caminho para esta cidade novamente.}
+{206}{}{Só isso? Você está ciente de que cada servo é cuidadosamente examinado antes de ser admitido no Centro de Alocações?}
+{207}{}{Talvez eu esteja errado. Apesar disso, eu gostaria de negociar sua liberação.}
+{208}{}{Você ficou sabendo da Síndrome de }
+{209}{}{? Ela não se mostra na maioria dos exames médicos, e seus sintomas podem não se manifestar por semanas.}
+{210}{}{No deserto, existe uma doença chamada Síndrome de }
+{211}{}{. Talvez você tenha notado um baixo nível de energiados seus servos recentemente? Suas más disposições gerais?}
+{212}{}{Isso é um completo absurdo. Agora se você já terminou de me fazer perder meu tempo com suas mentiras...}
+{213}{}{Tudo bem, esqueça a Síndrome de }
+{214}{}{. Eu ainda gostaria de negociar a liberação de Joshua.}
+{215}{}{Esqueça, então. Eu tenho algumas outras questões...}
+{216}{}{Estou indo, então. Tchau.}
+{217}{}{Infectado? Infectedo com o que?}
+{218}{}{Sintomas? Que tipos de sintomas?}
+{219}{}{Talvez você tenha notado um baixo nível de energiados seus servos recentemente? Déficit de atenção? Suas incapacidades de escutar ordens e segui-lás corretamente? Isto é apenas no estágios iniciais.}
 {220}{}{Uh...}
-{221}{}{'s Syndrome. A lot of Outworlders have it. Its symptoms include, uh, speaking when not being spoken to. And using
- coarse language.}
-{222}{}{Hmmmm. It wouldn't do if Citizens began to report problems with the Servants... very well, I shall release Joshua at
- once. If you would give me a moment to make the arrangements...}
-{223}{}{Yes... I have noticed those symptoms in the Servants of late. Contagious, you say? Hmmm. Well, if this Joshua is a
- carrier, I shall release him at once. Give me a moment to make the arrangements...}
-{224}{}{No problem. Joshua would be better off with the Outworlders anyway.}
-{225}{}{Of course, Captain. I will take care of it right now.}
-{226}{}{Excellent. Thank you, Citizen.}
-{227}{}{Perhaps. Do you have some you wish to sell?}
-{228}{}{Yes, I have one right here with me. Take a look and make me an offer.}
-{229}{}{Yes, I have a few right here with me. Take a look and make me an offer.}
-{230}{}{No, actually. I had some questions for you...}
-{231}{}{No, not today, actually. Goodbye.}
-{232}{}{Hmmm. That woman there, Miria, is it? She has strong arms... and nice hips. I will buy her from you for $250.}
-{233}{}{Hmmm. that boy there, Davin, is it? He looks relatively free from Outworlder contamination. I will buy him from you for $200.}
-{234}{}{Hmmm. That tribal you have. He smells... strongly. But he looks healthy. I'll take him for $100.}
-{235}{}{Hmmm. That man there... Vic, is it? Even though he's old, he looks like a handyman. $100.}
-{236}{}{Perhaps you should return when you have a servant of value to show me. Your current stock...
- is unimpressive.}
-{237}{}{C'mon, the slave's worth more than that.}
-{238}{}{That is a fair price. The servant's all yours.}
-{239}{}{Actually, I'm not looking to sell that one just yet. I did have some questions I wanted to ask you...}
-{240}{}{Actually, I'm not looking to sell that slave. Let's deal another time.}
-{241}{}{Very well. I had some questions for you, though...}
-{242}{}{All right. Some other time when I get better stock, then.}
-{243}{}{No, I don't think so...250 or nothing.}
-{244}{}{No, the boy looks like he would be difficult to train...200 or nothing.}
-{245}{}{Look. It'll take a week to wash the smell off that tribal. 100 or nothing.}
-{246}{}{You can't even promise me that he won't have a heart attack once he leaves your care. He's old. 100 or nothing.}
-{247}{}{All right, that's fair. The servant's all yours.}
-{248}{}{Forget it, then. I did have some questions I wanted to ask you...}
-{249}{}{Nothing it is, then. I can't afford to let my servant go for that price. Maybe some other time.}
-{250}{}{Hmmmm... She does look like a healthy specimen... maybe I could put her to work around here. $500. And that's my final offer.}
-{251}{}{Hmmmm. He is a healthy specimen. $400 for him, then.}
-{252}{}{Hmmmm. All right. $200, then. And no more haggling.}
-{253}{}{Hmmmmmmm. $200. And not a dollar more.}
-{254}{}{That's fair. The servant's all yours.}
-{255}{}{Actually, I'm not looking to sell that one just yet. I did have some questions I wanted to ask you...}
-{256}{}{Actually, I'm not looking to sell that slave. Let's deal another time.}
-{257}{}{Excellent. Here is your money. I will have her shipped off for medical tests and processing. }
-{258}{}{Excellent. Here is your money. I will have him shipped off for medical tests and processing. }
-{259}{}{Excellent. Here is your money. I will have the tribal shipped off for medical tests and processing. }
-{260}{}{Excellent. Here is your money. I will have the old man shipped off for medical tests and processing. }
-{261}{}{Give me a moment to take care of the arrangements...}
-{262}{}{Sure. I'll just wait here.}
-{263}{}{Very well. Your Servant has been relocated for medical testing and re-conditioning.
- Curious... the Servant seemed quite surprised by the whole affair. It took a few tranquilizer
- darts to smooth things over. I put everything the Servant was carrying in the box in my office.}
-{264}{}{Well, Servants will be Servants. I had some other questions I wanted to ask you...}
-{265}{}{Really? Well, I 'm sure they'll be more docile as time goes on. Are you interested in any other companions?}
-{266}{}{Yeah, they can be a little difficult at first; they'll get accustomed to it. Good day.}
-{267}{}{What are you doing back here? I sent you to the Vault! Of all the... very well, I will have someone escort you back there.}
-{268}{}{Oh-keeeee}
-{269}{}{You convinced Barkus to release Joshua.}
-{300}{}{I heard you're quite the hero. Good job.}
+{221}{}{. Muitos forasteiros tem. Seus sintomas incluem, ahm, falar mesmo quando não ninguém mais está falando. E usar
+ linguagem vulgar.}
+{222}{}{Hummmm. Não seria agradável se os cidadãos começassem a reportar problemas com os servos...tudo bem, eu devo liberar o Joshua
+ imediatamente. Se você me der uns minutos para que eu tome as providências...}
+{223}{}{Sim...Eu tenho notado estes sintomas em servos últimamente. Contagioso, você falou? Hummm. Bem, Se Joshua é um
+ portador, eu devo liberá-lo imediatamente. Me dê um momento para tomar as providências...}
+{224}{}{Sem problemas. Será melhor Joshua ficar com os forasteiros, de qualquer forma.}
+{225}{}{Claro, Capitão. Eu vou cuidado disso imediatamente.}
+{226}{}{Excelente. Obrigado, Cidadão.}
+{227}{}{Talvez. Você teria algum que gostaria de vender?}
+{228}{}{Sim, eu tenho um bem aqui comigo. Dê uma olhada e me faça uma oferta.}
+{229}{}{Sim, eu tenho alguns bem aqui comigo. Dê uma olhada e me faça uma oferta.}
+{230}{}{Na verdade não. Eu tenho algumas questões pra você...}
+{231}{}{Não, hoje não, na verdade. Tchau.}
+{232}{}{Hummm. Aquela mulher ali, Miria, não é? Ela tem braços fortes...e belos quadris. Eu compro ela de você por $250.}
+{233}{}{Hummm. Aquele menino ali, Davin, não é? Ele parece relativamente livre da contaminação que outros forasteiros tem. Eu compro ele de você por $200.}
+{234}{}{Hummm. Esse tribal que você tem. Ele tem um cheiro...forte. Mas parece saudável. Eu fico com ele por $100.}
+{235}{}{Hmmm. Aquele homem ali...Vic, não é? Mesmo achando ele velho, ele parece um "faz-tudo". $100.}
+{236}{}{Talvez você deveria retornar quanto possuir um servo de valor para me mostrar. Seu estoque atual...
+ não é impressionante.}
+{237}{}{Vamos lá, os escravos valem mais do que isso.}
+{238}{}{É um preço justo. O servo é todo seu.}
+{239}{}{Na verdade, não estou procurando vender aquele ali ainda. Eu tenho algumas questões que gostaria de te perguntar...}
+{240}{}{Na verdade, não estou procurando vender aquele escravo. Vamos negociar em outra oportunidade.}
+{241}{}{Ótimo. Entretanto, eu tenho algumas questões pra você...}
+{242}{}{Tudo bem. Alguma outra oportunidade, quando eu tiver um estoque melhor então.}
+{243}{}{Não, acho que não...250 ou nada.}
+{244}{}{Não, o menino parece que seria difícil de se treinar...200 ou nada.}
+{245}{}{Veja bem. Eu vou levar uma semana lavando este tribal para tirar o cheiro dele. 100 ou nada.}
+{246}{}{Você não tem nem como me prometer que ele não vai ter um ataque cardíaco assim que você deixar ele aqui. Ele é velho. 100 ou nada.}
+{247}{}{Tudo bem, é justo. O servo é todo seu.}
+{248}{}{Esqueça isso, então. Eu tenho algumas questões que gostaria de te perguntar...}
+{249}{}{Então é nada. Eu não posso me dar ao luxo de deixar meu servo ir por esse preço. Talvez em alguma outra oportunidade.}
+{250}{}{Hummmm...Ela parece uma espécime saudável...talvez eu possa colocar ela para trabalhar por aqui. $500. E é minha oferta final.}
+{251}{}{Hmmmm. Ele é um espécime saudável. $400 por ele, então.}
+{252}{}{Hummmm. Tudo bem. $200, então. E sem mais barganhas.}
+{253}{}{Hummmmmmm. $200. E nenhum dolar a mais.}
+{254}{}{É justo. O servo é todo seu.}
+{255}{}{Na verdade, não estou procurando vender aquele ali ainda. Eu tenho algumas questões que gostaria de te perguntar...}
+{256}{}{Na verdade, não estou procurando vender aquele escravo. Vamos negociar em outra oportunidade.}
+{257}{}{Excelente. Aqui está seu dinheiro. Eu vou despacha-la para os testes médicos e processamento. }
+{258}{}{Excelente. Aqui está seu dinheiro. Eu vou despacha-lo para os testes médicos e processamentos. }
+{259}{}{Excelente. Aqui está seu dinheiro. Eu vou despachar o tribal para os testes médicos e processamento. }
+{260}{}{Excelente. Aqui está seu dinheiro. Eu vou despachar o velho para os testes médicos e processamento. }
+{261}{}{Me de uns minutos para tomar as providências...}
+{262}{}{Claro. Eu estarei esperando bem aqui}
+{263}{}{Tudo certo. O seu servo foi realocado para os testes médicos e recondicionamento.
+ Estranho...o servo parecida bastante supreso com todo o acontecido. Nos custou alguns dardos
+ tranquilizantes para acalmar a situação. Eu coloquei tudo que o servo estava carregando em uma caixa no meu escritório.}
+{264}{}{Bem, servos sempre serão servos. Eu tenho algumas outras questões que eu gostaria de te perguntar...}
+{265}{}{Sério? Bem, eu tenho certeza que ele ficará mais dócil com o tempo. Você está interessado em alguma outro companheiro?}
+{266}{}{Sim, eles podem ser um pouco difícil no começo; eles vão se acostumar com isso. Bom dia.}
+{267}{}{O que você está fazendo aqui de volta? Eu enviei você para a Vault! Pelo amor de... tudo bem, vou providenciar que alguém te acompanhe de volta até lá.}
+{268}{}{Tá-booooom}
+{269}{}{Você convenceu Barkus a liberar o Joshua.}
+{300}{}{Eu ouvi dizer que você é bastante herói. Bom trabalho.}

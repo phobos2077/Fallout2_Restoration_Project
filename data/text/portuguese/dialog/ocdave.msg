@@ -12,7 +12,7 @@
 {110}{}{Whatever. I just remembered some place I've got to be.}
 {111}{}{Hey, shit happens -- and when it does, it happens to me.}
 {112}{}{Uh... me be leaving now.}
-{113}{}{Like what?}
+{113}{}{Como o quê?}
 {114}{}{Nice attitude. What caused it?}
 {115}{}{I can tell I want to be elsewhere.}
 {116}{}{I was born two months premature. When I was one, I was dropped on the porch. When I was two, I

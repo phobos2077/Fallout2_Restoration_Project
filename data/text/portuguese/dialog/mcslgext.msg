@@ -1,3 +1,3 @@
 {100}{}{Você vê um guarda.}
-{200}{}{Vegeir says you can't leave just yet.}
-{210}{}{Vegeir said it's alright to let you through.}
+{200}{}{Vegeir disse que você ainda não pode ir.}
+{210}{}{Vegeir disse que podemos deixar-lo ir.}

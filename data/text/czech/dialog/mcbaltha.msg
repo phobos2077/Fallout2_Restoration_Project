@@ -1,7 +1,6 @@
 {100}{}{Vidíš velikého muže v kožené zástìøe.}
 {101}{}{Vidíš koželuha Balthase.}
 {102}{}{Vidíš vysokého, svalnatého muže, který páchne kùží.}
-
 {151}{}{Mùj syn byl omylem zabit v boji.}
 {152}{}{Nevydržím žít bez Jonnyho.}
 {153}{}{[Vzlyk]}
@@ -13,7 +12,7 @@
 {159}{}{Vrátím se pozdìji.}
 {160}{}{Hledám vìc, která se jmenuje GECK. Nevíš o tom náhodou nìco nebo nevíš, jak ho získat?}
 {161}{}{GECK?}
-{163}{}{Mùžu ti s nìèím pomoct?}
+{163}{}{S èím ti mùžu pomoct?}
 {168}{}{Jen se dívám, díky.}
 {171}{}{Máš nìjaké nové zprávy ohlednì Jonnyho?}
 {172}{}{Tohle leželo na dnì vyschlé studny. Èást studny se zøítila dovnitø a tohle bylo v sutinách. Je mi líto, ale myslím, že je Jonny mrtvý.}
@@ -45,7 +44,7 @@
 {200}{}{Mé modlitby byly vyslyšeny! Vezmi si Laddie s sebou, tøeba ti pomùže. Prosím, pospìš si!}
 {201}{}{No, možná máš pravdu. Díky za vyslechnutí.}
 {202}{}{Slyšel jsem o tobì. Podívej, nechci žádné problémy. Jsme mírumilovná spoleènost. Bavme se jen o obchodu, ano?}
-{203}{}{Mám na tebe nìkolik otázek.}
+{203}{}{Chci se tì na nìco zeptat.}
 {204}{}{Momentálnì spolu nemáme žádný obchod. Nashle.}
 {205}{}{No...mám strach o svého syna Jonnyho. Hledali jsme všude, ale nemùžeme ho nikde najít. Bojím se, že ho roztrhala divoká zvìø.}
 {206}{}{Možná ti mùžu pomoct. Hodnì cestuju, takže se mùžu po tvém chlapci podívat.}
@@ -58,11 +57,8 @@
 {217}{}{(Zblízka se na tebe podívá a poté se usmìje.) Buï hodná holèièka a bìž si hrát ven.}
 {218}{}{Prosím, nepøestávej hledat. Vím, že je naživu, cítím to!}
 {219}{}{To je Jonnyho vzduchovka. Neeeeeeeeeeeeeeeeeeee! (Balthas se zhroutí a zaène neovladatelnì plakat.)}
-{2199}{}{To je Jonnyho vzduchovka... nevìøím, že je mrtvý. Prosím, nepøestávej hledat mého syna. Jsem si jistý, že tam nìkde venku poøád je.}
 {220}{}{Já vìdìl, že Jonny není mrtvý! Øíkáš, že musím èekat... tomu nerozumím! Je zranìný? Mùj instinkt mi øíká, abych šel za svým synem, ale cítím, že ti na mém synovi opravdu záleží. Prosím, pospìš si a pøiveï mi mého syna.}
 {221}{}{Ale ne! Duchové ne! Já øíkal, abychom to místo vypálili. Nenechám jim svého syna... dostanu Jonnyho zpìt za každou cenu. Jsem si jistý, že mi ho obyvatelé Modocu pomùžou dostat zpìt! Setkáme se na Farmì Duchù. Všechny je zabijeme!}
-
 {230}{}{Jonny byl v poøádku vrácen zpìt do Modocu.}
-
-#added by killap - RP
 {240}{}{Prosím, pøiveï mi mého syna zpìt.}
+{2199}{}{To je Jonnyho vzduchovka... nevìøím, že je mrtvý. Prosím, nepøestávej hledat mého syna. Jsem si jistý, že tam nìkde venku poøád je.}

@@ -1,42 +1,40 @@
-{100}{}{Looks to be a border collie.}
-{101}{}{You see Laddie.}
-{102}{}{This dog seems to be really alert and intelligent.}
-{103}{}{You have no doubt that this dog is probably smarter than you are.}
+{100}{}{Pelo visto é um cão da raça collie.}
+{101}{}{Laddie.}
+{102}{}{Este cão realmente parece ser alerta e inteligente.}
+{103}{}{Você não tem dúvidas que este cão é mais inteligente que você.}
 {150}{}{Woof!}
 {151}{}{Woof! Woof!}
-{152}{}{Woof! Woof! Woof!}
-{153}{}{[This dog seems highly agitated.]}
-{154}{}{Nice doggie.}
-{155}{}{Do you know where Jonny is, boy?}
+{152}{}{Au! Au! Au!}
+{153}{}{[Este cão parece estar muito agitado.]}
+{154}{}{Belo cãozinho.}
+{155}{}{Sabe onde Jonny está, menina?}
 {156}{}{Stay here, Laddie.}
-{157}{}{Let's go find Jonny.}
-{158}{}{Did Jonny fall down the well, Laddie?}
-{159}{}{What's the matter boy, are you trying to tell me something?}
-{160}{}{Grrrr! [Laddie takes a vicious bite at you.]}
-{161}{}{[Hmm... For some reason he doesn't like you.]}
-{162}{}{Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]}
-{163}{}{[What a nice doggy.]}
-{164}{}{Woof? [You can almost hear the dog laughing at you.]}
-{165}{}{[Nobody likes a smart ass.]}
-{167}{}{Is Jonny someplace close by in Modoc?}
-{168}{}{Did Jonny leave Modoc?}
-{169}{}{Was Jonny abducted by aliens?}
-{170}{}{I don't have time to play, Laddie; we need to find Jonny. Let's go.}
-{171}{}{Near the slaughterhouse?}
-{172}{}{Near the tannery?}
-{173}{}{Near the trading post?}
-{174}{}{Near the well?}
-{175}{}{Maybe someplace else, then?}
-{177}{}{Near Rose's Bed and Breakfast?}
-{180}{}{Did he go north?}
-{181}{}{Did he go south?}
-{182}{}{Did he go east?}
-{183}{}{Did he go west?}
-{186}{}{Woof?}
-{187}{}{Okay, Okay... Maybe someplace else, then?}
-{190}{}{He was playing cowboys and Indians when he accidentally fell down the well and you want me to
- get a rope and go down and rescue him. Okay, let's go, Laddie. [Astounding!]}
-{191}{}{He was playing cowboys and Indians when he accidentally fell down the well and you want me to
- use my rope and go down and rescue him. Okay, let's go, Laddie. [Astounding!]}
-{195}{}{OK, I'll get a rope and climb down the well to rescue Jonny.}
-{196}{}{OK, I can use my rope and climb down the well to rescue Jonny.}
+{157}{}{Vamos procurar Jonny.}
+{158}{}{Jonny caiu no poço, Laddie?}
+{159}{}{Qual é o problema? Está tentando me dizer alguma coisa?}
+{160}{}{Grrrr! [Laddie crava os dentes em você.]}
+{161}{}{[Hmm... Por alguma razão ela não gosta de você.]}
+{162}{}{Au! Au! Au! [Laddie pula em cima de você e começa a lamber seu rosto.]}
+{163}{}{[Que lindo cãozinho.]}
+{164}{}{Au? [Você quase consegue escutar o cão rindo de você.]}
+{165}{}{[Ninguém gosta de metidos a intelectual..]}
+{167}{}{Jonny está em algum lugar perto de Modoc?}
+{168}{}{Jonny saiu de Modoc?}
+{169}{}{Jonny foi levado por alienígenas?}
+{170}{}{Não tenho tempo pra brincadeiras, Laddie; temos que achar Jonny. Vamos.}
+{171}{}{Perto do matadouro?}
+{172}{}{Próximo ao curtume?}
+{173}{}{Perto do posto comercial?}
+{174}{}{Perto do poço?}
+{175}{}{Talvez em outro canto, então?}
+{177}{}{Perto da Pensão da Rose?}
+{180}{}{Ele foi para o norte?}
+{181}{}{Para o sul?}
+{182}{}{Leste?}
+{183}{}{Oeste?}
+{186}{}{Au?}
+{187}{}{Está bem. Talvez em outro canto, então?}
+{190}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu pegue uma corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
+{191}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu use minha corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
+{195}{}{Está bem, vou pegar uma corda e descer o poço atrás do Jonny.}
+{196}{}{Está bem, posso usar minha corda e descer o poço atrás do Jonny.}

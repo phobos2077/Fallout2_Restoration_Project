@@ -4,7 +4,7 @@
 {103}{}{Proè nám chceš ublížit?}
 {104}{}{Jak ti mùžu pomoct, osvícený?}
 {105}{}{Chystám se sbalit Vikki... eh... už brzy.}
-{106}{}{Jak ti mùžu pomoct?}
+{106}{}{Jak ti s tím mùžu pomoct?}
 {107}{}{Co chceš?}
 {108}{}{Da... ó...}
 {109}{}{Kdo jsi?}
@@ -12,13 +12,14 @@
 {111}{}{Mluvila se mnou Vikki. Ona a Juan si z tebe dìlali srandu a øíkali, že nejsi opravdový muž.}
 {112}{}{Mluvila se mnou Vikki. Øíkala, že jsi sexy a že po tobì obèas touží.}
 {113}{}{Mám to s Vikki domluvit místo tebe?}
-{114}{}{Nijak. Nashle.}
-{115}{}{Ehmmm... dobøe. Jak chceš. Poslyš, co je to támhle? (Když se otoèíš na tu vìc, vrátí se k èinnosti, kterou dìlal pøedtím a ignoruje tì.)}
+{114}{}{Ale nic. Nashle.}
+{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
+[As you turn to look, he whips back to what he was doing and ignores you.]}
 {116}{}{[KONEC]}
 {117}{}{Jsem Dave Handy. Jsem z Kanady.}
-{118}{}{Takže co tady dìláš?}
+{118}{}{Takže co tu dìláš?}
 {119}{}{Co tì sem pøivedlo?}
-{120}{}{Díky. Nashle.}
+{120}{}{Dík. Naskle.}
 {121}{}{Ukazuju lidem, jak pøemístit svoje data a odpovídám celý den na pitomé otázky.}
 {122}{}{Dokázal bys hacknout databázi Shi?}
 {123}{}{Jaké pitomé otázky?}
@@ -48,7 +49,7 @@
 {147}{}{Potøebuju plány vertibirdu z tvého poèítaèe.}
 {148}{}{Chci, aby ses nahackoval do databází Shi a pøevedl nìjaké palivo do tankeru Poseidon.}
 {149}{}{Chci, abys pøevedl palivo z vesmírné lodi do tankeru Poseidon.}
-{150}{}{No, dìlám si jen srandu. Ona to vlastnì neøekla.}
+{150}{}{No, opravdu si jen dìlám srandu. Ona to vlastnì neøekla.}
 {151}{}{Hodnì štìstí. Mìj se!}
 {152}{}{Hotovo. To odnauèí ty bastardy, aby mì jen využili a potom odmítli. Sbohem.}
 {153}{}{No, opravdu si jen dìlám srandu. Ona to vlastnì neøekla.}
@@ -58,11 +59,11 @@
 {157}{}{Mùžeš to zkusit.}
 {158}{}{Tohle že øekla? Opravdu? Páni. ::na oblièeji se mu zjeví blažený úsmìv:: Díky! Co pro tebe mùžu udìlat?}
 {159}{}{Potøebuju plány vertibirdu z tvého poèítaèe.}
-{160}{}{Potøebuju zformátovat pevný disk Hubologistù.}
+{160}{}{Potøebuju, abys zformátoval pevný disk Hubologistù.}
 {161}{}{Chci, aby ses nahackoval do databází Shi a pøevedl nìjaké palivo do tankeru Poseidon.}
 {162}{}{Chci, abys pøevedl palivo z vesmírné lodi do tankeru Poseidon.}
 {163}{}{Ále nic. Bìž a trochu si užij.}
-{164}{}{Hotovo. Ještì nìco?}
+{164}{}{Tady to máš. Ještì nìco?}
 {165}{}{Potøebuju plány vertibirdu z tvého poèítaèe.}
 {166}{}{Potøebuju, abys zformátoval pevný disk Hubologistù.}
 {167}{}{Chci, abys pøevedl palivo z vesmírné lodi do tankeru Poseidon.}
@@ -76,8 +77,8 @@
 {175}{}{Díky! Mìj se!}
 {176}{}{Právì jsi ze sebe udìlal pìkného hlupáka. Mìj se!}
 {177}{}{Zkontroluju to sám. Myslím, že teï není bezpeèné zformátovat hlavní poèítaè.}
-{178}{}{Dobøe. Mám další otázky.}
-{179}{}{Dobøe. Nashle.}
+{178}{}{Tak dobøe. Mám další otázky.}
+{179}{}{Tak dobøe. Nashle.}
 {180}{}{Ne ne... za to bych se moc stydìl.}
 {181}{}{Fajn, fajn. Mám další otázky.}
 {182}{}{Fajn, fajn.}
@@ -93,7 +94,7 @@
 {192}{}{"Rozhraní mého terminálu je pomalé a trhané. Myslím, že je to tvoje chyba."}
 {193}{}{Nìco takového.}
 {194}{}{Chápu. Zdá se, že je s tìmi lidmi hodnì zábavy. Mám další otázky.}
-{195}{}{Chápu. No, mìj se.}
+{195}{}{Chápu. No, zatím.}
 {196}{}{To bych mohl, ale potøebuju k tomu nìjaký dobrý dùvod a ten prostì nemám. Promiò. Nìco jiného?}
 {197}{}{Ano, mám další otázky.}
 {198}{}{Ne, asi ne.}

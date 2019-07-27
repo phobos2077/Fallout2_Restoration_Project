@@ -6,7 +6,7 @@
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{::hack into computer::}
+{108}{}{::hackear o computador::}
 {109}{}{Log Out.}
 {110}{}{Identity confirmed.}
 {111}{}{What function do you wish to access?}
@@ -15,9 +15,9 @@
 {114}{}{Forecasting.}
 {115}{}{None.}
 {116}{}{Please speak to the system administrator. Goodbye.}
-{117}{}{::hack into computer::}
-{118}{}{::leave::}
-{119}{}{Intruder alert activated. Shutting down. Have a nice day.}
+{117}{}{::hackear o computador::}
+{118}{}{::sair::}
+{119}{}{Alerta de intruso ativado. Desligando. Tenha um bom dia.}
 {120}{}{[FEITO]}
 {121}{}{Diagnostic functions?}
 {122}{}{Network scan.}
@@ -68,21 +68,21 @@
 {167}{}{Formatting... formatting... formatting complete. Reboot requires full install. Shutting down. Shutting... down... complete...}
 {168}{}{[FEITO]}
 {169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
-{170}{}{Botany program.}
-{171}{}{Genetic program.}
+{170}{}{Programa Botânico.}
+{171}{}{Programa Genético.}
 {172}{}{Xeno program.}
 {173}{}{Voltar.}
 {174}{}{(After about twenty minutes, you discover this: Initial results of botanical radiation disruption prove unpromising. Dr. Sheng develops radiation resistant plant-life - unpleasant side-effects follow. Resultant plant life deemed too dangerous. Sheng insists on pursuing line and mixing it with genetic program.)}
-{175}{}{Genetic program.}
+{175}{}{Programa Genético.}
 {176}{}{Xeno program.}
 {177}{}{Voltar.}
 {178}{}{(After about twenty minutes you piece together this information: Using the basics of the FEV virus, Dr. Long Wang is convinced of success in creating mutant soldiers. He creates a serum providing interesting results with rodent experiments. He injects himself and dissolves into a puddle of goo. Dr. Sheng disables line of inquiry. With the death of Dr. Long, Dr. Sheng is in charge. Sheng demands focus on radiation-consuming plant life.)}
-{179}{}{Botany program.}
+{179}{}{Programa Botânico.}
 {180}{}{Xeno program.}
 {181}{}{Voltar.}
 {182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
-{183}{}{Botany program.}
-{184}{}{Genetic program.}
+{183}{}{Programa Botânico.}
+{184}{}{Programa Genético.}
 {185}{}{Voltar.}
 {186}{}{Chemistry Database: Fuel and derivatives - Polymers}
 {187}{}{Fuel and derivatives.}

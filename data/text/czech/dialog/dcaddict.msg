@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Vidíš závisláka.}
 {101}{}{Tahle osoba je tìce zfetovaná.}
 {102}{}{Zdá se, e je pìknì zfetovanı.}
@@ -7,8 +6,6 @@
 {105}{}{U zaila i lepší dny. Vypadá to, e má absák.}
 {106}{}{Tenhle závislák vypadá jako ijící mrtvola.}
 {107}{}{Vypadá to, e se tenhle závislák zrovna pozvracel.}
-
-# 1. CF: Attacked by PC
 {150}{}{Ta svìtla mì nièí!}
 {151}{}{Všude zrùdy!}
 {152}{}{Co to bylo?}
@@ -17,15 +14,13 @@
 {155}{}{Pøestaò, èlovìèe!}
 {156}{}{Copak mi nikdo nepomùe?}
 {157}{}{Pomoc!}
-{158}{}{Jdi pryè!}
+{158}{}{Pus mì!}
 {159}{}{Tøeští mì hlava!}
-{160}{}{Nech mì na pokoji.}
-
-# 2. CF: Normal
+{160}{}{Nech mì bıt.}
 {200}{}{Páni, ty ale divnì záøíš.}
 {201}{}{Teda, ty jsi ale fešák.}
 {202}{}{Neøíkej jim, o èem víme, e tam není.}
-{203}{}{Ááááá...}
+{203}{}{Áááá...}
 {204}{}{Vidíš mì?}
 {205}{}{Buï velmi, velmi potichu. Lovím kválíky.}
 {206}{}{Jak ses sem dostal?}
@@ -61,8 +56,6 @@
 {236}{}{Myslím, e hodím šavli.}
 {237}{}{Moná kdy pùjdu spát...}
 {238}{}{Pìknì se tøesu, dámo.}
-
-# 3. BGF: Hostile
 {300}{}{To je krev?}
 {301}{}{Páni! Já krvácím? Nic necítím!}
 {302}{}{To lechtá.}
@@ -72,8 +65,6 @@
 {306}{}{Ach, ta bolest.}
 {307}{}{Teï u ale fakt potøebuju dávku.}
 {308}{}{Nech mì umøít.}
-
-# 4. BGF: Normal
 {350}{}{Ááááá...}
 {351}{}{Já se vznáším...}
 {352}{}{Mám sílu!}
@@ -103,8 +94,6 @@
 {376}{}{*kašlání*}
 {377}{}{Ó, moje hlava!}
 {378}{}{Kde jsou moje zásoby?}
-
-# 5. Self Initiated: Attacking Player
 {400}{}{Démon!}
 {401}{}{Nepøítel jde po nás!}
 {402}{}{Ty vrahu! Zabil jsi mi syna!}

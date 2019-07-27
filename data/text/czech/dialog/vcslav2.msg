@@ -6,7 +6,7 @@
 {105}{}{Vidíš zdravì vypadající ženu v pracovním odìvu. Její oèi jsou pevnì upnuty k zemi.}
 {106}{}{Slyšel jsem o vašem hrdinském èinu. Udìlal jsi velkou službu pro Vault City... a pro celý svìt.}
 {107}{}{Vaše bitva proti enklávì zapùsobila i na První Obèanku.}
-{108}{}{Rád bych vám nìjakým zpùsobem dal nìco za vše co jste udìlal pro nás, ale nemám vám co dát... pøijmìte moje podìkování..}
+{108}{}{Rád bych ti nìco daroval za to, co všechno jsi pro nás udìlal, ale nemám ti co dát... pøijmi aspoò moje podìkování.}
 {109}{}{Ostatní otroci budou závidìt, že jsem mluvil s hrdinou Pustiny.}
 {110}{}{Ano, Kapitáne?}
 {111}{}{Kapitáne?}

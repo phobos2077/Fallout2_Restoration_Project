@@ -6,7 +6,7 @@
 {105}{}{4F.}
 {106}{}{Èas poohlédnout se jinde.}
 {107}{}{Jdi se pøidat k námoønictvu.}
-{108}{}{Sakra!}
+{108}{}{Zatracenì!}
 {109}{}{Ach! Podívej, kolik je hodin. Musím už jít!}
 {110}{}{Rekrute.}
 {111}{}{Seržante.}

@@ -1,5 +1,5 @@
 {100}{}{Vidíš docela mladého plešatícího vìdce. Vypadá to, že je soustøedìný na svou práci.}
-{101}{}{Vidíš Crocketta, hubologistického vìdce.}
+{101}{}{You see Crockett, the Hubologist scientist.}
 {102}{}{Vidíš pomìrnì mladého plešatícího vìdce. Vypadá jako neupravený geek.}
 {103}{}{Jo? Co chceš?}
 {104}{}{Á. Em. Hmm.}
@@ -14,8 +14,8 @@
 {113}{}{Dr. Jing je ochoten ti prodat palivo pro vaši vesmírnou loï.}
 {114}{}{Mùžu ti za to zaplatit.}
 {115}{}{Nechám tì žít.}
-{116}{}{Nic. Zapomeò na to.}
-{117}{}{Jsem Crockett a jsem vìdec a opraváø. Mùžu se zase vrátit ke svojí práci?}
+{116}{}{Žádný. Zapomeò na to.}
+{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
 {118}{}{Ne. Mám další otázky.}
 {119}{}{Jo, jistì.}
 {120}{}{Vyvinul jsem novou technologii a na oplátku si mùžu užít trochu kultistické lásky, jestli mi rozumíš.}
@@ -56,10 +56,10 @@
 {155}{}{Hmm. Chci se ještì na nìco zeptat.}
 {156}{}{To nezní špatnì. Zatím.}
 {157}{}{Takže... postavil jsem nukleární reaktor pro vesmírnou loï, vytvoøil jsem vytvrzující proces pro energo zbroje a opravuji vìci, které jsou rozbité.}
-{158}{}{Aha. No, mám další otázky.}
+{158}{}{Chápu. No, mám další otázky.}
 {159}{}{Hmm. Musím jít. Nashle.}
 {160}{}{Hej, nic jsem ti neudìlal. Jenom mi neubližuj.}
-{161}{}{Mám na tebe nìjaké otázky.}
+{161}{}{Chci se tì na nìco zeptat.}
 {162}{}{Jsem tu pro tu zbroj.}
 {163}{}{Pøíliš pozdì.}
 {164}{}{Nashle.}

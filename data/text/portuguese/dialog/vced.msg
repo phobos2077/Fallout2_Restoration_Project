@@ -10,9 +10,9 @@
 {109}{}{Do you know a trader named Vic?}
 {110}{}{My friend Vic here says he bought a water flask from you.}
 {111}{}{Any luck remembering where you got the water flask from?}
-{112}{}{I'm looking for the Vault.}
+{112}{}{Estou a procura da Vault.}
 {113}{}{Can you tell me about Vault City?}
-{114}{}{What do you do around here?}
+{114}{}{O que você faz por aqui?}
 {115}{}{Adeus.}
 {116}{}{Vic?}
 {117}{}{He sold a water flask to you? One with "13" on it?}
@@ -30,7 +30,7 @@
 {129}{}{Oh. Well, thanks anyway, then.}
 {130}{}{When I was a lot younger, I used to drive brahmin through the 'Big Circle'... Broken Hills, New Reno, Redding, the Den, Modoc, then back here. It just got too dangerous after a while, so I settled here.}
 {131}{}{Where are these places?}
-{132}{}{I see. Well, thanks for the information.}
+{132}{}{Entendo. Bem, agradeço pela informação.}
 {133}{}{Let me mark it on your map. See, Broken Hills is south... bear west on the trail from there, and you'll hit Reno.
  Northwest o' Reno is Redding, then it's north to the Den, east to Modoc, then east to here, Vault City.}
 {134}{}{Any idea which of those places you got the flask from?}
@@ -42,26 +42,26 @@
 {140}{}{Vault 13 is inside the city?}
 {141}{}{Obrigado pela informação.}
 {142}{}{Well, now, don't know if it's "13" exactly, but there's a Vault. If that ain't the one you're looking for, the vault's central computer might know where the others are. They've damn near listed everything in it.}
-{143}{}{I had some other questions...}
+{143}{}{Eu tenho mais algumas perguntas...}
 {144}{}{Obrigado pela informação.}
 {145}{}{Shoot. What did you want to know?}
 {146}{}{Do you know a trader named Vic? He said he bought this Vault water flask from you.}
 {147}{}{Do you know a trader named Vic?}
 {148}{}{My friend Vic here says he bought a water flask from you.}
 {149}{}{Any luck remembering where you got the water flask from?}
-{150}{}{I'm looking for the Vault.}
+{150}{}{Estou a procura da Vault.}
 {151}{}{Can you tell me about Vault City?}
-{152}{}{What do you do around here?}
+{152}{}{O que você faz por aqui?}
 {153}{}{Adeus.}
 {154}{}{Well... there's that Vault inside the main part of the city. You checked it out yet? Could be the one you're looking for.}
 {155}{}{Well... there's a Vault inside the main part of the city. That what you're looking for?}
 {156}{}{Perhaps. I had some other questions...}
 {157}{}{Could be. Thanks for the information.}
 {158}{}{Okay place... if you can deal with the Citizens. I don't agree with some of their views, but hey, I make a pretty good living here.}
-{159}{}{I had some other questions...}
+{159}{}{Eu tenho mais algumas perguntas...}
 {160}{}{I see. Thanks for the information. Goodbye.}
 {161}{}{I sell brahmin to people who need them. Helps me pay rent on this place.}
-{162}{}{I had some other questions...}
+{162}{}{Eu tenho mais algumas perguntas...}
 {163}{}{I see. Thanks for the information. Goodbye.}
 {164}{}{I got brahmin smarter than you. Move along.}
 {165}{}{This looks like Ed's place. He's the one I bought that water flask from.}

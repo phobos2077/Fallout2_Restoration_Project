@@ -1,4 +1,4 @@
-{100}{}{Vidíš rolníka.}
+{100}{}{Vidíš farmáøe.}
 {101}{}{Vidíš zdravì vypadajícího rolníka.}
 {102}{}{Vidíš osobu.}
 {103}{}{Poslední dobou jsi trochu chlastal, co?}
@@ -16,8 +16,7 @@
 {115}{}{Ahoj, divochu.}
 {116}{}{Dneska je opravdu horko!}
 {117}{}{Je tu úrodná pùda...}
-{118}{}{Pìkný den pøeju.}
+{118}{}{Hezký den.}
 {119}{}{Vítej v Opatství, poutníku!}
 {120}{}{Náš klášter je pùsobivý, že ano?}
-
 {200}{}{Dej ze mì ty pracky pryè!}

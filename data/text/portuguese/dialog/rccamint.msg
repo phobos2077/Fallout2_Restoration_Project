@@ -36,7 +36,7 @@
 {135}{}{You got some nerve, putting us away.}
 {136}{}{We was just having a bit of fun. Let us out.}
 {137}{}{What we was doin' weren't none of your business.}
-{138}{}{Get the hell out of here.}
+{138}{}{Caia fora daqui.}
 {139}{}{Tire-me daqui.}
 {140}{}{Hey, let me out.}
 {141}{}{I'm innocent.}
@@ -86,6 +86,6 @@
 {177}{}{Maybe I'll do that. I sure don't want to hurt anyone. Goodbye.}
 {178}{}{All right, I think we can see the writing on the wall - right, Bette? (she nods) You got us.
  Take us in, Sheriff.}
-{179}{}{That's more like it.}
+{179}{}{Assim que se fala.}
 {180}{}{Nope, too late now. I'm gonna have to open up a can of whoop-ass on you two. }
 {181}{}{Don't worry; I won't be startin' any trouble tonight.}

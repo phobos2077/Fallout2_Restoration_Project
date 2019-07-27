@@ -1,5 +1,5 @@
 {100}{}{Vidíš místní zdravotní sestru, Phyllis.}
-{101}{}{Vidíš štíhlou mladou enu. Je slabì cítit dezinfekcí.}
+{101}{}{Vidíš štíhlou mladou enu. Je slabkdì cítit dezinfekcí.}
 {102}{}{Vidíš zdravotnici Phyllis.}
 {103}{}{Vidíš štíhlou mladou enu. Je slabkdì cítit dezinfekcí.}
 {104}{}{Riskoval jsi vlastní ivot, abys nás VŠECHNY zachránil. Jsi nejstateènìjší èlovìk, jakého jsem kdy poznala.}
@@ -54,7 +54,7 @@
 {153}{}{Jmenuju se }
 {154}{}{Jsem }
 {155}{}{A ti budu chtít øíct svoje jméno, tak ti ho øeknu, "Syfilis"... nebo jak se to sakra jmenuješ.}
-{156}{}{Promiò, ale teï nemám èas si s tebou povídat.}
+{156}{}{Promiò, ale nemám èas si s tebou povídat.}
 {157}{}{Co si to...! Ještì NIKDY jsem nepotkala nìkoho tak nevychovaného, jako jsi ty. Bude lepší, kdy odejdeš. Hned.}
 {158}{}{Radìji si dávej pozor na pusu, nebo budeš mít problém.}
 {159}{}{Jak myslíš. Stejnì si u s tebou nechci povídat.}
@@ -62,7 +62,7 @@
 {161}{}{Tak takhle ty, jo? No dobøe...}
 {162}{}{Jsem místní zdravotní sestra. Pracuju pro Dr. Troye.}
 {163}{}{Co si myslíš o Dr. Troyovi?}
-{164}{}{Mùu se na nìco zeptat?}
+{164}{}{Mùu se tì na nìco zeptat?}
 {165}{}{Skvìle. Potøebuju lékaøskou pomoc.}
 {166}{}{Promiò, ale nemám èas si s tebou povídat.}
 {167}{}{Vítej zpìt. Mùu ti s nìèím pomoct?}
@@ -70,8 +70,8 @@
 {169}{}{Co si myslíš o Dr. Troyovi?}
 {170}{}{Mùeš mi øíct, kde je centrální poèítaè?}
 {171}{}{Potøebuju vyléèit.}
-{172}{}{Co tu dìláš?}
-{173}{}{Mùeš mi øíct nìco o Vault City?}
+{172}{}{Co tady dìláš?}
+{173}{}{Mùete mi øíct nìco o Vault City?}
 {174}{}{Vlastnì u nic. Ale stejnì díky.}
 {175}{}{No, Dr. Troy dokáe bıt nìkdy dost pøísnı, ale jinak je to dobrı èlovìk. Vault City má štìstí, e ho má.}
 {176}{}{No nevím, chce po mì propašovat do mìsta nìjaké drogy.}
@@ -87,9 +87,9 @@
 {186}{}{Tak dobøe. Mùu se ještì na nìco zeptat?}
 {187}{}{Díky za upozornìní. Asi si pùjdu popovídat s nìkım jinım.}
 {188}{}{Je dole na tøetím podlaí, pokud si dobøe vzpomínám. U jsem dole nebyla celou vìènost.}
-{189}{}{Jak to?}
+{189}{}{Proè ne?}
 {190}{}{Mùu se ještì na nìco zeptat?}
-{191}{}{Díky za radu. Sbohem.}
+{191}{}{Díky za informace. Sbohem.}
 {192}{}{Ani nevím. Nemám dùvod chodit dolù do Vaultu. V souèasné dobì je pøevánì vyuíván jako skladovací prostor. Dole je jen jedinı èlovìk, Martin, a... no, jen tak mezi námi, není to zrovna nejlepší øeèník.}
 {193}{}{Ehh... proè z nìj udìlali øeèníka, kdy mu to nejde?}
 {194}{}{Mùu se ještì na nìco zeptat?}
@@ -133,7 +133,7 @@
 {232}{}{Kdepak... víš, naše otìhotnìní není následkem pohlavního styku.}
 {233}{}{Bojím se zeptat, ale stejnì se zeptám.}
 {234}{}{Víc u o tom nechci vìdìt, ale chci se ještì na nìco zeptat...}
-{235}{}{Myslím, e u víc slyšet nechci.}
+{235}{}{To u by staèilo, u to nebudu poslouchat.}
 {236}{}{Mui Obèani "darují" Auto-Doku ve Vaultu svùj... materiál a nejvhodnìjší dárci jsou vybráni poèítaèem. Potom je vhodná Obèanka oplodnìna Auto-Dokem.}
 {237}{}{Mùu taky "darovat"?}
 {238}{}{To u nejsou eny schopné otìhotnìt pohlavním stykem? A co náhodná otìhotnìní?}
@@ -154,7 +154,7 @@
 {253}{}{Moná je to jen tím, e tu sex nikdo moc neprovozuje.}
 {254}{}{To nic, jen se tak ptám.}
 {255}{}{Víš, myslím si to samé. Moná bych se o tom mìla zmínit Dr. Troyovi. Sice má poslední dobou moc práce, ale pøíští tìhotenskı cyklus tu bude co nevidìt, take...}
-{256}{}{Mùu se ještì na nìco zeptat?}
+{256}{}{Mùu se vás ještì na nìco zeptat?}
 {257}{}{Zmínit se o tom Dr. Troyovi zní jako dobrı nápad. Hodnì štìstí.}
 {258}{}{Jako by byli všichni... naklonovaní. Všichni se oblékají stejnì, chovají se stejnì a nejhorší na tom je, e všichni vypadají šastnì. Já... no, nìkdy se bojím, e skonèím jako oni. Nezní to trochu hloupì?}
 {259}{}{Ani ne. Ten tlak pøizpùsobit se ostatním tu musí bıt poøádnì silnı, obzvláš kdy si uvìdomíme, jak moc je Vault City izolovaná spoleènost.}

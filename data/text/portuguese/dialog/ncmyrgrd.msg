@@ -11,23 +11,23 @@
 {216}{}{Watch yourself, Myron.}
 {217}{}{Don't get into any trouble, Myron, awright?}
 {218}{}{Don't go too far, Myron.}
-{225}{}{Hey, }
+{225}{}{Ei, }
 {230}{}{It's one of the }
-{235}{}{You got some cojones coming around here. I suggest you lose 'em and walk.}
+{235}{}{Você tem muito cojones em vir aqui. Sugiro que vá embora.}
 {236}{}{You look like a }
 {240}{}{Ain't you better be getting back to your }
 {241}{}{You look like a }
 {245}{}{Put that weapon away... unless you WANT trouble.}
 {250}{}{Intruso!}
-{260}{}{Get that rolling trash can outta here.}
-{261}{}{No bots allowed in here. Beat it.}
-{262}{}{That robot's gonna be scrap if it stays.}
+{260}{}{Tire essa lixeira rolante daqui.}
+{261}{}{Robôs não são permitidos aqui. Caia fora.}
+{262}{}{Esse robô vai virar sucata se ficar aqui.}
 {270}{}{I *thought* I smelled mutant. Get him outta here 'fore we get mad.}
-{271}{}{You a mutant lover? His place is OUTSIDE. Or else.}
-{272}{}{That mutant looking to become target practice? Stick around and he'll get his wish.}
+{271}{}{Gostas de mutantes? O lugar dele é LÁ FORA. Ou então...}
+{272}{}{Esse mutante quer virar alvo de tiro? Continue aqui e ele vai ter o desejo realizado.}
 {280}{}{I *thought* I smelled something rotting. Get that ghoul boy o' yours outta here.}
 {281}{}{Get that stinky ghoul mother fucker outta here. Now.}
-{282}{}{That ghoul ain't outta here in a minute, he's gonna be deader than he already is.}
+{282}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
 {290}{}{::Whoa.:: Check THAT out.}
 {291}{}{Hey, chica, you looking for some company?}
 {292}{}{Wanna waste some time with us, chica?}
@@ -45,7 +45,7 @@
 {324}{}{Me want world peace}
 {325}{}{Me want to go past door}
 {326}{}{Hoo Yoo}
-{327}{}{Wander off}
+{327}{}{Cai fora}
 {328}{}{Off-Limits? What's behind that door?}
 {329}{}{I'm here to see Myron.}
 {330}{}{I'm here to see Myron. I have a badge.}

@@ -4,8 +4,8 @@
 {103}{}{Stráe! Vetøelec! Zabijte ho!}
 {104}{}{Ty, co tady chceš?}
 {105}{}{Aaagh! Nu! Nee!}
-{106}{}{Mám zprávu pro AHS-9 od Osvícené z NCR.}
-{107}{}{Potøebuju si promluvit s Crockettem o nìjaké zbroji.}
+{106}{}{Mám dopis pro AHS-9 od Osvícené z NCR.}
+{107}{}{I'm here to speak to Crockett about some armor.}
 {108}{}{Chci se tu porozhlédnout.}
 {109}{}{Mám zájem se k vám moná pøidat.}
 {110}{}{Kdo jsi?}
@@ -28,7 +28,7 @@
 {127}{}{Ó! Celebrity!}
 {128}{}{Jsem AHS-7, druhı vùdce této základny. Ne se zeptáš: AHS znamená Srovnanı Hledaè Hubu, co znamená, e jsem oèistil sedm úrovní neurodynù ze své duše. Díky tomu jsem osvícenìjší a jsem blíe støedu pohybu Velkého Kruhu, ne jsi ty. A to znamená, e mi øekneš, co tu chceš. Hned teï.}
 {129}{}{Mám dopis pro AHS-9 od Osvícené z NCR.}
-{130}{}{Potøebuju si promluvit s Crockettem o nìjaké zbroji.}
+{130}{}{I'm here to speak to Crockett about some armor.}
 {131}{}{Chci se tu porozhlédnout.}
 {132}{}{Mám zájem se k vám moná pøidat.}
 {133}{}{Pøišel jsem vás všechny zabít.}
@@ -38,10 +38,10 @@
 {137}{}{Najdeš je v modlitebnì, kde ukazují našim nováèkùm a špinavcùm, jak pøínosné je bıt Hubologistou.}
 {138}{}{No tak u mì pus dovnitø!}
 {139}{}{Na to si udìlám vlastní názor. Pus mì dovnitø.}
-{140}{}{Zapomeò na to. Jdu pryè.}
+{140}{}{Zapomeò na to. Mizím odsud.}
 {141}{}{Á, ty u jsi mluvil s Juanem a Vikki. Pøipojíš se tedy k našim pøátelùm v hledání osvícení Velkého Kruhu?}
 {142}{}{Ach ano. Ano, ano, ano.}
-{143}{}{Jistì.}
+{143}{}{Jasnì.}
 {144}{}{Ne, teï ještì ne. Mùu se vrátit pozdìji?}
 {145}{}{Myslím, e nemám zájem. Promiò.}
 {146}{}{Ani náhodou. Váš šílenı kult by zaslouil vyhladit.}
@@ -59,12 +59,12 @@
 {158}{}{Take... u jsi mìl dost èasu pøemıšlet o svém rozhodnutí. Pøidáš se k nám?}
 {159}{}{Ano.}
 {160}{}{Ne.}
-{161}{}{Potøebuju víc èasu.}
+{161}{}{Dej mi ještì chvíli.}
 {162}{}{Nemáš víc èasu. Rozhodni se teï, špinavèe.}
 {163}{}{Dobøe, pøidám se.}
 {164}{}{Zapomeò na to. Nemám rád mocenskou vládu.}
 {165}{}{Tyranští Shi soupeøí s naší mocí a vytváøejí zmatek mezi našimi bratry pomocí vlastního zpùsobu, jak ovlivnit neurodyny. Vìøíme, e kdy bude jejich Císaø mrtvı, spatøí omyly své cesty. Zabiješ pro nás Císaøe?}
-{166}{}{Jo, udìlám to.}
+{166}{}{Ano, udìlám to.}
 {167}{}{Ne, Shi mi nikdy nic neudìlali.}
 {168}{}{Tøeba si to ještì rozmyslíš. Pokud ano, dej mi vìdìt. Mùe ti Hub ještì s nìèím pomoci, rekrute?}
 {169}{}{Ano, mám nìjaké otázky.}
@@ -76,11 +76,11 @@
 {175}{}{Kde získám palivo pro tanker Poseidon?}
 {176}{}{Kde najdu popis všech vırazù, o kterıch jsi mluvil?}
 {177}{}{Kdy odlétá raketoplán?}
-{178}{}{Kde je Crockett?}
+{178}{}{Where is Crockett?}
 {179}{}{Nic, díky. Nashle.}
 {180}{}{Dej nám vìdìt, a ten úkol splníš.}
 {181}{}{Dám. Mám ještì otázky.}
-{182}{}{Jasnì. Nashle.}
+{182}{}{Jasnı. Nashle.}
 {183}{}{Odstranil jsi císaøskou skvrnu z materiální reality?}
 {184}{}{Ještì ne.}
 {185}{}{Ano, AHS-7. U je mrtvı.}
@@ -99,7 +99,7 @@
 {198}{}{Vlastnì tì teï zabiju taky.}
 {199}{}{Teï, kdy je raketoplán naplnìn palivem, èekáme pouze na pokyn od Velikého a Strašlivého AHS-9 a poté mùeme odstartovat.}
 {200}{}{To urèitì mùeme. Mám nìjaké otázky.}
-{201}{}{Díky. Nashle.}
+{201}{}{Dík. Naskle.}
 {202}{}{O ádném nevím, kromì vzácného paliva, které potøebujeme k odletu našich hvìzdnıch bratrù na planetu Quetzel. Moná mají nìjaké Shi?}
 {203}{}{Eh. Mám další otázky.}
 {204}{}{Jo, moná.}
@@ -124,10 +124,8 @@
 {223}{}{Odstranili jsme nìkteré tvé neèisté neurodyny. Nyní jsi klasifikován jako AHS-1. Jsi pøipraven pøidat se k našemu vznešenému cíli?}
 {224}{}{Ach ano.}
 {225}{}{Ne. Teï u nechci.}
-
 {226}{}{Lekce 1: Zde máme vìènost. Tady je Quetzel. (Na nìco ukáe.) A zde jsme my. (Na nìco ukáe.) Teï se jen musíme vydat na velmi dlouhou cestu, abychom se tam dostali.}
-{227}{}{No, tak to budeme potøebovat hodnì bot.}
-
+{227}{}{Sakra, tak to budeme potøebovat opravdu hodnì bot.}
 {228}{}{Mùu o tom ještì pøemıšlet?}
 {229}{}{Zase ty? Co chceš?}
 {230}{}{Mám ještì nìco udìlat?}

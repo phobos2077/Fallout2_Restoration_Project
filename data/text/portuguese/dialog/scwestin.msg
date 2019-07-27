@@ -4,7 +4,7 @@
 {103}{}{I'm Roger Westin and you can't come barging in here. What do you want?}
 {104}{}{You again? What do you want?}
 {105}{}{O que você quer?}
-{106}{}{Duh...}
+{106}{}{Dã…}
 {107}{}{Me look Vault 13. You help?}
 {108}{}{I'm looking for Vault 13. Can you help me?}
 {109}{}{I finished your dirty work.}
@@ -25,7 +25,7 @@
 {124}{}{Uh-huh.}
 {125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
 {126}{}{Como?}
-{127}{}{I don't believe you.}
+{127}{}{Eu não acredito em você.}
 {128}{}{Take out Bishop instead. I'll pay cash, whatever he was paying plus 50%. How much was it?}
 {129}{}{(need info from Chris)}
 {130}{}{(Avellone, that is)}
@@ -59,7 +59,7 @@
 {158}{}{Não.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
 {160}{}{Eu tenho algumas outras perguntas.}
-{161}{}{Yes, sir.}
+{161}{}{Sim, senhor.}
 {162}{}{Well then, that's all.}
 {163}{}{Eu tenho algumas outras perguntas.}
 {164}{}{Seja o que for.}

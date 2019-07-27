@@ -1,15 +1,14 @@
 {100}{}{Vidíš starého mue. Proti nìmu je i sušená køíala èerstvá.}
 {101}{}{Vidíš Farrela.}
 {102}{}{Pøi kadém jeho pohybu je slyšet praskání kloubù.}
-
 {150}{}{Hej, jdi odtamtud!}
-{151}{}{Nech toho!}
+{151}{}{Pøestaò s tím!}
 {152}{}{Zlodìj!}
 {153}{}{Já jsem ty hodinky neukradl, tak sem pøestaòte chodit a neotravujte starého chudáka Farrela!}
 {154}{}{Ale Cornelius øíká, e jste ukradl jeho zlaté hodinky.}
 {155}{}{Kde jste vzal peníze na nové náøadí?}
 {156}{}{Mùete mi øíct nìco o Modocu?}
-{157}{}{Co tady dìláte?}
+{157}{}{Co tady dìláš?}
 {158}{}{Hodinky? O èem to mluvíte?}
 {159}{}{Ano?}
 {162}{}{Copak to schováváte v sejfu ve zdi?}
@@ -44,7 +43,7 @@
 {195}{}{Je mi líto, ale nemùu vám pomoct.}
 {196}{}{To by bylo skvìlé. Ani nevím, jak ti mám za to podìkovat. Moje zahrada leí kousek na vıchod. Pojï se mnou, ukáu ti ji.}
 {197}{}{Díky! Jsi opravdovı hrdina. Jen málo lidí by riskovalo svùj ivot pro úplného cizince. Díky! Díky! Díky... (Máš zase ten pøíjemnı høejivı pocit po celém tìle.)}
-{198}{}{Mùu se vás ještì na nìco zeptat?}
+{198}{}{Mùu se ještì na nìco zeptat?}
 {199}{}{Radìji umøu, ne abych pošpinil své dobré jméno! Táhni k èertu!}
 {200}{}{Kadı mì obviòuje z krádee zlatıch hodinek mého nejlepšího pøítele Corneliuse. Já a Cornelius jsme byli vdy pøátelé. Nikdy bych neukradl jeho hodinky. Všude jsem je hledal, abychom mohli bıt opìt dobøí pøátelé, ale bohuel.}
 {201}{}{Chvíli se ve mìstì zdrím. Kdy na nì narazím, dám vám vìdìt.}
@@ -59,15 +58,11 @@
 {211}{}{To je od tebe milé, mùj drahı pøíteli. (Vezme tì za ruku a zavede tì do zahrady.) Nechci, aby ses ztratil. Pøijï za mnou, a vyhubíš ty škùdce.}
 {212}{}{Mùj drahoušku. Jsi tak laskavá ke starému mui. (Vezme tì za ruku a zavede tì do zahrady.) Nechci, aby ses ztratila. Pøijï za mnou, a vyhubíš ty škùdce.}
 {213}{}{Vıbornì! Tady je tvoje odmìna. (Zaloví ve svıch kalhotách a najde napùl snìdenou sušenku.) Tak a teï buï hodnı divoch, vezmi si svou sušenku a jdi si hrát ven.}
-
 {300}{}{Já toho parchanta zabiju.}
 {301}{}{Nenávidím ho...}
-{302}{}{Grrr...}
-
+{302}{}{Vrrr...}
 {501}{}{Já ty pitomı hodinky neukradl!}
 {502}{}{Øíkám ti, e jsem nevinnı!}
 {503}{}{Vdy netrefíš ani vrata od stodoly!}
-
 {550}{}{Neposlouchá tì.}
-
 {600}{}{Dlouhotrvající spor mezi Farrelem a Corneliem byl ukonèen usmíøením.}

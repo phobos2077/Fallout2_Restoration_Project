@@ -5,7 +5,7 @@
 {104}{}{}
 {105}{}{Ano.}
 {106}{}{Ne.}
-{107}{}{Mìjte oèi na šopkách.}
+{107}{}{Mìj oèi na šopkách.}
 {108}{}{Drte se u sebe, chlapi!}
 {109}{}{Jen tak dál, chlapi.}
 {110}{}{Skvìlı. Teï se všichni nachystejte... a šnìrujte do Reddingu, hoši!}
@@ -16,8 +16,4 @@
 {115}{}{No, mìli jsme trochu smùly, ale jinak to bylo v pohodì. Tady máš tìch $2000.}
 {116}{}{Zatracenì, to bylo skvìlı! Tady máš $1000 navrch k tìm $2000, kterı jsem ti slíbil. A Redding dneska zaije malı zemìtøesení!}
 {117}{}{Tak a je to. Dobøe se nám s tebou cestovalo.}
-
-#added by killap
 {118}{}{Ty jseš ta nejhorší napodobenina stráce, jakou jsem kdy vidìl. Vypadni odsud.}
-
-

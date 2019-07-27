@@ -70,12 +70,12 @@
 {169}{}{Try and pry open the box so the woman can get out.}
 {170}{}{Desliga}
 {171}{}{Search the archives for location of Vault 13.}
-{172}{}{Search archives for any mention of the Garden of Eden Creation Kit.}
+{172}{}{Pesquisar por arquivos que mencionam a GECK.}
 {173}{}{Insert Gecko power plant disk into the computer.}
 {174}{}{Pry open the computer and look for a voice recognition module.}
 {175}{}{Insert the Pip-Boy into the slot you noticed before.}
 {176}{}{Insert the Pip-Boy into the slot you noticed before.}
-{177}{}{Log off the terminal.}
+{177}{}{Deslogar do terminal.}
 {178}{}{The metal box does not answer.}
 {179}{}{Try and pry open the box so the woman can get out.}
 {180}{}{Desliga}
@@ -135,22 +135,21 @@
 {222}{}{Northern California Geographical Archive is being copied into Pip-Boy database. }
 {223}{}{Copying archive... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download complete.}
 {224}{}{Continue to search the archives for more information.}
-{225}{}{Log off the terminal.}
-{226}{}{You have returned to the main menu. A series of archives and search programs are listed on the
- terminal screen.}
-{227}{}{Search for any mention of Vault 13 in the archives.}
-{228}{}{Search for any references to the Garden of Eden Creation Kit.}
+{225}{}{Deslogar do terminal.}
+{226}{}{Você voltou para o menu inicial. Uma série de arquivos e programas de pesquisa são listados na tela do terminal.}
+{227}{}{Pesquisar por qualquer menção da Vault 13 nos arquivos.}
+{228}{}{Pesquisar por qualquer referencia sobre a GECK.}
 {229}{}{Call up the reports on Vault City's power generator. }
-{230}{}{Log off the terminal.}
+{230}{}{Deslogar do terminal.}
 {231}{}{According to the output reports, it looks like Gordon was correct. Vault City's generator is
  already approaching its limit. Without a new power supply, Vault City will be unable to expand.}
-{232}{}{Continue to search the archives.}
-{233}{}{Log off the terminal.}
+{232}{}{Continuar a pesquisa dos arquivos.}
+{233}{}{Deslogar do terminal.}
 {234}{}{The archives list only two vaults: Vault 8 (this Vault) and Vault 15, located far to the south.
  Oddly enough, there is no mention of Vault 13.}
 {235}{}{You enter Vault 15's location into your Pip-Boy.}
 {236}{}{Continue to search the archives for more information.}
-{237}{}{Log off the terminal.}
+{237}{}{Deslogar do terminal.}
 {238}{}{According to the archives, there is no GECK currently in stock at Vault City's Amenities Office.
  The people of Vault City seem to have used the only one they had to help establish the place when they
  came to the surface.}
@@ -159,11 +158,11 @@
  inventory package. Only one was shipped to Vault 8, however.}
 {241}{}{Cross-reference the GECK shipment information.}
 {242}{}{Return to the main menu.}
-{243}{}{Log off the terminal.}
+{243}{}{Deslogar do terminal.}
 {244}{}{Due to a shipping error, it appears Vault 8 received a box of surplus water chips intended for
  another Vault. The other Vault most likely received Vault 8's second GECK.}
 {245}{}{Return to the main menu.}
-{246}{}{Log off the terminal.}
+{246}{}{Deslogar do terminal.}
 {247}{}{A small window opens on the terminal screen with a smiling Pip-Boy next to it. As you watch, the
  Pip-Boy looks right at you, winks, then gives you a thumbs up. A red light is flashing beside the
  computer slot.}
@@ -175,7 +174,7 @@
 {252}{}{This time-waster better be worth some extra skill points, or I'm going to be pissed off.}
 {253}{}{The Pip-Boy on the screen waves good-bye, and then the screen turns black. The terminal has shut
  down.}
-{254}{}{[Leave.]}
+{254}{}{(Sair.)}
 {255}{}{Yeah, you better run, you little shit.}
 {256}{}{The terminal has shut down. You have no idea how to turn the system back on.}
 {257}{}{Deixar.}
@@ -186,13 +185,13 @@
 {262}{}{}
 {263}{}{Begin optimization procedure. }
 {264}{}{Cancel the operation and search the archives.}
-{265}{}{Log off the terminal.}
+{265}{}{Deslogar do terminal.}
 {266}{}{Beginning optimization procedure... Optimizing... Optimization complete. Please remove disk.}
 {267}{}{}
 {268}{}{}
 {269}{}{}
 {270}{}{Search the archives.}
-{271}{}{Log off the terminal.}
+{271}{}{Deslogar do terminal.}
 {272}{}{Oooooooh. Dat tynglzzz.}
 {300}{}{As you are about to return to the archive listing, you skillfully notice a hidden entry in the list of archives..}
 {301}{}{As you are about to log off the terminal, you skillfully notice a hidden entry in the list of archives.}

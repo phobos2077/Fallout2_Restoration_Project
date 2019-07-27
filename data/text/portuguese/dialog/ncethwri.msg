@@ -23,7 +23,7 @@
 {222}{}{(She fishes in her robes for a moment, pulls forth some items and presses them into your hands.) Here you go, dear.
  Take these.}
 {223}{}{Thanxxx}
-{224}{}{Wander off}
+{224}{}{Cai fora}
 {230}{}{(Oh, you poor dear! Too much sun... }
 {231}{}{Oh, you poor dear... don't you have a home? }
 {232}{}{(Fishes in her robes for a moment.) I wish I had some food or water for you...}
@@ -55,7 +55,7 @@
 {281}{}{I had some questions about New Reno...}
 {282}{}{Nevermind. I have to be going.}
 {290}{}{(Squints, frowns.) I'm sorry, the Garden of... what? No, I'm sorry, I've never heard of such a thing.}
-{291}{}{I had some other questions...}
+{291}{}{Eu tenho mais algumas perguntas...}
 {292}{}{Nevermind then, I better be going.}
 {300}{}{Vault 13? (Looks puzzled.) My goodness, no, I haven't... well, no, wait. That's untrue. There IS Vault City to the northeast.
  Is that what you are looking for?}
@@ -147,7 +147,7 @@
 {407}{}{Look, forget I brought it up. I had some other questions...}
 {410}{}{Not by name. They know enough to run when they see me coming... but they cluster like flies along Virgin Street at the
  front of town and outside the casinos.}
-{411}{}{I see. I had some other questions...}
+{411}{}{Entendo. Eu tenho outras perguntas...}
 {415}{}{Keep your distance, you lust demon! You who fornicate on film for the corruption of the masses!}
 {416}{}{Well, I never! You have some sand coming back around here! You who fornicate on film for the
  corruption of the masses!}
@@ -166,7 +166,7 @@
 {432}{}{You again. We have NOTHING to talk about.}
 {433}{}{Me... uh... me... me wanted to... uh... me looking for... uh... dam! Me hate bein stoopid! Me hate!}
 {434}{}{I... uh... ooooh, shiny thing!}
-{435}{}{I had some questions...}
+{435}{}{Eu tenho algumas perguntas…}
 {436}{}{I can see talking isn't going to help matters here. Goodbye.}
 {440}{}{I see. Well, I'm afraid I can't help you. Good day.}
 {441}{}{I see. Well, I'm afraid I can't help you. Good night.}

@@ -25,7 +25,7 @@
 {124}{}{Schovejte se! Byl spuštìn poplach!}
 {125}{}{Doufám, e je tu dost záchrannıch èlunù.}
 {126}{}{Všichni ven!}
-{127}{}{No, }
+{127}{}{Dobøe, }
 {128}{}{, nevím sice, jak se vám podaøilo dostat z cely, ale pochybuji, e my dva se máme o èem bavit.}
 {129}{}{Tak to se mılíte. A poøádnì.}
 {130}{}{Máte pravdu. Jsem tu, abych vás zabil.}
@@ -58,7 +58,7 @@
 {157}{}{No a co, e je naše DNA trochu odlišná?}
 {158}{}{Nevím, co tím pøesnì myslíte, ale co je na tom, e jsme trochu odlišní?}
 {159}{}{Víte, vaše DNA není jen "trochu" odlišná. Je znaènì odlišná. Kdybych nemìl tolik práce s Projektem, velice rád bych provedl nìkolik dalších testù na vašich lidech. Samozøejmì jinıch testù ne tìch tıkajících se F.E.V. Je to opravdu fascinující práce.}
-{160}{}{Co potøebujete vìdìt?}
+{160}{}{O èem chceš vìdìt?}
 {161}{}{Jak se naše DNA odlišuje?}
 {162}{}{Vy dìláte testy na mém kmeni?}
 {163}{}{Co je sakra ten "Projekt?"}
@@ -94,7 +94,7 @@
 {193}{}{Tak dobøe, u jdu. Jeden z nás je moná beznadìjnı, ale myslím, e já to nejsem. Sbohem.}
 {194}{}{Ano. Toxikologickou studii úèinnosti F.E.V. toxinu.}
 {195}{}{F.E.V. toxin? Co je to?}
-{196}{}{Chci se zeptat na nìco jiného.}
+{196}{}{Chci se ještì na nìco zeptat.}
 {197}{}{F.E.V. toxin je dokonalım øešením tohoto sloitého problému.}
 {198}{}{Co je F.E.V. toxin?}
 {199}{}{Poèkejte chvíli. Chci se zeptat na nìco jiného.}
@@ -105,7 +105,7 @@
 {204}{}{Ach, ano, u jsem se k tomu dostával... F.E.V. virus se váe jen na specifické ivoèišné druhy... na lidské glykoproteiny. Staèilo jen nìkolik let vızkumu F.E.V. viru, abychom vyvinuli ještì smrtelnìjší verzi. Vısledek je dokonalı ve všech smìrech. }
 {205}{}{Dokonalı? Jak to?}
 {206}{}{Není to snad jasné, mùj zmutovanı pøíteli? Díky mnì je F.E.V. smrtící toxin a díky jednomu záhadnému géniovi, kterı si teatrálnì øíkal Vùdce, funguje pouze na lidi, a u zmutované nebo ne.}
-{207}{}{Take?}
+{207}{}{Coe?}
 {208}{}{Take to znamená, e máme dokonalı vynález øešící veškeré problémy se skoro-lidskımi mutanty zamoøujícími planetu.}
 {209}{}{Stále nechápu, v èem je "dokonalı."}
 {210}{}{Chci se zeptat na jinı z vašich bláznivıch nápadù.}
@@ -148,12 +148,12 @@
 {247}{}{a jejich slzy nebe zaplavily,}
 {248}{}{usmál se, kdy spatøil dílo své?}
 {249}{}{Stvoøil krom Beránka boího i tìlo tvé?}
-{250}{}{Coe?}
+{250}{}{He?}
 {251}{}{To jsem si jen vzpomnìl na jednu dávno zapomenutou báseò. Zajímalo by mì, zda-li je v nebi ještì místo pro ty, kteøí pracovali na tak temném poslání. Náš èas vypršel, váš naopak právì zaèíná. Bìte!}
 {252}{}{Aha, dobøe. Díky za pomoc, doktore. Jste stateènı mu.}
 {253}{}{Jste blázen... ale uiteènı blázen. Sbohem.}
 {254}{}{Bìte!}
-{255}{}{Vypadnìte odtud.}
+{255}{}{Zmizte odsud.}
 {256}{}{Pospìšte si!}
 {257}{}{Nemáte moc èasu!}
 {258}{}{Bìte odtud, dokud mùete!}

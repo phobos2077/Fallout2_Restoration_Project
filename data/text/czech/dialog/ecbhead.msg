@@ -28,32 +28,25 @@
 {127}{}{*Ehm*}
 {128}{}{KDO SE OPOVAéUJE PÿISTOUPIT K POSV¡TN… HLAVÃ ZAKLADATELE?!}
 {129}{}{J·, Vyvolen˝.}
-{1129}{}{J· Vyvolen˝.}
 {130}{}{HAHAHAHAHAHA!}
 {131}{}{*TY*?! A VYVOLEN›?!}
 {132}{}{VéDYç NEJSI VÃTäÕ NEé MŸJ PRST!}
 {133}{}{TY *NEJSI* VYVOLEN›.}
 {134}{}{Jo, jsem.}
-{1134}{}{J· b˝t.}
 {135}{}{NE, NEJSI.}
 {136}{}{Jo, jsem.}
-{1136}{}{J· b˝t!}
 {137}{}{E-e.}
-{138}{}{E-he.}
-{1138}{}{E-he.}
+{138}{}{Aha.}
 {139}{}{E-e.}
-{140}{}{E-he.}
-{1140}{}{E-he.}
+{140}{}{Aha.}
 {141}{}{E... e...}
 {142}{}{E... he...}
-{1142}{}{E... he...}
 {143}{}{E... DOST! NECH TOHO!}
 {144}{}{NO DOBÿE! PÿESVÃD»IL JSI MÃ!}
 {145}{}{TY *JSI* VYVOLEN›!}
 {146}{}{VEM SI TOHLE!}
 {147}{}{A TEœ ODEJDI!}
 {148}{}{Hej, dÌky!}
-{1148}{}{DÌk!}
 {149}{}{NO JO. A TEœ VYPADNI.}
 {150}{}{ZATRACENÕ TURISTI.}
 {151}{}{Ué JSEM TI D¡REK DAL.}
@@ -62,5 +55,11 @@
 {154}{}{CO?! TY MÃ CHCEä OKR¡ST?!}
 {155}{}{ZEMÿI!}
 {156}{}{Rozloûit hr·Ëe pomocÌ animace plazmovÈ smrti.}
-
 {200}{}{(O 12 hodin pozdÏji.)}
+{1129}{}{J· Vyvolen˝.}
+{1134}{}{J· b˝t.}
+{1136}{}{J· b˝t!}
+{1138}{}{Aha.}
+{1140}{}{Aha.}
+{1142}{}{E... he...}
+{1148}{}{DÌk!}

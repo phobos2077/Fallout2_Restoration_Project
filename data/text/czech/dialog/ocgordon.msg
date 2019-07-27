@@ -5,21 +5,21 @@
 {104}{}{Svatynì?}
 {105}{}{Já ptát otázky?}
 {106}{}{Eh... já nevzpomínat. Naskle.}
-{107}{}{Rád tì poznávám, Gordone. Já jsem} # continued 177
+{107}{}{Rád tì poznávám, Gordone. Já jsem}
 {108}{}{Tomuhle øíkáš Svatynì? Ten, kterému je zasvìcena, se musí obracet v hrobì!}
 {109}{}{No, promiò, že ruším. Už pùjdu.}
 {110}{}{Ano. Svatynì je místo k uctívání, které je obvykle zasvìcené bohu, svatému nebo jiné bytosti moci.}
 {111}{}{Aha. Dobøe. Já ptát otázky?}
-{112}{}{Dobøe. Naskle.}
+{112}{}{Dobøe. Ahoj.}
 {113}{}{Samozøejmì.}
-{114}{}{Co potøebuješ vìdìt?}
+{114}{}{Co potøebujete vìdìt?}
 {115}{}{Svatynì pro kdo?}
 {116}{}{Jak dlouho ty tady?}
 {117}{}{Páraèi špatní?}
 {118}{}{Proè ty zùstávat?}
 {119}{}{Já teï jít.}
 {120}{}{Komu je tahle svatynì zasvìcena?}
-{121}{}{Jak dlouho už tu jsi?}
+{121}{}{Jak dlouho tady jsi?}
 {122}{}{Co mi mùžeš øíct o páraèích?}
 {123}{}{Proè tady setrváváš?}
 {124}{}{Díky, Gordone. Sbohem.}
@@ -32,7 +32,7 @@
 {131}{}{Žil jsem v tomto vaultu celý svùj život. Vìtšinu tìch let jsem byl Strážcem Svatynì.}
 {132}{}{Být tady pøed páraèi?}
 {133}{}{Aha. Potøebovat vìdìt víc.}
-{134}{}{Já muset jít.}
+{134}{}{Muset teï jít.}
 {135}{}{Jsi velmi oddaný muž. Mùžu se ještì na nìco zeptat?}
 {136}{}{To je dlouhá doba. Mùžeš mi odpovìdìt ještì na pár otázek?}
 {137}{}{Je jen na tobì, jak svùj život promarníš, kámo.}
@@ -52,7 +52,7 @@
 {151}{}{Moje místo je zde ve Svatyni. Dobrovolnì ji neopustím.}
 {152}{}{Aha.}
 {153}{}{Já teï odejít.}
-{154}{}{Jak myslíš.}
+{154}{}{Dobøe.}
 {155}{}{Buï jsi opravdu oddaný nebo pitomec. Sázím, že spíš pitomec!}
 {156}{}{Tvoje odhodlání je obdivuhodné.}
 {157}{}{Jsi hrubý a sprostý. Možná, že kdyby tu byla jedna ze stráží, držel bys jazyk za zuby.}
@@ -74,6 +74,5 @@
 {173}{}{Ptát otázka?}
 {174}{}{Já být tady pøedtím? Promiò. Muset jít.}
 {175}{}{Chci si s tebou ještì jednou popovídat.}
-{176}{}{Jen tì chci pozdravit.}
-
-{177}{}{. Mùžu ti položit pár otázek?}
+{176}{}{Jen jsem tì chtìl pozdravit.}
+{177}{}{. Mùžu se tì na nìco zeptat?}

@@ -20,17 +20,17 @@
 {227}{}{I knew I should have washed today...}
 {228}{}{Check your oil? Heh-heh.}
 {229}{}{Wanna see my lil' grease monkey?}
-{230}{}{::Whistles::}
-{231}{}{Damn. All them curves and me with no brakes.}
+{230}{}{::Assobios::}
+{231}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
 {232}{}{Well, helloooo there, little lady.}
 {233}{}{Wow. Don't get many visitors. What can we do for you, miss?}
 {234}{}{You looking for some hot love? T-Ray's in the back, so don't bother going there.}
-{245}{}{Saw you fight in the ring. Damn good right hook you throw.}
-{246}{}{You gonna take the fall? I got 30 chips riding on you.}
+{245}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
+{246}{}{Você vai cair? Eu ganhei 30 conto apostando em você.}
 {247}{}{You don't look so tough for a prizefighter.}
-{248}{}{How much you bench?}
-{249}{}{Where do you work out?}
-{250}{}{Watch out for the Masticator. He has a taste for ears.}
+{248}{}{Quanto você pesa?}
+{249}{}{Onde você trabalha fora do ringue?}
+{250}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
 {251}{}{Wanna beer? We usually save them for when we're working.}
 {252}{}{T-Ray said you ain't so tough. I'll give you 5 chips if you go punch him.}
 {253}{}{T-Ray said you got a glass jaw. He's in the back if you want to go talk to him.}

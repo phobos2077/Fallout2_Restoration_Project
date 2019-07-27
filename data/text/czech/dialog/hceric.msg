@@ -9,7 +9,7 @@
 {108}{}{Pustím dovnitø tolik much, kolik budu chtít. Magore.}
 {109}{}{Dobøe. Mìj se.}
 {110}{}{Zavøi dveøe! Prosím! Jdi pryè a všechny ty zatracený mouchy si vem s sebou!}
-{111}{}{Dobže!}
+{111}{}{To fajn!}
 {112}{}{Promiò, jsem trochu nervní. Všude tolik zatracenejch much a klimatizace je nefunkèní. Kdybych mìl jen o trochu víc proudu, tak je odeženu... ale nemám.}
 {113}{}{Kdo jsi?}
 {114}{}{Odkud bereš energii?}
@@ -27,8 +27,8 @@
 {126}{}{V tom pøípadì ti prokážu laskavost, když tì zabiju.}
 {127}{}{Aha. To bude urèitì všechno. Sbohem.}
 {128}{}{To jsem zkoušel. Zkusil jsem všechno. Jediná vìc, která mi od much pomáhá, je nebýt zpocenej... jenže když nemám energii pro klimatizaci, tak to nejde.}
-{129}{}{Chápu. Mám ještì nìjaké otázky.}
-{130}{}{Chápu. Sbohem.}
+{129}{}{Chápu. Mám další otázky.}
+{130}{}{Aha. Sbohem.}
 {131}{}{Ano?}
 {132}{}{Brian øíkal, že už takhle je odbìr energie na hranì, takže o nìjakém zvyšování nemùže být ani øeè.}
 {133}{}{Odkud se ty mouchy berou?}
@@ -36,7 +36,7 @@
 {135}{}{Kde je ta rozvodna?}
 {136}{}{Kdo jsi?}
 {137}{}{Už je tady mnohem lépe, že?}
-{138}{}{Nic, zapomeò na to.}
+{138}{}{Žádný. Zapomeò na to.}
 {139}{}{Když to udìláš, nìco pro tebe najdu. Nemùžu slíbit moc, ale taky toho po tobì tolik nechci.}
 {140}{}{Dohodnuto, ale mìj pøipravené ty peníze, až to bude hotové.}
 {141}{}{Udìlám to zadarmo. Nic nechci.}
@@ -65,20 +65,20 @@
 {164}{}{Obvyklý zpùsob vyjádøení díkù vede pøes penìženku nebo výbavu.}
 {165}{}{Ani nemusíš. Staèí mi tvoje díky.}
 {166}{}{Mutant Francis má energo pìst. Poøád ji sází v páce. Problém je v tom, že je strašnì silnej. Jestli máš zájem, mùžu ti dát pár pilulek, který tì trochu zvýhodnìj.}
-{167}{}{Jasná páka.}
+{167}{}{Jasnì.}
 {168}{}{Chci radìji peníze, pokud nìjaké máš.}
 {169}{}{Nechci odmìnu.}
 {170}{}{Tìmhle pilulkám se øíká Buffout. Zvýšej ti sílu, ale za cenu oslabení mysli. Neber si jich moc, jinak dostaneš závislost. Hodnì štìstí!}
 {171}{}{Díky! Mìj se!}
 {172}{}{Mùžeš mi pomoct s tìma mouchama? Odvdìèím se ti.}
 {173}{}{Jak moc se mi odvdìèíš?}
-{174}{}{Jasná páka.}
+{174}{}{Jasnì.}
 {175}{}{Musím si to rozmyslet.}
 {176}{}{V žádném pøípadì.}
 {177}{}{Tady máš všechny moje prachy... $150. Díky.}
 {178}{}{Ne, já díky. Mìj se.}
 {179}{}{Jsem ti moc vdìènej. Jo... a slyšel jsem, že hledáš GECK. Zkus se zeptat v NCR, je to na jihu.}
-{180}{}{Díky! Nashle!}
+{180}{}{Diky! Nashle!}
 {181}{}{To teda. Mouchy mizej, mám tady pøíjemnej chládek a už se nejsem tak zpocenej. Pøál bych to každýmu!}
 {182}{}{To si myslím. No, to bude všechno. Nashle!}
 {183}{}{Vidíš zpoceného a umaštìného ghoula. Vypadá to, že je mu dobøe.}

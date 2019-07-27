@@ -2,7 +2,7 @@
 {101}{}{You see Athabaska Dick.}
 {102}{}{This man looks like a miner who would know his way around a pit.}
 {103}{}{You're too dumb for mine-work.}
-{104}{}{Welcome to the big city.}
+{104}{}{Saudações da cidade grande.}
 {105}{}{Your skylight leaks a little, don't it?}
 {106}{}{You're 'bout as smart as bait.}
 {107}{}{I've used shovels with more brains 'an you.}
@@ -52,7 +52,7 @@
 {141}{}{Qual é o problema com você?}
 {142}{}{What happened to you?}
 {143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
-{144}{}{Let me ask you something else, then.}
+{144}{}{Deixa eu te perguntar outra coisa, então.}
 {145}{}{I understand. Well, that's all I needed to know. Goodbye.}
 {146}{}{Well, not much lately except about them goll-dang Wanamingos.}
 {147}{}{Want-a-mongols? What the heck is that?}
@@ -141,7 +141,7 @@
  of stuff. He's right in the middle of all kinds o' thangs.}
 {204}{}{Ascorti's the Mayor of Redding. But I don't rightly know where he is. Haven't seen him around
  for a stretch.}
-{205}{}{Let me ask you about something else.}
+{205}{}{Deixa eu te perguntar outra coisa.}
 {206}{}{Oh, okay. Well, go on with the rest of your story, then.}
 {207}{}{I think I've listened to you long enough. Goodbye.}
 {208}{}{Jet is jist a little somethin' from New Reno. I jist take enough to smooth out the rough edges.}

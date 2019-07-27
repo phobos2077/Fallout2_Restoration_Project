@@ -1,220 +1,217 @@
-{100}{}{You see one of the Wright children. }
-{150}{}{You see a black-haired little boy.}
-{151}{}{You see a black-haired little girl.}
-{155}{}{He sticks his tongue out at you.}
-{156}{}{He is glaring at you sullenly.}
-{157}{}{She sticks her tongue out at you.}
-{158}{}{She looks at you suspiciously.}
-{159}{}{She is glaring at you sullenly.}
-{175}{}{Fallout 2 was brought to you by the letter Z.}
-{176}{}{Hey! }
+{100}{}{Você vê uma das crianças Wright. }
+{150}{}{Você vê um pequeno garoto de cabelos escuros.}
+{151}{}{Você vê uma pequena garota de cabelos escuros. Seu cabelo é tão curto que você quase a confunde como um garoto.}
+{155}{}{Ele te mostra a língua.}
+{156}{}{Ele está olhando para você tristemente.}
+{157}{}{Ela te mostra a língua.}
+{158}{}{O cabelo dela está cortado tão curto que ela pode convenientemente usar o desenho de personagem infantil masculino.}
+{159}{}{Ela está olhando para você tristemente.}
+{175}{}{Fallout 2 foi trazido para você pela letra Z.}
+{176}{}{Ei! }
 {177}{}{}
-{178}{}{Thanks fer savin us, }
-{179}{}{I wanna save th'world just like you when I grow up.}
-{180}{}{Can I be a hero like you when I grow up?}
-{181}{}{I wanna be }
-{190}{}{Are you a ROBOT?}
-{191}{}{How do you go pee-pee in that thing?}
-{192}{}{Can I ride around on your shoulders? Pleeease?}
-{193}{}{Will you come play with us? Pleeease?}
-{200}{}{You better run 'fore my Daddy sees you.}
-{201}{}{You better run 'fore my brothers see you.}
-{202}{}{Yer a bad person. You better leave 'fore I tell on you.}
-{210}{}{I see you! I see you!}
-{211}{}{Are you playin' hide and go seek? Can I play, too?}
-{215}{}{Look at the robot! Look at the robot!}
-{216}{}{Is that a reeeal brain inside that robot?}
-{217}{}{Oooooooh. Look at the robot!}
-{218}{}{Look at the mutant! Look at the mutant!}
-{219}{}{Mutant, stoopant, mutant, stoopant}
-{220}{}{Is that a reeeal mutant? He's fugly.}
-{221}{}{Oooooooh. Look at the mutant!}
-{222}{}{That mutant's BIG. Bigger than Daddy.}
-{230}{}{Ghoul! Look, itz a ghoul!}
+{178}{}{Obrigado por nos salvar.}
+{179}{}{Quando eu crescer eu quero salvar o mundo que nem você.}
+{180}{}{Eu posso ser um herói que nem você quando eu crescer?}
+{181}{}{Eu quero ser}
+{190}{}{Você é um ROBÔ?}
+{191}{}{Como você consegue mijar com essa coisa?}
+{192}{}{Você pode me levar pra passear em cima dos seus ombros? Por favoooor.}
+{193}{}{Você vai brincar com a gente? Por favoooor.}
+{200}{}{Melhor você fugir antes que o meu papai te veja.}
+{201}{}{Melhor você fugir antes que os meus irmãos te vejam.}
+{202}{}{Você é uma pessoa má. Melhor sair daqui antes que eu conte sobre você.}
+{210}{}{Tô te vendo! Tô te vendo!}
+{211}{}{Você tá brincando de esconde-esconde? Eu posso brincar também?}
+{215}{}{Olha o robô! Olha o robô!}
+{216}{}{Tem um cérebro de verdaaaaade aí dentro desse robô?}
+{217}{}{Oooooooh. Olha o robô!}
+{218}{}{Olha o mutante! Olha o mutante!}
+{219}{}{Mutante, avante, mutante, avante}
+{220}{}{É um mutante de verdaaaade? Ele é feio de mais.}
+{221}{}{Oooooooh. Olha o mutante!}
+{222}{}{Esse mutante é GRANDE. Maior que o papai.}
+{230}{}{Ghoul! Olha, é um ghoul!}
 {231}{}{Ewwwwwww! Ghoul! Ghoul!}
 {232}{}{Ghoul-eee ghoul-eee ghoul-eee!}
-{233}{}{Look at the metal doggie!}
-{234}{}{Doggie! Here, doggie!}
-{235}{}{I want a doggie, too!}
-{290}{}{I wanna save th'world just like you when I grow up.}
-{291}{}{Can I be a hero like you when I grow up?}
-{292}{}{I wanna be you when I grow up.}
-{293}{}{Why you wanna be me? Me DUMB}
-{294}{}{Me once wear girl head like hat.}
-{295}{}{[Wander off]}
-{296}{}{Heh-heh. Why thank you, little one. But take a tip from }
-{297}{}{Follow your dreams. You can achieve your goals. I'm living proof.}
-{298}{}{Sure you can. Say, I was sorry to hear about your brother, Richie. Do you know what happened to him?}
-{299}{}{I once drove through three states wearing this one little girl's head like a hat.}
-{300}{}{[Let him go back to playing.]}
-{301}{}{[Let her go back to playing.]}
-{310}{}{Uh-uh! Yer SMART! Yer a HERO and yer BRAVE and I wanna be YOU when I grow up. Thanks fer savin' us, }
-{311}{}{Thankzzz little pershun. You make }
-{315}{}{Okay, }
-{316}{}{You take care now, you hear, little one? I've got some more hero things to do.}
-{320}{}{(The kid stops you.) Um... }
-{321}{}{Uh... no. I promise.}
-{322}{}{Uh... not as far as you know.}
-{323}{}{Don't worry, little one. I'll come back and visit you as a different character.}
-{324}{}{Don't worry, little one. You won't feel a thing.}
-{330}{}{Will we dream?}
-{331}{}{Uh... sure. Sure you will.}
-{332}{}{Beats me. I don't seem to dream, so you probably don't either. Life's a bitch, huh?}
-{341}{}{Watz a rowboat?}
-{344}{}{Heh-heh. Aren't you cute. No, I'm not a robot, little one.}
-{345}{}{No, no, I'm a regular person under this armor. By the way, I was sorry to hear about your brother, Richie.
- Do you know what happened to him?}
-{355}{}{Yer DUMB.}
-{356}{}{SO ARE YOU}
-{357}{}{Same to you, cept more of it}
-{358}{}{Yer dumb-errrr}
-{359}{}{He who smelt it dealt it}
-{360}{}{Takes one t'know one!}
-{361}{}{Run away crying}
-{370}{}{Yer the dumbest. Yer dumbest!}
-{395}{}{Nuh-uh, DUMBHEAD! (The kid runs off, his laughter ringing cruelly in your ears.)}
-{396}{}{Me no want to talk to you ANYWAY... *snfff*... me... *snfff*... have a PARTY...
- with *snfff* CAKE and ICE CREAM... and YOU can't come [Leave.]}
-{405}{}{(The kid blinks, opens his mouth, then closes it. A tear wells up and turns into a full sob.)}
-{406}{}{Hee hee ME win}
-{410}{}{Oh. (Thinks for a moment, then squints at you.) Why ARENCHA a robot?}
-{411}{}{Uh... because... well, robots and people have different... uh, parts.}
-{412}{}{I have to be going.}
-{425}{}{Oh, yeah? (Seems suspicious.) Like what?}
-{426}{}{Uh... well... say, kid, didn't your Mommy and Daddy explain this to you?}
+{233}{}{Olha o cachorro de metal!}
+{234}{}{Cachorrinho! Aqui, cachorrinho!}
+{235}{}{Eu também quero um cachorro!}
+{290}{}{Quando eu crescer eu quero salvar o mundo que nem você.}
+{291}{}{Eu posso ser um herói que nem você quando eu crescer?}
+{292}{}{Eu quero ser você quando eu crescer.}
+{293}{}{Porque você querer ser eu? Eu ESTÚPIDO}
+{294}{}{Eu uma vez usar cabeça de menina como chapéu.}
+{295}{}{Vai vagabundear por aí.}
+{296}{}{haha. Porque obrigado, pequeno. Mas pegue uma dica com }
+{297}{}{Siga os seus sonhos. Você pode atingir os seus objetivos. Sou uma prova viva.}
+{298}{}{Claro que pode. Diga, eu senti quando fiquei sabendo sobre o seu irmão, Richie. Você sabe o que aconteceu com ele?}
+{299}{}{Uma vez eu dirigi por 3 estados usando essa cabeça de menina como chapéu.}
+{300}{}{(Deixe ele voltar pra brincadeira.)}
+{301}{}{(Deixe ela voltar pra brincadeira.)}
+{310}{}{Ahan! Você é ESPERTO! Você é um HERÓI e VALENTE e eu quero ser VOCÊ quando eu crescer. Obrigado por salvar a gente. }
+{311}{}{Obrigado peçoazinha. Você fez }
+{315}{}{Ok.}
+{316}{}{Tome cuidado agora, ouviu, pequenino? Eu tenho mais coisas de herói para fazer.}
+{320}{}{(O garoto para você.) Hum… }
+{321}{}{Ahn…não. Eu prometo.}
+{322}{}{Ahn…não tanto quanto você sabe.}
+{323}{}{Não se preocupe, pequenino. Eu voltarei e te visito como um novo personagem.}
+{324}{}{Não se preocupe, pequenino. Você não vai sentir nada.}
+{330}{}{Nós vamos sonhar?}
+{331}{}{Oh…claro. Claro que você vai.}
+{332}{}{Sei lá. Eu não pareço estar sonhando, então é provável que você também não. A vida é uma merda, né?}
+{341}{}{Que é um robote?}
+{344}{}{He he. Que gracinha. Não, eu não sou um robô, pequenino.}
+{345}{}{Não, não, eu sou uma pessoa normal dentro desta armadura. A propósito, fiquei triste pelo seu irmão, Richie.
+ Você sabe o que aconteceu com ele?}
+{355}{}{Seu idiota.}
+{356}{}{QUE NEM VOCÊ}
+{357}{}{O mesmo pra você, mande mais dessa}
+{358}{}{Seu idiooootaaaaaa}
+{359}{}{Ele que cheira isso se ferra com isso}
+{360}{}{Pega um pra conhecer!}
+{361}{}{Fuja chorando}
+{370}{}{Você é o mais idiota. Seu mais idiota!}
+{395}{}{Nã-não, cabeça oca! (O garoto sai correndo, com a sua risada zunindo cruelmente nos seus ouvidos.)}
+{396}{}{Mim não querer conversar com você de qualquer jeito... *snfff*... mim... *snfff*... tem uma FESTA...
+ com *snfff* BOLO e SORVETE... e VOCÊ não pode ir [Vai embora.]}
+{405}{}{(A criança pisca os olhos, abre a boca, e então a fecha. Uma lágrima escorre e se transforma numa verdadeira choradeira.)}
+{406}{}{He he EU VENCI}
+{410}{}{Oh. (Pensa por um momento então olha rápido pra você.) Porque você NÃO É um robô?}
+{411}{}{Anh… porque… bem, robôs e pessoas possuem diferentes… ahn, partes.}
+{412}{}{Tenho que ir.}
+{425}{}{Ah, é? (Parece duvidar.) Tipo o quê?}
+{426}{}{Ahn…bem…diz uma coisa, garoto, a sua mãe e seu pai não explicaram isso para você?}
 {427}{}{Uh... well! Look at the time! I must be going.}
-{435}{}{Explain what?}
-{436}{}{Uh... well... robots... have oil inside. Humans... well, humans... bleed.}
-{445}{}{Mommy an' my big sisters bleed every month or so. Then they get really mean. I wish they were robots.}
-{446}{}{Uh... yeah. Great, kid. Look, I have to be going - don't tell yer Mom I was talking to you.}
-{456}{}{I just pee but haveta get used to th'smell}
-{459}{}{Heh-heh. Actually, I just urinate in the armor, and it recycles everything. Isn't that interesting?
- Do you know what 'recycling' means, little one?}
-{460}{}{Not comfortably, that's for sure. Say, I was sorry to hear about your brother, Richie.
- Do you know what happened to him?}
-{475}{}{That's GROSS.}
-{476}{}{Yes! Recycling means you drink pee!}
-{477}{}{YER gross, pee-pee FACE}
-{479}{}{Uh, heh... heh. No actually, it means...}
-{485}{}{You drink pee-pee! You drink pee-pee!}
-{486}{}{Uh, heh... heh... keep your voice down, little one... recycling doesn't mean that I drink p... well, not EXACTLY... look...}
-{487}{}{Let the little shit go back to playing.}
-{488}{}{(Leave.)}
-{495}{}{Is that a REAL robot?}
-{499}{}{The Robobrain? Why, yes it is.}
-{500}{}{It THINKS it is. Don't even get me started.}
-{501}{}{Yeah, but don't bother it. I think it wants to destroy the human race.}
-{502}{}{Yes, it is. Say, I was sorry to hear about your brother, Richie. Do you know what happened to him?}
-{515}{}{Are YOU a robot, too?}
-{525}{}{Is that a REAL mutant?}
-{526}{}{Mootant?}
-{529}{}{Why, yes it is. His name is Marcus. Don't worry, he doesn't bite.}
-{530}{}{Why, yes it IS a mutant. Gosh, I sure hope he isn't hungry for little children.}
-{531}{}{Why, yes. A very HUNGRY mutant. And it's right about snack time, too. How convenient.}
-{532}{}{Yes, he is. Say, I was sorry to hear about your brother, Richie. Do you know what happened to him?}
-{540}{}{The kid stops and looks at you.}
-{541}{}{Helloooo}
-{544}{}{Hello, little man.}
-{545}{}{Hello there, little girl.}
-{546}{}{I was sorry to hear about your brother, Richie. Do you know what happened to him?}
-{555}{}{Are you sick?}
-{556}{}{Why do you ask?}
-{560}{}{You LOOK sick.}
-{561}{}{I am sick.}
-{565}{}{Do you take medicine?}
-{566}{}{There is no medicine for what I have.}
-{570}{}{Wanna sing?}
-{571}{}{Sing?}
-{575}{}{Do you know 'He's Got the Whole World in His Hands?'}
-{576}{}{Yes, I do.}
-{580}{}{::Sings:: 'He's got the whole world in his hands. He's got the whole wide world in his hands.' Come on.}
-{581}{}{::Sing:: He's got the whole world in his hands. He's got the whole wide world in his hands.}
-{585}{}{::Singing Together:: He's got the whole world in his hands. ::Singing winds down:: He's got the whole world in his hands.}
-{586}{}{Thank you for singing with me. I might be back later... if I need a hat.}
-{590}{}{(The kid blinks at you.)}
-{591}{}{All right, then. Talk to you later.}
-{595}{}{(The child runs off.)}
+{435}{}{Explicaram o quê?}
+{436}{}{Ahn…bem…robôs…tem óleo dentro. Humanos…bem, humanos…sangram.}
+{445}{}{A mamãe e as minhas irmãs mais velhas sangram todo mês mais ou menos. Aí ela ficam realmente malvadas. Eu queria que elas fossem robôs.}
+{446}{}{Ah…sim. Boa, garoto. Olha, eu tenho que ir - não conte pra sua mãe que eu tava falando com você.}
+{456}{}{Eu apenas mijo, mas é preciso se acostumar com o cheiro}
+{459}{}{He he. Na verdade, eu mijo na própria armadura, e ela recicla tudo. Isso não é interessante? Você sabe o que significa "reciclagem", pequenino?}
+{460}{}{Não é confortável, isso eu te garanto. Viu, sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
+{475}{}{Isso é nojento.}
+{476}{}{Sim! Reciclagem significa que você bebe mijo!}
+{477}{}{Sua nojeiro, seu cara de mijo}
+{479}{}{Anh, he…he. Não, na verdade isso significa…}
+{485}{}{Você bebe mijo! Você bebe mijo!}
+{486}{}{Ahn, he…he…fale mais baixo, pequenino…reciclagem não significa que eu bebo mi…bem, não EXATAMENTE…veja…}
+{487}{}{Deixe esse bostinha voltar pras brincadeiras.}
+{488}{}{(Vai embora.)}
+{495}{}{Esso é um robô DE VERDADE?}
+{499}{}{O Robobrain? Sim, ele é.}
+{500}{}{Isso PENSA que é. Nem me deixe começar.}
+{501}{}{É, mas não o perturbe. Eu acho que ele quer destruir a raça humana.}
+{502}{}{Sim, ele é. Viu, sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
+{515}{}{VOCÊ é um robô, também?}
+{525}{}{Isso é um mutante DE VERDADE?}
+{526}{}{Muuutante?}
+{529}{}{Ué, ele é sim. O nome dele é Marcus. Não precisa ter medo, ele não morde.}
+{530}{}{Ué, ele É SIM um mutante. Deus, eu torço para que ele não esteja faminto por pequenas crianças.}
+{531}{}{Ué, sim. Um mutante bem FAMINTO. E está na hora do lanche. Que conveniente.}
+{532}{}{Sim, ele é. Viu, sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
+{540}{}{A criança pára e olha pra você.}
+{541}{}{Olaaaaaa}
+{544}{}{Ola, homenzinho.}
+{545}{}{Oi pra você, garotinha.}
+{546}{}{Sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
+{555}{}{Você está doente?}
+{556}{}{Porque a pergunta?}
+{560}{}{Você PARECE doente.}
+{561}{}{Eu to doente.}
+{565}{}{Você tomou algum remédio?}
+{566}{}{Não existe remédio para o que eu tenho.}
+{570}{}{Quer cantar?}
+{571}{}{Cantar?}
+{575}{}{Você conhece a 'He's Got the Whole World in His Hands?'}
+{576}{}{Sim, eu conheço.}
+{580}{}{::Canta:: 'He's got the whole world in his hands. He's got the whole wide world in his hands.' Vamos lá.}
+{581}{}{::Canta:: He's got the whole world in his hands. He's got the whole wide world in his hands.}
+{585}{}{::Cantando juntos:: He's got the whole world in his hands. ::Cantando e assobiando:: He's got the whole world in his hands.}
+{586}{}{Obrigado por cantar comigo. Eu voltarei mais tarde, caso eu precise de um chapéu.}
+{590}{}{(A criança olha de soslaio para você.)}
+{591}{}{Tudo bem, então. Nos falamos depois.}
+{595}{}{(A criança sai correndo.)}
 {648}{}{Oh.}
-{650}{}{Really? What else?}
-{665}{}{Is that a REAL ghoul?}
-{666}{}{Gool?}
-{669}{}{Why, yes it is. His name is Lenny. Don't worry, he doesn't bite.}
-{670}{}{Why, yes it IS a ghoul. Gosh, I sure hope he isn't hungry for little children.}
-{671}{}{Why, yes. A very HUNGRY ghoul. And it's right about snack time, too. How convenient.}
-{685}{}{Hello, Mar-cus mutant. Yer awful big. Hee-hee... and yer fidget animation is funny.}
-{686}{}{Hello, Len-ee ghoul. Phew... yer reeally smelly.}
-{687}{}{It sure is, isn't it? So... what's up, kid?}
-{688}{}{He sure is, isn't he? So... what's up kid?}
-{689}{}{Well, gotta go. See you later.}
-{695}{}{(The kid turns pale, then runs away, screaming.)}
-{696}{}{Heh heh heh heh. "Izzat a REAL mutant?" Teach her not to ask questions.}
-{697}{}{"Hungry" mutant! Sheesh. Everyone knows that mutants don't eat hum - uh, why're you looking at me like that, Marcus?}
-{698}{}{Heh heh heh heh. "Izzat a REAL ghoul?" Teach her not to ask questions.}
-{699}{}{"Hungry" ghoul! Sheesh. Everyone knows that ghouls don't eat hum - uh, why're you looking at me like that, Lenny?}
-{710}{}{Uh-uh. Daddy's real mad about it cuz he doesn't know who killed Richie. He says if he ever catches us
- doing Jet, he'll give us a whippin'.}
-{711}{}{Do you know WHO might have given Richie the Jet that killed him?}
-{712}{}{Do you know WHERE Richie got that Jet that killed him?}
-{713}{}{Let the child go back to playing.}
-{720}{}{Uh-uh.}
-{730}{}{Uh-uh. He was hangin' out a lot on th' West side of town, around Commercial Row, and Dad told us not ta go over there.}
-{800}{}{*Shhh* I'm supposed to be sleeping.}
-{801}{}{I need to get some sleep. I've got a big game of metal insect warrior tomorrow.}
-{802}{}{If daddy finds out I'm not asleep, he'll be really, really mad.}
-{900}{}{My ding-a-ling, my ding-a-ling.}
-{901}{}{::Holds up fake gun:: Reach for the skies, varmit!}
-{902}{}{One good turn deserves another, between your legs hangs your mother.}
-{903}{}{I wanna be a pimp when I grow up.}
-{904}{}{I'm gonna rule New Reno when I grow up, just like Daddy.}
-{905}{}{I want a doggie. Daddy says he'll get me a bitch when I'm older.}
-{906}{}{I wish Dad was as cool as Tommy the Balls.}
-{907}{}{I have a penis.}
-{908}{}{::Shriek::}
-{909}{}{::Sticks out tongue::}
-{910}{}{Daddy calls Mommy a baby factory.}
-{911}{}{Daddy said he'd whip us if he ever caught us taking Jet.}
-{912}{}{Daddy says we got to be careful when we go outside.}
-{913}{}{Daddy'll whip us if we sneak out again.}
-{914}{}{Daddy's been really mad since my brother Richie died.}
-{915}{}{Daddy's doin' bizness again.}
-{916}{}{Father Tully is funny when he can't walk straight.}
-{917}{}{He's got the whole world in his hands... he's got the whole world in his hands...}
-{918}{}{I made a poo poo.}
-{919}{}{I miss my brother, Richie. He died cuz he took too much Jet.}
-{920}{}{I never see Christopher any more.}
-{921}{}{I saw Mikey kissing Mareee Mor-dino.}
-{922}{}{I saw Mommy and Daddy dancing on top of each other.}
-{923}{}{I wish Christopher would play with me.}
-{924}{}{Kyle drinks his own pee!}
-{925}{}{Kyle's got the squirts.}
-{926}{}{Land rover, land rover, send Kyle on over.}
-{927}{}{Look at me! Look at me!}
-{928}{}{Mikey and Mareee sitting in a tree, K-I-S-S-I-N-G.}
-{929}{}{Milicent's a big meanie.}
-{930}{}{Milk, milk, lemonade. Around the corner, fudge is made.}
-{931}{}{Mommy and Daddy were talking to God again last night in bed.}
-{932}{}{Mommy was cryin' the other day. I think it's cuz what happened to my brother Richie.}
-{933}{}{Mommy's been really sad since my brother Richie died.}
-{934}{}{Mommy's down by the church again.}
-{935}{}{Our family is the best.}
-{936}{}{Phfttttt!}
-{937}{}{Poopy-head! Poopy-head!}
-{938}{}{Uncle Nick says cussing isn't necessary. Uncle Nick needs to get out more.}
-{939}{}{Wanna play tribals and slavers?}
-{940}{}{We have seventeen brothers and sisters.}
-{941}{}{Wheeeeeeee!}
-{942}{}{Yer it!}
-{943}{}{You got cooties!}
-{944}{}{You look like a radscorpion!}
-{945}{}{I'm gonna ask Daddy if I can be a whore when I grow up. He says that he really needs one.}
-{946}{}{I wanna be a whore when I grow up. Daddy says we need more of them.}
-{947}{}{I have a vagina.}
-{1176}{}{! Tell us the Enclave story! Pleeeease?}
-{1177}{}{! Yaaaaay!}
+{650}{}{Sério? O que mais?}
+{665}{}{Isso é um ghoul DE VERDADE?}
+{666}{}{Gol?}
+{669}{}{Ué, ele é sim. O nome dele é Lenny. Não precisa ter medo, ele não morde.}
+{670}{}{Ué, ele É SIM um ghoul. Deus, eu torço para que ele não esteja faminto por pequenas crianças.}
+{671}{}{Ué, sim. Um ghoul bem FAMINTO. E está na hora do lanche. Que conveniente.}
+{685}{}{Olá, mutante Mar-cus. Você é terrivelmente grande. Haha... e a sua animação de inquietação é engraçada.}
+{686}{}{Olá, ghoul Len-ee. Eca... você realmente fede.}
+{687}{}{Com certeza, né? Então… e aí, criança?}
+{688}{}{Com certeza, né? Então… e aí, criança?}
+{689}{}{Bom, melhor ir embora. Até mais.}
+{695}{}{(A criança fica pálida, e então sai correndo gritando.)}
+{696}{}{He he he he. "Issooooo é um mutante DE VERDADE?" Ensine-a a não fazer perguntas.}
+{697}{}{Mutante "faminto"! Vixi. Todo mundo sabe que mutantes não comem... -ahn, porque você tá me olhando desse jeito, Marcus?}
+{698}{}{He he he he. "Issooooo é um ghoul DE VERDADE?" Ensine-a a não fazer perguntas.}
+{699}{}{Ghoul "faminto"! Vixi. Todo mundo sabe que mutantes não comem... -ahn, porque você tá me olhando desse jeito, Lenny?}
+{710}{}{Oh-oh. O papai tá muito bravo sobre isso porque ele não sabe quem matou o Richie. Ele fala que se nos pegar usando Jet, ele vai nos encher de palmadas.}
+{711}{}{Você sabe QUEM deve ter dado pro Richie o Jet que o matou?}
+{712}{}{Você sabe ONDE o Richie conseguiu esse Jet que o matou?}
+{713}{}{Deixa a criança voltar às brincadeiras.}
+{720}{}{Oh-oh.}
+{730}{}{Oh-oh. Ele tava indo bastante pro lado oeste da cidade, perto da área comercial, e o papai nos disse pra não ir lá.}
+{800}{}{*Shhh* Eu deveria estar dormindo.}
+{801}{}{Eu preciso dormir um pouco. Amanhã eu vou ter um jogão com um guerreiro inseto.}
+{802}{}{Se o papai descobrir que eu não to com sono, ele vai ficar muito, muito bravo.}
+{900}{}{Meu pauzão, meu pauzão.}
+{901}{}{::Aponta uma arma de brinquedo:: Procure as estrelas, bichinho!}
+{902}{}{Uma boa metida merece outra, com a sua mãe sentada na sua coxa.}
+{903}{}{Eu quero ser cafetão quando eu crescer.}
+{904}{}{Eu vou controlar New Reno quando eu crescer, assim como o papai.}
+{905}{}{Eu queria um cachorrinho. Papai me disse que vai me arranjar uma cadela quando eu for mais velho.}
+{906}{}{Eu queria que o papai fosse tão legal quanto o Tommy Bolas.}
+{907}{}{Eu tenho um pênis.}
+{908}{}{::Berro estridente::}
+{909}{}{::Mostra a língua::}
+{910}{}{Papai chama a mamãe de fábrica de bebês.}
+{911}{}{Papai fala que ele iria dar chicotadas na gente se pegar a gente tomando Jet.}
+{912}{}{Papai fala que a gente tem de ser cuidadoso quando saímos de casa.}
+{913}{}{Papai vai encher a gente de chicotada se a gente sair escondido de novo.}
+{914}{}{Papai ficou bravo de verdade depois que o meu irmão Richie morreu.}
+{915}{}{Papai tá fazendo negócios de novo.}
+{916}{}{O Padre Tully fica engraçado quando ele não consegue andar direito.}
+{917}{}{"He's got the whole world in his hands"…"he's got the whole world in his hands"…}
+{918}{}{Eu fiz cocô.}
+{919}{}{Eu perdi o meu irmão, Richie. Ele morreu porquê tomou muito Jet.}
+{920}{}{Eu nunca mais vi o Christopher de novo.}
+{921}{}{Eu vi o Mikey beijando a Mareee Mor-dino.}
+{922}{}{Eu vi o papai e a mamãe dançando um em cima do outro.}
+{923}{}{Eu queria que o Christopher pudesse jogar comigo.}
+{924}{}{Kyle bebe o seu próprio mijo!}
+{925}{}{Kyle deu uma esporrada.}
+{926}{}{Jipe, jipe, leva o Kyle.}
+{927}{}{Olha pra mim! Olha pra mim!}
+{928}{}{Mikey e Mareee sentados na árvore, B-E-I-J-A-N-D-O.}
+{929}{}{Milicent é um pão-duro.}
+{930}{}{Leite, leite, limonada. Depois da esquina, você encontra bom-bons.}
+{931}{}{Mamãe e papai estavam falando com Deus de novo ontem a noite na cama.}
+{932}{}{Mamãe tava chorando outro dia. Eu acho que é por causa do que aconteceu com o meu irmão Richie.}
+{933}{}{Mamãe tem estado triste de verdade desde que o meu irmão Richie morreu}
+{934}{}{Mamãe tá lá pra igreja de novo.}
+{935}{}{A nossa família é a melhor.}
+{936}{}{Phfttttt}
+{937}{}{Cabeça de cocô! Cabeça de cocô!}
+{938}{}{O tio Nick diz que a gente não precisa ficar falando palavrão. O tio Nick precisa sair daqui mais vezes.}
+{939}{}{Quer jogar Tribais e Escravistas?}
+{940}{}{A gente tem 17 irmãos e irmãs.}
+{941}{}{Wheeeeeeee}
+{942}{}{É você!}
+{943}{}{Você pegou doença das mulheres!}
+{944}{}{Você parece um radscorpion!}
+{945}{}{Eu vou perguntar pro papai se eu posso ser prostituta quando eu crescer. Ele sempre fala que realmente precisa de uma.}
+{946}{}{Eu quero ser uma prostituta quando eu crescer. O papai fala que nós precisamos de mais delas.}
+{947}{}{Eu tenho uma vagina.}
+{1176}{}{! Conta pra gente a história da Enclave! Por favoooor?}
+{1177}{}{! Eeeeeee!}
 {1178}{}{!}
-{1181}{}{ when I grow up.}
-{1296}{}{: You can be ANYTHING you want when you grow up.}
-{1310}{}{. I'll NEVER fergit you.}
-{1311}{}{ feel better. Me glad me saved u}
-{1315}{}{. I won't fergit it, I promise, if I live ta be a hunderd.}
-{1320}{}{? Are you gonna delete us from yer hard drive now that you finished the game?}
+{1181}{}{ quando eu crescer.}
+{1296}{}{: Você pode ser QUALQUER COISA que você quiser quando crescer.}
+{1310}{}{. Eu NUNCA vou esqueceeeer você.}
+{1311}{}{ sentir melhor. Eu feliz eu salvei você}
+{1315}{}{. Eu não vou esquecer isso, eu prometo, se eu viver pra ter uns cem.}
+{1320}{}{? Você vai nos apagar do seu computador agora que você terminou o jogo?}

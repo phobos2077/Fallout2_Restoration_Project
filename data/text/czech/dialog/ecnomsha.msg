@@ -2,16 +2,16 @@
 {101}{}{Vypadá jako nomádský šaman.}
 {102}{}{Z jeho obleèení je cítit silná vùnì bylin.}
 {103}{}{Buï zdráv, cizinèe. Jsem šaman tohoto kmene. Ovládám léèitelské umìní.}
-{104}{}{Zdravím tì.}
+{104}{}{Zdravím.}
 {105}{}{Potøebuju vyléèit.}
 {106}{}{Umíš smíchat koøen Xanderu s kvìtinou Broc?}
 {107}{}{Nashle.}
 {108}{}{Ooga.}
 {109}{}{Stùj klidnì a já tì vyšetøím.}
 {110}{}{[Pokraèovat]}
-{111}{}{Objevil jsem následující choroby.} #continue at 136
+{111}{}{Objevil jsem následující choroby.}
 {112}{}{Mùžeš mi pomoct?}
-{113}{}{Následující èinnosti provádím za poplatek:} # continue at 140
+{113}{}{Následující èinnosti provádím za poplatek:}
 {114}{}{Dostaò jed z mého tìla, prosím.}
 {115}{}{Prosím, uzdrav mì.}
 {116}{}{Podívej se, jestli dokážeš nìco udìlat s tou zlomeninou.}
@@ -25,7 +25,7 @@
 {124}{}{[Pokraèovat]}
 {125}{}{Nepotøebuješ tento typ léèení.}
 {126}{}{[Pokraèovat]}
-{127}{}{Ááá...ty znáš léèebné úèinky tìchto dvou rostlin. Bude tì to stát jenom } # continue at 150
+{127}{}{Ááá...ty znáš léèebné úèinky tìchto dvou rostlin. Bude tì to stát jenom }
 {128}{}{Smíchej pro mì prosím tyto dvì rostliny.}
 {129}{}{Možná pozdìji. Nashle.}
 {130}{}{(Díváš se, jak opatrnì drtí a smíchá dvì rostliny a poté ti podá pøesnì odmìøené dávky prášku.)}
@@ -44,7 +44,7 @@
 {143}{}{Nevìøící!}
 {144}{}{Proè na nás útoèíš?}
 {145}{}{Budu bránit svùj kmen do poslední kapky krve!}
-{146}{}{Jak se opovažuješ zneužít naší pohostinnosti!}
+{146}{}{Jak se opovažuješ zneužít mé pohostinnosti!}
 {147}{}{Zmiz!}
 {148}{}{Nech nás na pokoji.}
 {149}{}{Jsme mírumilovný kmen.}

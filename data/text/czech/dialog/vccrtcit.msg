@@ -10,7 +10,7 @@
 {109}{}{Mùžeš si držet trochu odstup, prosím?}
 {110}{}{Chvíli tady poèkej.}
 {111}{}{Mìl bys jít pryè.}
-{112}{}{Vypadni odsud.}
+{112}{}{Zmizte odsud.}
 {113}{}{Dávej si pozor, nebo zavolám stráže.}
 {114}{}{Sleduju tì.}
 {115}{}{Venkovani jako ty...}

@@ -7,5 +7,4 @@
 {106}{}{Ještì trošku.}
 {107}{}{Zdá se, že se to nedá opravit.}
 {108}{}{Svìtla tlumenì blikají, jak generátor zaèíná pracovat.}
-
 {200}{}{Podaøilo se ti opravit generátor.}

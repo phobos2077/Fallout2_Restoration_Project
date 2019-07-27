@@ -4,6 +4,6 @@
 {103}{}{This console has a black plate attached to it with a green light at the top. A sign reads "Use Tanker Fob Here"}
 {104}{}{[click] The light on the black panel turns green.}
 {105}{}{[click] The light on the black panel turns red.}
-{106}{}{Nothing happens.}
+{106}{}{Nada acontece.}
 {107}{}{That doesn't work.}
 {108}{}{It is a remote keyless door system. This usually requires a magnetic key of some sort.}

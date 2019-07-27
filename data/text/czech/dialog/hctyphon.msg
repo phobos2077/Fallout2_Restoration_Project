@@ -16,14 +16,14 @@
 {114}{}{Nezajímat.}
 {115}{}{Co je to za poklad?}
 {116}{}{Jakou laskavost?}
-{117}{}{Mám další otázky.}
+{117}{}{Chci se ještì na nìco zeptat.}
 {118}{}{Nashle!}
 {119}{}{Hehe. No dobøe. V tom pøípadì pro tebe nic nemám, take vypadni.}
 {120}{}{Nashle.}
 {121}{}{Nejdøív mì musíš prokázat laskavost, dítì.}
 {122}{}{Dobe!}
 {123}{}{Ne-e!}
-{124}{}{O co jde?}
+{124}{}{Co to je?}
 {125}{}{Zapomeò na to.}
 {126}{}{U jsem starı mu a nevycházím moc èasto ven, take u nemám moc šanci si uít, jestli mi rozumíš. Take bych chtìl èasopis Koèièí Packa. Pøines mi ho.}
 {127}{}{Na! [Dát Typhonovi Koèièí Packu]}
@@ -33,7 +33,7 @@
 {131}{}{Tak jo. Ještì se vrátím.}
 {132}{}{Zapomeò na to.}
 {133}{}{Díky za èasák, dítì. Vra se asi tak za hodinu.}
-{134}{}{Dobøe!}
+{134}{}{Tak jo!}
 {135}{}{Ještì jsem neskonèil, dítì! Copak nemùe mít starej ghoul trochu soukromí?}
 {136}{}{[KONEC]}
 {137}{}{Co je to za poklad? Prachy, dítì. Moc moc penìz. Dost na to, aby to uspokojilo kadého.}
@@ -46,25 +46,25 @@
 {144}{}{Jo, povídej.}
 {145}{}{Nejdøív se chci na nìco zeptat.}
 {146}{}{Ne.}
-{147}{}{Jaké tøeba?}
+{147}{}{Napøíklad?}
 {148}{}{Tohle je Ghoulskı domov dùchodcù?}
 {149}{}{Neslyšel jsi nìkdy o GECKu?}
 {150}{}{Kdo jsi?}
 {151}{}{Mùeš mi øíct ještì nìco zajímavého?}
 {152}{}{Je to takovı vtípek. Tady jsou toti jen staøí ghoulové. Víš, všichni jsme sterilní, ale ijeme u pìknì dlouho. Jsme první a poslední generace ghoulù. Tohle je místo pro ty z nás, kteøí u chtìjí jen odpoèívat.}
 {153}{}{Aha. Mám další otázky.}
-{154}{}{Aha. Nashle.}
+{154}{}{Rozumím. Nashle.}
 {155}{}{Jsem Typhon. U ti nìkdo vyprávìl o Setovi? Kdysi dávno øídil staré mìsto Necropolis. Jsem jeho syn. Narodil jsem se pøed tím, ne nás zasáhla radiace, take jsem zmutoval a pøi dospívání. Nic jinıho u ani neznám.}
 {156}{}{Povìz mi o Setovi.}
 {157}{}{Set? To byl prej pìknej hajzl!}
 {158}{}{Aha. Mám další otázky.}
-{159}{}{Aha. Nashle.}
+{159}{}{Rozumím. Nashle.}
 {160}{}{Jo. Kdysi dávno jsem jeden mìl, ale ti haminí lidi mi ho ukradli, aby si vytvoøili vlastní ráj. Zkus hledat ve Vault City nebo v NCR na jihu, tam by ho mohli mít.}
 {161}{}{Sakra. No, mám ještì nìjaké otázky.}
 {162}{}{Sakra. Nashle.}
 {163}{}{"Pìknej hajzl" je pro nìj docela trefnı pøirovnání. Øeknu ti, i kdy ho radiace zmìnila na ghoula, jeho smysl pro humor a autoritu se skoro nezmìnil. Ale samozøejmì tak trochu pozmìnila ostatní. Myslím, e jsem to mìl trochu lehèí, kdy jsem vyrùstal jako ghoul.}
 {164}{}{Aha. Mám další otázky.}
-{165}{}{Díky. Nashle.}
+{165}{}{Dík. Naskle.}
 {166}{}{Tak co, máš pro mì Koèièí Packu?}
 {167}{}{Jo. [Dát Typhonovi Koèièí Packu]}
 {168}{}{Ne-e.}
@@ -124,8 +124,6 @@
 {222}{}{Páni, Typhone, to je od tebe tak milé. Take kde jsou ty prachy?}
 {223}{}{Tak dobøe. Vzpomínám si, e jsem ty prachy schoval nìkde v Centru, ale u je to hodnì let a budovy se neustále pøestavovaly, take si to pøesnì nevybavuju. Pokud ti to trochu pomùe, tak si vzpomínám, e jsem to dal nìkam, kde nehrozí ádnı zboøení nebo zøícení. Moná na nìjakém nepostradatelném místì. Pøeju hodnì štìstí.}
 {224}{}{Koneènì z Typhona vypadlo nìco o lokaci jeho skrytého bohatství.}
-
-# Typhon/Seymour Floats.
 {300}{}{Ale Hegelova dialektika se nepovauje za...}
 {301}{}{Hegel, Hegel, Hegel! Poøád jen samı Hegel!}
 {302}{}{A pak ta enská øekla, "To ale není králík, otèe!"}
@@ -133,7 +131,7 @@
 {304}{}{A první proton øekne, "Jo, já jsem pozitivní!"}
 {305}{}{(vzdech) Je to špatnı, u chøadnu.}
 {306}{}{Není jednoduché bıt zelená.}
-{307}{}{To mi povídej.}
+{307}{}{To mi povídejte.}
 {308}{}{Ale je naprosto zøejmé, e je tohle filosofickı konec!}
 {309}{}{To proto, e jsi nezváil všechny moné následky. Teï, kdy dovolíš...}
 {310}{}{Chceš nìjaké ovoce?}

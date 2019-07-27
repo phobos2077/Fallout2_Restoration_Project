@@ -1,52 +1,52 @@
-{100}{}{You see a short, spry gentleman.}
-{101}{}{You see Micky, the treasure hunter.}
-{102}{}{This very short man looks friendly and brave. His gaze darts around as if looking for shiny objects.}
-{103}{}{Hey there, friend! Haven't seen any jewels or precious metals lying around anywhere, have ya'?}
-{104}{}{Once again, you generously grace me with your presence. Any hidden treasure caches lying about that I should be aware of?}
-{105}{}{So, any riches you need tracked down? I'm the best of the best!}
-{106}{}{No trezhuur tooday.}
-{107}{}{Yah. Need yur help.}
-{108}{}{Who U?}
+{100}{}{Você vê um cavalheiro ágil e baixo.}
+{101}{}{Você vê Micky, o caçador de tesouros.}
+{102}{}{Esse homem minúsculo parece amigável e corajoso. Seu olhar fixo parece estar procurando porobjetos brilhantes.}
+{103}{}{Olá! 'Cê não viu nenhuma jóia ou metal precioso por aí, viu?}
+{104}{}{Mais uma vez, você me dá a graça da sua presença. Veio me alertar de algum tesouro escondido por aí?}
+{105}{}{Então, alguma riqueza que você precisa rastrear? Eu sou o melhor dos melhores!}
+{106}{}{Nium tizoro hoje.}
+{107}{}{Sim. Precisar sua ajuda.}
+{108}{}{Quem ser você?}
 {109}{}{Adeus.}
-{110}{}{No, not today. If I run across any, I'll let you know, though.}
-{111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
+{110}{}{Não, nada por hoje. Se eu cruzar com algum eu aviso.}
+{111}{}{Bem, na verdade, sim. Eu acho que você seria o parceiro perfeito para uma, como posso dizer, "união empreendedora".}
 {112}{}{Qual é o seu nome?}
 {113}{}{Não importa.}
-{114}{}{Me? I'm Micky, suave and debonair Treasure Hunter of Broken Hills.}
-{115}{}{Hunnterr?}
-{116}{}{Bye-bye.}
-{117}{}{Treasure Hunter?}
-{118}{}{How nice. Good day.}
-{119}{}{Don't tell me you haven't heard of me! You've never been told of the tales of the Fast Micky? Of his
- running gun battles, two-fisted action, and pernicious plunderings?}
-{120}{}{Nup.}
-{121}{}{I'm afraid I've never had the pleasure.}
-{122}{}{Well, you're missing out, friend. One of these days I'll have to fill you in on the gory details.}
-{123}{}{Goodeee.}
-{124}{}{I'll be waiting with bated breath.}
-{125}{}{Oh well. I guess I shouldn't be surprised. The market for Treasure Hunters has really dropped in recent
- years. The whole death and famine and fight-for-survival thing really hurts people's sense of adventure. Keep me
- in mind, though, if anything comes up.}
-{126}{}{Okee-dokee.}
-{127}{}{You'll be the first on my list.}
-{128}{}{Really?! That's great! What'll it be? Gold? Jewels? Sacred artifacts?}
-{129}{}{Lotsa cash.}
-{130}{}{Nebbermind.}
-{131}{}{Apparently, a good bit of cash. Enough to live comfortably on for a long while.}
-{132}{}{Well, actually, I think I'll work on it myself for a little longer.}
-{133}{}{Wow! This is the break I've been waiting for. Whadda' ya say? Are we partners 50/50?}
-{134}{}{Yahh!}
-{135}{}{Nup. Bye}
-{136}{}{Oh, you bet.}
-{137}{}{On second thought, I think I'll see if I can't get it myself. See you later.}
-{138}{}{Excellent! So what's the story? Where are the bad guys? Whadda' ya want me to do?}
-{139}{}{Come wiff me! Go in dark place.}
-{140}{}{Let's just say, you'll be spending some time in the local "caverns".}
-{141}{}{Sweet! Just point me in the right direction!}
-{142}{}{Where trezhur? Downtown?}
-{143}{}{Well, I'm not really sure yet. I was told that I might find some treasure around here.}
-{144}{}{What? In the downtown area? Ha! Whoever told you that is either lying or insane. With
- the exception of some of the more foul and dank localities of Broken Hills, I've been all
- through this entire town and I haven't found a thing. I'm actually thinking of moving on.}
-{145}{}{Too baadd. Bye-Bye.}
-{146}{}{That's too bad. I was really hoping for some pointers. Well, bye.}
+{114}{}{Eu? Eu sou o Micky, o alegre e suave Caçador de Tesouros de Broken Hills.}
+{115}{}{Caçadô?}
+{116}{}{Tchau-tchau.}
+{117}{}{Caçador de tesouros?}
+{118}{}{Que legal. Bom dia.}
+{119}{}{Não me diga que nunca ouviu falar de mim!? Você nunca ouviu os contos do Micky Veloz? De suas
+ batalhas armadas, ação e grandes pilhagens?}
+{120}{}{Não.}
+{121}{}{Creio que não tive o prazer.}
+{122}{}{Bem, você é quem está perdendo. Qualquer dia desses eu te conto os detalhes sangrentos.}
+{123}{}{Legaaaal.}
+{124}{}{Aguardarei anciosamente.}
+{125}{}{Hum... eu não deveria ter ficado surpreso. O mercado para Caçador de Tesouros caiu nos últimos
+ anos. Toda essa morte e fome e luta-pela-sobevivência acabou com o senso de aventura das pessoas. Mantenha-me
+ em mente no entanto, se pintar alguma coisa.}
+{126}{}{Beleza.}
+{127}{}{Você será o primeiro da minha lista.}
+{128}{}{Sério?! Que legal! O que é? Ouro? Jóias? Artefatos sagrados?}
+{129}{}{Dinhero pá caramba.}
+{130}{}{Dexa pra lá..}
+{131}{}{Aparentemente, uma grande quantia de dinheiro. O suficiente para viver confortavelmente por um bom tempo.}
+{132}{}{Bem, na verdade, acho que vou trabalhar sozinho mais um pouco.}
+{133}{}{Uau! Era por isso que eu estava esperando. O que me diz? Parceiros 50/50?}
+{134}{}{É!}
+{135}{}{Não. Tchau.}
+{136}{}{Isso aí.}
+{137}{}{Pensando bem, acho que vou tentar fazer isso sozinho. Te vejo depois.}
+{138}{}{Excelente! Qual é a história? Onde estão os caras maus? O que 'cê quer que eu faça?}
+{139}{}{Vem cumigo! Ir lugar escuro.}
+{140}{}{Vamos dizer que você vai gastar um tempo numa "caverna" local.}
+{141}{}{Legal! Apenas me indique as direções!}
+{142}{}{Onde tesoro? Centro da cidade?}
+{143}{}{Bem, eu não tenho certeza. Me disseram que eu poderia achar um tesouro por aqui.}
+{144}{}{O quê? No centro da cidade? Rá! Seja lá quem for que te disse isso ou está mentindo ou é louco. Com
+ exceção dos lugares mais inacessíveis e húmidos de Broken Hills, eu já estive por quase
+ toda a cidade e não achei nada. Estou até pensando em me mudar.}
+{145}{}{Que pena. Tchau-tchau.}
+{146}{}{É uma pena. Eu realmente tinha esperanças. Tchau então.}

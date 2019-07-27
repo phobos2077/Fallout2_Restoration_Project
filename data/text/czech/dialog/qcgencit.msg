@@ -3,7 +3,7 @@
 {102}{}{Vidíš pobledlého, ale jinak docela zdravì vyhlížejícího obyvatele.}
 {103}{}{Trochu si odpoènu.}
 {104}{}{Jakýpak bezpeènostní film asi dávají dneska veèer v kinì?}
-{105}{}{Co jsi zaè?}
+{105}{}{Co jseš zaè?}
 {106}{}{Poèasí je tu stále stejné.}
 {107}{}{Projekt pokraèuje podle plánu.}
 {108}{}{To o viceprezidentovi Birdovi je hnusná pomluva.}
@@ -11,15 +11,15 @@
 {110}{}{Bùh žehnej Americe.}
 {111}{}{Projekt je naše záchrana.}
 {112}{}{Jsem opravdu rád, že nejsem na pevninì.}
-{113}{}{Další cvièení...}
+{113}{}{Další cvièení.}
 {114}{}{Proè je tu takový rámus?}
 {115}{}{To je poplach od reaktoru.}
-{116}{}{A sakra.}
+{116}{}{Eh, och.}
 {117}{}{Radìji se podívám po nìjakých Rad-X tabletách... už zase.}
 {118}{}{Ta vìc se poøád rozbíjí.}
 {119}{}{Sakra. Asi jsem se spálil.}
 {120}{}{Není tu nìjak horko?}
-{121}{}{To není dobré.}
+{121}{}{To není dobrý.}
 {122}{}{Kurva, kurva a ještì jednou kurva.}
 {123}{}{Kde je moje kyslíková maska?}
 {124}{}{Nìco je špatnì.}

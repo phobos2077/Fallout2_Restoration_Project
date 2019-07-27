@@ -6,7 +6,7 @@
 {105}{}{We'll show those muties.}
 {106}{}{Up with human rights, comrade.}
 {107}{}{You've got the right stuff.}
-{108}{}{Get out of here.}
+{108}{}{Saia daqui.}
 {109}{}{Mutie-lover.}
 {110}{}{You just better keep your mouth shut, if you know what's good for you.}
 {111}{}{Damn mutant-sympathizer.}
@@ -22,7 +22,7 @@
 {121}{}{Our victory is almost here.}
 {122}{}{Soon, Broken Hills will be ours.}
 {123}{}{Damn mutie lover.}
-{124}{}{Get out of here.}
+{124}{}{Saia daqui.}
 {125}{}{You're just an imperialist mutant lackey.}
 {126}{}{You sure chose wrong this time.}
 {127}{}{You'll regret what you've done here.}
@@ -35,7 +35,7 @@
 {134}{}{My husband Jacob can take care of your needs.}
 {135}{}{Uh, could you please stop pestering me?}
 {136}{}{I can't help you, but my husband, Jacob, can.}
-{137}{}{Just leave me alone.}
+{137}{}{Me deixe em paz.}
 {138}{}{Nice of you to visit. Now get out.}
 {139}{}{Why'd you track in all that mud?}
 {140}{}{Would you act that way in your own, uh, tent?}

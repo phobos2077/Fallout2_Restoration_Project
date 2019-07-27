@@ -6,7 +6,7 @@
 {105}{}{Na mou duši! To je ten hrdina, pøímo tady ve Vault City!}
 {106}{}{Dobrý den, Kapitáne.}
 {107}{}{Vault City vždy zvítìzí, Kapitáne.}
-{108}{}{Dobrý den, Obèane.}
+{108}{}{Zdravíèko, Obèane.}
 {109}{}{Vault City vždy zvítìzí, Obèane.}
 {110}{}{Mutant! Stráže! Stráže!}
 {111}{}{Ghoul! Stráže! Stráže!}
@@ -16,8 +16,8 @@
 {115}{}{Zdá se, že se èím dál víc venkovanù dokáže dostat dovnitø mìsta...}
 {116}{}{Upøímnì doufám, že máte Denní propustku.}
 {117}{}{Poslední dobou dají Denní propustky snad opravdu *každému* venkovanovi...}
-{118}{}{Slyšel jsem o tvých hrdinských èinech. Odvedl jsi poøádný kus práce pro Vault City... a pro celý svìt.}
-{119}{}{Tvùj boj s Enklávou zaujal dokonce i První Obèanku.}
+{118}{}{Slyšel jsem o vašem hrdinském èinu. Udìlal jsi velkou službu pro Vault City... a pro celý svìt.}
+{119}{}{Vaše bitva proti enklávì zapùsobila i na První Obèanku.}
 {120}{}{Slyšel jsem, že tvoje cesty vedly daleko. Až kamsi na jih do San... Fran... Cisca. Je to pravda?}
 {121}{}{Možná by *mìlo* Vault City pøijímat venkovany.}
 {122}{}{Je to pravda? Opravdu vláda starého svìta vedla poøád válku?}
@@ -35,7 +35,7 @@
 {134}{}{Nìco není v poøádku, Kapitáne?}
 {135}{}{Doufám, že vám nikdo z tìch odporných venkovanù nedìlá problémy, Kapitáne.}
 {136}{}{Máte nìjaké historky z venkovního svìta, Kapitáne?}
-{137}{}{Dobrý den, Obèane.}
+{137}{}{Zdravíèko, Obèane.}
 {138}{}{Vault City vždy zvítìzí, Obèane.}
 {139}{}{Cítím se naprosto skvìle. A vy?}
 {140}{}{Jako Obèan je mojí povinností vytváøet a spravovat seznamy.}

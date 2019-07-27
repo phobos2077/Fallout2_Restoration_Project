@@ -1,6 +1,5 @@
 {100}{}{Vidíš majitele Díry.}
 {101}{}{Vidíš Frankieho, majitele Díry.}
-
 {150}{}{Vypadá jako majitel tohoto podniku.}
 {151}{}{To je Frankie. Je majitelem tohoto lokálu.}
 {152}{}{[MLUVIT]}
@@ -8,7 +7,7 @@
 {154}{}{Jo, slyším.}
 {155}{}{Jo, dobøe. Jak chceš.}
 {156}{}{U je mi jasnı, proè se tomuhle místu øíká "Díra".}
-{157}{}{Coo?}
+{157}{}{He?}
 {158}{}{Co to bude?}
 {159}{}{Whiskey.}
 {160}{}{eny.}
@@ -28,7 +27,7 @@
 {174}{}{Ne, díky.}
 {175}{}{Ještì nìco?}
 {176}{}{Ano.}
-{177}{}{Ne. Díky.}
+{177}{}{Ne, díky.}
 {178}{}{Nemáš dost penìz! Tady není ádná charita!}
 {179}{}{Och, promiò. Mám málo penìz.}
 {180}{}{Ještì se vrátím.}
@@ -71,7 +70,7 @@
 {217}{}{Co tím myslíš?}
 {218}{}{Kupuj alkohol od ní. Bude to levnìjší ne z New Rena a vydìláš víc penìz.}
 {219}{}{U to nechci udìlat.}
-{220}{}{To je jedno.}
+{220}{}{Zapomeò na to.}
 {221}{}{Podívej, chci jen znièit ten její destilátor. Udìláš to?}
 {222}{}{Dobøe, udìlám to.}
 {223}{}{Ne, neudìlám. Sbohem.}
@@ -84,7 +83,7 @@
 {230}{}{Tak to jsem asi na špatném místì. Nashle.}
 {231}{}{Jdi si promluvit se Sheilou. Hej, Sheilo, máš tady zákazníka!}
 {232}{}{Poèkej, to nechci!}
-{233}{}{Díky. Nashle.}
+{233}{}{Dík. Naskle.}
 {234}{}{Jo, to se vsadím. Trvá ti asi zatracenì dlouho dostat nìjakıho chlapa. Zkus štìstí nìkde jinde, sestøièko. Nedìlám pro charitu.}
 {235}{}{Fajn! Tak tedy nìco jiného.}
 {236}{}{Ty malej...}
@@ -92,14 +91,12 @@
 {238}{}{Mám támhle pokoj. Mùeme ho pouít.}
 {239}{}{Dobøe.}
 {240}{}{Ne, to jsem nemyslel!}
-
 {242}{}{Ani ty ne.}
 {243}{}{Mohla bych to zkusit, jestli víš, jak uspokojit enu.}
 {244}{}{Jsi ta nejlepší, kterou jsem kdy mìl. Opravdu. Myslím to vánì.}
 {245}{}{Nenávidím takové rychlovky, ale...}
 {246}{}{No, uvidíme se pozdìji.}
 {247}{}{Nashle.}
-
 {248}{}{Jo, jasnì. Aspoò si po sobì tentokrát ukliï, ano?}
 {249}{}{Hej, všichni! A teï jednu na Billyho. Koneènì si zase zapíchá!}
 {250}{}{Potøebuješ mop?}
@@ -121,17 +118,13 @@
 {266}{}{Nikdo se mnou takhle mluvit nebude! Chcípni!}
 {267}{}{Dal jsem ti spoustu pøíleitostí. Teï vypadni.}
 {268}{}{S tou chátrou do mého zadního pokoje nepùjdeš!}
-
 {300}{}{Hej, neøíkal jsem kurva nic o tom, e ti zaplatím za to, a tu dìvku zabiješ. Vypadni kurva odsud!}
-
 {350}{}{Páni! Do píèi! To bylo úasnı.}
 {351}{}{Zatracenì, byla jsi dost dobrá, koèko.}
 {352}{}{Díky, to mì bavilo. A teï vypadni.}
 {353}{}{Byla jsi, ehhh... to je jedno, vypadni.}
 {354}{}{Horší jsem ještì nezail.}
-
 {400}{}{Víš, koèko, jseš fakt kus a tak, ale máš se ještì hodnì co uèit.}
 {410}{}{Koèko, mám ještì nìjakou práci, víš? Myslíš, e celej den jen stojím na místì a nic nedìlám?
  No dobøe, a co kdy jo? Od toho jsem pøece tady.}
-
 {420}{}{Poslyš, chtìl jsem jen znièit ten její destilátor. A teï padej.}

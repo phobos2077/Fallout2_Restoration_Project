@@ -22,7 +22,7 @@
 {121}{}{Už jsi mluvil se Starší?}
 {122}{}{Starší je zavøená v první cele. Musíš si s ní promluvit.}
 {123}{}{Promluv si se Starší.}
-{124}{}{Osvoboï nás!}
+{124}{}{Ty dát svobodu my!}
 {125}{}{Dostaò nás odsud.}
 {126}{}{Už to tady nevydržím.}
 {127}{}{Moc si pøeju, abych aspoò ještì jednou ucítil vítr ve tváøi.}
@@ -37,19 +37,19 @@
 {136}{}{Osvoboï nás }
 {137}{}{Jsi tady, }
 {138}{}{Víš co máš dìlat, tak to udìlej!}
-{139}{}{Pospìs si!}
+{139}{}{Bìžte!}
 {140}{}{Dostaò nás odsud.}
 {141}{}{Vypni elektøinu!}
 {142}{}{Osvoboï nás.}
 {143}{}{Bìž a dostaò nás odsud!}
-{144}{}{Prosím, pomoz nám!}
+{144}{}{Pomoz nám prosím!}
 {145}{}{Jsi naše jediná nadìje!}
 {146}{}{Prosím, už to tady dlouho nevydržím.}
 {147}{}{Už nechci žádné prášky. Ne, ne. Neeeeeeee!}
 {148}{}{Duchové, ochraòte nás!}
 {149}{}{Kde jsou duchové, když je potøebujeme?}
-{150}{}{Pomoz nám!}
-{151}{}{Osvoboï nás!}
+{150}{}{Pomozte nám!}
+{151}{}{Ty dát svobodu my!}
 {152}{}{Chci se vrátit domù.}
 {153}{}{Nejdøív sucho a teï tohle.}
 {154}{}{Už žádné jehly, už ne!}

@@ -28,11 +28,10 @@
 {127}{}{Chci jen vìdìt, kdo jsi a co se tady dìje.}
 {128}{}{Prosím, vezmi mì k mojí matce, Rebecce.}
 {129}{}{Mùj rytíø v lesklé zbroji se vrací. A leskla by se ještì víc, kdybys ji nìkdy taky vyèistil. Jo a taky by neškodilo se obèas vykoupat. Takže, co pro tebe mùžu udìlat?}
-{130}{}{Já jen tebe pozdravit. Teï jít.}
+{130}{}{Tak nashle. Už muset jít.}
 {131}{}{Jdu tì jen pozdravit. Už musím jít.}
 {132}{}{Hele, já vím, že jsem trošku drzá, ale chtìla jsem ti øíct, že jsem ti opravdu moc vdìèná za svou záchranu. Díky moc!}
-{133}{}{Nebýt zaè.}
-{134}{}{Rádo se stalo.}
-
+{133}{}{To být v poøádku.}
+{134}{}{Není zaè.}
 {135}{}{Lidé ze Squatu chrání ty chlapy tím, že jim pomáhají držet Vault v tajnosti, ale ani netuší, co se tam dole doopravdy dìje. Darion nám øekl, že se Vault opravuje, abysme v nìm mohli všichni bezpeènì žít a mìli spoustu vody a jídla, ale všechno jsou to jenom lži. Byla jsem tam a všechno jsem vidìla. Vault je mrtvý a stroje na výrobu jídla a vody jsou rozbité. Naše jídlo a voda pochází z pøepadených karavan.}
 {136}{}{Podívej, musím jít domù a všechny varovat. Nemùžeme tìm zrùdám už dál pomáhat. Vezmeš mì domù?}

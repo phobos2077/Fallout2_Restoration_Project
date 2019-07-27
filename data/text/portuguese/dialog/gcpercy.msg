@@ -53,7 +53,7 @@
 {144}{}{Então?}
 {145}{}{Cain't ya put two an' two ta-gether? I'm worried that Woody might have takin' himself a nap in the Den - it's a long
  trip after all - and then they woulda buried the poor cuss alive! I need someone to go look fer 'im there.}
-{146}{}{And...?}
+{146}{}{E…?}
 {147}{}{Well, I miss 'im. That's why. (Percy blinks, moistly, at you) Oh, I see, you wanna know what's in it for you?}
 {148}{}{This is usually the part where I get more interested. Tell on.}
 {149}{}{Well, I know where I kin get ahold of a heck of a lot of pre-war stock of, jan-u-wine, Rad-X and RadAway. Don't do me

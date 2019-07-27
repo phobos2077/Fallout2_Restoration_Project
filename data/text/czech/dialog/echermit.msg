@@ -2,7 +2,7 @@
 {101}{}{Vidíš poustevníka.}
 {102}{}{Vypadá to, že už se léta nemyl.}
 {103}{}{Chceš vìdìt proè já poustevník? (Zdá se, že už léta s nikým nepromluvil.)}
-{104}{}{Proè?}
+{104}{}{Jak to?}
 {105}{}{Jenom tudy procházím.}
 {106}{}{Eh.}
 {107}{}{Já chtít být nechat na pokoji.}
@@ -21,7 +21,7 @@
 {120}{}{Øeè dìlá bolest hlavy. Jít.}
 {121}{}{Skonèil já øeè s tebou.}
 {122}{}{Neøíkat nic. Jít.}
-{123}{}{Jít pryè!}
+{123}{}{Jdi pryè!}
 {124}{}{Ty domù jít!}
 {125}{}{Jak odvážit útok na mì!}
 {126}{}{Nech na pokoji mì.}

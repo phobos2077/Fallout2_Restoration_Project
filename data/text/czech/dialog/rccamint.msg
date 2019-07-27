@@ -2,7 +2,7 @@
 {101}{}{Vidíš Caminetta, vıtrníka z dolu Kokoweef.}
 {102}{}{Vidíš zavalitého mue se sebevìdomım vırazem.}
 {103}{}{Caminetto, tví horníci z Kokoweefu jsou k smíchu.}
-{104}{}{Já ti ukáu, kam máš jít, Rouhavá Betty.}
+{104}{}{Já ti ukáu kam máš jít, Rouhavá Betty.}
 {105}{}{Ty bys mi to neukázal, ani kdybys mìl mapu.}
 {106}{}{Ale jen proto, abych se k tobì nemusel pøibliovat.}
 {107}{}{Moc si lichotíš, ty zakrslíku.}
@@ -37,7 +37,7 @@
 {136}{}{Jen jsme se trochu bavili. Nech nás na pokoji.}
 {137}{}{Do toho, co jsme dìlali, ti je houby.}
 {138}{}{Vypadni sakra odsud.}
-{139}{}{Puste mì ven.}
+{139}{}{Dostaòte mì odsud.}
 {140}{}{Hej, puste mì ven.}
 {141}{}{Jsem nevinnı.}
 {142}{}{Nic jsem neudìlal.}
@@ -67,7 +67,7 @@
 {166}{}{No, to asi ne.}
 {167}{}{To je mi jedno. Nebude to *moje* krev, která tu poteèe.}
 {168}{}{Dostal jsi mì. Dobøe, pùjdu s tebou dobrovolnì. (Na ostatní.) Jdìte zpátky na šachtu, hoši. Uvidíme se zítra.}
-{169}{}{Skvìlá volba.}
+{169}{}{To je rozumná volba.}
 {170}{}{Nemìj obavy, beru Betty s sebou a bude ti tam dìlat spoleènost. Je to tak, Betty?}
 {171}{}{Myslím, e to udìláme jinak. Myslím, e bude lepší, kdy si stoupneš doprostøed a my tì roztrhneme jako hada.}
 {172}{}{No, tak v tom pøípadì budu muset zavøít oba.}
@@ -79,5 +79,4 @@
 {178}{}{Tak dobøe. Myslím, e to násilí opravdu nevyøeší... e jo, Betty? (Ona pøikıvne.) Dostal jsi nás. Jdeme s tebou, šerife.}
 {179}{}{Tak se mi to líbí.}
 {180}{}{Ne, u je pozdì. Udìlám z vás obou rádlo pro psy. }
-# Begin Seraph's Code
-{181}{}{Bez obav. Dneska veèer nebudu dìlat ádnı potíe.}# End Seraph's Code
+{181}{}{Bez obav. Dneska veèer nebudu dìlat ádnı potíe.}

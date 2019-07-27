@@ -8,6 +8,5 @@
 {107}{}{Nemùžeš pøijít na to, v èem je problém. Prostì to nefunguje.}
 {108}{}{Už to funguje. Není tøeba s tím nìco dál dìlat.}
 {109}{}{Nìco je s tímto generátorem špatnì.}
-
 {200}{}{*vrrr*}
 {201}{}{*bzzt*}

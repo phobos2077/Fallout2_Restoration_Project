@@ -2,12 +2,12 @@
 {150}{}{You see a well-dressed man who smells like Vaseline. For some reason, he strikes you as faintly reptilian.}
 {151}{}{You see Marty, one of the Corsican Brothers. His hair is slicked back, and his face is covered with a thin sheen of sweat.}
 {152}{}{You see Sid, one of the Corsican Brothers. He is wearing a toupee, and he is wearing dark glasses.}
-{200}{}{Hey, }
+{200}{}{Ei, }
 {201}{}{}
 {202}{}{Yo, }
-{210}{}{How the hell do you go to the bathroom with that thing on?}
-{211}{}{Is that some new kind of vibrator?}
-{212}{}{Is that some new body condom?}
+{210}{}{Como diabos você vai no banheiro com essa coisa?}
+{211}{}{Isso é um novo tipo de vibrador?}
+{212}{}{Isso é um novo tipo de preservativo?}
 {220}{}{You're more eruptive than a volcano on a bad day.}
 {221}{}{You're a star. A SHOOTING star.}
 {222}{}{You're a star. A SPURTING star.}
@@ -76,7 +76,7 @@
 {348}{}{The Corsican Brothers at yer service... (Glances up, irritated.) You the new fluffer?}
 {349}{}{Me fluf}
 {350}{}{Me no fluf! Me tuff!}
-{351}{}{Wander off}
+{351}{}{Cai fora}
 {353}{}{Sure am.}
 {354}{}{Actually, my spouse is.}
 {356}{}{No. I'm here for Big Jesus Mordino's money.}
@@ -157,7 +157,7 @@
 {537}{}{[Get down to business.]}
 {545}{}{Eh... not THAT name, 'kay? Bad ass-ociations. I mean, nobody wants to see anybody named that in any decent porno.
  Choose another name, eh?}
-{546}{}{Okay...}
+{546}{}{Beleza…}
 {547}{}{But me really LIKE name}
 {548}{}{But I really like that name.}
 {555}{}{Now, THAT'S a name so bright and so sharp, that it'll just EXPLODE because it's just so powerful! Good choice, pal, good choice. Now, let's FILM! Lights! Camera! Action!}
@@ -181,7 +181,7 @@
 {591}{}{200 chips. }
 {592}{}{500 chips. }
 {593}{}{You want to do another, you come see us in a month, you hear?}
-{594}{}{All right then.}
+{594}{}{Está certo então.}
 {610}{}{You yanking my member? Look, if you gotta ask, then you AIN'T the person for the job. Now whaddya want?}
 {612}{}{A job, huh? Well then, I AM a fluffer. The best fluffer in the business.}
 {613}{}{Um, nothing. I must be in the wrong place.}
@@ -258,7 +258,7 @@
 {785}{}{Got any... openings... I could fill?}
 {786}{}{Got any work for someone like me?}
 {787}{}{I'm here for Big Jesus Mordino's money.}
-{788}{}{Nothing. Sorry to bother you.}
+{788}{}{Nada. Desculpe por atrapalhar.}
 {795}{}{The Golden Globes studio, the studio for all talent in what remains of the world. And you, friend, you could be a STAR, know
  what I'm saying? You interested in acting?}
 {797}{}{Sure. Are you serious?}
@@ -298,18 +298,18 @@
 {881}{}{Yes. I've changed my mind. Should I just whip it out or...?}
 {882}{}{Yes. I've changed my mind. Should I just drop my pants or...?}
 {895}{}{... I heard about your X-ploits... how you blew the rig of every member in the Enclave. That took a stomach of iron.}
-{896}{}{Yup}
+{896}{}{Aham}
 {897}{}{Nup}
 {899}{}{Uh, I didn't blow every member of the Enclave. You see, what happened was --}
 {900}{}{I better go.}
 {910}{}{Don't be modest. I know it must have sucked. Most people wouldn't have had the stomach for it. But you swallowed
  your pride and did who had to be done. THAT'S star power.}
-{911}{}{Yup}
+{911}{}{Aham}
 {914}{}{Uh, look, I DIDN'T blow every member of the Enclave, see --}
 {915}{}{I better go.}
 {920}{}{Know what I'm thinking, }
 {921}{}{Yer a hero, }
-{922}{}{Yup}
+{922}{}{Aham}
 {924}{}{Yuppity-yup. Byeeee}
 {926}{}{Sure, what the hell. I solved this game. Let's do it.}
 {927}{}{Greeeeat. Thanks...}

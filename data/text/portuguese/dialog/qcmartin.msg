@@ -1,7 +1,7 @@
 {100}{}{You see a haggard-looking man in a blue suit.}
 {101}{}{You see Martin Frobisher, spokesman for the Vault 13 prisoners.}
 {102}{}{You see a haggard man in a blue vault suit just like yours.}
-{103}{}{Get us out of here!}
+{103}{}{Tira a gente daqui!}
 {104}{}{Turn off the power to the doors.}
 {105}{}{Power off, we go free!}
 {106}{}{Get us OUT of here!}

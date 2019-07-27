@@ -185,12 +185,7 @@
 {284}{}{Nazdar. Myslím, e máš práci. Vra se, a donutíš ábu kuòkat po našem.}
 {285}{}{Jen jsem si chtìl nìco koupit, šerife. Sbohem.}
 {286}{}{Hned tam jdu, šerife. Sbohem.}
-# Begin Seraph's Code
 {287}{}{No, sice nevím, jak se ti to podaøilo, ale v hospodì U Malamuta je teï ticho jako v hrobì. Tady jsou tvoje peníze. Máš zájem o další práci?}
-# End Seraph's Code
-
 {300}{}{Tahle práce je na tebe moc tìká. Vra se, a budeš mít víc zkušeností.}
 {301}{}{Dobøe, šerife.}
-
-#added by killap
 {302}{}{Nic víc u se s tou nohou dìlat nedá. Èasem se to zahojí.}

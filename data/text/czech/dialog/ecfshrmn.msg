@@ -7,7 +7,7 @@
 {106}{}{Kadı rok vzdáváme hold Bohyni moøe koøenem Xander. Pokud bohynì usoudí, e jsme toho hodni, promìní koøen Xander na kvìtinu Broc. }
 {107}{}{Po vydatné sklizni vzdáváme hold Bohyni moøe, aby nás ochraòovala a opatrovala. Kadı rok odmìòuje naši poslušnost tak, e nám s pøílivem pošle kopí jako znamení, e na nás dohlíí.}
 {108}{}{Mùu vidìt, co vám bohynì vìnovala?}
-{109}{}{Ug.}
+{109}{}{Eh...}
 {110}{}{Zde je to, co nám velká bohynì seslala tento rok. Rádi se s tebou o její poehnané dary rozdìlíme... za peníze.}
 {111}{}{Haraburdí [$10]}
 {112}{}{Laserová pistole [$10000]}
@@ -15,7 +15,7 @@
 {114}{}{Ovoce [$5]}
 {115}{}{Koøen Xander [$20]}
 {116}{}{Kvìtina Broc [$10]}
-{117}{}{Sbohem.}
+{117}{}{Nashle.}
 {118}{}{(Ukáe smìrem na moøe.) Pokraèuj dál. Bohynì si pøeje s tebou setkat osobnì.}
 {119}{}{[Konec]}
 {120}{}{Nech tì provází poehnání Bohynì moøe.}

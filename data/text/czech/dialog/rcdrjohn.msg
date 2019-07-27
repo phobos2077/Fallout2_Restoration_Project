@@ -24,12 +24,12 @@
 {123}{}{Za kompletní uzdravení si úètuju $50.}
 {124}{}{Za uzdravení vašeho pøítele chci $50. Bude jako nový, to vám slibuju.}
 {125}{}{Tady máte peníze, doktore.}
-{126}{}{Bohužel si to teï nemùžu dovolit. Promiòte, doktore, možná nìkdy jindy.}
+{126}{}{Bohužel si to teï nemùžu dovolit. Promiòte, doktore, možná jindy.}
 {127}{}{$50, jo? Možná nìkdy jindy. Sbohem, doktore.}
 {128}{}{Nìco vám øeknu: když vidím, jak na tom jste, nabídnu vám skupinovou slevu. Vyléèím vás všechny za pouhopouhých $100.}
 {129}{}{Tady máte peníze, doktore. Dejte nás do poøádku.}
 {130}{}{Bohužel si to teï nemùžu dovolit. Promiòte, doktore, možná nìkdy jindy.}
-{131}{}{$100, jo? Možná nìkdy jindy. Sbohem, doktore.}
+{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
 {132}{}{Vypadá to, že na tom nejste zrovna nejlépe. Vyléèím vás všechny za $100. Mám se o to pokusit?}
 {133}{}{Váš pøítel nevypadá zrovna nejlépe. Vyléèím ho za $100. Mám se o to pokusit?}
 {134}{}{Doufám, že dokážete i víc než se o to jen pokusit. Tady jsou peníze.}
@@ -162,7 +162,7 @@
 {261}{}{No, tak dobøe. Vezmu si tìch $2000. Tady máte tu protilátku, doktore.}
 {262}{}{Uvidíme. Sbohem, doktore.}
 {263}{}{Znám McClura. Je èlenem mìstské rady Vault City. Co vám všechno øekl?}
-{264}{}{Øekl, že produkce dolù klesá a cena zlata stoupá.}
+{264}{}{Napøíklad to, že produkce dolù klesá a ceny zlata stoupají.}
 {265}{}{Nevím, jestli vám to mùžu øíct.}
 {266}{}{Opravdu? Co tøeba?}
 {267}{}{Napøíklad to, že produkce dolù klesá a ceny zlata stoupají.}
@@ -210,7 +210,7 @@
 {309}{}{Myslím, že teï žádnou operaci nepotøebuju. Sbohem, doktore.}
 {310}{}{Podle všeho by vám mìly implantáty typu Phoenix zaruèit 5% odolnost vùèi žáru (oheò, laser a plazma). To se samozøejmì pøièítá ke zbroji, kterou nosíte. Operace zabere nìkolik dní a bude vás stát jednu bìžnou kevlarovou zbroj (kvùli teplu rozptylujícím membránám) a $8000. Nemusíte se ale znepokojovat, tahle operace vás bude stát *jenom* pár jizev... alespoò podle toho, co jsem èetl.}
 {311}{}{To je skvìle, doktore. Koneènì nebudu potøebovat opalovací krém.}
-{312}{}{Povìzte mi nìco o jiných operacích, doktore.}
+{312}{}{Povìzte mi nìco o jiných operacích.}
 {313}{}{Vrátím se, až budu mít víc penìz, doktore. Zatím sbohem.}
 {314}{}{Vrátím se, až nìkde seženu kevlarovou zbroj, doktore. Zatím sbohem.}
 {315}{}{Myslím, že teï žádnou operaci nepotøebuju. Sbohem, doktore.}

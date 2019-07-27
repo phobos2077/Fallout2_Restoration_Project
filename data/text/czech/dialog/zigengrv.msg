@@ -1,65 +1,25 @@
-#############################################################
-#  Message File: ziGenGrv.msg                               #
-#                                                           #
-#  Note: Characters within curly braces (like line 100)     #
-#        will be read in as a message string. Caution       #
-#        should be used when making comments. All comments  #
-#        should be prepended with a pound symbol for        #
-#        visual ease. This does not comment out the line    #
-#        though.                                            #
-#                                                           #
-#  Purpose: This message file contains the dialog for a     #
-#           new character from which is used by the         #
-#           design tool. It will be updated using the       #
-#           the tool. This is just a tool file, and not     #
-#           meant to be used in the game.                   #
-#                                                           #
-#  Log: Please note any changes that have been made to this #
-#       file and comment which lines have changed.          #
-#                                                           #
-#  Created: January 15, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the item when     #
-#  glanced and and examined.                                #
-#############################################################
-
-# 100-199 are for grave site messages
 {100}{}{Vidíš hrob.}
 {101}{}{Vidíš otevøenı hrob.}
 {102}{}{Hrob.}
 {103}{}{Tento hrob je otevøenı.}
 {150}{}{Tento hrob je zasypanı.}
 {151}{}{Tento hrob je otevøenı.}
-
-# 200 on are all for headstones
 {200}{}{Vidíš náhrobek.}
-{201}{}{Vidíš náhrobní køí.}
-
-# 250 + long descriptions
-# generic no name sites
+{201}{}{Vidíš náhrobek.}
 {250}{}{Na tomto náhrobku není nic vyryto.}
 {251}{}{Jméno na tomto náhrobku je seškrabáno.}
 {252}{}{Na náhrobku je jméno John Doe.}
-{253}{}{Jméno a datum na tomto náhrobku je zašlé vlivem poèasí.}
-# for crosses
+{253}{}{Jméno a datum na tomto køíi je zašlé vlivem poèasí.}
 {260}{}{Na tomto køíi není nic vyryto.}
 {261}{}{Jméno na tomto køíi je seškrabáno.}
 {262}{}{Na køíi je jméno John Doe.}
 {263}{}{Jméno a datum na tomto køíi je zašlé vlivem poèasí.}
-
-# leader
 {275}{}{Na náhrobku stojí: }
 {276}{}{Na køíi stojí: }
-
-# specific cases
 {300}{}{"Zde leí Chris Avellone, Král parketu."}
 {301}{}{"Chris Jones. Noèní pták."}
 {302}{}{"Christopher Michael Holland, neboli 'Chris Holland', neboli 'Chris': Ke ètení tohoto náhrobku jsou dva a pùl dùvodu... obvykle se èeká, e budou ty dùvody uvedeny."}
-{303}{}{"Colin McComb: Další nesmyslnı ivot."}
+{303}{}{"Colin McComb: Another pointless life."}
 {304}{}{"David Hendee: Nejhlasitìjší mezi mrtvımi. A odpoèívá v pokoji, a tiše."}
 {305}{}{"Ed Hyland. Øekl svìtu, a mu políbí..."}
 {306}{}{"Eric Demilt. OPRAVDOVİ bojovnı hoch."}
@@ -76,7 +36,7 @@
 {317}{}{"Leonard Boyarski. Vyhnán z Vault City."}
 {318}{}{"Rupert Dinkos, zemøel v zimì '00."}
 {319}{}{"Matt Norton. Mohl bıt nìkdo. Mohl bıt boss a ne takovı pobuda... kterım pøesnì byl."}
-{320}{}{"Nick Kesting." (Leí tu malı kyblík s mìdìnımi krouky proti slimákùm.)}
+{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
 {321}{}{"Robert Collier. Tichı. Smrtelnı. Chmaták."}
 {322}{}{"Robert Hertenstein 2. Jeho doktor mu to chtìl øíct, ale on trval na tom, e 'To je na mì moc informací.'"}
 {323}{}{"Scott Cambell. Polévku ne."}
@@ -84,16 +44,16 @@
 {325}{}{"Scott Rodenhizer. Vytvoøil 3D hlavy."}
 {326}{}{"Thomas French: Zemøel pøi pokusu ovládnout Flying Quillotine."}
 {327}{}{"Tim Cain. Zakladatel, Milenec, Bojovník, Programátor."}
-{328}{}{"Tramell Ray Isaac: Zde leí jeden z nejpilnìjších lidí v brani. Neobyèejnı animátor. Aspoò myslím. Odpoèívej v pokoji, Treamelle Rayi."}
-{329}{}{"Zeb -- starší ne hlína sama."}
+{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
+{329}{}{"Zeb -- Still Older Than Dirt."}
 {330}{}{"Dennis Presnell. Jako bychom ho teï slyšeli øíkat: 'Tomu øíkáte pohøeb?! Vdy stál za hovno! Chlapi, vy jste hrozní k!@oti! U radši nikdy nezemøu! Bla bla bla...'" Pod tím je naèmáráno: "Odpoèívej 'ubreèenı' Dennisi, a dr hubu."}
-{331}{}{"Rupert Diukos, zemøel 24.9.1996."}
-{332}{}{"Sal De Ban, zemøel 24.9.1996."}
-{333}{}{"Greg Zeschule, podzim '99."}
-{334}{}{"Ray Muzyka, léto '98."}
+{331}{}{"Rupert Diukos, died 9/24/96."}
+{332}{}{"Sal De Ban, died 9/24/96."}
+{333}{}{"Greg Zeschule, Fall '99."}
+{334}{}{"Ray Muzyka, Summer '98."}
 {335}{}{"Evan Chantland, 74-??: Nebyl paranoidní, opravdu po nìm šli."}
 {336}{}{"Zde leí Moose, studenı a mrtvı. Našli jsme ho tu... bez hlavy."}
-{337}{}{"Amy Presnell"}
+{337}{}{"Amy Presnell."}
 {338}{}{"Stephen Bokkes, vìk 25. V mládí se nechal prostøílet a probodat šípy od té ohavné štìstìny." }
 {339}{}{"Odpoèívej v pokoji. Doug "Lebkoun" Finch (Datum není dùleité) Zabit za kouøení ve French Market. Jeho poslední slova: Aby vás osel nakop!'"}
 {340}{}{"Zde leí Donnie Cornwell, dobrı a mrtvı mu. Ve speciální rakvi, do které se vešla jeho supervelká makovice."}
@@ -101,17 +61,16 @@
 {342}{}{"T. D. Hamilton: Zde leí ten parchant, kterı mìl umøít mnohem, mnohem døív. Odpoèívej v Pekle, KRETÉNE!"}
 {343}{}{"Další z obìtí uzávìrky."}
 {344}{}{"Pes je mrtev. A ije Pes."}
-{345}{}{"Kris Snider: Pøíliš soutìivı."}
+{345}{}{"Kris Snider: Too competitive."}
 {346}{}{"Dìláš ve svém ivotì taky nìco uiteèného?"}
 {347}{}{"Proè se prostì rovnou nezabiješ a neušetøíš tím nìkomu práci?"}
 {348}{}{"Charles Cuevas: Jednou øekl: 'Chci hokej nebo smrt!' Hokej nedostal."}
-{349}{}{"William Lebus"}
+{349}{}{"William Lebus."}
 {350}{}{"Reg Arnedo: na chodbách stále slyšíme jeho hlas."}
-{351}{}{"Shanna SanPaolo"}
-{352}{}{"Brahmin Wrangler"}
+{351}{}{"Shanna SanPaolo."}
+{352}{}{"Brahmin Wrangler."}
 {353}{}{"Josh Walters, 1971-2011. Zemøel na následek komplikací pøi páté transplantaci jater."}
 {354}{}{"Doug Avery. Nesnášel válku za to, e znièila jeho ivotní styl obytnıch pøívìsù stojících v parku."}
-# joke ones
 {355}{}{"Zde leí Ezekial Aikle, vìk 102. Dobøí lidé umírají mladí."}
 {356}{}{"Zde leí Anna Muzat - ila jako stará panna a zemøela jako stará muatka. 8. Prosinec, 1767."}
 {357}{}{"Dìti Izraele chtìli chléb a bùh jim seslal manu. Starı úøedník Wallace chtìl enu a ïábel mu seslal Annu."}
@@ -130,37 +89,27 @@
 {370}{}{"Tom Dalekı je dnes tak daleko, e u se nevrátí."}
 {371}{}{"Na památku malého Chrise Woody: Och, jak je nám líto Woody. Dali jsme ti tvoje chùdy, a netrpí tvoje údy. Škoda, e jsi spadl z té pùdy.}
 {372}{}{"Zde pod drnem a pod stromy leí tìlo Viléma Pohromy. Za ivota to byl klasa. Bùh je nyní jeho spása."}
-{373}{}{"Neznámı mu - zcela spálen 21. bøezna 1870 po explozi lampy naplnìné "R.E. Danforthovım, nevıbušnım, hoøícím roztokem."}
+{373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
 {374}{}{"Narozen 1903 -- zemøel 1942. Díval se do vıtahové šachty, aby zjistil, jestli u jede dolù kabina. Jela."}
 {375}{}{"Zde leí ateista. Celı vystrojenı a nemá kam jít."}
-{376}{}{"Vilém Mucha: Vystudoval práva na W&M univerzitì. Zemøel jako Vilém Mrcha."}
+{376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
 {377}{}{"Sarah Smart: Øeèník, Autorka, Profesorka. Znala cenu pøátelství."}
-{378}{}{"Tim Winkle - Neuznávám ádného pokrytectví kromì svého."}
-{379}{}{"Dutá hlava - Král Svìta královny Pavouènatky."}
-# new additions
+{378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
+{379}{}{"Jughead - King of Queen Archie's World".}
 {380}{}{"R.I.P Casey Donahue zemøel 6.8.1998 Byl zabit zmutovanım a nevrlım moøskım okounem."}
-{381}{}{"Christopher 'Noèní pták' Jones: správce modøin po úderu penisem."}
+{381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Bramborová noha" Nielson. Hudebník. Zemøel ve vìku 104 let, pøi bubnovém sólu."}
 {383}{}{"Nitsa - pøíèina toho, proè Charles nikdy nepochopil hokej."}
 {384}{}{"Thuy Dang. Bùh se smiluj nad jeho jménem."}
-
-# trapping the grave
 {500}{}{Zkušenì umisuješ past na hrob.}
 {501}{}{Nepovedlo se ti umístit past na hrob.}
-
 {510}{}{ zkušenì umisuje past na hrob.}
 {511}{}{ nedokáe umístit past na hrob.}
-
-# Find Trap on grave
 {515}{}{Na hrobì objevuješ past.}
 {516}{}{Na hrobì neobjevuješ ádné pasti.}
-
 {520}{}{ objevuje na hrobì past.}
 {521}{}{ neobjevuje na hrobì ádné pasti.}
-
-# Disarm the Trap on grave
 {525}{}{Zkušenì odstraòuješ past.}
 {526}{}{Nepovedlo se ti odstranit past.}
-
 {530}{}{ zkušenì odstraòuje past.}
 {531}{}{ nedokáe odstranit past.}

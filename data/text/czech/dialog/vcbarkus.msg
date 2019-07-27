@@ -45,7 +45,7 @@
 {144}{}{Hm, chci se ještì zeptat...}
 {145}{}{To bude asi všechno, díky. Hezkı den.}
 {146}{}{Ne, pøístup do Vaultu mají pouze Obèané. Poslyšte, mám teï dost vlastní práce, take mì omluvte...}
-{147}{}{Jen jednu otázku...}
+{147}{}{Ještì jednu otázku...}
 {148}{}{Tak dobøe. Sbohem.}
 {149}{}{Naši sluebníci jsou vìtšinou uprchlíci pøed útoky nájezdníkù nebo vìzni, kteøí se rozhodli odpracovat si svùj trest prospìšnımi pracemi.}
 {150}{}{Aha, vy myslíte skriptaøe? Znám jednoho chlapíka jménem Dan, kterı...}
@@ -99,7 +99,7 @@
 {198}{}{Aha. Moná se vrátím pozdìji.}
 {199}{}{Aha. Vrátím se, a budu mít dost penìz na darování.}
 {200}{}{No... není to zrovna dar, kterı bych si pøedstavoval, ale budi. Dohlédnu na to, aby Joshuu dopravili k Soudu k dalšímu zpracování. Hned se do toho dám.}
-{201}{}{Bezva.}
+{201}{}{Dobøe.}
 {202}{}{Hotovo. Joshua u není sluebníkem ve Vault City a byl pøesunut na Pøedmìstí spolu se zbytkem venkovanù.}
 {203}{}{Díky. Chci se ještì zeptat...}
 {204}{}{Perfektní. Pùjdu si ho tam vyzvednout.}
@@ -168,5 +168,4 @@
 {267}{}{Co tady dìláte? Poslal jsem vás do Vaultu! U všech èer... no dobøe, øeknu nìkomu, a vás tam dopraví zpátky.}
 {268}{}{Dobøéééé.}
 {269}{}{Podaøilo se ti pøesvìdèit Barkuse, aby propustil Joshuu.}
-#added by killap
 {300}{}{Slyšel jsem, e je z vás hrdina. Dobrá práce.}

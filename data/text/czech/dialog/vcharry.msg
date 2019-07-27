@@ -18,15 +18,12 @@
 {120}{}{Vrátím se s penìzi.}
 {121}{}{Žádný problém. Hned ho tam nechám dopravit.}
 {122}{}{Chtìli jsme si pøilepšit, co? Zatracenej zlodìji... stráže! Stráže!}
-
 {123}{}{Posílá mì Dave. Pokoušíme se opravit rozbitou vodní pumpu a on mi øíkal, že budeš mít náhradní motor.}
 {124}{}{Pracuješ s Davem, jo? Jo, znám toho chlápka. Koukám, že se mu stále daøí pøemlouvat ostatní, aby udìlali práci za nìj. Parchant jeden línej. (Usmìje se.) No ale myslím, že mám pøesnì to, co potøebuješ, ale pro jistotu se zajdu podívat. (Harry odejde do zadní místnosti, odkud je slyšet, jak hýbe s nìjakými krabicemi. Za minutu se vrátí.) Jo, mám ho tady. $500 a je tvùj.}
-{125}{}{Jasnì. Tady jsou peníze.}
+{125}{}{Jistì. Tady jsou peníze.}
 {126}{}{$500? Sakra. Doufám, že se mi to vyplatí. Fajn, tady jsou peníze.}
 {127}{}{Díky za obchod. Mìj se.}
 {128}{}{Nashle.}
-{1288}{}{Vypadá to, že nemám dost penìz. Nashle.}
-
 {129}{}{Connar mì posílá pro nìjaké zboží.}
 {130}{}{(Harryho oèi mihotají kolem a vypadá trochu nervóznì.) Ano, jistì. Jenom chvilièku...}
 {131}{}{(Harry ti pøinese pušky.) Tady, vezmi si je. Bude to deset tisíc, ale rychle.}
@@ -48,10 +45,9 @@
 {147}{}{No, alespoò to jídlo není špatný.}
 {148}{}{Na co èumíš?}
 {149}{}{Co bude s mým obchodem?}
-
-#added in RP 1.3
 {200}{}{$500? Poslyš, nemohl bys mi dát nìjakou slevu? Pøeci jen ty a Dave jste pøátele, ne?}
 {201}{}{Abych ti øekl pravdu, tak ten chlap mi byl vždycky ukradenej. $500 za ten motor. Ber, nebo nech být.}
 {202}{}{Fajn. Tady jsou peníze.}
 {203}{}{Zapomeò na to, padám odsud.}
 {204}{}{$500!? Tak na to zapomeò, padám odsud.}
+{1288}{}{Vypadá to, že nemám dost penìz. Nashle.}

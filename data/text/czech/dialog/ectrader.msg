@@ -1,7 +1,8 @@
 {100}{}{Obchodník.}
 {101}{}{Willy.}
 {102}{}{Otravný potulný obchodník.}
-{103}{}{Buï zdráv, pøíteli. Jsem Willy a mám pro tebe nabídku. (Zdá se, že ète z nìjaké karty. Po chvíli usneš.)}
+{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
+ a card, and after a while you doze off.]}
 {104}{}{Chrrrrrr...}
 {105}{}{(Ospale otevøeš oèi a zjistíš, že do tebe nìkdo kope.) Tak co? Máš zájem nebo ne?}
 {106}{}{Zájem o co?}
@@ -18,7 +19,7 @@
 {117}{}{[Konec]}
 {118}{}{Do prdele! Taková ztráta èasu. No tak, vypadni!}
 {119}{}{[Konec]}
-{120}{}{No, to byla ale ztráta èasu. $} #continue on 152
+{120}{}{No, to byla ale ztráta èasu. $}
 {121}{}{Jo.}
 {122}{}{Ne.}
 {123}{}{Nazdar, rád tì zase vidím. Mám nìjaké nové zboží. Máš zájem?}
@@ -50,6 +51,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-
 {152}{}{. Máš zájem nebo ne?}
 {200}{}{.}

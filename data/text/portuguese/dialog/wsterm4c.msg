@@ -1,157 +1,157 @@
-{100}{}{A computer terminal.}
-{101}{}{Bio Storage Control Terminal.}
-{102}{}{You are unable to read what's on the monitor.}
-{103}{}{Bio Storage Facility
-                                              Main Menu
-                                                            Retrieve
-                                                                Store}
+{100}{}{Um terminal de computador.}
+{101}{}{Terminal de Controle do Depósito Biológico.}
+{102}{}{Você é incapaz de ler o que está no monitor.}
+{103}{}{Unidade de Depósito Biológico
+                                              Menu Principal
+                                                            Retirar
+                                                                Guardar}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{Retrieve}
-{108}{}{Store}
+{107}{}{Retirar}
+{108}{}{Guardar}
 {109}{}{Sair}
 {110}{}{Ug.}
-{111}{}{[You are unable to read what's on the monitor.]}
-{112}{}{This terminal is Out of Order
-                                Please contact network administrator for further details.}
+{111}{}{[Você é incapaz de ler o que está no monitor.]}
+{112}{}{Este terminal está fora de serviço
+                                Favor contactar o administrador online para maiores detalhes.}
 {113}{}{}
-{114}{}{Urg}
+{114}{}{Arg}
 {115}{}{Sair}
-{116}{}{Main Retrieval Menu
-                                                  Virus
-                                                              Organs
-                                                             Cadaver}
+{116}{}{Menu Princial de Retirada
+                                                  Vírus
+                                                              Orgãos
+                                                             Cadáveres}
 {117}{}{}
 {118}{}{}
 {119}{}{}
-{120}{}{Select Virus}
-{121}{}{Select Organs}
-{122}{}{Select Cadavers}
+{120}{}{Selecionar Vírus}
+{121}{}{Selecionar Orgãos}
+{122}{}{Selecionar Cadáveres}
 {123}{}{Voltar para o Menu Principal}
 {124}{}{Sair}
-{125}{}{Virus Menu
-                                                            Anthrax
-                                                             Black Plague (Strain 238)
-                                          Small Pox (Strain 1025)
-                                              Ebola
-                                                                   Hantavirus (Strain 304)}
+{125}{}{Menu de Vírus
+                                                            Antraz
+                                                             Peste Negra (Strain 238)
+                                          Varíola (Strain 1025)
+                                              Ébola
+                                                                   Hantavírus (Strain 304)}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{}
-{131}{}{Retrieve Anthrax}
-{132}{}{Retrieve Black Plague}
-{133}{}{Retrieve Small Pox}
-{134}{}{Retrieve Ebola}
-{135}{}{Retrieve Hantavirus}
-{137}{}{Return to Main Retrieval Menu}
+{131}{}{Retirar Antraz}
+{132}{}{Retirar Peste Negra}
+{133}{}{Retirar Varíola}
+{134}{}{Retirar Ébola}
+{135}{}{Retirar Hantavírus}
+{137}{}{Retornao ao Menu Principal}
 {138}{}{Sair}
-{139}{}{[You watch as the robot proceeds down the aisles of stored biological materials, and return with a small vial which it promptly deposits into an opening in the wall. You watch in fascination as the vial is transferred from the sealed environment of the storage area to the room you're standing in. Your fascination turns to horror as the vial drops to the floor and breaks. Running seems like a good idea.]}
+{139}{}{[Você observa o robô descer o corredor para o depósito de materiais biológicos e voltar com um pequeno frasco. depositando-o em uma abertura na parede. Você observa com fascinação quando o frasco é transferido do ambiente de isolação do depósito para a sala onde você está. Sua fascinação se transforma em horror quando o frasco cai no chão e se quebra. Correr parece ser uma boa idéia.]}
 {140}{}{Sair}
-{141}{}{Organ Menu
-                                                           Heart
-                                                                Brain
-                                                                Kidney
-                                                                 Liver
-                                                                  Lung}
+{141}{}{Menu de Órgãos
+                                                           Coração
+                                                                Cérebro
+                                                                Rim
+                                                                 Fígado
+                                                                  Pulmão}
 {142}{}{}
 {143}{}{}
 {144}{}{}
 {145}{}{}
 {146}{}{}
-{147}{}{Retrieve Heart}
-{148}{}{Retrieve Brain}
-{149}{}{Retrieve Kidney}
-{150}{}{Retrieve Liver}
-{151}{}{Retrieve Lung}
-{152}{}{Return to Main Retrieval Menu}
+{147}{}{Retirar Coração}
+{148}{}{Retirar Cérebro}
+{149}{}{Retirar Rim}
+{150}{}{Retirar Fígado}
+{151}{}{Retirar Pulmão}
+{152}{}{Retornao ao Menu Principal}
 {153}{}{Sair}
-{154}{}{Warning! Storage apparatus malfunction.
-                        [According to the readout, the storage devices for these organs failed a long time ago. Unless you plan to make soup, retrieval would be pointless.]}
+{154}{}{Alerta! Aparelho do depósito em mau-funcionamento.
+                        [De acordo com o alerta, o dispositivo de depósito destes órgãos falhou há muito tempo atrás. A não ser que queira fazer uma sopa, fazer uma retirada não é boa idéia.]}
 {155}{}{}
-{156}{}{Return to Organ Menu}
-{157}{}{Return to Main Retrieval Menu}
+{156}{}{Retornar ao Menu de Órgãos}
+{157}{}{Retornao ao Menu Principal}
 {158}{}{Sair}
-{159}{}{Warning! Storage apparatus malfunction.
-                         Storage tanks 101 - 104
-                                      Settings Correction Requested
-                                  [A highly precise set of calculations is needed to save the brains. A stream of formulas and measurements stream across the screen. It all looks highly scientific to you.]}
+{159}{}{Atenção! Aparelho do depósito em mau-funcionamento.
+                         Tanques de depósito 101 - 104
+                                      Opções de correção requisitadas
+                                  [Imensos e precisos cálculos são necessários para salvar os cérebros. Um enorme fluxo de fórmulas e medidas correm perante a tela. Tudo parece muito científico para você.]}
 {160}{}{}
 {161}{}{}
 {162}{}{}
-{163}{}{Attempt to make adjustments}
-{164}{}{Return to Main Retrieval Menu}
-{165}{}{Try later.}
-{166}{}{[Due to your ineptitude, all the brains die. Maybe raising the temperature to 98.6 Celsius was a little too much. Science never was your strong point.]}
+{163}{}{Tentar fazer os ajustes}
+{164}{}{Retornao ao Menu Principal}
+{165}{}{Tentar mais tarde.}
+{166}{}{[Devido a sua negligência, todos os cérebros morreram. Talvez ter aumentado a temperatura para 371.6 Kelvin foi um pouco demais. Ciência nunca foi o seu forte.]}
 {167}{}{Sair.}
-{168}{}{[Trial and error seems to be the key to your approach to this problem. You manage to save one out of four brains. Science is for nerds anyway.]}
-{169}{}{Retrieve Brain}
-{170}{}{[Using the law of averages you manage to save fifty percent of the brains. A scientist you are not.]}
-{171}{}{Retrieve Brain}
-{172}{}{[Obviously, you know what you're doing. With the exception of one error, you are able to save 3 out of 4 brains. You knew reading all those science journals would come in handy.]}
-{173}{}{Retrieve Brain}
-{174}{}{[With a few quick keystrokes the crisis is averted and all the brains are saved. Science is definitely more than a hobby for you.]}
-{175}{}{Retrieve Brain}
-{176}{}{Brain Retrieval Menu
-                                               Abnormal Brain
-                                                        Chimpanzee Brain
-                                                      Human Brain
-                                                        Cybernetic Brain}
-{177}{}{Brain Retrieval Menu
-                                               Abnormal Brain
-                                                        Chimpanzee Brain
-                                                      Human Brain
-                                                        Cybernetic Brain - Dead}
-{178}{}{Brain Retrieval Menu
-                                               Abnormal Brain
-                                                        Chimpanzee Brain
-                                                      Human Brain - Dead
-                                                 Cybernetic Brain - Dead}
-{179}{}{Brain Retrieval Menu
-                                               Abnormal Brain
-                                                        Chimpanzee Brain - Dead
-                                            Human Brain - Dead
-                                          Cybernetic Brain - Dead}
+{168}{}{[Tentativas e erros parecem ser a chave para a solução para esse problema. Você conseguiu salvar um dos quatro cérebros. Ciência é nerds mesmo.]}
+{169}{}{Retirar Cérebro}
+{170}{}{[Usando a lei da média você conseguiu salvar metade dos cérebros. Você não é um cientista.]}
+{171}{}{Retirar Cérebro}
+{172}{}{[Obviamente, você não sabe o que está fazendo. Com excessão de um erro, você conseguiu salvar três cérebros. Você sabia que ler aqueles jornais de ciência serviria para alguma coisa algum dia.]}
+{173}{}{Retirar Cérebro}
+{174}{}{[Com um pouco de cálculo você conseguiu reverter a crise e salvar os cérebros. Ciência é definitivamente mais do que um hobby pra você.]}
+{175}{}{Retirar Cérebro}
+{176}{}{Menu Principal de Retirada
+                                               Cérebro Anormal
+                                                        Cérebro de Chimpanzé
+                                                      Cérebro Humano
+                                                        Cérebro Cibernético}
+{177}{}{Menu de Retirada de Cérebro
+                                              Cérebro Anormal
+                                                        Cérebro de Chimpanzé
+                                                      Cérebro Humano
+                                                        Cérebro Cibernético - Morto}
+{178}{}{Menu de Retirada de Cérebro
+                                                Cérebro Anormal
+                                                        Cérebro de Chimpanzé
+                                                      Cérebro Humano - Morto
+                                                        Cérebro Cibernético - Morto}
+{179}{}{Menu de Retirada de Cérebro
+                                                Cérebro Anormal
+                                                        Cérebro de Chimpanzé - Morto
+                                                      Cérebro Humano - Morto
+                                                        Cérebro Cibernético - Morto}
 {180}{}{}
 {185}{}{}
 {189}{}{}
 {193}{}{}
-{196}{}{Abnormal Brain}
-{197}{}{Chimpanzee Brain}
-{198}{}{Human Brain}
-{199}{}{Cybernetic Brain}
-{200}{}{[Although readings indicate this brain is alive, neural output levels are way below normal.]
-                           Retrieve?}
+{196}{}{Cérebro anormal}
+{197}{}{Cérebro Chimpanzé}
+{198}{}{Cérebro Humano}
+{199}{}{Cérebro Cibernético}
+{200}{}{[Apesar das leituras indicarem que o cérebro está vivo, os níveis neuróticos estão abaixo do normal.]
+                           Retirar?}
 {201}{}{}
-{202}{}{Yes}
-{203}{}{No}
-{204}{}{[The brain waves are active, but differ from those of a human brain.]
-                                                          Retrieve?}
-{208}{}{[Brain activity is that of an average human.]
-                   Retrieve?}
-{212}{}{[Brain activity is off the charts! By the looks of it the signals are of both digital and human origin.]
-           Retrieve?}
-{216}{}{[The robot quickly leaves to retrieve your brain. Upon returning you notice that the robot appears to be having problems. The observation is driven home when the robot explodes suddenly. Luckily for you, it managed to deliver the brain before it expired.]}
+{202}{}{Sim}
+{203}{}{Não}
+{204}{}{[As ondas cerebrais estão ativas, mas diferem totalmente das de um cérebro humano.]
+                                                          Retirar?}
+{208}{}{[A atividade cerebral é razoavelmente de um cérebro humano.]
+                   Retirar?}
+{212}{}{[A atividade cerebral é esplêndida! Pela aparência os sinais são origem de um e cérebro digital e humano ao mesmo tempo.]
+           Retirar?}
+{216}{}{[O robô sai rapidamente para retirar o cérebro. Quando retorna você nota que o robô parece estar com problemas, explodindo de repente. Por sorte, ele conseguiu entregar o cérebro antes de explodir.]}
 {217}{}{Sair}
-{218}{}{Cadaver Retrieval Menu
-                                          Private Dobbs}
+{218}{}{Menu de Retirada de Cadáveres
+                                          Soldado Dobbs}
 {219}{}{}
-{220}{}{Retrieve Private Dobbs}
-{221}{}{Return to Main Retrieval Menu}
+{220}{}{Retirar Soldado Dobbs}
+{221}{}{Retornao ao Menu Principal}
 {222}{}{Sair}
-{223}{}{[According to the readings, Private Dobbs is alive! He's located in the Experimental Biomed Gel regeneration tank.]
-   Retrieve?}
+{223}{}{[De acordo com as leituras o Soldado Dobbs está vivo! Ele está localizado no Tanque Experimental de Regeneração de Biomed Gel.]
+   Retirar?}
 {224}{}{}
-{225}{}{Yes}
-{226}{}{No}
-{227}{}{[The body of Private Dobbs is now lying at your feet, but to your surprise, he stands up and starts talking to you. Funny, he doesn't look dead.]}
+{225}{}{Sim}
+{226}{}{Não}
+{227}{}{[O corpo do Soldado Dobbs está deitado aos seus pés, mas para sua surpresa, ele se levanta e começa a falar com você. Engraçado, ele não parece morto.]}
 {228}{}{Sair}
-{229}{}{There are no cadavers currently in storage.}
-{230}{}{Return to Main Retrieval Menu}
+{229}{}{Não há cadáveres no depósito.}
+{230}{}{Retornao ao Menu Principal}
 {231}{}{Sair}
-{232}{}{[Even though you can plainly see empty storage units, the readout says they are all full. Must be an error in the program. Oh well.]}
+{232}{}{[Mesmo vendo que as unidades de depósito estão vazias, as leituras indicam que elas estão cheias. Talvez seja um erro no programa.]}
 {233}{}{Voltar para o Menu Principal}
-{234}{}{Exit }
-{300}{}{ is unable to read what's on the monitor.}
+{234}{}{Sair }
+{300}{}{ é incapaz de ler o que está no monitor.}

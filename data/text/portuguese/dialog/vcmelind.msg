@@ -4,7 +4,7 @@
  City. Is there anything I can help you with?}
 {103}{}{Yes, what else can I help you with?}
 {104}{}{Is this fenced-in area the city?}
-{105}{}{I'm looking for the Vault.}
+{105}{}{Estou a procura da Vault.}
 {106}{}{Quem é você?}
 {107}{}{No thanks. Goodbye.}
 {108}{}{Thizz Valt Citeee?}
@@ -12,13 +12,13 @@
  currently standing in the Courtyard. The actual city lies to the North.}
 {110}{}{What's the difference between the two areas?}
 {111}{}{Posso pedir mais uma coisa?}
-{112}{}{Thanks for your help. Goodbye.}
+{112}{}{Obrigado pela ajuda. Tchau.}
 {113}{}{Thankee}
 {114}{}{Our Vault? It is located within the city. However, I must tell you only
  Citizens are allowed in the Vault.}
 {115}{}{I need to get into the Vault.}
 {116}{}{Posso pedir mais uma coisa?}
-{117}{}{Thanks for your help. Goodbye.}
+{117}{}{Obrigado pela ajuda. Tchau.}
 {118}{}{My name? Why, it's Melinda. I'm the Chief Greeting Officer for Vault City.}
 {119}{}{Sounds like a tough job.}
 {120}{}{Posso pedir mais uma coisa?}
@@ -33,7 +33,7 @@
  grant you access. Talk to Wallace, our Customs Official. He might be able to help.
  You'll find his office at the north end of the Courtyard.}
 {127}{}{Posso pedir mais uma coisa?}
-{128}{}{Thanks for your help. Goodbye.}
+{128}{}{Obrigado pela ajuda. Tchau.}
 {129}{}{My work benefits Vault City, and I have the privilege of being able to talk
  to travelers about the grandeur of the city.}
 {130}{}{Oh, come on, it has to be a *little* boring sometimes.}

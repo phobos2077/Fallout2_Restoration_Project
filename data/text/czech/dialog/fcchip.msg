@@ -4,8 +4,8 @@
 {103}{}{Au, moje vnitønosti... au, au, au.}
 {104}{}{He?}
 {105}{}{Auvajs?}
-{106}{}{Co ti je?}
-{107}{}{Bolí tì nìco? Hahaha.}
+{106}{}{Co je to s tebou?}
+{107}{}{Bolí tì nìco? Hehehe.}
 {108}{}{Kdo jsi?}
 {109}{}{Nevíš nìco o mých lidech?}
 {110}{}{Auuu, moje vnitønosti. Strašnì trpím. Prosím, nech mì na pokoji.}
@@ -28,11 +28,11 @@
 {127}{}{Toho si opravdu vážím. Jdi si promluvit s obchodníkem Lao Chouem a øekni mu, že potøebuju zpátky svoji slezinu.}
 {128}{}{Ještì se vrátím.}
 {129}{}{Jsem Chip. A strašnì trpím.}
-{130}{}{Co ti je?}
+{130}{}{Co je to s tebou?}
 {131}{}{Bolí tì nìco? Hehehe.}
 {132}{}{Tak to je zlé. Mìj se.}
 {133}{}{Informace? Je mi zle a ty chceš informace?}
-{134}{}{Co ti je?}
+{134}{}{Co je to s tebou?}
 {135}{}{Bolí tì nìco? Hehehe.}
 {136}{}{Zapomeò na to.}
 {137}{}{Našel jsi už moji slezinu?}
@@ -78,23 +78,22 @@
 {177}{}{Teï zrovna nic, díky. Nashle.}
 {178}{}{Promluv si s kapitánem. Bydlí nahoøe v kapitánský kanceláøi.}
 {179}{}{Díky. Další otázky...}
-{180}{}{Díky. Nashle.}
+{180}{}{Dík. Naskle.}
 {181}{}{Øíká se, že je unesli na západ, pøes oceán. Tvojí nejlepší nadìjí, jak se tam dostat, je rozbìhnout tenhle škopek.}
 {182}{}{Díky. Další otázky...}
-{183}{}{Díky. Nashle.}
+{183}{}{Dík. Naskle.}
 {184}{}{Práce na poèítaèi? Když to nedokážeš získat od Shi nebo od Hubologistù, tak si promluv s Badgerem. Je to machr.}
 {185}{}{Díky. Další otázky...}
-{186}{}{Díky. Nashle.}
+{186}{}{Dík. Naskle.}
 {187}{}{Do prdele. Promluv si s Hubologisty nebo Shi. Když je teï Badger mrtvej, tak mì nic jinýho nenapadá.}
 {188}{}{Díky. Další otázky...}
-{189}{}{Díky. Nashle.}
+{189}{}{Dík. Naskle.}
 {190}{}{Parchante.}
 {191}{}{Budeš potøebovat prášky na bolest.}
 {192}{}{Hovado. Já ti ukážu.}
 {193}{}{Vidíš plešatého pankáèe.}
 {194}{}{Vidíš Chipa. Vypadá to, že hodnì trpí.}
 {195}{}{Vidíš plešatého pankáèe. Drží se za bok a bolestí lapá po dechu.}
-
 {196}{}{Tak dobøe. Promluvím si s Fungem.}
 {197}{}{Nìjaký novinky o mý slezinì?}
 {198}{}{Jo a chtìl $1000... ale já jsem za tebe zaplatil.}

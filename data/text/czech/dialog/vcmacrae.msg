@@ -10,12 +10,12 @@
 {109}{}{Vault? Jediný Vault, který znám, je uvnitø mìsta. Je to ta velká èerná díra... nemùžeš to minout, vìø mi.}
 {110}{}{Co tu máš k pití?}
 {111}{}{Dìje se tu nìco zvláštního?}
-{112}{}{Díky za nasmìrování. Nashle.}
+{112}{}{Díky za informace. Sbohem.}
 {113}{}{Standardní ceny. Pivo za $20, panák whisky za $30. Žádné speciality. Dáš si teda nìco?}
 {114}{}{Víš nìco o Vaultu?}
 {115}{}{Dám si pivo.}
 {116}{}{Dám si panáka.}
-{117}{}{Dìje se tu nìco zvláštního?}
+{117}{}{Co se tady dìje?}
 {118}{}{Dnes nic, díky. Nashle.}
 {119}{}{Tady? Poøád ty samé staré vìci. Obèas mì to nudí až k pláèi. Proè, hledáš snad nìco?}
 {120}{}{Co tu máš k pití?}
@@ -33,21 +33,21 @@
 {132}{}{To zní, jako bys toho tady mìl až po krk.}
 {133}{}{To je mi líto. Co víš o Vaultu?}
 {134}{}{Všichni dìlámy chyby... a nìkdo èastìji než ostatní. Takže co potøebuješ?}
-{135}{}{Dìje se tu nìco zvláštního?}
+{135}{}{Co se tady dìje?}
 {136}{}{Dnes nic, díky. Nashle.}
 {137}{}{Jo, pøál bych si, abych odsud mohl vypadnout.}
 {138}{}{Tak proè prostì neodejdeš?}
 {139}{}{Jít sám do pustiny? Sice se nudím, ale nejsem blbec.}
 {140}{}{Brzy se chystám jít zpátky do pustiny. Nechceš jít se mnou?}
-{141}{}{Dobrá, tak hodnì štìstí.}
+{141}{}{Tak hodnì štìstí.}
 {142}{}{Ne... vypadá to, že už máš dost lidí, kteøí tì následují.}
 {143}{}{Dobrá, tak hodnì štìstí.}
 {144}{}{Víš, to není až tak špatný nápad. Mùžeš se mnou poèítat.}
 {145}{}{Ano, copak?}
-{146}{}{Chci, abys mi uhnul z cesty.}
+{146}{}{Potøebuju, abys mi uhnul z cesty.}
 {147}{}{Jak se máš?}
 {148}{}{Zkus se vyléèit.}
-{149}{}{Chci, abys tu poèkal, než se pro tebe vrátím.}
+{149}{}{Potøebuju, abys tu poèkal, než se vrátím.}
 {150}{}{Ty! Buaaaguu!}
 {151}{}{To bude prozatím všechno.}
 {152}{}{Dobøe, už jsem v poøádku. Mùžeme jít.}

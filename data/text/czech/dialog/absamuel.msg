@@ -1,7 +1,6 @@
 {100}{}{Vídíš správce klášterního høbitova.}
 {101}{}{Vidíš bratra Samuela, správce høbitova.}
 {102}{}{Vypadá opile a trochu unavenì.}
-
 {200}{}{*škyt* Nazdar, jmenuju se Samuel. Co, eh, *škyt* tì sem pøivádí?}
 {201}{}{*škyt* Nazdárek.}
 {202}{}{Jenom se tu rozhlížím. To ty se staráš o tenhle høbitov?}
@@ -11,42 +10,29 @@
 {206}{}{New Reno, jo? (Opøe se o lopatu, vytáhne malou flašku a poøádnì si lokne.) Pamatuju se, že øíkal *škyt*, že se tam vydá. Jsem rád, že se tam v bezpeèí dostal. Vždycky *škyt* jsem toho chlápka mìl rád. Fakt srandista. Jestli ho znovu potkáš, øekni mu, že se má staroch Sammy poøád èile k svìtu.}
 {207}{}{Vyøídím. Mám ale ještì nìjaké otázky.}
 {208}{}{Vyøídím. Mìj se, Same.}
-{209}{}{Už nic. Omlouvám se za obtìžování.}
+{209}{}{Zapomeò na to. Omlouvám se za obtìžování.}
 {210}{}{Vlastnì ti chci øíct, že tì pozdravuje. Urèitì ho od tebe budu pozdravovat. Mám ale ještì nìjaké otázky.}
 {211}{}{Vlastnì ti chci øíct, že tì pozdravuje. Urèitì ho od tebe budu pozdravovat. Mìj se, Same.}
-
 {300}{}{Co *škyt* chceš vìdìt?}
-
 {301}{}{Ty jsi správce høbitova?}
 {302}{}{Co mi mùžeš øíct o Opatství?}
 {303}{}{Mùžu ti s nìèím pomoct?}
-
-#are you the keeper here?
 {400}{}{Ano, *škyt* starám se tady o ty hroby. Nikdo jiný to nechce *škyt* dìlat, takže to strèili starýmu Sammymu. Není to až tak špatný, jak by se mohlo zdát. Jsou s tím spojený jistý... ehm, výhody, jestli mi rozumíš. (Ledabyle se usmìje a mrkne na tebe.)}
- 
-#new in RP 1.3
 {401}{}{Ne. Nerozumím a ani nechci. Nashle.}
 {402}{}{Ne, nerozumím. Povìz mi radìji o nìèem jiném. }
 {403}{}{Ne, nerozumím, ale jsem morbidnì zvìdavý...}
 {404}{}{Jasnì že jo! Nic mì nerajcuje tak jako shnilé mrtvoly.}
- 
 {410}{}{Jsem na èerstvým vzduchu a není tady nikdo, kdo by øíkal starýmu Sammymu, kdy má dost. Já sakra vím, kdy mám *škyt* dost... když je všechno vypitý! (Jeho chichotání se rychle zmìní ve strašlivý kašel. Potom, co vykašle plíci nebo dvì, se na tebe znovu usmìje jako sluníèko.)}
 {411}{}{Aha, jasnì, už chápu. (Vydechneš úlevou.) Povìz mi o nìèem jiném.}
-
 {420}{}{(Oèi se mu zdìšením rozšíøí a zdá se, že je najednou støízlivý.) Tak jsem to nemyslel, ty... ty ZRÙDO! SATANE! Jdi ode mì pryè! }
 {421}{}{Jak myslíš, ty starej ožralej èuráku. Nevíš, o co pøicházíš.}
-
 {430}{}{Neèistý démone! Zmiz!}
-
-#Tell me about abbey
 {500}{}{Opatství, no, je mùj domov *škyt* skoro celej mùj život. Každej se tady *škyt* chová k ostatním hezky a kdokoliv je zde vítán, pokud nedìlá *škyt* žádný problémy. Já sám netrávím moc èasu v kláš-*škyt*-klášteøe, ale vím, že v našich poèítaèích jsou uložený všechny možný informace, který byly po celý léta shromažïovány. Možná by se ti *škyt* nìco z toho mohlo hodit.}
 {501}{}{Jak to, že netrávíš moc èasu v klášteøe? Jsi pøece mnich nebo ne?}
 {502}{}{(Ušklíbne se a odhalí ústa plná zkažených zubù.) No, *škyt* øeknìme, že ostatním mnichùm se *škyt* moc nelíbí moje, ehm, záliba *škyt* v pití.}
 {503}{}{To chápu. Mám ještì nìjaké otázky.}
 {504}{}{Asi jo. Zatím, Sammy.}
 {505}{}{Aha. Poslyš, už musím jít.}
-
-#Need any help
 {600}{}{Hmm... *škyt* nech...nech mì chvíli pøemýšlet. Jo, možná by tu nìco bylo, jestli tì to zajímá.}
 {601}{}{Eh, zapomeò na to, Same. Musím už jít.}
 {602}{}{Jasnì, Same, co potøebuješ?}
@@ -57,18 +43,15 @@
 {607}{}{No, když už o tom mluvíš, vzpomínám si, že *škyt* pan Peterson øíkal nìco o tom, že slyšel nìjaký zvuky ze svýho pole. Možná o tom bude vìdìt víc. On a ta jeho malièká, hezká ženuška bydlí támhle. (Ukáže na budovu jižnì od høbitova.)}
 {608}{}{Uvidím, co se dá dìlat.}
 {609}{}{Myslím, že ti nepomùžu. Musím už jít.}
-
 {700}{}{Podaøilo se mi vyøešit ten problém s vykopáváním hrobù. Nemìl bys s tím mít už žádné problémy.}
 {701}{}{No to je *škyt* dobrá zpráva. Jsem rád, že už nebudu padat do žádných otevøených *škyt* hrobù. Díky za pomoc.}
 {702}{}{Rádo se stalo. Chci se ještì na nìco zeptat.}
 {703}{}{Tak jo, mìj se.}
 {704}{}{Myslím, že ty otevøené hroby nejsou skuteèným dùvodem tvého padání, Samueli, ale nedìlej si s tím starosti.}
-
 {1000}{}{*Pískání*}
-{1001}{}{*Kašel* *kašel*}
+{1001}{}{*Kuc* *Kuc*}
 {1002}{}{*Chrchlání*}
-{1003}{}{*Kašel*}
-{1004}{}{*Povzdech*}
+{1003}{}{*Kuc*}
+{1004}{}{*Vzdych*}
 {1005}{}{*Škyt*}
-
 {2000}{}{To byl ale *škyt* dlouhý den. Pøijï ráno.}

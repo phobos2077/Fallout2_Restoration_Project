@@ -48,7 +48,7 @@
 {141}{}{What happened to you?}
 {142}{}{Lately, I don't do much at all. I used to run part of Lou's operation at the Malamute Saloon -
  but we had a falling out, so I quit.}
-{143}{}{Let me ask you something else, then.}
+{143}{}{Deixa eu te perguntar outra coisa, então.}
 {144}{}{I understand. Well, that's all I needed to know. Goodbye.}
 {145}{}{All I hear about are politics. That always seems to be the big stir in discussion.}
 {146}{}{Politics? What do you mean?}
@@ -120,7 +120,7 @@
  that. He'll go with whoever's strongest. You see, whatever's good for Ascorti is also going to be good
  for Redding. I think he just hasn't figured out who's closest to being on top yet. But he's got to
  choose soon.}
-{196}{}{Let me ask you about something else.}
+{196}{}{Deixa eu te perguntar outra coisa.}
 {197}{}{Thanks for letting me know what's going on here. Goodbye.}
 {198}{}{Marge LeBarge is the owner of the Kokoweef Mine. It and the Morningstar Mine are the only two
  working mines left in Redding. I think that Marge's more of an NCR type. I don't think she likes their
@@ -142,7 +142,7 @@
  of stuff. He's right in the middle of all kinds o' thangs.}
 {211}{}{Ascorti's the Mayor of Redding. But I don't rightly know where he is. Haven't seen him around
  for a stretch.}
-{212}{}{Let me ask you about something else.}
+{212}{}{Deixa eu te perguntar outra coisa.}
 {213}{}{I think I've listened to you long enough. Goodbye.}
 {214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
 {215}{}{Deixe-me perguntar-lhe algo mais.}

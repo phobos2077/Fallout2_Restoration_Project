@@ -32,7 +32,7 @@
 {131}{}{(sigh) I've heard that Mr. Westin has a soft spot for people like you. Come on in.}
 {132}{}{- Me agradecer-lhe.}
 {133}{}{Yeah, yeah. I am in the middle of something.}
-{134}{}{Hey, get away from there!}
+{134}{}{Ei, saia daí!}
 {135}{}{You should ask before you play with things that aren't yours.}
 {136}{}{Hello. Did you need to see Mr. Westin again?}
 {137}{}{Sim.}

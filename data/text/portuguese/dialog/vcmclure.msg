@@ -28,7 +28,7 @@
 {127}{}{I'm looking for a Garden of Eden Creation Kit.}
 {128}{}{What can you tell me about the First Citizen?}
 {129}{}{I'd like to ask you some questions about Gecko.}
-{130}{}{What can you tell me about Redding?}
+{130}{}{O que você pode me dizer sobre Redding?}
 {131}{}{I need to speak to you about Redding.}
 {132}{}{How does one become a Citizen?}
 {133}{}{I think you might have a part that could fix Gecko's power plant.}
@@ -36,7 +36,7 @@
 {135}{}{I have an economic data disk here you might find interesting.}
 {136}{}{I found a way to optimize the Gecko reactor.}
 {137}{}{Here's the Gecko reactor disk. Can you optimize it?}
-{138}{}{Nothing today, thanks.}
+{138}{}{Nada por hoje, valeu.}
 {139}{}{I am Senior Councilor McClure. And you are...?}
 {140}{}{Não é da sua conta.}
 {141}{}{. Pleased to meet you.}
@@ -72,51 +72,51 @@
 {171}{}{... but apparently the old government messed up the shipments and we received a shipment that was meant to go to a Vault number... thirteen, I think it was. They probably received our other GECK.}
 {172}{}{What was in the shipment that was meant for Vault 13?}
 {173}{}{What happened to the GECK that broke down?}
-{174}{}{Can I ask you another question?}
-{175}{}{I see. Thanks for the information.}
+{174}{}{Posso te fazer outra pergunta?}
+{175}{}{Entendo. Obrigado pela informação.}
 {176}{}{Water Chips, a hundred or so. I don't know why they sent so many... we have never needed to replace ours. We have had the same water chip since the day our people lived underground in the Vault.}
 {177}{}{What happened to the GECK that broke down?}
-{178}{}{Can I ask you another question?}
+{178}{}{Posso te fazer outra pergunta?}
 {179}{}{Interesting. Thanks for your time.}
 {180}{}{The irony is razor sharp. Maybe we'll talk later after I stop the bleeding.}
 {181}{}{It was disassembled, and its parts were used for other applications.}
 {182}{}{What was in the shipment meant for Vault 13?}
-{183}{}{Can I ask you another question?}
+{183}{}{Posso te fazer outra pergunta?}
 {184}{}{Eu vejo. Obrigado pelo seu tempo.}
 {185}{}{She is the leader of the people. The Citizens of Vault City look to her for guidance, but the Citizens, through the Council, still have final say on matters. In these trying times, she is a pillar of our society.}
 {186}{}{"Trying times?" What do you mean?}
 {187}{}{What is it you do?}
-{188}{}{Can I ask you another question?}
+{188}{}{Posso te fazer outra pergunta?}
 {189}{}{Thanks for your time. Goodbye.}
 {190}{}{Gecko? What do you want to know?}
 {191}{}{Where is Gecko?}
 {192}{}{What is Gecko?}
-{193}{}{Can I ask you another question?}
+{193}{}{Posso te fazer outra pergunta?}
 {194}{}{Thanks for your time. Goodbye.}
 {195}{}{Not much to tell, other than the fact that our ore shipments have become few and far between.}
 {196}{}{Any idea why?}
 {197}{}{Where is Redding?}
-{198}{}{Can I ask you another question?}
+{198}{}{Posso te fazer outra pergunta?}
 {199}{}{Thanks for your time. Goodbye.}
 {200}{}{I am the Senior Council Member. I oversee the council meetings.}
 {201}{}{Then what does the First Citizen do?}
-{202}{}{Can I ask you another question?}
+{202}{}{Posso te fazer outra pergunta?}
 {203}{}{Thank you for your time. Goodbye.}
 {204}{}{Well, Citizenship isn't for everyone, you understand. You seem more like an adventurer to me... I really don't think that Citizenship is for you.}
 {205}{}{Aw, c'mon... just tell me what I need to do to become a Citizen.}
 {206}{}{I'd still like to become a Citizen anyway.}
-{207}{}{Can I ask you another question?}
-{208}{}{Nevermind then.}
+{207}{}{Posso te fazer outra pergunta?}
+{208}{}{Deixe pra lá então.}
 {209}{}{You wish to become a Citizen? Well, we would be pleased to have you. All you need to do is talk to Proconsul Gregory and he will give you the Citizenship test.}
 {210}{}{Where can I find Proconsul Gregory?}
-{211}{}{Can I ask you another question?}
+{211}{}{Posso te fazer outra pergunta?}
 {212}{}{Thanks. I'll go find him now. Goodbye.}
 {213}{}{Very well. All you need do is talk to Proconsul Gregory and he will give you the Citizenship test.}
 {214}{}{Where can I find Proconsul Gregory?}
-{215}{}{Can I ask you another question?}
+{215}{}{Posso te fazer outra pergunta?}
 {216}{}{All right. I'll go speak to the Proconsul now.}
 {217}{}{You'll find him in the East Wing. His office is across from the First Citizen's.}
-{218}{}{Can I ask you another question?}
+{218}{}{Posso te fazer outra pergunta?}
 {219}{}{Thanks for your time. Goodbye.}
 {220}{}{Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic.}
 {221}{}{They tell us that if we were to join, they would be able to defend us from the raider attacks on our city. As of late, these raider attacks have become more brutal.}
@@ -127,11 +127,11 @@
 {226}{}{Sorry to hear it. Thanks for your time. Goodbye.}
 {227}{}{It is just northeast of here, but if you are planning on going there, I would advise you to purchase some anti-radiation drugs. If they are contaminating our water, it is likely their town itself is irradiated.}
 {228}{}{What is Gecko?}
-{229}{}{Can I ask you another question?}
+{229}{}{Posso te fazer outra pergunta?}
 {230}{}{Thanks for the warning. Goodbye.}
 {231}{}{It is a forsaken place, a shantytown built around the remnants of an old atomic power plant.}
 {232}{}{Where is Gecko located?}
-{233}{}{Can I ask you another question?}
+{233}{}{Posso te fazer outra pergunta?}
 {234}{}{Thanks for your time. Goodbye.}
 {235}{}{No. I don't understand it at all. We are willing to pay top dollar for their ore, but whenever we try to talk to them about it, they become evasive. If only I knew what was going on...}
 {236}{}{I could go check it out for you.}
@@ -142,9 +142,9 @@
 {241}{}{No problem. I'll check it out and return when I find out what's wrong.}
 {242}{}{Redding is a week or so west of here. I've never been there. Never been outside Vault City, for that matter. As I understand it, Redding is supposed to be one of the more pleasant settlements in the wastes.}
 {243}{}{Do you have any idea what's causing the shipments to drop off?}
-{244}{}{I see. Thanks for the information.}
+{244}{}{Entendo. Obrigado pela informação.}
 {245}{}{What is it? Anything you could tell me would be a great help.}
-{246}{}{What can you tell me about Redding?}
+{246}{}{O que você pode me dizer sobre Redding?}
 {247}{}{I found that a large part of Redding is addicted to a chem called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
 {248}{}{Dr. Troy has created an antidote for Jet.}
 {249}{}{I delivered the antidote to Redding.}
@@ -152,7 +152,7 @@
 {251}{}{I'll tell you later when I find out more.}
 {252}{}{It's a chem with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Please keep me posted.}
-{254}{}{Can I ask you some other questions?}
+{254}{}{Posso fazer mais algumas perguntas?}
 {255}{}{Com certeza.}
 {256}{}{This is sad news, we need to find a way to put a stop to this. If this keeps up, our ore supplies will dwindle to nothing. Please help us.}
 {257}{}{Eu vou ver o que posso fazer.}
@@ -189,13 +189,13 @@
 {288}{}{Well done, Captain.}
 {289}{}{Well done, Citizen.}
 {290}{}{Well done.}
-{291}{}{I had some other questions...}
+{291}{}{Eu tenho mais algumas perguntas...}
 {292}{}{Obrigado.}
 {293}{}{I'm sorry... an economic data disk? What do you mean?}
 {294}{}{Here, take a look.}
 {295}{}{It's an economic data disk that shows the amount of energy that Gecko's atomic power plant produced before the war... and could produce again.}
-{296}{}{Never mind. I had some other questions.}
-{297}{}{Nothing. Sorry to disturb you.}
+{296}{}{Deixe pra lá. Eu tenho outras perguntas.}
+{297}{}{Nada. Me desculpe por perturbar você.}
 {298}{}{Very well. Give me a moment...}
 {299}{}{Tudo certo.}
 {300}{}{Hmmm. How did you come by this disk?}
@@ -225,7 +225,7 @@
 {324}{}{I appreciate it. Thanks.}
 {325}{}{Hmmm. Well, I cannot allow you access to the Vault, but I could optimize the reactor disk for you.}
 {326}{}{All right. But I don't have the reactor disk on me. I'll be back with it.}
-{327}{}{That'd be great.}
+{327}{}{Isso seria ótimo.}
 {328}{}{Excellent!}
 {329}{}{Tudo certo.}
 {330}{}{Let me take the reactor disk, and I'll have the Vault central computer optimize it.}

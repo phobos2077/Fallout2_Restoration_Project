@@ -1,8 +1,8 @@
 {100}{}{Vidíš hezkou mladou ženu v maskáèích.}
 {101}{}{Vidíš Elise.}
 {102}{}{Šíøí kolem sebe zvláštní atmosféru. Jako by byla zvyklá dávat rozkazy, které ostatní plní.}
-{103}{}{Co si pøeješ?}
-{104}{}{Zase ty?}
+{103}{}{Co chceš?}
+{104}{}{Zase vy?}
 {105}{}{Posílá mì Karl.}
 {106}{}{Dr. Jubilee mi øekl, že si mám s tebou promluvit.}
 {107}{}{Kdo jsi?}
@@ -21,7 +21,7 @@
 {120}{}{Nenávidíš otroctví, jo? Zajímavé. Co bys dìlal, kdybys tu skupinu našel?}
 {121}{}{Požádal bych je o èlenství.}
 {122}{}{Nakopal bych jim prdel.}
-{123}{}{Nic.}
+{123}{}{No nic.}
 {124}{}{Do toho ti nic není. Teï se odtud kliï.}
 {125}{}{S obchodem s auty už jsme skonèili. Definitivnì. Sbohem.}
 {126}{}{Není. Sbohem.}
@@ -74,17 +74,13 @@
 {173}{}{V tom pøípadì se mi kliï z oèí. Hned!}
 {174}{}{Dobøe.}
 {175}{}{Otrokáø! Rychle zmiz, než ti to tvý tetování rozstøílím na kousky!}
-{176}{}{Dobøe.}
+{176}{}{Jasnì.}
 {177}{}{To si mùžeš zkusit!}
-
 {178}{}{Máme nìkolik agentù a pøátel v nìkterých mìstech na severu. Rozšiøujeme naše názory a škodíme otrokáøùm kdekoliv to jen jde.}
 {179}{}{Vítej zpìt. Chceš se k nám tedy pøipojit?}
 {180}{}{Zapomeò na to.}
-
-
 {181}{}{To není tvoje. Teï odejdi, nebo ti ublížím.}
 {182}{}{Nevím, co jsi Gondovi udìlal, ale zaplatíš za to!}
-
 {200}{}{Gratuluju, teï je z tebe Ranger. Je tvou zapøísáhlou povinností bojovat proti otroctví kdekoliv se objeví. Mìj se, pøíteli.}
 {201}{}{Než pùjdu, mám ještì nìjaké informace, které by tì mohly zajímat.}
 {202}{}{Dobøe, poslouchám.}
@@ -105,54 +101,41 @@
 {217}{}{Jsem spontánní jedinec. Nepotøebuju pøípravu. Jdeme na to.}
 {218}{}{Vlastnì jsem zmìnil názor. Jsem si jistý, že to s ostatními Rangery zvládneš v pohodì i beze mì. Hodnì štìstí.}
 {219}{}{Vlastnì si myslím, že by bylo lepší, kdyby se mnou šli nìjací Rangeøi. Zajistilo by to vìtší úspìch jak mì, tak celkovému boji proti otroctví.}
-
 {220}{}{Ne, je mi líto. Nemám prostøedky na to, abych dala dohromady potøebné lidi. Tohle je jenom na tobì.}
 {221}{}{Tak dobøe, udìlám to sám. Ohlásím se až to bude hotové.}
-{222}{}{Tak dobøe, udìlám to sám, ale potøebuju chvíli na pøípravu. Ještì se vrátím.} #not used
+{222}{}{Tak dobøe, udìlám to sám, ale potøebuju chvíli na pøípravu. Ještì se vrátím.}
 {223}{}{V tom pøípadì musím odmítnout. Sbohem.}
-
 {224}{}{Máš pravdu. Dám dohromady malou skupinu a pošlu je s tebou. Mùžeš hned teï vyrazit?}
 {225}{}{Potøebuju chvíli na pøípravu. Ještì se vrátím.}
 {226}{}{Vše pøipraveno. Mùžeme jít.}
-
 {227}{}{Peníze? No, pøedpokládám, že to je to nejmenší, co ti mùžeme dát. Tady máš $1000 za veškeré zpùsobené potíže. Ještì jednou ti dìkuju.}
 {228}{}{Potìšení je na mé stranì. Sbohem.}
-
 {229}{}{Mùžeme už zaútoèit na tábor otrokáøù?}
 {230}{}{Dej mi ještì chvíli.}
 {231}{}{Už mùžu. Pojïme na to.}
-
 {232}{}{Ostatní Rangeøi se s tebou sejdou po cestì. Hodnì štìstí.}
 {233}{}{[KONEC]}
 {234}{}{Slyšela jsem ty novinky. Dìkuju ti za pomoc. Tohle bude pro otrokáøe urèitì hodnì velká rána. Jsme tvými dlužníky.}
 {235}{}{Prosím, neotálej dlouho. Tenhle útok je pro náš boj proti otroctví zásadní.}
 {236}{}{Pomohl jsi Rangerùm v jejich nepøetržitém boji proti otroctví.}
-
 {240}{}{Díky. Sbohem.}
-
 {250}{}{Vlastnì ještì jedna vìc. Vypadáš dùvìryhodnì. Jako nìkdo, kdo si nebere s otrokáøi servítky.}
 {251}{}{No, právì jsem vyhladil celý jejich tábor. Co máš na mysli?}
 {252}{}{Myslím, že už jsem toho pro lidstvo udìlal pro dnešek dost. Zatím.}
-
-#added in RP 1.3
 {260}{}{Co tady dìláš? Tohle je soukromý... hej, poèkej chvilku, myslím, že už jsem o tobì slyšela. Nejsi ten, co vyèistil jeden z Metzgerových otrokáøských táborù?}
 {261}{}{Jo, to jsem já.}
 {262}{}{To si piš, že jo. Máš s tím snad nìjaký problém? }
 {263}{}{Možná... proè?}
 {264}{}{Nemám tušení, o èem to mluvíš. A když mì teï omluvíš, pùjdu.}
-
 {270}{}{Udìlal jsi správnou vìc a ráda bych ti za to potøásla rukou.}
 {271}{}{Vùbec ne. Vlastnì bych ti za to chtìla potøást rukou.}
 {272}{}{Protože jsi udìlal správnou vìc a ráda bych ti za to potøásla rukou.}
 {273}{}{Když tì to tak potìšilo, co takhle nìjaká malá finanèní odmìna?}
 {274}{}{Bylo mi potìšením. Mohla bys mi teï øíct, kdo jste?}
-
 {280}{}{Nemáme moc penìz nazbyt, ale prokázal jsi nám opravdu velkou službu, takže myslím, že ti mùžeme nìco dát. Tady je $1000.}
-{281}{}{Díky. Nashle.}
+{281}{}{Dík. Naskle.}
 {282}{}{Díky. Mohla bys mi teï øíct, kdo jste?}
-
 {290}{}{Já jsem Elise a tohle je Gond. Jsme èlenové protiotrokáøské skupiny zvané New California Rangers. Hodil by se nám nìkdo jako ty. Pokud máš zájem se k nám pøipojit, mám pro tebe úkol.}
-{291}{}{Tak povídej.}
+{291}{}{Poslouchám.}
 {292}{}{Nemám zájem. Nashle.}
-
 {300}{}{Mùžu ti s nìèím pomoct, Rangere?}

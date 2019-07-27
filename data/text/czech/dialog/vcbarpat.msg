@@ -1,5 +1,5 @@
 {100}{}{Vidíš zaprášeného cestovatele.}
-{101}{}{Vidíš stálého hosta baru.}
+{101}{}{Vidíš barmanku.}
 {102}{}{Vidíš zaprášeného cestovatele.}
 {103}{}{Hele, podívejte! To je ten, co nakopal Enklávì prdel!}
 {104}{}{Gratulujeme, hrdino!}

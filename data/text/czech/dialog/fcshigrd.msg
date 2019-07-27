@@ -1,9 +1,9 @@
-{100}{}{Vidíš strážného ve volnìjším obleèení, který se nudí.}
+{100}{}{Vidíš stráž ve volnìjším obleèení. Vypadá ostražitì, ale zároveò znudìnì.}
 {101}{}{Vidíš strážce paláce.}
 {102}{}{Vidíš strážce paláce, který drží nebezpeènì vypadající zbraò.}
 {103}{}{Jdi dál a nic se ti nestane.}
 {104}{}{Máš tu nìco na práci?}
-{105}{}{Sledujeme tì.}
+{105}{}{Dáme si na tebe pozor.}
 {106}{}{Nic na nás nezkoušej.}
 {107}{}{Chovej se k našim lidem s úctou.}
 {108}{}{Nesahej na to. To je poslední varování.}

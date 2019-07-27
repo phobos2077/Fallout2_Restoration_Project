@@ -1,4 +1,4 @@
-{100}{}{Vidíš obchodníka.}
+{100}{}{Vidíš kupce.}
 {101}{}{Vidíš Jennu, obchodníka.}
 {102}{}{Vidíš hezkou majitelku obchodu.}
 {103}{}{Ahoj! Jsem Jenna. Mùžu ti nìjak pomoct?}

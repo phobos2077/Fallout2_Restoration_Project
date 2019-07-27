@@ -54,7 +54,7 @@
 {277}{}{Can I see what you got in stock?}
 {283}{}{Can you modify or upgrade weapons?}
 {284}{}{Not interested right now, thanks.}
-{285}{}{Nothing today, thanks.}
+{285}{}{Nada por hoje, valeu.}
 {286}{}{Can I see your special stock?}
 {300}{}{See anything shiny you want? C'mon, there must be something here that interests you.}
 {301}{}{Uh... sure, sure. (Looks at you critically.) You remind me of my slave, Al. You want to see what we got in stock, friend?}
@@ -78,7 +78,7 @@
 {352}{}{Put the speed loader on the magnum.}
 {353}{}{Expand the magazine in this Desert Eagle here.}
 {354}{}{Actually, I had another weapon in mind...}
-{355}{}{Nevermind. I wanted something else...}
+{355}{}{Esqueçe. Eu queria outra coisa...}
 {356}{}{Actually, none of them. I have to go.}
 {357}{}{Too rich for my blood. I'll be back when I have more cash.}
 {365}{}{(Studies your rifles, nods.) }

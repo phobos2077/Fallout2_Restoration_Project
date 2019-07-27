@@ -16,7 +16,7 @@
 {115}{}{To je celı ivot jenom o tomhle?}
 {116}{}{Jsme chytøejší, ne si myslíš.}
 {117}{}{Podívej! Lao wai!}
-{118}{}{Myslím, e tì nemám rád.}
+{118}{}{Nelíbíš se mi.}
 {119}{}{Dìsíš mì.}
 {120}{}{Neubliuj mi, prosím.}
 {121}{}{Vsadím se, e by ses Lo Panovi líbil.}
@@ -30,7 +30,7 @@
 {129}{}{A teï Hubologisty!}
 {130}{}{Podívej se na ty legraèní kulaté oèi!}
 {131}{}{Vypadáš jako Hubologista.}
-{132}{}{Odejdi v míru.}
+{132}{}{Nech nás na pokoji.}
 {133}{}{A ije Dragon!}
 {134}{}{A ije Císaø!}
 {135}{}{Práce, práce a zase jenom práce. Rıe, rıe a zase jenom rıe. ::povzdech::}
@@ -55,9 +55,8 @@
 {154}{}{To je celı ivot jenom o tomhle?}
 {155}{}{Jsme chytøejší, ne si myslíš.}
 {156}{}{Podívej. Venkovan!}
-
 {164}{}{Ty jsi zabil AHS-9? Jó!}
-{165}{}{Ti Hubologisti mi nahání husí kùi.}
+{165}{}{Ti hubologisti mi nahání husí kùi.}
 {166}{}{Prokázal jsi nám velkou slubu.}
 {167}{}{Smrt Hubologistùm!}
 {168}{}{Snad to odsud vyene Hubologisty.}

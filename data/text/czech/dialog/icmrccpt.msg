@@ -1,22 +1,15 @@
-# 0. QUICK LOOK
 {100}{}{Vidíš vùdce žoldákù.}
-
-# 0. LOOK
 {150}{}{Vidíš drsnì vypadajícího mùže v kevlarové zbroji. Jeho výstroj a zbranì jsou dobøe udržované, témìø jako nové.}
 {151}{}{Vidíš vùdce žoldákù. Pozoruje okolí a má prst na spoušti.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{No, tak ten si teda troufá...}
 {201}{}{Kontakt!}
 {202}{}{Chlapi, máme nezvaného hosta!}
 {203}{}{Do zbranì, chlapi, máme tu vetøelce!}
 {204}{}{A hele kdo pøišel chcípnout...}
 {205}{}{Zatracenì! Nìkdo nás našel!}
-{206}{}{Máme tu nìjakýho odvážlivce...}
+{206}{}{Máš fakt odvahu sem pøijít...}
 {207}{}{Jseš na *špatným* místì, dìvko.}
-{208}{}{No, tak ta si teda troufá...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{208}{}{Hele, podívejte se na tu dìvku, jak se tu naparuje...}
 {215}{}{Radši brzo zavolám ty speciální zabijácká komanda...}
 {216}{}{Myslím, že Bravo tým je pár kilákù na jih od Vault City... poøád stopují tu karavanu.}
 {217}{}{Doufám, že ta skvrna od vína brzo zmizí... v poušti to jen tak nevyperu.}

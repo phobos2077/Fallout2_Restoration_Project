@@ -11,7 +11,7 @@
 {110}{}{To je jedno. Právì jsem si vzpomnìl, e mám bıt nìkde úplnì jinde.}
 {111}{}{To víš, nehody se stávají... a kdy se stávají, tak vìtšinou mnì.}
 {112}{}{Eh... já teï odejít.}
-{113}{}{Jako co?}
+{113}{}{Napøíklad?}
 {114}{}{Zajímavı názor. Proè si to myslíš?}
 {115}{}{Myslím, e musím bıt nìkde jinde.}
 {116}{}{Narodil jsem se o dva mìsíce døív. Kdy mi byl jeden rok, upustili mì na verandì. Kdy mi byly dva, dostal jsem zápal plic. Kdy mi byly tøi, dostal jsem plané neštovice. Kdy mi byly ètyøi, spadl jsem ze schodù a zlomil si šest eber. Kdy mi bylo pìt, mùj strıc byl sat melounem. Kdy mi bylo šest, rodièe mì pøetáhli lopatou po hlavì. Kdy mi bylo sedm, moje domácí krysa mi ukousla ukazováèek.}
@@ -43,11 +43,8 @@
 {142}{}{Koneènì, mùj èas nadešel. Zabiješ mì?}
 {143}{}{Ano.}
 {144}{}{Ne.}
-
-
 {145}{}{Kdy mi bylo osm, mého pejska Spika pøejel traktor. Kdy mi bylo devìt, vzteklá brahmína ukousla matce ruku. Kdy mi bylo deset, moji sestru roztrhala smeèka psù. Kdy mi bylo jedenáct, mùj dìda se zabil, protoe jsem byl ošklivı. Kdy mi bylo dvanáct, moje babièka se zabila, protoe jsem byl ošklivı. Kdy mi bylo tøináct, mùj táta si v opilosti vypíchl oèi vidlema.}
 {146}{}{Kdy mi bylo ètrnáct, klokan ukousl bratrovi ruku. Kdy mi bylo patnáct, moje teta se udusila kuøecí kùstkou. Kdy mi bylo šestnáct, mého bratrance zakousl jezevec. Kdy mi bylo sedmnáct, usekl jsem si palec na noze motykou. Kdy mi bylo osmnáct, mému tátovi pøejel pravou nohu ten samı traktor, co pøejel mého psa. Kdy mi bylo devatenáct... }
-
 {147}{}{A tak jsem sedìl v poušti a èekal, a smrt ukonèí moji mizernou existenci, kdy tu se objevila tlupa páraèù. Hm, pomyslel jsem si, tak a je to tady. Teï umøu. Skonèím jako páraèí hovno nìkde uprostøed pouštì. Ale ne... osud mìl ještì jeden krutı trumf v rukávu.}
 {148}{}{Jak vidíš, páraèi mì nezabili. Místo toho mi dali vodu, vzali mì sem, dali mi tuhle místnost, jídlo, umyli mì a teï mì nechtìjí nechat odejít. Vím, e mì vykrmují z nìjakého neznámého pøíšerného dùvodu. Stále jim opakuju, e bych asi pravdìpodobnì chutnal lépe, kdybych byl hubenı a libovı, ale je to k nièemu. Oni se jen usmívají... pokud to tak vùbec jde øíct... a plácají mì po ramenou a øíkají 'Neboj se, èlovìèe, bude lépe.' Ha! Oba víme, co tím myslí.}
 {149}{}{Kadopádnì, aby to bylo ještì horší, zaèali mi dávat nìjaké prášky. Trochu mì nadımají, tak jsem je pøestal brát... a dobøe jsem udìlal. Myslím, e to byly nìjaké pilulky na 'ovládání mysli', protoe jsem mìl pocit, jako kdyby vìci nebyly zase a tak špatné, jako skuteènì jsou! To bude asi tak všechno. U jen èekám, a zazvoní zvonek k veèeøi, aby mohli hodovat na mém tlusouèkém tìle.}

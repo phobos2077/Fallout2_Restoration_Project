@@ -4,11 +4,10 @@
 {104}{}{Vidíš šerifa Jo.}
 {105}{}{Vidíš starostu Jo.}
 {106}{}{Vidíš soudce Jo.}
-
 {150}{}{Zabili jsme je všechny. Dokonce i dìti.. [vzlyk]}
 {151}{}{Setkáme se na Farmì Duchù. Zaútoèíme okamžitì.}
 {152}{}{Díky za záchranu obèanù Modoca.}
-{153}{}{Co to dìláš?}
+{153}{}{Co tu dìláš?}
 {154}{}{Hej! Nech to bejt!}
 {155}{}{Zlodìj!}
 {156}{}{Promiò, ale kvùli suchu je tohle tržištì doèasnì uzavøený.}
@@ -16,10 +15,10 @@
 {158}{}{Jsem tu poprvé. Co mi mùžeš øíct o tomhle mìstì?}
 {159}{}{Nemáš náhodou na prodej zlaté hodinky?}
 {160}{}{GECK!}
-{161}{}{Co pro tebe mùžu udìlat?}
+{161}{}{Co pro tebe mohu udìlat?}
 {162}{}{Hledám jednu konkrétní vìc a zajímalo by mì, jestli bys ji dokázal sehnat.}
 {164}{}{Chci koupit zlaté hodinky. Nevíš, kde je seženu?}
-{165}{}{Co máš na prodej?}
+{165}{}{Co máš k obchodování?}
 {166}{}{Mùžeš mi nìco povìdìt o tomhle mìstì?}
 {167}{}{Co tady dìláš?}
 {168}{}{GECK!}
@@ -49,7 +48,7 @@
 {196}{}{Skupina našich lidí byla na lovu, když jsme si všimli tý farmy. Na tom by nebylo nic divnýho, ale brzy potom se nìkolik lidí vydalo na návštìvu našeho novýho souseda, jen aby zjistili, že tam vlastnì nikdo nebydlí.}
 {197}{}{Pokraèuj.}
 {198}{}{Po nìkolika mìsících neúspìšnýho kontaktování majitelù jsme došli k závìru, že farma musela bejt opuštìna chvíli po dostavení. A tak, než abysme nechali úrodu shnít, vyslali jsme tam Karla, aby tam bydlel.}
-{199}{}{Hmm...}
+{199}{}{Hmm... }
 {200}{}{A pak se zaèaly dít vìci. Karl zaèal vyprávìt o divnejch svìtélkujících postavách, který v noci dohlížej na úrodu a krmìj zvíøata. Všichni jsme se jeho historkám smáli. Jednoho dne se ale Karl nevrátil do mìsta.}
 {201}{}{Co se mu stalo? Hledali jste ho?}
 {202}{}{Samozøejmì! Hned jsme se tam vydali, jakmile jsme zaèali mít tušení, že je nìco špatnì. (Zaène se divoce tøást.) No hrùza a dìs. Lidský tìla byly všude kolem. Nìkterý ukøižovaný, jiný zase hnijící na slunci. Každou noc se z toho pohledu budím hrùzou.}
@@ -81,7 +80,7 @@
 {229}{}{Nemáme se spolu o èem bavit. Támhle jsou dveøe.}
 {230}{}{Hohó. To je na tebe ještì moc velkej krajíc. Pøijï, až ten krajíc bude o trochu menší. Mìj se pìknì a pozor na dveøe, až budeš odcházet.}
 {231}{}{No... vítej v Modocu. Já jsem Jo a patøí mi místní tržnice. Nemáme toho moc. Jen pár farem, jatka, Rózin penzión a koželužnu, abysme mohli vyrábìt zboží na prodej. Ale tyhle sucha mùžou všechno znièit.}
-{232}{}{Povìz mi nìco o jatkách.}
+{232}{}{Co mi mùžeš øíct o jatkách?}
 {233}{}{Rózin penzión?}
 {234}{}{Povìz mi o tržnici.}
 {235}{}{Kde je koželužna?}
@@ -93,7 +92,7 @@
 {257}{}{O èem chceš vìdìt? O jatkách, Rózinì penziónu, koželužnì nebo tržnici?}
 {262}{}{No tak to vyklop. Nemùžu ti pomoct, když mi neøekneš, co potøebuješ. A fakt tu nehodlám stát a pøemejšlet o tom, co hledáš.}
 {263}{}{Hledám svatý GECK.}
-{264}{}{Už nic.}
+{264}{}{Zapomeò na to.}
 {265}{}{Kromì výrobkù od lidí z Modocu nic nemám. To víš, ty sucha... poøád máš zájem?}
 {266}{}{Pojïme obchodovat.}
 {267}{}{Ne, díky. Mùžu se ještì na nìco zeptat?}
@@ -102,7 +101,7 @@
 {270}{}{Páni, to teda musíš být mezi spoluobèany velmi oblíbený, když ti svìøí tolik funkcí.}
 {271}{}{Díky za informace. Už pùjdu.}
 {272}{}{Ale prdlajz... mìl jsem prostì smùlu. Jednou jsem byl mimo mìsto pro nìjaký zásoby a když jsem se vrátil, zjistil jsem, že mì obèani prostì zvolili. Nikdo jinej to holt nechtìl dìlat. Ale až na pár výjimek nemusím v podstatì nic dìlat a to mi vyhovuje.}
-{273}{}{Mùžu se ještì na nìco zeptat?}
+{273}{}{Mùžu mít ještì pár otázek?}
 {274}{}{CO!? Chceš mì napálit? Každej ví, že starej Corny ty svoje hodinky ztratil. Dokonce chtìl, abych prohledal dùm jeho nejlepšího pøítele. Radši do toho nestrkej nos, jestli o nìj nechceš pøijít! Hezký den!}
 {275}{}{(Vezme si od tebe vzkaz od Svìtloplachù.) Co je to? To je vzkaz od lidí žijících na Farmì Duchù? To je úžasný. Èetl jsi... vlastnì... samozøejmì že ne. Je tady ještì pár vìcí, který je nutný projednat mezi Svìtloplachy a lidma z Modocu, ale to je na ten tvùj malej mozeèek moc složitý, takže se o to nemusíš starat.}
 {276}{}{GECK, hned teï!}
@@ -155,13 +154,9 @@
 {329}{}{Karl pøed èasem zmizel z farmy. Zjisti, co se s ním stalo.}
 {330}{}{Díky, zkusím nìco zjistit.}
 {331}{}{Lidi, jako jsi ty, tu nechceme.}
-
 {400}{}{(Poèkat, až si usekne prst.) Dobøe, teï už vám pomùžu.}
 {410}{}{Co je ta velká bílá budova uprostøed mìsta?}
-
 {500}{}{To je náš mìstskej kostel. Postavili ho obyvatelé Modocu na dùkaz svojí víry. V poslední dobì ale nebylo moc dùvodù vìøit v Boha a tak už nikdo na kázání nechodí.}
-
-# wedding script dialog
 {600}{}{Drazí pøítomní: Shromáždili jsme se zde...}
 {602}{}{(Jo otoèí nìkolik stránek ve své knize.)}
 {603}{}{Dobøe, eh... než zaèneme, je zde nìkdo, kdo ví o nìjakém dùvodu, proè by tito dva nemìli vstoupit do svazku manželského?}
@@ -171,17 +166,13 @@
 {607}{}{Tímto prohlašuji váš sòatek za právoplatnì uzavøený. Nyní mùžete políbit nevìstu.}
 {608}{}{Tímto prohlašuji váš sòatek za právoplatnì uzavøený. Nyní mùžete políbit jeden druhého.}
 {609}{}{Tímto prohlašuji váš sòatek za právoplatnì uzavøený. Nyní mùžete políbit jeden druhého.}
-# Seraph's Code: Cousin Bo
 {612}{}{(Jo otoèí nìkolik stránek ve své knize.)}
-
 {625}{}{manžela?}
 {626}{}{manželku?}
 {627}{}{ehhh... druhého? Ano, právoplatnì oddaného partnera?}
 {628}{}{druhého?}
-
-{629}{}{Miria}
-{630}{}{Davin}
-
+{629}{}{Mirie}
+{630}{}{Davina}
 {800}{}{Zaútoèíme na Svìtloplachy za }
 {801}{}{ dní, pokud mì do tý doby nepøesvìdèíš.}
 {802}{}{Zaútoèíme na Svìtloplachy zítra, pokud mì do tý doby nepøesvìdèíš.}
@@ -189,16 +180,10 @@
 {804}{}{Mùžete se mnou poèítat!}
 {805}{}{Už toho mám dost, nejdu s vámi!}
 {806}{}{Zaútoèíme ihned. Svìtloplachové dokázali, že jim nemùžeme vìøit.}
-
 {820}{}{Jak ti mùžu pomoct?}
 {821}{}{Už s tím nechci mít nic spoleèného. Z mojí strany je dohoda splnìna. Teï je øada na tobì. Øekni mi, kde je GECK.}
-
 {850}{}{Vrátím se, jakmile zjistím, co se stalo Karlovi.}
-
 {900}{}{Díky, mùj pøíteli, za záchranu našeho mìsta.}
 {925}{}{Není zaè. Nashle.}
-
 {1000}{}{Díky tobì byl Modoc zachránìn.}
-
-# Seraph's Code: Cousin Bo
 {1500}{}{Vidíš Bo, zástupce soudce.}

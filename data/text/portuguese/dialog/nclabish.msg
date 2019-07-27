@@ -7,7 +7,7 @@
 {201}{}{(Frowns slightly.) Yes? What is it this time?}
 {203}{}{Knock-knock}
 {204}{}{(Stare at her breasts and drool.)}
-{205}{}{Wander off}
+{205}{}{Cai fora}
 {206}{}{Quem é você?}
 {207}{}{I wanted to ask you some questions, Mrs. Bishop.}
 {208}{}{Sorry, I thought you were someone else. Goodbye.}
@@ -67,7 +67,7 @@
  amounts to.}
 {286}{}{It sounds as if your marriage life isn't as healthy as it could be.}
 {287}{}{Well, there's also that 'family' of mercenaries he hired to raid Vault City.}
-{288}{}{Oh. I had some other questions...}
+{288}{}{Oh. Ei, tenho algumas outras perguntas…}
 {295}{}{(She throws an amused glance at your spouse.) And yours is? (She frowns again.) }
 {296}{}{No... my late husband was in the business of accumulating power. That seldom leaves room for...
  anything else. }
@@ -76,7 +76,7 @@
 {298}{}{In addition, my precious daughter has quickly learned what being a woman means in New Reno.}
 {299}{}{Your daughter?}
 {300}{}{Your daughter Angela?}
-{301}{}{I had some other questions...}
+{301}{}{Eu tenho mais algumas perguntas...}
 {305}{}{Yes, the Angela you *slept* with. Surely you remember? (She gives you a withering look.) I *hope* you
  used a prophylactic. Her hormones are so out of control that even the mere mention of sperm would make her
  pregnant.}
@@ -97,7 +97,7 @@
  It is northeast of New Reno. They had such a kit... once, long ago, but they used it when they left
  their Vault for the surface.}
 {331}{}{Can you tell me about Vault City?}
-{332}{}{Can I ask you some other questions?}
+{332}{}{Posso fazer mais algumas perguntas?}
 {333}{}{I'll go check out Vault City then. Thanks for the information.}
 {335}{}{(Her smile fades, and her expression becomes hard and distant.) There is not much to tell.
  I think you'll find the climate there... different. Now, is that all?}
@@ -162,7 +162,7 @@
  something I can do for you?}
 {436}{}{I'd like to join you for that drink now, if you have the time, Mrs. Bishop.}
 {437}{}{I'd like to join you for another... drink, if you have the time, Mrs. Bishop.}
-{438}{}{I had some questions...}
+{438}{}{Eu tenho algumas perguntas…}
 {439}{}{Not at the moment, thanks. I have to go.}
 {440}{}{So? So am I. What are you suggesting that my invitation is? Some sort of prelude
  to adultery? Come now, don't be foolish. Now, are you coming?}
@@ -172,7 +172,7 @@
  gesture of good will. I had rather hoped those raiders had been incinerated by Vault
  City's laser cannons.}
 {446}{}{"Gesture of good will?"}
-{447}{}{I see. I had some other questions...}
+{447}{}{Entendo. Eu tenho outras perguntas...}
 {448}{}{Interesting... well, thanks for the information. Goodbye.}
 {449}{}{Hmmm... interesting. Thanks for your time, Mrs. Bishop.}
 {450}{}{Yes. His initial offer of an alliance were refused, so he reiterated his peaceful
@@ -211,8 +211,8 @@
 {520}{}{(She takes you upstairs to a strange, nice-smelling room. Once there, she starts
  giving you strange directions that make you feel both happy and uncomfortable.) Don't you
  want to touch me?}
-{521}{}{Uh-huh}
-{522}{}{Nuh-uh}
+{521}{}{hã-ham.}
+{522}{}{hã-hã}
 {525}{}{Hmmmm. Very well. Just lay down on the bed then and I'll do the rest.}
 {526}{}{Me refuse me no WANT to me want to go HOME to Arroyo-yo}
 {527}{}{Do what she tells you to.}
@@ -338,7 +338,7 @@
 {682}{}{No, my 'marriage' is not a healthy one. My husband is in the business of power,
  and that seldom leaves any room for... anything else.}
 {683}{}{You sound unhappy. You should leave here, go somewhere else.}
-{684}{}{Hmmm. I had some other questions...}
+{684}{}{Hmmm. Eu tenho outras perguntas…}
 {690}{}{Why, what a BRILLIANT idea! And where would I go? Into the Wastes to live
  amongst the savages? South, to NCR? Northwest, to Redding, to rent my body to miners?}
 {691}{}{Why is leaving Reno so impossible? You're not a stupid woman. I would think

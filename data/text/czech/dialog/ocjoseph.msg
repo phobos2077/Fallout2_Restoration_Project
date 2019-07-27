@@ -21,7 +21,7 @@
 {120}{}{Promiò, ale nejsem klasický doktor, takže neumím provádìt chirurgické zákroky. Doporuèoval bych ti zajít si do jednoho z velkých mìst a tam vyhledat chirurga. Zkus tøeba New California Republic. Je to na východ odsud.}
 {121}{}{Dobøe. Ahoj.}
 {122}{}{Tak dobøe, ale stejnì díky.}
-{123}{}{Co chceš vìdìt?}
+{123}{}{Co potøebujete vìdìt?}
 {124}{}{Ty vìzeò?}
 {125}{}{Ty odejít odsud kdy chtít?}
 {126}{}{Co vìdìt o páraèi?}
@@ -42,7 +42,7 @@
 {141}{}{Já chápat. Já jít.}
 {142}{}{Potøebovat zeptat víc.}
 {143}{}{Mìl jsi štìstí, že to vyšlo.}
-{144}{}{Aha.}
+{144}{}{Tak dobøe.}
 {145}{}{Dobrý nápad. Vidím, že fungoval.}
 {146}{}{No, hmm... zdá se, že páraèi zmutovali z chameleona tøírohého, z té rohatìjší verze. Mnoho rysù sice stále zùstalo, ale i pøesto se velmi odlišují. Faktor mutace je zde opravdu veliký. Tito tvorové jsou vysoce inteligentní, zhruba na úrovni osmiletého dítìte, a v nìkterých pøípadech se vyrovnají i prùmìrnému dospìlému èlovìku. Kapacita jejich mozku je velmi vysoká a navíc jsou schopni abstraktního myšlení a uvažování.}
 {147}{}{Eh... co ty øíkat?}
@@ -57,10 +57,7 @@
 {156}{}{Jsi opravdu oddaný muž, který zasluhuje uznání.}
 {157}{}{Zajímavé.}
 {158}{}{Nebudu pomáhat nìkomu takovému, jako jsi ty. Jdi pryè.}
-
 {159}{}{Odjel jsem asi na týden do jiného mìsta. Když jsem se vrátil, byl jsem srdeènì pøivítán. Gruthar, vùdce smeèky, za mnou pøišel a osobnì mi podìkoval za to, že jsem se vrátil zpìt. Ne, jsem tu, protože tu být chci.}
-
 {160}{}{A aèkoliv nemají hlasivky, vypadá to, že páraèi napodobují lidskou artikulaci podobnì jako tøeba papoušci. Zatím jsem ale ještì nepøišel na to, jak to pøesnì dìlají, takže o tom zatím nemohu øíct více. Co se týèe spoleèenského uspoøádání, jsou to zvíøata žijící ve smeèce s velmi pøísnou morálkou. Jejich vùdcem je vždy 'alfa samec', který vládne se souhlasem smeèky. Zdá se, že jsou extrémnì loajální ke smeèce, která je pro nì nìco jako jedna velká rodina. Nežijí v malých uzavøených rodinách jako lidé.}
 {161}{}{Velmi dobøe chápou rozdíl mezi dobrem a zlem. Mají etický kodex, který vyznává celá smeèka. Pokud je mi známo, násilí není nikdy používáno k øešení problému. Nebyly zde spáchány žádné 'veliké zloèiny', takže nemohu øíct, jak takovéto situace øeší. Hmmm. To je asi tak vše, co mì napadá. Doufám, že ti to pomohlo.}
-
 {162}{}{Odpovìdìl jsem mu, že uznávám všechen život a udìlám vše, co bude v mých silách, abych uzdravil nemocné nebo zranìné, lhostejno, kdo jsou, nebo kým byli. Myslel jsem, že je to nìjaký zlodìj nebo nájezdník, který se zranil a potøeboval doktora. Nedokážeš si ani pøedstavit, jak jsem byl pøekvapený, když na mì uprostøed noci vyskoèilo nìkolik páraèù se svým zranìným pøítelem. Nìkdo ho opravdu zle postøelil. Øekl jsem jim, že s ním tady nic neudìlám, takže mi dali šátek pøes oèi a odvedli mì sem. Od té doby tu žiju.}

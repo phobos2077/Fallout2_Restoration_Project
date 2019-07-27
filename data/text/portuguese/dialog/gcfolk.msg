@@ -33,7 +33,7 @@
 {151}{}{If Vault City people were like you, we wouldn't have a problem with them.}
 {160}{}{Hmmph, another cheating smoothskin.}
 {161}{}{Heya, smoothy.}
-{162}{}{Hello there.}
+{162}{}{Olá.}
 {163}{}{O que é?}
 {164}{}{Be nice while you're in town.}
 {165}{}{Come far to get here?}
@@ -92,7 +92,7 @@
 {268}{}{I'd like to Renew into a smoothy.}
 {269}{}{I swear I've seen things fly over us at night.}
 {280}{}{I love you, man.}
-{281}{}{You're the best.}
+{281}{}{Você é demais.}
 {282}{}{Nuke Vault City 'til it glows!}
 {283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
 {284}{}{./~ I've been working on the re-act-or, all the live-long day... ./~}
@@ -109,7 +109,7 @@
 {303}{}{Not much longer until we can trade power to Vault City.}
 {304}{}{Gosh, we're going to need a lot of Copper from Redding now.}
 {305}{}{The reactor is working great now. Thanks.}
-{306}{}{You're the best.}
+{306}{}{Você é demais.}
 {307}{}{Thanks for fixing up our atomic reactor.}
 {308}{}{Reactor's purring, just as nice as you please. Thanks.}
 {309}{}{You're the best smoothskin I've ever known.}

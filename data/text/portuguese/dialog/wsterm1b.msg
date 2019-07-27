@@ -1,6 +1,6 @@
-{100}{}{A computer terminal.}
+{100}{}{Um terminal de computador.}
 {101}{}{The screen saver is active.}
-{102}{}{You are unable to read what's on the monitor.}
+{102}{}{Você é incapaz de ler o que está no monitor.}
 {103}{}{Skynet Security Systems
                                             Intruder Level 1
                                                   Activating Counter Measures Level 1
@@ -15,7 +15,7 @@
                                                Activating Counter Measures Level 1}
 {106}{}{Terminate Alarm Level 1 - False Alarm}
 {107}{}{[You notice a key on the keyboard labeled "Help"]. Press Key.}
-{108}{}{Hack into security systems}
+{108}{}{"Hackear" o sistema de segurança}
 {109}{}{Sair}
 {110}{}{Arg! [You slam your fist into the keyboard in frustration]}
 {112}{}{Skynet Security Systems
@@ -48,8 +48,8 @@
 {129}{}{Press 2}
 {130}{}{Press 3}
 {131}{}{Warning! This program works best if you shut down all programs. Do you wish to do so now?}
-{132}{}{Yes}
-{133}{}{No}
+{132}{}{Sim}
+{133}{}{Não}
 {134}{}{Sair}
 {135}{}{Shutting down all programs
                                   Shutting down Skynet Security Program - Level 1

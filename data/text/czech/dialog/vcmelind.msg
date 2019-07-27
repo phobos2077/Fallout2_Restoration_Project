@@ -4,7 +4,7 @@
 {103}{}{Ano, mùžu vám ještì s nìèím pomoct?}
 {104}{}{Tahle oplocená oblast je mìsto?}
 {105}{}{Hledám Vault.}
-{106}{}{Kdo jste?}
+{106}{}{Kdo jsi?}
 {107}{}{Ne, díky. Sbohem.}
 {108}{}{Tohle Valt Citííí?}
 {109}{}{Ne ne... nenechte se zmást okolím. Právì stojíte na Pøedmìstí. Samotné mìsto se nachází na severu.}

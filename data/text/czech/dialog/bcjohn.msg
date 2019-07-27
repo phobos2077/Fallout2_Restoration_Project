@@ -11,6 +11,5 @@
 {110}{}{Ahoj... a sbohem.}
 {111}{}{Díky za všechno, co jsi pro nás udìlal. Omlouvám se za svoje pøedešlé chování.}
 {112}{}{Jdi do hajzlu, ty parchante!}
-
 {113}{}{Sakra. Nesnáším, když se tohle stane.}
 {114}{}{Tu máš! Tohle tì nauèí.}

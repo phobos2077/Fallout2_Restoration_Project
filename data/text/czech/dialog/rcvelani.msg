@@ -4,7 +4,6 @@
 {103}{}{Jsi ubožák. Kdybych mìl vìtší svaly, tak bych ti už dávno rozbil hubu za opuštìní mojí karavany. Vypadni odsud.}
 {104}{}{Udìlal jsi velikou chybu, když ses pokusil okrást Mordinovic rodinu. Za to zaplatíš... i s úroky. Ale teï se mi kliï z oèí.}
 {105}{}{Já že jsem zlodìj? Tak to si budu pamatovat, ty zatracenej nevdìèníku. Sbohem.}
-{200}{}{Vyøídíme si to hned teï. Pøiprav se na smrt, kreténe.}
 {106}{}{To tì bude jednou mrzet. Sbohem.}
 {107}{}{Tak tohle byla opravdu ostudná jízda. Jsem sice rád, že to Savinelli nepøežil, ale nemùžu uvìøit, že si myslíš, že za nìco takového dostaneš zaplaceno. Vypadni odsud.}
 {108}{}{Ty jeden proradnej bastarde! To tì bude jednou mrzet. Sbohem.}
@@ -23,3 +22,4 @@
 {121}{}{Savinelli byl zabit. Do prdele, nemùžu tomu uvìøit. Já jsem Velani. Zaplatím ti, co ti dlužíme.}
 {122}{}{Eh, díky.}
 {123}{}{Do prdele, poøád nemùžu uvìøit, že je Savinelli mrtvý.}
+{200}{}{Vyøídíme si to hned teï. Pøiprav se na smrt, kreténe.}

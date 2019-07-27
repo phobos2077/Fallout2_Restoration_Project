@@ -1,1280 +1,1278 @@
 {100}{}{Você vê uma prostituta.}
-{150}{}{You see a... lady of the evening. Her tattered clothes are draped seductively around her body.}
-{151}{}{You see a prostitute. She winks at you.}
-{152}{}{You see a prostitute. Her eyes are like blown fuses.}
-{153}{}{You see a prostitute. She smells like flowers.}
-{154}{}{You see a prostitute. She smells like mother.}
-{155}{}{You see a prostitute. It is a mystery to you how her tattered rags manage to hold her breasts in.}
-{156}{}{You see a prostitute. She looks as if she kills her mates and eats them.}
-{157}{}{You see a prostitute. She is appraising you like a jeweler.}
-{158}{}{You see a prostitute. Her tattered clothes are draped seductively around her body.}
-{175}{}{Oh my... it's him.}
-{176}{}{You are the biggest stud in the world.}
-{177}{}{::Swoons::}
-{178}{}{Yeah, }
-{179}{}{::Claps::}
-{180}{}{::Cheers::}
+{150}{}{Você vê uma dama da noite. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
+{151}{}{Você vê uma prostituta. Ela pisca pra você.}
+{152}{}{Você vê uma prostituta. Seus olhos demonstram calor.}
+{153}{}{Você vê uma prostituta. Ele cheira a flores.}
+{154}{}{Você vê uma prostituta. Ela tem um cheiro de mãe.}
+{155}{}{Você vê uma prostituta. É um mistério pra você saber como os trapos dela conseguem segurar seus seios.}
+{156}{}{Você vê uma prostituta. Parece que ela mata seus parceiros e os come.}
+{157}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}
+{158}{}{Você vê uma prostituta. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
+{175}{}{Oh meu D... é ele! }
+{176}{}{Você é o cara mais fogoso do mundo.}
+{177}{}{::Desmaio::}
+{178}{}{Isso aí, }
+{179}{}{::Palmas::}
+{180}{}{::Assobios::}
 {181}{}{Oh my... it's her.}
-{182}{}{You go, girl!}
-{183}{}{::Gives you the thumbs up sign::}
-{190}{}{You couldn't pay me enough chips to get it on with you in THAT.}
-{195}{}{Over here, }
-{196}{}{Look! It's him!}
-{197}{}{Hey, }
-{198}{}{Hey, sweetie? Any openings I could fill?}
-{199}{}{When is your next movie coming out?}
-{200}{}{Mmmm-mmmm. Work it, baby.}
-{201}{}{What do you need ME for, Boogie Man?}
-{202}{}{Ooops. I dropped something in your pants. Let me get it.}
-{203}{}{I loved you in Great Balls for Hire.}
-{204}{}{I loved you in Good Will Humping.}
-{205}{}{I loved you in Vault Sexteen.}
-{206}{}{You were great in Pokeahotass.}
-{207}{}{Mmmmm-mmmm. How do you keep so fit?}
-{208}{}{Can I have your autograph? On my chest?}
-{209}{}{Could I act in your next movie?}
-{210}{}{I would never fake it for YOU, }
-{211}{}{Getting... weak. Can't... hold out... much longer. Must... have... sex... with you...}
-{212}{}{She's no star, she's just tribal trash...}
-{213}{}{I didn't realize they allowed porn stars to get THAT fat...}
-{214}{}{She's fugly.}
-{215}{}{She has all the sex appeal of a wet paper bag...}
-{216}{}{Ugly as sin...}
-{217}{}{The way she acts, you'd think she was a hero model instead of a porn star.}
-{218}{}{She tries anything, I'll scar her...}
-{219}{}{I don't know what the Corsican Brothers SEE in her...}
-{220}{}{She's as talented as a rock and twice as ugly.}
-{221}{}{That's right, you KEEP on walking.}
-{222}{}{Makes me nauseous just looking at her...}
-{223}{}{Look at her, strutting around like that...}
-{224}{}{She's got a face only a brahmin could love.}
-{225}{}{Well, if it isn't grand Queen Turd.}
-{226}{}{If it ain't little miss bitchy...}
-{227}{}{If it ain't little-miss-porn-star...}
-{228}{}{Uglier than a brahmin's ass.}
-{229}{}{Push off! This is our area, bitch!}
-{230}{}{Haul your fat ass outta my sight.}
-{231}{}{You're as talented as my shoe.}
-{232}{}{Stay on this street, and we'll cut you.}
+{182}{}{Isso aí, garota!}
+{183}{}{::Faz o sinal de positivo pra você::}
+{190}{}{Você não conseguiria me pagar o suficiente pra eu me deitar com você NISSO.}
+{195}{}{Bem aqui, }
+{196}{}{Olha! É ele!}
+{197}{}{Ei, }
+{198}{}{Ei, docinho? Alguma vaga pra mim?}
+{199}{}{Quando sai o seu novo filme?}
+{200}{}{Mmmm-mmmm. Belo trabalho, neném.}
+{201}{}{O que você que que EU faça, garotão?}
+{202}{}{Opa. Eu deixei cair uma coisa na sua calça. Deixa que eu pego.}
+{203}{}{Eu adorei você no Great Balls for Hire.}
+{204}{}{Eu adorei você no Good Will Humping.}
+{205}{}{Eu adorei você no Vault Sexteen.}
+{206}{}{Você foi demais no Pokeahotass.}
+{207}{}{Mmmmm-mmmm. Como você consegue ficar sempre em forma?}
+{208}{}{Você pode me dar um autografo? No meu peito?}
+{209}{}{Eu posso atuar no seu próximo filme?}
+{210}{}{Eu nunca fingiria com VOCÊ, }
+{211}{}{Estou... enfraquecendo. Não posso... agüentar por muito tempo. Preciso fazer... sexo com você...}
+{212}{}{Ela não é uma estrela, é só uma tribal de merda...}
+{213}{}{Eu não sabia que eles deixavam estrelas-pornô ficarem gordas desse jeito...}
+{214}{}{Ela é muito feia.}
+{215}{}{Ela é tão atraente como um pedaço de papel...}
+{216}{}{Feia como o pecado...}
+{217}{}{O jeito dela atuar, parece que foi uma heroína ao invés de uma estrela-pornô.}
+{218}{}{Se ela tentar alguma coisa, eu acabo com ela...}
+{219}{}{Eu não sei o que os Corsican Brothers viram nela...}
+{220}{}{Ela é tão talentosa quanto uma pedra. E duas vezes mais feia.}
+{221}{}{Isso mesmo, CONTINUE andando.}
+{222}{}{Fico com nojo só de olhar pra ela...}
+{223}{}{Olha pra ela, rebolando daquele jeito...}
+{224}{}{Ela tem uma cara tão feia que só uma brahmin conseguiria amar.}
+{225}{}{Bem, se não é a grande Rainha de merda.}
+{226}{}{Se não é a pequena putinha...}
+{227}{}{Se não é a pequena estrela-pornô...}
+{228}{}{Ela é mais feia que bunda de brahmin.}
+{229}{}{Cai fora! Essa área é nossa, piranha!}
+{230}{}{Tire o seu traseiro gordo da minha vista.}
+{231}{}{Você é tão talentosa quanto meu sapato.}
+{232}{}{Continue na rua e nós te cortamos.}
 {233}{}{Cadela.}
-{234}{}{Stuck-up whore...}
-{235}{}{Trash...}
+{234}{}{Sai fora, vadia...}
+{235}{}{Lixo...}
 {236}{}{Hmphh!}
-{237}{}{Get outta here, yer spoiling the biz.}
-{238}{}{Scrawny whore.}
-{239}{}{Don't talk to me, bitch.}
-{240}{}{Go back to making your money the slow way, whore.}
-{241}{}{What part of 'piss off' don't you understand?}
-{242}{}{Speak to me again, I'll cut out your tongue.}
-{243}{}{Gutterslut.}
-{244}{}{::Ignores you.::}
-{245}{}{::Makes an obscene gesture::}
-{246}{}{Get outta here, "Miss Movie Star."}
-{247}{}{Beat it, whore.}
-{248}{}{You try anything, I'll scar you...}
-{249}{}{I don't know what the Corsican Brothers SEE in you...}
-{250}{}{You're as talented as a rock and twice as ugly.}
-{251}{}{I don't talk to TRASH like you.}
-{252}{}{Look at those muscles! Makes me weak...}
-{253}{}{Daaaamn!}
-{254}{}{::Whistles::}
-{255}{}{He's built like a tank. Check out that barrel.}
-{256}{}{Check out the barrel on that tank...}
-{257}{}{He's all mine...}
-{258}{}{::Sigh::}
-{259}{}{What a badass.}
-{260}{}{That boy makes me weak.}
-{261}{}{If it ain't the King of Sting...}
-{262}{}{He has lead in his pencil, that's for damn sure.}
-{263}{}{Look! It's }
+{237}{}{Sai daqui, sua estraga prazeres.}
+{238}{}{Vaca magricela.}
+{239}{}{Não fale comigo, vadia.}
+{240}{}{Volte pra onde você faz seu dinheiro, piranha.}
+{241}{}{Que parte do 'cai fora' você não entendeu?}
+{242}{}{Fale comigo de novo e eu corto a sua língua.}
+{243}{}{Puta de meia tigela.}
+{244}{}{::Te ignora::}
+{245}{}{::Faz um gesto obsceno::}
+{246}{}{Sai daqui, "Senhorita Estrela de Cinema".}
+{247}{}{Cai fora, piranha.}
+{248}{}{Se tentar alguma coisa, eu acabo com você...}
+{249}{}{Eu não sei o que os Corsican Brothers VÊEM em você...}
+{250}{}{Você é tão talentosa quanto uma pedra. E duas vezes mais feia.}
+{251}{}{Eu não falo com LIXO como você.}
+{252}{}{Olha aqueles músculos! Me deixa até tonta...}
+{253}{}{Uaaaau!}
+{254}{}{::Assobios::}
+{255}{}{Ele é definido como um tanque. Olha só aquele abdômen.}
+{256}{}{Olha o abdômen daquele tanque...}
+{257}{}{Ele é todo meu...}
+{258}{}{::Suspiro::}
+{259}{}{Que gostosão.}
+{260}{}{Esse cara me deixa até fraca.}
+{261}{}{Se não é o Rei do Boxe...}
+{262}{}{Ele tem chumbo nas bolas, com certeza.}
+{263}{}{Olha! É o }
 {264}{}{}
-{265}{}{Now THERE'S some trouble I want to get into.}
-{266}{}{Want to jump in the ring with me, champ?}
-{267}{}{Wanna box, champ?}
-{268}{}{How's it hanging, }
-{269}{}{Looking for me?}
-{270}{}{Why don't you come around more often?}
-{271}{}{I got an opening you can fill.}
-{272}{}{Need some company, }
-{273}{}{You are SUCH a badass.}
-{274}{}{You make me weak, you know that?}
-{275}{}{Nice unit you got there.}
-{276}{}{Need someone to take care of that for you, champ?}
-{277}{}{Hey... watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
-{278}{}{Look! It's }
-{279}{}{Need some company, }
+{265}{}{Agora TEM encrenca na qual eu quero me meter.}
+{266}{}{Quer pular no ringue comigo, campeão?}
+{267}{}{Quer lutar, campeão?}
+{268}{}{Como vai, }
+{269}{}{Procurando por mim?}
+{270}{}{Por que você não vem aqui com mais freqüência?}
+{271}{}{Tenho uma vaga que você pode preencher.}
+{272}{}{Precisa de companhia, }
+{273}{}{Você é demais.}
+{274}{}{Você me deixa tonta, sabia?}
+{275}{}{Belo material o que você tem aí.}
+{276}{}{Precisa de alguém pra cuidar de você, campeão?}
+{277}{}{Ei... cuidado com o Masticator. Ele é um merda. Tentou morder minha orelha uma vez.}
+{278}{}{Olha! É o }
+{279}{}{Precisa de companhia, }
 {280}{}{}
-{281}{}{She is SUCH a badass. I wish I could kick guy's asses like she does.}
-{282}{}{There goes one tough woman.}
-{283}{}{She looks so...(shivers)...dangerous.}
-{284}{}{She's pretty sexy.}
-{285}{}{Oh my... it's him. }
-{286}{}{He looks so...(shivers)...dangerous.}
-{287}{}{Daaaamn!}
-{288}{}{::Whistles::}
-{289}{}{What a badass.}
-{290}{}{That boy makes me weak.}
-{291}{}{He has lead in his pencil, that's for damn sure.}
-{292}{}{Hellooooo, }
-{293}{}{Need some company, }
+{281}{}{Ela é demais. Gostaria de poder acabar com um cara igual ela faz.}
+{282}{}{Aí vai uma mulher bem forte.}
+{283}{}{Ela parece tão... (arrepios) perigosa.}
+{284}{}{Ela é muito sexy.}
+{285}{}{Oh meu D... é ele. }
+{286}{}{Ele parece tão... (arrepios) perigoso.}
+{287}{}{Uaaaau!}
+{288}{}{::Assobios::}
+{289}{}{Que gostosão.}
+{290}{}{Esse cara me deixa até fraca.}
+{291}{}{Ele tem chumbo nas bolas, com certeza.}
+{292}{}{Oiiiiii, }
+{293}{}{Precisa de companhia, }
 {294}{}{}
 {295}{}{Oh my... it's her. }
-{296}{}{She is such a badass.}
-{297}{}{There goes one tough bitch.}
-{298}{}{She looks so...(shivers)...dangerous.}
-{299}{}{She's pretty sexy.}
-{300}{}{My name's Easy, slaver. What's yours?}
-{301}{}{Hey, slaver, need some company?}
-{302}{}{Let me teach you some things only a woman can teach.}
-{303}{}{Need someone to share your bedroll, slaver?}
-{304}{}{Got some hot-rocks there, slaver.}
-{305}{}{Nasty little crotch cobra there.}
-{306}{}{Lookin' for some action?}
-{307}{}{Slaver, you ain't never had love 'til you had Reno love.}
-{308}{}{Looking for a date?}
-{309}{}{Heard there was some trouble on Commercial Row...}
-{310}{}{Looking for some company?}
-{311}{}{Wanna dance?}
-{312}{}{Slaver, you ain't never had love 'til you had Reno love.}
-{313}{}{Sure, I'll be one of your 'companions' for a few chips.}
-{314}{}{New stranger in towm, looks like...}
-{315}{}{Wanna fly, slaver?}
-{316}{}{Wanna play slaver and servant?}
-{317}{}{Nice dill.}
-{318}{}{Let me cheer you up, sad clown.}
-{319}{}{Lose your way, slaver?}
-{320}{}{Got a gun you need to unload, slaver?}
-{321}{}{That man could melt metal.}
-{322}{}{Myron? I wouldn't touch him for a million chips. Make it two million.}
-{323}{}{Looking for a good time, slaver?}
-{324}{}{I like the look of your gecko, slaver.}
-{325}{}{That a gecko in your pocket?}
-{326}{}{Hey there, slaver.}
-{327}{}{Need a date, slaver?}
-{328}{}{Where's the fire, slaver?}
-{329}{}{Childe, let me make you a man.}
-{330}{}{Wanna play slaver and servant?}
-{331}{}{Wanna pretend we're deathclaws in mating season?}
-{332}{}{Need to pop a clip, slaver?}
-{333}{}{Want to help a virgin lose her virginity?}
-{334}{}{That slaver makes my Geiger counter tick.}
-{335}{}{If you want me to be nice, that'll be extra.}
-{336}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
-{337}{}{Take a gamble on me, slaver.}
-{338}{}{I finally installed that padded headboard.}
-{339}{}{Taste of paradise'll cost you ten chips.}
-{340}{}{Wanna play master and servant, slaver?}
-{341}{}{Myron: All wax. No wick.}
-{342}{}{Myron's a real twister...}
-{343}{}{AC-DC, B n' D, whatever.}
-{344}{}{What does he expect me to do, bend down for him?}
-{345}{}{Need someone to yank your leash, slaver?}
-{346}{}{Myron still keeps coming around...}
-{347}{}{That Bishop girl is a bed-bunny.}
-{348}{}{She ain't no Jet reliant, she's a BONE reliant.}
-{349}{}{Action at the Cat's Paw is heating up...}
-{350}{}{Had a marathon session running away from Myron last night...}
-{351}{}{Looking for some TLC, slaver?}
-{352}{}{Been walking this strip since yesterday...}
-{353}{}{Like anything you see, slaver?}
-{354}{}{You looking for love, slaver?}
-{355}{}{Hey there, slaver! Come chat with me.}
-{356}{}{::Whistles at you::}
-{357}{}{Going to be in Reno long?}
-{358}{}{I hate teabags.}
-{359}{}{Why don't you take me back to your cage, slaver?}
-{360}{}{Only takes a few chips gets my attention.}
-{361}{}{Pure Reno love, right here.}
-{362}{}{I'll give you some play.}
-{363}{}{I'm Filthy Spice.}
-{364}{}{I'm Homely Spice.}
-{365}{}{I'm Slutty Spice.}
-{366}{}{I'm Old Spice.}
-{367}{}{I'm Syphilis... er, Slutty Spice.}
-{368}{}{I'm Dirty Spice.}
-{369}{}{Wranglers in the dust, that's what I want.}
-{370}{}{I've got a friend if you want a double-header, slaver.}
-{371}{}{Wish Myron was gay.}
-{372}{}{New blood in town...}
-{373}{}{Still don't know why they call it Virgin Street...}
-{374}{}{Can you hammer a six-inch spike through a board with your penis?}
-{375}{}{I wish he'd wear a paper bag sometimes...}
-{376}{}{Buy a girl a drink, slaver?}
-{377}{}{Take a lonely lady on the town, slaver?}
-{378}{}{Need a friend for tonight, slaver?}
-{379}{}{Looking for some new merchandise, slaver?}
-{380}{}{Come over here, slaver, the show's about to begin...}
-{381}{}{I heard some of the girls uptown killed their pimp.}
-{382}{}{Most beautiful woman in the wastes, right here...}
-{383}{}{That Jules better leave me alone.}
-{384}{}{Still got that bruise from the headboard...}
-{385}{}{Been worn out ever since that last convention...}
-{386}{}{I wish that slaver convention took place in some other town.}
-{387}{}{I felt the Earth move, but it was just the chili.}
-{388}{}{Make me melt.}
-{389}{}{He keeps it up, he's gonna bust his ticker...}
-{390}{}{I'll take care of you, slaver.}
-{391}{}{I'm a virgin. I'm just not very good at it.}
-{392}{}{Jules keeps trying to deal on 2nd Street...}
-{393}{}{Hey, slaver! Need a guide?}
-{394}{}{Jules keeps wanting freebies.}
-{395}{}{Need your cage rattled, slaver?}
-{396}{}{I hear the families are getting tense again.}
-{397}{}{Things are pretty slow. I wish that caravan would show.}
-{398}{}{So he dresses up in this Deathclaw costume, then...}
-{399}{}{I need help getting out of this dress.}
-{400}{}{Zip me up? Then down again?}
-{401}{}{Mmm-mmm. Looks like mating season.}
-{402}{}{Need a friend?}
-{403}{}{I kicked Jules in his family jewels last week.}
-{404}{}{Looking to go down-town, slaver?}
-{405}{}{They don't call me Lady Lucky for nothing.}
-{406}{}{Love those brahmin-flavored condoms.}
-{407}{}{Show a lady a good time, slaver?}
-{408}{}{Myron keeps pestering me. At least his MONEY'S good.}
-{409}{}{All you ever need is right here.}
-{410}{}{Looking for Eden? Right here.}
-{411}{}{You got the money, slaver, I got the time.}
-{412}{}{Can you help me? I'm looking for my lost virginity.}
-{413}{}{I'm a virgin, but I need the money.}
-{414}{}{Be gentle, it's my first time. Today.}
-{415}{}{Me so horny.}
-{416}{}{You got the craving, I got the saving.}
-{417}{}{Let me awaken your inner child.}
-{418}{}{Wanna dance, sweetheart?}
-{419}{}{Lookin' to stake a claim?}
-{420}{}{Wanna make me moan?}
+{296}{}{Ela é demais.}
+{297}{}{Aí vai uma mulher das boas.}
+{298}{}{Ela parece tão... (arrepios) perigosa.}
+{299}{}{Ela é muito sexy.}
+{300}{}{Meu nome é Fácil, escravagista. Qual é o seu?}
+{301}{}{Ei, escravagista, precisa de companhia?}
+{302}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
+{303}{}{Precisa de alguém pra dividir o colchonete, escravagista?}
+{304}{}{Tem alguma bala quente aí, escravagista?}
+{305}{}{Bela cobra, hein.}
+{306}{}{Procurando por ação?}
+{307}{}{Escravagista, você nunca fez amor até ter provado o amor de Reno.}
+{308}{}{Procurando por um encontro?}
+{309}{}{Ouvi dizer que teve confusão em Commercial Row...}
+{310}{}{Procurando por companhia?}
+{311}{}{Quer dançar?}
+{312}{}{Escravagista, você nunca fez amor até ter provado o amor de Reno.}
+{313}{}{Claro, eu serei uma de suas 'companhias' por alguns trocados.}
+{314}{}{Forasteiro novo na cidade, parece...}
+{315}{}{Quer voar, escravagista?}
+{316}{}{Quer brincar de escravo e escravagista?}
+{317}{}{Bela erva.}
+{318}{}{Deixa eu te fazer sorrir, palhaço tristonho.}
+{319}{}{Está perdido, escravagista?}
+{320}{}{Tem uma arma que precisa ser descarregada, escravagista?}
+{321}{}{Aquele homem deve gozar como um touro.}
+{322}{}{Myron? Eu não tocaria nele nem por um milhão. Faço por dois milhões.}
+{323}{}{Procurando por diversão, escravagista?}
+{324}{}{Eu gosto da aparência do seu gecko, escravagista.}
+{325}{}{Isso é um gecko no seu bolso?}
+{326}{}{Olá, escravagista.}
+{327}{}{Precisa de um encontro, escravagista?}
+{328}{}{Onde é o incêndio, escravagista?}
+{329}{}{Garoto, deixe-me transformá-lo em um homem.}
+{330}{}{Quer brincar de escravo e escravagista?}
+{331}{}{Quer fazer de conta que somos deathclaws em época de acasalamento?}
+{332}{}{Precisa descarregar, escravagista?}
+{333}{}{Que ajudar uma virgem a se tornar mulher?}
+{334}{}{Aquele escravagista faz até meu Geiger counter apitar.}
+{335}{}{Se quer que eu seja carinhosa, tem que pagar mais.}
+{336}{}{[Canta.] "Vamos brincar - de mestre e servo. Vamos brincar - de mestre e servo."}
+{337}{}{Faça uma aposta comigo, escravagista.}
+{338}{}{Finalmente instalei aquela cabeceira acolchoada.}
+{339}{}{Provar o paraíso vai te custar dez pratas.}
+{340}{}{Quer brincar de mestre e servo, escravagista?}
+{341}{}{Myron: Muita droga. Nenhum pênis.}
+{342}{}{O Myron é um nerd chato pra caralho...}
+{343}{}{Fio-terra, sadismo, qualquer coisa.}
+{344}{}{O que ele espera que eu faça? Que eu me curve pra ele?}
+{345}{}{Precisa de alguém pra descascar sua banana, escravagista?}
+{346}{}{O Myron continua vindo pra esses lados...}
+{347}{}{Aquela filha do Bishop é uma safada.}
+{348}{}{Ela não é uma viciada em Jet, ela é viciada em OSSO.}
+{349}{}{O movimento em Cat's Paw está ficando mais quente...}
+{350}{}{Teve uma maratona ontem à noite pra correr do Myron...}
+{351}{}{Procurando por carinho, escravagista?}
+{352}{}{Estou aqui desde ontem...}
+{353}{}{Gostou de alguma coisa, escravagista?}
+{354}{}{Procurando por amor, escravagista?}
+{355}{}{Olá, escravagista! Vem conversar comigo.}
+{356}{}{::Assovia pra você::}
+{357}{}{Vai ficar muito tempo em Reno?}
+{358}{}{Eu odeio bêbados.}
+{359}{}{Por que você não me joga na sua gaiola, escravagista?}
+{360}{}{Só vai te custar alguns trocados pra ter minha atenção.}
+{361}{}{O puro amor de Reno, bem aqui.}
+{362}{}{Vou te dar um pouco de ação.}
+{363}{}{Eu sou a amante selvagem.}
+{364}{}{Eu sou a amante doméstica.}
+{365}{}{Eu sou a amante safada.}
+{366}{}{Eu sou a amante madura.}
+{367}{}{Eu sou a amante sífil... digo, safada.}
+{368}{}{Eu sou a amante sem vergonha.}
+{369}{}{Eu não quero saber de caras broxas.}
+{370}{}{Eu tenho uma namorada se você quiser duas companhias, escravagista.}
+{371}{}{Queria que o Myron fosse gay.}
+{372}{}{Sangue novo na cidade...}
+{373}{}{Ainda não consigo entender porque eles chamam essa rua de Virgin Street...}
+{374}{}{Você consegue martelar um prego de 15 centímetros numa tábua com o seu pênis?}
+{375}{}{Gostaria que ele usasse um saco na cabeça de vez em quando...}
+{376}{}{Quer pagar um drinque pra uma garota, escravagista?}
+{377}{}{Quer levar uma garota solitária pra dar uma volta, escravagista?}
+{378}{}{Precisa de uma amiga essa noite, escravagista?}
+{379}{}{Precisa de mercadoria nova, escravagista?}
+{380}{}{Bem aqui, escravagista, o show está prestes a começar...}
+{381}{}{Ouvi dizer que algumas garotas da outra rua mataram o cafetão delas.}
+{382}{}{As mais belas mulheres das wastes, bem aqui...}
+{383}{}{É melhor aquele Jules me deixar em paz.}
+{384}{}{Ainda estou com aquele machucado por causa da cabeceira...}
+{385}{}{Estou exausta desde aquela última convenção...}
+{386}{}{Quem dera a convenção dos escravagistas fosse em outra cidade.}
+{387}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
+{388}{}{Quer me fazer gozar?}
+{389}{}{Se ele continuar segurando, vai estourar o saco...}
+{390}{}{Eu tomo conta de você, escravagista.}
+{391}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
+{392}{}{O Jules continua tentando negociar na 2nd Street...}
+{393}{}{Ei, escravagista! Precisa de uma guia?}
+{394}{}{O Jules continua querendo fazer de graça.}
+{395}{}{Precisa de movimento na sua jaula, escravagista?}
+{396}{}{Ouvi dizer que as famílias estão começando a ficar tensas de novo.}
+{397}{}{O negócio está fraco. Bem que podia passar uma caravana por aqui.}
+{398}{}{Então ele se fantasiou de deathclaw, aí ele...}
+{399}{}{Preciso de ajuda pra tirar esse vestido.}
+{400}{}{Subir o meu zipper? E descer de novo?}
+{401}{}{Mmm-mmm. Parece que está na época de acasalamento.}
+{402}{}{Precisa de alguma amiga?}
+{403}{}{Eu chutei as bolas do Jules semana passada.}
+{404}{}{Quer ir pro centro, escravagista?}
+{405}{}{Não me chamam de Senhorita da Sorte à toa.}
+{406}{}{Amo essas camisinhas com cheiro de brahmin.}
+{407}{}{Quer mostrar quem é que manda pra uma garota, escravagista?}
+{408}{}{O Myron continua me atazanando. Pelo menos o DINHEIRO dele é bom.}
+{409}{}{Tudo o que você precisa está bem aqui.}
+{410}{}{Procurando pelo paraíso? Bem aqui.}
+{411}{}{Você tem o dinheiro, eu tenho o tempo.}
+{412}{}{Você pode me ajudar? Estou procurando pela minha virgindade.}
+{413}{}{Eu sou virgem, mas preciso de dinheiro.}
+{414}{}{Seja gentil, é minha primeira vez. Hoje.}
+{415}{}{Estou tão excitada.}
+{416}{}{Você tem a excitação, eu tenho a solução.}
+{417}{}{Deixa eu acordar sua criança interior.}
+{418}{}{Quer dançar, coração?}
+{419}{}{Quer descarregar a raiva?}
+{420}{}{Quer me fazer gemer?}
 {421}{}{::Purrrrr::}
 {422}{}{::Rrrrrowrrr::}
-{423}{}{::Blows you a kiss::}
-{424}{}{Wanna get together?}
-{425}{}{I'm not cheap, but I am on special.}
-{426}{}{Tying you up costs extra.}
-{427}{}{Where did I leave my whip?}
-{428}{}{Ready like a freddie.}
-{429}{}{I had to dress up like WILMA last night, fer Chrissakes.}
-{430}{}{I was with Myron last night. For about five seconds.}
-{431}{}{Wish they'd come out with some Jet-smelling body oils...}
-{432}{}{My ass is going to fall off, Myron keeps it up.}
-{433}{}{Damn Temperance Union came around again...}
-{434}{}{::Whistles::}
-{435}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
-{436}{}{Want me to tighten your screws, slaver?}
-{437}{}{I'd rather be with Avellone.}
-{438}{}{I wish Nick Kesting was here. We could talk for hours!}
-{439}{}{Nick Kesting is a really nice guy. We have great conversations.}
-{440}{}{Tommy the Balls is sooo dreamy.}
-{441}{}{Well, well. Look who just rolled into town...}
-{442}{}{You look like someone with some time to burn.}
-{443}{}{Oh, boy! A tourist!}
-{444}{}{Biting is extra.}
-{445}{}{My name's Easy, slaver-girl. What's yours?}
-{446}{}{Hey, slaver-girl. Looking for the other woman?}
-{447}{}{Looking for a taste of the other side, sweetheart?}
-{448}{}{Need a "slave" for the evening, slaver-girl?}
-{449}{}{Need someone to warm your tent, slaver-girl?}
-{450}{}{Need someone to share your bedroll, slaver-girl?}
-{451}{}{Wanna dance, slaver-girl?}
-{452}{}{Slaver-girl, you ain't never had love 'til you had Reno love.}
-{453}{}{Wanna fly, slaver-girl?}
-{454}{}{Lose your way, slaver-girl?}
-{455}{}{Looking for a good time, slaver-girl?}
-{456}{}{Didn't realize the slaver guild had women now...}
-{457}{}{Where's the fire, slaver-girl?}
-{458}{}{That slaver girl's pretty foxy.}
-{459}{}{That slaver-girl makes my Geiger counter tick.}
-{460}{}{I guarantee I'm better in the sack than that robot following you around.}
-{461}{}{Is that robot FULLY functional?}
-{462}{}{Is that some kind of slot machine that's following you around?}
-{463}{}{Is that a robo-slot machine?}
-{464}{}{Does your robot do tricks? Uh... magic tricks, I mean.}
-{465}{}{Tell me that ain't a mutant.}
-{466}{}{That mutant'll be extra. LOTS extra.}
-{467}{}{Uh-oh. Mutants in New Reno. Must mean trouble.}
-{468}{}{That mutant is one big mutha.}
-{469}{}{That mutant looks like he could crush me in one hand. Hmmmnnn.}
-{470}{}{I wouldn't even know what to charge for a mutant.}
-{471}{}{Hey, Myron!}
-{472}{}{Myron! Honey! When are you going to come back and see lil' ol me?}
+{423}{}{::Joga um beijo pra você::}
+{424}{}{Quer ficar juntinho de mim?}
+{425}{}{Eu não sou muito barata, mas sou especial.}
+{426}{}{Fazer com cordas custa mais caro.}
+{427}{}{Onde eu deixei meu chicote?}
+{428}{}{Preparado como um libertino.}
+{429}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.}
+{430}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}
+{431}{}{Bem que eles podiam vir com um óleo corporal com cheiro de Jet...}
+{432}{}{Se minha bunda cair, o Myron mantém ela levantada.}
+{433}{}{Droga, o Sindicato da Abstinência está de volta…}
+{434}{}{::Assobios::}
+{435}{}{Eu garanto que sou melhor que esse Pip Boy que você está usando.}
+{436}{}{Quer que eu aperte seu parafuso, escravagista?}
+{437}{}{Eu gostaria de estar com o Avellone agora.}
+{438}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
+{439}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
+{440}{}{O Tommy the Balls é um sonho.}
+{441}{}{Bem, bem. Olha só quem está na cidade...}
+{442}{}{Você parece um cara com tempo de sobra pra se divertir.}
+{443}{}{Olha! Um turista!}
+{444}{}{Morder custa mais caro.}
+{445}{}{Meu nome é Fácil, garota-escravagista. Qual é o seu?}
+{446}{}{Ei, garota-escravagista. Procurando por outra mulher?}
+{447}{}{Procurando pelo sabor do outro lado, coração?}
+{448}{}{Precisa de uma "escrava" pra hoje a tarde, garota-escravagista?}
+{449}{}{Precisa de alguém pra esquentar sua barraca, garota-escravagista?}
+{450}{}{Precisa de alguém pra dividir o colchonete, garota-escravagista?}
+{451}{}{Quer dançar, garota-escravagista?}
+{452}{}{Garota-escravagista, você não fez amor até provar o amor de Reno.}
+{453}{}{Quer voar, garota-escravagista?}
+{454}{}{Está perdida, garota-escravagista?}
+{455}{}{Procurando por diversão, garota-escravagista?}
+{456}{}{Não sabia que a guilda dos escravagistas tinha mulheres...}
+{457}{}{Onde é o incêndio, garota-escravagista?}
+{458}{}{Aquela garota-escravagista é muito gostosa.}
+{459}{}{Aquela garota-escravagista faz até o meu Geiger counter apitar.}
+{460}{}{Eu garanto que sou muito melhor do que esse robô te seguindo.}
+{461}{}{Esse robô está funcionando COMPLETAMENTE?}
+{462}{}{Isso é um tipo de caça-níquel que está te seguindo por aí?}
+{463}{}{Isso é um robô caça-níqueis?}
+{464}{}{O seu robô faz truques? Uh…truques de mágica, que eu quis dizer.}
+{465}{}{Diga que aquilo não é um mutante.}
+{466}{}{Com aquele mutante vai ser mais caro. MUITO mais caro.}
+{467}{}{Oh-oh. Mutantes em New Reno. Deve significar encrenca.}
+{468}{}{Aquele mutante é um dos grandes.}
+{469}{}{Aquele mutante deve conseguir me esmagar com uma mão. Hmmmnnn.}
+{470}{}{Eu nem sei o que fazer com um mutante.}
+{471}{}{Ei, Myron!}
+{472}{}{Myron! Querido! Quando é que você vai voltar pra me ver?}
 {473}{}{My-ron. Myyyyyy-ron.}
-{474}{}{Myron, who's your cute friend?}
-{475}{}{Myron, honey! Myron! You looking for some action?}
-{476}{}{Yoo-hoo! Myron!}
-{477}{}{I been missing you, Myron!}
-{478}{}{Myron, you are sooooo dreamy. Well, sort of.}
-{479}{}{Myron, when are you gonna see me again?}
-{480}{}{Can you get me some Jet, Myron?}
-{481}{}{When are you gonna set me up with some Jet, Myron?}
-{482}{}{Can you help me fly, Myron?}
-{483}{}{My name's Easy. What's yours?}
-{484}{}{Need a little company?}
-{485}{}{Let me teach you some things only a woman can teach.}
-{486}{}{Need someone to warm your tent?}
-{487}{}{Need someone to share your bedroll?}
-{488}{}{Got some hot-rocks there, pal.}
-{489}{}{Nasty little crotch cobra there.}
-{490}{}{Lookin' for some action?}
-{491}{}{You ain't never had love 'til you had Reno love.}
-{492}{}{Looking for a date?}
-{493}{}{Heard there was some trouble on Commercial Row...}
-{494}{}{Looking for some company?}
-{495}{}{Only sports going on in Reno nowdays in tonsil hockey...}
-{496}{}{Wanna dance?}
-{497}{}{Forget the slot machines. My payoff's MUCH better.}
-{498}{}{I can't believe how many strippers were at Feargus' bachelor party.}
-{499}{}{New stranger in town, looks like...}
-{500}{}{Can you hammer a six-inch spike through a board with your penis?}
-{501}{}{Wanna fly?}
-{502}{}{Haven't seen any caravans from Redding in a while.}
-{503}{}{Nice dill.}
-{504}{}{Let me cheer you up, sad clown.}
-{505}{}{Lose your way, cowboy?}
-{506}{}{Got a gun you need to unload, soldier?}
-{507}{}{That man could melt metal.}
-{508}{}{Too many streetwalkers in this town, not enough chips to go around.}
-{509}{}{I've been walking this street since last night...}
-{510}{}{Need a friend for the evening? Or just ten minutes?}
-{511}{}{Looking for a good time?}
-{512}{}{Looking to go down-town?}
-{513}{}{I like the look of your gecko.}
-{514}{}{That a gecko in your pocket?}
-{515}{}{You need a guide around town, sugah?}
-{516}{}{Where's the fire?}
-{517}{}{Childe, let me make you a man.}
-{518}{}{Sometimes the way women in this town are designed offends me.}
-{519}{}{Wanna pretend we're deathclaws in mating season?}
-{520}{}{That man makes my Geiger counter tick.}
-{521}{}{If I have to talk to you afterwards, that's extra.}
-{522}{}{Anything I can help you with, stranger?}
-{523}{}{You ain't never had love 'til you had Reno love.}
-{524}{}{Your friend with the bone in his nose... great gimmick.}
-{525}{}{Does your friend with the bone do tricks with his nose or sumthin'?}
-{526}{}{Maybe I should put a bone in my nose. Might attract more female customers.}
-{527}{}{That fella's got a bone in his nose the size of my arm. Keeee-rist.}
-{528}{}{I don't even want to know how that boy got that bone in his nose.}
-{529}{}{Is your friend with the bone in his nose in the business?}
-{530}{}{How much does your friend with the bone in his nose charge?}
-{531}{}{For thirty chips, I can make that bone in your friend's nose larger.}
-{532}{}{Your friend with the bone in his nose over-compensating for something?}
-{533}{}{I finally installed that padded headboard.}
-{534}{}{Taste of paradise? Ten chips.}
-{535}{}{Myron: All wax. No wick.}
-{536}{}{Myron's a real twister.}
-{537}{}{AC-DC, B n' D, whatever.}
-{538}{}{What does he expect me to do, bend down for him?}
-{539}{}{Keep thinking that Reno sign's gonna fall down...}
-{540}{}{That Bishop girl is a bed-bunny.}
-{541}{}{She ain't no Jet reliant, she's a BONE reliant.}
-{542}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
-{543}{}{Felt like I was in a marathon last night...}
-{544}{}{Looking for love, honey?}
-{545}{}{Wish Myron would move away. Far away.}
-{546}{}{I can do ANYTHING you want... for the right price.}
-{547}{}{I'm ready to go, honey. How about you?}
-{548}{}{::Whistles at you::}
-{549}{}{I hate teabags.}
-{550}{}{Take a gamble on me, honey.}
-{551}{}{Looking for a good time?}
-{552}{}{Pure Reno love, right here.}
-{553}{}{I'll give you some play.}
-{554}{}{I'm Filthy Spice.}
-{555}{}{I'm Homely Spice.}
-{556}{}{I'm Slutty Spice.}
-{557}{}{I'm Old Spice.}
-{558}{}{I'm Syphilis... er, Slutty Spice.}
-{559}{}{I'm Dirty Spice.}
-{560}{}{Wranglers in the dust, that's what I want.}
-{561}{}{I've got a girlfriend if you want a double-header.}
-{562}{}{Wish Myron was gay.}
-{563}{}{New blood in town...}
-{564}{}{Still don't know why they call it Virgin Street...}
-{565}{}{I wish he'd wear a paper bag sometimes...}
-{566}{}{Buy a girl a drink?}
-{567}{}{Take a lonely lady on the town?}
-{568}{}{Oh, boy! A tourist!}
-{569}{}{Come over here, honey, the show's about to begin...}
-{570}{}{I heard some of the girls uptown killed their pimp.}
-{571}{}{Hellooooo, stranger.}
-{572}{}{That Jules better leave me alone.}
-{573}{}{Still got that bruise from the headboard...}
-{574}{}{Been worn out ever since that last convention...}
-{575}{}{I wish those tribals would go to some other town.}
-{576}{}{I felt the Earth move, but it was just the chili.}
-{577}{}{Make me melt.}
-{578}{}{He keeps it up, he's gonna bust his ticker...}
-{579}{}{The buzzing of the neon keeps driving me crazy...}
-{580}{}{I'm a virgin. I'm just not very good at it.}
-{581}{}{To think I came from the Den for this...}
-{582}{}{Hey, stranger! Need a guide?}
-{583}{}{Jules keeps wanting freebies.}
-{584}{}{I hear the families are getting tense again.}
-{585}{}{Things are pretty slow. I wish that caravan would show.}
-{586}{}{So he dresses up in this Deathclaw costume, then...}
-{587}{}{I need help getting out of this dress.}
-{588}{}{Zip me up? Then down again?}
-{589}{}{Mmm-mmm. Looks like mating season.}
-{590}{}{Wanna waste some time?}
-{591}{}{I kicked Jules in his family jewels last week.}
-{592}{}{They don't call me Lady Lucky for nothing.}
-{593}{}{Love those brahmin-flavored condoms.}
-{594}{}{Show a lady a good time?}
-{595}{}{Wish they would invent a sexual placebo for Myron.}
-{596}{}{Need a date, tribal?}
-{597}{}{Want to pow-wow, tribal?}
-{598}{}{Want to do the rain dance in my bedroom, tribal?}
-{599}{}{All you need is one night with me.}
-{600}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{601}{}{You got the chips, I got the time.}
-{602}{}{Can you help me? I'm looking for my lost virginity.}
-{603}{}{I'm a virgin, but I need the money.}
-{604}{}{Be gentle, it's my first time. Today.}
-{605}{}{Me so horny.}
-{606}{}{You got the craving, I got the saving.}
-{607}{}{Let me awaken your inner child.}
-{608}{}{Wanna dance, sweetheart?}
-{609}{}{Lookin' to stake a claim?}
-{610}{}{Wanna make me moan?}
+{474}{}{Myron, quem é essa gracinha com você?}
+{475}{}{Myron, querido! Myron! Está procurando por diversão?}
+{476}{}{Iuu-huu! Myron!}
+{477}{}{Fiquei com saudades, Myron!}
+{478}{}{Myron, você é um sonho. Bem, parte dele.}
+{479}{}{Myron, quando é que você vem me ver de novo?}
+{480}{}{Você pode me arrumar um pouco de Jet, Myron?}
+{481}{}{Quando é que você vai me trazer mais Jet, Myron?}
+{482}{}{Pode me ajudar a voar, Myron?}
+{483}{}{Meu nome é Fácil. Qual é o seu?}
+{484}{}{Precisa de companhia?}
+{485}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
+{486}{}{Precisa de alguém pra esquentar sua tenda?}
+{487}{}{Precisa de alguém pra dividir o colchonete?}
+{488}{}{Tem alguma bala quente aí?}
+{489}{}{Bela cobra, hein.}
+{490}{}{Procurando por ação?}
+{491}{}{Você nunca fez amor se não provou o amor de Reno.}
+{492}{}{Procurando por um encontro?}
+{493}{}{Ouvi dizer que teve confusão em Commercial Row...}
+{494}{}{Procurando por companhia?}
+{495}{}{O único esporte rolando em Reno agora é o hockey de amídalas...}
+{496}{}{Quer dançar?}
+{497}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
+{498}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
+{499}{}{Forasteiro novo na cidade, parece...}
+{500}{}{Você consegue martelar um prego de 15 centímetros numa tábua com o seu pênis?}
+{501}{}{Quer voar?}
+{502}{}{Não vejo caravanas de Redding faz um bom tempo.}
+{503}{}{Bela erva.}
+{504}{}{Deixa eu te fazer sorrir, palhaço tristonho.}
+{505}{}{Está perdido, cow-boy?}
+{506}{}{Tem uma arma que precisa descarregar, soldado?}
+{507}{}{Aquele homem deve gozar como um touro.}
+{508}{}{Tantos pedestres nessa cidade, e nada de dinheiro.}
+{509}{}{Eu estou andando nessa rua desde ontem à noite...}
+{510}{}{Precisa de uma amiga pra hoje à noite? Ou pelo menos por dez minutos?}
+{511}{}{Procurando por diversão?}
+{512}{}{Quer ir no centro?}
+{513}{}{Gostei do seu gecko.}
+{514}{}{Isso é um gecko no seu bolso?}
+{515}{}{Precisa de uma guia, docinho?}
+{516}{}{Onde é o incêndio?}
+{517}{}{Garoto, deixe-me transformá-lo em um homem.}
+{518}{}{Às vezes a maneira como as mulheres dessa cidade são desenhadas me ofende.}
+{519}{}{Quer fazer de conta que somos deathclaws em época de acasalamento?}
+{520}{}{Aquele homem faz até o meu Geiger counter apitar.}
+{521}{}{Se eu tiver que conversar com você depois, vai custar mais.}
+{522}{}{Posso ajudar?}
+{523}{}{Você nunca fez amor se não provou o amor de Reno.}
+{524}{}{Seu amigo com o osso no nariz... ótimo truque.}
+{525}{}{O seu amigo com osso faz truques com o nariz ou algo assim?}
+{526}{}{Talvez eu coloque um osso no meu nariz. Deve atrair mais clientes mulheres.}
+{527}{}{Aquele cara tem um osso do tamanho do meu braço no nariz. Eca!}
+{528}{}{Eu nem quero saber como aquele cara conseguiu enfiar aquele osso no nariz.}
+{529}{}{O seu amigo com osso no nariz está no negócio?}
+{530}{}{Quanto o seu amigo com osso no nariz cobra?}
+{531}{}{Por trinta pratas eu faço o osso no nariz do seu amigo ficar maior.}
+{532}{}{O seu amigo com osso no nariz está se punindo por algo?}
+{533}{}{Finalmente instalei aquela cabeceira acolchoada.}
+{534}{}{Quer provar o paraíso? Dez pratas.}
+{535}{}{Myron: Muita droga. Nenhum pênis.}
+{536}{}{O Myron é um nerd chato pra caralho.}
+{537}{}{Fio-terra, sadismo, qualquer coisa.}
+{538}{}{O que ele espera que eu faça? Que eu me curve pra ele?}
+{539}{}{Ainda acho que a placa de Reno vai cair...}
+{540}{}{Aquela filha do Bishop é uma safada.}
+{541}{}{Ela não é uma viciada em Jet, ela é viciada em OSSO.}
+{542}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
+{543}{}{Parece que estive numa maratona ontem...}
+{544}{}{Procurando por amor, docinho?}
+{545}{}{Gostaria que o Myron se mudasse. Pra longe.}
+{546}{}{Eu faço TUDO o que quiser... por um preço.}
+{547}{}{Estou pronta pra ir, gracinha. E você?}
+{548}{}{::Assovia pra você::}
+{549}{}{Eu odeio bêbados.}
+{550}{}{Faça um aposta comigo, meu bem.}
+{551}{}{Procurando por diversão?}
+{552}{}{O puro amor de Reno, bem aqui.}
+{553}{}{Vou te dar um pouco de ação.}
+{554}{}{Eu sou a amante selvagem.}
+{555}{}{Eu sou a amante doméstica.}
+{556}{}{Eu sou a amante safada.}
+{557}{}{Eu sou a amante madura.}
+{558}{}{Eu sou a amante sífil... digo, safada.}
+{559}{}{Eu sou a amante sem vergonha.}
+{560}{}{Eu não quero saber de caras broxas.}
+{561}{}{Eu posso arrumar uma amiga se quiser.}
+{562}{}{Queria que o Myron fosse gay.}
+{563}{}{Sangue novo na cidade...}
+{564}{}{Ainda não consigo entender porque eles chamam essa rua de Virgin Street...}
+{565}{}{Gostaria que ele usasse um saco na cabeça de vez em quando...}
+{566}{}{Paga um drinque pra uma garota?}
+{567}{}{Quer levar uma garota solitária pra passear?}
+{568}{}{Olha! Um turista!}
+{569}{}{Vem aqui, meu bem, o show está prestes a começar...}
+{570}{}{Ouvi dizer que algumas garotas da outra rua mataram o cafetão delas.}
+{571}{}{Oiiiii, estranho.}
+{572}{}{É melhor aquele Jules me deixar em paz.}
+{573}{}{Ainda estou com aquele machucado por causa da cabeceira...}
+{574}{}{Estou exausta desde aquela última convenção...}
+{575}{}{Queria que aqueles tribais fossem pra outra cidade.}
+{576}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
+{577}{}{Quer me fazer gozar?}
+{578}{}{Se ele continuar segurando, vai estourar o saco...}
+{579}{}{Esse bzz bzz do neon me dá dor de cabeça...}
+{580}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
+{581}{}{E pensar que eu vim de Den pra isso...}
+{582}{}{Ei, estranho! Precisa de uma guia?}
+{583}{}{O Jules continua querendo fazer de graça.}
+{584}{}{Ouvi dizer que as famílias estão começando a ficar tensas de novo.}
+{585}{}{O negócio está fraco. Bem que podia passar uma caravana por aqui.}
+{586}{}{Então ele se fantasiou de deathclaw, aí ele...}
+{587}{}{Preciso de ajuda pra tirar esse vestido.}
+{588}{}{Subir o meu zipper? E descer de novo?}
+{589}{}{Mmm-mmm. Parece que está na época de acasalamento.}
+{590}{}{Quer gastar um pouco de tempo?}
+{591}{}{Eu chutei as bolas do Jules semana passada.}
+{592}{}{Não me chamam de Senhorita da Sorte à toa.}
+{593}{}{Amo essas camisinhas com cheiro de brahmin.}
+{594}{}{Quer mostrar pra uma garota quem é que manda?}
+{595}{}{Queria que eles inventassem um placebo sexual pro Myron.}
+{596}{}{Precisa de um encontro, tribal?}
+{597}{}{Quer acasalar, tribal?}
+{598}{}{Quer fazer a dança da chuva na minha cama, tribal?}
+{599}{}{Tudo o que você precisa é de uma noite comigo.}
+{600}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{601}{}{Você tem a grana, eu tenho o tempo.}
+{602}{}{Você pode me ajudar? Estou procurando pela minha virgindade.}
+{603}{}{Eu sou virgem, mas preciso de dinheiro.}
+{604}{}{Seja gentil, é minha primeira vez. Hoje.}
+{605}{}{Estou tão excitada.}
+{606}{}{Você tem a excitação, eu tenho a solução.}
+{607}{}{Deixa eu acordar sua criança interior.}
+{608}{}{Quer dançar, coração?}
+{609}{}{Quer descarregar a raiva?}
+{610}{}{Quer me fazer gemer?}
 {611}{}{::Purrrrr::}
 {612}{}{::Rrrrrowrrr::}
-{613}{}{::Blows you a kiss::}
-{614}{}{Been up since last night...}
-{615}{}{I'm not cheap, but I am on special.}
-{616}{}{Tying you up costs extra.}
-{617}{}{Where did I leave my whip?}
-{618}{}{Ready like a freddie.}
-{619}{}{I had to dress up like WILMA last night, fer Chrissakes.}
-{620}{}{I was with Myron last night. For about five seconds.}
-{621}{}{Looking to pop a clip?}
-{622}{}{Wish they'd come out with some Jet-smelling body oils...}
-{623}{}{Want to help a virgin lose her virginity?}
-{624}{}{My ass is going to fall off, Myron keeps it up.}
-{625}{}{Damn Temperance Union came around again...}
-{626}{}{::Whistles::}
-{627}{}{Biting is extra.}
-{628}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
-{629}{}{Want me to tighten your screws?}
-{630}{}{I'd rather be with Avellone.}
-{631}{}{I wish Nick Kesting was here. We could talk for hours!}
-{632}{}{Nick Kesting is a really nice guy. We have great conversations.}
-{633}{}{Tommy the Balls is sooo dreamy.}
-{634}{}{Well, well. Look who just rolled into town.}
-{635}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{636}{}{Take a gamble on me, honey.}
-{637}{}{My name's Easy, girl. What's yours?}
-{638}{}{Hey, cutie. Looking for the other woman?}
-{639}{}{Looking for a taste of the other side, sweetheart?}
-{640}{}{Need a little company?}
-{641}{}{Girl, let me teach you some things only a WOMAN can teach.}
-{642}{}{Need someone to warm your tent, girl?}
-{643}{}{Need someone to share your bedroll, girl?}
-{644}{}{Wanna dance, girl?}
-{645}{}{Forget the slot machines, girl. My payoff's MUCH better.}
-{646}{}{Girl, you ain't never had love 'til you had Reno love.}
-{647}{}{Wanna fly, girl?}
-{648}{}{Lose your way, cowgirl?}
-{649}{}{Got a gun you need to unload, G.I. Jane?}
-{650}{}{Looking for a good time, girl?}
-{651}{}{Looking to go down-town, girlie?}
-{652}{}{You need a guide around town, sugah?}
-{653}{}{Where's the fire, girl?}
-{654}{}{That woman makes my Geiger counter tick.}
-{655}{}{My name's Easy. What's yours?}
-{656}{}{Need a little company?}
-{657}{}{Let me teach you some things only a woman can teach.}
-{658}{}{Need someone to warm your tent?}
-{659}{}{Need someone to share your bedroll?}
-{660}{}{Got some hot-rocks there, pal.}
-{661}{}{Nasty little crotch cobra there.}
-{662}{}{Lookin' for some action?}
-{663}{}{You ain't never had love 'til you had Reno love.}
-{664}{}{Looking for a date?}
-{665}{}{Heard there was some trouble on Commercial Row...}
-{666}{}{Looking for some company?}
-{667}{}{Only sports going on in Reno nowdays in tonsil hockey...}
-{668}{}{Wanna dance?}
-{669}{}{Forget the slot machines. My payoff's MUCH better.}
-{670}{}{I can't believe how many strippers were at Feargus' bachelor party.}
-{671}{}{New stranger in town, looks like...}
-{672}{}{Can you hammer a six-inch spike through a board with your penis?}
-{673}{}{Wanna fly?}
-{674}{}{Haven't seen any caravans from Redding in a while...}
-{675}{}{Nice dill.}
-{676}{}{Let me cheer you up, sad clown.}
-{677}{}{Lose your way, cowboy?}
-{678}{}{Got a gun you need to unload, soldier?}
-{679}{}{That man could melt metal.}
-{680}{}{Too many streetwalkers in this town, not enough chips to go around.}
-{681}{}{Been walking this street since last night...}
-{682}{}{Need a friend for the evening? Or just ten minutes?}
-{683}{}{Looking for a good time?}
-{684}{}{Looking to go down-town?}
-{685}{}{I like the look of your gecko.}
-{686}{}{That a gecko in your pocket?}
-{687}{}{Need a guide around town, sugah?}
-{688}{}{Where's the fire?}
-{689}{}{Childe, let me make you a man.}
+{613}{}{::Joga um beijo pra você::}
+{614}{}{Estou aqui desde ontem à noite...}
+{615}{}{Eu não sou muito barata, mas sou especial.}
+{616}{}{Fazer com cordas custa mais caro.}
+{617}{}{Onde eu deixei meu chicote?}
+{618}{}{Preparado como um libertino.}
+{619}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.}
+{620}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}
+{621}{}{Quer dar uma descarregada?}
+{622}{}{Bem que eles podiam vir com um óleo corporal com cheiro de Jet...}
+{623}{}{Que ajudar uma virgem a se tornar mulher?}
+{624}{}{Se minha bunda cair, o Myron mantém ela levantada.}
+{625}{}{Droga, o Sindicato da Abstinência está de volta…}
+{626}{}{::Assobios::}
+{627}{}{Morder custa mais caro.}
+{628}{}{Eu garanto que sou melhor que esse Pip Boy que você está usando.}
+{629}{}{Quer que eu aperte seu parafuso?}
+{630}{}{Eu gostaria de estar com o Avellone agora.}
+{631}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
+{632}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
+{633}{}{O Tommy the Balls é um sonho.}
+{634}{}{Bem, bem. Olha só quem está na cidade.}
+{635}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{636}{}{Faça um aposta comigo, meu bem.}
+{637}{}{Meu nome é Fácil, garota. Qual é o seu?}
+{638}{}{Ei, gracinha. Procurando por outra mulher?}
+{639}{}{Procurando pelo sabor do outro lado, coração?}
+{640}{}{Precisa de companhia?}
+{641}{}{Garota, deixa eu te ensinar uma coisa que só uma MULHER pode ensinar.}
+{642}{}{Precisa de alguém pra esquentar sua tenda, garota?}
+{643}{}{Precisa de alguém pra dividir o colchonete, garota?}
+{644}{}{Quer dançar garota?}
+{645}{}{Esqueça os caça-níqueis, garota. Minha recompensa é MUITO melhor.}
+{646}{}{Garota, você nunca fez amor se não experimentou o amor de Reno.}
+{647}{}{Quer voar, garota?}
+{648}{}{Está perdida, garota?}
+{649}{}{Tem alguma arma que precisa descarregar, querida?}
+{650}{}{Procurando por diversão, garota?}
+{651}{}{Quer ir pro centro, garotinha?}
+{652}{}{Precisa de uma guia, docinho?}
+{653}{}{Onde é o incêndio, garota?}
+{654}{}{Aquela mulher faz até o meu Geiger counter apitar.}
+{655}{}{Meu nome é Fácil. Qual é o seu?}
+{656}{}{Precisa de companhia?}
+{657}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
+{658}{}{Precisa de alguém pra esquentar sua tenda?}
+{659}{}{Precisa de alguém pra dividir o colchonete?}
+{660}{}{Tem alguma bala quente aí?}
+{661}{}{Bela cobra, hein.}
+{662}{}{Procurando por ação?}
+{663}{}{Você nunca fez amor se não provou o amor de Reno.}
+{664}{}{Procurando por um encontro?}
+{665}{}{Ouvi dizer que teve confusão em Commercial Row...}
+{666}{}{Procurando por companhia?}
+{667}{}{O único esporte rolando em Reno agora é o hockey de amídalas...}
+{668}{}{Quer dançar?}
+{669}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
+{670}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
+{671}{}{Forasteiro novo na cidade, parece...}
+{672}{}{Você consegue martelar um prego de 15 centímetros numa tábua com o seu pênis?}
+{673}{}{Quer voar?}
+{674}{}{Não vejo caravanas vindo de Redding faz um bom tempo...}
+{675}{}{Bela erva.}
+{676}{}{Deixa eu te fazer sorrir, palhaço tristonho.}
+{677}{}{Está perdido, cow-boy?}
+{678}{}{Tem uma arma que precisa descarregar, soldado?}
+{679}{}{Aquele homem deve gozar como um touro.}
+{680}{}{Tantos pedestres nessa cidade, e nada de dinheiro.}
+{681}{}{Estou andando nessa rua desde ontem à noite...}
+{682}{}{Precisa de uma amiga pra hoje à noite? Ou pelo menos por dez minutos?}
+{683}{}{Procurando por diversão?}
+{684}{}{Quer ir no centro?}
+{685}{}{Gostei do seu gecko.}
+{686}{}{Isso é um gecko no seu bolso?}
+{687}{}{Precisa de uma guia, docinho?}
+{688}{}{Onde é o incêndio?}
+{689}{}{Garoto, deixe-me transformá-lo em um homem.}
 {690}{}{Mmmmm-mmmmm.}
-{691}{}{Wanna pretend we're deathclaws in mating season?}
-{692}{}{That man makes my Geiger counter tick.}
-{693}{}{If I have to talk to you aftewards, that's extra.}
-{694}{}{Anything I can help you with, stranger?}
-{695}{}{You ain't never had love 'til you had Reno love.}
-{696}{}{I finally installed that padded headboard.}
-{697}{}{Taste of paradise'll cost you ten chips.}
-{698}{}{Myron: All wax. No wick.}
-{699}{}{Myron's a real twister.}
-{700}{}{AC-DC, B n' D, whatever.}
-{701}{}{What does he expect me to do, bend down for him?}
-{702}{}{Keep thinking that Reno sign's gonna fall down...}
-{703}{}{That Bishop girl is a bed-bunny.}
-{704}{}{She ain't no Jet reliant, she's a BONE reliant.}
-{705}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
-{706}{}{Felt like I was in a marathon last night...}
-{707}{}{Looking for love, honey?}
-{708}{}{Wish Myron would move away. Far away.}
-{709}{}{I can do ANYTHING you want... for the right price.}
-{710}{}{I'm ready to go, honey. How about you?}
-{711}{}{::Whistles at you::}
-{712}{}{I hate teabags.}
-{713}{}{Take a gamble on me, honey.}
-{714}{}{Looking for a good time?}
-{715}{}{Pure Reno love, right here.}
-{716}{}{I'll give you some play.}
-{717}{}{I'm Filthy Spice.}
-{718}{}{I'm Homely Spice.}
-{719}{}{I'm Slutty Spice.}
-{720}{}{I'm Old Spice.}
-{721}{}{I'm Syphilis... er, Slutty Spice.}
-{722}{}{I'm Dirty Spice.}
-{723}{}{Wranglers in the dust, that's what I want.}
-{724}{}{I've got a girlfriend if you want a double-header.}
-{725}{}{Wish Myron was gay.}
-{726}{}{New blood in town...}
-{727}{}{Still don't know why they call it Virgin Street...}
-{728}{}{I wish he'd wear a paper bag sometimes...}
-{729}{}{Buy a girl a drink?}
-{730}{}{Take a lonely lady on the town?}
-{731}{}{Oh, boy! A tourist!}
-{732}{}{Come over here, honey, the show's about to begin...}
-{733}{}{I heard some of the girls uptown killed their pimp.}
-{734}{}{Helloooo, stranger.}
-{735}{}{That Jules better leave me alone.}
-{736}{}{Still got that bruise from the headboard...}
-{737}{}{Been worn out ever since that last convention...}
-{738}{}{Wish tribals would stop coming through here.}
-{739}{}{I felt the Earth move, but it was just the chili.}
-{740}{}{Make me melt.}
-{741}{}{He keeps it up, he's gonna bust his ticker...}
-{742}{}{Buzzing of the neon is driving me crazy...}
-{743}{}{I'm a virgin. I'm just not very good at it.}
-{744}{}{To think I came from the Den for this...}
-{745}{}{Hey, stranger! Need a guide?}
-{746}{}{Jules keeps wanting freebies.}
-{747}{}{I hear the families are getting tense again.}
-{748}{}{Things are pretty slow. I wish that caravan would show.}
-{749}{}{So he dresses up in this Deathclaw costume, then...}
-{750}{}{I need help getting out of this dress.}
-{751}{}{Zip me up? Then down again?}
-{752}{}{Mmm-mmm. Looks like mating season.}
-{753}{}{Wanna waste some time?}
-{754}{}{I kicked Jules in his family jewels last week.}
-{755}{}{They don't call me Lady Lucky for nothing.}
-{756}{}{Love those brahmin-flavored condoms.}
-{757}{}{Show a lady a good time?}
-{758}{}{Wish they would invent a sexual placebo for Myron.}
-{759}{}{Need a date, tribal?}
-{760}{}{Want to pow-wow, tribal?}
-{761}{}{Want to do the rain dance in my bedroom, tribal?}
-{762}{}{All you need is one night with me.}
-{763}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{764}{}{You got the chips, I got the time.}
-{765}{}{Can you help me? I'm looking for my lost virginity.}
-{766}{}{I'm a virgin, but I need the money.}
-{767}{}{Be gentle, it's my first time. Today.}
-{768}{}{Me so horny.}
-{769}{}{You got the craving, I got the saving.}
-{770}{}{Let me awaken your inner child.}
-{771}{}{Wanna dance, sweetheart?}
-{772}{}{Lookin' to stake a claim?}
-{773}{}{Wanna make me moan?}
+{691}{}{Quer fazer de conta que somos deathclaws em época de acasalamento?}
+{692}{}{Aquele homem faz até o meu Geiger counter apitar.}
+{693}{}{Se eu tiver que conversar com você depois do serviço, vai custar mais caro.}
+{694}{}{Posso ajudar?}
+{695}{}{Você nunca fez amor se não provou o amor de Reno.}
+{696}{}{Finalmente instalei aquela cabeceira acolchoada.}
+{697}{}{Provar o paraíso vai te custar dez pratas.}
+{698}{}{Myron: Muita droga. Nenhum pênis.}
+{699}{}{O Myron é um nerd chato pra caralho.}
+{700}{}{Fio-terra, sadismo, qualquer coisa.}
+{701}{}{O que ele espera que eu faça? Que eu me curve pra ele?}
+{702}{}{Ainda acho que a placa de Reno vai cair...}
+{703}{}{Aquela filha do Bishop é uma safada.}
+{704}{}{Ela não é uma viciada em Jet, ela é viciada em OSSO.}
+{705}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
+{706}{}{Parece que estive numa maratona ontem...}
+{707}{}{Procurando por amor, docinho?}
+{708}{}{Gostaria que o Myron se mudasse. Pra longe.}
+{709}{}{Eu faço TUDO o que quiser... por um preço.}
+{710}{}{Estou pronta pra ir, gracinha. E você?}
+{711}{}{::Assovia pra você::}
+{712}{}{Eu odeio bêbados.}
+{713}{}{Faça um aposta comigo, meu bem.}
+{714}{}{Procurando por diversão?}
+{715}{}{O puro amor de Reno, bem aqui.}
+{716}{}{Vou te dar um pouco de ação.}
+{717}{}{Eu sou a amante selvagem.}
+{718}{}{Eu sou a amante doméstica.}
+{719}{}{Eu sou a amante safada.}
+{720}{}{Eu sou a amante madura.}
+{721}{}{Eu sou a amante sífil... digo, safada.}
+{722}{}{Eu sou a amante sem vergonha.}
+{723}{}{Eu não quero saber de caras broxas.}
+{724}{}{Eu posso arrumar uma amiga se quiser.}
+{725}{}{Queria que o Myron fosse gay.}
+{726}{}{Sangue novo na cidade...}
+{727}{}{Ainda não consigo entender porque eles chamam essa rua de Virgin Street...}
+{728}{}{Gostaria que ele usasse um saco na cabeça de vez em quando...}
+{729}{}{Paga um drinque pra uma garota?}
+{730}{}{Quer levar uma garota solitária pra passear?}
+{731}{}{Olha! Um turista!}
+{732}{}{Vem aqui, meu bem, o show está prestes a começar...}
+{733}{}{Ouvi dizer que algumas garotas da outra rua mataram o cafetão delas.}
+{734}{}{Oiiiii, estranho.}
+{735}{}{É melhor aquele Jules me deixar em paz.}
+{736}{}{Ainda estou com aquele machucado por causa da cabeceira...}
+{737}{}{Estou exausta desde aquela última convenção...}
+{738}{}{Queria que os tribais parassem de vir aqui.}
+{739}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
+{740}{}{Quer me fazer gozar?}
+{741}{}{Se ele continuar segurando, vai estourar o saco...}
+{742}{}{Esse bzz bzz do neon me deixa com dor de cabeça...}
+{743}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
+{744}{}{E pensar que eu vim de Den pra isso...}
+{745}{}{Ei, estranho! Precisa de uma guia?}
+{746}{}{O Jules continua querendo fazer de graça.}
+{747}{}{Ouvi dizer que as famílias estão começando a ficar tensas de novo.}
+{748}{}{O negócio está fraco. Bem que podia passar uma caravana por aqui.}
+{749}{}{Então ele se fantasiou de deathclaw, aí ele...}
+{750}{}{Preciso de ajuda pra tirar esse vestido.}
+{751}{}{Subir o meu zipper? E descer de novo?}
+{752}{}{Mmm-mmm. Parece que está na época de acasalamento.}
+{753}{}{Quer gastar um pouco de tempo?}
+{754}{}{Eu chutei as bolas do Jules semana passada.}
+{755}{}{Não me chamam de Senhorita da Sorte à toa.}
+{756}{}{Amo essas camisinhas com cheiro de brahmin.}
+{757}{}{Quer mostrar pra uma garota quem é que manda?}
+{758}{}{Queria que eles inventassem um placebo sexual pro Myron.}
+{759}{}{Precisa de um encontro, tribal?}
+{760}{}{Quer acasalar, tribal?}
+{761}{}{Quer fazer a dança da chuva na minha cama, tribal?}
+{762}{}{Tudo o que você precisa é de uma noite comigo.}
+{763}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{764}{}{Você tem a grana, eu tenho o tempo.}
+{765}{}{Você pode me ajudar? Estou procurando pela minha virgindade.}
+{766}{}{Eu sou virgem, mas preciso de dinheiro.}
+{767}{}{Seja gentil, é minha primeira vez. Hoje.}
+{768}{}{Estou tão excitada.}
+{769}{}{Você tem a excitação, eu tenho a solução.}
+{770}{}{Deixa eu acordar sua criança interior.}
+{771}{}{Quer dançar, coração?}
+{772}{}{Quer descarregar a raiva?}
+{773}{}{Quer me fazer gemer?}
 {774}{}{::Purrrrr::}
 {775}{}{::Rrrrrowrrr::}
-{776}{}{::Blows you a kiss::}
-{777}{}{Been up since last night...}
-{778}{}{I'm not cheap, but I am on special.}
-{779}{}{Tying you up costs extra.}
-{780}{}{Where did I leave my whip?}
-{781}{}{Ready like a freddie.}
-{782}{}{I had to dress up like WILMA last night, fer Chrissakes.}
-{783}{}{I was with Myron last night. For about five seconds.}
-{784}{}{Looking to pop a clip?}
-{785}{}{Wish they'd come out with some Jet-smelling body oils...}
-{786}{}{Want to help a virgin lose her virginity?}
-{787}{}{My ass is going to fall off, Myron keeps it up.}
-{788}{}{Damn Temperance Union came around again...}
-{789}{}{::Whistles::}
-{790}{}{Biting is extra.}
-{791}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
-{792}{}{Want me to tighten your screws?}
-{793}{}{I'd rather be with Avellone.}
-{794}{}{I wish Nick Kesting was here. We could talk for hours!}
-{795}{}{Nick Kesting is a really nice guy. We have great conversations.}
-{796}{}{Tommy the Balls is sooo dreamy.}
-{797}{}{Well, well. Look who just rolled into town...}
-{798}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{799}{}{Take a gamble on me, honey.}
-{800}{}{My name's Easy, girl. What's yours?}
-{801}{}{Hey, cutie. Looking for the other woman?}
-{802}{}{Looking for a taste of the other side, sweetheart?}
-{803}{}{Need a little company?}
-{804}{}{Girl, let me teach you some things only a WOMAN can teach.}
-{805}{}{Need someone to warm your tent, girl?}
-{806}{}{Need someone to share your bedroll, girl?}
-{807}{}{Wanna dance, girl?}
-{808}{}{Forget the slot machines, girl. My payoff's MUCH better.}
-{809}{}{Girl, you ain't never had love 'til you had Reno love.}
-{810}{}{Wanna fly, girl?}
-{811}{}{Lose your way, cowgirl?}
-{812}{}{Got a gun you need to unload, G.I. Jane?}
-{813}{}{Looking for a good time, girl?}
-{814}{}{Looking to go down-town, girlie?}
-{815}{}{Need a guide around town, sugah?}
-{816}{}{Where's the fire, girl?}
-{817}{}{That woman makes my Geiger counter tick.}
-{818}{}{The Enclave? President? Tell me the whole story.}
-{819}{}{Tom French scripted me. He has soft, gentle hands.}
-{820}{}{They were still fighting the WAR? Really! Good thing you wasted those bastards.}
-{821}{}{You are a total badass. I mean, you start from a simple spear-chucking tribal
- - no offense - and go on to save the whole world. You kick ass. End of story.}
-{822}{}{You should replay the game as a different kind of character.}
-{823}{}{Tell me everything about your fight with the Enclave...}
-{824}{}{Hey, if you want a freebie after saving the world, I'm sure you can talk me into it...}
-{825}{}{I don't know how you survived those Enclave bastards, but you are the bravest person I've
- ever known.}
-{826}{}{Tim Cain? Yes, he's one of my regulars.}
-{827}{}{Kiss me, you Enclave-busting animal.}
-{828}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
-{829}{}{We miss Tim Cain. He used to cook wonderful bread. Then he would spank us like small children.}
-{830}{}{I realize I'm just an NPC, but I'm deeply offended by the way women are portrayed in New Reno.}
-{831}{}{Women in this town seem like they were designed by some immature sex-starved geek
- who lives in his parent's basement.}
-{832}{}{New Reno was designed by Chris Avellone and Tom French. Both of them are sexual GODS.}
-{833}{}{Feargus got that frowny-look on his face when he saw how many float text messages I have.
- He's such a sour-puss.}
-{834}{}{You say that Locutus served with the Enclave? And I gave that bastard for free!}
-{835}{}{Some woman must have broken your heart terribly for you to have retreated inside that armored suit. Let me help.}
-{836}{}{Look, Tin Man, if you want me to dress up as Dorothy or Toto, that's extra.}
-{837}{}{Look, pal, if you want to do it, you'll have to get outta there; the metal hurts and leaves scars.}
-{838}{}{Is there a trapdoor, or do you have to get out of that thing to get a handjob?}
-{839}{}{If you get an erection in that thing, do you bruise?}
-{840}{}{Looks like you brought your own condom.}
-{841}{}{Is that some new body condom?}
-{842}{}{You must really be afraid of STDs to be in that thing.}
-{843}{}{If you want me to have sex with you in that thing, that's extra.}
-{844}{}{If you want to get it on, you'll have to step outta there.}
-{845}{}{Will my moisture make you rust?}
-{846}{}{Well... okay. But no way in HELL are you going to be on top.}
-{847}{}{How the hell do you go to the bathroom with that thing on?}
-{848}{}{Am I going to need the Jaws of Life to get you outta there?}
-{849}{}{Is that some new kind of vibrator?}
-{850}{}{I think I saw this same situation in an Anime video once.}
-{851}{}{Are you sure you aren't looking for a car wash?}
-{852}{}{Look, honey, you'll have to get outta there; the metal hurts and leaves scars.}
-{853}{}{Is that some new birth control device you're wearing?}
-{854}{}{Want to jump in the ring with me, honey? I can last at least 12 rounds.}
-{855}{}{Wanna box, }
-{856}{}{Girl, you are such a badass.}
-{857}{}{Wow, look at your muscles. You're tougher than a lot of men I know. And I know a LOT of men.}
-{858}{}{How's it going, }
-{859}{}{Looking for me?}
-{860}{}{Why don't you come around more often?}
-{861}{}{Need some company, }
-{862}{}{Nice rack you got there.}
-{863}{}{Hey... watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
-{864}{}{You're pretty sexy, girl, y'know that?}
+{776}{}{::Joga um beijo pra você::}
+{777}{}{Estou aqui desde ontem à noite...}
+{778}{}{Eu não sou muito barata, mas sou especial.}
+{779}{}{Fazer com cordas custa mais caro.}
+{780}{}{Onde eu deixei meu chicote?}
+{781}{}{Preparado como um libertino.}
+{782}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.}
+{783}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}
+{784}{}{Quer dar uma descarregada?}
+{785}{}{Bem que eles podiam vir com um óleo corporal com cheiro de Jet...}
+{786}{}{Que ajudar uma virgem a se tornar mulher?}
+{787}{}{Se minha bunda cair, o Myron mantém ela levantada.}
+{788}{}{Droga, o Sindicato da Abstinência está de volta…}
+{789}{}{::Assobios::}
+{790}{}{Morder custa mais caro.}
+{791}{}{Eu garanto que sou melhor que esse Pip Boy que você está usando.}
+{792}{}{Quer que eu aperte seu parafuso?}
+{793}{}{Eu gostaria de estar com o Avellone agora.}
+{794}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
+{795}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
+{796}{}{O Tommy the Balls é um sonho.}
+{797}{}{Bem, bem. Olha só quem está na cidade...}
+{798}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{799}{}{Faça um aposta comigo, meu bem.}
+{800}{}{Meu nome é Fácil, garota. Qual é o seu?}
+{801}{}{Ei, gracinha. Procurando por outra mulher?}
+{802}{}{Procurando pelo sabor do outro lado, coração?}
+{803}{}{Precisa de companhia?}
+{804}{}{Garota, deixa eu te ensinar uma coisa que só uma MULHER pode ensinar.}
+{805}{}{Precisa de alguém pra esquentar sua tenda, garota?}
+{806}{}{Precisa de alguém pra dividir o colchonete, garota?}
+{807}{}{Quer dançar garota?}
+{808}{}{Esqueça os caça-níqueis, garota. Minha recompensa é MUITO melhor.}
+{809}{}{Garota, você nunca fez amor se não experimentou o amor de Reno.}
+{810}{}{Quer voar, garota?}
+{811}{}{Está perdida, garota?}
+{812}{}{Tem alguma arma que precisa descarregar, querida?}
+{813}{}{Procurando por diversão, garota?}
+{814}{}{Quer ir pro centro, garotinha?}
+{815}{}{Precisa de uma guia, docinho?}
+{816}{}{Onde é o incêndio, garota?}
+{817}{}{Aquela mulher faz até o meu Geiger counter apitar.}
+{818}{}{A Enclave? Presidente? Conte-me a história toda.}
+{819}{}{Tom French fez meu script. Ele tem mãos macias e gentis.}
+{820}{}{Eles ainda estão lutando na GUERRA? Sério? Você fez bem em acabar com esses desgraçados.}
+{821}{}{Você é demais. Digo, começou como um simples tribal balançando uma lança
+ - sem ofensas - e acaba salvando o mundo inteiro. Você arrebenta. Fim de papo.}
+{822}{}{Você deveria jogar o jogo de novo com um tipo diferente de personagem.}
+{823}{}{Conte-me tudo sobre sua luta contra a Enclave...}
+{824}{}{Ei, se você quiser uma de graça depois de salvar o mundo, pode contar comigo...}
+{825}{}{Eu não sei como você sobreviveu à Enclave, mas você é a pessoa mais corajosa que eu
+ já conheci.}
+{826}{}{Tim Cain? Sim, ele é um dos meus clientes.}
+{827}{}{Beije-me, seu animal caçador de Enclave.}
+{828}{}{Ouvi dizer que os Brothers estão procurando por você. Eles querem fazer um filme baseado nas suas aventuras.}
+{829}{}{Nós sentimos falta do Tim Cain. Ele costumava cozinhar pães maravilhosos. E ele costumava nos espancar como se fossemos crianças.}
+{830}{}{Eu sei que sou só um NPC, mas estou profundamente decepcionada pelo jeito que as mulheres são retratadas em New Reno.}
+{831}{}{As mulheres nessa cidade parecem ter sido desenhadas por um maníaco sexual imaturo que mora no porão da casa dos pais.}
+{832}{}{A Tradução do jogo foi feita por uma grande equipe da internet coordenada pelo rsalvarenga.}
+{833}{}{O Feargus ficou com aquela cara pelanquenta depois de ver a quantidade de mensagens flutuantes que eu tenho.
+ Ele é nojento.}
+{834}{}{Sua pontuação foi de 192 em 208. Você deveria ter usado seu dedão do pé mutante no Horrigan.}
+{835}{}{Alguma mulher deve ter quebrado o seu coração pra você se esconder nessa armadura. Deixa eu te ajudar.}
+{836}{}{Olha, Homem de Lata, se você quer que eu me vista como Dorothy ou Toto, vai custar mais caro.}
+{837}{}{Olha, chapa, se você quer fazer isso vai ter que sair daí; metal machuca e deixa cicatriz.}
+{838}{}{Tem uma portinhola ou você tem que sair dessa coisa pra bater uma punheta?}
+{839}{}{Ficar com ereção nessa coisa machuca?}
+{840}{}{Parece que você trouxe seu próprio preservativo.}
+{841}{}{Isso é um novo tipo de preservativo?}
+{842}{}{Você deve se preocupar muito com DSTs pra estar nessa coisa.}
+{843}{}{Se quiser que eu faça sexo com você nessa coisa, vai ter que pagar mais.}
+{844}{}{Se quiser mandar ver, vai ter que sair dessa coisa.}
+{845}{}{Minha umidade te enferruja?}
+{846}{}{Bem... certo. Mas você não vai poder ficar em cima.}
+{847}{}{Como diabos você vai no banheiro com essa coisa?}
+{848}{}{Vou precisar de um alicate hidráulico pra tirar você daí?}
+{849}{}{Isso é um novo tipo de vibrador?}
+{850}{}{Acho que presenciei a mesma situação em um Anime uma vez.}
+{851}{}{Tem certeza que não está procurando um lava-jato?}
+{852}{}{Olha, docinho, você vai ter que sair daí; metal machuca e deixa cicatriz.}
+{853}{}{Isso que está vestindo é um novo tipo de equipamento de controle de natalidade?}
+{854}{}{Quer pular no ringue comigo, meu bem? Eu agüento pelo menos 12 assaltos.}
+{855}{}{Quer lutar, }
+{856}{}{Garota, você é demais.}
+{857}{}{Uau, olha pros seus músculos. Você é mais forte que muitos homens que eu conheço. E olha que eu conheço MUITOS homens.}
+{858}{}{Como vai, }
+{859}{}{Procurando por mim?}
+{860}{}{Por que você não vem aqui com mais freqüência?}
+{861}{}{Precisa de companhia, }
+{862}{}{Que peitões, hein.}
+{863}{}{Ei... cuidado com o Masticator. Ele é um merda. Tentou morder minha orelha uma vez.}
+{864}{}{Você é muito sexy, garota, sabia disso?}
 {865}{}{}
-{866}{}{If you're looking for a little company later...}
+{866}{}{Se precisar de companhia mais tarde...}
 {867}{}{}
 {868}{}{Olá, }
-{869}{}{Put in a good word with the boss for me?}
-{870}{}{Well, if it isn't the devilish }
-{871}{}{I can do ANYTHING you want... it's all for the asking.}
-{872}{}{Put in a good word with the boss for me?}
+{869}{}{Fale bem de mim pro chefe, beleza?}
+{870}{}{Bem, se não é o diabólico }
+{871}{}{Eu posso fazer TUDO o que você quiser... é só pedir.}
+{872}{}{Fale bem de mim pro chefe, beleza?}
 {873}{}{}
-{874}{}{Um, if you're looking for a little company later, ma'am...}
-{875}{}{My name's Easy, slaver. What's yours?}
-{876}{}{Need someone to yank your leash, slaver?}
-{877}{}{Why don't you take me back to your cage, slaver?}
-{878}{}{Need your cage rattled, slaver?}
-{879}{}{You're a frisky slaver, aren't you?}
-{880}{}{Did you bring your own towelette?}
-{881}{}{Yes, they ARE real, and NO, you can't check.}
-{882}{}{Wanna wrangle, cowboy?}
-{883}{}{Wanna sink me with your pink torpedo?}
-{884}{}{Let me teach you some things only a woman can teach.}
-{885}{}{Need someone to warm your tent, slaver?}
-{886}{}{Need someone to share your bedroll, slaver?}
-{887}{}{Got some hot-rocks there, slaver.}
-{888}{}{Nasty little crotch cobra you got there, slaver.}
-{889}{}{Lookin' for some action?}
-{890}{}{You ain't never had love 'til you had Reno love.}
-{891}{}{Looking for a date?}
-{892}{}{Look, no free samples.}
-{893}{}{Heard there was some trouble on Commercial Row...}
-{894}{}{Looking for some company?}
-{895}{}{Only sports going on in Reno nowdays in tonsil hockey...}
-{896}{}{Wanna dance, slaver?}
-{897}{}{Slaver, you ain't never had love 'til you had Reno love.}
-{898}{}{I can't believe how many strippers were at Feargus' bachelor party.}
-{899}{}{My job? I turn boys into MEN.}
-{900}{}{Can you hammer a six-inch spike through a board with your penis?}
-{901}{}{I've been in this town too long...}
-{902}{}{Need a friend for the evening, slaver? Or just ten minutes?}
-{903}{}{Wanna fly?}
-{904}{}{Haven't seen any caravans from Redding in a while...}
-{905}{}{Nice dill.}
-{906}{}{Lose your way, slaver?}
-{907}{}{Got a gun you need to unload, slaver?}
-{908}{}{Anything I can help you with, stranger?}
-{909}{}{I like the look of your gecko, slaver.}
-{910}{}{That a gecko in your pocket?}
-{911}{}{Need a guide around town, sugah?}
-{912}{}{Where's the fire, slaver?}
-{913}{}{Childe, let me make you a man.}
-{914}{}{Wanna dance, slaver?}
-{915}{}{Oh, hello, Mr. Tyler. Going... down?}
-{916}{}{If I have to talk to you afterwards, that's extra.}
-{917}{}{Yes, they ARE real, and NO, you can't check.}
-{918}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
-{919}{}{[Sings.] "Let's play - master and servant. Let's play - master and servant."}
-{920}{}{Wanna play master and servant, slaver?}
-{921}{}{If you want me to stay awake afterwards, that's extra.}
-{922}{}{Wanna go to Where the Wild Things Are?}
-{923}{}{Forget the slot machines. My payoff's MUCH better.}
-{924}{}{I'm not cheap, but I am on special.}
-{925}{}{I'll fit you like a flesh tuxedo.}
-{926}{}{Talk about mudflaps, baby, I got 'em.}
-{927}{}{Well, well. Look who just rolled into town...}
-{928}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{929}{}{Lookin' for some action?}
-{930}{}{When in doubt, whip it out.}
-{931}{}{I finally installed that padded headboard.}
-{932}{}{Taste of paradise'll cost you ten chips.}
-{933}{}{Myron: All wax. No wick.}
-{934}{}{Myron's a real twister.}
-{935}{}{AC-DC, B n' D, whatever.}
-{936}{}{That Bishop girl is a bed-bunny.}
-{937}{}{She ain't no Jet reliant, she's a BONE reliant.}
-{938}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
-{939}{}{Felt like I was in a marathon last night...}
-{940}{}{Looking for love, honey?}
-{941}{}{No kissing. It's the rule.}
-{942}{}{Wish Myron would move away. Far away.}
-{943}{}{I can do ANYTHING you want, slaver... for the right price.}
-{944}{}{I'm ready to go, honey. How about you?}
-{945}{}{Forget the slot machines. My payoff's MUCH better.}
-{946}{}{I hate teabags.}
-{947}{}{Take a gamble on me, slaver.}
-{948}{}{Looking for a good time?}
-{949}{}{Pure Reno love, right here.}
-{950}{}{I'll give you some play.}
-{951}{}{I'm Filthy Spice.}
-{952}{}{I'm Homely Spice.}
-{953}{}{I'm Slutty Spice.}
-{954}{}{I'm Old Spice.}
-{955}{}{I'm Syphilis... er, Slutty Spice.}
-{956}{}{I'm Dirty Spice.}
-{957}{}{Say... I've got a girlfriend if you want a double-header.}
-{958}{}{Wish Myron was gay.}
-{959}{}{Still don't know why they call it Virgin Street...}
-{960}{}{I wish he'd wear a paper bag sometimes.}
-{961}{}{Buy me a drink, slaver?}
-{962}{}{Take a lonely lady on the town, slaver?}
-{963}{}{Uh, of course I'm a woman. Just ignore the Adam's apple.}
-{964}{}{I heard some of the girls uptown killed their pimp.}
-{965}{}{Helloooo, stranger.}
-{966}{}{That Jules better leave me alone.}
-{967}{}{Still got that bruise from the headboard...}
-{968}{}{Been worn out ever since that last slaver convention.}
-{969}{}{I wish Gen Con took place in some other town.}
-{970}{}{You could melt metal, you know that?}
-{971}{}{I felt the Earth move, but it was just the chili.}
-{972}{}{Make me melt.}
-{973}{}{I'm a virgin. I'm just not very good at it.}
-{974}{}{Need a guide around town, slaver?}
-{975}{}{Whoa. THAT'LL cost extra.}
-{976}{}{Jules keeps wanting freebies.}
-{977}{}{I hear the families are getting tense again.}
-{978}{}{Things are pretty slow. I wish that caravan would show.}
-{979}{}{So he dresses up in this Deathclaw costume, then...}
-{980}{}{I need help getting out of this dress.}
-{981}{}{Zip me up? Then down again?}
-{982}{}{Sorry, what were you saying? I was too busy staring at your ass.}
-{983}{}{Wanna waste some time?}
-{984}{}{Looking for a good time?}
-{985}{}{I kicked Jules in his family jewels last week.}
-{986}{}{Looking to go down-town?}
-{987}{}{They don't call me Lady Lucky for nothing.}
-{988}{}{Of COURSE I love those brahmin-flavored condoms. Yum.}
-{989}{}{Show a lady a good time, slaver?}
-{990}{}{Wish they would invent a sexual placebo for Myron.}
-{991}{}{Need a date, slaver?}
-{992}{}{Slaver, all you need is one night with me.}
-{993}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{994}{}{You got the chips, slaver, I got the time.}
-{995}{}{Can you help me? I'm looking for my lost virginity.}
-{996}{}{I'm a virgin, but I need the money.}
-{997}{}{Be gentle, it's my first time. Today.}
-{998}{}{Me so horny.}
-{999}{}{You got the craving, I got the saving.}
-{1000}{}{Let me awaken your inner child.}
-{1001}{}{I'm just doing this to pay for college.}
-{1002}{}{Look, for the last time, I don't want to dress up as the "Vault Dweller."}
-{1003}{}{Lookin' to stake a claim?}
-{1004}{}{Wanna make me moan?}
+{874}{}{Hum, se precisar de companhia mais tarde, madame...}
+{875}{}{Meu nome é Fácil, escravagista. Qual é o seu?}
+{876}{}{Precisa de alguém pra descascar sua banana, escravagista?}
+{877}{}{Por que você não me joga na sua gaiola, escravagista?}
+{878}{}{Precisa de movimento na sua jaula, escravagista?}
+{879}{}{Você é um escravagista excitado, não é?}
+{880}{}{Você traz a sua própria flanela?}
+{881}{}{Sim, eles SÃO reais, e NÃO, você não pode checar.}
+{882}{}{Quer montar, cowboy?}
+{883}{}{Quer me afundar com o seu torpedo rosa?}
+{884}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
+{885}{}{Precisa de alguém pra esquentar sua tenda, escravagista?}
+{886}{}{Precisa de alguém pra dividir o colchonete, escravagista?}
+{887}{}{Tem alguma bala quente aí, escravagista?}
+{888}{}{Que cobrão você tem aí, escravagista.}
+{889}{}{Procurando por ação?}
+{890}{}{Você nunca fez amor se não provou o amor de Reno.}
+{891}{}{Procurando por um encontro?}
+{892}{}{Olha, sem amostras grátis.}
+{893}{}{Ouvi dizer que teve confusão em Commercial Row...}
+{894}{}{Procurando por companhia?}
+{895}{}{O único esporte rolando em Reno agora é o hockey de amídalas...}
+{896}{}{Quer dançar, escravagista?}
+{897}{}{Escravagista, você nunca fez amor até ter provado o amor de Reno.}
+{898}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
+{899}{}{Meu trabalho? Eu transformo garotos em HOMENS.}
+{900}{}{Você consegue martelar um prego de 15 centímetros numa tábua com o seu pênis?}
+{901}{}{Estou nessa cidade já tem muito tempo...}
+{902}{}{Precisa de uma amiga pra hoje à noite, escravagista? Ou por uns dez minutos?}
+{903}{}{Quer voar?}
+{904}{}{Não vejo caravanas vindo de Redding faz um bom tempo...}
+{905}{}{Bela erva.}
+{906}{}{Está perdido, escravagista?}
+{907}{}{Tem uma arma que precisa ser descarregada, escravagista?}
+{908}{}{Posso ajudar?}
+{909}{}{Eu gosto da aparência do seu gecko, escravagista.}
+{910}{}{Isso é um gecko no seu bolso?}
+{911}{}{Precisa de uma guia, docinho?}
+{912}{}{Onde é o incêndio, escravagista?}
+{913}{}{Garoto, deixe-me transformá-lo em um homem.}
+{914}{}{Quer dançar, escravagista?}
+{915}{}{Oh, olá, Sr. Tyler. Está afim de um oral?}
+{916}{}{Se eu tiver que conversar com você depois, vai custar mais.}
+{917}{}{Sim, eles SÃO reais, e NÃO, você não pode checar.}
+{918}{}{Esse cara, Fred Hatch, queria saber se tinha "garotas grandes" na cidade. Cara estranho.}
+{919}{}{[Canta.] "Vamos brincar - de mestre e servo. Vamos brincar - de mestre e servo."}
+{920}{}{Quer brincar de mestre e servo, escravagista?}
+{921}{}{Se quiser que eu fique acordada depois do serviço, vai ter que pagar mais.}
+{922}{}{Quer ir pra Onde as Coisas Selvagens Estão?}
+{923}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
+{924}{}{Eu não sou muito barata, mas sou especial.}
+{925}{}{Eu vou me ajustar em você como se fosse um paletó sexy.}
+{926}{}{Fale mais sobre relaxamento anal, amor, eu tenho isso aí.}
+{927}{}{Bem, bem. Olha só quem está na cidade...}
+{928}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{929}{}{Procurando por ação?}
+{930}{}{Na dúvida, tira ele pra fora.}
+{931}{}{Finalmente instalei aquela cabeceira acolchoada.}
+{932}{}{Provar o paraíso vai te custar dez pratas.}
+{933}{}{Myron: Muita droga. Nenhum pênis.}
+{934}{}{O Myron é um nerd chato pra caralho.}
+{935}{}{Fio-terra, sadismo, qualquer coisa.}
+{936}{}{Aquela filha do Bishop é uma safada.}
+{937}{}{Ela não é uma viciada em Jet, ela é viciada em OSSO.}
+{938}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
+{939}{}{Parece que estive numa maratona ontem...}
+{940}{}{Procurando por amor, docinho?}
+{941}{}{Sem beijos. É a regra.}
+{942}{}{Gostaria que o Myron se mudasse. Pra longe.}
+{943}{}{Eu posso fazer TUDO o que quiser, escravagista... por um preço.}
+{944}{}{Estou pronta pra ir, gracinha. E você?}
+{945}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
+{946}{}{Eu odeio bêbados.}
+{947}{}{Faça uma aposta comigo, escravagista.}
+{948}{}{Procurando por diversão?}
+{949}{}{O puro amor de Reno, bem aqui.}
+{950}{}{Vou te dar um pouco de ação.}
+{951}{}{Eu sou a amante selvagem.}
+{952}{}{Eu sou a amante doméstica.}
+{953}{}{Eu sou a amante safada.}
+{954}{}{Eu sou a amante madura.}
+{955}{}{Eu sou a amante sífil... digo, safada.}
+{956}{}{Eu sou a amante sem vergonha.}
+{957}{}{Eu tenho uma namorada se você quiser duas companhias.}
+{958}{}{Queria que o Myron fosse gay.}
+{959}{}{Ainda não consigo entender porque eles chamam essa rua de Virgin Street...}
+{960}{}{Queria que ele usasse um saco na cabeça de vez em quando...}
+{961}{}{Quer me pagar um drinque, escravagista?}
+{962}{}{Quer levar uma garota solitária pra dar uma volta, escravagista?}
+{963}{}{Hã, é claro que sou uma mulher. Apenas ignore o meu pomo de Adão.}
+{964}{}{Ouvi dizer que algumas garotas da outra rua mataram o cafetão delas.}
+{965}{}{Oiiiii, estranho.}
+{966}{}{É melhor aquele Jules me deixar em paz.}
+{967}{}{Ainda estou com aquele machucado por causa da cabeceira...}
+{968}{}{Estou exausta desde a última convenção de escravos...}
+{969}{}{Queria que a Gen Con se mudasse pra outra cidade.}
+{970}{}{Você pode gozar como um louco, sabia disso?}
+{971}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
+{972}{}{Quer me fazer gozar?}
+{973}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
+{974}{}{Precisa de uma guia, escravagista?}
+{975}{}{Uau. ISSO vai custar mais caro.}
+{976}{}{O Jules continua querendo fazer de graça.}
+{977}{}{Ouvi dizer que as famílias estão começando a ficar tensas de novo.}
+{978}{}{O negócio está fraco. Bem que podia passar uma caravana por aqui.}
+{979}{}{Então ele se fantasiou de deathclaw, aí ele...}
+{980}{}{Preciso de ajuda pra tirar esse vestido.}
+{981}{}{Subir o meu zipper? E descer de novo?}
+{982}{}{Desculpe, o que estava dizendo? Estava muito ocupada olhando pro seu traseiro.}
+{983}{}{Quer gastar um pouco de tempo?}
+{984}{}{Procurando por diversão?}
+{985}{}{Eu chutei as bolas do Jules semana passada.}
+{986}{}{Quer ir no centro?}
+{987}{}{Não me chamam de Senhorita da Sorte à toa.}
+{988}{}{É CLARO que eu amo aquelas camisinhas com aroma de brahmin. Hum...}
+{989}{}{Quer mostrar quem é que manda pra uma garota, escravagista?}
+{990}{}{Queria que eles inventassem um placebo sexual pro Myron.}
+{991}{}{Precisa de um encontro, escravagista?}
+{992}{}{Escravagista, tudo o que você precisa é de uma noite comigo.}
+{993}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{994}{}{Você tem o dinheiro, escravagista, eu tenho o tempo.}
+{995}{}{Você pode me ajudar? Estou procurando pela minha virgindade.}
+{996}{}{Eu sou virgem, mas preciso de dinheiro.}
+{997}{}{Seja gentil, é minha primeira vez. Hoje.}
+{998}{}{Estou tão excitada.}
+{999}{}{Você tem a excitação, eu tenho a solução.}
+{1000}{}{Deixa eu acordar sua criança interior.}
+{1001}{}{Só estou fazendo isso pra paga a faculdade.}
+{1002}{}{Olha, pela última vez, eu não quero me vestir como uma "Vault Dweller".}
+{1003}{}{Quer descarregar a raiva?}
+{1004}{}{Quer me fazer gemer?}
 {1005}{}{::Purrrrr::}
 {1006}{}{::Rrrrrowrrr::}
-{1007}{}{Stop tickling me.}
-{1008}{}{Been up since last night...}
-{1009}{}{Wanna pretend we're deathclaws in mating season?}
-{1010}{}{I'm not cheap, but I am on special.}
-{1011}{}{Tying you up costs extra.}
-{1012}{}{Where did I leave my whip?}
-{1013}{}{Ready like a freddie.}
-{1014}{}{I had to dress up like WILMA last night, fer Chrissakes.}
-{1015}{}{I was with Myron last night. For about five seconds.}
-{1016}{}{Looking to pop a clip?}
-{1017}{}{Wish they'd come out with some Jet-smelling body oils...}
-{1018}{}{Want to help a virgin lose her virginity?}
-{1019}{}{My ass is going to fall off, Myron keeps it up.}
-{1020}{}{Damn Temperance Union came around again...}
-{1021}{}{You make my Geiger counter tick.}
-{1022}{}{::Whistles::}
-{1023}{}{Biting is extra.}
-{1024}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
-{1025}{}{Want me to tighten your screws?}
-{1026}{}{I'd rather be with Avellone.}
-{1027}{}{I wish Nick Kesting was here. We could talk for hours!}
-{1028}{}{Nick Kesting is a really nice guy. We have great conversations.}
-{1029}{}{Tommy the Balls is sooo dreamy.}
-{1030}{}{I need fifty dollars to make you holler.}
-{1031}{}{My name's Easy, slaver-girl. What's yours?}
-{1032}{}{Need someone to yank your leash, slaver-girl?}
-{1033}{}{Why don't you take me back to your cage, slaver-girl?}
-{1034}{}{Hey, slaver. Looking for the other woman?}
-{1035}{}{Looking for a taste of the other side, sweetheart?}
-{1036}{}{Need your cage rattled, slaver-girl?}
-{1037}{}{Feeling experimental, slaver-girl? Prove it.}
-{1038}{}{Wanna take a walk on the wild side, slaver-girl?}
-{1039}{}{Need someone to share your tent, slaver-girl?}
-{1040}{}{Need someone to share your bedroll, slaver-girl?}
-{1041}{}{Got some nice curves there, slaver-girl.}
-{1042}{}{Wanna dance, slaver-girl?}
-{1043}{}{Slaver-girl, you ain't never had love 'til you had Reno love.}
-{1044}{}{My job? I turn boys into *men.* I don't really know what I turn women into, but I'd like to find out.}
-{1045}{}{Lose your way, slaver-girl?}
-{1046}{}{Looking for a good time, slaver-girl?}
-{1047}{}{Need a date, slaver-girl?}
-{1048}{}{Where's the fire, slaver-girl?}
-{1049}{}{You make my Geiger counter tick, slaver-girl.}
-{1050}{}{My name's Easy. What's yours?}
-{1051}{}{A little frisky, eh?}
-{1052}{}{Did you bring your own towelette?}
-{1053}{}{Yes, they ARE real.}
-{1054}{}{Yes, they ARE real, and NO, you can't check.}
-{1055}{}{Piss off, ass-for-brains.}
-{1056}{}{Wanna wrangle, cowboy?}
-{1057}{}{Wanna sink me with your pink torpedo?}
-{1058}{}{Need someone to warm your tent?}
-{1059}{}{Need someone to share your bedroll?}
-{1060}{}{Got some hot-rocks there, pal.}
-{1061}{}{Nasty little crotch cobra there.}
-{1062}{}{Lookin' for some action?}
-{1063}{}{You ain't never had love 'til you had Reno love.}
-{1064}{}{Looking for a date?}
-{1065}{}{Look, no free samples.}
-{1066}{}{Heard there was some trouble on Commercial Row...}
-{1067}{}{Looking for some company?}
-{1068}{}{Only sports going on in Reno nowdays in tonsil hockey...}
-{1069}{}{Wanna dance?}
-{1070}{}{You ain't never had love 'til you had Reno love.}
-{1071}{}{My job? I turn boys into MEN.}
-{1072}{}{Can you hammer a six-inch spike through a board with your penis?}
-{1073}{}{Been walking this street since last night...}
-{1074}{}{Need a friend for the evening? Or just ten minutes?}
-{1075}{}{Wanna fly?}
-{1076}{}{Haven't seen any caravans from Redding in a while...}
-{1077}{}{Nice dill.}
-{1078}{}{Lose your way, cowboy?}
-{1079}{}{Got a gun you need to unload, soldier?}
-{1080}{}{Anything I can help you with, stranger?}
-{1081}{}{Looking for a good time?}
-{1082}{}{Looking to go down-town?}
-{1083}{}{I like the look of your gecko.}
-{1084}{}{That a gecko in your pocket?}
-{1085}{}{You need a guide around town, sugah?}
-{1086}{}{Where's the fire?}
-{1087}{}{You got the money, I got the time.}
-{1088}{}{Childe, let me make you a man.}
-{1089}{}{Oh, hello, Mr. Tyler. Going... down?}
-{1090}{}{If I have to talk to you afterwards, that's extra.}
-{1091}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
-{1092}{}{Your friend with the bone in his nose... great gimmick.}
-{1093}{}{Does your friend with the bone do tricks with his nose or sumthin'?}
-{1094}{}{Maybe I should put a bone in my nose. Might attract more female customers.}
-{1095}{}{That fella's got a bone in his nose the size of my arm. Keeee-rist.}
-{1096}{}{I don't even want to know how that boy got that bone in his nose.}
-{1097}{}{Is your friend with the bone in his nose in the business?}
-{1098}{}{How much does your friend with the bone in his nose charge?}
-{1099}{}{For thirty chips, I can make that bone in your friend's nose larger.}
-{1100}{}{Your friend with the bone in his nose over-compensating for something?}
-{1101}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{1102}{}{Lookin' for some action?}
-{1103}{}{When in doubt, whip it out.}
-{1104}{}{Let me teach you some things only a woman can teach.}
-{1105}{}{I finally installed that padded headboard.}
-{1106}{}{Taste of paradise'll cost you ten chips.}
-{1107}{}{Myron: All wax. No wick.}
-{1108}{}{Myron's a real twister.}
-{1109}{}{AC-DC, B n' D, whatever.}
-{1110}{}{That Bishop girl is a bed-bunny.}
-{1111}{}{She ain't no Jet reliant, she's a BONE reliant.}
-{1112}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
-{1113}{}{Felt like I was in a marathon last night...}
-{1114}{}{Looking for love, honey?}
-{1115}{}{No kissing. It's the rule.}
-{1116}{}{Wish Myron would move away. Far away.}
-{1117}{}{I can do ANYTHING you want... for the right price.}
-{1118}{}{I'm ready to go, honey. How about you?}
-{1119}{}{Forget the slot machines. My payoff's MUCH better.}
-{1120}{}{I hate teabags.}
-{1121}{}{Take a gamble on me, honey.}
-{1122}{}{Looking for a good time?}
-{1123}{}{I can't believe how many strippers were at Feargus' bachelor party.}
-{1124}{}{Pure Reno love, right here.}
-{1125}{}{I'll give you some play.}
-{1126}{}{I'm Filthy Spice.}
-{1127}{}{I'm Homely Spice.}
-{1128}{}{I'm Old Spice.}
-{1129}{}{I'm Slutty Spice.}
-{1130}{}{I'm Syphilis... er, Slutty Spice.}
-{1131}{}{I'm Dirty Spice.}
-{1132}{}{I've got a girlfriend if you want a double-header.}
-{1133}{}{Wish Myron was gay.}
-{1134}{}{Still don't know why they call it Virgin Street...}
-{1135}{}{I wish he'd wear a paper bag sometimes.}
-{1136}{}{Buy me a drink?}
-{1137}{}{Take a lonely lady on the town?}
-{1138}{}{Uh, of course I'm a woman. Just ignore the Adam's apple.}
-{1139}{}{I heard some of the girls uptown killed their pimp.}
-{1140}{}{Helloooo, stranger.}
-{1141}{}{That Jules better leave me alone.}
-{1142}{}{Still got that bruise from the headboard...}
-{1143}{}{Been worn out ever since that last convention...}
-{1144}{}{I wish Gen Con took place in some other town.}
-{1145}{}{You could melt metal, you know that?}
-{1146}{}{I felt the Earth move, but it was just the chili.}
-{1147}{}{Make me melt.}
-{1148}{}{I'm a virgin. I'm just not very good at it.}
-{1149}{}{Need a guide around town?}
-{1150}{}{*Whoa.* That'll cost extra.}
-{1151}{}{Jules keeps wanting freebies.}
-{1152}{}{I hear the families are getting tense again.}
-{1153}{}{Things are pretty slow. I wish that caravan would show.}
-{1154}{}{So he dresses up in this Deathclaw costume, then...}
-{1155}{}{I need help getting out of this dress.}
-{1156}{}{Zip me up? Then down again?}
-{1157}{}{Sorry, what were you saying? I was too busy staring at your ass.}
-{1158}{}{Wanna waste some time?}
-{1159}{}{I kicked Jules in his family jewels last week.}
-{1160}{}{They don't call me Lady Lucky for nothing.}
-{1161}{}{Of *course* I love those brahmin-flavored condoms. Yum.}
-{1162}{}{Show a lady a good time?}
-{1163}{}{Wish they would invent a sexual placebo for Myron.}
-{1164}{}{Need a date, tribal?}
-{1165}{}{Want to pow-wow, tribal?}
-{1166}{}{Want to do the rain dance in my bedroom, tribal?}
-{1167}{}{All you need is one night with me.}
-{1168}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{1169}{}{Can you help me? I'm looking for my lost virginity.}
-{1170}{}{I'm a virgin, but I need the money.}
-{1171}{}{Be gentle, it's my first time. Today.}
-{1172}{}{Me so horny.}
-{1173}{}{You got the craving, I got the saving.}
-{1174}{}{Let me awaken your inner child.}
-{1175}{}{I'm just doing this to pay for college.}
-{1176}{}{Wanna dance, sweetheart?}
-{1177}{}{Look, for the last time, I'm not going to dress up as the "Vault Dweller."}
-{1178}{}{Lookin' to stake a claim?}
-{1179}{}{Wanna make me moan?}
+{1007}{}{Pare de me fazer cócegas.}
+{1008}{}{Estou aqui desde ontem à noite...}
+{1009}{}{Quer fazer de conta que somos deathclaws em época de acasalamento?}
+{1010}{}{Eu não sou muito barata, mas sou especial.}
+{1011}{}{Fazer com cordas custa mais caro.}
+{1012}{}{Onde eu deixei meu chicote?}
+{1013}{}{Preparado como um libertino.}
+{1014}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.}
+{1015}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}
+{1016}{}{Quer dar uma descarregada?}
+{1017}{}{Bem que eles podiam vir com um óleo corporal com cheiro de Jet...}
+{1018}{}{Que ajudar uma virgem a se tornar mulher?}
+{1019}{}{Se minha bunda cair, o Myron mantém ela levantada.}
+{1020}{}{Droga, o Sindicato da Abstinência está de volta…}
+{1021}{}{Você faz até o meu Geiger Counter apitar.}
+{1022}{}{::Assobios::}
+{1023}{}{Morder custa mais caro.}
+{1024}{}{Eu garanto que sou melhor que esse Pip Boy que você está usando.}
+{1025}{}{Quer que eu aperte seu parafuso?}
+{1026}{}{Eu gostaria de estar com o Avellone agora.}
+{1027}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
+{1028}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
+{1029}{}{O Tommy the Balls é um sonho.}
+{1030}{}{Preciso de cinqüenta dólares pra fazer você gemer.}
+{1031}{}{Meu nome é Fácil, garota-escravagista. Qual é o seu?}
+{1032}{}{Precisa de alguém pra jogar peteca, garota-escravagista?}
+{1033}{}{Por que você não me joga de volta na sua jaula, garota-escravagista?}
+{1034}{}{Ei, escravagista. Procurando por outra mulher?}
+{1035}{}{Procurando pelo sabor do outro lado, coração?}
+{1036}{}{Precisa encher a jaula, garota-escravagista?}
+{1037}{}{Sentindo-se experimental, garota-escravagista? Pode provar.}
+{1038}{}{Quer dar uma volta em lugar selvagem, garota-escravagista?}
+{1039}{}{Precisa de alguém pra dividir a tenda, garota-escravagista?}
+{1040}{}{Precisa de alguém pra dividir o colchonete, garota-escravagista?}
+{1041}{}{Você tem belas curvas aí, garota-escravagista.}
+{1042}{}{Quer dançar, garota-escravagista?}
+{1043}{}{Garota-escravagista, você não fez amor até provar o amor de Reno.}
+{1044}{}{Meu trabalho? Eu transformo garotos em *homens*. Eu não sei em que transformo as mulheres, mas posso descobrir.}
+{1045}{}{Está perdida, garota-escravagista?}
+{1046}{}{Procurando por diversão, garota-escravagista?}
+{1047}{}{Precisa de um encontro, garota-escravagista?}
+{1048}{}{Onde é o incêndio, garota-escravagista?}
+{1049}{}{Você faz meu Geiger counter apitar, garota.}
+{1050}{}{Meu nome é Fácil. Qual é o seu?}
+{1051}{}{Um pouco animado, hein?}
+{1052}{}{Você traz a sua própria flanela?}
+{1053}{}{Sim, eles SÃO reais.}
+{1054}{}{Sim, eles SÃO reais, e NÃO, você não pode checar.}
+{1055}{}{Cai fora, imbecil.}
+{1056}{}{Quer montar, cowboy?}
+{1057}{}{Quer me afundar com o seu torpedo rosa?}
+{1058}{}{Precisa de alguém pra esquentar sua tenda?}
+{1059}{}{Precisa de alguém pra dividir o colchonete?}
+{1060}{}{Tem alguma bala quente aí?}
+{1061}{}{Bela cobra, hein.}
+{1062}{}{Procurando por ação?}
+{1063}{}{Você nunca fez amor se não provou o amor de Reno.}
+{1064}{}{Procurando por um encontro?}
+{1065}{}{Olha, sem amostras grátis.}
+{1066}{}{Ouvi dizer que teve confusão em Commercial Row...}
+{1067}{}{Procurando por companhia?}
+{1068}{}{O único esporte rolando em Reno agora é o hockey de amídalas...}
+{1069}{}{Quer dançar?}
+{1070}{}{Você nunca fez amor se não provou o amor de Reno.}
+{1071}{}{Meu trabalho? Eu transformo garotos em HOMENS.}
+{1072}{}{Você consegue martelar um prego de 15 centímetros numa tábua com o seu pênis?}
+{1073}{}{Estou andando nessa rua desde ontem à noite...}
+{1074}{}{Precisa de uma amiga pra hoje à noite? Ou pelo menos por dez minutos?}
+{1075}{}{Quer voar?}
+{1076}{}{Não vejo caravanas vindo de Redding faz um bom tempo...}
+{1077}{}{Bela erva.}
+{1078}{}{Está perdido, cow-boy?}
+{1079}{}{Tem uma arma que precisa descarregar, soldado?}
+{1080}{}{Posso ajudar?}
+{1081}{}{Procurando por diversão?}
+{1082}{}{Quer ir no centro?}
+{1083}{}{Gostei do seu gecko.}
+{1084}{}{Isso é um gecko no seu bolso?}
+{1085}{}{Precisa de uma guia, docinho?}
+{1086}{}{Onde é o incêndio?}
+{1087}{}{Você tem o dinheiro, eu tenho o tempo.}
+{1088}{}{Garoto, deixe-me transformá-lo em um homem.}
+{1089}{}{Oh, olá, Sr. Tyler. Está afim de um oral?}
+{1090}{}{Se eu tiver que conversar com você depois, vai custar mais.}
+{1091}{}{Esse cara, Fred Hatch, queria saber se tinha "garotas grandes" na cidade. Cara estranho.}
+{1092}{}{Seu amigo com o osso no nariz... ótimo truque.}
+{1093}{}{O seu amigo com osso faz truques com o nariz ou algo assim?}
+{1094}{}{Talvez eu coloque um osso no meu nariz. Deve atrair mais clientes mulheres.}
+{1095}{}{Aquele cara tem um osso do tamanho do meu braço no nariz. Eca!}
+{1096}{}{Eu nem quero saber como aquele cara conseguiu enfiar aquele osso no nariz.}
+{1097}{}{O seu amigo com osso no nariz está no negócio?}
+{1098}{}{Quanto o seu amigo com osso no nariz cobra?}
+{1099}{}{Por trinta pratas eu faço o osso no nariz do seu amigo ficar maior.}
+{1100}{}{O seu amigo com osso no nariz está se punindo por algo?}
+{1101}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{1102}{}{Procurando por ação?}
+{1103}{}{Na dúvida, tira ele pra fora.}
+{1104}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
+{1105}{}{Finalmente instalei aquela cabeceira acolchoada.}
+{1106}{}{Provar o paraíso vai te custar dez pratas.}
+{1107}{}{Myron: Muita droga. Nenhum pênis.}
+{1108}{}{O Myron é um nerd chato pra caralho.}
+{1109}{}{Fio-terra, sadismo, qualquer coisa.}
+{1110}{}{Aquela filha do Bishop é uma safada.}
+{1111}{}{Ela não é uma viciada em Jet, ela é viciada em OSSO.}
+{1112}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
+{1113}{}{Parece que estive numa maratona ontem...}
+{1114}{}{Procurando por amor, docinho?}
+{1115}{}{Sem beijos. É a regra.}
+{1116}{}{Gostaria que o Myron se mudasse. Pra longe.}
+{1117}{}{Eu faço TUDO o que quiser... por um preço.}
+{1118}{}{Estou pronta pra ir, gracinha. E você?}
+{1119}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
+{1120}{}{Eu odeio bêbados.}
+{1121}{}{Faça um aposta comigo, meu bem.}
+{1122}{}{Procurando por diversão?}
+{1123}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
+{1124}{}{O puro amor de Reno, bem aqui.}
+{1125}{}{Vou te dar um pouco de ação.}
+{1126}{}{Eu sou a amante selvagem.}
+{1127}{}{Eu sou a amante doméstica.}
+{1128}{}{Eu sou a amante madura.}
+{1129}{}{Eu sou a amante safada.}
+{1130}{}{Eu sou a amante sífil... digo, safada.}
+{1131}{}{Eu sou a amante sem vergonha.}
+{1132}{}{Eu posso arrumar uma amiga se quiser.}
+{1133}{}{Queria que o Myron fosse gay.}
+{1134}{}{Ainda não consigo entender porque eles chamam essa rua de Virgin Street...}
+{1135}{}{Queria que ele usasse um saco na cabeça de vez em quando...}
+{1136}{}{Quer me pagar um drinque?}
+{1137}{}{Quer levar uma garota solitária pra passear?}
+{1138}{}{Hã, é claro que sou uma mulher. Apenas ignore o meu pomo de Adão.}
+{1139}{}{Ouvi dizer que algumas garotas da outra rua mataram o cafetão delas.}
+{1140}{}{Oiiiii, estranho.}
+{1141}{}{É melhor aquele Jules me deixar em paz.}
+{1142}{}{Ainda estou com aquele machucado por causa da cabeceira...}
+{1143}{}{Estou exausta desde aquela última convenção...}
+{1144}{}{Queria que a Gen Con se mudasse pra outra cidade.}
+{1145}{}{Você pode gozar como um louco, sabia disso?}
+{1146}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
+{1147}{}{Quer me fazer gozar?}
+{1148}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
+{1149}{}{Precisa de uma guia?}
+{1150}{}{*Opa.* isso vai custar mais.}
+{1151}{}{O Jules continua querendo fazer de graça.}
+{1152}{}{Ouvi dizer que as famílias estão começando a ficar tensas de novo.}
+{1153}{}{O negócio está fraco. Bem que podia passar uma caravana por aqui.}
+{1154}{}{Então ele se fantasiou de deathclaw, aí ele...}
+{1155}{}{Preciso de ajuda pra tirar esse vestido.}
+{1156}{}{Subir o meu zipper? E descer de novo?}
+{1157}{}{Desculpe, o que estava dizendo? Estava muito ocupada olhando pro seu traseiro.}
+{1158}{}{Quer gastar um pouco de tempo?}
+{1159}{}{Eu chutei as bolas do Jules semana passada.}
+{1160}{}{Não me chamam de Senhorita da Sorte à toa.}
+{1161}{}{É *claro* que eu amo camisinhas com aroma de brahmin. Hum...}
+{1162}{}{Quer mostrar pra uma garota quem é que manda?}
+{1163}{}{Queria que eles inventassem um placebo sexual pro Myron.}
+{1164}{}{Precisa de um encontro, tribal?}
+{1165}{}{Quer acasalar, tribal?}
+{1166}{}{Quer fazer a dança da chuva na minha cama, tribal?}
+{1167}{}{Tudo o que você precisa é de uma noite comigo.}
+{1168}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{1169}{}{Você pode me ajudar? Estou procurando pela minha virgindade.}
+{1170}{}{Eu sou virgem, mas preciso de dinheiro.}
+{1171}{}{Seja gentil, é minha primeira vez. Hoje.}
+{1172}{}{Estou tão excitada.}
+{1173}{}{Você tem a excitação, eu tenho a solução.}
+{1174}{}{Deixa eu acordar sua criança interior.}
+{1175}{}{Só estou fazendo isso pra paga a faculdade.}
+{1176}{}{Quer dançar, coração?}
+{1177}{}{Olha, pela última vez, eu não vou me vestir como uma "Vault Dweller".}
+{1178}{}{Quer descarregar a raiva?}
+{1179}{}{Quer me fazer gemer?}
 {1180}{}{::Purrrrr::}
 {1181}{}{::Rrrrrowrrr::}
-{1182}{}{Stop tickling me.}
-{1183}{}{Been up since last night...}
-{1184}{}{Wanna pretend we're deathclaws in mating season?}
-{1185}{}{I'm not cheap, but I am on special.}
-{1186}{}{Tying you up costs extra.}
-{1187}{}{Where did I leave my whip?}
-{1188}{}{Ready like a freddie.}
-{1189}{}{I had to dress up like WILMA last night, fer Chrissakes.}
-{1190}{}{I was with Myron last night. For about five seconds.}
-{1191}{}{Looking to pop a clip?}
-{1192}{}{Wish they'd come out with some Jet-smelling body oils...}
-{1193}{}{Want to help a virgin lose her virginity?}
-{1194}{}{My ass is going to fall off, Myron keeps it up.}
-{1195}{}{Damn Temperance Union came around again...}
-{1196}{}{You make my Geiger counter tick.}
-{1197}{}{::Whistles::}
-{1198}{}{Biting is extra.}
-{1199}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
-{1200}{}{Want me to tighten your screws?}
-{1201}{}{I'd rather be with Avellone.}
-{1202}{}{I wish Nick Kesting was here. We could talk for hours!}
-{1203}{}{Nick Kesting is a really nice guy. We have great conversations.}
-{1204}{}{Tommy the Balls is sooo dreamy.}
-{1205}{}{I need fifty dollars to make you holler.}
-{1206}{}{My name's Easy, girl. What's yours?}
-{1207}{}{Hey, cutie. Looking for the other woman?}
-{1208}{}{Looking for a taste of the other side, sweetheart?}
-{1209}{}{Need a little company?}
-{1210}{}{Girl, let me teach you some things only a WOMAN can teach.}
-{1211}{}{Need someone to warm your tent, honey?}
-{1212}{}{Need someone to share your bedroll, honey?}
-{1213}{}{Wanna dance, girl?}
-{1214}{}{Girl, you ain't never had love 'til you had Reno love.}
-{1215}{}{Wanna fly, girl?}
-{1216}{}{Lose your way, cowgirl?}
-{1217}{}{Hey there, G.I. Jane.}
-{1218}{}{Looking for a good time, girl?}
-{1219}{}{Looking to go down-town, girl?}
-{1220}{}{You need a guide around town, sugah?}
-{1221}{}{Where's the fire, girl?}
-{1222}{}{You got the chips, girl, I got the time.}
-{1223}{}{My name's Easy. What's yours?}
-{1224}{}{A little frisky, eh?}
-{1225}{}{Did you bring your own towelette?}
-{1226}{}{Yes, they ARE real.}
-{1227}{}{Yes, they ARE real, and NO, you can't check.}
-{1228}{}{Piss off, ass-for-brains.}
-{1229}{}{Wanna wrangle, cowboy?}
-{1230}{}{Wanna sink me with your pink torpedo?}
-{1231}{}{Need someone to warm your tent?}
-{1232}{}{Need someone to share your bedroll?}
-{1233}{}{Got some hot-rocks there, pal.}
-{1234}{}{Nasty little crotch cobra there.}
-{1235}{}{Lookin' for some action?}
-{1236}{}{You ain't never had love 'til you had Reno love.}
-{1237}{}{Looking for a date?}
-{1238}{}{Look, I don't give free samples.}
-{1239}{}{Heard there's been trouble on Commercial Row...}
-{1240}{}{Looking for some company?}
-{1241}{}{Only sports going on in Reno nowdays in tonsil hockey...}
-{1242}{}{Wanna dance?}
-{1243}{}{You ain't never had love 'til you had Reno love.}
-{1244}{}{My job? I turn boys into MEN.}
-{1245}{}{Can you hammer a six-inch spike through a board with your penis?}
-{1246}{}{Been walking this street since last night...}
-{1247}{}{Need a friend for the evening? Or just ten minutes?}
-{1248}{}{Wanna fly?}
-{1249}{}{Haven't seen any caravans from Redding in a while...}
-{1250}{}{Nice dill.}
-{1251}{}{Lose your way, cowboy?}
-{1252}{}{Got a gun you need to unload, soldier?}
-{1253}{}{Anything I can help you with, stranger?}
-{1254}{}{Looking for a good time?}
-{1255}{}{Looking to go down-town?}
-{1256}{}{I like the look of your gecko.}
-{1257}{}{That a gecko in your pocket?}
-{1258}{}{You need a guide around town, sugah?}
-{1259}{}{Where's the fire?}
-{1260}{}{You got the chips, I got the time.}
-{1261}{}{Childe, let me make you a man.}
-{1262}{}{Oh, hello, Mr. Tyler. Going... down?}
-{1263}{}{If I have to talk to you afterwards, that's extra.}
-{1264}{}{This one guy, Fred Hatch, he wanted to know if there were any "big girls" in town. Weird.}
-{1265}{}{If you want me to stay awake after sex, that's extra.}
-{1266}{}{Wanna go to Where the Wild Things Are?}
-{1267}{}{Forget the slot machines. My payoff's MUCH better.}
-{1268}{}{I'm not cheap, but I am on special.}
-{1269}{}{Hey there, honey.}
-{1270}{}{Wanna wrastle?}
-{1271}{}{I'll fit you like a flesh tuxedo.}
-{1272}{}{Talk about mudflaps, baby, I got 'em.}
-{1273}{}{Well, well. Look who just rolled into town...}
-{1274}{}{Looking for the Garden of Eden? Come to my bedroom.}
-{1275}{}{Lookin' for some action?}
-{1276}{}{When in doubt, whip it out.}
-{1277}{}{Let me teach you some things only a woman can teach.}
-{1278}{}{I finally installed that padded headboard.}
-{1279}{}{Taste of paradise'll cost you ten chips.}
-{1280}{}{Myron: All wax. No wick.}
-{1281}{}{Myron's a real twister.}
-{1282}{}{AC-DC, B n' D, whatever.}
-{1283}{}{That Bishop girl is a bed-bunny.}
-{1284}{}{She ain't no Jet reliant, she's a BONE reliant.}
-{1285}{}{I heard Vault City has only two types of Citizens. Maybe it was some cloning accident.}
-{1286}{}{Felt like I was in a marathon last night...}
-{1287}{}{Looking for love, honey?}
-{1288}{}{No kissing. It's the rule.}
-{1289}{}{Wish Myron would move away. Far away.}
-{1290}{}{I can do ANYTHING you want... for the right price.}
-{1291}{}{I'm ready to go, honey. How about you?}
-{1292}{}{Forget the slot machines. My payoff's MUCH better.}
-{1293}{}{I hate teabags.}
-{1294}{}{Take a gamble on me, honey.}
-{1295}{}{Looking for a good time, baby?}
-{1296}{}{I can't believe how many strippers were at Feargus' bachelor party.}
-{1297}{}{Lovin' like silver, right here.}
-{1298}{}{I'll give you some play.}
-{1299}{}{I'm Filthy Spice.}
-{1300}{}{I'm Homely Spice.}
-{1301}{}{I'm Slutty Spice.}
-{1302}{}{I'm Old Spice.}
-{1303}{}{I'm Syphilis... er, Slutty Spice.}
-{1304}{}{I'm Dirty Spice.}
-{1305}{}{I've got a girlfriend if you want a double-header.}
-{1306}{}{Wish Myron was gay.}
-{1307}{}{Still don't know why they call it Virgin Street...}
-{1308}{}{I wish he'd wear a paper bag sometimes.}
-{1309}{}{Buy me a drink?}
-{1310}{}{Take a lonely lady on the town?}
-{1311}{}{Uh, of course I'm a woman. Just ignore the Adam's apple.}
-{1312}{}{I heard some of the girls uptown killed their pimp.}
-{1313}{}{Best love in all the wastes, right here.}
-{1314}{}{That Jules better leave me alone.}
-{1315}{}{Still got that bruise from the headboard...}
-{1316}{}{Been worn out ever since that last convention...}
-{1317}{}{I wish Gen Con took place in some other town.}
-{1318}{}{You could melt metal, you know that?}
-{1319}{}{I felt the Earth move, but it was just the chili.}
-{1320}{}{Make me melt.}
-{1321}{}{I'm a virgin. I'm just not very good at it.}
-{1322}{}{Need a guide around town?}
-{1323}{}{WHOA. That'll cost extra.}
-{1324}{}{Jules keeps wanting freebies.}
-{1325}{}{I hear the families are getting tense again.}
-{1326}{}{Things are pretty slow. I wish that caravan would show.}
-{1327}{}{So he dresses up in this Deathclaw costume, then...}
-{1328}{}{I need help getting out of this dress.}
-{1329}{}{Zip me up? Then down again?}
-{1330}{}{Sorry, what were you saying? I was too busy staring at your taut body.}
-{1331}{}{Wanna waste some time?}
-{1332}{}{I kicked Jules in his family jewels last week.}
-{1333}{}{They don't call me Lady Lucky for nothing.}
-{1334}{}{Of COURSE I love those brahmin-flavored condoms. Yum.}
-{1335}{}{Show a lady a good time?}
-{1336}{}{Nothing wrong with Myron a bullet won't cure.}
-{1337}{}{Need a date, tribal?}
-{1338}{}{Want to pow-wow, tribal?}
-{1339}{}{Want to do the rain dance in my bedroom, tribal?}
-{1340}{}{All you need is a night with me.}
-{1341}{}{Looking for Eden? Right here, honey.}
-{1342}{}{Can you help me? I'm looking for my lost virginity.}
-{1343}{}{I'm a virgin, but I need the money.}
-{1344}{}{Be gentle, it's my first time. Today.}
-{1345}{}{Me so horny.}
-{1346}{}{You got the craving, I got the saving.}
-{1347}{}{Let me awaken your inner child.}
-{1348}{}{I'm just doing this to pay for college.}
-{1349}{}{Wanna dance, sweetheart?}
-{1350}{}{Look, for the last time, I'm not going to dress up as the "Vault Dweller."}
-{1351}{}{Lookin' to stake a claim?}
-{1352}{}{Wanna make me moan?}
+{1182}{}{Pare de me fazer cócegas.}
+{1183}{}{Estou aqui desde ontem à noite...}
+{1184}{}{Quer fazer de conta que somos deathclaws em época de acasalamento?}
+{1185}{}{Eu não sou muito barata, mas sou especial.}
+{1186}{}{Fazer com cordas custa mais caro.}
+{1187}{}{Onde eu deixei meu chicote?}
+{1188}{}{Preparado como um libertino.}
+{1189}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.}
+{1190}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}
+{1191}{}{Quer dar uma descarregada?}
+{1192}{}{Bem que eles podiam vir com um óleo corporal com cheiro de Jet...}
+{1193}{}{Que ajudar uma virgem a se tornar mulher?}
+{1194}{}{Se minha bunda cair, o Myron mantém ela levantada.}
+{1195}{}{Droga, o Sindicato da Abstinência está de volta…}
+{1196}{}{Você faz até o meu Geiger Counter apitar.}
+{1197}{}{::Assobios::}
+{1198}{}{Morder custa mais caro.}
+{1199}{}{Eu garanto que sou melhor que esse Pip Boy que você está usando.}
+{1200}{}{Quer que eu aperte seu parafuso?}
+{1201}{}{Eu gostaria de estar com o Avellone agora.}
+{1202}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
+{1203}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
+{1204}{}{O Tommy the Balls é um sonho.}
+{1205}{}{Preciso de cinqüenta dólares pra fazer você gemer.}
+{1206}{}{Meu nome é Fácil, garota. Qual é o seu?}
+{1207}{}{Ei, gracinha. Procurando por outra mulher?}
+{1208}{}{Procurando pelo sabor do outro lado, coração?}
+{1209}{}{Precisa de companhia?}
+{1210}{}{Garota, deixa eu te ensinar uma coisa que só uma MULHER pode ensinar.}
+{1211}{}{Precisa de alguém pra esquentar sua tenda, docinho?}
+{1212}{}{Precisa de alguém pra dividir o colchonete, docinho?}
+{1213}{}{Quer dançar garota?}
+{1214}{}{Garota, você nunca fez amor se não experimentou o amor de Reno.}
+{1215}{}{Quer voar, garota?}
+{1216}{}{Está perdida, garota?}
+{1217}{}{Olá, G.I.Jane}
+{1218}{}{Procurando por diversão, garota?}
+{1219}{}{Quer ir pro centro, garota?}
+{1220}{}{Precisa de uma guia, docinho?}
+{1221}{}{Onde é o incêndio, garota?}
+{1222}{}{Você tem a grana, garota, eu tenho o tempo.}
+{1223}{}{Meu nome é Fácil. Qual é o seu?}
+{1224}{}{Um pouco animado, hein?}
+{1225}{}{Você traz a sua própria flanela?}
+{1226}{}{Sim, eles SÃO reais.}
+{1227}{}{Sim, eles SÃO reais, e NÃO, você não pode checar.}
+{1228}{}{Cai fora, imbecil.}
+{1229}{}{Quer montar, cowboy?}
+{1230}{}{Quer me afundar com o seu torpedo rosa?}
+{1231}{}{Precisa de alguém pra esquentar sua tenda?}
+{1232}{}{Precisa de alguém pra dividir o colchonete?}
+{1233}{}{Tem alguma bala quente aí?}
+{1234}{}{Bela cobra, hein.}
+{1235}{}{Procurando por ação?}
+{1236}{}{Você nunca fez amor se não provou o amor de Reno.}
+{1237}{}{Procurando por um encontro?}
+{1238}{}{Olha, eu não dou amostra grátis.}
+{1239}{}{Ouvi dizer que teve confusão em Commercial Row...}
+{1240}{}{Procurando por companhia?}
+{1241}{}{O único esporte rolando em Reno agora é o hockey de amídalas...}
+{1242}{}{Quer dançar?}
+{1243}{}{Você nunca fez amor se não provou o amor de Reno.}
+{1244}{}{Meu trabalho? Eu transformo garotos em HOMENS.}
+{1245}{}{Você consegue martelar um prego de 15 centímetros numa tábua com o seu pênis?}
+{1246}{}{Estou andando nessa rua desde ontem à noite...}
+{1247}{}{Precisa de uma amiga pra hoje à noite? Ou pelo menos por dez minutos?}
+{1248}{}{Quer voar?}
+{1249}{}{Não vejo caravanas vindo de Redding faz um bom tempo...}
+{1250}{}{Bela erva.}
+{1251}{}{Está perdido, cow-boy?}
+{1252}{}{Tem uma arma que precisa descarregar, soldado?}
+{1253}{}{Posso ajudar?}
+{1254}{}{Procurando por diversão?}
+{1255}{}{Quer ir no centro?}
+{1256}{}{Gostei do seu gecko.}
+{1257}{}{Isso é um gecko no seu bolso?}
+{1258}{}{Precisa de uma guia, docinho?}
+{1259}{}{Onde é o incêndio?}
+{1260}{}{Você tem a grana, eu tenho o tempo.}
+{1261}{}{Garoto, deixe-me transformá-lo em um homem.}
+{1262}{}{Oh, olá, Sr. Tyler. Está afim de um oral?}
+{1263}{}{Se eu tiver que conversar com você depois, vai custar mais.}
+{1264}{}{Esse cara, Fred Hatch, queria saber se tinha "garotas grandes" na cidade. Cara estranho.}
+{1265}{}{Se quiser que eu fique acordada depois do sexo, vai custar mais caro.}
+{1266}{}{Quer ir pra Onde as Coisas Selvagens Estão?}
+{1267}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
+{1268}{}{Eu não sou muito barata, mas sou especial.}
+{1269}{}{Olá, docinho.}
+{1270}{}{Posso ajudar?}
+{1271}{}{Eu vou me ajustar em você como se fosse um paletó sexy.}
+{1272}{}{Fale mais sobre relaxamento anal, amor, eu tenho isso aí.}
+{1273}{}{Bem, bem. Olha só quem está na cidade...}
+{1274}{}{Procurando pelo paraíso? Venha pra minha cama.}
+{1275}{}{Procurando por ação?}
+{1276}{}{Na dúvida, tira ele pra fora.}
+{1277}{}{Deixe-me te ensinar algumas coisas que só uma mulher pode ensinar.}
+{1278}{}{Finalmente instalei aquela cabeceira acolchoada.}
+{1279}{}{Provar o paraíso vai te custar dez pratas.}
+{1280}{}{Myron: Muita droga. Nenhum pênis.}
+{1281}{}{O Myron é um nerd chato pra caralho.}
+{1282}{}{Fio-terra, sadismo, qualquer coisa.}
+{1283}{}{Aquela filha do Bishop é uma safada.}
+{1284}{}{Ela não é uma viciada em Jet, ela é viciada em OSSO.}
+{1285}{}{Ouvi dizer que Vault City só tem dois tipos de cidadãos. Talvez tenha sido um acidente de clonagem.}
+{1286}{}{Parece que estive numa maratona ontem...}
+{1287}{}{Procurando por amor, docinho?}
+{1288}{}{Sem beijos. É a regra.}
+{1289}{}{Gostaria que o Myron se mudasse. Pra longe.}
+{1290}{}{Eu faço TUDO o que quiser... por um preço.}
+{1291}{}{Estou pronta pra ir, gracinha. E você?}
+{1292}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
+{1293}{}{Eu odeio bêbados.}
+{1294}{}{Faça um aposta comigo, meu bem.}
+{1295}{}{Procurando por diversão, gracinha?}
+{1296}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
+{1297}{}{Amor de verdade, bem aqui.}
+{1298}{}{Vou te dar um pouco de ação.}
+{1299}{}{Eu sou a amante selvagem.}
+{1300}{}{Eu sou a amante doméstica.}
+{1301}{}{Eu sou a amante safada.}
+{1302}{}{Eu sou a amante madura.}
+{1303}{}{Eu sou a amante sífil... digo, safada.}
+{1304}{}{Eu sou a amante sem vergonha.}
+{1305}{}{Eu posso arrumar uma amiga se quiser.}
+{1306}{}{Queria que o Myron fosse gay.}
+{1307}{}{Ainda não consigo entender porque eles chamam essa rua de Virgin Street...}
+{1308}{}{Queria que ele usasse um saco na cabeça de vez em quando...}
+{1309}{}{Quer me pagar um drinque?}
+{1310}{}{Quer levar uma garota solitária pra passear?}
+{1311}{}{Hã, é claro que sou uma mulher. Apenas ignore o meu pomo de Adão.}
+{1312}{}{Ouvi dizer que algumas garotas da outra rua mataram o cafetão delas.}
+{1313}{}{O melhor amor das wastes, bem aqui.}
+{1314}{}{É melhor aquele Jules me deixar em paz.}
+{1315}{}{Ainda estou com aquele machucado por causa da cabeceira...}
+{1316}{}{Estou exausta desde aquela última convenção...}
+{1317}{}{Queria que a Gen Con se mudasse pra outra cidade.}
+{1318}{}{Você pode gozar como um louco, sabia disso?}
+{1319}{}{Eu senti a Terra mexer, mas deve ter sido só o prazer.}
+{1320}{}{Quer me fazer gozar?}
+{1321}{}{Eu sou uma virgem. Eu não sou muito boa nisso.}
+{1322}{}{Precisa de uma guia?}
+{1323}{}{OPA. Isso vai custar mais caro.}
+{1324}{}{O Jules continua querendo fazer de graça.}
+{1325}{}{Ouvi dizer que as famílias estão começando a ficar tensas de novo.}
+{1326}{}{O negócio está fraco. Bem que podia passar uma caravana por aqui.}
+{1327}{}{Então ele se fantasiou de deathclaw, aí ele...}
+{1328}{}{Preciso de ajuda pra tirar esse vestido.}
+{1329}{}{Subir o meu zipper? E descer de novo?}
+{1330}{}{Desculpe, o que estava dizendo? Estava muito ocupada olhando pro seu corpo.}
+{1331}{}{Quer gastar um pouco de tempo?}
+{1332}{}{Eu chutei as bolas do Jules semana passada.}
+{1333}{}{Não me chamam de Senhorita da Sorte à toa.}
+{1334}{}{É CLARO que eu amo aquelas camisinhas com aroma de brahmin. Hum...}
+{1335}{}{Quer mostrar pra uma garota quem é que manda?}
+{1336}{}{Não há nada de errado com o Myron. Nada que uma bala não possa curar.}
+{1337}{}{Precisa de um encontro, tribal?}
+{1338}{}{Quer acasalar, tribal?}
+{1339}{}{Quer fazer a dança da chuva na minha cama, tribal?}
+{1340}{}{Tudo o que você precisa é de uma noite comigo.}
+{1341}{}{Procurando pelo paraíso? Bem aqui, docinho.}
+{1342}{}{Você pode me ajudar? Estou procurando pela minha virgindade.}
+{1343}{}{Eu sou virgem, mas preciso de dinheiro.}
+{1344}{}{Seja gentil, é minha primeira vez. Hoje.}
+{1345}{}{Estou tão excitada.}
+{1346}{}{Você tem a excitação, eu tenho a solução.}
+{1347}{}{Deixa eu acordar sua criança interior.}
+{1348}{}{Só estou fazendo isso pra paga a faculdade.}
+{1349}{}{Quer dançar, coração?}
+{1350}{}{Olha, pela última vez, eu não vou me vestir como uma "Vault Dweller".}
+{1351}{}{Quer descarregar a raiva?}
+{1352}{}{Quer me fazer gemer?}
 {1353}{}{::Purrrrr::}
 {1354}{}{::Rrrrrowrrr::}
-{1355}{}{Stop tickling me.}
-{1356}{}{Getting tired of being in Reno...}
-{1357}{}{Wanna pretend we're deathclaws in mating season?}
-{1358}{}{I'm not cheap, but I am on special.}
-{1359}{}{Tying you up costs extra.}
-{1360}{}{Where did I leave my whip?}
-{1361}{}{Ready like a freddie.}
-{1362}{}{I had to dress up like WILMA last night, fer Chrissakes.}
-{1363}{}{I was with Myron last night. For about five seconds.}
-{1364}{}{Looking to pop a clip?}
-{1365}{}{Where's the fire?}
-{1366}{}{Want to help me lose your virginity?}
-{1367}{}{My ass is going to fall off, Myron keeps it up.}
-{1368}{}{Damn Temperance Union came around again...}
-{1369}{}{You make my Geiger counter tick.}
-{1370}{}{::Whistles::}
-{1371}{}{Biting is extra.}
-{1372}{}{I guarantee I'm better than that Pip-Boy attachment you've been using.}
-{1373}{}{Want me to tighten your screws?}
-{1374}{}{I'd rather be with Avellone.}
-{1375}{}{I wish Nick Kesting was here. We could talk for hours!}
-{1376}{}{Nick Kesting is a really nice guy. We have great conversations.}
-{1377}{}{Tommy the Balls is sooo dreamy.}
-{1378}{}{I need fifty dollars to make you holler.}
-{1379}{}{My name's Easy, girl. What's yours?}
-{1380}{}{Hey, cutie. Looking for the other woman?}
-{1381}{}{Looking for a taste of the other side, sweetheart?}
-{1382}{}{Need a little company?}
-{1383}{}{Girl, let me teach you some things only a WOMAN can teach.}
-{1384}{}{Need someone to warm your tent, honey?}
-{1385}{}{Need someone to share your bedroll, honey?}
-{1386}{}{Wanna dance, girl?}
-{1387}{}{Girl, you ain't never had love 'til you had Reno love.}
-{1388}{}{Wanna fly, girl?}
-{1389}{}{Lose your way, cowgirl?}
-{1390}{}{Hey there, G.I. Jane?}
-{1391}{}{Looking for a good time, girl?}
-{1392}{}{Looking to go down-town, girl?}
-{1393}{}{Looking for some action, sugah?}
-{1394}{}{Where's the fire, honey?}
-{1395}{}{You got the money, girl, I got the time.}
-{2175}{}{. The one who kicked the Enclave's ass.}
+{1355}{}{Pare de me fazer cócegas.}
+{1356}{}{Estou me cansando de Reno...}
+{1357}{}{Quer fazer de conta que somos deathclaws em época de acasalamento?}
+{1358}{}{Eu não sou muito barata, mas sou especial.}
+{1359}{}{Fazer com cordas custa mais caro.}
+{1360}{}{Onde eu deixei meu chicote?}
+{1361}{}{Preparado como um libertino.}
+{1362}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.}
+{1363}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}
+{1364}{}{Quer dar uma descarregada?}
+{1365}{}{Onde é o incêndio?}
+{1366}{}{Quer que eu te ajude a perder sua virgindade?}
+{1367}{}{Se minha bunda cair, o Myron mantém ela levantada.}
+{1368}{}{Droga, o Sindicato da Abstinência está de volta…}
+{1369}{}{Você faz até o meu Geiger Counter apitar.}
+{1370}{}{::Assobios::}
+{1371}{}{Morder custa mais caro.}
+{1372}{}{Eu garanto que sou melhor que esse Pip Boy que você está usando.}
+{1373}{}{Quer que eu aperte seu parafuso?}
+{1374}{}{Eu gostaria de estar com o Avellone agora.}
+{1375}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
+{1376}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}
+{1377}{}{O Tommy the Balls é um sonho.}
+{1378}{}{Preciso de cinqüenta dólares pra fazer você gemer.}
+{1379}{}{Meu nome é Fácil, garota. Qual é o seu?}
+{1380}{}{Ei, gracinha. Procurando por outra mulher?}
+{1381}{}{Procurando pelo sabor do outro lado, coração?}
+{1382}{}{Precisa de companhia?}
+{1383}{}{Garota, deixa eu te ensinar uma coisa que só uma MULHER pode ensinar.}
+{1384}{}{Precisa de alguém pra esquentar sua tenda, docinho?}
+{1385}{}{Precisa de alguém pra dividir o colchonete, docinho?}
+{1386}{}{Quer dançar garota?}
+{1387}{}{Garota, você nunca fez amor se não experimentou o amor de Reno.}
+{1388}{}{Quer voar, garota?}
+{1389}{}{Está perdida, garota?}
+{1390}{}{Olá, G.I. Jane?}
+{1391}{}{Procurando por diversão, garota?}
+{1392}{}{Quer ir pro centro, garota?}
+{1393}{}{Procurando por ação, docinho?}
+{1394}{}{Onde é o incêndio, docinho?}
+{1395}{}{Você tem o dinheiro, garota, eu tenho o tempo.}
+{2175}{}{. Quem acabou com a Enclave.}
 {2178}{}{! Way to kick the Enclave's ass!}
-{2181}{}{. The one who kicked the Enclave's ass.}
+{2181}{}{. Quem acabou com a Enclave.}
 {2195}{}{!}
-{2197}{}{! Can you get me a job in the studio?}
+{2197}{}{! Você pode me arrumar um emprego no estúdio?}
 {2210}{}{.}
-{2263}{}{! You go, stud!}
-{2264}{}{ kicks so much ass, you'd think he was a boot in another life.}
+{2263}{}{! Isso aí, cara!}
+{2264}{}{ é tão mau, que ele deve fazer a barba com maçarico!}
 {2268}{}{?}
 {2272}{}{?}
-{2278}{}{! You go, girl!}
+{2278}{}{! Isso aí, garota!}
 {2279}{}{?}
-{2280}{}{ kicks so much ass, you'd think she was a boot in another life.}
+{2280}{}{ dá bicuda em tantas bundas, daria pra pensar que ela foi uma bota em outra vida.}
 {2285}{}{.}
 {2292}{}{...}
 {2293}{}{?}
-{2294}{}{... over heeere, sweetie...}
+{2294}{}{… Bem aqui, gracinha...}
 {2295}{}{.}
 {2855}{}{?}
 {2858}{}{?}
 {2861}{}{?}
-{2865}{}{, you big hunk o' man... what have you been up to?}
-{2867}{}{! How are you?}
-{2868}{}{. Can I help you with...*anything?*}
+{2865}{}{, seu malandro... onde esteve?}
+{2867}{}{! Como vai?}
+{2868}{}{. Posso te ajudar com *alguma coisa?*}
 {2870}{}{.}
-{2873}{}{, you little temptress... what have you been up to?}
-{3100}{}{You see one of the Cat's Paw girls.}
-{3150}{}{You see a... lady of the evening. Her tattered clothes are draped seductively around her body.}
-{3151}{}{You see one of the Cat's Paw girls. She winks at you.}
-{3152}{}{You see one of the Cat's Paw girls. Her eyes are like blown fuses.}
-{3153}{}{You see one of the Cat's Paw girls. She smells like flowers.}
-{3154}{}{You see one of the Cat's Paw girls. She smells like mother.}
-{3155}{}{You see one of the Cat's Paw girls. It is a mystery to you how her tattered rags manage to hold her breasts in.}
-{3156}{}{You see one of the Cat's Paw girls. She looks as if she kills her mates and eats them.}
-{3157}{}{You see one of the Cat's Paw girls. She is appraising you like a jeweler.}
+{2873}{}{, sua pequena safadinha... onde esteve?}
+{3100}{}{Você vê uma das garotas do Cat's Paw.}
+{3150}{}{Você vê uma dama da noite. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
+{3151}{}{Você vê uma prostituta. Seus olhos demonstram calor.}
+{3152}{}{Você vê uma prostituta. Ele cheira a flores.}
+{3153}{}{Você vê uma prostituta. Ela tem um cheiro de mãe.}
+{3154}{}{Você vê uma prostituta. É um mistério pra você saber como os trapos dela conseguem segurar seus seios.}
+{3155}{}{Você vê uma prostituta. Parece que ela mata seus parceiros e os come.}
+{3156}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}
+{3157}{}{Você vê uma prostituta. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
 {3158}{}{You see one of the Cat's Paw girls. Her tattered clothes are draped seductively around her body.}
-{3200}{}{Oh, Gawd! Oh Gawd! OhGawdohGawdohGawd... ooooooh Gaaaawd.}
-{3201}{}{Yes! Yes! Yeeeeeeeees YesYesYesYes YES YES YESSSSS! Now go pay the
- cashier.}
-{3202}{}{Hurry up. Meter's running.}
-{3203}{}{Need a moist towelette?}
-{3204}{}{Give it to me, Fr... Ni... Sco... uh, sorry what was your name again?}
-{3205}{}{Oh Gawd, oh Gawd, oh Gawd! NOW are we finished?}
-{3206}{}{Whoa. THAT'S gonna cost extra.}
-{3207}{}{Yes! You are Columbus, I am America!}
-{3208}{}{Oh, God, that was the beeest. Now get the hell offa me and pay the
- cashier.}
-{3209}{}{Is it in yet?}
-{3210}{}{Yes, you ARE the Vault Dweller. Yes, YOU found the water chip and beat
- the MASTER. You are a HERO.}
-{3211}{}{You're so rugged, you're like hardened power armor.}
+{3200}{}{Oh, isso! Vai! Mais rápido! Vai! Vaivaivaivai!!! Oh! Depressa! Vai! OOOOOOHH!}
+{3201}{}{Hmm! Mais rápido! Ooooh! Oh! Sim! SIM! OOH! OOOH! Agora pague no
+ caixa.}
+{3202}{}{Depressa. O cronômetro está correndo.}
+{3203}{}{Precisa de uma flanela?}
+{3204}{}{Oh! Vem comigo Fr...Ni...Sco... hã, desculpe, qual é o seu nome mesmo?}
+{3205}{}{OH! Ahhhh! Hummm... VAI! OOOH!!! AGORA nós terminamos?}
+{3206}{}{Opa. ISSO vai custar mais caro.}
+{3207}{}{Sim! Você é o Cabral, eu sou o Brasil!}
+{3208}{}{Uau... essa foi demais... Hum... Agora cai fora daqui e pague no
+ caixa}
+{3209}{}{Está dentro ainda?}
+{3210}{}{Sim, você É o Vault Dweller. Sim, VOCÊ achou o water chip e acabou com o Master. Você é um herói.}
+{3211}{}{Você é tão duro! Parece que você é uma hardened power armor.}
 {3212}{}{*Huff*}
 {3213}{}{*Puff*}
-{3214}{}{No, I'm NOT going to wear the Mikey Mouse ears.}
-{3215}{}{Yes, yes, you have "monstah balls."}
+{3214}{}{Não, eu NÃO vou vestir as orelhas do Mickey Mouse.}
+{3215}{}{Sim, sim, você tem "bolas gigantes".}

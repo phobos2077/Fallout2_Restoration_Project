@@ -1,20 +1,20 @@
-{100}{}{You see a cheerful young man.}
-{101}{}{You see Steve, Sub-Greeting Chief of Vault City.}
-{102}{}{He has a vacant look in his eyes.}
-{103}{}{Hello and welcome to Vault City, the best city in New California!
- I'm Steve... how can I help you?}
-{104}{}{Is this fenced-in area all there is to the city?}
-{105}{}{What do you mean by "the best?"}
-{106}{}{I'm looking for the Vault. Can you tell me where it is?}
+{100}{}{Você vê um jovem homem alegre.}
+{101}{}{Você vê Steve, Sub-Chefe de Boas Vindas de Vault City.}
+{102}{}{Ele tem um olhar vago em seus olhos.}
+{103}{}{Olá e bem vindo a Vault City, a melhor cidade em New California!
+ Eu sou o Steve...como posso ajudá-lo?}
+{104}{}{Essa área cercada logo ali é a cidade?}
+{105}{}{O que você quer dizer com "a melhor?"}
+{106}{}{Estou procurando o Vault. Pode me dizer onde fica?}
 {107}{}{Adeus.}
-{108}{}{Umm... (Looks at a pamphlet in his hand.) Uh... you weren't
- supposed to ask that. There's no answer for that in here.}
-{109}{}{Do you know anything?}
-{110}{}{Thanks anyway.}
-{111}{}{(Reading from the Pamphlet.) If the Outworlder... that must be
- you... insults you... that must be me... then refer them to the Chief
- Greeting Officer. Oh... I'm to refer you to Melinda, the Chief
- Greeting Officer.}
+{108}{}{Umm… (Parece um panfleto em suas mãos.) Uh... supostamente
+ você não devia ter perguntado isso. Não tem resposta para isso aqui.}
+{109}{}{Você sabe de alguma coisa?}
+{110}{}{De qualquer forma, obrigado.}
+{111}{}{(Lendo o Panfleto.) Se o Forasteiro… esse deve ser
+ você… insultar você… esse deve ser eu… então o encaminhe para o Diretor
+ Chefe de Boas Vindas. Oh… eu tenho que te encaminhar para a Melinda, a Diretora
+ Chefe de Boas Vindas.}
 {112}{}{I'll go talk to her, then.}
-{113}{}{Welcome to the Greeting Office. I'm Steve.}
-{114}{}{Sorry, gotta read up on this thing.}
+{113}{}{Bem vindo ao Escritório de Boas Vindas. Eu sou Steve.}
+{114}{}{Desculpe, tenho que ler essa coisa.}

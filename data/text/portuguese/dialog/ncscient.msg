@@ -6,27 +6,27 @@
 {153}{}{She is filling a hypodermic, grumbling slightly to herself.}
 {154}{}{Hello Myron, sir.}
 {155}{}{Myron... sir, do you have a minute...?}
-{156}{}{Any more word when new slaves will be delivered, Myron, sir?}
+{156}{}{Sabe quando os novos escravos chegarão, Myron, senhor?}
 {157}{}{Myron... sir, these new results are very promising...}
 {158}{}{Myron? A minute of your time, sir?}
 {159}{}{Where the hell is Myron...}
-{160}{}{Get Myron up here. He has to see this.}
-{161}{}{Wish these slaves would shut up...}
+{160}{}{Traga o Myron aqui. Ele tem que ver isso.}
+{161}{}{Bem que esses escravos poderiam calar a boca…}
 {162}{}{Where did I leave that syringe...}
 {163}{}{Has anyone seen Subject 31? He was here just a second ago.}
-{164}{}{Have the slaves bring more of the Jet Beta.}
-{165}{}{Test results from Jet Beta are very promising, but...}
-{166}{}{"High" lasts 15 min to an hour... calculate one dose/hour period... hmmmmnnn.}
+{164}{}{Os escravos tomaram mais do Jet Beta?}
+{165}{}{Resultados dos testes com o Jet Beta são muito promissores, mas…}
+{166}{}{O estado de êxtase dura de 15 min a uma hora... calculando um dose/hora... hmmmnnn.}
 {167}{}{Subject 12 still keeps having bleeding in the lungs...}
 {168}{}{That's the fifth time Subject 12 has had seizures... up the dose, see what happens...}
-{169}{}{Well, what SORT of hallucinations was he having?}
-{170}{}{Check that one's heart rate. If it's still within tolerable limits, up the dosage.}
-{171}{}{Why did the slave in the control group kill herself? We weren't even testing her!}
+{169}{}{Bem, que TIPO de alucinações ele estava tendo?}
+{170}{}{Cheque o batimento cardíaco deste aqui. Se ainda estiver em limites toleráveis, aumente a dose.}
+{171}{}{Por que a escrava no grupo de controle se matou? Nós nem a estávamos testando!}
 {200}{}{Tests are proceeding as scheduled, Myron.}
 {201}{}{This new strain of Jet is extremely habit-forming, sir. The slaves are almost
  willing to kill each other for it.}
 {202}{}{The slaves would rather take Jet than eat, it's so potent.}
-{203}{}{Who are these people with you, Myron? New subjects?}
+{203}{}{Quem são estas pessoas com você, Myron? Novos escravos?}
 {204}{}{The third test group seem to be doing the best of all the groups, Myron, sir.}
 {205}{}{Myron, I think the next test group should include at least three children, sir.}
 {206}{}{Myron, sir, Subject 46 had a heart attack; we are restricting doses to six times

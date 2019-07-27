@@ -1,3 +1,3 @@
-{100}{}{You see a robot.}
-{101}{}{This robot has sustained a great deal of damage. Its surface is covered with dents, scratches, mud, and broken wires.}
+{100}{}{Você vê um robô.}
+{101}{}{Este robô sofreu uma grande quantidade de dano. Sua superfície está coberta de amassados, arranhões, lama e fios cortados.}
 {102}{}{}

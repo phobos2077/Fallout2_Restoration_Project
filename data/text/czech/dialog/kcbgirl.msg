@@ -5,12 +5,10 @@
 {104}{}{Vidíš ženu, která si tì prohlíží.}
 {105}{}{Tahle žena tì doslova svléká pohledem.}
 {106}{}{Vidíš mladou ženu.}
-
 {110}{}{Vidíš atraktivní dívku. Na oblièeji má nanesený nìjaký druh bílého pudru.}
 {111}{}{Vidíš ženu støedního vìku s opravdu velmi pìknì vyvinutými òadry.}
 {112}{}{Vidíš pøitažlivou ženu odìnou do pøiléhavých šatù.}
 {113}{}{Vidíš ženu, která se na tebe usmívá.}
-
 {120}{}{To bylo rychlý.}
 {121}{}{Kdypak to bylo naposledy, zlatíèko?}
 {122}{}{Snad to bude pøíštì delší.}
@@ -19,7 +17,6 @@
 {125}{}{Kdyby byli všichni mí zákazníci tak rychlí, mohla bych jít døív domù.}
 {126}{}{Je to vìtší zábava, když poèkáš, až ti s tím pomùžu.}
 {127}{}{Kdybys poèkal, až se svléknu, urèitì by se ti to líbilo víc.}
-
 {130}{}{To bylo opravdu pìkné. Jsi opravdový chlap.}
 {131}{}{To bylo skvìlé. Jsi úžasný. Další!}
 {132}{}{Jo, zlatíèko, ještì nikdy jsem nic lepšího nezažila. (zív)}
@@ -28,21 +25,18 @@
 {135}{}{Ne zlato, na velikosti nezáleží. Bylo to hezké.}
 {136}{}{Nejsi jenom - hup na to a je to.}
 {137}{}{Hezkej malej šikula, co ho tam máš schovanýho...}
-
 {140}{}{Velikost je dùležitá! Ach ty záhady života... }
 {141}{}{Až pøijdeš pøíštì, udìlám si pøesèas.}
 {142}{}{Jistì sis za svý peníze užil.}
 {143}{}{Na zbytek dne si budu muset vzít volno.}
 {144}{}{Páni! Taky se s tebou otøásla zem?}
 {145}{}{Teï už vím, jak se cítila Kateøina Veliká.}
-
 {150}{}{No, prachy jsou prachy.}
 {151}{}{Tohle bylo, hmm, jiné, øekla bych.}
 {152}{}{Tohle bylo fakt super. Další!}
 {153}{}{Ne, nemùžeš používat mùj parfém.}
 {154}{}{No, aspoò je tvùj knírek menší, než má vìtšina mých zákazníkù.}
 {155}{}{Jseš si jistá, že jsi holka?}
-
 {160}{}{To bylo velmi nìžné.}
 {161}{}{To bylo nezvyklé, ale rozhodnì ne špatné.}
 {162}{}{Myslím, že bych si to ráda nìkdy opìt vyzkoušela.}
@@ -50,7 +44,6 @@
 {164}{}{To bylo parádní, zlato.}
 {165}{}{Fíha! Od teï bude mùj život úplnì jiný.}
 {166}{}{Nevìdìla jsem, že to mùže být i pøíjemné.}
-
 {170}{}{Jdi si promluvit s Nosatou Sally.}
 {171}{}{Vypadáš roztomile.}
 {172}{}{Hroznì tì miluju!}

@@ -1,12 +1,12 @@
 {150}{}{You see a tall young man with a mohawk. He's wearing a lot of chains and leather.}
 {151}{}{You see Chris Wright.}
 {152}{}{You see Chris Wright. He looks bored out of his skull.}
-{200}{}{Hey! }
+{200}{}{Ei! }
 {201}{}{Full on, }
 {202}{}{Rock on, }
-{203}{}{::Cheers::}
-{204}{}{::Claps::}
-{205}{}{::Whistles::}
+{203}{}{::Assobios::}
+{204}{}{::Palmas::}
+{205}{}{::Assobios::}
 {215}{}{How do you go to the bathroom with that thing on?}
 {220}{}{Howdy, }
 {221}{}{Damn hot, innit, }
@@ -21,12 +21,12 @@
 {248}{}{. I owe you big, and the Wright family always pays its debts. What can I do for you?}
 {249}{}{Mattah. Man is Mattah!}
 {250}{}{Hoobajuube}
-{251}{}{Wander off}
+{251}{}{Cai fora}
 {252}{}{Quem é você?}
 {253}{}{I'm looking for a job. Is Family Wright hiring?}
 {254}{}{Say, I ran into your mom.}
 {255}{}{Can you tell me about Richard?}
-{256}{}{Nothing. Sorry to bother you.}
+{256}{}{Nada. Desculpe por atrapalhar.}
 {257}{}{Can you tell me about the Wright Family?}
 {265}{}{Piss off, retard. I ain't got time to do sign language with you.}
 {275}{}{I'm Chris. Chris Wright. Of the Family Wright. Glad you asked?}
@@ -41,7 +41,7 @@
 {293}{}{Speaking of family, I ran into your mom.}
 {295}{}{Really? How interesting... well, look, I have to be going.}
 {296}{}{Family Wright is the biggest crime family in Reno. We're gonna rule this city.}
-{305}{}{Like what?}
+{305}{}{Como o quê?}
 {306}{}{Can you tell me about Family Wright?}
 {307}{}{Is Family Wright hiring?}
 {308}{}{I ran into your mom not long ago. Nice lady.}
@@ -61,7 +61,7 @@
 {330}{}{Thanks. Can I ask you some questions?}
 {335}{}{Naw... we don't usually hire muscle that's not family. You can try asking Pa at the house, but he'll most likely
  just say no.}
-{336}{}{All right then.}
+{336}{}{Está certo então.}
 {345}{}{(Cringes.) *Greeeat.* Did she give you a speech?}
 {346}{}{A little. Do you not like your mother?}
 {347}{}{No. Does she usually?}
@@ -75,7 +75,7 @@
  I love her n' all, but sometimes she's as blind as a mule.}
 {367}{}{Heh-heh. And she looks like one, too.}
 {368}{}{Blind? How do you mean?}
-{369}{}{Oh. I had some other questions...}
+{369}{}{Oh. Ei, tenho algumas outras perguntas…}
 {370}{}{I suppose. Look, I better be going. }
 {380}{}{She goes around and preaches all about sinning and stuff, but she doesn't even really know what Dad does. Either that, or she ignores it.}
 {381}{}{What does your Dad do?}

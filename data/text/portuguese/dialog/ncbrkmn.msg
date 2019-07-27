@@ -16,7 +16,7 @@
 {256}{}{(The man wimpers and scurries away.)}
 {257}{}{Hehe. Nice doggie...}
 {258}{}{Hehe. Me super doogie...}
-{300}{}{Woof?}
+{300}{}{Au?}
 {301}{}{Yeah. Just listen closely to this series of letters I am about to say...}
 {302}{}{(You slowly verbalize the series of letters you learned from the computer at the EPA, making sure the correct
  inflections are used on each letter. When you are done reading the phrase you look back up at the man. He looks back

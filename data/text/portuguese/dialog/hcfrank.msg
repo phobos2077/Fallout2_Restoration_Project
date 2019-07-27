@@ -6,7 +6,7 @@
 {104}{}{Aggggg! ::drool::}
 {105}{}{You! Me! Go!}
 {106}{}{Quem é você?}
-{107}{}{Why are you in jail?}
+{107}{}{Por que você está na prisão?}
 {108}{}{O que você pode me dizer sobre este lugar?}
 {109}{}{What can you tell me about Marcus?}
 {110}{}{I got no idea what you're saying, freak. Get out of my sight.}
@@ -45,9 +45,9 @@
 {136}{}{Yeah? Then go talk to Jacob, the chemist. I'll catch you later.}
 {137}{}{Mutie-lover! Get outta here! I don't want to breathe the same air as you!}
 {138}{}{You again? What do you want?}
-{139}{}{Tell me about Broken Hills.}
+{139}{}{Me fale sobre Broken Hills.}
 {140}{}{Tell me about Marcus.}
-{141}{}{Why are you in jail?}
+{141}{}{Por que você está na prisão?}
 {142}{}{You talked to Jacob? What are you waiting for? Get us outta here!}
 {143}{}{Thanks for gettin' us outta there. Too bad we didn't get t' kill anyone before we left.}
 {144}{}{Ha! Killin' those muties was almost worth being in the slammer!}
@@ -58,7 +58,7 @@
 {149}{}{Nutting. ByeBye.}
 {150}{}{Deixa pra lá. Tchau.}
 {151}{}{This ain't justice. You oughta be ashamed of yourself.}
-{152}{}{Thanks for your help, friend. Let's go talk to Jacob and Aileen.}
-{153}{}{You have successfully performed the jailbreak.}
+{152}{}{Valeu pela ajuda. Vamo' falar com o Jacob e a Aileen.}
+{153}{}{Você realizou a fuga com sucesso.}
 {154}{}{Thanks for your help in the slammer, stranger.}
 {155}{}{Não há problema.}

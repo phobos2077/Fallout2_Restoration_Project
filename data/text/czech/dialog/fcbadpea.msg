@@ -14,7 +14,7 @@
 {113}{}{Ti pankáèi jsou vždycky tak hlasití.}
 {114}{}{Práce, práce a zase jenom práce. Rýže, rýže a zase jenom rýže. ::povzdech::}
 {115}{}{To je celý život jenom o tomhle?}
-{116}{}{Jsme chytøejší než si myslíš.}
+{116}{}{Jsme chytøejší, než si myslíš.}
 {117}{}{Podívej! Lao wai!}
 {118}{}{Vítej v San Franciscu.}
 {119}{}{Vypadáš jako nìkdo, kdo to má v hlavì v poøádku.}
@@ -54,7 +54,6 @@
 {153}{}{To je celý život jenom o tomhle?}
 {154}{}{Jsme chytøejší, než si myslíš.}
 {155}{}{Podívej! Lao wai!}
-
 {163}{}{Ty jsi zabil AHS-9? Jó!}
 {164}{}{Ti hubologisti mi nahání husí kùži.}
 {165}{}{Prokázal jsi nám velkou službu.}

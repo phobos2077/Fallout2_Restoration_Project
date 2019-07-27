@@ -13,6 +13,5 @@
 {112}{}{Dveøe pod nátlakem vržou a praskají.}
 {113}{}{Dveøe jsou již odemèeny.}
 {114}{}{Nepøedstavuješ pro tyto dveøe žádnou výzvu.}
-
 {120}{}{Haló, hu hu?}
 {121}{}{Hehe, mluvicí dveøa. Ahoj!}

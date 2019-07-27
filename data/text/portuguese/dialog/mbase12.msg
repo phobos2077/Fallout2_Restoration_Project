@@ -1,1 +1,2 @@
-{100}{}{The walls of this cave are a combination of natural rock and man-made walls. It looks as if a large explosion of some kind destroyed this structure long ago.}
+{100}{}{Os muros desta caverna são uma combinação de uma pedra natural e paredes feitas-pelo-homem.
+ É como se uma larga explosão de alguma coisa destruiu esta estrutura há muito tempo.}

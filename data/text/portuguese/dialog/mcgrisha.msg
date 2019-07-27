@@ -1,185 +1,141 @@
-{100}{}{You see a very active old man.}
-{101}{}{You see Grisham.}
-{102}{}{You can't quite place him, but he looks familiar.}
-{151}{}{I told you you'd get yours!}
+{100}{}{Você vê um homem velho bem ativo.}
+{101}{}{Grisham.}
+{102}{}{Você não lembra direito, mas ele parece bem familiar.}
+{151}{}{Eu te falei que você ia conseguir!}
 {152}{}{Bwahahaha!}
 {153}{}{Vá embora!}
-{154}{}{I'm busy!}
-{155}{}{I knew my daughter was odd.}
-{156}{}{Different people, different tastes, I suppose.}
-{157}{}{I think I'm going to be sick.}
-{158}{}{I knew my son was odd.}
-{159}{}{You take good care of my daughter.}
-{160}{}{I guess you're family, now.}
-{161}{}{You take good care of my son.}
-{162}{}{The name's Grisham. Welcome to my slaughterhouse. You dropping off or picking up?}
-{163}{}{I guess picking up? I'm interested in buying some traveling provisions.}
-{164}{}{You wouldn't have happened to have seen a gold watch lying around here somewhere?}
+{154}{}{Estou ocupado!}
+{155}{}{Sabia que minha filha era estranha.}
+{156}{}{Pessoas diferentes, gostos diferentes, eu acho.}
+{157}{}{Acho que vou ficar doente.}
+{158}{}{Sabia que meu filho era meio estranho.}
+{159}{}{Eh, parece que você é da família agora.}
+{160}{}{Cuide bem de minha filha.}
+{161}{}{Cuide bem de meu filho.}
+{162}{}{Meu nome é Grisham. Bem vindo a meu açougue. Você quer vender ou comprar?}
+{163}{}{Quero comprar! Estou interessado em comprar alguns mantimentos de viagem.}
+{164}{}{Você por acaso, não viu nenhum relógio de ouro pelo chão ou outro lugar?}
 {165}{}{O que eu posso fazer por você agora?}
-{166}{}{I would like to buy some of your famous jerky.}
-{168}{}{Can you tell me a little bit about the slaughterhouse?}
-{169}{}{I see the drought hasn't affected your business yet.}
-{170}{}{I knew you'd be able to handle it. Let's see now, I owe you $1000 for completing the job. Of course, }
-{171}{}{ brahmin got killed due to your carelessness. At $100 per brahmin your reward is }
-{172}{}{. Don't even bother to lie about the number of brahmin killed -- I had one of my boys follow you
- out and watch from a distance.}
-{173}{}{You never said anything about charging me if any brahmin died!}
-{174}{}{Why, you conniving, dried up old coot. Arg! Mark my words - this is the last time you get the best
- of me!}
-{175}{}{Thanks, pops; pleasure doing business with ya.}
-{176}{}{How dare you show your face around here. I lost ten brahmin due to your cowardice. However, if
- you wish to make amends, $1500 would do a lot to cover my losses.}
-{177}{}{Those brahmin weren't worth more than a $1000.}
-{178}{}{I don't have that kind of money, and if I did, I wouldn't give it to a little trickster like
- you.}
-{179}{}{I've left my money in my room; let me go get it for you.}
-{180}{}{Ah! Of course, of course. Let's see, for traveling, I recommend our world famous dried brahmin
- strips. Won't spoil on the road and it's tasty, too. Only $10 a package. You interested?}
-{181}{}{Sounds good; give me one package.}
-{182}{}{No thanks, maybe later. I would like to ask you some questions, though.}
-{183}{}{A pleasure doing business with you. Is there anything else I can do for you?}
-{185}{}{Wait! You look to be a capable traveler. I don't suppose you'd be interested in making some
- money?}
-{186}{}{Are you sure you're not interested in making some money? I'm quite sure you'd be able to solve
- my problem quite easily.}
-{187}{}{That depends. How much, what do I have to do, and most importantly, HOW MUCH?}
-{188}{}{Smart as whip! You remind me of myself when I was young. Simple... some wild dogs have been
- coming down out of the hills lately looking for food. I think they find brahmin easy prey and have been
- attacking my herds nightly. Wipe out their pack, and I'll give you $1000.}
-{189}{}{You're holding something back, you old coot. What's the catch?}
-{190}{}{Perceptive as well as smart. I knew I wouldn't be able to pull anything on you. The catch is
- that for every brahmin you let get killed, I charge you $100. I pay well for success and I also charge
- for failure. That's the risk you take working for me.}
-{191}{}{Great! Head out to the pastures at night and kill the pack of wild dogs that are attacking my
- brahmin. Come back here when you finish the job.}
-{192}{}{Great jumping horny jacko-snatchers! Is Cornelius still looking for his lost watch? Why can't he
- accept that it's gone? That dang watch never worked anyways, and I'll be a brahmin's uncle if it was
- actually made of gold. Give it up; you'll never find it.}
-{193}{}{Actually, Farrel asked me to look for it.}
-{194}{}{Can I ask you a few more questions?}
-{195}{}{Thanks all the same, but I'll keep looking.}
-{196}{}{I didn't? Are you sure? I could have sworn I told ya... maybe next time you won't go accepting
- jobs until you know all the details. Now if you don't mind, I have other work to attend to.}
-{197}{}{Hehehe. Now that all depends. Are you planning to stay in town much longer? Bwahahahaha!}
-{198}{}{I see you're no fool. OK - $1000 then, and we call it even. Shake on it.}
-{199}{}{[SHAKE HANDS WITH GRISHAM]}
-{200}{}{Now hold on a minute. Now that I think of it, those brahmin looked a bit thin. How about $750,
- instead?}
-{201}{}{I changed my mind, I don't want to pay you.}
-{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
-{203}{}{[Grisham turns beet red and talks to you with teeth clenched.] OK, $750 then. Give me the money!}
-{204}{}{You know, $750 still seems kind of expensive. Those brahmin would have died anyway if the dogs
- didn't get them first. But I'm not totally selfish; I'll give you $50.}
-{206}{}{FINE! GIVE ME THE MONEY AND GET OUT!}
-{207}{}{[LEAVE WITHOUT PAYING]}
-{208}{}{Mark my words, you'll get yours. If not by me, then by someone else.}
-{209}{}{[Grisham smiles at you in such a way that you involuntarily take a step back.] Why don't you
- just keep your money? I have feeling you might have need of it later.}
-{210}{}{Not much to tell. I run the slaughterhouse in Modoc; you want something slaughtered, you bring
- it to me. I'll kill it for ya and make it into some of the best jerky you've ever tasted.}
-{211}{}{What about the hides and other parts of the animal?}
-{213}{}{Actually, it has kind of helped my business. Nobody has been able to grow sufficient
- food for their brahmin, so they are severely culling their herds. But that's just a temporary thing;
- you have to look at the big picture. With the decline in the brahmin population, my business can only
- suffer.}
-{215}{}{[Grisham walks around you, pokes you a couple of times and then opens you mouth and checks your
- teeth.] Ah! A fine, healthy specimen. You'll do fine. Ahem... Bad doggies, killing good brahmin. Go kill
- the bad doggies for your friend Grisham. Grisham will give big reward. OK?}
-{216}{}{No, me like doggies. Only bad man no like doggies. Me go away from bad man.}
-{217}{}{I do it. Go there now!}
-{218}{}{Good! Remember, bad things go 'Woof! Woof!' Good things go 'Moo.' Try not to kill the good things.}
-{219}{}{You seem to be a little short of money. I don't take credit and I certainly don't believe in
- giving something for nothing.}
-{221}{}{That's what I get for sending a Neanderthal. Just go!}
-{222}{}{Uh... snarf ick unga bunga. Now take your money and be a good little Neanderthal and leave.}
-{223}{}{You are quick, aren't you? Well, if you ask you can retrieve any part of the animal you want.
- Balthas will usually buy the hides, and Rose will buy whatever scraps you don't want. She uses it to
- make soup and feed her dogs.}
-{225}{}{You've got to be kidding. Everyone knows Farrel took the watch. Why would he ask you to search
- for it... unless Farrel didn't steal the watch after all! Or maybe this is a trick to convince everyone
- he didn't take it. I need to think this out.}
-{228}{}{Boy, don't even try to explain this. I don't want to hear it. I'm gonna get the preacher, make
- this all lawful like, and you will leave and take my son with you when you go.}
-{229}{}{I can't say I'm not just a little turned on by this, but I can't have her living in this house
- now that I've seen it. You two are going to have to get hitched and leave.}
-{230}{}{You mind explaining what yer doing with my daughter?}
-{231}{}{You mind explaining what yer doing with my son?}
-{232}{}{Let me explain it to you gently, pops. There are these birds and bees, you see... }
-{233}{}{I'm a doctor, and I was just giving her a complete physical.}
-{234}{}{I'm a doctor, and I was just giving him a complete physical.}
-{235}{}{This isn't what it appears to be.}
-{236}{}{That's just great. I'm going to have a smart-ass as son-in-law. Well, come on... son. Let's get
- this over with.}
-{237}{}{That's just great. I'm going to have a smart-ass as a daughter-in-law. Well come on... daughter. Let's get
- this over with.}
-{238}{}{Let me see. It looked to me that you and my daughter were imitating the brahmin during mating
- season.}
-{239}{}{Let me see - it looked to me that you and my son were doing the horizontal tango between the
- sheets.}
-{240}{}{OK, maybe it is what it appears to be. But it's only sex, it's not like there's love involved or
- anything.}
-{241}{}{I understand perfectly. Hormones, and it being that special time of the year.}
-{242}{}{I'm glad you understand.}
-{243}{}{I understand. I hope you understand that you both are gonna hafta get hitched. Can't have rumors
- flying about town, you know. Come along and let's go get the preacher. Don't make me fill ya full of
- buckshot.}
-{244}{}{Really? Then why were you both naked?}
-{245}{}{Germs? I mean GERMS! Very important to be clean when doing these examinations.}
-{246}{}{Well as long as yer a doctor, I guess it's OK. You best get dressed; rumors tend to start
- because of misunderstandings like this. While you're here, I've been having these pains down in my
- anus and was wondering if you could take a look at it.}
-{247}{}{Err... I'll take a look at that later. I have another patient waiting for me. Bye.}
-{248}{}{Yeah. Why don't you just come with me to get the preacher? Don't try anything funny, or you will
- need a doctor.}
-{260}{}{I knew you'd be able to handle it. Let's see now, I owe you $1000 for completing the job. Here
- you go.}
-{300}{}{What the hell is going on here?}
-{301}{}{Uhhh... Sir, I was just...}
-{302}{}{You keep your damn hands off of her...}
-{350}{}{[Looking at Bessy] Dropping off.}
-{360}{}{I'd like you to make some jerky for me.}
-{400}{}{What's going on in here?}
-{402}{}{Holy shit! I knew }
-{403}{}{How dare you sully the honor of my }
-{404}{}{Uh, Jo, can we just skip to the vow tying parts?}
-{406}{}{Boy...}
-{407}{}{Missy...}
-{410}{}{Don't make me make }
+{166}{}{Eu gostaria de comprar um pouco da sua famosa carne seca.}
+{168}{}{Fale-me um pouco sobre o seu açougue!}
+{169}{}{Parece que a seca não afetou os seus negócios ainda.}
+{170}{}{Eu sabia que você ia conseguir. Vamos ver, Te devo $1000 pelo trabalho. Mas, }
+{171}{}{ brahmin foram mortos por sua falta de cuidado. $100 por cada brahmin, sua recompensa é }
+{172}{}{. E nem se preocupe em mentir a quantidade de brahmin morto -- Um dos meus garotos te seguiu para olhar como você se saia.}
+{173}{}{Mas você nunca falou nada sobre descontar de minha recompensa se algum brahmin morresse!}
+{174}{}{Seu velho trapaceiro e imundo. Arg! Marque minhas palavras - é a ultima vêz que você terá o melhor de mim!}
+{175}{}{Obrigado; foi um prazer fazer negócios com você.}
+{176}{}{Como você ousa vir aqui? Perdi dez brahmin por sua covardia. Mas, se você quiser consertar isso, $1500 será suficiente pra cobrir minhas perdas.}
+{177}{}{Aqueles brahmin não valiam mais que $1000.}
+{178}{}{Eu não tenho esse dinheiro, e se tivesse, eu não o daria para um trapaceiro como você.}
+{179}{}{Eu deixei meu dinheiro no meu quarto; vou lá buscar para você.}
+{180}{}{Ah! Claro, claro. Vamos ver, para viagem, eu recomendo minha famosa carne seca. Não estraga na viagem e é muito gostosa também. Apenas $10 o pacote. Interessado?}
+{181}{}{Parece bom; me dê um pacote.}
+{182}{}{Obrigado, outra vez quem sabe. Mas eu gostaria de te fazer algumas perguntas.}
+{183}{}{Um prazer fazer negócio com você. Algo mais que eu possa fazer por você?}
+{185}{}{Espere! Você parece ser um bom aventureiro. Está interessado em conseguir um dinheiro a mais?}
+{186}{}{Tem certeza que não está interessado em trabalho? Tenho certeza que você conseguiria resolver meu problema fácil.}
+{187}{}{Depende. Aonde, o que terei que fazer, e o mais importante, QUANTO VOU RECEBER?}
+{188}{}{Esperto em?! Você lembra a mim quando eu era jovem. Simples...Alguns cães selvagens estão descendo a montanha atrás de comida. E eles infelizmente acharam meus brahmins e agora estão atacando a manada toda noite. Mate a todos da matilha, e te pagarei $1000 por isso.}
+{189}{}{Você está me escondendo algo seu velho trapaceiro. Desembucha!!}
+{190}{}{Tão perceptivo quanto esperto. Eu sabia que não ia te enrolar. O segredo é que cada brahmin que você deixar morrer, eu vou descontar $100. Eu pago bem pelo sucesso, mas desconto pelas falhas. Esse é o risco que você vai ter trabalhando para mim.}
+{191}{}{Ótimo! Siga para os pastos a noite e mate a matilha que está atacando meus brahmins. Volte quando terminar o trabalho.}
+{192}{}{Ah meus Deus! Cornelius ainda está procurando o relógio dele? Porque diabos ele não aceita que já era? A merda do relógio nunca funcionou, e serei tio de um brahmin se ele for realmente feito de ouro. Desista; você nunca vai encontrar.}
+{193}{}{Na verdade, Farrel pediu para que eu procurasse o relógio.}
+{194}{}{Posso lhe fazer mais algumas perguntas?}
+{195}{}{Obrigado, mas de qualquer maneira vou continuar procurando.}
+{196}{}{Eu não falei? Tem certeza? Eu jurava que tinha dito... próxima vês não saia aceitando trabalho até saber todos os detalhes. Agora, se não se importa, tenho trabalho a fazer.}
+{197}{}{Hehehe. Depende. Você está planejando ficar na cidade muito tempo? Bwahahahaha!}
+{198}{}{Vejo que você não é um idiota. OK - $1000 então, e estamos quites. Aperte minha mão.}
+{199}{}{[APERTAR A MÂO DO GRISHAM]}
+{200}{}{Espere aí. Olhando melhor, esse brahmin parece um pouco magro. Que tal $750, por ele?}
+{201}{}{Mudei de idéia, não vou pagar você.}
+{202}{}{[Te dá um sorriso cheio de dentes] Vejo que você é uma pessoa de caráter.}
+{203}{}{[Grisham fica vermelho e fala com os dentes cerrados.] OK, $750 então. Me dê o dinheiro!}
+{204}{}{Sabe... $750 ainda parece caro. Aqueles Brahmins teriam morrido de qualquer jeito se os cães não os tivesse pego primeiro. Mas não serei egoísta; Te darei $50.}
+{206}{}{CERTO! ME DÊ A PORRA DO DINHEIRO E CAIA FORA!}
+{207}{}{[SAIR SEM PAGAR]}
+{208}{}{Marque minhas palavras, vai ter troco. Se não for por mim, vai ser por outra pessoa.}
+{209}{}{[Grisham sorri de um jeito que faz você dar um passo involuntário para trás.] Porque você Não fica com o dinheiro? Sinto que você vai precisar dele mais tarde.}
+{210}{}{Não tem muito o que falar. Sou dono do açougue de Modoc; quer algo morto, então traga para mim. Eu irei matar e fazer a melhor carne seca que você já provou na sua vida.}
+{211}{}{E o que você faz com a pele e as outras partes do animal?}
+{213}{}{Na verdade, isso tem até ajudado nos negócios. Ninguém foi capaz de colher comida suficiente para os brahmins deles, então eles perderam várias cabeças. Mas entenda que isso é temporário se você pensar no futuro. Com o declínio da população de brahmin meu negócio então só tende a sofrer mais e mais.}
+{215}{}{[Grisham anda em sua volta, toca algumas vezes e abre a sua boca para checar os seus dentes.]
+Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matando os brahmin bons. Vá e mate os cachorros maus pra seu amigo Grisham. Grisham vai te dar uma grande recompensa. OK?}
+{216}{}{Não, mim gostar de cachorros. Só homem mal não gosta de cachorro. Mim vai pra longe de homem mal.}
+{217}{}{Mim faz. Vô lá agora!}
+{218}{}{Ótimo! Lembre, coisa mal faz ‘au! au!’ coisa boa faz ‘muu.’ Tente não matar as coisas boas.}
+{219}{}{Você parece que está com a grana curta. Não costumo dar crédito e eu de certeza não acredito em dar algo sem receber nada em troca.}
+{221}{}{Você não vai a nenhum lugar garota!}
+{222}{}{Uh… uga uga. Agora pegue o seu dinheiro, seja um bom Neandertal e vá embora.}
+{223}{}{Você é rápido heim? Bem, se você quiser você pode ficar com qualquer parte do animal, mas, Balthas constuma comprar a pele, e Rose compra qualquer sobra que você não quizer. Ela usa para fazer sopa e alimentar os cães delas.}
+{225}{}{Você deve estar brincando. Todo mundo sabe que Farrel pegou o relógio. Porque ele te pediria pra procurar o relógio? A não ser que Farrel não o tenha roubado! Ou talves é um truque pra convencer todo mundo que ele não pegou. Eu... erh... eu tenho que pensar nisso.}
+{228}{}{Garoto, nem tente explicar isso. Eu não quero saber. Vou falar com o padre e fazer isso certo pela lei, e você vai embora e vai levar o meu filho junto quando você for.}
+{229}{}{Não posso dizer que não estou contrariado com isso, mas não posso deixar que ela viva nesta casa agora que eu vi isso. Vocês dois vão ter que casar e sair desta casa.}
+{230}{}{Será que você poderia explicar o que você está fazendo com a minha filha?}
+{231}{}{Será que você poderia explicar o que você está fazendo com o meu filho?}
+{232}{}{Deixe me explicar isso gentilmente. Bem, tem esses pássaros e essas abelhas... tá vendo? Bem...}
+{233}{}{Eu sou um médico, e estou fazendo um exame físico completo nela.}
+{234}{}{Eu sou um médico, e estou fazendo um exame físico completo nele.}
+{235}{}{Calma! Isso não é o que parece!.}
+{236}{}{Fantástico. Vou ter um cara esperto como filho pela lei. Bem, vamos lá… filho. Vamos acabar com isso.}
+{237}{}{Fantástico. Vou ter uma garota esperta como filho pela lei. Bem, vamos lá… filha. Vamos acabar com isso.}
+{238}{}{Deixe me ver. Para mim pareceu que você e minha filha estavam imitando os brahmin na época de acasalamento.}
+{239}{}{Deixe me ver - para mim pareceu que você e meu filho estavam fazendo um tango horizontal em baixo dos lençóis.}
+{240}{}{OK, talvês seja o que parece ser. Mas é apenas sexo, não é como há amor ou algo a mais envolvido.}
+{241}{}{Eu entendo perfeitamente. Hormônios...}
+{242}{}{Estou feliz que tenha entendido.}
+{243}{}{Eu entendo. E espero que você entenda que vocês dois vão ter que casar. Não posso ter rumores voando pela cidade. Venha comigo e vamos ao padre. E não me faça ter que encher sua cara esperta de chumbo.}
+{244}{}{Sério? E porque os dois estão pelados?}
+{245}{}{Germes? Claro! GERMES! Muito importante estar limpo durante esses exames.}
+{246}{}{Bem, já que você é médico eu não vejo problema. Mas é melhor se vestir; Rumores podem surgir por causa de enganos como esses. Já que você está aqui, eu tenho sentido umas coceiras aqui no meu ânus e estava querendo que você desse uma olhada.}
+{247}{}{Err… claro, olharei mais tarde assim que puder. Tenho outro paciente me esperando. Tchau.}
+{248}{}{Claro. Porque você não vem comigo ao padre? E não tente nada engraçado, ou VOCÊ irá precisar de um médico.}
+{260}{}{Sabia que você seria capaz. Vamos ver... Te devo $1000 pelo trabalho completo. Aqui está. Faça bom uso.}
+{300}{}{O que diabos você está acontecendo aqui?}
+{301}{}{Uhhh... Senhor, eu estava apenas...}
+{302}{}{Tire as mãos dela... AGORA!!!}
+{350}{}{[Olhando para Bessy] Estou vendendo.}
+{360}{}{Eu gostaria que você fizesse carne seca para mim.}
+{400}{}{O que está havendo aqui?}
+{402}{}{Santo Deus! Eu sabia que }
+{403}{}{Como você se atreve a suja a honra de }
+{404}{}{Uh, Jo, será que nós não podemos pular para a parte do juramento logo?}
+{406}{}{Garoto...}
+{407}{}{Senhorita...}
+{410}{}{Não me faça fazer }
 {412}{}{Miria}
 {413}{}{Davin}
 {414}{}{Uh, Bo, can we just skip to the vow tying parts?}
 {420}{}{You're not going anywhere, boy!}
 {421}{}{You're not going anywhere, missy!}
-{452}{}{ was different, but there's only one way to make this right!}
-{453}{}{. There's only one way to make this right!}
-{460}{}{ a widow.}
-{461}{}{ a widower.}
-{500}{}{Why, that's a fine looking animal you have there. Should make some fine jerky. Tell you what,
- I'll just keep some of the jerky as payment. What do you say?}
-{501}{}{No way! I love Bess. Nobody is going make jerky out of her.}
-{502}{}{Sounds good to me. When can I come back to pick up my jerky?}
-{503}{}{Forget it, gramps. I'm outta here.}
-{510}{}{Oh... you're one of those. Wouldn't want to take your 'friend' away from you. Nights out in the
- desert would probably be awfully lonely without her. I don't have time for this; I have work to do.}
-{515}{}{Great! Come back in about a week. You can pick up your jerky in the smokehouse located just
- outside of the slaughterhouse. I'll leave it in a sack for you. Good doing business with you.}
-{600}{}{Howdy }
-{601}{}{Well, if it isn't }
-{602}{}{Uhhh, he's dead.}
-{603}{}{Uhhh, she's dead.}
-{604}{}{Miria was alive when I left her, but I'm pretty sure she's dead by now.}
-{605}{}{Davin was alive when I left her, but I'm pretty sure she's dead by now.}
-{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
-{700}{}{Aggg... [A shocked look comes over Grisham's face as he suddenly grasps his chest and collapses to the floor.]}
-{750}{}{Well, I have to get back to work now. I'll see you around.}
-{800}{}{You have saved Grisham's brahmin.}
+{452}{}{ era diferente, mas só tem um jeito de deixar isso certo!}
+{453}{}{. Só tem um jeito de corrigir isso!}
+{460}{}{ um viúvo.}
+{461}{}{ uma viúva.}
+{500}{}{Nossa, que belo animal você tem aqui. Deve dar uma bela carne-seca. Tenho uma proposta, Vou manter um pouco da carne-seca como pagamento. O que você acha?}
+{501}{}{De jeito nenhum! Eu amo Bess. Ninguém vai fazer carne-seca com ela.}
+{502}{}{Parece bom para mim. Quando eu volto para pegar a carne?}
+{503}{}{Esqueça, vovô. Estou indo embora.}
+{510}{}{Oh… então você é um daqueles. Não quero tirar sua amiga de você. As noites no deserto devem ser bem solitárias sem ela. Eu não tenho tempo para isso! Tenho trabalho a fazer.}
+{515}{}{Ótimo! Volte em uma semana. E você pode pegar a carne na casa de defumação que fica lá mesmo no açougue. Vou deixar um pacote para você. Bom fazer negócios com você.}
+{600}{}{Olá }
+{601}{}{Ora ora, se não é }
+{602}{}{Uhhh, ele está morto.}
+{603}{}{Uhhh, ela está morta.}
+{604}{}{Miria estava viva quando eu a deixei, mas tenho certeza que agora ela está morta.}
+{605}{}{Davin estava vivo quando eu o deixei, mas tenho certeza que ele está morto agora.}
+{606}{}{Davin , uhhh, não pode fazer a viagem, direi que você mandou um, "oi," quando vê-lo.}
+{607}{}{Miria , uhhh, não pode fazer a viagem, direi que você mandou um, "oi," quando vê-la.}
+{700}{}{Aggg... [Um olhar chocado passou pelo rosto de Grisham ele pôs a mão no peito e caiu no chão.]}
+{750}{}{Bem, Tenho que voltar ao trabalho. Vejo você por ai.}
+{800}{}{Você salvou os brahmins de Grisham.}
 {1101}{}{You see Uncle Biff.}
 {1155}{}{I knew my niece was odd.}
-{1156}{}{Different people, different tastes, I suppose.}
+{1156}{}{Pessoas diferentes, gostos diferentes, eu acho.}
 {1157}{}{I'm glad Grisham ain't alive to see this.}
 {1158}{}{I knew my nephew was odd.}
-{1159}{}{I guess you're family, now.}
+{1159}{}{Cuide bem de minha filha.}
 {1160}{}{You take good care of my niece.}
 {1161}{}{You take good care of my nephew.}
 {1228}{}{Boy, dont even try to explain this. I dont want to hear it. I'm gonna get the preacher, make
@@ -200,9 +156,5 @@
 {1403}{}{How dare you sully the honor of my brother's }
 {1412}{}{daughter.}
 {1413}{}{son.}
-{1600}{}{. I hope you're taking good care of my daughter, Miria. She is the light of my life and it
- would break my heart if anything were to happen to her. Where is she by the way? I was sure hoping
- to see her again.}
-{1601}{}{. How's the married life treating you? I see my son Davin isn't traveling with you. I sure
- do miss him. Maybe the next time you visit you can bring him along. It sure would make an old man
- happy if he could see his only son again.}
+{1600}{}{. Espero que esteja tomando conta da minha filha. Ela é a luz da minha vida e meu coração quebraria se algo acontecesse com ela. Falando nisso, aonde ela está? Tinha esperança de ver ela de novo.}
+{1601}{}{. Como está a vida de casado? Vejo que meu filho não está com você. Sinto muita falta dele. Talvês na sua próxima visita você o traga aqui. Isso faria um velho homem feliz em ver seu filho novamente.}

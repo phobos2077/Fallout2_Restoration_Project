@@ -20,7 +20,7 @@
 {119}{}{I was looking for the Vault.}
 {120}{}{I was looking to get inside the city.}
 {121}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
-{122}{}{Nothing. Sorry to bother you.}
+{122}{}{Nada. Desculpe por atrapalhar.}
 {123}{}{The Vault? It's inside the city. Why? You looking to get past the gate?}
 {124}{}{Sim.}
 {125}{}{No, just looking around. Thanks.}
@@ -119,17 +119,17 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {208}{}{Nuh-uh ME STAY}
 {209}{}{Found this Outsider wandering in the wastes, Barkus. Looks like good Servant material.}
 {210}{}{Found this bunch wandering in the wastes, Barkus. This one Outsider here looks like good Servant material.}
-{211}{}{2 Seconds}
+{211}{}{2 Segundos}
 {212}{}{You HAVE to be kidding. It's obviously retarded.}
 {213}{}{1 Second, don't remove Barkus' float yet.}
 {214}{}{Re-tar-dead! Pooooo!}
-{215}{}{2 Seconds}
+{215}{}{2 Segundos}
 {216}{}{C'mon. You need someone to work the Vault, don't you?}
 {217}{}{1 Second, don't remove Barkus' float yet.}
 {218}{}{Valt! Gechkk!}
-{219}{}{2 Seconds}
+{219}{}{2 Segundos}
 {220}{}{Well... hmmm. I suppose you'll be expecting a finder's fee?}
-{221}{}{2 Seconds}
+{221}{}{2 Segundos}
 {222}{}{Do Outsiders eat their own feces? Of COURSE I want a finder's fee.}
 {223}{}{1 Second, Don't remove Skeev's float}
 {224}{}{Feeee? Peeeeeeee!}
@@ -152,13 +152,13 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {238}{}{We'll see about that.}
 {239}{}{I'll take the Citizenship papers, then.}
 {240}{}{Well, $200's too steep for me. I might be back if I get some more money.}
-{241}{}{No, thanks. Maybe some other time.}
+{241}{}{Não, valeu. Talvez outra hora.}
 {242}{}{What does it take to become a real Citizen?}
 {243}{}{Hmmmm. How much for the Citizenship papers again?}
 {244}{}{If I have to pry it from his dead fingers, I will.}
 {245}{}{How do you become a real Citizen?}
 {246}{}{Nada, esquece.}
-{247}{}{No, thanks. Maybe some other time.}
+{247}{}{Não, valeu. Talvez outra hora.}
 {248}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of
  Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
 {249}{}{What is this test?}

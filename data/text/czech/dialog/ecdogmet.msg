@@ -9,7 +9,6 @@
 {108}{}{Neboj se, hochu. Pøijdu si pro tebe až budu mít víc místa v partì.}
 {109}{}{Promiò, Dogmeate. Teï ne.}
 {110}{}{Pes chamtivì zhltne leguána na špejli a pak se na tebe s oèekáváním zadívá.}
-{1110}{}{Pes hladovì spolyká obsah plechovky psího žrádla a pak se na tebe s oèekáváním zadívá.}
 {111}{}{Písknout}
 {112}{}{Mùšeš jíd se mnou aš budu mýt víc mýsta.}
 {113}{}{Ne-e, pejsku. Ty zùstat.}
@@ -20,12 +19,12 @@
 {118}{}{Písknout}
 {119}{}{Mùšeš jíd se mnou aš budu mýt víc mýsta.}
 {120}{}{Stát pejsku, nehýbat.}
-{121}{}{Odbelhat se}
+{121}{}{Odbelhat se.}
 {122}{}{Tak pojï, hochu. Je èas na nìjakou neplechu.}
 {123}{}{Pøijdu si pro tebe až budu mít víc místa v partì.}
 {124}{}{Drž se pøi mnì. Jasný, hochu?}
 {125}{}{Drž se v pøimìøené vzdálenosti, Dogmeate.}
-{126}{}{Zùstaò daleko ode mì, Dogmeate. Hlídej mi záda.}
+{126}{}{Zùstaò daleko ode mne, Dogmeate. Hlídej mi záda.}
 {127}{}{Zùstaò, Dogmeate. Zùstaò!}
 {128}{}{Myslím, že nechám Dogmeata na pokoji.}
 {129}{}{Dogmeat ostøe vyštìkne a slabì zavrèí.}
@@ -39,11 +38,9 @@
 {137}{}{Hej, kámo, obtìžuješ mýho psa.}
 {138}{}{Grrrrr...}
 {139}{}{(Zajímalo by mì, jestli dokážu pøimìt Dogmeata, aby mì následoval jiným zpùsobem.)}
-#added by killap - expansion
-{150}{}{Haf! Haf!}
+{150}{}{HAF! HAF!}
 {200}{}{Podívej co pro tebe mám, hochu! A teï si na tebe mùže nìkdo nìco zkusit! (Obleèeš K-9 Kevlar na Dogmeata.)}
 {201}{}{Není ta zbroj na tebe moc tìžká, hochu? Ukaž, sundám ti ji. (Sundáš K-9 Kevlar z Dogmeata.)}
-
-#added by killap - NPC info
 {300}{}{*kòuèení*}
 {301}{}{Hauuuuuuuuuuu! *kòuèení*}
+{1110}{}{Pes hladovì spolyká obsah plechovky psího žrádla a pak se na tebe s oèekáváním zadívá.}

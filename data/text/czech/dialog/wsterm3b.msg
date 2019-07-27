@@ -127,6 +127,5 @@
 {227}{}{Tento mozek byl modifikován, aby mohl sloužit ve vylepšeném robotovi umístìném ve 3. patøe - robotické laboratoøi.}
 {228}{}{Pomùžu ti.}
 {229}{}{Nepomùžu ti.}
-
 {250}{}{ nedokáže pøeèíst text na monitoru.}
 {300}{}{Vypadá to, že je v poèítaèi nìjaký obranný mechanismus.}

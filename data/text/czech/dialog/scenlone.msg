@@ -3,7 +3,7 @@
 {102}{}{Její strnulý pohled s výrazem nepøítomné blaženosti by mohl vzbuzovat strach, kdyby nebyla tak klidná.}
 {103}{}{Budiž pozdraven. Patøíš mezi Osvícené?}
 {104}{}{[Slintat]}
-{105}{}{Jasnì.}
+{105}{}{Jasnì, proè ne?}
 {106}{}{No, jsem Vyvolený.}
 {107}{}{Eh, nemám tušení, o èem to mluvíš.}
 {108}{}{Takže ty jsi ta osina v zadku, kterou chce Merk vyndat!}
@@ -27,14 +27,14 @@
 {126}{}{Ne, hledám GECK.}
 {127}{}{Pomoct? Jak?}
 {128}{}{Raketomet mi poskytuje všechen duševní klid, který potøebuju, dámo.}
-{129}{}{"Rozumíš" tomuhle!? (Udìlat drzé gesto rukou se vztyèeným prostøedníèkem)}
+{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? Co ten chce?}
 {131}{}{To je jednoduché. Chce tvoji smrt. Øekni sbohem.}
 {132}{}{Nevím, co mezi sebou máte, ale pro mì jsi jen další kontrakt.}
 {133}{}{Výbornì, bratøe, a na jaké jsi úrovni?}
 {134}{}{Já se ptala první.}
 {135}{}{Na jaké jsi úrovni?}
-{136}{}{Aha. Mìl jsem za to, že vidíš moji auru. Omlouvám se.}
+{136}{}{Aha. Mìla jsem za to, že vidíš moji auru. Omlouvám se.}
 {137}{}{Aha. Mìla jsem za to, že vidíš moji auru. Omlouvám se.}
 {138}{}{No, když jsem minule kontroloval obrazovku postavy, byl jsem na úrovni}
 {139}{}{Proè se ptáš? Já jsem samozøejmì ve stavu Dokonalosti.}
@@ -61,7 +61,7 @@
 {160}{}{Tíživém stavu?}
 {161}{}{No a jak to oèištìní funguje? Bolí to?}
 {162}{}{Není to bolestivé. Pouze podstoupíš zeta-scan. Mohu ti jeden provést hned teï, jestli chceš.}
-{163}{}{Jistì.}
+{163}{}{Jasnì.}
 {164}{}{V žádném pøípadì!}
 {165}{}{Hubologistická církev existuje proto, aby osvobodila lidstvo z øetìzù, které drží jejich plný duševní potenciál v okovech.}
 {166}{}{A jak to chcete udìlat?}
@@ -114,7 +114,6 @@
 {213}{}{Chrám je zavøený. Pøijï zítra.}
 {214}{}{Ráda bych ti pomohla, ale dokonce i AHS-4 musí nìkdy spát. Pøijï za denního svìtla.}
 {215}{}{Nezvaný hoste! Chceš snad znesvìtit toto místo? Ven!}
-
 {216}{}{Výbornì, sestro, a na jaké jsi úrovni?}
 {217}{}{ a vím urèitì, že když se budu dál toulat a zabíjet náhodné nepøátele, dosáhnu úrovnì 99 v cuku letu.}
 {218}{}{Získáváš }

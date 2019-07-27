@@ -10,18 +10,12 @@
 {109}{}{Až tì zabiju, budu nejobávanìjší osobou zdejší pustiny.}
 {110}{}{Tìším se domù do Arroya... abych ho spálil na popel.}
 {111}{}{Kaga se proslaví tvým zabitím.}
-
 {120}{}{Kagaaaaaaaa!}
-
-#added by RP 1.3
 {150}{}{(Pøed tebou stojí vysoký a dobøe stavìný váleèník. Jeho oèi prahnou nenávistí, když si tì prohlíží.) Takže potom, co vyhnali Kagu, zvolili Vyvoleným tebe? Haha! Myslíš, že když jsi vnuk Zakladatele, že jsi výjimeèný?! Myslíš, že jsi lepší než já, velký Kaga?!}
 {151}{}{No, já JSEM pøece Vyvolený, nebo ne?}
 {152}{}{Hej hej, poèkej vteøinku. Nikdy jsem neøekl, že jsem lepší než ty.}
-
 {160}{}{Ten titul nebude znamenat nic až ti Kaga utrhne hlavu!}
 {161}{}{Žádné øeèi ti kùži nezachrání. Tvou smrtí bude Kagovi navrácena èest. Kaga se teï pomstí!}
-
-#dumb dialogue
 {200}{}{*Chichi*}
 {201}{}{Cože!? Ty jsi nový Vyvolený? No teda, ti už musí být vážnì zoufalí.}
 {202}{}{Já ty nelíbit. Ty vypadat zlá.}

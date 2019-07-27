@@ -6,22 +6,22 @@
 {105}{}{Welcome, Chosen One! Please, take a seat in the bar.}
 {106}{}{Please! Take a seat, rest for a while!}
 {107}{}{It's the Chosen One! Everybody give it up for the HERO of Fallout 2!}
-{108}{}{Good day, Captain.}
-{109}{}{Vault City prevails, Captain.}
-{110}{}{Good day, Citizen.}
+{108}{}{Bom dia, Capitão.}
+{109}{}{Vault City prevails, Capitão.}
+{110}{}{Bom dia, Citizen.}
 {111}{}{Vault City prevails, Citizen.}
-{112}{}{A mutant! Guards! Guards!}
-{113}{}{A ghoul! Guards! Guards!}
+{112}{}{Um mutante! Guardas! Guardas!}
+{113}{}{Um ghoul! Guardas! Guardas!}
 {114}{}{We're closed. Come back in the morning.}
 {115}{}{Sorry, last call was a while ago. Come back in the morning.}
 {116}{}{We're closed. Once I finish making this list of our stock, I'll be closing up.}
 {117}{}{Hey there, Chosen One! We were just talking about your adventure... can I get you anything to drink?}
 {118}{}{Dwinkie-winkie me make stinkie}
 {119}{}{Desliga}
-{120}{}{What's on tap?}
+{120}{}{O que você tem aí?}
 {121}{}{I was looking for some information.}
 {122}{}{I have that shipment of alcohol you wanted.}
-{123}{}{Nothing today, thanks.}
+{123}{}{Nada por hoje, valeu.}
 {124}{}{Uh... so I smell. Um, thanks again for saving the world and all.}
 {125}{}{Stinkie-blinkie me make twinkie!}
 {126}{}{Desliga}
@@ -36,10 +36,10 @@
 {135}{}{Yes? Can I help you?}
 {136}{}{You? Yoo? Yew? Yewwwww. E-yewwww is sound otherz make when see me}
 {137}{}{Desliga}
-{138}{}{What's on tap?}
+{138}{}{O que você tem aí?}
 {139}{}{I was looking for some information.}
 {140}{}{I have that shipment of alcohol you wanted.}
-{141}{}{Nothing today, thanks.}
+{141}{}{Nada por hoje, valeu.}
 {142}{}{That is perhaps the most fascinating thing I've ever heard. Hold on a second... I want the guards to hear it, too.}
 {143}{}{Too? Tew. Tewwwww. Tewwww sexeee fur my clothez}
 {144}{}{Desliga}
@@ -58,7 +58,7 @@
 {157}{}{That's fine. I don't mind waiting. I just feel like having a refreshing glass of milk. Mmmmm-mmm. That would really hit the spot.}
 {158}{}{I think I'll try something else then.}
 {159}{}{Never mind then. Say, I was looking for some information...}
-{160}{}{Forget it. I'll come back some other time.}
+{160}{}{Esqueça. Eu volto outra hora.}
 {161}{}{Não que você vá. Mais alguma coisa?}
 {162}{}{Uh, do you have any real alcohol?}
 {163}{}{I could go for some synthetic beer.}
@@ -94,7 +94,7 @@
 {193}{}{Point taken. Say, I wanted to know something else...}
 {194}{}{Obrigado. Eu vou manter isso em mente.}
 {195}{}{Not much. Most contact we have with Outsiders is merchants travelling the Big Circle caravan trail from Broken Hills, New Reno, and Redding. Only other place outside the caravan trail that I know of is Gecko.}
-{196}{}{Tell me about Broken Hills.}
+{196}{}{Me fale sobre Broken Hills.}
 {197}{}{Tell me about New Reno.}
 {198}{}{Tell me about Redding.}
 {199}{}{Tell me about Gecko.}
@@ -107,19 +107,19 @@
 {206}{}{I wanted to know something else...}
 {207}{}{Obrigado pela informação.}
 {208}{}{It's a ways to the southwest. I hear conflicting reports about Reno. Some merchants, especially the slavers, really love it there. Other merchants... don't. City with a lot of glitter... and a lot of trouble, I hear.}
-{209}{}{Tell me about Broken Hills.}
+{209}{}{Me fale sobre Broken Hills.}
 {210}{}{Tell me about Redding.}
 {211}{}{Tell me about Gecko.}
 {212}{}{I wanted to know something else...}
 {213}{}{Obrigado pela informação.}
 {214}{}{It's a mining town far to the west. We haven't seen too many caravans from them recently, and it's got some of the high-ups a little worried. Senior Councilman McClure especially.}
-{215}{}{Tell me about Broken Hills.}
+{215}{}{Me fale sobre Broken Hills.}
 {216}{}{Tell me about New Reno.}
 {217}{}{Tell me about Gecko.}
 {218}{}{I wanted to know something else...}
 {219}{}{Obrigado pela informação.}
 {220}{}{A town of ghouls less than a day's travel to the northeast, as I understand it. Rumor is they prey on any travelers that enter their territory. Best stay away.}
-{221}{}{Tell me about Broken Hills.}
+{221}{}{Me fale sobre Broken Hills.}
 {222}{}{Tell me about New Reno.}
 {223}{}{Tell me about Redding.}
 {224}{}{I wanted to know something else...}

@@ -1,18 +1,11 @@
-# 0. Look Primitive
 {100}{}{Vidíš velkého, primitivnì vypadajícího muže.}
 {125}{}{Má šrámy a modøiny po celém tìle.}
-
 {150}{}{Vidíš slabou, primitivní ženu.}
 {175}{}{Vypadá, jako by ji nìkdo zmlátil.}
-
-# 1. Look Nomad
 {200}{}{Vidíš otrhaného muže.}
 {225}{}{Nevypadá pøíliš zdravì.}
-
 {250}{}{Vidíš zajatou ženu.}
 {275}{}{Je špinavá a vypadá podvyživenì.}
-
-# 2. CF: Freed
 {300}{}{Neubližovat mi, prosím!}
 {301}{}{My budeme jít?}
 {302}{}{Ty nemluvit. My muset bìžet.}
@@ -21,8 +14,6 @@
 {305}{}{Jsi svatý.}
 {306}{}{Co dìláš? Mìli bysme jít.}
 {307}{}{Pomoz nám utéct, prosím.}
-
-# 3. CF: PC is Slaver
 {320}{}{Ty zlý!}
 {321}{}{My nemluvit s ty.}
 {322}{}{My utéct.}
@@ -36,9 +27,7 @@
 {330}{}{Co jsme udìlali špatnì?}
 {331}{}{Nech nás o samotì, otrokáøi!}
 {332}{}{Neubližuj mi!}
-{333}{}{Jdi ode mì!}
-
-# 4. CF: PC is Not Slaver
+{333}{}{Jdìte ode mì!}
 {350}{}{Kdo ty?}
 {351}{}{Ty ne otrokáø.}
 {352}{}{Ty neublížit?}
@@ -50,8 +39,6 @@
 {358}{}{Co si o sobì ti lidi myslí?}
 {359}{}{Pomoz nám prosím!}
 {360}{}{Dostaòte mì odsud.}
-
-# 5. BGF: Not Free
 {380}{}{Ty nezastavit my tady!}
 {381}{}{To nesprávné!}
 {382}{}{My ne zlý!}
@@ -88,8 +75,6 @@
 {413}{}{Pomoc! Neopouštìj nás!}
 {414}{}{Co to bylo za støelbu?}
 {415}{}{Co se dìje?}
-
-# 7. BGF: Fleeing
 {420}{}{Ahhh!}
 {421}{}{Ug!}
 {422}{}{Nezastavuj se!}
@@ -97,8 +82,6 @@
 {424}{}{Utíkám odsud, jak jen daleko to pùjde.}
 {425}{}{Nezastavuj se!}
 {426}{}{Svoboda! Koneènì svoboda!}
-
-# 8. Metzger is Dead (From Where to go)
 {440}{}{Co být rámus výstøel? Co ty chtít?}
 {441}{}{Hej! Co to bylo za støelbu? Jsou otrokáøi mrtví?}
 {442}{}{Hej! Co to bylo za støelbu? Co se dìje?}
@@ -108,44 +91,31 @@
 {446}{}{Vy svoboda.}
 {447}{}{ pøítel. On zabít Mezgur. Teï vy jít.}
 {448}{}{ pøítelka. Ona zabít Mezgur. Teï vy jít.}
-
-# 9. Metzger is Dead (From 8)
 {460}{}{On mrtvý? Já dìkovat ty! My jít rychle pryè. Ahoj. Ty pøítel.}
 {461}{}{Cože? Metzger je mrtvej? Oh, mockrát dìkujeme! Mìli bychom radìji zmizet, než se objeví ostatní. Ještì jednou dìkujeme.}
 {462}{}{Není zaè. Teï odsud radìji zmizte.}
 {463}{}{Dejte na sebe pozor.}
 {464}{}{Není zaè.}
-
 {470}{}{Poèkat, ještì nìco. Hledám jednu konkrétní ženu a nikde ji tu nevidím. Nevíte, kde drží ostatní otroky?}
 {471}{}{Velký tábor blízko tady. (Divoch ukazuje na jihozápad) Dva noc odsud.}
 {472}{}{Dva dny cesty na jihozápad odtud leží tábor. Tam jsem byl nejdøív.}
 {473}{}{Díky. Teï odsud radìji zmizte.}
 {474}{}{Díky ti. Dejte na sebe pozor.}
-
-#dumb dialgoue added by killap
 {475}{}{Poèkat. Já hledat nìkoho. Kde víc otrok?}
 {476}{}{Dìkovat. Teï ty jít!}
-
-# 10. Metzger Dead, Next Times (From Where to go)
 {480}{}{Co ty chtít?}
 {481}{}{Co chceš?}
 {482}{}{Ale nic.}
-
-# 11. Bullet (From 8)
-{500}{}{Co?}
+{500}{}{He?}
 {501}{}{Zapomeò na to. Jste volní, mùžete jít. Metzger je mrtvý.}
-
-# 12. You Free (From 8)
 {510}{}{Co? Volní? Zlý muž pryè? My teï jít! Dìkovat ti. Ty pøítel! Ahoj!}
 {511}{}{Volní? Cože? Všechny si je zabil? Mnohokrát ti dìkujeme! Mìli bysme radìji zmizet, dokud mùžeme. Ještì jednou dìkujeme, jsi svatej!}
-
-# 13. NPC Sold to Slavery (From WTG)
 {520}{}{K èertu s tebou!}
 {521}{}{Smaž se v pekle!}
 {522}{}{Za to zaplatíš.}
 {523}{}{Proè na mnì poøád mluvíš?}
-{524}{}{Nech mì o samotì.}
-{525}{}{Nechci s tebou mluvit.}
+{524}{}{Nech mì být.}
+{525}{}{Nechci s vámi mluvit.}
 {526}{}{Jak si mohl?!}
 {527}{}{Už tì nechci nikdy vidìt.}
 {528}{}{Tímhle se nic nezmìní.}
@@ -156,19 +126,16 @@
 {533}{}{Nech mì být.}
 {534}{}{Ani náhodou.}
 {535}{}{Myslíš, že je to takhle lepší?}
-
-# 6. BGF: Just Freed
 {600}{}{My jít?}
 {601}{}{Ty neublížit?}
 {602}{}{Jít!}
 {603}{}{Domù!}
 {604}{}{Volný?}
-{605}{}{Co?}
+{605}{}{He?}
 {606}{}{Cože?}
 {607}{}{Øekl jsi "volný"?}
 {608}{}{Mizím odsud!}
 {609}{}{Poïme!}
 {610}{}{Hej všichni! Jsme volní!}
 {611}{}{Jooooooooo!}
-
 {700}{}{Osvobodil jsi otroky ze zajetí.}

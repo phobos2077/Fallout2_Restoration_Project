@@ -15,12 +15,12 @@
 {171}{}{Why the secrecy? Somebody looking for you?}
 {172}{}{You trying to keep a low profile?}
 {173}{}{Why you sneaking around? Somebody chasing you?}
-{180}{}{Well, if it isn't }
+{180}{}{Ora ora, se não é }
 {181}{}{You LOST, pal? You better get out of here.}
 {182}{}{This guy's asking for trouble...}
 {183}{}{Get out of here. Now.}
 {184}{}{Unless you're looking for trouble, you better leave right now.}
-{185}{}{Well, if it isn't }
+{185}{}{Ora ora, se não é }
 {186}{}{You LOST, girl? You better get out of here.}
 {187}{}{This chick's asking for trouble...}
 {195}{}{No weapons allowed in here.}
@@ -79,12 +79,12 @@
 {287}{}{You should talk to Mason about a job.}
 {288}{}{If prizefighting loses its charm, you might want to consider joining up with us.}
 {289}{}{I got $20 riding on you!}
-{290}{}{Hey, champ! That last fight was great!}
-{291}{}{Saw you fight in the ring. Damn good right hook you throw.}
-{292}{}{How much you bench?}
-{293}{}{Where do you work out?}
-{294}{}{Watch out for the Masticator. He has a taste for ears.}
-{295}{}{I'd get you a drink if I hadn't blown all my money betting on your opponent.}
+{290}{}{Ei, campeão! Aquela última luta foi ótima!}
+{291}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
+{292}{}{Quanto você pesa?}
+{293}{}{Onde você trabalha fora do ringue?}
+{294}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
+{295}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
 {305}{}{Something I can do for you?}
 {306}{}{This ain't the porn studio, lover-boy.}
 {307}{}{Take your business elsewhere, lover-boy.}
@@ -93,7 +93,7 @@
 {311}{}{Breaks my heart, but I really can't talk right now.}
 {312}{}{C'mon now, you're distracting me, sweetheart.}
 {313}{}{I can't help you.}
-{314}{}{I hear Tommy the Balls wants to give you a private screening.}
+{314}{}{Ouvi dizer que o Tommy the Balls quer um fazer um exame médico privado com você.}
 {315}{}{Not now, sweetheart. Business.}
 {316}{}{I'd chat, but the boss could be watching.}
 {325}{}{Secure that weapon NOW, slaver.}

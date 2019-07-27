@@ -13,7 +13,7 @@
 {112}{}{Answer questions?}
 {113}{}{Nada. Tchau.}
 {114}{}{You can't possibly be of any help to me. Bye.}
-{115}{}{I'd like to ask you some questions.}
+{115}{}{Gostaria de fazer alguns perguntas.}
 {116}{}{I'm sorry to intrude on your solitude, but could you answer some questions?}
 {117}{}{I'm just having some personal problems. It's nothing, really.}
 {118}{}{You talk, me listen. It help.}

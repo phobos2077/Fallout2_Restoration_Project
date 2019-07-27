@@ -60,7 +60,7 @@
 {159}{}{He said that, did he? Well, you tell him that the generator is uranium powered and that the miniscule amount of energy I require would barely register on the generator. And tell him I want my power!}
 {160}{}{Will do! Nice speech!}
 {161}{}{I'll tell him. I have other questions.}
-{162}{}{Sure. Bye.}
+{162}{}{Claro. Tchau.}
 {163}{}{You're done with the generator? Thank you so, so much. I can't even begin to describe how grateful I am.}
 {164}{}{The common way to express thanks is through gifts of money or equipment.}
 {165}{}{Don't, then. I'm fine with your thanks.}

@@ -7,18 +7,18 @@
 {106}{}{Dnezka žádná poklat.}
 {107}{}{Jo. Potøebovat tvoje pomoc.}
 {108}{}{Kdo ty?}
-{109}{}{Naskle.}
+{109}{}{Nashle.}
 {110}{}{Ne, dneska ne, ale jestli na nìco narazím, dám ti vìdìt.}
 {111}{}{No, vlastnì jo. Myslím, že bys mohl být dobrý partner pro nìco jako "spoleèné dobrodružství".}
 {112}{}{Jak se jmenuješ?}
 {113}{}{Zapomeò na to.}
 {114}{}{Já? Jsem Micky, sympatický a spolehlivý hledaè pokladù v Broken Hills.}
 {115}{}{Hledaè?}
-{116}{}{Pápá.}
+{116}{}{Pá pá.}
 {117}{}{Hledaè pokladù?}
 {118}{}{Zajímavé. Hezký den.}
 {119}{}{Neøíkej, že jsi o mì nikdy neslyšel! Copak ti jako malému nevyprávìli pohádky o rychlým Mickym? O jeho vítìzných pøestøelkách, neuvìøitelných rvaèkách a krvavých loupežích?}
-{120}{}{Ne.}
+{120}{}{Nee.}
 {121}{}{Je mi líto, ale ne.}
 {122}{}{No, tak to jsi o hodnì pøišel, pøíteli. Jednou ti možná povím nìjaký pøíbìh.}
 {123}{}{Paráda.}

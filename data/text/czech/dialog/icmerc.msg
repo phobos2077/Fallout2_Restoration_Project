@@ -1,11 +1,6 @@
-# 0. QUICK LOOK
 {100}{}{Vidíš dobøe vyzbrojeného žoldáka.}
-
-# 0. LOOK
 {150}{}{Vidíš drsnì vypadajícího muže obleèeného v kožené zbroji. Tìlo má pokryté èetnými jizvami a støelnými ranami. Ovšem jeho zbroj i zbranì vypadají udržovanì, skoro jako nové.}
 {151}{}{Vidíš dobøe vyzbrojeného nájezdníka. Pozoruje okolí a má prst na spoušti.}
-
-# 1. FLOAT DIALOGUE: INTRUDER (WTG)
 {200}{}{No, tak ten si teda troufá...}
 {201}{}{Kontakt!}
 {202}{}{Oblast byla narušena!}
@@ -13,11 +8,9 @@
 {204}{}{Do zbranì, chlapi, máme tu vetøelce!}
 {205}{}{A hele kdo pøišel chcípnout...}
 {206}{}{Zatracenì! Nìkdo nás našel!}
-{207}{}{Máme tu nìjakýho odvážlivce...}
+{207}{}{Máš fakt odvahu sem pøijít...}
 {208}{}{Jseš na *špatným* místì, dìvko.}
-{209}{}{No, tak ta si teda troufá...}
-
-# 2. FLOAT DIALOGUE: NORMAL (WTG)
+{209}{}{Hele, podívejte se na tu dìvku, jak se tu naparuje...}
 {250}{}{Šli jsme chlastat a on to nazval 'hodina zlepšování nálady', tak jsme mu nakopali prdel.}
 {251}{}{Musíme zkontrolovat bomby v jeskyni...}
 {252}{}{Už je skoro èas zase zkontrolovat rajón...}

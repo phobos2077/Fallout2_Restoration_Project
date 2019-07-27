@@ -3,7 +3,7 @@
 {102}{}{Vidíš starší ženu. I když vypadá, že mìla tìžký život, neubralo jí to ani trochu na jejím pøirozeném pùvabu.}
 {103}{}{Ahoj, já jsem Rebecca. Mùžeme si promluvit nìkde v soukromí, prosím?}
 {104}{}{Mluvit o èem?}
-{105}{}{Proè chtít mluvit v soukromí?}
+{105}{}{Proè ty potøebovat mluvit v soukromí?}
 {106}{}{Dobøe.}
 {107}{}{Ne. Já jít.}
 {108}{}{Promiò, ale nemám zájem.}
@@ -53,18 +53,18 @@
 {152}{}{Øíkáme tomuhle místu 'Squat', protože bylo osídleno bezdomovci z mnoha mìst. Není to nic moc, ale je to všechno, co máme. Na západ odsud leží mìsto, které se jmenuje NCR. Vìdí o nás už delší dobu, ale nikdy nám nenabídli žádnou pomoc. A teï si najednou nárokují tohle místo. Tvrdí, že je to jejich dávný domov a chtìjí ho zpátky.}
 {153}{}{Dobøe.}
 {154}{}{Co tady oni chtít?}
-{155}{}{Rozumím.}
+{155}{}{Aha.}
 {156}{}{Co je tady tak dùležitého, že tohle místo chtìjí?}
 {157}{}{No... je tady starý vault. Myslím, že je to èíslo 15. Chtìjí ho vybílit a ukrást odtamtud všechny staré technologie, které tam stále ještì mùžou být.}
 {158}{}{Aha. Já rozumìt.}
 {159}{}{Bylo mi hned jasné, že je za tím ještì nìco jiného než jen pár hladových otrapù.}
-{160}{}{Rozumím.}
+{160}{}{Chápu.}
 {161}{}{Tím se toho hodnì vysvìtluje. Moc jsi mi pomohla. Potøebuju se ještì zeptat na pár otázek.}
 {162}{}{To bude Zeke. On to tady všechno vede. Najdeš ho v támhleté budovì. ::ukazuje na severovýchod::}
 {163}{}{Dík. Mít další otázky.}
 {164}{}{Díky. Potøebuju se tì ještì na pár vìcí zeptat.}
 {165}{}{Promiò, ale nic mì nenapadá. Mùžeš se na to zeptat v NCR. Poslední dobou projevují o tenhle vault velký zájem.}
-{166}{}{Dobøe, Vyvolený udìlat to.}
+{166}{}{Dobøe, já udìlat to.}
 {167}{}{Dobøe, jdu na to.}
 {168}{}{No... nemáme o tom sice s nikým mluvit, ale protože potøebuju tvou pomoc... Darion opravuje Vault. On je náš dobrodinec. Jakmile bude Vault plnì funkèní, nastìhujeme se dovnitø a budeme koneènì v bezpeèí pøed nájezdníky a otrokáøi. Hned jakmile budou v poøádku systémy na výrobu jídla a vody.}
 {169}{}{Rozumìt. Chtít vìdìt víc.}
@@ -72,7 +72,7 @@
 {171}{}{Není moc o èem mluvit, opravdu. Darion nikdy neopouští Vault. Když nám chce nìco øíct, vzkáže to po Zekeovi. Potkala jsem ho jen jednou a vypadal jako hodný chlapík.}
 {172}{}{Dobøe.}
 {173}{}{Hodní chlapi moc dlouho nepøežijí. A jak to, že on to tu vede?}
-{174}{}{Rozumím.}
+{174}{}{Aha.}
 {175}{}{Dobøe. Moc jsi mi pomohla.}
 {176}{}{Nemám nic, co bych ti dala. Jen svùj vdìk.}
 {177}{}{To je víc než dost. Pomùžu ti.}
@@ -105,7 +105,6 @@
 {204}{}{Já hledat.}
 {205}{}{Pokraèuju v pátrání.}
 {206}{}{Díky za všechno, co jsi pro mì udìlal.}
-
 {207}{}{Nedokážu øíct proè, ale myslím, že ji otrokáøi neunesli. Mám takový pocit, že je za tím nìco jiného. Ten pocit mám od té doby, co jsem o Chrissy mluvila se Zekem. Potøebuju nìkoho, kdo mi ji pomùže vypátrat. Pomùžeš mi, prosím?}
 {208}{}{Poøád sem posílají lidi, kteøí nás pøesvìdèují, abychom odsud odešli. Ale oni nechápou, že my nemáme kam jinam jít. Nejsme natolik schopní, abychom pøežili nìkde jinde.}
 {209}{}{Víš, je docela legraèní, že ve Vaultu už prý opravili kdeco, ale ne svìtla. To zatracené místo je poøád ještì osvìtleno pochodnìmi. A Darion nechce, aby nìkdo vìdìl, co se tam dole dìje. Bojí se, že kdyby na to nìkdo pøišel, tak nám všechno seberou. A tak nám øekl, abychom se nebavili s nikým novým, kdo se tu objeví... hlavnì ne s nikým z NCR.}

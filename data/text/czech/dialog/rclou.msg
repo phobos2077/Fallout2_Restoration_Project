@@ -2,20 +2,15 @@
 {101}{}{Vidíš Lou, majitelku hospody U Malamuta.}
 {102}{}{Vidíš hodnì nalíèenou starší ženu.}
 {103}{}{Chci ti jen øíct, že jsem ti moc vdìèná. Mùžu ti nìjak pomoct?}
-{1103}{}{Zdravím. Jmenuju se Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Chci ti jen øíct, že jsem ti moc vdìèná. Mùžu ti nìjak pomoct?}
 {104}{}{Vìzení není pro toho bastarda dostateèným trestem.}
-{1104}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Vìzení není pro toho bastarda dostateèným trestem.}
 {105}{}{Nemùžu uvìøit, že necháš toho bastarda jít. A ještì máš tu odvahu se sem vrátit! Co sakra chceš?}
-{1105}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Nemùžu uvìøit, že necháš toho bastarda jít. A ještì máš tu odvahu se sem vrátit! Co sakra chceš?}
 {106}{}{Jsi poøád hrozný idiot. Ale život jde dál... pro vìtšinu z nás. Co sakra ještì chceš?}
-{1106}{}{Jsi poøád hrozný idiot. Ale život jde dál... pro vìtšinu z nás. Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Co sakra ještì chceš?}
 {107}{}{Pamatuj si, co jsem øekla. Pøíliš mnoho penìz nedìlá tomu dìvèeti dobrotu. Co potøebuješ?}
-{1107}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Pamatuj si, co jsem øekla. Pøíliš mnoho penìz nedìlá tomu dìvèeti dobrotu. Co potøebuješ?}
 {108}{}{Zdravím. Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca.}
-{109}{}{Co to bude?}
+{109}{}{Co to bude teï?}
 {110}{}{Ooo?}
 {111}{}{Ahoj, Lou. Potøebuju nìjaké vìci.}
-{112}{}{Neslyšela jsi o vìci zvané GECK?}
+{112}{}{Neslyšel jsi o nìèem, co se jmenuje GECK?}
 {113}{}{Ahoj, Lou. Co se tady ve mìstì dìje?}
 {114}{}{Co je to malamut?}
 {115}{}{Kde je San Francisco?}
@@ -23,7 +18,7 @@
 {117}{}{Je mi líto, ale nemám moc èasu ani trpìlivosti pro hlupáky. Co potøebuješ?}
 {118}{}{Blití?}
 {119}{}{Pokoj?}
-{120}{}{Pá pá.}
+{120}{}{Pápá.}
 {121}{}{Myslíš pití, viï? No, to bude $25 za hezky vychlazenou láhev piva. Dávám ti speciální slevu, páè soucítím s tìmi jednoduššími.}
 {122}{}{Blití? [Držet penìženku v ruce]}
 {123}{}{Pokoj?}
@@ -138,7 +133,11 @@
 {232}{}{No... tak dobøe. Potøebuješ ještì nìco?}
 {233}{}{Potøebuju nìjaké vìci.}
 {234}{}{Co se tady ve mìstì dìje?}
-
 {300}{}{Podaøilo se ti zbavit Fannie závislosti na Jetu.}
 {301}{}{Sbohem.}
 {310}{}{Možná mám nìco, co Fannie pomùže. [Pøedat Lou Jet sérum]}
+{1103}{}{Zdravím. Jmenuju se Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Chci ti jen øíct, že jsem ti moc vdìèná. Mùžu ti nìjak pomoct?}
+{1104}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Vìzení není pro toho bastarda dostateèným trestem.}
+{1105}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Nemùžu uvìøit, že necháš toho bastarda jít. A ještì máš tu odvahu se sem vrátit! Co sakra chceš?}
+{1106}{}{Jsi poøád hrozný idiot. Ale život jde dál... pro vìtšinu z nás. Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Co sakra ještì chceš?}
+{1107}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Pamatuj si, co jsem øekla. Pøíliš mnoho penìz nedìlá tomu dìvèeti dobrotu. Co potøebuješ?}

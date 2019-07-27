@@ -1,1 +1,1 @@
-{100}{}{A cluster of dirty tents and shacks hug a wooded hillside. The people you see are lean and wary.}
+{100}{}{Um aglomerado de tendas e barracos sujos abraça uma encosta arborizada. As pessoas que você vê são magras e cautelosas.}

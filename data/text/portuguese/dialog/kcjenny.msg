@@ -1,91 +1,85 @@
-{100}{}{You see an attractive, but tired, young woman.}
-{101}{}{You see Jenny, the bath attendant.}
-{200}{}{Gee, mister, that was pretty quick. You must be pretty new at this sort of thing. Just relax a
- bit and you'll enjoy it more.}
-{201}{}{Thanks, Jenny; I guess I need some more practice at this.}
-{210}{}{That was nice. You seem like you know your way around a woman better than most men your age.}
-{211}{}{I'm glad that you had as much fun as I did.}
-{220}{}{You really have a lot of staying power. That's the nice thing about younger men. Sure wish
- there were more like you in town.}
-{221}{}{I sure enjoyed that bath, Jenny. I could go for a little more if I didn't have other things
- that I had to do.}
-{230}{}{Well, that was different. I hope you come back; I think I'd like to experiment with some ideas
- of my own next time.}
-{231}{}{It's nice being with someone who understands what I need for a change.}
-{240}{}{That sure was fun. You could be a real knockout if we got you out of those tribal duds. I
- wouldn't mind having you stick around for a while, sister. Ever considered a career change?}
-{241}{}{I enjoyed myself, too. I have a lot of things to do before I could consider settling down just
- yet. But, thanks anyway.}
-{250}{}{You're different from the usual group around here.}
-{251}{}{Tell me about what goes on here.}
-{252}{}{I don't think I want to know about what goes on here.}
-{260}{}{Well, it's been nice chattin' with you. I better get ready for another customer, though. Goodbye.}
-{270}{}{You look a little confused. My name's Jenny; can I help you?}
-{271}{}{Enny? Goo heh heh heh. (smile)}
-{272}{}{(nods) Hep }
-{273}{}{ perdy Enny}
-{274}{}{Mommy?}
-{280}{}{Hmm, I think you just better clear out of here before Big Nose Sally finds you. She doesn't
- take kindly to idjits in her place.}
+{100}{}{Você vê uma mulher jovem e atraente, mas cansada.}
+{101}{}{Você vê Jenny, uma atendente de banho.}
+{200}{}{Caramba rapaz, essa foi bem rápida. Você deve ser novo nisso... Relaxa um pouco que você vai se divertir mais...}
+{201}{}{Obrigado, Jenny; Acho que preciso de um pouco mais de prática nisso.}
+{210}{}{Isso foi ótimo. Você parece conhecer as mulheres melhor que muitos homens da sua idade.}
+{211}{}{Fico feliz que tenha se divertido tanto quanto eu.}
+{220}{}{Você sabe aguentar bem por muito tempo... Essa é a coisa boa em vocês jovens...
+ Eu com certeza gostaria que houvessem mais homens como você na cidade.}
+{221}{}{Eu com certeza adorei este banho, Jenny. Eu poderia ficar um pouco mais se eu não tivesse outras coisas que preciso fazer.}
+{230}{}{Bem, isso foi diferente. Espero que você volte; Quero experimentar algumas idéias minhas na próxima vez...}
+{231}{}{É bom estar com alguém que entende o que eu preciso, pra variar.}
+{240}{}{Isso com certeza foi divertido. Você poderia ser realmente extraordinária se
+ tirássemos você daqueles tribais lá. Eu não me importaria se você ficasse por aqui
+ por um tempo, gata. Já pensou em uma mudança de carreira?}
+{241}{}{Eu me diverti muito também. Eu tenho muitas coisas pra fazer antes de pensar nisso...
+ Mas obrigada, de qualquer jeito.}
+{250}{}{Você é diferente da maioria das pessoas por aqui.}
+{251}{}{Diga-me sobre o que se passa por aqui.}
+{252}{}{Não acho que eu vá querer saber o que se passa por aqui.}
+{260}{}{Bem, foi ótimo conversar com você. Mas é melhor eu ir me preparar pra outro cliente. Até mais.}
+{270}{}{Você parece um pouco confuso. Me chamo Jenny; Posso ajudá-lo?}
+{271}{}{Enny? Boo he he he. (sorri)}
+{272}{}{(acena) ajuda }
+{273}{}{Enny pervetida}
+{274}{}{Mamãe?}
+{280}{}{Humm, Acho melhor que saia daqui antes que Sally Nariz Grande te encontre. Ela não tolera idiotas por aqui.}
 {290}{}{O que você gostaria de saber?}
-{291}{}{Tell me about trappers.}
-{292}{}{I'm looking for a trader. Know any of them that deal in old items, like from the beforetimes?}
-{293}{}{Do you happen to know how to get to the Den from here?}
+{291}{}{O que você sabe sobre os caçadores?}
+{292}{}{Estou procurando por um comerciante. Conhece algum deles que trata de itens velhos, iguais aos de antigamente?}
+{293}{}{Por acaso você sabe como chegar ao Den a partir daqui?}
 {294}{}{Adeus.}
-{295}{}{Jenny, have you ever heard of something called a GECK?}
-{300}{}{Well, there's not much to tell about the trappers, really. They get a few gecko pelts... or get
- lucky with a few golden geckos... and then they come in to blow off some steam. Quick and not too
- demanding -- just the way I like 'em.}
-{301}{}{I guess that's all I need to know for now.}
-{302}{}{Interesting; let me ask you about something else.}
-{310}{}{You're interested in traders, huh? Well I mostly just worked for one trader. Vic was his name.
- He always had extra money to blow, at least when he worked he did. See, he specialized in really old stuff. You know,
- technical thingies.}
-{311}{}{Well, thanks for the info. I think I'll go now.}
-{312}{}{Tell me more about Vic.}
-{313}{}{Let me ask you about something else.}
-{320}{}{Vic was a real sweetheart. He would go off for weeks at a time and then come back with all
- kinds of beforetime things. But he often had to travel to the Den to sell them. Not much call for
- that sort of stuff 'round here.}
-{321}{}{Where's Vic now?}
-{322}{}{Where's the Den?}
-{323}{}{Did Vic ever have anything that was labeled 'Vault-Tec'?}
-{324}{}{Tell me something else.}
-{325}{}{I think that's all I need to know.}
-{330}{}{The Den is a hive of scum and villainy southeast of here. I guess about a week or so? Don't
- remember too clearly. Anyhow, it's an exciting place. Dangerous, but exciting. Sorry to leave there,
- in a way.}
+{295}{}{Jenny, você já ouviu falar em uma coisa chamada GECK?}
+{300}{}{Bem, não tem muito o que dizer sobre os caçadores. Eles pegam algumas peles de Gecko...
+ ou têm sorte com alguns geckos dourados...e então eles vêm para desestressar.
+ Rápidos e não exigem muito - Por isso eu gosto deles.}
+{301}{}{Acho que isso é tudo que preciso saber por enquanto.}
+{302}{}{Interessante; Deixa eu te perguntar mais uma coisa...}
+{310}{}{Você está interessado em negociantes, ãhn? Bem, eu na maior parte trabalhei pra apenas um comerciante.
+ Vic era o nome dele. Ele sempre tinha dinheiro extra pra gastar, pelo menos quando ele trabalhava...
+ Ele se especializou em coisas realmente velhas, entende? Você sabe, coisinhas técnicas.}
+{311}{}{Bem, obrigado pela informação. Acho que vou indo agora.}
+{312}{}{Conta mais sobre o Vic.}
+{313}{}{Deixa eu te perguntar outra coisa.}
+{320}{}{Vic era realmente um amor. Ele ficava fora por algumas semanas e então voltava com todos os tipos de coisas antigas.
+ Mas muitas vezes ele teve que viajar ao Den para vendê-las. Não há muita demanda por este tipo de coisa por aqui.}
+{321}{}{Você sabe onde o Vic está agora?}
+{322}{}{Onde fica o Den?}
+{323}{}{Vic já teve algo rotulado com 'Vault-Tec'?}
+{324}{}{Quero saber sobre outro assunto.}
+{325}{}{Acho que isso é tudo que preciso saber.}
+{330}{}{O Den? Não existe outro lugar com tamanha concentração de escória e infâmia...
+ Fica ao sudeste daqui. Uma semana de viagem mais ou menos? Não me lembro direito.
+ De qualquer forma, é um lugar excitante. Perigoso, mas excitante. Estou arrependida de ter saído de lá.}
 {331}{}{Deixe-me perguntar-lhe algo mais.}
-{332}{}{I think I'll leave now, thanks.}
-{340}{}{I don't rightly know where Vic is. I know he has a house just down the street from us, to the
- east. He could be out trading with tribals or even in the Den, for all I know. I hope he's okay. He was
- getting to be more than just a steady customer to me.}
-{341}{}{I hope he's okay, for your sake. Let me ask you another question.}
-{342}{}{I hope he comes back to you. I think I'll go now. Goodbye.}
-{350}{}{Hello there, mister. My name's Jenny. Looking for a good scrub-down?}
-{351}{}{Uh, no thanks; I was just looking around.}
-{352}{}{Actually, I could use a bit of a rub (nudge, nudge, wink, wink).}
-{353}{}{Well, actually, I just had a few questions that I wanted to ask you if you don't mind.}
-{354}{}{I'm looking for information about a trader of beforetime stuff.}
-{360}{}{Hello there, miss. My name's Jenny. Can I help you?}
-{361}{}{Uh, no; I just wanted to see what was in here. But I think I better go.}
-{362}{}{Actually, I could pick up some personal beauty tips from a cutie like you.}
-{363}{}{I just had a few questions that I wanted to ask you.}
-{364}{}{I'm looking for information about a certain trader of beforetime stuff.}
-{370}{}{Well then, you better talk to Big Nose Sally. She makes all the business arrangements for us
- and she doesn't take kindly to any freelance work.}
-{380}{}{Hello there, cute stuff. My name's Jenny. You looking for work here? If you move as good as you
- look, you could really make some good money here.}
-{381}{}{I'm really not interested in a job here.}
-{382}{}{Mmm, I'd love to show you, personally, just how good I can move.}
-{383}{}{Thanks, but I think I just need to ask you some questions.}
-{384}{}{I'm looking for information about a trader. He deals in beforetime things.}
-{390}{}{Vault-Tec? He might have had something like that. I'm not sure. I know he did have a lot of
- really old stuff.}
-{391}{}{Thanks, Jenny. Let me ask you something else.}
-{392}{}{Well I guess that's all I need for now.}
-{400}{}{A Geck? What's that? Some kind of small gecko, I'd guess. Sorry, I don't know what else it
- would be.}
-{401}{}{Thanks, Jenny. Let me ask you something else.}
-{402}{}{Well, I guess that's all I need for now.}
-{500}{}{[Jenny slaps you] Please don't grope me like that!}
+{332}{}{Acho que vou indo agora. Obrigado.}
+{340}{}{Eu não sei bem onde o Vic está. Eu sei que ele tem uma casa na mesma rua que nós, ao leste.
+ Pelo que sei, ele deve estar por aí negociando com tribais ou até mesmo no Den.
+ Espero que esteja bem. Ele estava começando a ser mais do que apenas um cliente constante para mim...}
+{341}{}{Espero que esteja bem, por sua causa. Deixa eu te fazer mais uma pergunta.}
+{342}{}{Espero que ele volte para você. Acho que vou indo agora. Adeus.}
+{350}{}{Olá, senhor. Meu nome é Jenny. Está procurando por uma boa esfregada?}
+{351}{}{Hum, não, obrigado; Só estava dando uma olhada.}
+{352}{}{Na verdade, uma  "massagem" (piscadinha) até que cairia bem...}
+{353}{}{Bem, na verdade, eu só tenho algumas perguntas que gostaria de fazer, se você não se importa.}
+{354}{}{Estou procurando por informação sobre um comerciante de coisas antigas.}
+{360}{}{Olá, senhorita. Me chamo Jenny. Posso ajudá-la?}
+{361}{}{Hum, não; Eu só queria ver o que tinha aqui. Mas acho melhor eu ir agora.}
+{362}{}{Na verdade, eu poderia pegar algumas dicas de beleza de uma gracinha como você...}
+{363}{}{Eu só tenho algumas perguntas que gostaria de fazer.}
+{364}{}{Estou procurando por informações sobre um certo comerciante de coisas antigas.}
+{370}{}{Bem, então é melhor você ir falar com a Sally nariz grande.
+ Ela que faz todos os arranjos comerciais para nós e ela não tolera nenhuma trabalhadora autônoma.}
+{380}{}{Olá, coisa linda... Me chamo Jenny. Está procurando por trabalho aqui?
+ Se você se move tão bem quanto parece, você pode realmente fazer um bom dinheiro.}
+{381}{}{Eu realmente não estou interessada por um emprego aqui.}
+{382}{}{Hummm, eu adoraria te mostrar, pessoalmente, o quão bem eu posso me mover.}
+{383}{}{Obrigado, mas acho que só preciso fazer algumas perguntas.}
+{384}{}{Estou procurando por informações sobre um comerciante. Ele vende coisas antigas.}
+{390}{}{Vault-Tec? Ele deve ter tido algo assim. Não tenho certeza. Eu sei que ele tinha um monte de coisas realmente velhas.}
+{391}{}{Obrigado, Jenny. Deixa eu te perguntar outra coisa...}
+{392}{}{Bem, eu acho que isso é tudo que eu preciso por enquanto.}
+{400}{}{Um Geck? O que é isso? Algum tipo de gecko pequeno, talvez? Desculpe, não sei o que mais poderia ser.}
+{401}{}{Obrigado, Jenny. Deixa eu te perguntar outra coisa...}
+{402}{}{Bem, acho que isso é tudo que preciso por enquanto.}
+{500}{}{[Jenny te dá um tapa] Por favor, não me apalpe deste jeito!}

@@ -23,15 +23,15 @@
 {120}{}{Nice to see you, Citizen.}
 {121}{}{Busy day, Citizen?}
 {122}{}{After you, Citizen.}
-{123}{}{Hello, traveler.}
+{123}{}{Olá, viajante.}
 {124}{}{Be about your business, Outworlder.}
 {125}{}{Remember, you have until 6 PM.}
 {126}{}{You're out of here after 6 PM.}
 {127}{}{Look, I'm a Citizen.}
 {128}{}{Nothing to report, Captain.}
 {129}{}{Just keeping an eye on things here, Captain.}
-{130}{}{Vault City prevails, Captain.}
-{131}{}{Good day, Captain.}
+{130}{}{Vault City prevails, Capitão.}
+{131}{}{Bom dia, Capitão.}
 {132}{}{You there! Halt! What is that ghoul doing here in Vault City?!}
 {133}{}{You there! Halt! What is that mutant doing here in Vault City?!}
 {134}{}{Breep-oop foop foop}
@@ -55,7 +55,7 @@
 {152}{}{Hey! It's the one who defeated the Enclave!}
 {153}{}{Hey, congratulations on defeating the Enclave!}
 {154}{}{Welcome to Vault City, hero!}
-{155}{}{Your battle against the Enclave impressed even the First Citizen.}
+{155}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
 {156}{}{I heard you've traveled as far south as San Francisco. Is that true?}
 {157}{}{Is it true that the U.S. was still fighting the war?}
 {158}{}{You should catalog your travels in the Vault City computer.}

@@ -17,7 +17,7 @@
 {116}{}{Jo, naštìstí. Pojïme.}
 {117}{}{Našla jsem místnost, ve které jsem byla. Taky jsem našla místnost, která vypadala jako skladištì paliva. Dál jsem se ale kvùli tìm obludám nedostala.}
 {118}{}{Mám další otázky.}
-{119}{}{Odkud pocházíš?}
+{119}{}{Odkud jseš?}
 {120}{}{Skvìle. To bude prozatím všechno.}
 {121}{}{Pocházím kousek na jih od Pohøebištì a Kráteru. Není to daleko od moøe. Dìlala jsem chùvu, ale pak dìti zmutovaly v monstra.}
 {122}{}{Mám další otázky.}
@@ -30,7 +30,7 @@
 {129}{}{Jóóóó.}
 {130}{}{Co jsi tam dole dìlala?}
 {131}{}{Našla jsi tam nìco zajímavého?}
-{132}{}{Odkud pocházíš?}
+{132}{}{Odkud jseš?}
 {133}{}{Jak jsi potkala Badgera?}
 {134}{}{To bude všechno. Nashle.}
 {135}{}{Mùj bože... Badger je mrtvý ... nevím co budu dìlat... nemám tu žádné pøátele... celá moje rodina je mrtvá... mùj bože...}

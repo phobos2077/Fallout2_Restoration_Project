@@ -6,5 +6,4 @@
 {105}{}{Pojï, pojï, myšièko. Já mít hlad.}
 {106}{}{Písk, písk. PÍÍÍÍSK!}
 {107}{}{Dobrá, dobrá, já lhát. Já ty teï sníst.}
-
 {110}{}{Óóó! Ty velká myška. Bıt dobrá veèeøe pro Grundela.}

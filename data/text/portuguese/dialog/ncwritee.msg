@@ -9,11 +9,11 @@
 {162}{}{You see one of Wright's daughters. She ignores you, but drops her hand to her holster meaningfully.}
 {163}{}{You see one of Wright's daughters. She looks meaner than a rattler.}
 {164}{}{You see one of Wright's daughters. She looks meaner than a rattler. For some reason, that excites you.}
-{200}{}{::Cheers::}
-{201}{}{::Claps::}
-{202}{}{::Whistles::}
+{200}{}{::Assobios::}
+{201}{}{::Palmas::}
+{202}{}{::Assobios::}
 {203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
-{204}{}{Hey! }
+{204}{}{Ei! }
 {205}{}{Way to smash the Enclave, }
 {206}{}{You must have been tougher than Tommy the Balls to break the Enclave like you did.}
 {207}{}{Those Enclave fellas sound like real bastards.}
@@ -47,14 +47,14 @@
 {280}{}{What're you sneakin' around for? That'll get you shot.}
 {281}{}{What th' hell... er, heck, you sneakin' around for? You lookin' to get shot?}
 {285}{}{Is that some kind of slot machine that's followin' you around?}
-{286}{}{Is that a robo-slot machine?}
+{286}{}{Isso é um robô caça-níqueis?}
 {287}{}{Is that a brain inside that robot thing? Yechhh.}
 {288}{}{That some kind of rovin' brain display case you got with you?}
 {289}{}{That a robot? I ain't never seen one of those before.}
-{295}{}{Tell me that ain't a mutant.}
+{295}{}{Diga que aquilo não é um mutante.}
 {296}{}{That a mutant?}
 {297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble...}
-{298}{}{That mutant is one big mutha.}
+{298}{}{Aquele mutante é um dos grandes.}
 {299}{}{That mutant o' yours better watch himself round here, y'hear me?}
 {305}{}{O que você quer?}
 {306}{}{Help you with somethin'?}

@@ -1,6 +1,6 @@
-{100}{}{You see a wall safe.}
-{110}{}{The safe is locked.}
-{200}{}{You successfully unlock the wall safe.}
-{201}{}{You successfully lock the wall safe.}
-{210}{}{You fail to lock the wall safe.}
-{211}{}{You fail to unlock the wall safe.}
+{100}{}{Você vê um cofre de parede.}
+{110}{}{O cofre está trancado.}
+{200}{}{Você destrancou o cofre de parede com sucesso.}
+{201}{}{Você trancou o cofre de parede com sucesso.}
+{210}{}{Você falhou em trancar o cofre de parede.}
+{211}{}{Você falhou em destrancar o cofre de parede.}

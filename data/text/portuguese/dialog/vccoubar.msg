@@ -1,25 +1,25 @@
-{100}{}{You see a bartender.}
+{100}{}{Você vê um barman.}
 {101}{}{You see a tall man in an elegant suit. He is staring straight ahead and paying no attention to the patrons around him.}
-{102}{}{You see a bartender.}
+{102}{}{Você vê um barman.}
 {103}{}{This man looks stone-faced. If he notices you, he shows no sign.}
 {104}{}{Care for a drink, hero?}
 {105}{}{Welcome, hero. Please, take a seat in the bar.}
 {106}{}{Please! Take a seat, rest for a while!}
-{107}{}{Good day, Captain.}
-{108}{}{Vault City prevails, Captain.}
-{109}{}{Good day, Citizen.}
+{107}{}{Bom dia, Capitão.}
+{108}{}{Vault City prevails, Capitão.}
+{109}{}{Bom dia, Citizen.}
 {110}{}{Vault City prevails, Citizen.}
-{111}{}{A mutant! Guards! Guards!}
-{112}{}{A ghoul! Guards! Guards!}
+{111}{}{Um mutante! Guardas! Guardas!}
+{112}{}{Um ghoul! Guardas! Guardas!}
 {113}{}{I'm sorry, but the bar is closed for the evening.}
 {114}{}{The bar is closed. I'll be returning home once I finish this inventory list.}
 {115}{}{Don't you have homes to go to?}
 {116}{}{Welcome! We've all heard about your exploits against the Enclave. Can I get you something to drink?}
 {117}{}{Awnt-awnt}
 {118}{}{Desliga}
-{119}{}{What's on tap?}
+{119}{}{O que você tem aí?}
 {120}{}{I was looking for some information.}
-{121}{}{Nothing today, thanks.}
+{121}{}{Nada por hoje, valeu.}
 {122}{}{Heh-heh, "awnt-awnt" to you, too. Please be careful out in the wastes.}
 {123}{}{Oonnt-oooont!}
 {124}{}{Desliga}
@@ -28,9 +28,9 @@
 {127}{}{Yes? Can I help you?}
 {128}{}{Awnt-awnt}
 {129}{}{Desliga}
-{130}{}{What's on tap?}
+{130}{}{O que você tem aí?}
 {131}{}{I was looking for some information.}
-{132}{}{Nothing today, thanks.}
+{132}{}{Nada por hoje, valeu.}
 {133}{}{Yes, "awnt-awnt" to you, too. Hold on a moment while I summon the guards to "awnt-awnt" you to the front gate.}
 {134}{}{Urnt? Urnt-urnt.}
 {135}{}{Desliga}
@@ -40,7 +40,7 @@
 {139}{}{Uh, do you have any real drinks?}
 {140}{}{Some water would be great.}
 {141}{}{Never mind. I was looking for some information.}
-{142}{}{Nothing today, thanks.}
+{142}{}{Nada por hoje, valeu.}
 {143}{}{Very good, sir.}
 {144}{}{Very good, ma'am.}
 {145}{}{Which would you like? Mineral? Distilled? Or Sparkling? Each is modestly priced at five dollars a glass.}
@@ -58,12 +58,12 @@
 {157}{}{Hmmm. I'll try some of that delicious alcohol-Z.}
 {158}{}{Nevermind. I was looking for some information.}
 {159}{}{That's a little steep. I'll come back when I have more money.}
-{160}{}{Nothing today, thanks.}
+{160}{}{Nada por hoje, valeu.}
 {161}{}{Would you care for anything else?}
 {162}{}{I'd like some more water, thanks.}
 {163}{}{What synthesized alcohols do you have?}
 {164}{}{Never mind. I was looking for some information.}
-{165}{}{Nothing today, thanks.}
+{165}{}{Nada por hoje, valeu.}
 {166}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
 {167}{}{Are you okay, sir? Drinking all that "alcohol-Z" looks like it has had some sort of effect on you. Are you sure you want more?}
 {168}{}{Would you care for anything else?}
@@ -73,7 +73,7 @@
 {172}{}{I'll have some more delicious alcohol-Z.}
 {173}{}{How do you manufacture these synthesized alcohols?}
 {174}{}{Actually, I was looking for some information.}
-{175}{}{Nothing more today, thanks.}
+{175}{}{Nada mais por hoje, valeu.}
 {176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
 {177}{}{You seem to know a great deal about these synthetics.}
 {178}{}{Uh, do you have any real drinks?}
@@ -115,7 +115,7 @@
 {214}{}{Can you tell me who Vault City's leader is?}
 {215}{}{Can you tell me a little about the slavery here in Vault City?}
 {216}{}{Never mind. I wanted a drink. What have you got on tap?}
-{217}{}{Nothing today, thanks.}
+{217}{}{Nada por hoje, valeu.}
 {218}{}{Why, First Citizen Lynette, of course. She's been First Citizen for almost two terms now. She is still answerable to the council, but she is responsible for most of the core legislation for Vault City.}
 {219}{}{Council?}
 {220}{}{Can you tell me a little about the slavery here in Vault City?}

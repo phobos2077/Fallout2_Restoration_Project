@@ -21,7 +21,7 @@
 {120}{}{Ano, to zajisté chápu. Tak dobrá. Pokud se rozlouèíme v dobrém, èlovìèe, zajdi si promluvit s Gorisem. Má v této záleitosti více porozumìní ne já. Bude nejspíše v knihovnì vaultu.}
 {121}{}{Díky. Tìším se na setkání s Gorisem.}
 {122}{}{Nemám v úmyslu pøidávat páraèe na seznam svıch pøátel. Nashle!}
-{123}{}{Dobrá.}
+{123}{}{Tak dobøe.}
 {124}{}{Jsou pryè, èlovìèe. Nezabili jsme je, ani jim nesebrali jejich domov. Nemáme ve zvyku zabíjet. Pochopím, kdy mi nebudeš vìøit, ale zároveò doufám, e mì budeš posuzovat na základì mıch èinù vùèi tobì a ne ze strachu nebo pøedsudkù.}
 {125}{}{Nejspíš ti koneènì došlo, e ti mùu klidnì nakopat prdel.}
 {126}{}{Pøipadáš mi jako poèestná bytost, Gruthare.}
@@ -55,7 +55,7 @@
 {154}{}{Díky. Pustím se do toho.}
 {155}{}{Vdycky se nìjakej blbec najde...}
 {156}{}{Aha... no, páraèi jsou od pøírody nebezpeèní a èlovìk musí bıt velmi opatrnı, kdy je potká v pustinì. Avšak jak jistì vidíš, my jsme vıjimka. Moje smeèka není pro tebe ani pro lidské komunity ádnou hrozbou. Vyvinuli jsme se nad naše pøíbuzné a pøejeme si ít v poklidu.}
-{157}{}{Eh... jasnì.}
+{157}{}{Hmm... jo tak.}
 {158}{}{Gruthare, vaše zvıšená inteligence z vás dìlá ještì vìtší hrozbu, ne jakou pøedstavuje obyèejnı páraè.}
 {159}{}{Vidím, e nejste brutální zabijáci, jak se o páraèích øíká.}
 {160}{}{Strávil jsem mnoho probdìlıch nocí v hlubokém zamyšlení, uvaujíc o takovıch vìcech. Nakonec jsem došel k závìru, e s darem inteligence je spojené nespoèetné mnoství bøemen a povinností. Kadá myslící bytost má pouze dvì monosti. Buï pøijme ivot takovı, jakı je, a naplno vyuije tohoto daru pro sebe a své okolí, nebo jednoduše pøestane existovat. Vybral jsem si pøijmout vızvy ivota. Pokud to ze mì èiní hrozbu pro lidstvo, pak lituji všechny omezené jedince, kteøí si to myslí...}
@@ -68,15 +68,15 @@
 {167}{}{U toho vím dost. Potøebuju si to promyslet.}
 {168}{}{Chápu...}
 {169}{}{Tvoje rozhodnutí se mi nelíbí, ale pøijímám ho. Mùeš odejít, ale pokud si to rozmyslíš, vra se prosím.}
-{170}{}{Hotovo.}
-{171}{}{Ahoj} # Goes to 231
+{170}{}{Beru.}
+{171}{}{Ahoj}
 {172}{}{Ne, ale pustím se do toho.}
 {173}{}{Je mi líto, Gruthare. Odešel hlasovı modul. Budu muset najít jinı.}
-{174}{}{Nerozumím takovım vìcem, ale vìøím ti,} # 232
-{175}{}{Hotovo.}
+{174}{}{Nerozumím takovım vìcem, ale vìøím ti,}
+{175}{}{Beru.}
 {176}{}{Vrátím se, máš moje slovo.}
-{177}{}{Ahoj} # 233
-{178}{}{Ne, stále hledám.}
+{177}{}{Ahoj}
+{178}{}{Bohuel zatím ne. Ale opravdu se snaím.}
 {179}{}{Ano, tady je!}
 {180}{}{}
 {181}{}{Navrátil jsi moji dùvìru v lidi. Dìkuji ti za vše, co jsi pro moji smeèku udìlal. Mùu ti to nìjak oplatit?}
@@ -93,14 +93,14 @@
 {192}{}{Eh, já pardón.}
 {193}{}{Zdravím tì, èlovìèe. Zmìnil jsi názor? Pomùeš mi?}
 {194}{}{Ani omylem. Jen chci slyšet, jak zase przníš náš jazyk.}
-{195}{}{Ne, myslím, e ne.}
+{195}{}{Ne. Myslím, e ne.}
 {196}{}{Ano, Gruthare. Pomùu ti.}
 {197}{}{Zdravím tì, pøíteli. Díval ses u na ten stroj?}
 {198}{}{Ještì ne, ale pustím se do toho.}
 {199}{}{Ahoj, pøíteli. Podaøilo se ti zachránit smeèku a za to ti dìkujeme.}
 {200}{}{}
 {201}{}{}
-{202}{}{Chcípni, proradnı èlovìèe!}
+{202}{}{Chcípni, proradnı èerve!}
 {203}{}{}
 {204}{}{}
 {205}{}{Nemám s tebou nic co do èinìní, èlovìèe, a ani mít nechci. Snaím se to s tebou vyøešit v klidu, tak se o to sna i ty!}
@@ -126,14 +126,12 @@
 {225}{}{V tom pøípadì tu nejsi vítán. Odejdi.}
 {226}{}{Sbohem.}
 {227}{}{Sbohem.}
-{228}{}{Hotovo.}
+{228}{}{Beru.}
 {229}{}{Omluva pøijata, èlovìèe. Pøeji hezkı den!}
-{230}{}{Hotovo.}
+{230}{}{Beru.}
 {231}{}{. Díval ses u na ten stroj?}
 {232}{}{. Budu èekat na tvùj návrat.}
 {233}{}{. Podaøilo se ti najít náhradní souèástku na opravu toho stroje?}
-
-#added later
 {234}{}{Eh, dobøe.}
 {235}{}{Doufám, e si uíváš pobyt.}
 {236}{}{Bohuel k tomu muselo dojít. Dovolil jsem mu zùstat tak dlouho, dokud nepøedstavoval hrozbu pro smeèku. Vybral si svoji cestu. Doufám, e to chápeš.}

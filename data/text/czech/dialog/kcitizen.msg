@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kcitizen.msg                               #
-#                                                           #
-#       Body Type:  NAROBE                                  #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Vidíš jednoho z obyvatelù Klamathu.}
 {101}{}{Vidíš jednoho z obyvatelù Klamathu.}
-
-#############################################################
-#  The following lines are floaters for citizens            #
-#############################################################
-
 {150}{}{Proè se nevrátíš zpìt ke svému kmeni?}
 {151}{}{Dám ti hezkı korálky, kdy mì necháš bıt.}
 {152}{}{Hodnej divoch, dobrej divoch. Neublííš mi, e ne?}
@@ -37,7 +12,6 @@
 {159}{}{Nechceme tu ádné problémy.}
 {160}{}{Urèitì pocházíš odnìkud ze severu.}
 {161}{}{To poslední co tu potøebujeme, je víc takovıch, jako jsi ty.}
-
 {170}{}{Zdravím, cizinèe.}
 {171}{}{Doufám, e bude letos dobrı lov.}
 {172}{}{V poslední dobì se ztrácí hodnì brahmín.}
@@ -57,8 +31,7 @@
 {186}{}{Pro spodinu ádnı odpoèinek.}
 {187}{}{Bolí mì klouby. Asi bude pršet.}
 {188}{}{Zaèíná trochu foukat.}
-
-{190}{}{Rádi tì tu vidíme.}
+{190}{}{Rád tì vidím.}
 {191}{}{Je u vás ve vesnici víc takovıch, jako jsi ty?}
 {192}{}{Doufám, e se ti Klamath líbí.}
 {193}{}{Hodilo by se nám tu víc takovıch lidi, jako jsi ty.}
@@ -68,37 +41,32 @@
 {197}{}{Vùbec nejsi jako Sulik.}
 {198}{}{Jsi nejcivilizovanìjší divoch s kterım jsem se kdy setkal.}
 {199}{}{Pozor na jinak zbarvené geckony.}
-{200}{}{Zdravím, cestovateli.}
+{200}{}{Zdravím tì, cestovateli.}
 {201}{}{Jsme rádi, e tì máme v Klamathu.}
-{202}{}{Teší mì, cizinèe.}
+{202}{}{Nazdar, cizinèe.}
 {203}{}{Bacha na Duntonovi. Jsou nebezpeèní.}
 {204}{}{Lovecká ètvr je plná krys.}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
-{1000}{}{Starší}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
+{1000}{}{Starsi}
+{1001}{}{Zakladatel}
+{1002}{}{Obyvatel Vaultu}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Vyvolenı}
+{1006}{}{Vyvoleny}
 {1007}{}{Saman}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
+{1009}{}{Lecivy prasek}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
+{1100}{}{Starší je tvoje matka a náš vùdce.}
+{1101}{}{Náš slavnı pøedek, kterı nám pøedal své znalosti.}
+{1102}{}{První èlovìk, kterı bojoval a zvítìzil nad chaosem.}
+{1103}{}{To je naše krásná vesnice.}
 {1104}{}{That’s trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
+{1105}{}{Vault je jako nebe.}
+{1106}{}{Ty jsi Vyvolenı.}
 {1107}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
 {1108}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
-{1109}{}{It is a magic powder which will heal you, but will make you sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{He guards the bridge leading into our village.}
+{1109}{}{To je léèivı prášek, kterı tì vyléèí, ale bude se ti po nìm chtít spát.}
+{1110}{}{Velikı most je jedinım vıchodem z naší vesnice.}
+{1111}{}{Stráí most, kterı vede do naší vesnice.}

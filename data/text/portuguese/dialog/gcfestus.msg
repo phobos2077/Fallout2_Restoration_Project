@@ -67,7 +67,7 @@
 {232}{}{Must break free. Strength fading. Must leave.}
 {240}{}{What brings you to this part of my atomic reactor?}
 {241}{}{Well, I have a part that you can use to fix the reactor.}
-{242}{}{Uh, I was just looking around. Goodbye.}
+{242}{}{Hã, eu só estava dando uma olhada por aqui. Tchau.}
 {250}{}{You know, I'm not so sure that this is the right part after all. Maybe you should take it back
  to Vault City to check. I don't think I can help you with this, after all.}
 {251}{}{I'm sure it's the right part. I have great confidence in your abilities.}
@@ -92,7 +92,7 @@
  after all.}
 {311}{}{I think you may be wrong. Vault City's been complaining that your atomic reactor has been
  tainting their water with radiation.}
-{312}{}{Well, if you say so. Goodbye.}
+{312}{}{Bem, se você está dizendo. Tchau.}
 {320}{}{Not possible. No one would know more about it than me. They're just looking for someone to blame
  for their problem. We don't even draw from the same aquifer.}
 {321}{}{You sound sure. But so did they.}
@@ -157,7 +157,7 @@
 {470}{}{Uh, well, it's supposed to be that way. I've got plenty of important work to do. If that's all
  you came in for...}
 {471}{}{Well, actually I need a Part Requisition Form.}
-{472}{}{I guess I don't need anything after all. Goodbye.}
+{472}{}{Afinal de contas, depois de tudo isso acho que não preciso de mais nada. Tchau.}
 {480}{}{What do you mean? Oh, well, I guess I've been working pretty darn hard lately. Haven't had time
  to really take care of myself the way I should. Maybe the radiation just affects me a little
  differently.}

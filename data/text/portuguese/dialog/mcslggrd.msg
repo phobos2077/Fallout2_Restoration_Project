@@ -1,32 +1,30 @@
-{100}{}{Seems to be a guard of some sort.}
-{101}{}{You see a Protector.}
-{150}{}{Besides the pale skin and enlarged pupils, he looks to be an ordinary person.}
+{100}{}{Parece algum tipo de guarda.}
+{101}{}{Você vê um Protetor.}
+{150}{}{Além da pele pálida e pupilas dilatadas, ele parece ser uma pessoa comum.}
 {200}{}{Puta merda!}
-{201}{}{Oooh! Now that's gotta hurt.}
-{210}{}{You do know you can enter from the back door...}
+{201}{}{Oooh! Essa vai doer.}
+{210}{}{Você sabe que pode entrar pela porta dos fundos.}
 {211}{}{Bwahahahaha!}
-{212}{}{I'm not going to say a word.}
-{213}{}{Oh god! You're killing me! Do it again!}
+{212}{}{Não vou falar nada.}
+{213}{}{Meu Deus! Você está me matando! Faça de novo!}
 {214}{}{Que idiota!}
 {215}{}{Hahahaha!}
-{220}{}{We have been instructed to take all surfacers to Vegeir. You will not be harmed. Please
- come with us.}
-{221}{}{Go to hell, I'm not going anywhere with you.}
-{222}{}{I'd like to ask you some questions.}
-{223}{}{Duh?}
-{224}{}{Let me elaborate on my previous statement. You will not be harmed UNLESS you resist. Are
- you resisting?}
-{225}{}{Yes, I am absolutely going to resist you.}
-{226}{}{No, I know resistance is futile. I'll go with you.}
-{230}{}{Vegeir will answer all your questions. Please come with us.}
-{231}{}{Okay, I'll go with you peacefully for now.}
-{232}{}{No, I'm not going anywhere with you unless I get some answers.}
-{240}{}{Hmm... I wonder if this is an exception to the rule. No, no, no. Vegeir said ALL surfacers,
- even the idiots. Come with me.}
-{241}{}{[Go with the guards.]}
-{242}{}{[Kill them all and let whatever gods they worship sort them out.]}
-{250}{}{I'm sorry; you can't leave this way.}
-{251}{}{This entrance is for the workers.}
-{252}{}{It takes too much effort to set up the ramps for just one person.}
-{253}{}{If you want to leave, ask Vegeir.}
+{220}{}{Fomos intruídos para levar todos da superfície até Vegeir. Você não vai se machucar. Por favor venha conosco.}
+{221}{}{Vai pro inferno, não vou a lugar nenhum com você.}
+{222}{}{Gostaria de fazer alguns perguntas.}
+{223}{}{Quê?}
+{224}{}{Vou repetir. Você não vai se machucar SE você não resistir. Você vai resistir?}
+{225}{}{Sim, eu vou resistir.}
+{226}{}{Não, eu sei que resistir é inútil. Irei com vocês.}
+{230}{}{Vegeir vai te fazer algumas perguntas. Por favor venha conosco.}
+{231}{}{Beleza, irei com vocês pacificamente por enquanto.}
+{232}{}{Não, não irei a lugar nenhum se você não me der algumas respostas.}
+{240}{}{Hmm… Me pergunto se essa é uma exceção na regra. Não, não e não. Vegeir disse que TODOS da superfície, 
+até os idiotas. Venha comigo.}
+{241}{}{[Ir com os guardas.]}
+{242}{}{[Mate todos eles e deixe que os deuses que eles adorem se virem.]}
+{250}{}{Sinto muito; você não pode ir por aí.}
+{251}{}{Essa entrada é exclusiva para trabalhadores.}
+{252}{}{Dá muito trabalho levantar as rampas para apenas uma pessoa.}
+{253}{}{Se você quer ir embora, fale com Vegeir.}
 {260}{}{Ogey Dogey.}

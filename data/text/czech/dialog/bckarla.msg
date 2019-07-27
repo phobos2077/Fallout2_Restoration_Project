@@ -1,4 +1,4 @@
-{100}{}{Vidíš èlenku gangu Khanù.}
+{100}{}{Vidíš èlenku Khanù.}
 {101}{}{Vidíš Karlu, èlenku gangu Khanù.}
 {102}{}{Vidíš drsnì vypadající ženu v kovovém brnìní. Nebýt jizev v oblièeji, byla by docela hezká.}
 {103}{}{Promluv si s Philem, kreténe.}

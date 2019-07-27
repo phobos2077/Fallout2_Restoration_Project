@@ -1,7 +1,6 @@
 {100}{}{Vidíš muže, který brnká na loutnu.}
 {101}{}{To je Joshua.}
 {102}{}{Je to potulného barda.}
-
 {103}{}{Hrdinný Sir Robin utekl...}
 {104}{}{Hrdinnì z boje utekl...}
 {105}{}{Když nebezpeèí ukázalo svoji hnusnou tváø, hrdinnì stáhl ocas mezi nohy a utekl...}

@@ -3,7 +3,7 @@
 {102}{}{Vidíš nervóznì vzrušenou osobu hrající o peníze.}
 {103}{}{No ták, dìcko potøebuje nový boty.}
 {104}{}{Jo, to je ono!}
-{105}{}{Do prdele!}
+{105}{}{A do prdele!}
 {106}{}{Proè já?}
 {107}{}{Nemá nìkdo drobný?}
 {108}{}{Tentokrát to už urèitì vyjde.}

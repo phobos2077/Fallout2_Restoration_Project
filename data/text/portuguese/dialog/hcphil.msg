@@ -42,7 +42,7 @@
 {151}{}{Grink 'es!}
 {152}{}{Grink no!}
 {153}{}{Hey, Doi! Welcome back. Got your seat all warmed up for you back there.}
-{154}{}{Anks!}
+{154}{}{Brigado!}
 {155}{}{That'll be $2.}
 {156}{}{That'll be $4.}
 {157}{}{That's $5.}
@@ -127,10 +127,10 @@
 {242}{}{Get out of my bar. Now. Scumbag.}
 {300}{}{!}
 {301}{}{.}
-{302}{}{Well, }
+{302}{}{Bem, }
 {303}{}{Thanks, }
 {304}{}{Hi again, }
-{305}{}{Hey, }
+{305}{}{Ei, }
 {306}{}{You again, }
 {307}{}{No problem, pal. Here's your drink, too. Hey, anything else I can do ya' for?}
 {308}{}{Hey pal, thanks for all the tips. Lemme' give you one in return. I've heard that Liz, the owner of the General Store,

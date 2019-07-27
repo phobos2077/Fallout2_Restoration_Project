@@ -231,8 +231,8 @@
 {21400}{}{Farmer}
 {21500}{}{Farmer}
 {21600}{}{Mantis}
-{21700}{}{Slaver}
-{21800}{}{Slaver}
+{21700}{}{Traficante de escravos}
+{21800}{}{Traficante de escravos}
 {21900}{}{Wild Brahmin}
 {22000}{}{Homesteader}
 {22100}{}{Homesteader}

@@ -1,57 +1,57 @@
-{0}{}{SAVE GAME}
-{1}{}{LOAD GAME}
-{2}{}{PREFERENCES}
-{3}{}{EXIT GAME}
+{0}{}{SALVAR}
+{1}{}{CARREGAR}
+{2}{}{OPÇÕES}
+{3}{}{SAIR}
 {4}{}{FEITO}
-{100}{}{GAME PREFERENCES}
-{101}{}{GAME DIFFICULTY}
-{102}{}{COMBAT DIFFICULTY}
-{103}{}{VIOLENCE LEVEL}
-{104}{}{TARGET HIGHLIGHT}
-{105}{}{COMBAT LOOKS}
-{106}{}{COMBAT MESSAGES}
+{100}{}{PREFERÊNCIAS}
+{101}{}{DIFICULDADE DO JOGO}
+{102}{}{DIFICULDADE DE LUTA}
+{103}{}{NÍVEL DE VIOLÊNCIA}
+{104}{}{DESTAQUE DO ALVO}
+{105}{}{VISÃO DE COMBATE}
+{106}{}{MENSAGENS}
 {107}{}{COMBAT TAUNTS}
-{108}{}{LANGUAGE FILTER}
-{109}{}{RUNNING}
-{110}{}{SUBTITLES}
-{111}{}{ITEM HIGHLIGHT}
-{112}{}{COMBAT SPEED}
-{113}{}{TEXT DELAY}
-{114}{}{MASTER AUDIO VOLUME}
-{115}{}{MUSIC/MOVIE VOLUME}
-{116}{}{SOUND EFFECTS VOLUME}
-{117}{}{SPEECH VOLUME}
-{118}{}{BRIGHTNESS LEVEL}
-{119}{}{MOUSE SENSITIVITY}
-{120}{}{DEFAULT}
+{108}{}{FILTRO DE TEXTO}
+{109}{}{CORRER}
+{110}{}{LEGENDAS}
+{111}{}{DESTAQUE DO ITEM}
+{112}{}{VELOCIDADE DE LUTA}
+{113}{}{ATRASO DO TEXTO}
+{114}{}{VOLUME DO JOGO}
+{115}{}{VOLUME DA MÚSICA}
+{116}{}{VOLUME DE EFEITOS}
+{117}{}{VOLUME DE FALA}
+{118}{}{NÍVEL DO BRILHO}
+{119}{}{SENSIBILIDADE}
+{120}{}{PADRÃO}
 {121}{}{CANCEL}
-{122}{}{Affect player speed}
-{123}{}{Pip-Boy speech}
-{201}{}{On}
-{202}{}{Off}
-{203}{}{Easy}
+{122}{}{Afetar a velocidade do jogador}
+{123}{}{Discurso Pipboy}
+{201}{}{Ligado}
+{202}{}{Desligado}
+{203}{}{Fácil}
 {204}{}{Normal}
-{205}{}{Hard}
-{206}{}{Wimpy}
+{205}{}{Difício}
+{206}{}{Fácil}
 {207}{}{Normal}
-{208}{}{Rough}
+{208}{}{Brutal}
 {209}{}{Normal}
-{210}{}{Fastest}
-{211}{}{Verbose}
-{212}{}{Brief}
-{213}{}{Targeting Only}
-{214}{}{None}
-{215}{}{Minimal}
-{216}{}{Maximum Blood}
-{217}{}{Slow}
-{218}{}{Faster}
-{219}{}{Always}
+{210}{}{Rápido}
+{211}{}{Raro}
+{212}{}{Sempre}
+{213}{}{Apenas alvo}
+{214}{}{Nenhum}
+{215}{}{Mínimo}
+{216}{}{Sanguinário}
+{217}{}{Lento}
+{218}{}{Rápido}
+{219}{}{Sempre}
 {220}{}{Lots}
-{221}{}{Quiet}
-{222}{}{Loud}
-{223}{}{Brighter}
+{221}{}{Baixo}
+{222}{}{Alto}
+{223}{}{Alto}
 {224}{}{Wide}
 {300}{}{FEITO}
-{301}{}{PAUSED}
+{301}{}{PAUSAR}
 {1000}{}{Sorry, the preferences menu is not}
 {1001}{}{available in the demo version.}

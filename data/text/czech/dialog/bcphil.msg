@@ -1,4 +1,4 @@
-{100}{}{Vidíš nájezdníka gangu Khanù.}
+{100}{}{Vidíš èlenku Khanù.}
 {101}{}{Vidíš Phila, strážce gangu Khanù.}
 {102}{}{Vidíš drsnì vypadajícího mladíka v kovové zbroji. Je tìžce ozbrojen.}
 {103}{}{Mìl bych tì hned odprásknout, ale jsem docela zvìdavej, co mi øekneš.}
@@ -21,7 +21,7 @@
 {120}{}{Hmm. Nic. Myslím, že už pùjdu.}
 {121}{}{Nechce se mi vìøit, že si myslíš, že sem mùžeš jen tak nakráèet a já ti budu odpovídat na tvoje otázky! Ale co, stejnì tak jako tak chcípneš a já mám dneska sklony ke šlechetnosti. Máme vzadu zamèenou její holku a trošku tam s ní laškujeme. Ta dìvka Rebecca ji furt hledá, takže si musíme dávat bacha, aby se nedostala moc blízko.}
 {122}{}{Ty mít nemocnou hlavu. Vyvolený opravit to. Odstranit tu hlavu.}
-{123}{}{Co myslet tím "laškujeme"?}
+{123}{}{Co ty myslet tím užívat si s holka?}
 {124}{}{Aha, to dobré vysvìtlení. Já teï jít.}
 {125}{}{Jseš nemocnej, chudinko malá. Zazpívám ti ukolébavku. Zaruèenì tì uspí. Navìky.}
 {126}{}{Fajn. Tak si to užijte a já zase pùjdu.}
@@ -52,6 +52,5 @@
 {151}{}{Jseš nemocnej, chudinko malá. Zazpívám ti ukolébavku. Zaruèenì tì uspí. Navìky.}
 {152}{}{Fajn. Tak si to užijte a já zase pùjdu.}
 {153}{}{Nechte to dìvèe na pokoji a budete žít.}
-
 {154}{}{Vidím, že jsi zpátky. No, tak uvidíme, kdo z nás dvou to pøežije.}
 {155}{}{Zabili jsme tu dìvku Chrissy a teï jsi na øadì ty!}

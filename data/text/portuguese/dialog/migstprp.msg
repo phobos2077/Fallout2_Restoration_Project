@@ -1,2 +1,2 @@
-{100}{}{These bodies appear to be fake -- nothing but dummies, covered in brahmin innards.}
-{101}{}{Something doesn't look right.}
+{100}{}{Estes corpos parecem ser falsos -- nada mas que manequins, cobertos com tripas de brahmin.}
+{101}{}{Algo não está certo.}

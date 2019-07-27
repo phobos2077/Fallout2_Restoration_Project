@@ -1,2 +1,2 @@
-{100}{}{You see Rose's chicken.}
-{110}{}{Sounds like something BIG is moving around inside.}
+{100}{}{Você vê a galinha da Rose.}
+{110}{}{Soa como se algo GRANDE estivesse movendo dentro de você.}

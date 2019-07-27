@@ -1,1 +1,1 @@
-{100}{}{You have entered Vault City's Vault.}
+{100}{}{Você entrou no Vault de Vault City.}

@@ -1,47 +1,47 @@
 {100}{}{Você vê um comerciante.}
 {101}{}{Você vê um comerciante.}
-{102}{}{You see an animated Shi merchant. Like all the others, he seems to be full of wind.}
-{103}{}{Come buy octopus! Very tasty!}
-{104}{}{You like fish? We got fish!}
-{105}{}{Hey! Hey! Buy this! Buy this!}
-{106}{}{Don't buy from him! He's a lousy thief!}
-{107}{}{Come over here and see this! You like it very much!}
-{108}{}{Check it out! Check it out! Check it out!}
-{109}{}{Hey, lao wai! You want a deal? I've got deals!}
-{110}{}{Come 'ere! Come 'ere! Come 'ere!}
-{111}{}{You think that's good? Check this out!}
-{112}{}{We got fish, we got seaweed, we got rice, we got... umm...}
-{113}{}{Ain't much that grows here, but what does, we got it in stock!}
-{114}{}{You go home! You go home, lao wai!}
-{115}{}{We don't want your business!}
-{116}{}{Leave! Leave!}
-{117}{}{Your money no good here! You go now!}
-{118}{}{You go now!}
-{119}{}{You not like to fight? Mai Da Chiang has weapons for you!}
-{120}{}{You a lover and not a fighter, eh?}
-{121}{}{Hey, grasshopper!}
-{122}{}{Come buy octopus! Very tasty!}
-{123}{}{You like fish? We got fish!}
-{124}{}{Hey! Hey! Buy this! Buy this!}
-{125}{}{Don't buy from him! He's a lousy thief!}
-{126}{}{Come over here and see this! You like it very much!}
-{127}{}{Check it out! Check it out! Check it out!}
-{128}{}{Hey lao wai! You want a deal? I've got deals!}
-{129}{}{Come 'ere! Come 'ere! Come 'ere!}
-{130}{}{You think that's good? Check this out!}
-{131}{}{We got fish, we got seaweed, we got rice, we got... umm...}
-{132}{}{Ain't much that grows here, but what does, we got it in stock!}
+{102}{}{Você vê um comerciante Shi bem animado. Assim como os outros, ele parece ter muito fôlego.}
+{103}{}{Vem comprar polvo! Muito saboroso!}
+{104}{}{Você gosta peixe? Nós temos peixe!}
+{105}{}{Ei! Ei! Compra isto! Compra isto!}
+{106}{}{Não compra dele! Ele é ladrão safado!}
+{107}{}{Vem aqui ver isto! Você gostar muito!}
+{108}{}{Olha! Olha! Olha!}
+{109}{}{Ei, lao wai! Você quer fazer negócio? Eu tenho negócio!}
+{110}{}{Vem aqui! Vem aqui! Vem aqui!}
+{111}{}{Você acha aquilo bom? Olha isto, então!}
+{112}{}{Nós tem peixe, nós tem alga, nós tem arroz, nós tem... umm...}
+{113}{}{Não cresce muita coisa por aqui, mas o que cresce, nós tem no estoque!}
+{114}{}{Você vai pra casa! Vai embora, lao wai!}
+{115}{}{Nós não quer fazer negócio com você!}
+{116}{}{Vai embora! Vai embora!}
+{117}{}{Seu dinheiro não bom aqui! Vai embora!}
+{118}{}{Sai fora!}
+{119}{}{Você não gosta luta? Mai Da Chiang tem arams pra você!}
+{120}{}{Você amante e não lutador, eh?}
+{121}{}{Ei, gafanhoto!}
+{122}{}{Vem comprar polvo! Muito saboroso!}
+{123}{}{Você gosta peixe? Nós temos peixe!}
+{124}{}{Ei! Ei! Compra isto! Compra isto!}
+{125}{}{Não compra dele! Ele é ladrão safado!}
+{126}{}{Vem aqui ver isto! Você gostar muito!}
+{127}{}{Olha! Olha! Olha!}
+{128}{}{Ei, lao wai! Você quer fazer negócio? Eu tenho negócio!}
+{129}{}{Vem aqui! Vem aqui! Vem aqui!}
+{130}{}{Você acha aquilo bom? Olha isto, então!}
+{131}{}{Nós tem peixe, nós tem alga, nós tem arroz, nós tem... umm...}
+{132}{}{Não cresce muita coisa por aqui, mas o que cresce, nós tem no estoque!}
 {133}{}{We got dead advisor sale!}
-{134}{}{Man... will the new leader give us new taxes?}
-{135}{}{Poor Ken Lee.}
-{136}{}{Shi-Town will never be the same without old Ken Lee.}
-{137}{}{You like fish? We got fish!}
-{138}{}{Hey! Hey! Buy this! Buy this!}
-{139}{}{Don't buy from him! He's a lousy thief!}
-{140}{}{Come over here and see this! You like it very much!}
-{141}{}{Check it out! Check it out! Check it out!}
-{142}{}{Hey lao wai! You want a deal? I've got deals!}
-{143}{}{Come 'ere! Come 'ere! Come 'ere!}
-{144}{}{You think that's good? Check this out!}
-{145}{}{We got fish, we got seaweed, we got rice, we got... umm...}
-{146}{}{Ain't much that grows here, but what does, we got it in stock!}
+{134}{}{Cara... o novo líder vai cobrar novos impostos de nós?}
+{135}{}{Pobre Ken Lee.}
+{136}{}{Shi-Town nunca mais vai ser a mesma sem o velho Ken Lee.}
+{137}{}{Você gosta peixe? Nós temos peixe!}
+{138}{}{Ei! Ei! Compra isto! Compra isto!}
+{139}{}{Não compra dele! Ele é ladrão safado!}
+{140}{}{Vem aqui ver isto! Você gostar muito!}
+{141}{}{Olha! Olha! Olha!}
+{142}{}{Ei, lao wai! Você quer fazer negócio? Eu tenho negócio!}
+{143}{}{Vem aqui! Vem aqui! Vem aqui!}
+{144}{}{Você acha aquilo bom? Olha isto, então!}
+{145}{}{Nós tem peixe, nós tem alga, nós tem arroz, nós tem... umm...}
+{146}{}{Não cresce muita coisa por aqui, mas o que cresce, nós tem no estoque!}

@@ -23,7 +23,7 @@
 {126}{}{Fajn, u jdu.}
 {127}{aeld6}{Podaøilo se ti pøeít. Vyvolenı nesmí bıt slabı, jinak jsme všichni odsouzeni k záhubì. Chceš se tedy vydat na cestu?}
 {128}{}{Co mì nezabije, to mì posílí. Pøipravenìjší na cestu u ani bıt nemùu.}
-{129}{}{Musím si to ještì promyslet.}
+{129}{}{Musím si to rozmyslet.}
 {130}{}{Nechci se nechat zabít!}
 {131}{aeld7}{Dobøe mì tedy poslouchej. Musíš najít posvátnı Vault 13 a pøinést nám GECK. Obchodník z Klamathu jménem Vic nám nedávno pøinesl láhev se symbolem svaté Tøináctky. Radím ti tedy zaèít tvé hledání právì u nìj. Ten pøístroj, kterı máš na ruce, ti bude pøipomínat tvùj úkol. Nech tì provází pøízeò bohù.}
 {133}{}{Ještì ne pùjdu, chci ti poloit pár otázek.}
@@ -74,14 +74,12 @@
 {178}{}{Netlaè na mì, babo. Dìlám, co mùu.}
 {179}{aeld20}{Máme se hùø ne kdy jindy, mé dítì. Naši lidé jsou nemocní, brahmíny umírají a nemáme u témìø ádné zásoby jídla. Nemoc, která postihla naši zemi, se dá vyléèit pouze s pomocí GECKu. Jdi, pøines GECK a zachraò náš kmen.}
 {180}{}{Já rozumìt.}
-{181}{}{U jdu.}
+{181}{}{Jdu na to.}
 {182}{}{Odpus, Starší. Hned se vydám na cestu a najdu GECK.}
 {183}{}{No jo, no jo. Jseš jak zaseknutá deska...}
-
-
 {200}{eeld1}{Vyvolenı! Kde se tu bereš?}
 {201}{}{Ehh... co?}
-{202}{}{Jdu vás zachránit.}
+{202}{}{Pøicházím tì zachránit.}
 {203}{}{Co se tady sakra dìje?}
 {204}{eeld2}{Ty zrùdo! Chceš mì taky zabít?}
 {205}{}{Ehhh?}
@@ -112,7 +110,7 @@
 {230}{}{Chtìl jsem tì jen trochu vytoèit. Pracuju na tom, neboj.}
 {231}{eeld11}{(Povzdech) Jdi dolù. Zabíjej. Zniè stroj. Jdi!}
 {232}{eeld12}{Tak mì tentokrát poslouchej poøádnì! Sejdi o jedno patro dolù, najdi stroj, kterı vyrábí energii, a zniè ho. Potom budeme moct utéct. Místní lidé nesdílejí náš spoleènı sen, kterı nám pøedal Zakladatel. Jsou zlí a zkaení. A pokud ještì nemáš GECK, hledej ho nìkde tady. Naše svoboda je k nièemu, nebudeme-li moct zachránit naši vesnici. A teï jdi!}
-{233}{}{Jdu na to.}
+{233}{}{Chápu.}
 {234}{eeld13}{Tak tomu øíkají. Zabodávají lidem do kùe jehly podobné Stimpakùm, ale s èlovìkem se pak dìjí strašlivé vìci. A potom... (Silnì kašle)}
 {235}{}{A potom?}
 {236}{}{Udìlá se mi z toho špatnì, e jo?}

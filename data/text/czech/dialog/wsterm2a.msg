@@ -1,31 +1,16 @@
 {100}{}{Poèítaèový terminál.}
-{101}{}{Spoøiè obrazovky je aktivní.}
+{101}{}{Je aktivní spoøiè obrazovky.}
 {103}{}{Skynet - Bezpeènostní systémy                                  Vetøelec Patro 2                                                   Aktivování protiopatøení Patro 2                                  Protiopatøení: konec pøenosu!                                  Aktivování automatického opravného systému}
 {104}{}{Skynet - Bezpeènostní systémy                                  Vetøelec Patro 2                                                   Aktivování protiopatøení Patro 2                                  Pokus o pøesmìrování energie do generátoru silových polí}
 {105}{}{Skynet - Bezpeènostní systémy                                  Vetøelec Patro 2                                                   Aktivování protiopatøení Patro 2}
 {106}{}{Ukonèit poplach na Patøe 2 - planý poplach.}
 {107}{}{(Všímáš si klávesy s nápisem "HELP".) Stisknout ji.}
-{108}{}{Hacknout bezpeènostní systémy.}
+{108}{}{Hacknout se do systému.}
 {109}{}{Pokusit se o vypnutí poplachu.}
 {110}{}{Konec.}
 {111}{}{Áááááá! [Zuøivì mlátit do klávesnice]}
 {113}{}{Skynet - Bezpeènostní systémy}
 {114}{}{Skener sítnice aktivován                                            Skenování...                                                            Prohledávám databázi...}
-{300}{}{ - ID: }
-{301}{}{                     Poslední pøístup: }
-{303}{}{Desátník Dixon}
-{304}{}{Generál Clifton}
-{305}{}{5. Srpen, 2077}
-{306}{}{ dní.}
-
-{307}{}{                                             Pozor!!! Vetøelec detekován na patøe }
-{308}{}{                                             Pozor!!! Vetøelec detekován na patrech: }
-#no security breach - spaces to align text
-{310}{}{                                             }
-#security breach, only one level - spaces to align text
-{309}{}{                               }
-#security breach, multiple levels - spaces to align text
-{311}{}{                       }
 {115}{}{Aktivace poplašného systému - Patro 2.}
 {116}{}{Spustit autodiagnostický program.}
 {117}{}{Konec.}
@@ -58,3 +43,14 @@
 {145}{}{Konec.}
 {146}{}{Ukonèení diagnostického programu.}
 {147}{}{[Více]}
+{300}{}{ - ID: }
+{301}{}{                     Poslední pøístup: }
+{303}{}{Desátník Dixon}
+{304}{}{Generál Clifton}
+{305}{}{5. Srpen, 2077}
+{306}{}{ dní.}
+{307}{}{                                             Pozor!!! Vetøelec detekován na patøe }
+{308}{}{                                             Pozor!!! Vetøelec detekován na patrech: }
+{309}{}{                               }
+{310}{}{                                             }
+{311}{}{                       }

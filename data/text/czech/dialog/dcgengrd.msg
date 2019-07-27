@@ -1,6 +1,5 @@
 {100}{}{Vidíš strach nahánìjícího surovce.}
 {101}{}{Vidíš stráž Denu.}
-
 {102}{}{Teï ne, jsem ve službì.}
 {103}{}{Nemùžu s tebou mluvit.}
 {104}{}{Odejdi, prosím.}

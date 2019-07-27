@@ -1,7 +1,6 @@
 {100}{}{Ožrala. (Má ceduli s nápisem: "Budu pracovat za stravu.")}
 {101}{}{Vidíš Karla.}
 {102}{}{Je tak špinavý, že mu ve vlasech roste nìjaký plevel.}
-
 {150}{}{Tady máš pivo.}
 {151}{}{Tady máš láhev chlastu.}
 {152}{}{Tady máš Nuka-Colu.}
@@ -83,20 +82,16 @@
 {245}{}{Dobøe, $1000.}
 {246}{}{(Ty a Karl se vypaøíte na jednu rychlovku. K tvému pøekvapení to nebylo špatné.)}
 {247}{}{(Rychle vystøízliví a zaène vyprávìt svùj pøíbìh.) Byl jsem poèestný obèan, než jsem pøišel sem. Byl jsem mírumilovný farmáø, který pracoval na polích stejnì tvrdì jako všichni ostatní, dokud se nezaèali v noci objevovat. Všichni svìtélkovali a mìli bledé tváøe... vydìsili mì k smrti. Objevovali se každou noc a kradli mi úrodu i dobytek. Nemohl jsem je nijak zastavit. Vím, co chceš øíct. "Proè jsi nepožádal o pomoc?" Požádal! Nikdo mi ale nevìøil, mysleli si, že jsem blázen. Nakonec toho bylo na mì moc. UŽ JSEM TO NEMOHL VYDRŽET! Vzdal jsem to a pøišel sem... a od té doby žiju tady. (Karl zaène šílenì plakat. Rozhodneš se odejít a nechat ho i s jeho utrpením.)}
-{248}{}{Kruci, musel jsem nìkde po cestì ztratit peníze. Tady máš $}
+{248}{}{Kruci, musel jsem nìkde po cestì ztratit peníze. Tady je $}
 {249}{}{.}
-
 {250}{}{Chrr}
 {251}{}{Chrrrrr}
 {252}{}{Chrrrrrrr}
 {253}{}{Chrrrrrrrrr}
 {254}{}{Chrrrrrrrrrrr}
 {255}{}{*frk* *chrocht* *frk*}
-
 {260}{}{Kruci, musel jsem nìkde po cestì ztratit peníze. Tady je $}
 {261}{}{. To je všechno, co mám.}
 {262}{}{Kruci, musel jsem nìkde po cestì ztratit peníze. Promiò, ale stejnì to byla zábava.}
-
 {300}{}{Mùžu jít domù, dìkuju ti!}
-
 {400}{}{Posíláš Karla zpátky do Modocu.}

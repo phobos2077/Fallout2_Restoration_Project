@@ -4,7 +4,7 @@
 {103}{}{I'm looking to trade. Can I see what you have in stock?}
 {104}{}{You still selling that plow out there?}
 {105}{}{Me Buy}
-{106}{}{Nothing today, thanks.}
+{106}{}{Nada por hoje, valeu.}
 {107}{}{Sorry. Can't help you, neighbor.}
 {108}{}{Why, yes I am. I'll let it go for... say, eight hundred.}
 {109}{}{I'll give you six hundred for it.}

@@ -1,7 +1,7 @@
 {100}{}{Vidíš hubenou, starou ženu, která už zažila lepší èasy.}
 {101}{}{Vidíš vdovu Rooneyovou.}
 {102}{}{Vidíš hubenou, starou ženu s bradavicemi a knírkem.}
-{103}{}{Jdi ode mì.}
+{103}{}{Dej mi pokoj.}
 {104}{}{Copak jsi mi už neublížil dost?}
 {105}{}{Proè mì radìji tentokrát nezabiješ?}
 {106}{}{Vybíjíš si svou zlost na staré ženì, že?}

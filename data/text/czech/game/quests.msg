@@ -1,22 +1,8 @@
-#
-# Quest descriptons
-#
-#    Please leave space between the areas (like 100 or so)
-#
-
-
-#
-# Arroyo Quests
-#
 {100}{}{Zabij zlé rostliny, které zamoøily Hakuninovu zahradu.}
 {110}{}{Seeò pazourek, aby ti mohl Mynoc nabrousit kopí.}
 {120}{}{Zachraò Nagorova psa Èmoudu, kterı se ztratil v lese.}
 {130}{}{Pøines GECK pro svou vesnici Arroyo.}
 {140}{}{Najdi obchodníka jménem Vic.}
-
-#
-# Den Quests
-#
 {200}{}{Osvoboï Vica z jeho závazku tím, e mu pøineseš rádio z jeho domu v Klamathu a zaplatíš Metzgerovi.}
 {201}{}{Zjisti, jak je moné, e mùe Becky prodávat alkohol tak levnì.}
 {202}{}{Zniè Beckyin destilátor.}
@@ -30,10 +16,6 @@
 {210}{}{Najdi slabinu v Tylerovì gangu, kterı hlídá kostel.}
 {211}{}{Pomoz Laøe s útokem na Tylerùv gang.}
 {212}{}{Najdi zpùsob, jak dostat sirotky z ulice.}
-
-#
-# Klamath Quests
-#
 {300}{}{Pøilo døevo pod destilátor.}
 {301}{}{Zachraò lovce jménem Smiley.}
 {302}{}{Ochraò brahmíny.}
@@ -41,10 +23,6 @@
 {304}{}{Zabij Krále Krysu.}
 {305}{}{Zachraò Torra.}
 {306}{}{Zjisti kdo krade brahmíny.}
-
-#
-# Modoc Quests
-#
 {400}{}{Na farmì severovıchodnì od Modocu se dìje nìco podivného. Prozkoumej to a podej zprávu Jo.}
 {401}{}{Cornelius ztratil svoje zlaté kapesní hodinky. Najdi je a vra mu je.}
 {402}{}{Farrel chce po tobì najít Corneliovy zlaté kapesní hodinky. Najdi je a pøines je Farrelovi.}
@@ -55,10 +33,6 @@
 {407}{}{Jo podezírá Svìtloplachy. Zjisti, jak to bylo s mrtvolami na farmì Duchù a vypátrej, co se stalo s Karlem.}
 {408}{}{Jdi do Denu a øekni Karlovi, e u se mùe vrátit zpìt domù.}
 {409}{}{Ohlídej Grishamovy brahmíny.}
-
-#
-# Vault City Quests
-#
 {500}{}{Obstarej pluh pro pana Smithe.}
 {501}{}{Doruè Mooreùv kuføík panu Bishopovi do New Rena.}
 {502}{}{Pøines doktoru Troyovi vzorek Jetu.}
@@ -72,10 +46,6 @@
 {510}{}{Vyøeš problém s nedalekou vesnicí.}
 {511}{}{Seeò Connarovi zbranì pro nedalekou vesnici.}
 {512}{}{Zaøiï, aby pøes vesnici poblí Vault City vedla obchodní cesta.}
-
-#
-# Gecko Quests
-#
 {600}{}{Vyøeš problém s jadernou elektrárnou v Gecku.}
 {601}{}{Oprav elektrárnu.}
 {602}{}{Optimalizuj chod elektrárny.}
@@ -83,10 +53,6 @@
 {604}{}{Seeò Skeeterovi soupravu super náøadí.}
 {605}{}{Dones Skeeterovi tøícestnı plazma-transformer.}
 {606}{}{Najdi pro Percyho jeho ghoulího kamaráda Woodyho. Zkus to v Denu.}
-
-#
-# Broken Hills Quests
-#
 {700}{}{Zjisti, jestli si Chad pro sebe ulévá peníze z karavan.}
 {701}{}{Oprav dùlní èistièku vzduchu.}
 {702}{}{Najdi pohøešované lidi pro Marcuse.}
@@ -94,10 +60,6 @@
 {704}{}{Dostaò Mansona a Franca z vìzení.}
 {705}{}{Vyhoï do povìtøí dùlní èistièku vzduchu.}
 {706}{}{Zajisti pro Ericùv dùm vìtší pøídìl elektrické energie.}
-
-#
-# New Reno Quests
-#
 {800}{}{Najdi své ukradené auto.}
 {801}{}{Zjisti, kdo je zodpovìdnı za pøedávkování Richarda Wrighta.}
 {802}{}{     Podezøelı: Poøezanej Jimmy J}
@@ -118,20 +80,8 @@
 {817}{}{Vyber od Korsickıch Bratrù poplatek pro Velkého Jeíše Mordina.}
 {818}{}{Zavradi pana Salvatora pro Velkého Jeíše Mordina.}
 {819}{}{Pøines Otci Tullymu láhev pálenky z Opatství.}
-
-#
-# Sierra Army Base Quests
-#
 {900}{}{}
-
-#
-# Vault 15 Quests
-# Moved it to 3000 on accedent
 {1000}{}{}
-
-#
-# New California Republic Quests
-#
 {1100}{}{Pøines souèástky/Získej vstup do Vaultu 15.}
 {1101}{}{"Postarej" se o dùstojníka Jacka pro Miru.}
 {1102}{}{Absolvuj brahmíní okruh.}
@@ -146,31 +96,15 @@
 {1111}{}{Zastav krádee brahmín.}
 {1112}{}{Vyhlaï úkryty Rangerù na severu pro otrokáøe Vortise.}
 {1113}{}{Vyhlaï pro Rangery tábor otrokáøù na severozápadì.}
-
-#
-# Vault 13 Quests
-#
 {1200}{}{Oprav hlavní poèítaè Vaultu 13.}
 {1201}{}{Promluv si s Gorisem.}
-
-#
-# Military Base Quests
-#
 {1300}{}{}
-
-#
-# Redding Quests
-#
 {1398}{}{Vyèisti dùl.}
 {1399}{}{Najdi èip pro dùlní rypadlo.}
 {1400}{}{Vyøeš problém s vdovou Rooneyovou.}
 {1401}{}{Ukonèi hádku v baru.}
 {1402}{}{Vypátrej, kdo poøezal kurvu.}
 {1403}{}{Zabij "ábáka" Mortona.}
-
-#
-# San Francisco Quests
-#
 {1500}{}{Tanker potøebuje palivo.}
 {1501}{}{Bez souèástky NavComp nebude navigaèní poèítaè fungovat.}
 {1502}{}{Pro vstup k navigaènímu poèítaèi je nutné mít FOB.}
@@ -195,23 +129,10 @@
 {1521}{}{Pøines Dr. Wongovi vzorek semene.}
 {1522}{}{Zlikviduj Dr. Wonga bez vìdomí Shi.}
 {1523}{}{Vyèisti laboratoø Dr. Shenga.}
-
-#
-# Navarro Quests
-#
-#1515, ...
 {1600}{}{Vypoøádej se s páraèem.}
 {1601}{}{Oprav K-9.}
 {1602}{}{Získej FOB od velitele základny.}
-
-#
-# The Enclave Quests
-#
 {1700}{}{}
-
-#
-# The Abbey Quests
-#
 {1800}{}{Zabij bestii pod kostelem.}
 {1801}{}{Doruè bratru Maxovi strojní souèástku.}
 {1802}{}{Oprav vodní pumpu a nahlas to Opatovi.}
@@ -221,10 +142,6 @@
 {1806}{}{Získej pro bratra Paula informace o botanice.}
 {1807}{}{Zformátuj databázi knih v Opatství.}
 {1808}{}{Doprovoï bratra Jasona do Gecka.}
-
-#
-# Primitive Tribe Quests
-#
 {1900}{}{Seeò zbranì pro kmenové váleèníky.}
 {1901}{}{Oprav studnu pro Marliho a celı kmen.}
 {1902}{}{Zjisti, co straší kmenového šamana.}
@@ -234,10 +151,6 @@
 {1906}{}{Zaøiï, aby se Sulik a jeho sestra Kurisu opìt setkali.}
 {1907}{}{Doprovoï Kroma na schùzku s obchodníkem.}
 {1908}{}{Pøines nìjaké bylinky (5 koøenù Xander, 3 kvìtiny Broc) šamanovi.}
-
-#
-# EPA Quests
-#
 {2000}{}{Oprav Hologram 00000.}
 {2001}{}{Oprav hlasovı poèítaè.}
 {2002}{}{Vyøeš problém s masoravım plevelem.}
@@ -246,66 +159,17 @@
 {2005}{}{Oprav rušení u mluvícího hologramu.}
 {2006}{}{Najdi a pøines doktorovi náøadí, které nìkde nechal.}
 {2007}{}{Otestuj Solární spalovaè pro øeditele pro vìdu a vızkum.}
-
-#
-# Ghost Town Quests
-#
 {2100}{}{}
-
-#
-# Car outta Gas Quests
-#
 {2200}{}{}
-
-#
-# Destroyed Arroyo Quests
-#
 {2300}{}{}
-
-#
-# Toxic Caves Quests
-#
 {2400}{}{}
-
-#
-# Den Slave Run Quests
-#
 {2500}{}{}
-
-#
-# Raiders Quests
-#
 {2600}{}{}
-
-#
-# Desert Encounter Quests
-#
 {2700}{}{}
-
-#
-# Mountain Encounter Quests
-#
 {2800}{}{}
-
-#
-# Ruined City Encounter Quests
-#
 {2900}{}{}
-
-#
-# Coast Encounter Quests
-#
 {3000}{}{}
-
-#
-# Golgotha Quests
-#
 {3100}{}{}
-
-
-#
-# Vault 15 Quests
-#
 {3200}{}{Zachraò Chrissy.}
 {3201}{}{Zabij Dariona.}
 {3202}{}{Sjednej spojenectví s NCR.}

@@ -28,7 +28,7 @@
 {127}{}{A pøed èím to tu hlídáš?}
 {128}{}{Vetøelec. Èlovìk, páraè, cokoliv. Smeèka v nebezpeèí, já útoèit.}
 {129}{}{Aha.}
-{130}{}{Chápu.}
+{130}{}{Aha.}
 {131}{}{Pøekvapilo by mì, kdybys vùbec rozpoznal pøítele od nepøítele.}
 {132}{}{Je mi líto všech vetøelcù, kteøí tì potkají.}
 {133}{}{Nevadí. Zatím.}
@@ -41,5 +41,4 @@
 {140}{}{Ahoj. Já tady poøád hlídat.}
 {141}{}{}
 {142}{}{Áááááááááá! Zemøi!}
-
 {143}{}{.}

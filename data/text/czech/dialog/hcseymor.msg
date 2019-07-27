@@ -12,7 +12,7 @@
 {111}{}{Ne-e.}
 {112}{}{Hledám lepší místo pro ivot. Tady je sice moc hezky, ale upøímnì, tyhle kvìtiny toho zrovna moc nenamluví. Myslela jsem na nìjaké místo poblí budov, tøeba támhle, jak jsou ti staøí ghoulové... mùeš mì pøesadit?}
 {113}{}{Jo!}
-{114}{}{Ne!}
+{114}{}{Ne-e!}
 {115}{}{Jasnì.}
 {116}{}{Myslím, e ne.}
 {117}{}{Skvìlé! Teï u jen najdi lopatu, vykopej mì a zasaï mì tam. A to udìláš, povím ti tajemství.}
@@ -26,11 +26,11 @@
 {125}{}{Jo.}
 {126}{}{Ne-e!}
 {127}{}{Ach ano! Ano, to je! Velmi mazané, pøíteli, velmi mazané. Vidím, e jsi nebyl zasazen teprve vèera! Mùj moudrı pøíteli, nechceš mi prokázat laskavost?}
-{128}{}{Jo.}
+{128}{}{Jasnì.}
 {129}{}{Ne-e!}
 {130}{}{Úasné! Jsem velmi, ale opravdu velmi potìšena. Nejdøív najdi lopatu a poté se sem vra. A to udìláš, povím ti moná tajemství. Mùj pøíteli, doufám, e budeš i nadále vzkvétat.}
 {131}{}{Eh, jasnì. Mìj se.}
-{132}{}{Zmìnil jsem názor.}
+{132}{}{Rozmyslel jsem si to.}
 {133}{}{Ó ano, profesor. Vypìstoval mì a ivil mì u od malého semínka... jene u v ranném vìku jsem si uvìdomila, e pokud se budu chovat stejnì tak chytøe, jaká ve skuteènosti jsem, tak mì rozseká na kousíèky, aby mì mohl zkoumat. A tak jsem radìji hrála hloupou a skonèila jsem tady. Je tu pìknì... ale chtìla bych se trochu víc rozrùst. Moná, kdybych byla nìkde jinde...}
 {134}{}{"Rozrùst." Jasnì.}
 {135}{}{Aha. A co by sis pøála?}
@@ -39,7 +39,7 @@
 {138}{}{Vánì? Jak?}
 {139}{}{To je úasné. Kytka, co hraje šachy. To je asi nìjakı sen. Sbohem.}
 {140}{}{Mùj milı pøíteli, kdy mì zasadíš poblí támhletoho domu s ghoulama, mileráda ti na oplátku svìøím svou nejtajnìjší šachovou taktiku.}
-{141}{}{Platí.}
+{141}{}{Dohodnuto.}
 {142}{}{Ne, díky. Porazím ho i bez cizí pomoci.}
 {143}{}{Á, pøíteli, vidím, e jsi zpátky. Tohle místo je prostì skvìlé. Je tu perfektní stín a spoleènost je tu jednoduše oslòující. Ten Typhon je ale šprımaø! Nenechá moje myšlenkové mízy na pokoji!}
 {144}{}{Šachy?}
@@ -51,7 +51,7 @@
 {150}{}{Mùj pøíteli, svítí dnes na tebe slunce? Vzkvétá dnes tvé já? Jsi pøipraven na pøesunutí? Já rozhodnì ano!}
 {151}{}{Jo!}
 {152}{}{Ne-e! ádnı pøesun!}
-{153}{}{Jdeme na to.}
+{153}{}{Pojïme.}
 {154}{}{Zmìnil jsem názor. U ti nechci pomoct.}
 {155}{}{Jsem tak vzrušená, e bych klidnì mohla vypustit celı mrak semen! Pojïme na to!}
 {156}{}{[KONEC]}

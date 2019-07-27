@@ -1,51 +1,51 @@
-{100}{}{You see someone who could be a trapper.}
-{101}{}{You see someone relaxing.}
+{100}{}{Você vê alguém que poderia ser um caçador.}
+{101}{}{Você vê alguém se relaxando.}
 {102}{}{Você vê um cidadão.}
-{103}{}{You see a workman relaxing.}
-{104}{}{You see a person enjoying a drink.}
-{150}{}{You're in the wrong tavern, ain't ya?}
-{151}{}{We don't need troublemakers here.}
-{152}{}{Tribals always mean trouble.}
-{153}{}{Jist as long as you don't get too much firewater in you...}
-{154}{}{(mumble, mumble)...sorry ass outa town...}
-{155}{}{Another one of Dunton's gang.}
-{156}{}{What are you looking at?}
-{157}{}{Just keep moving.}
-{158}{}{Buy us all a round of drinks, newcomer.}
-{159}{}{Hope you can hold your liquor.}
-{160}{}{You don't look like a cannibal.}
-{161}{}{No room for the likes of you.}
-{162}{}{Too many strangers lately.}
-{163}{}{Well, at least your teeth ain't filed into points.}
-{164}{}{There goes the neighborhood.}
-{165}{}{Aren't you supposed to have a bone through your nose?}
-{166}{}{(looks at you and then shakes his head)}
-{167}{}{(makes a subtly rude gesture)}
-{168}{}{You're probably the one responsible for them brahmin mutilations.}
-{169}{}{Some of our trappers' is gone missing an' you're prob'ly why.}
-{170}{}{There's been bugmen creeping around town.}
-{171}{}{There's a spirit in a canyon east of town.}
-{172}{}{Don't let the walking spirit getcha!}
-{173}{}{You better not steal our brahmin.}
+{103}{}{Você vê um trabalhador se relaxando.}
+{104}{}{Você vê uma pessoa bebendo uma bebida.}
+{150}{}{Você está no bar errado, não?}
+{151}{}{Nós não queremos problemas por aqui.}
+{152}{}{Tribals sempre são problemas.}
+{153}{}{Contanto que você não fique muito bebado...}
+{154}{}{(murmurando, murmurando)? tenho que sair dessa cidade...}
+{155}{}{Outro da gangue dos Dunton.}
+{156}{}{O que você está olhando?}
+{157}{}{Mexa-se.}
+{158}{}{Pague-nos uma rodada recém chegado.}
+{159}{}{Espero que possa aguentar seu licor.}
+{160}{}{Você não se parece com um canibal.}
+{161}{}{Não há espaço para gente como você.}
+{162}{}{Ultimamente estamos tendo muitos estranhos.}
+{163}{}{Bem, pelo menos seus dentes não estão afiados.}
+{164}{}{Lá se vai a boa vizinhança.}
+{165}{}{Você não deveria ter um osso atravessado em seu nariz?}
+{166}{}{(Olha pra você e depois sacode a cabeça)}
+{167}{}{(Faz um gesto grosseiro bem sutil)}
+{168}{}{Tenho a impressão de que você é o responsável pelas multilações nos brahmins.}
+{169}{}{Alguns dos caçadores desapareceram e provavelmente você seja o motivo.}
+{170}{}{Tem homens-bicho assustando a cidade.}
+{171}{}{Tem um espírito no canyon a leste da cidade.}
+{172}{}{Não deixe que os espíritos te peguem!}
+{173}{}{É melhor você não roubar nenhum brahmin.}
 {174}{}{Estamos de olho em você.}
-{201}{}{Nice to see someone new in town.}
-{202}{}{I guess tribals ain't so bad after all.}
-{203}{}{Buy us a round of drinks!}
-{204}{}{Say hello to Smiley over there, and Gimpy Jim next to him.}
-{205}{}{You could be Sulik's twin.}
-{206}{}{You say hello to Sulik yet?}
-{207}{}{Trapping's good lately.}
-{208}{}{Weather's getting ready to turn, I guess.}
-{209}{}{Got me a good trapline south of here.}
-{210}{}{If you're smart, you'll stay away from the Duntons.}
-{211}{}{If you're anxious, try the Bathhouse.}
-{212}{}{Head west to Trapper Town, if you want a place to sack out later.}
-{213}{}{Welcome, friend.}
-{214}{}{Hope you like our city.}
-{215}{}{Klamath is the place to be.}
-{216}{}{Nice to have you here.}
-{217}{}{(raises his mug to you)}
-{218}{}{(winks at you)}
-{219}{}{Don't go wandering at night.}
-{220}{}{There's bugmen out in the hills.}
-{221}{}{One of our best trappers is missing.}
+{201}{}{Fico feliz em ver alguém novo na cidade.}
+{202}{}{Apesar de tudo, parece que os tribais não são tão ruins assim.}
+{203}{}{Pague-nos uma bebida!}
+{204}{}{Diga olá para Smiley e Gimpy Jin do lado dele.}
+{205}{}{Você poderia ser irmão gêmeo de Sulik.}
+{206}{}{Você já disse olá para Sulik?}
+{207}{}{Ultimamente o negócio de caçar anda bem.}
+{208}{}{Parece que as coisas vão mudar.}
+{209}{}{Tenho algumas armadilhar ao sul daqui.}
+{210}{}{Se você for esperto ficara longe dos Duntons.}
+{211}{}{Se estiver inquieto vá a casa de banho(Bathhouse).}
+{212}{}{A oeste esta o bairro dos caçadores(Trapper Town), se estiver procurando um lugar para dormir.}
+{213}{}{Bem vindo, amigo.}
+{214}{}{Espero que goste da nossa cidade.}
+{215}{}{Klamath é um bom lugar.}
+{216}{}{Fico feliz em vê-lo.}
+{217}{}{(Levanta a caneca pra você)}
+{218}{}{(Pisca pra você)}
+{219}{}{Não saia por ai durante a noite.}
+{220}{}{Tem homens-insetos nas colinas.}
+{221}{}{Um de nossos melhores caçadores desapareceu.}

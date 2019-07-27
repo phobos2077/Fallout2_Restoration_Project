@@ -35,14 +35,14 @@
 {134}{}{Jsem rád, že jsem tobì a Woodymu mohl pomoct. Díky za ty medikamenty.}
 {135}{}{Paráda, lehkej úkol a hodnì vìcí. To se mi líbí.}
 {136}{}{Víš, mám kamaráda, kterej se jmenuje Woody. Tenhle Woody spí jako nikdo jinej. A co je ještì horší, miluje cestování. Fakt moc rád putuje pustinou.}
-{137}{}{Aha.}
+{137}{}{Dobøe.}
 {138}{}{No, to by nebyl zas až takovej problém, kdyby se držel poblíž Gecka, jenže jsem slyšel, že se vydal na výlet až do Denu. Víš, kde je Den?}
 {139}{}{Jo. Vím, kde je Den. Pokraèuj.}
 {140}{}{Nevím, kde je Den.}
 {141}{}{No, to je fakt jednoduchý se tam dostat. Vyznaèím ti to do tý tvý mapovací vìcièky.}
 {142}{}{Hej, dávej na to bacha! Dobøe, pokraèuj.}
 {143}{}{No, nicménì, jak jsem øíkal... v okolí Gecka to není zas až takovej problém, ale víš, lidi v jiných èástech nejsou zvyklí na to, jak vypadáme.}
-{144}{}{Takže?}
+{144}{}{Cože?}
 {145}{}{Neumíš si dát dvì a dvì dohromady? Dìlám si starosti, že si dá Woody v Denu šlofíka... pøeci jen to je celkem dlouhej výlet... a mohli by toho chudáka pohøbít zaživa! Potøebuju nìkoho, aby se tam po nìm podíval.}
 {146}{}{A...?}
 {147}{}{Mnoo, hodnì mi chybí. Proto ho hledám. (Percy na tebe mrkne.) Jo aha, ty chceš vìdìt, co za to dostaneš, že jo?}

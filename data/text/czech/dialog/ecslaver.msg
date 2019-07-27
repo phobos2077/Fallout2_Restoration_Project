@@ -6,8 +6,8 @@
 {105}{}{Asi budu radši prodávat nábytek.}
 {106}{}{Otrokáøi by na sebe nemìli navzájem útoèit.}
 {107}{}{O tomhle se v Cechu dozví!}
-{108}{}{Co to dìláš?}
+{108}{}{Co tu dìláš?}
 {109}{}{Mìl jsi štìstí?}
 {110}{}{Sehnal jsi nìjaké dobré otroky?}
 {111}{}{Hledáme nové otroky.}
-{112}{}{Tohle je naše území.}
+{112}{}{To je naše území.}

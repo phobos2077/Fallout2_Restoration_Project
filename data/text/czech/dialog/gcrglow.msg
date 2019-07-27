@@ -1,13 +1,11 @@
-{100}{}{Osoba, kterou vidíš, je zesláblá z velkého ozáøení. Vypadá to, e její kùe byla škaredì popálena.}
+{100}{}{Osoba, kterou vidíš, slabì svìtélkuje. Jeho kùe se zdá bıt tìce popálená.}
 {101}{}{Vidíš Záøícího, obèana Gecka.}
 {102}{}{Vidíš nìkoho, kdo byl vystaven tak vysoké radiaci, e lehce záøí. Tak vysoká radiace by ho mìla zabít, ale vypadá to, e mu to moc nevadí.}
-
 {110}{}{Takhle vysoká radiace mi zajišuje jistou práci.}
 {111}{}{Dívej na tu záø. Vidíš ji?}
 {112}{}{Miluju chodit do práce kadı den.}
 {113}{}{Budeme potøebovat víc uranu.}
 {114}{}{Øekl bych, e jsme tady všichni atomovì nabiti.}
-
 {120}{}{Miluju to teplo.}
 {121}{}{Cítím se tu bájeènì.}
 {122}{}{Nevím, co bych dìlal, kdybych musel ít nìkde jinde.}
@@ -20,13 +18,11 @@
 {129}{}{Reaktore, mùj sladkı reaktore.}
 {130}{}{Doma je doma.}
 {131}{}{Teplo vyrobené atomem... zaèínám ho milovat.}
-
 {140}{}{Díky za opravu reaktoru. Je tu sice trochu chladnìji, ale ne zas o tolik.}
 {141}{}{Brrr... díky za opravu reaktoru.}
 {142}{}{Škoda, e jsem nemìl tu souèástku.}
-{143}{}{Díky za všechnu pomoc.}
+{143}{}{Díky za pomoc.}
 {144}{}{Moná, e lidi z Vault City nejsou a tak špatní.}
-
 {150}{}{U si ani nevzpomínám, kdy reaktor naposled pracoval dobøe.}
 {151}{}{Dneska je tu vyloenì kosa.}
 {152}{}{Brrrr, já tu snad zmrznu.}

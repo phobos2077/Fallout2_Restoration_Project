@@ -2,7 +2,7 @@
 {101}{}{Vidíš Madam Modjesku.}
 {102}{}{Chci bıt sama.}
 {103}{}{Odejdi prosím.}
-{104}{}{Neruš mì.}
+{104}{}{Neobtìuj mì.}
 {105}{}{Nech mì prosím bıt.}
 {106}{}{Nemám ráda prosáèky.}
 {107}{}{Vìtšina místních lidí pracuje jenom proto, aby si mohli obstarat dostatek Jetu. Potøebují nìco, co jim pomùe zapomenout na problémy tohohle místa.}
@@ -42,7 +42,7 @@
 {141}{}{Co se ti stalo?}
 {142}{}{Poslední dobou vlastnì nikde. Kdysi jsem vypomáhala Lou øídit hospodu U Malamuta, ale trochu jsme se nepohodly, tak jsem dala vıpovìï.}
 {143}{}{Chci se ještì na nìco zeptat.}
-{144}{}{Aha. No, to bude asi všechno. Sbohem.}
+{144}{}{Rozumím. No, to bude asi všechno. Sbohem.}
 {145}{}{Všichni mluví jen o politice. Bıvá to vášnivé téma v diskuzi.}
 {146}{}{O politice? Co tím myslíš?}
 {147}{}{To teda. Chci se ještì na nìco zeptat.}
@@ -50,7 +50,7 @@
 {149}{}{Pracovala jsem v hospodì U Malamuta. Tam mi lidé zaèali øíkat Madam. To jméno mi zùstalo, i kdy u tam nepracuju.}
 {150}{}{A kde pracuješ teï?}
 {151}{}{Chci se ještì na nìco zeptat.}
-{152}{}{Myslím, e to bude asi všechno. Sbohem.}
+{152}{}{Myslím, e to bude všechno. Sbohem.}
 {153}{}{Pøed pár dny jsem si ulítla na troše Jetu a udìlalo se mi z toho nìjak špatnì. V té dávce muselo bıt nìco zkaeného, take si u další nevezmu. No, asi se budu muset vrátit k flašce.}
 {154}{}{To nezní moc dobøe. Chci se ještì na nìco zeptat.}
 {155}{}{Rozumím. No, to bude asi všechno. Sbohem.}

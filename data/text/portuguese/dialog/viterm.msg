@@ -1,8 +1,8 @@
-{100}{}{The terminal is off-line.}
-{101}{}{Entering code 3... P... C... F... 1...6.}
+{100}{}{O terminal está off-line.}
+{101}{}{Inserindo código 3... P... C... F... 1...6.}
 {102}{}{*Beep*}
-{103}{}{Emergency medical dispenser activated.}
+{103}{}{Dispenser médico de emergência ativado.}
 {104}{}{*Ker-klunk*}
-{105}{}{Please remove stimpaks from the bottom tray.}
-{106}{}{I got 2 stims and a superstim.}
-{107}{}{Terminal now off-line.}
+{105}{}{Por favor, remova os stimpaks da bandeja inferior.}
+{106}{}{Eu tenho 2 stims e um superstim.}
+{107}{}{Terminal agora off-line.}

@@ -1,30 +1,30 @@
-{100}{}{You see a Vault Citizen.}
-{101}{}{You see a Citizen in a bright blue jumpsuit relieving himself.}
-{102}{}{I'd clap right now, but my hands are occupied.}
-{103}{}{Uh, congratulations on defeating the Enclave. Did you catch them all in the bathroom, too?}
-{104}{}{I'd rather hear about your exploits when I'm not peeing, thanks.}
-{105}{}{Out! Out, damn pee! Out!}
-{106}{}{Knew I shouldn't have had so much synthetic alcohol.}
-{107}{}{I feel like I've been in here forever.}
+{100}{}{Você vê um Cidadão de Vault City.}
+{101}{}{Você vê um Cidadão em um macacão azul brilhante se aliviando.}
+{102}{}{Eu aplaudiria agora mesmo, mas minhas mãos estão ocupadas.}
+{103}{}{Uh, parabéns por derrotar a Enclave. Você pegou todos eles no banheiro também?}
+{104}{}{Eu gostaria de ouvir sobre seus feitos quando eu não estiver mijando, obrigado.}
+{105}{}{Fora! Fora, droga xixi! Fora!}
+{106}{}{Sabia que eu não devia ter bebido tanto álcool sintético.}
+{107}{}{Eu sinto como se estivesse aqui para sempre.}
 {108}{}{Ahhhhhhhh.}
-{109}{}{I feel exposed. Like someone's watching me from above.}
-{110}{}{Nothing like a satisfying urinating experience.}
-{111}{}{Don't distract m... dammint! My pant leg!}
-{112}{}{Don't talk. It makes it crawl back up.}
-{113}{}{Look, "Chosen One," I'm trying to concentrate here, okay?}
-{114}{}{Wish this place had a stall.}
-{115}{}{People who talk in the bathroom have a lot to learn about evacuation etiquette.}
-{116}{}{I think you've mistaken me for someone who ISN'T PEEING!}
-{117}{}{Is this one of those Kevin and Bean bathroom interviews?}
-{118}{}{Who does Number Two work for?!?!}
-{119}{}{I knew communal bathrooms weren't a good idea.}
-{120}{}{Not now, sweetheart. In case you didn't notice, I'm urinating.}
-{121}{}{Sorry, honey. Bathrooms don't do it for me.}
-{122}{}{This isn't a rest area, pal. Move along, okay?}
-{123}{}{I think you've mistaken me for someone who wants to meet men like you in the bathrooms.}
-{124}{}{No, I'm not going to give you instructions on how to use the toilet.}
-{125}{}{A mutant! Guards! Guards!}
-{126}{}{A ghoul! Guards! Guards!}
-{127}{}{Hey! Stop pushing! Wait your turn!}
-{128}{}{There's another toilet! Use that one!}
-{129}{}{Push me again, and I'll pee on you. Understand? No, really!}
+{109}{}{Me sinto exposto. Como se alguém estive me olhando de cima.}
+{110}{}{Nada como uma experiência urinária satisfatória.}
+{111}{}{Não me distra...drogra! Minha calça!}
+{112}{}{Não fale. Isso faz o xixi voltar.}
+{113}{}{Olhe, "O Escolhido," estou tentando me concentrar aqui, okay?}
+{114}{}{Queria que esse lugar tivesse uma cortina.}
+{115}{}{Pessoas que conversam no banheiro tem muito o que aprender sobre etiqueta de evacuação.}
+{116}{}{Eu acho que você me confundiu com alguém que NÃO ESTÁ MIJANDO!}
+{117}{}{Essa é uma daquelas entrevistas de banheiro do Kevin e Bean?}
+{118}{}{Quem faz o trabalho do Número Dois?!?!}
+{119}{}{Eu sabia que banheiros comunitários não eram uma boa ideia.}
+{120}{}{Agora não, docinho. Caso você não tenha percebido, eu estou urinando.}
+{121}{}{Desculpe, doçura. Banheiros não me excitam.}
+{122}{}{Isso não é um local de descanço, amigo. Saia daqui, okay?}
+{123}{}{Eu acho que você me confundiu com alguém que quer conhecer homens como você no banheiro.}
+{124}{}{Não, eu não vou te dar instruções de como usar o banheiro.}
+{125}{}{Um mutante! Guardas! Guardas!}
+{126}{}{Um ghoul! Guardas! Guardas!}
+{127}{}{Hey! Pare de empurrar! Espere sua vez!}
+{128}{}{Tem outro banheiro ali! Use aquele!}
+{129}{}{Me empurre de novo, e eu vou mijar em você. Entendeu? Não, de verdade!}

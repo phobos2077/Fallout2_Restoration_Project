@@ -1,41 +1,27 @@
-# QUICK LOOK
 {100}{}{Vidíš jedno z Wrightovıch dìtí.}
-
-# LOOK (IF MALE) (WTG)
 {150}{}{Vidíš èernovlasého chlapce.}
 {151}{}{Vidíš èernovlasou holèièku.}
-
 {155}{}{Vyplazuje na tebe jazyk.}
 {156}{}{Mrzutì se na tebe dívá.}
 {157}{}{Vyplazuje na tebe jazyk.}
 {158}{}{Podezíravì se na tebe dívá.}
 {159}{}{Mrzutì se na tebe dívá.}
-
-# 2. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)
 {175}{}{Fallout 2 vám pøináší písmeno Z.}
-{176}{}{Ahoj! }
+{176}{}{Hej! }
 {177}{}{}
 {178}{}{Díky za záchranu, }
 {179}{}{A vyrostu, tak chci taky zachránit svìt jako ty.}
-{180}{}{Mùu bejt taky hrdina a vyrostu?}
+{180}{}{Mùu bejt taky hrdina jako ty a vyrostu?}
 {181}{}{Já chci bejt }
-
-# 3. FLOAT [POWER ARMOR] (WTG)
 {190}{}{Ty jseš ROBOT? }
 {191}{}{Jak s tou zbrojí èùráš?}
 {192}{}{Mùu se ti povozit na ramenech? Prosííím!}
 {193}{}{Budeš si s náma chvíli hrát? Prosíííím!}
-
-# 4. FLOAT AND CLICK [SLAVER OR BAD REP] (WTG)
 {200}{}{Radši uteè, ne tì táta uvidí.}
 {201}{}{Radši uteè, ne tì starší brácha uvidí.}
-{202}{}{Ty jseš zlej èlovìk. Radši odejdi, nebo to na tebe øeknu.}
-
-# 5. FLOAT AND CLICK [SNEAKING] (WTG)
+{202}{}{Jseš zlej èlovìk. Radši odejdi, nebo to na tebe øeknu.}
 {210}{}{Já tì vidím! Já tì vidím!}
 {211}{}{Hraješ si na schovávanou? Mùu taky?}
-
-# 6. FLOAT COMMENTS [ROBOBRAIN + MARCUS] (WTG)
 {215}{}{Hele, robot! Hele, robot!}
 {216}{}{Je v tom robotovi opravdickej mozek?}
 {217}{}{Tııııjo. Podívejte se na toho robota!}
@@ -44,19 +30,14 @@
 {220}{}{To je opravdickej mutant? Je ošklivej.}
 {221}{}{Tııııjo. Podívejte se na toho mutanta!}
 {222}{}{Ten mutant je VELKEJ! Vìtší ne táta.}
-
-# 7. FLOAT COMMENTS [LENNY + DOG] (WTG)
 {230}{}{Ghoul! Podívejte, to je ghoul!}
 {231}{}{Fùùùj! Ghoul! Ghoul!}
 {232}{}{Ghoul-ík ghoul-ík ghoul-ík!}
 {233}{}{Podívejte, eleznej pejsek!}
 {234}{}{Pejsku! Pejsku, chceš kostièku?}
 {235}{}{Já chci taky pejska!}
-
-
-# 10. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)
 {290}{}{A vyrostu, tak chci taky zachránit svìt jako ty.}
-{291}{}{Mùu bejt taky hrdina a vyrostu?}
+{291}{}{Mùu bejt taky hrdina jako ty a vyrostu?}
 {292}{}{A vyrostu, chci bejt jako ty.}
 {293}{}{Proè ty chtít bıt já? Já BLBEC.}
 {294}{}{Já jednou nosit hlava holky jako èepice.}
@@ -67,33 +48,21 @@
 {299}{}{Jednou jsem projel tøi státy a místo èepice jsem mìl nasazenou hlavu malı holèièky.}
 {300}{}{[Nechat ho, a si hraje]}
 {301}{}{[Nechat ji, a si hraje]}
-
-# 11. WHY YOU WANNA BE ME? ME DUMB. (10)
 {310}{}{Ne-e! Ty jseš CHYTREJ! Jseš HRDINA a ODVÁNEJ a já chci bıt jako TY. Díky za záchranu, }
 {311}{}{Díky hodnej malej èlovìku. Ty }
-
-# 12. FOLLOW YOUR DREAMS. (10)
 {315}{}{Tak jo, }
 {316}{}{Dávej na sebe pozor, ano? Já mám na práci ještì pár hrdinskıch vìcí.}
-
-# 13. I'VE GOT SOME THINGS TO DO. (12)
 {320}{}{(Dítì tì zastaví.) Ty... }
 {321}{}{Eh... ne. Slibuju.}
 {322}{}{Eh... pokud vím, tak ne.}
 {323}{}{Neboj se, malièkı. Navštívím tì s jinou postavou.}
 {324}{}{Neboj se, nic neucítíš.}
-
-# 14. UH, HARD DRIVE (13)
 {330}{}{Budeme snít?}
 {331}{}{Eh... urèitì. Urèitì budete.}
 {332}{}{Co já vím? Mnì se nic nezdá, take tobì asi taky ne. ivot je ale svinì, co?}
-
-# 15. POWER ARMOR 1 (WTG)
 {341}{}{Co bıt roubot?}
 {344}{}{Hehe. To je roztomilé. Ne, nejsem robot.}
 {345}{}{Ne, ne, pod tou zbrojí jsem normální èlovìk. Mimochodem, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-
-# 16. WATZ A ROBOT?/YER DUMB, PEE-FACE/MOOTANT? (15, 25, 27, 29, 41)
 {355}{}{Ty jseš ale BLBEJ.}
 {356}{}{TY TAKY.}
 {357}{}{Ty taky, akorát víc.}
@@ -101,156 +70,92 @@
 {359}{}{Kdo první køièí, od toho to fièí.}
 {360}{}{Kdo to øíká, ten to je!}
 {361}{}{[S brekotem utéct]}
-
-# 17. YER DUMBERR (16)
 {370}{}{Ty jseš nejblbìjší! Ty jseš nejblbìjší!}
-
-# 18. POOR RESPONSE (16, 17)
 {395}{}{Ne-e, TUPEC! (Dítì uteèe pryè a jeho krutı smích ti neustále zvoní v uších.)}
 {396}{}{Já STEJNÌ nechtít mluvila s tebou *smrk*... já... *smrk*... udìlám PÁRTY... s *smrk* DORT a ZMRZLINA... a TY nemùeš pøijít [Odejít]}
-
-# 19. YER DUMB-ESSTT-ERR (17)
 {405}{}{(Dítì zamrká, otevøe pusu a poté ji zase zavøe. Po tváøích mu zaènou téct slzy, které se posléze promìní v pláè.)}
 {406}{}{Hee hee JÁ vyhrát.}
-
-# 20. I'M NOT A ROBOT (15, 28)
 {410}{}{Aha. (Chvíli o tom pøemıšlí a poté se na tebe zašklebí.) Jak to, e NEJSI robot?}
 {411}{}{Eh... protoe... no, roboti a lidé mají rùzné... eh, èásti.}
 {412}{}{U musím jít.}
-
-# 21. ROBOTS AND PEOPLE HAVE DIFFERENT PARTS (20)
 {425}{}{Fakt jo? (Tváøí se podezíravì.) Jakı tøeba?}
 {426}{}{Eh... no... poslyš, tobì to táta s mámou ještì nevysvìtlili?}
 {427}{}{Eh... to u je tolik hodin? Musím letìt.}
-
-# 22. DIDN'T MOMMY AND DADDY EXPLAIN THIS TO YOU? (21)
 {435}{}{Co mi mìli vysvìtlit?}
 {436}{}{Eh... no... roboti... mají uvnitø olej. A lidi... no, lidi... krvácejí.}
-
-# 23. HUMANS BLEED (22)
 {445}{}{Máma a moje velkı ségry krvácej kadej mìsíc a jsou pøitom vdycky strašnì naštvanı. Škoda, e nejsou roboti!}
 {446}{}{Eh... jo. Fajn. Poslyš, u musím jít. Neøíkej mamince, e jsme spolu mluvili.}
-
-# 24. POWER ARMOR 2 (WTG)
 {456}{}{Já prostì èùrat dovnitø, ale muset si zvyknout na smrad.}
 {459}{}{Hehe. Ve skuteènosti moèím do zbroje a ta všechno zrecykluje. No není to zajímavé? Víš, co znamená 'recyklovat'?}
 {460}{}{No, moc pøíjemné to není, to kadopádnì. Poslyš, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-
-# 25. I PEE IN ARMOR (24)
 {475}{}{To je ODPORNİ.}
 {476}{}{Ano! Recyklace znamená, e piješ moè!}
 {477}{}{TY ODPORNEJ poèùránku.}
 {479}{}{Eh, hehe... hehe. Ne, ve skuteènosti to znamená...}
-
-# 26. NO, ACTUALLY, IT MEANS . . . (25, 26)
 {485}{}{Ty piješ èùránky! Ty piješ èùránky!}
 {486}{}{Eh, hehe... hehe... ztiš se trochu... recyklování neznamená, e piju m... no, ne DOSLOVA... poslyš...}
 {487}{}{[Nechat toho malého sráèe, a si hraje sám]}
-{488}{}{Odejít.}
-
-# 27. CLICK [ROBOBRAIN] (WTG)
+{488}{}{[Odejít]}
 {495}{}{To je OPRAVDICKEJ robot?}
 {499}{}{Robomozek? Ano, je.}
 {500}{}{On si MYSLÍ, e ano, ale netuším proè.}
 {501}{}{Jo, ale neobtìuj ho. Myslím, e chce vyhubit lidskou rasu.}
 {502}{}{Jo, je. Poslyš, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-
-# 28. CLICK [ROBOBRAIN] (27)
 {515}{}{TY jseš taky robot?}
-
-# 29. CLICK [MARCUS] (WTG)
 {525}{}{To je OPRAVDICKEJ mutant?}
 {526}{}{Mùtant?}
 {529}{}{Ano, je. Jmenuje se Marcus. Neboj se, nekouše.}
 {530}{}{Ano, JE mutant. Jen doufám, e zase nedostal chu na malé dìti.}
 {531}{}{Ano, je to mutant. VELMI hladovı mutant. A zrovna je èas na svaèinu. Jak pøíhodné.}
 {532}{}{Ano, je. Poslyš, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-
-# 30. INTRO (WTG)
 {540}{}{Dítì se zastaví a podívá se na tebe.}
 {541}{}{Ahóóój.}
 {544}{}{Ahoj, èlovíèku.}
 {545}{}{Ahoj, holèièko.}
 {546}{}{Je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-
-# 31. I DROVE THROUGH 3 STATES . . . (10, 15, 24, 27, 29 30, 41)
 {555}{}{Není ti špatnì?}
 {556}{}{Proè se ptáš?}
-
-# 32. WHY DO YOU ASK? (31)
 {560}{}{VYPADÁŠ nemocnì.}
 {561}{}{Jsem nemocnı.}
-
-# 33. I AM SICK. (32)
 {565}{}{Bereš léky?}
 {566}{}{Na moji nemoc neexistují léky.}
-
-# 34. THERE IS NO MEDICINE FOR WHAT I HAVE. (33)
 {570}{}{Chceš si zazpívat?}
 {571}{}{Zazpívat?}
-
-# 35. SING? (34)
 {575}{}{Znáš 'Prší prší, jen se leje?'}
-{576}{}{Ano, znám.}
-
-# 36. YES, I DO. (35)
+{576}{}{Ano, potøebuju.}
 {580}{}{::Zpívá::: 'Prší prší, jen se leje. Prší prší, jen se leje.' No ták, pøidej se.}
 {581}{}{::Zpívat:: Prší prší, jen se leje. Prší prší, jen se leje.}
-
-# 37. SING TOGETHER (36)
 {585}{}{::Zpíváte dohromady:: Prší prší, jen se leje. Prší prší, jen se leje. ::Zpìv utichá:: Prší prší, jen se leje.}
 {586}{}{Díky, e jsme si mohli zazpívat. Moná se ještì vrátím... a budu potøebovat novou èepici.}
-
-# 38. HELLO, LITTLE MAN/WOMAN. (14, 37)
 {590}{}{(Dítì na tebe mrkne.)}
 {591}{}{Tak dobøe. Promluvíme si pozdìji.}
-
-# 39. TALK TO YOU LATER/LET HIM GO BACK TO PLAYING/THANKS FOR SINGING WITH ME (38)
 {595}{}{(Dítì uteèe pryè.}
-
-# 40. HELLO (MALE) (30, 40, 42)
-{648}{}{Och.}
+{648}{}{Aha.}
 {650}{}{Vánì? Co ještì?}
-
-# 41. CLICK [LENNY] (WTG)
 {665}{}{To je OPRAVDICKEJ ghoul?}
 {666}{}{Gùl?}
 {669}{}{Ano, je. Jmenuje se Lenny. Neboj se, nekouše.}
 {670}{}{Ano, JE to ghoul. Jen doufám, e zase nedostal chu na malé dìti.}
 {671}{}{Ano, je to ghoul. VELMI hladovı ghoul. A zrovna teï je èas na svaèinu. Jak pøíhodné.}
-
-# 42. HIS NAME IS MARCUS. (29, 40, 41)
 {685}{}{Ahoj, Markusi mutante. Jseš fakt hroznì velkej. Híhí... a tvoje animace, kdy se nudíš, je fakt srandovní.}
 {686}{}{Ahoj, Lenı ghoule. Fùj... hroznì smrdíš.}
 {687}{}{Jo, to je. Take... jak to jde?}
 {688}{}{Jo, to teda. Take... jak to jde?}
 {689}{}{No nic, musím jít. Uvidíme se pozdìji.}
-
-# 43. MARCUS/LENNY IS HUNGRY (29, 40, 41)
 {695}{}{(Dítì zbledne a dá se s øevem na útìk.}
 {696}{}{Hehehehe. "To je OPRAVDICKEJ mutant?" To jí nauèí ptát se na takové blbosti.}
 {697}{}{"Hladovı" mutant! Pche. Kadı pøece ví, e mutanti nejedí li... eh, proè se na mì tak díváš, Marcusi?}
 {698}{}{Hehehehe. "To je OPRAVDICKEJ ghoul?" To jí nauèí ptát se na takové blbosti.}
 {699}{}{"Hladovı" ghoul! Pche. Kadı pøece ví, e ghoulové nejedí li... eh, proè se na mì tak díváš, Lenny?}
-
-# 44. OD (10, 15, 24, 27, 29, 30, 40, 41)
 {710}{}{E-he. Táta je fakt vzteklej, protoe neví, kdo Richieho zabil. Øíká, e jestli nás nìkdy chytí s Jetem, naplácá nám na zadek.}
 {711}{}{Nevíš, KDO mohl dát Richiemu ten Jet, kterı ho zabil?}
 {712}{}{Nevíš, KDE získal Richie ten Jet, kterı ho zabil?}
 {713}{}{[Nechat dítì, a si jde hrát]}
-
-# 45. DO YOU KNOW WHO? (44, 46)
 {720}{}{E-he.}
-
-# 46. DO YOU KNOW WHERE? (44, 45)
 {730}{}{E-he. Èasto se potuloval na západì mìsta kolem Obchodní ètvrti. Táta nám tam zakázal chodit.}
-
-# sleeping
 {800}{}{*Pššššst* U mám dávno spát.}
 {801}{}{Musím se trochu vyspat. Zítra si hrajem na ocelovou mouchu.}
 {802}{}{Jestli táta zjistí, e ještì nespím, bude fakt zlej.}
-
-# 8/40. FLOAT [WRIGHT CHILDREN: BOYS] (WTG)
 {900}{}{Mùj šulínek, mùj šulínek.}
 {901}{}{::Drí napodobeninu pistole:: Ruce vzhùru, lumpové!}
 {902}{}{Skákal pes, pøes oves, na velikou holku.}
@@ -259,7 +164,6 @@
 {905}{}{Chci pejska. Táta øíkal, e dostanu èubku a vyrostu.}
 {906}{}{Škoda, e táta není tak hustej jako Tommy Tvrïák.}
 {907}{}{Já mám penis.}
-# self_is_male ^
 {908}{}{::Vøísk::}
 {909}{}{::Vyplazuje jazyk::}
 {910}{}{Táta øíká mámì továrna na dìcka.}
@@ -297,14 +201,11 @@
 {942}{}{To jseš ty!}
 {943}{}{Ty máš vši!}
 {944}{}{Vypadáš jako radškorpion!}
-# self_is_female v
 {945}{}{Zeptám se tatínka, jestli mùu bejt kurva a vyrostu. Øíkal, e jednu hroznì potøebuje.}
 {946}{}{Chci bejt kurva a vyrostu. Táta øíká, e jich má málo.}
 {947}{}{Já mám vagínu.}
-
-# line endings
-{1176}{}{! Povìz nám o Enklávì! Prosííííím!}
-{1177}{}{! Jooooo!}
+{1176}{}{! Povìz nám pøíbìh o Enklávì! Prosím!}
+{1177}{}{! Jóóóóóó!}
 {1178}{}{!}
 {1181}{}{ a vyrostu.}
 {1296}{}{: Mùeš bıt KİMKOLIV chceš a vyrosteš.}

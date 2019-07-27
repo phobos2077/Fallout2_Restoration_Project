@@ -2,7 +2,7 @@
 {101}{}{Vypadá zdravì, ale zdá se být ponìkud zmatený.}
 {102}{}{Au, moje hlava.}
 {103}{}{Kdo jsi?}
-{104}{}{AU!}
+{104}{}{Ug!}
 {105}{}{Já-já jsem Dobbs... vojín Dobbs.}
 {106}{}{Mohl bys mi øíct, jak ses sem dostal?}
 {107}{}{Nashle.}
@@ -17,14 +17,11 @@
 {116}{}{Nashle.}
 {117}{}{A potom jsem se probudil tady. Musím jít! Musím se vrátit zpátky ke svojí jednotce.}
 {118}{}{Nashle.}
-
 {200}{}{Kde to jsem?}
 {201}{}{Bolí mì hlava... au.}
 {202}{}{Proè jsem pokrytej tímhle slizem?}
-
 {300}{}{Musím se vrátit zpátky ke svojí jednotce.}
 {301}{}{Ale ne! Teï je ze mì dezertér!}
 {302}{}{Kudy na první frontu?}
 {303}{}{Tohle je za tebe, Johny.}
-
 {400}{}{Vojín Dobbs prodìlal post-kryogenický syndrom.}

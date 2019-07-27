@@ -10,7 +10,7 @@
 {109}{}{Nemluv na mì! Nechci dostat další vıprask.}
 {110}{}{Otroctví je jenom takovı pojem. Koneckoncù, je èlovìk opravdu volnı?}
 {111}{}{U ne! Prosím, nechci jít do Domu Bolesti!}
-{112}{}{Dr se ode mì dál!}
+{112}{}{Dr se dál ode mì!}
 {113}{}{Zrùdo! Ty a tobì podobní mi tohle udìlali!}
 {114}{}{Nech staneš pøed Nejvyšším soudem!}
 {115}{}{Budu poslouchat kadé tvoje slovo.}

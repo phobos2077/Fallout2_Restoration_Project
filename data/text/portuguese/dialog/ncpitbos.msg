@@ -31,7 +31,7 @@
 {277}{}{Hey! Come on in, Myron.}
 {280}{}{Shoot. What d'you want to know?}
 {281}{}{Fooooooo foo foo fooooo}
-{282}{}{Wander off}
+{282}{}{Cai fora}
 {283}{}{Quem é você?}
 {284}{}{What casino is this?}
 {285}{}{Can you tell me a little about the casino?}
@@ -49,14 +49,14 @@
 {301}{}{Uh, you better run along now, ma'am.}
 {302}{}{Get outta here, retard.}
 {303}{}{Mom says I was speshal}
-{304}{}{Wander off}
+{304}{}{Cai fora}
 {305}{}{I'm not s'posed ta chat while on duty, but I'm glad you kicked the Enclave's ass.}
-{306}{}{Hey, }
+{306}{}{Ei, }
 {310}{}{Need some more chips at table three...}
 {311}{}{Good crowd today...}
 {315}{}{Yeah, yer Mom said I was special, too. Now take a hike... maybe she's along Virgin street somewhere.}
 {316}{}{Oh goodie! Bye bye}
-{317}{}{Wander off}
+{317}{}{Cai fora}
 {320}{}{Need some more chips at table three...}
 {321}{}{Good crowd tonight...}
 {325}{}{I'm the pit boss. Now what can I do for you?}
@@ -64,7 +64,7 @@
 {327}{}{What casino is this?}
 {328}{}{Can you tell me a little about the casino?}
 {329}{}{Nothing, thanks. Sorry to bother you.}
-{335}{}{Hey, }
+{335}{}{Ei, }
 {336}{}{! Heard yer the one who kicked the Enclave back to the stone age! I've been instructed to give you some chips,
  courtesy of the casino. Enjoy yourself, sir.}
 {337}{}{! Heard yer the one who kicked the Enclave back to the stone age! I've been instructed to give you some chips,
@@ -74,7 +74,7 @@
 {340}{}{What can I do for you, pal?}
 {341}{}{What can I do for you, hon?}
 {342}{}{Fooooooo foo foo fooooo}
-{343}{}{Wander off}
+{343}{}{Cai fora}
 {344}{}{Quem é você?}
 {345}{}{What casino is this?}
 {346}{}{Can you tell me a little about the casino?}
@@ -93,7 +93,7 @@
 {360}{}{Hey, look who's here! Hey, }
 {361}{}{. Welcome to }
 {362}{}{Fooooooo foo foo fooooo}
-{363}{}{Wander off}
+{363}{}{Cai fora}
 {364}{}{Quem é você?}
 {365}{}{What casino is this?}
 {366}{}{Can you tell me a little about the casino?}
@@ -103,14 +103,14 @@
 {370}{}{Thanks, I'm flattered. Just stopped by to say hello.}
 {375}{}{Nope, it's just stubborn... just like him. It could probably use a little repair work, but we ain't got no slot
  mechanics that can fix that damn thing.}
-{376}{}{I had some other questions...}
+{376}{}{Eu tenho mais algumas perguntas...}
 {377}{}{Interesting. Thanks for the information.}
 {385}{}{Yeah, that son of a bitch came in here about a week ago, ripped off one table of about a thousand chips, then bailed.
  Don't know where he is now, but he used to have a room at the Desperado.}
 {386}{}{Yeah, some guy by that name was rentin' one of th' rooms upstairs...204. He was all paid up, but he bailed
  a few days ago and nobody saw him leave.}
 {387}{}{Mr. Salvatore mentioned that there was a specific dealer that Lloyd won the money from. Who was that?}
-{388}{}{I had some other questions...}
+{388}{}{Eu tenho mais algumas perguntas...}
 {389}{}{Obrigado pela informação.}
 {395}{}{Nikki? Yeah, she's over there, at the middle table. Is there some sort of problem?}
 {396}{}{No problem. Just wanted to meet her. I had some other questions...}
@@ -123,7 +123,7 @@
 {417}{}{Interesting. Thanks for the information.}
 {425}{}{Sure, be good for business. Dressing room's in the back...}
 {426}{}{Excellent. I'll be on stage in a few minutes...}
-{427}{}{Not right now. I had some other questions...}
+{427}{}{Não agora. Eu tenho outras perguntas...}
 {428}{}{Not right now, but I'll be back.}
 {435}{}{No, we're still recovering from your last gig. You might want to check some of the other casinos.}
 {436}{}{All right, thanks. Say, I had some other questions...}
@@ -197,7 +197,7 @@
 {1366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
  Sure was pissed about you winning his fortune. I'd be careful around him.}
 {1367}{}{Is the machine rigged?}
-{1368}{}{I had some other questions...}
+{1368}{}{Eu tenho mais algumas perguntas...}
 {1369}{}{Obrigado pela informação.}
 {1425}{}{Sure. Let's hope you are as good as last time.}
 {1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}

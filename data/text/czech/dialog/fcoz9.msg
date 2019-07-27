@@ -15,7 +15,7 @@
 {114}{}{O nic, promiò.}
 {115}{}{Ano, mé dítì?}
 {116}{}{Hinchoaf? (Ty mi rozumíš?)}
-{117}{}{Tralala chrb gany! (Ach, bohudík. Hledám své lidi. Potøebuju se dostat pøes velkou vodu.)}
+{117}{}{Aagga diggle doodle doo! (Ach, bohudík. Hledám své lidi. Potøebuju se dostat pøes velkou vodu.)}
 {118}{}{Pokadìná kalhota! (No, tak díky za èas. Už musím jít. Tìšilo mì.)}
 {119}{}{Nerozumím ani slovo z toho, co øíkáš. Zkus požádat Juana nebo Vikki o srovnání.}
 {120}{}{Dík!}
@@ -98,7 +98,7 @@
 {197}{}{Hm. Nashle.}
 {198}{}{ESS Quetzel odstartuje, až budou hvìzdy ve správné konstelaci. }
 {199}{}{Dobøe. Mám další otázky.}
-{200}{}{Díky. Nashle.}
+{200}{}{Dík. Naskle.}
 {201}{}{Tvá narušená aura mi øíká, že zde nemáš èestné úmysly. Povìz mi, mé dítì, chceš svým riskováním nìco získat?}
 {202}{}{Ano.}
 {203}{}{Ne.}

@@ -23,7 +23,7 @@
 {214}{}{FEITO}
 {215}{}{You cannot rest at this location!}
 {300}{}{ALARM CLOCK}
-{301}{}{Hit Points}
+{301}{}{P. de vida}
 {302}{}{Rest for ten minutes}
 {303}{}{Rest for thirty minutes}
 {304}{}{Rest for an hour}

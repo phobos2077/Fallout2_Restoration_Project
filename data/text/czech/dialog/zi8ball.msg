@@ -1,7 +1,4 @@
-# EXAMINES
 {151}{}{}
-
-# USE MESSAGES
 {199}{}{Co to je za debilní otázku?}
 {200}{}{Vypadá to dobøe.}
 {201}{}{Nevypadá to moc dobøe.}
@@ -32,7 +29,6 @@
 {226}{}{Zaèíná mi bıt dost špatnì.}
 {227}{}{Zaèíná mi bıt blbì.}
 {228}{}{Máš teplé ruce.}
-# 9 or greater luck
 {229}{}{Feargus byl proti tomu, aby mì dali do téhle hry. Je pìknì zlı.}
 {230}{}{Tvé skore je 23 ze 100. Ještì toho stále musíš hodnì projít.}
 {231}{}{Scott Everts se tváøil dost nešastnì, kdy uvidìl, kolik má hra vìcí v inventáøi.}

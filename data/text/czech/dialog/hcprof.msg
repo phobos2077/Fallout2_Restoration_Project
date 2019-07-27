@@ -7,7 +7,7 @@
 {106}{}{Test!}
 {107}{}{Kdo jste? A co je s tím radškorpionem?}
 {108}{}{Chci zkusit jeden z tìch testù.}
-{109}{}{Ale nic. Sbohem.}
+{109}{}{Nic. Nashle.}
 {110}{}{Á, subjekt k testování! Chcete zkusit jeden z mıch testù, pøíteli?}
 {111}{}{Ano!}
 {112}{}{Ne!}
@@ -25,13 +25,13 @@
 {124}{}{Vyzkouším svoji inteligenci.}
 {125}{}{Hmm. Ani jedno. Zapomeòte na to.}
 {126}{}{Dobrá. Budete soupeøit proti tomuto radškorpionovi. Oba se pokusíte odemknout tyto bedny. Hodnì štìstí.}
-{127}{}{Start!}
+{127}{}{Jít!}
 {128}{}{Pojïme na to.}
 {129}{}{Dobrá. Postavíte se s radškorpionem támhle za tu èáru a budete èíst písmena, odshora dolù a zleva doprava.}
-{130}{}{Start!}
+{130}{}{Jít!}
 {131}{}{Pojïme na to.}
 {132}{}{Vy a radškorpion budete hrát hru, kterou jsem vynalezl. Nazıvám ji "šachy". Mùeme zaèít?}
-{133}{}{Ano!}
+{133}{}{Jo!}
 {134}{}{Jistì. Mùeme.}
 {135}{}{Jsem profesor. Testuji aplikovanou inteligenci a vytváøím chemické slouèeniny na zvıšení inteligence. Pokouším se je testovat na tomto radškorpionovi poté, co jsem selhal s kvìtinou.}
 {136}{}{Vy jste nìco testoval na kytkách?}
@@ -47,8 +47,6 @@
 {146}{}{Dobøe, vìøím vám. U musím jít.}
 {147}{}{Jak... jak jste jen mohl zabít mého radškorpiona? U jsem byl blízko... tak blízko...}
 {148}{}{Odbelhat se.}
-
-# Agility Test
 {200}{}{Jóóóóó! Tak se UKA, pane exoskeleton.}
 {201}{}{Jóóóóóóóó!}
 {202}{}{Krucinál!}
@@ -58,8 +56,6 @@
 {206}{}{Jak ty otevøít jen s KLEPETA?}
 {207}{}{::písk::}
 {208}{}{No, take remíza.}
-# The following 4 strings are used in the phrase:
-# "You lose. Scorpion: [SCORE], [Player Name]: [SCORE]."
 {209}{}{Prohráváš. Radškorpion: }
 {210}{}{, }
 {211}{}{: }
@@ -67,8 +63,6 @@
 {213}{}{Ehhhh?}
 {214}{}{Zjišuješ, e jsi stejnì hbitı jako radškorpion.}
 {215}{}{Tady, vezmìte si tyto Mentats. Vypadá to, e se vám budou hodit.}
-
-# Perception Test
 {300}{}{E...Z...W...T...O...D...F...E..R...T...F...P...Y...J...M}
 {301}{}{Ano, to je správnì.}
 {302}{}{B...u...u...bùù?}
@@ -76,13 +70,11 @@
 {304}{}{::píp písk:: ::klik klak:: ::cvrliky::}
 {305}{}{Správnì! Hodnı! Hodnı chlapec! Tvoje morseovka se rychle zlepšuje.}
 {306}{}{Zjišuješ, e jsi stejnì vnímavı jako radškorpion.}
-
-# Intelligence Test
 {400}{}{Šach-mat ::klik::}
 {401}{}{Coe? Ty jsi podvádìl!}
 {402}{}{Mat?}
 {403}{}{Èlovìèe, nezlob se.}
-{404}{}{A... šach-mat!}
+{404}{}{And... checkmate!}
 {405}{}{Šaaach-mat!}
 {406}{}{::píp:: Zabít kytku! ::klik-klak-klik::}
 {407}{}{Podaøilo se ti pokoøit radškorpiona, kterı je chytøejší ne ty.}

@@ -1,11 +1,10 @@
 {100}{}{Vidíš starého muže.}
 {101}{}{Vidíš Corneliuse.}
 {102}{}{Kromì neklidného výrazu ve tváøi vypadá úplnì obyèejnì.}
-
 {150}{}{Vítej v Rózinì penzionu. Já jsem Róza... chci øíct Cornelius... a vedu tenhle penzion. Mohu ti pomoci?}
 {151}{}{Jestli vám to tu patøí, tak proè se tenhle podnik jmenuje RÓZIN penzion?}
 {152}{}{Hledám zlaté hodinky.}
-{153}{}{Co tu dìláte?}
+{153}{}{Co tady dìláš?}
 {154}{}{Kdo je Róza?}
 {155}{}{Chci si pronajmout pokoj.}
 {156}{}{Otázky? Ptal jsem se tì na nìco? Jmenuji se Cornelius.}
@@ -18,7 +17,7 @@
 {177}{}{Ano. To je moje práce. Co s tím udìláš, ty bláznivej starej dìdku?}
 {178}{}{Jejda! To je hodin. Budu muset jít.}
 {179}{}{Róza je moje žena. Pojmenoval jsem to tady po ní. Víš vùbec, že jsem ženatý?}
-{180}{}{Mùžu se ještì na nìco zeptat?}
+{180}{}{Mùžu mít ještì pár otázek?}
 {181}{}{TAK PROÈ SE NEZEPTÁŠ FARRELA!? MOŽNÁ TI PRODÁ TY HODINKY, KTERÉ MI UKRADL! Poslyš, mám teï dost práce. Musím ostøíhat brahmíny.}
 {182}{}{Tenhle motel mi patøí. Nebýt mì, všechno by se tu rozpadlo. A co øíkáš na moji kadibudku? Vsadím se, že nikde nenajdeš èistèí. No, však je to moje práce.}
 {183}{}{A co má spoleèného provoz penzionu s èistou kadibudkou?}
@@ -30,7 +29,7 @@
 {189}{}{Dobøe, pøinesu vám ty hodinky.}
 {190}{}{Zkusil jste je hledat na svém stole?}
 {191}{}{Pomùžeš mi? To je skvìlé! Natluè Farrelovi a pøines mi moje hodinky zpátky. Asi je nìkde dobøe schoval. Radìji poøádnì prohledej jeho dùm.}
-{192}{}{O èem to mluvíte?}
+{192}{}{O èem to mluvíš?}
 {193}{}{Poslyšte, s tímhle nechci mít nic spoleèného.}
 {194}{}{Zabít Farrela, pøinést hodinky... mám to. Za chvíli jsem zpátky.}
 {195}{}{Zabít Farrela? Kdo chce zabít Farrela? Je to mùj nejlepší pøítel! Osobnì povìsím každého, kdo se pokusí zabít Farrela.}
@@ -62,16 +61,12 @@
 {223}{}{NAŠEL JSEM VRAHA! PØIZNAL SE K FARRELOVÌ VRAŽDÌ! ZAVØETE HO!}
 {224}{}{NAŠEL JSEM VRAHA! PØIZNALA SE K FARRELOVÌ VRAŽDÌ! ZAVØETE JI!}
 {225}{}{Já zabít Farrel.}
-
 {300}{}{(Hmmm... zdá se, že nìkterá slova na nìj pùsobí.) Róza... pokoj... bìhání...}
-{301}{}{Joj.}
-
+{301}{}{Ooga.}
 {501}{}{Já vìdìl, že jsi zlodìj!}
 {502}{}{Jak mùžeš nìco takového udìlat svému nejlepšímu pøíteli!?}
 {503}{}{Zabiju tì!}
 {504}{}{Povìsím si tvoji hlavu na zeï!}
-
 {550}{}{Zdá se být momentálnì zaneprázdnìn.}
-
 {600}{}{Hodinky byly vráceny Corneliovi.}
 {650}{}{Spor mezi Corneliem a Farrelem byl vyøešen.}

@@ -2,7 +2,7 @@
 {101}{}{You see the refinery supervisor.}
 {102}{}{You see a ghoul. Its skin looks like it's ready to slough off the creature. It also looks like
  it's readily accepted by the other townsfolk.}
-{103}{}{You're not supposed to be here!}
+{103}{}{Você não deveria estar aqui!}
 {104}{}{O que você quer?}
 {105}{}{Da yagga! Eep oop op!}
 {106}{}{Dunno.}
@@ -18,7 +18,7 @@
 {116}{}{[FEITO]}
 {117}{}{Great. That'll be $1000, no haggling. You might think that's pricey, but it's a steal
  considering what you'll get for the finished product from an interested buyer.}
-{118}{}{It's a deal.}
+{118}{}{Estamos de acordo.}
 {119}{}{$1000? That's ridiculous. Forget it.}
 {120}{}{I'm the supervisor of this refinery. What do you want?}
 {121}{}{O que é este lugar?}

@@ -3,13 +3,11 @@
 {102}{}{Vidíš místního obyvatele.}
 {103}{}{Vidíš pracujícího, kterı odpoèívá.}
 {104}{}{Vidíš osobu vychutnávající si svùj nápoj.}
-
 {106}{}{Vidíš místního štamgasta. Vypadá šastnì a spokojenì.}
 {107}{}{Vidíš místního štamgasta. Vypadá nasycenì a zdravì.}
 {108}{}{Vidíš štamgasta bavícího se s nìkım poblí.}
 {109}{}{Vidíš štamgasta tiše popíjejícího dbánek piva.}
 {110}{}{Vidíš štamgasta, kterı se bùhvíèemu smìje pro sebe.}
-
 {120}{}{Jseš ve špatnı krèmì, víš o tom?}
 {121}{}{Nepotøebujem tady nìkoho, kdo dìlá potíe.}
 {122}{}{Divoši vdycky znamenaj potíe.}
@@ -35,11 +33,10 @@
 {142}{}{Dej si pozor, a tì nedostane kráèející duch!}
 {143}{}{A tì ani nenapadne krást naše brahmíny.}
 {144}{}{Dáme si na tebe pozor.}
-
 {150}{}{Je fajn vidìt tu novou tváø.}
 {151}{}{Myslím, e ti divoši nejsou a tak špatní.}
 {152}{}{Kup nám rundu pití!}
-{153}{}{Zdravím.}
+{153}{}{Nazdárek.}
 {154}{}{Jseš jako Sulikovo dvojèe.}
 {155}{}{U ses bavil se Sulikem?}
 {156}{}{V poslední dobì jde lov dobøe.}
@@ -57,7 +54,6 @@
 {168}{}{V noci se tu moc nepoflakuj.}
 {169}{}{V horách jsou nìjakı lido-brouci.}
 {170}{}{Jeden z našich nejlepších lovcù se ztratil.}
-
 {201}{}{No, tohle mi poøádnì protáhne hrdlo.}
 {202}{}{Díky.}
 {203}{}{Mmmmm, dobrı.}

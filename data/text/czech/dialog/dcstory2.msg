@@ -3,10 +3,10 @@
 {102}{}{Vypadá trochu smutnì.}
 {103}{}{Pøestaò!}
 {104}{}{Jak jsi jen mohl?}
-{105}{}{Jdi ode mì!}
-{106}{}{Proè?}
-{107}{}{Pøestaò prosím!}
-{108}{}{Ty vrahu!}
+{105}{}{Jdìte ode mì!}
+{106}{}{Jak to?}
+{107}{}{Prosím, pøestaò!}
+{108}{}{Vrahu!}
 {109}{}{Chudák Máma! Za to zaplatíš!}
 {110}{}{Mámo...}
 {111}{}{Byla ke všem tak milá...}
@@ -22,10 +22,7 @@
 {121}{}{Chodíš sem èasto?}
 {122}{}{Promluvíme si pozdìji. Nashle.}
 {123}{}{Dobže?}
-{124}{}{Ug.}
-
-# Node 005 removed
-
+{124}{}{Eh.}
 {131}{}{Prosím, neobtìžuj mì. Nemám zrovna dobrou náladu.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -35,7 +32,7 @@
 {137}{}{Jo, Kulièka. Byla to taková roztomilá koèièka. Nemám náladu o tom mluvit... pokud mi ovšem nechceš koupit pití. To by pomohlo.}
 {138}{}{Jak jsem øekla, nechci o tom teï mluvit... pokud mi ovšem nechceš koupit pití. To by se mi možná rozvázal jazyk.}
 {139}{}{Samozøejmì, že chci. Chci to slyšet.}
-{140}{}{Jistì.}
+{140}{}{Jasnì.}
 {141}{}{Promiò, nemám zrovna $10.}
 {142}{}{Jasnì.}
 {143}{}{Myslíš, že jsi vtipnej? Vymysli si nìco lepšího.}
@@ -52,7 +49,7 @@
 {154}{}{To zní hezky.}
 {155}{}{Pokraèuj.}
 {156}{}{Mìla jsem ji, když jsem byla dítì, ale jednoho dne zmizela. Tehdy jsem nevìdìla, co se s ní stalo, byla jsem moc malá.}
-{157}{}{Proè zmizela?}
+{157}{}{Jak to?}
 {158}{}{No, tenkrát bylo málo jídla a lidé potøebovali jíst. Je to strašnì smutné...}
 {159}{}{Cože?}
 {160}{}{Lidé je lovili, protože byly snadná koøist. Díky tomu už tady v okolí taky na žádnou nenarazíš.}

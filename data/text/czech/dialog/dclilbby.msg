@@ -1,4 +1,4 @@
-{100}{}{Vidíš malého chlapce.}
+{100}{}{Malý chlapec.}
 {101}{}{Vidíš malého Bobbyho.}
 {102}{}{Má špinavé obleèení a modøiny na krku a oblièeji.}
 {103}{}{Má nové obleèení a úsmìv na tváøi.}
@@ -27,13 +27,10 @@
 {122}{}{Díky tobì má teï Bobby lepší život.}
 {123}{}{Ahoj! Díky za všechno. Miluju to tu. Máma je skvìlá paní!}
 {124}{}{Miluju to tu. Máma je skvìlá paní!}
-
 {125}{}{Jsem tak nadšenej! Je naèase si sbalit.}
 {126}{}{Zajímalo by mì, jestli si táta všimne, že jsem odešel.}
 {127}{}{Tam to bude mnohem lepší.}
-
 {200}{}{Nemám tì rád. Bìž pryè!}
-
 {210}{}{To zní, jako kdybys nemìl svého otce pøíliš rád. Mùžu se zeptat proè?}
 {211}{}{Ty malej spratku, kdo ti dal právo takhle mluvit o svém otci?}
 {220}{}{Páè mùj táta není moc hodnej. Poøád mì nechává doma samotnýho a když *je* zrovna doma,

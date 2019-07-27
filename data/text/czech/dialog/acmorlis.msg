@@ -1,6 +1,5 @@
 {100}{}{Vidíš jednu ze svých tet, Morlis. Tu, která tì vždycky nesnášela.}
 {101}{}{Proè otravuješ, synovèe? Nevidíš, že mám práci?}
-{301}{}{Proè otravuješ, neteøi? Nevidíš, že mám práci?}
 {102}{}{Hmm, dobøe. Promiò.}
 {103}{}{O co jde? Nevidíš, že mám spoustu práce?}
 {104}{}{No... Mynoc øíkal...}
@@ -18,7 +17,6 @@
 {116}{}{Zase plýtváš mým èasem! Jak se z tebe vùbec mohl stát Vyvolený?}
 {117}{}{Ano, teto Morlis.}
 {118}{}{Éé, teto Morlis, mám s sebou ty tøi prášky.}
-
 {150}{}{Teto Morlis, jsem na velmi riskantní výpravì za záchranou naší vesnice. A moje šance na úspìch se dramaticky zvýší, když si ty léèivé prášky nechám pro sebe a ty mi dáš ten pazourek. Souhlasíš?}
 {151}{}{Co si myslíš, že dìláš, dítì? Takhle by se Vyvolený chovat nemìl. A teï mi zmiz z oèí!}
 {152}{}{Pokud je pro tebe ten pazourek tolik dùležitý, že jsi ochotný zneuctít jméno Vyvoleného, tak prosím. Vezmi si ho a zmiz mi z oèí.}
@@ -26,9 +24,6 @@
 {154}{}{No... tak dobrá. Tady je ten pazourek. Pøeju ti bezpeènou cestu, dítì.}
 {155}{}{Ne, nesouhlasím. A teï pøestaò ztrácet mùj èas a zmiz odsud!}
 {156}{}{Ano, teto Morlis.}
-
-
-# new add on stuff for time limit
 {200}{}{Vítej zpìt. Co svatá Tøináctka? Už víš, kde leží?}
 {201}{}{Ne, teto Morlis, já...}
 {202}{}{No tak odsud rychle vypadni a najdi ji! Jsi naše jediná nadìje!}
@@ -46,12 +41,9 @@
 {214}{}{Ano, teto Morlis.}
 {215}{}{Tak odsud padej a najdi GECK! Jsi naše jediná nadìje!}
 {216}{}{Ano, teto Morlis.}
-
-#added by killap
 {300}{}{Vypadá to, že jsem ten pazourek nìkam založila. No co, alespoò teï mám svoje léèivé prášky. A teï mazej pryè. Nemám èas na to, abych tady s tebou klábosila.}
+{301}{}{Proè otravuješ, neteøi? Nevidíš, že mám práci?}
 {302}{}{Nìjak ten pazourek nemùžu najít. Urèitì jsi mi ho sebral, když jsem se nedívala. Už jsem tì jednou takhle chytla. A teï mazej pryè, darebáku jeden. Nemám èas na to, abych tady s tebou klábosila.}
 {303}{}{Takže... ehm, omlouvám se, ale vypadá to, že jsem ten pazourek nìkam založila. Pøeju ti bezpeènou cestu, dítì.}
-
-#added by Darek
 {304}{}{Už jsem ti ten pazourek dala, hlupáku. Teï pøestaò plýtvat mým èasem a vypadni odsud!}
 {305}{}{Už jsem ti ten pazourek dala, hlupáku. Dobrá, alespoò teï mám svoje léèivé prášky. A teï padej! Nemám èas na klábosení.}

@@ -10,7 +10,7 @@
 {210}{}{Hmmpph. If it isn't the big heroine.}
 {215}{}{You better hope you don't fall through the floor, clanky.}
 {220}{}{I'm BORED.}
-{221}{}{Hello there.}
+{221}{}{Olá.}
 {222}{}{You. Talk to me. Now.}
 {223}{}{You. Come here. Now.}
 {224}{}{O Yum.}
@@ -172,7 +172,7 @@
 {641}{}{(Turns away.)}
 {642}{}{You say one word to good ol' Dad, and you'll find yourself 'flying' off the top of the highest building in New Reno.
  Once they find the little note I leave, everybody'll call it a suicide. It'll be a TERRIBLE tragedy. They'll be crying in the aisles.}
-{643}{}{(Leave.)}
+{643}{}{(Vai embora.)}
 {650}{}{No, I think that's a bet YOU'RE going to lose, bitch. Just try it.}
 {651}{}{[Attack her.]}
 {652}{}{[Let it go.]}
@@ -194,7 +194,7 @@
  plastic bottle, and offers it to you.) Want some, baby? There's more than enough for both of us to fly.}
 {811}{}{(Angela leads you up to her room on the third floor. While there, she cracks open a safe in the wall, takes out some
  Jet, and offers some to you.) Want some, baby? There's more than enough for both of us to fly.}
-{812}{}{Uh-huh}
+{812}{}{hã-ham.}
 {813}{}{Unh-unh}
 {820}{}{Mmmmmmmm... (Angela takes a deep hit from the bottle.) Mmmmmmm... why don't you come over
  here? (She lies down on the bed, takes another hit.) If you hurry, you can still suck some

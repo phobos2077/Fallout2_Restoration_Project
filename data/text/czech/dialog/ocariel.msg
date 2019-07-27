@@ -2,7 +2,7 @@
 {101}{}{Vidíš vdovu Ariel.}
 {102}{}{Vidíš malou štíhlou enu v modrıch sametovıch letních šatech. Vypadá dost nešastnì.}
 {103}{}{Ahoj, já jsem Ariel. Myslím, e jsem tì tu ještì nevidìla. Kdo jsi?}
-{104}{}{Já.}
+{104}{}{Já}
 {105}{}{Eh... vypadáš smutnì. Proèpak?}
 {106}{}{Já teï jít.}
 {107}{}{Ahoj Ariel, já jsem}
@@ -11,9 +11,9 @@
 {110}{}{Promiò, teï na tebe nemám èas.}
 {111}{}{Ráda tì poznávám. S èím ti mùu pomoct?}
 {112}{}{Odpovìdìt otázky?}
-{113}{}{S nièím. Nashle.}
+{113}{}{Nic. Nashle.}
 {114}{}{Ty mi nemùeš pomoct. Nashle.}
-{115}{}{Chci se tì na nìco zeptat.}
+{115}{}{Chci se na nìco zeptat.}
 {116}{}{Nerad ruším tvoje rozjímání, ale mùu se tì na nìco zeptat?}
 {117}{}{Mám nìjaké osobní problémy. Nestojí to ani za øeè, opravdu.}
 {118}{}{Ty mluvit, já poslouchat. To pomáhat.}
@@ -31,17 +31,17 @@
 {130}{}{Chtít odejít?}
 {131}{}{Tak proè ty smutná?}
 {132}{}{Jak ty sem dostala?}
-{133}{}{Musím teï jít.}
-{134}{}{Jsi tady vìznìm?}
+{133}{}{Muset teï jít.}
+{134}{}{Jsi tu vìzeò?}
 {135}{}{Zachází s tebou páraèi dobøe?}
 {136}{}{Chtìla bys opustit vault?}
 {137}{}{Povìz, Ariel, proè jsi tak smutná?}
 {138}{}{Jak ses dostala do Vaultu?}
 {139}{}{U musím jít.}
 {140}{}{Ne, mùu odejít kdy chci. Páraèi mi to dali jasnì najevo. Nikoho tu nedrí proti jeho vùli, alespoò co já vím.}
-{141}{}{Eh, tak jo.}
+{141}{}{Eh, dobøe.}
 {142}{}{Chápat. Já jít.}
-{143}{}{Chápu.}
+{143}{}{Aha.}
 {144}{}{Myslím, e leš, ty dìvko!}
 {145}{}{Chápu. Pokud by ti to nevadilo, chci se zeptat ještì na pár vìcí.}
 {146}{}{Ano. Poskytují mi jídlo, vodu, pøístøeší a ochranu. Cítím se tady bezpeènì a to je víc, ne bych si mohla kdy pøát.}
@@ -75,7 +75,7 @@
 {174}{}{}
 {175}{}{Vypadni, grázle! Nechci s tebou nic mít.}
 {176}{}{Táhni, dìvko! Nemám ti co øíct.}
-{177}{}{Ahoj.}
+{177}{}{Nashle.}
 {178}{}{.}
 {179}{}{. Ano, jsem tu teprve chvíli.}
 {180}{}{Drela jsem Sandy za zády, aby byla co nejdál od toho monstra, co zastøelilo Randa. Stál hned vedle jeho mrtvoly a zaèal se smát, kdy mi namíøil svoji zbraò na hlavu. Náhle se ze tmy vynoøil obrovskı paøát, chytil ho zezadu a... no, díky bohu, e Sandy nevidìla, co se stalo potom. Kadopádnì, nájezdníci byli vyhlazeni skupinou tìchto páraèù. Ten, co zachránil mì i Sandy, stál vedle mì a mluvil se mnou. Neustále mì ujišoval, e jsem v bezpeèí a e je mu líto, e nemohli pøijít døív, aby nám pomohli. Potom nás vzali sem.}

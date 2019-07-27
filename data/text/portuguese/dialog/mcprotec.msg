@@ -1,16 +1,16 @@
-{100}{}{You see a Slag guard.}
-{150}{}{Surrender or die!}
-{151}{}{I surrender.}
+{100}{}{Você vê um guarda da Escória.}
+{150}{}{Renda-se ou morra!}
+{151}{}{Eu me rendo.}
 {152}{}{Morra!}
 {153}{}{Ug!}
-{154}{}{If you need to see Vegeir, we can escort you to him.}
-{155}{}{Not now. I'll see Vegeir later.}
-{156}{}{Yes, I need to see Vegeir immediately.}
-{160}{}{You're dumber than dirt, aren't you! If you want to see Vegeir, you can just go find him yourself.}
-{200}{}{I don't trust "surfacers."}
-{201}{}{Vegeir said not to harm you... YET!}
-{202}{}{We are charged with protecting our people.}
-{203}{}{I'm watching you.}
-{220}{}{I guess you're OK... for a "surfacer."}
-{221}{}{Maybe we can get along with the "surfacers."}
-{222}{}{I'm glad I was wrong about you.}
+{154}{}{Se você precisar ver Vegeir, podemos levá-lo até ele.}
+{155}{}{Agora não. Visitarei Vegeir depois.}
+{156}{}{Sim, eu preciso ver Vegeir imediatamente.}
+{160}{}{Você é mais idiota do que folgado não é? Se você quer ver o Vegeir, vá até ele por si mesmo.}
+{200}{}{Eu não confio nas pessoas da superfície.}
+{201}{}{Vegeir disse pra você não se preocupar...POR ENQUANTO!}
+{202}{}{Estamos ocupados protegendo nosso povo.}
+{203}{}{Estou te observando.}
+{220}{}{Acho que você é bom... para alguém da superfície.}
+{221}{}{Talvez possámos trabalhar juntos com estas pessoas da superfície.}
+{222}{}{Fico feliz de estar errado sobre você.}

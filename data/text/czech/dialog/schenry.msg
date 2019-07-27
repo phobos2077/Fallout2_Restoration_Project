@@ -2,15 +2,15 @@
 {101}{}{Vidíš Dr. Henry.}
 {102}{}{Tenhle chlápek je tak mimo, až to bolí. Je to intelektuál, který žije úplnì mimo reálný svìt, o tom není pochyb.}
 {103}{}{Jsem Dr. Henry a mám teï moc práce. Co potøebujete?}
-{104}{}{Zase vy? Co potøebujete?}
+{104}{}{Zase vy? Co chcete?}
 {105}{}{Hurgh.}
-{106}{}{Jsem}
+{106}{}{Já jsem}
 {107}{}{Dost øeèí. Máte u sebe dokumenty, které chce pan Merk. Dejte mi je a nikomu se nic nestane.}
 {108}{}{Neslyšel jste nìkdy o místì zvaném Enkláva?}
-{109}{}{Do toho vám nic není.}
+{109}{}{Do toho ti nic není.}
 {110}{}{Hmm, podprùmìrnì vyvinutá lebka... zakrnìlý intelektuální vývoj, avšak žádné nechutné tìlesné mutace. Ne, oèividnì jste mi k nièemu. Pøeji hezký den.}
 {111}{}{Vyvolený? Ovšem, to dává smysl. Zajímavé... obávám se, že vám však nemohu pomoci. Pøiøadili mì na kybergenetický výzkum, nikoliv na projekt zajištìní chodu Vaultù.}
-{112}{}{O èem to mluvíte?}
+{112}{}{O èem to mluvíš?}
 {113}{}{Projekt zajištìní chodu Vaultù?}
 {114}{}{Kybergenetika? O nièem takovém nevím zhola nic.}
 {115}{}{Jasnì. Jste blázen. Sbohem.}

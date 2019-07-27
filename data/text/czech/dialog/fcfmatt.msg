@@ -1,8 +1,8 @@
 {100}{}{Vidíš muže v kovové zbroji.}
 {101}{}{Vidíš Matthewa.}
-{102}{}{Vidíš muže, který má na sobì kovovou zbroj se znakem blesku na hrudi.}
+{102}{}{Vidíš muže v kovové zbroji s odznakem blesku.}
 {103}{}{Ahoj,}
-{104}{}{. Co pro tebe mùžu udìlat?}
+{104}{}{. Co pro tebe mohu udìlat?}
 {105}{}{Ty odpovìdìt na otázky?}
 {106}{}{Nic. Já pøijít pozdìjc.}
 {107}{}{Mùžeš zaèít tím, že mi odpovíš na nìjaké otázky.}
@@ -16,7 +16,7 @@
 {115}{}{Co jste zaè, lidi?}
 {116}{}{Proè se tu o vás nikdo nezmiòuje?}
 {117}{}{Proè tu máte jenom jednu osobu?}
-{118}{}{Musím jít.}
+{118}{}{Už musím jít.}
 {119}{}{Jsme paravojenská organizace známá jako Bratrstvo Oceli.}
 {120}{}{Co Bratrstvo dìlat?}
 {121}{}{Dobøe... a co tohle Bratrstvo dìlá?}
@@ -37,19 +37,19 @@
 {136}{}{Budu k tobì upøímný,}
 {137}{}{. Bratrstvo oceli už není taková mocnost jako døíve. Vìøili jsme, že jsme poslední zdroj technologií, který lidstvu zbyl. Díky tomuto faktu jsme nechali náš øád po léta upadat. Teï nemáme prostøedky na to, abychom se mohli vypoøádat s Enklávou. Potøebujeme tvoji pomoc.}
 {138}{}{Jsem pøipraven ti udìlat tuto nabídku. Vykonej pro mì toto poslání a já ti zaruèím pøístup do této základny. Budeš mít k dispozici nejlepší technologii Bratrstva. Co na to øíkáš?}
-{139}{}{Já o tom pøemýšlet.}
-{140}{}{Žádný pøípad. Já muset jít.}
-{141}{}{Ale co. Já udìlat to.}
-{142}{}{Budu o tom pøemýšlet.}
+{139}{}{Já pøemýšlet.}
+{140}{}{Žádný pøípad. Já teï jít.}
+{141}{}{Ale co. Já udìlat.}
+{142}{}{Tak to si ještì rozmyslím.}
 {143}{}{V žádném pøípadì. Najdi si jiného blázna.}
 {144}{}{Ale co. Asi jsem blázen, ale udìlám to.}
 {145}{}{Tak dobøe. Až se rozhodneš, zastav se tu.}
-{146}{}{Dobøe. Naskle.}
+{146}{}{Dobøe. Ahoj.}
 {147}{}{Dobøe, ale já zeptat víc.}
-{148}{}{Dobøe. Zatím.}
+{148}{}{Dobøe. Nashle.}
 {149}{}{Dobøe, ale chci se ještì na nìco zeptat.}
 {150}{}{Chápu že váháš pøijmout takovouto misi. Dej mi prosím vìdìt, jestli se rozhodneš jinak.}
-{151}{}{Dobøe. Naskle.}
+{151}{}{Dobøe. Ahoj.}
 {152}{}{Dobøe, ale já zeptat víc.}
 {153}{}{Dobøe. Nashle.}
 {154}{}{Dobøe, ale chci se ještì na nìco zeptat.}
@@ -60,7 +60,7 @@
 {159}{}{Fajn. Dám se do toho.}
 {160}{}{Po úspìšném dokonèení tvého poslání ti bude umožnìn pøístup do této základny. Myslím, že bude nejlepší, když zaèneš hned teï. Dìkuji ti,}
 {161}{}{.}
-{162}{}{Dobøe. Naskle.}
+{162}{}{Dobøe. Ahoj.}
 {163}{}{Jasnì, ale já ptát víc.}
 {164}{}{Jo, zatím.}
 {165}{}{Jistì, ale ještì se chci na nìco zeptat.}
@@ -82,23 +82,23 @@
 {181}{}{Ahoj. Zmìnil jsi rozhodnutí o mé nabídce?}
 {182}{}{Ne.}
 {183}{}{Ano. Já vzít.}
-{184}{}{Ne, nezmìnil.}
+{184}{}{Ne, nemám.}
 {185}{}{Ano, vezmu tu práci.}
 {186}{}{Dokonèil jsi své poslání?}
 {187}{}{Ne, já poøád pracovat.}
 {188}{}{Já mít plány.}
-{189}{}{Ne, poøád na tom pracuju.}
+{189}{}{Ne, ještì na tom pracuju.}
 {190}{}{Mám pro tebe ty plány vertibirdu.}
 {191}{}{Dobøe, pokraèuj v práci. Vím, že to je obtížné poslání, ale myslím, že to dokážeš.}
 {192}{}{Dobøe.}
 {193}{}{Výborná práce! Dej mi ty plány a já z nich udìlám kopii. A jak jsem slíbil, dám ti plný pøístup do této základny. Dìkuji ti.}
-{194}{}{Nemít zaè.}
+{194}{}{To být v poøádku.}
 {195}{}{Není zaè.}
 {196}{}{Navarro je pomìrnì nové a ještì nemá plný poèet pracovníkù. Mé zdroje mi povìdìli, že k nim èas od èasu pøichází noví pracovníci. Možná by sis mohl zahrát na novì pøíchozího. Takový je mùj návrh.}
 {197}{}{Navarro je pomìrnì nové a ještì nemá plný poèet pracovníkù. Mé zdroje mi povìdìli, že k nim èas od èasu pøichází noví pracovníci. Možná, když tam pùjdeš sám, mohl by sis zahrát na novì pøíchozího. Takový je mùj návrh. Tví pøátelé mùžou poèkat tady.}
 {198}{}{Dobøe.}
 {199}{}{Ty øíkat 'zdroje.' Co oni být?}
-{200}{}{Dobøe.}
+{200}{}{Tak dobøe.}
 {201}{}{Zmiòoval ses o 'zdrojích.' Kdo to je?}
 {202}{}{Mìl jsem na základnì zvìda. Její zprávy ale nedávno pøestaly chodit. Pøedpokládám pouze to nejhorší. Prosím, dávej si pozor,}
 {203}{}{. Nebaví mì posílat lidi na smrt.}
@@ -106,13 +106,12 @@
 {205}{}{Budu opatrný. Díky.}
 {206}{}{Ještì jednou dìkuji za všechnu pomoc. Máš plný pøístup do této základny.}
 {207}{}{To je soukromá kanceláø.}
-{208}{}{Tam není nic pro tebe.}
-{209}{}{To je soukromý majetek, takže odejdi.}
+{208}{}{Tam pro tebe nic není.}
+{209}{}{To je soukromý pozemek, takže odejdi.}
 {210}{}{Jak víte, kdo jsem?}
 {211}{}{Jak ty znát já?}
 {212}{}{Víme toho mnoho.}
 {213}{}{Po úspìšném dokonèení tvého poslání pro tebe pøipravím tanker a zaruèím ti pøístup do této základny. Myslím, že bude nejlepší, když zaèneš hned. Dìkuji,}
-#161
 {214}{}{Já jít.}
 {215}{}{Výborná práce! Dej mi ty plány a já si udìlám kopii. Jak jsem slíbil, zaruèím, aby byl pro tebe tanker pøipravený... staèí jít k poèítaèi na horním podlaží a zmáèknout tlaèítko Go. Také ti dám plný pøístup do této základny. Dìkuji.}
 {216}{}{Nemít zaè!}

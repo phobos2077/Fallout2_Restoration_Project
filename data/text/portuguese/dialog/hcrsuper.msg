@@ -16,7 +16,7 @@
 {115}{}{You can't be here. It's dangerous. Run along now.}
 {116}{}{[FEITO]}
 {117}{}{Great. That'll be $1000, no haggling. You might think that's pricey, but it's a steal considering what you'll get for the finished product.}
-{118}{}{It's a deal.}
+{118}{}{Estamos de acordo.}
 {119}{}{$1000? That's ridiculous. Forget it.}
 {120}{}{I'm the supervisor of this refinery. What do you want?}
 {121}{}{O que é este lugar?}

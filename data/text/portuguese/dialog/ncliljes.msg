@@ -2,16 +2,16 @@
  with acne scars.}
 {151}{}{You see Lil' Jesus Mordino.}
 {152}{}{You see Lil' Jesus Mordino. He is dressed mostly in black leather and playing with one of his knives.}
-{200}{}{Yo! }
-{201}{}{Fuckin'-A, }
-{202}{}{::Gives you thumbs up sign::}
-{203}{}{::Whistles::}
-{220}{}{How do you take a piss with that thing on?}
-{230}{}{Nice piece you got there, }
-{240}{}{What you creeping around for, eh, }
+{200}{}{E ae! }
+{201}{}{Do caralho, }
+{202}{}{::Faz o sinal de positivo pra você::}
+{203}{}{::Assobios::}
+{220}{}{Como você mija com um coisa dessas?}
+{230}{}{Bela arma, }
+{240}{}{Pra quê está se escondendo, hein, }
 {250}{}{Wazzup, }
 {251}{}{Heeey... }
-{252}{}{Sheee-it, it's hot.}
+{252}{}{Meeer-da, está quente.}
 {253}{}{Heeey! Whacha been up to, }
 {254}{}{Good to see you, }
 {255}{}{Hey! Come and check out my new knife, }
@@ -19,71 +19,71 @@
 {257}{}{We goin' out tonight, }
 {258}{}{My knife needs some Bishop blood...}
 {259}{}{Gonna carve up so many Salvatores they'll call me the "butcher"...}
-{270}{}{Yo! Cabron! You looking for th' Angel o' Death? Beat it!}
+{270}{}{Ei! Cabrón! Estás procurando pelo anjo da morte? Cai fora!}
 {271}{}{You got some cojones coming in here, }
-{272}{}{Hijo de puta...}
+{272}{}{Hijo de una puta…}
 {273}{}{You }
 {274}{}{If you're still here when I finish my drink, I'm gonna carve my name on your face.}
 {275}{}{::Starts playing with his knife threateningly.::}
 {276}{}{Lookin for your hermana, }
 {277}{}{What the fu... you! You, what're you doing here?}
-{278}{}{Yo! Puta! You looking for th' Angel o' Death? Beat it!}
+{278}{}{Ei! Puta! Estás procurando pelo anjo da morte? Cai fora!}
 {279}{}{Thought they kept you locked up in the kennel, puta.}
 {280}{}{If you ain't here to kiss my ass, }
-{281}{}{Hija de puta...}
+{281}{}{Hija de una puta…}
 {300}{}{Yo! Hombre, you can't be carrying that around in here.}
-{301}{}{Yo! Homes, put that thing away 'fore you start making people nervous.}
-{310}{}{Yo! Chica, you can't be carrying that around in here.}
-{311}{}{Yo! Chica, put that thing away 'fore you start making people nervous.}
-{320}{}{What the hell you sneaking around for, }
-{330}{}{What you sneaking around for, chica? With that right hook you got, you should walk tall.}
-{340}{}{Where you learn to fight, }
-{341}{}{You got the cojones of a Mordino.}
-{342}{}{Last fight was something out of an epic, hombre.}
-{343}{}{Fly like a butterfly, sting like a bee. Thaz you, right there, }
-{344}{}{Y'know, the Mordinos could use some muscle like you, }
+{301}{}{Ei! Amigo, guarde essa coisa antes que as pessoas comecem a ficar nervosas.}
+{310}{}{Ei! Chica, você não pode andar aqui carregando essa coisa.}
+{311}{}{Ei! Chica, guarde essa coisa antes que as pessoas comecem a ficar nervosas.}
+{320}{}{Por que diabos você está se escondendo, }
+{330}{}{Por que se esconde, chica? Com esse gancho direito que tem, deveria andar com orgulho.}
+{340}{}{Onde você aprendeu a lutar, }
+{341}{}{Você tem os cojones de um Mordino.}
+{342}{}{A última luta foi épica, hombre.}
+{343}{}{Voa como uma borboleta, pica como uma abelha. Esse é você, }
+{344}{}{'Cê sabe, os Mordinos fariam bom uso de seus músculos, }
 {345}{}{Bet on you, best money I ever placed. You were throwing hooks like nobody's business.}
-{346}{}{Saw you fight in the ring, }
-{347}{}{How much you bench, }
-{348}{}{Where you work out, eh?}
-{349}{}{Watch out for the Masticator. He likes to eat ears.}
-{350}{}{I'd get you a drink if I hadn't blown all my money betting on your opponent.}
-{351}{}{Where you from, you fight like that? You're good. I mean, GOOD.}
-{352}{}{Where you learn to fight, chica? You're vicious. You got the MOVES.}
+{346}{}{Vi você lutar no ringue.}
+{347}{}{Quanto você tem de envergadura, }
+{348}{}{Qual foi sua estratégia, hein?}
+{349}{}{Cuidado com o Masticator. Ele gosta de comer orelhas.}
+{350}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
+{351}{}{De onde você é, pra lutar assim? Você é bom. Digo, BOM.}
+{352}{}{Onde aprendeu a lutar assim, chica? Você é violenta.}
 {353}{}{Last fight was something out of a fucking epic, chica.}
-{354}{}{Where you work out, eh? Need a spotter?}
+{354}{}{Qual foi sua estratégia, hein? Precisa de um ajudante?}
 {370}{}{Hey, hey, hey! Chica, you need to me to put that weapon away for you?}
-{371}{}{What, you want me to strip search you and all? C'mon, shoulder that iron 'fore I have to get rough.}
+{371}{}{O quê, você quer eu te reviste toda? Vamos lá, abaixe esse ferro antes que eu fique bravo.}
 {390}{}{No way you're sneaking by Lil' Jesus with a bod like that, chica.}
 {400}{}{Your film wasn't bad, but you obviously need a few pointers from me. ::Laughs::}
-{401}{}{Hey, }
-{402}{}{I'm ready, I'm available, you put me in a movie, okay? We're talking box office, }
-{403}{}{I am the ultimate Latin lover. There is no Latin lover like me.}
-{404}{}{Talk to the Brothers about me, }
+{401}{}{Ei, }
+{402}{}{Estou pronto, preparado, coloque-me num filme, certo? Falamos no escritório, }
+{403}{}{Eu sou o maior amante Latino. Não há amante Latino como eu.}
+{404}{}{Fale de mim para os Brothers, }
 {405}{}{Give a good word to the brothers for me, alright?}
-{406}{}{You are doin' the right thing, brushing up with the Mordinos. We're going places.}
+{406}{}{Você está fazendo a coisa certa, lidando com os Mordinos.}
 {407}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
-{408}{}{So how about you and me doing a film? I'll treat you right, chica. I show you what a Latin lover can do.}
-{409}{}{Why don't you stop by after work?}
-{410}{}{You got any friends?}
-{411}{}{You need some Jet? I can set you up, chica.}
-{412}{}{Chica, there ain't nothing I wouldn't do for you... c'mon, now. Give me a leetle kiss.}
-{425}{}{Don't be showing iron around here, friend. Put that away.}
-{435}{}{Don't be sneakin' around, slaver, all right? You're among friends.}
-{445}{}{Yo! You dumb or something? Put that thing away before I haveta hurt you.}
-{446}{}{You lookin' for a backalley lobotomy? Put that thing away.}
-{447}{}{Yo, chica! You dumb or something? Put that thing away before I haveta hurt you.}
-{455}{}{What the hell you sneaking around for? You looking to get shot?}
-{460}{}{What you sneaking around for, chica? You looking to get shot?}
-{465}{}{Get that rolling trash can outta here.}
-{466}{}{No bots allowed in here. Beat it.}
-{467}{}{That robot's gonna be scrap if it stays.}
-{475}{}{I THOUGHT I smelled mutant. Get him outta here 'fore we get mad.}
-{476}{}{You a mutant lover? His place is OUTSIDE. Or else.}
+{408}{}{E então, que tal um filme nosso? Eu te trato bem, chica. Eu te mostro o que um amante Latino sabe fazer.}
+{409}{}{Por que não passa aqui depois do trabalho?}
+{410}{}{Você tem amigos?}
+{411}{}{Precisa de Jet? Eu posso te arrumar, chica.}
+{412}{}{Chica, não há nada que eu não faria por você... vamos lá, me dê um beijinho.}
+{425}{}{Não ande com ferro por aqui, chapa. Guarde isso.}
+{435}{}{Não fique se escondendo por aí, escravagista. Você está entre amigos.}
+{445}{}{Ei! És burro ou o quê? Guarde essa coisa antes que yo tenha que te machucar.}
+{446}{}{Estás procurando um caixão? Guarde essa coisa.}
+{447}{}{Ei, chica! És burra ou o quê? Guarde essa coisa antes que yo tenha que te machucar.}
+{455}{}{Por que diabos está se escondendo? Que levar um tiro?}
+{460}{}{Por que está se escondendo, chica? Que levar um tiro?}
+{465}{}{Tire essa lixeira rolante daqui.}
+{466}{}{Robôs não são permitidos aqui. Caia fora.}
+{467}{}{Esse robô vai virar sucata se ficar aqui.}
+{475}{}{YO ACHO que senti cheiro de mutante. Tire ele daqui antes que fiquemos bravos.}
+{476}{}{Gostas de mutantes? O lugar dele é LÁ FORA. Ou então...}
 {477}{}{That mutant sticks around, he's gonna become target practice.}
-{485}{}{I THOUGHT I smelled something rotting. Get that ghoul boy o' yours outta here.}
-{486}{}{Get that stinky ghoul outta here. Now.}
-{487}{}{That ghoul ain't outta here in a minute, he's gonna be deader than he already is.}
+{485}{}{YO ACHO que senti cheiro de carniça. Tire esse ghoul daqui.}
+{486}{}{Tire esse ghoul fedorento daqui. Agora.}
+{487}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
 {495}{}{Hey, you. C'mon over here and let me see that knife.}
 {496}{}{Nice knife.}
 {497}{}{Can I see that knife for a second?}
@@ -91,7 +91,7 @@
 {506}{}{Something you want, amigo?}
 {507}{}{Something you want, chica?}
 {508}{}{Hoo ooh?}
-{511}{}{Wander off}
+{511}{}{Cai fora}
 {512}{}{Quem é você?}
 {513}{}{Sorry. I thought you were someone else.}
 {522}{}{Eh...? You again? What do you want now?}
@@ -99,7 +99,7 @@
 {524}{}{Me from under where}
 {525}{}{Ay-me-go?}
 {526}{}{Cheee-ka Cheeek-aaaah}
-{529}{}{I had some questions...}
+{529}{}{Eu tenho algumas perguntas…}
 {530}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {540}{}{}
 {541}{}{}
@@ -123,10 +123,10 @@
 {602}{}{Eh... right. You take care, chica. I'll catch you later.}
 {603}{}{Heh. Maybe you oughta go back out and squat in the sun, tribal. Clear the air in here.}
 {604}{}{Okeee Doh-kee}
-{620}{}{Get outta here.}
+{620}{}{Cai fora daqui.}
 {621}{}{Come around here again, and I'll fill you so full o' lead even Superman couldn't see through you.}
 {622}{}{::Plays with knife threateningly::}
-{623}{}{::Spits at your feet::}
+{623}{}{::Cospe no seu pé.::}
 {624}{}{You look like someone who don't know when they're about to die.}
 {625}{}{Beat it 'fore I waste you.}
 {626}{}{Come around here again, and I'll gut you.}
@@ -205,7 +205,7 @@
 {881}{}{First thing you can do for me is keep your eyes to yourself, LITTLE Jesus. I'd sooner consider humping a rock before
  touching that cratered landscape you call a face.}
 {882}{}{I'm looking for a job. Know of anyone who's hiring?}
-{883}{}{I had some other questions...}
+{883}{}{Eu tenho mais algumas perguntas...}
 {884}{}{Actually, I have to be going. Good talking to you, Jesus.}
 {890}{}{(Checks you over, nods.) We're always looking for new blood...'specially new blood that's willing to spill blood, know what I'm saying? Go upstairs, talk to my Pa, tell him I sent you, and maybe we can do business.}
 {891}{}{(Checks you over, shakes head.) We don't hire chicas...'cept in certain positions. Try Pa upstairs, tell him I sent you.
@@ -231,7 +231,7 @@
 {923}{}{Estou de saída.}
 {924}{}{You spit on my shoe? You fuck! I'm gonna teach you a lesson about respect, mother fucker.}
 {930}{}{No, not me... head on upstairs and see my Pa. He's the one you want to talk to.}
-{931}{}{And you are...?}
+{931}{}{E você é...?}
 {932}{}{All right then. Before I go, I had some questions...}
 {933}{}{Obrigado.}
 {940}{}{FUCK you. Get outta my family's casino 'fore I carve my initials on your dead body.}
@@ -309,7 +309,7 @@
 {1072}{}{Tell me you mean 200 chips. PLEASE tell me you mean 200 chips.}
 {1073}{}{Oh, you were thinking of sex? Well, keep thinking, cause it ain't gonna happen.}
 {1074}{}{Uh, okay. Let's do it. Anything for some added knife skill.}
-{1075}{}{All right. Here's the money.}
+{1075}{}{Tudo bem. Aqui está o dinheiro.}
 {1076}{}{Nevermind. Uh, who are you, anyway?}
 {1077}{}{Forget it. I had some other questions...}
 {1079}{}{Maybe some other time, thanks. I REALLY have to be going.}
@@ -326,11 +326,11 @@
 {5200}{}{! Way to kick the Enclave's ass!}
 {5201}{}{, way to teach them dumb Enclave fucks how things are done DOWNTOWN.}
 {5230}{}{.}
-{5240}{}{? Mordinos walk proud.}
+{5240}{}{? Os Mordinos andam de cabeça erguida.}
 {5250}{}{?}
-{5251}{}{! Que pasa?}
+{5251}{}{! Que passa?}
 {5253}{}{?}
-{5254}{}{. Where you been?}
+{5254}{}{. Onde você esteve?}
 {5255}{}{.}
 {5256}{}{?}
 {5257}{}{. You comin' wit us?}
@@ -338,15 +338,15 @@
 {5273}{}{s fuck with us, you'll be wormfood. Get outta here!}
 {5276}{}{? She just got done kissing my ass. Now you better blow, too.}
 {5280}{}{, you better leave.}
-{5320}{}{? With that right hook you got, you should walk tall.}
+{5320}{}{? Com esse gancho direito que tem você deveria andar com a cabeça erguida.}
 {5340}{}{? You're vicious. You got the MOVES, hombre.}
 {5343}{}{.}
-{5344}{}{. Other families see you coming, they'd cave in a sec.}
+{5344}{}{. Se as outras famílias te virem, vão te enterrar em segundos.}
 {5346}{}{. You were *wasting* that guy.}
 {5347}{}{?}
-{5380}{}{? C'mon, walk tall.}
-{5401}{}{! Que pasa? You gonna set me up with the Brothers, or what?}
-{5402}{}{, box office!}
+{5380}{}{? Vamos lá, ande com orgulho!}
+{5401}{}{! Que passa? Você vai fala de mim pros Brothers ou não?}
+{5402}{}{, bilheteria!}
 {5404}{}{...c'mon. I can *do* it.}
 {5542}{}{! The big ol' fighter! Man, you're good!}
 {5543}{}{! The nasty chica fighter! You're good, chica!}

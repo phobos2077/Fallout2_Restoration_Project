@@ -1,7 +1,7 @@
-{100}{}{You see an inconspicuous pile of rocks.}
-{101}{}{You see a small pile of rocks. They almost look like they are stacked on purpose.}
-{102}{}{It's just a pile of rocks.}
-{103}{}{Hey! I found a wrench buried under the rocks.}
-{104}{}{Nothing else here.}
-{110}{}{Hey! Me findie tool here.}
-{111}{}{Me no find more treasure.}
+{100}{}{Você vê uma pilha de pedras quase imperceptível..}
+{101}{}{Você vê uma pequena pilha de pedras. Elas quase parecem que foram empilhadas propositalmente.}
+{102}{}{É apenas uma pilha de pedras.}
+{103}{}{Ei! Eu achei uma chave inglesa enterrada debaixo das pedras.}
+{104}{}{Nada mais aqui.}
+{110}{}{Ei! Mim achar ferramenta aqui.}
+{111}{}{Mim não achar mais tesouro.}

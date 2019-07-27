@@ -111,7 +111,7 @@
 {231}{}{O que é isso?}
 {232}{}{Parece problemas demais. Tchau.}
 {233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
-{234}{}{Let's get it on!}
+{234}{}{Vamos em frente!}
 {235}{}{You can take care of the Dragon yourself.}
 {236}{}{[Lo Pan studies you and then throws a quick punch which smacks you in the nose before you can even react.] You are not good enough.}
 {237}{}{Ok, mas posso pedir outra coisa?}

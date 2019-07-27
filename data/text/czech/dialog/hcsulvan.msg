@@ -36,7 +36,7 @@
 {135}{}{Tak se mi zdá, že si ze mì dìláš srandu.}
 {136}{}{No, eh, vidím, že jsi zamìstnaný muž. Uvidíme se pozdìji. Sbohem.}
 {137}{}{(Prohlédne si tì.) No, možná. Možná. No dobøe, jak myslíš.}
-{138}{}{Jasnì. Sbohem.}
+{138}{}{Dám si pozor. Sbohem.}
 {139}{}{No, možná jo. Ale vypadá to, že ty to bereš sportovnì. Dej si na mì pivko.}
 {140}{}{Dìkuju. Co jsi to øíkal o té vìdì?}
 {141}{}{Nechci od tebe žádné pivo. Vím toho víc, než mì mùžeš nauèit, ty starej ožralo.}

@@ -7,7 +7,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{To je jedno, dám si tøeba místní specialitu.}
-{109}{}{Dej mi pivo.}
+{109}{}{Gimme a beer.}
 {110}{}{Informace.}
 {111}{}{Hledám práci.}
 {112}{}{A hele, to jsi ty! Takové jako ty mám ráda.}
@@ -16,10 +16,10 @@
 {115}{}{Hezky se ti podaøilo odrovnat Lennyho. Bylo to fakt úasnı! Tady máš panáka na úèet podniku.}
 {116}{}{To, co jsi udìlal Lennymu, bylo fakt hustı!}
 {117}{}{Á jé, koukám, e ty nebudeš moc dobrej parák na konverzaci. Nechceš Rad-A-Waster? Jenom za deset babek.}
-{118}{}{Jo.}
+{118}{}{Ano.}
 {119}{}{Ne.}
 {120}{}{Chceš koupit drink? $10.}
-{121}{}{Jo.}
+{121}{}{Ano.}
 {122}{}{Ne.}
 {123}{}{Jeden Rad-A-Waster u se nese! $10.}
 {124}{}{Dobøe.}
@@ -72,20 +72,18 @@
 {171}{}{Další otázka...}
 {172}{}{Díky, budu si to pamatovat.}
 {173}{}{Hmm, práce? Chtít práce? Pomoct Mira?}
-{174}{}{Jo.}
+{174}{}{Ano.}
 {175}{}{Ne.}
 {176}{}{Poslouchej, zlı mu ubliovat Mira. Zlı mu jmenovat Jack. Ty ublíit zlı mu. Mira šastná a dát ty pìkná bouchaèka. Dobøe?}
-{177}{}{Jo.}
+{177}{}{Ano.}
 {178}{}{Ne.}
 {179}{}{Bezva! Mira mít za zdí lano. Jít v noci. Najít lano. Jít na velké místo pøed brána. Najít Jack. Ublíit Jack. Mira ti dát bouchaèka.}
 {180}{}{Jít v noci. Najít lano. Jít na velké místo pøed brána. Najít Jack. Ublíit Jack. Mira ti dát bouchaèka. Teï odejít pryè. Vidìt nás nìkdo spolu - není dobré. Pomoct Mira a vrátit se. Rozumìt?}
 {181}{}{Mira slyšet o Jack. Dobrá práce, tupounku. Tady bouchaèka, ty vzít. Díky.}
 {182}{}{Tak jdi do hajzlu. Já se toho parchanta snad nikdy nezbavím.}
-#latter additions
 {183}{}{O tom si promluv s Merkem. Bohuel tady ale teï není. Pøijï v noci, to tady urèitì bude.}
 {184}{}{Nevím co máš s Lennym, ale u tì tady nechci ani vidìt. Nejseš tu teï moc populární.}
 {185}{}{Varovala jsem tì. No jak chceš...}
-
 {186}{}{Ty jsi Mira, e? Nìjakı polda o tobì nìco vykládal.}
 {187}{}{Ty Mira? Jack øíkat zlá vìci.}
 {188}{}{Ten bastard Jack? O èem vanil tentokrát?}

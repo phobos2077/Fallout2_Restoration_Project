@@ -26,7 +26,7 @@
 {122}{}{The movers and shakers of the town are Marcus, who's kind of the mayor and sheriff, Zaius, who's
  the mine foreman, and Chad, who runs the caravan. Phil the bartender's the leader of the ghouls, I guess...
  if you can say they have a leader. Who were you again?}
-{123}{}{Where can I find Marcus?}
+{123}{}{Onde eu posso achar o Marcus?}
 {124}{}{Where can I find Zaius?}
 {125}{}{Where can I find Cameron?}
 {126}{}{Where can I find Chad?}

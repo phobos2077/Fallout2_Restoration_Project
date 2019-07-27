@@ -1,13 +1,11 @@
 {100}{}{Vidíš místního štamgasta, který si tì zvìdavì prohlíží.}
 {101}{}{Vidíš místního štamgasta pojídajícího nìjaké jídlo.}
 {102}{}{Vidíš místního štamgasta popíjejícího džbánek piva.}
-{103}{}{Vidíš místního štamgasta.}
-
+{103}{}{Vidíš barmanku.}
 {104}{}{Vidíš špinavého místního štamgasta. Nejspíš je to lovec kožešin.}
 {105}{}{Vidíš drsnì vypadajícího muže. Pravdìpodobnì je to lovec kožešin.}
 {106}{}{Vidíš staršího muže. Nejspíš to bude lovec kožešin nebo farmáø.}
 {107}{}{Vidíš muže v dobré kondici. Mohl by to být rolník nebo pasák brahmín.}
-
 {110}{}{Ty sem dobøe zapadneš.}
 {111}{}{Nechceš nám koupit rundu pití?}
 {112}{}{Pøišel sis dát páku s Duntonovejma?}
@@ -33,7 +31,6 @@
 {132}{}{V kaòonu na východì je nìjakej duch.}
 {133}{}{Lov je nebezpeènej. Pøed pár týdny se ztratil dobrej lovec.}
 {134}{}{Rád si støílím z toho hòupa Torra.}
-
 {140}{}{Podívejme, kdo se pøišel podívat.}
 {141}{}{(mumly, mumly) ...koho nám to sem èerti nesou... (mumly)}
 {142}{}{Nezdá se ti, že jseš tady špatnì?}
@@ -46,7 +43,7 @@
 {149}{}{Tvoje maminka tu není chlapèe. Zkus zajít do lázní.}
 {150}{}{Jdi si hrát nìkam jinam.}
 {151}{}{Máme tu pro tebe takový hezký kaòon na východ odsud.}
-{152}{}{Co tady chceš?}
+{152}{}{Co chceš?}
 {153}{}{Bude lepší, když si budeš hledìt svýho.}
 {154}{}{Nejmenuješ se náhodou taky Torr? (hehehe)}
 {155}{}{Jdi chlastat s Aldem, jo?}
@@ -55,7 +52,6 @@
 {158}{}{Tfuj. (plivne na podlahu)}
 {159}{}{No na tebe je teda pohled.}
 {160}{}{Už ti došlo, že tì tu nechceme?}
-
 {162}{}{No koneènì, divochu.}
 {163}{}{Díky.}
 {164}{}{Nee!}
@@ -63,16 +59,16 @@
 {166}{}{Pùjdu se zechcat.}
 {167}{}{Nic nenahradí geckonský Chcánky.}
 {168}{}{Díky za Chcánky.}
-{169}{}{Jooo!}
-{170}{}{Divoši vìdìj co je na životì nejlepší.}
+{169}{}{Paráda!}
+{170}{}{Divoši vìdìj, co je na životì dobrý.}
 {171}{}{Dík.}
 {172}{}{Víc Chcánek pro každýho!}
 {173}{}{To fakt bodlo. Díky.}
-{174}{}{Dìkuju milionkrát!}
+{174}{}{Milionkrát dìkuju!}
 {175}{}{Radši mít lobotomii...}
 {176}{}{Chcánky Zlatýho geckona!}
-{177}{}{Jasnì!}
+{177}{}{Dobrý!}
 {178}{}{Miluju tyhle Chcánky.}
 {179}{}{Jseš dobrej divoch.}
 {180}{}{Chytrej tah.}
-{181}{}{Jooo!}
+{181}{}{Jó!}

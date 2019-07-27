@@ -1,16 +1,16 @@
-{100}{}{You gain }
-{101}{}{ experience points.}
-{102}{}{You successfully disarm the trap.}
+{100}{}{Você ganhou }
+{101}{}{ pontos de experiência.}
+{102}{}{Você desarmou a armadilha com sucesso.}
 {103}{}{Você falhou em desarmar a armadilha.}
-{104}{}{You accidentally set off the trap.}
-{105}{}{ successfully disarms the trap.}
-{106}{}{ fail to disarms the trap.}
-{107}{}{ accidentally sets off the trap.}
+{104}{}{Você acidentalmente acionou a armadilha.}
+{105}{}{ desarmou a armadilha com sucesso.}
+{106}{}{ falhou em desarmar a armadilha.}
+{107}{}{ acidentalmente acionou a armadilha.}
 {200}{}{Obrigado.}
-{201}{}{Good Day.}
+{201}{}{Bom dia.}
 {202}{}{Obrigado.}
 {203}{}{Obrigado!}
-{204}{}{No thank you.}
+{204}{}{Não, te agradeço.}
 {205}{}{Não, obrigado.}
 {206}{}{Com certeza.}
 {207}{}{Sim.}
@@ -21,197 +21,197 @@
 {302}{}{Ooga.}
 {303}{}{Urg.}
 {350}{}{[FIM]}
-{351}{}{[BYE]}
+{351}{}{[TCHAU]}
 {352}{}{[MAIS]}
 {353}{}{[CONTINUAR]}
-{354}{}{[COMBAT]}
-{355}{}{[GIVE MONEY]}
+{354}{}{[COMBATE]}
+{355}{}{[DAR DINHEIRO]}
 {375}{}{Adeus.}
 {376}{}{Adeus.}
-{400}{}{You die due to the lethal injection from Dr. Troy.}
+{400}{}{Você morreu devido a injeção letal do Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}
-{900}{}{The old, worn door looks like it could be destroyed
- with a well-placed explosive.}
-{901}{}{You see the slave cart to take the slaves back to the Den.}
+{900}{}{A velha porta parece poder ser destruída
+ com um explosivo bem-posicionado.}
+{901}{}{Você vê a carreta que levará os escravos para Den.}
 {905}{}{Woof! Woof!}
-{910}{}{You are shocked by the electrified floor.}
-{911}{}{ is shocked by the electrified floor.}
-{912}{}{The power level drops to zero and then goes back to 50% as the
- backup generators kick in.}
-{913}{}{A slight humming is heard as the power once more flows through the base.}
-{920}{}{You stumble across the remains of Nagor, who died trying to save his dog.}
-{921}{}{Nagor died trying to drag his dog's body back to the village.}
-{930}{}{Hoooooowl!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
-{951}{}{The fighting molerat goes in for the death blow.}
-{952}{}{The match is over.}
-{1000}{}{You passed the Citizenship Test.}
-{1001}{}{You reported the Jet addiction of Redding to McClure.}
+{910}{}{Você levou um choque do chão eletrizado.}
+{911}{}{ levou um choque do chão eletrizado.}
+{912}{}{A barra de energia cai pra zero e então volta para 50% quando
+ os geradores reservas se ligam.}
+{913}{}{Ouve-se um fraco ruído quando a energia se distibui pela base.}
+{920}{}{Você esbarra nos restos de Nagor, que morreu tentar salvar seu cachorro.}
+{921}{}{Nagor morreu tentando arrastar o corpo de seu cachorro de volta pra vila.}
+{930}{}{Auuuuuuuuul!}
+{950}{}{Você gasta um tempo praticando alguns golpes. Sua habilidade corpo-a-corpo aumentou em 5%.}
+{951}{}{O molerat lutador entra para o golpe fatal.}
+{952}{}{A partida acabou.}
+{1000}{}{Você passou no teste para a Cidadania.}
+{1001}{}{Você informou do vício de Jet em Redding para McClure.}
 {1002}{}{You freed up trade with Redding.}
-{1003}{}{You disable the force fields.}
-{1004}{}{You hack into the computer.}
-{1005}{}{You repair the well.}
-{1006}{}{You bring Hakeswill to justice.}
-{1007}{}{You deliver the excavator chip.}
-{1008}{}{You took care of the Widow Rooney problem.}
-{1009}{}{You passed the trials of Arroyo.}
-{1010}{}{You have given Dr. Troy the formula for the antidote.}
-{1011}{}{You have destroyed the reactor.}
-{1012}{}{WARNING! Complete Reactor MELTDOWN!}
-{1013}{}{WARNING! TOXINS released into air ducts.}
-{1014}{}{You clear out the Wanamingo Mine.}
+{1003}{}{Você desarmou o campo de força.}
+{1004}{}{Você invadiu o computador.}
+{1005}{}{Você reparou o poço.}
+{1006}{}{Você levou Hakeswill à justiça.}
+{1007}{}{Você entregou o excavator chip.}
+{1008}{}{Você resolveu o problema do Widow Rooney.}
+{1009}{}{Você passou nos testes de Arroyo.}
+{1010}{}{Você deu ao Dr. Troy a fórmula para o antídoto.}
+{1011}{}{Você destruiu o reator.}
+{1012}{}{ATENÇÃO! Complete Reactor MELTDOWN!}
+{1013}{}{ATENÇÃO! TOXINAS liberadas nos dutos de ar.}
+{1014}{}{Você limpou a Mina Wanamingo.}
 {1015}{}{You lived through the puzzle room.}
-{1016}{}{Oops, I nearly forgot the GECK. I wonder if one might be somewhere around here.}
+{1016}{}{Opa, eu quase me esqueci do GECK. Espero que tenha um por aqui.}
 {1017}{}{The door blasts open from your GECK code.}
-{1018}{}{You wiped out Frog Morton's Gang.}
+{1018}{}{Você acabou com a Gangue do Frog Morton.}
 {1019}{}{You disable the shock plates.}
 {1020}{}{You broke up the bar brawl.}
 {1021}{}{You disabled the Robot Repair Terminal.}
-{1050}{}{You grind the scorpion toxin into antidote.}
-{1051}{}{You mix the xander root and broc flower into healing powder.}
-{1099}{}{The GECK is too valuable to the village for you to just drop it here.}
+{1050}{}{Você fez antídoto a partir da toxina de escorpião.}
+{1051}{}{Você misturou o xander root com broc flower e fez um healing powder.}
+{1099}{}{O GECK é muito valioso para sua vila para você largá-lo aqui.}
 {2000}{}{zero}
-{2001}{}{one}
-{2002}{}{two}
-{2003}{}{three}
-{2004}{}{four}
-{2005}{}{five}
-{2006}{}{six}
-{2007}{}{seven}
-{2008}{}{eight}
-{2009}{}{nine}
-{2010}{}{ten}
-{2011}{}{eleven}
-{2012}{}{twelve}
-{2013}{}{thirteen}
-{2014}{}{fourteen}
-{2015}{}{fifteen}
-{2016}{}{sixteen}
-{2017}{}{seventeen}
-{2018}{}{eighteen}
-{2019}{}{nineteen}
-{2021}{}{twenty-one}
-{2022}{}{twenty-two}
-{2023}{}{twenty-three}
-{2024}{}{twenty-four}
-{2025}{}{twenty-five}
-{2026}{}{twenty-six}
-{2027}{}{twenty-seven}
-{2028}{}{twenty-eight}
-{2029}{}{twenty-nine}
-{2030}{}{thirty}
-{2031}{}{thirty-one}
-{2032}{}{thirty-two}
-{2033}{}{thirty-three}
-{2034}{}{thirty-four}
-{2035}{}{thirty-five}
-{2036}{}{thirty-six}
-{2037}{}{thirty-seven}
-{2038}{}{thirty-eight}
-{2039}{}{thirty-nine}
-{2040}{}{forty}
-{2041}{}{forty-one}
-{2042}{}{forty-two}
-{2043}{}{forty-three}
-{2044}{}{forty-four}
-{2045}{}{forty-five}
-{2046}{}{forty-six}
-{2047}{}{forty-seven}
-{2048}{}{forty-eight}
-{2049}{}{forty-nine}
-{2050}{}{fifty}
-{2051}{}{fifty-one}
-{2052}{}{fifty-two}
-{2053}{}{fifty-three}
-{2054}{}{fifty-four}
-{2055}{}{fifty-five}
-{2056}{}{fifty-six}
-{2057}{}{fifty-seven}
-{2058}{}{fifty-eight}
-{2059}{}{fifty-nine}
-{2060}{}{sixty}
-{2061}{}{sixty-one}
-{2062}{}{sixty-two}
-{2063}{}{sixty-three}
-{2064}{}{sixty-four}
-{2065}{}{sixty-five}
-{2066}{}{sixty-six}
-{2067}{}{sixty-seven}
-{2068}{}{sixty-eight}
-{2069}{}{sixty-nine}
-{2070}{}{seventy}
-{2071}{}{seventy-one}
-{2072}{}{seventy-two}
-{2073}{}{seventy-three}
-{2074}{}{seventy-four}
-{2075}{}{seventy-five}
-{2076}{}{seventy-six}
-{2077}{}{seventy-seven}
-{2078}{}{seventy-eight}
-{2079}{}{seventy-nine}
-{2080}{}{eighty}
-{2081}{}{eighty-one}
-{2082}{}{eighty-two}
-{2083}{}{eighty-three}
-{2084}{}{eighty-four}
-{2085}{}{eighty-five}
-{2086}{}{eighty-six}
-{2087}{}{eighty-seven}
-{2088}{}{eighty-eight}
-{2089}{}{eighty-nine}
-{2090}{}{ninety}
-{2091}{}{ninety-one}
-{2092}{}{ninety-two}
-{2093}{}{ninety-three}
-{2094}{}{ninety-four}
-{2095}{}{ninety-five}
-{2096}{}{ninety-six}
-{2097}{}{ninety-seven}
-{2098}{}{ninety-eight}
-{2099}{}{ninety-nine}
-{2100}{}{one-hundred}
+{2001}{}{um}
+{2002}{}{dois}
+{2003}{}{três}
+{2004}{}{quatro}
+{2005}{}{cinco}
+{2006}{}{seis}
+{2007}{}{sete}
+{2008}{}{oito}
+{2009}{}{nove}
+{2010}{}{dez}
+{2011}{}{onze}
+{2012}{}{doze}
+{2013}{}{treze}
+{2014}{}{quatorze}
+{2015}{}{quinze}
+{2016}{}{dezesseis}
+{2017}{}{dezessete}
+{2018}{}{dezoito}
+{2019}{}{dezenove}
+{2021}{}{vinte e um}
+{2022}{}{vinte e dois}
+{2023}{}{vinte e três}
+{2024}{}{vinte e quatro}
+{2025}{}{vinte e cinco}
+{2026}{}{vinte e seis}
+{2027}{}{vinte e sete}
+{2028}{}{vinte e oito}
+{2029}{}{vinte e nove}
+{2030}{}{trinta}
+{2031}{}{trinta e um}
+{2032}{}{trinta e dois}
+{2033}{}{trinta e três}
+{2034}{}{trinta e quatro}
+{2035}{}{trinta e cinco}
+{2036}{}{trinta e seis}
+{2037}{}{trinta e sete}
+{2038}{}{trinta e oito}
+{2039}{}{trinta e nove}
+{2040}{}{quarenta}
+{2041}{}{quarenta e um}
+{2042}{}{quarenta e dois}
+{2043}{}{quarenta e três}
+{2044}{}{quarenta e quatro}
+{2045}{}{quarenta e cinco}
+{2046}{}{quarenta e seis}
+{2047}{}{quarenta e sete}
+{2048}{}{quarenta e oito}
+{2049}{}{quarenta e nove}
+{2050}{}{cinqüenta}
+{2051}{}{cinqüenta e um}
+{2052}{}{cinqüenta e dois}
+{2053}{}{cinqüenta e três}
+{2054}{}{cinqüenta e quatro}
+{2055}{}{cinqüenta e cinco}
+{2056}{}{cinqüenta e seis}
+{2057}{}{cinqüenta e sete}
+{2058}{}{cinqüenta e oito}
+{2059}{}{cinqüenta e nove}
+{2060}{}{sessenta}
+{2061}{}{sessenta e um}
+{2062}{}{sessenta e dois}
+{2063}{}{sessenta e três}
+{2064}{}{sessenta e quatro}
+{2065}{}{sessenta e cinco}
+{2066}{}{sessenta e seis}
+{2067}{}{sessenta e sete}
+{2068}{}{sessenta e oito}
+{2069}{}{sessenta e nove}
+{2070}{}{setenta}
+{2071}{}{setenta e um}
+{2072}{}{setenta e dois}
+{2073}{}{setenta e três}
+{2074}{}{setenta e quatro}
+{2075}{}{setenta e cinco}
+{2076}{}{setenta e seis}
+{2077}{}{setenta e sete}
+{2078}{}{setenta e oito}
+{2079}{}{setenta e nove}
+{2080}{}{oitenta}
+{2081}{}{oitenta e um}
+{2082}{}{oitenta e dois}
+{2083}{}{oitenta e três}
+{2084}{}{oitenta e quatro}
+{2085}{}{oitenta e cinco}
+{2086}{}{oitenta e seis}
+{2087}{}{oitenta e sete}
+{2088}{}{oitenta e oito}
+{2089}{}{oitenta e nove}
+{2090}{}{noventa}
+{2091}{}{noventa e um}
+{2092}{}{noventa e dois}
+{2093}{}{noventa e três}
+{2094}{}{noventa e quatro}
+{2095}{}{noventa e cinco}
+{2096}{}{noventa e seis}
+{2097}{}{noventa e sete}
+{2098}{}{noventa e oito}
+{2099}{}{noventa e nove}
+{2100}{}{cem}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{If you try that again, I'll have to kill you.}
-{3051}{}{I don't have anything to steal, you idiot.}
-{3052}{}{I don't think we know each other *that* well.}
-{3053}{}{Touch that again and you'll have to pay for it.}
-{3054}{}{Get your hands off of me.}
-{3055}{}{Do that again and I'll rip you head off.}
-{3056}{}{Hands off!}
-{3057}{}{You looking for trouble?}
-{3058}{}{Touch me again and die.}
-{3059}{}{Only trouble is for free.}
-{3060}{}{Hey! Back off.}
-{3061}{}{Watch it!}
-{3062}{}{You look'n ta die?}
-{3063}{}{You try that again, and I'll bust your head.}
-{3064}{}{That's mine; hands off!}
+{3050}{}{Se você tentar fazer isso de novo, eu mato você.}
+{3051}{}{Eu não tenho nada pra ser roubado, seu idiota.}
+{3052}{}{Eu não acho que nos conhecemos *tão* bem.}
+{3053}{}{Toque nisso de novo e você vai pagar caro.}
+{3054}{}{Tire suas mãos de mim}
+{3055}{}{Faça isso de novo e eu corto sua cabeça fora.}
+{3056}{}{Tira a mão!}
+{3057}{}{Está procurando por encrenca?}
+{3058}{}{Toque-me de novo e você morre.}
+{3059}{}{Só problemas são de graça.}
+{3060}{}{Ei! Sai fora.}
+{3061}{}{Cuidado!}
+{3062}{}{Você quer morrer?}
+{3063}{}{Tente isso de novo, e eu quebro sua cara.}
+{3064}{}{Isso é meu; tira a mão!}
 {3075}{}{}
 {3100}{}{}
 {3300}{}{}
-{3325}{}{Why don't you put everything right back where you found it?}
-{3326}{}{You know, it ain't nice to take what's not yours.}
-{3327}{}{Get away from there, punk!}
-{3328}{}{Now don't go telling me you're "just looking for your keys." Get outta here!}
-{3329}{}{Whatever you're looking for, it ain't there. Understand?}
+{3325}{}{Por que você não coloca tudo de volta no lugar onde achou?}
+{3326}{}{Sabe, não é legal pegar o que não é seu.}
+{3327}{}{Sai fora daí, punk!}
+{3328}{}{Não venha me dizer que você "só está procurando pelas suas chaves." Saia daqui!}
+{3329}{}{Seja lá o que estiver procurando, não está aí. Entendeu?}
 {3350}{}{}
 {3375}{}{}
 {3400}{}{}
 {3600}{}{}
-{3625}{}{Hey, you! What're you poking around that for?}
-{3626}{}{If you ain't got a key in you hand, you'd better be stepping away.}
-{3627}{}{It's locked for a reason, punk.}
-{3628}{}{Knock it off before there's trouble!}
+{3625}{}{Ei, você! Por que está bisbilhotando aí?}
+{3626}{}{Se você não tiver uma chave nas mãos, é melhor sai daí.}
+{3627}{}{Está trancado por alguma razão, punk.}
+{3628}{}{Saia daí antes que haja problemas pra você!}
 {3650}{}{}
 {3675}{}{}
 {3700}{}{}
 {3900}{}{}
-{3925}{}{Hey you! What're you doing there?}
-{3926}{}{You're not supposed to be here!}
-{3927}{}{If you think you're just walking by me, you can forget that!}
-{3928}{}{You better not be planning what I think you're planning, stranger.}
-{3929}{}{What? Like you think I don't notice you? Get outta here!}
+{3925}{}{Ei, você! O que está fazendo aí?}
+{3926}{}{Você não deveria estar aqui!}
+{3927}{}{Se acha que pode simplesmente andar nas minhas costas, pode esquecer!}
+{3928}{}{É melhor não estar planejando no que eu acho que está planejando, forasteiro.}
+{3929}{}{O quê? Pensa que não o notei? Saia daqui!}
 {3950}{}{}
 {3975}{}{}
 {4000}{}{}
@@ -235,11 +235,11 @@
 {5150}{}{}
 {5175}{}{}
 {5200}{}{}
-{5400}{}{Stay away from there.}
-{9000}{}{Repairs Complete.}
-{9001}{}{Rearming Complete.}
-{9002}{}{Repairing Structural Damage.}
-{10000}{}{Tell me something.}
+{5400}{}{Fique longe daí.}
+{9000}{}{Reparos Completos.}
+{9001}{}{Rearmar Completo.}
+{9002}{}{Reparando Danos Estruturais.}
+{10000}{}{Diga-me uma coisa.}
 {10001}{}{Você deve curar-se agora.}
 {10002}{}{Eu preciso que você espere aqui até eu voltar.}
 {10003}{}{Coloque sua arma de distância.}
@@ -247,16 +247,16 @@
 {10005}{}{Não fique muito longe.}
 {10006}{}{Devemos espalhar um pouco.}
 {10007}{}{É isso por agora.}
-{10008}{}{We need to change our distance from one another.}
-{10009}{}{I need to talk to you about your gear.}
-{10010}{}{On second thought, I think this distance is OK for now.}
-{10011}{}{Actually, I guess there's nothing I need to really know right about your gear.}
-{10012}{}{I need you to remove the armor that you're wearing.}
-{10013}{}{I need to know what kind of weapons you can use.}
+{10008}{}{Nós precisamos mudar a distância entre nós.}
+{10009}{}{Eu preciso falar com você sobre seu equipamento.}
+{10010}{}{Pensando bem, acho que a distância está boa por enquanto.}
+{10011}{}{Na verdade, acho que não tem nada que eu precise saber agora sobre seu equipamento.}
+{10012}{}{Eu preciso que você remova essa armadura que está vestindo.}
+{10013}{}{Eu preciso saber que tipo de armas você pode usar.}
 {10100}{}{Vamos lá.}
 {20000}{}{Isto não faz nada.}
-{20100}{}{There is no lock on this door.}
-{21020}{}{twenty}
-{30000}{}{You have stolen from your own tribe.}
-{40000}{}{Slot Jinxer}
-{40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}
+{20100}{}{Não há bloqueio nesta porta.}
+{21020}{}{vinte}
+{30000}{}{Você roubou de sua própria tribo.}
+{40000}{}{Slot de Jinxer}
+{40001}{}{Graças a um pequeno e corajoso aparelho de cozinha, você descobre um caminho secreto para fazer máquinas caça-níqueis expelir todo o seu dinheiro. Pena que a máquina quebrou no processo. Gritos!}

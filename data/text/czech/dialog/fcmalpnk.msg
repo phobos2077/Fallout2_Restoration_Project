@@ -12,12 +12,12 @@
 {111}{}{Nìkdy mì ten svìtovej cynismus nudí.}
 {112}{}{Pøíštì chci najít kmen Gótù.}
 {113}{}{Vidìl jsem Selmy a Barru jak se poprali hned vedle schodù.}
-{114}{}{Slyšel jsem, že je Císaø Shi nelidsky chytrej.}
-{115}{}{Ti Shi vypadají opravdu legraènì.}
-{116}{}{Jsem nepøedpojatej, víš?}
+{114}{}{Slyšela jsem, že je Císaø Shi nadpøirozenì chytrej.}
+{115}{}{Ti Shi vypadaj hroznì legraènì.}
+{116}{}{Jsem nepøedpojatá?}
 {117}{}{Podìlím se s tebou o svoji holku, když se ty podìlíš o tu svoji.}
-{118}{}{Podívej se na ty nový pankáèe. Takoví pozéøi.}
-{119}{}{AHS-9 nás podvedl a podvede i tebe, když se necháš.}
+{118}{}{Podívej na všechny ty nový pankáèe. Takoví pozéøi.}
+{119}{}{AHS-9 nás podvedl a tebe podvede taky, jestli mu to dovolíš.}
 {120}{}{Ovce. Nejseš nic jinýho než vraždící ovce.}
 {121}{}{Øekni tìm parchantùm Hubologistùm, že se nikdy nevzdáme.}
 {122}{}{Nikdy nepøejdu k Hubu.}
@@ -25,8 +25,8 @@
 {124}{}{Cožpak si nikdy neuvìdomìj, že zabitím našeho "vùdce" z nás neudìlá jejich následovníky?}
 {125}{}{Jseš kretén.}
 {126}{}{Bééé! Bééé!}
-{127}{}{Tak jaký to bylo dostat pøes hubu od mutanta?}
-{128}{}{Ublížil ti ten velkej silnej mutant Francis?}
+{127}{}{Tak jaký to bylo s mutantem?}
+{128}{}{Ublížil ti ten silnej mutant Francis?}
 {129}{}{Pohrál si s tebou Francis?}
 {130}{}{Francis je poøádnì velkej chlap.}
 {131}{}{Starej velkej Francis, co?}
@@ -37,8 +37,8 @@
 {136}{}{To jseš opravdu takovej kretén?}
 {137}{}{Klidnì obìtuješ našeho starýho Chipa, co?}
 {138}{}{Chudák Chip.}
-{139}{}{Jé, podívej. To je "hrdina".}
-{140}{}{Podívejte. To je ten sobeckej kretén!}
+{139}{}{Á, podívejme, to je náš "hrdina".}
+{140}{}{Hej, všichni! To je ten sobeckej kretén!}
 {141}{}{Nikdo s tebou teï nechce mluvit.}
 {142}{}{Ty, co nenávidíš Chipa!}
 {143}{}{Mùžu pro tebe nìco udìlat? Máš smùlu!}

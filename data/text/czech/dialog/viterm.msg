@@ -1,6 +1,6 @@
 {100}{}{Terminál je nyní offline.}
 {101}{}{Vložení kódu 3... P... C... F... 1...6.}
-{102}{}{*Pííp*}
+{102}{}{*Píp*}
 {103}{}{Pohotovostní lékaøský automat aktivován.}
 {104}{}{*Žuch*}
 {105}{}{Prosím odeberte Stimpaky ze spodního zásobníku.}

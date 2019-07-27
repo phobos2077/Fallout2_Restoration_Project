@@ -1,3 +1,3 @@
 {100}{}{Você vê Joshua.}
-{101}{}{You see a scruffy-haired young man with a sheepish smile.}
-{102}{}{Thanks for bailing me out. I appreciate it. Me and the wife'll be moving on soon.}
+{101}{}{Você vê um jovem de cabelo despenteado com um sorriso tímido}
+{102}{}{Obrigado por conseguir a minha fiança. Eu sou grato por isso. Eu e minha esposa mudaremos daqui em breve.}

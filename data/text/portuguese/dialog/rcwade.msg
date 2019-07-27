@@ -15,7 +15,7 @@
 {111}{}{You need a guard, huh?}
 {112}{}{What does this caravan transport?}
 {113}{}{Why are you waiting until the 1st?}
-{114}{}{I don't think that's for me. Goodbye.}
+{114}{}{Não acho que isso seja pra mim. Tchau.}
 {115}{}{Seems like it gets harder every trip. }
 {116}{}{Hah! They shoulda known better than to try to attack my caravan.}
 {117}{}{Good thing you're along this trip.}

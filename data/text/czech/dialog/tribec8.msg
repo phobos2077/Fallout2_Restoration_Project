@@ -1,22 +1,18 @@
 {100}{}{Vidíš rybáøe.}
 {101}{}{Vidíš rybáøku.}
-
 {102}{}{Má naostøenou tyè, kterou používá k rybaøení.}
-{103}{}{Zdá se, že je zaneprázdnìna vaøením.}
-{104}{}{Zdravím.}
-
-
+{103}{}{Zdá se, že má plné ruce práce s vaøením.}
+{104}{}{Buï zdráv.}
 {200}{}{Nechceme tì tu.}
 {201}{}{Duchové tì nemají rádi.}
 {202}{}{Jdi pryè, cizinèe.}
-{203}{}{Proè nás otravuješ?}
+{203}{}{Proè nás trápíš?}
 {204}{}{Vítej, pøíteli.}
-{205}{}{Pøivítáme tì vždy s otevøenou náruèí.}
-{206}{}{Duchové tì vítají mezi námi.}
-{207}{}{Dìkujeme ti, že nám pomáháš.}
-{208}{}{Myslel jsem si, že jsou všichni cizinci zlí. Není tomu tak...}
+{205}{}{Vždy tì tu uvítáme.}
+{206}{}{Duchové tì uznávají jako èlena našeho kmene.}
+{207}{}{Dìkuji za pomoc.}
+{208}{}{Myslel jsem, že jsou cizinci zlí. Není tomu tak...}
 {209}{}{Nedìlej to.}
-
 {300}{}{Promiò, že ruším, ale mùžeš pro mì nìco udìlat? Mám nìjakou práci a nevím, jestli tady ten hrnec mùžu nechat bez dozoru.}
 {301}{}{Jistì. Co potøebuješ?}
 {302}{}{Taky mám nìco na práci. Možná pozdìji.}
@@ -39,17 +35,10 @@
 {319}{}{Jistì. Co potøebuješ?}
 {320}{}{Ne, poøád nemám èas. Nashle.}
 {321}{}{Ne a ani nepomùžu. Vyøeš si svoje problémy sama. Nashle.}
-
-#added in RP 1.3 - Node004
 {330}{}{Ty je nepotøebuješ? Tak proè jsi mi je nedala hned? [Zamumlat] Krávo blbá.}
-
-#dumb dialogue
 {400}{}{Co ty potøebovat?}
 {401}{}{Ooo! Udìlat mi oblíbený jídlo!}
-
 {410}{}{Já podívat.}
 {411}{}{Mám kládu. Hehe... kládu.}
-
 {420}{}{To dobøe. Naskle!}
-
 {500}{}{Hnusný otrokáø!}

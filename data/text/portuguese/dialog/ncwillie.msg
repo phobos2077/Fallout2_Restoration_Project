@@ -1,27 +1,27 @@
-{100}{}{You see Coffin Willie.}
-{150}{}{You see an old, stinky, crusty ghoul. And boy, does he SMELL.}
-{200}{}{Whoa. This grave SMELLS.}
+{100}{}{Você vê o Coffin Willie.}
+{150}{}{Você vê um ghoul velho, fedorento e ríspido. E cara, ele FEDE.}
+{200}{}{Whoa. Esse túmulo FEDE.}
 {201}{}{Oh, well... better keep digging.}
-{202}{}{What th-?}
-{203}{}{About friggin' time! Could you dig any SLOWER, idjit?}
-{204}{}{Outta my way, smoothie.}
-{205}{}{D'dad?}
-{206}{}{Not now, Lenny, I ain't in th' mood to be talkin'.}
-{300}{}{Jest pop inta Reno fer a lil' drinking n' whoring, n' damned smoothies jam me inna goddamn grave...}
-{301}{}{Good thing I ain't got no nose, or I woulda choked on my own stink.}
-{302}{}{Ghouls don't get no damn r'spect.}
-{303}{}{Just stopped in the city for a drink, n' those Reno assholes bury me alive.}
-{304}{}{Nothing more boring than bein' in a coffin for months.}
-{305}{}{Hands off, smoothie. I got places to go.}
-{306}{}{Get your smoothie mitts offa me, smoothie.}
-{500}{}{The headstone reads: "Here lies the dumbest son of a bitch ever to set foot in New Reno."}
-{550}{}{There's a horrible odor flowing from the grave.}
+{202}{}{Que po-?}
+{203}{}{Sobre a porra do tempo! Você pode cavar mais DEVAGAR, seu idiota?}
+{204}{}{Sai da minha frente, smoothie.}
+{205}{}{P..pai?}
+{206}{}{Agora não, Lenny, eu não tô disposto pra conversar.}
+{300}{}{Tava em Reno tomando umas quando os malditos smoothies me jogaram nessa merda de túmulo…}
+{301}{}{Graças a Deus eu não tenho nariz, ou me sufocaria com o meu próprio cheiro.}
+{302}{}{Não existe nenhuma porra de respeito com os Ghouls.}
+{303}{}{Só tinha parado pra tomar uma bebida, e esses filhos da puta de Reno me enterraram vivo.}
+{304}{}{Nada mais entediante do que ficar tossindo durante meses.}
+{305}{}{Tire suas mãos de mim, smoothie. Eu tenho que ir para um lugar.}
+{306}{}{Tire suas mãos lisas de mim, smoothie.}
+{500}{}{Na lápide está escrito: "Aqui está o filho da puta mais burro que já pisou em New Reno."}
+{550}{}{Um cheiro horrível está saindo desse túmulo.}
 {600}{}{Hey!}
-{601}{}{I ken hear someome movin' round out there!}
-{602}{}{Don't step onna grave! It packs the dirt in!}
-{603}{}{Quick, GET A SHOVEL!}
-{604}{}{Would somebody dig me up already? I need a drink!}
-{605}{}{That a worm I feel? Oh... nevermind.}
+{601}{}{Eu to escutando alguém aí fora!}
+{602}{}{Não pisa no túmulo! Ta cheio de sujeira aqui!}
+{603}{}{Rápido, PEGUE UMA PÁ!}
+{604}{}{Alguém pode me desenterrar? Eu preciso de uma bebida!}
+{605}{}{Estou sentindo uma minhoca? Ah...esquece.}
 {700}{}{Ug, smellie in hole.}
 {701}{}{Me dig more for smellie shinies.}
 {702}{}{Huh, You not shini-!?}

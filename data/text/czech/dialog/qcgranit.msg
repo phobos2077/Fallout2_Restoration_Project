@@ -8,13 +8,13 @@
 {107}{}{Odprásknem to monstrum!}
 {108}{}{Uškvaøíme ho.}
 {109}{}{Mùžeme jít.}
-{110}{}{Pøipraven na bitku!}
+{110}{}{Jdeme na to!}
 {111}{}{Já toho parchanta oddìlám!}
 {112}{}{Idioty nezabíjím.}
 {113}{}{Mùžeš jít.}
 {114}{}{Nic jsem nevidìl.}
 {115}{}{Tohle nejsou ti droidi, který hledáme.}
-{116}{}{Jdi dál.}
+{116}{}{Táhni odsud.}
 {117}{}{Už mì to zabíjení unavuje.}
 {118}{}{No tak, jdem!}
 {119}{}{Buïte v klidu, chlapi.}
@@ -22,7 +22,7 @@
 {121}{}{Hodnì štìstí, mutante. Budeš ho potøebovat.}
 {122}{}{Stùj! Co tady dìláš?}
 {123}{}{Snažím se dostat ke svým lidem.}
-{124}{}{To není tvoje vìc.}
+{124}{}{Do toho ti nic není.}
 {125}{}{Nemám èas na tvoje otázky.}
 {126}{}{Kdo vlastnì jsi?}
 {127}{}{No, víš, zrovna tudy prošel agent Horrigan. Èeká na ty, co odsud chtìjí zdrhnout.}

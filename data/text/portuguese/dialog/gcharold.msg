@@ -192,32 +192,32 @@
 {291}{}{That really hurts.}
 {292}{}{That's got to hurt.}
 {293}{}{Eu não sei nada sobre isso.}
-{294}{}{Yes}
-{295}{}{No}
+{294}{}{Sim}
+{295}{}{Não}
 {296}{}{Why do you talk to me this way?}
 {297}{}{You're not nice.}
 {298}{}{Thank you. }
-{299}{}{This is good.}
-{300}{}{This isn't good.}
+{299}{}{Isso ser bom.}
+{300}{}{Isso não ser bom.}
 {301}{}{I have a good feeling about this.}
 {302}{}{I have a bad feeling about this.}
-{303}{}{These people are crazy.}
+{303}{}{Essas pessoas ser loucas.}
 {304}{}{I didn't learn anything.}
 {305}{}{I learned something}
 {306}{}{Is everyone else crazy here?}
-{307}{}{There must be another way.}
+{307}{}{Deve ter outro caminho.}
 {308}{}{Siga-me.}
-{309}{}{Try this.}
+{309}{}{Tenta isso.}
 {310}{}{Venha aqui.}
 {311}{}{I'm scared.}
 {312}{}{I'm worried.}
 {313}{}{I found something.}
 {314}{}{I got lucky.}
-{315}{}{You need to fix this.}
-{316}{}{You need to turn this on.}
-{317}{}{You need to unlock this.}
-{318}{}{You need to open this.}
-{319}{}{Maybe we should come back here.}
+{315}{}{Você precisar consertar isso.}
+{316}{}{Você precisar ligar isso.}
+{317}{}{Você precisa destrancar isso.}
+{318}{}{Você precisa abrir isso.}
+{319}{}{Talvez nós deve voltar aqui.}
 {320}{}{No, lie. I'll make sure the reactor gets fixed. One way or another. Hmm,
  I wonder if I can get Festus to do it. Oh well, goodbye for now.}
 {321}{}{Hey Harold, I got that part you need to fix your reactor. I am going to go and try to get it installed in the reactor. I'll report back when I am done. Bye.}

@@ -25,7 +25,7 @@
 {400}{}{I'm busy. Go see Metzger in the Den if you want to do a run.}
 {450}{}{Didn't I tell you to scram? We don't take too kindly to trespassers. Time to die.}
 {500}{}{[FEITO]}
-{600}{}{Now you die!}
+{600}{}{Agora é a hora que você vai morrer!}
 {601}{}{Die Ranger scum!}
 {800}{}{Umm... Give Metzger my regards.}
 {900}{}{No, actually, he sent me to have a look at your stock. You see, I have very particular tastes, but I'm willing to

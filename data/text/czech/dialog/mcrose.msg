@@ -1,7 +1,6 @@
 {100}{}{Vidíš pøíjemnou baculatou ženu.}
 {101}{}{Vidíš Rózu.}
 {102}{}{Její šedé vlasy jsou stažené do drdolu a pøi chùzi se trochu kolébá. Nemùžeš si pomoct, ale cítíš se v její pøítomnosti uvolnìnì.}
-
 {150}{}{Je mi líto, ale máme zavøeno. Došlo k úmrtí v rodinì. (smrk)}
 {151}{}{Hej! Do krabice ztrát a nálezù smím jenom já.}
 {152}{}{Zaèínám si myslet, že jsi zlodìj!}
@@ -62,7 +61,7 @@
 {211}{}{Z èeho je ten pes-burger?}
 {212}{}{Ach ne! Vy jste mluvil s mým manželem Corneliem, že? Celá ta vìc s jeho hodinkami je hrozná. Celé mìsto si myslí, že mu je sebral Corneliùv nejlepší pøítel Farrel. Možná víte o tom, že Farrel není tak úplnì psychicky v poøádku. Jsem si témìø jistá, že je ten chudák jen nìkde zapomnìl, ale neví kde.}
 {213}{}{Jestli už je to všechno, tak já pùjdu obsluhovat další zákazníky.}
-{214}{}{Mùžu mít ještì pár dotazù?}
+{214}{}{Mùžu se ještì na nìco zeptat?}
 {215}{}{Chvileèku. Mám poøád hlad.}
 {216}{}{Øíkáte GECK? Ne, neslyšela. Znám jeden dobrý recept na omáèku ze tøí geckonù, ale nikdy jsem neslyšela o GECKu.}
 {217}{}{(Oklepe se hrùzou.) Tam nechoïte! Od cestovatelù jsem slyšela, že tam jsou hnijící tìla nabodnutá na sloupy a v noci se tam pohybují svìtélkující stíny. Nevím, kolik z toho je pravda, ale vím, že tam Karl kdysi odešel a už ho nikdo nevidìl.}
@@ -77,5 +76,4 @@
 {229}{}{Mám opravdu velký hlad, takže mi ukažte, co máte k jídlu.}
 {230}{}{Škoda, že si nemùžu dát vaše vìhlasné omelety. Asi zùstanu o hladu.}
 {231}{}{Aáá! Safra!}
-
 {300}{}{(Rychle se vrátí se sklenicí nahnìdlé tekutiny. Zdá se, že je ve sklenici víc špíny než vody, ale máš takovou žízeò, že to stejnì vypiješ.) Pøinesla jsem ti k tomu sušenku, zlato.}

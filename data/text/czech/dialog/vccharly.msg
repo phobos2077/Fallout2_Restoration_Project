@@ -13,11 +13,11 @@
 {112}{}{Díky, ale jsem v poøádku, opravdu. Ten RadAway mi pomohl.}
 {113}{}{Nacházíš žílu a skrz ní píchneš RadAway Charliemu do tìla.}
 {114}{}{*Urhkkkk*...}
-{115}{}{3 Vteøiny}
+{115}{}{-- 3 vteøiny --}
 {116}{}{Unhhhhh... *škyt* *škyt*...}
-{117}{}{3 Vteøiny}
+{117}{}{-- 3 vteøiny --}
 {118}{}{Hrnnhhhh... eh... ahhhhh}
-{119}{}{3 Vteøiny}
+{119}{}{-- 3 vteøiny --}
 {120}{}{Co se stalo? Cítím se mnohem líp.}
 {121}{}{Podaøilo se ti vyléèit Charlieho.}
 {122}{}{*Errhhhhhh*}
@@ -26,7 +26,7 @@
 {125}{}{*Urhkkkk*}
 {126}{}{To je naposled, co jsem pil tu zatracenou vodu v tomhle mìstì, to je jistý.}
 {127}{}{Jsem pøekvapenej, že už nesvítím...}
-{128}{}{Bezva, ten RadAway mì docela rozhejbal...}
+{128}{}{Bezva, ten RadAway mì zase rozhejbal...}
 {129}{}{Díky, venkovane. Vážím si tvý pomoci... nemùžu si totiž dovolit Auto-Dok.}
 {130}{}{Chtìl bych se ti odmìnit, ale nemám ani vyndru.}
 {131}{}{To je naposled, co jsem pil tu zatracenou vodu v tomhle mìstì, to je jistý.}

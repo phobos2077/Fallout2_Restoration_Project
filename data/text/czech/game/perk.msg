@@ -1,9 +1,3 @@
-#
-#   Messages from perk.c
-#
-#
-#   PERK NAMES
-#
 {101}{}{Všímavı}
 {102}{}{Bonus rychl. v boji zblízka}
 {103}{}{Bonus pošk. v boji zblízka}
@@ -21,7 +15,7 @@
 {115}{}{Ostrostøelec}
 {116}{}{Tichošlápek}
 {117}{}{Mistr v pøeití}
-{118}{}{Mistr obchodník}
+{118}{}{Mistr obchodnice}
 {119}{}{Vzdìlanec}
 {120}{}{Léèitel}
 {121}{}{Zlatokop}
@@ -40,7 +34,7 @@
 {134}{}{Mistr zlodìj}
 {135}{}{Øeèník}
 {136}{}{Vrhaè}
-{137}{}{ERROR -- UNIMPED}  # was -- Friendly Foe
+{137}{}{ERROR -- UNIMPED}
 {138}{}{Kapsáø}
 {139}{}{Duch}
 {140}{}{Kult osobnosti}
@@ -62,21 +56,21 @@
 {156}{}{Závislost na Mentats}
 {157}{}{Závislost na Psycho}
 {158}{}{Závislost na Radaway}
-{159}{}{Zbraò s dlouhım dosahem}
-{160}{}{Pøesnost zbranì}
-{161}{}{Penetrace zbranì}
-{162}{}{Zbraò nepøítele povalí}
-{163}{}{Energo zbroj}
+{159}{}{Zbraò s dlouhım dosahem. Šance na zásah zvıšena o (VN-2)*8}
+{160}{}{Pøesnost zbranì. Šance na zásah zvıšena o 20%.}
+{161}{}{Penetrace zbranì. Sniuje TZ o 80%.}
+{162}{}{Zbraò nepøítele povalí.}
+{163}{}{Energo zbroj. +3 SÍ +30 Odol. p. radiaci (moné další efekty)}
 {164}{}{Kevlarová zbroj}
-{165}{}{Zbraò s optikou}
-{166}{}{Zbraò s rychlonabíjeèem}
-{167}{}{Zbraò s infrahledem}
-{168}{}{Zbraò nepøítele zapálí}
-{169}{}{Zdokonalená zbroj I}
-{170}{}{Zdokonalená zbroj II}
+{165}{}{Zbraò s optikou. Šance na zásah zvıšena o (VN-2)*12.}
+{166}{}{Zbraò s rychlonabíjeèem. Nabíjení trvá pouze jeden Akèní bod (namísto dvou).}
+{167}{}{Zbraò s infrahledem. Odstraòuje penalizaci šance na zásah ve tmì.}
+{168}{}{Zbraò nepøítele zapálí. Zaruèenì zobrazí tu nejbrutálnìjší animaci smrti.}
+{169}{}{Zdokonalená zbroj I. +4 SÍ +60 Odol. p. radiaci (moné další efekty)}
+{170}{}{Zdokonalená zbroj II. +4 SÍ + 75 Odol. p. radiaci (moné další efekty)}
 {171}{}{Závislost na Jetu}
 {172}{}{Závislost na høe Tragic}
-{173}{}{Zbroj pøidává charisma}
+{173}{}{Zbroj pøidává +2 CH. (not used by any armor).}
 {174}{}{Stahování geckonù}
 {175}{}{Podkoní implantáty}
 {176}{}{Podkoní implantáty Mark II }
@@ -108,7 +102,7 @@
 {202}{}{Pyromaniak}
 {203}{}{Vstaváèek}
 {204}{}{Obchodní cestující}
-{205}{}{Tvrïák}
+{205}{}{Kamenná Stìna}
 {206}{}{Zlodìj}
 {207}{}{Zacházení se zbranìmi}
 {208}{}{Trénink z Vault City}
@@ -121,15 +115,10 @@
 {215}{}{Sníení hit bodù AutoDokem}
 {216}{}{Sníení hit bodù AutoDokem II}
 {217}{}{Expert Expedice Exkrementù}
-{218}{}{Zbraò nepøítele omráèí}
+{218}{}{Zbraò nepøítele omráèí. All critical hits cause knockout in addition to their regular effects. Characters with 9 ST have a 1% chance of causing knockout on a regular hit. Characters with 10 ST have a 2% chance of causing knockout on a regular hit. Not used by any weapons in the unmodded game.}
 {219}{}{Poznamenanı}
 {220}{}{Alkoholik}
 {221}{}{Kuøák}
-
-
-#
-#   PERK DESCRIPTIONS
-#
 {1101}{}{Všímáš si více detailù o lidech kolem tebe. Kdy nìkoho prozkoumáš, díky perku "Všímavost" se o nìm dozvíš více podrobnìjších informací. Zjistíš èím je ozbrojen i pøesnı poèet jeho hit bodù.}
 {1102}{}{Buï jsi studoval tajná bojová umìní Vıchodu nebo prostì jen dokáeš udeøit rychleji. V kadém pøípadì tì tvoje údery pøi boji zblízka stojí o 1 akèní bod ménì.}
 {1103}{}{Tvoje zkušenosti v boji zblízka z tebe udìlaly pìknì ostrého protivníka. Za kadı stupeò tohoto perku zpùsobíš soupeøi pøi boji beze zbranì a pøi boji s chladnımi zbranìmi o 2 body poškození navíc.}
@@ -193,7 +182,7 @@
 {1161}{}{Penetrace zbranì. Sniuje TZ o 80%.}
 {1162}{}{Zbraò nepøítele povalí.}
 {1163}{}{Energo zbroj. +3 SÍ +30 Odol. p. radiaci (moné další efekty)}
-{1164}{}{Kevlarová zbroj. +20 Odol. p. radiaci (moné další efekty)}
+{1164}{}{Kevlarová zbroj}
 {1165}{}{Zbraò s optikou. Šance na zásah zvıšena o (VN-2)*12.}
 {1166}{}{Zbraò s rychlonabíjeèem. Nabíjení trvá pouze jeden Akèní bod (namísto dvou).}
 {1167}{}{Zbraò s infrahledem. Odstraòuje penalizaci šance na zásah ve tmì.}
@@ -204,48 +193,48 @@
 {1172}{}{Cítíš neodolatelné nutkání otevøít další krabièku "Tragic" karet.}
 {1173}{}{Zbroj pøidává +2 CH. (not used by any armor).}
 {1174}{}{Víš, jak správnì stáhnout geckona, aby se nepoškodila jeho kùe.}
-{1175}{}{Pro zvıšení své odolnosti vùèi fyzickému útoku máš voperovány podkoní implantáty.}     # Dermal Impact Armor
-{1176}{}{Pro zvıšení své odolnosti vùèi fyzickému útoku máš voperovány zesílené podkoní implantáty.}  # Dermal Impact Assault Enhancement
-{1177}{}{Tyto implantáty zvyšují tvou odolnost vùèi všemi druhùm energetickıch útokù.}     # Phoenix Armor Implants
-{1178}{}{Tyto zesílené implantáty zvyšují tvou odolnost vùèi všemi druhùm energetickıch útokù.}  # Phoenix Assault Enhancement
-{1179}{}{Získáváš +10% odolnost vùèi jedùm a radiaci.}  # Vault City Inoculations
-{1180}{}{S tímto perkem získáváš +1 SÍLA, kdykoliv klesneš pod 1/2 svého maxima hit bodù.}  # Adrenaline Rush
-{1181}{}{Jsi velmi opatrnı a nepøátelé se k tobì nemohou nepozorovanì pøiblíit. S tímto perkem získáš +3 ke svému VNÍMÁNÍ v náhodnıch setkáních, kdy se rozhoduje o rozmístìní protivníkù.}  # Cautious Nature
-{1182}{}{Jsi pozornı a kdy nìco studuješ, všimneš si rùznıch detailù. Pøi ètení knih získáváš k pøíslušné schopnosti o 1/2 víc procent ne ostatní.}  # Comprehension
-{1183}{}{Jsi expert na zacházení s vıbušninami. Vdy vybuchnou (kdy se to od nich ádá) a vdy jsou extra úèinné.}  # Demolition Expert
-{1184}{}{Hazard je pro tebe vším. Získáváš +20% ke své schopnosti "Hazardní hry".}  # Gambler
-{1185}{}{Tento perk ti pøidá +1 ke tvé SÍLE.}     # Gain Strength
-{1186}{}{Tento perk ti pøidá +1 ke tvému VNÍMÁNÍ.}   # Gain Perception
-{1187}{}{Tento perk ti pøidá +1 ke tvé ODOLNOSTI.}    # Gain Endurance
-{1188}{}{Tento perk ti pøidá +1 ke tvému CHARISMA.}     # Gain Charisma
-{1189}{}{Tento perk ti pøidá +1 ke tvé INTELIGENCI.} # Gain Intelligence
-{1190}{}{Tento perk ti pøidá +1 ke tvé HBITOSTI.}      # Gain Agility
-{1191}{}{Tento perk ti pøidá +1 ke tvému ŠTÌSTÍ.}         # Gain Luck
-{1192}{}{Tvoje nevinná tváøièka ti pomáhá lépe okrádat lidi. Získáváš 20% ke své schopnosti "Kradení".}  # Harmless
-{1193}{}{Tento perk tì okamitì povıší o jednu zkušenostní úroveò.}  # Here and Now
-{1194}{}{Máš-li obì ruce prázdné, pøidá ti na konci tvého tahu kadı nevyuitı akèní bod ke tvé Tøídì zbroje +2, namísto +1 jako tomu bylo pøedtím. Plus získáš 1/12 ke své schopnosti "Boj beze zbranì".}  # HtH Evade
-{1195}{}{O zpùsobech, jak si uívat s druhım pohlavím, dokáeš napsat celou knihu.}  # Kama Sutra Master
-{1196}{}{Tvá karma záøí obzvláš silnì. A udìláš cokoliv (dobrého nebo špatného), získáš dvojnásobné mnoství karmy ne normálnì.}  # Karma Beacon
-{1197}{}{Jsi rychlı, opatrnı a máš kliku. Tento perk zvyšuje tvoje šance na odstranìní všech druhù pastí.}  # Light Step
-{1198}{}{Máš velmi dobrı pøehled o anatomii a o silnıch i slabıch stránkách rùznıch druhù ivoèichù. Získáváš jednorázovı bonus +10% ke své schopnosti "Léèení" a pøi útoku na ivé tvory je tvé poškození zvıšeno o +5.}  # Living Anatomy
-{1199}{}{Získáváš 1 extra místo ke svému limitu poètu parákù. Ale nezapomeò, e víc ne 5 znamená vdycky tlaèenici.}  # Magnetic Personality
-{1200}{}{Jsi velmi schopnı vyjednávaè. Pøesnì ten typ, o kterém se øíká, e "dokáe vymámit z jalové krávy tele". Tento perk ti pøidává +10% ke schopnostem "Obchodování" a "Øeè".}  # Negotiator
-{1201}{}{Umíš si své vìci dobøe poskládat a uspoøádat a to ti umoòuje nosit jich u sebe o nìco víc.}  # Pack Rat
-{1202}{}{S hoølavinami a zbranìmi zaloenımi na této bázi umíš obzvláš dobøe zacházet. Dá se o tobì øíct, e "máš oheò v tìle". Tvoji nepøátelé ho poté obvykle mívají na tìle.}  # Pyromaniac
-{1203}{}{Jsi-li sraen k zemi, umíš se rychle otøepat a vstát. Rocky a Rambo ti mùou jen z dálky závidìt!}  # Quick Recovery
-{1204}{}{Jsi mistr smlouvání. Tento perk ti pøidává +20% ke tvé schopnosti "Obchodování".}  # Salesman
-{1205}{}{V boji tì jen tak nìkdo k zemi nesrazí!}  # Stonewall
-{1206}{}{Tvımi ilami proudí krev pravého lupièe. S tímto perkem získáváš jednorázovı bonus +10% ke svım schopnostem "Plíení", "Páèení zámkù", "Kradení" a "Pasti a vıbušniny".}  # Thief
-{1207}{}{Umíš svoje bouchaèky obzvláš dobøe ovládat. Kdykoliv manipuluješ se zbraní, získáváš +3 ke své SÍLE.}  # Weapon Handling
-{1208}{}{Absolvoval jsi lékaøskı vıcvik ve Vault City.}  # Vault City Training
-{1209}{}{Èastou a pravidelnou konzumací kvalitního alkoholu se ti zvıšilo mnoství tvıch Hit bodù.}  # Alcohol Enhanced hit points
-{1210}{}{Èastou a pravidelnou konzumací kvalitního alkoholu se ti ještì o trochu zvıšilo mnoství tvıch Hit bodù.}  # Alcohol Enhanced hit points II
-{1211}{}{Opakovanou opilostí se ti sníilo celkové mnoství tvıch Hit bodù. Blahopøeju!}  # Alcohol Lowered hit points
-{1212}{}{Opakovanou opilostí se ti ještì o trochu sníilo celkové mnoství tvıch Hit bodù. No, pìknì to vedeš!}  # Alcohol Lowered hit points II
-{1213}{}{Opakovanım pouíváním AutoDoku se ti zvıšilo celkové mnoství tvıch Hit bodù.}  # Autodoc Enhanced hit points !!! Seraph's Fix: changed 1209 to 1213
-{1214}{}{Opakovanım pouíváním AutoDoku se ti ještì o trochu zvıšilo celkové mnoství tvıch Hit bodù.}  # Autodoc Enhanced hit points II !!! Seraph's Fix: changed 1210 to 1214
-{1215}{}{Opakovanım pouíváním AutoDoku se ti sníilo celkové mnoství tvıch Hit bodù.}  # Autodoc Lowered hit points !!! Seraph's Fix: changed 1211 to 1215
-{1216}{}{Opakovanım pouíváním AutoDoku se ti ještì o trochu sníilo celkové mnoství tvıch Hit bodù.}  # Autodoc Lowered hit points II !!! Seraph's Fix: changed 1212 to 1216
+{1175}{}{Pro zvıšení své odolnosti vùèi fyzickému útoku máš voperovány podkoní implantáty.}
+{1176}{}{Pro zvıšení své odolnosti vùèi fyzickému útoku máš voperovány zesílené podkoní implantáty.}
+{1177}{}{Tyto implantáty zvyšují tvou odolnost vùèi všemi druhùm energetickıch útokù.}
+{1178}{}{Tyto zesílené implantáty zvyšují tvou odolnost vùèi všemi druhùm energetickıch útokù.}
+{1179}{}{Získáváš +10% odolnost vùèi jedùm a radiaci.}
+{1180}{}{S tímto perkem získáváš +1 SÍLA, kdykoliv klesneš pod 1/2 svého maxima hit bodù.}
+{1181}{}{Jsi velmi opatrnı a nepøátelé se k tobì nemohou nepozorovanì pøiblíit. S tímto perkem získáš +3 ke svému VNÍMÁNÍ v náhodnıch setkáních, kdy se rozhoduje o rozmístìní protivníkù.}
+{1182}{}{Jsi pozornı a kdy nìco studuješ, všimneš si rùznıch detailù. Pøi ètení knih získáváš k pøíslušné schopnosti o 1/2 víc procent ne ostatní.}
+{1183}{}{Jsi expert na zacházení s vıbušninami. Vdy vybuchnou (kdy se to od nich ádá) a vdy jsou extra úèinné.}
+{1184}{}{Hazard je pro tebe vším. Získáváš +20% ke své schopnosti "Hazardní hry".}
+{1185}{}{Tento perk ti pøidá +1 ke tvé SÍLE.}
+{1186}{}{Tento perk ti pøidá +1 ke tvému VNÍMÁNÍ.}
+{1187}{}{Tento perk ti pøidá +1 ke tvé ODOLNOSTI.}
+{1188}{}{Tento perk ti pøidá +1 ke tvému CHARISMA.}
+{1189}{}{Tento perk ti pøidá +1 ke tvé INTELIGENCI.}
+{1190}{}{Tento perk ti pøidá +1 ke tvé HBITOSTI.}
+{1191}{}{Tento perk ti pøidá +1 ke tvému ŠTÌSTÍ.}
+{1192}{}{Tvoje nevinná tváøièka ti pomáhá lépe okrádat lidi. Získáváš 20% ke své schopnosti "Kradení".}
+{1193}{}{Tento perk tì okamitì povıší o jednu zkušenostní úroveò.}
+{1194}{}{Máš-li obì ruce prázdné, pøidá ti na konci tvého tahu kadı nevyuitı akèní bod ke tvé Tøídì zbroje +2, namísto +1 jako tomu bylo pøedtím. Plus získáš 1/12 ke své schopnosti "Boj beze zbranì".}
+{1195}{}{O zpùsobech, jak si uívat s druhım pohlavím, dokáeš napsat celou knihu.}
+{1196}{}{Tvá karma záøí obzvláš silnì. A udìláš cokoliv (dobrého nebo špatného), získáš dvojnásobné mnoství karmy ne normálnì.}
+{1197}{}{Jsi rychlı, opatrnı a máš kliku. Tento perk zvyšuje tvoje šance na odstranìní všech druhù pastí.}
+{1198}{}{Máš velmi dobrı pøehled o anatomii a o silnıch i slabıch stránkách rùznıch druhù ivoèichù. Získáváš jednorázovı bonus +10% ke své schopnosti "Léèení" a pøi útoku na ivé tvory je tvé poškození zvıšeno o +5.}
+{1199}{}{Získáváš 1 extra místo ke svému limitu poètu parákù. Ale nezapomeò, e víc ne 5 znamená vdycky tlaèenici.}
+{1200}{}{Jsi velmi schopnı vyjednávaè. Pøesnì ten typ, o kterém se øíká, e "dokáe vymámit z jalové krávy tele". Tento perk ti pøidává +10% ke schopnostem "Obchodování" a "Øeè".}
+{1201}{}{Umíš si své vìci dobøe poskládat a uspoøádat a to ti umoòuje nosit jich u sebe o nìco víc.}
+{1202}{}{S hoølavinami a zbranìmi zaloenımi na této bázi umíš obzvláš dobøe zacházet. Dá se o tobì øíct, e "máš oheò v tìle". Tvoji nepøátelé ho poté obvykle mívají na tìle.}
+{1203}{}{Jsi-li sraen k zemi, umíš se rychle otøepat a vstát. Rocky a Rambo ti mùou jen z dálky závidìt!}
+{1204}{}{Jsi mistr smlouvání. Tento perk ti pøidává +20% ke tvé schopnosti "Obchodování".}
+{1205}{}{V boji tì jen tak nìkdo k zemi nesrazí!}
+{1206}{}{Tvımi ilami proudí krev pravého lupièe. S tímto perkem získáváš jednorázovı bonus +10% ke svım schopnostem "Plíení", "Páèení zámkù", "Kradení" a "Pasti a vıbušniny".}
+{1207}{}{Umíš svoje bouchaèky obzvláš dobøe ovládat. Kdykoliv manipuluješ se zbraní, získáváš +3 ke své SÍLE.}
+{1208}{}{Absolvoval jsi lékaøskı vıcvik ve Vault City.}
+{1209}{}{Èastou a pravidelnou konzumací kvalitního alkoholu se ti zvıšilo mnoství tvıch Hit bodù.}
+{1210}{}{Èastou a pravidelnou konzumací kvalitního alkoholu se ti ještì o trochu zvıšilo mnoství tvıch Hit bodù.}
+{1211}{}{Opakovanou opilostí se ti ještì o trochu sníilo celkové mnoství tvıch Hit bodù. No, pìknì to vedeš!}
+{1212}{}{Opakovanou opilostí se ti ještì o trochu sníilo celkové mnoství tvıch Hit bodù. No, pìknì to vedeš!}
+{1213}{}{Opakovanım pouíváním AutoDoku se ti zvıšilo celkové mnoství tvıch Hit bodù.}
+{1214}{}{Opakovanım pouíváním AutoDoku se ti ještì o trochu zvıšilo celkové mnoství tvıch Hit bodù.}
+{1215}{}{Opakovanım pouíváním AutoDoku se ti ještì o trochu sníilo celkové mnoství tvıch Hit bodù.}
+{1216}{}{Opakovanım pouíváním AutoDoku se ti ještì o trochu sníilo celkové mnoství tvıch Hit bodù.}
 {1217}{}{Pøijde-li na kydání hnoje, mùeš se smìle postavit po bok tìm nejlepším kydaèùm.}
 {1218}{}{Zbraò nepøítele omráèí. All critical hits cause knockout in addition to their regular effects. Characters with 9 ST have a 1% chance of causing knockout on a regular hit. Characters with 10 ST have a 2% chance of causing knockout on a regular hit. Not used by any weapons in the unmodded game.}
 {1219}{}{Ta dobrá zpráva je, e všem okolo tebe èasto v boji nìco sele. Ta špatná zpráva je, e se to stává i tobì!}

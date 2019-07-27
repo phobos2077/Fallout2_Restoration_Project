@@ -1,6 +1,6 @@
 {100}{}{Poèítaèový terminál.}
 {101}{}{Celkem zastaralý terminál. Frekvence procesoru je jen 500Mhz.}
-{102}{}{Nedokážeš pøeèíst text na obrazovce.}
+{102}{}{Obrazovka je pro tebe zcela neèitelná.}
 {103}{}{Automatická Opravná Stanice                                  Požadavek na opravu - provádí se                               Povolány opravárenské jednotky}
 {104}{}{}
 {105}{}{}

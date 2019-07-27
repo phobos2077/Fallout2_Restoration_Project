@@ -1,3 +1,3 @@
-{20}{}{Loophole}
-{21}{}{Testing, one, two, me!}
-{22}{}{yeah.  Right!}
+{20}{}{Buraco}
+{21}{}{Testando, um, dois, eu!}
+{22}{}{yeah.  Certo!}

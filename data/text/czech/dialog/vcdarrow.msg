@@ -3,10 +3,10 @@
 {102}{}{Vidíš Obèana ve svìtlemodrém obleèení. Vypadá to jako kombinéza Zakladatele, ale na zádech nemá žádné èíslo.}
 {103}{}{::tlesk::}
 {104}{}{To je ten hrdina! Podívejte!}
-{105}{}{Na mou duši! Je tu ten hrdina, pøímo ve Vault City!}
+{105}{}{Na mou duši! To je ten hrdina, pøímo tady ve Vault City!}
 {106}{}{Dobrý den, Kapitáne.}
 {107}{}{Vault City vždy zvítìzí, Kapitáne.}
-{108}{}{Dobrý den, Obèane.}
+{108}{}{Zdravíèko, Obèane.}
 {109}{}{Vault City vždy zvítìzí, Obèane.}
 {110}{}{Mutant! Stráže! Stráže!}
 {111}{}{Ghoul! Stráže! Stráže!}
@@ -26,26 +26,25 @@
 {125}{}{Pomoè? Tádyjádydá.}
 {126}{}{Odbelhat se.}
 {127}{}{Co je tohle za místo?}
-{128}{}{Mùžu se podívat co máte?}
+{128}{}{Mùžu vidìt, co máš na skladì?}
 {129}{}{Dnes nic, díky.}
 {130}{}{Poèkejte tu chvíli, ano? Pøivedu nìkoho, aby vás vyprovodil.}
 {131}{}{NE JÁ NE JÍT.}
 {132}{}{Dobøe.}
 {133}{}{Jak jistì víte, na Pøedmìstí je také obchod. Zkuste se tam podívat. Slyšela jsem, že mají témìø stejnì dobrou nabídku jako my.}
 {134}{}{Eh, díky.}
-{135}{}{Nakupuju si kde chci, jasné?}
+{135}{}{Budu si obchodovat kde chci, jasné?}
 {136}{}{Díky za návštìvu. Vault City vždy zvítìzí, Obèane.}
 {137}{}{Díky za návštìvu. Vault City vždy zvítìzí, Kapitáne.}
 {138}{}{Vault City vždy zvítìzí, Obèane.}
-{139}{}{Dobrý den, Obèane.}
+{139}{}{Zdravíèko, Obèane.}
 {140}{}{Koloniál A. Mám na starosti hlavní zásobování jako je náøadí a vìci na opravu. Jmenuju se Darow... úøednice Darrow. Potøebujete nìco? }
 {141}{}{Tohle je Koloniál A... staráme se o náøadí a vìci na opravu. Víte urèitì, že je tohle místo, které hledáte?}
-{142}{}{Mùžu se podívat co máte?}
+{142}{}{Mùžu vidìt, co máš na skladì?}
 {143}{}{Ano, to je pøesnì ono. Mùžu se podívat, co nabízíte?}
 {144}{}{Dnes nic, díky.}
 {145}{}{Myslím, že ne. Sbohem.}
-{146}{}{Hej! Jdìte od toho dál!}
+{146}{}{Hej! Nesahejte na to!}
 {147}{}{Tak a dost! Vypadnìte odsud!}
-
 {148}{}{Díky.}
 {149}{}{[Pokraèovat]}

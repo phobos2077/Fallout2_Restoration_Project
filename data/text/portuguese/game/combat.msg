@@ -1,802 +1,802 @@
-{100}{}{You need %d action points.}
-{101}{}{Out of ammo.}
-{102}{}{Target out of range.}
-{103}{}{Combat cannot end with nearby hostile creatures.}
-{104}{}{Your aim is blocked.}
-{105}{}{You cannot use weapons with both arms crippled.}
-{106}{}{You cannot use two-handed weapons with a crippled arm.}
-{107}{}{You are not strong enough to use this weapon properly.}
-{108}{}{ and }
-{200}{}{knocked out}
-{201}{}{knocked down}
-{202}{}{crippled your left leg}
-{203}{}{crippled your right leg}
-{204}{}{crippled your left arm}
-{205}{}{crippled your right arm}
-{206}{}{blinded}
-{207}{}{were killed}
-{208}{}{hit}
-{209}{}{critical}
-{210}{}{on fire}
-{211}{}{had your armor bypassed}
-{212}{}{your weapon exploded}
-{213}{}{destroyed your weapon}
-{214}{}{dropped your weapon}
-{215}{}{lost your next turn}
-{216}{}{hit yourself}
-{217}{}{lost the rest of your ammo}
-{218}{}{fired a dud shot}
-{219}{}{hurt yourself}
-{220}{}{hit randomly}
-{221}{}{crippled a random limb}
-{222}{}{peppered with fragments}
-{250}{}{knocked out}
-{251}{}{knocked down}
-{252}{}{crippled your left leg}
-{253}{}{crippled your right leg}
-{254}{}{crippled your left arm}
-{255}{}{crippled your right arm}
-{256}{}{blinded}
-{257}{}{were killed}
-{258}{}{hit}
-{259}{}{critical}
-{260}{}{on fire}
-{261}{}{had your armor bypassed}
-{262}{}{your weapon exploded}
-{263}{}{destroyed your weapon}
-{264}{}{dropped your weapon}
-{265}{}{lost your next turn}
-{266}{}{hit yourself}
-{267}{}{lost the rest of your ammo}
-{268}{}{fired a dud shot}
-{269}{}{hurt yourself}
-{270}{}{hit randomly}
-{271}{}{crippled a random limb}
-{272}{}{peppered with fragments}
-{300}{}{knocked out}
-{301}{}{knocked down}
-{302}{}{crippled his left leg}
-{303}{}{crippled his right leg}
-{304}{}{crippled his left arm}
-{305}{}{crippled his right arm}
-{306}{}{blinded}
-{307}{}{was killed}
-{308}{}{hit}
-{309}{}{critical}
-{310}{}{on fire}
-{311}{}{had his armor bypassed}
-{312}{}{his weapon exploded}
-{313}{}{destroyed his weapon}
-{314}{}{dropped his weapon}
-{315}{}{lost his next turn}
-{316}{}{hit himself}
-{317}{}{lost the rest of his ammo}
-{318}{}{fired a dud shot}
-{319}{}{hurt himself}
-{320}{}{hit randomly}
-{321}{}{crippled a random limb}
-{322}{}{peppered with fragments}
-{400}{}{knocked out}
-{401}{}{knocked down}
-{402}{}{crippled her left leg}
-{403}{}{crippled her right leg}
-{404}{}{crippled her left arm}
-{405}{}{crippled her right arm}
-{406}{}{blinded}
-{407}{}{was killed}
-{408}{}{hit}
-{409}{}{critical}
-{410}{}{on fire}
-{411}{}{had her armor bypassed}
-{412}{}{her weapon exploded}
-{413}{}{destroyed her weapon}
-{414}{}{her weapon dropped}
-{415}{}{lost her next turn}
-{416}{}{hit herself}
-{417}{}{lost the rest of her ammo}
-{418}{}{fired a dud shot}
-{419}{}{hurt herself}
-{420}{}{hit randomly}
-{421}{}{crippled a random limb}
-{422}{}{peppered with fragments}
-{506}{}{You}
-{509}{}{Oops! %s were hit instead of %s!}
-{511}{}{%s were critically hit in %s for %d hit points}
-{512}{}{%s were hit in %s for %d hit points}
-{513}{}{%s were hit for %d hit points}
-{514}{}{%s critically missed}
-{515}{}{%s missed}
-{520}{}{%s were critically hit for %d hit points}
-{521}{}{%s were critically hit in %s for 1 hit point}
-{522}{}{%s were hit in %s for 1 hit point}
-{523}{}{%s were hit for 1 hit point}
-{524}{}{%s were critically hit for 1 hit point}
-{525}{}{%s were critically hit in %s for no damage}
-{526}{}{%s were hit in %s for no damage}
-{527}{}{%s were hit for no damage}
-{528}{}{%s were critically hit for no damage}
-{533}{}{%s critically missed and took 1 hit point}
-{534}{}{%s critically missed and took %d hit points}
-{556}{}{You}
-{559}{}{Oops! %s were hit instead of %s!}
-{561}{}{%s were critically hit in %s for %d hit points}
-{562}{}{%s were hit in %s for %d hit points}
-{563}{}{%s were hit for %d hit points}
-{564}{}{%s critically missed}
-{565}{}{%s missed}
-{570}{}{%s were critically hit for %d hit points}
-{571}{}{%s were critically hit in %s for 1 hit point}
-{572}{}{%s were hit in %s for 1 hit point}
-{573}{}{%s were hit for 1 hit point}
-{574}{}{%s were critically hit for 1 hit point}
-{575}{}{%s were critically hit in %s for no damage}
-{576}{}{%s were hit in %s for no damage}
-{577}{}{%s were hit for no damage}
-{578}{}{%s were critically hit for no damage}
-{583}{}{%s critically missed and took 1 hit point}
-{584}{}{%s critically missed and took %d hit points}
-{608}{}{Oops! %s was hit instead of you!}
-{609}{}{Oops! %s was hit instead of %s!}
-{611}{}{%s was critically hit in %s for %d hit points}
-{612}{}{%s was hit in %s for %d hit points}
-{613}{}{%s was hit for %d hit points}
-{614}{}{%s critically missed}
-{615}{}{%s missed}
-{620}{}{%s was critically hit for %d hit points}
-{621}{}{%s was critically hit in %s for 1 hit point}
-{622}{}{%s was hit in %s for 1 hit point}
-{623}{}{%s was hit for 1 hit point}
-{624}{}{%s was critically hit for 1 hit point}
-{625}{}{%s was critically hit in %s for no damage}
-{626}{}{%s was hit in %s for no damage}
-{627}{}{%s was hit for no damage}
-{628}{}{%s was critically hit for no damage}
-{633}{}{%s critically missed and took 1 hit point}
-{634}{}{%s critically missed and took %d hit points}
-{708}{}{Oops! %s was hit instead of you!}
-{709}{}{Oops! %s was hit instead of %s!}
-{711}{}{%s was critically hit in %s for %d hit points}
-{712}{}{%s was hit in %s for %d hit points}
-{713}{}{%s was hit for %d hit points}
-{714}{}{%s critically missed}
-{715}{}{%s missed}
-{720}{}{%s was critically hit for %d hit points}
-{721}{}{%s was critically hit in %s for 1 hit point}
-{722}{}{%s was hit in %s for 1 hit point}
-{723}{}{%s was hit for 1 hit point}
-{724}{}{%s was critically hit for 1 hit point}
-{725}{}{%s was critically hit in %s for no damage}
-{726}{}{%s was hit in %s for no damage}
-{727}{}{%s was hit for no damage}
-{728}{}{%s was critically hit for no damage}
-{733}{}{%s critically missed and took 1 hit point}
-{734}{}{%s critically missed and took %d hit points}
-{1110}{}{the head}
-{1111}{}{the left arm}
-{1112}{}{the right arm}
-{1113}{}{the torso}
-{1114}{}{the right leg}
-{1115}{}{the left leg}
-{1116}{}{the eyes}
-{1117}{}{the groin}
-{1118}{}{uncalled}
-{1150}{}{the head}
-{1151}{}{the left hindleg}
-{1152}{}{the right hindleg}
-{1153}{}{the torso}
-{1154}{}{the right foreleg}
-{1155}{}{the left foreleg}
-{1156}{}{the eyes}
-{1157}{}{the udder}
-{1158}{}{uncalled}
-{1160}{}{the head}
-{1161}{}{the hindleg}
-{1162}{}{the hindleg}
-{1163}{}{the body}
-{1164}{}{the foreleg}
-{1165}{}{the foreleg}
-{1166}{}{the eyes}
-{1167}{}{the groin}
-{1168}{}{uncalled}
-{1170}{}{the CPU}
-{1171}{}{the manipulator}
-{1172}{}{the manipulator}
-{1173}{}{the frame}
-{1174}{}{the motivator}
-{1175}{}{the motivator}
-{1176}{}{the sensors}
-{1177}{}{the regulator}
-{1178}{}{uncalled}
-{1180}{}{the head}
-{1181}{}{the left arm}
-{1182}{}{the right arm}
-{1183}{}{the torso}
-{1184}{}{the right leg}
-{1185}{}{the left leg}
-{1186}{}{the eyes}
-{1187}{}{the groin}
-{1188}{}{uncalled}
-{1190}{}{the head}
-{1191}{}{the left paw}
-{1192}{}{the right paw}
-{1193}{}{the body}
-{1194}{}{the right leg}
-{1195}{}{the left leg}
-{1196}{}{the eyes}
-{1197}{}{the groin}
-{1198}{}{uncalled}
-{1210}{}{the head}
-{1211}{}{the left arm}
-{1212}{}{the right arm}
-{1213}{}{the torso}
-{1214}{}{the right leg}
-{1215}{}{the left leg}
-{1216}{}{the eyes}
-{1217}{}{the groin}
-{1218}{}{uncalled}
-{1220}{}{the head}
-{1221}{}{the tail}
-{1222}{}{the claw}
-{1223}{}{the carapace}
-{1224}{}{the forelegs}
-{1225}{}{the hindlegs}
-{1226}{}{the eyes}
-{1227}{}{the brain}
-{1228}{}{uncalled}
-{1230}{}{the head}
-{1231}{}{the mouth}
-{1232}{}{the fore mouth}
-{1233}{}{the body}
-{1234}{}{the float sac}
-{1235}{}{the tail}
-{1236}{}{the ganglion}
-{1237}{}{the ovipositor}
-{1238}{}{uncalled}
-{1240}{}{the head}
-{1241}{}{the left paw}
-{1242}{}{the right paw}
-{1243}{}{the body}
-{1244}{}{the right leg}
-{1245}{}{the left leg}
-{1246}{}{the eyes}
-{1247}{}{the groin}
-{1248}{}{uncalled}
-{1250}{}{the head}
-{1251}{}{the left arm}
-{1252}{}{the right arm}
-{1253}{}{the body}
-{1254}{}{the right leg}
-{1255}{}{the left leg}
-{1256}{}{the eyes}
-{1257}{}{the groin}
-{1258}{}{uncalled}
-{1270}{}{the head}
-{1271}{}{the left arm}
-{1272}{}{the right arm}
-{1273}{}{the torso}
-{1274}{}{the right leg}
-{1275}{}{the left leg}
-{1276}{}{the eyes}
-{1277}{}{the groin}
-{1278}{}{uncalled}
-{1460}{}{the head}
-{1461}{}{the left arm}
-{1462}{}{the right arm}
-{1463}{}{the torso}
-{1464}{}{the right leg}
-{1465}{}{the left leg}
-{1466}{}{the eyes}
-{1467}{}{the groin}
-{1468}{}{uncalled}
-{1490}{}{the head}
-{1491}{}{the left arm}
-{1492}{}{the right arm}
-{1493}{}{the torso}
-{1494}{}{the right leg}
-{1495}{}{the left leg}
-{1496}{}{the eyes}
-{1497}{}{the groin}
-{1498}{}{uncalled}
-{1500}{}{the head}
+{100}{}{Você precisa de %d pontos de ação.}
+{101}{}{Sem munição.}
+{102}{}{Alvo fora do alcance.}
+{103}{}{Não é possível finalizar o combate com criaturas hostis nas proximidades.}
+{104}{}{Linha de fogo bloqueada.}
+{105}{}{Você não pode usar armas com os dois braços quebrados.}
+{106}{}{Você não pode usar armas de duas mãos com um braço quebrado.}
+{107}{}{Você não é forte o suficiente para usar esta arma corretamente.}
+{108}{}{ e }
+{200}{}{te deixou fora de combate}
+{201}{}{derrubado}
+{202}{}{perna esquerda quebrada}
+{203}{}{perna direita quebrada}
+{204}{}{braço esquerdo quebrado}
+{205}{}{braço direito quebrado}
+{206}{}{cego}
+{207}{}{você morreu}
+{208}{}{te deixa ferido}
+{209}{}{criticamente}
+{210}{}{em chamas}
+{211}{}{perfura sua armadura}
+{212}{}{sua arma explodiu}
+{213}{}{sua arma foi destruída}
+{214}{}{sua arma caiu}
+{215}{}{perdeu seu próximo turno}
+{216}{}{acertou em você mesmo}
+{217}{}{perdeu o resto de sua munição}
+{218}{}{tiro fracassado}
+{219}{}{você se feriu}
+{220}{}{bater aleatoriamente}
+{221}{}{quebrar um membro aleatório}
+{222}{}{você alcança os fragmentos}
+{250}{}{te deixou fora de combate}
+{251}{}{derrubado}
+{252}{}{perna esquerda quebrada}
+{253}{}{perna direita quebrada}
+{254}{}{braço esquerdo quebrado}
+{255}{}{braço direito quebrado}
+{256}{}{cego}
+{257}{}{você morreu}
+{258}{}{te deixa ferido}
+{259}{}{criticamente}
+{260}{}{em chamas}
+{261}{}{perfura sua armadura}
+{262}{}{sua arma explodiu}
+{263}{}{sua arma foi destruída}
+{264}{}{sua arma caiu}
+{265}{}{perdeu seu próximo turno}
+{266}{}{acertou em você mesmo}
+{267}{}{perdeu o resto de sua munição}
+{268}{}{tiro fracassado}
+{269}{}{você se feriu}
+{270}{}{bater aleatoriamente}
+{271}{}{quebrar um membro aleatório}
+{272}{}{você alcança os fragmentos}
+{300}{}{te deixou fora de combate}
+{301}{}{derrubado}
+{302}{}{quebrou sua perna esquerda}
+{303}{}{quebrou sua perna direita}
+{304}{}{quebrou seu braço esquerdo}
+{305}{}{quebrou seu braço direito}
+{306}{}{cego}
+{307}{}{morreu}
+{308}{}{te deixa ferido}
+{309}{}{criticamente}
+{310}{}{em chamas}
+{311}{}{perfura sua armadura}
+{312}{}{sua arma explodiu}
+{313}{}{sua arma foi destruída}
+{314}{}{deixou cair a arma}
+{315}{}{perdeu seu próximo turno}
+{316}{}{acertou em você mesmo}
+{317}{}{perdeu o resto de sua munição}
+{318}{}{tiro fracassado}
+{319}{}{você se feriu}
+{320}{}{bater aleatoriamente}
+{321}{}{quebrar um membro aleatório}
+{322}{}{você alcança os fragmentos}
+{400}{}{te deixou fora de combate}
+{401}{}{derrubado}
+{402}{}{quebrou sua perna esquerda}
+{403}{}{quebrou sua perna direita}
+{404}{}{quebrou seu braço esquerdo}
+{405}{}{quebrou seu braço direito}
+{406}{}{cego}
+{407}{}{morreu}
+{408}{}{te deixa ferido}
+{409}{}{criticamente}
+{410}{}{em chamas}
+{411}{}{perfura sua armadura}
+{412}{}{sua arma explodiu}
+{413}{}{sua arma foi destruída}
+{414}{}{deixou cair a arma}
+{415}{}{perdeu seu próximo turno}
+{416}{}{acertou em você mesma}
+{417}{}{perdeu o resto de sua munição}
+{418}{}{tiro fracassado}
+{419}{}{você se feriu}
+{420}{}{bater aleatoriamente}
+{421}{}{quebrar um membro aleatório}
+{422}{}{você alcança os fragmentos}
+{506}{}{Você}
+{509}{}{Oops! %s foi atingido, em vez de %s!}
+{511}{}{%s foi gravemente atingido %s, perdendo %d pontos de vida}
+{512}{}{%s foi atingido %s perdendo %d pontos de vida}
+{513}{}{%s foi atingido perdendo %d pontos de vida}
+{514}{}{%s errou criticamente}
+{515}{}{%s errou}
+{520}{}{%s foi gravemente atingido, perdeu %d pontos de vida}
+{521}{}{%s foi gravemente atingido %s perdendo 1 ponto de vida}
+{522}{}{%s foi atingido %s e perdeu 1 ponto de vida}
+{523}{}{%s foi atingido e perde 1 ponto de vida}
+{524}{}{%s foi gravemente atingido e perde 1 ponto de vida}
+{525}{}{%s foi gravemente atingido %s, sem sofrer nenhum dano}
+{526}{}{%s foi atingido %s sem danos}
+{527}{}{%s foi atingido sem sofrer nenhum dano}
+{528}{}{%s foi gravemente atingido sem sofrer nenhum dano}
+{533}{}{%s erro critico, perdeu 1 ponto de vida}
+{534}{}{%s erro critico, perdeu %d pontos de vida}
+{556}{}{Você}
+{559}{}{Oops! %s foi atingido, em vez de %s!}
+{561}{}{%s foi gravemente atingido %s, perdendo %d pontos de vida}
+{562}{}{%s foi atingido %s perdendo %d pontos de vida}
+{563}{}{%s foi atingido perdendo %d pontos de vida}
+{564}{}{%s errou criticamente}
+{565}{}{%s errou}
+{570}{}{%s foi gravemente atingido, perdeu %d pontos de vida}
+{571}{}{%s foi gravemente atingido %s perdendo 1 ponto de vida}
+{572}{}{%s foi atingido %s e perdeu 1 ponto de vida}
+{573}{}{%s foi atingido e perde 1 ponto de vida}
+{574}{}{%s foi gravemente atingido e perde 1 ponto de vida}
+{575}{}{%s foi gravemente atingido %s, sem sofrer nenhum dano}
+{576}{}{%s foi atingido %s sem danos}
+{577}{}{%s foi atingido sem sofrer nenhum dano}
+{578}{}{%s foi gravemente atingido sem sofrer nenhum dano}
+{583}{}{%s erro critico, perdeu 1 ponto de vida}
+{584}{}{%s erro critico, perdeu %d pontos de vida}
+{608}{}{Oops! %s foi atingido em vez de você!}
+{609}{}{Oops! %s foi atingido, em vez de %s!}
+{611}{}{%s é gravemente atingido %s, perdendo %d pontos de vida}
+{612}{}{%s é atingido %s, perdendo %d pontos de vida}
+{613}{}{%s é atingido, perdendo %d pontos de vida}
+{614}{}{%s errou criticamente}
+{615}{}{%s errou}
+{620}{}{%s é gravemente atingido, perdendo %d pontos de vida}
+{621}{}{%s é gravemente atingido %s, perdendo 1 ponto de vida}
+{622}{}{%s é atingido %s, perdendo 1 ponto de vida}
+{623}{}{%s é atingido, perdendo 1 ponto de vida}
+{624}{}{%s é gravemente atingido, perdendo 1 ponto de vida}
+{625}{}{%s é gravemente atingido %s, sem sofrer nenhum dano}
+{626}{}{%s é atingido %s, sem sofrer nenhum dano}
+{627}{}{%s é atingido, sem sofrer nenhum dano}
+{628}{}{%s é gravemente atingido, sem sofrer nenhum dano}
+{633}{}{%s erro critico, perdeu 1 ponto de vida}
+{634}{}{%s erro critico, perdeu %d pontos de vida}
+{708}{}{Oops! %s foi atingido em vez de você!}
+{709}{}{Oops! %s foi atingido, em vez de %s!}
+{711}{}{%s é gravemente atingido %s, perdendo %d pontos de vida}
+{712}{}{%s é atingido %s, perdendo %d pontos de vida}
+{713}{}{%s é atingido, perdendo %d pontos de vida}
+{714}{}{%s errou criticamente}
+{715}{}{%s errou}
+{720}{}{%s é gravemente atingido, perdendo %d pontos de vida}
+{721}{}{%s é gravemente atingido %s, perdendo 1 ponto de vida}
+{722}{}{%s é atingido %s, perdendo 1 ponto de vida}
+{723}{}{%s é atingido, perdendo 1 ponto de vida}
+{724}{}{%s é gravemente atingido, perdendo 1 ponto de vida}
+{725}{}{%s é gravemente atingido %s, sem sofrer nenhum dano}
+{726}{}{%s é atingido %s, sem sofrer nenhum dano}
+{727}{}{%s é atingido, sem sofrer nenhum dano}
+{728}{}{%s é gravemente atingido, sem sofrer nenhum dano}
+{733}{}{%s erro critico, perdeu 1 ponto de vida}
+{734}{}{%s erro critico, perdeu %d pontos de vida}
+{1110}{}{na cabeça}
+{1111}{}{no braço esquerdo}
+{1112}{}{no braço direito}
+{1113}{}{no tronco}
+{1114}{}{na perna direita}
+{1115}{}{na perna esquerda}
+{1116}{}{nos olhos}
+{1117}{}{na virilha}
+{1118}{}{lugar indefinido}
+{1150}{}{na cabeça}
+{1151}{}{na pata traseira esquerda}
+{1152}{}{na pata traseira direita}
+{1153}{}{no tronco}
+{1154}{}{na pata dianteira direita}
+{1155}{}{na pata dianteira esquerda}
+{1156}{}{nos olhos}
+{1157}{}{nas glândulas mamárias}
+{1158}{}{lugar indefinido}
+{1160}{}{na cabeça}
+{1161}{}{na pata traseira}
+{1162}{}{na pata traseira}
+{1163}{}{no corpo}
+{1164}{}{na pata dianteira}
+{1165}{}{na pata dianteira}
+{1166}{}{nos olhos}
+{1167}{}{na virilha}
+{1168}{}{lugar indefinido}
+{1170}{}{no CPU}
+{1171}{}{no manipulador}
+{1172}{}{no manipulador}
+{1173}{}{na estrutura}
+{1174}{}{na unidade matriz}
+{1175}{}{na unidade matriz}
+{1176}{}{nos sensores}
+{1177}{}{no regulador}
+{1178}{}{lugar indefinido}
+{1180}{}{na cabeça}
+{1181}{}{no braço esquerdo}
+{1182}{}{no braço direito}
+{1183}{}{no tronco}
+{1184}{}{na perna direita}
+{1185}{}{na perna esquerda}
+{1186}{}{nos olhos}
+{1187}{}{na virilha}
+{1188}{}{lugar indefinido}
+{1190}{}{na cabeça}
+{1191}{}{na pata esquerda}
+{1192}{}{na pata direita}
+{1193}{}{no corpo}
+{1194}{}{na perna direita}
+{1195}{}{na perna esquerda}
+{1196}{}{nos olhos}
+{1197}{}{na virilha}
+{1198}{}{lugar indefinido}
+{1210}{}{na cabeça}
+{1211}{}{no braço esquerdo}
+{1212}{}{no braço direito}
+{1213}{}{no tronco}
+{1214}{}{na perna direita}
+{1215}{}{na perna esquerda}
+{1216}{}{nos olhos}
+{1217}{}{na virilha}
+{1218}{}{lugar indefinido}
+{1220}{}{na cabeça}
+{1221}{}{na cauda}
+{1222}{}{na garra}
+{1223}{}{na carapaça}
+{1224}{}{nas patas dianteiras}
+{1225}{}{nas patas traseiras}
+{1226}{}{nos olhos}
+{1227}{}{no cérebro}
+{1228}{}{lugar indefinido}
+{1230}{}{na cabeça}
+{1231}{}{na boca}
+{1232}{}{na boca dianteira}
+{1233}{}{no corpo}
+{1234}{}{no saco flutuante}
+{1235}{}{na cauda}
+{1236}{}{no gânglio}
+{1237}{}{no ovipositor}
+{1238}{}{lugar indefinido}
+{1240}{}{na cabeça}
+{1241}{}{na pata esquerda}
+{1242}{}{na pata direita}
+{1243}{}{no corpo}
+{1244}{}{na perna direita}
+{1245}{}{na perna esquerda}
+{1246}{}{nos olhos}
+{1247}{}{na virilha}
+{1248}{}{lugar indefinido}
+{1250}{}{na cabeça}
+{1251}{}{no braço esquerdo}
+{1252}{}{no braço direito}
+{1253}{}{no corpo}
+{1254}{}{na perna direita}
+{1255}{}{na perna esquerda}
+{1256}{}{nos olhos}
+{1257}{}{na virilha}
+{1258}{}{lugar indefinido}
+{1270}{}{na cabeça}
+{1271}{}{no braço esquerdo}
+{1272}{}{no braço direito}
+{1273}{}{no tronco}
+{1274}{}{na perna direita}
+{1275}{}{na perna esquerda}
+{1276}{}{nos olhos}
+{1277}{}{na virilha}
+{1278}{}{lugar indefinido}
+{1460}{}{na cabeça}
+{1461}{}{no braço esquerdo}
+{1462}{}{no braço direito}
+{1463}{}{no tronco}
+{1464}{}{na perna direita}
+{1465}{}{na perna esquerda}
+{1466}{}{nos olhos}
+{1467}{}{na virilha}
+{1468}{}{lugar indefinido}
+{1490}{}{na cabeça}
+{1491}{}{no braço esquerdo}
+{1492}{}{no braço direito}
+{1493}{}{no tronco}
+{1494}{}{na perna direita}
+{1495}{}{na perna esquerda}
+{1496}{}{nos olhos}
+{1497}{}{na virilha}
+{1498}{}{lugar indefinido}
+{1500}{}{na cabeça}
 {1501}{}{???}
 {1502}{}{???}
-{1503}{}{the frame}
+{1503}{}{na estrutura}
 {1504}{}{???}
 {1505}{}{???}
-{1506}{}{the eyes}
-{1507}{}{the CPU}
-{1508}{}{uncalled}
-{1510}{}{the head}
-{1511}{}{the left arm}
-{1512}{}{the right arm}
-{1513}{}{the torso}
-{1514}{}{the right leg}
-{1515}{}{the left leg}
-{1516}{}{the eyes}
-{1517}{}{the groin}
-{1518}{}{uncalled}
-{1520}{}{the head}
-{1521}{}{the raptorial leg}
-{1522}{}{the raptorial leg}
-{1523}{}{the abdomen}
-{1524}{}{the legs}
-{1525}{}{the wings}
-{1526}{}{the eyes}
-{1527}{}{the metathorax}
-{1528}{}{uncalled}
-{1530}{}{the CPU}
-{1531}{}{the manipulator}
-{1532}{}{the manipulator}
-{1533}{}{the frame}
-{1534}{}{the motivator}
-{1535}{}{the motivator}
-{1536}{}{the sensors}
-{1537}{}{the regulator}
-{1538}{}{uncalled}
-{1540}{}{the CPU}
-{1541}{}{the manipulator}
-{1542}{}{the manipulator}
-{1543}{}{the frame}
-{1544}{}{the motivator}
-{1545}{}{the motivator}
-{1546}{}{the sensors}
-{1547}{}{the regulator}
-{1548}{}{uncalled}
-{1550}{}{the head}
-{1551}{}{the left paw}
-{1552}{}{the right paw}
-{1553}{}{the body}
-{1554}{}{the right leg}
-{1555}{}{the left leg}
-{1556}{}{the eyes}
-{1557}{}{the groin}
-{1558}{}{uncalled}
-{1580}{}{the shell}
-{1581}{}{the shell}
-{1582}{}{the shell}
-{1583}{}{the shell}
-{1584}{}{the shell}
-{1585}{}{the shell}
-{1586}{}{the shell}
-{1587}{}{the shell}
-{1588}{}{uncalled}
-{1590}{}{the head}
-{1591}{}{the tail}
-{1592}{}{the claw}
-{1593}{}{the carapace}
-{1594}{}{the forelegs}
-{1595}{}{the hindlegs}
-{1596}{}{the eyes}
-{1597}{}{the brain}
-{1598}{}{uncalled}
-{1600}{}{the head}
-{1601}{}{the left arm}
-{1602}{}{the right arm}
-{1603}{}{the torso}
-{1604}{}{the right leg}
-{1605}{}{the left leg}
-{1606}{}{the eyes}
-{1607}{}{the groin}
-{1608}{}{uncalled}
-{1650}{}{the mouth}
-{1651}{}{the stalk}
-{1652}{}{the stalk}
-{1653}{}{the central stalk}
-{1654}{}{the roots}
-{1655}{}{the roots}
-{1656}{}{the sense-tendrils}
-{1657}{}{the base}
-{1658}{}{uncalled}
-{1660}{}{the head}
-{1661}{}{the missile hand}
-{1662}{}{the gun hand}
-{1663}{}{the body}
-{1664}{}{the right leg}
-{1665}{}{the left leg}
-{1666}{}{the sensors}
-{1667}{}{the lower torso}
-{1668}{}{uncalled}
-{1670}{}{the head}
-{1671}{}{the left claw}
-{1672}{}{the right claw}
-{1673}{}{the body}
-{1674}{}{the right leg}
-{1675}{}{the left leg}
-{1676}{}{the eyes}
-{1677}{}{the groin}
-{1678}{}{uncalled}
-{1680}{}{the head}
-{1681}{}{the left claw}
-{1682}{}{the right claw}
-{1683}{}{the body}
-{1684}{}{the right leg}
-{1685}{}{the left leg}
-{1686}{}{the eyes}
-{1687}{}{the groin}
-{1688}{}{uncalled}
-{1800}{}{the head}
-{1801}{}{the left tentacle}
-{1802}{}{the right tentacle}
-{1803}{}{the body}
-{1804}{}{the right foot}
-{1805}{}{the left foot}
-{1806}{}{the eyes?}
-{1807}{}{the groin socket}
-{1808}{}{uncalled}
-{1850}{}{the head}
-{1851}{}{the left arm}
-{1852}{}{the right arm}
-{1853}{}{the torso}
-{1854}{}{the right leg}
-{1855}{}{the left leg}
-{1856}{}{the eyes}
-{1857}{}{the groin}
-{1858}{}{uncalled}
-{1860}{}{the head}
-{1861}{}{the left tentacle}
-{1862}{}{the right tentacle}
-{1863}{}{the body}
-{1864}{}{the right foot}
-{1865}{}{the left foot}
-{1866}{}{the eyes?}
-{1867}{}{the groin socket}
-{1868}{}{uncalled}
-{1900}{}{the cpu}
-{1901}{}{the gun servo}
-{1902}{}{the gun servo}
-{1903}{}{the frame}
-{1904}{}{the base servo}
-{1905}{}{the base servo}
-{1906}{}{the sensors}
-{1907}{}{the regulator}
-{1908}{}{uncalled}
-{1970}{}{the head}
-{1971}{}{the left foreleg}
-{1972}{}{the right foreleg}
-{1973}{}{the abdomen}
-{1974}{}{the right hindleg}
-{1975}{}{the left hindleg}
-{1976}{}{the feelers}
-{1977}{}{the metathorax}
-{1978}{}{uncalled}
-{1990}{}{the head}
-{1991}{}{the left arm}
-{1992}{}{the right arm}
-{1993}{}{the torso}
-{1994}{}{the right leg}
-{1995}{}{the left leg}
-{1996}{}{the eyes}
-{1997}{}{the groin}
-{1998}{}{uncalled}
-{2000}{}{the head}
-{2001}{}{the left arm}
-{2002}{}{the right arm}
-{2003}{}{the torso}
-{2004}{}{the right leg}
-{2005}{}{the left leg}
-{2006}{}{the eyes}
-{2007}{}{the groin}
-{2008}{}{uncalled}
-{2010}{}{the cpu}
-{2011}{}{the gun servo}
-{2012}{}{the gun servo}
-{2013}{}{the frame}
-{2014}{}{the base servo}
-{2015}{}{the base servo}
-{2016}{}{the sensors}
-{2017}{}{the regulator}
-{2018}{}{uncalled}
-{2030}{}{the head}
-{2031}{}{the stinger}
-{2032}{}{the antennae}
-{2033}{}{the thorax}
-{2034}{}{the forelegs}
-{2035}{}{the hindlegs}
-{2036}{}{the eyes}
-{2037}{}{the wings}
-{2038}{}{uncalled}
-{5000}{}{. That really hurts}
-{5001}{}{. Serious pain is inflicted.}
-{5002}{}{ with no armor defenses}
-{5003}{}{. The damaging attack knocks him unconscious}
-{5004}{}{. The blow knocks him to the ground}
-{5005}{}{. The strong blow to the head knocks him out}
-{5006}{}{. The attack crushes the temple. Good night, Gracie}
-{5007}{}{. Death is instantaneous}
-{5008}{}{, causing severe tennis elbow}
-{5009}{}{, pushing the arm out of the way}
-{5010}{}{, leaving a big bruise}
-{5011}{}{, crippling the left arm}
-{5012}{}{, leaving the left arm dangling by the skin}
-{5013}{}{. That arm now looks like a bloody stump}
-{5014}{}{, leaving a crippled right arm}
-{5015}{}{. His right arm is pulverized by this powerful blow}
-{5016}{}{ in a forceful blow}
-{5017}{}{, blowing through the armor}
-{5018}{}{, inflicting an extra helping of damage}
-{5019}{}{ with no armor, knocking the combatant to the ground}
-{5020}{}{, knocking the air out. He slumps to the ground out of the fight}
-{5021}{}{. Unfortunately, his spine is now clearly visible from the front}
-{5022}{}{, putting a major hurt on his leg}
-{5023}{}{, knocking him to the ground like a bowling pin in a league game}
-{5024}{}{, bowling him over and crippling that leg}
-{5025}{}{, smashing the knee into the next town. He falls}
-{5026}{}{. The intense pain of having a leg removed causes him to quit}
-{5027}{}{, inflicting some extra pain}
-{5028}{}{. Unluckily for him, it causes blindness}
-{5029}{}{. With no protection there, it causes serious pain}
-{5030}{}{, and blinding him with a stunning blow}
-{5031}{}{. The loss of an eye is too much for him, and he falls to the ground}
-{5032}{}{. Sadly, he is too busy feeling the rush of air on the brain to notice death approaching}
-{5033}{}{. Ouch! That had to hurt}
-{5034}{}{, and he's not wearing a cup, either}
-{5035}{}{. Without protection, he falls over, groaning in agony}
-{5036}{}{. The pain is too much for him and he collapses like a rag}
-{5037}{}{. He mumbles "Mother", as his eyes roll into the back of his head}
-{5100}{}{. That really hurts}
-{5101}{}{. Serious pain is inflicted}
-{5102}{}{ with no armor}
-{5103}{}{. The damaging attack knocks her unconscious}
-{5104}{}{. The blow knocks her to the ground}
-{5105}{}{. The strong blow to the head knocks her out}
-{5106}{}{. The attack crushes her temple. Good night, Gracie}
-{5107}{}{. Death is instantaneous}
-{5108}{}{, causing severe tennis elbow}
-{5109}{}{, pushing the arm out of the way}
-{5110}{}{, leaving a big bruise}
-{5111}{}{, crippling the left arm}
-{5112}{}{. The left arm is barely attached to her shoulder}
-{5113}{}{. That arm now looks like a bloody stump}
-{5114}{}{, leaving a crippled right arm}
-{5115}{}{. Her right arm is turned into hamburger by the blow}
-{5116}{}{ in a forceful blow}
-{5117}{}{, piercing through her defenses}
-{5118}{}{, inflicting an extra helping of damage}
-{5119}{}{ with no armor, knocking the female fighter to the ground}
-{5120}{}{, knocking the air out. She slumps to the ground}
-{5121}{}{. Unfortunately, her major organs have been exposed to the light}
-{5122}{}{, putting a major hurt on her leg}
-{5123}{}{, knocking her over like a bad blind date}
-{5124}{}{, knocking her down and crippling that leg}
-{5125}{}{, smashing the knee into the next town. She takes the fast track to the ground}
-{5126}{}{. She screams in pain from the broken leg}
-{5127}{}{, inflicting some extra pain}
-{5128}{}{, causing blindness. She grimaces}
-{5129}{}{. With no protection there, it causes serious pain}
-{5130}{}{. The wound causes severe blindness, as if there is any other kind}
-{5131}{}{. She faints from the blinding attack}
-{5132}{}{. Sadly, she doesn't get to pray to her gods before she meets them}
-{5133}{}{. She takes it like a man. That is to say, it hurts}
-{5134}{}{, knocking her to the ground}
-{5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap}
-{5200}{}{. The little kid starts to cry}
-{5201}{}{. Unconscious, the small child falls over}
-{5202}{}{. Ouchie!}
-{5203}{}{. The blow is true, and the child is knocked unconscious}
-{5204}{}{, smashing the small child around like a limp rag}
-{5205}{}{. The left arm of this kid now has an owie}
-{5206}{}{, throwing the small child off balance}
-{5207}{}{, breaking that arm with a loud snap. Some serious tears start to flow}
-{5208}{}{, easily snapping that arm like a small piece of candy}
-{5209}{}{. The right arm starts to swell, like a balloon}
-{5210}{}{, and starts to cry}
-{5211}{}{ in a sensitive spot}
-{5212}{}{. The attack to a vital organ knocks the kid over}
-{5213}{}{, knocking the little kid over like a toy}
-{5214}{}{. Now this young child will never really experience life}
-{5215}{}{, inflicting a deep cut}
-{5216}{}{. The attack bowls the child over, and breaks the leg}
-{5217}{}{, inflicting great harm to the small child}
-{5218}{}{. The young child looks up and starts to cry}
-{5219}{}{, which blinds the youth}
-{5220}{}{, bashing in the youthful looking nose}
-{5221}{}{. A cut appears above the eyes and the blood starts to flow freely}
-{5222}{}{, which opens an eye like an exploding grape. The child looks bewildered}
-{5223}{}{, causing blindness. The young child drops to the ground}
-{5224}{}{, the blow continues into the small brain}
-{5225}{}{. The child looks confused and shaken}
-{5226}{}{, knocking this young target to the ground}
-{5300}{}{, hurting the mighty mutant}
-{5301}{}{, striking a vital spot}
-{5302}{}{, striking a vital spot and knocking the giant to the ground}
-{5303}{}{. The giant mutant looks around for a moment, and then slumps to the ground}
-{5304}{}{. The head explodes like a giant, bloody watermelon}
-{5305}{}{, severely hurting the mighty mutant}
-{5306}{}{, causing the giant to spend a moment cursing the universe}
-{5307}{}{, striking a nerve and forcing the giant to grab his arm in pain}
-{5308}{}{. The blow breaks the elbow and probably didn't feel too good}
-{5309}{}{, breaking the thick arm and spewing mutant blood over the ground}
-{5310}{}{, causing the giant to stumble for a moment and then collapse like a felled tree}
-{5311}{}{, and gallons of viscera spurt to the ground}
-{5312}{}{, sending the giant flying to the floor}
-{5313}{}{. The mutant stumbles and falls, his leg barely able to support him}
-{5314}{}{, striking a vital location. The mutant crumples under a broken leg}
-{5315}{}{. The pain of a broken leg overwhelms the mighty giant}
-{5316}{}{, nearly blinding the mutant}
-{5317}{}{, blinding the now-furious mutant}
-{5318}{}{, nearly blinding the mutant but throwing him off balance}
-{5319}{}{. The blinded mutant stumbles back, unprepared for the next attack}
-{5320}{}{, blinding the now-unconscious mutant}
-{5321}{}{. The eyes of the mutant glow for a moment, and then the light fades - permanently}
-{5400}{}{. The ghoul is surprised, and fails to defend against this attack}
-{5401}{}{. The blow buries this ghoul}
-{5402}{}{. The stunned ghoul's hand flies open}
-{5403}{}{, sneaking through his armor and striking a critical joint}
-{5404}{}{, sneaking through his armor and lopping the arm off}
-{5405}{}{. The ghoul moves the wrong way at the wrong moment, and loses an eye}
-{5406}{}{. The ghoul is wearing no armor there}
-{5407}{}{, and without armor, the ghoul is blinded}
-{5408}{}{, causing the ghoul to look bewildered in his final moments}
-{5500}{}{, knocking the big beast to the ground}
-{5501}{}{, stunning both brains and felling the giant animal}
-{5502}{}{. The mutant cow gives a loud, startled cry}
-{5503}{}{, breaking one of the Brahmin's legs}
-{5504}{}{, seriously hurting the mutant cow}
-{5505}{}{, easily penetrating the thick hide of the giant beast}
-{5506}{}{, penetrating straight through both hearts of the mutant cow}
-{5507}{}{, blinding both sets of eyes with a single blow}
-{5508}{}{, blinding both heads and stunning the mutant cow}
-{5509}{}{, completely blinding the Brahmin and knocking it out}
-{5510}{}{. The large mutant bovine stumbles for a moment}
-{5511}{}{. The Brahmin shakes with rage}
-{5512}{}{. The Brahmin snorts with pain}
-{5513}{}{. The Brahmin is most upset with this udderly devastating attack}
-{5600}{}{, sending the Radscorpion flying on its back}
-{5601}{}{, separating the head from the carapace}
-{5602}{}{, seriously damaging the tail}
-{5603}{}{, putting a major hurt on its claws}
-{5604}{}{. The blow slips between the cracks of the Radscorpion's tough carapace}
-{5605}{}{, striking through the tough carapace without pausing}
-{5606}{}{, passing through the natural armor and knocking the Radscorpion over}
-{5607}{}{. The Radscorpion cannot cope with a new sensation, like missing internal organs}
-{5608}{}{, sending the 'scorpion flying and crippling some of its legs}
-{5609}{}{. The attack cuts through an unprotected joint on the leg, severing it}
-{5610}{}{, seriously wounding and blinding the mutant creature}
-{5611}{}{, penetrating almost to the brain. Talk about squashing a bug}
-{5612}{}{, almost penetrating to the brain, but blinding the creature instead}
-{5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature}
-{5614}{}{. If it was human, you would swear it's pretty pissed off}
-{5615}{}{, knocking the poor creature senseless}
-{5616}{}{, spiking the brain to the floor}
-{5700}{}{. The rodent's skull makes several unhealthy sounds}
-{5701}{}{, squashing the rodent's skull like a wet paper bag}
-{5702}{}{, and the left paw now looks a little flat}
-{5703}{}{. The left paw of the rat is blown off}
-{5704}{}{. The right paw is heavily damaged}
-{5705}{}{, blowing the right paw off}
-{5706}{}{. The rat is seriously wounded by this attack}
-{5707}{}{, seriously wounding the rat and knocking it around}
-{5708}{}{, splattering the rat across the floor}
-{5709}{}{, crippling the right leg}
-{5710}{}{, putting a big hole in the left leg}
-{5711}{}{, doing some extra damage due to the sensitive location}
-{5712}{}{, summoning this creature to the great ratcatcher in the sky}
-{5800}{}{. The floater drops to the ground}
-{5801}{}{. The floater falls to the ground, seemingly lifeless}
-{5802}{}{, with serious consequences to the creature's continued existence}
-{5803}{}{, stunning the foul creature}
-{5804}{}{, hitting a sensitive spot there and stunning the floater}
-{5805}{}{. The blow causes the floater to shudder violently in a spray of crimson}
-{5806}{}{. The blow causing some sort of violent reaction in the creature}
-{5807}{}{. The floater suddenly bursts into flames}
-{5808}{}{. It jerks wildly and quivers like a pudding surprise}
-{5809}{}{, with the blow hitting a sensitive spot}
-{5810}{}{. The creature is obviously agitated}
-{5900}{}{. Pushed like a bad habit, the centaur falls over and is stunned}
-{5901}{}{ as the blow strikes a critical spot}
-{5902}{}{, causing massive neurological failure}
-{5903}{}{, stunning it with your violent attack}
-{5904}{}{, crippling the arm}
-{5905}{}{, striking a critical spot. The arm is crippled}
-{5906}{}{, knocking the creature over and crippling the leg}
-{5907}{}{, stunning the centaur as it is knocked over with a crippled leg}
-{5908}{}{, blinding a head}
-{5909}{}{, surprising the centaur. It blindly stumbles for a moment}
-{5910}{}{, surprising the centaur. It collapses in a heap}
-{5911}{}{, surprising the centaur. It collapses in a pile of goo}
-{5912}{}{. The attack was not as effective as it could have been}
-{6000}{}{, inflicting some structural damage}
-{6001}{}{. Sparks fly and the robot goes momentarily out of control}
-{6002}{}{, hitting a critical component and forcing the robot out of control}
-{6003}{}{, hitting a critical component and causing a massive malfunction}
-{6004}{}{. The robot attempts to compensate}
-{6005}{}{. The robot strains to compensate}
-{6006}{}{, hitting some key part and causing heavy damage}
-{6007}{}{, inflicting heavy structural damage}
-{6008}{}{, hitting a critical component and causing severe damage}
-{6009}{}{. The robot shudders under this intense attack}
-{6010}{}{, dismantling the robot}
-{6011}{}{. The robot attempts to compensate, but fails, falling to the ground}
-{6012}{}{. The robot strains under the pressure, falling to the ground}
-{6013}{}{, breaking the sensor lenses}
-{6100}{}{, knocking the pooch to the ground}
-{6101}{}{, right across the snout}
-{6102}{}{. The dog falls over, but it is still breathing}
-{6103}{}{. The animal coughs up a spurt of blood}
-{6104}{}{, crippling the leg}
-{6105}{}{, crippling the leg. The animal tries to remain standing, but fails}
-{6106}{}{. The blinded animal howls in pain}
-{6107}{}{, neutering the poor animal}
-{6200}{}{, knocking down this mutated insect}
-{6201}{}{. It collapses}
-{6202}{}{. The manti ponders whether or not to continue living}
-{6203}{}{, crippling the limb}
-{6204}{}{, causing the manti to lick its wounds. It holds the limb oddly}
-{6205}{}{, bypassing the chitinous armor}
-{6206}{}{. The manti shrieks and shivers most inhuman like}
-{6207}{}{, which causes the manti to fall over. A limb is bent at an odd angle}
-{6208}{}{, shredding the wings}
-{6209}{}{, bypassing the chitinous armor and throwing the manti around}
-{6210}{}{, blinding the insect with an accurate blow}
-{6300}{}{. Even this beast seems fazed by that stunning attack}
-{6301}{}{, slipping past the huge claws to strike the monster. The Deathclaw shakes and growls}
-{6302}{}{. The result is massive damage to the Deathclaw's eyes}
-{6400}{}{, breaking past the plant's defenses}
-{6401}{}{, tearing some of its leaves off}
-{6402}{}{, breaking some of its fronds}
-{6403}{}{, damaging its chlorophyll intake}
-{6404}{}{, knocking the pollen out of it}
-{6405}{}{, almost tipping it over}
-{6406}{}{, damaging some of its branches}
-{6500}{}{. You'll have a headache tomorrow, if you live that long}
-{6501}{}{. Your armor provides no protection from this well-aimed blow}
-{6502}{}{. You feel the pain for just a moment, and then darkness takes you..}
-{6503}{}{, bypassing your armor. The blow knocks you off your feet}
-{6504}{}{. The shock makes your vision go dark. After a moment, you notice that your vision has not returned}
-{6505}{}{. You get a nice view of your body as your head sails through the air}
-{6506}{}{. Surprisingly, the damage feels no worse than normal}
-{6507}{}{, stunning you for a moment}
-{6508}{}{. Feel the pain}
-{6509}{}{. The attack leaves your arm useless}
-{6510}{}{, slipping past your armor. The blow cracks the bones in your arm like deadwood}
-{6511}{}{, bypassing your armor. Your arm now hangs limply at your side}
-{6512}{}{. The bruise will look nice, and maybe the scars will make good party talk}
-{6513}{}{, crushing your internal organs. All you can do is gurgle blood}
-{6514}{}{, sending you head over heels}
-{6515}{}{, sending you flying and breaking your leg}
-{6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee}
-{6517}{}{. The pain from your broken leg sends you into unconsciousness}
-{6518}{}{. The painful blow makes you flinch, but does little else}
-{6519}{}{. Unluckily for you, it also causes immediate vision loss}
-{6520}{}{. It takes you a moment to wipe the blood from your eyes}
-{6521}{}{, slipping past your armor. You stand stunned as your realize you cannot see anymore}
-{6522}{}{. You feel a strange sensation in your head. You realize it's imminent brain-death}
-{6523}{}{, making you cringe}
-{6524}{}{. You cup your groin and fall to the floor in pain}
-{6525}{}{. The pain is sufficient to knock you out. Ouch}
-{6526}{}{. There are not enough words in the universe to describe the pain you are feeling at this moment}
-{6700}{}{, breaking past the lizard's defenses}
-{6701}{}{, tearing some of its slimy skin off}
-{6702}{}{, breaking some of its digits}
-{6703}{}{, damaging its breathing ability}
-{6704}{}{, knocking the stuffing out of it}
-{6705}{}{, almost tipping it over}
-{6706}{}{, damaging some of its limbs}
-{6800}{}{, sliding past the creature's defenses}
-{6801}{}{, smearing some of its slime off}
-{6802}{}{, mashing some of its suction-feelers}
-{6803}{}{, damaging its air (?) intake}
-{6804}{}{, knocking the icky stuff out of it}
-{6805}{}{, almost tipping it over}
-{6806}{}{, damaging some of its tentacles}
-{6900}{}{, breaking past the ant's defenses}
-{6901}{}{, ripping some of its antennae off}
-{6902}{}{, breaking some of its feelers}
-{6903}{}{, damaging its health}
-{6904}{}{, knocking it around a bit}
-{6905}{}{, almost tipping it over}
-{6906}{}{, damaging some of its exoskeleton}
-{7000}{}{, breaking past the ant's defenses}
-{7001}{}{, ripping some of its antennae off}
-{7002}{}{, breaking some of its feelers}
-{7003}{}{, damaging its health}
-{7004}{}{, knocking it around a bit}
-{7005}{}{, almost tipping it over}
-{7006}{}{, damaging some of its exoskeleton}
-{7100}{}{, blowing past the Bodyguard's armor}
-{7101}{}{, bringing the Bodyguard to his knees}
-{7102}{}{, destroying his arm control mechanism}
-{7103}{}{, destroying his leg rotator mechanism}
-{7104}{}{, shattering his bionic eye}
-{7105}{}{, causing him to pause and shake off your massive attack}
-{7106}{}{, compacting his chest plate}
+{1506}{}{nos olhos}
+{1507}{}{no CPU}
+{1508}{}{lugar indefinido}
+{1510}{}{na cabeça}
+{1511}{}{no braço esquerdo}
+{1512}{}{no braço direito}
+{1513}{}{no tronco}
+{1514}{}{na perna direita}
+{1515}{}{na perna esquerda}
+{1516}{}{nos olhos}
+{1517}{}{na virilha}
+{1518}{}{lugar indefinido}
+{1520}{}{na cabeça}
+{1521}{}{na pata raptorial}
+{1522}{}{na pata raptorial}
+{1523}{}{no abdômen}
+{1524}{}{nas pernas}
+{1525}{}{nas asas}
+{1526}{}{nos olhos}
+{1527}{}{no metatórax}
+{1528}{}{lugar indefinido}
+{1530}{}{no CPU}
+{1531}{}{no manipulador}
+{1532}{}{no manipulador}
+{1533}{}{na estrutura}
+{1534}{}{na unidade matriz}
+{1535}{}{na unidade matriz}
+{1536}{}{nos sensores}
+{1537}{}{no regulador}
+{1538}{}{lugar indefinido}
+{1540}{}{no CPU}
+{1541}{}{no manipulador}
+{1542}{}{no manipulador}
+{1543}{}{na estrutura}
+{1544}{}{na unidade matriz}
+{1545}{}{na unidade matriz}
+{1546}{}{nos sensores}
+{1547}{}{no regulador}
+{1548}{}{lugar indefinido}
+{1550}{}{na cabeça}
+{1551}{}{na pata esquerda}
+{1552}{}{na pata direita}
+{1553}{}{no corpo}
+{1554}{}{na perna direita}
+{1555}{}{na perna esquerda}
+{1556}{}{nos olhos}
+{1557}{}{na virilha}
+{1558}{}{lugar indefinido}
+{1580}{}{na carapaça}
+{1581}{}{na carapaça}
+{1582}{}{na carapaça}
+{1583}{}{na carapaça}
+{1584}{}{na carapaça}
+{1585}{}{na carapaça}
+{1586}{}{na carapaça}
+{1587}{}{na carapaça}
+{1588}{}{lugar indefinido}
+{1590}{}{na cabeça}
+{1591}{}{na cauda}
+{1592}{}{na garra}
+{1593}{}{na carapaça}
+{1594}{}{nas patas dianteiras}
+{1595}{}{nas patas traseiras}
+{1596}{}{nos olhos}
+{1597}{}{no cérebro}
+{1598}{}{lugar indefinido}
+{1600}{}{na cabeça}
+{1601}{}{no braço esquerdo}
+{1602}{}{no braço direito}
+{1603}{}{no tronco}
+{1604}{}{na perna direita}
+{1605}{}{na perna esquerda}
+{1606}{}{nos olhos}
+{1607}{}{na virilha}
+{1608}{}{lugar indefinido}
+{1650}{}{na boca}
+{1651}{}{no talo}
+{1652}{}{no talo}
+{1653}{}{no talo central}
+{1654}{}{nas raízes}
+{1655}{}{nas raízes}
+{1656}{}{nas antenas}
+{1657}{}{na base}
+{1658}{}{lugar indefinido}
+{1660}{}{na cabeça}
+{1661}{}{mísseis de mão}
+{1662}{}{pistola de mão}
+{1663}{}{no corpo}
+{1664}{}{na perna direita}
+{1665}{}{na perna esquerda}
+{1666}{}{nos sensores}
+{1667}{}{na parte inferior do tronco}
+{1668}{}{lugar indefinido}
+{1670}{}{na cabeça}
+{1671}{}{na garra esquerda}
+{1672}{}{na garra direita}
+{1673}{}{no corpo}
+{1674}{}{na perna direita}
+{1675}{}{na perna esquerda}
+{1676}{}{nos olhos}
+{1677}{}{na virilha}
+{1678}{}{lugar indefinido}
+{1680}{}{na cabeça}
+{1681}{}{na garra esquerda}
+{1682}{}{na garra direita}
+{1683}{}{no corpo}
+{1684}{}{na perna direita}
+{1685}{}{na perna esquerda}
+{1686}{}{nos olhos}
+{1687}{}{na virilha}
+{1688}{}{lugar indefinido}
+{1800}{}{na cabeça}
+{1801}{}{no tentáculo esquerdo}
+{1802}{}{no tentáculo direito}
+{1803}{}{no corpo}
+{1804}{}{no pé direito}
+{1805}{}{no pé esquerdo}
+{1806}{}{nos olhos?}
+{1807}{}{na virilha}
+{1808}{}{lugar indefinido}
+{1850}{}{na cabeça}
+{1851}{}{no braço esquerdo}
+{1852}{}{no braço direito}
+{1853}{}{no tronco}
+{1854}{}{na perna direita}
+{1855}{}{na perna esquerda}
+{1856}{}{nos olhos}
+{1857}{}{na virilha}
+{1858}{}{lugar indefinido}
+{1860}{}{na cabeça}
+{1861}{}{no tentáculo esquerdo}
+{1862}{}{no tentáculo direito}
+{1863}{}{no corpo}
+{1864}{}{no pé direito}
+{1865}{}{no pé esquerdo}
+{1866}{}{nos olhos?}
+{1867}{}{na virilha}
+{1868}{}{lugar indefinido}
+{1900}{}{no CPU}
+{1901}{}{no servidor de arma}
+{1902}{}{no servidor de arma}
+{1903}{}{na estrutura}
+{1904}{}{na base do servidor}
+{1905}{}{na base do servidor}
+{1906}{}{nos sensores}
+{1907}{}{no regulador}
+{1908}{}{lugar indefinido}
+{1970}{}{na cabeça}
+{1971}{}{na pata dianteira esquerda}
+{1972}{}{na pata dianteira direita}
+{1973}{}{no abdômen}
+{1974}{}{na pata traseira direita}
+{1975}{}{na pata traseira esquerda}
+{1976}{}{nas antenas}
+{1977}{}{no metatórax}
+{1978}{}{lugar indefinido}
+{1990}{}{na cabeça}
+{1991}{}{no braço esquerdo}
+{1992}{}{no braço direito}
+{1993}{}{no tronco}
+{1994}{}{na perna direita}
+{1995}{}{na perna esquerda}
+{1996}{}{nos olhos}
+{1997}{}{na virilha}
+{1998}{}{lugar indefinido}
+{2000}{}{na cabeça}
+{2001}{}{no braço esquerdo}
+{2002}{}{no braço direito}
+{2003}{}{no tronco}
+{2004}{}{na perna direita}
+{2005}{}{na perna esquerda}
+{2006}{}{nos olhos}
+{2007}{}{na virilha}
+{2008}{}{lugar indefinido}
+{2010}{}{no CPU}
+{2011}{}{no servidor de arma}
+{2012}{}{no servidor de arma}
+{2013}{}{na estrutura}
+{2014}{}{na base do servidor}
+{2015}{}{na base do servidor}
+{2016}{}{nos sensores}
+{2017}{}{no regulador}
+{2018}{}{lugar indefinido}
+{2030}{}{na cabeça}
+{2031}{}{no ferrão}
+{2032}{}{nas antenas}
+{2033}{}{no tórax}
+{2034}{}{nas patas dianteiras}
+{2035}{}{nas patas traseiras}
+{2036}{}{nos olhos}
+{2037}{}{nas asas}
+{2038}{}{lugar indefinido}
+{5000}{}{. Essa doeu}
+{5001}{}{. Um ferimento grave é inflingido}
+{5002}{}{ sem a proteção da armadura}
+{5003}{}{. Ele foi nocauteado pelo violento ataque}
+{5004}{}{. Ele cai no chão, nocauteado pelo golpe}
+{5005}{}{. O forte ataque na cabeça faz com que ele seja nocauteado}
+{5006}{}{. O ataque destrói a têmpora. Boa noite, Bela Adormecida}
+{5007}{}{. A morte é instantânea}
+{5008}{}{, causando uma severa lesão no cotovelo}
+{5009}{}{, tirando o braço da frente}
+{5010}{}{, deixando um grande roxo}
+{5011}{}{, danificando o braço esquerdo}
+{5012}{}{, deixando o braço esquerdo pendurado pela pele}
+{5013}{}{. Esse braço agora é só um cotoco sangrento}
+{5014}{}{, danificando o braço direito}
+{5015}{}{. Seu braço direito é pulverizado pelo poderoso ataque}
+{5016}{}{ em um potente ataque}
+{5017}{}{, atravessando a armadura}
+{5018}{}{, infligindo um dano extra}
+{5019}{}{ sem armadura, nocauteando o combatente}
+{5020}{}{, expulsando o ar de seus pulmões. Ele cai no chão, fora da luta}
+{5021}{}{. Infelizmente, agora é possível ver claramente sua coluna através do buraco em seu tronco}
+{5022}{}{, ferindo gravemente sua perna}
+{5023}{}{, nocauteando-o como pinos num jogo de boliche depois de um belo strike}
+{5024}{}{, atropelando-o, danificando a perna}
+{5025}{}{, quebrando feio seu joelho. Ele cai}
+{5026}{}{. A intensa dor de perder a perna faz ele desistir}
+{5027}{}{, inflingindo dor extra}
+{5028}{}{. Infelizmente, ele perde a visão}
+{5029}{}{. Sem nenhuma proteção, o golpe causa uma dor severa}
+{5030}{}{, cegando-o com um golpe atordoador.}
+{5031}{}{. a perda de um olho é muito pra ele, e ele desmaia, caindo no chão}
+{5032}{}{. Infelizmente, ele está preocupado de mais sentindo a falta de ar no cérebro pra perceber a morte chegando}
+{5033}{}{Ai! Essa doeu}
+{5034}{}{, e ele não está usando um protetor de saco.}
+{5035}{}{. Sem proteção, ele cai no chão gemendo em agonia}
+{5036}{}{. A dor é tanta que ele desmaia, caindo no chão feito um saco de merda}
+{5037}{}{. Ele susurra "Mamãe", enquanto seus olhos giram para trás de sua cabeça}
+{5100}{}{. Essa doeu}
+{5101}{}{. Um ferimento sério é inflingido}
+{5102}{}{ sem a proteção da armadura}
+{5103}{}{. Ela foi nocauteada pelo violento ataque}
+{5104}{}{. Ela cai no chão, nocauteada pelo golpe}
+{5105}{}{. O forte golpe na cabeça faz com que ela seja nocauteada.}
+{5106}{}{. O ataque destrói sua têmpora. Boa noite, Bela Adormecida.}
+{5107}{}{. A morte é instantânea}
+{5108}{}{, causando uma severa lesão no cotovelo}
+{5109}{}{, tirando o braço da frente}
+{5110}{}{, deixando um grande roxo}
+{5111}{}{, danificando o braço esquerdo}
+{5112}{}{. O braço esquerdo agora está pendurado apenas por um fio de carne}
+{5113}{}{. Esse braço agora é só um cotoco sangrento}
+{5114}{}{, danificando o braço direito}
+{5115}{}{. O braço direito dela virou carne moida com o golpe}
+{5116}{}{ em um potente ataque}
+{5117}{}{, atravessando suas defesas}
+{5118}{}{, infligindo um dano extra}
+{5119}{}{ sem armadura, derrubando a combatente nocauteada no chão}
+{5120}{}{, expulsando o ar de seus pulmões. Ela cai no chão, inconsciente}
+{5121}{}{. Infelizmente, a maioria dos órgãos vitais dela estão agora de fora}
+{5122}{}{, ferindo gravemente sua perna}
+{5123}{}{, fazendo ela desmaiar como se tivesse visto a maior barata do mundo}
+{5124}{}{, derrubando-a e danificando sériamente esta perna}
+{5125}{}{, quebrando feio seu joelho. Ela vai direto pro chão}
+{5126}{}{. Ela grita de dor por causa da perna quebrada}
+{5127}{}{, inflingindo dor extra}
+{5128}{}{, causando cegueira. Ela contorce o rosto}
+{5129}{}{. Sem nenhuma proteção, o golpe causa uma dor severa}
+{5130}{}{. O ferimento causa uma cegueira severa (como se existisse algum outro tipo)}
+{5131}{}{. Ela desmaia após perder a visão com o ataque}
+{5132}{}{. Ela não tem tempo nem de pedir perdão à Deus antes de ir conhecê-lo pessoalmente}
+{5133}{}{. Ela aguenta que nem macho. Ou seja, doeu muito}
+{5134}{}{, derrubando-a no chão, nocauteada}
+{5135}{}{. As chances dela ter filhos diminuem sériamente enquanto ela cai no chão feito uma boneca de pano}
+{5200}{}{. A criancinha começa a chorar}
+{5201}{}{. Inconsciente, a criança cai no chão}
+{5202}{}{. Ai}
+{5203}{}{. O ataque é forte, e a criança é nocauteada}
+{5204}{}{, esmagando a criança, que parece um boneco de pano quando é atingida}
+{5205}{}{. O braço esquerdo da criança agora está com um dodói}
+{5206}{}{, fazendo a criança perder o equilíbrio}
+{5207}{}{, quebrando o braço com um alto estalo. A criança começa a chorar muito}
+{5208}{}{, quebrando o braço facilmente, como se fosse um palitinho}
+{5209}{}{. O braço direito começa a inchar, como um balão}
+{5210}{}{, e ela começa a chorar}
+{5211}{}{ num lugar sensível}
+{5212}{}{. O ataque atinge um órgão vital, derrubando a criança no chão}
+{5213}{}{, derrubando a criança como se fosse um brinquedo}
+{5214}{}{. Agora essa criancinha não vai mais poder desfrutar a vida}
+{5215}{}{, inflingindo um corte profundo}
+{5216}{}{. O ataque faz com que a criança caia no chão, quebrando a perna}
+{5217}{}{, ferindo sériamente a criancinha}
+{5218}{}{. A criancinha olha pra cima e começa a chorar}
+{5219}{}{, cegando a criança}
+{5220}{}{, esmagando o jovem nariz da criança}
+{5221}{}{. Um corte aparece em cima dos olhos e o sangue começa a fluir livremente}
+{5222}{}{, o que faz com que seu olho fique parecendo uma uva explodida. A criança está desnorteada}
+{5223}{}{, causando cegueira. A criança cai no chão}
+{5224}{}{, o golpe continua até atingir o pequeno cérebro}
+{5225}{}{. A criança parece confusa e assustada}
+{5226}{}{, nocauteando a criancinha, que cai no chão}
+{5300}{}{, ferindo o incrível mutante}
+{5301}{}{, acertando um órgão vital}
+{5302}{}{, acertando um órgão vital e nocauteando o gigante}
+{5303}{}{. O gigantesco mutante olha pros lados por um segundo, e depois cai no chão}
+{5304}{}{. A cabeça explode feito uma melancia gigante e sangrenta}
+{5305}{}{, ferindo gravemente o terrível mutante}
+{5306}{}{. O gigante para por um segundo, amaldiçoando o universo}
+{5307}{}{, atingindo um nervo. O gigante é obrigado a segurar seu braço por causa da dor}
+{5308}{}{. O ataque quebra o cutuvelo e provavelmente não foi uma sensação agradável}
+{5309}{}{, quebrando o gigantesco braço, o que faz com que o sangue mutante comece a jorrar no chão}
+{5310}{}{, fazendo o gigante perder o equilíbrio por um momento, e então cair no chão feito uma árvore recém cortada}
+{5311}{}{, e galões de tripas começam a cair no chão}
+{5312}{}{, fazendo o gigante cair voando no chão}
+{5313}{}{. O mutante treme e cai, sem conseguir suportar seu peso com a perna}
+{5314}{}{, acertando um lugar vital. O mutante cai com a perna quebrada}
+{5315}{}{. A dor de uma perna quebrada domina o terrível gigante}
+{5316}{}{, quase cegando o mutante}
+{5317}{}{, cegando o agora furioso mutante}
+{5318}{}{, quase cegando o mutante, que perde o equilíbrio}
+{5319}{}{. O mutante cego tropeça para trás, despreparado para o próximo ataque}
+{5320}{}{, cegando o agora inconsciente mutante}
+{5321}{}{. Os olhos do mutante brilham por um momento, e depois as luzes se apagam - pra sempre}
+{5400}{}{. O ghoul é surpreendido, e não consegue defender o ataque}
+{5401}{}{. O ataque enterra este ghoul}
+{5402}{}{. A mão do ghoul desnorteado se escancaram}
+{5403}{}{, atravessando sua armadura e atingindo um ponto crítico}
+{5404}{}{, atravessando a armadura e destruindo seu braço}
+{5405}{}{. O ghoul vai pro lugar errado, na hora errada, e perde um olho}
+{5406}{}{. O ghoul não está usando nenhuma armadura ai}
+{5407}{}{, e sem proteção, o ghoul fica cego}
+{5408}{}{, causando um olhar desnorteado no ghoul em seus últimos momentos}
+{5500}{}{, derrubando a grande besta no chão}
+{5501}{}{, atordoando os dois cérebros e derrubando o gigante animal}
+{5502}{}{. A vaca mutante faz um alto som, claramente assustada}
+{5503}{}{, quebrando uma das patas do Brahmin}
+{5504}{}{, ferindo gravemente a vaca mutante}
+{5505}{}{, penetrando facilmente na grossa carne do animal}
+{5506}{}{, atravessando diretamente os dois corações da vaca mutante}
+{5507}{}{, cegando todos os olhos com um único ataque}
+{5508}{}{, cegando as duas cabeças e atordoando a vaca mutante}
+{5509}{}{, cegando completamente o Brahmin, que cai nocauteado em seguida}
+{5510}{}{. O gigantesco mutante bovino perde o equilíbrio por um momento}
+{5511}{}{. O Brahmin balança com ódio}
+{5512}{}{. O Brahmin perde o ar com a dor}
+{5513}{}{. O Brahmin fica bem chateado com esse ataque super devastador}
+{5600}{}{, fazendo o Radscorpion voar longe}
+{5601}{}{, separando o cabeça da carapaça}
+{5602}{}{, danificando sériamente a cauda}
+{5603}{}{, ferindo sériamente suas garras}
+{5604}{}{. O ataque passa entre a grossa carapaça do Radscorpion}
+{5605}{}{, atravessando a carapaça sem perder velocidade}
+{5606}{}{, perfurando a armadura natural e nocauteando o Radscorpion}
+{5607}{}{. O Radscorpion não consegue lidar com uma sensação nova, tipo a de perder órgãos internos}
+{5608}{}{, fazendo o escorpião voar longe e quebrando algumas de suas pernas}
+{5609}{}{. O ataque abre um rasgo em uma parte desprotegida da perna, mutilando-a}
+{5610}{}{, ferindo gravemente e cegando a criatura mutante}
+{5611}{}{, penetrando quase até o cérebro. Isso que eu chamo de esmagar insetos}
+{5612}{}{, quase chegando até o cérebro, cegando a criatura ao invés disso}
+{5613}{}{. O ataque é forte, e sofisticado de mais para que }
+{5614}{}{. Se fosse um humano, você poderia ter certeza de que ele estaria muito puto}
+{5615}{}{, fazendo a pobre criatura cair no chão, sem os sentidos}
+{5616}{}{, deixando pedaços de seu cérebro no chão}
+{5700}{}{. A cabeça do roedor faz sons nada saudáveis}
+{5701}{}{, esmagando a cabeça do roedor como se fosse uma bola de papel molhada}
+{5702}{}{, e a pata da esquerda agora está meio achatada}
+{5703}{}{. A pata da esquerda do rato está completamente destruida}
+{5704}{}{. A pata direita está gravemente ferida}
+{5705}{}{, explodindo a pata direita}
+{5706}{}{. O rato é severamente ferido com este ataque}
+{5707}{}{, ferindo gravemente o rato, que é nocauteado}
+{5708}{}{, espalhando o rato pelo chão}
+{5709}{}{, quebrando a perna direita}
+{5710}{}{, fazendo um enorme buraco na perna esquerda}
+{5711}{}{, fazendo um dano extra devido a sensibilidade da área atingida}
+{5712}{}{. Sua alma foi arrebatada para conhecer o maravilhoso (porém pequeno) deus rato}
+{5800}{}{. O floater cai no chão}
+{5801}{}{. O floater cai no chão, aparentemente morto}
+{5802}{}{, deixando sérias sequelas que vão prejudicar bastante a vida da criatura}
+{5803}{}{, atordoando a terrível criatura}
+{5804}{}{, atigindo uma área sensível e atordoando o floater}
+{5805}{}{. O golpe faz com que a criatura trema violentamente, numa névoa de sangue}
+{5806}{}{. O ataque causa algum tipo de reação violenta na criatura}
+{5807}{}{. O floater de repente explode em chamas}
+{5808}{}{. A criatura sacode selvagemente e treme como um pudim surpreso}
+{5809}{}{, atingindo uma área sensível}
+{5810}{}{. A criatura está obviamente agitada}
+{5900}{}{. O centauro cai e fica atordoado}
+{5901}{}{ e o golpe atinge um ponto crítico}
+{5902}{}{, causando uma grande falha neurológica}
+{5903}{}{, atordoando-o com seu ataque violento}
+{5904}{}{, ferindo gravemente o braço}
+{5905}{}{, atingindo um ponto crítico. O braço está incapacitado}
+{5906}{}{, derrubando a criatura e ferindo gravemente a perna}
+{5907}{}{, deixando o centauro atordoado enquanto cai com uma perna incapacitada}
+{5908}{}{, cegando a cabeça}
+{5909}{}{, surpreendendo o centauro. Ele tropeça cegamente por um momento}
+{5910}{}{, surpreendendo o centauro. Ele cai como um monte de merda}
+{5911}{}{, surpreendendo o centauro. Ele cai em uma pilha de gosma}
+{5912}{}{. O ataque não foi tão eficaz como poderia ter sido}
+{6000}{}{, causando alguns danos estruturais}
+{6001}{}{. Faíscas voam e o robô fica momentaneamente fora de controle}
+{6002}{}{, atingindo um componente crítico que deixa o robô fora de controle}
+{6003}{}{, atingindo um componente crítico que causa um gigantesco mau funcionamento}
+{6004}{}{. O robô tenta se manter em pé}
+{6005}{}{. As robô luta para não cair}
+{6006}{}{, atingindo uma parte crítica que causa danos pesados}
+{6007}{}{, causando um gigantesco dano estrutural}
+{6008}{}{, atingindo um componente crítico e causando graves danos}
+{6009}{}{. O robo treme diante desde intenso ataque}
+{6010}{}{, desmontando o robô}
+{6011}{}{. O robô tenta compensar, mas não consegue, caindo no chão}
+{6012}{}{. O robô cede sobre a pressão, caindo no chão}
+{6013}{}{, Quebrando as lentes do sensor}
+{6100}{}{, derrubando o cão no chão}
+{6101}{}{, bem no meio do focinho}
+{6102}{}{. O cão cai no chão, mas ainda está respirando}
+{6103}{}{. O animal tosse uma nuvem de sangue}
+{6104}{}{, quebrando a perna}
+{6105}{}{, quebrando a perna. O animal tenta se manter em pé, mas não consegue}
+{6106}{}{. O animal cego uiva com a dor}
+{6107}{}{, neutralizando o pobre animal}
+{6200}{}{, Derrubando esse inseto mutante}
+{6201}{}{. ele cai no chão}
+{6202}{}{. O manti se pergunta se deve ou não continuar vivendo}
+{6203}{}{, quebrando o membro}
+{6204}{}{, fazendo o Manti lamber suas feridas. Ele segura seu membro de forma... curiosa}
+{6205}{}{, ignorando a armadura de sua resistente carapaça}
+{6206}{}{. O Manti grita e se contorce de uma maneira nada humana}
+{6207}{}{, o que faz com que o Manti caia. Um membro fica curvado em um ângulo estranho. Isso deve doer}
+{6208}{}{, rasgando as asas}
+{6209}{}{, ignorando a armadura de carapaça e jogando o Manti pra longe}
+{6210}{}{, cegando o inseto com um golpe preciso}
+{6300}{}{. Até mesmo essa besta parece desorientada com este ataque brutal}
+{6301}{}{, escorregando pelas enormes garras para atingir o monstro. O Deathclaw se chacoalha e grunhe}
+{6302}{}{. O resultado é um enome estrago nos olhos do Deathclaw}
+{6400}{}{, ignorando as defesas da planta}
+{6401}{}{, arrancando algumas de suas folhas}
+{6402}{}{, quebrando alguns de seus galhos}
+{6403}{}{. Esse ataque violento tiraria todo o fôlego da planta, se ela tivesse pulmões}
+{6404}{}{, espirrando pólem pra todos os lados}
+{6405}{}{, quase a derrubando}
+{6406}{}{, danificando alguns de seus galhos}
+{6500}{}{. Você vai ter uma dor de cabeça forte amanhã, se sobreviver até lá}
+{6501}{}{. Sua armadura não te protege desse ataque certeiro}
+{6502}{}{. Você sente uma dor forte por um momento, e depois tudo fica preto..}
+{6503}{}{, ignorando sua armadura. O golpe te derruba no chão}
+{6504}{}{. O choque faz você enchergar tudo preto. Depois de uns segundos, você percebe que sua visão não voltou}
+{6505}{}{. Você dá uma bela olhada no seu coorpo enquanto sua cabeça viaja pelo ar}
+{6506}{}{. De forma surpreendete, o golpe não é tão pior que o normal}
+{6507}{}{, te desorientando por um momento}
+{6508}{}{. Sinta a dor}
+{6509}{}{. O ataque deixa seu braço inutilizado}
+{6510}{}{, atravessando sua armadura. O golpe quebra os ossos de seu braço como se fossem gravetos}
+{6511}{}{, atravessando sua armadura. Seu braço agora está pendurado por um fio no seu ombro}
+{6512}{}{. Vai ficar um roxo enorme, e talvez as cicatrizes sirvam de assunto nas próximas festas}
+{6513}{}{, destruindo seus órgãos internos. Tudo que você pode fazer é gargarejar sangue}
+{6514}{}{, te jogando de cabeça pra baixo. Você dá quase um mortal}
+{6515}{}{, você sai voando com a perna quebrada}
+{6516}{}{, passando por sua armadura como se fosse manteiga. O pancada te derruba no chão, e fere seriamente seu joelho}
+{6517}{}{. A dor da sua perna quebrada faz você desmaiar}
+{6518}{}{. A pancada faz você se contorcer um pouco, mas nada além disso}
+{6519}{}{. Pro seu azar, você fica cego imediatamente}
+{6520}{}{. Ai. Você perde um tempinho tentando limpar o sangue dos seus olhos}
+{6521}{}{, atravessando sua armadura. Você fica sem direção até perceber que você perdeu a visão}
+{6522}{}{. Você sente uma coisa estranha na cabeça. Você percebe que é morte cerebral iminente}
+{6523}{}{, fazendo você gritar}
+{6524}{}{. Você segura sua virilha e cai no chão, sentindo uma terrível dor}
+{6525}{}{. A dor é tão grande que você desmaia. Eu não queria ser você agora}
+{6526}{}{. Não existem palavras no universo pra descrever a dor que você está sentindo neste momento}
+{6700}{}{, ultrapassando as defesas do lagarto}
+{6701}{}{, arrancando um pedaço de sua pele gosmenta}
+{6702}{}{, quebrando alguns de seus dedos}
+{6703}{}{, prejudicando seriamente a habilidade do Gecko respirar}
+{6704}{}{. Que pancada}
+{6705}{}{, quase a derrubando}
+{6706}{}{, danificando sériamente alguns de seus membros}
+{6800}{}{, atravessando as defesas da criatura}
+{6801}{}{, fazendo voar gosma pra todos os lados}
+{6802}{}{, destruindo seus... o que é isto mesmo? Eca }
+{6803}{}{, danificando sua habilidade de... respirar (?)}
+{6804}{}{, fazendo voar uma coisa nojenta}
+{6805}{}{, quase a derrubando}
+{6806}{}{, danificando alguns de seus tentáculos}
+{6900}{}{, ultrapassando as defesas da formiga}
+{6901}{}{, arrancando uma de suas antenas fora}
+{6902}{}{, quebrando algumas de suas pernas}
+{6903}{}{, ferindo a formiga gravemente}
+{6904}{}{, fazendo com que ela tropece um pouco}
+{6905}{}{, quase a derrubando}
+{6906}{}{, danificando uma parte de seu exoesqueleto}
+{7000}{}{, ultrapassando as defesas da formiga}
+{7001}{}{, arrancando uma de suas antenas fora}
+{7002}{}{, quebrando algumas de suas pernas}
+{7003}{}{, ferindo a formiga gravemente}
+{7004}{}{, fazendo com que ela tropece um pouco}
+{7005}{}{, quase a derrubando}
+{7006}{}{, danificando uma parte de seu exoesqueleto}
+{7100}{}{, ultrapassando a armadura}
+{7101}{}{, fazendo ele cair de joelhos}
+{7102}{}{, destruindo o mecanismo que controla seu braço}
+{7103}{}{, destruindo o mecanismo que faz sua perna se movimentar}
+{7104}{}{, estourando seu olho biônico}
+{7105}{}{, fazendo ele parar por alguns segundos se recompondo de seu ataque destruidor}
+{7106}{}{, compactando seu peitoral mecânico}

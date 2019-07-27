@@ -2,23 +2,23 @@
 {150}{}{You see a rugged looking man dressed in leather armor. Numerous scars and gunshot wounds
  cover his body.}
 {151}{}{You see one of Bishop's men. He is scanning the area and fingering his weapon.}
-{200}{}{Hey! }
+{200}{}{Ei! }
 {201}{}{::cheers::}
-{202}{}{::claps::}
+{202}{}{::palmas::}
 {203}{}{::whistles::}
-{205}{}{How the hell do you go to the bathroom with that thing on?}
-{210}{}{Nice piece you got there, }
+{205}{}{Como diabos você vai no banheiro com essa coisa?}
+{210}{}{Bela arma, }
 {215}{}{Uh, why are you sneaking around, }
 {216}{}{Uh, hey, }
 {220}{}{Yo, }
-{221}{}{Hey, }
-{222}{}{Hey, }
+{221}{}{Ei, }
+{222}{}{Ei, }
 {225}{}{You just walked into the wrong place, dipshit.}
 {226}{}{Well, look at the brass balls on this son of a bitch... get, boy, before we gun you down.}
 {227}{}{This guy's asking for trouble...}
 {228}{}{I hear the }
 {229}{}{You better leave, }
-{230}{}{Well, if it isn't }
+{230}{}{Ora ora, se não é }
 {231}{}{Didn't think members of family }
 {232}{}{You just walked into the wrong place, bitch.}
 {233}{}{Well, look at the swagger on this bitch...}
@@ -27,24 +27,24 @@
 {236}{}{I hear the }
 {250}{}{Yo, champ. No weapons in here, 'kay?}
 {251}{}{Yo, champ! Put that weapon away.}
-{252}{}{Hey, }
+{252}{}{Ei, }
 {255}{}{What are you sneaking around for?}
 {256}{}{Are you trying to avoid your fans?}
 {257}{}{Uh, why all the secrecy?}
 {260}{}{Yo, }
 {261}{}{Yo, }
 {265}{}{Yo, lover-boy. No weapons in here, 'kay?}
-{266}{}{Hey, }
+{266}{}{Ei, }
 {267}{}{Yo, }
 {268}{}{Honey, you can't be carryin' weapons in here. Heh-heh... you're deadly enough as it is.}
-{269}{}{Hey, }
+{269}{}{Ei, }
 {275}{}{Honey, with a body like that, you won't be able to sneak anywhere.}
 {280}{}{Love the films, }
 {281}{}{Loved you in Great Balls for Hire.}
 {282}{}{Loved you in Good Will Humping.}
 {283}{}{I'm a big fan of your work in Pokeahotass.}
 {284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
-{285}{}{::Whistles::}
+{285}{}{::Assobios::}
 {295}{}{You looking to fill a grave in Golgotha, slaver? Put that thing away.}
 {296}{}{Put that weapon away, slaver, or I'll use you for target practice.}
 {297}{}{Slaver, you better secure that weapon right NOW.}
@@ -68,7 +68,7 @@
 {325}{}{Catch the fight last night?}
 {326}{}{I'm hitting the Cat's Paw after work.}
 {330}{}{I thought the President was a myth, a boogey man used to scare children.}
-{331}{}{You look like you've been through hell and back. Relax a little. You deserve it.}
+{331}{}{Parece que você voltou do inferno. Relaxe um pouco. Você merece.}
 {332}{}{They were gonna dump some new virus into the air? Bastards. Hope you shot a few for me.}
 {333}{}{You might want to replay the game as a different character.}
 {334}{}{You've got some serious muscle to bust the Enclave like you did.}
@@ -80,9 +80,9 @@
 {338}{}{Yeah, I scored with Tandi once. When she was young, I mean.}
 {339}{}{That Lynette chick is in bad need of some lovin', y'know?}
 {340}{}{Heard you busted up that Enclave down South. Pretty brave.}
-{350}{}{Hey, }
+{350}{}{Ei, }
 {351}{}{Yo, }
-{352}{}{Hey, }
+{352}{}{Ei, }
 {353}{}{I heard Tommy the Balls is back in town, checking up on things. Watch out for him.}
 {354}{}{You see Tommy the Balls, stay outta his way.}
 {355}{}{Put in a good word with Bishop for me?}
@@ -108,21 +108,21 @@
 {374}{}{If you talk to Bishop, stay away from the wife and daughter... nothing but trouble.}
 {380}{}{Heard Mrs. Bishop was looking for you. Watch out, pal.}
 {381}{}{Heard the Bishop daughter was looking for you. She's trouble.}
-{382}{}{You don't look so tough, Mr. Prizefighter.}
+{382}{}{Você não parece tão forte, Sr. Prizefighter.}
 {383}{}{You know, Family Bishop could really use someone like you. Tough. Uncompromising.}
 {384}{}{You should talk to Bishop about a job.}
 {385}{}{You might want to consider joining up with us. We're gonna rule New Reno.}
 {386}{}{I got $20 riding on you!}
-{387}{}{Hey, champ! That last fight was great!}
-{388}{}{Saw you fight in the ring. Damn good right hook you throw.}
+{387}{}{Ei, campeão! Aquela última luta foi ótima!}
+{388}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
 {389}{}{You gonna take the fall? I got $30 riding on you.}
-{390}{}{How much you bench?}
-{391}{}{Where do you work out?}
-{392}{}{Watch out for the Masticator. He has a taste for ears.}
-{393}{}{I'd get you a drink if I hadn't blown all my money betting on your opponent.}
+{390}{}{Quanto você pesa?}
+{391}{}{Onde você trabalha fora do ringue?}
+{392}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
+{393}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
 {394}{}{Wanna wrestle?}
-{395}{}{You don't look so tough, Ms. Left Hook.}
-{396}{}{Can I see your abdominal muscles flex?}
+{395}{}{Você não parece ser tão forte, Srta. Gancho de esquerda.}
+{396}{}{Posso ver seus músculos abdominais?}
 {400}{}{Heard Mrs. Bishop was looking for you. Watch out, pal.}
 {401}{}{Get me a job, pal? C'mon. I'm the king of studs.}
 {402}{}{Love the films, }
@@ -179,8 +179,8 @@
 {475}{}{Get out of here before I beat you uglier than you are.}
 {476}{}{Go bark at someone drunker than me, bitch.}
 {490}{}{I *thought* I smelled something rotting. Get that ghoul boy o' yours outta here.}
-{491}{}{Get that stinky ghoul outta here. Now.}
-{492}{}{That ghoul ain't outta here in a minute, he's gonna be deader than he already is.}
+{491}{}{Tire esse ghoul fedorento daqui. Agora.}
+{492}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
 {1200}{}{! Way to kick the Enclave's ass!}
 {1210}{}{.}
 {1215}{}{?}

@@ -1,10 +1,6 @@
-# QUICK LOOK
 {100}{}{Vidíš nemocného otroka.}
 {101}{}{Vidíš nadrogovaného otroka.}
 {102}{}{Vidíš otroka.}
-
-# EXAMINES
-# 1. [SICKLY MALE SLAVE]
 {150}{}{Vidíš znièenì vypadajícího muže. Jeho oèi mihotají po okolí, jako by sledovaly nìjakou neviditelnou mouchu.}
 {151}{}{Vidíš nemocného otroka. Je hroznì vydìšený a jeho oèi se na tebe nedokáží soustøedit.}
 {152}{}{Vidíš nemocného otroka. Jeho obleèení je potrhané a jeho kùže sotva visí na tìle.}
@@ -12,7 +8,6 @@
 {154}{}{Vidíš nemocného otroka. Je z nìj cítit silný zápach moèi a fekálií.}
 {155}{}{Vidíš nemocného otroka. Má vypadlé zuby a oèi podlité krví.}
 {156}{}{Vidíš nemocného otroka. Jeho tváø je pokrytá nìjakou vyrážkou a neustále se škrábe.}
-# 2. [SICKLY FEMALE SLAVE]
 {160}{}{Vidíš znièenì vypadající ženu. Zírá do zemì pøed sebou, jako by mìla strach zvednout pohled.}
 {161}{}{Vidíš nemocnou otrokyni. Je hroznì vydìšená a její oèi se na tebe nedokáží soustøedit.}
 {162}{}{Vidíš nemocnou otrokyni. Na tváøi a na rukou jí sedí hmyz, ale ona tomu vùbec nevìnuje pozornost.}
@@ -21,45 +16,34 @@
 {165}{}{Vidíš nemocnou otrokyni. Je z ní cítit silný zápach moèi a fekálií.}
 {166}{}{Vidíš nemocnou otrokyni. Její tváø a krk pokrývá nìjaká vyrážka, takže se neustále škrábe.}
 {167}{}{Vidíš nemocnou otrokyni. Vypadá, jako by chtìla plakat, ale z oèí jí nevycházejí žádné slzy. }
-# 3. [MALE SLAVE, DRUGGED]
 {170}{}{Vidíš omámenì vypadajícího muže. Zírá pøímo pøed sebe s nepøítomným výrazem na tváøi.}
 {171}{}{Vidíš zfetovaného otroka. Jeho oèi mihotají po okolí a ani na chvíli se nezamìøí na jednu vìc.}
 {172}{}{Vidíš zfetovaného otroka. Právì se kousl do ruky a utrhl si z ní kus kùže, kterou pomalu žvýká.}
 {173}{}{Vidíš zfetovaného otroka. Má na tváøi lehký úsmìv, ale oèi má zakalené a bez výrazu.}
 {174}{}{Vidíš zfetovaného otroka. Zírá do prázdna a z koutku úst mu vytékají sliny.}
 {175}{}{Vidíš zfetovaného otroka. Když tì spatøí, tak mrkne a bolestnì se usmìje, jako by jsi záøil jako Slunce.}
-# 4. [DRUGGED FEMALE SLAVE]
 {180}{}{Vidíš chvìjící se ženu. Zírá do zemì, jako by mìla strach, že zmizí, pokud pøestane.}
 {181}{}{Vidíš zfetovanou otrokyni. Chichotá se a olizuje si krev z rozkousaných rtù.}
 {182}{}{Vidíš zfetovanou otrokyni. Na ruce má stopy po jehlách spolu s nìkolika modøinami a jizvami od bièe.}
 {183}{}{Vidíš zfetovanou otrokyni. Rychle mrká, jako by mìla suché oèi.}
 {184}{}{Vidíš zfetovanou otrokyni. Škrábe se na rukou tak zbìsile, že jí na prstech zùstávají kousky kùže.}
 {185}{}{Vidíš zfetovanou otrokyni. Košili má pokrytou zvratky a celá lehce páchne po terpentýnu.}
-# 5. [MALE SLAVE, BEATEN]
 {190}{}{Vidíš hubeného muže. Je pokrytý jizvami od bièe a neustále zírá do zemì, jako by èekal na rozkazy.}
 {191}{}{Vidíš zmláceného otroka.}
 {192}{}{Vidíš hubeného otroka. Je pokrytý jizvami od bièe a neustále zírá do zemì, jako by èekal na rozkazy.}
-# 6. [DRUGGED FEMALE SLAVE]
 {195}{}{Vidíš chvìjící se ženu. Její tìlo je pokryté jizvami od bièe a její obleèení je na cáry.}
 {196}{}{Vidíš otrokyni.}
 {197}{}{Vidíš otrokyni. Lehce se chvìje a její tìlo je pokryté jizvami od bièe.}
-
-# FLOAT:
-# 7. [SICKLY SLAVE]
 {200}{}{::Popotahuje nosem::}
 {201}{}{::Huhhhhk::}
 {202}{}{::Kašle::}
 {203}{}{::Škrábe se.::}
 {204}{}{::Odhání mouchy::}
-# 8. [DRUGGED SLAVE]
 {210}{}{::Popotahuje nosem::}
 {211}{}{*Chichi*}
 {212}{}{Heeeeeeee}
 {213}{}{Hee heeeee hee... hee...}
 {214}{}{EeeeEEEEeeeeEEEE}
-
-# CLICK:
-# 9. [SICKLY SLAVE]
 {220}{}{::Nepøítomnì se na tebe dívá::}
 {221}{}{::Tiše pláèe::}
 {222}{}{::Nepøítomnì na tebe zírá::}
@@ -70,7 +54,6 @@
 {227}{}{::Utírá si nos::}
 {228}{}{Hunnnnnh}
 {229}{}{Rrrurrr..rr..::kašle::}
-# 10. [DRUGGED SLAVE]
 {240}{}{::Mne si oèi::}
 {241}{}{::Chrochtá jako prase::}
 {242}{}{::Škrábe se na hlavì a mne si oèi::}
@@ -84,19 +67,17 @@
 {250}{}{Bùùùùùù}
 {251}{}{Já špatnì já dobøe já špatnì já dobøe.}
 {252}{}{Dvakrát dobøe.}
-# 11. [BEATEN SLAVE vs. SLAVER]
 {260}{}{Už mám vlastníka. Mùj pán má doklady.}
 {261}{}{Nech mì prosím být, patøím nìkomu jinýmu.}
 {262}{}{Pomoz mi prosím: hledám dvì dìti, s èernými vlasy...? Pøed dvìma lety je odvedli jiní otrokáøi na sever.}
 {263}{}{Prosím... nemám dovoleno se s nikým bavit.}
-{264}{}{Prosím... nech mì být. Mùj pán se brzo vrátí.}
+{264}{}{Please... let me be. My master will be back soon.}
 {265}{}{Jestli mì mùj pán chytí, zbije mì.}
 {266}{}{Já už mám paní. Nebude ráda, když se se mnou budeš vybavovat.}
-{267}{}{Nemùžu se s tebou vybavovat. Mám své povinnosti.}
+{267}{}{Nemohu s tebou mluvit. Mám povinnosti.}
 {268}{}{Jestli mì nìkdo uvidí, jak se vybavuju s otrokáøem, dají mì na testování drog.}
-{269}{}{Prosím, odejdi, otrokáøi. Nechci mít problémy.}
+{269}{}{Prosím tì, jdi slintat nìkam jinam. Nechci mít žádné problémy.}
 {270}{}{Utýct? Já... se odsud ještì nikdy nepokusil utýct. Neodvážím se porušit pøíkazy svýho pána.}
-# 12. [BEATEN AND/OR GENERIC SLAVE]
 {280}{}{Jestli mì nìkdo uvidí, jak se s tebou vybavuju, dají mì na testování drog.}
 {281}{}{Kdysi jsem pracoval s otrokem, kterej pøed pár dny umøel na pøedávkování.}
 {282}{}{Testujou na nás nový drogy a nìkterý jsou dokonce jedovatý.}
@@ -107,9 +88,9 @@
 {287}{}{Jestli mì mùj pán chytne, jak se s tebou bavím, zbije mì.}
 {288}{}{Mùj pán je hodný. Bije mì jenom obèas.}
 {289}{}{Rodina mi nechybí. Mùj pán je hodný.}
-{290}{}{Odvedli mì z divošský vesnice na severu, ale tady je život... mnohem lepší.}
+{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
 {291}{}{Poprvý mì chytili v Denu.}
-{292}{}{Nemùžu se s tebou vybavovat. Mám práci.}
+{292}{}{Nemohu s vámi mluvit. Musím pracovat.}
 {293}{}{Musím dokonèit svý povinnosti, než se vrátí mùj pán.}
 {294}{}{Mluvení je proti pravidlùm.}
 {295}{}{Prosím, jdi pryè. Na kolenou tì prosím. Dostaneš mì akorát do problémù.}
@@ -125,8 +106,8 @@
 {305}{}{::Vystrašenì se otoèí::}
 {306}{}{::Ignoruje tì, asi má strach::}
 {307}{}{Jakmile se nauèíš, co od tebe tvùj pán oèekává, tak už bití není tak... èastý.}
-{308}{}{Zajali mì už strašnì dávno. Už si na to skoro ani nepamatuju.}
+{308}{}{Byl jsem zajat jako otrok už dost dávno. Stìží si to pamatuji.}
 {309}{}{Mìl jsem dvì dìti, ale odvezli je nìkam na sever. Doufám, že dopadli líp než já.}
-{310}{}{Promiò, ale nemám èas se s tebou vybavovat.}
+{310}{}{Omlouvám se, ale nemám èas na rozhovory.}
 {311}{}{Mùj pán se na mì v poslední dobì zlobí. Øíká, že mì prodá do Stájí, jestli ho ještì jednou naštvu.}
 {312}{}{Otroci, kteøí uteèou, nechaj zemøít v Golgotì, nebo je pošlou do Stájí na testování.}

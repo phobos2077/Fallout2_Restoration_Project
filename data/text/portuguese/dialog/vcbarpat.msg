@@ -1,53 +1,53 @@
-{100}{}{You see a dusty-looking traveler.}
+{100}{}{Você vê um viajante empoeirado para o futuro.}
 {101}{}{Você vê o dono do bar.}
-{102}{}{You see a dusty-looking traveler.}
-{103}{}{Hey! Everybody! It's the one who kicked the Enclave's ass!}
-{104}{}{Congratulations, hero!}
-{105}{}{Hey, hero! Lemme buy you a drink, all right?}
-{106}{}{Looks like the Captain's slumming...}
-{107}{}{Well, if it ain't the First Citizen's favorite toadie...}
-{108}{}{Well, if it ain't th' "Captain..."}
-{109}{}{Everybody watch out. The law just walked in.}
-{110}{}{You slumming, Citizen?}
-{111}{}{Don't you belong inside the city, "Citizen?"}
-{112}{}{Damn Citizens just stroll on in whenever they feel like it...}
-{113}{}{Whoa... that a mutant?!}
-{114}{}{Clear out, boys. There's a mutant in the house.}
-{115}{}{There's gonna be trouble if them guards see that mutant...}
-{116}{}{They're letting *mutants* in here now?}
-{117}{}{That mutant's gonna find himself in the Detention Center...}
-{118}{}{Tell me that's not a ghoul.}
-{119}{}{What's that *stink?!* Get that ghoul outta here!}
-{120}{}{Get that filthy ghoul outta the bar!}
-{121}{}{If that ghoul sheds any body parts in here, I'll gut him.}
-{122}{}{That ghoul's gonna be target practice if the guards see him. }
-{123}{}{Can barely afford a Day Pass nowadays...}
-{124}{}{Brahmin prices keep going up...}
-{125}{}{Gonna be a bad season if the drought continues...}
-{126}{}{Slumming, Captain?}
-{127}{}{Look, I ain't done nothing, Captain. I'm just minding my own business.}
-{128}{}{I don't know nothing, Captain. Now leave me alone.}
-{129}{}{Take a hike, "Captain."}
-{130}{}{Looks like Lynette'll make anyone a Citizen nowadays.}
-{131}{}{I already paid the guards their protection money. Now leave me alone.}
-{132}{}{Slumming, Citizen?}
-{133}{}{Maybe you better get inside the walls, Citizen.}
-{134}{}{Beat it, Citizen.}
-{135}{}{Take a hike, Citizen.}
-{136}{}{Looks like Lynette'll make anyone a Citizen nowadays.}
-{137}{}{That Smith's a nice fella.}
-{138}{}{I don't think I'll ever be able to get a Day Pass.}
-{139}{}{Don't drink the water around here. It makes geiger counters tick.}
-{140}{}{Whenever those Citizens walk by, they don't make eye contact or say hello.}
-{141}{}{Vault City may not love us, but at least they protect us.}
-{142}{}{Watch out for that Auto-Doc. It cures you... most of the time. Just don't press your luck.}
-{143}{}{Ed, the brahmin dealer, had to raise his prices again to meet the monthly guard payment.}
-{144}{}{That Skeev let me slip some hootch into town for a percentage. }
-{145}{}{Been on the road for the past week. Came from NCR, way down south.}
-{146}{}{Some friends of mine went to Reno... ain't seen 'em since.}
-{147}{}{I hear Reno's getting tense again. Them families hate each other.}
-{148}{}{I hear those ghouls up at Gecko are planning to attack the city.}
-{149}{}{Don't cross any of the Citizens or they'll slap you in the Detention Center.}
-{150}{}{That Lynette is a cold one.}
-{151}{}{Vault City ain't exactly a "free" city. It ain't bad, though.}
-{152}{}{Vault City's better than the Den. Ain't as much fun, though.}
+{102}{}{Você vê um viajante empoeirado para o futuro.}
+{103}{}{Ei Todo mundo! É a única que chutou a bunda do Enclave!}
+{104}{}{Parabéns, herói!}
+{105}{}{Ei, herói! Deixa eu comprar uma bebida, certo?}
+{106}{}{Parece que é um capitão slumming...}
+{107}{}{Bem, se não é toadie favorito do Primeiro Cidadão ...}
+{108}{}{Bem, se não é th '"Capitão ..."}
+{109}{}{Todo mundo esteja atento. A lei acabou de entrar.}
+{110}{}{Você slumming, Cidadão?}
+{111}{}{Você não pertencem dentro da cidade, "Cidadão?"}
+{112}{}{Porra Cidadãos apenas passear em no sempre que sentem como ele ...}
+{113}{}{Uau ... que um mutante ?!}
+{114}{}{Limpe, rapazes. Há um mutante na casa.}
+{115}{}{Vai haver problemas se esses guardas ver os mutante ...}
+{116}{}{Eles estão dentro * * mutantes aqui agora?}
+{117}{}{Isso vai do mutante encontrar-se no Centro de Detenção ...}
+{118}{}{Diga-me que não é um Ghoul.}
+{119}{}{* O que é que fede?! * Tire esse Ghoul outta aqui!}
+{120}{}{Tire esse Ghoul imundo outta o bar!}
+{121}{}{Se isso Ghoul lança quaisquer partes do corpo em aqui, eu vou estripar ele.}
+{122}{}{Isso vai ghoul ser alvo prática se os guardas vê-lo.}
+{123}{}{Mal consegue pagar a passagem do dia hoje em dia ..}
+{124}{}{Preços brahmin continuar subindo ...}
+{125}{}{Vai ser uma temporada ruim se a seca continua ...}
+{126}{}{Slumming, Capitão?}
+{127}{}{Olha, eu não fiz nada, capitão. Eu só estou cuidando da minha vida.}
+{128}{}{Eu não sei nada, capitão. Agora me deixe em paz.}
+{129}{}{Dê uma caminhada, o "capitão".}
+{130}{}{Parece que Lynette'll fazer qualquer cidadão hoje em dia.}
+{131}{}{Eu já paguei os guardas o seu dinheiro de protecção. Agora me deixe em paz.}
+{132}{}{Slumming, Cidadão?}
+{133}{}{Talvez seja melhor você ficar dentro das muralhas, Cidadão.}
+{134}{}{Bata-o, Cidadão.}
+{135}{}{Dê uma caminhada, Cidadão.}
+{136}{}{Parece que Lynette'll fazer qualquer cidadão hoje em dia.}
+{137}{}{Esse Smith é um cara legal.}
+{138}{}{Eu não acho que eu nunca vou ser capaz de obter uma passagem do dia.}
+{139}{}{Não beba a água ao redor aqui. Faz contadores Geiger carrapato.}
+{140}{}{Sempre que esses Cidadãos a pé, eles não fazem contato com os olhos ou dizer Olá.}
+{141}{}{Vault City pode não nos amam, mas pelo menos eles nos proteger.}
+{142}{}{Atente para que AutoDoc. Ele cura você ... na maioria das vezes. Só não pressione sua sorte.}
+{143}{}{Ed, o negociante brahmin, tiveram de aumentar seus preços novamente para atender o pagamento mensal de guarda.}
+{144}{}{Esse Skeev me deixe escapar algumas bebida alcoólica até a cidade para uma porcentagem. }
+{145}{}{Já esteve na estrada durante a semana passada. Veio da NCR, caminho para baixo sul.}
+{146}{}{Alguns amigos meus foram para Reno ... não é visto ' desde que.}
+{147}{}{Ouvi dizer Reno está ficando tenso novamente. Aquelas famílias se odeiam.}
+{148}{}{Ouvi dizer esses fantasmas acima em Gecko estão planejando atacar a cidade.}
+{149}{}{Não cruze qualquer um dos Cidadãos ou eles vão te dar um tapa no Centro de Detenção.}
+{150}{}{Lynette Isso é uma fria.}
+{151}{}{Vault City não é exatamente uma cidade "livre". Não é ruim, embora.}
+{152}{}{É melhor do que o Den Vault City. Não é tão divertido, porém.}

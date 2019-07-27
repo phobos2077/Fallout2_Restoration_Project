@@ -8,14 +8,14 @@
 {107}{}{Øíká se, že víš o téhle lodi všechno.}
 {108}{}{Proè ti øíkají kapitán?}
 {109}{}{Jak tuhle vìc uvedeš do pohybu?}
-{110}{}{S nièím.}
+{110}{}{No nic.}
 {111}{}{Jsem kapitán a øídím tuhle loï. Jestli máš nìjaký otázky, tak si jdi promluvit s nìkým od Shi, s Badgerem a nebo s nìkým jiným. Nemám na tebe èas.}
 {112}{}{[KONEC]}
 {113}{}{Tahle loï je tanker Poseidon. Je vybavená technikou, která pøežila válku. Má v sobì FOB, kterej umožòuje pøístup k místnosti s navigaèním poèítaèem a dále obsahuje IFF radarovou rušièku, která ochraòuje pøed støelami Poseidonu. Akorát, že ti to proti tý starý èínský ponorce vùbec nepomùže, takže doufej, že je ta vìc stejnì tak nefunkèní jak vypadá.}
-{114}{}{Jak to všechno víš?}
+{114}{}{Jak tohle všechno víš?}
 {115}{}{Co je to IFF radarová rušièka?}
 {116}{}{Jak tuhle vìc uvedeš do pohybu?}
-{117}{}{Díky. Nashle.}
+{117}{}{Dík. Naskle.}
 {118}{}{Kdysi jsem sloužil Enklávì. Pak jsem pøišel na to, že jsem vlastnì nebojoval za USA, ale za ty bohatý starý bastardy, kteøí se nechtìli vzdát svý moci. Dezertoval jsem a teï žiju tady mezi poctivìjšími lidmi.}
 {119}{}{Poctivìjšími lidmi? Tihle?}
 {120}{}{Co je pøesnì Enkláva?}
@@ -29,7 +29,7 @@
 {128}{}{IFF: Identifikuj Pøítele nebo Nepøítele. To znamená, že je tahle loï identifikována jako pøátelská, takže ostatní zaøízení Poseidonu jako tøeba ropná plošina, na tebe nebudou støílet, když se dostaneš na dostøel. Jo a FOB je druh Enklávský technologie, která ti umožòuje otevøít dveøe elektronicky. Nejspíš se nachází v jedný z jejich základen nebo na podobnejch místech.}
 {129}{}{Jak tohle všechno víš?}
 {130}{}{Jaká ropná plošina?}
-{131}{}{Díky. Nashle.}
+{131}{}{Dík. Naskle.}
 {132}{}{Ano. U tìhlech lidí pøesnì víš, na èem jsi. Na nic si totiž nehrajou. Enkláva byla jako smeèka hyen - ve vteøinì ti vrazili kudlu do zad.}
 {133}{}{Co je pøesnì Enkláva?}
 {134}{}{Jak ses sem dostal?}
@@ -38,27 +38,23 @@
 {137}{}{Jaká plošina?}
 {138}{}{Docela lehce. Prostì jsem jednoho dne opustil základnu Navarro a zamíøil sem dolù. Domníval jsem se, že je tohle poslední místo, kde mì budou hledat. A navíc nejsem pro Enklávu dost dùležitej na to, aby mì vùbec hledali - jsem pro nì prostì ztracenej.}
 {139}{}{Co je pøesnì Enkláva?}
-{140}{}{Díky. Nashle.}
+{140}{}{Dík. Naskle.}
 {141}{}{V oceánu stojí osamocená velká ropná plošina Poseidonu. Je to poslední základna Enklávy}
-{142}{}{Jak to všechno víš?}
+{142}{}{Jak tohle všechno víš?}
 {143}{}{Co se na té plošinì ještì dìje?}
-{144}{}{Díky. Nashle.}
+{144}{}{Dík. Naskle.}
 {145}{}{Øíká se to.}
 {146}{}{Aha. Co se na té plošinì ještì dìje?}
 {147}{}{Aha. Nashle.}
 {148}{}{Co já vím? Byl jsem v Navarru technik, ne operátor plošiny. Mluvili jsme spolu pøes komunikátory a to bylo naše jediný spojení.}
 {149}{}{Aha. Jakže se tahle loï ovládá?}
-{150}{}{Díky. Nashle.}
+{150}{}{Dík. Naskle.}
 {151}{}{Udìlal jsi chybu zahrávat si s kapitánem a jeho pøáteli...}
 {152}{}{Jak se tahle bárka ovládá? Koukám, že už je naplnìná palivem. Až budeš mít všechno ostatní hotový, zmáèkni knoflík. Poèítaè se postará o všechno ostatní, teda jestli to ještì bude fungovat. Loï popluje pøímo k ropný plošinì, pokud tì nesejme ta stará ponorka. Ale alespoò se nebudeš muset obávat, že po tobì bude støílet Enkláva, protože máš IFF rušièku. Ujisti se, že máš všechno, co potøebuješ k pøístupu: FOB, funkèní navigaèní poèítaè a palivo. Jasný jako facka, ne?}
 {153}{}{Jo a musíš ještì zprovoznit navigaèní poèítaè. Vsadím se, že pro nìj najdeš nìjaký souèástky v jednom z tìch starejch vaultù.}
 {154}{}{Rád tì zase vidím. Co potøebuješ?}
-# Begin Seraph's Code
 {155}{}{ a moc bych za to nedal, že tam jsou i tví pøátelé.}
 {156}{}{.}
-# End Seraph's Code
-
-#added by killap
 {200}{}{Jaká stará ponorka?}
 {210}{}{Nìkde v zálivu je ztroskotaná stará èínská ponorka. Naskakuje mi husí kùže z toho, jak se tam pod vodou skrývá jako rezavý duch. Pochybuju, že je ještì funkèní, ale pokud jo, její automatický zbraòový systémy by poslaly celej tenhle tanker do pekla døív, než se k tý ropný plošinì vùbec pøiblížíš.}
 {211}{}{Proè si myslíš, že už ta ponorka není funkèní?}

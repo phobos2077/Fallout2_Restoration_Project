@@ -10,7 +10,6 @@
 {109}{}{Dobrý den, cizinèe. Jsi tu nový?}
 {110}{}{Jdi dál. Tady není nic k vidìní.}
 {111}{}{Jsem zamìstnán. Jestli je nìjaký problém, nahlaš to šerifovi.}
-
 {112}{}{Hej, pøestaò si s tím hrát.}
 {113}{}{Jdi odtamtud.}
 {114}{}{Nech to na pokoji.}

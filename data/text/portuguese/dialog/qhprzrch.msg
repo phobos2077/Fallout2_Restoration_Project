@@ -6,7 +6,7 @@
 {105}{prs1c}{And who do you think you are barging into my office?}
 {106}{}{Uh?}
 {107}{}{Nuh.}
-{108}{}{Bye-bye.}
+{108}{}{Tchau-tchau.}
 {109}{prs2a}{Ah, affected by the test serums, I see. Um, I'll get you some help. Guards!}
 {110}{prs2b}{Doctor, I think you've been exposed to the F.E.V. Poor soul, I'll get you some help. Guards!}
 {111}{prs2c}{Now be a good mutant and stay put. Guards!}
@@ -23,7 +23,7 @@
 {122}{}{Uh, I guess I took a wrong turn on my way to the lab. Sorry, sir. Goodbye.}
 {123}{prs5a}{Hello, doctor. Do you have a report? Good news, I hope. Our salvation is in your team's hands.}
 {124}{prs5b}{You there, shouldn't you be working on the Project? Mankind's salvation depends on you.}
-{125}{}{Who're you?}
+{125}{}{Quem é você?}
 {126}{}{Salvation? Just what's going on here?}
 {127}{}{Sorry, sir. Wrong turn on my way back to the lab. Goodbye.}
 {128}{prs6}{Oh, that's quite all right. All those inoculation shots would disorient anyone.}
@@ -214,22 +214,22 @@
 {313}{}{To the Southeast}
 {314}{}{To the East of here}
 {315}{}{To the Northeast}
-{316}{}{Yes}
-{317}{}{No}
+{316}{}{Sim}
+{317}{}{Não}
 {318}{}{Ouch}
 {319}{}{(cry of pain)}
 {320}{}{Why are you talking to me like that?}
 {321}{}{Eu não sei nada sobre isso.}
 {322}{}{You're not very nice.}
 {323}{}{Thank-you. }
-{324}{}{This is good.}
-{325}{}{This isn't good.}
+{324}{}{Isso ser bom.}
+{325}{}{Isso não ser bom.}
 {326}{}{I have a good feeling about this.}
 {327}{}{I have a bad feeling about this.}
 {328}{}{You people are crazy.}
 {329}{}{Do que você está falando?}
 {330}{}{Is everyone else crazy here?}
-{331}{}{There must be another way.}
+{331}{}{Deve ter outro caminho.}
 {332}{}{Venha aqui.}
 {333}{}{I don't understand.}
 {334}{}{Eu não sei.}

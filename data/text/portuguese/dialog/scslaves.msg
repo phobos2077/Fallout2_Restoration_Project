@@ -10,7 +10,7 @@
 {109}{}{Don't talk to me! I don't want another beating.}
 {110}{}{Slavery is just a mental construct. After all, are you really free?}
 {111}{}{No more! Please, not the House of Pain!}
-{112}{}{Stay away from me!}
+{112}{}{Fique longe de mim!}
 {113}{}{Monster! You and your kind did this to me!}
 {114}{}{The judgment of the Almighty shall fall upon you!}
 {115}{}{I obey your every word.}

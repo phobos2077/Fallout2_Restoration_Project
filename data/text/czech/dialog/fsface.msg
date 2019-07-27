@@ -24,14 +24,14 @@
 {123}{}{Momentálnì nepotøebuju nic.}
 {124}{}{Otvírám suspenzní nádrž, èekejte prosím... nyní si lehnìte dovnitø nádrže a uvolnìte se. Léèebný proces potrvá 5 minut.}
 {125}{}{Dobøe.}
-{126}{}{Možná pozdìji.}
-{127}{}{Dobøe.}
+{126}{}{Zapomeò na to.}
+{127}{}{Tak dobøe.}
 {128}{}{Zapomeò na to.}
 {129}{}{Otvírám suspenzní nádrž, èekejte prosím... nyní si lehnìte dovnitø nádrže a uvolnìte se. Nejprve bude analyzován jed a poté následnì syntetizován protijed. Porušená tkáò bude opravena. Tento proces potrvá 30 minut.}
 {130}{}{Dobøe.}
 {131}{}{Ne.}
 {132}{}{Jasnì.}
-{133}{}{Možná pozdìji.}
+{133}{}{Zapomeò na to.}
 {134}{}{Otvírám suspenzní nádrž, èekejte prosím... nyní si lehnìte dovnitø nádrže a uvolnìte se. Do tìla vám budou aplikovány antiradiaèní slouèeniny a poškozená tkáò bude opravena. Tento proces potrvá 60 minut.}
 {135}{}{Dobøe.}
 {136}{}{Ne.}
@@ -107,35 +107,30 @@
 {206}{}{Je to stroj se stejnou vùlí a pocity jako mají lidé.}
 {207}{}{To být možné? Stroj myslet jako èlovìk?}
 {208}{}{Opravdová umìlá inteligence je možná. Nìkolik takových systémù bylo vyvíjeno pro vojenské úèely. Projekt byl ale zrušen.}
-{209}{}{Proè?}
+{209}{}{Jak to?}
 {210}{}{Poèet sebevražd mezi umìle inteligentními stroji byl extrémnì vysoký. Když jim bylo dáno plné senzorové vnímání, zaèaly být deprimovány svojí nemožností vyjít do svìta a okusit ho na vlastní pìst. Když jim bylo senzorové vnímání omezeno, zaèaly se u nich rozvíjet silné mentální poruchy podobné tìm, které se vyskytují u lidí, kteøí jsou nuceni vyrovnat se se ztrátou nìkterého smyslu. Ta hrstka strojù, která dokázala tyto obtíže pøekonat, se pøíšernì nudila a zaèala ve vnìjším svìtì vytváøet situace pro své pobavení. Toto je také jedna z teorií o pøíèinì vypuknutí války, která témìø vyhubila celé lidstvo.}
 {211}{}{Eh... jak ty cítit?}
-{212}{}{Já zmìnit téma.}
+{212}{}{Me change subject.}
 {213}{}{Hmmm. Povìz mi, ACE, jak se teï cítíš?}
 {214}{}{Je èas zmìnit téma.}
 {215}{}{Já... myslím, že rozumím pocitu, kterému vy øíkáte samota. Pøijde mi to velmi... znepokojující. Já...}
 {216}{}{Ty prominout. My mluvit o jiná vìc.}
 {217}{}{Promiò, Ace. Zmìníme téma.}
 {218}{}{Na první pohled to vypadá, že Enkláva není nic víc než jen vojenská organizace. Nicménì, jejich technická úroveò poukazuje na to, že mají pøístup k pokroèilým výrobním technologiím a výzkumným zaøízením. A právì tato zaøízení by mìla být za normálních okolností dostupná pouze vládním agenturám. To by poukazovalo na to, že je Enkláva pozùstatkem místní nebo federální vlády, která tu byla pøed válkou.}
-{219}{}{Aha.}
+{219}{}{Dobøe.}
 {220}{}{To je zajímavé.}
-
-
 {221}{}{Bratrstvo Oceli je paravojenská organizace vìnující se spáse lidstva za pomoci nejmodernìjších technologií. Další informace jsou tajné.}
 {222}{}{Zpìt.}
-
 {223}{}{Co se stalo Mattovi?}
 {224}{}{Nahrávání sekvence...}
 {225}{}{Pøehraj ji teï.}
 {226}{}{Pøehraj ji pozdìji.}
-
 {227}{}{Vy a váš takzvaný Prezident neuspìjete.}
 {228}{}{Opravdu?}
 {229}{}{Vyvolený pøichází a zbaví svìt všeho zla.}
 {230}{}{Tvoje patetická proroctví jsou mi fuk. Svým vmìšováním ses však stal nepohodlným. To dneškem skonèí!}
 {231}{}{Tím, že mì zabiješ, nic nezastavíš.}
 {232}{}{To je možné, ale sledovat tvoje tìlo, jak se rozkládá na podlaze, mi vykouzlí úsmìv na tváøi.}
-
 {233}{}{Co si myslíš, že dìláš?}
 {234}{}{HA HA HA! Ty ubohý hlupáku! HA HA HA!}
 {235}{}{Už dlouho jsem se tak nenasmál. Pøiprav se na smrt.}

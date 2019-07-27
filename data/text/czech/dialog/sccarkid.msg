@@ -2,7 +2,7 @@
 {101}{}{To je dítì viceprezidenta Carlsona.}
 {102}{}{Vypadá jako rozmazlený malý fracek. A taky je pìknì tlustý.}
 {103}{}{Mùj tatínek je viceprezident Carlson, tak se ke mnì chovej hezky! Kdo jsi?}
-{104}{}{[Player name]}
+{104}{}{[Jméno hráèe]}
 {105}{}{Jsem jeden ze stráží tvého otce.}
 {106}{}{Kde je tvùj otec?}
 {107}{}{Vidíš tenhle nùž? Ten už zaøíznul i hodnìjší dìti, než jsi ty.}

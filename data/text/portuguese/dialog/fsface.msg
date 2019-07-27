@@ -126,7 +126,7 @@
 {225}{}{Replay it now.}
 {226}{}{Replay it later.}
 {227}{}{You and your so-called President will not succeed.}
-{228}{}{Is that so?}
+{228}{}{É isso?}
 {229}{}{The Chosen One has come, and he will rid the world of your evil.}
 {230}{}{I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!}
 {231}{}{Killing me will stop nothing.}

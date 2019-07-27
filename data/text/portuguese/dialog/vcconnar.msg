@@ -52,13 +52,13 @@
 {147}{}{What the hell have you done?!?! You fucking traitor! I hate you!!!}
 {148}{}{Oooooops...}
 {149}{}{Let me out of here!!!}
-{150}{}{What did I ever do to you?}
+{150}{}{O que foi que eu fiz para você?}
 {151}{}{Help me!}
 {152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
  stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
  in or around the bar. He'll know what to do.}
 {153}{}{Eu estou no meu caminho.}
-{154}{}{Can I ask you a few questions?}
+{154}{}{Posso perguntar-lhe algumas perguntas?}
 {155}{}{Certainly, what's on your mind?}
 {156}{}{Where did these mole rats come from, and why aren't they aggressive?}
 {157}{}{Nothing, bye.}

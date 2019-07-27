@@ -2,13 +2,13 @@
 {150}{}{You see a rugged looking man dressed in leather armor. Numerous scars and gunshot wounds cover his body. His armor and weapons, on the other hand, look well-maintained, almost new.}
 {151}{}{You see a well-armed raider. He is scanning the area and fingering his weapon.}
 {200}{}{Well, look at the brass balls on this son of a bitch...}
-{201}{}{Contact!}
-{202}{}{The area's been breached!}
-{203}{}{We got us an intruder, boys!}
-{204}{}{Scramble, boys, we got an intruder!}
+{201}{}{Contato!}
+{202}{}{Perímetro invadido!}
+{203}{}{Temos um intruso, rapazes!}
+{204}{}{Vários, temos vários intrusos, rapazes!}
 {205}{}{Well, look who stopped in ta die...}
 {206}{}{Damn! Somebody found us!}
-{207}{}{You got some sand comin' in here...}
+{207}{}{Que venham todos para a festa...}
 {208}{}{You just walked into the *wrong* place, bitch.}
 {209}{}{Well, look at the swagger on this bitch...}
 {250}{}{We went out drinking, and he called it 'attitude adjustment hour,' so we kicked his ass.}

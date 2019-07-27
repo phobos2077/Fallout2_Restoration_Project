@@ -8,7 +8,7 @@
 {110}{}{ neúspìšnì oslabuje silové pole.}
 {111}{}{Z reproduktorù slyšíš: Pozor! Vetøelec! Aktivování bezpeènostního systému.}
 {112}{}{Silové pole deaktivováno.}
-{113}{}{ deaktivuje silové pole.}
+{113}{}{ vypne silové pole.}
 {114}{}{Silové pole aktivováno.}
-{115}{}{ aktivuje silové pole.}
+{115}{}{ zapne silové pole.}
 {116}{}{Emitor silového pole byl znièen.}

@@ -15,11 +15,11 @@
 {114}{}{Svatý granát z Antiochu? To je nejlepší ruèní protipìchotní zbraò svého druhu.}
 {115}{}{K èemu hledáte tak strašnou zbraò?}
 {116}{}{My z Bratrstva oceli usilujeme o nalezení této nejnièivìjší zbranì našich pøedkù. Chceme ji zachránit pøed tìmi, kteøí by zneužili nièivé síly Svatého granátu z Antiochu.}
-{117}{}{Proè?}
+{117}{}{Jak to?}
 {118}{}{Zkrátka proto, že Bratrstvo oceli chrání slabé a bezbranné a tahle vìc by skuteènì mohla nìkomu ublížit.}
-{119}{}{Proè?}
+{119}{}{Jak to?}
 {120}{}{Hmm... protože to je jediná správná a morální vìc.}
-{121}{}{Proè?}
+{121}{}{Jak to?}
 {122}{}{No... eh... podívej, máme opravdu dost práce. Hodláš nám pomoci nebo ne? Vidìl jsi už nìkdy Svatý granát z Antiochu nebo ne?}
 {123}{}{Ano.}
 {124}{}{Ne.}
@@ -35,7 +35,6 @@
 {134}{}{Když máte dva, možná byste mi mohli jeden dát.}
 {135}{}{Ne. Ne. To nemùžeme. To by byl pøíliš snadný konec tvého hledání. Nìjaké další jsou tamtím smìrem. Najdi si svùj vlastní. (Ukáže pøibližnì stejným smìrem, jako jsi ukázal pøed chvílí ty, když jsi jim ukazoval, kde je svatý granát z Antiochu.)}
 {136}{}{[KONEC]}
-
 {200}{}{Mluvíš královským jazykem?}
 {201}{}{Ahój.}
 {202}{}{Hej, tady jsem.}
@@ -43,9 +42,6 @@
 {204}{}{Ehm.}
 {205}{}{Ale no tak. Neignoruj mì.}
 {206}{}{Prosíííím! Potøebuju se tì na nìco hroznì dùležitého zeptat.}
-
 {207}{}{No, musíme pokraèovat v hledání svatého granátu z Antiochu. Pojï, Patsy.}
-
-#added by killap - RP 1.3
 {300}{}{Náše poslání bylo naplnìno!}
 {301}{}{Artuš, k tvým službám.}

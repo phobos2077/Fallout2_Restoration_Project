@@ -6,7 +6,7 @@
 {105}{}{Kdo jsi?}
 {106}{}{Nemám ponìtí, jak dlouho jsi spal, ale jsi v Broken Hills, nedaleko od New California Republic.}
 {107}{}{Ach ne! Spal jsem tak dlouho, e se mezitím svìt úplnì zbláznil! Ááááááááá! ::zaèíná panikaøit::}
-{108}{}{KONEC}
+{108}{}{[KONEC]}
 {109}{}{Jsem Chuck Stodgers, nejlepší pilot letadel na svìtì! Bohuel... jsem havaroval. Celı otluèenı jsem se dobelhal do této jeskynì, abych se ukryl pøed vıbuchem, kde mì pohltil kouø.}
 {110}{}{To zní neuvìøitelnì. Skoro jako nìkterá z tìch starıch kreslenıch grotesek.}
 {111}{}{New CO? CALIFORNIA? SVÌT SE ZMÌNIL TAK HODNÌ? ÁÁÁÁÁÁÁÁÁÁÁ! ::zaèíná panikaøit::}

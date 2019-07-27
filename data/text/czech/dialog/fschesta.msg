@@ -13,7 +13,7 @@
 {112}{}{Odhlásit se.}
 {113}{}{Prosím, obrate se na správce systému. Nashledanou.}
 {114}{}{::hacknout se do poèítaèe::}
-{115}{}{::odejít::}
+{115}{}{Odejít.}
 {116}{}{Zaznamenán nepovolenı pøístup. Automatické vypnutí. Pøeji hezkı den.}
 {117}{}{[KONEC]}
 {118}{}{(Po prostudování sloitıch chemickıch vzorcù a laboratorních zápiskù docházíš k závìru, e Shi vytvoøili novı druh paliva z rostlinnıch extraktù a moøského ivota. Také se údajnì napojili na døíve existující potrubí, aby mohli dopravovat palivo do vícero lokací.)}
@@ -31,11 +31,9 @@
 {130}{}{Aktivovat stanici.}
 {131}{}{Odejít.}
 {132}{}{(Náhodnì stiskneš nìkolik kláves... a jsi v poèítaèi!)}
-{133}{}{VÍCE}
-
+{133}{}{[Více]}
 {134}{}{Poèítaè nereaguje na ádnou klávesu.}
 {135}{}{Nemáš tušení kam to vloit.}
-
 {136}{}{::hádat heslo::}
 {137}{}{Pøevést palivo potrubím.}
 {138}{}{Vyadován cíl.}

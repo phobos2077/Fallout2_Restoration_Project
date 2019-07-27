@@ -10,7 +10,7 @@
 {109}{}{Chci si ještì jednou projít naše tajné plány.}
 {110}{}{Chci vás zabít.}
 {111}{}{Tak pokraèujte, vojáku. Pokraèujte. Vy a vaši chlapci odvádíte skvìlou práci. Jsme pøipraveni na jakékoliv neèekané události, které by se mohly naskytnout.}
-{112}{}{Co?}
+{112}{}{He?}
 {113}{}{Eh, ano. No, radìji dokonèím svoji obchùzku. Sbohem.}
 {114}{}{Hmm, povìzte mi, jak hláskujete "dcera"? S 'D' nebo bez?}
 {115}{}{Hmm, povìzte mi, jak hláskujete "domnìnka"? S 'N' nebo bez?}
@@ -20,10 +20,10 @@
 {119}{}{Eh, asi s.}
 {120}{}{Samozøejmì že bez.}
 {121}{}{To je samozøejmì správnì. Každý vìrný obèan našich skvìlých Spojených Státù by odpovìdìl stejnì.}
-{122}{}{Jak to?}
+{122}{}{Proè myslíte?}
 {123}{}{Mám teï práci. Sbohem.}
 {124}{}{Tak pokraèujte, vojáku. Vstøíc lepším zítøkùm.}
-{125}{}{Co tím myslíte?}
+{125}{}{Co tím myslíš?}
 {126}{}{Ne pro vás. Vyhlazuju všechny Enklávské èervy a vy jste právì na øadì.}
 {127}{}{Eh, jasnì. Sbohem.}
 {128}{}{Musíme spojit síly a pracovat spoleènì, protože pokud neuspìjeme, riskujeme selhání.}
@@ -44,7 +44,7 @@
 {143}{}{Ano, chápu.}
 {144}{}{A jaký dopad na historii plánujete vy?}
 {145}{}{Ano, ten smìr mám rád. Osvìdèil se v minulosti a osvìdèí se i v budoucnu. Takže se klidnì vydejme kupøedu.}
-{146}{}{Eh, ano.}
+{146}{}{Eh, jo.}
 {147}{}{Vìøím, že jsme zapoèali nezvratný trend smìøující k vìtší svobodì a demokracii... ale to se mùže zmìnit.}
 {148}{}{Zneèištìnému životnímu prostøedí pustin by se hodila trocha svobody.}
 {149}{}{Už toho mám dost. Musíte zemøít.}

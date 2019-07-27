@@ -5,7 +5,7 @@
 {104}{}{No to mì podrž, nevìdìl jsem, že mùže jít evoluce pozpátku.}
 {105}{}{Máš o koleèko míò, co?}
 {106}{}{Nemám na tebe èas. Øekl bych, že nejseš o moc chytøejší než houpací kùò.}
-{107}{}{Nespadla ti v dìtství na hlavu cihlièka?}
+{107}{}{Just a couple of clowns short of a circus, aren't you?}
 {108}{}{Zdravím. Jsem Nebezpeèný Dan McGrew a vlastním dùl Morningstar. Co pro tebe mùžu udìlat?}
 {109}{}{Co ode mì potøebuješ?}
 {110}{}{Co se tady tìží?}
@@ -18,7 +18,7 @@
 {117}{}{Skoro se divím, že se nikdo nepokusí pøevzít nad Reddingem kontrolu.}
 {118}{}{Díky za informace. Sbohem.}
 {119}{}{Myslíš, že se o to nikdo nepokusil? Každej by chtìl mít Redding pod palcem. A já si myslím, že už se to brzy nìkomu podaøí. My mùžeme udìlat jenom jedinou vìc, abysme pøežili... zvolit si, kdo to bude.}
-{120}{}{Co tím chceš øíct?}
+{120}{}{Co tím myslíš?}
 {121}{}{To dává smysl. No, tak hodnì štìstí a sbohem.}
 {122}{}{Tím chci øíct, že už nás brzy nìkdo bude mít pod palcem. My si akorát musíme vybrat ten nejlepší palec.}
 {123}{}{Což už jsi samozøejmì udìlal.}
@@ -103,11 +103,11 @@
 {202}{}{To je moje vìc, kámo. Chci se na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
 {203}{}{Chybami se èlovìk uèí. Uvidíme se pozdìji...možná.}
 {204}{}{Nemùžu uvìøit, že jsi toho parchanta Hakeswilla nechal na svobodì. Mým horníkùm se to sice zamlouvá, ale mnì rozhodnì ne.}
-{205}{}{Bylo to moje rozhodnutí a myslím, že i nejlepší. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
+{205}{}{Bylo to moje rozhodnutí a myslím, že i nejlepší. Chci se na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
 {206}{}{Eh, nepodaøilo se mi prokázat jeho vinu. Chci se ještì na nìco zeptat.}
 {207}{}{Nezajímá mì, co si myslíš. Sbohem.}
 {208}{}{Udìlal jsi správnou vìc, když jsi nechal toho bastarda Hakeswilla zavøít do vìzení. Sice vyhrožoval všem mejm horníkùm, ale nikdo ho nechtìl odsoudit bez dùkazù. Bude lepší se dívat, jak ho šerif legálnì povìsí.}
-{209}{}{Bylo to moje rozhodnutí a myslím, že i nejlepší. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
+{209}{}{Bylo to moje rozhodnutí a myslím, že i nejlepší. Chci se na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
 {210}{}{Spravedlnost musí být vykonána. Chci se ještì na nìco zeptat.}
 {211}{}{Ne vždy se vìci vyvrbí tak, jak chceš ty. Sbohem.}
 {212}{}{Díky za zabití toho idiota Haheswilla. Moji horníci už zaèínali zuøit.}
@@ -155,8 +155,8 @@
 {254}{}{Ještì si ho chvíli nechám. Sbohem.}
 {255}{}{Až nìjaký najdu, tak ti dám vìdìt. Sbohem.}
 {256}{}{Je ve Velkém Wanamingo Dole na západ od mìsta. Nìkde ve spodní èásti dolu je velký dùlní stroj. Nemùžeš ho minout. Èip je uvnitø toho stroje. Staèí ho jen vyrvat a pøinýst mi ho.}
-{257}{}{Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{258}{}{Když ten èip tak nutnì potøebuješ, proè si pro nìj nedojdeš sám?}
+{257}{}{Povìz mi ještì o nìèem, co se dìje ve mìstì.}
+{258}{}{Když ten èip tak nutnì potøebuješ, tak proè si pro nìj nedojdeš sám?}
 {259}{}{Už pro nìj bìžím. Zatím sbohem.}
 {260}{}{Mám velký dùlní rypadlo vyrobený ještì pøed válkou, ale je tu jeden problém. Nemá mozek.}
 {261}{}{Skoro se mi chci øíct, že není v tomhle mìstì sám, ale radìji se zeptám: Co tím myslíš?}

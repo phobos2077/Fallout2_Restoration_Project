@@ -6,9 +6,9 @@
 {140}{}{That nasty bunion on each foot seems to have turned into an extra toe. But at least that
  persistent, burning itch has gone away.}
 {141}{}{Oh, meu Deus, é Bess!}
-{150}{}{You gain }
+{150}{}{Você ganhou }
 {151}{}{ experience points for getting the GECK.}
-{400}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
+{400}{}{Você não pode entender muita coisa do texto, mas as ilustrações são bastante informativas.}
 {500}{}{You have become addicted to alcohol. The thirst for alcohol will soon consume you.}
 {600}{}{Something doesn't feel quite right in your stomach.}
 {601}{}{You feel an intense pressure in your stomach.}

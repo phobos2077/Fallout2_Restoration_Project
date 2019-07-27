@@ -1,7 +1,6 @@
 {100}{}{Vidíš bednu.}
 {101}{}{Vypadá to, e je bedna plná Stimpakù.}
 {102}{}{Vidíš bednu plnou nepouitelnıch, falešnıch Stimpakù.}
-
 {200}{}{(Po podrobnìjším prozkoumání krabice zjišuješ, e je uvnitø okolo padesáti Stimpakù, pøesnì jak øíkal obchodník.)}
 {201}{}{[Prozkoumat je podrobnìji]}
 {202}{}{[KONEC]}

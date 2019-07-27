@@ -1,4 +1,3 @@
-# 0. Look
 {100}{}{Vidíš gamblera.}
 {101}{}{Zdá se, e se tomuhle gamblerovi neobyèejnì daøí.}
 {102}{}{Zdá se, e vyhrává, ale všechny jeho peníze jsou na hracím stole.}
@@ -7,8 +6,6 @@
 {105}{}{Tato osoba u dlouho nevyhrála.}
 {106}{}{Vypadá to, e bude plakat a zdá se, e nemá ani cent.}
 {107}{}{Vypadá dost naštvanì a zdá se, e prohrál velkou èástku.}
-
-# 1. PC Killed Becky, NPC are still around (From Where to go)
 {200}{}{Neubliuj mi!}
 {201}{}{Nestøílej!}
 {202}{}{ádnı peníze nemám!}
@@ -16,8 +13,6 @@
 {204}{}{Co ti kdy udìlala?}
 {205}{}{Já jsem nic neudìlal!}
 {206}{}{Jdi prosím, nechci s tebou mluvit.}
-
-# 2. CF: Gambling (From Where to go)
 {300}{}{Ano! Kostky mì mají rády!}
 {301}{}{Jé, to bylo tìsnì.}
 {302}{}{Nevyrušuj mì. Pøerušíš mi moji vítìznou øadu.}
@@ -50,14 +45,10 @@
 {329}{}{Proè se to vdycky stane jenom mì?}
 {330}{}{Nemùu vyhrát.}
 {331}{}{Nenávidím tuhle hru.}
-
-# 3. BGF: Becky Dead (From Where to go)
 {400}{}{Zatracenì, U Becky bylo široko daleko jedinı místo, kde se mohlo hrát!}
 {401}{}{Nepøibliuj se.}
 {402}{}{Nestøílej!}
 {403}{}{Nech nás o samotì, prosím.}
-
-# 4. BGF: Gambling (From Where to go)
 {500}{}{Nezastavuj se.}
 {501}{}{Jdi si po svıch.}
 {502}{}{TAK POJÏ, sedmièko!}
@@ -75,7 +66,7 @@
 {514}{}{To není špatnı.}
 {515}{}{Jak se to stalo?}
 {516}{}{A sakra.}
-{517}{}{Tak u tam padni, dìlej. Stop!}
+{517}{}{No whammies, no whammies. Stop!}
 {518}{}{No, u chápu, proè se ta hra tak jmenuje.}
 {519}{}{Potøebuju jenom jednu velkou vıhru.}
 {520}{}{No jasnì!}
@@ -91,10 +82,8 @@
 {530}{}{Nenávidím tuhle hru!}
 {531}{}{Zatracenì! To bylo moje èíslo!}
 {532}{}{Zase èerná!?!?}
-
-# 5. CF: Hostile (From Where to go)
-{600}{}{Vypadni!}
+{600}{}{Pus mì!}
 {601}{}{Proè jsi to udìlal?}
-{602}{}{Vypadni!}
+{602}{}{Pus mì!}
 {603}{}{Pøestaò s tím, jsem køehkı.}
-{604}{}{To bych ti nikdy neudìlal.}
+{604}{}{I wouldn't do that to you.}

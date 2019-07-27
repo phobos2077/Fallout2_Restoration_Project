@@ -1,25 +1,16 @@
-# quick look
 {100}{}{Vidíš pasáka.}
-
-# examine
 {150}{}{Vidíš dobøe obleèeného mue. Jeho obleèení tì svım leskem div neoslepí.}
 {151}{}{Vidíš chlapíka ve velmi køiklavém obleku.}
 {152}{}{Vidíš pasáka. Vypadá fakt šmrncovnì.}
 {153}{}{Vidíš pasáka. Kıvne na tebe.}
 {154}{}{Vidíš pasáka. Kdyby se volil Pasák roku, tak tenhle by tu cenu urèitì dostal.}
 {155}{}{Vidíš pasáka. Jeho oblek má tak køiklavé barvy, e by na nìm mìl mít pøišitı regulátor hlasitosti.}
-
-# 1. ENCLAVE DESTROYED (MALE)
 {200}{}{Hej chlape, slyšel jsem, e jsi zlikvidoval Enklávu. Nechceš si TEÏ zapíchat?}
 {201}{}{Ten chlápek zlikviduje Enklávu a hned si myslí, e mu patøí celej svìt... pche.}
 {202}{}{Nazdar chlape! Jediná vìc, která je ještì lepší ne sfouknout ropnou vì, je kdy ti nìkdo nafoukne tvoji vì, jestli mi rozumíš.}
-
-# 2. ENCLAVE DESTROYED (FEMALE)
 {220}{}{Slyšel jsem, e jsi znièila Enklávu, holka. Nechceš pro mì TEÏ pracovat?}
 {221}{}{Ta enská zlikviduje Enklávu a hned si myslí, e jí patøí celej svìt... pche.}
 {222}{}{Sexy pokoøitelka Enklávy jako ty by si v tomhle mìstì mohla vydìlat slušnı prachy...}
-
-# 3. (MALE PORN STAR)
 {230}{}{Doufám, e má ta enská mı prachy...}
 {231}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {232}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -28,23 +19,21 @@
 {235}{}{Nechceš ve svım novım filmu obtáhnout nìjakou z mejch holek, brácho?}
 {236}{}{Vìø mi, kámo, ty pro svoje filmy potøebuješ opravdovı enskı. Vyzkoušej nìkdy moje holky.}
 {237}{}{Nepotøebuješ nìjakı rozkuøovaèky? Mám jich fùru.}
-{238}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky. Rozumíš?}
+{238}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky, rozumíš?}
 {239}{}{Kdy mì pøivedeš do svıho byznysu, pane pornohvìzdo?}
 {240}{}{Dej mi pár minut pøed kamerou a já ti ukáu, kdo je tady hvìzda.}
 {241}{}{Dokáu to SAMİ co ty, ojedu to SAMİ co ty a ojedu je LÍP ne ty.}
 {242}{}{Nìkdy tì nauèím pár trikù, brácho.}
 {243}{}{Mám tady jednu holku, kterou bys mìl prubnout ve svım filmu. Má fakt krásnou sladkou prdelku.}
-{244}{}{Poèkej, nìkoho ti dohodím, kámo. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
+{244}{}{Poèkej, nìkoho ti dohodím, otrokáøi. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
 {245}{}{Nechápu, jak se z TEBE mohla stát pornohvìzda...}
-
-# 4. (PORN STAR FEMALE)
 {260}{}{Doufám, e má ta enská mı prachy...}
 {261}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {262}{}{Doufám, e mi ta dìvka pøinese prachy...}
 {263}{}{Hele, jdi si po svejch.}
 {264}{}{Kouknìte na tu krásnou sladkou prdelku.}
 {265}{}{Kotì, pojï sem, a tì mùu plácnout pøes tu tvoji krásnou sladkou prdelku.}
-{266}{}{::Hvízdá::}
+{266}{}{::Píská::}
 {267}{}{::Mumlá si pro sebe 'sáááákryš'::}
 {268}{}{Budeš teï nìkdy tancovat v kasínu, zlato?}
 {269}{}{Ty k sobì potøebuješ zkušenıho partnera. Mìla bys nìkdy zkusit mì, zlato.}
@@ -57,8 +46,6 @@
 {276}{}{Pojï dìlat ke mnì, kotì. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
 {277}{}{Kotì, chtìl bych tì plácnout pøes tu tvoji krásnou sladkou prdelku.}
 {278}{}{Sááákryš.}
-
-# 5. (MALE, MADE MAN)
 {290}{}{Doufám, e má ta enská mı prachy...}
 {291}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {292}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -72,11 +59,9 @@
 {300}{}{Staèí øíct a budu ti dìlat osobního stráce, brácho.}
 {301}{}{Kreju ti záda, brácho.}
 {302}{}{Jseš chlapák, OPRAVDOVEJ chlapák, rozumíš?}
-{303}{}{Poèkej, nìkoho ti dohodím, kámo. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
+{303}{}{Poèkej, nìkoho ti dohodím, otrokáøi. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
 {304}{}{Velkej gangster prochází...}
 {305}{}{Chlapák prochází...}
-
-# 6. (FEMALE MADE MAN)
 {320}{}{Doufám, e má ta enská mı prachy...}
 {321}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {322}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -84,12 +69,10 @@
 {324}{}{Sakra, miluju enskı, co se pohybujou ve zloèinu.}
 {325}{}{Máš styl, ségro, opravdovej styl.}
 {326}{}{Bezva ohoz, holka.}
-{327}{}{Oblíkáš se jako pravej mafián a to se mi líbí.}
+{327}{}{Oblíkáš se jako pravej drsòák a to se mi líbí.}
 {328}{}{Staèí øíct a budu ti dìlat osobního stráce, ségro.}
 {329}{}{Kreju ti záda, ségro.}
 {330}{}{Holka, ty tvoje èernı vlasy a ten tvùj drsnej pohled prostì zboòuju.}
-
-# 7. (MALE PRIZEFIGHTER)
 {350}{}{Doufám, e má ta enská mı prachy...}
 {351}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {352}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -107,8 +90,6 @@
 {364}{}{Poèkej, nìkoho ti dohodím, šampióne. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
 {365}{}{Šampión pøichází...}
 {366}{}{Chlapák prochází...}
-
-# 8. (FEMALE PRIZEFIGHTER)
 {380}{}{Doufám, e má ta enská mı prachy...}
 {381}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {382}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -123,8 +104,6 @@
 {391}{}{Ne e mì v ringu zklameš, rozumíš?}
 {392}{}{Vsadil jsem si na tebe 100 babek, ségro, take mì nezklam.}
 {393}{}{Hroznì miluju ty tvoje èernı vlasy... a tvùj parádní levej hák.}
-
-# 9. FLOAT (COMPANION: MYRON)
 {410}{}{Doufám, e má ta enská mı prachy...}
 {411}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {412}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -137,7 +116,7 @@
 {419}{}{Záøím tak, e je proti mì Reno v úplnı tmì.}
 {420}{}{Vypadáte, e máte v poklopci oheò, hoši.}
 {421}{}{Na slovíèko, pøátelé. Moje holky vydrej pøiráet celou noc.}
-{422}{}{Staèí pár babek a zaijete nebeskou slast.}
+{422}{}{Staèí pár babek a zaiješ nebeskou slast.}
 {423}{}{Myrone, ne e tì zas chytím, jak strkáš ten svùj pytlík mejm holkám do pusy!}
 {424}{}{Myrone, ne e tì zas chytím, jak mlátíš moje holky zezadu do hlavy!}
 {425}{}{Myrone, ne e tì zas chytím, jak plácáš moje holky ptákem po ksichtì!}
@@ -147,18 +126,16 @@
 {429}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky, rozumíš?}
 {430}{}{Myrone! Dluíš mi ještì za poslední víkend, hochu!}
 {431}{}{Jestli dokáe vcucnout golfovej míèek skrz zahradní hadici? To si piš, e jo.}
-{432}{}{Moje enskı z vás udìlaj opravdovı chlapy. A stojej jen pár babek.}
-{433}{}{Ty nejlepší klisny najdete v mı stáji.}
+{432}{}{Moje enskı z tebe udìlaj opravdovıho chlapa. A stojej jen pár babek.}
+{433}{}{Ty nejlepší klisny najdeš jedinì v mı stáji.}
 {434}{}{Co dìláš mimo Stáje, Myrone? Hledáš nìjakou novou klisnièku?}
 {435}{}{Starej Mordino ti dal koneènì vycházku, Myrone?}
-
-# 10. (COMPANION: SPOUSE = FEMALE)
 {440}{}{Doufám, e má ta enská mı prachy...}
 {441}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {442}{}{Doufám, e mi ta dìvka pøinese prachy...}
 {443}{}{Zase jsem Myrona naèapal, jak mlátí moje holky zezadu do hlavy.}
 {444}{}{Doufám, e zas nechytím Myrona, jak provádí na mejch holkách "Clevelandskıho Steamera".}
-{445}{}{Nepotøebuješ na veèer spoleènost, brácho? Seenu ti parádní holku.}
+{445}{}{Nepotøebuješ na veèer spoleènost, brácho? Mìl bych tu pro tebe nìco extra.}
 {446}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky, rozumíš?}
 {447}{}{Záøím tak, e je proti mì Reno v úplnı tmì.}
 {448}{}{Mám nejlepší prdelky široko daleko.}
@@ -168,13 +145,11 @@
 {452}{}{Øekni tı svı dìvce, a v tomhle mìstì radši drí nohy u sebe.}
 {453}{}{Zbav se tı svı dìvky, kámo. Mám tu holku, co ti ho udrí "v pozoru" celou noc.}
 {454}{}{Moje enskı z tebe udìlaj opravdovıho chlapa. A stojej jen pár babek.}
-{455}{}{Ty nejlepší klisny najdeš v mı stáji.}
+{455}{}{Ty nejlepší klisny najdeš jedinì v mı stáji.}
 {456}{}{Jestli tì chytnu jak prodáváš tu svou lacinou dìvku v mım rajónu, udìlám ti úsmìv od ucha k uchu.}
 {457}{}{Take ona je tvoje "ena", jo? No dobøe, ty jeden "manílku". V tom pøípadì by si mìla v TOMHLE mìstì dávat pozor na tu svoji prdelku.}
 {458}{}{Tohle je mùj rajón. Jdi si s tou svojí dìvkou jinam.}
 {459}{}{Dej si bacha, a tì nechytím, jak ji prodáváš na Mİ ulici.}
-
-# 11. FLOAT (MALE SLAVER)
 {470}{}{Doufám, e má ta enská mı prachy...}
 {471}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {472}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -189,10 +164,10 @@
 {481}{}{Nemáš nìjakı zboí na prodej, otrokáøi? Potøeboval bych nìjakou novou krev.}
 {482}{}{Jestli dokáe vcucnout golfovej míèek skrz zahradní hadici? To si piš, e jo.}
 {483}{}{Moje enskı z tebe udìlaj opravdovıho chlapa. A stojej jen pár babek.}
-{484}{}{Ty nejlepší klisny najdeš v mı stáji.}
+{484}{}{Ty nejlepší klisny najdeš jedinì v mı stáji.}
 {485}{}{Hej, otrokáøi, jestli se nìkterá z mejch holek ztratí, tak mi to zaplatíš. Rozumíš?}
 {486}{}{Poèkej, nìkoho ti dohodím, otrokáøi. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
-{487}{}{Mám tady jednu holku, na kterou by ses mìl podívat, otrokáøi. Má fakt krásnou sladkou prdelku.}
+{487}{}{Mám tady jednu holku, na kterou by ses mìla podívat, otrokáøko. Má fakt krásnou sladkou prdelku.}
 {488}{}{Teï nemám zájem kupovat ádnı otroky, ale moná ti jich pozdìjc pár prodám.}
 {489}{}{Ne abys strkal ten svùj pytel mejm holkám do pusy, otrokáøi.}
 {490}{}{Dej si bacha, a tì nechytím, jak moje holky mlátíš zezadu do hlavy, otrokáøi.}
@@ -203,8 +178,6 @@
 {495}{}{Ne abys strkal ten svùj pytel mejm holkám do pusy, otrokáøi.}
 {496}{}{Jestli si na mnì jedna èubka nepøestane otvírat hubu, tak pro tebe moná budu mít na prodej nìjakı zboí.}
 {497}{}{Otrokáøi jsou v tomhle mìstì vdycky vítáni.}
-
-# 12. (FEMALE SLAVER)
 {500}{}{Doufám, e má ta enská mı prachy...}
 {501}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {502}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -218,8 +191,6 @@
 {510}{}{Teï nemám zájem kupovat ádnı otroky, ale moná ti jich pozdìjc pár prodám.}
 {511}{}{Mám tady jednu holku, na kterou by ses mìla podívat, otrokáøko. Má fakt krásnou sladkou prdelku.}
 {512}{}{Otrokáøi jsou v tomhle mìstì vdycky vítáni.}
-
-# 13. (MALE, NO REP)
 {520}{}{Doufám, e má ta enská mı prachy...}
 {521}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {522}{}{Doufám, e mi ta dìvka pøinese prachy...}
@@ -244,8 +215,6 @@
 {541}{}{Jestli tì nìkdy chytím, jak dìláš mı holce "Clevelandskıho Steamera", tak tì ZABIJU.}
 {542}{}{Chceš si zapíchat?}
 {543}{}{Mám nejlepší dìvky v celım New Renu. Zkus je a uvidíš.}
-
-# 14. (FEMALE, NO REP)
 {550}{}{Doufám, e má ta enská mı prachy...}
 {551}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
 {552}{}{Doufám, e mi ta dìvka pøinese prachy...}

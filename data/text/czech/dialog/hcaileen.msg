@@ -6,7 +6,7 @@
 {105}{}{My tìm mutantùm ukážeme.}
 {106}{}{Máme stejná práva, soudruhu.}
 {107}{}{Máš to správné vybavení.}
-{108}{}{Vypadni odsud.}
+{108}{}{Zmizte odsud.}
 {109}{}{Mutantofile.}
 {110}{}{Radši drž klapaèku, jestli nechceš pøijít k úrazu.}
 {111}{}{Zatracený ochránce mutantù.}
@@ -22,7 +22,7 @@
 {121}{}{Naše vítìzství se blíží!}
 {122}{}{Už brzy bude Broken Hills naše.}
 {123}{}{Zatracený mutantofile.}
-{124}{}{Vypadni odsud.}
+{124}{}{Zmizte odsud.}
 {125}{}{Jsi obyèejný kolaborant z øíše mutantù.}
 {126}{}{Tak teï sis teda nevybral zrovna nejlíp.}
 {127}{}{Toho, co jsi tady udìlal, budeš litovat.}
@@ -35,10 +35,10 @@
 {134}{}{Mùj manžel Jacob se o tebe postará.}
 {135}{}{Eh, mùžeš mì prosím pøestat otravovat?}
 {136}{}{Já ti moc nepomùžu, ale mùj manžel Jacob by mohl.}
-{137}{}{Nech mì na pokoji.}
+{137}{}{Nechte mì na pokoji.}
 {138}{}{Díky za návštìvu, ale teï už jdi.}
 {139}{}{Proè tì zajímá tahle špína?}
 {140}{}{Udìlal bys to samé i ve svým, eh, stanu?}
-{141}{}{Prosím, nech mì teï na pokoji.}
+{141}{}{Prosím, nech mì být.}
 {142}{}{Nevím, co po mì chceš, ale nech mì prosím na pokoji.}
 {143}{}{Nastražili to na nás! Ty lidi v tunelech jsme nezabili!}

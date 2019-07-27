@@ -62,7 +62,7 @@
 {161}{mcs17}{That ain't good enough for you? Then get out.}
 {162}{}{Adeus.}
 {163}{mcs18}{Got a little trouble with the mine. If you're interested in helping fix it, go talk to Zaius, the mine foreman.}
-{164}{}{Where can I find him?}
+{164}{}{Aonde eu posso encontrá-lo?}
 {165}{}{You got anything else?}
 {166}{}{Eu tenho mais perguntas.}
 {167}{}{Maybe later. Bye.}
@@ -209,7 +209,7 @@
 {308}{}{Northwest.}
 {309}{}{West.}
 {310}{}{Southwest.}
-{311}{}{South.}
+{311}{}{Sul.}
 {312}{}{Southeast.}
 {313}{}{East.}
 {314}{}{Northeast.}
@@ -220,7 +220,7 @@
 {319}{}{Why're you talking to me like this?}
 {320}{}{Not very nice.}
 {321}{}{Thanks. }
-{322}{}{This is good.}
+{322}{}{Isso ser bom.}
 {323}{}{This ain't good.}
 {324}{}{I like this. A lot. }
 {325}{}{I have a bad feeling about this.}
@@ -230,12 +230,12 @@
 {329}{}{Is anyone here sane?}
 {330}{}{Gotta be another way.}
 {331}{}{Siga-me.}
-{332}{}{Try this.}
+{332}{}{Tenta isso.}
 {333}{}{Venha aqui.}
 {334}{}{Found something you might want to see.}
 {335}{}{Far as I can tell, it's safe to camp here.}
 {336}{}{Ain't safe to camp here.}
-{337}{}{We can rest here.}
+{337}{}{Nós pode descansar aqui.}
 {338}{}{I got lucky.}
 {339}{}{Fix this, would you?}
 {340}{}{Turn this on.}
@@ -317,7 +317,7 @@
 {3100}{}{Forget I asked then, asshole.}
 {3200}{}{Never mind then. Your loss.}
 {3300}{}{Darn. Maybe later then.}
-{9999}{}{I wanted to ask you some questions...}
+{9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {10001}{}{Take some more stims and heal yourself.}
 {10002}{}{Marcus, I need you to wait here until I come back.}
 {10003}{}{Coloque sua arma de distância.}

@@ -52,6 +52,6 @@
 {146}{}{Sorry, I'll try to be more civil.}
 {147}{}{Shove it.}
 {148}{}{Sim.}
-{149}{}{Good day to you.}
+{149}{}{Bom dia pra você.}
 {150}{}{I regret the fact that I must kill you.}
 {151}{}{.}

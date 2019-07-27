@@ -7,7 +7,7 @@
 {211}{}{You again?! What're you doing down here?!}
 {212}{}{Nuttin honey}
 {213}{}{Eu}
-{214}{}{Wander off}
+{214}{}{Cai fora}
 {215}{}{What are YOU doing down here?}
 {216}{}{Calm down, friend, THEN we'll talk. Everything all right?}
 {217}{}{You Lloyd? Pretty Boy Lloyd?}

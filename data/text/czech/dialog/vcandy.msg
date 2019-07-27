@@ -17,20 +17,20 @@
 {116}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste provést takovou operaci?}
 {117}{}{Teï ne. Není to tak zlé, jak to vypadá.}
 {118}{}{Ne, jsem v pohodì. Jen tudy procházím.}
-{119}{}{Dobrá... co se tak dívám, bude to stát }
+{119}{}{Tak dobøe... co se tak dívám, bude to stát }
 {120}{}{ babek. Jestli máte prachy, mùžeme se do toho dát hned teï.}
 {121}{}{A na starýho Doka tam vzadu samozøejmì neposkytuju žádný záruky...}
 {122}{}{Odvázat? Odvázat! Tady peníze, ty odvázat mì.}
 {123}{}{Pá pá.}
 {124}{}{Né dost penìz. Pá pá.}
-{125}{}{Dobøe.}
+{125}{}{Tak dobøe.}
 {126}{}{To je trochu moc. Co takhle }
 {127}{}{?}
 {128}{}{Zapomeòte na to. Mohl byste radìji prohlédnout mého pøítele?}
 {129}{}{Zapomeòte na to. Mohl byste radìji prohlédnout mé pøátele?}
 {130}{}{Co je tohle za místo?}
-{131}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste takovou operaci provést?}
-{132}{}{Tolik nemám. Vrátím se, až budu mít víc penìz.}
+{131}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste provést takovou operaci?}
+{132}{}{Nemám dost. Vrátím se, až budu mít trochu víc penìz.}
 {133}{}{Ne, díky. Možná nìkdy jindy.}
 {134}{}{No... tak dobøe. To zní fér.}
 {135}{}{Tak se do toho dáme. Jenom vás pøipojím k tomuhle starýmu Doktorovi... strète ruce do tìhlech úchytù, já vás pøikurtuju a zajistím svorky...}
@@ -41,7 +41,7 @@
 {140}{}{Mùžete vyléèit mého pøítele?}
 {141}{}{Mùžete vyléèit mé pøátele?}
 {142}{}{Co je tohle za místo?}
-{143}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste takovou operaci provést?}
+{143}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste provést takovou operaci?}
 {144}{}{Už je mi mnohem lépe, díky.}
 {145}{}{Hmm, no, to by pro vás nemuselo být nejbezpeènìjší, pøíteli. Zdá se, že už jste se starým Dokem pár tripù podniknul. Ale když to chcete...}
 {146}{}{Tøísekundové bezvìdomí}
@@ -65,7 +65,7 @@
 {164}{}{Zapomeòte na to. Mùžete radìji vyléèit mì?}
 {165}{}{Co je tohle za místo?}
 {166}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste provést takovou operaci?}
-{167}{}{Tolik nemám. Vrátím se, až budu mít trochu víc penìz.}
+{167}{}{Nemám dost. Vrátím se, až budu mít trochu víc penìz.}
 {168}{}{Rozmyslel jsem si to. Možná nìkdy jindy.}
 {169}{}{No, takže... víte vy co? Dejte mi }
 {170}{}{ babek za všechny a plácneme si. Co vy na to?}
@@ -77,15 +77,15 @@
 {176}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste provést takovou operaci?}
 {177}{}{Nemám dost. Vrátím se, až budu mít trochu víc penìz.}
 {178}{}{Rozmyslel jsem si to. Možná nìkdy jindy.}
-{179}{}{Hmm... dobøe. To zní fér.}
-{180}{}{Tak se do toho dáme. Jenom nastartuju starýho Doka... tady je položíme, pøikurtuju je a zajistím svorky...}
+{179}{}{No... tak dobøe. To zní fér.}
+{180}{}{Tak se do toho dáme. Jenom vás pøipojím k tomuhle starýmu Doktorovi... strète ruce do tìhlech úchytù, já vás pøikurtuju a zajistím svorky...}
 {181}{}{Tøísekundové bezvìdomí}
 {182}{}{Tak a všichni jsou zase v poøádku! Já vìdìl, že v Doktorovi ještì trocha života zbývá.}
 {183}{}{Díky. Poslyšte, potøebuju ještì nìco jiného...}
 {184}{}{Tisíceré díky. Možná se tu zastavíme znovu.}
 {185}{}{Jste ve zdravotním støedisku Vault City. Já se starým Dokem dokážeme spravit prakticky kohokoliv, kdo to potøebuje.}
 {186}{}{"Se starým Dokem?"}
-{187}{}{Aha. No, chci se ještì na nìco zeptat...}
+{187}{}{Aha. Chci se ještì na nìco zeptat...}
 {188}{}{Hmmm. Možná se vrátím, až budu potøebovat vaše služby.}
 {189}{}{Jo, ten Auto-Dok vzadu v místnosti. Je to zápùjèka z mìsta.}
 {190}{}{Obèas trochu neposlouchá, ale vìtšinou svou práci odvede. Vìtšinou.}
@@ -102,7 +102,7 @@
 {201}{}{Klidnì si je zavolejte. Nedostanou se sem vèas, aby vám zachránili prdel.}
 {202}{}{No, tak není zaè.}
 {203}{}{Takže... mùžu vám ještì s nìèím pomoct?}
-{204}{}{Mùžu vám s nìèím pomoct?}
+{204}{}{S èím ti mùžu pomoct?}
 {205}{}{Potøebuju lékaøskou prohlídku.}
 {206}{}{Eh, potøebuju odstranit výrùstek. Mùj šestý prst.}
 {207}{}{Mùj pøítel by potøeboval prohlédnout.}
@@ -135,25 +135,25 @@
 {234}{}{$7000? Eh, mám jen $5000.}
 {235}{}{Hmmm. Povìzte mi o tìch dalších implantátech.}
 {236}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{237}{}{Vrátím se, až budu mít víc penìz.}
+{237}{}{Vrátím se až budu mít víc penìz.}
 {238}{}{Vrátím se, až získám kevlarovou zbroj.}
-{239}{}{Aha. Tak snad nìkdy jindy.}
+{239}{}{Aha. Tak snad nìkdy jindy..}
 {240}{}{No, technicky vzato je "zesílený impantát" standardní podkožní implantát s voperovanými pláty pod kùži.}
 {241}{}{Takže nejdøív budete potøebovat standardní podkožní implantát.}
 {242}{}{Fajn, co k tomu bude potøeba?}
 {243}{}{Povìzte mi o tìch dalších implantátech.}
 {244}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{245}{}{Aha. Tak snad nìkdy jindy.}
+{245}{}{Aha. Tak snad nìkdy jindy..}
 {246}{}{No, budu potøebovat další kevlarovou zbroj kvùli dalším plátùm. Dobrá vìc je, že pláty navíc dokážou absorbovat dvojnásobné poškození, dohromady tedy 10%. Ale...}
 {247}{}{Ano?}
 {248}{}{Povìzte mi o tìch dalších implantátech.}
 {249}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{250}{}{Aha. Tak snad nìkdy jindy.}
+{250}{}{Aha. Tak snad nìkdy jindy..}
 {251}{}{Budete potøebovat rehabilitaci, aspoò nìkolik dní, pokud to starej Dok nezvorá. A je to drahé. Øekl bych nejmíò 40 tácù. A navíc...to nijak nepomùže vašemu vzhledu.}
 {252}{}{Jak moc mì to zohaví?}
 {253}{}{Povìzte mi o tìch dalších implantátech.}
 {254}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{255}{}{Aha. Tak snad nìkdy jindy.}
+{255}{}{Aha. Tak snad nìkdy jindy..}
 {256}{}{Všechny vaše køivky se zmìní na hrany, aspoò co já vím.}
 {257}{}{Až s vámi skonèím, budete mít všude hrany.}
 {258}{}{Nacpání všech tìhlech plátù do vašeho tìla poznamená vaši charismu. Poøád máte zájem?}
@@ -161,34 +161,34 @@
 {260}{}{No, nevím. 40 tácù je docela dost. Ale 30 tisíc u sebe mám.}
 {261}{}{Povìzte mi o tìch dalších implantátech.}
 {262}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{263}{}{Vrátím se, až budu mít dost penìz.}
+{263}{}{Vrátím se až budu mít víc penìz.}
 {264}{}{Vrátím se, až získám kevlarovou zbroj.}
-{265}{}{Aha. Tak snad nìkdy jindy.}
+{265}{}{Aha. Tak snad nìkdy jindy..}
 {266}{}{Phoenix implantáty pohltí èást poškození ohnìm, laserem nebo plazmou... asi 5%. Budu potøebovat kevlarovou zbroj kvùli termálním membránám a operace mi zabere dva dny. 10 tácù by mìlo staèit.}
 {267}{}{To zní dobøe. Tady je zbroj a peníze.}
 {268}{}{$10000 je na mì trochu moc. Co takhle $8000?}
 {269}{}{Povìzte mi o tìch dalších implantátech.}
 {270}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{271}{}{Vrátím se, až budu mít dost penìz.}
+{271}{}{Vrátím se až budu mít víc penìz.}
 {272}{}{Vrátím se, až získám kevlarovou zbroj.}
-{273}{}{Aha. Tak snad nìkdy jindy.}
+{273}{}{Aha. Tak snad nìkdy jindy..}
 {274}{}{No, technicky vzato je "zesílený ohnivzdorný" standardní Phoenix implantát s termálními rozptylovaèi pøipevnìnými k membránách.}
 {275}{}{Takže nejdøív budete potøebovat základní Phoenix implantát.}
 {276}{}{Fajn, co k tomu bude potøeba?}
 {277}{}{Povìzte mi o tìch dalších implantátech.}
 {278}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{279}{}{Aha. Tak snad nìkdy jindy.}
+{279}{}{Aha. Tak snad nìkdy jindy..}
 {280}{}{No, budu potøebovat další kevlarovou zbroj kvùli teplotním rozptylovaèùm. Dobré je, že rozptylovaèe zvýší tepelnou odolnost, takže pohltí asi 10% poškození. Ale...}
 {281}{}{Ano?}
 {282}{}{Povìzte mi o tìch dalších implantátech.}
 {283}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{284}{}{Aha. Tak snad nìkdy jindy.}
+{284}{}{Aha. Tak snad nìkdy jindy..}
 {285}{}{Budete mít na kùži puchýøe. Ošklivé. Budete vypadat trochu jako ten pøedváleèný bublinkový balící materiál, takže si po tom asi moc nezarandíte. A navíc je to docela drahé. 50 tácù. Pøedem.}
 {286}{}{To je mi fuk. Tady jsou peníze... a tady další kevlarová zbroj.}
 {287}{}{40 tácù a plácneme si.}
 {288}{}{Povìzte mi o tìch dalších implantátech.}
 {289}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{290}{}{Vrátím se, až budu mít dost penìz.}
+{290}{}{Vrátím se až budu mít víc penìz.}
 {291}{}{Vrátím se, až získám další kevlarovou zbroj.}
 {292}{}{Aha. Tak snad nìkdy jindy..}
 {293}{}{No... to zní fér.}
@@ -248,8 +248,6 @@
 {347}{}{ babek za vás všechny a mùžeme si plácnout. A nebude to fungovat na robotický mozek, pøíteli. Tak co vy na to?}
 {348}{}{Paráda! Vždycky jsem chtìl vypadat jako Kryton! Tady jsou peníze a kevlarová zbroj.}
 {349}{}{Tak dobøe. Jdeme na to.}
-# Added by Seraph:
 {350}{}{Ztrácíš -4 Max HB.}
-# Added by killap:
 {351}{}{Cooo? Já poøád necítit dobrá. Já teï jít spát.}
 {352}{}{Ehhhh... dobøe. Pá pá.}

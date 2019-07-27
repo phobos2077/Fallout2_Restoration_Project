@@ -1,7 +1,5 @@
 {100}{}{Vidíš malého kluka.}
-{101}{}{Vidíš malou holku.}
-
-
+{101}{}{Malé dìvèe.}
 {200}{}{Už tam budem?}
 {201}{}{Jsem unavenej.}
 {202}{}{Poneseš mì?}

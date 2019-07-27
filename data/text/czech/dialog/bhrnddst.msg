@@ -1,4 +1,3 @@
-# Brok Encounter Table
 {100}{}{Potkáváš tuláky a vlky.}
 {101}{}{Potkáváš tuláky.}
 {102}{}{Potkáváš vlky.}
@@ -7,8 +6,6 @@
 {105}{}{Potkáváš hlídku Jednoty bojující s tuláky.}
 {106}{}{Potkáváš hlídku Jednoty bojující s vlky.}
 {107}{}{Potkáváš hlídku Jednoty.}
-
-# VPat Encounter Table
 {150}{}{Potkáváš otrokáøe a psy.}
 {151}{}{Potkáváš otrokáøe.}
 {152}{}{Potkáváš zlaté geckony.}
@@ -19,8 +16,6 @@
 {157}{}{Potkáváš hlídku bojující se zlatými geckony.}
 {158}{}{Potkáváš hlídku bojující s divokými psy.}
 {159}{}{Potkáváš hlídku.}
-
-# RDRC Encounter Table
 {200}{}{Pøepadli tì nájezdníci.}
 {201}{}{Potkáváš vlky.}
 {202}{}{Potkáváš karavanu odrážející útok nájezdníkù.}
@@ -31,22 +26,18 @@
 {207}{}{Potkáváš karavanu.}
 {208}{}{Potkáváš karavanu.}
 {209}{}{Potkáváš karavanu.}
-
-# VNNB Encounter Table
 {250}{}{Potkáváš zbìhy.}
 {251}{}{Potkáváš vlky.}
 {252}{}{Potkáváš radškorpiony.}
 {253}{}{Potkáváš karavanu odrážející útok zbìhù.}
 {254}{}{Potkáváš karavanu odrážející útok zbìhù.}
 {255}{}{Potkáváš karavanu odrážející vlky.}
-{256}{}{Potkáváš karavanu odrážející radškorpiony.}
+{256}{}{Potkáváš karavanu odrážející útok radškorpionù.}
 {257}{}{Potkáváš karavanu.}
 {258}{}{Potkáváš karavanu.}
 {259}{}{Potkáváš karavanu.}
 {260}{}{Potkáváš karavanu.}
 {261}{}{Potkáváš poutníka.}
-
-# NCR Encounter Table
 {300}{}{Potkáváš zbytky Vùdcovy armády.}
 {301}{}{Potkáváš zbìhy.}
 {302}{}{Potkáváš NCR Rangery bojující se zbytky Vùdcovy armády.}
@@ -55,8 +46,6 @@
 {305}{}{Potkáváš farmáøe odrážející útok zbìhù.}
 {306}{}{Potkáváš NCR Rangery.}
 {307}{}{Potkáváš farmáøe.}
-
-# DNRV Encounter Table
 {350}{}{Potkáváš otrokáøskou karavanu.}
 {351}{}{Potkáváš potulné zabijáky a lupièe.}
 {352}{}{Potkáváš potulné zabijáky.}
@@ -69,8 +58,6 @@
 {359}{}{Potkáváš potulné zabijáky bojující s lupièi.}
 {360}{}{Potkáváš karavanu.}
 {361}{}{Potkáváš karavanu.}
-
-# DMRV Encounter Table
 {400}{}{Potkáváš potulné zabijáky.}
 {401}{}{Potkáváš lupièe.}
 {402}{}{Potkáváš lupièe a potulné zabijáky.}
@@ -85,8 +72,6 @@
 {411}{}{Potkáváš karavanu odrážející útok radškorpionù.}
 {412}{}{Potkáváš geckony bojujícími s radškorpiony.}
 {413}{}{Potkáváš karavanu.}
-
-# Band Encounter Table
 {450}{}{Potkáváš potulné zabijáky a lupièe.}
 {451}{}{Potkáváš potulné zabijáky a geckony.}
 {452}{}{Potkáváš zlaté geckony.}
@@ -97,8 +82,6 @@
 {457}{}{Potkáváš karavanu odrážející útok lupièù.}
 {458}{}{Potkáváš skupinu potulných zabijákù plenících masožravé rostliny.}
 {459}{}{Potkáváš karavanu.}
-
-# DVMV Encounter Table
 {500}{}{Potkáváš potulné zabijáky a divoké psy.}
 {501}{}{Potkáváš lupièe a divoké psy.}
 {502}{}{Potkáváš lupièe.}
@@ -112,8 +95,6 @@
 {510}{}{Potkáváš karavanu odrážející útok lupièù.}
 {511}{}{Potkáváš karavanu odrážející útok potulných zabijákù.}
 {512}{}{Potkáváš karavanu.}
-
-# Red Encounter Table
 {550}{}{Potkáváš geckony a vlky.}
 {551}{}{Potkáváš zlodìje pùdy.}
 {552}{}{Potkáváš vlky.}
@@ -126,20 +107,16 @@
 {559}{}{Potkáváš pøekupníky s alkoholem.}
 {560}{}{Potkáváš lovce.}
 {561}{}{Potkáváš prospektory.}
-
-# SRNRRN Encounter Table
 {600}{}{Potkáváš páraèe.}
 {601}{}{Potkáváš ohnivé geckony.}
 {602}{}{Potkáváš karavanu prchajícími pøed páraèi.}
-{603}{}{Potkáváš karavanu bojujícími s páraèi.}
+{603}{}{Potkáváš karavanu bojující s páraèi.}
 {604}{}{Potkáváš karavanu bojujícími s ohnivými geckony.}
 {605}{}{Potkáváš karavanu bojujícími s ohnivými geckony.}
 {606}{}{Potkáváš karavanu.}
 {607}{}{Potkáváš karavanu.}
 {608}{}{Potkáváš karavanu.}
 {609}{}{Potkáváš karavanu.}
-
-# EPA Encounter Table
 {650}{}{Potkáváš alieny a páraèe.}
 {651}{}{Potkáváš kentaury a floatery.}
 {652}{}{Potkáváš ohnivé geckony.}
@@ -149,8 +126,6 @@
 {656}{}{Potkáváš alieny.}
 {657}{}{Potkáváš kentaury.}
 {658}{}{Potkáváš floatery.}
-
-# New Encounter Table
 {700}{}{Potkáváš èleny Yakuzy.}
 {701}{}{Potkáváš gang.}
 {702}{}{Potkáváš skupinu vlkù.}
@@ -158,8 +133,6 @@
 {704}{}{Potkáváš mafiány bojujícími s gangem.}
 {705}{}{Potkáváš mafiány.}
 {706}{}{Potkáváš poutníka.}
-
-# NRNR Encounter Table
 {750}{}{Potkáváš karavanu odrážející útok zbytku Vùdcovy armády.}
 {751}{}{Potkáváš karavanu bojující se zbytky Vùdcovy armády.}
 {752}{}{Potkáváš karavanu bojující s páraèi.}

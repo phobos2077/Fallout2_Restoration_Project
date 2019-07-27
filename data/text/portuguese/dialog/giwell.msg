@@ -1,4 +1,4 @@
 {100}{}{You see a well.}
-{101}{}{You could be wrong, but as you look down the well, you feel heat emanating from the darkness.}
-{102}{}{You take a big gulp of the well water. It's unusually warm.}
-{103}{}{You take a big gulp of the well water. It tastes much better than it did before.}
+{101}{}{Você pode estar enganado, mas enquanto você olha para o fundo do poço, você sente o calor que vem da escuridão.}
+{102}{}{Você toma um grande gole da água do poço. Está atipicamente morna.}
+{103}{}{Você toma um grande gole da água do poço. O gosto está bem melhor do que estava antes.}

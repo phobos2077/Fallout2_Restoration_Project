@@ -58,7 +58,7 @@
  know why any sane person'd want to go there for, though.}
 {149}{}{Why? Is it dangerous?}
 {150}{}{Interesting. Let me ask you about something else, though.}
-{151}{}{Thanks for the information. Goodbye.}
+{151}{}{Obrigado pela informação. Adeus.}
 {152}{}{Well, I hear all kinds of things about the whole city bein' full o' nuthin' but crazy followers
  of some kind of kooky religion.}
 {153}{}{Crazed followers?}

@@ -11,7 +11,7 @@
 {600}{}{eleznı sud}
 {601}{}{Starı sud vyrobenı ze eleza.}
 {700}{}{Hromada pneumatik}
-{701}{}{Hromada starıch pneumatik. Jsou vulkanizované a ztvrdlé, pravdìpodobnì pùsobením horka.}
+{701}{}{Hromada starıch gumovıch pneumatik. Jsou vulkanizované a ztvrdlé, pravdìpodobnì pùsobením horka.}
 {800}{}{Bezpeènostní dveøe}
 {801}{}{Velmi bytelnì vypadající dveøe. Poskytují ochranu pøed venkovním svìtem a nebezpeènımi tvory.}
 {900}{}{Poèítaè}
@@ -36,10 +36,10 @@
 {1801}{}{I po bliším prozkoumání jsou to stále jen dveøe.}
 {1900}{}{Dveøe}
 {1901}{}{I po bliším prozkoumání jsou to stále jen dveøe.}
-{2000}{}{Ventilace}
-{2001}{}{Ventilace zásobující celı komplex èerstvım vzduchem.}
-{2100}{}{Ventilace}
-{2101}{}{Ventilace zásobující celı komplex èerstvım vzduchem.}
+{2000}{}{Vìtrací otvor}
+{2001}{}{Vzduchová ventilace, která zásobuje celı komplex èistım vzduchem.}
+{2100}{}{Vìtrací otvor}
+{2101}{}{Vzduchová ventilace, která zásobuje celı komplex èistım vzduchem.}
 {2200}{}{Dveøe Vaultu 13}
 {2201}{}{Mohutné ocelové dveøe zkonstruované tak, aby odolaly i tomu nejtìšímu poškození.}
 {2300}{}{Dveøe Vaultu 13}
@@ -54,16 +54,16 @@
 {2701}{}{Møí v podlaze.}
 {2800}{}{Potrubí}
 {2801}{}{I po bliším prozkoumání jsou to stále jen trubky.}
-{2900}{}{Ventilace}
-{2901}{}{Standardní ventilaèní systém od firmy Vault-Tec.}
+{2900}{}{Vìtrací otvor}
+{2901}{}{Standardní ventilaèní systém Vault-Tec.}
 {3000}{}{Sloup}
 {3001}{}{Obyèejnı opìrnı sloup od firmy Vault-Tec.}
 {3100}{}{Sloup}
 {3101}{}{Obyèejnı opìrnı sloup od firmy Vault-Tec.}
-{3200}{}{Ventilace}
-{3201}{}{Standardní ventilaèní systém od firmy Vault-Tec.}
-{3300}{}{Ventilace}
-{3301}{}{Standardní ventilaèní systém od firmy Vault-Tec.}
+{3200}{}{Vìtrací otvor}
+{3201}{}{Standardní ventilaèní systém Vault-Tec.}
+{3300}{}{Vìtrací otvor}
+{3301}{}{Standardní ventilaèní systém Vault-Tec.}
 {3400}{}{Postel}
 {3401}{}{Postel. Vypadá docela pohodlnì ve srovnání s tím, na èem obvykle spíš.}
 {3500}{}{Postel}
@@ -131,7 +131,7 @@
 {6600}{}{Strom}
 {6601}{}{Mrtvı strom. Tady ostatnì nic neroste dobøe.}
 {6700}{}{Tajnı blokaèní hex}
-{6701}{}{Pokud tohle vidíš, napiš stínost technickému návrháøi.}
+{6701}{}{Pokud tohle vidíš, pošli stínost technickému návrháøi.}
 {6800}{}{Schody}
 {6801}{}{Spousta schodù.}
 {6900}{}{Stalagmit}
@@ -156,10 +156,10 @@
 {7801}{}{Velká hromada kamení. Zdá se, e jsou pùvodem z této oblasti.}
 {7900}{}{Kameny}
 {7901}{}{Malá hromádka kamení.}
-{8000}{}{Kamení}
+{8000}{}{Kameny}
 {8001}{}{Malá hromádka kamení.}
 {8100}{}{Kameny}
-{8101}{}{Hromada kamení.}
+{8101}{}{Velká hromada kamení.}
 {8200}{}{Kosti}
 {8201}{}{Hromada vybìlenıch zvíøecích kostí. Tedy, myslíš si, e jsou zvíøecí...}
 {8300}{}{Kosti}
@@ -182,7 +182,7 @@
 {9101}{}{Velká hromada kamení. Kdy se podíváš zblízka, vidíš po stranách tváøe malıch starıch muù.}
 {9200}{}{Kameny}
 {9201}{}{Kamení, kamení, kamení! Kamení všude kam se podíváš!}
-{9300}{}{Kamení}
+{9300}{}{Kameny}
 {9301}{}{Malá hromádka kamení.}
 {9400}{}{Bar}
 {9401}{}{V tomto baru je mnoství lahví s nejrùznìjšími destiláty. Jen je naèepovat.}
@@ -226,7 +226,7 @@
 {11301}{}{Hromádka hlíny.}
 {11400}{}{Hlína}
 {11401}{}{Hromádka hlíny.}
-{11500}{}{Hlína}
+{11500}{}{Rostlina}
 {11501}{}{Hromádka hlíny, ze které trèí uschlá rostlina.}
 {11600}{}{Haraburdí}
 {11601}{}{Zkroucenı kus rezavého plechu.}
@@ -266,7 +266,7 @@
 {13700}{}{Stoka}
 {13701}{}{Z kanálu se line zvuk bublající vody. A také pøíšernı zápach.}
 {13800}{}{Stoka}
-{13801}{}{Ze stoky se line zvuk bublající vody. A také pøíšernı smrad.}
+{13801}{}{Z kanálu se line zvuk bublající vody. A také pøíšernı smrad.}
 {13900}{}{ebøík}
 {13901}{}{Starı vratkı ebøík. Vypadá to, e tì stìí unese.}
 {14000}{}{Vstup do kanálu}
@@ -332,13 +332,13 @@
 {17001}{}{Podpùrnı sloup.}
 {17100}{}{Vstupní poèítaè}
 {17101}{}{Tento poèítaè ovládá vstupní dveøe do vaultu. Pøed vstupem musíš zadat pøístupovı kód.}
-{17200}{}{Poutaè kasína}
+{17200}{}{Cedule "Kasíno"}
 {17201}{}{Reklama na Gizmovo kasíno.}
 {17300}{}{Vnìjší dveøe Vaultu 13}
-{17301}{}{Tyto mohutné dveøe jsou spojnicí mezi vaultem a okolním svìtem.}
+{17301}{}{Tyto mohutné dveøe jsou jedinou spojnicí mezi vaultem a vnìjším svìtem.}
 {17400}{}{Vnìjší dveøe Vaultu 13}
-{17401}{}{Tyto mohutné dveøe jsou spojnicí mezi vaultem a okolním svìtem.}
-{17500}{}{Poutaè kasína}
+{17401}{}{Tyto mohutné dveøe jsou jedinou spojnicí mezi vaultem a vnìjším svìtem.}
+{17500}{}{Cedule "Kasíno"}
 {17501}{}{Neon, kterım pomalu otáèí elektrickı motor.}
 {17600}{}{Šipka dolù}
 {17700}{}{Šipka nahoru}
@@ -398,9 +398,9 @@
 {20700}{}{Stará matrace}
 {20701}{}{I kdybys spal na této vìci sám, nespal bys sám.}
 {20800}{}{Postel}
-{20801}{}{Provizorní postel. Vyrobená z toho, co bylo zrovna po ruce.}
+{20801}{}{A makeshift bed. The material was scavenged from some other source.}
 {20900}{}{Postel}
-{20901}{}{Provizorní postel. Vyrobená z toho, co bylo zrovna po ruce.}
+{20901}{}{A makeshift bed. The material was scavenged from some other source.}
 {21000}{}{Postel}
 {21001}{}{Tato postel u zaila lepší dny (a noci nejspíš taky.)}
 {21100}{}{Postel}
@@ -418,13 +418,13 @@
 {21700}{}{UNUSED.}
 {21800}{}{UNUSED.}
 {21900}{}{UNUSED.}
-{22000}{}{Bedny}
+{22000}{}{Krabice}
 {22001}{}{Døevìné bedny, které se vlivem poèasí takøka rozpadly.}
-{22100}{}{Bedny}
+{22100}{}{Krabice}
 {22101}{}{Na tìchto døevìnıch bednách nenacházíš nic, co by stálo za øeè.}
-{22200}{}{Bedny}
+{22200}{}{Krabice}
 {22201}{}{Musíš mít opravdu asi hodnì èasu, kdy prohledáváš i tento shnilı odpad.}
-{22300}{}{Bedny}
+{22300}{}{Krabice}
 {22301}{}{Døevìné bedny, které se vlivem poèasí takøka rozpadly.}
 {22400}{}{Auto}
 {22401}{}{Tento automobil je v naprosto pøíšerném stavu. Nemáš nejmenší tušení, jak by se dal opravit.}
@@ -519,7 +519,7 @@
 {27101}{}{Tato matrace je v pøíšerném stavu. Ani krysy by v ní, nebo na ní, nespali.}
 {27200}{}{Haraburdí}
 {27201}{}{Manelská matrace, která u zaila i lepší dny.}
-{27300}{}{Harampádí}
+{27300}{}{Haraburdí}
 {27301}{}{Hromada shnilého døeva. Nemá cenu ani své vlastní váhy. Vlastnì nemá vùbec ádnou cenu.}
 {27400}{}{Haraburdí}
 {27401}{}{Hromada døeva, ze kterého místy vykukují ohnuté zrezivìlé høebíky.}
@@ -629,7 +629,7 @@
 {33000}{}{Pisoár}
 {33001}{}{Obyèejnı pisoár. Nic zvláštního.}
 {33100}{}{Vodní nádr}
-{33101}{}{Velká nádr na uchovávání tekutin. V tomto pøípadì si myslíš, e byla postavena pro uchovávání vody.}
+{33101}{}{Velkı zásobník na tekutiny. V tomto pøípadì to bude asi nádr na vodu.}
 {33200}{}{Dveøe}
 {33201}{}{Døevìné dveøe. Není na nich vùbec nic zajímavého.}
 {33300}{}{Dveøe}
@@ -718,11 +718,11 @@
 {37500}{}{Hrábì}
 {37501}{}{Tyto hrábì ti nepatøí. Stejnì tì nenapadá, k èemu by se daly pouít.}
 {37600}{}{Koberec}
-{37601}{}{Obyèejnı koberec. Tkalec byl zøejmì velmi talentovanı.}
+{37601}{}{Obyèejnı koberec. Tkalec byl oèividnì velmi talentovanı.}
 {37700}{}{Koberec}
-{37701}{}{Obyèejnı koberec. Tkalec byl zøejmì velmi talentovanı.}
+{37701}{}{Obyèejnı koberec. Tkalec byl oèividnì velmi talentovanı.}
 {37800}{}{Koberec}
-{37801}{}{Obyèejnı koberec. Tkalec byl zøejmì velmi talentovanı.}
+{37801}{}{Obyèejnı koberec. Tkalec byl oèividnì velmi talentovanı.}
 {37900}{}{Lopata}
 {37901}{}{Tato lopata ti nepatøí. Stejnì tì nenapadá, k èemu by se dala pouít.}
 {38000}{}{Lopata}
@@ -732,7 +732,7 @@
 {38200}{}{Váza}
 {38201}{}{Velmi hezká hlinìná váza.}
 {38300}{}{Studna}
-{38301}{}{Obyèejná studna jakıch je v pustinì spousta.}
+{38301}{}{Typická studna, která je k nalezení v pustinì.}
 {38400}{}{Tyè}
 {38401}{}{Bìná souèást stanové konstrukce.}
 {38500}{}{Tyè}
@@ -748,7 +748,7 @@
 {39000}{}{Dveøe vaultu}
 {39001}{}{Teï u je to jen ohromnı kus ocelového šrotu.}
 {39100}{}{Stìna}
-{39101}{}{Mechanismus na otevírání tìkıch dveøí je nenávratnì znièen.}
+{39101}{}{Mechanismus zajišující otevírání a zavírání tìkıch dveøí vaultu byl nenávratnì poškozen.}
 {39200}{}{Vıztuha}
 {39201}{}{Tato vıztuha zesiluje ochrannou zeï.}
 {39300}{}{Vıztuha}
@@ -765,7 +765,7 @@
 {39801}{}{Podle dutého zvuku usuzuješ, e jsou tyto sudy nejspíš prázdné.}
 {39900}{}{elezné sudy}
 {39901}{}{Podle dutého zvuku usuzuješ, e jsou tyto sudy nejspíš prázdné.}
-{40000}{}{Vìtrací otvor}
+{40000}{}{Vzduchová ventilace}
 {40001}{}{Vìtrací otvor ventilace podzemních prostor.}
 {40100}{}{Bedna}
 {40101}{}{Døevìná bedna. Je v celkem dobrém stavu.}
@@ -779,7 +779,7 @@
 {40501}{}{Obyèejnı pracovní stùl s poèítaèem.}
 {40600}{}{Dveøe}
 {40601}{}{Døevìné dveøe. Ve slušném stavu.}
-{40700}{}{Zával}
+{40700}{}{Sesuv}
 {40701}{}{Spousta kamení. Víc, ne dokáeš unést.}
 {40800}{}{Auto}
 {40801}{}{Tento napùl potopenı automobil u nikdy nikdo neopraví.}
@@ -799,17 +799,17 @@
 {41501}{}{Tìmito trubkami se kdysi èerpalo palivo z podzemních nádrí. Nebyly pouity u velmi dlouhou dobu.}
 {41600}{}{Potrubí}
 {41601}{}{Tìmito trubkami se kdysi èerpalo palivo z podzemních nádrí. Nebyly pouity u velmi dlouhou dobu.}
-{41700}{}{Vıtahová šachta}
+{41700}{}{Šachta vıtahu}
 {41701}{}{Èást vıtahového systému.}
 {41800}{}{Vìtrací šachta}
 {41801}{}{Vìtrací šachta vede kamsi hluboko do lodi. Je poškozená.}
 {41900}{}{Vıtah}
 {41901}{}{Vıtah. Pouívá se k pøesunu nahoru a dolù do jinıch pater.}
-{42000}{}{Vıtahová šachta}
+{42000}{}{Šachta vıtahu}
 {42001}{}{Šachta vede kamsi hluboko pod zem. Je poškozená.}
 {42100}{}{Dveøe vıtahu}
 {42101}{}{Tyto dveøe vedou do vıtahu. Pokud ho chceš pouít, musíš nejdøív otevøít tyto dveøe.}
-{42200}{}{Trubka}
+{42200}{}{Potrubí}
 {42201}{}{elezná trubka. Další detaily nejsou dùleité.}
 {42300}{}{Hlína}
 {42400}{}{Bedna}
@@ -821,17 +821,17 @@
 {42900}{}{Kameny}
 {42901}{}{Hromada kamení. Nic zajímavého.}
 {43000}{}{Kameny}
-{43001}{}{Malá hromádka kamení. Nic, co by tì zajímalo.}
+{43001}{}{Malá hromádka kamení. Není na nich vùbec nic zajímavého.}
 {43100}{}{Kameny}
-{43101}{}{Malá hromádka kamení.}
+{43101}{}{Hromádka kamení.}
 {43200}{}{Kameny}
-{43201}{}{Malá hromádka kamení.}
+{43201}{}{Hromádka kamení.}
 {43300}{}{Kameny}
-{43301}{}{Malá hromádka kamení.}
+{43301}{}{Hromádka kamení.}
 {43400}{}{Kameny}
-{43401}{}{Malá hromádka kamení.}
+{43401}{}{Hromádka kamení.}
 {43500}{}{Kameny}
-{43501}{}{Malá hromádka kamení.}
+{43501}{}{Hromádka kamení.}
 {43600}{}{Dveøe vaultu}
 {43601}{}{Tyto dveøe jsou podobné tìm ve Vaultu 13. Mechanismus dveøí byl vyøazen z provozu.}
 {43700}{}{Dveøe}
@@ -859,27 +859,27 @@
 {44801}{}{Bezpeènostní pancéøované dveøe.}
 {44900}{}{Nukleární hlavice}
 {45000}{}{Studna}
-{45001}{}{Obyèejná studna jakıch je v pustinì spousta.}
+{45001}{}{Typická studna, která je k nalezení v pustinì.}
 {45100}{}{Hrací stùl}
-{45101}{}{Obyèejnı hrací stùl.}
+{45101}{}{Hrací stùl.}
 {45200}{}{Hrací stùl}
-{45201}{}{Obyèejnı hrací stùl.}
+{45201}{}{Hrací stùl.}
 {45300}{}{Hrací stùl}
-{45301}{}{Obyèejnı hrací stùl.}
+{45301}{}{Hrací stùl.}
 {45400}{}{Hrací stùl}
-{45401}{}{Obyèejnı hrací stùl.}
+{45401}{}{Hrací stùl.}
 {45500}{}{Hrací stùl}
-{45501}{}{Obyèejnı hrací stùl.}
+{45501}{}{Hrací stùl.}
 {45600}{}{Hrací stùl}
-{45601}{}{Obyèejnı hrací stùl.}
+{45601}{}{Hrací stùl.}
 {45700}{}{Hrací stùl}
-{45701}{}{Obyèejnı hrací stùl.}
+{45701}{}{Hrací stùl.}
 {45800}{}{Hrací stùl}
-{45801}{}{Obyèejnı hrací stùl.}
+{45801}{}{Hrací stùl.}
 {45900}{}{Hrací stùl}
-{45901}{}{Obyèejnı hrací stùl.}
+{45901}{}{Hrací stùl.}
 {46000}{}{Hrací stùl}
-{46001}{}{Obyèejnı hrací stùl.}
+{46001}{}{Hrací stùl.}
 {46100}{}{Kámen}
 {46101}{}{Malı kámen, kterı je pro tento pøíbìh naprosto nezajímavı.}
 {46200}{}{Kámen}
@@ -889,7 +889,7 @@
 {46501}{}{Primitivní zaøízení, do kterého lidé hází peníze.}
 {46600}{}{Hrací automat}
 {46601}{}{Primitivní zaøízení, do kterého lidé hází peníze.}
-{46700}{}{Vchod}
+{46700}{}{Vstup}
 {46800}{}{Šachta}
 {46900}{}{Šachta}
 {47000}{}{Dveøe vıtahu}
@@ -901,17 +901,17 @@
 {47301}{}{Toto okno je vyrobené z voskového papíru namísto skla.}
 {47400}{}{Okno}
 {47401}{}{Toto okno je vyrobené z voskového papíru namísto skla.}
-{47500}{}{Garáová vrata}
+{47500}{}{Dveøe}
 {47501}{}{Velká garáová vrata. Jsou zablokována zevnitø.}
-{47600}{}{Garáová vrata}
+{47600}{}{Dveøe}
 {47601}{}{Velká garáová vrata. Jsou zablokována zevnitø.}
-{47700}{}{Garáová vrata}
+{47700}{}{Dveøe}
 {47701}{}{Velká garáová vrata. Jsou zablokována zevnitø. Je na nich nápis POUZE PRO NAKLÁDÁNÍ.}
-{47800}{}{Garáová vrata}
+{47800}{}{Dveøe}
 {47801}{}{Velká garáová vrata. Jsou zablokována zevnitø.}
-{47900}{}{Garáová vrata}
+{47900}{}{Dveøe}
 {47901}{}{Velká garáová vrata. Jsou zablokována zevnitø.}
-{48000}{}{Garáová vrata}
+{48000}{}{Dveøe}
 {48001}{}{Velká garáová vrata. Jsou zablokována zevnitø. Je na nich nápis POUZE PRO NAKLÁDÁNÍ.}
 {48100}{}{Dveøe}
 {48101}{}{Tyto dveøe nápadnì pøipomínají dveøe do skladištì.}
@@ -924,9 +924,9 @@
 {48500}{}{Pódium}
 {48501}{}{Obyèejnı øeènickı pult.}
 {48600}{}{Oltáø}
-{48700}{}{Televize}
+{48700}{}{Monitor}
 {48701}{}{Velká èernobílá televize. Pøíjem je docela ucházející vzhledem k tomu, e je umístìna uvnitø a nemá anténu.}
-{48800}{}{Televize}
+{48800}{}{Monitor}
 {48801}{}{Velká èernobílá televize. Èlovìk v rouchu na nìm horeènatì pøednáší náboenská dogmata.}
 {48900}{}{Silové pole}
 {48901}{}{Silné energetické pole.}
@@ -1022,12 +1022,12 @@
 {53700}{}{Boxovací pytel}
 {53701}{}{Boxovací pytel znaèky Silák Béïa(tm).}
 {53800}{}{Cvièební stroj}
-{53801}{}{Cvièební pøístroj.}
+{53801}{}{Cvièební pomùcka.}
 {53900}{}{Cvièební stroj}
 {54000}{}{Bìeckı pás}
-{54001}{}{Cvièební pøístroj.}
+{54001}{}{Cvièební pomùcka.}
 {54100}{}{Bìeckı pás}
-{54101}{}{Cvièební pøístroj.}
+{54101}{}{Cvièební pomùcka.}
 {54200}{}{Lavice na benchpress}
 {54201}{}{Cvièební pomùcka.}
 {54300}{}{Lavice na benchpress}
@@ -1064,17 +1064,17 @@
 {55801}{}{Tato plošina udruje superpoèítaè nad nádrí s chladícím médiem.}
 {55900}{}{Dont use}
 {56000}{}{Dont use}
-{56100}{}{Palanda}
+{56100}{}{Postel}
 {56101}{}{Vojenská palanda. Vypadá velmi nepohodlnì a prostìradlo je napnuté jako kšandy.}
-{56200}{}{Palanda}
+{56200}{}{Postel}
 {56201}{}{Vojenská palanda. Vypadá velmi nepohodlnì a prostìradlo je napnuté jako kšandy.}
-{56300}{}{Palanda}
+{56300}{}{Postel}
 {56301}{}{Vojenská palanda. Vypadá velmi nepohodlnì a prostìradlo je napnuté jako kšandy.}
 {56400}{}{Kabel}
 {56401}{}{Vypadá to jako nìjakı sériovı kabel.}
 {56500}{}{Kabel}
 {56501}{}{Vypadá to jako nìjakı sériovı kabel.}
-{56600}{}{Nápis}
+{56600}{}{Cedule}
 {56601}{}{Nápis BAR je asi víc ne vımluvnı, ne?}
 {56700}{}{Trám}
 {56701}{}{Nad kráterem je upevnìn silnı trám.}
@@ -1139,14 +1139,14 @@
 {59700}{}{Bouda}
 {59701}{}{Aèkoliv je tato bouda stará pøes sto let, je stále v perfektním stavu.}
 {59800}{}{Cedule}
-{59801}{}{Na ceduli stojí: Smíšené zboí.}
+{59801}{}{Cedule s nápisem: Smíšené zboí.}
 {59900}{}{Cedule}
-{59901}{}{Na ceduli stojí: Smíšené zboí.}
+{59901}{}{Cedule s nápisem: Smíšené zboí.}
 {60000}{}{Cedule}
 {60001}{}{Na ceduli stojí: Trištì.}
-{60100}{}{Kalu slizu}
+{60100}{}{Sliz}
 {60101}{}{U od pohledu ivotu nebezpeèné. Jestli se chceš by jen namoèit, vezmi si odolnı neoprén.}
-{60200}{}{Loue slizu}
+{60200}{}{Sliz}
 {60201}{}{U od pohledu ivotu nebezpeèné. Jestli se chceš by jen namoèit, vezmi si odolnı neoprén.}
 {60300}{}{Sliz}
 {60301}{}{U od pohledu ivotu nebezpeèné. Jestli se chceš by jen namoèit, vezmi si odolnı neoprén.}
@@ -1248,8 +1248,8 @@
 {65400}{}{Potrubí}
 {65500}{}{Potrubí}
 {65600}{}{Generátor}
-{65601}{}{Vırobek firmy Wattz ElectroBox. Standardní záloní zdroj elektrické energie z dob pøed válkou.}
-{65700}{}{Nádr}
+{65601}{}{Generátor Wattz ElectroBox. Standardnì pouívanı jako záloní generátor v pøedváleèném období.}
+{65700}{}{Tank}
 {65701}{}{Velká nádr na vodu. Vypadá docela udrovanì, co je dobøe.}
 {65800}{}{Policejní budka}
 {65801}{}{Policejní budka z Velké Británie z období cca okolo roku 1960.}
@@ -1315,18 +1315,18 @@
 {68901}{}{Velká hromada kamení. Tento zával rozhodnì nevznikl pøirozenou cestou.}
 {69000}{}{Záchod}
 {69001}{}{Primitivní, ale provozuschopná toaleta. V díøe je poloeno nìkolik listù nìjaké rostliny na potlaèení zápachu.}
-{69100}{}{Hora}
-{69101}{}{Tento horskı svah vypadá nepøístupnì.}
-{69200}{}{Hora}
-{69201}{}{Tento horskı svah vypadá nepøístupnì.}
-{69300}{}{Hora}
-{69301}{}{Tento horskı svah vypadá nepøístupnì.}
-{69400}{}{Hora}
-{69401}{}{Tento horskı svah vypadá nepøístupnì.}
-{69500}{}{Hora}
-{69501}{}{Tento horskı svah vypadá nepøístupnì.}
-{69600}{}{Hora}
-{69601}{}{Tento horskı svah vypadá nepøístupnì.}
+{69100}{}{Hory}
+{69101}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
+{69200}{}{Hory}
+{69201}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
+{69300}{}{Hory}
+{69301}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
+{69400}{}{Hory}
+{69401}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
+{69500}{}{Hory}
+{69501}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
+{69600}{}{Hory}
+{69601}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
 {69700}{}{Mazlavá hmota}
 {69701}{}{Vidíš nìjakou podivnou a nebezpeènì vypadající biologickou hmotu.}
 {69800}{}{Mazlavá hmota}
@@ -1490,13 +1490,13 @@
 {77801}{}{Na této idli není nic zvláštního.}
 {77900}{}{idle}
 {77901}{}{Na této idli není nic zvláštního.}
-{78000}{}{Pilíø}
+{78000}{}{Sloup}
 {78001}{}{Opìrnı pilíø.}
-{78100}{}{Pilíø}
+{78100}{}{Sloup}
 {78101}{}{Opìrnı pilíø.}
-{78200}{}{Pilíø}
+{78200}{}{Sloup}
 {78201}{}{Opìrnı pilíø.}
-{78300}{}{Pilíø}
+{78300}{}{Sloup}
 {78301}{}{Opìrnı pilíø.}
 {78400}{}{Postel}
 {78401}{}{Tato postel je v ubohém stavu.}
@@ -1514,13 +1514,13 @@
 {79001}{}{Tyto monitory jsou rozbité a nefungují.}
 {79100}{}{Monitory}
 {79101}{}{Tyto monitory jsou rozbité a nefungují.}
-{79200}{}{Ventilace}
+{79200}{}{Vìtrací otvor}
 {79201}{}{Z ventilace vychází jen slabı závan èerstvého vzduchu.}
-{79300}{}{Ventilace}
+{79300}{}{Vìtrací otvor}
 {79301}{}{Nevychází z ní témìø ádnı èerstvı vzduch.}
-{79400}{}{Ventilace}
+{79400}{}{Vìtrací otvor}
 {79401}{}{Z ventilace nevychází ádnı èerstvı vzduch.}
-{79500}{}{Ventilace}
+{79500}{}{Vìtrací otvor}
 {79501}{}{Z ventilace vychází jen slabouèkı závan èerstvého vzduchu.}
 {79600}{}{Stùl}
 {79601}{}{Na tomto stolu není nic zvláštního, tedy a na to, e je témìø znièenı.}
@@ -1552,11 +1552,11 @@
 {80901}{}{Tato idle je znièená.}
 {81000}{}{idle}
 {81001}{}{Tato idle je znièená.}
-{81100}{}{Ventilace}
+{81100}{}{Vìtrací otvor}
 {81101}{}{Tato ventilace je poškozená natolik, e u se nedá opravit.}
-{81200}{}{Ventilace}
+{81200}{}{Vìtrací otvor}
 {81201}{}{Tato ventilace je poškozená natolik, e u se nedá opravit.}
-{81300}{}{Ventilace}
+{81300}{}{Vìtrací otvor}
 {81301}{}{Tato ventilace je zcela nefunkèní.}
 {81400}{}{Poèítaè}
 {81401}{}{Zdá se, e tento poèítaè mele z posledního.}
@@ -1583,9 +1583,9 @@
 {82500}{}{Stìna}
 {82600}{}{Trezorové dveøe}
 {82601}{}{Velmi robustní trezorové dveøe. Vypadají nedobytnì.}
-{82700}{}{Svìtlo}
+{82700}{}{Lehké}
 {82701}{}{Bezpeènostní svìtlo.}
-{82800}{}{Svìtlo}
+{82800}{}{Lehké}
 {82801}{}{Bezpeènostní svìtlo.}
 {82900}{}{Sloup}
 {82901}{}{Sloup.}
@@ -1599,9 +1599,9 @@
 {83301}{}{Toto je napájecí dok pro roboty. Tady se dobíjí, kdy nejsou ve slubì.}
 {83400}{}{Dobíjecí místnost}
 {83401}{}{Toto je napájecí dok pro roboty. Tady se dobíjí, kdy nejsou ve slubì.}
-{83500}{}{Zaøízení}
+{83500}{}{Stroj}
 {83501}{}{Toto zaøízení má nìco spoleèného se servisní základnou robotù. Nevypadá nijak zvláš zajímavì.}
-{83600}{}{Zaøízení}
+{83600}{}{Stroj}
 {83601}{}{Toto zaøízení má nìco spoleèného se servisní základnou robotù. Nevypadá nijak zvláš zajímavì.}
 {83700}{}{Pruh}
 {83800}{}{Pruh}
@@ -1626,7 +1626,7 @@
 {85201}{}{Vypadá to jako nìjakı náboenskı symbol.}
 {85300}{}{Operaèní stùl}
 {85301}{}{Vypadá to jako stùl k vyšetøování pacientù.}
-{85400}{}{Poutaè}
+{85400}{}{Cedule}
 {85401}{}{Neonovı poutaè restaurace Maltese Falcon.}
 {85500}{}{Graffiti}
 {85600}{}{Graffiti}
@@ -1705,10 +1705,10 @@
 {89901}{}{Plakát nìjakého hororového filmu z doby pøed Válkou.}
 {90000}{}{Bar}
 {90001}{}{Na baru je poloená urna. Je sice trochu otluèená, ale i pøesto se zdá bıt cenná.}
-{90100}{}{Vıtahová šachta}
+{90100}{}{Šachta vıtahu}
 {90101}{}{Seshora visí lano.}
-{90200}{}{Vıtahová šachta}
-{90201}{}{Za hranu je upevnìno lano visící dolù.}
+{90200}{}{Šachta vıtahu}
+{90201}{}{Za hranu vıtahove šachty je upevnìné lano.}
 {90300}{}{Lékaøské lùko}
 {90301}{}{Lùko má zabudované pøístroje pro monitorování stavu pacientù.}
 {90400}{}{Vodní pumpa}
@@ -1717,9 +1717,9 @@
 {90501}{}{Lùko má zabudované pøístroje pro monitorování stavu pacientù.}
 {90600}{}{Souèástky do energo zbroje}
 {90601}{}{Nìkolik souèástek pro energo zbroj.}
-{90700}{}{Alarm}
+{90700}{}{Lehké}
 {90701}{}{Poplašné svìtlo rudì pulzuje.}
-{90800}{}{Alarm}
+{90800}{}{Lehké}
 {90801}{}{Poplašné svìtlo rudì pulzuje.}
 {90900}{}{Symbol}
 {91000}{}{Symbol}
@@ -1727,22 +1727,22 @@
 {91200}{}{Symbol}
 {91300}{}{Symbol}
 {91400}{}{Symbol}
-{91500}{}{Lano}
-{91600}{}{Lano}
-{91700}{}{Lano}
-{91800}{}{Lano}
-{91900}{}{Lano}
-{92000}{}{Lano}
-{92100}{}{Lano}
-{92200}{}{Lano}
-{92300}{}{Kaòon}
-{92400}{}{Kaòon}
-{92500}{}{Kaòon}
-{92600}{}{Kaòon}
-{92700}{}{Kaòon}
-{92800}{}{Kaòon}
-{92900}{}{Kaòon}
-{93000}{}{Kaòon}
+{91500}{}{Provaz}
+{91600}{}{Provaz}
+{91700}{}{Provaz}
+{91800}{}{Provaz}
+{91900}{}{Provaz}
+{92000}{}{Provaz}
+{92100}{}{Provaz}
+{92200}{}{Provaz}
+{92300}{}{- Kaòon}
+{92400}{}{- Kaòon}
+{92500}{}{- Kaòon}
+{92600}{}{- Kaòon}
+{92700}{}{- Kaòon}
+{92800}{}{- Kaòon}
+{92900}{}{- Kaòon}
+{93000}{}{- Kaòon}
 {93100}{}{Podlaha jeskynì}
 {93200}{}{Neprostupné dveøe}
 {93201}{}{Tyto dveøe nemají ádnı otevírací mechanismus.}
@@ -1771,7 +1771,7 @@
 {94700}{}{Strom}
 {94800}{}{Postel}
 {94900}{}{Postel}
-{95000}{}{Otvor}
+{95000}{}{Díra}
 {95001}{}{Velmi podezøelá díra ve zdi.}
 {95100}{}{Nášlapná deska}
 {95101}{}{Nášlapná deska.}
@@ -1808,9 +1808,9 @@
 {97400}{}{Døevìnı sloup}
 {97500}{}{Znièenı døevìnı sloup}
 {97501}{}{Tento sloup vypadá, e by se mohl zøítit, pokud by ho nìkdo zatíil.}
-{97600}{}{Propadlá podlaha}
+{97600}{}{Zøícená podlaha}
 {97601}{}{Èást kamenné podlahy se zøítila do nišího patra.}
-{97700}{}{ebøík}
+{97700}{}{ebøík dolù}
 {97701}{}{Umìle vytvoøenı otvor s ebøíkem vedoucím dolù.}
 {97800}{}{Dveøe}
 {97900}{}{Stìna}
@@ -1874,17 +1874,17 @@
 {101800}{}{Pluh}
 {101801}{}{Tento pluh je evidentnì uzpùsoben pro zapøaení brahmíny.}
 {101900}{}{Voda}
-{102000}{}{Poutaè}
+{102000}{}{Cedule}
 {102001}{}{Vstupní poutaè mìsta New Reno.}
-{102100}{}{Poutaè}
+{102100}{}{Cedule}
 {102101}{}{Vstupní poutaè mìsta New Reno.}
-{102200}{}{Poutaè}
+{102200}{}{Cedule}
 {102201}{}{Vstupní poutaè mìsta New Reno.}
-{102300}{}{Poutaè}
+{102300}{}{Cedule}
 {102301}{}{Vstupní poutaè mìsta New Reno.}
-{102400}{}{Poutaè}
+{102400}{}{Cedule}
 {102401}{}{Vstupní poutaè mìsta New Reno.}
-{102500}{}{Poutaè}
+{102500}{}{Cedule}
 {102501}{}{Vstupní poutaè mìsta New Reno.}
 {102600}{}{Stín}
 {102700}{}{Stín}
@@ -1970,14 +1970,14 @@
 {110700}{}{Graffiti}
 {110800}{}{Graffiti}
 {110900}{}{Graffiti}
-{111000}{}{Poutaè}
-{111100}{}{Poutaè}
-{111200}{}{Poutaè}
-{111300}{}{Poutaè}
-{111400}{}{Poutaè}
-{111500}{}{Poutaè}
-{111600}{}{Poutaè}
-{111700}{}{Poutaè}
+{111000}{}{Cedule}
+{111100}{}{Cedule}
+{111200}{}{Cedule}
+{111300}{}{Cedule}
+{111400}{}{Cedule}
+{111500}{}{Cedule}
+{111600}{}{Cedule}
+{111700}{}{Cedule}
 {111800}{}{Plakát}
 {111900}{}{Plakát}
 {112000}{}{Plakát}
@@ -2034,20 +2034,20 @@
 {116801}{}{Nefunkèní stroj.}
 {116900}{}{Dveøe}
 {117000}{}{Dveøe}
-{117100}{}{Rezavé trubky}
+{117100}{}{Rezavé potrubí}
 {117101}{}{Sple starıch rezavıch trubek.}
-{117200}{}{Nádr}
-{117300}{}{Nádre}
-{117400}{}{Nádre}
-{117500}{}{Nádre}
-{117600}{}{Ventilace}
-{117700}{}{Ventilace}
+{117200}{}{Tank}
+{117300}{}{Dík.}
+{117400}{}{Dík.}
+{117500}{}{Dík.}
+{117600}{}{Vìtrací otvor}
+{117700}{}{Vìtrací otvor}
 {117800}{}{Cedule "Harpyje"}
 {117900}{}{Truhláøská koza}
 {118000}{}{Truhláøská koza}
 {118100}{}{Truhláøská koza}
-{118200}{}{Ventilace}
-{118300}{}{Ventilace}
+{118200}{}{Vìtrací otvor}
+{118300}{}{Vìtrací otvor}
 {118400}{}{Cedule "Zámeènictví"}
 {118500}{}{Cedule "Kanceláø"}
 {118600}{}{Cedule "Sklad"}
@@ -2055,7 +2055,7 @@
 {118800}{}{Pára}
 {118900}{}{Stroj}
 {118901}{}{Nìjaké nezajímavé zaøízení elektrárny.}
-{119000}{}{Nádr}
+{119000}{}{Tank}
 {119100}{}{Oheò}
 {119200}{}{Voda}
 {119300}{}{Cedule "Lovecká ètvr"}
@@ -2111,7 +2111,7 @@
 {123000}{}{Deaktivovanı kyborg}
 {123001}{}{Nekompletní tìlo robota, kterému chybí nìkolik souèástek.}
 {123100}{}{Houfnice}
-{123101}{}{Toto podivnì vypadající dìlo vypadá na nìjakı pozùstatek z doby pøed Válkou. Zajímalo by tì, jak se sem dostalo.}
+{123101}{}{Toto podivnì vypadající dìlo vypadá jako nìjakı pozùstatek z doby pøed Válkou. Zajímalo by tì, jak se sem dostalo.}
 {123200}{}{Cedule}
 {123300}{}{Cedule}
 {123400}{}{Cedule}
@@ -2135,7 +2135,7 @@
 {125200}{}{Seník}
 {125300}{}{Seník}
 {125400}{}{Cedule "Dustyho krèma"}
-{125500}{}{Obchod "Leguání kousky Bobova syna"}
+{125500}{}{Obchod "Leguání kousky Bobovy syna".}
 {125501}{}{Poulièní stánek.}
 {125600}{}{Obchod "Leguání kousky Bobovy syna".}
 {125601}{}{Poulièní stánek.}
@@ -2182,7 +2182,7 @@
 {129400}{}{Èerpací stanice}
 {129500}{}{Èerpací stanice}
 {129600}{}{Èerpací stanice}
-{129700}{}{Lano}
+{129700}{}{Provaz}
 {129800}{}{Díra}
 {129900}{}{Brahmíní maso}
 {130000}{}{Brahmíní maso}
@@ -2221,7 +2221,7 @@
 {133300}{}{Vybavení}
 {133400}{}{Vybavení}
 {133500}{}{Poèítaè}
-{133501}{}{Terminál napojenı na hlavní poèítaè vaultu.}
+{133501}{}{Terminál napojenı na hlavní poèítaè Vaultu.}
 {133600}{}{Poèítaè}
 {133601}{}{Terminál napojenı na hlavní poèítaè Vaultu.}
 {133700}{}{Vstup do Vault City}
@@ -2259,7 +2259,7 @@
 {136800}{}{Chrám}
 {136900}{}{Chrám}
 {137000}{}{Hory}
-{137100}{}{Jeskynì}
+{137100}{}{- Jeskynì}
 {137200}{}{Posuvník dveøí}
 {137300}{}{Pochodeò}
 {137301}{}{Do elezného kruhu pøipevnìného na zdi je zasazena hoøící pochodeò.}
@@ -2281,7 +2281,7 @@
 {138300}{}{Stìna}
 {138400}{}{Stìna}
 {138500}{}{Stìna}
-{138600}{}{Svìtlo}
+{138600}{}{Lehké}
 {138700}{}{Dveøe}
 {138800}{}{Dveøe}
 {138900}{}{Dveøe}
@@ -2329,7 +2329,7 @@
 {143000}{}{Cedule s èíslem 4}
 {143100}{}{Cedule s èíslem 5}
 {143200}{}{Cedule s èíslem 6}
-{143300}{}{Lano}
+{143300}{}{Provaz}
 {143301}{}{Pomocí tohoto lana se mùeš dostat pøes zeï.}
 {143400}{}{Dveøe}
 {143500}{}{Dveøe}
@@ -2427,8 +2427,8 @@
 {152600}{}{Potrubí}
 {152700}{}{Potrubí}
 {152800}{}{Potrubí}
-{152900}{}{Ventilace}
-{153000}{}{Ventilace}
+{152900}{}{Vzduchová ventilace}
+{153000}{}{Vzduchová ventilace}
 {153100}{}{Dveøe}
 {153200}{}{Dveøe}
 {153300}{}{Dveøe}
@@ -2476,7 +2476,7 @@
 {157400}{}{Dveøe}
 {157500}{}{Dveøe}
 {157600}{}{Dveøe}
-{157700}{}{Ventilace}
+{157700}{}{Vzduchová ventilace}
 {157800}{}{AutoDok}
 {157801}{}{Automatickı doktor je zaøízení vyvinuté pro léèení nemocí a aplikaci nejrùznìjších léèiv.}
 {157900}{}{Socha}
@@ -2490,21 +2490,21 @@
 {158301}{}{Energetické pole blokující cestu.}
 {158400}{}{Silové pole}
 {158401}{}{Energetické pole blokující cestu.}
-{158500}{}{Tanker}
-{158600}{}{Tanker}
-{158700}{}{Tanker}
-{158800}{}{Tanker}
-{158900}{}{Tanker}
-{159000}{}{Tanker}
-{159100}{}{Tanker}
-{159200}{}{Tanker}
-{159300}{}{Tanker}
-{159400}{}{Tanker}
-{159500}{}{Tanker}
-{159600}{}{Tanker}
-{159700}{}{Tanker}
-{159800}{}{Tanker}
-{159900}{}{Tanker}
+{158500}{}{Cisterna}
+{158600}{}{Cisterna}
+{158700}{}{Cisterna}
+{158800}{}{Cisterna}
+{158900}{}{Cisterna}
+{159000}{}{Cisterna}
+{159100}{}{Cisterna}
+{159200}{}{Cisterna}
+{159300}{}{Cisterna}
+{159400}{}{Cisterna}
+{159500}{}{Cisterna}
+{159600}{}{Cisterna}
+{159700}{}{Cisterna}
+{159800}{}{Cisterna}
+{159900}{}{Cisterna}
 {160000}{}{Stìna}
 {160100}{}{Stìna}
 {160200}{}{Propadlina}
@@ -2604,20 +2604,20 @@
 {169400}{}{Stín}
 {169500}{}{Stín}
 {169600}{}{Stín}
-{169700}{}{Zøícenı vertibird}
-{169800}{}{Zøícenı vertibird}
-{169900}{}{Zøícenı vertibird}
-{170000}{}{Zøícenı vertibird}
-{170100}{}{Zøícenı vertibird}
-{170200}{}{Zøícenı vertibird}
+{169700}{}{Strange machine, crashed}
+{169800}{}{Strange machine, crashed}
+{169900}{}{Strange machine, crashed}
+{170000}{}{Strange machine, crashed}
+{170100}{}{Strange machine, crashed}
+{170200}{}{Strange machine, crashed}
 {170300}{}{Stín}
 {170400}{}{Stín}
 {170500}{}{Stín}
-{170600}{}{Zøícenı most}
+{170600}{}{- Zøícenı most}
 {170601}{}{Na dnì propasti vidíš to, co zbylo z mostu do Arroya. Teï u se zpátky do vesnice nedostaneš.}
-{170700}{}{Zøícenı most}
+{170700}{}{- Zøícenı most}
 {170701}{}{Na dnì propasti vidíš to, co zbylo z mostu do Arroya. Teï u se zpátky do vesnice nedostaneš.}
-{170800}{}{Kaòon}
+{170800}{}{- Kaòon}
 {170900}{}{Dveøe}
 {171000}{}{Dveøe}
 {171100}{}{Stìna}
@@ -2628,15 +2628,15 @@
 {171600}{}{Stìna}
 {171700}{}{Stìna}
 {171800}{}{Stìna}
-{171900}{}{Ventilace}
-{172000}{}{Ventilace}
+{171900}{}{Vzduchová ventilace}
+{172000}{}{Vzduchová ventilace}
 {172100}{}{Neprùstøelné sklo}
 {172200}{}{Neprùstøelné sklo}
 {172300}{}{Neprùstøelné sklo}
 {172400}{}{Tìká laserová vì}
-{172401}{}{Vì se zlovìstnì otáèí.}
+{172401}{}{Vì se vıhrunì otáèí.}
 {172500}{}{Tìká laserová vì}
-{172501}{}{Vì se zlovìstnì otáèí.}
+{172501}{}{Vì se vıhrunì otáèí.}
 {172600}{}{Kameny}
 {172700}{}{Kameny}
 {172800}{}{Kameny}
@@ -2662,7 +2662,7 @@
 {174800}{}{Dveøe prezidentské kanceláøe}
 {174900}{}{Oèní diagram}
 {175000}{}{Ruiny}
-{175100}{}{Stráce Vìènosti}
+{175100}{}{Strazce vecnosti}
 {175200}{}{Cedule "Mimo provoz"}
 {175300}{}{Zøícená podlaha}
 {175400}{}{Záchod}
@@ -2796,11 +2796,11 @@
 {186701}{}{Trùn pro vùdce nebo velitele.}
 {186800}{}{Ventilace}
 {186801}{}{Kruhová ventilace do podzemního zaøízení.}
-{186900}{}{Lano}
+{186900}{}{Provaz}
 {186901}{}{Lano vedoucí do vzduchové ventilace.}
-{187000}{}{Ventilace na filtraci vzduchu}
+{187000}{}{Vzduchová ventilace}
 {187001}{}{Ventilace pouívaná k filtrování vzduchu v podzemí.}
-{187100}{}{Ventilace}
+{187100}{}{Vìtrací otvor}
 {187101}{}{Ventilace pouívaná k èištìní vzduchu v podzemí.}
 {187200}{}{Cedule}
 {187201}{}{Cedule s instrukcemi.}
@@ -2923,7 +2923,7 @@
 {193601}{}{Ve vıtahovì šachtì je porouchanı vıtah a upevnìné lano.}
 {193700}{}{Šachta vıtahu}
 {193701}{}{Ve vıtahovì šachtì chybí vıtah. Velmi nebezpeèné!}
-{193800}{}{Rezavé trubky}
+{193800}{}{Rezavé potrubí}
 {193801}{}{Nìkolik starıch rezavıch trubek.}
 {193900}{}{Generátor}
 {193901}{}{Generátor Wattz ElectroBox. Standardnì pouívanı jako záloní generátor v pøedváleèném období.}
@@ -2944,7 +2944,7 @@
 {194700}{}{Monitor}
 {194701}{}{Velkı èernobílı monitor. Na tomto monitoru je uhlazenı, ale prostì vyhlíející mu, kterı bez pøestání vaní.}
 {194800}{}{Monitor}
-{194801}{}{Velkı èernobílı monitor. Je na nìm obrázek rotujícího køíe a kruhu.}
+{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Stín}
@@ -2954,7 +2954,7 @@
 {195400}{}{Podlahovı rošt}
 {195401}{}{Rezavı podlahovı rošt.}
 {195500}{}{Velké mechanické èerpadlo}
-{195501}{}{Velké mechanické èerpadlo vystupující skrz rošt v podlaze.}
+{195501}{}{Velká mechanické èerpadlo vystupující skrz rošt v podlaze.}
 {195600}{}{Velké ulepené mechanické èerpadlo}
 {195601}{}{Vidíš velké mechanické èerpadlo pokryté nìjakou podivnou biologickou hmotou.}
 {195700}{}{Znièené velké ulepené mechanické èerpadlo}
@@ -2974,9 +2974,9 @@
 {196401}{}{Stará gumová pneumatika. Je vulkanizovaná a ztvrdlá, pravdìpodobnì pùsobením horka.}
 {196500}{}{Velká turbína}
 {196501}{}{Velká rotující turbína.}
-{196600}{}{Ventilace}
+{196600}{}{Vìtrací otvor}
 {196601}{}{Vzduchová ventilace, která zásobuje celı komplex èistım vzduchem.}
-{196700}{}{Ventilace}
+{196700}{}{Vìtrací otvor}
 {196701}{}{Vzduchová ventilace, která zásobuje celı komplex èistım vzduchem.}
 {196800}{}{Vzduchová ventilace}
 {196900}{}{Vzduchová ventilace}
@@ -2989,13 +2989,13 @@
 {197300}{}{Stìna}
 {197400}{}{Stìna}
 {197500}{}{Døevìné obloení}
-{197600}{}{Ventilace}
-{197700}{}{Ventilace}
+{197600}{}{Vìtrací otvor}
+{197700}{}{Vìtrací otvor}
 {197800}{}{Studna}
 {197801}{}{Typická studna, která je k nalezení v pustinì.}
 {197900}{}{Schody}
 {197901}{}{Široké schodištì.}
-{198000}{}{Široké rezavé schodištì}
+{198000}{}{Široké rezavé schody}
 {198001}{}{Tyto schody pomalu sírá rez.}
 {198100}{}{Široké rezavé schody}
 {198101}{}{Tyto schody pomalu sírá rez.}
@@ -3003,7 +3003,7 @@
 {198201}{}{Typické schùdky.}
 {198300}{}{Rezavé schùdky}
 {198301}{}{Tyto schùdky sírá rez.}
-{198400}{}{Zaseklı vìtrák}
+{198400}{}{Zaseknutı ventilátor}
 {198401}{}{Ve vìtráku je zaseknutı kus eleza.}
 {198500}{}{Vzduchová ventilace}
 {198501}{}{Standardní ventilaèní systém Vault-Tec.}
@@ -3104,7 +3104,7 @@
 {205300}{}{Vzduchová ventilace}
 {205400}{}{Vzduchová ventilace}
 {205500}{}{Vnìjší dveøe vaultu}
-{205501}{}{Tyto mohutné dveøe spojují vault s vnìjším svìtem.}
+{205501}{}{Tyto mohutné dveøe jsou jedinou spojnicí mezi vaultem a vnìjším svìtem.}
 {205600}{}{Rezavìjící vnìjší dveøe vaultu}
 {205601}{}{Tyto mohutné dveøe jsou jedinou spojnicí mezi vaultem a vnìjším svìtem.}
 {205700}{}{Rezavìjící vnìjší dveøe vaultu}
@@ -3148,9 +3148,9 @@
 {207701}{}{Obraz s vlajkou NCR.}
 {207800}{}{Obraz NCR}
 {207801}{}{Obraz s vlajkou NCR.}
-{207900}{}{Skála}
+{207900}{}{Hory}
 {207901}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
-{208000}{}{Skála}
+{208000}{}{Hory}
 {208001}{}{Tato skalní stìna vypadá velmi nepøístupnì.}
 {208100}{}{Obraz}
 {208200}{}{Obraz}
@@ -3177,13 +3177,13 @@
 {210101}{}{Tyto elezné dveøe jsou zabudovány do skalního masivu. Zdá se, e pøestály vıbuch atomové bomby.}
 {210200}{}{Vnìjší dveøe vaultu}
 {210201}{}{Tyto velké dveøe jsou jedinou spojnicí mezi vaultem a vnìjším svìtem. Byly seehnuty obrovskım vıbuchem.}
-{210300}{}{Vstup do jeskynì}
+{210300}{}{- Vchod do jeskynì}
 {210301}{}{Zdá se, e jeskynì ústí do vìtšího komplexu jeskyní.}
 {210400}{}{Vstupní poèítaè}
 {210401}{}{Tento poèítaè ovládá vstupní dveøe do vaultu. Pøed vstupem musíš zadat pøístupovı kód.}
-{210500}{}{Rezavìjící loï}
+{210500}{}{Rezivìjící loï}
 {210501}{}{Tato loï nevypadá, e by byla schopna plavby.}
-{210600}{}{Rezavìjící loï}
+{210600}{}{Rezivìjící loï}
 {210601}{}{Tato loï nevypadá, e by byla schopna plavby.}
 {210700}{}{Vyvazovací pachole}
 {210701}{}{Lano vede z vyvazovací pachole k lodi.}
@@ -3199,7 +3199,7 @@
 {211201}{}{Slaná voda postupnì rozpouští tento eleznı ebøík.}
 {211300}{}{Rezavìjící vì ponorky}
 {211301}{}{Zub èasu a slaná voda pomalu ale jistì sírají tento rezavìjící vrak.}
-{211400}{}{Rezavìjící loï}
+{211400}{}{Rezivìjící loï}
 {211401}{}{Tato loï nevypadá, e by byla schopna plavby.}
 {211500}{}{Zakalenı oceán}
 {211600}{}{Rezavìjící trup}

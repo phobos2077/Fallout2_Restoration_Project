@@ -34,8 +34,8 @@
 {263}{}{Go on, then. Walk on by.}
 {264}{}{Check out that soft juicy-fruit butt.}
 {265}{}{Baby, come let me squeeze that soft juicy-fruit butt o' yours.}
-{266}{}{::Whistles::}
-{267}{}{::Mouths the word 'damn.'::}
+{266}{}{::Assobios::}
+{267}{}{::As bocas soltam um 'caramba.'::}
 {268}{}{You dancing at the casinos anytime soon, sweetness?}
 {269}{}{You want a real partner, you should try me, honey.}
 {270}{}{When you gonna set ME up in the biz, miss movie staaar?}

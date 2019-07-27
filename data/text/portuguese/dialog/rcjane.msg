@@ -60,7 +60,7 @@
 {159}{}{Come and see the duel of the day!}
 {160}{}{Wild creatures struggle while you win money! YOU'LL LOVE IT!}
 {161}{}{Bring full purses and fuller expectations! RIGHT THIS WAY!}
-{162}{}{Get the hell out of here.}
+{162}{}{Caia fora daqui.}
 {163}{}{I don't need your kind of business.}
 {164}{}{Take it somewhere's else.}
 {165}{}{Just stay away from my corral.}
@@ -139,7 +139,7 @@
 {306}{}{Jackelope}
 {307}{}{Killer}
 {308}{}{Boss}
-{310}{}{Tanker}
+{310}{}{Petroleiro}
 {311}{}{Muttley}
 {312}{}{Spud}
 {313}{}{Larry}
@@ -177,7 +177,7 @@
 {348}{}{Mr. Baggins}
 {350}{}{Lightning}
 {351}{}{Percy}
-{352}{}{Flower}
+{352}{}{Flor}
 {353}{}{Rumplestiltskin}
 {354}{}{Shagrat}
 {355}{}{Muktar}

@@ -33,7 +33,7 @@
 {126}{}{Hello there. I'm Marge. Marge LeBarge, and I run this mine.}
 {127}{}{What can Marge do you for?}
 {128}{}{What do you mine here?}
-{129}{}{Have you ever heard of something called a Garden of Eden Creation Kit?}
+{129}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {130}{}{Are you a Redding native?}
 {131}{}{Know about any jobs or anything else going on here?}
 {132}{}{I was just looking around a bit. Goodbye.}
@@ -96,16 +96,16 @@
  us. I tell you, the NCR's our best bet - but they're all just out for our gold. Redding's still
  independent, so far.}
 {175}{}{What about the other rumors?}
-{176}{}{I guess that's all I need to know for now. Goodbye.}
+{176}{}{Acho que é tudo o que eu queria saber. Tchau.}
 {177}{}{A Wanamingo's just the single orneriest critter there is. Tall as two men, stronger than a bull
  brahmin, and with flappin' suckers instead of arms. Can't be hurt with guns, neither. S'posedly, injuns
  called 'em up for revenge on the white-man for what the war did. I don't put much stock in that, though.}
 {178}{}{What about the other rumors?}
-{179}{}{I guess that's all I need to know for now. Goodbye.}
+{179}{}{Acho que é tudo o que eu queria saber. Tchau.}
 {180}{}{Oh, yeah. Well, a couple of my miners were flying a bit themselves - Jetting around, if you catch
  my drift - a while back. They swore up-and-down that they saw a ship fly past, going southwest.}
 {181}{}{What about the other rumors?}
-{182}{}{I guess that's all I need to know for now. Goodbye.}
+{182}{}{Acho que é tudo o que eu queria saber. Tchau.}
 {183}{}{Well, Dan and his Morningstar boys favor those mobsters from New Reno. I guess that Redding'll be
  one big Jet addict slum before too long.}
 {184}{}{Not really my concern. Tell me about something else.}

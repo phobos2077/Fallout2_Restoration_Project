@@ -11,7 +11,7 @@
 {110}{}{I appreciate your attention, but I really am quite dangerous when riled.}
 {111}{}{I am the First Citizen! I must have my sleep!}
 {112}{}{Leave!}
-{113}{}{Get out!}
+{113}{}{Cai fora!}
 {114}{}{Out! Out! Out!}
 {115}{}{I admire your persistence. I would like to admire it from a distance.}
 {116}{}{Is this some sort of clumsy attempt to let me know that you are attracted to me?}
@@ -28,7 +28,7 @@
 {124}{}{Oo. Bye-bye.}
 {125}{lyn004}{Awwwww... there, there. Anytime you need a hug, you come see Aunt Lynette, all right?}
 {126}{}{Okeee-dokeee.}
-{127}{}{Bye-bye.}
+{127}{}{Tchau-tchau.}
 {128}{lyn005}{How callous! How cruel! Were they not aware of the community we had built here?}
 {129}{}{Perhaps an important lesson can be learned here, Lynette. Isolated from the world, the
  government was prepared to destroy you without even recognizing the value of your community. Perhaps
@@ -67,7 +67,7 @@
 {155}{lyn011}{Good day to you, stranger. I am First Citizen Lynette. May I inquire as to your business here?}
 {156}{}{Bizzzness? Bzzzzz-neff?}
 {157}{}{Eer!}
-{158}{}{Bye-bye.}
+{158}{}{Tchau-tchau.}
 {159}{}{I am looking for a Garden of Eden Creation Kit. Do you have one?}
 {160}{}{I am in search of a Garden of Eden Creation Kit, First Citizen. Does your city have one I might purchase?}
 {161}{}{Are you the... Overseer of this vault?}
@@ -90,7 +90,7 @@
 {177}{}{I see. I wish to speak to the Overseer of the Vault. Can you take me to him?}
 {178}{}{How does one go about becoming one of you Vault Dwellers?}
 {179}{}{If you hate the outside world so much, why do you live outside, and not in the vault?}
-{180}{}{I've heard enough. Goodbye.}
+{180}{}{Já ouvi o suficiente. Tchau.}
 {181}{}{I... understand. Thank you for your time, First Citizen.}
 {182}{lyn014}{I find ALL of you Outsiders offensive. You are uncultured and primitive, no better than
  animals! Now leave. Or I shall have you forcibly removed.}
@@ -122,7 +122,7 @@
 {206}{}{It is important that I speak with the Overseer. Can you take me to him?}
 {207}{}{I'm wasting precious time talking with you. Fetch the Overseer at once, woman.}
 {208}{}{I'm wasting precious time talking with you. Fetch the Overseer at once.}
-{209}{}{I've heard enough. Goodbye.}
+{209}{}{Já ouvi o suficiente. Tchau.}
 {210}{}{Thank you for your time, First Citizen. Good day.}
 {211}{lyn019}{There is no "Overseer." When we came to the surface, we formed a new government. The Overseer position was superfluous.}
 {212}{}{New government? Tell me about it.}
@@ -250,7 +250,7 @@
 {313}{}{Hmmmm. Thanks for the information. Good day.}
 {314}{lyn039}{I'm sorry, but we used ours to start Vault City. I do not believe there were any spares,
  but you could check the Acquisitions Office. It is located by the entrance to our vault.}
-{315}{}{Thanks. I had some other questions...}
+{315}{}{Obrigado. Eu tenho algumas outras questões...}
 {316}{}{Would you know where Vault 13 is located?}
 {317}{}{Great! I'll go there then. Good day.}
 {318}{lyn040}{A dirty vault suit and a battered canteen? That is your proof? Who knows where you
@@ -346,7 +346,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {395}{}{I believe Dr. Troy is involved in something illegal.}
 {396}{}{I must speak with you on the delivery of that holodisk.}
 {397}{}{I've changed my mind. I will deliver that holodisk to the Counselor in the NCR.}
-{398}{}{Nothing. Sorry to disturb you.}
+{398}{}{Nada. Me desculpe por perturbar você.}
 {399}{lyn054a}{Of course. What can I help you with, Citizen?}
 {400}{lyn054b}{Of course. What can I help you with, Captain?}
 {401}{}{What can you tell me about these Raider attacks on our city?}
@@ -355,7 +355,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {404}{}{I'm looking for Vault 13.}
 {405}{}{This is Vault City? Why don't you live in a vault?}
 {406}{}{Why is it you condone slavery?}
-{407}{}{Nothing today, thanks.}
+{407}{}{Nada por hoje, valeu.}
 {408}{lyn055}{For a non-Citizen, you certainly demand a great deal of my time.}
 {409}{}{But I AM a Citizen.}
 {410}{}{Do you have a GECK?}
@@ -400,7 +400,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {445}{}{Yes, I will -- in exchange for Citizenship and access to your Vault computers.}
 {446}{}{No, not really. I was just checking if the offer was still open.}
 {447}{lyn064}{Very well then. Report back to me when the job is finished, and I will grant you Citizenship.}
-{448}{}{Can I ask you another question before I go?}
+{448}{}{Posso te fazer outra pergunta antes de ir?}
 {449}{}{All right. I'll return when the situation's been taken care of.}
 {450}{lyn065}{Have you resolved the situation?}
 {451}{}{I found out all they need to get their plant running clean is a hydroelectric magnetosphere regulator.}
@@ -429,7 +429,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {470}{lyn069c}{I've had enough of your foolishness! You are no longer permitted inside Vault City. My
  guards will escort you to the front gate.}
 {471}{}{Die glazzeeeye!}
-{472}{}{Uh-huh}
+{472}{}{hã-ham.}
 {473}{}{You don't like my friend, huh? That's too bad. Cause he likes you... for DINNER.}
 {474}{}{Your guards won't get here in time to save your life... "First Citizen."}
 {475}{}{No need for the guards -- I'll leave peacefully.}
@@ -492,12 +492,12 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {528}{}{Hmmmm. I'll go see if I can find anything else out.}
 {529}{lyn081}{I can't believe a Citizen of such stature would become addicted to drugs. Thank you for your
  honesty, Citizen. I will take care of this immediately.}
-{530}{}{I had some other questions...}
+{530}{}{Eu tenho mais algumas perguntas...}
 {531}{}{Great. The entire situation had me concerned. Goodbye.}
 {532}{}{Thank you, First Citizen. I only wanted to see justice carried out.}
 {533}{lyn082a}{Inform me at once if you discover anything more.}
 {534}{lyn082b}{Vault City prevails, Citizen.}
-{535}{}{I had some other questions...}
+{535}{}{Eu tenho mais algumas perguntas...}
 {536}{}{Sure. Goodbye.}
 {537}{}{I will. Thank you, First Citizen.}
 {538}{lyn083}{The law is the law. Exceptions make us no better than the Outsiders. Again, are you
@@ -526,7 +526,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {558}{lyn087}{Moore? He's a troublemaker. THAT'S what he is.}
 {559}{}{You're right. He's got... outside interests.}
 {560}{}{Why do you say he's a troublemaker?}
-{561}{}{Can I ask you another question?}
+{561}{}{Posso te fazer outra pergunta?}
 {562}{}{I spoke with him... and a lot of what he says makes sense.}
 {563}{}{I agree. Do you want me to... take care of him?}
 {564}{}{You should revoke his Citizenship, then.}
@@ -537,19 +537,19 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {568}{}{How does he try and convince the Citizens?}
 {569}{}{He sounds like a problem. How about I... take care of him?}
 {570}{}{Can't you just kick him out?}
-{571}{}{I had some other questions...}
+{571}{}{Eu tenho mais algumas perguntas...}
 {572}{}{Oh. Well, thanks for the information. Good day.}
 {573}{lyn089}{The archives state that many old world nations had such a government. We know where THAT
  got them. Can you imagine how long it would take to get anything done in such a society? It's inconceivable.}
 {574}{}{Inconceivable? Why?}
 {575}{}{How does Moore try and convince the Citizens?}
-{576}{}{I had some other questions...}
+{576}{}{Eu tenho mais algumas perguntas...}
 {577}{}{I suppose so. I have to be going.}
 {578}{}{Thanks for your time, First Citizen. Good day.}
 {579}{lyn090}{A government needs a strong, capable leader who can make decisions quickly and has the
  power to enforce them. Government by committee is no kind of government at all.}
 {580}{}{How does Moore try and convince the Citizens that Vault City should be a democracy?}
-{581}{}{I had some other questions...}
+{581}{}{Eu tenho mais algumas perguntas...}
 {582}{}{I suppose so. I have to be going.}
 {583}{}{Thanks for your time, First Citizen. Good day.}
 {584}{lyn091}{Mostly by ranting in public and making a fool of himself. He plays on our sympathies with
@@ -586,7 +586,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {608}{}{I see. Can I ask you another question?}
 {609}{}{I'm sure your slaves would disagree.}
 {610}{}{But... you buy and sell human beings like brahmin. Doesn't keeping slaves bother you?}
-{611}{}{I've heard enough. Goodbye.}
+{611}{}{Já ouvi o suficiente. Tchau.}
 {612}{}{Thanks for your time, First Citizen. Good day.}
 {613}{lyn097}{They are not slaves, they are our "servants." We have given them homes, food, clothing,
  and a purpose. We have given them a life.}
@@ -602,11 +602,11 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {623}{}{I'm not going to argue this with you anymore. Goodbye.}
 {624}{lyn099}{What do you mean?}
 {625}{}{Moore's actually working for the New California Republic.}
-{626}{}{Never mind. I had some other questions...}
+{626}{}{Sem problemas. Eu tenho outras perguntas...}
 {627}{}{Nothing. I have to be going. Goodbye.}
 {628}{}{Nothing. I misspoke. Good day, First Citizen.}
 {629}{lyn100}{Kill him?! Murder is not in any way, shape, or form permitted in Vault City -- even if for the best. Never speak of this again.}
-{630}{}{Understood. Can I ask you some other questions?}
+{630}{}{Entendido. Posso fazer mais algumas perguntas?}
 {631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
  mauled by a brahmin... any of a number of things can happen in this dangerous world.}
 {632}{}{All right. I'm leaving.}
@@ -618,29 +618,29 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
  Moore is permitted to say anything he wants.}
 {638}{}{Do you want me to... take care of him?}
 {639}{}{Oh, but he has. You see, Moore isn't just a Citizen... he's been looking out for someone else's interests.}
-{640}{}{Can I ask you another question?}
+{640}{}{Posso te fazer outra pergunta?}
 {641}{}{Well, he'll probably bury himself at the rate he's going. Talk to you later.}
 {642}{}{I understand. Well, thanks for your time, First Citizen.}
 {643}{lyn103}{A spy for NCR? That... that... would explain a great many things. Thank you, Citizen. I
  will deal with this immediately.}
-{644}{}{I had some other questions...}
+{644}{}{Eu tenho mais algumas perguntas...}
 {645}{}{Great, thanks. Goodbye.}
 {646}{}{Thank you, First Citizen.}
 {647}{lyn104}{They started several months ago. The laser turrets have been able to hold them off, but I
  don't know how much longer we can stop them.}
-{648}{}{Who are these raiders?}
-{649}{}{I had some other questions...}
+{648}{}{Quem são estes raiders?}
+{649}{}{Eu tenho mais algumas perguntas...}
 {650}{}{I have to be going. Goodbye.}
 {651}{}{I'm sorry to hear that; perhaps they will go elsewhere in search of easier targets. Good day, First Citizen.}
 {652}{lyn105}{Outsider trash. For over a century, Outsiders have tried to loot our city... and have
  always failed. Eventually, we will defeat this group.}
 {653}{}{Uh... "eventually?" Why haven't you wiped them out already?}
-{654}{}{Can I ask you another question?}
+{654}{}{Posso te fazer outra pergunta?}
 {655}{}{I have to be going. Goodbye.}
 {656}{}{I have to go. Good day, First Citizen.}
 {657}{lyn106}{Finding their base has proven difficult. In addition, they also have a great deal of
  firepower. Nevertheless, we have repelled every attack... with minimal casualties.}
-{658}{}{Can I ask you another question?}
+{658}{}{Posso te fazer outra pergunta?}
 {659}{}{I have to be going. Goodbye.}
 {660}{}{Thanks for your time. Good day, First Citizen.}
 {661}{lyn107}{What is it? }
@@ -654,7 +654,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {668}{}{Eu vou ver o que posso fazer.}
 {669}{lyn109}{Very well. If you'll excuse me, I am also very busy. You can find your own way out.}
 {670}{}{I had some other questions I wanted to ask you first...}
-{671}{}{All right, I'm leaving.}
+{671}{}{Muito bem, estou saindo.}
 {672}{}{Very well. Good day, First Citizen.}
 {673}{lyn110a}{Mercenaries? Who hired them?}
 {674}{lyn110b}{Yes, I believe you mentioned that before. Do you know who hired them?}
@@ -683,7 +683,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {691}{}{Maybe this was his way of forcing you into an alliance.}
 {692}{lyn115}{Possibly... but it would never work. I would sooner ask NCR for help. You have done Vault
  City a great service. Please take this as a token of our appreciation.}
-{693}{}{Thanks. I had some other questions...}
+{693}{}{Obrigado. Eu tenho algumas outras questões...}
 {694}{}{If I hear anything more, I'll let you know.}
 {695}{}{My pleasure, First Citizen. Good day.}
 {696}{lyn116}{Of course. They sent mercenaries to murder my people because I wouldn't join their
@@ -717,8 +717,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {720}{lyn121b}{Yes, yes... you have done very well. Please... take this as a reward.}
 {721}{}{No reward?! Finding out all this political bullshit was no easy task. I think I deserve something extra, don't you?!}
 {722}{}{Hold on, I'm not done yet. I had some other questions...}
-{723}{}{All right, I'm leaving.}
-{724}{}{Thanks. I had some other questions...}
+{723}{}{Muito bem, estou saindo.}
+{724}{}{Obrigado. Eu tenho algumas outras questões...}
 {725}{}{Great! Thanks... I better be going now.}
 {726}{}{Thank you, First Citizen.}
 {727}{lyn122}{Roger Westin is probably the only honest man in the New Republic and sympathetic to our cause. }
@@ -730,7 +730,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {733}{}{You can count on me, First Citizen. I'll return after I have delivered the disk to Westin.}
 {734}{lyn124}{Nevertheless, Vault City will prevail. You have performed a valuable service...
  please accept this token of our appreciation.}
-{735}{}{Thanks. I had some other questions...}
+{735}{}{Obrigado. Eu tenho algumas outras questões...}
 {736}{}{Great! Thanks... I better be going now.}
 {737}{}{Thank you, First Citizen.}
 {738}{lyn125}{Have you delivered it?}
@@ -824,7 +824,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {817}{}{This is good news.}
 {818}{}{Muito bem.}
 {819}{}{Bom dia.}
-{820}{}{Good day, Citizen.}
+{820}{}{Bom dia, Citizen.}
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
 {823}{}{Eu não sei nada sobre isso.}

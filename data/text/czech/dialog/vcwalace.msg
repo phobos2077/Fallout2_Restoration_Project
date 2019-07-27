@@ -12,10 +12,10 @@
 {111}{}{Buïte zdráv, poutníku. Vítejte ve Vault City. Mùu vám s nìèím pomoct?}
 {112}{}{Frazz-urb-luuw!}
 {113}{}{Odbelhat se.}
-{114}{}{Kdo jste?}
+{114}{}{Kdo jsi?}
 {115}{}{Co je tohle za místo?}
 {116}{}{Myslím, e je váš asistent Skeev zapleten do nelegální èinnosti.}
-{117}{}{Dnes ne, díky.}
+{117}{}{Dnes nic, díky.}
 {118}{}{No, jak vidím, budu si muset vánì popovídat se stráemi na Pøedmìstí. Dneska pustí do Vault City snad KADÉHO venkovana. }
 {119}{}{Kopr. Kopre? Kopretinááá.}
 {120}{}{Odbelhat se.}
@@ -38,7 +38,7 @@
 {137}{}{Odbelhat se.}
 {138}{}{Chci se vrátit zpátky do mìsta.}
 {139}{}{Chci se zeptat na pár otázek...}
-{140}{}{Zapomeòte na to.}
+{140}{}{Zapomeò na to.}
 {141}{}{Pøestaòte mì otravovat, hlupáku.}
 {142}{}{Já ne HLUPÁK. TY HLUPÁK.}
 {143}{}{Odbelhat se.}
@@ -51,8 +51,8 @@
 {150}{}{Odbelhat se.}
 {151}{}{Podívejte, to bylo jenom jedno velké nedorozumìní.}
 {152}{}{No, prostì ji u nemám. Mùu dostat ještì jednu?}
-{153}{}{Tak na to zapomeòte.}
-{154}{}{Zapomeòte na to.}
+{153}{}{Tak nic.}
+{154}{}{Zapomeò na to.}
 {155}{}{To mùu, ale za kadou další Denní propustku je poplatek $50.}
 {156}{}{Tak dobøe. Tady jsou peníze.}
 {157}{}{Nevadí. Nepotøebuju ji tak nutnì.}
@@ -82,13 +82,13 @@
 {181}{}{No, potøebuju mluvit s První Obèankou.}
 {182}{}{Kdo je První Obèanka?}
 {183}{}{Co e to vlastnì dìláte?}
-{184}{}{Díky za informace. Nashle.}
+{184}{}{Díky za informace. Sbohem.}
 {185}{}{Ale jistì. Kadı si pøeje audienci s První Obèankou. Bohuel má èas jen na záleitosti nejvyššího vıznamu.}
 {186}{}{Obávám se, e vy nevypadáte dost dùleitì pro návštìvu u První Obèanky.}
 {187}{}{Právì proto je ivotnì dùleité, abych s ní mohl mluvit. Buïte si jistı, e se jí nezapomenu zmínit o tom, jak jsou celníci pracovití. Ale jestli mi nemùete pomoc, tak...}
 {188}{}{Informace, kterou jí chci sdìlit, je opravdu velmi dùleitá.}
 {189}{}{Bıt vámi, dal bych si pozor na jazyk. Øíkám, e ji musím vidìt. Hned.}
-{190}{}{Tak na to zapomeòte.}
+{190}{}{No, nevadí.}
 {191}{}{Tak mluvte. Osobnì tu zprávu ihned vyøídím První Obèance.}
 {192}{}{No, já jsem neøekl, e vám nepomohu, já jen e... no... jakı je úèel vaší návštìvy?}
 {193}{}{Eh... mám informaci, která... by mohla pomoct vybudovat sí... eh, všech existujících Vaultù v celé zemi. Pøesnì tak.}
@@ -108,7 +108,7 @@
 {207}{}{NE TY ODEJÍT, nebo já TREFIT TEBE.}
 {208}{}{Odbelhat se.}
 {209}{}{Nikam nepùjdu. Mùete si zkusit mì odsud dostat.}
-{210}{}{Dobrá, dobrá.}
+{210}{}{Dobøe, dobøe.}
 {211}{}{A odkud, smím-li se zeptat, máte to falešné Obèanství? Tato sériová èísla jsou shodná s doklady Obèanství, které byly odcizeny minulı mìsíc.}
 {212}{}{Kdy vám to povím, dáte mi Denní propustku?}
 {213}{}{Byl to váš pomocník, Skeev. Prodal mi je.}
@@ -154,7 +154,6 @@
 {253}{}{Podaøilo se mi pøijít na to, proè se zpomalily zásilky z Reddingu.}
 {254}{}{Podaøilo se mi najít tábor nájezdníkù.}
 {255}{}{Podaøilo se mi najít tábor nájezdníkù a taky všechny vyhladit.}
-{1255}{}{Podaøilo se mi najít tábor nájezdníkù a pøesvìdèit jejich prùvodce, aby jim nepomáhal. Bez nìj nebudou schopni najít cestu.}
 {256}{}{Co mi mùete øíct o vašem vùdci?}
 {257}{}{Dnes nic, díky.}
 {258}{}{Dnes u nic, díky.}
@@ -184,25 +183,25 @@
 {282}{}{Vím, proè jsou náklady z Reddingu zpodìné.}
 {283}{}{Co mi mùete øíct o Denu?}
 {284}{}{Co mi mùete øíct o Broken Hills?}
-{285}{}{Aha. Chci se ještì na nìco zeptat...}
+{285}{}{Aha. Mám ještì jiné otázky...}
 {286}{}{Díky za informace. Sbohem.}
 {287}{}{Opravdu? To je senzaèní zpráva! Jdìte to prosím ihned øíct radnímu McClurovi.}
 {288}{}{Opravdu? To je senzaèní zpráva! Dám vám Denní propustku a mùete si jít promluvit s radním McClurem. Platí pouze pøes den. V noci budete vyzván k opuštìní mìsta. A teï bìte.}
 {289}{}{Ne pùjdu, mùu se ještì na nìco zeptat?}
-{290}{}{Vyøídím mu to.}
+{290}{}{Samozøejmì.}
 {291}{}{Jdu si s ním hned promluvit.}
 {292}{}{Zajímavé, e se o tom zmiòujete. Ceny v poslední dobì hodnì vzrostly... ale není to nic, co bychom si nemohli dovolit. Rozhodnì dostáváme lepší cenu ne Gecko. Ti odporní mrchorouti potøebují uran mnohem víc ne my.}
 {293}{}{Co mi mùete øíct o Denu?}
 {294}{}{Co mi mùete øíct o Reddingu?}
-{295}{}{Aha. Chci se ještì na nìco zeptat...}
+{295}{}{Aha. Mám ještì jiné otázky...}
 {296}{}{Hmmm. Zajímavé. Díky za informace.}
 {297}{}{Naše První Obèanka se jmenuje Joanne Lynette. Za tìch deset let, co je hlavou mìsta, udìlala pro naše mìsto mnoho dobrého.}
-{298}{}{Napøíklad?}
+{298}{}{Jako tøeba?}
 {299}{}{Díky ní je naše mìsto èisté a neposkvrnìné od okolního svìta. Udruje naše mìsto silné dokonce i pøes nátlak NCR pøipojit se k jejich republice a pøes útoky nájezdníkù. Teï navíc ty problémy s Geckem...}
 {300}{}{Co je to NCR?}
 {301}{}{Kdo jsou ti nájezdníci?}
 {302}{}{Jaké máte problémy s Geckem?}
-{303}{}{Mùu se zeptat na nìco jiného?}
+{303}{}{Mùu se vás ještì na nìco zeptat?}
 {304}{}{To je mi líto. Moná si to poslechnu nìkdy jindy.}
 {305}{}{NCR je "New California Republic." Tvrdí, e se pokouší sjednotit celou Kalifornii pod jedinou vládu, ale my jsme tu jejich ubohou lest prohlédli.}
 {306}{}{"Lest?" To je nìjaká zbraò, kterou NCR vl...?}
@@ -210,18 +209,17 @@
 {308}{}{I kdyby to mysleli vánì, proè bychom se mìli dìlit o naše zdroje s hrdloøezy a zlodìji, kteøí ijí venku za tìmito zdmi? Myslím e *ne.*}
 {309}{}{Aha. Co jste to pøedtím øíkal o tìch nájezdnících?}
 {310}{}{Jaké problémy má Vault City s Geckem?}
-{311}{}{Mùu se ještì na nìco zeptat?}
+{311}{}{Mùu se vás ještì na nìco zeptat?}
 {312}{}{To je trochu víc, ne jsem chtìl vìdìt. Sbohem.}
 {313}{}{Nedávno jsme zaili obzvláštì brutální útok nájezdníkù. Byli jsme pod tlakem tak jako nikdy pøedtím. Bojím se, e ti nájezdníci èasem prolomí naši obranu z laserovıch vìí.}
 {314}{}{U se tìch nájezdníkù nemusíte bát. Podaøilo se mi je vyhladit.}
-{1314}{}{U se tìch nájezdníkù nemusíte bát. Podaøilo se mi pøesvìdèit jejich prùvodce, aby je opustil a bez jeho pomoci nebudou nikdy schopni najít cestu pøes hory.}
 {315}{}{Mùete mi øíct o tìch nájezdnících ještì nìco?}
 {316}{}{Eh, to je mi líto. Co jste to øíkal o tom NCR?}
 {317}{}{Jaké problémy má Vault City s Geckem?}
 {318}{}{To zní jako opravdovı problém. Pøeju hodnì štìstí.}
 {319}{}{Ani ne. Nedaøí se nám najít jejich útoèištì. Moná, e náš Obèan serant Stark ví víc, ale je zrovna v Nápravném centru uvnitø mìsta.}
 {320}{}{Jestli vypátrám sídlo nájezdníkù, pustíte mì do mìsta?}
-{321}{}{Mám ještì nìjaké otázky...}
+{321}{}{Chci se ještì zeptat...}
 {322}{}{Uvidím, co se mi podaøí zjistit o tìch nájezdnících.}
 {323}{}{Díky za informace.}
 {324}{}{Samozøejmì. Jestli najdete základnu nájezdníkù, dám vám Denní propustku.}
@@ -264,3 +262,5 @@
 {361}{}{Vıbornì. Tady máte... a ještì jednou, platí pouze bìhem dne. V noci budete vyzván k opuštìní mìsta. Obèané mají navíc právo kdykoliv zrušit vaši Denní propustku, take se chovejte slušnì.}
 {362}{}{Rozumím. Mùu se ještì na nìco zeptat?}
 {363}{}{Díky.}
+{1255}{}{Podaøilo se mi najít tábor nájezdníkù a pøesvìdèit jejich prùvodce, aby jim nepomáhal. Bez nìj nebudou schopni najít cestu.}
+{1314}{}{U se tìch nájezdníkù nemusíte bát. Podaøilo se mi pøesvìdèit jejich prùvodce, aby je opustil a bez jeho pomoci nebudou nikdy schopni najít cestu pøes hory.}

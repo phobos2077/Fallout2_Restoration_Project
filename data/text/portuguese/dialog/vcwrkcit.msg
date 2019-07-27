@@ -1,70 +1,70 @@
-{100}{}{You see a Citizen in a bright blue jumpsuit. It looks like the Vault Dweller's suit, but there
- is no number on the back.}
-{101}{}{You see a Vault City Citizen.}
-{102}{}{You see a Citizen in a bright blue jumpsuit. It looks like the Vault Dweller's suit, but there
- is no number on the back.}
-{103}{}{::claps::}
-{104}{}{It's the hero! Look!}
-{105}{}{My word! It's the hero, here, in Vault City!}
-{106}{}{Good day, Captain.}
-{107}{}{Vault City prevails, Captain.}
-{108}{}{Good day, Citizen.}
+{100}{}{Você vê uma Citizen em um macacão azul-claro parecido com a roupa do Vault Dweller, mas
+ não há nenhum número nas costas.}
+{101}{}{Você vê um Cidadão de Vault City.}
+{102}{}{Você vê uma Citizen em um macacão azul-claro parecido com a roupa do Vault Dweller, mas
+ não há nenhum número nas costas.}
+{103}{}{::palmas::}
+{104}{}{É o herói! Olhem!}
+{105}{}{Puxa! é o herói, aqui, em Vault City!}
+{106}{}{Bom dia, Capitão.}
+{107}{}{Vault City prevails, Capitão.}
+{108}{}{Bom dia, Citizen.}
 {109}{}{Vault City prevails, Citizen.}
-{110}{}{A mutant! Guards! Guards!}
-{111}{}{A ghoul! Guards! Guards!}
-{112}{}{How did you get inside the walls?}
-{113}{}{Excuse me, do you have a Day Pass? }
-{114}{}{Hmmmph. Another Outsider.}
-{115}{}{Seems like more and more Outsiders are finding their way inside the walls...}
-{116}{}{I certainly hope you have a Day Pass.}
-{117}{}{Seems like they're issuing Day Passes to just about *any* Outsider lately...}
-{118}{}{I have heard of your brave deeds. You have done a great service for Vault City... and the world.}
-{119}{}{Your battle against the Enclave impressed even the First Citizen.}
-{120}{}{I heard you traveled as far south as San... Fran... Cisco. Is that true?}
-{121}{}{Maybe Vault City *should* welcome Outsiders. }
-{122}{}{Was it true? Was the old world government still waging the war?}
-{123}{}{You should catalog your travels in the Vault City computer so others may read about them.}
-{124}{}{You are welcome to stay as long as you wish, hero.}
-{125}{}{You should catalog your heroic exploits against the Enclave into a nice, tidy list.}
+{110}{}{Um mutante! Guardas! Guardas!}
+{111}{}{Um ghoul! Guardas! Guardas!}
+{112}{}{Como você conseguiu entrar na cidade?}
+{113}{}{Com licença, você tem a Autorização do Dia? }
+{114}{}{Hmmmph. Outro Forasteiro.}
+{115}{}{Parece que mais e mais Forasteiros estão dando um jeito de entrar na cidade...}
+{116}{}{Eu realmente espero que você tenha a Autorização do Dia.}
+{117}{}{Parece que eles estão dando a Autorização do Dia para *qualquer* Forasteiro ultimamente...}
+{118}{}{Eu tenho escutado sobre seus feitos heróicos. Você fez um grande serviço para Vault City...e para o mundo.}
+{119}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
+{120}{}{Eu ouvi dizer que você viajou para além de San...Fran...Cisco. É verdade?}
+{121}{}{Talvez Vault City *deva* receber Forasteiros. }
+{122}{}{É verdade? O antigo governo ainda está promovendo a guerra?}
+{123}{}{Você devia registrar suas viagens no computador de Vault City assim os outros podem ler sobre elas.}
+{124}{}{Você é bem vindo para ficar o quanto você quiser, herói.}
+{125}{}{Você deveria registrar seus feitos heróicos contra a Enclave em uma bela, bela lista.}
 {126}{}{*Yawn*... hrmnnn? Yes? What is it?}
-{127}{}{It's a little late for visitors. }
-{128}{}{MOST Citizens would be asleep at this hour.}
-{129}{}{Sleeping? No, not anymore.}
-{130}{}{Please... come back in the morning. I have a long day of making lists tomorrow.}
-{131}{}{Good day, Captain.}
-{132}{}{Vault City prevails, Captain.}
-{133}{}{Can I get you a donut, Captain?}
-{134}{}{Anything wrong, Captain?}
-{135}{}{I hope none of those filthy Outsiders are giving you trouble, Captain.}
-{136}{}{Do you have any stories about the outside world, Captain?}
-{137}{}{Good day, Citizen.}
+{127}{}{Está um pouco tarde para visitantes. }
+{128}{}{A MAIORIA dos Cidadãos estarão dormindo a esta hora.}
+{129}{}{Dormindo? Não, não mais.}
+{130}{}{Por favor... volte pela manhã. Eu tenho um longo dia fazendo listas amanhã.}
+{131}{}{Bom dia, Capitão.}
+{132}{}{Vault City prevails, Capitão.}
+{133}{}{Posso te pegar uma rosquinha, Capitão?}
+{134}{}{Algo errado, Capitão?}
+{135}{}{Eu espero que nenhum desses Forasteiros imundos estejam te causando problemas, Capitão.}
+{136}{}{Você tem alguma história sobre o mundo lá fora, Capitão?}
+{137}{}{Bom dia, Citizen.}
 {138}{}{Vault City prevails, Citizen.}
-{139}{}{I'm feeling double-plus good. You?}
-{140}{}{As a Citizen, it is part of our civic duty to make and maintain lists.}
-{141}{}{I spent most of the day making that list for the Proconsul, then checking it. I love making
- lists.}
-{142}{}{I work in the List Office. Most of us do. We here at Vault City *love* making lists.}
-{143}{}{I spent most of the day today updating that list for the List Office. It was good, honest,
- productive work.}
-{144}{}{I heard you actually traveled the outside world. How did you survive among those filthy
- Outsiders?}
-{145}{}{Oh! You're the new Citizen. Welcome to Vault City.}
-{146}{}{Do you need a place to stay while you're in town?}
-{147}{}{The Council has our interests at heart.}
-{148}{}{We must take care to keep our beautiful city clean.}
-{149}{}{The servants? Oh, we use them for menial tasks.}
-{150}{}{That Council meeting yesterday was very productive. We made *lots* of lists. We here at Vault
- City love to make lists.}
+{139}{}{Estou me sentindo mais que bem. E você?}
+{140}{}{Como Cidadão, faz parte do nosso dever cívico fazer e manter listas.}
+{141}{}{Eu gasto a maior parte do meu dia fazendo essa lista para o Proconsul, e depois verificá-la. Eu adoro fazer
+ listas.}
+{142}{}{Eu trabalho no Escritório de Listas. A maioria de nós trabalha. Aqui em Vault City nós *amamos* fazer listas.}
+{143}{}{Eu gasto a maior parte do meu dia atualizando essa lista para o Escritório de Listas. É um trabalho bom, honesto,
+ e produtivo.}
+{144}{}{Eu ouvi dizer que você viajou pelo mundo lá fora. Como você sobreviveu a estes Forasteiros
+ imundos?}
+{145}{}{Oh! Você é o novo Cidadão. Bem vindo a Vault City.}
+{146}{}{Você precisa de um lugar para ficar enquanto está na cidade?}
+{147}{}{O Coselho tem nossos interesses no coração.}
+{148}{}{Nós devemos cuidar para manter nossa linda cidade limpa.}
+{149}{}{Os servos? Oh, nós os usamos para tarefas domésticas.}
+{150}{}{A reunião do Conselho ontem foi muito produtiva. Nós fizemos *toneladas* de listas. Aqui em Vault
+ City nós amamos fazer listas.}
 {151}{}{Sim?}
 {152}{}{Something I can help you with... Outsider?}
-{153}{}{I'm sorry, did you say something?}
-{154}{}{Me? I'm going about my business. Perhaps you should, too.}
-{155}{}{Can I see your Day Pass, please?}
-{156}{}{Oh... sorry. I almost mistook you for a servant.}
-{157}{}{I really don't have time to chat with an Outsider right now. Please move along.}
-{158}{}{Could you keep your distance, please?}
-{159}{}{Please stand over there.}
-{160}{}{The servants free up our time for more important matters. Mostly list-making.}
-{161}{}{The servants? Oh, we use them for menial tasks.}
-{162}{}{Yes, I can smell... er, see, that you're an Outsider.}
-{163}{}{You're an Outsider? How quaint.}
+{153}{}{Me desculpe, você disse alguma coisa?}
+{154}{}{Eu? Estou cuidando da minha vida. Talvez você deveria fazer isso também.}
+{155}{}{Posso ver a sua Autorização do Dia, por favor?}
+{156}{}{Oh... desculpe. Eu quase te confundi com um servo.}
+{157}{}{Eu realmente não tenho tempo para conversar com um Forasteiro. Por favor, saia.}
+{158}{}{Você pode se afastar, por favor?}
+{159}{}{Por favor espere ali.}
+{160}{}{Os servos nos faz ganhar tempo para fazer coisas mais importantes. Como fazer listas na maioria das vezes.}
+{161}{}{Os servos? Oh, nós os usamos para tarefas domésticas.}
+{162}{}{Sim, eu posso cheirar... er, ver, que você é um Forasteiro.}
+{163}{}{Você é um forasteiro? Que típico.}

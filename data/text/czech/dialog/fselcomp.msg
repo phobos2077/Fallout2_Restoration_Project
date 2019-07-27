@@ -31,26 +31,18 @@
 {130}{}{Zakázaná operace. Obrate se na správce systému. Odhlašuji uivatele. Sbohem.}
 {131}{}{[KONEC]}
 {132}{}{Vypadá to, e pro tohle tam není rozhraní.}
-
 {133}{}{ESS Quetzel natankován a pøipraven ke startu.}
 {134}{}{ESS Quetzel je bez paliva.}
 {135}{}{Hlavní poèítaè funguje. Vedení funguje. Vızkumné stanice fungují. Opravárenské centrum funguje. Kamery fungují.}
 {136}{}{Zpìt.}
 {137}{}{Odhlásit se.}
-
-#killap - expansion
 {200}{}{(Vypadá to, e je Hubologistická církev velmi zámoná. Standardním postupem je poádat nového rekruta, aby daroval všechen svùj svìtskı majetek církvi na dùkaz své dobré víry. Kdy o to není nìkdo poádán, tak to údajnì znamená, e s ním Hubologisté nemají v úmyslu jednat na rovinu. Nìkde v poušti mají ukrytou obrovskou skrıš. Po chvíli hackování a matematickıch kalkulací se ti podaøilo urèit souøadnice skrıše. Vyznaèuješ si ji do svého Pip-Boye.)}
- 
 {201}{}{(Vypadá to, e je Hubologistická církev velmi zámoná. Standardním postupem je poádat nového rekruta, aby daroval všechen svùj svìtskı majetek církvi na dùkaz své dobré víry. Kdy o to není nìkdo poádán, tak to údajnì znamená, e s ním Hubologisté nemají v úmyslu jednat na rovinu. Nìkde v poušti mají ukrytou obrovskou skrıš. Její souøadnice u máš vyznaèené.)}
- 
 {210}{}{[Hacknout se do systému]}
 {211}{}{(Po chvíli se ti podaøilo získat plnı administrátorskı pøístup k hlavnímu poèítaèi. Teï si mùeš se systémem dìlat co chceš.)}
 {212}{}{Zformátovat systém.}
 {213}{}{Spouštím formátovací procedùru... spuštìna... formátování... formátování dokonèeno... systém se vypíná. Sbohem.}
-
 {220}{}{Hlavní poèítaè Hubologistù byl zformátován.}
-
-
-{250}{}{Pøesmìrovat palivo do tankeru Poseidon.}
-{251}{}{Palivo pøesmìrováno dle poadavku. Skladovací nádre = prázdné. Ukonèuji program.}
+{250}{}{Pøevést palivo do tankeru Poseidon.}
+{251}{}{Palivo pøevedeno dle poadavku. Skladovací nádre = Prázdné. Ukonèuji program.}
 {252}{}{[KONEC]}

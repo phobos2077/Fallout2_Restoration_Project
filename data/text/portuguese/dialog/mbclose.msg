@@ -1,1 +1,1 @@
-{100}{}{You enter an area with numerous abandoned tents. You hear howling on the wind.}
+{100}{}{Você entrou em uma zona com numerosas tendas abandonadas. Pode ouvir os uivos no vento.}

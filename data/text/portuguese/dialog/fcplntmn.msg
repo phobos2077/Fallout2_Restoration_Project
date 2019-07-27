@@ -7,13 +7,13 @@
 {300}{}{[A half-dozen strange humanoid creatures slowly shamble toward you. Their cadaverous vine and moss-covered bodies make repulsive squelching sounds with each awkward step. The lead creature addresses you in a harsh rasp.] Master wants to speak with you. Come with us, human, and do not resist ... or we'll make a host of you.}
 {301}{}{[Shrug] This should be interesting. Lead the way.}
 {302}{}{I'm not going anywhere with you, plant ... creature ... things.}
-{303}{}{I don't have time for this shit.}
+{303}{}{Eu não tenho tempo pra essa merda.}
 {304}{}{Hold on. Who's your master? And what, exactly, are you?}
 {310}{}{You have no choice, human. Either come and speak to Master, or we shall resort to violence.}
 {311}{}{Then let's dance.}
 {312}{}{All right. I'll meet this master of yours.}
 {320}{}{Master will answer all questions. Now, come.}
-{321}{}{I don't think so.}
+{321}{}{Acho que não.}
 {322}{}{All right. I'll meet this master of yours.}
 {400}{}{Uuuhhhhh...}
 {401}{}{Grrraaah!}

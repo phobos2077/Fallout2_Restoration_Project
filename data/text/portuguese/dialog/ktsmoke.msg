@@ -1,1 +1,1 @@
-{100}{}{This room smells strongly of woodsmoke.}
+{100}{}{Este quarto esta com um cheiro muito forte de madeira queimada.}

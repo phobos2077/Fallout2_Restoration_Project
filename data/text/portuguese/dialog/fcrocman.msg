@@ -3,7 +3,7 @@
 {102}{}{You see a harried-looking bald man.}
 {103}{}{Aiee! Enemies of enlightenment! Help! Guards!}
 {107}{}{Hey! Raw meat! Who are you? What are you doing here?}
-{108}{}{Duh?}
+{108}{}{Quê?}
 {109}{}{I have a letter for AHS-9. Where do I take it?}
 {110}{}{Eu sou}
 {111}{}{Não é da sua conta.}
@@ -37,7 +37,7 @@
 {170}{}{I am in need of help, child. Can you help me?}
 {171}{}{I am still in need of help, child. Can you help me?}
 {172}{}{Quem é você?}
-{173}{}{What are you doing here?}
+{173}{}{O que faz aqui?}
 {174}{}{I got a copy of the plans from the Shi.}
 {175}{}{I have the plans for the vertibird.}
 {176}{}{The Shi have the plans for the vertibird.}

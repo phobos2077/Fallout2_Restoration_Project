@@ -13,7 +13,7 @@
 {112}{}{You'd think that even someone like you would know better than that.}
 {113}{}{And I was just starting to get bored too.}
 {114}{}{Yeah! Party's on!}
-{115}{}{Let's dance.}
+{115}{}{Vamos dançar.}
 {116}{}{Ready to rumble?}
 {117}{}{Oh yeah, bring it on, badman.}
 {118}{}{I wanna see what your insides look like.}

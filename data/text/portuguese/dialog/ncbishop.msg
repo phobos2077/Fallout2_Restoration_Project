@@ -17,7 +17,7 @@
 {221}{}{Eu}
 {222}{}{.}
 {223}{}{Me Whoo?}
-{224}{}{Wander off}
+{224}{}{Cai fora}
 {225}{}{I am a warrior on a holy quest to retrieve the Garden of Eden Creation Kit. Do you know where I might find it?}
 {226}{}{I'm looking for a Garden of Eden Creation Kit. Can you help me?}
 {227}{}{I'm looking for a place called Vault 13. Have you heard of it?}

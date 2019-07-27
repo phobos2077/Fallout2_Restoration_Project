@@ -11,7 +11,7 @@
 {109}{}{(Nedokážeš pøeèíst text na obrazovce.)}
 {110}{}{Konec programu.}
 {111}{}{Konec.}
-{112}{}{Eh.}
+{112}{}{Eh...}
 {113}{}{Prosím èekejte...
                                                       Robot - OK
                                   Bio-Med gel nádrže - Plné
@@ -73,8 +73,8 @@
 {170}{}{                                              Synchronizace - 50%}
 {174}{}{                                              Synchronizace - 10%}
 {176}{}{Konec.}
-{200}{}{ nedokáže pøeèíst text na obrazovce.}
-{300}{}{Poèítaè má pravdìpodobnì nìjaký obranný mechanismus.}
+{200}{}{ nedokáže pøeèíst text na monitoru.}
+{300}{}{Vypadá to, že je v poèítaèi nìjaký obranný mechanismus.}
 {500}{}{Inicializace startovací sekvence:
                                    Výkon - nominální
                                           Program pøerušen

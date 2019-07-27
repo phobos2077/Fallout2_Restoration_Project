@@ -1,14 +1,14 @@
-{100}{}{You see a guard dog.}
-{101}{}{You see a wild dog.}
-{120}{}{You see a guard dog.}
-{121}{}{You see a wild dog.}
+{100}{}{Você vê um cão de guarda.}
+{101}{}{Você vê um cão selvagem.}
+{120}{}{Você vê um cão de guarda.}
+{121}{}{Você vê um cão selvagem.}
 {200}{}{:: GROWL ::}
 {201}{}{:: SNARL ::}
 {202}{}{:: ROOF ::}
 {205}{}{Woof}
 {206}{}{Woof woof}
-{210}{}{The dogs seem to be trained to protect what's inside the shed.}
-{211}{}{Doggy no like me.}
-{212}{}{Good doggy!}
-{250}{}{This dog looks like it could really tear you up if it needed to.}
-{300}{}{You killed all the dogs attacking the brahmin.}
+{210}{}{Os cães parecem ser treinados para proteger o que esta dentro do galpão.}
+{211}{}{Doggy não gosta de mim.}
+{212}{}{Bom cãozinho!}
+{250}{}{Este cão parece que poderia realmente rasgar-te se ele precisasse.}
+{300}{}{Você matou todos os cães que atacam os brahmin.}

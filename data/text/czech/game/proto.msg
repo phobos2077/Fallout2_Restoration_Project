@@ -1,13 +1,4 @@
-#
-# Messages for Prototypes
-#
-# strings
-#
 {10}{}{<Nic>}
-
-#
-# Material Types
-#
 {100}{}{Sklo}
 {101}{}{Kov}
 {102}{}{Plast}
@@ -16,10 +7,6 @@
 {105}{}{Kámen}
 {106}{}{Cement}
 {107}{}{Kùe}
-
-#
-# Item Types
-#
 {150}{}{Zbroj}
 {151}{}{Kontejner}
 {152}{}{Droga}
@@ -27,20 +14,12 @@
 {154}{}{Støelivo}
 {155}{}{Rùzné}
 {156}{}{Klíè}
-
-#
-# Scenery Types
-#
 {200}{}{Portál}
 {201}{}{Schody}
 {202}{}{Vıtah}
 {203}{}{Vrch ebøíku}
 {204}{}{Spodek ebøíku}
 {205}{}{Obecná scenérie}
-
-#
-# Damage Code Types
-#
 {250}{}{normální}
 {251}{}{laser}
 {252}{}{oheò}
@@ -48,11 +27,7 @@
 {254}{}{elektøina}
 {255}{}{EMP}
 {256}{}{exploze}
-
-#
-# Caliber Types for weapons
-#
-{300}{}{-}
+{300}{}{ádné}
 {301}{}{Raketa}
 {302}{}{Náplò do plamenometu}
 {303}{}{Malı energetickı èlánek}
@@ -71,29 +46,17 @@
 {316}{}{4.7mm beznábojnicová}
 {317}{}{HN jehlová munice}
 {318}{}{7.62mm}
-
-#
-# Race Types
-#
 {350}{}{Bìloch}
 {351}{}{Èernoch}
-
-#
-# Body Types
-#
 {400}{}{Dvounohı}
 {401}{}{Ètyønohı}
 {402}{}{Robotickı}
-#
-# Kill Types names
-#
-# Note: These were moved to 1450+ to handle new ones!
 {450}{}{Mui}
 {451}{}{eny}
 {452}{}{Dìti}
-{453}{}{Supermutanti}
+{453}{}{Super mutants}
 {454}{}{Ghoulové}
-{455}{}{Brahmíny}
+{455}{}{Brahmína}
 {456}{}{Radškorpioni}
 {457}{}{Krysy}
 {458}{}{Floateøi}
@@ -102,61 +65,37 @@
 {461}{}{Psi}
 {462}{}{Mantisové}
 {463}{}{Páraèi}
-{464}{}{Rostliny}
-#{465}{}{}
-#
-# Kill type info descriptions
-#
-{465}{}{Tato øádka ukazuje, kolik muù jsi zabil bìhem svého putování.}
-{466}{}{Tato øádka ukazuje, kolik en jsi zabil bìhem svého putování.}
-{467}{}{Tato øádka ukazuje poèet dìtí, které jsi, ty zbabìlej hajzlíku, zabil bìhem svého putování.}
+{464}{}{Rostlina}
+{465}{}{Tato øádka ukazuje, kolik muù jsi bìhem své cesty zabil.}
+{466}{}{Tato øádka ukazuje, kolik en jsi bìhem svého putování zabil.}
+{467}{}{Ten, kdo tenhle øádek vidí, by se nad sebou mìl vánì zamyslet. Jestli tì opravdu baví støílet do dìtí (i kdy jen na obrazovce poèítaèe), nebudeš asi docela v poøádku.}
 {468}{}{Poèet supermutantù, které jsi bìhem svého dobrodruství odstranil ze svìta.}
-{469}{}{Tato øádka ukazuje poèet ghoulù, muù a en, které jsi zabil bìhem tvého putování.}
-{470}{}{Tato øádka ukazuje, kolik brahmín (zmutovanıch krav) jsi bìhem svého putování rozsekal do guláše.}
-{471}{}{Poèet zmutovanıch radškorpionù, které jsi bìhem svého putování odeslal na onen svìt.}
+{469}{}{Tato øádka ukazuje poèet ghoulù, muù a en, které jsi zabil bìhem svého putování.}
+{470}{}{Tato øádka ukazuje, kolik brahmín (zmutovanıch krav) jsi v prùbìhu hry nasekal do guláše.}
+{471}{}{Poèet rùznì zmutovanıch radškorpionù, které jsi bìhem svého putování odeslal na onen svìt.}
 {472}{}{Poèet zabitıch krys, na kterıch jsi provedl mechanickou deratizaci. Vèetnì všech genetickıch pøíbuznıch tohoto hlodavce.}
 {473}{}{Poèet floaterù, které jsi rozsekal na cucky.}
 {474}{}{Tvoje záøezy za mrtvé kentaury.}
 {475}{}{Poèet robotù, které jsi definitivnì poslal do køemíkového nebe.}
 {476}{}{Celkovı poèet psù expresnì odeslanıch do velkého psince v nebi.}
-{477}{}{Tato øádka ukazuje celkovı poèet zabitıch mantisù nebo jiného, stejnì hnusného hmyzu, na kterém jsi provedl dezinsekci.}
-{478}{}{Tato øádka ti ukazuje, kolik jsi zlikvidoval páraèù. Poèítáno vèetnì všech jejich odrùd.}
+{477}{}{Tato øádka ukazuje celkovı poèet mantisù nebo jim podobného, stejnì hnusného hmyzu, na kterém jsi provedl dùkladnou dezinsekci.}
+{478}{}{Tato øádka ti napoví, kolik jsi zlikvidoval páraèù, vèetnì všech jejich genetickıch pøíbuznıch.}
 {479}{}{Poèet kytek, které díky tobì u nikdy nezavoní.}
-
-#
-# Use text
-#
 {480}{}{%s.}
-
-#
-# Use Container text
-#
 {485}{}{Prohledáváš: %s.}
 {486}{}{Zavíráš: %s.}
-{487}{}{Zamèeno.} # new
-
-#
-# Look text
-#
+{487}{}{Zamèeno.}
 {490}{}{%s.}
 {491}{}{Vidíš mrtvé tìlo. Je to %s.}
 {492}{}{Vidíš nìjaké pozùstatky. Je to %s.}
 {493}{}{Nic zvláštního nevidíš.}
-
-#
-# Examine text
-#
 {500}{}{po smrti}
 {501}{}{na umøení}
 {502}{}{prabídnì}
 {503}{}{zranìnì}
 {504}{}{v poøádku}
-
-#
-# Examine text messages
-#
 {510}{}{Modifikátor TZ: %d}
-{511}{}{Modifikátor OVP: %d}
+{511}{}{DT Mod: %d}
 {512}{}{Mod. poškození: %d/%d}
 {518}{}{Vypadáš: %s }
 {519}{}{%s %s }
@@ -165,15 +104,12 @@
 {522}{}{Vypadá: %s }
 {523}{}{Vypadá: %s }
 {524}{}{Vypadá: %s }
-# (note: hps are short for hit-points)
 {525}{}{%s má %d/%d hit bodù.}
-# (note: this is for guns that have ammo)
 {526}{}{Zásobník: %d/%d ran. Munice: %s.}
-{530}{}{a má zmrzaèené konèetiny.}  # These append to lines 500-504
+{530}{}{a má zmrzaèené konèetiny.}
 {531}{}{ale má zmrzaèené konèetiny.}
 {532}{}{a má zmrzaèené konèetiny.}
 {533}{}{ale má zmrzaèené konèetiny.}
-# (note: hps are short for hit-points)
 {535}{}{Má %d/%d hit bodù}
 {536}{}{Má %d/%d hit bodù}
 {537}{}{Má %d/%d hit bodù}
@@ -185,22 +121,14 @@
 {547}{}{ a drí zbraò: %s s %d/%d náboji %s.}
 {548}{}{Vypadá to, e je auto momentálnì nefunkèní.}
 {549}{}{Energetickı zásobník auta ukazuje %d%%.}
-
-#
-# Examine text error messages
-#
 {550}{}{\nError: lookup_val out of range!}
 {551}{}{\nError: obj_examine: proto_ptr failed!}
-
-#
-# Use text messages
-#
 {580}{}{Pouíváš pøedmìt: %s.}
 {581}{}{Pouíváš pøedmìt: %s na objekt: %s.}
 {582}{}{Nic to nedìlá.}
 {583}{}{Ke svému zdìšení zjišuješ, e u se díváš jen na mrtvolu.}
 {584}{}{Kdy se sehneš, zjistíš, e u se díváš jen na mrtvolu.}
-{585}{}{Bohuel, pøíliš pozdì...} # This is relating to a critter being dead.
+{585}{}{Bohuel, pøíliš pozdì...}
 {586}{}{Na mrtvole ti to fungovat nebude.}
 {587}{}{Zapaluješ svìtlici.}
 {588}{}{Svìtlice je u zapálená.}
@@ -209,47 +137,32 @@
 {595}{}{Doplòuješ do auta energii.}
 {596}{}{Zásobník auta je u plnı.}
 {597}{}{Vchod je zablokován.}
-
-#
-# Experience-Point messages
-#
 {620}{}{Získáváš %d zkušenostních bodù za zabití nepøítele: %s.}
-{621}{}{%s získáváš %d zkušenostních bodù.}
-{622}{}{Za poraení nepøátel}  # 622-626 prepend to line 621
+{621}{}{%s you earn %d experience points.}
+{622}{}{Za poraení nepøátel}
 {623}{}{Za likvidaci svıch protivníkù}
-{624}{}{Za vítìzství v boji}
+{624}{}{You are victorious in combat,}
 {625}{}{Za rozdrcení svıch nepøátel}
 {626}{}{Za znièení svıch nepøátel bez jediného utrpìného škrábnutí}
-
-#
-# Dialog messages
-#
-{650}{}{[HOTOVO]}
-{651}{}{[VÍCE]}
+{650}{}{[KONEC]}
+{651}{}{[More]}
 {652}{}{Více}
-{653}{}{[ZPÌT]}
-{654}{}{Zpìt}     # changed number from 653
-{655}{}{Pokraèuj}    # new
-{656}{}{Eh...}   # new
+{653}{}{[Back]}
+{654}{}{Zpìt.}
+{655}{}{Jdi na to}
+{656}{}{Eh...}
 {660}{}{Nic nevidíš.}
 {661}{}{Pøíliš daleko.}
-{670}{}{Dobøe.}    # F2: Used in PM: CombatAI settings
-{671}{}{Jistì.}    # F2: Used in PM: CombatAI settings
-{672}{}{Jak si pøeješ.}       # F2: Used in PM: CombatAI settings
-{673}{}{Jak myslíš.}  # F2: Used in PM: CombatAI settings
-{674}{}{Zkusím to.}          # F2: Used in PM: CombatAI settings
-{675}{}{To nedokáu.}   # F2: Used in PM: CombatAI settings
-{676}{}{Myslím, e tohle nedokáu.}   # F2: Used in PM: CombatAI settings
-{677}{}{Òaf!}   # F2: Used in PM: CombatAI settings -- RoboDog
-{678}{}{Haf!}  # F2: Used in PM: CombatAI settings -- RoboDog
-
-#
-# Not Enough AP message
-#
+{670}{}{Dobøe.}
+{671}{}{Jasnì.}
+{672}{}{Jak si pøeješ.}
+{673}{}{Jak myslíš.}
+{674}{}{Zkusím to.}
+{675}{}{Ne, to nemùu udìlat.}
+{676}{}{Myslím, e tohle nedokáu.}
+{677}{}{Òaf}
+{678}{}{Haf!}
 {700}{}{Nemáš dostatek akèních bodù.}
-#
-# Book messages
-#
 {800}{}{Pøeèetl sis celou knihu.}
 {801}{}{Nic nového ses nenauèil.}
 {802}{}{Získal jsi nové vìdecké poznatky.}
@@ -257,9 +170,6 @@
 {804}{}{Nauèil ses, jak lépe léèit zranìní.}
 {805}{}{Nauèil ses lépe zacházet se zbranìmi.}
 {806}{}{Nauèil ses, jak lépe pøeít v pustinì.}
-#
-# Use on messages (and some extra stuff that Jesse needed)
-#
 {900}{}{Zásoby z doktorského kuføíku u došly.}
 {901}{}{Zásoby ze soupravy první pomoci u došly.}
 {902}{}{V prùbìhu boje tohle udìlat nemùeš.}
@@ -269,17 +179,12 @@
 {910}{}{Zásoby ze záchranáøské brašny u došly.}
 {911}{}{Zásoby z polní lékaøské soupravy u došly.}
 {913}{}{Tenhle tvor nemùe nic nosit.}
-
-
-#
-# Kill Types names
-#
 {1450}{}{Mui}
 {1451}{}{eny}
 {1452}{}{Dìti}
 {1453}{}{Supermutanti}
 {1454}{}{Ghoulové}
-{1455}{}{Brahmíny}
+{1455}{}{Brahmína}
 {1456}{}{Radškorpioni}
 {1457}{}{Krysy}
 {1458}{}{Floateøi}
@@ -293,9 +198,6 @@
 {1466}{}{Alieni}
 {1467}{}{Obøí mravenci}
 {1468}{}{HZH - Hlavní Zápornı Hrdina}
-#
-# Kill type info descriptions
-#
 {1469}{}{Tato øádka ukazuje, kolik muù jsi bìhem své cesty zabil.}
 {1470}{}{Tato øádka ukazuje, kolik en jsi bìhem svého putování zabil.}
 {1471}{}{Ten, kdo tenhle øádek vidí, by se nad sebou mìl vánì zamyslet. Jestli tì opravdu baví støílet do dìtí (i kdy jen na obrazovce poèítaèe), nebudeš asi docela v poøádku.}

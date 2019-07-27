@@ -7,7 +7,7 @@
 {113}{}{Booze, Wooz.}
 {114}{}{O que você faz aqui?}
 {115}{}{Conte-me sobre este lugar.}
-{116}{}{Have you ever heard of something called a Garden of Eden Creation Kit?}
+{116}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {117}{}{I don't want anything from you. Goodbye.}
 {120}{}{I just told you that every Vault has one. Does this look like a Vault to you? Are you dumb? Why
  are you looking for a GECK here? Try a Vault. }
@@ -24,7 +24,7 @@
 {143}{}{I want to trade.}
 {144}{}{Tell stories?}
 {145}{}{Play Tragic?}
-{146}{}{I guess I don't need anything right now. Goodbye.}
+{146}{}{Acho que não preciso de nada agora. Tchau.}
 {150}{}{Trade? I'm always ready to trade Tragic cards. I've got a couple of old Vox Mubies, a Black
  Dahlia, and some Rare Earths.}
 {151}{}{I suppose you just want to trade stuff, huh?}

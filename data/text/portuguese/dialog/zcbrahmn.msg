@@ -1,12 +1,12 @@
 {100}{}{Você vê um brahmin doméstico regular.}
-{101}{}{The reason for brahmin having two heads is due to
- early exposure of radation to what used to be called a
- cow.}
-{102}{}{You don't notice anything unusual about the brahmin.}
+{101}{}{A razão para o brahmin ter duas cabeças é devido
+ exposição precoce de radiação para o que costumava ser chamado 
+ de vaca.}
+{102}{}{Você não percebe nada de estranho no brahmin.}
 {103}{}{Brahmin não é muito para conversas.}
-{104}{}{Have you nothing better to do than sit around talking
- to a two headed cow?}
-{105}{}{It's a brahmin. It has two heads.}
+{104}{}{Não tem nada melhor para fazer do que ficar falando com
+ uma vaca de duas cabeças?}
+{105}{}{É um brahmin. Com duas cabeças.}
 {201}{}{Mooo...}
 {202}{}{Mooo Mooo Mooo...}
 {203}{}{Mooo...}

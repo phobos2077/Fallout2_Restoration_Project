@@ -84,7 +84,7 @@
 {213}{}{}
 {214}{}{}
 {215}{}{Ponte}
-{216}{}{Destroyed Bridge}
+{216}{}{Ponte destruída}
 {217}{}{}
 {218}{}{West Side}
 {219}{}{}
@@ -143,7 +143,7 @@
 {272}{}{Farm}
 {273}{}{}
 {274}{}{}
-{275}{}{Cavern}
+{275}{}{Caverna}
 {276}{}{}
 {277}{}{}
 {278}{}{Underground Lake}
@@ -191,7 +191,7 @@
 {320}{}{Level 1}
 {321}{}{Level 2}
 {322}{}{Level 3}
-{323}{}{Cavern}
+{323}{}{Caverna}
 {324}{}{}
 {325}{}{}
 {326}{}{Downtown}
@@ -212,9 +212,9 @@
 {341}{}{Council Hall}
 {342}{}{}
 {343}{}{}
-{344}{}{Canyon}
-{345}{}{Canyon}
-{346}{}{Canyon}
+{344}{}{Desfiladeiro}
+{345}{}{Desfiladeiro}
+{346}{}{Desfiladeiro}
 {347}{}{Level 1}
 {348}{}{Level 2}
 {349}{}{}
@@ -254,9 +254,9 @@
 {383}{}{Boxing Arena}
 {384}{}{Boxing Arena}
 {385}{}{Boxing Arena}
-{386}{}{Mine Entrance}
-{387}{}{Mine Entrance}
-{388}{}{Mine Entrance}
+{386}{}{Entrada da mina}
+{387}{}{Entrada da mina}
+{388}{}{Entrada da mina}
 {389}{}{Mine Level 1}
 {390}{}{Mine Level 2}
 {391}{}{}
@@ -275,27 +275,27 @@
 {404}{}{City}
 {405}{}{City}
 {406}{}{City}
-{407}{}{Mountain}
-{408}{}{Mountain}
-{409}{}{Mountain}
+{407}{}{Montanha}
+{408}{}{Montanha}
+{409}{}{Montanha}
 {410}{}{Caverns}
-{411}{}{Cavern}
-{412}{}{Cavern}
-{413}{}{Cavern}
-{414}{}{Cavern}
-{415}{}{Cavern}
-{416}{}{Cavern}
-{417}{}{Cavern}
-{418}{}{Cavern}
-{419}{}{Cavern}
-{420}{}{Cavern}
-{421}{}{Cavern}
-{422}{}{Mountain}
-{423}{}{Mountain}
-{424}{}{Mountain}
-{425}{}{Mountain}
-{426}{}{Mountain}
-{427}{}{Mountain}
+{411}{}{Caverna}
+{412}{}{Caverna}
+{413}{}{Caverna}
+{414}{}{Caverna}
+{415}{}{Caverna}
+{416}{}{Caverna}
+{417}{}{Caverna}
+{418}{}{Caverna}
+{419}{}{Caverna}
+{420}{}{Caverna}
+{421}{}{Caverna}
+{422}{}{Montanha}
+{423}{}{Montanha}
+{424}{}{Montanha}
+{425}{}{Montanha}
+{426}{}{Montanha}
+{427}{}{Montanha}
 {428}{}{Coast}
 {429}{}{Coast}
 {430}{}{Coast}
@@ -304,13 +304,13 @@
 {433}{}{Coast}
 {434}{}{Downtown}
 {435}{}{Basement}
-{436}{}{Unused}
+{436}{}{Não usado}
 {437}{}{Residential}
 {438}{}{Underground}
 {439}{}{Mine}
-{440}{}{Cavern}
-{441}{}{Cavern}
-{442}{}{Cavern}
+{440}{}{Caverna}
+{441}{}{Caverna}
+{442}{}{Caverna}
 {443}{}{Desert}
 {444}{}{Desert}
 {445}{}{Desert}
@@ -347,15 +347,15 @@
 {476}{}{Raider Camp}
 {477}{}{Raider Camp}
 {478}{}{Raider Camp}
-{479}{}{Cave Entrance}
+{479}{}{Entrada da caverna}
 {480}{}{Scorpion Nest}
 {481}{}{Barracks}
 {482}{}{Desert}
 {483}{}{Desert}
 {484}{}{Desert}
-{485}{}{Mountain}
-{486}{}{Mountain}
-{487}{}{Mountain}
+{485}{}{Montanha}
+{486}{}{Montanha}
+{487}{}{Montanha}
 {488}{}{Desert}
 {489}{}{Desert}
 {490}{}{Desert}
@@ -380,9 +380,9 @@
 {509}{}{Desert}
 {510}{}{Desert}
 {511}{}{Desert}
-{512}{}{Mountain}
-{513}{}{Cavern}
-{514}{}{Cavern}
+{512}{}{Montanha}
+{513}{}{Caverna}
+{514}{}{Caverna}
 {515}{}{Guardian}
 {516}{}{Vault 13}
 {517}{}{Vault 13}
@@ -422,36 +422,36 @@
 {551}{}{Desert}
 {552}{}{Desert}
 {553}{}{Desert}
-{554}{}{Cavern}
-{555}{}{Cavern}
-{556}{}{Cavern}
-{557}{}{Cavern}
-{558}{}{Cavern}
-{559}{}{Cavern}
-{560}{}{Cavern}
-{561}{}{Cavern}
-{562}{}{Cavern}
-{563}{}{Mountain}
-{564}{}{Mountain}
-{565}{}{Mountain}
-{566}{}{Mountain}
-{567}{}{Mountain}
-{568}{}{Mountain}
-{569}{}{Mountain}
-{570}{}{Mountain}
-{571}{}{Mountain}
-{572}{}{Mountain}
-{573}{}{Mountain}
-{574}{}{Mountain}
+{554}{}{Caverna}
+{555}{}{Caverna}
+{556}{}{Caverna}
+{557}{}{Caverna}
+{558}{}{Caverna}
+{559}{}{Caverna}
+{560}{}{Caverna}
+{561}{}{Caverna}
+{562}{}{Caverna}
+{563}{}{Montanha}
+{564}{}{Montanha}
+{565}{}{Montanha}
+{566}{}{Montanha}
+{567}{}{Montanha}
+{568}{}{Montanha}
+{569}{}{Montanha}
+{570}{}{Montanha}
+{571}{}{Montanha}
+{572}{}{Montanha}
+{573}{}{Montanha}
+{574}{}{Montanha}
 {575}{}{Abandoned City}
 {576}{}{Ruined City}
 {577}{}{Ruined City}
 {578}{}{Temple Entrance}
 {579}{}{Temple Entrance}
 {580}{}{Temple Entrance}
-{581}{}{Destroyed Bridge}
-{582}{}{Destroyed Bridge}
-{583}{}{Destroyed Bridge}
+{581}{}{Ponte destruída}
+{582}{}{Ponte destruída}
+{583}{}{Ponte destruída}
 {584}{}{Detention Cells}
 {585}{}{Detention Cells}
 {586}{}{Detention Cells}
@@ -585,7 +585,7 @@
 {714}{}{Level Two}
 {715}{}{Level Three}
 {716}{}{Abandoned House}
-{717}{}{Cavern}
+{717}{}{Caverna}
 {718}{}{}
 {1500}{}{Arroyo}
 {1501}{}{The Den}
@@ -614,7 +614,7 @@
 {1524}{}{Den Slave Run}
 {1525}{}{Raiders}
 {1526}{}{Desert}
-{1527}{}{Mountain}
+{1527}{}{Montanha}
 {1528}{}{Ruined City}
 {1529}{}{Coast}
 {1530}{}{Golgotha}
@@ -627,7 +627,7 @@
 {1537}{}{Cafe of Broken Dreams}
 {1538}{}{Paladins}
 {1539}{}{Vorpal Rat Cave}
-{1540}{}{Guardian of Forever}
+{1540}{}{Guardião para Sempre}
 {1541}{}{Toxic Waste Dump}
 {1542}{}{Pariahs}
 {1543}{}{Mad Brahmin}

@@ -1,102 +1,89 @@
-{100}{}{You see a plump, older woman with a large nose.}
-{101}{}{You see Big Nose Sally, the owner of the Bathhouse.}
-{200}{}{Hello there, my name's Sally Dunton. Hmm, did you catch that?}
-{201}{}{Ally Onion? Gurk?}
-{202}{}{I gotta pee-ee}
-{203}{}{Oog? (shaking head)}
-{204}{}{Well, that's a right nice try for an idjit. But I ain't having none of your kind in here. Now,
- git out. Shoo, shoo.}
-{205}{}{I know you're a tribal and all, but this is a bathhouse, not an outhouse. Git out afore I have
- you thrown out!}
-{206}{}{I know my boys have taken up with some poor sorts, but you're the worst yet. I just can't
- believe that you let them down. I won't have you in my place. Now, get out.}
-{210}{}{My name's Sally Dunton, but mostly they call me Big Nose Sally. I'm the owner of this here
- bathhouse. We have a whole houseful of special, attended baths for you to pick from.}
-{211}{}{What kind of special, attended baths do you have here?}
-{212}{}{Gee, Miss Sally, I just wanted a regular bath. You don't have a bubble bath, do you?}
-{213}{}{I think I've changed my mind; I may try back later.}
-{220}{}{My name's 'Big Nose' Sally Dunton and I'm the owner of this here bathhouse. I'm afraid that we just
- have girl bath attendants here. That alright with you?}
-{221}{}{I'm just here for a bath.}
-{222}{}{Women suit me just fine.}
-{223}{}{Gee, I was really looking for a male attendant.}
-{224}{}{I don't think this is what I was looking for.}
-{225}{}{I'm sorry that we couldn't help you out. Come on back later, though.}
-{230}{}{If you just want an unattended bath, you might try the Golden Gecko or the Buckner House. But I
- doubt that you'll find that as enjoyable.}
-{231}{}{Thanks, Miss Big Nose. I'll try that instead. Good-bye.}
-{232}{}{I was just kidding; I'd like a special bath.}
-{240}{}{The special baths that we have available vary in cost by the amount of time that the gal spends
- with you, and any special services that you take advantage of.}
-{241}{}{You mean I get to be with a real-live girl? Sign me up!}
-{242}{}{I don't think I'm ready for this; I better go.}
-{243}{}{I think that the appearance of the attendant better figure into the cost, too.}
-{250}{}{The baths that we have available are: a Wash Cloth Hand Wipe, a brief Full Body Wash, and,
- lastly, the Round-the-World Full Squeaky Clean Servicing, offered by the beautiful and talented Jenny,
- recently trained at the finest house in the Den.}
-{251}{}{I think I can get by with the Hand Wipe; how much is that?}
-{252}{}{I like the idea of a Full Body Wash; what's that going to cost?}
-{253}{}{Beautiful and talented? I've got to hear more about the Round-the-World Full Squeaky Clean Wash.}
-{254}{}{I don't think I'm ready to take a bath with someone else watching; I'm going to leave.}
-{255}{}{Can I mix and match the different types of baths?}
-{256}{}{What about getting a discount on those baths?}
-{260}{}{No, you have to choose one at a time, but you can always come back for more -- usually
- after a brief rest.}
-{261}{}{Tell me the different types of bath again.}
-{262}{}{If I can't make my own combinations, I don't even want a bath; I'm outta here.}
-{270}{}{Well, for an attractive individual like yourself that would only cost $25.}
-{271}{}{$25? That's a bargain; I'll take it.}
-{272}{}{Hmm, tell me about the other types of baths again.}
-{273}{}{Maybe I don't need this right now. I'm leaving.}
-{280}{}{Hmm, you look as though you need a real bath first; that'll make the price $35.}
-{281}{}{$35? That seems kind of steep -- but I guess I am a bit scruffy. I'll take it.}
-{282}{}{What are the other choices again?}
-{283}{}{Thanks, but I think I'll look elsewhere.}
-{284}{}{$35 seems kind of expensive; got any cute brahmin, instead?}
-{290}{}{I think any of our girls would be happy to give you a full body wash; I just better watch the
- time to make sure it's a brief one (chuckle). The Brief Full Body Wash will cost you $55.}
-{291}{}{That sounds like fun. Here's my $55.}
-{292}{}{Hmm, what are the other choices again?}
-{293}{}{Thanks, but I think that I'll save my money for now.}
-{300}{}{You could use a bit of real scrubbing; don't you tribals know about soap? Oh well, that'll cost
- you $70 for the Brief Full Body Wash... but I'm sure that you'll be happy with the results.}
-{301}{}{Wow, $70! That seems like a lot. But I bet it's worth it. I'll try it.}
-{302}{}{What were the other bathing options?}
-{303}{}{I don't think that I want to pay for a bath after all.}
-{310}{}{Well I'm sure that your Round-the--World trip Servicing with beautiful Jenny will be an
- experience that you'll savor for quite a while. A real bargain at only $125.}
-{311}{}{I can't wait to enjoy Jenny's special talents. Here's my $125.}
-{312}{}{Maybe I should hear about the other bath choices again.}
-{313}{}{I don't think that I'll ever need $125 worth of cleaning. I'm going to leave before I get
- myself into trouble.}
-{320}{}{Hmm, I don't know if Jenny will even take you in the condition that you're in. You're going to
- need a thorough, no-nonsense, scrubbing first. (To herself: I wonder if Gerda is free for that?) With
- the cost of the pre-scrubbing, the Round-the-World Full Squeaky Clean Servicing is yours for only $185.}
-{321}{}{I get both Gerda and Jenny? What a bargain! Here's my $185.}
-{322}{}{Is Gerda that larger, mustachioed woman? I better hear the other choices again.}
-{323}{}{I don't think that I can afford this right now. I think I'm going to leave.}
-{324}{}{Gerda isn't really a woman at all, is she? I don't want to be scrubbed down by a burly
- drag-queen. I'm outta here.}
-{330}{}{That's a great choice, if you don't have a lot of time or money.}
-{340}{}{I think you'll really enjoy this. }
-{350}{}{I think that you'll enjoy Jenny bathing you more than any bath you've ever had.}
-{360}{}{We don't handle that sort of thing here. Try talking to my sons, Chuck and Buck Dunton. I
- understand that their brahmin are pretty darn popular with a certain set.}
-{361}{}{You don't have enough money. Come back when you're able to pay.}
-{362}{}{It seems as though your eyes are bigger than your budget. Perhaps you'd like to try a cheaper
- washing.}
-{363}{}{I'm certain that one of my sons would be happy to help you out. But you might want to come back
- here afterwards; most gals that spend any time with my boys get a hankerin' to bathe themselves real
- good.}
-{370}{}{Back again, huh? A lot of folks just can't seem to get clean enough.}
-{371}{}{I'm just looking around this time; I don't need a bath.}
-{372}{}{Tell me the types of bath that you have again.}
-{373}{}{Do I get a return customer discount?}
-{380}{}{Well now, it wouldn't be fair to discount any of our services. My gals are well worth what they
- charge.}
-{381}{}{Well, if I can't get a discount, I'm leaving.}
-{382}{}{I guess that's fair enough. Tell me what baths you have available.}
-{390}{}{Before we go any further, you've gotta know that the baths are for individuals, not groups. You
- can make your own arrangements, and then your friends can do as they please on their own.}
+{100}{}{Você vê uma mulher gorda e velha, com um grande nariz.}
+{101}{}{Você vê o Sally nariz grande, a proprietária da Bathhouse.}
+{200}{}{Olá, meu nome é Sally Dunton. Hm, entendeu?}
+{201}{}{Ally cebola? Gurk?}
+{202}{}{Eu tenho que fazer xixi}
+{203}{}{Oog? (balançando a cabeça)}
+{204}{}{Bem, é uma boa tentativa para um idiota. Mas não quero nenhum do seu tipo por aqui. Agora saia. Xô! xô!}
+{205}{}{Eu sei que você é um tribal e tal, mas isso é uma casa de banhos, não uma patente. Saia daqui antes que eu te expulse!}
+{206}{}{Eu sei que meus meninos tem se comportado mal,mas você é ainda pior. Eu não acredito que você não os ajudou. Eu não quero você no que é meu. Agora, saia daqui!}
+{210}{}{Meu nome é Sally Dunton, mas a maioria me chama de Sally nariguda. Eu sou a dona dessa casa de banhos. Nos temos varios tratamentos especiais, e banhos especiais para você escolher.}
+{211}{}{Que tipo de banhos especiais vocês tem aqui?}
+{212}{}{Poxa, senhorita Sally, eu só queria um banho normal. Você não tem um banho de banheira, tem?}
+{213}{}{Eu acho que mudei de ideia, talvez eu tente novamente mais tarde.}
+{220}{}{Meu nome é Sally Dunton Nariguda, e eu sou a dona dessa casa de banhos. Eu acho que só temos
+ garotas para lhe ajudar com seu banho. Tudo bem para você?}
+{221}{}{Só estou aqui para tomar banho.}
+{222}{}{Está tudo bem se forem mulheres.}
+{223}{}{Poxa, eu queria muito um atendente homem.}
+{224}{}{Acho que não era isso que eu estava procurando.}
+{225}{}{Me desculpe por não podermos te ajudar, mas volte depois.}
+{230}{}{Se você só quer tomar banho, tente ir no Gecko Dourado, ou na Bukner House. Mas duvido que vá gostar tanto como gostaria aqui.}
+{231}{}{Obrigado, senhorita Nariguda. Vou tentar isso. Adeus.}
+{232}{}{Eu estava só brincando. Eu gostaria de um banho especial.}
+{240}{}{Os banhos especiais que temos disponíveis, variam de preço pelo tempo que a garota passa com você, e qualquer atendimento especial que você requisitar.}
+{241}{}{Então vou poder ficar com uma garota de verdade? Tô dentro!}
+{242}{}{Acho que não estou pronto pra isso; é melhor eu ir.}
+{243}{}{Acho melhor que a aparência da atendente conte no preço também.}
+{250}{}{Os banhos que temos disponíveis são: Um banho com as mãos e com roupa, um breve banho no corpo todo, e por último,
+ um banho bem gostosinho ao redor de todo o corpo, oferecido pela bela e talentosa Jenny,
+ recentemente treinada na melhor casa do refúgio.}
+{251}{}{Acho que só o banho com as mãos serve, quanto que é?}
+{252}{}{Eu gosto da ideia de um banho de corpo todo, quanto custa?}
+{253}{}{Bela e talentosa? Tenho que ouvir mais sobre o banho gostosinho.}
+{254}{}{Acho que não estou pronto pra tomar um banho com alguém olhando; vou embora.}
+{255}{}{Posso misturar diferentes tipos de banho?}
+{256}{}{O que você acha de um desconto nos banhos?}
+{260}{}{Não, tem que escolher um de cada vez, mas sempre pode voltar pra mais -- depois de um tempo de descanso.}
+{261}{}{Me diga os tipos de banho novamente.}
+{262}{}{Se não posso fazer minhas combinações, eu nem quero um banho; vou embora daqui.}
+{270}{}{Bem, para um indivíduo bonito como você, custaria só $25.}
+{271}{}{$25? que barato; eu quero.}
+{272}{}{Hm, me diga novamente quais são os tipos de banho.}
+{273}{}{Talvez eu não precise disso agora. Vou embora.}
+{280}{}{Hm, você parece que precisa de um banho de verdade primeiro, por isso o preço é $35.}
+{281}{}{$35? Meio que uma facada -- Mas acho que estou meio sujo. Vou aceitar.}
+{282}{}{Qual as outras escolhas mesmo?}
+{283}{}{Obrigado, mas acho que vou procurar outro lugar.}
+{284}{}{$35 é meio caro, tem algum brahmin bonitinho ao invés?}
+{290}{}{Acho que qualquer uma das garotas ficaria feliz de te dar um banho no corpo todo; mas preciso olhar o tempo pra ter certeza de que é um breve(gordinho). O banho breve de corpo todo lhe custará $55}
+{291}{}{Parece divertido. Aqui estão meus $55}
+{292}{}{Hm, Qual as outras escolhas mesmo?}
+{293}{}{Valeu, mas acho que vou guardar meu dinheiro.}
+{300}{}{Você podia se esfregar, vocês tribais não conhecem sabão? Bem, isso custaria $70 pelo banho rapio no corpo todo, mas tenho certeza que ficaria satisfeito.}
+{301}{}{Uau, $70! Isso parece muito. Mas aposto que vale a pena. Eu vou experimentar.}
+{302}{}{Qual são as outras opções de banho?}
+{303}{}{Eu acho que não quero mais o banho}
+{310}{}{Bem, tem certeza de que você não precisa de uma bela assistência antes de continuar sua viagem? Com a bela Jenny será uma 
+ experiência que você vai saborear por um bom tempo. Uma verdadeira pechincha por apenas $125 dólares.}
+{311}{}{Eu mau posso esperar para desfrutar dos talentos especiais de Jenny. Aqui está seus $125.}
+{312}{}{Talvez eu devesse ouvir sobre as outras opções de banho novamente.}
+{313}{}{Eu não acho que vou precisar de $125 dólares para se limpar. Vou sair antes que eu
+ me meta em encrenca.}
+{320}{}{Hmm, eu não sei se Jenny vai mesmo levá-lo na condição em que você está. Você vai precisar
+ de uma profunda limpeza. (Para si mesmo: Eu me pergunto se Gerda esta livre para isso?)
+ O custo da lavagem e toda sua assistência é seu por apenas $185 dólares.}
+{321}{}{Eu recebo tanto da Gerda e Jenny? Que negócio! Aqui está meus $185.}
+{322}{}{É Gerda, a mulher de bigode? É melhor ouvir as outras opções de novo.}
+{323}{}{Eu não acho que eu posso pagar isso agora. Eu acho que estou indo embora.}
+{324}{}{Gerda não é realmente uma mulher em tudo, não é? Eu não quero ser limpo nas partes íntimas por um robusto drag-queen.
+ Eu vou sair daqui.}
+{330}{}{É uma excelente opção se você não tiver muito tempo ou dinheiro.}
+{340}{}{Eu acho que vou gostar disso.}
+{350}{}{Eu acho que você vai desfrutar de Jenny banhando você mais do que qualquer outro banho que você já teve.}
+{360}{}{Nós não lidamos com esse tipo de negocio aqui. Trate de falar com meus filhos, Chuck e Buck Dunton. Eu entendo que o seus brahmins são popularmente muito importantes.}
+{361}{}{Você não tem dinheiro suficiente. Volte quando você é capaz de pagar.}
+{362}{}{Parece que seus olhos são maiores do que o seu orçamento. Talvez você gostaria de experimentar 
+ um banho mais barato.}
+{363}{}{Estou certo de que um de meus filhos ficaria feliz em ajudá-lo. Mas você pode querer voltar
+ aqui depois; e a maioria das moças que passam um tempo com os meus filhos tem que ser uma verdadeira deusa para banhar-se...}
+{370}{}{Voltou de novo, hein? Muitas pessoas não conseguem ficarem limpas tempo suficiente.}
+{371}{}{Estou apenas olhando; Não preciso de um banho.}
+{372}{}{Fale de novo dos tipos de banhos que você tem.}
+{373}{}{Eu recebo um desconto pelas próximas vezes em que vier?}
+{380}{}{Bem, agora, não seria justo descontar qualquer um dos nossos serviços. Meus galões valem o que eles cobram.}
+{381}{}{Bem, se eu não posso obter um desconto, eu vou embora.}
+{382}{}{Eu acho que é justo. Me diga os banho que você tem disponível.}
+{390}{}{Antes de prosseguirmos, você tem que saber que os banhos são individuais, não para grupos. Vocês podem se acertar, então seus amigos podem fazer o que quiserem.}
 {391}{}{Ok.}
-{400}{}{We don't want your kind around here.}
+{400}{}{Não queremos gente como você por aqui.}

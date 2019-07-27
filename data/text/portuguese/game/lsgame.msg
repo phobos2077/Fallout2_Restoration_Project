@@ -1,42 +1,42 @@
-{100}{}{LOAD GAME}
-{101}{}{PICK A QUICK LOAD SLOT}
-{102}{}{SAVE GAME}
-{103}{}{PICK A QUICK SAVE SLOT}
+{100}{}{CARREGAR}
+{101}{}{ESCOLHA UM SLOT DE CARGA RÁPIDA}
+{102}{}{SALVAR}
+{103}{}{ESCOLHA UM SLOT SALVAMENTO RÁPIDO}
 {104}{}{FEITO}
 {105}{}{CANCEL}
-{106}{}{Error loading save game list!}
-{107}{}{Save game directory:}
-{108}{}{Doesn't exist or is corrupted.}
-{109}{}{SAVE GAME}
-{110}{}{LOAD GAME}
-{111}{}{- EMPTY -}
-{112}{}{- CORRUPT SAVE  FILE -}
-{113}{}{- OLD VERSION -}
-{114}{}{Empty.}
-{115}{}{Error!}
-{116}{}{Old version.}
+{106}{}{Erro ao carregar a lista de jogos salvos!}
+{107}{}{Salve o diretório do jogo:}
+{108}{}{Não existe ou está corrompido.}
+{109}{}{SALVAR}
+{110}{}{CARREGAR}
+{111}{}{- VAZIO -}
+{112}{}{- ARQUIVO SALVO CORROMPIDO -}
+{113}{}{- VERSÃO VELHA -}
+{114}{}{Vazio.}
+{115}{}{Erro!}
+{116}{}{VERSÃO VELHA.}
 {117}{}{JAN}
-{118}{}{FEB}
+{118}{}{FEV}
 {119}{}{MAR}
-{120}{}{APR}
-{121}{}{MAY}
+{120}{}{ABR}
+{121}{}{MAI}
 {122}{}{JUN}
 {123}{}{JUL}
-{124}{}{AUG}
-{125}{}{SEP}
-{126}{}{OCT}
+{124}{}{AGO}
+{125}{}{SET}
+{126}{}{OUT}
 {127}{}{NOV}
-{128}{}{DEC}
-{129}{}{Level}
-{130}{}{DESCRIPTION}
-{131}{}{Save game already exists, overwrite?}
-{132}{}{Error saving game!}
-{133}{}{Unable to save game.}
-{134}{}{Error loading game!}
-{135}{}{Unable to load game.}
-{136}{}{Save game file is an older version.}
-{137}{}{Map}
-{140}{}{Game Saved.}
-{141}{}{Game Loaded.}
+{128}{}{DEZ}
+{129}{}{Nível}
+{130}{}{DESCRIÇÃO}
+{131}{}{Jogo já existe, sobrescrever?}
+{132}{}{Erro durante o salvamento do jogo!}
+{133}{}{Não foi possível salvar jogo.}
+{134}{}{Erro ao carregar o jogo!}
+{135}{}{Não foi possível carregar o jogo.}
+{136}{}{O Arquivo salvo do jogo é uma versão mais antiga.}
+{137}{}{Mapa}
+{140}{}{Jogo Salvo.}
+{141}{}{Jogo Carregado.}
 {200}{}{Sorry you can't save or load}
 {201}{}{in the demo version.}

@@ -21,7 +21,7 @@
 {405}{}{My baby done me wroooong...}
 {408}{}{My baby gone an' left me all aloooone...}
 {409}{}{}
-{500}{}{Go on}
+{500}{}{Continuar}
 {501}{}{Taste the pain}
 {502}{}{Cum again sum otha day}
 {503}{}{}

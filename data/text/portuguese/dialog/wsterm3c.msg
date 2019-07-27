@@ -1,64 +1,64 @@
-{100}{}{A computer terminal}
-{101}{}{It has a little sticker on it that says I*tel inside.}
-{102}{}{[You are unable to read what's on the monitor.]}
-{103}{}{Control Terminal
-                                                       Project: Organic and Robotic Synthesis Experiment}
+{100}{}{Um terminal de computador}
+{101}{}{Ele tem um pequeno adesivo que diz I*tel inside.}
+{102}{}{[Você é incapaz de ler o que está no monitor.]}
+{103}{}{Controle do terminal
+                                                       Projeto: Experimento de Síntese Orgânica e Robótica}
 {104}{}{}
-{105}{}{Systems Check.}
-{106}{}{Activate Robot}
+{105}{}{Checagem de Sistemas.}
+{106}{}{Ativa Robô.}
 {107}{}{Sair}
 {108}{}{Erg?}
-{109}{}{[You are unable to read what's on the monitor.]}
-{110}{}{End Program}
+{109}{}{[Você é incapaz de ler o que está no monitor.]}
+{110}{}{Finalizar Programa}
 {111}{}{Sair}
 {112}{}{Ug}
-{113}{}{Please Wait...
-                                                           Robot Body - OK
-                                                     Biomed gel reservoirs - Full
-                                         Organic Storage Device - Responding
-                          Ready to Activate}
-{114}{}{Please Wait...
-                                                           Robot Body - OK
-                                                     Biomed gel reservoirs - Full
-                                       Organic Storage Device - Not Present
-                  Activation not recommended}
-{115}{}{Please Wait...
+{113}{}{Favor aguardar...
+                                                           Corpo Robótico - OK
+                                                     reservas de Biomed gel - Cheias
+                                         Compartimento de Depósito Orgânico - Respondendo
+                          Pronto para ativar}
+{114}{}{Favor aguardar...
+                                                            Corpo Robótico - OK
+                                                     reservas de Biomed gel - Vazias
+                                       Compartimento de Depósito Orgânico - Ausente
+                  Ativação não recomendada}
+{115}{}{Favor aguardar...
                                                            Robot Body - Replace Motivator
-                                   Biomed gel reservoirs - OK
-                                        Organic Storage Device - Responding
-                   Activation not recommended}
-{116}{}{Please Wait...
-                                                           Robot Body - Replace Motivator
-                                   Biomed gel reservoirs - Full
-                                        Organic Storage Device - Not Present
-                   Activation not recommended}
-{117}{}{Please Wait...
-                                                           Robot Body - OK
-                                                   Biomed gel reservoirs - Refill
-                                       Organic Storage Device - Responding
-                    Activation not recommended}
-{118}{}{Please Wait...
-                                                           Robot Body - OK
-                                                   Biomed gel reservoirs - Refill
-                                       Organic Storage Device - Not Present
-                    Activation not recommended}
-{119}{}{Please Wait...
-                                                           Robot Body - Replace Motivator
-                                  Biomed gel reservoirs - Refill
-                                       Organic Storage Device - Responding
-                    Activation not recommended}
-{120}{}{Please Wait...
-                                                           Robot Body - Replace Motivator
-                                  Biomed gel reservoirs - Refill
-                                       Organic Storage Device - Not Present
-                     Activation not recommended}
+                                   reservas de Biomed gel - OK
+                                       Compartimento de Depósito Orgânico - Respondendo
+                   Ativação não recomendada}
+{116}{}{Favor aguardar...
+                                                            Corpo Robótico - OK
+                                                   reservas de Biomed gel - Vazias
+                                      Compartimento de Depósito Orgânico - Ausente
+                   Ativação não recomendada}
+{117}{}{Favor aguardar...
+                                                            Corpo Robótico - OK
+                                                   reservas de Biomed gel - Vazias
+                                       Compartimento de Depósito Orgânico - Respondendo
+                   Ativação não recomendada}
+{118}{}{Favor aguardar...
+                                                            Corpo Robótico - OK
+                                                   reservas de Biomed gel - Vazias
+                                      Compartimento de Depósito Orgânico - Ausente
+                    Ativação não recomendada}
+{119}{}{Favor aguardar...
+                                                            Corpo Robótico - Instalar Motivator
+                                  reservas de Biomed gel - Vazias
+                                       Compartimento de Depósito Orgânico - Respondendo
+                    Ativação não recomendada}
+{120}{}{Favor aguardar...
+                                                            Corpo Robótico - Instalar Motivator
+                                  reservas de Biomed gel - Vazias
+                                       Compartimento de Depósito Orgânico - Ausente
+                    Ativação não recomendada}
 {121}{}{}
 {122}{}{}
 {124}{}{}
-{153}{}{Begin Start Sequence}
+{153}{}{Começar Sequência de Iniciação}
 {154}{}{Sair}
 {155}{}{Failsafe overridden
-                                                  Unit is now running}
+                                                  A unidade está em funcionamento}
 {156}{}{}
 {157}{}{}
 {158}{}{}
@@ -67,19 +67,19 @@
 {161}{}{}
 {162}{}{}
 {163}{}{}
-{164}{}{Initiating start up sequence}
-{165}{}{                                   Power Levels - nominal}
+{164}{}{Começando sequência de iniciação}
+{165}{}{                                   Níveis de Energia - aceitáveis}
 {166}{}{                                              Synch Ratio - 75%}
-{167}{}{                                               Unit is operational}
+{167}{}{                                               Unidade em funcionamento}
 {170}{}{                                              Synch Ratio - 50%}
 {174}{}{                                              Synch Ratio - 10%}
 {176}{}{Sair}
-{200}{}{ is unable to read what's on the monitor.}
-{300}{}{The computer seems to have some sort of defense mechanism.}
-{500}{}{Initiating start-up sequence
-                                   Power Levels - nominal
-                                          Program Interrupted
+{200}{}{ é incapaz de ler o que está no monitor.}
+{300}{}{O computador parece ter um mecanismo de defesa.}
+{500}{}{Começando seqüência de iniciação
+                                   Níveis de Energia - aceitáveis
+                                          Programa Interrompido
                                                Downloading...
-                                                  Program Continue
+                                                  Programa Continuado
                                                     Synch Ratio - 100%
-                                                   Unit is operational}
+                                                   Unidade em funcionamento}

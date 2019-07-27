@@ -1,24 +1,17 @@
-# quick look
 {100}{}{Vidíš vìdce.}
-
-# examines
 {150}{}{Vidíš vánì vypadajícího mue se zápisníkem a injekèní støíkaèkou. Ignoruje tì.}
 {151}{}{Vypadá velmi unavenì a podrádìnì.}
 {152}{}{Vidíš unavenou enu. Kontroluje nìco v zápisníku a rozhlíí se kolem, jako by na nìco zapomnìla.}
 {153}{}{Plní injekèní støíkaèku a nìco si pro sebe mumlá.}
-
-# FLOAT
-# (COMPANION = MYRON)
 {154}{}{Zdravím, pane Myrone.}
 {155}{}{Pane Myrone... máte chvíli...?}
-{156}{}{Nemáte ponìtí, kdy koneènì dorazí ti noví otroci, pane Myrone?}
+{156}{}{Pane Myrone, nevíte, kdy koneènì dorazí další otroci?}
 {157}{}{Pane Myrone, ty nové vısledky vypadají slibnì, velmi slibnì...}
 {158}{}{Pane Myrone, máte minutku?}
-# (NORMAL)
 {159}{}{Kde je sakra ten Myron...}
 {160}{}{Pøiveïte mi Myrona. Tohle musí vidìt.}
 {161}{}{Ké by ti otroci aspoò na chvíli zavøeli hubu...}
-{162}{}{Kde je sakra ta støíkaèka...?}
+{162}{}{Kde jsem sakra nechala tu støíkaèku?}
 {163}{}{Nevidìl nìkdo subjekt è. 31? Ještì pøed chvílí tu byl.}
 {164}{}{Zvyšte dávky Beta Jetu na otrocích.}
 {165}{}{Vısledky testù Beta Jetu jsou velmi slibné, ale...}
@@ -28,9 +21,6 @@
 {169}{}{No a JAKÉ halucinace mìl?}
 {170}{}{Zkontrolujte mu tep. Jestli je v tolerované mezi, zvyšte dávku.}
 {171}{}{Proè se ta otrokynì z kontrolní skupiny zabila? Vdy jsme na ní nic netestovali!}
-
-# CLICK
-# (COMPANION = MYRON)
 {200}{}{Zdravím, pane Myrone. Testy probíhají podle plánu.}
 {201}{}{Pyne Myrone, ten novı druh Jetu zpùsobuje extrémní závislost. Otroci jsou témìø ochotni se kvùli nìmu navzájem pozabíjet.}
 {202}{}{Otroci si místo jídla radìji vezmou Jet. A tak je silnı.}
@@ -42,13 +32,12 @@
 {208}{}{Pane Myrone, nevíte, kdy koneènì dorazí další otroci?}
 {209}{}{Pane Myrone, pøesunuli jsme tøi otroky z kontrolní skupiny do testovací skupiny kvùli tìm respiraèním problémùm z minulého tıdne.}
 {210}{}{Pane Myrone... museli jsme zastøelit jednoho otroka, kterı se pokusil utéct. Taková škoda.}
-{246}{}{Pane Myrone... ten novı halucinogen, kterı jste vyvinul, vypadá slibnì, ale nevzniká na nìj taková závislost jako na Jetu...}
-# NORMAL
+{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as habit-forming as Jet...}
 {212}{}{Pokud máte nìjaké návrhy, napište je prosím na papír a pak je vyhoïte rovnou támhle do koše.}
 {213}{}{Ano, ano. Co je?}
 {214}{}{Takhle nic nedokonèím, kdy mì bude poøád nìkdo otravovat.}
 {215}{}{Dneska sem pustí u úplnì kadého...}
-{216}{}{Co chcete?}
+{216}{}{Co chceš?}
 {217}{}{Promiòte, ale mám práci.}
 {218}{}{Jestli máte nìjaké otázky, tak se jdìte zeptat stráí, ne mì.}
 {219}{}{Ano, já vím, e urèitì potøebujete nìco *velmi* dùleitého, ale já mám svou vlastní práci a povinnosti.}

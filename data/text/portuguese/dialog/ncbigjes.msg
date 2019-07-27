@@ -1,7 +1,7 @@
 {100}{}{You see Big Jesus Mordino.}
 {150}{}{You see a fat man with beady black eyes. He is covered in sweat and breathing heavily.}
 {151}{}{You see Big Jesus Mordino. He is covered in sweat and is breathing heavily.}
-{200}{}{Stay away from there.}
+{200}{}{Fique longe daí.}
 {201}{}{That does not... belong to you.}
 {202}{}{Touch that again, and you shall... die on Golgotha.}
 {210}{}{::Wheeze::}
@@ -20,7 +20,7 @@
 {244}{}{[Stare back at him with mild disinterest.]}
 {245}{}{[Stare back at him with a sneering gaze.]}
 {246}{}{[Stare back at him with affected disinterest.]}
-{247}{}{[Wander off.]}
+{247}{}{Sair andando}
 {248}{}{Quem é você?}
 {249}{}{Are you Jesus Mordino?}
 {250}{}{Sorry. I've entered the wrong room.}
@@ -85,10 +85,10 @@
 {352}{}{(Mordino studies your companions, then shakes his head.) You have nothing I want.}
 {353}{}{Senor Mordino, please... the slave is worth MUCH more than that. It has many years of faithful service remaining.}
 {354}{}{That is a fair price. You may have the slave.}
-{355}{}{Actually, I'm not looking to sell that one just yet. I did have some questions I wanted to ask you...}
-{356}{}{Actually, I'm not looking to sell that slave. Let's deal another time.}
-{357}{}{Very well. I had some questions for you, though...}
-{358}{}{All right. Some other time when I get better stock, then.}
+{355}{}{Na verdade, não estou procurando vender aquele ali ainda. Eu tenho algumas questões que gostaria de te perguntar...}
+{356}{}{Na verdade, não estou procurando vender aquele escravo. Vamos negociar em outra oportunidade.}
+{357}{}{Ótimo. Entretanto, eu tenho algumas questões pra você...}
+{358}{}{Tudo bem. Alguma outra oportunidade, quando eu tiver um estoque melhor então.}
 {370}{}{No. She has seen much hard travel and looks tired... 250 chips for her or nothing.}
 {371}{}{The boy looks soft and weak. I'll not give more than 200 chips for him.}
 {372}{}{No. The tribal smells and looks to be... difficult. It will be hard to break him in. 100 chips.}
@@ -246,7 +246,7 @@
 {741}{}{Just adults, huh? I mean, Jet takes a while to kill someone, but it works, right?}
 {742}{}{Somebody else might, and they might blacken the Mordino name. You know who might have sold Richard the Jet
  that killed him?}
-{743}{}{I see. Look, I had some other questions...}
+{743}{}{Eu vejo. Olhe, eu tenho algumas outras perguntas…}
 {744}{}{Thanks for the information, Senor Mordino. I must be going now.}
 {750}{}{(Shakes head.) I... know little of the lives of pushers in Reno. (Takes a raspy breath, coughs slightly.) You... might ask
  my son... in the casino, below.}

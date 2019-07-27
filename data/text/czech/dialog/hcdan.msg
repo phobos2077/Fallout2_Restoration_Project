@@ -10,7 +10,7 @@
 {109}{}{Ne v mém domì prosím. Venku na ulici si chrápej a dìlej co chceš, jako všichni "zvláštní" lidi.}
 {110}{}{Thppt!}
 {111}{}{Dobøe, dobøe. Teší mì, že tì vidím. (Vypadá nervóznì.) Poslyš, ty jsi dobrodružný typ, že?}
-{112}{}{Jo.}
+{112}{}{Ano.}
 {113}{}{Nepoznáváš Vyvoleného?}
 {114}{}{Ne.}
 {115}{}{Co je ti do toho?}

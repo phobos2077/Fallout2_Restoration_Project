@@ -28,16 +28,16 @@
 {127}{}{Ventilace 3A... 3B... 3C... 3D... 3E... pracují na optimální výkon.}
 {128}{}{Teplota a vlhkost prostøedí uvnitø Vaultu ve stanovených mezích.}
 {129}{}{Zdroje napájení...}
-{130}{}{Úroveò všech napìtí ve stanovených mezích. }
+{130}{}{Úrovnì všech napìtí jsou ve stanovených mezích. }
 {131}{}{Úsporný režim pro patra dvì a tøi zùstává aktivní.}
 {132}{}{Upozornìní: Dveøe Vaultu otevøeny. V pøípadì pohotovosti se neprodyšnì uzavøou.}
 {133}{}{Všechny kontrolní systémy v poøádku. Diagnostika systému ukonèena. Pøíprava zápisu na disk...}
 {134}{}{Log kontroly zapsán na disk. }
-{135}{}{Seznam prùbìhu kontroly odeslán do Úøadu seznamù.}
+{135}{}{Seznam prùbìhu kontroly odeslán do Seznamového úøadu.}
 {136}{}{Tøi záložní kopie uloženy do bezpeèných prostor.}
 {137}{}{Bezpeènostní záloha seznamu je nyní odesílána na hlavní server, který ji rozešle do všech dalších terminálù ve Vault City.}
 {138}{}{Nyní je možné terminál bezpeènì vypnout. }
-{139}{}{Dìkuji.}
+{139}{}{Díky.}
 {140}{}{Zahájena diagnostika systému. }
 {141}{}{Zahájená diagnostika systému mùže být kdykoliv pøerušena systémovým operátorem.}
 {142}{}{Vault-Tec doporuèuje pravidelnou údržbu a diagnostiku všech systémù pro jejich bezchybný chod.}
@@ -63,7 +63,7 @@
 {162}{}{Tøi záložní kopie uloženy do bezpeèných prostor.}
 {163}{}{Bezpeènostní záloha seznamu je nyní odesílána na hlavní server, který ji rozešle do všech dalších terminálù ve Vault City.}
 {164}{}{Nyní je možné terminál bezpeènì vypnout. }
-{165}{}{Dìkuji.}
+{165}{}{Díky.}
 {166}{}{Vidíš kovovou bednu, ze které vychází ženský hlas. Ta žena musí být v té bednì! Musí tam být opravdu, ale opravdu velmi stísnìná.}
 {167}{}{Podaøilo se ti pøihlásit do hlavního poèítaèe Vault City. Ovládacímu panelu se dá pomìrnì dobøe porozumìt, avšak všechna data jsou rozdìlena do archívù.}
 {168}{}{Haló? Halóó?}
@@ -109,7 +109,7 @@
 {208}{}{Pokusit se zjistit, co je špatnì.}
 {209}{}{Zrušit proces a odhlásit se z terminálu.}
 {210}{}{Malý displej za Pip-Boyem upozoròuje, že poslední plánovaná údržba probìhla pøed 50 352 lety. Archívy jsou poškozené a potøebují "pøeformátovat". Pøejete si provést?}
-{211}{}{Ehm...jistì.}
+{211}{}{Eh... jistì.}
 {212}{}{Co... ne! V žádném pøípadì! }
 {213}{}{Zrušit proces a odhlásit se z terminálu.}
 {214}{}{Zahajuji inicializaèní proces... reformátuji Pip-Boy...}
@@ -149,13 +149,13 @@
 {248}{}{Ukázat Pip-Boyovi palec nahoru.}
 {249}{}{Ukázat na Pip-Boye prostøedníèek.}
 {250}{}{Vývojáøské informace o Fallout 2 se právì nahrávají do databáze Pip-Boye. Kopíruji soubory... Vývojáøské informace o Vault City... Stažení dokonèeno.}
-{251}{}{Dìkuji.}
+{251}{}{Díky.}
 {252}{}{Doufám, že za tenhle pomalej krám dostanu extra body zkušenosti, nebo se fakt naseru.}
 {253}{}{Pip-Boy na obrazovce ti zamává sbohem a poté obrazovka zèerná. Terminál se vypnul.}
-{254}{}{[Odejít]}
+{254}{}{Odejít.}
 {255}{}{Jo, radši rychle zmiz, ty malej sráèi.}
 {256}{}{Terminál se vypnul. Nemáš ani ponìtí, jak ho zase zapnout.}
-{257}{}{[Odejít]}
+{257}{}{Odejít.}
 {258}{}{Naèítám disk... Data reaktoru: Atomová elektrárna... Výkon: 43%/75%... Chyba: Kalibrace zaøízení - MD4/gh1... Pøejete si optimalizovat?}
 {259}{}{}
 {260}{}{}
@@ -171,7 +171,6 @@
 {270}{}{Prohledat archívy.}
 {271}{}{Odhlásit se z terminálu.}
 {272}{}{Oooooooch. To brnííí.}
-
 {300}{}{Když už se chystáš vrátit na výpis archívù, všimneš si svým zkušeným okem skryté položky.}
 {301}{}{Když už se chystáš odhlásit z terminálu, všimneš si svým zkušeným okem skryté položky.}
 {302}{}{Pokraèovat.}

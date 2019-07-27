@@ -20,7 +20,6 @@
 {119}{}{Eh, rád vás poznávám, pane Velkı Anál...nìco.}
 {120}{}{Hmm, ze záhad mám tìké spaní, radìji pùjdu. Sbohem.}
 {121}{}{Pøistupte blíe!}
-
 {127}{}{Dnes, pøímo v této místnosti, tu mám, exkluzivnì pro vás... nefalšovanou egyptskou mumii!}
 {128}{}{Mumii?}
 {129}{}{Mumii? Hmm, zajímalo by mì, jestli to náhodou není... ne, nikdo pøece není tak hloupı.}
@@ -53,19 +52,16 @@
 {156}{}{Jednohlavá brahmína? No jistì, tomu tak budu vìøit! Sbohem, šarlatáne.}
 {157}{}{Probudil jsi ghoula Woodyho a osvobodil jsi ho z nechtìné mumifikace.}
 {158}{}{Myslím, e si radìji vyslechnu tu historku o duchovi.}
-
 {200}{}{Vím o vìcech, které jsou obyèejnému smrtelníkovi zapovìzené. Ajííííí! Nyarloth... och, promiòte (hehe). Byl jsem chvíli myšlenkami nìkde jinde.
  Znám pøíbìhy o duchovi, kterı straší tyto konèiny, a také o nefalšované egyptské mumii,
  kterou mùete vidìt v tomto nádherném sarkofágu pøed sebou.}
 {201}{}{Vyprávìjte mi o té mumii. Umírám nedoèkavostí se o ní dozvìdìt nìco víc.}
 {202}{}{Musím slyšet tu historku o duchovi. Eh, dostanu k tomu šálek dobrého horkého kakaa?}
 {203}{}{Myslím, e tu nebudu ztrácet èas, a u se mi snaíte vnutit cokoliv.}
-
 {300}{}{Tak tedy, (ukáe, abys šel blí) kdysi ila mocná královna, která vládla celému království.
  Drela se na svém trùnì pomocí zvláštního amuletu, kterı stále nosila kolem svého krku. Zajímavé, e?}
 {301}{}{Eh, ano. To si pište. Take ta princezna mìla *magickı* amulet. Prosím, pokraèujte. U mì dál nenapínejte (zív).}
 {302}{}{Myslím, e u to nebudu poslouchat. Sbohem.}
-
 {400}{}{No, tak já to zkrátím. Zlı kouzelník otrávil mladou princeznu a vzal jí amulet. Od té doby
  bloudí po vedlejší místnosti. No, eh, o pùlnoci. Proto nechávám dveøe zamknuté.
  Pìknì strašidelné, e?}

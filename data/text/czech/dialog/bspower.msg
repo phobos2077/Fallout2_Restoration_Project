@@ -8,4 +8,4 @@
 {107}{}{Èas vypadnout.}
 {108}{}{Podaøilo se ti uvolnit kontakty a obnovit tak dodávku energie!}
 {109}{}{Zatracenì. Je to tìžší, než se zdá.}
-{110}{}{Konec.}
+{110}{}{Beru.}

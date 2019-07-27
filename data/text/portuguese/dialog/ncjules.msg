@@ -23,7 +23,7 @@
 {245}{}{Jules always treated you right... so tell everybody you know me, awright he-ro?}
 {246}{}{Hear the Corsican Bros are lookin' for you, he-ro...}
 {260}{}{Daaamn. I think you and I should be friends.}
-{261}{}{How the hell do you go to the bathroom with that thing on?}
+{261}{}{Como diabos você vai no banheiro com essa coisa?}
 {262}{}{What the hell is THAT? A walking car?}
 {263}{}{Them junkies are gonna flip when they see you coming in that thing.}
 {280}{}{You gonna put in a good word to the boss man for me, brother?}
@@ -62,9 +62,9 @@
 {368}{}{Mutants from the wastes? Wasn't that eighty years ago?}
 {369}{}{That mutant ain't gonna last long in Reno...}
 {370}{}{Gonna be a murder if the families spot that mutant...}
-{380}{}{Is that some kind of slot machine that's following you around?}
-{381}{}{Is that a robo-slot machine?}
-{382}{}{Does your robot do tricks? Uh... magic tricks, I mean.}
+{380}{}{Isso é um tipo de caça-níquel que está te seguindo por aí?}
+{381}{}{Isso é um robô caça-níqueis?}
+{382}{}{O seu robô faz truques? Uh…truques de mágica, que eu quis dizer.}
 {383}{}{You sellin' that robot? You can keep the brain.}
 {390}{}{A ghoul... thought I smelled somethin.}
 {391}{}{That ghoul boy ain't gonna last long in Reno...}
@@ -86,7 +86,7 @@
 {419}{}{Biggest little town in all the Wastes, friend.}
 {420}{}{You new in town? Worth your time to talk ta me, friend.}
 {421}{}{Jules is the man with what you NEED.}
-{422}{}{You got the craving, I got the saving.}
+{422}{}{Você tem a excitação, eu tenho a solução.}
 {423}{}{Reno stays up ALL night, so you gotta be prepared.}
 {424}{}{Reno can have a woman for breakfast. So can I.}
 {425}{}{A woman can lose herself here. Let Jules be the one who finds you.}
@@ -98,14 +98,14 @@
 {451}{}{WELCOME to the glittering city of New Reno, my brother!}
 {452}{}{WELCOME to the glittering city of New Reno, my sister!}
 {453}{}{Hunh? Wh-?}
-{454}{}{And you are...?}
+{454}{}{E você é...?}
 {460}{}{Name's Jules, and I would be MOST pleased to make your acquaintance, show you around, and set you up with whatever
  you're looking for.}
 {461}{}{Name's Jules, and may I say I have NEVER seen a more beautiful woman stride down this street until this moment. It'd
  be MY pleasure to give you a tour of Reno and set you up with WHATEVER you're looking for.}
 {462}{}{Hey, hey, hey, welcome back! What is it you need from Jules, my friend?}
 {463}{}{Me looking for... um. Me forget again}
-{464}{}{Wander off}
+{464}{}{Cai fora}
 {465}{}{All right. How can you help me?}
 {466}{}{Well, I had some questions...}
 {467}{}{Know what happened to Mr. Wright's son, Jules?}
@@ -134,7 +134,7 @@
 {500}{}{I'm looking for my tribe. They've been kidnapped.}
 {501}{}{Do you know how to fix an oil tanker?}
 {502}{}{I'm looking for a Garden of Eden Creation Kit.}
-{503}{}{Nothing today, thanks.}
+{503}{}{Nada por hoje, valeu.}
 {515}{}{Can Jules TELL you 'bout New Reno? Hell, yes! FIRST thing you should know: Reno's ruled by four families: Mordinos,
  the Salvatores, the Bishops and the Wrights. Each o' them got a slice of th' Reno pie.}
 {516}{}{Reno's got four families: Mordinos, Salvatores, Bishops, Wrights. Each o' them got a slice of th' Reno pie.}
@@ -144,7 +144,7 @@
 {520}{}{Interesting. Thanks for talking with me.}
 {525}{}{Ain't no law, ain't no po-lice, ain't no sheriff, ain't no government body. JUST the families.}
 {527}{}{Who keeps order in Reno then?}
-{528}{}{I see. I had some other questions...}
+{528}{}{Entendo. Eu tenho outras perguntas...}
 {535}{}{The Families keep things running smooth. They don't LIKE trouble in Reno 'cause it hurts the tourist trade, and that
  means less money for them. Don't make trouble and cover yer bets, you'll stay off Golgotha.}
 {537}{}{Golgotha?}
@@ -279,7 +279,7 @@
 {988}{}{I got it ALL, and if I ain't got it, you don't want it. Shall we get down to bizness?}
 {989}{}{Sure. Let's deal.}
 {990}{}{What kind of drugs can I get in New Reno?}
-{991}{}{Not right now. I had some other questions...}
+{991}{}{Não agora. Eu tenho outras perguntas...}
 {992}{}{Actually, I'm not interested in any drugs right now. I have to be going.}
 {1005}{}{All KINDS o' shit. I got shit make you horny, make your woman horny, make you hard, make you happy, make you strong,
  make you smart... and, o course, I got THE drug, the shit that'll let you FLY... Jet.}
@@ -367,7 +367,7 @@
  Renesco the Rocketman and see how good his shit is.}
 {1251}{}{I did check with Renesco... he said you sell Jet laced with arsenic.}
 {1252}{}{Reno's a big place, Jules. Anybody else who might be responsible?}
-{1253}{}{I had some other questions...}
+{1253}{}{Eu tenho mais algumas perguntas...}
 {1254}{}{All right. I'll check him out.}
 {1270}{}{Lotta dealers in town... Lil' Jesus Mordino, maybe, but why he would sell to a Wright don't make sense. There's Jagged
  Jimmy J up on 2nd Street, north of here, but he's small time. I'd still check with Renesco, though.}
@@ -415,7 +415,7 @@
 {1385}{}{H... hey. (Smiles uneasily. His cologne slams into you like a wave.) Name's Jules. What you need, my friend, huh? A..anything?}
 {1386}{}{H... hey. Hey, welcome back! (Smiles uneasily. His cologne slams into you like a wave.) What you need from Jules, my
  friend, huh? A..anything?}
-{1389}{}{I had some questions...}
+{1389}{}{Eu tenho algumas perguntas…}
 {1390}{}{Nice cologne, Jules. I smelled it all over Cody's body. You're dead.}
 {1391}{}{Cody's dead, Jules. I'm betting you were responsible. You're dead.}
 {1405}{}{H-hey, I WISH I could help, but I don't know nothin'...look, I gotta go.}
@@ -437,7 +437,7 @@
 {1450}{}{(Glances at it.) Like a hundred others I've seen. It ain't mine, though... could be Jagged Jimmy J's or Renesco's.}
 {1451}{}{Jagged Jimmy J?}
 {1452}{}{Renesco?}
-{1453}{}{Hmmm. I had some other questions...}
+{1453}{}{Hmmm. Eu tenho outras perguntas…}
 {1470}{}{He's this dumb sonuvabitch up on 2nd Street, north of here. You can't miss him... his face is all scarred up. The
  fool was flying on Jet one night and tried to shave with a combat knife. Sad part is, it didn't KILL 'im.}
 {1471}{}{And Renesco? Where can I find him?}

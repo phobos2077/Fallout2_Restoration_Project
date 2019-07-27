@@ -8,9 +8,9 @@
 {107}{}{An intruder! Guards! Guards!}
 {108}{}{Wh-?! A mutant! Guards!}
 {109}{}{Wh-? A ghoul! Guards!}
-{110}{}{Good day, Captain.}
-{111}{}{Vault City prevails, Captain.}
-{112}{}{Good day, Citizen.}
+{110}{}{Bom dia, Capitão.}
+{111}{}{Vault City prevails, Capitão.}
+{112}{}{Bom dia, Citizen.}
 {113}{}{Vault City prevails, Citizen.}
 {114}{}{Need to send distribution charts to Sub-Amenities Offices A and B...}
 {115}{}{Need to compile the latest stock inventories and put them on the list server...}
@@ -44,14 +44,14 @@
 {143}{}{Well, never mind then.}
 {144}{}{You could go scan the Vault Central Computer, see if it has any coordinates for any other Vaults. I doubt it, but no harm in checking.}
 {145}{}{Well, if you had access to our Vault Central Computer, you might be able to find some mention of some other Vaults. But only Citizens are allowed in the Vault.}
-{146}{}{Tanks}
+{146}{}{Tanques}
 {147}{}{Mind if I ask you something else?}
 {148}{}{Obrigado pela informação.}
 {149}{}{Hey there, welcome back. Anything I can do for you?}
 {150}{}{Sure. What's on your mind?}
 {151}{}{Gechkk?}
 {152}{}{Desliga}
-{153}{}{What is this place again?}
+{153}{}{Que lugar é esse mesmo?}
 {154}{}{Do you happen to have a GECK in stock?}
 {155}{}{Valerie over at the maintenance shed could use a new wrench and some pliers.}
 {156}{}{Councilor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
@@ -115,7 +115,7 @@
 {214}{}{I'll bet. Thanks.}
 {215}{}{No problem. Plus, here... have a couple of frag grenades on me. Consider it my thanks for wiping out those raiders.}
 {216}{}{Great. Can I see what else you have in stock?}
-{217}{}{Can I ask you some other questions?}
+{217}{}{Posso fazer mais algumas perguntas?}
 {218}{}{Thanks. I'll put them to good use.}
 {219}{}{That'll do it for you, then?}
 {220}{}{Mind if I ask you some other questions?}
@@ -127,4 +127,4 @@
 {226}{}{, huh? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
 {227}{}{, right? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
 {228}{}{Obrigado.}
-{229}{}{[continue]}
+{229}{}{[continuar]}

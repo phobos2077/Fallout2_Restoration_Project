@@ -1,9 +1,9 @@
-{100}{}{You see a prisoner.}
-{101}{}{You see an outsider prisoner.}
-{102}{}{Well, that's the last time *I* skip curfew.}
-{103}{}{Another week and it's back to the Allocation Center...}
-{104}{}{Better keep on moving, friend. They see us talking, we'll both
- catch hell.}
-{105}{}{Damn Barkus, sticking me here. When I get my hands on him...}
-{106}{}{Wish I'd never come to Vault City. "Free" city... what a joke.}
-{107}{}{At least the food ain't bad.}
+{100}{}{Você vê um preso.}
+{101}{}{Você vê um preso forasteiro.}
+{102}{}{Bem, esta é a última vez que *eu* ignoro o toque de recolher.}
+{103}{}{Mais outra semana e está de volta ao Centro de Alocação...}
+{104}{}{Melhor continuar andando, amigo. Eles nos vêem conversando, nós dois
+ estamos ferrados.}
+{105}{}{Maldito Barkus, me segurando nesse lugar. Quando eu colocar minhas mãos nele...}
+{106}{}{Queria nunca ter vindo pra Vault City. Cidade "livre"... que piada.}
+{107}{}{Ao menos a comida não é ruim.}

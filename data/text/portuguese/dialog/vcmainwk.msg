@@ -33,13 +33,13 @@
 {132}{}{It's that big hole in the mountain to the east, past those two heavily-armed guards. Anything else you want to ask or can I get back to work?}
 {133}{}{O que é este lugar?}
 {134}{}{Watch it. I'm not in the mood for any bullshit today.}
-{135}{}{Thanks for the directions. Goodbye.}
+{135}{}{Obrigado pelas direções. Tchau.}
 {136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
 {137}{}{*Snfff* You big meenie... *snff*... me go sumplace n' have partee wiff clowns... *snfff*... and ice creem... and kake... and me no invit smart meen peuple like YOU!}
 {138}{}{Desliga}
 {139}{}{Get out of here. Or I'm going to summon the guards to MAKE you get out.}
 {140}{}{Try it. I'll like it.}
-{141}{}{All right, I'm leaving.}
+{141}{}{Muito bem, estou saindo.}
 {142}{}{It's the maintenance shed for Vault City. Or did you just HAPPEN to miss the huge sign on
  the side of the building?}
 {143}{}{No, sorry. I thought this might be a shop of some sort.}
@@ -73,12 +73,12 @@
 {171}{}{Oh. Well, thanks for the advice.}
 {172}{}{I won't hold my breath, but if you want to, go ahead. It's your time, not mine. I might be able to scrape together a little to pay you for your trouble.}
 {173}{}{If I find a wrench and a pair of pliers, I'll bring them by.}
-{174}{}{You do?}
+{174}{}{Você aceita?}
 {175}{}{Yeah. Here you go.}
 {176}{}{Uh... thanks. I mean, they're not great, but they'll do. Where did you... oh, never mind. It's not important. Here's a few bucks for your trouble.}
 {177}{}{Thanks. Say, I had some questions...}
 {178}{}{Maybe you can use those tools to help fix that attitude of yours.}
-{179}{}{No problem. Glad to help.}
+{179}{}{Sem problemas. Foi um prazer ajudar.}
 {180}{}{Yeah, yeah... look, I have some work to do. Come back in a day or two, all right? I'll have
  time to chat then.}
 {181}{}{See you tomorrow, then.}
@@ -148,7 +148,7 @@
 {245}{}{All right. }
 {246}{}{How about $650 instead?}
 {247}{}{Actually, could you upgrade one of my other weapons instead?}
-{248}{}{Nevermind. I wanted something else...}
+{248}{}{Esqueçe. Eu queria outra coisa...}
 {249}{}{Actually, none of them. I have to go.}
 {250}{}{Too rich for my blood. I'll be back when I have more cash.}
 {251}{}{I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...}
@@ -156,16 +156,16 @@
 {253}{}{All right, give me about an hour, and it'll be good to go...}
 {254}{}{Tudo certo.}
 {255}{}{Não que você vá. Mais alguma coisa?}
-{256}{}{I had some other questions...}
+{256}{}{Eu tenho mais algumas perguntas...}
 {257}{}{Can you upgrade anything else I have?}
 {258}{}{Nothing more, today. Thanks.}
 {259}{}{What do you... uh... Dad?}
 {260}{}{I'm sorry?}
 {261}{}{Uh, no, I'm not. I mean, I don't think so.}
 {262}{}{Dad?!}
-{263}{}{2 Seconds}
+{263}{}{2 Segundos}
 {264}{}{Valerie?! Honey, is that you?}
-{265}{}{2 Seconds}
+{265}{}{2 Segundos}
 {266}{}{Where the hell have you been?! Still running around the wastes, selling shiny junk to tribals?}
 {267}{}{4 Seconds}
 {268}{}{Uh, heh-heh... ignore her, Boss, she doesn't know what she's saying... Val, honey... you see, there were slavers and...}
@@ -175,75 +175,75 @@
 {272}{}{Valerie, honey, please... let me explain... you see...}
 {273}{}{2 Seconds, then Fade Out}
 {274}{}{... and that's how we got out of the Den.}
-{275}{}{2 Seconds}
+{275}{}{2 Segundos}
 {276}{}{What a load of brahmin crap.}
-{277}{}{2 Seconds}
+{277}{}{2 Segundos}
 {278}{}{It's the truth!}
-{279}{}{2 Seconds}
+{279}{}{2 Segundos}
 {280}{}{Don't you start. I'm glad Mom isn't here to hear this.}
-{281}{}{2 Seconds}
+{281}{}{2 Segundos}
 {282}{}{What? What happened to your mother?}
-{283}{}{2 Seconds}
+{283}{}{2 Segundos}
 {284}{}{Brain fever. Caught it out on the wastes. Probably looking for YOU.}
-{285}{}{2 Seconds}
+{285}{}{2 Segundos}
 {286}{}{Oh. I... uh... I'm sorry, Val.}
-{287}{}{2 Seconds}
+{287}{}{2 Segundos}
 {288}{}{I'm just kidding.}
-{289}{}{2 Seconds}
+{289}{}{2 Segundos}
 {290}{}{Wh -?!}
-{291}{}{2 Seconds}
+{291}{}{2 Segundos}
 {292}{}{She actually died of radiation poisoning. She drank some of the unfiltered water from the courtyard well.}
 {293}{}{4 Seconds}
 {294}{}{Wha... what?!}
-{295}{}{2 Seconds}
+{295}{}{2 Segundos}
 {296}{}{Wasn't your fault. She had too many rads running through her system for Dr. Troy to save her. She was glowing like a lamp.}
-{297}{}{2 Seconds}
+{297}{}{2 Segundos}
 {298}{}{Oh. I... well, I...}
-{299}{}{2 Seconds}
+{299}{}{2 Segundos}
 {300}{}{Don't worry. She was pretty batty before that, anyway. It was only a matter of time.}
-{301}{}{3 Seconds}
+{301}{}{3 Segundos}
 {302}{}{I'm still sorry I didn't get a chance to see her again.}
-{303}{}{2 Seconds}
+{303}{}{2 Segundos}
 {304}{}{No, you aren't. You used to call her the 'desert viper,' didn't you?}
-{305}{}{2 Seconds}
+{305}{}{2 Segundos}
 {306}{}{Well... yes. But you shouldn't call your mother th--}
-{307}{}{2 Seconds}
+{307}{}{2 Segundos}
 {308}{}{Why not? It was true. She could be an awful bitch when she wanted to be.}
-{309}{}{3 Seconds}
+{309}{}{3 Segundos}
 {310}{}{Uh... you look like you've done well for yourself. Inherited your father's knack for repairing stuff, it seems.}
 {311}{}{4 Seconds}
 {312}{}{Dad... you can barely tie your shoelaces, much less repair anything with moving parts.}
-{313}{}{3 Seconds}
+{313}{}{3 Segundos}
 {314}{}{Wh-?! The devil you say!}
-{315}{}{2 Seconds}
+{315}{}{2 Segundos}
 {316}{}{Let's ask your "boss."}
-{317}{}{2 Seconds}
+{317}{}{2 Segundos}
 {318}{}{Well... he can fix radios. And stuff.}
 {319}{}{Ub nuwb ub}
-{320}{}{2 Seconds}
+{320}{}{2 Segundos}
 {321}{}{If you give him ALL the parts, right?}
 {322}{}{I see you're traveling with people slightly smarter than you are.}
-{323}{}{2 Seconds}
-{324}{}{Well, yes.}
+{323}{}{2 Segundos}
+{324}{}{Bem, sim.}
 {325}{}{Ub nuwm ub?}
-{326}{}{2 Seconds}
+{326}{}{2 Segundos}
 {327}{}{Ha! I knew it. Sloppy, sloppy.}
 {328}{}{Your "boss" is probably better at fixing things than you are.}
-{329}{}{2 Seconds}
+{329}{}{2 Segundos}
 {330}{}{Well, Val, last I saw you, you could barely tell a lug nut from a wrench.}
-{331}{}{2 Seconds}
+{331}{}{2 Segundos}
 {332}{}{Keep it up, Dad, and you'll NEED a wrench to get my boot out of your ass.}
-{333}{}{2 Seconds}
+{333}{}{2 Segundos}
 {334}{}{Oh, yeah?! Well, "honey," you better watch it or -}
-{335}{}{2 Seconds}
+{335}{}{2 Segundos}
 {336}{}{Shut up! Shut up both of you! This has gone on LONG ENOUGH! Now, c'mon, Vic, let's get going.}
 {337}{}{UGRGHH! GO! NO MORE TALK! WE GO!}
-{338}{}{3 Seconds}
+{338}{}{3 Segundos}
 {339}{}{We'll talk later, Val.}
-{340}{}{2 Seconds}
+{340}{}{2 Segundos}
 {341}{}{Yeah, sure, Dad.}
-{342}{}{2 Seconds}
-{343}{}{Fade out for 3 Seconds}
+{342}{}{2 Segundos}
+{343}{}{Apagar-se por 3 segundos}
 {344}{}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks.}
 {345}{}{You come back here for a little peace and quiet, Mr. Big Hero?}
 {346}{}{You come back here for a little peace and quiet, Ms. Big Heroine?}

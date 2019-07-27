@@ -1,8 +1,8 @@
-{100}{}{You see a tired-looking woman.}
-{101}{}{You see Mrs. Smith.}
-{102}{}{You'll be wanting to talk to my husband.}
-{103}{}{Me and my husband thank you.}
-{104}{}{Thank you... my husband has something for you, for your troubles.}
-{105}{}{We'll be needin' that plow soon...}
-{106}{}{Get away from here before I call the guards!}
-{107}{}{You look like a nice enough sort. Could you help us with a problem?}
+{100}{}{Você vê uma mulher com aparência cansada.}
+{101}{}{Você vê a senhora Smith.}
+{102}{}{Você irá querer falar com meu marido.}
+{103}{}{Eu e meu marido te agradecemos.}
+{104}{}{Obrigado... meu marido tem algo para você, para seus problemas.}
+{105}{}{Nós vamos precisar daquele arado em breve...}
+{106}{}{Dê o fora daqui antes que eu chame os guardas!}
+{107}{}{Você parece um tipo bom o suficiente. Você poderia nos ajudar com um problema?}

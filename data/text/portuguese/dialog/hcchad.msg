@@ -28,7 +28,7 @@
  responsible for the livelihood of the town.}
 {142}{}{Eu tenho mais perguntas.}
 {143}{}{Adeus.}
-{144}{}{Like what?}
+{144}{}{Como o quê?}
 {145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
 {146}{}{Nothing really, Bye.}
 {147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}

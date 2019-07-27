@@ -38,7 +38,7 @@
 {129}{}{What can you tell me about Vault City?}
 {130}{}{What can you tell me about New Reno?}
 {131}{}{What can you tell me about the NCR?}
-{132}{}{Let me ask you about something else.}
+{132}{}{Deixa eu te perguntar outra coisa.}
 {133}{}{That's all I need to know for now. Thanks, Goodbye.}
 {134}{}{What else is a man's home? Sheesh, were you brought up in a tent or something?}
 {135}{}{Actually... I was.}
@@ -53,7 +53,7 @@
 {141}{}{What can you tell me about New Reno?}
 {142}{}{What can you tell me about the NCR?}
 {143}{}{Thanks. Let me ask you about something else.}
-{144}{}{That's all I need to know for now. Goodbye.}
+{144}{}{É tudo o que eu queria saber agora. Tchau.}
 {145}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lots of
  fighting going on there. If those families ever worked together on something, then New Reno'd really be
  a power to be reckoned with. The way it is though... Pffft. You want to get there, join up with Savinelli -
@@ -61,7 +61,7 @@
 {146}{}{What can you tell me about Vault City?}
 {147}{}{What can you tell me about the NCR?}
 {148}{}{Thanks. Let me ask you about something else.}
-{149}{}{That's all I need to know for now. Goodbye.}
+{149}{}{É tudo o que eu queria saber agora. Tchau.}
 {150}{}{The New California Republic is just full of self-righteous sons-of-bitches. They've got
  everything down their way all straightened out all right. A little too straight. They're as self
  righteous a bunch as you could ever meet. Stanwell runs a caravan from here to the NCR on the 11th of
@@ -69,7 +69,7 @@
 {151}{}{What can you tell me about Vault City?}
 {152}{}{What can you tell me about New Reno?}
 {153}{}{Thanks. Let me ask you about something else.}
-{154}{}{That's all I need to know for now. Goodbye.}
+{154}{}{É tudo o que eu queria saber agora. Tchau.}
 {155}{}{A Garden of Eden Creation Kit? I don't know for certain, 'cept I know we don't have one of them
  here. Hmm. You might try a vault. They're supposed to have all kinds of teck-no-logical stuff, ain't
  they?}
@@ -88,7 +88,7 @@
 {167}{}{Yeah, sure. Goodbye.}
 {168}{}{Well, whichever mine owner you give the chip to is gonna do real well with it. Well enough to
  put the other mine outta business.}
-{169}{}{And...?}
+{169}{}{E…?}
 {170}{}{That's called capitalism, my friend. Goodbye.}
 {171}{}{Well, if the mine you give the chip to happens to be the Kokoweef Mine, then we're gonna get a
  lot of those NCR pukes nosing around. If you give the chip to Dan McGrew over at the Morningstar, then 

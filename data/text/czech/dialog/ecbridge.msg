@@ -5,13 +5,13 @@
 {104}{}{Stát! Kdo chce pøekroèit Most Smrti, musí znát odpovìï na mé tøi otázky.}
 {105}{}{Cééé... Dééé... Eééé... Efff... Gééé}
 {106}{}{Odbelhat se.}
-{107}{}{Tak dobøe.}
+{107}{}{Tak dobrá.}
 {108}{}{Ptej se, stráèe. Nebojím se.}
 {109}{}{Myslím, e pøijdu pozdìji.}
 {110}{}{Jak se jmenuješ?}
 {111}{}{Háá... Iíí... Jéé... Káá... Ell...}
 {112}{}{?}
-{113}{}{Já} #continue at 172
+{113}{}{Já}
 {114}{}{Odbelhat se.}
 {115}{}{z Arroya.}
 {116}{}{Harry}
@@ -45,7 +45,7 @@
 {144}{}{Co tím myslíš? Poèítáš náhodná setkání jako souèást sequelu, nebo je povauješ za zvláštní události?}
 {145}{}{Co tím myslíš? NPC nebo nepøátele?}
 {146}{}{Kolik unese èlovìk se sílou 6 a perkem Silná záda?}
-{147}{}{To nevím.}
+{147}{}{To doopravdy nevím.}
 {148}{}{Eh... 200 liber?}
 {149}{}{Eh... 225 liber?}
 {150}{}{Eh... 250 liber?}
@@ -54,7 +54,7 @@
 {153}{}{Eh... 325 liber?}
 {154}{}{Kolikátého levelu perku Silná záda mùeš dosáhnout?}
 {155}{}{Jaké jsou minimální poadavky na perk Puntièkáø?}
-{156}{}{To nevím.}
+{156}{}{To doopravdy nevím.}
 {157}{}{Eh... síla pìt?}
 {158}{}{Eh... hbitost pìt?}
 {159}{}{Eh... hbitost šest?}
@@ -70,15 +70,12 @@
 {169}{}{Hráè je rozloen.}
 {170}{}{Hehe.}
 {171}{}{Z nìjakého dùvodu si myslím, e bych si mìl uloit hru na nové pozici.}
-{1171}{}{Eh, já radši uloit hra na nová pozice.}
-
 {172}{}{jak ty jmenovat?}
-
 {173}{}{Nikdy se nedostanu k tomu, abych poloil ty dobré otázky.}
 {174}{}{Budu si o tom muset promluvit se svım agentem.}
 {175}{}{Poøád mu øíkám, e musím nechat tìhlech lacinıch štìkù.}
 {176}{}{Jak si mám získat respekt, kdy jsem jenom ve filmech a videohrách s nízkım rozpoètem?}
 {177}{}{Hmmm... myslím, e bych se mìl dát na opravování aut.}
 {178}{}{Slyšel jsem, e se na tom dá dnes pìknì vydìlat.}
-
 {200}{}{Ááááááááááááááááááááá!}
+{1171}{}{Eh, já radši uloit hra na nová pozice.}

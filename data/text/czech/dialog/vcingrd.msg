@@ -5,10 +5,10 @@
 {104}{}{Je po šesté hodinì veèerní. Nejvyšší èas vrátit se na Pøedmìstí.}
 {105}{}{Dobøe. Ihned odcházím.}
 {106}{}{Dobøe. Za minutku pùjdu.}
-{107}{}{Mám ještì nìjaké vìci na vyøízení. Pùjdu, až to dokonèím.}
+{107}{}{I got things to do. I'll go when I'm ready to go.}
 {108}{}{Bubu baba!?! BUBU BABA!}
 {109}{}{No, jenom se ujistím, že dojdeš na Pøedmìstí v poøádku. Tak pojï, jdeme.}
-{110}{}{Dobøe. Jdeme.}
+{110}{}{Dobrá. Tak jdeme.}
 {111}{}{Bongo Dongo.}
 {112}{}{Dojdu tam po svých.}
 {113}{}{Promiò, ale mám svoje rozkazy. Musím tì eskortovat na druhou stranu mìstské brány.}
@@ -53,7 +53,7 @@
 {152}{}{Hej! To je ten, který porazil Enklávu!}
 {153}{}{Nazdar, gratuluju k vítìzství nad Enklávou!}
 {154}{}{Vítej ve Vault City, hrdino!}
-{155}{}{Tvùj boj proti Enklávì udìlal dojem dokonce i na První Obèanku.}
+{155}{}{Vaše bitva proti enklávì zapùsobila i na První Obèanku.}
 {156}{}{Slyšel jsem, že tvoje cesty vedly až na jih do San Francisca. Je to pravda?}
 {157}{}{Je to pravda? Opravdu vláda starého svìta vedla poøád válku?}
 {158}{}{Bylo by dobré zaznamenat své cesty do hlavního poèítaèe Vault City.}

@@ -1,1157 +1,1157 @@
 {100}{}{Leather Armor}
-{101}{}{Your basic all leather apparel. Finely crafted from tanned brahmin hide.}
+{101}{}{Uma roupa de couro. Finamente trabalhada a partir de couro curtido brahmin.}
 {200}{}{Metal Armor}
-{201}{}{Polished metal plates, crudely forming a suit of armor.}
+{201}{}{Placas de metal polido, de forma grosseira, formando uma armadura.}
 {300}{}{Power Armor}
-{301}{}{A self-contained suit of advanced technology armor. Powered by a micro-fusion reactor, with enough fuel to last a hundred years.}
-{400}{}{Knife}
-{401}{}{A sharp-bladed cutting and stabbing weapon. Min ST: 2.}
-{500}{}{Club}
-{501}{}{A military or police baton. Heavy wood. Min ST: 3.}
-{600}{}{Sledgehammer}
-{601}{}{A large hammer with big handle. Very popular with the muscular crowd. Min ST: 6.}
-{700}{}{Spear}
-{701}{}{A razor tipped polearm. The shaft is wooden, and the tip is worked steel. Min ST: 4.}
+{301}{}{Uma armadura com tecnologia avançada. Alimentado por um reator de micro-fusão, com combustível suficiente para durar cem anos.}
+{400}{}{Faca}
+{401}{}{Uma lâmina afiada feita para esfaqueamento. Min. FO: 2.}
+{500}{}{Cassetete}
+{501}{}{Um bastão de policial militar. Feito de madeira pesada. Min. FO: 3.}
+{600}{}{Marreta}
+{601}{}{Um grande martelo. Muito popular entre as pessoas fortes. Min. FO: 6.}
+{700}{}{Lança}
+{701}{}{Uma lança com a ponta bem afiada. A base é de madeira e a ponta é de aço trabalhado. Min. FO: 4. }
 {800}{}{10mm Pistol}
-{801}{}{A Colt 6520 10mm autoloading pistol. Each pull of the trigger will automatically reload the firearm until the cylinder is empty. Single shot only, using the powerful 10mm round. Min ST: 3.}
+{801}{}{Uma Colt 6520 pistola 10mm carregamento automático. Cada acionamento do gatilho recarregará automaticamente a arma de fogo até que o cilindro esteja vazio. Disparo único usando o potente círculo de 10 mm. Min. FO: 3.}
 {900}{}{10mm SMG}
-{901}{}{H&K MP9 Submachinegun (10mm variant). A medium-sized SMG, capable of single shot and burst mode. Min ST: 4.}
+{901}{}{Sub-metralhadora H & K MP9 (variante de 10mm). A SMG de tamanho médio é capaz de: dar um tiro único e possui um modo de rajada. Min. FO: 4.}
 {1000}{}{Hunting Rifle}
-{1001}{}{A Colt Rangemaster semi-automatic rifle, in .223 caliber. Single-shot only. Min ST: 5.}
+{1001}{}{Um Rifle Colt Rangemaster semi-automático, de calibre .223. Tiro Único. Min. FO: 5.}
 {1100}{}{Flamer}
-{1101}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. Min ST: 6.}
+{1101}{}{Um Lança-Chamas modelo Flambe 450. Dispara um curto líquido inflamável extremamente quente. Requer combustível especializado para funcionar corretamente. Min. FO: 6.}
 {1200}{}{Minigun}
-{1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barreled chaingun firing 5mm ammunition at over 60,000 RPM. Min ST: 7.}
+{1201}{}{Uma metralhadora pessoal Rockwell CZ53. Uma metralhadora de cano multiplo que dispara munições de 5mm a mais de 60.000 RPM. Min. FO: 7.}
 {1300}{}{Rocket Launcher}
-{1301}{}{A Rockwell BigBazooka rocket launcher. With the deluxe 3 lb. trigger. Fires AP or Explosive Rockets. Min ST: 6.}
+{1301}{}{Um lançador de foguetes Rockwell BigBazooka. Com gatilho de luxo de 3 lb. Dipara foguetes explosivos. Min. FO: 6.}
 {1400}{}{Explosive Rocket}
-{1401}{}{A rocket with a large explosive warhead.}
+{1401}{}{Um foguete com uma grande ogiva explosiva.}
 {1500}{}{Plasma Rifle}
-{1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells. Min ST: 6.}
+{1501}{}{Um rifle de plasma modelo Winchester P94. Uma arma energética de grade industrial, que dispara raios de plasma superaquecido por um supercondutor. Alimentado por células MF de micro fusão. Min FO: 6.}
 {1600}{}{Laser Pistol}
-{1601}{}{A Wattz 1000 Laser Pistol. Civilian model, so the wattage is lower than military or police versions. Uses small energy cells. Min ST: 3.}
+{1601}{}{Uma pistola laser de 1000 Wattz. Modelo civil, com potência menor do que as versões militares e da policía. Usa células PE de energia. Min FO: 3.}
 {1700}{}{Combat Armor}
-{1701}{}{High tech armor, made out of advanced defensive polymers.}
+{1701}{}{Armadura de alta tecnologia, feito de polímeros defensivas avançadas.}
 {1800}{}{Desert Eagle .44}
-{1801}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. Min ST: 4.}
-{1900}{}{Rock}
-{1901}{}{It's a rock. The Granite-Inc. model is an upgraded version. Min ST: 1.}
-{2000}{}{Crowbar}
-{2001}{}{A very solid and heavy piece of metal, specially designed to exert leverage. Or pound heads. Min ST: 5.}
+{1801}{}{Uma antiga pistola Desert Eagle, magnum .44. Participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Min. FO: 4.}
+{1900}{}{Rocha}
+{1901}{}{É uma rocha. Modelo Granite-Inc. Este modelo é uma versão atualizada. Min. FO: 1.}
+{2000}{}{Pé de cabra}
+{2001}{}{Uma peça muito sólida e pesada de metal, especialmente projetado para exercer pressão. Ou para golpear cabeças. Min. FO: 5.}
 {2100}{}{Brass Knuckles}
-{2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat. Min ST: 1.}
+{2101}{}{Aperto da junta endurecido feito de aço. Eles protegem sua mão e causam mais danos em combate desarmado. Min. FO: 1.}
 {2200}{}{14mm Pistol}
-{2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship. Min ST: 4.}
+{2201}{}{Uma pistola automática Sig-Sauer de 14mm. Uma grande arma de disparo único. Excelente artesanato. Min FO: 4.}
 {2300}{}{Assault Rifle}
-{2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high velocity 5mm rounds. Min ST: 5.}
+{2301}{}{Um rifle de assalto AK-112 de 5mm. Um modelo militar antigo, depreciado em tempos de guerra. Pode disparar um único tiro ou explosão, usando balas de 5mm de alta velocidad. Min FO: 5.}
 {2400}{}{Plasma Pistol}
-{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by a small energy cell. Min ST: 4.}
-{2500}{}{Grenade (Frag)}
-{2501}{}{A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Explodes on contact. Min ST: 3.}
-{2600}{}{Grenade (Plasma)}
-{2601}{}{A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact. Min ST: 4.}
-{2700}{}{Grenade (Pulse)}
-{2701}{}{An electromagnetic pulse grenade, generating an intense magnetic field on detonation. Doesn't affect biological creatures. Contact fuze. Min ST: 4.}
+{2401}{}{Pistola de plasma Glock 86. Desenhado pelo Gaston Glock AI. Atira um pequeno feixe de plasma superaquecido. Desenvolvido por PE células de energia. FO Min: 4.}
+{2500}{}{Granada (Frag)}
+{2501}{}{Uma granada de fragmentação genérica. Contém uma pequena quantidade de explosivos, o próprio recipiente formando a maioria dos fragmentos prejudiciais. Explode em contato. Min. FO: 3.}
+{2600}{}{Granada (Plasma)}
+{2601}{}{Uma unidade de plasma magneticamente selado, com detonação de explosivos. Criar uma rajada de plasma superaquecido em contato. FO Min: 4.}
+{2700}{}{Granada (Pulso)}
+{2701}{}{Uma granada de pulso eletromagnético gera um forte campo magnético ao detonar. Não afeta criaturas biológicas. Ele derrete em contato. FO Min: 4.}
 {2800}{}{Gatling Laser}
-{2801}{}{An H&K L30 Gatling Laser. Designed specifically for military use, these were in the prototype stage at the beginning of the War. Multiple barrels allow longer firing before overheating. Powered by Micro Fusion Cells. Min ST: 6.}
+{2801}{}{Uma Gatling Laser L30 H & K. Projetado especificamente para uso militar, estava em fase de protótipo no início da guerra. Seus multiplos barris permitem mais tiros sem superaquecimento. Desenvolvido por células de Micro Fusão. Min. FO: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-points}
+{2901}{}{Munições calibre: 10mm, ponta oca e jaqueta metálica.}
 {3000}{}{10mm AP}
-{3001}{}{Ammunition. Caliber: 10mm, armor piercing.}
+{3001}{}{Munições calibre: 10mm, perfurante.}
 {3100}{}{.44 Magnum JHP}
-{3101}{}{A brick of ammunition, .44 magnum caliber, hollow-points.}
+{3101}{}{Munições calibre: .44 Magnum, ponta oca.}
 {3200}{}{Flamethrower Fuel}
-{3201}{}{A cylinder containing an extremely flammable liquid fuel for flamethrowers.}
+{3201}{}{Um cilindro contendo um combustível líquido extremamente inflamável para lança-chamas.}
 {3300}{}{14mm AP}
-{3301}{}{Large caliber ammunition. 14mm armor piercing.}
+{3301}{}{Munições de grande calibre. 14mm perfurante.}
 {3400}{}{.223 FMJ}
-{3401}{}{A case of ammunition, .223 caliber, Full Metal Jacket.}
+{3401}{}{Uma caixa de munições calibre .223, com jaqueta metálica.}
 {3500}{}{5mm JHP}
-{3501}{}{A brick of small, lightweight ammunition. Caliber: 5mm, jacketed hollow-point.}
+{3501}{}{Uma munição pequena e ligeira. Calibre: 5mm, de ponta oca e jaqueta metálica.}
 {3600}{}{5mm AP}
-{3601}{}{A brick of small caliber ammunition. 5mm armor piercing.}
+{3601}{}{Municões de pequeno calibre. 5mm perfurante.}
 {3700}{}{Rocket AP}
-{3701}{}{A rocket shell, with a smaller explosive, but designed to pierce armor plating.}
-{3800}{}{Small Energy Cell}
-{3801}{}{A small, self-contained energy storage unit.}
-{3900}{}{Micro Fusion Cell}
-{3901}{}{A medium sized energy production unit. Self-contained fusion plant.}
+{3701}{}{Um colete com explosivo de baixa potência, desenhado para perfurar blindagens.}
+{3800}{}{Pequenas Células de Energia}
+{3801}{}{Uma pequena unidade de armazenamento de energia.}
+{3900}{}{Micro Fusão celular}
+{3901}{}{Uma unidade de produção de energia de tamanho médio. com reator de fusão autônomo.}
 {4000}{}{Stimpak}
-{4001}{}{A healing chem. When injected, the chem provides immediate healing of minor wounds.}
-{4100}{}{Money}
-{4101}{}{Legal tender for the world of the wastes.}
-{4200}{}{Fridge}
-{4201}{}{A refrigerator. Out of coolant.}
-{4300}{}{Ice Chest}
-{4301}{}{On old-style ice chest. The hinges are in good working condition.}
-{4400}{}{Ice Chest}
-{4401}{}{On old-style ice chest. The hinges are in good working condition.}
-{4500}{}{Throwing Knife}
-{4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened. Min ST: 3.}
-{4600}{}{Bag}
-{4601}{}{An average sized bag. Made from weaved brahmin hairs.}
+{4001}{}{Um produto químico de cura quando injetada, a bioquímica fornece cura imediata de pequenas feridas.}
+{4100}{}{Dinheiro}
+{4101}{}{Moeda legal para o mundo de fallout.}
+{4200}{}{Geladeira}
+{4201}{}{Uma geladeira. Sem qualquer refrigerante.}
+{4300}{}{Congelador}
+{4301}{}{Um tipo antigo de congelador. As dobradiças estão em boas condições.}
+{4400}{}{Congelador}
+{4401}{}{Um tipo antigo de congelador. As dobradiças estão em boas condições.}
+{4500}{}{Faca Arremesso}
+{4501}{}{Uma faca, projetada especificamente para arremesso. Feito de titânio e afiada a laser. Min. FO: 3.}
+{4600}{}{Bolsa}
+{4601}{}{Um saco de tamanho médio. Feita a partir de pêlos brahmin.}
 {4700}{}{Kit De Primeiros Socorros}
-{4701}{}{A small kit containing basic medical equipment. Bandages, wraps, antiseptic spray, and more.}
+{4701}{}{Um pequeno kit contendo equipamentos médicos básicos. Bandagens, gaze, spray de anti-séptico e muito mais.}
 {4800}{}{RadAway}
-{4801}{}{A chemical solution that bonds with radiation particles and passes them through your system. Takes time to work.}
-{4900}{}{Antidote}
-{4901}{}{A bottle containing a home-brewed antidote for poison. A milky liquid with floating pieces of radscorpion flesh.}
+{4801}{}{Uma solução química que elimina partículas de radiação de seus sistema. Leva tempo para fazer efeito.}
+{4900}{}{Antídoto}
+{4901}{}{Uma garrafa contendo um antídoto caseiro para o veneno. Um líquido leitoso com pedaços flutuantes de carne radscorpion.}
 {5000}{}{Reserved Item}
 {5001}{}{This is a reserved item. DO NOT USE.}
-{5100}{}{Dynamite}
-{5101}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer.}
+{5100}{}{Dinamite}
+{5101}{}{Um explosivo de alta potência, que consiste em nitroglicerina misturado com a terra de diatomáceas substância absorvente. Inclui um temporizador.}
 {5200}{}{Geiger Counter}
-{5201}{}{A Wattz Electronics C-Radz model Geiger Counter. Detects the presence and strength of radiation fields.}
+{5201}{}{Um modelo de Wattz Eletrônica C-Radz Contador Geiger. Detecta a presença e a força de campos de radiação.}
 {5300}{}{Mentats}
-{5301}{}{A pillbox of mind-altering chems. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Uma caixa de comprimidos que alteram a mente. Aumenta funções relacionadas a memória e acelera outros processos mentais. Altamente viciante.}
 {5400}{}{Stealth Boy}
-{5401}{}{A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.}
-{5500}{}{Water Chip}
-{5501}{}{This is a Vault-Tec water chip. They are typically packaged in groups of five to a box.}
-{5600}{}{Dog Tags}
-{5601}{}{A set of military dog tags. The name Dickinson and the word Enclave are barely readable.}
-{5700}{}{Bug}
-{5701}{}{A miniature microphone and transmitting device.}
-{5800}{}{Tape}
-{5801}{}{A Wattz Electronics Holodisc tape. This particular tape looks to be into very poor condition.}
-{5900}{}{Motion Sensor}
-{5901}{}{A Wattz Electronics C-U model motion sensor. Detects the movement of biological material over a distance of meters using a tuned radar device. Having one in your inventory will also help you avoid outdoor encounters (+20% Outdoorsman skill).}
-{6000}{}{Bookcase}
-{6001}{}{A wooden bookcase.}
-{6100}{}{Bookcase}
-{6101}{}{A wooden bookcase.}
-{6200}{}{Bookcase}
-{6201}{}{A wooden bookcase.}
-{6300}{}{Bookcase}
-{6301}{}{A wooden bookcase.}
-{6400}{}{Bookcase}
-{6401}{}{A wooden bookcase.}
-{6500}{}{Bookcase}
-{6501}{}{A wooden bookcase.}
-{6600}{}{Desk}
-{6601}{}{A wooden desk.}
-{6700}{}{Desk}
-{6701}{}{A wooden desk.}
-{6800}{}{Dresser}
-{6801}{}{A wooden dresser.}
-{6900}{}{Dresser}
-{6901}{}{A wooden dresser.}
-{7000}{}{Dresser}
-{7001}{}{A wooden dresser.}
-{7100}{}{Fruit}
-{7101}{}{A strange piece of fruit. No preservatives and no additional food coloring added.}
-{7200}{}{Briefcase}
-{7201}{}{A briefcase, with a Made-in-the-USA label. Leather. Good condition, but the combination lock is broken.}
-{7300}{}{Big Book of Science}
-{7301}{}{A set of books, containing information about different scientific fields.}
+{5401}{}{Um dispositivo Robco de Stealth Boy 3001 discrição pessoal. Gera um campo de modulação que transmite a luz refletida de um lado de um objeto para o outro.}
+{5500}{}{Chip de água}
+{5501}{}{Este é um chip de água Vault-Tec. Eles são tipicamente embalados em grupos de cinco unidades por caixa.}
+{5600}{}{Placas de identificação}
+{5601}{}{Um conjunto de Placas de identificação militares. O nome Dickinson e a palavra Enclave são pouco legível.}
+{5700}{}{Microfone}
+{5701}{}{Um microfone em miniatura e dispositivo de transmissão.}
+{5800}{}{Fita}
+{5801}{}{Uma fita Wattz Eletrônica Holodisc. Esta fita em particular parece estar em muito mau estado.}
+{5900}{}{Sensor de Movimento}
+{5901}{}{Um sensor de movimento modelo Wattz Electronics C-U. Detecta movimento de material biológico de uma distância de varios metros usando um dispositivo de radar sintonizado. Ter um em seu inventário também o ajudará a evitar encontros ao ar livre (20% Habilidade Sobrevivência).}
+{6000}{}{Estante}
+{6001}{}{Uma estante de madeira.}
+{6100}{}{Estante}
+{6101}{}{Uma estante de madeira.}
+{6200}{}{Estante}
+{6201}{}{Uma estante de madeira.}
+{6300}{}{Estante}
+{6301}{}{Uma estante de madeira.}
+{6400}{}{Estante}
+{6401}{}{Uma estante de madeira.}
+{6500}{}{Estante}
+{6501}{}{Uma estante de madeira.}
+{6600}{}{Escritório}
+{6601}{}{Um escritório de madeira.}
+{6700}{}{Escritório}
+{6701}{}{Um escritório de madeira.}
+{6800}{}{Cômoda}
+{6801}{}{Uma cômoda de madeira.}
+{6900}{}{Cômoda}
+{6901}{}{Uma cômoda de madeira.}
+{7000}{}{Cômoda}
+{7001}{}{Uma cômoda de madeira.}
+{7100}{}{Fruta}
+{7101}{}{Um pedaço estranho de fruta. Sem conservantes e sem corante.}
+{7200}{}{Maleta}
+{7201}{}{Uma pasta com uma etiqueta Made-in-the-EUA. De couro. Em boas condições, mas a fechadura de combinação está quebrado.}
+{7300}{}{Grande Livro de Ciências}
+{7301}{}{Um conjunto de livros, que contém informações sobre os diferentes campos científicos.}
 {7400}{}{Leather Jacket}
-{7401}{}{A black, heavy leather jacket.}
-{7500}{}{Tool}
-{7501}{}{A tool set, containing various useful tools, including pliers.}
+{7401}{}{Uma jaqueta de couro preta e pesada.}
+{7500}{}{Conjunto de ferramentas}
+{7501}{}{Um conjunto de ferramentas, que contém várias ferramentas úteis, incluindo um alicate.}
 {7600}{}{Deans Electronics}
-{7601}{}{A study book on the field of electronics. A note on the cover says that it is for the "budding young electrician in everyone!"}
-{7700}{}{Electronic Lockpick}
-{7701}{}{A Wattz Electronics Micromanipulator FingerStuff electronic lockpick. For defeating electronic locks and security devices.}
-{7800}{}{Fuzzy Painting}
-{7801}{}{An image of a singer. Obviously, very old. The image has a felt coating that is still in good condition.}
-{7900}{}{Flare}
-{7901}{}{A flare. Creates light for a short period of time. The paper is a little worn, but otherwise it is in good condition. Twist the top to activate it.}
+{7601}{}{Um livro de estudo no campo da eletrônica. Uma nota na capa diz que é para os "jovens eletricista brotando em todo o mundo!"}
+{7700}{}{Gazua Eletrônica}
+{7701}{}{Uma gazua eletrônica Micromanipulator FingerStuff de Wattz Eletrônicos. Para abrir fechaduras eletrônicas e dispositivos de segurança.}
+{7800}{}{Pintura distorcida}
+{7801}{}{Uma imagem de um cantor. Obviamente, muito antiga. A imagem tem um revestimento de feltro que ainda está em boas condições.}
+{7900}{}{Chama}
+{7901}{}{Um Flare. Cria uma luz durante um curto período de tempo. O papel está um pouco desgastado, mas está em boas condições. Gire a parte superior para ativá-lo.}
 {8000}{}{First Aid Book}
-{8001}{}{A study book on the concepts and practical use of first aid skills.}
+{8001}{}{Um livro de estudo sobre os conceitos e uso prático de técnicas de primeiros socorros.}
 {8100}{}{Iguana-on-a-stick}
-{8101}{}{A cooked iguana, roasted in its own skin.}
-{8200}{}{Key}
-{8201}{}{A key. A key will open a particular lock.}
-{8300}{}{Key Ring}
-{8301}{}{Multiple keys.}
-{8400}{}{Lockpicks}
-{8401}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks.}
+{8101}{}{Uma iguana cozida, assada em sua própria pele.}
+{8200}{}{Chave}
+{8201}{}{Uma chave. Uma chave que abrirá uma determinada fechadura.}
+{8300}{}{Chaveiro}
+{8301}{}{Várias chaves.}
+{8400}{}{Gazuas}
+{8401}{}{Um conjunto de ferramentas de serralheiro. Com tudo que é necessário para abrir fechaduras convencionais.}
 {8500}{}{Plastic Explosives}
-{8501}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer.}
+{8501}{}{Um pedaço de Cordex, uma marca militar de explosivos plásticos. Altamente instável e muito destrutivo. Inclui um temporizador.}
 {8600}{}{Scout Handbook}
-{8601}{}{A book on the methods and ideals of Scouting. Very practical information regarding outdoor life.}
+{8601}{}{Um livro sobre os métodos e ideais para exploradores. Contem informações práticas em relação à vida ao ar livre.}
 {8700}{}{Buffout}
-{8701}{}{Highly advanced steroids. While in effect, they increase strength and reflexes. Very addictive.}
-{8800}{}{Watch}
-{8801}{}{An expensive watch. Not really working, but it still looks nice.}
+{8701}{}{Esteróides altamente avançados. Quando fazem efeito aumentam a força e reflexos. Muito viciante.}
+{8800}{}{Relógio}
+{8801}{}{Um relógio caro. Na verdade nem funciona, mas parece muito bonito.}
 {8900}{}{Motor}
-{8901}{}{A 40-hp electric motor.}
-{9000}{}{Back Pack}
-{9001}{}{A basic backpack, with optional carrying straps.}
+{8901}{}{Um motor elétrico de 40-hp.}
+{9000}{}{Mochila}
+{9001}{}{Uma mochila básica, com correias de transporte opcional.}
 {9100}{}{Saco do médico}
-{9101}{}{This brown bag contains instruments and chems used by doctors in the application of their trade.}
-{9200}{}{Scorpion Tail}
-{9201}{}{The severed tail of a radscorpion.}
-{9300}{}{Bag}
-{9301}{}{An average sized bag. Made from weaved Brahmin hairs.}
+{9101}{}{Esta bolsa marrom contém instrumentos e drogas utilizados por médicos na aplicação do exercicio de sua profissão.}
+{9200}{}{Cauda de Escorpião}
+{9201}{}{Uma cauda cortada de um radscorpion.}
+{9300}{}{Bolsa}
+{9301}{}{Um saco de tamanho médio. Feita a partir de pêlos brahmin.}
 {9400}{}{Shotgun}
-{9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip. Min ST: 4.}
-{9500}{}{12 ga. Shotgun Shells}
-{9501}{}{Shotgun ammunition. This particular ammo is marked: "12-gauge shells, not for use by children under the age of 3."}
-{9600}{}{Red Pass Key}
-{9601}{}{A electronic security key, color coded red.}
-{9700}{}{Blue Pass Key}
-{9701}{}{A electronic security key, color coded blue.}
-{9800}{}{Junk}
-{9801}{}{A pile of junk parts. A little bit of everything.}
-{9900}{}{Gold Locket}
-{9901}{}{A valuable gold locket.}
-{10000}{}{Radio}
-{10001}{}{A model 2043B Radio Communicator, from the fine people at Wattz Electronics. Dependable, rugged, and camouflaged. With the optional RS-121 interface.}
-{10100}{}{Lighter}
-{10101}{}{A silver butane lighter, in good condition.}
+{9401}{}{Uma espingarda Winchester Widowmaker com cano duplo de calibre 12. Cano curto e cabo de mogno. Min FO: 4.}
+{9500}{}{12 gauge shotgun shell}
+{9501}{}{Munição de espingarda. Esta munição especial indica que: "munição 12, proibido para crianças com idade inferior a 3 anos."}
+{9600}{}{Chave de acesso Vermelho}
+{9601}{}{Uma chave de segurança eletrônica, com código de cores vermelho.}
+{9700}{}{Chave de acesso Azul}
+{9701}{}{Uma chave de segurança eletrônica, com código de cores azul.}
+{9800}{}{Sucata}
+{9801}{}{Uma pilha de peças de sucata. Um pouco de tudo.}
+{9900}{}{Medalhão de ouro}
+{9901}{}{Um medalhão de ouro valioso.}
+{10000}{}{Rádio}
+{10001}{}{Modelo 2043B Radio Communicator, de uma excelente marca Wattz Electronics. Confiável, robusto e camuflados. Com interface opcional RS-121.}
+{10100}{}{Isqueiro}
+{10101}{}{Um isqueiro de prata em bom estado.}
 {10200}{}{Guns and Bullets}
-{10201}{}{A gun rag. A magazine devoted to the practical use of firearms, and the occasional biased review.}
+{10201}{}{Uma revista dedicada ao uso prático de armas de fogo, com comentários um pouco imparcial.}
 {10300}{}{Iguana-on-a-stick}
-{10301}{}{Some charred meat and vegetables on a cooking stick.}
-{10400}{}{Tape Recorder}
-{10401}{}{A Wattz Electronics Play-It-For-Me tape recorder. Plays and records the standard 30 minute high density Record-It-Once tapes.}
-{10500}{}{Key}
-{10501}{}{A special key of some sort.}
+{10301}{}{Uma iguana cozida, assada em sua própria pele.}
+{10400}{}{Gravador de fita}
+{10401}{}{Um gravador 'Play it-for-me' de Wattz Electronics. Grava e reproduz fitas padrão de alta densidade de uma única gravação de 30 minutos.}
+{10500}{}{Chave}
+{10501}{}{Algum tipo de chave especial.}
 {10600}{}{Nuka-Cola}
-{10601}{}{A bottle of Nuka-Cola, the flavored softdrink of the post-nuclear world. Warm and flat.}
-{10700}{}{Bones}
-{10701}{}{A collection of strange bones.}
-{10800}{}{Bones}
-{10801}{}{A collection of strange bones.}
+{10601}{}{Uma garrafa de Nuka-Cola, a bebida mais saborosa do mundo pós-nuclear. É quente e sem gosto.}
+{10700}{}{Ossos}
+{10701}{}{Uma coleção de ossos estranhos.}
+{10800}{}{Ossos}
+{10801}{}{Uma coleção de ossos estranhos.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation chems to be taken before exposure. No known side effects.}
+{10901}{}{Produto químico Anti-radiação deve ser tomado antes da exposição. Não apresenta efeitos colaterais.}
 {11000}{}{Psycho}
-{11001}{}{An unique delivery system filled with strange and unknown chemicals of probably military origin. It is supposed to increase the combat potential of a soldier.}
+{11001}{}{Um elemento único com produtos químicos estranhos e desconhecidos, provavelmente de origem militar. Supõe-se que é para aumentar a potencial de combate de um soldado.}
 {11100}{}{.44 magnum FMJ}
-{11101}{}{A brick of ammunition, .44 magnum caliber, full metal jacket.}
-{11200}{}{Urn}
-{11201}{}{A beautiful golden urn, with the name "Harriet" inscribed on the front and ashes inside.}
+{11101}{}{Munição de calibre .44 para magnum, com jaqueta metálica.}
+{11200}{}{Urna}
+{11201}{}{Uma bonita urna dourada com o nome de "Harriet" inscrito na parte da frente e de cor cinzas no interior.}
 {11300}{}{Robes}
-{11301}{}{Worn-looking robes.}
+{11301}{}{Vestes usadas para o futuro.}
 {11400}{}{Tangler's Hand}
-{11401}{}{A cybernetic manipulator, in the shape and form of a hand. Damaged due to the sloppy nature of the removal process.}
+{11401}{}{Um manipulador cibernética, na forma e forma de uma mão. Danificado devido à natureza malfeita do processo de remoção.}
 {11500}{}{Super Sledge}
-{11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback. Min ST: 5.}
+{11501}{}{Um Super Martelo Forjado pela Irmandade do aço, utilizando a tecnologia mais fina disponível. Inclui um dispositivo de armazenamento de energia cinética, para aumentar ricochete. Min. FO: 5.}
 {11600}{}{Ripper}
-{11601}{}{A Ripper(tm) vibroblade. Powered by a small energy cell, the chainblade rips and tears into it's target. Min ST: 4.}
-{11700}{}{Flower}
-{11701}{}{A beautiful flower.}
+{11601}{}{Uma vibração da lâmina Ripper(tm). Células PE alimentados com energia, a maquina destripa e rasga seu alvo. FO Min: 4.}
+{11700}{}{Flor}
+{11701}{}{Uma bonita flor.}
 {11800}{}{Laser Rifle}
-{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range. Min ST: 6.}
-{11900}{}{Necklace}
-{11901}{}{An expensive looking necklace, made from silver, gold and pressed diamonds.}
+{11801}{}{Um rifle laser Wattz 2000. Usa celuas de micro fusão para um laser mais potente e um cano estendido para maior alcance. Min FO: 6.}
+{11900}{}{Colar}
+{11901}{}{Um colar que aparenta ser muito caro, feito de prata, ouro e diamantes.}
 {12000}{}{Alien Blaster}
-{12001}{}{A strange gun of obviously alien origin. Looks like it can support small energy cells, however. Min ST: 2.}
+{12001}{}{Uma arma estranha de origem obviamente alienígena. Parece que pode suportar pequenas células de energia. Min. FO: 2.}
 {12100}{}{9mm ball}
-{12101}{}{A collection of ancient 9x19mm rounds. Heavy grease to preserve them from the environment. Standard bullets.}
+{12101}{}{Uma coleção de antigas balas 9x19mm. Contem um monte de graxa para preservá-los do ambiente. Balas padrão.}
 {12200}{}{9mm Mauser}
-{12201}{}{A Mauser M/96, in 9x19mm Parabellum. In excellent condition. Extremely accurate. Min ST: 3.}
+{12201}{}{Uma Mauser M/96, em 9x19mm Parabellum. Em excelente estado de conservação. Extremamente preciso. Min. FO: 3.}
 {12300}{}{Psychic Nullifier}
-{12301}{}{A strange device, constructed from an odd technology.}
-{12400}{}{Beer}
-{12401}{}{Some type of home brewed beer.}
-{12500}{}{Booze}
-{12501}{}{An ancient liquor, from the pre-War era.}
-{12600}{}{Water Flask}
-{12601}{}{A container for the holding and preservation of water or other liquids.}
-{12700}{}{Rope}
-{12701}{}{A strong, thick line. About 45 feet in length.}
-{12800}{}{Footlocker}
-{12801}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{12900}{}{Footlocker}
-{12901}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{13000}{}{Footlocker}
-{13001}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{13100}{}{Footlocker}
-{13101}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{13200}{}{Locker}
-{13201}{}{A storage container.}
-{13300}{}{Locker}
-{13301}{}{A storage container.}
-{13400}{}{Locker}
-{13401}{}{A storage container.}
-{13500}{}{Locker}
-{13501}{}{A storage container.}
-{13600}{}{Locker}
-{13601}{}{A storage container.}
-{13700}{}{Locker}
-{13701}{}{A storage container.}
-{13800}{}{Locker}
-{13801}{}{A storage container.}
-{13900}{}{Locker}
-{13901}{}{A storage container.}
-{14000}{}{Access Card}
-{14001}{}{A security access card. Still in working condition.}
-{14100}{}{COC Badge}
-{14101}{}{A badge in the shape of the Children of the Cathedral symbol. On one side you notice bumps and indentations, almost reminding you of a key.}
-{14200}{}{COC Badge}
-{14201}{}{A badge in the shape of the Children of the Cathedral symbol. On one side you notice bumps and indentations, almost reminding you of a key.}
+{12301}{}{Uma estranho aparelho, construído a partir de uma estranha tecnologia.}
+{12400}{}{Cerveja}
+{12401}{}{Algum tipo de cerveja caseira.}
+{12500}{}{Licor}
+{12501}{}{Um licor antigo de antes da grande guerra.}
+{12600}{}{Cantil}
+{12601}{}{Um cantil que mantem e preserva água e outros líquidos.}
+{12700}{}{Corda}
+{12701}{}{Uma corda forte e fina. Cerca de 45 metros de comprimento.}
+{12800}{}{Baú}
+{12801}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{12900}{}{Baú}
+{12901}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{13000}{}{Baú}
+{13001}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{13100}{}{Baú}
+{13101}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{13200}{}{Armário}
+{13201}{}{Uma contêiner de armazenamento.}
+{13300}{}{Armário}
+{13301}{}{Uma contêiner de armazenamento.}
+{13400}{}{Armário}
+{13401}{}{Uma contêiner de armazenamento.}
+{13500}{}{Armário}
+{13501}{}{Uma contêiner de armazenamento.}
+{13600}{}{Armário}
+{13601}{}{Uma contêiner de armazenamento.}
+{13700}{}{Armário}
+{13701}{}{Uma contêiner de armazenamento.}
+{13800}{}{Armário}
+{13801}{}{Uma contêiner de armazenamento.}
+{13900}{}{Armário}
+{13901}{}{Uma contêiner de armazenamento.}
+{14000}{}{Cartão de Acesso}
+{14001}{}{Um cartão de acesso de segurança. Ainda funcional.}
+{14100}{}{Insígnia}
+{14101}{}{Um emblema na forma de um símbolo das Crianças da Catedral. De um lado você nota umas saliências e recortes que lembra de uma chave.}
+{14200}{}{Insígnia}
+{14201}{}{Um emblema na forma de um símbolo das Crianças da Catedral. De um lado você nota umas saliências e recortes que lembra de uma chave.}
 {14300}{}{Sniper Rifle}
-{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber. Min ST: 5.}
+{14301}{}{Um rifle franco-atirador DKS-501. Uma excelente arma de longo alcance. Originalmente de calibre .308, mas foi modificado para um calibre mais comum .223. Min FO: 5.}
 {14400}{}{Super Stimpak}
-{14401}{}{An advanced healing chem. Very powerful. Superstims will cause a small amount of damage after a period of time due to the powerful nature of the chemicals used.}
-{14500}{}{Bookshelf}
-{14501}{}{A wooden bookshelf.}
-{14600}{}{Bookshelf}
-{14601}{}{A wooden bookshelf.}
-{14700}{}{Bookshelf}
-{14701}{}{A wooden bookshelf.}
-{14800}{}{Bookshelf}
-{14801}{}{A wooden bookshelf.}
-{14900}{}{Bookshelf}
-{14901}{}{A wooden bookshelf.}
-{15000}{}{Bookshelf}
-{15001}{}{A wooden bookshelf.}
-{15100}{}{Shelves}
-{15101}{}{A set of wooden shelves.}
-{15200}{}{Shelves}
-{15201}{}{A set of wooden shelves.}
-{15300}{}{Shelves}
-{15301}{}{A set of wooden shelves.}
-{15400}{}{Shelves}
-{15401}{}{A set of wooden shelves.}
-{15500}{}{Shelves}
-{15501}{}{A set of wooden shelves.}
-{15600}{}{Shelves}
-{15601}{}{A set of wooden shelves.}
-{15700}{}{Workbench}
-{15701}{}{A workbench. Yep, your standard old, run of the mill, workbench. Looks nice sitting there, too.}
-{15800}{}{Tool Board}
-{15801}{}{This board holds a variety of tools above the popular workbench.}
-{15900}{}{Molotov Cocktail}
-{15901}{}{A home-made flammable grenade. Min ST: 3.}
+{14401}{}{Um avançado produto químico de cura. Muito poderoso. Super Stimpak irá causar uma pequena quantidade de danos após um período de tempo, devido à natureza potente dos produtos químicos utilizados.}
+{14500}{}{Prateleiras}
+{14501}{}{Uma prateleira de madeira.}
+{14600}{}{Prateleiras}
+{14601}{}{Uma prateleira de madeira.}
+{14700}{}{Prateleiras}
+{14701}{}{Uma prateleira de madeira.}
+{14800}{}{Prateleiras}
+{14801}{}{Uma prateleira de madeira.}
+{14900}{}{Prateleiras}
+{14901}{}{Uma prateleira de madeira.}
+{15000}{}{Prateleiras}
+{15001}{}{Uma prateleira de madeira.}
+{15100}{}{Estantes}
+{15101}{}{um grupo de estantes de madeira.}
+{15200}{}{Estantes}
+{15201}{}{um grupo de estantes de madeira.}
+{15300}{}{Estantes}
+{15301}{}{um grupo de estantes de madeira.}
+{15400}{}{Estantes}
+{15401}{}{um grupo de estantes de madeira.}
+{15500}{}{Estantes}
+{15501}{}{um grupo de estantes de madeira.}
+{15600}{}{Estantes}
+{15601}{}{um grupo de estantes de madeira.}
+{15700}{}{Bancada de trabalho}
+{15701}{}{Uma mesa de trabalho. Sim, a velha e popular mesa de trabalho de toda a vida. Esse conjunto também parece ser bom.}
+{15800}{}{Placa de ferramentas}
+{15801}{}{Esta placa se comparado a mesa de trabalho contem uma variedade bem maior de ferramentas.}
+{15900}{}{Coquetel Molotov}
+{15901}{}{Uma granada inflamável caseira. Min. FO: 3.}
 {16000}{}{Cattle Prod}
-{16001}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. Uses small energy cells for power. Min ST: 4.}
+{16001}{}{Um aparelho de tocar o gado modelo 'O melhor amigo do fazendeiro', de Wattz Electronics. Utiliza céluas PE de energia. Min FO: 4.}
 {16100}{}{Red Ryder BB Gun}
-{16101}{}{A Red Ryder BB gun. The classic. Min ST: 3.}
+{16101}{}{Uma espingarda Red Ryder BB. Clássica. Min. FO: 3.}
 {16200}{}{Red Ryder LE BB Gun}
-{16201}{}{A limited edition version of the Red Ryder BB gun. A true classic. Min ST: 3.}
+{16201}{}{Uma edição limitada da espingarda Red Ryder BB. Um verdadeiro clássico. Min FO: 3.}
 {16300}{}{BB's}
-{16301}{}{A package of BB's from before the war. In excellent condition. Stainless steel.}
-{16400}{}{Brotherhood Tape}
-{16401}{}{A holodisc from regarding the Brotherhood of Steel.}
+{16301}{}{Um pacote de BB de antes da guerra. Em excelente estado de conservação. Em aço inoxidável.}
+{16400}{}{Fita de Brotherhood}
+{16401}{}{Um disco da Irmandade do aço.}
 {16500}{}{Iguana Stand}
-{16501}{}{The home of Bob's Iguana Bits. What's not to love about fresh-roasted iguana?}
-{16600}{}{Table}
-{16601}{}{A generic table. Holds stuff off the ground.}
-{16700}{}{Table}
-{16701}{}{A generic table. Holds stuff off the ground.}
-{16800}{}{Stuff}
-{16801}{}{These are miscellaneous items, also known as "stuff".}
-{16900}{}{Stuff}
-{16901}{}{These are miscellaneous items, also known as "stuff".}
-{17000}{}{Stuff}
-{17001}{}{These are miscellaneous items, also known as "stuff".}
-{17100}{}{Stuff}
-{17101}{}{These are miscellaneous items, also known as "stuff".}
-{17200}{}{Stuff}
-{17201}{}{These are miscellaneous items, also known as "stuff".}
-{17300}{}{Stuff}
-{17301}{}{These are miscellaneous items, also known as "stuff".}
-{17400}{}{Stuff}
-{17401}{}{These are miscellaneous items, also known as "stuff".}
-{17500}{}{Stuff}
-{17501}{}{These are miscellaneous items, also known as "stuff".}
-{17600}{}{Stuff}
-{17601}{}{These are miscellaneous items, also known as "stuff".}
-{17700}{}{Stuff}
-{17701}{}{These are miscellaneous items, also known as "stuff".}
-{17800}{}{Stuff}
-{17801}{}{These are miscellaneous items, also known as "stuff".}
-{17900}{}{Stuff}
-{17901}{}{These are miscellaneous items, also known as "stuff".}
-{18000}{}{Crate}
-{18001}{}{A wooden crate filled with generic stuff.}
-{18100}{}{Desk}
-{18101}{}{A generic desk. Seen one desk, you've seen them all.}
-{18200}{}{Desk}
-{18201}{}{A generic desk.}
-{18300}{}{Desk}
-{18301}{}{A generic desk.}
-{18400}{}{Desk}
-{18401}{}{A generic desk.}
-{18500}{}{Desk}
-{18501}{}{A generic desk.}
-{18600}{}{Desk}
-{18601}{}{A generic desk.}
-{18700}{}{Desk}
-{18701}{}{A generic desk.}
-{18800}{}{Locker}
-{18801}{}{A locker.}
-{18900}{}{Locker}
-{18901}{}{A locker.}
-{19000}{}{FEV Disk}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
-{19100}{}{Security Disk}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{16501}{}{A casa de picadinhos de Iguana de Bob. Quem ão gosta de iguanas frescas e assadas?}
+{16600}{}{Mesa}
+{16601}{}{Uma mesa simples. Mantém coisas longe do chão.}
+{16700}{}{Mesa}
+{16701}{}{Uma mesa simples. Mantém coisas longe do chão.}
+{16800}{}{Coisas}
+{16801}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{16900}{}{Coisas}
+{16901}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17000}{}{Coisas}
+{17001}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17100}{}{Coisas}
+{17101}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17200}{}{Coisas}
+{17201}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17300}{}{Coisas}
+{17301}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17400}{}{Coisas}
+{17401}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17500}{}{Coisas}
+{17501}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17600}{}{Coisas}
+{17601}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17700}{}{Coisas}
+{17701}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17800}{}{Coisas}
+{17801}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{17900}{}{Coisas}
+{17901}{}{Estes são itens diversos, também conhecido como "Coisas".}
+{18000}{}{Engradado}
+{18001}{}{Uma caixa de engradado de madeira com objetos simples.}
+{18100}{}{Escritório}
+{18101}{}{Uma mesa de escritório simples. Quem ja viu um, ja viu todos.}
+{18200}{}{Escritório}
+{18201}{}{Um simples escritório.}
+{18300}{}{Escritório}
+{18301}{}{Um simples escritório.}
+{18400}{}{Escritório}
+{18401}{}{Um simples escritório.}
+{18500}{}{Escritório}
+{18501}{}{Um simples escritório.}
+{18600}{}{Escritório}
+{18601}{}{Um simples escritório.}
+{18700}{}{Escritório}
+{18701}{}{Um simples escritório.}
+{18800}{}{Armário}
+{18801}{}{Uma bilheteria.}
+{18900}{}{Armário}
+{18901}{}{Uma bilheteria.}
+{19000}{}{Disco FEV}
+{19001}{}{Um disco com informações médicas. Se pode usar para inserir informações em seu PIPBoy.}
+{19100}{}{Disco de Segurança}
+{19101}{}{Um disco etiquetado como "Registro de segurança". Pode usa-lo para transferir os dados que contem para seu PIPBoy.}
 {19200}{}{Alpha Experiment Disk}
-{19201}{}{The label on this holotape reads: "Alpha Experiment Log"}
+{19201}{}{A etiqueta deste disco diz: "Registro de experimento Alpha".}
 {19300}{}{Delta Experiment Disk}
-{19301}{}{The label on this holotape reads: "Delta Experiment Log"}
+{19301}{}{A etiqueta deste disco diz: "Registro de experimento Delta".}
 {19400}{}{Vree's Experiment Disk}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
-{19500}{}{Brotherhood Honor Code}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
-{19600}{}{Mutant Transmissions}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
-{19700}{}{Box}
-{19800}{}{Box}
-{19900}{}{Box}
-{20000}{}{Box}
-{20100}{}{Box}
-{20200}{}{Box}
-{20300}{}{Box}
-{20400}{}{Box}
-{20500}{}{Flare}
-{20501}{}{A flare. Creates light for a short period of time. The paper is a little worn, but otherwise it is in good condition. It is lit.}
-{20600}{}{Dynamite}
-{20601}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer, which is ticking.}
+{19401}{}{Este disco foi atualizado com dados médicos Vree da Irmandade do aço. Você pode usá-lo para transferir dados para o Pip-Boy.}
+{19500}{}{Código de Honra Brotherhood}
+{19501}{}{Um disco com um símbolo parecido com a Irmandade do aço. Use o disco para transferir os dados para o seu PipBoy.}
+{19600}{}{Transmissões de mutante}
+{19601}{}{Este disco parece que foi configurado para gravar dados de áudio de um rádio. Use-o para transferir as informações para o seu PipBoy.}
+{19700}{}{Caixa}
+{19800}{}{Caixa}
+{19900}{}{Caixa}
+{20000}{}{Caixa}
+{20100}{}{Caixa}
+{20200}{}{Caixa}
+{20300}{}{Caixa}
+{20400}{}{Caixa}
+{20500}{}{Chama}
+{20501}{}{Um flare cria uma luz durante um curto período de tempo. O papel é um pouco desgastado, mas está em boas condições. Ele está iluminado.}
+{20600}{}{Dinamite}
+{20601}{}{Um explosivo de alta potência, que consiste em nitroglicerina misturado com a terra de diatomáceas substância absorvente. Inclui um temporizador, que está fazendo tic-tac.}
 {20700}{}{Geiger Counter}
-{20701}{}{A Wattz Electronics C-Radz model Geiger Counter. Detects the presence and strength of radiation fields. It is on.}
-{20800}{}{Motion Sensor}
-{20801}{}{A Wattz Electronics C-U model motion sensor. Detects the movement of biological material over a distance of meters using a tuned radar device. It is on.}
+{20701}{}{Um modelo de Wattz Eletrônica C-Radz Contador Geiger. Detecta a presença e a força de campos de radiação. Está ligado!}
+{20800}{}{Sensor de Movimento}
+{20801}{}{Um sensor de movimento modelo Wattz Electronics C-U. Detecta movimento de material biológico de uma distância de varios metros usando um dispositivo de radar sintonizado. Está ligado!}
 {20900}{}{Plastic Explosives}
-{20901}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer, which is ticking.}
+{20901}{}{Um pedaço de Cordex, uma marca militar de explosivos plásticos. Altamente instável e muito destrutivo. Inclui um temporizador, porque está fazendo tic-tac.}
 {21000}{}{Stealth Boy}
-{21001}{}{A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.}
-{21100}{}{Bones}
-{21101}{}{You see Ed. Ed's dead.}
+{21001}{}{Um dispositivo Robco de Stealth Boy 3001 discrição pessoal. Gera um campo de modulação que transmite a luz refletida de um lado de um objeto para o outro.}
+{21100}{}{Ossos}
+{21101}{}{Você vê Ed. E Ed está morto.}
 {21200}{}{Tandi}
-{21201}{}{You are bartering for Tandi's release.}
-{21300}{}{Remains of Gizmo}
-{21301}{}{Gizmo, former crime boss of Junktown, is dead. And pretty stinky, too.}
-{21400}{}{Desk}
-{21401}{}{A desk. After further observation, you decide that it is still a desk.}
-{21500}{}{Brotherhood History}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
-{21600}{}{Maxson's History}
-{21700}{}{Maxson's Journal}
+{21201}{}{Você está negociando a libertação de Tandi.}
+{21300}{}{Restos de Gizmo}
+{21301}{}{Gizmo, ex-chefe do crime de Junktown, está morto. E bastante fedorento.}
+{21400}{}{Escritório}
+{21401}{}{Uma mesa de trabalho. Depois de observar detalhadamente você decide que ainda é uma mesa.}
+{21500}{}{História de Brotherhood}
+{21501}{}{Um disco contendo informações relativas a Irmandade do aço. Pode ser usado para inserir informações em seu PipBoy 2000.}
+{21600}{}{História de Maxson}
+{21700}{}{Diário de Maxson}
 {21800}{}{Light Healing}
-{21801}{}{Barter for this option if you want light healing.}
+{21801}{}{Negocie esta opção para uma cura rapida.}
 {21900}{}{Medium Healing}
-{21901}{}{Barter for this option if you want medium healing.}
+{21901}{}{Negocie esta opção para uma cura mediana.}
 {22000}{}{Heavy Healing}
-{22001}{}{Barter for this option if you want lots of care and heavy healing.}
-{22100}{}{Security Card}
-{22101}{}{A keycard with a security level encoded within it's very simple electronics.}
-{22200}{}{Field Switch}
-{22201}{}{An electronic transmission device, with a very simple, and large, toggle button. It looks like it was recently made and designed for very large hands.}
-{22300}{}{Yellow Pass Key}
-{22301}{}{An electronic security key, color coded yellow.}
-{22400}{}{Small Statuette}
-{22401}{}{You think this might be a carving of the "Pip-Boy" but you can't be sure.}
+{22001}{}{Negocie esta opção se você quiser uma série de cuidados e cura intensa.}
+{22100}{}{Cartão de Segurança}
+{22101}{}{Um cartão de acesso com um nível de segurança codificado com uma tecnologia muito simples.}
+{22200}{}{Interruptor}
+{22201}{}{Um dispositivo de transmissão eletrônica, com um botão muito simples e um grande interruptor. Parece que foi criado recentemente e projetado para mãos muito grandes.}
+{22300}{}{Chave de acesso Amarelo}
+{22301}{}{Uma chave de segurança eletrônica, com código de cores amarelo.}
+{22400}{}{Pequena Estatueta}
+{22401}{}{Você acha que isso pode ser uma escultura do "Pip Boy", mas você não ter certeza.}
 {22500}{}{Cat's Paw Magazine}
-{22501}{}{An issue of Cat's Paw magazine.}
-{22600}{}{Box Of Noodles}
-{22601}{}{You have no idea what "Instant Spaghetti" means.}
-{22700}{}{Small Dusty Box Of Some Sort}
-{22701}{}{A television dinner. You're not sure, but it's definitely not edible. You're not quite sure if it ever was.}
-{22800}{}{Technical Manual}
-{22801}{}{A technical repair manual on the T-51b Power Armor.}
-{22900}{}{Small Piece Of Machinery}
-{22901}{}{Some mechanical component for a machine. If a machine is missing one of these, then it's a safe bet it isn't working properly.}
+{22501}{}{Uma edição da revista Cat's Paw.}
+{22600}{}{Caixa de macarrão}
+{22601}{}{Você não tem idéia do que significa "Espaguetes instantâneos".}
+{22700}{}{Pequena caixa empoeirada de algo}
+{22701}{}{Você não tem certeza, mas definitivamente não é comestível. Você não tem certeza se ele sempre foi assim.}
+{22800}{}{Manual Técnico}
+{22801}{}{Um manual de reparações técnicas de armaduras T-51b.}
+{22900}{}{Pequeno pedaço de Máquinas}
+{22901}{}{Algum componente mecânico para uma máquina. Em alguma máquina está faltando um destes, então ela não deve esta funcionando corretamente.}
 {23000}{}{Vault Records}
-{23001}{}{A compendium of events and important recordings from a Vault computer system. Possibly damaged.}
-{23100}{}{Military Base Security Code}
+{23001}{}{Um resumo de eventos e gravações importantes de um sistema de computador Vault. Possivelmente danificado.}
+{23100}{}{Código de Segurança da Base Militar}
 {23101}{}{}
 {23200}{}{Hardened Power Armor}
-{23201}{}{A suit of T-51b Power Armor. The hardening process has improved the defensive capability of this high-tech armor system.}
+{23201}{}{Um traje de armadura T-51b. O processo de endurecimento tem melhorado a capacidade defensiva desta armadura de alta tecnologia.}
 {23300}{}{Turbo Plasma Rifle}
-{23301}{}{A modified Winchester P94 plasma rifle. The plasma bolt chamber has been hotwired to accelerate the bolt formation process. Min ST: 6.}
+{23301}{}{Um rifle de plasma modificado Winchester P94. A câmara de parafuso plasma foi modificado para acelerar o processo de formação de raio. Min. FO: 6.}
 {23400}{}{Spiked Knuckles}
-{23401}{}{An improved version of the classic Brass Knuckles. The Spiked Knuckles do more damage, tearing into the flesh of your opponent in unarmed combat. Min ST: 1.}
+{23401}{}{Uma versão melhorada do Clássico Brass Knuckles. O Spiked Knuckles faz mais danos, rasgando a carne de seu oponente em um combate desarmado. Min. FO: 1.}
 {23500}{}{Power Fist}
-{23501}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. Others are just scared. Powered by small energy cells. Min ST: 1.}
-{23600}{}{Combat Knife}
-{23601}{}{A high-quality combat knife, the Stallona is from SharpWit, Inc. The edge of this blade is guaranteed sharp for over a decade of use! Min ST: 2.}
-{23700}{}{Chemistry Journals}
-{23701}{}{A random pile of literature regarding the field of Chemistry. The papers on Molecular Chemistry are particularly interesting.}
-{23800}{}{Regulator Transmission}
-{23801}{}{A holotape recording of an audio transmission.}
+{23501}{}{Um Punho de energia de BeatCo. Considerada por muitos como a melhor arma de uso em combate desarmado. As outras apenas assustam. Desenvolvido por células de energia de pequeno porte. Min. FO: 1.}
+{23600}{}{Faca de combate}
+{23601}{}{Uma faca de combate de alta qualidade de SharpWit Inc. Esta lâmina afiada tem garantia de uso por mais de uma década! Min. FO: 2.}
+{23700}{}{Revistas de química}
+{23701}{}{Uma pilha aleatória de literatura sobre a área de Química. As revistas  de Química Molecular são particularmente interessantes.}
+{23800}{}{Regulador de Transmissão}
+{23801}{}{Uma disco com gravação de uma transmissão de áudio.}
 {23900}{}{Brotherhood Armor}
-{23901}{}{A superior version of Combat Armor. The Brotherhood of Steel have made many improvements over the standard version.}
+{23901}{}{Uma versão superior de Armadura de combate. A Irmandade de Aço fez muitas melhorias em relação à versão padrão.}
 {24000}{}{Tesla Armor}
-{24001}{}{This shining armor provides superior protection against energy attacks. The three Tesla Attraction Coil Rods disperse a large percentage of directed energy attacks.}
+{24001}{}{Esta brilhante armadura oferece uma proteção superior contra ataques de energia. As três bobinas de atração dissipam uma grande percentagem de ataques de energia.}
 {24100}{}{.223 Pistol}
-{24101}{}{A .223 rifle modified and cut down to a pistol. This is a one-of-a-kind firearm, obviously made with love and skill. Min ST: 5.}
+{24101}{}{Uma rifle .223 modificado e modelado como pistola. Trata-se de uma arma única, obviamente feita com carinho e habilidade. Min FO: 5.}
 {24200}{}{Combat Shotgun}
-{24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional DesertWarfare environmental sealant modification for extra reliability. Min ST: 5.}
-{24300}{}{Pot}
-{24301}{}{A finely crafted clay pot.}
-{24400}{}{Pot}
-{24401}{}{A finely crafted clay pot.}
-{24500}{}{Chest}
-{24501}{}{A wooden chest.}
-{24600}{}{Shelf}
-{24601}{}{A wood shelf with miscellaneous items.}
-{24700}{}{Shelf}
-{24701}{}{A wood shelf with miscellaneous items.}
-{24800}{}{Pot}
-{24801}{}{A finely crafted clay pot.}
-{24900}{}{Pot}
-{24901}{}{A finely crafted clay pot.}
-{25000}{}{Bones}
-{25001}{}{A pile of human bones.}
-{25100}{}{Anna's Bones}
-{25101}{}{These bones seem unsettled.}
-{25200}{}{Anna's Gold Locket}
-{25201}{}{This well-worn golden locket opens to reveal a charming picture.}
-{25300}{}{Fuel Cell Controller}
-{25301}{}{This chip controls the flow of power into a car's electric engines. Many drivers quickly burnt out this chip through frequent rapid acceleration. Still a valuable part to have-- if you only had a car to install it in.}
-{25400}{}{Fuel Cell Regulator}
-{25401}{}{Some car-owners installed this regulator, which doubles your car's mileage between charges, but most drivers didn't care how much juice their cars consumed, after all, power's cheap and plentiful so why worry?}
+{24201}{}{Uma espingarda de combate Winchester City-Killer de calibre 12. Em excelentes condições, com um selante ambiental opcional DesertWarfare para maior confiabilidade. Min. FO: 5.}
+{24300}{}{Vaso}
+{24301}{}{Um simples vaso artesanal de barro.}
+{24400}{}{Vaso}
+{24401}{}{Um simples vaso artesanal de barro.}
+{24500}{}{Cofre}
+{24501}{}{Um cofre de madeira}
+{24600}{}{Estante}
+{24601}{}{Uma estante de madeira com varios objetos.}
+{24700}{}{Estante}
+{24701}{}{Uma estante de madeira com varios objetos.}
+{24800}{}{Vaso}
+{24801}{}{Um simples vaso artesanal de barro.}
+{24900}{}{Vaso}
+{24901}{}{Um simples vaso artesanal de barro.}
+{25000}{}{Ossos}
+{25001}{}{Um monte de ossos humanos.}
+{25100}{}{Ossos de Anna}
+{25101}{}{Estes ossos parecem instáveis.}
+{25200}{}{Medalhão de ouro de Anna}
+{25201}{}{Este medalhão de ouro se abre para revelar um encantador retrato.}
+{25300}{}{Controlador de Célula de Combustível}
+{25301}{}{Este chip controla o fluxo de energia em motores elétricos de um carro. Muitos motoristas queimam rapidamente este chip através de uma aceleração freqüente e rápida. É uma peça muito valiosa... Só precisa de um veículo para instalá-lo.}
+{25400}{}{Regulador de Células de Combustível}
+{25401}{}{Alguns proprietários de veículos instalam este controlador, que dobra a quilometragem do seu carro entre as cargas, mas muitos motoristas não se preocupam com o alto consumo de combustível, afinal de contas, a energia é barata e abundante, então não há necessidade de se preocupar.}
 {25500}{}{Day Pass}
-{25501}{}{This slightly crumpled piece of paper grants you access to all areas of Vault City, except the Vault itself, during daylight hours only.}
-{25600}{}{False Citizenship Papers}
-{25601}{}{This is a set of false Citizenship Papers. They look authentic enough, but you doubt they could pass a serious inspection.}
-{25700}{}{Cornelius' Gold Watch}
-{25701}{}{This is an ancient time-piece known as a pocket watch. Time ran out for this keepsake, many long years ago.}
-{25800}{}{Hydroelectric Part}
-{25801}{}{This is a Hydroelectric Magnetosphere Regulator.}
+{25501}{}{Este pedaço de papel amassado te concede acesso a todas as áreas de Vault City, funciona somente no próprio Vault, apenas durante o dia.}
+{25600}{}{Documentos falsos de Cidadania}
+{25601}{}{Uns documentos falsos de cidadania. Eles parecem bastante autênticos, mas duvido que eles passariam por uma inspeção séria.}
+{25700}{}{Relógio de ouro de Cornelius}
+{25701}{}{Este é um peça antiga de medir o tempo chamada de relógio de bolso. E faz tempo que a vida se acabou para este objeto.}
+{25800}{}{Objeto Hidrelétrico}
+{25801}{}{Este é um regulador Hidrelétrico Magnetosferico.}
 {25900}{}{Jet}
-{25901}{}{Jet is a powerful methamphetamine that stimulates the central nervous system. The initial euphoric rush rarely lasts more than a few minutes, but during that time, the user is filled with a rush of energy & strength.}
-{26000}{}{Jet Antidote}
-{26001}{}{This antidote cures the reliant effects of Jet.}
+{25901}{}{Jet é uma poderosa metanfetamina que estimula o sistema nervoso central. A euforia inicial raramente dura mais do que alguns minutos, mas durante esse tempo, o usuário é preenchido com uma onda de energia e força.}
+{26000}{}{Antídoto de Jet}
+{26001}{}{Este antídoto curar os efeitos da dependência de Jet.}
 {26100}{}{Jonny's BB Gun}
-{26101}{}{A Red Ryder BB gun with the name 'Jonny' scratched on the stock. Min ST: 3.}
-{26200}{}{Rubber Boots}
-{26201}{}{An old pair of sturdy rubber work boots. They look durable enough to keep out sludge, at least for a while.}
-{26300}{}{Slag Message}
-{26301}{}{This is a message from the leader of the Slags to the townspeople of Modoc.}
-{26400}{}{Smith's Cool Item}
-{26401}{}{LONG DESCRIPTION HERE.}
+{26101}{}{Uma espingarda Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
+{26200}{}{Botas de borracha}
+{26201}{}{Um velho par de botas de borracha. Parece durável o suficiente para impedir a entrada de resíduos, ao menos por um tempo.}
+{26300}{}{Mensagem de Escória}
+{26301}{}{Isto é uma mensagem do líder dos Escórias para os cidadãos de Modoc.}
+{26400}{}{Objeto legal de Smith}
+{26401}{}{LONGA DESCRIÇÃO AQUI.}
 {26500}{}{Combat Leather Jacket}
-{26501}{}{This heavily padded leather jacket is unusual in that it has two sleeves. You'll definitely make a fashion statement whenever, and wherever, you rumble.}
-{26600}{}{Vic's Radio}
-{26601}{}{This hand-held radio doesn't work but it looks as though it's still in pretty good condition. Some of its parts could probably be salvaged for use in other radios.}
-{26700}{}{Vic's Water Flask}
-{26701}{}{This relic of the Vault was probably used to contain some sacred sacrament. The Holy number 13 is emblazoned on the side of this precious link to your people's past, and hopeful future.}
+{26501}{}{Esta jaqueta de couro fortemente acolchoadas é incomum, pois tem duas mangas. Definitivamente você vai fazer um desfile de moda quando e onde você quiser e vai arrasar.}
+{26600}{}{Rádio de Vic}
+{26601}{}{Este rádio portátil parece não funcionar, mas ainda está em bom estado. Algumas de suas peças provavelmente poderiam ser utilizadas para outros rádios.}
+{26700}{}{Cantil de Vic}
+{26701}{}{Esta relíquia do Vault foi provavelmente usado para algum sacramento sagrado. O sagrado número 13 estampado em um lado desse frasco mantem um vínculo precioso com o passado de seu povo e um futuro esperançoso.}
 {26800}{}{H&K CAWS}
-{26801}{}{The CAWS, short for Close Assault Weapons System, shotgun is a useful tool for close-range combat. The bullpup layout gives the weapon a short, easily handleable, length while still retaining enough barrel length for its high velocity shells. Min ST: 6.}
-{26900}{}{Robot Parts}
-{26901}{}{A pile of damaged robot parts.}
+{26801}{}{O CAWS, é uma abreviatura de Close Assault Weapons System, é uma espingarda útil para combates de curto alcançe. Arma projeta para um manuseio simples e curto, mas seu cano é bastante longo para disparar em alta velocidade. FO Min: 6.}
+{26900}{}{Peças de robô}
+{26901}{}{Uma pilha de peças de robô danificadas.}
 {27000}{}{Robo Rocket Launcher}
-{27001}{}{Only used by rocket equipped robots.}
+{27001}{}{Somente usado por robôs equipados com foguetes.}
 {27100}{}{Broc Flower}
-{27101}{}{The plentiful flower that forms the base for the powder of healing.}
+{27101}{}{Uma flor abundante que forma a base para um pó de cura.}
 {27200}{}{Xander Root}
-{27201}{}{The rare root that gives healing properties to the powder of healing.}
+{27201}{}{Uma raiz rara que dá para as propriedades curativas de pó de cura.}
 {27300}{}{Cura Em Pó}
-{27301}{}{A very powerful healing magic- though it will bring the feeling of sleep to your head.}
+{27301}{}{Um poderoso pó mágico de cura, embora vai causar sonolência.}
 {27400}{}{Robo Rocket Ammo}
-{27401}{}{Only used by rocket equipped robots.}
-{27500}{}{Trophy of Recognition}
-{27501}{}{A solid gold trophy with the inscription "To: Dave, From: DC's, For: Being a Special Person."}
-{27600}{}{Gecko Pelt}
-{27601}{}{This is the dried and cured hide of a Gecko.}
-{27700}{}{Golden Gecko Pelt}
-{27701}{}{This is the dried and cured hide of a Golden Gecko.}
-{27800}{}{Flint}
-{27801}{}{A stone used to sharpen weapons.}
-{27900}{}{Neural Interface}
-{27901}{}{It appears to be a set of electrodes built into a head unit with a standard computer interface plug. It's broken, however.}
+{27401}{}{Somente usado por robôs equipados com foguetes.}
+{27500}{}{Troféu de Reconhecimento}
+{27501}{}{Um troféu de ouro maciço com a inscrição "Para: Dave, De: DC de, por: Ser uma pessoa especial."}
+{27600}{}{Pele de Gecko}
+{27601}{}{Esta é a pele seca e endurecida de um gecko.}
+{27700}{}{Pele de Gecko dourado}
+{27701}{}{Esta é a pele seca e endurecida de um gecko dourado.}
+{27800}{}{Pederneira}
+{27801}{}{Uma pedra usada para afiar armas.}
+{27900}{}{Interface neural}
+{27901}{}{Parece ser um conjunto de eletrodos integrados em um capacete com uma interface de encaixe padrão para computadores.}
 {28000}{}{Sharpened Spear}
-{28001}{}{A razor tipped polearm. The shaft is wooden, and the tip is sharpened steel. Min ST: 4.}
-{28100}{}{Dixon's Eye}
-{28101}{}{A small jar containing a human eye suspended in some kind of liquid. The label says Corporal Dixon.}
-{28200}{}{Clifton's Eye}
-{28201}{}{A small jar containing a human eye suspended in some kind of liquid. The label says General Clifton.}
+{28001}{}{Um cabo de madeira com uma ponta de aço afiada. Min. FO: 4.}
+{28100}{}{Olho de Dixon}
+{28101}{}{Um pequeno frasco contendo um olho humano suspenso em algum tipo de líquido. O rótulo diz Corporal Dixon.}
+{28200}{}{Olho de Clifton}
+{28201}{}{Um pequeno frasco contendo um olho humano suspenso em algum tipo de líquido. O rótulo diz Geral Clifton.}
 {28300}{}{Tommy Gun}
-{28301}{}{This Thompson M1928 submachine gun is a sinister looking weapon; every time you hold it, you have an urge to put on a fedora hat and crack your knuckles. The Thompson is well-fed by a large 50 round drum magazine. Min ST: 6.}
+{28301}{}{Esta é uma metralhadora Thompson M1928 uma arma de aparencia sinistra; A Thompson tem um grande tambor que cabe 50 balas. Min. FO: 6.}
 {28400}{}{Meat Jerky}
-{28401}{}{These smoked and dried chunks of beast-flesh remain chewy-licious and even somewhat nutritious for years, and years, and years....}
+{28401}{}{Esses pedaços defumados e secos de carne de besta humana parece ser comestível e até mesmo um pouco nutritivo durante anos, e anos e anos...}
 {28500}{}{Radscorpion Limbs}
-{28501}{}{These Radscorpion pincers are hollowed out and have a strap with a broken buckle at the end.}
-{28600}{}{Firewood}
-{28601}{}{A pile of firewood and kindling.}
+{28501}{}{Estas garras de Radscorpion estão vazias e têm uma cinta com uma fivela quebrada no final.}
+{28600}{}{Lenha}
+{28601}{}{Uma pilha de gravetos e Lenha.}
 {28700}{}{Scoped Hunting Rifle}
-{28701}{}{Nothing's better than seeing that surprised look on your target's face. The Loophole x20 Scope on this hunting rifle makes it easier than ever before. Accurate from first shot to last, no matter what kind of game you're gunning for. Min ST: 5.}
-{28800}{}{Car Fuel Cell}
-{28801}{}{A car fuel cell.}
-{28900}{}{Shovel}
-{28901}{}{This is a shovel for digging ditches and stuff.}
+{28701}{}{Nada é melhor do que ver Aquele olhar surpreso no rosto de seu alvo. A mira x20 neste rifle de caça torna mais fácil do que nunca. Precisa do primeiro ao último tiro, não importa em que você está atirando. FO Min 5.}
+{28800}{}{Célula de combustível}
+{28801}{}{Célula de combustível para carro.}
+{28900}{}{Pá}
+{28901}{}{Esta é uma pá para cavar e outras coisas.}
 {29000}{}{Robo Melee Weapon 1}
-{29001}{}{For Floating Eye Robot. Does Electrical Damage.}
+{29001}{}{Para robôs. Causa danos Elétricos.}
 {29100}{}{Robo Melee Weapon 2}
-{29101}{}{For Floating Eye Robot. Does Electrical damage.}
-{29200}{}{Boxing Gloves}
-{29201}{}{A pair of boxing gloves that smell faintly of sweat. They look like they have seen a lot of use: many old blood stains still remain.}
-{29300}{}{Plated Boxing Gloves}
-{29301}{}{Someone has "accidentally" slipped metal plates into these boxing gloves. It could technically be considered cheating, but you prefer to think of it as an increased opportunity to dispense bone-crunching damage.}
+{29101}{}{Para robôs. Causa danos Elétricos.}
+{29200}{}{Luvas de boxe}
+{29201}{}{Um par de luvas de boxe que cheiram levemente a suor. Elas parecem muito usadas: muitas e velhas manchas de sangue ainda permanecem.}
+{29300}{}{Luvas de Boxe Chapada}
+{29301}{}{Alguém "acidentalmente" deixou cair placas de metal nestas luvas de boxe. Poderia ser tecnicamente considerado trapaça, mas prefiro pensar nisso como uma oportunidade para quebrar ossos.}
 {29400}{}{Vault 13 Holodisk}
-{29401}{}{A holodisk which supposedly has the location of Vault 13.}
+{29401}{}{Um holodisk que supostamente contem a localização do Vault 13.}
 {29500}{}{Cheezy Poofs}
-{29501}{}{A box of cheese flavored puffs. They are extremely good.}
+{29501}{}{Uma caixa de bolinhas com sabor de queijo. Eles são muito bons.}
 {29600}{}{H&K P90c}
-{29601}{}{The Heckler & Koch P90c was just coming into use at the time of the war. The weapon's bullpup layout, and compact design, make it easy to control. The durable P90c is prized for its reliability, and high firepower in a ruggedly-compact package. Min ST: 4.}
-{29700}{}{Metal Pole}
-{29701}{}{It's a long metal pole. What did you expect?}
-{29800}{}{Trapper Town Key}
-{29801}{}{A standard key.}
+{29601}{}{A Heckler & Koch P90c era muito usada na época da guerra. Seu designer compacto a torna mais facil de controlar.  A durável P90c é valorizada pela sua confiabilidade e alto poder de fogo, robusto e compacto. Min. FO: 4}
+{29700}{}{Barra de metal}
+{29701}{}{É uma barra de metal. O que você esperava?}
+{29800}{}{Chave do Bairro dos caçadores}
+{29801}{}{Uma chave normal.}
 {29900}{}{Pipe Rifle}
-{29901}{}{This is a hand-made single shot rifle. Min ST: 5.}
+{29901}{}{Este é um rifle feito à mão, de tiro único. Min. FO: 5.}
 {30000}{}{Zip Gun}
-{30001}{}{A handmade single shot pistol. Min ST: 4.}
-{30100}{}{Clipboard}
-{30101}{}{This is a clipboard with the coolant report.}
+{30001}{}{Uma pistola feita à mão, de tiro único. Min. FO: 4.}
+{30100}{}{Prancheta}
+{30101}{}{Esta é uma prancheta com um relatório do sistema de refrigeração.}
 {30200}{}{Gecko Holodisk}
-{30201}{}{The label on this holotape reads: "Gecko Economic Data." It's difficult to interpret most of the technical charts, tables, and formulae here, but the majority of the information seems to highlight the advantages of a Vault City -- Gecko alliance.}
+{30201}{}{A etiqueta neste holodisco diz: "Dados econômicos de Gecko". É difícil interpretar a maioria dos gráficos técnicos, as tabelas e fórmulas que contem, mas a maioria das informações parece destacar as vantagens de uma parceria entre Vault City e Gecko.}
 {30300}{}{Reactor Holodisk}
-{30301}{}{The label on this holotape reads: "Gecko Reactor Performance Data." This disk contains a string of numbers that mean nothing to you. There sure is a lot of information here and it must be important to someone, somehow.}
-{30400}{}{Deck of "Tragic" Cards}
-{30401}{}{This is a deck of cards for a collectible card game. Looks like it could be an expensive hobby if you got hooked.}
-{30500}{}{Yellow Reactor Keycard}
-{30501}{}{An electronic security key, color coded yellow.}
-{30600}{}{Red Reactor Keycard}
-{30601}{}{An electronic security key, color coded red.}
-{30700}{}{Plasma Transformer}
-{30701}{}{This is a Three-step Plasma Transformer.}
-{30800}{}{Super Tool Kit}
-{30801}{}{An impressive tool set made by "Snap-Off".}
-{30900}{}{Talisman}
-{30901}{}{A talisman which is worn by followers of The Brain.}
+{30301}{}{A etiqueta neste holodisco diz: "Dados de rendimento do reator de Gecko". Este disco contém uma seqüência de números que não significam nada para você. De alguma forma, está certo de que muita das informações aqui devem ser importante para alguém.}
+{30400}{}{Um jogo de cartas "Tragic"}
+{30401}{}{Um baralho de um jogo de cartas colecionáveis. Parece ser um hobby caro.}
+{30500}{}{Cartão de Acesso Amarelo do Reator}
+{30501}{}{Uma chave de segurança eletrônica, com código de cores amarelo.}
+{30600}{}{Cartão de Acesso Vermelho do Reator}
+{30601}{}{Uma chave eletrônica de segurança, código de cores vermelho.}
+{30700}{}{Transformador de Plasma}
+{30701}{}{Isto é um transformador trifásico de plasma.}
+{30800}{}{Kit Super Ferramenta}
+{30801}{}{Um conjunto de ferramentas impressionante feita por "Snap-Off".}
+{30900}{}{Talismã}
+{30901}{}{Um talismã que é usado por seguidores de cérebro.}
 {31000}{}{Gamma Gulp Beer}
-{31001}{}{A bottle of Gamma Gulp beer. It glows in the dark!}
+{31001}{}{Uma garrafa de cerveja radioativa. Brilha no escuro!}
 {31100}{}{Roentgen Rum}
-{31101}{}{A bottle of Roentgen rum. It glows in the dark!}
-{31200}{}{Part Requisition Form}
-{31201}{}{This is a Part Requisition Request form.}
+{31101}{}{Uma garrafa de Rum Roentgen. Brilha no escuro!}
+{31200}{}{Formulário de solicitação de peças}
+{31201}{}{Isto é um formulário de solicitação de peças.}
 {31300}{}{.44 Magnum Revolver}
-{31301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. Do I feel lucky? Well, do ya punk?. Min ST: 5.}
-{31400}{}{Condom (Blue Package)}
-{31401}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one is ribbed for her pleasure.}
-{31500}{}{Condom (Green package)}
-{31501}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one contains phosphorous green dye #2 and is slathered in spermicidal lubricant for added protection.}
-{31600}{}{Condom (Red Package)}
-{31601}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one contains phosphorous red dye #5 and has a yummy cinnamon bun flavor... or so you heard.}
-{31700}{}{Cosmetics Case}
-{31701}{}{This is a genuine Mary May brand cosmetics case.}
-{31800}{}{Empty Hypodermic}
-{31801}{}{This is an empty hypodermic.}
-{31900}{}{Switchblade}
-{31901}{}{The blade of this small knife is held by a spring. When a button on the handle is pressed, the blade shoots out with a satisfying "Sssssshk" sound. Min ST: 1.}
-{32000}{}{Sharpened Pole}
-{32001}{}{A wood pole sharpened at one end. Min ST: 4.}
-{32100}{}{Cybernetic Brain}
-{32101}{}{A human brain that has been enhanced by the addition of electronic and robotic attachments.}
-{32200}{}{Human Brain}
-{32201}{}{A typical human brain. Normally they are found in human skulls. Yuck.}
-{32300}{}{Chimpanzee Brain}
-{32301}{}{A monkey brain. It's soft and squishy.}
-{32400}{}{Abnormal Brain}
-{32401}{}{Quite possibly a human brain. The color doesn't seem quite right and the left hemisphere of the brain has caved in on itself.}
-{32500}{}{Dice}
-{32501}{}{A standard pair of gambling dice. It'd be cool to get a fuzzy pair for your car.}
-{32600}{}{Loaded Dice}
-{32601}{}{A pair of loaded dice. Don't be flashing these around the casino.}
-{32700}{}{Easter Egg}
-{32701}{}{This is a hard boiled chicken egg painted with colored dyes.}
-{32800}{}{Magic 8-Ball}
-{32801}{}{This black sphere is some strange precognitive device... a small window on the top seems to be able to predict the future! Pre-war humanity must have been geniuses to invent such a wonder!}
-{32900}{}{Mutagenic Serum}
-{32901}{}{A strange organic concoction that could possibly reverse the Mutation Factor in humans.}
-{33000}{}{Crashed Verti-Bird}
-{33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
+{31301}{}{Sendo que esta é a arma mais poderosa do mundo, capaz de explodir sua cabeça. Min. FO: 5.}
+{31400}{}{Preservativo (pacote azul)}
+{31401}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este é com nervuras para um maior prazer.}
+{31500}{}{Preservativo (pacote verde)}
+{31501}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este contém corante verde #2 e está coberto de lubrificante espermicida para proteção adicional.}
+{31600}{}{Preservativo (pacote vermelho)}
+{31601}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este contém corante vermelho #5 e tem um sabor delicioso de canela.}
+{31700}{}{Estojo Cosmético}
+{31701}{}{Este é um autêntico estojo Cosmético da marca Mary Kay.}
+{31800}{}{Seringa vazia}
+{31801}{}{Uma seringa vazia.}
+{31900}{}{Canivete}
+{31901}{}{A lâmina desta pequena faca funciona através de uma mola. Quando se pressiona um botão no punho, a lâmina se ejeta com um som "Sssssshk". Min. FO: 1.}
+{32000}{}{Estaca Afiada}
+{32001}{}{Uma estaca de madeira bem afiada. Min FO: 4.}
+{32100}{}{Cérebro Cibernético}
+{32101}{}{Um cérebro humano que foi reforçado com acessórios eletrônicos e robóticos.}
+{32200}{}{Cérebro Humano}
+{32201}{}{Um cérebro humano normal. Normalmente eles são encontrados em crânios humanos. Eca!}
+{32300}{}{Cérebro Chimpanzé}
+{32301}{}{Um cérebro de macaco. É macio e mole.}
+{32400}{}{Cérebro anormal}
+{32401}{}{Muito possivelmente um cérebro humano. A cor não parece muito certo e o hemisfério esquerdo do cérebro tem um buraco.}
+{32500}{}{Dados}
+{32501}{}{Um par de dados de jogo normal. Seria genial levar um par desses para o seu carro.}
+{32600}{}{Dados carregados}
+{32601}{}{Um par de dados carregados. Não utilizar estes no casino.}
+{32700}{}{Ovo de Páscoa}
+{32701}{}{Isso é um duro ovo de galinha pintado com tinta de diversas cores.}
+{32800}{}{Bola 8 mágica}
+{32801}{}{Esta esfera preta é algum tipo de dispositivo precognitivo estranho ... uma pequena janela no topo parece ser capaz de prever o futuro! A humanidade de antes da guerra devem ter sido gênios de inventar tal maravilha!}
+{32900}{}{Soro mutagênico}
+{32901}{}{Uma mistura orgânica estranha que poderia reverter a mutação em seres humanos.}
+{33000}{}{Verti-Bird Estragado}
+{33001}{}{Restos de um vertibird. Parece que bateu aqui meses atrás.}
 {33100}{}{Cat's Paw Issue #5}
-{33101}{}{This is the hard to find Issue 5 of Cat's Paw magazine. The pictures aside, this issue has a wonderful article on energy weapons.}
+{33101}{}{Este é muito difícil de se encontrar, edição #5 da revista Cat's Paw. As fotos de lado mostram que tem um maravilhoso artigo sobre armas de energia.}
 {33200}{}{M3A1 "Grease Gun" SMG}
-{33201}{}{This submachine gun filled National Guard arsenals after the Army replaced it with newer weapons. However, the "Grease Gun" was simple and cheap to manufacture so there are still quite a few still in use. Min ST: 4.}
-{33300}{}{Heart Pills}
-{33301}{}{These pills are used by people with heart problems.}
+{33201}{}{Esta metralhadora cheia arsenais da Guarda Nacional depois que o Exército a substituiu por armas mais recentes. No entanto, a "Grease Gun" era simples e barato de fabricar assim, há muito poucas em uso. Min. FO: 4.}
+{33300}{}{Pílulas de coração}
+{33301}{}{Estas pílulas são usados por pessoas com problemas de coração.}
 {33400}{}{Veneno}
-{33401}{}{A hypodermic needle full of powerful poison.}
-{33500}{}{Moore's Briefcase}
-{33501}{}{Thomas Moore asked you to take this brahmin hide briefcase to the Bishop family in New Reno. It is securely locked, and you can't seem to open it.}
-{33600}{}{Moore's Briefcase}
-{33601}{}{Thomas Moore asked you to take this brahmin hide briefcase to the Bishop family in New Reno. It is securely locked, and you can't seem to open it.}
+{33401}{}{Uma agulha hipodérmica cheia de veneno poderoso.}
+{33500}{}{Maleta de Moore}
+{33501}{}{Thomas Moore pediu para você levar esta maleta de pele de brahmin para à família Bishop em New Reno. Ela tem uma fechadura de segurança e você não consegue abri-la.}
+{33600}{}{Maleta de Moore}
+{33601}{}{Thomas Moore pediu para você levar esta maleta de pele de brahmin para à família Bishop em New Reno. Ela tem uma fechadura de segurança e você não consegue abri-la.}
 {33700}{}{Lynette Holodisk}
-{33701}{}{This is the holodisk you got from Lynette.}
+{33701}{}{Este é o holodisco que Lynette te deu.}
 {33800}{}{Westin Holodisk}
-{33801}{}{This is the holodisk you got from Westin.}
+{33801}{}{Este é o holodisco que Westin te deu.}
 {33900}{}{NCR Spy Holodisk}
-{33901}{}{This holodisk contains reports of NCR caravan schedules and security information. It's addressed to Darion and signed "F". With this info, it's easy to see how the raiders have avoided capture.}
-{34000}{}{Doctor's Papers}
-{34001}{}{A set of very detailed plans for a Cybernetic Canine Guard Unit. With this and the right facilities, a person just might be able to build a robo-dog.}
-{34100}{}{Presidential Pass}
-{34101}{}{The bearer of this document is Security Clearance A-Prime as authorized by the authority of the President of the New California Republic. It's signed by President Tandi.}
-{34200}{}{Ranger Pin}
-{34201}{}{This pin says you're an official New California Ranger. Look -- it's got a code wheel and everything!}
-{34300}{}{Ranger's Map}
-{34301}{}{A map of the surrounding area -- it won't help you much -- but there are code names on it for the Ranger safe houses in the north.}
-{34400}{}{Gravesite}
-{34500}{}{Gravesite}
-{34600}{}{Gravesite}
-{34700}{}{Gravesite}
+{33901}{}{Este holodisk contém relatórios da NCR, horários de caravanas e informações de segurança. É dirigida a Darion e assinado como "F". Com esta informação, é fácil entender como os saqueadores evitam ser capturados.}
+{34000}{}{Documentos do Doutor}
+{34001}{}{Um conjunto de planos muito detalhado para uma Unidade Canina Cibernética de Guarda. Com estas informações e habilidades adequadas uma pessoa pode ser capaz de construir um cão robo.}
+{34100}{}{Passe Presidencial}
+{34101}{}{O portador deste documento dispõe de um passe de segurança classe-A, conforme autorizado pelo Presidente da New California Republic. Esta assinado pelo presidente Tandi.}
+{34200}{}{Insígnia Ranger}
+{34201}{}{Esta insígnia indica que é um Ranger de New California. Veja -- tem uma roda de códigos e tudo!}
+{34300}{}{Mapa dos Rangers}
+{34301}{}{Um mapa da área ao redor (ele não vai te ajudar muito), mas tem nomes em código para os esconderijos dos Rangers ao norte.}
+{34400}{}{Túmulo}
+{34500}{}{Túmulo}
+{34600}{}{Túmulo}
+{34700}{}{Túmulo}
 {34701}{}{}
 {34800}{}{Advanced Power Armor}
-{34801}{}{This powered armor is composed of lightweight metal alloys, reinforced with ceramic castings at key points. The motion-assist servo-motors appear to be high quality models as well.}
+{34801}{}{Esta armadura potênte é composta por ligas metálicas leves, reforçadas com peças fundidas de cerâmica em pontos-chave. Os servo-motores ajudam no movimento, também parecem ser modelos de alta qualidade.}
 {34900}{}{Adv. Power Armor MKII}
-{34901}{}{This powered armor appears to be composed of entirely of lightweight ceramic composites rather than the usual combination of metal and ceramic plates. It seems as though it should give even more protection than the standard Advanced Power Armor.}
+{34901}{}{Esta armadura motorizada parece estar completamente pronta com compostos leves de cerâmicas, em vez de uma combinação habitual de metal e placas de cerâmica. Parece que ela deve dar ainda mais proteção do que Advanced Power Armor.}
 {35000}{}{Bozar}
-{35001}{}{The ultimate refinement of the sniper's art. Although, somewhat finicky and prone to jamming if not kept scrupulously clean, the big weapon's accuracy more than makes up for its extra maintenance requirements. Min ST: 6.}
+{35001}{}{O aperfeiçoamento da arte do franco-atirador. Embora, um pouco meticuloso e propenso a interferência se não for mantida rigorosamente limpas, a grande precisão deste rifle compensa os seus requisitos de manutenção extra. Min. FO: 6.}
 {35100}{}{FN FAL}
-{35101}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. Min ST: 5.}
+{35101}{}{Este rifle foi mais utilizado pelas forças armadas do que qualquer outro rifle na história. É uma arma de assalto confiável para qualquer tipo de terreno ou situação tática. Min. FO: 5.}
 {35200}{}{H&K G11}
-{35201}{}{This gun revolutionized assault weapon design. The weapon fires a caseless cartridge consisting of a block of propellant with a bullet buried inside. The resultant weight and space savings allow this weapon to have a very high magazine capacity. Min ST: 5.}
+{35201}{}{Esta arma revolucionou o design arma de assalto. A arma dispara um cartucho constituído por um bloco de propulsor com uma bala no interior. O peso e a economia de espaço resultantes permitem a esta arma ter uma capacidade muito alta de carga. Min. FO: 5.}
 {35300}{}{XL70E3}
-{35301}{}{This was an experimental weapon at the time of the war. Manufactured, primarily, from high-strength polymers, the weapon is almost indestructible. It's light, fast firing, accurate, and can be broken down without the use of any tools. Min ST: 5.}
+{35301}{}{Esta foi uma arma experimental na época da grande guerra. Fabricada principalmente com resistentes polímeros, a arma é praticamente indestrutível. É leve, dispara rápidamente, precisa e pode ser desarmada sem usar qualquer ferramenta. Min. FO: 5.}
 {35400}{}{Pancor Jackhammer}
-{35401}{}{The Jackhammer, despite its name, is an easy to control shotgun, even when fired on full automatic. The popular bullpup design, which places the magazine behind the trigger, makes the weapon well balanced & easy to control. Min ST: 5.}
+{35401}{}{Uma britadeira, apesar do nome, é um fácil de controlar, mesmo no modo de disparo automático. O seu designer foi projetado no estilo bullpup, quando se coloca o dedo no gatilho faz com que a arma fique equilibrada e fácil de controlar. FO Min 5.}
 {35500}{}{Light Support Weapon}
-{35501}{}{This squad-level support weapon has a bullpup design. The bullpup design makes it difficult to use while lying down. Because of this it was remanded to National Guard units. It, however, earned a reputation as a reliable weapon that packs a lot of punch for its size. Min ST: 6.}
-{35600}{}{Computer Voice Module}
-{35601}{}{A circuit board with several unidentifiable parts, a microphone, and an inscription that reads "Vault-Tec Voice Recognition Module."}
+{35501}{}{Esta arma de nível esquadrão de apoio tem um design bullpup. O design bullpup torna a arma difícil de ser usada enquanto deitado. Por isso, foi devolvido para as unidades da Guarda Nacional. Ela, no entanto, ganhou uma reputação como uma arma confiável com boa potência para o seu tamanho. Min. FO: 6.}
+{35600}{}{Módulo de Voz para computador}
+{35601}{}{Uma placa de circuito com várias peças não identificáveis??, um microfone e uma inscrição que diz "Vault-Tec módulo de reconhecimento de voz."}
 {35700}{}{.45 Caliber}
-{35701}{}{Ammunition. .45 Caliber.}
+{35701}{}{Munições calibre .45.}
 {35800}{}{2mm EC}
-{35801}{}{Ammunition.}
+{35801}{}{Munições.}
 {35900}{}{4.7mm Caseless}
-{35901}{}{Ammunition. Caliber: 4.7mm, caseless.}
+{35901}{}{Munições calibre: 4.7mm, caseless.}
 {36000}{}{9mm}
-{36001}{}{Ammunition. Caliber: 9mm.}
+{36001}{}{Munições calibre: 9mm.}
 {36100}{}{HN Needler Cartridge}
-{36101}{}{Ammunition. This cartridge appears to be ammo for the HN Needler Pistol. Each 'bullet' is a small hypodermic designed to inject a target with its contents upon impact.}
+{36101}{}{Munições. Este cartucho parece ser munição para "HN Needler Pistol". Cada 'bala' é uma pequena seringa projetada para injetar seu conteúdo no momento do impacto.}
 {36200}{}{HN AP Needler Cartridge}
-{36201}{}{Ammunition. This cartridge appears to be armor-piercing ammo for the HN Needler Pistol. The hypodermic tips are made of a strange alloy and are incredibly sharp.}
+{36201}{}{Munições. Este cartucho parece ser munição que penetra em blindagens para "HN Needler Pistol". As pontas das seringas são feitas de uma liga estranha e são incrivelmente afiadas.}
 {36300}{}{7.62mm}
-{36301}{}{Ammunition. Caliber: 7.62mm.}
+{36301}{}{Munições calibre: 7.62mm.}
 {36400}{}{Robot Motivator}
-{36401}{}{This is the drive mechanism for a robot.}
-{36500}{}{Plant Spike}
-{36501}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers.}
+{36401}{}{Este é o mecanismo de comando de um robô.}
+{36500}{}{Espinho de Planta}
+{36501}{}{Um espinho de planta orgânica, as plantas carnívoras cospem sobre seus alvos de alimentos ou sementes.}
 {36600}{}{G.E.C.K.}
-{36601}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir.}
-{36700}{}{Ammo Crate}
-{36800}{}{Ammo Crate}
-{36900}{}{Ammo Crate}
-{37000}{}{Ammo Crate}
-{37100}{}{Claw}
-{37101}{}{Claw}
-{37200}{}{Claw}
-{37201}{}{Claw}
-{37300}{}{Vault 15 Keycard}
-{37301}{}{An electronic security key, color coded red.}
-{37400}{}{Gravesite}
-{37500}{}{Gravesite}
-{37600}{}{Gravesite}
-{37700}{}{Vault 15 Computer Parts}
-{37701}{}{Miscellaneous computer parts with various functions. A computer geek's dream.}
-{37800}{}{Cookie}
-{37801}{}{A chocolate chip cookie. Yum!}
+{36601}{}{Kit de Criação do Jardim do Éden. Este é um equipamento padrão para todos os refúgios Vault-Tec. O GECK é uma fonte de reconstrução da civilização depois da bomba. Basta adicionar água e mexer.}
+{36700}{}{Caixa de munição}
+{36800}{}{Caixa de munição}
+{36900}{}{Caixa de munição}
+{37000}{}{Caixa de munição}
+{37100}{}{Garra}
+{37101}{}{Garra}
+{37200}{}{Garra}
+{37201}{}{Garra}
+{37300}{}{Cartão de Acesso Vault 15}
+{37301}{}{Uma chave eletrônica de segurança, código de cores vermelho.}
+{37400}{}{Túmulo}
+{37500}{}{Túmulo}
+{37600}{}{Túmulo}
+{37700}{}{Peças do computador de Vault 15}
+{37701}{}{Diversas peças de computador com várias funções. O sonho de um nerd de computador.}
+{37800}{}{Biscoito}
+{37801}{}{Um biscoito com gotas de chocolate. Humm!}
 {37900}{}{Leather Armor Mark II}
-{37901}{}{An enhanced version of the basic leather armor with extra layers of protection. Finely crafted from tanned brahmin hide.}
+{37901}{}{Uma versão melhorada da básica Leather Armor com uma capa extra de proteção. Finamente trabalhada com couro curtido brahmin.}
 {38000}{}{Metal Armor Mark II}
-{38001}{}{Polished metal plates, finely crafted into a suit of armor.}
+{38001}{}{Placas de metal polido, pregadas manualmente em uma armadura.}
 {38100}{}{Combat Armor Mark II}
-{38101}{}{High tech armor, made out of advanced defensive polymers.}
+{38101}{}{Armadura de alta tecnologia, feito de polímeros defensivas avançadas.}
 {38200}{}{Flamethrower Fuel MKII}
-{38201}{}{This flamethrower fuel uses an advanced super-burn mix.}
-{38300}{}{Shiv}
-{38301}{}{This home-made knife is as dangerous as it is easily concealed. Its presence can't be detected by others. Min ST: 1.}
-{38400}{}{Wrench}
-{38401}{}{A typical wrench used by mechanics. Min ST: 3.}
+{38201}{}{Este combustível para lança-chamas utiliza um mix avançado de super-queimadura.}
+{38300}{}{Canivete caseiro}
+{38301}{}{Esta faca de fabricação caseira é tão perigosA como é facilmente escondidas. A sua presença não pode ser detectada por outros. Min FO: 1.}
+{38400}{}{Chave inglesa}
+{38401}{}{Uma típica chave inglesa usado pela mecânicos. Min. FO: 3.}
 {38500}{}{Sawed-Off Shotgun}
-{38501}{}{Someone took the time to chop the last few inches off the barrel and stock of this shotgun. Now, the wide spread of this hand-cannon's short-barreled shots makes it perfect for short-range crowd control. Min ST: 4.}
+{38501}{}{Alguém levou muito tempo para cortar os últimos centímetros do cano desta espingarda. Agora, a ampla disseminação de tiros curtos a torna perfeito para controlar a multidão de curta distância. Min. FO: 4.}
 {38600}{}{Louisville Slugger}
-{38601}{}{This all-American, hardwood, baseball bat will knock anything right out of the park. Min ST: 4.}
+{38601}{}{Um bastão de baseball de madeira, americano que se preze derrubará qualquer um que chegue perto. Min FO: 4.}
 {38700}{}{M60}
-{38701}{}{This relatively light machine gun was prized by militaries around the world for its high rate of fire. This reliable, battlefield-proven design, was used on vehicles and for squad level fire-support. Min ST: 7.}
+{38701}{}{Esta metralhadora é relativamente leve e foi muito valorizada pelos militares em todo o mundo por sua alta taxa de disparo. Esta arma é confiável e comprovada no campo de batalha, foi usado em veículos para os esquadrões de apoio de fogo. Min FO: 7.}
 {38800}{}{Needler Pistol}
-{38801}{}{You suspect this Bringham needler pistol was once used for scientific field studies. It uses small hard-plastic hypodermic darts as ammo. Min ST: 3.}
+{38801}{}{Você suspeita que esta Needler Pistol uma vez foi usada para estudos científicos. Ela usa pequenos dardos hipodérmicos de plástico duro como munição. Min. FO: 3.}
 {38900}{}{Avenger Minigun}
-{38901}{}{Rockwell designed the Avenger as the replacement for their aging CZ53 Personal Minigun. The Avenger's design improvements include improved, gel-fin, cooling and chromium plated barrel-bores. This gives it a greater range and lethality. Min ST: 7.}
+{38901}{}{Rockwell desenhou o Avenger Minigun para substituir o seu antigo modelo CZ53. As melhorias no projeto do Avenger Minigun incluem, refrigeração em gel e canos cromados com pequenos furos. Isto aumenta seu alcance e letalidade. Min. FO: 7.}
 {39000}{}{Solar Scorcher}
-{39001}{}{Without the sun's rays to charge this weapon's capacitors this gun can't light a match. However, in full daylight, the experimental photo-electric cells that power the Scorcher allow it to turn almost anything into a crispy critter. Min ST: 3.}
+{39001}{}{Sem os raios do sol para carregar os capacitores desta arma essa arma não pode acender um fósforo. No entanto, em plena luz do dia, as células experimentais foto-elétrica que alimentam o Scorcher te permitem transformar quase qualquer coisa em uma criatura crocante. Min. FO: 3.}
 {39100}{}{H&K G11E}
-{39101}{}{This gun revolutionized squad level support weapon design. The gun fires a caseless cartridge consisting of a block of propellant with a bullet buried inside. The resultant weight and space savings allow it to have a very high magazine capacity. Min ST: 6.}
+{39101}{}{Esta arma revolucionou o designer de armamentos para esquadrões de apoio. Dispara cartuchos sem deformar a bala, constituído por um bloco de propulsor com uma bala no interior. O peso e a economia de espaço permite que ela tenha uma alta capacidade de carga. Min. FO: 6.}
 {39200}{}{M72 Gauss Rifle}
-{39201}{}{The M72 rifle is of German design. It uses an electromagnetic field to propel rounds at tremendous speed... and pierce almost any obstacle. Its range, accuracy and stopping power is almost unparalleled. Min ST: 6.}
+{39201}{}{O M72 tem um design alemão. Impulsiona um campo eletromagnético a uma velocidade tremenda... e penetram em quase qualquer obstáculo. Seu longo alcance, precisão e poder de fogo são quase incomparáveis. Min FO: 6.}
 {39300}{}{Phazer}
-{39301}{}{This mysterious high tech weapon appears to have some sort of energy generator inside. If it wasn't damaged, this gun could be the ultimate weapon against any enemy. The backup energy module consists of replaceable small energy cell. Min ST: 3.}
+{39301}{}{Esta arma misteriosa de alta tecnologia parece ter algum tipo de gerador de energia no interior. Se ele não estiver danificada, esta arma pode ser a arma definitiva contra qualquer inimigo. O módulo de energia de backup consiste em pequenas células de energia renovavel. Min. FO: 3.}
 {39400}{}{PPK12 Gauss Pistol}
-{39401}{}{Praised for its range and stopping power, the PPK12 Gauss Pistol is of German design. The pistol uses an electromagnetic field to propel rounds at tremendous speed and punch through almost any armor. Min ST: 4.}
+{39401}{}{Elogiada por seu alcance e poder incomparavel, a PPK12 Gauss Pistol é de design alemão. Impulsiona um campo eletromagnético a uma velocidade tremenda e atravessa quase todas as armaduras. Min. FO: 4.}
 {39500}{}{Vindicator Minigun}
-{39501}{}{The German Rheinmetal AG company created the ultimate minigun. The Vindicator throws over 90,000 caseless shells per minute down its six carbon-polymer barrels. As the pinnacle of Teutonic engineering skill, it is the ultimate hand-held weapon. Min ST: 7.}
+{39501}{}{A empresa alemã Rheinmetal AG criou o minigun final. O Vindicator dispara mais de 90.000 balas por minuto, através de seus seis canos de carbono de polímero. Como o auge da habilidade de engenharia teutônica, é a grande arma final. Min. FO: 7.}
 {39600}{}{YK32 Pulse Pistol}
-{39601}{}{The YK32 is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. Though powerful, the YK32 was never considered a practical weapon due to its inefficient energy usage and bulky design. Min ST: 3.}
+{39601}{}{O YK32 é uma arma de pulso elétrico que foi desenvolvido por Yuma Flats Energy Consortium. Apesar de poderosa, a YK32 nunca foi considerada uma arma prática devido ao seu uso ineficiente da energia e design volumoso. Min. FO: 3.}
 {39700}{}{YK42B Pulse Rifle}
-{39701}{}{The YK42B is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. It is considered a far superior weapon to the YK32 pistol, having a greater charge capacity and range. Min ST: 3.}
+{39701}{}{O YK42B é uma arma de pulso elétrico que foi desenvolvido por Yuma Flats Energy Consortium. Considera-se uma arma muito superior à pistola YK32, tendo uma maior capacidade de carga e gama. Min. FO: 3.}
 {39800}{}{.44 Magnum (Speed Load)}
-{39801}{}{A .44 Magnum Revolver with a speed loader. Min ST: 5.}
+{39801}{}{Uma Magnum .44 com um carregador rápido. Min FO: 5.}
 {39900}{}{Super Cattle Prod}
-{39901}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. This model has been upgraded to increase the electrical discharge. Min ST: 4.}
+{39901}{}{Um aparelho de tocar o gado modelo 'O melhor amigo do fazendeiro', de Wattz Electronics. Este modelo foi atualizado para aumentar a descarga elétrica. Min. FO: 4.}
 {40000}{}{Improved Flamer}
-{40001}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. This model has been modified to fire a hotter mixture which causes greater combustibility. Min ST: 6.}
+{40001}{}{Um Lança-Chamas modelo Flambe 450. Dispara um curto líquido inflamável extremamente quente. Requer combustível especializado para funcionar corretamente. Este modelo foi modificado para disparar uma mistura mais quente que causa maior combustibilidade. Min. FO: 6.}
 {40100}{}{Laser Rifle (Ext. Cap.)}
-{40101}{}{This Wattz 2000 laser rifle has had its recharging system upgraded and a special recycling chip installed that reduces the drain on the micro fusion cell by 50%. Min ST: 6.}
+{40101}{}{Este rifle de laser Wattz 2000 teve seu sistema de recarga atualizado e um chip especial instalado que a reciclagem reduz o consumo da célula micro fusão em 50%. Min. FO: 6.}
 {40200}{}{Magneto-Laser Pistol}
-{40201}{}{This Wattz 1000 laser pistol has been upgraded with a magnetic field targeting system that tightens the laser emission, giving this pistol extra penetrating power. Min ST: 3.}
+{40201}{}{Esta pistola de laser Wattz 1000 foi atualizada com um sistema de campo magnético que afina a emissão laser, proporcionando a esta arma um poder de penetração extra. Min. FO: 3.}
 {40300}{}{FN FAL (Night Sight)}
-{40301}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. This weapon has been equipped with a night sight for greater night accuracy. Min ST: 5.}
+{40301}{}{Este rifle foi mais utilizado pelas forças armadas do que qualquer outro rifle na história. É uma arma de assalto confiável para qualquer tipo de terreno ou situação tática. Esta arma foi equipada com uma visão noturna para maior precisão a noite. Min. FO: 5.}
 {40400}{}{Desert Eagle (Exp. Mag.)}
-{40401}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. This one has been equipped with an expanded magazine for longer fun and games! Min ST: 4.}
+{40401}{}{Uma antiga pistola Desert Eagle, magnum .44. Participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Foi equipadA com um carregador expandido para uma diversão maior! Min. FO: 4.}
 {40500}{}{Assault Rifle (Exp. Mag.)}
-{40501}{}{This Assault Rifle has an extended, military sized, ammunition clip. The expanded magazine capacity makes it more fun than ever to Spray-and-Pray. Min ST: 5.}
+{40501}{}{Este rifle de assalto tem um porte militar, cartucho de munição ampliado. A capacidade de cartucho ampliada a torna mais divertida do que nunca. Min. FO: 5.}
 {40600}{}{Plasma Pistol (Ext. Cap.)}
-{40601}{}{This Glock 86 Plasma Pistol has had its magnetic housing chamber realigned to reduce the drain on its energy cell. Its efficiency has doubled, allowing it to fire more shots before the battery is expended. Min ST: 4.}
+{40601}{}{Esta Pistola de plasma Glock 86 teve sua câmara magnética reajustada para reduzir o consumo em sua célula de energia. Sua eficiência dobrou, permitindo-lhe disparar mais tiros antes que termine a bateria. Min. FO: 4.}
 {40700}{}{Mega Power Fist}
-{40701}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. This one has upgraded power servos for increased strength. Powered by small energy cells. Min ST: 1.}
+{40701}{}{Um Punho de energia de BeatCo. Considerada por muitos como a melhor arma de uso em combate desarmado. Esta versão foi melhorada para uma maior resistência. Desenvolvido por células de energia de pequeno porte. Min. ST: 1.}
 {40800}{}{Field Medic First Aid Kit}
-{40801}{}{A small kit containing basic emergency medical equipment. Bandages, wraps, antiseptic spray, and more.}
-{40900}{}{Paramedics Bag}
-{40901}{}{This bag contains instruments and chems used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40801}{}{Um pequeno kit contendo equipamentos médicos básicos. Bandagens, gaze, spray de anti-séptico e muito mais.}
+{40900}{}{Bolsa de paramédico}
+{40901}{}{Esta bolsa contém instrumentos e drogas utilizados por médicos na aplicação do exercicio de sua profissão. As ferramentas contidas nela são projetadas especificamente para casos de alto risco e de emergência.}
 {41000}{}{Expanded Lockpick Set}
-{41001}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks. This set also includes some special tools for more difficult mechanical locking mechanisms.}
+{41001}{}{Um conjunto de ferramentas de serralheiro. Com tudo que é necessário para abrir fechaduras convencionais. Este jogo também inclui ferramentas especiais para arrombar mecanismos mais difíceis.}
 {41100}{}{Electronic Lockpick MKII}
-{41101}{}{This is the second generation Wattz Electronics Micromanipulator FingerStuff electronic lockpick. For defeating electronic locks and security devices. This Mark II version includes updated software and interface tools.}
-{41200}{}{Oil Can}
-{41201}{}{You see a can of Armor-Go. A space-age, polymer, lubricant for powered armor.}
+{41101}{}{Esta é a segunda geração da gazua eletrônica Micromanipulator FingerStuff de Wattz Eletrônicos. Para abrir fechaduras eletrônicas e dispositivos de segurança. Esta versão MarkII inclui um software atualizado com uma interface.}
+{41200}{}{Lata de Óleo}
+{41201}{}{Você vê uma lata de Óleo. Contem um lubrificante de polímero espacial para uma armadura.}
 {41300}{}{Stables ID Badge}
-{41301}{}{This is a temporary ID badge. It has a red stripe through it, which seems to indicate that you are a "Stables Researcher."}
-{41400}{}{Vault 15 Shack Key}
-{41401}{}{A standard key.}
-{41500}{}{Spectacles}
-{41501}{}{A set of spectacles for eye correction.}
-{41600}{}{Empty Jet Canister}
-{41601}{}{This empty Jet canister was found in Richard Wright's room. It still has traces of Jet inside.}
-{41700}{}{Oxygen Tank}
-{41701}{}{This is the oxygen tank for Salvatore's breathing apparatus.}
-{41800}{}{Poison Tank}
-{41801}{}{This tank looks suspiciously like an oxygen tank, but there is a small skull and crossbones symbol etched in the bottom. If you hadn't examined it closely, you wouldn't have seen the symbol.}
-{41900}{}{Mine Parts}
-{41901}{}{You see a bundle of parts that are clearly labeled "GX-9 Air Purifier". Using your incredible deductive skills, you decide that they are probably parts for a broken air purifier.}
-{42000}{}{Morningstar Mine Scrip}
-{42001}{}{This is a small chit probably used to pay Morningstar Mine Workers.}
-{42100}{}{Holy Hand Grenade}
-{42101}{}{A Holy relic of godly might.}
-{42200}{}{Excavator Chip}
-{42201}{}{This chip appears to be for some sort of large industrial machine. Beneath the dirt and dust, it appears to be in surprisingly good shape.}
-{42300}{}{Gold Nugget}
-{42301}{}{A nugget of gold.}
-{42400}{}{Monument Chunk}
-{42401}{}{This is a piece of the disgruntled stone monument you found out in the desert. Although many of your village would no doubt regard it as a sacred relic, somehow you suspect that you have been cheated.}
-{42500}{}{Stone Head}
-{42501}{}{A huge stone monument.}
-{42600}{}{Uranium Ore}
-{42601}{}{A chunk of Uranium Ore, unrefined.}
-{42700}{}{Flame Breath}
-{42800}{}{Medical Supplies}
-{42801}{}{A box of assorted medical supplies. Nothing I can make use of though.}
-{42900}{}{Gold Tooth}
-{42901}{}{This gold tooth used to belong to someone else, but they won't be needing it anymore.}
-{43000}{}{Howitzer Shell}
-{43001}{}{A 75mm Howitzer shell. The casing has mostly corroded away, but you can make out these letters. EXP. 9-25-98.}
-{43100}{}{Ramirez Box, Closed}
-{43101}{}{This is the box you received from Big Jesus Mordino to give to Ramirez at the Stables.}
-{43200}{}{Ramirez Box, Open}
-{43201}{}{This is the box you received from Big Jesus Mordino to give to Ramirez at the Stables. It is open, and you have removed the Jet that was inside.}
-{43300}{}{Mirrored Shades}
-{43301}{}{This is a pair of fashionable and deadly-looking mirrored shades. Just having them in your inventory makes you feel cool.}
-{43400}{}{Wagon}
-{43401}{}{A caravan wagon converted from the wrecked remains of an ancient automobile.}
-{43500}{}{Wagon}
-{43501}{}{A caravan wagon converted from the wrecked remains of an ancient automobile.}
-{43600}{}{Deck of Cards}
-{43601}{}{A standard set of playing cards.}
-{43700}{}{Pack of Marked Cards}
-{43701}{}{Every card in this set is a red queen. Must make for some boring games.}
-{43800}{}{Temple Key}
-{43801}{}{A key for the Arroyo Temple door.}
-{43900}{}{Pocket Lint}
-{43901}{}{Some fuzz you found in a pocket.}
-{44000}{}{Biomed Gel}
-{44001}{}{A jar of Bio Gel used in the biomedical field.}
-{44100}{}{Blondie's Dog Tags}
-{44101}{}{These dog tags have the owner's name scratched off and the name "Blondie" scrawled on the back. Beneath the name is the number "11."}
-{44200}{}{Angel-Eyes' Dog Tags}
-{44201}{}{These dog tags list the owner as "Angel-Eyes." Beneath the name is the number "16."}
-{44300}{}{Tuco's Dog Tags}
-{44301}{}{These foul-smelling dog tags list the owner as "Tuco Benedicto Pacifico Juan Maria Ramirez," followed by the number "27."}
-{44400}{}{Raiders Map}
-{44401}{}{This is a crumpled map of pre-war Northern California. Reno and the surrounding caravan trails are outlined in red, and there is a red "X" far to the east of Reno with "Raiders" scrawled beneath it.}
-{44500}{}{Sheriff's Badge}
-{44501}{}{A Badge worn by the Sheriff of a town.}
-{44600}{}{Vertibird Plans}
-{44601}{}{A set of plans for building Vertibirds.}
+{41301}{}{Este é um crachá de identificação temporário. Ele tem uma faixa vermelha, o que parece indicar que você é um "Investigador de Estábulos."}
+{41400}{}{Chave da cabana de Vault 15}
+{41401}{}{Uma chave normal.}
+{41500}{}{Óculos}
+{41501}{}{Um par de óculos para correção visual.}
+{41600}{}{Frasco vazio de Jet}
+{41601}{}{Este frasco vazio de jet foi encontrado no quarto de Richard Wright. Ele ainda tem vestígios de Jet.}
+{41700}{}{Tanque de oxigênio}
+{41701}{}{Este é o tanque de oxigênio para aparelhos de respiração de Salvatore.}
+{41800}{}{Tanque de veneno}
+{41801}{}{Este tanque é semelhante ao tanque de oxigénio, mas tem um pequeno símbolo de uma caveira e ossos cruzados gravado no fundo. Se você não tivesse examinado muito de perto, você não teria visto o símbolo.}
+{41900}{}{Peças da Mina}
+{41901}{}{Você vê um conjunto de peças que são claramente identificados "Purificador de ar GX-9". Usando suas habilidades dedutivas incríveis, você decide que eles provavelmente são peças para um purificador de ar quebrado.}
+{42000}{}{Bilhete da Mina Morningstar}
+{42001}{}{Este é um pequeno bilhete provavelmente usado para pagar trabalhadores dea mina Morningstar.}
+{42100}{}{Granada sagrada}
+{42101}{}{Uma relíquia sagrada de poder dos deuses.}
+{42200}{}{Chip de escavadeira}
+{42201}{}{Este chip parece ser de algum tipo de máquina industrial. Sob a sujeira e poeira, parece esta em um surpreendente bom estado.}
+{42300}{}{Pepita de ouro}
+{42301}{}{Uma pepita de ouro.}
+{42400}{}{Pedaço de Monumento}
+{42401}{}{Este é um pedaço do desconhecido de um monumento de pedra que você achou no deserto. Embora muitos de sua aldeia, sem dúvida o consideram como uma relíquia sagrada, de alguma forma você suspeitar que tenha sido enganado.}
+{42500}{}{Cabeça de pedra}
+{42501}{}{Um enorme monumento de pedra.}
+{42600}{}{Minério de urânio}
+{42601}{}{Uma pedaço de minério de urânio, não refinado.}
+{42700}{}{Sopro Flamejante}
+{42800}{}{Suprimentos Médicos}
+{42801}{}{Uma caixa de diversos suprimentos médicos. Embora não há nada que você pode usar.}
+{42900}{}{Dente de Ouro}
+{42901}{}{Este dente de ouro pertencia a outra pessoa.}
+{43000}{}{Projétil de Howitzer}
+{43001}{}{Munição pesada para uma arma de Howitzer 75mm. Seu revestimento esta corroído, mas você pode ver estas letras: EXP. 25-09-98.}
+{43100}{}{Maleta de Ramirez, trancada}
+{43101}{}{Esta é a maleta que você recebeu do Big Jesus Mordino para dar a Ramirez nos estábulos.}
+{43200}{}{Maleta de Ramirez, aberta}
+{43201}{}{Esta é a maleta que você recebeu do Big Jesus Mordino para dar a Ramirez nos estábulos. Está aberta, e você pegou o Jet estava lá dentro.}
+{43300}{}{Óculos de sol espelhados}
+{43301}{}{Este é um par de óculos de sol da última moda. Apenas tê-los em seu inventário faz você se sentir bem.}
+{43400}{}{Vagão}
+{43401}{}{Um vagão de caravana contruído a partir dos restos de um automóvel antigo.}
+{43500}{}{Vagão}
+{43501}{}{Um vagão de caravana contruído a partir dos restos de um automóvel antigo.}
+{43600}{}{Um jogo de cartas}
+{43601}{}{Um conjunto padrão de cartas de baralho.}
+{43700}{}{Pacote de cartas marcadas}
+{43701}{}{Todas as cartas deste baralho são rainhas vermelhas. Deve ser para jogos chatos.}
+{43800}{}{Chave do Templo}
+{43801}{}{Uma chave para a porta do Templo de Arroyo.}
+{43900}{}{Fiapos de bolso}
+{43901}{}{Alguns fiapos que você encontrou em um bolso.}
+{44000}{}{Gel biomédico}
+{44001}{}{Um frasco de Bio Gel utilizado no campo da biomedicina.}
+{44100}{}{Etiqueta de identificação de Blondie}
+{44101}{}{Esta etiqueta de cachorro têm o nome do proprietário riscado de um lado e do outro o nome "Blondie". Sob o nome tem o número "11".}
+{44200}{}{Etiqueta de identificação de Angel-Eyes}
+{44201}{}{Esta etiqueta de cachorro têm o nome de "Angel-Eyes". Sob o nome tem o número "16".}
+{44300}{}{Etiqueta de identificação de Tuco}
+{44301}{}{Esta etiqueta de cachorro têm um mau cheiro e o nome do proprietário esta gravado como " Tuco Benedicto Pacifico Juan Maria Ramirez". Sob o nome tem o número "27".}
+{44400}{}{Mapa dos Raiders}
+{44401}{}{Um mapa amassado do norte da Califórnia de antes da guerra. Reno e envolventes rotas de caravanas estão sublinhadas em vermelho, e há um "X" vermelho a leste de Reno em que está escrito "Raiders".}
+{44500}{}{Distintivo do xerife}
+{44501}{}{Um Distintivo usado pelo xerife de uma cidade.}
+{44600}{}{Planos Vertibird}
+{44601}{}{Um conjunto de planos para a construção Vertibirds.}
 {44700}{}{Bishop's Holodisk}
-{44701}{}{This holodisk contains incriminating information on Bishop's secret deal with NCR. Apparently, Bishop hired mercenaries to attack Vault City in the hopes that Vault City would turn to NCR for military aid. This holodisk is audio only and has no text data. Vault City might be interested in this.}
-{44800}{}{Account Book}
-{44801}{}{This account book lists a series of monthly payments made to the mercenary band from the Bishop Family in New Reno. The payments depend heavily on how much "pressure" the mercenaries put on Vault City. Vault City might be interested in this.}
-{44900}{}{Unused}
-{44901}{}{Unused}
-{45000}{}{Torn Paper 1}
-{45001}{}{You see a piece of paper with writing on it. It looks like it's part of a code of some sort. Unfortunately, the code is incomplete. If only you could find all three pieces. You can make out the following: 1. Physics Password KSLJ, 2. Chemistry Password TIU, 3. Biology Password INTL}
-{45100}{}{Torn Paper 2}
-{45101}{}{You see a piece of paper with writing on it. It looks like it's part of a code of some sort. Unfortunately, the code is incomplete. If only you could find all three pieces. You can make out the following: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
-{45200}{}{Torn Paper 3}
-{45201}{}{You see a piece of paper with writing on it. It looks like it's part of a code of some sort. Unfortunately, the code is incomplete. If only you could find all three pieces. You can make out the following: 7313, hi-S12908, 98790}
-{45300}{}{Password Paper}
-{45301}{}{This is three pieces of a single page that, when assembled, reveal three passwords. The text reads: 1. Physics Password KSLJKJ: Ken-Lee-97313, 2. Chemistry Password TIUASPO- Lo-Shi-S12908, 3. Biology Password INTLVR- Dnky-Pnch-98790}
-{45400}{}{Explosive Switch}
-{45401}{}{This toggle switch is the final component of an explosive device.}
-{45500}{}{Car Trunk}
-{45501}{}{The trunk is a great place to store your stuff.}
-{45600}{}{Cell Door Key}
-{45601}{}{This key fits the Cell Door in Broken Hills.}
-{45700}{}{Hubologist Field Report}
-{45701}{}{A field office report for the membership drive in the True Faith.}
+{44701}{}{Este holodisco contém informações incriminatórias sobre um acordo secreto do Bishop com a NCR. Aparentemente, Bishop contratou mercenários para atacar Vault City na esperança de que Vault City pediria ajuda militar a NCR. Este é apenas um holodisco de áudio e não tem dados de texto. Vault City pode estar interessado neste.}
+{44800}{}{Livro de contas}
+{44801}{}{Este livro de contas enumera uma série de pagamentos mensais feitos à um bando de mercenário da Família Bishop em New Reno. Os pagamentos dependem muito de quanta "pressão" fazem os mercenários em Vault City. Vault City pode estar interessado neste.}
+{44900}{}{Não usado}
+{44901}{}{Não usado}
+{45000}{}{Papel rasgado 1}
+{45001}{}{Você vê um pedaço de papel com algo escrito nele. Parece parte de algum tipo de código. Infelizmente, o código ésta incompleto. Se você pudesse encontrar todas três partes... Você pode ver o seguinte: 1. Senha Física KSLJ, 2. senha Química TIU, 3. Senha Biologia INTL}
+{45100}{}{Papel rasgado 2}
+{45101}{}{Você vê um pedaço de papel com algo escrito nele. Parece parte de algum tipo de código. Infelizmente, o código ésta incompleto. Se você pudesse encontrar todas três partes... Você pode ver o seguinte: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
+{45200}{}{Papel rasgado 3}
+{45201}{}{Você vê um pedaço de papel com algo escrito nele. Parece parte de algum tipo de código. Infelizmente, o código ésta incompleto. Se você pudesse encontrar todas três partes... Você pode ver o seguinte: 7313, hi-S12908, 98790}
+{45300}{}{Papel com senha}
+{45301}{}{Esta folha de papel é formada por reunir três partes, revelando três senhas. O texto diz: 1. Senha Física KSLJKJ: Ken-Lee-97313, 2. Senha Química TIUASPO- Lo-Shi-S12908, 3. Senha Biologia INTLVR- Dnky-Pnch-98790.}
+{45400}{}{Interruptor de explosivo}
+{45401}{}{Este interruptor é o componente final de um artefato explosivo.}
+{45500}{}{Porta-malas}
+{45501}{}{O porta-malas é um ótimo lugar para guardar suas coisas.}
+{45600}{}{Chave de cela}
+{45601}{}{Esta chave se encaixa em uma porta de cela em Broken Hills.}
+{45700}{}{Relatório de Campo Hubologist}
+{45701}{}{Um relatório de campo escrito para a unidade de participação da Fé Verdadeira.}
 {45800}{}{M.B. Holodisk 5}
-{45801}{}{The label reads: Message to CHQ- Confidential.}
+{45801}{}{O rótulo diz: Mensagem para CHQ-Confidencial.}
 {45900}{}{M.B. Holodisk 1}
-{45901}{}{The label reads: Radio transmission log checkpoint 1.}
+{45901}{}{O rótulo diz: registro de transmissão de rádio ponto de verificação 1.}
 {46000}{}{M.B. Holodisk 2}
-{46001}{}{The label reads: Radio transmission log checkpoint 2.}
+{46001}{}{O rótulo diz: registro de transmissão de rádio ponto de verificação 2.}
 {46100}{}{M.B. Holodisk 3}
-{46101}{}{The label reads: Radio transmission log checkpoint 3.}
+{46101}{}{O rótulo diz: registro de transmissão de rádio ponto de verificação 3.}
 {46200}{}{M.B. Holodisk 4}
-{46201}{}{The label reads: Radio transmission log research team.}
+{46201}{}{O rótulo diz: registro de transmissão por rádio da equipe de invetigaçõ.}
 {46300}{}{Evacuation Holodisk}
-{46301}{}{The label reads: Base evacuation notice.}
+{46301}{}{O rótulo diz: aviso de evacuação da Base.}
 {46400}{}{Experiment Holodisk}
-{46401}{}{The label reads: Research log.}
+{46401}{}{O rótulo diz: registo de investigação.}
 {46500}{}{Medical Holodisk}
-{46501}{}{The label reads: Medical log.}
-{46600}{}{Password Paper}
-{46601}{}{A sheet of folded paper with the word "TCHAIKOVSKY" written on it.}
-{46700}{}{Jesse's Container}
+{46501}{}{O rótulo diz: Registo médico.}
+{46600}{}{Papel com senha}
+{46601}{}{Uma folha de papel dobrada com a palavra "TCHAIKOVSKY" escrito nele.}
+{46700}{}{Recipiente de Jesse}
 {46701}{}{}
-{46800}{}{Smitty's Meal}
-{46801}{}{It's some kind of salad and a sandwich made out of what you think is Brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
-{46900}{}{Rot Gut}
-{46901}{}{A very strong liquor or cleaning fluid, you decide.}
-{47000}{}{Ball Gag}
-{47001}{}{A questionable sexual device. If you need to ask, you don't want to know.}
+{46800}{}{Refeição de Smitty}
+{46801}{}{É algum tipo de salada e um sanduíche feito do que você acha que é carne de Brahmin coberto com um molho amarelo. Há também ao lado um estanho vegetal verde em conserva.}
+{46900}{}{Aguardente}
+{46901}{}{Uma bebidas alcoólica muito forte ou fluido de limpeza, você decide.}
+{47000}{}{Mordaça}
+{47001}{}{Um dispositivo sexual questionável. Se você precisa perguntar, você não quer saber.}
 {47100}{}{The Lavender Flower}
-{47101}{}{It appears to be some kind of romance novel written by Dorothy Rixon. The cover has a woman laying on a bed surrounded by a hundred flowers.}
+{47101}{}{Parece ser algum tipo de novela romântica escrito por Dorothy Rixon. A capa tem uma mulher deitada em uma cama cercada por uma centena de flores.}
 {47200}{}{Hubologist Holodisk}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
-{47300}{}{Mutated Toe}
-{47301}{}{You see your sixth toe. It is a small mutated part of yourself. For some reason, you feel a terrible sense of loss as you look at the tiny amputated toe.}
-{47400}{}{Daisies}
-{47401}{}{A flower pot of daisies. Aren't they nice?}
-{47500}{}{Unused}
-{47501}{}{Unused}
-{47600}{}{Enlightened One's Letter}
-{47601}{}{A report addressed to AHS-9 in San Francisco. It's really dry reading- tables of oppressive adjustments, expense reports, and other twaddle not worth wasting your time on.}
+{47201}{}{Este holodisk esta rotulado como: "Hubology: A verdade por trás das mentiras". Parece que funciona em seu PipBoy.}
+{47300}{}{Dedo mutante do pé}
+{47301}{}{Você vê o seu sexto dedo. É uma pequena parte mutante de si mesmo. Por alguma razão, você sente uma terrível sensação de perda quando você olha para o pequeno dedo do pé amputado.}
+{47400}{}{Margaridas}
+{47401}{}{Um vaso de flores de margaridas. Elas não são agradáveis?}
+{47500}{}{Não usado}
+{47501}{}{Não usado}
+{47600}{}{Carta de O Iluminado}
+{47601}{}{Um relatório dirigido a ASH-9 em San Francisco. É certamente uma leitura grosseira: Tabelas de ajustes opressivos, relatórios de despesas e outras tretas com que você não deve perder tempo.}
 {47700}{}{Broadcast Holodisk}
-{47701}{}{The label reads: "Galaxy News Network."}
+{47701}{}{O rótulo diz: "Galaxy News Network".}
 {47800}{}{Sierra Mission Holodisk}
-{47801}{}{The label reads: "Mission Statement."}
-{47900}{}{NavCom Parts}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
-{48000}{}{Bonus +1 Agility}
-{48100}{}{Bonus +1 Intelligence}
-{48200}{}{Bonus +1 Strength}
-{48300}{}{Fallout 2 Hintbook}
-{48301}{}{Well, THIS would have been good to have at the beginning of the goddamn game.}
-{48400}{}{Player's Ear}
-{48401}{}{This is your ear. The Masticator bit it off during the fight and spit it on your unconscious body. If you are reading this, it probably means you will be reloading soon. Of course, it is possible this item has some special value.}
-{48500}{}{Masticator's Ear}
-{48501}{}{This is the Masticator's ear. You bit it off after pummeling him senseless. Congratulations on beating him. He's one of the toughest NPC's in the game, especially when you don't have any weapons or armor.}
-{48600}{}{Refined Uranium Ore}
-{48601}{}{A chunk of Uranium Ore. This ore seems to have been processed somehow. It seems heavier.}
-{48700}{}{Note from Francis}
-{48701}{}{"Zaius, Marcus isn't doing anything about that mutant-hater Jacob and his damned conspirators. First they disable the air purifier... and then what? I found their secret meeting tunnels. I figure a body or two down there could implicate Jacob. If you want in, let me know. And burn the damn note this time!" -Signed, Francis.}
+{47801}{}{O rótulo diz: "Declaração da Missão".}
+{47900}{}{Circuito NavCom}
+{47901}{}{Placa de circuito que parece que pode ser inserido em um computador. O fato de que eles dizem "Poseidon Oil" e "Navigational Computer" sobre eles levam a crer que eles se encaixam em um computador de Navegação Poseidon Oil.}
+{48000}{}{Bônus +1 Agilidade}
+{48100}{}{Bônus +1 Inteligência}
+{48200}{}{Bônus +1 Força}
+{48300}{}{Livro de pistas de Fallout 2}
+{48301}{}{Bem, isso teria sido bom ter no início desse maldito jogo.}
+{48400}{}{Orelha de jogador}
+{48401}{}{Este é sua orelha. O Masticator mordeu durante a luta e cuspiu em seu corpo inconsciente. Se você está lendo isso, provavelmente significa que você vai recarregar a partida em breve. É claro, é possível que este objeto tenha algum valor especial.}
+{48500}{}{Orelha do Masticator}
+{48501}{}{Esta é a orelha do Masticator. Você mordeu depois bater muito nele. Parabéns por espancá-lo. Ele é um NPC dos mais difíceis do jogo, especialmente quando você não tem nenhuma arma ou armadura.}
+{48600}{}{Mineral de urânio refinado}
+{48601}{}{Um pedaço de minério de urânio. Este minério parece ter sido processado de alguma forma. Parece mais pesado.}
+{48700}{}{Nota de Francis}
+{48701}{}{"Zaius, Marcus não está fazendo nada com esse mutante Jacob e seus malditos conspiradores. Primeiro eles desativam o purificador de ar... e depois? Eu encontrei seus túneis de reuniões secretas. Imagino que um par corpos poderia implicar Jacob. Se você quiser entrar, venha me ver. Queime esta maldita nota de uma vez! "-Assinado, Francis.}
 {48800}{}{K-9 Motivator}
-{48801}{}{This is the drive mechanism for a K-9 series robot.}
-{48900}{}{Special Boxer Weapon}
+{48801}{}{Este é o mecanismo de acionamento para uma série robô K-9.}
+{48900}{}{Arma especial de boxeador}
 {49000}{}{NCR History Holodisk}
-{49001}{}{The label reads: "History of NCR."}
-{49100}{}{Mr. Nixon Doll}
-{49101}{}{You see a small doll with a big red nose. For some reason, you don't trust this seemingly-innocent child's toy.}
+{49001}{}{O rótulo diz: "História da NCR."}
+{49100}{}{Boneco do Sr. Nixon}
+{49101}{}{Você vê um pequeno boneco com um grande nariz vermelho. Por alguma razão, você não confia nesta cara de criança aparentemente inocente.}
 {49200}{}{Tanker Fob}
-{49201}{}{An encoded passkey that provides access to high security areas.}
+{49201}{}{Uma senha codificada que permite o acesso a áreas de alta segurança.}
 {49300}{}{Teachings Holodisk}
-{49301}{}{The label reads: "Hubologist Teachings."}
+{49301}{}{O rótulo diz: "Ensinamentos Hubologistas".}
 {49400}{}{Kokoweef Mine Scrip}
-{49401}{}{This is a small chit probably used to pay Kokoweef Mine Workers.}
-{49500}{}{Presidential Access Key}
-{49501}{}{This access key has what looks like the presidential seal on it. It appears as though it's used to gain Presidential level access to computers.}
-{49600}{}{Boxing Gloves}
-{49601}{}{A pair of boxing gloves that smell faintly of sweat. They look like they have seen a lot of use: many old blood stains still remain.}
-{49700}{}{Plated Boxing Gloves}
-{49701}{}{Someone has "accidentally" slipped metal plates into these boxing gloves. It could technically be considered cheating, but you prefer to think of it as an increased opportunity to dispense bone-crunching damage.}
-{49800}{}{Dual Plasma Cannon}
-{49801}{}{Only use for Gun Turret critter.}
-{49900}{}{Pip-Boy Lingual Enhancer}
-{49901}{}{This Pip-Boy lingual enhancer consists of a storage holodisk, a microfilament cord, headgear, and an optical sensor that is placed over the user's right eye. When used, an optical flash transmits an entire dictionary into the user's memory, permanently improving the user's speech skills.}
+{49401}{}{Este é um pequeno bilhete provavelmente usado para pagar os trabalhadores da Mina Kokoweef.}
+{49500}{}{Chave de Acesso Presidencial}
+{49501}{}{Esta chave de acesso tem sobre ela o que se parece com o selo presidencial. Parece que ela é usada para obter acesso de nível presidencial em computadores.}
+{49600}{}{Luvas de boxe}
+{49601}{}{Um par de luvas de boxe que cheiram levemente a suor. Elas parecem muito usadas: muitas e velhas manchas de sangue ainda permanecem.}
+{49700}{}{Luvas de Boxe Chapada}
+{49701}{}{Alguém "acidentalmente" deixou cair placas de metal nestas luvas de boxe. Poderia ser tecnicamente considerado trapaça, mas prefiro pensar nisso como uma oportunidade para quebrar ossos.}
+{49800}{}{Duplo canhão de plasma}
+{49801}{}{Usado apenas por torres.}
+{49900}{}{Intensificador de línguagem Pip Boy}
+{49901}{}{Este Intensificador Pip Boy consiste em um holodisco de armazenamento, um cabo de microfilamentos, um capacete, e um sensor óptico que é colocado sobre o olho direito do usuário. Quando usado, um flash óptico transmite um dicionário inteiro na memória do usuário, melhorando permanentemente a habilidades de fala do usuário.}
 {50000}{}{FN FAL HPFA}
-{50001}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. The HPFA is more powerful than the standard FN FAL. Min ST: 5.}
-{50100}{}{Wall Safe}
-{50200}{}{Floor Safe}
-{50300}{}{Blue Memory Module}
-{50301}{}{A read only computer memory module containing medical information. This module details charisma enhancements.}
-{50400}{}{Green Memory Module}
-{50401}{}{A read only computer memory module containing medical information. This module details perception enhancements.}
-{50500}{}{Red Memory Module}
-{50501}{}{A read only computer memory module containing medical information. This module details strength enhancements.}
-{50600}{}{Yellow Memory Module}
-{50601}{}{A read only computer memory module containing medical information. This module details intelligence enhancements.}
-{50700}{}{Decomposing Body}
-{50701}{}{This is a partially decomposed body of a humanoid creature.}
-{50800}{}{Rubber Doll}
-{50801}{}{An inflatable rubber sex doll. This model is called "Tandi".}
-{50900}{}{Damaged Rubber Doll}
-{50901}{}{This inflatable rubber sex doll has a torn seam. It's obviously been well used.}
-{51000}{}{Pool Table}
-{51100}{}{Pool Table}
+{50001}{}{Este rifle foi mais utilizado pelas forças armadas do que qualquer outro rifle na história. É uma arma de assalto confiável para qualquer tipo de terreno ou situação tática. O HPFA é mais poderoso do que o padrão FN FAL. Min. FO: 5.}
+{50100}{}{Cofre de parede}
+{50200}{}{Cofre de chão}
+{50300}{}{Módulo de Memória Azul}
+{50301}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de carisma.}
+{50400}{}{Módulo de Memória Verde}
+{50401}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de percepção.}
+{50500}{}{Módulo de Memória Vermelho}
+{50501}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de força.}
+{50600}{}{Módulo de Memória Amarelo}
+{50601}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de inteligência.}
+{50700}{}{Corpo em decomposição}
+{50701}{}{Este é um corpo parcialmente decomposto de uma criatura humanóide.}
+{50800}{}{Boneca inflável}
+{50801}{}{Uma boneca sexual inflável de borracha. Este modelo é chamado "Tandi".}
+{50900}{}{Boneca inflável danificada}
+{50901}{}{Esta boneca sexual inflável de borracha tem uma costura rasgada. É, obviamente, foi bem utilizado.}
+{51000}{}{Mesa de sinuca}
+{51100}{}{Mesa de sinuca}
 {51101}{}{}
-{51200}{}{Pool Table}
-{51300}{}{Pool Table}
-{51400}{}{Pool Table}
-{51500}{}{Pool Table}
-{51600}{}{Pip-Boy Medical Enhancer}
-{51601}{}{This Pip-Boy medical enhancer consists of a storage holodisk, microfilament cord, headgear, and an optical sensor that is placed over the user's left eye. When used, an optical flash transmits a dictionary of physician skills and know-how into the user's memory, permanently improving the user's doctor skill.}
-{51700}{}{"Little Jesus"}
-{51701}{}{This wicked looking blade once belonged to Lil' Jesus Mordino. It has numerous nicks and cuts along its surface, but its edge is razor sharp. On its handle is carved "Little Jesus."}
+{51200}{}{Mesa de sinuca}
+{51300}{}{Mesa de sinuca}
+{51400}{}{Mesa de sinuca}
+{51500}{}{Mesa de sinuca}
+{51600}{}{Intensificador Médico Pip Boy}
+{51601}{}{Este Intensificador Pip Boy consiste em um holodisco de armazenamento, um cabo de microfilamentos, um capacete, e um sensor óptico que é colocado sobre o olho direito do usuário. Quando usado, um flash óptico transmite um dicionário de conhecimento médico e habilidades na memória do usuário, melhorando permanentemente sua habilidade médica.}
+{51700}{}{"Menino Jesus"}
+{51701}{}{Esta lâmina parece que pertenceu ao Menino Jesus Mordino. Tem inúmeros arranhões e cortes em toda a sua superfície, mas sua lâmina é afiada. No cabo está gravado "Menino Jesus".}
 {51800}{}{Dual Minigun}
-{51801}{}{Only use for Auto-Cannon critter.}
-{51900}{}{Bottle Caps}
-{51901}{}{These are worthless bottle caps. You've heard that at one time they were used as money, though you suspect its only a story.}
+{51801}{}{Só use para personagens com auto-canhão.}
+{51900}{}{Tampinhas}
+{51901}{}{Estas são tampinhas de garrafa sem valor. Você já ouviu falar que uma vez eles foram usados ??como dinheiro, apesar de você suspeitar que seja apenas história.}
 {52000}{}{Heavy Dual Minigun}
-{52001}{}{Only use for Auto-Cannon Critter.}
-{52100}{}{Poor Box}
-{52101}{}{A small box used to collect money for the poor.}
+{52001}{}{Só use para personagens com auto-canhão.}
+{52100}{}{Caixa de esmolas}
+{52101}{}{Uma pequena caixa usado para recolher dinheiro para os pobres.}
 {52200}{}{Wakizashi Blade}
-{52201}{}{A short finely crafted knife. The tip seems to be designed to pierce armor.}
-{52300}{}{Survey Map}
-{52301}{}{It looks like a geological survey map of the Bay area.}
+{52201}{}{Uma faca curta finamente trabalhada. A ponta parece ter sido desenhado para perfurar armadura.}
+{52300}{}{Mapa de reconhecimento}
+{52301}{}{Parece um mapa de reconhecimento geológico da área da baía}
 {52400}{}{Bridgekeeper's Robes}
-{52401}{}{This smelly, filthy garment must be made out of some special fabric in order to have withstood the foulness of the bridgekeeper's body. Oddly enough, it has plasma burns and scorch marks all over it, as if these weapons were used against it... to no effect. You have NO idea why it's purple.}
-{52500}{}{Hypo}
-{52501}{}{A medical injection instrument of some kind. It looks very high tech. You don't know what it's filled with but it appears to have only one dose left.}
-{52600}{}{Dead Redshirt}
-{52601}{}{This guy has a weird red uniform you have never seen. It looks like he died from dehydration.}
-{52700}{}{Dead Redshirt}
-{52701}{}{This guy has a weird red uniform you have never seen. It looks like he died from dehydration.}
-{52800}{}{Dead Redshirt}
-{52801}{}{This guy has a weird red uniform you have never seen. It looks like he died from dehydration.}
-{52900}{}{Mining Machine}
-{53000}{}{End Boss Knife}
-{53100}{}{End Boss Plasma Gun}
-{53200}{}{Sam Pritchard's Map}
-{53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
-{53300}{}{Fire Gecko Pelt}
-{53301}{}{This is the dried and cured hide of a fire gecko. It is badly burned and as a result, has little value.}
-{53400}{}{Bucket}
-{53401}{}{A medium sized bucket used to haul water from a well.}
-{53500}{}{Scaly Fish}
-{53501}{}{A scaly looking fish. If cooked, it would probably make a tasty meal.}
-{53600}{}{Fish}
-{53601}{}{A raw looking fish. If cooked, it would probably make a tasty meal.}
+{52401}{}{Esta peça de roupa fedorenta e suja deve ter sido feita de um tecido especial, a fim de ter resistido a sujeira do corpo do Bridgekeeper. Curiosamente, ela tem queimaduras de plasma e marcas de queimaduras por toda parte, como se essas armas fossem usadas contra ela... Você não tem idéia por que é roxo.}
+{52500}{}{Seringa}
+{52501}{}{Algum tipo de instrumento médico de injeção. Parece alta tecnologia. Você não sabe do que ela está cheia, mas parece ter apenas uma dose.}
+{52600}{}{Morto com camisa vermelha}
+{52601}{}{Esse cara tem um uniforme vermelho estranho que você nunca viu. Parece que ele morreu de desidratação.}
+{52700}{}{Morto com camisa vermelha}
+{52701}{}{Esse cara tem um uniforme vermelho estranho que você nunca viu. Parece que ele morreu de desidratação.}
+{52800}{}{Morto com camisa vermelha}
+{52801}{}{Esse cara tem um uniforme vermelho estranho que você nunca viu. Parece que ele morreu de desidratação.}
+{52900}{}{Máquina de mineração}
+{53000}{}{Faca do chefe final}
+{53100}{}{Arma de plasma do chefe}
+{53200}{}{Mapa de Sam Pritchard}
+{53201}{}{Este mapa toscamente desenhado mostra os arredores New Reno. Parece que há algum tipo de base militar para o norte.}
+{53300}{}{Pele de Gecko queimado}
+{53301}{}{Esta é a pele seca e endurecida de um gecko queimado. Esta muito queimado e como resultado tem pouco valor.}
+{53400}{}{Balde}
+{53401}{}{Um balde de tamanho médio usado para transportar água de um poço.}
+{53500}{}{Peixe descamado}
+{53501}{}{Uma peixe descamado. Se cozido, ele provavelmente iria ser uma refeição saborosa.}
+{53600}{}{Peixe}
+{53601}{}{Um peixe cru. Se cozido, ele provavelmente iria fazer uma refeição saborosa.}
 {53700}{}{Ode to the Flame Deluge}
-{53701}{}{A novel set after a devastating nuclear war. The book excerpt describes how a violent backlash against the culture of advanced knowledge and technology that had led to the development of nuclear weapons took place shortly after this war. Anyone of learning, and eventually anyone who could even read, was likely to be killed.}
+{53701}{}{Um romance ambientado após uma guerra nuclear devastadora. O trecho do livro descreve como uma reação violenta contra a cultura de conhecimento e tecnologia avançada que levou ao desenvolvimento de armas nucleares ocorreu logo após a guerra. Qualquer um que pudesse ler, era susceptível de ser morto.}
 {53800}{}{Text Book}
-{53801}{}{An old text book from before the Great War. It is quite technical and doesn't appear to contain any useful information.}
+{53801}{}{Um livro de texto antigo de antes da Grande Guerra. É muito técnico e não parece conter todas as informações úteis.}
 {53900}{}{Army Technical Manual}
-{53901}{}{An old technical manual designed for the United States Army Corps of Engineers.}
-{54000}{}{Operations Manual}
-{54001}{}{The operations manual to the KV-75; a portable, tactical cryptographic device. Also used by non-tactical users for high-level communications in the local wideband telephone networks and wideband satellite terminals.}
+{53901}{}{Um manual técnico velho projetado pelo Corpo de Engenheiros do exército de Estados Unidos.}
+{54000}{}{Manual de operações}
+{54001}{}{O manual de operações para a KV-75; um dispositivo de criptografia tático portátil. Também é usado por usuários não-táticos para comunicações de alto nível nas redes de telefonia de banda larga locais e os terminais de banda larga por satélite.}
 {54100}{}{Chinese Army: Special Ops Manual}
-{54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
-{54200}{}{Bottle of wine}
-{54201}{}{A fresh bottle of Abbey's finest wine.}
-{54300}{}{Diary}
-{54301}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna" Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket. It is the most beautiful thing I have ever owned. I will never part with it."}
+{54101}{}{Você não pode entender muita coisa do texto, mas as ilustrações são bastante informativas.}
+{54200}{}{Garrafa de vinho}
+{54201}{}{Uma garrafa fresca do melhor vinho do Abbey.}
+{54300}{}{Diário}
+{54301}{}{Parece ser um diário que pertencia a uma jovem. A escrita na parte interna da capa diz: "Propriedade de Anna" A maioria das páginas estão rasgadas ou desbotadas, mas ainda é legível. "Dia 271: Hoje minha mãe me deu um medalhão de ouro É a coisa mais linda que eu já possuí eu nunca vou deixar de usa-lo..."}
 {54400}{}{Botany Holodisk}
-{54401}{}{This information disk categorizes the various plant life that grew before the Great War.}
-{54500}{}{Expired G.E.C.K.}
-{54501}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir. This one is well beyond is expiration date. What a waste!}
-{54600}{}{Old Coin}
-{54601}{}{A very old coin. You are not sure whose face is on it, but it looks like it could be rare and worth a lot of money.}
-{54700}{}{A watch}
-{54701}{}{An antique watch. This brand stopped being manufactured long before the Great War.}
-{54800}{}{Pack of Cigarettes}
-{54801}{}{A pack of 'Commies'. On the back it says: 'Smoke a Commie to do your bit for democracy and feel better'. Lower down there's a health warning: 'As your doctor, I recommend Commies for fresher breath and a winning smile'. It looks like there's about 10 in a pack.}
-{54900}{}{Gas Mask}
-{54901}{}{The Protective Mask: Your mask is your first line of defense against biological agents. Take care of it.}
-{55000}{}{Toaster}
-{55001}{}{A silver toaster sitting on a desk.}
-{55100}{}{Syringe}
-{55101}{}{A pre war implement for administrating drugs. It is full of an unknown substance.}
-{55200}{}{Dog Food}
-{55201}{}{Several cans of dog food.}
-{55300}{}{Bug Spray}
-{55301}{}{A spray can full of a substance that kills all known bugs.}
+{54401}{}{Este disco contem informações de várias plantas que cresceram antes da Grande Guerra.}
+{54500}{}{G.E.C.K. Vencido}
+{54501}{}{Kit de Criação do Jardim do Éden. Este é um equipamento padrão para todos os refúgios Vault-Tec. O GECK é uma fonte de reconstrução da civilização depois da bomba. Basta adicionar água e mexer. Este está com a data de validade vencida. Que desperdício!}
+{54600}{}{Moeda Velha}
+{54601}{}{Uma moeda muito antiga. Você não tem certeza de que rosto esta sobre ela, mas parece que ela pode ser rara e vale muito dinheiro.}
+{54700}{}{Um relógio}
+{54701}{}{Um relógio antigo. Esta marca parou de ser fabricado muito antes da Grande Guerra.}
+{54800}{}{Maço de cigarros}
+{54801}{}{Um bando de "comunistas". Na parte traseira diz: "Fume um comunista para fazer parte da democracia e se sentir melhor". Mais abaixo há uma advertência de saúde: "Como seu médico, eu recomendo comunistas para hálito fresco e um sorriso vencedor". Parece que há cerca de 10 unidades no pacote.}
+{54900}{}{Máscara de gás}
+{54901}{}{Uma máscara de proteção: Sua máscara é a sua primeira linha de defesa contra agentes biológicos. Cuide bem dela.}
+{55000}{}{Torradeira}
+{55001}{}{Uma torradeira prata jogada em uma mesa.}
+{55100}{}{Seringa}
+{55101}{}{Uma seringa de antes da grande guerra para administrar drogas. Ela está cheia de uma substância desconhecida.}
+{55200}{}{Comida de Cachorro}
+{55201}{}{Várias latas de comida de cachorro.}
+{55300}{}{Repelente de insetos}
+{55301}{}{Uma lata de spray cheia de uma substância que mata todos os insetos conhecidos}
 {55400}{}{Environmental Armor}
-{55401}{}{Armor best worn against biological attacks.}
+{55401}{}{Melhor armadura usada contra ataques biológicos.}
 {55500}{}{EPA Pamphlet}
-{55501}{}{A leaflet given out at the beginning of tours.}
-{55600}{}{Drugs}
-{55601}{}{Some sort of drugs preserved from before the war.}
-{55700}{}{Security Rooms Key Card}
-{55701}{}{A key card to unlock the security rooms.}
-{55800}{}{Test tube rack}
-{55801}{}{A rack for holding chemical test tubes.}
-{55900}{}{Keys}
-{55901}{}{Keys to allow access to the storage shed on the surface.}
-{56000}{}{Random Chemicals}
-{56001}{}{DANGER! Unknown chemicals. Use with caution.}
-{56100}{}{Corn Seeds}
-{56101}{}{Packets of seeds, used to grow plants. These are labeled as genetically modified corn seeds immune to both disease and insect infestation.}
-{56200}{}{Plant Spray}
-{56201}{}{A spray can full of a substance that kills various types of plants.}
-{56300}{}{Trigger activated dynamite}
-{56301}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger.}
-{56400}{}{Trigger switch}
-{56401}{}{Trigger for dynamite.}
-{56500}{}{Paper}
-{56501}{}{Paper with a passcode scribbled on it.}
-{56600}{}{Experimental Seeds}
-{56601}{}{Packet of experimental seeds. Result of germination is unknown.}
-{56700}{}{A drill}
-{56701}{}{An electric powered drill.}
-{56800}{}{Trigger activated dynamite}
-{56801}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger. This one is armed and ready to be triggered.}
+{55501}{}{Um folheto dado no início de passeios.}
+{55600}{}{Drogas}
+{55601}{}{Algum tipo de drogas preservada de antes da guerra.}
+{55700}{}{Cartão Chave Salas de Segurança}
+{55701}{}{Um cartão chave para abrir as salas de segurança.}
+{55800}{}{Suporte para tubos de ensaio}
+{55801}{}{Um rack para prender tubos de ensaio químico.}
+{55900}{}{Chaves}
+{55901}{}{Chaves para permitir o acesso ao galpão de armazenamento na superfície.}
+{56000}{}{Produtos Químicos aleatórios}
+{56001}{}{PERIGO! Produtos químicos desconhecidos. Use com cuidado.}
+{56100}{}{Sementes de milho}
+{56101}{}{Pacotes de sementes, usada para cultivar plantas. Estes são identificados como sementes de milho geneticamente modificadas para ambas as doenças do sistema imunológico e infestação de insectos.}
+{56200}{}{Pulverizador de Plantas}
+{56201}{}{Uma lata de pulverizador completa de uma substância que mata todos os tipos de plantas.}
+{56300}{}{Gatilho de dinamite ativado}
+{56301}{}{Ao contrário de uma dinamite normal que é acionada por um temporizador, esta dinamite é ativada por um gatilho.}
+{56400}{}{Gatilho}
+{56401}{}{Gatilho para dinamite.}
+{56500}{}{Papel}
+{56501}{}{Papel com um código de acesso rabiscado nele.}
+{56600}{}{Sementes experimentais}
+{56601}{}{Pacote de sementes experimentais. O resultado da germinação é desconhecida.}
+{56700}{}{Uma furadeira}
+{56701}{}{Uma furadeira elétrica.}
+{56800}{}{Gatilho de dinamite ativado}
+{56801}{}{Ao contrário de uma dinamite normal que é acionada por um temporizador, esta dinamite é ativada por um gatilho.}
 {56900}{}{Pop Rocks}
-{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
-{57000}{}{Bottle of Shampoo}
-{57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
-{57100}{}{K-9 Kevlar}
-{57101}{}{A dusty old set of sturdy kevlar plates set into black nylon sleeves. You think it must be sized for a dwarf, until you notice a tag on the inside which reads: Canine Kevlar. Large. A DoggieBuddy product. Made in Taiwan.}
-{57200}{}{Human Ear}
-{57201}{}{A woman's ear. Gross! Only a mentally unstable person would ever remove a human ear.}
+{56901}{}{Um saco fechado de um doce saboroso gaseificado feita de açúcar, lactose (mais açúcar), xarope de milho (ainda mais açúcar) e aromatizante. Há rumores de que quando misturado com a bebida Nuka Cola seu estômago poderia explodir.}
+{57000}{}{Frasco de Shampoo}
+{57001}{}{Um frasco prémio de shampoo. Ao contrário de outras marcas líderes, este shampoo vem em uma frasco incomum de plástico flexível. Foi projetado especialmente dessa maneira, por isso, quando a garrafa for espremida, a quantidade certa de shampoo será derramado - nem mais, nem menos. Apenas um flip da tampa, e você ja está pronto para usar.}
+{57100}{}{K9 Kevlar}
+{57101}{}{Um conjunto velho e empoeirado de placas de kevlar resistente e colocado em mangas de nylon preto. Você acha que deve ser projetado para um anão, até você notar uma etiqueta no interior onde se lê: Kevlar canina. Grande. Um produto DoggieBuddy. Made in Taiwan.}
+{57200}{}{Orelha Humana}
+{57201}{}{Orelha de uma mulher. Arrancada a força! Somente uma pessoa mentalmente instável remove uma orelha humana.}
 {57300}{}{ERSI canister}
-{57301}{}{A canister of Environmental Rejection Syndrome Inhibitors. Applied to specimens exiting from an extended period of hibernation.}
-{57400}{}{Lightsaber}
-{57401}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Obi-Wan-Killap. Min ST: 2}
-{57500}{}{Blaster}
-{57501}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid. Min ST: 3}
-{57600}{}{Lightsaber}
-{57601}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Empress Timeslip. Min ST: 2.}
-{57700}{}{Air Processing Vent}
-{57701}{}{The grill on this vent looks different.}
-{57800}{}{Metal Locker}
-{57801}{}{A storage container.}
-{57900}{}{Metal Locker}
-{57901}{}{A storage container.}
-{58000}{}{Chinese Code Chart}
-{58001}{}{You're not certain, but it appears to be a chart containing various Chinese command codes. Perhaps if you found a place to input these codes, you could learn a thing or two.}
-{58100}{}{Dead Tribal}
-{58101}{}{This person has died a horrible death on the medical table.}
-{58200}{}{Dead Tribal}
-{58201}{}{This person has died a horrible death on the medical table.}
-{58300}{}{Plant Spike}
-{58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
-{58400}{}{Dead Vault Dweller}
-{58401}{}{This person has died a horrible death on the medical table.}
-{58500}{}{Dead Vault Dweller}
-{58501}{}{This person has died a horrible death on the medical table.}
-{58600}{}{Dead Tribal}
-{58601}{}{This person has died a horrible death on the medical table.}
-{58700}{}{Dead Tribal}
-{58701}{}{This person has died a horrible death on the medical table.}
-{58800}{}{K-9 Kevlar}
-{58801}{}{Wearable K-9 Kevlar (FAKE)}
-{58900}{}{Mutant Armor}
-{58901}{}{Mutant Armor}
-{59000}{}{Mutant Armor}
-{59001}{}{Wearable Mutant Armor (FAKE)}
-{59100}{}{Small Scorpion Tail}
-{59101}{}{The severed tail of a small radscorpion.}
-{59200}{}{Plant seed}
-{59201}{}{A plant seed given to you by Dr. Sheng.}
-{59300}{}{Nothing out of the ordinary}
-{59301}{}{Nothing out of the ordinary.}
-{59400}{}{Nothing out of the ordinary}
-{59401}{}{Nothing out of the ordinary.}
-{59500}{}{Nothing out of the ordinary}
-{59501}{}{Nothing out of the ordinary.}
-{59600}{}{Fake Heart Pills}
-{59601}{}{These pills would normally be used by people with heart problems, except in this case death would ensue. These pills have been mixed with other chemicals, resulting in a guaranteed heart-exploding experience.}
+{57301}{}{Uma lata de Inibidores de Rejeição Síndrome Ambiental. Aplicado para amostras que saem de um período prolongado de hibernação.}
+{57400}{}{Sabre de Luz}
+{57401}{}{Uma arma antiga de uma era mais civilizada. Não é tão desajeitado ou tão simples como uma espada. Foi dado a você por Obi-Wan-Killap. Min. FO: 2}
+{57500}{}{Desintegrador}
+{57501}{}{Religiões e armas antigas não são páreo para um bom desintegrador ao seu lado. Min. FO: 3}
+{57600}{}{Sabre de Luz}
+{57601}{}{Uma arma antiga de uma era mais civilizada. Não é tão desajeitado ou tão simples como uma espada. Foi dado a você por Obi-Wan-Killap. Min. FO: 2}
+{57700}{}{Processamento de ventilação}
+{57701}{}{A grade nesta ventilação parece diferente.}
+{57800}{}{Armário de metal}
+{57801}{}{Uma contêiner de armazenamento.}
+{57900}{}{Armário de metal}
+{57901}{}{Uma contêiner de armazenamento.}
+{58000}{}{Guia de código chinês}
+{58001}{}{Você não certeza, mas parece ser uma carta contendo vários códigos de comando chineses. Talvez, se você encontrar algum lugar para introduzir estes códigos, você pode aprender algumas coisas.}
+{58100}{}{Tribal morto}
+{58101}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58200}{}{Tribal morto}
+{58201}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58300}{}{Espinho de Planta}
+{58301}{}{Um espinho de planta orgânica, as plantas carnívoras cospem sobre seus alvos de alimentos ou sementes.}
+{58400}{}{Vault Dweller Morto}
+{58401}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58500}{}{Vault Dweller Morto}
+{58501}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58600}{}{Tribal morto}
+{58601}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58700}{}{Tribal morto}
+{58701}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58800}{}{K9 Kevlar}
+{58801}{}{Kevlar K9 - Fácil de usar (FALSO)}
+{58900}{}{Armadura mutante}
+{58901}{}{Armadura mutante}
+{59000}{}{Armadura mutante}
+{59001}{}{Armadura - Fácil de usar (FALSO)}
+{59100}{}{Pequena cauda de escorpião}
+{59101}{}{Uma cauda cortada de um pequeno radscorpion.}
+{59200}{}{Semente de planta}
+{59201}{}{Uma semente da planta fornecido pelo Dr. Sheng}
+{59300}{}{Nada fora do comum.}
+{59301}{}{Nada fora do comum.}
+{59400}{}{Nada fora do comum.}
+{59401}{}{Nada fora do comum.}
+{59500}{}{Nada fora do comum.}
+{59501}{}{Nada fora do comum.}
+{59600}{}{Pílulas de coração falsas}
+{59601}{}{Essas pílulas são normalmente usadas por pessoas com problemas cardíacos, exceto neste caso a morte seria certa. Essas pílulas foram misturadas com outros produtos químicos, resultando em uma experiência de coração explodindo garantido.}

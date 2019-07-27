@@ -1,13 +1,7 @@
-# 0. Look
 {100}{}{Vidíš otrokáøe.}
-
 {150}{}{Vypadá, že je to jedna z Metzgerových osobních stráží.}
-
-# 1. CF: Hostile
 {200}{}{Tady jseš!}
 {201}{}{Teï chcípneš.}
-
-# 2. CF: Normal
 {300}{}{Chceš vidìt šéfa? Tak jdi dovnitø.}
 {301}{}{Promluv si s Metzgerem, ne se mnou.}
 {302}{}{Mùžeš jít dovnitø.}

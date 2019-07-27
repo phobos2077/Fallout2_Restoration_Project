@@ -14,7 +14,7 @@
 {106}{}{Open Says Me}
 {107}{}{Sierra}
 {108}{}{Armageddon}
-{109}{}{Hack into security systems}
+{109}{}{"Hackear" o sistema de segurança}
 {110}{}{You don't have a clue. Exit.}
 {113}{}{Force Fields Disabled - Level 1}
 {115}{}{Sair}
@@ -47,7 +47,7 @@
 {138}{}{Your ineptness has caused you to set off the alarm system.}
 {139}{}{Sair}
 {200}{}{ is unable to read what is on the monitor.}
-{300}{}{The computer seems to have some sort of defense mechanism.}
+{300}{}{O computador parece ter um mecanismo de defesa.}
 {301}{}{You are shocked for }
 {302}{}{ is shocked for }
 {303}{}{ pontos de dano.}

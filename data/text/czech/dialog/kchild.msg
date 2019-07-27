@@ -1,30 +1,5 @@
-#############################################################
-#  Message File: kchild.msg                                 #
-#                                                           #
-#       Body Type: CHILD                                    #
-#       Combat AI: Flee                                     #
-#       Weapons: None                                       #
-#       HP: 20                                              #
-#       Skills to note: None                                #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: January 13, 1998                                #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
 {100}{}{Vidíš jedno z Klamathských dìtí.}
 {101}{}{Vidíš jedno z Klamathských dìtí.}
-
-#############################################################
-#  The following lines are floaters for children            #
-#############################################################
-
 {150}{}{Nesežer mì!}
 {151}{}{Jéééé! Bubák!}
 {152}{}{Táta øíká, že jseš zlej èlovìk.}
@@ -44,7 +19,6 @@
 {166}{}{Mamí, mamí, mamí!}
 {167}{}{Nech mì na pokoji!}
 {168}{}{Smrdíš!}
-
 {170}{}{Nazdárek.}
 {171}{}{Nechceš si se mnou zahrát na dospìlý?}
 {172}{}{Opravdu si strkáte do nosu kost?}
@@ -65,7 +39,6 @@
 {187}{}{Mùj pes má rád sušený maso.}
 {188}{}{Mám lesklej kamínek.}
 {189}{}{Nevidìl jsi mýho neviditelnýho pøítele?}
-
 {190}{}{Mùžu se pøipojit k tvýmu kmenu?}
 {191}{}{Jseš hodnej.}
 {192}{}{Vypadáš legraènì.}
@@ -100,10 +73,6 @@
 {221}{}{Líbím se ti?}
 {222}{}{Máš rodinu?}
 {223}{}{Raz, dva, tøi, jééé!}
-
-#############################################################
-#  TELL ME ABOUTS WILL BE REMOVED                           #
-#############################################################
 {1000}{}{Starsi}
 {1001}{}{Zakladatel}
 {1002}{}{Obyvatel Vaultu}
@@ -116,7 +85,6 @@
 {1009}{}{Lecivy prasek}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-
 {1100}{}{Starší je tvoje matka a náš vùdce.}
 {1101}{}{Náš slavný pøedek, který nám pøedal své znalosti.}
 {1102}{}{První èlovìk, který bojoval a zvítìzil nad chaosem.}

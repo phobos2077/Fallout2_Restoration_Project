@@ -1,41 +1,41 @@
-{0}{}{Burst}
-{1}{}{Run Away}
-{2}{}{Weapon Pref.}
-{3}{}{Distance}
-{4}{}{Attack Who}
-{5}{}{Chem Use}
+{0}{}{Use Explosão}
+{1}{}{Fugir}
+{2}{}{Pref. de armas}
+{3}{}{Distância}
+{4}{}{Quem Atacar?}
+{5}{}{Usar drogas}
 {10}{}{Feito}
-{11}{}{Cancel}
-{99}{}{Not Applicable.}
-{100}{}{Always!}
-{101}{}{Sometimes, don't worry about hitting me}
-{102}{}{Be sure you won't hit me}
-{103}{}{Be careful not to hit me}
-{104}{}{Be absolutely sure you won't hit me}
-{200}{}{Abject coward}
-{201}{}{Your finger hurts}
-{202}{}{You're bleeding a bit}
-{203}{}{Not feeling good}
-{204}{}{You need a tourniquet}
+{11}{}{CANCEL}
+{99}{}{Não se aplica.}
+{100}{}{Sempre!}
+{101}{}{Às vezes, não se preocupe se me acertar}
+{102}{}{Tenha certeza que você não vai me acertar}
+{103}{}{Tenha cuidado para não me acertar}
+{104}{}{Tenha absoluta certeza que você não vai me acertar}
+{200}{}{Como um covarde desprezível}
+{201}{}{Se dói um dedo}
+{202}{}{Se estiver sangrando um pouco}
+{203}{}{Se não se sente bem}
+{204}{}{Se precisar de um torniquete}
 {205}{}{Nunca!}
-{300}{}{None}
-{301}{}{Melee}
-{302}{}{Melee then ranged}
-{303}{}{Ranged then melee}
-{304}{}{Ranged}
-{305}{}{Unarmed}
-{400}{}{Stay close to me}
-{401}{}{Charge!}
-{402}{}{Snipe the enemy}
-{403}{}{On your own}
-{404}{}{Stay where you are}
-{500}{}{Whoever is attacking me}
-{501}{}{The strongest}
-{502}{}{The weakest}
-{503}{}{Whomever you want}
-{504}{}{Whoever is closest}
-{600}{}{I'm clean}
-{601}{}{Stimpacks when hurt a bit}
-{602}{}{Stimpacks when hurt a lot}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{300}{}{Nenhum}
+{301}{}{corpo a corpo}
+{302}{}{corpo a corpo e a distância}
+{303}{}{A distância, em seguida corpo a corpo}
+{304}{}{Variado}
+{305}{}{Desarmado}
+{400}{}{Fique perto de mim}
+{401}{}{Dar cobertura!}
+{402}{}{Atire no inimigo de longe.}
+{403}{}{Como quiser}
+{404}{}{Fique onde está}
+{500}{}{Quem está me atacando}
+{501}{}{O mais forte}
+{502}{}{O mais fraco}
+{503}{}{Quem você quizer}
+{504}{}{Quem estiver mais perto}
+{600}{}{Nada.}
+{601}{}{Stimpacks se estiver ferido}
+{602}{}{Stimpacks se estiver gravemente ferido}
+{603}{}{Qualquer droga algumas vezes}
+{604}{}{Qualquer droga a qualquer momento}

@@ -40,20 +40,20 @@
 {139}{}{Pokud se nenarodíš jako Obèan, musíš podstoupit test k získání Obèanství. Poèet venkovanù, kteøí udìlali test a stali se Obèany - nula. Tvoje šance? MÉNÌ než nula.}
 {140}{}{Co je to za test?}
 {141}{}{Jak mùžu ještì obejít celnici?}
-{142}{}{Zapomeò na to. Možná si promluvíme jindy.}
+{142}{}{Zapomeò na to. Možná si promluvíme nìkdy jindy.}
 {143}{}{Prokonzul Gregory dá "test" jakémukoliv venkovanovi, který se chce stát Obèanem. Zmìøí tak jejich inteligenci a vnímání a musíš mít zatracenou kliku, abys prošel. Dokonce i vìtšina Obèanù by s tím mìla potíže.}
 {144}{}{Proè je to tak tìžké?}
 {145}{}{Jak mùžu ještì obejít celnici kromì toho, že se stanu Obèanem?}
-{146}{}{Zapomeò na to. Možná si promluvíme jindy.}
+{146}{}{Zapomeò na to. Možná si promluvíme nìkdy jindy.}
 {147}{}{Jelikož vìtšina venkovanù neumí èíst, neví nic o trigonometrii a ani neumí vyhláskovat "Australopithecus", tak už asi chápeš proè. Je to jen zpùsob, jak zabránit venkovanùm, aby se stali Obèany.}
 {148}{}{Jak mùžu ještì obejít celnici kromì toho, že se stanu Obèanem?}
-{149}{}{Zapomeò na to. Možná si promluvíme jindy.}
+{149}{}{Zapomeò na to. Možná si promluvíme nìkdy jindy.}
 {150}{}{Mùžeš schovat zboží u svých otrokù... svých "služebníkù". Víš, zpùsob myšlení ve Vault City je takový, že by ani nepomysleli na to, že nìkdo nechá nést svoje služebníky nìco dùležitého... nebo problematického. Nechápu to.}
 {151}{}{Nìjaké jiné možnosti?}
 {152}{}{Tak dobøe. Díky.}
 {153}{}{No, MÙŽEŠ se stát Obèanem... neoficiálnì.}
 {154}{}{O èem to mluvíš?}
-{155}{}{Zapomeò na to. Možná si promluvíme jindy.}
+{155}{}{Zapomeò na to. Možná si promluvíme nìkdy jindy.}
 {156}{}{Jestli máš peníze, øeknu ti detaily. Jinak...}
 {157}{}{Mám peníze. Kolik to bude stát?}
 {158}{}{Zapomeò na to. Možná si promluvíme jindy.}
@@ -65,10 +65,10 @@
 {164}{}{Nemám u sebe tak velkou èástku. Možná nìkdy jindy.}
 {165}{}{Ne díky. Možná nìkdy jindy.}
 {166}{}{To je jednoduché, nebudou ti VÌØIT. Ty jsi venkovan, já jsem Obèan. Hádej, komu budou vìøit víc?}
-{167}{}{Koupím ty doklady o Obèanství.}
+{167}{}{Koupím tedy doklady o Obèanství.}
 {168}{}{Koupím ty doklady o Obèanství... ale za $150, ne za $200.}
 {169}{}{No, $200 je pro mì trochu moc. Vrátím se, až seženu víc penìz.}
-{170}{}{Zapomeò na to. Možná si promluvíme jindy.}
+{170}{}{Zapomeò na to. Možná si promluvíme nìkdy jindy.}
 {171}{}{Hmmm. No, tak dobøe... máš štìstí, že mám dneska dobrou náladu, ale nikomu z ostatních venkovanù neøíkej, že je máš ode mì tak levnì.}
 {172}{}{Tak dobøe.}
 {173}{}{Dej mi ty blbý doklady.}

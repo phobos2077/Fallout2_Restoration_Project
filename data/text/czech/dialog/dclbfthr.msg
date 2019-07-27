@@ -14,7 +14,5 @@
 {113}{}{*mumlá*}
 {114}{}{Nevidíš, že chlastám? *škyt*}
 {115}{}{Nech mì na pokoji. *škyt*}
-
 {116}{}{Ve skuteènosti ještì není 11, ale to teï není dùležité. Ale teï vážnì, víš, kde se nachází tvoje dítì?}
 {117}{}{Ve skuteènosti už 11 bylo, ale to teï není dùležité. Ale teï vážnì, víš, kde se nachází tvoje dítì?}
-

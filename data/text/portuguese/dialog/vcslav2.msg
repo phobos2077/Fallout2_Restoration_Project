@@ -6,18 +6,18 @@
 {104}{}{You see a Vault City slave.}
 {105}{}{You see a healthy-looking woman in working clothes. She is keeping her eyes firmly fixed on
  the ground.}
-{106}{}{I have heard of your brave deeds. You have done a great service for Vault City... and the world.}
-{107}{}{Your battle against the Enclave impressed even the First Citizen.}
+{106}{}{Eu tenho escutado sobre seus feitos heróicos. Você fez um grande serviço para Vault City...e para o mundo.}
+{107}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
 {108}{}{I wish I could somehow give you something for all you've done for us, but I have nothing to
  give... except my thanks.}
 {109}{}{The other servants will be envious that I was talking to the hero of the Wastes.}
-{110}{}{Yes, Captain?}
+{110}{}{Pois não, Capitão?}
 {111}{}{Captain?}
 {112}{}{Is there something you wanted me to do, Captain?}
 {113}{}{Did you have a task for me, Captain?}
 {114}{}{I'm sorry, Captain. I will try and work harder.}
 {115}{}{I'm sorry, Captain. I will try to be more attentive.}
-{116}{}{Yes, Citizen?}
+{116}{}{Pois não, Cidadão?}
 {117}{}{Citizen?}
 {118}{}{Is there something you wanted me to do, Citizen?}
 {119}{}{Did you have a task for me, Citizen?}

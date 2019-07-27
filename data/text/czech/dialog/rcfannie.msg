@@ -84,7 +84,6 @@
 {183}{}{V tom pøípadì doufám, e nemáš moc vybíravej nosánek, protoe horníci nemaj zrovna moc v lásce vodu a mıdlo.}
 {184}{}{Opravdu? No, moná to pro mì tak úplnì není. Ale díky za nabídku. Sbohem.}
 {185}{}{Nechápu, jak to mùeš vydret, ale hádám, e taky asi nevydríš. Tím myslím ten smrad. Sbohem.}
-# Begin Seraph's Code
 {186}{}{(Fannie vypadá, jako kdyby z ní spadlo tìké bøemeno, které ji pøedtím tíilo.) Hej, to jsi ty! Lou mi øekla, co jsi udìlal. Z toho, co mi nalila do pití, se mi udìlalo pìknì blbì, ale od tı doby nemám vùbec nutkání si vzít další dávku Jetu. (Políbí tì na tváø.) Ani nevím, jak bych se ti mohla odvdìèit... teda, vìdìla bych o jednı *vìci*. Kdykoliv budeš mít náladu, tak se zastav. Bez placení. (mrkne)}
 {187}{}{Budu na to myslet. Díky, Fannie.}
 {188}{}{Ještì jednou díky. (olízne si ret) A pamatuj, pro tebe je to vdycky na úèet podniku. (mrkne)}
@@ -93,8 +92,5 @@
 {191}{}{Máš teï na chvilinku èas?}
 {192}{}{Vra se kdykoliv budeš chtít! Vdycky si to ráda zopakuju.}
 {193}{}{[KONEC]}
-
 {200}{}{Nalil jsi protilátku na Jet do pití Fannie Mae.}
-# End Seraph's Code
-
 {210}{}{Dobøe, tady je $60. Co takhle si dát další èíslo?}

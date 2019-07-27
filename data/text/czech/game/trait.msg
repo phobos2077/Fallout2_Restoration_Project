@@ -1,11 +1,5 @@
-#
-#   Messages from trait.c
-#
-#
-#   TRAIT NAMES
-#
 {100}{}{Rychlý metabolismus}
-{101}{}{Rváè}
+{101}{}{Mlátièka}
 {102}{}{Mròous}
 {103}{}{Jednoruký}
 {104}{}{Finesa}
@@ -17,12 +11,9 @@
 {110}{}{Dobrák}
 {111}{}{Narkoman}
 {112}{}{Abstinent}
-{113}{}{Pøitažlivý}  # was: Night Person
+{113}{}{Pøitažlivý}
 {114}{}{Zkušený}
 {115}{}{Talentovaný}
-#
-#   TRAIT DESCRIPTIONS
-#
 {200}{}{Tvoje látková výmìna je dvakrát rychlejší než u normálních lidí. To znamená, že jsi ménì odolný vùèi radiaci a jedùm, ale tvé tìlo se rychleji léèí z utrpìných zranìní.}
 {201}{}{Trochu pomalejší, ale trochu mohutnìjší. Možná svého soupeøe až tak èasto nezasáhneš, ale když ano, tak to setsakramentsky pocítí! Celkové množství tvých akèních bodù je sníženo, ale tvá Síla je zvýšena.}
 {202}{}{Nejsi tak urostlý jako ostatní z tvé vesnice, ale to tì nikdy netrápilo. Neuneseš sice moc nákladu, za to jsi hbitìjší.}

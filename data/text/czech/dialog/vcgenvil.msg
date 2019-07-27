@@ -1,7 +1,7 @@
 {100}{}{Vidíš farmáøe.}
 {101}{}{Vidíš farmáøe.}
 {102}{}{Ahoj.}
-{103}{}{Pøeju pìknı den.}
+{103}{}{Pøeju hezkej den.}
 {104}{}{Vítej v naší vesnici.}
 {105}{}{Tyhle monstra nás chrání.}
 {106}{}{Vítej.}

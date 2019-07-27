@@ -1,13 +1,9 @@
 {100}{}{Vidíš silnì hyperaktivního prcka.}
 {101}{}{Vidíš Malého Todda.}
-
-#random floats
 {200}{}{BUUUM!!! Miluju výbuchy!}
 {201}{}{Prásk-prásk! Støílím mutanty!}
 {202}{}{Chci vidìt další výbuchy!}
 {203}{}{Všechno by mìlo vybuchovat!}
-
-#dialogue
 {300}{}{Nemohl byste nìco vyhodit do vzduchu, pane?}
 {301}{}{Až vyrostu, budu vládnout svìtu!}
 {302}{}{Nelíbí se mi tu. Chci odejít k východnímu pobøeží!}
@@ -20,5 +16,3 @@
 {309}{}{Nìkdy piju vodu ze záchodu!}
 {310}{}{Co vlastnì znamená ta kon-ty-òu-jí-ta?}
 {311}{}{Nemohla byste nechat nìco vybouchnout, paní?}
-
-

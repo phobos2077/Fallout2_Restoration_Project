@@ -1,54 +1,54 @@
-{100}{}{Rocket}
-{200}{}{Plasma Ball}
-{300}{}{Explosion}
-{400}{}{Blood}
+{100}{}{Foguete}
+{200}{}{Bola de Plasma}
+{300}{}{Explosão}
+{400}{}{Sangue}
 {500}{}{No-Trans hex}
 {501}{}{}
-{600}{}{knife}
-{700}{}{spear}
-{800}{}{EMP Explosion}
-{900}{}{Laser Blast}
-{1000}{}{Plasma Blast}
-{1100}{}{Explosion}
-{1200}{}{Scroll Blocker}
-{1300}{}{Electricity Bolt}
-{1400}{}{Explosion}
-{1500}{}{Explosion}
-{1600}{}{Exit Grid}
-{1700}{}{Exit Grid}
-{1800}{}{Exit Grid}
-{1900}{}{Exit Grid}
-{2000}{}{Exit Grid}
-{2100}{}{Exit Grid}
-{2200}{}{Exit Grid}
-{2300}{}{Exit Grid}
-{2400}{}{Flare}
-{2500}{}{Grenade}
-{2600}{}{Rock}
-{2700}{}{Explosion}
-{2800}{}{Explosion}
-{2900}{}{Explosion}
-{3000}{}{Molotov Cocktail}
-{3100}{}{Exit Grid}
-{3200}{}{Exit Grid}
-{3300}{}{Exit Grid}
-{3400}{}{Exit Grid}
-{3500}{}{Exit Grid}
-{3600}{}{Exit Grid}
-{3700}{}{Exit Grid}
-{3800}{}{Exit Grid}
-{3900}{}{Exit Grid}
-{4000}{}{Exit Grid}
-{4100}{}{Exit Grid}
-{4200}{}{Exit Grid}
-{4300}{}{Exit Grid}
-{4400}{}{Exit Grid}
-{4500}{}{Exit Grid}
-{4600}{}{Exit Grid}
-{4700}{}{Robot Rocket}
+{600}{}{faca}
+{700}{}{lança}
+{800}{}{EMP Explosão}
+{900}{}{Disparo de Laser}
+{1000}{}{Disparo de Plasma}
+{1100}{}{Explosão}
+{1200}{}{Esquivar}
+{1300}{}{Ráio elétrico}
+{1400}{}{Explosão}
+{1500}{}{Explosão}
+{1600}{}{Saída}
+{1700}{}{Saída}
+{1800}{}{Saída}
+{1900}{}{Saída}
+{2000}{}{Saída}
+{2100}{}{Saída}
+{2200}{}{Saída}
+{2300}{}{Saída}
+{2400}{}{Chama}
+{2500}{}{Granada}
+{2600}{}{Rocha}
+{2700}{}{Explosão}
+{2800}{}{Explosão}
+{2900}{}{Explosão}
+{3000}{}{Coquetel Molotov}
+{3100}{}{Saída}
+{3200}{}{Saída}
+{3300}{}{Saída}
+{3400}{}{Saída}
+{3500}{}{Saída}
+{3600}{}{Saída}
+{3700}{}{Saída}
+{3800}{}{Saída}
+{3900}{}{Saída}
+{4000}{}{Saída}
+{4100}{}{Saída}
+{4200}{}{Saída}
+{4300}{}{Saída}
+{4400}{}{Saída}
+{4500}{}{Saída}
+{4600}{}{Saída}
+{4700}{}{Robo Foguete}
 {4701}{}{}
 {4800}{}{Ka-Pow!}
 {4801}{}{}
-{4900}{}{Plant Spike}
+{4900}{}{Espinho de Planta}
 {4901}{}{}
-{5000}{}{Dual Plasma Ball}
+{5000}{}{Dupla Bola de Plasma}

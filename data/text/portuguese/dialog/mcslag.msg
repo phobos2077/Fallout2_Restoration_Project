@@ -1,22 +1,22 @@
 {100}{}{Corre!}
 {101}{}{Ajuda!}
-{102}{}{We're being attack by the surfacers.}
+{102}{}{Estamos sob ataque da superfície.}
 {103}{}{Nos deixe em paz.}
-{104}{}{Can't we all just get along?}
-{150}{}{Go back where you came from.}
+{104}{}{Nos não podemos ficar juntos?}
+{150}{}{Volte para onde veio.}
 {151}{}{Você não é procurado aqui.}
-{152}{}{All you surfacers are alike.}
-{153}{}{You will not escape.}
+{152}{}{Todos vocês da superfície são iguais.}
+{153}{}{Você não vai escapar.}
 {200}{}{Groan!}
 {201}{}{Boo!}
 {202}{}{Moaaaaaaan.}
 {203}{}{*Clank*}
 {204}{}{*Clink*}
-{250}{}{We used to live above ground.}
-{251}{}{What's it like above ground?}
-{252}{}{It's so BIG up there.}
-{253}{}{What's the sun look like?}
-{254}{}{Hello, surfacer.}
-{300}{}{I knew we could trust you.}
+{250}{}{Costumávamos viver na superfície.}
+{251}{}{Como é lá na superfície?}
+{252}{}{Lá em cima é ENORME.}
+{253}{}{Como o sol se parace?}
+{254}{}{Olá, pessoa da superfície.}
+{300}{}{Sabia que poderia confiar em você.}
 {301}{}{Obrigado por nos ajudar.}
 {302}{}{Bom ver você de novo.}

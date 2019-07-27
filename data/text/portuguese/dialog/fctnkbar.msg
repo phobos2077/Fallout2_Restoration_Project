@@ -1,4 +1,4 @@
-{100}{}{You see a bartender.}
+{100}{}{Você vê um barman.}
 {101}{}{You see Slim, the bartender.}
 {102}{}{You see a bartender. He's wearing an apron and is holding a glass that he constantly cleans by spitting into it and wiping it with a dirty towel. He looks like he doesn't take crap from anyone.}
 {103}{}{I'm Slim. What'll you have?}

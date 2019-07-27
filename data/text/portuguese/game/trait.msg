@@ -1,32 +1,32 @@
-{100}{}{Fast Metabolism}
-{101}{}{Bruiser}
-{102}{}{Small Frame}
-{103}{}{One Hander}
-{104}{}{Finesse}
+{100}{}{Metabolismo Acelerado}
+{101}{}{Brutamonte}
+{102}{}{Franzino}
+{103}{}{Mão Dominante}
+{104}{}{Destreza}
 {105}{}{Kamikaze}
-{106}{}{Heavy Handed}
-{107}{}{Fast Shot}
-{108}{}{Bloody Mess}
-{109}{}{Jinxed}
-{110}{}{Good Natured}
-{111}{}{Chem Reliant}
-{112}{}{Chem Resistant}
-{113}{}{Sex Appeal}
-{114}{}{Skilled}
-{115}{}{Gifted}
-{200}{}{Your metabolic rate is twice normal.  This means that you are much less resistant to radiation and poison, but your body heals faster.}
-{201}{}{A little slower, but a little bigger.  You may not hit as often, but they will feel it when you do!  Your total action points are lowered, but your Strength is increased.}
-{202}{}{You are not quite as big as the other villagers, but that never slowed you down.  You can't carry as much, but you are more agile.}
-{203}{}{One of your hands is very dominant.  You excel with single-handed weapons, but two-handed weapons cause a problem.}
-{204}{}{Your attacks show a lot of finesse.  You don't do as much damage, but you cause more critical hits.}
-{205}{}{By not paying attention to any threats, you can act a lot faster in a turn.  This lowers your armor class to just what you are wearing, but you sequence much faster in a combat turn.}
-{206}{}{You swing harder, not better.  Your attacks are very brutal, but lack finesse.  You rarely cause a good critical, but you always do more melee damage.}
-{207}{}{You don't have time to aim for a targeted attack, because you attack faster than normal people.  It costs you one less action point for guns and thrown weapons.}
-{208}{}{By some strange twist of fate, people around you die violently.  You always see the worst way a person can die.}
-{209}{}{The good thing is that everyone around you has more critical failures in combat, the bad thing is so do you!}
-{210}{}{You studied less-combative skills as you were growing up.  Your combat skills start at a lower level, but First Aid, Doctor, Speech and Barter are substantially improved.}
-{211}{}{You are more easily influenced by chems.  Your chance to be reliant by chem use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Chems only affect you half as long as normal, but your chance to be reliant is also only 50% of normal.}
-{213}{}{You've got the "right" stuff.  Members of the opposite sex are attracted to you, but those of the same sex tend to become quite jealous.}
-{214}{}{Since you spent more time improving your skills than a normal person, you gain 5 additional skill points per experience level. The tradeoff is that you do not gain as many extra abilities. You gain a perk every four levels.}
-{215}{}{You have more innate abilities than most, so you have not spent as much time honing your skills.  Your primary statistics are each +1, but you lose -10% on all skills to start, and receive 5 less skill points per level.}
+{106}{}{Mão Pesada}
+{107}{}{Veloz}
+{108}{}{Sanguinário}
+{109}{}{Azarado}
+{110}{}{Diplomata}
+{111}{}{Viciado}
+{112}{}{Res. Drogas}
+{113}{}{Sexy}
+{114}{}{Talentoso}
+{115}{}{Super Dotado}
+{200}{}{A sua taxa metabólica é o dobro do normal. Isso significa que você é muito menos resistente à radiação e veneno, mas o seu corpo recupera depressa.}
+{201}{}{Um pouco mais lento, mas um pouco maior. Você não pode lutar com frequência, mas eles vão sentir dor quando lutar! Seus pontos de ação totais são reduzidos, mas sua força é maior.}
+{202}{}{Você não é tão grande como os outros aldeões, mas isso nunca te deixou pra baixo. Você não pode carregar muito peso, mas você é mais ágil.}
+{203}{}{Uma das suas mãos é muito dominante. Você se destacar com armas de uma mão, mas as armas de duas mãos são um problema.}
+{204}{}{Seus ataques mostram muita destreza. Você não faz tanto dano, mas tem mais acertos críticos.}
+{205}{}{Você pode agir muito mais rápido que o normal. Isso diminui sua classe de armadura para apenas o que você está vestindo, mas sua reação é muito mais rápida no combate.}
+{206}{}{Você bate com mais força. Seus ataques são brutais, mas falta destreza. Você raramente causa dano crítico, mas sempre faz mais em corpo-a-corpo.}
+{207}{}{Você não tem tempo para apontar precisamente porque você dispara mais rápido do que as pessoas normais. Armas de fogo e armas de arremesso te custam 1 P.A.}
+{208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior forma que uma pessoa pode morrer.}
+{209}{}{A coisa boa é que todos ao seu redor possui falhas mais críticas em combate, a única coisa ruim é que você também!}
+{210}{}{Você estudou habilidades pacíficas quando você estava crescendo. Suas habilidades de combate começam em um nível mais baixo, mas suas habilidades em Primeiros Socorros, Médico, fala e negociação são melhores.}
+{211}{}{Ficará mais facilmente viciados em drogas. Sua chance de ser viciado em drogas é o dobro do normal, mas se recupera antes dos efeitos colaterais.}
+{212}{}{As drogas afetam apenas a metade do tempo normal, mas a sua chance de ser viciado é também apenas 50% do normal.}
+{213}{}{Você é um garanhão". Os membros do sexo oposto se setiram atraídos por você, mas aqueles do mesmo sexo tendem a ficar bastante ciumento.}
+{214}{}{Você passou mais tempo melhorando suas habilidades, ganha 5 pontos de habilidade adicionais por nível de experiência. A desvantagem é que você não ganhar o máximo de habilidades extras.}
+{215}{}{Você tem mais habilidades do que a maioria. Suas estatísticas primárias aumentam em +1, mas você perde 10% em todas as habilidades para começar, e recebe menos 5 pontos de perícia por nível.}

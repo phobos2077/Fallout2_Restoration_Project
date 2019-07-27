@@ -31,7 +31,7 @@
 {130}{}{Za vyprovokování rvaèky z tebe teï nadìlám karbanátky.}
 {131}{}{Blbeèku.}
 {132}{}{Nemùžeš tohle dìlat a oèekávat, že to pøežiješ.}
-{133}{}{Nastal èas vyøadit tvùj vzorek z genofondu lidstva.}
+{133}{}{Time to take you outta' da' gene-pool.}
 {134}{}{To nebylo chytrý.}
 {135}{}{Je mi líto, že k tomu muselo dojít.}
 {136}{}{Ubožáku.}
@@ -42,10 +42,10 @@
 {141}{}{Teï ti ukážeme, zaè je toho loket.}
 {142}{}{Tohle bude opravdu bolet... ale tebe.}
 {143}{}{Radši zastrè tu pistolku, kamaráde.}
-{144}{}{Nechceme tu žádný problémy, pøíteli. Dej to pryè.}
+{144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Radši dej tu vìcièku pryè.}
 {146}{}{Nech to pìknì v pouzdøe, chlape.}
-{147}{}{Dej tu zbraò pryè.}
+{147}{}{Schovej tu zbraò.}
 {148}{}{Radši dej tu zbraò pryè.}
 {149}{}{Dokud jseš tady, tak drž svoje ruèièky pìknì daleko od svejch bouchaèek.}
 {150}{}{Schovej tu zbraò, kámo.}
@@ -54,7 +54,7 @@
 {153}{}{Nestojíme tu o žádný problémy.}
 {154}{}{Chovej se slušnì.}
 {155}{}{Buï pìknì v klidu.}
-{156}{}{Jdi pryè.}
+{156}{}{Táhni odsud.}
 {157}{}{Tady není nic k vidìní.}
 {158}{}{Hezký den.}
 {159}{}{Vítej u Ascortiho.}
@@ -85,7 +85,7 @@
 {184}{}{Nemùžu uvìøit, že dìláš takovou kravinu pøímo pøed našima oèima.}
 {185}{}{Eh, promiò, ale PØESTAÒ DÌLAT KRAVINY!}
 {186}{}{Pøestaò blbnout s tìma dveøma, ty idiote.}
-{187}{}{Co to dìláš?}
+{187}{}{Co tu dìláš?}
 {188}{}{Ježíši, ti zlodìji nemaj dneska žádnou úroveò. }
 {189}{}{Jdi pryè od tìch dveøí.}
 {190}{}{Nesahej na ty dveøe.}

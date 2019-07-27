@@ -6,9 +6,9 @@
 {105}{}{An intruder! Guards! Guards!}
 {106}{}{Wh-?! A mutant! GUARDS! GUARDS!}
 {107}{}{Wh-? A ghoul! GUARDS! GUARDS!}
-{108}{}{Good day, Captain.}
-{109}{}{Vault City prevails, Captain.}
-{110}{}{Good day, Citizen.}
+{108}{}{Bom dia, Capitão.}
+{109}{}{Vault City prevails, Capitão.}
+{110}{}{Bom dia, Citizen.}
 {111}{}{Vault City prevails, Citizen.}
 {112}{}{Lists, lists, lists... how I love lists!}
 {113}{}{Compile form 5632 into the list server...}
@@ -42,12 +42,12 @@
 {141}{}{What is the test, exactly?}
 {142}{}{I want to take the test again.}
 {143}{}{What are the benefits of being a Citizen?}
-{144}{}{Can I ask you some other questions?}
+{144}{}{Posso fazer mais algumas perguntas?}
 {145}{}{I see. Maybe we'll talk again later.}
 {146}{}{Benefits? Why, look around you... Vault City is the safest, richest city in all the wastes. Citizens receive free medical treatment, food and water is plentiful, and there is no crime or disease to speak of.}
 {147}{}{What is the test exactly?}
 {148}{}{Sounds good. I'd like to take the test again.}
-{149}{}{Can I ask you some other questions?}
+{149}{}{Posso fazer mais algumas perguntas?}
 {150}{}{I see. Maybe we'll talk again later.}
 {151}{}{It is a comprehensive exam, divided into several parts... advanced mathematics, spatial relations, deductive reasoning, language comprehension... oh, and there is also a thorough physical examination.}
 {152}{}{Wh... advanced math-ma-what? Uh, isn't there some object I can get or someone I can fight to get Citizenship?}
@@ -111,11 +111,11 @@
 {210}{}{Well, if you finish that task for the First Citizen she will give you your Citizenship, not that you'd deserve it. I suppose she has her reasons.}
 {211}{}{Is there another way to become a Citizen?}
 {212}{}{You disapprove of her offering me Citizenship for that?}
-{213}{}{Can I ask you some other questions?}
+{213}{}{Posso fazer mais algumas perguntas?}
 {214}{}{Hmm. Goodbye.}
 {215}{}{It is not my place to question the First Citizen's actions.}
 {216}{}{Is there another way to become a Citizen?}
-{217}{}{Can I ask you some other questions?}
+{217}{}{Posso fazer mais algumas perguntas?}
 {218}{}{Never mind then.}
 {219}{}{Gecko? It's a filthy shantytown to the north, inhabited by those creatures, those... "ghouls." They're responsible for poisoning our groundwater, you know! It's an obvious act of terrorism against Vault City!}
 {220}{}{How are they poisoning the water?}
@@ -123,5 +123,5 @@
 {222}{}{Obrigado, adeus.}
 {223}{}{Their shantytown is built around the remains of an old atomic power plant... a plant they SOMEHOW started up again and that is now leaking radiation! Those creatures need to be driven out and that plant shut down!}
 {224}{}{Hmmm. Can I ask you some other questions?}
-{225}{}{Thanks for the information. Goodbye.}
+{225}{}{Obrigado pela informação. Adeus.}
 {226}{}{You have passed the Citizenship test and become a Citizen of Vault City.}

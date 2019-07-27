@@ -3,4 +3,3 @@
 {102}{}{Vesnice se od tvé poslední návštìvy hodnì zmìnila.}
 {103}{}{Od tvé poslední návštìvy se toho zmìnilo ještì víc. Zdá se, že byla ochrana krtkopotkany vymìnìna za zeï.}
 {104}{}{Hej! Kam se všichni podìli?}
-

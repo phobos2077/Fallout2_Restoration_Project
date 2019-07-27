@@ -1,61 +1,61 @@
 {100}{}{Você vê um menino pequeno.}
-{101}{}{You see Jonny.}
-{102}{}{Blonde hair, blue eyes; your typical all-American looking kid.}
+{101}{}{Jonny.}
+{102}{}{Cabelo louro, olhos azuis; um típico garoto americano da cabeça aos pés.}
 {150}{}{Waaaaa!}
-{151}{}{I want my dog back!}
+{151}{}{Eu quero o meu cachorro de volta!}
 {152}{}{Whimper... }
-{153}{}{Stranger!}
-{154}{}{Laddie! I've missed you, boy. Thank you for bringing my dog back to me.}
-{155}{}{Hello, I haven't seen you around here before.}
-{156}{}{Is your name Jonny?}
-{157}{}{What's your name, little boy?}
-{158}{}{Tell me your name, you little monster.}
-{159}{}{Would you like some candy, little kid?}
+{153}{}{Estranho!}
+{154}{}{Laddie! Senti sua falta. Obrigado por devolver meu cão.}
+{155}{}{Olá, eu não vi você por aqui antes.}
+{156}{}{Seu nome é Jonny?}
+{157}{}{Qual é o seu nome, garoto?}
+{158}{}{Me fale seu nome, monstrinho.}
+{159}{}{Quer um doce, garotinho?}
 {160}{}{Olá novamente.}
-{166}{}{Your mother and father have sent me to find you.}
-{168}{}{Have you talked to Vegeir about me going home?}
-{169}{}{Yes. He says he wants your parents to come down and get you.}
+{166}{}{Sua mãe e seu pai me enviou para te encontrar.}
+{168}{}{Você já falou com Vegeir sobre mim indo para casa?}
+{169}{}{Sim. Ele diz que quer seus pais venham aqui para baixo e te pegar.}
 {170}{}{Não, ainda não.}
-{171}{}{My dad said Laddie went with you to look for me. Where is he? I miss him.}
-{172}{}{I'm sorry Jonny. Laddie died while we were searching for you.}
-{173}{}{Rose said she would look after your dog.}
-{174}{}{My name is Jonny. What's yours?}
+{171}{}{Meu pai disse que Laddie foi com você me procurar. Cadê ela? To com saudades.}
+{172}{}{Sinto muito Jonny. Laddie morreu enquanto estávamos procurando por você.}
+{173}{}{Rose disse que iria cuidar de seu cão.}
+{174}{}{Meu nome é Jonny. Qual é o seu?}
 {175}{}{Meu nome é }
 {176}{}{.}
-{177}{}{My name's not important.}
-{178}{}{My name's Jonny, and I don't like you.}
-{179}{}{[He points to you and starts screaming.] Stranger! Stranger! Stranger!}
-{180}{}{Very nice to meet you }
+{177}{}{Meu nome não é importante.}
+{178}{}{Meu nome é Jonny e eu não gosto de você.}
+{179}{}{[Ele aponta para você e começa a gritar.] Estranho! Estranho! Estranho!}
+{180}{}{Muito bom te ver }
 {181}{}{.}
-{182}{}{See you around, kid.}
-{183}{}{That's swell! I wanted to go home, but Vegeir says his people can't travel that far above
- ground and wouldn't take me... Not that I doubt you, but what's my father's name?}
+{182}{}{Te vejo por aí, garoto.}
+{183}{}{Que bom! Quero ir pra casa, mas Vegeir disse que seu pessoal não pode andar pela superfície 
+ e por isso não podem me levar. Não que eu suspeite de você, mas qual é o nome do meu pai?}
 {184}{}{Farrel.}
 {185}{}{Cornelius.}
 {186}{}{Balthas.}
 {187}{}{Davin.}
 {188}{}{Joshua.}
-{189}{}{Don't you trust me, Jonny?}
-{190}{}{Hmm... no. Thank you for bringing my dog back to me, but I have to go now. Bye.}
-{191}{}{It was sure nice meeting you, but I have to go now. Bye.}
-{192}{}{That's right! Yipee! I'm going home. Ask Vegeir if it's all right for you to take me home. He's
- been so nice to me, I don't want to leave until he says it's all right. Please hurry; I'm homesick.}
-{193}{}{Okay mister, I believe you. Ask Vegeir it's all right for you to take me home. He's been so nice
- to me, I don't want to leave until he says it's all right.}
-{194}{}{Okay miss, I believe you. Ask Vegeir it's all right for you to take me home. He's been so nice
- to me, I don't want to leave until he says it's all right.}
-{195}{}{No. I'm going to go play with my friends now. Bye.}
-{196}{}{I'm not supposed to talk to strangers. Bye.}
-{197}{}{Yes it is! How did you know? Laddie must have told you. She's such a smart dog.}
-{199}{}{You're coming with me, kid. There's a reward for bringing you back.}
-{200}{}{Yes, I think that's best. Although I trust you, I'm sure Vegeir just wants to make sure I get
- home safely. Thank you for your help.}
-{201}{}{Please hurry. I want to go home.}
-{202}{}{No! I don't believe you! Give me back my dog! [Waaaaa!]}
-{203}{}{Oh no! Don't you know Rose uses dog in her dishes!? Laddie is probably a burger by now.}
+{189}{}{Não confia em mim, Jonny?}
+{190}{}{Hmm.. não. Valeu por devolver meu cão, mas agora tenho que ir. Tchau.}
+{191}{}{Foi com certeza um prazer conhecê-lo, mas eu tenho que ir agora. Tchau.}
+{192}{}{Isso mesmo! Oba! Vou pra casa. Pergunte ao Vegeir se eu posso voltar com você. Ele tem sido tão bom pra mim, 
+ não quero ir embora sem a permissão dele. Se apresse, por favor. Tô com saudades da minha casinha.}
+{193}{}{Tudo bem, senhor, confio em você. Pergunte ao Vegeir se ele deixa você me levar pra casa. 
+ Ele tem sido tão legal comigo, não quero ir embora sem a permissão dele.}
+{194}{}{Tudo bem, senhorita, confio em você. Pergunte ao Vegeir se você pode me levar pra casa. 
+ Ele tem sido tão legal comigo, não quero ir embora sem a permissão dele.}
+{195}{}{Não. Eu estou indo para ir jogar com os meus amigos agora. Tchau.}
+{196}{}{Eu não tenho que falar com estranhos. Tchau.}
+{197}{}{Sim, é! Como você sabia? Laddie deve ter lhe contado. Ela é um cão tão esperto.}
+{199}{}{Você vem comigo, garoto. Tá rolando uma recompensa pra quem te trazer de volta.}
+{200}{}{Acho que é melhor assim mesmo. Mesmo que eu confie em você, tenho certeza que Vegeir só 
+ quer ter certeza que vou chegar em casa seguro. Obrigado pela sua ajuda.}
+{201}{}{Por favor, depressa. Eu quero ir para casa.}
+{202}{}{Não! Eu não acredito em você! Devolva o meu cão! [Waaaaa!]}
+{203}{}{Ah não! Vai dizer que você não sabia que a Rose usa carne de cachorro nos pratos dela? A essa hora Laddie já virou hamburguer.}
 {300}{}{Laddie!!!}
-{400}{}{Thanks for saving me, mister.}
-{401}{}{It's nice to be home!}
+{400}{}{Valeu por me salvar, Senhor.}
+{401}{}{E muito bom estar em casa!}
 {402}{}{Wahoo...}
-{403}{}{You know, I'm not afraid of the dark anymore!}
-{404}{}{Thanks for saving me, lady.}
+{403}{}{Não tenho mais medo do escuro.}
+{404}{}{Obrigado por me salvar, senhora.}

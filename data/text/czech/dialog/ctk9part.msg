@@ -1,1 +1,1 @@
-{100}{}{Podaøilo se ti získat motivátor pro K-9.}
+{100}{}{Podaøilo se ti získat K-9 motivátor.}

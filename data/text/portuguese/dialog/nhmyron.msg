@@ -37,7 +37,7 @@
 {268}{}{You should be glad I'm with you to point out all your stupid mistakes.}
 {375}{}{Hey, I'm dying over here! Give me a stimpack already!}
 {376}{}{Is this my blood?}
-{377}{}{Medic!}
+{377}{}{Médico!}
 {378}{}{Owwwww. Fuck! Owwwww, that hurts!}
 {379}{}{Ow! That smarts!}
 {380}{}{Owwwwwwww Owwwww Ow. Ow. Ow?}
@@ -165,7 +165,7 @@
 {622}{}{Keep close to me.}
 {623}{}{Put a little distance between us, Myron.}
 {624}{}{Spread out a bit, Myron. It's best for both of us.}
-{625}{}{I had some questions...}
+{625}{}{Eu tenho algumas perguntas…}
 {626}{}{Not now, Myron. I had some questions...}
 {627}{}{All right, then. Hurry up and let's go.}
 {628}{}{No, you keep waiting here. I'll be back. I promise.}
@@ -219,7 +219,7 @@
 {743}{}{Speaking of plenty of shit... Go on.}
 {744}{}{OK...}
 {755}{myn115}{Plus, hallucinogens have low overhead, so I start experimenting with derivatives of lysergic acid diethylamide and psilocybin. Still...}
-{756}{}{Still...?}
+{756}{}{Ainda…?}
 {765}{myn116}{Still, I really wanted to whip up a hard-hitter that didn't rely on veggie extracts. Man, was I an idiot, 'cause the answer turned out to BE the extracts, or, more precisely, what they were growing IN.}
 {766}{}{You don't really care what I say, do you? You just love telling your story.}
 {767}{}{How do you mean?}
@@ -256,7 +256,7 @@
 {870}{myn126}{Hmmm... about a hundred slaves? Mostly heart attacks, cerebral hemorrhages, psychotic episodes... that sort of thing.}
 {871}{}{Are you insane? You killed a hundred human beings just for drug testing?!}
 {872}{}{Figures... Jet can be pretty powerful stuff. Least nobody important died. Still, hard to believe you killed that many, though...}
-{873}{}{I see. Look, I had some other questions...}
+{873}{}{Eu vejo. Olhe, eu tenho algumas outras perguntas…}
 {880}{myn127}{Well, not on purpose. I mean, slaves are expensive. Still, we made the money back in the first few months, so the Mordino Family wasn't too pissed at me.}
 {881}{}{I think you and I are going to get along, Myron. Ends justify the means. Say, I had some other questions...}
 {882}{}{Myron, you are lower than a snake's shadow. Killing humans for drug testing... that's the coldest thing I've ever heard.}
@@ -278,7 +278,7 @@
 {913}{}{Nevermind, Myron. Forget I asked.}
 {920}{myn131}{Nice try, no dice. Jet ain't blocked that easy. Once it's in your system, it ain't coming out.}
 {921}{}{What about using some kind of endorphin blocker? That would repress the chemical and psychological addiction, wouldn't it?}
-{924}{}{Nevermind then.}
+{924}{}{Deixe pra lá então.}
 {930}{myn132}{Kee-rist. That has got to be the dumbest... hmmmm...}
 {931}{}{Bem?}
 {940}{myn133}{Well... maybe it would work, but I'm pretty sure Jet would just chew right through that shit. Now wh-wh-why the hell are we even talking about this?! Wh-where would you get your hands on endorphin blockers anyway?}
@@ -379,7 +379,7 @@
 {1206}{}{WAN YOU DED}
 {1207}{}{Wan Ull. Now.}
 {1208}{}{Hoo yoo? Yoo FREN of }
-{1209}{}{Byeeeee}
+{1209}{}{Shaaauuuu}
 {1215}{myn204}{Sure! You bet! Uh, here you go. Here's all of it. Now uh, you go back to your stall now, okay?}
 {1216}{}{Nuh-uh. Kill.}
 {1217}{}{Hoo yoo? Yoo FRIEND of }
@@ -519,13 +519,13 @@
 {1589}{}{I'll need to think about it. I'll be back.}
 {1595}{myn119}{Redding? Town full o' gold diggers. Mordino wants to control it all. So he comes to me in his wheezing voice and says, 'Myron, Myron, make me something that'll give me Redding.'}
 {1596}{}{And you say...}
-{1597}{}{Hmmm. I had some other questions...}
+{1597}{}{Hmmm. Eu tenho outras perguntas…}
 {1605}{myn120}{And I say, 'okay, what timeframe we looking at?' He goes - of course - 'yesterday.' Crime lords. Want everything done fast and sloppy. At least they don't have a marketing department.}
 {1615}{myn236a}{Yeah. Why? You gonna try and prove me wrong, pal? }
 {1616}{myn236b}{Yeah. Why? You gonna try and prove me wrong, lady? }
 {1617}{myn236c}{Yeah? But hey, don't get all defensive on me, beautiful. You weren't built for brains, y'know? }
 {1618}{myn236d}{I've forgotten more about pharmaceutical research than you'll ever know.}
-{1619}{}{Is there any cure for Jet?}
+{1619}{}{Existe alguma cura para o Jet?}
 {1620}{}{Fine. Then how did you make Jet?}
 {1621}{}{First off, answer me this: how did you make a hybrid hallucinogen-amphetamine? Jet seems to have some... unique properties.}
 {1623}{}{Forget it. I had some other questions...}
@@ -556,7 +556,7 @@
 {1685}{myn241a}{Yeah, keep mouthing off, smartass. I could oxidize circles around you. I'm a natural. Self-taught. None of that bullshit Vault City 'purer-than-thou' 'tude, see?}
 {1686}{myn241b}{Heh, huh, ha! You're a sharp one, beautiful... raven hair, teeth, claws... mmm-mmm. So you learn your shit at Vault City or what?}
 {1687}{}{I didn't learn at Vault City. I just pick this stuff up. It's pretty easy, really.}
-{1689}{}{I had some other questions...}
+{1689}{}{Eu tenho mais algumas perguntas...}
 {1695}{myn244}{What didja wanna know?}
 {1696}{}{Conte-me sobre este lugar.}
 {1697}{}{Tell me about the Mordino Family.}

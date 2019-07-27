@@ -1,72 +1,72 @@
-{100}{}{You see a glum person in a vault suit.}
-{101}{}{You see a prisoner from Vault 13.}
-{102}{}{You see a very pale person wearing a Vault 13 vault suit.}
-{103}{}{You see a member of your tribe.}
-{104}{}{You see a fellow tribe member.}
-{105}{}{You see a member of your tribe, they don't look well.}
-{106}{}{This place is too rusty to be a vault.}
-{107}{}{I think I can hear the ocean. }
-{108}{}{Have you talked to Martin Frobisher?}
-{109}{}{You should talk to Martin.}
-{110}{}{Martin's our spokesman, you should talk to him.}
-{111}{}{Mr. Frobisher is in the first cell.}
-{112}{}{They don't even have any entertainment tapes here.}
-{113}{}{I demand to talk to someone about the food quality.}
-{114}{}{Great, now they threaten us with strange savages.}
-{115}{}{Did you escape?}
-{116}{}{How did you get out?}
-{117}{}{You sound like the Chosen One.}
-{118}{}{Are you- are you the Chosen One?}
-{119}{}{You should talk to the Elder.}
-{120}{}{The Elder said you would save us!}
+{100}{}{Você vê uma pessoa abatida vestindo trajes de vault.}
+{101}{}{Você vê um prisioneiro do Vault 13.}
+{102}{}{Você vê uma pessoa muito pálida vestindo os trajes do Vault 13.}
+{103}{}{Você vê uma pessoa da sua tribo.}
+{104}{}{Você vê uma pessoa conhecida da sua tribo.}
+{105}{}{Você vê uma pessoa da sua tribo, eles não parecem bons.}
+{106}{}{Este local está muito enferrujado pra ser um vault.}
+{107}{}{Acho que posso ouvir o oceano. }
+{108}{}{Você falou com Martin Frobisher?}
+{109}{}{Você deveria falar com o Martin.}
+{110}{}{Martin é o nosso porta-voz, você deveria falar com ele.}
+{111}{}{O sr. Frobisher está na primeira cela.}
+{112}{}{Eles não tem nem fitas de entretenimento por aqui.}
+{113}{}{Eu exijo falar com alguém sobre a qualidade da comida.}
+{114}{}{Ótimo, agora eles nos ameaçam com selvagens estranhos.}
+{115}{}{Você escapou?}
+{116}{}{Como você saiu?}
+{117}{}{Você se parece com o Chosen One.}
+{118}{}{Você é- você é o Chosen One?}
+{119}{}{Você deveria falar com a Elder.}
+{120}{}{A Elder disse que você nos salvaria!}
 {121}{}{Você já conversou com o Ancião?}
-{122}{}{The Elder's in the first cell. You should talk to her.}
-{123}{}{Talk to the Elder.}
+{122}{}{A Elder está na primeira cela. Você deveria falar com ela.}
+{123}{}{Fale com a Elder.}
 {124}{}{Livre-nos!}
-{125}{}{Get us out of here.}
-{126}{}{I can't take these walls anymore.}
-{127}{}{I yearn to feel the wind on my face once more.}
-{128}{}{Free us, Chosen One!}
-{129}{}{The Chosen One is here!}
-{130}{}{Set us free!}
-{131}{}{Do what the Elder told you to.}
-{132}{}{Get us out before the evil spirits come back again!}
-{133}{}{Please help us, Chosen.}
-{134}{}{Thank the gods, the Chosen One has come at last.}
-{135}{}{Help us }
-{136}{}{Free us }
-{137}{}{You're here, }
-{138}{}{You know what to do, so go do it!}
-{139}{}{Get going!}
-{140}{}{Get us out of here.}
-{141}{}{Shut off the power!}
-{142}{}{Free us.}
-{143}{}{Go, get us out of here!}
+{125}{}{Tira a gente daqui.}
+{126}{}{Eu não suporto mais essas paredes.}
+{127}{}{Eu gostaria muito de sentir o vento em meu rosto mais uma vez.}
+{128}{}{Liberta a gente, Chosen One!}
+{129}{}{O Chosen One está aqui!}
+{130}{}{Solta a gente!}
+{131}{}{Faça o que a Elder mandar.}
+{132}{}{Tira a gente daqui antes que os maus espíritos voltem!}
+{133}{}{Por favor, ajuda a gente, Chosen.}
+{134}{}{Graças aos deuses, o Chosen One finalmente chegou.}
+{135}{}{Ajuda a gente }
+{136}{}{Liberta a gente }
+{137}{}{Você está aqui, }
+{138}{}{Você sabe o que fazer, então faça!}
+{139}{}{Anda logo!}
+{140}{}{Tira a gente daqui.}
+{141}{}{Desligue a energia!}
+{142}{}{Solta a gente.}
+{143}{}{Vai, tira a gente daqui!}
 {144}{}{Por favor, ajude-nos!}
-{145}{}{You're our only hope!}
-{146}{}{Please, I can't take this much longer.}
-{147}{}{I don't want any more medicine. No, no. Nooooooo!}
-{148}{}{Spirits protect us!}
-{149}{}{Where are the spirits when you need them?}
+{145}{}{Você é a nosso única esperança!}
+{146}{}{Por favor, eu não agüento mais.}
+{147}{}{Eu não quero tomar mais medicamentos. Não, não. Nãooooo!}
+{148}{}{Os espíritos nos protegem!}
+{149}{}{Onde estão os espíritos quando se precisa deles?}
 {150}{}{Ajude-nos!}
 {151}{}{Livre-nos!}
-{152}{}{I want to go home.}
-{153}{}{First drought and now this.}
-{154}{}{No more needles, no more!}
-{155}{}{I can't take it! The walls are closing in on me!}
-{156}{}{(Sob, sob)}
-{157}{}{Let my people go!}
-{158}{}{Elder guide us.}
-{159}{}{How did we offend these evil spirits?}
-{160}{}{I don't much care for this.}
-{161}{}{Where's Martin?}
-{162}{}{This isn't a vault at all.}
-{163}{}{Get us out of here!}
-{164}{}{Hello? Hello!}
-{165}{}{I insist upon being freed.}
-{166}{}{I'm a United States citizen and I demand to see who's in charge.}
-{167}{}{Let me out.}
-{168}{}{This is so boring.}
-{169}{}{No more medicine. I can't take it anymore.}
-{170}{}{They can't keep us here forever.}
-{171}{}{The war isn't over?}
+{152}{}{Eu quero ir pra casa.}
+{153}{}{Primeiro a seca e agora isso.}
+{154}{}{Chega de agulhas, chega!}
+{155}{}{Eu não suporto isso! As paredes estão se fechando contra mim!}
+{156}{}{(soluços, soluços)}
+{157}{}{Deixe o meu povo partir!}
+{158}{}{A Elder nos guia.}
+{159}{}{Como nós ofendemos esses espíritos maus?}
+{160}{}{Eu não ligo pra isso.}
+{161}{}{Onde está o Martin?}
+{162}{}{Isso realmente não é um vault.}
+{163}{}{Tira a gente daqui!}
+{164}{}{Olá? Olá!}
+{165}{}{Eu vou insistir até ser libertado.}
+{166}{}{Eu sou um cidadão dos Estados Unidos e exijo ver quem está no comando.}
+{167}{}{Me deixa sair.}
+{168}{}{Isso é tão chato.}
+{169}{}{Chega de medicamentos. Eu não agüento mais.}
+{170}{}{Eles não podem nos manter aqui pra sempre.}
+{171}{}{A guerra não acabou?}

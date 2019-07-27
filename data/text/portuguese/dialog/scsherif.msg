@@ -23,7 +23,7 @@
 {122}{}{We'll just forget I asked. I'll leave you alone now.}
 {123}{}{I can think of a couple of things, if you're really interested.}
 {124}{}{You're joking right? After what you did with Jack? I suppose you could find some steady work.}
-{125}{}{Like what?}
+{125}{}{Como o quê?}
 {126}{}{No, let's just change the subject.}
 {127}{}{Forget it, I've changed my mind. Goodbye.}
 {128}{}{No Vault 13. Vault 15, yes.}
@@ -50,7 +50,7 @@
 {149}{}{How about me? Maybe you could recommend me.}
 {150}{}{Hmm. Tough life, I guess.}
 {151}{}{You? Hmmm....I couldn't. Don't even know you - but she's looking to hire somebody so you can go talk to her yourself. Her office is in the Hall of Congress.}
-{152}{}{Thanks. I'll do that.}
+{152}{}{Obrigado. Irei fazer isso.}
 {153}{}{Know anything about a GECK?}
 {154}{}{Well, that's damn fine of you, stranger - and damn presumptuous, too. I don't know you from Adam and Eve and I don't like the way you look! I'm not recommending you to anybody. Now, I got work to do.}
 {155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}

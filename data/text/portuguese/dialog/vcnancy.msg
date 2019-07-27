@@ -68,14 +68,14 @@
 {167}{}{Welcome back. Anything I can help you with?}
 {168}{}{Of course. What is it you would like to know?}
 {169}{}{What do you think of Dr. Troy?}
-{170}{}{Can you tell me where the Central Computer is?}
+{170}{}{Você sabe me dizer onde fica o Computador Central?}
 {171}{}{I need some healing.}
 {172}{}{O que você faz aqui?}
 {173}{}{Can you tell me about Vault City?}
 {174}{}{Actually, never mind. Thanks anyway.}
 {175}{}{Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.}
 {176}{}{Well, he asked me to smuggle some drugs into the city for him.}
-{177}{}{Can I ask you another question?}
+{177}{}{Posso te fazer outra pergunta?}
 {178}{}{Thanks for your time. Goodbye.}
 {179}{}{}
 {180}{}{}
@@ -88,12 +88,12 @@
 {187}{}{Thanks for the warning. Maybe I should go talk to someone else.}
 {188}{}{It's down on the 3rd level, if I remember correctly. Haven't been down there in ages.}
 {189}{}{Por que não?}
-{190}{}{Can I ask you another question?}
-{191}{}{Thanks for the directions. Goodbye.}
+{190}{}{Posso te fazer outra pergunta?}
+{191}{}{Obrigado pelas direções. Tchau.}
 {192}{}{Oh, I don't know. Not much reason to go down into the Vault. It's mostly used for storage space nowadays. The only one down there is Martin, and... well, just between you and me, he's not a great conversationalist.}
 {193}{}{Uhh.... Why did they make him conversationalist if he's no good at his job?}
-{194}{}{Can I ask you another question?}
-{195}{}{I see. Thanks for the information.}
+{194}{}{Posso te fazer outra pergunta?}
+{195}{}{Entendo. Obrigado pela informação.}
 {196}{}{Uh... maybe you SHOULD go speak to him. You two may have more in common than I first thought.}
 {197}{}{Can I ask you another question first?}
 {198}{}{All right then. I'll go speak to him.}
@@ -116,19 +116,19 @@
 {215}{}{All right then. Maybe we'll speak later.}
 {216}{}{Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.}
 {217}{}{Uh... a pregnancy cycle?}
-{218}{}{Can I ask you another question?}
-{219}{}{I see. Well, thanks for the information.}
+{218}{}{Posso te fazer outra pergunta?}
+{219}{}{Entendo. Bem, agradeço pela informação.}
 {220}{}{Yes. Pregnancies are permitted only during certain years established by the Council.}
 {221}{}{What if you get pregnant anyway?}
-{222}{}{Oh. I had some other questions...}
-{223}{}{I see. Well, thanks for the information.}
+{222}{}{Oh. Ei, tenho algumas outras perguntas…}
+{223}{}{Entendo. Bem, agradeço pela informação.}
 {224}{}{How would that happen?}
 {225}{}{Uh, last I heard, SEX can make someone pregnant.}
 {226}{}{Forget I asked. Look, I had some other questions...}
 {227}{}{Never mind. I better be going.}
 {228}{}{Oh, you mean intercourse? Intercourse is still allowed outside of pregnancy cycles.}
 {229}{}{Doesn't that make people pregnant?}
-{230}{}{Oh. I had some other questions...}
+{230}{}{Oh. Ei, tenho algumas outras perguntas…}
 {231}{}{Oh, well. Just thought I'd ask.}
 {232}{}{Oh, no, no... you see, our pregnancies don't result from intercourse.}
 {233}{}{I'm afraid to ask. But I will anyway.}
@@ -141,7 +141,7 @@
 {240}{}{Would you excuse me? I'm going to go see if I can get my Citizenship revoked.}
 {241}{}{I think I'm going to go somewhere and be violently ill. Goodbye.}
 {242}{}{Certainly. We'd welcome your contribution. Vault City could use some fresh genetic material.}
-{243}{}{All right then...}
+{243}{}{Tudo bem, então...}
 {244}{}{Say, could I get a magazine or something?}
 {245}{}{Your contribution is impressive... you yourself seem to be quite gifted. How do you feel?}
 {246}{}{Excellent! Thank you.}
@@ -154,7 +154,7 @@
 {253}{}{Maybe it's just because they don't have much real sex around here.}
 {254}{}{Oh, well. Just thought I'd ask.}
 {255}{}{You know, I was thinking the same thing. Maybe I should mention it to Dr. Troy. He's been too busy to look into it recently, but the next pregnancy cycle IS coming up, so...}
-{256}{}{Can I ask you some other questions?}
+{256}{}{Posso fazer mais algumas perguntas?}
 {257}{}{Mentioning it to Dr. Troy would be a good idea. Good luck.}
 {258}{}{It's like they're all... clones. They all dress alike, act alike, and the worst part is that everybody seems happy with it. I... well, sometimes I worry that I'll end up being just like them. That probably sounds silly, huh?}
 {259}{}{Not at all. Pressure to conform must be pretty rough around here, especially considering how insular a community Vault City is.}

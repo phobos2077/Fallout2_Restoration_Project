@@ -1,197 +1,197 @@
-{100}{}{You see a casino patron.}
-{150}{}{You see one of the casino patrons. He looks tired.}
-{151}{}{You see one of the casino patrons. He has a golden gleam in his eye.}
-{152}{}{You see one of the casino patrons. He is cupping his face in his hands.}
-{153}{}{You see one of the casino patrons. He looks a little tipsy.}
-{154}{}{You see one of the casino patrons. He gives you a broad wink, then staggers off.}
-{155}{}{You see one of the casino patrons. He is trying to get the waitress's attention.}
-{156}{}{You see one of the casino patrons. She looks tired.}
-{157}{}{You see one of the casino patrons. She has a golden gleam in her eye.}
-{158}{}{You see one of the casino patrons. She is cupping her face in her hands.}
-{159}{}{You see one of the casino patrons. She looks a little tipsy.}
-{160}{}{You see one of the casino patrons. She gives you a broad wink, then staggers off.}
-{161}{}{You see one of the casino patrons. She is trying to get the waiter's attention.}
-{200}{}{::Claps::}
-{201}{}{::Cheers::}
-{202}{}{Way to burn those Enclave bastards! Way to go!}
-{203}{}{Way to crush the Enclave, }
-{204}{}{Congrats on stomping the Enclave, }
-{205}{}{Congrats on stomping the Enclave, }
-{206}{}{Uh-oh. Get out of the way.}
-{207}{}{Just looking at him... her... it...*whatever* it is gives me the shivers.}
-{208}{}{Think that thing's looking to cap anyone?}
-{209}{}{It's hell's fury given flesh. Uh, underneath the armor, that is.}
-{210}{}{Stay outta that thing's path.}
-{211}{}{Talk about dangerous-looking...}
-{212}{}{*Gulp*}
-{213}{}{I think that Mr. Roboto dude was scanning me.}
-{214}{}{I think that walking tank just gave me the stare of death. I'm outta here.}
-{215}{}{I heard that thing fragged three hitmen just yesterday.}
-{216}{}{Just looking at him gives me the shivers.}
-{217}{}{Think he's looking to cap anyone?}
-{218}{}{Stay outta that man's path.}
-{219}{}{I think he was looking at me.}
-{220}{}{I think he just gave me the stare of death. I'm outta here.}
-{221}{}{I heard he shot down three hitmen just yesterday.}
-{222}{}{Uh-oh. Get out of the way.}
-{223}{}{It's hell's fury given flesh.}
-{224}{}{Talk about dangerous-looking...}
-{225}{}{*Gulp*}
-{226}{}{La Femme Nikita, then some.}
-{227}{}{Just looking at her gives me the shivers.}
-{228}{}{Think she's looking to cap anyone?}
-{229}{}{I think she was looking at me.}
-{230}{}{I think she just gave me the stare of death. I'm outta here.}
-{231}{}{I heard she shot down three hitmen just yesterday.}
-{232}{}{What an ass! Uh, bad ass, that is.}
-{233}{}{You don't look so tough, Mr. Prizefighter.}
-{234}{}{I got 20 chips riding on ye!}
-{235}{}{Hey, champ! That last fight was great!}
-{236}{}{Saw you fight in the ring. Damn good right hook you throw.}
-{237}{}{You gonna take the fall? I got 30 chips riding on you.}
-{238}{}{How much you bench?}
-{239}{}{Where do you work out?}
-{240}{}{Watch out for the Masticator. He has a taste for ears.}
-{241}{}{I'd get you a drink if I hadn't blown all my money betting on your opponent.}
-{242}{}{You don't look so tough, Ms. Left Hook.}
-{243}{}{Can I see your abdominal muscles flex?}
-{244}{}{Whoa. Check that out.}
-{245}{}{Would you look at *that*?}
-{246}{}{::Mouths the word 'damn.'::}
-{247}{}{I KNEW I should have shaved today.}
-{248}{}{Come chat with me for a sec, honey-tits.}
-{249}{}{Tribals got them tits! Damn!}
-{250}{}{Check out the rack on that tribal.}
-{251}{}{That there's the main filly of my herd.}
-{252}{}{I'd bathe for that woman.}
-{253}{}{I got your mother lode right here.}
-{254}{}{Shake it!}
-{255}{}{Work it!}
-{256}{}{::Whistles::}
-{257}{}{Them legs go all the way up?}
-{258}{}{Daaaaaamn.}
-{259}{}{You got fries to go with that shake, beautiful?}
-{260}{}{Maybe she'll dance tonight.}
-{261}{}{Did you see her latest film? Red hot, man, red HOT.}
-{262}{}{Excuse me. I have to go to the bathroom and er, comb my hair for a sec.}
-{263}{}{I'd like to be her underpants.}
-{264}{}{I'd like to be her underwear.}
-{265}{}{I'd like to smell her shorts.}
-{266}{}{That is one foxy bitch.}
-{267}{}{Damn. All them curves and me with no brakes.}
-{268}{}{Well, hellloooo stud.}
-{269}{}{A stallion like you in need of a saddle? I'm free tomorrow night.}
-{270}{}{What you doing later, sailor?}
-{271}{}{Can I feel your muscles?}
-{272}{}{How come you don't pass out when you get erect?}
-{273}{}{Wanna come over to my place for a drink?}
-{274}{}{I want to eat my dinner off your chest.}
-{275}{}{Need a partner for your next film?}
-{276}{}{::Stares at your biceps.::}
-{277}{}{Is that some kind of slot machine that's following you around?}
-{278}{}{Is that a robo-slot machine?}
-{279}{}{Does your robot do tricks? Uh... magic tricks, I mean.}
-{280}{}{That sounds crazier than foxes lovin' hens.}
-{281}{}{Roll the bones.}
-{282}{}{Baby needs a new pair of shoes...}
+{100}{}{Você vê um freguês do cassino.}
+{150}{}{Você vê um freguês do cassino. Ele parece cansado.}
+{151}{}{Você vê um freguês do cassino. Ele tem um brilho dourado em seus olhos.}
+{152}{}{Você vê um freguês do cassino. Ele está cobrindo o rosto com as mãos.}
+{153}{}{Você vê um freguês do cassino. Ele parece estar um pouco bêbado.}
+{154}{}{Você vê um freguês do cassino. Ele pisca os olhos demoradamente, e então dá uma cambaleada.}
+{155}{}{Você vê um freguês do cassino. Ele está tentando chamar a atenção da garçonete.}
+{156}{}{Você vê uma freguês do cassino. Ela parece cansada.}
+{157}{}{Você vê uma freguês do cassino. Ela tem um brilho dourado em seus olhos.}
+{158}{}{Você vê uma freguês do cassino. Ela está cobrindo o rosto com as mãos.}
+{159}{}{Você vê uma freguês do cassino. Ela parece estar um pouco bêbado.}
+{160}{}{Você vê uma freguês do cassino. Ela pisca os olhos demoradamente, e então dá uma cambaleada.}
+{161}{}{Você vê uma freguês do cassino. Ele está tentando chamar a atenção do garçom.}
+{200}{}{::Palmas::}
+{201}{}{::Assobios::}
+{202}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
+{203}{}{Você acabou com a Enclave facilmente, }
+{204}{}{Parabéns por destruir a Enclave, }
+{205}{}{Parabéns por destruir a Enclave, }
+{206}{}{Uh-oh. Saia do caminho.}
+{207}{}{Só de olhar para ele…ela…isso…*o que quer que seja* me dá arrepios.}
+{208}{}{Você acha que essa coisa quer atirar em alguém?}
+{209}{}{Isso é carne da fúria do inferno. Uh, embaixo da armadura, é isso.}
+{210}{}{Fique fora do caminho dessa coisa.}
+{211}{}{O que me diz sobre esse olhar-assassino…}
+{212}{}{*Glup*}
+{213}{}{Eu acho que esse Sr. Roboto está me scaneando.}
+{214}{}{Eu acho que esse tanque ambulante está me dando o olhar da morte. Vou cair fora daqui.}
+{215}{}{Eu ouvi que essa coisa acabou com três assassinos só ontem.}
+{216}{}{Só de olhar para ele me dá arrepios.}
+{217}{}{Você acha que essa coisa quer atirar em alguém?}
+{218}{}{Fique fora do caminho desse cara.}
+{219}{}{Eu acho que ele está olhando para mim.}
+{220}{}{Eu acho que esse tanque ambulante está me dando o olhar da morte. Vou cair fora daqui.}
+{221}{}{Fiquei sabendo que ele matou três assassinos só ontem.}
+{222}{}{Uh-oh. Saia do caminho.}
+{223}{}{Isso é carne da fúria do inferno.}
+{224}{}{O que me diz sobre esse olhar-assassino…}
+{225}{}{*Glup*}
+{226}{}{Então, é uma La Femme Nikita da vida.}
+{227}{}{Só de olhar pra ela me da arrepios.}
+{228}{}{Você acha que ela quer atirar em alguém?}
+{229}{}{Acho que ela está olhando pra mim.}
+{230}{}{Eu acho que ela está me dando o olhar da morte. Vou cair fora daqui.}
+{231}{}{Fiquei sabendo que ela matou três assassinos só ontem.}
+{232}{}{Que bunda! Uh, bunda má, é isso.}
+{233}{}{Você não parece tão forte, Sr. Prizefighter.}
+{234}{}{Eu ganhei 20 conto apostando em você!}
+{235}{}{Ei, campeão! Aquela última luta foi ótima!}
+{236}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
+{237}{}{Você vai cair? Eu ganhei 30 conto apostando em você.}
+{238}{}{Quanto você pesa?}
+{239}{}{Onde você trabalha fora do ringue?}
+{240}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
+{241}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
+{242}{}{Você não parece ser tão forte, Srta. Gancho de esquerda.}
+{243}{}{Posso ver seus músculos abdominais?}
+{244}{}{Whoa. Dá uma olhada nisso.}
+{245}{}{Você viu *isso*?}
+{246}{}{::As bocas soltam um 'caramba.'::}
+{247}{}{Eu SABIA que devia ter me barbeado hoje.}
+{248}{}{Vem conversar comigo um pouco, tetas-de-mel.}
+{249}{}{Tribais pega suas tetas! Droga!}
+{250}{}{Cheque os peitos dessa tribal.}
+{251}{}{Aqui está a melhor potranca do meu rebanho.}
+{252}{}{Eu tomaria banho por essa mulher.}
+{253}{}{Eu tenho seu compridinho bem aqui.}
+{254}{}{Mexa isso!}
+{255}{}{Trabalhe isso!}
+{256}{}{::Assobios::}
+{257}{}{Essas pernas ficam totalmente erguidas?}
+{258}{}{Pooooooorra.}
+{259}{}{Você pega batatas fritas para acompanhar essa mexida, linda?}
+{260}{}{Talvez ela vai dançar hoje de noite.}
+{261}{}{Você viu o último filme dela? Muito bom, cara, muito BOM.}
+{262}{}{me desculpe. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
+{263}{}{Eu queria ser a calça dela.}
+{264}{}{Eu gostaria de ser a calcinha dela.}
+{265}{}{Eu gostaria de cheirar o short dela.}
+{266}{}{Essa é uma biscate bonita.}
+{267}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
+{268}{}{Bem, oláááá garanhão.}
+{269}{}{Um garanhão como você ta na seca? Eu vou estar livre amanhã à noite.}
+{270}{}{O que você vai fazer mais tarde, marinheiro?}
+{271}{}{Eu posso sentir seus músculos?}
+{272}{}{Como você não fica cansado depois de ficar com o pau duro?}
+{273}{}{Quer ir na minha casa tomar um drink?}
+{274}{}{Eu quero comer meu jantar longe do seu peito.}
+{275}{}{Precisa de uma parceira para o próximo filme?}
+{276}{}{::Olhares no seu bíceps.::}
+{277}{}{Isso é um tipo de caça-níquel que está te seguindo por aí?}
+{278}{}{Isso é um robô caça-níqueis?}
+{279}{}{O seu robô faz truques? Uh…truques de mágica, que eu quis dizer.}
+{280}{}{Isso parece tão louco quato raposas transando.}
+{281}{}{Role os ossos.}
+{282}{}{O bebê precisa de um novo par de sapatos...}
 {283}{}{Damn lowrolling tourists...}
-{284}{}{Dammit! I was up *53* chips, then...}
-{285}{}{Of all the rotten luck...}
-{286}{}{So close!}
-{287}{}{I'm making bank.}
-{288}{}{Me? I'm making bank. Watch me go.}
-{289}{}{House was against me.}
-{290}{}{Fortune's against me.}
-{291}{}{Lady Luck, don't fail me now.}
-{292}{}{The House ha'mercy on me.}
-{293}{}{Between tips and these drunken spending sprees...}
-{294}{}{Keep betting like that, and you're going to be calling Golgotha home...}
-{295}{}{Waitress, another drink!}
-{296}{}{Waiter, another drink!}
-{297}{}{These drinks taste... odd.}
-{298}{}{I got the fever!}
-{299}{}{Are all my chips gone already?}
-{300}{}{Luck's a fickle bitch, and so is my mother-in-law.}
-{301}{}{More slavers in town recently.}
-{302}{}{Wonder what goes on in the stables outside of town.}
-{303}{}{Another feud may start soon.}
-{304}{}{Damned crossroaders all over the place...}
-{305}{}{Great, another low roller.}
-{306}{}{I am SO money.}
-{307}{}{I'll sleep when I'm dead.}
-{308}{}{Man, I gotta piss. My teeth are swimming.}
-{309}{}{Man, I gotta drain the snake.}
-{310}{}{Damn, they'll let anyone in here.}
-{311}{}{C'mon 7!}
-{312}{}{You've got moxy, baby.}
-{313}{}{Who's the big winner tonight? Mikey!}
+{284}{}{Caralho! Eu tinha *53* conto, então…}
+{285}{}{Todos podem ter sorte…}
+{286}{}{Por pouco!}
+{287}{}{Eu faço banco.}
+{288}{}{Eu? Eu faço banco. Olha eu indo.}
+{289}{}{A Casa ta contra mim.}
+{290}{}{A fortuna ta contra mim.}
+{291}{}{Moça Sortuda, não falha comigo agora.}
+{292}{}{A Casa está a meu favor.}
+{293}{}{Entre pontas e esses bêbados gastando…}
+{294}{}{Continue agindo assim, e você vai chamar Golgotha de casa…}
+{295}{}{Garçonete, outra bebida!}
+{296}{}{Garçom, outra bebida!}
+{297}{}{Esses bebidas tem um gosto…único.}
+{298}{}{Eu fiquei com febre!}
+{299}{}{Já foi todo o meu dinheiro?}
+{300}{}{A Sorte é uma puta inconstante, e minha sogra também.}
+{301}{}{Tem mais slavers na cidade ultimamente.}
+{302}{}{Queria saber o que acontece nos estábulos fora da cidade.}
+{303}{}{Outra disputa pode começar daqui a pouco.}
+{304}{}{Droga de viajantes estão por toda parte...}
+{305}{}{Ótimo, outro sortudo.}
+{306}{}{Eu sou MUITO dinheiro.}
+{307}{}{Eu estarei dormindo quando eu estiver morto.}
+{308}{}{Cara, eu preciso mijar. Meu dente ta nadando.}
+{309}{}{Cara, eu preciso tirar água do joelho.}
+{310}{}{Porra, eles deixam qualquer um entrar aqui.}
+{311}{}{Me dá um 7!}
+{312}{}{Você tem bolas, baby.}
+{313}{}{Quem é o grande vencedor essa noite? Mikey!}
 {314}{}{Don't crap out... c'mon...}
-{315}{}{I've gotta 'jet'...if you know what I mean.}
-{316}{}{This is SUCH bullshit.}
-{317}{}{I only lost 60 chips. In the first five minutes, that is.}
-{318}{}{Red 23! Red 23! C'mon... red 23...}
-{319}{}{50 chips on Black 15...}
-{320}{}{Round and round it goes... where it stops, nobody knows...}
-{321}{}{Way to burn those Enclave bastards! Way to go!}
-{322}{}{I always knew the President wanted to kill us all.}
-{323}{}{The President was alive? When was the last election?}
-{324}{}{Destroyed the Enclave, huh? Well, let me buy you a drink.}
-{325}{}{Way to crush the Enclave, }
-{326}{}{With the destruction of the Enclave, you've made this casino a better place for my children. How can I ever thank you?}
-{327}{}{The Enclave never messed with me, but I'm glad they're gone.}
-{328}{}{I can't believe the Enclave were still fighting the war after all this time. Idiots.}
-{329}{}{I felt a great disturbance... as if a hundred evil bastards on an oil derrick suddenly cried out in terror
- and were suddenly silenced. Strange.}
-{330}{}{Congrats on stomping the Enclave, }
-{331}{}{Congrats on stomping the Enclave, }
-{332}{}{You looking for your brother Robby? You know, the Robot? Aw, nevermind.}
-{333}{}{Sorry, was I in your way? I'll leave town.}
-{334}{}{Sorry, was I breathing your air? I'll stop.}
-{335}{}{I wasn't aware they made doorways in your size.}
-{336}{}{::Knocks on armor:: Anybody in there?}
-{337}{}{'Danger, Will Robinson! Danger, Will Robinson!' Heh-heh. Uh... just a joke.}
-{338}{}{Niiiiice armor. Does it have air conditioning?}
-{339}{}{Don't you get hot in there?}
-{340}{}{Can I rub these dice against your armor for luck?}
-{341}{}{Lose your heart, tin man?}
-{342}{}{Uh, hello, sir... or ma'am... or whatever you are.}
-{343}{}{Give my regards to whoever gave that armor to you.}
-{344}{}{Anything wrong, sir... ma'am... uh, whatever you are?}
-{345}{}{Are you one of the new bouncers? Or some new walking arcade game?}
-{346}{}{No, I'm NOT going to oil your joints.}
-{347}{}{Can your armor transform into a jet and fly around? Just curious.}
-{348}{}{Yeah, yeah, 'clank-whirrr-clank' to you, too.}
-{349}{}{If you think that armor intimidates me, you're right.}
-{350}{}{You must be one of those pre-war video game consoles.}
-{351}{}{Look, please... I don't want any trouble. I'm just in town for the day.}
+{315}{}{Eu tenho 'jet'…se é que me entende.}
+{316}{}{Isso é PURA mentira.}
+{317}{}{Eu só perdi 60 conto. Nos primeiros cinco minutos, é isso.}
+{318}{}{Vermelho 23! Vermelho 23! Vamos lá…vermelho 23…}
+{319}{}{50 conto no Preto 15…}
+{320}{}{Isso vai rodando…e onde para, ninguém sabe…}
+{321}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
+{322}{}{Eu sempre soube que o Presidente queria matar a todos nós.}
+{323}{}{O Presidente tá vivo?  Quando foi a última eleição?}
+{324}{}{Destruí a Enclave, huh? Bem, deixa eu comprar uma bebida pra você.}
+{325}{}{Você acabou com a Enclave facilmente, }
+{326}{}{Com a destruição da Enclave, você fez esse cassino o melhor lugar para minhas crianças. Como eu posso te agradecer?}
+{327}{}{A Enclave nunca mexeu comigo, mas eu estou feliz que eles se foram.}
+{328}{}{Eu não consigo acreditar que a Enclave continuou lutando a guerra durante todos esses anos. Idiotas.}
+{329}{}{Eu estou preocupado…como que centenas de idiotas malvados em uma plataforma de petróleo de repente espalha o terror por aí
+ e do nada foram silenciados. Estranho.}
+{330}{}{Parabéns por destruir a Enclave, }
+{331}{}{Parabéns por destruir a Enclave, }
+{332}{}{Você está procurando pelo seu irmão Robby? Você sabe, o Robô? Aw, esquece.}
+{333}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
+{334}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
+{335}{}{Eu não sabia que faziam portas do seu tamanho.}
+{336}{}{::Batidas na armadura:: Tem alguém aí?}
+{337}{}{'Perigo, Will Robinson! Perigo, Will Robinson!' Heh-heh. Uh…e só uma piada.}
+{338}{}{Beeeeela armadura. Tem ar condicionado?}
+{339}{}{Você não fica com calor aí?}
+{340}{}{Posso esfregar estes dados na sua armadura para ter sorte?}
+{341}{}{Perdeu seu coração, homem de lata?}
+{342}{}{Uh, olá, senhor…ou madame…ou seja lá o que você for.}
+{343}{}{Eu considero quem quer que tenha te dado essa armadura pra você.}
+{344}{}{Tem alguma coisa errada, senhor…madame…uh, o que quer que você seja?}
+{345}{}{Você é um dos novos patrões? Ou algum novo jogo ambulante?}
+{346}{}{Não, eu NÃO vou colocar óleo nas suas juntas.}
+{347}{}{Sua armadura se transforma num jet e voa por aí? Apenas curiosidade.}
+{348}{}{É, é, 'clank-whirrr-clank' pra você também.}
+{349}{}{Se você pensa que essa armadura me intimida, você está certo.}
+{350}{}{Deve ser um desses vídeo games pré-guerra.}
+{351}{}{Olhe, por favor…Eu não quero arrumar encrenca. Eu estou na cidade só por um dia.}
 {352}{}{Look, please... I don't want any trouble.}
-{353}{}{Sorry, was I in your way? I'll leave town.}
-{354}{}{Sorry, was I breathing your air? I'll stop.}
-{355}{}{Give my regards to your boss.}
-{356}{}{Uh...*gulp*...anything wrong?}
-{357}{}{Look, please... I don't want any trouble. I'm just in town for the day.}
+{353}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
+{354}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
+{355}{}{Dê minhas saudações para o seu chefe.}
+{356}{}{Uh…*glup*…algo errado?}
+{357}{}{Olhe, por favor…Eu não quero arrumar encrenca. Eu estou na cidade só por um dia.}
 {358}{}{Look, please... I don't want any trouble.}
-{359}{}{You selling?}
-{360}{}{Can I buy your clothes? I mean, right now?}
-{361}{}{I KNEW I should have shaved today.}
-{362}{}{Come chat with me for a sec, honey-tits.}
-{363}{}{C'mon, honey-lips... walk with me.}
-{364}{}{Nimble little minx, aincha?}
-{365}{}{I'd bathe for you.}
-{366}{}{I got your mother lode right here.}
-{367}{}{Them legs go all the way up?}
-{368}{}{You gonna dance tonight?}
-{369}{}{Excuse me. I have to go to the bathroom and er, comb my hair for a sec.}
-{370}{}{I'd like to be your underwear.}
-{371}{}{I'd like to smell your shorts.}
-{372}{}{You are one foxy bitch.}
-{373}{}{Screw me if I'm wrong, darling, but don't you want to kiss me?}
-{374}{}{Damn. All them curves and me with no brakes.}
-{375}{}{Know what would look good on you? Me.}
-{376}{}{Your panties may not be the best thing on earth, but they're damn close to it.}
+{359}{}{Você ta vendendo?}
+{360}{}{Eu posso comprar suas roupas? Eu digo, agora?}
+{361}{}{Eu SABIA que devia ter me barbeado hoje.}
+{362}{}{Vem conversar comigo um pouco, tetas-de-mel.}
+{363}{}{Vamos lá, lábios-de-mel…ande comigo.}
+{364}{}{Pequena ninfa ligeira, não é?}
+{365}{}{Eu tomei banho por você.}
+{366}{}{Eu tenho seu compridinho bem aqui.}
+{367}{}{Essas pernas ficam totalmente erguidas?}
+{368}{}{Você vai dançar essa noite?}
+{369}{}{me desculpe. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
+{370}{}{Eu queria ser suas roupas de baixo.}
+{371}{}{Eu gostaria de cheirar seu shorts.}
+{372}{}{Você é uma puta gostosa.}
+{373}{}{Me foda se eu estiver errado, querida, mas você não quer me beijar?}
+{374}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
+{375}{}{Sabe o que ficaria bem em você? Eu.}
+{376}{}{Suas calças podem não ser a melhor coisa na Terra, mas elas estão perto.}
 {503}{}{!}
-{504}{}{! You kick ass! You kick ASS!}
-{505}{}{! You are so MONEY!}
+{504}{}{! Você chuta bundas! Você chuta BUNDAS!}
+{505}{}{! Você tem tanto DINHEIRO!}
 {625}{}{!}
-{630}{}{! You kick ass! You kick ASS!}
-{631}{}{! You are so MONEY!}
+{630}{}{! Você chuta bundas! Você chuta BUNDAS!}
+{631}{}{! Você tem tanto DINHEIRO!}

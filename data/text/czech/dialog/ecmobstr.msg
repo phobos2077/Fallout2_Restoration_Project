@@ -2,7 +2,7 @@
 {101}{}{Ale, ale... copak to tady máme?}
 {102}{}{Obyèejní pocestní, jo? Nìco takovýho neexistuje. Nepotøebujete náhodou nìkoho, kdo by se vám postaral o vaše cennosti?}
 {103}{}{Dávej si pozor, kam v New Reno lezeš, nebo pøijdeš k úrazu. Kliï se mi z cesty.}
-{104}{}{Nazdar, }
+{104}{}{Ahoj, }
 {105}{}{.}
 {106}{}{Co tady dìláš, }
 {107}{}{?}

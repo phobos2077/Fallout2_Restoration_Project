@@ -1,33 +1,5 @@
-#############################################################
-#  Message File: ACMynoc.msg                                #
-#                                                           #
-#       Body Type:  NMPRIM                                  #
-#       Combat AI: Berzerker                                #
-#       Weapons: Sledgehammer[in hand]                      #
-#       HP: 75                                              #
-#       Skills to note: 80% Throwing                        #
-#                                                           #
-#  Log:                                                     #
-#                                                           #
-#  Created: December 01, 1997                               #
-#                                                           #
-#  Updated:                                                 #
-#############################################################
-
-#############################################################
-#  The following lines are for describing the NPC when      #
-#  glanced and and examined.                                #
-#############################################################
-
 {100}{}{Vidíš stráce mostu.}
 {101}{}{Vidíš Mynoca, stráce mostu.}
-
-#############################################################
-#  The following lines are for the dialog which the NPC     #
-#  says. This will be disorganized because of the Design    #
-#  Tool.                                                    #
-#############################################################
-
 {150}{}{Pøed tebou stojí slavnı váleèník tvého kmene. V ruce drí kopí.}
 {151}{}{[MLUVIT]}
 {152}{}{Ahoj, Vyvolenı. Jdeš hledat GECK?}
@@ -35,14 +7,14 @@
 {154}{}{Ano. A pøedtím, ne odejdu, se tì chci na nìco zeptat.}
 {155}{}{Ne, zatím ne. Musím se tu ještì trošku víc porozhlédnout.}
 {156}{}{Tak a tì bohové ochraòují.}
-{157}{}{Díky a sbohem.}
+{157}{}{Díky. Sbohem.}
 {158}{}{Co chceš vìdìt?}
 {159}{}{Co mi mùeš øíct o lidech, kteøí obchodují s naší vesnicí?}
 {160}{}{Co mi mùeš povìdìt o tomhle pøedmìtu, kterı prı pochází z Vaultu?}
 {161}{}{Nic, zapomeò na to.}
 {162}{}{Tak dobrá, ale neztrácej tu zbyteènì moc èasu. Bez GECKu jsme všichni ztraceni.}
 {163}{}{Já vím, nemìj strach. Všechno mám pod kontrolou.}
-{164}{}{Proè?}
+{164}{}{Jak to?}
 {165}{}{Musím jít. Sbohem.}
 {166}{}{Obchodníci? Zhruba kadé dva mìsíce sem pøicházejí z Klamathu. Další se tu teï neobjeví døív ne za mìsíc i pøesto, e Klamath není zase tak daleko. Je odsud jen pár dní cesty smìrem na vıchod.}
 {167}{}{Díky. Sbohem.}
@@ -81,7 +53,7 @@
 {200}{}{Nemùu Vault 13 poøád nikde najít.}
 {201}{}{No to se podívejme, Vyvolenı.}
 {202}{}{Ahoj.}
-{203}{}{Dr hubu.}
+{203}{}{Sklapnìte.}
 {204}{}{Mùu se tì na nìco zeptat?}
 {205}{}{Ne, nemám na tebe èas.}
 {206}{}{Jak chceš. Sbohem.}
@@ -94,7 +66,6 @@
 {213}{}{Jsi zrádce svıch vlastních lidí.}
 {214}{}{Proè tohle dìláš?}
 {215}{}{Starší se zmılila. Ty jsi zlo.}
-
 {300}{}{Mùj otec mì nauèil vyrábìt mnohem ostøejší hroty, ne má vìtšina kopí. Dones mi kousek pazourku a já ti upravím i tvoje kopí. V pustinì se ti to bude hodit.}
 {301}{}{Kde se dá takovı pazourek sehnat?}
 {302}{}{Myslím, e tvá teta Morlis jeden kus schovávala. Je ale tak nevrlá, e si myslím, e se ji ještì nikdo neodváil na nìj zeptat. Ta èarodìjnice bude urèitì chtít nìco na oplátku.}
@@ -103,16 +74,13 @@
 {305}{}{Ano, tady je.}
 {306}{}{Ještì ne.}
 {307}{}{Ano, to je dobrı kousek. Podej mi své kopí.}
-{308}{}{Tady ho máš.}
+{308}{}{Tady je.}
 {309}{}{Já... já ádné nemám.}
 {310}{}{A teï se dáme do práce...}
 {311}{}{Vyvolenı a nemá kopí? No, budu muset pouít jedno z mıch. A teï se dáme do práce...}
 {312}{}{Tady máš svoje nové kopí.}
 {313}{}{Díky, pøíteli. Hodnì mi to pomùe.}
 {314}{}{No, zaujalo mì tvoje kopí. Vypadá trochu jinak ne mají ostatní.}
-
-
-# added in for time limit
 {400}{}{Vítej doma, Vyvolenı! Našel jsi svatı Vault? Máš pro nás GECK?}
 {401}{}{Já nenajít... zatím.}
 {402}{}{Ne, zatím mi štìstí nepøálo.}
@@ -124,11 +92,11 @@
 {408}{}{Snaím se ze všech sil. A najdu GECK, vrátím se s ním.}
 {409}{}{Jsme jen obyèejní lidé a nemáme co nabídnout. Tìch nìkolik málo mìst, která jsme poádali, neprojevilo ani špetku zájmu nám pomoct.}
 {410}{}{Já chápat.}
-{411}{}{Rozumím.}
+{411}{}{Aha.}
 {412}{}{Jsi naše jediná nadìje, Vyvolenı. Prosím, nezklam nás!}
 {413}{}{Rád tì vidím, Vyvolenı. Jak se ti daøí ve tvém poslání?}
-{414}{}{Já stále hledat.}
-{415}{}{Stále hledám a hledám.}
+{414}{}{Ne, stále hledat.}
+{415}{}{Stále ho ještì hledám.}
 {416}{}{Nechci o tom mluvit.}
 {417}{}{Musíš si pospíšit. Tady doma je to èím dál horší. Brzy nebudeme mít ádné jídlo a Starší mluví o zavedení pøídìlù. Bojím se budoucnost. Bojím se o Arroyo.}
 {418}{}{Vyvolenı! Prosím øekni mi, e u jsi dokonèil své poslání. Naše vesnice umírá a lidé jsou na tom moc špatnì.}
@@ -144,39 +112,7 @@
 {428}{}{Je mi líto, ale stále nemùu GECK najít.}
 {429}{}{U toho mám dost.}
 {430}{}{Lidé tady umírají, zatímco ty se touláš po okolí. Moná bys mìl zkusit hledat nìkde jinde a ne se poøád vracet sem.}
-
 {500}{}{U jsi mluvil se Starší?}
-
-#############################################################
-#  TELL - ME - ABOUTS                                       #
-#############################################################
-{1000}{}{Starsi}
-{1001}{}{Zakladatel}
-{1002}{}{Obyvatel Vaultu}
-{1003}{}{Arroyo}
-{1004}{}{Klamath}
-{1005}{}{Vault}
-{1006}{}{Vyvoleny}
-{1007}{}{Saman}
-{1008}{}{Hakunin}
-{1009}{}{Lecivy prasek}
-{1010}{}{Most}
-{1011}{}{Mynoc}
-
-{1100}{}{Starší je tvoje matka a náš vùdce.}
-{1101}{}{Náš slavnı pøedek, kterı nám pøedal své znalosti.}
-{1102}{}{První èlovìk, kterı bojoval a zvítìzil nad chaosem.}
-{1103}{}{To je naše krásná vesnice.}
-{1104}{}{That’s trading outpost a few days east of here.}
-{1105}{}{Vault je jako nebe.}
-{1106}{}{Ty jsi Vyvolenı.}
-{1107}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
-{1108}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
-{1109}{}{To je léèivı prášek, kterı tì vyléèí, ale bude se ti po nìm chtít spát.}
-{1110}{}{Velikı most je jedinım vıchodem z naší vesnice.}
-{1111}{}{To bych mìl bıt já.}
-
-#added by killap - expansion
 {600}{}{Nìjaká poslední rada, ne vyrazím do neznáma?}
 {601}{}{Jistì. Vyvaruj se zbraní tìch, kteøí ijí tam venku. Kousnutí geckona je nièím v porovnání se silou jejich ohnivıch holí.}
 {602}{}{Dobrá. Ještì nìjaká rada?}
@@ -211,16 +147,36 @@
 {631}{}{Poslouchej, Ten-jeho-jméno-nesmíme-vyslovit je nìkde tam venku. Nebude s tebou vyjednávat. Nebude cítit lítost, soucit nebo strach. A nic ho nezastaví, dokud nebude jeden z vás mrtev.}
 {632}{}{Víš, myslím, e z toho dìláš zbyteènì melodrama. Kadopádnì díky za radu. Uvidíme se, Mynocu.}
 {633}{}{Budu na to myslet. Opatruj se, Mynocu.}
-
 {640}{}{Mùeš mi øíct nìco o Kagovi?}
 {641}{}{(Jeho oèi se rozšíøí a nervóznì se rozhlédne, jako by oèekával, e do nìj uhodí blesk.) Ztratil jsi v pustinì zdravı rozum?! Mìl bys vìdìt nejlépe, e vyslovit jeho jméno je zapovìzeno! Mùeš ho nazıvat pouze jako Ten-jeho-jméno-nesmíme-vyslovit. Naše vesnice trpí dost i bez hnìvu bohù obráceného proti nám. (Nervóznì pozvedne oèi k nebesùm.)}
 {642}{}{Promiò, Mynocu. Ale myslíš, e bys mi mohl ještì jednou povìdìt, jak to s Ka... chci øíct, "Toho-jeho-jméno-nesmíme-vyslovit", bylo? Opravdu mám ten pøíbìh rád.}
 {643}{}{Víš, úplnì jsem zapomnìl, jak povìrèiví lidé dokáete bıt. Sbohem.}
-
 {650}{}{Èelil jsem mu u pøedtím, take jsem si jistı, e si to s ním vyøídím, pokud se naše cesty opìt skøíí.}
 {651}{}{Vlastnì je u mrtvı. Nechal jsem jeho mrtvolu hnít venku v pustinách.}
 {660}{}{(Mynoc smutnì kıvne hlavou.) Mohl sejít ze své cesty, ale i tak byl jednou uznávanım bojovníkem našeho kmene. Doufám, e jeho utrápená duše našla klid v dalším svìtì.}
-
 {661}{}{Máš pravdu. Uvidíme se, Mynoc.}
 {662}{}{Budi. Mì pøipadal jako sráè. Uvidíme se, Mynocu.}
-
+{1000}{}{Starsi}
+{1001}{}{Zakladatel}
+{1002}{}{Obyvatel Vaultu}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Vault}
+{1006}{}{Vyvoleny}
+{1007}{}{Saman}
+{1008}{}{Hakunin}
+{1009}{}{Lecivy prasek}
+{1010}{}{Most}
+{1011}{}{Mynoc}
+{1100}{}{Starší je tvoje matka a náš vùdce.}
+{1101}{}{Náš slavnı pøedek, kterı nám pøedal své znalosti.}
+{1102}{}{První èlovìk, kterı bojoval a zvítìzil nad chaosem.}
+{1103}{}{To je naše krásná vesnice.}
+{1104}{}{That’s trading outpost a few days east of here.}
+{1105}{}{Vault je jako nebe.}
+{1106}{}{Ty jsi Vyvolenı.}
+{1107}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
+{1108}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
+{1109}{}{To je léèivı prášek, kterı tì vyléèí, ale bude se ti po nìm chtít spát.}
+{1110}{}{Velikı most je jedinım vıchodem z naší vesnice.}
+{1111}{}{To bych mìl bıt já.}

@@ -1,4 +1,4 @@
 {100}{}{Vidíš nìjakého muže.}
 {101}{}{To je John.}
-{102}{}{Tluèe pùlkama kokosového oøechu o sebe.}
-{103}{}{Klep! Klap!}
+{102}{}{Tluèe skoøápkama z kokosu o sebe.}
+{103}{}{Klip! Klap!}

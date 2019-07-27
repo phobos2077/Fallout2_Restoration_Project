@@ -38,7 +38,7 @@
 {1300}{}{<click> whimper.}
 {1400}{}{How-woooo! <click-click> How-wooo!}
 {1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
-{1600}{}{Sure thing, I'll put it away.}
+{1600}{}{Eu removerei a coisa certa.}
 {1700}{}{Arf-arf proximity set to close.}
 {1800}{}{Arf-arf proximity set to medium.}
 {1900}{}{Arf-arf proximity set to far.}

@@ -1,9 +1,5 @@
-# QUICK LOOKS
 {100}{}{Vidíš znièeného feáka.}
 {101}{}{Vidíš hyperaktivního feáka.}
-
-# EXAMINES
-# 1. [MALE, CRASH AND BURN]
 {150}{}{Vidíš znièeného feáka. Pohybuje se velmi pomalu.}
 {151}{}{Vidíš znièeného feáka. Vypadá to, e je mu špatnì.}
 {152}{}{Vidíš znièeného feáka. Je tak hubenı, e by se zlomil v pasu pøi prvním závanu vìtru.}
@@ -11,14 +7,12 @@
 {154}{}{Vidíš znièeného feáka. Má tak krvavé oèi, e by nejspíš mohl plakat krev.}
 {155}{}{Vidíš znièeného feáka. Pøi kadém pohybu sebou škubne, jako by do nìj nìkdo zabodával jehly.}
 {156}{}{Vidíš znièeného feáka. Má pytle pod oèima a vıraz v jeho oblièeji naznaèuje velkou bolest.}
-# 2. [MALE, HIGH ON JET]
 {160}{}{Vidíš feáka. Na tváøi má blaenı vıraz.}
 {161}{}{Vidíš feáka. Lehce se usmívá a pohybuje se v neslyšitelném rytmu.}
 {162}{}{Vidíš feáka. Zírá do prázdna.}
 {163}{}{Vidíš feáka. Usmívá se a mává na nìco za tebou.}
 {164}{}{Vidíš feáka. Neustále si osahává oblièej a nìco si pro sebe mumlá.}
 {165}{}{Vidíš feáka. Navzdory pytlùm pod oèima se usmívá, jako by vyhrál v loterii.}
-# 3. [FEMALE, CRASH AND BURN]
 {170}{}{Vidíš znièenou feaèku. Pohybuje se velmi pomalu.}
 {171}{}{Vidíš znièenou feaèku. Vypadá, jako by nejedla nìkolik mìsícù.}
 {172}{}{Vidíš znièenou feaèku. Je tak hubená, e by se zlomila v pasu pøi prvním závanu vìtru.}
@@ -27,7 +21,6 @@
 {175}{}{Vidíš znièenou feaèku s krví podlitıma oèima.}
 {176}{}{Vidíš znièenou feaèku. Pøi kadém pohybu sebou škubne, jako by do ní nìkdo zabodával jehly.}
 {177}{}{Vidíš znièenou feaèku. Má pytle pod oèima a vıraz v jejím oblièeji naznaèuje velkou bolest.}
-# 4. [FEMALE, HIGH ON JET]
 {180}{}{Vidíš feaèku. Na tváøi má blaenı vıraz.}
 {181}{}{Vidíš feaèku. Pláèe a zároveò se smìje.}
 {182}{}{Vidíš feaèku. Smìje se a tanèí v rytmu neviditelného zpìvu.}
@@ -36,20 +29,15 @@
 {185}{}{Vidíš feaèku. Neustále se škrábe na rukou.}
 {186}{}{Vidíš feaèku. Kroutí se jako had a stìí udrí rovnováhu.}
 {187}{}{Vidíš feaèku. Navzdory svému ubohému stavu se smìje, jako by vyhrála v loterii.}
-
-# FLOAT DIALOGUE:
-# 5. JUNKIE=WASTED; ENCLAVE DESTROYED IS TRUE
 {200}{}{::Fandí a poté sebou škubne::}
 {201}{}{::Slabì tleská a škube sebou::}
 {202}{}{::Slabì píská::}
-# 6. JUNKIE=STONED; ENCLAVE DESTROYED IS TRUE
 {210}{}{Jseš nejlepší... eh, nìco. Jseš nejlepší NÌCO!}
 {211}{}{::Vyje::}
 {212}{}{, jseš lepší ne JET!}
 {213}{}{::Zaujatì fandí::}
 {214}{}{::Zaujatì tleská::}
 {215}{}{::Píská::}
-# 7. JUNKIE = WASTED
 {220}{}{Moje hlava...}
 {221}{}{Jsem na dnì... jsem na dnì...}
 {222}{}{Bolí to víc ne obvykle...}
@@ -64,7 +52,6 @@
 {231}{}{Nevidìl jsi nìkde Poøezanıho Jimma J? Potøebuju dávku.}
 {232}{}{Hledám Renescovu lékárnu. Renesco mi pomùe.}
 {233}{}{Já vím, e Fallout 2 není ve 3D, ale stejnì by mohla podporovat moji fungl novou GeForce.}
-# 8. JUNKIE = HIGH
 {240}{}{[Zpívá.] Já... chci jenom lítat. Obejmi mì, bejby, obejmi mì, bejby.}
 {241}{}{[Zpívá.] Rakeák si lítá po obloze, rakeák...}
 {242}{}{Pozor! Rùovı páraè na tøech hodinách.}
@@ -84,7 +71,6 @@
 {256}{}{Moje boty dıchají.}
 {257}{}{Já vím, e Fallout 2 není ve 3D, ale stejnì by mohla podporovat moji fungl novou GeForce.}
 {258}{}{To èumíš na mì?! To èumíš na mì?!! Já tì zabiju!}
-# 9. JUNKIE=WASTED; ENCLAVE DESTROYED IS TRUE
 {270}{}{Eh, poblahopøál bych ti k vítìzství nad Enklávou, ale bolí mì strašnì hlava. Pøijï v noci.}
 {271}{}{::Zkouší tleskat, ale nemùe se trefit::}
 {272}{}{Jen tak dál. Byl jsem moc sjetej, abych to vidìl na vlastní oèi, ale urèitì to bylo super.}
@@ -95,7 +81,6 @@
 {277}{}{Já vím, e jsi zachránil svìt, ale my nedùleitı herní postavy se teï musíme vypoøádat s následky.}
 {278}{}{Chris Avellone mì vymyslel a Tom French mì naskriptoval, take technicky nejsem za svou závislost na Jetu odpovìdnej.}
 {279}{}{Jo, jo, fakt skvìlı, e jsi dohrál tuhle hru. Jenome to znamená, e nás teï smaeš z harddisku. Fakt dík.}
-# 10. JUNKIE=STONED; ENCLAVE DESTROYED IS TRUE
 {291}{}{Jseš nejlepší... eh, nìco. Jseš nejlepší NÌCO!}
 {292}{}{, jseš lepší ne JET!}
 {293}{}{Ty vole, chtìl bych vidìt tu øachu. TO muselo bejt nìco, co?}
@@ -111,10 +96,7 @@
 {303}{}{Pojïme si dát trochu Jetu a oslavme tak tvı vítìzství. Platíš.}
 {304}{}{A smaeš tuhle hru z harddisku, budeme ještì existovat?}
 {305}{}{Eh... jakı drogy Enkláva testovala? Nebyl tam náhodou Jet zadarmo?}
-
-# CLICK DIALOGUE:
-# 11. JUNKIE = WASTED, PLAYER = POWER ARMOR
-{320}{}{Jak chodíš s tou zbrojí na záchod?}
+{320}{}{Jak s tou zbrojí na sobì chodíš na záchod?}
 {321}{}{Eh... to mluvíš se mnou?}
 {322}{}{Ty vole, ty absáky jsou èím dál horší. Teï na mnì mluví elezní lidi.}
 {323}{}{Nìkdo tì polil elezem?}
@@ -123,17 +105,15 @@
 {326}{}{::Klepe ti na zbroj:: Haló? Je nìkdo doma?}
 {327}{}{Ty jseš nìjakej køíenec s lednièkou?}
 {328}{}{Není ti v tom horko?}
-# 12. JUNKIE = WASTED, PLAYER = SLAVER
 {350}{}{Dej mi trochu Jetu a já ti øeknu, kde najdeš snadnou koøist, otrokáøi.}
 {351}{}{Mùeš si vzít moje dìti, otrokáøi, pokud mi za nì zaplatíš Jetem...}
 {352}{}{Dej mi pár drobnejch a budu tvùj otrok... jenom si dojdu pro trochu Jetu.}
 {353}{}{Budu tvùj otrok, kdy mi dáš trochu Jetu.}
 {354}{}{Mùeš mì prodat do otroctví, kdy mi dáš trochu Jetu.}
-{355}{}{Ne, kámo, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
-# 13. JUNKIE = WASTED, PLAYER = PRIZEFIGHTER OR MADE MAN
+{355}{}{Ne, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
 {360}{}{Ty jseš boxer? Nemáš nìjakı drobnı na pùjèení?}
 {361}{}{No ták, staèí mi jen pár drobnejch.}
-{362}{}{Mùeš mi pùjèit nìjakı drobnı? Vrátím ti to, slibuju.}
+{362}{}{Mùu si pujèit pár drobnejch? No ták, vrátím ti to.}
 {363}{}{Hele, eh... nemáš trochu Jetu?}
 {364}{}{Kámo, potøebuju se *proletìt*, jestli mi rozumíš.}
 {365}{}{Potøebuju nìjakı léky pro syna. Pomoz mi.}
@@ -141,37 +121,35 @@
 {367}{}{Potøebuju jenom pár drobnejch na jídlo...}
 {368}{}{Budu tvùj otrok, kdy mi dáš trochu Jetu.}
 {369}{}{Mùeš mì prodat do otroctví, kdy mi dáš trochu Jetu.}
-{370}{}{Ne, kámo, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
+{370}{}{Ne, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
 {371}{}{Ty jseš èlen rodiny }
 {372}{}{Mùu si pùjèit pár drobnejch...? No ták, mì mùeš vìøit.}
 {373}{}{Kvùli Jetu budu i pracovat...}
-# 14. JUNKIE = MALE, WASTED, PLAYER = NO REP OR PORN STAR
 {380}{}{Hej, brácho? Pomùeš mi lítat?}
 {381}{}{Udìlám cokoliv budeš chtít pro pár drobnejch. Nebo Jet, jestli máš.}
-{382}{}{Nechceš se se mnou proletìt, kámo?}
+{382}{}{Nechceš se se mnou proletìt?}
 {383}{}{Tati?}
 {384}{}{Kámo, potøebuju se *proletìt*, jestli mi rozumíš.}
-{385}{}{Ne, kámo, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
+{385}{}{Ne, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
 {386}{}{Psssst. Mùeš mi sehnat trochu Jetu?}
-{387}{}{Mùu si pùjèit pár drobnejch...? No ták, mì mùeš vìøit.}
+{387}{}{Mùu si pujèit pár drobnejch...? Vrátím ti to.}
 {388}{}{Kvùli Jetu budu i pracovat...}
 {389}{}{No ták, kámo, pujè mi pár babek.}
-{390}{}{Mùeš mi pùjèit nìjakı drobnı? Vrátím ti to, slibuju.}
+{390}{}{Mùu si pujèit pár drobnejch? No ták, vrátím ti to.}
 {391}{}{Hele, eh... nemáš trochu Jetu, kámo?}
 {392}{}{Potøebuju nìjakı léky pro syna. Pomoz mi.}
 {393}{}{Nemáš nìjakı drobnı?}
 {394}{}{Potøebuju jenom pár drobnejch na jídlo... nic víc...}
-{395}{}{Vyspím se s tebou za Jet nebo pár drobnejch. Jsem èistej, slibuju.}
+{395}{}{Vyspím se s tebou za Jet nebo pár drobnejch. Jsem èistá, slibuju.}
 {396}{}{Bejval jsem nejvìtší hlavoun tady v Renu. Za trochu Jetu tì mùu provıst kolem...}
 {397}{}{Budu tvùj otrok, kdy mi dáš trochu Jetu.}
 {398}{}{Mùeš mì prodat do otroctví, kdy mi dáš trochu Jetu.}
 {399}{}{Hej, sestro? Pomùeš mi lítat?}
-{400}{}{No ták, sleèno, staèí jenom pár drobnejch.}
+{400}{}{No ták, sleèno, staèí jenom pár babek.}
 {401}{}{Hele, eh... nemáte trochu Jetu, sleèno?}
 {402}{}{Hele, potøebuju se *proletìt*, jestli mi rozumíš.}
 {403}{}{Ne, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
 {404}{}{Mami?}
-# 15. JUNKIE = FEMALE, WASTED, PLAYER = MALE, NO REP OR PORN STAR
 {420}{}{Hej, brácho? Pomùeš mi lítat?}
 {421}{}{No ták, chlapèe, staèí jenom pár babek.}
 {422}{}{Vyspím se s tebou za Jet nebo pár drobnejch. Jsem èistá, slibuju.}
@@ -198,13 +176,12 @@
 {443}{}{Sestro, potøebuju se *proletìt*, jestli mi rozumíš.}
 {444}{}{Ne, sestro, drogy u neberu. Eh... proè se ptáš? Chceš snad nìco koupit?}
 {445}{}{Mami?}
-# 16. ANY STONED REACTION, POWER ARMOR
 {450}{}{Do pr...! Kdo jsi? Nìjakej robot?}
 {451}{}{Co jsi bral, e jsi skonèil obalenej elezem?}
 {452}{}{Páni. eleznej èlovìk. A mluví se mnou.}
 {453}{}{Jestli jseš z jinı planety, tak se tam taky hezky rychle vra... tady není nic k dobıvání.}
 {454}{}{Fíha. Vidím odrazy svìtla New Rena v tvım hledí.}
-{455}{}{Jsem tak sjetej... eh, co jsem to øíkal?}
+{455}{}{Jsem tak sjetej, e... eh, co jsem to øíkal?}
 {456}{}{Ty vole, v tom musí bejt ale HORKO.}
 {457}{}{Je tam nìkdo?}
 {458}{}{No, jestlipak to není Darttth Vadrrr.}
@@ -212,7 +189,6 @@
 {460}{}{Kámo, jseš ve špatnı høe. Zkus tøeba Mechwarriora.}
 {461}{}{Ty jseš kosmonaut?}
 {462}{}{Potøeboval bych nìkolik dávek Jetu, ne bych si na tebe vùbec troufnul.}
-# 17. ANY STONED REACTION, ANY SLAVER OR PRIZEFIGHTER
 {470}{}{Nazdar, otrokáøi, jak je?!}
 {471}{}{Chceš mì zotroèit, co? To si mùeš zkusit! Jsem neporazitelnej!}
 {472}{}{Zkus mì chytit, otrokáøi!}
@@ -234,7 +210,6 @@
 {488}{}{Nazdar, šampióne, jak je?!}
 {489}{}{Nechceš si se mnou zaboxovat? Co? No ták!}
 {490}{}{Zahráváš si se mnou, šampióne? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
-# 18. ANY STONED REACTION TO MADE MAN
 {500}{}{Ajéje! Pozor, pøichází gangster!}
 {501}{}{Jsem tak vysoko, e tì tam dole skoro ani nevidím, gangstere.}
 {502}{}{Proè jste dva? To je tvoje dvojèe?}
@@ -249,14 +224,12 @@
 {511}{}{Zahráváš si se mnou, gangstere? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
 {512}{}{Chceš dostat pøes hubu, gangstere?! Co?}
 {513}{}{::Zírá na tebe zamlenım zrakem::}
-# 19. ANY STONED REACTION TO DRUGGED PLAYER
 {520}{}{Páni... na èem to jedeš? Nechceš se podìlit?}
 {521}{}{A já si myslel, e jsem v prdeli.}
 {522}{}{Hej, kámo... podìl se se mnou.}
 {523}{}{Chtìl jsem se tì zeptat, jestli si nechceš zalítat, ale vidím, e je to zbyteènı.}
 {524}{}{Proè jste dva? To je tvoje dvojèe?}
 {525}{}{Kde jsi sehnal ten matroš?}
-# 20. ROBOBRAIN OR MARCUS
 {530}{}{Radši se ani neotáèej, jede za tebou mozek v krabici.}
 {531}{}{Fíha, asi jsem si vzal nìjakej fakt drsnej fet... vidím jezdícího robota s mozkem.}
 {532}{}{Jestli tady ještì jednou uvidím jezdit toho robota s mozkem, tak nadobro konèím s Jetem.}
@@ -286,7 +259,6 @@
 {556}{}{Nechceš se se mnou proletìt? A co ten tvùj mutant?}
 {557}{}{Zahráváš si se mnou, mutantofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
 {558}{}{Chceš dostat pøes hubu, mutantofile ?! Co?}
-# 21. STONED MALE REACTION TO COMP: SULIK OR NO REP AT ALL
 {560}{}{Radši se ani neohlíej, jde za tebou divoch.}
 {561}{}{Páni, kouknìte na toho divocha. To je fakt velká kost.}
 {562}{}{Páni. Ví tvùj kámoš o tom, e mu z nosu roste velká kost?}
@@ -306,15 +278,11 @@
 {576}{}{Zahráváš si se mnou, robotofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
 {577}{}{Chceš dostat pøes hubu?! Co?}
 {578}{}{::Zírá na tebe zamlenım zrakem::}
-
-# use jet on junkie dialog
 {600}{}{Paráda...}
 {601}{}{Mmmm...}
 {602}{}{Jseš kámoš.}
 {603}{}{j}
 {604}{}{J}
 {605}{}{Dej mi J... eh...}
-
-# endings for middle insertion dialogs
 {796}{}{! HUSTİ! CO DÁL, BEJBY, CO DÁL?!!!}
 {871}{}{? Mùeš mi sehnat trochu Jetu?}

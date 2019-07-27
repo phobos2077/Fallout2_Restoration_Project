@@ -5,12 +5,11 @@
 {104}{}{Terminál indikuje, že všechny bezpeènostní systémy Vaultu jsou mimo provoz z dùvodu nedostatku energie.}
 {105}{}{Vypnout silové pole.}
 {106}{}{Zapnout silové pole.}
-{107}{}{Konec.}
+{107}{}{Beru.}
 {108}{}{Zadáváš pøíkaz k deaktivaci silového pole.}
-{109}{}{Konec.}
+{109}{}{Beru.}
 {110}{}{Zadáváš pøíkaz k aktivování silového pole.}
-{111}{}{Konec.}
-
+{111}{}{Beru.}
 {112}{}{Terminál indikuje, že bylo silové pole ruènì vypnuto.}
 {113}{}{Terminál indikuje, že bylo silové pole vypnuto.}
 {114}{}{Terminál indikuje, že je silové pole vypnuto.}

@@ -40,7 +40,7 @@
 {201}{}{Do you have a battery that I could use to fix a car?}
 {202}{}{I have some things that I want you to take a look at.}
 {203}{}{O que você faz aqui?}
-{204}{}{Uh, I was just looking around. Goodbye.}
+{204}{}{Hã, eu só estava dando uma olhada por aqui. Tchau.}
 {210}{}{What do ya want me to look at?}
 {211}{}{Ready for me to take a gander at something else? What do ya want me to look at now?}
 {212}{}{I've got this telescope thing.}
@@ -115,7 +115,7 @@
 {370}{}{I see that you've got a mighty fine tool kit there. Snap-off, ain't it? I'll trade you this Fuel
  Cell Controller for it.}
 {371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
-{372}{}{It's a deal.}
+{372}{}{Estamos de acordo.}
 {373}{}{Not right now. I'm holding on to this for a while. Goodbye.}
 {380}{}{That's a mighty fine trade. You should be able to jist plug that sucker in and git your car
  a'workin'.}

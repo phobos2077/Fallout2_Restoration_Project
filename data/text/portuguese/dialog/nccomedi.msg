@@ -5,12 +5,12 @@
 {1001}{}{To get away from your boring ASS!}
 {1002}{}{I say we kill this guy!}
 {1003}{}{Cause the radscorpion... uh, it wanted to get away from the radioactive fallout particles...}
-{1004}{}{You suck!}
+{1004}{}{Você não presta!}
 {1005}{}{FUCK YOU!}
 {1006}{}{Uh, the joke, see, since it was already a mutant, it didn't need to cross the road, so... uh...}
 {1007}{}{}
 {2000}{}{Heh-heh. Gecko... ghouls, right? Ghouls... man, do they STINK.}
-{2001}{}{You stink!}
+{2001}{}{Seu fedido!}
 {2002}{}{This guy should only be on Saturday nights!}
 {2003}{}{Uh... heh-heh... so, uh, ghouls right, they smell bad. So, like, uh...}
 {2004}{}{Did I mention ghouls stink?}
@@ -46,7 +46,7 @@
 {6002}{}{It's short for RADIATION, asshole.}
 {6003}{}{Who are these people that think mutated scorpions...}
 {6004}{}{Are so rad?}
-{6005}{}{You suck!}
+{6005}{}{Você não presta!}
 {6006}{}{}
 {7000}{}{Molerats?}
 {7001}{}{Oh rapaz...}

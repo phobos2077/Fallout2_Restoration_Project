@@ -12,7 +12,7 @@
 {111}{}{A tak jsem skonèila jako "doplòková NPC postava" ve Vaultu 13. Prokristapána. Jak neèekané.}
 {112}{}{Pøekvapuje mì, že nevyrenderovali tu èernovlásku úplnì nahou.}
 {113}{}{Tím chci øíct, že bìhem tvorby mockrát obleèená nebyla.}
-{114}{}{*Povzdech*}
+{114}{}{*Vzdych*}
 {115}{}{Nenávidím muže.}
 {116}{}{Snad jenom kromì vysnìného Mawericka.}
 {117}{}{Myslím, že se za mì postavil. Musela jsem se s ním jenom párkrát vyspat, aby hlasoval pro mì.}

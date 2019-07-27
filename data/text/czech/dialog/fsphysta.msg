@@ -27,8 +27,7 @@
 {126}{}{Aktivovat stanici.}
 {127}{}{Odejít.}
 {128}{}{Náhodnì stiskneš nìkolik kláves a jsi v poèítaèi! To je ale štìstí!}
-{129}{}{VÍCE}
+{129}{}{[Více]}
 {130}{}{Poèítaè nereaguje na žádnou klávesu.}
 {131}{}{Nemáš tušení kam to vložit.}
-
 {132}{}{Kopírování plánù... Kopírování hotovo... Vracím se do... Chyba I/O... Chyba pøerušení... Terminál se deaktivuje.}

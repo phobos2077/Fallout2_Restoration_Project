@@ -1,33 +1,22 @@
-# QUICK LOOK
 {100}{}{Vidíš rozkuøovaèku.}
-
-# 1. LOOK (PLAYER IS MALE)
 {150}{}{Vidíš prùmìrnì atraktivní enu. Vypadá to, e tì sjídí pohledem.}
 {151}{}{Vidíš rozkuøovaèku. Vypadá to, e váhá, jestli se ti má vìnovat nebo ne.}
-
-# 2. LOOK (PLAYER IS FEMALE)
 {160}{}{Vidíš prùmìrnì atraktivní enu. Dívá se na tebe jako na sokyni.}
 {161}{}{Vidíš rozkuøovaèku. Dívá se na tebe jako na sokyni.}
-
-# 3. [ENCLAVE DESTROYED]
-{200}{}{Ach mùj... to je ON. }
+{200}{}{Ach boe... to je on. }
 {201}{}{Jseš ten nejvìtší kanec na svìtì.}
 {202}{}{::Omdlévá::}
-{203}{}{Slyšela jsem, e tì hledají Bratøi. Chtìj natoèit film podle tvıho dobrodruství.}
+{203}{}{Myslím, e tì hledají Bratøi. Chtìj natoèit film podle tvıho dobrodruství.}
 {204}{}{Jooo, }
 {205}{}{::Tleská::}
-{206}{}{::Pokøikuje::}
-{207}{}{Ach mùj... to je ONA. }
+{206}{}{::Fandí::}
+{207}{}{Ach boe... to je ona. }
 {208}{}{Fandím ti, holka!}
 {209}{}{::Ukáe ti vztyèenı palec::}
-
-# 4. [POWER ARMOR]
 {225}{}{Tohle v ádnım pøípadì rozkuøovat nebudu.}
-{226}{}{Jak s tou zbrojí chodíš na záchod?}
-{227}{}{To je nìjakı novı druh vibrátoru?}
-{228}{}{To je nìjakı kondom na celı tìlo?}
-
-# 5. [MALE, PORN STAR]
+{226}{}{Jak sakra chodíš s tou zbrojí na záchod?}
+{227}{}{To je nìjakej novej vibrátor nebo co?}
+{228}{}{To je nìjakej obøí kondom?}
 {235}{}{Potøebuješ nìco, }
 {236}{}{Tady jsem, }
 {237}{}{Podívejte! To je on!}
@@ -36,49 +25,37 @@
 {240}{}{Z toho chlapa celá vlhnu.}
 {241}{}{Klidnì by mì mohl pleskat ocasem do tváøe.}
 {242}{}{Máš mezi nohama pìknì mrštnıho hada.}
-
-# 6. [PORN STAR, FEMALE]
 {245}{}{Potøebuješ nìco, }
 {246}{}{Ještì jednoho herce a asi vrhnu.}
 {247}{}{Bejt rozkuøovaèka není ádná sranda.}
 {248}{}{Slyšela jsem, e to mezi rodinama zaèíná bejt dost na noe.}
-{249}{}{Minulej tejden jsem nakopala Julese do koulí.}
+{249}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {250}{}{Pøála bych si, aby mi Bratøi dali nìjakou roli ve filmu.}
-{251}{}{Nechápu, co na ní ti Bratøi vidí...}
-
-# 7. [MALE, PRIZEFIGHTER]
-{255}{}{Ach boe... to je ON. }
-{256}{}{Podívejte na ty svaly! Podlamujou se mi kolena...}
+{251}{}{Nechápu, co na NÍ Korsickı bratøi vidí...}
+{255}{}{Ach boe... to je on. }
+{256}{}{Kouknìte na ty svaly! Cítím se tak slabá...}
 {257}{}{Je to chlap jako tank. Mrkejte na ten jeho kanón.}
-{258}{}{Mrkejte na ten jeho kanón...}
-{259}{}{Je celej mùj...}
+{258}{}{Koukejte na ty stehna...}
+{259}{}{Ten musí bıt mùj...}
 {260}{}{::Vzdych::}
 {261}{}{Z toho chlapa celá vlhnu.}
 {262}{}{Máš mezi nohama pìknì mrštnıho hada.}
-
-# 8. [FEMALE, PRIZEFIGHTER]
-{270}{}{Ach boe... to je ONA. }
+{270}{}{Ach boe... to je ona. }
 {271}{}{Vítejte ve studiu, madam.}
-{272}{}{Vypadá tak... (Otøepe se.) ...nebezpeènì.}
+{272}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
 {273}{}{Je to docela koèka.}
-{274}{}{Zdravím, madam. Dejte mi vìdìt, kdybyste nìco potøebovala.}
-
-# 9. [MALE, MADE MAN/BERSERKER]
-{280}{}{Ach boe... to je ON. }
+{274}{}{Zdravím, madam. Dejte mi vìdet, a budete potøebovat s nìèím pomoci.}
+{280}{}{Ach boe... to je on. }
 {281}{}{Vítejte ve studiu, pane.}
-{282}{}{Vypadá tak... (Otøepe se.) ...nebezpeènì.}
+{282}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
 {283}{}{To je ale poøádnej drsòák.}
 {284}{}{Z toho chlapa celá vlhnu.}
 {285}{}{Máš mezi nohama pìknì mrštnıho hada.}
-
-# 10. [FEMALE, MADE MAN/BERSERKER]
-{290}{}{Ach boe... to je ONA. }
+{290}{}{Ach boe... to je ona. }
 {291}{}{Vítejte ve studiu, madam.}
-{292}{}{Vypadá tak... (Otøepe se.) ...nebezpeènì.}
+{292}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
 {293}{}{Je to docela koèka.}
-{294}{}{Zdravím, madam. Dejte mi vìdìt, kdybyste nìco potøebovala.}
-
-# 11. [MALE, NO REP + MYRON]
+{294}{}{Zdravím, madam. Dejte mi vìdet, a budete potøebovat s nìèím pomoci.}
 {300}{}{A do prdele! To je Myron! Utíkejte!}
 {301}{}{Do hajzlu! To je Myron. Musím zùstat v klidu... on dokáe vycítit strach.}
 {302}{}{Radši dr Myrona dál ode mì.}
@@ -86,31 +63,25 @@
 {304}{}{Jestli tady Myron zaène pracovat, tak já konèím.}
 {305}{}{Myrone, u jsi pokoøil pìtivteøinovou hranici?}
 {306}{}{Myrone, radši odsud vypadni, ne tì Bratøi zblejsknou.}
-
-# 12. FLOAT/[LEATHER]
 {315}{}{Copak tyhle úchyláci v kùi nevìdìj, e tu maj bejt a ve støedu?}
 {316}{}{No skvìlı. Další S&M na obzoru.}
 {317}{}{Hmmmm. Èerná kùe. Tak TOHLE tu ještì nebylo.}
 {318}{}{Do pøíštího tejdne nemáme ádnou kùi nebo svazování v plánu.}
 {319}{}{No skvìlı, další slaïouš v kùi.}
 {320}{}{Podívej, zlato, v kùi si tu mùeš zahrát a ve støedu, jasnı?}
-
-# 13. [NO REP + BONENOSE]
 {325}{}{Ještì jednoho herce a asi vrhnu.}
 {326}{}{Bejt rozkuøovaèka není ádná sranda.}
 {327}{}{Slyšela jsem, e to mezi rodinama zaèíná bejt dost na noe.}
-{328}{}{Minulej tejden jsem nakopala Julese do koulí.}
+{328}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {329}{}{Ten chlápek s kostí v nose je docela roztomilej. Takovım zvláštním perverzním zpùsobem.}
 {330}{}{Co je to za chlápka s tou kostí v nose?}
 {331}{}{Mrkejte na toho divocha s kostí v nose. Vypadá, e vydrí dlouho.}
-{332}{}{Fíha, u jsem vidìla hodnì úrazù na scénì, ale zaraenou kost v nose ještì ne.}
+{332}{}{Fíha, u jsem vidìla hodnì zranìní na scénì, ale zaraenou kost v nose ještì ne.}
 {333}{}{Pøála bych si, aby mi Bratøi dali nìjakou roli ve filmu.}
-{334}{}{::Upøenì na tebe zírá::}
+{334}{}{::Zírá na tebe::}
 {335}{}{No skvìlı, DALŠÍ rozkuøovaèka. Podle toho jak vypadá, bude urèitì pracovat za polovièní cenu.}
 {336}{}{Kdo je to?}
 {337}{}{Kdo jsi?}
-
-# 14. [NO REP]
 {345}{}{Ještì jednoho herce a asi vrhnu.}
 {346}{}{Bejt rozkuøovaèka není ádná sranda.}
 {347}{}{Slyšela jsem, e to mezi rodinama zaèíná bejt dost na noe.}
@@ -120,8 +91,6 @@
 {351}{}{::Zírá na tebe::}
 {352}{}{Kdo je to?}
 {353}{}{Kdo jsi?}
-
-# 15. [ENCLAVE DESTROYED]
 {360}{}{Enkláva? Prezident? Povìz mi o tom všechno.}
 {361}{}{Naskriptoval mì Tom French. Má moc hebké a nìné ruce.}
 {362}{}{Oni poøád ještì vedli VÁLKU?! Opravdu? Díky bohu, e je s tìma bastardama konec.}
@@ -129,8 +98,6 @@
 {364}{}{Mìl by sis tuhle hru zahrát za jinou postavu.}
 {365}{}{Povìz mi všechno o tvım boji proti Enklávì... koupím ti jedno vychlazenı.}
 {366}{}{Myslím, e tì hledají Bratøi. Chtìj natoèit film podle tvıho dobrodruství.}
-
-# 16. [PORN STAR]
 {370}{}{Jejda, upadlo mi nìco do tvıch kalhot. Mùu si to vylovit?}
 {371}{}{Eh, nezašel bys nìkam na sklenièku? A co trocha nezávazného sexu?}
 {372}{}{Jak to, e jseš v takovı kondici?}
@@ -141,7 +108,7 @@
 {377}{}{Slyšela jsem, e rád pouíváš násilí. To mi nevadí.}
 {378}{}{Jsem moc ráda, e tì znám! Chci øíct, páni, vdy ty jseš pøece }
 {379}{}{Eh, já vím, e se teï nebude nic natáèet, ale nepotøebuješ i tak rozkuøovaèku?}
-{380}{}{Hledáš nìkoho, kdo se ti o nìj postará?}
+{380}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
 {381}{}{Hledáš ïolík pro svùj kolík, }
 {382}{}{Zboòuju tì ve filmu "Anální Nikita".}
 {383}{}{Zboòuju tì ve filmu "Oral Hills 90210".}
@@ -162,8 +129,6 @@
 {398}{}{Mùeš se mi podepsat?}
 {399}{}{Eh, nezašla bys nìkam na sklenièku? Teda pokud jseš i na holky.}
 {400}{}{::Ignoruje tì::}
-
-# 17. [PRIZEFIGHTER]
 {420}{}{Tak co, šampióne? Neskoèíme spolu do ringu?}
 {421}{}{Máš moc pìknı dìlo.}
 {422}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
@@ -178,23 +143,19 @@
 {431}{}{Nìkdy ti povyprávím, co tu všechno musíme dìlat.}
 {432}{}{Dej si bacha na dímaèku, je to naprostej kretén. Jednou mi chtìl ukousnout ucho.}
 {433}{}{Zdravím, madam. Mùu vám s *nìèím* pomoct?}
-{434}{}{Eh, nehledáte spoleènost na veèer, madam?}
+{434}{}{Eh, jestli hledáte spoleènost na veèer, madam...}
 {435}{}{Jako obvykle, madam?}
-
-# 18. [MADE MAN]
 {450}{}{Zdravím, pane. Mùu vám s *nìèím* pomoct?}
-{451}{}{Nehledáš spoleènost na veèer?}
+{451}{}{Jestli hledáš spoleènost na veèer...}
 {452}{}{Jako obvykle, pane?}
 {453}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
-{454}{}{Mùeš za mì pøimluvit u šéfa?}
+{454}{}{Nepøimluvíte se za mì u šéfa?}
 {455}{}{Taky zaèínáš s tímhle byznysem?}
 {456}{}{Mìl bys jít do porna. Máš na to postavu.}
 {457}{}{Nìkdy ti povyprávím, co tu všechno musíme dìlat.}
 {458}{}{Zdravím, madam. Mùu vám s *nìèím* pomoct?}
-{459}{}{Eh, nehledáte spoleènost na veèer, madam?}
+{459}{}{Eh, jestli hledáte spoleènost na veèer, madam...}
 {460}{}{Jako obvykle, madam?}
-
-# 19. [BONE-NOSE]
 {465}{}{Ne, díky. To si to snad radši udìlám sama... rtìnkou.}
 {466}{}{Ty? Promiò, ale tak zoufalá NIKDY nebudu.}
 {467}{}{Eh, tvùj kámoš si tou kostí v nose nìco kompenzuje?}
@@ -222,8 +183,6 @@
 {489}{}{Nìkterı herci by se mìli povinnì sprchovat. Pravidelnì.}
 {490}{}{Eh, ty jseš tu nová?}
 {491}{}{Semeno? U jsem si zvykla.}
-
-# 20. [NO REP]
 {500}{}{Ne, díky. To si to snad radši udìlám sama... rtìnkou.}
 {501}{}{Ty? Promiò, ale tak zoufalá NIKDY nebudu.}
 {502}{}{Nevím, kde jsou Bratøi... zkus to v jejich kanceláøi.}
@@ -245,8 +204,7 @@
 {518}{}{Nìkterı herci by se mìli povinnì sprchovat. Pravidelnì.}
 {519}{}{Eh, ty jseš tu nová?}
 {520}{}{Semeno? U jsem si zvykla.}
-
-{1200}{}{. To je ten, co nakopal Enklávì prdel!}
+{1200}{}{. To je ta, co nakopala Enklávì prdel!}
 {1204}{}{! Takhle se nakopává Enklávì prdel!}
 {1207}{}{. To je ta, co nakopala Enklávì prdel!}
 {1235}{}{?}

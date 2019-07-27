@@ -1,9 +1,6 @@
-# 0. LOOK
 {150}{}{Vidíš špinavého mechanika.}
 {151}{}{Vidíš jednoho z mechanikù.}
 {152}{}{Vidíš odpudivého mechanika. Kvùli vrstvì oleje a špíny se jeho oblièej skoro nedá rozeznat.}
-
-# 1. FLOAT OR CLICK DIALOGUES [POWER ARMOR] (WTG)
 {200}{}{A do prdele. *Polk* Podívejte se, kdo pøišel.}
 {201}{}{No jestlipak to není pan Zkurvená Plechovka.}
 {202}{}{Je tam nìkdo?}
@@ -13,11 +10,8 @@
 {206}{}{To je nìjakej novej druh auta?}
 {207}{}{Nechceme žádný problémy.}
 {208}{}{Jestli hledáš T-Raye, tak je vzadu.}
-
-# 2. FLOAT/CLICK TEXT [PORN STAR/CHR > 5, FEMALE] (WTG)
 {220}{}{Nazdárek, krásná dámo. To byl ale zatracenì dobrej výkon.}
 {221}{}{Páni. Nemíváme moc návštìvníkù. Co pro vás mùžeme udìlat, sleèno }
-{5221}{}{?}
 {222}{}{Jak to dìláš, že si dokážeš dát nohy za hlavu?}
 {223}{}{Jsou ty kozy pravý? Mùžu se pøesvìdèit?}
 {224}{}{Nevadilo by ti, kdyby ses mi podívala na podvozek?}
@@ -26,38 +20,31 @@
 {227}{}{Já vìdìl, že jsem se mìl osprchovat...}
 {228}{}{Mùžu ti zkontrolovat mazání? Hehe.}
 {229}{}{Chceš vidìt mýho ochoèenýho ptáèka?}
-{230}{}{::Hvízd::}
+{230}{}{::Píská::}
 {231}{}{Zatracenì. To jsou moc pìkný køivky.}
 {232}{}{Nazdárek, krásná dámo.}
 {233}{}{Páni. Nemíváme moc návštìvníkù. Co pro vás mùžeme udìlat, sleèno?}
 {234}{}{Hledáš nìjaký vášnivý milování? T-Ray je vzadu, takže tam ani nechoï.}
-
-# 3. FLOAT/CLICK DIALOGUES [PRIZEFIGHTER] (WTG)
-{245}{}{Vidìl jsem tì zápasit v ringu. Máš fakt dobrej pravej hák.}
+{245}{}{Vidìl jsem tì zápasit v ringu. Máš fakt skvìlej pravej hák.}
 {246}{}{Doufám, že další zápas vyhraješ. Vsadil jsem si na tebe $30.}
 {247}{}{Na šampióna moc drsnì nevypadáš.}
-{248}{}{Kolik zvedneš na benèi?}
+{248}{}{Kolik dáš na benèi?}
 {249}{}{Kde posiluješ?}
-{250}{}{Dej si bacha na Ždímaèku. Chutnaj mu uši.}
+{250}{}{Bacha na Ždímaèku. Chutnají mu uši.}
 {251}{}{Nechceš pivo? Vìtšinou si je šetøíme na pracovní dobu, ale pro tebe...}
 {252}{}{T-Ray øíkal, že nejseš zas tak drsnej. Dám ti 5 babek, když mu jednu vrazíš.}
 {253}{}{T-Ray øíkal, že máš hubu ze skla. Jestli s ním chceš mluvit, je vzadu.}
 {254}{}{Ždímaèka je pìknej posera. Eh, neøíkej mu, že jsem to øíkal.}
-
-# 4. FLOAT/CLICK DIALOGUES [MADE MAN] (WTG)
 {265}{}{Doufám, že je všechno v poøádku, madam.}
 {266}{}{Nechtìli jsme se vás dotknout, madam.}
 {267}{}{A do prdele. *Polk* Podívejte se, kdo pøišel.}
 {268}{}{Co pro tebe mùžeme udìlat, }
-{5268}{}{?}
 {269}{}{Mùžem ti nìco donýst? Pivo? Vodu? Cukroví?}
 {270}{}{Jestli je nìco špatnì, mùže za to T-Ray. Promluv si s ním.}
 {271}{}{Pozdravuj od nás svýho šéfa.}
 {272}{}{Jestli hledáš T-Raye, tak je vzadu.}
 {273}{}{Doufám, že je všechno v poøádku, pane.}
 {274}{}{Nechtìli jsme se vás dotknout, pane.}
-
-# 5. FLOAT OR CLICK DIALOGUES [CAR RECOVERED] (WTG)
 {300}{}{Omlouváme se za to nedorozumìní s Higwaymanem.}
 {301}{}{Nevìdìli jsme, že je ten Highwayman tvùj.}
 {302}{}{Jó, Highwayman není špatná kára, ale já bych radši Omni.}
@@ -71,18 +58,18 @@
 {310}{}{T-Ray chrápal s mojí sestrou. A matkou. A psem.}
 {311}{}{T-Ray je nadrženìjší než býk na tvrdolínu.}
 {312}{}{T-Ray je vzadu. Telefonuje.}
-{313}{}{Motor je poøád dobrej.}
+{313}{}{Motor fachá poøád dobøe.}
 {314}{}{Vevnitø to smrdí, jako by se tam nìkdo vysral.}
 {315}{}{Interiér smrdí jako geckon.}
 {316}{}{Slušná kára, ale já bych radši Omni.}
-{317}{}{Highwayman má plnì analogovej systém, pøes 800 koòskejch sil a z nuly na sto dá pod jednu sekundu.}
-{318}{}{Rychlej? Highwayman se rozjede z nuly na sto pod jednu sekundu.}
-{319}{}{Highwayman má pøes 800 koòskejch sil.}
+{317}{}{Highwayman má plnì analogovej systém, pøes 800 koní a dá stovku pod sekundu.}
+{318}{}{Rychlej? Highwayman dá stovku pod sekundu.}
+{319}{}{Highwayman má fakt sílu: pøes 800 koní.}
 {320}{}{Máš tu nìco na práci?}
 {321}{}{Fakt lituju toho idiota, kterej nechal tohohle Higwaymana jen tak ležet.}
 {322}{}{Highwayman má plnì analogovej systém, žádný poèítaèe a žádný moderní vymoženosti.}
-
-# 6. FLOAT DIALOGUES [WARNING] (WTG)
 {330}{}{Ruce pryè, nebo tvý ruce budou pryè. Rozumíš?}
 {331}{}{Vypadni SAKRA od toho auta.}
 {332}{}{Tvùj život nemá vìtší cenu než to auto. Dotkni se ho ještì jednou a dokážu ti to.}
+{5221}{}{?}
+{5268}{}{?}

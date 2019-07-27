@@ -100,7 +100,7 @@
 {810}{}{How dare you threaten Shadow Who Walks. Leave now.}
 {811}{}{[Walk Away]}
 {812}{}{[Attack]}
-{850}{}{Who goes there?}
+{850}{}{Quem vem lá?}
 {851}{}{Shhh... I'm huntin' wabbits.}
 {852}{}{HeeeeHeee! Hehe... He... You have nice paintings like a picture... Heeee!}
 {900}{}{Shadow Who Walks does not understand. What do you mean?}

@@ -26,7 +26,7 @@
 {240}{}{Look at me, I'm the metal insect! Bzzzzzz}
 {241}{}{Blam blam!}
 {242}{}{Look out, here comes the metal insect!}
-{243}{}{Take that!}
+{243}{}{Tome isso!}
 {244}{}{You're always the metal insect!}
 {245}{}{Bang bang!}
 {246}{}{I want to be the metal insect next game!}
@@ -41,23 +41,23 @@
 {255}{}{Aighhhhhhhh... I've been hit...}
 {270}{}{I miss Dogmeat from Fallout 1.}
 {271}{}{Think there's gonna be a Fallout 3? I wanna be the hero of that one!}
-{272}{}{Fallout 2 was brought to you by the letter Z.}
+{272}{}{Fallout 2 foi trazido para você pela letra Z.}
 {273}{}{The Enclave can kiss my seven year old ass. What jerks.}
 {274}{}{The Enclave were real jerk-faces, huh? Sheesh.}
 {275}{}{Were you scared when you met the President? Did he have big fangs and claws?}
 {276}{}{I wish I coulda helped you destroy the Enclave. I... wouldn't have been scared. Uh-uh.}
-{277}{}{Hey! }
+{277}{}{Ei! }
 {278}{}{}
-{279}{}{Thanks fer savin us, }
+{279}{}{Obrigado por nos salvar.}
 {280}{}{I wanna save th' world just like you when I grow up.}
-{281}{}{Can I be a hero like you when I grow up?}
-{282}{}{I wanna be }
+{281}{}{Eu posso ser um herói que nem você quando eu crescer?}
+{282}{}{Eu quero ser}
 {300}{}{Aighhhh! It's one of the metal people! Run!}
 {301}{}{It's one of th' metal people! They found us! Run!}
 {302}{}{We're sorry! We're sorry! Don't sic yer metal insect on us! Please!}
-{310}{}{You better run 'fore my Daddy sees you.}
-{311}{}{You better run 'fore my brothers see you.}
-{312}{}{Yer a bad person. You better leave 'fore I tell on you.}
+{310}{}{Melhor você fugir antes que o meu papai te veja.}
+{311}{}{Melhor você fugir antes que os meus irmãos te vejam.}
+{312}{}{Você é uma pessoa má. Melhor sair daqui antes que eu conte sobre você.}
 {320}{}{(The child stops *bzzzzzing* around and lifts up the pot to look at you.)}
 {321}{}{Can }
 {322}{}{Sorree. I thought you were a pot Byeeee}
@@ -74,15 +74,15 @@
 {340}{}{(The little man lets the pot fall down over his head, and resumes *bzzzzing* around.)}
 {341}{}{Run around with him for a while making *bzzzzing* noises.}
 {342}{}{Desliga}
-{343}{}{(Leave.)}
+{343}{}{(Vai embora.)}
 {350}{}{INSECT, stoo-pid! We SAW one when we were out in the desert! It was as big... (Takes a deep breath.) ...as big as a HOUSE!
  N'it had metal PEOPLE in it.}
-{351}{}{Nuh-uh}
+{351}{}{hã-hã}
 {352}{}{Don't call me stoopid}
 {353}{}{Don't shout. }
 {354}{}{You lie to }
 {355}{}{ has killed a lot of little loud people like you... maybe you next?}
-{356}{}{[Wander off.]}
+{356}{}{Sair andando}
 {360}{}{UH-HUH. We saw it.}
 {362}{}{Uh-uh-uh-uh}
 {363}{}{Huh-huh-huh-huh}
@@ -204,10 +204,10 @@
 {721}{}{Where did my gun go?}
 {722}{}{I know you gave me a gun, what did I do with it?}
 {723}{}{Did one of you jerks take my gun this lady gave to me?}
-{5277}{}{! Tell us the Enclave story! Pleeeease?}
-{5278}{}{! Yaaaaay!}
+{5277}{}{! Conta pra gente a história da Enclave! Por favoooor?}
+{5278}{}{! Eeeeeee!}
 {5279}{}{!}
-{5282}{}{ when I grow up.}
+{5282}{}{ quando eu crescer.}
 {5321}{}{ play tooo?}
 {5334}{}{ wanna be incest!}
 {5353}{}{ no like shout.}

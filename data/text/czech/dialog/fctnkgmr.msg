@@ -1,4 +1,4 @@
-{100}{}{Vidíš obchodníka.}
+{100}{}{Vidíš kupce.}
 {101}{}{Vidíš Cala, obchodníka se zbranìmi.}
 {102}{}{Vidíš znudìného, ale pøátelsky vypadajícího muže.}
 {103}{}{Dobrý den, pane. Mùžu ti nìjak pomoct?}

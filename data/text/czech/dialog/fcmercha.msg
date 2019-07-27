@@ -1,5 +1,5 @@
-{100}{}{Vidíš obchodníka.}
-{101}{}{Vidíš obchodníka.}
+{100}{}{Vidíš kupce.}
+{101}{}{Vidíš kupce.}
 {102}{}{Vidíš èilého obchodníka ze Shi. Vypadá to, že se má k svìtu stejnì jako všichni ostatní.}
 {103}{}{Pojï koupit chobotnice! Velmi dobrá!}
 {104}{}{Ty rád ryba? My mít ryba!}

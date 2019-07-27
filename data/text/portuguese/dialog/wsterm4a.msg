@@ -1,6 +1,6 @@
-{100}{}{A computer terminal.}
+{100}{}{Um terminal de computador.}
 {101}{}{Looks to be a security terminal.}
-{102}{}{You are unable to read what's on the monitor.}
+{102}{}{Você é incapaz de ler o que está no monitor.}
 {103}{}{Skynet Security Systems
                                              Access Denied}
 {104}{}{}
@@ -11,5 +11,5 @@
 {107}{}{}
 {108}{}{}
 {109}{}{Sair}
-{200}{}{ is unable to read what's on the monitor.}
-{300}{}{The computer seems to have some sort of defense mechanism.}
+{200}{}{ é incapaz de ler o que está no monitor.}
+{300}{}{O computador parece ter um mecanismo de defesa.}

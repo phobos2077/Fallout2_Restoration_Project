@@ -6,7 +6,7 @@
 {105}{}{Co být tohle za místo?}
 {106}{}{Hledat Navarro. To být tady?}
 {107}{}{Vidìt ty letìt tady ocelové ptáky?}
-{108}{}{Znát jméno Enkláva? Být oni tady?}
+{108}{}{Znát jméno Enkláva? Být oni zde?}
 {109}{}{Jen se dívat.}
 {110}{}{Co je tohle za místo?}
 {111}{}{Hledám Navarro. Jsem tu dobøe?}
@@ -33,12 +33,12 @@
 {132}{}{Ty lhát. Nemám trpìlivost. Øíct mi pravdu nebo já s ty zatoèit!}
 {133}{}{Lžeš. Na tohle nemám trpìlivost. Øekni mi pravdu, nebo s tebou zatoèím.}
 {134}{}{Jdi do prdele! (Vytáhne z roucha vysílaèku.) Chceš vidìt, kdo s kým zatoèí? Mám tu pár chlapù, kteøí ti ukážou novej význam tohohle slova! (Chystá se vysílaèku zapnout.)}
-{135}{}{Já zabít ty mrtvý!}
+{135}{}{Já ty zabít!}
 {136}{}{Co ty dìlat?}
-{137}{}{Já jít pryè.}
-{138}{}{To byl špatnej tah, brácho.}
+{137}{}{Já jít.}
+{138}{}{To byl špatnej tah, kámo.}
 {139}{}{Co si myslíš, že dìláš?}
-{140}{}{Poslyš, já odsud radìji v klidu vypadnu.}
+{140}{}{Poslyš, už jdu.}
 {141}{}{(Mluví do vysílaèky.) Poplach! Na stanici máme vetøelce! Poplach!}
 {142}{}{[KONEC]}
 {143}{}{No, hezky jsme si popovídali. Dám ti jednu radu. Tady není nic než pustina a radiace. Civilizace je jižnì odtud. Být tebou, zamíøím tím smìrem.}
@@ -81,7 +81,7 @@
 {180}{}{Pak ty øíct nejlepší cesta na základna... hned!}
 {181}{}{Pak mi tedy øekni tu nejlepší cestu na základnu... a to hned!}
 {182}{}{To bude nejspíš padacími dveømi v mém pokoji. A teï už jdi a nech mì na pokoji.}
-{183}{}{Dobøe, už jít.}
+{183}{}{Dobøe, já jít.}
 {184}{}{Dobøe, už jdu.}
 {185}{}{No, èas od èasu tudy prolétávají. Obvykle letí od jihu smìrem od San Francisca. Jestli se zajímáš o vertibirdy, šel bych tímto smìrem.}
 {186}{}{Dobøe, zkusit to tam.}
@@ -99,7 +99,7 @@
 {198}{}{Myslím to vážnì. Chci se pøidat k Enklávì.}
 {199}{}{Poèkej chvíli, blbeèku. Snažíš se mi øíct, že jsi jeden z tìch vojákù, kteøí sem byli pøeloženi?}
 {200}{}{Poèkej chvíli. Snažíš se mi øíct, že jsi jeden z tìch vojákù, kteøí sem byli pøeloženi?}
-{201}{}{Eh... jo.}
+{201}{}{Hmm... jo tak.}
 {202}{}{Pøesnì tak.}
 {203}{}{Sákryš. Promiò mi to lhaní. Chodí nám sem spousta nováèkù a mým úkolem je oddìlit zrno od plev. Jdi nahoru k bránì, projdi skrz stromy a øekni jim heslo. Je to 'Ovèí hlava.' Jo a neuhýbej z té cesty!}
 {204}{}{Díky!}
@@ -129,9 +129,8 @@
 {228}{}{To byl špatnej tah, kámo.}
 {229}{}{Co si myslíš, že dìláš?}
 {230}{}{Poslyš, už jdu.}
-{231}{}{Jo, jasnì.}
+{231}{}{Jo, dobøe.}
 {232}{}{Vytáhl vysílaèku a chystá se varovat celou základnu! Musím to s ním rychle vyøídit.}
 {233}{}{Sakra. Chlap vytáhnout mluvící krabièka. On mì prozradit. Muset on zastavit.}
-
 {800}{}{Podaøilo se ti pøelstít Chrise, aby ti øekl heslo.}
 {810}{}{Podaøilo se ti zabít Chrise pøedtím, než stihl varovat základnu.}

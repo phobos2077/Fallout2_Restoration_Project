@@ -1,5 +1,5 @@
 {100}{}{Vidíš špinavého, nemocnì vypadajícího èlovìka.}
-{101}{}{Vidíš squattera.}
+{101}{}{Vidíš bezdomovce.}
 {102}{}{Vidíš špinavého, nemocnì vypadajícího èlovìka.}
 {103}{}{Tohle je jeden z nejlepších bejvákù za poslední roky!}
 {104}{}{Ááá... moøskej vzduch!}

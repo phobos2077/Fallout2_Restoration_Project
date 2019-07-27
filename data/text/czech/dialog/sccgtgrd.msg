@@ -11,6 +11,5 @@
 {110}{}{Jsem ve službì. Nemám èas na konverzování.}
 {111}{}{Pìkný boty.}
 {112}{}{Jdi si po svých.}
-
-{113}{}{Tady to máte, pane. Hezký den.}
+{113}{}{There you are, sir. Have a good day.}
 {114}{}{Stala se nehoda. Jdi si po svých.}

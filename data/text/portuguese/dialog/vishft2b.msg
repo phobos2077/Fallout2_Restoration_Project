@@ -1,17 +1,17 @@
-{100}{}{An air vent, supplying processed, clean air to the entire vault complex. You can hear a faint
- rattle from inside the vent.}
-{101}{}{You see a vent. }
-{102}{}{An air vent, supplying processed, clean air to the entire vault complex. You can hear a faint
- rattle from inside the vent.}
-{103}{}{An air vent, supplying processed, clean air to the entire vault complex.}
-{104}{}{You see a vent. }
-{105}{}{An air vent, supplying processed, clean air to the entire vault complex.}
-{106}{}{::Rattle::}
-{107}{}{There doesn't seem to be anything wrong with this vent that you can tell.}
-{108}{}{You open the vent and look for the source of the rattling. You spot something lodged inside and
- pull it out.}
-{109}{}{Looks like somebody hid this in the vent.}
-{110}{}{You open the vent and look for the source of the blockage. You spot something lodged inside and
- pull it out.}
-{111}{}{Looks like somebody hid this in the vent.}
-{112}{}{Me findie this in vent.}
+{100}{}{Um sistema de processamento de ar, ar limpo para todo o complexo do vault. Você consegue ouvir um
+ leve barulho de chocalho vindo de dentro.}
+{101}{}{Você vê um duto de ar. }
+{102}{}{Um sistema de processamento de ar, ar limpo para todo o complexo do vault. Você consegue ouvir um
+ leve barulho de chocalho vindo de dentro.}
+{103}{}{Um sistema de processamento de ar, ar limpo para todo o complexo do vault.}
+{104}{}{Você vê um duto de ar. }
+{105}{}{Um sistema de processamento de ar, ar limpo para todo o complexo do vault.}
+{106}{}{::Barulho::}
+{107}{}{Você não consegue dizer se há algo de errado com esse duto de ar.}
+{108}{}{Você abre o duto e procura a fonte de barulho. Você vê algo alojado lá dentro e
+ puxa para fora.}
+{109}{}{Parece que alguém escondeu isso no duto de ar.}
+{110}{}{Você abre o duto e procura o que está o bloqueando. Você vê algo alojado lá dentro e
+ puxa para fora.}
+{111}{}{Parece que alguém escondeu isso no duto de ar.}
+{112}{}{Mim achar isso no duto.}

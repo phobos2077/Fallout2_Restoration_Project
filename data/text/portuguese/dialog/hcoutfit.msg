@@ -17,7 +17,7 @@
 {115}{}{You want a job? Well, we got two choices: Shoveling brahmin dung for a day for $100, or you can
  escort one of our caravans for $200. We got caravans to Gecko, the New California Republic, and Vault
  City.}
-{116}{}{Okay!}
+{116}{}{Certo!}
 {117}{}{Naw.}
 {118}{}{I'll shovel the crap for a while.}
 {119}{}{I'll do the caravan to Gecko.}
@@ -37,7 +37,7 @@
 {131}{}{Thanks. Bye!}
 {132}{}{All right. Get started.}
 {133}{}{Not interested? All right. Come back when I can do something for you.}
-{134}{}{Okay!}
+{134}{}{Certo!}
 {135}{}{Well, actually, I was interested in something else.}
 {136}{}{Adeus.}
 {137}{}{All right. Gecko it is. Come back on the 1st of the month and you'll be on your way. Want anything else?}
@@ -127,7 +127,7 @@
 {208}{}{Not quite yet. I'll let you know when I'm ready. Thanks.}
 {209}{}{Not yet. I'll let you know when I'm ready. I have some more questions.}
 {210}{}{Obrigado.}
-{211}{}{[continue]}
+{211}{}{[continuar]}
 {212}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to. I'm gonna miss
  that poor bastard. Dyin' out in the wastes like some wounded brahmin.}
 {213}{}{Sorry. Bye.}

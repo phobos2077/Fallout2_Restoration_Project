@@ -8,10 +8,10 @@
 {107}{}{Dobrá. Už jdu.}
 {108}{}{Dobøe. Dej mi ještì chvíli.}
 {109}{}{Musím ještì nìco udìlat. Pùjdu, až to dokonèím.}
-{110}{}{Umag Nak!?! Umag NAK!}
+{110}{}{Bubu baba!?! BUBU BABA!}
 {111}{}{Poèkej, zavolám stráže, aby tì vyprovodili ven.}
 {112}{}{Dobrá. Tak jdeme.}
-{113}{}{Brog Frup}
+{113}{}{Bongo Dongo.}
 {114}{}{Není tøeba. Pùjdu i bez nich.}
 {115}{}{Promiò, ale takové jsou moje rozkazy.}
 {116}{}{Dobøe... ale radost z toho nemám. Možná si budu stìžovat na vyšších místech...}
@@ -25,11 +25,11 @@
 {124}{}{Momentálnì ne.}
 {125}{}{Je mi líto, ale pouze Obèané mùžou vstoupit do Vaultu. Doufám, že to chápeš.}
 {126}{}{Vstoupit mùžou pouze Obèané. Teï odejdi.}
-{127}{}{Dobrá.}
+{127}{}{Dobøe.}
 {128}{}{Umgh.}
 {129}{}{Jistì. Pokraèuj prosím.}
-{130}{}{Díky!}
-{131}{}{Dìkuju ti.}
+{130}{}{Dìkuju!}
+{131}{}{Díky.}
 {132}{}{Ano? Mùžu ti nìjak pomoct?}
 {133}{}{Chci vstoupit do Vaultu.}
 {134}{}{Nic, promiò, že ruším.}
@@ -43,33 +43,33 @@
 {142}{}{Jo, to je fuk, Mungoth. Øekni to mé ruce.}
 {143}{}{Hej ty! Co dìlá ten ghoul ve Vault City?!}
 {144}{}{Hej ty! Co dìlá ten mutant ve Vault City?!}
-{145}{}{Breep-oop foop foop}
+{145}{}{Eeech-èup kiki kiki.}
 {146}{}{Ghoul? Kde?}
 {147}{}{Mutant? Kde?}
-{148}{}{Je se mnou.}
-{149}{}{Cestuje se mnou. Pokud s tím má nìkdo z vás rasistù nìjaký problém, tak ho klidnì hned teï vyøešíme.}
+{148}{}{Je tu se mnou.}
+{149}{}{Cestuje se mnou. A jestli s tím má nìkdo z vás rasistù problém, tak ho mùžeme vyøešit hned teï.}
 {150}{}{Pokud je ta pøíšera s tebou, pak oba patøíte zpátky na Pøedmìstí, ne do ulic Vault City.}
-{151}{}{Dobøe, odejdeme bez potíží.}
-{152}{}{Mùžete se nás pokusit vyprovodit ven, ale zaruèuju vám, že to bude pouèný zážitek.}
+{151}{}{Tak dobøe, pùjdeme bez protestu.}
+{152}{}{Mùžeš nás odsud zkusit vyprovodit, ale zaruèuju ti, že to bude zatracenì tvrdá zkušenost.}
 {153}{}{Jak se ti venkovani dostali až sem...?}
 {154}{}{Támhleta pøíšera.}
 {155}{}{Oba patøíte zpátky na Pøedmìstí, ne do ulic Vault City.}
-{156}{}{JÁ S TEBOU NE KÁMOŠ! TY NE PØÍTEL!}
-{157}{}{My jít my jít po-tichù.}
-{158}{}{Dobøe, odejdeme bez potíží.}
-{159}{}{Cestuje se mnou. Pokud s tím má nìkdo z vás rasistù nìjaký problém, tak ho klidnì hned teï vyøešíme.}
+{156}{}{JÁ NECHTÍT BÝT TVÙJ KÁMOŠ! TY NE MÙJ KÁMOŠ!}
+{157}{}{My jít my jít potichùùù.}
+{158}{}{Tak dobøe, pùjdeme bez protestu.}
+{159}{}{Cestuje se mnou. A jestli s tím má nìkdo z vás rasistù problém, tak ho mùžeme vyøešit hned teï.}
 {160}{}{Stráže! Vetøelci ve mìstì!}
 {161}{}{Hrnghhhhhhhh!}
-{162}{}{Zemøeš ještì døív, než dorazí tví pøátelé.}
+{162}{}{Zemøeš døív, než se ti tvoji pøátelé vùbec objeví.}
 {163}{}{Hej! Ty jsi ten, co porazil Enklávu!}
 {164}{}{Podívejte, to je ten, co porazil Enklávu!}
 {165}{}{Vítej ve Vault City.}
-{166}{}{Tvoje bitva proti Enklávì udìlala dojem dokonce i na První Obèanku.}
+{166}{}{Vaše bitva proti enklávì zapùsobila i na První Obèanku.}
 {167}{}{Slyšel jsem, že tvoje cesty vedly až na jih do San Francisca. Je to pravda?}
-{168}{}{Je pravda, že byly U.S. poøád ve válce?}
+{168}{}{Je to pravda? Opravdu vláda starého svìta vedla poøád válku?}
 {169}{}{Bylo by dobré zaznamenat své cesty do hlavního poèítaèe Vault City.}
-{170}{}{Mùžeš ve Vault City zùstat tak dlouho, jak budeš chtít.}
-{171}{}{Bylo by dobré zaznamenat své èiny proti Enklávì a nahrát je na rozesílací server.}
+{170}{}{Mùžeš tu zùstat, jak dlouho chceš, hrdino.}
+{171}{}{Mìl bys sepsat seznam svých hrdinských èinù proti Enklávì a nahrát je na rozesílací server.}
 {172}{}{Kapitáne.}
 {173}{}{Vault City vždy zvítìzí, Kapitáne.}
 {174}{}{Zdravím, Kapitáne.}

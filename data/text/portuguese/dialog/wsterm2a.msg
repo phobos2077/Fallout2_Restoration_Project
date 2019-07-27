@@ -1,4 +1,4 @@
-{100}{}{A computer terminal.}
+{100}{}{Um terminal de computador.}
 {101}{}{The screen saver is active.}
 {103}{}{Skynet Security Systems
                                   Intruder Level 2
@@ -14,7 +14,7 @@
                                                  Activating Counter Measures Level 2}
 {106}{}{Terminate Alarm Level 2 - False Alarm}
 {107}{}{[You notice a button on the keyboard labeled help.] Push key.}
-{108}{}{Hack into security systems}
+{108}{}{"Hackear" o sistema de segurança}
 {109}{}{Attempt to turn off alarm.}
 {110}{}{Sair}
 {111}{}{Arg! [You slam you fist into the keyboard in frustration.]}

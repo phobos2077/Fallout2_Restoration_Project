@@ -1,5 +1,5 @@
 {100}{}{Vidíš dítì.}
-{101}{}{Vidíš dìcko.}
+{101}{}{Vidíš dítì.}
 {102}{}{Toto dítì vypadá stejnì jako ostatní dìti.}
 {103}{}{Vypadáš pìknì zle.}
 {104}{}{Neubližuj mi, jo?}
@@ -32,4 +32,3 @@
 {131}{}{Neubližuj mi!}
 {132}{}{::pláèe::}
 {133}{}{Pomoc, maaamiiii!}
-

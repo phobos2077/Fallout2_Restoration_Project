@@ -1,7 +1,6 @@
 {100}{}{Vidíš vùdce Svìtloplachù.}
 {101}{}{Vidíš Vegeira.}
 {102}{}{Vysokı, statnı mu. Jeho pohyby ti pøipomínají koèku èíhající na svou koøist.}
-
 {150}{}{Mùeš odejít padacími dveømi v zadní èásti budovy.}
 {151}{}{Prosím, doruè tu zprávu do Modocu.}
 {152}{}{Modoc leí na jihu.}
@@ -21,7 +20,7 @@
 {167}{}{Mohl by se Jonny vrátit domù k rodièùm?}
 {168}{}{Omlouvám se za nepøíjemné okolnosti, za kterıch se potkáváme. Obvykle by se tì snaili Ochránci zastrašit. Chøestìní øetìzù a zoufalı náøek vìtšinou kadého zaene pryè, ale teï mají pøíkazy, aby ke mnì pøivedli kadého ze shora, na koho narazí.}
 {169}{}{To je v poøádku. Já u pùjdu.}
-{170}{}{Co ode mì chcete?}
+{170}{}{Co ode mnì chcete?}
 {171}{}{Duchové?}
 {172}{}{Pùjdeš, A ti to dovolím. Døív NE.}
 {173}{}{Jednoduchı úkol. Potøebujeme se spojit s mìstem na jihozápadì. Domnívám se, e se jmenuje "Modoc". Udìláš to pro nás?}
@@ -37,7 +36,7 @@
 {191}{}{Proè ta velká maškaráda s duchy na povrchu?}
 {192}{}{Co je úèelem té zprávy?}
 {194}{}{Od Uzavøení jsme se jako lidé zmìnili. Jen málo z nás dokáe snést pobyt na povrchu, protoe nejsme zvyklí mít nad sebou èerné moøe nicoty. Hrùza z pádu vzhùru je pro nás tak silná, e leíme úplnì pøimraení k zemi, neschopni pohybu. Ale to není ten hlavní dùvod. Nikdo z nás nedokáe vydret to jasné svìtlo, které vy nazıváte Slunce. Díky dlouhodobému ivotu pod zemí jsou naše oèi pøíliš citlivé na svìtlo. Nemùeme cestovat daleko od bezpeèí našich domovù pod zemí.}
-{195}{}{Mùu se ještì na nìco zeptat?}
+{195}{}{Mùu mít ještì pár otázek?}
 {197}{}{Kdysi dávno jsme byli jako lidé na povrchu. Také jsme ili nad zemí, dokud poár nezachvátil svìt. Naši pøedci, je byli souèástí tajné domobrany, se uzavøeli se svımi rodinami tady dole, aby se zachránili. Celé generace jsme ili zde, bezpeènì ukryti v lùnì Matky Zemì.}
 {200}{}{Poèet našich obyvatel od Uzavøení stále stoupal. Brzy bylo jasné, e nemùeme dále pøeít bez dalších zásob. Tak byla Peèe rozlomena a my jsme se znovu vydali na povrch, abychom pøeili.}
 {203}{}{Pøed lety se nìkdo pokoušel pøevzít naši farmu, sklízet plodiny a krást naše zvíøata. My nejsme od pøírody násilníci, ale bylo nutné s tím nìco udìlat. Vdy na tìchto sklizních záleelo naše pøeití. A tehdy jsme si vymysleli duchy. Po natøení se svìtélkujícími houbami jsme mohli krásnì odstrašit zlodìje a další slídivé sousedy. Bohuel to bylo a pøíliš úèinné. V poslední dobì jsme se snaili kontaktovat lidi ijící na povrchu, ale nikdo u na farmu nechodí kvùli strachu z duchù. Naštìstí jsi tu teï ty.}
@@ -62,10 +61,8 @@
 {231}{}{Vidím, e ses setkal s Jonnym. Nalezli jsme ho, kdy bloudil v temnotách jednoho z našich nejhlubších tunelù. Øíkal, e spadl do vyschlé studny u svého domova a pak byl uvìznìnı v tunelu poblí zavaliny. Starali jsme se o nìj jako o vlastního a všichni ho tady mají rádi, take chápeš, e jsem opatrnı, kdy ho mám svìøit cizinci, kterı mi ještì neprokázal svoji dùvìryhodnost. Vrátím Jonnyho, a se ujistím, e se bezpeènì dostane domù.}
 {232}{}{Mám v tobì ji plnou dùvìru. Pøestoe zde budeme malého Jonnyho velmi postrádat, pøipravili jsme pro vás dva doprovod do Modocu.}
 {233}{}{Propána! ádnı div, e tì naše malé triky nevydìsily. Jsi pøíliš hloupı na to, ne aby tì nìco takového vydìsilo. Nerad se spoléhám na takto mentálnì zaostalé jedince, ale potøebujeme tvoje sluby. Doruè tuto zprávu do Modocu. Pøedej ji vùdci Modocu a zkus se pøi tom neztratit.}
-
 {300}{}{U pùjdu.}
 {301}{}{Co ode mnì chcete?}
 {302}{}{Nashle.}
 {303}{}{Duchové?}
-
 {400}{}{Zpráva byla pøijata kladnì. Obyvatelé Modocu chtìjí obchodovat s tvımi lidmi.}

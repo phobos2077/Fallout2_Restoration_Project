@@ -12,7 +12,7 @@
 {111}{}{Kdo je otec páraèù?}
 {112}{}{Co se stalo s dveømi? Vypadá to, že už nìco zažily.}
 {113}{}{Kdo postavil tuhle líheò?}
-{114}{}{Už pùjdu.}
+{114}{}{Právì jsem na odchodu.}
 {115}{}{Ano. Jsem souèasná matka smeèky. Jakmile moje vajíèka dozrají, dostanou šanci i ostatní matky.}
 {116}{}{Dobøe.}
 {117}{}{Další matky?}
@@ -38,12 +38,12 @@
 {137}{}{Dobøe.}
 {138}{}{Dali jsme tam stráž až po tomto incidentu. Pøedtím jsme byli dùvìøivìjší, ale teï už jsme opatrnìjší.}
 {139}{}{Co stát s èlovìk?}
-{140}{}{Já to chápat.}
+{140}{}{Já rozumìt.}
 {141}{}{Co se stalo tomu èlovìku, který to udìlal?}
 {142}{}{Aha.}
 {143}{}{Jeskynní èást jsme postavili my a dveøe postavil náš lidský pøítel. Mìl souèástky z usedlosti severovýchodnì odsud.}
-{144}{}{To pìkný.}
-{145}{}{To je pìkné.}
+{144}{}{To hezký.}
+{145}{}{To je milé.}
 {146}{}{Zdravím. Ráda tì vidím. S èím ti mùžu pomoct?}
 {147}{}{Já jen øíct ahoj. Já teï jít.}
 {148}{}{Chtìl jsem tì jen pozdravit.}

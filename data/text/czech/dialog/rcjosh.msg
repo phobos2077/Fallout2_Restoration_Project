@@ -7,7 +7,7 @@
 {106}{}{Vypadni odsud, idiote!}
 {107}{}{Vypadni! Ještì mi umažeš podlahu!}
 {108}{}{Zdravím, pøíteli. Jmenuju se Josh Laurance. Patøí mi to tu.}
-{109}{}{Co pro tebe mùžu udìlat?}
+{109}{}{Co pro tebe mohu udìlat?}
 {110}{}{Co je tohle za místo?}
 {111}{}{Dám si nìco k pití.}
 {112}{}{Jednu rundu pro každého!}
@@ -26,7 +26,7 @@
 {125}{}{Jak mám zaøídit pohøeb?}
 {126}{}{Radìji se budu držet dál od tvého prašivého chlastu.}
 {127}{}{Zajisté. Bude to $5.}
-{128}{}{Tady máš peníze.}
+{128}{}{Tady jsou peníze.}
 {129}{}{Myslím, že to pivo vlastnì teï nechci. Chci se ještì na nìco zeptat.}
 {130}{}{To je od tebe velmi štìdré. Dokud jsou všichni živí, dostanou pití. Hele, netušil jsem, že jsem básník. Bude to $50.}
 {131}{}{Au. Slovní hrátky se smrtí nejsou moc dobrý nápad, Joshi. Ber to jako pøátelské varování. Tady máš peníze.}

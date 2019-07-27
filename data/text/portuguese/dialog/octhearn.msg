@@ -9,7 +9,7 @@
 {107}{}{How smart you?}
 {108}{}{Eu vou agora.}
 {109}{}{Quem é você?}
-{110}{}{What are you doing here?}
+{110}{}{O que faz aqui?}
 {111}{}{No offense, but just how smart are you?}
 {112}{}{Well, just passing the time.}
 {113}{}{I Thearn. Who you?}

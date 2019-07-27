@@ -1,108 +1,77 @@
-{100}{}{You see a sickly man dressed in very dirty robes.}
-{101}{}{You see Aldo, the Town Greeter. You think you can see his breath from here.}
-{200}{}{Hello there, I haven't seen you in Klamath before. I'm Aldo, the town greeter. (hic)
- It's my job to greet anyone new in town and to answer any questions they might have about
- our bucolic little burg. Welcome to Klamath. (hic) Who might you be?}
-{201}{}{Uhh, thanks for the greeting. I'm just a traveler.}
+{100}{}{Você vê um homem de aspecto doentio vestindo roupas imundas.}
+{101}{}{Você vê Aldo, o anfitrião oficial da cidade. Você consegue sentir o cheiro do hálito dele de longe.}
+{200}{}{Olá! Nunca te vi aqui em Klamath antes. Sou Aldo, o anfitrião oficial da cidade (soluça). Meu trabalho é receber os visitantes e responder qualquer pergunta que eles possam ter sobre a nossa bucólica cidadezinha. Seja bem-vindo a Klamath. (soluça) Você seria...?}
+{201}{}{Ah, valeu pelas boas-vindas. Sou só um viajante.}
 {202}{}{Meu nome é}
-{203}{}{. Thanks for welcoming me here.}
-{204}{}{ of Arroyo. I'm the Chosen One.}
-{205}{}{You don't need to know my name or anything else about me. Go away, you filthy drunkard.}
-{206}{}{I don't think a town like Klamath would have a drunk like you as a greeter, or anything else.}
-{300}{}{The Chosen One. Oh mighty }
-{301}{}{, you must be very important and powerful among your people. Surely one of your great (hic)
- stature would be happy to follow our custom of tipping the town greeter. (urp)}
-{302}{}{Here's a tip for you - stay away from the booze for a while.}
-{303}{}{A tip, huh? Well I guess it's worth $5 to get you off my back.}
-{304}{}{Well, I wouldn't want to go against custom. Is $5 enough? }
-{305}{}{You should give me a tip, just so I won't take the time to rid Klamath of your filthy hide.}
-{306}{}{Sorry, the Chosen One has little use for money -- I have none to give you.}
-{350}{}{Well, friend }
-{351}{}{, since you're new to these (hic) parts, and look as though you could use (urp) some pointers,
- I'll let you know that it's customary to tip the town greeter before asking any questions and such.}
-{355}{}{Sorry, I can't spare any money for you.}
-{400}{}{Well stranger, since you're (hic) new to these parts, you probably don't (urp) know that it's
- (hic) customary to tip the town greeter before asking any questions and such.}
-{450}{}{Thanks for the money, friend. (urp) I'm going to use it to get some (hic) medicine for my dry
- throat. Consider yourself officially (hic) greeted to the town of Klamath. Do you have any questions
- about our fair (urp) metropolis?}
-{451}{}{No thanks, I think I can figure things out here on my own.}
-{452}{}{Well, actually, I was curious about a thing or two.}
-{453}{}{Aldo, I'm looking for a trader that sells beforetime things. You know, really old stuff.}
-{500}{}{Ask away, oh benefactor of mine.}
-{501}{}{What do folks do here in Klamath?}
-{502}{}{Where can I trade things or find healing?}
-{503}{}{Tell me about geckos.}
-{504}{}{Where do you buy your booze?}
-{505}{}{Thanks, I think that's all I need to know for now.}
-{506}{}{Do you know where I might find a GECK?}
-{550}{}{Thanks for nothing. I hope you don't stay in town too long. We don't need your kind here.
- Humph. Tribals -- they're all the same.}
-{600}{}{Here in Klamath some people farm, some raise brahmin, but trapping geckos is what most of the
- people do.}
-{601}{}{What's a gecko?}
-{602}{}{Oh, thanks. I guess that's all I need to know.}
-{603}{}{That's interesting. I have another question, though.}
-{650}{}{A gecko is a large lizard that's hunted by the trappers round these parts for its meat and
- hide. But, it sure is a lot of work to catch them dang critters - and dangerous too. My advice to a
- friend... avoid it. It's far too much work.}
-{651}{}{Oh, thanks. I guess that's all I need to know.}
-{652}{}{Hmm. One more thing, Aldo.}
-{700}{}{You can buy or trade things at Buckner House and also the Golden Gecko. Sometimes they even
- have healing herbs available -- not that they'd give me any for my (hic) condition. They're both run
- by real skinflints. Just get a little behind on your (hic) tab and out you go, into the cold and rain.}
-{701}{}{Thanks for the information, that's all I need for now.}
-{702}{}{I've always found the fresh air invigorating. Hmm, I have another question for you.}
-{750}{}{I know that you couldn't spare any money for the official town greeter earlier, but perhaps
- (hic) this time you are feeling more generous and are ready to be greeted 'officially' to Klamath.}
-{751}{}{I guess I could spare $5 to keep you off my back.}
-{752}{}{I felt that something was missing. Here's $5; I'm ready to be Greeted.}
-{753}{}{No, thanks, I don't think I need your official greeting.}
-{754}{}{I think I'd rather have your insides greet my blade.}
-{800}{}{Hey there, friend, good to see you again. Can you spare some money for a bit of medicine? My
- throat is getting dryer and scratchier (hic) all the time. I could even throw in another official
- (urp) greeting.}
-{801}{}{Sure, I can always spare $5 for a friend's medicine.}
-{802}{}{Sorry, Aldo I can't spare any right now.}
-{803}{}{I think you've had enough medicine. You should sweat that poison out of your system with some
- hard work.}
-{810}{}{Thanks for nothing. How can you be so cruel to someone as unwell as myself? Damn tribals!
- (Aldo spits on the ground at your feet, dribbling a bit on his scruffy chin)}
-{820}{}{I'm certain that your generosity to someone as needful as myself (hic) will bring you good
- luck. I hope to see you again soon.}
-{830}{}{I could sure use some money for medicine. I feel pretty weak - but if you can't (cough, cough)
- spare any (cough), I guess I understand. Maybe next time, if I'm still around (cough) by then.}
-{850}{}{You mean my much needed medicine? (hic) Well, I used to buy it at either the Golden Gecko or
- the Buckner Place (urp), but they won't sell it to me until I pay some money on my bill. Lucky for
- me, Whiskey Bob's been making a bit of medicine for some of his friends.}
-{851}{}{I'm glad you found a source for your medicine. I guess that's all I need to know for now.}
-{852}{}{Interesting. Where would I find this Whiskey Bob?}
-{853}{}{Thanks, Aldo. Tell me about something else, though.}
-{860}{}{Whiskey Bob is usually (urp) at Buckner's Place right here in downtown. I don't think he's
- been able to get out to tend his still lately. He's just not a reliable source of medicine for someone
- as (hic) unwell as myself.}
-{861}{}{Thanks for the information, Aldo. That's about all I need to know.}
-{862}{}{Glad you found another supplier. Uh, could you breathe a bit more downwind? I've got another
- question for you.}
-{870}{}{Hello there, Friend -- you look a bit perplexed. What you need is a friend here in town. I'm
- Aldo, the town greeter.}
-{871}{}{Friend? Heh, heh, }
-{872}{}{ like friend.}
-{873}{}{Urk, (sniff, sniff) bad smell. Go away now.}
-{880}{}{If you give me $20 I'll be your friend and I'll make sure everyone else is, too. That's how it
- works here in the big city.}
-{881}{}{Toowa-eee-nty? Ook? Beeg Cee-tee? Ook?}
-{882}{}{Give man pretty leaf now?}
-{890}{}{A Geck? Heck, you mean a gecko. Never heard about a geck but I'll tell you about geckos.}
-{900}{}{Old stuff, huh? (urp) Well the only (hic) trader I know who trades much old stuff is
- (hic) Vic.}
-{901}{}{Vic? Where can I find this Vic?}
-{910}{}{Well now (hic), I haven't seen Vic for a while. I don't rightly (urp) know where he might have
- run off to. You might talk to (urp) Jenny over at the bath house. She and Vic were pretty (hic) thick.
- Heh, heh, heh. Get it? Oh my, I haven't lost my touch.}
-{911}{}{It's nice to know that no matter how low you sink, you can't lose something you never had. Let
- me risk asking you something else.}
-{912}{}{Thankfully, you're one-of-a-kind, Aldo. I guess that's all I need to know.}
-{920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
+{203}{}{ valeu por me receber aqui.}
+{204}{}{ sou o Escolhido de Arroyo.}
+{205}{}{Não te interessa! Agora sai fora daqui, seu bêbado imundo!}
+{206}{}{Não acredito que uma cidade como Klamath tenha um bêbado fedorento como você recebendo os visitantes ou fazendo qualquer outra coisa.}
+{300}{}{O Escolhido. Oh poderoso }
+{301}{}{, você deve ser uma pessoa muito importante e poderosa entre os seus. Com certeza alguém da sua (soluça) categoria ficaria feliz de dar gorjeta ao anfitrião oficial da cidade, como de costume. (coff)}
+{302}{}{Tá bom. Toma uma gorjeta. Mas fique longe da bebida.}
+{303}{}{Uma gorjeta? Ta bom. Acho que vale a pena gastar $5 pra você parar de me encher o saco.}
+{304}{}{Ta certo. Não sou eu que vou quebrar o costume de dar gorjetas. 5$ ta de bom tamanho?}
+{305}{}{Acho melhor você me dar uma gorjeta, só assim não vou perder meu tempo livrando Klamath da sua pele imunda.}
+{306}{}{Foi mal, mas dinheiro para "O Escolhido" tem pouca utilidade. Não tenho nenhum aqui comigo pra te dar.}
+{350}{}{Bem }
+{351}{}{, já que você é novo por aqui (soluça), e pelo visto precisa de uns conselhos, tenho que te dizer que em Klamath é costume dar gorjetas ao anfitrião oficial antes de perguntar qualquer coisa e tal.}
+{355}{}{Foi mal, mas não posso gastar nenhum centavo com você.}
+{400}{}{Bem, Forasteiro, to vendo que você é (soluça) novo na área e não sabe (soluça) que por aqui é costume (soluça) dar gorjeta ao anfitrião oficial da cidade antes de perguntar qualquer coisa a ele.}
+{450}{}{Muito obrigado pela grana, amigo! (coff). Vou usar esse dinheirinho pra comprar alguns remédios (soluça) pra minha garganta seca. Você já pode se considerar oficialmente recebido em Klamath. (coff) Quer saber algo sobre a nossa bela metrópole?}
+{451}{}{Não, não se preocupe comigo. Dou meu jeito por aqui.}
+{452}{}{Quero sim. Quero saber sobre algumas coisinhas.}
+{453}{}{Aldo, eu to procurando um comerciante que vende coisas antigas. Sabe, coisas velhas mesmo.}
+{500}{}{Manda ver, meu benfeitor!}
+{501}{}{O que as pessoas de Klamath fazem da vida?}
+{502}{}{Onde consigo trocar coisas e encontrar medicamentos por aqui?}
+{503}{}{Me fale mais sobre os geckos.}
+{504}{}{Onde você compra bebida?}
+{505}{}{Valeu. Por enquanto é tudo o que preciso saber.}
+{506}{}{Sabe onde posso encontrar um GECK?}
+{550}{}{Muito obrigado (irônico)! Tomara que você não fique muito tempo em Klamath. Não precisamos do seu tipinho por aqui. Humph. Esses tribais... são todos iguais.}
+{600}{}{Aqui em Klamath alguns são lavradores, enquanto outros criam brahmins, mas o que o pessoal daqui mais gosta é de caçar geckos.}
+{601}{}{Gecko?! Que isso?}
+{602}{}{Valeu! Por enquanto chega de papo.}
+{603}{}{Interessante. Mas mudando de assunto...}
+{650}{}{Gecko é um lagartão imenso que os caçadores adoram por causa da carne e do couro. Mas dá muito trabalho pegar os malditos e é muito perigoso também. Quer um conselho de amigo pra amigo? Evite! É uma trabalheira!}
+{651}{}{Valeu! Por enquanto chega de papo.}
+{652}{}{Hmm. Só mais uma coisinha, Aldo.}
+{700}{}{Você pode comprar ou trocar coisas na casa Buckner e no Gecko Dourado. Às vezes eles têm umas ervas medicinais pra vender também. Não que eles me dêem algumas delas pra curar (soluça) minha condição. São uns "pães-duros" dos infernos! Se atrasar um pouco o pagamento da conta, você vai ficar na chuva e no frio.}
+{701}{}{Valeu pelas informações. Por enquanto é tudo.}
+{702}{}{Ah, sempre achei esse ar fresco revigorante. Hmm, mais uma perguntinha pra você.}
+{750}{}{Sei que mais cedo você não podia gastar sua grana com o anfitrião oficial da cidade, mas talvez agora (soluça) você esteja se sentindo mais generoso e disposto a ser "oficialmente" recebido em Klamath.}
+{751}{}{Acho que vale a pena gastar $5 pra você parar de me encher o saco.}
+{752}{}{Senti que estava esquecendo alguma coisa. Aqui estão $5 pra você. To pronto pra receber suas saudações.}
+{753}{}{Não, valeu. Acho que não preciso das suas saudações oficiais.}
+{754}{}{Prefiro que suas tripas recebam minha lâmina.}
+{800}{}{E aí! Que bom te ver! Por acaso não tem uma graninha aí pra eu comprar alguns medicamentos? Minha maldita garganta fica o tempo todo seca e áspera (soluça). Não tô nem podendo saudar (soluça) nossos visitantes.}
+{801}{}{Claro! É sempre bom poder ajudar um amigo doente. Tome aqui $5.}
+{802}{}{Foi mal, Aldo, mas não tô podendo gastar nem um centavo.}
+{803}{}{Já chega de medicamentos. Você tem que colocar esse veneno pra fora do seu organismo com um pouco de trabalho.}
+{810}{}{Muito obrigado (irônico)! Como pode ser tão cruel com um doente como eu? Malditos tribais! (Aldo cospe no seu pé e um pouco de baba escorre no queixo imundo dele)}
+{820}{}{Tenho certeza que a sua generosidade com alguém tão necessitado quanto eu (soluça) vai te dar sorte. Espero te ver de novo em breve.}
+{830}{}{Tenho que gastar um pouco de grana com medicamentos. Tô me sentindo muito fraco. Mas se você não puder (coff, coff) me ajudar, eu até entendo (coff). Quem sabe da próxima, se eu ainda estiver (coff) por aqui até lá.}
+{850}{}{Você quer dizer meus medicamentos extremamente necessários, né? (soluça) Normalmente eu compro no Gecko Dourado e na casa Buckner (urp), mas aqueles malditos não estão me vendendo nada até eu pagar uma parte da minha conta lá. Pra minha sorte, o Whiskey Bob ta fazendo uns remedinhos pra alguns dos seus amigos.}
+{851}{}{Fico feliz em saber que você descobriu uma fonte para seus remédios. Agora chega de jogar conversa fora.}
+{852}{}{Interessante. E onde encontro esse Whiskey Bob?}
+{853}{}{Valeu, Aldo. Agora mudando de assunto.}
+{860}{}{Ele sempre fica aqui do lado, na Buckner. Acho que ultimamente ele não está conseguindo ir lá na cabana pra supervisionar o alambique. Não é uma fonte confiável de remédios pra alguém tão doente (coff, coff) quanto eu.}
+{861}{}{Valeu pelas informações, Aldo. Chega de conversa por enquanto.}
+{862}{}{Que bom que encontrou outro fornecedor. Ah, tem como você respirar um pouco mais na direção do vento? Tenho outra pergunta pra você.}
+{870}{}{E aí, amizade! Você parece meio confuso. O que precisa é de um amigo aqui na cidade. Sou Aldo, o anfitrião oficial da cidade.}
+{871}{}{Amizade? Heh, heh, }
+{872}{}{ gostar de amigo.}
+{873}{}{Urk, (funga, funga) cheiro ruim. cai fora.}
+{880}{}{Se me der $20 vou ser seu amigo e tenho certeza que todos aqui também serão. É assim que as coisas funcionam aqui na cidade grande.}
+{881}{}{Viiinteee? é muita grana ok?}
+{882}{}{Dar folha bonita pra homi agora?}
+{890}{}{Um Geck? Porra, você quer dizer gecko. Nunca escutei merda nenhuma sobre geck, mas vou te contar algumas coisas sobre gecko.}
+{900}{}{Coisas antigas, heim? (urp) A única pessoa (soluça) que conheço que troca e vende coisas antigas é (soluça) o Vic.}
+{901}{}{Vic? E onde encontro o Vic?}
+{910}{}{Bom, faz um certo tempo que não vejo o Vic. Não sei exatamente pra que lugar ele pode ter ido. Se eu fosse você falaria com a Jenny lá na casa de banho. Ela e Vic são bem íntimos. Heh, heh, heh. Sacou? Não perdi meu tato.}
+{911}{}{É bom saber que não importa se está na parte mais funda do poço, você não pode perder o que nunca teve. Mudando de assunto...}
+{912}{}{Valeu! Você é sem igual, Aldo. Por enquanto é tudo.}
+{920}{}{Olá de novo, amigo. Você tem mais $20 de sobra para tornar a nossa amizade ainda melhor?}
 {921}{}{Moar? Ook.}
-{922}{}{Me no share. Byee.}
+{922}{}{Nenhuma ação. Byee.}

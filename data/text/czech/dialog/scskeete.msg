@@ -5,7 +5,7 @@
 {104}{}{Starám se o místní parkovištì, èéèe. Hlídám auta za $5. Nikdo na nì ani nešáhne, protoe Doofus je poøád ve slubì.}
 {105}{}{Aha, jasnì, èéèe.}
 {106}{}{Take, èéèe, chceš vyuít moje sluby?}
-{107}{}{Dobøe. Chtít.}
+{107}{}{Good. Do.}
 {108}{}{Ne. Ty nešahat.}
 {109}{}{Neøíkej mi èéèe!}
 {110}{}{Co je tohle za místo?}
@@ -22,7 +22,7 @@
 {121}{}{Aha, jasnì, èéèe.}
 {122}{}{Squa?}
 {123}{}{Neøíkej mi èéèe!}
-{124}{}{Co tady dìláš?}
+{124}{}{Co dìláš?}
 {125}{}{Co je tohle za místo?}
 {126}{}{Nic. To bude asi omyl. Nashle.}
 {127}{}{Jo, èéèe, já tì varoval. Špatnı místo. Špatní lidi všude kolem. Slyšel jsem, e ti vykradli káru.}
@@ -37,7 +37,7 @@
 {136}{}{Jdi do prdele. Nebudu odpovídat na tvoje otázky.}
 {137}{}{Co je tohle za místo?}
 {138}{}{Sbohem.}
-{139}{}{Pápá.}
+{139}{}{Pá pá.}
 {140}{}{Páni, myšlenková komunikace! Zachytávám duševní vibrace! Dobøe, zkusím to... ehhh... ehhh...}
 {141}{}{Ano?}
 {142}{}{Ne?}
@@ -48,7 +48,7 @@
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{Správnì - poslouchat obra, èéèe. A tak to má bejt. Co pro tebe mùu udìlat, obøe?}
+{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
 {151}{}{Èéèe, to je teda nìco. Obøe, já jsem Doofus a mám na starosti hlídání aut, co sem lidi pøivezou, ale, no víš, obèas... potøebuju nìjakı prachy a vìci, chápeš?}
 {152}{}{Jo, jasnì. Obèas jsem prostì švorc a mám svı potøeby, rozumíš, tøeba kdy se cejtím pod psa, tak musím vydìlat nìjakı chechtáky a kvùli tomu jdu za Merkem.}
 {153}{}{Èéèe, øeknu ti, Merk je správnej chlap. U nìho vdycky najdeš práci i zboí. Nìkdy mì nechá pøespat v "Nevydìlanı kùi" po zavíraèce. Ale pak za to ode mì vdycky nìco chce.}
@@ -58,7 +58,7 @@
 {157}{}{Øekni mi všechno co víš.}
 {158}{}{To staèí, nic víc u nepoberu.}
 {159}{}{Dr u tu hubu, ty blbej sráèi!}
-{160}{}{Pápá.}
+{160}{}{Pá pá.}
 {161}{}{Dy víš, obèas nìco zaslechnu. A zaslechnu toho hodnì, i kdy si to ne vdycky pøesnì pamatuju.}
 {162}{}{$50 babek ti to urèitì všechno pøipomene.}
 {163}{}{Radìji si vzpomeò, nebo ti ustøelím palici.}
@@ -66,8 +66,8 @@
 {165}{}{Správnì, èéèe. Zajdi za Merkem. Ten má vdycky nìjakou práci.}
 {166}{}{Mizím. Pápá!}
 {167}{}{Èéèe, to nebylo dobrı! Merk nebude zrovna moc nadšenej a to uslyší.}
-{168}{}{Sbohem, smako.}
-{169}{}{Dobøe! Hele, byli to Merkovi lidi. Vèera v noci vykrádali auta. Zkus se poptat kolem a tøeba se ti je podaøí najít.}
+{168}{}{Goodbye, dope-head.}
+{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
 {170}{}{Ty lhát, já zabít.}
 {171}{}{Neli mi. Vrátím se, jestli pøijdu na to, e jsi mi lhal.}
 {172}{}{Jasnì, u se klepu strachy.}
@@ -75,7 +75,6 @@
 {174}{}{Polib mi, hlupáku.}
 {175}{}{Polib mi. Mizím odsud.}
 {176}{}{Potøebuješ pohlídat auto? ádnej problém. Od toho tu jsem.}
-
 {177}{}{Jóó, jóó, já HLÍDÁM auta, jóó, AUTA... AUTA... jóó, autíèká...!}
 {178}{}{LA LA LA LA AUTA, hej, svìø mi auto a JÁ HO BUDU HLÍDAT.}
 {179}{}{HLÍDÁM hlídám hlídám HLÍDÁM hlídám HLÍdám HHHLÍÍÍDÁÁÁM hlídám.}
@@ -86,5 +85,4 @@
 {184}{}{Máte rádi svoje auta a já vám je STØEÍM jako jestøáb s malıma slídivıma oèièkama.}
 {185}{}{Nikdy neopustím svı místo a poøád hlídám. Lidi sice nìkdy remcaj, ale já poøád støeím.}
 {186}{}{Jóó, jsem v pohodì. JÓÓ, JSEM V POHODÌ, jóó.}
-
 {187}{}{Jasnì, kámo, vem si to všechno.}

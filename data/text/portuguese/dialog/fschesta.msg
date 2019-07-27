@@ -9,12 +9,12 @@
 {108}{}{Chemistry Database: -Fuel and derivatives- -Polymers-}
 {109}{}{Fuel and derivatives.}
 {110}{}{Polymers.}
-{111}{}{Deactivate workstation.}
+{111}{}{Desativar estação.}
 {112}{}{Log Out.}
 {113}{}{Please speak to the system administrator. Goodbye.}
 {114}{}{Hack into computer.}
 {115}{}{Deixar.}
-{116}{}{Intruder alert activated. Shutting down. Have a nice day.}
+{116}{}{Alerta de intruso ativado. Desligando. Tenha um bom dia.}
 {117}{}{[FEITO]}
 {118}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sea life. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
 {119}{}{(You come across a vast array of complex chemical formulae and lab notes. You're not quite sure what all of this means.)}
@@ -27,13 +27,13 @@
 {126}{}{[FEITO]}
 {127}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
 {128}{}{[FEITO]}
-{129}{}{Station deactivated.}
-{130}{}{Activate station.}
+{129}{}{Estação desativada.}
+{130}{}{Ativar estação.}
 {131}{}{Deixar.}
 {132}{}{[Your random approach works wonders... you're in the machine!]}
 {133}{}{[MAIS]}
-{134}{}{The computer does not respond to any input.}
-{135}{}{You can't seem to find anywhere to put that.}
+{134}{}{O computador não responde a nenhum comando.}
+{135}{}{Você não consegue achar nenhum lugar pra colocar isso.}
 {136}{}{Guess the password.}
 {137}{}{Direct fuel along pipeline.}
 {138}{}{Destination required.}

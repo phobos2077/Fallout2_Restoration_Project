@@ -25,7 +25,7 @@
 {124}{}{Oo. Pa pá.}
 {125}{lyn004}{Óooo... ale no tak. A budeš chtít zase obejmout, pøijï za tetièkou Lynette, ano?}
 {126}{}{Dobøe.}
-{127}{}{Pa-pá.}
+{127}{}{Pá pá.}
 {128}{lyn005}{Jak bezcitné! Jak kruté! Copak jim je zcela lhostejná tato spoleènost, kterou jsme zde vytvoøili?}
 {129}{}{Snad to pro vás byla pouèná lekce, Lynette. Oddìleni od svìta jste vùbec netušili, e se vás vláda pøipravuje znièit, ani by vìdìla, jakou jste tady vytvoøili spoleènost. Moná by mìlo Vault City pøekroèit svùj práh... a pokusit se zaèlenit do okolního svìta.}
 {130}{}{Bezcitné, kruté... moná. Vím jen to, e jsem mìl mohutnìjší palebnou sílu. Sbohem, První Obèanko.}
@@ -37,10 +37,10 @@
 {136}{}{Díky... Lynette.}
 {137}{}{No, CHCI mít domov tady a díky mım spoleèníkùm a silnım zbraním bude trvat asi tak pìt vteøin, ne zabiju všechny v tıhle ubohı díøe. Spi sladce, Lynette. Bhahahahaha.}
 {138}{lyn008}{Vy na sobì máte kombinézu Vaultu! Nikdy jsem nedoufala, e potkám obyvatele jiného Vaultu. Kde se nachází ten... Vault 13?}
-{139}{}{Hummmhh?}
+{139}{}{Coo?}
 {140}{}{Valt! Valt!}
 {141}{}{On vtipnáá.}
-{142}{}{Pa-pá.}
+{142}{}{Pá-pá.}
 {143}{}{Není tohle Vault, ze kterého pocházejí mí pøedkové?}
 {144}{}{Nevím. Pøicházím z vesnice na západì.}
 {145}{}{Nevím. Pokouším se najít Vault, ze kterého pocházejí mí pøedkové... mùete mi s tím pomoct?}
@@ -52,13 +52,11 @@
 {151}{}{Odbelhat se.}
 {152}{lyn010}{Nevím, jak se vám podaøilo dostat do mìsta s tím vaším malım mozeèkem, ale zaøídím, e u sem nikdy nevkroèíte... stráe! Eskortujte tohoto imbecila za hradby mìsta!}
 {153}{}{NE!}
-
-# player's name prepended to line 154
 {154}{}{ jít s eleznımi lidmi.}
 {155}{lyn011}{Pøeji dobrı den, cizinèe. Jsem První Obèanka Lynette. Mohu se zeptat, kvùli èemu tu jste?}
 {156}{}{Vùl-i? Vùl ty?}
 {157}{}{Fujííííí!}
-{158}{}{Pá-pá.}
+{158}{}{Pá pá.}
 {159}{}{Hledám GECK. Nemáte náhodou jeden?}
 {160}{}{Pátrám po GECKu, První Obèanko. Nemá vaše mìsto jeden kus na prodej?}
 {161}{}{Vy jste... Správce tohoto Vaultu?}
@@ -80,7 +78,7 @@
 {177}{}{Aha. Pøeju si hovoøit se Správcem tohoto Vaultu. Mùete mì k nìmu zavést?}
 {178}{}{Jak se èlovìk stane jedním z obyvatel vaultu?}
 {179}{}{Kdy tak nesnášíte vnìjší svìt, tak proè ijete na povrchu a ne ve Vaultu?}
-{180}{}{To bude všechno. Sbohem.}
+{180}{}{U to nebudu poslouchat. Sbohem.}
 {181}{}{Já... rozumím. Díky za váš èas, První Obèanko.}
 {182}{lyn014}{Ze svıch zkušeností vím, e vy venkovani jste velmi hrubí. Jste nekulturní a primitivní. Nejste nic ne zvíøata! Teï odejdìte, nebo vás odsud nechám vyvést.}
 {183}{}{Ne! Se mnou nic nehne, dokud nedostanu své odpovìdi!}
@@ -109,7 +107,7 @@
 {206}{}{Je pro mì velmi dùleité mluvit se Správcem. Mùete mì k nìmu zavést?}
 {207}{}{Jenom tady plıtvám svùj drahocennı èas tlacháním s vámi. Pøiveïte mi u koneènì Správce, enská.}
 {208}{}{Jenom tady plıtvám svùj drahocennı èas tlacháním s vámi. Pøiveïte mi u koneènì Správce.}
-{209}{}{To bude všechno. Sbohem.}
+{209}{}{U to nebudu poslouchat. Sbohem.}
 {210}{}{Díky za váš èas, První Obèanko. Pøeju hezkı den.}
 {211}{lyn019}{Nemáme tu ádného "Správce." Kdy jsme opìt vyšli na povrch, zformovala se nová vláda. Pozice Správce ji byla zbyteèná.}
 {212}{}{Nová vláda? Povìzte mi o ní.}
@@ -196,7 +194,7 @@
 {293}{lyn035}{To je naprostı nesmysl. Za tìch sto let, kdy u neijeme ve Vaultu, se nikdo nerozhodl odejít. A na dva Obèany, které jsme pøed dávnou dobou vyhostili... jako trest za své zloèiny.}
 {294}{}{VYKOPLI jste Zakladatele! Já si jen jdu pro to, co je právoplatnì mé!}
 {295}{}{Co ti Obèané udìlali?}
-{296}{}{Jestli tohle není ten správnı Vault, pak musím najít ten, ze kterého pocházejí mí pøedkové.}
+{296}{}{Jestli tohle není správnı Vault, pak musím najít ten, ze kterého pocházejí mí pøedkové.}
 {297}{}{Musím jít. Pøeju hezkı den.}
 {298}{lyn036a}{Vesnice? Ale vdy máte na sobì kombinézu Vaultu... co je to za vesnici o které mluvíte? Mluvte jasnì, nemám moc velikou trpìlivost.}
 {299}{lyn036b}{Vesnice? Nedøíve mi øeknete, e pocházíte z Vaultu a teï z vesnice? Tak odkud?! Má trpìlivost s vaším dvojsmyslnım vyjadøováním je u konce.}
@@ -207,7 +205,7 @@
 {304}{lyn037}{Aha... teï u tomu rozumím. Ale jakı máte dùkaz, e vaši pøedkové pocházejí z Vaultu?}
 {305}{}{Pøíbìhy vyprávìné Starší naší vesnice.}
 {306}{}{Mám posvátné artefakty Zakladatele... tuto kombinézu Vaultu a svatou láhev.}
-{307}{}{Mám tuto kombinézu Vaultu a tuto láhev. Patøily mım pøedkùm.}
+{307}{}{Mám tuhle kombinézu a èutoru. Patøily mım pøedkùm.}
 {308}{}{Ty vaše otázky zaèínají bıt únavné. Odcházím najít nìkoho jiného, kdo mi mùe pomoct.}
 {309}{}{Musím jít. Pøeju hezkı den.}
 {310}{lyn038}{Hmm... moná jsou nìjaké zmínky o vašem Vaultu v našich poèítaèovıch archívech.}
@@ -215,7 +213,7 @@
 {312}{}{První Obèanko, je pro mì velmi dùleité zjistit umístìní Vaultu mıch pøedkù. Pomohlo by mi, kdyby bylo moné projít vaše archívy.}
 {313}{}{Hmmmm. Díky za informace. Pøeju hezkı den.}
 {314}{lyn039}{Je mi líto, ale ten náš jsme pouili pøi vıstavbì Vault City a myslím, e ádnı jinı u nemáme. Ale mùete se zeptat v Obchodním centru. Najdete ho poblí vstupu do našeho Vaultu.}
-{315}{}{Dìkuju. Chci se ještì zeptat...}
+{315}{}{Díky. Chci se ještì zeptat...}
 {316}{}{Nevíte, kde se nachází Vault 13?}
 {317}{}{Skvìle! Pùjdu se tam podívat. Pøeju hezkı den.}
 {318}{lyn040}{Špinavá kombinéza Vaultu a oprıskaná èutora? Toto jsou vaše dùkazy? Kdo ví, odkud jste vyšáral tyto "relikvie"... nebo kdo musel kvùli nim zemøít vaší rukou a poté bıt okraden.}
@@ -225,10 +223,10 @@
 {322}{}{Pokud to není dost, aby vás to pøesvìdèilo, tak u vám nemám u co øíct. Pøeju hezkı den.}
 {323}{lyn041a}{Máte vùbec ponìtí jak jsem zaneprázdnìná? Já øídím toto mìsto a mám velice málo èasu na to, abych ho marnila s vámi a vašimi bláznivımi povídaèkami.}
 {324}{lyn041b}{Máte vùbec ponìtí jak jsem zaneprázdnìná? Já øídím toto mìsto a mám velice málo èasu na to, abych ho s vámi marnila.}
-{325}{lyn041c}{Nyní u koneènì odejdìte, nebo zavolám stráe.}
+{325}{lyn041c}{Okamitì odejdìte, nebo zavolám stráe.}
 {326}{}{Tak do toho, zavolejte je. Nepøijdou vèas, aby stihli zachránit váš ivot.}
 {327}{}{Fajn. Odcházím.}
-{328}{}{Tak dobøe, První Obèanko. Pøeju hezkı den.}
+{328}{}{Dobrá, První Obèanko. Pøeju hezkı den.}
 {329}{lyn042}{Take domorodá legenda? Budete potøebovat nìco víc hmotného ne jen... domorodı MİTUS, jestli chcete, aby nìkdo uvìøil tìm vašim bláznivım povídaèkám.}
 {330}{}{Ale vdy mám u sebe posvátné artefakty našeho Zakladatele... tuhle kombinézu Vaultu a svatou láhev.}
 {331}{}{Mám tuhle kombinézu a èutoru. Patøily mım pøedkùm.}
@@ -243,7 +241,7 @@
 {340}{}{O jakou situaci jde?}
 {341}{}{Samozøejmì. Je mojí povinností splnit cokoliv si Vault ádá.}
 {342}{}{No já nevím... není Obèanskı test standardní postup?}
-{343}{}{Nevím, jestli je tahle práce pro mì to pravé... sbohem.}
+{343}{}{Myslím, e tahle práce není pro mì to pravé... sbohem.}
 {344}{}{Díky, ale ne. Radìji pùjdu. Pøeju hezkı den, První Obèanko.}
 {345}{lyn045}{Byli to vrahové, oba dva. Boyarsky byl vyhoštìn pøed deseti lety a Richard Moreau krátce poté, co jsme opustili Vault. Obèanství je posvátné... a zloèin mezi tìmito zdmi nebude trpìn.}
 {346}{}{Jestli tohle není správnı Vault, pak musím najít ten, ze kterého pocházejí mí pøedkové.}
@@ -270,7 +268,7 @@
 {367}{}{Musím najít Vault, ze kterého pocházejí mí pøedkové.}
 {368}{}{Potøebuju GECK. Nemáte jeden?}
 {369}{}{Aha, take teï u mì ve vašem mìstì vítáte, jo? Zapomeòte na to... padám odsud.}
-{370}{}{To si ani neumíte pøedstavit... ale o Chrámu Zkoušek vám povím nìkdy jindy. Sbohem.}
+{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
 {371}{lyn051}{Dávám vám pøíleitost, kterou dostane jen málo venkovanù. Mùete samozøejmì podstoupit test, pokud si to pøejete, ale vyøešení této situace bude takté patøiènì ohodnoceno. Rozumíte mi?}
 {372}{}{Tak dobøe. Co je to za situaci?}
 {373}{}{Rozumím. Je mojí povinností splnit cokoliv si Vault ádá.}
@@ -283,10 +281,10 @@
 {380}{}{Dìkuju vám, První Obèanko.}
 {381}{lyn053a}{Ano? S èím vám mohu pomoci?}
 {382}{lyn053b}{Ano? Co potøebujete?}
-{383}{}{Huhhh?}
+{383}{}{Coo?}
 {384}{}{Valt! Valt!}
 {385}{}{Legraèní oèííí!}
-{386}{}{Pa-pá.}
+{386}{}{Pá-pá.}
 {387}{}{Chci se vás na nìco zeptat.}
 {388}{}{Chci se vás na nìco zeptat.}
 {389}{}{Jak se nìkdo mùe stát Obèanem Vault City?}
@@ -298,19 +296,19 @@
 {395}{}{Myslím, e je Dr. Troy zapleten do nìèeho nelegálního.}
 {396}{}{Musím s vámi mluvit o doruèení toho holodisku.}
 {397}{}{Zmìnil jsem názor. Doruèím ten holodisk radnímu do NCR.}
-{398}{}{Nic. Promiòte, e ruším.}
+{398}{}{No nic. Promiò, e ruším.}
 {399}{lyn054a}{Samozøejmì. S èím vám mohu pomoci, Obèane?}
 {400}{lyn054b}{Samozøejmì. S èím vám mohu pomoci, Kapitáne?}
 {401}{}{Mùete mi øíct nìco o útocích nájezdníkù na naše mìsto?}
 {402}{}{Moje kroky zkøíil Obèan jménem Thomas Moore. Kdo je to?}
-{403}{}{Máte GECK?}
+{403}{}{Nemáš GECK?}
 {404}{}{Hledám Vault 13.}
 {405}{}{Tohle je Vault City? Tak proè neijete ve Vaultu?}
 {406}{}{Proè tolerujete otrokáøství?}
 {407}{}{Dnes nic, díky.}
 {408}{lyn055}{Na neobèana si dìláte skuteènì velké nároky na mùj èas.}
 {409}{}{Ale JÁ JSEM Obèan.}
-{410}{}{Máte GECK?}
+{410}{}{Nemáš GECK?}
 {411}{}{Hledám Vault 13.}
 {412}{}{Co musím udìlat k získání Obèanství?}
 {413}{}{Tohle je Vault City? Tak proè neijete ve Vaultu?}
@@ -320,11 +318,11 @@
 {417}{}{Doufal jsem, e mi odpovíte na nìjaké otázky.}
 {418}{}{Omlouvám se za své døívìjší poznámky, První Obèanko. Mùu mít ještì nìjaké otázky ohlednì Vault City?}
 {419}{}{Víte, jsou vìci, které jsou stejnì dobré, i kdy nejsou pravé.}
-{420}{}{Zapomeòte na to.}
+{420}{}{Zapomeò na to.}
 {421}{}{Promiòte, První Obèanko. Promiòte, e ruším.}
 {422}{lyn057}{Ano? Copak u nejsou minulost?}
 {423}{}{Je to ponìkud komplikovanìjší. Víte, tito chlápci nebyli jen tak obyèejná parta nájezdníkù... byli to oldáci.}
-{424}{}{Zapomeòte na to. Sbohem.}
+{424}{}{To je jedno. Sbohem.}
 {425}{lyn058}{Nevzpomínám si, e bych vás vidìla pøi imatrikulaci. Ukate mi své doklady.}
 {426}{}{Tady jsou. Všechno by mìlo bıt v poøádku.}
 {427}{}{Eh... memám je zrovna u sebe.}
@@ -339,7 +337,7 @@
 {436}{}{Nejdøív mì budete muset chytit.}
 {437}{lyn061}{Hmmmm... tak dobøe. Ale nechoïte sem døív, ne budete mít platné doklady o Obèanství. Hezkı den.}
 {438}{}{Sbohem.}
-{439}{}{Dobrı den, První Obèanko.}
+{439}{}{Pøeju hezkı den, První Obèanko.}
 {440}{lyn062}{Opravdu? To potvrzuje mé tušení. Váš pøístup do Vault City byl s okamitou platností zrušen. Odevzdejte mi Denní propustku a odejdìte se stráemi ke vstupní bránì.}
 {441}{}{Coe? Øekla jste, e mi Denní propustku necháte!}
 {442}{}{Nikam nejdu. Chcete moji Denní propustku? Tak si pro ni POJÏTE.}
@@ -348,7 +346,7 @@
 {445}{}{Ano, zastavím... vımìnou za Obèanství a pøístup do poèítaèù ve Vaultu.}
 {446}{}{Ne, ne tak docela. Jen se pøesvìdèuju, jestli nabídka stále platí.}
 {447}{lyn064}{Tak dobøe. Informujte mì hned, jakmile bude úkol splnìn a já vám udìlím Obèanství.}
-{448}{}{Ne odejdu, mùu se ještì na nìco zeptat?}
+{448}{}{Ne pùjdu, mùu se ještì na nìco zeptat?}
 {449}{}{Tak dobøe. Vrátím se, a to vyøeším.}
 {450}{lyn065}{Je u situace vyøešená?}
 {451}{}{Podaøilo se mi zjistit, e vše co potøebují k ekologicky èistému provozu, je hydroelektrickı regulátor magnetosféry.}
@@ -357,12 +355,12 @@
 {454}{}{Ne, ještì ne. Stále na tom pracuju.}
 {455}{lyn066}{Tak neplıtvejte mım èasem. Vrate se, a budete mít nìjaké novinky.}
 {456}{}{Dobøe. Vrátím se pozdìji.}
-{457}{}{Tak dobøe. Pøeju hezkı den, První Obèanko.}
+{457}{}{Dobrá. Pøeju hezkı den, První Obèanko.}
 {458}{lyn067a}{Take ten problém ještì NENÍ vyøešenı?}
 {459}{lyn067b}{Jestli máte stále zájem o to Obèanství, tak to radìji vyøešte.}
 {460}{}{Prı je ta souèástka k opravì jejich elektrárny pøímo tady ve Vault City.}
 {461}{}{Dobøe. Vrátím se pozdìji.}
-{462}{}{Tak dobøe. Pøeju hezkı den, První Obèanko.}
+{462}{}{Dobrá. Pøeju hezkı den, První Obèanko.}
 {463}{lyn068}{A co kdy ano? Bylo by to jenom doèasné øešení. Prosím, dejte do POØÁDKU ten problém, NE jejich elektrárnu. Øíkám to jasnì?}
 {464}{}{První Obèanko, nechci zpochybòovat vaše rozhodnutí, ale je tu monost, jak vyøešit váš problém bez zabíjení ghoulù nebo odstavení reaktoru. Kde si mùu vyzvednout tu souèástku...?}
 {465}{}{Øekla jste, e po mnì chcete opravit elektrárnu a ne zmasakrovat Gecko.}
@@ -383,7 +381,7 @@
 {480}{}{Hezkı den, První Obèanko.}
 {481}{lyn071}{Nehrajte si se mnou, nebo zaøídím, e u nikdy nevkroèíte do Vault City.}
 {482}{}{Dávejte si radìji pozor, "První Obèanko." Sbohem.}
-{483}{}{Dobrı den, První Obèanko.}
+{483}{}{Pøeju hezkı den, První Obèanko.}
 {484}{lyn072a}{Vy jste to dokázal! Vıbornì! Prokázal jste Vault City nesmírnì cennou slubu. Pøijmìte prosím toto jako projev našeho díky. Ta banda nám dìlala opravdu velké potíe...}
 {485}{lyn072b}{Vıbornì. Nic jiného si ani nezaslouili. Ta banda nám dìlala opravdu velké potíe...}
 {486}{}{Ve skuteènosti to nebyla jen obyèejná potulná banda nájezdníkù... byli to oldáci.}
@@ -400,7 +398,7 @@
 {497}{}{Zaènìte si se mnou, Lynette, a Vault City bude potøebovat nového Prvního Obèana. Rozumíte?}
 {498}{}{A toho se mám bát? Staèí zajít za McClurem zpìt pro své Obèanství. To on vypadá spíš jako vhodnı materiál na Prvního Obèana.}
 {499}{}{Vrátím se, a trochu vychladnete.}
-{500}{}{Hezkı den, První Obèanko.}
+{500}{}{Pøeju hezkı den, První Obèanko.}
 {501}{lyn076a}{Vıbornì. Zachoval jste se jako pravı Obèan Vaultu.}
 {502}{lyn076b}{Je mi potìšením vám udìlit Obèanství i se všemi privilegii a pøístupem k našim zaøízením.}
 {503}{}{No, doufal jsem spíš v nìjaké to penìní odškodnìní.}
@@ -412,7 +410,7 @@
 {509}{lyn077b}{Obèanství je samo o sobì odmìnou.}
 {510}{}{Tak to ani hovno! Radši hned vysol nìjakı prachy, nebo si bude Vault City muset hledat novıho Prvního Obèana.}
 {511}{}{ádnı problém... jen to zkouším. Sbohem.}
-{512}{}{Tak dobøe, První Obèanko. Pøeju hezkı den.}
+{512}{}{Dobrá, První Obèanko. Pøeju hezkı den.}
 {513}{lyn077_a}{Absolutnì ne.}
 {514}{}{Zajímalo by mì, kdo pøevezme vaši pozici, a zemøete... asi tak za minutu.}
 {515}{}{ádnı problém... jen to zkouším. Sbohem.}
@@ -421,14 +419,14 @@
 {518}{}{Poskytuje ošetøení pouze Obèanùm.}
 {519}{}{Ale nic... moje chyba. Pøeju hezkı den.}
 {520}{lyn079}{Kdo jste, e si dovolujte obviòovat Obèana z takového zloèinu? Stráe! Vyveïte tohoto venkovana za bránu!}
-{521}{}{Stráe se sem nedostanou vèas, aby stihli zachránit váš ivot... "První Obèanko."}
+{521}{}{Stráe se sem nedostanou vèas, aby vám zachránili ivot... "První Obèanko."}
 {522}{}{Není tøeba volat stráe... odejdu v klidu.}
 {523}{}{Ale to je pravda! Musíte mi vìøit! Já...!}
 {524}{lyn080}{To je velmi váné obvinìní. Jeliko jste Obèan, musím vaše slova brát v úvahu... ale víte to naprosto jistì? Jestli je to pravda, jeho Obèanství bude zrušeno a bude vyhnán do exilu.}
 {525}{}{Podívejte, já vím, e je tomu tìké uvìøit, ale poádal mì o propašování drogy "Jet" do Vault City.}
 {526}{}{Není to trochu pøísnı trest? Nemùete ho tøeba jenom vyhodit z práce, ale ponechat ho doktorem?}
 {527}{}{Aha. Eh... moje chyba. Chtìl jsem øíct, e je Dr. Troy zapojen v PARALEGÁLNÍCH aktivitách, ne v nelegálních.}
-{528}{}{Hmmmm. Jdu se podívat po nìèem jiném.}
+{528}{}{Hmmmm. Jdu se podívat, jestli se mi podaøí zjistit nìco dalšího.}
 {529}{lyn081}{Nemohu uvìøit tomu, e Obèan takového postavení mùe bıt závislı na drogách. Díky za vaši upøímnost, Obèane. Ihned si to vezmu na starost.}
 {530}{}{Chci se ještì zeptat...}
 {531}{}{Skvìle. Ta situace mì znepokojovala. Sbohem.}
@@ -457,11 +455,11 @@
 {554}{}{Omlouvám se, První Obèanko. Pøeju hezkı den.}
 {555}{lyn086}{Domnívám se, e je èas na odchod a doufám, e se ve Vault City moc dlouho nezdríte.}
 {556}{}{Ne pùjdu, chci se ještì zeptat...}
-{557}{}{Dobøe. U jdu.}
+{557}{}{Tak dobøe. U jdu.}
 {558}{lyn087}{Moore? Je to buøiè. TO je to správné slovo.}
 {559}{}{Máte pravdu. Zabıvá se... vnìjšími zájmy.}
 {560}{}{Proè øíkáte, e je buøiè?}
-{561}{}{Mùu mít další otázku?}
+{561}{}{Mùu se ještì na nìco zeptat?}
 {562}{}{Mluvil se mnou... a hodnì vìcí z toho, co øíkal, dává smysl.}
 {563}{}{Souhlasím. Mám se o nìj... postarat?}
 {564}{}{V tom pøípadì byste mìla zrušit jeho Obèanství.}
@@ -478,12 +476,12 @@
 {575}{}{A jak Moore pøesvìdèuje Obèany?}
 {576}{}{Chci se ještì zeptat...}
 {577}{}{Nejspíš ano. U musím jít.}
-{578}{}{Díky za váš èas, První Obèanko. Hezkı den.}
+{578}{}{Díky za váš èas, První Obèanko. Pøeju hezkı den.}
 {579}{lyn090}{Vláda potøebuje silného, schopného vùdce, kterı dokáe dìlat rychlá rozhodnutí a také je prosazovat. Vládní komise není ádná vláda.}
 {580}{}{A jak Moore pøesvìdèuje Obèany o tom, e by mìla bıt ve Vault City demokracie?}
 {581}{}{Chci se ještì zeptat...}
 {582}{}{Nejspíš ano. U musím jít.}
-{583}{}{Díky za váš èas, První Obèanko. Hezkı den.}
+{583}{}{Díky za váš èas, První Obèanko. Pøeju hezkı den.}
 {584}{lyn091}{Nejèastìji øeènìním na veøejnosti a dìláním ze sebe blázna. Zkouší to na nás s povídaèkami o epidemii v NCR, jako bychom se snad mìli starat o celı svìt.}
 {585}{}{To zní jako opravdovı problém. Mám se o nìj... postarat?}
 {586}{}{Dobøe víte, e má pravdu. Nejspíš byste mìli. Vaše lékaøská technologie je opravdu ohromující.}
@@ -526,13 +524,13 @@
 {623}{}{U se s vámi nebudu hádat. Sbohem.}
 {624}{lyn099}{Co tím myslíte?}
 {625}{}{Moore ve skuteènosti pracuje pro NCR.}
-{626}{}{Zapomeòte na to. Chci se ještì zeptat...}
+{626}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
 {627}{}{Nic. U musím jít. Sbohem.}
 {628}{}{Nic. Byla to mılka. Pøeju hezkı den, První Obèanko.}
 {629}{lyn100}{Zabít ho?! Vrada není v ádném pøípadì forma nebo zpùsob povolenı ve Vault City... i kdyby v tom byl ten nejlepší úmysl. Nikdy se u o tom nezmiòujte.}
 {630}{}{Rozumím. Mùu se ještì na nìco zeptat?}
 {631}{}{Podívejte, 'vrada' je hnusné slovo. Mùu zaøídit nìjakou nehodu... pøedávkování drogami, udupání brahmínou... v tomhle nebezpeèném svìtì se mùe stát cokoliv.}
-{632}{}{Tak dobøe. Odcházím.}
+{632}{}{Tak dobøe. U jdu.}
 {633}{}{Dobrá, První Obèanko. Pøeju hezkı den.}
 {634}{lyn101}{Takhle se Obèan nechová! Ruším vaše Obèanství. Moje stráe vám ukáou cestu ven.}
 {635}{}{Stráe se sem nedostanou vèas, aby vám zachránili ivot... "První Obèanko."}
@@ -548,23 +546,22 @@
 {645}{}{Skvìle, díky. Sbohem.}
 {646}{}{Dìkuju vám, První Obèanko.}
 {647}{lyn104}{Zaèalo to pøed nìkolika mìsíci. Laserové vìe je zatím vdy dokázaly zahnat, ale nevíme, jak dlouho ještì budou schopny odolávat útokùm.}
-{648}{}{Co jsou ti nájezdníci zaè?}
+{648}{}{Kdo jsou ti nájezdníci?}
 {649}{}{Chci se ještì zeptat...}
 {650}{}{U musím jít. Sbohem.}
 {651}{}{To je mi líto. Snad odtáhnou nìkam jinam hledat snadnìjší koøist. Pøeju hezkı den, První Obèanko.}
 {652}{lyn105}{Odpad lidstva. Ji více ne století se pokoušejí vyplenit naše mìsto... a vdy odtáhli s nepoøízenou. Jednou tuto bandu rozprášíme.}
 {653}{}{Eh... "jednou?" Proè jste je ještì nevyhladili?}
-{654}{}{Mùu mít další otázku?}
+{654}{}{Mùu se ještì na nìco zeptat?}
 {655}{}{U musím jít. Sbohem.}
 {656}{}{Musím jít. Pøeju hezkı den, První Obèanko.}
 {657}{lyn106}{Nalezení jejich základny je tìší, ne jsme pøedpokládali. A k tomu ještì disponují opravdu velikou palebnou silou. Nicménì jsme zatím odrazili všechny jejich útoky... s minimálními ztrátami.}
-{658}{}{Mùu mít další otázku?}
+{658}{}{Mùu se ještì na nìco zeptat?}
 {659}{}{U musím jít. Sbohem.}
 {660}{}{Díky za váš èas. Pøeju hezkı den, První Obèanko.}
 {661}{lyn107}{Ano? }
-{662}{}{Podaøilo se mi najít jejich základnu. Jsou zalezlí v jeskyních pøi úpatí kopcù na jihu.}
+{662}{}{Podaøilo se mi najít jejich základnu. Byli zalezlí v jeskyních pøi úpatí kopcù na jihu.}
 {663}{}{Vyhladil jsem je. Byli zalezlí v jeskyních pøi úpatí kopcù na jihu.}
-{1663}{}{Byli zalezlí v jeskyních pøi úpatí kopcù na jihu. Podaøilo se mi pøesvìdèit jejich prùvodce, aby jim u nepomáhal. Bez nìj nebudou nikdy schopni najít cestu pøes hory.}
 {664}{}{Informace mají svou cenu.}
 {665}{}{U nic. Musím u jít.}
 {666}{lyn108}{Opravdu? To je skvìlé! Ale mìstské stráe jsou u zcela vyèerpané... zvládnete to bez jejich pomoci? Dokáete ukonèit jejich útoky? Dostanete zaplaceno.}
@@ -572,7 +569,7 @@
 {668}{}{Uvidím, co se dá dìlat.}
 {669}{lyn109}{Tak dobøe. A teï kdy mì omluvíte, mám spoustu práce. Cestu ven znáte.}
 {670}{}{Nejdøív se chci na nìco zeptat...}
-{671}{}{Dobøe, odcházím.}
+{671}{}{Tak dobøe, odcházím.}
 {672}{}{Dobrá. Pøeju hezkı den, První Obèanko.}
 {673}{lyn110a}{oldáci? Kdo je najal?}
 {674}{lyn110b}{Ano, to u vím. Víte, kdo je najal?}
@@ -599,7 +596,7 @@
 {695}{}{Bylo mi potìšením, První Obèanko. Pøeju hezkı den.}
 {696}{lyn116}{No samozøejmì. Poslali oldáky vradit mé lidi, protoe jsem odmítla pøipojit se k jejich vládì. Já... já tomu nemohu uvìøit.}
 {697}{}{Je to trochu komplikovanìjší. Thomas Moore je do toho taky zapleten.}
-{698}{}{Mùu vám s tím nìjak pomoct?}
+{698}{}{Mùu nìjak pomoct?}
 {699}{}{Svìt je krutı. A co bude s vyrovn...? }
 {700}{lyn117}{Takhle se Obèan nechová. Ale tu informaci opravdu potøebuji. Kolik za ni chcete?}
 {701}{}{$100}
@@ -610,7 +607,6 @@
 {706}{lyn118}{Tak dobøe, tady jsou vaše peníze. A teï mi øeknìte, co víte.}
 {707}{}{Podaøilo se mi najít jejich základnu. Byli zalezlí v jeskyních pøi úpatí kopcù na jihu.}
 {708}{}{Vyhladil jsem je. Byli zalezlí v jeskyních pøi úpatí kopcù na jihu.}
-{1708}{}{Byli zalezlí v jeskyních pøi úpatí kopcù na jihu. Podaøilo se mi pøesvìdèit jejich prùvodce, aby jim u nepomáhal. Bez nìj nebudou nikdy schopni najít cestu pøes hory.}
 {709}{}{Ve skuteènosti o tom moc nevím.}
 {710}{}{Díky za peníze. U musím jít.}
 {711}{lyn119}{Potøebuji, abyste okamitì vyrazil do NCR a našel tam radního Westina. Rogera Westina. Dejte mu tento holodisk. To by mìlo zajistit, e u ádní "nájezdníci" nebudou najímáni.}
@@ -627,12 +623,12 @@
 {722}{}{Poèkejte. Chci se ještì zeptat...}
 {723}{}{Tak dobøe, odcházím.}
 {724}{}{Díky. Chci se ještì zeptat...}
-{725}{}{Skvìle! Díky... radìji u pùjdu.}
+{725}{}{Skvìle! Díky... u musím jít.}
 {726}{}{Dìkuju vám, První Obèanko.}
 {727}{lyn122}{Roger Westin je pravdìpodobnì jedinı èestnı mu v té jejich republice, kterı nám je naklonìn.}
 {728}{}{Dobrá, doruèím mu ten holodisk.}
 {729}{}{Ne, díky. Teï mám moc práce.}
-{730}{lyn123}{Vaše vlastenectví nezùstane neodmìnìno. A teï bìte. Èasu není nazbyt.}
+{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
 {731}{}{Ne pùjdu, chci se ještì zeptat...}
 {732}{}{Jdu na to.}
 {733}{}{Mùete se na mì spolehnout, První Obèanko. Vrátím se, a ten holodisk doruèím Westinovi.}
@@ -648,7 +644,7 @@
 {743}{}{Ještì ne. Vrátím se, a to bude hotové.}
 {744}{}{Ještì ne, První Obèanko. Vrátím se, a ho doruèím Westinovi.}
 {745}{lyn126}{Udìláte to?! Skvìle! Vezmìte si tedy ten holodisk, co máte od Bishopa, a pospìšte si. Èasu není nazbyt.}
-{746}{}{Ne pùjdu, chci se ještì na nìco zeptat...}
+{746}{}{Ne pùjdu, chci se ještì zeptat...}
 {747}{}{Jdu na to.}
 {748}{}{Mùete se na mì spolehnout, První Obèanko. Vrátím se, a ten holodisk doruèím Westinovi.}
 {749}{lyn127}{Vìøte mi, nebudete toho litovat. A teï prosím doruète ten holodisk.}
@@ -692,8 +688,6 @@
 {787}{lyn138}{Špeh z NCR? To... to... by vysvìtlovalo spoustu vìcí. Dìkuji vám, Obèane. Hned se o ten problém postarám.}
 {788}{}{A teï k problému s NCR... mùu s nìèím pomoct?}
 {789}{}{To je fajn. Kadopádnì by mì zajímalo, jestli je za zjištìní všech tìch vìcí o Renu a NCR nìjaká odm...}
-
-# Generic line from 790 to 846 are not used. If this changes, we will need to do the lip-syncing and attach voc files.
 {790}{}{Stráe!}
 {791}{}{Prosím, jdìte za prokonzulem. On má to, co potøebujete.}
 {792}{}{Prosím, jdìte za vrchním radním McClurem. On má to, co potøebujete.}
@@ -715,16 +709,16 @@
 {808}{}{Na jihozápad}
 {809}{}{Na jihovıchod}
 {810}{}{To nechci.}
-{811}{}{Dìkuji.}
+{811}{}{Díky.}
 {812}{}{Díky za váš èas.}
 {813}{}{Stráe!}
 {814}{}{Miluji Scotta Rodenhisera.}
 {815}{}{Moje malé kudrlinky jsou krásné.}
 {816}{}{T-Ray si o sobì trochu moc myslí.}
 {817}{}{To jsou dobré zprávy.}
-{818}{}{Dobøe.}
+{818}{}{Tak dobrá.}
 {819}{}{Hezkı den.}
-{820}{}{Dobrı den, Obèane.}
+{820}{}{Zdravíèko, Obèane.}
 {821}{}{To beru.}
 {822}{}{Dejte mi to.}
 {823}{}{O tom nic nevím.}
@@ -735,7 +729,7 @@
 {828}{}{Samozøejmì.}
 {829}{}{Správnì.}
 {830}{}{Pøesnì.}
-{831}{}{Správnì.}
+{831}{}{Dobøe.}
 {832}{}{Hmpphhh.}
 {833}{}{Vysvìtli mi ještì jednou, proè nemá Fallout 2 ádné modely èernochù?}
 {834}{}{Vault City vdy zvítìzí.}
@@ -751,8 +745,6 @@
 {844}{}{Je mi líto, ale myslím, e jsem je všechny zabil.}
 {845}{}{To je dobrı zaèátek, ale naše podzemní voda je stále kontaminována. Musíte vyøadit jejich elektrárnu z provozu.}
 {846}{}{Pomùe to, ale nevyøeší to náš hlavní problém: kontaminaci podzemní vody. Musíte zastavit únik radiace z elektrárny.}
-# End of Unused Dialog
-
 {847}{}{Starší naší vesnice mi dala láhev na vodu, ale nemám ji u sebe. Nicménì podle pøíbìhù, které Starší vyprávìla, naši pøedkové pocházejí z Vaultu.}
 {848}{}{Myslíte ghouly? Jo, podaøilo se mi zjistit, co je špatnì s jejich elektrárnou.}
 {849}{}{Elektrárna potøebuje hydro-magnet, eh, vìcièku, aby fungovala. Ghoulové øíkají, e jednu takovou máte, take kdy mi ji dáte, pøestane elektrárna zneèišovat okolí.}
@@ -792,3 +784,5 @@
 {883}{}{Eh, moje chyba... to jsem nechtìl øíct...}
 {884}{}{Omlouvám se, První Obèanko. Já...}
 {885}{}{Stráe!}
+{1663}{}{Byli zalezlí v jeskyních pøi úpatí kopcù na jihu. Podaøilo se mi pøesvìdèit jejich prùvodce, aby jim u nepomáhal. Bez nìj nebudou nikdy schopni najít cestu pøes hory.}
+{1708}{}{Byli zalezlí v jeskyních pøi úpatí kopcù na jihu. Podaøilo se mi pøesvìdèit jejich prùvodce, aby jim u nepomáhal. Bez nìj nebudou nikdy schopni najít cestu pøes hory.}

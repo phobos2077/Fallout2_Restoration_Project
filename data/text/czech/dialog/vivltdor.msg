@@ -9,8 +9,8 @@
 {108}{}{*Heeeeeej RUP!*}
 {109}{}{Použitím své brutální fyzické síly se ti podaøilo dveøe otevøít.}
 {110}{}{Páni. To je ani neškráblo!}
-{111}{}{BUM ... a dveøe stát dál.}
+{111}{}{BOOM no hurt door.}
 {112}{}{Dveøe jsou zaseknuté, ne zamèené. Jasné?}
-{113}{}{Dveøe zaseknutá, ne zamèená.}
+{113}{}{Door stuckie not lockie.}
 {114}{}{Dveøe se nezavøou. Jsou zablokované.}
 {115}{}{Dveøe se nepohnout.}

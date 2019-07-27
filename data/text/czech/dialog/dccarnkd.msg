@@ -1,7 +1,5 @@
 {100}{}{Vidíš dítì vykøikující reklamní slogany.}
 {101}{}{Toto dítì, jak se zdá, je placeno za to, aby propagovalo urèitý druh turistické atrakce.}
-
-#Hawking floats
 {500}{}{Uvidíte tajemnou mumii!}
 {501}{}{Uvidíte starobylý skvost!}
 {502}{}{Nefalšovaná mumie, právì teï!}

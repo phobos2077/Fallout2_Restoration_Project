@@ -1,14 +1,14 @@
-{100}{}{You see several crates filled with chemicals.}
-{150}{}{You see several crates filled with chemicals. You can't identify the chemicals, but they have
- been packed *very* carefully.}
+{100}{}{Você vê várias caixas repletas de produtos químicos.}
+{150}{}{Você vê várias caixas repletas de produtos químicos. Você não consegue identificá-los, mas eles foram
+ empacotados com *muito* cuidado.}
 {175}{}{Você vê um Vertibird.}
-{199}{}{You see a Vertibird... an advanced form of helicopter. Unfortunately, you have no idea how
- to operate it. }
-{200}{}{(These guys give me the creeps...)}
-{250}{}{Look! Someone's been watching us!}
-{300}{}{Don't get near those armored fellas. They'll carve you up.}
-{350}{}{Dammit! What are you doing, dipshit?!}
-{400}{}{[Looks like there is a door. Open it and climb in?]}
-{450}{}{[The door seals behind you, and the Vertibird takes off! You can't open the door!]}
-{500}{}{These crates are filled with heavy metal canisters. Judging from the care packing them,
- you suspect that they contain some sort of hazardous chemicals. }
+{199}{}{Você vê um Vertibird... uma forma avançada do helicóptero. Infelizmente, você não faz idéia de
+ como operá-lo. }
+{200}{}{(Esses caras me dão arrepios...)}
+{250}{}{Olhem! Tem alguém nos espionando!}
+{300}{}{Não chegue perto daqueles caras de armadura. Eles podem te partir no meio.}
+{350}{}{Merda! O que você está fazendo, imbecil?!}
+{400}{}{[Parece que tem uma porta. Abrir e embarcar?]}
+{450}{}{[A porta se fecha atrás de você e o Vertibird levanta vôo! Você não consegue abrir a porta!]}
+{500}{}{Essas caixas estão repletas de pesadas latas de metal. Julgando pelo cuidado do empacotamento,
+ você suspeita que elas contenham algum tipo de produto químico perigoso. }

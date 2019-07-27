@@ -1,15 +1,15 @@
-{100}{}{A small, quaint farming community, surrounded by vast fields of dead or dying crops.}
-{500}{}{Looks like I killed them all.}
-{501}{}{All meanie biters dead.}
-{502}{}{You cleared out Farrel's garden.}
-{600}{}{You see a coin bag.}
-{601}{}{You see a coin bag. Someone probably tossed it into the well to make a wish.}
-{610}{}{This is MY dream, MY wish, and I'm taking it back. I'm taking them all back.}
-{1000}{}{Kill them all!}
-{1001}{}{Death to the Slags!}
-{1002}{}{I wanna watch 'em scream!}
-{1003}{}{Let's go get 'em!}
-{1100}{}{You fall some 15 feet into a dimly lit cave. Various farming equipment lays neatly
- stored against the far wall.}
-{1200}{}{You made it out of the hole just in time for the explosion to go off behind you,
- sending you flying through the air.}
+{100}{}{Uma pequena, comunidade agrícola rudimentar, cercada por vários campos de plantações mortas ou morrendo.}
+{500}{}{Parece que eu matei todos eles.}
+{501}{}{Todos os roedores malvados morreram.}
+{502}{}{Você limpou o jardim do Farrel.}
+{600}{}{Você vê uma sacola de moedas.}
+{601}{}{Você vê uma sacola de moedas. Provavelmente alguém jogou dentro do poço para fazer algum pedido.}
+{610}{}{Esse é o MEU sonho, MEU desejo, e eu estou pegando de volta. Estou pegando tudo de volta.}
+{1000}{}{Matem todos!}
+{1001}{}{Morte aos Slags!}
+{1002}{}{Eu quero ve-los gritar!}
+{1003}{}{Vamos pegá-los!}
+{1100}{}{Você cai cerca de 4 metros em uma caverna mal iluminada. Vários equipamentos agrícolas estão organizados
+ na parede oposta.}
+{1200}{}{Você consegue sair do buraco bem na hora da explosão,
+ mandando você pelos ares.}

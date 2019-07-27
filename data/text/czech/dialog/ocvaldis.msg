@@ -1,4 +1,4 @@
-{100}{}{Vidíš páraèe. Pozoruje tì podivnì inteligentníma oèima.}
+{100}{}{Vidíš páraèe. Prohlíží si tì podivnì inteligentním pohledem.}
 {101}{}{Vidíš páraèe Valdise.}
 {102}{}{Vidíš typického páraèe. Je obrovský, má silné tìlo, ostré zuby a dlouhé paøáty.}
 {103}{}{Vítej, èlovìku.}
@@ -9,14 +9,14 @@
 {108}{}{Zdravím, kdopak jsi?}
 {109}{}{Co tu dìláš?}
 {110}{}{Nechci urazit tvé kamarády páraèe, ale ty zníš docela... vzdìlanì.}
-{111}{}{Nijak, jen zabíjím nudu.}
+{111}{}{Jen se tak dívám.}
 {112}{}{Øíkají mi Valdis. A ty jsi?}
 {113}{}{Já èlovìk.}
 {114}{}{Óóóó! Támhle nìco blýskat. Já jít.}
 {115}{}{Hele, já tu pokládám otázky.}
-{116}{}{Musím jít.}
+{116}{}{Už musím jít.}
 {117}{}{Tìší mì, já jsem}
-{118}{}{To je jedno.}
+{118}{}{Chápu.}
 {119}{}{Momentálnì hlídám tuto oblast vaultu proti neoprávnìnému vniknutí.}
 {120}{}{Co být 'neoprávnìné'?}
 {121}{}{Eh... jistì.}
@@ -31,7 +31,7 @@
 {130}{}{Promiò. Dám si pøíštì pozor na jazyk.}
 {131}{}{Ano. Ve vzdìlanosti se pomìrnì dost odlišujeme. Snažím se na sobì pracovat ve svém volném èase.}
 {132}{}{Odhodlaná ještìrka. Fakt srandovní.}
-{133}{}{Jde ti to dobøe.}
+{133}{}{Jde ti to fajn.}
 {134}{}{To je skvìlý cíl. Jen tak dál.}
 {135}{}{Cože? Moc dobøe vím, že jsi èlovìk. Tázal jsem se na tvé jméno.}
 {136}{}{Neptat jméno, ptát 'kdo jsi.' Já být èlovìk.}
@@ -39,15 +39,14 @@
 {138}{}{Nìkdo volat já. Muset jít.}
 {139}{}{Aha. Tak to zkusíme jinak. Ahoj, já jsem Valdis. Jak se jmenuješ ty?}
 {140}{}{Já}
-{141}{}{Pápá.}
+{141}{}{Nashle.}
 {142}{}{Neoprávnìná osoba, to znamená 'èlovìk, co tu nemá co pohledávat.'}
-{143}{}{Aha. Já rozumìt.}
+{143}{}{Dobøe. Rozumìt.}
 {144}{}{Já mít zase bolehlav. Já teï jít.}
 {145}{}{Mým úkolem je být co možná nejvíce trpìlivý, i teï, když jsi na mì hrubý. Jestli se ke mnì nebudeš chovat civilizovanì, tak prosím odejdi.}
 {146}{}{Promiò, pokusím se chovat civilizovanìji.}
 {147}{}{Jdi se vycpat.}
-{148}{}{Jistì.}
-{149}{}{Pøeji pìkný den.}
+{148}{}{Jooo.}
+{149}{}{Pøeju hezkej den.}
 {150}{}{Lituju toho, že tì musím zabít.}
-
 {151}{}{.}

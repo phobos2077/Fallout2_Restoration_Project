@@ -1,169 +1,169 @@
-{100}{}{You see a very tall and lanky trapper.}
-{101}{}{You see Slim Picket, the head of Trapper Town.}
-{110}{}{Well, mister, you sure don't look chewed up by those rats yet -- but you will if you keep
- pestering them. Just don't bring any back here with you.}
-{111}{}{Well, little missy, you sure don't look chewed up by those rats yet -- but you will if you keep
- pestering them. Just don't bring any back here with you.}
-{112}{}{Don't worry. I won't.}
-{113}{}{No, thanks to you.}
-{114}{}{Uh, ok.}
-{120}{}{I just don't want to have anything to do with those critters. I leave 'em alone and hope they'll
- do the same for me. Take care now.}
-{130}{}{Just be careful. Seems the deeper you go, the bigger they get back there.}
-{140}{}{Hello, tribal. My name's Slim Picket and you can talk to me about Trapper Town. We don't want
- any trouble here.}
-{141}{}{Hello there, friend. Nice of you to visit all of us here. My name's Slim Picket. I talk for
+{100}{}{Você vê um caçador alto e magricelo.}
+{101}{}{Você vê o Slim Picket, o cabeça de Trapper Town.}
+{110}{}{Bem, senhor, parece que você não foi mastigado por esses ratos ainda -- mas vai ser se continuar
+ os incomodando. Só não traga nenhum deles com você.}
+{111}{}{Bem, mocinha, parece que você não foi mastigado por esses ratos ainda -- mas vai ser se continuar
+ os incomodando. Só não traga nenhum deles com você.}
+{112}{}{Não se preocupe. Não vou.}
+{113}{}{Não vou.}
+{114}{}{Hã, certo.}
+{120}{}{Eu só não quero ter nada com essas criaturas. Eu as deixo em paz e espero que elas
+ façam o mesmo comigo. Tome cuidado agora.}
+{130}{}{Só tenha cuidado. Parece que quando mais fundo se vai, maior eles ficam.}
+{140}{}{Olá, tribal. Meu nome é Slim Picket. Você pode falar comigo sobre Trapper Town. Nós não queremos
+ problemas aqui.}
+{141}{}{Olá. Ficamos feliz por nos visitar. Meu nome é Slim Picket. Eu falo por
  Trapper Town.}
-{142}{}{Hello there Slim. My name's }
-{143}{}{. Why do you call this Trapper Town?}
-{144}{}{Do you know where I could find something called a Garden of Eden Creation Kit?}
-{145}{}{Nice to meet you, Mr. Picket. I'm just looking around for now, though. Goodbye.}
-{150}{}{Hello there, my name's Slim Picket. I speak for this part of town. }
+{142}{}{Olá Slim. Meu nome é }
+{143}{}{. Por que vocês a chamam de Trapper Town?}
+{144}{}{Você sabe onde eu posso achar algo chamado Garden of Eden Creation Kit?}
+{145}{}{Prazer em conhecê-lo, Sr. Picket. Só estava de passagem. Tchau.}
+{150}{}{Olá, meu nome é Slim Picket. Eu falo por essa parte da cidade.}
 {151}{}{Gruk.}
 {152}{}{Ook, oople.}
-{153}{}{(point at self) Me }
-{154}{}{, me hungry}
-{160}{}{Say, your antenna don't pick up all the channels do it? Well, I tell you what. Here's
- a key to that door behind me. There's all kinds of rats back there - even one big
- one s'posedly. You go through there and kill all the dang rats you can eat. How's that?}
-{161}{}{That big ol' rat that was bothering everyone hereabouts seems to have disappeared. But
- I don't reckon that an idjit like you had anything to do with it.}
-{162}{}{OK. Heh, heh, rat kill. Heh, heh, heh.}
-{163}{}{No! Rats scaaarrrry! No. Me go now.}
-{170}{}{What the heck do you want this time?}
-{171}{}{Hi there. How can I help you out?}
-{172}{}{I think I need a key to get into the north part of Trapper Town.}
-{173}{}{I've got some questions that I wanted to ask you.}
-{174}{}{I guess I don't need anything. Goodbye.}
-{180}{}{Well, this here part of town is where all of us trappers live when we're not out trapping
- geckos. Only problem about the free digs are the rats on the north side. But we have most of the
- entrances to that part of the mall barricaded pretty good.}
-{181}{}{What did you want to know about?}
-{182}{}{Do you ever go to the north side?}
-{183}{}{Tell me about trapping geckos.}
+{153}{}{(apontar pra você mesmo) Mim }
+{154}{}{, mim com fome}
+{160}{}{Sua antena não pega todos os canais, pega? Bem, vou te contar uma coisa. Aqui está
+ a chave daquela porta atrás de mim. Tem todos os tipos de rato lá atrás - até um
+ gigante. Vá até lá e mate todos os malditos ratos que possa comer. O que acha?}
+{161}{}{Aquele rato enorme que estava incomodando todo mundo parece ter desaparecido. Mas
+ eu não acho que um idiota como você tenha algo a vem com isso.}
+{162}{}{Certo. He, he, matar ratos. He, he, he.}
+{163}{}{Não! Ratos assutar eu! Não. Mim ir agora.}
+{170}{}{O que diabos você quer agora?}
+{171}{}{Olá. Como posso ajudar?}
+{172}{}{Eu quero a chave pra poder ir na zona norte da cidade.}
+{173}{}{Eu gostaria de te perguntar algumas coisas.}
+{174}{}{Acho que não preciso de nada. Tchau.}
+{180}{}{Bem, essa parte da cidade é onde todos nós caçadores vivemos quando não estamos caçando
+ geckos. O único problema são os ratos no norte da cidade. Mas nós temos a maioria das
+ entradas pra lá muito bem barricadas.}
+{181}{}{O que você quer saber?}
+{182}{}{Você já foi pro norte da cidade?}
+{183}{}{Me conte sobre caçar geckos.}
 {184}{}{Você sabe alguma coisa sobre um Kit de Criação do Jardim do Éden?}
-{185}{}{You sure have a lot of cars here.}
-{186}{}{Rats? Tell me more about rats.}
-{187}{}{Thanks for the info. I don't think I need to know about anything else. Goodbye.}
-{190}{}{Oh, you mean a GECK. huh? Well, I saw an ad for one of those in an old magazine. But I don't
- think they exist anymore. Certainly not around here, anyplace.}
-{191}{}{Really? Well, tell me about something else then.}
-{192}{}{Oh, well; that's all I wanted to know. Thanks.}
-{200}{}{You want the key to the north side of Trapper Town? What do you want that for?}
-{201}{}{You still want that key? Why?}
-{202}{}{I'm an explorer; I want to explore everyplace I can. Besides, maybe there's a GECK forgotten
- on a back shelf in there.}
-{203}{}{I'm going to help you with your rat problem.}
-{204}{}{I just want to try to get to that car on the other side of the fence.}
-{205}{}{I'd be willing to give anything to get that key. I really want to get to the other side of
+{185}{}{Vocês tem um monte de carros aqui, hein?}
+{186}{}{Ratos? Me conte sobre esses ratos.}
+{187}{}{É só isso. Até mais.}
+{190}{}{Ah, você está falando do GECK, hein? Bem, eu vi um anúncio numa dessas revistas velhas. Mas eu não
+ acho que existam mais. Pelo menos por aqui.}
+{191}{}{Sério? Bem, fale-me sobre outra coisa então.}
+{192}{}{Hum... é tudo o que eu queria saber. Tchau.}
+{200}{}{Você quer a chave para o norte de Trapper Town? Pra quê?}
+{201}{}{Você ainda que aquela chave? Por que?}
+{202}{}{Eu sou um explorador; quero explorar todo lugar que puder. Além disso, talvez tenha um GECK esquecido
+ em alguma prateleira por lá.}
+{203}{}{Eu vou te ajudar com seu problema dos ratos.}
+{204}{}{Eu só quero tentar chegar naquele carro do outro lado da cerca.}
+{205}{}{Eu daria qualquer coisa por essa chave. Eu realmente quero ir pro outro lado de
  Trapper Town.}
-{206}{}{I guess I wouldn't want a key. It sounds as though it's pretty dangerous over there.}
-{210}{}{Well, OK, here's the key. Just don't go stirring up too much trouble back there, and make sure
- you close the door behind you.}
-{211}{}{What a hoot! I sure needed that, sweetheart. You just make sure that nothing happens to that
- pretty little tail of yours, now. (heh, hee, hee)}
-{212}{}{Thanks for the key, Slim. Before I go, I have some questions for you.}
-{213}{}{Thanks, Slim. I'll make sure the door's closed behind me. Goodbye.}
-{220}{}{If you want the key, you're going to have to buy it from me.}
-{221}{}{I don't mind trading for the key.}
-{222}{}{I don't want to trade for the key. It won't cost you anything to let me borrow it. I'll make
- sure to close the door after myself.}
-{223}{}{If you let me have the key, I'm sure that you'll have fewer rats to worry about after I use it.}
-{224}{}{I don't think I want the key. Goodbye.}
-{230}{}{I guess you got what you wanted. Just be careful now.}
+{206}{}{Acho que não quero mesmo essa chave. Parece muito perigoso do outro lado.}
+{210}{}{Bem, certo, aqui está a chave. Só não faça muita bagunça por lá. E tenha certeza
+ de que trancou a porta quando passar.}
+{211}{}{Beleza! Eu queria muito isso, docinho. Apenas garanta que nada aconteça com esse
+ seu lindo traseiro..(heh, hee, hee)}
+{212}{}{Valeu pela chave, Slim. Antes de ir, eu tenho algumas perguntas pra você.}
+{213}{}{Beleza. Pode deixar que eu tranco a porta. Tchau.}
+{220}{}{Se você quer a chave, você vai ter que comprá-la de mim.}
+{221}{}{Eu não ligo em fazer uma troca pela chave.}
+{222}{}{Eu não quero uma troca pela chave. Não vai custar nada em pegar emprestada. Pode deixar
+ que eu tranco a porta depois que passar.}
+{223}{}{Se você me der a chave, tenho certeza que terá menos ratos pra te preocupar depois de eu usá-la.}
+{224}{}{Acho que eu não quero a chave mesmo. Tchau.}
+{230}{}{Você tem o que queria. Tome cuidado agora.}
 {231}{}{Obrigado.}
-{232}{}{You drive a hard bargain. I hope it was worth it.}
-{240}{}{Well, I guess you didn't need that key as much as you thought, huh? You sure you got what you
- wanted?}
-{241}{}{Oops; I knew there was something else I wanted.}
-{242}{}{Hey, Slim, I have a couple of things that I wanted to ask you about.}
-{243}{}{I don't need anything else from you. Thanks anyhow.}
-{250}{}{We blocked off all the entrances to the north side of town except one. I have a key to that one
- entrance -- just in case anyone needs to get over there for any reason. I can't figure out why anyone
- would want to, though; I sure wouldn't.}
-{251}{}{Interesting; tell me something else.}
-{252}{}{I'm interested in getting that key from you.}
-{253}{}{That's all I need to know for now. Goodbye.}
-{260}{}{You're interested in trapping, huh? (He looks you up and down.)}
+{232}{}{Foi uma boa barganha. Espero que tenha valido a pena.}
+{240}{}{Bem, eu acho que você não precisava tanto daquela chave como pensou, hein? Tem certeza de que conseguiu
+ o que queria?}
+{241}{}{Opa; eu sabia que tinha mais uma coisa que eu queria.}
+{242}{}{Ei, Slim, eu tenho algumas coisas que gostaria de te perguntar,}
+{243}{}{Não preciso de mais nada. Tchau.}
+{250}{}{Nós bloqueamos todas as entradas para o norte da cidade, com excessão de uma. Eu tenho a chave para essa
+ entrada -- apenas para o caso de alguém precisar ir pra lá por algum motivo. Não consigo imaginar por que alguém iria
+ querer ir lá.}
+{251}{}{Interessante; eu tenho outras perguntas.}
+{252}{}{Estou interessado em pegar essa chave de você.}
+{253}{}{É tudo o que eu queria saber agora. Tchau.}
+{260}{}{Você está interessado em armadilhas, hein? (Ele te olha de cima em baixo)}
 {261}{}{[MAIS]}
-{270}{}{I don't think I'd try it if I were you. You might get your hands all dirty and callused.
- (heh, hee, hee) Anything else you want to know about?}
-{271}{}{Well, I sure wouldn't want to get my hands dirty. Tell me something else.}
-{272}{}{I sure wish I was as skillful a trapper as you are. I bet you could teach me a lot.}
-{273}{}{That's all I need to know for now. Goodbye.}
-{280}{}{Well, now you look like you could handle yourself. Geckos come in two types -- regular or
- golden. The regular ones are easy to trap and hunt, but the golden ones are worth more money.}
-{281}{}{Tell me more about the golden geckos.}
-{282}{}{Interesting. Tell me something else.}
-{283}{}{That's all I need to know for now. Goodbye.}
-{290}{}{The golden ones are sneaky and twice as vicious as the regular ones. Plus, once they bite you
- they'll hold on and gnaw through to the bone. And that's not even counting their poison. But their
- hides look real nice, and so they're worth a lot more. }
+{270}{}{Eu não faria isso se fosse você. Você ficaria com as mãos sujas e cheias de calos.
+ (heh, hee, hee) Mais alguma coisa que gostaria de saber?}
+{271}{}{Bem, eu realmente não quero minhas mãos sujas. Conte-me outra coisa.}
+{272}{}{Eu gostaria muito de ser tão habilidoso como você na arte das armadilhas. Acho que você poderia me ensinar muito.}
+{273}{}{É tudo o que eu queria saber agora. Tchau.}
+{280}{}{Bem, agora você parece estar interessado. Os Geckos vêm em dois tipos -— normais e
+ dourados. Os normais são fáceis de serem capturados, mas os dourados valem mais dinheiro.}
+{281}{}{Fale-me sobre os geckos dourados.}
+{282}{}{Interesante. Conte-me outra coisa.}
+{283}{}{É tudo o que eu queria saber agora. Tchau.}
+{290}{}{Os geckos dourados são cautelosos e duas vezes mais ferozes do que os normais. Além da mordida
+ deles te segurar e perfurar até o osso. E isso sem falar do veneno. Mas suas
+ peles são muito boas e valem muito dinheiro.}
 {291}{}{Conte-me mais.}
-{300}{}{One real good trapper, name of Smiley, went north looking for wherever they come from. He was
- convinced that they all came from one place. Thing is, nobody's heard from him for a couple months now.}
-{301}{}{What do you think happened to him?}
-{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
- Buckner runs Buckner house, y'know.}
-{311}{}{Interesting. Tell me something else.}
-{312}{}{That's all I need to know for now. Goodbye.}
-{320}{}{We have a whole lot full of cars. All ready for their owners to come back from shopping. Thing
- is, they never did. Not a dang one of 'em runs, though. There's a real beauty of a Chrysalis Motors
- Highwayman just east of here, but I haven't figured out how to get to it, yet.}
-{321}{}{A Highwayman? Interesting. Tell me about something else.}
-{322}{}{That's all I need to know for now. Goodbye.}
-{330}{}{Well, they taste pretty good if you spit-roast 'em with just a pinch of herbs. But most of the
- time they can be a real nuisance, and they're getting worse. We've barricaded the north part of the
- mall -- well, Trapper Town, that is -- but they're sneaking through anyway. There's one door right here
- behind my room, but I have it locked.}
-{331}{}{At home, mom just used to pan-fry them with a little butter. But, tell me more about the rat
- attacks.}
-{332}{}{Interesting. Tell me about something else.}
-{333}{}{That's all I need to know for now. Goodbye.}
-{335}{}{Well they taste pretty good if you spit-roast 'em with just a titch of herbs. But most
- of the time they can be a real nuisance, and they're getting worse. We've barricaded
- the north side of town but they're sneaking through anyway. There's one door to the north side, right here, but
- I have it locked.}
-{336}{}{Well, there used to be a real bad rat problem hereabouts, but lately, there jist ain't so
- many rats about. It's like they all got skeered and bugged outa here.}
-{337}{}{At home mom just used to pan-fry them with a little butter. But, tell me more about
- the rat attacks.}
-{340}{}{People been disappearing. Just them that are slow and sickly, for now. 'Course, they
- don't stop to cook their food like us. They just gnaw it into a few bloody clumps of hair and
- rags. Least that's all we find in the morning. I've even heard talk that there's some kind of
- giant rat god that tells 'em all what to do.}
-{341}{}{Interesting. Maybe someone should do something about that. Say, do you have a key to
- the north side of Trapper Town?}
-{342}{}{Interesting. Tell me about something else.}
-{343}{}{That's all I need to know for now. Goodbye.}
-{350}{}{Well, you ain't that pretty, but it's sure been a long time. I guess I could give you the key
- as long as you give me what I need. (heh, hee, hee)}
-{351}{}{Well, you sure are a pretty li'l thing, ain't you? I'm sure we can get you that key you want.
- You just have to give me something I want. (heh, hee, hee)}
-{352}{}{OK, but I just hope they call you Slim because of your height.}
-{353}{}{Uh, that's not exactly what I had in mind.}
-{354}{}{Wipe that leer off your face. I think I just better leave before you get hurt. Goodbye.}
-{360}{}{I could teach you something about the outdoors. But it's going to cost you $100.}
-{361}{}{I'm always happy to share my skill with others. I can teach you some tricks for only $50.}
-{362}{}{Well, you better have a lot to teach me for that.}
-{363}{}{That's a lot of money. Just tell me what you know about other things.}
-{364}{}{I don't think I need to learn anything right now. Goodbye.}
-{370}{}{Your tribe are mostly farmers aren't they? I don't think I could teach you a darn thing.}
-{371}{}{I'm that good already, huh? Well, tell me about something else then.}
-{372}{}{I think I'll be going then. Goodbye.}
-{380}{}{Well, that ought to have learned you a thing or three about the great out-of-doors. Hope you
- can put it to good use. Remember about the scat now.}
-{381}{}{You're right. Old scat doesn't taste near the same as fresh. Thanks, Slim. Now tell me more
- about those geckos.}
-{382}{}{Thank you for all the tips, Slim, but I still think just smelling the scat is good enough. I
- was wondering about something else, though.}
-{383}{}{Thanks for the information, Slim. I'm going to go and practice right now. Goodbye.}
-{390}{}{Tell me about those rats.}
-{400}{}{You shore took the fight outta them rats.}
-{401}{}{Hello there. Nice to live in a rat-free envi-ro-ment.}
-{402}{}{Yup. Fewer rats 'an ever now.}
-{403}{}{Wonder what happened to the rats?}
-{404}{}{Good riddance to rodent rubbish.}
+{300}{}{Um bom caçador, chamado Smiley, foi pro norte procurar de onde eles vêm. Ele estava
+ convencido de que todos eles vêm de um só lugar. O problema é; ninguém ouviu falar mais dele há meses.}
+{301}{}{O que você acha que aconteceu com ele?}
+{310}{}{Talvez ele tenha achado o lugar de onde eles vêm e foi comido. (heh, hee, hee) Mas vou te contar uma
+ coisa; a sra. Buckner teve o coração partido quando ele não voltou mais. Sabe, ela era a mulher dele. Ela
+ controla a Buckner house, sabe.}
+{311}{}{Interesante. Conte-me outra coisa.}
+{312}{}{É tudo o que eu queria saber agora. Tchau.}
+{320}{}{Nós temos um estoque repleto de carros. Todos prontos pros seus donos voltarem das compras. A questão
+ é: eles nunca voltam. Nenhum deles anda mais. Tem um belo de um Chrysalis Motors
+ Highwayman a leste daqui, mas não sei como chegar lá, ainda.}
+{321}{}{Um Highwayman? Interessante. Conte-me outra coisa.}
+{322}{}{É tudo o que eu queria saber agora. Tchau.}
+{330}{}{Bem, eles são gostosos quando se faz um churrasquinho com ervas deles. Mas na maioria das
+ vezes eles são muito chatos e estão ficando piores. Nós fizemos barricadas no norte do
+ shopping -- bem, Trapper Town, é isso -- mas eles passam despercebidos de qualquer jeito. Há uma porta bem aqui
+ atrás do meu quarto, mas eu tranquei.}
+{331}{}{Em casa, mamãe costumava fritá-los com um pouco de manteiga. Mas, conte-me mais sobre os ataques
+ de ratos.}
+{332}{}{Interessante. Conte-me outra coisa.}
+{333}{}{É tudo o que eu queria saber agora. Tchau.}
+{335}{}{Bem, eles são gostosos quando se faz um churrasquinho com ervas deles. Mas na maioria das
+ vezes eles são muito chatos e estão ficando piores. Nós fizemos barricadas no norte do
+ shopping mas eles passam despercebidos de qualquer jeito. Há uma porta bem aqui
+ no norte da cidade, mas eu tranquei.}
+{336}{}{Bem, tinhamos um problema sério com ratos por aqui, mas recentemente, não há tantos
+ ratos. Parece que eles se cansaram e cascaram o fora daqui.}
+{337}{}{Em casa, mamãe costumava fritá-los com um pouco de manteiga. Mas, conte-me mais sobre os ataques
+ de ratos.}
+{340}{}{As pessoas estão desaparecendo. Por enquanto somente os que são lentos e doentes. Claro, eles
+ não param pra cozinhar sua comida como nós. Eles apenas roem até que reste sangue, chumaços de cabelo e
+ trapos. Pelo menos é o que encontramos de manhã. Ouvi falar que há um tipo de
+ deus-rato gigante que os diz o que fazer.}
+{341}{}{Interessante. Talvez eu possa fazer algo sobre isso. E aí, você tem a chave pro
+ norte de Trapper Town?}
+{342}{}{Interessante. Conte-me outra coisa.}
+{343}{}{É tudo o que eu queria saber agora. Tchau.}
+{350}{}{Bem, você não muito bonita, mas já faz muito tempo... acho que eu poderia te dar a chave
+ se você me der o que eu preciso. (heh, hee, hee)}
+{351}{}{Bem, você é uma belezinha, não é? Tenho certeza que podemos conseguir a chave que você quer.
+ Você só tem que me dar algo que eu quero. (heh, hee, hee)}
+{352}{}{Certo, mas eu só espero que eles te chamem de Slim por causa do seu tamanho.}
+{353}{}{Hã, isso não é o que eu tinha em mente.}
+{354}{}{Tire esse olhar malígno do seu rosto. Acho melhor eu ir embora antes que você se machuque. Tchau.}
+{360}{}{Eu poderia te ensinar algo sobre outdoors. Mas vai te custar $100.}
+{361}{}{Estou sempre disposto a dividir minhas habilidade com os outros. Eu posso te ensinar alguns truques por apenas $50.}
+{362}{}{Bem, é melhor ter muito a me ensinar por essa quantia.}
+{363}{}{Isso é muito dinheiro. Apenas me conte o que sabe sobre outras coisas.}
+{364}{}{Acho que não preciso aprender nada agora. Tchau.}
+{370}{}{Sua tribo deve ter muitos fazendeiros, não é? Acho que não conseguiria te ensinar nada.}
+{371}{}{Eu já sou tão bom assim? Bem, conte-me outra coisa então.}
+{372}{}{Acho que vou indo então. Tchau.}
+{380}{}{Bem, isso deve ter te ensinado uma ou duas coisas sobre great out-of-doors. Epero que você
+ faça bom uso. Lembre-se do excremento.}
+{381}{}{Você tem razão. O gosto de excremento velho não é o mesmo de um fresco. Valeu, Slim. Agora conte-me mais
+ sobre esses geckos.}
+{382}{}{Valeu pelas dicas, Slim, mas ainda acho que só cheirar excremento já é o suficiente. Eu
+ estava pensando em outra coisa, no entanto.}
+{383}{}{Agradeço a informação, Slim. Irei praticar agora mesmo. Tchau.}
+{390}{}{Fale-me sobre esses ratos.}
+{400}{}{Você realmente acabou com os ratos.}
+{401}{}{Olá. É bom viver em um ambiente livre de ratos.}
+{402}{}{É... menos ratos a partir de agora.}
+{403}{}{Imagina algo que tenha acontecido com os ratos?}
+{404}{}{Acabaram-se os roedores.}
 {405}{}{You're jist a regular Pied Piper, ain't cha? Thankee.}
-{406}{}{No way. I will only trade this here key for something you got. No fast talk.}
+{406}{}{Sem chances. Eu só troco essa chave por algo que você tenha. Sem conversa mole.}

@@ -9,7 +9,7 @@
 {108}{}{Don't talk to me! I don't want another beating.}
 {109}{}{Damn cheap whiskey! You know, they serve the worst liquor here.}
 {110}{}{Shit! I didn't mean to spill my drink on you. Let me clean that up. Sorry, sorry.}
-{111}{}{Stay away from me!}
+{111}{}{Fique longe de mim!}
 {112}{}{I've heard about you. Please don't hit me.}
 {113}{}{New in town? Word is Merk's looking for some tough hombres.}
 {114}{}{What are you, some kind of tough guy? Get outta my face!}

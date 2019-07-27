@@ -1,18 +1,14 @@
 {100}{}{Vidíš aktivní poèítaèový terminál.}
 {101}{}{Pøi bližším prozkoumání terminálu si všimneš loga "I*tel Inside".}
 {102}{}{Nedokážeš pøeèíst text na obrazovce.}
-
-#NPC is unable to read what is on the monitor
-{200}{}{ nedokáže pøeèíst text na obrazovce.}
-
 {103}{}{Hlavní zdroj = Offline                                           Záložní zdroj = Online                                          Znovuzavedení bezpeènostního programu                  Upozornìní! - Nedostatek energie - Silová pole na 50%       Konec nahrávání...                                                     Skynet - Bezpeènostní kontrola 1                                 Prosím zadejte heslo:_}
 {104}{}{Skynet - Bezpeènostní kontrola 1                             Prosím zadejte heslo:_}
-{105}{}{Èajkovskij.}
+{105}{}{Tchaikovsky.}
 {106}{}{Sezame, otevøi se!}
 {107}{}{Sierra.}
 {108}{}{Armageddon.}
 {109}{}{Hacknout se do systému.}
-{110}{}{Nemám tušení. Konec.}
+{110}{}{Nemáš tušení. Konec.}
 {113}{}{Silová pole deaktivována - Patro 1.}
 {115}{}{Konec.}
 {117}{}{Pøístup k tomuto terminálu byl ukonèen.}
@@ -35,8 +31,8 @@
 {137}{}{Nemá to cenu, tento program je na tebe pøíliš složitý.}
 {138}{}{Tvoje nezkušenost zpùsobila spuštìní poplašného systému.}
 {139}{}{Konec.}
-
-{300}{}{Zdá se, že má poèítaè jakýsi obranný mechanismus.}
+{200}{}{ nedokáže pøeèíst text na obrazovce.}
+{300}{}{Vypadá to, že je v poèítaèi nìjaký obranný mechanismus.}
 {301}{}{Dostáváš ránu a ztrácíš }
 {302}{}{ dostává ránu a ztrácí }
 {303}{}{ hit bodù.}

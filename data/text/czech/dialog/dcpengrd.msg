@@ -1,13 +1,7 @@
-# 0. Look
 {100}{}{Vidíš otrokáøe.}
-
 {150}{}{Vypadá velmi ostražitì.}
-
-# 1. Messed with Door 2nd Time
 {200}{}{Dotkni se toho ještì jednou a pøijdeš o ruku.}
 {201}{}{Tak dost!}
-
-# 2. CF: Not Slaver
 {210}{}{Tam vzadu nic není, jenom otroci.}
 {211}{}{Otroci nemají návštìvy.}
 {212}{}{Jen èlenové našeho cechu mùžou projít tìmito dveømi.}
@@ -15,8 +9,6 @@
 {214}{}{Promluv si s Metzgerem. Ohrady pro otroky nejsou volnì pøístupné.}
 {215}{}{Co se tady motáš kolem? Vypadni.}
 {216}{}{Vypadni odsud, dìvko. Otroci nemají žádné návštìvy.}
-
-# 3. CF: Slaver
 {230}{}{Jak to jde, kámo?}
 {231}{}{Dneska se to vleèe.}
 {232}{}{Doufám, že se ti v cechu líbí.}

@@ -1,8 +1,8 @@
 {100}{}{Vidíš poèítaèovı terminál.}
 {101}{}{Vidíš biologickou pracovní stanici.}
 {102}{}{Vidíš funkèní poèítaèovı terminál.}
-{103}{}{Zdravím. Prosím potvrïte vaši identitu.}
-{104}{}{(Jééé! Bliká tu spousta svìtılek!)}
+{103}{}{Zdravím. Prosím potvrïte vaši totonost.}
+{104}{}{(Jùùùù! Podívat na blikající svìtla!)}
 {105}{}{::hádat heslo::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
 {107}{}{::hacknout se do poèítaèe::}
@@ -12,11 +12,11 @@
 {111}{}{Genetickı program.}
 {112}{}{Xeno program.}
 {113}{}{Poslední záznamy posádky.}
-{114}{}{Vypnout stanici.}
+{114}{}{Deaktivovat pracovní stanici.}
 {115}{}{Nesprávné heslo. Prosím, obrate se na správce systému. Nashledanou.}
 {116}{}{::hacknout se do poèítaèe::}
 {117}{}{::odejít::}
-{118}{}{Vetøelec! Aktivován poplach. Systém se vypíná. Pøeji hezkı den.}
+{118}{}{Zaznamenán nepovolenı pøístup. Automatické vypnutí. Pøeji hezkı den.}
 {119}{}{[KONEC]}
 {120}{}{(Po dvaceti minutách hledání se ti podaøilo objevit toto: Poèáteèní vısledky rušení radiace pomocí rostlin se ukázaly jako málo slibné. Dr. Sheng vyvinul rostlinnı ivot odolnı proti radiaci -- s nepøíjemnımi vedlejšími úèinky. Vıslednı rostlinnı ivot je povaován za pøíliš nebezpeènı. Sheng trvá na dalším zkoumání v kombinaci s genetickım programem.)}
 {121}{}{Genetickı program.}
@@ -44,8 +44,6 @@
 {141}{}{Aktivovat stanici.}
 {142}{}{Odejít.}
 {143}{}{(Tvoje metoda bušení do klávesnice naukala správné heslo... máš neuvìøitelné štìstí!)}
-{144}{}{VÍCE}
-
-
+{144}{}{[Více]}
 {145}{}{Poèítaè nereaguje na ádnou klávesu.}
 {146}{}{Nemáš tušení kam to vloit.}

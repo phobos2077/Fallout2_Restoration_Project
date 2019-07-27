@@ -1,14 +1,13 @@
 {100}{}{Vidíš staršího shrbeného muže.}
 {101}{}{Tento vetchý, starý muž páchne potem a pravdìpodobnì i moèí. Je odìn do potrhaných zablácených hadrù a nese lopatu.}
 {102}{}{Vidíš Toma.}
-
 {200}{}{(Starý muž sebou leknutím škubne, když se k nìmu pøiblížíš.) Eh, poslyš, už musím opravdu jít...}
 {201}{}{Ne tak zhurta. (Chytíš ho za rameno, když se snaží odejít.) Kdo jsi a co tady dìláš v tuhle hodinu?}
 {202}{}{Cože? Proè, eh...jmenuju se Tom. To už si starej chlap jako já ani nemùže užít pùlnoèní procházku bez toho, aniž by se ho nìkdo na nìco vyptával?}
 {203}{}{Ne, když se tu plíží kolem jako nìjaký zlodìj a v ruce drží lopatu.}
 {204}{}{No dobøe, ale proè neseš tu lopatu?}
 {205}{}{To je jedno, mizím odsud.}
-{206}{}{Zapomeò na to. Promiò, že obtìžuju.}
+{206}{}{Zapomeò na to. Omlouvám se za obtìžování.}
 {207}{}{Myslíš tuhle starou vìc? (Pohlédne dolù na silnì zrezivìlou lopatu, kterou drží v ruce.) No, eh, nikdy nevíš, kdy narazíš na nìco zajímavého k vykopání. Vždy pøipraven, to je moje heslo.}
 {208}{}{Nìco zajímavého k vykopání, jo? Myslíš jako nìco v hrobì?}
 {209}{}{To je opravdu dobré heslo. Dobøe, mìj se.}
@@ -26,7 +25,6 @@
 {221}{}{(Starému muži se rozzáøí oèi.) To vùbec nezní jako špatný nápad. Hej, dìkuju. Možná, že tenhle svìt není až tak krutý, jak jsem si myslel.}
 {222}{}{Mìj se, Tome. Pozdìji se za tebou zastavím a podívám se, jak se ti vede.}
 {223}{}{Doufám, že ten Peterson je opravdu tak pøátelský jak øíkáš.}
-
 {300}{}{Vidíš Toma. Má na sobì nové pracovní obleèení a radostnì si píská.}
 {301}{}{Zdravím! Páni, mìl jsi pravdu. Ten Peterson je opravdu hodný èlovìk. Odpustil mi všechno, co jsem udìlal a dokonce mi nabídl práci tady na poli. Nejdøív musím splatit, co jsem vzal, ale potom zaènu dostávat každý týden výplatu. Ještì jednou ti dìkuju za tvou ochotu.}
 {302}{}{Nemáš zaè, Tome. Mìj se.}
@@ -34,15 +32,11 @@
 {304}{}{Díky, Tome. Urèitì ho nìjak využiju. Tak zatím.}
 {305}{}{(Starý muž pøikývne a vrátí se zpìt ke své práci.)}
 {306}{}{[KONEC]}
-
 {307}{}{Ahoj. Rád tì zase vidím. Díky za všechno!}
 {308}{}{*Pískání*}
-
 {400}{}{Vy mladí se nikdy nepouèíte. Nejsi mùj šéf. Myslím, že tì prostì odprásknu.}
-
 {450}{}{Poslyš, také jsem vykopal pár hrobù. Jsem tak trochu kleptoman. Jaký je tvùj dùvod?}
 {451}{}{Vykrádání hrobù mi také není cizí, Tome. Každý muž má své záliby. A teï odejdi.}
-
 {1000}{}{Podaøilo se ti zjistit, kdo vykopává hroby a díky tobì má teï Tom nový život.}
 {1001}{}{Podaøilo se ti zjistit, kdo vykopává hroby.}
 {1002}{}{Už jdu. Není tøeba spìchat na starého èlovìka.}

@@ -19,7 +19,7 @@
 {119}{}{Educated}
 {120}{}{Healer}
 {121}{}{Fortune Finder}
-{122}{}{Better Criticals}
+{122}{}{Melhores Críticos}
 {123}{}{Empathy}
 {124}{}{Slayer}
 {125}{}{Sniper}
@@ -116,9 +116,9 @@
 {216}{}{Auto-Doc Lowered hit points II}
 {217}{}{Expert Excrement Expeditor}
 {218}{}{Weapon Enhanced Knockout}
-{219}{}{Jinxed}
+{219}{}{Azarado}
 {220}{}{Alcohol Addiction}
-{221}{}{Smoker}
+{221}{}{Fumante}
 {1101}{}{With Awareness, you are given detailed information about any critter you examine. You see their exact hit points and information about any weapon they are equipped with.}
 {1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand or melee attacks cost 1 AP less to perform.}
 {1103}{}{Experience in unarmed combat has given you the edge when it comes to damage. You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}

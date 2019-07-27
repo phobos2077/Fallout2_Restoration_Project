@@ -1,6 +1,6 @@
-{100}{}{A computer terminal.}
+{100}{}{Um terminal de computador.}
 {101}{}{This computer seems to have a camera mounted on it.}
-{102}{}{You are unable to read what's on the monitor.}
+{102}{}{Você é incapaz de ler o que está no monitor.}
 {103}{}{[A small camera swivels in your direction.]
                    Skynet Security System
                                   Overriding Security Terminal - Level 3
@@ -16,7 +16,7 @@
 {110}{}{I'm Corporal Dixon.}
 {111}{}{Eu sou }
 {112}{}{Urg!}
-{113}{}{[You are unable to read what's on the monitor.]}
+{113}{}{[Você é incapaz de ler o que está no monitor.]}
 {114}{}{Error!
                                                                 No program files present
                                             Please reboot}
@@ -67,8 +67,8 @@
 {141}{}{}
 {142}{}{}
 {143}{}{Sair.}
-{200}{}{ is unable to read what's on the monitor.}
-{300}{}{The computer seems to have some sort of defense mechanism.}
+{200}{}{ é incapaz de ler o que está no monitor.}
+{300}{}{O computador parece ter um mecanismo de defesa.}
 {301}{}{You are shocked for }
 {302}{}{ is shocked for }
 {303}{}{ pontos de dano.}

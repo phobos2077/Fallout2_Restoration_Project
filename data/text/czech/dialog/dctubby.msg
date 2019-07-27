@@ -1,6 +1,5 @@
 {100}{}{Vidíš majitele obchodu.}
 {101}{}{Vidíš Tubbyho.}
-
 {150}{}{Tohle je majitel obchodu.}
 {151}{}{Tohle je Tubby, majitel obchodu.}
 {152}{}{[MLUVIT]}
@@ -27,7 +26,7 @@
 {173}{}{Proè tu všichni prodávají drogy?}
 {174}{}{Nevíte, kde se nachází Vault?}
 {175}{}{Vlastnì chci obchodovat.}
-{176}{}{Už nic. Nashle.}
+{176}{}{Ale nic. Nashle.}
 {177}{}{Ach jo. Myslím, že budeme mít problém s komunikací. Kývnìte prosím, jestli máte nìjaké zboží na výmìnu.}
 {178}{}{[Kývnout]}
 {179}{}{Pápá.}
@@ -41,21 +40,15 @@
 {187}{}{Zmìní sto babek váš názor?}
 {188}{}{Když vám dám $50, øeknete mi to?}
 {189}{}{Co byste øekl na tohle? Vy mi dáte tu informaci a já vám neudìlám další díru do hlavy.}
-{190}{}{Tak nic.}
+{190}{}{Zapomeò na to.}
 {191}{}{No, mùžu se ještì na nìco zeptat?}
 {192}{}{Jistì, taková suma by MOHLA pomoct zmìnit mùj názor, ale vy ji nemáte!}
 {193}{}{Asi se mi nìkde ztratila. Jdu se po ní podívat.}
 {194}{}{Myslím, že to nebude staèit.}
-
-#tell petey to hold on messages
 {500}{}{Jistì Petey. Hned tam budu.}
 {501}{}{Vydrž Petey!}
 {502}{}{Už jdu, už jdu.}
-
-#sell petey drug messages
 {510}{}{Tady máš, Petey.}
 {511}{}{Víš, Petey, mìl bys toho nechat.}
 {512}{}{Vezmi si to a vypadni odsud, Petey.}
-
-#added by killap
-{520}{}{Bylo mi potìšením s vámi obchodovat.}
+{520}{}{Rádo se stalo.}

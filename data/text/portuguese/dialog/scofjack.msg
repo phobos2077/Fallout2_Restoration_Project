@@ -59,5 +59,5 @@
 {158}{}{This isn't your fight. Leave me alone.}
 {159}{}{I either blow up or you kill me. What's it matter?}
 {160}{}{I'm not trying to hurt you! Just want them to remember...}
-{161}{}{You gain }
+{161}{}{Você ganhou }
 {162}{}{ experience points for taking care of Jack for Mira.}

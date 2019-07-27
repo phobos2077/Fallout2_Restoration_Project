@@ -41,7 +41,7 @@
 {140}{}{Ok. - Me ir.}
 {141}{}{Eu tenho perguntas.}
 {142}{}{All right. I'm off.}
-{143}{}{I'd like to ask you some questions.}
+{143}{}{Gostaria de fazer alguns perguntas.}
 {144}{tand7a}{Well, I got a little time to spare.}
 {145}{tand7b}{What do you want to know?}
 {146}{}{What you tell about Vault 15?}
@@ -152,7 +152,7 @@
 {251}{}{Tell me about the NCR please.}
 {252}{}{Deixe-me perguntar-lhe algo mais.}
 {253}{tand32}{Lord, I could talk about that forever and I just don't have the time. Here's a holodisk on the NCR. We make 'em to spread the good word.}
-{254}{}{Uh, thanks.}
+{254}{}{Hã, valeu.}
 {255}{tand33}{So, they finally got reasonable. I can bull the Congress into sending supplies and techs. You sure we can get into the vault?}
 {256}{}{Me sure. Lowlifes there but me kick ass.}
 {257}{}{Quite sure. There were some lowlifes there but I kicked their ass.}
@@ -177,7 +177,7 @@
 {276}{}{Maybe. What job?}
 {277}{}{I might be, what's the job?}
 {278}{tand38}{I'm Tandi, president of the New California Republic. Welcome to Shady Sands. I hear some pretty impressive things about you. No point in dancing. Got some business I want to discuss.}
-{279}{}{Uh, ok.}
+{279}{}{Hã, certo.}
 {280}{}{Fine, what can I do for you?}
 {281}{tand39}{You're back. So, you interested in a job or not?}
 {282}{}{Não.}

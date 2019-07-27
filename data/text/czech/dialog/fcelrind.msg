@@ -23,11 +23,10 @@
 {122}{}{Abych øekl pravdu, poøád se uèím tu hatmatilku.}
 {123}{}{Sláva Hubu!}
 {124}{}{Sláva Velkému Kruhu!}
-{125}{}{Poletíme na Quetzel!}
-{126}{}{Tìším se až poletím domù ke hvìzdám.}
+{125}{}{Poletíme ke Quetzelu!}
+{126}{}{Tìším se na cestu domù ke hvìzdám.}
 {127}{}{Prosím, neobtìžuj mì. Soustøeïuji své neurodyny.}
 {128}{}{Prosím, nepomíchej mi mé neurodyny.}
-
 {138}{}{Ale ne! Pronásledovatel!}
 {139}{}{Neosvícený!}
 {140}{}{Drž se dál od mne, zlé maso!}
@@ -40,7 +39,6 @@
 {147}{}{Èerné èasy jsou zase pøed námi!}
 {148}{}{Hvìzdný Otèe! Ušetøi mì pohany!}
 {149}{}{Za svoji zradu dostaneš co proto!}
-
 {150}{}{Miluji Hub.}
 {151}{}{Jsem rád, že jsem Hubologista.}
 {152}{}{Chci zaèít využívat svùj potenciál.}
@@ -57,7 +55,6 @@
 {163}{}{"Skuteèná" vìda je jenom snùško lží.}
 {164}{}{Neposlouchej to, co ti "vìdci" øeknou.}
 {165}{}{Jenom Hub a AHS-9 mají odpovìï.}
-
 {178}{}{Chvála Hvìzdnému Otci! Koneènì poletíme ke hvìzdám!}
 {179}{}{Planeto Quetzel, už letíme!}
 {180}{}{Všechna ta døina se nakonec vyplatila!}

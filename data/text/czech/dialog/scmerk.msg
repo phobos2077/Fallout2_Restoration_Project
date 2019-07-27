@@ -24,8 +24,8 @@
 {123}{}{Nedìlám prùvodce a nerozdávám drobnı. Odpal.}
 {124}{}{Co to má bejt? Myslíš, e jsem snad nìjaká linka dùvìry?}
 {125}{}{Jsem Merk. Co chceš?}
-{126}{}{Zase ty?}
-{127}{}{Buï slušnej, ty hajzle, nebo špatnì dopadneš.}
+{126}{}{Zase vy?}
+{127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Oort.}
 {129}{}{Hledám práci.}
 {130}{}{Informované zdroje øíkají, e ty jsi ten správnı èlovìk, u kterého mám hledat práci... jestli mi rozumíš.}
@@ -35,14 +35,14 @@
 {134}{}{Zase ty? Tak co, je ta práce hotová?}
 {135}{}{Glub.}
 {136}{}{Ne.}
-{137}{}{Mám ještì nìjaké otázky.}
+{137}{}{Mám nìkolik otázek.}
 {138}{}{Hmm... silnej. A blbej... jestli chceš práci, promluv si s Mirou. Rozumíš? Mi-rou. Támhle.}
 {139}{}{Rád vydáváš zvuky, co? Bude nìkdo tak laskav a vykopne odsud tohle brahmíní hovno?}
 {140}{}{Máš mì za debila? Myslíš, e najmu jen tak nìkoho? Jestli chceš pro mì pracovat, doka, e za nìco stojíš.}
 {141}{}{Co takhle kdy odprásknu támhle Lennyho? Zaslouí si to.}
 {142}{}{A jak to mám udìlat?}
 {143}{}{Nevíš o nìkom, kdo by chtìl koupit Jet?}
-{144}{}{Poslyš, jsem} #258
+{144}{}{Poslyš, jsem}
 {145}{}{Jasnì. Tobì tak budu nìco dokazovat. Zapomeò na to, ty slizkej èerve.}
 {146}{}{Byl to ten zatracenej Doofus, e jo? Ten malej feák moc vaní. Nìco ti øeknu. Sejmi ho pro mì... øíkejme tomu tøeba laskavost... a pak se spolu budeme dál bavit.}
 {147}{}{Platí.}
@@ -86,7 +86,7 @@
 {185}{}{Takovej èlovìk by toho mìl bejt schopnej.}
 {186}{}{A teï radši odejdi.}
 {187}{}{Klidnì si zavolej policii. Pøedpokládám, e máš dùkazy pro takovı nesmyslnı obvinìní.}
-{188}{}{Jo, samozøejmì.}
+{188}{}{Jo, jistì.}
 {189}{}{Zapomeò na to.}
 {190}{}{Jako tøeba ten zatracenej Hubologista ve mìstì, kterej mì pìknì štve. A tu osinu v zadku zlikviduješ, tak se vra zpátky.}
 {191}{}{Jakoby se u stalo. Mám pro nìj pøichystané speciální náøadí, ale... kdo je to ten Hubologista a kde ho najdu?}
@@ -95,11 +95,11 @@
 {194}{}{No, jsem vzdìlanej mu. Na co se chceš zeptat?}
 {195}{}{Ptej se.}
 {196}{}{Hledám Vault 13.}
-{197}{}{Neslyšel jsi nìkdy o GECKu?}
+{197}{}{Ever heard of a GECK?}
 {198}{}{Co víš o skupinì, která si øíká Rangeøi?}
 {199}{}{Co mi mùeš øíct o chlápkovi jménem Westin?}
 {200}{}{Sháním informace o viceprezidentovi Carlsonovi.}
-{201}{}{To u bude všechno.}
+{201}{}{To je ono.}
 {202}{}{Jedna platba, jedna otázka. Další tì bude stát $50.}
 {203}{}{Dobøe, tady máš.}
 {204}{}{Víc informací u nepotøebuju.}
@@ -120,7 +120,7 @@
 {219}{}{No tak nic no. Vypadá to, e se s ním nikdy nesetkám. Taky jsem o nìm hodnì slyšel.}
 {220}{}{To u bude všechno.}
 {221}{}{Je to všechno?}
-{222}{}{Ne, mám ještì nìjaké otázky.}
+{222}{}{No, I've got some more questions.}
 {223}{}{Jo, prozatím je to všechno.}
 {224}{}{No, ale za pokus to stálo, ne? Vault 13 je tady prakticky modla. Dokonce tady postavili i sochu nìjakımu tıpkovi, kterej prej odtamtud pøišel. Nic víc nevím.}
 {225}{}{Prodal jsem ti mapu. Zkus ji pouít.}
@@ -149,7 +149,7 @@
 {248}{}{Takovıhle dny mám fakt rád. Pojïme uzavøít náš obchod.}
 {249}{}{Doneslo se mi, e ten geniální doktor bìhem tvı návštìvy vydechl naposledy. To bylo proti mım pøíkazùm. Myslím, e mi za budoucí ztráty budeš muset dát náhradu.}
 {250}{}{Hele, tak já ti dám 500 babek a na celou tu záleitost zapomeneme.}
-{251}{}{Jdi do hajzlu.}
+{251}{}{Jdi se vycpat.}
 {252}{}{No, tak hodnì štìstí do budoucna. Nevidím toti ádnej dùvod, proè bysme se spolu my dva mìli ještì nìkdy bavit.}
 {253}{}{To mi naprosto vyhovuje.}
 {254}{}{Platí, ale jen proto, e se mi líbíš. A doporuèuju ti, a se radši hned tak nevrátíš.}
@@ -161,7 +161,6 @@
 {260}{}{ koèku.}
 {261}{}{Hubologista je takovej praštìnej náboenskej fanatik. Najdeš ho v kostele ve mìstì.}
 {262}{}{Jdu na to.}
-
 {263}{}{Nebudu s tebou mluvit, dokud nedokonèíš svoji práci! Potøebuju ty dokumenty od Dr. Henryho, a rychle.}
 {264}{}{Ne, ale potøebuju nìjaké informace.}
 {265}{}{Vím, e Lennyho smrt nebyla nehoda, ty bastarde.}
@@ -170,9 +169,7 @@
 {268}{}{Jak jsem øekl, promiò, e ti nepomohla.}
 {269}{}{Hele a co kdybys za moje problémy seral tuhle kulku?}
 {270}{}{Hmmphf.}
-
 {271}{}{"Postaral" ses o Hubologistu pro Merka.}
 {272}{}{Podaøilo se ti získat dokumenty Dr. Henryho.}
-
 {300}{}{Kam si sakra myslíš, e jdeš?! Zkus to ještì jednou a nakopu ti prdel.}
 {301}{}{Varoval jsem tì!}

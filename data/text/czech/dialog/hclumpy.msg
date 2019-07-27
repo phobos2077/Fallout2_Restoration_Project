@@ -38,7 +38,5 @@
 {137}{}{Och. Ty v pohoda?}
 {138}{}{Aha... no, já... hmmmm. Jsi... jsi v poøádku?}
 {139}{}{Já jim to øíkal. 'Potøebujeme dopravní znaèky', ale myslíš, že mì nìkdo poslouchal!? Neeeee... nebudeme pøece poslouchat starýho Lumpyho!}
-
-# Player float
 {200}{}{A kruci!}
 {201}{}{Jejda. Já pøejet smraïoch.}

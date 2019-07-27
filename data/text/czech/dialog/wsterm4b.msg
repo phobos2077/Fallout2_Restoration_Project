@@ -1,6 +1,6 @@
 {100}{}{Poèítaèový terminál.}
-{101}{}{Terminál extrahovací jednotky Vault-Tec.}
-{102}{}{Nedokážeš pøeèíst text na obrazovce.}
+{101}{}{It controls the Vault-Tec organ extraction unit.}
+{102}{}{Obrazovka je pro tebe zcela neèitelná.}
 {103}{}{Vítejte ve Vault-Tec extrahovací jednotce. Pro správnou funkci je zapotøebí, abyste umístili dárce na operaèní sál - poté vyberte druh a orgán urèený k odebrání.}
 {104}{}{Vybrat druh.}
 {105}{}{Vybrat orgán.}
@@ -17,13 +17,13 @@
 {116}{}{Vybrat zemní kukaèku.}
 {117}{}{Vybrat hlodavce.}
 {118}{}{Vybrat èlovìka.}
-{119}{}{Naškrábat na konzoli nový druh.}
+{119}{}{[Scratch a new name onto console.]}
 {120}{}{Konec.}
 {121}{}{(V tvé ruce se výjimá kus ostrého plechu a pomalu zaèínáš uvažovat, co naškrábeš.)}
-{122}{}{Vyrýt na konzoli slovo mutant.}
-{123}{}{Vyrýt na konzoli slovo páraè.}
+{122}{}{Carve the word 'Mutant' onto console.}
+{123}{}{Carve the word 'Deathclaw' onto console.}
 {124}{}{Konec.}
-{125}{}{Aktuální výbìr:                                                      }
+{125}{}{Current Selection: }
 {126}{}{- druh: }
 {127}{}{- orgán: }
 {128}{}{Vybrat druh.}
@@ -47,26 +47,26 @@
 {146}{}{Vybrat tlusté støevo.}
 {147}{}{Konec.}
 {148}{}{Zvolený dárce není pøítomen v extrakèní místnosti.}
-{149}{}{Extrakce neúspìšná.}
-{150}{}{Extrakce probìhla úspìšnì.}
-{151}{}{Extrakce hotova                                                 Dìkujeme za použití pøístrojù Vault-Tec. V našem katalogu naleznete kompletní pøehled Vault-Tec produktù.}
+{149}{}{Extraction failed.}
+{150}{}{Extraction completed.}
+{151}{}{Extraction completed.
+                                           Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
 {152}{}{}
 {153}{}{Konec.}
-
-{170}{}{èlovìk                                                        }
-{171}{}{pes                                                             }
-{172}{}{koèka                                                         }
-{173}{}{zemní kukaèka                                                }
-{174}{}{hlodavec                                                      }
-{175}{}{mutant                                                        }
-{176}{}{páraè                                                         }
-
-{180}{}{mozek}
-{181}{}{srdce}
-{182}{}{ledvina}
-{183}{}{játra}
-{184}{}{plíce}
-{185}{}{appendix}
-{186}{}{tlusté støevo}
-
-{200}{}{ nedokáže pøeèíst text na obrazovce.}
+{154}{}{Extraction failed-- local sensor overload.}
+{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
+{170}{}{Human }
+{171}{}{Canine }
+{172}{}{Feline }
+{173}{}{Road Runner }
+{174}{}{Rodent }
+{175}{}{Mutant }
+{176}{}{Deathclaw }
+{180}{}{Brain }
+{181}{}{Heart }
+{182}{}{Kidney }
+{183}{}{Liver }
+{184}{}{Lung }
+{185}{}{Appendix }
+{186}{}{Colon }
+{200}{}{ nedokáže pøeèíst text na monitoru.}

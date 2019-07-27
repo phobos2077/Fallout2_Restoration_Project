@@ -3,7 +3,7 @@
 {151}{}{You see Keith Wright. He's looking at you warily.}
 {200}{}{Quem é você?}
 {201}{}{Whatdya want?}
-{220}{}{Hey, }
+{220}{}{Ei, }
 {230}{}{Make another move toward that door, an' you'll be sorry.}
 {240}{}{I still can't believe Dad is dead. There's so much that I wanted to say to him...}
 {250}{}{Slaver, you done come to the wrong side of town. If you don't start explain' yourself, yer gonna be
@@ -14,7 +14,7 @@
 {254}{}{Whatdya want now?}
 {255}{}{Mattah. Man is Mattah!}
 {256}{}{Jabawokee Ding Dong}
-{257}{}{Wander off}
+{257}{}{Cai fora}
 {258}{}{I'm looking for a job. Is Family Wright hiring?}
 {259}{}{I'm looking for a job. Chris sent me by. Is Family Wright hiring?}
 {262}{}{Hey, Keith. I ran into your Mom.}
@@ -41,7 +41,7 @@
 {356}{}{Naw... we don't traffic with slaver trash like the other families. }
 {357}{}{You better git.}
 {358}{}{I'm not leaving until I see Mr. Wright.}
-{359}{}{All right then.}
+{359}{}{Está certo então.}
 {365}{}{Naw, I reckon you WILL be leaving, 'cause you look like the kinda person who likes living. Now get.}
 {366}{}{I'm NOT leaving.}
 {367}{}{Tudo certo.}

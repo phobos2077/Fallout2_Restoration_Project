@@ -24,7 +24,7 @@
 {123}{}{I don't give directions and I don't pass out change. Bug off.}
 {124}{}{What is this - social hour?}
 {125}{}{I'm Merk. Whattya want?}
-{126}{}{You again?}
+{126}{}{Você novamente?}
 {127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Oort.}
 {129}{}{I'm looking for work.}

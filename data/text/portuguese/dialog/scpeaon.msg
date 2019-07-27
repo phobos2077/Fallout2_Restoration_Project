@@ -19,8 +19,8 @@
 {118}{}{Just leave before anyone gets hurt.}
 {119}{}{I don't like you.}
 {120}{}{The just will kill all like you.}
-{121}{}{What's your problem?}
-{122}{}{Can't we all just get along?}
+{121}{}{Qual o seu problema?}
+{122}{}{Nos não podemos ficar juntos?}
 {123}{}{Don't talk to me.}
 {124}{}{Whatever it is tell someone else.}
 {125}{}{I don't think you're all that tough.}

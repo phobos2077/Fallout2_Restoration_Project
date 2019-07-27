@@ -1,49 +1,49 @@
-{100}{}{You see a scruffy trapper.}
-{101}{}{You see a burly trapper.}
-{102}{}{You see a gecko trapper.}
+{100}{}{Você vê um caçador mal vestido.}
+{101}{}{Você vê um caçador bem forte.}
+{102}{}{Você vê um caçador de geckos.}
 {200}{}{You'll fit in just fine here.}
-{201}{}{Buy a round of drinks, why dontcha?}
-{202}{}{Gonna arm-wrestle the Duntons?}
-{203}{}{You look like you came north from the Den.}
+{201}{}{Porque você não paga uma rodada de bebida pra nós?}
+{202}{}{Vai brigar com os Dunton?}
+{203}{}{Parece que veio do norte de Den.}
 {204}{}{Wadda you lookin' at?}
-{205}{}{You sure got purty skin, sweetheart. Heh, heh, heh.}
-{206}{}{Urp, I could use another mug o' gecko piss.}
-{207}{}{If you need cash, the Duntons are lookin' for some help.}
+{205}{}{Você com certeza tem uma pele maravilhosa, amor. Heh, heh, heh.}
+{206}{}{Urp, eu não me importaria de tomar mais um copo desse mijo de gecko.}
+{207}{}{Se você precisar de dinheiro, os Duntons estão procurando por alguma ajuda.}
 {208}{}{You're not half-bad for a tribal.}
-{209}{}{96 mugs of piss on the wall, 96 mugs o' piss...}
-{210}{}{I'm gonna go south to the Den; lotsa' work there.}
-{211}{}{More gecko piss here, Salvadore!}
-{212}{}{Trapping's bad lately; must be an easier way to make money.}
+{209}{}{96 garrafas de mijo na parede, 96 garrafas de mijo...}
+{210}{}{Eu vou para o sul para o Den, tem muito trabalho lá.}
+{211}{}{Mais mijo de gecko, Salvadore!}
+{212}{}{A caçada com armadilhas não está indo bem, deve haver uma forma mais fácil de ganhar dinheiro.}
 {213}{}{I'm not as drink as you thunk I am.}
-{214}{}{Hey buddy, do these dice look loaded to you? (rattle, rattle)}
-{215}{}{Talk to the Duntons or the barman for work, pal.}
-{216}{}{You chose the right place to drink, friend.}
-{217}{}{No, Bishop; not the thing with the knife again.}
-{218}{}{Anyone up for a game of dice?}
-{219}{}{Nice not to have Aldo stinking up the place.}
-{220}{}{Ever taken some brahmin what ain't yours?}
-{221}{}{Watch out for the Spirit that Walks!}
+{214}{}{Ei amigo, parece que estes dados estão travados? (chocalho, chocalho)}
+{215}{}{Fale com os Duntons ou com o barmen se busca trabalho, amigo.}
+{216}{}{Você escolheu o bar perfeito para beber, amigo.}
+{217}{}{Não, Bishop; com essa faca novamente.}
+{218}{}{Alguém quer lançar os dados?}
+{219}{}{Que bom que o Aldo não está fedendo novamente.}
+{220}{}{Sempre fica com brahmins que não são seus?}
+{221}{}{Cuidados com os espíritos que vagam.}
 {222}{}{There's a spirit in a canyon east of here.}
-{223}{}{Trapping's dangerous; lost a good trapper few weeks back.}
-{224}{}{Just love to trick that Torr.}
-{300}{}{Look who's come to visit.}
-{301}{}{(mumble, mumble) ...goody two shoes type here... (mumble)}
-{302}{}{Aren't you in the wrong part of town?}
+{223}{}{Caçar é muito perigoso, uns tempos atrás perdemos um ótimo caçador.}
+{224}{}{Adorei esse truque de Torr.}
+{300}{}{Olha quem vem aí.}
+{301}{}{(murmuros, murmuros)...ótimos pares de sapatos aqui..(murmuros)}
+{302}{}{Você não está no lado errado da cidade?}
 {303}{}{Don't need your kind here, tribal.}
-{304}{}{Maybe if you buy us all a drink we'll let you stay.}
-{305}{}{Push off, tribal.}
-{306}{}{What are you looking so hard at?}
-{307}{}{The Dunton's will fix you, tribal.}
-{308}{}{You sure chose the wrong place for a drink.}
-{309}{}{Your momma ain't in here kid. Try the Bathhouse.}
+{304}{}{Talvez se nos pagar uma bebida deixaremos você ficar.}
+{305}{}{Empurre, tribal.}
+{306}{}{O que você está encarando?}
+{307}{}{Os Dutons irão dar um jeito em você, tribal.}
+{308}{}{Você escolheu o lugar errado para beber.}
+{309}{}{Sua mãe não esta aqui jovem, esperimente a casa de banho (Bathhouse).}
 {310}{}{Why don't you go play someplace else?}
 {311}{}{There's a nice canyon for you, just east of here.}
 {312}{}{O que você quer?}
-{313}{}{Better just mind your own business.}
-{314}{}{Your name Torr? (heh, heh, heh)}
-{315}{}{Go drink with Aldo, why dontcha?}
-{316}{}{This ain't your kinda place, punk.}
+{313}{}{É melhor cuidar da sua vida.}
+{314}{}{Seu nome é Torr? (heh, heh, heh)}
+{315}{}{Vamos beber com Aldo, você quer?}
+{316}{}{Aqui não é lugar pra você, seu merda.}
 {317}{}{You aren't my kind of drinking buddy.}
-{318}{}{Humph. (spits on the floor)}
+{318}{}{Humph. (cospe no chão)}
 {319}{}{You sure ain't much to look at.}
-{320}{}{Feeling unwelcome... yet?}
+{320}{}{Ainda está se sentindo desconfortável?}

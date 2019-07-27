@@ -1,14 +1,14 @@
 {100}{}{Você vê um menino pequeno.}
 {101}{}{Você vê uma menina pequena.}
-{102}{}{He smiles when he sees you.}
-{103}{}{She smiles when she sees you.}
-{104}{}{He looks at you with uncertainty.}
-{105}{}{She looks at you with uncertainty.}
-{106}{}{He glares at you.}
-{107}{}{She glares at you.}
-{200}{}{Thanks for helping us mister!}
-{201}{}{Yippie we are safe now!}
-{202}{}{Thanks for helping us ma'am!}
-{203}{}{Yippie we are safe now!}
-{204}{}{You're mean!}
-{205}{}{Are you here to help us?}
+{102}{}{Ele sorri quando te vê.}
+{103}{}{Ela sorri quando te vê.}
+{104}{}{Ele olha para você com incerteza.}
+{105}{}{Ela olha para você com incerteza.}
+{106}{}{Ele te encara.}
+{107}{}{Ela te encara.}
+{200}{}{Obrigado por nos ajudar senhor!}
+{201}{}{Ebaaa, nós estamos seguros agora!}
+{202}{}{Obrigado por nos ajudar madame!}
+{203}{}{Ebaaa, nós estamos seguros agora!}
+{204}{}{Você é malvado!}
+{205}{}{Você está aqui para nos ajudar?}

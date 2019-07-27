@@ -37,7 +37,7 @@
 {136}{}{Fuck you. I am not answering your questions.}
 {137}{}{O que é este lugar?}
 {138}{}{Adeus.}
-{139}{}{Bye-bye.}
+{139}{}{Tchau-tchau.}
 {140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}
 {141}{}{Sim?}
 {142}{}{No?}
@@ -58,7 +58,7 @@
 {157}{}{Tell me what you know.}
 {158}{}{That's enough, I can't take any more.}
 {159}{}{Oh, just shut up you dumb shit!}
-{160}{}{Bye-bye.}
+{160}{}{Tchau-tchau.}
 {161}{}{Oh, you know. Sometimes I hear things. I hear a lot; can't always remember it right.}
 {162}{}{$50 bucks says you remember it right.}
 {163}{}{Remember or I blow your fucking head off.}

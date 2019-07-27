@@ -1,74 +1,74 @@
-{100}{}{You see a bar patron looking at you.}
-{101}{}{You see a bar patron eating some jerky.}
-{102}{}{You see a bar patron drinking a mug of beer.}
+{100}{}{Você vê um cliente do bar olhando pra você.}
+{101}{}{Você vê um cliente do bar comendo um Jerky.}
+{102}{}{Você vê um cliente bebendo uma caneca de cerveja.}
 {103}{}{Você vê o dono do bar.}
-{104}{}{You see a scruffy looking bar patron. Possibly a trapper.}
-{105}{}{You see a tough-looking patron. Probably a trapper.}
-{106}{}{You see a weathered bar patron. Probably either a trapper or a farmer.}
-{107}{}{You see a fit-looking bar goer. They could be a brahmin herder or a farmer.}
+{104}{}{Você vê um mal vestido olhando para os clientes do bar, possivelmente é um caçador.}
+{105}{}{Você vê um cliente com aparência de durão, possivelmente seja um caçador.}
+{106}{}{Você vê um cliente encharcado, provavelmente seja um caçador ou um fazendeiro.}
+{107}{}{Você vê um ajeitado cliente do bar, possivelmente seja um pastor de brahmins ou um fazendeiro.}
 {110}{}{You'll fit in just fine here.}
-{111}{}{Buy a round of drinks, why dontcha?}
-{112}{}{Gonna arm-wrestle the Duntons?}
-{113}{}{You look like you came north from the Den.}
+{111}{}{Porque você não paga uma rodada de bebida pra nós?}
+{112}{}{Vai brigar com os Dunton?}
+{113}{}{Parece que veio do norte de Den.}
 {114}{}{Wadda you lookin' at?}
-{115}{}{You sure got purty skin, sweetheart. Heh, heh, heh.}
-{116}{}{Urp, I could use another mug o' gecko piss.}
-{117}{}{If you need cash, the Duntons are lookin' for some help.}
+{115}{}{Você com certeza tem uma pele maravilhosa, amor. Heh, heh, heh.}
+{116}{}{Urp, eu não me importaria de tomar mais um copo desse mijo de gecko.}
+{117}{}{Se você precisar de dinheiro, os Duntons estão procurando por alguma ajuda.}
 {118}{}{You're not half-bad for a tribal.}
-{119}{}{96 mugs of piss on the wall, 96 mugs o' piss...}
-{120}{}{I'm gonna go south to the Den; lotsa work there.}
-{121}{}{More gecko piss here, Salvadore!}
-{122}{}{Trapping's bad lately; must be an easier way to make money.}
+{119}{}{96 garrafas de mijo na parede, 96 garrafas de mijo...}
+{120}{}{Eu vou para o sul para o Den, tem muito trabalho lá.}
+{121}{}{Mais mijo de gecko, Salvadore!}
+{122}{}{A caçada com armadilhas não está indo bem, deve haver uma forma mais fácil de ganhar dinheiro.}
 {123}{}{I'm not as drink as you thunk I am.}
-{124}{}{Hey buddy, do these dice look loaded to you? (rattle, rattle)}
-{125}{}{Talk to the Duntons or the barman for work, pal.}
-{126}{}{You chose the right place to drink, friend.}
-{127}{}{No, Bishop, not the thing with the knife again!}
-{128}{}{Anyone up for a game of dice?}
-{129}{}{Nice not to have Aldo stinking up the place.}
-{130}{}{Ever taken some brahmin what ain't yours?}
-{131}{}{Watch out for the Spirit that Walks!}
+{124}{}{Ei amigo, parece que estes dados estão travados? (chocalho, chocalho)}
+{125}{}{Fale com os Duntons ou com o barmen se busca trabalho, amigo.}
+{126}{}{Você escolheu o bar perfeito para beber, amigo.}
+{127}{}{Não, Bishop; com essa faca novamente.}
+{128}{}{Alguém quer lançar os dados?}
+{129}{}{Que bom que o Aldo não está fedendo novamente.}
+{130}{}{Sempre fica com brahmins que não são seus?}
+{131}{}{Cuidados com os espíritos que vagam.}
 {132}{}{There's a spirit in a canyon east of here.}
-{133}{}{Trapping's dangerous; lost a good trapper few weeks back.}
-{134}{}{Just love to trick that Torr.}
-{140}{}{Look who's come to visit.}
-{141}{}{(mumble, mumble) ...goody two shoes type here... (mumble)}
-{142}{}{Aren't you in the wrong part of town?}
+{133}{}{Caçar é muito perigoso, uns tempos atrás perdemos um ótimo caçador.}
+{134}{}{Adorei esse truque de Torr.}
+{140}{}{Olha quem vem aí.}
+{141}{}{(murmuros, murmuros)...ótimos pares de sapatos aqui..(murmuros)}
+{142}{}{Você não está no lado errado da cidade?}
 {143}{}{Don't need your kind here, tribal.}
-{144}{}{Maybe if you buy us all a drink we'll let you stay.}
-{145}{}{Push off, tribal.}
-{146}{}{What are you looking so hard at?}
-{147}{}{The Dunton's will fix you, tribal.}
-{148}{}{You sure chose the wrong place for a drink.}
-{149}{}{Your momma ain't in here kid; try the Bathhouse.}
+{144}{}{Talvez se nos pagar uma bebida deixaremos você ficar.}
+{145}{}{Empurre, tribal.}
+{146}{}{O que você está encarando?}
+{147}{}{Os Dutons irão dar um jeito em você, tribal.}
+{148}{}{Você escolheu o lugar errado para beber.}
+{149}{}{Sua mãe não esta aqui jovem, experimente a casa de banho (Bathhouse).}
 {150}{}{Why don't you go play someplace else?}
 {151}{}{There's a nice canyon for you, just east of here.}
 {152}{}{O que você quer?}
-{153}{}{Better just mind your own business.}
-{154}{}{Your name Torr? (heh, heh, heh)}
-{155}{}{Go drink with Aldo, why dontcha?}
-{156}{}{This ain't your kinda place, punk.}
+{153}{}{É melhor cuidar da sua vida.}
+{154}{}{Seu nome é Torr? (heh, heh, heh)}
+{155}{}{Vamos beber com Aldo, você quer?}
+{156}{}{Aqui não é lugar pra você, seu merda.}
 {157}{}{You aren't my kind of drinking buddy.}
-{158}{}{Humph. (spits on the floor)}
+{158}{}{Humph. (cospe no chão)}
 {159}{}{You sure ain't much to look at.}
-{160}{}{Feeling unwelcome... yet?}
+{160}{}{Ainda está se sentindo desconfortável?}
 {162}{}{'Bout time, tribal.}
 {163}{}{Obrigado.}
-{164}{}{Nee!}
-{165}{}{Ecky, ecky, p'tang!}
+{164}{}{heh..heh!}
+{165}{}{Ecky, ecky, p’tang!}
 {166}{}{I'm going to get pissed.}
-{167}{}{Nothing like Gecko Piss.}
-{168}{}{Thanks for the Piss.}
-{169}{}{Huzzah!}
-{170}{}{Tribals know what's best in life.}
-{171}{}{Thank-you.}
-{172}{}{More Piss for everyone!}
-{173}{}{I sure needed that; thanks.}
-{174}{}{Thanks a million!}
-{175}{}{Rather have a frontal lobotomy...}
-{176}{}{Golden Piss!}
-{177}{}{Alright!}
-{178}{}{Love that piss.}
+{167}{}{Nada como mijo de geckos.}
+{168}{}{Obrigado pelo mijo de gecko.}
+{169}{}{Hurra!}
+{170}{}{Os tribais sabem aproveitar a vida.}
+{171}{}{Obrigado.}
+{172}{}{Mais mijo para todos!}
+{173}{}{Estava precisando disso; obrigado.}
+{174}{}{Um milhão de obrigado!}
+{175}{}{Em vez disso temos uma lobotomia frontal...}
+{176}{}{Mijo dourado!}
+{177}{}{Certo!}
+{178}{}{Amo essa urina.}
 {179}{}{You're a good Tribal.}
-{180}{}{Smart move.}
+{180}{}{Jogada inteligente.}
 {181}{}{Yeah!}

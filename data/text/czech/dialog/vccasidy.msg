@@ -6,16 +6,16 @@
 {105}{}{Ug Nog?}
 {106}{}{Odbelhat se.}
 {107}{}{Hledám Vault.}
-{108}{}{U chceš odsud odejít?}
-{109}{}{Co tady naléváš?}
-{110}{}{Stalo se tu v okolí nìco, co by stálo za øeè?}
+{108}{}{Vypadá to, jako bys chtìl odsud vypadnout, nemám pravdu?}
+{109}{}{Co tady èepujete?}
+{110}{}{Dìje se tu v okolí nìco zajímavého?}
 {111}{}{Dnes nic, díky.}
 {112}{Cas0112}{Mlátili tì do hlavy èasto, co? Lituju, nemluvím imbecilštinou.}
 {113}{}{Béé-cil?}
 {114}{Cas0114}{Vault? Jedinej Vault, o kterım vím, je ten ve mìstì. Je to taková velká blbá díra...nemùeš ho minout, vìø mi.}
 {115}{}{Co tu máš k pití?}
 {116}{}{Dìje se tu v okolí nìco zajímavého?}
-{117}{}{Díky za radu. Sbohem.}
+{117}{}{Díky za informace. Sbohem.}
 {118}{Cas0118}{Pivo za $20, panák whisky za $30. Nic zvláštního. Dáš si teda nìco?}
 {119}{}{Hledám Vault.}
 {120}{}{Dám si pivo.}
@@ -46,20 +46,20 @@
 {145}{}{To je mi líto. Hledám Vault. Mùeš mi pomoct?}
 {146}{}{To je mi líto. No, snad se to zlepší.}
 {147}{Cas0147}{Mám nemocnı srdce. Potøebuju injekce na podporu srdeèní èinnosti a tohle mìsto je jedinı místo s opravdovou lékaøskou péèí, take jsem se rozhodl, e se tu usadím a pokusím se nìjak uivit.}
-{148}{}{Zdá se, e toho tady máš plné zuby.}
+{148}{}{To zní, jako bys toho tady mìl a po krk.}
 {149}{}{Aha. No, hledám Vault. Mùeš mi pomoct?}
 {150}{}{Snad se to èasem zlepší. Zatím.}
 {151}{Cas0151}{Nejradši bych to tady zavøel, nechal tohle mìsto shnít a na všechny se vykašlal.}
-{152}{}{Tak proè neodejdeš?}
+{152}{}{Tak proè prostì neodejdeš?}
 {153}{}{To je mi líto. Snad se to èasem zlepší.}
 {154}{Cas0154}{Odejít sám do pustiny? Cha! Tohle místo mì štve, ale nejsem blázen.}
-{155}{}{Brzy zase vyráím na cesty. Nechceš se ke mnì pøipojit?}
+{155}{}{Brzy se chystám jít zpátky do pustiny. Nechceš jít se mnou?}
 {156}{}{No, tak hodnì štìstí.}
 {157}{Cas0157}{Nechci tì urazit nebo tak, ale nevypadáš na nìjak zvláš dobrıho vùdce. Mám dojem, e si z tebe v pustinách udìlaj brzo obìd.}
 {158}{Cas0158}{Ne, necestuju s otrokáøema. Maj takovej nepìknej zvyk tì prodat, kdy jim dojdou peníze. Bez uráky.}
 {159}{Cas0159}{Ne, vypadáš jako èlovìk s jednou nohou v hrobì a druhou v pekle. Myslím, e nepotøebuju sniovat svou u tak dost chabou povìst.}
 {160}{Cas0160}{Ne...zdá se, e u máš slušnou partu.}
-{161}{}{Tak dobøe. Hodnì štìstí.}
+{161}{}{Dobrá, tak hodnì štìstí.}
 {162}{}{Tak na tu nabídku zapomeò, kreténe. Klidnì se vra ke svımu baru v tomhle podìlanım zapadákovì.}
 {163}{}{Jak myslíš, tvoje chyba.}
 {164}{Cas0164}{Hehe. Myslíš to vánì?}
@@ -72,16 +72,15 @@
 {171}{Cas0171}{Co se dìje? Máš zase ten pohled typu "Musím ti øíct nìco, co se ti moná nebude líbit."}
 {172}{Cas0172}{Jo?}
 {173}{Cas0173}{Co se dìje? Máš zase ten pohled "Já jsem tady šéf."}
-{174}{}{Chci se tì na nìco zeptat...}
+{174}{}{Chci se zeptat na pár otázek...}
 {175}{}{Zdá se, e jsi trochu zranìnı. Pouij pár Stimpakù a uzdrav se.}
 {176}{}{Cassidy, poèkej tady, ne se vrátím.}
-{177}{}{Schovej zbraò.}
-{178}{}{Dr se poblí mì.}
-{179}{}{Moc ne nevzdaluj.}
-{180}{}{Musíme se trochu rozestoupit.}
+{177}{}{Schovej svoji zbraò.}
+{178}{}{Dr se blízko mì.}
+{179}{}{Moc se nevzdaluj.}
+{180}{}{Mìli bychom se trochu rozestoupit.}
 {181}{}{Tak pojï, Cassidy. Je èas vyrazit.}
-{182}{}{U nic, zapomeò na to.}
-
+{182}{}{Nic, zapomeò na to.}
 {261}{Cas0261}{Urèitì chceš, abych Myronovi vpálil kulku do hlavy, e jo? To nebude problém. Staèí øíct a já to udìlám.}
 {262}{Cas0262}{Co se dìje?}
 {263}{}{Proè chceš sejmout Myrona?}
@@ -109,7 +108,7 @@
 {285}{}{Hmmm. Poslyš, mám ještì pár otázek...}
 {286}{}{Tak dobøe. Díky za rozbor.}
 {287}{Cas0287}{Ále, nedìlej si srandu ze starıho Cassidyho. Ty nejsi ádnej divoch.}
-{288}{}{Ano, jsem.}
+{288}{}{Jo, jsem.}
 {289}{}{To je jedno. Poslyš, mám ještì pár otázek...}
 {290}{}{Zapomeò na to. Nechci to s tebou teï rozebírat.}
 {291}{Cas0291}{Eh, no... sakra práce. Tak já se ti omlouvám. Nechtìl jsem tì urazit.}
@@ -193,68 +192,42 @@
 {369}{}{Asi si budu muset pùjèit nìjakı berle a vozík.}
 {370}{}{Cassidy zemøel na infarkt.}
 {371}{}{Podaøilo se ti pøesvìdèit Cassidyho, aby se k tobì pøidal.}
-{372}{}{Musím si vzít prášky na srdce...} # Seraph's Code
-
+{372}{}{Musím si vzít prášky na srdce...}
 {1000}{Cas1000}{Dobøe... tak teda jo. Poèkám tu, ne se vrátíš. }
 {1100}{Cas1100}{Jasnì. Ale nemùu slíbit, e ji zas nevytasím, kdy nastanou potíe.}
 {1200}{Cas1200}{Fajn, budu ti nablízku. Asi budou problémy, co?}
 {1300}{Cas1300}{Fajn, budu si udrovat odstup. Mám aspoò lepší vıhled.}
 {1400}{Cas1400}{Fajn, budu ti krejt záda. A mì budeš potøebovat, tak zaøvi a já hned pøibìhnu.}
-
 {2000}{Cas2000}{Nechci tì urazit nebo tak, ale nevypadáš na nìjak zvláš dobrıho vùdce. Mám dojem, e si z tebe v pustinách brzo udìlaj obìd.}
 {2100}{Cas2100}{Ne, necestuju s otrokáøi. Maj takovej nepìknej zvyk tì prodat, kdy jim dojdou peníze. Bez uráky.}
 {2200}{Cas2200}{Ne, vypadáš na èlovìka s jednou nohou v hrobì a druhou v pekle. Myslím, e nepotøebuju sniovat svou u tak dost chabou povìst.}
 {2300}{Cas2300}{Ne...zdá se, e u máš slušnou partu.}
 {2400}{Cas2400}{Tak fajn.}
-
 {2999}{}{Tak dobøe, dej na sebe pozor.}
 {3000}{}{Mùeme vyrazit.}
 {3100}{}{Zapomeò na to, kreténe.}
 {3200}{}{Tak nic, tvoje mínus.}
-
 {4100}{Cas4100}{Fajn, jsem v poøádku. Mùeme jít.}
 {4200}{Cas4200}{Fajn, jsem skoro v poøádku.}
 {4300}{Cas4300}{Je to lepší, ale potøeboval bych ještì pár Stimpakù.}
 {4400}{Cas4400}{Všechno jsem pouil, ale jsem na tom poøád dost špatnì. Mùu sice chodit, ale pokud máš nìjakı Stimpaky, urèitì by se mi hodily.}
-
-{9999}{}{Chci se tì na nìco zeptat...}
+{9999}{}{Chci se zeptat na pár otázek...}
 {10001}{}{Vezmi si pár Stimpakù a uzdrav se.}
 {10002}{}{Cassidy, poèkej tady, ne se vrátím.}
-{10003}{}{Schovej zbraò.}
-{10004}{}{Dr se poblí mì.}
+{10003}{}{Schovej svoji zbraò.}
+{10004}{}{Dr se blízko mì.}
 {10005}{}{Moc se nevzdaluj.}
-{10006}{}{Musíme se trochu rozestoupit.}
-{10100}{}{Tak pojï, Cassidy. Je èas vyrazit.}
+{10006}{}{Mìli bychom se trochu rozestoupit.}
 {10007}{}{Tak pojïme.}
-
-# NEW TOM PARTY MEMBER ADDITIONS
-
-# NODE 1007 WE NEED TO CHANGE DISTANCE
+{10100}{}{Tak pojï, Cassidy. Je èas vyrazit.}
 {20000}{Cas20000}{Tak jo, poslouchám.}
-
-# NODE 1008 TALK ABOUT GEAR
 {20001}{Cas20001}{O mı vıbavì? Co je s ní?}
-
-# NODE 1009 REMOVE ARMOR
 {20002}{Cas20002}{V pohodì. Stejnì je tu moc horko. Potím se v tom jako dìvka z New Reno.}
-
-# NODE 1010 WHAT WEAPONS CAN YOU USE -- DAN NEEDS TO REPLACE THIS.
-
-# NODE 1100 CAN'T JOIN PARTY BECAUSE LOW CHR -- DAN NEEDS TO REPLACE THIS.
-
-# We need to change our distance from one another
 {20003}{}{Zkusíme jiné rozestavìní.}
-# I need to talk to you about your gear.
-{20004}{}{Musíme si promluvit o tvé vıbavì.}
-# On second thought, I think this distance is OK for now.
+{20004}{}{Potøebuju si s tebou promluvit o tvé vıstroji.}
 {20005}{}{Zapomeò na to. Tohle rozestavìní je v poøádku.}
-# Actually, I guess there's nothing I need to really know right about your gear.
 {20006}{}{Vlastnì nic. Teï o tvé vıbavì nepotøebuju mluvit.}
-# I need to remove the armor that you're wearing.
 {20007}{}{Potøebuju, aby sis sundal tu zbroj, co máš na sobì.}
-# I need to know what kind of weapons you can use. Transplant original comment from Question Node Line: 264
-
-#killap - expansion
 {30000}{}{Ách, cítím se teï o moc líp. Mám pocit, e je teï všechno snazší.}
 {30001}{}{Hmm, cítím se teï jinak. Ty pilulky na srdce nejspíš fungujou.}
 {30100}{}{Jo, proè ne... budu se po tom cítit jako mrtvola.}

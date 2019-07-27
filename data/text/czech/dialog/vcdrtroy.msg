@@ -16,11 +16,11 @@
 {115}{}{Mutant! Stráže!}
 {116}{}{Ghoul! Stráže!}
 {117}{}{Ahoj, jsem Dr. Troy. Mohu vám nìjak pomoci?}
-{118}{}{Já mít bebí.}
+{118}{}{Já mít bebí}
 {119}{}{Po-moè?}
 {120}{}{Odbelhat se.}
 {121}{}{Hledám hlavní poèítaè. Mùžete mi øíct, kde je?}
-{122}{}{Co tu dìláte?}
+{122}{}{Co tady dìláš?}
 {123}{}{Jen procházím, díky.}
 {124}{}{Opravdu? Rád vás poznávám. Jestli nikam nepospícháte, možná bychom si mohli porovnat svoje poznámky. Nemám moc èasto pøíležitost si popovídat s jiným doktorem.}
 {125}{}{Jistì. Rád se nauèím novým lékaøským postupùm, které používají Obèané.}
@@ -32,7 +32,7 @@
 {131}{}{To rozhodnì bylo. Chci se ještì na nìco zeptat...}
 {132}{}{Díky za prohlídku, doktore Troyi. Bylo to velmi pouèné.}
 {133}{}{Hlavní poèítaè? Ten je dole na tøetím podlaží. Sjeïte výtahem dolù, jdìte rovnì, dokud nedojdete na køižovatku ve tvaru T, a pak se dejte první chodbou vlevo. Ta vás zavede pøímo do øídící místnosti.}
-{134}{}{Co tu dìláte?}
+{134}{}{Co tady dìláš?}
 {135}{}{Díky.}
 {136}{}{Jsem hlavní doktor ve Vault City. Starám se o všechny obyvatele ve mìstì a dìlám vše pro jejich zdraví.}
 {137}{}{Hledám hlavní poèítaè. Mùžete mi øíct, kde je?}
@@ -54,7 +54,7 @@
 {153}{}{Nerad mluvím o své minulosti.}
 {154}{}{Arroyo? O tom jsem snad nikdy neslyšel. Omlouvám se, že se tak ptám, jen zkrátka hledám nìkoho, kdo nìkdy opustil zdi Vault City... vìtšina Obèanù totiž nikdy mìsto neopustila.}
 {155}{}{Koho hledáte? A proè?}
-{156}{}{To je *úžasné*. A co to má se mnou spoleèného?}
+{156}{}{To je *úžasné.* A co to má se mnou spoleèného?}
 {157}{}{Omlouvám se, že se tak ptám, jen zkrátka hledám nìkoho, kdo nìkdy opustil zdi Vault City... vìtšina Obèanù totiž nikdy mìsto neopustila.}
 {158}{}{Koho hledáte? A proè?}
 {159}{}{To je *úžasné.* A co to má se mnou spoleèného?}
@@ -62,7 +62,7 @@
 {161}{}{Díky, že jste mì nasmìroval... èlovìk holt nìkdy zabloudí, víte? Hned pùjdu zpátky na povrch.}
 {162}{}{Myslím, že ještì nechci odejít, "doktore." Nejdøív chci vidìt, co tu máte.}
 {163}{}{Hledám nìkoho, kdo by pro mì udìlal malou službièku.}
-{164}{}{O co jde?}
+{164}{}{Co to je?}
 {165}{}{Díky, ale nemám zájem.}
 {166}{}{Výbornì! Jsem rád, že jste si to rozmyslel.}
 {167}{}{Doneslo se mi, že se v pustinách objevil nový druh drogy. Myslím, že se jí øíká "Jet". Jsem ochoten zaplatit tisíc dolarù za vzorek této drogy.}
@@ -70,22 +70,22 @@
 {169}{}{Myslím, že tu nìjaký Jet mám. Za dvanáct set je váš.}
 {170}{}{Mám u sebe Jet... dám vám ho za patnáct set.}
 {171}{}{Takže... po mì chcete propašovat do Vault City Jet?}
-{172}{}{Co potøebujete?}
+{172}{}{Co mám udìlat?}
 {173}{}{Díky, ale nemám zájem.}
 {174}{}{To mì mrzí. Pokud si to rozmyslíte, zastavte se... velmi rád vám za vaše obtíže poskytnu odškodnìní.}
-{175}{}{Chci se ještì na nìco zeptat...}
+{175}{}{Mám ještì nìjaké další otázky...}
 {176}{}{Odškodnìní? Ehhhh... chci radìji nìjaké peníze. Sbohem.}
 {177}{}{Tak dobøe. Sbohem.}
 {178}{}{Hmmmmm. Když uvážím, co všechno riskujete, tak je to více než férová cena. Tak dobrá, tady máte své peníze... a dìkuji vám.}
 {179}{}{Chci se ještì na nìco zeptat...}
-{180}{}{Víte, myslím, že byste nemìl èichat to... svinstvo. Vìøte mi.}
+{180}{}{Víte, myslím, že byste nemìl èichat tu... sraèku. Vìøte mi.}
 {181}{}{Chcete s tím nìjak pomoct? Chci øíct, znám zpùsob, jak si to hodnì užít. Musíte si zacpat nozdry, vypustit všechen kyslík z plic, potom se zhluboka nadechnout, trochu toho vdechnout a držet to v sobì tak minutu...}
 {182}{}{Bylo mi potìšením s vámi obchodovat, doktore. Dávejte si na to pozor.}
 {183}{}{*Díky*. A teï mùžete jít.}
 {184}{}{Chci se ještì na nìco zeptat...}
 {185}{}{Víte, myslím, že byste nemìl èichat tu... sraèku. Vìøte mi.}
 {186}{}{Promiòte, jen se snažím pomoct. Zatím, doktore.}
-{187}{}{O èem to mluvíte?}
+{187}{}{O èem to mluvíš?}
 {188}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
 {189}{}{No, vyrábìjí to z brahmíních sraèek.}
 {190}{}{V Jetu jsou výpary z brahmíních hoven. Nechutné, že?}
@@ -128,21 +128,21 @@
 {228}{}{Jen do toho. A zavolejte mì, kdybyste nìco potøeboval... tøeba baseballovou pálku.}
 {229}{}{Brahmíní výpary? Není to sice konvenèní výrobní proces, ale... hmmmmm. Možná bych mohl odebrat krevní vzorky z brahmín na Pøedmìstí a potom... dìkuji vám, pøíteli.}
 {230}{}{Žádný problém.}
-{231}{}{Samozøejmì.}
+{231}{}{Jasnì.}
 {232}{}{Øeknìte také svému pubertálnímu pøíteli, že plýtvá svým velkým talentem na výrobu drog. Jeho chování a vyjadøování by rovnìž potøebovalo HODNÌ vylepšit.}
 {233}{}{To mi povídejte.}
 {234}{}{Možná byste se mìl trochu uklidnit, doktore. Trochu drogy nikdy nikomu neublížilo. No, možná s výjimkou Super-Stimpakù... a Buffoutu... a Psycha. Vlastnì nic. Už pùjdu.}
 {235}{}{Vyøídím mu to.}
 {236}{}{Ano, jsem ochoten vám zaplatit tisíc dolarù za vzorek... a vaše mlèení.}
 {237}{}{Mám jeden vzorek Jetu zrovna u sebe.}
-{238}{}{Na co potøebujete Jet?}
+{238}{}{Na co vlastnì Jet potøebujete?}
 {239}{}{To zní dobøe. Beru to.}
 {240}{}{Nemám zájem.}
 {241}{}{Pokud mi pøinesete malý vzorek té drogy, pomùže to... mnì i mé práci. Zaplatím vám za nìj tisíc dolarù. Je však nesmírnì dùležité vše udržet v tajnosti.}
 {242}{}{Eh... v tajnosti?}
 {243}{}{Opravdu? A kolik mi zaplatíte za mlèení? Klidnì vás mùžu prásknout hned teï.}
 {244}{}{Mám jeden vzorek Jetu zrovna u sebe.}
-{245}{}{Na co potøebujete Jet?}
+{245}{}{Na co vlastnì Jet potøebujete?}
 {246}{}{Žádný problém. Mùžete se na mì spolehnout.}
 {247}{}{Nemám zájem.}
 {248}{}{Eh, ano... v tajnosti. To znamená, že to bude jen mezi mnou a vámi. Nikomu o tom neøíkejte.}
@@ -172,7 +172,7 @@
 {272}{}{O takových vìcech se nežertuje. Je to velmi vážná vìc. Zaplatím tisíc dolarù za Jet, za vaše mlèení... a žádné další otázky. Berete tu práci?}
 {273}{}{Chcete nìco vìdìt? Mám jeden vzorek Jetu zrovna u sebe.}
 {274}{}{Co mi zabrání v tom vás hned teï neprásknout?}
-{275}{}{Jistì, udìlám to.}
+{275}{}{Jasnì, udìlám to.}
 {276}{}{Nemám zájem.}
 {277}{}{Opravdu?}
 {278}{}{Výbornì! Dìkuji vám, pøíteli... ani nevíte, jak je to pro moji práci dùležité. Tady jsou vaše peníze, jak jsem slíbil.}
@@ -181,11 +181,11 @@
 {281}{}{Žádný problém. Díky, doktore.}
 {282}{}{Zdravím, Kapitáne. Jak vám mohu pomoci?}
 {283}{}{Zdravím, Obèane. Jak vám mohu pomoci?}
-{284}{}{Jak vám mohu pomoci?}
+{284}{}{Jak ti mùžu pomoct?}
 {285}{}{Ano?}
 {286}{}{Já mít bebí}
 {287}{}{Po-moè?}
-{288}{}{Odbelhat set.}
+{288}{}{Odbelhat se.}
 {289}{}{Potøebuju vaše lékaøské znalosti.}
 {290}{}{Øíkal jste, že jste doktor... já sám jsem taky nìco jako doktor.}
 {291}{}{Máte nìjaké blokátory endorfinù?}
@@ -194,7 +194,7 @@
 {294}{}{Ten Jet, co jste chtìl... myslím, že by o tom ostatní Obèané taky rádi vìdìli.}
 {295}{}{Dnes nic. Hezký den, doktore.}
 {296}{}{Jistì. Promiòte... je to už hodnì dlouho, co jsem to dìlal. Vìtšina Obèanù byla oèkována pøed mnoha a mnoha lety. Pøipravím na tuto proceduru Auto-Dok...}
-{297}{}{Dobøe.}
+{297}{}{Tak dobøe.}
 {298}{}{Hotovo. Ještì malé varování: Tato vakcína vás nedìlá imunní vùèi jedu a radiaci, jen posiluje pøirozenou odolnost vašeho tìla.}
 {299}{}{Vøelé díky. Poslyšte, chci se ještì na nìco zeptat...}
 {300}{}{Skvìle. Díky, doktore.}
@@ -223,7 +223,7 @@
 {324}{}{A co Hippokratova pøísaha?! Hej! Já...}
 {325}{}{Pøijdu si pro vás i po smrti. Pøísahám.}
 {326}{}{Jak jste se dostal sem dolù? Obávám se, že budete muset odejít. Vydržte chvíli, zavolám stráže, aby vás vyprovodili ven.}
-{327}{}{JÁ NE JÍT!}
+{327}{}{MY NE ODEJÍT!}
 {328}{}{Poèkat chvíli na místì.}
 {329}{}{Mám dobré zprávy. Podaøilo se mi vyrobit protijed z toho vzorku Jetu, který jste mi dal.}
 {330}{}{Dobrá zpráva... díky vašim informacím se mi podaøilo vyrobit protijed.}
@@ -273,7 +273,7 @@
 {375}{}{Mùžete vyléèit mého pøítele?}
 {376}{}{Mùžete vyléèit mé pøátele?}
 {377}{}{Víte nìco o podkožních implantátech?}
-{378}{}{Zapomeòte na to. Chci se ještì zeptat...}
+{378}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
 {379}{}{Už nic. Díky, doktore.}
 {380}{}{Tak dobøe. Nejprve musím zjistit, jak jste na tom... trochu se zakloòte a já vás napojím tady na Auto-Dok...}
 {382}{}{Tohle by vám mìlo pomoci. Jak se cítíte?}
@@ -291,5 +291,5 @@
 {395}{}{Mnohem lépe. Chci se ještì zeptat...}
 {396}{}{Skvìle. Díky, doktore.}
 {397}{}{Stráže!}
-{398}{}{Chrrrrr.}
+{398}{}{Chrrrrrrrrrrr.}
 {399}{}{Vysvìtluješ Dr. Troyovi výrobní proces Jetu.}

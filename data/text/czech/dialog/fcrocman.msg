@@ -2,14 +2,13 @@
 {101}{}{Vidíš Harryho, raketového experta.}
 {102}{}{Vidíš znièenì vypadajícího holohlavého muže.}
 {103}{}{Ááááá! Nepøátelé osvícení! Pomoc! Stráže!}
-
 {107}{}{Hej! Špinavèe! Kdo jsi? A co tady dìláš?}
 {108}{}{He?}
 {109}{}{Mám dopis pro AHS-9. Kde ho mám pøedat?}
-{110}{}{Jsem}
-{111}{}{To tì nemusí zajímat.}
+{110}{}{Já jsem}
+{111}{}{Do toho ti nic není.}
 {112}{}{Chci se pøidat k Hubologistùm.}
-{113}{}{Kdo JSI? A co tu DÌLÁŠ?}
+{113}{}{Kdo JSI? A co tady DÌLÁŠ?}
 {114}{}{Nic. Nashle.}
 {115}{}{No skvìlý, idiot. Poslyš, pøíteli, jdi támhle po schodech dolù a možná ti tam napraví tvoje neurodyny a udìlají z tebe nìco užiteèného. Do té doby sbohem, protože na tebe nemám èas. A teï jdi.}
 {116}{}{Dobže!}
@@ -18,36 +17,38 @@
 {119}{}{Nejsi jedním z bratrù a proto ani nemáš povolení tady být. Ledaže se k nám chceš pøidat - což udìláš tak, že vyslovíš svùj zájem AHS-7, který je právì teï ve službì. Takže teï jdi buï po schodech dolù, nebo odsud vypadni.}
 {120}{}{Fajn, fajn. Nemusíš být hned hrubý.}
 {121}{}{Ve skuteènosti mì to musí zajímat. Tohle je totiž moje loï a moje stráže. Takže, kdo jsi a co tady dìláš?}
-{122}{}{Jsem}
-{123}{}{To tì nemusí zajímat.}
+{122}{}{Já jsem}
+{123}{}{Do toho ti nic není.}
 {124}{}{Chci se pøidat k Hubologistùm.}
 {125}{}{Kdo JSI? A co tady DÌLÁŠ?}
 {126}{}{Nic. Nashle.}
 {127}{}{Jmenuji se Harry. Jsem šéf raketových technikù.}
-{128}{}{Jsem}
-{129}{}{To tì nemusí zajímat.}
+{128}{}{Já jsem}
+{129}{}{Do toho ti nic není.}
 {130}{}{Chci se pøidat k Hubologistùm.}
 {131}{}{Nic. Nashle.}
 {132}{}{Nechceš spolupracovat, jo? Stráže! Zabijte toho vetøelce!}
 {133}{}{Tvý stráže jsou už teï mrtví.}
-{134}{}{Sejdi dolù po schodech a promluv si s AHS-7 na stráži. On už tì nasmìruje.}
-{135}{}{Díky. Nashle.}
-
+{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{135}{}{Dík. Naskle.}
+{161}{}{. Jen se rozhlížím kolem.}
+{162}{}{. Jen se rozhlížím kolem.}
+{163}{}{. Jen se rozhlížím kolem.}
 {170}{}{Potøebuji pomoc, chlapèe. Máš chvíli?}
 {171}{}{Stále potøebuji pomoc, chlapèe. Máš chvíli?}
 {172}{}{Kdo jsi?}
-{173}{}{Co tady dìláš?}
+{173}{}{Co tu dìláš?}
 {174}{}{Mám kopii plánù vertibirdu od Shi.}
 {175}{}{Mám ty plány vertibirdu.}
-{176}{}{Shi mají plány vertibirdu.}
-{177}{}{Co pro tebe mùžu udìlat?}
+{176}{}{The Shi have the plans for the vertibird.}
+{177}{}{Co pro tebe mohu udìlat?}
 {178}{}{Zapomeò na to. Nashle.}
 {179}{}{Jmenuji se Harry, AHS-5. Jsem hvìzdný bratr, který má na starosti raketoplán. Chystáme se ho použít na cestu ke Quetzelu.}
 {180}{}{Mùžu se zeptat na nìco jiného?}
-{181}{}{Aha. Nashle.}
+{181}{}{Rozumím. Nashle.}
 {182}{}{Pøipravuji tuto loï na velkou cestu k Hvìzdnému Otci. Jsme už velmi blízko.}
 {183}{}{Mùžu se zeptat na nìco jiného?}
-{184}{}{Aha. Nashle.}
+{184}{}{Rozumím. Nashle.}
 {185}{}{Máš ty plány? Výbornì! Teï už jen potøebujeme palivo! Shi mají údajnì palivo. Podívej se, jestli pro nás mùžeš nìjaké sehnat. Hodnì štìstí, rekrute!}
 {186}{}{[KONEC]}
 {187}{}{Pak je tedy musíš pro nás sehnat. A teï mì prosím omluv, kamaráde -- musím pokraèovat v pøípravì lodi na naši velkou cestu.}
@@ -65,10 +66,4 @@
 {199}{}{Takže už víš, co potøebujeme? Palivo. Spoustu paliva. Shi mají údajnì palivo. Zkus ho pro nás sehnat.}
 {200}{}{Pamatuj si, že máš pro nás sehnat palivo pro naši velikou vesmírnou loï.}
 {201}{}{Aha, dobøe. Nashle.}
-
-{161}{}{. Jenom se tak dívám.}
-{162}{}{. Jenom se tak dívám.}
-{163}{}{. Jenom se tak dívám.}
-
-#added by killap
 {300}{}{Nìkdo se nám hacknul do systému a naše zásoby paliva byly odèerpány. Nemám èas se teï s tebou vybavovat.}

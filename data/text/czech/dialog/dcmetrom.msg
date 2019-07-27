@@ -1,19 +1,13 @@
-# 0. Look
 {100}{}{Vidíš drsného otrokáøe ve støedních letech.}
 {101}{}{Vidíš dobøe urostlého otrokáøe.}
-
 {150}{}{Tohle je otrokáø, který vypadá, že ho jeho práce baví.}
 {151}{}{Tento otrokáø vypadá, že je velmi silný, ale ne moc chytrý.}
-
-# 1. Metzger's Bedroom Guard (2nd Time = Hostile)
 {200}{}{Vypadni sakra od tìch dveøí.}
 {201}{}{Co to sakra dìláš?}
 {202}{}{Metzger ti utrhne hlavu, jestli nevypadneš.}
 {203}{}{Hej, dìvko, vypadni od tìch dveøí.}
 {204}{}{Žádná dìvka nevstoupí do Metzgerova pokoje. Vypadni.}
 {205}{}{Vypadni, dìvko. Otrokáø nebo ne, do Metzgerova pokoje nesmíš.}
-
-# 2. CF: Generic
 {250}{}{Promluv si s Metzgerem, ne se mnou, kámo.}
 {251}{}{Chceš se pøidat k cechu?}
 {252}{}{Èlenství v cechu nese pìkný prachy.}

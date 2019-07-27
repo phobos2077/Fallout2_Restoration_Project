@@ -8,7 +8,7 @@
 {107}{}{Da yagga! Eep oop op!}
 {108}{}{Dugstore? Rugstore?}
 {109}{}{I have some ore I want refined, and I don't want to pay the refinery's prices.}
-{110}{}{What can you tell me about Broken Hills?}
+{110}{}{O que você pode me dizer sobre Broken Hills?}
 {111}{}{I want some chemicals mixed.}
 {112}{}{I was told to speak to you about a certain matter regarding mutants.}
 {113}{}{Adeus.}
@@ -65,7 +65,7 @@
 {178}{}{Still not in.}
 {179}{}{Oh, all right. You've convinced me. }
 {180}{}{Then that's your choice. I'll let you go on with your life. Pity, though. You look tough.}
-{181}{}{Yeah. Bye.}
+{181}{}{É. Tchau.}
 {182}{}{You are, eh? I don't think so, traitor.}
 {183}{}{O que?}
 {184}{}{I have a little job for you. Our friends, Manson and Franc, are being held in jail. I want you
@@ -79,7 +79,7 @@
 {191}{}{Got it. See ya.}
 {192}{}{More questions?}
 {193}{}{I have some ore I want refined, and I don't want to pay the refinery's prices.}
-{194}{}{What can you tell me about Broken Hills?}
+{194}{}{O que você pode me dizer sobre Broken Hills?}
 {195}{}{I want some chemicals mixed.}
 {196}{}{Nada. Tchau.}
 {222}{}{Way to turn on your own kind, mutie-lover. How could you do that to Chad? I don't care what you've done for us. You're a
@@ -101,7 +101,7 @@
 {258}{}{It's like this. We hate the mutants. We want to kill them. The best way to get rid of 'em is to
  blow the mine up while they're inside. We want you to plant the charge.}
 {259}{}{I'll do it!}
-{260}{}{I can't do that.}
+{260}{}{Eu não posso fazer isso.}
 {261}{}{Excellent, my friend! Here. Take this explosive switch. Hook it up to the air purifier and get the hell out of there.
  We've arranged it so that the town's mutants will be in the mine.}
 {262}{}{Just let me know when you're ready to go.}
@@ -129,7 +129,7 @@
 {282}{}{Your ore is done. Here you go.}
 {283}{}{Obrigado!}
 {284}{}{I'm not done with the ore yet. Give me some time.}
-{285}{}{I had other questions.}
+{285}{}{Eu tenho outras perguntas.}
 {286}{}{Tudo bem. Tchau.}
 {287}{}{Ready for the distraction?}
 {288}{}{Ready to try that distraction again?}

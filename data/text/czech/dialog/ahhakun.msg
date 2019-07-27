@@ -3,11 +3,11 @@
 {102}{}{Vidíš Hakunina. Umírá.}
 {103}{}{Hakunin je ošklivì popálenı. Vypadá jako biftek, kterı nìkdo zapomnìl nad ohnìm, a stejnì tak i páchne. Vùbec nedokáeš pochopit, jak dokázal tak dlouho pøeít.}
 {104}{hak001}{Vítej, Vyvolenı. Proè má pùda mé chıše potìšení ohøát se dotekem tvıch krokù?}
-{105}{}{He?}
+{105}{}{Bléh?}
 {106}{}{Jdu ti øíct sbohem. Odcházím splnit svùj svatı úkol.}
-{107}{}{Chystám se odejít. A napadlo mì, e snad pøi té pøíleitosti budeš koneènì jednou mluvit jako normální èlovìk.}
+{107}{}{Chystám se odejít. A napadlo mì, e snad pøi té pøíleitosti budeš koneènì jednou mluvit jako normální èlovìk. Jak vidím, byla to marná nadìje.}
 {108}{}{Nemìl bys to s tìma drogama tak pøehánìt. Mìj se.}
-{109}{}{Mám zranìní. Dokáeš mì uzdravit?}
+{109}{}{Mám zranìní. Mùeš mì vyléèit?}
 {110}{}{Na zahrádce ti vyrostl nìjakı sajrajt. Ale buï v klidu, u to tam máš vyplenìnı.}
 {111}{hak001a}{Odhal prosím zamlenım oèím starce dùvod svého pøíchodu.}
 {112}{}{Bléh?}
@@ -94,10 +94,10 @@
 {193}{}{He?}
 {194}{}{Uuuf! Béhéhé!}
 {195}{hak020}{Tvá slova mì naplòují radostí. Bìda, bohové u mi šeptají do uší. Sbohem.}
-{196}{}{Sbohem.}
+{196}{}{Nashle.}
 {197}{}{Poøád mícháme bylinky? Nashle.}
 {198}{hak021}{Kadı z nás má svou zahradu. Ké nikdy neztratíš z oèí svùj cíl. A teï sbohem. Nesmím se opozdit na schùzku s bohy.}
-{199}{}{Mìj se.}
+{199}{}{Zatím.}
 {200}{}{Vsadím se, e si ty své bohy nosíš poøád s sebou. Sbohem.}
 {201}{hak022}{Pohlédni k severu, Vyvolenı, a cesta se ti otevøe.}
 {202}{}{Dobøe. Díky.}
@@ -126,18 +126,18 @@
 {225}{}{Eh.}
 {226}{}{Co?!}
 {227}{hak029}{Vítej zpìt, Vyvolenı. Na tvé tváøi vidím, e spásnı GECK nám stále ještì nepatøí. Mìj vytrvalost mravence nebo naše zásoby tají jako sníh na slunci. Jsi naše poslední nadìje.}
-{228}{}{E-he.}
+{228}{}{Aha.}
 {229}{}{Snaím se. A rád bych vidìl mravence, kterı ušel tolik mil jako já.}
 {230}{}{Dìlám co mùu.}
 {231}{}{Zdvojnásobím své úsilí, svatosti. Nenechám vás padnout.}
 {232}{}{No jo. U mì nudí tohleto poslouchat.}
 {233}{hak030}{Vyvolenı, naše vesnice je zoufalá. Dìti u tıden nejedly. Prosím, u moc dlouho nevydríme.}
-{234}{}{E-he.}
+{234}{}{Aha.}
 {235}{}{Snaím se. Já se snaím! Dejte mi pokoj!}
 {236}{}{Já GECK najdu, svatosti. Máš moje slovo.}
 {237}{}{Udìlám všechno, abych GECK našel.}
 {238}{hak031}{Vyvolenı, v hodinách èasu zbıvá u jen nìkolik posledních zrníèek. Prosím. Pøines nám rychle GECK a dej naší vesnici tolik budoucnosti, jako je písku na plái u oceánu. Pospìš si, dokud nespadne poslední zrnko.}
-{239}{}{E-he.}
+{239}{}{Aha.}
 {240}{}{Jasnì. Jdu ho hledat.}
 {241}{}{ivot je jak plá, co?}
 {242}{}{Já GECK najdu, svatosti. Nenechám náš lid padnout.}
@@ -156,7 +156,7 @@
 {255}{hak104}{Ne! Lesklé nebıt hezké! Unesli naše lidi a vzali je nìkam na jihozápad.}
 {256}{}{Jù.}
 {257}{hak105}{Ano. Velkı smutek a bolest. Proto jsem zùstal mezi dvìma svìty, Vyvolenı. Zachraò naše lidi.}
-{258}{}{Hé?}
+{258}{}{Eh?}
 {259}{hak106}{Vyvolenı, dovol prosím mım slovùm, a se dotknou tvé duše. Jdi na jihozápad. Jih a západ. Zachraò naše lidi. Zachraò je.}
 {260}{}{E-he...}
 {261}{hak107}{Díkybohu. Teï se má duše mùe koneènì pøipojit k vìèné písni èasu. Šastnou cestu, Vyvolenı.}
@@ -189,7 +189,6 @@
 {288}{hak121}{Podivná mlha jim ukradla jejich mysl a poslala je do øíše Spánku. Zlí pak chodili mezi spáèi, kteøí spali, ale nesnili.}
 {289}{}{A potom?}
 {290}{hak122}{Pøíliš mnoho let a pøíliš mnoho zranìní, Vyvolenı. Teï mì musíš poslouchat.}
-{291}{}{Dobøe.}
-
+{291}{}{Tak dobøe.}
 {300}{}{Ti, kteøí kradou, nesou tìké bøímì. Pamatuj na to, Vyvolenı.}
 {301}{}{Nyní musíš zaplatit za své høíchy, Vyvolenı.}

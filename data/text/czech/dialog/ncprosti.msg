@@ -1,7 +1,4 @@
-# QUICK LOOK
 {100}{}{Vidíš prostitutku.}
-
-# EXAMINE
 {150}{}{Vidíš... ehm, dámu veèera. Její sporé šaty svùdnì obepínají celé její tìlo.}
 {151}{}{Vidíš prostitutku. Mrká na tebe.}
 {152}{}{Vidíš prostitutku. Její oèi jsou jak roznìtky.}
@@ -11,41 +8,33 @@
 {156}{}{Vidíš prostitutku. Tváøí se, jako by chtìla své partnery zabít a sníst.}
 {157}{}{Vidíš prostitutku. Prohlíí si tì jako zlatník prsten.}
 {158}{}{Vidíš prostitutku. Její sporé šaty svùdnì obepínají celé její tìlo.}
-
-# 1. [MALE, ENCLAVE DESTROYED]
-{175}{}{Ach boe... to je on. }
+{175}{}{Oh my... it's him.}
 {176}{}{Jseš ten nejvìtší kanec na svìtì.}
 {177}{}{::Omdlévá::}
-{178}{}{Podívejte, to je pøece }
+{178}{}{Jooo, }
 {179}{}{::Tleská::}
-{180}{}{::Z dálky tì zdraví::}
-{181}{}{Ach boe... to je ona. }
-{182}{}{Jen tak dál, holka!}
-{183}{}{::Dává ti znamení vztyèenım palcem::}
-
-# 2. [POWER ARMOR]
+{180}{}{::Fandí::}
+{181}{}{Oh my... it's her.}
+{182}{}{Fandím ti, holka!}
+{183}{}{::Ukáe ti vztyèenı palec::}
 {190}{}{Tolik penìz nemáš, abych to s tebou dìlala, kdy máš na sobì TOHLE.}
-
-# 3. [MALE, PORN STAR]
-{195}{}{Hele, kouknìte, to je }
+{195}{}{Tady jsem, }
 {196}{}{Podívejte! To je on!}
-{197}{}{Ahoj, }
+{197}{}{Nazdar, }
 {198}{}{Ahoj cukrouši. Nenašlo by se u vás místo?}
 {199}{}{Kdy vyjde tvùj novej film?}
 {200}{}{Mmmm-mmmm. Uka se, svalovèe.}
 {201}{}{Nepotøebuješ ode mì nìco, bejku?}
-{202}{}{A sakra, nìco mi spadlo do tvejch kalhot. Mùu si to vylovit?}
+{202}{}{Jejda, upadlo mi nìco do tvıch kalhot. Mùu si to vylovit?}
 {203}{}{Zboòuju tì ve filmu "Anální Nikita".}
 {204}{}{Zboòuju tì ve filmu "Oral Hills 90210".}
 {205}{}{Skvìlı vıkon v Øinících.}
-{206}{}{Skvìlı vıkon ve "Vault Sexteen". Fakt inspirativní záitek.}
+{206}{}{Skvìlı vıkon v Øinících.}
 {207}{}{Hmmmm. Jak se udruješ v kondici?}
-{208}{}{Dáš mi svùj autogram? Sem na mùj hrudník...}
-{209}{}{Mùu hrát v tvım dalším filmu?}
+{208}{}{Mùeš se mi podepsat? Na prsa?}
+{209}{}{Mohla bych si zahrát v tvım dalším filmu?}
 {210}{}{S tebou bych orgasmus NIKDY nemusela pøedstírat, }
 {211}{}{Slábnu. U to... dlouho... nevydrím. Musím... se s tebou... vyspat...}
-
-# 4. [PORN STAR, FEMALE]
 {212}{}{Kdepak hvìzda, jenom obyèejná divošská špína...}
 {213}{}{Nikdy by mì nenapadlo, e dovolí pornohvìzdám, aby byly TAK tlustı...}
 {214}{}{Je ošklivá.}
@@ -67,7 +56,7 @@
 {230}{}{Jdi s tím tlustım zadkem nìkam.}
 {231}{}{Jseš talentovaná asi jako moje bota.}
 {232}{}{Zùstaò na tıhle ulici a sejmeme tì.}
-{233}{}{Dìvko.}
+{233}{}{Dìvka.}
 {234}{}{Nafoukaná dìvko...}
 {235}{}{Odpade...}
 {236}{}{Tsss!}
@@ -86,79 +75,71 @@
 {249}{}{Nechápu, co na NÍ Korsickı bratøi vidí...}
 {250}{}{Máš talent asi jako paøez a jseš dvakrát tak ošklivìjší.}
 {251}{}{Nemluvím s ODPADEM jako jsi ty.}
-
-# 5. [MALE, PRIZEFIGHTER]
 {252}{}{Kouknìte na ty svaly! Cítím se tak slabá...}
-{253}{}{Sááákryš!}
-{254}{}{::Píská na tebe::}
-{255}{}{Je to chlap jako hora. Koukejte na ty bicepsy.}
+{253}{}{Sákryš!}
+{254}{}{::Píská::}
+{255}{}{Je to chlap jako tank. Mrkejte na ten jeho kanón.}
 {256}{}{Koukejte na ty stehna...}
 {257}{}{Ten musí bıt mùj...}
-{258}{}{::Touebnì vzdychá::}
+{258}{}{::Vzdych::}
 {259}{}{To je ale kus chlapa!}
-{260}{}{Kdy se na mì podívá, taju jako sníh.}
+{260}{}{{Kdy se na mì podívá, taju jako sníh.}
 {261}{}{Není tohle náš král ringu...?}
 {262}{}{Má ruce jako dvì dìla.}
 {263}{}{Podívejte! To je }
 {264}{}{}
 {265}{}{Ten by stál za høích.}
-{266}{}{Chceš si to se mnou rozdat v ringu, šampióne?}
+{266}{}{Tak co, šampióne? Neskoèíme spolu do ringu?}
 {267}{}{Chceš si "zaboxovat", šampióne?}
 {268}{}{Jak to šlape, }
 {269}{}{Hledáš mì?}
-{270}{}{Proè sem nechodíš èastìji?}
+{270}{}{Proè sem nechodíš èastìjc?}
 {271}{}{Mám jedno pøání, kterı mi mùeš splnit jen ty.}
 {272}{}{Potøebuješ spoleènost, }
 {273}{}{Jseš POØÁDNEJ kus chlapa.}
 {274}{}{Víš, e mì vzrušuješ?}
-{275}{}{Máš hezkı náøadíèko.}
-{276}{}{Potøebuješ, aby se ti o to nìkdo postaral, šampióne?}
-{277}{}{Poslyš... dej si pozor na dímaèku. Je to hroznej kretén. Jednou se mi pokusil ukousnout ucho.}
-
-# 6. [FEMALE, PRIZEFIGHTER]
+{275}{}{Máš moc pìknı dìlo.}
+{276}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
+{277}{}{Jo a... dávej si bacha na dímaèku. Je to hroznej kretén. Jednou se mi pokoušel ukousnout ucho.}
 {278}{}{Podívejte! To je }
-{279}{}{Hledáš spoleènost, }
+{279}{}{Potøebuješ spoleènost, }
 {280}{}{}
 {281}{}{To je ale kus enskı! Chtìla bych umìt mlátit chlapy stejnì jako ona.}
 {282}{}{Á, tady jde naše drsná enská.}
 {283}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{284}{}{Je dìsnì sexy.}
-
-# 7. [MADE MAN]
+{284}{}{Je to docela koèka.}
 {285}{}{Ach boe... to je on. }
 {286}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
 {287}{}{Sákryš!}
-{288}{}{::Píská na tebe::}
+{288}{}{::Píská::}
 {289}{}{To je ale kus chlapa!}
 {290}{}{{Kdy se na mì podívá, taju jako sníh.}
 {291}{}{Má ruce jako dvì dìla.}
 {292}{}{Ahóóój, }
-{293}{}{Nepotøebuješ spoleènost, }
+{293}{}{Potøebuješ spoleènost, }
 {294}{}{}
 {295}{}{Ach boe... to je ona. }
 {296}{}{To je ale kus enskı!}
 {297}{}{Á, tady kráèí jedna poøádnì drsná dìvka.}
 {298}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{299}{}{Je dìsnì sexy.}
-
-# 8. [SLAVER]
+{299}{}{Je to docela koèka.}
 {300}{}{Jmenuju se Povolná, otrokáøi. A ty?}
 {301}{}{Nazdar otrokáøi, nepotøebuješ spoleènost?}
 {302}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
 {303}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, otrokáøi?}
 {304}{}{Zdá se, e máš v koulích pøetlak, otrokáøi. Neulevíme jim spolu trochu?}
 {305}{}{Copak to máš v kalhotech za hada?}
-{306}{}{Hledáš nìjakı vzrušení?}
-{307}{}{Otrokáøi, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
+{306}{}{Hledáš povyraení?}
+{307}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska, otrokáøi.}
 {308}{}{Sháníš rande?}
 {309}{}{Slyšela jsem, e se nìco stalo v Obchodní ètvrti...}
 {310}{}{Hledáš spoleènost?}
 {311}{}{Chceš si zaskotaèit?}
-{312}{}{Otrokáøi, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
+{312}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska, otrokáøi.}
 {313}{}{Ale jistìe budu tvoje "spoleènice"... za pár babek.}
 {314}{}{Zdá se, e do mìsta pøišel cizinec...}
 {315}{}{Chceš si zalítat, otrokáøi?}
-{316}{}{Chceš si zahrát na otrokáøe a jeho otrokyni?}
+{316}{}{Chceš si zahrát na otrokáøe a otrokyni?}
 {317}{}{Pìknej klacek.}
 {318}{}{Pojï, já tì rozveselím, smutnı klaune.}
 {319}{}{Zabloudil jsi, otrokáøi?}
@@ -175,7 +156,7 @@
 {330}{}{Chceš si zahrát na otrokáøe a otrokyni?}
 {331}{}{Zahrajeme si na páraèe v dobì páøení?}
 {332}{}{Nepotøebuješ vyprázdnit nádr, otrokáøi?}
-{333}{}{Pomùeš pannì zbavit se svého panenství?}
+{333}{}{Pomùeš pannì zbavit se svıho panenství?}
 {334}{}{Vdycky kdy toho otrokáøe vidím, zaène mi pípat mùj Geigerùv pøístroj.}
 {335}{}{Jestli chceš, abych pøi tom byla milá, bude tì to nìco stát.}
 {336}{}{[Zpívá.] "Jsi moje kláda, moje kláda... kterou já mám nadevše ráda."}
@@ -198,7 +179,7 @@
 {353}{}{Líbí se ti co vidíš, otrokáøi?}
 {354}{}{Hledáš lásku, otrokáøi?}
 {355}{}{Nazdar otrokáøi! Pojï ke mnì.}
-{356}{}{::Píská na tebe::}
+{356}{}{::Hvízdá na tebe::}
 {357}{}{Zùstaneš v Renu dlouho?}
 {358}{}{Nesnáším ulání koulí.}
 {359}{}{Nechceš mì šoupnout zpátky do svı klece, otrokáøi?}
@@ -238,14 +219,14 @@
 {393}{}{Nazdar otrokáøi! Nepotøebuješ prùvodce?}
 {394}{}{Jules chce poøád volòásky.}
 {395}{}{Chceš se pomazlit, otrokáøi?}
-{396}{}{Rodiny prı mají mezi sebou zase nìjakı tøenice.}
+{396}{}{Rodiny prı maj mezi sebou zase nìjakı tøenice.}
 {397}{}{Kšefty stagnujou. U aby dorazila nìjaká karavana.}
 {398}{}{Take se pøevlíkl za páraèe a pak...}
 {399}{}{Potøebuju rozepnout šaty.}
 {400}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {401}{}{Mmm-mmm. Vypadá to, e se blíí období páøení.}
 {402}{}{Potøebuješ pøítelkyni?}
-{403}{}{Minulej tejden jsem kopla Julese pøímo do koulí.}
+{403}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {404}{}{Chceš si trochu uít, otrokáøi?}
 {405}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {406}{}{Miluju kondomy s pøíchutí brahmín.}
@@ -258,25 +239,25 @@
 {413}{}{Sice jsem ještì panna, ale potøebuju peníze.}
 {414}{}{Buï nìnej, dneska je to poprvı.}
 {415}{}{Jsem hroznì nadrená.}
-{416}{}{Ty máš touhu, já mám øešení.}
-{417}{}{Probudím v tobì dìtskou touhu.}
+{416}{}{Ty máš chu, já mám spásu.}
+{417}{}{Probudím v tobì duši dítìte.}
 {418}{}{Chceš si zaskotaèit, zlato?}
 {419}{}{Hledáš kde zakotvit?}
 {420}{}{Chceš mì slyšet sténat?}
-{421}{}{::Vrrrrr::}
+{421}{}{::Vrrrr::}
 {422}{}{::Špulí ústa::}
 {423}{}{::Posílá ti polibek::}
 {424}{}{Chceš si vrznout?}
 {425}{}{Nejsem sice levná, ale za to dìlám i speciality.}
 {426}{}{Svazování je za pøíplatek.}
 {427}{}{Kde jsem nechala svùj biè?}
-{428}{}{Staèí øíct a mùeme jít na to.}
+{428}{}{Staèí øíct a mùem jít na to.}
 {429}{}{Vèera veèer jsem se musela oblíknout jako WILMA.}
 {430}{}{Vèera jsem to dìlala s Myronem. Asi 5 sekund.}
 {431}{}{Ké by vynalezli nìjakı tìlovı oleje vonící po Jetu...}
 {432}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
 {433}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{434}{}{::Píská na tebe::}
+{434}{}{::Píská::}
 {435}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
 {436}{}{Chceš si uít, otrokáøi?}
 {437}{}{Radši bych to dìlala s Avellonem.}
@@ -287,7 +268,7 @@
 {442}{}{Vypadá to, e chceš zabít trochu nudy.}
 {443}{}{A hele! Turista!}
 {444}{}{Kousání je za pøíplatek.}
-{445}{}{Jmenuju se Povolná, otrokáøko. A ty?}
+{445}{}{Jmenuju se Povolná. A ty, otrokáøko?}
 {446}{}{Nazdar otrokáøko. Sháníš enskou?}
 {447}{}{Chceš zkusit jakı je to se enskou, zlato?}
 {448}{}{Potøebuješ "otrokyni" na veèer, otrokáøko?}
@@ -302,11 +283,9 @@
 {457}{}{Nemáš oheò, otrokáøko?}
 {458}{}{Ta otrokáøka je docela sexy.}
 {459}{}{Kdy vidím tu otrokáøku, zaène mi pípat mùj Geigerùv pøístroj.}
-
-# 9. (ANY) TO [COMPANION: ROBOBRAIN AND/OR MARCUS]
-{460}{}{Garantuju ti, e jsem v posteli lepší ne ten tvùj robot.}
+{460}{}{I guarantee I'm better in the sack than that robot following you around.}
 {461}{}{Je ten robot PLNÌ funkèní?}
-{462}{}{To je nìjakej hrací automat co chodí poøád za tebou?}
+{462}{}{To je nìjakej hrací automat co za tebou poøád jezdí?}
 {463}{}{To je nìjakej novej hrací automat?}
 {464}{}{Umí ten tvùj robot nìjakı triky? Eh... myslím kouzelnı triky.}
 {465}{}{Øekni, e to není mutant.}
@@ -315,8 +294,6 @@
 {468}{}{Ten mutant je fakt velkej.}
 {469}{}{Ten mutant vypadá, e by mì dokázal rozmaèkat jednou rukou. Hmmmnnn.}
 {470}{}{Ani nevím, kolik bych si mìla za mutanta úètovat.}
-
-# 10. [COMPANION: MYRON]
 {471}{}{Ahoj Myrone!}
 {472}{}{Myrone! Zlato! Kdy se zase uvidíme, ty mùj èumáèku?}
 {473}{}{My-ron. Myyyyyy-ron.}
@@ -329,8 +306,6 @@
 {480}{}{Mùeš mi sehnat trochu Jetu, Myrone?}
 {481}{}{Kdy mi doneseš nìjakej Jet, Myrone?}
 {482}{}{Pomueš mi s lítáním, Myrone?}
-
-# 11. [PLAYER IS MALE] + [COMPANION: BONE-NOSE]
 {483}{}{Jmenuju se Povolná. A ty?}
 {484}{}{Nepotøebuješ spoleènost?}
 {485}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
@@ -338,7 +313,7 @@
 {487}{}{Potøebuješ nìkoho, kdo by ti zahøál postel?}
 {488}{}{Zdá se, e máš v koulích pøetlak, kámo. Neulevíme jim spolu trochu?}
 {489}{}{Copak to máš v kalhotech za hada?}
-{490}{}{Nehledáš nìjakou zábavu?}
+{490}{}{Hledáš povyraení?}
 {491}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
 {492}{}{Sháníš rande?}
 {493}{}{Slyšela jsem, e se nìco stalo v Obchodní ètvrti...}
@@ -372,13 +347,13 @@
 {521}{}{Jestli chceš, abych si s tebou potom povídala, tak si musíš pøiplatit.}
 {522}{}{Mùu ti s nìèím pomoct, cizinèe?}
 {523}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{524}{}{Ten tvùj pøítel s tou velkou kostí v nose... pìknej šašek.}
-{525}{}{Umí ten tvùj pøítel s kostí nìjakı triky s nosem?}
-{526}{}{Moná bych si taky mìla do nosu strèit kost. Mohlo by to pøilákat víc zákaznic.}
-{527}{}{Jeišikriste, ten chlap má v nose kost, která je velká jako moje ruka.}
-{528}{}{Radši ani nechci vìdìt, jak si tam ten chlap tu kost nacpal.}
-{529}{}{Pro koho ten tvùj pøítel s kostí v nose šlape?}
-{530}{}{Kolik si úètuje ten tvùj kámoš za tu kost v nose?}
+{524}{}{Ten tvùj pøítel s tou velkou kostí v nose... to je dobrej šašek.}
+{525}{}{Umí ten tvùj pøítel s tou kostí nìjakı kousky s nosem?}
+{526}{}{Moná bych si taky mìla do nosu strèit kost. Mohlo by to pøilákat zákaznice.}
+{527}{}{Jeišikriste, ta kost, co má ten chlap v nose, je velká jako moje ruka.}
+{528}{}{Radši ani nechci vìdìt jak si tam ten chlap tu kost nacpal.}
+{529}{}{Pro koho tvùj pøítel s tou kostí v nosu šlape?}
+{530}{}{Kolik si úètuje ten tvùj kámoš s kostí v nose?}
 {531}{}{Za tøicet doláèù tvımu kámošovi tu kost v nose vykouøím...}
 {532}{}{Ten tvùj pøítel si tou kostí v nose kompenzuje nìjakej komplex?}
 {533}{}{Koneènì jsem si poøídila vycpanou pelest.}
@@ -411,13 +386,13 @@
 {560}{}{Zaprášení kovbojové, to je pøesnì to, co hledám.}
 {561}{}{Mùu øíct kámošce jestli chceš dvojitej orál.}
 {562}{}{Pøála bych si, aby byl Myron teplej.}
-{562}{}{Èerstvı maso ve mìstì...}
-{563}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
-{563}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu...}
-{564}{}{Koupíš sleènì pití?}
-{565}{}{Vezmeš osamìlou enu do mìsta?}
-{566}{}{A hele! Turista!}
-{569}{}{Pojï sem, zlato, za chvíli zaène šou...}
+{563}{}{Èerstvı maso ve mìstì...}
+{564}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
+{565}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu...}
+{566}{}{Koupíš sleènì pití?}
+{567}{}{Vezmeš osamìlou enu do mìsta?}
+{568}{}{A hele! Turista!}
+{569}{}{Pojï blí, zlato, a mùeme na to hupsnout...}
 {570}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
 {571}{}{Nazdar cizinèe.}
 {572}{}{Doufám, e mì Jules pøestane otravovat.}
@@ -439,7 +414,7 @@
 {588}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {589}{}{Mmm-mmm. Vypadá to, e se blíí období páøení.}
 {590}{}{Nechceš zabít trochu nudy?}
-{591}{}{Minulej tejden jsem kopla Julese pøímo do koulí.}
+{591}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {592}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {593}{}{Miluju kondomy s pøíchutí brahmín.}
 {594}{}{Vyrazíme si spolu?}
@@ -454,12 +429,12 @@
 {603}{}{Sice jsem ještì panna, ale potøebuju peníze.}
 {604}{}{Buï nìnej, dneska je to poprvı.}
 {605}{}{Jsem hroznì nadrená.}
-{606}{}{Ty máš touhu, já mám øešení.}
-{607}{}{Probudím v tobì dìtskou touhu.}
+{606}{}{Ty máš chu, já mám spásu.}
+{607}{}{Probudím v tobì duši dítìte.}
 {608}{}{Chceš si zaskotaèit, zlato?}
 {609}{}{Hledáš kde zakotvit?}
 {610}{}{Chceš mì slyšet sténat?}
-{611}{}{::Vrrrrr::}
+{611}{}{::Vrrrr::}
 {612}{}{::Špulí ústa::}
 {613}{}{::Posílá ti polibek::}
 {614}{}{Jsem vzhùru od vèerejšího veèera...}
@@ -474,7 +449,7 @@
 {623}{}{Pomùeš pannì zbavit se svıho panenství?}
 {624}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
 {625}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{626}{}{::Píská na tebe::}
+{626}{}{::Píská::}
 {627}{}{Kousání je za pøíplatek.}
 {628}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
 {629}{}{Chceš si uít?}
@@ -501,10 +476,8 @@
 {650}{}{Hledáš potìšení, holka?}
 {651}{}{Chceš si trochu uít, holka?}
 {652}{}{Nepotøebuješ prùvodce, zlato?}
-{652}{}{Nemáš oheò, holka?}
-{653}{}{Kdy vidím tu enskou, zaène mi pípat mùj Geigerùv pøístroj.}
-
-# 12. [NO REP]
+{653}{}{Nemáš oheò, holka?}
+{654}{}{Kdy vidím tu enskou, zaène mi pípat mùj Geigerùv pøístroj.}
 {655}{}{Jmenuju se Povolná. A ty?}
 {656}{}{Nepotøebuješ spoleènost?}
 {657}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
@@ -604,7 +577,7 @@
 {751}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {752}{}{Mmm-mmm. Vypadá to, e se blíí období páøení.}
 {753}{}{Nechceš zabít trochu nudy?}
-{754}{}{Minulej tejden jsem kopla Julese pøímo do koulí.}
+{754}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {755}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {756}{}{Miluju kondomy s pøíchutí brahmín.}
 {757}{}{Vyrazíme si spolu?}
@@ -619,8 +592,8 @@
 {766}{}{Sice jsem ještì panna, ale potøebuju peníze.}
 {767}{}{Buï nìnej, dneska je to poprvı.}
 {768}{}{Jsem hroznì nadrená.}
-{769}{}{Ty máš touhu, já mám øešení.}
-{770}{}{Probudím v tobì dìtskou touhu.}
+{769}{}{Ty máš chu, já mám spásu.}
+{770}{}{Probudím v tobì duši dítìte.}
 {771}{}{Chceš si zaskotaèit, zlato?}
 {772}{}{Hledáš kde zakotvit?}
 {773}{}{Chceš mì slyšet sténat?}
@@ -639,7 +612,7 @@
 {786}{}{Pomùeš pannì zbavit se svıho panenství?}
 {787}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
 {788}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{789}{}{::Píská na tebe::}
+{789}{}{::Píská::}
 {790}{}{Kousání je za pøíplatek.}
 {791}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
 {792}{}{Chceš si uít?}
@@ -668,48 +641,42 @@
 {815}{}{Nepotøebuješ prùvodce mìstem, zlato?}
 {816}{}{Nemáš oheò, holka?}
 {817}{}{Kdy vidím tu enskou, zaène mi pípat mùj Geigerùv pøístroj.}
-
-# 13. [ENCLAVE DESTROYED]
-{818}{}{Enkláva? Prezident? Povìz mi celej pøíbìh.}
-{819}{}{Tom French mì naskriptoval. Má opravdu jemnı a nìnı ruce.}
+{818}{}{Enkláva? Prezident? Povìz mi o tom všechno.}
+{819}{}{Naskriptoval mì Tom French. Má moc hebké a nìné ruce.}
 {820}{}{Oni poøád vedli válku? Opravdu!? Díkybohu, e jsi ty bastardy zlikvidoval.}
 {821}{}{Jseš fakt borec. No jen si to vem, zaèneš jako divoch s kopím v ruce, bez uráky, a na konci zachráníš celej svìt. Jseš absolutní jednièka. Bez diskuze.}
-{822}{}{Mìl by sis tuhle hru zahrát znova za jinou postavu.}
+{822}{}{Mìl by sis tuhle hru zahrát za jinou postavu.}
 {823}{}{Povìz mi všechno o svım boji s Enklávou...}
 {824}{}{Poslyš, jestli chceš za záchranu svìta èíslo zdarma, tak mì nebudeš muset dlouho pøemlouvat...}
 {825}{}{Sice nevím, jak jsi ty bastardy z Enklávy porazil, ale jseš ten nejodvánìjší èlovìk, kterıho znám.}
 {826}{}{Tim Cain? Jo, to je mùj stálej zákazník.}
 {827}{}{Líbej mì, ty zvíøe.}
-{828}{}{Slyšela jsem, e se po tobì shání Korsiètí bratøi. Chtìjí s tebou na motivy tvıho pøíbìhu natoèit pornofilm.}
+{828}{}{Myslím, e tì hledají Bratøi. Chtìj natoèit film podle tvıho dobrodruství.}
 {829}{}{Moc nám chybí Tim Cain. Pekl bájeènej chleba. A pak nás plácal po zadku jako malı dìti.}
 {830}{}{Já vím, e jsem jenom obyèejnı NPC, ale jsem hluboce dotèena tím, jak jsou eny V New Reno zobrazovány.}
 {831}{}{enskı v tomhle mìstì byly nejspíš navrenı nìjakım nadrenım puberákem, kterej ije ve sklepì svejch rodièù.}
 {832}{}{New Reno bylo navrenı Chrisem Avellonem a Tomem Frenchem. Oba dva jsou sexuální BOZI.}
 {833}{}{Feargus se úplnì zhrozil, kdy vidìl kolik mám plovoucích textù. Je to hroznej morous.}
 {834}{}{Øíkáš, e Locutus slouil Enklávì? A já kráva mu dala zadarmo!}
-
-# 14. [POWER ARMOR]
 {835}{}{Nìjaká ena ti urèitì musela hroznì ublíit, kdy ses rozhodl zavøít se do tı konzervy. Uka, pomùu ti ven.}
 {836}{}{Podívej, Plechovko, jestli po mnì chceš, abych se kvùli tobì oblíkla jako Dorothy nebo Toto, tak to bude za pøíplatek.}
 {837}{}{Poslyš, kámo, jestli na to chceš se mnou vlítnout, tak si tu zbroj musíš nejdøív sundat. Nechci se o tebe poøezat.}
 {838}{}{Má to nìco jako poklopec, nebo si to musíš svlíknout celı?}
 {839}{}{Bolí to kdy v tom dostaneš erekci?}
 {840}{}{Zdá se, e sis s sebou pøinesl svùj vlastní kondom.}
-{841}{}{To je nìjakej celotìlní kondom?}
+{841}{}{To je nìjakej obøí kondom?}
 {842}{}{Ty se fakt musíš hroznì bát pohlavních chorob, kdy na sobì nosíš tohle.}
 {843}{}{Jestli chceš, abych to s tebou dìlala, kdy máš na sobì tohle, tak jedinì za pøíplatek.}
 {844}{}{Jestli to chceš dìlat v tomhle, tak na to radši rovnou zapomeò.}
 {845}{}{Nezrezavíš a zvlhnu?}
 {846}{}{No... tak jo. Ale v ádnım pøípadì nebudeš nahoøe.}
-{847}{}{Jak sakra s tou zbrojí chodíš na záchod?}
+{847}{}{Jak sakra chodíš s tou zbrojí na záchod?}
 {848}{}{A jak tì mám z toho dostat? Flexou?}
-{849}{}{To je nìjakej novej druh vibrátoru?}
+{849}{}{To je nìjakej novej vibrátor nebo co?}
 {850}{}{Myslím, e jsem podobnou scénu kdysi vidìla v nìjakım Anime.}
 {851}{}{Nehledáš spíš myèku aut?}
 {852}{}{Poslyš, zlato, tu zbroj si budeš muset sundat. Nechci se o tebe poøezat.}
 {853}{}{Ty na sobì nosíš nìjakou novou antikoncepci?}
-
-# 15. [FEMALE, PRIZEFIGHTER]
 {854}{}{Nechceš se mnou hupsnout do ringu, zlato? Vydrím nejmíò 12 kol.}
 {855}{}{Nechceš si zaboxovat, }
 {856}{}{Holka, ty jseš poøádnej kus enskı.}
@@ -721,20 +688,16 @@
 {862}{}{Pìknej hrudník.}
 {863}{}{Jo a... dávej si bacha na dímaèku. Je to hroznej kretén. Jednou se mi pokoušel ukousnout ucho.}
 {864}{}{Víš, e jseš docela sexy, holka?}
-
-# 16. [MADE MAN]
 {865}{}{}
 {866}{}{Jestli hledáš spoleènost na veèer...}
 {867}{}{}
-{868}{}{Nazdar, }
-{869}{}{Pøimluvíš se za mì u šéfa?}
+{868}{}{Ahoj, }
+{869}{}{Nepøimluvíte se za mì u šéfa?}
 {870}{}{Hele, to je ten ïábel }
 {871}{}{Udìlám VŠECHNO, co budeš chtít... staèí jen øíct.}
-{872}{}{Pøimluvíš se za mì u šéfa?}
+{872}{}{Nepøimluvíte se za mì u šéfa?}
 {873}{}{}
 {874}{}{Eh, jestli hledáte spoleènost na veèer, madam...}
-
-# 17. [SLAVER]
 {875}{}{Jmenuju se Povolná, otrokáøi. A ty?}
 {876}{}{Potøebuješ nìkoho, kdo ti uleví od toho svrbìní v rozkroku, otrokáøi?}
 {877}{}{Nechceš mì šoupnout zpátky do svı klece, otrokáøi?}
@@ -749,7 +712,7 @@
 {886}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, otrokáøi?}
 {887}{}{Zdá se, e máš v koulích pøetlak, otrokáøi. Neulevíme jim spolu trochu?}
 {888}{}{Copak to máš v kalhotech za hada?}
-{889}{}{Hledáš povyraení??}
+{889}{}{Hledáš povyraení?}
 {890}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
 {891}{}{Sháníš rande?}
 {892}{}{Hele, u mnì se ádnı ochutnávky zdarma nevedou.}
@@ -823,7 +786,7 @@
 {960}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu.}
 {961}{}{Koupíš mi pití, otrokáøi?}
 {962}{}{Vezmeš osamìlou enu do mìsta, otrokáøi?}
-{963}{}{Eh, jasnì, e jsem ena. Jenom si nevšímej mıho ohryzku.}
+{963}{}{Eh... jasnì, e jsem enská. Jenom si nevšímej toho ohryzku.}
 {964}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
 {965}{}{Ahoj cizinèe.}
 {966}{}{Doufám, e mì Jules pøestane otravovat.}
@@ -845,7 +808,7 @@
 {982}{}{Promiò, co jsi to øíkal? Mìla jsem moc práce s pozorováním tvıho zadku.}
 {983}{}{Nechceš zabít trochu nudy?}
 {984}{}{Hledáš potìšení?}
-{985}{}{Minulej tejden jsem kopla Julese pøímo do koulí.}
+{985}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {986}{}{Chceš si trochu uít?}
 {987}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {988}{}{SAMOZØEJMÌ, e miluju kondomy s pøíchutí brahmín. Mòam.}
@@ -859,9 +822,9 @@
 {996}{}{Sice jsem ještì panna, ale potøebuju peníze.}
 {997}{}{Buï nìnej, dneska je to poprvı.}
 {998}{}{Jsem hroznì nadrená.}
-{999}{}{Ty máš touhu, já mám øešení.}
-{1000}{}{Probudím v tobì dìtskou touhu.}
-{1001}{}{Dìlám to jen, abych si vydìlala na studia.}
+{999}{}{Ty máš chu, já mám spásu.}
+{1000}{}{Probudím v tobì duši dítìte.}
+{1001}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
 {1002}{}{Hele, tak naposled: NE, nechci se pøevlíknout za "Zakladatele."}
 {1003}{}{Hledáš kde zakotvit?}
 {1004}{}{Chceš mì slyšet sténat?}
@@ -882,13 +845,13 @@
 {1019}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
 {1020}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
 {1021}{}{Vdycky kdy tì vidím, zaène mi pípat mùj Geigerùv pøístroj.}
-{1022}{}{::Píská na tebe::}
+{1022}{}{::Píská::}
 {1023}{}{Kousání je za pøíplatek.}
 {1024}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
 {1025}{}{Chceš si uít?}
 {1026}{}{Radši bych to dìlala s Avellonem.}
 {1027}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{1028}{}{{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
+{1028}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
 {1029}{}{Tommy Tvrïák je dokonalej.}
 {1030}{}{Za padesát babek tì vezmu do ráje.}
 {1031}{}{Jmenuju se Povolná. A ty, otrokáøko?}
@@ -910,10 +873,8 @@
 {1047}{}{Nechceš jít se mnou na rande, otrokáøko?}
 {1048}{}{Nemáš oheò, otrokáøko?}
 {1049}{}{Vdycky kdy tì vidím, otrokáøko, zaène mi pípat mùj Geigerùv pøístroj.}
-
-# 18. [BONENOSE]
 {1050}{}{Jmenuju se Povolná. A ty?}
-{1051}{}{Trošku moc hyperaktivní, ne?}
+{1051}{}{Trochu moc hyperaktivní, ne?}
 {1052}{}{Máš svùj vlastní ruèník?}
 {1053}{}{JO, jsou pravı.}
 {1054}{}{JO, jsou pravı a NE, nemùeš si sáhnout.}
@@ -990,8 +951,8 @@
 {1125}{}{Pìknì si s tebou pohraju.}
 {1126}{}{Já jsem Nechutná Spice.}
 {1127}{}{Já jsem Domácí Spice.}
-{1128}{}{Já jsem Šlapka Spice.}
-{1129}{}{Já jsem Old Spice.}
+{1128}{}{Já jsem Old Spice.}
+{1129}{}{Já jsem Šlapka Spice.}
 {1130}{}{Já jsem Syfilis... eh, Šlapka Spice.}
 {1131}{}{Já jsem Oplzlá Spice.}
 {1132}{}{Mùu øíct kámošce jestli chceš dvojitej orál.}
@@ -1021,7 +982,7 @@
 {1156}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {1157}{}{Promiò, co jsi to øíkal? Mìla jsem moc práce s pozorováním tvıho zadku.}
 {1158}{}{Nechceš zabít trochu nudy?}
-{1159}{}{Minulej tejden jsem kopla Julese pøímo do koulí.}
+{1159}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {1160}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {1161}{}{Samozøejmì, e miluju kondomy s pøíchutí brahmín. Mòam.}
 {1162}{}{Vyrazíme si spolu?}
@@ -1035,9 +996,9 @@
 {1170}{}{Sice jsem ještì panna, ale potøebuju peníze.}
 {1171}{}{Buï nìnej, dneska je to poprvı.}
 {1172}{}{Jsem hroznì nadrená.}
-{1173}{}{Ty máš touhu, já mám øešení.}
-{1174}{}{Probudím v tobì dìtskou touhu.}
-{1175}{}{Dìlám to jen, abych si vydìlala na studia.}
+{1173}{}{Ty máš chu, já mám spásu.}
+{1174}{}{Probudím v tobì duši dítìte.}
+{1175}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
 {1176}{}{Chceš si zaskotaèit, zlato?}
 {1177}{}{Hele, tak ještì jednou: NE, nechci se pøevlíknout za "Zakladatele."}
 {1178}{}{Hledáš kde zakotvit?}
@@ -1059,13 +1020,13 @@
 {1194}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
 {1195}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
 {1196}{}{Vdycky kdy tì vidím, zaène mi pípat mùj Geigerùv pøístroj.}
-{1197}{}{::Píská na tebe::}
+{1197}{}{::Píská::}
 {1198}{}{Kousání je za pøíplatek.}
 {1199}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
 {1200}{}{Chceš si uít?}
 {1201}{}{Radši bych to dìlala s Avellonem.}
 {1202}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{1203}{}{{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
+{1203}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
 {1204}{}{Tommy Tvrïák je dokonalej.}
 {1205}{}{Za padesát babek tì vezmu do ráje.}
 {1206}{}{Jmenuju se Povolná, holka. A ty?}
@@ -1085,8 +1046,6 @@
 {1220}{}{Nepotøebuješ prùvodce, zlato?}
 {1221}{}{Nemáš oheò, holka?}
 {1222}{}{Ty máš prachy, holka, já mám èas.}
-
-# 19. [NO REP]
 {1223}{}{Jmenuju se Povolná. A ty?}
 {1224}{}{Trochu moc hyperaktivní, ne?}
 {1225}{}{Máš svùj vlastní ruèník?}
@@ -1196,7 +1155,7 @@
 {1329}{}{Zapneš mi šaty? A pak zase rozepneš?}
 {1330}{}{Promiò, øíkal jsi nìco? Mìla jsem moc práce s pozorováním tvıho úasnıho tìla.}
 {1331}{}{Nechceš zabít trochu nudy?}
-{1332}{}{Minulej tejden jsem kopla Julese pøímo do koulí.}
+{1332}{}{{Minulej tejden jsem nakopala Julese do koulí.}
 {1333}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
 {1334}{}{SAMOZØEJMÌ, e miluju kondomy s pøíchutí brahmín. Mòam.}
 {1335}{}{Vyrazíme si spolu?}
@@ -1210,9 +1169,9 @@
 {1343}{}{Sice jsem ještì panna, ale potøebuju peníze.}
 {1344}{}{Buï nìnej, dneska je to poprvı.}
 {1345}{}{Jsem hroznì nadrená.}
-{1346}{}{Ty máš touhu, já mám øešení.}
+{1346}{}{Ty máš chu, já mám spásu.}
 {1347}{}{Probudím v tobì duši dítìte.}
-{1348}{}{Dìlám to jen, abych si vydìlala na studia.}
+{1348}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
 {1349}{}{Chceš si zaskotaèit, zlato?}
 {1350}{}{Hele, tak ještì jednou: NE, nechci se pøevlíknout za "Zakladatele."}
 {1351}{}{Hledáš kde zakotvit?}
@@ -1234,7 +1193,7 @@
 {1367}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
 {1368}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
 {1369}{}{Vdycky kdy tì vidím, zaène mi pípat mùj Geigerùv pøístroj.}
-{1370}{}{::Píská na tebe::}
+{1370}{}{::Píská::}
 {1371}{}{Kousání je za pøíplatek.}
 {1372}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
 {1373}{}{Chceš si uít?}
@@ -1260,44 +1219,9 @@
 {1393}{}{Hledáš zábavu, zlato?}
 {1394}{}{Nemáš oheò, zlato?}
 {1395}{}{Ty máš prachy, holka, já mám èas.}
-
-# SPECIAL CAT'S PAW WHORE DIALOGS START
-# 0. QUICK LOOK
-{3100}{}{Vidíš jednu z dívek Koèièí Packy.}
-
-# EXAMINES
-{3150}{}{Vidíš... ehm, dámu veèera. Její sporé šaty svùdnì obepínají celé její tìlo.}
-{3151}{}{Vidíš jednu z dívek Koèièí Packy. Mrká na tebe.}
-{3152}{}{Vidíš jednu z dívek Koèièí Packy. Její oèi jsou jak roznìtky.}
-{3153}{}{Vidíš jednu z dívek Koèièí Packy. Voní jako kvìtiny.}
-{3154}{}{Vidíš jednu z dívek Koèièí Packy. Voní jako mámin polštáø.}
-{3155}{}{Vidíš jednu z dívek Koèièí Packy. Je ti záhadou, jak ty sporé hadøíky zvládnou udret její prsa.}
-{3156}{}{Vidíš jednu z dívek Koèièí Packy. Tváøí se, jako by chtìla své partnery zabít a sníst.}
-{3157}{}{Vidíš jednu z dívek Koèièí Packy. Prohlíí si tì jako zlatník prsten.}
-{3158}{}{Vidíš jednu z dívek Koèièí Packy. Její sporé šaty svùdnì obepínají celé její tìlo.}
-
-#1. SOME OTHER RANDOM FLOAT TEXT [ANY DISTANCE] (WTG)
-{3200}{}{Ach boe! Ach boe! Ach boe ach boe ach boe... ááááááách boe.}
-{3201}{}{Ano! Ano! Anoooooooooo Ano Ano Ano Ano ANO ANO ANOOOOO! A teï jdi zaplatit u pokladny.}
-{3202}{}{Dìlej, bìí ti èas.}
-{3203}{}{Nepotøebuješ mokrej ruèník?}
-{3204}{}{Udìlej mi to, Fr... Ni... Sc... eh, promiò, jak e se to jmenuješ?}
-{3205}{}{Ach mùj boe, ach boe, ach mùj boe! U jsi skonèil?}
-{3206}{}{Panejo. Tak TOHLE bude jen za extra pøíplatek.}
-{3207}{}{Ano! Ty jseš Kolumbus a já Amerika!}
-{3208}{}{Ach mùj boe, to bylo naprosto super. A teï ze mì laskavì slez a zapla u pokladny.}
-{3209}{}{U je uvnitø?}
-{3210}{}{Jo, to víš, e JSI Zakladatel. Jo, jasnì, to TY jsi našel vodní èip a porazil Vùdce. Jo to víš, e jsi hrdina.}
-{3211}{}{Jseš tvrdej jako tvrzená energo zbroj.}
-{3212}{}{*Uhhh*}
-{3213}{}{*Ááách*}
-{3214}{}{Ne, masku Myšáka Mickeyho si na sebe nevezmu.}
-{3215}{}{Ano, ano, to víš, e máš "ohromnı koule."}
-
-# END LINES
-{2175}{}{. To je ten, co zlikvidoval Enklávu.}
+{2175}{}{. To je ta, co nakopala Enklávì prdel!}
 {2178}{}{! Takhle se nakopává Enklávì prdel!}
-{2181}{}{. To je ten, co zlikvidoval Enklávu.}
+{2181}{}{. To je ta, co nakopala Enklávì prdel!}
 {2195}{}{!}
 {2197}{}{! Mùeš mi sehnat práci u vás ve studiu?}
 {2210}{}{.}
@@ -1321,3 +1245,29 @@
 {2868}{}{. Mùu ti s *nìèím* pomoct?}
 {2870}{}{.}
 {2873}{}{, ty moje malá draèice... co dìláš dneska veèer?}
+{3100}{}{Vidíš jednu z dívek Koèièí Packy.}
+{3150}{}{Vidíš... ehm, dámu veèera. Její sporé šaty svùdnì obepínají celé její tìlo.}
+{3151}{}{Vidíš jednu z dívek Koèièí Packy. Mrká na tebe.}
+{3152}{}{Vidíš jednu z dívek Koèièí Packy. Její oèi jsou jak roznìtky.}
+{3153}{}{Vidíš jednu z dívek Koèièí Packy. Voní jako kvìtiny.}
+{3154}{}{Vidíš jednu z dívek Koèièí Packy. Voní jako mámin polštáø.}
+{3155}{}{Vidíš jednu z dívek Koèièí Packy. Je ti záhadou, jak ty sporé hadøíky zvládnou udret její prsa.}
+{3156}{}{Vidíš jednu z dívek Koèièí Packy. Tváøí se, jako by chtìla své partnery zabít a sníst.}
+{3157}{}{Vidíš jednu z dívek Koèièí Packy. Prohlíí si tì jako zlatník prsten.}
+{3158}{}{Vidíš jednu z dívek Koèièí Packy. Její sporé šaty svùdnì obepínají celé její tìlo.}
+{3200}{}{Ach boe! Ach boe! Ach boe ach boe ach boe... ááááááách boe.}
+{3201}{}{Ano! Ano! Anoooooooooo Ano Ano Ano Ano ANO ANO ANOOOOO! A teï jdi zaplatit u pokladny.}
+{3202}{}{Dìlej, bìí ti èas.}
+{3203}{}{Nepotøebuješ mokrej ruèník?}
+{3204}{}{Udìlej mi to, Fr... Ni... Sc... eh, promiò, jak e se to jmenuješ?}
+{3205}{}{Ach mùj boe, ach boe, ach mùj boe! U jsi skonèil?}
+{3206}{}{Panejo. Tak TOHLE bude jen za extra pøíplatek.}
+{3207}{}{Ano! Ty jseš Kolumbus a já Amerika!}
+{3208}{}{Ach mùj boe, to bylo naprosto super. A teï ze mì laskavì slez a zapla u pokladny.}
+{3209}{}{U je uvnitø?}
+{3210}{}{Jo, to víš, e JSI Zakladatel. Jo, jasnì, to TY jsi našel vodní èip a porazil Vùdce. Jo to víš, e jsi hrdina.}
+{3211}{}{Jseš tvrdej jako tvrzená energo zbroj.}
+{3212}{}{*Uhhh*}
+{3213}{}{*Ááách*}
+{3214}{}{Ne, masku Myšáka Mickeyho si na sebe nevezmu.}
+{3215}{}{Ano, ano, to víš, e máš "ohromnı koule."}

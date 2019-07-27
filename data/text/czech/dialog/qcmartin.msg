@@ -22,9 +22,9 @@
 {121}{}{Pojï sem!}
 {122}{}{Øeknu ti všechno, co budeš chtít.}
 {123}{}{Jmenuju se Martin.}
-{124}{}{Øeknu ti, co se stalo.}
+{124}{}{Mùžu ti øíct, co se stalo potom.}
 {125}{}{Ahoj, já jsem Martin Frobisher. Jsem mluvèí tìchto lidí. Díky bohu, že jsi tady.}
-{126}{}{Co chceš vìdìt?}
+{126}{}{Co potøebujete vìdìt?}
 {127}{}{Máte pìkné obleèení, pøesnì jako je to moje. Kdo jste?}
 {128}{}{Co tady dìláte?}
 {129}{}{Ty jsi správce vaultu?}

@@ -7,7 +7,7 @@
 {106}{}{No tak se vymáèkni.}
 {107}{}{Heegh.}
 {108}{}{Hledám Vault 13. Nevíš, kde se nachází?}
-{109}{}{Nemáte tady náhodou GECK?}
+{109}{}{Nemáš GECK?}
 {110}{}{Hledám nìjakou poctivou práci. Nevíš o nìèem?}
 {111}{}{Jo, je tu fajn. Všechno je bájeèné.}
 {112}{}{Primitiv, e? Ty. Otázky? Ptát já. Ano?}
@@ -23,7 +23,7 @@
 {122}{}{Tak na to zapomeò. U pùjdu.}
 {123}{}{O nìèem bych vìdìl, jestli máš zájem.}
 {124}{}{Dìláš si srandu, ne? Po té události s Jackem? Myslím, e by se urèitì nìjaká slušná práce našla.}
-{125}{}{No a konkrétnì?}
+{125}{}{Napøíklad?}
 {126}{}{Zmìòme téma.}
 {127}{}{Zapomeò na to, odcházím. Sbohem.}
 {128}{}{Ne Vault 13. Vault 15 ano.}
@@ -50,13 +50,11 @@
 {149}{}{A co tøeba já? Moná bys mì mohl doporuèit.}
 {150}{}{Hmm. Koukám tìkı ivot.}
 {151}{}{Tebe? Hmmm... to by nešlo. Vdy tì ani neznám... ale je pravda, e nìkoho shání, take si s ní mùeš jít promluvit. Její kanceláø je v budovì Kongresu.}
-{152}{}{Díky. Promluvím si s ní.}
+{152}{}{Díky. Zastavím se tam.}
 {153}{}{Nevíš nìco o vìci zvané GECK?}
 {154}{}{Hmm, to je od tebe sice zatracenì hezké, cizinèe, ale taky zatracenì drzé. Ani nevím, jestli vùbec pocházíš z Adama a Evy a navíc se mi ani trochu nelíbí tvùj pohled! Nikomu tì doporuèovat nebudu. A teï mám nìjakou práci.}
-{155}{}{No, zkus se zeptat Duppa ve Stockmanovì Asociaci. Najímá na brahmíní okruhy. A pak je tady pan Westin. Jestli s ním budeš mluvit, øekni mu, e tì posílám. A dokonce i prezidentka Tandi nìkoho hledá.}
-{156}{}{Duppo ve Stockmanovì Asociaci shání lidi na brahmíní okruhy. Zkus se ho zeptat.}
-
-
+{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
+{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{Westin?}
 {158}{}{Prezidentka Tandi?}
 {159}{}{Musím jít.}
@@ -77,6 +75,6 @@
 {174}{}{Tandi?}
 {175}{}{Beru na vìdomí.}
 {176}{}{Nevím o ádné další práci.}
-{177}{}{Duppo ve Stockmanovì Asociaci shání lidi na brahmíní okruhy a prezidentka Tandi se shání po nìjakém šikovném èlovìku.}
+{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
 {178}{}{Kdokoliv jinı s tvou reputací by radìji opustil tohle mìsto, nato aby tady ještì hledal práci.}
-{179}{}{Duppo ve Stockmanovì Asociaci shání lidi na brahmíní okruhy. Zkus se ho zeptat. A pak je tady pan Westin. Jestli s ním budeš mluvit, øekni mu, e tì posílám.}
+{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}

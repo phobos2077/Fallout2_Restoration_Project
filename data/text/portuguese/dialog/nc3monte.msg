@@ -8,7 +8,7 @@
 {202}{}{Did I palm the wrong card?}
 {203}{}{How did that stupid tribal keep picking the right card?}
 {205}{}{Heeeey! Hero! You all right, you all right.}
-{206}{}{::Gives you the thumbs up sign::}
+{206}{}{::Faz o sinal de positivo pra você::}
 {207}{}{::Smiles, nods::}
 {208}{}{You done good, hero. You done good.}
 {215}{}{Where the hell are my cards? I JUST had them.}
@@ -178,11 +178,11 @@
 {447}{}{Nevermind then, Monte. I'm outta here.}
 {450}{}{You deaf? That amount ain't even enough to interest me.}
 {451}{}{How about I suggest another amount...?}
-{452}{}{I had some other questions...}
+{452}{}{Eu tenho mais algumas perguntas...}
 {453}{}{Nevermind then, Monte. I'm outta here.}
 {460}{}{Well, it ain't THAT dear to me. It's yours, pal. (He glances to the right and left, then reaches down and pulls off his
  boot. He twists off the heel and pulls out a playing card from inside.) Here ya go. Take care of it.}
-{461}{}{I had some other questions...}
+{461}{}{Eu tenho mais algumas perguntas...}
 {462}{}{Thanks, Monte. Always a pleasure.}
 {465}{}{(Frowns) Whether I talk depends on what you want to know. And it's not gonna be cheap.}
 {466}{}{You know who dusted Wright's kid? Made him O.D. on Jet?}
@@ -198,11 +198,11 @@
 {480}{}{How about 500 chips?}
 {481}{}{250 chips sound about right?}
 {482}{}{Uh... Golgotha?}
-{483}{}{I had some other questions...}
+{483}{}{Eu tenho mais algumas perguntas...}
 {484}{}{Nevermind then, Monte. I'm outta here.}
 {490}{}{(Shakes his head.) No way. Talking about that could get somebody killed, startin' with me. Forget it.}
 {491}{}{How about if I offered you this...}
-{492}{}{I had some other questions...}
+{492}{}{Eu tenho mais algumas perguntas...}
 {493}{}{Nevermind then, Monte. I'm outta here.}
 {495}{}{Eh... well... that's a lot of chips. (Licks his lips. He looks like he's fighting an inner battle....but the battle is a brief one.) Look, you ain't heard it from me...}
 {496}{}{Understood. Go on.}
@@ -212,14 +212,14 @@
 {503}{}{Not even for 750 chips?}
 {504}{}{How about 500 chips?}
 {505}{}{250 chips sound about right?}
-{506}{}{I had some other questions...}
+{506}{}{Eu tenho mais algumas perguntas...}
 {507}{}{Nevermind then, Monte. I'm outta here.}
 {510}{}{Ha! You couldn't buy a bucket of piss for that much. Forget it.}
 {511}{}{How about if I offered you this...}
-{512}{}{I had some other questions...}
+{512}{}{Eu tenho mais algumas perguntas...}
 {513}{}{Nevermind then, Monte. I'm outta here.}
 {515}{}{Thaaaat's about right. (Grins evilly.) Look, you ain't heard it from me, but if I was you, I'd check out the basement of the Desperado on Virgin Street. There's a lot of "rats" there, if you catch my drift.}
-{516}{}{I had some other questions...}
+{516}{}{Eu tenho mais algumas perguntas...}
 {517}{}{Entendi. Obrigado.}
 {520}{}{(Shrugs) Maybe I know something about that, maybe I don't. Tell me a price and I might have something to say.}
 {521}{}{All right... talk a price.}
@@ -227,29 +227,29 @@
 {523}{}{Not even for 750 chips?}
 {524}{}{How about 500 chips?}
 {525}{}{250 chips sound about right?}
-{526}{}{I had some other questions...}
+{526}{}{Eu tenho mais algumas perguntas...}
 {527}{}{Nevermind then, Monte. I'm outta here.}
 {530}{}{(Narrows his eyes, leans in) For that amount, I don't know nothing.}
 {531}{}{How about if I offered you this...}
-{532}{}{I had some other questions...}
+{532}{}{Eu tenho mais algumas perguntas...}
 {533}{}{Nevermind then, Monte. I'm outta here.}
 {535}{}{That's about right... (narrows his eyes, leans in) ...I'd ask ol' Jules at the front of town. Nothing
  gets by him... and if it DID, then he had a finger in it, know what I'm saying?}
-{536}{}{I had some other questions...}
+{536}{}{Eu tenho mais algumas perguntas...}
 {537}{}{All right then, Monte. Thanks.}
 {540}{}{(Shrugs) I hear things, I see things. For 200 chips, maybe you can get the benefit of my experience, know what I'm saying?}
 {541}{}{Here's 200 chips.}
 {542}{}{I'll give you 150.}
 {543}{}{100 chips or nothing.}
-{544}{}{I had some other questions...}
+{544}{}{Eu tenho mais algumas perguntas...}
 {545}{}{Nevermind then, Monte. I'm outta here.}
 {550}{}{You deaf? I SAID 200 chips, n' I meant it.}
 {551}{}{All right. Here's 200 chips.}
-{552}{}{I had some other questions...}
+{552}{}{Eu tenho mais algumas perguntas...}
 {553}{}{Nevermind then, Monte. I'm outta here.}
 {555}{}{Done. (Monte leans in) Well, know that guy Eldridge, runs New Reno Arms? He SAYS he does
  weapon upgrades, but I never see him do any work. You might want to check out his place... but you didn't hear that from me.}
-{556}{}{I had some other questions...}
+{556}{}{Eu tenho mais algumas perguntas...}
 {557}{}{Understood. Thanks, Monte.}
 {560}{}{Boneyard south of town. Stinks ta high heaven, it does.}
 {561}{}{Oh... I see. Now, about the Wright kid...}
@@ -257,7 +257,7 @@
 {563}{}{All right then, Monte. Thanks.}
 {565}{}{My bets on Renesco, that old asshole who runs the pharmacy on the west side. I don't know
  if he sold it TO the kid for sure, but he knows SOMETHING. (Glances around) That's all I'm gonna say.}
-{566}{}{I had some other questions...}
+{566}{}{Eu tenho mais algumas perguntas...}
 {567}{}{All right then, Monte. Thanks.}
 {570}{}{(He glances around, then reaches down and pulls off his boot. He twists off the heel and pulls out a card... on the card
  is a man with a strange hat, wielding a club.) Interested? It's genuine pre-war memorabilia.}
@@ -271,13 +271,13 @@
 {601}{}{hearts}
 {602}{}{diamonds}
 {603}{}{clubs}
-{604}{}{two}
-{605}{}{three}
-{606}{}{four}
-{607}{}{five}
-{608}{}{six}
-{609}{}{seven}
-{610}{}{eight}
-{611}{}{nine}
-{612}{}{ten}
+{604}{}{dois}
+{605}{}{três}
+{606}{}{quatro}
+{607}{}{cinco}
+{608}{}{seis}
+{609}{}{sete}
+{610}{}{oito}
+{611}{}{nove}
+{612}{}{dez}
 {613}{}{ of }

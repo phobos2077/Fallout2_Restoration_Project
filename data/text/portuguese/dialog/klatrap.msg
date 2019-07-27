@@ -1,1 +1,1 @@
-{100}{}{You have entered a wooded area.}
+{100}{}{Você entrou em uma área coberta por árvores.}

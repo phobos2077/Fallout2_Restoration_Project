@@ -1,2 +1,2 @@
-{100}{}{An explosive charge should easily clear this passage.}
-{200}{}{You successfully blew the rocks apart.}
+{100}{}{Uma carga explosiva deve abrir esta passagem com facilidade.}
+{200}{}{Você destruiu as pedras que estavam bloqueando a sua passagem.}

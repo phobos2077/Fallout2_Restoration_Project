@@ -15,7 +15,7 @@
 {114}{}{Výborná práce.}
 {115}{}{Projekt pokraèuje podle plánu.}
 {116}{}{To jsou vynikající výsledky.}
-{117}{}{Co teï?}
+{117}{}{Co to bude teï?}
 {118}{}{Ta radiace mi asi znièí celou práci.}
 {119}{}{Další cvièení.}
 {120}{}{Teï nemùžu opustit svoji práci.}
@@ -46,7 +46,7 @@
 {145}{}{No jasnì, jak by ses sem takový vetøelec vùbec dostal?}
 {146}{}{Urèitì bychom toho vetøelce nevidìli pøicházet.}
 {147}{}{Další falešný poplach. Výbornì.}
-{148}{}{Na takové kraviny nemám èas.}
+{148}{}{Seru na to, na tohle nemám èas.}
 {149}{}{Co chceš?}
 {150}{}{Nevidíš, že tu pracuji?}
 {151}{}{Jdi pryè. Mám práci.}

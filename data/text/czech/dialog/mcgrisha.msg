@@ -1,7 +1,6 @@
 {100}{}{Vidíš velmi èilého starého mue.}
 {101}{}{Vidíš Grishama.}
 {102}{}{Nedokáeš si vzpomenout, ale pøijde ti povìdomı.}
-
 {151}{}{Øíkal jsem, e tì dostanu!}
 {152}{}{Chachachacha!}
 {153}{}{Jdi pryè!}
@@ -10,39 +9,26 @@
 {156}{}{Nìkdo má rád holky, jinı zase vdolky...}
 {157}{}{Myslím, e budu zvracet.}
 {158}{}{Vìdìl jsem, e je na mım synovi nìco divnıho.}
-
 {159}{}{Dobøe se o moji dcerku starej.}
 {160}{}{Tak a teï patøíš do rodiny.}
 {161}{}{Dobøe se o mıho synka starej.}
-
-# Node 0
 {162}{}{Jmenuju se Grisham. Vítej na mıch jatkách. Pøicházíš s nìèím nebo pro nìco?}
 {163}{}{Spíš pro nìco. Chci si koupit nìjaké zásoby na cestu.}
 {164}{}{Èistì náhodou, nevidìl jste tu nìkde leet zlaté hodinky?}
-{350}{}{(Vrhneš pohled na Bessy.) S nìèím.}
-
-# Node 1
 {165}{}{Co pro tebe mùu udìlat?}
 {166}{}{Chci si koupit vaše povìstné sušené maso.}
 {168}{}{Mùete mi øíct nìco o vašich jatkách?}
 {169}{}{Koukám, e sucha nemají vliv na vaše obchody.}
-{360}{}{Neudìlal byste pro mì trochu sušeného masa?}
-
-# Node 2
 {170}{}{Já vìdìl, e to zvládneš. Take, dluím ti $1000 za dobøe odvedenou práci. Kolik e to padlo díky tvé nedbalosti kusù? }
 {171}{}{. $100 je za jednu brahmínu, to dìlá celkem $}
 {172}{}{. Jo a nezkoušej mi lhát o poètu zabitejch brahmín. Jeden z mıch chlapcù tì tajnì z dálky sledoval.}
 {173}{}{Nikdy jste nemluvil o poplatku za mrtvé brahmíny!}
 {174}{}{Ty intrikánskej, vyschlej, starej dìdku. Ááá! Pamatuj si tyhle slova... tohle je naposledy, co jsi mì takhle podvedl!}
 {175}{}{Díky, tako. Je radost s vámi obchodovat.}
-
-# Node 3
 {176}{}{Jak se tady opovauješ ukazovat? Díky tvojí zbabìlosti jsem pøišel o deset brahmín. Jestli se mi chceš omluvit, tak mi zapla $1500. To bude staèit na pokrytí mıch ztrát.}
 {177}{}{Ty brahmíny nemìly vìtší cenu jak $1000.}
 {178}{}{Tolik penìz nemám a i kdyby ano, nedám je takovému podvodníkovi, jako jste vy.}
 {179}{}{Nechal jsem peníze ve svém pokoji. Dojdu pro nì.}
-
-# Node 10
 {180}{}{Aha, no samozøejmì, samozøejmì. Take, na cesty ti mùu doporuèit naše proslulé sušené plátky z brahmín. Nezkazí se a jsou velmi dobré. Jen $10 za balíèek. Máš zájem?}
 {181}{}{To zní dobøe. Dejte mi jedno balení.}
 {182}{}{Ne, díky. Moná pozdìji. Ale chci se vás ještì na nìco zeptat.}
@@ -64,7 +50,7 @@
 {199}{}{[POTØÁST SI RUKOU S GRISHAMEM]}
 {200}{}{Tak moment. Kdy o tom tak pøemıšlím, ty brahmíny byly pìknì vychrtlé. Co takhle $750?}
 {201}{}{Ale ne, mìním názor. Nezaplatím vám.}
-{202}{}{(Široce se na tebe usmìje.) Rád vidím èlovìka s charakterem.}
+{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
 {203}{}{(Grisham zrudne a procedí skrz zaaté zuby.) Dobøe, tak teda $750. A teï mi dej ty prachy!}
 {204}{}{Víte, $750 je poøád trochu moc. Ty brahmíny by stejnì chcíply, i kdyby je psi neserali. Ale nejsem úplnı lakomec, dám vám $50.}
 {206}{}{FAJN! TAK MI DEJ TY PRACHY A VYPADNI!}
@@ -104,80 +90,53 @@
 {246}{}{No, jestli jsi doktor, tak je to v poøádku. Ale radši se oblíkni. Z nedorozumìní lehce vznikaj rùznı pomluvy. A kdy u tu jseš, podívej se na moji øi... hroznì mì v ní bolí.}
 {247}{}{Eh... podívám se na to pozdìji. Teï na mì èeká další pacient. Nashle.}
 {248}{}{Jasnì. Teï se mnou pùjdeš za knìzem. A nedìlej blbosti, nebo budeš potøebovat doktora.}
-
 {260}{}{Já vìdìl, e to zvládneš. Myslím, e ti dluím $1000 za dobøe odvedenou práci. Tady jsou.}
-
-# rape script dialog
 {300}{}{Co se to tady sakra dìje?}
 {301}{}{Ehhh... pane, jen jsem...}
 {302}{}{Okamitì z ní sundej ty svoje špinavı pracky...}
-
-#define wedding script dialog
+{350}{}{(Vrhneš pohled na Bessy.) S nìèím.}
+{360}{}{Neudìlal byste pro mì trochu sušeného masa?}
 {400}{}{Co se to tady dìje?}
 {402}{}{Do prdele! Já vìdìl, e s }
-{452}{}{ není nìco v poøádku. Teï u zbıvá jen jedinej zpùsob, jak to napravit!}
 {403}{}{Jak se opovauješ pošpinit èest }
-{453}{}{?! Existuje jen jedinej zpùsob, jak to napravit!}
 {404}{}{Eh, Jo, nemùeme tu pøísahu prostì pøeskoèit?}
 {406}{}{Chlapèe...}
 {407}{}{Sleèinko...}
 {410}{}{Nechtìj, abych udìlal z }
-{460}{}{ vdovu.}
-{461}{}{ vdovce.}
 {412}{}{Mirie}
 {413}{}{Davina}
-
-# Seraph's Code: Cousin Bo
 {414}{}{Eh, Bo, nemùeme tu pøísahu prostì pøeskoèit?}
-
-# Seraph's Fix: changed '220' to '420' and '221' to '421'. Thanks Wasteland Ghost!
 {420}{}{Nikam nepùjdeš, chlapèe!}
 {421}{}{Nikam nepùjdete, sleèinko!}
-
-# Node 4
+{452}{}{ není nìco v poøádku. Teï u zbıvá jen jedinej zpùsob, jak to napravit!}
+{453}{}{?! Existuje jen jedinej zpùsob, jak to napravit!}
+{460}{}{ vdovu.}
+{461}{}{ vdovce.}
 {500}{}{No to je ale pìknı zviøátko. Bude z nìj vıbornı sušenı maso. Poslouchej, udìláme to takhle. Pøipravím ti prvotøídní sušenı maso a nechám si z nìj pár kouskù jako odmìnu za práci. Co ty na to?}
 {501}{}{Nikdy! Miluju Bess. Nikdo z ní sušené maso dìlat nebude.}
 {502}{}{To zní dobøe. Kdy se mùu zastavit pro to sušené maso?}
 {503}{}{Na to zapomeòte, dìdo. Odcházím.}
-
-# Node 5
 {510}{}{Aha... ty tu brahmínu nemáš jenom tak... nechtìl jsem ti brát tvoje 'potìšení'. Noci v poušti by bez ní byly hroznì osamìlı, co? Na tohle opravdu nemám èas, mám práci.}
-
-# Node 6
 {515}{}{Vıbornì! Pøijï tak za tıden. Maso si mùeš vyzvednout v udírnì hned u jatek. Nechám ho tam pro tebe v pytli. Bylo mi potìšením s tebou obchodovat.}
-
-# Node 50
 {600}{}{Nazdar }
-{1600}{}{. Doufám, e se dobøe staráš o moji dcerku Miriu. Ona je svìtlo mého ivota a zlomilo by mi srdce, kdyby se jí nìco stalo. Mimochodem, kde je? Doufal jsem, e ji zase uvidím.}
 {601}{}{Ááá, jestlipak to není }
-{1601}{}{. Tak jak se ti zamlouvá manelskej ivot? Vidím, e Davin s tebou necestuje. Moc mi chybí. Vezmi ho s sebou, a pøijdeš pøíštì na návštìvu. Starıho mue to potìší, kdy zase uvidí svıho jedinıho synka.}
 {602}{}{Ehmm, je mrtvı.}
 {603}{}{Ehmm, je mrtvá.}
 {604}{}{Miria byla naivu, kdy jsme se rozešli, ale myslím, e teï u bude urèitì mrtvá.}
 {605}{}{Davin byl naivu, kdy jsme se rozešli, ale myslím, e teï u bude urèitì mrtvı.}
 {606}{}{Davin... ehm, nemohl se mnou jít, ale vyøídím mu tvùj pozdrav, a ho zase uvidím.}
 {607}{}{Miria... ehm, nemohla se mnou jít, ale vyøídím jí jak moc ji milujete, a ji zase uvidím.}
-
-# Node 51
 {700}{}{Ááááá... (Grishama popadne šok, poté se najednou chytí za prsa a zhroutí se na zem.)}
-
-# Node 52
 {750}{}{Musím zpátky do práce. Uvidíme se pozdìji.}
-
 {800}{}{Grishamovy brahmíny byly ochránìny.}
-
-# Seraph's Code: Uncle Biff
 {1101}{}{Vidíš strıèka Biffa.}
-
 {1155}{}{Vìdìl jsem, e je na mojí neteøi nìco divnıho.}
 {1156}{}{Nìkdo má rád holky, jinı zase vdolky...}
 {1157}{}{Ještì, e se toho starej Grisham nedoil.}
 {1158}{}{Vìdìl jsem, e je na mım synovci nìco divnıho.}
-
 {1159}{}{Tak a teï patøíš do rodiny.}
 {1160}{}{Dobøe se o moji neteø starej.}
 {1161}{}{Dobøe se o mıho synovce starej.}
-
 {1228}{}{Hele, ani se mi to nepokoušej vysvìtlit. Nechci to slyšet. Seenu knìze, udìláme z toho právoplatnej svazek a ty odejdeš i s mım synovcem.}
 {1229}{}{Nemùu øíct, e mì to ani trochu nepotìšilo, ale musím udìlat to, co by si Grisham pøál... musíte se vzít a odejít odsud.}
 {1230}{}{Nechceš mi vysvìtlit, co tu dìláš s mojí neteøí?}
@@ -186,7 +145,9 @@
 {1236}{}{No to je skvìlı. Budu mít v rodinì chytráka. Tak pojï, synovèe... a u je to za náma.}
 {1237}{}{No to je skvìlı. Budu mít v rodinì chytraèku. Tak pojï, neteøi... a u je to za náma.}
 {1238}{}{Já si myslím, e jste si s mojí neteøí hráli na brahmíny v dobì páøení.}
-{1239}{}{Já si myslím, e jste s mım synovcem tancovali pod peøinami horizontální tango.} 
+{1239}{}{Já si myslím, e jste s mım synovcem tancovali pod peøinami horizontální tango.}
 {1403}{}{Jak si dovoluješ pošpinit èest Grishamova potomka, }
-{1412}{}{jeho dcery?}
-{1413}{}{jeho syna?}
+{1412}{}{daughter.}
+{1413}{}{son.}
+{1600}{}{. Doufám, e se dobøe staráš o moji dcerku Miriu. Ona je svìtlo mého ivota a zlomilo by mi srdce, kdyby se jí nìco stalo. Mimochodem, kde je? Doufal jsem, e ji zase uvidím.}
+{1601}{}{. Tak jak se ti zamlouvá manelskej ivot? Vidím, e Davin s tebou necestuje. Moc mi chybí. Vezmi ho s sebou, a pøijdeš pøíštì na návštìvu. Starıho mue to potìší, kdy zase uvidí svıho jedinıho synka.}

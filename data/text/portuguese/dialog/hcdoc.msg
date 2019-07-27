@@ -157,7 +157,7 @@ because this is going to cost ::cough:: $200.}
 {313}{}{Deixa pra lá.}
 {314}{}{You're hurt? Let me fix that. I'll take care of your companions too.}
 {315}{}{There ya' go. All better.}
-{316}{}{[continue]}
+{316}{}{[continuar]}
 {400}{}{Dogmeat.}
 {401}{}{K-9.}
 {402}{}{Kitsune.}

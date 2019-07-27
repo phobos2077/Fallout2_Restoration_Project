@@ -19,7 +19,7 @@
 {118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
 {119}{}{The old guy, eh? Okay.}
 {120}{}{Well now, you put it that way, I can't really say no. What's on your mind?}
-{121}{}{Thanks, stranger.}
+{121}{}{Valeu.}
 {122}{}{I know more than old Vortis gives me credit for, you know.}
 {123}{}{Well, I've done a lot more than most people suspect. Like this job, though. It's nice and cushy.}
 {124}{}{Seja o que for.}

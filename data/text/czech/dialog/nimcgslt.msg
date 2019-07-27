@@ -1,10 +1,5 @@
-# QUICK LOOK
-
-# EXAMINE
 {150}{}{Vidíš škaredý, prorezivìlý hrací automat.}
 {151}{}{Vidíš odpornì vypadající hrací automat. Je pokrytý rzí a je na nìm nìkolik promáèklin, jako by do nìj nìkdo bušil tìžkým pøedmìtem.}
-
-# 1. FLOAT DIALOGUE (PLAYER = MALE, DRUNK OR HIGH) (WTG)
 {200}{}{*Nazdar, mlad... ::kuc:: ::kuc:: ::síp:: ...pojï... ::cvak:: ...si na chvíli zahrát.*}
 {201}{}{*Nazdar, mlad... ::kuc:: ::kuc::*}
 {202}{}{*Nazdar, mladej... ::kuc:: ::cvak:: ::síp:: ...nechceš si ::cvak:: ...zariskovat?*}
@@ -22,65 +17,29 @@
 {214}{}{*Nazdar, krás... ::kuc:: ::kuc:: Sakra!*}
 {215}{}{*Hoï do mì dolar a zatáhni za ruku. Budu na tebe hodný. Hehe.*}
 {216}{}{*No ty jsi ale krásná mladá... ::kuc:: ::cvak:: ::síp: Nechceš... ::klik:: ...si na chvíli zahrát?*}
-
-# 4. RETARD (WTG)
 {230}{}{Vidíš podivnou železnou krabici se tøema oèima a jednou rukou.}
-
-# 5.  RETARD TALKS TO SLOT MACHINE (4, 5)
 {235}{}{Ta podivná železná krabice se tøema oèima a jednou rukou neodpovídá.}
-
-# 6.  RETARD PULLS HANDLE (4, 5)
 {240}{}{Uchopíš ruku a zatøeseš s ní. Uslyšíš ostrý chrastící zvuk!}
-
-# PLAY. . . ? (WTG, 14, 15)
 {245}{}{(Vidíš hrací automat. Je to asi ten nejošklivìjší automat v celém New Renu. Má ohnutou páku, dvì rozbitá okýnka a spoustu promáèklin.)}
 {246}{}{Natahuješ se pro mince a pøi tom se ti chvìje celá ruka. (Automat ti nestále šeptá chraplavým hlasem.) *No ták... ::kuc:: ...to je ono...*}
-
-# LOOOOOOSER (8)
 {250}{}{Zevnitø se ozývá nepøíjemný chrastící zvuk...}
 {251}{}{NIC! (Stroj se suše usmìje.) *Pøíštì to urèitì vyjde, mla... ::kuc:: ::kuc:: ::síp::}
-
-# WIN x1 (8)
 {255}{}{(Automat ti zašeptá.) *Zkus to znovu, mlad... ještì jednou... ::kuc:: ::cvak:: ...pro štìstí.*}
-
-# WIN x2 (8)
 {260}{}{Po chvíli chrastìní se dotoèí koleèka a odhalí... }
 {261}{}{(Stroj se chichotá.) *To je ono. Já vìdìl, že... ::kuc:: ::kuc:: ...to dokážeš.*}
-
-# WIN x3 (8)
 {265}{}{(Stroj se usmìje.) *To je ono! Já vìdìl, že ve mnì ještì zbylo... ::vvzzzz:: ...trochu kuráže! Hehe!*}
-
-# DRUNK, HIGH OR OTHERWISE FUCKED UP (WTG)
 {270}{}{(Pøed tebou je pravdìpodobne ten nejošklivìjší hrací automat na svìtì. Chvíli na nìj fascinovanì zíráš, když najednou zaène z automatu šeptat chraplavý mužský hlas.) *Tebe jsem tady ještì... ::kuc:: ::kuc:: nevidìl. Nechceš zkusit... ::cvak:: ::síp:: ...štìstí?*}
-
-# DRUNK CONVERSATION 1 (13)
 {275}{}{*Jsem poøád tady, mladej*, cvaká hrací automat. *Pojï... nechceš si vsadit? Už tady moc dlouho nebudu.*}
-
-# DRUNK 2 (14)
 {280}{}{*Jsem nejstarší jednoruký bandita v Renu. Už jsem tady skoro... ::kuc:: ::kuc:: ...no, skoro celou vìènost. A zaèíná to být na mì vidìt. Poslyš, budeš teda hrát, nebo mì tu necháš rezivìt?*}
-
-# DRUNK 3 (15)
 {285}{}{::Kuc:: ::kuc:: *Nemám èas s tebou vykecávat, mladej. A ty máš taky urèitì dùležitìjší vìci na práci, než se se mnou bavit, že jo? Nebo tì snad nìco trápí?*}
-
-# DRUNK 4 (16)
 {295}{}{*Klídek, mladej. Pøestaò už bulet. Všechno bude v pohodì, slyšíš? Dám na tebe pozor, jo?*}
-
-# DRUNK 5 (17)
 {300}{}{*Ale no ták, už toho nech. Projdi se, proèisti si hlavu... ::kuc:: ...to ti pomùže. Budeš v pohodì, mladej?*}
 {301}{}{Budu v pohoda... dík že ty se mnou mluvit, mašina.}
-
-# DRUNK 6 (18)
 {305}{}{*Ále! Nemusíš mi dìkovat, [X]. Tak a teï už bìž a dej jim co proto. Jseš jedinej hrdina v tomhle proklatým svìtì plným bastardù a zlodìjù... ::síp:: ::kuc:: ...takže si dávej bacha, slyšíš?*}
 {306}{}{Jásnì... ty taky, jo?}
-
-# JACKPOT! (8)
 {310}{}{(Po zatáhnutí páky ti pøišlo, jako by ze stroje vyšel úlevný oddech následovaný dlouhým tichem. Už se skoro chystáš k odchodu, když najednou uslyšíš hluboko ve stroji nìco chrastit. O pár vteøin pozdìji se chrastìní zmìní v ohlušující øev, když zaène automat plivat mince všude kolem!) JACKPOT!}
 {311}{}{Vybrat výhru!}
-
-# AFTER JACKPOT (WTG)
 {315}{}{(Tenhle stroj vypadá, že už ze sebe vydal všechno. Vyplacení jackpotu byl jeho smrtelný výkøik. Nemùžeš si pomoct, ale je ti té staré trosky trochu líto.)}
-
-# skill use
 {320}{}{Tenhle automat je velmi starý. Je zázrak, že ještì vùbec funguje.}
 {321}{}{Nemùžeš na automatu pracovat, když na nìm ten dìdek hraje.}
 {322}{}{Stroj je neopravitelný.}

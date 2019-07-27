@@ -12,7 +12,7 @@
 {111}{}{I'm the Captain. I run the ship. Any more questions, go talk to one of the Shi or Badger or someone. I don't have time for you.}
 {112}{}{[FEITO]}
 {113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
-{114}{}{How do you know all this?}
+{114}{}{Como você sabe tudo isso?}
 {115}{}{What's an IFF transponder?}
 {116}{}{How do you get it to go?}
 {117}{}{Obrigado. Tchau.}
@@ -27,7 +27,7 @@
 {126}{}{What oil rig?}
 {127}{}{Yes. Bye.}
 {128}{}{IFF: Identify Friend or Foe. It means that this ship is identified as a friend, so other Poseidon things - like, say, an oil rig - won't fire at you when you come into range. Oh, and a FOB is some sort of Enclave technology that lets you enter a door electronically. You'd probably find one of them at one of their bases or some such place.}
-{129}{}{How do you know all this?}
+{129}{}{Como você sabe tudo isso?}
 {130}{}{What oil rig?}
 {131}{}{Obrigado. Tchau.}
 {132}{}{Yes. With these people, you know exactly where you stand. They don't play games. The Enclave was like a pack of hyenas - they'd turn on you in a second.}
@@ -40,7 +40,7 @@
 {139}{}{What exactly is the Enclave?}
 {140}{}{Obrigado. Tchau.}
 {141}{}{There's a big Poseidon oil rig left out on the water. That's the final base of the Enclave}
-{142}{}{How do you know all this?}
+{142}{}{Como você sabe tudo isso?}
 {143}{}{What else is going on out there on the rig?}
 {144}{}{Obrigado. Tchau.}
 {145}{}{Word gets around.}

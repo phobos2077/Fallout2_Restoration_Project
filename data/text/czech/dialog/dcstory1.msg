@@ -3,7 +3,7 @@
 {102}{}{Je velmi krásná, ale vypadá zamyšlenì.}
 {103}{}{Pøestaò!}
 {104}{}{Proè to dìláš?}
-{105}{}{Nech mì být!}
+{105}{}{Nech mì na pokoji!}
 {106}{}{Prosím, pøestaò!}
 {107}{}{Vrahu!}
 {108}{}{Jak jsi to mohl Becky udìlat!}
@@ -23,9 +23,6 @@
 {122}{}{Teï nemùžu mluvit. Nashle.}
 {123}{}{Igsby?}
 {124}{}{Naskle.}
-
-# Node005 removed.
-
 {131}{}{Och, omlouvám se. Nerozumím. Nemìl bys tolik pít.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
@@ -33,16 +30,16 @@
 {135}{}{Stále to jde, díky. Kde jsme to skonèili? Myslím, že jsme mluvili o historii tvé rodiny, ne?}
 {136}{}{Ano. Já jsem Vyvolený. Mùj pøedek zachránil svìt pøed Vùdcem.}
 {137}{}{Jo. Mùj pøedek zachránil svìt pøed Vùdcem.}
-{138}{}{Musím jít.}
+{138}{}{Už musím jít.}
 {139}{}{Eh, dobøe. Ráda jsem tì poznala, Vyvolený... opravdu. Nìco jsem o tom Vùdcovi kdysi slyšela.}
 {140}{}{Zajímavé. To mi pøipomíná jeden starý pøíbìh, který jsem slyšela. Je o Vùdci.}
 {141}{}{Opravdu? Co to bylo?}
-{142}{}{Povìz mi ho.}
+{142}{}{Povídej.}
 {143}{}{Aha, dobøe. Nashle.}
 {144}{}{No, chvíli to zabere. Buï gentleman a kup mi prosím drink, ano? Ne whiskey, Nuka-Colu prosím.}
 {145}{}{No, chvíli to zabere. Buï tak laskavá a kup mi prosím drink, ano? Ne whiskey, Nuka-Colu prosím.}
 {146}{}{Mùžeme zaèít? Pamatuju si to docela dobøe.}
-{147}{}{Jistì.}
+{147}{}{Jasnì.}
 {148}{}{Promiò, nemám teï zrovna $5.}
 {149}{}{Díky. Tak poslouchej... pamatuju si, jak mi máma vyprávìla o té velké migraci, která se stala pøed 70ti nebo 80ti lety...}
 {150}{}{Pokraèuj prosím.}
@@ -61,5 +58,5 @@
 {163}{}{No, už je pozdì. Nashle.}
 {164}{}{Bylo mi potìšením. Nashle.}
 {165}{}{Nashle.}
-{166}{}{To je jedno.}
+{166}{}{Zapomeò na to.}
 {167}{}{Leanne ti øekla pøíbìh o Vùdci.}

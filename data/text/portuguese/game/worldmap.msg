@@ -11,7 +11,7 @@
 {222}{}{Rat Caves}
 {223}{}{Trapping Grounds}
 {224}{}{Grazing Area}
-{225}{}{Canyon}
+{225}{}{Desfiladeiro}
 {230}{}{Main Street}
 {231}{}{Bed & Breakfast}
 {232}{}{Grisham's Brahmin Pastures}
@@ -51,7 +51,7 @@
 {303}{}{Council Hall}
 {304}{}{Westin Ranch}
 {305}{}{Grazing Lands}
-{310}{}{Cave Entrance}
+{310}{}{Entrada da caverna}
 {311}{}{Vault 13}
 {320}{}{Entrance}
 {321}{}{Level 1}
@@ -66,7 +66,7 @@
 {335}{}{Mine Tunnels}
 {340}{}{Chinatown}
 {341}{}{Dock}
-{342}{}{Tanker}
+{342}{}{Petroleiro}
 {343}{}{Shuttle Exterior}
 {344}{}{Shuttle Interior}
 {345}{}{Hubologists}
@@ -94,10 +94,10 @@
 {401}{}{Main Cavern}
 {402}{}{Underground Lake}
 {410}{}{Car outta power}
-{420}{}{Destroyed Bridge}
+{420}{}{Ponte destruída}
 {430}{}{Toxic Caves}
 {440}{}{Den Slave Run}
-{450}{}{Well}
+{450}{}{Poço}
 {451}{}{Cliff}
 {452}{}{Entry Cave}
 {460}{}{Desert}
@@ -110,16 +110,16 @@
 {467}{}{Desert}
 {468}{}{Desert}
 {469}{}{Desert}
-{470}{}{Mountain}
-{471}{}{Cavern}
-{472}{}{Mountain}
-{473}{}{Cavern}
-{474}{}{Cavern}
-{475}{}{Cavern}
-{476}{}{Cavern}
-{477}{}{Cavern}
-{478}{}{Mountain}
-{479}{}{Mountain}
+{470}{}{Montanha}
+{471}{}{Caverna}
+{472}{}{Montanha}
+{473}{}{Caverna}
+{474}{}{Caverna}
+{475}{}{Caverna}
+{476}{}{Caverna}
+{477}{}{Caverna}
+{478}{}{Montanha}
+{479}{}{Montanha}
 {480}{}{Ruined City}
 {481}{}{Ruined City}
 {482}{}{Ruined City}
@@ -147,22 +147,22 @@
 {550}{}{Ponte}
 {560}{}{Cafe of Broken Dreams}
 {570}{}{Desert}
-{580}{}{Cavern}
-{590}{}{Guardian of Forever}
+{580}{}{Caverna}
+{590}{}{Guardião para Sempre}
 {600}{}{Toxic Waste Dump}
 {610}{}{Desert}
 {620}{}{Herd of Brahmin}
 {630}{}{Desert}
-{631}{}{Mountain}
+{631}{}{Montanha}
 {640}{}{Vault 13 Cavern}
-{650}{}{Cavern}
+{650}{}{Caverna}
 {660}{}{Coastline}
 {661}{}{Coastline}
 {662}{}{Desert}
 {663}{}{Desert}
 {664}{}{Desert}
-{665}{}{Mountain}
-{666}{}{Mountain}
+{665}{}{Montanha}
+{666}{}{Montanha}
 {667}{}{Desert}
 {668}{}{Desert}
 {670}{}{Stables}
@@ -176,7 +176,7 @@
 {1003}{}{Coast}
 {1004}{}{Unknown}
 {1500}{}{You gained 10,000 experience points!}
-{1501}{}{Ruins}
+{1501}{}{Ruínas}
 {1502}{}{The car is out of power.}
 {1503}{}{This is a car. It doesn't look like it's running.}
 {2998}{}{You encounter:}

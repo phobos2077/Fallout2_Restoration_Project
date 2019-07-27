@@ -42,7 +42,7 @@
 {292}{}{No problems today, sir.}
 {293}{}{Uh, is there a problem, sir? Or just visiting?}
 {294}{}{Tommy the Balls sends his regards.}
-{295}{}{Put in a good word with the boss for me?}
+{295}{}{Fale bem de mim pro chefe, beleza?}
 {296}{}{Welcome to the casino, ma'am.}
 {297}{}{Like the threads, ma'am.}
 {298}{}{No problems today, ma'am.}
@@ -57,7 +57,7 @@
 {321}{}{Hey, welcome to the casino! You gonna dance tonight?}
 {322}{}{Looking deadly, sweetheart.}
 {323}{}{Lady Luck gonna get jealous you keep coming around here.}
-{324}{}{I hear Tommy the Balls wants to give you a private screening.}
+{324}{}{Ouvi dizer que o Tommy the Balls quer um fazer um exame médico privado com você.}
 {330}{}{Casino's inside. Don't talk to me.}
 {331}{}{Casino's INSIDE. IN-SIDE. Stupid tribals.}
 {335}{}{Go wiggle at somebody else, tribal.}

@@ -1,6 +1,3 @@
-#
-# Inventory messages from inventry.c
-#
 {0}{}{SÍ}
 {1}{}{VN}
 {2}{}{OD}
@@ -8,8 +5,8 @@
 {4}{}{IN}
 {5}{}{HB}
 {6}{}{ŠT}
-{7}{}{  HitBody}
-{8}{}{  Tø.Zbroje}
+{7}{}{Hit body}
+{8}{}{Tøída zbroje}
 {9}{}{  Normal}
 {10}{}{  Laser}
 {11}{}{  Oheò}
@@ -34,5 +31,4 @@
 {30}{}{Váha}
 {31}{}{Promiò, ale víc už neuneseš.}
 {32}{}{Promiò, ale je to pøíliš tìžké.}
-
 {50}{}{Nenacházíš nic, co by se dalo vzít.}

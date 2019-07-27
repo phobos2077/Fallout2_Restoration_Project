@@ -8,7 +8,7 @@
 {107}{}{Vidíš místní ženu.}
 {108}{}{Vidíš ženu, která nejspíš pracuje v dolech.}
 {109}{}{Vidíš farmáøku.}
-{110}{}{Hledáš nìkoho?}
+{110}{}{Na co èumíš?}
 {111}{}{Vítej ve velkým mìstì.}
 {112}{}{Ahoj.}
 {113}{}{Zùstaneš v Reddingu dlouho?}
@@ -16,10 +16,10 @@
 {115}{}{Nechceme tu žádný potíže.}
 {116}{}{Taky se na tebe dívám.}
 {117}{}{Nazdar, cizinèe.}
-{118}{}{Jak to jde?}
+{118}{}{Jak je?}
 {119}{}{Jak se vede?}
 {120}{}{Pøeju hezkej den.}
-{121}{}{Škyt.}
+{121}{}{Jo.}
 {122}{}{Ahoj.}
 {123}{}{Vidíš muže s chlazeným nápojem v ruce.}
 {124}{}{Vidíš muže, který si objednává pivo.}
@@ -64,7 +64,7 @@
 {163}{}{Tato žena odpoèívá.}
 {164}{}{Tato žena odpoèívá u sebe doma.}
 {165}{}{Ahoj.}
-{166}{}{Co tady dìláš?}
+{166}{}{Co tu dìláš?}
 {167}{}{Kdo tì sem pustil?}
 {168}{}{Vypadni, tohle není dùm pro divochy.}
 {169}{}{Vypadni! Zmiz!}
@@ -89,7 +89,7 @@
 {188}{}{Tato osoba vypadá vzrušenì.}
 {189}{}{Sejmi ho!}
 {190}{}{A týdenní plat je v háji... už zase.}
-{191}{}{Jo!}
+{191}{}{Jó!}
 {192}{}{Zabít, zabít, zabít!}
 {193}{}{Jdi mu po krku!}
 {194}{}{Zabij toho parchanta!}
@@ -121,7 +121,7 @@
 {220}{}{Jíte lidi?}
 {221}{}{Já myslel, že máš na hlavì rohy.}
 {222}{}{Odkud jseš?}
-{223}{}{Jseš zdaleka?}
+{223}{}{Jseš z daleka?}
 {224}{}{Že mì nechytíš?}
 {225}{}{Héhé, héhé, héhé!}
 {226}{}{Vypadáš legraènì.}

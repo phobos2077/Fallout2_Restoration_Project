@@ -6,25 +6,25 @@
 {105}{}{Celebrity? Co z vás dìlá celebrity?}
 {106}{}{Podobnost? Co tím myslíte?}
 {107}{}{Chci být Hubologista. Jak se k vám mùžu pøidat?}
-{108}{}{Hej, Vikki, Dave H. tì miluje.}
+{108}{}{Poslyš, Vikki, Dave H. tì miluje.}
 {109}{}{Paráda. Už musím jít.}
 {110}{}{On: Ubohé dítì pustiny. Ona: Nepomohlo by tøeba srovnání? On: Ano. Ty. Chceš podstoupit srovnání?}
-{111}{}{Ano!}
+{111}{}{Jo!}
 {112}{}{Ne!}
 {113}{}{Ona: Doufám, že to pomohlo. Hodnì štìstí na cestách!}
 {114}{}{Ahoj!}
 {115}{}{Opravdu to pomohlo!}
 {116}{}{On: Pokud nechceš pøijmout naši pomoc... Ona: ...pak ti nemùžeme pomoci. Sbohem.}
-{117}{}{Ahoj!}
+{117}{}{Nashle!}
 {118}{}{On: Vidíš? Vìdomosti Hubu opìt pøedvedly svoji cenu!}
 {119}{}{Mám nìjaké otázky.}
-{120}{}{Díky! Nashle!}
+{120}{}{Diky! Nashle!}
 {121}{}{Ona: Byli jsme souèástí filmového prùmyslu v New Renu. Natoèili jsme stovky filmù, z nichž se mnohé staly klasiky, jako tøeba "Top Bun," "Pikantní Podnik," a "Bouølivé Sny". Díky tomu jsme celebrity.}
 {122}{}{On: Ale jakožto èlen tohoto prùmyslu to jistì víš.}
 {123}{}{Koneènì si mùžu spojit jména s tváøemi.}
 {124}{}{Koho zajímá, že se k nim HLÁSÍTE? Copak nemùžu uèinit vlastní rozhodnutí?}
 {125}{}{Aha. Mám na vás další otázky.}
-{126}{}{Díky. Nashle.}
+{126}{}{Díky, nashle.}
 {127}{}{Ona: Ale ano, samozøejmì že mùžeš uèinit vlastní rozhodnutí. On: A v Hubovì poslední knize se mùžeš doèíst, jak uèinit to PRAVÉ rozhodnutí!}
 {128}{}{V jeho poslední knize? On není mrtvý?}
 {129}{}{"Pravé rozhodnutí?" No jasnì. A co tøeba svobodná vùle?}
@@ -67,7 +67,7 @@
 {166}{}{On: To je od tebe velmi pozitivní myšlení. Ona: Velmi osvícené. On: Nabízíme naše názory lidem... a pokud naše sláva pøitáhne více vìøících, milerádi toho využijeme.}
 {167}{}{Mám další otázky.}
 {168}{}{Chci se k vám pøidat.}
-{169}{}{Aha. Dobøe, tak zatím.}
+{169}{}{Chápu. No, zatím.}
 {170}{}{On: No, to je velmi prosté. Dáme ti tento informaèní holodisk. Ona: ...podíváš se na krátký film... On: ...a poté si pùjdeš promluvit s AHS-7! Ona: Snadné, že ano?}
 {171}{}{Pojïme na to.}
 {172}{}{Myslím, že na to nejsem pøipraven.}
@@ -76,21 +76,21 @@
 {175}{}{V tom pøípadì nejdøív zastøelím já vás.}
 {176}{}{Padám odsud.}
 {177}{}{On: Toto je tvá poslední šance zmìnit své rozhodnutí. Ona: Nechceme, aby se ti stalo nìco zlého.}
-{178}{}{Jdìte nìkam.}
+{178}{}{Jdi se vycpat.}
 {179}{}{Fajn. Jak se k vám mùžu pøidat?}
 {180}{}{Nìco zlého se brzy stane VÁM.}
 {181}{}{Ne. Myslím, že to risknu. Zatím.}
 {182}{}{On: Udìlali jsme pro tebe vše, co jsme mohli. Ona: Hodnì štìstí na cestách.}
 {183}{}{Nashle!}
 {184}{}{Ona: Dave? Ten poèítaèový geek? On: Haha! Taková nicka! Vikki je moje, jen moje... v žádném pøípadì se... promiò, èelím negativní energii. Mám nejspíš zneèištìné neurodyny. Ona: (Šeptá ti.) Myslím, že je Dave roztomilý, ale nic s ním nemùžu mít, když je Juan poblíž. On: Uf. Neurodyny už jsou zase èisté.}
-{185}{}{Aha. Mám další otázky.}
+{185}{}{Dobøe, mám další otázky.}
 {186}{}{To už bude všechno. Nashle.}
 {187}{}{Ona: Nebylo to až tak zlé, že ne? On: Teï si jdi promluvit s AHS-7 a poté se z nás stanou soudruzi v Hubologii. Ona: Jsem tak vzrušená! On: Získávání nových rekrutù mì vždycky vzruší. Ona: Ach, miláèku... On: Ach, zlato...}
 {188}{}{Asi se vrátím pozdìji.}
 {189}{}{On: Pøíliš pozdì. Ona: Už jsi zavázaný.}
 {190}{}{[KONEC]}
 {191}{}{On: Udìlal jsi životní rozhodnutí. Ona: A bohužel to bylo špatné rozhodnutí. Oba: Stráže! Stráže!}
-{192}{}{Sakra.}
+{192}{}{Zatracenì.}
 {193}{}{On: Zdravím, }
 {194}{}{Takže co mám teï jako Hubologista dìlat?}
 {195}{}{Mùžu s vámi nìkdy nìco podniknout?}
@@ -126,10 +126,7 @@
 {225}{}{Ne, my vám chceme POMOCI.}
 {226}{}{A o tom všem je Hubologie.}
 {227}{}{[Potlesk]}
-
 {228}{}{. Doufám, že jde tvé osvícení dobøe. Ona: Vkládáme do tebe... veliké... nadìje.}
-
 {229}{}{Lekce 1: Zde je vìènost, naše Velké Kolo. (Na nìco ukáže.) A tady jsme my. (Na nìco ukáže.) Nyní jen musíme urazit dlouhou cestu, abychom se mohli setkat s našimi hvìzdnými bratry.}
 {230}{}{Sakra, tak to budeme potøebovat opravdu hodnì bot.}
-
 {231}{}{On: Teï si jdi promluvit s AHS-7 a poté se z nás stanou soudruzi v Hubologii! Ona: Jsem tak vzrušená! On: Získávání nových rekrutù mì vždycky vzruší. Ona: Ach, miláèku... On: Ach, zlato...}

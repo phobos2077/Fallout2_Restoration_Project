@@ -5,7 +5,7 @@
 {104}{}{Fùùùj. Chlupatá.}
 {105}{}{Pìkná chlupy.}
 {106}{}{Á, u chápu. Ty jsi ve mìstì novı, e? No, tak já ti nìco povím. Jsem Jackpot Jane a uzavírám sázky tıkající se zítøejších zápasù. Chceš si vsadit?}
-{107}{}{[Pøikıvnout] Jo, jo. [Vytáhnout penìenku]}
+{107}{}{(You nod) Ook, ook. (and hold out your purse)}
 {108}{}{Béé? Gaga. Pápá, chlupatá paní.}
 {109}{}{Dobrı nápad. Pøijï zítra a jestli tvùj favorit vyhraje zápas, dám ti tvoji vıhru. Platí?}
 {110}{}{Dobrı tah. Zaruèím ti opravdu dobrı kurz. Uvidíme se pozdìji.}
@@ -60,7 +60,7 @@
 {159}{}{Pojïte a uvidíte zápas dne!}
 {160}{}{Divoké pøíšery bojují, zatímco vy vyhráváte peníze! ZAMILUJETE SI TO!}
 {161}{}{Pøineste si plné penìenky a hromadu oèekávání! PØÍMO SEM!}
-{162}{}{Vypadni odsud.}
+{162}{}{Vypadni sakra odsud.}
 {163}{}{Nemám zájem.}
 {164}{}{Nech mì na pokoji.}
 {165}{}{Dr se dál od mé ohrady.}
@@ -72,7 +72,7 @@
 {171}{}{Eh, jdu do toho. Asi.}
 {172}{}{Velcí ještìøi mì dìsí. Radìji vypadnu døív, ne nìjakého potkám. Díky za varování a sbohem. (Pro sebe.) *Uuf, to bylo tìsné.*}
 {173}{}{Vsadíš si na vısledek zápasu. Funguje to takhle: Pøijdeš ke mnì, já ti povím, které dvì potvory budou zápasit, a ty si na jednu z nich vsadíš.}
-{174}{}{A potom co?}
+{174}{}{A potom?}
 {175}{}{To je jednoduché. Kdy tvoje zvíøe vyhraje, dostaneš dvojnásobek vsazenıch penìz nebo dokonce TROJNÁSOBEK, pokud vyhraje v prvním kole! Pokud tvoje zvíøe prohraje, tvoje peníze budou patøit mì. Kadı den je obvykle nìkolik zápasù. Dokud bude dost zvíøat, mùeš si vsadit na kterékoliv z nich, ale jenom jednou za zápas. A aby to nebylo moc sloité, tak se sází po $100.}
 {176}{}{Dobøe, chápu. Zkusím to.}
 {177}{}{Aha. Hmm, myslím, e si vsadím nìkdy jindy. Sbohem.}
@@ -92,9 +92,9 @@
 {191}{}{ a proti nìmu starı dobrı }
 {192}{}{. Takovı zápas jen tak znovu neuvidíš. Na koho si vsadíš?}
 {193}{}{[Vsadit si na: }
-{194}{}{.]}
+{194}{}{.}
 {195}{}{[Vsadit si na: }
-{196}{}{.]}
+{196}{}{.}
 {197}{}{Hmm, myslím, e tohle kolo vynechám. }
 {198}{}{U toho mám pro dnešek dost. Uvidíme se nìkdy jindy. Sbohem.}
 {199}{}{Á, tady jsi. Tady máš svoji vıhru. Tohle byl dnes poslední zápas. Jestli chceš, pøijï zase zítra.}
@@ -130,12 +130,6 @@
 {229}{}{To mì mohlo stát spoustu penìz.}
 {230}{}{To byl dobrej zápas, ale jsem rád, e jsem si na nìj nevsadil.}
 {231}{}{Dobøe, díky.}
-
-####
-# Fighter Names
-####
-
-# Fighter 1
 {300}{}{Vøískaè}
 {301}{}{Vicky}
 {302}{}{Spike}
@@ -145,8 +139,6 @@
 {306}{}{Jackelope}
 {307}{}{Zabiják}
 {308}{}{Šéf}
-
-# Fighter 2
 {310}{}{Cisterna}
 {311}{}{Muttley}
 {312}{}{Rıè}
@@ -156,20 +148,16 @@
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-
-# Fighter 3
 {320}{}{Tlusoch}
 {321}{}{Trhaè}
-{322}{}{Rozparovaè}
+{322}{}{Trhaè}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
 {326}{}{Jednookı}
 {327}{}{Vøed}
 {328}{}{Pán Vrtoch}
-
-# Fighter 4
-{330}{}{Šastnej}
+{330}{}{Šastlivec}
 {331}{}{Zoroaster Velikı}
 {332}{}{Shub}
 {333}{}{Usuthu}
@@ -178,8 +166,6 @@
 {336}{}{Miláèek}
 {337}{}{Zabiják}
 {338}{}{Kapitán Pùlnoc}
-
-# Fighter 5
 {340}{}{Kladivo}
 {341}{}{Sekretáø}
 {342}{}{Mu Války}
@@ -189,8 +175,6 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelopa}
 {348}{}{Pan Baggins}
-
-# Fighter 6
 {350}{}{Blesk}
 {351}{}{Percy}
 {352}{}{Kytka}

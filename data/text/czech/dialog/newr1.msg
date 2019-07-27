@@ -2,23 +2,16 @@
 {101}{}{Pøed tebou je pustina pokrytá hroby. Zkrvavené kùly vyènívají ze zemì a jsou na nich pøipevnìny kusy mrtvých tìl.}
 {102}{}{Vypadá to jako stará pøedváleèná nabíjecí stanice. Budova je obklopena starými, rozbitými vraky aut.}
 {103}{}{Vstupuješ do Stájí. Vchody do obou farem jsou obehnány novým drátìným plotem.}
-
 {150}{}{[Pøedchozí]}
 {151}{}{[Více]}
-
-# family name
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-
 {221}{}{Salvátorùv}
 {222}{}{klub Shark}
 {223}{}{Desperado}
 {224}{}{}
-
-
-# made man name
 {300}{}{}
 {301}{}{Šepot}
 {302}{}{Pavouk}
@@ -36,7 +29,7 @@
 {314}{}{Opièák}
 {315}{}{Vazba}
 {316}{}{Bouchaè}
-{317}{}{Dobrák}
+{317}{}{Gooch}
 {318}{}{Sekáèek}
 {319}{}{Brocco}
 {320}{}{Podrazák}
@@ -113,16 +106,13 @@
 {391}{}{Rubín}
 {392}{}{X}
 {393}{}{}
-
-# prizefighter name
-
 {400}{}{}
 {401}{}{Rypadlo}
 {402}{}{Rotaèní Jenny}
 {403}{}{Lokomotiva}
 {404}{}{Hurikán}
 {405}{}{Velkej Zlej Hajzl}
-{406}{}{Vyvolený}
+{406}{}{Vyvoleny}
 {407}{}{Zuøící Býk}
 {408}{}{LaMotta}
 {409}{}{Kladivo}
@@ -193,15 +183,10 @@
 {474}{}{Aténa}
 {475}{}{Vzteklý Pes}
 {476}{}{}
-
-# special stupid names
 {496}{}{Velkej Stu}
 {497}{}{Miami}
 {498}{}{X}
 {499}{}{Tvoje jméno}
-
-# porn star name
-# male
 {500}{}{}
 {501}{}{Rodd Kamenej}
 {502}{}{Randy Mercury}
@@ -252,7 +237,6 @@
 {547}{}{}
 {548}{}{}
 {549}{}{}
-# female
 {550}{}{}
 {551}{}{Ïáblice}
 {552}{}{Mable Sirup}
@@ -303,8 +287,6 @@
 {597}{}{Valerie Ïábelská}
 {598}{}{Ruth Less}
 {599}{}{}
-
-# other boxer names
 {700}{}{Mal Fisto}
 {701}{}{Tony Kvér}
 {702}{}{"Ocel" Mark Torrance}
@@ -325,32 +307,21 @@
 {717}{}{Drago}
 {718}{}{Tommy Kvér}
 {719}{}{Apollón}
-
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{Ždímaèka}
-
-# GOING TO THE CHOP SHOP
 {1000}{}{Jules tì zavede do ruin kolem New Rena. Bez nìj by bylo hledání marné. Jakmile dorazíte na místo, Jules zmizí.}
 {1100}{}{Stopa tì zavede do ruin kolem New Rena.}
-
-# MORDINO/MYRON STASH
 {1200}{}{Nacházíš malou kovovou pokladnièku. Bez znalosti pøesného místa by to bylo jako hledání jehly v kupce sena.}
-
-# CODY/CHOP SHOP
 {1300}{}{Cody tì zavede do ruin kolem New Rena a pak uteèe zpátky, odkud pøišel. Bez nìj by bylo hledání marné.}
-
-# BOXING LEVELS
 {1400}{}{První protivník byl poražen.}
 {1401}{}{Druhý protivník byl poražen.}
 {1402}{}{Tøetí protivník byl poražen.}
 {1403}{}{Ždímaèka byl poražen!}
 {1404}{}{Jsi šampión tìžké váhy New Rena.}
 {1405}{}{Podaøilo se ti porazit svého posledního soupeøe!}
-
 {1500}{}{Podaøilo se ti pøesvìdèit paní Wrightovou, aby znièila palírnu.}
 {1550}{}{Byl jsi svìdkem tajné transakce.}
-
 {1600}{}{V žáru boje ti Ždímaèka ukousl ucho.}
 {1700}{}{Vzteky bez sebe jsi ukousl Ždímaèkovi ucho.}

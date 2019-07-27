@@ -1,7 +1,5 @@
-{100}{}{Vidíš... Sheba.}
-
+{100}{}{You see... Sheb.}
 {150}{}{Vidíš vychrtlého muže obleèeného v jasnì modrém obleèení. Jako by jeho obleèení nebylo dost køiklavé, tak ještì øve z plných plic.}
-
 {200}{}{Prdýlky, prdelky, prdelinky!}
 {201}{}{Pojïte dál, milovníci prdelek!}
 {202}{}{Dneska máme v Koèièí Pacce polovièní ceny!}

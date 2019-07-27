@@ -1,7 +1,4 @@
-# quick look
 {100}{}{Vidíš hazardního hráèe.}
-
-# examines
 {150}{}{Vidíš hazardního hráèe. Vypadá unavenì.}
 {151}{}{Vidíš hazardního hráèe. Tøpytí se mu oèi.}
 {152}{}{Vidíš hazardního hráèe. Má hlavu v dlaních.}
@@ -14,24 +11,22 @@
 {159}{}{Vidíš hazardní hráèku. Vypadá trochu namazanì.}
 {160}{}{Vidíš hazardní hráèku. Zamourá tvım smìrem a poté se vypotácí ven.}
 {161}{}{Vidíš hazardní hráèku. Snaí se upoutat pozornost èíšníka.}
-
-# float
 {200}{}{::Tleská::}
-{201}{}{::Povzbuzuje::}
-{202}{}{Takhle se na ty bastardy v Enklávì musí! Jen tak dál!}
-{203}{}{Takhle se na Enklávu musí, }
+{201}{}{::Fandí::}
+{202}{}{Takhle se musí na ty parchanty z Enklávy! Jen tak dál!}
+{203}{}{Takhle se likviduje Enkláva, }
 {204}{}{Gratuluju ke znièení Enklávy, }
 {205}{}{Gratuluju ke znièení Enklávy, }
-{206}{}{Pozor. Všichni z cesty.}
+{206}{}{Bacha. Všichni z cesty.}
 {207}{}{Pøi pohledu na nìj... na ni... a u je to *cokoliv*, mì zamrazí v zádech.}
 {208}{}{Myslíš, e chce nìkoho oddìlat?}
 {209}{}{Vypadá jako satanùv zplozenec. Eh, pod tou zbrojí.}
-{210}{}{Radši se tı vìci neple do cesty.}
+{210}{}{Radši se tı vìci neplete do cesty.}
 {211}{}{Tomu øíkám nebezpeènì vypadající èlovìk...}
 {212}{}{*Polk*}
-{213}{}{Myslím, e mì ten robot skenoval.}
+{213}{}{Myslím, e mì ten robot oskenoval.}
 {214}{}{Myslím, e mi ten pochodující tank právì ukázal tváø smrti. Padám odsud.}
-{215}{}{Slyšel jsem, e ta vìc vèera vyøídila tøi nájemnı vrahy.}
+{215}{}{Prı ta vìc vèera vyøídila tøi nájemnı vrahy.}
 {216}{}{Pøi pohledu na nìj mì zamrazí v zádech.}
 {217}{}{Myslíte, e chce nìkoho oddìlat?}
 {218}{}{Radši se tomu chlápkovi neplete do cesty.}
@@ -51,20 +46,20 @@
 {232}{}{To je ale prdel! Eh, s ní to nebude ádná prdel.}
 {233}{}{Nevypadáš a tak drsnì, šampióne.}
 {234}{}{Vsadil jsem si na tebe 20 babek!}
-{235}{}{Nazdar, šampióne! Ten tvùj poslední zápas byl fakt skvìlej!}
-{236}{}{Vidìl jsem tì zápasit v ringu. Máš fakt dobrej pravej hák!}
-{237}{}{Doufám, e mì nezklameš, vsadil jsem si na tebe 30 babek.}
+{235}{}{Nazdar šampióne! Ten tvùj poslední zápas byl skvìlej!}
+{236}{}{Vidìl jsem tì zápasit v ringu. Máš fakt skvìlej pravej hák.}
+{237}{}{Doufám, e další zápas vyhraješ. Vsadil jsem si na tebe $30.}
 {238}{}{Kolik dáš na benèi?}
 {239}{}{Kde posiluješ?}
-{240}{}{Dej si bacha na dímaèku. Chutnaj mu uši.}
-{241}{}{Zaplatil bych ti panáka, kdybych nevsadil všechny svı prachy na tvıho soupeøe a neprohrál je.}
+{240}{}{Bacha na dímaèku. Chutnají mu uši.}
+{241}{}{Koupil bych ti drink, ale pøišel jsem o všechny peníze, kdy jsem vsadil na tvıho protivníka.}
 {242}{}{Nevypadáš zas a tak drsnì, paní Levej Hák.}
 {243}{}{Mùu vidìt tvoje zatnutı bøišní svaly?}
 {244}{}{Páni, kouknìte se na ni.}
 {245}{}{Tak to je teda *nìco*.}
-{246}{}{::Zamumlá si pro sebe 'ty vole.'::}
+{246}{}{::Mumlá si pro sebe 'sáááákryš'::}
 {247}{}{Já VÌDÌL, e jsem se mìl dneska oholit.}
-{248}{}{Pojï dát øeè, koèko.}
+{248}{}{Nechceš se stavit na kus øeèi, koèko?}
 {249}{}{Divošky maj fakt dobrı kozy! No ty vole!}
 {250}{}{Kouknìte, jak je ta divoška vyvinutá.}
 {251}{}{Tak to je ta nejlepší klisna, co jsem kdy vidìl.}
@@ -73,7 +68,7 @@
 {254}{}{Zatøes s nima!}
 {255}{}{Uka se!}
 {256}{}{::Píská::}
-{257}{}{Máš fakt krásnı dlouhı nohy.}
+{257}{}{Máš fakt krásnı nohy.}
 {258}{}{Tıııııı vole.}
 {259}{}{Na tu tvoji prdelku je fakt moc pìknej pohled, krásko.}
 {260}{}{Doufám, e bude dneska veèer tancovat.}
@@ -95,15 +90,15 @@
 {276}{}{::Zírá na tvoje bicepsy::}
 {277}{}{To je nìjakej hrací automat co za tebou poøád jezdí?}
 {278}{}{To je nìjakej novej hrací automat?}
-{279}{}{Umí ten tvùj robot nìjakı triky? Ehm... myslím kouzelnı triky.}
+{279}{}{Umí ten tvùj robot nìjakı triky? Eh... myslím kouzelnı triky.}
 {280}{}{To zní bláznivìjc, ne kdyby liška milovala slepici.}
 {281}{}{A jedéém.}
 {282}{}{Malej potøebuje novı boty...}
 {283}{}{Zatracenı turisti...}
 {284}{}{Zatracenì! U jsem mìl *53* babek...}
-{285}{}{Mám fakt štìstí...}
+{285}{}{Zatracená smùla...}
 {286}{}{Takovej kousíèek!}
-{287}{}{Vyberu to do posledního centu.}
+{287}{}{Dneska to tady celı vyberu.}
 {288}{}{Já? Vyberu to do posledního centu. Dívej.}
 {289}{}{Kurz byl proti mnì.}
 {290}{}{Štìstí mi nepøeje.}
@@ -139,42 +134,42 @@
 {320}{}{Toèí se a toèí... kde se zastaví, to nikdo neví...}
 {321}{}{Takhle se musí na ty parchanty z Enklávy! Jen tak dál!}
 {322}{}{Já vìdìl, e nás chtìl prezident všechny zabít.}
-{323}{}{Prezident byl naivu? Kdy byly naposled volby?}
+{323}{}{Prezident byl naivu? Kdy byly naposledy volby?}
 {324}{}{Enkláva je znièená, jo? Tak to tì zvu na drink.}
 {325}{}{Takhle se likviduje Enkláva, }
 {326}{}{Znièením Enklávy jsi z tohohle kasína udìlal mnohem lepší a bezpeènìjší místo pro mı dìti. Jak se ti mùu odvdìèit?}
 {327}{}{Enkláva mi sice nikdy nic neudìlala, ale jsem rád, e u není.}
 {328}{}{Nemùu uvìøit, e byla Enkláva i po takovı dobì poøád ve válce. Idioti.}
 {329}{}{Ucítil jsem velké narušení... jako kdyby stovka pekelnıch bastardù na ropné plošinì najednou zaøvala v agónii a potom najednou utichla. Zvláštní.}
-{330}{}{Gratuluju k rozmašírování Enklávy, }
-{331}{}{Gratuluju k rozmašírování Enklávy, }
+{330}{}{Gratuluju ke znièení Enklávy, }
+{331}{}{Gratuluju ke znièení Enklávy, }
 {332}{}{Hledáš svıho bráchu Robbyho? Vdy víš, toho robota? No tak nic.}
 {333}{}{Promiò, nestojím ti v cestì? Hned odejdu z mìsta.}
-{334}{}{Promiò, dıchal jsem tvùj vzduch? Hned pøestanu.}
+{334}{}{Promiò, dıchám tvùj vzduch? Hned pøestanu.}
 {335}{}{Nevìdìl jsem, e dìlaj futra tvojí velikosti.}
-{336}{}{::Zaklepe na zbroj:: Haló? Je tam nìkdo?}
-{337}{}{'Pozor, Will Robinson! Pozor, Will Robinson!' Hehe. Eh... to je jen takovej vtip.}
-{338}{}{Pìkná zbroj. Má to i klimatizaci?}
-{339}{}{Není ti v tom trochu horko?}
+{336}{}{'Pozor, Will Robinson! Pozor, Will Robinson!' Hehe. Eh... to je jen takovej vtip.}
+{337}{}{Pìkná zbroj. Má to i klimatizaci?}
+{338}{}{Není ti v tom trochu horko?}
+{339}{}{Nevìøíš si nebo co, plechovko?}
 {340}{}{Mùu si tyhle hrací kostky otøít o tvoji zbroj? Pro štìstí...}
-{341}{}{Nevìøíš si nebo co, plechovko?}
+{341}{}{Eh, zdravím, pane... madam... nebo co vlastnì jste.}
 {342}{}{Eh, zdravím, pane... madam... nebo co vlastnì jste.}
 {343}{}{Pozdravuj toho, kdo ti dal tuhle zbroj.}
-{344}{}{Nìjakej problém, pane... madam... eh, nebo co vlastnì jste.}
+{344}{}{Ty jseš nìjakej novej chodící hrací automat?}
 {345}{}{Ty jseš novej vyhazovaè? Nebo nìjakej chodící hrací automat?}
-{346}{}{Ne, NEBUDU ti mazat klouby.}
+{346}{}{Vypadáš jako ti roboti z Mechwarriora.}
 {347}{}{Umí se ta tvoje zbroj promìnit ve stíhaèku? Docela by mì to zajímalo.}
 {348}{}{Jó jó, taky tì zdravím - 'vrrrr-bzzzzz-vrrrr'.}
 {349}{}{Jestli si myslíš, e mì ta tvoje zbroj nahání hrùzu, tak máš pravdu.}
 {350}{}{Ty musíš bejt urèitì jedna z tìch pøedváleènejch herních konzolí.}
 {351}{}{Podívej, nehledám ádnı problémy. Jsem tu jenom na jeden den.}
-{352}{}{Podívej, nehledám ádnı problémy...}
+{352}{}{Prosím... nechci ádné potíe.}
 {353}{}{Promiò, nestojím ti v cestì? Hned odejdu z mìsta.}
 {354}{}{Promiò, dıchám tvùj vzduch? Hned pøestanu.}
 {355}{}{Pozdravuj ode mì svıho šéfa.}
 {356}{}{Eh...*polk*...nìjakej problém?}
 {357}{}{Podívej, nehledám ádnı problémy. Jsem tu jenom na jeden den.}
-{358}{}{Podívej, nehledám ádnı problémy.}
+{358}{}{Prosím... nechci ádné potíe.}
 {359}{}{Jseš na prodej?}
 {360}{}{Mùu koupit tvı obleèení? Myslím teï hned?}
 {361}{}{Já VÌDÌL, e jsem se mìl dneska oholit.}
@@ -193,7 +188,6 @@
 {374}{}{Zatracenì. To jsou moc pìknı køivky.}
 {375}{}{Víš, co by na tobì opravdu dobøe vypadalo? Já.}
 {376}{}{Tvoje kalhotky asi nebudou ta nejlepší vìc na svìtì, ale dost se tomu blíej.}
-
 {503}{}{!}
 {504}{}{! Jseš jednièka! Jseš NEJLEPŠÍ!}
 {505}{}{! Jseš boí!}

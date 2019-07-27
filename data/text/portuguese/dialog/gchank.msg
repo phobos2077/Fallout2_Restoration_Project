@@ -12,7 +12,7 @@
  wouldn't recommend it for you. Quite a bit of heat and radiation in there. That's why the smoothies
  that built this place included a maintenance bot.}
 {121}{}{Maintenance bot?}
-{122}{}{Oh, thanks. Goodbye.}
+{122}{}{Ah, valeu. Falo.}
 {130}{}{Let me look this over. According to this, our coolant level is way too high. I would've thought
  that turning off the coolant would lead to immediate meltdown but I guess not. I'd better go turn off
  the coolant right now.}
@@ -32,7 +32,7 @@
  watch the gauges here. Try Festus. He's the resident parts genius -- just ask him.}
 {161}{}{Where is Festus?}
 {162}{}{Is there any other way?}
-{163}{}{Okay. Goodbye.}
+{163}{}{Certo. Tchau.}
 {170}{}{You talk to Festus about installing that part yet?}
 {171}{}{Where is he?}
 {172}{}{Is there any other way?}

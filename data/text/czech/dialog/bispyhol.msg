@@ -1,3 +1,3 @@
-{100}{}{Vidíš otluèený holodisk.}
-{101}{}{Pip-Boy zobrazuje: Soubor v systému nalezen. Pøerušuji kopírovaní.}
-{102}{}{Pip-Boy zobrazuje: Kopíruji data z disku.}
+{100}{}{Vidíš ponièený pásek.}
+{101}{}{Pip-Boy ukazuje: Soubor nalezen v systému. Stahování zrušeno.}
+{102}{}{Pip-Boy ukazuje: Stahuji data z disku.}

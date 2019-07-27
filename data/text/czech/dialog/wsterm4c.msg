@@ -1,6 +1,6 @@
 {100}{}{Poèítaèový terminál.}
 {101}{}{Obslužný terminál Bioskladu.}
-{102}{}{Nedokážeš pøeèíst text na obrazovce.}
+{102}{}{Obrazovka je pro tebe zcela neèitelná.}
 {103}{}{Bio sklad - hlavní menu                                              Odebrat                                                                Uložit}
 {104}{}{}
 {105}{}{}
@@ -111,5 +111,4 @@
 {232}{}{(Aèkoliv je celkem jasné, že jsou nádrže prázdné, program stále hlásí, že jsou plné. Asi chyba programu.)}
 {233}{}{Zpìt do hlavního menu.}
 {234}{}{Konec.}
-
-{300}{}{ nedokáže pøeèíst text na obrazovce.}
+{300}{}{ nedokáže pøeèíst text na monitoru.}

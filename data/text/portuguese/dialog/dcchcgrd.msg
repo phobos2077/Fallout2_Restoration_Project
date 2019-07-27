@@ -16,7 +16,7 @@
 {164}{}{Eu vou voltar.}
 {165}{}{[Vergonha] Não...hum...tudo bem, basta ir em na...}
 {166}{}{Obrigado.}
-{167}{}{That's more like it.}
+{167}{}{Assim que se fala.}
 {168}{}{O que vocês querem?}
 {169}{}{Precisamos ir para dentro.}
 {170}{}{Fomos enviados aqui pelo chefe.}

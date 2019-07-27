@@ -1,51 +1,51 @@
-{100}{}{You see one of Klamath's citizens.}
-{101}{}{You see one of Klamath's citizens.}
-{150}{}{Why don't you go back to your tribe?}
-{151}{}{I'll give you some pretty beads if you leave me alone.}
-{152}{}{Nice tribal, good tribal, don't hurt me.}
-{153}{}{I sure wish we had a wall around the town.}
-{154}{}{I don't have anything to steal; go away.}
-{155}{}{Why are you looking at me like that?}
-{156}{}{Great, another tribal.}
-{157}{}{Why don't you go back to the golden gecko?}
-{158}{}{Just keep away from me.}
-{159}{}{We don't need you stirring up trouble.}
-{160}{}{You must have come north from the Den.}
-{161}{}{Last thing we need is more like you.}
-{170}{}{Hello there, stranger.}
-{171}{}{I sure hope the trapping's good this season.}
-{172}{}{Lots of brahmin going missing lately.}
-{173}{}{(Crunch, crunch) Dunton's Drymeat sure is yummy.}
-{174}{}{Did you come here to trade hides for firewater?}
-{175}{}{I thought all your people put a bone through their noses.}
-{176}{}{Watch out for the rats in Trapper Town.}
-{177}{}{Now where'd I put those magic beans?}
-{178}{}{Geckos taste just like canned chicken, if you cook them right.}
-{179}{}{I'm going to relax at the Bathhouse.}
-{180}{}{Watch out for the Duntons.}
-{181}{}{Buckner house always gives me a fair price on my goods.}
-{182}{}{Nice day today.}
-{183}{}{You look like Sulik.}
-{184}{}{I wonder where that idiot Torr has gone?}
-{185}{}{The big secret is - hey, what's this in my pocket?!?}
-{186}{}{No rest for the poor.}
-{187}{}{My joints ache; weather must be changing.}
-{188}{}{Wind's picking up a bit.}
+{100}{}{Você vê um dos cidadãos de Klamath.}
+{101}{}{Você vê um dos cidadãos de Klamath.}
+{150}{}{Por que você não volta para sua tribo?}
+{151}{}{Te dou umas miçangas bonitas se você me deixar em paz.}
+{152}{}{Bom tribal, bom tribal, não me machuque.}
+{153}{}{Eu com certeza gostaria que tivéssemos um muro ao redor da cidade.}
+{154}{}{Eu não tenho nada para você roubar; vai embora.}
+{155}{}{Por que você está olhando para mim desse jeito?}
+{156}{}{Ótimo, mais um tribal.}
+{157}{}{Por que você não volta para o gecko dourado?}
+{158}{}{Fica longe de mim.}
+{159}{}{Não precisamos de você causando problemas por aqui.}
+{160}{}{Você deve ter vindo do norte de Den.}
+{161}{}{A última coisa que precisamos é de pessoas como você.}
+{170}{}{Olá, visitante.}
+{171}{}{Espero que a gente tenha uma boa temporada de caça.}
+{172}{}{Muitos brahmin têm sumido ultimamente.}
+{173}{}{(Mastiga com ruido) A carne seca dos Dunton é com certeza deliciosa.}
+{174}{}{Você veio aqui para trocar couro por cachaça?}
+{175}{}{Pensei que todos do seu povo colocavam um osso atravessando o nariz.}
+{176}{}{Cuidado com os ratos do Bairro dos Caçadores.}
+{177}{}{Onde é que eu coloquei aqueles feijões mágicos?}
+{178}{}{Geckos têm gosto de galinha enlatada, se você cozinhá-los direito.}
+{179}{}{Tô indo relaxar na casa de banho.}
+{180}{}{Cuidado com os Duntons.}
+{181}{}{A Buckner House sempre dá um preço justo nos meus bens.}
+{182}{}{Está um ótimo dia hoje.}
+{183}{}{Você se parece com o Sulik.}
+{184}{}{Gostaria de saber para onde foi aquele idiota do Torr?}
+{185}{}{O grande segredo é - hey, o que é isso no meu bolso?!?}
+{186}{}{Alegria de pobre dura pouco...}
+{187}{}{Minhas juntas estão doendo; o tempo deve estar mudando.}
+{188}{}{O vento está um pouco forte.}
 {190}{}{Bom ver você.}
-{191}{}{Any more like you at home?}
-{192}{}{Hope you're enjoying Klamath.}
-{193}{}{We could use a few more people of your caliber here.}
-{194}{}{What's up, friend?}
-{195}{}{Good fortune to you.}
-{196}{}{If you need to buy anything, go to Buckner House.}
-{197}{}{You're not like Sulik at all.}
-{198}{}{You're the most civilized tribal I've ever met.}
-{199}{}{Watch out for geckos that have changed color.}
-{200}{}{Hello, traveler.}
-{201}{}{Glad to have you in Klamath.}
-{202}{}{Howdy, stranger.}
-{203}{}{Watch out for those Duntons; they're dangerous.}
-{204}{}{Trapper Town sure has a lot of rats.}
+{191}{}{Tem mais de você na sua vila?}
+{192}{}{Espero que esteja gostando de Klamath.}
+{193}{}{Nós poderíamos usar mais pessoas do seu caráter aqui.}
+{194}{}{Como vai, colega?}
+{195}{}{Que a sorte esteja sempre em seu favor.}
+{196}{}{Se você precisar comprar algo, vá para a Buckner House.}
+{197}{}{Você não parece nada com o Sulik, afinal.}
+{198}{}{Você é o tribal mais civilizado que eu já conheci.}
+{199}{}{Cuidado com os geckos de cores diferentes.}
+{200}{}{Olá, viajante.}
+{201}{}{Fico feliz em tê-lo em Klamath.}
+{202}{}{Olá, visitante.}
+{203}{}{Cuidado com estes Duntons; eles são perigosos.}
+{204}{}{O Bairro dos caçadores com certeza tem um monte de ratos.}
 {1000}{}{Ancião}
 {1001}{}{Fundador}
 {1002}{}{Morador do Vault}
@@ -62,13 +62,11 @@
 {1101}{}{Nosso grande ancestral que nos deu conhecimento.}
 {1102}{}{O primeiro a lutar e a vitória sobre o caos.}
 {1103}{}{Essa seria a nossa bela aldeia.}
-{1104}{}{That's trading outpost a few days east of here.}
+{1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.}
 {1105}{}{O Vault é o paraíso.}
 {1106}{}{Você é o Escolhido.}
-{1107}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.}
 {1109}{}{É um pó mágico que irá curá-lo, mas irá fazer você
   sonolento.}
 {1110}{}{A Grande Ponte sai da nossa aldeia no sul.}

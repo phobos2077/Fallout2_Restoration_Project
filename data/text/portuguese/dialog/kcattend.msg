@@ -1,59 +1,59 @@
-{100}{}{You see an attractive young woman.}
-{101}{}{You see a bath attendant.}
+{100}{}{Você vê uma jovem muito atraente.}
+{101}{}{Você vê uma atendente da casa de banho.}
 {102}{}{You see one of Big Nose Sally's girls.}
-{103}{}{You see a bored looking woman.}
-{104}{}{You see a woman checking you out.}
-{105}{}{You're being mentally undressed by this woman.}
+{103}{}{Você vê uma mulher com o olhar entediado.}
+{104}{}{Você vê uma mulher que não tira os olhos de você.}
+{105}{}{Esta mulher esta te comendo com os olhos.}
 {106}{}{Você vê uma mulher jovem.}
-{110}{}{That was quick.}
-{111}{}{Been a long time, honey?}
-{112}{}{Maybe it will last longer next time.}
+{110}{}{O que! Isso foi rápido.}
+{111}{}{Faz muito tempo que você não é acariciado?}
+{112}{}{Tomara que da próxima vez dure um pouco mais.}
 {113}{}{It's not a race, you know.}
-{114}{}{Do your friends call you 'Speedy'?}
-{115}{}{If all my customers were that quick, I could go home early.}
+{114}{}{Seus amigos te chamam de 'flash'? Porque nunca vi nada tão rápido.}
+{115}{}{Se todos os meus clientes fossem assim tão rápidos, eu poderia chegar em casa mais cedo.}
 {116}{}{It's more fun if you wait 'til I help you.}
-{117}{}{If you waited until I undressed, I bet you'd like it more.}
-{120}{}{That was real nice. You're a real man, all right.}
+{117}{}{Se você tivesse esperado até que eu tirasse a minha roupa, com certeza iria gostar mais.}
+{120}{}{É isso aí, se saiu muito bem! Você é um homem de verdade.}
 {121}{}{That was special. You're wonderful. Next!}
-{122}{}{Oh yeah, baby, never had it like that before. (yawn)}
+{122}{}{Incrível, nunca senti nada igual antes. (bocejo)}
 {123}{}{You're the best. Come back soon.}
-{124}{}{I'm sure you'll make some tribal gal very happy.}
-{125}{}{No, honey, size doesn't matter at all. That was nice.}
-{126}{}{Aren't you just a hunk o' hunk o' burnin' love.}
-{127}{}{What a cute little feller you got there.}
-{130}{}{Size does matter! Sweet mystery of life... }
-{131}{}{I'm putting in for overtime next time you come around.}
+{124}{}{Tenho certeza que vai fazer uma tribal muito feliz.}
+{125}{}{Não, amorzinho. O tamanho não importa. Se saiu bem.}
+{126}{}{Você é mesmo uma delícia de homem. Pode ir agora.}
+{127}{}{Own, que coisinha fofinha que você tem guardada aí.}
+{130}{}{Tamanho importa sim! Meu deus do céu...}
+{131}{}{Da próxima vez que vier, te deixarei ficar um pouco mais.}
 {132}{}{You sure get your money's worth.}
 {133}{}{I'm taking the rest of the day off.}
-{134}{}{Wow! Did the earth move for you, too?}
-{135}{}{Now I know what Catherine the Great felt like.}
-{140}{}{Well, a buck's a buck, I guess.}
-{141}{}{That was, uh, different, I guess.}
-{142}{}{That was real special. Next!}
+{134}{}{Uau! Você sentiu o chão tremer também?}
+{135}{}{Nunca vi nada assim. Você é um jumento/cavalo!}
+{140}{}{Bom, dinheiro é dinheiro, né....}
+{141}{}{Uau! Essa foi uhh...diferente.}
+{142}{}{Se saiu muito bem. Próximo!}
 {143}{}{No, you can't use my perfume.}
-{144}{}{Well, at least your mustache is smaller than most of my customers'.}
+{144}{}{Bem, pelo menos o seu bigode é menor que a da maioria dos meus clientes.}
 {145}{}{You're sure you're a gal?}
-{150}{}{That was kinda nice.}
-{151}{}{That was different, but not a bad different.}
+{150}{}{Até que foi gostosinho.}
+{151}{}{Foi bem diferente, e não foi tão mal.}
 {152}{}{I think I'd like to try that again sometime.}
-{153}{}{We should do that off-the-clock sometime.}
-{154}{}{That was sweet, sugar.}
-{155}{}{Wow! My life's going to be a lot different from here on in.}
+{153}{}{Acho que devíamos fazer isso algum dia, depois que sair do trabalho.}
+{154}{}{Foi ótimo, docinho.}
+{155}{}{Wow! Minha vida será bem diferente a partir de agora...}
 {156}{}{I didn't know it could be like that.}
-{160}{}{You should go talk to Big Nose Sally.}
+{160}{}{Você deveria ir falar com a Sally Nariz Grande.}
 {161}{}{Aren't you a cutey?}
-{162}{}{Love you long-time!}
-{163}{}{Come up and see me sometime.}
-{164}{}{You know how to whistle, doncha?}
-{165}{}{I used to be pure as snow, but then I drifted.}
-{166}{}{(Wolf whistles)}
-{167}{}{Hey there, tiger.}
+{162}{}{Te amo a muito tempo!}
+{163}{}{Venha me ver outro dia.}
+{164}{}{Vejo que você sabe assobiar, certo?}
+{165}{}{Eu costumava ser pura como a neve, mas me deixei levar.}
+{166}{}{(Assovios)}
+{167}{}{Hola! Tigre.}
 {168}{}{Hey, baaaaaby...}
-{169}{}{Go talk to Sally if you want some action.}
-{170}{}{Scrub a-dub-dub...}
-{171}{}{Looks like you could use a wash.}
-{172}{}{Oh, a tribal; I just love exotics.}
+{169}{}{Se quer um pouco de ação, vá falar com Sally.}
+{170}{}{Esfrega ai embaixo...}
+{171}{}{Acho que devo te dar um banho.}
+{172}{}{Oh, você vem de uma aldeia? Acho isso tão exótico...}
 {173}{}{I don't usually do tribals.}
-{174}{}{Like what you see, baby?}
-{175}{}{You want me?}
-{176}{}{Gotta pay to play, sugar.}
+{174}{}{Gosta do que vê?}
+{175}{}{Você me quer?}
+{176}{}{Tem que pagar se quiser brincar, docinho.}

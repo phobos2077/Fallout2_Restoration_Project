@@ -27,7 +27,7 @@
 {120}{}{It's a deal! I would love to hear anything you can tell me.}
 {121}{}{Besides, I couldn't refuse a friend of Gruthar.}
 {122}{}{O que você gostaria de saber?}
-{123}{}{What are you doing here?}
+{123}{}{O que faz aqui?}
 {124}{}{Are you a prisoner here?}
 {125}{}{How long have you been here?}
 {126}{}{What can you tell me about the Deathclaws here?}

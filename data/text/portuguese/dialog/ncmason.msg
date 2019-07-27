@@ -10,7 +10,7 @@
 {222}{}{What're you doing here, punchy? Lose your way to the boxing ring? Get outta here.}
 {223}{}{Get smart}
 {224}{}{Oog make mission statement}
-{225}{}{Wander off}
+{225}{}{Cai fora}
 {226}{}{What's behind that door?}
 {227}{}{I want to see Mr. Salvatore.}
 {228}{}{Can I ask you where you get those laser pistols?}
@@ -45,11 +45,11 @@
 {305}{}{I WARNED you, asshole, now you're... (Mason suddenly pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in... }
 {306}{}{Oh, I'll be going in all right. After I kill you.}
 {307}{}{Thanks, assholio, I'll be sure to mention your manners to Mr. Salvatore.}
-{308}{}{All right then.}
+{308}{}{Está certo então.}
 {315}{}{(Mason stops you.) Look... (Leans in, lowers voice.) ...Some ground rules, boy. }
 {316}{}{Look... (Leans in, lowers voice.) ...Some ground rules, girl. }
 {317}{}{Don't waste Mr. Salvatore's time, and don't give him any bullshit, or you'll answer to me.}
-{318}{}{Understood.}
+{318}{}{Entendido.}
 {319}{}{Yeah, yeah, whatever. Get out of my way.}
 {325}{}{(Mason stops you again.) I ain't DONE yet. You show him RESPECT. You call him *Mr. Salvatore* at all times,
  and when he talks, you *shut up and listen.* Understand?}
@@ -59,7 +59,7 @@
 {337}{}{Blow me.}
 {345}{}{Awright, that DOES it, smartass! You crossed the line...(Cracks knuckles.)...now yer gonna get hurt.}
 {346}{}{Hurt? William?}
-{347}{}{Let's dance.}
+{347}{}{Vamos dançar.}
 {348}{}{No, YOU'RE the one who's gonna get HURT! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA GET H --}
 {355}{}{'Bout time you showed, boy. }
 {356}{}{'Bout time you showed, girl. }
@@ -81,7 +81,7 @@
 {390}{}{He's been laying low, so tracking him down's gonna be YOUR job, boy. }
 {391}{}{He's been laying low, so tracking him down's gonna be YOUR job, girl. }
 {392}{}{Best bet? Check some of the bars along Virgin street. Lloyd might be running another hustle there.}
-{393}{}{I had some other questions...}
+{393}{}{Eu tenho mais algumas perguntas...}
 {400}{}{Lloyd? Hell... he's 'bout average height, white, brown hair. Last I saw him, he had a tan shirt, and dark
  brown scarf. He probably ain't changed his clothes since I saw him last.}
 {401}{}{You know, oddly enough, that describes a LOT of people I've seen since I left Arroyo.}
@@ -95,7 +95,7 @@
 {431}{}{Yeah, whatever. I'm outta --}
 {432}{}{I had some other qu --}
 {433}{}{All right then, I'll go check --}
-{440}{}{All right then.}
+{440}{}{Está certo então.}
 {442}{}{That's all I need to know. Now back off and let me get to work.}
 {465}{}{You found Lloyd yet?}
 {466}{}{(Scowls.) You BETTER have some good news for me. You found Lloyd yet?}
@@ -106,12 +106,12 @@
 {473}{}{Not yet. Sorry to bother you.}
 {480}{}{Hold on a minute there, speedy. I'll make this REAL clear so you can understand: Don't talk to me again until
  you find Lloyd. Or you're gonna make me mad. Now do your JOB.}
-{481}{}{All right, all right...}
+{481}{}{tudo bem, tudo bem...}
 {482}{}{Bite me, Mason.}
 {490}{}{I told you not to come back until you found Lloyd... I TOLD you. (Taps his head.) Are you stupid?! Must be,
  cause here you are talking to me again. Stupid... and DEAD.}
 {491}{}{Let's go, shitheel.}
-{492}{}{Bring it on.}
+{492}{}{Traga à mostra.}
 {493}{}{No, YOU'RE the one who's STUPID AND DEAD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S STU --}
 {500}{}{(Stares at you in disbelief.) You screwed it up. We give you a simple job, and you screw. It. Up. }
 {501}{}{You must be the STUPIDEST son of a bitch alive. }
@@ -227,7 +227,7 @@
 {835}{}{Nevermind. The job was canceled. Get outta here.}
 {840}{}{Glad you finally got back. The boss wants to see you.}
 {900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
-{901}{}{I had some other questions...}
+{901}{}{Eu tenho mais algumas perguntas...}
 {1305}{}{.}
 {5735}{}{. Mr. Salvatore sent word of yer promotion. Congrats. I got some stuff for you... lessee...(He hands you an
  armload of items.) Careful with that stuff...}

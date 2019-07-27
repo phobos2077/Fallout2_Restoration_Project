@@ -2,7 +2,7 @@
 {101}{}{It's Gunther, aide to President Tandi. At least that's what the sign on the door said.}
 {102}{}{He looks officious and busy, the type born to be a bureaucrat that other folks hate.}
 {103}{}{Can I help you?}
-{104}{}{You again?}
+{104}{}{Você novamente?}
 {105}{}{Uhhhh - work. Work Tandi.}
 {106}{}{Quem é você?}
 {107}{}{I'm here to see President Tandi about a job.}

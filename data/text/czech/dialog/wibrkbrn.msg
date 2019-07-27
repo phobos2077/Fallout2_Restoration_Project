@@ -2,5 +2,4 @@
 {101}{}{Vymìòuješ porouchaný motivátor.}
 {102}{}{Pøipojuješ mozek k nervovému rozhraní nádržky.}
 {103}{}{Nádrže Biomed Gelu jsou nyní naplnìny.}
-#added by killap
 {104}{}{Vypadá to, že vše je pøipraveno k aktivaci.}

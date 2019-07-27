@@ -1,10 +1,10 @@
 {100}{}{Sob-}
-{101}{}{Jonny...}
+{101}{}{Jonny…}
 {102}{}{Sniff...}
-{103}{}{I miss my son.}
-{110}{}{Please find Jonny.}
-{120}{}{Please bring Jonny back.}
-{121}{}{Thank you for returning Jonny to me.}
-{150}{}{You see Balthas' wife.}
-{151}{}{You see Balthas' wife. She looks pretty upset.}
-{152}{}{You see Balthas' wife. She appears to be in a pleasant mood now.}
+{103}{}{Eu sinto falta do meu filho.}
+{110}{}{Por favor, encontre Jonny.}
+{120}{}{Por favor, traga de volta Jonny.}
+{121}{}{Obrigado pelo regresso Jonny para mim.}
+{150}{}{Você vê a esposa Balthas.}
+{151}{}{Você vê esposa Balthas '. Ela parece muito chateada.}
+{152}{}{Você vê esposa Balthas '. Ela parece estar em um clima agradável agora.}

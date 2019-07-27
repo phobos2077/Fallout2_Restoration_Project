@@ -3,7 +3,7 @@
 {102}{}{Spustit diagnostický program.}
 {103}{}{Odejít.}
 {104}{}{!CHYBA! !CHYBA! PØI BÌHU PROGRAMU DOŠLO K CHYBÌ! UKONÈUJI...}
-{105}{}{Vrátit se do hlavního menu}
+{105}{}{Zpìt do hlavního menu.}
 {106}{}{Probíhá diagnostika... chyba na obvodové desce... sektor 4... uvolnìný kabel.}
 {107}{}{KONEC}
 {108}{}{Oprava se zdá být pøíliš složitá.}

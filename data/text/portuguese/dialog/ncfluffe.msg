@@ -1,213 +1,213 @@
-{100}{}{You see a fluffer.}
-{150}{}{You see a moderately attractive woman. She seems to be checking you out.}
-{151}{}{You see a fluffer. She seems to be wondering whether she should attend to you or not.}
-{160}{}{You see a moderately attractive woman. She's looking at you as if you're a rival.}
-{161}{}{You see a fluffer. She's looking at you as if you're a rival.}
-{200}{}{Oh my... it's him. }
-{201}{}{You are the biggest stud in the world.}
-{202}{}{::Swoons::}
-{203}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
-{204}{}{Yeah, }
-{205}{}{::Claps::}
-{206}{}{::Cheers::}
+{100}{}{Você vê uma excitadora.}
+{150}{}{Você vê um mulher moderadamente atraente. Ela parece estar te checando.}
+{151}{}{Você vê uma excitadora. Ela parece estar pensado se vai te atender ou não.}
+{160}{}{Você vê um mulher moderadamente atraente. Ela olha pra você como se você fosse uma rival.}
+{161}{}{Você vê uma excitadora. Ela está olhando pra você como se você fosse uma rival.}
+{200}{}{Oh meu D... é ele. }
+{201}{}{Você é o cara mais fogoso do mundo.}
+{202}{}{::Desmaio::}
+{203}{}{Ouvi dizer que os Brothers estão procurando por você. Eles querem fazer um filme baseado nas suas aventuras.}
+{204}{}{Isso aí, }
+{205}{}{::Palmas::}
+{206}{}{::Assobios::}
 {207}{}{Oh my... it's her. }
-{208}{}{You go, girl!}
-{209}{}{::Gives you the thumbs up sign::}
-{225}{}{No WAY am I fluffing that thing.}
-{226}{}{How the hell do you go to the bathroom with that thing on?}
-{227}{}{Is that some new kind of vibrator?}
-{228}{}{Is that some new body condom?}
-{235}{}{Need anything, }
-{236}{}{Over here, }
-{237}{}{Look! It's him!}
-{238}{}{It's }
-{239}{}{I wish I could do a scene with }
-{240}{}{That boy really brings on the cream.}
-{241}{}{He can give me a purple mushroom anytime.}
-{242}{}{Nasty little crotch cobra you've got there.}
-{245}{}{Need anything, }
-{246}{}{If I have to take care of one more actor today, I'm going to throw up.}
-{247}{}{It's not easy being a fluffer.}
-{248}{}{I hear the Families are getting tense again.}
-{249}{}{I kicked Jules in his family jewels last week.}
-{250}{}{I wish the Brothers would let me act.}
-{251}{}{I don't know what the Corsican Brothers SEE in her...}
-{255}{}{Oh my... it's him. }
-{256}{}{Look at those muscles! Makes me weak...}
-{257}{}{He's built like a tank. Check out that barrel.}
-{258}{}{Check out the barrel on that tank...}
-{259}{}{He's all mine...}
-{260}{}{::Sigh::}
-{261}{}{That boy really brings on the cream.}
-{262}{}{Nasty little crotch cobra you've got there.}
+{208}{}{Isso aí, garota!}
+{209}{}{::Faz o sinal de positivo pra você::}
+{225}{}{Sem chances de eu excitar essa coisa.}
+{226}{}{Como diabos você vai no banheiro com essa coisa?}
+{227}{}{Isso é um novo tipo de vibrador?}
+{228}{}{Isso é um novo tipo de preservativo?}
+{235}{}{Precisa de alguma coisa, }
+{236}{}{Bem aqui, }
+{237}{}{Olha! É ele!}
+{238}{}{É o }
+{239}{}{Eu gostaria de fazer uma cena com você, }
+{240}{}{Esse garoto sabe o que faz.}
+{241}{}{Ele pode me dar cogumelos roxos a qualquer hora.}
+{242}{}{É uma cobra maldosa que você tem aí.}
+{245}{}{Precisa de alguma coisa, }
+{246}{}{Se eu tiver que cuidar de mais um ator hoje, jogo tudo pro alto.}
+{247}{}{Não é fácil ser uma excitadora.}
+{248}{}{Ouvi dizer que as Famílias estão ficando agitadas de novo.}
+{249}{}{Eu chutei as bolas do Jules semana passada.}
+{250}{}{Gostaria tanto que os Brothers me deixassem atuar.}
+{251}{}{Eu não sei o que os Corsican Brothers viram nela...}
+{255}{}{Oh meu D... é ele. }
+{256}{}{Olha aqueles músculos! Me deixa até tonta...}
+{257}{}{Ele é definido como um tanque. Olha só aquele abdômen.}
+{258}{}{Olha o abdômen daquele tanque...}
+{259}{}{Ele é todo meu...}
+{260}{}{::Suspiro::}
+{261}{}{Esse garoto sabe o que faz.}
+{262}{}{É uma cobra maldosa que você tem aí.}
 {270}{}{Oh my... it's her. }
-{271}{}{Welcome to the studio, ma'am.}
-{272}{}{She looks so...(shivers)...dangerous.}
-{273}{}{She's pretty sexy.}
-{274}{}{Hello, ma'am. Let me know if I can help you with anything.}
-{280}{}{Oh my... it's him. }
-{281}{}{Welcome to the studio, sir.}
-{282}{}{He looks so...(shivers)...dangerous.}
-{283}{}{That's one badass if I ever saw one.}
-{284}{}{That boy really brings on the cream.}
-{285}{}{Nasty little crotch cobra he's got there.}
+{271}{}{Bem vinda ao estúdio, madame.}
+{272}{}{Ela parece tão... (arrepios) perigosa.}
+{273}{}{Ela é muito sexy.}
+{274}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
+{280}{}{Oh meu D... é ele. }
+{281}{}{Bem vindo ao estúdio, senhor.}
+{282}{}{Ele parece tão... (arrepios) perigoso.}
+{283}{}{Esse é o cara mais mau que eu já vi.}
+{284}{}{Esse garoto sabe o que faz.}
+{285}{}{É uma cobra perigosa que ele tem ali.}
 {290}{}{Oh my... it's her. }
-{291}{}{Welcome to the studio, ma'am.}
-{292}{}{She looks so...(shivers)...dangerous.}
-{293}{}{She's pretty sexy.}
-{294}{}{Hello, ma'am. Let me know if I can help you with anything.}
-{300}{}{Oh, shit! It's Myron! Run!}
-{301}{}{Crap! It's Myron. Stay calm... he can smell fear.}
-{302}{}{You better keep Myron away from me.}
-{303}{}{Myron, you better stay the HELL away from me.}
-{304}{}{If Myron starts working here, I'm gone.}
+{291}{}{Bem vinda ao estúdio, madame.}
+{292}{}{Ela parece tão... (arrepios) perigosa.}
+{293}{}{Ela é muito sexy.}
+{294}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
+{300}{}{Oh, merda! É o Myron! Corram!}
+{301}{}{Porra! É o Myron. Fiquem calmos... ele consegue sentir o medo.}
+{302}{}{É melhor você manter o Myron longe de mim.}
+{303}{}{Myron, fique longe de mim!}
+{304}{}{Se o Myron começar a trabalhar aqui, estou perdido.}
 {305}{}{Myron, have you passed the five second mark yet?}
-{306}{}{Myron, you better get out of here before the Brothers see you.}
-{315}{}{Don't these leather freaks know that they're supposed to be here on Wednesdays?}
-{316}{}{Great. Another S&M act.}
-{317}{}{Oooooh. Black leather. Now THAT'S new.}
-{318}{}{We ain't doing any leather or bondage until next week.}
-{319}{}{Great, another leather bunny.}
-{320}{}{Look, leather bunny, casting is on Wednesday, all right?}
-{325}{}{If I have to take care of one more actor today, I'm going to throw up.}
-{326}{}{It's not easy being a fluffer.}
-{327}{}{I hear the Families are getting tense again.}
-{328}{}{I kicked Jules in his family jewels last week.}
-{329}{}{The guy with the bone in his nose is kind of cute. In a sadomasochistic sort of way.}
-{330}{}{Who's the guy with the bone in his nose?}
-{331}{}{Check out the tribal with the bone in his nose. He'll go far.}
-{332}{}{Whoa, I've seen accidents on the set, but never a guy who got a bone caught in his nose.}
-{333}{}{I wish the Brothers would let me act.}
-{334}{}{::Glares at you::}
-{335}{}{Great. ANOTHER fluffer. She'll probably work for half price from the look of her.}
-{336}{}{Who's she?}
+{306}{}{Myron, é melhor você dar o fora daqui antes que os Brothers te vejam.}
+{315}{}{Esses maniacos por couro não sabem que eles só deveriam vir aqui nas Quartas-feiras?}
+{316}{}{Ótimo. Outro ação S&M.}
+{317}{}{Oooooh. Couro preto. ISSO é novo.}
+{318}{}{Nós não faremos nenhum com couro ou escravidão até semana que vem.}
+{319}{}{Ótimo, outra coelhinha de couro.}
+{320}{}{Olha, coelhinha de couro, seleção de elenco só na Quarta, certo?}
+{325}{}{Se eu tiver que cuidar de mais um ator hoje, jogo tudo pro alto.}
+{326}{}{Não é fácil ser uma excitadora.}
+{327}{}{Ouvi dizer que as Famílias estão ficando agitadas de novo.}
+{328}{}{Eu chutei as bolas do Jules semana passada.}
+{329}{}{O cara com o osso no nariz até que é bonitinho. Se você pensar em sadomasoquismo.}
+{330}{}{Quem é o cara com osso no nariz?}
+{331}{}{Olha aquele tribal com um osso no nariz. Ele vai longe.}
+{332}{}{Opa, eu já vi acidentes no set, mas nunca um cara com um osso no nariz.}
+{333}{}{Gostaria tanto que os Brothers me deixassem atuar.}
+{334}{}{::Olha pra você::}
+{335}{}{Ótimo. OUTRA excitadora. Provavelmente ela vai trabalhar pela metade do preço, pela aparência.}
+{336}{}{Quem é ela?}
 {337}{}{Quem é você?}
-{345}{}{If I have to take care of one more actor today, I'm going to throw up.}
-{346}{}{It's not easy being a fluffer.}
-{347}{}{I hear the Families are getting tense again.}
-{348}{}{I kicked Jules in his family jewels last week.}
-{349}{}{I wish the Brothers would let me act.}
-{350}{}{Great. ANOTHER fluffer. She'll probably work for half price from the look of her.}
-{351}{}{::Glares at you::}
-{352}{}{Who's she?}
+{345}{}{Se eu tiver que cuidar de mais um ator hoje, jogo tudo pro alto.}
+{346}{}{Não é fácil ser uma excitadora.}
+{347}{}{Ouvi dizer que as Famílias estão ficando agitadas de novo.}
+{348}{}{Eu chutei as bolas do Jules semana passada.}
+{349}{}{Gostaria tanto que os Brothers me deixassem atuar.}
+{350}{}{Ótimo. OUTRA excitadora. Provavelmente ela vai trabalhar pela metade do preço, pela aparência.}
+{351}{}{::Olha pra você::}
+{352}{}{Quem é ela?}
 {353}{}{Quem é você?}
-{360}{}{The Enclave? President? Tell me the whole story.}
-{361}{}{Tom French scripted me. He has soft, gentle hands.}
-{362}{}{They were still fighting the WAR?! Really! Good thing you wasted those bastards.}
-{363}{}{You are a total badass. I mean, you start from a simple spear-chucking tribal - no offense - and go on to
- save the whole world. You kick ass. End of story.}
-{364}{}{You should replay the game as a different kind of character.}
-{365}{}{Tell me everything about your fight with the Enclave... I'll get you a cold beer.}
-{366}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
-{370}{}{Ooops. I dropped something in your pants. Let me get it.}
-{371}{}{Um, you wouldn't like to go out for drinks, would you? How about just meaningless sex?}
-{372}{}{How do you keep so fit?}
-{373}{}{Can I have your autograph? On my chest?}
-{374}{}{You being helped, }
+{360}{}{A Enclave? Presidente? Conte-me a história toda.}
+{361}{}{Tom French fez meu script. Ele tem mãos macias e gentis.}
+{362}{}{Eles ainda estavam lutando na GUERRA?! Sério! Você fez bem em acabar com aqueles otários.}
+{363}{}{Você tem a manha. Digo, começou como um simples tribal balançando um lança - sem ofensas - e de repente
+ salva o mundo inteiro. Você arrebenta. Fim de história.}
+{364}{}{Você deveria jogar o jogo de novo com um tipo diferente de personagem.}
+{365}{}{Conte-me tudo sobre a sua briga com a Enclave... eu vou te pagar um cerveja gelada.}
+{366}{}{Ouvi dizer que os Brothers estão procurando por você. Eles querem fazer um filme baseado nas suas aventuras.}
+{370}{}{Opa. Eu deixei cair uma coisa na sua calça. Deixa que eu pego.}
+{371}{}{Hum, você não gostaria de sair e tomar algumas, gostaria? Que tal sexo sem compromisso?}
+{372}{}{Como você consegue estar sempre em forma?}
+{373}{}{Você pode me dar um autografo? No meu peito?}
+{374}{}{Estão te tratando bem, }
 {375}{}{I'll need some help with that barrel of yours.}
-{376}{}{I hear you're very... hard to work with.}
+{376}{}{Eu ouvi dizer que você é muito... díficil de se trabalhar.}
 {377}{}{I heard you cop an attitude, then you cop a feel. Fine by me.}
-{378}{}{I'm really happy to know you! I mean, wow, you're }
-{379}{}{Um, I know there's no filming going on, but do you need a fluffer anyway?}
-{380}{}{Need someone to take care of that for you?}
-{381}{}{Need a moist towelette, }
-{382}{}{I loved you in Great Balls for Hire.}
-{383}{}{I loved you in Good Will Humping.}
-{384}{}{You were great in Pokeahotass.}
-{385}{}{You were great in Vault Sexteen. Inspired, even.}
-{386}{}{I haven't seen the Brothers around... try the office, maybe?}
-{387}{}{Any chance you could talk the Corsican Brothers into letting me act?}
-{388}{}{Fluffers have the important job of keeping the actors hard.}
-{389}{}{Could I act in your next movie?}
-{390}{}{I don't want to be a fluffer all my life. No, really.}
-{391}{}{I'm just doing this to pay for school.}
-{392}{}{My boyfriend doesn't know I work here.}
+{378}{}{Estou muito feliz em te conhecer! Digo, uau, é você, }
+{379}{}{Hum, eu sei que não há nenhum filme gravando agora, mas você precisa de uma excitadora assim mesmo?}
+{380}{}{Precisa de alguém pra tomar conta de você?}
+{381}{}{Precisa de uma toalha molhada, }
+{382}{}{Eu adorei você no Great Balls for Hire.}
+{383}{}{Eu adorei você no Good Will Humping.}
+{384}{}{Você foi demais no Pokeahotass.}
+{385}{}{Você foi demais no Vault Sexteen. Muito inspirador.}
+{386}{}{Eu não vi os Brothers por aqui... tente o escritório.}
+{387}{}{Alguma chance de você pedir pros Corsican Brothers me deixarem atuar?}
+{388}{}{As excitadoras têm a importante função de manter os atores acesos.}
+{389}{}{Eu posso atuar no seu próximo filme?}
+{390}{}{Eu não quero ser uma excitadora pro resto da vida. Não mesmo.}
+{391}{}{Eu só estou fazendo isso pra pagar a escola.}
+{392}{}{Meu namorado não sabe que eu trabalho aqui.}
 {393}{}{Hum job? I'll tell you about them some other time.}
-{394}{}{My boyfriend doesn't know I work here.}
-{395}{}{I wish some of the actors would shower. I mean a regular shower.}
-{396}{}{I really want to act.}
-{397}{}{My girlfriend doesn't know I work here.}
-{398}{}{Can I have your autograph?}
-{399}{}{Um, you wouldn't like to go out for drinks, would you? If you're into women, that is.}
-{400}{}{::Ignores you::}
-{420}{}{Want to jump in the ring with me, champ?}
-{421}{}{Nice unit you got there.}
-{422}{}{Need someone to take care of that for you, champ?}
-{423}{}{Getting out of boxing and into porn? Same thing, different stage.}
-{424}{}{Are you getting into the business, too? Welcome aboard, champ.}
-{425}{}{Getting into the business? Well, at least you won't have to start where I am.}
-{426}{}{Me? I'm a fluffer. Sometimes.}
-{427}{}{Fluffers have the important job of keeping the actors hard.}
-{428}{}{The Brothers say I'm in-valuable. That's why they sleep with me so much.}
-{429}{}{You should go into porn. You got the body for it.}
-{430}{}{Wanna box?}
+{394}{}{Meu namorado não sabe que eu trabalho aqui.}
+{395}{}{Gostaria que alguns dos atores tomassem banho. Regularmente.}
+{396}{}{Eu quero muito atuar.}
+{397}{}{Minha namorada não sabe que eu trabalho aqui.}
+{398}{}{Você me dá seu autógrafo?}
+{399}{}{Hum, você não gostaria de sair e tomar algumas, gostaria? Vai estar entre mulheres.}
+{400}{}{::Te ignora::}
+{420}{}{Quer pular no ringue comigo, campeão?}
+{421}{}{Belo material o que você tem aí.}
+{422}{}{Precisa de alguém pra cuidar de você, campeão?}
+{423}{}{Quer sair do boxe e entrar no pornô? É a mesma coisa, só o palco que é diferente.}
+{424}{}{Você está se ingressando no mercado também? Bem-vindo a bordo, campeão.}
+{425}{}{Se ingressando no mercado? Bem, pelo menos não vai ter que começar de onde estou.}
+{426}{}{Eu? Sou uma excitadora. Às vezes.}
+{427}{}{As excitadoras têm a importante função de manter os atores acesos.}
+{428}{}{Os Brothers dizem que eu sou valiosa. É por isso que eles dormem tanto comigo.}
+{429}{}{Você deveria estar no pornô. Você tem o corpo pra isso.}
+{430}{}{Quer lutar?}
 {431}{}{Hum job? I'll tell you about them some other time.}
 {432}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
 {433}{}{Hello, ma'am. Can I help you with...*anything?*}
-{434}{}{Um, if you're looking for a little company later, ma'am...}
-{435}{}{Do you want the usual, ma'am?}
+{434}{}{Hum, se precisar de companhia mais tarde, madame...}
+{435}{}{Quer o de sempre, madame?}
 {450}{}{Hello, sir. Can I help you with...*anything?*}
-{451}{}{If you're looking for a little company later...}
-{452}{}{Do you want the usual, sir?}
-{453}{}{Need someone to take care of that for you?}
-{454}{}{Put in a good word with the boss for me?}
-{455}{}{Are you thinking of getting into the business, too?}
-{456}{}{You should go into porn. You got the body for it.}
+{451}{}{Se precisar de companhia mais tarde...}
+{452}{}{Quer o de sempre, senhor?}
+{453}{}{Precisa de alguém pra tomar conta de você?}
+{454}{}{Fale bem de mim pro chefe, beleza?}
+{455}{}{Está pensando em entrar nos negócios também?}
+{456}{}{Você deveria estar no pornô. Você tem o corpo pra isso.}
 {457}{}{Hum job? I'll tell you about them some other time.}
 {458}{}{Hello, ma'am. Can I help you with...*anything?*}
-{459}{}{Um, if you're looking for a little company later, ma'am...}
-{460}{}{Do you want the usual, ma'am?}
-{465}{}{Sorry, no thanks. I could have better sex with my lipstick.}
-{466}{}{You? Sorry, I'll NEVER be that desperate.}
-{467}{}{Uh, is your friend with the bone in his nose over-compensating for something?}
-{468}{}{Is your friend with the bone in his nose seeing anyone?}
-{469}{}{Your friend with the bone in his nose is kind of cute. In a sadomasochistic sort of way.}
-{470}{}{Who's your cute friend with the bone in his nose?}
-{471}{}{Tell the tribal with the bone in his nose that he'll go far in this industry.}
-{472}{}{Whoa, I've seen accidents on the set, but never a guy who got a bone caught in his nose.}
-{473}{}{I haven't seen the Brothers around... try the office, maybe?}
-{474}{}{Fluffers have the important job of keeping the actors hard.}
-{475}{}{I really want to act.}
-{476}{}{I don't want to be a fluffer all my life. No, really.}
-{477}{}{My boyfriend doesn't know I work here.}
-{478}{}{Are you being helped?}
-{479}{}{If you're looking for a job, talk to the Brothers.}
-{480}{}{I'm just doing this to pay for college.}
-{481}{}{I'd bang Avellone for free.}
+{459}{}{Hum, se precisar de companhia mais tarde, madame...}
+{460}{}{Quer o de sempre, madame?}
+{465}{}{Desculpe. Eu teria mais prazer fazendo sexo com meu batom.}
+{466}{}{Você? Desculpe, eu NUNCA estive com tanto desespero.}
+{467}{}{Uh, o seu amigo com osso no nariz está se punindo por algo?}
+{468}{}{O seu amigo com osso no nariz está vendo alguém?}
+{469}{}{Seu amigo com osso no nariz é até bonitinho. Your friend with the bone in his nose is kind of cute. Se pensar em sadomasoquismo.}
+{470}{}{Quem é o seu amigo bonitinho com osso no nariz?}
+{471}{}{Diga ao seu amigo com osso no nariz que ele vai longe nessa indústria.}
+{472}{}{Opa, eu já vi acidentes no set, mas nunca um cara com um osso no nariz.}
+{473}{}{Eu não vi os Brothers por aqui... tente o escritório.}
+{474}{}{As excitadoras têm a importante função de manter os atores acesos.}
+{475}{}{Eu quero muito atuar.}
+{476}{}{Eu não quero ser uma excitadora pro resto da vida. Não mesmo.}
+{477}{}{Meu namorado não sabe que eu trabalho aqui.}
+{478}{}{Estão te tratando bem?}
+{479}{}{Se estiver procurando trabalho, fale com os Brothers.}
+{480}{}{Só estou fazendo isso pra paga a faculdade.}
+{481}{}{Eu faria de graça com o Avellone.}
 {482}{}{It's not that I don't want to talk to you, but... oh, wait that IS it.}
-{483}{}{I need to lie down.}
+{483}{}{Eu preciso me deitar.}
 {484}{}{Hum job? I'll tell you about them some other time.}
-{485}{}{You don't have a problem with skin flicks, do you?}
-{486}{}{You the new fluffer?}
-{487}{}{Got a towel? One of the actors had an... accident.}
-{488}{}{Just don't bite the actors, and you should do fine.}
-{489}{}{I wish some of the actors would shower. I mean a regular shower.}
-{490}{}{Um, are you new here?}
+{485}{}{Você não tem problemas de pele, tem?}
+{486}{}{Você é a nova excitadora?}
+{487}{}{Tem uma toalha? Um dos atores teve um... acidente.}
+{488}{}{Apenas não morda os atores, e fica tudo bem.}
+{489}{}{Gostaria que alguns dos atores tomassem banho. Regularmente.}
+{490}{}{Hum, você nunca esteve aqui, esteve?}
 {491}{}{Salt malts? Get used to them.}
-{500}{}{Sorry, no thanks. I could have better sex with my lipstick.}
-{501}{}{You? Sorry, I'll NEVER be that desperate.}
-{502}{}{I haven't seen the Brothers around... try the office, maybe?}
-{503}{}{Fluffers have the important job of keeping the actors hard.}
-{504}{}{I really want to act.}
-{505}{}{I don't want to be a fluffer all my life. No, really.}
-{506}{}{My boyfriend doesn't know I work here.}
-{507}{}{Are you being helped?}
-{508}{}{If you're looking for a job, talk to the Brothers.}
-{509}{}{I'm just doing this to pay for college.}
-{510}{}{I'd bang Avellone for free.}
+{500}{}{Desculpe. Eu teria mais prazer fazendo sexo com meu batom.}
+{501}{}{Você? Desculpe, eu NUNCA estive com tanto desespero.}
+{502}{}{Eu não vi os Brothers por aqui... tente o escritório.}
+{503}{}{As excitadoras têm a importante função de manter os atores acesos.}
+{504}{}{Eu quero muito atuar.}
+{505}{}{Eu não quero ser uma excitadora pro resto da vida. Não mesmo.}
+{506}{}{Meu namorado não sabe que eu trabalho aqui.}
+{507}{}{Estão te tratando bem?}
+{508}{}{Se estiver procurando trabalho, fale com os Brothers.}
+{509}{}{Só estou fazendo isso pra paga a faculdade.}
+{510}{}{Eu faria de graça com o Avellone.}
 {511}{}{It's not that I don't want to talk to you, but... oh, wait that IS it.}
-{512}{}{I need to lie down.}
+{512}{}{Eu preciso me deitar.}
 {513}{}{Hum job? I'll tell you about them some other time.}
-{514}{}{You don't have a problem with skin flicks, do you?}
-{515}{}{You the new fluffer?}
-{516}{}{Got a towel? One of the actors had an... accident.}
-{517}{}{Just don't bite the actors, and you should do fine.}
-{518}{}{I wish some of the actors would shower. I mean a regular shower.}
-{519}{}{Um, are you new here?}
+{514}{}{Você não tem problemas de pele, tem?}
+{515}{}{Você é a nova excitadora?}
+{516}{}{Tem uma toalha? Um dos atores teve um... acidente.}
+{517}{}{Apenas não morda os atores, e fica tudo bem.}
+{518}{}{Gostaria que alguns dos atores tomassem banho. Regularmente.}
+{519}{}{Hum, você nunca esteve aqui, esteve?}
 {520}{}{Salt malts? Get used to them.}
-{1200}{}{. The one who kicked the Enclave's ass.}
+{1200}{}{. Quem acabou com a Enclave.}
 {1204}{}{! Way to kick the Enclave's ass!}
-{1207}{}{. The one who kicked the Enclave's ass.}
+{1207}{}{. Quem acabou com a Enclave.}
 {1235}{}{?}
 {1236}{}{!}
 {1238}{}{!}

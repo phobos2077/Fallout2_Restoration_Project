@@ -1,259 +1,259 @@
-{100}{}{You see Orville Wright.}
-{150}{}{You see a well-dressed gentleman. He looks perpetually pissed off. That's probably why his brown hair is graying around the edges.}
-{151}{}{You see a grumbling Orville Wright. He looks like he is about to pull out what remains of his hair.}
-{152}{}{You see a grumbling Orville Wright. He looks upset and is sighing a lot.}
+{100}{}{Você vê Orville Wright.}
+{150}{}{Você vê um cavalheiro muito bem vestido. Ele parece estar puto com alguma coisa. Provavelmente é por isso que seu cabelo castanho está ficando grisalho nas laterais.}
+{151}{}{Você vê o resmunguento Orville Wright. Parece que ele está prester a arrancar o que resta do seu cabelo.}
+{152}{}{Você vê o resmunguento Orville Wright. Ele parece estar aborrecido e está suspirando muito.}
 {200}{}{Afaste-se daí!}
-{210}{}{Kids, get away! It's a hitman!}
-{211}{}{You're gonna die, you sonuvabitch.}
-{212}{}{Come into my house, will you...}
-{213}{}{So they send you to do their dirty work...}
-{214}{}{You two-bit hitman, this is your last job...}
-{220}{}{Marriage ain't a word. It's a life sentence.}
+{210}{}{Caras, cuidado! É um assassino!}
+{211}{}{Você vai morrer, feadaputa!}
+{212}{}{Venha até minha casa, você vai...}
+{213}{}{Então eles te mandaram pra fazer o trabalho sujo...}
+{214}{}{Assassino barato, esse foi seu último trabalho...}
+{220}{}{Casamento não é uma palavra. É uma sentença da vida.}
 {221}{}{Damn Salvatores...}
 {222}{}{Where are those damn kids...}
-{223}{}{Anybody seen Christopher around? Tell that boy I want to see him. Now.}
-{224}{}{I wonder if our marriage is legally binding...}
-{225}{}{Profits this quarter are down... better start watering down the hootch.}
-{226}{}{Need more ethyl alcohol. And less Ethyl Wright...}
+{223}{}{Alguém aí viu o Christopher? Diga àquele garoto que eu quero vê-lo. Agora.}
+{224}{}{Gostaria de saber se nosso casamento foi um contrato legal...}
+{225}{}{Os lucros por aqui estão baixos... melhor começar a beber...}
+{226}{}{Preciso de mais álcool etílico. E menos Wright etílico...}
 {227}{}{Salvatores are being quiet...}
-{228}{}{Where the hell is that woman? Ethyl! Ethyl!}
-{229}{}{Need to stop cursing around the kids...}
-{230}{}{We're gonna have to expand distribution if we're gonna stay on the Reno map...}
-{231}{}{If Christopher gives me any more backtalk...}
-{232}{}{Bring me my book.}
-{233}{}{Poor Richard...}
-{234}{}{Is a little peace and quiet too much to ask?!! Keep it down!}
-{240}{}{(Wrinkles cover this old man's face... it looks like any expression other than a scowl is foreign to him. Only a few brown
- hairs are left in his thick gray hair.) }
-{241}{}{Start talking, tribal. Who are you and what do you want?}
-{242}{}{Start talking, slaver. Who are you and what do you want?}
+{228}{}{Onde diabos está aquela mulher? Etílica! Etílica!}
+{229}{}{Acho melhor parar de ficar xingando os garotos...}
+{230}{}{Nós precisamos expandir a distribuição se quisermos continuar na praça aqui de Reno...}
+{231}{}{Se Christopher me der mais um tirada ele vai ver só...}
+{232}{}{Traga meu livro de volta.}
+{233}{}{Pobre Richard…}
+{234}{}{Está um pouco quieto demais, com paz?!! Deixa quieto então!}
+{240}{}{(Rugas cobrem o rosto deste homem velho... parece que ele não consegue fazer nenhuma expressão além de uma cara feia. Apenas alguns cabelos
+ castanhos restam em seu grosso cabelo grisalho.) }
+{241}{}{Comece a falar, tribal. Quem é você e o que você quer?}
+{242}{}{Comece a falar, escravagista. Quem é você e o que você quer?}
 {243}{}{Eu}
 {244}{}{Boogity boogity}
 {245}{}{Yoo Boo Hoo Yooooo}
 {246}{}{Kootchie Kootchie Koooo}
-{247}{}{Who hell you}
+{247}{}{Quem diabos você}
 {248}{}{I'm a simple traveler... looking for work.}
-{249}{}{The name's }
-{250}{}{Actually, I seem to have entered the wrong room. I'll be leaving now.}
-{260}{}{(Scowls.) Get outta my sight. You come around here again, I'll have you shot, you hear me?}
-{262}{}{Uh-uh}
-{263}{}{You kiss mommee with that mouth?}
-{264}{}{You betta NOT shoot me. Shooting me just makes me ANGREE}
-{265}{}{Go way n' find sumone else to talk to who izint such a meanie}
-{275}{}{(When he sees you, Mr. Wright's face breaks into a snarl and he starts shouting.) }
-{276}{}{(Mr. Wright's face breaks into a snarl and he starts shouting.) }
-{277}{}{Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!}
-{278}{}{Get in here, boyz! Me wanna play}
-{279}{}{Whoa, now hold on...!}
-{280}{}{That DOES it! I'm sick of your bullshit. You'll be dead before your little boys can get here.}
-{281}{}{They won't get in here in time to save your life...}
-{282}{}{Excuse me. Me and the exit have an appointment.}
-{290}{}{Yeah, maybe you BETTER leave, and quickly. If you're still here in five seconds, I'll have you shot, you hear me?}
-{291}{}{Yeah, seems like you got this habit o' coming in and stepping out. Maybe we better take care of that problem o' yours.}
-{292}{}{I'm going.}
-{293}{}{What do you m --?}
-{294}{}{My thoughts exactly. Time for you to die.}
-{300}{}{No SHIT? (Sneers.) Well, pleased to meet you, "simple traveler." Glad you stopped by, damn neighborly of you. (Sneer
- crumbles into a frown as he scopes you out.) Looking for work in family Wright, huh?}
-{301}{}{No SHIT? (Sneers.) Well, pleased to meet you, SLAVER. Glad you stopped by, damn neighborly of you. (Sneer crumbles
- into a scowl.) We don't deal with your kind, you hear? Now, get out!}
-{302}{}{Yes, I --}
-{303}{}{Actually, I seem to have entered the wrong room. Pardon me.}
-{304}{}{Hold on a minute, I haven't FINISHED talking to you yet. I...}
-{305}{}{All right. Looks like I'll be going.}
-{310}{}{No SHIT? (Sneers.) Well, pleased to meet you, "}
-{311}{}{Yes, I --}
-{320}{}{So happens MY family IS family Wright. Blood thicker than water and all. (Scowls.) }
-{321}{}{What makes you think I'd want tribal trash like you in my family? I got all the hitmen I need.}
-{322}{}{What makes you think I need a piece of tribal ass like you in my family? I got enough whores to suck off all of Northern Cali.}
-{323}{}{Give me a test, then. Let me prove myself.}
-{324}{}{Looks like I came to the wrong place. I'll be going now.}
-{330}{}{(Studies you for a moment.) All right. Maybe you not being in the family could be a good thing. (Scowl fades.) You got children?}
-{331}{}{Not to my knowledge.}
-{332}{}{Not to my knowledge. I think I'd remember.}
-{340}{}{One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.}
+{249}{}{Meu nome é }
+{250}{}{Na verdade, acho que entrei no quarto errado. Eu já estou saindo.}
+{260}{}{(Com raiva.) Saia da minha frente. Se você aparecer aqui novamente, vai levar um tiro, entendeu?}
+{262}{}{Aham.}
+{263}{}{Você beija mamãe com essa boca?}
+{264}{}{É melhor você NÃO atirar em mim. Atirar em mim só me deixa COM RAIVAAA}
+{265}{}{Sair e achar alguém pra conversar que não seja um chato}
+{275}{}{(Quando o Sr. Wright te vê, sua face começa a fechar e ele começa a gritar.) }
+{276}{}{(A face do Sr. Wright começa a fechar e ele começa a gritar) }
+{277}{}{Rapazes! Nós temos uma visita procurando por um pedaço de terra de Golgotha! Venham aqui!}
+{278}{}{Venham até aqui, rapazes! Mim quer brincá}
+{279}{}{Opa, esperae...!}
+{280}{}{Essa foi a gota d'agua! Estou cheio da suas besteiras. Você estará morto antes que seus capangas cheguem até aqui.}
+{281}{}{Eles não chegarão aqui a tempo de salvar sua vida...}
+{282}{}{Com licença. Eu e a saída temos um compromisso.}
+{290}{}{É, é MELHOR você sair, e rápido. Se você ainda estiver aqui em 5 segundos, vai levar um tiro, entendeu?}
+{291}{}{É, parece que você tem esse hábito de ir entrando em todo lugar. Talvez seja melhor se nós tomássemos conta desse seu problema.}
+{292}{}{Estou indo.}
+{293}{}{O que você quer d --?}
+{294}{}{Exatamente o que pensei. Hora de morrer.}
+{300}{}{Não diga? (Zombando.) Bem, é um prazer, "simples viajante". Obrigado por passar, foi muito gentil de sua parte. (A zombaria
+ desmorona-se numa cara fechada e ele passa a falar sério.) Procurando por trabalho na família Wright, hein?}
+{301}{}{Não diga? (Zombando.) Bem, é um prazer, ESCRAVAGISTA. Obrigado por passar, foi muito gentil de sua parte. (A zombaria
+ desmorona-se numa cara fechada.) Nós não negociamos com o seu tipo, escutou? Agora, caia fora!}
+{302}{}{Sim, eu --}
+{303}{}{Na verdade, acho que entrei no quarto errado. Perdão.}
+{304}{}{Espere um minuto, eu ainda não TERMINEI com você. Eu...}
+{305}{}{Certo. Acho que vou indo.}
+{310}{}{Não brinca? (zombando) Bem, é um prazer, "}
+{311}{}{Sim, eu --}
+{320}{}{Acontece que a MINHA família É a família Wright. Blood thicker than water and all. (Fecha a cara.) }
+{321}{}{O que te faz pensar que eu iria querer um lixo de tribal como você na minha família? Eu já tenho todos os assassinos que preciso}
+{322}{}{O que te faz pensar que eu quero um pedaço de bunda tribal como a sua na minha família? Eu já tenho todas as putas que preciso. Todas da Califórnia do Norte.}
+{323}{}{Dê-me um teste, então. Deixe-me provar que sou eficaz.}
+{324}{}{Parece que eu vim pro lugar errado. Estou saindo.}
+{330}{}{(Estuda-te por um momento.) Está certo. Talvez você não estando na família pode ser algo bom. (A cara fechada some) Tem filhos?}
+{331}{}{Não que eu saiba.}
+{332}{}{Não que eu saiba. Eu acho que lembraria se tivesse.}
+{340}{}{Um dos meus filhos... meu garoto, Richard, bateu as botas recentemente. Overdose de drogas. Jet.}
 {341}{}{Como posso ajudar?}
-{342}{}{Uh... I don't really see how I can --}
-{350}{}{I want to know what dealer gave that SHIT to Richard and forced him to take it. Every time I send my boys to find out,
- they turn up nothin'. Maybe somebody who ain't got Wright blood could get some answers.}
-{351}{}{Uh, "forced him to take it?"}
-{352}{}{I'll take the job.}
-{353}{}{No, this job isn't my style. I better be going.}
-{360}{}{(Face turns red.) My boys are clean, and they know to stay away from that shit, or I'll kill them. Then SUDDENLY, Richie ODs.
- Someone pumped a ton of Jet in him, so much that fumes was runnin' outta his nose.}
-{361}{}{Well... that doesn't mean someone else is responsible. Your son could have taken too much. Jet is highly addictive.}
-{362}{}{Hmmm. I'll take the job.}
-{370}{}{(Nods.) All right then. Now look: You find that son of a bitch who killed my boy, don't you touch 'im... you just come back
- and TELL me the dead man's name. (Eyes blaze.) I'LL take care of it from there.}
-{371}{}{We haven't talked a price.}
-{372}{}{Any leads?}
-{373}{}{Find the person who gave him the Jet, don't hurt them, just come back and tell you. Got it.}
-{380}{}{Yer right, we ain't talked price, cause you ain't done nothing BUT talk. I'm letting you prove your worth. Do your job,
- and you don't need to worry about money. I give you my word as a Wright.}
-{383}{}{Forget this, then. Only fools work for nothing. I'm out of here.}
-{390}{}{(Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno
- drug pushers, see what they know. That Jet came from SOMEWHERE.}
-{391}{}{Any pushers you suspect?}
-{393}{}{Look, this job isn't my style. I better be going.}
-{400}{}{You again. You find out who killed my boy?}
-{401}{}{Not yet. I'm working on it.}
-{402}{}{Yeah, it was Jules, the dealer at the front of town.}
-{403}{}{Jagged Jimmy J, the dealer on 2nd Street.}
-{404}{}{That old geezer, Renesco the Rocketman.}
-{405}{}{Lil' Jesus Mordino. He deals Jet.}
-{406}{}{Your son didn't die of an overdose. He was poisoned.}
-{415}{}{That so? Word is, the bastard's ALREADY dead, but I ain't telling you nothing new. I TOLD you not to touch him
- - you screwed up. Now, YOU'RE dead.}
-{416}{}{Wait --}
-{417}{}{Oh, yeah, well --}
-{425}{}{That bastard's seen his last days. Come morning, he'll be dead. But he'll be a LONG time dying...}
+{342}{}{Ahm…Eu não entendo como eu posso --}
+{350}{}{Eu quero saber qual negociante deu essa MERDA pro Richard e o forçou a usar. Todas as vezes que mando meus rapazes procurar,
+ ele voltam com nada. Talvez alguém que não tenha sangue dos Wright pode achar as respostas.}
+{351}{}{Ahm, "foçou a usar?"}
+{352}{}{Eu aceito o trabalho.}
+{353}{}{Não, esse trabalho não é do meu estilo. Melhor eu ir embora.}
+{360}{}{(Rosto fica vermelho.) Meus garotos são limpos, e eles sabem que devem ficar londe dessa merda, ou eu os mato. Então DE REPENTE, Richie morre de overdose.
+ Alguém enfiou toneladas de Jet nele. Saía fumaça de seu nariz.}
+{361}{}{Bem... isso não quer dizer que alguém mais é responsável. Seu filho poderia ter usado demais. Jet é muito viciante.}
+{362}{}{Hmmm. Eu aceito o trabalho.}
+{370}{}{(Faz que sim com a cabeça.) Pois muito bem. Agora preste atenção: Você acha esse filho da puta que matou meu filho, mas não toque nele... apenas volte
+ e DIGA o nome do defunto. (Saem chamas de seus olhos.) EU tomo conta a partir daí.}
+{371}{}{Nós não falamos do preço.}
+{372}{}{Alguma dica?}
+{373}{}{Achar a pessoa que deu o Jet, não machucá-lo, apenas voltar e te contar. Captei.}
+{380}{}{Cê tá certo, não falamos do preço, porque você não fez nada ALÉM de falar. Estou deixando que prove seu valor. Faça seu trabalho,
+ e não precisa se preocupar com dinheiro. Eu te dou minha palvra como Wright.}
+{383}{}{Esqueça, então. Apenas tolos trabalham por nada. Estou fora.}
+{390}{}{(Saem chamas dos olhos.) Não…todos estão com medo de falar... para um Wright.  Se eu fosse você, eu 'questionaria' alguns vendedores de Jet
+ de Reno, veja o que sabem. Esse Jet vem DE ALGUM LUGAR.}
+{391}{}{Suspeita de algum vendedor?}
+{393}{}{Olha, esse trabalho não faz o meu tipo. Acho melhor eu ir embora.}
+{400}{}{Você de novo. Achou quem matou meu garoto?}
+{401}{}{Ainda não. Estou trabalhando nisso.}
+{402}{}{Sim, foi o Jules, o negociante na entrada da cidade.}
+{403}{}{Jagged Jimmy J, o negociante da segunda Rua.}
+{404}{}{Aquele velhote, Renesco o Rocketman.}
+{405}{}{Lil' Jesus Mordino. Ele negocia Jet.}
+{406}{}{Seu filho não morreu de overdose. Ele foi envenenado.}
+{415}{}{Então é isso? A questão é; o desgraçado JÁ ESTÁ morto, mas isso não é novidade pra você, não é. Eu DISSE pra não tocar nele
+ - você atrapalhou tudo. Agora, VOCÊ está morto.}
+{416}{}{Espere --}
+{417}{}{Ah, sim, bem --}
+{425}{}{Aquele desgraçado está nos seus últimos dias. Ao amanhecer ele estará morto. Mas ele vai morrer BEM devagar...}
 {426}{}{Now, about the price for doing my work...}
-{427}{}{No less than he deserves.}
-{428}{}{Uh, but Renesco didn't give Richard the Jet... he didn't know who it was for... it was the SALVATORES
- that poisoned your son.}
-{435}{}{I owe you... I owe you. }
-{436}{}{Well now, before I get into specifics, let's settle accounts first... }
-{437}{}{Here's a little cash for your trouble, plus some ammo, liquor from my private stock... and another
- job for you, if you're interested.}
-{438}{}{I'm interested.}
-{439}{}{No thanks. I'll see you around.}
-{445}{}{If you come back here again and you ain't done what I asked, I'll see you hang in Golgotha, tribal. NO ONE
- wastes my time. You understand me?}
-{446}{}{If you think you can jerk me around on this, tribal, you're dead wrong. I've HAD it with your bullshit. (Starts shouting.)
- Boys! Get in here!}
-{447}{}{Understood.}
-{448}{}{I'm not the one for this job, Mr. Wright. Find somebody else.}
-{449}{}{Fuck this job, fuck your dead drug-using son, and fuck you. I'm outta here.}
-{451}{}{That DOES it! I'm sick of your bullshit. You'll be joining your dead drug-using son in hell.}
-{453}{}{Get out of here.}
-{465}{}{It so happens, not too long ago, I came across a map that shows an old army base in the mountains not far from here. You find a way in there, and I'll see that you're taken care of...}
+{427}{}{Ele merece.}
+{428}{}{Ahm, mas Renesco não deu o Jet pro Richard... ele não sabia pra quem era... foram os SALVATORES
+ que envenenaram seu filho.}
+{435}{}{Eu te devo uma... Eu te devo uma. }
+{436}{}{Bem, agora, antes de mais nada, vamos acertar as contas... }
+{437}{}{Aqui está um pouco de dinheiro pelos seus problemas, mais munição, liquor do meu estoque particular... e outro
+ trabalho pra você, caso esteja interessado.}
+{438}{}{Estou interessado..}
+{439}{}{Não, obrigado. Te vejo por aí.}
+{445}{}{Se você voltar aqui e não tiver feito o que mandei, vai servir de amostra em Golgotha, tribal. NINGUÉM
+ me faz perder tempo. Você me entendeu?}
+{446}{}{Se você pensa que pode me enrolar desse jeito, tribal, enganou-se. Estou DE SACO CHEIO das suas besteiras. (Começa a gritar.)
+ Rapazes! Venham aqui!}
+{447}{}{Entendido.}
+{448}{}{Eu não sou a pessoa certa pra esse trabalho, Mr. Wright. Procure outra pessoa.}
+{449}{}{Fodas pra esse trabalho, fodas pro seu filho viciado e vai te fuder também! Eu vou embora.}
+{451}{}{Já CHEGA! Estou enjoado de tanta merda. Você vai se juntar ao seu filho viciado no inferno.}
+{453}{}{Saia daqui.}
+{465}{}{Há um tempo atrás, aconteceu de eu cruzar com um mapa que mostra uma velha base militar nas montanhas, não muito longe daqui. Ache um jeito de entrar lá e eu verei se você é capaz...}
 {466}{}{Okee Dokee Mister Orderville}
 {467}{}{ go. }
-{468}{}{All right. I'll go check it out.}
-{469}{}{Why should I go? Didn't you send somebody already?}
-{470}{}{Not interested, thanks. Goodbye.}
-{471}{}{I already found a way to get inside the base. There's a lot of old weapons
- and military hardware there, all for the taking.}
-{472}{}{I already found a way inside the base. Problem is, there was an... accident...
- the base is contaminated.}
-{480}{}{(Mr. Wright's expression tightens for a moment, then he snorts.) Heh. Not exactly. The fellas I got the map from are dead.
- They were a tough bunch, but they all got wiped out tryin' to get inside the base.}
-{481}{}{They didn't even get INSIDE?}
-{485}{}{Yeah, the only survivor said... shortly before his unfortunate death... said that there were some kind of super gun turrets
- guarding the entrance. Wiped out most of his boys.}
-{486}{}{What happened to the survivor?}
-{487}{}{Hmmmm. I'll have to be careful then. I'll take the job.}
-{488}{}{Forget this. No one said it would be that dangerous.}
-{495}{}{Oh, ol' Sam Pritchard? Sad story. Got drunk one night, mentioned to my boy Keith he'd found this 'base,' and 'fore y'know
- it, he draws me a map and DIES. He's sleeping in Golgotha now.}
-{496}{}{Seems like Reno's filled with sad stories these days. I'll take the job.}
-{497}{}{Y'know, it's stories like that that make me realize I really can't take this job. Later, Wright.}
-{505}{}{(Shakes his head.) Too bad. You come back and see me if you change your mind.}
+{468}{}{Certo. Eu vou checar.}
+{469}{}{Por que eu tenho que ir? Você ainda não mandou ninguém?}
+{470}{}{Não estou interessado, obrigado. Tchau.}
+{471}{}{Eu já achei uma maneira de entrar na base. Tem um monte de armas velhas
+ e computadores militares lá, pronto pra se pegar.}
+{472}{}{Eu já achei uma maneira de entrar na base. O problema é que teve um... acidente...
+ a base está contaminada.}
+{480}{}{(O Sr. Wright faz um expressão séria por um momento, mas então ele faz que sim.) Hunf. Não exatamente. Os companheiros de quem eu peguei o mara estão mortos.
+ Ele eram um grupo forte, mas foram todos estraçalhados tentando entrar na base.}
+{481}{}{Eles nem ENTRARAM?}
+{485}{}{Sim, o único sobrevivente disse... pouco antes de sua lamentável morte... disse que havia algum tipo de torres super armadas
+ guardando a entrada. Acabou com a maioria de seus homens.}
+{486}{}{O que aconteceu com o sobrevivente?}
+{487}{}{Hmmmm. Terei que ser cuidadoso então. Eu aceito o trabalho.}
+{488}{}{Esqueça. Ninguém disse que seria tão perigoso.}
+{495}{}{Oh, o velho Sam Pritchard? É uma história triste. Ficou bêbado uma noite, mencionou pro meu filho Keith que tinha achado essa 'base,'
+ desenhou o mapa pra mim e MORREU. Ele está dormindo em Golgotha agora.}
+{496}{}{Parece que Reno está repleta de histórias tristes por esses dias. Eu aceito o trabalho.}
+{497}{}{Você sabe, são histórias como esta que me fazem não querer aceitar o trabalho. 'Té mais, Sr. Wright.}
+{505}{}{(Balança a cabeça.) Que pena. Volte e fale comigo se mudar de idéia.}
 {506}{}{Eu vou fazer isso.}
-{515}{}{(Wright smiles when he sees you.) You change your mind about that proposition I had?}
-{516}{}{What was this proposition again?}
-{517}{}{No, just stopping by. I'll be going now.}
-{525}{}{(Nods, smiles.) All right then. Come back when you found a way in, and I'll see you're well rewarded. Now, as for
- the location of the base... head north, then... (Gives you the coordinates for the army base.)}
-{526}{}{All right. I'll go check it out. When I find a way inside, I'll be back.}
-{535}{}{Ah, it's you. You got some good news for me? You find a way into that army base?}
-{536}{}{If you're back and ain't done what I asked, then you're in for a world of hurt.}
+{515}{}{(Wright sorri ao te ver.) Mudou de idéia quanto a minha proposta?}
+{516}{}{Qual era o trabalho mesmo?}
+{517}{}{Não, só estou passando. Até mais.}
+{525}{}{(Sorri.) Muito bem. Volte quando encontrar um jeito de entrar, e será recompensado. Agora, as
+ coordenadas da base... vá para o norte, então... (Dá as coordenadas para a base militar)}
+{526}{}{Certo. Eu vou checar. Quando achar uma maneira de entrar eu volto.}
+{535}{}{Ah, é você. Tem notícias boas pra mim? Acho uma maneira de entrar na base militar?}
+{536}{}{Se você voltou e não fez o que pedi, então você está aqui para sofrer.}
 {537}{}{Ainda não.}
-{538}{}{Yes. I managed to get inside and found a lot of old weapons and military hardware there. It's all there for the taking.
- Now, about my payment...}
-{539}{}{I got inside the base, but there was an... accident... the base is contaminated.}
-{540}{}{Sorry. I'll return once I get inside the Army base.}
-{541}{}{Screw this job, and screw you. I'm outta here.}
-{550}{}{If you ain't DONE what I asked, then what in HELL are you doing back here?! I need you to crack that base, so don't
- be coming back here until you've done it!}
-{551}{}{All right. I'll return once I get inside the Army base.}
-{560}{}{If you come back here again and you ain't done what I asked, I'll see you hang in Golgotha, tribal. NO ONE wastes my
- time. You understand me?}
-{561}{}{Sorry? SORRY?! That don't cut it this time, tribal. If you think you can waste my time, you're wrong. I can get
- someone else to fill your shoes. (Shouts at door.) Boys! Get in here!}
-{562}{}{Understood. I'll be back when I've done the job.}
-{575}{}{. I like it, I like it. It's got style. Now you stop on by the Cat's Paw and New Reno Arms, and they'll take care of
- you. You need free hootch, head on by the train station, too. I'll set you up.}
-{576}{}{Thanks. I'll do that.}
-{580}{}{(Eyes gleam.) You done good, }
-{581}{}{An 'accident?' Aw, hell, I don't even want to know. Get outta here and don't ever come back.}
-{582}{}{Thanks, Mr. Wright. If I'm a Made Man, then I'd like to be called...}
-{583}{}{All right then.}
-{584}{}{So what do you want us to call ya?}
-{590}{}{(Smiles when he sees you.) }
-{591}{}{Sure. How are things with you, Mr. Wright?}
-{592}{}{Sure. I was just stopping by, Mr. Wright. You take care, sir.}
-{600}{}{(Chuckles.) Not bad, not bad. My wife is still being a holy terror, but that's nothing new. The joys of marriage.}
-{601}{}{I understand. Well, I was just stopping by, Mr. Wright. You take care, sir.}
-{610}{}{Angry? Hell, yes, my goddamn wife just went berserk on one of my stills. Don't know how the hell she found out, but...}
-{611}{}{Angry? Hell, yes, some low-down sonuvabitch destroyed one of my stills. Don't know how the hell he pulled it off, but...}
-{612}{}{Angry? Hell, yes, my customers are dropping off... literally. Something's wrong with the alcohol, and I think it's killing
- people. I wonder if the fermenting process is poisonous...}
-{613}{}{She probably just stumbled across it. Dumb luck, no doubt! I don't think anyone told her, nope. Very unlikely.}
-{614}{}{Well, those old machines break down all the time! I don't think anyone did it on purpose. Very unlikely.}
-{615}{}{Well, it certainly couldn't have anything to do with radscorpion venom leaking into the vats from a severed radscorpion
- tail being dropped in there. I wouldn't dwell on it.}
-{620}{}{Funny you should ask. My son got a gun from somewhere... I think it's one of the other families, trying to get him to shoot
- himself or his old man. When I catch the bastard...}
-{621}{}{Uh, a gun? Really? You're right, sir, probably one of the other families gave it to him. Be hard to track down whoever
- did it, though. I wouldn't pay it any mind.}
-{625}{}{(Nods.) Probably nothing. Aw, well...}
-{626}{}{Sure. Oh, well, I was just stopping by, Mr. Wright. You take care, sir.}
-{630}{}{(Frowns.) Way I see it, it was probably a Mordino pusher... that goddamn family controls nearly all the Jet in Reno.
- I'd scope out the Desperado, see what dealers hang out round there.}
-{640}{}{Wh -? "Poisoned?" What in hell's name are you talking about?}
-{641}{}{I inspected your son's body. Jet didn't kill him... his body still had traces of radscorpion venom in it.}
-{642}{}{I found this Jet canister that Richard used... er, was used on Richard. There were traces of radscorpion venom
- in the cartridge.}
-{643}{}{I found a Jet canister that Richard used... er, was used on Richard. There were traces of radscorpion venom
- in the cartridge.}
-{644}{}{He was poisoned with radscorpion venom. The Jet overdose was just a cover for the poisoning.}
-{650}{}{"Inspected my son's body?"}
-{651}{}{Yeah, I had to open his grave to do an autopsy.}
-{652}{}{Uh... you know, I DIDN'T. I misspoke. "Son's body?" I meant "somebody's." Yes, that's what I meant.}
-{653}{}{This might not be the best time to discuss this. I'll talk to you later.}
-{660}{}{You ghoulish son of a bitch...}
+{538}{}{Sim. Eu consegui entrar e achei várias armas velhas e computadores militares. Está tudo lá pra se pegar.
+ Agora, sobre o pagamento…}
+{539}{}{Eu entrei na base, mas houve um... acidente... a base está contaminada.}
+{540}{}{Desculpe. Eu retorno assim que conseguir entrar na base.}
+{541}{}{Que se dane esse trabalho, que se dane você. Estou fora.}
+{550}{}{Se você NÃO FEZ o que pedi, então POR QUE QUE DIABOS voltou?! Eu preciso que você se infiltre naquela base, então não
+ não volte até que tenha conseguido!}
+{551}{}{Certo. Eu voltarei assim que conseguir entrar lá.}
+{560}{}{Se você voltar aqui de novo e não tiver feito o que pedi, vai servir de exemplo em Golgotha, tribal. NINGUÉM me faz
+ perder tempo. Você me entendeu?}
+{561}{}{Desculpa? DESCULPa? Isso não vai funcionar dessa vez, tribal. Se você acha que pode me fazer perder tempo, se enganou. Eu posso
+ achar outra pessoa pra preencher os seus sapatos. (Grita pra porta) Rapazes! Venham aqui!}
+{562}{}{Entendido. Eu voltarei quando terminar o trabalho.}
+{575}{}{. Eu gostei, eu gostei. Tem estilo. Agora dê uma passada no Cat's Paw e em New Reno Arms. Eles irão te dar
+ um agrado. Precisando beber de graça, passe na estação de trem. Eu te cubro.}
+{576}{}{Obrigado. Irei fazer isso.}
+{580}{}{(Olhos brilham.) Você fez bem, }
+{581}{}{Um 'acidente?' Ah, merda, eu nem quero saber. Saia daqui e não volte nunca mais.}
+{582}{}{Obrigado, Sr. Wright. Se eu sou um Made Man, então gostaria de me chamar…}
+{583}{}{Está certo então.}
+{584}{}{Então, do que quer te chamemos?}
+{590}{}{(Sorri quando te vê.) }
+{591}{}{Claro. Como vão as coisas, Sr. Wright?}
+{592}{}{Claro. Estou apenas de passagem, Mr. Wright. Até mais, senhor.}
+{600}{}{(Risadas.) Nada mal, nada mal. Minha esposa ainda está uma fera, mas isso não é novidade. As alegrias do casamento.}
+{601}{}{Entendi. Bem, só estava de passagem, Sr. Wright. Até mais, senhor.}
+{610}{}{Nervoso? Estou, porra. a maldita da minha mulher acaba de destruir uma de minhas destilarias. Não sei como ela descobriu, mas…}
+{611}{}{Nervoso? Estou, porra. Algum fedaputa desgraçado destuiu uma de minhas destilarias. Não sei como conseguiu, mas…}
+{612}{}{Nervoso? Estou, porra. Meus clientes estão sumindo... literalmente. Há algo de errado com o álcool, e eu acho que está matando
+ as pessoas. Acho que o processo de fermentação está envenenado...}
+{613}{}{Provavelmente ela cruzou com ela no caminho. Falta de sorte, com certeza! Não acho que alguém tenha contado pra ela, não mesmo. Muito improvável.}
+{614}{}{Bem, essas máquinas quebram todo o tempo! Eu não acho que alguém tenha feito isso de propósito. É muito improvável.}
+{615}{}{Bem, certamente não tem nada a ver com veneno de radscorpion vazando dentro do reservatório por um rabo de
+ radscorpion jogado lá. Não tem com ter um lá.}
+{620}{}{Engraçado você perguntar. Meu filho pegou uma arma de algum lugar... acho que das outras famílias, tentando fazer com que ele atirasse nele mesmo
+ ou no seu velho aqui. Quando eu pegar o desgraçado…}
+{621}{}{Uma arma? Sério? O senhor está certo, provavelmente alguém das outras famílias deram pra ele. Vai ser difícil achar quem fez isso.
+ Eu não tenho a menor idéia de quem poderia ser.}
+{625}{}{(Faz que sim.) Provavelmente nada... Ah, bem…}
+{626}{}{Calro. Bem, eu estava só de passagem, Sr. Wright. Até mais, senhor.}
+{630}{}{(Fecha a cara.) Pelo que vejo, provavelmente foi um Mordino... aquela família maldita controla quase todo o Jet em Reno.
+ Eu procuraria em Desperado, veria quais negociantes andam por lá ultimamente.}
+{640}{}{O q -? "Envenenado?" Do que diabos você está falando?}
+{641}{}{Eu inspecionei o corpo do seu filho. Não foi Jet que o matou... seu corpo ainda tem traços de veneno de radscorpion.}
+{642}{}{Eu achei esse compartimento de Jet que o Richard costumava... er, foi usado no Richard. Há traços de veneno de radscorpion
+ no cartucho.}
+{643}{}{Eu achei um compartimento de Jet que o Richard costumava... er, foi usado no Richard. Há traços de veneno de radscorpion
+ no cartucho.}
+{644}{}{Ele foi envenenado por veneno de radscorpion. A overdose de Jet foi apenas um artifício para cobrir o veneno.}
+{650}{}{"Inspecionou o corpo do meu filho?"}
+{651}{}{Sim, eu tive que abrir sua cova pra fazer a autópsia.}
+{652}{}{É... você sabe, NÃO FUI eu. E me enganei. "Corpo do seu filho?" eu disse "corpo de alguém". É, foi o que eu disse.}
+{653}{}{Talvez não seja uma boa hora para discutir isso. Falo com você mais tarde.}
+{660}{}{Seu escavador de túmulos filho de uma puta…}
 {661}{}{You ghoulish bitch...}
-{662}{}{ you just earned YOURSELF a plot o' land on Golgotha. IF they find all the pieces. (Starts shouting.) Boys! Get in here!
- And bring yer knives!}
-{663}{}{Hold on! Can't we talk about this?}
+{662}{}{ você acaba de ganhar seu PRÓPRIO  pedaço de terra em Golgotha. SE eles acharem todos os seus pedaços. (Começa a gritar.) Rapazes! Venham aqui!
+ E tragam suas facas!}
+{663}{}{Espere um momento! Não podemos falar sobre isso?}
 {664}{}{You're going to need more than knives to take me down...}
-{665}{}{Excuse me. The exit and I have an appointment.}
-{670}{}{Assuming I believe this for a second... and I ain't saying I AM... then who POISONED my son? And why did they go to the
- trouble of dosin' him with Jet?}
-{671}{}{Word is it was the Salvatores. They pumped him with Jet laced with radscorpion venom, then left him for you to find.}
-{672}{}{I don't know which of the Salvatores did it. Renesco doctored up some Jet for them, not knowing they'd use it to
- poison your son.}
+{665}{}{Com licença. Eu e a saída temos um compromisso.}
+{670}{}{Vamos supor que eu acredite nesso por um segundo... e não estou dizendo que ESTOU... então que ENVENENOU meu filho? E por que eles
+ tiveram o trabalho de dosá-lo com Jet?}
+{671}{}{A questão é que foram os Salvatores. Eles enfiaram Jet misturado com veneno de radscorpion, então o deixaram para que o senhor o encontrasse.}
+{672}{}{Eu não sei qual dos Salvatores fez isso. Renesco medicou um pouco de Jet pra eles, mas não sabia que
+ era pra envenenar seu filho.}
 {673}{}{Eu não sei.}
-{680}{}{Now why in hell would they do that?}
-{681}{}{Way I see it, the Mordinos control the Jet in Reno. Naturally, you'd blame them for a drug overdose... and then there'd
- be war. IF you two didn't wipe each other out, you'd at least be weakened by the fight. That makes life easier for the
- Salvatores... all they have to worry about then is the Bishops.}
-{682}{}{I don't know. Maybe you should ask them.}
-{690}{}{(Stares at you for a long time, then a dry chuckle escapes his lips.) You give me an answer, and I can't do nothing about
- it. The Salvatores... goddammit. (Takes a deep breath.)}
-{691}{}{What's wrong?}
-{692}{}{"You can't do anything about it?" What do you mean?}
-{700}{}{Know what those Salvatore bastards are ARMED with, friend? Those damned lightbringers. ONE Salvatore packing that kind
- of heat can kill my whole family without batting an eye. To beat that, I'd need...}
+{680}{}{Agora, por que diabos eles fariam isso?}
+{681}{}{Pelo que vejo, os Mordinos controlam o Jet em Reno. Naturalmente, você os culparia pela overdose... e então haveria
+ uma guerra. SE vocês dois não destruíssem uns aos outros, pelo menos iriam se enfraquecer. Isso facilitaria a vida para
+ os Salvatores... assim eles só precisariam se preocupar com os Bishops.}
+{682}{}{Eu não sei. Talvez você devesse perguntar pra eles.}
+{690}{}{(Olha pra você por um longo tempo, então risadas secas saem de sua boca.) Você me deu uma resposta e eu não posso fazer nada sobre
+ isso. Os Salvatores... merda. (Respira longamente.)}
+{691}{}{O que há de errado?}
+{692}{}{"Não pode fazer nada sobre isso?" O que você quer dizer com isso?}
+{700}{}{Sabe com o quê esses malditos Salvatores estão ARMADOS? Com aquelas malditas armas laser. UM Salvatore carregando esse tipo
+ de calor pode matar toda a minha família sem piscar um olho sequer. Para vencê-los, eu precisaria…}
 {701}{}{O que?}
-{702}{}{Don't worry about it, I've kicked the shins out from underneath the Salvatores already.}
-{710}{}{Ha! The ones in Reno maybe, but you got a lot to learn about the families... there's still Salvatores kicking
- around beyond Reno, and even if there's just one left, that's trouble. To beat them, I'd need...}
-{720}{}{(Frown deepens.) This smells like a pile of brahmin shit to me...}
-{721}{}{Don't believe me? Look, I inspected your son's body, and it REEKED of radscorpion venom.}
-{722}{}{Look, trust me... your son was POISONED. I don't know by who, but somebody went to great pains to make it look like a
- Jet overdose.}
-{750}{}{You have solved the murder.}
-{775}{}{You fingered a suspect in Richard Wright's death.}
-{800}{}{You have correctly identified who killed Richard Wright and the motive.}
-{825}{}{You have become a made man of the Wright family.}
+{702}{}{Não se preocupe, eu já passei a pena nos Salvatores.}
+{710}{}{Ha! Os de Reno talvez, mas você tem muito o que aprender sobre as famílias... ainda há Salvatores
+ além de Reno, e mesmo que restasse apenas um, ainda haveria problemas. Para vencê-los, eu precisaria...}
+{720}{}{(A cara fechada piora..) Isso cheira a merda de brahmin pra mim...}
+{721}{}{Não acredita em mim? Olha, eu inspecionei o corpo do seu filho, e ele FEDE veneno de radscorpion}
+{722}{}{Confie em mim... seu filho foi ENVENENADO. Eu não sei por quem, mas alguém trabalhou muito pra fazer parecer
+ overdose de Jet.}
+{750}{}{Você resolveu o assassinato.}
+{775}{}{Você acho um suspeito na morte de Richard Wright.}
+{800}{}{Você identificou corretamente quem matou Richard Wright e o motivo.}
+{825}{}{Você se tornou ummade man da família Wright.}
 {5243}{}{!}
-{5249}{}{. I'm interested in a job.}
+{5249}{}{. Estou interessado no trabalho.}
 {5261}{}{!}
-{5310}{}{." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown.) Looking for work in family Wright, huh?}
-{5467}{}{ crack base. }
-{5580}{}{. Go to the Cat's Paw and New Reno Arms... tell them you're from me, and they'll set you up. You're family now... a made
- man, and all Reno's gonna know it.}
-{5590}{}{...everyone treating you all right? No problems?}
+{5310}{}{." Estou contente por ter passado, foi muito gentil de sua parte.(A zombaria muda pra uma cara fechada.) Procurando por trabalho na família Wright, certo?}
+{5467}{}{ infiltrar na base. }
+{5580}{}{. Vá para o Cat's Paw e para New Reno Arms... diga a eles que eu te mandei, e eles irão te dar um agrado. Você é da família agora... um made
+ man e toda Reno vai saber disso agora.}
+{5590}{}{…todos estão te tratando bem? Sem problemas?}
 {6467}{}{ smash!}

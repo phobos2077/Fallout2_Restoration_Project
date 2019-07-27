@@ -27,7 +27,7 @@
 {151}{}{I'm wounded. Can you help me?}
 {152}{}{One of my friends is hurt. Can you help them?}
 {153}{}{Well, my ancestor, the Vault Dweller, said that Vault 13 owes us one. I need to find it.}
-{154}{}{I guess that's all I need to know. Goodbye.}
+{154}{}{Acho que é tudo o que eu precisava saber. Tchau.}
 {160}{}{W'well, I h'help H'harold mostly. Wh'when people get hurt, I h'help them out.}
 {161}{}{Help Harold do what?}
 {162}{}{Deixe-me perguntar-lhe algo mais.}
@@ -69,7 +69,7 @@
 {240}{}{If those f'fools in Vault City w'would share their medical technology, I'm sure we could
  c'cleanse the excess r'radiation and heal ourselves.}
 {241}{}{They won't help you?}
-{242}{}{I think I've heard enough. Goodbye.}
+{242}{}{Acho que já ouvi o bastante. Tchau.}
 {250}{}{Y'you've been to Vault City? Then you t'tell me wh'what you think the chances of g'getting
  h'help from those bigots is. M'might as well watch a p'paper dog chase an asbestos c'cat through hell.}
 {251}{}{I'm sorry to hear that, but I think you're right. Let me ask you about something else.}
@@ -117,7 +117,7 @@
  glowing cesspool of a town. Goodbye.}
 {340}{}{I h'help H'harold administer the town. Th'there's always more p'paperwork to do.}
 {341}{}{What else did you say you did here?}
-{342}{}{I guess that's all I need to know for now. Goodbye.}
+{342}{}{Acho que é tudo o que eu queria saber. Tchau.}
 {350}{}{You d'didn't have enough m'money... b'but I helped y'you out anyway. J'jist c'cant stand to see
  p'people in p'pain.}
 {351}{}{I can't thank you enough, Lenny. I need some more information from you, though.}
@@ -138,7 +138,7 @@
 {380}{}{Wh'what d'do you w'want me to do?}
 {381}{}{Lenny, I know you're really trying. But please get out of my way.}
 {382}{}{I need you to fight differently, Lenny.}
-{383}{}{I need you to wait here.}
+{383}{}{Eu preciso que você espere aqui.}
 {384}{}{Physician, heal thyself.}
 {385}{}{I need some healing, Lenny.}
 {386}{}{I need you to heal some of our friends here.}
@@ -146,8 +146,8 @@
 {388}{}{How are you doing, old-timer?}
 {389}{}{I don't need anything else from you right now, Lenny.}
 {400}{}{You want me to f'fight d'differently?}
-{401}{}{I want you to change your distance.}
-{402}{}{I want you to use your best weapon.}
+{401}{}{Eu quero que você mude sua distância.}
+{402}{}{Quero que você use sua melhor arma.}
 {403}{}{I want you to use your best armor}
 {404}{}{I want you to fight differently.}
 {405}{}{Não importa.}
@@ -265,7 +265,7 @@
 {6042}{}{Are they dangerous at all? Any side-effects to look out for?}
 {6043}{}{Do you think these could help Cassidy?}
 {6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
-{6051}{}{Like what?}
+{6051}{}{Como o quê?}
 {6052}{}{I knew there'd be a catch.}
 {6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
 {6061}{}{Lenny?}

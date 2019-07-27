@@ -1,6 +1,5 @@
 {100}{}{Vidíš ducha!}
 {101}{}{Vidíš ducha Annu.}
-
 {150}{}{Tohle je duch. To nevidíš každý den.}
 {151}{}{Vypadá trochu utrápenì.}
 {152}{}{[MLUVIT]}
@@ -31,19 +30,15 @@
 {177}{}{Sbohem.}
 {178}{}{Poèkej! Nechoï!}
 {179}{}{Jdi za svìtlem.}
-
 {200}{}{Kde jen mùže být?}
 {201}{}{Och.}
 {202}{}{Mami? Tati? Kde jste?}
 {203}{}{Nemùžu ho najít!}
-
 {500}{}{Mami... tati... už jdu...}
 {501}{}{Je to tak jasné...}
 {502}{}{Babi, já tì vidím...}
 {503}{}{Och, to je milý pan Cain. Ráda vás zase vidím...}
-
 {550}{}{Tento dùm je opìt èistý.}
-{551}{}{Ou, hezká kosti.}  
-
+{551}{}{Ou, hezká kosti.}
 {560}{}{Krotitel duchù!}
 {561}{}{Eh.}

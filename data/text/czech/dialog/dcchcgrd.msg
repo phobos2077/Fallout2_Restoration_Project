@@ -1,5 +1,4 @@
 {100}{}{Vidíš stráž.}
-
 {150}{}{Tato stráž hlídá starý kostel.}
 {151}{}{[MLUVIT]}
 {152}{}{Jak se opovažuješ tady zase ukázat svùj ksicht?}
@@ -17,7 +16,7 @@
 {164}{}{Ještì se vrátím.}
 {165}{}{(Rozpaèitì.) Ne...eh...v poøádku, mùžeš jít dovnitø...}
 {166}{}{Díky.}
-{167}{}{To je dost.}
+{167}{}{Tak se mi to líbí.}
 {168}{}{Co tu chcete?}
 {169}{}{Potøebujeme jít dovnitø.}
 {170}{}{Poslal nás sem šéf.}
@@ -34,16 +33,14 @@
 {181}{}{Hej, vypadni sakra od tìch dveøí!}
 {182}{}{Nedotýkej se tìch dveøí, jestli nechceš mít problémy.}
 {183}{}{Ještì jednou tì uvidím u tìch dveøí a vpálím ti kulku mezi oèi.}
-{184}{}{Hej, co si vlastnì myslíš, že dìláš?}
+{184}{}{Hej, co si myslíš, že dìláš?}
 {185}{}{Mám tì až po krk.}
 {186}{}{Promiò, mùžu tì pustit dál, ale tví pøátelé budou muset poèkat venku.}
 {187}{}{Jen jeden z vás mùže jít dovnitø.}
-
 {200}{}{Dobrý veèer.}
 {201}{}{Dobré odpoledne.}
 {202}{}{Dobré ráno.}
 {203}{}{Dodìlej si svoji práci. Díky.}
-
 {250}{}{Víš, kamaráde, už jsi mì neuvìøitelnì sral!}
 {251}{}{Víš, dìvko, už jsi mì neuvìøitelnì srala!}
 {252}{}{[KONEC]}

@@ -5,8 +5,6 @@
 {104}{}{Možná nìkdy pøíštì.}
 {105}{}{Našel jsi, co jsi hledal?}
 {106}{}{Díky. Sbohem.}
-
-
 {200}{}{Vidíš hrdloøeza.}
 {201}{}{Vidíš hrdloøeza.}
 {202}{}{Dìlám ochranku. Promluv si s dealerem, jestli chceš fet.}

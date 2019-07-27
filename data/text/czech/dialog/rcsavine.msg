@@ -12,7 +12,7 @@
 {111}{}{Potøebuješ stráž, jo?}
 {112}{}{S èím obchoduješ?}
 {113}{}{Proè se èeká až do 21.?}
-{114}{}{Myslím, že to není nic pro mì. Sbohem.}
+{114}{}{To není nic pro mì. Sbohem.}
 {115}{}{Vybrali si fakt špatnou karavanu.}
 {116}{}{Chtìj vyjebat s mojí karavanou, jo?}
 {117}{}{Tihle zmrdi právì udìlali nejvìtší chybu svýho života.}
@@ -22,7 +22,6 @@
 {121}{}{Øekl jsem vypadni! Jseš hluchej nebo co?}
 {122}{}{Nevadìj mi zlodìji... ale jenom ti dobøí. A ty nejseš zrovna jeden z nich. Radil bych ti vypadnout døív, než se opravdu naštvu.}
 {123}{}{Já že jsem zlodìj? Tak to si budu pamatovat, ty zatracenej nevdìèníku. Sbohem.}
-{200}{}{Tak se ukaž!}
 {124}{}{To tì bude jednou mrzet. Sbohem.}
 {125}{}{Tohle byla ta nejhorší karavana za posledních pár let. Na tomhle vùbec nic netrhnu, takže ty taky ne. Zmiz mi z oèí.}
 {126}{}{Opravdu? Tak to si mùžeš zkusit, ty proradnej bastarde. Sbohem.}
@@ -46,15 +45,16 @@
 {144}{}{Co tahle karavana pøeváží?}
 {145}{}{Dobøe, díky. Sbohem.}
 {146}{}{Poslyš, kámo, nìkdy musíš umìt øíct ne. A *já* øíkám NE!}
-{147}{}{Eh, dobøe.}
+{147}{}{Aha, dobøe.}
 {148}{}{Obchodujeme hlavnì s, eh, lékaøskými potøebami... jo, s lékaøskými potøebami... z New Rena a vymìòujeme je za zlato z Reddingu.}
 {149}{}{Zajímavé. Øíkal jsi, že sháníš stráže?}
 {150}{}{Chci se ještì na nìco zeptat.}
 {151}{}{Aha, dobøe. Sbohem.}
-{153}{}{Jdeš právì vèas, zrovna odjíždíme. Nabízím ti $1500. Bereš to?}
 {152}{}{Jdeš právì vèas, zrovna odjíždíme. Nabízím ti $1500, ale jenom tobì, jelikož potøebuju jenom jednu stráž. Bereš to?}
+{153}{}{Jdeš právì vèas, zrovna odjíždíme. Nabízím ti $1500. Bereš to?}
 {154}{}{To zní dobøe. Mùžeme vyrazit.}
 {155}{}{Myslím, že strážce karavany není práce pro mì. Uvidíme se pozdìji. Sbohem.}
 {156}{}{Jseš zábavnej šašek, ale už mì unavuješ. Kliï se odsud, blbeèku.}
 {157}{}{Šašek? Pápá.}
 {158}{}{Grrr! Já zabít!}
+{200}{}{Tak pojïte!}

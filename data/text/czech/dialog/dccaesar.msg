@@ -1,5 +1,4 @@
 {100}{}{Vidíš èlena Cechu otrokáøù.}
-
 {150}{}{Vidíš Metzgera, šéfa Cechu otrokáøù.}
 {151}{}{[MLUVIT]}
 {152}{}{Stráže! Do útoku!}
@@ -12,7 +11,7 @@
 {159}{}{Hele, co máš za problém?}
 {160}{}{Chci se na nìco zeptat.}
 {161}{}{Už to tak vypadá. Nashle.}
-{162}{}{Blé.}
+{162}{}{Coo?}
 {163}{}{No, tak na to už je moc pozdì. Vypadni.}
 {164}{}{Prosím, prosím, prosím, omlouvám se.}
 {165}{}{No dobøe, za pokus to stálo.}
@@ -32,7 +31,7 @@
 {179}{}{Nebo co?}
 {180}{}{Dobøe. Ale ještì se vrátím!}
 {181}{}{Dobøe. Nashle.}
-{182}{}{Co chceš vìdìt?}
+{182}{}{Co potøebujete vìdìt?}
 {183}{}{O obchodníkovi Vicovi...}
 {184}{}{Mùžu se pøipojit k Cechu otrokáøù?}
 {185}{}{Chci prodat svého manžela do otroctví.}
@@ -46,7 +45,8 @@
 {193}{}{Nic. Už musím jít.}
 {195}{}{Pochází ze starýho jazyka, z pøedváleèný doby nebo tak nìjak.}
 {196}{}{Metzger znamená øezník. Trefný, nemyslíš?}
-{197}{}{To bylo jméno mýho pradìdy. Pocházel odnìkud z východu, za velkou louží.}
+{197}{}{That was my great grandfather's name. He came from somewhere far to
+ the east. Across a large body of water.}
 {198}{}{Èetl jsem nìjakou knihu o Metzgerovi. Byl prezident nebo nìco takového.}
 {199}{}{To je mi ale náhodièka, divochu.}
 {200}{}{Je to nìmacky, nìmecky, nimecky nebo tak nìjak. Takovej starobylej jazyk z dávný doby.}
@@ -54,9 +54,10 @@
 {202}{}{Aha. Mám ještì otázku.}
 {203}{}{To je ta nejblbìjší vìc, kterou jsem kdy slyšel.}
 {204}{}{Fascinující. Už musím jít.}
-{205}{}{Naším posláním je poskytovat spolehlivou a vysoce kvalitní pracovní sílu, která dokáže uspokojit stále rostoucí poptávku ve vìtších mìstech. Chceš se k nám pøidat?}
+{205}{}{Our mission is to provide a steady and high-quality labor force to
+ handle the ever-growing demands of the larger cities. Would you like to join?}
 {206}{}{Jistì. Zní to skvìle.}
-{207}{}{V žádném pøípadì.}
+{207}{}{Na to zapomeò.}
 {208}{}{Zpátky k mojí otázce. Jaká mìsta kupují vaše otroky?}
 {209}{}{Promiò, ale to je interní záležitost.}
 {210}{}{Dobøe. Hlásím se!}
@@ -81,7 +82,6 @@
 {229}{}{Vault City je odsud na východ a trochu na jih. Vic odtamtud pochází.}
 {230}{}{Mám další otázky.}
 {231}{}{Díky, už pùjdu.}
-# Hmm, looks like a healthy slave. I’ll give you [x] coins.
 {232}{}{Hmm, vypadá jako zdravý otrok. Dám ti za nìj }
 {233}{}{ dolarù.}
 {234}{}{Dobøe! Dohodnuto.}
@@ -89,19 +89,17 @@
 {236}{}{V žádném pøípadì! Chci dvojnásobek!}
 {237}{}{Jsi pìknej vydøiduch. Tady jsou peníze!}
 {238}{}{Díky. Mám další otázky.}
-{239}{}{Díky. Nashle.}
+{239}{}{Dík. Naskle.}
 {240}{}{Ještì nìco?}
 {241}{}{Ano, mám otázku.}
 {242}{}{Ne. Nashle.}
 {243}{}{Kterýho "pøítele" chceš prodat?}
 {244}{}{Eh, zapomeò na to.}
-# Interesting. I’ll give you [x] coins.
 {245}{}{Zajímavý. Dám ti za nìj }
 {246}{}{ dolarù.}
 {247}{}{Prodáno!}
 {248}{}{Ne, díky.}
 {249}{}{Chci víc penìz!}
-# Alright, I’ll give you [x] but no more!
 {250}{}{Dobøe, dám ti za nìj }
 {251}{}{ , ale ne víc!}
 {252}{}{Prodáno!}
@@ -110,7 +108,7 @@
 {255}{}{Co chceš Vicovi? Je teï mùj majetek. Nemìl se mnou vyjebat.}
 {256}{}{Chci ho koupit.}
 {257}{}{Proè ho tady držíš?}
-{258}{}{Nic. Zapomeò na to.}
+{258}{}{O nièem. To je jedno.}
 {259}{}{Není na prodej... zatím.}
 {260}{}{Proè ne?}
 {261}{}{Aha, dobøe.}
@@ -141,14 +139,14 @@
 {320}{}{Díky. Budu se snažit.}
 {321}{}{Nevím, jestli se mi to až tak líbí.}
 {322}{}{Potøebuješ zlepšit svoji techniku získávání otrokù.}
-{323}{}{Pokusím se.}
+{323}{}{Zkusím to.}
 {324}{}{Omlouvám se za svùj chabý výkon.}
 {325}{}{Myslím, že mi to jde docela dobøe.}
 {326}{}{Zatracenì! Vedl sis otøesnì. Snažíš se mì zruinovat? Pøíštì si dej vìtší pozor. Nemusíš je všechny zabít! Zabíjej jenom ty vzpurný. Ty bezbranný nech do sbírky.}
 {327}{}{Promiò, Metzgere.}
 {328}{}{Hele, je to fuška být otrokáøem!}
 {329}{}{Chtìl bych vidìt tebe.}
-{330}{}{Chci jít na hon na otroky.}
+{330}{}{Chci jít na hon otrokù.}
 {331}{}{Zatracenì! Nesnáším, když ztratím na honu èlena cechu. Zkuste si víc krejt záda!}
 {332}{}{Celkem ti to šlo dobøe. Tady máš $}
 {333}{}{ jako motivaèní bonus pro další dobøe odvedenou práci.}

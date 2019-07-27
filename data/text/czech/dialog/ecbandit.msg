@@ -3,7 +3,6 @@
 {102}{}{Vidíš lupièe.}
 {103}{}{Vidíš potulného zabijáka.}
 {104}{}{Vidíš tuláka.}
-
 {200}{}{Vzdej se!}
 {201}{}{Peníze nebo život.}
 {202}{}{Tohle je pøepadení.}
@@ -14,7 +13,6 @@
 {207}{}{Žádnou paniku. Za chvilku bude po všem.}
 {208}{}{Ukaž ruce.}
 {209}{}{Krejte mì, chlapi.}
-
 {210}{}{Nedìlej si to ještì horší.}
 {211}{}{Odevzdej mi koøist.}
 {212}{}{Na nì, chlapi!}

@@ -1,4 +1,4 @@
-{100}{}{Vidíš Auto-Dok}
+{100}{}{Vidíš Auto-Dok.}
 {101}{}{Vidíš zastarale vypadající Auto-Dok. Navzdory svému stáøí se ti ho povedlo uvést do provozu.}
 {102}{}{Vidíš Auto-Dok.}
 {103}{}{Vidíš zastarale vypadající Auto-Dok. Navzdory svému stáøí se ti ho povedlo uvést do provozu.}

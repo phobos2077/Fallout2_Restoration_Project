@@ -8,11 +8,11 @@
 {107}{}{Nice to see you, Citizen.}
 {108}{}{Busy day, Citizen?}
 {109}{}{After you, Citizen.}
-{110}{}{Hello, traveler.}
+{110}{}{Olá, viajante.}
 {111}{}{Be about your business, Outworlder.}
-{112}{}{No loitering.}
+{112}{}{Pare de vagabundar.}
 {113}{}{Talk to Wallace if you're lookin' to get into the City.}
 {114}{}{Nothing to report, Captain.}
 {115}{}{Just keeping an eye on things here, Captain.}
-{116}{}{Vault City prevails, Captain.}
-{117}{}{Good day, Captain.}
+{116}{}{Vault City prevails, Capitão.}
+{117}{}{Bom dia, Capitão.}

@@ -90,7 +90,7 @@
 {172}{}{Everyone's got an angle, all right. Goodbye, Sheriff.}
 {173}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to
  count on when push comes to shove. That's enough... for now.}
-{174}{}{Interesting. Let me ask you something else.}
+{174}{}{Interessante. Deixe-me perguntar outra coisa.}
 {175}{}{Hmm, something to think about, anyhow. Goodbye.}
 {176}{}{I can't believe that you'd use such a corny line. You've been reading too many pulp-westerns.
  Here's one for you; You gonna slap leather and draw that smoke wagon, or you just gonna stand there and

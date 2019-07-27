@@ -4,7 +4,7 @@
 {152}{}{You see Jagged Jimmy J. He nods as he catches sight of you.}
 {153}{}{You see Jagged Jimmy J. He catches your eye and waves at you to come over.}
 {200}{}{Hey, if it ain't }
-{201}{}{Hey, }
+{201}{}{Ei, }
 {202}{}{There goes one bad muthuh... and Jimmy J knows a bad muthuh when he sees one.}
 {203}{}{Not every day somebody stomps the President in his own backyard.}
 {204}{}{You want to kick back and celebrate yo victory with some Jet from Jagged Jimmy, hero?}
@@ -167,7 +167,7 @@
 {564}{}{All right then. Thanks, Jimmy. I got to be going.}
 {570}{}{Now, that's a... hole... different story, my pilot friend. Oh my, yes.}
 {571}{}{I think this is a story I want to hear. C'mon, Jimmy...}
-{572}{}{Nevermind. I had some other questions...}
+{572}{}{Esqueça. Eu tenho outras perguntas…}
 {573}{}{I don't think I have time for this story, Jimmy. I got to be going.}
 {580}{}{See, Myron is well taken care of... Mordinos give their little livelihood the BEST of New Reno.}
 {581}{}{And by that, you mean...?}
@@ -178,7 +178,7 @@
 {592}{}{Interesting... say, out of IDLE curiosity, where do the Mordinos get these prostitutes and how are they selected?}
 {600}{}{(Shrugs.) One of Mordino's boys cruises the Cat's Paw down the street, I hear, picks one Myron might like from Miss Kitty's
  stock...(Jimmy suddenly stops talking. He squints at you and frowns.) Wait a minute...}
-{601}{}{What's wrong?}
+{601}{}{O que há de errado?}
 {602}{}{Uh... nevermind. Say, I had some other questions...}
 {603}{}{Uh, well, thanks for the information, Jimmy.}
 {610}{}{Why you want to know shit like that? I got Jet, that's all YOU need to know. You don't need to know nothing about Myron,
@@ -196,7 +196,7 @@
 {626}{}{Understood. We gonna deal?}
 {627}{}{Know anything about this empty Jet canister?}
 {628}{}{I don't think the kid ODed on Jet. I think he was poisoned.}
-{629}{}{I had some other questions...}
+{629}{}{Eu tenho mais algumas perguntas...}
 {635}{}{Aw, so NOW it comes out, does it?! You wanna know if ol' Jimmy got something to do with that, huh?!}
 {636}{}{No, I was just ask --}
 {637}{}{All right, nevermind that. We gonna deal?}
@@ -218,7 +218,7 @@
 {675}{}{(Takes canister, studies it.) Naw, I... (Sniffs nozzle, then frowns.) Sheeee-it. This Jet's got radscorp juice in it.
  Whoever was sucking on this ain't long for this world... (Hands canister back.)}
 {676}{}{It's poisoned?}
-{677}{}{Hmmm. I had some other questions...}
+{677}{}{Hmmm. Eu tenho outras perguntas…}
 {678}{}{Eu vejo. Obrigado.}
 {685}{}{Hell, yes! Gotta be careful in this town with shit like that being passed around... that's why Jimmy always says --}
 {686}{}{Any idea where this might have come from?}
@@ -228,8 +228,8 @@
 {697}{}{Renesco and Jules, huh? I'll ask them about it. Thanks for the tip.}
 {705}{}{Don't surprise me none.}
 {706}{}{What are you saying?}
-{707}{}{I see. I had some other questions...}
-{708}{}{Nevermind, then.}
+{707}{}{Entendo. Eu tenho outras perguntas...}
+{708}{}{Deixe pra lá, então.}
 {715}{}{Yeah, he WOULD say that, cause he knows ALL about it.}
 {716}{}{O que você quer dizer?}
 {725}{}{What do I mean? I mean Jimmy likes his buyers happy and ALIVE. Renesco don't draw no distinctions 'tween the two,
@@ -239,7 +239,7 @@
 {5200}{}{! Come snag some complimentary Jet from J-J now...}
 {5201}{}{! If you're lookin' to celebrate with some Jet, come talk to Jimmy J...}
 {5281}{}{ you lie to }
-{5314}{}{ KILL YOU}
+{5314}{}{MATAR VOCÊ}
 {5340}{}{?}
 {5341}{}{ family.}
 {6281}{}{ about Jet?}

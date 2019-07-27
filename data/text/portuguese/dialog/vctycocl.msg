@@ -1,1 +1,1 @@
-{100}{}{You have entered Vault City's Council Area.}
+{100}{}{Você entrou na Zona do Conselho da Cidade Vault.}

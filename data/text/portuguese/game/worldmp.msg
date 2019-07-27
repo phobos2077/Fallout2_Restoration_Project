@@ -7,7 +7,7 @@
 {212}{}{Living Quarters}
 {213}{}{Command Center}
 {220}{}{Entrance}
-{221}{}{Garden}
+{221}{}{Jardim}
 {222}{}{Brahmin Pen}
 {230}{}{Entrance}
 {231}{}{Crash House}
@@ -42,7 +42,7 @@
 {310}{}{Entrance}
 {311}{}{Interior}
 {500}{}{You gained 10,000 experience points!}
-{501}{}{Ruins}
+{501}{}{Ruínas}
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{City}

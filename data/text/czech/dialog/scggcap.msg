@@ -6,10 +6,10 @@
 {105}{}{Máš otázky? Tak zajdi za šerifem Dumontem. Ten ti na nì odpoví.}
 {106}{}{Zákony jsou venku na informaèní tabuli - žádné zbranì, žádný chlast a žádné problémy.}
 {107}{}{Co pro tebe mùžu udìlat, cizinèe?}
-{108}{}{Zase ty?}
+{108}{}{Zase vy?}
 {109}{}{Já chtít dovnitø.}
 {110}{}{Chci se dostat do NCR.}
-{111}{}{Nic.}
+{111}{}{No nic.}
 {112}{}{Nikam nepùjdeš, dokud neschováš zbranì.}
 {113}{}{Všichni musí schovat zbranì.}
 {114}{}{Hmm... dobrá. Nevidím na tobì nic podezøelého. Jak se jmenuješ? Musím tì zapsat do knihy.}

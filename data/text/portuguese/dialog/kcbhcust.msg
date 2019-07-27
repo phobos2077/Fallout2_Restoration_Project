@@ -1,76 +1,76 @@
-{100}{}{You see someone who could be a trapper.}
-{101}{}{You see someone relaxing.}
+{100}{}{Você vê alguém que poderia ser um caçador.}
+{101}{}{Você vê alguém se relaxando.}
 {102}{}{Você vê um cidadão.}
-{103}{}{You see a worker relaxing.}
-{104}{}{You see a person enjoying a drink.}
-{106}{}{You see a bar patron. They look happy and content.}
-{107}{}{You see a patron. They look well-fed and healthy.}
-{108}{}{You see a patron quietly talking to someone nearby.}
-{109}{}{You see a patron quietly drinking a mug of beer.}
-{110}{}{You see a patron chuckling to themselves over something.}
-{120}{}{You're in the wrong tavern, ain't ya?}
-{121}{}{We don't need troublemakers here.}
-{122}{}{Tribals always mean trouble.}
-{123}{}{Jist as long as you don't get too much firewater in you...}
-{124}{}{(mumble, mumble)...sorry ass outa town...}
-{125}{}{Another one of Dunton's gang.}
-{126}{}{What are you looking at?}
-{127}{}{Just keep moving.}
-{128}{}{Buy us all a round of drinks, newcomer.}
-{129}{}{Hope you can hold your liquor.}
-{130}{}{You don't look like a cannibal.}
-{131}{}{No room for the likes of you.}
-{132}{}{Too many strangers lately.}
-{133}{}{Well at least your teeth ain't filed into points.}
-{134}{}{There goes the neighborhood.}
-{135}{}{Aren't you supposed to have a bone through your nose?}
-{136}{}{(looks at you and then shakes his head)}
-{137}{}{(makes a subtly rude gesture)}
-{138}{}{You're probably the one responsible for them brahmin mutilations.}
-{139}{}{Some of our trappers' have gone missing; you're prob'ly why.}
-{140}{}{There's been bugmen creeping around town.}
-{141}{}{There's a spirit in a canyon East of town.}
-{142}{}{Don't let the Walking Spirit getcha!}
-{143}{}{You better not steal our brahmin.}
+{103}{}{Você vê um trabalhador descansando.}
+{104}{}{Você vê uma pessoa bebendo uma bebida.}
+{106}{}{Você vê os clientes do bar, parecem tão contentes e felizes.}
+{107}{}{Você vê um cliente ele parece são e bem alimentado.}
+{108}{}{Você vê um cliente bem tranqüilo conversando com uma pessoa.}
+{109}{}{Você vê um cliente bebendo tranquilamente uma garrafa de cerveja.}
+{110}{}{Você vê alguns clientes contando piadas e sorrindo muito.}
+{120}{}{Você está no bar errado, não?}
+{121}{}{Nós não queremos problemas por aqui.}
+{122}{}{Tribals sempre são problemas.}
+{123}{}{Contanto que você não fique muito bebado...}
+{124}{}{(murmurando, murmurando)? tenho que sair dessa cidade...}
+{125}{}{Outro da gangue dos Dunton.}
+{126}{}{O que você está olhando?}
+{127}{}{Mexa-se.}
+{128}{}{Pague-nos uma rodada recém chegado.}
+{129}{}{Espero que possa aguentar seu licor.}
+{130}{}{Você não se parece com um canibal.}
+{131}{}{Não há espaço para gente como você.}
+{132}{}{Ultimamente estamos tendo muitos estranhos.}
+{133}{}{Bem, pelo menos seus dentes não estão afiados.}
+{134}{}{Lá se vai a boa vizinhança.}
+{135}{}{Você não deveria ter um osso atravessado em seu nariz?}
+{136}{}{(Olha pra você e depois sacode a cabeça)}
+{137}{}{(Faz um gesto grosseiro bem sutil)}
+{138}{}{Tenho a impressão de que você é o responsável pelas multilações nos brahmins.}
+{139}{}{Alguns de nossos caçadores desapareceram e provavelmente é sua culpa.}
+{140}{}{Tem homens-bicho assustando a cidade.}
+{141}{}{Tem um espírito em um desfiladeiro a leste da cidade.}
+{142}{}{Não deixe que os espíritos te peguem!}
+{143}{}{É melhor você não roubar nenhum brahmin.}
 {144}{}{Estamos de olho em você.}
-{150}{}{Nice to see someone new in town.}
-{151}{}{I guess tribals ain't so bad after all.}
-{152}{}{Buy us a round of drinks!}
-{153}{}{Hello there.}
-{154}{}{You could be Sulik's twin.}
-{155}{}{You say hello to Sulik yet?}
-{156}{}{Trapping's good lately.}
-{157}{}{Weather's getting ready to turn, I guess.}
-{158}{}{Got me a good trapline south of here.}
-{159}{}{If you're smart, you'll stay away from the Duntons.}
-{160}{}{If you're anxious, try the Bathhouse.}
-{161}{}{Head west to Trapper Town, if you want a place to sack out later.}
-{162}{}{Welcome, friend.}
-{163}{}{Hope you like our city.}
-{164}{}{Klamath is the place to be.}
-{165}{}{Nice to have you here.}
-{166}{}{(raises a mug to you)}
-{167}{}{(winks at you)}
-{168}{}{Don't go wandering at night.}
-{169}{}{There's bugmen out in the hills.}
-{170}{}{One of our best trappers is missing.}
-{201}{}{Well, that sure wet my whistle.}
+{150}{}{Fico feliz em ver alguém novo na cidade.}
+{151}{}{Apesar de tudo, parece que os tribais não são tão ruins assim.}
+{152}{}{Pague-nos uma bebida!}
+{153}{}{Olá.}
+{154}{}{Você poderia ser irmão gêmeo de Sulik.}
+{155}{}{Você já disse olá para Sulik?}
+{156}{}{Ultimamente o negócio de caçar anda bem.}
+{157}{}{Parece que as coisas vão mudar.}
+{158}{}{Tenho algumas armadilhar ao sul daqui.}
+{159}{}{Se você for esperto ficara longe dos Duntons.}
+{160}{}{Se estiver inquieto vá a casa de banho(Bathhouse).}
+{161}{}{A oeste esta o bairro dos caçadores(Trapper Town), se estiver procurando um lugar para dormir.}
+{162}{}{Bem vindo, amigo.}
+{163}{}{Espero que goste da nossa cidade.}
+{164}{}{Klamath é um bom lugar.}
+{165}{}{Fico feliz em vê-lo.}
+{166}{}{(Levanta uma caneca para você)}
+{167}{}{(Pisca pra você)}
+{168}{}{Não saia por ai durante a noite.}
+{169}{}{Tem homens-insetos nas colinas.}
+{170}{}{Um de nossos melhores caçadores desapareceu.}
+{201}{}{Bem, acho que vou molhar o bico.}
 {202}{}{Obrigado.}
-{203}{}{Mmm-mm, good.}
-{204}{}{Nothing like Buckner's Best.}
-{205}{}{Thanks for the brew.}
-{206}{}{Huzzah!}
-{207}{}{Tribals know what's best in life.}
+{203}{}{Mmm-mm, bom.}
+{204}{}{Não a nada como Buckner. É a melhor.}
+{205}{}{Obrigado pela cerveja.}
+{206}{}{Hurra!}
+{207}{}{Os tribais sabem aproveitar a vida.}
 {208}{}{Obrigado.}
-{209}{}{Thanks, friend.}
-{210}{}{I sure needed that. Thanks.}
-{211}{}{Thanks a million!}
-{212}{}{Rather have a bottle in front of me...}
-{213}{}{Much obliged, friend.}
-{214}{}{Alright!}
-{215}{}{Yes! I was waiting for that.}
-{216}{}{I thought you'd never ask.}
-{217}{}{Thanks, friend.}
-{218}{}{Just like Sulik.}
+{209}{}{Muito obrigado, amigo.}
+{210}{}{Eu definitivamente precisava disso! Obrigado.}
+{211}{}{Um milhão de obrigado!}
+{212}{}{Que tal beber aqui comigo?}
+{213}{}{Eu te agradeço, amigo.}
+{214}{}{Certo!}
+{215}{}{Yes!, estava esperando por isso.}
+{216}{}{Achei que nunca ia perguntar.}
+{217}{}{Muito obrigado, amigo.}
+{218}{}{Igualzinho ao Sulik.}
 {219}{}{Obrigado.}
 {220}{}{Yeah!}

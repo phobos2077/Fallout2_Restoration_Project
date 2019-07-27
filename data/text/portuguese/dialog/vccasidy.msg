@@ -5,19 +5,19 @@
 {104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
 {105}{}{Ug Nog?}
 {106}{}{Desliga}
-{107}{}{I'm looking for the Vault.}
+{107}{}{Estou a procura da Vault.}
 {108}{}{You looking to get out of here yet?}
 {109}{}{What have you got on tap?}
 {110}{}{Anything interesting going on around here?}
-{111}{}{Nothing today, thanks.}
+{111}{}{Nada por hoje, valeu.}
 {112}{Cas0112}{Hit on the head a little too often, eh? Sorry, I don't speak imbecile.}
 {113}{}{Bee-sil?}
 {114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole... you can't miss it, trust me.}
 {115}{}{What do you have to drink here?}
 {116}{}{Anything interesting going on around here?}
-{117}{}{Thanks for the directions. Goodbye.}
+{117}{}{Obrigado pelas direções. Tchau.}
 {118}{Cas0118}{Beer for $20, shot of whiskey for $30. Nothing special. Why, you want something?}
-{119}{}{I'm looking for the Vault.}
+{119}{}{Estou a procura da Vault.}
 {120}{}{I'll take a beer.}
 {121}{}{I'll take a shot.}
 {122}{}{Anything interesting going on around here?}
@@ -73,7 +73,7 @@
 {171}{Cas0171}{What's up? You got that "I need to tell you something you might not like" look again.}
 {172}{Cas0172}{Yeah?}
 {173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
-{174}{}{I wanted to ask you some questions...}
+{174}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {175}{}{You look like you've taken some damage. Use some stims and heal yourself.}
 {176}{}{Cassidy, I need you to wait here until I come back.}
 {177}{}{Coloque sua arma de distância.}
@@ -162,7 +162,7 @@
 {338}{}{Wonder what that cyberdog eats. Humans, probably.}
 {339}{}{If that cyberdog starts humping my leg, I'm gonna put it down.}
 {340}{}{Ahhhh. Boy, am I glad they made millions of these things before the bomb dropped.}
-{341}{}{Thanks, friend.}
+{341}{}{Muito obrigado, amigo.}
 {342}{}{Hope takin' these stims don't hurt my heart none...}
 {343}{}{What th--?! No, my heart! I...*hrrrkkk*}
 {344}{}{Sorry, I was just admirin' the view.}
@@ -212,7 +212,7 @@
 {4200}{Cas4200}{Okay, pretty much everything is patched up.}
 {4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
 {4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
-{9999}{}{I wanted to ask you some questions...}
+{9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {10001}{}{Take some more stims and heal yourself.}
 {10002}{}{Cassidy, I need you to wait here until I come back.}
 {10003}{}{Coloque sua arma de distância.}
@@ -225,7 +225,7 @@
 {20001}{Cas20001}{My gear? What about it?}
 {20002}{Cas20002}{No problem. Too hot for that kinda gear, anyway. Makes me sweat like a New Reno whore.}
 {20003}{}{Let's try a different formation.}
-{20004}{}{I need to talk to you about your gear.}
+{20004}{}{Eu preciso falar com você sobre seu equipamento.}
 {20005}{}{Forget it. Let's stick to the formation we have now.}
 {20006}{}{Never mind. There's nothing I need to know about your gear.}
 {20007}{}{I need you to remove that armor you're wearing.}

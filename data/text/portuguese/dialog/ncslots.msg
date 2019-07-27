@@ -1,190 +1,190 @@
-{100}{}{You see a slot machine.}
-{101}{}{You see a glittering slot machine.}
-{150}{}{You see a slot machine. You swear you can see it looking at you out of the corner of your eye.}
-{151}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights.}
-{152}{}{You see a glittering slot machine. It is intended for high-rollers... minimum bet is }
-{153}{}{ chips.}
-{154}{}{You see a glittering slot machine.}
-{160}{}{*Come play me for a second, cowboy.*}
-{161}{}{*Hello there, sailor.*}
-{162}{}{*Put in a chip, pull the arm. I'll be nice to you.*}
-{163}{}{*Tick... Tick... Tiiiiick...*}
-{164}{}{*Hey there, beautiful. Come play me for a second.*}
-{165}{}{*Hello there, beautiful.*}
-{166}{}{*Well ain't you a pretty lil' thing. Why don't you come play me?*}
+{100}{}{Você vê um caça-níquel.}
+{101}{}{Você vê um caça-níquel brilhante.}
+{150}{}{Você vê um caça-níquel. Você pode jurar que viu a máquina olhando pra você pelo canto do olho.}
+{151}{}{Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno.}
+{152}{}{Você vê um caça-níquel brilhante. Está destinado a apostas altas. A aposta mínima é de }
+{153}{}{ pratas.}
+{154}{}{Você vê um caça-níquel brilhante.}
+{160}{}{*Venha me jogar por um minuto, cowboy.*}
+{161}{}{*Olá, marinheiro.*}
+{162}{}{*Coloque uma moeda, puxe a alavanca. Vou ser bonzinho com você.*}
+{163}{}{*Tick…Tick…Tiiiiick…*}
+{164}{}{*Ei, você! Venha me jogar um minutinho.*}
+{165}{}{*Olá, beleza.*}
+{166}{}{*Não é que você é uma gracinha... por que não vem me jogar um poquinho?*}
 {175}{}{*Ding*}
 {176}{}{*Bing*}
 {177}{}{*Kaaa-ching*}
 {178}{}{*Zzzzzzz*}
 {179}{}{*Ring-a-ling*}
 {180}{}{*Dingity-ding*}
-{185}{}{You see a strange golden metal box with three eyes and one arm. It is one of the prettiest things you have ever seen.}
+{185}{}{Você vê um estranha caixa dourada de metal com três olhos e um braço. É uma das coisas mais belas que você já viu.}
 {186}{}{Eu}
-{187}{}{ who you}
-{188}{}{Me miss MOM. }
-{189}{}{ miss ARR-YO. Me want go home}
-{190}{}{Shake its hand}
-{191}{}{you one strange mutant}
-{192}{}{Praise the Vault! Praise the Vault!}
-{193}{}{Are you a water chip?}
-{194}{}{Wander off, look for other shiny things}
+{187}{}{ quem ser você}
+{188}{}{Mim sente falta da mamãe. }
+{189}{}{ sente saudade de ARR-YO. Mim quer ir pra casa.}
+{190}{}{Balançar a mão dela}
+{191}{}{Você mutante estranho}
+{192}{}{Viva a Vault! Viva a Vault!}
+{193}{}{Você ser um water chip?}
+{194}{}{Sair; procurar por mais coisas brilhantes}
 {195}{}{Deixar.}
-{205}{}{The strange pretty golden metal box with three eyes and one arm does not answer.}
-{206}{}{ME }
-{207}{}{ ANSWER ME}
-{208}{}{Shake its hand}
-{209}{}{Me child of Vault Dweller You talk to me NOW}
-{210}{}{you one strange mutant}
-{211}{}{Are you a water chip?}
-{212}{}{Wander off, look for other shiny things}
+{205}{}{A estranha caixa dourada de metal com três olhos e um braço parece não responder.}
+{206}{}{MIM }
+{207}{}{ REPONDE EU}
+{208}{}{Balançar a mão dela}
+{209}{}{Mim filho do Vault Dweller Você falar comigo AGORA}
+{210}{}{Você mutante estranho}
+{211}{}{Você ser um water chip?}
+{212}{}{Sair; procurar por mais coisas brilhantes}
 {213}{}{Deixar.}
-{220}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box speaks! "Please... insert... money."}
-{221}{}{Aighhhhh! Robot! Robot! Runnnnn}
+{220}{}{Você segura o braço dela e balança fortemente. Quando o faz, ouve um *bzzzzzzz,* e a caixa fala! "Por favorm... insira... dinheiro."}
+{221}{}{Ahhhhh! Robô! Robô! Corrrran}
 {222}{}{Deixar.}
-{225}{}{You have enough money to play the slots, and you curse your poverty. Perhaps another time...}
+{225}{}{Você não tem dinheiro pra jogar, e almadiçoa sua pobraza. Talvez outra hora…}
 {226}{}{Deixar.}
-{230}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. It's coin slot beckons you, and you feel your face flush with anticipation.}
-{231}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar... that's it... come on now... don't tease...*}
-{232}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey... that's it... grab the handle... grip it firmly... come on now...*}
-{233}{}{You have }
-{234}{}{ chip to your name. Risk it all?}
-{235}{}{You have }
-{236}{}{ chips. Bet }
-{237}{}{ chip?}
-{238}{}{Bet }
-{239}{}{ chips?}
-{240}{}{Call it a night.}
+{230}{}{Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas.}
+{231}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem, docinho... isso mesmo... vem agora...*}
+{232}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem aqui, docinho... isso mesmo... segure a manivela... puxe com força... vem agora...*}
+{233}{}{Você tem }
+{234}{}{ moedas no seu nome. Arriscar todas?}
+{235}{}{Você tem }
+{236}{}{ moedas. Apostar }
+{237}{}{ moedas?}
+{238}{}{Apostar }
+{239}{}{ moedas?}
+{240}{}{Isso que é noite!}
 {241}{}{Liga-o por um dia.}
-{245}{}{The chamber spin, and... come up nothing.}
-{246}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged... the Bouncers are forced to pry your screaming body off the machine.}
-{247}{}{(The machine chuckles.) *I got what I want out of this relationship. Sorry, sweetheart. Don't let the casino door hit you in the ass on the way out. Ha ha ha ha ha ha.*}
-{248}{}{You now have }
-{249}{}{ chips remaining. Chase your losses and keep playing?}
-{250}{}{You have }
-{251}{}{ chip left. Risk it all?}
-{252}{}{You are broke. You are forced to call it a night.}
-{253}{}{You are broke. You are forced to call it a day.}
-{254}{}{Call it a night.}
+{245}{}{As roletas giram e... nada.}
+{246}{}{NADA. NADA! Você a escuta dar gargalhandas e você começa a se enfurecer... os Bouncers são forçados a retirar seu corpo gritante da máquina.}
+{247}{}{(A máquina ri.) *Eu tenho tudo o que quis desse relacionamento. Desculpe, docinho. Não deixe a porta do cassino bater na sua bunda quando estiver saindo. Ha ha ha ha ha ha.*}
+{248}{}{Agora você tem }
+{249}{}{ moedas sobrando. Esquecer as perdas e continuar jogando?}
+{250}{}{Você tem }
+{251}{}{ moedas sobrando. Arriscar tudo?}
+{252}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite".}
+{253}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
+{254}{}{Isso que é noite!}
 {255}{}{Liga-o por um dia.}
-{260}{}{Three daggers. You break even.}
-{261}{}{(The machine continues to whisper at you.) *Come on, sugar... it happens to every one at least once... try again... please...*}
-{262}{}{(The machine continues to whisper at you.) *Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
-{263}{}{You still have }
-{264}{}{ chip. Keep playing?}
-{265}{}{You now still have }
-{266}{}{ chips. Keep playing?}
-{267}{}{Call it a night.}
+{260}{}{Três facas. Você ganhou a mesma quantidade que apostou.}
+{261}{}{(A máquina continua suspirando pra você.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favor…*}
+{262}{}{(A máquina continua suspirando pra você.) *Vamos, coração... tente de novo... segura a alavanca... puxe com força... vamos lá…*}
+{263}{}{Você ainda tem }
+{264}{}{ moedas. Continuar jogando?}
+{265}{}{Agora você tem }
+{266}{}{ moedas. Continuar jogando?}
+{267}{}{Isso que é noite!}
 {268}{}{Liga-o por um dia.}
-{275}{}{Three Bullets! You double your money!}
-{276}{}{(The machine gives a gasp of pleasure.) *That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
-{277}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
-{278}{}{You now have }
-{279}{}{ chips! Keep playing?}
-{280}{}{Call it a night.}
+{275}{}{Três balas! Você dobrou o seu dinheiro!}
+{276}{}{(A máquina dá uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rápido, forte, rápido... vamos lá...*}
+{277}{}{(A máquina dá um gemido de prazer.) *Isso mesmo, coração... continue puxando... mais rápido, forte, rápido...vamos lá...*}
+{278}{}{Agora você tem }
+{279}{}{ moedas! Continuar jogando?}
+{280}{}{Isso que é noite!}
 {281}{}{Liga-o por um dia.}
-{290}{}{Three Grenades! Hot damn! You triple your money!}
-{291}{}{(The machine squeals in pleasure as the chips clatter into the tray.) *Aieeeeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
-{292}{}{(The machine grunts in pleasure as the chips clatter into the tray.) *Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
-{293}{}{Do a victory dance, gyrating your hips and throwing your arms up in the air, then take a deep breath and keep playing.}
-{294}{}{C'mon, grenades! Baby needs a new pair of shoes! (Keep playing.)}
-{295}{}{You now have }
-{296}{}{ chips. Keep playing?}
-{297}{}{Call it a night.}
+{290}{}{Três granadas! Puta que pariu! Você triplicou o seu dinheiro!}
+{291}{}{(A máquina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rápido! Mais forte! O que está esperando?! De novo!*}
+{292}{}{(A máquina grunhe de prazer enquanto as moedas caem.) *Ennnnghhhh! Isso mesmo, coração! Quem é o papai?! Quem é o papai?! Faça de novo! Puxe mais forte dessa vez! Mais forte!*}
+{293}{}{Fazer uma dança da vitória, girando seu quadril e jogando os braços pra cima. Respirar fundo e continuar jogando.}
+{294}{}{Vamos lá, granadas! Eu preciso de um novo par de sapatos! (Continuar jogando.)}
+{295}{}{Agora você tem }
+{296}{}{ moedas. Continuar jogando?}
+{297}{}{Isso que é noite!}
 {298}{}{Liga-o por um dia.}
-{305}{}{(You see a slot machine. Its shiny frame and golden handle gleam seductively beneath New Reno's lights. Its coin slot beckons you, and you feel your face flush with anticipation. As you stare at it, one of its three windows winks at you. From the coin slot you hear a throaty voice.) *Well, my word! Helloooo there, sugah. Show a girl a good time?*}
-{306}{}{(You see a slot machine. Its strong, rugged frame and golden handle gleam like a sun god beneath New Reno's lights. Its coin slot beckons you seductively, and you feel your thighs burn with anticipation. As you stare at it, suddenly a heavy male voice whispers from the coin slot.) *Ain't seen a pretty woman like you around before, miss. You looking to take a chance?*}
-{307}{}{::Pinch self::}
+{305}{}{(Você vê um caça-níquel. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas. Quando você olha pra ele. uma das três janelas pisca pra você. Do buraco de moedas você ouve uma voz suave) *Oláaaaaa, docinho. Quer mostrar pra uma garota quem é que manda?*}
+{306}{}{(Você vê um caça-níquel. Ele é forte, robusto e tem a alavanca dourada brilhando como um deus do sol entre as luzes de New Reno. O buraco de moedas te atrai sedutivamente, e você sente suas coxas queimarem de expectativa. Quando você olha pra ele, ouve uma voz masculina sair do buraco de moedas.) *Nunca vi uma mulher tão linda como você por aqui, senhorita. Está procurando por um bom tratamento?*}
+{307}{}{::Envermelhar-se de vergonha::}
 {308}{}{Uh... hello?}
-{309}{}{::Take a deep breath, walk away.::}
-{315}{}{*I'm still here, pretty lady.* (The slot machine lowers its voice.) *Look, come on... you want to place a bet?*}
-{316}{}{*Ah'm still here, sugah.* (The slot machine lowers its voice.) *You're one fine hunka man, you know that? Come on now... you wanna stick some chips in lil' old me?*}
-{317}{}{Whooo ARE yoooo?}
-{318}{}{Surrh I'll plasssh a bet in yooo}
-{319}{}{I think I better leave before I stick something in you I might regret.}
-{320}{}{::Take a deep breath, walk away.::}
-{325}{}{*I'm your ideal man.* (The slot machine gives you a wink.) *Give me some chips, and I'll please you in ways no man has EVER pleased you.*}
-{326}{}{*I'm your ideal woman, sugar. All's ah want is a little attention. Can you help pretty old me? Come on, just a chip or two?*}
-{327}{}{Can't we jusht talk}
-{328}{}{Surrh I'll plasssh a bet in yooo}
-{329}{}{I think I better leave before I stick something in you I might regret.}
-{330}{}{::Take a deep breath, walk away.::}
-{335}{}{*Course we can, sweetheart, course we can.* (The slot machine looks sympathetic.) *What's troubling your pretty little head?*}
-{336}{}{*Course we can, sugah, course we can.* (The slot machine looks sympathetic.) *What's troubling you, handsome?*}
-{337}{}{Me miss MOM and miss ARROYO and I... canna find the GECK and...*sniff*}
-{338}{}{Me miss MOM and Arroyo wuz ATTACKED and I... dunna where they are... and...*sniff*}
-{339}{}{Me need to fix big ship... and I dunna know HOW... and muh-muh-my Mom's GONE and...*sniff*}
-{340}{}{I finsshed the game... anna now I'm jusht wandrin' round and... ah'm worried itz all OVER and...*sniff*}
-{341}{}{It's jusht that Fhallowt tooo doesnt s'port my 3D Fxxxx card an I spend so much *monee* onnit and *sniff*}
-{342}{}{I tried ta get a good charactrr but I think I spent the pointz all *wrong*...n' now I ave a shitteee charactrr... n'...*sniff*}
-{343}{}{ah'm havinn a conversashun with a slot macheen, ah'm pretty bad off}
-{344}{}{::Take a deep breath, walk away.::}
-{350}{}{*There, there... don't trouble your pretty little head about it no more... just let me take care of everything. C'mon, rest your head on me. There you go. Let it all out.*}
-{351}{}{*There, there... don't trouble yourself about it no more, sugah... just let me take care of everything. C'mon, rest your handsome head on me. There you go. Let it all out.*}
-{352}{}{Thanks, slot macheen *sniff* yer the best}
-{353}{}{Yooo onlee NICE pershun I met so far everybodee else is so meeen n' tried ta HURT me an' take my monee and...*sniff*}
-{354}{}{::Take a deep breath, walk away.::}
-{360}{}{(You rest your weary head on the machine.)}
-{361}{}{*You going be all right, sweetheart? I don't feel comfortable letting you go out alone when you're like this.*}
-{362}{}{*You going be all right, sugah? Ah don't feel comfortable letting you go out alone when you're like this.*}
-{363}{}{I'll be all rite... thasnk fer talkin' with me, slot macheen I loooove you}
-{370}{}{(A tear seems to form on one of the windows.)}
-{371}{}{*You're the only heroine we got in this two-bit world of bastards and thieves, }
-{372}{}{. You take care of yourself now, you hear, sweetheart?* (Turns away.) *You better go fore I start acting unmanly.*}
-{373}{}{*You're the only hero we got in this two-bit world of bastards and thieves, }
-{374}{}{. You... you... take care of yourself now, you hear, sugah?* (Turns away.) *You better go before ah start sobbing.*}
-{375}{}{Byeeeee}
-{380}{}{You see a high-rolling slot machine - minimum bet is }
-{381}{}{ chips. Its glittering frame and golden handle gleam seductively beneath New Reno's lights. It's coin slot beckons you, and you feel your face flush with anticipation.}
-{382}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, sugar... that's it... come on now... don't tease...*}
-{383}{}{(Your hand quivers as you reach for your chips. The machine continues to whisper at you.) *Come on, honey... that's it... grab the handle... grip it firmly... come on now...*}
-{384}{}{You have }
-{385}{}{ chips left. Risk it all?}
-{386}{}{You have }
-{387}{}{ chips. Bet }
-{388}{}{ chips?}
-{389}{}{Bet }
-{390}{}{ chips?}
-{391}{}{Call it a night.}
+{309}{}{::Respirar fundo, sair.::}
+{315}{}{*Eu ainda estou aqui, bela donzela.* (O caça-níquel abaixa a voz) *Vem aqui... quer fazer uma aposta?*}
+{316}{}{*Eu ainda estou aqui, docinho.* (O caça-níquel abaixa a voz) *Você é um garotão, sabia? Vamos lá... quer colocar algumas moedas dentro de mim?*}
+{317}{}{Queeeem É voxêeee?}
+{318}{}{Clauro... ô vô fager uma apoxta em voxê}
+{319}{}{Acho melhor eu sair antes que eu coloque algo em você e me arrependa depois.}
+{320}{}{::Respirar fundo, sair.::}
+{325}{}{*Sou o seu homem ideal.* (O caça-níquel pisca pra você.) *Dê-me algumas moedas e eu te dou um prazer que nenhum homem JAMAIS te deu.*}
+{326}{}{*Sou a sua mulher ideal, docinho. Tudo o que quero é um pouco de atenção. Você pode me ajudar? Vamos lá, só uma moeda ou duas?*}
+{327}{}{Nósh não podemosh só conversá}
+{328}{}{Clauro... ô vô fager uma apoxta em voxê}
+{329}{}{Acho melhor eu sair antes que eu coloque algo em você e me arrependa depois.}
+{330}{}{::Respirar fundo, sair.::}
+{335}{}{*Claro que podemos, coração, claro que podemos.* (O caça-níquel parece compreensível.) *O que perturba a sua cabecinha?*}
+{336}{}{*Claro que podemos, docinho, claro que podemos.* (O caça-níquel parece compreensível) *O que está te perturbando, bonitão?* }
+{337}{}{Mim saudades de MAMÃE e de ARROYO e mim... não consegue acha o GECK e... *snif*}
+{338}{}{Mim saudades de MAMÃE e Arroyo foi ATACADA e mim... não sabe onde eles tão... e... *snif*}
+{339}{}{Mim precisa consertar barco gigante... e mim não sabe COMO... e mamãe SE FOI e... *snif*}
+{340}{}{Mim terminou o jogo... e agora só andar por aí... ter medo de ter acabado TUDO e... *snif*}
+{341}{}{É puquê esse Fauált doiz não shuporta minha placa 3D Fxxxx e eu gastei muito dinhêro nela e... *snif*}
+{342}{}{Eu tentei fazer um bom personage mas acho que gastei todos os pontus *errados*.. e agora eu tenho um personage cocô... e... *snif*}
+{343}{}{eu tô cunversando com um caça-níquel, eu tô muito mal das perna}
+{344}{}{::Respirar fundo, sair.::}
+{350}{}{*Isso, isso... não perturbe mais sua cabecinha por causa disso... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
+{351}{}{*Isso, isso... não se perturbe mais por conta disso, docinho... deixe que eu tomo conta de tudo... Vamos, descansse sua cabeça em mim. Isso mesmo. Jogue tudo pra fora.*}
+{352}{}{Valeu, caça-níco *snif* 'cê é legal}
+{353}{}{'Cêeee é a peshoa mais legal que eu já cunheci... todos os otro só qué me MACHUCÁ e roubá meu dinhêro e... *snif*}
+{354}{}{::Respirar fundo, sair.::}
+{360}{}{(Você descansa sua cabeça deprimida na máquina.)}
+{361}{}{*Você vai bem, certo, coração? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
+{362}{}{*Você vai bem, certo, docinho? Eu não me sinto bem em deixar você sair sozinho dessa maneira.*}
+{363}{}{Ô vô ficar bem... 'cê foi legal em cunversá cumigo, caça-nico, ô te amo}
+{370}{}{(Uma lágrima parece se formar em uma das janelas.)}
+{371}{}{*Você é a única heroína que nós temos nesse mundo de desgraçados e bandidos, }
+{372}{}{. Tome cuidado agora, entendeu, coração?* (O caça-níquel se vira) *É melho você ir antes que eu comece a agir covardemente.*}
+{373}{}{*Você é o único herói que nós temos nesse mundo de desgraçados e bandidos, }
+{374}{}{. tom... tom... tome cuidado agora, entendeu, docinho?* (O caça-níquel se vira) * É melhor você ir antes que eu comece a soluçar.*}
+{375}{}{Shaaauuuu}
+{380}{}{Você vê um caça-níquel de apostas altas - a aposta mínima é de }
+{381}{}{ moedas. Suas brilhantes placas e a manivela dourada te seduzem, misturadas às luzes de New Reno. O buraco de moedas te atrai e você sente seu rosto derreter de expectativas.}
+{382}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem, docinho... isso mesmo... vem agora...*}
+{383}{}{(Sua mão estremece quando você pega suas moedas. A máquina continua suspirando pra você.) *Vem aqui, docinho... isso mesmo... segure a manivela... puxe com força... vem agora...*}
+{384}{}{Você tem }
+{385}{}{ moedas sobrando. Arriscar tudo?}
+{386}{}{Você tem }
+{387}{}{ moedas. Apostar }
+{388}{}{ moedas?}
+{389}{}{Apostar }
+{390}{}{ moedas?}
+{391}{}{Isso que é noite!}
 {392}{}{Liga-o por um dia.}
-{400}{}{The chamber spin, and... come up nothing.}
-{401}{}{NOTHING. NOTHING! You hear her laughing, and you become enraged... the Bouncers are forced to pry your screaming body off the machine.)}
-{402}{}{(The machine chuckles.) *I got what I want out of this relationship. Sorry, sweetheart. Don't let the casino door hit you in the ass on the way out. Ha ha ha ha ha ha.*}
-{403}{}{You now have }
-{404}{}{ chips remaining. Chase your losses and keep playing?}
-{405}{}{You have }
-{406}{}{ chips left. Risk it all?}
-{407}{}{You can't afford to play any more. You are forced to call it a night.}
-{408}{}{You can't afford to play any more. You are forced to call it a day.}
-{409}{}{Call it a night.}
+{400}{}{As roletas giram e... nada.}
+{401}{}{NADA. NADA! Você a escuta dar gargalhandas e você começa a se enfurecer... os Bouncers são forçados a retirar seu corpo gritante da máquina}
+{402}{}{(A máquina ri.) *Eu tenho tudo o que quis desse relacionamento. Desculpe, docinho. Não deixe a porta do cassino bater na sua bunda quando estiver saindo. Ha ha ha ha ha ha.*}
+{403}{}{Agora você tem }
+{404}{}{ moedas sobrando. Esquecer as perdas e continuar jogando?}
+{405}{}{Você tem }
+{406}{}{ moedas sobrando. Arriscar tudo?}
+{407}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite."}
+{408}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
+{409}{}{Isso que é noite!}
 {410}{}{Liga-o por um dia.}
-{415}{}{Three bombs... you break even.}
-{416}{}{(The machine continues to whisper at you.) *Come on, sugar... it happens to every one at least once... try again... please...*}
-{417}{}{(The machine continues to whisper at you.) *Come on, sweetheart... try it again... grab the handle... grip it firmly... come on now...*}
-{418}{}{You still have }
-{419}{}{ chips. Keep playing?}
-{420}{}{Call it a night.}
+{415}{}{Três bombas... você ganhou a mesma quantidade que apostou.}
+{416}{}{(A máquina continua suspirando pra você.) *Vamos, docinho... isso acontece com todo mundo uma vez... tente de novo... por favor…*}
+{417}{}{(A máquina continua suspirando pra você.) *Vamos, coração... tente de novo... segura a alavanca... puxe com força... vamos lá…*}
+{418}{}{Você ainda tem }
+{419}{}{ moedas. Continuar jogando?}
+{420}{}{Isso que é noite!}
 {421}{}{Liga-o por um dia.}
-{425}{}{Three Nukes! You double your money!}
-{426}{}{(The machine gives a gasp of pleasure.) *That's it, sugah... keep pulling the handle... faster, harder, faster... come on now...*}
-{427}{}{(The machine gives a groan of pleasure.) *That's it, sweetheart... keep pulling the handle... faster, harder, faster... come on now...*}
-{428}{}{You now have }
-{429}{}{ chips! Keep playing?}
-{430}{}{Call it a night.}
+{425}{}{Três explosões! Você duplicou o seu dinheiro!}
+{426}{}{(A máquina dá uma cospida de prazer.) *Isso mesmo, docinho... continue puxando... mais rápido, forte, rápido... vamos lá...*}
+{427}{}{(A máquina dá um gemido de prazer.) *Isso mesmo, coração... continue puxando... mais rápido, forte, rápido...vamos lá...*}
+{428}{}{Agora você tem }
+{429}{}{ moedas! Continuar jogando?}
+{430}{}{Isso que é noite!}
 {431}{}{Liga-o por um dia.}
-{435}{}{Three Mushroom Clouds! You triple your money!}
-{436}{}{(The machine squeals in pleasure as the chips clatter into the tray.) *Aieeeeee! That's it, sugah! Oh god, yes! Yes! Yes, Again! Faster! Harder! What are you waiting for?! Again!*}
-{437}{}{(The machine grunts in pleasure as the chips clatter into the tray.) *Ennnnghhhh! That's it, sweetheart! Who's your Daddy?! Who's your Daddy?!! Do it again! Yank it harder this time! Harder!*}
-{438}{}{Do a victory dance, gyrating your hips and throwing your arms up in the air, then take a deep breath and keep playing.}
-{439}{}{C'mon mushroom clouds! Baby needs a new pair of shoes! (Keep playing.)}
-{440}{}{You now have }
-{441}{}{ chips. Keep playing?}
-{442}{}{Call it a night.}
+{435}{}{Três Nuvens de Cogumelo! Você triplicou o seu dinheiro!}
+{436}{}{(A máquina grita de prazer enquanto as moedas caem.) *Aaaaaaah! Isso mesmo, docinho! Oh! Sim! Sim, de novo! Mais rápido! Mais forte! O que está esperando?! De novo!*}
+{437}{}{(A máquina grunhe de prazer enquanto as moedas caem.) *Ennnnghhhh! Isso mesmo, coração! Quem é o papai?! Quem é o papai?! Faça de novo! Puxe mais forte dessa vez! Mais forte!*}
+{438}{}{Fazer uma dança da vitória, girando seu quadril e jogando os braços pra cima. Respirar fundo e continuar jogando.}
+{439}{}{Vamos lá, nuvens de cogumelo! Eu preciso de um par de sapatos novos! (continuar jogando)}
+{440}{}{Agora você tem }
+{441}{}{ moedas. Continuar jogando?}
+{442}{}{Isso que é noite!}
 {443}{}{Liga-o por um dia.}
-{1000}{}{The odds don't seem quite right.}
-{1001}{}{Odds look right.}
-{1005}{}{You can't gauge the odds for certain.}
-{1006}{}{Odds seem to be about right.}
-{1010}{}{The odds seem right.}
-{1011}{}{The odds don't seem right.}
-{1015}{}{The odds seem right.}
-{1016}{}{The odds don't seem right.}
+{1000}{}{As chances não são boas.}
+{1001}{}{As chances são boas.}
+{1005}{}{Você não consegue calcular suas chances com certeza.}
+{1006}{}{As chances parecem ser quase boas.}
+{1010}{}{As chances são boas.}
+{1011}{}{As chances não são boas.}
+{1015}{}{As chances são boas.}
+{1016}{}{As chances não são boas.}

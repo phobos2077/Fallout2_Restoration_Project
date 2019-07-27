@@ -10,7 +10,7 @@
 {203}{}{Glare back at 'im}
 {204}{}{ lost car. }
 {205}{}{Cody, can you take }
-{206}{}{Wander off}
+{206}{}{Cai fora}
 {207}{}{Hey, Cody. You all right? You want something to eat maybe?}
 {208}{}{Hey, Cody. You thirsty? Want something to drink?}
 {209}{}{Where are your parents?}

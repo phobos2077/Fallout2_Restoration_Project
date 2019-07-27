@@ -5,7 +5,7 @@
 {104}{}{Você vê um terminal.}
 {105}{}{You see the Vault City Allocation Computer.}
 {106}{}{This is the computer the Pip-Boy said to use.}
-{107}{}{Nothing happens.}
+{107}{}{Nada acontece.}
 {108}{}{With the help of the information on your Pip-Boy, you access the computer.}
 {109}{}{Whoa.}
 {110}{}{You have learned TONS of information about Fallout 2.}

@@ -1,11 +1,9 @@
-{100}{}{Vidíš osobu s ošklivì popálenou kùží.}
-{101}{}{Vidíš ghoula, obèana Gecka.}
+{100}{}{Vidíš osobu, jejíž pokožka byla velmi škaredì popálena.}
+{101}{}{Vidíš ghoulího obèana Gecka.}
 {102}{}{Vidíš osobu s kùží spálenou radiací. Takovou radiací, která by byla schopná zabít, ale jemu to evidentnì nic nedìlá.}
-
 {110}{}{Osoba, kterou vidíš, slabì svìtélkuje. Jeho kùže se zdá být tìžce popálená.}
 {111}{}{Vidíš Záøícího, obèana Gecka.}
 {112}{}{Vidíš nìkoho, kdo byl vystaven tak silné radiaci, že slabì svìtélkuje. Tak silná radiace by mìla èlovìka zabít, ale zdá se, že jemu to nevadí.}
-
 {120}{}{Díky za zachránu pøed Vault City.}
 {121}{}{Nebýt tebe, tak by nás ti fanatici z Vault City urèitì zabili.}
 {122}{}{Jsi hrdina.}
@@ -19,23 +17,21 @@
 {130}{}{Díky za pomoc.}
 {131}{}{Jsi nejlepší. Díky.}
 {132}{}{Dost dobrý na hezouna.}
-
 {140}{}{Nazdar, mùj hezouèký pøíteli.}
 {141}{}{Vítej v Gecku.}
 {142}{}{Nazdar pøíteli.}
 {143}{}{Nejsi jako ostatní hezouni.}
 {144}{}{Je v pustinì nìco zajímavýho?}
-{145}{}{Nazdar.}
+{145}{}{Zdravím.}
 {146}{}{Dobrý den, pøíteli.}
 {147}{}{Díky našemu atomovému reaktoru záøím hrdostí.}
 {148}{}{Využíváme tady atomovou energii.}
 {149}{}{Jednou budou i ostatní schopni využívat naši energii.}
 {150}{}{Jsem rád, že ne všichni hezouni jsou jako ti z Vault City. }
 {151}{}{Kdyby lidi z Vault City byli jako ty, nemìli bysme s nimi žádný problémy.}
-
 {160}{}{Hmmph, další proradný hezoun.}
 {161}{}{Nazdar hezoune.}
-{162}{}{Nazdar.}
+{162}{}{Nazdárek.}
 {163}{}{Jak je?}
 {164}{}{Dokud jsi ve mìstì, chovej se slušnì.}
 {165}{}{Pøicházíš z daleka?}
@@ -43,7 +39,6 @@
 {167}{}{Jsme tolerantní, ale ne pitomí, hezoune.}
 {168}{}{Vyhýbej se Vault City. Tamní lidi jsou pìkný parchanti.}
 {169}{}{Nazdar. V poslední dobì je pìknì sucho.}
-
 {180}{}{V poslední dobì je dost sucho.}
 {181}{}{K èertu s tím vším plevelem.}
 {182}{}{Myslím, že má náš atomový reaktor špatný vliv na úrodu.}
@@ -54,7 +49,6 @@
 {187}{}{Zelenina je zdravá.}
 {188}{}{Už se blíží sklizeò.}
 {189}{}{Urèitì by trochu víc deštì neuškodilo.}
-
 {200}{}{Musím dohlídnout na ty brahmíny.}
 {201}{}{Ty brahmíny jsou roztomilé. Nechci je zabít.}
 {202}{}{Hroznì se nudím.}
@@ -65,7 +59,6 @@
 {207}{}{Vèera v noci nìkdo jednu povalil.}
 {208}{}{Nìkterý jsou mnohem roztomilejší.}
 {209}{}{Hmm. Zajímalo by mì, proè na nich nikdo nejezdí.}
-
 {220}{}{Nazdar hezoune.}
 {221}{}{Kup nám panáka, hezoune.}
 {222}{}{Hergot, já mám ale žízeò.}
@@ -76,7 +69,6 @@
 {227}{}{Zazpíváme si písnièku.}
 {228}{}{...a potom hlavy dìlají co? Vùbec tomu Woozovi nerozumím.}
 {229}{}{Co je to jablko?}
-
 {240}{}{Na hezouna jsi dost milej.}
 {241}{}{Kup nám ještì jednu rundu, hezoune.}
 {242}{}{./~ Mám hroznou žízeò, mám hroznou žízeò…. ./~}
@@ -87,7 +79,6 @@
 {247}{}{Nìkdo by tady mìl zaèít šít obleèení.}
 {248}{}{Ááách, dobrý pivo.}
 {249}{}{Tohle pivo je vynikající. To je tou vodou... a dalšíma pøísadama.}
-
 {260}{}{Jsi ten nejlepší hezoun, kterýho jsem kdy poznal.}
 {261}{}{Ještì radio-džus! Ještì radio-džus!}
 {262}{}{Koupíš nám další, co hezoune?}
@@ -98,11 +89,10 @@
 {267}{}{Slyšel jsem, že je Chester špiónem Vault City.}
 {268}{}{Rád bych se Obrodil v hezouna.}
 {269}{}{Pøísahám, že jsem v noci vidìl nad námi létat nìjaký vìci.}
-
 {280}{}{Miluju tì, èlovìèe.}
 {281}{}{Jsi nejlepší.}
 {282}{}{Poøádnì jsi to Vault City nandal!}
-{283}{}{./~ 99 støíkaèek RadAway na zdi, 99 støíkaèek... ./~}
+{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
 {284}{}{./~ Pracuju na re-ak-toru celý svùj život... ./~}
 {285}{}{Dokud jsem tì nepoznal, nikdy jsem žádnýmu hezounovi nevìøil.}
 {286}{}{Myslím, že nìkteøí hezouni jsou pøece jenom v pohodì.}
@@ -111,7 +101,6 @@
 {289}{}{Jsem moc rád, že náš reaktor bìží.}
 {290}{}{Asi jsem fakt opilej, protože zaèínám chápat Wooze.}
 {291}{}{Myslím, že jsem jednou vidìl jablko... nebo to byl banán?}
-
 {300}{}{Reaktor pracuje tak dobøe, že je doslova slyšet, jak si pøede.}
 {301}{}{Díky za vyøešení tý záležitosti s Vault City.}
 {302}{}{Teï budeme mít spoustu energie.}
@@ -122,7 +111,6 @@
 {307}{}{Díky za opravu našeho atomového reaktoru.}
 {308}{}{Reaktor si pìknì pøede a tak to má být. Díky.}
 {309}{}{Jsi ten nejlepší hezoun, kterýho jsem kdy poznal.}
-
 {320}{}{Obrození, kamaráde. Obrození!}
 {321}{}{Jsi jeden z nás.}
 {322}{}{Ahoj, kamaráde. Obrození je už blízko.}
@@ -133,7 +121,6 @@
 {327}{}{Já ti ukážu Obrození, kámo.}
 {328}{}{Není dne, abych nenarazil na dalšího zatracenýho kultistu.}
 {329}{}{Nikdy nebudu uctívat nìjakou pøerostlou krysu.}
-
 {340}{}{Mìl bys s tím zranìním jít za Lennym.}
 {341}{}{Vypadáš pìknì pomlácenì. Jdi za Lennym.}
 {342}{}{Nemìl by sis zahrávat s páraèem. Jdi za Lennym.}

@@ -5,7 +5,7 @@
 {202}{}{Ullo box me }
 {203}{}{ Hoo you?}
 {204}{}{Twist its nose}
-{205}{}{Wander off}
+{205}{}{Cai fora}
 {206}{}{Hmmmm. Maybe the numbers on these three dog tags can open the safe...}
 {207}{}{Spin the dial, listen for clicking noises.}
 {208}{}{Spin the dial randomly.}
@@ -16,7 +16,7 @@
 {222}{}{The nose turns in your hand! It looks like you could pull open the face if you wanted to.}
 {223}{}{The big metal square thing looks like it can be opened.}
 {224}{}{Open the face}
-{225}{}{Wander off}
+{225}{}{Cai fora}
 {226}{}{Loot the safe.}
 {227}{}{Leave the safe alone.}
 {235}{}{Close inspection of the safe reveals a black wire running into the dirt just beneath the safe. Brushing away the dirt, you discover that the fuse runs to a stick of dynamite with a timer on it.}
@@ -44,7 +44,7 @@
 {306}{}{You spin the dial for several minutes, and nothing happens.}
 {307}{}{Hulllooo? Hulllo box...}
 {308}{}{Keep twisting its nose.}
-{309}{}{Wander off}
+{309}{}{Cai fora}
 {310}{}{Hmmmm. Maybe the numbers on these three dog tags can open the safe...}
 {311}{}{Spin the dial, listen for clicking noises.}
 {312}{}{Keep spinning the dial randomly.}
@@ -55,7 +55,7 @@
 {323}{}{Helloooooo? Me }
 {324}{}{ Hoo yoo?}
 {325}{}{Twist its nose}
-{326}{}{Wander off}
+{326}{}{Cai fora}
 {340}{}{With surgical precision, you disarm the fuse and pull the dynamite from beneath the dirt. The trap is now disarmed.}
 {341}{}{Now to crack this safe...}
 {342}{}{Leave the safe alone.}

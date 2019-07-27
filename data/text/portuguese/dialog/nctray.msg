@@ -41,7 +41,7 @@
 {279}{}{}
 {280}{}{ go where }
 {281}{}{ go}
-{282}{}{Wander off}
+{282}{}{Cai fora}
 {283}{}{Where did you get that Highwayman? I like the look of it.}
 {284}{}{That car you have in the garage belongs to me.}
 {285}{}{You the one who stole my car, asshole?}
@@ -54,8 +54,8 @@
 {300}{}{Man, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
 {301}{}{Girl, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
 {302}{}{You wanna GO? Here? Well... (Looks you up and down) ...a man's gotta do who a man's gotta do. Let's get down to bitness.}
-{303}{}{Uh-huh}
-{304}{}{Nuh-uh}
+{303}{}{hã-ham.}
+{304}{}{hã-hã}
 {306}{}{Get down to business.}
 {307}{}{Uh, no thanks. I've changed my mind. Good-bye.}
 {320}{}{Aiight then...}
@@ -110,7 +110,7 @@
 {456}{}{Let's get to it, then.}
 {457}{}{Screw negotiating. Give me MY car back, right now. Or else.}
 {458}{}{I've changed my mind. I think I'm just going to kill you instead.}
-{459}{}{Forget it. I'm leaving.}
+{459}{}{Esqueça. Estou indo.}
 {470}{}{Look, why are you wasting my time? If you ain't got the chips, then you ain't got no business here. I got better
  things to do than be talking to your cheap ass.}
 {471}{}{Only thing that's cheap in here is your life. I'll leave you in one piece if you give me back MY car right now.}
@@ -258,7 +258,7 @@
  about what he owes you. He respects men like that.}
 {855}{}{(T-Ray's smile fades.) Aiight... sure, sure... not a problem.}
 {856}{}{Excellent. Give me all the batteries you have in stock right now.}
-{857}{}{(Leave.)}
+{857}{}{(Vai embora.)}
 {865}{}{I will, I will... hey, you tell your boss he can buy batteries from me, too. I keep finding new ones every day round here.}
 {866}{}{Really? Let me see what you have in stock.}
 {875}{}{We ain't got any batteries right now; most of the cars we've stripped ain't turned up shit. Give us a week or two, aiight?}

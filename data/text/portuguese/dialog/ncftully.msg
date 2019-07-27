@@ -50,7 +50,7 @@
 {258}{}{Are you drunk?}
 {259}{}{'Father' Tully, huh? Can you do divorces?}
 {261}{}{Say, I brought some hootch, Father. Can we talk for a moment...?}
-{262}{}{Nothing. Sorry to bother you.}
+{262}{}{Nada. Desculpe por atrapalhar.}
 {270}{}{(Sniffs his armpits, then his robes.) My word, I sure smell strongly, don't I? Damnation, I smell like a still!
  Better get clean 'fore Missuz Wright catchez me...}
 {271}{}{Bye bye pee pee man}
@@ -210,12 +210,12 @@
  outta you, she can... uh, but... what in hell waz I saying?}
 {691}{}{About Missus Wright in the confessional...}
 {692}{}{You were talking about the Wright Family...}
-{693}{}{Nevermind. I had some other questions...}
+{693}{}{Esqueça. Eu tenho outras perguntas…}
 {694}{}{Nothing much more, I think. Thanks for talking with me.}
 {700}{}{Oh, right, right. Well, uh, in th' confessional, she ain't got much t'say. Mostly guilt 'bout stepping on bugs... or 'bout
  enjoying sex with her hubbie too much. Heh-heh. (Takes a swig.) I looove guilt.}
 {701}{}{I had some other questions about the Wrights...}
-{702}{}{I see. I had some other questions...}
+{702}{}{Entendo. Eu tenho outras perguntas...}
 {703}{}{It shows. Thanks for talking with me.}
 {710}{}{Oul' Orville? Well, he's got a lotta guilt on his shoulders. See, he promised th' Missus he'd quit the alcohol biz, but
  he has a secret still in th' train station behind th' house! She'll beat him uglier than he is if she finds it...}
@@ -283,7 +283,7 @@
 {842}{}{Hmmmm. Tank of oxygen, huh? Interesting. Well, thanks for talking with me, Father.}
 {850}{}{That poor boy... Jet took him from his family, it did. That damnable stuff! Worst mind poison ever made...}
 {852}{}{Do you know where Richard got the Jet that killed him?}
-{853}{}{I had some other questions...}
+{853}{}{Eu tenho mais algumas perguntas...}
 {854}{}{I see. Thanks for talking with me, Father.}
 {860}{}{He coulda gotten it from anyone in New Reno! There's a pharmacy jest cross th' street run by a drug dealer, and if
  he's not selling, stop an' ask anyone on th' street! Damn Jet!}

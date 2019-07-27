@@ -1,15 +1,14 @@
 {100}{}{Poèítaèový terminál.}
 {101}{}{Zdá se, že na tomto poèítaèi je pøimontována kamera.}
-{102}{}{Nedokážeš pøeèíst text na obrazovce.}
+{102}{}{Obrazovka je pro tebe zcela neèitelná.}
 {103}{}{(Nasmìrovala se na tebe miniaturní kamera.)                   Skynet - Bezpeènostní systém                                  Obcházím bezpeènostní terminál - Patro 3                Získávám osobní data - desátník Dixon                   Neshoduje se                                                          Kdo... jsi...?}
-
 {104}{}{}
 {105}{}{}
 {106}{}{}
 {107}{}{}
 {108}{}{}
 {109}{}{Co to... a kdo jsi k èertu ty?}
-{110}{}{Jsem desátník Dixon.}
+{110}{}{Jsem poruèík Dixon.}
 {111}{}{Jsem }
 {112}{}{Eh!}
 {113}{}{(Nedokážeš pøeèíst text na obrazovce.)}
@@ -43,9 +42,8 @@
 {141}{}{}
 {142}{}{}
 {143}{}{Konec.}
-
-{200}{}{ nedokáže pøeèíst co je na obrazovce.}
-{300}{}{Tenhle poèítaè má jakýsi druh obranného mechanismu.}
-{301}{}{Jsi zasažen za }
-{302}{}{ je zasažen za }
+{200}{}{ nedokáže pøeèíst text na monitoru.}
+{300}{}{Vypadá to, že je v poèítaèi nìjaký obranný mechanismus.}
+{301}{}{Dostáváš ránu a ztrácíš }
+{302}{}{ dostává ránu a ztrácí }
 {303}{}{ hit bodù.}

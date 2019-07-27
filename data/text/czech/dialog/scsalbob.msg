@@ -8,7 +8,7 @@
 {107}{}{Jak e se to jmenuješ, cizinèe? Já jsem Slaneèek Bob.}
 {108}{}{[Jméno hráèe]}
 {109}{}{Slaneèek? Co to je za jméno?}
-{110}{}{Co tady dìláš?}
+{110}{}{Co tu dìláš?}
 {111}{}{To je pìknı jméno. Heleï, nemáš náhodou nìco k pití, paráku?}
 {112}{}{Ano.}
 {113}{}{Ne.}
@@ -19,7 +19,7 @@
 {118}{}{Øííííh!}
 {119}{}{V klidu, paráku! Jen se tak ptám, víš? Tak já tì radši nechám bejt.}
 {120}{}{(Glo, glo, glo.) Ááááách! To bylo od tebe fakt milı, cizinèe! Jseš fakt fajn èlovìk. Takovej èlovìk, kterıho by mìl mít kadej za kámoše. (Glo.) U jsem ti povídal o svım velkım ivotním úspìchu?}
-{121}{}{Ne.}
+{121}{}{Ne?}
 {122}{}{Hele, ne abys mi to všechno vychlastal!}
 {123}{}{Rahhhg!}
 {124}{}{Bylo to v '78 a já a Bessie, nejlepší robot, kterej kdy byl vytvoøenej, jsme provádìli u-ra-ni-ovej prùzkum západnì odsud. Nenarazili jsme ani na jeden kousek uranu, co by stál aspoò za zlámanej cent, kdy nás najednou pøepadlo pìt - ne, jsem si jistej, e to bylo deset - páraèù.}
@@ -28,7 +28,6 @@
 {127}{}{Narazil jsem na takovı obrovskı vstupní dveøe, co vypadaly podobnì jako ty ve starejch instruktáních filmech. Velikı a celı z ocele. A na nich byla vyrytá veliká tøináctka!}
 {128}{}{Bylo mi hned jasnı, e jsem našel nìco dùleitıho, Vault 13. Sedl jsem si a udìlal mapku. Skoro jsem chcípnul, kdy jsem se odtamtud snail proplíit kolem páraèù. A pak ještì to pouštní slunce a ádná voda.}
 {129}{}{Kdy jsem se koneènì dopotácel do Shady Sands, byl jsem u skoro mrtvej. Vzali mì k doktorovi, kterej mì dal dokupy, ale ukradl mi moji mapku. Vím to, ale neøešil jsem to.}
-# took this out -- Got anymore o' that drink, stranger?
 {130}{}{(Pokraèovat)}
 {131}{}{To je pøece sakra dobrı a poctivı jméno! Chlapci mì obèas nechaj nìco uvaøit a kdybys nebyl takovej ignorant, vìdìl bys to a taky bys vìdìl, e máš respektovat starší lidi.}
 {132}{}{Tak promiò, staøíku, nechtìl jsem tì rozèílit.}

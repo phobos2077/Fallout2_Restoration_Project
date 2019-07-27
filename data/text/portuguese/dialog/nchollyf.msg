@@ -1,4 +1,4 @@
-{100}{}{You see a boxer.}
+{100}{}{Você vê um boxeador.}
 {101}{}{You see Evan Hollyfeld.}
 {150}{}{You see a squat black man with a thick square jaw. His ears look like they have been horribly savaged.}
 {151}{}{His ears look like they have been horribly savaged.}

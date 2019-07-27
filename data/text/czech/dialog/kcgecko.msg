@@ -1,7 +1,6 @@
 {100}{}{Vidíš špinavého lovce.}
 {101}{}{Vidíš statného lovce.}
 {102}{}{Vidíš lovce geckonù.}
-
 {200}{}{Ty sem dobøe zapadneš.}
 {201}{}{Nechceš nám koupit rundu pití?}
 {202}{}{Pøišel sis dát páku s Duntonovejma?}
@@ -27,7 +26,6 @@
 {222}{}{V kaòonu na východì je nìjakej duch.}
 {223}{}{Lov je nebezpeènej. Pøed pár týdny se ztratil dobrej lovec.}
 {224}{}{Rád si støílím z toho hòupa Torra.}
-
 {300}{}{Podívejme, kdo se pøišel podívat.}
 {301}{}{(mumly, mumly) ...koho nám to sem èerti nesou... (mumly)}
 {302}{}{Nezdá se ti, že jseš tady špatnì?}
@@ -40,7 +38,7 @@
 {309}{}{Tvoje maminka tu není chlapèe. Zkus zajít do lázní.}
 {310}{}{Jdi si hrát nìkam jinam.}
 {311}{}{Máme tu pro tebe takový hezký kaòon na východ odsud.}
-{312}{}{Co tady chceš?}
+{312}{}{Co chceš?}
 {313}{}{Bude lepší, když si budeš hledìt svýho.}
 {314}{}{Nejmenuješ se náhodou taky Torr? (hehehe)}
 {315}{}{Jdi chlastat s Aldem, jo?}

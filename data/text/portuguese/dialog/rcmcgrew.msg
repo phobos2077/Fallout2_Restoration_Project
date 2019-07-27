@@ -10,7 +10,7 @@
  for you?}
 {109}{}{What do you need from me?}
 {110}{}{What do you mine here?}
-{111}{}{Have you ever heard of something called a Garden of Eden Creation Kit?}
+{111}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {112}{}{Why do they call you *Dangerous* Dan McGrew?}
 {113}{}{What's going on here in town lately?}
 {114}{}{I was just moving through. Goodbye.}
@@ -19,7 +19,7 @@
  independent.}
 {116}{}{Nice to be so well liked. Let me ask you about something else.}
 {117}{}{I'd think that someone would try to control Redding.}
-{118}{}{Thanks for the information. Goodbye.}
+{118}{}{Obrigado pela informação. Adeus.}
 {119}{}{What makes you think they haven't? Everybody would like to have Redding under their belt. My
  guess is that someone will get us pretty soon. About the only thing we can do is choose our master, if
  we want to survive.}

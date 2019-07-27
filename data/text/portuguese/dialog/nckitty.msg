@@ -26,7 +26,7 @@
 {229}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no
  idea what they are. I have one right here.}
 {230}{}{Here's that collection of Cat's Paw magazines you asked for.}
-{231}{}{Nothing today, thanks.}
+{231}{}{Nada por hoje, valeu.}
 {240}{}{(The pretty lady puts the palm of her hand on your forehead.) Oh, you poor thing... you can stay in here
  for a little while to get in from the heat, but you can't be here too long, okay? Promise me now.}
 {241}{}{Okayy, pretty ladee fank you}
@@ -57,7 +57,7 @@
 {278}{}{I'd like a full upper and lower body workout.}
 {279}{}{Is it okay if I just, you know, talk with them?}
 {280}{}{I have a special... dramatic... request.}
-{290}{}{All right then. }
+{290}{}{Tudo bem, então. }
 {291}{}{(Winks.) That'll be no charge.}
 {292}{}{That'll be }
 {293}{}{Done. Here's the money.}
@@ -113,7 +113,7 @@
 {409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
 {420}{}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you... }
 {421}{}{(Looks your companion up and down, nods.) I think we can accommodate you... }
-{422}{}{ chips.}
+{422}{}{ pratas.}
 {423}{}{Don't worry about the money. There's no charge.}
 {424}{}{Okay. Here you go.}
 {425}{}{Can't argue with that price. Done.}
@@ -152,7 +152,7 @@
 {502}{}{Okay. Are you sure you can get that stain out? It looks glued in there pretty tight.}
 {510}{}{Happens all the time around here...(Miss Kitty starts cleaning the magazine.)...mostly to the sheets. That
  should do it...(Holds it up.)...good issue - has an article on energy weapons, it looks like. Here you go.}
-{511}{}{I had some other questions...}
+{511}{}{Eu tenho mais algumas perguntas...}
 {512}{}{An article on energy weapons? Thanks. I might read it later on.}
 {520}{}{(As you speak, she looks up, startled.) You! You came back! I... I thought you might be dead. (She looks
  relieved.) I was so *worried.* Risking your life, taking on the Enclave... that's the bravest thing I've ever heard.}
@@ -190,7 +190,7 @@
 {585}{}{(Nods.) Yes, that's correct. We usually have to train them extensively to suppress their natural
  revulsion. It's almost a rite of passage now. Still, if a girl can abide Myron, it means she's tough...}
 {586}{}{I'd like to meet him. Think I could volunteer to be his next "choice?"}
-{587}{}{I see. I had some other questions...}
+{587}{}{Entendo. Eu tenho outras perguntas...}
 {588}{}{Hmmmm. Thanks for the information.}
 {595}{}{(Studies you, then makes a circling gesture with her finger.) Turn around for me. Hmmmm... }
 {596}{}{no, I don't think you'd make the cut. Maybe if you cleaned yourself up a little more, made
