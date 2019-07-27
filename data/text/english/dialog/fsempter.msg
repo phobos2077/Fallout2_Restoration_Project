@@ -1,6 +1,3 @@
-#{100}{}{You see a powerful computer.} //This is for the computer object itself
-#{101}{}{You see the Emperor Computer.}
-#{102}{}{You see a large, humming, fully functional computer that has "Emperor v8.8" stamped into its lower casing.}
 {100}{}{You see a computer terminal.}
 {101}{}{You see the Emperor Computer terminal.}
 {102}{}{You see a computer with a built-in touch screen for its interface. Engraved on the side is "Emperor v8.8 Computer Terminal".}

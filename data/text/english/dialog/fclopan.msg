@@ -82,7 +82,6 @@
 {201}{}{Look, I don't appreciate anyone taking my things, so go steal someone else's. Leave now.}
 {202}{}{I warned you to leave, not to die. Oh well.}
 {203}{}{It appears that you need no more training from me.}
-#{203}{}{You already took the test of the Dragon!}
 
 {204}{}{I am done training today. Return tomorrow.}
 
