@@ -1,0 +1,2 @@
+{100}{}{Vstupuješ do pøístavní èásti San Francisca. Pøed sebou vidíš mohutný ropný tanker a v dáli je slyšet køik rackù létajících na obloze.}
+{200}{}{Podaøilo se ti zneškodnit ponorku a tím tak uložit vìèného strážce San Francisca k odpoèinku.}

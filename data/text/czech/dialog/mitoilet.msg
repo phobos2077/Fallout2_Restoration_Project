@@ -1,0 +1,1 @@
+{100}{}{Všimneš si žebøíku vedoucího dolù do díry.}

@@ -1,0 +1,2 @@
+{100}{}{Používáte Killapùv Fallout 2 Restoration Project v èeštinì. Verze 2.3.3. Dìkujeme za instalaci!}
+{101}{}{Používáte Killapùv Fallout 2 Restoration Project v èeštinì. Verze 2.3.3. Dìkujeme za instalaci!}

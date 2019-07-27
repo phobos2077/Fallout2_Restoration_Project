@@ -1,0 +1,14 @@
+#
+#   Messages from skilldex.c
+#
+{100}{}{ POUŽÍT}
+{101}{}{ZRUŠIT}
+{102}{}{PLÍŽENÍ}
+{103}{}{PÁÈENÍ}
+{104}{}{KRADENÍ}
+{105}{}{PASTI}
+{106}{}{1.POMOC}
+{107}{}{LÉÈENÍ}
+{108}{}{VÌDU}
+{109}{}{OPRAVY}
+

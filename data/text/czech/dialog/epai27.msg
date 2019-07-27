@@ -1,0 +1,3 @@
+{100}{}{V haraburdí nenacházíš nic cenného. Možná kdybys tak vìdìl, co hledat...}
+{101}{}{Tady už nic užiteèného není.}
+{102}{}{Našel jsi potrhaný kousek papíru s nìèím, co vypadá jako heslo.}

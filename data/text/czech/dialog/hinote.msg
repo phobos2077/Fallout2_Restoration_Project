@@ -1,0 +1,2 @@
+{100}{}{"Zaius: Marcus neudìlá nic s tím odpùrcem mutantù Jacobem a jeho prokletým povstáním. Nejdøív vyøadili èistièku vzduchu... co bude pøíštì? Našel jsem tajný tunel, kde se scházejí. Myslím, že jedno nebo dvì tìla by mohla Jacoba usvìdèit. Jestli chceš vìdìt víc, víš, kde mì najdeš. A tentokrát tu blbou zprávu spal!" - Podepsán Francis}
+{101}{}{Panebože! Když o téhle zprávì øeknu Marcusovi, celý mìsto stane v plamenech. Radìji si o tom pùjdu promluvit se Zaiusem nebo Francisem... a zkusím zjistit nìco víc.}

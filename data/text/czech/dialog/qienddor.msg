@@ -1,0 +1,1 @@
+{100}{}{Nenapadá tì žádný zpùsob jak tyto dveøe otevøít.}

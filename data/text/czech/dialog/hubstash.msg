@@ -1,0 +1,1 @@
+{100}{}{Vstupuješ do odlehlé oblasti s mrtvou vegetací všude kolem. Pøed tebou stojí veliký bunkr.}

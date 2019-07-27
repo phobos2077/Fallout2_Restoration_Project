@@ -1,0 +1,21 @@
+{100}{}{Vidíš hlídacího psa.}
+{101}{}{Vidíš divokého psa.}
+
+{120}{}{Vidíš hlídacího psa.}
+{121}{}{Vidíš divokého psa.}
+
+{200}{}{:: VRRR ::}
+{201}{}{:: GRRR ::}
+{202}{}{:: RAF ::}
+
+{205}{}{Haf}
+{206}{}{Haf haf}
+
+{210}{}{Pes se zdá být dobøe vycvièen pro ostrahu kùlny.}
+{211}{}{Pejsek nemít rád já.}
+{212}{}{Hodná pejsek!}
+
+{250}{}{Zdá se, že kdyby chtìl, mohl by tì ten pes roztrhat na kusy.}
+
+#added by killap
+{300}{}{Zabil jsi všechny psy útoèící na brahmíny.}
