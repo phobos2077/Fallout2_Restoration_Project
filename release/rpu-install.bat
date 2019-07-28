@@ -1,4 +1,6 @@
-set bdir="backup\rpu"
+@echo off
+
+set "bdir=backup\rpu"
 
 mkdir %bdir%\data
 
@@ -23,3 +25,4 @@ for %%a in (%appearances%) do (
 )
 
 echo "RPU installed. Backup is in %bdir%"
+pause
