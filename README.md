@@ -6,7 +6,7 @@
 * [Download](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
 * [Installation](#installation)
 * [Reporting issues](#reporting-issues)
-* [Translations](https://tra.bgforge.net/projects/fallout/rp/)
+* [Translations](#translations)
 * [Discord](https://discord.gg/4Yqfggm)
 * [Changelog](docs/changelog.md)
 * [Credits](docs/credits.md)
