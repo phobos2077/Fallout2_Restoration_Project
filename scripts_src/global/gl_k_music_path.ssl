@@ -1,0 +1,14 @@
+#define NAME "gl_k_music_path"
+
+#include "..\headers\sfall\sfall.h"
+#include "..\headers\rpu.h"
+
+procedure start begin
+   // only change if both values are default
+   if get_ini_string("fallout2.cfg|sound|music_path1") == "data\\sound\\music\\" // backslashes need to be escaped
+   and get_ini_string("fallout2.cfg|sound|music_path2") == "data\\sound\\music\\"
+   then begin
+      set_ini_setting("fallout2.cfg|sound|music_path2", "sound\\music\\");
+      ndebug("changed music_path2 to sound\\music\\");
+   end
+end
