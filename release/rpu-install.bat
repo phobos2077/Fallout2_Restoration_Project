@@ -24,5 +24,5 @@ for %%a in (%appearances%) do (
   )
 )
 
-echo "RPU installed. Backup is in %bdir%"
+echo RPU installed. Backup is in %bdir%
 pause
