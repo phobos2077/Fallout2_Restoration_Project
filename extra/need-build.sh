@@ -10,7 +10,7 @@ if [[ -n "$TRAVIS_TAG" ]]; then
 fi
 
 TRAVIS_COMMIT_RANGE=${TRAVIS_COMMIT_RANGE:-}
-if git diff --name-only $TRAVIS_COMMIT_RANGE | grep -qv "data\|docs\|README.md\|release\|appearance" ; then
+if git diff --name-only $TRAVIS_COMMIT_RANGE | grep -qv "data\|docs\|README.md\|release\|appearance\|translations" ; then
   exit 0
 fi
 
