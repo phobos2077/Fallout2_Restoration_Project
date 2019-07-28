@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bdir="backup.rpu"
+bdir="backup/rpu"
 mkdir -p $bdir/data
 
 if [[ -f patch000.dat ]]; then
@@ -21,4 +21,4 @@ if [[ -d appearance ]]; then
   done
 fi
 
-echo "RPU installed."
+echo "RPU installed. Backup is in $bdir."
