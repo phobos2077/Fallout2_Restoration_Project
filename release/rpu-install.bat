@@ -2,7 +2,7 @@
 
 set "bdir=backup\rpu"
 
-mkdir %bdir%\data
+if not exist %bdir% mkdir %bdir%
 
 if exist patch000.dat (
   move patch000.dat %bdir%\
