@@ -36,4 +36,3 @@ deploy:
   on:
     tags: true
     branch: master
-  draft: true
