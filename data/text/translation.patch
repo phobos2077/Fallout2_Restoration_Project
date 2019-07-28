@@ -1,7 +1,7 @@
-diff --git a/data/text/english/game/editor.msg b/data/text/english/game/editor.msg
+diff --git a/english/game/editor.msg b/english/game/editor.msg
 index 0c291f14..cfbcbcc2 100644
---- a/data/text/english/game/editor.msg
-+++ b/data/text/english/game/editor.msg
+--- a/english/game/editor.msg
++++ b/english/game/editor.msg
 @@ -95,18 +95,18 @@
  #
  # Abbreviated Derived/Non Derived stat names
