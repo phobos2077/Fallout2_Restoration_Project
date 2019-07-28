@@ -1,12 +1,11 @@
 #!/bin/bash
 
 bdir="backup.rpu"
+mkdir -p $bdir/data
 
 if [[ -f patch000.dat ]]; then
   mv patch000.dat $bdir/
 fi
-
-mkdir -p $bdir/data
 
 # keep savegames, sound, character files
 for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
