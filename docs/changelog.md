@@ -1,9 +1,14 @@
 # Changelog
 
+- [Version 5](#version-5)
 - [Version 4](#version-4)
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+## Version 5
+
+Fixed more packaging artefacts.
 
 ## Version 4
 
