@@ -3,17 +3,17 @@
 {102}{}{Pelo rubio, ojos azules: el típico chico americano.}
 {150}{}{¡Buaaaaa!}
 {151}{}{¡Quiero mi perro!}
-{152}{}{Whimper...}
+{152}{}{Gimoteo...}
 {153}{}{¡Una extraña!}
 {154}{}{¡Laddie! Te he echado de menos, chico. Gracias por traerme de vuelta a mi perro.}
 {155}{}{Hola, no te he visto por aquí antes.}
 {156}{}{¿Te llamas Jonny?}
-{157}{}{What's your name little boy?}
+{157}{}{¿Cómo te llamas, pequeño?}
 {158}{}{Dime tu nombre, pequeño monstruo.}
 {159}{}{¿Quieres un caramelo, pequeño?}
 {160}{}{Hola de nuevo.}
 {161}{}{¿Te llamas Jonny?}
-{162}{}{What's your name little boy?}
+{162}{}{¿Cómo te llamas, pequeño?}
 {163}{}{Dime tu nombre, pequeño monstruo.}
 {164}{}{¿Quieres un caramelo, pequeño?}
 {165}{}{Hola de nuevo.}
@@ -29,13 +29,12 @@
 {175}{}{Me llamo }
 {176}{}{.}
 {177}{}{Mi nombre no es lo importante.}
-{178}{}{My name's Jonny and I don't like you.}
+{178}{}{Me llamo Jonny, y no me gustas.}
 {179}{}{[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!}
 {180}{}{Encantado de conocerte, }
 {181}{}{Tu madre y tu padre me han enviado a buscarte.}
 {182}{}{Ya nos veremos, chico.}
-{183}{}{That's swell! I wanted to go home, but Vegeir says his people can't travel that far above ground and
- couldn't take me... Not that I doubt you, but what's my father's name?}
+{183}{}{¡Que bien! Quería ir a casa, pero Vegeir dice que su gente no puede viajar tan lejos por la superficie y no podían llevarme... No es que dude de ti, pero ¿cómo se llama mi padre?}
 {184}{}{Farrel}
 {185}{}{Cornelius}
 {186}{}{Balthas}

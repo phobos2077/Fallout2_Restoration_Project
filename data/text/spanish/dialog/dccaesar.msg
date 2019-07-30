@@ -45,8 +45,7 @@
 {193}{}{Nada. Tengo que irme.}
 {195}{}{Es de un idioma antiguo, de antes de la guerra o algo así.}
 {196}{}{Metzger significa carnicero. Me pega, ¿no crees?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
+{197}{}{Era el nombre de mi bisabuelo. Vino de algún lugar al este. Más allá de un mar de agua.}
 {198}{}{Leí un libro acerca de un tal Metzger. Era un presidente, o algo así.}
 {199}{}{Mira quién habla, tribal.}
 {200}{}{Es Alemén, alemán, alamén, o algo así. Un idioma antiguo, de hace largo tiempo.}
@@ -54,8 +53,7 @@
 {202}{}{Ya veo. Aunque tengo más preguntas.}
 {203}{}{Esa es la cosa más estúpida que he oído nunca.}
 {204}{}{Fascinante. Me largo.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{205}{}{Nuestra misión es procurar de forma constante una fuerza de trabajo de gran calidad que sirva para manejar las siempre crecientes necesidades de las grandes ciudades. ¿Quieres unirte?}
 {206}{}{Claro. Suena bien.}
 {207}{}{Ni hablar.}
 {208}{}{Te responderé a eso más tarde. ¿Qué ciudades te compran esclavos?}

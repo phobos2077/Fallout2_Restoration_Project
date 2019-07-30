@@ -111,7 +111,7 @@ no alizar de porta.}
 {163}{}{Você verá uma porta velha com um cadeado.}
 {164}{}{Você verá uma porta danificada, sem aparente dispositivo de bloqueio.}
 {165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
-{166}{}{Você ativou a armadilha e foi atingido por }
+{166}{}{Você foi pego na armadilha e tomou }
 {167}{}{ pontos de dano.}
 {168}{}{ desencadeia a armadilha e foi atingido por  }
 {169}{}{ pontos de dano.}

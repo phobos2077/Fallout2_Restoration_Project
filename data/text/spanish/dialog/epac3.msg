@@ -8,7 +8,7 @@
 {211}{}{Supongo que sí. ¿Qué puedo hacer por ti?}
 {220}{}{Are you sure you won't have some toast?}
 {221}{}{NO! I don't want any toast. No muffins, no teacakes. No buns, baps, baguettes or bagels. No croissants, no crumpets, no pancakes, no potato cakes and definitely, no smegging flapjacks!!!}
-{230}{}{Ah! So you're a waffle man!}
+{230}{}{Oh! Asi que eres un hombre waffle!}
 {231}{}{Eh, ya he tenido suficiente.}
 {232}{}{[You smack your head in frustration.] I've got to be going. I... I just have to be somewhere. Anywhere other than here.}
 {240}{}{No, wait. I'm sorry. I'm not just a one-dimensional toast obsessed appliance. What can I do for you?}

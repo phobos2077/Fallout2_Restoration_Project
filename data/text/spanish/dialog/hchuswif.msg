@@ -9,7 +9,7 @@
 {108}{}{**Phhhhhhhttttttt**}
 {109}{}{Zaius, de la mina, dice que quizá tenga algún trabajo para mí el próximo mes.}
 {110}{}{¡Este lugar es un maldito estercolero! ¿Cuándo vas a ponerte a limpiar, mujer?}
-{111}{}{You got a real smart mouth on ya', woman!}
+{111}{}{¡Tienes la lengua muy larga, mujer!}
 {112}{}{Te quiero, bicho.}
 {113}{}{¿Quieres probar el revés de mi mano, ¿mujer?}
 {140}{}{¡Prepárate tu propio jodido plato, perezoso grano de pus!}

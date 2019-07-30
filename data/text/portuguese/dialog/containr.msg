@@ -126,7 +126,7 @@ que você poderá abrir.}
 {163}{}{Você vê um recipiente antigo com um bloqueio nele.}
 {164}{}{Você vê um antigo recipiente, sem aparente dispositivo de bloqueio.}
 {165}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado.}
-{166}{}{Você ativou a armadilha e foi atingido por }
+{166}{}{Você foi pego na armadilha e tomou }
 {167}{}{ pontos de dano.}
 {168}{}{ desencadeia a armadilha e foi atingido por  }
 {169}{}{ pontos de dano.}

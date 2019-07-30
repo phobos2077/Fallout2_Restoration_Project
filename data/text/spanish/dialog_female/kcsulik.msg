@@ -401,12 +401,12 @@
 {1023}{}{Nosotros no migos de mata-niños.}
 {1025}{}{Tú causar problemas en Klamath. Nosotros irnos.}
 {1026}{}{Tú causar problemas en mi pueblo natal. Nosotros irnos.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Los espíritus nos mueven.}
+{2301}{}{Nosotros y yo movernos.}
 {2302}{}{Vale, calmarte.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{No preocuparte, nosotros y yo movernos.}
 {2304}{}{Nosotros pensar que tu necesitas tiempo para oler las flores. Abuelo Hueso dice que tú ser demasiado agresiva. Tú deber tomarte la vida con más calma.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{Nosotros movernos al ritmo.}
 {2306}{}{Nosotros movernos allí ahora.}
 {2307}{}{Relájate, sé feliz, nosotros movernos ya.}
 {3000}{}{Al norte.}

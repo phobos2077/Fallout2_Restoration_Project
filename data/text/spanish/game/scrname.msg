@@ -1540,7 +1540,7 @@
 {1640}{}{power console}
 {1641}{}{torpedo console}
 {1642}{}{targeting console}
-{1643}{}{torpedo bay}
+{1643}{}{Bahia Torpedo}
 {1644}{}{sub hatch}
 {1645}{}{Guardia}
 {1646}{}{vertibird}
@@ -1549,7 +1549,7 @@
 {1649}{}{Old Caravan Guard}
 {1650}{}{Dr. Sheng}
 {1651}{}{Plant Creature}
-{1652}{}{Dr. Sheng's hideout}
+{1652}{}{Escondite del Dr. Sheng}
 {1653}{}{Puerta}
 {1654}{}{Puerta}
 {1655}{}{spatial}

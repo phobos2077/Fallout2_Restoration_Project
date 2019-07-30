@@ -37,7 +37,7 @@
 {142}{}{De acuerdo.}
 {143}{}{Entiendo.}
 {153}{}{¿Estás loco? ¿Cómo se te ocurre estar por aquí sin uniforme? ¡Rápido, vístete!}
-{154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{154}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
 {155}{}{¿Por qué no llevas puesto el uniforme?}
 {156}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
 {157}{}{¡Intrusos! ¡Avisad a los guardias!}

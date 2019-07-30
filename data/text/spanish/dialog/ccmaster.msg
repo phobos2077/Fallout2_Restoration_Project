@@ -15,11 +15,11 @@
 {114}{}{No.}
 {115}{}{¿Quién eres? ¿Qué estás haciendo aquí?}
 {116}{}{¿Qué?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Uh... ¿Soy nuevo aquí?}
 {118}{}{¡Peek-a-boo!}
 {119}{}{¿Quién eres? ¿Qué estás haciendo aquí?}
 {120}{}{¿Qué?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Uh... ¿Soy nuevo aquí?}
 {122}{}{¡Peek-a-boo!}
 {123}{}{¿Qué quieres decir? ¡El traje funciona bien! ¿Vas a firmar los papeles o no?}
 {124}{}{No entiendo una palabra de esto.}

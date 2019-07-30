@@ -60,8 +60,7 @@
  a instalarla.}
 {262}{}{Supongo que tienes razón. Será mejor que encuentre otra forma de instalar la pieza.}
 {270}{}{De acuerdo, aquí estoy. Pero sigo sin estar seguro de que esa sea la pieza adecuada, o de que no se trate de algún tipo de trampa. Verás, soy demasiado valioso como para correr riesgos. Tal vez debería dejar que algún otro hiciera esto... más tarde... mucho más tarde.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{Se tiene que hacer ahora. Y tú eres el único que puede hacerlo bien. ¡Venga, todo Gecko depende de ti!}
 {272}{}{Supongo que tienes razón. Será mejor que encuentre otra forma de instalar la pieza.}
 {300}{}{Bien, desde luego utiliza un montón de uranio. Y pierde otro montón. Verás, pedí a alguien para arreglarlo, pero nadie me escucha.}
 {301}{}{He oído que está filtrando radiación al agua subterránea. ¿Eso es cierto?}

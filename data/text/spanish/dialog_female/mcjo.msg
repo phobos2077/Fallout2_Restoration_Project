@@ -48,7 +48,7 @@
 {196}{}{Varios de nosotros estábamos cazando cuando descubrimos la nueva granja. Pero eso no fue lo extraño. Poco después, algunos de nosotros fuimos juntos a visitar a nuestros nuevos vecinos, sólo para descubrir que allí no había nadie.}
 {197}{}{Sigue.}
 {198}{}{Tras muchos meses de intentar contactar con los dueños sin éxito, se decidió que la granja debía haber sido abandonada poco después de ser construida. Así que en vez de dejar que las cosechas se echaran a perder en los campos, el joven Karl se trasladó allí.}
-{199}{}{Hmm... }
+{199}{}{Hmm...}
 {200}{}{Entonces fue cuando las cosas empezaron a ir mal. Karl comenzó a contar historias sobre extrañas visiones de figuras resplandecientes cuidando la cosecha y alimentando a los animales por la noche. Todos nos reímos de él, pensando que se estaba inventando la historia. Entonces un día Karl dejó de venir al pueblo.}
 {201}{}{¿Qué le ocurrió? ¿Le buscásteis?}
 {202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to

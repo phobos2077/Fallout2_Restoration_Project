@@ -33,7 +33,7 @@
 {200}{}{Hola prima... eh, quiero decir... Elegida. Espero que hayas encontrado el GECK. He oído hablar un montón de los malos tiempos que se avecinan.}
 {201}{}{Hola prima... eh, quiero decir... Elegida. Espero que hayas encontrado el GECK. He oído hablar un montón de los malos tiempos que se avecinan.}
 {202}{}{Aún yo busco, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Todavía la estoy buscando, primo.}
 {204}{}{Bienvenido a casa, prima. Las cosas se están poniendo tensas por aquí. ¿Has encontrado el sagrado Trece y el GECK?}
 {205}{}{Bienvenido a casa, prima. Las cosas se están poniendo tensas por aquí. ¿Has encontrado el sagrado Trece y el GECK?}
 {206}{}{No encuentro yo. Siento.}

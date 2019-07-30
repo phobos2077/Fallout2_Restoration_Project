@@ -35,7 +35,7 @@
 {134}{}{Veamos… eso debería valer. ¿Mejor ahora?}
 {135}{}{¿Ganancia? ¿Qué ganancia se supone que voy a obtener? Ya estoy bastante ocupado, no creo que pueda ganar nada.}
 {136}{}{Será mejor que lo intente más tarde. Adiós.}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
+{137}{powr6_a}{Elegido, ¿eh? Bien, disculpa si no me desmayo por la impresión, pero estoy demasiado ocupado para esto, su Alteza.}
 {138}{}{Arrodíllate ante mí y puede que te perdone la vida. Caramba, me gusta cómo suena eso.}
 {139}{}{Ya no insisto más en una genuflexión. Una ligera reverencia para besar mi anillo debería ser suficiente.}
 {140}{}{Eh, me refiero a que me han "elegido" para reparar el comunicador. Parece que ya nada funciona como es debido.}

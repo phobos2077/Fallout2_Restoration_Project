@@ -14,7 +14,7 @@
 {111}{}{Si estás buscando trabajo, es posible que quieras hablar con Bill, el tipo que está ahí dentro. DEN-TRO. Puede
  que él te comprenda. ¡Buena suerte!}
 {112}{}{Duhhhh...}
-{113}{}{That'd be }
+{113}{}{Serán }
 {114}{}{Sí.}
 {115}{}{No.}
 {116}{}{Tú tienes preguntas, quizá yo tenga respuestas. ¿Qué quieres saber?}

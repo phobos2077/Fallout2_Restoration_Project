@@ -32,7 +32,7 @@
 {210}{}{¿Ook? ¿Qué quieres decir con eso? ¿Es que eres tonto?}
 {211}{}{¿Goop?}
 {220}{}{Lárgate de aquí. El Cerebro no tiene tiempo para los de tu clase.}
-{221}{}{OK. I'll be going now.}
+{221}{}{Está bien. Me iré ahora.}
 {230}{}{Aquí abajo no hay nada excepto la guarida del Cerebro. Muchacho, eres tonto.}
 {231}{}{¿El Cerebro?}
 {232}{}{Sólo te estaba probando. Y lo has hecho bien. Ahora, déjame entrar.}

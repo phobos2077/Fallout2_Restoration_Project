@@ -26,7 +26,7 @@
 {125}{}{Si esta máquina funciona con barras de uranio, tenéis suficiente energía como para suplir este lugar y Nuevo Reno sin que se resienta el suministro. Ahora, súbelo.}
 {126}{}{Pero... pero... está sufriendo.}
 {127}{}{¿Entonces no hay forma de que hagáis un par de ajustes?}
-{128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
+{128}{}{[De repente parece contrariado, y con la mirada fija en los controles dice con un hilo de voz]. Eres mezquino.}
 {129}{}{Pues sí. ¡Adiós!}
 {130}{}{¡EH! ¡No toques nada! ¡Eso es equipo delicado! ¡Fuera! ¡Largo! ¡Vete!}
 {131}{}{¡Ooooh! ¡Botonezz!}

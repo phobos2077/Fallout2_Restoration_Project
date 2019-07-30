@@ -29,7 +29,7 @@
 {131}{}{Nada. Adiós.}
 {132}{}{No estás dispuesto a cooperar, ¿eh? ¡Guardias! ¡Matad a la intrusa!}
 {133}{}{Tus guardias son hombres muertos.}
-{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Baja por esa escalera y habla con AHS-7 en el puesto de guardia. Él te dirigirá adecuadamente.}
 {135}{}{Gracias. Adiós.}
 {161}{}{. Sólo estoy echando un vistazo.}
 {162}{}{. Sólo estoy echando un vistazo.}
@@ -40,7 +40,7 @@
 {173}{}{¿Qué estás haciendo aquí?}
 {174}{}{Tengo una copia de los planos de los Shi.}
 {175}{}{Tengo los planos para el vertibird.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{Los Shi tienen los planos del vertibird.}
 {177}{}{¿Qué puedo hacer por ti?}
 {178}{}{Olvídalo. Adiós.}
 {179}{}{Soy Harry, AHS-5. Soy el hermano estelar a cargo del transbordador espacial. Lo vamos a usar para viajar a Quetzel.}

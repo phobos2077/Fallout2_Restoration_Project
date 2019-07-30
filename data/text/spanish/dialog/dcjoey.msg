@@ -15,7 +15,7 @@
 {162}{}{¿Has robado un medallón de la casa encantada?}
 {163}{}{Nada. Da igual.}
 {164}{}{Olvídalo. Te mataré y ya ataré cabos más tarde.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{N-no sé de que estás hablando.}
 {166}{}{¡Oh, creo que sí! Robaste el medallón de una chica muerta, y ahora su espíritu no puede descansar.}
 {167}{}{Entonces te lo quitaré por la fuerza.}
 {168}{}{¡E-Eso es una lo-locura! Te-te debes haber pu-puesto hasta arriba con la mierda de Tubby. Yo-yo n-nunca vi un fan-fantasma c-cuando estuve allí. So-sólo era un mal viaje, no... no era real.}
