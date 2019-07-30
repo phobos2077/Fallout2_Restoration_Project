@@ -27,7 +27,7 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 1. [Party Orders](https://github.com/BGforgeNet/fallout2-party-orders) mod can be downloaded separately.
 
 ### Translations
-If you want to play a localized version, grab the corresponding language file from the latest release. Extract it into `mods` **subdirectory** inside game root.
+If you want to play a localized version, grab the corresponding language file from the latest release. Extract it into `mods` subdirectory inside game root.
 
 Most translations are incomplete, they are provided as is. **You** can [help with completion](https://tra.bgforge.net/projects/fallout/rp/). Some details are [here](docs/translations.md).
 
