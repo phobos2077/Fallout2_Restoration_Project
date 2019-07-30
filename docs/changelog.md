@@ -1,8 +1,13 @@
 # Changelog
 
+- [Version 4](#version-4)
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+## Version 4
+
+Added missing scripts.lst.
 
 ## Version 3
 
