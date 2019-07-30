@@ -5,8 +5,8 @@
 {152}{}{[HABLAR]}
 {153}{}{Hola, forasteros, y bienvenido a mi salón. Soy Becky.}
 {154}{}{Hola, me llamo }
-{155}{}{. What's there to do around here?}
-{156}{}{Hi, I'm }
+{155}{}{. ¿Qué se puede hacer por aquí?}
+{156}{}{Hola, soy }
 {157}{}{. ¿Puedo hacer algunas preguntas?}
 {158}{}{¿Mamá?}
 {159}{}{Mag gah.}

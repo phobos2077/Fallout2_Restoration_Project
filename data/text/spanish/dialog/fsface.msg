@@ -110,7 +110,7 @@
 {209}{}{¿Por qué?}
 {210}{}{El índice de suicidio entre las máquinas de auténtica IA era extremadamente alto. Al recibir una capacidad sensitiva completa, las máquinas se deprimían por su incapacidad para salir al mundo y experimentarlo. Al privarles de un acceso sensitivo completo, las máquinas comenzaron a desarrollar severos desórdenes mentales similares a los que tienen los humanos cuando se ven forzados a soportar privación sensorial. Las pocas máquinas que sobrevivieron a esas dificultades sucumbieron al tedio absoluto y comenzaron a crear situaciones en el mundo exterior para divertirse. En teoría, una de esas situaciones fue la causante de la guerra que casi destruyó a la humanidad.}
 {211}{}{Eh... ¿cómo sientes?}
-{212}{}{Me change subject.}
+{212}{}{Cambiamos tema.}
 {213}{}{Hmmm. Entonces dime, EAC. ¿Cómo te sientes?}
 {214}{}{Es el momento de cambiar de tema.}
 {215}{}{Yo... a veces creo que entiendo el concepto que llamáis soledad. Lo encuentro muy... desconcertante. Yo...}

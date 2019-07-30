@@ -44,7 +44,7 @@
 {194}{}{Sí.}
 {195}{}{¡Genial!}
 {196}{}{Vale, ya está. Adiós.}
-{197}{}{That's it?}
+{197}{}{¿Es eso?}
 {198}{}{Vale. Adiós.}
 {199}{}{Ha estado bien.}
 {200}{}{Adiós.}

@@ -39,7 +39,7 @@
 {144}{}{De acuerdo.}
 {145}{}{Entiendo.}
 {155}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Vístete!}
-{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{156}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
 {157}{}{¿Por qué no llevas puesto el uniforme?}
 {158}{}{¡Ay, carajo! ¡Nos invaden! ¡Alerta!}
 {159}{}{¡Intrusos! ¡Avisad a los guardias!}

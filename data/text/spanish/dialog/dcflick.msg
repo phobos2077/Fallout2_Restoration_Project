@@ -15,7 +15,7 @@
 {240}{}{¿Ti sembla bien, amigo?}
 {241}{}{La verdad, me gustaría echar otro vistazo a tu mercancía si no es molestia.}
 {242}{}{Lo cierto es que me gustaría hacerte una pregunta.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{Me parece bien. Nos vemos, Flick.}
 {260}{}{Io sono un puto proveedor, ¿qué te crees? Soy como el buen Samurai-tano.}
 {261}{}{¿El qué?}
 {262}{}{Si, eh, bien... déjame hacerte otra pregunta.}

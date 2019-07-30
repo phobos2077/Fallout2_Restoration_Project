@@ -43,7 +43,7 @@
 {142}{}{Sin contar que todos los mutantes estén muertos y nuestra única fuente de sustento haya sido destruida…}
 {143}{}{Aparte de ti siendo un héroe al exponer la corrupción que había entre nosotros…}
 {144}{}{Aparte de descubrir que tenemos un cáncer entre nosotros, con la fuga de Franc y Manson…}
-{145}{}{Aparte de la traición de Chad a la ciudad y tu justicia –por la cual todos están agradecidos–… }
+{145}{}{Aparte de la traición de Chad a la ciudad y tu justicia - por la cual todos están agradecidos -… }
 {146}{}{No mucho, realmente.}
 {147}{}{Tengo más preguntas.}
 {148}{}{Adiós.}
@@ -89,7 +89,7 @@
 {188}{}{Amiga, cuanto más hablo contigo, más tonto me siento. Con esa actitud, no serás bienvenida en Broken Hills. Discúlpame. Tengo trabajo que hacer.}
 {189}{}{Capullo.}
 {190}{}{Hora de morir, cabrón.}
-{191}{}{Tenemos una mina, una refinería, una taberna, un hotel -el cual, por cierto, ha sido perdido por su dueño, así que dejamos a la gente quedarse en él gratis– un hospital, un almacén y a un químico. Producimos nuestro propio alimento.}
+{191}{}{Tenemos una mina, una refinería, una taberna, un hotel - el cual, por cierto, ha sido perdido por su dueño, así que dejamos a la gente quedarse en él gratis - un hospital, un almacén y a un químico. Producimos nuestro propio alimento.}
 {192}{}{Bien. Tengo más preguntas.}
 {193}{}{Adiós.}
 {194}{}{Bueno, muchos lo han hecho. Dado que los mutantes son estériles… o eso me han hecho creer… están muriendo. Los que quedan se están volviendo seniles. Marcus no, sin embargo. Sigue tan listo como siempre.}
@@ -101,8 +101,7 @@
 {200}{}{[MÁS]}
 {201}{}{Amiga, no te queremos aquí. Ya has hecho suficiente daño.}
 {202}{}{[HECHO]}
-{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
- Jail. Sometimes he's in the tavern or at home, but he's usually working.}
+{300}{}{Normalmente, puedes encontrar a Marcus cerca del banco - que también sirve como una buena prisión - o en la misma prisión. A veces está en la taberna o en casa, pero normalmente está trabajando.}
 {301}{}{¡Alborotadora!}
 {302}{}{¡Maldición!}
 {303}{}{¡Hurra!}

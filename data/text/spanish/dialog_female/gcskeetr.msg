@@ -95,7 +95,7 @@
 {362}{}{Seguro que tienes muchas respuestas, ¿no? Espero que tengas una respuesta para lo que hay después de la muerte, porque te voy a enviar allí... ahora mismo.}
 {363}{}{Tendré que pensar sobre ello. Adiós, por ahora. }
 {370}{}{Veo que tienes ahí un excelente set de herramientas. Marca 'Snap-off', ¿no? Te cambiaré este inyector por él.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{371}{}{¡Hola! Vuelves con mi set de reparación. Mmm, marca Snap-off: son los mejores. ¿Preparado para el cambio?}
 {372}{}{Es un trato.}
 {373}{}{Ahora mismo no. Me lo quedaré un rato más. Adiós.}
 {380}{}{Es un buen trato. Deberías ser capaz de enchufar ese cabroncete y hacer que tu coche funcione.}
@@ -157,14 +157,14 @@
 {627}{}{Demasiado para mis posibilidades. Volveré cuando tenga más dinero.}
 {630}{}{¿Quieres que ese arma cuerpo a cuerpo haga papilla? Puedo *supercargarla* por }
 {631}{}{Claro.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{[Skeeter toma el objeto y le echa un vistazo con un brillo extraño en sus
+ ojos]. Bueno, es un reto, pero creo que puedo mejorarlo realmente
+ bien para ti. Siéntate durante un rato. [Skeeter tiende el arma sobre su
+ mesa de trabajo y la inmoviliza con un gran torno].}
 {641}{}{De acuerdo.}
-{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- don't know exactly what he's doing but that weird chuckle and all the pounding are
- making you nervous.]}
+{650}{}{[Mientras esperas, ves cómo Skeeter te da la espalda mientras trabaja con tu arma. No
+ sabes exactamente qué está haciendo pero su extraña risa y todos los martillazos
+ te están poniendo nervioso].}
 {651}{}{Esperas...}
 {660}{}{[Más martillazos y carcajadas mientras sigues esperando...]}
 {661}{}{[Silbas una pequeña melodía y proyectas sombras chinescas con las manos sobre la pared de

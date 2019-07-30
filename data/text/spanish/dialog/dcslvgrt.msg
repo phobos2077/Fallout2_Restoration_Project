@@ -12,7 +12,7 @@
 {219}{}{Otra pregunta.}
 {220}{}{Gracias, lo haré.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Eh... vale.}
 {230}{}{Ahora, morirás.}
 {240}{}{¡Debes estar de coña! Capturamos y vendemos esclavos. Estás aquí pa eso, ¿no? ¿Tas buscando acción?}
 {241}{}{¡Debes estar de coña! Capturamos y vendemos esclavos. Si no estás aquí pa eso, ¿qué quies?}
@@ -86,7 +86,7 @@
 {384}{}{Otra pregunta.}
 {385}{}{Gracias, lo haré.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
+{387}{}{Eh... vale.}
 {400}{}{No, pero lo consultaré con el jefe. Él ha debido estar en todos lados.}
 {401}{}{Otra pregunta.}
 {402}{}{Vale, gracias. Adiós.}

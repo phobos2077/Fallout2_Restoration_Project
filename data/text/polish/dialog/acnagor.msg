@@ -33,7 +33,7 @@
 {200}{}{Witaj, kuzyn... Eee... to znaczy Dziecko Przeznaczenia. Mam nadziejê, ¿e uda³o ci siê odnaleŸæ GECK. S³ysza³em wiele rozmów o nadejœciu ciê¿kich czasów.}
 {201}{}{Witaj, kuzyn... Eee... to znaczy Dziecko Przeznaczenia. Mam nadziejê, ¿e uda³o ci siê odnaleŸæ GECK. S³ysza³em wiele rozmów o nadejœciu ciê¿kich czasów.}
 {202}{}{Moja szuka, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Nadal szukam.}
 {204}{}{Witaj w domu, kuzynko. Ostatnio sprawy tu trochê siê komplikuj¹. Czy znalaz³aœ ju¿ Œwiêt¹ Trzynastkê i GECK?}
 {205}{}{Witaj w domu, kuzynko. Ostatnio sprawy tu trochê siê komplikuj¹. Czy znalaz³aœ ju¿ Œwiêt¹ Trzynastkê i GECK?}
 {206}{}{Moja nie znaleŸæ. Przykro.}

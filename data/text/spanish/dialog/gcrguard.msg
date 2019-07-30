@@ -39,7 +39,7 @@
 {160}{}{Será mejor que tengas cuidado por aquí.}
 {161}{}{Bienvenido a la zona de control.}
 {162}{}{No toques nada de por aquí.}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
+{163}{}{Si algo va mal por aquí, iremos a por ti.}
 {164}{}{Te culparemos a ti ante cualquier problema.}
 {170}{}{Me sorprende bastante ver a un piel suave como tú por aquí.}
 {171}{}{Parece que te estás empezando a broncear un poco.}

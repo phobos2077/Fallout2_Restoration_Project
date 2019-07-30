@@ -79,9 +79,7 @@
 {291}{}{Cuéntame más.}
 {300}{}{Un trampero verdaderamente bueno, llamado Smiley, fue al norte en busca de donde quiera que vengan. Estaba convencido de que todos venían de un mismo lugar. La cosa es que nadie sabe de él desde hace un par de meses.}
 {301}{}{¿Qué crees que le ha ocurrido?}
-{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
- Buckner runs Buckner house, y'know.}
+{310}{}{Quizás encontró de dónde venían y se los comió a todos. (je, je, je) Pero te diré una cosa; el corazón de la señora Buckner se quedó roto cuando no volvió. Verás, él era su pretendiente. La señora Buckner es la que lleva Casa Buckner, ya sabes.}
 {311}{}{Interesante. Cuéntame más cosas.}
 {312}{}{Eso es todo lo que necesito saber por ahora. Adiós.}
 {320}{}{Tenemos un montón de coches. Todos están esperando a que sus dueños vuelvan de hacer las compras. La cosa es que, nunca volvieron. Aunque ni uno de ellos funciona. Hay una absoluta belleza de modelo 'Highwayman' de la marca Chrysalis Motors justo al este de aquí, pero todavía no he averiguado como llegar hasta él.}

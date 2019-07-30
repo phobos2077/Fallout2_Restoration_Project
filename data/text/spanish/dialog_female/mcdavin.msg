@@ -30,8 +30,7 @@
 {190}{}{Deja de hablar; vas a arruinar el momento. Tan sólo túmbate y disfruta.}
 {191}{}{Debe haber un error; tan sólo quería hacerte algunas preguntas.}
 {192}{}{Gracias por la oferta, pero no. Uhhh... me marcho ya.}
-{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
- imagination.]}
+{193}{}{¡Oh Dios! ¡Tómame! ¡Tómame ahora! [Se arranca la ropa, entonces te arranca la tuya y luego... usa tu imaginación].}
 {194}{}{[Risilla] ¡Me pido furgón de cola! La próxima vez puedes serlo tú.}
 {195}{}{[Dos horas después: La tierra ha temblado y esta cama nunca volverá a ser la misma].}
 {196}{}{[Una hora después, y tras el mejor orgasmo que hayas tenido nunca...]}

@@ -11,6 +11,6 @@
 {128}{}{No me hagas daño.}
 {129}{}{No quería ser un cretino.}
 {130}{}{No quería lanzar esas amenazas de muerte.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{¡Lo siento, Buffy!}
+{132}{}{¡Lo siento, Sucios! Sólo quería hacerme notar.}
 {133}{}{¡Quiero una versión on-line!}

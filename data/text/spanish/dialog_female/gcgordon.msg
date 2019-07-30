@@ -56,8 +56,7 @@
 {282}{}{Está bien, tomaré el disco, estoy segura de que puedo ponerlo en manos adecuadas. Adiós.}
 {290}{}{Hmph, no necesito tu ayuda. Solo eres una tribal.}
 {291}{}{Supongo que no todos los intolerantes viven en Ciudad Refugio, ¿eh, viejo Gordon? Adiós.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
+{300}{}{Nuestra central nuclear sigue siendo apenas operativa. Me imagino que aún no has llevado la información a Ciudad Refugio.}
 {301}{}{No creo que en Ciudad Refugio sean muy receptivos ante datos de los necrófagos.}
 {302}{}{No, aún no lo he hecho... pero lo haré. Adiós.}
 {303}{}{Entregar esos datos a Cuidad Refugio es sólo uno de los muchos pasos que necesitas realizar. Nuestra planta de energía atómica esta apenas operativa y necesita ser arreglada.}

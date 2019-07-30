@@ -2,8 +2,7 @@
 {101}{}{Ves a Metzger, el maestro esclavista.}
 {150}{}{Metzger es el líder del Gremio de Esclavistas.}
 {200}{}{Me las vas a pagar.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{¿Qué cojones quieres? Esto es el Gremio de Esclavistas, no un refugio para yonkis del jet como tú.}
 {211}{}{¿Qué cojones quieres, puta fea? Esto es el Gremio de Esclavistas, no una jodida casa de putas.}
 {212}{}{¿Qué cojones quieres, puta? Esto es el Gremio de Esclavistas, no una jodida casa de putas.}
 {213}{}{Estás empezando a cabrearme. ¿Y ahora qué demonios quieres?}

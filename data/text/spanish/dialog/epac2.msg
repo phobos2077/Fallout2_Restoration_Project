@@ -41,7 +41,7 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
  standing in one of the nation's top experimental research facilities. We have so many exciting things in development. Of
  course, progress has been a bit slow lately, what with the fall of civilization and all...}
 {301}{}{Eso es comprensible.}
-{302}{}{The apocalypse is no excuse for slacking off.}
+{302}{}{El apocalipsis no es excusa para ser holgazanear}
 {310}{}{Yes, if only I had an able bodied assistant, I could finally make some more progress on my research...}
 {311}{}{¿Qué clase de ayuda necesitas?}
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
@@ -50,7 +50,7 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
 {323}{}{Creo que voy a pasar.}
 {330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
  wandering into this facility. It's bound to happen again within a century or two. Goodbye.}
-{340}{}{Hello again. I don't suppose you've reconsidered my offer of helping me to test an experimental weapon?}
+{340}{}{Hola de nuevo. No tengo que suponer que haz reconsiderado mi oferta para ayudarme a Probar la arma experimental?}
 {341}{}{No. Lo siento.}
 {342}{}{De acuerdo. Por supuesto.}
 {350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
@@ -75,12 +75,12 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
 {400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
  ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}
 {401}{}{¡Gracias!}
-{402}{}{Good, because I didn't plan on giving it back anyway.}
+{402}{}{Bien,pero no planeo devolvertelo}
 {410}{}{Oh... I see. I don't understand, that prototype withstood vigorous lab testing... [He shakes his head
  sadly.] Anyway, thanks for assisting me.}
 {411}{}{Lo que sea.}
 {412}{}{No hay problema.}
 {420}{}{Nice to see you again. However, if you'll excuse me, I've got a plethora of projects that require my attention.}
 {421}{}{[Fin.]}
-{500}{}{You fix Hologram 00000.}
+{500}{}{Haz arreglado el Holograma 00000.}
 {510}{}{You test the Solar Scorcher for the Director of Science.}

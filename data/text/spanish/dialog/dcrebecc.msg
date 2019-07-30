@@ -153,10 +153,8 @@
 {532}{}{Muchas gracias.}
 {533}{}{¡Gacias!}
 {534}{}{¡Ug! Mujer guapa.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Eres un hombre maravilloso. Incluso aunque no apruebe tus acciones. Le has hecho un gran servicio al mundo.}
+{541}{}{Eres una mujer maravillosa. Incluso aunque no apruebe tus acciones. Le has hecho un gran servicio al mundo.}
 {542}{}{Gracias.}
 {550}{}{Aquí no eres bienvenido. Por favor, vete.}
 {551}{}{Por favor, vete.}
