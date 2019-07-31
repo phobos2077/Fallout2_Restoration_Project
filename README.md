@@ -37,4 +37,4 @@ If you've found an issue:
 1. Make sure it's in RP's content. Vanilla bugs should be reported to [UP](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch). Bugs in other mods - to the corresponding authors.
 1. Keep in mind that RP's scope is only to restore cut content. Not to add "nice to to have" things.
 1. Check [known issues](docs/known.md).
-1. Follow the [instruction](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/REPORTING.md).
+1. Follow the [instruction](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/reporting.md).
