@@ -7,7 +7,7 @@ scripts_dir="$release_dir/data/scripts"
 
 mkdir -p "$scripts_dir"
 7z e "$mpack_7z" example_mods/AmmoMod/gl_ammomod.int
-mv gl_ammomod.int "$scripts_dir/"
+mv gl_ammomod.int "$release_dir/"
 
 7z e "$mpack_7z" example_mods/AmmoMod/AmmoGlovz.ini
 7z e "$mpack_7z" example_mods/AmmoMod/AmmoYAAM.ini

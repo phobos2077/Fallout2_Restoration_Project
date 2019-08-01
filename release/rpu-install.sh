@@ -12,6 +12,12 @@ for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
   mv data/$i $bdir/data/
 done
 
+# sfall: ammo and npc armor scripts
+mkdir -p data/scripts
+for f in gl_npcarmor.int gl_ammomod.int; do
+  mv $f data/scripts/
+done
+
 # old appearance mod in directories
 if [[ -d appearance ]]; then
   for i in $(ls appearance); do

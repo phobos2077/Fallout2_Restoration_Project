@@ -26,8 +26,8 @@ for %%a in (%appearances%) do (
 
 :: sfall scripts
 mkdir data\scripts
-move %bdir%\data\scripts\gl_ammomod.int data\scripts\
-move %bdir%\data\scripts\gl_npcarmor.int data\scripts\
+move gl_ammomod.int data\scripts\
+move gl_npcarmor.int data\scripts\
 
 echo RPU installed. Backup is in %bdir%
 pause
