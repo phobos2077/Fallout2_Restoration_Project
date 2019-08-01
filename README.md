@@ -22,7 +22,7 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 1. See `mods/rpu.ini` for various settings that can be configured.
 
 **Notes:**
-1. RPU does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
+1. RPU can be installed on top of RP 2.3.3. That does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
 1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
 1. [Party Orders](https://github.com/BGforgeNet/fallout2-party-orders) mod can be downloaded separately.
 
