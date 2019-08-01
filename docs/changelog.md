@@ -1,10 +1,15 @@
 # Changelog
 
+- [Version 6](#version-6)
 - [Version 5](#version-5)
 - [Version 4](#version-4)
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+## Version 6
+
+Added npc armor frms and hopefully the last missing files from 2.3.3 auto installer.
 
 ## Version 5
 
