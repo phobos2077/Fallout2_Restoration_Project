@@ -9,7 +9,8 @@
 
 ## Version 6
 
-Added npc armor frms and hopefully the last missing files from 2.3.3 auto installer.
+- Added npc armor frms and hopefully the last missing files from 2.3.3 auto installer.
+- Fixed npc armor and ammo mod script installation on unixes.
 
 ## Version 5
 
