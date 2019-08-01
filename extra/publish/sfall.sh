@@ -10,4 +10,3 @@ for f in ddraw.dll sfall.dat; do
   7z e sfall.7z "$f"
   mv "$f" "$release_dir/"
 done
-cp "$extra_dir/sfall/ddraw.ini" "$release_dir/"
