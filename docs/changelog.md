@@ -1,5 +1,7 @@
 # Changelog
 
+In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CHANGELOG.md).
+
 - [Version 6](#version-6)
 - [Version 5](#version-5)
 - [Version 4](#version-4)
@@ -33,7 +35,6 @@ Repacked into .dat file.
 ## Version 1
 
 - General
-    - All the fixes from UPU [version 1](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CHANGELOG.md#version-1).
     - Damage formula no longer erroneously defaults to YAAM.
     - Various under the hood changes and optimizations.
 - Abbey
