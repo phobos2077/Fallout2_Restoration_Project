@@ -80,7 +80,6 @@ procedure Node014;
 procedure Node015;
 procedure Node015a;
 
-procedure Node012a;
 procedure Node016;
 procedure Node016a;
 procedure Node017;
@@ -110,7 +109,6 @@ procedure Node021;
 #define LVAR_Waypoint                   (14)
 #define LVAR_Talked_Before              (15)
 #define LVAR_Kaga_Question              (16) //added by killap - expansion
-//#define LVAR_Trained                  (16)
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -494,15 +492,8 @@ procedure Node012 begin
    else
        Reply(200);
 
-   NLowOption(158,Node012a);
-   NOption(159,Node012a,004);
-end
-
-procedure Node012a begin
-   if (local_var(LVAR_Trained) != 1) then begin
-       set_local_var(LVAR_Trained,1);
-       call Node016;
-   end
+   NLowOption(158,Node016);
+   NOption(159,Node016,004);
 end
 
 procedure Node013 begin
@@ -539,9 +530,15 @@ procedure Node015a begin
 end
 
 procedure Node016 begin
-   if ((is_skill_tagged(SKILL_SMALL_GUNS)) or (is_skill_tagged(SKILL_BIG_GUNS)) or
-       (is_skill_tagged(SKILL_ENERGY_WEAPONS)) or (is_skill_tagged(SKILL_UNARMED_COMBAT)) or
-       (is_skill_tagged(SKILL_MELEE)) or (is_skill_tagged(SKILL_THROWING)) or (dude_agility > 6)) then begin
+   if (  is_skill_tagged(SKILL_SMALL_GUNS)
+      or is_skill_tagged(SKILL_BIG_GUNS)
+      or is_skill_tagged(SKILL_ENERGY_WEAPONS)
+      or is_skill_tagged(SKILL_UNARMED_COMBAT)
+      or is_skill_tagged(SKILL_MELEE)
+      or is_skill_tagged(SKILL_THROWING)
+      or dude_agility > 6
+      or local_var(LVAR_Trained) == 1 )
+   then begin
        Reply(300);
 
        NOption(301,Node999,004);
@@ -568,6 +565,7 @@ procedure Node016a begin
    critter_mod_skill(dude_obj,SKILL_UNARMED_COMBAT,10);
    critter_mod_skill(dude_obj,SKILL_MELEE,10);
 
+   set_local_var(LVAR_Trained,1);
    call Node017;
 end
 
