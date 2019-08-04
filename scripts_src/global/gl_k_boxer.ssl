@@ -2,7 +2,7 @@
 #include "..\headers\define.h"
 #include "..\headers\command.h"
 
-// this a script to enable boxer appearance when the player is loading a savegame on the ring, in combat
+// apparently this is a script to enable boxer appearance when the player is loading a savegame on the ring, in combat
 // a better way would probably be to check player's location (tiles)
 
 procedure start begin
@@ -13,4 +13,5 @@ procedure start begin
       then begin
          call doVaultBoxerAppearance;
       end
+   end
 end
