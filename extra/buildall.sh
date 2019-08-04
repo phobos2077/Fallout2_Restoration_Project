@@ -17,6 +17,7 @@ mkdir -p "$dst"
 
 # single file compile
 function process_file() {
+  set -eu -o pipefail
   f="$1"
   dst="$2"
   script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
