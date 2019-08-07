@@ -5,8 +5,8 @@
 
 * [Download](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
 * [Installation](#installation)
-* [Reporting issues](#reporting-issues)
-* [Translations](#translations)
+* [Reporting issues](#reporting-issues) (read this)
+* [Translations](#translations) (you can help)
 * [Discord](https://discord.gg/4Yqfggm)
 * [Changelog](docs/changelog.md)
 * [Credits](docs/credits.md)
@@ -27,9 +27,11 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 1. [Party Orders](https://github.com/BGforgeNet/fallout2-party-orders) mod can be downloaded separately.
 
 ### Translations
-If you want to play a localized version, grab the corresponding language file from the latest release. Extract it into `mods` subdirectory inside game root.
+If you want to play a localized version:
+1. Grab the corresponding language file from the latest release. Drop it into `mods` subdirectory.
+1. Change `language=english` in `fallout2.cfg` to your selected language.
 
-Most translations are incomplete, they are provided as is. **You** can [help with completion](https://tra.bgforge.net/projects/fallout/rp/). Some details are [here](docs/translations.md).
+Most translations are incomplete, they are provided as is. You can [help with completion](https://tra.bgforge.net/projects/fallout/rp/). Details are [here](docs/translations.md).
 
 ### Reporting issues
 If you've found an issue:
