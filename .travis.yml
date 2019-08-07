@@ -31,7 +31,9 @@ deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
   file_glob: true
-  file: rpu*.zip
+  file:
+    - rpu*.zip
+    - rpu*.dat
   skip_cleanup: true
   on:
     tags: true
