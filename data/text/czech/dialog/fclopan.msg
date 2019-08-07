@@ -80,7 +80,7 @@
 {200}{}{Lo Pan odhalí tvùj zámìr a ty kolem nìj jenom proklouzneš.}
 {201}{}{Podívej, nemám rád, kdy mi nìkdo bere vìci, take si jdi krást nìkam jinam. Teï odejdi.}
 {202}{}{Vyzval jsem tì k odchodu, ne ke smrti. Co u.}
-{203}{}{U jsi podstoupil Dragonovu zkoušku!}
+{203}{}{Zdá se, e u ode mì nepotøebuješ ádnı trénink.}
 {204}{}{Pro dnešek je náš trénink u konce. Vra se zítra.}
 {205}{}{Jsem Mistr Khung, tvá poslední zkouška.}
 {206}{}{Jsem Imbot. Pøiprav se.}

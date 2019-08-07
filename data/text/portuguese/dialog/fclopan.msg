@@ -80,7 +80,7 @@
 {200}{}{Lo Pan detects your advance and you slip by him.}
 {201}{}{Look, I don't appreciate anyone taking my things, so go steal someone else's. Leave now.}
 {202}{}{I warned you to leave, not to die. Oh well.}
-{203}{}{You already took the test of the Dragon!}
+{203}{}{Parece que você não precisa de mais treinamento de mim.}
 {204}{}{I am done training today. Return tomorrow.}
 {205}{}{I am Master Khung, your final test.}
 {206}{}{I am Imbot. Be ready.}

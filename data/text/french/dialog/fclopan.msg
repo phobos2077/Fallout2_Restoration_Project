@@ -80,7 +80,7 @@
 {200}{}{Lo Pan anticipe ton premier pas et te glisse entre les doigts.}
 {201}{}{Ecoute, je n'apprécie guère qu'on me vole mes affaires alors va voler quelqu'un d'autre. Maintenant, va-t'en.}
 {202}{}{Je t'avais demandé de partir, pas de mourir. Enfin bon.}
-{203}{}{Tu as déjà passé l'épreuve du Dragon !}
+{203}{}{Visiblement, tu n'as pas besoin que je t'entraîne.}
 {204}{}{J'ai donné assez de leçons pour aujourd'hui. Reviens demain.}
 {205}{}{Je suis Maître Khung, ta dernière épreuve.}
 {206}{}{Je suis Imbot. Tiens toi prêt.}

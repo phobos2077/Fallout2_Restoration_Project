@@ -80,7 +80,7 @@
 {200}{}{Lo Pan durchschaut dein Manöver und weicht dir aus.}
 {201}{}{Ich habe was dagegen, wenn jemand meine Sachen nimmt, klar? Also geh und bestiehl jemand anders. Hau ab! }
 {202}{}{Du solltest abhauen, nicht sterben. Naja, was soll's.}
-{203}{}{You already took the test of the Dragon!}
+{203}{}{Es scheint, daß ich dich nichts mehr lehren kann.}
 {204}{}{Für heute bin ich fertig mit dem Training. Komm morgen wieder.}
 {205}{}{Ich bin Meister Khung, deine letzte Prüfung.}
 {206}{}{Ich bin Imbot. Sei auf der Hut!}

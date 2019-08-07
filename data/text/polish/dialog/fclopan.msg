@@ -80,7 +80,7 @@
 {200}{}{Lo Pan wyczuwa twój ruch i twoja rêka przeœlizguje siê obok niego.}
 {201}{}{S³uchaj, nie lubiê, gdy ktoœ bierze moje rzeczy, wiêc idŸ kraœæ gdzie indziej. Wynoœ siê st¹d.}
 {202}{}{Ostrzega³em ciê ju¿, wiêc teraz umrzesz. Wielka mi rzecz.}
-{203}{}{Próbê Smoka masz ju¿ za sob¹!}
+{203}{}{Wygl¹da na to, ¿e nie potrzebujesz ju¿ wiêcej mojego treningu.}
 {204}{}{Trening na dzisiaj skoñczony. Wróæ jutro.}
 {205}{}{Jestem Mistrz Khung, twoja ostateczna próba.}
 {206}{}{Jestem Imbot. Gotuj siê.}
