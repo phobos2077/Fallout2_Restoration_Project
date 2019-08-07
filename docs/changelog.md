@@ -2,12 +2,20 @@
 
 In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CHANGELOG.md).
 
+- [Version 7](#version-7)
 - [Version 6](#version-6)
 - [Version 5](#version-5)
 - [Version 4](#version-4)
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+## Version 7
+- Enabled some QoL features in sfall: `DontTurnOffSneakIfYouRun`, `NumbersInDialogue`, `WorldMapFontPatch`, `PartyMemberExtraInfo`.
+- Removed files identical to their `master.dat` versions.
+- Removed duplicate files from animations components.
+- Fixed Russian character descriptions being shown when using English language.
+- Fixed several worldmap markers being shown in Russian when using English language.
 
 ## Version 6
 
