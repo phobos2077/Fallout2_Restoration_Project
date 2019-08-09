@@ -1,6 +1,6 @@
 # Changelog
 
-In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/CHANGELOG.md).
+In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 
 - [Version 7](#version-7)
 - [Version 6](#version-6)
