@@ -12,9 +12,15 @@ for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
   mv data/$i $bdir/data/
 done
 
-# sfall: ammo and npc armor scripts
+# sfall mods
 mkdir -p data/scripts
-for f in gl_npcarmor.int gl_ammomod.int; do
+scripts="
+gl_ammomod.int
+gl_highlighting.int
+gl_npcarmor.int
+gl_partycontrol.int
+"
+for f in $scripts; do
   mv $f data/scripts/
 done
 

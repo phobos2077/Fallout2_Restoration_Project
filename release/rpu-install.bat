@@ -1,6 +1,7 @@
 @echo off
 
 set "bdir=backup\rpu"
+set "scripts_dir=data\scripts"
 
 if not exist %bdir% mkdir %bdir%
 
@@ -26,8 +27,10 @@ for %%a in (%appearances%) do (
 
 :: sfall scripts
 mkdir data\scripts
-move gl_ammomod.int data\scripts\
-move gl_npcarmor.int data\scripts\
+move gl_ammomod.int %scripts_dir%\
+move gl_highlighting.int %scripts_dir%\
+move gl_npcarmor.int %scripts_dir%\
+move gl_partycontrol.int %scripts_dir%\
 
 :: sound path fix
 initool.exe s fallout2.cfg sound music_path1 data\sound\music\ > tmp.cfg
