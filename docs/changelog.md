@@ -2,6 +2,7 @@
 
 In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 
+- [Version 8](#version-8)
 - [Version 7](#version-7)
 - [Version 6](#version-6)
 - [Version 5](#version-5)
@@ -9,6 +10,10 @@ In addition to the below list, RPU releases contain all the fixes from the corre
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+## Version 8
+
+Added missing item highlight and party control mods.
 
 ## Version 7
 - Enabled some QoL features in sfall: `DontTurnOffSneakIfYouRun`, `NumbersInDialogue`, `WorldMapFontPatch`, `PartyMemberExtraInfo`.
