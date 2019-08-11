@@ -1,4 +1,4 @@
-# Changelog
+## Changelog
 
 In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 
@@ -11,41 +11,41 @@ In addition to the below list, RPU releases contain all the fixes from the corre
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
-## Version 8
+### Version 8
 
 Added missing item highlight and party control mods.
 
-## Version 7
+### Version 7
 - Enabled some QoL features in sfall: `DontTurnOffSneakIfYouRun`, `NumbersInDialogue`, `WorldMapFontPatch`, `PartyMemberExtraInfo`.
 - Removed files identical to their `master.dat` versions.
 - Removed duplicate files from animations components.
 - Fixed Russian character descriptions being shown when using English language.
 - Fixed several worldmap markers being shown in Russian when using English language.
 
-## Version 6
+### Version 6
 
 - Added npc armor frms and hopefully the last missing files from 2.3.3 auto installer.
 - Fixed npc armor and ammo mod script installation on unixes.
 
-## Version 5
+### Version 5
 
 Fixed more packaging artefacts.
 
-## Version 4
+### Version 4
 
 Added missing scripts.lst.
 
-## Version 3
+### Version 3
 
 - Created a complete package.
 - Added localizations.
 - Converted some options from install time into separate dat packages and/or ini settings.
 
-## Version 2
+### Version 2
 
 Repacked into .dat file.
 
-## Version 1
+### Version 1
 
 - General
     - Damage formula no longer erroneously defaults to YAAM.
