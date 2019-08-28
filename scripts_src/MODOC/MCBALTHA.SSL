@@ -61,7 +61,7 @@ procedure Node023;
 procedure Node024;
 procedure Node025;
 procedure Node026;
-procedure Node026a; //added by killap - expansion
+procedure Node026a;
 procedure Node027;
 
 procedure Node999;                                      // This is the do nothing node
@@ -73,19 +73,17 @@ procedure Node994;
 #define LVAR_Flags                        (4)
 #define LVAR_Home_Tile                    (5)
 #define LVAR_Home_Rotation                (6)
-#define LVAR_bad_karma                    (7) //added by killap
+#define LVAR_bad_karma                    (7)
 
 #define node_3_bit                        bit_10
 #define gave_jonny_gun_bit                bit_11
-#define node_25_bit                       bit_12 //added by killap - expansion
+#define node_25_bit                       bit_12
 
 #define node_3                            lvar_bit(LVAR_Flags, node_3_bit)
 #define set_node_3                        set_lvar_bit_on(LVAR_Flags, node_3_bit)
 
-//added by killap - expansion
 #define node_25                           lvar_bit(LVAR_Flags, node_25_bit)
 #define set_node_25                       set_lvar_bit_on(LVAR_Flags, node_25_bit)
-//end added
 
 #define gave_jonny_gun                    lvar_bit(LVAR_Flags, gave_jonny_gun_bit)
 #define set_gave_jonny_gun                set_lvar_bit_on(LVAR_Flags, gave_jonny_gun_bit)
@@ -93,13 +91,12 @@ procedure Node994;
 import variable modoc_balthas_box_obj;
 import variable ghost_farm_slag_obj;
 
-variable item; //added by killap - expansion
+variable item;
 
 procedure start begin
 end
 
 procedure timed_event_p_proc begin
-   //add_timer_event(self_obj,game_ticks(random(1,7)),1);
 end
 
 procedure map_enter_p_proc begin
@@ -127,12 +124,10 @@ procedure map_enter_p_proc begin
 end
 
 procedure combat_p_proc begin
-   //added by killap (expansion)
    if (obj_is_carrying_obj_pid(self_obj,PID_SLEDGEHAMMER) == 0) then begin
       item := create_object(PID_SLEDGEHAMMER,0,0);
       add_obj_to_inven(self_obj, item);
    end
-   //added by killap
 
    if (dude_enemy_modoc) then begin
       if (self_team == TEAM_PLAYER) then begin
@@ -175,10 +170,8 @@ procedure talk_p_proc begin
       kill_them_all_floater;
    end else if (slags_killed_by_townspeople) then begin
       floater_rand(151,153);
-   //added by killap (expansion)
    end else if ( (jonny_seed_active) and (node_25) ) then begin
       floater(240);
-   //end added by killap
    end else begin
       move_obj_inven_to_obj(modoc_balthas_box_obj, self_obj);
       script_overrides;
@@ -209,7 +202,7 @@ procedure talk_p_proc begin
 end
 
 procedure destroy_p_proc begin
-   move_obj_inven_to_obj(modoc_balthas_box_obj, self_obj); //added by killap (expansion)
+   move_obj_inven_to_obj(modoc_balthas_box_obj, self_obj);
    inc_good_critter
    set_balthas_dead;
 end
@@ -229,7 +222,6 @@ end
 
 // dialog action functions
 procedure Node999 begin
-  // do absolutely everything that pertains to nothing
 end
 procedure Node998 begin
    set_hostile;
@@ -243,16 +235,6 @@ procedure Node996 begin
    end
 end
 procedure Node995 begin
-
-   /*if (global_var(TOWN_REP_VAR) < 0) then begin
-      call Node017;
-   end else if (global_var(TOWN_REP_VAR) == 0) then begin
-      call Node018;
-   end else begin
-      call Node011;
-   end*/
-
-   //edit by killap
    if ( (global_var(TOWN_REP_VAR) < 0) or (global_var(TOWN_REP_VAR) <= KARMA_SWORD_OF_DESPAIR) ) then begin
       call Node017;
    end else if (global_var(TOWN_REP_VAR) == 0) then begin
@@ -260,8 +242,6 @@ procedure Node995 begin
    end else begin
       call Node011;
    end
-   //end edit by killap
-
 end
 procedure Node994 begin
    if (has_skill(dude_obj,SKILL_OUTDOORSMAN)) then begin
@@ -304,7 +284,7 @@ procedure Node002 begin
    Reply(171);
    if (jonny_spoken) then begin
       NOption(178,Node025,004);
-      BOption(179,Node026,004); //unlocked by killap (RP)
+      BOption(179,Node026,004);
    end else if (jonny_bb_gun_found) then begin
       NOption(172,Node024,004);
    end
@@ -315,7 +295,7 @@ procedure Node003 begin
    set_node_3;
    set_jonny_seed_inactive;
    display_mstr(230);
-   inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_SAVE_JONNY); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
+   inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_SAVE_JONNY);
    give_xp(EXP_SAVE_JONNY);
    give_pid_qty(dude_obj, PID_CURED_LEATHER_ARMOR, 1)
    Reply(175);
@@ -325,7 +305,7 @@ procedure Node004 begin
    Reply(177);
    if (jonny_spoken) then begin
       NOption(178,Node025,004);
-      BOption(179,Node026,004); //unlocked by killap (RP)
+      BOption(179,Node026,004);
    end else if (jonny_bb_gun_found) then begin
       NOption(172,Node024,004);
    end
@@ -348,7 +328,7 @@ procedure Node012 begin
    Reply(191);
    if (jonny_spoken) then begin
       NOption(178,Node025,004);
-      BOption(179,Node026,004); //unlocked by killap (RP)
+      BOption(179,Node026,004);
    end else begin
       NOption(192,Node013,008);
       NOption(193,Node994,004);
@@ -392,7 +372,7 @@ procedure Node019 begin
    Reply(208);
    if (jonny_spoken) then begin
       NOption(178,Node025,004);
-      BOption(179,Node026,004); //unlocked by killap (RP)
+      BOption(179,Node026,004);
    end
    NOption(203,Node001,004);
    NOption(210,Node999,001);
@@ -428,18 +408,16 @@ procedure Node024 begin
 end
 
 procedure Node025 begin
-   set_node_25; // added by killap - expansion
-   //set_jonny_pip(state_jonny_in_caves);
-   //set_jonny_seed_active; --comment out by killap
+   set_node_25;
+   set_jonny_pip(state_jonny_in_caves);
    Reply(220);
    NOption(g_mstr(350),Node999,001);
 end
 procedure Node026 begin
    Reply(221);
-   NOption(g_mstr(350),Node026a,001); //edit by killap (expansion) - was999
+   NOption(g_mstr(350),Node026a,001);
 end
 
-//moved into a separate node - by killap (expansion)
 procedure Node026a begin
    clear_attack_slag_time;
    set_enemy_slags;
@@ -450,7 +428,6 @@ procedure Node026a begin
    set_jonny_seed_inactive;
    load_map(MAP_GHOST_FARM,0);
 end
-//end
 
 procedure Node027 begin
    Reply(176);
