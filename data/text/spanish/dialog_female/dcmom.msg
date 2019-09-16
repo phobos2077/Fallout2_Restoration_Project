@@ -116,10 +116,7 @@
 {801}{}{Es una pena, ¿no? Esos niños pobres que viven en las calles de esa manera ... Muchos roban para salir adelante, desde extraños en su mayoría, así que si encuentras uno tratando de liberarte de algo, por favor, ten piedad de ellos. No digo que sea correcto, pero es un mundo duro en el que vivimos, y todos hacemos lo que tenemos que hacer para sobrevivir a lo largo del día.}
 {802}{}{Tiene que haber algo que podamos hacer al respecto. Por lo que escuché, pareces ser la única persona por aquí a la
  que realmente le importa esos niños.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
+{803}{}{Por supuesto que lo hago. Los niños son nuestro futuro. Ellos no *tienen* que crecer siendo drogadictos, matones y prostitutas como la mayoría de sus negligentes padres. Porque, con una educación y algo de amor y cuidado, estos niños pueden convertirse en el tipo de persona decente que tan desesperadamente necesitamos en este mundo. Intente establecer un orfanato para ellos, pero lamentablemente, eso no dio resultado.}
 {804}{}{Quiza sea hora de probar nuevamente. No voy a estar en el pueblo mucho más tiempo, pero hare lo que pueda para ayudar mientras estoy aqui.}
 {805}{}{Eso es muy malo. Bueno, ha estado bien hablar contigo. Adiós.}
 {806}{}{Si, quiza tu *puedas* ayudar. Mira, he adquirido un gran edificio sobre el lado sudoeste que, con un poco de trabajo, podria ser un excelente

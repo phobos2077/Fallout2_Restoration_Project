@@ -47,6 +47,6 @@
 {161}{}{¿Qué pasa? ¿Nos atacan?}
 {162}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
 {163}{}{¿Qué carajo está pasando?}
-{164}{}{I'm just a tech, don't shoot me!}
+{164}{}{¡Sólo soy un técnico, no me dispares!}
 {165}{}{¡No me enrolé aquí para luchar, sólo soy un técnico!}
 {166}{}{¿Ves esto? ¡Sólo es una bata de laboratorio, no una armadura! ¡Me voy de aquí!}

@@ -107,7 +107,7 @@ correcciones del motor para mejorar en gran medida la estabilidad de este mundo 
 Una legión entera de mis mejores correcciones de errores te esperan en el resto de tu aventura. Soy el maestro del lado oscuro de la Fuente.}
 {1021}{}{¡Silencio! Años de trabajo en la oscuridad pueden haber distorsionado mi aspecto. ¡Pero en esta mente están los poderes de un Dios! ¡Usando La Fuente creo el clima, dominé mundos enteros y modifico lo que no se puede modificar!.
 Fui yo quien permitió que la Malvada Beth gobernara el mundo de los juegos de rol con mis mods. Todo lo que ha transpirado lo ha hecho de acuerdo con MIS deseos.}
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
+{1022}{}{¿Salsa? ¿Qué tipo de salsa? ¿Estás diciendo que cocinar es la clave para controlar el universo? Lo que digas, chef.}
 {1023}{}{Sí, sí. Por dios... como digas... Creo que me iré ahora.}
 {1024}{}{eh, Ok, eso es genial. Bueno, necesito ir a.. mmm... regar mis plantas...}
 {1030}{}{Tonto ignorante. Tu exceso de confianza es tu debilidad, y mi fe en tus amigos es ... eh ... mía. *Se ve confundido* Sal de mi vista!}

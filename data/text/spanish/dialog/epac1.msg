@@ -12,5 +12,5 @@
 {208}{}{Vida. No me hable de la vida.}
 {209}{}{Creo que deberías saber que me siento muy deprimido.}
 {210}{}{Perdóneme por respirar, lo que nunca hago de todos modos, así que no sé por qué me molesto en decirlo, oh Dios, estoy tan deprimido.}
-{500}{}{Yeah, just push me over a cliff.}
+{500}{}{Sí, solo empújame sobre un acantilado}
 {501}{}{*** bzzt ¡Para eso! *** bzzt}

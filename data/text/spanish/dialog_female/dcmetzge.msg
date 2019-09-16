@@ -232,9 +232,7 @@ Tal vez si vuelves más tarde, tendré algo que te haga gracia, pero en su mayoría
 {911}{}{Mira, esta podría ser una solicitud inusual, pero realmente me gustaría obtener las primeras impresiones sobre cualquier mercancía nueva que hayas obtenido. Hay posibilidad de ir a ver la mercancía en tu otro campamento? Por supuesto, estaría dispuesto a pagar un precio superior.}
 {912}{}{Está bien. Volveré más tarde entonces.}
 {913}{}{Bien, pero la próxima vez hazme un favor y no pierdas mi tiempo a menos que tengas asuntos reales para discutir.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
+{914}{}{Precio premium, ¿eh? Ahora estás hablando mi lenguaje. Generalmente manejamos las ventas aquí, pero supongo que se puede hacer una excepción, mientras seas serio. Te diré cómo llegar allí, pero será mejor que te lo guardes. Lo juro, si resultas ser un espía para ellos, jodidos Rangers, te perseguiré y te sacaré la piel. [Escuchas sus instrucciones y notas la ubicación del campamento de esclavos en tu Pipboy.]}
 {915}{}{Entiendo. Déjame hacerte otra pregunta.}
 {916}{}{Gracias. Estaré en camino ahora. Adiós.}
 {1360}{}{ dólares por ella. ¿Qué te parece?}

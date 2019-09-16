@@ -13,51 +13,43 @@ si escribo lo que dices, tal vez pueda encontrarle la vuelta a esto.}
 {222}{}{Un corte eléctrico en el rollo de cinta, eh? De acuerdo,veamos si podemos arreglarte.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
 {231}{}{Sólo checkeaba. Nos vemos.}
-{232}{}{Don't worry, I'm working on getting you fixed.}
+{232}{}{No te preocupes, nadie va a hacerte daño.}
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
-{241}{}{Alright, I give up. Sorry.}
+{241}{}{Muy bien, me rindo. Lo siento. }
 {242}{}{¿Sigue sin funcionar? Espera, déjame descifrar eso.}
 {250}{}{[Eres capaz de decodificar el mensaje mucho más rápido esta vez: "¡Reinicia!"] Oh, por supuesto. [Reinicias la máquina ejecutando el holograma. Para matar el tiempo, silbas mientras suenan todos sus procedimientos de inicio.]}
 {251}{}{[Continuar.]}
-{260}{}{By Hawking, you've done it! My vocal program had been stuck in binary mode for *years*. It's been so long since
- I've had the pleasure of exchanging dialogue with a fellow intellect. You'd think during all this time *one* of my
- comrades would have had the decency to learn binary, but nooo.}
-{261}{}{No prob--}
-{270}{}{They didn't have time for me, you see. Oh no, they were too *busy* indulging in their bureaucratic nonsense.
- Too busy imposing regulations upon one another and bickering like fools. And look where it got them: stuck in an endless
- loop in the conference chamber. Ha! Serves 'em right.}
-{271}{}{Stuck in a loop?}
-{272}{}{I actually fixed that problem. No more endless loops.}
-{280}{}{What's that? Oh, yes, yes, it seems a malfunction somewhere has generated a powerful magnetic field, which is
- erasing their short term memory every couple minutes, damning them to a kind of hologram purgatory. But never mind that,
- we're better off without them. With them tied up in an endless argument, that leaves me, er, I mean, *us*, in charge of
- the facility. With my supreme intellect, and your physical body, we could make quite the duo.}
-{281}{}{First off, why don't you tell me what exactly this place is?}
-{290}{}{Really? In my opinion, we're better off without them, but if you thought otherwise who am I to complain. With my
- supreme intellect, and your physical body, we could make quite the duo, you know.}
-{291}{}{First off, why don't you tell me what exactly this place is?}
-{300}{}{Why, it's the Environmental Protection Agency, of course. This is a federal facility originally established to
- regulate chemicals and ensure the protection of the environment, but it's become oh so much more than that! Why, you're
- standing in one of the nation's top experimental research facilities. We have so many exciting things in development. Of
- course, progress has been a bit slow lately, what with the fall of civilization and all...}
+{260}{}{¡Por Hawking, lo has logrado! Mi programa vocal había estado atascado en modo binario durante * años *. Ha pasado tanto tiempo desde que tuve el placer de intercambiar diálogos con un compañero de intelecto. Pensarías durante todo este tiempo * uno * de mis camaradas habrían tenido la decencia de aprender binario, pero nooo.}
+{261}{}{No hay prob---}
+{270}{}{No tenían tiempo para mí, ya ves. Oh no, estaban demasiado * ocupados * complaciéndose en sus tonterías burocráticas.
+Demasiado ocupados imponiéndose regulaciones unos a otros y discutiendo como tontos. Y mira dónde los consiguió: atrapados en un interminable bucle en la sala de conferencias. Ja! Les sirve bien.}
+{271}{}{¡Atrapado en un bucle?}
+{272}{}{Ya solucioné ese problema. No más bucles sin fin.}
+{280}{}{¿Que es eso? Oh, sí, sí, parece que un mal funcionamiento en algún lugar ha generado un poderoso campo magnético, que es borrando su memoria a corto plazo cada dos minutos, condenándolos a una especie de purgatorio de hologramas. Pero no importa eso, estamos mejor sin ellos. Con ellos atados en una discusión interminable, eso me deja, él, quiero decir, * nosotros *, a cargo de la instalación. Con mi intelecto supremo y tu cuerpo físico, podríamos hacer un buen dúo.
+}
+{281}{}{En primer lugar, ¿Por què no me dices exactamente que es este lugar? }
+{290}{}{¿En serio? En mi opinión, estamos mejor sin ellos, pero si piensas lo contrario, ¿quién soy yo para quejarme? Con mi
+ intelecto supremo, y tu cuerpo físico, podríamos hacer un buen dúo.
+
+}
+{291}{}{En primer lugar, ¿Por què no me dices exactamente que es este lugar? }
+{300}{}{Por qué, es la Agencia de Protección Ambiental, por supuesto. Esta es una instalación federal establecida originalmente
+regula los productos químicos y protege el medio ambiente, ¡pero es mucho más que eso! Porque estas en una de las mejores instalaciones de investigación experimental del país. Tenemos muchas cosas emocionantes en desarrollo. Por supuesto, el progreso ha sido un poco lento últimamente, con la caída de la civilización y todo...}
 {301}{}{Eso es comprensible.}
 {302}{}{El apocalipsis no es excusa para ser holgazanear}
-{310}{}{Yes, if only I had an able bodied assistant, I could finally make some more progress on my research...}
+{310}{}{Sí, si solo tuviera un buen asistente, finalmente podría avanzar un poco más en mi investigación ...}
 {311}{}{¿Qué clase de ayuda necesitas?}
-{320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
-{321}{}{Hell yeah I would!}
+{320}{}{Bueno, eso depende. No creo que te sientas cómodo empuñando una gran pistola experimental, ¿verdad?}
+{321}{}{Demonios ¡Si lo haría!}
 {322}{}{Claro.}
 {323}{}{Creo que voy a pasar.}
-{330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
- wandering into this facility. It's bound to happen again within a century or two. Goodbye.}
+{330}{}{Oh, ya veo Es una pena. Oh bueno, no hay resentimientos. Esperaré hasta que llegue la próxima persona de carne y hueso deambulando por esta instalación. Es probable que vuelva a suceder dentro de un siglo o dos. Adiós.}
 {340}{}{Hola de nuevo. No tengo que suponer que haz reconsiderado mi oferta para ayudarme a Probar la arma experimental?}
 {341}{}{No. Lo siento.}
 {342}{}{De acuerdo. Por supuesto.}
-{350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
- friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
- *Solar Scorcher*. However, it's yet to be tested under direct sunlight, which is, of course, where you come in.}
-{351}{}{So you just want me to go outside and shoot this thing? That's it?}
-{352}{}{Yeah, yeah, just give me the gun already.}
+{350}{}{Excelente! Eres el candidato perfecto. Verás, para ayudar al ejército a estar más "cerca" de la naturaleza, desarrollé un arma que no requiere ninguna munición, ya que solo funciona en * luz *. Lo llamo el * lanzallamas solar *. Sin embargo, aún no se ha utilizado bajo la luz solar directa, que es, por supuesto, donde entras.}
+{351}{}{¿Entonces solo quieres que salga y le dispare con esta cosa? ¿Eso es?}
+{352}{}{Si, si, solo dame el arma ya. }
 {360}{}{Essentially, yes. Of course, I need to know how well it fares in a combat situation, so I'd appreciate it if you
  could find some threatening life forms out there, which you could then spectacularly dispatch with my Solar Scorcher.}
 {361}{}{Go outside and kill something, got it. So, where is this Solar Scorcher?}
