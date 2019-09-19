@@ -39,7 +39,7 @@
 {312}{}{Nevermind. I'm not interested.}
 {320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
 {321}{}{Don't worry. I'm working on it.}
-{322}{}{I'll get around to it.}
+{322}{}{Me pondré con ello.}
 {330}{}{We'd have more visitors if the grounds were clean.}
 {331}{}{How am I supposed to conduct tours without proper lighting?}
 {332}{}{Those plants are killing all potential tourists.}

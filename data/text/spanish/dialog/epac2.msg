@@ -50,29 +50,25 @@ regula los productos químicos y protege el medio ambiente, ¡pero es mucho más qu
 {350}{}{Excelente! Eres el candidato perfecto. Verás, para ayudar al ejército a estar más "cerca" de la naturaleza, desarrollé un arma que no requiere ninguna munición, ya que solo funciona en * luz *. Lo llamo el * lanzallamas solar *. Sin embargo, aún no se ha utilizado bajo la luz solar directa, que es, por supuesto, donde entras.}
 {351}{}{¿Entonces solo quieres que salga y le dispare con esta cosa? ¿Eso es?}
 {352}{}{Si, si, solo dame el arma ya. }
-{360}{}{Essentially, yes. Of course, I need to know how well it fares in a combat situation, so I'd appreciate it if you
- could find some threatening life forms out there, which you could then spectacularly dispatch with my Solar Scorcher.}
-{361}{}{Go outside and kill something, got it. So, where is this Solar Scorcher?}
-{370}{}{Not so hasty, my friend. I don't want you to simply shoot the weapon outside aimlessly. I need to know how well
- it fares in a combat situation, so I'd appreciate it if you could find some threatening life forms out there, which you
- could then spectacularly dispatch with my Solar Scorcher.}
-{371}{}{Go outside and kill something, got it. So, where is this Solar Scorcher?}
-{380}{}{Oh, yes, it's in that locker on the wall over there, next to my projector. The passcode is 03141879.}
-{381}{}{Alright, I'll try it out and let you know how it goes.}
-{390}{}{Ah, welcome back. Have you gotten a chance to test the Solar Scorcher?}
-{391}{}{Sure did. It scorched the hell out of things.}
-{392}{}{Sure did, but the piece of shit broke on me. I had to trash it.}
+{360}{}{En esencia, si. Por supuesto, necesito saber qué tan bien se comportó durante el combate,
+así que agradecería si pudieras encontrar algunas formas de vida por ahí, que destruirías espectacularmente con mi quemador solar.}
+{361}{}{Sal y mata algo, lo tengo. Entonces, ¿dónde está el Abrasador Solar?}
+{370}{}{No tan apresuradamente, mi amigo. No quiero que simplemente dispares el arma afuera sin rumbo. Tengo que saber qué tan bien se comporta en el curso de las operaciones de combate, por lo tanto, te agradecería si podrías encontrar algunas formas de vida amenazantes,que usted entonces podría despachar espectacularmente con mi Abrasador Solar.}
+{371}{}{Sal y mata algo, lo tengo. Entonces, ¿dónde está el Abrasador Solar?}
+{380}{}{Oh, sí, está en ese casillero de la pared, al lado de mi proyector. El código de acceso es 03141879.}
+{381}{}{Muy bien, lo probaré y te diré cómo va.}
+{390}{}{Ah, bienvenido de nuevo. ¿Has tenido la oportunidad de probar el Abrasador Solar?}
+{391}{}{Claro que si. Literalmente establece su objetivo. }
+{392}{}{Claro que sí, pero el pedazo de mierda se rompió sobre mí. Tuve que tirarlo a la basura.}
 {393}{}{No, aún no.}
-{394}{}{I'll get around to it.}
-{400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
- ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}
+{394}{}{Me pondré con ello.}
+{400}{}{¡Excelente! Estoy encantado de saber que funciona según lo previsto. Gracias por ayudarme con esto. ¿Por qué no continúas y conservas el Abrasador Solar? Prefiero que sirva de algo que quedarse aquí y recoger el polvo.}
 {401}{}{¡Gracias!}
 {402}{}{Bien,pero no planeo devolvertelo}
-{410}{}{Oh... I see. I don't understand, that prototype withstood vigorous lab testing... [He shakes his head
- sadly.] Anyway, thanks for assisting me.}
+{410}{}{Oh ya veo. No entiendo, ese prototipo soportó pruebas de laboratorio vigorosas ... [Sacude la cabeza con tristeza.] De todos modos, gracias por ayudarme.}
 {411}{}{Lo que sea.}
 {412}{}{No hay problema.}
-{420}{}{Nice to see you again. However, if you'll excuse me, I've got a plethora of projects that require my attention.}
+{420}{}{Qué gusto verte de nuevo. Sin embargo, si me disculpa, tengo una gran cantidad de proyectos que requieren mi atención.}
 {421}{}{[Fin.]}
 {500}{}{Haz arreglado el Holograma 00000.}
-{510}{}{You test the Solar Scorcher for the Director of Science.}
+{510}{}{Usted prueba el Abrasador Solar para el Director de Ciencia.}

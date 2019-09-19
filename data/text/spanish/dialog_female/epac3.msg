@@ -1,43 +1,35 @@
-{100}{}{You see A dull silver toaster sitting on a desk.}
-{101}{}{You see The Brave Little Toaster.}
-{102}{}{BLT, your chirpy, if slightly annoying, breakfast companion.}
-{200}{}{Howdy Doodley-Do! I'm The Brave Little Toaster, your chirpy breakfast companion. But you can just call me BLT. Say, would anybody like any toast?}
+{100}{}{Ves una tostadora de plata opaca sentada en un escritorio.}
+{101}{}{Ves La tostadora valiente.}
+{102}{}{LTV, tu compañero de desayuno alegre y ligeramente cansado.}
+{200}{}{Hola Doodley-Do! Soy La Tostadora Valiente, tu alegre compañero de desayuno. Pero puedes llamarme LTV. Digamos, ¿a alguien le gustaría un brindis?}
 {201}{}{No, gracias, pero quiero algo de información.}
 {202}{}{Ahora no, tengo que irme.}
-{210}{}{No, problem! I'm red hot in quantum mechanics, submolecular biology and TV theme tunes. Ask me anything. First though, may I ask you a question?}
+{210}{}{¡No hay problema! Estoy al rojo vivo en mecánica cuántica, biología submolecular y temas de TV. Pregúntame lo que sea. Primero, ¿puedo hacerte una pregunta?}
 {211}{}{Supongo que sí. ¿Qué puedo hacer por ti?}
-{220}{}{Are you sure you won't have some toast?}
-{221}{}{NO! I don't want any toast. No muffins, no teacakes. No buns, baps, baguettes or bagels. No croissants, no crumpets, no pancakes, no potato cakes and definitely, no smegging flapjacks!!!}
+{220}{}{¿Estás seguro de que no tendrás tostadas?}
+{221}{}{¡NO! No quiero ninguna tostada. Sin magdalenas, sin pasteles con té. No hay bollos, baguettes y bagels. ¡Sin croissants, sin bollos, sin panqueques, sin pasteles de patata y definitivamente, sin flapjacks!}
 {230}{}{Oh! Asi que eres una mujer waffle!}
 {231}{}{Eh, ya he tenido suficiente.}
-{232}{}{[You smack your head in frustration.] I've got to be going. I... I just have to be somewhere. Anywhere other than here.}
-{240}{}{No, wait. I'm sorry. I'm not just a one-dimensional toast obsessed appliance. What can I do for you?}
-{241}{}{I just need some information about this place. What can you tell me about it?}
-{250}{}{I can tell you one thing: this is a terrible place for someone of my toast making expertise. Did you know that it's
- been well over a century since I had the pleasure of making toast for someone? You're the first toast consumer to come
- through here since the war, and, here's the real kicker: were you to actually request toast, I'm not even sure I'd be up
- for the task. You see, I'm feeling a little under the weather inside. It's rather embarrassing, really.}
-{251}{}{That's, uh, quite tragic. So, why are you here?}
+{232}{}{[Te golpeas la cabeza con frustración.] Tengo que irme. Yo ... solo tengo que estar en alguna parte. En cualquier otro lugar que no sea aquí.}
+{240}{}{No, espera. Lo siento. No soy solo un aparato obsesivo tostado unidimensional. ¿Qué puedo hacer por ti?}
+{241}{}{Solo necesito información sobre este lugar. ¿Qué me puedes decir al respecto?}
+{250}{}{Puedo decirte una cosa: este es un lugar terrible para alguien de mi experiencia en hacer tostadas. ¿Sabías que ha pasado más de un siglo desde que tuve el placer de brindar por alguien? Eres el primer consumidor de tostadas en venir aquí desde la guerra, y, aquí está el verdadero truco: si realmente solicitaras tostadas, ni siquiera estoy seguro de estar preparado para la tarea. Ya ves, me siento un poco bajo el clima interior. Es bastante embarazoso, de verdad.}
+{251}{}{Eso es bastante trágico. ¿Entonces por qué estás aquí?}
 {252}{}{Ya veo. Gracias por tu tiempo.}
-{260}{}{I think he had a consignment of gas masks brought in before the accident. Some people even said that it was his errors that caused the problem in the first place.}
+{260}{}{Creo que tiene un envío de máscaras de gas traídas antes del accidente. Algunas personas incluso dijeron que fueron sus errores los que causaron el problema en primer lugar.}
 {261}{}{Entonces: ¿por qué estás aquí?}
 {262}{}{Gracias por la información.}
-{270}{}{Why, to make your mornings as cheerful as they can be! Say, after all this talking you wouldn't happen to have made some room
- in your stomach for some toast after all, have you?}
-{271}{}{I thought we got past this!! I'm not hungry and never will be. So, why are you REALLY here?}
-{280}{}{Alright, no need to shout. Angry is never a good way to begin your day. I was created as a breakfast companion
- but I can also be used for lunch and dinner. There isn't a time of day when some toast wouldn't hurt. If you're asking
- why I happen to be sitting here with a wire hanging from my side, well, it seems Mr. Handy doesn't always live up to his
- namesake -- the bloke started breaking down right in the middle of my annual maintenance checkup. Of course, he scuttled off
- to a maintenance bay and left me hanging.}
+{270}{}{¡Por qué, para que tus mañanas sean lo más alegres posible! Digamos, después de todo esto de hablar, no habrías hecho un poco de espacio en tu estómago para un brindis después de todo, ¿verdad?}
+{271}{}{¡Pensé que habíamos superado esto! No tengo hambre y nunca lo estaré. Entonces, ¿por qué estás REALMENTE aquí?}
+{280}{}{Muy bien, no hay necesidad de gritar. Enojado nunca es una buena manera de comenzar tu día. Fui creado como un compañero de desayuno, pero también puedo ser utilizado para el almuerzo y la cena. No hay una hora del día en que alguna tostada no duela. Si me preguntas por qué estoy sentado aquí con un cable colgando de mi lado, bueno, parece que el Sr. Handy no siempre está a la altura de su homónimo: el tipo comenzó a romperse justo en el medio de mi anual chequeo de mantenimiento. Por supuesto, se fue a una bahía de mantenimiento y me dejó colgando.}
 {281}{}{Ya veo. Bien, gracias por tu tiempo.}
-{290}{}{Not a problem. Do stop by again. Maybe then you'll be hungry.}
+{290}{}{No es un problema. Haz una parada de nuevo. Quizás entonces tengas hambre.}
 {291}{}{Lo dudo. Adiós.}
-{300}{}{I knew you you'd be back. They always are. So, do you want any toast now?}
-{301}{}{I knew you you'd be back. They always are. And now that I'm fully functional again, I can make toast better than ever. So, do you want any toast now?}
+{300}{}{Sabía que volverías. Siempre vuelven. Entonces, ¿quieres alguna tostada ahora?}
+{301}{}{Sabía que volverías. Siempre vuelven. Y ahora que estoy completamente funcional nuevamente, puedo hacer tostadas mejor que nunca. Entonces, ¿quieres alguna tostada ahora?}
 {302}{}{Ahora no. Necesito preguntarte algo.}
 {303}{}{Nope. He de irme.}
-{310}{}{Sure, what would you like to know? I hope it's about toast.}
+{310}{}{Claro, ¿qué te gustaría saber? Espero que se trate de tostadas.}
 {311}{}{¿Qué es este lugar?}
 {312}{}{No importa. Adiós.}
 {350}{}{Hey, you fixed me! I knew Mr. Handy left the job unfinished. Now I feel better than ever! Thanks.}
