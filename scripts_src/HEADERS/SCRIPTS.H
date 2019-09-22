@@ -574,7 +574,7 @@
 #define SCRIPT_BCJOHN           (556)   // BCJohn.int      ; John vault 15 guy entrance
 #define SCRIPT_BCJONES          (557)   // BCJones.int     ; Jones doctor in vault 15
 #define SCRIPT_BCKARLA          (558)   // BCKarla.int     ; Karla Vault 15 guard
-#define SCRIPT_V15SENT          (558)   // V15sent.int     ; vault 15 secret entrance
+#define SCRIPT_V15SENT          (559)   // V15sent.int     ; vault 15 secret entrance
 #define SCRIPT_BCREBECC         (560)   // VCRebecc.int    ; Rebecca V15ent
 #define SCRIPT_MIDOOR           (561)   // miDoor.int      ; Modoc Doors
 #define SCRIPT_MCDTHCLW         (562)   // mcDthClw.int    ; Modoc Rose's "Chicken"

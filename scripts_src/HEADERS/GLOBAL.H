@@ -80,7 +80,6 @@
 #define GVAR_KNOWLEDGE_HEALING_POWDER        (8)
 #define GVAR_KILL_EVIL_PLANTS                (9)
 #define GVAR_START_ARROYO_TRIAL              (10)
-#define GVAR_QUEST_KILL_EVIL_PLANTS          (101)
 #define GVAR_ARROYO_SPEAR                    (183)
 #define GVAR_ARROYO_DOG                      (191)
 #define GVAR_DUMAR_STATUS                    (369)
@@ -217,8 +216,6 @@
 #define GVAR_MODOC_KARL_HOME                 (129) //comment out by killap - not needed
 #define GVAR_MODOC_SPOKE_PROTECTOR           (130)
 #define GVAR_MODOC_MESSAGE                   (131)
-#define GVAR_MODOC_LOST_AND_FOUND            (134)
-#define GVAR_CORNELIUS_STATE                 (135)
 #define GVAR_MODOC_STAGE_TIMER               (290)
 #define GVAR_MODOC_STAGE_STATE               (291)
 #define GVAR_MODOC_KILL_ALL_BRAHMIN_TIME     (99)
@@ -281,7 +278,6 @@
 #define GVAR_VAULT_STARK_RECON               (529)
 #define GVAR_FINISHED_STARK_RECON            (540)
 #define GVAR_VAULT_CITY_DESIGNER_NOTES       (541)
-#define GVAR_DROP_PLAYER_BY_VAULT_8          (584)
 
 #define GVAR_PIPBOY_TOUR_GUIDE               (404)
 #define GVAR_PIPBOY_CREDITS                  (405)
@@ -701,7 +697,7 @@
 #define GVAR_GRAVE_FLAGS_1                  (200)
 #define GVAR_GRAVE_FLAGS_2                  (201)
 #define GVAR_GRAVE_FLAGS_3                  (202)
-#define GVAR_8_BALL_TOILET_SECRET           (243)
+#define GVAR_8_BALL_TOILET_SECRET           (245) //was shared with GVAR_NCR_GENERIC_STATE, taking an unused gvar for this
 #define GVAR_8_BALL_TRASH_SECRET            (244)
 #define GVAR_8_BALL_VAULT_TERMINAL          (599)
 #define GVAR_GRAVES_UNEARTHED               (319)

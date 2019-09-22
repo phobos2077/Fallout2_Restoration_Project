@@ -45,15 +45,6 @@ end
 procedure map_enter_p_proc begin
    if( map_first_run ) then
       display_msg( mstr(100) );
-
-//   if( global_var( GVAR_DROP_PLAYER_BY_VAULT_8 ) == 1 ) then begin
-//      //set_global_var( GVAR_DROP_PLAYER_BY_VAULT_8, 0 );
-//      //override_map_start_hex(20897,0,5);
-//      move_to( dude_obj, 20897, 0 );
-//      critter_attempt_placement( dude_obj, 20897, 0 );
-//      animate_rotation( 5 );
-//   end
-
    Full_Light;
 end
 
