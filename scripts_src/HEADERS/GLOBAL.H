@@ -278,6 +278,7 @@
 #define GVAR_VAULT_STARK_RECON               (529)
 #define GVAR_FINISHED_STARK_RECON            (540)
 #define GVAR_VAULT_CITY_DESIGNER_NOTES       (541)
+#define GVAR_DROP_PLAYER_BY_VAULT_8          (261) // was shared with GVAR_ENCLAVE_COM_LINE, separated into a new gvar
 
 #define GVAR_PIPBOY_TOUR_GUIDE               (404)
 #define GVAR_PIPBOY_CREDITS                  (405)
