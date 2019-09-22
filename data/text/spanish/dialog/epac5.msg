@@ -1,25 +1,27 @@
 {100}{}{Ves un Holograma.}
-{101}{}{You see the Director of Operations.}
-{102}{}{Hologram 12001. He directs operations within the EPA.}
-{200}{}{[This weasely looking hologram regards you with a nervous smile.] Hello, welcome to the EPA. You may have noticed that we're experiencing some mild issues, but we'll cross that bridge once we come to it.}
+{101}{}{Tú ves al Director de Operaciones.}
+{102}{}{Holograma 12001. Dirige las operaciones dentro de la APA.}
+{200}{}{[Este holograma de aspecto deslumbrante te mira con una sonrisa nerviosa.] Hola, bienvenido a la APA. Es posible que haya notado que estamos experimentando algunos problemas leves, pero cruzaremos ese puente una vez que lleguemos a él.
+ 
+}
 {201}{}{Eh, de acuerdo. ¿Quién eres?}
-{210}{}{I'm the Director of Operations for the EPA.}
-{211}{}{Oh, right. [You scratch your head] What does that actually mean?}
-{220}{}{[He chuckles uneasily.] Why, I coordinate things. Get the ball rolling. Now it's in your court. I like to bring out the best in people. Here at the EPA, that's what it's all about. Honestly. Integrity. Thank you, we value your opinion.}
+{210}{}{Soy el Director de Operaciones de la APA.}
+{211}{}{Correcto. [Se rasca la cabeza] ¿Qué significa eso realmente?}
+{220}{}{[Se ríe inquieto.] Por qué, coordino las cosas. Rodar la pelota. Ahora está en tu corte. Me gusta sacar lo mejor de las personas. Aquí en la APA, de eso se trata. Honestamente. Integridad. Gracias, valoramos tu opinión.}
 {221}{}{¿De qué demonios estás hablando?}
-{230}{}{I assure you that we are working diligently to resolve all issues. We've had a bit of downsizing, but things are looking up. I feel confident that all quotas will be achieved in due time.}
-{231}{}{What quotas? You're not making any sense. Do you actually do anything here? Can you help me, or not?}
-{240}{}{That all depends on your outlook. My hands are tied on this matter, but I'd be delighted to assist you if you could.}
+{230}{}{Le aseguro que estamos trabajando diligentemente para resolver todos los problemas. Hemos tenido un poco de reducción de personal, pero las cosas están mejorando. Estoy seguro de que todas las cuotas se alcanzarán a su debido tiempo.}
+{231}{}{¿Qué cuotas? No tienes ningún sentido. ¿Realmente haces algo aquí? ¿Puedes ayudarme o no?}
+{240}{}{Todo depende de tu perspectiva. Mis manos están atadas en este asunto, pero estaría encantado de ayudarlo si pudiera.}
 {241}{}{Olvídalo. Adiós.}
-{242}{}{I'm sorry I couldn't be of further assistance.}
-{243}{}{Thank you for your time.}
-{244}{}{I don't want to comment.}
-{245}{}{No comment.}
-{246}{}{I would, but I'm currently authoratally challenged.}
-{247}{}{We'll tackle that issue once we come to it.}
-{248}{}{This meeting is for discussion, not for action.}
-{249}{}{I'm confident the EPA is on track for success.}
-{250}{}{That issue's relevancy is in question.}
-{251}{}{Let's not be hasty, lest we act too quick.}
-{252}{}{That sounds adequate.}
-{253}{}{I understand your concern.}
+{242}{}{Lo siento, no podría ser de más ayuda.}
+{243}{}{Gracias por tu tiempo.}
+{244}{}{No quiero comentar.}
+{245}{}{No comentar.}
+{246}{}{Me gustaría, pero actualmente estoy discapacitado.}
+{247}{}{Abordaremos este problema una vez que lleguemos a él.}
+{248}{}{Esta reunión es para discusión, no para acción.}
+{249}{}{Estoy seguro de que la APA está en camino al éxito.}
+{250}{}{Que cuestiones relevantes está en cuestión.}
+{251}{}{No seamos apresurados, no sea que actuemos demasiado rápido.}
+{252}{}{Eso suena adecuado.}
+{253}{}{Entiendo tu preocupación.}

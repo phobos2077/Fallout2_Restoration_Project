@@ -32,17 +32,15 @@
 {310}{}{Claro, ¿qué te gustaría saber? Espero que se trate de tostadas.}
 {311}{}{¿Qué es este lugar?}
 {312}{}{No importa. Adiós.}
-{350}{}{Hey, you fixed me! I knew Mr. Handy left the job unfinished. Now I feel better than ever! Thanks.}
-{351}{}{Sure, it's what I do. See you later.}
-{352}{}{Now hold on there. If you won't let me reward you with toast, then at least allow me give you a little tip. You
- know those slot machines you find in casinos? Well, I calculated a method that can jinx the machines out of their cash.
- I have an IQ of 6000, you know. When I'm not making toast, I like to ponder these kinds of things. For helping me out,
- I'll tell you these secret codes. Just use one of the machines like you normally would and...}
+{350}{}{Oye, ¡me arreglaste! Sabía que el Sr. Mañoso dejó el trabajo sin terminar. ¡Ahora me siento mejor que nunca! Gracias.}
+{351}{}{Claro, es lo que hago. Nos vemos más tarde.}
+{352}{}{Ahora espera allí. Si no me dejas recompensarte con tostadas, entonces al menos permíteme darte un pequeño consejo. ¿Conoces esas máquinas tragamonedas que encuentras en los casinos? Bueno, calculé un método que puede desviar las máquinas de su efectivo. Tengo un coeficiente intelectual de 6000, ya sabes. Cuando no estoy haciendo tostadas, me gusta reflexionar sobre este tipo de cosas. Por ayudarme, te diré estos códigos secretos. Simplemente use una de las máquinas como lo haría normalmente y ...}
 {353}{}{[MÁS]}
-{354}{}{...And that's all there is to it. You'll be rich in no time, eating toast to your heart's content.}
+{354}{}{...Y eso es todo lo que hay que hacer. Serás rico en poco tiempo, comiendo pan tostado a tu gusto.
+}
 {355}{}{Gracias. Lo agradezco. Hasta la vista.}
 {400}{}{Has reparado con éxito la tostadora.}
 {401}{}{No has conseguido reparar la tostadora.}
 {402}{}{La tostadora ya está reparado.}
 {403}{}{ ha reparado con éxito la tostadora.}
-{404}{}{ fails to repair the toaster.}
+{404}{}{ No reparás la tostadora. }
