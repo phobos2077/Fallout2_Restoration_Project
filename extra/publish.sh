@@ -33,6 +33,9 @@ if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
   # pack appearance, too
   ./"$extra_dir"/publish/appearance.sh
 
+  # party orders
+  ./"$extra_dir"/publish/party_orders.sh
+
   # sfall
   ./"$extra_dir"/publish/sfall.sh
 
