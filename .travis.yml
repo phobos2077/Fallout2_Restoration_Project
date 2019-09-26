@@ -21,12 +21,12 @@ env:
     - extra_dir: extra
     - bin_dir: extra/bin
     - appearance_dir: appearance
+    - appearance_repo: BGforgeNet/Fallout2_Hero_Appearance
     - release_dir: release
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
     - WINEARCH: win32
     - WINEDEBUG: -all
-    - appearance_repo: BGforgeNet/Fallout2_Hero_Appearance
 
 deploy:
   provider: releases
