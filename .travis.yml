@@ -26,6 +26,7 @@ env:
     - mpack_7z: mpack.7z
     - WINEARCH: win32
     - WINEDEBUG: -all
+    - appearance_repo: BGforgeNet/Fallout2_Hero_Appearance
 
 deploy:
   provider: releases
