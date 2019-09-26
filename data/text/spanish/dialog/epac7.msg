@@ -1,13 +1,13 @@
 {100}{}{Ves un Holograma.}
-{101}{}{You see the Director of Public Relations.}
-{102}{}{Hologram 40011. She is in charge of all the tours and press releases at the EPA.}
-{200}{}{[This attractive female hologram greets you with a friendly smile.] Hello visitor, and welcome to the EPA. How may I help you? Lunch will be served in the cafeteria at mid-day for all company employees.}
-{201}{}{What? Oh nevermind. Who are you?}
-{202}{}{I need to be going. Bye.}
-{210}{}{Me? I'm Hologram 40011, the Director of Public Relations. I organize trips, tours and other things and ensure that the place is running smoothly for the public on a day to day basis. The tour of the EPA museum will begin shortly. Please have your passes ready.}
-{211}{}{That sounds like a riveting job. Goodbye.}
-{212}{}{So maybe you could help me with something?}
-{220}{}{Of course. I'd love to help. How may I assist you? Tour pamphlets can be found in the main office and in letterboxes throughout the EPA.}
+{101}{}{Ves al Director de Relaciones Públicas.}
+{102}{}{Holograma 40011. Ella está a cargo de todas las giras y comunicados de prensa en la APA.}
+{200}{}{[Este atractivo holograma femenino te saluda con una sonrisa amistosa.] Hola visitante, y bienvenido a la APA. ¿Como puedo ayudarte? El almuerzo se servirá en la cafetería a medio día para todos los empleados de la empresa.}
+{201}{}{¿Qué? Oh no importa. ¿Quién eres tú?}
+{202}{}{Necesito irme Adiós.}
+{210}{}{¿Yo? Soy el holograma 40011, la directora de relaciones públicas. Organizo viajes, excursiones y otras cosas y me aseguro de que el lugar funcione sin problemas para el público en el día a día. El recorrido por el museo APA comenzará en breve. Por favor tenga sus pases listos.}
+{211}{}{Eso suena como un trabajo fascinante. Adiós.}
+{212}{}{Entonces, ¿podrías ayudarme con algo?}
+{220}{}{Por supuesto. Me encantaría ayudar ¿Cómo puedo ayudarte? Los folletos turísticos se pueden encontrar en la oficina principal y en buzones en todo el APA.}
 {221}{}{There's some doors around the complex that I can't open without speaking a password. I'd really like to get through them and see more of your facility. I don't suppose you know the password?}
 {230}{}{Of course I know the password, but unfortunately, I'm unable to share it with you. I understand your enthusiasm for wanting to experience all that this great facility has to offer, but there are rules we must follow for your own safety. Remember everyone, we offer guided tours of our complex at predetermined times.}
 {231}{}{Oh, you don't have to worry about my safety, I'm the Chosen One. Besides, when's the last time you had a *real* visitor? Do you really want to leave me disappointed?}
