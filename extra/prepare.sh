@@ -32,6 +32,9 @@ sudo apt-get -q -y --no-install-recommends install wine-stable wine32 p7zip p7zi
 wget -q "$mpack_url" -O "$mpack_7z"
 7z e "$mpack_7z" "$mpack_compile"
 mv -f "$compile_exe" "$bin_dir/"
+# sfall headers
+7z x "$mpack_7z" "scripting_docs/headers"
+mv "scripting_docs/headers" "scripts_src/HEADERS/sfall"
 
 # wcc, check cache
 if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe" ]]; then
