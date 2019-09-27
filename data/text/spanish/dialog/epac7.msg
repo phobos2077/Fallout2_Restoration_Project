@@ -11,12 +11,12 @@
 {221}{}{There's some doors around the complex that I can't open without speaking a password. I'd really like to get through them and see more of your facility. I don't suppose you know the password?}
 {230}{}{Of course I know the password, but unfortunately, I'm unable to share it with you. I understand your enthusiasm for wanting to experience all that this great facility has to offer, but there are rules we must follow for your own safety. Remember everyone, we offer guided tours of our complex at predetermined times.}
 {231}{}{Oh, you don't have to worry about my safety, I'm the Chosen One. Besides, when's the last time you had a *real* visitor? Do you really want to leave me disappointed?}
-{232}{}{Right then. Goodbye}
+{232}{}{De acuerdo entonces. Adiós.}
 {240}{}{Of course not. But, if I give you the password, then not only could I be endangering you, but I'd also be endangering the complex. Children, please do not taunt the holograms.}
 {241}{}{How could that endanger the complex? I hate to break it to you lady, but this complex has already gone to hell and back. There's nothing here but hazardous chemicals and broken robots. Honestly, I don't see how I could possibly make matters worse.}
-{242}{}{Oh forget it then.}
+{242}{}{Olvídalo entonces.}
 {250}{}{I... I don't know. I'd be defying protocol. But... perhaps if you could assist me with something. Visitors, please note that the blue level is restricted for reasons that are very uninteresting. There's no need to be curious about it.}
-{251}{}{Sure, I could assist you. Just tell me what you need.}
+{251}{}{Ah, venga. Lo siento. Sólo dime lo que necesito saber.}
 {260}{}{Ah yes, it looks much better in here now, thank you. The password is ABRE. Just speak clearly to the door and it
  will open. Now would everybody please...}
 {261}{}{YES, we've heard you already. Thanks for the code. Goodbye.}
