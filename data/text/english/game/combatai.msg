@@ -5034,7 +5034,7 @@
 #
 # target hit in right leg
 #
-{44860}{}{Great. I'll be the only Deathclaw at home with a limp.}
+{44860}{}{Great. I'll be the only deathclaw at home with a limp.}
 {44861}{}{Ouch! My leg...}
 {44862}{}{You'll pay with your leg for what you did to mine.}
 {44863}{}{I'll miss that leg...}

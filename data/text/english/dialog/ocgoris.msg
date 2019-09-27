@@ -30,17 +30,17 @@
 {123}{}{What are you doing here?}
 {124}{}{Are you a prisoner here?}
 {125}{}{How long have you been here?}
-{126}{}{What can you tell me about the Deathclaws here?}
+{126}{}{What can you tell me about the deathclaws here?}
 {127}{}{Do you know what happened to the people who used to live here in the vault?}
 {128}{}{What can you tell me about Gruthar?}
-{129}{}{Do you think the Deathclaws are a threat to humans?}
+{129}{}{Do you think the deathclaws are a threat to humans?}
 {130}{}{Do you have any information on this Enclave you spoke of?}
 {131}{}{What do you know about this virus?}
 {132}{}{You mentioned you wanted to do some traveling. How about joining me?}
 {133}{}{Sorry, but I've got to go now.}
 {134}{}{Hmm... I'm surprised Gruthar didn't tell you about me. Oh well. }
 {135}{}{I'm a student of sorts. I'm trying to learn as much as I can about the world and the different
- cultures that have developed. Right now I'm studying the culture the Deathclaws are forming and
+ cultures that have developed. Right now I'm studying the culture the deathclaws are forming and
  comparing it to human development along similar lines. I've acquired just about all the information I
  need here. It would help my research a great deal if I could do some traveling. However, I don't want
  to go it alone, if you know what I mean.}
@@ -57,10 +57,10 @@
 {144}{}{Wow, you're pretty new here yourself. If you don't mind, I need to know more.}
 {145}{}{You weren't long on that answer. Care to tell me more?}
 {146}{}{I see. I need to ask a couple more questions.}
-{147}{}{These aren't your average Deathclaws, as I'm sure you noticed. They've had their intelligence
+{147}{}{These aren't your average deathclaws, as I'm sure you noticed. They've had their intelligence
  enhanced by some means not understood by them. It was done by a group of humans known as 'The
- Enclave.' It seems this Enclave needed an army and they chose Deathclaws because of their ferocity,
- physical prowess, and... well, you get the picture. Anyway, the only thing lacking in Deathclaws was
+ Enclave.' It seems this Enclave needed an army and they chose deathclaws because of their ferocity,
+ physical prowess, and... well, you get the picture. Anyway, the only thing lacking in deathclaws was
  their intelligence. They needed to be smart enough to understand complex commands, but not so smart
  that they'd be a threat to 'those in charge.'}
 {148}{}{That sounds like the biggest crock of shit I've ever heard in my life!}
@@ -75,7 +75,7 @@
  weighed heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the
  affair. The humans were taken alive, but who knows what has happened to them since.}
 {153}{}{Hmm... I need to ask some more questions.}
-{154}{}{I knew the damn Deathclaws were responsible somehow! I need some more information, though.}
+{154}{}{I knew the damn deathclaws were responsible somehow! I need some more information, though.}
 {155}{}{Sometimes we're forced into doing distasteful things by situations outside of our control.
  Gruthar should learn to forgive himself.}
 {156}{}{Gruthar is not the monster that he appears to be. He genuinely cares about all of us here, and
@@ -83,12 +83,12 @@
  don't know what else I can say about him. You would have to get to know him and judge for yourself.}
 {157}{}{I'll not make any snap decisions about him. He deserves better.}
 {158}{}{Sure. Let's talk about some other things.}
-{159}{}{He's a Deathclaw. I find it hard to believe that he can have any redeeming qualities.}
+{159}{}{He's a deathclaw. I find it hard to believe that he can have any redeeming qualities.}
 {160}{}{Well... the potential is there, especially when you take their new intelligence into account.
  However, I don't think that Gruthar and his pack pose a threat. They all seem to respect life and
  personal freedom above all else. Now, I don't expect you to take my word on this. I would ask you to
  judge for yourself. There are others who live here whom you can ask your questions.}
-{161}{}{Only a dumbass would fail to see the threat potential of these Deathclaws!}
+{161}{}{Only a dumbass would fail to see the threat potential of these deathclaws!}
 {162}{}{Thanks for the advice; I will ask around. Can I ask you a few more questions, though?}
 {163}{}{Hmm... Okay, how about a few more questions?}
 {164}{}{No, only what I've told you. Wait, there is one other thing. The Enclave showed an interest in some ruins to the west of here. Why, I don't know. That's about it.}
@@ -143,13 +143,13 @@
 {203}{}{Hey, I'm looking for a traveling companion. You up for it?}
 {204}{}{What can I do for you,} # 216
 {205}{}{You bad thing! Why no tell?}
-{206}{}{You're a Deathclaw? Is there a reason you didn't mention this to me?}
+{206}{}{You're a deathclaw? Is there a reason you didn't mention this to me?}
 {207}{}{How do I put this... Bad thing you kill, no talk. Me not tell you so you see me good thing. Not
  kill me. Okay me stay with you?}
-{208}{}{I'm sorry to have deceived you, but humans have a habit of shooting Deathclaws on sight. I felt
+{208}{}{I'm sorry to have deceived you, but humans have a habit of shooting deathclaws on sight. I felt
  that it would be to my advantage to hide my identity until you could see for yourself that I am on your
  side in this venture. If you want me to leave, I'll do so. But I would rather stay and help you on your
- quest. I want to show that humans and Deathclaws can work together as friends, not enemies.}
+ quest. I want to show that humans and deathclaws can work together as friends, not enemies.}
 {209}{}{Me not like, you go.}
 {210}{}{Okay, you stay.}
 {211}{}{I'm sorry, but I don't like being deceived. You should leave.}
@@ -162,18 +162,18 @@
 {215}{}{.}
 {216}{}{?}
 
-{217}{}{So, the Enclave started messing with a virus, or some such thing, and injected the Deathclaws
+{217}{}{So, the Enclave started messing with a virus, or some such thing, and injected the deathclaws
  with it. This virus was known to mutate humans into some sort of super beings, so the Enclave wanted
- to see what it would do to Deathclaws. Well, the result was a breed of Deathclaws so smart that they
+ to see what it would do to deathclaws. Well, the result was a breed of deathclaws so smart that they
  could see they were destined for slavery. So, they played dumb until they could gain their freedom.
  And here they are!}
-{218}{}{I am against attacking any Deathclaw.}
+{218}{}{I am against attacking any deathclaw.}
 
 {219}{}{I suddenly sense that my pack is in trouble. I am sorry to leave you, but I must check on my brothers.}
 {220}{}{Okay.}
 {221}{}{The security cameras recorded what has happened. You should go check it.}
 
-{222}{}{You see a gray Deathclaw. It's Goris.}
+{222}{}{You see a gray deathclaw. It's Goris.}
 {223}{}{You see a humanoid figure wearing a long sleeved, hooded robe. It's Goris.}
 
 #specific party messages
@@ -194,7 +194,7 @@
 {1012}{}{Make sure you don't have a weapon ready, Okay?}
 {1166}{}{Lets change up the distance between us.}
 {1016}{}{Let's go.}
-{1017}{}{You're a Deathclaw? Is there a reason you didn't mention this to me before?}
+{1017}{}{You're a deathclaw? Is there a reason you didn't mention this to me before?}
 {1018}{}{That's it for now.}
 {1000}{}{Yes,}
 {1156}{}{? }

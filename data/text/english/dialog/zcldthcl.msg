@@ -18,4 +18,4 @@
 #  The following lines are for describing the NPC when      #
 #  glanced and and examined.                                #
 #############################################################
-{100}{}{You see a Deathclaw.}
+{100}{}{You see a deathclaw.}

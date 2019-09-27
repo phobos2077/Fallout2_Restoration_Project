@@ -1,6 +1,6 @@
-{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
+{100}{}{You see a deathclaw. It watches you with strangely intelligent eyes.}
 {101}{}{You see Dar, the Deathclaw.}
-{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
+{102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}
 {103}{}{Hello, human.}
 {104}{}{What you want?}

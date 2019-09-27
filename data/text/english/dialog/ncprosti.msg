@@ -240,7 +240,7 @@
 {395}{}{Need your cage rattled, slaver?}
 {396}{}{I hear the families are getting tense again.}
 {397}{}{Things are pretty slow. I wish that caravan would show.}
-{398}{}{So he dresses up in this Deathclaw costume, then...}
+{398}{}{So he dresses up in this deathclaw costume, then...}
 {399}{}{I need help getting out of this dress.}
 {400}{}{Zip me up? Then down again?}
 {401}{}{Mmm-mmm. Looks like mating season.}
@@ -434,7 +434,7 @@
 {583}{}{Jules keeps wanting freebies.}
 {584}{}{I hear the families are getting tense again.}
 {585}{}{Things are pretty slow. I wish that caravan would show.}
-{586}{}{So he dresses up in this Deathclaw costume, then...}
+{586}{}{So he dresses up in this deathclaw costume, then...}
 {587}{}{I need help getting out of this dress.}
 {588}{}{Zip me up? Then down again?}
 {589}{}{Mmm-mmm. Looks like mating season.}
@@ -599,7 +599,7 @@
 {746}{}{Jules keeps wanting freebies.}
 {747}{}{I hear the families are getting tense again.}
 {748}{}{Things are pretty slow. I wish that caravan would show.}
-{749}{}{So he dresses up in this Deathclaw costume, then...}
+{749}{}{So he dresses up in this deathclaw costume, then...}
 {750}{}{I need help getting out of this dress.}
 {751}{}{Zip me up? Then down again?}
 {752}{}{Mmm-mmm. Looks like mating season.}
@@ -843,7 +843,7 @@
 {976}{}{Jules keeps wanting freebies.}
 {977}{}{I hear the families are getting tense again.}
 {978}{}{Things are pretty slow. I wish that caravan would show.}
-{979}{}{So he dresses up in this Deathclaw costume, then...}
+{979}{}{So he dresses up in this deathclaw costume, then...}
 {980}{}{I need help getting out of this dress.}
 {981}{}{Zip me up? Then down again?}
 {982}{}{Sorry, what were you saying? I was too busy staring at your ass.}
@@ -1020,7 +1020,7 @@
 {1151}{}{Jules keeps wanting freebies.}
 {1152}{}{I hear the families are getting tense again.}
 {1153}{}{Things are pretty slow. I wish that caravan would show.}
-{1154}{}{So he dresses up in this Deathclaw costume, then...}
+{1154}{}{So he dresses up in this deathclaw costume, then...}
 {1155}{}{I need help getting out of this dress.}
 {1156}{}{Zip me up? Then down again?}
 {1157}{}{Sorry, what were you saying? I was too busy staring at your ass.}
@@ -1195,7 +1195,7 @@
 {1324}{}{Jules keeps wanting freebies.}
 {1325}{}{I hear the families are getting tense again.}
 {1326}{}{Things are pretty slow. I wish that caravan would show.}
-{1327}{}{So he dresses up in this Deathclaw costume, then...}
+{1327}{}{So he dresses up in this deathclaw costume, then...}
 {1328}{}{I need help getting out of this dress.}
 {1329}{}{Zip me up? Then down again?}
 {1330}{}{Sorry, what were you saying? I was too busy staring at your taut body.}

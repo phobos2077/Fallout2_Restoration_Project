@@ -28,7 +28,7 @@
 {127}{}{What's all this machinery for?}
 {128}{}{Isn't this the vault overseer room?}
 {129}{}{Are you here in the vault because you want to be?}
-{130}{}{What do you think about the Deathclaws?}
+{130}{}{What do you think about the deathclaws?}
 {131}{}{The computer needs a part. Do you know where I might be able to get it?}
 {132}{}{I think I'll be going now.}
 {133}{}{Well... we're having some computer problems and I'm looking into it. Unfortunately my forte is software, not hardware.}

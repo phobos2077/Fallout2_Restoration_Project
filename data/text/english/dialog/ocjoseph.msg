@@ -33,18 +33,18 @@
 {128}{}{Me go now.}
 {129}{}{Are you a prisoner here?}
 {130}{}{Can you leave here if you want?}
-{131}{}{What can you tell me about the Deathclaws?}
+{131}{}{What can you tell me about the deathclaws?}
 {132}{}{How did you come to be here in the first place?}
 {133}{}{Thanks for the information. I'll be heading out now.}
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
- some of my patients are Deathclaws.}
+ some of my patients are deathclaws.}
 {135}{}{Okay. Need know more.}
 {136}{}{Thanks. Bye.}
 {137}{}{That's very commendable of you.}
 {138}{}{I see.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
- stopped. I used to wonder if the Deathclaws were secretly following me and whether or not they would
+ stopped. I used to wonder if the deathclaws were secretly following me and whether or not they would
  stop me if I tried to leave. So one day I put the theory to test.}
 {141}{}{Me got it. Go now.}
 {142}{}{Need ask more.}
@@ -75,7 +75,7 @@
  warmly welcomed. Gruthar, the pack leader, came to me privately and personally thanked me for coming
  back. No, I am definitely here because I want to be.}
 
-{160}{}{Although they do not have vocal chords, the Deathclaws seem to mimic human speech much the same
+{160}{}{Although they do not have vocal chords, the deathclaws seem to mimic human speech much the same
  as a parrot does. I have yet to discover the exact mechanism behind this, so I am unable to say more at
  this time. Socially, they are pack animals with a very rigid code of ethics. They are led by an 'alpha
  male' who rules with the mutual consent of the pack. They appear to be extremely loyal to the pack as a
@@ -87,6 +87,6 @@
 
 {162}{}{I answered that I respected all life and would do my best to heal the injured, regardless of who
  or what they were. I thought it was some thief or raider who had gotten himself hurt and needed
- a doctor. You can't begin to imagine my surprise when a couple of Deathclaws stepped out of the
+ a doctor. You can't begin to imagine my surprise when a couple of deathclaws stepped out of the
  night with an injured companion. Somebody had shot him up real good. I told them I couldn't work on him
  where we were, so they blindfolded me and brought me here. I've been here from that day forward.}

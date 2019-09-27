@@ -1,6 +1,6 @@
-{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
+{100}{}{You see a deathclaw. It watches you with strangely intelligent eyes.}
 {101}{}{You see Valdis, the Deathclaw.}
-{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
+{102}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
  claws.}
 {103}{}{Greetings, human.}
 {104}{}{How may I serve you?}
@@ -9,7 +9,7 @@
 {107}{}{Brain hurt. Me come back later.}
 {108}{}{Hello, who are you?}
 {109}{}{What's your job?}
-{110}{}{No offense to your fellow Deathclaws, but you sound more... educated, shall we say?}
+{110}{}{No offense to your fellow deathclaws, but you sound more... educated, shall we say?}
 {111}{}{Well, just passing the time.}
 {112}{}{I am called Valdis. And you are?}
 {113}{}{Me human.}

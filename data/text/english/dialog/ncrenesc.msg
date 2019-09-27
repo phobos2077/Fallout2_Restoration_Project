@@ -476,7 +476,7 @@
 # 66. HOW'S THE GLASSES (64)
 {950}{}{(Folds arms.) Adequate. If you are expecting some handout for being a Good Samaritan, you are GRAVELY
  mistaken. Now... what do you want?}
-{951}{}{Goddamn whatever Deathclaw or marketing director spawned you! You WANT something?! Here! HERE! Take THIS!
+{951}{}{Goddamn whatever deathclaw or marketing director spawned you! You WANT something?! Here! HERE! Take THIS!
  Take ALL I have! Anything to get you to LEAVE ME ALONE!}
 {952}{}{Let me see your stock.}
 {953}{}{I had some questions...}

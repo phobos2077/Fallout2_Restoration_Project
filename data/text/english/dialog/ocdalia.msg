@@ -22,7 +22,7 @@
 {119}{}{Thanks. Me go.}
 {120}{}{Are you a prisoner here?}
 {121}{}{Can you leave anytime you want?}
-{122}{}{What can you tell me about the Deathclaws?}
+{122}{}{What can you tell me about the deathclaws?}
 {123}{}{How did you come to be here?}
 {124}{}{Why are you worried about needing a place of safety?}
 {125}{}{Thanks. I'll talk at you later.}
@@ -64,9 +64,9 @@
 {152}{}{I have no quarrel with you. }
 
 {153}{}{. I hope everything worked out for you at the Squat.}
-{154}{}{So, I sneak up on this camp site and there are these two Deathclaws sitting around the fire just
+{154}{}{So, I sneak up on this camp site and there are these two deathclaws sitting around the fire just
  chatting away. Idiot that I am, I let out a little cry of surprise, jumped up, and turned to run -- right
- into the arms of another Deathclaw standing right behind me. Anyway, to make a long story short, it
+ into the arms of another deathclaw standing right behind me. Anyway, to make a long story short, it
  took awhile for me to realize that I wasn't about to be put on a spit and barbecued. Instead, I was
  brought here and 'interviewed' by Gruthar. Now I can live here if I want.}
 {155}{}{. That takes a load off my mind.}

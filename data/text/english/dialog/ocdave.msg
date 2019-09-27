@@ -62,10 +62,10 @@
  that killed my dog. When I was nineteen... }
 
 {147}{}{Well, there I was sitting in the desert, waiting for the world to swallow my miserable existence,
- when a pack of Deathclaws shows up. Well, I'm thinking to myself, this is it. Now I can die. I can wind up
- as a pile of Deathclaw shit in the middle of the desert. But no... fate had yet another cruel
+ when a pack of deathclaws shows up. Well, I'm thinking to myself, this is it. Now I can die. I can wind up
+ as a pile of deathclaw shit in the middle of the desert. But no... fate had yet another cruel
  card to play against me.}
-{148}{}{You see, the Deathclaws didn't kill me. Instead they gave me water, brought me here, gave me
+{148}{}{You see, the deathclaws didn't kill me. Instead they gave me water, brought me here, gave me
  this room, gave me food, cleaned me up, and now they won't let me leave. I know they're fattening me up
  for some unknown, horrible fate. I keep telling them that I would probably taste better if I was
  leaner, but it does no good. They just smile -- if you can call it that -- and pat me on the head and

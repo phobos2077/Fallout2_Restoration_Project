@@ -167,7 +167,7 @@
 {602}{}{Time for some serious head bashing.}
 
 {700}{}{You see a deathclaw. It watches you with strangely intelligent eyes.}
-{701}{}{You see Xarn, the deathclaw.}
+{701}{}{You see Xarn, the Deathclaw.}
 {702}{}{You see a typical deathclaw. The creature is huge, with a powerful body, sharp teeth, and long claws.}
 
 {800}{}{You killed Xarn.}

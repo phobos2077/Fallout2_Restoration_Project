@@ -941,8 +941,8 @@
 # series 6300 - Deathclaw
 #
 {6300}{}{. Even this beast seems fazed by that stunning attack}
-{6301}{}{, slipping past the huge claws to strike the monster. The Deathclaw shakes and growls}
-{6302}{}{. The result is massive damage to the Deathclaw's eyes}
+{6301}{}{, slipping past the huge claws to strike the monster. The deathclaw shakes and growls}
+{6302}{}{. The result is massive damage to the deathclaw's eyes}
 #
 # series 6400 - Spore Plant  # Was The Master
 #

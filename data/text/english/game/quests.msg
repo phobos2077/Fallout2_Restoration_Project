@@ -200,7 +200,7 @@
 # Navarro Quests
 #
 #1515, ...
-{1600}{}{Deal with the Deathclaw.}
+{1600}{}{Deal with the deathclaw.}
 {1601}{}{Fix K-9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 

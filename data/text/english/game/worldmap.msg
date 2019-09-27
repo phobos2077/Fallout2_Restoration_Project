@@ -1920,7 +1920,7 @@
 {6211}{}{Some bounty hunters.}
 {6212}{}{A band of ruffians led by a Morton Brother.}
 {6213}{}{Remnants of the Master's army.}
-{6214}{}{A pack of Deathclaws.}
+{6214}{}{A pack of deathclaws.}
 {6215}{}{A swarm of mantis.}
 {6216}{}{The remains of a whale.}
 {6217}{}{A giant stone head.}
@@ -1934,7 +1934,7 @@
 # Encounter Table 65
 {6250}{}{An Enclave patrol.}
 {6251}{}{Remnants of the Master's army.}
-{6252}{}{A pack of Deathclaws.}
+{6252}{}{A pack of deathclaws.}
 {6253}{}{A swarm of mantis.}
 {6254}{}{Some bounty hunters.}
 {6255}{}{Some bounty hunters.}

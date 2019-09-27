@@ -11,4 +11,4 @@
 {108}{}{. We go.}
 
 {109}{}{That strange. Bad things talk?}
-{110}{}{Talking Deathclaws? That's weird...}
+{110}{}{Talking deathclaws? That's weird...}
