@@ -1,7 +1,6 @@
-{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
+{100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
 {101}{}{You see Thearn, the Deathclaw.}
-{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
- claws.}
+{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
 {103}{}{Forgive. I no speak well. I try talk you.}
 {104}{}{You want what?}
 {105}{}{Quem é você?}
@@ -27,7 +26,7 @@
 {125}{}{You're doing a great job!}
 {126}{}{You call yourself a guard? Ha!}
 {127}{}{What are you guarding the hall against?}
-{128}{}{Intruder. Human, Deathclaw, whatever. Pack threatened, I attack.}
+{128}{}{Intruder. Human, deathclaw, whatever. Pack threatened, I attack.}
 {129}{}{Ah.}
 {130}{}{Eu vejo.}
 {131}{}{I'd be surprised if you're smart enough to tell a friend from a foe.}

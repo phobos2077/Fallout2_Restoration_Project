@@ -1,16 +1,16 @@
-{100}{}{You see a large Deathclaw. The creature is composed of rippling muscle, sharp teeth, and claws.}
-{101}{}{You see Gruthar, leader of the Deathclaws.}
-{102}{}{You see the most impressive Deathclaw you could imagine. The creature must be unique among its
+{100}{}{You see a large deathclaw. The creature is composed of rippling muscle, sharp teeth, and claws.}
+{101}{}{You see Gruthar, leader of the deathclaws.}
+{102}{}{You see the most impressive deathclaw you could imagine. The creature must be unique among its
  kind.}
-{103}{}{Do not fear me, human. I do not intend to harm you. I am Gruthar, leader of this Deathclaw pack.
+{103}{}{Do not fear me, human. I do not intend to harm you. I am Gruthar, leader of this deathclaw pack.
  Why have you come here?}
 {104}{}{Why have you come here?}
 {105}{}{Uh...}
 {106}{}{To kick your ass!}
-{107}{}{How is it possible that a Deathclaw can talk... and so well?}
+{107}{}{How is it possible that a deathclaw can talk... and so well?}
 {108}{}{I want to know what happened to the people who once lived here.}
 {109}{}{I'm looking for something called a GECK. I was told I could find one here.}
-{110}{}{I've been asked to eliminate a den of dangerous Deathclaws...}
+{110}{}{I've been asked to eliminate a den of dangerous deathclaws...}
 {111}{}{I'm investigating raids on the local brahmin ranches. Do you know anything about this?}
 {112}{}{I think I'll be leaving now.}
 {113}{}{You are no idiot, human. I can see the truth of this in your eyes. Please do not try to deceive
@@ -28,7 +28,7 @@
 {120}{}{Yes, I certainly can. Very well. If we part as friends, human, you should speak with Goris. He
  has more understanding in this matter than I. He can usually be found in the vault library.}
 {121}{}{Thank you. I look forward to meeting Goris.}
-{122}{}{I have no intention of adding a Deathclaw to my list of friends. Bye!}
+{122}{}{I have no intention of adding a deathclaw to my list of friends. Bye!}
 {123}{}{Tudo certo.}
 {124}{}{They are gone, human. We did not kill them and take their home. It is not our way to kill. I
  understand that you may not believe me, but I hope that you will judge me by my actions toward you and
@@ -73,20 +73,20 @@
 {148}{}{Hmm... sounds like the voice recognition module has gone bad on you. Let's go take a look.}
 {149}{}{I've changed my mind. I'll have to think about this some more.}
 {150}{}{I will do what I can for you.}
-{151}{}{I refuse to help Deathclaws.}
+{151}{}{I refuse to help deathclaws.}
 {152}{}{Thank you. The machine is in the vault control center on the third level. If you can repair it,
  please do so. I am placing my trust in you. Please do not betray it. You are welcome here.}
 {153}{}{I won't let you down, Gruthar. You have my word on that.}
 {154}{}{Thanks. I'll get on it.}
 {155}{}{There really is one born every minute...}
-{156}{}{I see... Well, Deathclaws are dangerous by nature and great care must be taken when encountering
+{156}{}{I see... Well, deathclaws are dangerous by nature and great care must be taken when encountering
  them in the wild. However, I am certain that you have noticed that we are an exception. My pack poses
  no threat to you or your human communities. We have evolved beyond our base cousins and wish simply to
  be left alone.}
 {157}{}{Uh... sim.}
-{158}{}{Your heightened intellect could make you even more of a threat than the average Deathclaw,
+{158}{}{Your heightened intellect could make you even more of a threat than the average deathclaw,
  Gruthar.}
-{159}{}{I can see that you are not the savage killers that Deathclaws are known to be.}
+{159}{}{I can see that you are not the savage killers that deathclaws are known to be.}
 {160}{}{I have spent many sleepless nights, deep in thought, pondering just such issues. I have finally
  come to the conclusion that the burdens and responsibilities associated with the gift of intelligence
  are countless. There are only two choices available to any thinking being. Either accept life as it
@@ -99,7 +99,7 @@
 {164}{}{(Gruthar pauses and seems to be carefully considering his response to you) I am sorry to say
  that I ordered the raids on the human lands. I am responsible for the lives of many here. We are
  running out of food, water, and other supplies. Until I can get the situation corrected, I need to take
- what I, a Deathclaw, cannot ask humans for.}
+ what I, a deathclaw, cannot ask humans for.}
 {165}{}{Well, now that I know the source of the raids, I'll just eliminate it!}
 {166}{}{I'm sorry to hear that. Is there some way that I may be able to help you so that you can stop
  the raids?}
@@ -147,7 +147,7 @@
 {205}{}{I have no quarrel with you, human, and I do not want one. I am trying to deal with you civilly.
  Please return the favor!}
 {206}{}{All right, let's talk then.}
-{207}{}{You're a Deathclaw and that means a death sentence... for you, that is!}
+{207}{}{You're a deathclaw and that means a death sentence... for you, that is!}
 {208}{}{I'm sorry, Gruthar. Let's talk.}
 {209}{}{Whatever. I'm gone.}
 {210}{}{No. I am leader here, so I decide. If you do not like this, you can return to your human lands!}

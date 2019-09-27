@@ -41,7 +41,7 @@
 {136}{}{Eso es mucho tiempo. ¿Puedes responderme a más preguntas?}
 {137}{}{Es tu vida la que malgastas, compañero.}
 {138}{}{¿Entonces estabas aquí cuando las Garras mortales se hicieron cargo?}
-{139}{}{No, amiga mía, no lo estaba. Me fui hace unos meses para visitar la estatua del Morador del Refugio erigida en el patio central de la RNC (la República de Nueva California, al este de aquí). Cuando volví al Refugio, me encontré conque las Garras mortales ya estaban aquí. No hace falta decir que fue un shock. Sin embargo, estoy convencido de que no son responsables de lo que les sucedió a mis conciudadanos. Si, por un casual, quieres más información sobre este tema, puedes encontrar a Goris en la biblioteca.}
+{139}{}{No, amigo mío, no lo estaba. Me fui hace unos meses para visitar la estatua del Morador del Refugio erigida en el patio central de la RNC (la República de Nueva California, al este de aquí). Cuando volví al Refugio, me encontré conque las Garras mortales ya estaban aquí. No hace falta decir que fue un shock. Sin embargo, estoy convencido de que no son responsables de lo que les sucedió a mis conciudadanos. Si, por un casual, quieres más información sobre este tema, puedes encontrar a Goris en la biblioteca.}
 {140}{}{Vale, gracias.}
 {141}{}{De acuerdo, adiós.}
 {142}{}{Lo tendré en cuenta.}
@@ -63,7 +63,7 @@
  frenarías tu lengua.}
 {158}{}{Te advertí antes de que no toleraría tu abuso. Obviamente has elegido ignorar
  la advertencia. (Gordon mira hacia la puerta) ¡Guardias! ¡Al Santuario, por favor!}
-{159}{}{Así que sigues eligiendo ser una tonta. (Gordon se dirige al guardia Garra mortal). Guardia, por favor saca la basura.}
+{159}{}{Así que sigues eligiendo ser un tonto. (Gordon se dirige al guardia Garra mortal). Guardia, por favor saca la basura.}
 {160}{}{¡Trae a tu marioneta! Puedo patearos el culo a ambos en un abrir y cerrar de ojos.}
 {161}{}{Lo siento, moderaré mi lengua.}
 {162}{}{Mis disculpas, Gordon. Por favor, perdona mi arrebato.}

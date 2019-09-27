@@ -129,7 +129,7 @@
 {1521}{}{Deliver the plant seed sample to Dr. Wong.}
 {1522}{}{Eliminate Dr. Wong without alerting the Shi.}
 {1523}{}{Clear out Dr. Sheng's lab.}
-{1600}{}{Deal with the Deathclaw.}
+{1600}{}{Deal with the deathclaw.}
 {1601}{}{Fix K-9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 {1700}{}{}

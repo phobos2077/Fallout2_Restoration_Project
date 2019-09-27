@@ -1,1 +1,1 @@
-{100}{}{You see a Deathclaw.}
+{100}{}{You see a deathclaw.}

@@ -138,8 +138,8 @@
 {471}{slk27mb}{O chão brilhar com uma luz que não ser dos espíritos.}
 {480}{slk27na}{Você dever ser como uma ponte entre os lados.}
 {481}{slk27nb}{Quiet that which is under the water or the salvation of your tribe will also go under.}
-{482}{slk27nc}{That which pushes the great steel tree into the sky must go to cradle the tribe.}
-{483}{slk27nd}{Your people are worth more than the dark gold. Carry them with no less care.}
+{482}{slk27nc}{Quietar aquele que estar sob a água ou a salvação da sua tribo também ficar sob ela}
+{483}{slk27nd}{Aquele que empurrar a grande árvore de aço para o céu deve ir para o berço da tribo.}
 {490}{}{Aqueles que parece ser espíritos mas não carregar muitos segredos.}
 {491}{}{Como uma cebola, ter muitas camadas, maioria escondida.}
 {492}{}{A máquina que levanta pode levar você pra lugares inesperados.}

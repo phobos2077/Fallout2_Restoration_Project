@@ -22,7 +22,7 @@
 {119}{}{Eu vou agora.}
 {120}{}{Who is this shrine dedicated to?}
 {121}{}{How long have you been here?}
-{122}{}{What can you tell me about the Deathclaws?}
+{122}{}{What can you tell me about the deathclaws?}
 {123}{}{Why do you stay here?}
 {124}{}{Thanks, Gordon. Good-bye.}
 {125}{}{This shrine is dedicated to an unnamed hero known only as the Vault Dweller. He, or she, was the
@@ -41,10 +41,10 @@
 {135}{}{You are a very dedicated man. May I ask you some more questions?}
 {136}{}{That's a long time. Can you answer some more questions?}
 {137}{}{It's your life to waste as you see fit, bud.}
-{138}{}{Then you were here when the Deathclaws took over?}
+{138}{}{Then you were here when the deathclaws took over?}
 {139}{}{No, my friend, I was not. I left a few months ago to visit the statue of the Vault Dweller
  erected in the central court of the NCR (the New California Republic east of here). When I returned to
- the vault, I found the Deathclaws were already here. Needless to say, I was in shock. However, I am
+ the vault, I found the deathclaws were already here. Needless to say, I was in shock. However, I am
  convinced that they are not responsible for what happened to my fellow citizens. If, by chance, you
  want more information on this matter, you can seek out Goris in the library.}
 {140}{}{Ok, obrigado.}
@@ -52,7 +52,7 @@
 {142}{}{I'll keep this in mind.}
 {143}{}{I don't need you telling me where to go or who to see.}
 {144}{}{Thank you for your help. I have more questions, though.}
-{145}{}{I have lived with the Deathclaws for several months now. They seem to be honorable and
+{145}{}{I have lived with the deathclaws for several months now. They seem to be honorable and
  forthright in their dealings with me and the other humans who live here. I trust them and, in time, I
  think you will as well.}
 {146}{}{Uh... Okay.}
@@ -70,7 +70,7 @@
  us, you would curb your tongue.}
 {158}{}{I warned you earlier that I would not tolerate your abuse. Obviously you have chosen to ignore
  that warning. (Gordon looks towards the door) Guards! To the Shrine, please!}
-{159}{}{So you still choose to be an ass. (Gordon motions toward the Deathclaw guard) Guard, please take
+{159}{}{So you still choose to be an ass. (Gordon motions toward the deathclaw guard) Guard, please take
  out the trash.}
 {160}{}{Bring on your stooge! I can kick both your asses in the wink of an eye.}
 {161}{}{Sorry, I'll curb my tongue.}

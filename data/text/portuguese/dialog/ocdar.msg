@@ -1,7 +1,6 @@
-{100}{}{You see a Deathclaw. It watches you with strangely intelligent eyes.}
+{100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
 {101}{}{You see Dar, the Deathclaw.}
-{102}{}{You see a typical Deathclaw. The creature is huge, with a powerful body, sharp teeth, and long
- claws.}
+{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
 {103}{}{Hello, human.}
 {104}{}{O que você quer?}
 {105}{}{Hi. Who you?}

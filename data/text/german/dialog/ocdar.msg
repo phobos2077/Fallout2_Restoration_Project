@@ -1,6 +1,7 @@
-{100}{}{Du siehst eine Deathclaw. Sie sieht dich mit merkwürdig intelligenten Augen an.}
+{100}{}{Du siehst eine Deathclaw. Sie blickt dich mit seltsam intelligenten Augen an.}
 {101}{}{Du siehst Dar, die Deathclaw.}
-{102}{}{Du siehst eine typische Deathclaw. Die Kreatur ist riesig, sie hat einen kräftigen Körper, scharfe Zähne und lange Klauen.}
+{102}{}{Du siehst eine typische Deathclaw. Das Wesen ist riesig, mit einem kräftigen Körper,
+ scharfen Zähnen und langen Klauen.}
 {103}{}{Hallo, Mensch.}
 {104}{}{Was willste?}
 {105}{}{Hi. Wer du?}

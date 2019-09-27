@@ -70,9 +70,9 @@
 {207}{}{Ótimo}
 {208}{}{Excele.}
 {209}{}{Herói}
-{300}{editor}{Hit Points}
+{300}{editor}{P. de vida}
 {301}{}{P. de ação}
-{302}{editor}{Armor Class}
+{302}{editor}{Armadura}
 {303}{}{Dano desarmado}
 {304}{}{Bônus de Dano}
 {305}{}{Res. Danos}
@@ -80,8 +80,8 @@
 {307}{}{Res. Radiação}
 {308}{editor}{Sequence}
 {309}{editor}{Healing Rate}
-{310}{editor}{Critical Chance}
-{311}{editor}{Carry Weight}
+{310}{editor}{Chan. Críticas}
+{311}{editor}{Peso Máximo}
 {312}{}{Envenenado}
 {313}{}{Contaminado}
 {314}{}{Olhos Feridos}

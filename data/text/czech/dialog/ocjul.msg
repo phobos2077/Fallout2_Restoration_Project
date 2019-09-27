@@ -1,6 +1,6 @@
-{100}{}{Vidíš páraèe. Prohlíží si tì podivnì inteligentním pohledem.}
+{100}{}{Vidíš páraèe. Sleduje tì podivuhodnì inteligentníma oèima.}
 {101}{}{Vidíš páraèe Jula.}
-{102}{}{Vidíš typického páraèe. Je obrovský, má silné tìlo, ostré zuby a dlouhé paøáty.}
+{102}{}{Vidíš obyèejného páraèe. Je to mohutný tvor s ostrými zuby a dlouhými paøáty.}
 {103}{}{Stop. Ty nejít sem. Tohle místo zakázáno.}
 {104}{}{Dobøe. Já jít.}
 {105}{}{Co být tohle za místo?}

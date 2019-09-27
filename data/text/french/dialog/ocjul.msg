@@ -1,6 +1,6 @@
-{100}{}{Tu vois un Griffemort. Il te regarde avec des yeux étrangement intelligents.}
+{100}{}{Tu vois un Griffemort. Il te fixe d'un regard étrangement intelligent.}
 {101}{}{Tu vois Jul, le Griffemort.}
-{102}{}{Tu vois un Griffemort typique. La créature est immense, avec un corps puissant, une dentition aiguisée et de longues griffes.}
+{102}{}{Tu vois un Griffemort ordinaire : une créature immense, avec un corps puissant, des dents acérées et de longues griffes.}
 {103}{}{Pas un pas de plus. Toi pas venir ici. Endroit interdit.}
 {104}{}{Ok. Moi partir.}
 {105}{}{Quoi être ici ?}

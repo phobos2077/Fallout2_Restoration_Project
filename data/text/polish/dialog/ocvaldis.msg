@@ -1,4 +1,4 @@
-{100}{}{Widzisz szpona œmierci, który przygl¹da ci siê wyj¹tkowo inteligentnym wzrokiem.}
+{100}{}{Widzisz szpona œmierci, który obserwuje ciê dziwnie inteligentnym wzrokiem.}
 {101}{}{Widzisz Valdisa, szpona œmierci.}
 {102}{}{Widzisz typowego szpona œmierci. To ogromne stworzenie ma potê¿n¹ budowê cia³a, ostre zêby i d³ugie pazury.}
 {103}{}{Pozdrowienia, cz³owieku.}
