@@ -30,7 +30,7 @@ export -f process_file
 
 # compile all
 for d in $(ls $src); do
-  if [[ -d "$src/$d" && "$d" != "TEMPLATE" ]]; then # if it's a dir and not template
+  if [[ -d "$src/$d" ]]; then # if it's a dir
     cd "$src/$d"
     files=""
     set +x # ok this is too verbose
