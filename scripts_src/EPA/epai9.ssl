@@ -39,9 +39,8 @@ procedure Super_Set_Lockpick_Lock;
 
 variable Locks_Roll;
 
-procedure start
-begin
-   obj_lock(self_obj);
+procedure start begin
+   if self_obj then obj_lock(self_obj);
 end
 
 procedure use_skill_on_p_proc begin

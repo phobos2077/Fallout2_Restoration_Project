@@ -30,39 +30,25 @@ procedure talk_p_proc;
 procedure timed_event_p_proc;
 
 procedure start begin
+   if not self_obj then return;
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SPORE_PLANT);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SPORE_PLANT);
 end
 
-procedure critter_p_proc
-begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then
-       attack(dude_obj);
-  /*if (global_var(GVAR_SPRAY_KILLPLANTS) == 1) then
-  begin
-    if (tile_distance_objs(dude_obj, self_obj) < 8) then
-    begin
-      call destroy_p_proc;
-      critter_dmg(self_obj, 40, DMG_normal_dam);
-      set_global_var(GVAR_SPRAY_KILLPLANTS, 0);
-    end
-    else if (tile_distance_objs(dude_obj, self_obj) >= 8) then
-      add_timer_event(self_obj, game_ticks(random(3, 5)), 1);
-  end*/
+procedure critter_p_proc begin
+   if not self_obj then return;
+   if self_can_see_dude then attack(dude_obj);
 end
 
 procedure map_enter_p_proc begin
    variable item;
-
    if (map_first_run) then begin
-       item:=create_object(PID_PLANT_SPIKE,0,0);
-       add_mult_objs_to_inven(self_obj,item,10);
+      item:=create_object(PID_PLANT_SPIKE,0,0);
+      add_mult_objs_to_inven(self_obj,item,10);
    end
-
 end
 
-procedure destroy_p_proc
-begin
+procedure destroy_p_proc begin
   inc_global_var(GVAR_KILL_EPAPLANTS);
   if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
    display_msg(mstr(100));

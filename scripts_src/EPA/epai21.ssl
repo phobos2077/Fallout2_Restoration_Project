@@ -37,24 +37,24 @@ begin
 end
 
 procedure map_enter_p_proc begin
-   reg_anim_begin();
-   reg_anim_animate_forever(self_obj, ANIM_stand);
-   reg_anim_end();
-
-   add_timer_event(self_obj, 1, 1);
+  if not self_obj then return;
+  reg_anim_begin();
+    reg_anim_animate_forever(self_obj, ANIM_stand);
+  reg_anim_end();
+  add_timer_event(self_obj, 1, 1);
 end
 
 procedure map_update_p_proc begin
-   if (combat_is_initialized == 0) then
-   begin
-      reg_anim_begin();
-      reg_anim_animate_forever(self_obj, ANIM_stand);
-      reg_anim_end();
-   end
+  if not self_obj then return;
+  if (combat_is_initialized == 0) then begin
+    reg_anim_begin();
+    reg_anim_animate_forever(self_obj, ANIM_stand);
+    reg_anim_end();
+  end
 end
 
-procedure timed_event_p_proc
-begin
+procedure timed_event_p_proc begin
+  if not self_obj then return;
   if (fixed_param == 1) then begin
       if ( (anim_busy(self_obj) == false) and (combat_is_initialized == 0) ) then begin
          reg_anim_begin();
@@ -66,14 +66,12 @@ begin
 
 end
 
-procedure description_p_proc
-begin
+procedure description_p_proc begin
   script_overrides;
   display_msg(message_str(NAME, 120));
 end
 
-procedure look_at_p_proc
-begin
+procedure look_at_p_proc begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
     display_msg(message_str(NAME, 118));
@@ -81,23 +79,21 @@ begin
     display_msg(message_str(NAME, 119));
 end
 
-procedure use_p_proc
-begin
-   if (combat_is_initialized == 0) then begin
-      start_gdialog(NAME, self_obj, 4, -1, -1);
-      gsay_start;
-         call Node001;
-      gsay_end;
-      end_dialogue;
-   end
+procedure use_p_proc begin
+  if not self_obj then return;
+  if (combat_is_initialized == 0) then begin
+    start_gdialog(NAME, self_obj, 4, -1, -1);
+    gsay_start;
+      call Node001;
+    gsay_end;
+    end_dialogue;
+  end
 end
 
-procedure destroy_p_proc
-begin
+procedure destroy_p_proc begin
 end
 
-procedure Node001
-begin
+procedure Node001 begin
    Reply(100);
    NOption(101, Node002, 004);
    NOption(102, Node003, 004);
@@ -109,56 +105,47 @@ begin
    NOption(117, Node009, 004);
 end
 
-procedure Node002
-begin
+procedure Node002 begin
    Reply(108);
    NOption(115, Node001, 004);
 end
 
-procedure Node003
-begin
+procedure Node003 begin
   Reply(109);
   NOption(115, Node001, 004);
 end
 
-procedure Node004
-begin
+procedure Node004 begin
   Reply(110);
   NOption(115, Node001, 004);
 end
 
-procedure Node005
-begin
+procedure Node005 begin
   Reply(111);
   NOption(115, Node001, 004);
 end
 
-procedure Node006
-begin
+procedure Node006 begin
   Reply(112);
   NOption(115, Node001, 004);
 end
 
-procedure Node007
-begin
+procedure Node007 begin
   Reply(113);
   NOption(115, Node001, 004);
 end
 
-procedure Node008
-begin
+procedure Node008 begin
   Reply(114);
   NOption(115, Node001, 004);
 end
 
-procedure Node009
-begin
+procedure Node009 begin
   Reply(116);
   NOption(117, Node999, 004);
 end
 
-procedure Node999
-begin
+procedure Node999 begin
   debug_msg("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
   if (local_var(LVAR_Herebefore) == 0) then
     set_local_var(LVAR_Herebefore, 1);
