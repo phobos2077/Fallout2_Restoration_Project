@@ -29,32 +29,32 @@ procedure map_update_p_proc;
 procedure talk_p_proc;
 procedure push_p_proc;
 
-procedure start
-begin
+procedure start begin
   add_timer_event(self_obj, game_ticks(5), 1);
 end
 
-procedure timed_event_p_proc
-begin
-  if (fixed_param == 1) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
+procedure timed_event_p_proc begin
+  if fixed_param == 1 then begin
+    rm_fixed_timer_event(self_obj, 1); //clear queue
+    if not (critter_state(self_obj) bwand DAM_KNOCKED_DOWN)
+      and not combat_is_initialized then
     begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), random(0, 5), 5), 0);
-      reg_anim_end();
+      variable dst := tile_num_in_direction(tile_num(self_obj), random(0, 5), 5);
+      if not tile_is_blocked(dst, elevation(self_obj)) then begin
+        reg_anim_clear(self_obj);
+        reg_anim_begin();
+          animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), random(0, 5), 5), 0);
+        reg_anim_end();
+      end
     end
     add_timer_event(self_obj, game_ticks(random(10, 15)), 1);
   end
 end
 
-procedure use_p_proc
-begin
+procedure use_p_proc begin
 end
 
-procedure look_at_p_proc
-begin
+procedure look_at_p_proc begin
    script_overrides;
    display_msg(mstr(100));
 end
