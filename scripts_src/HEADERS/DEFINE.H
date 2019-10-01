@@ -7,23 +7,23 @@
 
 //   This file holds all of the things that should be preprocessed.
 
-#include "..\headers\global.h"
-#include "..\headers\itempid.h"
-#include "..\headers\scripts.h"
-#include "..\headers\teams.h"
-#include "..\headers\Condtion.h"
-//#include "..\headers\RepPoint.h"
-#include "..\headers\AIPacket.h"
-#include "..\headers\ExpPoint.h"
-#include "..\headers\ScenePid.h"
-#include "..\headers\Maps.h"
-#include "..\headers\animcomd.h"
-#include "..\headers\CritrPid.h"
-#include "..\headers\ArtFid.h"
-#include "..\headers\Party.h"
-#include "..\headers\Reaction.h"
+#include "global.h"
+#include "itempid.h"
+#include "scripts.h"
+#include "teams.h"
+#include "Condtion.h"
+//#include "RepPoint.h"
+#include "AIPacket.h"
+#include "ExpPoint.h"
+#include "ScenePid.h"
+#include "Maps.h"
+#include "animcomd.h"
+#include "CritrPid.h"
+#include "ArtFid.h"
+#include "Party.h"
+#include "Reaction.h"
 
-#include "..\headers\sfall\sfall.h"
+#include "sfall\sfall.h"
 
 
 // script.h: Script Procedure Types //
@@ -1018,6 +1018,6 @@ end
 #define NPC_ARTFID_WEAPON_OFFSET	4096
 
 //late includes go here
-#include "..\headers\party2.h"
+#include "party2.h"
 
 #endif // DEFINE_H
