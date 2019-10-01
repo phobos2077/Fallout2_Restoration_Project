@@ -1,5 +1,5 @@
 /*
-   Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+  Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 #ifndef SCRIPTS_H
@@ -1513,7 +1513,7 @@
 #define SCRIPT_ESGOO            (1495)  // esgoo.int       ; Goo in EPA
 #define SCRIPT_WSTRPWR2         (1496)  // wstrpwr2.int    ; Spatial that trips the wire in SAD
 #define SCRIPT_ESHIB            (1497)  // eshib.int       ; Hibernation Chamber spatial
-#define SCRIPT_NSCODY           (1498)  // nscody	       ; Spatial script for Cody's death
+#define SCRIPT_NSCODY           (1498)  // nscody          ; Spatial script for Cody's death
 #define SCRIPT_EPLKR            (1499)  // eplkr.int       ; Script controlling the lockers holding the NPC's belongings (EPA)
 #define SCRIPT_EASTER           (1500)  // easter.int      ; RP Easter Egg Map Script
 #define SCRIPT_EASTEREG         (1501)  // eastereg.int    ; Script for all those who helped make the RP possible
