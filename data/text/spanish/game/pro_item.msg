@@ -90,7 +90,7 @@
 {4501}{}{Un cuchillo específicamente equilibrado para ser lanzado. Hecho de titanio, y afilado con láser. Min FU: 3.}
 {4600}{}{Maleta}
 {4601}{}{Una bolsa de tamaño medio. Hecha con tejido de pelo de brahmin.}
-{4700}{}{Kit de primeros auxilios}
+{4700}{}{Botiquín de 1º Auxilios}
 {4701}{}{Un pequeño kit que contiene equipamiento médico básico. Vendas, gasas, spray antiséptico, y más.}
 {4800}{}{RadAway}
 {4801}{}{Una solución química que enlaza con las partículas radiactivas y las elimina de tu sistema. Necesita tiempo para que funcione.}
@@ -178,7 +178,7 @@
 {8901}{}{Un motor eléctrico de 40CV.}
 {9000}{}{Mochila}
 {9001}{}{Una mochila sencilla, con correas opcionales.}
-{9100}{}{Bolsa de doctor}
+{9100}{}{Maletín de Médico}
 {9101}{}{Esta bolsa marrón contiene instrumentos y productos químicos que usan los médicos en el ejercicio de su profesión.}
 {9200}{}{Cola de escorpión}
 {9201}{}{La cola cortada de un escorpión rad.}

@@ -15,7 +15,7 @@
 {110}{}{Retrieving test subject.}
 {111}{}{Retrieving test subject.}
 {112}{}{Thank you for using the Hibernation Control Computer.}
-{113}{}{You see a large computer.}
+{113}{}{Ves una computadora grande. }
 {114}{}{You see The Hibernation Control Computer.}
 {115}{}{You see a computer that is used to regulate anything to do with the Hibernation Vats.}
 {116}{}{Place ERSI canister into the dispenser.}
