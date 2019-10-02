@@ -1,53 +1,53 @@
-{100}{}{You see a large computer.}
-{101}{}{You see Mr. Chemmie!}
-{102}{}{A large crafting computer for drugs.}
-{200}{}{Hello user! I'm the pharmacist of the future, Mr. Chemmie! How can I help you?!}
+{100}{}{Ves una computadora grande. }
+{101}{}{¡Ves al  Sr. Chemmie!}
+{102}{}{Una gran computadora de fabricación de drogas.}
+{200}{}{¡Hola usuario! Soy el farmacéutico del futuro, Sr. Chemmie. ¡¿Como puedo ayudarte?!}
 {201}{}{¿Qué haces?}
-{210}{}{I make drugs! All kinds of drugs! When life gets you down, Mr. Chemmie is here to pick you up! How does Mr. Chemmie work?! It's simple! All you need is some scientific know-how and the right ingredients, then leave the rest up to me! Go on! Give me a try! And kids, remember to ask Mommy or Daddy for permission before playing with Mr. Chemmie!}
-{211}{}{Alright, I'll give this a try.}
+{210}{}{¡Yo hago drogas! ¡Todo tipo de drogas! Cuando la vida te deprime, ¡el Sr. Chemmie está aquí para recogerte! ¿Cómo funciona el Sr. Chemmie? ¡Es sencillo! Todo lo que necesitas es un poco de conocimiento científico y los ingredientes correctos, ¡luego deja el resto en mis manos! ¡Seguir! ¡Déme una oportunidad! ¡Y niños, recuerden pedirle permiso a mamá o papá antes de jugar con el Sr. Chemmie!}
+{211}{}{Muy bien, lo intentaré.}
 {212}{}{Quizá más tarde.}
-{220}{}{Alright! Let's make drugs! What do you wish to create?!}
+{220}{}{¡Bien! ¡Hagamos drogas! ¡¿Qué deseas crear?!}
 {221}{}{Estimulante}
 {222}{}{Superestimulante}
 {223}{}{Veneno}
-{224}{}{Poison Antidote}
-{225}{}{Kit de primeros auxilios}
-{226}{}{Bolsa de doctor}
+{224}{}{Antídoto de veneno  }
+{225}{}{Botiquín de 1º Auxilios}
+{226}{}{Maletín de Médico}
 {227}{}{Esteroides}
 {228}{}{Mentats}
 {229}{}{Psico}
-{230}{}{Great choice! To make a Stimpak, please feed me: one Broc Flower, one Xander Root and one Empty Hypodermic needle! Yum-yum!}
-{231}{}{Make a stimpak.}
-{232}{}{I don't have those right now.}
-{233}{}{Return to the menu.}
-{240}{}{Great choice! To make a Super Stimpak, please feed me: one ordinary Stimpak, one piece of Fruit and one Nuka Cola! Yum-yum!}
-{241}{}{Make a Super Stimpak.}
-{250}{}{Great choice! To make Psycho, please feed me: one box of Mentats, one Buffout, one piece of Fruit and one Stimpak! Yum-yum!}
-{251}{}{Make a Psycho.}
-{260}{}{Great choice! To make some Mentats, please feed me: one First Aid Kit, one piece of Fruit, and one bottle of Booze! Yum-yum!}
-{262}{}{Make some Mentats.}
+{230}{}{¡Gran elección! Para hacer un Estimulante, por favor dame de comer: una Flor de Broquía, una Raíz de Xandría y una Aguja hipodérmica vacía. ¡Yum Yum!}
+{231}{}{Hacer un estimulante. }
+{232}{}{No tengo esos en este momento.}
+{233}{}{Volver al menú principal.}
+{240}{}{¡Gran elección! Para hacer un Superestimulante, por favor dame de comer: un Estimulante ordinario, una pieza de fruta y una Nuka Cola. ¡Yum Yum!}
+{241}{}{Hacer un Superestimulante}
+{250}{}{¡Gran elección! Para hacer Psico, por favor dame de comer: una caja de Mentats, un Esteroide, una Fruta y un Estimulante. ¡Yum Yum!}
+{251}{}{Hacer Psico.}
+{260}{}{¡Gran elección! Para hacer algunos Mentats, por favor dame de comer: un Botiquín de Primeros Auxilios, una Pieza de Fruta y una Botella de Alcohol. ¡Yum Yum!}
+{262}{}{Haz algunos Mentats.}
 {263}{}{Salir.}
-{270}{}{Great choice! To make a Doctor's Bag, please feed me: one Stimpak, one First Aid Kit, one Empty Hypodermic needle and one Poison Antidote! Yum-yum!}
-{272}{}{Make a Doctor's Bag.}
-{280}{}{Great choice! To make a First Aid Kit, please feed me: one Stimpak, one Empty Hypodermic needle, one Poison Antidote and one Rad Away! Yum-yum!}
-{282}{}{Make a First Aid Kit.}
-{290}{}{Great choice! To make Poison, please feed me: one Empty Hypodermic needle, one Scorpion Tail and one Nuka Cola! Yum-yum!}
-{292}{}{Make some poison.}
-{300}{}{Great choice! To make Buffout, please feed me: one First Aid Kit, one bottle of Beer and one Nuka Cola! Yum-yum!}
-{302}{}{Make Buffout.}
-{310}{}{Great choice! To make Rad-X, please feed me: one First Aid Kit and one Nuka Cola! Yum-yum!}
-{312}{}{Make a Rad-X.}
-{320}{}{Great choice! To make Rad Away, please feed me: one Nuka Cola, one Empty Hypodermic needle and one Stimpak! Yum-yum!}
-{322}{}{Make a Rad Away.}
-{330}{}{Great choice! To make a Poison Antidote, please feed me: one Scorpion Tail and one bottle of Booze! Yum-yum!}
+{270}{}{¡Gran elección! Para hacer una Maletín de Doctor, por favor dame de comer: un Estimulante, un Botiquín de Primeros Auxilios, una Aguja Hipodérmica Vacía y un Antídoto de Veneno. ¡Yum Yum!}
+{272}{}{Hacer un Maletín de Doctor. }
+{280}{}{¡Gran elección! Para hacer un Botiquín de Primeros Auxilios, por favor dame de comer: un Estimulante, una Aguja Hipodérmica Vacía, un Antídoto de Veneno y un Rad Away. ¡Yum Yum!}
+{282}{}{Hacer un Botiquín de Primeros Auxilios. }
+{290}{}{¡Gran elección! Para hacer Veneno, por favor dame de comer: ¡una Aguja Hipodérmica Vacía, una Cola de Escorpión y una Nuka Cola! ¡Yum Yum!}
+{292}{}{Hacer algo de veneno.}
+{300}{}{¡Gran elección! Para hacer Esteroides, por favor dame de comer: ¡un Botiquín de Primeros Auxilios, una Botella de Cerveza y una Nuka Cola! ¡Yum Yum!}
+{302}{}{Hacer Esteroides.}
+{310}{}{¡Gran elección! Para hacer Rad-X, por favor dame de comer: ¡un Botiquín de Primeros Auxilios y una Nuka Cola! ¡Yum Yum!}
+{312}{}{Hacer Rad-X.}
+{320}{}{¡Gran elección! Para hacer Rad Away, por favor dame de comer: una Nuka Cola, una Aguja Hipodérmica Vacía y un Estimulante. ¡Yum Yum!}
+{322}{}{Hacer Rad Away.}
+{330}{}{¡Gran elección! Para hacer un Antídoto de Veneno, por favor dame de comer: ¡una Cola de Escorpión y una Botella de Alcohol! ¡Yum Yum!}
 {331}{}{Hacer antídoto del veneno.}
-{340}{}{Oh boy! A special request! What kind of special drug would you like Mr. Chemmie to create for you today?!}
-{341}{}{Marijuana.}
-{342}{}{Doctor's Chemicals.}
-{343}{}{My friend Cassidy has a problem with his heart. Can you make something to help him?}
-{344}{}{Environmental Rejection Syndrome Inhibitors.}
-{350}{}{This is your lucky day! I have enough chemicals in my storage tanks to make these! Would you like Mr. Chemmie to make them for you?!}
-{351}{}{Create.}
+{340}{}{¡Oh chico! ¡Una solicitud especial! ¡¿Qué tipo de droga especial te gustaría que el Sr. Chemmie creara para ti hoy?!}
+{341}{}{Marihuana. }
+{342}{}{Productos químicos de Doctor. }
+{343}{}{Mi amigo Cassidy tiene un problema con su corazón. ¿Puedes hacer algo para ayudarlo?}
+{344}{}{Inhibidores del síndrome de rechazo ambiental.}
+{350}{}{¡Este es tu día de suerte! ¡Tengo suficientes productos químicos en mis tanques de almacenamiento para hacerlos! ¡¿Te gustaría que el Sr. Chemmie los hiciera para ti?!}
+{351}{}{Crear.}
 {352}{}{Volver al menú principal.}
 {360}{}{Uh-oh! Sorry, but I no longer have the chemicals needed to create these!}
 {370}{}{Selection created! That was fun! Please collect the item from the machine! Thank you for using Mr. Chemmie! Let's make drugs again sometime!}
@@ -55,8 +55,8 @@
 {375}{}{Mr. Chemmie loves to help! I can create a substance called nitroglycerin, which will control an irregular heartbeat and prevent heart attacks!}
 {380}{}{Rad-X}
 {381}{}{Rad Away}
-{382}{}{Something Special}
+{382}{}{Algo especial}
 {383}{}{Nada.}
 {390}{}{This is your lucky day! I have just enough chemicals in my storage tanks to make one batch of ERSIs! Would you like Mr. Chemmie to make them for you?!}
-{391}{}{Create.}
+{391}{}{Crear.}
 {392}{}{Salir.}
