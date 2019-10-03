@@ -22,7 +22,7 @@ env:
     - bin_dir: extra/bin
     - appearance_dir: appearance
     - appearance_repo: BGforgeNet/Fallout2_Hero_Appearance
-    - party_orders_repo: BGforgeNet/Fallout2-Party-Orders
+    - party_orders_repo: BGforgeNet/Fallout2_Party_Orders
     - release_dir: release
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
