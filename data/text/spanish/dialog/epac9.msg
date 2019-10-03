@@ -49,14 +49,14 @@
 {350}{}{¡Este es tu día de suerte! ¡Tengo suficientes productos químicos en mis tanques de almacenamiento para hacerlos! ¡¿Te gustaría que el Sr. Chemmie los hiciera para ti?!}
 {351}{}{Crear.}
 {352}{}{Volver al menú principal.}
-{360}{}{Uh-oh! Sorry, but I no longer have the chemicals needed to create these!}
-{370}{}{Selection created! That was fun! Please collect the item from the machine! Thank you for using Mr. Chemmie! Let's make drugs again sometime!}
-{371}{}{More Options.}
-{375}{}{Mr. Chemmie loves to help! I can create a substance called nitroglycerin, which will control an irregular heartbeat and prevent heart attacks!}
+{360}{}{¡Uh-oh! Lo siento, ¡pero ya no tengo los productos químicos necesarios para crearlos!}
+{370}{}{¡Selección creada! ¡Eso fue divertido! ¡Recoge el artículo de la máquina! ¡Gracias por usar al Sr. Chemmie! ¡Hagamos drogas otra vez alguna vez!}
+{371}{}{Más Opciones.}
+{375}{}{¡Al Sr. Chemmie le encanta ayudar! ¡Puedo crear una sustancia llamada nitroglicerina, que controlará un latido cardíaco irregular y evitará ataques cardíacos!}
 {380}{}{Rad-X}
 {381}{}{Rad Away}
 {382}{}{Algo especial}
 {383}{}{Nada.}
-{390}{}{This is your lucky day! I have just enough chemicals in my storage tanks to make one batch of ERSIs! Would you like Mr. Chemmie to make them for you?!}
+{390}{}{¡Este es tu día de suerte! ¡Tengo suficientes productos químicos en mis tanques de almacenamiento para hacer un lote de ERSI! ¡¿Te gustaría que el señor Chemmie los hiciera para ti?!}
 {391}{}{Crear.}
 {392}{}{Salir.}

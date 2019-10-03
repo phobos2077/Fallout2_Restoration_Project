@@ -17,9 +17,7 @@
 {221}{}{El doc? Oh, probablemente esté por aquí en alguna parte. De hecho, Creo que el esta en camino, así que me iré de aquí y los dejaré a ustedes dos. ¡Adiós!}
 {222}{}{Esto puede llegar a sorprenderte, pero has estado congelado durante mucho tiempo. Quienquiera que fuese "el doc", El ciertamente hace mucho tiempo ya a de estar muerto. Si él era tu amigo, entonces lo siento.}
 {223}{}{No es mi intención darte con un palo en la cabeza, pero has estado en el hielo durante un *buen* largo tiempo. Estoy bastante seguro de que tu amigo, "el doc", ya lleva mucho tiempo muerto.}
-{224}{}{Listen up, pretty boy. I didn't unthaw your psychotic ass so I could answer your questions and watch you groom
- yourself. I'm only letting you live long enough to tell me whatever useful information you might have. So start talking.
- The more you can tell me, the longer you get to live.}
+{224}{}{Escucha, chico lindo. No deshice tu trasero psicótico para poder responder tus preguntas y verte cuidarte. Solo te dejo vivir lo suficiente como para contarme cualquier información útil que puedas tener. Entonces comienza a hablar. Cuanto más me puedas decir, más tiempo tendrás para vivir.}
 {230}{}{[Su actitud fría se desvanece y sus ojos se encienden de rabia.] ¿Crees que puedes intimidarme a MÍ? Tienes una PUTA IDEA ¿con quién estás hablando? ¡Ven aquí y te enseñaré de lo que soy capaz!}
 {231}{}{[Hecho.]}
 {240}{}{[Dex te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología de antes de la guerra que te parece extraño en toda su simetría blanca perlada.] ¿El doc, amigo mío? [Él levanta una ceja.] No sabes quién soy, ¿verdad?}
@@ -57,43 +55,27 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
  Ni siquiera puedo empezar a contarte los horrores a los que me sometieron. [Sus ojos brillan con lágrimas mientras reflexiona. Él suspira Profundamente y se limpia las lagrimas del rostro.] De todos modos, gracias a ti, amiga, finalmente estoy libre de esa pesadilla}
 {331}{}{Eh. Bien, me alegra poder ayudar... Yo creo.}
 {332}{}{En realidad, gilipollas, tu pesadilla acaba de empezar, porque no voy a comprar una palabra de esto.}
-{340}{}{So how 'bout it, pal? Can we partner up? Not only will you get to feel cooler by hanging out me, but I can handle
- myself in a fight. Hell, I'd be alright with going solo, but I've got no clue what kind of crazy shit is lurking out
- there now. For all I know, the first tree I piss on could open up its mouth and bite my cock off.}
-{341}{}{Alright, you can travel with me, but I'm gonna keep a close eye on you. The second you even think about stepping
- out of line, I'll put you down.}
-{342}{}{Sure, I suppose we could partner up. Welcome to the team, Dex.}
-{343}{}{That was a damn good story, and you're not a bad actor, which makes you all the more dangerous. I think I'll
- do the wastelands a favor and remove you before you can do anymore harm.}
-{350}{}{[Dex's grin falters and his eyes become unfocused. After a moment, he begins speaking without meeting your eyes.]
- I was one of their sick experiments. They did... terrible things to me. [He shakes his head, then looks at you with a renewed grin.]
- I'd rather not talk about it, you know? The name's Dex, by the way.}
-{351}{}{Sorry to hear that, Dex. Anyway, that's all in the past now. The real, *real* distant past.}
-{352}{}{Look, Dex, I might be able to help you, but I'd like to know who I'm dealing with. What exactly did they do to you?}
-{360}{}{[Dex takes another look around the room and whistles.] No kidding. This place has really gone to shit. How long did you say it's been?}
-{370}{}{Alright, you really need to know? Fine. Basically, these crazy fucking doctors were doing some kind of tests on the "nature of human evil" or some crap.
- They injected me with the memories of a maniac in order to see how it would affect the personality of a decent, law abiding fella like me. At least, that's the best I could figure it.}
-{371}{}{I see. So, how *did* it affect you? }
-{372}{}{I don't know, it gave me some nightmares, alright? Look, I've been frozen for who knows how long, and I'm not in the mood for a fucking interrogation.
- You're almost as bad as the Doc... Did you say he's dead? How long was I out for anyway? This place looks like shit.}
-{400}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws his
- knees up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body quakes
- and his teeth chatter. Gradually, he seems to calm down.]}
+{340}{}{Entonces, ¿qué tal, amigo? ¿Podemos asociarnos? No solo te sentirás más fresco colgándome, sino que puedo manejarme en una pelea. Demonios, estaría bien yendo solo, pero no tengo idea de qué tipo de mierda loca está acechando ahora. Por lo que sé, el primer árbol en el que meo podría abrir su boca y morderme la polla.}
+{341}{}{Bien, puedes viajar conmigo, pero te vigilaré de cerca. En el momento en que pienses en salirte de la línea, te desanimaré.}
+{342}{}{Claro, supongo que podríamos asociarnos. Bienvenido al equipo, Dex.}
+{343}{}{Esa fue una maldita buena historia, y no eres un mal actor, lo que te hace aún más peligroso. Creo que le haré un favor a los páramos y te eliminaré antes de que puedas hacer más daño.}
+{350}{}{[La sonrisa de Dex vacila y sus ojos se vuelven desenfocados. Después de un momento, comienza a hablar sin mirarlo a los ojos.] Fui uno de sus enfermos experimentos. Me hicieron ... cosas terribles. [Sacude la cabeza y luego te mira con una sonrisa renovada.] Prefiero no hablar de eso, ¿sabes? Mi nombre es Dex, por cierto.}
+{351}{}{Lamento escuchar eso, Dex. De todos modos, eso es todo en el pasado ahora. El pasado real, * real * distante.}
+{352}{}{Mira, Dex, podría ayudarte, pero me gustaría saber con quién estoy tratando. ¿Qué te hicieron exactamente?}
+{360}{}{[Dex echa otro vistazo por la habitación y silba.] No es broma. Este lugar realmente se ha ido a la mierda. ¿Cuánto tiempo dijiste que ha pasado?}
+{370}{}{Muy bien, ¿realmente necesitas saberlo? Bien. Básicamente, estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me inyectaron los recuerdos de un maníaco para ver cómo afectaría la personalidad de un tipo decente y respetuoso de la ley como yo. Al menos, eso es lo mejor que pude entender.}
+{371}{}{Entiendo. ¿Y qué *efecto* tuvo en ti?}
+{372}{}{No sé, me dio algunas pesadillas, ¿de acuerdo? Mira, he estado congelado por quién sabe cuánto tiempo, y no estoy de humor para un jodido interrogatorio. Eres casi tan malo como el Doc ... ¿Dijiste que está muerto? ¿Cuánto tiempo estuve fuera de todos modos? Este lugar parece una mierda.}
+{400}{}{[Cuando te acercas a la cámara criogénica, ves a un atractivo hombre desnudo tirado en el suelo. Levanta las rodillas y las abraza contra su pecho. Se sienta allí por varios momentos, mirando fijamente al frente mientras su cuerpo tiembla y sus dientes castañean. Gradualmente, parece calmarse.]}
 {401}{}{Eh, ¿hola?}
-{410}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a
- cornered animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him.
- He quickly alters his composure, projecting cool confidence, despite his nakedness.] Hey doll, I know I'm quite the
- sight to behold, but it's a tad chilly in here. You mind if I get dressed?}
+{410}{}{[Él mueve la cabeza hacia ti y se pone de pie de un salto. Te observa atentamente, luego mira a tu alrededor como un animal acorralado. Cuando sus ojos vuelven a ti, se suavizan y él se relaja mientras sus recuerdos vuelven a él. Rápidamente altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] Hola encanto, sé que soy bastante digno de contemplar, pero aquí hace un poco de frío. ¿Te importa si me visto?}
 {411}{}{Supongo que no hay daño-}
 {412}{}{Bueno, yo-}
-{420}{}{Of course you don't mind. Thanks, babe. [He steps past you, gently slapping your rump, and opens a nearby locker.
- He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb,
- he begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've
- seen you around, doll, and I doubt I'd forget a face like yours. Name's Dex, but I'm sure you know that. Mind if I ask yours?}
+{420}{}{Por supuesto que no te importa. Gracias bebe. [Él pasa junto a ti, golpea suavemente tu trasero y abre un casillero cercano. Casualmente se viste con un traje finamente confeccionado, luego se guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y peinar su cabello oscuro y peinado con la rápida precisión de un profesional experimentado.] No creo que te haya visto por ahí, encanto, y dudo que olvide una cara como la tuya. Mi nombre es Dex, pero estoy seguro de que lo sabes. ¿Te importa si te pido el tuyo?}
 {421}{}{Soy }
-{422}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
+{422}{}{Pero debes saber que tengo una regla estricta de no salir con ningún hombre extraño que descongele. Como has estado en el hielo durante el último siglo y medio, asumiré que tu mano se contrajo y me golpeó accidentalmente el trasero. Pero si sucede de nuevo, te arrancaré la polla. ¿Entendido?}
 {423}{}{Mi nombre es }
-{424}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred and fifty years.}
+{424}{}{Es un placer conocerte, Dex. No puedo imaginar cómo debe ser despertarse después de haber estado congelado durante más de ciento cincuenta años.}
 {425}{}{Yeah, I DO mind, you fucking creep. I only unthawed you so I could put you down like the sick dog you are.}
 {426}{}{Forget about names. How 'bout you take those clothes back off and show me what pre-war men are made of.}
 {430}{}{[Grins and begins to undress.] You're my kind of gal. Prepare yourself to experience Dex, the Duke of Sex.}
@@ -162,9 +144,8 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
  lurking out there now. For all I know, the first tree I piss on could open up its mouth and bite my cock off.}
 {551}{}{Alright, you can travel with me, but I'm gonna keep a close eye on you. The second you even think about
  stepping out of line, I'll put you down. }
-{552}{}{Sure, I suppose we could partner up. Welcome to the team, Dex.}
-{553}{}{That was a damn good story, and you're not a bad actor, which makes you all the more dangerous. I think I'll
- do the wastelands a favor and remove you before you can do anymore harm.}
+{552}{}{Claro, supongo que podríamos asociarnos. Bienvenido al equipo, Dex.}
+{553}{}{Esa fue una maldita buena historia, y no eres un mal actor, lo que te hace aún más peligroso. Creo que le haré un favor a los páramos y te eliminaré antes de que puedas hacer más daño.}
 {554}{}{Dice que tenemos un trato... compañero. }
 {555}{}{Well, your knowledge of the old ones could prove quite useful to me... I suppose you've got a deal.}
 {556}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "babe".}
@@ -172,11 +153,10 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
  I was one of their sick experiments. They did... terrible things to me. [He shakes his head, then looks at you with a renewed grin.]
  Anyway, I'd much rather talk about you, babe.}
 {561}{}{Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel--}
-{562}{}{Look, Dex, I might be able to help you, but I'd like to know who I'm dealing with. What exactly did they do to you?}
+{562}{}{Mira, Dex, podría ayudarte, pero me gustaría saber con quién estoy tratando. ¿Qué te hicieron exactamente?}
 {570}{}{Wow, that's real interesting, babe, and I can't wait to hear more about you. Honest. But first of all, how 'bout you fill me in on what the hell happened since they put me on ice.
  I mean, this place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
-{580}{}{Alright, you really need to know? Fine. Basically, these crazy fucking doctors were doing some kind of tests on the "nature of human evil" or some crap.
- They injected me with the memories of a maniac in order to see how it would affect the personality of a decent, law abiding fella like me. At least, that's the best I could figure it.}
+{580}{}{Muy bien, ¿realmente necesitas saberlo? Bien. Básicamente, estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me inyectaron los recuerdos de un maníaco para ver cómo afectaría la personalidad de un tipo decente y respetuoso de la ley como yo. Al menos, eso es lo mejor que pude entender.}
 {581}{}{I see. So, how *did* it affect you?}
 {582}{}{I don't know, it gave me some nightmares, alright? Look honey, I've been through a lot and I'm not in the mood for a fucking interrogation right now.
  I answered your questions, now how 'bout you you fill me on what the hell happened since they put me on ice. I mean, this place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
@@ -251,7 +231,7 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
  begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've seen
  you around, doll, and I doubt I'd forget a face like yours. Name's, Dex, but I'm sure you know that. Mind if I ask yours?}
 {821}{}{Soy }
-{822}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
+{822}{}{Pero debes saber que tengo una regla estricta de no salir con ningún hombre extraño que descongele. Como has estado en el hielo durante el último siglo y medio, asumiré que tu mano se contrajo y me golpeó accidentalmente el trasero. Pero si sucede de nuevo, te arrancaré la polla. ¿Entendido?}
 {823}{}{Mi nombre es }
 {824}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred
 and fifty years.}
