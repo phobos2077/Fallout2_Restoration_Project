@@ -27,7 +27,6 @@
 */
 #include "..\headers\define.h"
 #include "..\headers\enctrp.h"
-#include "..\headers\sfall\sfall.h"
 
 #define NAME                    SCRIPT_QIPZLTRM
 

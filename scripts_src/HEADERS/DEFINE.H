@@ -23,7 +23,7 @@
 #include "Party.h"
 #include "Reaction.h"
 
-#include "sfall\sfall.h"
+#include "../sfall/sfall.h"
 
 
 // script.h: Script Procedure Types //

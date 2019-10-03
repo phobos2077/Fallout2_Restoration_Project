@@ -34,7 +34,7 @@ wget -q "$mpack_url" -O "$mpack_7z"
 mv -f "$compile_exe" "$bin_dir/"
 # sfall headers
 7z x "$mpack_7z" "scripting_docs/headers"
-mv "scripting_docs/headers" "scripts_src/HEADERS/sfall"
+mv "scripting_docs/headers" "scripts_src/sfall"
 
 # wcc, check cache
 if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe" ]]; then

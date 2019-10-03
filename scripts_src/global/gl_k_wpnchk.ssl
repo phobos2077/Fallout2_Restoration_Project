@@ -1,7 +1,7 @@
 procedure start;
 
-#include "..\headers\sfall\sfall.h"
-#include "..\headers\MAPS.H"
+#include "../sfall/sfall.h"
+#include "../headers/MAPS.H"
 
 #define PID_SOLAR_SCORCHER 390
 #define GVAR_TEST_SOLAR_SCORCHER 775

@@ -6,4 +6,4 @@ compile.exe*
 *.tmp
 *.log
 extra/bin
-scripts_src/HEADERS/sfall
+scripts_src/sfall

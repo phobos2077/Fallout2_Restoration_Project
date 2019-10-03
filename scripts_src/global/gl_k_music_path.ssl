@@ -1,4 +1,4 @@
-#include "..\headers\sfall\sfall.h"
+#include "../sfall/sfall.h"
 
 procedure start begin
    // only change if both values are default

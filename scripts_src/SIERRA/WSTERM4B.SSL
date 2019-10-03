@@ -3,7 +3,7 @@
 */
 
 #include "..\headers\define.h"
-#include "..\headers\sfall\lib.arrays.h"
+#include "../sfall/lib.arrays.h"
 
 #define NAME                    SCRIPT_WSTERM4B
 
