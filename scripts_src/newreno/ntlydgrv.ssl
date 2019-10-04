@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "ntlydgrv"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NTLYDGRV
 #include "../headers/command.h"

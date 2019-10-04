@@ -26,6 +26,7 @@
         -rwh2   11/13/97
 */
 
+#define SCRIPT_REALNAME "wiscrtdr"
 #include "../headers/define.h"
 #include "../headers/depolva.h"
 #include "../headers/depolvb.h"

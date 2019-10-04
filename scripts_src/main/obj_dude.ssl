@@ -9,6 +9,7 @@
    -rwh [2/23/1998]
 */
 
+#define SCRIPT_REALNAME "obj_dude"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_OBJ_DUDE

@@ -4,6 +4,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "eshib"
 #include "../headers/define.h"
 #include "../headers/epasl.h"
 

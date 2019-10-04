@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "icmerc"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_ICMERC
 #define TOWN_REP_VAR            GVAR_TOWN_REP_RAIDERS

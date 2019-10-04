@@ -4,6 +4,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "witripwr"
 #include "../headers/define.h"
 #include "../headers/depolva.h"
 

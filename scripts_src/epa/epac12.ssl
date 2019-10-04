@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "epac12"
 #include "../headers/define.h"
 #include "../headers/epamain.h"
 #include "../headers/newr1.h" //added by killap

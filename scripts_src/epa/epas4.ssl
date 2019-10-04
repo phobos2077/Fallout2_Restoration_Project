@@ -2,6 +2,7 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
+#define SCRIPT_REALNAME "epas4"
 #include "../headers/define.h"
 //#include "../headers/<TownMapName.h>"
 

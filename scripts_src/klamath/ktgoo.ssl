@@ -5,6 +5,7 @@
 // Goo.ssl
 // damages critters in the goo
 
+#define SCRIPT_REALNAME "ktgoo"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_KTGOO

@@ -20,6 +20,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "hscrldr"
 #include "../headers/define.h"
 #include "../headers/broken1.h"
 

@@ -8,6 +8,7 @@
 
 procedure start;
 
+#define SCRIPT_REALNAME "ecnomad"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECNOMAD

@@ -23,6 +23,7 @@ NOTES:
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "ncrico"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCRICO
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO

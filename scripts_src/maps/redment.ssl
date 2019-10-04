@@ -24,6 +24,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "redment"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 #include "../headers/redment.h"

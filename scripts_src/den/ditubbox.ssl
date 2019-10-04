@@ -16,6 +16,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "ditubbox"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_DITUBBOX

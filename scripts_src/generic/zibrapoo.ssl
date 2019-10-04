@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "zibrapoo"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_ZIBRAPOO
 #include "../headers/command.h"

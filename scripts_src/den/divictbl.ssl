@@ -19,6 +19,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "divictbl"
 #include "../headers/define.h"
 #include "../headers/den.h"
 

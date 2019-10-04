@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "ntricrom"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NTRICROM
 #include "../headers/command.h"

@@ -13,6 +13,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "migate"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MIGATE
 #include "../headers/command.h"

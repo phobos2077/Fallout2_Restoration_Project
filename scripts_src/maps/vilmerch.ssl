@@ -14,6 +14,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "vilmerch"
 #include "../headers/define.h"
 //#include "../headers/nazwamapy.h"
 #include "../headers/updatmap.h"

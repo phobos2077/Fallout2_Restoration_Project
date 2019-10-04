@@ -20,6 +20,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "ccchris"
 #include "../headers/define.h"
 #include "../headers/navarro.h"
 

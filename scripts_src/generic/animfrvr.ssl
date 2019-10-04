@@ -3,6 +3,7 @@
 */
 
 
+#define SCRIPT_REALNAME "animfrvr"
 #include "../headers/define.h"
 //#define NAME                    SCRIPT_ANIMFVR
 

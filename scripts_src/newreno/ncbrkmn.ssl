@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "ncbrkmn"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_NCBRKMN

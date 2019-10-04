@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "osv13dr"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_BSV13DR

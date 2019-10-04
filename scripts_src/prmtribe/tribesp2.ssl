@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "tribesp2"
 #include "../headers/define.h"
 #include "../headers/tribe02.h"
 #define NAME                    SCRIPT_TRIBESP2

@@ -8,6 +8,7 @@
 
 procedure start;
 
+#define SCRIPT_REALNAME "ecfrmkid"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECFRMKID

@@ -4,6 +4,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "zcexitsp"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZCEXITSP

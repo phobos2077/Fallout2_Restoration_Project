@@ -31,6 +31,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "vcconnar"
 #include "../headers/define.h"
 #include "../headers/vill.h"
 //#include "../headers/<TownName.h>"

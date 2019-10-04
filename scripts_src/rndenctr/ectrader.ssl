@@ -6,6 +6,7 @@
    have been designed.
 */
 
+#define SCRIPT_REALNAME "ectrader"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECTRADER

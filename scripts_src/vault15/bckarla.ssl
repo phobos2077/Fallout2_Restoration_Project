@@ -26,6 +26,7 @@
         -rwh2   11/13/97
 */
 #define NPC_REACTION_TYPE       REACTION_TG
+#define SCRIPT_REALNAME "bckarla"
 #include "../headers/define.h"
 #include "../headers/v15sent.h"
 

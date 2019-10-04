@@ -39,6 +39,7 @@
                                                 end
 
 /* Include Files */
+#define SCRIPT_REALNAME "ncwritee"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCWRITEE
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO

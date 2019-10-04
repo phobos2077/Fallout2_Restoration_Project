@@ -8,6 +8,7 @@
 
 procedure start;
 
+#define SCRIPT_REALNAME "ecalien"
 #include "../headers/define.h"
 #include "../headers/bhrnddst.h"
 

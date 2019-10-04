@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "rcwade"
 #include "../headers/define.h"
 #include "../headers/caravan.h"
 #include "../headers/bhrnddst.h"

@@ -22,6 +22,7 @@
 #define def_med_msg                          mstr(1005)
 #define def_far_msg                          mstr(1006)
 
+#define SCRIPT_REALNAME "mcmiria"
 #include "../headers/define.h"
 #include "../headers/newr1.h" //added by killap
 

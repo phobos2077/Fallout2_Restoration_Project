@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "mcmolrat"
 #include "../headers/define.h"
 #include "../headers/modgard.h"
 

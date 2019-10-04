@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "fsfobdor"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_FSFOBDOR

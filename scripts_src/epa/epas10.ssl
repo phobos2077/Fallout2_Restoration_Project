@@ -4,6 +4,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "epas10"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPAS10

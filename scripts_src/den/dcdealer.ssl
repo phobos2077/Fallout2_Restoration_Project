@@ -1,4 +1,5 @@
 /* Include Files */
+#define SCRIPT_REALNAME "dcdealer"
 #include "../headers/define.h"
 #include "../headers/den.h"
 #include "../headers/denres1.h"

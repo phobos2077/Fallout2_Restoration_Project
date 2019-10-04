@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mitrpdor"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MITRPDOR
 #include "../headers/command.h"

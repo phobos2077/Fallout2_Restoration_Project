@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "epai33"
 #include "../headers/define.h"
 #include "../headers/epamain.h"
 #define NAME                    SCRIPT_EPAI33

@@ -6,6 +6,7 @@
    Random Toxic low luck encounter
 */
 
+#define SCRIPT_REALNAME "rndtoxic"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

@@ -26,6 +26,7 @@
         -rwh2   11/13/97
 */
  
+#define SCRIPT_REALNAME "hcscorp"
 #include "../headers/define.h"
 #include "../headers/broken2.h"
 

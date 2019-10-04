@@ -6,6 +6,7 @@
    Random Tin Woodsman High luck encounter
 */
 
+#define SCRIPT_REALNAME "rndtinwd"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

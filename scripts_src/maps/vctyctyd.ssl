@@ -6,6 +6,7 @@
         Map Script for Sierra Army Base, Outside area
 */
 
+#define SCRIPT_REALNAME "vctyctyd"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 #include "../headers/vctyctyd.h"

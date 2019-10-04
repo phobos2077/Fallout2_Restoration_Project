@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "miwell"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MIWELL
 #include "../headers/command.h"

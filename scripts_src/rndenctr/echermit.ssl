@@ -8,6 +8,7 @@
 
 procedure start;
 
+#define SCRIPT_REALNAME "echermit"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECHERMIT

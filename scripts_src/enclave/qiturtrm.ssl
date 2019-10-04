@@ -27,6 +27,7 @@
 */
 
 
+#define SCRIPT_REALNAME "qiturtrm"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 

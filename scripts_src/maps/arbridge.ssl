@@ -21,6 +21,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "arbridge"
 #include "../headers/define.h"
 #include "../headers/arbridge.h"
 #include "../headers/updatmap.h"

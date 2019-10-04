@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "bscomp2"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_BSCOMP2

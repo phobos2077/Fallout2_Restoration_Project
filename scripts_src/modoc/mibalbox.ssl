@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "mibalbox"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MIBALBOX
 #include "../headers/command.h"

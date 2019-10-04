@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "miladder"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MILADDER
 #include "../headers/command.h"

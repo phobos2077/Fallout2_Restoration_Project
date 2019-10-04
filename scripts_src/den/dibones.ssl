@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "dibones"
 #include "../headers/define.h"
 #include "../headers/den.h"
 

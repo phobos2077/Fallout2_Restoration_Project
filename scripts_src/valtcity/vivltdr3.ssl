@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "vivltdr3"
 #include "../headers/define.h"
 #include "../headers/vctyvlt.h"
 

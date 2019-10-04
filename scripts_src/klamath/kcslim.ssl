@@ -27,6 +27,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kcslim"
 #include "../headers/define.h"
 #include "../headers/kladwtn.h"
 

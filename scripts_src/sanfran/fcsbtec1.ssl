@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "fcsbtec1"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCSBTEC1

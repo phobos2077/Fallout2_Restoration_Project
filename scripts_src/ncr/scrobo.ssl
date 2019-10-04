@@ -26,6 +26,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "scrobo"
 #include "../headers/define.h"
 #include "../headers/ncr1.h"
 

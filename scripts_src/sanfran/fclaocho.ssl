@@ -27,6 +27,7 @@
 */
 #define NPC_REACTION_TYPE       REACTION_TC
 #define NPC_REACTION_VAR        7 /* same as thief variable */
+#define SCRIPT_REALNAME "fclaocho"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 

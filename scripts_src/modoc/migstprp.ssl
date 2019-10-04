@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "migstprp"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MIGSTPRP
 #include "../headers/command.h"

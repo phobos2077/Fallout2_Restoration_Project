@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mitoilet"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MITOILET
 #include "../headers/command.h"

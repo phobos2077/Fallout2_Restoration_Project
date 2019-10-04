@@ -8,6 +8,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "epac23"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPAC23

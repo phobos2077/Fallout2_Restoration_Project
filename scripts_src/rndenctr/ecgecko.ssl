@@ -6,6 +6,7 @@
    have been designed.
 */
 
+#define SCRIPT_REALNAME "ecgecko"
 #include "../headers/define.h"
 #include "../headers/bhrnddst.h"
 

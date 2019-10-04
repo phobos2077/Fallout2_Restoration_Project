@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "sscomp"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_SSCOMP

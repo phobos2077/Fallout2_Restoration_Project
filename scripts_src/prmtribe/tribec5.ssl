@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "tribec5"
 #include "../headers/define.h"
 #include "../headers/tribe01.h"
 

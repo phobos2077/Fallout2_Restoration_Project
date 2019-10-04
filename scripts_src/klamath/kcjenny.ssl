@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kcjenny"
 #include "../headers/define.h"
 #include "../headers/kladwtn.h"
 #include "../headers/den.h" //added by killap

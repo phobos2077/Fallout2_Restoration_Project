@@ -6,6 +6,7 @@
    Random Federation Shuttle encounter
 */
 
+#define SCRIPT_REALNAME "rndshutl"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

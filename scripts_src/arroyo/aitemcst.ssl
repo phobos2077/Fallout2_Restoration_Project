@@ -3,6 +3,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "aitemcst"
 #include "../headers/define.h"
 #include "../headers/arcaves.h"
 

@@ -1,6 +1,8 @@
-procedure start;
-
+#define SCRIPT_REALNAME "gl_k_alcohl"
+#include "../headers/define.h"
 #include "../headers/scripts.h"
+
+procedure start;
 
 variable do_once;
 variable count;

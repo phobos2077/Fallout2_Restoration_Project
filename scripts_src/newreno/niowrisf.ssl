@@ -16,6 +16,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "niowrisf"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NIOWRISF
 #include "../headers/command.h"

@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "fcdkwrk2"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCDKWRK2

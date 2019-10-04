@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "hcant1"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 

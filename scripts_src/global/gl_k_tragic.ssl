@@ -1,11 +1,12 @@
-procedure start;
-
+#define SCRIPT_REALNAME "gl_k_tragic"
+#include "../headers/define.h"
 #include "../headers/scripts.h"
+
+procedure start;
 
 variable do_once;
 variable game_timer;
 variable game_timer2;
-
 
 procedure start begin
    if (metarule(22,0)) then return;

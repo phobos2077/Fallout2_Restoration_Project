@@ -7,6 +7,7 @@
 */
 
 
+#define SCRIPT_REALNAME "ectlkmon"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECMONSHN

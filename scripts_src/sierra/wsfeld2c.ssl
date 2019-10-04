@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "wsfeld2c"
 #include "../headers/define.h"
 #include "../headers/depolva.h"
 

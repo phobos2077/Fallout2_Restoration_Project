@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "himanhol"
 #include "../headers/define.h"
 #include "../headers/broken1.h"
 

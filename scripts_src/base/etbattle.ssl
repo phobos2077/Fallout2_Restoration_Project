@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "etbattle"
 #include "../headers/define.h"
 #include "../headers/base.h"
 

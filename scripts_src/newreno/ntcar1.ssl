@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "ntcar1"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NTCAR1
 #include "../headers/command.h"

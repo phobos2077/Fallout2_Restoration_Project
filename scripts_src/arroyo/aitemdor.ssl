@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "aitemdor"
 #include "../headers/define.h"
 #include "../headers/arcaves.h"
 

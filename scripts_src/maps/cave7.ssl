@@ -6,6 +6,7 @@
    Map for Vault13 Fake entrance
 */
 
+#define SCRIPT_REALNAME "cave7"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

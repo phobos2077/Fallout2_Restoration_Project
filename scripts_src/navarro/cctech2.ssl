@@ -17,6 +17,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "cctech2"
 #include "../headers/define.h"
 //#include "../headers/navdef.h"
 #include "../headers/navarro.h"

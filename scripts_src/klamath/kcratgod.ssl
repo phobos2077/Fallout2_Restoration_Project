@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "kcratgod"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 

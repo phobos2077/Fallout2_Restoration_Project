@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "kcscorp"
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 #include "../headers/klagraz.h"

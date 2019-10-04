@@ -1,7 +1,6 @@
-procedure start;
-
-#include "../sfall/sfall.h"
+#define SCRIPT_REALNAME "gl_k_modini"
 #include "../headers/define.h"
+#include "../sfall/sfall.h"
 
 procedure start begin
    if is_loading_game then return;

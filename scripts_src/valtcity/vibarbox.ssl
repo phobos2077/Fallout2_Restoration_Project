@@ -20,6 +20,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "vibarbox"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_VIBARBOX

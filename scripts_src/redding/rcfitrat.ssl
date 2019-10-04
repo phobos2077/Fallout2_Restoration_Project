@@ -10,6 +10,7 @@
         Updated:
 ****************************************************************/
 
+#define SCRIPT_REALNAME "rcfitrat"
 #include "../headers/define.h"
 #include "../headers/redment.h"
 

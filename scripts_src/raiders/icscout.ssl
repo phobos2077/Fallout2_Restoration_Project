@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "icscout"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_ICSCOUT
 #define TOWN_REP_VAR            GVAR_TOWN_REP_RAIDERS

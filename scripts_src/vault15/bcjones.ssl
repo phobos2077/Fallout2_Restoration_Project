@@ -26,6 +26,7 @@
         -rwh2   11/13/97
 */
 #define NPC_REACTION_TYPE       REACTION_C
+#define SCRIPT_REALNAME "bcjones"
 #include "../headers/define.h"
 #include "../headers/vault15.h"
 

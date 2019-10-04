@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "abguard"
 #include "../headers/define.h"
 #include "../headers/abbey.h"
 

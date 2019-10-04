@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "newrst"
 #include "../headers/define.h"
 #include "../headers/newrst.h"
 #include "../headers/updatmap.h"

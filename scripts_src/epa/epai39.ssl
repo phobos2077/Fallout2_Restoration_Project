@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "epai39"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPAI39

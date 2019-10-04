@@ -6,6 +6,7 @@
         Map Script for Sierra Army Base, Outside area
 */
 
+#define SCRIPT_REALNAME "depolvb"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "modwell"
 #include "../headers/define.h"
 #include "../headers/modwell.h"
 #include "../headers/updatmap.h"

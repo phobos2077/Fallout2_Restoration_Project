@@ -1,3 +1,6 @@
+#define SCRIPT_REALNAME "gl_k_easter"
+#include "../headers/define.h"
+
 procedure start;
 
 procedure start begin

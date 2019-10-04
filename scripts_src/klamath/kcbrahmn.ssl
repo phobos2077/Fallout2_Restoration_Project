@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "kcbrahmn"
 #include "../headers/define.h"
 #include "../headers/kladwtn.h"
 

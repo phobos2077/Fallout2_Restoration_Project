@@ -20,6 +20,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "doorl100"
 #include "../headers/define.h"
 
 // this can be changed to reflect any local script you make

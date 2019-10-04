@@ -20,6 +20,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "espwrgen"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ESPWRGEN

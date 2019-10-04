@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mtrug"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MTRUG
 #include "../headers/command.h"

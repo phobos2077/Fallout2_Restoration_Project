@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "tribec2"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_TRIBEC2

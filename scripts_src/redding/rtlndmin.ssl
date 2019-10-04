@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "rtlndmin"
 #include "../headers/define.h"
 #include "../headers/redwame.h"
 

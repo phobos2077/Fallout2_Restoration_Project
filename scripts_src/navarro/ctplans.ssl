@@ -2,6 +2,7 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
+#define SCRIPT_REALNAME "ctplans"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_CTPLANS

@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "siexit"
 #include "../headers/define.h"
 #include "../headers/ncr4.h"
 

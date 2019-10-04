@@ -16,6 +16,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "nif2hint"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_NIF2HINT

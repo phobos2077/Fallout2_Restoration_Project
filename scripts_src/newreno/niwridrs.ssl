@@ -16,6 +16,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "niwridrs"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NIWRIDRS
 #include "../headers/command.h"

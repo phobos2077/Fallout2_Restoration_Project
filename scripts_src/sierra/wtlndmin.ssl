@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "wtlndmin"
 #include "../headers/define.h"
 #include "../headers/depolv1.h"
 

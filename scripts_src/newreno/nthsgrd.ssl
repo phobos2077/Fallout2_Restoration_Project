@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "nthsgrd"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NEWRVB
 #include "../headers/command.h"

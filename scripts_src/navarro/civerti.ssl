@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "civerti"
 #include "../headers/define.h"
 #include "../headers/navarro.h"
 

@@ -1,8 +1,6 @@
+#define SCRIPT_REALNAME "gl_k_smoking"
 #include "../headers/define.h"
 #include "../sfall/define_extra.h"
-#include "../headers/rpu.h"
-
-#define NAME "gl_k_smoking"
 
 procedure start;
 

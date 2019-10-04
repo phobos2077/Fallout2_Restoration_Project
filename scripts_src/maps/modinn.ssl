@@ -25,6 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "modinn"
 #include "../headers/define.h"
 #include "../headers/modinn.h"
 #include "../headers/updatmap.h"

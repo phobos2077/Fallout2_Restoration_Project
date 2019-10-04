@@ -19,6 +19,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "zccorpse"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZCCORPSE

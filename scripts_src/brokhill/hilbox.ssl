@@ -20,6 +20,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "hilbox"
 #include "../headers/define.h"
 #include "../headers/broken1.h"
 

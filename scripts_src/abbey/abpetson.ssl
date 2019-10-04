@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "abpetson"
 #include "../headers/define.h"
 #include "../headers/abbey.h"
 

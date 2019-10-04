@@ -34,6 +34,7 @@
 #define WARNING_LENNY_ACTION                 call Node034;
 
 /* Include Files */
+#define SCRIPT_REALNAME "ncbismen"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCBISMEN
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO

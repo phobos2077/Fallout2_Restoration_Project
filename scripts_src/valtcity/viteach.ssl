@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "viteach"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_VITEACH

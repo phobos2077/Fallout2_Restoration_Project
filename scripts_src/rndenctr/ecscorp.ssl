@@ -6,6 +6,7 @@
    have been designed.
 */
 
+#define SCRIPT_REALNAME "ecscorp"
 #include "../headers/define.h"
 #include "../headers/bhrnddst.h"
 

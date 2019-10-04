@@ -10,6 +10,7 @@
 //your area.  nbk
 
 
+#define SCRIPT_REALNAME "cstouch"
 #include "../headers/define.h"
 #include "../headers/navarro.h"
 

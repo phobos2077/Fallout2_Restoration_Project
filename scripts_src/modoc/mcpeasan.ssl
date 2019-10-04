@@ -16,6 +16,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mcpeasan"
 #include "../headers/define.h"
 #define NAME                        SCRIPT_MCPEASAN
 #define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC

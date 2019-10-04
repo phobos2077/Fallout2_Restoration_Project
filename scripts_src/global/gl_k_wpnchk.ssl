@@ -1,10 +1,12 @@
-procedure start;
-
+#define SCRIPT_REALNAME "gl_k_wpnchk"
+#include "../headers/define.h"
 #include "../sfall/sfall.h"
 #include "../headers/maps.h"
 
 #define PID_SOLAR_SCORCHER 390
 #define GVAR_TEST_SOLAR_SCORCHER 775
+
+procedure start;
 
 // avoid registering the hook over and over again
 variable scorcher_registered := 0;

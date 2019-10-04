@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "dicrate"
 #include "../headers/define.h"
 
 #define NAME                        SCRIPT_DICRATE

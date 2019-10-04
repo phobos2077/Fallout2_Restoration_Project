@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dibulbrd"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DIBULBRD
 #include "../headers/command.h"

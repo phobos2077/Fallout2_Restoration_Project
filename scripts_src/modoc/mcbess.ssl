@@ -18,6 +18,7 @@
 
 #define set_default_party_follow             set_follow_close
 
+#define SCRIPT_REALNAME "mcbess"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MCBESS
 #define TOWN_REP_VAR            GVAR_TOWN_REP_MODOC

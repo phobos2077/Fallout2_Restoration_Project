@@ -1,3 +1,4 @@
+#define SCRIPT_REALNAME "rtcavn1"
 #include "../headers/define.h"
 #include "../headers/klaratcv.h"
 #include "../headers/klamath.h"

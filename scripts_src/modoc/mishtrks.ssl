@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mishtrks"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MISHTRKS
 #include "../headers/command.h"

@@ -42,6 +42,7 @@
 #define WARNING_LENNY_ACTION                       call Node028;
 
 /* Include Files */
+#define SCRIPT_REALNAME "ncliljes"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCLILJES
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO

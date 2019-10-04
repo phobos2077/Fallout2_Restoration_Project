@@ -3,6 +3,7 @@
 */
 
 
+#define SCRIPT_REALNAME "aicrops"
 #include "../headers/define.h"
 #include "../headers/arvillag.h"
 

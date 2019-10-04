@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcatkslv"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCATKSLV
 #include "../headers/command.h"

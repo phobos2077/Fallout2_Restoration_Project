@@ -22,6 +22,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "broken1"
 #include "../headers/define.h"
 //#include "../headers/broken.h" - commented out by killap
 //#include "../headers/broken1.h" - commented out by killap

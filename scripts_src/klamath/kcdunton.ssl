@@ -32,6 +32,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kcdunton"
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 #include "../headers/klagraz.h"

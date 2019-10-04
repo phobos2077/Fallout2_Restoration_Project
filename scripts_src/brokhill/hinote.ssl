@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "hinote"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_HINOTE

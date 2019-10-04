@@ -29,6 +29,7 @@
 #define NPC_REACTION_TYPE       REACTION_TG
 #define NPC_REACTION_VAR        8 /* same as thief variable */
 
+#define SCRIPT_REALNAME "fcmarc"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 

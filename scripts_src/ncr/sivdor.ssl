@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "sivdor"
 #include "../headers/define.h"
 #include "../headers/ncrent.h" // added by killap
 

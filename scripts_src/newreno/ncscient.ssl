@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "ncscient"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCSCIENT
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO

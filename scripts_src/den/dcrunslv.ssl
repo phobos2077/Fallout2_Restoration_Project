@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcrunslv"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCRUNSLV
 #include "../headers/command.h"

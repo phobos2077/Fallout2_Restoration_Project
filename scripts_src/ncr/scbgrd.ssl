@@ -30,6 +30,7 @@
 #define NPC_REACTION_TYPE       REACTION_TG /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
+#define SCRIPT_REALNAME "scbgrd"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 

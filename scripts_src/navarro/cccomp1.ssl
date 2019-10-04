@@ -17,6 +17,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "cccomp1"
 #include "../headers/define.h"
 //#include "../headers/navdef.h"
 #include "../headers/navarro.h"

@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "newr2"
 #include "../headers/define.h"
 #include "../headers/newr2.h"
 #include "../headers/updatmap.h"

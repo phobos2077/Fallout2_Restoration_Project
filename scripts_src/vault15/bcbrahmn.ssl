@@ -17,6 +17,7 @@
 /* Include Files */
 #define NPC_REACTION_TYPE       REACTION_TC
 
+#define SCRIPT_REALNAME "bcbrahmn"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZCBRAHMN

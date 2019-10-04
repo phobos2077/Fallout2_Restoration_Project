@@ -33,6 +33,7 @@
 */
 
 
+#define SCRIPT_REALNAME "nceldrid"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCELDRID
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO

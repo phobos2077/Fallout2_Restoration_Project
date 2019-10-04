@@ -16,6 +16,7 @@
            Updated:
 */
 
+#define SCRIPT_REALNAME "gecktunl"
 #include "../headers/define.h"
 //#include "../headers/gecksetl.h"
 #include "../headers/updatmap.h"

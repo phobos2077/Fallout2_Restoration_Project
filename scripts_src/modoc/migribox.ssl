@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "migribox"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MIGRIBOX
 #include "../headers/command.h"

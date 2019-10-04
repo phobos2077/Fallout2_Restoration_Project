@@ -6,6 +6,7 @@
    Random Unwashed Villagers Bits High luck encounter
 */
 
+#define SCRIPT_REALNAME "rnduvilg"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

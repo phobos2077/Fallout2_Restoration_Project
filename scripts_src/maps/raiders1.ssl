@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "raiders1"
 #include "../headers/define.h"
 #include "../headers/raiders1.h"
 #include "../headers/updatmap.h"

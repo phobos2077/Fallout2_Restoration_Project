@@ -20,6 +20,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "zitmpbox"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_ZITMPBOX
 #include "../headers/command.h"

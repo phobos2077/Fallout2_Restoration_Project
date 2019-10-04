@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "zi8ball"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_ZI8BALL
 #define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_EPA)

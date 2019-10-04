@@ -16,6 +16,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mcbalwif"
 #include "../headers/define.h"
 
 #define NAME                        SCRIPT_MCBALWIF

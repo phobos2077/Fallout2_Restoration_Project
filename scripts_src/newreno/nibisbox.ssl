@@ -19,6 +19,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "nibisbox"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_NIBISBOX

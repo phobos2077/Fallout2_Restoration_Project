@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "ssflxdor"
 #include "../headers/define.h"
 
 #define TRU_NAME                SCRIPT_SSGUNDOR

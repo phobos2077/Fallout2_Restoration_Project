@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "hicdshlf"
 #include "../headers/define.h"
 #include "../headers/broken2.h" //mapvars
 

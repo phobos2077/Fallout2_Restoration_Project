@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcrnslvr"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCRNSLVR
 #include "../headers/command.h"

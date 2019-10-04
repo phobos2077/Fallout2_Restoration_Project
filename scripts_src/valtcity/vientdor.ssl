@@ -19,6 +19,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "vientdor"
 #include "../headers/define.h"
 #include "../headers/vctydwtn.h"
 

@@ -18,6 +18,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "zigengrv"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZIGENGRV

@@ -17,6 +17,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "ccmedgrd"
 #include "../headers/define.h"
 //#include "../headers/navdef.h"
 #include "../headers/navarro.h"

@@ -19,6 +19,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "niethbox"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_NIETHBOX

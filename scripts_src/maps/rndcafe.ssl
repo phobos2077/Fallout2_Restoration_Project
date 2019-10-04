@@ -6,6 +6,7 @@
    Random Big Head Encounter fun..
 */
 
+#define SCRIPT_REALNAME "rndcafe"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

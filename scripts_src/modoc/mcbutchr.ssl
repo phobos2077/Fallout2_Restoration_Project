@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mcbutchr"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MCBUTCHR
 #define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_MODOC)

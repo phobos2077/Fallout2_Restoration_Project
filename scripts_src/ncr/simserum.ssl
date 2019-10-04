@@ -6,6 +6,7 @@
    Mutanigin Serim. It kills mutants thats about it.
 */
 
+#define SCRIPT_REALNAME "simserum"
 #include "../headers/define.h"
 
 #define NAME   SCRIPT_SIMSERUM

@@ -11,6 +11,7 @@
 
 //#self_ref
 
+#define SCRIPT_REALNAME "ecdogmet"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECDOGMET

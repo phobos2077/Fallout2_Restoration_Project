@@ -26,6 +26,7 @@
 #define WARNING_LENNY_ACTION                    call Node030;
 
 /* Include Files */
+#define SCRIPT_REALNAME "nccasbou"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NCCASBOU
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO

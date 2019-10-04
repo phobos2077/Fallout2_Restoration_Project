@@ -28,6 +28,7 @@
 #define NPC_REACTION_TYPE       REACTION_TG
 #define NPC_REACTION_VAR        8 /* same as thief variable */
 
+#define SCRIPT_REALNAME "ocjul"
 #include "../headers/define.h"
 #include "../headers/vault13.h"
 

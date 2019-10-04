@@ -28,6 +28,7 @@
 #define NPC_REACTION_TYPE       REACTION_TC
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
+#define SCRIPT_REALNAME "ocdave"
 #include "../headers/define.h"
 #include "../headers/vault13.h"
 

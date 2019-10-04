@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcfranki"
 #include "../headers/define.h"
 #include "../headers/den.h"
 

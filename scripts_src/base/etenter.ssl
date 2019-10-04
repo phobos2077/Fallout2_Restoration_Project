@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "etenter"
 #include "../headers/define.h"
 #include "../headers/base.h"
 

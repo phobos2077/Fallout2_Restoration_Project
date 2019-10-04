@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "newrcs"
 #include "../headers/define.h"
 #include "../headers/newrcs.h"
 #include "../headers/updatmap.h"

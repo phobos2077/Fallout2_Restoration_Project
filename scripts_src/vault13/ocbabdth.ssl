@@ -27,6 +27,7 @@
 */
 #define NPC_REACTION_TYPE       REACTION_C
 
+#define SCRIPT_REALNAME "ocbabdth"
 #include "../headers/define.h"
 #include "../headers/vault13.h"
 

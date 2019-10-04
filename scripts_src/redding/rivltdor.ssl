@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "rivltdor"
 #include "../headers/define.h"
 #include "../headers/reddown.h"
 

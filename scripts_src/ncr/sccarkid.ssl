@@ -27,6 +27,7 @@
         -rwh2   11/13/97
 */
 #define NPC_REACTION_TYPE       REACTION_TC
+#define SCRIPT_REALNAME "sccarkid"
 #include "../headers/define.h"
 #include "../headers/ncr2.h"
 

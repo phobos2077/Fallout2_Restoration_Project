@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcslaver"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCSLAVER
 #define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN

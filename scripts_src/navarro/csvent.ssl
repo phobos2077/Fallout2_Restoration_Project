@@ -17,6 +17,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "csvent"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_CSVENT

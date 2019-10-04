@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "nimcgslt"
 #include "../headers/define.h"
 #define NAME                              SCRIPT_NIMCGSLT
 #include "../headers/command.h"

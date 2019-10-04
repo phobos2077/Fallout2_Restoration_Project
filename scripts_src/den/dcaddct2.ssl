@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcaddct2"
 #include "../headers/define.h"
 #include "../headers/den.h"
 #include "../headers/denres1.h"

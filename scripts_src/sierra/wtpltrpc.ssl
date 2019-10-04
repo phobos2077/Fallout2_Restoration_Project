@@ -23,6 +23,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "wtpltrpc"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_SPRTRP0

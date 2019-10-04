@@ -1,5 +1,6 @@
 /* Include Files */
 
+#define SCRIPT_REALNAME "epa1"
 #include "../headers/define.h"
 #include "../headers/epa.h"
 #include "../headers/updatmap.h"

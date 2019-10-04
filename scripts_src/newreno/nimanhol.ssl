@@ -14,6 +14,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "nimanhol"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_NIMANHOL

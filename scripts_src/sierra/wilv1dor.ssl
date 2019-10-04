@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "wilv1dor"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_DOOR

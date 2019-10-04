@@ -16,6 +16,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "dimetbox"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_DIMETBOX

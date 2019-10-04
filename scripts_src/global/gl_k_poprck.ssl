@@ -1,6 +1,8 @@
-procedure start;
-
+#define SCRIPT_REALNAME "gl_k_poprck"
+#include "../headers/define.h"
 #include "../headers/scripts.h"
+
+procedure start;
 
 variable took_rocks;
 variable took_soda;
@@ -47,5 +49,5 @@ procedure start begin
       end
     end
 
-	end
+  end
 end

@@ -17,6 +17,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "nidcegrl"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_ZIDCEGRL
 #include "../headers/command.h"

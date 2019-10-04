@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "mibramea"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MIBRAMEA
 #include "../headers/command.h"

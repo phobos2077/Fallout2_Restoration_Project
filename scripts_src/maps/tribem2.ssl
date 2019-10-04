@@ -2,6 +2,7 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
+#define SCRIPT_REALNAME "tribem2"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 #include "../headers/tribe02.h"

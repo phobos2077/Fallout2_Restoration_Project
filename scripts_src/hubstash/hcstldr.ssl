@@ -6,6 +6,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "hcstldr"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_HCSTLDR

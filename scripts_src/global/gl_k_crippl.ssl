@@ -1,3 +1,6 @@
+#define SCRIPT_REALNAME "gl_k_crippl"
+#include "../headers/define.h"
+
 #define iface_tag_player_crippled 5
 #define iface_tag_npc_crippled 6
 

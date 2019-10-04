@@ -7,6 +7,7 @@
 //system so that they don't all animate at
 //once.
 
+#define SCRIPT_REALNAME "gsreactr"
 #include "../headers/define.h"
 #include "../headers/gecko.h"
 #include "../headers/geckpwpl.h"

@@ -28,6 +28,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kcsajag"
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 #include "../headers/kladwtn.h"

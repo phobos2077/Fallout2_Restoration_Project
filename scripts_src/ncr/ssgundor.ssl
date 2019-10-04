@@ -21,6 +21,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "ssgundor"
 #include "../headers/define.h"
 
 #define TRU_NAME                SCRIPT_SSGUNDOR

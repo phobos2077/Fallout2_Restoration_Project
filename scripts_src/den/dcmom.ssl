@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcmom"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCMOM
 #define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN

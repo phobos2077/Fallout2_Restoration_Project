@@ -11,6 +11,7 @@
 
 */
 
+#define SCRIPT_REALNAME "kcrob"
 #include "../headers/define.h"
 #include "../headers/klacanyn.h"
 

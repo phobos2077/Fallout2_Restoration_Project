@@ -18,6 +18,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "mijkybox"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MIJKYBOX
 #include "../headers/command.h"

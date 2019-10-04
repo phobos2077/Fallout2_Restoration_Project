@@ -19,6 +19,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "mcatkdog"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_MCATKDOG

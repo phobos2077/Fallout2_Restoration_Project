@@ -15,6 +15,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "dcg1grd"
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCG1GRD
 #define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN

@@ -18,6 +18,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "gcskeetr"
 #include "../headers/define.h"
 #include "../headers/gecko.h"
 

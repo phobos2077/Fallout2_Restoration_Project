@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "ecmutrat"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 

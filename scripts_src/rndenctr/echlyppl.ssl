@@ -8,6 +8,7 @@
 
 procedure start;
 
+#define SCRIPT_REALNAME "echlyppl"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECHLYPPL

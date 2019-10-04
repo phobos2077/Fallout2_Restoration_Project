@@ -6,6 +6,7 @@
    Random Pariah Dog Encounter fun..
 */
 
+#define SCRIPT_REALNAME "rndparih"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

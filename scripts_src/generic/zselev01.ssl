@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "zselev01"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZSELEV01

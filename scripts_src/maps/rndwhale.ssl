@@ -6,6 +6,7 @@
    Random Whale Bits High luck encounter
 */
 
+#define SCRIPT_REALNAME "rndwhale"
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
 

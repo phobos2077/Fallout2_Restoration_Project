@@ -1,3 +1,6 @@
+#define SCRIPT_REALNAME "gl_k_car"
+#include "../headers/define.h"
+
 // From Darek
 // Fixes car getting lost when the car runs out of gas over a town circle
 

@@ -29,6 +29,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
+#define SCRIPT_REALNAME "kctorr"
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 #include "../headers/klagraz.h"

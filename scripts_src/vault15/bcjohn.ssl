@@ -26,6 +26,7 @@
         -rwh2   11/13/97
 */
 #define NPC_REACTION_TYPE       REACTION_C
+#define SCRIPT_REALNAME "bcjohn"
 #include "../headers/define.h"
 #include "../headers/v15ent.h"
 

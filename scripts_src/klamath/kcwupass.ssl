@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "kcwupass"
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 //#include "../headers/<TownName.h>"

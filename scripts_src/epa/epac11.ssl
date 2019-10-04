@@ -2,6 +2,7 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
+#define SCRIPT_REALNAME "epac11"
 #include "../headers/define.h"
 #include "../headers/epamain.h"
 #include "../headers/newr1.h" //added by killap

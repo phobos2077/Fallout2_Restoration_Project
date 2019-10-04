@@ -3,6 +3,7 @@
 */
 
 /* Include Files */
+#define SCRIPT_REALNAME "csxdoor"
 #include "../headers/define.h"
 #include "../headers/navarro.h"
 

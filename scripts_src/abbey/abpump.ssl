@@ -26,6 +26,7 @@
         -rwh2   11/13/97
 */
 /* Include Files */
+#define SCRIPT_REALNAME "abpump"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_ABPUMP

@@ -15,6 +15,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "simrkstr"
 #include "../headers/define.h"
 #include "../headers/ncrent.h"
 #define NAME                    SCRIPT_SIMRKSTR

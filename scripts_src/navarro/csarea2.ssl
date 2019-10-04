@@ -2,6 +2,7 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
+#define SCRIPT_REALNAME "csarea2"
 #include "../headers/define.h"
 #include "../headers/command.h"
 #include "../headers/navarro.h"

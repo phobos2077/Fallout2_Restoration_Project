@@ -11,6 +11,7 @@ procedure map_enter_p_proc;
 procedure critter_p_proc;
 procedure destroy_p_proc;
 
+#define SCRIPT_REALNAME "ecplant"
 #include "../headers/define.h"
 #include "../headers/bhrnddst.h"
 

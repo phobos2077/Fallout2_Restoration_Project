@@ -4,6 +4,7 @@
 
 
 /* Include Files */
+#define SCRIPT_REALNAME "fssubsp"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_FSSUBSP

@@ -17,6 +17,7 @@
 //your area.  nbk
 
 
+#define SCRIPT_REALNAME "stuff"
 #include "../headers/define.h"
 #include "../headers/kladwtn.h"
 

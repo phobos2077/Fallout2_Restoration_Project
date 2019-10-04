@@ -27,6 +27,7 @@
 */
 #define NPC_REACTION_TYPE       REACTION_TG
 
+#define SCRIPT_REALNAME "bcdardog"
 #include "../headers/define.h"
 #include "../headers/vault15.h"
 

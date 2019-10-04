@@ -16,6 +16,7 @@
 
 /* Include Files */
 
+#define SCRIPT_REALNAME "mcdthclw"
 #include "../headers/define.h"
 #include "../headers/modinn.h"
 
