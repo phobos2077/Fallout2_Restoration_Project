@@ -13,11 +13,6 @@
 #include "../headers/modreact.h"
 #include "../headers/partybkg.h"
 
-#define LVAR_Herebefore                 (4)
-#define LVAR_Hostile                    (5)
-#define LVAR_Personal_Enemy             (6)
-#define LVAR_Said_Thanks                (7)
-
 procedure start;
 procedure destroy_p_proc;
 procedure use_p_proc;
@@ -64,6 +59,8 @@ procedure Node999;
 #define LVAR_Abbey_Alcohol              (3)
 #define LVAR_Home_Tile                  (4)
 #define LVAR_Home_Rotation              (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Said_Thanks                (7)
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
