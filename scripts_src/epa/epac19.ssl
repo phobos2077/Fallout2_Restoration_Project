@@ -48,7 +48,7 @@ begin
   if (has_trait(TRAIT_OBJECT, self_obj, OBJECT_VISIBILITY)) then
   begin
     if (obj_can_see_obj(self_obj, DOCTOR_obj)) then
-      attack(DOCTOR_obj, 0, 1, 0, 0, 30000, 0, 0);
+      attack(DOCTOR_obj);
     else if (tile_distance_objs(self_obj, DOCTOR_obj) > 12) then
     begin
       if (tile_distance_objs(self_obj, dude_obj) > (12 * 2)) then
@@ -66,7 +66,7 @@ begin
     if (has_trait(TRAIT_OBJECT, self_obj, OBJECT_VISIBILITY)) then
     begin
       if (obj_can_see_obj(self_obj, DOCTOR_obj)) then
-        attack(DOCTOR_obj, 0, 1, 0, 0, 30000, 0, 0);
+        attack(DOCTOR_obj);
       else if (tile_distance_objs(self_obj, DOCTOR_obj) > 12) then
       begin
         if (tile_distance_objs(self_obj, DOCTOR_obj) > (12 * 2)) then
