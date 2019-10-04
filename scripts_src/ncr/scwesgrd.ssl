@@ -450,7 +450,7 @@ procedure Walk begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
          animate_move_to_tile(starttile);
-         animate_rotation(self_obj, startrot); //added by killap
+         animate_rotation(startrot); //added by killap
          reg_anim_end();
          set_local_var(LVAR_Turn_Field_Off, 0);
       end else begin
@@ -468,7 +468,7 @@ procedure Walk begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
             animate_move_to_tile(starttile);
-            animate_rotation(self_obj, startrot); //added by killap
+            animate_rotation(startrot); //added by killap
             reg_anim_end();
          end
          add_timer_event(self_obj, 4, TIMER_WALK);
