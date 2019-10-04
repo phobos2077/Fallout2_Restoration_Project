@@ -19,10 +19,6 @@ cache_dir="$HOME/.cache/build"
 bin_dir="$(realpath extra/bin)"
 mkdir -p "$cache_dir" "$bin_dir"
 
-# packages
-sudo apt-get -q update
-sudo apt-get -q -y --no-install-recommends install wine-stable wine32 p7zip p7zip-full p7zip-rar moreutils gcc
-
 # compile.exe, no cache (mpack version may change)
 wget -q "$mpack_url" -O "$mpack_7z"
 7z e "$mpack_7z" "$mpack_compile"
