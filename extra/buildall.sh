@@ -16,8 +16,7 @@ function process_file() {
   f="$1"
   dst="$2"
   script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
-  wine "$bin_dir/wcc386.exe" "$f" -p -fo="$f.tmp" -w  # preprocess
-  sed -i '/^[[:space:]]*$/d' "$f.tmp" # delete empty lines
+  gcc -E -x c -P -o "${f}.tmp" "$f" # preprocess
   wine "$bin_dir/compile.exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # compile
   rm -f "$f.tmp"
 }
