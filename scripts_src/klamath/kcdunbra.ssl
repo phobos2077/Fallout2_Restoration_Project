@@ -22,7 +22,7 @@
 #define NAME                    SCRIPT_KCDUNBRA
 
 #include "../headers/command.h"
-#include "../headers/kladwtn.h."
+#include "../headers/kladwtn.h"
 
 /* Standard Script Procedures */
 procedure start;
