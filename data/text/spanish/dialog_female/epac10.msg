@@ -76,20 +76,19 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {422}{}{Pero debes saber que tengo una regla estricta de no salir con ningún hombre extraño que descongele. Como has estado en el hielo durante el último siglo y medio, asumiré que tu mano se contrajo y me golpeó accidentalmente el trasero. Pero si sucede de nuevo, te arrancaré la polla. ¿Entendido?}
 {423}{}{Mi nombre es }
 {424}{}{Es un placer conocerte, Dex. No puedo imaginar cómo debe ser despertarse después de haber estado congelado durante más de ciento cincuenta años.}
-{425}{}{Yeah, I DO mind, you fucking creep. I only unthawed you so I could put you down like the sick dog you are.}
-{426}{}{Forget about names. How 'bout you take those clothes back off and show me what pre-war men are made of.}
-{430}{}{[Grins and begins to undress.] You're my kind of gal. Prepare yourself to experience Dex, the Duke of Sex.}
+{425}{}{Sí, ME IMPORTA, maldito imbécil. Solo te descongelé para poder humillarte como el perro enfermo que eres.}
+{426}{}{Olvídate de los nombres. ¿Qué tal si te quitas esa ropa y me muestras de qué están hechos los hombres de antes de la guerra?}
+{430}{}{[Sonríe y comienza a desnudarse.] Eres mi tipo de chica. Prepárate para experimentar a Dex, el duque del sexo.}
 {431}{}{[Continuar.]}
-{440}{}{[After an intense love making session on the floor of the chamber, the two of you collapse in exhaustion. Dex
- holds a small object near your mouth.] Scream for her, baby. [Just as you realize it's a severed human ear, you feel a blade pierce your chest. You scream as the blade is pulled out and plunged back in...]}
+{440}{}{[Después de una intensa sesión de amor en el piso de la cámara, los dos colapsan agotados. Dex sostiene un pequeño objeto cerca de tu boca.] Grita por ella, bebé. [Justo cuando te das cuenta de que es un oído humano cortado, sientes que una cuchilla perfora tu pecho. Usted grita cuando se saca la cuchilla y se sumerge de nuevo en ...]}
 {441}{}{[Fin.]}
-{450}{}{Whoa, whoa, whoa. Back up a second, sweetheart. Did you just say a hundred and fifty years? [He shakes his head in  disbelief.] That is un-fucking-believable. [He checks out his reflection.] But you gotta admit, I'm looking damn good for my age. [He grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that looks strange to you in all  their pearly white symmetry.]}
-{451}{}{Sure, some girls might find you attractive, but I'm finding it hard to look past the fact that you're a cold-blooded murderous psycho.}
-{452}{}{Yes, you're very attractive, but honestly, I'm a bit nervous to talk to you after what I read about you being a murderous psycho.}
-{453}{}{Alright, this is sickening. Let's see how great you look after I put a couple holes in your face.}
-{454}{}{Not bad for an ice man. Why were you frozen in there, anyway?}
+{450}{}{Whou, whou, whou. Retrocede un segundo, cariño. ¿Acabas de decir ciento cincuenta años? [Sacude la cabeza con incredulidad.] Eso es increíblemente creíble. [Mira su reflejo.] Pero tienes que admitir que me veo muy bien para mi edad. [Él te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología anterior a la guerra que te parece extraño en toda su simetría blanca perlada.]}
+{451}{}{Claro, algunas chicas pueden encontrarte atractivo, pero me resulta difícil pasar por alto el hecho de que eres un psicópata asesino a sangre fría.}
+{452}{}{Sí, eres muy atractivo, pero, sinceramente, estoy un poco nervioso por hablar contigo después de lo que leí sobre que eres un psicópata asesino.}
+{453}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
+{454}{}{No está mal para un hombre de hielo. ¿Por qué estabas congelado allí, de todos modos?}
 {455}{}{Eh, you're not my type. Anyway, why were you frozen in there?}
-{456}{}{Alright, this is sickening. Let's see how great you look after I put a couple holes in your face.}
+{456}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
 {460}{}{OK, where are you getting this crap about me being a "murderous psycho"?}
 {461}{}{Don't try to bullshit me. I read about you on that computer.}
 {462}{}{That computer over there had some kind of bio on you, and it had some pretty terrible things in it.}
@@ -235,9 +234,9 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {823}{}{Mi nombre es }
 {824}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred
 and fifty years.}
-{825}{}{Yeah, I DO mind, you fucking creep. I only unthawed you so I could put you down like the sick dog you are.}
-{826}{}{Forget about names. How 'bout you take those clothes back off and show me what pre-war men are made of.}
-{830}{}{[Grins and begins to undress.] You're my kind of gal. Prepare yourself to experience Dex, the Duke of Sex.}
+{825}{}{Sí, ME IMPORTA, maldito imbécil. Solo te descongelé para poder humillarte como el perro enfermo que eres.}
+{826}{}{Olvídate de los nombres. ¿Qué tal si te quitas esa ropa y me muestras de qué están hechos los hombres de antes de la guerra?}
+{830}{}{[Sonríe y comienza a desnudarse.] Eres mi tipo de chica. Prepárate para experimentar a Dex, el duque del sexo.}
 {831}{}{[After an intense love making session on the floor of the chamber, the two of you collapse in exhaustion. You
  notice Dex slyly going for a hidden knife. You quickly clutch his genitals.]}
 {832}{}{Touch that knife, and I'll turn you into the Dickless Duke. Besides, why ruin a good thing? The two of us could
@@ -248,12 +247,12 @@ and fifty years.}
  pearly white symmetry.]}
 {841}{}{Sure, some girls might think you're an attractive guy, but I'm sure they're a bit put off by that whole murderous
  psycho thing you've got going on.}
-{842}{}{Alright, this is sickening. Let's see how great you look after I put a couple holes in your face.}
+{842}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
 {843}{}{Sure, some girls might think you're an attractive guy, but I'm sure they're a bit put off by the murderous
  psycho vibes you're giving off.}
-{844}{}{Not bad for an ice man. Why were you frozen in there, anyway?}
+{844}{}{No está mal para un hombre de hielo. ¿Por qué estabas congelado allí, de todos modos?}
 {845}{}{Eh, you're not my type. Anyway, why were you frozen in there?}
-{846}{}{Alright, this is sickening. Let's see how great you look after I put a couple holes in your face.}
+{846}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
 {850}{}{Well they usually don't see that side of me until it's too late. But anyways... [Dex takes another look around the room and whistles.]
  This place has really gone to shit. So what have I missed out on?}
 {851}{}{It's been over a hundred and fifty years since the great silence brought an end to the Old Ones... *your* people.}

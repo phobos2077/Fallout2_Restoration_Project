@@ -21,7 +21,7 @@
 {262}{}{Gracias por la información.}
 {270}{}{¡Por qué, para que tus mañanas sean lo más alegres posible! Digamos, después de todo esto de hablar, no habrías hecho un poco de espacio en tu estómago para un brindis después de todo, ¿verdad?}
 {271}{}{¡Pensé que habíamos superado esto! No tengo hambre y nunca lo estaré. Entonces, ¿por qué estás REALMENTE aquí?}
-{280}{}{Muy bien, no hay necesidad de gritar. Enojado nunca es una buena manera de comenzar tu día. Fui creado como un compañero de desayuno, pero también puedo ser utilizado para el almuerzo y la cena. No hay una hora del día en que alguna tostada no duela. Si me preguntas por qué estoy sentado aquí con un cable colgando de mi lado, bueno, parece que el Sr. Handy no siempre está a la altura de su homónimo: el tipo comenzó a romperse justo en el medio de mi anual chequeo de mantenimiento. Por supuesto, se fue a una bahía de mantenimiento y me dejó colgando.}
+{280}{}{Muy bien, no hay necesidad de gritar. Enojado nunca es una buena manera de comenzar tu día. Fui creado como un compañero de desayuno, pero también puedo ser utilizado para el almuerzo y la cena. No hay una hora del día en que alguna tostada no duela. Si me preguntas por qué estoy sentado aquí con un cable colgando de mi lado, bueno, parece que el Sr. Mañoso no siempre está a la altura de su homónimo: el tipo comenzó a romperse justo en el medio de mi anual chequeo de mantenimiento. Por supuesto, se fue a una bahía de mantenimiento y me dejó colgando.}
 {281}{}{Ya veo. Bien, gracias por tu tiempo.}
 {290}{}{No es un problema. Haz una parada de nuevo. Quizás entonces tengas hambre.}
 {291}{}{Lo dudo. Adiós.}
