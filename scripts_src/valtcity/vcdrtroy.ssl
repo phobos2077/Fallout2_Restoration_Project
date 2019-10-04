@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_VCDRTROY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\NewReno.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/NewReno.h"
 
 
 /* Standard Script Procedures */

@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-//#include "..\headers\enctrp.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+//#include "../headers/enctrp.h"
 
 #define NAME                    SCRIPT_ENCPRES
 
-#include "..\headers\command.h"
-#include "..\headers\enc.h"
+#include "../headers/command.h"
+#include "../headers/enc.h"
 
 procedure start;
 procedure map_enter_p_proc;

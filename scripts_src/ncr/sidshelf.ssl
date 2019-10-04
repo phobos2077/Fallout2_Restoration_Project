@@ -2,13 +2,13 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#include "..\headers\define.h"
-#include "..\headers\ncr1.h"
+#include "../headers/define.h"
+#include "../headers/ncr1.h"
 
 #define NAME                       SCRIPT_SIDSHELF
 
-#include "..\headers\command.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr.h"
 
 /* Standard script procedures */
 

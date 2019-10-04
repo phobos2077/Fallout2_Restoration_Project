@@ -2,13 +2,13 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\tribe01.H"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+#include "../headers/tribe01.H"
 
 #define NAME                    SCRIPT_TRIBEM1          //Script name from scripts.h
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_exit_p_proc;

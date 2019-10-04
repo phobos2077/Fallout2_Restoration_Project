@@ -25,8 +25,8 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ncrent.h"
+#include "../headers/define.h"
+#include "../headers/ncrent.h"
 
 #define FIELD_ENABLED               (0)
 #define FIELD_DISABLED              (1)
@@ -38,7 +38,7 @@
 #define CUR_SCRIPT              SCRIPT_WSEMIT1A         // for creating new objects w/ this script
 #define CUR_FIELD_SCRIPT        SCRIPT_WSFELD1A         // for creating new force fields w/ this script
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define TRAPS_PENALTY           (-20)
 #define SCIENCE_PENALTY         (-40)

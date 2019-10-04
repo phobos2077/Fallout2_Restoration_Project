@@ -4,11 +4,11 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_VSRAISPT
-#include "..\headers\VCTYCTYD.H"
-#include "..\headers\command.h"
+#include "../headers/VCTYCTYD.H"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

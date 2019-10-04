@@ -5,10 +5,10 @@
 // Goo.ssl
 // damages critters in the goo
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_KTGOO
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure spatial_p_proc;
 procedure start;

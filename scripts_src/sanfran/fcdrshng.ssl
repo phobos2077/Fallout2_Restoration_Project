@@ -6,13 +6,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCDRSHNG
 
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h"
-#include "..\headers\sfsheng.h"
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
+#include "../headers/sfsheng.h"
 
 /* Standard Script Procedures */
 procedure start;

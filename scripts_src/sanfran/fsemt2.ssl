@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\ncrent.h"
+#include "../headers/define.h"
+//#include "../headers/ncrent.h"
 
 #define NAME                    SCRIPT_WSEMIT1A         // contains all the .msg info
 #define REAL_NAME               SCRIPT_FSEMT2
 
-#include "..\headers\sfelronb.h"
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h"
+#include "../headers/sfelronb.h"
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
 
 /********************************************************************************
    User settable defines to make this script specific
@@ -76,7 +76,7 @@
 #define SCIENCE_PENALTY         (-40)
 #define TOOL_BONUS              (SCIENCE_PENALTY + 20 + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20))
 
-#include "..\headers\genffld.h"
+#include "../headers/genffld.h"
 
 /********************************************************************************
    End User settable defines

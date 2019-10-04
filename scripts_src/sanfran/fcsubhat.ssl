@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCSUBHAT
 
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
 
 #define Lock_Bonus                      (-40)
 #define Lockpick_Bonus                  (Lock_Bonus+20)

@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\vault15.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/vault15.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_VAULT15
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 
 export variable i_Guard_Count;

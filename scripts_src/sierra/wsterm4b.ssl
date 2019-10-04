@@ -2,12 +2,12 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #include "../sfall/lib.arrays.h"
 
 #define NAME                    SCRIPT_WSTERM4B
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define LOW_DAMAGE              (20)
 #define HIGH_DAMAGE             (30)

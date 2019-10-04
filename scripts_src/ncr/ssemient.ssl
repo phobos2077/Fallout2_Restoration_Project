@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ncrent.h"
+#include "../headers/define.h"
+#include "../headers/ncrent.h"
 
 #define TRU_NAME                SCRIPT_SSEMIENT
 
 #define NAME                    SCRIPT_WSEMIT1A         // contains all the .msg info
 
-#include "..\headers\command.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr.h"
 
 /********************************************************************************
    User settable defines to make this script specific

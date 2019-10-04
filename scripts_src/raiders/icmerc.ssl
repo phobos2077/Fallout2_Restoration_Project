@@ -15,12 +15,12 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_ICMERC
 #define TOWN_REP_VAR            GVAR_TOWN_REP_RAIDERS
-#include "..\headers\command.h"
-#include "..\headers\Raiders.h"
-#include "..\headers\Raiders2.h" //added by killap - expansion
+#include "../headers/command.h"
+#include "../headers/Raiders.h"
+#include "../headers/Raiders2.h" //added by killap - expansion
 
 /* Standard Script Procedures */
 procedure start;

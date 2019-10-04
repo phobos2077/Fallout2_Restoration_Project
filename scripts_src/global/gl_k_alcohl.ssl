@@ -1,6 +1,6 @@
 procedure start;
 
-#include "..\headers\scripts.h"
+#include "../headers/scripts.h"
 
 variable do_once;
 variable count;

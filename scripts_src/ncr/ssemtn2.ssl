@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\ncrent.h"
+#include "../headers/define.h"
+//#include "../headers/ncrent.h"
 
 #define NAME                    SCRIPT_WSEMIT1A         // contains all the .msg info
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
-#include "..\headers\ncr.h"
-#include "..\headers\ncr2.h"
+#include "../headers/ncr.h"
+#include "../headers/ncr2.h"
 
 /********************************************************************************
    User settable defines to make this script specific
@@ -48,7 +48,7 @@
 #define CONTROL_MAC_CLEAR       set_map_var(MVAR_Carlson_Gate, 0)
 #define CONTROL_MAC_SET(x)      set_map_var(MVAR_Carlson_Gate, x)
 
-#include "..\headers\genffld.h"
+#include "../headers/genffld.h"
 
 #define POWER_ON_CHECK          (global_var(GVAR_NCR_POWER_ON) == POWER_ON)  /* The script uses this macro to see if there is an overlying power system.
                                         If the "power" is always on then set this to 1 other wise put the check in there.*/
@@ -76,7 +76,7 @@
 #define SCIENCE_PENALTY         (-40)
 #define TOOL_BONUS              (SCIENCE_PENALTY + 20)
 
-#include "..\headers\genffld.h"
+#include "../headers/genffld.h"
 
 /********************************************************************************
    End User settable defines

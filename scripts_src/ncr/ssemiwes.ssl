@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\ncrent.h"
+#include "../headers/define.h"
+//#include "../headers/ncrent.h"
 
 #define NAME                    SCRIPT_WSEMIT1A         // contains all the .msg info
 
-#include "..\headers\command.h"
-#include "..\headers\ncr3.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr3.h"
+#include "../headers/ncr.h"
 
 /********************************************************************************
    User settable defines to make this script specific
@@ -74,7 +74,7 @@
 #define SCIENCE_PENALTY         (-40)
 #define TOOL_BONUS              (SCIENCE_PENALTY + 20)
 
-#include "..\headers\genffld.h"
+#include "../headers/genffld.h"
 /********************************************************************************
    End User settable defines
 *********************************************************************************/

@@ -19,15 +19,15 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_OSVDRCMP
 #define CUR_COMP_SCRIPT         SCRIPT_OSVDRCMP
 
-#include "..\headers\command.h"
-#include "..\headers\vault13.h"
+#include "../headers/command.h"
+#include "../headers/vault13.h"
 
-#include "..\headers\v13.h"
+#include "../headers/v13.h"
 
 /* Standard Script Procedures */
 procedure start;

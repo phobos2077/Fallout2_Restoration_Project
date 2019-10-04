@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\rndbess.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/rndbess.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_RNDBESS
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define CHECK_RNDBESS_FLOAT (3)
 #define DEATH_TILE          (19894)

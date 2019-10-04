@@ -10,15 +10,15 @@
 //your area.  nbk
 
 
-#include "..\headers\define.h"
-#include "..\headers\navarro.h"
+#include "../headers/define.h"
+#include "../headers/navarro.h"
 
 #define NAME                    SCRIPT_CSTOUCH
 #define COMMANDER_LOCKER        16673
 #define QUINCY_LOCKER           13673
 #define RAUL_LOCKER              9725
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
 #define STATE_ACTIVE                    (0)

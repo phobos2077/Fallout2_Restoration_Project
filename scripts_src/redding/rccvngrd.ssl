@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\caravan.h"
+#include "../headers/define.h"
+#include "../headers/caravan.h"
 
 #define NAME                    SCRIPT_ECCVNGRD
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 
 /* Standard Script Procedures */

@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\sfelronb.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/sfelronb.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_SFELRONB
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
-#include "..\headers\sanfran.h"
+#include "../headers/sanfran.h"
 
 export variable i_he_obj;
 export variable i_she_obj;

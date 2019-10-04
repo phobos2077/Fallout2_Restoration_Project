@@ -6,13 +6,13 @@
         Map Script for Sierra Army Base, Outside area
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\vctyctyd.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+#include "../headers/vctyctyd.h"
 
 #define NAME                    SCRIPT_VCTYCTYD
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

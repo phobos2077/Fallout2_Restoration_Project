@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_RCVELANI
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\Caravan.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/Caravan.h"
 
 #define CARAVAN_GVAR            GVAR_JET_CARAVAN
 

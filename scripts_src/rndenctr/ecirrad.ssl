@@ -18,12 +18,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECIRRAD
 #define CUR_COMP_SCRIPT         SCRIPT_ECIRRAD
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

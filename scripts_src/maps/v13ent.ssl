@@ -6,13 +6,13 @@
         Map Script for Sierra Army Base, Outside area
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\v13ent.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+#include "../headers/v13ent.h"
 
 #define NAME                    SCRIPT_V13ENT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 export variable i_vault13_door;
 

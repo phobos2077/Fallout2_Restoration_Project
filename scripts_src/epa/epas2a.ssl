@@ -4,12 +4,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPAS2A
-#include "..\HEADERS\EPAMAIN.h"
+#include "../headers/EPAMAIN.h"
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

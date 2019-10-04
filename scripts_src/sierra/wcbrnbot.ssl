@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
-#include "..\headers\depolva.h"
-#include "..\headers\depolvb.h"
-#include "..\headers\NEWR1.h" //added by killap
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
+#include "../headers/depolva.h"
+#include "../headers/depolvb.h"
+#include "../headers/NEWR1.h" //added by killap
 #define NAME                    SCRIPT_WCBRNBOT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 
 /* Standard Script Procedures */

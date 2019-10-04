@@ -11,12 +11,12 @@
 
 */
 
-#include "..\headers\define.h"
-#include "..\headers\klacanyn.h"
+#include "../headers/define.h"
+#include "../headers/klacanyn.h"
 
 #define NAME                    SCRIPT_KCROB
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

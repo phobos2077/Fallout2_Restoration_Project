@@ -14,14 +14,14 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-//#include "..\headers\nazwamapy.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+//#include "../headers/nazwamapy.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_SLVCM1
 
-#include "..\headers\slvcamp.h"
-#include "..\headers\command.h"
+#include "../headers/slvcamp.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_exit_p_proc;

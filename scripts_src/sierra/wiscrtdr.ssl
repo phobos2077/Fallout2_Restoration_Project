@@ -26,9 +26,9 @@
         -rwh2   11/13/97
 */
 
-#include "..\headers\define.h"
-#include "..\headers\depolva.h"
-#include "..\headers\depolvb.h"
+#include "../headers/define.h"
+#include "../headers/depolva.h"
+#include "../headers/depolvb.h"
 
 #define WALL_BLOCKING_HEX       (50332269)
 

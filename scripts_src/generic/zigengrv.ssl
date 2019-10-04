@@ -18,11 +18,11 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZIGENGRV
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure look_at_p_proc;

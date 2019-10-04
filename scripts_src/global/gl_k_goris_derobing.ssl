@@ -1,4 +1,4 @@
-#include "..\headers\rpu.h"
+#include "../headers/rpu.h"
 #define NAME "gl_k_goris_derobing"
 
 variable enabled;

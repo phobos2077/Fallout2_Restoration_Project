@@ -16,15 +16,15 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\ncr4.h"
+#include "../headers/define.h"
+#include "../headers/ncr4.h"
 
 #define NAME                    SCRIPT_SCDTHCLA
 
-#include "..\headers\command.h"
-//#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+//#include "../headers/ModReact.h"
 
-#include "..\headers\ncr.h"
+#include "../headers/ncr.h"
 
 /* Standard Script Procedures */
 procedure start;

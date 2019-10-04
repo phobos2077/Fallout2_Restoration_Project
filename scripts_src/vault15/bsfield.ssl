@@ -18,14 +18,14 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_BSFIELD
 #define CUR_COMP_SCRIPT         SCRIPT_BSFILED
 
-#include "..\headers\command.h"
-#include "..\headers\vault15.h"
-#include "..\headers\v15.h"
+#include "../headers/command.h"
+#include "../headers/vault15.h"
+#include "../headers/v15.h"
 
 
 /* Standard Script Procedures */

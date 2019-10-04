@@ -1,7 +1,7 @@
 // Door to Chad's house in BH 2
 
-#include	"..\headers\define.h"
-#include	"..\headers\command.h"
+#include "../headers/define.h"
+#include "../headers/command.h"
 
 #define NAME 	SCRIPT_HICHADDR
 

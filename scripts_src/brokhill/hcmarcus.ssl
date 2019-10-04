@@ -25,20 +25,20 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\broken.h"
-#include "..\headers\broken1.h"
-#include "..\headers\NEWR1.h" //added by killap
+#include "../headers/define.h"
+#include "../headers/broken.h"
+#include "../headers/broken1.h"
+#include "../headers/NEWR1.h" //added by killap
 
 #define NAME                    SCRIPT_HCMARCUS
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
 
 #define PARTY_NODE_X                   Node1000
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\PartyBkg.h"
-#include "..\headers\NewReno.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/PartyBkg.h"
+#include "../headers/NewReno.h"
 
 /* Standard Script Procedures */
 procedure start;

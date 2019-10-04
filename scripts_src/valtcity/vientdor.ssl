@@ -19,12 +19,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\VCtyDwtn.h"
+#include "../headers/define.h"
+#include "../headers/VCtyDwtn.h"
 
 #define NAME                    SCRIPT_VIENTDOR
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

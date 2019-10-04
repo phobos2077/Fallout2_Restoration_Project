@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ncr1.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/ncr1.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_NCR1
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
-#include "..\headers\ncr.h"
+#include "../headers/ncr.h"
 
 export variable cyber_dog_obj := 0;
 export variable i_duppo_table := 0;

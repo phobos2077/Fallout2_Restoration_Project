@@ -19,12 +19,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_VTALOMRK
 #define CUR_SCRIPT              SCRIPT_VTALOMRK
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 variable floated := 0;
 

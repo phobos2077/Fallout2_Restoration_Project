@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\enc.h"
-//#include "..\headers\enctrp.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+#include "../headers/enc.h"
+//#include "../headers/enctrp.h"
 
 #define NAME                    SCRIPT_ENCFITE
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define ENCLAVE_DOOR_PID1       (33556008)
 #define ENCLAVE_DOOR_PID2       (33556007)

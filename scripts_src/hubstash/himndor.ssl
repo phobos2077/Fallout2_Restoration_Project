@@ -6,12 +6,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_HIMNDOR
 
-#include "..\headers\command.h"
-#include "..\headers\hubstash.h"
+#include "../headers/command.h"
+#include "../headers/hubstash.h"
 
 /* Standard Script Procedures */
 procedure start;

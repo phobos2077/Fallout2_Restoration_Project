@@ -1,13 +1,13 @@
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\epa.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/epa.h"
+#include "../headers/updatmap.h"
 
 
 #define NAME                    SCRIPT_EPA1
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define Create_Car(Hex_Num,Elevation)
 

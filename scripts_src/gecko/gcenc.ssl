@@ -2,12 +2,12 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_GCENC
 
-#include "..\headers\command.h"
-#include "..\headers\GCENCLEN.h"
+#include "../headers/command.h"
+#include "../headers/GCENCLEN.h"
 
 #define LVAR_Herebefore                 (4)
 #define LVAR_Hostile                    (5)

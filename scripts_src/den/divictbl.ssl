@@ -19,12 +19,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\Den.h"
+#include "../headers/define.h"
+#include "../headers/Den.h"
 
 #define NAME                        SCRIPT_DIVICTBL
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

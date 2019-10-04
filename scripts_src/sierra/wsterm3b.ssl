@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\depolva.h"
+#include "../headers/define.h"
+#include "../headers/depolva.h"
 
 #define NAME                    SCRIPT_WSTERM3B
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define LOW_DAMAGE              (20)
 #define HIGH_DAMAGE             (30)

@@ -20,13 +20,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_CONTAINR
 
-#include "..\headers\command.h"
-#include "..\headers\ncr1.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr1.h"
+#include "../headers/ncr.h"
 
 /* Defines and Macros */
 

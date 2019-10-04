@@ -25,19 +25,19 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
-#include "..\headers\NEWR1.h" //added by killap
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
+#include "../headers/NEWR1.h" //added by killap
 
 #define NAME                    SCRIPT_VCCASIDY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
 
 #define PARTY_NODE_X                   Node019
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\partybkg.h"
-#include "..\headers\rpu.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/partybkg.h"
+#include "../headers/rpu.h"
 
 /* Standard Script Procedures */
 procedure start;

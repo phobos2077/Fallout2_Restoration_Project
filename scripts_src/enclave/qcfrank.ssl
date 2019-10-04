@@ -25,17 +25,17 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\den.h"
+#include "../headers/define.h"
+#include "../headers/den.h"
 
 #define NAME                    SCRIPT_QCFRANK
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\NewReno.h"
-#include "..\headers\v13.h"
-#include "..\headers\enc.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/NewReno.h"
+#include "../headers/v13.h"
+#include "../headers/enc.h"
 
 
 #define ENCLAVE_DOOR_PID2       (33556007)

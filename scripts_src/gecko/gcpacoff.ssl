@@ -22,13 +22,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_GCPACOFF
 #define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_GECKO)
 
-#include "..\headers\command.h"
-#include "..\headers\gecko.h"
+#include "../headers/command.h"
+#include "../headers/gecko.h"
 
 /* Standard Script Procedures */
 procedure start;

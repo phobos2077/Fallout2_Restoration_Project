@@ -15,13 +15,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCSUBTOR
 
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h"
-#include "..\headers\sfsub.h"
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
+#include "../headers/sfsub.h"
 
 #define REPAIR_BONUS                            (-50)
 #define TOOL_BONUS                              (REPAIR_BONUS+20)

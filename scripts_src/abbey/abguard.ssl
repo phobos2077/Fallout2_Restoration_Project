@@ -15,13 +15,13 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\abbey.h"
+#include "../headers/define.h"
+#include "../headers/abbey.h"
 
 #define NAME                    SCRIPT_ABGUARD
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

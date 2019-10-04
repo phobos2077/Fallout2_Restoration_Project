@@ -8,4 +8,4 @@
 #define DO_CHECK_TAMPER_CONDITION   (dude_family != family_bishop)
 #define LOCKPICK_SKILL_PENALTY      HARD_LOCK_PENALTY
 
-#include "..\generic\ziLocker.ssl"
+#include "../generic/ziLocker.ssl"

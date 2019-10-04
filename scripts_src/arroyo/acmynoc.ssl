@@ -17,14 +17,14 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_ACMYNOC
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ARROYO)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 #define VAULT_KNOWN             vault_13_visible_on_map
 // change both when we have the ability to get the number of times players have visited other towns

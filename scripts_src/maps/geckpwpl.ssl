@@ -22,14 +22,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\gecko.h"
-#include "..\headers\geckpwpl.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/gecko.h"
+#include "../headers/geckpwpl.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_GECKPWPL
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

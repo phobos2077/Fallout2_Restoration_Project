@@ -15,13 +15,13 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_MCBUTCHR
 #define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_MODOC)
-#include "..\headers\command.h"
-#include "..\headers\ModMain.h"
-#include "..\headers\Modoc.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModMain.h"
+#include "../headers/Modoc.h"
+#include "../headers/ModReact.h"
 
 /* Standard Script Procedures */
 procedure start;

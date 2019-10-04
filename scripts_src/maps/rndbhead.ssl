@@ -6,13 +6,13 @@
    Random Big Head Encounter fun..
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_RNDBHEAD
 
-#include "..\headers\command.h"
-#include "..\headers\rndbhead.h"
+#include "../headers/command.h"
+#include "../headers/rndbhead.h"
 
 procedure start;
 procedure map_enter_p_proc;

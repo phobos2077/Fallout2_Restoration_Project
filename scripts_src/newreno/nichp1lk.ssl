@@ -8,4 +8,4 @@
 #define ENTER_LOCK_CONDITION        (map_first_run)
 #define DO_CHECK_TAMPER_CONDITION   (dude_is_made_man == false)
 
-#include "..\generic\ziLocker.ssl"
+#include "../generic/ziLocker.ssl"

@@ -6,13 +6,13 @@
    Random Unwashed Villagers Bits High luck encounter
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_RNDUVILG
 
-#include "..\headers\command.h"
-#include "..\headers\rnduvilg.h"
+#include "../headers/command.h"
+#include "../headers/rnduvilg.h"
 
 export variable i_last_me     := 0;
 export variable i_spammer_obj := 0;

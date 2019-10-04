@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\broken2.h" //mapvars
+#include "../headers/define.h"
+#include "../headers/broken2.h" //mapvars
 
 #define NAME                    SCRIPT_HICDSHLF
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure use_p_proc;

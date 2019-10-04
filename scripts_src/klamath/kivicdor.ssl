@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_DOOR
 #define vicdor_mstr(x)          message_str(SCRIPT_KIVICDOR, x)
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure def_look_at_p_proc;
 procedure def_description_p_proc;
@@ -56,4 +56,4 @@ end
 #define start                             def_start
 #define map_enter_p_proc                  det_map_enter_p_proc
 
-#include "..\GENERIC\ziwoddor.ssl"
+#include "../generic/ziwoddor.ssl"

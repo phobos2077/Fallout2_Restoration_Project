@@ -27,13 +27,13 @@
 */
 
 
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_QITURTRM
 
-#include "..\headers\command.h"
-#include "..\headers\enc.h"
+#include "../headers/command.h"
+#include "../headers/enc.h"
 
 #define Science_Skill           (has_skill(dude_obj,SKILL_SCIENCE))
 #define CompOption(x,y)         NOption(x,y,Needed_IQ)

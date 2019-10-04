@@ -28,16 +28,16 @@
 #define NPC_REACTION_TYPE       REACTION_TG
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
-#include "..\headers\define.h"
-#include "..\headers\vault13.h"
+#include "../headers/define.h"
+#include "../headers/vault13.h"
 
 #define NAME                    SCRIPT_OCKERITH
 #define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_13
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
-#include "..\headers\v13.h"
+#include "../headers/v13.h"
 
 
 /* Standard Script Procedures */

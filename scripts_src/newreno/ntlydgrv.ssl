@@ -15,10 +15,10 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_NTLYDGRV
-#include "..\headers\command.h"
-#include "..\headers\NewReno.h"
+#include "../headers/command.h"
+#include "../headers/NewReno.h"
 
 /* Standard Script Procedures */
 procedure start;

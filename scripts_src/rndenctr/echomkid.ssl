@@ -8,12 +8,12 @@
 
 procedure start;
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECHOMKID
 
-#include "..\headers\command.h"
-#include "..\headers\specenc.h"
+#include "../headers/command.h"
+#include "../headers/specenc.h"
 
 procedure start;
 procedure critter_p_proc;

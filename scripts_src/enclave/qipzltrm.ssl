@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\enctrp.h"
+#include "../headers/define.h"
+#include "../headers/enctrp.h"
 
 #define NAME                    SCRIPT_QIPZLTRM
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define In_Trap_Room(who)       tile_in_tile_rect(17520,17490,23520,23490,tile_num(who))
 #define DMG_HIGH                (40)

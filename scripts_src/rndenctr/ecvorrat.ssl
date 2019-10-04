@@ -8,11 +8,11 @@
 
 procedure start;
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECVORRAT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 import variable i_arthur_obj;
 import variable i_robin_obj;

@@ -6,14 +6,14 @@
         Map Script for Sierra Army Base, Outside area
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_DEPOLV1
 
-#include "..\headers\command.h"
-#include "..\headers\depolvb.h"
-#include "..\headers\depolva.h"
+#include "../headers/command.h"
+#include "../headers/depolvb.h"
+#include "../headers/depolva.h"
 
 // Timer in Seconds
 #define TIMER_LEVEL_4           (600)                                           // In Ticks

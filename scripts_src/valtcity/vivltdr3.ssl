@@ -21,12 +21,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\VCtyVlt.h"
+#include "../headers/define.h"
+#include "../headers/VCtyVlt.h"
 
 #define NAME                    SCRIPT_DOOR
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Defines and Macros */
 

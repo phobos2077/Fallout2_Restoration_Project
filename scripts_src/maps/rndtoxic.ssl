@@ -6,13 +6,13 @@
    Random Toxic low luck encounter
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_RNDTOXIC
 
-#include "..\headers\command.h"
-#include "..\headers\rndtoxic.h"
+#include "../headers/command.h"
+#include "../headers/rndtoxic.h"
 
 procedure start;
 procedure map_enter_p_proc;

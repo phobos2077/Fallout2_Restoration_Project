@@ -21,14 +21,14 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define TRU_NAME                SCRIPT_SSFRGDOR
 #define NAME                    SCRIPT_DOOR
 
-#include "..\headers\command.h"
-#include "..\headers\ncr2.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr2.h"
+#include "../headers/ncr.h"
 
 /* Defines and Macros */
 

@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                         SCRIPT_CAVE03
 
 #define mstr_cave1(x) message_str(SCRIPT_CAVE01, x)
 
-#include "..\headers\command.h"
-#include "..\headers\cvgenenc.h"
+#include "../headers/command.h"
+#include "../headers/cvgenenc.h"
 
 procedure start;
 procedure map_enter_p_proc;

@@ -25,8 +25,8 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\gecko.h"
+#include "../headers/define.h"
+#include "../headers/gecko.h"
 
 #define NAME                    SCRIPT_GCGORDON
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -36,8 +36,8 @@
 //#define GIVEN                   2
 #define PLANT_UNTOUCHED         0 //need to add plant_untouched to global.h
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 
 /* Standard Script Procedures */

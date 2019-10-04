@@ -25,16 +25,16 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\vault15.h"
+#include "../headers/define.h"
+#include "../headers/vault15.h"
 
 #define NAME                    SCRIPT_BCDARGRD
 #define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_15
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
-#include "..\headers\v15.h"
+#include "../headers/v15.h"
 
 
 /* Standard Script Procedures */

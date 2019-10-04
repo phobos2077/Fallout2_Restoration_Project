@@ -2,11 +2,11 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#include "..\headers\define.h"
-#include "..\headers\Broken2.h"
+#include "../headers/define.h"
+#include "../headers/Broken2.h"
 
 #define NAME                    SCRIPT_HTCHUCK
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure spatial_p_proc;
 procedure start;

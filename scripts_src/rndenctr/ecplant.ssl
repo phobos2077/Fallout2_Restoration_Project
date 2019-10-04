@@ -11,12 +11,12 @@ procedure map_enter_p_proc;
 procedure critter_p_proc;
 procedure destroy_p_proc;
 
-#include "..\headers\define.h"
-#include "..\headers\bhrnddst.h"
+#include "../headers/define.h"
+#include "../headers/bhrnddst.h"
 
 #define NAME                    SCRIPT_ECPLANT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SPORE_PLANT);

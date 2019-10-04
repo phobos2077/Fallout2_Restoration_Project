@@ -15,11 +15,11 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPAI29
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define LVAR_Said_Message       (0)
 #define LVAR_Placed_Rope        (1)

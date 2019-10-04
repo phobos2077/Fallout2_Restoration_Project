@@ -30,15 +30,15 @@
 #define NPC_REACTION_TYPE       REACTION_TG /* REACTION_TC REACTION_TG REACTION_C REACTION_G */
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_FCFMATT
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/sanfran.h"
 
 
 /* Standard Script Procedures */

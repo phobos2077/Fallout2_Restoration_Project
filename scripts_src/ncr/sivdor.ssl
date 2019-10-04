@@ -21,12 +21,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\ncrent.h" // added by killap
+#include "../headers/define.h"
+#include "../headers/ncrent.h" // added by killap
 
 #define NAME                    SCRIPT_DOOR
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Defines and Macros */
 

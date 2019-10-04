@@ -1,8 +1,8 @@
 procedure start;
 
-#include "..\headers\define.h"
-#include "..\headers\command.h"
-#include "..\headers\scripts.h"
+#include "../headers/define.h"
+#include "../headers/command.h"
+#include "../headers/scripts.h"
 
 procedure start begin
    if (metarule(22,0)) then return;

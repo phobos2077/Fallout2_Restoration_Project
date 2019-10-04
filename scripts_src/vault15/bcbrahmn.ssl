@@ -17,12 +17,12 @@
 /* Include Files */
 #define NPC_REACTION_TYPE       REACTION_TC
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZCBRAHMN
 
-#include "..\headers\command.h"
-#include "..\headers\v15.h"
+#include "../headers/command.h"
+#include "../headers/v15.h"
 
 /* Standard Script Procedures */
 procedure start;

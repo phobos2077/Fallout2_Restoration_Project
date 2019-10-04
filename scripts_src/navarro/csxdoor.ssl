@@ -3,12 +3,12 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\navarro.h"
+#include "../headers/define.h"
+#include "../headers/navarro.h"
 
 #define NAME                    SCRIPT_CSXDOOR
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure use_p_proc;

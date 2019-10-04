@@ -24,13 +24,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\redment.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+#include "../headers/redment.h"
 
 #define NAME                    SCRIPT_REDMENT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 
 #define CARAVAN_WADE            (1)

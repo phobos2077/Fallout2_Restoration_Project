@@ -15,11 +15,11 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\HEADERS\EPAMAIN.h"
+#include "../headers/define.h"
+#include "../headers/EPAMAIN.h"
 #define NAME                    SCRIPT_EPAI32
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure use_p_proc;

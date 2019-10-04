@@ -28,13 +28,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZIBLKJCK
 // do not touch this!!! this is used by the BJ_NOption & BJ_Reply
 #define BJ_NAME                 SCRIPT_ZIBLKJCK
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure look_at_p_proc;

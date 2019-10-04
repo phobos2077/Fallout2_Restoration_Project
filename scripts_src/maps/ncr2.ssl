@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ncr2.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/ncr2.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_NCR2
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 export variable merk_guard_count := 0;
 export variable merk_obj         := 0;
 export variable merk_visible     := 0;

@@ -7,12 +7,12 @@
 */
 
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECMONSHN
 
-#include "..\headers\command.h"
-#include "..\headers\modreact.h"
+#include "../headers/command.h"
+#include "../headers/modreact.h"
 
 procedure start;
 procedure talk_p_proc;

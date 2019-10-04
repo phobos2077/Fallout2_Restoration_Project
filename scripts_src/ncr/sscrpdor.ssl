@@ -18,13 +18,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SSCRPDOR
 #define CUR_COMP_SCRIPT         SCRIPT_SSCRPDOR
 
-#include "..\headers\command.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr.h"
 
 /* Standard Script Procedures */
 procedure start;

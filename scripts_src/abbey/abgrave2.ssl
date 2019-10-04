@@ -16,12 +16,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ABGRAVE2
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ABBEY)
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure use_p_proc;

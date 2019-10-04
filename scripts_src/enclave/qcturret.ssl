@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_QCTURRET
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 procedure start;
 procedure critter_p_proc;

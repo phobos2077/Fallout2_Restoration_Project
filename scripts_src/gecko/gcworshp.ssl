@@ -23,8 +23,8 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_GCWORSHP
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -32,9 +32,9 @@
 #define SUPPLYAREA              18000
 #define WORKAREA                19000
 
-#include "..\headers\command.h"
-#include "..\headers\gecko.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/gecko.h"
+#include "../headers/ModReact.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 //#define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define WELL_PID        (33555425) //killap's fix: was 33555426 (pid of well is actually 993)
 #define DOWN_TOWN_WELL  (33554882) //pid is actually 450

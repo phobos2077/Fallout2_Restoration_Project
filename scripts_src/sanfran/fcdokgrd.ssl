@@ -6,13 +6,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCDOKGRD
 
-#include "..\headers\command.h"
-#include "..\headers\sfdock.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/sfdock.h"
+#include "../headers/sanfran.h"
 
 /* Standard Script Procedures */
 procedure start;

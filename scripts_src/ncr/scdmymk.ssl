@@ -6,13 +6,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\ncrent.h"
+#include "../headers/define.h"
+#include "../headers/ncrent.h"
 
 #define NAME                    SCRIPT_SCDMYMK
 
-#include "..\headers\command.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr.h"
 /* Standard Script Procedures */
 procedure start;
 procedure use_p_proc;

@@ -26,11 +26,11 @@
 #define WARNING_LENNY_ACTION                    call Node030;
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_NCCASBOU
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
-#include "..\headers\command.h"
-#include "..\headers\NewReno.h"
+#include "../headers/command.h"
+#include "../headers/NewReno.h"
 
 /* Standard Script Procedures */
 procedure start;

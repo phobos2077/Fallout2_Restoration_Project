@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_ECGRUNDE
 
-#include "..\headers\command.h"
-#include "..\headers\base.h"
+#include "../headers/command.h"
+#include "../headers/base.h"
 
 
 /* Standard Script Procedures */

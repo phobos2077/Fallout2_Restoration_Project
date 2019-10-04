@@ -25,11 +25,11 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_VISHFT2B
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure look_at_p_proc;

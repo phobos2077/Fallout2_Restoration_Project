@@ -25,16 +25,16 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\sfelronb.h"
+#include "../headers/define.h"
+#include "../headers/sfelronb.h"
 
 #define NAME                    SCRIPT_FCJUAVKI
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
-#include "..\headers\sanfran.h"
+#include "../headers/sanfran.h"
 
 
 /* Standard Script Procedures */

@@ -6,14 +6,14 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\ABBEY.H"
+#include "../headers/define.h"
+#include "../headers/ABBEY.H"
 
 #define NAME                    SCRIPT_ABMATT
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY
 #define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_BLUE)
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

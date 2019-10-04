@@ -62,7 +62,7 @@ end
 #define map_enter_p_proc                  def_map_enter_p_proc
 #define destroy_p_proc                    def_destroy_p_proc
 
-#include "..\den\diDoor.ssl"
+#include "../den/diDoor.ssl"
 
 procedure check_timed_event begin
 end

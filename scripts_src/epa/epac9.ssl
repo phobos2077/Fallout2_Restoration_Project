@@ -2,13 +2,13 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
-#include "..\HEADERS\define.h"
-#include "..\HEADERS\EPAMAIN.h"
+#include "../headers/define.h"
+#include "../headers/EPAMAIN.h"
 
 #define NAME                    SCRIPT_EPAC9          //Script name from scripts.h
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
 
-#include "..\HEADERS\command.h"
+#include "../headers/command.h"
 
 
 #define LVAR_Herebefore                 (4)

@@ -19,15 +19,15 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-//#include "..\headers\navdef.h"
-#include "..\headers\navarro.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/navdef.h"
+#include "../headers/navarro.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_CCRAUL
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
 
-#include "..\headers\ModReact.h"
+#include "../headers/ModReact.h"
 
 //#define HEX_ONE          11922
 //#define HEX_TWO          13319
@@ -43,7 +43,7 @@
 #define HEX_EIG          15281
 #define HEX_NIN          14074
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

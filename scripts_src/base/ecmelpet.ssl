@@ -16,14 +16,14 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\mbase34.h"
+#include "../headers/define.h"
+#include "../headers/mbase34.h"
 
 #define NAME                    SCRIPT_ZCLRAT
 
-#include "..\headers\command.h"
-#include "..\headers\Base.h"
-//#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/Base.h"
+//#include "../headers/ModReact.h"
 
 #define POISON_MIN              (2)
 #define POISON_MAX              (8)

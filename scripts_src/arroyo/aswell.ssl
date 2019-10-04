@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\arvillag.h"
+#include "../headers/define.h"
+#include "../headers/arvillag.h"
 
 #define NAME                    SCRIPT_ASWELL
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure use_skill_on_p_proc;

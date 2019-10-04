@@ -19,13 +19,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_MCBRAHMN
 
-#include "..\headers\command.h"
-#include "..\headers\modoc.h"
-#include "..\headers\ModBrah.h"
+#include "../headers/command.h"
+#include "../headers/modoc.h"
+#include "../headers/ModBrah.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\caravan.h"
-#include "..\headers\bhrnddst.h"
+#include "../headers/define.h"
+#include "../headers/caravan.h"
+#include "../headers/bhrnddst.h"
 
 #define NAME                    SCRIPT_RCWADE
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 
 #define CARAVAN_WADE            (1)

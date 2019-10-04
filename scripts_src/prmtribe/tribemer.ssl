@@ -6,12 +6,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_TRIBEMER
 
-#include "..\headers\command.h"
-#include "..\headers\merchant.h"
+#include "../headers/command.h"
+#include "../headers/merchant.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -15,10 +15,10 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_MITRPDOR
-#include "..\headers\command.h"
-#include "..\headers\Modoc.h"
+#include "../headers/command.h"
+#include "../headers/Modoc.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -25,17 +25,17 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\vault13.h"
+#include "../headers/define.h"
+#include "../headers/vault13.h"
 
 #define NAME                    SCRIPT_OCGORIS
 #define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_13
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\partybkg.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/partybkg.h"
 
-#include "..\headers\v13.h"
+#include "../headers/v13.h"
 
 
 /* Standard Script Procedures */

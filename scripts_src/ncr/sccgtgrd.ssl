@@ -27,15 +27,15 @@
 */
 #define NPC_REACTION_TYPE       REACTION_TG
 #define NPC_REACTION_VAR        7 /* same as thief variable */
-#include "..\headers\define.h"
-#include "..\headers\ncr2.h"
+#include "../headers/define.h"
+#include "../headers/ncr2.h"
 
 #define NAME                    SCRIPT_SCCGTGRD
 #define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/ncr.h"
 
 import variable i_emitter_carlson_obj;
 

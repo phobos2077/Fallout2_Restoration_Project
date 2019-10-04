@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_KCITIZEN
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
 
-#include "..\headers\command.h"
-#include "..\headers\kladwtn.h"
-#include "..\headers\modreact.h"
+#include "../headers/command.h"
+#include "../headers/kladwtn.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

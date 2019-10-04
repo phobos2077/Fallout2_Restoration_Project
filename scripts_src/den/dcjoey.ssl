@@ -15,15 +15,15 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\den.h"
+#include "../headers/define.h"
+#include "../headers/den.h"
 
 #define NAME                        SCRIPT_DCJOEY
 #define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\DenRes1.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/DenRes1.h"
 
 /* Standard Script Procedures */
 procedure start;

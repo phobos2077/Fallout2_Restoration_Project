@@ -30,8 +30,8 @@ end
 #define GIVE_HEADSTONE_NAME                     false
 #define TOWN_REP_VAR                            GVAR_TOWN_REP_NEW_RENO
 
-#include "..\generic\ziGenGrv.ssl"
-#include "..\headers\NewReno.h"
+#include "../generic/ziGenGrv.ssl"
+#include "../headers/NewReno.h"
 
 #undef NAME
 #define NAME                                    SCRIPT_NIWRIGRV

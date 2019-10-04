@@ -17,12 +17,12 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_CSVENT
 #define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse

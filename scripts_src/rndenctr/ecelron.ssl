@@ -7,12 +7,12 @@
 */
 
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECELRON
 
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h" //added by killap - expansion
+#include "../headers/command.h"
+#include "../headers/sanfran.h" //added by killap - expansion
 
 procedure start;
 procedure talk_p_proc;

@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\reddown.h" // Seraph's Code
+#include "../headers/define.h"
+#include "../headers/reddown.h" // Seraph's Code
 
 #define NAME                    SCRIPT_RCDRJOHN
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 
 #define dr_heal(who)            critter_heal(who,(get_critter_stat(who,STAT_max_hp) - get_critter_stat(who,STAT_current_hp)))

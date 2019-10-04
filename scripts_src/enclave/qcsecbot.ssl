@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\encpres.h"
+#include "../headers/define.h"
+#include "../headers/encpres.h"
 
 #define NAME                    SCRIPT_QCSECBOT
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 #define On_Duty                 (false)
 #define Patrolling              (false)

@@ -15,14 +15,14 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\NewRBa.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/NewRBa.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_NEWRBA
 
-#include "..\headers\command.h"
-#include "..\headers\NewReno.h"
+#include "../headers/command.h"
+#include "../headers/NewReno.h"
 
 procedure start;
 procedure map_enter_p_proc;

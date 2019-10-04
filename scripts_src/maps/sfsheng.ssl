@@ -14,13 +14,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-//#include "..\headers\nazwamapy.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+//#include "../headers/nazwamapy.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_SFSHENG
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 export variable creature_1;
 export variable creature_2;

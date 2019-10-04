@@ -22,15 +22,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\broken.h" - commented out by killap
-//#include "..\headers\broken1.h" - commented out by killap
-//#include "..\headers\broken2.h" - commented out by killap
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+//#include "../headers/broken.h" - commented out by killap
+//#include "../headers/broken1.h" - commented out by killap
+//#include "../headers/broken2.h" - commented out by killap
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_BROKEN1
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCSUBPWR
 
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
 
 #define REPAIR_BONUS                            (-40)
 #define TOOL_BONUS                              (REPAIR_BONUS+20)

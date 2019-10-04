@@ -2,10 +2,10 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_CTSOUND
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure spatial_p_proc;
 procedure start;

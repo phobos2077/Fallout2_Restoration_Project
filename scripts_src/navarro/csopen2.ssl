@@ -2,12 +2,12 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#include "..\headers\define.h"
-#include "..\headers\navarro.h"
+#include "../headers/define.h"
+#include "../headers/navarro.h"
 
 #define NAME                    SCRIPT_CSOPEN2
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

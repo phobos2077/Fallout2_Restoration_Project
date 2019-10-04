@@ -6,12 +6,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\ABBEY.H"
+#include "../headers/define.h"
+#include "../headers/ABBEY.H"
 
 #define NAME                    SCRIPT_ABMSPTSN
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

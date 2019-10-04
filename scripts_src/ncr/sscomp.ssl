@@ -18,15 +18,15 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SSCOMP
 #define CUR_COMP_SCRIPT         SCRIPT_SSCOMP
 
-#include "..\headers\command.h"
-#include "..\headers\ncr1.h"
+#include "../headers/command.h"
+#include "../headers/ncr1.h"
 
-#include "..\headers\ncr.h"
+#include "../headers/ncr.h"
 
 /* Standard Script Procedures */
 procedure start;

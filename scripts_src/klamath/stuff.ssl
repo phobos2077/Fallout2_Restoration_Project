@@ -17,8 +17,8 @@
 //your area.  nbk
 
 
-#include "..\headers\define.h"
-#include "..\headers\kladwtn.h"
+#include "../headers/define.h"
+#include "../headers/kladwtn.h"
 
 procedure start;
 procedure timed_event_p_proc;

@@ -7,9 +7,9 @@
 //system so that they don't all animate at
 //once.
 
-#include "..\headers\define.h"
-#include "..\headers\gecko.h"
-#include "..\headers\geckpwpl.h"
+#include "../headers/define.h"
+#include "../headers/gecko.h"
+#include "../headers/geckpwpl.h"
 
 procedure start;
 procedure timed_event_p_proc;

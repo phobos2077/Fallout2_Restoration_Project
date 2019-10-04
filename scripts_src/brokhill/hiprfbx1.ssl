@@ -18,13 +18,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_HIPRFBX1
 #define CUR_COMP_SCRIPT         SCRIPT_HIPRFBX1
 
-#include "..\headers\command.h"
-#include "..\headers\broken2.h"
+#include "../headers/command.h"
+#include "../headers/broken2.h"
 
 import variable Professor_Box1;
 

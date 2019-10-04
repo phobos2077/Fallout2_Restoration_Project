@@ -19,13 +19,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FSBRODOR
 #define CUR_COMP_SCRIPT         SCRIPT_FSBRODOR
 
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
 
 /* Standard Script Procedures */
 procedure start;

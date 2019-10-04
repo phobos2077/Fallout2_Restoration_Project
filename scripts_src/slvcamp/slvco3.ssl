@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SLVCO3
 
-#include "..\headers\slvcamp.h"
-#include "..\headers\command.h"
+#include "../headers/slvcamp.h"
+#include "../headers/command.h"
 
 
 /* Door States */

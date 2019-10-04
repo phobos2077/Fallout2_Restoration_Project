@@ -27,8 +27,8 @@ end
 #define talk_p_proc              def_talk_p_proc
 #define map_enter_p_proc         def_map_enter_p_proc
 
-#include "..\generic\zcCrpDel.ssl"
-#include "..\headers\Den.h"
+#include "../generic/zcCrpDel.ssl"
+#include "../headers/Den.h"
 
 procedure check_pickup begin
    if ((source_obj == dude_obj) or (obj_in_party(source_obj))) then begin

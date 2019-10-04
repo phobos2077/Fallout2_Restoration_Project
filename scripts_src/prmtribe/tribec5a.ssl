@@ -6,12 +6,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\tribe01.H"
+#include "../headers/define.h"
+#include "../headers/tribe01.H"
 
 #define NAME                    SCRIPT_TRIBEC5A
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

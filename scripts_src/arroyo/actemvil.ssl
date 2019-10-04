@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ARCaves.h"
+#include "../headers/define.h"
+#include "../headers/ARCaves.h"
 
 #define NAME                    SCRIPT_ACTEMVIL
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ARROYO)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 #define Spear_Location          (20329)
 

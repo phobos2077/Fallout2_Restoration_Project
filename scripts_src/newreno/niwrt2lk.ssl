@@ -24,6 +24,6 @@ end
 #define use_p_proc                        def_use_p_proc
 #define timed_event_p_proc                def_timed_event_p_proc
 
-#include "..\generic\ziLocker.ssl"
+#include "../generic/ziLocker.ssl"
 
 #define ENTER_CLOSE_CONDITION                (true)

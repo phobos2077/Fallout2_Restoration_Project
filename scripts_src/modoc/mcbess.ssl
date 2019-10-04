@@ -18,12 +18,12 @@
 
 #define set_default_party_follow             set_follow_close
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_MCBESS
 #define TOWN_REP_VAR            GVAR_TOWN_REP_MODOC
-#include "..\headers\command.h"
-#include "..\headers\modoc.h"
-#include "..\headers\ModMain.h"
+#include "../headers/command.h"
+#include "../headers/modoc.h"
+#include "../headers/ModMain.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -3,10 +3,10 @@
 */
 
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_ANIMFRV2
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

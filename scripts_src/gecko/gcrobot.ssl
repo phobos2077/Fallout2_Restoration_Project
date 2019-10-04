@@ -23,8 +23,8 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_GCROBOT  //should be gsterm
 
@@ -45,9 +45,9 @@
 #define COOLANTPUMP             16265
 #define DOCK                    18079
 
-#include "..\headers\command.h"
-#include "..\headers\gecko.h"
-#include "..\headers\geckpwpl.h"
+#include "../headers/command.h"
+#include "../headers/gecko.h"
+#include "../headers/geckpwpl.h"
 
 /* Standard Script Procedures */
 procedure start;

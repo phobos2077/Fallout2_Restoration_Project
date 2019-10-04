@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_FSTNKCMP
 //#define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FR)
 
-#include "..\headers\command.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/sanfran.h"
 
 
 /* Standard Script Procedures */

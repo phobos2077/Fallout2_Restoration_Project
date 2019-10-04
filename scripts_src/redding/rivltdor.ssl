@@ -21,12 +21,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\reddown.h"
+#include "../headers/define.h"
+#include "../headers/reddown.h"
 
 #define NAME                    SCRIPT_DOOR
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Defines and Macros */
 

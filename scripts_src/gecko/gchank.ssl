@@ -25,8 +25,8 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\gecko.h"
+#include "../headers/define.h"
+#include "../headers/gecko.h"
 
 #define NAME                    SCRIPT_GCHANK
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -34,8 +34,8 @@
 //#define PID_COOLANT_REPORT      10 //need to change to proper pid
 #define PID_REACTOR_REPAIR_PART 20 //need to change to proper pid
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse

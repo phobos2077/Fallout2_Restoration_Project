@@ -7,4 +7,4 @@
 #define SKIP_WARNING                (true)
 #define WATCHER_OBJ                 new_reno_mordino_men_obj
 
-#include "..\generic\ziLocker.ssl"
+#include "../generic/ziLocker.ssl"

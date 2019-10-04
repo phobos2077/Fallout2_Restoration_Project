@@ -26,16 +26,16 @@
         -rwh2   11/13/97
 */
 #define NPC_REACTION_TYPE       REACTION_TG
-#include "..\headers\define.h"
-#include "..\headers\v15sent.h"
+#include "../headers/define.h"
+#include "../headers/v15sent.h"
 
 #define NAME                    SCRIPT_BCPHIL
 #define TOWN_REP_VAR            GVAR_TOWN_REP_VAULT_15
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
-#include "..\headers\v15.h"
+#include "../headers/v15.h"
 
 
 /* Standard Script Procedures */

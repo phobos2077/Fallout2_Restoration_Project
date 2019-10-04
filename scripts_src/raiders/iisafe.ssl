@@ -16,10 +16,10 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_IISAFE
-#include "..\headers\command.h"
-#include "..\headers\Raiders.h"
+#include "../headers/command.h"
+#include "../headers/Raiders.h"
 
 /* Standard Script Procedures */
 procedure start;

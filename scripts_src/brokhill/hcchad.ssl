@@ -25,17 +25,17 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\broken.h"  //Broken Hills Defines
-#include "..\headers\broken1.h" //mapvars
-#include "..\headers\broken2.h" //mapvars //added by killap
-#include "..\headers\bhrnddst.h"
+#include "../headers/define.h"
+#include "../headers/broken.h"  //Broken Hills Defines
+#include "../headers/broken1.h" //mapvars
+#include "../headers/broken2.h" //mapvars //added by killap
+#include "../headers/bhrnddst.h"
 
 #define NAME                    SCRIPT_HCCHAD
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 /* Standard Script Procedures */
 procedure start;

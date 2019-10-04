@@ -20,13 +20,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\ARVillag.h"
+#include "../headers/define.h"
+#include "../headers/ARVillag.h"
 
 #define NAME                    SCRIPT_ACSPORPL
 
-#include "..\headers\command.h"
-//#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+//#include "../headers/ModReact.h"
 
 #define KILLED_ALL_EVIL_PLANTS (map_var(MVAR_Kill_Evil_Plants) == 2)
 

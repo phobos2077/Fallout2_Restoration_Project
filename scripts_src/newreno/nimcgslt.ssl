@@ -15,11 +15,11 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                              SCRIPT_NIMCGSLT
-#include "..\headers\command.h"
-#include "..\headers\NewReno.h"
-#include "..\headers\NewR2.h"
+#include "../headers/command.h"
+#include "../headers/NewReno.h"
+#include "../headers/NewR2.h"
 
 /* Standard Script Procedures */
 procedure start;

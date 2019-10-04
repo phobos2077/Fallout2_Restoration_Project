@@ -26,12 +26,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ArVillag.h"
+#include "../headers/define.h"
+#include "../headers/ArVillag.h"
 
 #define NAME                    SCRIPT_AICHEST
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

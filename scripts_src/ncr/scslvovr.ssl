@@ -25,16 +25,16 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ncrent.h"
+#include "../headers/define.h"
+#include "../headers/ncrent.h"
 
 #define NAME                    SCRIPT_SCSLVOVR
 #define TOWN_REP_VAR         GVAR_TOWN_REP_NCR
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
-#include "..\headers\ncr.h"
+#include "../headers/ncr.h"
 
 
 /* Standard Script Procedures */

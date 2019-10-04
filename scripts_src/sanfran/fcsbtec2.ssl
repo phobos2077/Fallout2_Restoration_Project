@@ -6,13 +6,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FCSBTEC2
 
-#include "..\headers\command.h"
-#include "..\headers\sfsub.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/sfsub.h"
+#include "../headers/sanfran.h"
 
 /* Standard Script Procedures */
 procedure start;

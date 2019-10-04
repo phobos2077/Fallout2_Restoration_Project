@@ -15,12 +15,12 @@
            Updated:
 */
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                        SCRIPT_MCCOINBG
 #define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
 
-#include "..\headers\command.h"
-#include "..\headers\modoc.h"
+#include "../headers/command.h"
+#include "../headers/modoc.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -10,12 +10,12 @@
         Updated:
 ****************************************************************/
 
-#include "..\headers\define.h"
-#include "..\headers\RedMent.h"
+#include "../headers/define.h"
+#include "../headers/RedMent.h"
 
 #define NAME                    SCRIPT_RCFITRAT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define min_damage(who)         (1)
 #define max_damage(who)         (get_critter_stat(who,STAT_melee_dmg))

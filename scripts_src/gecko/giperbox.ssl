@@ -19,11 +19,11 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_GIPERBOX
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 /* Defines and Macros */
 
 #define LVAR_Restock_Time                 (0)

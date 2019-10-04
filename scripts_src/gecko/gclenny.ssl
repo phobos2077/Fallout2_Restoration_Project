@@ -25,10 +25,10 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\gecko.h"
-#include "..\headers\NEWR1.h" //added by killap
-#include "..\headers\rpu.h"
+#include "../headers/define.h"
+#include "../headers/gecko.h"
+#include "../headers/NEWR1.h" //added by killap
+#include "../headers/rpu.h"
 
 #define NAME                    SCRIPT_GCLENNY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -39,8 +39,8 @@
 #define LENNY_BAD_KARMA         -100
 #define PARTY_NODE_X            Node1000
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 
 /* Standard Script Procedures */

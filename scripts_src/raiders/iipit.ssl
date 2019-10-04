@@ -19,13 +19,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_IIPIT
 #define CUR_SCRIPT              SCRIPT_IIPIT
 
-#include "..\headers\command.h"
-#include "..\headers\NewReno.h"
+#include "../headers/command.h"
+#include "../headers/NewReno.h"
 
 #define PID_BROKEN_FLOOR                    (33556185)
 

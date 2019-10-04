@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\v15sent.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/v15sent.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_V15SENT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 export variable i_girl_obj;
 export variable i_cell_door;

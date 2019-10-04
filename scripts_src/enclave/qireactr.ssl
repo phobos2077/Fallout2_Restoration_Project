@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\encrctr.h"
+#include "../headers/define.h"
+#include "../headers/encrctr.h"
 
 #define NAME                    SCRIPT_QIREACTR
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define ShockPerson(who)        if ((who != 0) and (tile_in_tile_rect(13480,13468,16680,16668,tile_num(who)))) then          \
                                     critter_dmg(who,40,DMG_electrical)

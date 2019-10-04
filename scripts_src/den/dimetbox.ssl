@@ -16,12 +16,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_DIMETBOX
 
-#include "..\headers\command.h"
-#include "..\headers\den.h"
+#include "../headers/command.h"
+#include "../headers/den.h"
 
 #define LVAR_RESTOCK_TIME                       (0)
 #define LVAR_RESTOCK_TIME_FIX                   (1)  //added by killap

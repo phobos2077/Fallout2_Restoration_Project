@@ -6,16 +6,16 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SCRANGR
 
-#include "..\headers\command.h"
-#include "..\headers\Den.h"
-#include "..\headers\ncr.h"
-#include "..\headers\safehs1.h"
-#include "..\headers\safehs2.h"
-#include "..\headers\safehs3.h"
+#include "../headers/command.h"
+#include "../headers/Den.h"
+#include "../headers/ncr.h"
+#include "../headers/safehs1.h"
+#include "../headers/safehs2.h"
+#include "../headers/safehs3.h"
 
 /* Standard Script Procedures */
 procedure start;

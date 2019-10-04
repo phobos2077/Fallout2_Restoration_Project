@@ -20,7 +20,7 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 // this can be changed to reflect any local script you make
 //    NOTE: use mstr() to get the message strings
@@ -28,8 +28,8 @@
 // this should NOT be changed so that it can still read the generic door messages
 //    NOTE: use door_mstr() to get the generic door messages
 #define DOOR_NAME                    SCRIPT_DOOR
-#include "..\headers\command.h"
-#include "..\headers\doors.h"
+#include "../headers/command.h"
+#include "../headers/doors.h"
 
 /* Defines and Macros */
 

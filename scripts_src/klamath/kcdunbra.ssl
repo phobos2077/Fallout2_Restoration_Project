@@ -16,12 +16,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_KCDUNBRA
 
-#include "..\headers\command.h"
-#include "..\headers\KLADWTN.H."
+#include "../headers/command.h"
+#include "../headers/KLADWTN.H."
 
 /* Standard Script Procedures */
 procedure start;

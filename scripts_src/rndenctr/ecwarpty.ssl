@@ -7,11 +7,11 @@
 */
 
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECWARPTY
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure critter_p_proc;

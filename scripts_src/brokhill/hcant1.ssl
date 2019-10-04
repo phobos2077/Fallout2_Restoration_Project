@@ -16,13 +16,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_HCANT1
 
-#include "..\headers\command.h"
-//#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+//#include "../headers/ModReact.h"
 
 /* Standard Script Procedures */
 procedure start;

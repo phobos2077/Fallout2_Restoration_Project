@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPLKR
 
-#include "..\headers\command.h"
-#include "..\headers\epasl.h"
+#include "../headers/command.h"
+#include "../headers/epasl.h"
 
 procedure start;
 procedure use_p_proc;

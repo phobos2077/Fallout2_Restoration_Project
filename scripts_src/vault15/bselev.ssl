@@ -21,13 +21,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 //#define NAME                    SCRIPT_DOOR
 #define NAME                      SCRIPT_BSELEV
 
-#include "..\headers\command.h"
-#include "..\headers\v15.h"
+#include "../headers/command.h"
+#include "../headers/v15.h"
 
 /* Defines and Macros */
 

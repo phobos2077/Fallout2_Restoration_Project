@@ -16,12 +16,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ZSELEV01
 
-#include "..\headers\command.h"
-#include "..\headers\base.h"
+#include "../headers/command.h"
+#include "../headers/base.h"
 
 procedure start;
 procedure spatial_p_proc;

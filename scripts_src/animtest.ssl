@@ -35,10 +35,10 @@
 //
 
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_ANIMTEST
-#include "..\headers\command.h"
-#include "..\headers\animcomd.h"
+#include "../headers/command.h"
+#include "../headers/animcomd.h"
 
 procedure start;
 procedure critter_p_proc;

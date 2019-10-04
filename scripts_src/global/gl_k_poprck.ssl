@@ -1,6 +1,6 @@
 procedure start;
 
-#include "..\headers\scripts.h"
+#include "../headers/scripts.h"
 
 variable took_rocks;
 variable took_soda;

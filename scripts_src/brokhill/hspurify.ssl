@@ -23,13 +23,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\Broken2.h"
+#include "../headers/define.h"
+#include "../headers/Broken2.h"
 
 #define NAME                    SCRIPT_HSPURIFY
 
-#include "..\headers\command.h"
-#include "..\headers\broken.h"
+#include "../headers/command.h"
+#include "../headers/broken.h"
 
 /* Standard Script Procedures */
 procedure start;

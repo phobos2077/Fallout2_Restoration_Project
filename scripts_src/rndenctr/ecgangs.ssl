@@ -8,12 +8,12 @@
 
 procedure start;
 
-#include "..\headers\define.h"
-#include "..\headers\bhrnddst.h"
+#include "../headers/define.h"
+#include "../headers/bhrnddst.h"
 
 #define NAME                    SCRIPT_ECGANGS
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

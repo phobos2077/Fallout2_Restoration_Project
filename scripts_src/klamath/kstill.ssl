@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\klamath.h"
+#include "../headers/define.h"
+#include "../headers/klamath.h"
 
 #define NAME                    SCRIPT_KSTILL
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
 #define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse

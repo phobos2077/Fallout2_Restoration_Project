@@ -6,12 +6,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_TRIBEC3
 #define TOWN_REP_VAR            GVAR_TOWN_REP_PRIMITIVE_TRIBE
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define STEAL_Skill           (has_skill(dude_obj,SKILL_STEAL))
 #define MAX_TRAVEL              (10)

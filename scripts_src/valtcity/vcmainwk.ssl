@@ -25,15 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\VCtyDwtn.h"
+#include "../headers/define.h"
+//#include "../headers/VCtyDwtn.h"
 
 #define NAME                    SCRIPT_VCMAINWK
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\UpgWeap.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/UpgWeap.h"
 
 
 /* Standard Script Procedures */

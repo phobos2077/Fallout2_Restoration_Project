@@ -14,13 +14,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-//#include "..\headers\nazwamapy.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\klaratcv.h"
+#include "../headers/define.h"
+//#include "../headers/nazwamapy.h"
+#include "../headers/updatmap.h"
+#include "../headers/klaratcv.h"
 #define NAME                    SCRIPT_KLARATCV
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_exit_p_proc;

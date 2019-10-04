@@ -18,14 +18,14 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SITERM
 
-#include "..\headers\command.h"
-#include "..\headers\ncrent.h"
+#include "../headers/command.h"
+#include "../headers/ncrent.h"
 
-#include "..\headers\ncr.h"
+#include "../headers/ncr.h"
 
 /* Standard Script Procedures */
 procedure start;

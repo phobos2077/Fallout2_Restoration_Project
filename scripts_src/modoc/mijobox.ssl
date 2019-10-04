@@ -43,5 +43,5 @@
                                                 end                                                         \
                                              end
 
-#include "..\headers\ModMain.h"
-#include "..\GENERIC\ziLocker.ssl"
+#include "../headers/ModMain.h"
+#include "../generic/ziLocker.ssl"

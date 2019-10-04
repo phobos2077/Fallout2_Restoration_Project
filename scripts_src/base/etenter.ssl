@@ -15,13 +15,13 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\base.h"
+#include "../headers/define.h"
+#include "../headers/base.h"
 
 #define NAME                     SCRIPT_ETENTER
 
-#include "..\headers\command.h"
-#include "..\headers\base.h"
+#include "../headers/command.h"
+#include "../headers/base.h"
 
 procedure start;
 procedure spatial_p_proc;

@@ -8,13 +8,13 @@
 
 procedure start;
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ECGCWBMB
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
-#include "..\headers\specenc.h"
+#include "../headers/specenc.h"
 
 procedure start;
 procedure use_p_proc;

@@ -1,9 +1,9 @@
-#include "..\headers\define.h"
-#include "..\HEADERS\EPAMAIN.h"
+#include "../headers/define.h"
+#include "../headers/EPAMAIN.h"
 
 #define NAME                    SCRIPT_EPAS9
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure spatial_p_proc;
 

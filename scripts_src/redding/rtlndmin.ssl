@@ -21,13 +21,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\redwame.h"
+#include "../headers/define.h"
+#include "../headers/redwame.h"
 
 #define NAME                    SCRIPT_SPRTRP0
 #define CUR_SCRIPT              SCRIPT_RTLNDMIN
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 // Tile Nums for the Trap
 #define LANDMINE_TILE1          (23287)  //was 22387 - killap

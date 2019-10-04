@@ -19,13 +19,13 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                        SCRIPT_ZSDRVCAR
 
-#include "..\headers\command.h"
-#include "..\headers\NewReno.h"
-#include "..\headers\Den.h"
+#include "../headers/command.h"
+#include "../headers/NewReno.h"
+#include "../headers/Den.h"
 
 procedure start;
 procedure use_p_proc;

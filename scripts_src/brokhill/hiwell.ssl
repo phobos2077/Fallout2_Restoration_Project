@@ -18,13 +18,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\broken1.h"
+#include "../headers/define.h"
+#include "../headers/broken1.h"
 
 #define NAME                    SCRIPT_HIWELL
 #define CUR_COMP_SCRIPT         SCRIPT_HIWELL
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

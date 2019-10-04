@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_DNSLVRUN
 
-#include "..\headers\command.h"
-#include "..\headers\den.h"
+#include "../headers/command.h"
+#include "../headers/den.h"
 
 
 // new slave run macros

@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_WCTURRET
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure critter_p_proc;

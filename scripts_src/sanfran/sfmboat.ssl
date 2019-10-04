@@ -15,14 +15,14 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SFMBOAT
 
-#include "..\headers\command.h"
-#include "..\headers\sfdock.h"
-#include "..\headers\sanfran.h"
-#include "..\headers\sfsub.h"
+#include "../headers/command.h"
+#include "../headers/sfdock.h"
+#include "../headers/sanfran.h"
+#include "../headers/sfsub.h"
 
 procedure start;
 procedure use_p_proc;

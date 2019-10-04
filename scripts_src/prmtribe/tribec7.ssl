@@ -1,14 +1,14 @@
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_TRIBEC7
 
 
 #define TOWN_REP_VAR            GVAR_TOWN_REP_PRIMITIVE_TRIBE
 
-#include "..\headers\slvcamp.h"
-#include "..\headers\command.h"
-#include "..\headers\updatmap.h"
+#include "../headers/slvcamp.h"
+#include "../headers/command.h"
+#include "../headers/updatmap.h"
 //#define Sulik_In_Party                      (Sulik_Ptr != 0)
 
 /* Standard Script Procedures */

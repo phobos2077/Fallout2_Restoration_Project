@@ -6,12 +6,12 @@
    have been designed.
 */
 
-#include "..\headers\define.h"
-#include "..\headers\bhrnddst.h"
+#include "../headers/define.h"
+#include "../headers/bhrnddst.h"
 
 #define NAME                    SCRIPT_ECROBBER
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure critter_p_proc;

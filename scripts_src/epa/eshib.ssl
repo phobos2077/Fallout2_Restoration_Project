@@ -4,12 +4,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\EPASL.h"
+#include "../headers/define.h"
+#include "../headers/EPASL.h"
 
 #define NAME                    SCRIPT_ESHIB
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

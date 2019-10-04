@@ -20,12 +20,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\broken1.h"
+#include "../headers/define.h"
+#include "../headers/broken1.h"
 
 #define NAME                    SCRIPT_HILBOX
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 /* Defines and Macros */
 
 #define LVAR_Restock_Time                 (0)

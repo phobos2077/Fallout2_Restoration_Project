@@ -1,11 +1,11 @@
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\DEN.h"
-#include "..\headers\DENRES1.h"
+#include "../headers/define.h"
+#include "../headers/DEN.h"
+#include "../headers/DENRES1.h"
 
 #define NAME                    SCRIPT_DCDEALER
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

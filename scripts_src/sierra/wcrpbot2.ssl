@@ -25,14 +25,14 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\depolvb.h"
-#include "..\headers\depolva.h"
+#include "../headers/define.h"
+#include "../headers/depolvb.h"
+#include "../headers/depolva.h"
 
 
 #define NAME                    SCRIPT_WCRPBOT2
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define PID_DESTROYED_ROBOT             PID_ROBOT_PARTS
 

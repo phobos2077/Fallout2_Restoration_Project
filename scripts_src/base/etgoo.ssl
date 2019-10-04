@@ -17,13 +17,13 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\base.h"
-//#include "..\headers\<TownName.h>"
+#include "../headers/define.h"
+#include "../headers/base.h"
+//#include "../headers/<TownName.h>"
 
 #define NAME                     SCRIPT_KTGOO            // msg file for Klamath goo.
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define MIN_DMG_SPATIAL          (8)
 #define MAX_DMG_SPATIAL          (16)

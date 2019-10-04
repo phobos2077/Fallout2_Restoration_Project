@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\mbase34.h"
+#include "../headers/define.h"
+#include "../headers/mbase34.h"
 
 #define NAME                    SCRIPT_ECMELCHR
 
-#include "..\headers\command.h"
-#include "..\headers\Base.h"
+#include "../headers/command.h"
+#include "../headers/Base.h"
 
 #define Timed_Count             (5)     // In seconds
 #define TOO_CLOSE               (20)    // in hexes

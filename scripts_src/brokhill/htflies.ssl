@@ -2,10 +2,10 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_HTFLIES
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 variable show_text := 0;
 

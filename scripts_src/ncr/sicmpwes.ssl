@@ -18,15 +18,15 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SICMPWES
 #define CUR_COMP_SCRIPT         SCRIPT_SICMPWES
 
-#include "..\headers\command.h"
-#include "..\headers\ncr.h"
-#include "..\headers\ncr1.h"  //added by killap
-#include "..\headers\ncr3.h"  //added by killap
+#include "../headers/command.h"
+#include "../headers/ncr.h"
+#include "../headers/ncr1.h"  //added by killap
+#include "../headers/ncr3.h"  //added by killap
 
 /* Standard Script Procedures */
 procedure start;

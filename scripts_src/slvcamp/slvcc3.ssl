@@ -6,13 +6,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SLVCC3
 
-#include "..\headers\den.h"
-#include "..\headers\slvcamp.h"
-#include "..\headers\command.h"
+#include "../headers/den.h"
+#include "../headers/slvcamp.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

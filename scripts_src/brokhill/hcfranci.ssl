@@ -24,15 +24,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\broken.h"
-#include "..\headers\broken1.h"
+#include "../headers/define.h"
+#include "../headers/broken.h"
+#include "../headers/broken1.h"
 
 #define NAME                    SCRIPT_HCFRANCI
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 #define SPOT1_NEAR_BED          19476
 #define SPOT2_NEAR_BED          19475

@@ -21,12 +21,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_DOOR
 
-#include "..\headers\command.h"
-#include "..\headers\depolva.h"
+#include "../headers/command.h"
+#include "../headers/depolva.h"
 
 /* Defines and Macros */
 

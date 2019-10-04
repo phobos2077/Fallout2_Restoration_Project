@@ -25,13 +25,13 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\depolvb.h"
+#include "../headers/define.h"
+#include "../headers/depolvb.h"
 
 #define NAME                    SCRIPT_WSEMIT1A       // contains all the .msg info
 #define CUR_SCRIPT              SCRIPT_WSFELD4A       // for creating new objects w/ this script
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define FEILD_DOWN_TIME         (20)            // in seconds
 

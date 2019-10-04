@@ -15,10 +15,10 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\tribe02.H"
+#include "../headers/define.h"
+#include "../headers/tribe02.H"
 #define NAME                    SCRIPT_TRIBESP2
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 
 #define LVAR_Do_Once               (4)

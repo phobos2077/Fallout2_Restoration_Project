@@ -20,21 +20,21 @@
 
 /* Include Files */
 
-/* Note, the Following Lines need to be in this o#include "..\headers\broken.h"rder so that
+/* Note, the Following Lines need to be in this o#include "../headers/broken.h"rder so that
    the script will be compilable. The define Name is referenced
    in a module from define.h and used in command.h. Please do
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\broken.h"
-#include "..\headers\broken1.h"
+#include "../headers/define.h"
+#include "../headers/broken.h"
+#include "../headers/broken1.h"
 
 #define NAME                    SCRIPT_HCMANSON
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 #define FREEDOM   16089
 #define JAIL_CELL 10888

@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\depolva.h"
+#include "../headers/define.h"
+#include "../headers/depolva.h"
 
 #define NAME                    SCRIPT_WTELFLR2         // contains all the .msg info
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define MIN_DMG_SPATIAL                 (16)
 #define MAX_DMG_SPATIAL                 (28)

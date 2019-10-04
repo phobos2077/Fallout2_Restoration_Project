@@ -3,12 +3,12 @@
 */
 
 
-#include "..\headers\define.h"
-#include "..\headers\ARVillag.h"
+#include "../headers/define.h"
+#include "../headers/ARVillag.h"
 
 #define NAME                    SCRIPT_ACSPORPL
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

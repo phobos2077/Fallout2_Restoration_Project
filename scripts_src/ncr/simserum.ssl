@@ -6,12 +6,12 @@
    Mutanigin Serim. It kills mutants thats about it.
 */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME   SCRIPT_SIMSERUM
 
-#include "..\headers\command.h"
-#include "..\headers\ncr.h"
+#include "../headers/command.h"
+#include "../headers/ncr.h"
 
 procedure use_obj_on_p_proc;
 procedure timed_event_p_proc;

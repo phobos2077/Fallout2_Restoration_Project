@@ -26,12 +26,12 @@
         -rwh2   11/13/97
 */
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_ABPUMP
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY           //Global variable name for this Town
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

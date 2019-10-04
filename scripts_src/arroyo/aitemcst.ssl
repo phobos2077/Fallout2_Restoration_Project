@@ -3,12 +3,12 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\ARCaves.h"
+#include "../headers/define.h"
+#include "../headers/ARCaves.h"
 
 #define NAME                    SCRIPT_AITEMCST
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_update_p_proc;

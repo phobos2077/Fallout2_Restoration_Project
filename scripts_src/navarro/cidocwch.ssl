@@ -16,4 +16,4 @@
                                                  ( not( is_success( roll_vs_skill( dude_obj, SKILL_SNEAK, -10 ) ) ) ) ) or    \
                                                ( has_skill( dude_obj, SKILL_SNEAK ) < 30 )))                                  \
 
-#include "..\GENERIC\ziLocker.ssl"
+#include "../generic/ziLocker.ssl"

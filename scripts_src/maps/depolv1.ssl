@@ -6,13 +6,13 @@
         Map Script for Sierra Army Base, Outside area
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\depolv1.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+#include "../headers/depolv1.h"
 
 #define NAME                    SCRIPT_DEPOLV1
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 
 #define MIN_ELECTRIC_DMG                (10)

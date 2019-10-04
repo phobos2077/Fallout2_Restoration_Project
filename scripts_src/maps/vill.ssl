@@ -2,13 +2,13 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
-#include "..\headers\define.h"
-#include "..\headers\VILL.H"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/VILL.H"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_VILL          //Script name from scripts.h
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure map_enter_p_proc;

@@ -9,4 +9,4 @@
 #define ENTER_LOCK_CONDITION        (map_first_run)
 #define LOCKPICK_SKILL_PENALTY      MEDIUM_LOCK_PENALTY
 
-#include "..\GENERIC\ziLocker.ssl"
+#include "../generic/ziLocker.ssl"

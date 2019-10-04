@@ -9,4 +9,4 @@
 #define LOCKPICK_SKILL_PENALTY      MEDIUM_LOCK_PENALTY
 //#define DO_CHECK_TAMPER_CONDITION   (dude_is_made_man == false)
 
-#include "..\generic\ziLocker.ssl"
+#include "../generic/ziLocker.ssl"

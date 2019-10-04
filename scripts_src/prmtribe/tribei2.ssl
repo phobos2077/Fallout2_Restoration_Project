@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_TRIBEI2
 
-#include "..\headers\command.h"
-#include "..\headers\merchant.h"
+#include "../headers/command.h"
+#include "../headers/merchant.h"
 
 procedure start;
 procedure use_p_proc;

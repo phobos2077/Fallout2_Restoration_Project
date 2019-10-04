@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\enctrp.h"
+#include "../headers/define.h"
+#include "../headers/enctrp.h"
 
 #define NAME                    SCRIPT_QIPZLDOR
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define MIN_SHOCK               (20)
 #define MAX_SHOCK               (40)

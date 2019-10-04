@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\depolva.h"
+#include "../headers/define.h"
+#include "../headers/depolva.h"
 
 #define NAME                    SCRIPT_WSTERM2B
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define Check_Force_Fields      (map_var(MVAR_Level2_Fields) == FIELD_DISABLED)
 #define LOW_DAMAGE              (20)

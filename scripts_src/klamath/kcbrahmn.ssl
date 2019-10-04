@@ -16,12 +16,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\kladwtn.h"
+#include "../headers/define.h"
+#include "../headers/kladwtn.h"
 
 #define NAME                    SCRIPT_ZCBRAHMN
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 /* Standard Script Procedures */
 procedure start;

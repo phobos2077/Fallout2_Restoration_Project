@@ -1,10 +1,10 @@
-#include "..\headers\define.h"
-#include "..\headers\klaratcv.h"
-#include "..\headers\klamath.h"
+#include "../headers/define.h"
+#include "../headers/klaratcv.h"
+#include "../headers/klamath.h"
 
 #define NAME                    SCRIPT_KTCAVN3
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure damage_p_proc;
 procedure destroy_support;

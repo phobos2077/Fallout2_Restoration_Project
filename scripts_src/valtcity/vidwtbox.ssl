@@ -19,12 +19,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_VIDWTBOX
 
-#include "..\headers\command.h"
-#include "..\headers\Vctydwtn.h"
+#include "../headers/command.h"
+#include "../headers/Vctydwtn.h"
 /* Defines and Macros */
 
 /* Standard Script Procedures */

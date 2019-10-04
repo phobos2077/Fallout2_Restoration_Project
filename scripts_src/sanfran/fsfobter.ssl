@@ -18,14 +18,14 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_FSFOBTER
 #define CUR_COMP_SCRIPT         SCRIPT_FSFOBTER
 
-#include "..\headers\command.h"
-#include "..\headers\sftanker.h"
-#include "..\headers\sanfran.h"
+#include "../headers/command.h"
+#include "../headers/sftanker.h"
+#include "../headers/sanfran.h"
 
 /* Standard Script Procedures */
 procedure start;

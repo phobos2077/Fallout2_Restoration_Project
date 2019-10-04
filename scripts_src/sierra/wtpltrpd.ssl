@@ -23,13 +23,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_SPRTRP0
 #define CUR_SCRIPT              SCRIPT_WTPLTRPD
 
-#include "..\headers\command.h"
-#include "..\headers\depolva.h"
+#include "../headers/command.h"
+#include "../headers/depolva.h"
 
 #define TRAP_BONUS                      (-30)
 #define PERCEPTION_BONUS                (-4)

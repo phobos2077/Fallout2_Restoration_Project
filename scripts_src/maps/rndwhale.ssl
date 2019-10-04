@@ -6,13 +6,13 @@
    Random Whale Bits High luck encounter
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_RNDWHALE
 
-#include "..\headers\command.h"
-#include "..\headers\rndwhale.h"
+#include "../headers/command.h"
+#include "../headers/rndwhale.h"
 
 procedure start;
 procedure map_enter_p_proc;

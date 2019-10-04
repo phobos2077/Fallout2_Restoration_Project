@@ -6,13 +6,13 @@
         Map Script for Sierra Army Base, Outside area
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
-#include "..\headers\v15ent.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
+#include "../headers/v15ent.h"
 
 #define NAME                    SCRIPT_V15ENT
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 #define CHECK_DUDE_V15ENT_LEVEL  (2)
 

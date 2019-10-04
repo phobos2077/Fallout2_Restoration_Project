@@ -15,12 +15,12 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPAI38
 
-#include "..\headers\command.h"
-#include "..\headers\EPASL.H"
+#include "../headers/command.h"
+#include "../headers/EPASL.H"
 
 #define TRAPS_PENALTY           (-20)
 #define SCIENCE_PENALTY         (-80)

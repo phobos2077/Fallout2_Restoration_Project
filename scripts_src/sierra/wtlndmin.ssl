@@ -21,13 +21,13 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\depolv1.h"
+#include "../headers/define.h"
+#include "../headers/depolv1.h"
 
 #define NAME                    SCRIPT_SPRTRP0
 #define CUR_SCRIPT              SCRIPT_WTLNDMIN
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 // Tile Nums for the Trap
 #define LANDMINE_TILE1          (16278)

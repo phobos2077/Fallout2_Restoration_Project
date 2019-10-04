@@ -20,8 +20,8 @@ end
 #define pickup_p_proc            def_pickup_p_proc
 #define talk_p_proc              def_talk_p_proc
 
-#include "..\generic\ziBlkJck.ssl"
-#include "..\headers\Den.h"
+#include "../generic/ziBlkJck.ssl"
+#include "../headers/Den.h"
 
 #undef NAME
 #define NAME            SCRIPT_DCCRAPS

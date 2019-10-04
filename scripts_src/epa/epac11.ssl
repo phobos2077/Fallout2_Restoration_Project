@@ -2,17 +2,17 @@
   ***   Script conwerted to Interplay format by Fallout Script Edytor (by Jargo)  ***
 */
 
-#include "..\HEADERS\define.h"
-#include "..\headers\EPAMAIN.h"
-#include "..\headers\NEWR1.h" //added by killap
-#include "..\headers\EPASL.h"
+#include "../headers/define.h"
+#include "../headers/EPAMAIN.h"
+#include "../headers/NEWR1.h" //added by killap
+#include "../headers/EPASL.h"
 
 #define NAME                    SCRIPT_EPAC11          //Script name from scripts.h
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
 
-#include "..\HEADERS\command.h"
-#include "..\HEADERS\ModReact.h"
-#include "..\HEADERS\partybkg.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/partybkg.h"
 
 #define PARTY_NODE_X                   Node1000
 

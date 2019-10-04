@@ -18,8 +18,8 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
-#include "..\headers\gecko.h"
+#include "../headers/define.h"
+#include "../headers/gecko.h"
 
 #define NAME                    SCRIPT_GCSKEETR
 //#define TOWN_REP_VAR            50
@@ -32,9 +32,9 @@
 #define OFFERED                 1
 #define TAKEN                   2
 
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\UpgWeap.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/UpgWeap.h"
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse

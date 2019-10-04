@@ -20,15 +20,15 @@
 
 /* Include Files */
 
-#include "..\headers\define.h"
-#include "..\headers\navarro.h"
+#include "../headers/define.h"
+#include "../headers/navarro.h"
 
 #define NAME                    SCRIPT_CCCHRIS
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
 
-#include "..\headers\SanFran.h"
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
+#include "../headers/SanFran.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
 
 /* Standard Script Procedures */
 procedure start;

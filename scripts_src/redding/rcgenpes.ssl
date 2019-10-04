@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\reddown.h"
+#include "../headers/define.h"
+#include "../headers/reddown.h"
 
 #define NAME                    SCRIPT_RCGENPES
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 
 //  Are you in this area                tile_in_tile_rect(ul,ur,ll,lr,x)

@@ -6,12 +6,12 @@
 
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_VIMERGRD
 
-#include "..\headers\command.h"
-#include "..\headers\VILMERCH.h"
+#include "../headers/command.h"
+#include "../headers/VILMERCH.h"
 
 /* Standard Script Procedures */
 procedure start;

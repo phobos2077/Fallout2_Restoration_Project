@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
-#include "..\headers\ArGarden.h"
+#include "../headers/define.h"
+#include "../headers/ArGarden.h"
 
 #define NAME                    SCRIPT_ACGECKO
 
-#include "..\headers\command.h"
+#include "../headers/command.h"
 
 procedure start;
 procedure critter_p_proc;

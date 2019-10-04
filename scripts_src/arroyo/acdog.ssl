@@ -25,12 +25,12 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 
 #define NAME                    SCRIPT_GENERIC
 
-#include "..\headers\command.h"
-#include "..\headers\argarden.h"
+#include "../headers/command.h"
+#include "../headers/argarden.h"
 
 
 procedure start;

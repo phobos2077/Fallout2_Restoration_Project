@@ -6,14 +6,14 @@
    Map for Vault13 Fake entrance
 */
 
-#include "..\headers\define.h"
-#include "..\headers\updatmap.h"
+#include "../headers/define.h"
+#include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_CAVE7
 
-#include "..\headers\cave06.h"
-#include "..\headers\command.h"
-#include "..\headers\ncr.h"
+#include "../headers/cave06.h"
+#include "../headers/command.h"
+#include "../headers/ncr.h"
 
 procedure start;
 procedure map_enter_p_proc;

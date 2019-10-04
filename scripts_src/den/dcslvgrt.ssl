@@ -15,12 +15,12 @@
 */
 
 /* Include Files */
-#include "..\headers\define.h"
+#include "../headers/define.h"
 #define NAME                    SCRIPT_DCSLVGRT
 #define TOWN_REPUTATION         GVAR_TOWN_REP_THE_DEN
-#include "..\headers\command.h"
-#include "..\headers\ModReact.h"
-#include "..\headers\Den.h"
+#include "../headers/command.h"
+#include "../headers/ModReact.h"
+#include "../headers/Den.h"
 
 /* Standard Script Procedures */
 procedure start;
