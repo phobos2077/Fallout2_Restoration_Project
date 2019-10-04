@@ -7,6 +7,9 @@
 
 //   This file holds all of the things that should be preprocessed.
 
+// got to define this very first to be able to use everywhere
+#define ndebug(message)    debug_msg(SCRIPT_REALNAME + ": " + message + "\n")
+
 #include "global.h"
 #include "itempid.h"
 #include "scripts.h"

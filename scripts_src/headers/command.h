@@ -1337,6 +1337,4 @@ procedure removeVaultBoxerAppearance begin
    end
 end
 
-#define ndebug(message)    debug_msg(SCRIPT_REALNAME + ": " + message + "\n")
-
 #endif // COMMAND_H
