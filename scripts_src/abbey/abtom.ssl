@@ -56,7 +56,6 @@ procedure Node993;
    Local Variables which are saved. All Local Variables need to be
    prepended by LVAR_
 *****************************************************************/
-#define LVAR_Flags                      (0)
 #define LVAR_Flags                      (4)
 #define LVAR_Herebefore                 (5)
 #define LVAR_Hostile                    (6)
