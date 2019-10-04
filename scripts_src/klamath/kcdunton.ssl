@@ -36,7 +36,7 @@
 #include "../headers/define.h"
 #include "../headers/klamath.h"
 #include "../headers/klagraz.h"
-#include "../headers/kladwtn.h." //added by killap - expansion
+#include "../headers/kladwtn.h" //added by killap - expansion
 
 #define NAME                    SCRIPT_KCDUNTON
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
