@@ -16,6 +16,6 @@ data/scripts/gl_partycontrol.int
 wget -q "$sfall_url" -O sfall.7z
 
 for f in $files; do
-  7z e sfall.7z "$f"
+  7zr e sfall.7z "$f"
   mv "$(basename $f)" "$release_dir/"
 done

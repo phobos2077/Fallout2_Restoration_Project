@@ -21,17 +21,17 @@ mkdir -p "$cache_dir" "$bin_dir"
 
 # compile.exe, no cache (mpack version may change)
 wget -q "$mpack_url" -O "$mpack_7z"
-7z e "$mpack_7z" "$mpack_compile"
+7zr e "$mpack_7z" "$mpack_compile"
 mv -f "$compile_exe" "$bin_dir/"
 # sfall headers
-7z x "$mpack_7z" "scripting_docs/headers"
+7zr x "$mpack_7z" "scripting_docs/headers"
 mv "scripting_docs/headers" "scripts_src/sfall"
 
 # wcc, check cache
 if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe" ]]; then
   wget -q "$sfse_url" -O "$sfse_file"
   for f in wcc386.exe wccd386.dll dat2.exe; do
-    7z e "$sfse_file" "$sfse_dir/$f"
+    7zr e "$sfse_file" "$sfse_dir/$f"
     mv -f "$f" "$cache_dir/"
   done
 fi
