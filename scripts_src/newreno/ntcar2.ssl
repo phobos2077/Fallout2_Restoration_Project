@@ -18,7 +18,7 @@
 #include "../headers/define.h"
 #define NAME                    SCRIPT_NTCAR2
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 #define LVAR_Flags               (0)
 

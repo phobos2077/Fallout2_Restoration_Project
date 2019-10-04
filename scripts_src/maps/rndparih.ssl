@@ -12,7 +12,7 @@
 #define NAME                    SCRIPT_RNDPARIH
 
 #include "../headers/command.h"
-#include "../headers/rndParih.h"
+#include "../headers/rndparih.h"
 
 procedure start;
 procedure map_enter_p_proc;

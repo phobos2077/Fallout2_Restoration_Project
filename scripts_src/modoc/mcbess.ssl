@@ -23,7 +23,7 @@
 #define TOWN_REP_VAR            GVAR_TOWN_REP_MODOC
 #include "../headers/command.h"
 #include "../headers/modoc.h"
-#include "../headers/ModMain.h"
+#include "../headers/modmain.h"
 
 /* Standard Script Procedures */
 procedure start;

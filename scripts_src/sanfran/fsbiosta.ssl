@@ -33,7 +33,7 @@
 
 #include "../headers/command.h"
 #include "../headers/sanfran.h"
-#include "../headers/SFCHINA2.H" // added by killap - expansion
+#include "../headers/sfchina2.h" // added by killap - expansion
 
 /* Standard Script Procedures */
 procedure start;

@@ -27,7 +27,7 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/ArVillag.h"
+#include "../headers/arvillag.h"
 
 #define NAME                    SCRIPT_AIVASE
 

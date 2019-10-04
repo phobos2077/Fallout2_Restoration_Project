@@ -26,13 +26,13 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/RedMent.h"
+#include "../headers/redment.h"
 
 #define NAME                    SCRIPT_RCMARGE
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 
 #define EXCAVATOR_CHIP          PID_EXCAVATOR_CHIP               // Need to Fix

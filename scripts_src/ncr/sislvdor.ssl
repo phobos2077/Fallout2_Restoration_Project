@@ -28,7 +28,7 @@
 #include "../headers/command.h"
 
 #include "../headers/ncr.h"
-#include "../headers/NCRENT.h"
+#include "../headers/ncrent.h"
 
 /* Defines and Macros */
 

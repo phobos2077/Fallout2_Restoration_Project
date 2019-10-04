@@ -23,7 +23,7 @@
 #define NAME                    SCRIPT_NIMORGRV
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 procedure start;
 procedure look_at_p_proc;

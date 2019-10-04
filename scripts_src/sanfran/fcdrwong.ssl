@@ -36,10 +36,10 @@
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_SAN_FRANCISCO)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #include "../headers/sanfran.h"
-#include "../headers/SFCHINA2.H"
+#include "../headers/sfchina2.h"
 
 /* Standard Script Procedures */
 procedure start;

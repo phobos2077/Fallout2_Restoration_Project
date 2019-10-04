@@ -35,7 +35,7 @@ end
 
 #define LOCKED_STATUS                STATE_ACTIVE //added by killap
 
-#include "../den/diDoor.ssl"
+#include "../den/didoor.ssl"
 
 //added by killap
 variable do_once := false;

@@ -19,7 +19,7 @@
 #define NAME                    SCRIPT_NIMANHOL
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 /* Defines and Macros */
 
 /* Standard Script Procedures */

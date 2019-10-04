@@ -23,14 +23,14 @@
 #define def_far_msg                          mstr(1006)
 
 #include "../headers/define.h"
-#include "../headers/NEWR1.h" //added by killap
+#include "../headers/newr1.h" //added by killap
 
 #define NAME                        SCRIPT_MCDAVIN
 #define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
 
 #include "../headers/command.h"
 #include "../headers/modoc.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -7,7 +7,7 @@
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_EPAS2A
-#include "../headers/EPAMAIN.h"
+#include "../headers/epamain.h"
 
 #include "../headers/command.h"
 

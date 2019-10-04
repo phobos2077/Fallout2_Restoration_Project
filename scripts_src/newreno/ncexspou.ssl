@@ -19,7 +19,7 @@
 #define NAME                     SCRIPT_NCEXSPOU
 #define TOWN_REP_VAR             GVAR_TOWN_REP_MODOC
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 /* Standard Script Procedures */
 procedure start;

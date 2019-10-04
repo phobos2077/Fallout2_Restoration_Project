@@ -25,7 +25,7 @@
 
 #include "../headers/command.h"
 #include "../headers/modoc.h"
-#include "../headers/ModBrah.h"
+#include "../headers/modbrah.h"
 
 /* Standard Script Procedures */
 procedure start;

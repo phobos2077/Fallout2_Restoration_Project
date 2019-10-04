@@ -37,7 +37,7 @@
 #define DONESTRING    291
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #include "../headers/ncr.h"
 #include "../headers/newreno.h"

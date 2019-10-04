@@ -22,7 +22,7 @@
 #define NAME                    SCRIPT_ZCLRAT
 
 #include "../headers/command.h"
-//#include "../headers/ModReact.h"
+//#include "../headers/modreact.h"
 
 #define POISON_MIN              (1)
 #define POISON_MAX              (6)

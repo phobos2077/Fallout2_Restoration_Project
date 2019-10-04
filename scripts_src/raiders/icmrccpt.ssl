@@ -19,8 +19,8 @@
 #define NAME                    SCRIPT_ICMRCCPT
 #define TOWN_REP_VAR            GVAR_TOWN_REP_RAIDERS
 #include "../headers/command.h"
-#include "../headers/Raiders.h"
-#include "../headers/Raiders2.h" //added by killap - expansion
+#include "../headers/raiders.h"
+#include "../headers/raiders2.h" //added by killap - expansion
 
 /* Standard Script Procedures */
 procedure start;

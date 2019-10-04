@@ -17,7 +17,7 @@
 */
 
 #include "../headers/define.h"
-//#include "../headers/GeckSetl.h"
+//#include "../headers/gecksetl.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_GECKTUNL

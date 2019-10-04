@@ -28,7 +28,7 @@
 #define NAME                    SCRIPT_NEWRVB
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 procedure start;
 procedure map_enter_p_proc;

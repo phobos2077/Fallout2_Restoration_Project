@@ -16,13 +16,13 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/Raiders2.h"
+#include "../headers/raiders2.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_RAIDERS2
 
 #include "../headers/command.h"
-#include "../headers/Raiders.h"
+#include "../headers/raiders.h"
 
 procedure start;
 procedure map_enter_p_proc;

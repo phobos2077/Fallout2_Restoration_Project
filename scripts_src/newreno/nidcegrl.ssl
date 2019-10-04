@@ -20,8 +20,8 @@
 #include "../headers/define.h"
 #define NAME                    SCRIPT_ZIDCEGRL
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
-#include "../headers/ModReact.h"
+#include "../headers/newreno.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

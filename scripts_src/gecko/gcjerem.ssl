@@ -34,7 +34,7 @@
 #define PID_REQUEST_FORM            212  //CHANGE THIS FROM TANDI_OBJ TO NUMBER FOR REQUEST_FORM
                                          //AND ADD TO ITEMPID.
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse

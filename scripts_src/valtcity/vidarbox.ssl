@@ -24,7 +24,7 @@
 #define NAME                    SCRIPT_VIDARBOX
 
 #include "../headers/command.h"
-#include "../headers/VctyDwtn.h"
+#include "../headers/vctydwtn.h"
 /* Defines and Macros */
 
 #define LVAR_Restock_Time                 (0)

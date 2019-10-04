@@ -27,7 +27,7 @@
 #define NAME                    SCRIPT_CCRAUL
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
 
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 //#define HEX_ONE          11922
 //#define HEX_TWO          13319

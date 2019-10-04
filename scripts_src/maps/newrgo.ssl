@@ -16,13 +16,13 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/NewRGo.h"
+#include "../headers/newrgo.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_NEWRGO
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 procedure start;
 procedure map_enter_p_proc;

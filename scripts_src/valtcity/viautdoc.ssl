@@ -26,7 +26,7 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/Vctyctyd.h"
+#include "../headers/vctyctyd.h"
 
 #define NAME                    SCRIPT_VIAUTDOC
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)

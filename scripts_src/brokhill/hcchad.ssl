@@ -26,7 +26,7 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/broken.h"  //Broken Hills Defines
+#include "../headers/broken.h"  //broken hills defines
 #include "../headers/broken1.h" //mapvars
 #include "../headers/broken2.h" //mapvars //added by killap
 #include "../headers/bhrnddst.h"
@@ -35,7 +35,7 @@
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

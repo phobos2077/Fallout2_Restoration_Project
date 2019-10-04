@@ -24,7 +24,7 @@
 #define NAME                    SCRIPT_VICTYBOX
 
 #include "../headers/command.h"
-#include "../headers/Vctyctyd.h"
+#include "../headers/vctyctyd.h"
 /* Defines and Macros */
 
 /* Standard Script Procedures */

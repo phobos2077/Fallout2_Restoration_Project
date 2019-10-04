@@ -14,8 +14,8 @@ end
 #define GIVE_HEADSTONE_NAME                     false
 #endif
 
-#include "../generic/ziGenGrv.ssl"
-#include "../headers/Den.h"
+#include "../generic/zigengrv.ssl"
+#include "../headers/den.h"
 
 procedure grave_description_proc begin
    if (is_headstone) then begin

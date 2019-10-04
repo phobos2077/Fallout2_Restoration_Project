@@ -2,7 +2,7 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#define EXTRA_HEADER                "..\headers\Navarro.h"
+#define EXTRA_HEADER                "../headers/navarro.h"
 
 #define WATCHER_OBJ                 doctor_ptr
 //#define ENTER_LOCK_CONDITION        (map_first_run)
@@ -16,4 +16,4 @@
                                                  ( not( is_success( roll_vs_skill( dude_obj, SKILL_SNEAK, -10 ) ) ) ) ) or    \
                                                ( has_skill( dude_obj, SKILL_SNEAK ) < 30 )))                                  \
 
-#include "../generic/ziLocker.ssl"
+#include "../generic/zilocker.ssl"

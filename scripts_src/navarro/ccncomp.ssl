@@ -19,7 +19,7 @@
 
 #include "../headers/define.h"
 //#include "../headers/navdef.h"
-#include "../headers/SanFran.h"
+#include "../headers/sanfran.h"
 #include "../headers/navarro.h"
 
 #define NAME                    SCRIPT_CCNCOMP

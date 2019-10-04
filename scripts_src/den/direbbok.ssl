@@ -21,7 +21,7 @@
 #define NAME                    SCRIPT_DIREBBOK
 
 #include "../headers/command.h"
-#include "../headers/Den.h"
+#include "../headers/den.h"
 /* Defines and Macros */
 
 #define LVAR_Read_Count                   (0)

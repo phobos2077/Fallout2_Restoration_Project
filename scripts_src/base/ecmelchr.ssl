@@ -31,7 +31,7 @@
 #define NAME                    SCRIPT_ECMELCHR
 
 #include "../headers/command.h"
-#include "../headers/Base.h"
+#include "../headers/base.h"
 
 #define Timed_Count             (5)     // In seconds
 #define TOO_CLOSE               (20)    // in hexes

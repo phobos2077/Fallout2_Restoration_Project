@@ -26,13 +26,13 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/modBrah.h"
+#include "../headers/modbrah.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_MODBRAH
 
 #include "../headers/command.h"
-#include "../headers/Modoc.h"
+#include "../headers/modoc.h"
 
 procedure start;
 procedure map_enter_p_proc;

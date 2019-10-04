@@ -32,7 +32,7 @@
 #include "../headers/command.h"
 #include "../headers/gecko.h"
 #include "../headers/gecksetl.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

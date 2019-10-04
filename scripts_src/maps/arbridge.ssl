@@ -22,13 +22,13 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/ArBridge.h"
+#include "../headers/arbridge.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_ARBRIDGE
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 procedure start;
 procedure map_enter_p_proc;

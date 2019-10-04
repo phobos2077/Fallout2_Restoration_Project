@@ -32,8 +32,8 @@
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
-#include "../headers/NewReno.h"
+#include "../headers/modreact.h"
+#include "../headers/newreno.h"
 #include "../headers/v13.h"
 #include "../headers/enc.h"
 

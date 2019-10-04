@@ -23,8 +23,8 @@
 
 #include "../headers/command.h"
 #include "../headers/modoc.h"
-#include "../headers/ModMain.h"
-#include "../headers/ModReact.h"
+#include "../headers/modmain.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

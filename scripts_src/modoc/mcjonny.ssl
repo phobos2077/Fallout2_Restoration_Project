@@ -22,9 +22,9 @@
 #define TOWN_REP_VAR                GVAR_TOWN_REP_MODOC
 
 #include "../headers/command.h"
-#include "../headers/Modoc.h"
-#include "../headers/GstCav2.h"
-#include "../headers/ModReact.h"
+#include "../headers/modoc.h"
+#include "../headers/gstcav2.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

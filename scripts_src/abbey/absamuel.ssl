@@ -14,8 +14,8 @@
 #define GRAVE_HEX       ((self_tile == 18467) or (self_tile == 18262) or (self_tile == 18660) or (self_tile == 18058) or (self_tile == 19265) or (self_tile == 19064) or (self_tile == 19661) or (self_tile == 19258) or (self_tile == 20265) or (self_tile == 20264) or (20259) or (self_tile == 19858) )
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
-#include "../headers/ModReact.h"
+#include "../headers/newreno.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

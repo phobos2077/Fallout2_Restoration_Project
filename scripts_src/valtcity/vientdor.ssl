@@ -20,7 +20,7 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/VCtyDwtn.h"
+#include "../headers/vctydwtn.h"
 
 #define NAME                    SCRIPT_VIENTDOR
 

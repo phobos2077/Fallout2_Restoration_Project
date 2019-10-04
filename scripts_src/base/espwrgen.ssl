@@ -24,7 +24,7 @@
 
 #define NAME                    SCRIPT_ESPWRGEN
 
-#include "../headers/UpdatMap.h"
+#include "../headers/updatmap.h"
 #include "../headers/command.h"
 #include "../headers/base.h"
 

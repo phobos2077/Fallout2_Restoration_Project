@@ -27,8 +27,8 @@ end
 #endif
 #define TOWN_REP_VAR                            GVAR_TOWN_REP_THE_DEN
 
-#include "../generic/ziGenGrv.ssl"
-#include "../headers/Den.h"
+#include "../generic/zigengrv.ssl"
+#include "../headers/den.h"
 
 #undef NAME
 #define NAME                                    SCRIPT_DIANNGRV

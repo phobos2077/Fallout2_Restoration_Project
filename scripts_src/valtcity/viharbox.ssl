@@ -24,7 +24,7 @@
 #define NAME                    SCRIPT_VIHARBOX
 
 #include "../headers/command.h"
-#include "../headers/VctyCtyd.h"
+#include "../headers/vctyctyd.h"
 /* Defines and Macros */
 
 #define LVAR_Restock_Time                 (0)

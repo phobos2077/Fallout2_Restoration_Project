@@ -24,9 +24,9 @@
 #define NAME                    SCRIPT_CCQUINCY
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
 
-#include "../headers/SanFran.h"
+#include "../headers/sanfran.h"
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -60,7 +60,7 @@ end
 #define use_skill_on_p_proc               def_use_skill_on_p_proc
 #define map_update_p_proc                 def_map_update_p_proc
 
-#include "../den/diDoor.ssl"
+#include "../den/didoor.ssl"
 
 procedure test_use_tamper begin
    debug_msg("test_use_tamper");

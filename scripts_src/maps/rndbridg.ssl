@@ -27,7 +27,7 @@
 */
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
-#include "../headers/RndBridg.h"
+#include "../headers/rndbridg.h"
 
 #define NAME                    SCRIPT_RNDBRIDG
 

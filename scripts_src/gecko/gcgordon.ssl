@@ -37,7 +37,7 @@
 #define PLANT_UNTOUCHED         0 //need to add plant_untouched to global.h
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 
 /* Standard Script Procedures */

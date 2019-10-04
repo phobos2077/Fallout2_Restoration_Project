@@ -5,7 +5,7 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/EPASL.h"
+#include "../headers/epasl.h"
 
 #define NAME                    SCRIPT_ESHIB
 

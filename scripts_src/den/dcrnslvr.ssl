@@ -18,7 +18,7 @@
 #include "../headers/define.h"
 #define NAME                    SCRIPT_DCRNSLVR
 #include "../headers/command.h"
-#include "../headers/Den.h"
+#include "../headers/den.h"
 
 /* Standard Script Procedures */
 procedure start;

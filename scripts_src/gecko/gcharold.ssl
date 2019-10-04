@@ -35,7 +35,7 @@
 #define PID_REACTOR_REPAIR_PART 20 //need to change to proper pid
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -34,7 +34,7 @@
 #define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

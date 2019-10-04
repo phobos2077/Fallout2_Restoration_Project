@@ -16,7 +16,7 @@
 /* Include Files */
 
 #include "../headers/define.h"
-#include "../headers/EPAMAIN.h"
+#include "../headers/epamain.h"
 
 #define NAME                    SCRIPT_EPAI30
 

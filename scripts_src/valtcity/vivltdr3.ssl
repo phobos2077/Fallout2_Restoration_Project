@@ -22,7 +22,7 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/VCtyVlt.h"
+#include "../headers/vctyvlt.h"
 
 #define NAME                    SCRIPT_DOOR
 

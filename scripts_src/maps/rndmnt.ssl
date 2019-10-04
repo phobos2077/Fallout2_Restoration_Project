@@ -26,7 +26,7 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-//#include "../headers/modMain.h"
+//#include "../headers/modmain.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_RNDMNT

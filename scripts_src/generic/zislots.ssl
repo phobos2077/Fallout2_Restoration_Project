@@ -18,7 +18,7 @@
 #include "../headers/define.h"
 #define NAME                              SCRIPT_ZISLOTS
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 /* Standard Script Procedures */
 procedure start;

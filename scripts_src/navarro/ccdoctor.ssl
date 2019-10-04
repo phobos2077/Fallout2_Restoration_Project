@@ -29,7 +29,7 @@
 #define SOUND_PROOF_TWO         19315
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

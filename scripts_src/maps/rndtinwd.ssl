@@ -12,7 +12,7 @@
 #define NAME                    SCRIPT_RNDTINWD
 
 #include "../headers/command.h"
-#include "../headers/RNDTINWD.h"
+#include "../headers/rndtinwd.h"
 
 procedure start;
 procedure map_enter_p_proc;

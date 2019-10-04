@@ -24,8 +24,8 @@
 #define NAME                        SCRIPT_ZSDRVCAR
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
-#include "../headers/Den.h"
+#include "../headers/newreno.h"
+#include "../headers/den.h"
 
 procedure start;
 procedure use_p_proc;

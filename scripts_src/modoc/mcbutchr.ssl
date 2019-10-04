@@ -19,9 +19,9 @@
 #define NAME                    SCRIPT_MCBUTCHR
 #define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_MODOC)
 #include "../headers/command.h"
-#include "../headers/ModMain.h"
-#include "../headers/Modoc.h"
-#include "../headers/ModReact.h"
+#include "../headers/modmain.h"
+#include "../headers/modoc.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -22,7 +22,7 @@
 #define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 procedure start;
 procedure map_update_p_proc;

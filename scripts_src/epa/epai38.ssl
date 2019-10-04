@@ -20,7 +20,7 @@
 #define NAME                    SCRIPT_EPAI38
 
 #include "../headers/command.h"
-#include "../headers/EPASL.H"
+#include "../headers/epasl.h"
 
 #define TRAPS_PENALTY           (-20)
 #define SCIENCE_PENALTY         (-80)

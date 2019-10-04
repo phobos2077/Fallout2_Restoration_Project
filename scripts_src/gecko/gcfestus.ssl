@@ -40,7 +40,7 @@
 #define REFUSED          5
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse

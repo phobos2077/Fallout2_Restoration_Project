@@ -17,7 +17,7 @@
 /* Include Files */
 
 #include "../headers/define.h"
-#include "../headers/Den.h"
+#include "../headers/den.h"
 
 #define NAME                        SCRIPT_DIDIARY
 #define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN

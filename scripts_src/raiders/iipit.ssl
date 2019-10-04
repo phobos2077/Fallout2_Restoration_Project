@@ -25,7 +25,7 @@
 #define CUR_SCRIPT              SCRIPT_IIPIT
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 #define PID_BROKEN_FLOOR                    (33556185)
 

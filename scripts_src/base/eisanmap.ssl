@@ -21,7 +21,7 @@
 #define NAME                    SCRIPT_EISANMAP
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 /* Defines and Macros */
 
 /* Standard Script Procedures */

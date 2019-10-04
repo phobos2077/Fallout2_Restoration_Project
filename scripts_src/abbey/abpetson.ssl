@@ -7,13 +7,13 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/ABBEY.H"
+#include "../headers/abbey.h"
 
 #define NAME                    SCRIPT_ABPETSON
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

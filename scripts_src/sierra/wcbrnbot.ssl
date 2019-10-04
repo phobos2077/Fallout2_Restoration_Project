@@ -29,7 +29,7 @@
 //#include "../headers/<TownName.h>"
 #include "../headers/depolva.h"
 #include "../headers/depolvb.h"
-#include "../headers/NEWR1.h" //added by killap
+#include "../headers/newr1.h" //added by killap
 #define NAME                    SCRIPT_WCBRNBOT
 
 #include "../headers/command.h"

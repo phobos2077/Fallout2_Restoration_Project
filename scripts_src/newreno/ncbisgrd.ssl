@@ -38,8 +38,8 @@
 #define NAME                    SCRIPT_NCBISGRD
 #define TOWN_REP_VAR            GVAR_TOWN_REP_NEW_RENO
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
-#include "../headers/NewR2.h"
+#include "../headers/newreno.h"
+#include "../headers/newr2.h"
 
 /* Standard Script Procedures */
 procedure start;

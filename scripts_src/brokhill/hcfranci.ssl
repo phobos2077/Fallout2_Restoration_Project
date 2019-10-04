@@ -32,7 +32,7 @@
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_BROKEN_HILLS)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #define SPOT1_NEAR_BED          19476
 #define SPOT2_NEAR_BED          19475

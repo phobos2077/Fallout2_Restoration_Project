@@ -3,14 +3,14 @@
 */
 
 #include "../headers/define.h"
-#include "../headers/ABBEY.H"
+#include "../headers/abbey.h"
 //#include "../headers/<TownMapName.h>"
 
 #define NAME                    SCRIPT_ABSTAND          //Script name from scripts.h
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY          //Global variable name for this Town
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 #include "../headers/partybkg.h"
 
 #define LVAR_Flags                      (0)

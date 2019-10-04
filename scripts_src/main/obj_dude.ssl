@@ -14,9 +14,9 @@
 #define NAME                    SCRIPT_OBJ_DUDE
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 #include "../headers/v13.h"
-#include "../headers/NEWR1.h" //added by killap
+#include "../headers/newr1.h" //added by killap
 #include "../sfall/sfall.h"
 
 #define LVAR_Last_Digest_Time    (0)

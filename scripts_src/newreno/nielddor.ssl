@@ -47,7 +47,7 @@ end
 #define look_at_p_proc                    def_look_at_p_proc
 #define description_p_proc                def_description_p_proc
 
-#include "../newreno/niDoor.ssl"
+#include "../newreno/nidoor.ssl"
 
 procedure check_lock_eldridge_door begin
    if (eldridge_dead == false) then begin

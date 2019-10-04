@@ -3,7 +3,7 @@
 */
 
 #include "../headers/define.h"
-#include "../headers/Broken2.h"
+#include "../headers/broken2.h"
 
 #define NAME                    SCRIPT_HTCHUCK
 #include "../headers/command.h"

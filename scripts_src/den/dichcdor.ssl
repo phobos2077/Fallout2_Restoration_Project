@@ -71,7 +71,7 @@ end
 #define map_update_p_proc                 def_map_update_p_proc //added by killap
 #define destroy_p_proc                    def_destroy_p_proc
 
-#include "../den/diDoor.ssl"
+#include "../den/didoor.ssl"
 
 procedure check_close_door begin
    if (obj_is_open(self_obj)) then begin

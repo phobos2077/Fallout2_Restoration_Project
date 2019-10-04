@@ -20,7 +20,7 @@
 #include "../headers/define.h"
 //#include "../headers/navdef.h"
 #include "../headers/navarro.h"
-#include "../headers/SanFran.h"
+#include "../headers/sanfran.h"
 
 #define NAME                    SCRIPT_CCCHEAT
 

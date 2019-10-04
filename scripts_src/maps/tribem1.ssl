@@ -4,7 +4,7 @@
 
 #include "../headers/define.h"
 #include "../headers/updatmap.h"
-#include "../headers/tribe01.H"
+#include "../headers/tribe01.h"
 
 #define NAME                    SCRIPT_TRIBEM1          //Script name from scripts.h
 

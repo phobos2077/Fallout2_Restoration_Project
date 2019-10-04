@@ -7,7 +7,7 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/ABBEY.H"
+#include "../headers/abbey.h"
 #include "../headers/rpu.h"
 
 #define NAME                    SCRIPT_ABBILL

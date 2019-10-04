@@ -3,7 +3,7 @@
 */
 
 #include "../headers/define.h"
-#include "../headers/EPAMAIN.h"
+#include "../headers/epamain.h"
 
 #define NAME                    SCRIPT_EPAC9          //Script name from scripts.h
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town

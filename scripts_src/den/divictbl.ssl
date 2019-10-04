@@ -20,7 +20,7 @@
 /* Include Files */
 
 #include "../headers/define.h"
-#include "../headers/Den.h"
+#include "../headers/den.h"
 
 #define NAME                        SCRIPT_DIVICTBL
 

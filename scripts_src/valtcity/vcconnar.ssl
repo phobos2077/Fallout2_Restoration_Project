@@ -32,14 +32,14 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/VILL.H"
+#include "../headers/vill.h"
 //#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_VCCONNAR
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_VAULT_CITY)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #define GATE_TILE               (tile_num(self_obj))
 

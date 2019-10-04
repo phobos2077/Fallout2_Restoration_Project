@@ -26,13 +26,13 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/ArVillag.h"
+#include "../headers/arvillag.h"
 
 #define NAME                    SCRIPT_AHHAKUN
 #define TOWN_REPUTATION         global_var(GVAR_TOWN_REP_ARROYO)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 
 /* Standard Script Procedures */

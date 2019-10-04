@@ -26,7 +26,7 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/CarDesrt.h"
+#include "../headers/cardesrt.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_CARDESRT //edit by killap

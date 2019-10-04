@@ -26,7 +26,7 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/DenBus2.h"
+#include "../headers/denbus2.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_DENBUS2

@@ -24,7 +24,7 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/Broken2.h"
+#include "../headers/broken2.h"
 
 #define NAME                    SCRIPT_HSPURIFY
 

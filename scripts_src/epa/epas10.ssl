@@ -9,7 +9,7 @@
 #define NAME                    SCRIPT_EPAS10
 
 #include "../headers/command.h"
-#include "../headers/EPAWRHSE.h"
+#include "../headers/epawrhse.h"
 
 /* Standard Script Procedures */
 procedure start;

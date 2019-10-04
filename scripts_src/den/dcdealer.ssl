@@ -1,7 +1,7 @@
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/DEN.h"
-#include "../headers/DENRES1.h"
+#include "../headers/den.h"
+#include "../headers/denres1.h"
 
 #define NAME                    SCRIPT_DCDEALER
 

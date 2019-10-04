@@ -27,7 +27,7 @@
 */
 #include "../headers/define.h"
 #include "../headers/gecko.h"
-#include "../headers/VILL.H" // added by killap - expansion
+#include "../headers/vill.h" // added by killap - expansion
 
 #define NAME                    SCRIPT_GCBRAIN
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -37,7 +37,7 @@
 //#define GIVEN                   2
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 
 /* Standard Script Procedures */

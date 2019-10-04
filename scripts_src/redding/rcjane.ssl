@@ -32,7 +32,7 @@
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #define FIGHTER1_HEX            (21940)
 #define FIGHTER2_HEX            (21728) //edit by killap (expansion) - was 21727

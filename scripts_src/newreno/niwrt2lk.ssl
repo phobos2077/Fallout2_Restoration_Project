@@ -2,7 +2,7 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#define EXTRA_HEADER                "..\headers\NewReno.h"
+#define EXTRA_HEADER                "../headers/newreno.h"
 
 #define WATCHER_OBJ                 new_reno_wright_teen_obj
 #define DO_CHECK_TAMPER_CONDITION   (dude_family != family_wright)
@@ -24,6 +24,6 @@ end
 #define use_p_proc                        def_use_p_proc
 #define timed_event_p_proc                def_timed_event_p_proc
 
-#include "../generic/ziLocker.ssl"
+#include "../generic/zilocker.ssl"
 
 #define ENTER_CLOSE_CONDITION                (true)

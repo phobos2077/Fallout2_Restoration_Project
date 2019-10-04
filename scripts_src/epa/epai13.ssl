@@ -3,7 +3,7 @@
 */
 
 #include "../headers/define.h"
-#include "../headers/EPASL.h"
+#include "../headers/epasl.h"
 
 #define NAME                    SCRIPT_EPAI13          //Script name from scripts.h
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town

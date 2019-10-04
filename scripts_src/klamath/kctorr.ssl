@@ -41,7 +41,7 @@
 #define TONIGHT                 2
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 #define WAYPOINTA     23893
 #define WAYPOINTB     25079

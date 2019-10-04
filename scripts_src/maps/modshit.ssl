@@ -26,13 +26,13 @@
         -rwh2   11/13/97
 */
 #include "../headers/define.h"
-#include "../headers/ModShit.h"
+#include "../headers/modshit.h"
 #include "../headers/updatmap.h"
 
 #define NAME                    SCRIPT_MODSHIT
 
 #include "../headers/command.h"
-#include "../headers/Modoc.h"
+#include "../headers/modoc.h"
 
 procedure start;
 procedure map_enter_p_proc;

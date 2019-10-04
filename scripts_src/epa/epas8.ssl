@@ -9,7 +9,7 @@
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
 
 #include "../headers/command.h"
-#include "../headers/EPAX.h"
+#include "../headers/epax.h"
 
 #define LVAR_Herebefore                 (4)
 #define LVAR_Hostile                    (5)

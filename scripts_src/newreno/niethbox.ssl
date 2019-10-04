@@ -24,7 +24,7 @@
 #define NAME                    SCRIPT_NIETHBOX
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 /* Defines and Macros */
 
 #define LVAR_Restock_Time                 (0)

@@ -16,7 +16,7 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/Raiders1.h"
+#include "../headers/raiders1.h"
 #include "../headers/updatmap.h"
 
 // For Raiders Map from Safe flag.
@@ -24,9 +24,9 @@
 #define NAME                    SCRIPT_RAIDERS1
 
 #include "../headers/command.h"
-#include "../headers/Raiders.h"
-#include "../headers/Raiders2.h"
-#include "../headers/NewReno.h"
+#include "../headers/raiders.h"
+#include "../headers/raiders2.h"
+#include "../headers/newreno.h"
 
 procedure start;
 procedure map_enter_p_proc;

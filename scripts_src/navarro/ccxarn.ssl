@@ -35,7 +35,7 @@
 #define TILE_SEV                27356
 
 #include "../headers/command.h"
-#include "../headers/ModReact.h"
+#include "../headers/modreact.h"
 
 /* Standard Script Procedures */
 procedure start;

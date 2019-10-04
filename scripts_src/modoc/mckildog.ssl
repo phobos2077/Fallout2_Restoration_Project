@@ -21,7 +21,7 @@
 #define NAME                    SCRIPT_MCKILDOG
 
 #include "../headers/command.h"
-#include "../headers/ModMain.h"
+#include "../headers/modmain.h"
 #include "../headers/modoc.h"
 
 /* Standard Script Procedures */

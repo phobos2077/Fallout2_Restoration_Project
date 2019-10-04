@@ -17,12 +17,12 @@
 /* Include Files */
 
 #include "../headers/define.h"
-#include "../headers/ModGard.h"
+#include "../headers/modgard.h"
 
 #define NAME                    SCRIPT_MCMOLRAT
 
 #include "../headers/command.h"
-#include "../headers/Modoc.h"
+#include "../headers/modoc.h"
 
 /* Standard Script Procedures */
 procedure start;

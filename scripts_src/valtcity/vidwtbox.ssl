@@ -24,7 +24,7 @@
 #define NAME                    SCRIPT_VIDWTBOX
 
 #include "../headers/command.h"
-#include "../headers/Vctydwtn.h"
+#include "../headers/vctydwtn.h"
 /* Defines and Macros */
 
 /* Standard Script Procedures */

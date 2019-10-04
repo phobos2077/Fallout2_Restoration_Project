@@ -2,7 +2,7 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#define EXTRA_HEADER                         "..\headers\Modoc.h"
+#define EXTRA_HEADER                         "../headers/modoc.h"
 
 #define LVAR_Restock_Time                    (1)
 #define LVAR_Restock_Time_Fix                (2) //added by killap
@@ -43,5 +43,5 @@
                                                 end                                                         \
                                              end
 
-#include "../headers/ModMain.h"
-#include "../generic/ziLocker.ssl"
+#include "../headers/modmain.h"
+#include "../generic/zilocker.ssl"

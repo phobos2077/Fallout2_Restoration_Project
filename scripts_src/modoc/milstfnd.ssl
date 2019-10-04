@@ -2,7 +2,7 @@
 	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
-#define EXTRA_HEADER                         "..\headers\Modoc.h"
+#define EXTRA_HEADER                         "../headers/modoc.h"
 
 #define LOCKER_LOCKABLE                      (false)
 #define genereral_caught_action              if (caught_tamper) then begin          \
@@ -26,5 +26,5 @@
 #define look_at_action                       script_overrides; display_msg(message_str(SCRIPT_MILSTFND, 100));
 #define description_action                   script_overrides; display_msg(message_str(SCRIPT_MILSTFND, 110));
 
-#include "../headers/ModInn.h"
-#include "../generic/ziLocker.ssl"
+#include "../headers/modinn.h"
+#include "../generic/zilocker.ssl"

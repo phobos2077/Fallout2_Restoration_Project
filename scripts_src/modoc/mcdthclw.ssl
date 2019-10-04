@@ -17,12 +17,12 @@
 /* Include Files */
 
 #include "../headers/define.h"
-#include "../headers/ModInn.h"
+#include "../headers/modinn.h"
 
 #define NAME                    SCRIPT_MCDTHCLW
 
 #include "../headers/command.h"
-#include "../headers/Modoc.h"
+#include "../headers/modoc.h"
 
 /* Standard Script Procedures */
 procedure start;

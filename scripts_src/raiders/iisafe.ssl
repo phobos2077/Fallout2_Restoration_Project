@@ -19,7 +19,7 @@
 #include "../headers/define.h"
 #define NAME                    SCRIPT_IISAFE
 #include "../headers/command.h"
-#include "../headers/Raiders.h"
+#include "../headers/raiders.h"
 
 /* Standard Script Procedures */
 procedure start;

@@ -16,7 +16,7 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/tribe02.H"
+#include "../headers/tribe02.h"
 #define NAME                    SCRIPT_TRIBESP2
 #include "../headers/command.h"
 

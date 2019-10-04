@@ -18,7 +18,7 @@
 #include "../headers/define.h"
 #define NAME                    SCRIPT_MTRUG
 #include "../headers/command.h"
-#include "../headers/Modoc.h"
+#include "../headers/modoc.h"
 
 /* Standard Script Procedures */
 procedure start;

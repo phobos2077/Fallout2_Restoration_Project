@@ -22,7 +22,7 @@
 
 /* Include Files */
 #include "../headers/define.h"
-#include "../headers/ARCaves.h"
+#include "../headers/arcaves.h"
 
 #define NAME                    SCRIPT_DOOR
 

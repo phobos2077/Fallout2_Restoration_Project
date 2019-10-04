@@ -20,7 +20,7 @@
 #define NAME                    SCRIPT_NSCODY
 
 #include "../headers/command.h"
-#include "../headers/NewReno.h"
+#include "../headers/newreno.h"
 
 /* Standard Script Procedures */
 procedure start;

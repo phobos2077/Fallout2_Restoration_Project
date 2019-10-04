@@ -21,7 +21,7 @@
 #define TOWN_REP_VAR                GVAR_TOWN_REP_THE_DEN
 
 #include "../headers/command.h"
-#include "../headers/Den.h"
+#include "../headers/den.h"
 
 procedure start;
 procedure use_p_proc;
