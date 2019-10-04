@@ -1,6 +1,6 @@
 #define SCRIPT_REALNAME "gl_k_goris_derobing"
 #include "../headers/define.h"
-#include "../headers/rpu.h
+#include "../headers/rpu.h"
 
 variable enabled;
 
