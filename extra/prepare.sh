@@ -26,16 +26,3 @@ mv -f "$compile_exe" "$bin_dir/"
 # sfall headers
 7zr x "$mpack_7z" "scripting_docs/headers"
 mv "scripting_docs/headers" "scripts_src/sfall"
-
-# wcc, check cache
-if [[ ! -f "$cache_dir/wcc386.exe" || ! -f "$cache_dir/wccd386.dll" || ! -f "$cache_dir/dat2.exe" ]]; then
-  wget -q "$sfse_url" -O "$sfse_file"
-  for f in wcc386.exe wccd386.dll dat2.exe; do
-    7zr e "$sfse_file" "$sfse_dir/$f"
-    mv -f "$f" "$cache_dir/"
-  done
-fi
-# copy
-for f in wcc386.exe wccd386.dll dat2.exe; do
-  cp -f "$cache_dir/$f" "$bin_dir/"
-done
