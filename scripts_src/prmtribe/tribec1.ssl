@@ -448,7 +448,7 @@ procedure Node001 begin
       NOption(206,Node999,004);
    end
 
-   NLowOption(800,Node036,4);
+   NLowOption(800,Node036);
 
 end
 
@@ -803,8 +803,8 @@ end
 
 procedure Node039 begin
    Reply(801);
-   NLowOption(802,Node040,4);
-   NLowOption(803,Node999,4);
+   NLowOption(802,Node040);
+   NLowOption(803,Node999);
 end
 
 procedure Node040 begin
@@ -818,22 +818,22 @@ procedure Node040 begin
    Reply(810);
 
    if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
-      NLowOption(812,Node038,4);
+      NLowOption(812,Node038);
    else
-      NLowOption(811,Node902,4);
+      NLowOption(811,Node902);
 end
 
 procedure Node041 begin
    call removeWeapons;
    Reply(840);
-   NLowOption(841,Node999,4);
+   NLowOption(841,Node999);
 end
 
 //dumb, change mind?
 procedure Node042 begin
    Reply(820);
-   NLowOption(821,Node040,4);
-   NLowOption(803,Node999,4);
+   NLowOption(821,Node040);
+   NLowOption(803,Node999);
 end
 
 procedure Node043 begin
@@ -843,14 +843,14 @@ procedure Node043 begin
    Reply(830);
 
    if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
-      NLowOption(831,Node041,4);
+      NLowOption(831,Node041);
    else
-      NLowOption(832,Node999,4);
+      NLowOption(832,Node999);
 end
 
 procedure Node044 begin
    Reply(850);
-   NLowOption(851,Node999,4);
+   NLowOption(851,Node999);
 end
 
 procedure Node045 begin

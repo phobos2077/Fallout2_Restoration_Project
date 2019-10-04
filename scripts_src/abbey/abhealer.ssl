@@ -125,7 +125,7 @@ procedure Node001 begin
  Reply(300);
  if (dude_cur_hits < dude_max_hits) then
  NOption(301, Node002, 4);
- NLowOption(302,Node003,4);
+ NLowOption(302,Node003);
  NOption(303,Node007,4);
  NOption(304,Node999,4);
 end
@@ -145,19 +145,19 @@ end
 
 procedure Node003 begin
  Reply(402);
- NLowOption(403,Node004,4);
- NLowOption(404,Node999,4);
+ NLowOption(403,Node004);
+ NLowOption(404,Node999);
 end
 
 procedure Node004 begin
  Reply(405);
- NLowOption(406,Node005,4);
- NLowOption(407,Node999,4);
+ NLowOption(406,Node005);
+ NLowOption(407,Node999);
 end
 
 procedure Node005 begin
  Reply(408);
- NLowOption(409,Node999,4);
+ NLowOption(409,Node999);
  inc_general_rep(-15);
  set_local_var(LVAR_Fleeing,3);
 end
