@@ -308,6 +308,6 @@ procedure Node014 begin
    GOption(473, Node999, 004);
    GOption(474, Node999, 004);
 
-   NLowOption(476, Node999, 004);
+   NLowOption(476, Node999);
 end
 //end added
