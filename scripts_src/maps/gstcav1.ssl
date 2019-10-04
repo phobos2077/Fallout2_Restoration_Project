@@ -75,7 +75,7 @@ end
                                           critter_injure(x, DAM_KNOCKED_DOWN);                  \
                                        end                                                      \
                                     end else begin                                              \
-                                       debug_msg("" + obj_name(x) + " PASSED AGILITY CHECK");   \
+                                       ndebug("" + obj_name(x) + " PASSED AGILITY CHECK");   \
                                     end                                                         \
                                  end                                                            \
                               end
@@ -83,7 +83,7 @@ end
 procedure map_enter_p_proc begin
 variable the_roll;
    set_entered_caves;
-   debug_msg("global_var(GVAR_LOAD_MAP_INDEX) == " + global_var(GVAR_LOAD_MAP_INDEX));
+   ndebug("global_var(GVAR_LOAD_MAP_INDEX) == " + global_var(GVAR_LOAD_MAP_INDEX));
    if (is_loading_game == false) then begin
       if (came_from_cave_2) then begin
          off_came_from_cave_2;
@@ -124,6 +124,6 @@ procedure map_exit_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   debug_msg("cur_map_index == "+cur_map_index);
+   ndebug("cur_map_index == "+cur_map_index);
    Cavern_Lighting;
 end

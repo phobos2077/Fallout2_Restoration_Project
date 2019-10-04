@@ -152,7 +152,7 @@ procedure critter_p_proc begin
       set_local_var(LVAR_Hostile,1);
       if (map_var(MVAR_Vault15_Guards_Attack) != 1) then begin
          set_map_var(MVAR_Vault15_Guards_Attack, 1);
-         debug_msg("BCGENGRD: set guards to attack");
+         ndebug("set guards to attack");
       end
       self_attack_dude;
    end
@@ -162,7 +162,7 @@ procedure critter_p_proc begin
       if not combat_is_initialized then begin
          set_local_var(LVAR_Hostile, 2);
       end
-      debug_msg("BCGENGRD: Darion Attack:" + map_var(MVAR_Darion_Attack) + " Guards Attack: " + map_var(MVAR_Vault15_Guards_Attack));
+      ndebug("Darion Attack:" + map_var(MVAR_Darion_Attack) + " Guards Attack: " + map_var(MVAR_Vault15_Guards_Attack));
    end else if (map_var(MVAR_Grilled_Player) == 0) then begin
       if (canISee) then begin
          dialogue_system_enter;
@@ -181,7 +181,7 @@ procedure damage_p_proc begin
       set_local_var(LVAR_Personal_Enemy,1);
       if (map_var(MVAR_Vault15_Guards_Attack) != 1) then begin
          set_map_var(MVAR_Vault15_Guards_Attack, 1);
-         debug_msg("BCGENGRD: set guards to attack");
+         ndebug("set guards to attack");
       end
    end
 end

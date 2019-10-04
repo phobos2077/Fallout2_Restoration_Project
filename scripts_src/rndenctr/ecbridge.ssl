@@ -119,7 +119,7 @@ procedure map_exit_p_proc begin
 end
 
 procedure start begin
-   debug_msg("ECBRIDGE: in the start");
+   ndebug("in the start");
 end
 
 procedure timed_event_p_proc begin
@@ -147,7 +147,7 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BRIDGE);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
    add_timer_event(self_obj, 0, TIMER_NODE011);
-   debug_msg("ECBRIDGE: in the map enter");
+   ndebug("in the map enter");
 end
 
 
@@ -424,7 +424,7 @@ procedure do_cow begin
 end
 
 procedure selfLeave begin
-   debug_msg("ECBRIDGE: should be leaving going to tile: " + local_var(LVAR_Leave_Tile));
+   ndebug("should be leaving going to tile: " + local_var(LVAR_Leave_Tile));
    if (local_var(LVAR_Leave_Tile) == LEAVE_TILE and self_tile == LEAVE_TILE) then begin
       set_local_var(LVAR_Leave_Tile, LEAVE_TILE1);
    end

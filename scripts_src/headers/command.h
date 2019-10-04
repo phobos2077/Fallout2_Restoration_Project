@@ -46,7 +46,7 @@ variable global_temp;
                                                animate_##type##_to_tile(tile_num_in_direction(self_tile, global_temp, dist));                        \
                                                global_temp := (global_temp + 1) % 6;                                                                 \
                                                while ((anim_busy(self_obj) == false) and (global_temp != rotation_to_tile(x, self_tile))) do begin   \
-                                                  debug_msg("flee loop: rot == "+global_temp);                                                       \
+                                                  ndebug("flee loop: rot == "+global_temp);                                                       \
                                                   animate_##type##_to_tile(tile_num_in_direction(self_tile, global_temp, dist));                     \
                                                   global_temp := (global_temp + 1) % 6;                                                              \
                                                end                                                                                                   \
@@ -163,15 +163,15 @@ variable step_tile;
                                                    if ((self_tile != the_tile) and (the_tile != 0)) then begin                                                                                  \
                                                       if ((dest_tile == the_tile) and (step_tile < 0)) then begin                                                                               \
                                                          step_tile += 1;                                                                                                                        \
-                                                         debug_msg("step_tile: " + step_tile);                                                                                                  \
+                                                         ndebug("step_tile: " + step_tile);                                                                                                  \
                                                       end else if (anim_busy(self_obj) == false) then begin                                                                                     \
                                                          dest_tile := the_tile;                                                                                                                 \
                                                          step_tile := the_tile;                                                                                                                 \
                                                          animate_##move_type##_to_tile(step_tile);                                                                                              \
                                                          while ((anim_busy(self_obj) == false) and (((tile_distance(self_tile, the_tile)) >= (tile_distance(step_tile, the_tile))))) do begin   \
-                                                            debug_msg("rot: " + rotation_to_tile(step_tile, self_tile));                                                                        \
+                                                            ndebug("rot: " + rotation_to_tile(step_tile, self_tile));                                                                        \
                                                             step_tile := tile_num_in_direction(step_tile, rotation_to_tile(step_tile, self_tile), (x % tile_distance(step_tile, self_tile)));   \
-                                                            debug_msg("step_var: " + step_tile);                                                                                                \
+                                                            ndebug("step_var: " + step_tile);                                                                                                \
                                                             animate_##move_type##_to_tile(step_tile);                                                                                           \
                                                          end                                                                                                                                    \
                                                          if (anim_busy(self_obj) == false) then begin                                                                                           \
@@ -319,18 +319,18 @@ variable step_tile;
                                                 set_global_var(GVAR_PLAYER_MARRIED, spouse_female);                     \
                                              end                                                                        \
                                           end                                                                           \
-                                          debug_msg("set_dude_married")
+                                          ndebug("set_dude_married")
 #define dude_spouse_was_male              (global_var(GVAR_PLAYER_WAS_MARRIED) == spouse_male)
 #define dude_spouse_was_female            (global_var(GVAR_PLAYER_WAS_MARRIED) == spouse_female)
 #define dude_was_married                  (global_var(GVAR_PLAYER_WAS_MARRIED) != 0)
-#define set_dude_was_married              debug_msg("start: set_dude_was_married");                                     \
+#define set_dude_was_married              ndebug("start: set_dude_was_married");                                     \
                                           if ((dude_is_married) and (dude_was_married == false)) then begin             \
-                                             debug_msg("   GVAR_PLAYER_WAS_MARRIED before == " + global_var(GVAR_PLAYER_WAS_MARRIED)); \
+                                             ndebug("   GVAR_PLAYER_WAS_MARRIED before == " + global_var(GVAR_PLAYER_WAS_MARRIED)); \
                                              set_global_var(GVAR_PLAYER_WAS_MARRIED, global_var(GVAR_PLAYER_MARRIED));  \
-                                             debug_msg("   GVAR_PLAYER_WAS_MARRIED after == " + global_var(GVAR_PLAYER_WAS_MARRIED));  \
+                                             ndebug("   GVAR_PLAYER_WAS_MARRIED after == " + global_var(GVAR_PLAYER_WAS_MARRIED));  \
                                              set_global_var(GVAR_PLAYER_MARRIED, spouse_none);                          \
                                           end                                                                           \
-                                          debug_msg("finished: set_dude_was_married")
+                                          ndebug("finished: set_dude_was_married")
 
 /*********************************************************
  General information dealing with a critter script
@@ -469,12 +469,12 @@ variable forced_node;
                                                          in_dialog := false;                       \
                                                       end else call x
 
-#define force_dialog_start(the_node)            debug_msg("force_dialog_start("+forced_node+"): "+self_name);  \
+#define force_dialog_start(the_node)            ndebug("force_dialog_start("+forced_node+"): "+self_name);  \
                                                       forced_node := the_node;                                    \
                                                       dialogue_system_enter
 
 #define check_forced_dialog                           if (forced_node != 0) then begin          \
-                                                         debug_msg("calling forced dialog: "+forced_node);\
+                                                         ndebug("calling forced dialog: "+forced_node);\
                                                          start_dialog_at_node(forced_node);     \
                                                          forced_node := 0;                      \
                                                       end
@@ -694,12 +694,12 @@ FLOAT_MSG_BLUE
 #define vault_fake_13B_visit                (town_known(AREA_FAKE_VAULT_13B) == MARK_STATE_VISITED)
 
 #define mark_on_map(x)                      if (town_known(x) == MARK_STATE_UNKNOWN) then begin          \
-                                               debug_msg("  mark_on_map("+x+")");                        \
+                                               ndebug("  mark_on_map("+x+")");                        \
                                                mark_area_known(MARK_TYPE_TOWN, x, MARK_STATE_KNOWN);     \
                                             end
 
 #define unmark_on_map(x)                    if (town_known(x) != MARK_STATE_UNKNOWN) then begin          \
-                                               debug_msg(" unmark_on_map("+x+")");                       \
+                                               ndebug(" unmark_on_map("+x+")");                       \
                                                mark_area_known(MARK_TYPE_TOWN, x, MARK_STATE_UNKNOWN);   \
                                             end
 
@@ -799,7 +799,7 @@ variable removed_qty;
 #define remove_armor(who_obj)                                                                            \
             if (critter_wearing_armor(who_obj)) then begin                                               \
                restock_obj := critter_inven_obj(who_obj,INVEN_TYPE_WORN);                                \
-               debug_msg("armour pid == "+obj_pid(restock_obj));                                         \
+               ndebug("armour pid == "+obj_pid(restock_obj));                                         \
                rm_obj_from_inven(who_obj, restock_obj);                                                  \
                add_obj_to_inven(who_obj, restock_obj);                                                   \
             end
@@ -858,7 +858,7 @@ variable removed_qty;
            if (obj_is_carrying_obj_pid(who_obj, weapon_pid)) then begin                      \
               wield_obj_critter(who_obj, obj_carrying_pid_obj(who_obj, weapon_pid));         \
            end else begin                                                                    \
-              debug_msg("NOT ARMING THE WEAPON!!!");                                         \
+              ndebug("NOT ARMING THE WEAPON!!!");                                         \
            end                                                                               \
         end                                                                                  \
         if (ammo_pid != 0) then begin                                                        \
@@ -1126,7 +1126,7 @@ variable removed_qty;
             set_obj_visibility(global_temp,true);                                                                                                                     \
             move_to(global_temp, tile, elev);                                                                                                                         \
          end                                                                                                                                                          \
-         debug_msg("created out of business @ tile == " + tile + " / elevation == " + elev)
+         ndebug("created out of business @ tile == " + tile + " / elevation == " + elev)
 #define create_north_out_of_business(x, e)            create_out_of_business(x, e, PID_OUT_OF_BUSINESS_NORTH)
 #define create_east_out_of_business(x, e)             create_out_of_business(x, e, PID_OUT_OF_BUSINESS_EAST)
 
@@ -1179,11 +1179,11 @@ variable removed_qty;
                                                             dec_global_var_amt(GVAR_WRIGHT_FAMILY_COUNTER,x);                    \
                                                          end                                                                     \
                                                       end                                                                        \
-                                                      debug_msg("\nfamily standings: ");                                         \
-                                                      debug_msg("\n  Salvatore == "+global_var(GVAR_SALVATORE_FAMILY_COUNTER));  \
-                                                      debug_msg("\n  Bishop == "+global_var(GVAR_BISHOP_FAMILY_COUNTER));        \
-                                                      debug_msg("\n  Mordino == "+global_var(GVAR_MORDINO_FAMILY_COUNTER));      \
-                                                      debug_msg("\n  Wright == "+global_var(GVAR_WRIGHT_FAMILY_COUNTER))
+                                                      ndebug("\nfamily standings: ");                                         \
+                                                      ndebug("\n  Salvatore == "+global_var(GVAR_SALVATORE_FAMILY_COUNTER));  \
+                                                      ndebug("\n  Bishop == "+global_var(GVAR_BISHOP_FAMILY_COUNTER));        \
+                                                      ndebug("\n  Mordino == "+global_var(GVAR_MORDINO_FAMILY_COUNTER));      \
+                                                      ndebug("\n  Wright == "+global_var(GVAR_WRIGHT_FAMILY_COUNTER))
 #define family_crushed(x)                             (((x == family_salvatore) and (global_var(GVAR_SALVATORE_FAMILY_COUNTER) <= -1)) or \
                                                        ((x == family_bishop) and (global_var(GVAR_BISHOP_FAMILY_COUNTER) <= -1)) or       \
                                                        ((x == family_mordino) and (global_var(GVAR_MORDINO_FAMILY_COUNTER) <= -1)) or     \
@@ -1282,7 +1282,6 @@ end
 
 
 #define is_critter(obj)    (obj_type(obj) == OBJ_TYPE_CRITTER)
-#define ndebug(message)    debug_msg(NAME + ": " + message + "\n")
 
 procedure doVaultBoxerAppearance begin
    variable enabled := rpu_msetting(set_vault_boxer);

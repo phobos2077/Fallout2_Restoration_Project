@@ -251,7 +251,7 @@ procedure doLoadStuff begin
    variable rand;
    variable obj;
 
-   debug_msg("ECMSTSTR: in loadstuff");
+   ndebug("in loadstuff");
 
    levelDiff := (floor (dude_level * .75)) - MY_LEVEL;
    SET_MY_LEVEL(MY_LEVEL + levelDiff);

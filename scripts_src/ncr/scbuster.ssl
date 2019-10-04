@@ -121,7 +121,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMERATTACK) then begin
-      debug_msg("SCBUSTER: in timer attack");
+      ndebug("in timer attack");
       if (tile_distance_objs(self_obj, dude_obj) < 5 and (local_var(LVAR_Shop_Open) == 0 or local_var(LVAR_Personal_Enemy) == 1)) then begin
          set_local_var(LVAR_Personal_Enemy,1);
          set_local_var(LVAR_Hostile,2);
@@ -230,7 +230,7 @@ procedure talk_p_proc begin
 
    book_obj_look := 0;
    if (local_var(LVAR_Shop_Open) == 1 and local_var(LVAR_Personal_Enemy) == 0) then begin
-      debug_msg("should be talking");
+      ndebug("should be talking");
 
       if (use_book_obj == 0) then begin
          use_book_obj := Random(1, 3);

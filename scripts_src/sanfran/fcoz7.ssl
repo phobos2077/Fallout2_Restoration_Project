@@ -797,7 +797,7 @@ end
 
 procedure doAdjust begin
    fadeout(1);
-   debug_msg("FCOZ7: disabling ui");
+   ndebug("FCOZ7: disabling ui");
    game_ui_disable;
 
    dude_last_tile := dude_tile;
@@ -833,14 +833,14 @@ procedure doAdjustLesson1 begin
       float_msg(dude_obj, mstr(227), FLOAT_MSG_YELLOW);
       add_timer_event(self_obj, game_ticks(4), TIMER_DOADJUST_LESSON1); //changed from 2 -killap
    end else if (adjustLesson == 2) then begin
-      debug_msg("FCOZ7: enabling ui");
+      ndebug("FCOZ7: enabling ui");
       game_ui_enable;
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node038;
       gSay_End;
       end_dialogue;
-      debug_msg("FCOZ7: disabling");
+      ndebug("FCOZ7: disabling");
       game_ui_disable;
       add_timer_event(self_obj, 0, TIMER_DOADJUST_END);
    end
@@ -853,9 +853,9 @@ procedure doAdjustEnd begin
    if (Random(1, 100) <= 50) then begin
       set_critter_stat(dude_obj, STAT_lu, 1);
       set_critter_stat(dude_obj, STAT_iq, 1);
-      debug_msg("FCOZ7: uhh made luck and iq");
+      ndebug("FCOZ7: uhh made luck and iq");
    end else begin
-      debug_msg("FCOZ7: uhh lost luck");
+      ndebug("FCOZ7: uhh lost luck");
       set_critter_stat(dude_obj, STAT_lu, -1);
    end
 
@@ -871,7 +871,7 @@ procedure doAdjustEnd begin
    reg_anim_begin();
    anim(self_obj, ANIMATE_ROTATION, self_last_rot);
    reg_anim_end();
-   debug_msg("FCOZ7: enabling ui");
+   ndebug("FCOZ7: enabling ui");
    game_ui_enable;
    fadein(1);
 end

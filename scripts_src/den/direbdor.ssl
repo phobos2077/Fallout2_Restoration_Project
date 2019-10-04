@@ -63,16 +63,16 @@ end
 #include "../den/didoor.ssl"
 
 procedure test_use_tamper begin
-   debug_msg("test_use_tamper");
+   ndebug("test_use_tamper");
    send_tamper_to_guard_who_sees
    if (check_guard != 0) then begin
       if (user_of_door == dude_obj) then begin
-         debug_msg("   user_of_door == dude_obj");
+         ndebug("   user_of_door == dude_obj");
          script_overrides;
          flush_add_timer_event(check_guard, 0, timed_event_door_tamper);
          return true;
       end else if (obj_in_party(user_of_door)) then begin
-         debug_msg("   obj_in_party(user_of_door)");
+         ndebug("   obj_in_party(user_of_door)");
          script_overrides;
          return true;
       end
@@ -98,7 +98,7 @@ end
 
 procedure test_use_skill_tamper begin
    send_tamper_to_guard_who_sees
-   debug_msg("test_use_skill_tamper");
+   ndebug("test_use_skill_tamper");
    if (check_guard != 0) then begin
       if ((action_being_used == SKILL_LOCKPICK) or (action_being_used == SKILL_TRAPS)) then begin
          if (obj_can_see_obj(check_guard, user_of_door)) then begin

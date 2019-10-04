@@ -87,11 +87,11 @@ end
 procedure use_p_proc begin
    if (cur_map_index == MAP_SIERRA_123) then begin
        if ((elevation(self_obj) == map_var(MVAR_Eyeball_Used)) and (tile_num(self_obj) != 19918)) then begin
-           debug_msg("Clearance Granted");
+           ndebug("Clearance Granted");
        end
 
        else if ((elevation(self_obj) == map_var(MVAR_Eyeball_Level)) and (tile_num(self_obj) == 19918)) then begin
-           debug_msg("Clearance Granted");
+           ndebug("Clearance Granted");
        end
 
        else begin

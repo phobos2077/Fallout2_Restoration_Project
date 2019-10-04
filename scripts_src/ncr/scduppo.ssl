@@ -339,7 +339,7 @@ procedure Node006b begin
    set_cattle_drive(CATTLE_ACCEPT);
 
    val := (game_time + (ONE_GAME_DAY)) + ((7 - (game_time_hour / 100)) * ONE_GAME_HOUR);
-   debug_msg("SCDUPPO: min_time: " + val);
+   ndebug("min_time: " + val);
 
    set_global_var(GVAR_NCR_CATTLE_TIME_MIN, val);
    set_global_var(GVAR_NCR_CATTLE_TIME_MAX, val + (ONE_GAME_HOUR * 6));
@@ -417,7 +417,7 @@ procedure checkConvince begin
    variable val;
    // skill_check(dude_obj, SKILL_CONVERSANT, -((amount of money wanted / amount of money payed) * 10));
 
-   debug_msg("SCDUPPO: skill checked with negative: " + -(BRIBE_AMOUNT / payAmount) * 10);
+   ndebug("skill checked with negative: " + -(BRIBE_AMOUNT / payAmount) * 10);
    if (payAmount < BRIBE_AMOUNT) then begin
       if (skill_success(dude_obj, SKILL_CONVERSANT, -((BRIBE_AMOUNT / payAmount) * 10))) then
          return 1;

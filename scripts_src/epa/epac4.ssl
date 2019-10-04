@@ -167,7 +167,7 @@ begin
       set_global_var(GVAR_CHAMPION_REPUTATION, 0);
     end
     set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + -10);
-    debug_msg("Player gains " + -10 + " Karma Points.");
+    ndebug("Player gains " + -10 + " Karma Points.");
     set_global_var(GVAR_KARMA_HOLY_WARRIOR, 0);
     set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES, 0);
     set_global_var(GVAR_KARMA_SHIELD_OF_HOPE, 0);
@@ -280,7 +280,7 @@ end
 
 procedure Node999
 begin
-  debug_msg("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
   if (local_var(LVAR_Herebefore) == 0) then
     set_local_var(LVAR_Herebefore, 1);
 end

@@ -132,15 +132,15 @@ procedure destroy_p_proc begin
 
    if (global_var(GVAR_REDDING_MORTON_BROTHERS) == MORTON_TOAD_HUNTING) then begin
        set_global_var(GVAR_REDDING_MORTON_BROTHERS,MORTON_NEWT_HUNTING);
-       debug_msg("global_var("+GVAR_REDDING_MORTON_BROTHERS+") == "+MORTON_NEWT_HUNTING);
+       ndebug("global_var("+GVAR_REDDING_MORTON_BROTHERS+") == "+MORTON_NEWT_HUNTING);
    end
    else if (global_var(GVAR_REDDING_MORTON_BROTHERS) == MORTON_NEWT_HUNTING) then begin
        set_global_var(GVAR_REDDING_MORTON_BROTHERS,MORTON_SNAKE_HUNTING);
-       debug_msg("global_var("+GVAR_REDDING_MORTON_BROTHERS+") == "+MORTON_SNAKE_HUNTING);
+       ndebug("global_var("+GVAR_REDDING_MORTON_BROTHERS+") == "+MORTON_SNAKE_HUNTING);
    end
    else begin
        set_global_var(GVAR_REDDING_MORTON_BROTHERS,MORTON_SNAKE_DEAD);
-       debug_msg("global_var("+GVAR_REDDING_MORTON_BROTHERS+") == "+MORTON_SNAKE_DEAD);
+       ndebug("global_var("+GVAR_REDDING_MORTON_BROTHERS+") == "+MORTON_SNAKE_DEAD);
    end
 
 /* Set global_variable for Enemy status*/

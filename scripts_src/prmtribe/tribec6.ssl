@@ -229,7 +229,7 @@ end
 /* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
    exit from the dialog system without any reprisals from the NPC. */
 procedure Node999 begin
-   debug_msg("LVAR_Herebefore == "+local_var(LVAR_Herebefore));
+   ndebug("LVAR_Herebefore == "+local_var(LVAR_Herebefore));
    if (local_var(LVAR_Herebefore) == 0) then
    begin
       set_local_var(LVAR_Herebefore,1);

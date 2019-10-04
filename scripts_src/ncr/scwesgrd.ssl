@@ -413,7 +413,7 @@ end
 procedure FieldOff begin
    variable tile;
 
-   debug_msg("SCWESGRD: i_westin_emitter_obj: " + i_westin_emitter_obj);
+   ndebug("i_westin_emitter_obj: " + i_westin_emitter_obj);
    if (i_westin_emitter_obj != -1 and global_var(GVAR_NCR_POWER_ON) == POWER_ON) then begin
       if (cur_map_index == MAP_NCR_DOWNTOWN) then
          tile := FIELD_TILE_DOWNTOWN;

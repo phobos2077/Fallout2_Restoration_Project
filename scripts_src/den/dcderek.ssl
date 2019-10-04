@@ -121,7 +121,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg("becky_job(state_becky_job_book) == " + (becky_job(state_becky_job_book)) + " / becky_work == " + (becky_work));
+   ndebug("becky_job(state_becky_job_book) == " + (becky_job(state_becky_job_book)) + " / becky_work == " + (becky_work));
    if (night) then begin
       call Node001;
    end else if ((becky_job(state_becky_job_book))) then begin

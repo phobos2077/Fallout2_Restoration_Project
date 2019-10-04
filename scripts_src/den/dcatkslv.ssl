@@ -58,7 +58,7 @@ procedure Node001;
 #define slave_kill_slaver(x)                                                          \
             if (x != 0) then begin                                                    \
                if (self_can_see_slaver(x)) then begin                                 \
-                  debug_msg("setting slave to attack slaver");                        \
+                  ndebug("setting slave to attack slaver");                        \
                   set_attack := x;                                                    \
                   attack(x);                                                          \
                end                                                                    \
@@ -162,7 +162,7 @@ procedure map_exit_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   //debug_msg("hostile slave on elevation + "+self_elevation);
+   //ndebug("hostile slave on elevation + "+self_elevation);
 end
 
 procedure critter_p_proc begin
@@ -205,7 +205,7 @@ end
 procedure destroy_p_proc begin
    dec_global_var(GVAR_HOSTILE_SLAVE_COUNT);
    set_killed_slave_on_run;
-   debug_msg("current hostile slave count is " + global_var(GVAR_HOSTILE_SLAVE_COUNT));
+   ndebug("current hostile slave count is " + global_var(GVAR_HOSTILE_SLAVE_COUNT));
    inc_good_critter
 end
 

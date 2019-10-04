@@ -116,7 +116,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_CHECK_END_FIGHT) then begin
-      debug_msg("SCHOSS: checking for weapon");
+      ndebug("checking for weapon");
 
       if (self_cur_hits <= (self_max_hits / 3)) then begin
          call surrender;

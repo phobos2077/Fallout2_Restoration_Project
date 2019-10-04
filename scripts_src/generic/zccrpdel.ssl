@@ -1080,7 +1080,7 @@ procedure check_Pass_Line begin
    variable total;
 
    total := die1 + die2;
-   debug_msg("ZCCRPDEL: checking pass line totol die rolls: " + total);
+   ndebug("checking pass line totol die rolls: " + total);
    if (local_var(LVAR_Point) == 0) then begin
       if (total == 7) then begin
          sayString += mstr(600) + " ";
@@ -1116,7 +1116,7 @@ procedure exchangeCaps(variable amount) begin
 #ifdef DEALER_KEEP_CAPS
    item_caps_adjust(self_obj, -amount);
 #endif
-   debug_msg("ZCCRPDEL: giving player: " + amount);
+   ndebug("giving player: " + amount);
    item_caps_adjust(dude_obj, amount);
 end
 
@@ -1474,7 +1474,7 @@ procedure check_Num_##number begin                                              
             end                                                                             \
          end                                                                                \
          if (local_var(LVAR_Point) == total) then begin                                     \
-            debug_msg("ZCCRPDEL: uhh removing point: " + local_var(LVAR_Point) + " total " + total); \
+            ndebug("uhh removing point: " + local_var(LVAR_Point) + " total " + total); \
             removePoint := 1;                                                               \
          end                                                                                \
          set_local_var(LVAR_Num_##number, 0);                                               \
@@ -1678,7 +1678,7 @@ NODEODDS(9)
 NODEODDS(10)
 
 procedure NodeOdds begin
-   debug_msg("got to node odds");
+   ndebug("got to node odds");
    Reply(810);
 
    if (local_var(LVAR_Num_4)) then

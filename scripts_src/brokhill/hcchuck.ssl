@@ -140,7 +140,7 @@ procedure critter_p_proc begin
    //added by killap
    if( ( map_var( MVAR_Chuck_Awoke ) == 3 ) and ( tile_num( self_obj ) != 30758 ) and ( anim_busy( self_obj ) == false ) )then begin
       add_timer_event( self_obj, 1, 1 );
-      debug_msg("Chuck should be moving again");
+      ndebug("Chuck should be moving again");
    end
    //added by killap
 

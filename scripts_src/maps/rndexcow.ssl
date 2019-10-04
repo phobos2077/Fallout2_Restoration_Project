@@ -54,7 +54,7 @@ procedure map_exit_p_proc begin
       if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
           tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
           tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
-         debug_msg("car_give_to_party");
+         ndebug("car_give_to_party");
          set_global_var(GVAR_CAR_PLACED_TILE, 0);
          car_give_to_party;
       end
@@ -90,7 +90,7 @@ procedure LoadCritters begin
    variable obj;
    variable tile;
 
-   debug_msg("MVAR_Current_Cow_Bombs: " + map_var(MVAR_Current_Cow_Bombs));
+   ndebug("MVAR_Current_Cow_Bombs: " + map_var(MVAR_Current_Cow_Bombs));
    numLoad := NUM_COWS - map_var(MVAR_Current_Cow_Bombs);
    while (numLoad > 0) do begin
       tile := tile_num_in_direction(LOAD_TILE, Random(0, 5), Random(1, 10));

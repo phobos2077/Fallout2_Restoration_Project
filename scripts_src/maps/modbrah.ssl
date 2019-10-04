@@ -75,6 +75,6 @@ procedure map_update_p_proc begin
       check_kill_all_brahmin
    end
    last_update := game_time;
-   debug_msg("  game_time_hour == "+game_time_hour);
-   debug_msg("  countdown in ticks == "+ (global_var(GVAR_MODOC_KILL_ALL_BRAHMIN_TIME) - game_time));
+   ndebug("  game_time_hour == "+game_time_hour);
+   ndebug("  countdown in ticks == "+ (global_var(GVAR_MODOC_KILL_ALL_BRAHMIN_TIME) - game_time));
 end

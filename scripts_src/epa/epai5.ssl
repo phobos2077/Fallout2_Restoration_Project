@@ -122,7 +122,7 @@ begin
   if (global_var(GVAR_EPADOOR_LOCK) == 0) then
    set_global_var(GVAR_EPADOOR_LOCK, 1);
 
-  debug_msg("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
   if (local_var(LVAR_Herebefore) == 0) then
     set_local_var(LVAR_Herebefore, 2);
 end

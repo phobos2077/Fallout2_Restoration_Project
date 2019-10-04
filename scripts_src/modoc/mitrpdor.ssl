@@ -26,10 +26,10 @@ procedure use_p_proc;
 procedure map_enter_p_proc;
 
 #define check_trap_door                      if (entered_caves) then begin                         \
-                                                debug_msg("SHOULD BE SHOWING TRAP DOOR");          \
+                                                ndebug("SHOULD BE SHOWING TRAP DOOR");          \
                                                 check_set_obj_visiblility(self_obj, false);               \
                                              end else if (map_first_run) then begin                \
-                                                debug_msg("SHOULD BE FUCKING HIDING TRAP DOOR");   \
+                                                ndebug("SHOULD BE FUCKING HIDING TRAP DOOR");   \
                                                 check_set_obj_visiblility(self_obj, true);                \
                                              end
 
@@ -43,6 +43,6 @@ procedure use_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   debug_msg("trap door map_enter_p_proc: " + map_is_known(MAP_GHOST_CAVERN));
+   ndebug("trap door map_enter_p_proc: " + map_is_known(MAP_GHOST_CAVERN));
    check_trap_door
 end

@@ -188,7 +188,7 @@ end
    In here, various things can happen. The most common response is instant hostility which
    will be remembered. */
 procedure pickup_p_proc begin
-   debug_msg("calling old pickup for some reason: source_obj:" + source_obj + "self_obj: " + self_obj+ " dude_obj: " + dude_obj);
+   ndebug("calling old pickup for some reason: source_obj:" + source_obj + "self_obj: " + self_obj+ " dude_obj: " + dude_obj);
 end
 
 /* The dialog system is setup and prepares the player to talk to this NPC. Where To Go

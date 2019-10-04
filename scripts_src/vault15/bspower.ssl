@@ -126,7 +126,7 @@ procedure use_skill_on_p_proc begin
             if (skill_success(dude_obj, Skill_Used, 0)) then begin
                set_map_var(MVAR_Vault15_Power, 1);
                set_map_var(MVAR_Vault15_Field, map_var(MVAR_Vault15_Field) bwor FIELD_ON);
-               debug_msg("BSPOWER: set power on set field to field_on");
+               ndebug("set power on set field to field_on");
                give_xp(EXP_FIXED_GENERATOR);
                display_msg(mstr(108));
             end else begin
@@ -164,7 +164,7 @@ procedure use_obj_on_p_proc begin
             if (skill_success(dude_obj, SKILL_REPAIR, RepairBonus)) then begin
                set_map_var(MVAR_Vault15_Power, 1);
                set_map_var(MVAR_Vault15_Field, map_var(MVAR_Vault15_Field) bwor FIELD_ON);
-               debug_msg("BSPOWER: set power on set field to field_on");
+               ndebug("set power on set field to field_on");
                give_xp(EXP_FIXED_GENERATOR);
                display_msg(mstr(108));
             end else begin

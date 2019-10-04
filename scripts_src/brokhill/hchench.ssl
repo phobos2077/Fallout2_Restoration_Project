@@ -208,7 +208,7 @@ procedure talk_p_proc begin
       //floater( random( 103, 119 ) );
 
    set_local_var( LVAR_Herebefore, 1 );
-   debug_msg("NameNum: " + local_var(LVAR_Name));
+   ndebug("NameNum: " + local_var(LVAR_Name));
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

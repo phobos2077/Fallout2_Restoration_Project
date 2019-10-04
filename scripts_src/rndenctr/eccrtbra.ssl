@@ -61,7 +61,7 @@ end
 procedure combat_p_proc begin
    if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
        script_overrides;
-       debug_msg("I'm strapped in and won't move.");
+       ndebug("I'm strapped in and won't move.");
    end
 end
 
@@ -104,13 +104,13 @@ procedure map_enter_p_proc begin
       if (self_team == TEAM_CARAVAN) then begin
          // was already set in bhrnddst.int, but lets set again for the heck of it
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_CARAVAN);
-         debug_msg("We are on a caravan and team is already TEAM_CARAVAN");
+         ndebug("We are on a caravan and team is already TEAM_CARAVAN");
       end else begin
-         debug_msg("We are on a caravan and team is now TEAM_PLAYER");
+         ndebug("We are on a caravan and team is now TEAM_PLAYER");
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
       end
    end else begin
-      debug_msg("We are not on a caravan and team is now TEAM_BRAHMIN");
+      ndebug("We are not on a caravan and team is now TEAM_BRAHMIN");
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BRAHMIN);
    end
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_BRAHMIN);

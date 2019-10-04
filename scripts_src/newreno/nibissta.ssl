@@ -41,12 +41,12 @@ procedure use_p_proc begin
                nr_add_timer_event(bishop_stair_guard_obj, 0, tamper_door_param);
             end
          end else begin
-            debug_msg("obj_can_see_obj(bishop_stair_guard_obj, dude_obj) == false");
+            ndebug("obj_can_see_obj(bishop_stair_guard_obj, dude_obj) == false");
          end
       end else begin
-         debug_msg("bishop_stair_guard_obj == 0");
+         ndebug("bishop_stair_guard_obj == 0");
       end
    end else begin
-      debug_msg("bishop_permission is true");
+      ndebug("bishop_permission is true");
    end
 end

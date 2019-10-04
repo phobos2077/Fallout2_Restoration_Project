@@ -209,9 +209,9 @@ end
    stored which affects player interactions. */
 procedure talk_p_proc begin
 // Begin Seraph's Debug Code
-   debug_msg("fannie = " + fannie);
-   debug_msg("rehab_time = " + map_var(MVAR_Rehab_Time));
-   debug_msg("game_time = " + game_time);
+   ndebug("fannie = " + fannie);
+   ndebug("rehab_time = " + map_var(MVAR_Rehab_Time));
+   ndebug("game_time = " + game_time);
 // End Seraph's Debug Code
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;

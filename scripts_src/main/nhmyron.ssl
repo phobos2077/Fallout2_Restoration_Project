@@ -1838,7 +1838,7 @@ procedure Node238 begin
    prev_node := 238;
 end
 procedure Node239 begin
-   debug_msg("Node239");
+   ndebug("Node239");
    if (get_jet_source(jet_source_none)) then begin
       set_jet_source(jet_source_hinted_at);
    end
@@ -1860,7 +1860,7 @@ procedure Node239 begin
    prev_node := 239;
 end
 procedure Node240 begin
-   debug_msg("Node240");
+   ndebug("Node240");
    Reply(1675);
    BOption(1676, Node241, 004);
    BOption(1677, Node242, 004);
@@ -1873,7 +1873,7 @@ procedure Node240 begin
    prev_node := 240;
 end
 procedure Node241 begin
-   debug_msg("Node241");
+   ndebug("Node241");
    Reply(1685 + myron_attracted_to_dude);
    BOption(1687, Node242, 004);
    if (vault_city_visible_on_map == false) then begin
@@ -1884,7 +1884,7 @@ procedure Node241 begin
    prev_node := 241;
 end
 procedure Node242 begin
-   debug_msg("Node242");
+   ndebug("Node242");
    Reply(2675 + myron_attracted_to_dude);
    if (vault_city_visible_on_map == false) then begin
       NOption(1679, Node243, 004);

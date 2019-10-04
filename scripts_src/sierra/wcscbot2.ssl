@@ -332,7 +332,7 @@ procedure combat_p_proc begin
    //added by killap
    if ((fixed_param == COMBAT_SUBTYPE_TURN) and (local_var(LVAR_Active) == 1)) then begin
        script_overrides;
-       debug_msg("I am disabled and won't attack!");
+       ndebug("I am disabled and won't attack!");
    end
    //end added
 end
@@ -363,122 +363,122 @@ procedure destroy_p_proc begin
        if (map_var(MVAR_Repair_Request1) == REPAIR_NONE) then begin
            call Set_Map_Info_1;
            set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 1");
+           ndebug("Pickup on Unit 1");
        end
        else if (map_var(MVAR_Repair_Request2) == REPAIR_NONE) then begin
            call Set_Map_Info_2;
            set_map_var(MVAR_Repair_Request2,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 2");
+           ndebug("Pickup on Unit 2");
        end
        else if (map_var(MVAR_Repair_Request3) == REPAIR_NONE) then begin
            call Set_Map_Info_3;
            set_map_var(MVAR_Repair_Request3,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 3");
+           ndebug("Pickup on Unit 3");
        end
        else if (map_var(MVAR_Repair_Request4) == REPAIR_NONE) then begin
            call Set_Map_Info_4;
            set_map_var(MVAR_Repair_Request4,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 4");
+           ndebug("Pickup on Unit 4");
        end
        else if (map_var(MVAR_Repair_Request5) == REPAIR_NONE) then begin
            call Set_Map_Info_5;
            set_map_var(MVAR_Repair_Request5,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 5");
+           ndebug("Pickup on Unit 5");
        end
        else if (map_var(MVAR_Repair_Request6) == REPAIR_NONE) then begin
            call Set_Map_Info_6;
            set_map_var(MVAR_Repair_Request6,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 6");
+           ndebug("Pickup on Unit 6");
        end
        else if (map_var(MVAR_Repair_Request7) == REPAIR_NONE) then begin
            call Set_Map_Info_7;
            set_map_var(MVAR_Repair_Request7,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 7");
+           ndebug("Pickup on Unit 7");
        end
        else if (map_var(MVAR_Repair_Request8) == REPAIR_NONE) then begin
            call Set_Map_Info_8;
            set_map_var(MVAR_Repair_Request8,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 8");
+           ndebug("Pickup on Unit 8");
        end
        else if (map_var(MVAR_Repair_Request9) == REPAIR_NONE) then begin
            call Set_Map_Info_9;
            set_map_var(MVAR_Repair_Request9,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 9");
+           ndebug("Pickup on Unit 9");
        end
        else if (map_var(MVAR_Repair_Request10) == REPAIR_NONE) then begin
            call Set_Map_Info_10;
            set_map_var(MVAR_Repair_Request10,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 10");
+           ndebug("Pickup on Unit 10");
        end
        else if (map_var(MVAR_Repair_Request11) == REPAIR_NONE) then begin
            call Set_Map_Info_11;
            set_map_var(MVAR_Repair_Request11,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 11");
+           ndebug("Pickup on Unit 11");
        end
        else if (map_var(MVAR_Repair_Request12) == REPAIR_NONE) then begin
            call Set_Map_Info_12;
            set_map_var(MVAR_Repair_Request12,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 12");
+           ndebug("Pickup on Unit 12");
        end
        else if (map_var(MVAR_Repair_Request1) < REPAIR_PICKUP) then begin
            call Set_Map_Info_1;
            set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 1");
+           ndebug("Pickup on Unit 1");
        end
        else if (map_var(MVAR_Repair_Request2) < REPAIR_PICKUP) then begin
            call Set_Map_Info_2;
            set_map_var(MVAR_Repair_Request2,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 2");
+           ndebug("Pickup on Unit 2");
        end
        else if (map_var(MVAR_Repair_Request3) < REPAIR_PICKUP) then begin
            call Set_Map_Info_3;
            set_map_var(MVAR_Repair_Request3,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 3");
+           ndebug("Pickup on Unit 3");
        end
        else if (map_var(MVAR_Repair_Request4) < REPAIR_PICKUP) then begin
            call Set_Map_Info_4;
            set_map_var(MVAR_Repair_Request4,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 4");
+           ndebug("Pickup on Unit 4");
        end
        else if (map_var(MVAR_Repair_Request5) < REPAIR_PICKUP) then begin
            call Set_Map_Info_5;
            set_map_var(MVAR_Repair_Request5,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 5");
+           ndebug("Pickup on Unit 5");
        end
        else if (map_var(MVAR_Repair_Request6) < REPAIR_PICKUP) then begin
            call Set_Map_Info_6;
            set_map_var(MVAR_Repair_Request6,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 6");
+           ndebug("Pickup on Unit 6");
        end
        else if (map_var(MVAR_Repair_Request7) < REPAIR_PICKUP) then begin
            call Set_Map_Info_7;
            set_map_var(MVAR_Repair_Request7,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 7");
+           ndebug("Pickup on Unit 7");
        end
        else if (map_var(MVAR_Repair_Request8) < REPAIR_PICKUP) then begin
            call Set_Map_Info_8;
            set_map_var(MVAR_Repair_Request8,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 8");
+           ndebug("Pickup on Unit 8");
        end
        else if (map_var(MVAR_Repair_Request9) < REPAIR_PICKUP) then begin
            call Set_Map_Info_9;
            set_map_var(MVAR_Repair_Request9,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 9");
+           ndebug("Pickup on Unit 9");
        end
        else if (map_var(MVAR_Repair_Request10) < REPAIR_PICKUP) then begin
            call Set_Map_Info_10;
            set_map_var(MVAR_Repair_Request10,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 10");
+           ndebug("Pickup on Unit 10");
        end
        else if (map_var(MVAR_Repair_Request11) < REPAIR_PICKUP) then begin
            call Set_Map_Info_11;
            set_map_var(MVAR_Repair_Request11,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 11");
+           ndebug("Pickup on Unit 11");
        end
        else if (map_var(MVAR_Repair_Request12) < REPAIR_PICKUP) then begin
            call Set_Map_Info_12;
            set_map_var(MVAR_Repair_Request12,REPAIR_PICKUP);
-           debug_msg("Pickup on Unit 12");
+           ndebug("Pickup on Unit 12");
        end
    end
 
@@ -496,7 +496,7 @@ procedure RepairMe begin
    if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
        if ((max_hp > cur_hp) and (local_var(LVAR_Repair_Request) == REQUEST_NONE) and (map_var(MVAR_Free_Bots) != 0)) then begin
 
-           debug_msg("Send Repair Bot to section "+tile_num(self_obj)+" on level "+elevation(self_obj)+".");
+           ndebug("Send Repair Bot to section "+tile_num(self_obj)+" on level "+elevation(self_obj)+".");
 
            if (map_var(MVAR_Repair_Request1) == REPAIR_NONE) then begin
                call Set_Map_Info_1;

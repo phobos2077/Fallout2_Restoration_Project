@@ -190,12 +190,12 @@ procedure talk_p_proc begin
    // CHANGE -nbk (Aldo doesn't care if your an enemy of the either side in Klamath)
    //             -he just wants a drink
    if (local_var(LVAR_Personal_Enemy) == 1) then begin
-      debug_msg("local_var(LVAR_Personal_Enemy) == 1");
+      ndebug("local_var(LVAR_Personal_Enemy) == 1");
        call Node998;
    end
 
    else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_DESTROYED) then begin
-      debug_msg("global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_DESTROYED");
+      ndebug("global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_DESTROYED");
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node022;
@@ -204,12 +204,12 @@ procedure talk_p_proc begin
    end
 
    else if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
-      debug_msg("(get_critter_stat(dude_obj,STAT_iq) <= 3)");
+      ndebug("(get_critter_stat(dude_obj,STAT_iq) <= 3)");
       call Node001;
    end
 
    else if (global_var(GVAR_GECKO_ECON_DISK) >= ECON_DISK_RECEIVED) then begin //killap's fix: was 'GIVEN'
-      debug_msg("global_var(GVAR_GECKO_ECON_DISK) >= GIVEN");
+      ndebug("global_var(GVAR_GECKO_ECON_DISK) >= GIVEN");
       if (global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_OPTIMIZED) then begin
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
@@ -218,7 +218,7 @@ procedure talk_p_proc begin
          end_dialogue;
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_REPAIRED) then begin
-         debug_msg("global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_REPAIRED");
+         ndebug("global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_REPAIRED");
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
              call Node021; //killap's fix: was 020
@@ -226,7 +226,7 @@ procedure talk_p_proc begin
          end_dialogue;
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_UNTOUCHED) then begin
-         debug_msg("global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_UNTOUCHED");
+         ndebug("global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_UNTOUCHED");
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
              call Node020; //killap's fix: was 023
@@ -236,7 +236,7 @@ procedure talk_p_proc begin
    end
 
    else if ( (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) or (global_var(GVAR_GECKO_ANKH) == ANKH_TAKEN) ) then begin
-      debug_msg(" (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) or (global_var(GVAR_GECKO_ANKH) == ANKH_TAKEN) ");
+      ndebug(" (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) or (global_var(GVAR_GECKO_ANKH) == ANKH_TAKEN) ");
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
              call Node024;
@@ -245,7 +245,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-      debug_msg("else");
+      ndebug("else");
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
              call Node002;
@@ -301,10 +301,10 @@ procedure Node912 begin
   if ( (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_DECLINED_QUEST) or (global_var(GVAR_VAULT_GECKO_PLANT) == 0) ) then
      set_global_var(GVAR_GECKO_ASSIGNED,1);
    if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then begin
-      debug_msg("set part needed");
+      ndebug("set part needed");
       set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_NEED_PART);
    end else begin
-      debug_msg("DIDN'T SET PART NEEDED");
+      ndebug("DIDN'T SET PART NEEDED");
    end
   stuff:=create_object(PID_ECON_DISK,0,0);
   add_obj_to_inven(dude_obj,stuff);
@@ -383,10 +383,10 @@ end
 procedure Node936 begin
    set_local_var(LVAR_hey_i_gave_disk_already,1); //added by killap
    if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then begin
-      debug_msg("set part needed");
+      ndebug("set part needed");
       set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_NEED_PART);
    end else begin
-      debug_msg("DIDN'T SET PART NEEDED");
+      ndebug("DIDN'T SET PART NEEDED");
    end
    stuff:=create_object(PID_ECON_DISK,0,0);
    add_obj_to_inven(dude_obj,stuff);

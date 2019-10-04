@@ -300,12 +300,12 @@ procedure check_em begin
    uh_oh_chernobl:=0;
    my_tile:=tile_num(glow_obj);
    if (obj_in_loc(glow_obj, 12491, 12461, 18261, 18291, MAP_GECKO_POWER_PLANT, PWPL_ELEV) ) then begin
-      //debug_msg("In the Hot Area.");
+      //ndebug("In the Hot Area.");
       uh_oh_chernobl:=1;
    end
 /*
    if (tile_in_tile_rect(12491, 12461, 18291, 18261, tile_num(glow_obj))) then begin
-       debug_msg("In Rob's Hot area.");
+       ndebug("In Rob's Hot area.");
    end
 */
    if (tile_distance(my_tile,19488)) < 5 then begin

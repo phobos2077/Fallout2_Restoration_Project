@@ -97,10 +97,10 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_SET_CHECKWEAPONATTACK) then begin
-      debug_msg("SCGTEGRD: setting check weapon attack");
+      ndebug("setting check weapon attack");
       checkWeaponAttack := 1;
    end else if (fixed_param == TIMER_SET_CHECKBADATTACK) then begin
-      debug_msg("SCGTEGRD: setting bad weapon attack");
+      ndebug("setting bad weapon attack");
       checkBadAttack := 1;
    end
 end
@@ -183,43 +183,43 @@ end
    stored which affects player interactions. */
 procedure spewArmed begin
    if (Is_Armed(dude_obj)) then
-            debug_msg("SCGTEGRD: dude armed");
+            ndebug("dude armed");
    if (Vic_In_Party) then
       if (Is_Armed(Vic_Ptr)) then
-            debug_msg("SCGTEGRD: Vic armed");
+            ndebug("Vic armed");
    if (Myron_In_Party) then
       if (Is_Armed(Myron_Ptr)) then
-            debug_msg("SCGTEGRD: Myron armed");
+            ndebug("Myron armed");
    if (Marcus_In_Party) then
       if (Is_Armed(Marcus_Ptr)) then
-            debug_msg("SCGTEGRD: Marcus armed");
+            ndebug("Marcus armed");
    if (MacRae_In_Party) then
       if (Is_Armed(MacRae_Ptr)) then
-            debug_msg("SCGTEGRD: MacRae armed");
+            ndebug("MacRae armed");
    if (Sulik_In_Party) then
       if (Is_Armed(Sulik_Ptr)) then
-            debug_msg("SCGTEGRD: Sulik armed");
+            ndebug("Sulik armed");
    if (Lenny_In_Party) then
       if (Is_Armed(Lenny_Ptr)) then
-            debug_msg("SCGTEGRD: Lenny armed");
+            ndebug("Lenny armed");
    if (Cyberdog_In_Party) then
       if (Is_Armed(Cyberdog_Ptr)) then
-            debug_msg("SCGTEGRD: CyberDoc armed");
+            ndebug("CyberDoc armed");
    if (Doc_In_Party) then
       if (Is_Armed(Doc_Ptr)) then
-            debug_msg("SCGTEGRD: Doc armed");
+            ndebug("Doc armed");
    if (Davin_In_Party) then
       if (Is_Armed(Davin_Ptr)) then
-            debug_msg("SCGTEGRD: Davin armed");
+            ndebug("Davin armed");
    if (Miria_In_Party) then
       if (Is_Armed(Miria_Ptr)) then
-            debug_msg("SCGTEGRD: Mira armed");
+            ndebug("Mira armed");
    if (Laddie_In_Party) then
       if (Is_Armed(Laddie_Ptr)) then
-            debug_msg("SCGTEGRD: Laddie armed");
+            ndebug("Laddie armed");
    if (Robobrain_In_Party) then
       if (Is_Armed(Robobrain_Ptr)) then
-            debug_msg("SCGTEGRD: Robobrain armed");
+            ndebug("Robobrain armed");
 end
 
 procedure talk_p_proc begin

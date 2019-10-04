@@ -188,14 +188,14 @@ procedure use_p_proc begin
 
    Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
 
-   debug_msg("SIVDOR: i_vortis_obj : " + i_vortis_obj);
+   ndebug("i_vortis_obj : " + i_vortis_obj);
    if (obj_in_party(source_obj) and local_var(LVAR_Vortis_Warn) < 2 and (i_vortis_obj > 0)) then begin
-      debug_msg("SIVDOR: past case");
+      ndebug("past case");
       script_overrides;
       set_local_var(LVAR_Vortis_Warn, local_var(LVAR_Vortis_Warn)+1);
       add_timer_event(i_vortis_obj, 0, VORTIS_TIMER_DOOR_CHECK);
    end else begin
-      debug_msg("SIVDOR: in normal");
+      ndebug("in normal");
       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
          if (is_success(Traps_Roll)) then begin
             script_overrides;

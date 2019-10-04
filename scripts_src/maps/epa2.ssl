@@ -43,10 +43,10 @@ procedure doRepostion begin
    //game_time_advance(ONE_GAME_MINUTE);
 
    tile_set_center(23452);
-   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(23452)); //screen will recenter on kaga
+   ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(23452)); //screen will recenter on kaga
 
    tile_set_center(tile_num(dude_obj));
-   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+   ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
 end
 
 procedure map_enter_p_proc begin
@@ -61,39 +61,39 @@ procedure map_enter_p_proc begin
    //add_timer_event(self_obj, game_ticks(0), 1);
 
    /*if (global_var(GVAR_LOAD_MAP_INDEX)==1) then begin
-       //debug_msg("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
+       //ndebug("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
        override_map_start_hex(23442,0,0);
        set_global_var(GVAR_LOAD_MAP_INDEX,0);
 
    end
 
    else if (global_var(GVAR_LOAD_MAP_INDEX)==2) then begin
-        //debug_msg("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
+        //ndebug("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
         override_map_start_hex(23442,1,0);
         set_global_var(GVAR_LOAD_MAP_INDEX,0);
 
    end
 
    else if (global_var(GVAR_LOAD_MAP_INDEX)==3) then begin
-         //debug_msg("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
+         //ndebug("ECKAGA1: tile_set_center(23442): " + tile_set_center(23442)); //screen will recenter
          override_map_start_hex(23442,2,0);
          set_global_var(GVAR_LOAD_MAP_INDEX,0);
    end
 
    else if (global_var(GVAR_LOAD_MAP_INDEX)==6) then begin
-         //debug_msg("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
+         //ndebug("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
          override_map_start_hex(21908,0,0);
          set_global_var(GVAR_LOAD_MAP_INDEX,0);
    end
 
    else if (global_var(GVAR_LOAD_MAP_INDEX)==7) then begin
-         //debug_msg("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
+         //ndebug("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
          override_map_start_hex(21908,1,0);
          set_global_var(GVAR_LOAD_MAP_INDEX,0);
    end
 
    else if (global_var(GVAR_LOAD_MAP_INDEX)==8) then begin
-         //debug_msg("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
+         //ndebug("ECKAGA1: tile_set_center(21908): " + tile_set_center(21908)); //screen will recenter
          override_map_start_hex(21908,2,0);
          set_global_var(GVAR_LOAD_MAP_INDEX,0);
    end*/

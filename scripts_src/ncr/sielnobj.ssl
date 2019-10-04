@@ -76,7 +76,7 @@ end
 ********************************************************************/
 
 procedure use_p_proc begin
-   debug_msg("SIELNOBJ: i_elise_obj: " + i_elise_obj);
+   ndebug("i_elise_obj: " + i_elise_obj);
    if (i_elise_obj > 0) then begin
       if (obj_can_see_obj(i_elise_obj, source_obj)) then begin
          if not (ncr_flag(NCR_ELISE_TAMPER_FLAG)) then begin

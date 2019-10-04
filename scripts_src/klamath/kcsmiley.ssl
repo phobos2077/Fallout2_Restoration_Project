@@ -130,8 +130,8 @@ variable newtile;
 //variable active;
 
 procedure start begin
-   debug_msg("test");
-   debug_msg("LVAR_Follow_Dude == "+local_var(LVAR_Follow_Dude));
+   ndebug("test");
+   ndebug("LVAR_Follow_Dude == "+local_var(LVAR_Follow_Dude));
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -165,7 +165,7 @@ end
 procedure map_exit_p_proc begin
 /*
    if ( (local_var(LVAR_Follow_Dude) == 1) and (local_var(LVAR_Smiley_Success) == 0) ) then begin
-      debug_msg("You saved SMILEY!");
+      ndebug("You saved SMILEY!");
       inc_general_rep(REP_BONUS_SAVE_SMILEY);
       set_local_var(LVAR_Smiley_Success, 1);
       set_local_var(LVAR_Follow_Dude, 0);

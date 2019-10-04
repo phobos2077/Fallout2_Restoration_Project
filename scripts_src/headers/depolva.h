@@ -319,7 +319,7 @@
                                                 else                                            \
                                                     inc_map_var(MVAR_Level3_Eyeball);           \
                                             end                                                 \
-                                            debug_msg("Add Robot to Queue")
+                                            ndebug("Add Robot to Queue")
 
 #define Next_Hex_0                      if (map_var(MVAR_Last_Spot_0) == 0) then                    \
                                             set_map_var(MVAR_Last_Spot_0,BOT_TILE_E0T0);            \

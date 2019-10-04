@@ -197,11 +197,11 @@ procedure combat_p_proc begin
       if ( (is_critter_dead(obj)) or (is_critter_prone(obj)) or ((critter_state(obj) bwand DAM_KNOCKED_OUT)) ) then begin //changed by killap
          max := 4;
          cur := 0;
-         debug_msg("FCLOPAN: critter was dead..." + max + " cur: " + cur);
+         ndebug("critter was dead..." + max + " cur: " + cur);
       end else begin
          max := get_critter_stat(obj, STAT_max_hp);
          cur := get_critter_stat(obj, STAT_current_hp);
-         debug_msg("FCLOPAN: critter wasn't dead... " + max + " cur: " + cur);
+         ndebug("critter wasn't dead... " + max + " cur: " + cur);
       end
 
       if (cur < (max / 4)) then begin
@@ -214,11 +214,11 @@ procedure combat_p_proc begin
          if (local_var(LVAR_Test_Stage) < 6) then begin
             called := 1;   //added by killap
             add_timer_event(self_obj, 2, TIMER_DOTEST);
-            debug_msg("FCLOPAN: called dotest");
+            ndebug("called dotest");
          end else begin
             called := 1; //added by killap
             add_timer_event(self_obj, 2, TIMER_DOENDTESTPASS);
-            debug_msg("FCLOPAN: called do end test pass");
+            ndebug("called do end test pass");
          end
       end else begin
          max := dude_max_hits;
@@ -326,11 +326,11 @@ procedure critter_p_proc begin
       if ( (is_critter_dead(obj)) or (is_critter_prone(obj)) ) then begin //changed by killap
          max := 4;
          cur := 0;
-         debug_msg("FCLOPAN: critter was dead..." + max + " cur: " + cur);
+         ndebug("critter was dead..." + max + " cur: " + cur);
       end else begin
          max := get_critter_stat(obj, STAT_max_hp);
          cur := get_critter_stat(obj, STAT_current_hp);
-         debug_msg("FCLOPAN: critter wasn't dead... " + max + " cur: " + cur);
+         ndebug("critter wasn't dead... " + max + " cur: " + cur);
       end
 
       if (cur < (max / 4)) then begin
@@ -343,11 +343,11 @@ procedure critter_p_proc begin
          if (local_var(LVAR_Test_Stage) < 6) then begin
             called := 1;   //added by killap
             add_timer_event(self_obj, 2, TIMER_DOTEST);
-            debug_msg("FCLOPAN: called dotest");
+            ndebug("called dotest");
          end else begin
             called := 1; //added by killap
             add_timer_event(self_obj, 2, TIMER_DOENDTESTPASS);
-            debug_msg("FCLOPAN: called do end test pass");
+            ndebug("called do end test pass");
          end
       end else begin
          max := dude_max_hits;
@@ -626,7 +626,7 @@ end
 procedure Node004 begin
    if (local_var(LVAR_Beaten) == 0 and local_var(LVAR_Next_Learn_Time) != -1) then begin
       if (has_skill(dude_obj, SKILL_UNARMED_COMBAT) < 100) then begin
-         debug_msg("Game_Time: " + game_time + " Next_Time: " + local_var(LVAR_Next_Learn_Time));
+         ndebug("Game_Time: " + game_time + " Next_Time: " + local_var(LVAR_Next_Learn_Time));
          if (game_time > local_var(LVAR_Next_Learn_Time)) then begin
             Reply(116);
             NOption(117, NodeLearn, 1);
@@ -876,14 +876,14 @@ procedure Node028 begin
 end
 
 procedure SafeDestroy begin
-   debug_msg("FCLOPAN: SafeDestroy called"); // Seraph's Code
+   ndebug("SafeDestroy called"); // Seraph's Code
    if (local_var(LVAR_Test_Obj)) then begin
       //if (not (is_critter_dead(local_var(LVAR_Test_Obj)))) then begin // Commented out by Seraph
          reg_anim_clear(local_var(LVAR_Test_Obj));
          destroy_object(local_var(LVAR_Test_Obj));
       /* Commented out by Seraph
       end else
-         debug_msg("FCLOPAN: couldn't delete object already dead");
+         ndebug("couldn't delete object already dead");
       //*/
       set_local_var(LVAR_Test_Obj, 0);
    end
@@ -904,7 +904,7 @@ procedure DoTest begin
 
    rm_fixed_timer_event(self_obj, TIMER_DOTEST);
    if (not combat_is_initialized) then begin
-      debug_msg("FCLOPAN: in dotest");
+      ndebug("in dotest");
       called := 0;
       called1 := 0;
       call TakeInven;
@@ -937,7 +937,7 @@ procedure DoTest begin
             create_object(TEST_SHI_PID6, 8030, 0);
             count += 1;
          end
-         debug_msg("FCDRAGON: count was at " + count);
+         ndebug("count was at " + count);
       end
 
       if (local_var(LVAR_Test_Stage) < 6) then begin
@@ -972,7 +972,7 @@ procedure DoTest begin
 
          if (local_var(LVAR_Test_Obj)) then
             move_to(local_var(LVAR_Test_Obj), TEST_POS_LOAD, 0);
-         debug_msg("FCLOPAN: uhh test obj set at: " + local_var(LVAR_Test_Obj));
+         ndebug("uhh test obj set at: " + local_var(LVAR_Test_Obj));
 
          critter_add_trait(local_var(LVAR_Test_Obj),TRAIT_OBJECT,OBJECT_AI_PACKET,AI_THE_DRAGON);
 
@@ -1198,7 +1198,7 @@ procedure checkTestObj begin
    variable obj;
    variable CurrentPid;
 
-   debug_msg("FCLOPAN: tilenum test obj: " + tile_num(local_var(LVAR_Test_Obj)));
+   ndebug("tilenum test obj: " + tile_num(local_var(LVAR_Test_Obj)));
    if (local_var(LVAR_Test_Obj)) then begin
       while (TestObjNum < 10) do begin
          if (TestObjNum == 0) then
@@ -1228,15 +1228,15 @@ procedure checkTestObj begin
             if (obj) then begin
                if (obj == dude_obj) then begin
                   obj := 0;
-                  debug_msg("FCLOPAN: FYI: found dude");
+                  ndebug("FYI: found dude");
                end
             end
             if (obj) then begin
                set_local_var(LVAR_Test_Obj, obj);
-               debug_msg("FCLOPAN: object re-located at tile " + (StartTile-TileOffset) + " obj set to instance: " + obj);
+               ndebug("object re-located at tile " + (StartTile-TileOffset) + " obj set to instance: " + obj);
                TileOffset := 10;
             end else begin
-               debug_msg("FCLOPAN: looking for fighter pid: " + CurrentPid + " tile: " + (StartTile-TileOffset));
+               ndebug("looking for fighter pid: " + CurrentPid + " tile: " + (StartTile-TileOffset));
                TileOffset += 1;
             end
          end
@@ -1246,7 +1246,7 @@ procedure checkTestObj begin
             TestObjNum += 1;
       end
    end else
-      debug_msg("FCLOPAN: test obj not set");
+      ndebug("test obj not set");
 end
 
 //xxxxxxxxxxxxxxxxxxxx

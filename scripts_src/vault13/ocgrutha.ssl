@@ -187,7 +187,7 @@ procedure map_enter_p_proc begin
    //set_local_var(LVAR_Last_Matt_Obj, i_matt_obj);
 
    geck_container := tile_contains_pid_obj(GECK_LOCKER, GECK_LOCKER_ELE, PID_LOCKER_CLEAN_LEFT);
-   debug_msg("OCGRUTHA: checkgeck: " + checkGeck);
+   ndebug("checkgeck: " + checkGeck);
 end
 
 
@@ -199,19 +199,19 @@ procedure checkFunction begin
    if (dude_is_sneaking) then begin
       if (checkCounter >= checkThresh) then begin
          rollRes := roll_vs_skill(dude_obj, SKILL_SNEAK, -30);
-         debug_msg("Roll Res : " + rollRes);
+         ndebug("Roll Res : " + rollRes);
          if (is_success(rollRes)) then begin
-            debug_msg("SUCCESS");
+            ndebug("SUCCESS");
             checkCounter := 0;
             if (is_critical(rollRes)) then begin
-               debug_msg("CRITICAL SUCCESS");
+               ndebug("CRITICAL SUCCESS");
                checkThresh += 10;
             end
             retval := 0;
          end else retval := 1;
      end else retval := 0;
   end else retval := 1;
-  debug_msg("RETVAL " + retval);
+  ndebug("RETVAL " + retval);
   return retval;
 end
 
@@ -381,7 +381,7 @@ procedure talk_p_proc begin
    end
 
    if (local_var(LVAR_Teleport) == 1) then begin
-      debug_msg("Should be TELEPORTING YEAH");
+      ndebug("Should be TELEPORTING YEAH");
       set_local_var(LVAR_Teleport, 0);
       load_map(MAPSTR_V13ENT, 5);
       //MAP_VAULT_13_ENTRANCE

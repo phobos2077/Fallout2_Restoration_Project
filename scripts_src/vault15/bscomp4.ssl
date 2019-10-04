@@ -59,7 +59,7 @@ procedure talk_p_proc;
 /*******************************************************************
 *******                         PROCEDURES                   *******
 *******************************************************************/
-#define DEBUG(x) debug_msg("BSCOMP4: " + x)
+#define DEBUG(x) ndebug("BSCOMP4: " + x)
 
 procedure Node999;
 

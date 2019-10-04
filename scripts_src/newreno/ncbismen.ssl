@@ -210,7 +210,7 @@ procedure timed_event_p_proc begin
             float_msg(self_obj, g_mstr(5400), FLOAT_COLOR_NORMAL);
          end
       end else if (fixed_param == heard_help_param) then begin
-         debug_msg("got heard help");
+         ndebug("got heard help");
          set_heard_help;
       end
    end

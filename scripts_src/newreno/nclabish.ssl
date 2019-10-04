@@ -313,7 +313,7 @@ procedure Node998 begin
    //set_hostile; //CAUSES THE GAME TO CRASH - NO IDEA WHY --killap
    attack_family(family_bishop)
    if (angela_guard_obj != 0) then begin
-      debug_msg("sending call guard to bismen");
+      ndebug("sending call guard to bismen");
       nr_add_timer_event_tic(angela_guard_obj, 0, heard_help_param);
    end
 end
@@ -356,14 +356,14 @@ procedure Node987 begin
       end
       do_default_sex;
       // put her in bed
-      debug_msg("putting mrs bishop in bed");
+      ndebug("putting mrs bishop in bed");
       move_to(self_obj, mrs_bishop_self_bed_tile, mrs_bishop_room_elev);
       reg_anim_clear(self_obj);
       anim(self_obj, ANIMATE_ROTATION, mrs_bishop_bed_rotation);
       anim(self_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
       if (dude_is_stupid == false) then begin
          if (dude_sex_rating > sex_rating_bad) then begin
-            debug_msg("putting DUDE IN mrs bishop bed");
+            ndebug("putting DUDE IN mrs bishop bed");
             anim(dude_obj, ANIMATE_ROTATION, mrs_bishop_bed_rotation);
             anim(dude_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
             move_to(dude_obj, mrs_bishop_dude_bed_tile, mrs_bishop_room_elev);
@@ -390,7 +390,7 @@ procedure Node985 begin
    end
 end
 procedure Node984 begin
-   debug_msg("called Node984");
+   ndebug("called Node984");
    gfade_out(ONE_GAME_SECOND);
       move_to(self_obj, local_var(LVAR_Home_Tile), local_var(LVAR_Home_Elev));
       move_to(dude_obj, local_var(LVAR_Move_Dude_Back_Tile), local_var(LVAR_Home_Elev));
@@ -807,7 +807,7 @@ variable temp;
    end else begin
       check_mrs_bishop_combination
       if (know_mrs_bishop_combination) then begin
-         debug_msg("combination var == "+global_var(GVAR_NEW_RENO_MRS_BISHOP_COMBINATION));
+         ndebug("combination var == "+global_var(GVAR_NEW_RENO_MRS_BISHOP_COMBINATION));
          float_msg(self_obj, mstr(512) + mrs_bishop_combination + mstr(1512), FLOAT_COLOR_NORMAL);
       end
    end
@@ -1165,9 +1165,9 @@ procedure Node156 begin
    prev_node := 156;
 end
 procedure Node157 begin
-   debug_msg("set_compartment");
+   ndebug("set_compartment");
    set_compartment;
-   debug_msg("set_mrs_bishop_combination");
+   ndebug("set_mrs_bishop_combination");
    set_mrs_bishop_combination
    Reply(mstr(760) + mrs_bishop_combination + mstr(1760));
    NOption(761, Node162, 004);

@@ -330,12 +330,12 @@ end
 procedure timerEvent begin
    if (not combat_is_initialized) then begin
       if (cur_map_index == checktime) then begin
-         debug_msg("cur_map_index == checktime");
+         ndebug("cur_map_index == checktime");
          if (local_var(LVAR_Visible)) then begin
-             debug_msg("SCMRKGRD: local_var(LVAR_Visible) == 1");
+             ndebug("local_var(LVAR_Visible) == 1");
             call checkPos;
          end else begin
-            debug_msg("SCMRKGRD: Should be visible");
+            ndebug("Should be visible");
             if (merk_visible) then begin
                set_local_var(LVAR_Tile,getTileNum);
                //tile := getTileNum;
@@ -345,7 +345,7 @@ procedure timerEvent begin
             end
          end
       end else begin
-          debug_msg("cur_map_index != checktime");
+          ndebug("cur_map_index != checktime");
          if (local_var(LVAR_Visible) and merk_visible == 0) then begin
             if (anim_busy(self_obj) == 1) then begin
                reg_anim_clear(self_obj);
@@ -362,11 +362,11 @@ end
 procedure checkPos begin
    set_local_var(LVAR_Tile,getTileNum);
    //tile := getTileNum;
-   debug_msg("SCMRKGRD: checkPos being called");
+   ndebug("checkPos being called");
    if (anim_busy(self_obj) == 0) then begin
       if (self_tile != local_var(LVAR_Tile)) then begin //edit by killap
       //if (self_tile != tile) then begin
-         debug_msg("SCMRKGRD: self_tile != tile");
+         ndebug("self_tile != tile");
          animate_move_to_tile(local_var(LVAR_Tile)); //edit by killap
          //animate_move_to_tile(tile);
          set_local_var(LVAR_In_Transit,1); //edit by killap
@@ -403,7 +403,7 @@ procedure checktime begin
    set_local_var(LVAR_Time,game_time_hour); //edit by killap
    //variable time := 0;
    //time := game_time_hour;
-   debug_msg("time is: " + local_var(LVAR_Time));
+   ndebug("time is: " + local_var(LVAR_Time));
    if ((local_var(LVAR_Time) >= 800) and (local_var(LVAR_Time) < 1201)) then //edit by killap
    //if (time >= 800 and time < 1201) then
       return MAP_NCR_DOWNTOWN;

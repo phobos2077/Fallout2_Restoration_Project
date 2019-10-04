@@ -170,7 +170,7 @@ procedure map_enter_p_proc begin
    end
 
    i_elise_obj := self_obj;
-   debug_msg("SCELISE: i_elise_obj: " + i_elise_obj);
+   ndebug("i_elise_obj: " + i_elise_obj);
 end
 
 

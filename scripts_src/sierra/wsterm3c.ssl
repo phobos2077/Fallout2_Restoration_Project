@@ -167,19 +167,19 @@ procedure Node011 begin
            destroy_object(item);
            if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then begin
                critter:=create_object_sid(PID_BRAINBOT,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
-               debug_msg("Made Cybernetic Robobrain "+obj_pid(critter));
+               ndebug("Made Cybernetic Robobrain "+obj_pid(critter));
            end
            else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_HUMAN) then begin
                critter:=create_object_sid(PID_ROBOBRAIN_HUMAN,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
-               debug_msg("Made Human Robobrain "+obj_pid(critter));
+               ndebug("Made Human Robobrain "+obj_pid(critter));
            end
            else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CHIMP) then begin
                critter:=create_object_sid(PID_ROBOBRAIN_CHIMP,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
-               debug_msg("Made Chimp Robobrain "+obj_pid(critter));
+               ndebug("Made Chimp Robobrain "+obj_pid(critter));
            end
            else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_ABNORMAL) then begin
                critter:=create_object_sid(PID_ROBOBRAIN_ABNORMAL,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
-               debug_msg("Made Abnormal Robobrain "+obj_pid(critter));
+               ndebug("Made Abnormal Robobrain "+obj_pid(critter));
            end
        end
        if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then

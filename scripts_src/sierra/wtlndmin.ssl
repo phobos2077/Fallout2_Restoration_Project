@@ -164,9 +164,9 @@ procedure use_skill_on_p_proc begin
 
                //for some reason this code segment causes issues - killap
                /*if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-                   debug_msg("Destroying Visible Trap");
+                   ndebug("Destroying Visible Trap");
                    destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-                   debug_msg("Destroyed Visible Trap");
+                   ndebug("Destroyed Visible Trap");
                end*/
                //Trap:=create_object_sid(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
                Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj)); //edit by killap
@@ -188,14 +188,14 @@ procedure Check_Active(variable Mine_Var) begin
 
    if (map_var(Mine_Var) == MINE_ACTIVE) then begin
        if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-           debug_msg("Destroying Visible Trap");
+           ndebug("Destroying Visible Trap");
            destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-           debug_msg("Destroyed Visible Trap");
+           ndebug("Destroyed Visible Trap");
        end
        Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj));
        //if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (is_success(do_check(dude_obj,STAT_ag,-3)))) then
        if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (random(0,1) == 1)) then //added by killap
-           debug_msg("Used Light Step.");
+           ndebug("Used Light Step.");
        else
            explosion(tile_num(self_obj),elevation(self_obj),random(MIN_DMG,MAX_DMG));
 

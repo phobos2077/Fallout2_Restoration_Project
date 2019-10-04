@@ -207,9 +207,9 @@ procedure use_obj_on_p_proc begin
 end
 
 procedure use_p_proc begin
-   debug_msg("grave tile == "+self_tile);
+   ndebug("grave tile == "+self_tile);
    if (is_grave_site) then begin
-      debug_msg("  is_grave_site");
+      ndebug("  is_grave_site");
       if (local_var(LVAR_Trapped) != 0) then begin
          script_overrides;
          if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,Trap_Detect_Bonus))) and (local_var(LVAR_Found_Trap) == false)) then begin
@@ -224,8 +224,8 @@ procedure use_p_proc begin
          end
       end else if (site_is_uncovered) then begin
          script_overrides;
-         debug_msg(" (source_obj == dude_obj)== " + (source_obj == dude_obj));
-         debug_msg(" get_escape(escape_none) == " + get_escape(escape_none));
+         ndebug(" (source_obj == dude_obj)== " + (source_obj == dude_obj));
+         ndebug(" get_escape(escape_none) == " + get_escape(escape_none));
          if ((source_obj == dude_obj) and (get_escape(escape_none) == false)) then begin
             gfade_out(5);
             move_to(dude_obj, 22295, 1);

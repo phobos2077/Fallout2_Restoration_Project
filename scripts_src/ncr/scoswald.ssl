@@ -97,7 +97,7 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_RAIDER);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
    cell_door_obj := tile_contains_pid_obj(15490, 0, PID_JAIL_DOOR_N_S);
-   debug_msg("SCOSWALD: cell_door_obj: " + cell_door_obj);
+   ndebug("cell_door_obj: " + cell_door_obj);
 end
 
 
@@ -112,7 +112,7 @@ procedure critter_p_proc begin
 
    if ( (local_var(LVAR_Talked) == 0) and (local_var(LVAR_Personal_Enemy) == 1) ) then begin
          dialogue_system_enter;
-         debug_msg("SCOSWALD: should be going into dialog");
+         ndebug("should be going into dialog");
    end
    if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
        set_local_var(LVAR_Hostile,1);
@@ -134,7 +134,7 @@ procedure damage_p_proc begin
          terminate_combat;
          //if (local_var(LVAR_Talked) == 0) then begin
          //   dialogue_system_enter;
-         //   debug_msg("SCOSWALD: should be going into dialog");
+         //   ndebug("should be going into dialog");
          //end
       end
    end

@@ -203,7 +203,7 @@ procedure Node901;
 #define set_first_saw                     set_lvar_bit_on(LVAR_Flags, first_saw_bit)
 
 #define give_renesco_caps(x)              item_caps_adjust(self_obj, x);      \
-                                          debug_msg("GIVE_RENESCO_CAPS "+(x)); /*changed from debug_msg - killap*/ \
+                                          ndebug("GIVE_RENESCO_CAPS "+(x)); /*changed from debug_msg - killap*/ \
                                           item_caps_adjust(dude_obj, -x)
 
 /* Imported variables from the Map scripts. These should only be
@@ -231,7 +231,7 @@ procedure timed_event_p_proc begin
                call Node002;
             end
          end else if (random(1,25) == 1) then begin
-            debug_msg("RENESCO USING STIMPAK");
+            ndebug("RENESCO USING STIMPAK");
             give_pid_qty(self_obj, PID_STIMPAK, 1)
             use_obj_on_obj(restock_obj,self_obj);
          end

@@ -48,7 +48,7 @@ procedure map_exit_p_proc begin
       if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0 or
           tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 1, PID_DRIVABLE_CAR) != 0 or
           tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 2, PID_DRIVABLE_CAR) != 0) then begin
-         debug_msg("car_give_to_party");
+         ndebug("car_give_to_party");
          set_global_var(GVAR_CAR_PLACED_TILE, 0);
          car_give_to_party;
       end
@@ -61,7 +61,7 @@ procedure map_enter_p_proc begin
    variable the_hex;
    variable the_elev;
 
-   debug_msg("RNDDSRT map_enter_p_proc == " + cur_map_index);
+   ndebug("RNDDSRT map_enter_p_proc == " + cur_map_index);
    set_map_exit_tiles(0,0);
    Lighting;
 
@@ -80,127 +80,127 @@ procedure map_enter_p_proc begin
    end*/
 
    if (cur_map_index == MAP_RND_DESERT_1) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT1_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT1_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT1_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT_2) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT2_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT2_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT2_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT_3) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT3_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT3_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT3_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT4) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT4_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT4_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT4_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT5) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT5_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT5_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT5_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT6) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT6_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT6_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT6_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT7) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT7_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT7_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT7_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT_8) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT8_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT8_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT8_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT_9) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT9_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT9_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT9_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT_10) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT10_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT10_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT10_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT_11) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT11_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT11_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT11_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_DESERT_12) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT12_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT12_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT12_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    //added by killap - expansion pack
    else if (cur_map_index == MAP_RND_DESERT_13) then begin
-      debug_msg("set_car_loc(" + CAR_RND_DESERT13_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_DESERT13_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_DESERT13_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    //end added
    else if (cur_map_index == MAP_RND_CITY1) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY1_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY1_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY1_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_CITY_2) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY2_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY2_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY2_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_CITY_3) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY3_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY3_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY3_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_CITY_4) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY4_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY4_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY4_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_CITY_5) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY5_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY5_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY5_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_CITY_6) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY6_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY6_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY6_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_CITY_7) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY7_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY7_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY7_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else if (cur_map_index == MAP_RND_CITY_8) then begin
-      debug_msg("set_car_loc(" + CAR_RND_CITY8_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + CAR_RND_CITY8_HEX + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := CAR_RND_CITY8_HEX;
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    else begin
-      debug_msg("set_car_loc(" + tile_num_in_direction(dude_tile, random(0, 5), random(5, 7)) + ", " + CAR_RANDOM_DESERT_ELEV + ")");
+      ndebug("set_car_loc(" + tile_num_in_direction(dude_tile, random(0, 5), random(5, 7)) + ", " + CAR_RANDOM_DESERT_ELEV + ")");
       the_hex := tile_num_in_direction(dude_tile, random(0, 5), random(5, 7));
       the_elev := CAR_RANDOM_DESERT_ELEV;
    end
    if (the_hex != 0) then begin
-      debug_msg("if no car,  Check_Create_Car's fucking up: dude_elevation == " + dude_elevation + " / car_elevation == " + the_elev);
+      ndebug("if no car,  Check_Create_Car's fucking up: dude_elevation == " + dude_elevation + " / car_elevation == " + the_elev);
       Check_Create_Car(the_hex, dude_elevation)
    end else
-      debug_msg("DIDN'T HAVE MAP HEX FOR CAR, WE NEED TO CREATE ONE");
+      ndebug("DIDN'T HAVE MAP HEX FOR CAR, WE NEED TO CREATE ONE");
 
    if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((has_trait(TRAIT_PERK,dude_obj,PERK_mysterious_stranger)))) then begin
        if (not(get_stranger_flag(STRANGER_GENDER))) then begin
            set_stranger_flag(STRANGER_GENDER);
-           debug_msg("Set the Stranger Gender");
+           ndebug("Set the Stranger Gender");
            if (random(0,99) < 50) then
                set_stranger_flag(STRANGER_FEMALE);
        end

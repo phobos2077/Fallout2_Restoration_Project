@@ -166,7 +166,7 @@ procedure Node103;
                                              nr_add_timer_event(self_obj, 5, 957);                                               \
                                           gfade_in(ONE_GAME_SECOND);                                                             \
                                        end                                                                                       \
-                                       debug_msg("setup divorce script")
+                                       ndebug("setup divorce script")
 #define off_running_divorce            set_divorce;                                                                     \
                                        if (Miria_In_Party) then begin                                                   \
                                           old_spouse := Miria_Ptr;                                                      \
@@ -246,7 +246,7 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-   debug_msg("global_var(GVAR_PLAYER_WAS_MARRIED) == " + global_var(GVAR_PLAYER_WAS_MARRIED));
+   ndebug("global_var(GVAR_PLAYER_WAS_MARRIED) == " + global_var(GVAR_PLAYER_WAS_MARRIED));
    if (fixed_param == float_param) then begin
       if (combat_is_initialized == false) then begin
          if (running_divorce == false) then begin
@@ -353,7 +353,7 @@ end
 procedure talk_p_proc begin
    geckQuestion := false;
    renoQuestion := false;
-   debug_msg("global_var(GVAR_PLAYER_MARRIED) == " + global_var(GVAR_PLAYER_MARRIED));
+   ndebug("global_var(GVAR_PLAYER_MARRIED) == " + global_var(GVAR_PLAYER_MARRIED));
    if (passed_out_state) then begin
       if (is_critter_prone(self_obj)) then begin
          call Node102;

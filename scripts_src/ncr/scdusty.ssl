@@ -362,7 +362,7 @@ procedure map_enter_p_proc begin
 
       destroy_obj_inven(self_obj); //added by killap - one of the preventives I am adding towards the "too many items bug"
 
-      debug_msg("Should have restocked");
+      ndebug("Should have restocked");
       check_restock_item(PID_BOOZE, 10, 20, 100)
       check_restock_item(PID_BEER, 20, 30, 100)
       check_restock_item(PID_NUKA_COLA, 10, 20, 100)

@@ -376,7 +376,7 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure Node910 begin
-   debug_msg("Node910");
+   ndebug("Node910");
    gfade_out(600);
    game_time_advance(game_ticks(k*360)); //6 minutes
    gfade_in(600);
@@ -384,7 +384,7 @@ procedure Node910 begin
 end
 
 procedure Node912 begin
-   debug_msg("Node912");
+   ndebug("Node912");
    gfade_out(600);
    game_time_advance(game_ticks(k*1080)); //18 minutes
    gfade_in(600);
@@ -448,7 +448,7 @@ procedure Node934 begin
 end
 
 procedure Node940 begin
-   debug_msg("Node940");
+   ndebug("Node940");
    if (local_var(LVAR_reaction) > 74) then begin
       call Node033;
    end
@@ -461,7 +461,7 @@ procedure Node940 begin
 end
 
 procedure Node942 begin
-   debug_msg("Node942");
+   ndebug("Node942");
    if (local_var(LVAR_reaction) > 94) then begin
       call Node033;
    end
@@ -474,7 +474,7 @@ procedure Node942 begin
 end
 
 procedure Node944 begin
-   debug_msg("Node944");
+   ndebug("Node944");
    if (local_var(LVAR_reaction) < 74) then begin
       call Node033;
    end
@@ -487,7 +487,7 @@ procedure Node944 begin
 end
 
 procedure Node946 begin
-   debug_msg("Node946");
+   ndebug("Node946");
    if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
       call Node033;
    else
@@ -498,7 +498,7 @@ procedure Node948 begin
 end
 
 procedure aconvinced begin
-   debug_msg("NodeACON");
+   ndebug("NodeACON");
 //move festus 1/3 of the way into the reactor core
 call Node910;
 set_local_var(LVAR_Festus, MORE_CONVINCE);
@@ -506,7 +506,7 @@ call Node028;
 end
 
 procedure bconvinced begin
-   debug_msg("NodeBCON");
+   ndebug("NodeBCON");
 //move festus 2/3 of the way into the reactor core
 call Node910;
 set_local_var(LVAR_Festus, USE_PART);
@@ -514,7 +514,7 @@ call Node029;
 end
 
 procedure cconvinced begin
-   debug_msg("NodeCCON");
+   ndebug("NodeCCON");
 //move festus all the way into the reactor core
 call Node912;
 set_local_var(LVAR_Festus, CONVINCE);
@@ -522,7 +522,7 @@ call Node030;
 end
 
 procedure Node950 begin
-   debug_msg("Node950");
+   ndebug("Node950");
    if (local_var(LVAR_reaction) > 74) then begin
       call aconvinced;
    end
@@ -535,7 +535,7 @@ procedure Node950 begin
 end
 
 procedure Node952 begin
-   debug_msg("Node952");
+   ndebug("Node952");
    display_msg(mstr(520));
 //JUST DONT TAKE PART UNLESS FESTUS ACTUALLY FIXES REACTOR -NBK
 //take part from festus inventory and put it back
@@ -543,7 +543,7 @@ procedure Node952 begin
 end
 
 procedure Node954 begin
-   debug_msg("Node954");
+   ndebug("Node954");
    if (local_var(LVAR_reaction) > 84) then begin
       call bconvinced;
    end
@@ -556,7 +556,7 @@ procedure Node954 begin
 end
 
 procedure Node956 begin
-   debug_msg("Node956");
+   ndebug("Node956");
    if (local_var(LVAR_reaction) > 94) then begin
       call cconvinced;
    end
@@ -569,7 +569,7 @@ procedure Node956 begin
 end
 
 procedure Node958 begin
-   debug_msg("Node958");
+   ndebug("Node958");
    if (local_var(LVAR_reaction) > 74) then begin
       call Node025;
    end
@@ -582,7 +582,7 @@ procedure Node958 begin
 end
 
 procedure Node960 begin
-   debug_msg("Node960");
+   ndebug("Node960");
    call Node910;
    set_local_var(LVAR_Festus,CONVINCE);
 //JUST DONT TAKE PART UNLESS FESTUS ACTUALLY FIXES REACTOR -NBK
@@ -591,7 +591,7 @@ procedure Node960 begin
 end
 
 procedure Node962 begin
-   debug_msg("Node962");
+   ndebug("Node962");
 //if (obj_is_carrying_obj_pid(self_obj, PID_PART_REQUISITION_FORM)) then begin
    //item:=create_object(PID_PART_REQUISITION_FORM,0,0);
    item:=obj_carrying_pid_obj(self_obj, PID_PART_REQUISITION_FORM);
@@ -603,7 +603,7 @@ procedure Node962 begin
 end
 
 procedure Node980 begin
-   debug_msg("Node980");
+   ndebug("Node980");
    set_local_var(LVAR_Festus,CHICKEN);
    call Node999;
 end
@@ -613,7 +613,7 @@ end
 //end
 
 procedure Node992 begin
-   debug_msg("Node992");
+   ndebug("Node992");
   item:=create_object(PID_REACTOR_DATA_DISK,0,0);
   add_obj_to_inven(dude_obj,item);
   set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_REACTOR_DATA_RECEIVED);
@@ -656,7 +656,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   debug_msg("Node001");
+   ndebug("Node001");
    /*k := random(1,5);
    if (k == 1) then floater(110);
    else if (k == 2) then floater(111);
@@ -669,7 +669,7 @@ procedure Node001 begin
 end
 
 procedure Node002 begin
-   debug_msg("Node002");
+   ndebug("Node002");
    if (local_var(LVAR_02_before) == 0) then begin
        set_local_var(LVAR_02_before,1);
        Reply(120);
@@ -690,14 +690,14 @@ procedure Node002 begin
 end
 
 procedure Node003 begin
-   debug_msg("Node003");
+   ndebug("Node003");
    Reply(131);
    NOption(132,Node038,004);
    NOption(133,Node999,004);
 end
 
 procedure Node004 begin
-   debug_msg("Node004");
+   ndebug("Node004");
    if (times_at_04 == 0) then begin
       times_at_04 := times_at_04 + 1;
       Reply(141);
@@ -713,7 +713,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   debug_msg("Node005");
+   ndebug("Node005");
    times_at_05 := 1; //mark that we've been here
    Reply(150);
    NOption(151,Node004,004);
@@ -721,7 +721,7 @@ procedure Node005 begin
 end
 
 procedure Node006 begin
-   debug_msg("Node006");
+   ndebug("Node006");
    times_at_06 := 1; //mark that we've been here
    Reply(160);
    NOption(161,Node004,004);
@@ -729,144 +729,144 @@ procedure Node006 begin
 end
 
 procedure Node007 begin
-   debug_msg("Node007");
+   ndebug("Node007");
    Reply(170);
    GOption(171,Node920,004);
    NOption(172,Node999,004);
 end
 
 procedure Node008 begin
-   debug_msg("Node008");
+   ndebug("Node008");
    Reply(180);
    GOption(181,Node922,004);
    NOption(182,Node999,004);
 end
 
 procedure Node009 begin
-   debug_msg("Node009");
+   ndebug("Node009");
    Reply(190);
    GOption(191,Node924,004);
    NOption(192,Node999,004);
 end
 
 procedure Node010 begin
-   debug_msg("Node010");
+   ndebug("Node010");
    Reply(200);
    GOption(201,Node926,004);
    NOption(202,Node999,004);
 end
 
 procedure Node011 begin
-   debug_msg("Node011");
+   ndebug("Node011");
    Reply(210);
    GOption(211,Node928,004);
    NOption(212,Node999,004);
 end
 
 procedure Node012 begin
-   debug_msg("Node012");
+   ndebug("Node012");
    Reply(220);
    GOption(221,Node930,004);
    NOption(222,Node999,004);
 end
 
 procedure Node013 begin
-   debug_msg("Node013");
+   ndebug("Node013");
    Reply(230);
    GOption(231,Node934,004);
    NOption(232,Node999,004);
 end
 
 procedure Node014 begin
-   debug_msg("Node014");
+   ndebug("Node014");
    Reply(240);
    GOption(241,Node022,004);
    NOption(242,Node999,004);
 end
 
 procedure Node015 begin
-   debug_msg("Node015");
+   ndebug("Node015");
    Reply(250);
    GOption(251,Node950,004);
    NOption(252,Node952,004);
 end
 
 procedure Node016 begin
-   debug_msg("Node016");
+   ndebug("Node016");
    Reply(260);
    NOption(261,Node954,004);
    NOption(262,Node952,004);
 end
 
 procedure Node017 begin
-   debug_msg("Node017");
+   ndebug("Node017");
    Reply(270);
    NOption(271,Node956,004);
    NOption(272,Node952,004);
 end
 
 procedure Node018 begin
-   debug_msg("Node018");
+   ndebug("Node018");
    Reply(300);
    NOption(301,Node019,004);
    NOption(302,Node004,004);
 end
 
 procedure Node019 begin
-   debug_msg("Node019");
+   ndebug("Node019");
    Reply(310);
    NOption(311,Node020,004);
    NOption(312,Node999,004);
 end
 
 procedure Node020 begin
-   debug_msg("Node020");
+   ndebug("Node020");
    Reply(320);
    NOption(321,Node021,004);
 end
 
 procedure Node021 begin
-   debug_msg("Node021");
+   ndebug("Node021");
    Reply(330);
    GOption(331,Node932,004);
    NOption(332,Node999,004);
 end
 
 procedure Node022 begin
-   debug_msg("Node022");
+   ndebug("Node022");
    Reply(340);
    NOption(341,Node023,004);
    NOption(342,Node958,004);
 end
 
 procedure Node023 begin
-   debug_msg("Node023");
+   ndebug("Node023");
    Reply(350);
    NOption(351,Node024,004);
    NOption(352,Node999,004);
 end
 
 procedure Node024 begin
-   debug_msg("Node024");
+   ndebug("Node024");
    Reply(360);
    NOption(361,Node958,004);
 end
 
 procedure Node025 begin
-   debug_msg("Node025");
+   ndebug("Node025");
    Reply(370);
    NOption(371,Node960,004);
    NOption(372,Node999,004);
 end
 
 procedure Node026 begin
-   debug_msg("Node026");
+   ndebug("Node026");
    Reply(380);
    NOption(381,Node980,001);
 end
 
 procedure Node027 begin
-   debug_msg("Node027");
+   ndebug("Node027");
    set_local_var(LVAR_Festus, REFUSED);
    /*k := random(1,5);
    if (k == 1) then floater(390);
@@ -882,25 +882,25 @@ procedure Node027 begin
 end
 
 procedure Node028 begin
-   debug_msg("Node028");
+   ndebug("Node028");
    Reply(400);
    NOption(401,Node999,004);
 end
 
 procedure Node029 begin
-   debug_msg("Node029");
+   ndebug("Node029");
    Reply(410);
    NOption(411,Node999,004);
 end
 
 procedure Node030 begin
-   debug_msg("Node030");
+   ndebug("Node030");
    Reply(random(420,425));
    NOption(510,Node30a,001);
 end
 
 procedure Node30a begin
-   debug_msg("Node30a");
+   ndebug("Node30a");
    //if (local_var(LVAR_30_before) == 0) then begin
    //   set_local_var(LVAR_30_before, 1);
       item:=obj_carrying_pid_obj(dude_obj, PID_HY_MAG_PART);
@@ -918,14 +918,14 @@ procedure Node30a begin
 end
 
 procedure Node031 begin
-   debug_msg("Node031");
+   ndebug("Node031");
    Reply(430);
    NOption(431,Node032,004);
    NOption(432,Node004,004);
 end
 
 procedure Node032 begin
-   debug_msg("Node032");
+   ndebug("Node032");
    Reply(440);
    NOption(441,Node940,004);
    NOption(442,Node942,004);
@@ -934,7 +934,7 @@ procedure Node032 begin
 end
 
 procedure Node033 begin
-   debug_msg("Node033");
+   ndebug("Node033");
    if (obj_is_carrying_obj_pid(self_obj, PID_PART_REQUISITION_FORM)) then begin
       Reply(450);
       NOption(452,Node962,004);
@@ -946,40 +946,40 @@ procedure Node033 begin
 end
 
 procedure Node034 begin
-   debug_msg("Node034");
+   ndebug("Node034");
    Reply(460);
    NOption(461,Node999,004);
    BOption(462,Node999,004);
 end
 
 procedure Node035 begin
-   debug_msg("Node036");
+   ndebug("Node036");
    Reply(470);
    NOption(471,Node031,004);
    BOption(472,Node999,004);
 end
 
 procedure Node036 begin
-   debug_msg("Node036");
+   ndebug("Node036");
    Reply(480);
    NOption(481,Node037,004);
 end
 
 procedure Node037 begin
-   debug_msg("Node037");
+   ndebug("Node037");
    Reply(490);
    NOption(491,Node002,004);
 end
 
 procedure Node038 begin
-   debug_msg("Node038");
+   ndebug("Node038");
    set_global_var(GVAR_QUEST_OPTIMIZE_POWER_PLANT, OPTIMIZE_POWER_PLANT_ACCEPT);
    Reply(800);
    NOption(801,Node039,004);
 end
 
 procedure Node039 begin
-   debug_msg("Node039");
+   ndebug("Node039");
    Reply(802);
    NOption(803,Node040,004);
    if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED) then
@@ -988,34 +988,34 @@ procedure Node039 begin
 end
 
 procedure Node040 begin
-   debug_msg("Node040");
+   ndebug("Node040");
    Reply(806);
    GOption(807,Node042,004);
    BOption(808,Node999,004);
 end
 
 procedure Node041 begin
-   debug_msg("Node041");
+   ndebug("Node041");
    Reply(809);
    GOption(810,Node042,004);
    BOption(811,Node999,004);
 end
 
 procedure Node042 begin
-   debug_msg("Node042");
+   ndebug("Node042");
    Reply(812);
    GOption(813,Node043,004);
    BOption(814,Node999,004);
 end
 
 procedure Node043 begin
-   debug_msg("Node043");
+   ndebug("Node043");
    Reply(815);
    GOption(816,Node992,004);
 end
 
 procedure Node044 begin
-   debug_msg("Node044");
+   ndebug("Node044");
    //floater(random(817,820));
 
    float_msg(self_obj, message_str(NAME,random(817,820)),FLOAT_MSG_NORMAL); //edit by killap
@@ -1023,7 +1023,7 @@ procedure Node044 begin
 end
 
 procedure Node045 begin
-   debug_msg("Node045");
+   ndebug("Node045");
    //floater(random(821,824));
 
    float_msg(self_obj, message_str(NAME,random(821,824)),FLOAT_MSG_NORMAL); //edit by killap
@@ -1031,27 +1031,27 @@ procedure Node045 begin
 end
 
 procedure Node046 begin
-   debug_msg("Node046");
+   ndebug("Node046");
    Reply(825);
    GOption(826,Node999,004);
    NOption(827,Node999,004);
 end
 
 procedure Node047 begin
-   debug_msg("Node047");
+   ndebug("Node047");
    //floater(random(828,831));
    float_msg(self_obj, message_str(NAME,random(828,831)),FLOAT_MSG_NORMAL); //edit by killap
 end
 
 procedure Node050 begin
-   debug_msg("Node050");
+   ndebug("Node050");
    Reply(610);
    NOption(620,Node060,004);
    NOption(630,Node999,004);
 end
 
 procedure Node060 begin
-   debug_msg("Node060");
+   ndebug("Node060");
    gfade_out(600);
    game_time_advance(game_ticks(k*360)); //6 minutes
    gfade_in(600);

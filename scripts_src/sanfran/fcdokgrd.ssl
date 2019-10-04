@@ -95,7 +95,7 @@ procedure timed_event_p_proc begin
    if (fixed_param == 2) then begin
       tmp := random(1,4);
       if (self_tile == RIGHT_END_TILE) then begin
-         debug_msg("right");
+         ndebug("right");
          if (tmp == 1) then begin
             animate_move_to_tile(local_var(LVAR_Home_Tile));
          end else if (tmp == 3) then begin
@@ -103,7 +103,7 @@ procedure timed_event_p_proc begin
          end
             //else stay
       end else if (self_tile == LEFT_END_TILE) then begin
-         debug_msg("left");
+         ndebug("left");
          if (tmp == 1) then begin
             animate_move_to_tile(local_var(LVAR_Home_Tile));
          end else if (tmp == 3) then begin
@@ -111,7 +111,7 @@ procedure timed_event_p_proc begin
          end
             //else stay
       end else if (self_tile == local_var(LVAR_Home_Tile)) then begin
-         debug_msg("home");
+         ndebug("home");
          if (tmp == 1) then begin
             animate_move_to_tile(LEFT_END_TILE);
          end else if (tmp == 3) then begin

@@ -606,7 +606,7 @@ end
 procedure Node014a begin
    set_local_var(LVAR_Said_14,1);
 
-   debug_msg("get_day == "+get_day+". START_DAY == "+START_DAY);
+   ndebug("get_day == "+get_day+". START_DAY == "+START_DAY);
 
    if (get_day == START_DAY) then
        call Node015;

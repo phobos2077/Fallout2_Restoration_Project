@@ -167,7 +167,7 @@ procedure critter_p_proc begin
                end
             end
          end else if (self_tile == SAVE_TILE or self_tile == SAVE_TILE1) then begin
-            debug_msg("FCSUZE: should be warping");
+            ndebug("should be warping");
             set_local_var(LVAR_Follow_Dude, 0);
             move_to(self_obj, BADGER_GIRL_TILE, 0);
          end else begin

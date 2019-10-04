@@ -176,7 +176,7 @@ procedure map_enter_p_proc begin
 
 
    if (local_var(LVAR_Restock_Time) < game_time) then begin
-      debug_msg("Should have restocked");
+      ndebug("Should have restocked");
       //check_restock_item(PID_BOOZE, 10, 20, 100)
       //check_restock_item(PID_BEER, 20, 30, 100)
       check_restock_item(PID_GAMMA_GULP_BEER, 5, 10, 100)

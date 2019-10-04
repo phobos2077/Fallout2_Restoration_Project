@@ -143,7 +143,7 @@ procedure map_enter_p_proc begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT15);
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
 
-   debug_msg("CUR_MAP_INDEX: " + cur_map_index);
+   ndebug("CUR_MAP_INDEX: " + cur_map_index);
    if (not is_loading_game) then begin
 
       if (not andV15Status(V15_FOUND) and cur_map_index != MAP_VAULT_15_EAST_ENTRANCE) then
@@ -224,7 +224,7 @@ procedure talk_p_proc begin
       call Node007;
    end
 
-   debug_msg("BCCRISSY: andV15Status(V15_TRUST): " + andV15Status(V15_TRUST));
+   ndebug("andV15Status(V15_TRUST): " + andV15Status(V15_TRUST));
    if (not andV15Status(V15_TRUST) and not andV15Status(V15_RESCUED)) then begin
       orV15Status(V15_FOUND);
       add_timer_event(self_obj, 0, TIMER_RUN);

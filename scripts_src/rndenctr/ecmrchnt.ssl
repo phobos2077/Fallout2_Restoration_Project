@@ -118,7 +118,7 @@ procedure critter_p_proc begin
    if ((obj_can_see_obj(self_obj,dude_obj)) and (local_var(LVAR_Said_Line) == 0)) then begin
        set_local_var(LVAR_Said_Line,1);
        floater(random(102,105));
-       debug_msg("Need to set up shop");
+       ndebug("Need to set up shop");
    end
 
 end

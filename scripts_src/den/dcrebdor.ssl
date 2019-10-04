@@ -73,7 +73,7 @@ procedure Node005;
                                                 floater_rand(350, 357);                                                          \
                                              end                                                                                 \
                                           end                                                                                    \
-                                          debug_msg("guard post state == "+x);                                                   \
+                                          ndebug("guard post state == "+x);                                                   \
                                           set_local_var(LVAR_Post_State, x)
 
 #define check_door_open                   the_door := false;                           \

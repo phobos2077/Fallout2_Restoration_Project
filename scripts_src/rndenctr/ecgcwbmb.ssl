@@ -105,9 +105,9 @@ procedure critter_p_proc begin
 end
 
 procedure doExplosion begin
-   debug_msg("ECGCWBMB: check explosion range");
+   ndebug("check explosion range");
    if (tile_distance_objs(self_obj, dude_obj) < COW_BLOW_DISTANCE) then begin
-      debug_msg("ECGCWBMB: should be exploding");
+      ndebug("should be exploding");
       terminate_combat;
       explosion(self_tile, elevation(self_obj), COW_BLOW_DAMAGE);
       return 1;

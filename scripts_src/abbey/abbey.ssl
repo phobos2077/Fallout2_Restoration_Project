@@ -30,17 +30,17 @@ procedure map_enter_p_proc
 begin
   if (metarule(14, 0)) then
     display_msg(message_str(SCRIPT_ABBEY, 100));
-  debug_msg("Check_Create_Car(" + 23520 + "," + 0 + ")");
+  ndebug("Check_Create_Car(" + 23520 + "," + 0 + ")");
   if (not metarule(22, 0)) then
   begin
     if (global_var(GVAR_PLAYER_GOT_CAR) != 0) then
     begin
-      debug_msg("car_current_town == " + metarule(30, 0) + " / map_get_load_area == " + metarule3(111, 0, 0, 0));
+      ndebug("car_current_town == " + metarule(30, 0) + " / map_get_load_area == " + metarule3(111, 0, 0, 0));
       if ((metarule(30, 0) == metarule3(111, 0, 0, 0)) or ((26 <= metarule(30, 0)) and (metarule(30, 0) <= 29) and (metarule3(111, 0, 0, 0) == -1))) then
       begin
-        debug_msg("Place_Car(" + 23520 + "," + 0 + ")");
-        debug_msg("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
-        debug_msg("   Car_At_Loc == " + (tile_contains_pid_obj(23520, 0, 33555441) != 0));
+        ndebug("Place_Car(" + 23520 + "," + 0 + ")");
+        ndebug("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
+        ndebug("   Car_At_Loc == " + (tile_contains_pid_obj(23520, 0, 33555441) != 0));
         if ((global_var(GVAR_CAR_PLACED_TILE) <= 0) or (23520 == global_var(GVAR_CAR_PLACED_TILE))) then
         begin
           set_global_var(GVAR_CAR_PLACED_TILE, 23520);
@@ -159,7 +159,7 @@ begin
         begin
           if (not(tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(23520, 5, 2), 4, 1), 0, 455) != 0)) then
           begin
-            debug_msg("placing trunk:");
+            ndebug("placing trunk:");
             Scenery_Creation_Ptr := 0;
             if (party_member_obj(455) != 0) then
               Scenery_Creation_Ptr := party_member_obj(455);
@@ -185,13 +185,13 @@ begin
               end
             end
             else
-              debug_msg("WE HAD AN ERROR WITH THE TRUNK PTR, OHHH FUCK");
+              ndebug("WE HAD AN ERROR WITH THE TRUNK PTR, OHHH FUCK");
           end
         end
       end
       else if (tile_contains_pid_obj(23520, 0, 33555441) != 0) then
       begin
-        debug_msg("Dest_Car_Loc(" + 23520 + "," + 0 + ")");
+        ndebug("Dest_Car_Loc(" + 23520 + "," + 0 + ")");
         Scenery_Creation_Ptr := tile_contains_pid_obj(23520, 0, 33555441);
         if (Scenery_Creation_Ptr != 0) then
         begin
@@ -345,10 +345,10 @@ begin
       end
     end
     else
-      debug_msg("the player hasn't gotten the car, can't place it");
+      ndebug("the player hasn't gotten the car, can't place it");
   end
   else
-    debug_msg("sorry, can't place the car, the game's loading");
+    ndebug("sorry, can't place the car, the game's loading");
   if (elevation(dude_obj) == 0) then
   begin
   if ((get_month >= 3) and (get_month < 5)) then

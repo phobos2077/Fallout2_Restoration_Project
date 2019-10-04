@@ -91,7 +91,7 @@ end
 
 procedure damage_p_proc begin
 variable set_off := false;
-   debug_msg("safe damage_p_proc");
+   ndebug("safe damage_p_proc");
    if (target_obj != 0) then begin
       if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
          set_off := true;

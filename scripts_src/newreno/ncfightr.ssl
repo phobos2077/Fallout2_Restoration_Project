@@ -284,7 +284,7 @@ variable the_cnt;
       the_cnt := 0;
       while ((tile_boxing_gym_ring(self_tile) == false) and (the_cnt <= 5)) do begin
          the_cnt += 1;
-         debug_msg("trying to find a place for the boxer to be in the ring");
+         ndebug("trying to find a place for the boxer to be in the ring");
          random_tile_in_gym;
          critter_attempt_placement(self_obj, temp_tile, self_elevation);
       end
@@ -346,7 +346,7 @@ procedure destroy_p_proc begin
 end
 
 procedure look_at_p_proc begin
-   debug_msg("look_at_p_proc for boxer #" + local_var(LVAR_Boxer_Num));
+   ndebug("look_at_p_proc for boxer #" + local_var(LVAR_Boxer_Num));
    script_overrides;
    display_mstr(100);
 end

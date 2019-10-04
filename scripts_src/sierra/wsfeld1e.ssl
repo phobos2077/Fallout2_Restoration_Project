@@ -108,7 +108,7 @@ procedure map_update_p_proc begin
    end
 
    else if (obj_pid(self_obj) != -1) then begin
-       debug_msg("WSFELD1E: changing to pain field");
+       ndebug("WSFELD1E: changing to pain field");
        if (obj_pid(self_obj) == PID_NS_FORCE_FIELD) then begin
            FIELD_PTR:=create_object_sid(PID_NS_PAIN_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
            destroy_object(self_obj);

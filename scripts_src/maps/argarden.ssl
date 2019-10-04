@@ -94,7 +94,7 @@ procedure Make_Geckos begin
 // Small Geckos
    if (map_var(MVAR_Current_Gecko_Easy) < MIN_SMALL_GECKO) then begin
        New_SmGeckos:=random(MIN_SMALL_GECKO,MAX_SMALL_GECKO);
-       debug_msg("Making "+New_SmGeckos+" new small Geckos.");
+       ndebug("Making "+New_SmGeckos+" new small Geckos.");
        while (SmGecko_Counter < New_SmGeckos) do begin
            Next_Hex;
            item:=create_object_sid(PID_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
@@ -109,7 +109,7 @@ procedure Make_Geckos begin
    end
    else if ((map_var(MVAR_Current_Gecko_Easy) >= MIN_SMALL_GECKO) and (map_var(MVAR_Current_Gecko_Easy) < MAX_SMALL_GECKO)) then begin
        New_SmGeckos:=random(0,MAX_SMALL_GECKO-MIN_SMALL_GECKO);
-       debug_msg("Making "+New_SmGeckos+" new small Geckos.");
+       ndebug("Making "+New_SmGeckos+" new small Geckos.");
        while (SmGecko_Counter < New_SmGeckos) do begin
            Next_Hex;
            item:=create_object_sid(PID_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
@@ -128,7 +128,7 @@ procedure Make_Geckos begin
 // Tough small Geckos
    if (map_var(MVAR_Current_Gecko_Hard) < MIN_TOUGH_GECKO) then begin
        New_Geckos:=random(MIN_TOUGH_GECKO,MIN_TOUGH_GECKO);
-       debug_msg("Making "+New_Geckos+" new small tough Geckos.");
+       ndebug("Making "+New_Geckos+" new small tough Geckos.");
        while (Gecko_Counter < New_Geckos) do begin
            Next_Hex;
            item:=create_object_sid(PID_TOUGH_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
@@ -143,7 +143,7 @@ procedure Make_Geckos begin
    end
    else if ((map_var(MVAR_Current_Gecko_Hard) >= MIN_TOUGH_GECKO) and (map_var(MVAR_Current_Gecko_Hard) < MAX_TOUGH_GECKO)) then begin
        New_Geckos:=random(0,MAX_TOUGH_GECKO-MIN_TOUGH_GECKO);
-       debug_msg("Making "+New_Geckos+" new small tough Geckos.");
+       ndebug("Making "+New_Geckos+" new small tough Geckos.");
        while (Gecko_Counter < New_Geckos) do begin
            Next_Hex;
            item:=create_object_sid(PID_TOUGH_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
@@ -168,7 +168,7 @@ procedure Make_Plants begin
 
 // Xander Root Restock
       New_Xanders:=random(MIN_XANDER_ROOT,MAX_XANDER_ROOT);
-       debug_msg("Making "+New_Xanders+" new Xander Roots.");
+       ndebug("Making "+New_Xanders+" new Xander Roots.");
        while (Xander_Counter < New_Xanders) do begin
            Next_Hex;
            item:=create_object(PID_XANDER_ROOT,0,0);
@@ -179,7 +179,7 @@ procedure Make_Plants begin
 
 // Broc Flower Restock
        New_Broc:=random(MIN_BROC_FLOWER,MAX_BROC_FLOWER);
-       debug_msg("Making "+New_Broc+" new Broc Flowers.");
+       ndebug("Making "+New_Broc+" new Broc Flowers.");
        while (Broc_Counter < New_Broc) do begin
            Next_Hex;
            item:=create_object(PID_BROC_FLOWER,0,0);

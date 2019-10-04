@@ -124,7 +124,7 @@ procedure timed_event_p_proc begin
 
        while ((not(tile_in_tile_rect(21725,21711,24711,24725,Move_Hex))) and (Counter < 5)) do begin                // 4 corners of jail cell
            Move_Hex:=tile_num_in_direction(tile_num(self_obj),random(0,5),random(2,4));
-           debug_msg("I'm trying to walk out of the cell. Trying to goto tile: "+Move_Hex);
+           ndebug("I'm trying to walk out of the cell. Trying to goto tile: "+Move_Hex);
            Counter+=1;
        end
        if (tile_in_tile_rect(21725,21711,24711,24725,Move_Hex)) then

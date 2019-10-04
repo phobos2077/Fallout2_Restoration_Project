@@ -187,36 +187,36 @@ procedure map_enter_p_proc begin
 
        if (global_var(GVAR_MEDICINE_CARAVAN) == REDDING_CARAVAN_ON_CARAVAN) then begin
            call Redding_Caravan;
-           debug_msg("Redding Medicine Caravan.");
+           ndebug("Redding Medicine Caravan.");
        end
        else if (global_var(GVAR_CATTLE_DRIVE_CARAVAN) == REDDING_CARAVAN_ON_CARAVAN) then begin
            call Redding_Caravan;
-           debug_msg("Redding Cattle Drive.");
+           ndebug("Redding Cattle Drive.");
        end
        else if (global_var(GVAR_JET_CARAVAN) == REDDING_CARAVAN_ON_CARAVAN) then begin
            call Redding_Caravan;
-           debug_msg("Redding Jet Caravan.");
+           ndebug("Redding Jet Caravan.");
        end
        else if (global_var(GVAR_BH_CARAVAN) == CARAVAN_STATUS_ON_JOB) then begin
            call Broken_Hills_Caravan;
-           debug_msg("Broken Hills Caravan.");
+           ndebug("Broken Hills Caravan.");
        end
        else if (cattle_drive(CATTLE_ON)) then begin
            call NCR_Cattle_Drive;
-           debug_msg("NCR Cattle Drive.");
+           ndebug("NCR Cattle Drive.");
        end
        else begin
            call Default_Caravan;
-           debug_msg("Default Caravan.");
+           ndebug("Default Caravan.");
        end
 
        Encounter_Number:=total_encounters - encounters_left;
-       debug_msg("Total Encounters == "+total_encounters+". Encounters Left == "+encounters_left+". On Encounter "+Encounter_Number);
+       ndebug("Total Encounters == "+total_encounters+". Encounters Left == "+encounters_left+". On Encounter "+Encounter_Number);
        made_encounter;
 
        if ((Combat1 != 0) and (Combat2 != 0)) then begin
            attack_setup(Combat1,Combat2);
-           debug_msg("Having "+Combat1+" fighting "+Combat2+".");
+           ndebug("Having "+Combat1+" fighting "+Combat2+".");
        end
    end                     // End of map_first_run
 
@@ -237,7 +237,7 @@ procedure map_update_p_proc begin
 
    if (map_var(MVAR_Hostile_Total) <= 0) then begin   //edit by killap (incase you drop below zero, things will still run)
        if (encounters_left == 0) then begin
-           debug_msg("Caravan_End == "+caravan_end);
+           ndebug("Caravan_End == "+caravan_end);
            if (caravan_end == CARAVAN_REDDING) then begin
                set_exit_grids(0,MAP_REDDING_MINE_ENT,0,REDDING_ENT_HEX,0);
            end
@@ -407,7 +407,7 @@ procedure Redding_Caravan begin
    call Build_Caravan_Team;
 
    if (global_var(GVAR_MEDICINE_CARAVAN) == REDDING_CARAVAN_ON_CARAVAN) then begin
-       debug_msg("In Medicine Caravan Encounter Setup.");
+       ndebug("In Medicine Caravan Encounter Setup.");
        if (caravan_start == CARAVAN_REDDING) then
            call Red_VC_Encounters;
        else
@@ -419,7 +419,7 @@ procedure Redding_Caravan begin
    end
 
    else if (global_var(GVAR_CATTLE_DRIVE_CARAVAN) == REDDING_CARAVAN_ON_CARAVAN) then begin
-       debug_msg("In Cattle Drive Encounter Setup.");
+       ndebug("In Cattle Drive Encounter Setup.");
        if (caravan_start == CARAVAN_REDDING) then
            call Red_NCR_Encounters;
        else
@@ -431,7 +431,7 @@ procedure Redding_Caravan begin
    end
 
    else if (global_var(GVAR_JET_CARAVAN) == REDDING_CARAVAN_ON_CARAVAN) then begin
-       debug_msg("In Jet Caravan Encounter Setup.");
+       ndebug("In Jet Caravan Encounter Setup.");
        if (caravan_start == CARAVAN_REDDING) then
            call Red_Reno_Encounters;
        else
@@ -1619,7 +1619,7 @@ procedure Broken_Hills_Brok_Encounter begin
 
    // enc_00
    if (Encounter < 10) then begin
-       debug_msg("Brok_Encounter Table, Encounter 00");
+       ndebug("Brok_Encounter Table, Encounter 00");
        display_msg(mstr(100));
        Encounter_Counter:=random(7,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -1631,7 +1631,7 @@ procedure Broken_Hills_Brok_Encounter begin
    end
    // enc_01
    else if (Encounter < 30) then begin
-       debug_msg("Brok_Encounter Table, Encounter 01");
+       ndebug("Brok_Encounter Table, Encounter 01");
        display_msg(mstr(101));
        Encounter_Counter:=random(8,12);
        Encounter_Rotation:=(dude_cur_rot+random(0,3))%6;
@@ -1639,7 +1639,7 @@ procedure Broken_Hills_Brok_Encounter begin
    end
    // enc_02
    else if (Encounter < 40) then begin
-       debug_msg("Brok_Encounter Table, Encounter 02");
+       ndebug("Brok_Encounter Table, Encounter 02");
        display_msg(mstr(102));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=(dude_cur_rot+2)%6;
@@ -1647,7 +1647,7 @@ procedure Broken_Hills_Brok_Encounter begin
    end
    // enc_03
    else if (Encounter < 50) then begin
-       debug_msg("Brok_Encounter Table, Encounter 03");
+       ndebug("Brok_Encounter Table, Encounter 03");
        display_msg(mstr(103));
        Encounter_Counter:=random(6,12);
        Encounter_Rotation:=(dude_cur_rot);
@@ -1655,7 +1655,7 @@ procedure Broken_Hills_Brok_Encounter begin
    end
    // enc_04
    else if (Encounter < 60) then begin
-       debug_msg("Brok_Encounter Table, Encounter 04");
+       ndebug("Brok_Encounter Table, Encounter 04");
        display_msg(mstr(104));
        Encounter_Counter:=random(8,14);
        Encounter_Rotation:=random(0,5);
@@ -1663,7 +1663,7 @@ procedure Broken_Hills_Brok_Encounter begin
    end
    // enc_05
    else if (Encounter < 70) then begin
-       debug_msg("Brok_Encounter Table, Encounter 05");
+       ndebug("Brok_Encounter Table, Encounter 05");
        display_msg(mstr(105));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(3,5);
@@ -1677,7 +1677,7 @@ procedure Broken_Hills_Brok_Encounter begin
    end
    // enc_06
    else if (Encounter < 80) then begin
-       debug_msg("Brok_Encounter Table, Encounter 06");
+       ndebug("Brok_Encounter Table, Encounter 06");
        display_msg(mstr(106));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,2);
@@ -1691,7 +1691,7 @@ procedure Broken_Hills_Brok_Encounter begin
    end
    // enc_07
    else if (Encounter < 100) then begin
-       debug_msg("Brok_Encounter Table, Encounter 07");
+       ndebug("Brok_Encounter Table, Encounter 07");
        display_msg(mstr(107));
        Encounter_Counter:=random(8,14);
        Encounter_Rotation:=random(0,5);
@@ -1722,7 +1722,7 @@ procedure Broken_Hills_VPat_Encounter begin
 
    // enc_00
    if (Encounter < 10) then begin
-       debug_msg("VPat_Encounter Table, Encounter 00");
+       ndebug("VPat_Encounter Table, Encounter 00");
        display_msg(mstr(150));
        Encounter_Counter:=random(4,7);
        Encounter_Rotation:=random(0,5);
@@ -1734,7 +1734,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_01
    else if (Encounter < 20) then begin
-       debug_msg("VPat_Encounter Table, Encounter 01");
+       ndebug("VPat_Encounter Table, Encounter 01");
        display_msg(mstr(151));
        Encounter_Counter:=random(6,12);
        Encounter_Rotation:=(dude_cur_rot);
@@ -1742,7 +1742,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_02
    else if (Encounter < 30) then  begin
-       debug_msg("VPat_Encounter Table, Encounter 02");
+       ndebug("VPat_Encounter Table, Encounter 02");
        display_msg(mstr(152));
        Encounter_Counter:=random(6,12);
        Encounter_Rotation:=random(3,5);
@@ -1750,7 +1750,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_03
    else if (Encounter < 40) then begin
-       debug_msg("VPat_Encounter Table, Encounter 03");
+       ndebug("VPat_Encounter Table, Encounter 03");
        display_msg(mstr(153));
        Encounter_Counter:=random(8,14);
        Encounter_Rotation:=random(0,5);
@@ -1758,7 +1758,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_04
    else if (Encounter < 50) then begin
-       debug_msg("VPat_Encounter Table, Encounter 04");
+       ndebug("VPat_Encounter Table, Encounter 04");
        display_msg(mstr(154));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(0,2);
@@ -1776,7 +1776,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_05
    else if (Encounter < 60) then begin
-       debug_msg("VPat_Encounter Table, Encounter 05");
+       ndebug("VPat_Encounter Table, Encounter 05");
        display_msg(mstr(155));
        Encounter_Counter:=random(4,7);
        Encounter_Rotation:=dude_cur_rot;
@@ -1790,7 +1790,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_06
    else if (Encounter < 70) then begin
-       debug_msg("VPat_Encounter Table, Encounter 06");
+       ndebug("VPat_Encounter Table, Encounter 06");
        display_msg(mstr(156));
        Encounter_Counter:=random(5,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -1804,7 +1804,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_07
    else if (Encounter < 80) then begin
-       debug_msg("VPat_Encounter Table, Encounter 07");
+       ndebug("VPat_Encounter Table, Encounter 07");
        display_msg(mstr(157));
        Encounter_Counter:=random(3,5);
        Encounter_Rotation:=2;
@@ -1818,7 +1818,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_08
    else if (Encounter < 90) then begin
-       debug_msg("VPat_Encounter Table, Encounter 08");
+       ndebug("VPat_Encounter Table, Encounter 08");
        display_msg(mstr(158));
        Encounter_Counter:=random(3,5);
        Encounter_Rotation:=random(2,5);
@@ -1832,7 +1832,7 @@ procedure Broken_Hills_VPat_Encounter begin
    end
    // enc_09
    else if (Encounter < 100) then begin
-       debug_msg("VPat_Encounter Table, Encounter 09");
+       ndebug("VPat_Encounter Table, Encounter 09");
        display_msg(mstr(159));
        Encounter_Counter:=random(6,12);
        Encounter_Rotation:=3;
@@ -1863,7 +1863,7 @@ procedure Broken_Hills_RDRC_Encounter begin
 
    // enc_00
    if (Encounter < 25) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 00");
+       ndebug("RDRC_Encounter Table, Encounter 00");
        display_msg(mstr(200));
        Encounter_Counter:=random(7,12);
        Encounter_Rotation:=(dude_cur_rot);
@@ -1871,7 +1871,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_01
    else if (Encounter < 40) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 01");
+       ndebug("RDRC_Encounter Table, Encounter 01");
        display_msg(mstr(201));
        Encounter_Counter:=random(8,14);
        Encounter_Rotation:=random(0,5);
@@ -1879,7 +1879,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_02
    else if (Encounter < 49) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 02");
+       ndebug("RDRC_Encounter Table, Encounter 02");
        display_msg(mstr(202));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=2;
@@ -1893,7 +1893,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_03
    else if (Encounter < 58) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 03");
+       ndebug("RDRC_Encounter Table, Encounter 03");
        display_msg(mstr(203));
        Encounter_Counter:=random(4,6);
        Encounter_Rotation:=3;
@@ -1907,7 +1907,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_04
    else if (Encounter < 67) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 04");
+       ndebug("RDRC_Encounter Table, Encounter 04");
        display_msg(mstr(204));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=4;
@@ -1921,7 +1921,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_05
    else if (Encounter < 76) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 05");
+       ndebug("RDRC_Encounter Table, Encounter 05");
        display_msg(mstr(205));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=5;
@@ -1935,7 +1935,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_06
    else if (Encounter < 82) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 06");
+       ndebug("RDRC_Encounter Table, Encounter 06");
        display_msg(mstr(206));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=2;
@@ -1943,7 +1943,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_07
    else if (Encounter < 88) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 07");
+       ndebug("RDRC_Encounter Table, Encounter 07");
        display_msg(mstr(207));
        Encounter_Counter:=random(4,6);
        Encounter_Rotation:=3;
@@ -1951,7 +1951,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_08
    else if (Encounter < 94) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 08");
+       ndebug("RDRC_Encounter Table, Encounter 08");
        display_msg(mstr(208));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=4;
@@ -1959,7 +1959,7 @@ procedure Broken_Hills_RDRC_Encounter begin
    end
    // enc_09
    else if (Encounter < 100) then begin
-       debug_msg("RDRC_Encounter Table, Encounter 09");
+       ndebug("RDRC_Encounter Table, Encounter 09");
        display_msg(mstr(209));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=5;
@@ -1987,7 +1987,7 @@ procedure Broken_Hills_VNNB_Encounter begin
 
    // enc_00
    if (Encounter < 20) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 00");
+       ndebug("VNNB_Encounter Table, Encounter 00");
        display_msg(mstr(250));
        Encounter_Counter:=random(8,14);
        Encounter_Rotation:=dude_cur_rot;
@@ -1995,7 +1995,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_01
    else if (Encounter < 30) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 01");
+       ndebug("VNNB_Encounter Table, Encounter 01");
        display_msg(mstr(251));
        Encounter_Counter:=random(8,15);
        Encounter_Rotation:=random(0,5);
@@ -2003,7 +2003,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_02
    else if (Encounter < 40) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 02");
+       ndebug("VNNB_Encounter Table, Encounter 02");
        display_msg(mstr(252));
        Encounter_Counter:=random(7,12);
        Encounter_Rotation:=random(0,5);
@@ -2011,7 +2011,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_03
    else if (Encounter  < 48) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 03");
+       ndebug("VNNB_Encounter Table, Encounter 03");
        display_msg(mstr(253));
        Encounter_Counter:=random(5,9);
        Encounter_Counter:=random(2,4);
@@ -2025,7 +2025,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_04
    else if (Encounter < 56) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 04");
+       ndebug("VNNB_Encounter Table, Encounter 04");
        display_msg(mstr(254));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(1,3);
@@ -2039,7 +2039,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_05
    else if (Encounter < 64) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 05");
+       ndebug("VNNB_Encounter Table, Encounter 05");
        display_msg(mstr(255));
        Encounter_Counter:=random(5,10);
        Encounter_Rotation:=2;
@@ -2053,7 +2053,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_06
    else if (Encounter < 72) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 06");
+       ndebug("VNNB_Encounter Table, Encounter 06");
        display_msg(mstr(256));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=3;
@@ -2067,7 +2067,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_07
    else if (Encounter < 77) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 07");
+       ndebug("VNNB_Encounter Table, Encounter 07");
        display_msg(mstr(257));
        Encounter_Counter:=random(5,9);
        Encounter_Counter:=random(2,4);
@@ -2075,7 +2075,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_08
    else if (Encounter < 82) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 08");
+       ndebug("VNNB_Encounter Table, Encounter 08");
        display_msg(mstr(258));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(1,3);
@@ -2083,7 +2083,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_09
    else if (Encounter < 87) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 09");
+       ndebug("VNNB_Encounter Table, Encounter 09");
        display_msg(mstr(259));
        Encounter_Counter:=random(5,10);
        Encounter_Rotation:=2;
@@ -2091,7 +2091,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_10
    else if (Encounter < 92) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 10");
+       ndebug("VNNB_Encounter Table, Encounter 10");
        display_msg(mstr(260));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=3;
@@ -2099,7 +2099,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    end
    // enc_11
    else if (Encounter < 100) then begin
-       debug_msg("VNNB_Encounter Table, Encounter 11");
+       ndebug("VNNB_Encounter Table, Encounter 11");
        display_msg(mstr(610));
        Encounter_Counter:=random(1,2);
        Encounter_Rotation:=random(0,5);
@@ -2123,7 +2123,7 @@ procedure Broken_Hills_NCR_Encounter begin
 
    // enc_00
    if (Encounter < 15) then begin
-       debug_msg("NCR_Encounter Table, Encounter 00");
+       ndebug("NCR_Encounter Table, Encounter 00");
        display_msg(mstr(300));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(0,5);
@@ -2131,7 +2131,7 @@ procedure Broken_Hills_NCR_Encounter begin
    end
    // enc_01
    else if (Encounter < 30) then begin
-       debug_msg("NCR_Encounter Table, Encounter 01");
+       ndebug("NCR_Encounter Table, Encounter 01");
        display_msg(mstr(301));
        Encounter_Counter:=random(8,14);
        Encounter_Rotation:=random(2,5);
@@ -2139,7 +2139,7 @@ procedure Broken_Hills_NCR_Encounter begin
    end
    // enc_02
    else if (Encounter < 40) then begin
-       debug_msg("NCR_Encounter Table, Encounter 02");
+       ndebug("NCR_Encounter Table, Encounter 02");
        display_msg(mstr(302));
        Encounter_Counter:=random(5,9);
        Encounter_Rotation:=2;
@@ -2153,7 +2153,7 @@ procedure Broken_Hills_NCR_Encounter begin
    end
    // enc_03
    else if (Encounter < 50) then begin
-       debug_msg("NCR_Encounter Table, Encounter 03");
+       ndebug("NCR_Encounter Table, Encounter 03");
        display_msg(mstr(303));
        Encounter_Counter:=random(5,10);
        Encounter_Rotation:=4;
@@ -2167,7 +2167,7 @@ procedure Broken_Hills_NCR_Encounter begin
    end
    // enc_04
    else if (Encounter < 60) then begin
-       debug_msg("NCR_Encounter Table, Encounter 04");
+       ndebug("NCR_Encounter Table, Encounter 04");
        display_msg(mstr(304));
        Encounter_Counter:=random(2,6);
        Encounter_Rotation:=random(2,4);
@@ -2181,7 +2181,7 @@ procedure Broken_Hills_NCR_Encounter begin
    end
    // enc_05
    else if (Encounter < 70) then begin
-       debug_msg("NCR_Encounter Table, Encounter 05");
+       ndebug("NCR_Encounter Table, Encounter 05");
        display_msg(mstr(305));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(2,5);
@@ -2195,7 +2195,7 @@ procedure Broken_Hills_NCR_Encounter begin
    end
    // enc_06
    else if (Encounter < 90) then begin
-       debug_msg("NCR_Encounter Table, Encounter 06");
+       ndebug("NCR_Encounter Table, Encounter 06");
        display_msg(mstr(306));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,5);
@@ -2203,7 +2203,7 @@ procedure Broken_Hills_NCR_Encounter begin
    end
    // enc_07
    else if (Encounter < 100) then begin
-       debug_msg("NCR_Encounter Table, Encounter 07");
+       ndebug("NCR_Encounter Table, Encounter 07");
        display_msg(mstr(307));
        Encounter_Counter:=random(3,5);
        Encounter_Rotation:=random(0,5);
@@ -2233,7 +2233,7 @@ procedure Redding_DNRV_Encounter begin
 
    // enc_00
    if (Encounter < 10) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 00");
+       ndebug("DNRV_Encounter Table, Encounter 00");
        display_msg(mstr(350));
        Encounter_Counter:=random(7,12);
        Encounter_Rotation:=random(0,4);
@@ -2241,7 +2241,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_01
    else if (Encounter < 20) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 01");
+       ndebug("DNRV_Encounter Table, Encounter 01");
        display_msg(mstr(351));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=random(0,3);
@@ -2253,7 +2253,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_02
    else if (Encounter < 30) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 02");
+       ndebug("DNRV_Encounter Table, Encounter 02");
        display_msg(mstr(352));
        Encounter_Counter:=random(8,12);
        Encounter_Rotation:=random(0,5);
@@ -2261,7 +2261,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_03
    else if (Encounter < 40) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 03");
+       ndebug("DNRV_Encounter Table, Encounter 03");
        display_msg(mstr(353));
        Encounter_Counter:=random(6,12);
        Encounter_Rotation:=random(0,5);
@@ -2269,7 +2269,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_04
    else if (Encounter < 43) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 04");
+       ndebug("DNRV_Encounter Table, Encounter 04");
        display_msg(mstr(354));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=3;
@@ -2283,7 +2283,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_05
    else if (Encounter < 48) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 05");
+       ndebug("DNRV_Encounter Table, Encounter 05");
        display_msg(mstr(355));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=random(0,4);
@@ -2297,7 +2297,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_06
    else if (Encounter < 58) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 06");
+       ndebug("DNRV_Encounter Table, Encounter 06");
        display_msg(mstr(356));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=random(3,5);
@@ -2311,7 +2311,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_07
    else if (Encounter < 68) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 07");
+       ndebug("DNRV_Encounter Table, Encounter 07");
        display_msg(mstr(357));
        Encounter_Counter:=random(8,12);
        Encounter_Rotation:=random(0,5);
@@ -2325,7 +2325,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_08
    else if (Encounter < 78) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 08");
+       ndebug("DNRV_Encounter Table, Encounter 08");
        display_msg(mstr(358));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=3;
@@ -2339,7 +2339,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_09
    else if (Encounter < 88) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 09");
+       ndebug("DNRV_Encounter Table, Encounter 09");
        display_msg(mstr(359));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=random(3,5);
@@ -2353,7 +2353,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_10
    else if (Encounter < 93) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 10");
+       ndebug("DNRV_Encounter Table, Encounter 10");
        display_msg(mstr(360));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=4;
@@ -2361,7 +2361,7 @@ procedure Redding_DNRV_Encounter begin
    end
    // enc_11
    else if (Encounter < 100) then begin
-       debug_msg("DNRV_Encounter Table, Encounter 11");
+       ndebug("DNRV_Encounter Table, Encounter 11");
        display_msg(mstr(361));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=3;
@@ -2391,7 +2391,7 @@ procedure Redding_DMRV_Encounter begin
 
    // enc_00
    if (Encounter < 7) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 00");
+       ndebug("DMRV_Encounter Table, Encounter 00");
        display_msg(mstr(400));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(0,5);
@@ -2399,7 +2399,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_01
    else if (Encounter < 14) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 01");
+       ndebug("DMRV_Encounter Table, Encounter 01");
        display_msg(mstr(401));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(0,5);
@@ -2407,7 +2407,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_02
    else if (Encounter < 21) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 02");
+       ndebug("DMRV_Encounter Table, Encounter 02");
        display_msg(mstr(402));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(0,2);
@@ -2419,7 +2419,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_03
    else if (Encounter < 28) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 03");
+       ndebug("DMRV_Encounter Table, Encounter 03");
        display_msg(mstr(403));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(2,5);
@@ -2431,7 +2431,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_04
    else if (Encounter < 35) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 04");
+       ndebug("DMRV_Encounter Table, Encounter 04");
        display_msg(mstr(404));
        Encounter_Counter:=random(5,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2439,7 +2439,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_05
    else if (Encounter < 42) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 05");
+       ndebug("DMRV_Encounter Table, Encounter 05");
        display_msg(mstr(405));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(0,4);
@@ -2447,7 +2447,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_06
    else if (Encounter < 49) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 06");
+       ndebug("DMRV_Encounter Table, Encounter 06");
        display_msg(mstr(406));
        Encounter_Counter:=random(5,10);
        Encounter_Rotation:=random(2,4);
@@ -2455,7 +2455,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_07
    else if (Encounter < 56) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 07");
+       ndebug("DMRV_Encounter Table, Encounter 07");
        display_msg(mstr(407));
        Encounter_Counter:=random(10,15);
        Encounter_Rotation:=random(0,5);
@@ -2463,7 +2463,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_08
    else if (Encounter < 63) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 08");
+       ndebug("DMRV_Encounter Table, Encounter 08");
        display_msg(mstr(408));
        Encounter_Counter:=random(5,8);
        Encounter_Rotation:=random(2,5);
@@ -2477,7 +2477,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_09
    else if (Encounter < 68) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 09");
+       ndebug("DMRV_Encounter Table, Encounter 09");
        display_msg(mstr(409));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2491,7 +2491,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_10
    else if (Encounter < 73) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 10");
+       ndebug("DMRV_Encounter Table, Encounter 10");
        display_msg(mstr(410));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2505,7 +2505,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_11
    else if (Encounter < 78) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 11");
+       ndebug("DMRV_Encounter Table, Encounter 11");
        display_msg(mstr(411));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2519,7 +2519,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_12
    else if (Encounter < 85) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 12");
+       ndebug("DMRV_Encounter Table, Encounter 12");
        display_msg(mstr(412));
        Encounter_Counter:=random(5,8);
        Encounter_Rotation:=random(0,4);
@@ -2533,7 +2533,7 @@ procedure Redding_DMRV_Encounter begin
    end
    // enc_13
    else if (Encounter < 100) then begin
-       debug_msg("DMRV_Encounter Table, Encounter 13");
+       ndebug("DMRV_Encounter Table, Encounter 13");
        display_msg(mstr(413));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2559,7 +2559,7 @@ procedure Redding_Band_Encounter begin
 
    // enc_00
    if (Encounter < 10) then begin
-       debug_msg("Band_Encounter Table, Encounter 00");
+       ndebug("Band_Encounter Table, Encounter 00");
        display_msg(mstr(450));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(2,5);
@@ -2571,7 +2571,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_01
    else if (Encounter < 20) then begin
-       debug_msg("Band_Encounter Table, Encounter 01");
+       ndebug("Band_Encounter Table, Encounter 01");
        display_msg(mstr(451));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(3,5);
@@ -2583,7 +2583,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_02
    else if (Encounter < 30) then begin
-       debug_msg("Band_Encounter Table, Encounter 02");
+       ndebug("Band_Encounter Table, Encounter 02");
        display_msg(mstr(452));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -2591,7 +2591,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_03
    else if (Encounter < 40) then begin
-       debug_msg("Band_Encounter Table, Encounter 03");
+       ndebug("Band_Encounter Table, Encounter 03");
        display_msg(mstr(453));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=random(2,4);
@@ -2603,7 +2603,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_04
    else if (Encounter < 50) then begin
-       debug_msg("Band_Encounter Table, Encounter 04");
+       ndebug("Band_Encounter Table, Encounter 04");
        display_msg(mstr(454));
        Encounter_Counter:=random(4,6);
        Encounter_Rotation:=random(3,5);
@@ -2617,7 +2617,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_05
    else if (Encounter < 60) then begin
-       debug_msg("Band_Encounter Table, Encounter 05");
+       ndebug("Band_Encounter Table, Encounter 05");
        display_msg(mstr(455));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_inv_rot;
@@ -2631,7 +2631,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_06
    else if (Encounter < 70) then begin
-       debug_msg("Band_Encounter Table, Encounter 06");
+       ndebug("Band_Encounter Table, Encounter 06");
        display_msg(mstr(456));
        Encounter_Counter:=random(4,5);
        Encounter_Rotation:=dude_cur_rot;
@@ -2645,7 +2645,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_07
    else if (Encounter < 80) then begin
-       debug_msg("Band_Encounter Table, Encounter 07");
+       ndebug("Band_Encounter Table, Encounter 07");
        display_msg(mstr(457));
        Encounter_Counter:=random(4,5);
        Encounter_Rotation:=dude_cur_rot;
@@ -2659,7 +2659,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_08
    else if (Encounter < 90) then begin
-       debug_msg("Band_Encounter Table, Encounter 08");
+       ndebug("Band_Encounter Table, Encounter 08");
        display_msg(mstr(458));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(0,4);
@@ -2673,7 +2673,7 @@ procedure Redding_Band_Encounter begin
    end
    // enc_09
    else if (Encounter < 100) then begin
-       debug_msg("Band_Encounter Table, Encounter 09");
+       ndebug("Band_Encounter Table, Encounter 09");
        display_msg(mstr(459));
        Encounter_Counter:=random(4,5);
        Encounter_Rotation:=dude_cur_rot;
@@ -2702,7 +2702,7 @@ procedure Redding_DVMV_Encounter begin
 
    // enc_00
    if (Encounter < 8) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 00");
+       ndebug("DVMV_Encounter Table, Encounter 00");
        display_msg(mstr(500));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(0,3);
@@ -2714,7 +2714,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_01
    else if (Encounter < 16) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 01");
+       ndebug("DVMV_Encounter Table, Encounter 01");
        display_msg(mstr(501));
        Encounter_Counter:=random(5,10);
        Encounter_Rotation:=random(2,4);
@@ -2726,7 +2726,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_02
    else if (Encounter < 24) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 02");
+       ndebug("DVMV_Encounter Table, Encounter 02");
        display_msg(mstr(502));
        Encounter_Counter:=random(7,11);
        Encounter_Rotation:=random(0,5);
@@ -2734,7 +2734,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_03
    else if (Encounter < 32) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 03");
+       ndebug("DVMV_Encounter Table, Encounter 03");
        display_msg(mstr(503));
        Encounter_Counter:=random(7,11);
        Encounter_Rotation:=random(2,5);
@@ -2742,7 +2742,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_04
    else if (Encounter < 40) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 04");
+       ndebug("DVMV_Encounter Table, Encounter 04");
        display_msg(mstr(504));
        Encounter_Counter:=random(8,13);
        Encounter_Rotation:=random(0,5);
@@ -2754,7 +2754,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_05
    else if (Encounter < 48) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 05");
+       ndebug("DVMV_Encounter Table, Encounter 05");
        display_msg(mstr(505));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=random(1,4);
@@ -2766,7 +2766,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_06
    else if (Encounter < 56) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 06");
+       ndebug("DVMV_Encounter Table, Encounter 06");
        display_msg(mstr(506));
        Encounter_Counter:=random(10,15);
        Encounter_Rotation:=random(0,5);
@@ -2774,7 +2774,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_07
    else if (Encounter < 64) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 07");
+       ndebug("DVMV_Encounter Table, Encounter 07");
        display_msg(mstr(507));
        Encounter_Counter:=random(6,12);
        Encounter_Rotation:=random(0,5);
@@ -2782,7 +2782,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_08
    else if (Encounter < 72) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 08");
+       ndebug("DVMV_Encounter Table, Encounter 08");
        display_msg(mstr(508));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=random(3,5);
@@ -2796,7 +2796,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_09
    else if (Encounter < 79) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 09");
+       ndebug("DVMV_Encounter Table, Encounter 09");
        display_msg(mstr(508));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2810,7 +2810,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_10
    else if (Encounter < 86) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 10");
+       ndebug("DVMV_Encounter Table, Encounter 10");
        display_msg(mstr(510));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2824,7 +2824,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_11
    else if (Encounter < 93) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 11");
+       ndebug("DVMV_Encounter Table, Encounter 11");
        display_msg(mstr(511));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=(dude_cur_rot + 1) % 6;
@@ -2838,7 +2838,7 @@ procedure Redding_DVMV_Encounter begin
    end
    // enc_12
    else if (Encounter < 100) then begin
-       debug_msg("DVMV_Encounter Table, Encounter 12");
+       ndebug("DVMV_Encounter Table, Encounter 12");
        display_msg(mstr(512));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2866,7 +2866,7 @@ procedure Redding_Red_Encounter begin
 
    // enc_00
    if (Encounter < 10) then begin
-       debug_msg("Red_Encounter Table, Encounter 00");
+       ndebug("Red_Encounter Table, Encounter 00");
        display_msg(mstr(550));
        Encounter_Counter:=random(7,12);
        Encounter_Rotation:=random(0,5);
@@ -2878,7 +2878,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_01
    else if (Encounter < 20) then begin
-       debug_msg("Red_Encounter Table, Encounter 01");
+       ndebug("Red_Encounter Table, Encounter 01");
        display_msg(mstr(551));
        Encounter_Counter:=random(7,10);
        Encounter_Rotation:=random(1,3);
@@ -2886,7 +2886,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_02
    else if (Encounter < 30) then begin
-       debug_msg("Red_Encounter Table, Encounter 02");
+       ndebug("Red_Encounter Table, Encounter 02");
        display_msg(mstr(552));
        Encounter_Counter:=random(7,12);
        Encounter_Rotation:=random(0,5);
@@ -2894,7 +2894,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_03
    else if (Encounter < 35) then begin
-       debug_msg("Red_Encounter Table, Encounter 03");
+       ndebug("Red_Encounter Table, Encounter 03");
        display_msg(mstr(553));
        Encounter_Counter:=random(7,12);
        Encounter_Rotation:=random(0,4);
@@ -2902,7 +2902,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_04
    else if (Encounter < 45) then begin
-       debug_msg("Red_Encounter Table, Encounter 04");
+       ndebug("Red_Encounter Table, Encounter 04");
        display_msg(mstr(554));
        Encounter_Counter:=random(3,5);
        Encounter_Rotation:=random(1,3);
@@ -2916,7 +2916,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_05
    else if (Encounter < 55) then begin
-       debug_msg("Red_Encounter Table, Encounter 05");
+       ndebug("Red_Encounter Table, Encounter 05");
        display_msg(mstr(555));
        Encounter_Counter:=random(3,5);
        Encounter_Rotation:=dude_inv_rot;
@@ -2930,7 +2930,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_06
    else if (Encounter < 65) then begin
-       debug_msg("Red_Encounter Table, Encounter 06");
+       ndebug("Red_Encounter Table, Encounter 06");
        display_msg(mstr(556));
        Encounter_Counter:=random(2,4);
        Encounter_Rotation:=random(0,3);
@@ -2944,7 +2944,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_07
    else if (Encounter < 70) then begin
-       debug_msg("Red_Encounter Table, Encounter 07");
+       ndebug("Red_Encounter Table, Encounter 07");
        display_msg(mstr(557));
        Encounter_Counter:=random(2,4);
        Encounter_Rotation:=random(2,4);
@@ -2958,7 +2958,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_08
    else if (Encounter < 75) then begin
-       debug_msg("Red_Encounter Table, Encounter 08");
+       ndebug("Red_Encounter Table, Encounter 08");
        display_msg(mstr(558));
        Encounter_Counter:=random(4,6);
        Encounter_Rotation:=random(1,3);
@@ -2972,7 +2972,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_09
    else if (Encounter < 83) then begin
-       debug_msg("Red_Encounter Table, Encounter 09");
+       ndebug("Red_Encounter Table, Encounter 09");
        display_msg(mstr(559));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -2980,7 +2980,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_10
    else if (Encounter < 91) then begin
-       debug_msg("Red_Encounter Table, Encounter 10");
+       ndebug("Red_Encounter Table, Encounter 10");
        display_msg(mstr(560));
        Encounter_Counter:=random(6,8);
        Encounter_Rotation:=random(0,4);
@@ -2988,7 +2988,7 @@ procedure Redding_Red_Encounter begin
    end
    // enc_11
    else if (Encounter < 100) then begin
-       debug_msg("Red_Encounter Table, Encounter 11");
+       ndebug("Red_Encounter Table, Encounter 11");
        display_msg(mstr(561));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(0,5);
@@ -3014,7 +3014,7 @@ procedure Redding_SRNRRN_Encounter begin
 
    // enc_00
    if (Encounter < 18) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 00");
+       ndebug("SRNRRN_Encounter Table, Encounter 00");
        display_msg(mstr(600));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(0,5);
@@ -3022,7 +3022,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_01
    else if (Encounter < 36) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 01");
+       ndebug("SRNRRN_Encounter Table, Encounter 01");
        display_msg(mstr(601));
        Encounter_Counter:=random(5,10);
        Encounter_Rotation:=random(0,4);
@@ -3030,7 +3030,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_02
    else if (Encounter < 44) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 02");
+       ndebug("SRNRRN_Encounter Table, Encounter 02");
        display_msg(mstr(602));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=dude_cur_rot;
@@ -3044,7 +3044,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_03
    else if (Encounter < 52) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 03");
+       ndebug("SRNRRN_Encounter Table, Encounter 03");
        display_msg(mstr(603));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -3058,7 +3058,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_04
    else if (Encounter < 60) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 04");
+       ndebug("SRNRRN_Encounter Table, Encounter 04");
        display_msg(mstr(604));
        Encounter_Counter:=random(5,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -3072,7 +3072,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_05
    else if (Encounter < 68) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 05");
+       ndebug("SRNRRN_Encounter Table, Encounter 05");
        display_msg(mstr(605));
        Encounter_Counter:=random(7,11);
        Encounter_Rotation:=dude_cur_rot;
@@ -3086,7 +3086,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_06
    else if (Encounter < 76) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 06");
+       ndebug("SRNRRN_Encounter Table, Encounter 06");
        display_msg(mstr(606));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -3094,7 +3094,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_07
    else if (Encounter < 84) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 07");
+       ndebug("SRNRRN_Encounter Table, Encounter 07");
        display_msg(mstr(607));
        Encounter_Counter:=random(5,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -3102,7 +3102,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_08
    else if (Encounter < 92) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 08");
+       ndebug("SRNRRN_Encounter Table, Encounter 08");
        display_msg(mstr(608));
        Encounter_Counter:=random(6,9);
        Encounter_Rotation:=dude_cur_rot;
@@ -3110,7 +3110,7 @@ procedure Redding_SRNRRN_Encounter begin
    end
    // enc_09
    else if (Encounter < 100) then begin
-       debug_msg("SRNRRN_Encounter Table, Encounter 09");
+       ndebug("SRNRRN_Encounter Table, Encounter 09");
        display_msg(mstr(609));
        Encounter_Counter:=random(7,11);
        Encounter_Rotation:=dude_cur_rot;
@@ -3135,7 +3135,7 @@ procedure Redding_EPA_Encounter begin
 
    // enc_00
    if (Encounter < 4) then begin
-       debug_msg("EPA_Encounter Table, Encounter 00");
+       ndebug("EPA_Encounter Table, Encounter 00");
        display_msg(mstr(650));
        Encounter_Counter:=random(5,8);
        Encounter_Rotation:=random(0,3);
@@ -3147,7 +3147,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_01
    else if (Encounter < 16) then begin
-       debug_msg("EPA_Encounter Table, Encounter 01");
+       ndebug("EPA_Encounter Table, Encounter 01");
        display_msg(mstr(651));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,5);
@@ -3155,7 +3155,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_02
    else if (Encounter < 28) then begin
-       debug_msg("EPA_Encounter Table, Encounter 02");
+       ndebug("EPA_Encounter Table, Encounter 02");
        display_msg(mstr(652));
        Encounter_Counter:=random(8,10);
        Encounter_Rotation:=random(0,3);
@@ -3163,7 +3163,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_03
    else if (Encounter < 40) then begin
-       debug_msg("EPA_Encounter Table, Encounter 03");
+       ndebug("EPA_Encounter Table, Encounter 03");
        display_msg(mstr(653));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,5);
@@ -3171,7 +3171,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_04
    else if (Encounter < 52) then begin
-       debug_msg("EPA_Encounter Table, Encounter 04");
+       ndebug("EPA_Encounter Table, Encounter 04");
        display_msg(mstr(654));
        Encounter_Counter:=random(3,6);
        Encounter_Rotation:=random(0,5);
@@ -3179,7 +3179,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_05
    else if (Encounter < 64) then begin
-       debug_msg("EPA_Encounter Table, Encounter 05");
+       ndebug("EPA_Encounter Table, Encounter 05");
        display_msg(mstr(655));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,5);
@@ -3187,7 +3187,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_06
    else if (Encounter < 76) then begin
-       debug_msg("EPA_Encounter Table, Encounter 06");
+       ndebug("EPA_Encounter Table, Encounter 06");
        display_msg(mstr(656));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,5);
@@ -3195,7 +3195,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_07
    else if (Encounter < 88) then begin
-       debug_msg("EPA_Encounter Table, Encounter 07");
+       ndebug("EPA_Encounter Table, Encounter 07");
        display_msg(mstr(657));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=random(0,5);
@@ -3203,7 +3203,7 @@ procedure Redding_EPA_Encounter begin
    end
    // enc_08
    else if (Encounter < 100) then begin
-       debug_msg("EPA_Encounter Table, Encounter 08");
+       ndebug("EPA_Encounter Table, Encounter 08");
        display_msg(mstr(658));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,5);
@@ -3226,7 +3226,7 @@ procedure Redding_Reno_Encounter begin
 
    // enc_00
    if (Encounter < 15) then begin
-       debug_msg("Reno_Encounter Table, Encounter 00");
+       ndebug("Reno_Encounter Table, Encounter 00");
        display_msg(mstr(700));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=random(0,5);
@@ -3234,7 +3234,7 @@ procedure Redding_Reno_Encounter begin
    end
    // enc_01
    else if (Encounter < 30) then begin
-       debug_msg("Reno_Encounter Table, Encounter 01");
+       ndebug("Reno_Encounter Table, Encounter 01");
        display_msg(mstr(701));
        Encounter_Counter:=random(7,12);
        Encounter_Rotation:=random(0,3);
@@ -3242,7 +3242,7 @@ procedure Redding_Reno_Encounter begin
    end
    // enc_02
    else if (Encounter < 40) then begin
-       debug_msg("Reno_Encounter Table, Encounter 02");
+       ndebug("Reno_Encounter Table, Encounter 02");
        display_msg(mstr(702));
        Encounter_Counter:=random(7,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -3250,7 +3250,7 @@ procedure Redding_Reno_Encounter begin
    end
    // enc_03
    else if (Encounter < 55) then begin
-       debug_msg("Reno_Encounter Table, Encounter 03");
+       ndebug("Reno_Encounter Table, Encounter 03");
        display_msg(mstr(703));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=random(0,3);
@@ -3264,7 +3264,7 @@ procedure Redding_Reno_Encounter begin
    end
    // enc_04
    else if (Encounter < 70) then begin
-       debug_msg("Reno_Encounter Table, Encounter 04");
+       ndebug("Reno_Encounter Table, Encounter 04");
        display_msg(mstr(704));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=random(3,5);
@@ -3278,7 +3278,7 @@ procedure Redding_Reno_Encounter begin
    end
    // enc_05
    else if (Encounter < 90) then begin
-       debug_msg("Reno_Encounter Table, Encounter 05");
+       ndebug("Reno_Encounter Table, Encounter 05");
        display_msg(mstr(705));
        Encounter_Counter:=random(4,8);
        Encounter_Rotation:=dude_cur_rot;
@@ -3286,7 +3286,7 @@ procedure Redding_Reno_Encounter begin
    end
    // enc_06
    else if (Encounter < 100) then begin
-       debug_msg("Reno_Encounter Table, Encounter 06");
+       ndebug("Reno_Encounter Table, Encounter 06");
        display_msg(mstr(706));
        Encounter_Counter:=random(1,2);
        Encounter_Rotation:=dude_inv_rot;
@@ -3308,7 +3308,7 @@ procedure Redding_NRNR_Encounter begin
 
    // enc_00
    if (Encounter < 21) then begin
-       debug_msg("NRNR_Encounter Table, Encounter 00");
+       ndebug("NRNR_Encounter Table, Encounter 00");
        display_msg(mstr(750));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -3322,7 +3322,7 @@ procedure Redding_NRNR_Encounter begin
    end
    // enc_01
    else if (Encounter < 41) then begin
-       debug_msg("NRNR_Encounter Table, Encounter 01");
+       ndebug("NRNR_Encounter Table, Encounter 01");
        display_msg(mstr(751));
        Encounter_Counter:=random(6,10);
        Encounter_Counter:=dude_cur_rot;
@@ -3336,7 +3336,7 @@ procedure Redding_NRNR_Encounter begin
    end
    // enc_02
    else if (Encounter < 61) then begin
-       debug_msg("NRNR_Encounter Table, Encounter 02");
+       ndebug("NRNR_Encounter Table, Encounter 02");
        display_msg(mstr(752));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -3350,7 +3350,7 @@ procedure Redding_NRNR_Encounter begin
    end
    // enc_03
    else if (Encounter < 74) then begin
-       debug_msg("NRNR_Encounter Table, Encounter 03");
+       ndebug("NRNR_Encounter Table, Encounter 03");
        display_msg(mstr(753));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=dude_cur_rot;
@@ -3358,7 +3358,7 @@ procedure Redding_NRNR_Encounter begin
    end
    // enc_04
    else if (Encounter < 87) then begin
-       debug_msg("NRNR_Encounter Table, Encounter 04");
+       ndebug("NRNR_Encounter Table, Encounter 04");
        display_msg(mstr(754));
        Encounter_Counter:=random(6,10);
        Encounter_Counter:=dude_cur_rot;
@@ -3366,7 +3366,7 @@ procedure Redding_NRNR_Encounter begin
    end
    // enc_05
    else if (Encounter < 100) then begin
-       debug_msg("NRNR_Encounter Table, Encounter 05");
+       ndebug("NRNR_Encounter Table, Encounter 05");
        display_msg(mstr(755));
        Encounter_Counter:=random(6,10);
        Encounter_Rotation:=dude_cur_rot;

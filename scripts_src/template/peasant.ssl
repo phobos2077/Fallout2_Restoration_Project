@@ -319,7 +319,7 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Current_Position,local_var(LVAR_Current_Position)+1);
        Time:=local_var(LVAR_Attention_Span)*ONE_GAME_MINUTE;
        Next_Jump:=local_var(LVAR_Current_Position)%TOTAL_DESTINATIONS;
-       debug_msg("Time Delay is "+Time+". Next Place to go is "+Next_Jump+".");
+       ndebug("Time Delay is "+Time+". Next Place to go is "+Next_Jump+".");
        add_timer_event(self_obj,Time,Next_Jump);
    end
 

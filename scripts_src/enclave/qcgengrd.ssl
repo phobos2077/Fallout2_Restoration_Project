@@ -94,7 +94,7 @@ end
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
        animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),2));
-       debug_msg("running to player");
+       ndebug("running to player");
        set_local_var(LVAR_Start_Timer,0);
    end
 end

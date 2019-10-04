@@ -276,7 +276,7 @@ variable temp_line;
             inc_local_var(LVAR_Last_Stop_Thief_Message);
          end
          if (local_var(LVAR_Last_Stop_Thief_Message) >= 3) then begin
-            debug_msg("calling Node998 from critter_p_proc");
+            ndebug("calling Node998 from critter_p_proc");
             call Node998;
          end
       end
@@ -289,14 +289,14 @@ end
 procedure damage_p_proc begin
    if (source_obj == dude_obj) then begin
       set_enemy_modoc;
-      debug_msg("calling Node998 from damage_p_proc");
+      ndebug("calling Node998 from damage_p_proc");
       call Node998;
    end
 end
 
 procedure pickup_p_proc begin
    if (source_obj == dude_obj) then begin
-      debug_msg("BEEN CAUGHT STEALING!");
+      ndebug("BEEN CAUGHT STEALING!");
       call Node998;
    end
 end
@@ -376,7 +376,7 @@ procedure Node999 begin
   // do absolutely everything that pertains to nothing
 end
 procedure Node998 begin
-   debug_msg("Node998");
+   ndebug("Node998");
    set_hostile;
 end
 procedure Node996 begin
@@ -410,7 +410,7 @@ end
 
 // dialog nodes
 procedure Node000 begin
-   debug_msg("Node000");
+   ndebug("Node000");
    Reply(156);
    NOption(157,Node010,004);
    NOption(158,Node040,004);
@@ -420,7 +420,7 @@ procedure Node000 begin
    NOption(160,Node030,-003);
 end
 procedure Node001 begin
-   debug_msg("Node001");
+   ndebug("Node001");
    Reply(161);
    if (ghost_farm_seed_unknown) then begin
       NOption(162,Node050,004);
@@ -436,7 +436,7 @@ procedure Node001 begin
    NOption(g_grunt,Node999,-003);
 end
 procedure Node002 begin
-   debug_msg("Node002");
+   ndebug("Node002");
    Reply(169);
    if (all_slags_dead) then begin
       NOption(170,Node081,004);
@@ -452,7 +452,7 @@ procedure Node002 begin
 end
 procedure Node003 begin
 variable days_left;
-   debug_msg("Node003");
+   ndebug("Node003");
    days_left := days_till_slag_attack;
    if (attack_slag_time_up) then begin
       Reply(803);
@@ -479,7 +479,7 @@ variable days_left;
    NOption(175,Node999,-003);
 end
 procedure Node010 begin
-   debug_msg("Node010");
+   ndebug("Node010");
    Reply(182);
    NOption(183,Node011,004);
    NOption(166,Node045,004);
@@ -487,7 +487,7 @@ procedure Node010 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node011 begin
-   debug_msg("Node011");
+   ndebug("Node011");
    Reply(186);
    BOption(187,Node035,004); //edit by killap was NOption
    BOption(188,Node035,004); //edit by killap was NOption
@@ -496,115 +496,115 @@ procedure Node011 begin
 end
 procedure Node012 begin
    set_ghost_farm_seed_known; //moved from node050 - killap
-   debug_msg("Node012");
+   ndebug("Node012");
    Reply(190);
    NOption(191,Node013,001);
 end
 procedure Node013 begin
-   debug_msg("Node013");
+   ndebug("Node013");
    Reply(192);
    NOption(193,Node014,001);
 end
 procedure Node014 begin
-   debug_msg("Node014");
+   ndebug("Node014");
    Reply(194);
    NOption(195,Node015,001);
 end
 procedure Node015 begin
-   debug_msg("Node015");
+   ndebug("Node015");
    Reply(196);
    NOption(197,Node016,001);
 end
 procedure Node016 begin
-   debug_msg("Node016");
+   ndebug("Node016");
    Reply(198);
    NOption(199,Node017,001);
 end
 procedure Node017 begin
-   debug_msg("Node017");
+   ndebug("Node017");
    Reply(200);
    NOption(201,Node018,001);
 end
 procedure Node018 begin
-   debug_msg("Node018");
+   ndebug("Node018");
    Reply(202);
    NOption(203,Node019,001);
 end
 procedure Node019 begin
-   debug_msg("Node019");
+   ndebug("Node019");
    Reply(204);
    NOption(205,Node020,001);
 end
 procedure Node020 begin
-   debug_msg("Node020");
+   ndebug("Node020");
    Reply(206);
    NOption(207,Node994,004);
    NOption(208,Node022,004);
 end
 procedure Node021 begin
-   debug_msg("Node021");
+   ndebug("Node021");
    Reply(209);
    NOption(210,Node022,004);
    NOption(400,Node992,004);
    NOption(211,Node023,004);
 end
 procedure Node022 begin
-   debug_msg("Node022");
+   ndebug("Node022");
    mark_on_map(AREA_GHOST_TOWN)
    set_ghost_farm_seed_active;
    Reply(212);
    NOption(g_bye,Node999,001);
 end
 procedure Node023 begin
-   debug_msg("Node023");
+   ndebug("Node023");
    inc_general_rep(REP_TOWN_JO_CHOP_FINGER);
    Reply(213);
    NOption(g_mstr(350),Node998,001);
 end
 procedure Node024 begin
-   debug_msg("Node024");
+   ndebug("Node024");
    Reply(215);
    NOption(216,Node022,004);
    NOption(217,Node999,001);
 end
 procedure Node030 begin
-   debug_msg("Node030");
+   ndebug("Node030");
    set_ghost_farm_seed_known;
    Reply(218);
    NOption(219,Node032,-003);
    NOption(220,Node031,-003);
 end
 procedure Node031 begin
-   debug_msg("Node031");
+   ndebug("Node031");
    Reply(222);
    NOption(223,Node999,001);
 end
 procedure Node032 begin
-   debug_msg("Node032");
+   ndebug("Node032");
    Reply(224);
    NOption(225,Node033,-003);
    NOption(226,Node034,-003);
 end
 procedure Node033 begin
-   debug_msg("Node033");
+   ndebug("Node033");
    mark_area_known(MARK_TYPE_TOWN, AREA_GHOST_TOWN, MARK_STATE_KNOWN);
    set_ghost_farm_seed_active;
    Reply(227);
    NOption(228,Node999,001);
 end
 procedure Node034 begin
-   debug_msg("Node034");
+   ndebug("Node034");
    Reply(229);
    NOption(g_mstr(350),Node999,001);
 end
 procedure Node035 begin
    //set_ghost_farm_seed_known; //moved from node050 - killap
-   debug_msg("Node035");
+   ndebug("Node035");
    Reply(230);
    NOption(g_mstr(350),Node999,001);
 end
 procedure Node040 begin
-   debug_msg("Node040");
+   ndebug("Node040");
    Reply(231);
    NOption(232,Node041,004);
    NOption(233,Node042,004);
@@ -615,7 +615,7 @@ procedure Node040 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node041 begin
-   debug_msg("Node041");
+   ndebug("Node041");
    set_slaughter_flag;
    Reply(237);
    NOption(233,Node042,004);
@@ -626,7 +626,7 @@ procedure Node041 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node042 begin
-   debug_msg("Node042");
+   ndebug("Node042");
    set_rose_flag;
    Reply(242);
    NOption(232,Node041,004);
@@ -637,7 +637,7 @@ procedure Node042 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node043 begin
-   debug_msg("Node043");
+   ndebug("Node043");
    set_tannery_flag;
    Reply(247);
    NOption(233,Node042,004);
@@ -648,7 +648,7 @@ procedure Node043 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node044 begin
-   debug_msg("Node044");
+   ndebug("Node044");
    set_post_flag;
    Reply(252);
    NOption(233,Node042,004);
@@ -659,7 +659,7 @@ procedure Node044 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node045 begin
-   debug_msg("Node045");
+   ndebug("Node045");
    Reply(257);
    NOption(233,Node042,004);
    NOption(235,Node043,004);
@@ -669,7 +669,7 @@ procedure Node045 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node046 begin
-   debug_msg("Node046");
+   ndebug("Node046");
    Reply(500);
    NOption(233,Node042,004);
    NOption(235,Node043,004);
@@ -678,38 +678,38 @@ procedure Node046 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node050 begin
-   debug_msg("Node050");
+   ndebug("Node050");
    //set_ghost_farm_seed_known;
    Reply(262);
    NOption(263,Node011,004);
    NOption(264,Node999,001);
 end
 procedure Node051 begin
-   debug_msg("Node051");
+   ndebug("Node051");
    Reply(265);
    NOption(266,Node996,004);
    NOption(267,Node001,004);
    NOption(268,Node999,001);
 end
 procedure Node052 begin
-   debug_msg("Node052");
+   ndebug("Node052");
    Reply(269);
    NOption(270,Node053,004);
    NOption(271,Node999,001);
 end
 procedure Node053 begin
-   debug_msg("Node053");
+   ndebug("Node053");
    Reply(272);
    NOption(273,Node001,004);
    NOption(g_bye,Node999,001);
 end
 procedure Node060 begin
-   debug_msg("Node060");
+   ndebug("Node060");
    Reply(274);
    NOption(g_mstr(350),Node999,001);
 end
 procedure Node061 begin
-   debug_msg("Node061");
+   ndebug("Node061");
    set_modoc_ending_happy;
    set_kill_slag_time;
    remove_pid_qty(dude_obj, PID_SLAG_MESSAGE, 1)
@@ -723,7 +723,7 @@ procedure Node061 begin
    NOption(276,Node062,-003);
 end
 procedure Node062 begin
-   debug_msg("Node062");
+   ndebug("Node062");
    gdialog_set_barter_mod(-50);
    Reply(277);
    mark_gecko_on_map //added by killap
@@ -731,25 +731,25 @@ procedure Node062 begin
    NOption(220,Node999,001);
 end
 procedure Node063 begin
-   debug_msg("Node063");
+   ndebug("Node063");
    Reply(280);
    NOption(220,Node999,001);
 end
 procedure Node064 begin
-   debug_msg("Node064");
+   ndebug("Node064");
    Reply(282);
    NOption(g_grunt,Node999,001);
 end
 procedure Node065 begin
-   debug_msg("Node065");
+   ndebug("Node065");
    set_wipeout_scenario_2;
    Reply(283);
    NOption(284,Node062,-003);
 end
 procedure Node070 begin
-   debug_msg("Node070");
+   ndebug("Node070");
    set_kill_slag_time;
-   debug_msg("days_till_slag_attack == " + days_till_slag_attack);
+   ndebug("days_till_slag_attack == " + days_till_slag_attack);
    set_modoc_ending_wipeout_1;
    remove_pid_qty(dude_obj, PID_SLAG_MESSAGE, 1)
    set_message_delivered;
@@ -773,7 +773,7 @@ procedure Node070 begin
    */
 end
 procedure Node071 begin
-   debug_msg("Node071");
+   ndebug("Node071");
    set_fake_known;
    set_ghost_pip(state_ghost_pip_find_karl);
    Reply(290);
@@ -787,7 +787,7 @@ procedure Node071 begin
    end
 end
 procedure Node072 begin
-   debug_msg("Node072");
+   ndebug("Node072");
    Reply(293);
    NOption(294,Node073,004);
    if (brightlight) then begin
@@ -796,19 +796,19 @@ procedure Node072 begin
    NOption(296,Node080,004);
 end
 procedure Node073 begin
-   debug_msg("Node073");
+   ndebug("Node073");
    set_kill_slag_time;
    Reply(297);
    NOption(298,Node999,001);
    NOption(299,Node074,004);
 end
 procedure Node074 begin
-   debug_msg("Node074");
+   ndebug("Node074");
    Reply(300);
    NOption(301,Node999,001);
 end
 procedure Node075 begin
-   debug_msg("Node075");
+   ndebug("Node075");
    set_karl_come_home;
    set_ghost_pip(state_ghost_pip_send_karl_home); //killap's fix: changed from (state_ghost_pip_complete)
    set_karl_known;
@@ -821,7 +821,7 @@ procedure Node075 begin
    NOption(303,Node076,001);
 end
 procedure Node076 begin
-   debug_msg("Node076");
+   ndebug("Node076");
    set_shelf_unlocked;
    gdialog_set_barter_mod(-75);
 //   set_ghost_farm_seeds_inactive; //not needed here - now done just once in Karl's script (last thing left for ghost quest)
@@ -830,13 +830,13 @@ procedure Node076 begin
    NOption(g_bye,Node999,001);
 end
 procedure Node077 begin
-   debug_msg("Node077");
+   ndebug("Node077");
    Reply(305);
    NOption(306,Node078,004);
    NOption(307,Node083,004);
 end
 procedure Node078 begin
-   debug_msg("Node078");
+   ndebug("Node078");
    set_wipeout_scenario_2;
    set_modoc_ending_wipeout_2;
    set_ghost_farm_seeds_inactive;
@@ -844,7 +844,7 @@ procedure Node078 begin
    NOption(g_mstr(350),Node991,001);
 end
 procedure Node079 begin
-   debug_msg("Node079");
+   ndebug("Node079");
    set_wipeout_scenario_2;
    set_modoc_ending_wipeout_2;
    set_ghost_farm_seeds_inactive;
@@ -852,7 +852,7 @@ procedure Node079 begin
    NOption(g_mstr(350),Node991,001);
 end
 procedure Node080 begin
-   debug_msg("Node080");
+   ndebug("Node080");
    set_modoc_ending_wipeout_1;
    set_modoc_ending_wipeout_2;
    set_kill_slag_time;
@@ -866,7 +866,7 @@ procedure Node080 begin
    NOption(g_mstr(350),Node999,001);
 end
 procedure Node081 begin
-   debug_msg("Node081");
+   ndebug("Node081");
    set_wipeout_scenario_1;
    set_ghost_farm_seed_inactive;
    give_xp(EXP_SOLVE_GHOST_FARM_WORST);
@@ -875,26 +875,26 @@ procedure Node081 begin
    NOption(313,Node076,004);
 end
 procedure Node082 begin
-   debug_msg("Node082");
+   ndebug("Node082");
    set_angry;
    Reply(314);
    NOption(g_bye,Node999,001);
 end
 procedure Node083 begin
-   debug_msg("Node083");
+   ndebug("Node083");
    set_kill_slag_time;
    Reply(315 + (fake_known == false));
    NOption(g_bye,Node999,001);
 end
 procedure Node085 begin
-   debug_msg("Node085");
+   ndebug("Node085");
    set_ghost_farm_seeds_inactive;
    set_angry;
    Reply(317);
    NOption(g_bye,Node999,001);
 end
 procedure Node086 begin
-   debug_msg("Node086");
+   ndebug("Node086");
    set_ghost_pip(state_ghost_pip_find_karl);
    set_karl_come_home;
    set_ghost_pip(state_ghost_pip_send_karl_home); //killap's fix: changed from (state_ghost_pip_complete)
@@ -910,7 +910,7 @@ procedure Node086 begin
    end
 end
 procedure Node087 begin
-   debug_msg("Node087");
+   ndebug("Node087");
    set_fake_known;
    Reply(322);
    if (karl_known) then begin //edit by killap - was karl_found
@@ -923,7 +923,7 @@ procedure Node087 begin
    end
 end
 procedure Node088 begin
-   debug_msg("Node088");
+   ndebug("Node088");
    set_modoc_ending_happy;
 //   set_ghost_farm_seeds_inactive; //not needed here - now done just once in Karl's script (last thing for ghost quest)
    inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_SOLVE_GHOST_FARM_BEST); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
@@ -934,7 +934,7 @@ procedure Node088 begin
 end
 procedure Node089 begin
 variable temp_msg := "";
-   debug_msg("Node089");
+   ndebug("Node089");
    if (fake_known == false) then begin
       temp_msg += mstr(328);
    end

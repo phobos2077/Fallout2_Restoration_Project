@@ -351,7 +351,7 @@ procedure Node990 begin
    call Node025;
 end
 procedure Node989 begin
-   debug_msg("barter to " + node_string);
+   ndebug("barter to " + node_string);
    gdialog_barter;
    call node_string;
 end

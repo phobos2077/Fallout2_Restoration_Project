@@ -397,14 +397,14 @@ procedure anim_end_call begin
    if (doWalking == 1) then begin
       if (i_cell_door_obj != -1) then begin
          if (openCloseDoor == 0) then begin
-            debug_msg("opening door");
+            ndebug("opening door");
             obj_unlock(i_cell_door_obj);
             if (not obj_is_open(i_cell_door_obj)) then begin
                use_obj(i_cell_door_obj);
             end
             openCloseDoor := 1;
          end else begin
-            debug_msg("closing door");
+            ndebug("closing door");
             if (obj_is_open(i_cell_door_obj)) then begin
                use_obj(i_cell_door_obj);
             end
@@ -416,7 +416,7 @@ procedure anim_end_call begin
          doWalking := 2;
       end
    end else if (doWalking == 2) then begin
-      debug_msg("doWalk == 2");
+      ndebug("doWalk == 2");
       doWalking := 3;
       call walkBack;
       if (openCloseDoor == 0) then

@@ -45,38 +45,38 @@ procedure start begin
 end
 
 procedure use_p_proc begin
-   debug_msg("Using Car Trunk");
+   ndebug("Using Car Trunk");
 end
 
 procedure map_enter_p_proc begin
-   debug_msg("trunk: map_enter_p_proc");
+   ndebug("trunk: map_enter_p_proc");
    if (global_var(GVAR_CAR_PLACED_TILE) == -1) then begin
       set_global_var(GVAR_CAR_PLACED_TILE, 0);
    end
    if (dude_has_car != 0) then begin
       if (Trunk_Ptr != 0) then begin
-         debug_msg("   Trunk_In_Party: start");
-         debug_msg("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
+         ndebug("   Trunk_In_Party: start");
+         ndebug("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
          if (global_var(GVAR_CAR_PLACED_TILE) > 0) then begin
             if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), self_elevation, PID_DRIVABLE_CAR) != 0) then begin
-               debug_msg("   Car_On_Elev(self_elevation)");
+               ndebug("   Car_On_Elev(self_elevation)");
                Create_Trunk(global_var(GVAR_CAR_PLACED_TILE), self_elevation)
                check_set_obj_visiblility(self_obj, false);
             end else begin
-               debug_msg("  trying to hide trunk");
+               ndebug("  trying to hide trunk");
                check_set_obj_visiblility(self_obj, true);
             end
          end else if (global_var(GVAR_CAR_PLACED_TILE) != -1) then begin
-            debug_msg("  trying to hide trunk");
+            ndebug("  trying to hide trunk");
             check_set_obj_visiblility(self_obj, true);
          end
-         debug_msg("   Trunk_In_Party: end");
+         ndebug("   Trunk_In_Party: end");
       end else begin
-         debug_msg("   global_var(GVAR_PLAYER_GOT_CAR) == " + global_var(GVAR_PLAYER_GOT_CAR));
+         ndebug("   global_var(GVAR_PLAYER_GOT_CAR) == " + global_var(GVAR_PLAYER_GOT_CAR));
          party_add(self_obj);
       end
    end else begin
-      debug_msg("   player hasn't gotten trunk");
+      ndebug("   player hasn't gotten trunk");
    end
 end
 
@@ -84,30 +84,30 @@ procedure map_exit_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   debug_msg("trunk: map_update_p_proc");
+   ndebug("trunk: map_update_p_proc");
    if (dude_has_car != 0) then begin
       if (Trunk_Ptr != 0) then begin
-         debug_msg("   Trunk_In_Party: start");
-         debug_msg("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
+         ndebug("   Trunk_In_Party: start");
+         ndebug("   GVAR_CAR_PLACED_TILE == " + global_var(GVAR_CAR_PLACED_TILE));
          if (global_var(GVAR_CAR_PLACED_TILE) > 0) then begin
             if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), self_elevation, PID_DRIVABLE_CAR) != 0) then begin
-               debug_msg("   Car_On_Elev(self_elevation)");
+               ndebug("   Car_On_Elev(self_elevation)");
                Create_Trunk(global_var(GVAR_CAR_PLACED_TILE), self_elevation)
                check_set_obj_visiblility(self_obj, false);
             end else begin
-               debug_msg("  trying to hide trunk");
+               ndebug("  trying to hide trunk");
                check_set_obj_visiblility(self_obj, true);
             end
          end else if (global_var(GVAR_CAR_PLACED_TILE) != -1) then begin
-            debug_msg("  trying to hide trunk");
+            ndebug("  trying to hide trunk");
             check_set_obj_visiblility(self_obj, true);
          end
-         debug_msg("   Trunk_In_Party: end");
+         ndebug("   Trunk_In_Party: end");
       end else begin
-         debug_msg("   global_var(GVAR_PLAYER_GOT_CAR) == " + global_var(GVAR_PLAYER_GOT_CAR));
+         ndebug("   global_var(GVAR_PLAYER_GOT_CAR) == " + global_var(GVAR_PLAYER_GOT_CAR));
          party_add(self_obj);
       end
    end else begin
-      debug_msg("   player hasn't gotten trunk");
+      ndebug("   player hasn't gotten trunk");
    end
 end

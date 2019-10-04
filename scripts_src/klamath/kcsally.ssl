@@ -528,7 +528,7 @@ procedure Node017 begin
 end
 
 procedure Node018 begin
-   debug_msg("Setting map var");
+   ndebug("Setting map var");
    // Commenting out because a handjob does not consitute sex, as per it's definition
    // and thus the player shouldn't lose the 'Virgin' title in this case. - killap (expansion)
    //up_sex_status;
@@ -542,7 +542,7 @@ procedure Node018 begin
 end
 
 procedure Node019 begin
-   debug_msg("Setting map var");
+   ndebug("Setting map var");
    up_sex_status;
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(340);
@@ -554,7 +554,7 @@ procedure Node019 begin
 end
 
 procedure Node020 begin
-   debug_msg("Setting map var");
+   ndebug("Setting map var");
    up_sex_status;
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(350);

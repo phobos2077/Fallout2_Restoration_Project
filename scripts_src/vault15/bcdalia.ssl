@@ -110,7 +110,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_DESTROY) then begin
-      debug_msg("BCDALIA: Dalia destroyed");
+      ndebug("Dalia destroyed");
       destroy_object(self_obj);
    end
 end

@@ -278,7 +278,7 @@ procedure Node006a begin
    fadeout(1);
    playerSoldSex := 1;
    if ( (dude_spouse_is_female) or (dude_spouse_is_male) ) then
-      debug_msg("you are married.");
+      ndebug("you are married.");
    else
       up_sex_status;
    call Node999;

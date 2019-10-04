@@ -166,7 +166,7 @@ procedure Node020; //added by killap - expansion pack
                                           end else if (x == 0) then begin                                         \
                                              play_sfx("looser");                                                  \
                                           end                                                                     \
-                                          debug_msg("\nSlot money remaining == "+local_var(LVAR_Caps));
+                                          ndebug("\nSlot money remaining == "+local_var(LVAR_Caps));
 
 #define block_play_check                  ((slot_tube_size <= 0) or (won_jackpot) or (dude_caps < low_bet))
 
@@ -334,9 +334,9 @@ variable the_roll2;
       // goto display results node
       call Node002;
    end else begin
-      debug_msg("\nPLAY BLOCKED");
-      debug_msg("\n   slot_tube_size == "+slot_tube_size);
-      debug_msg("\n   won_jackpot == "+won_jackpot);
+      ndebug("\nPLAY BLOCKED");
+      ndebug("\n   slot_tube_size == "+slot_tube_size);
+      ndebug("\n   won_jackpot == "+won_jackpot);
    end
 end
 // related to the number of coins inserted

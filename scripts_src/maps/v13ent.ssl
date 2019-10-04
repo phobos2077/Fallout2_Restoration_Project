@@ -44,7 +44,7 @@ procedure map_enter_p_proc begin
    //Check_Create_Car(CAR_VAULT_13_HEX, CAR_VAULT_13_ELEV)
 
    if (not is_loading_game) then begin
-      debug_msg("V13ENT: FIXED_PRAM " + fixed_param);
+      ndebug("V13ENT: FIXED_PRAM " + fixed_param);
       if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
          override_map_start_hex(17290,0,2);
          //set_global_var(global_var(GVAR_LOAD_MAP_INDEX), 0);

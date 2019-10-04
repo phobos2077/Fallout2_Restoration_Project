@@ -79,12 +79,12 @@ end
 
 procedure destroy_p_proc begin
    dec_map_var(MVAR_Rat_Counter);
-   debug_msg("\nMVAR_Rat_Counter == "+map_var(MVAR_Rat_Counter));
+   ndebug("\nMVAR_Rat_Counter == "+map_var(MVAR_Rat_Counter));
    if (map_var(MVAR_Rat_Counter) <= 0) then begin
       if (all_rats_killed == false) then begin
-         debug_msg("setting ALL RATS KILLED");
+         ndebug("setting ALL RATS KILLED");
          set_all_rats_killed;
-         debug_msg("all_rats_killed == "+all_rats_killed);
+         ndebug("all_rats_killed == "+all_rats_killed);
          modoc_display_mstr(502); //added by killap - expansion
          give_xp(EXP_MODOC_KILL_ALL_RATS);
          if (vermin_hunter_seed_active) then begin

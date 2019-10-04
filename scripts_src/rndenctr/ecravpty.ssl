@@ -506,13 +506,13 @@ end
 
 procedure chooseType begin
    if (Random(0, 1) == 0) then begin
-      debug_msg("ECRAVPTY: making addict");
+      ndebug("making addict");
       set_local_var(LVAR_Type, TYPE_ADDICT);
    end else begin
-      debug_msg("ECRAVPTY: making drunk");
+      ndebug("making drunk");
       set_local_var(LVAR_Type, TYPE_DRUNK);
    end
-   debug_msg("ECRAVPTY: ADDICT: " + ADDICT);
+   ndebug("ADDICT: " + ADDICT);
 end
 
 procedure checkProp begin

@@ -140,7 +140,7 @@ procedure critter_p_proc begin
       //    self_attack_dude;
       //end
       else if ( (map_var(MVAR_Just_Had_Sex) == 1) and (tile_distance(tile_num(self_obj),tile_num(dude_obj)) < 3) ) then begin
-         debug_msg("Attempting to enter dialogue");
+         ndebug("Attempting to enter dialogue");
          dialogue_system_enter;
       end
 
@@ -185,7 +185,7 @@ procedure talk_p_proc begin
        call Node998;
    end
    else if (map_var(MVAR_Just_Had_Sex) == 1) then begin
-          debug_msg("comment on dudes performance");
+          ndebug("comment on dudes performance");
           set_map_var(MVAR_Just_Had_Sex,0);
           start_gdialog(NAME,self_obj,4,-1,-1);
           gSay_Start;

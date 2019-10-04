@@ -76,7 +76,7 @@ end
 ********************************************************************/
 
 procedure use_p_proc begin
-   debug_msg("SIGCAOBJ: i_guard_captain_obj: " + i_guard_captain_obj);
+   ndebug("i_guard_captain_obj: " + i_guard_captain_obj);
    if (i_guard_captain_obj > 0) then begin
       if (obj_can_see_obj(i_guard_captain_obj, source_obj)) then begin
          if not (ncr_flag(NCR_GUARD_CAPTAIN_TAMPER_FLAG)) then begin

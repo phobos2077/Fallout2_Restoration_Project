@@ -107,7 +107,7 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == TIMER_DESTROY) then begin
       set_local_var(LVAR_Tile, -1);
       destroy_object(self_obj);
-      debug_msg("SCSLAVES: destroyed in timer event");
+      ndebug("destroyed in timer event");
    end
 end
 

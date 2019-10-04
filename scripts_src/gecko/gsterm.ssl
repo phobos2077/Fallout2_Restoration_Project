@@ -635,7 +635,7 @@ end
 
 procedure Node035 begin
    if (map_var(MVAR_ProgramRunning) == 1) then
-      debug_msg("RUNNING");
+      ndebug("RUNNING");
    if (map_var(MVAR_CommandCount) > 5) then begin
       Reply(730);
    end
@@ -748,7 +748,7 @@ end
 
 procedure Node040 begin
 //EXECUTE PROGRAM
-   debug_msg("RUNNING");
+   ndebug("RUNNING");
    set_map_var(MVAR_ProgramRunning,1); //signal robot to go
 end
 

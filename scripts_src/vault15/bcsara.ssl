@@ -99,7 +99,7 @@ procedure start begin
 end
 
 procedure combat_p_proc begin
-   debug_msg("BCSARA: hey i hit the combat p proc");
+   ndebug("hey i hit the combat p proc");
    CHECK_SQUATTERS_RUN
 end
 

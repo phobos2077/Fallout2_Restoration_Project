@@ -343,23 +343,23 @@ procedure critter_p_proc begin
    else if (Sulik_In_Party) then begin
       if ( (global_var(GVAR_PLAYER_REPUTATION) < SULIK_BAD_KARMA) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
          call Node70a;
-         debug_msg("SULIK: Evil Spirit");
+         ndebug("Evil Spirit");
       end
       else if ( (has_rep_childkiller) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
          call Node074;
-         debug_msg("SULIK: Child Destroyer");
+         ndebug("Child Destroyer");
       end
       else if ( (has_rep_berserker) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
          call Node70a;
-         debug_msg("SULIK: Crazed Spirit");
+         ndebug("Crazed Spirit");
       end
       else if ( (has_rep_slaver) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
          call Node071;
-         debug_msg("SULIK: Spirit Enslaver");
+         ndebug("Spirit Enslaver");
       end
       else if ((cur_town == AREA_KLAMATH) and (REP_ENEMY_KLAMATH)) then begin
          call Node072;
-         debug_msg("SULIK: Causing trouble in Klamath");
+         ndebug("Causing trouble in Klamath");
       end
       else if (party_is_waiting == false) then begin
          party_member_follow_dude
@@ -422,7 +422,7 @@ procedure talk_p_proc begin
 
    find_party_background;
 
-   debug_msg("PartyMemberBackground == "+PartyMemberBackground);
+   ndebug("PartyMemberBackground == "+PartyMemberBackground);
 
    if ( ((cur_town == AREA_KLAMATH) and (REP_ENEMY_KLAMATH)) or (local_var(LVAR_Personal_Enemy) == 1)) then begin
        call Node998;
@@ -771,7 +771,7 @@ procedure Node001 begin
 end
 
 procedure Node002 begin
-   debug_msg("Node002");
+   ndebug("Node002");
    NMessage(107);
    call Node920; //DownReactModerate
 end
@@ -955,13 +955,13 @@ end
 
 /*
 procedure Node019 begin
-   debug_msg("Node019");
+   ndebug("Node019");
    Reply(670);
    NOption(700,Node600,004);
 end
 
 procedure Node020 begin
-   debug_msg("Node020");
+   ndebug("Node020");
    Reply(173);
    if (local_var(LVAR_20_before) == 0) then begin
       set_local_var(LVAR_20_before,1);
@@ -973,13 +973,13 @@ end
 */
 
 procedure Node021 begin
-   debug_msg("Node021");
+   ndebug("Node021");
    Reply(280);
    NOption(281,Node069,004);
 end
 
 procedure Node022 begin
-   debug_msg("Node022");
+   ndebug("Node022");
    Reply(290);
    NOption(291,Node044,004);
    NOption(292,Node999,004);
@@ -995,7 +995,7 @@ end
 
 /*
 procedure Node024 begin
-   debug_msg("Node024");
+   ndebug("Node024");
    Reply(185);
    NOption(186,Node019,004);
    NOption(187,Node081,004); //from 69 goto 69, from 81 goto 81
@@ -1003,7 +1003,7 @@ end
 */
 
 procedure Node025 begin
-   debug_msg("Node025");
+   ndebug("Node025");
    if (global_var(GVAR_SULIK_FREE) == 0) then
       Reply(310);
    else
@@ -1013,7 +1013,7 @@ procedure Node025 begin
 end
 
 procedure Node026 begin
-   debug_msg("Node026");
+   ndebug("Node026");
    if (local_var(LVAR_26before) == 0) then begin
       set_local_var(LVAR_26before,1);
      Reply(321);
@@ -1283,7 +1283,7 @@ end
 */
 
 procedure Node042 begin
-   debug_msg("Node042");
+   ndebug("Node042");
    Reply(750);
    NOption(751,Node999,001);
    NOption(752,Node999,004);
@@ -1306,7 +1306,7 @@ procedure Node043 begin
 end
 
 procedure Node044 begin
-   debug_msg("Node044");
+   ndebug("Node044");
    if (local_var(LVAR_44_before) == 0) then begin
       set_local_var(LVAR_44_before,1);
       Reply(761);
@@ -1328,7 +1328,7 @@ procedure Node044 begin
 end
 
 procedure Node045 begin
-   debug_msg("Node045");
+   ndebug("Node045");
    Reply(771);
    NOption(772,Node044,004);
    NOption(773,Node050,007);
@@ -1340,7 +1340,7 @@ procedure Node045 begin
 
    //if (metarule(17, 18) == 0) then
    //begin
-    //  debug_msg("  mark_on_map(" + 18 + ")");
+    //  ndebug("  mark_on_map(" + 18 + ")");
    //   mark_area_known(0, AREA_PRIMITIVE_TRIBE, MARK_STATE_KNOWN);
   //end
    //end
@@ -1348,14 +1348,14 @@ procedure Node045 begin
 end
 
 procedure Node046 begin
-   debug_msg("Node046");
+   ndebug("Node046");
    Reply(775);
    NOption(772,Node044,004);
    NOption(774,Node999,004);
 end
 
 procedure Node047 begin
-   debug_msg("Node047");
+   ndebug("Node047");
    Reply(776);
    if (Vic_In_Party) then begin
       //GLowOption(277,Node044); //reaction tiny
@@ -1367,7 +1367,7 @@ procedure Node047 begin
 end
 
 procedure Node048 begin
-   debug_msg("Node048");
+   ndebug("Node048");
    if (global_var(GVAR_SULIK_FREE) == 0) then begin
       Reply(779);
       NOption(782,Node007,004);
@@ -1393,7 +1393,7 @@ end
 
 /*
 procedure Node049 begin
-   debug_msg("Node049");
+   ndebug("Node049");
    Reply(294);
    NOption(295,Node044,004);
    NOption(296,Node999,004);
@@ -1401,7 +1401,7 @@ end
 */
 
 procedure Node050 begin
-   debug_msg("Node050");
+   ndebug("Node050");
    Reply(787);
    NOption(772,Node044,004);
    NOption(774,Node999,004);
@@ -1410,7 +1410,7 @@ end
 
 /*
 procedure Node051 begin
-   debug_msg("Node051");
+   ndebug("Node051");
    Reply(301);
    NOption(302,Node044,004);
    NOption(303,Node999,004);
@@ -1418,7 +1418,7 @@ end
 */
 
 procedure Node052 begin
-   debug_msg("Node052");
+   ndebug("Node052");
 //FIX NBK
    //if (???) then
    //   Reply(790);
@@ -1440,13 +1440,13 @@ procedure Node052 begin
 end
 
 procedure Node053 begin
-   debug_msg("Node053");
+   ndebug("Node053");
    Reply(794);
    NOption(795,Node800,004);
 end
 
 procedure Node054 begin
-   debug_msg("Node054");
+   ndebug("Node054");
    Reply(796);
    NOption(797,Node044,004);
    if (local_var(LVAR_whos_we) == 0) then
@@ -1471,14 +1471,14 @@ procedure Node054 begin
 end
 
 procedure Node055 begin
-   debug_msg("Node055");
+   ndebug("Node055");
    Reply(804);
    NOption(805,Node054,004);
    NOption(806,Node999,004);
 end
 
 procedure Node056 begin
-   debug_msg("Node056");
+   ndebug("Node056");
    Reply(807);
    NOption(808,Node025,004);
    NOption(809,Node054,004);
@@ -1514,21 +1514,21 @@ procedure Node058 begin
 end
 
 procedure Node059 begin
-   debug_msg("Node059");
+   ndebug("Node059");
    Reply(821);
    NOption(822,Node057,004);
    NOption(823,Node999,004);
 end
 
 procedure Node060 begin
-   debug_msg("Node060");
+   ndebug("Node060");
    Reply(824);
    NOption(822,Node057,004);
    NOption(823,Node999,004);
 end
 
 procedure Node061 begin
-   debug_msg("Node061");
+   ndebug("Node061");
    Reply(825);
    NOption(822,Node057,004);
    NOption(823,Node999,004);
@@ -1551,7 +1551,7 @@ end
 
 /*
 procedure Node065 begin
-   debug_msg("Node065");
+   ndebug("Node065");
    Reply(880);
    NOption(881,Node035,003);
    //NOption(882,Node066,003); //combat tactics removed ..done thru interface
@@ -1563,7 +1563,7 @@ procedure Node065 begin
 end
 
 procedure Node066 begin
-   debug_msg("Node066");
+   ndebug("Node066");
    Reply(890);
    NOption(891,Node067,003);
    NOption(892,Node036,003);
@@ -1573,7 +1573,7 @@ procedure Node066 begin
 end
 
 procedure Node067 begin
-   debug_msg("Node067");
+   ndebug("Node067");
    Reply(900);
    NOption(901,Node030,003);
    NOption(902,Node031,003);
@@ -1583,7 +1583,7 @@ procedure Node067 begin
 end
 
 procedure Node068 begin
-   debug_msg("Node068");
+   ndebug("Node068");
    Reply(905);
    NOption(906,Node011,003);
    NOption(907,Node010,003);
@@ -1593,13 +1593,13 @@ end
 */
 
 procedure Node069 begin
-   debug_msg("Node069");
+   ndebug("Node069");
    Reply(910);
    NOption(911,Node69a,004);
 end
 
 procedure Node69a begin
-   debug_msg("Node69a");
+   ndebug("Node69a");
    Reply(912);
    NOption(913,Node022,004);
    NOption(914,Node044,004);
@@ -1702,7 +1702,7 @@ end
 */
 
 procedure Node076 begin
-   debug_msg("Node076");
+   ndebug("Node076");
    Reply(925);
    NLowOption(926,Node003);
    NLowOption(927,Node999);
@@ -1712,7 +1712,7 @@ procedure Node076 begin
 end
 
 procedure Node077 begin
-   debug_msg("Node077");
+   ndebug("Node077");
 //before 7am?
    Reply(931);
    NLowOption(926,Node003);
@@ -1723,7 +1723,7 @@ procedure Node077 begin
 end
 
 procedure Node078 begin
-   debug_msg("Node078");
+   ndebug("Node078");
    Reply(935);
    NLowOption(927,Node999);
    NLowOption(926,Node079);
@@ -1734,7 +1734,7 @@ procedure Node078 begin
 end
 
 procedure Node079 begin
-   debug_msg("Node079");
+   ndebug("Node079");
    Reply(940);
    NLowOption(926,Node080);
    NOption(941,Node080,004);
@@ -1742,21 +1742,21 @@ procedure Node079 begin
 end
 
 procedure Node080 begin
-   debug_msg("Node080");
+   ndebug("Node080");
    Reply(943);
    NLowOption(926,Node80a);
    NOption(944,Node80a,004);
 end
 
 procedure Node80a begin
-   debug_msg("Node80a");
+   ndebug("Node80a");
    Reply(945);
    NLowOption(946,Node80b);
    NOption(947,Node80b,004);
 end
 
 procedure Node80b begin
-   debug_msg("Node80b");
+   ndebug("Node80b");
    Reply(948);
    NLowOption(949,Node999);
    NLowOption(950,Node999);  //Torr search accept
@@ -1767,7 +1767,7 @@ procedure Node80b begin
 end
 
 procedure Node081 begin
-   debug_msg("Node081");
+   ndebug("Node081");
    if (local_var(LVAR_81_before) == 0) then begin
       set_local_var(LVAR_81_before,1);
       Reply(955);

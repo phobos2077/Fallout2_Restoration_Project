@@ -224,66 +224,66 @@ end
 
 /* specific functions */
 procedure close_slave_doors begin
-   debug_msg("SITERM: doors closing");
+   ndebug("doors closing");
    if (self_tile == TERMINAL1) then begin
-      debug_msg("SITERM: You were on terminal 1");
+      ndebug("You were on terminal 1");
       close_slave_door(g1d1);
       close_slave_door(g1d2);
       close_slave_door(g1d3);
       close_slave_door(g1d4);
    end
    else if (self_tile == TERMINAL2) then begin
-      debug_msg("SITERM: You were on terminal 2");
+      ndebug("You were on terminal 2");
       close_slave_door(g2d1);
       close_slave_door(g2d2);
       close_slave_door(g2d3);
    end
    else if (self_tile == TERMINAL3) then begin
-      debug_msg("SITERM: You were on terminal 3");
+      ndebug("You were on terminal 3");
       close_slave_door(g3d1);
       close_slave_door(g3d2);
       close_slave_door(g3d3);
    end
    else if (self_tile == TERMINAL4) then begin
-      debug_msg("SITERM: You were on terminal 4");
+      ndebug("You were on terminal 4");
       close_slave_door(g4d1);
       close_slave_door(g4d2);
       close_slave_door(g4d3);
    end else begin
-      debug_msg("SITERM: Unknown terminal tileNum: " + self_tile);
+      ndebug("Unknown terminal tileNum: " + self_tile);
    end
 end
 
 procedure open_slave_doors begin
-   debug_msg("SITERM: doors opening");
+   ndebug("doors opening");
    ncr_set_global_state(NCR_SLAVES_FREE);
    set_map_var(MVAR_NCR_ENT_SLAVES_FREED, 1);
    set_map_var(MVAR_Slavers_Attack, 1);
    if (self_tile == TERMINAL1) then begin
-      debug_msg("SITERM: You were on terminal 1");
+      ndebug("You were on terminal 1");
       open_slave_door(g1d1);
       open_slave_door(g1d2);
       open_slave_door(g1d3);
       open_slave_door(g1d4);
    end
    else if (self_tile == TERMINAL2) then begin
-      debug_msg("SITERM: You were on terminal 2");
+      ndebug("You were on terminal 2");
       open_slave_door(g2d1);
       open_slave_door(g2d2);
       open_slave_door(g2d3);
    end
    else if (self_tile == TERMINAL3) then begin
-      debug_msg("SITERM: You were on terminal 3");
+      ndebug("You were on terminal 3");
       open_slave_door(g3d1);
       open_slave_door(g3d2);
       open_slave_door(g3d3);
    end
    else if (self_tile == TERMINAL4) then begin
-      debug_msg("SITERM: You were on terminal 4");
+      ndebug("You were on terminal 4");
       open_slave_door(g4d1);
       open_slave_door(g4d2);
       open_slave_door(g4d3);
    end else begin
-      debug_msg("SITERM: Unknown terminal tileNum: " + self_tile);
+      ndebug("Unknown terminal tileNum: " + self_tile);
    end
 end

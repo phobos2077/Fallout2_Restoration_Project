@@ -679,7 +679,7 @@ procedure StartCaravan begin
    Caravan_Encounters := random( 0, 4 );
    set_caravan_encounters( Caravan_Encounters );
 
-   //debug_msg("ENCOUNTERS=" + k);
+   //ndebug("ENCOUNTERS=" + k);
 
    if (global_var(GVAR_CARAVAN_ENCOUNTERS_TOTAL) == 0) then begin
       Caravan_Guards := random(2,4);

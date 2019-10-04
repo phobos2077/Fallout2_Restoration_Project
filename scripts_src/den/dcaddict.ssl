@@ -83,7 +83,7 @@ procedure Node005;
                                                 if (crazy_addict == false) then begin                                \
                                                    if (heavy_high) then begin                                        \
                                                       if (random(1,100) == 1) then begin                             \
-                                                         debug_msg("setting a crazy addict");                        \
+                                                         ndebug("setting a crazy addict");                        \
                                                          set_crazy;                                                  \
                                                       end                                                            \
                                                    end                                                               \

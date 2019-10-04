@@ -124,7 +124,7 @@ procedure destroy_p_proc begin
    inc_good_critter
 
    rm_caravan_guards(1);
-   debug_msg("Killed a caravan guard");
+   ndebug("Killed a caravan guard");
 /* Set global_variable for Enemy status*/
 end
 

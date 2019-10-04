@@ -110,20 +110,20 @@ procedure map_enter_p_proc begin
    jonny_obj := 0;
    match_dude_elevation;
    if (jonny_dead) then begin
-      debug_msg("destroy_object(JONNY)");
+      ndebug("destroy_object(JONNY)");
       destroy_object(self_obj);
    end else if (jonny_at_home) then begin
       if (cur_map_index == MAP_GHOST_LAKE) then begin
-         debug_msg("destroy_object(JONNY)");
+         ndebug("destroy_object(JONNY)");
          check_set_obj_visiblility(self_obj, true);
          destroy_object(self_obj);
       end else begin
-         debug_msg("making jonny visible");
+         ndebug("making jonny visible");
          check_set_obj_visiblility(self_obj, false);
       end
    end else if (is_loading_game == false) then begin
       if (all_slags_dead) then begin
-         debug_msg("destroy_object(JONNY)");
+         ndebug("destroy_object(JONNY)");
          check_set_obj_visiblility(self_obj, true);
          destroy_object(self_obj);
       end else if (map_first_run) then begin

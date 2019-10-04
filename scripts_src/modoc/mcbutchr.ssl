@@ -177,7 +177,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg(" my tile == "+self_tile);
+   ndebug(" my tile == "+self_tile);
    call Node001;
 end
 

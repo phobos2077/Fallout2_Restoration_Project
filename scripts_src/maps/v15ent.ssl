@@ -47,7 +47,7 @@ end
 procedure map_enter_p_proc begin
    variable elv; //added by killap
    Lighting;
-   debug_msg("V15SENT: Darion_deal " + global_var(GVAR_V15_NCR_DEAL) + " diaron_dead " + global_var(GVAR_NCR_V15_DARION_DEAD));
+   ndebug("V15SENT: Darion_deal " + global_var(GVAR_V15_NCR_DEAL) + " diaron_dead " + global_var(GVAR_NCR_V15_DARION_DEAD));
 
    //added by killap
    if (map_first_run) then begin
@@ -74,7 +74,7 @@ procedure map_enter_p_proc begin
    end
    //end added by killap
 
-   debug_msg("V15ENT: map_var(MVAR_Made_Car): " + map_var(MVAR_Made_Car) + " global_var(GVAR_PLAYER_GOT_CAR): " + global_var(GVAR_PLAYER_GOT_CAR) + "V15AREA: " + AREA_VAULT_15);
+   ndebug("V15ENT: map_var(MVAR_Made_Car): " + map_var(MVAR_Made_Car) + " global_var(GVAR_PLAYER_GOT_CAR): " + global_var(GVAR_PLAYER_GOT_CAR) + "V15AREA: " + AREA_VAULT_15);
    if (global_var(GVAR_V15_NCR_DEAL) == 2 and global_var(GVAR_NCR_V15_DARION_DEAD)) then begin
       /*if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0) then begin
          Dest_Car(CAR_VAULT_15_HEX, CAR_VAULT_15_ELEV)
@@ -116,6 +116,6 @@ procedure map_enter_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   debug_msg("V15ENT: cur_map_index: " + cur_map_index);
+   ndebug("V15ENT: cur_map_index: " + cur_map_index);
    Lighting;
 end

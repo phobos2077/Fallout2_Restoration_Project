@@ -267,7 +267,7 @@ procedure critter_p_proc begin
 
    if (cur_map_index == MAP_KLAMATH_1) then begin
          if ( (random(1,100)) and (In_Timed_Event == 0) ) then begin
-            debug_msg("Torr can move");
+            ndebug("Torr can move");
             In_Timed_Event:=1;
             add_timer_event(self_obj,game_ticks(random(17,37)),5);
          end
@@ -440,7 +440,7 @@ end
 
 procedure push_p_proc begin
    script_overrides;
-   debug_msg("I'm being pushed, but I won't Move.");
+   ndebug("I'm being pushed, but I won't Move.");
 end
 
 /* Any time a skill is used on a critter this call is made. This can be to give examinations

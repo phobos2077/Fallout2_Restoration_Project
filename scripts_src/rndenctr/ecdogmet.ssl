@@ -142,7 +142,7 @@ procedure use_obj_on_p_proc begin
       end else begin
          if (combat_is_initialized == false) then begin
             script_overrides;
-            debug_msg("ECDOGMET: using iguana on a stick");
+            ndebug("using iguana on a stick");
             set_local_var(LVAR_Used_Iguana, 1);
             remove_pid_qty(dude_obj, obj_pid(obj_being_used_with), 1)
             dialogue_system_enter;
@@ -447,7 +447,7 @@ end
                                              if (stupid_msg != 0) then begin                             \
                                                 NOption(stupid_msg, DEF_PARTY_STUPID_NODE, 1);        \
                                              end                                                         \
-                                             debug_msg("USED MY PARTY MEMBER OPTIONS")
+                                             ndebug("USED MY PARTY MEMBER OPTIONS")
 
 
 

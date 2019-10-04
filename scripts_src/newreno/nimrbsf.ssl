@@ -182,7 +182,7 @@ end
 
 procedure damage_p_proc begin
 variable set_off := false;
-   debug_msg("safe damage_p_proc");
+   ndebug("safe damage_p_proc");
    if (target_obj != 0) then begin
       if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
          set_off := true;
@@ -301,32 +301,32 @@ variable the_roll;
                gfade_in(ONE_GAME_MINUTE);
             end
          end else if (action_being_used == SKILL_TRAPS) then begin
-            debug_msg("action_being_used == SKILL_TRAPS");
+            ndebug("action_being_used == SKILL_TRAPS");
             gfade_out(ONE_GAME_MINUTE);
             script_overrides;
                game_time_advance(15 * ONE_GAME_MINUTE);
                if (trap_on_safe) then begin
                   script_overrides;
-                  debug_msg("trap_on_safe");
+                  ndebug("trap_on_safe");
                   the_roll := roll_vs_skill(dude_obj,SKILL_TRAPS,-25);
                   if (is_success(the_roll)) then begin
-                     debug_msg("should disarm safe");
+                     ndebug("should disarm safe");
                      set_boomw(boomw_disarmed);
                      display_mstr(180 + found_trap);
                   end else if ((is_success(roll_vs_skill(dude_obj,SKILL_TRAPS,-10))) and (found_trap == false)) then begin
-                     debug_msg("detect trap");
+                     ndebug("detect trap");
                      set_found_trap;
                      display_mstr(190);
                   end else if (is_critical(the_roll)) then begin
-                     debug_msg("traps critical fail");
+                     ndebug("traps critical fail");
                      display_mstr(290 + found_trap);
                      set_boomw(boomw_boom);
                   end else begin
-                     debug_msg("fell through on traps");
+                     ndebug("fell through on traps");
                      display_mstr(200 + found_trap);
                   end
                end else begin
-                  debug_msg("trap_on_safe == false");
+                  ndebug("trap_on_safe == false");
                   display_mstr(200);
                end
             gfade_in(ONE_GAME_MINUTE);

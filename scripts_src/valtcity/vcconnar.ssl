@@ -638,7 +638,7 @@ begin
   add_mult_objs_to_inven(self_obj, LVar2, 1);
   //add_mult_objs_to_inven(self_obj, LVar3, 3);
   set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
-  debug_msg("Player gains " + 20 + " Karma Points.");
+  ndebug("Player gains " + 20 + " Karma Points.");
   CheckKarma;
   set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
   //set_local_var(LVAR_Time_Delivered,game_time);
@@ -941,7 +941,7 @@ procedure Node991 begin
   add_mult_objs_to_inven(self_obj, LVar2, 1);
   //add_mult_objs_to_inven(self_obj, LVar3, 3);
   set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
-  debug_msg("Player gains " + 20 + " Karma Points.");
+  ndebug("Player gains " + 20 + " Karma Points.");
   CheckKarma;
   set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
   //set_local_var(LVAR_Time_Delivered,game_time);

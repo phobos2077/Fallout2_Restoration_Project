@@ -223,10 +223,10 @@ procedure Check_State begin
          set_obj_visibility(self_obj, OBJ_VIS);
       end else if (andmvar(MVAR_Vault15_Field, FIELD_OFF)) then begin
          set_obj_visibility(self_obj, OBJ_INVIS);
-         debug_msg("BSFIELD: field should be off and invisible");
+         ndebug("field should be off and invisible");
       end else if (andmvar(MVAR_Vault15_Field, FIELD_DESTROYED)) then begin
          set_obj_visibility(self_obj, OBJ_INVIS);
-         debug_msg("BSFIELD: field should be destroyed and invis");
+         ndebug("field should be destroyed and invis");
       end
    end else begin
       set_obj_visibility(self_obj, OBJ_INVIS);
@@ -243,9 +243,9 @@ end
 procedure Destroy_Field begin
    smvar(MVAR_Vault15_Field, 0);
    set_mvar_bit_on(MVAR_Vault15_Field, FIELD_DESTROYED);
-   debug_msg("BSFIELD: cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
-   debug_msg("BSFIELD: cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
-   debug_msg("BSFIELD: cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
+   ndebug("cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
+   ndebug("cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
+   ndebug("cleard the field var should only have destoryed set:" + mvar(MVAR_Vault15_Field));
    destroy_object(self_obj);
 end
 

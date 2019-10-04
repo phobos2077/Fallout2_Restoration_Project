@@ -141,7 +141,7 @@ procedure timed_event_p_proc begin
             end else if (anim_busy(self_obj) == false) then begin
                call Node003;
                if ((local_var(LVAR_Last_Played) <= game_time) and (random(1,10) != 5)) then begin
-                  debug_msg("McGee's playing the slots");
+                  ndebug("McGee's playing the slots");
                   set_local_var(LVAR_Last_Played, game_time + (random(1,5) * ONE_GAME_MINUTE));
                   reg_anim_clear(self_obj);
                   reg_anim_begin();

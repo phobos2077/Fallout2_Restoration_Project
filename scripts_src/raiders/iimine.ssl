@@ -65,9 +65,9 @@ procedure damage_p_proc begin
 
    if( ( local_var( LVAR_Trap_Exploded ) == 0 ) and ( local_var(TRAP_LVAR) == 0 ) ) then begin
       if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-         debug_msg("Destroying Visible Trap");
+         ndebug("Destroying Visible Trap");
          destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-         debug_msg("Destroyed Visible Trap");
+         ndebug("Destroyed Visible Trap");
       end
       Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj));
 
@@ -128,19 +128,19 @@ procedure spatial_p_proc begin
 
            //game_ui_disable;
 
-           debug_msg("Set off the Trap!");
+           ndebug("Set off the Trap!");
            //Projectile:=create_object(PROJECTILE_WEAPON,INITIAL_TILE,elevation(self_obj));
            //Face_Critter(source_obj,Projectile);
            if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-               debug_msg("Destroying Visible Trap");
+               ndebug("Destroying Visible Trap");
                destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-               debug_msg("Destroyed Visible Trap");
+               ndebug("Destroyed Visible Trap");
            end
            Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj));
 
            //added by killap
            if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (random(0,1) == 1)) then
-               debug_msg("Used Light Step.");
+               ndebug("Used Light Step.");
            else begin
                explosion( tile_num( self_obj ), elevation( self_obj ), 1 );
                critter_dmg(source_obj,random(MIN_DMG,MAX_DMG),(DMG_normal_dam BWOR DMG_BYPASS_ARMOR BWOR DMG_NOANIMATE));
@@ -180,9 +180,9 @@ procedure use_skill_on_p_proc begin
                display_msg(message_str(SCRIPT_GENERIC,104));
                //for some reason this code segment causes issue - killap
                /*if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-                   debug_msg("Destroying Visible Trap");
+                   ndebug("Destroying Visible Trap");
                    destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-                   debug_msg("Destroyed Visible Trap");
+                   ndebug("Destroyed Visible Trap");
                end*/
                //Trap:=create_object_sid(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
                Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj)); //edit by killap
@@ -210,9 +210,9 @@ procedure use_skill_on_p_proc begin
                display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,107));
                //for some reason this code segment causes issue - killap
                /*if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-                   debug_msg("Destroying Visible Trap");
+                   ndebug("Destroying Visible Trap");
                    destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-                   debug_msg("Destroyed Visible Trap");
+                   ndebug("Destroyed Visible Trap");
                end*/
                //Trap:=create_object_sid(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
                Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj)); //edit by killap
@@ -229,7 +229,7 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    display_msg(mstr(102));
-   debug_msg("Looking At the Trap");
+   ndebug("Looking At the Trap");
 end
 
 procedure description_p_proc begin

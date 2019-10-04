@@ -307,7 +307,7 @@ procedure destroy_p_proc begin
       add_obj_to_inven(self_obj, create_object(PID_PLASTIC_EXPLOSIVES, 0, 0));
    end
 
-   debug_msg("SCOFJACK: in jacks death 2: " + global_var(GVAR_NCR_MIRA_STATE));
+   ndebug("in jacks death 2: " + global_var(GVAR_NCR_MIRA_STATE));
 end
 
 /* Look_at_p_proc gets called any time that the player passes the cursor over any object.
@@ -510,10 +510,10 @@ procedure getTimeTile begin
    Ttime := POWER_PLANT_TIME;
 
    if (bittime bwand Ttime) then begin
-      debug_msg("SCOFJACK: returning pos power for jack");
+      ndebug("returning pos power for jack");
       return POS_POWER;
    end else begin
-      debug_msg("SCOFJACK: return pos police for Jack");
+      ndebug("return pos police for Jack");
       return POS_POLICE;
    end
 end
@@ -537,7 +537,7 @@ procedure animateToTarget begin
          reg_anim_begin();
          animate_move_to_tile(POS_INTER);
          reg_anim_end();
-         debug_msg("SCOFJACK: told to walk again.");
+         ndebug("told to walk again.");
       end
    end else if (walking == 2) then begin
       if (self_tile == target_tile) then begin

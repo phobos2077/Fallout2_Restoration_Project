@@ -126,7 +126,7 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
        set_map_var(MVAR_Darion_Attack,  1);
-       debug_msg("DARION: set darion attack");
+       ndebug("set darion attack");
    end
 
 end

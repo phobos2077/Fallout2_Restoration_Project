@@ -91,7 +91,7 @@ procedure critter_p_proc begin
          // remove from party and hide slave!!!
       end
    end else if (dude_is_obstructing_flee == false) then begin
-      debug_msg("   telling slave to run");
+      ndebug("   telling slave to run");
       anim_run_to_point_rate(temp_map_exit_tile, 3)
       set_local_var(LVAR_Fleeing,true);
    end else if (local_var(LVAR_Free) == false) then begin

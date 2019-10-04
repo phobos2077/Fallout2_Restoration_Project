@@ -357,7 +357,7 @@ end
 
 procedure talk_p_proc begin
 variable temp_dog;
-   debug_msg("talk_p_proc");
+   ndebug("talk_p_proc");
    if (cur_map_index == MAP_GHOST_FARM) then begin
       kill_them_all_floater;
    end else if (is_staging_rape) then begin
@@ -432,7 +432,7 @@ variable temp_dog;
          move_obj_inven_to_obj(generic_temp_box,self_obj);
       end
       set_herebefore;
-      debug_msg("  brahmin seed state == "+global_var(GVAR_MODOC_BRAHMIN_SEED));
+      ndebug("  brahmin seed state == "+global_var(GVAR_MODOC_BRAHMIN_SEED));
    end
    //added by killap
    if (self_is_armed == false) then begin

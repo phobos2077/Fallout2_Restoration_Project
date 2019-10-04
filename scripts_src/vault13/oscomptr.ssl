@@ -218,7 +218,7 @@ procedure use_skill_on_p_proc begin
          /*if (local_var(LVAR_Did_Seq) or not VAULT13_SEQ) then begin
             call Node007;
          end else begin
-            debug_msg("OSCOMPTR: called node 8 through skill proc");
+            ndebug("called node 8 through skill proc");
             start_gdialog(NAME,self_obj,4,-1,-1);
             gSay_Start;
                call Node008;

@@ -221,8 +221,8 @@ procedure map_enter_p_proc begin
       destroy_object(self_obj);
    //end added
 
-   debug_msg("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
-   debug_msg("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
+   ndebug("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
+   ndebug("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
 
 end
 
@@ -292,7 +292,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
+   ndebug("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
    if ((hostile) or (gang_hostile)) then begin
       call Node034;
    end else if (metzger_dead) then begin

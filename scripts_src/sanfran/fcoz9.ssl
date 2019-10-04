@@ -322,7 +322,7 @@ end
 
 procedure Node23a begin
    UpReactMinor;
-   debug_msg("FCOZ9: in node 23a");
+   ndebug("FCOZ9: in node 23a");
 
    call Node023;
 end
@@ -520,7 +520,7 @@ procedure Node022 begin
 end
 
 procedure Node023 begin
-   debug_msg("FCOZ9: in node 023");
+   ndebug("FCOZ9: in node 023");
    call TakeLetter;
    Reply(173);
    NOption(174, Node2224, 4);

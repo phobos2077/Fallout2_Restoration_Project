@@ -470,8 +470,8 @@ procedure armwrestle begin
       fight_round := 0;
       add_timer_event( self_obj, 1, 1 );
 /*
-      debug_msg( "Dude_power: " + dpower );
-      debug_msg( "Francis_power: " + fpower );
+      ndebug( "Dude_power: " + dpower );
+      ndebug( "Francis_power: " + fpower );
       if (fpower > dpower) then begin
          diff:=fpower - dpower;
          if (diff > 20) then
@@ -479,7 +479,7 @@ procedure armwrestle begin
       end
       if (you_lose == 0) then begin //player has a chance
          droll:=random(1,100);
-         debug_msg( "Dude_random: " + droll );
+         ndebug( "Dude_random: " + droll );
          if (droll > dpower) then begin
             you_lose:=1; //nope failed his roll
          end
@@ -487,7 +487,7 @@ procedure armwrestle begin
             ddiff:=dpower-droll; //still has a chance
          end
          froll:=random(1,100);
-         debug_msg( "Francis_random: " + froll );
+         ndebug( "Francis_random: " + froll );
          if (froll > fpower) then begin
             fdiff:=0; //Francis cannot fail unless you overpower him
          end
@@ -496,8 +496,8 @@ procedure armwrestle begin
          end
       end
 
-      debug_msg( "Dude_diff: " + ddiff );
-      debug_msg( "Francis_diff: " + fdiff );
+      ndebug( "Dude_diff: " + ddiff );
+      ndebug( "Francis_diff: " + fdiff );
 
       if (you_lose == 0) then begin
          if (ddiff < fdiff) then begin

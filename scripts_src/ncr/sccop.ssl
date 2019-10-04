@@ -160,7 +160,7 @@ end
 
 procedure combat_p_proc begin
    if (obj_can_see_obj(self_obj, dude_obj) and ncr_flag(NCR_GUARD_CHECK_HOSTILE) and not local_var(LVAR_Personal_Enemy)) then begin
-      debug_msg("SCCOP: should be attacking dude");
+      ndebug("should be attacking dude");
       set_ncr_flag(NCR_GUARD_ENEMY);
       set_local_var(LVAR_Personal_Enemy, 1);
       self_attack_dude;
@@ -169,13 +169,13 @@ end
 
 procedure combat_is_over_p_proc begin
    if (obj_can_see_obj(self_obj, dude_obj) and ncr_flag(NCR_GUARD_CHECK_HOSTILE) and local_var(LVAR_Personal_Enemy)) then begin
-      debug_msg("SCCOP: should be re-attacking dude");
+      ndebug("should be re-attacking dude");
       self_attack_dude;
    end else begin
       if (tile_distance_objs(self_obj, dude_obj) < 15) then begin
-         debug_msg("SCCOP: obj_can_see_obj: " + obj_can_see_obj(self_obj, dude_obj));
-         debug_msg("SCCOP: ncr: " + ncr_flag(NCR_GUARD_CHECK_HOSTILE));
-         debug_msg("SCCOP: should be clearing attacking dude.");
+         ndebug("obj_can_see_obj: " + obj_can_see_obj(self_obj, dude_obj));
+         ndebug("ncr: " + ncr_flag(NCR_GUARD_CHECK_HOSTILE));
+         ndebug("should be clearing attacking dude.");
       end
       unset_ncr_flag(NCR_GUARD_CHECK_HOSTILE);
       set_local_var(LVAR_Personal_Enemy, 0);

@@ -1503,7 +1503,7 @@ procedure Check_Repair(variable Cur_Var) begin
        if ((map_var(Cur_Var) > 0)/* and (tile_num(self_obj) == 20118)*/) then begin //edit by killap - was != 0 and did a tile check
          obj_unlock(self_obj);
          set_local_var(LVAR_Locked, STATE_INACTIVE);
-         debug_msg("unlocking door for repair bot");
+         ndebug("unlocking door for repair bot");
        end else begin
          if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
             obj_lock(self_obj);

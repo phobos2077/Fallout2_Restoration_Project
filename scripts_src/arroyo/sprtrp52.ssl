@@ -112,15 +112,15 @@ procedure spatial_p_proc begin
            Projectile:=create_object(PID_FLYING_SPEAR,INITIAL_TILE,elevation(self_obj));
            Face_Critter(source_obj,Projectile);
            if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),PID_CAVE_FLOOR_TRAP_VISIBLE)) then begin
-               debug_msg("Destroying Visible Trap");
+               ndebug("Destroying Visible Trap");
                destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),PID_CAVE_FLOOR_TRAP_VISIBLE));
-               debug_msg("Destroyed Visible Trap");
+               ndebug("Destroyed Visible Trap");
            end
            Trap:=create_object(PID_CAVE_FLOOR_TRAP_DEPRESSED,tile_num(self_obj),elevation(self_obj));
 
            //added by killap
            if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (random(0,1) == 1)) then
-               debug_msg("Used Light Step.");
+               ndebug("Used Light Step.");
            else begin
                call Check_Hit;
            end
@@ -159,9 +159,9 @@ procedure use_skill_on_p_proc begin
                display_msg(message_str(SCRIPT_GENERIC,104));
                //for some reason this code segment causes issues - killap
                /*if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),PID_CAVE_FLOOR_TRAP_VISIBLE)) then begin
-                   debug_msg("Destroying Visible Trap");
+                   ndebug("Destroying Visible Trap");
                    destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),PID_CAVE_FLOOR_TRAP_VISIBLE));
-                   debug_msg("Destroyed Visible Trap");
+                   ndebug("Destroyed Visible Trap");
                end*/
                //Trap:=create_object_sid(PID_CAVE_FLOOR_TRAP_DEPRESSED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
                Trap:=create_object(PID_CAVE_FLOOR_TRAP_DEPRESSED,tile_num(self_obj),elevation(self_obj)); // edit by killap
@@ -188,9 +188,9 @@ procedure use_skill_on_p_proc begin
                display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,107));
                //for some reason this code segment causes issues - killap
                /*if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),PID_CAVE_FLOOR_TRAP_VISIBLE)) then begin
-                   debug_msg("Destroying Visible Trap");
+                   ndebug("Destroying Visible Trap");
                    destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),PID_CAVE_FLOOR_TRAP_VISIBLE));
-                   debug_msg("Destroyed Visible Trap");
+                   ndebug("Destroyed Visible Trap");
                end*/
                //Trap:=create_object_sid(PID_CAVE_FLOOR_TRAP_DEPRESSED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
                Trap:=create_object(PID_CAVE_FLOOR_TRAP_DEPRESSED,tile_num(self_obj),elevation(self_obj)); // edit by killap
@@ -282,7 +282,7 @@ procedure Missile_Fired begin
            else begin
                anim(source_obj,ANIM_dodge_anim,ANIMATE_FORWARD);
            end
-           debug_msg("Projectile == "+tile_num(Projectile)+". Final_Hex == "+Final_Hex);
+           ndebug("Projectile == "+tile_num(Projectile)+". Final_Hex == "+Final_Hex);
        end
        Counter+=1;
    end

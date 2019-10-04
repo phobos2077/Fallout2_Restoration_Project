@@ -232,7 +232,7 @@ end
    he was once hostile towards the player.*/
 procedure Node998 begin
    set_local_var(LVAR_Hostile,2);
-   debug_msg("local_var(LVAR_Hostile) == "+local_var(LVAR_Hostile));
+   ndebug("local_var(LVAR_Hostile) == "+local_var(LVAR_Hostile));
 end
 
 /* Anytime that there is a need for an ending to dialog, this node is to be called. It will just

@@ -112,7 +112,7 @@ procedure critter_p_proc begin
        set_local_var(LVAR_Fight_Status,FIGHT_INIT);
 
    if ((map_var(MVAR_Rat_Fighter1) != 0) and (map_var(MVAR_Rat_Fighter2) != 0) and (local_var(LVAR_Fight_Status) == FIGHT_INIT)) then begin
-       debug_msg("ECKAGA1: tile_set_center(21336): " + tile_set_center(21336)); //screen will recenter - added by killap
+       ndebug("ECKAGA1: tile_set_center(21336): " + tile_set_center(21336)); //screen will recenter - added by killap
        if (map_var(MVAR_Rat_Fighter1) == local_var(LVAR_Rat_Number)) then begin
            set_local_var(LVAR_Fight_Status,FIGHT_ON);
            call Setup_Fighting;
@@ -125,7 +125,7 @@ procedure critter_p_proc begin
 end
 
 procedure destroy_p_proc begin
-   debug_msg("Someone just died");
+   ndebug("Someone just died");
 
    call End_Fight(self_obj);
 end
@@ -141,7 +141,7 @@ procedure timed_event_p_proc begin
        close_on(Fighter1,Fighter2);
        close_on(Fighter2,Fighter1);
        add_timer_event(self_obj,game_ticks(1),CHECK_DISTANCE);
-       debug_msg("Adding Timer event");
+       ndebug("Adding Timer event");
    end
 
    else if (fixed_param == CHECK_DISTANCE) then begin
@@ -161,7 +161,7 @@ procedure timed_event_p_proc begin
        end
        else begin
            RoundNumber+=1;
-           debug_msg("Going to Next Round. Round "+RoundNumber);
+           ndebug("Going to Next Round. Round "+RoundNumber);
            call Attack_Round;
        end
    end
@@ -192,7 +192,7 @@ procedure Find_Rat_Num begin
    else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_6) then
        set_local_var(LVAR_Rat_Number,6);
    else
-       debug_msg("Prototype "+obj_pid(self_obj)+" is trying to use RCFitRat script.");
+       ndebug("Prototype "+obj_pid(self_obj)+" is trying to use RCFitRat script.");
 
 end
 
@@ -210,7 +210,7 @@ procedure Find_Ptr begin
    else if (local_var(LVAR_Rat_Number) == 6) then
        Molerat_Ptr6:=self_obj;
    else
-       debug_msg("ERROR: Local_var(LVAR_Rat_Number) has an invalid value.");
+       ndebug("Local_var(LVAR_Rat_Number) has an invalid value.");
 end
 
 procedure Setup_Fighting begin
@@ -229,7 +229,7 @@ procedure Setup_Fighting begin
    else if (map_var(MVAR_Rat_Fighter1) == 6) then
        Fighter1:=Molerat_Ptr6;
    else
-       debug_msg("ERROR: Tried getting pointer to Fighter 1 Failed.");
+       ndebug("Tried getting pointer to Fighter 1 Failed.");
 
    // Getting the Pointer to Fighter 2
    if (map_var(MVAR_Rat_Fighter2) == 1) then
@@ -245,10 +245,10 @@ procedure Setup_Fighting begin
    else if (map_var(MVAR_Rat_Fighter2) == 6) then
        Fighter2:=Molerat_Ptr6;
    else
-       debug_msg("ERROR: Tried getting pointer to Fighter 2 Failed.");
+       ndebug("Tried getting pointer to Fighter 2 Failed.");
 
    if ((Fighter1 == 0) or (Fighter2 == 0)) then begin
-       debug_msg("ERROR: A fighter is missing a pointer. Aborting Fight.");
+       ndebug("A fighter is missing a pointer. Aborting Fight.");
    end
 
    else begin
@@ -263,17 +263,17 @@ procedure Start_Fighting begin
        set_local_var(LVAR_Fighter1_HP,max_hp(Fighter1));
        set_local_var(LVAR_Fighter2_HP,max_hp(Fighter2));
 
-       debug_msg("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2));
+       ndebug("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2));
 
        add_timer_event(self_obj,game_ticks(1),MOVE_IN);
    end                                                                  // End of if (Fighter1 == self_obj) then begin
 
    else if (Fighter2 == self_obj) then begin
-        debug_msg("I am taking instructions from Fighter1");
+        ndebug("I am taking instructions from Fighter1");
    end                                                                  // End of if (Fighter2 == self_obj) then begin
 
    else begin
-       debug_msg("ERROR: I am fighting when I should not be.");
+       ndebug("I am fighting when I should not be.");
    end                                                                  // End of else begin
 end
 
@@ -298,7 +298,7 @@ procedure Attack_Round begin
 //   reg_anim_begin();
 
    if (sequence(Fighter1) > sequence(Fighter2)) then begin
-       debug_msg("[SEQUENCE] Fighter 1 goes first.");
+       ndebug("[SEQUENCE] Fighter 1 goes first.");
        call Fighter_Sequence(Fighter1,Fighter2);
        if ((Fighter2 != 0) and (map_var(MVAR_Rat_Fighter2) != 0)) then
            add_timer_event(self_obj,game_ticks(2),START_FIGHTER2);
@@ -306,7 +306,7 @@ procedure Attack_Round begin
    end
 
    else if (sequence(Fighter2) > sequence(Fighter1)) then begin
-       debug_msg("[SEQUENCE] Fighter 2 goes first.");
+       ndebug("[SEQUENCE] Fighter 2 goes first.");
        call Fighter_Sequence(Fighter2,Fighter1);
        if (Fighter1 != 0) then
        if ((Fighter1 != 0) and (map_var(MVAR_Rat_Fighter1) != 0)) then
@@ -315,7 +315,7 @@ procedure Attack_Round begin
    end
 
    else if (random(0,99) < 50) then begin
-       debug_msg("[RANDOM] Fighter 1 goes first.");
+       ndebug("[RANDOM] Fighter 1 goes first.");
        call Fighter_Sequence(Fighter1,Fighter2);
        if (Fighter2 != 0) then
        if ((Fighter2 != 0) and (map_var(MVAR_Rat_Fighter2) != 0)) then
@@ -324,7 +324,7 @@ procedure Attack_Round begin
    end
 
    else begin
-       debug_msg("[RANDOM] Fighter 2 goes first.");
+       ndebug("[RANDOM] Fighter 2 goes first.");
        call Fighter_Sequence(Fighter2,Fighter1);
        if ((Fighter1 != 0) and (map_var(MVAR_Rat_Fighter1) != 0)) then
            add_timer_event(self_obj,game_ticks(2),START_FIGHTER1);
@@ -345,7 +345,7 @@ procedure Fighter_Sequence(variable Combat1, variable Combat2) begin
    variable Roll;
    variable Damage;
 
-   debug_msg("Starting Fighter Sequence");
+   ndebug("Starting Fighter Sequence");
 
    if ((Combat1 != 0) and (Combat2 != 0) and (local_var(LVAR_Fighter1_HP) > 0) and (local_var(LVAR_Fighter2_HP) > 0)) then begin
        if (Combat1 == Fighter1) then begin
@@ -366,24 +366,24 @@ procedure Fighter_Sequence(variable Combat1, variable Combat2) begin
        reg_anim_begin();
 
        while ((local_var(Combat1_LVAR) > 0) and (Fighter1 != 0) and (Fighter2 != 0)) do begin
-           debug_msg("Fighter "+Combat1_LVAR+" has "+local_var(Combat1_LVAR)+" AP Left. And has "+local_var(Combat1_HP)+" Hp left.");
+           ndebug("Fighter "+Combat1_LVAR+" has "+local_var(Combat1_LVAR)+" AP Left. And has "+local_var(Combat1_HP)+" Hp left.");
            Critter_Distance:=tile_distance_objs(Combat1,Combat2);
 
            if ((Critter_Distance > 2) and (local_var(Combat1_LVAR) >= Critter_Distance)) then begin
                close_on(Combat1,Combat2);
                set_local_var(Combat1_LVAR,local_var(Combat1_LVAR)-Critter_Distance);
-               debug_msg("Moving to opponent. "+Combat1_LVAR);
+               ndebug("Moving to opponent. "+Combat1_LVAR);
            end
 
            else if (Critter_Distance > 2) then begin
                Closest_Tile:=tile_num_in_direction(tile_num(Combat1),rotation_to_tile(tile_num(Combat1),tile_num(Combat2)),local_var(Combat1_LVAR));
                animate_move_obj_to_tile(Combat1,Closest_Tile,-1);
                set_local_var(Combat1_LVAR,0);
-               debug_msg("Moving In closer. "+Combat1_LVAR);
+               ndebug("Moving In closer. "+Combat1_LVAR);
            end
 
            else if (local_var(Combat1_LVAR) >= AP_COST_ATTACK) then begin
-               debug_msg("Attempting to Hit. "+Combat1_LVAR);
+               ndebug("Attempting to Hit. "+Combat1_LVAR);
                Roll:=roll_to_hit(Combat1,Combat2);
                anim(Combat1, ANIMATE_ROTATION,rotation_to_tile(tile_num(Combat1),tile_num(Combat2)));
                reg_anim_animate(Combat1,ANIM_throw_punch,-1);
@@ -393,33 +393,33 @@ procedure Fighter_Sequence(variable Combat1, variable Combat2) begin
                    if (skill_success(dude_obj,SKILL_GAMBLING,-30)) then
                        Damage+=4;
                    if (is_critical(Roll)) then begin
-                       debug_msg("Damage == "+Damage*2);
+                       ndebug("Damage == "+Damage*2);
 //                       critter_damage(Combat2,(Damage*2));
                        reg_anim_animate(Combat2,ANIM_hit_from_front,1);
                        set_local_var(Combat2_HP,local_var(Combat2_HP)-(Damage*2));
-                       debug_msg("Critical Hit. "+Combat1_LVAR);
+                       ndebug("Critical Hit. "+Combat1_LVAR);
                    end
                    else begin
-                       debug_msg("Damage == "+Damage);
+                       ndebug("Damage == "+Damage);
 //                       critter_damage(Combat2,Damage);
                        reg_anim_animate(Combat2,ANIM_hit_from_front,1);
                        set_local_var(Combat2_HP,local_var(Combat2_HP)-Damage);
-                       debug_msg("Hit. "+Combat1_LVAR);
+                       ndebug("Hit. "+Combat1_LVAR);
                    end
                end
                else if (is_critical(Roll)) then begin
                    set_local_var(Combat1_LVAR,0);
                    reg_anim_animate(Combat2,ANIM_dodge_anim,1);
-                   debug_msg("Critical Miss. "+Combat1_LVAR);
+                   ndebug("Critical Miss. "+Combat1_LVAR);
                end
                else begin
                    reg_anim_animate(Combat2,ANIM_dodge_anim,1);
-                   debug_msg("Miss. "+Combat1_LVAR);
+                   ndebug("Miss. "+Combat1_LVAR);
                end
            end
 
            else begin
-               debug_msg("Moving Around. "+Combat1_LVAR);
+               ndebug("Moving Around. "+Combat1_LVAR);
                Closest_Tile:=tile_num_in_direction(tile_num(Combat1),random(0,5),local_var(Combat1_LVAR));
                animate_move_obj_to_tile(Combat1,Closest_Tile,0);
                set_local_var(Combat1_LVAR,0);
@@ -440,7 +440,7 @@ end
 procedure End_Fight(variable Combatant) begin
    game_ui_enable; //added by killap
 
-   debug_msg("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2)+". local_var(LVAR_Rat_Number) == "+local_var(LVAR_Rat_Number));
+   ndebug("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2)+". local_var(LVAR_Rat_Number) == "+local_var(LVAR_Rat_Number));
 
    set_local_var(LVAR_Fight_Status,FIGHT_INIT);
 
@@ -508,6 +508,6 @@ procedure End_Fight(variable Combatant) begin
        end
    end
 
-   debug_msg("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2)+". local_var(LVAR_Rat_Number) == "+local_var(LVAR_Rat_Number));
+   ndebug("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2)+". local_var(LVAR_Rat_Number) == "+local_var(LVAR_Rat_Number));
 
 end

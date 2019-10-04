@@ -107,7 +107,7 @@ procedure map_enter_p_proc begin
             //set_obj_visibility( self_obj, true );
       end
       else begin
-      debug_msg("MacRae_Ptr ==0");
+      ndebug("MacRae_Ptr ==0");
          add_timer_event( self_obj, game_ticks(random(10, 30)), 1);
       end
    end

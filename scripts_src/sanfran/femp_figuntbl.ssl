@@ -153,7 +153,7 @@ procedure map_enter_p_proc begin
    //end added
 
    if (validHandle(i_gun_merchant)) then begin
-      debug_msg("FIGUNTBL: self_tile: " + self_tile);
+      ndebug("self_tile: " + self_tile);
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (self_tile == TABLE_1) then begin //Armor table
 
@@ -407,7 +407,7 @@ procedure map_enter_p_proc begin
       //end new added
 
             destroy_obj_inven(self_obj); //added by killap - one of the preventives I am adding towards the "too many items bug"
-            debug_msg("FIGUNTBL: table 1 set");
+            ndebug("table 1 set");
             //Used to be on Table 3
             check_restock_item(PID_BOTTLE_CAPS, 1000, 2000, 100)
             check_restock_item(PID_FLAMER, 1, 2, 60)
@@ -696,7 +696,7 @@ procedure map_enter_p_proc begin
       //end new added
 
             destroy_obj_inven(self_obj); //added by killap - one of the preventives I am adding towards the "too many items bug"
-            debug_msg("FIGUNTBL: table 2 set");
+            ndebug("table 2 set");
 
             //Used to be on table 3
             check_restock_item(PID_HK_CAWS, 1, 5, 40)

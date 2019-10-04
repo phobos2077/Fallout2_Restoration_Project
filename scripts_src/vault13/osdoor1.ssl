@@ -129,9 +129,9 @@ end
 ******************************************************************************************/
 
 procedure damage_p_proc begin
-   debug_msg("OSDOOR1: target_obj:  " + target_obj + " source_obj: " + source_obj);
+   ndebug("OSDOOR1: target_obj:  " + target_obj + " source_obj: " + source_obj);
    if (target_obj != 0) then begin
-      debug_msg("OSDOOR1: target_obj:" + target_obj + " weapon_dmg_type: " + weapon_dmg_type(target_obj));
+      ndebug("OSDOOR1: target_obj:" + target_obj + " weapon_dmg_type: " + weapon_dmg_type(target_obj));
       if (weapon_dmg_type(target_obj) != DMG_explosion) then
          script_overrides;
    end else

@@ -223,7 +223,7 @@ procedure placeCritter(variable pid, variable sid, variable baseTile) begin
 
         while ((tile_distance(tile_num(obj),baseTile) > 5) and (i < 4)) do begin
            tile := tile_num_in_direction(baseTile, Random(0, 5), Random(1, 2));
-           debug_msg("tile_num == "+tile);
+           ndebug("tile_num == "+tile);
            i+=1;
         end
 
@@ -236,11 +236,11 @@ procedure placeCritter(variable pid, variable sid, variable baseTile) begin
 
         if (tile_distance(tile_num(obj),baseTile) > 5) then begin
            destroy_object(obj);
-           debug_msg("Couldn't find Safe spot. Destroying Ptr.");
+           ndebug("Couldn't find Safe spot. Destroying Ptr.");
         end
     end
     else begin
-        debug_msg("ERROR: Pid < 1. Pid == "+pid+".");
+        ndebug("Pid < 1. Pid == "+pid+".");
     end
 end
 

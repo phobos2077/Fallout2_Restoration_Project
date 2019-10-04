@@ -134,7 +134,7 @@ procedure Node053;
                                                 off_belongs_here;                                     \
                                              end                                                      \
                                           end                                                         \
-                                          debug_msg("ETHYL BELONGS HERE == "+belongs_here);
+                                          ndebug("ETHYL BELONGS HERE == "+belongs_here);
 
 #define self_family                       family_wright
 

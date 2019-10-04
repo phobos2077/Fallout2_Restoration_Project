@@ -478,7 +478,7 @@ procedure Node020 begin
 end
 
 procedure tvar_callback(variable currentTile) begin
-   debug_msg("OCJIMMY: callback called");
+   ndebug("callback called");
 
 end
 

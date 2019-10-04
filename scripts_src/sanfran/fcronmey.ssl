@@ -177,13 +177,13 @@ procedure talk_p_proc begin
    ReactToLevel; //added by killap
 
    if (spleen_flag(SP_REINSERTED) and local_var(LVAR_Spleen_Reaction) == 0) then begin
-      debug_msg("FCRONMEY: should be setting good reaction 1");
+      ndebug("should be setting good reaction 1");
       set_local_var(LVAR_Spleen_Reaction, 1);
       set_good_critter_reaction;
    end
 
    if ((badger_flag(BADGER_GFRIEND1) or badger_flag(BADGER_GFRIEND2)) and local_var(LVAR_Girl_Reaction) == 0) then begin
-      debug_msg("FCRONMEY: should be setting good reaction 2");
+      ndebug("should be setting good reaction 2");
       set_local_var(LVAR_Girl_Reaction, 1);
       set_good_critter_reaction;
    end

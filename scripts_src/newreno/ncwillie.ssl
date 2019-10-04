@@ -60,7 +60,7 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-   debug_msg("willie timed_event_p_proc("+fixed_param+")");
+   ndebug("willie timed_event_p_proc("+fixed_param+")");
    next_param := fixed_param;
    if (next_param == 205) then begin
       if (Lenny_In_Party) then begin

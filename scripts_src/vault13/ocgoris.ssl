@@ -186,9 +186,9 @@ procedure combat_p_proc begin
 
    if (self_visible) then begin
       if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
-         debug_msg("OCGORIS: umm my turn");
+         ndebug("umm my turn");
          if (Goris_In_Party and has_trait(TRAIT_OBJECT, target_obj, OBJECT_TEAM_NUM) == TEAM_VAULT13) then begin
-            debug_msg("OCGORIS: Attcking player");
+            ndebug("Attcking player");
             set_self_abandon_party;
             self_attack_dude;
             set_local_var(LVAR_Hostile, 2);
@@ -226,7 +226,7 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == TIMER_RETURN) then begin
       if (not anim_busy(self_obj)) then begin
          if (not obj_on_screen(self_obj)) then begin
-            debug_msg("OCGORIS: adding self to party for tagging 1");
+            ndebug("adding self to party for tagging 1");
             party_add(self_obj);
             bworlvar(LVAR_State, STATE_TAGGING);
             set_obj_visibility(self_obj, OBJ_INVIS);
@@ -405,7 +405,7 @@ procedure talk_p_proc begin
       fadeout(500);
       set_self_abandon_party;
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
-      debug_msg("OCGORIS: adding self for tagging 2");
+      ndebug("adding self for tagging 2");
       party_add(self_obj);
       bworlvar(LVAR_State, STATE_TAGGING);
       set_obj_visibility(self_obj, OBJ_INVIS);
@@ -669,7 +669,7 @@ procedure Node007 begin
 end
 
 procedure Node008 begin
-   debug_msg("Made it to node8");
+   ndebug("Made it to node8");
    if (bwandlvar(LVAR_State, STATE_ENCLAVE)) then begin
       Reply(151);
    end else begin
@@ -732,13 +732,13 @@ end
 
 procedure Node014 begin
    if ( (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) or ((global_var(TOWN_REP_VAR) >= 0) and ( (check_general_rep >= 0) and (not has_rep_childkiller) and (not has_rep_berserker)) ) ) then begin //edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
-      debug_msg("OCGORIS: true_party_size " + true_party_size);
-      debug_msg("OCGORIS: party_max_formula " + party_max_formula);
-      debug_msg("OCGORIS: ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)): " + ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)));
-      debug_msg("OCGORIS: uhh PARTY_MAX_FORMULA info");
-      debug_msg("OCGORIS: (floor(dude_charisma/2): " + (floor(dude_charisma/2)));
-      debug_msg("OCGORIS: (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)): " + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)));
-      debug_msg("OCGORIS: (floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))): " + (floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))));
+      ndebug("true_party_size " + true_party_size);
+      ndebug("party_max_formula " + party_max_formula);
+      ndebug("((true_party_size >= (party_max_formula)) or (true_party_size >= 5)): " + ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)));
+      ndebug("uhh PARTY_MAX_FORMULA info");
+      ndebug("(floor(dude_charisma/2): " + (floor(dude_charisma/2)));
+      ndebug("(has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)): " + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)));
+      ndebug("(floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))): " + (floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))));
 
       if not (dude_at_max_party_size) then begin
          addParty := 1;
@@ -1001,7 +1001,7 @@ procedure checkHidden begin
 
    party_member_hidden(self_obj, res)
 
-   debug_msg("OCGORIS: res " + res);
+   ndebug("res " + res);
 end
 
 procedure map_update_p_proc begin

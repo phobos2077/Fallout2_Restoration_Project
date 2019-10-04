@@ -971,7 +971,7 @@ end
 /*
 // this will debug messages if there are characters that violation the anti-barter act of 1998
 #define check_barterable                     if (critter_can_barter(self_obj)) then begin                      \
-                                                debug_msg("BARTER SHIT ERROR: name == "+obj_name(self_obj));   \
+                                                ndebug("BARTER SHIT ERROR: name == "+obj_name(self_obj));   \
                                              end
 #define check_barterable_float               if (critter_can_barter(self_obj)) then begin                                                                                               \
                                                 float_msg(self_obj, "GET A SCRIPTER, I'M FUCKED UP!!! HELP, MY NAME IS "+obj_name(self_obj)+"!!! PHEW, THANKS!!!", FLOAT_COLOR_NORMAL); \

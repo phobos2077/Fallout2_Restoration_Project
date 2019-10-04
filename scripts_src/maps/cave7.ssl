@@ -31,7 +31,7 @@ procedure map_enter_p_proc begin
    if (not is_loading_game) then begin
       override_map_start_hex(26148,0,1);
    end
-   debug_msg("CAVE7: here I am");
+   ndebug("CAVE7: here I am");
    display_mstr(100);
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
 end

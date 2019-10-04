@@ -167,7 +167,7 @@ procedure damage_p_proc begin
        set_map_var(FIELD_STATUS,FIELD_DESTROYED);
        destroy_object(Field_Ptr);
        display_msg(mstr(116));
-       debug_msg("Successfully destroyed the Field.");
+       ndebug("Successfully destroyed the Field.");
    end
    else begin
        set_map_var(FIELD_STATUS,FIELD_DAMAGED);
@@ -176,11 +176,11 @@ procedure damage_p_proc begin
        Field_Elev:=elevation(Field_Ptr);
        destroy_object(Field_Ptr);
        if (Field_Pid == PID_NS_FORCE_FIELD) then begin
-           debug_msg("Make NW Pain Field.");
+           ndebug("Make NW Pain Field.");
            create_object_sid(PID_NS_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
        end
        else begin
-           debug_msg("Make EW Pain Field.");
+           ndebug("Make EW Pain Field.");
            create_object_sid(PID_EW_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
        end
    end

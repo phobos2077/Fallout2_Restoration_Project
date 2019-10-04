@@ -258,9 +258,9 @@ procedure removeAlchol begin
 
    if (dude_has_booze) then begin
       numobj := dude_has_booze;
-      debug_msg("SCSALBOB: numObj: " + numObj);
+      ndebug("numObj: " + numObj);
       obj := PID_BOOZE;
-      debug_msg("SCSALBOB: dude_booze_ptr: " + dude_booze_ptr);
+      ndebug("dude_booze_ptr: " + dude_booze_ptr);
       destroy_object(dude_booze_ptr);
    end else if (dude_has_beer) then begin
       numobj := dude_has_beer;
@@ -277,7 +277,7 @@ procedure removeAlchol begin
    end
 
    if (numobj - 1 > 0) then begin
-      debug_msg("atting booze back minus 1");
+      ndebug("atting booze back minus 1");
       add_mult_objs_to_inven(dude_obj, create_object(obj, self_tile, 0), numobj - 1);
    end
 end

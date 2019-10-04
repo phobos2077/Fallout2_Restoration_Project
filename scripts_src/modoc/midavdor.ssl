@@ -168,7 +168,7 @@ procedure timed_event_p_proc begin
                ((tile_distance_objs(self_obj, last_source_obj) > DOOR_CLOSE_DIST) or
                (critter_state(last_source_obj) == CRITTER_IS_DEAD))) then begin
                obj_close(self_obj);
-               debug_msg("door is closed");
+               ndebug("door is closed");
             end else begin
                add_timer_event(self_obj, 10, TIMER_CLOSE);
             end
@@ -190,16 +190,16 @@ procedure use_p_proc begin
 variable tamper := false;
 /* Trap_Roll is a global variable to this script, defined at the beginning
    of the script. */
-   debug_msg("\nSELF TILE == "+self_tile);
+   ndebug("\nSELF TILE == "+self_tile);
 
    if (slag_enterance_door) then begin
-      debug_msg("slag_enterance_door");
+      ndebug("slag_enterance_door");
       if (spoke_to_vegeir == false) then begin
-         debug_msg("spoke_to_vegeir == false");
+         ndebug("spoke_to_vegeir == false");
          if (slag_guard_obj != 0) then begin
-            debug_msg("slag_guard_obj != 0");
+            ndebug("slag_guard_obj != 0");
             if (obj_can_see_obj(slag_guard_obj, dude_obj)) then begin
-               debug_msg("obj_can_see_obj(slag_guard_obj, dude_obj)");
+               ndebug("obj_can_see_obj(slag_guard_obj, dude_obj)");
                script_overrides;
                mod_add_timer_event(slag_guard_obj, 0, 1);
                tamper := true;

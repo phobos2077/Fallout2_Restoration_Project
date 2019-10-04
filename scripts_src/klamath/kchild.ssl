@@ -133,7 +133,7 @@ procedure critter_p_proc begin
 //if ( (map_var(MVAR_Town_Rep) > 14) and (dont_pester < 1) ) then begin
    else if (dont_pester < 1) then begin
    //else if ( ( dont_pester < 1) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
-      //debug_msg("dont_pester is FALSE");
+      //ndebug("dont_pester is FALSE");
       cooldude:=tile_num(dude_obj);
       here:=tile_num(self_obj);
       if (tile_distance(here,cooldude) < 5) then begin

@@ -251,7 +251,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   debug_msg("SCDOCJUB: LVAR_Sold_Paint: " + local_var(LVAR_Sold_Paint));
+   ndebug("LVAR_Sold_Paint: " + local_var(LVAR_Sold_Paint));
 
    if ((local_var(LVAR_Westin_Pill_Pickup_Counter) != -1) and (local_var(LVAR_Westin_Pill_Pickup_Counter) == 0) or ((local_var(LVAR_Westin_Pill_Pickup_Counter) - GAME_TIME_IN_DAYS) <= 0)) then
       set_local_var(LVAR_Westin_Pill_Pickup_Counter, (GAME_TIME_IN_DAYS + 14));

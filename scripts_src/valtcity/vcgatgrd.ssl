@@ -856,23 +856,23 @@ end
 
 procedure Caught_Touching_Door begin
    if (map_var(MVAR_Picking_Front_Gate) == Front_Gate_Used) then begin
-       debug_msg("Someone tried to use the front gate.");
+       ndebug("Someone tried to use the front gate.");
        set_map_var(MVAR_Picking_Front_Gate,Front_Gate_None);
        dialogue_system_enter;
    end
 
    else if (map_var(MVAR_Picking_Front_Gate) == Front_Gate_Lockpick) then begin
-       debug_msg("Someone tried lockpicking the front gate.");
+       ndebug("Someone tried lockpicking the front gate.");
        set_map_var(MVAR_Picking_Front_Gate,Front_Gate_None);
    end
 
    else if (map_var(MVAR_Picking_Front_Gate) == Front_Gate_Explode) then begin
-       debug_msg("Someone tried to blowup the front gate.");
+       ndebug("Someone tried to blowup the front gate.");
        set_map_var(MVAR_Picking_Front_Gate,Front_Gate_None);
    end
 
    else begin
-       debug_msg("Someone did something that they shouldn't have, but I don't know what.");
+       ndebug("Someone did something that they shouldn't have, but I don't know what.");
        set_map_var(MVAR_Picking_Front_Gate,Front_Gate_None);
    end
 end

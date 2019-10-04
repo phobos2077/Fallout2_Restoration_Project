@@ -350,7 +350,7 @@ procedure Node800 begin
    set_map_var(MVAR_Guard_Time,game_time);
    set_local_var(LVAR_Guard_Leave,1);
    set_map_var(MVAR_Room_Empty,1);
-   debug_msg("guard time: " + MVAR_Guard_Time);
+   ndebug("guard time: " + MVAR_Guard_Time);
 end
 
 procedure Node801 begin

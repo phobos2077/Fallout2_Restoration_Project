@@ -113,13 +113,13 @@ variable temp_tile;
                   temp_tile := current_portal_tile;
                   while ((portal_cnt > 0) and (clump_is_free(temp_tile) == false)) do begin
                      portal_cnt -= 1;
-                     debug_msg("in while: portal_cnt == " + portal_cnt);
+                     ndebug("in while: portal_cnt == " + portal_cnt);
                      inc_portal_num;
                      temp_tile := current_portal_tile;
                   end
                   if (clump_is_free(temp_tile)) then begin
                      the_msg := 1000 + (10 * local_var(LVAR_Cur_Pet_Var)) + random(0,2);
-                     debug_msg("message: #"+the_msg+" == "+mstr(the_msg));
+                     ndebug("message: #"+the_msg+" == "+mstr(the_msg));
                      floater(the_msg);
                      animate_rotation(rotation_to_tile(self_tile, number_to_throw_tile(temp_tile)));
                      anim(self_obj, ANIM_throw_anim, self_cur_rot); // edit by killap - was -1
@@ -131,11 +131,11 @@ variable temp_tile;
                         inc_local_var(LVAR_Pets_In_Play);
                      end
                   end else begin
-                     debug_msg("PORTAL BLOCKED!!!");
+                     ndebug("PORTAL BLOCKED!!!");
                   end
                   attack(dude_obj);
                end else begin
-                  debug_msg("TOO MANY PETS OUT, NEED TO WAIT FOR ONE TO DIE!!!");
+                  ndebug("TOO MANY PETS OUT, NEED TO WAIT FOR ONE TO DIE!!!");
                end
             end else if (said_out_of_pets == false) then begin
                set_said_out_of_pets;
@@ -147,7 +147,7 @@ variable temp_tile;
          end
       end
    end else begin
-      debug_msg("player not on same elevation");
+      ndebug("player not on same elevation");
    end
 end
 

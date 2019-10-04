@@ -141,7 +141,7 @@ procedure use_obj_on_p_proc begin
 
    if (tool == PID_BOTTLE_CAPS) then begin
       script_overrides;
-      debug_msg("ZINUKE: stock: " + local_var(LVAR_Stock));
+      ndebug("stock: " + local_var(LVAR_Stock));
       if (local_var(LVAR_Stock) > 0) then begin
          set_local_var(LVAR_Stock, local_var(LVAR_Stock) - 1);
 
@@ -194,12 +194,12 @@ procedure Missile_Fired begin
            else begin
                anim(source_obj,ANIM_dodge_anim,ANIMATE_FORWARD);
            end
-           debug_msg("Projectile == "+tile_num(Projectile)+". Final_Hex == "+Final_Hex);
+           ndebug("Projectile == "+tile_num(Projectile)+". Final_Hex == "+Final_Hex);
        end
        Counter+=1;
    end
 
-   debug_msg("ZINUKE: " + Counter);
+   ndebug("" + Counter);
 end
 
 

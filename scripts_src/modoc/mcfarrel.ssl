@@ -237,7 +237,7 @@ end
 
 // dialog nodes
 procedure Node000 begin
-   debug_msg("Node000");
+   ndebug("Node000");
    Reply(153);
    if ((feud_help_cornelius_seed_active) and (feud_help_farrel_seed_accepted == false) and (dude_has_cornelius_watch == false)) then begin
       NOption(154,Node010,004);
@@ -256,7 +256,7 @@ procedure Node000 begin
    NOption(g_mstr(302),Node026,-003);
 end
 procedure Node001 begin
-   debug_msg("Node001");
+   ndebug("Node001");
    Reply(159);
    if ((feud_help_cornelius_seed_active) and (feud_help_farrel_seed_accepted == false) and (dude_has_cornelius_watch == false)) then begin
       NOption(154,Node010,004);
@@ -272,9 +272,9 @@ procedure Node001 begin
       NOption(157,Node018,004);
    end
    if (vermin_hunter_seed_active) then begin
-      debug_msg("/nvermin_hunter_seed_active");
+      ndebug("/nvermin_hunter_seed_active");
       if (all_rats_killed) then begin
-         debug_msg("/nall_rats_killed");
+         ndebug("/nall_rats_killed");
          NOption(166,Node021,004);
          NOption(169,Node029,-003);
       end else begin
@@ -293,12 +293,12 @@ procedure Node001 begin
    NOption(g_mstr(302),Node995,-003);
 end
 procedure Node010 begin
-   debug_msg("Node010");
+   ndebug("Node010");
    Reply(171);
    NOption(172,Node999,004);
 end
 procedure Node011 begin
-   debug_msg("Node011");
+   ndebug("Node011");
    Reply(173);
    NOption(174,Node015,004);
    NOption(175,Node012,004);
@@ -306,41 +306,41 @@ procedure Node011 begin
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node012 begin
-   debug_msg("Node012");
+   ndebug("Node012");
    Reply(177);
    NOption(178,Node013,004);
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node013 begin
-   debug_msg("Node013");
+   ndebug("Node013");
    Reply(179);
    NOption(180,Node014,004);
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node014 begin
-   debug_msg("Node014");
+   ndebug("Node014");
    Reply(181);
    NOption(182,Node001,004);
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node015 begin
-   debug_msg("Node015");
+   ndebug("Node015");
    Reply(183);
    NOption(g_mstr(350),Node999,004);
 end
 procedure Node016 begin
-   debug_msg("Node016");
+   ndebug("Node016");
    Reply(184);
    NOption(g_mstr(350),Node999,004);
 end
 procedure Node017 begin
-   debug_msg("Node017");
+   ndebug("Node017");
    Reply(185);
    NOption(182,Node001,004);
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node018 begin
-   debug_msg("Node018");
+   ndebug("Node018");
    if (family_feud_seed_active) then begin
       Reply(187);
       NOption(191,Node022,004);
@@ -353,18 +353,18 @@ procedure Node018 begin
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node019 begin
-   debug_msg("Node019");
+   ndebug("Node019");
    Reply(193);
    NOption(194,Node020,004);
    NOption(195,Node999,004);
 end
 procedure Node020 begin
-   debug_msg("Node020");
+   ndebug("Node020");
    Reply(196);
    NOption(g_mstr(350),Node994,004);
 end
 procedure Node021 begin
-   debug_msg("Node021");
+   ndebug("Node021");
    set_vermin_hunter_seed_inactive;
    inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_FINISH_VERMIN_HUNT); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
    Reply(197);
@@ -372,25 +372,25 @@ procedure Node021 begin
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node022 begin
-   debug_msg("Node022");
+   ndebug("Node022");
    Reply(199);
    NOption(g_mstr(350),Node999,004);
 end
 procedure Node023 begin
-   debug_msg("Node023");
+   ndebug("Node023");
    Reply(200);
    NOption(201,Node993,004);
    NOption(202,Node001,004);
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node024 begin
-   debug_msg("Node024");
+   ndebug("Node024");
    Reply(203);
    NOption(182,Node001,004);
    NOption(g_mstr(209),Node999,004);
 end
 procedure Node025 begin
-   debug_msg("Node025");
+   ndebug("Node025");
    remove_pid_qty(dude_obj, cornelius_watch_pid, 1)
    set_family_feud_seed_inactive
    inc_general_rep(REP_POINT_MODOC_RETURN_WATCH);
@@ -400,24 +400,24 @@ procedure Node025 begin
    NOption(g_mstr(350),Node999,004);
 end
 procedure Node026 begin
-   debug_msg("Node026");
+   ndebug("Node026");
    Reply(206);
    NOption(207,Node027,-003);
    NOption(208,Node994,-003);
    NOption(209,Node999,-003);
 end
 procedure Node027 begin
-   debug_msg("Node027");
+   ndebug("Node027");
    Reply(210);
    NOption(g_mstr(350),Node999,-003);
 end
 procedure Node028 begin
-   debug_msg("Node028");
+   ndebug("Node028");
    Reply(211 + dude_is_female);
    NOption(g_mstr(350),Node994,-003);
 end
 procedure Node029 begin
-   debug_msg("Node029");
+   ndebug("Node029");
    add_obj_to_inven(dude_obj,create_object(cookie_pid,0,0));
    inc_global_var_amt(GVAR_TOWN_REP_MODOC,REP_TOWN_FINISH_VERMIN_HUNT); // Seraph's Fix: changed 'inc_global_var' to 'inc_global_var_amt'. Thanks Rob!
    set_vermin_hunter_seed_inactive;

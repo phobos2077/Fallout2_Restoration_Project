@@ -197,12 +197,12 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg("talk_p_proc:");
+   ndebug("talk_p_proc:");
    if ((dice_count == 1) and (get_dice_tamper == false)) then begin
-      debug_msg("   a");
+      ndebug("   a");
       start_dialog_at_node(Node013);
    end else begin
-      debug_msg("   b");
+      ndebug("   b");
       call Node017;
    end
 end
@@ -385,9 +385,9 @@ variable the_result := 0;
 end
 
 procedure Node017 begin
-   debug_msg("Node017");
+   ndebug("Node017");
    set_dice_tamper
-   debug_msg("   a");
+   ndebug("   a");
    dice_floater(450 + (dude_has_important_rep*(dude_is_male + (2*dude_is_female))));
-   debug_msg("   b");
+   ndebug("   b");
 end

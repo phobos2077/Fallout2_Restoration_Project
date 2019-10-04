@@ -121,7 +121,7 @@ begin
             global_temp := (global_temp + 1) % 6;
             while ((anim_busy(self_obj) == 0) and (global_temp != rotation_to_tile(tile_num(dude_obj), tile_num(self_obj)))) do
             begin
-              debug_msg("flee loop: rot == " + global_temp);
+              ndebug("flee loop: rot == " + global_temp);
               animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), global_temp, random(3, 10)), 1);
               global_temp := (global_temp + 1) % 6;
             end
@@ -196,7 +196,7 @@ begin
       set_global_var(GVAR_CHAMPION_REPUTATION, 0);
     end
     set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + -10);
-    debug_msg("Player gains " + -10 + " Karma Points.");
+    ndebug("Player gains " + -10 + " Karma Points.");
     set_global_var(GVAR_KARMA_HOLY_WARRIOR, 0);
     set_global_var(GVAR_KARMA_GUARDIAN_OF_THE_WASTES, 0);
     set_global_var(GVAR_KARMA_SHIELD_OF_HOPE, 0);
@@ -268,7 +268,7 @@ end
 
 procedure Node999
 begin
-  debug_msg("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
   if (local_var(LVAR_Herebefore) == 0) then
     set_local_var(LVAR_Herebefore, 1);
 end

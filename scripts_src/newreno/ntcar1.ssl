@@ -47,13 +47,13 @@ procedure spatial_p_proc begin
             dude_floater((100 + herebefore) + (10*dude_is_stupid)); //edit by killap - (10*dude_is_stupid)
             set_herebefore;
          end else begin
-            debug_msg("said_message");
+            ndebug("said_message");
          end
       end else begin
-         debug_msg("get_stolen_car(stolen_car_stolen) == false");
+         ndebug("get_stolen_car(stolen_car_stolen) == false");
       end
    end else begin
-      debug_msg("source_obj != dude_obj");
+      ndebug("source_obj != dude_obj");
    end
 end
 procedure map_update_p_proc begin

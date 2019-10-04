@@ -283,7 +283,7 @@ procedure Node998 begin
    set_hostile;
    attack_family(family_bishop)
    if (angela_guard_obj != 0) then begin
-      debug_msg("sending call guard to bismen");
+      ndebug("sending call guard to bismen");
       nr_add_timer_event_tic(angela_guard_obj, 0, heard_help_param);
    end
 end

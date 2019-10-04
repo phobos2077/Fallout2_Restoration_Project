@@ -85,12 +85,12 @@ procedure timed_event_p_proc begin
          flush_add_timer_event_sec(self_obj, random(75,100), timed_event_float);
       end else if (fixed_param == timed_event_high) then begin
          if (local_var(LVAR_Should_Animate) == 0) then begin
-            debug_msg("fixed param 2");
+            ndebug("fixed param 2");
             floater_rand(230,235);
          end
          add_timer_event(self_obj,random(200,300),timed_event_high);
       end else if (fixed_param == timed_event_buy_drugs) then begin
-            debug_msg("Going to buy drugs!");
+            ndebug("Going to buy drugs!");
             reg_anim_clear(self_obj);
             if (stage == 1) then begin
                if (tubby_dead) then begin
@@ -107,12 +107,12 @@ procedure timed_event_p_proc begin
                end else
                   place := random(1,2);
                if (place == 1) then begin
-                  debug_msg("place: " + place);
+                  ndebug("place: " + place);
                   set_local_var(LVAR_Should_Animate,17508);
                   animate_move_to_tile(17508); //tubby
                   add_timer_event(self_obj,game_ticks(1),ensure_animation);
                end else if (place == 2) then begin
-                  debug_msg("place: " + place);
+                  ndebug("place: " + place);
                   set_local_var(LVAR_Should_Animate,26684);
                   animate_move_to_tile(26684); //flick
                   add_timer_event(self_obj,game_ticks(1),ensure_animation);
@@ -148,21 +148,21 @@ procedure timed_event_p_proc begin
                end
             end else if (stage == 5) then begin
                stage := 0;
-               debug_msg("I should head home now.");
-               debug_msg("Home_Tile: " + local_var(LVAR_Home_Tile));
+               ndebug("I should head home now.");
+               ndebug("Home_Tile: " + local_var(LVAR_Home_Tile));
                set_local_var(LVAR_Should_Animate,local_var(LVAR_Home_Tile));
-               debug_msg("Should_Animate:" + local_var(LVAR_Should_Animate));
+               ndebug("Should_Animate:" + local_var(LVAR_Should_Animate));
                animate_move_to_tile(local_var(LVAR_Home_Tile));
                add_timer_event(self_obj,game_ticks(1),ensure_animation);
             end
       end else if (fixed_param == timed_event_wander) then begin
          if (local_var(LVAR_Should_Animate) == 0) then begin
             if (anim_busy(self_obj) == false) then begin
-               debug_msg("wander...");
+               ndebug("wander...");
                if (self_tile != local_var(LVAR_Home_Tile)) then begin
                   animate_move_to_tile(local_var(LVAR_Home_Tile));
                end else begin
-                  debug_msg("should wander to a different location other than home");
+                  ndebug("should wander to a different location other than home");
                   if (random(1,5) == 1) then begin
                      animate_move_to_tile(tile_num_in_direction(self_tile, random(1,5), random(4, 7)));
                   end else begin
@@ -175,7 +175,7 @@ procedure timed_event_p_proc begin
          //flush_add_timer_event_sec(self_obj, random(5, 10), timed_event_wander);
       end else if (fixed_param == ensure_animation) then begin
           if not anim_busy(self_obj) then begin
-            debug_msg("ensure_animation");
+            ndebug("ensure_animation");
             if (local_var(LVAR_Should_Animate) != 0) then begin //edit by killap
                if (tile_num(self_obj) != (local_var(LVAR_Should_Animate))) then begin
                   animate_move_to_tile(local_var(LVAR_Should_Animate)); //edit by killap
@@ -205,7 +205,7 @@ procedure map_enter_p_proc begin
    end
    set_local_var(LVAR_Should_Animate, 0);
 
-   debug_msg("Home_Tile" + local_var(LVAR_Home_Tile));
+   ndebug("Home_Tile" + local_var(LVAR_Home_Tile));
 
    //destroy_object(self_obj);
    //if (is_loading_game == false) then begin

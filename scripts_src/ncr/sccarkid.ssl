@@ -458,7 +458,7 @@ procedure Node016 begin
 end
 
 procedure destCall(variable tileNum) begin
-   debug_msg("SCCARKID: hit tile: " + tileNum);
+   ndebug("hit tile: " + tileNum);
 end
 
 procedure anim_end_call begin

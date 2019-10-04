@@ -14,7 +14,7 @@
 #define state_ghost_pip_complete                      (6)
 #define ghost_pip(x)                                  (global_var(GVAR_MODOC_GHOST_SEED_PIP) == x)
 #define set_ghost_pip(x)                              if (global_var(GVAR_MODOC_GHOST_SEED_PIP) < x) then set_global_var(GVAR_MODOC_GHOST_SEED_PIP, x); \
-                                                      debug_msg("ghost pip == "+global_var(GVAR_MODOC_GHOST_SEED_PIP))
+                                                      ndebug("ghost pip == "+global_var(GVAR_MODOC_GHOST_SEED_PIP))
 
 #ifndef tile_in_box
 #define tile_in_box(x, ul, ur, lr, ll)                tile_in_tile_rect(ul, ur, ll, lr, x)
@@ -108,19 +108,19 @@
 #define ending_state_wipeout_2                        (3)
 #define ending_state_happy                            (4)
 #define get_ending_state                              (global_var(GVAR_MODOC_ENDINGS))
-#define set_modoc_ending_default                      if (get_ending_state < ending_state_default) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_default); debug_msg("set_modoc_ending_default")
+#define set_modoc_ending_default                      if (get_ending_state < ending_state_default) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_default); ndebug("set_modoc_ending_default")
 #define set_modoc_ending_wipeout_1                    if (ghost_farm_seed_accepted) then begin        \
                                                          set_ghost_pip(state_ghost_pip_delivered_message);     \
                                                       end                                             \
-                                                      if (get_ending_state < ending_state_wipeout_1) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_wipeout_1); debug_msg("set_modoc_ending_wipeout_1")
+                                                      if (get_ending_state < ending_state_wipeout_1) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_wipeout_1); ndebug("set_modoc_ending_wipeout_1")
 #define set_modoc_ending_wipeout_2                    if (ghost_farm_seed_accepted) then begin        \
                                                          set_ghost_pip(state_ghost_pip_delivered_message);     \
                                                       end                                             \
-                                                      if (get_ending_state < ending_state_wipeout_2) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_wipeout_2); debug_msg("set_modoc_ending_wipeout_2")
+                                                      if (get_ending_state < ending_state_wipeout_2) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_wipeout_2); ndebug("set_modoc_ending_wipeout_2")
 #define set_modoc_ending_happy                        if (ghost_farm_seed_accepted) then begin        \
                                                          set_ghost_pip(state_ghost_pip_delivered_message);     \
                                                       end                                             \
-                                                      if (get_ending_state < ending_state_happy) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_happy); clear_attack_slag_time; debug_msg("set_modoc_ending_happy")
+                                                      if (get_ending_state < ending_state_happy) then set_global_var(GVAR_MODOC_ENDINGS, ending_state_happy); clear_attack_slag_time; ndebug("set_modoc_ending_happy")
 
 #define dude_in_modoc_town                            ((cur_map_index == MAP_MODOC_MAINSTREET) or (cur_map_index == MAP_MODOC_BEDNBREAKFAST))
 
@@ -275,7 +275,7 @@
 #define attack_time_set                         (global_var(GVAR_SLAUGHTER_SLAG_TIME) != 0)
 #define set_kill_slag_time                      if (attack_time_set == false) then begin                              \
                                                    set_global_var(GVAR_SLAUGHTER_SLAG_TIME, GAME_TIME_IN_DAYS + starting_attack_days); \
-                                                end debug_msg("didn't set new kill slag time")
+                                                end ndebug("didn't set new kill slag time")
 #define days_till_slag_attack                   (global_var(GVAR_SLAUGHTER_SLAG_TIME) - GAME_TIME_IN_DAYS)
 #define attack_slag_time_up                     (((days_till_slag_attack <= 0) or (days_till_slag_attack > starting_attack_days)) and (global_var(GVAR_SLAUGHTER_SLAG_TIME) > 0))
 #define clear_attack_slag_time                  set_global_var(GVAR_SLAUGHTER_SLAG_TIME, -1)
@@ -299,7 +299,7 @@
 #define dude_has_slag_message                   (obj_is_carrying_obj_pid(dude_obj, PID_SLAG_MESSAGE) > 0)
 #define all_slags_dead                          (((entered_farm) and (global_var(GVAR_SLAG_CNT) <= 0)) or (slags_killed_by_townspeople))
 #define inc_slag_cnt                            if (slag_in_farm) then inc_global_var(GVAR_SLAG_CNT);          \
-                                                debug_msg("current slag count == "+global_var(GVAR_SLAG_CNT))
+                                                ndebug("current slag count == "+global_var(GVAR_SLAG_CNT))
 #define dec_slag_cnt                            dec_global_var(GVAR_SLAG_CNT);                                 \
                                                 if (all_slags_dead) then begin                                 \
                                                    if (modoc_attacked_slags) then begin                        \
@@ -308,27 +308,27 @@
                                                       set_modoc_ending_wipeout_2;                              \
                                                    end                                                         \
                                                 end                                                            \
-                                                debug_msg("current slag count == "+global_var(GVAR_SLAG_CNT))
+                                                ndebug("current slag count == "+global_var(GVAR_SLAG_CNT))
 #define slags_wiped_out                         (all_slags_dead)
 #define check_destroy_slag                      if ((started_slag_attack) or (slags_killed_by_townspeople)) then begin                       \
                                                    if (slag_in_farm) then begin                                                              \
                                                       if (all_slags_dead) then begin                                                         \
-                                                         debug_msg("KILLING SLAG IN FARM");                                                  \
+                                                         ndebug("KILLING SLAG IN FARM");                                                  \
                                                          dec_slag_cnt;                                                                       \
                                                          kill_critter(self_obj, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf));  \
                                                       end                                                                                    \
                                                    end else begin                                                                            \
-                                                      debug_msg("DESTROYING SLAG");                                                          \
+                                                      ndebug("DESTROYING SLAG");                                                          \
                                                       dec_slag_cnt;                                                                          \
                                                       destroy_object(self_obj);                                                              \
                                                    end                                                                                       \
                                                 end
 
-#define place_slag_in_random_attacking_tile     debug_msg("placing slag in random ATTACKING tile");                                                           \
+#define place_slag_in_random_attacking_tile     ndebug("placing slag in random ATTACKING tile");                                                           \
                                                 check_set_obj_visiblility(self_obj, false);                                                                          \
                                                 critter_attempt_placement(self_obj, tile_num_in_direction(18087, random(0,5), random(2, 5)), self_elevation); \
                                                 Face_Critter(self_obj, dude_obj)
-#define place_slag_in_random_farming_tile       debug_msg("placing slag in random FARMING tile");                                                                                       \
+#define place_slag_in_random_farming_tile       ndebug("placing slag in random FARMING tile");                                                                                       \
                                                 check_set_obj_visiblility(self_obj, false);                                                                                                    \
                                                 critter_attempt_placement(self_obj, tile_num_in_direction(local_var(LVAR_Home_Tile), random(0,5), random(15, 25)), self_elevation)
 #define check_put_slags_out                     if (slag_in_farm) then begin                                                           \
@@ -337,7 +337,7 @@
                                                          check_set_obj_visiblility(self_obj, false);                                   \
                                                          if ((attacking_slags) or (NAME == SCRIPT_MCPROTEC)) then begin                \
                                                             if (NAME == SCRIPT_MCPROTEC) then begin                                    \
-                                                               debug_msg("putting out protector");                                     \
+                                                               ndebug("putting out protector");                                     \
                                                             end                                                                        \
                                                             place_slag_in_random_attacking_tile;                                       \
                                                          end else begin                                                                \
@@ -403,7 +403,7 @@
 #define death_claw_escape_tile                  (17145)
 #define death_claw_kill_pid(x)                  kill_critter_type(x, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf))
 #define check_kill_party_pid(x)                 if (party_member_obj(x) == 0) then death_claw_kill_pid(x)
-#define do_kill_everyone_on_map                 debug_msg("\ndo_kill_everyone_on_map");            \
+#define do_kill_everyone_on_map                 ndebug("\ndo_kill_everyone_on_map");            \
                                                 check_kill_party_pid(PID_VIC);                     \
                                                 check_kill_party_pid(PID_MYRON);                   \
                                                 check_kill_party_pid(PID_MARCUS);                  \
@@ -524,12 +524,12 @@
 #define set_all_brahmin_dead                    set_global_var(GVAR_MODOC_BRAHMIN_ALIVE, -1)
 #define do_kill_brahmin                         dec_global_var(GVAR_MODOC_BRAHMIN_ALIVE);                                     \
                                                 if (global_var(GVAR_MODOC_BRAHMIN_ALIVE) <= 0) then set_all_brahmin_dead;     \
-                                                debug_msg("current brahmin status == "+global_var(GVAR_MODOC_BRAHMIN_ALIVE))
+                                                ndebug("current brahmin status == "+global_var(GVAR_MODOC_BRAHMIN_ALIVE))
 #define all_dogs_dead                           (global_var(GVAR_MODOC_DOGS_ALIVE) < 0)
 #define set_all_dogs_dead                       set_global_var(GVAR_MODOC_DOGS_ALIVE,-1)
 #define do_kill_dog                             dec_global_var(GVAR_MODOC_DOGS_ALIVE);                                        \
                                                 if (global_var(GVAR_MODOC_DOGS_ALIVE) <= 0) then set_all_dogs_dead;           \
-                                                debug_msg("current dogs status == "+global_var(GVAR_MODOC_DOGS_ALIVE))
+                                                ndebug("current dogs status == "+global_var(GVAR_MODOC_DOGS_ALIVE))
 #define brahmin_killed                          (brahmin_start_count - global_var(GVAR_MODOC_BRAHMIN_ALIVE))
 #define brahmin_seed_reward                     (1000 - (100 * brahmin_killed))
 #define dog_attack_start_hour                   (2000)
@@ -759,7 +759,7 @@
 #define set_next_stage_time(x)                  set_next_stage_time_only(x)                                       \
                                                 add_timer_event(self_obj, game_ticks(x) - 2, param_clear_float);
 #define set_stage_event(x)                      set_global_var(GVAR_MODOC_STAGE_STATE, x);      \
-                                                debug_msg("\n SET_STAGE_EVENT == "+get_stage+" in script "+self_name);
+                                                ndebug("\n SET_STAGE_EVENT == "+get_stage+" in script "+self_name);
 #define set_main_stage(x)                       set_stage_event((x) + get_sub_stage)
 #define set_sub_stage(x)                        set_stage_event(get_main_stage + (x))
 #define clear_stage                             set_global_var(GVAR_MODOC_STAGE_STATE, nothing_stage);
@@ -814,15 +814,15 @@
                                                    if (obj_in_party(self_obj) == false) then begin          \
                                                       if (cur_map_index == MAP_GHOST_FARM) then begin       \
                                                          if (all_slags_dead) then begin                     \
-                                                            debug_msg("no need for attackers");             \
+                                                            ndebug("no need for attackers");             \
                                                             check_set_obj_visiblility(self_obj, true);      \
                                                             destroy_object(self_obj);                       \
                                                          end else if (attacking_slags) then begin           \
-                                                            debug_msg("showing need for attackers");        \
+                                                            ndebug("showing need for attackers");        \
                                                             critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_PLAYER);    \
                                                             check_set_obj_visiblility(self_obj, false);     \
                                                          end else begin                                     \
-                                                            debug_msg("hiding need for attackers");         \
+                                                            ndebug("hiding need for attackers");         \
                                                             check_set_obj_visiblility(self_obj, true);      \
                                                          end                                                \
                                                       end                                                   \
@@ -981,14 +981,14 @@
 #define set_all_rats_killed                     set_modoc_flag_1_on(rats_killed_bit)
 #define set_freed_bess                          set_modoc_flag_1_on(freed_bess_bit)
 #define set_freed_bess_off                      set_modoc_flag_1_off(freed_bess_bit)
-#define set_enemy_slags                         set_modoc_flag_1_on(enemy_slags_bit); debug_msg("HEY: I SET ENEMY SLAGS!!!! I'M SCRIPT #"+NAME)
+#define set_enemy_slags                         set_modoc_flag_1_on(enemy_slags_bit); ndebug("I SET ENEMY SLAGS!!!! I'M SCRIPT #"+NAME)
 #define set_sleezy_stranger_flag                set_modoc_flag_1_on(sleezy_stranger_flag_bit)
 #define set_slags_spot_dude_on                  set_modoc_flag_1_on(slags_spot_dude_bit)
 #define set_slags_spot_dude_off                 set_modoc_flag_1_off(slags_spot_dude_bit)
 #define set_proctector_said_surrender_on        set_modoc_flag_1_on(proctector_said_surrender_bit)
 #define set_proctector_said_surrender_off       set_modoc_flag_1_off(proctector_said_surrender_bit)
-#define set_surrendered_to_slag_on              set_modoc_flag_1_on(surrender_to_slag_bit); debug_msg("SETTING SURRENDER_TO_SLAG ON")
-#define set_surrendered_to_slag_off             set_modoc_flag_1_off(surrender_to_slag_bit); debug_msg("SETTING SURRENDER_TO_SLAG ON")
+#define set_surrendered_to_slag_on              set_modoc_flag_1_on(surrender_to_slag_bit); ndebug("SETTING SURRENDER_TO_SLAG ON")
+#define set_surrendered_to_slag_off             set_modoc_flag_1_off(surrender_to_slag_bit); ndebug("SETTING SURRENDER_TO_SLAG ON")
 #define set_cornelius_dead                      set_modoc_flag_1_on(cornelius_dead_bit)
 #define set_davin_dead                          set_modoc_flag_1_on(davin_dead_bit)
 #define set_farrel_dead                         set_modoc_flag_1_on(farrel_dead_bit)
@@ -998,7 +998,7 @@
 #define set_vegeir_dead                         set_modoc_flag_1_on(vegeir_dead_bit)
 #define set_dude_found_jonny_bb_gun             set_modoc_flag_1_on(found_jonny_bb_gun_bit)
 #define set_destroy_props                       set_modoc_flag_1_on(destroy_prop_bit)
-#define set_karl_come_home                      set_modoc_flag_2_on(karl_come_home_bit); debug_msg("set_karl_come_home")
+#define set_karl_come_home                      set_modoc_flag_2_on(karl_come_home_bit); ndebug("set_karl_come_home")
 #define set_leaving_shitter                     set_modoc_flag_1_on(leaving_shitter_bit)
 #define off_leaving_shitter                     set_modoc_flag_1_off(leaving_shitter_bit)
 #define set_did_fade_out                        set_modoc_flag_1_on(did_fade_out_bit)

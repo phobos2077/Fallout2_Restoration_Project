@@ -137,12 +137,12 @@ procedure map_enter_p_proc begin
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
    end
    else if (weapon == WEP_SHOTGUN) then begin
-      debug_msg("SCRAWPAT: Someone got shotgun");
+      ndebug("Someone got shotgun");
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
       stock_weapon_obj(self_obj, PID_SHOTGUN, 1, 0, NUMSHELLS)
    end
    else if (weapon == WEP_KNIFE) then begin
-      debug_msg("SCRAWPAT: Someone got Knife");
+      ndebug("Someone got Knife");
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
       stock_weapon_obj(self_obj, PID_COMBAT_KNIFE, 1, 0, 0)
    end

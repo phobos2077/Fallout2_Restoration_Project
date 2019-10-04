@@ -109,7 +109,7 @@ procedure start begin
    i_arthur_obj := self_obj;
    if ((Only_Once == 0) and (not is_loading_game)) then begin
       Only_Once := 1;
-      debug_msg("ECARTHUR: 1 and_spec_flag(ENC_ARTHUR_ONE): " + and_spec_flag(ENC_ARTHUR_ONE));
+      ndebug("1 and_spec_flag(ENC_ARTHUR_ONE): " + and_spec_flag(ENC_ARTHUR_ONE));
       if (not and_spec_flag(ENC_ARTHUR_ONE)) then begin
          set_spec_flag(ENC_ARTHUR_ONE);
       end else if (not and_spec_flag(ENC_ARTHUR_TWO)) then begin
@@ -128,14 +128,14 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == TIMER_MOVE_POS_A) then begin
       if (not combat_is_initialized) then begin
          if (not anim_busy(self_obj) and self_tile != ARTHUR_TILE_ONE_A) then begin
-            debug_msg("ECARTHUR: told to animate");
+            ndebug("told to animate");
             reg_anim_clear(self_obj);
             reg_anim_begin();
             animate_move_to_tile(ARTHUR_TILE_ONE_A);
             reg_anim_end();
             add_timer_event(self_obj, 10, TIMER_MOVE_POS_A);
          end else if (self_tile == ARTHUR_TILE_ONE_A) then begin
-            debug_msg("ECARTHUR: umm should set arthur in pos");
+            ndebug("umm should set arthur in pos");
             set_mvar_bit_on(MVAR_Arthur_Leave, ARTHUR_IN_POS);
          end else begin
             add_timer_event(self_obj, 10, TIMER_MOVE_POS_A);
@@ -201,13 +201,13 @@ procedure critter_p_proc begin
          set_mvar_bit_on(MVAR_Arthur_Leave, bit_2);
          float_msg(self_obj, mstr(207), FLOAT_MSG_NORMAL);
          add_timer_event(self_obj, 0, TIMER_MOVE_POS_A);
-         debug_msg("ECARTHUR: moving to pos a");
+         ndebug("moving to pos a");
       end
 
       if (checkAllInPos and not mvar_bit(MVAR_Arthur_Leave, ALL_LEAVE_BIT)) then begin
          set_mvar_bit_on(MVAR_Arthur_Leave, ALL_LEAVE_BIT);
          add_timer_event(self_obj, 0, TIMER_MOVE_EXIT);
-         debug_msg("ECARTHUR: moving to exit");
+         ndebug("moving to exit");
       end
    end else begin
       if (i_vorpal_obj != -1 and elevation(dude_obj) == elevation(self_obj)) then begin
@@ -253,7 +253,7 @@ procedure talk_p_proc begin
 //   GetReaction;
 
 
-   debug_msg("ECARTHUR: Arthur_encounter_one: " + ARTHUR_ENCOUNTER_ONE);
+   ndebug("Arthur_encounter_one: " + ARTHUR_ENCOUNTER_ONE);
 
    if (ARTHUR_ENCOUNTER_ONE) then begin
       if (local_var(LVAR_Herebefore) == 0) then begin
@@ -421,11 +421,11 @@ procedure cycleTalk begin
 end
 
 procedure checkAllInPos begin
-/*   debug_msg("ECARTHUR: mvar_bit(MVAR_Arthur_Leave, ARTHUR_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, ARTHUR_IN_POS));
-   debug_msg("ECARTHUR: mvar_bit(MVAR_Arthur_Leave, ROBIN_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, ROBIN_IN_POS));
-   debug_msg("ECARTHUR: mvar_bit(MVAR_Arthur_Leave, GALAHAD_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, GALAHAD_IN_POS));
-   debug_msg("ECARTHUR: mvar_bit(MVAR_Arthur_Leave, BEDEMIR_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, BEDEMIR_IN_POS));
-   debug_msg("ECARTHUR: mvar_bit(MVAR_Arthur_Leave, LAUNCELOT_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, LAUNCELOT_IN_POS));*/
+/*   ndebug("mvar_bit(MVAR_Arthur_Leave, ARTHUR_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, ARTHUR_IN_POS));
+   ndebug("mvar_bit(MVAR_Arthur_Leave, ROBIN_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, ROBIN_IN_POS));
+   ndebug("mvar_bit(MVAR_Arthur_Leave, GALAHAD_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, GALAHAD_IN_POS));
+   ndebug("mvar_bit(MVAR_Arthur_Leave, BEDEMIR_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, BEDEMIR_IN_POS));
+   ndebug("mvar_bit(MVAR_Arthur_Leave, LAUNCELOT_IN_POS): " + mvar_bit(MVAR_Arthur_Leave, LAUNCELOT_IN_POS));*/
 
    if (mvar_bit(MVAR_Arthur_Leave, ARTHUR_IN_POS) and
        mvar_bit(MVAR_Arthur_Leave, ROBIN_IN_POS) and

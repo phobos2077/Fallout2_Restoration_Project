@@ -594,10 +594,10 @@ procedure Node35a begin
          else
             set_critter_stat(dude_obj, STAT_lu, 2);
       end
-      debug_msg("SCENLONE: Added to luck");
+      ndebug("Added to luck");
    end else if (val == 1) then begin
       set_critter_stat(dude_obj, STAT_lu, -1);
-      debug_msg("SCENLONE: Subtracked from luck");
+      ndebug("Subtracked from luck");
    end
    set_global_var(GVAR_NCR_ELRON_ADJUST, 1);
 

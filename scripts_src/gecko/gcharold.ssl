@@ -785,10 +785,10 @@ procedure Node048 begin
       if ( (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_DECLINED_QUEST) or (global_var(GVAR_VAULT_GECKO_PLANT) == 0) ) then
          set_global_var(GVAR_GECKO_ASSIGNED,1);
       if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then begin
-         debug_msg("set part needed");
+         ndebug("set part needed");
          set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_NEED_PART);
       end else begin
-         debug_msg("DIDN'T SET PART NEEDED");
+         ndebug("DIDN'T SET PART NEEDED");
       end
       //set problem understood and set need part
       //same var -can't set both. This may be all that is necessary

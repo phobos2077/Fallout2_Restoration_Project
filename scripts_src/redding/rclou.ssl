@@ -651,7 +651,7 @@ procedure Node031 begin
    destroy_object(item); //added by killap
    display_msg(mstr(300));
    set_rehab_time
-   debug_msg("REHAB_TIME = " + map_var(MVAR_Rehab_Time));
+   ndebug("REHAB_TIME = " + map_var(MVAR_Rehab_Time));
 
    Reply(232);
 

@@ -274,30 +274,30 @@ procedure talk_p_proc begin
       prev_node := 0;
       slave_price := 0;
       if ((myron_in_room) or (pissed)) then begin
-         debug_msg("Node006");
+         ndebug("Node006");
          start_dialog_at_node(Node006);
       end else if (dude_family == self_family) then begin
-         debug_msg("Node003");
+         ndebug("Node003");
          call Node003;
       end else if ((get_delivery(delivery_assigned)) or (get_delivery(delivery_delivered))) then begin
-         debug_msg("Node021");
+         ndebug("Node021");
          start_dialog_at_node(Node021);
       end else if ((get_extortion_bros(extortion_bros_assigned)) or (get_extortion_bros(extortion_bros_collected))) then begin
          if (bros_dead) then begin
-            debug_msg("Node028");
+            ndebug("Node028");
             start_dialog_at_node(Node028);
          end else begin
-            debug_msg("Node029");
+            ndebug("Node029");
             start_dialog_at_node(Node029);
          end
       end else if (get_assassination(assassination_assigned)) then begin
-         debug_msg("Node039");
+         ndebug("Node039");
          start_dialog_at_node(Node039);
       end else if (know_big_jesus) then begin
-         debug_msg("Node007");
+         ndebug("Node007");
          start_dialog_at_node(Node007);
       end else begin
-         debug_msg("Node005");
+         ndebug("Node005");
          start_dialog_at_node(Node005);
       end
       set_herebefore;
@@ -645,7 +645,7 @@ procedure Node015 begin
    NOption(356, Node999, 004);
    prev_node := 15;
 end
-//#define remove_party(x, y)    Reply(x);   debug_msg("destroying: "+obj_name(y)); party_remove(y);   destroy_object(y) //killap comment out
+//#define remove_party(x, y)    Reply(x);   ndebug("destroying: "+obj_name(y)); party_remove(y);   destroy_object(y) //killap comment out
 procedure Node016 begin
    set_sold_slave;
    inc_general_rep(REP_BONUS_SELL_SLAVE);

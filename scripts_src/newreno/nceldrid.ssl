@@ -199,7 +199,7 @@ procedure timed_event_p_proc begin
       if (combat_is_initialized == false) then begin
          call Node027;
          inc_local_var(LVAR_Barks_Heard);
-         debug_msg("heard bark count == "+ local_var(LVAR_Barks_Heard));
+         ndebug("heard bark count == "+ local_var(LVAR_Barks_Heard));
       end
    end else if (fixed_param == tamper_door_param) then begin
       if (dude_touched_door) then begin

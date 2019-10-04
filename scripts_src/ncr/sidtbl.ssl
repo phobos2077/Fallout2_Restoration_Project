@@ -164,9 +164,9 @@ procedure use_p_proc begin
       script_overrides;
       i_duppo_table := self_obj;
       i_duppo_talk := 1;
-      debug_msg("SIDTBL: duppo should talk");
+      ndebug("duppo should talk");
    end else begin
-      debug_msg("SIDTBL: duppo is -1");
+      ndebug("duppo is -1");
       Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
 
       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
@@ -410,7 +410,7 @@ procedure map_enter_p_proc begin
        obj_unlock(self_obj);
    end
 
-   debug_msg("SIDTBL: I_duppo_obj " + i_duppo_obj);
+   ndebug("I_duppo_obj " + i_duppo_obj);
    if (i_duppo_obj != -1) then begin
 
    //added by killap - fix for game_time going negative after 7 years

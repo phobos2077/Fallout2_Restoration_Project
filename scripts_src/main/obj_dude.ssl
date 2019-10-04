@@ -273,7 +273,7 @@ procedure map_update_p_proc begin
    if (global_var(GVAR_HAVE_MUTATED) == 0) then begin
       if (global_var(GVAR_MUTATE_STAGE) > 0) then begin
          days_since_exposed := GAME_TIME_IN_DAYS - global_var(GVAR_MUTATE_WHEN);
-         //debug_msg("days since exposed "+days_since_exposed);
+         //ndebug("days since exposed "+days_since_exposed);
          if (days_since_exposed > 30) then begin
             if (global_var(GVAR_MUTATE_STAGE) < 5) then begin
                display_msg(mstr(140));

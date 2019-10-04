@@ -36,7 +36,7 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   debug_msg("global_var(GVAR_LOAD_MAP_INDEX) == "+global_var(GVAR_LOAD_MAP_INDEX));
+   ndebug("global_var(GVAR_LOAD_MAP_INDEX) == "+global_var(GVAR_LOAD_MAP_INDEX));
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_chop_shop_known;

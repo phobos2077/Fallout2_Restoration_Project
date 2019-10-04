@@ -232,7 +232,7 @@ end
 procedure Node999
 begin
 
-  debug_msg("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
+  ndebug("LVAR_Herebefore == " + local_var(LVAR_Herebefore));
   if (local_var(LVAR_Herebefore) == 0) then
     set_local_var(LVAR_Herebefore, 1);
 end

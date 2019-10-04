@@ -388,11 +388,11 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg("Trunk_In_Party == " + (Trunk_Ptr != 0));
-   debug_msg("party_size == " + party_size);
-   debug_msg("true_party_size == " + true_party_size);
-   debug_msg("party_max_formula == " + party_max_formula);
-   debug_msg("dude_at_max_party_size == " + dude_at_max_party_size);
+   ndebug("Trunk_In_Party == " + (Trunk_Ptr != 0));
+   ndebug("party_size == " + party_size);
+   ndebug("true_party_size == " + true_party_size);
+   ndebug("party_max_formula == " + party_max_formula);
+   ndebug("dude_at_max_party_size == " + dude_at_max_party_size);
    script_overrides;
    if ((daughter_attacked) or (hostile)) then begin
       call Node1020;

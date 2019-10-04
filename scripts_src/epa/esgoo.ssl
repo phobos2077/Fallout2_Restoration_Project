@@ -47,7 +47,7 @@ begin
      //dont need to be carrying boots in hand
      if (obj_carrying_pid_obj(source_obj, PID_RUBBER_BOOTS)) then begin
         //if carrying boots ..do boot damage
-       //debug_msg("NPC Code");
+       //ndebug("NPC Code");
         k := random(1,100);
         if (k < 2) then begin //1% chance to melt
            my_boots := obj_carrying_pid_obj(source_obj, PID_RUBBER_BOOTS);
@@ -68,10 +68,10 @@ begin
  end
 
 procedure meltem begin
-   //debug_msg("My Boots Protect Me!");
+   //ndebug("My Boots Protect Me!");
    k := random(1,100);
    if (k < 2) then begin //1% chance to melt
-      //debug_msg("Melting");
+      //ndebug("Melting");
       rm_obj_from_inven(dude_obj, my_boots);
       destroy_object(my_boots);
       display_msg(mstr(130));
@@ -84,7 +84,7 @@ procedure pain begin
       worn := obj_pid(critter_inven_obj(source_obj,INVEN_TYPE_WORN));
    if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and  (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin //edit by killap - added  (worn != PID_ENVIRONMENTAL_ARMOUR)
         //if not wearing powered armor then do damage
-        //debug_msg("It hurts!");
+        //ndebug("It hurts!");
         if ( (source_obj == dude_obj) and (global_var(GVAR_MUTATE_STAGE) < 1) ) then begin
            mutate:=global_var(GVAR_MUTATE);
            mutate:=mutate+2;

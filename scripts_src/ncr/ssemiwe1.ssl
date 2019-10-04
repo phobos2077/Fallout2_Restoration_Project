@@ -341,7 +341,7 @@ procedure timed_event_p_proc begin
          end
       end
    end else if (fixed_param == TIMER_CHECK_POWER) then begin
-      debug_msg("SSEMIWE1: POWER_ON_CHECK: " + POWER_ON_CHECK);
+      ndebug("SSEMIWE1: POWER_ON_CHECK: " + POWER_ON_CHECK);
       if (not POWER_ON_CHECK) then begin
          set_local_var(LVAR_Power_On, 0);
          if (not FIELD_DESTROYED) then begin

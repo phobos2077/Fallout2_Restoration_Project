@@ -427,12 +427,12 @@ end
 
 procedure Node001a begin
 // check party size
-   debug_msg("Checking Party Size");
+   ndebug("Checking Party Size");
    if (dude_at_max_party_size) then
        call Node012;
    else
        call Node010;
-   debug_msg("Finished Checking Party Size");
+   ndebug("Finished Checking Party Size");
 end
 
 procedure Node001b begin
@@ -593,7 +593,7 @@ procedure Node014 begin
 end
 
 procedure Node015 begin
-   debug_msg("In Node015");
+   ndebug("In Node015");
    set_local_var(LVAR_Hostile,2);
    party_remove(self_obj);
    set_local_var(LVAR_In_Party,0);

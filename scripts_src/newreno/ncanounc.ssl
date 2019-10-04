@@ -66,8 +66,8 @@ variable losing_score;
       float_msg(self_obj, " ", FLOAT_COLOR_NORMAL);
       start_boxing_round;
    end else if (self_visible) then begin
-      debug_msg("announcer timed event, fixed param == "+fixed_param);
-      debug_msg("  fight_status == " + fight_status);
+      ndebug("announcer timed event, fixed param == "+fixed_param);
+      ndebug("  fight_status == " + fight_status);
       if ((103 <= fixed_param) and (fixed_param <= 105)) then begin
          floater(fixed_param + anouncement_mod);
          nr_add_timer_event(announcer_obj, 3, fixed_param + 1);

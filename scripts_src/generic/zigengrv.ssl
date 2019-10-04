@@ -148,7 +148,7 @@ procedure description_p_proc begin
          display_grave_mstr(102 + site_is_uncovered);
       end
    end else begin
-      debug_msg("grave site message #"+local_var(LVAR_Status));
+      ndebug("grave site message #"+local_var(LVAR_Status));
       display_msg(grv_mstr(275 + self_is_cross) + grv_mstr(local_var(LVAR_Status)));
    end
 end

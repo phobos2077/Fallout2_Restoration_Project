@@ -98,13 +98,13 @@ procedure damage_p_proc begin
 variable should_explode := false;
    if (shitter_has_blown == false) then begin
       if (source_obj != 0) then begin
-         debug_msg(" obj_pid(source_obj) == "+obj_pid(source_obj));
+         ndebug(" obj_pid(source_obj) == "+obj_pid(source_obj));
          if (weapon_dmg_type(source_obj) == DMG_explosion) then begin
             should_explode := true;
          end
       end
       if (target_obj != 0) then begin
-         debug_msg(" obj_pid(target_obj) == "+obj_pid(target_obj));
+         ndebug(" obj_pid(target_obj) == "+obj_pid(target_obj));
          if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
             should_explode := true;
          end
@@ -112,16 +112,16 @@ variable should_explode := false;
 
       if (should_explode) then begin
          set_shitter_blown;
-         debug_msg("setting set_shitter_blown");
+         ndebug("setting set_shitter_blown");
          if (leaving_shitter) then begin
-            debug_msg("doing leaving_shitter");
+            ndebug("doing leaving_shitter");
             set_did_fade_out;
             gfade_out(5);
             remove_rocks(EXP_BLOW_UP_ROCKS);
          end else begin
             set_global_var(GVAR_MODOC_SHITTY_DEATH, 1);
-            debug_msg("variable being set!");
-            debug_msg("doing death_explostion");
+            ndebug("variable being set!");
+            ndebug("doing death_explostion");
             add_explosion(0);
             add_explosion(1);
             add_explosion(2);

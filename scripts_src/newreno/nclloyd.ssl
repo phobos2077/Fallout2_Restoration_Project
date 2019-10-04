@@ -181,13 +181,13 @@ procedure map_exit_p_proc begin
       if (lloyd_dead == false) then begin
          set_lloyd_took_money;
       end
-      debug_msg("DESTROYING LLOYD");
+      ndebug("DESTROYING LLOYD");
       set_destroy_me;
    end
 end
 
 procedure map_enter_p_proc begin
-   debug_msg("LLOYD MAP ENTER start");
+   ndebug("LLOYD MAP ENTER start");
    if (is_loading_game == false) then begin
       if (lloyd_in_new_reno) then begin
          if (map_first_run) then begin
@@ -199,14 +199,14 @@ procedure map_enter_p_proc begin
          give_pid_qty(self_obj, PID_SHOVEL, 1)
          critter_attempt_placement(self_obj, 12669, 0);
          if (get_escape(escape_follow)) then begin
-            debug_msg("get_escape(escape_follow)");
+            ndebug("get_escape(escape_follow)");
             if ((is_success(roll_vs_skill(dude_obj,SKILL_SNEAK,0))) or (is_success(roll_vs_skill(dude_obj,SKILL_OUTDOORSMAN,0)))) then begin
-               debug_msg("   successful follow");
+               ndebug("   successful follow");
                display_mstr(1001);
                item_caps_adjust(self_obj, 1000);
                check_set_obj_visiblility(self_obj, false);
             end else begin
-               debug_msg("   lloyd escaped");
+               ndebug("   lloyd escaped");
                // lloyd's gone
                set_escape(escape_betrayed);
                display_mstr(1002);
@@ -214,7 +214,7 @@ procedure map_enter_p_proc begin
                set_destroy_me;
             end
          end else begin
-            debug_msg("   lloyd came with you");
+            ndebug("   lloyd came with you");
             check_set_obj_visiblility(self_obj, false);
             Face_Critter(dude_obj,self_obj);
             Face_Critter(self_obj,dude_obj);
@@ -223,7 +223,7 @@ procedure map_enter_p_proc begin
       end
       nr_add_timer_event_rand(self_obj, 10, 17, float_param);
    end
-   debug_msg("LLOYD MAP ENTER exit");
+   ndebug("LLOYD MAP ENTER exit");
 end
 
 procedure map_update_p_proc begin
@@ -259,7 +259,7 @@ procedure critter_p_proc begin
 
    if (remove_lloyd) then begin
       gfade_in(0);
-      debug_msg("remove_lloyd in critter_p_proc");
+      ndebug("remove_lloyd in critter_p_proc");
 
       if ((dude_strength) < (self_strength)) then begin
          if ( (local_var(LVAR_Attack) == 1) and not((hostile)) ) then begin

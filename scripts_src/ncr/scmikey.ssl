@@ -176,7 +176,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    move_obj_inven_to_obj(scmikey_inventory_box_obj, self_obj);
-   debug_msg("Should have moved everything number: " + obj_is_carrying_obj_pid(self_obj, PID_IGUANA_ON_A_STICK));
+   ndebug("Should have moved everything number: " + obj_is_carrying_obj_pid(self_obj, PID_IGUANA_ON_A_STICK));
 
    start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
@@ -232,7 +232,7 @@ end
 /* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
    exit from the dialog system without any reprisals from the NPC. */
 procedure Node999 begin
-   debug_msg("Should have moved everything back");
+   ndebug("Should have moved everything back");
    move_obj_inven_to_obj(self_obj, scmikey_inventory_box_obj);
 end
 
@@ -251,7 +251,7 @@ procedure Node0203a begin
 end
 
 procedure Node001 begin
-   debug_msg("in dialog");
+   ndebug("in dialog");
    if (local_var(LVAR_Herebefore) == 0) then
       Reply(103);
    else

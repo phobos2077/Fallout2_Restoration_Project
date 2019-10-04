@@ -74,12 +74,12 @@ variable temp_tile;
             if (local_var(LVAR_Place_Number) > map_var(pet_var)) then begin
                temp_tile := current_portal_tile;
                if (clump_is_free(temp_tile)) then begin
-                  debug_msg("moving pet");
+                  ndebug("moving pet");
                   move_to(self_obj, temp_tile, self_elevation);
                   Face_Critter(dude_obj, self_obj);
                   attack(dude_obj);
                end else begin
-                  debug_msg("pet can't be released, clump is blocked");
+                  ndebug("pet can't be released, clump is blocked");
                end
                inc_portal_num;
             end
@@ -134,7 +134,7 @@ variable pet_var;
       pet_var := pid_to_mvar_num(self_pid);
       inc_map_var(pet_var);
       set_local_var(LVAR_Place_Number, map_var(pet_var));
-      debug_msg(""+obj_name(self_obj)+": Place Num == "+local_var(LVAR_Place_Number)+". Map Var ("+pet_var+") == "+map_var(pet_var)+" , pid_to_ai("+self_pid+") == "+pid_to_ai(self_pid));
+      ndebug(""+obj_name(self_obj)+": Place Num == "+local_var(LVAR_Place_Number)+". Map Var ("+pet_var+") == "+map_var(pet_var)+" , pid_to_ai("+self_pid+") == "+pid_to_ai(self_pid));
       critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SUPER_MUTANT);
       critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, pid_to_ai(self_pid));
    end

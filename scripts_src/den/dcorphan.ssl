@@ -97,7 +97,7 @@ procedure Node999;                                      // This Node is Always E
             inven_value := (25 * inven_value)/100;                                           \
             move_obj_inven_to_obj(self_obj, merchant_box);                                   \
             set_local_var(LVAR_Caps, local_var(LVAR_Caps) + inven_value);                    \
-            debug_msg("the kid just sold his inventory for $" + inven_value);                \
+            ndebug("the kid just sold his inventory for $" + inven_value);                \
          end
 
 #define check_sell_owner(owner_obj, owner_box)                                \
@@ -321,7 +321,7 @@ procedure Attempted_Theft begin
          Inven_Roll := random(0, (inven_count(dude_obj)-1));
          item := inven_ptr(dude_obj, Inven_Roll);
          if ((critter_inven_obj(dude_obj,INVEN_TYPE_RIGHT_HAND) != item) and (critter_inven_obj(dude_obj,INVEN_TYPE_LEFT_HAND) != item) and (critter_inven_obj(dude_obj,INVEN_TYPE_WORN) != item)) then begin
-            debug_msg("\nOrphan Stole Inventory Item #"+Inven_Roll+".");
+            ndebug("\nOrphan Stole Inventory Item #"+Inven_Roll+".");
             count := rm_mult_objs_from_inven(dude_obj, item, 1);
             add_mult_objs_to_inven(self_obj, item, 1);
          end
@@ -330,7 +330,7 @@ procedure Attempted_Theft begin
          item := item - (item % dude_caps);
          item_caps_adjust(dude_obj, -item);
          item_caps_adjust(self_obj, item);
-         debug_msg("Orphan Stole "+item+" NCR Brahma Bucks.");
+         ndebug("Orphan Stole "+item+" NCR Brahma Bucks.");
       end
    end
 

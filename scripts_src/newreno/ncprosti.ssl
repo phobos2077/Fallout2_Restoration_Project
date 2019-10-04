@@ -217,7 +217,7 @@ end
 procedure talk_p_proc begin
    //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then begin
       set_message_click;
-      debug_msg("self_team == " + self_team);
+      ndebug("self_team == " + self_team);
       if (enclave_destroyed) then begin
          call Node013;
       end else if (dude_wearing_power_armor) then begin

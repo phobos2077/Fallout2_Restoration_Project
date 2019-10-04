@@ -74,7 +74,7 @@ procedure Node999;                                      // This Node is Always E
                                           while (new_joke == local_var(LVAR_Routine)) do begin                      \
                                              get_new_joke                                                           \
                                           end                                                                       \
-                                          debug_msg("routine == "+new_joke);                                        \
+                                          ndebug("routine == "+new_joke);                                        \
                                           set_local_var(LVAR_Routine, new_joke);                                    \
                                           nr_add_timer_event_rand(self_obj, 3, 5, local_var(LVAR_Routine) * 1000)
 
@@ -130,7 +130,7 @@ end
                                            (x == 6002) or (x == 6005) or (x == 7001) or (x == 7007) or (x == 8001) or (x == 8006) or  \
                                            (x == 8009) or (x == 8012) or (x == 9003) or (x == 11004))
 procedure timed_event_p_proc begin
-   debug_msg("timed_event: comedian(" + fixed_param + ")");
+   ndebug("timed_event: comedian(" + fixed_param + ")");
    if ((combat_is_initialized) or (self_visible == false)) then begin
       set_stopped_routine;
    end else if (fixed_param == assassinate_param) then begin
@@ -175,7 +175,7 @@ procedure timed_event_p_proc begin
          if (start_new_routine == false) then begin
             nr_add_timer_event_rand(self_obj, 5, 7, fixed_param + 1);
          end else begin
-            debug_msg("set start_new_routine");
+            ndebug("set start_new_routine");
          end
       end
       // moves around while telling jokes

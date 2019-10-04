@@ -106,7 +106,7 @@ procedure talk_p_proc begin
 variable the_bit := 1;
 variable the_value := 1;
    while (the_bit <= 32) do begin
-      debug_msg("#define bit_"+the_bit+"                        ("+the_value+")");
+      ndebug("#define bit_"+the_bit+"                        ("+the_value+")");
       the_bit += 1;
       the_value := the_value * 2;
    end

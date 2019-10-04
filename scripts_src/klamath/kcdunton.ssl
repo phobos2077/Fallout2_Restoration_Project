@@ -317,7 +317,7 @@ procedure combat_p_proc begin
 end
 
 procedure combat begin
-   debug_msg("COMBAT");
+   ndebug("COMBAT");
    set_global_var(GVAR_ENEMY_DUNTON,1);
    //set_local_var(LVAR_Hostile,2);
 end
@@ -387,8 +387,8 @@ procedure critter_p_proc begin
          call gettarget;
          if (needtomove == 1) then begin
             if (local_var(LVAR_THEX) > 0) then begin //don't move unless you have a target hex
-              //debug_msg("target_hex= "+local_var(LVAR_THEX));
-              //debug_msg("\n");
+              //ndebug("target_hex= "+local_var(LVAR_THEX));
+              //ndebug("\n");
               animate_move_to_tile(local_var(LVAR_THEX));
            end
          end
@@ -437,13 +437,13 @@ procedure checkarea begin
    //else if (tile_distance(here,18093) < 2) then area:=HOME;
 /*
    if (area == UNKNOWN) then
-      debug_msg("i am at UNKNOWN\n");
+      ndebug("i am at UNKNOWN\n");
    else if (area == SHOP) then
-      debug_msg("i am at SHOP\n");
+      ndebug("i am at SHOP\n");
    //else if (area == HOME) then
-   //   debug_msg("i am at HOME\n");
+   //   ndebug("i am at HOME\n");
    else if (area == GOLDENGECKO) then
-      debug_msg("i am at GOLDENGECKO\n");
+      ndebug("i am at GOLDENGECKO\n");
 */
 end
 
@@ -532,7 +532,7 @@ procedure talk_p_proc begin
    call checkarea; //find out where the Duntons are
    //if (who_am_i == 0) then
    who_am_i := 1 + random(0,1);
-   //debug_msg("i am #"+who_am_i);
+   //ndebug("i am #"+who_am_i);
 
    //move and edited by killap
    if (area == SHOP) then

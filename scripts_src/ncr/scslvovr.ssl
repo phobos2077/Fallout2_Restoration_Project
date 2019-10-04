@@ -431,7 +431,7 @@ end
 
 procedure check8to11pos begin
    if (self_tile != OVR_TILE_8TO11) then begin
-      debug_msg("SLVOVR: going 8 to 11");
+      ndebug("going 8 to 11");
       call go_tile(OVR_TILE_8TO11);
       set_local_var(LVAR_Movement, OVR_TILE_8TO11);
       //last_anim := OVR_TILE_8TO11;
@@ -440,7 +440,7 @@ end
 
 procedure check12to3pos begin
    if (self_tile != OVR_TILE_12TO3) then begin
-      debug_msg("SLVOVR: going 12 to 3");
+      ndebug("going 12 to 3");
       call go_tile(OVR_TILE_12TO3);
       set_local_var(LVAR_Movement, OVR_TILE_12TO3);
       //last_anim := OVR_TILE_12TO3;
@@ -449,7 +449,7 @@ end
 
 procedure check4to11pos begin
    if (self_tile != OVR_TILE_4TO11) then begin
-      debug_msg("SLVOVR: going 4 to 11");
+      ndebug("going 4 to 11");
       call go_tile(OVR_TILE_4TO11);
       set_local_var(LVAR_Movement, OVR_TILE_4TO11);
       //last_anim := OVR_TILE_4TO11;
@@ -458,7 +458,7 @@ end
 
 procedure check12to7pos begin
    if (self_tile != OVR_TILE_12TO7) then begin
-      debug_msg("SLVOVR: going 12 to 7");
+      ndebug("going 12 to 7");
       call go_tile(OVR_TILE_12TO7);
       set_local_var(LVAR_Movement, OVR_TILE_12TO7);
       //last_anim := OVR_TILE_12TO7;

@@ -122,13 +122,13 @@ procedure spatial_p_proc begin
 
            game_ui_disable;
 
-           debug_msg("Set off the Trap!");
+           ndebug("Set off the Trap!");
            Projectile:=create_object(PROJECTILE_WEAPON,INITIAL_TILE,elevation(self_obj));
            Face_Critter(source_obj,Projectile);
            if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-               debug_msg("Destroying Visible Trap");
+               ndebug("Destroying Visible Trap");
                destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-               debug_msg("Destroyed Visible Trap");
+               ndebug("Destroyed Visible Trap");
            end
            Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj));
 
@@ -165,9 +165,9 @@ procedure use_skill_on_p_proc begin
                set_map_var(TRAP_MVAR,1);
                display_msg(message_str(SCRIPT_GENERIC,104));
                if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-                   debug_msg("Destroying Visible Trap");
+                   ndebug("Destroying Visible Trap");
                    destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-                   debug_msg("Destroyed Visible Trap");
+                   ndebug("Destroyed Visible Trap");
                end
                Trap:=create_object_sid(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
                call Check_Hit;
@@ -191,9 +191,9 @@ procedure use_skill_on_p_proc begin
                set_map_var(TRAP_MVAR,1);
                display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,107));
                if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
-                   debug_msg("Destroying Visible Trap");
+                   ndebug("Destroying Visible Trap");
                    destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
-                   debug_msg("Destroyed Visible Trap");
+                   ndebug("Destroyed Visible Trap");
                end
                Trap:=create_object_sid(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
                call Check_Hit;
@@ -208,7 +208,7 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    display_msg(mstr(102));
-   debug_msg("Looking At the Trap");
+   ndebug("Looking At the Trap");
 end
 
 procedure description_p_proc begin
@@ -283,7 +283,7 @@ procedure Missile_Fired begin
            else begin
                anim(source_obj,ANIM_dodge_anim,ANIMATE_FORWARD);
            end
-           debug_msg("Projectile == "+tile_num(Projectile)+". Final_Hex == "+Final_Hex);
+           ndebug("Projectile == "+tile_num(Projectile)+". Final_Hex == "+Final_Hex);
        end
        Counter+=1;
    end

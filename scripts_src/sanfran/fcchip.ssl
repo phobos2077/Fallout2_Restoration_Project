@@ -138,7 +138,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_WALK_OFF) then begin
-      debug_msg("FCCHIP: calling timer_walk_off");
+      ndebug("calling timer_walk_off");
       if (self_tile != CHIP_LEAVE_TILE and not anim_busy(self_obj)) then begin
          if (self_tile != lastWalkTile) then begin
             reg_anim_clear(self_obj);
@@ -153,10 +153,10 @@ procedure timed_event_p_proc begin
          end
       end else if (self_tile == CHIP_LEAVE_TILE and self_visible) then begin
          set_obj_visibility(self_obj, OBJ_INVIS);
-         debug_msg("FCCHIP: invis 1");
+         ndebug("invis 1");
 
          add_timer_event(self_obj, 0, TIMER_CHECK_LOAD);
-         debug_msg("FCCHIP: adding check load in 0");
+         ndebug("adding check load in 0");
       end else begin
          add_timer_event(self_obj, game_ticks(1), TIMER_WALK_OFF);
       end
@@ -164,7 +164,7 @@ procedure timed_event_p_proc begin
       call CheckLoad;
    end else if (fixed_param == TIMER_WALK_ON) then begin
       if (self_tile != CHIP_LOAD_TILE and not anim_busy(self_obj)) then begin
-         debug_msg("FCCHIP: should be walking to load tile");
+         ndebug("should be walking to load tile");
          if (not self_visible) then begin
             set_obj_visibility(self_obj, OBJ_VIS);
          end
@@ -651,7 +651,7 @@ end
 
 
 /*procedure CheckLoad begin
-   debug_msg("FCCHIP: CHECKLOAD lvar_return_time: " + local_var(LVAR_Return_Time));
+   ndebug("CHECKLOAD lvar_return_time: " + local_var(LVAR_Return_Time));
    if (local_var(LVAR_Return_Time)) then begin
       if (game_time >= local_var(LVAR_Return_Time) and not spleen_flag(SP_REINSERTED)) then begin
          set_obj_visibility(self_obj, OBJ_VIS);
@@ -660,7 +660,7 @@ end
          add_timer_event(self_obj, 0, TIMER_WALK_ON);
       end else begin
          set_obj_visibility(self_obj, OBJ_INVIS);
-         debug_msg("FCCHIP: invis 2");
+         ndebug("invis 2");
          add_timer_event(self_obj, game_ticks(60), TIMER_CHECK_LOAD);
       end
    end
@@ -668,7 +668,7 @@ end*/
 
 //new code by killap
 procedure CheckLoad begin
-   debug_msg("FCCHIP: CHECKLOAD lvar_return_time: " + local_var(LVAR_Return_Time));
+   ndebug("CHECKLOAD lvar_return_time: " + local_var(LVAR_Return_Time));
    if (local_var(LVAR_Return_Time)) then begin
       if (game_time >= local_var(LVAR_Return_Time) and not spleen_flag(SP_REINSERTED)) then begin
          set_global_var(GVAR_SAN_FRAN_SPLEEN_TIME, 0);
@@ -678,7 +678,7 @@ procedure CheckLoad begin
          add_timer_event(self_obj, 0, TIMER_WALK_ON);
       end else if (not spleen_flag(SP_REINSERTED)) then begin
          set_obj_visibility(self_obj, OBJ_INVIS);
-         debug_msg("FCCHIP: invis 2");
+         ndebug("invis 2");
          add_timer_event(self_obj, game_ticks(60), TIMER_CHECK_LOAD);
       end
    end

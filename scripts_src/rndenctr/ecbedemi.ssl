@@ -170,13 +170,13 @@ procedure critter_p_proc begin
       if (mvar_bit(MVAR_Arthur_Leave, BIT_LEAVE) and movedPos1 == 0) then begin
          movedPos1 := 1;
          add_timer_event(self_obj, 0, TIMER_MOVE_POS_A);
-         debug_msg("ECBEDEMI: moving to pos a");
+         ndebug("moving to pos a");
       end
 
       if (mvar_bit(MVAR_Arthur_Leave, ALL_LEAVE_BIT) and movedLeave == 0) then begin
          movedLeave := 1;
          add_timer_event(self_obj, 0, TIMER_MOVE_EXIT);
-         debug_msg("ECBEDEMI: moving to exit");
+         ndebug("moving to exit");
       end
    end else begin
       if (i_vorpal_obj != -1 and elevation(self_obj) == elevation(dude_obj)) then begin

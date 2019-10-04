@@ -46,9 +46,9 @@ procedure map_exit_p_proc begin
       if (get_stolen_car(stolen_car_none)) then begin
          if (car_was_used_to_exit == false) then begin
             set_car_is_now_being_stolen;
-            debug_msg("STEALING THE CAR!!!");
+            ndebug("STEALING THE CAR!!!");
          end else begin
-            debug_msg("can't steal car, the player used it on exit");
+            ndebug("can't steal car, the player used it on exit");
          end
       end
    end
@@ -93,7 +93,7 @@ variable lvar1;
          end
          if ((Trunk_Ptr != 0) == false) then begin
             if (tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(self_tile, 5, 2), 4, 1), self_elevation, PID_CAR_TRUNK) != 0) then begin
-               debug_msg("car never added to the party, adding now");
+               ndebug("car never added to the party, adding now");
                party_add(tile_contains_pid_obj(tile_num_in_direction(tile_num_in_direction(self_tile, 5, 2), 4, 1), self_elevation, PID_CAR_TRUNK));
             end
          end
@@ -105,14 +105,14 @@ variable lvar1;
          if( cur_map_index == MAP_RAIDERS_CAMP1 ) then
             set_global_var( GVAR_LEFT_CAR_AT_RAIDERS, 0 );
 
-         debug_msg("car_give_to_party");
+         ndebug("car_give_to_party");
          set_global_var(GVAR_CAR_PLACED_TILE, 0);
          car_give_to_party;
          set_global_var(GVAR_CAR_PLACED_TILE, -1);
-         debug_msg("Party has the car");
+         ndebug("Party has the car");
       end else begin
          script_overrides;
-         debug_msg("car use stopped by script");
+         ndebug("car use stopped by script");
       end
    end else begin
       script_overrides;
@@ -132,7 +132,7 @@ procedure use_obj_on_p_proc begin
          gfade_out(ONE_GAME_SECOND);
             game_time_advance(ONE_GAME_HOUR);
             if (is_success(roll_vs_skill(source_obj, SKILL_REPAIR, -100))) then begin
-               debug_msg("CAR WAS JUST STOLEN!!!");
+               ndebug("CAR WAS JUST STOLEN!!!");
                play_sfx("carrepar");
                destroy_object(obj_being_used_with);
                set_global_var(GVAR_PLAYER_GOT_CAR, 1);
@@ -149,7 +149,7 @@ procedure use_obj_on_p_proc begin
          gfade_out(ONE_GAME_SECOND);
             game_time_advance(ONE_GAME_HOUR);
             if (is_success(roll_vs_skill(source_obj, SKILL_REPAIR, -100))) then begin
-               debug_msg("Upgrade was a success");
+               ndebug("Upgrade was a success");
                play_sfx("carrepar");
                set_car_upgrade_fuel_cell_regulator;
                destroy_object(obj_being_used_with);

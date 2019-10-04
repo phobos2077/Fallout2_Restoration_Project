@@ -101,7 +101,7 @@ procedure push_p_proc begin
             reg_anim_end();
             critter_injure(self_obj,DAM_KNOCKED_DOWN);
             add_timer_event(self_obj, game_ticks(Random(10, 30)), TIMER_STAND_UP);
-            debug_msg("ZCBRAHMN: ahh Cow TIPPED you get +10 Hick Experience Points.");
+            ndebug("ahh Cow TIPPED you get +10 Hick Experience Points.");
          end
       end
    end

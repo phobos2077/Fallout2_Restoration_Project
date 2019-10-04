@@ -76,7 +76,7 @@ procedure map_update_p_proc begin
 
        if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin               // Power On
            if (obj_in_box(dude_obj)) then begin
-               debug_msg("Dude is in area");
+               ndebug("Dude is in area");
                critter_dmg(dude_obj,random(MIN_ELECTRIC_DMG,MAX_ELECTRIC_DMG),DMG_electrical);
            end
        end

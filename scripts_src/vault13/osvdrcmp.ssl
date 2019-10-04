@@ -150,7 +150,7 @@ end
 **************************************************************************************/
 
 procedure map_update_p_proc begin
-   debug_msg("OSVDRCMP:  Fallout2_vault13_entered: " +  Fallout2_vault13_entered);
-   debug_msg("OSVDRCMP: map_is_known(MAP_VAULT_13): " + map_is_known(MAP_VAULT_13));
-   debug_msg("OSVDRCMP: vault_13_visit: " + vault_13_visit);
+   ndebug(" Fallout2_vault13_entered: " +  Fallout2_vault13_entered);
+   ndebug("map_is_known(MAP_VAULT_13): " + map_is_known(MAP_VAULT_13));
+   ndebug("vault_13_visit: " + vault_13_visit);
 end

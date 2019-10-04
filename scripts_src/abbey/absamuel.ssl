@@ -285,7 +285,7 @@ procedure timed_event_p_proc begin
          add_timer_event(self_obj,game_ticks(1),25);
       end
    end else begin
-      debug_msg("tis late");
+      ndebug("tis late");
       if (self_tile != 20687) then begin
           animate_move_to_tile(20687);
       end else begin

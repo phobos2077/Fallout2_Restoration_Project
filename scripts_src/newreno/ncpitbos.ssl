@@ -166,7 +166,7 @@ procedure timed_event_p_proc begin
          game_time_advance(ONE_GAME_HOUR * 2);
          gfade_in(600);
       end else if (fixed_param == player_start_dance) then begin
-         debug_msg("PITBOSS: tile_set_center(11087): " + tile_set_center(11087)); //screen will recenter on dancer
+         ndebug("tile_set_center(11087): " + tile_set_center(11087)); //screen will recenter on dancer
          gfade_in(600);
          add_timer_event(self_obj,game_ticks(2),player_do_dance_walk);
       end else if (fixed_param == player_do_dance_walk) then begin
@@ -302,7 +302,7 @@ procedure timed_event_p_proc begin
          finished_dance :=1;
          display_msg(mstr(2501));
          game_time_advance(ONE_GAME_HOUR * 1);
-         debug_msg("PITBOSS: tile_set_center(11079): " + tile_set_center(11079)); //screen will recenter on player
+         ndebug("tile_set_center(11079): " + tile_set_center(11079)); //screen will recenter on player
          gfade_in(600);
       end else if (fixed_param == float_param) then begin
          if (self_distance_from_dude <= 3) then begin

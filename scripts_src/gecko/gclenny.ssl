@@ -323,33 +323,33 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end
    else if (Lenny_In_Party) then begin
-   debug_msg("Lenny_In_Party == "+Lenny_In_Party+". local_var(LVAR_never_again) == "+local_var(LVAR_never_again));
+   ndebug("Lenny_In_Party == "+Lenny_In_Party+". local_var(LVAR_never_again) == "+local_var(LVAR_never_again));
       if (global_var(GVAR_PLAYER_REPUTATION) < LENNY_BAD_KARMA) then begin
          call Node070;
-         debug_msg("LENNY: Bad Karma");
+         ndebug("Bad Karma");
       end
       else if ( (has_rep_childkiller) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
          call Node071;
-         debug_msg("LENNY: Childkiller");
+         ndebug("Childkiller");
       end
       else if (has_rep_slaver) then begin
          call Node073;
-         debug_msg("LENNY: Slaver");
+         ndebug("Slaver");
       end
       else if ( (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_DESTROYED) or
                 (global_var(GVAR_GECKO_MELTDOWN) > 0) or
                 (global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE) == SCHEDULED_FOR_DESTRUCTION)) then begin
          //Lenny is mad that you destroyed the power plant
          call Node074;
-         debug_msg("LENNY: Destroyed Plant");
+         ndebug("Destroyed Plant");
       end
       else if (dude_charisma <= 1) then begin
          call Node075;
-         debug_msg("LENNY: Player Ugly");
+         ndebug("Player Ugly");
       end
       else if ((cur_town == AREA_GECKO) and (REP_ENEMY_GECKO)) then begin
          call Node076;
-         debug_msg("LENNY: Causing trouble in Gecko");
+         ndebug("Causing trouble in Gecko");
       end
       else if (party_is_waiting == false) then begin
          party_member_follow_dude
@@ -358,7 +358,7 @@ procedure critter_p_proc begin
    else if ((cur_town == AREA_GECKO) and (REP_ENEMY_GECKO)) then begin
        call Node998;
    end
-   debug_msg("Gecko Standing: " + global_var(GVAR_ENEMY_GECKO));
+   ndebug("Gecko Standing: " + global_var(GVAR_ENEMY_GECKO));
 
 end
 

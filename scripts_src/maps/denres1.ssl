@@ -188,7 +188,7 @@ variable temp_thug;
 variable temp_pid;
 variable rot_arc;
 variable base_tile;
-   debug_msg("DenPlaceThugs");
+   ndebug("DenPlaceThugs");
    rot_arc := random(0,5);
    if (joey_home_tile != 0) then begin
       base_tile := joey_home_tile;
@@ -203,14 +203,14 @@ variable base_tile;
       if (map_var(MVAR_Joey_PID) > 0) then begin
          temp_pid := random(Low_Thug_PID,Max_Thug_PID);
          if (temp_pid == Joey_PID) then temp_pid -= 2;
-         debug_msg("  creating thug: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
+         ndebug("  creating thug: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
          temp_thug := create_object_sid(temp_pid, 0, 0, SCRIPT_DCTHUG);
          critter_attempt_placement(temp_thug, tile_num_in_direction(base_tile,rot_arc,random(2,3)),0);
          // set the facing direction to temp_rot
       end else if (map_var(MVAR_Joey_PID) == 0) then begin
          set_map_var(MVAR_Joey_PID,Joey_PID);
          temp_pid := Joey_PID;
-         debug_msg("  creating joey: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
+         ndebug("  creating joey: pid/thug_count/total_thug_count == "+temp_pid+"/"+map_var(MVAR_Thug_Count)+"/"+map_var(MVAR_Total_Thugs));
          temp_thug := create_object_sid(temp_pid, base_tile, 0, SCRIPT_DCJOEY);
          critter_attempt_placement(temp_thug, base_tile, 0);
       end

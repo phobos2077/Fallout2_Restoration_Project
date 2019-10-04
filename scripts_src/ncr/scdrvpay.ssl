@@ -263,26 +263,26 @@ procedure Node006 begin
 
    number := caravan_brahmin_left;
 
-   debug_msg("SCDRVPAY: caravan_brahmin_left: " + caravan_brahmin_left);
+   ndebug("caravan_brahmin_left: " + caravan_brahmin_left);
 
    //added by killap
    if (cattle_drive(CATTLE_FAIL)) then begin
       set_cattle_drive(CATTLE_ABANDON);
    //end added
    end else if (number == 0) then begin
-      debug_msg("SCDRVPAY: in 0 case number: " + number);
+      ndebug("in 0 case number: " + number);
       set_cattle_drive(CATTLE_SCREWED);
    end else if (caravan_brahmin_left < 4) then begin
-      debug_msg("SCDRVPAY: in < 4 case number: " + number);
+      ndebug("in < 4 case number: " + number);
       set_cattle_drive(CATTLE_FAIL);
    end else if (caravan_brahmin_left < 6) then begin
-      debug_msg("SCDRVPAY: in < 6 case number: " + number);
+      ndebug("in < 6 case number: " + number);
       set_cattle_drive(CATTLE_AVERAGE);
    end else begin
-      debug_msg("SCDRVPAY: in else case number: " + number);
+      ndebug("in else case number: " + number);
       set_cattle_drive(CATTLE_SUCCESS);
    end
-   debug_msg("SCDRVPAY: caravan_brahmin_left: " + caravan_brahmin_left);
+   ndebug("caravan_brahmin_left: " + caravan_brahmin_left);
 
    //added by killap
    if (cattle_drive(CATTLE_ABANDON)) then begin

@@ -115,7 +115,7 @@ procedure Node995;
                                              animate_stand;                                                                   \
                                              set_local_var(LVAR_Passed_Out, 0);                                                \
                                           end                                                                                 \
-                                          debug_msg("set karl passed out == " + x)
+                                          ndebug("set karl passed out == " + x)
 
 
 variable say_message_time := 0;
@@ -137,16 +137,16 @@ procedure map_enter_p_proc begin
             critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_MOMS);
          end
       //end
-      debug_msg("karl: map_enter_p_proc");
+      ndebug("karl: map_enter_p_proc");
       if (karl_dead) then begin
-         debug_msg("   karl_dead");
+         ndebug("   karl_dead");
          destroy_object(self_obj);
       end else if (karl_in_modoc) then begin
-         debug_msg("   karl_in_modoc");
+         ndebug("   karl_in_modoc");
          match_dude_elevation;
          check_set_obj_visiblility(self_obj, (karl_going_home == false));
       end else if (karl_going_home) then begin
-         debug_msg("   karl_going_home");
+         ndebug("   karl_going_home");
          destroy_object(self_obj);
       end
    end
@@ -240,7 +240,7 @@ procedure talk_p_proc begin
       self_attack_dude;
    //end added
    end else if (passed_out) then begin
-      debug_msg("passed_out");
+      ndebug("passed_out");
       if (herebefore) then begin
          display_msg(mstr(159));
       end else begin

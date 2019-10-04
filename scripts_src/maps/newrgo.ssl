@@ -38,9 +38,9 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   debug_msg("map_enter_p_proc");
-   debug_msg("  get_escape(escape_follow) == "+get_escape(escape_follow));
-   debug_msg("  Lloyd_In_Party == "+Lloyd_In_Party);
+   ndebug("map_enter_p_proc");
+   ndebug("  get_escape(escape_follow) == "+get_escape(escape_follow));
+   ndebug("  Lloyd_In_Party == "+Lloyd_In_Party);
 
    Check_Create_Car(CAR_GOLGATHA_HEX, CAR_GOLGATHA_ELEV)
 

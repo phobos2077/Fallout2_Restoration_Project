@@ -171,9 +171,9 @@ procedure use_p_proc begin
 /* Trap_Roll is a global variable to this script, defined at the beginning
    of the script. */
 
-   debug_msg("SISLVDOR: source_obj: " + source_obj + " dude_obj: " + dude_obj);
+   ndebug("source_obj: " + source_obj + " dude_obj: " + dude_obj);
    if (obj_in_party(source_obj)) then begin
-      debug_msg("SISLVDOR: object in party");
+      ndebug("object in party");
       Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
 
       if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin

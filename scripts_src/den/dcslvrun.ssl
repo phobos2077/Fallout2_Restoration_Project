@@ -241,7 +241,7 @@ end
    incrementing the death count for reputation purposes and Enemy Counters are placed
    in here. */
 procedure destroy_p_proc begin
-   debug_msg("\ndestroying slave");
+   ndebug("\ndestroying slave");
    inc_global_var(GVAR_SLAVE_RUN_KILLED);
    if (source_obj == dude_obj) then begin
       inc_good_critter
@@ -252,10 +252,10 @@ procedure destroy_p_proc begin
    if (local_var(LVAR_Is_Warrior) == false) then begin
       inc_global_var(GVAR_SLAVES_LOST);
    end
-   debug_msg("\n  GVAR_SLAVES_COUNT         == "+global_var(GVAR_SLAVES_COUNT));
-   debug_msg("\n  GVAR_SLAVERS_LOST         == "+global_var(GVAR_SLAVERS_LOST));
-   debug_msg("\n  GVAR_SLAVES_LOST          == "+global_var(GVAR_SLAVES_LOST));
-   debug_msg("\n  GVAR_HOSTILE_SLAVE_COUNT  == "+global_var(GVAR_HOSTILE_SLAVE_COUNT));
+   ndebug("\n  GVAR_SLAVES_COUNT         == "+global_var(GVAR_SLAVES_COUNT));
+   ndebug("\n  GVAR_SLAVERS_LOST         == "+global_var(GVAR_SLAVERS_LOST));
+   ndebug("\n  GVAR_SLAVES_LOST          == "+global_var(GVAR_SLAVES_LOST));
+   ndebug("\n  GVAR_HOSTILE_SLAVE_COUNT  == "+global_var(GVAR_HOSTILE_SLAVE_COUNT));
 end
 
 procedure Node004 begin

@@ -184,7 +184,7 @@ procedure map_enter_p_proc begin
    end
 
    if (local_var(LVAR_Restock_Time) < game_time) then begin
-      debug_msg("Should have restocked");
+      ndebug("Should have restocked");
       check_restock_item(PID_STIMPAK, 4, 5, 100)
       check_restock_item(PID_ANTIDOTE, 1, 1, 80)
       check_restock_item(PID_BOTTLE_CAPS, 123, 200, 50)
@@ -192,11 +192,11 @@ procedure map_enter_p_proc begin
    end
    //end added
 
-   debug_msg("local_var(LVAR_Gave_Antidote) == "+local_var(LVAR_Gave_Antidote));
+   ndebug("local_var(LVAR_Gave_Antidote) == "+local_var(LVAR_Gave_Antidote));
 
    if (((game_time - local_var(LVAR_Gave_Antidote)) > ONE_GAME_DAY) and (local_var(LVAR_Gave_Antidote) != 0)) then begin
        set_global_var(GVAR_REDDING_JET_LEVEL,JET_CURED);
-       debug_msg("Redding is Cured");
+       ndebug("Redding is Cured");
    end
 end
 

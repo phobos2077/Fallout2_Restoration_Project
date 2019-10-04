@@ -161,7 +161,7 @@ procedure map_enter_p_proc begin
 
    if (not FIELD_DESTROYED and not destroyOnLoad) then begin
       fieldPtr := tile_contains_pid_obj(FFIELD_TILE, FFIELD_ELEV, FFIELD_PID);
-      debug_msg("SSEMIENT: fieldPtr: " + fieldPtr);
+      ndebug("fieldPtr: " + fieldPtr);
       if (obj_is_visible_flag(fieldPtr)) then begin
          set_local_var(LVAR_Power_On, 1);
       end
@@ -325,7 +325,7 @@ procedure timed_event_p_proc begin
       end
    end else if (fixed_param == TIMER_SET_STATE_DELAY) then begin
       if (not FIELD_DESTROYED and not FIELD_DELAY) then begin
-         debug_msg("SSEMIENT: delay set");
+         ndebug("delay set");
          set_local_var(LVAR_Field_State, F_DELAY);
          set_obj_visibility(fieldPtr, OBJ_INVIS);
          add_timer_event(self_obj, ONE_GAME_MINUTE, TIMER_SET_STATE_ON); // Turn the field back on

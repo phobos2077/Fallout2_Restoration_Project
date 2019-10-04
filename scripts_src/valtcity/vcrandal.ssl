@@ -191,8 +191,8 @@ procedure critter_p_proc begin
 
    if (obj_can_see_obj(self_obj,dude_obj)) then begin
       if ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) then begin
-         debug_msg("LVAR_Hostile == " + local_var(LVAR_Hostile));
-         debug_msg("GVAR_ENEMY_VAULT_CITY == " + global_var(GVAR_ENEMY_VAULT_CITY));
+         ndebug("LVAR_Hostile == " + local_var(LVAR_Hostile));
+         ndebug("GVAR_ENEMY_VAULT_CITY == " + global_var(GVAR_ENEMY_VAULT_CITY));
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
       end

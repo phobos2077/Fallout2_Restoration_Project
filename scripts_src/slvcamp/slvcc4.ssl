@@ -210,7 +210,7 @@ procedure timed_event_p_proc begin
          set_map_var(MVAR_Slaves_Flee,3);
       end
    end else if (fixed_param == 3) then begin
-      debug_msg("slaves in small pen free");
+      ndebug("slaves in small pen free");
       if (slaves_in_small_pen(self_tile)) then begin
          animate_run_to_tile(SMALL_PEN_ESCAPE_TILE);
          set_map_var(MVAR_Slaves_Flee,4);

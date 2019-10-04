@@ -296,7 +296,7 @@ procedure map_enter_p_proc begin
    called_timer :=0; //added by killap
 
    if (merk_status == MERK_STATUS_DEAD) then begin
-      debug_msg("MERK: Killing merk because he was killed on another map.");
+      ndebug("Killing merk because he was killed on another map.");
       move_to(self_obj, 7000, 0);
       destroy_object(self_obj);
    end else begin
@@ -309,18 +309,18 @@ procedure map_enter_p_proc begin
       if (local_var(LVAR_Active_Map)) then begin //edit by killap
       //if (Active_Map) then begin
          if (is_loading_game == FALSE) then begin
-            debug_msg("MERK: Should be visible");
+            ndebug("Should be visible");
             set_obj_visibility(self_obj, OBJ_VIS);
             merk_visible := 1;
          end
          add_timer_event(self_obj, game_ticks(1), MERK_TIMER_LEAVE); //was ONE_GAME_MINUTE
       end else begin
-         debug_msg("MERK: Should be invisible");
+         ndebug("Should be invisible");
          if (is_loading_game == FALSE) then
             set_obj_visibility(self_obj, OBJ_INVIS);
             merk_visible := 0;
          if (onValidMap) then begin
-            debug_msg("MERK: onVailMap");
+            ndebug("onVailMap");
             add_timer_event(self_obj, game_ticks(1), MERK_TIMER_APPEAR); //was ONE_GAME_MINUTE
          end
       end
@@ -355,7 +355,7 @@ procedure critter_p_proc begin
    if ( (do_once !=1) and self_visible ) then begin
       do_once := 1;
       merk_visible := 1;
-      debug_msg("merk is visible.");
+      ndebug("merk is visible.");
    end
    //end added
 
@@ -366,7 +366,7 @@ procedure critter_p_proc begin
 
    //if ((((map_var(MVAR_Do_Lenny_Fight) == 1) and map_var(MVAR_Lenny_Dead) == 1)) or ((ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG)) and (not(ncr_flag(NCR_MERK_SERUM_FLAG))) and (map_var(MVAR_Do_Lenny_Fight) == 1))) then begin //edit by killap
    if (map_var(MVAR_Do_Lenny_Fight) == 1) and ( (lenny_obj == -1) or (map_var(MVAR_Lenny_Dead) == 1) or ((ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG)) and (not(ncr_flag(NCR_MERK_SERUM_FLAG)))) ) then begin //edit by killap
-      debug_msg("MERK: should end fight");
+      ndebug("should end fight");
       call EndFight;
       //display_msg("hello!");
    //added by killap
@@ -461,7 +461,7 @@ procedure talk_p_proc begin
          fadein(1);
       end else begin
          //display_msg("NOT_lennydeaddialog");
-         debug_msg("MERK: Current Status: " + local_var(LVAR_Where));
+         ndebug("Current Status: " + local_var(LVAR_Where));
          if (local_var(LVAR_Where) == IN_CARLSON) then begin
             if (merk_status == 0) then
                call Node002;
@@ -528,7 +528,7 @@ end
    in here. */
 procedure destroy_p_proc begin
    set_merk_status(MERK_STATUS_DEAD);
-   debug_msg("MERK: should have set merk to be dead. Arg");
+   ndebug("should have set merk to be dead. Arg");
 
 /* Increment the aligned critter counter*/
    inc_evil_critter
@@ -731,7 +731,7 @@ procedure Node999a begin
 end
 
 nbody(008)
-   debug_msg("SCMERK: " + merk_seed_status(MSS_ELRON_DEAD));
+   ndebug("" + merk_seed_status(MSS_ELRON_DEAD));
    Reply(140);
    if (global_var(GVAR_NCR_LENNY_MET) == 1 and map_var(MVAR_Lenny_Dead) == 0) then
       BOption(141, Node014, 4);
@@ -1049,7 +1049,7 @@ procedure Node36a begin
          set_global_var(GVAR_NCR_FAKE_VAULT13_MAP, DUDE_HAS_FAKE_MAP);
          mark_vault_fake_13A_on_map
       end else begin
-         debug_msg("sHolodisk wasn't created. UGG");
+         ndebug("sHolodisk wasn't created. UGG");
       end
    end
    call Node036;
@@ -1286,7 +1286,7 @@ procedure checktime begin
    set_local_var(LVAR_Time,game_time_hour); //edit by killap
    //variable time := 0;
    //time := game_time_hour;
-   debug_msg("time is: " + local_var(LVAR_Time));
+   ndebug("time is: " + local_var(LVAR_Time));
    if ((local_var(LVAR_Time) >= 800) and (local_var(LVAR_Time) < 1201)) then begin//edit by killap
    //if (time >= 800 and time < 1201) then
       return MAP_NCR_DOWNTOWN;
@@ -1330,7 +1330,7 @@ procedure loadMapPosition begin
          set_local_var(LVAR_Retval,1);
       end
    end
-   debug_msg("MERK: active " + local_var(LVAR_Retval) + " Map Index: " + cur_map_index);
+   ndebug("active " + local_var(LVAR_Retval) + " Map Index: " + cur_map_index);
    return local_var(LVAR_Retval);
 end
 
@@ -1347,7 +1347,7 @@ procedure shouldBeHere begin
       if ((local_var(LVAR_Timeres) == MAP_NCR_COUNCIL) or (local_var(LVAR_Timeres) == MAP_NCR_DOWNTOWN)) then set_local_var(LVAR_Retval,1);
    if (cur_map_index == MAP_NCR_BAZAAR) then
       if (local_var(LVAR_Timeres) == MAP_NCR_BAZAAR) then set_local_var(LVAR_Retval,1);
-   debug_msg("MERK: shouldBeHere returning: " + local_var(LVAR_Retval));
+   ndebug("shouldBeHere returning: " + local_var(LVAR_Retval));
    return local_var(LVAR_Retval);
 end
 
@@ -1369,7 +1369,7 @@ procedure onValidMap begin
 end
 
 procedure enterMap begin
-   debug_msg("MERK: enter map called");
+   ndebug("enter map called");
    set_obj_visibility(self_obj, OBJ_VIS);
    merk_visible := 1;
 
@@ -1395,14 +1395,14 @@ procedure enterMap begin
 //      end
 
       if ( (local_var(LVAR_Previous_Destination) == MERK_ENTER_COUNCIL_WAY2) ) then begin
-         debug_msg("MERK: enter council map");
+         ndebug("enter council map");
          reg_anim_clear(self_obj);
          reg_anim_begin();
             animate_move_to_tile(whatTile);
          reg_anim_end();
          set_local_var(LVAR_Should_Animate,whatTile); //edit by killap
       end else if ( tile_num(self_obj) == MERK_ENTER_COUNCIL_MAP ) then begin
-         debug_msg("MERK: leave council map to way point1");
+         ndebug("leave council map to way point1");
          reg_anim_clear(self_obj);
          reg_anim_begin();
             animate_move_to_tile(MERK_ENTER_COUNCIL_WAY1);
@@ -1424,7 +1424,7 @@ procedure enterMap begin
       end
    end else if (cur_map_index == MAP_NCR_BAZAAR) then begin
       //move_to(self_obj, MERK_ENTER_BAZAAR_MAP, 0);
-      debug_msg("MERK: should be moving to bazaar pos");
+      ndebug("should be moving to bazaar pos");
       reg_anim_clear(self_obj);
       reg_anim_begin();
          animate_move_to_tile(MERK_BAZAAR_POS);
@@ -1438,9 +1438,9 @@ procedure enterMap begin
 end
 
 procedure exitMap begin
-   debug_msg("MERK: Should be exiting map");
+   ndebug("Should be exiting map");
    if (cur_map_index == MAP_NCR_BAZAAR) then begin
-      debug_msg("MERK: leave bazaar map");
+      ndebug("leave bazaar map");
       reg_anim_clear(self_obj);
       reg_anim_begin();
          animate_move_to_tile(MERK_ENTER_BAZAAR_MAP);
@@ -1461,7 +1461,7 @@ procedure exitMap begin
       display_msg("MERK: Made it to the end of the function");*/
 
       if ( (local_var(LVAR_Previous_Destination) == MERK_ENTER_COUNCIL_WAY1) ) then begin
-         debug_msg("MERK: leave council map");
+         ndebug("leave council map");
          reg_anim_clear(self_obj);
          reg_anim_begin();
             animate_move_to_tile(MERK_ENTER_COUNCIL_MAP);
@@ -1470,7 +1470,7 @@ procedure exitMap begin
          //should_animate := MERK_ENTER_COUNCIL_WAY1;
          set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_MAP); //edit by killap
       end else begin
-         debug_msg("MERK: leave council map to way point2");
+         ndebug("leave council map to way point2");
          reg_anim_clear(self_obj);
          reg_anim_begin();
             animate_move_to_tile(MERK_ENTER_COUNCIL_WAY2);
@@ -1498,7 +1498,7 @@ procedure ensureAnimation begin
             animate_move_to_tile(local_var(LVAR_Should_Animate)); //edit by killap
             //animate_move_to_tile(should_animate);
             add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 2 ticks
-            debug_msg( "MERK: told to animate");
+            ndebug( "MERK: told to animate");
          end else begin
             if (cur_map_index == MAP_NCR_COUNCIL) then begin
                /*if ( (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY1) or (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY2) ) then begin //edit by killap
@@ -1516,21 +1516,21 @@ procedure ensureAnimation begin
                   end
                end else*/
                if (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY2) then begin //edit by killap
-                  debug_msg("I should be moving to my standing point location.");
+                  ndebug("I should be moving to my standing point location.");
                   if (local_var(LVAR_Hit_Check_Point) != 1) then begin
-                     debug_msg("Hit Check Point : " + local_var(LVAR_Hit_Check_Point));
+                     ndebug("Hit Check Point : " + local_var(LVAR_Hit_Check_Point));
                      set_local_var(LVAR_Hit_Check_Point,2);
                      set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_MAP); //edit by killap
                      add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
                   end else begin
-                     debug_msg("I should be moving to my standing point location.");
+                     ndebug("I should be moving to my standing point location.");
                      set_local_var(LVAR_Should_Animate,whatTile); //edit by killap
                      add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
                   end
                end else if (local_var(LVAR_Should_Animate) == MERK_ENTER_COUNCIL_WAY1) then begin
-                  debug_msg("I should be moving to point 2.");
+                  ndebug("I should be moving to point 2.");
                   set_local_var(LVAR_Hit_Check_Point,1);
-                  debug_msg("Hit Check Point : " + local_var(LVAR_Hit_Check_Point));
+                  ndebug("Hit Check Point : " + local_var(LVAR_Hit_Check_Point));
                   set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_WAY2); //edit by killap
                   add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 5
                end else
@@ -1620,15 +1620,15 @@ procedure whereAmI begin
 end
 
 procedure goodWeapon(variable inpid, variable subType) begin
-   debug_msg("MERK: analyzing item");
+   ndebug("analyzing item");
    if (subType != item_type_weapon) then
-      debug_msg("MERK: Item is not weapon.");
+      ndebug("Item is not weapon.");
    if (subType != item_type_container) then
-      debug_msg("MERK: Item is not container.");
+      ndebug("Item is not container.");
 
    if (subType != item_type_weapon and subType != item_type_container) then
       return 1;
-   debug_msg("MERK: item is past check");
+   ndebug("item is past check");
 
    if (inpid == PID_KNIFE) then
       return 1;
@@ -1671,10 +1671,10 @@ procedure putAllInBox(variable object, variable pid) begin
          add_mult_objs_to_inven(playerTmpBox, object, JunkIt); //added by killap
          //destroy_object(object); //comment out by killap
          //add_mult_objs_to_inven(playerTmpBox, create_object(pid, tile_num(playerTmpBox), 0), JunkIt); //comment out by killap
-         debug_msg("PID: " + pid + " count: " + count);
+         ndebug("" + pid + " count: " + count);
       end
    end else
-      debug_msg("MERK: putallinbox: no playertmpbox.");
+      ndebug("putallinbox: no playertmpbox.");
 end
 procedure CheckRemove(variable object) begin
    if not (goodWeapon(obj_pid(object), obj_item_subtype(object))) then begin
@@ -1748,13 +1748,13 @@ end
 
 
 procedure combat_p_proc begin
-         debug_msg("SCMERK: Combat p proc");
+         ndebug("Combat p proc");
    //if (Do_Lenny_Fight) then begin
    if (map_var(MVAR_Do_Lenny_Fight) == 1) then begin //added by killap
-      debug_msg("SCMERK: Lenney fighting");
+      ndebug("Lenney fighting");
       //if (is_critter_dead(lenny_obj)) then begin
       if (map_var(MVAR_Lenny_Dead) == 1) then begin
-         debug_msg("SCMERK: uhh trying to terminate");
+         ndebug("uhh trying to terminate");
          terminate_combat;
       end
    end
@@ -1788,7 +1788,7 @@ procedure LennyFight begin
 
    attack_setup(lenny_obj, dude_obj);
    fadein(1);
-   debug_msg("MERK: Lenny Should attack");
+   ndebug("Lenny Should attack");
 end
 
 procedure ReturnWeapons begin
@@ -1804,7 +1804,7 @@ procedure EndFight begin
 //   doLennyDeadDialog := 1;
    if ((ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG))) then begin
       set_ncr_flag(NCR_MERK_SERUM_FLAG);
-      debug_msg("MERK: Leeny killed by serum");
+      ndebug("Leeny killed by serum");
    end else if (lenny_obj != -1) then begin
       destroy_object(lenny_obj);
    end

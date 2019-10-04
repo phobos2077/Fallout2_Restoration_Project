@@ -123,7 +123,7 @@ procedure destroy_p_proc begin
 /* Increment the aligned critter counter*/
    inc_good_critter
    rm_caravan_drivers(1);
-   debug_msg("Caravan Driver Killed.");
+   ndebug("Caravan Driver Killed.");
 
 /* Set global_variable for Enemy status*/
 end

@@ -120,7 +120,7 @@ procedure map_enter_p_proc begin
        set_obj_visibility(self_obj,0);
        if (not(is_loading_game)) then begin
          door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,elevation(self_obj),ENCLAVE_DOOR_PID2);
-         debug_msg("Locking Door 2. "+door);
+         ndebug("Locking Door 2. "+door);
          obj_close(door);
          obj_lock(door);
        end

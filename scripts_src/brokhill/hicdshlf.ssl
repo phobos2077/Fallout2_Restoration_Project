@@ -90,7 +90,7 @@ procedure Node991 begin
    critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
    move_to(chad,22052,0);
    set_map_var(MVAR_House_Encounter,1);
-   debug_msg("map var:" + map_var(MVAR_House_Encounter));
+   ndebug("map var:" + map_var(MVAR_House_Encounter));
 end
 
 procedure Node992 begin

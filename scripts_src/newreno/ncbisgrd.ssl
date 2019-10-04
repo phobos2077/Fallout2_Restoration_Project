@@ -397,7 +397,7 @@ procedure Node024 begin
    floater(370);
 end
 procedure Node025 begin
-   debug_msg("Node025");
+   ndebug("Node025");
    if (local_var(LVAR_Node025) > 0) then begin
       Reply(377);
    end else begin
@@ -416,7 +416,7 @@ procedure Node025 begin
    NOption(385, Node999, 004);
 end
 procedure Node026 begin
-   debug_msg("Node026");
+   ndebug("Node026");
    set_warning_on(warning_stairs);
    Reply(390 + dude_is_female);
    NOption(378, Node027, -003);
@@ -431,7 +431,7 @@ procedure Node026 begin
    NOption(385, Node999, 004);
 end
 procedure Node027 begin
-   debug_msg("Node027");
+   ndebug("Node027");
    Reply(mstr(405 + dude_is_female) + mstr(407));
    NOption(408, Node028, -003);
    NOption(409, Node028, -003);
@@ -444,7 +444,7 @@ procedure Node027 begin
    NOption(414, Node999, 004);
 end
 procedure Node028 begin
-   debug_msg("Node028");
+   ndebug("Node028");
    Reply(420 + dude_is_female);
    BOption(422, Node998, -003); //edit by killap - was NOption
    BOption(dude_name + mstr(423) + dude_name + mstr(424) + dude_name + mstr(425), Node998, -003); //edit by killap: was NOption
@@ -453,7 +453,7 @@ procedure Node028 begin
    BOption(428, Node998, 004);   //edit by killap - was NOption
 end
 procedure Node029 begin
-   debug_msg("Node029");
+   ndebug("Node029");
    Reply(435);
    NOption(383, Node990, 004);
    if ((dude_has_happy_briefcase) or (dude_has_death_briefcase)) then begin
@@ -462,14 +462,14 @@ procedure Node029 begin
    NOption(385, Node999, 004);
 end
 procedure Node030 begin
-   debug_msg("Node030");
+   ndebug("Node030");
    Reply(445 + (local_var(LVAR_Node030)>0));
    NOption(447, Node027, 004);
    NOption(448, Node999, 004);
    inc_local_var(LVAR_Node030);
 end
 procedure Node031 begin
-   debug_msg("Node031");
+   ndebug("Node031");
    Reply(455);
    NOption(456, Node032, 004);
    if ((dude_has_happy_briefcase) or (dude_has_death_briefcase)) then begin
@@ -478,7 +478,7 @@ procedure Node031 begin
    NOption(458, Node999, 001);
 end
 procedure Node032 begin
-   debug_msg("Node032");
+   ndebug("Node032");
    Reply(465 + dude_is_female);
    NOption(mstr(467) + dude_name + mstr(468), Node033, 004);
    NOption(469, Node027, 004);
@@ -488,7 +488,7 @@ procedure Node032 begin
    NOption(471, Node999, 001);
 end
 procedure Node033 begin
-   debug_msg("Node033");
+   ndebug("Node033");
    Reply(mstr(475) + mstr(476 + dude_is_female));
    NOption(478, Node027, 004);
    if ((dude_has_happy_briefcase) or (dude_has_death_briefcase)) then begin
@@ -497,13 +497,13 @@ procedure Node033 begin
    NOption(480, Node999, 001);
 end
 procedure Node034 begin
-   debug_msg("Node034");
+   ndebug("Node034");
    set_bishop_permission
    Reply(490);
    NOption(491, Node999, 004);
 end
 procedure Node035 begin
-   debug_msg("Node035");
+   ndebug("Node035");
    if (dude_family == self_family) then begin
       Reply(mstr(495) + made_man_name + mstr(496) + mstr(497));
    end else begin
@@ -513,7 +513,7 @@ procedure Node035 begin
    NOption(499, Node999, 004);
 end
 procedure Node036 begin
-   debug_msg("Node036");
+   ndebug("Node036");
    if (dude_family == self_family) then begin
       Reply(mstr(505) + made_man_name + mstr(506) + mstr(507));
    end else begin

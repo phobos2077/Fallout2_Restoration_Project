@@ -146,7 +146,7 @@ procedure map_enter_p_proc begin
          set_local_var(LVAR_Home_Tile, self_tile);
       end
       if (frankie_dead) then begin
-         debug_msg("KILLING BILLY, SINCE FRANKIE'S DEAD");
+         ndebug("KILLING BILLY, SINCE FRANKIE'S DEAD");
          destroy_object(self_obj);
       end
       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOLE);

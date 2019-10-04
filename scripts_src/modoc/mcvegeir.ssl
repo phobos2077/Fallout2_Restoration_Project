@@ -113,7 +113,7 @@ end
 procedure critter_p_proc begin
    if (surrendered_to_slag) then begin
       set_surrendered_to_slag_off;
-      debug_msg("going to force 1");
+      ndebug("going to force 1");
       if (global_var(GVAR_MODOC_MESSAGE) == message_state_delivered) then begin
          if (local_var(LVAR_Said_Thanks)) then begin
             do_force_talk_vegeir(@Node003);
@@ -125,7 +125,7 @@ procedure critter_p_proc begin
       end
    end else if (surrender_to_guards) then begin
       set_surrender_to_guards_off;
-      debug_msg("going to force 2");
+      ndebug("going to force 2");
       do_force_talk_vegeir(@Node000);
    end else if (self_can_see_dude) then begin
       if ((local_var(LVAR_Hostile) != 0) or (enemy_slags)) then begin
@@ -234,7 +234,7 @@ procedure Node000 begin
 end
 procedure Node001 begin
    Reply(156);
-   debug_msg("get_ending_state/happy == " + get_ending_state+"/"+ending_state_happy);
+   ndebug("get_ending_state/happy == " + get_ending_state+"/"+ending_state_happy);
    if ((get_ending_state == ending_state_happy) and (jonny_at_home == false)) then begin
       NOption(400,Node003,004);
    end
@@ -256,7 +256,7 @@ procedure Node002 begin
    NOption(g_bye,Node999,004);
 end
 procedure Node003 begin
-   debug_msg("Node003");
+   ndebug("Node003");
    if (local_var(LVAR_Said_Thanks)) then begin
       Reply(166);
    end else begin
@@ -265,7 +265,7 @@ procedure Node003 begin
       Reply(165);
       set_local_var(LVAR_Said_Thanks,true);
    end
-   debug_msg("jonny_request_home == "+jonny_request_home+" / jonny_known == "+jonny_known+" / jonny_seed_active == "+jonny_seed_active);
+   ndebug("jonny_request_home == "+jonny_request_home+" / jonny_known == "+jonny_known+" / jonny_seed_active == "+jonny_seed_active);
    if (((jonny_request_home) or (jonny_known)) and (jonny_seed_active)) then begin
       NOption(167,Node034,004);
    end

@@ -944,13 +944,13 @@ procedure DoCallGuards begin
    variable obj;
 
    obj := tile_contains_pid_obj(GUARD_TILE_1, elevation(self_obj), GUARD_PID);
-   debug_msg("fsempter: should be attacking: " + obj);
+   ndebug("fsempter: should be attacking: " + obj);
    if (obj) then begin
       float_msg(obj, mstr(Random(216, 219)), FLOAT_MSG_RED);
       attack_setup(obj, dude_obj);
    end
    obj := tile_contains_pid_obj(GUARD_TILE_2, elevation(self_obj), GUARD_PID);
-   debug_msg("fsempter: should be attacking: " + obj);
+   ndebug("fsempter: should be attacking: " + obj);
    if (obj) then begin
       float_msg(obj, mstr(Random(216, 219)), FLOAT_MSG_RED);
       attack_setup(obj, dude_obj);

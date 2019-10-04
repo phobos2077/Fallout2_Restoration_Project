@@ -166,42 +166,42 @@ procedure critter_p_proc begin
       if ( (DUDE_LUCK_GREATER_THAN_MIN) and (local_var(LVAR_Removed_Luck) == 0) ) then begin
          /*if (local_var(LVAR_Dude_True_Luck) < 10 and local_var(LVAR_Dude_True_Luck) != 0) then begin
             set_local_var(LVAR_Dude_True_Luck, (local_var(LVAR_Dude_True_Luck) + dude_luck - 1));
-            debug_msg("ECPARIA: First setting of true luck" + local_var(LVAR_Dude_True_Luck));
+            ndebug("First setting of true luck" + local_var(LVAR_Dude_True_Luck));
          end else begin*/
          set_local_var(LVAR_Removed_Luck,1);
          set_local_var(LVAR_Dude_Base_Luck,get_pc_base_stat(STAT_lu));
-         debug_msg("base luck: " + local_var(LVAR_Dude_Base_Luck));
+         ndebug("base luck: " + local_var(LVAR_Dude_Base_Luck));
          set_local_var(LVAR_Dude_Extra_Luck,get_pc_extra_stat(STAT_lu));
-         debug_msg("extra luck: " + local_var(LVAR_Dude_Extra_Luck));
+         ndebug("extra luck: " + local_var(LVAR_Dude_Extra_Luck));
          //set_local_var(LVAR_Dude_True_Luck, dude_luck);
-         //debug_msg("ECPARIA: First setting of true luck" + local_var(LVAR_Dude_True_Luck));
+         //ndebug("First setting of true luck" + local_var(LVAR_Dude_True_Luck));
          //end
          //Set is really an INC
          //val := (1 - dude_luck);
-         //debug_msg("ECPARIA: luck adjust" + val);
+         //ndebug("luck adjust" + val);
 
          if (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_gifted)) then begin//killap's fix: was self_obj
             set_pc_base_stat(STAT_lu, 2);
             set_pc_extra_stat(STAT_lu, 0);
-            debug_msg("base luck: " + get_pc_base_stat(STAT_lu));
-            debug_msg("extra luck: " + get_pc_extra_stat(STAT_lu));
+            ndebug("base luck: " + get_pc_base_stat(STAT_lu));
+            ndebug("extra luck: " + get_pc_extra_stat(STAT_lu));
             //val += 1;
-            //debug_msg("ECPARIA: luck adjust for gifted state" + val);
+            //ndebug("luck adjust for gifted state" + val);
          end else begin
             set_pc_base_stat(STAT_lu, 1);
             set_pc_extra_stat(STAT_lu, 0);
-            debug_msg("base luck: " + get_pc_base_stat(STAT_lu));
-            debug_msg("extra luck: " + get_pc_extra_stat(STAT_lu));
+            ndebug("base luck: " + get_pc_base_stat(STAT_lu));
+            ndebug("extra luck: " + get_pc_extra_stat(STAT_lu));
          end
-         //debug_msg("ECPARIA: luck adjust " + val);
+         //ndebug("luck adjust " + val);
          //set_critter_stat(dude_obj, STAT_lu, val);
-         //debug_msg("ECPARIA: dude's luck wasn't 1: true value: " + local_var(LVAR_Dude_True_Luck));
-         //debug_msg("ECPARIA: dude_luck: " + dude_luck);
+         //ndebug("dude's luck wasn't 1: true value: " + local_var(LVAR_Dude_True_Luck));
+         //ndebug("dude_luck: " + dude_luck);
       end
    end else if (add_party_check < game_time) then begin
       if ((obj_can_see_obj(self_obj, dude_obj)) and (not is_critter_dead(self_obj))) then begin //added is not dead - killap
          if (not stat_success(dude_obj, STAT_lu, 0)) then begin
-            debug_msg("ECPARIAH: added self to party");
+            ndebug("added self to party");
             //tmp_add := 1;
             display_mstr(103);
             if (not is_critter_dead(self_obj)) then begin
@@ -268,7 +268,7 @@ procedure destroy_p_proc begin
       set_pc_extra_stat(STAT_lu, local_var(LVAR_Dude_Extra_Luck));
    end
    /*if (local_var(LVAR_Dude_True_Luck)) then begin
-      debug_msg("ECPARIAH: setting luck back to : " + local_var(LVAR_Dude_True_Luck));
+      ndebug("setting luck back to : " + local_var(LVAR_Dude_True_Luck));
       if (local_var(LVAR_Dude_True_Luck) > 10) then
          set_local_var(LVAR_Dude_True_Luck, 10);
       set_critter_stat(dude_obj, STAT_lu, (local_var(LVAR_Dude_True_Luck) - (1 + has_trait(TRAIT_TRAIT, dude_obj, TRAIT_gifted)))); //killap's fix: was self_obj

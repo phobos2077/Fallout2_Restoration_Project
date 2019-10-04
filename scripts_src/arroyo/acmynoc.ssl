@@ -441,19 +441,19 @@ procedure Node026 begin
        inven_unwield(dude_obj);
        JunkIt:=rm_mult_objs_from_inven(dude_obj,item,1);
        destroy_object(item);
-       debug_msg("Destroy Spear");
+       ndebug("Destroy Spear");
    end
 
    if (obj_is_carrying_obj_pid(dude_obj,PID_FLINT)) then begin //added check by killap
       item1:=obj_carrying_pid_obj(dude_obj,PID_FLINT);
       JunkIt:=rm_mult_objs_from_inven(dude_obj,item1,1);
       destroy_object(item1);
-      debug_msg("Destroy Flint");
+      ndebug("Destroy Flint");
    end
 
    item2:=create_object(PID_SHARP_SPEAR,0,0);
    add_mult_objs_to_inven(dude_obj,item2,1);
-   debug_msg("Give Sharp Spear");
+   ndebug("Give Sharp Spear");
 
    game_time_advance(30*ONE_GAME_MINUTE);
 

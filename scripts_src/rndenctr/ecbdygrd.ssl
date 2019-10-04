@@ -152,7 +152,7 @@ procedure map_enter_p_proc begin
    wife   := tile_contains_pid_obj(WIFETILE, 0, PID_FEMALE_FARMER);
    child  := tile_contains_pid_obj(CHILDTILE, 0, PID_CHINA_BOY);
 
-   debug_msg("guard1 " + guard1 + " guard2 " + guard2 + " farmer " + farmer + " wife " + wife + " child " + child);
+   ndebug("guard1 " + guard1 + " guard2 " + guard2 + " farmer " + farmer + " wife " + wife + " child " + child);
 end
 
 
@@ -280,7 +280,7 @@ procedure doSequence begin
          if (not anim_busy(dude_obj)) then begin
             sequence += 1;
          end else begin
-            debug_msg("ECBDYGRD: tile_set_center(CENTER_TILE): " + tile_set_center(CENTER_TILE));
+            ndebug("tile_set_center(CENTER_TILE): " + tile_set_center(CENTER_TILE));
          end
       end
       add_timer_event(self_obj, 2, TIMER_SEQUENCE);
@@ -378,7 +378,7 @@ procedure doSequence begin
          destroy_object(guard2);
          sequence += 1;
       end
-      debug_msg("Sequence: " + sequence + " Next == 12");
+      ndebug("Sequence: " + sequence + " Next == 12");
       add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
    end else if (sequence == 12) then begin
       game_ui_enable;

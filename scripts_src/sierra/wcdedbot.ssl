@@ -144,7 +144,7 @@ procedure combat_p_proc begin
       //end added
       end else begin
          script_overrides;
-         debug_msg("I am turned off and won't attack!");
+         ndebug("I am turned off and won't attack!");
       end
    end
 end

@@ -149,7 +149,7 @@ procedure check_tile_events(variable curr_timer) begin
          end
       end else begin
          if (curTimeIsGreater(tt_time)) then begin
-            debug_msg("should be going to tile: " + target_tile);
+            ndebug("should be going to tile: " + target_tile);
             tt_go := 1;
             reg_anim_clear(self_obj);
             reg_anim_begin();

@@ -84,7 +84,7 @@ end
 procedure map_update_p_proc begin
    newr2_lighting;
    if (all_party_hidden) then begin
-      debug_msg("all_party_hidden: elevation == " + dude_elevation);
+      ndebug("all_party_hidden: elevation == " + dude_elevation);
       if (dude_elevation == 1) then begin
          party_member_unhide_all
          attempt_place_party(dude_tile, dude_elevation)

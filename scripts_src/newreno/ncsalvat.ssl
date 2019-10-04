@@ -105,8 +105,8 @@ procedure Node043;
 
 #define check_assassinate_salvatore       if (salvatore_has_oxygen == false) then begin                              \
                                              if (obj_is_carrying_obj_pid(self_obj, PID_POISON_TANK) > 0) then begin /* Seraph's Fix: changed 'dude_obj' to 'self_obj' */ \
-                                                debug_msg("salvatore_assassinated == "+salvatore_assassinated);      \
-                                                debug_msg("personal_enemy         == "+personal_enemy);              \
+                                                ndebug("salvatore_assassinated == "+salvatore_assassinated);      \
+                                                ndebug("personal_enemy         == "+personal_enemy);              \
                                                 if ((salvatore_assassinated == false) and (personal_enemy == false)) then begin  \
                                                    set_salvatore_assassinated                                        \
                                                    display_mstr(800);                                                \
@@ -205,9 +205,9 @@ end
 
 procedure talk_p_proc begin
    if ((salvatore_has_oxygen) and (hostile == false) and (warned_attack == false)) then begin
-      debug_msg("salvatore_permission                          == "+salvatore_permission);
-      debug_msg("get_tribute(tribute_failed)                   == "+get_tribute(tribute_failed));
-      debug_msg("get_guard_assignment(guard_assignment_failed) == "+get_guard_assignment(guard_assignment_failed));
+      ndebug("salvatore_permission                          == "+salvatore_permission);
+      ndebug("get_tribute(tribute_failed)                   == "+get_tribute(tribute_failed));
+      ndebug("get_guard_assignment(guard_assignment_failed) == "+get_guard_assignment(guard_assignment_failed));
       if (self_family == dude_family) then begin
          call Node040;  //killap's fix: changed from Node041
       end else if (salvatore_done) then begin

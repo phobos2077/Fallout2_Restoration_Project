@@ -45,10 +45,10 @@ procedure map_enter_p_proc begin
 
    Lighting;
 
-   /*debug_msg("Check_Create_Car(" + CAR_VAULT_CITY_HEX + "," + CAR_VAULT_CITY_ELEV + ")");
+   /*ndebug("Check_Create_Car(" + CAR_VAULT_CITY_HEX + "," + CAR_VAULT_CITY_ELEV + ")");
    if (not is_loading_game) then begin
       if (dude_has_car != false) then begin
-         debug_msg("car_current_town == " + car_current_town + " / map_get_load_area == " + map_get_load_area);
+         ndebug("car_current_town == " + car_current_town + " / map_get_load_area == " + map_get_load_area);
          if ((car_current_town == map_get_load_area) or ((AREA_RND_DESERT <= car_current_town) and (car_current_town <= AREA_RND_COAST) and (map_get_load_area == -1))) then begin
             Create_Car(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV)
             if (tile_contains_pid_obj(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV, PID_DRIVABLE_CAR) != 0) then begin
@@ -58,10 +58,10 @@ procedure map_enter_p_proc begin
             Dest_Car(CAR_VAULT_CITY_HEX, CAR_VAULT_CITY_ELEV)
          end
       end else begin
-         debug_msg("the player hasn't gotten the car, can't place it");
+         ndebug("the player hasn't gotten the car, can't place it");
       end
    end else begin
-      debug_msg("sorry, can't place the car, the game's loading");
+      ndebug("sorry, can't place the car, the game's loading");
    end*/
 
    //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle

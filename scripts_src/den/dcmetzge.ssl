@@ -223,7 +223,7 @@ end
 procedure talk_p_proc begin
    //if (global_var(GVAR_KNOW_METZGER) == 0) then
    //   set_global_var(GVAR_KNOW_METZGER,1);
-   debug_msg("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
+   ndebug("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
    prev_node := 0;
    if ((global_var(GVAR_WIPED_OUT_SLAVER_CAMP) == 1) or (hostile) or (hostile_slavers)) then begin
       //added check since his script crashes if he cannot see you when he is mad - killap
@@ -262,14 +262,14 @@ procedure destroy_p_proc begin
 end
 
 procedure look_at_p_proc begin
-   debug_msg("HEY D, CAN YOU SEE ME??? IF SO, PUT YOUR HANDS UP I THE AIR AND WAVE EM LIKE YOU JUST DON'T CARE. AND YELL ALOT TOO.");
+   ndebug("HEY D, CAN YOU SEE ME??? IF SO, PUT YOUR HANDS UP I THE AIR AND WAVE EM LIKE YOU JUST DON'T CARE. AND YELL ALOT TOO.");
    script_overrides;
-   debug_msg(" the line number is == "+(100 + herebefore));
+   ndebug(" the line number is == "+(100 + herebefore));
    display_mstr(100 + herebefore);
 end
 
 procedure description_p_proc begin
-   debug_msg("HEY D, CAN YOU SEE ME??? IF SO, PUT YOUR HANDS UP I THE AIR AND WAVE EM LIKE YOU JUST DON'T CARE. AND YELL ALOT TOO.");
+   ndebug("HEY D, CAN YOU SEE ME??? IF SO, PUT YOUR HANDS UP I THE AIR AND WAVE EM LIKE YOU JUST DON'T CARE. AND YELL ALOT TOO.");
    script_overrides;
    display_mstr(150);
    set_examined;
@@ -384,7 +384,7 @@ variable the_rand;
             critter_attempt_placement(new_slave, slave_place_tile_3, self_elevation);
          end
       end
-      debug_msg("exit metzger while loop");
+      ndebug("exit metzger while loop");
    gfade_in(ONE_GAME_SECOND);
 end
 
@@ -452,7 +452,7 @@ procedure Node003 begin
       //end added
 
    end else begin
-      debug_msg("true_party_size == " + true_party_size);
+      ndebug("true_party_size == " + true_party_size);
       Reply(231 + (true_party_size == 0));
    end
    NOption(239, Node004, 004);

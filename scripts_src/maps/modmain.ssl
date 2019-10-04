@@ -58,8 +58,8 @@ variable temp_chunk;
 variable temp_tile;
 variable slaughter_tile;
 variable laddie; //added by killap
-   debug_msg("start: map_enter_p_proc for MODOC");
-   debug_msg("global_var(GVAR_LOAD_MAP_INDEX) == " + global_var(GVAR_LOAD_MAP_INDEX));
+   ndebug("start: map_enter_p_proc for MODOC");
+   ndebug("global_var(GVAR_LOAD_MAP_INDEX) == " + global_var(GVAR_LOAD_MAP_INDEX));
 
 
    //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
@@ -133,7 +133,7 @@ variable laddie; //added by killap
       end
    end
    Lighting;
-   debug_msg("end: map_enter_p_proc for MODOC");
+   ndebug("end: map_enter_p_proc for MODOC");
 end
 
 procedure map_exit_p_proc begin

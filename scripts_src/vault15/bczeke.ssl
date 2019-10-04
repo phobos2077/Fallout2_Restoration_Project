@@ -417,7 +417,7 @@ procedure Node009 begin
       Reply(137);
    end
 
-   debug_msg("BCZEKE: " + global_var(GVAR_NCR_TANDI_JOB_ACCEPT));
+   ndebug("" + global_var(GVAR_NCR_TANDI_JOB_ACCEPT));
    if (local_var(LVAR_Offer) or global_var(GVAR_NCR_TANDI_JOB_ACCEPT) != TJOB_ACCEPT) then begin
       NOption(129, Node005, 1);
    end else begin

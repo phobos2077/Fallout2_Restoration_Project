@@ -841,9 +841,9 @@ procedure doAdjustEnd begin
    if (Random(1, 100) <= 50) then begin
       set_critter_stat(dude_obj, STAT_lu, 1);
       set_critter_stat(dude_obj, STAT_iq, 1);
-      debug_msg("FCOZ7: uhh made luck and iq");
+      ndebug("FCOZ7: uhh made luck and iq");
    end else begin
-      debug_msg("FCOZ7: uhh lost luck");
+      ndebug("FCOZ7: uhh lost luck");
       set_critter_stat(dude_obj, STAT_lu, -1);
    end
 

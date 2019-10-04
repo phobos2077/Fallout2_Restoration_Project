@@ -80,7 +80,7 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_SMILEY_STATUS) == SMILEY_RETURNED) then begin
 //   if (1) then begin
       set_global_var(GVAR_SMILEY_STATUS, SMILEY_IS_HERE);
-      debug_msg("Making Smiley");
+      ndebug("Making Smiley");
       smiley_ptr := create_object_sid(PID_MALE_TRAPPER,0,0,SCRIPT_KCSMILEY);
       critter_add_trait(smiley_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
       smiley_hex := 23686; //try to put him somewhere in buckner house
@@ -90,7 +90,7 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_RUSTLE_SUCCESS) == 1) then begin
       set_global_var(GVAR_RUSTLE_SUCCESS,2);
       k := MAX_BRAHMIN - global_var(GVAR_TORR_BRAHMIN_KILLED);
-      debug_msg("Making cows"+k);
+      ndebug("Making cows"+k);
       //cow_ptr := create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ACBRAHMN);
       //cow_ptr := create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ZCBRAHMN); //edit by killap
       cow_ptr := create_object_sid(PID_BRAHMIN,0,0,SCRIPT_KCDUNBRA); //edit by killap - expansion

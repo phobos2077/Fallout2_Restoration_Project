@@ -473,7 +473,7 @@ procedure map_update_p_proc begin
 
 //   Entrance_Door_Ptr:=self_obj;
 
-   debug_msg("tile_num == "+tile_num(self_obj)+", MVAR_Passed_Fighting == "+map_var(MVAR_Passed_Fighting)+", LVAR_Used_Key == "+local_var(LVAR_Used_Key));
+   ndebug("tile_num == "+tile_num(self_obj)+", MVAR_Passed_Fighting == "+map_var(MVAR_Passed_Fighting)+", LVAR_Used_Key == "+local_var(LVAR_Used_Key));
 
    if (map_var(MVAR_Passed_Fighting) == Fighting_Started) then begin
        set_local_var(LVAR_Locked,STATE_ACTIVE);

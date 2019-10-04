@@ -210,7 +210,7 @@ procedure talk_p_proc begin
 
    else if (global_var(GVAR_STILL_STATUS) == STILL_BETRAY) then begin
    //else if (map_var(MVAR_Still_Betray) == 1) then begin
-      debug_msg("WHERE_TO_GO_1");
+      ndebug("WHERE_TO_GO_1");
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node017;
@@ -219,7 +219,7 @@ procedure talk_p_proc begin
    end
    else if ( (global_var(GVAR_STILL_STATUS) == STILL_ACCEPT) or (global_var(GVAR_STILL_STATUS) == STILL_SUCCESS) or (global_var(GVAR_STILL_STATUS) == STILL_FAILURE) ) then begin
    //else if ( (map_var(MVAR_Still_Accept) == 1) or (global_var(GVAR_STILL_SUCCESS) == 1) or (global_var(GVAR_STILL_FAILURE) == 1) ) then begin
-      debug_msg("WHERE_TO_GO_2");
+      ndebug("WHERE_TO_GO_2");
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          if (local_var(LVAR_10_before) == 0) then begin
@@ -233,7 +233,7 @@ procedure talk_p_proc begin
       end_dialogue;
    end
    else if (local_var(LVAR_Herebefore) == 0) then begin
-      debug_msg("WHERE_TO_GO_3");
+      ndebug("WHERE_TO_GO_3");
 //else if ((local_var(LVAR_Herebefore) == 0) and (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -243,7 +243,7 @@ procedure talk_p_proc begin
        set_local_var(LVAR_Herebefore,1);
    end
    else begin
-      debug_msg("WHERE_TO_GO_4");
+      ndebug("WHERE_TO_GO_4");
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node003;

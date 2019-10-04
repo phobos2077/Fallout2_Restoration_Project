@@ -141,7 +141,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == fight_over_param) then begin
-      debug_msg("stu: fight_status_raw == " + fight_status_raw);
+      ndebug("stu: fight_status_raw == " + fight_status_raw);
       off_ui_should_be_disabled;
       check_set_obj_visiblility(ring_girl_obj, true);
       check_set_obj_visiblility(announcer_obj, true);
@@ -425,7 +425,7 @@ procedure Node011 begin
    prev_node := 11;
 end
 procedure Node012 begin
-   debug_msg("GVAR_NEW_RENO_PRIZEFIGHTER == " + dude_prizefighter_number + " / dude_prizefighter_number == " + dude_prizefighter_number + " / prizefighter_name == " + prizefighter_name);
+   ndebug("GVAR_NEW_RENO_PRIZEFIGHTER == " + dude_prizefighter_number + " / dude_prizefighter_number == " + dude_prizefighter_number + " / prizefighter_name == " + prizefighter_name);
    if (dude_prizefighter_number == 97) then begin  //killap fix: was 497
       Reply(300);
    end else if (dude_prizefighter_number == 96) then begin //killap fix: was 496

@@ -108,7 +108,7 @@ procedure use_p_proc begin
 end
 
 procedure damage_p_proc begin
-   debug_msg("cart damage p proc");
+   ndebug("cart damage p proc");
    if (self_pid == PID_MINING_CART_EXPLOSIVE) then begin
       change_cart_to_pid(PID_MINING_CART_PLANK, 0);
    end

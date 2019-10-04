@@ -81,7 +81,7 @@ procedure Node007;
 
 #define check_set_store_patron(box, def, closed)                                       \
          if (box(self_tile)) then begin                                                \
-            debug_msg("setting customer of "+ def);                                    \
+            ndebug("setting customer of "+ def);                                    \
             if (random(0, 7) != 0) then begin                                          \
                check_set_obj_visiblility(self_obj, false);                                    \
             end else begin                                                             \
@@ -117,7 +117,7 @@ procedure Node007;
          if (local_var(LVAR_Patron_To_Store) == 0) then begin                                   \
             set_new_home_tile                                                                   \
          end                                                                                    \
-         debug_msg("set_store_patron")
+         ndebug("set_store_patron")
 
 #define new_tile_in_store(store, rand_tile_in_box, closed)                                      \
          if (local_var(LVAR_Patron_To_Store) == store) then begin                               \

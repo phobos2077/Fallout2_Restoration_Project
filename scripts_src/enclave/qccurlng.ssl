@@ -609,7 +609,7 @@ end
 procedure Node045 begin
    inc_local_var(LVAR_Said_45);
    if (global_var(GVAR_ENCLAVE_ALARM) != ALARM_REACTOR) then begin
-       debug_msg("Set Toxin Alarm");
+       ndebug("Set Toxin Alarm");
        set_global_var(GVAR_ENCLAVE_ALARM,ALARM_TOXIN);
        give_xp(EXP_POISON_ENCLAVE);
    end

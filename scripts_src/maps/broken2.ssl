@@ -105,13 +105,13 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_JAIL_BREAK) == JB_SUCCESSFUL) then begin
       set_global_var(GVAR_JAIL_BREAK, JB_OVER);
 /*
-      debug_msg("Making Frank");
+      ndebug("Making Frank");
       frank_ptr := create_object_sid(PID_MASTER_TRADER_MALE,0,0,SCRIPT_HCFRANK);
       critter_add_trait(frank_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
       frank_hex := 24530;
       critter_attempt_placement(frank_ptr,frank_hex, 1);
 
-      debug_msg("Making Manson");
+      ndebug("Making Manson");
       manson_ptr := create_object_sid(PID_MELEE_THUG_MALE,0,0,SCRIPT_HCMANSON);
       critter_add_trait(manson_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
       manson_hex := 24728;
@@ -140,7 +140,7 @@ procedure map_update_p_proc begin
       Cavern_Lighting;
 
    if( map_var(MVAR_Blew_Up_Purifier) == 1 ) then begin
-      debug_msg( "Doin' Blow up");
+      ndebug( "Doin' Blow up");
       set_map_var(MVAR_Blew_Up_Purifier, 0);
       // Get the player out of the mine and "destroy" it.
       move_to( dude_obj, 14095, 0 );

@@ -194,7 +194,7 @@ procedure do_setup begin
       //move_to(dude_obj, 16099, 0);
       //move_to(self_obj, 17880, 0);
 
-      //debug_msg("ECKAGA1: tile_set_center(16494): " + tile_set_center(16494)); //screen will recenter to the right of the player as he/she walks
+      //ndebug("ECKAGA1: tile_set_center(16494): " + tile_set_center(16494)); //screen will recenter to the right of the player as he/she walks
       //game_ui_disable;
 
       //wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_SPEAR));
@@ -285,7 +285,7 @@ procedure critter_p_proc begin
                   animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), rot, random(30, 40)), 1);
                   rot := (rot + 1) % 6;
                   while((anim_busy(self_obj) == 0) and (rot != rotation_to_tile(tile_num(dude_obj), tile_num(self_obj)))) do begin
-                     debug_msg("flee loop: rot == " + rot);
+                     ndebug("flee loop: rot == " + rot);
                      animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), rot, random(30, 40)), 1);
                      rot := (rot + 1) % 6;
                   end

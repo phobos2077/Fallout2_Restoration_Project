@@ -180,9 +180,9 @@ variable temp;
    if (is_loading_game == false) then begin
       flush_add_timer_event_sec(self_obj, random(0, 45), 2);
       if (chicken_escaped) then begin
-         debug_msg("chicken_escaped");
+         ndebug("chicken_escaped");
          if (is_killable_map) then begin
-            debug_msg("  is_killable_map");
+            ndebug("  is_killable_map");
             temp := map_index_to_bit;
             if (killed_map(temp) == false) then begin
                do_kill_everyone_on_map;
@@ -225,7 +225,7 @@ procedure map_exit_p_proc begin
    if ((chicken_escaped) and (killed_all_maps == false)) then begin
       if (is_killable_map) then begin
          if (killed_map(map_index_to_bit)) then begin
-            debug_msg("telling chicken to join party");
+            ndebug("telling chicken to join party");
             party_add_self;
          end
       end

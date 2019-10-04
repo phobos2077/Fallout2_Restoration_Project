@@ -99,7 +99,7 @@ variable temp_tile;
       add_timer_event(self_obj,game_ticks(random(2,3)),1);
    end if (fixed_param == 2) then begin
       if (combat_is_initialized == false) then begin
-         debug_msg("telling dog to switch tile");
+         ndebug("telling dog to switch tile");
          if ((anim_busy(self_obj) == false) and (dude_is_in_cage == false)) then begin
             if (self_tile == local_var(LVAR_Home_Tile)) then begin
                temp_tile := tile_num_in_direction(local_var(LVAR_Home_Tile), random(0,5), random(3,10));

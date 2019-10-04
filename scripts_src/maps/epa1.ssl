@@ -31,12 +31,12 @@ procedure doRepostion begin
    //game_time_advance(ONE_GAME_MINUTE);
 
    tile_set_center(19553);
-   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(19553)); //screen will recenter on kaga
+   ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(19553)); //screen will recenter on kaga
 
    tile_set_center(tile_num(dude_obj));
-   debug_msg("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+   ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
 
-   //debug_msg("ECKAGA1: tile_set_center(16081): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+   //ndebug("ECKAGA1: tile_set_center(16081): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
 end
 
 
@@ -67,17 +67,17 @@ procedure map_enter_p_proc begin
    end*/
 
    /*if (global_var(GVAR_LOAD_MAP_INDEX)==4) then begin
-         //debug_msg("ECKAGA1: tile_set_center(15684): " + tile_set_center(15684)); //screen will recenter
+         //ndebug("ECKAGA1: tile_set_center(15684): " + tile_set_center(15684)); //screen will recenter
          override_map_start_hex(15684,2,0);
          move_to(dude_obj, 15684, 2);
          set_global_var(GVAR_LOAD_MAP_INDEX,0);
    end
 
    else if (global_var(GVAR_LOAD_MAP_INDEX)==5) then begin
-         //debug_msg("ECKAGA1: tile_set_center(18757): " + tile_set_center(18757)); //screen will recenter
+         //ndebug("ECKAGA1: tile_set_center(18757): " + tile_set_center(18757)); //screen will recenter
 
          //if (not obj_on_screen(dude_obj)) then
-            //debug_msg("ECKAGA1: tile_set_center(16081): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
+            //ndebug("ECKAGA1: tile_set_center(16081): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
 
          override_map_start_hex(18757,2,2);
          move_to(dude_obj, 18757, 2);

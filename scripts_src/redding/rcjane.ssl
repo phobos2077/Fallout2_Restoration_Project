@@ -217,7 +217,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   debug_msg("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2));
+   ndebug("map_var(MVAR_Rat_Fighter1) == "+map_var(MVAR_Rat_Fighter1)+". map_var(MVAR_Rat_Fighter2) == "+map_var(MVAR_Rat_Fighter2));
 
    if (dude_iq < 4) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
@@ -1053,7 +1053,7 @@ procedure Node019 begin
 
    Line:=random(1,6);
 
-   debug_msg("Player bet on Rat "+local_var(LVAR_Bet_On_Rat));
+   ndebug("Player bet on Rat "+local_var(LVAR_Bet_On_Rat));
 
 //killa
 if (local_var(LVAR_Tmp_Rat1) != 1) or (local_var(LVAR_Tmp_Rat2) != 1) or (local_var(LVAR_Tmp_Rat3) != 1) or (local_var(LVAR_Tmp_Rat4) != 1) or (local_var(LVAR_Tmp_Rat5) != 1) or (local_var(LVAR_Tmp_Rat6) != 1) then begin
@@ -1122,7 +1122,7 @@ procedure Move_Rat(variable Combat1) begin
    if (map_var(Combat1) == 1) then begin
       if (local_var(LVAR_Tmp_Rat1) != 1) then begin
          move_to(Molerat_Ptr1,CAGE1_HEX,0);
-         debug_msg("Move Rats Back");
+         ndebug("Move Rats Back");
       end
       else
          destroy_object(Molerat_Ptr1);
@@ -1130,7 +1130,7 @@ procedure Move_Rat(variable Combat1) begin
    else if (map_var(Combat1) == 2) then begin
       if (local_var(LVAR_Tmp_Rat2) != 1) then begin
        move_to(Molerat_Ptr2,CAGE2_HEX,0);
-       debug_msg("Move Rats Back");
+       ndebug("Move Rats Back");
       end
       else
          destroy_object(Molerat_Ptr2);
@@ -1138,7 +1138,7 @@ procedure Move_Rat(variable Combat1) begin
    else if (map_var(Combat1) == 3) then begin
       if (local_var(LVAR_Tmp_Rat3) != 1) then begin
          move_to(Molerat_Ptr3,CAGE3_HEX,0);
-         debug_msg("Move Rats Back");
+         ndebug("Move Rats Back");
       end
       else
          destroy_object(Molerat_Ptr3);
@@ -1146,7 +1146,7 @@ procedure Move_Rat(variable Combat1) begin
    else if (map_var(Combat1) == 4) then begin
       if (local_var(LVAR_Tmp_Rat4) != 1) then begin
          move_to(Molerat_Ptr4,CAGE4_HEX,0);
-         debug_msg("Move Rats Back");
+         ndebug("Move Rats Back");
       end
       else
          destroy_object(Molerat_Ptr4);
@@ -1154,7 +1154,7 @@ procedure Move_Rat(variable Combat1) begin
    else if (map_var(Combat1) == 5) then begin
       if (local_var(LVAR_Tmp_Rat5) != 1) then begin
          move_to(Molerat_Ptr5,CAGE5_HEX,0);
-         debug_msg("Move Rats Back");
+         ndebug("Move Rats Back");
       end
       else
          destroy_object(Molerat_Ptr5);
@@ -1162,7 +1162,7 @@ procedure Move_Rat(variable Combat1) begin
    else if (map_var(Combat1) == 6) then begin
       if (local_var(LVAR_Tmp_Rat6) != 1) then begin
          move_to(Molerat_Ptr6,CAGE6_HEX,0);
-         debug_msg("Move Rats Back");
+         ndebug("Move Rats Back");
       end
       else
          destroy_object(Molerat_Ptr6);
@@ -1170,37 +1170,37 @@ procedure Move_Rat(variable Combat1) begin
 end
 
 procedure Create_Rat(variable Combat1) begin
-   debug_msg("Creating Rat "+local_var(Combat1));
+   ndebug("Creating Rat "+local_var(Combat1));
 
    if (local_var(Combat1) == 1) then begin
        Molerat_Ptr1:=create_object_sid(PID_FIGHTING_MOLERAT_1,0,0,SCRIPT_RCFITRAT);
        move_to(Molerat_Ptr1,CAGE1_HEX,0);
-   debug_msg("Creating Rat "+local_var(Combat1));
+   ndebug("Creating Rat "+local_var(Combat1));
    end
    else if (local_var(Combat1) == 2) then begin
        Molerat_Ptr2:=create_object_sid(PID_FIGHTING_MOLERAT_2,0,0,SCRIPT_RCFITRAT);
        move_to(Molerat_Ptr2,CAGE2_HEX,0);
-   debug_msg("Creating Rat "+local_var(Combat1));
+   ndebug("Creating Rat "+local_var(Combat1));
    end
    else if (local_var(Combat1) == 3) then begin
        Molerat_Ptr3:=create_object_sid(PID_FIGHTING_MOLERAT_3,0,0,SCRIPT_RCFITRAT);
        move_to(Molerat_Ptr3,CAGE3_HEX,0);
-   debug_msg("Creating Rat "+local_var(Combat1));
+   ndebug("Creating Rat "+local_var(Combat1));
    end
    else if (local_var(Combat1) == 4) then begin
        Molerat_Ptr4:=create_object_sid(PID_FIGHTING_MOLERAT_4,0,0,SCRIPT_RCFITRAT);
        move_to(Molerat_Ptr4,CAGE4_HEX,0);
-   debug_msg("Creating Rat "+local_var(Combat1));
+   ndebug("Creating Rat "+local_var(Combat1));
    end
    else if (local_var(Combat1) == 5) then begin
        Molerat_Ptr5:=create_object_sid(PID_FIGHTING_MOLERAT_5,0,0,SCRIPT_RCFITRAT);
        move_to(Molerat_Ptr5,CAGE5_HEX,0);
-   debug_msg("Creating Rat "+local_var(Combat1));
+   ndebug("Creating Rat "+local_var(Combat1));
    end
    else if (local_var(Combat1) == 6) then begin
        Molerat_Ptr6:=create_object_sid(PID_FIGHTING_MOLERAT_6,0,0,SCRIPT_RCFITRAT);
        move_to(Molerat_Ptr6,CAGE6_HEX,0);
-   debug_msg("Creating Rat "+local_var(Combat1));
+   ndebug("Creating Rat "+local_var(Combat1));
    end
 end
 

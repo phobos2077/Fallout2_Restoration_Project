@@ -382,7 +382,7 @@ procedure Node000 begin
    call Node994;
 end
 procedure Node001 begin
-   debug_msg("Node001");
+   ndebug("Node001");
    Reply(152);
    BOption(153,Node998,004); //edit by killap: was NOption
    NOption(154,Node996,004);
@@ -390,8 +390,8 @@ procedure Node001 begin
 end
 procedure Node002 begin
    Reply(156);
-   debug_msg("Node002");
-   debug_msg("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
+   ndebug("Node002");
+   ndebug("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
    if (get_anna_locket_pip(anna_locket_pip_done) == false) then begin
       if (gave_locket == false) then begin
          if ((get_anna_locket_pip(anna_locket_pip_assigned)) and (mom_fingered_joey)) then begin
@@ -403,7 +403,7 @@ procedure Node002 begin
    NOption(160,Node999,004);
 end
 procedure Node003 begin
-   debug_msg("Node003");
+   ndebug("Node003");
    Reply(161);
    if (mom_fingered_joey) then begin
       NOption(162,Node004,004);
@@ -412,21 +412,21 @@ procedure Node003 begin
    BOption(164,Node998,007); //edit by killap: was NOption
 end
 procedure Node004 begin
-   debug_msg("Node004");
+   ndebug("Node004");
    Reply(165);
    NOption(166, Node005, 004);
    BOption(167, Node998, 004); //edit by killap: was NOption
    NOption(300, Node999, 004);
 end
 procedure Node005 begin
-   debug_msg("Node005");
+   ndebug("Node005");
    Reply(168);
    NOption(169,Node006,004);
    NOption(170,Node993,004);
    NOption(171,Node992,006);
 end
 procedure Node006 begin
-   debug_msg("Node006");
+   ndebug("Node006");
    Reply(172);
    NOption(173,Node991,004);
    NOption(174,Node990,004);
@@ -434,23 +434,23 @@ procedure Node006 begin
    NOption(176,Node993,004);
 end
 procedure Node007 begin
-   debug_msg("Node007");
+   ndebug("Node007");
    Reply(177);
    NOption(178,Node989,004);
    NOption(179,Node989,006);
 end
 procedure Node008 begin
-   debug_msg("Node008");
+   ndebug("Node008");
    Reply(180);
    NOption(181,Node999,004);
    NOption(182,Node993,004);
 end
 procedure Node009 begin
-   debug_msg("Node009");
+   ndebug("Node009");
    Reply(183);
    NOption(184,Node988,004);
    NOption(185,Node012,004);
-   debug_msg("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
+   ndebug("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
    if (get_anna_locket_pip(anna_locket_pip_done) == false) then begin
       if (gave_locket == false) then begin
          if ((get_anna_locket_pip(anna_locket_pip_assigned)) and (mom_fingered_joey)) then begin
@@ -460,7 +460,7 @@ procedure Node009 begin
    end
 end
 procedure Node010 begin
-   debug_msg("Node010");
+   ndebug("Node010");
    Reply(188);
    NOption(189,Node015,004);
    NOption(190,Node012,004);
@@ -468,7 +468,7 @@ procedure Node010 begin
    NOption(192,Node016,004);
 end
 procedure Node011 begin
-   debug_msg("Node011");
+   ndebug("Node011");
    Reply(193);
    NOption(194,Node986,004);
    NOption(195,Node985,004);
@@ -476,7 +476,7 @@ procedure Node011 begin
    NOption(197,Node014,004);
 end
 procedure Node012 begin
-   debug_msg("Node012");
+   ndebug("Node012");
    Reply(198);
    NOption(199,Node014,004);
    NOption(200,Node022,004);
@@ -484,30 +484,30 @@ procedure Node012 begin
    NOption(202,Node999,004);
 end
 procedure Node013 begin
-   debug_msg("Node013");
+   ndebug("Node013");
    Reply(203);
    NOption(204,Node984,004);
    NOption(205,Node983,004);
    NOption(206,Node016,004);
 end
 procedure Node014 begin
-   debug_msg("Node014");
+   ndebug("Node014");
    Reply(207);
    NOption(208,Node999,004);
    NOption(209,Node999,004);
    NOption(210,Node016,004);
 end
 procedure Node015 begin
-   debug_msg("Node015");
+   ndebug("Node015");
    Reply(211);
    NOption(212,Node982,004);
    NOption(213,Node981,004);
    NOption(214,Node012,004);
 end
 procedure Node016 begin
-   debug_msg("Node016");
+   ndebug("Node016");
    Reply(215);
-   debug_msg("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
+   ndebug("gave_locket == "+gave_locket+" / get_anna_locket_pip(anna_locket_pip_assigned) == "+get_anna_locket_pip(anna_locket_pip_assigned)+" / mom_fingered_joey == "+mom_fingered_joey);
    if (get_anna_locket_pip(anna_locket_pip_done) == false) then begin
       if (gave_locket == false) then begin
          if ((get_anna_locket_pip(anna_locket_pip_assigned)) and (mom_fingered_joey)) then begin
@@ -525,14 +525,14 @@ procedure Node016 begin
    NOption(221,Node999,004);
 end
 procedure Node017 begin
-   debug_msg("Node017");
+   ndebug("Node017");
    Reply(222);
    NOption(223,Node018,004);
    NOption(224,Node016,004);
    NOption(225,Node999,004);
 end
 procedure Node018 begin
-   debug_msg("Node018");
+   ndebug("Node018");
    if (gangwar(state_gangwar_2won)) then begin
       Reply(350 + lara_dead);
    end else begin
@@ -547,14 +547,14 @@ procedure Node018 begin
    NOption(231,Node999,004);
 end
 procedure Node019 begin
-   debug_msg("Node019");
+   ndebug("Node019");
    Reply(232);
    NOption(233,Node018,004);
    NOption(234,Node016,004);
    NOption(235,Node999,004);
 end
 procedure Node020 begin
-   debug_msg("Node020");
+   ndebug("Node020");
    mark_new_reno_on_map
    Reply(236);
    NOption(237,Node018,004);
@@ -562,14 +562,14 @@ procedure Node020 begin
    NOption(239,Node999,004);
 end
 procedure Node021 begin
-   debug_msg("Node021");
+   ndebug("Node021");
    Reply(240);
    NOption(241,Node018,004);
    NOption(242,Node016,004);
    NOption(243,Node999,004);
 end
 procedure Node022 begin
-   debug_msg("Node022");
+   ndebug("Node022");
    Reply(244);
    NOption(245,Node014,004);
    NOption(246,Node016,004);
@@ -577,21 +577,21 @@ procedure Node022 begin
    NOption(248,Node979,004);
 end
 procedure Node023 begin
-   debug_msg("Node023");
+   ndebug("Node023");
    Reply(249);
    NOption(250,Node978,004);
    NOption(251,Node016,004);
    NOption(252,Node999,004);
 end
 procedure Node024 begin
-   debug_msg("Node024");
+   ndebug("Node024");
    Reply(253);
    NOption(254,Node016,004);
    NOption(255,Node977,004);
    NOption(256,Node999,004);
 end
 procedure Node025 begin
-   debug_msg("Node025");
+   ndebug("Node025");
    Reply(257);
    NOption(258,Node015,004);
    NOption(259,Node016,004);

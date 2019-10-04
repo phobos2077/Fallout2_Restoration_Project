@@ -147,8 +147,8 @@ procedure map_enter_p_proc begin
    if ( (cur_map_index == MAP_DEN_RESIDENTIAL) and (gangwar(state_gangwar_2won)) ) then
       destroy_object(self_obj);
 
-   debug_msg("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
-   debug_msg("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
+   ndebug("tyler count" + global_var(GVAR_DEN_GANG_1_COUNT));
+   ndebug("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
 
 end
 
@@ -218,7 +218,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   debug_msg("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
+   ndebug("global_var(GVAR_DEN_GANGWAR) == "+global_var(GVAR_DEN_GANGWAR));
    if ((hostile) or (gang_hostile)) then begin
       call Node001;
    end else if (gangwar(state_gangwar_in_fight)) then begin

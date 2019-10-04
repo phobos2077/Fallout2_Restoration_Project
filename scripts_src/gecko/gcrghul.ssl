@@ -94,9 +94,9 @@ procedure critter_p_proc begin
    seq := 1 - seq;
    if (seq) then begin
       if ( ( (local_var(LVAR_Hostile) == 2) or (local_var(LVAR_Personal_Enemy) == 1) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
-         debug_msg("GCRGHUL: LVAR_Hostile " + local_var(LVAR_Hostile) + " LVAR_Personal_Enemy " + local_var(LVAR_Personal_Enemy));
+         ndebug("LVAR_Hostile " + local_var(LVAR_Hostile) + " LVAR_Personal_Enemy " + local_var(LVAR_Personal_Enemy));
          set_local_var(LVAR_Hostile,1);
-         debug_msg("GCRGHUL: attacking from hostile or personal");
+         ndebug("attacking from hostile or personal");
          attack(dude_obj);
       end
       else if (local_var(LVAR_Said_Sneak) == 0) then begin
@@ -107,7 +107,7 @@ procedure critter_p_proc begin
       else if ( (global_var(GVAR_GECKO_MELTDOWN) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
-         debug_msg("GCRGHUL: attacking from meltdown");
+         ndebug("attacking from meltdown");
       end
    end
    //else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_DESTROYED) then begin
@@ -133,7 +133,7 @@ end
    will be remembered. */
 procedure pickup_p_proc begin
    if (source_obj == dude_obj) then begin
-      debug_msg("GCRGHUL: from pickup");
+      ndebug("from pickup");
       set_local_var(LVAR_Hostile,2);
    end
 end
@@ -148,7 +148,7 @@ end
 procedure talk_p_proc begin
    GetReaction;
 
-   debug_msg("GCRGHOUL: uhh REP_ENEMY_GECKO: " + REP_ENEMY_GECKO + " LVAR_Personal_Enemy: " + local_var(LVAR_Personal_Enemy) );
+   ndebug("uhh REP_ENEMY_GECKO: " + REP_ENEMY_GECKO + " LVAR_Personal_Enemy: " + local_var(LVAR_Personal_Enemy) );
 
    if ((REP_ENEMY_GECKO) or (local_var(LVAR_Personal_Enemy) == 1)) then begin
        call Node998;
@@ -240,7 +240,7 @@ procedure Node006 begin
 end
 
 procedure Node998 begin
-   debug_msg("GCRGHUL: hostile from 998");
+   ndebug("hostile from 998");
    set_local_var(LVAR_Hostile,2);
 end
 /* Anytime that there is a need for an ending to dialog, this node is to be called. It will just

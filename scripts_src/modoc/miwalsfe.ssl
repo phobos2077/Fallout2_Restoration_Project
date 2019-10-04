@@ -42,20 +42,20 @@ import variable modoc_farrel_obj;
 #define check_farrel_catch       farrel_caught := false;                                              \
                                  if (not(farrel_dead)) then begin                                \
                                     if (obj_can_see_obj(modoc_farrel_obj, source_obj)) then begin     \
-                                       debug_msg("farrel caught source_obj");                         \
+                                       ndebug("farrel caught source_obj");                         \
                                        script_overrides;                                              \
                                        farrel_caught := true;                                         \
                                        inc_wall_safe_attempt;                                         \
                                     end else begin                                                    \
-                                       debug_msg("farrel can't see source obj");                      \
+                                       ndebug("farrel can't see source obj");                      \
                                     end                                                               \
                                  end else begin                                                       \
-                                    debug_msg("modoc_farrel_obj == 0");                               \
+                                    ndebug("modoc_farrel_obj == 0");                               \
                                  end                                                                  \
                                  set_wall_safe_found
 
 #define roll_lock_and_switch(x)  if (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,x))) then begin     \
-                                    debug_msg("message pass == "+mstr(200));                                \
+                                    ndebug("message pass == "+mstr(200));                                \
                                     give_xp(EXP_LOCKPICK_NORMAL);                                           \
                                     if (local_var(LVAR_Locked) == 1) then begin                             \
                                        set_local_var(LVAR_Locked, 0);                                       \
@@ -64,7 +64,7 @@ import variable modoc_farrel_obj;
                                     end                                                                     \
                                     display_msg(mstr(200 + local_var(LVAR_Locked))); \
                                  end else begin                                                             \
-                                    debug_msg("message fail == "+mstr(210));                                \
+                                    ndebug("message fail == "+mstr(210));                                \
                                     display_msg(mstr(210 + local_var(LVAR_Locked))); \
                                  end
 
@@ -95,7 +95,7 @@ procedure description_p_proc begin
 end
 
 procedure use_p_proc begin
-   debug_msg("use_p_proc");
+   ndebug("use_p_proc");
    check_farrel_catch;
    if (local_var(LVAR_Locked) == 1) then begin
       script_overrides;
@@ -103,7 +103,7 @@ procedure use_p_proc begin
    end
 end
 procedure use_obj_on_p_proc begin
-   debug_msg("use_obj_on_p_proc");
+   ndebug("use_obj_on_p_proc");
    check_farrel_catch;
    if (farrel_caught == false) then begin
       if ( (obj_pid(obj_being_used_with) == PID_LOCKPICKS) or (obj_pid(obj_being_used_with) == PID_EXP_LOCKPICK_SET) ) then begin //added exp_lockpick_set - killap
@@ -113,7 +113,7 @@ procedure use_obj_on_p_proc begin
    end
 end
 procedure use_skill_on_p_proc begin
-   debug_msg("use_skill_on_p_proc");
+   ndebug("use_skill_on_p_proc");
    check_farrel_catch;
    if (farrel_caught == false) then begin
       if (action_being_used == SKILL_LOCKPICK) then begin

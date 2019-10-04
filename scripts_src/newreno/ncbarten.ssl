@@ -116,7 +116,7 @@ variable temp;
          get_and_set_family(temp);
          set_local_var(LVAR_Family, temp);
          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
-         debug_msg("self_family: " + self_family);
+         ndebug("self_family: " + self_family);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end

@@ -156,7 +156,7 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == FALSE) then begin
       if (map_var(MVAR_V13_Exit_Visible) == 0) then begin
-         debug_msg("SIEXIT: exit grid should be covered");
+         ndebug("exit grid should be covered");
          set_obj_visibility(self_obj, OBJ_VIS);
          add_timer_event(self_obj, 2, TIMER_VISIBLE);
       end
