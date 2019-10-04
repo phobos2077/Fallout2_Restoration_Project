@@ -539,7 +539,7 @@ procedure Node001 begin
    end else begin
       Reply(104); // bad or horrible
    end
-   NLowOption(106, Node234, 4);
+   NLowOption(106, Node234);
    if (local_var(LVAR_N5_cnt) == 0 and not san_fran_flag(SF_LEE_OK_FUEL_TANKER)) then
       NOption(107, Node005, 4);
    NOption(108, Node006, 4);
@@ -560,19 +560,16 @@ procedure Node002 begin
    set_san_fran_flag(SF_LEE_OK_FUEL_TANKER);
    Reply(114);
    NLowOption(115, Node999); //edit by killap
-   //NOption(115, NOde999, 1);
 end
 
 procedure Node003 begin
    Reply(116);
    NLowOption(117, Node999); //edit by killap
-   //NOption(117, Node999, 1);
 end
 
 procedure Node004 begin
    Reply(118);
    NLowOption(119, Node999); //edit by killap
-   //NOption(119, Node999, 1);
 end
 
 procedure Node89 begin
