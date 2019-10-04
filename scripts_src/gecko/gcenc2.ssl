@@ -83,7 +83,7 @@ procedure critter_p_proc begin
 end
 
 procedure pickup_p_proc begin
-  attack(source_obj, 0, 1, 0, 0, 30000, 0, 0);
+  attack(source_obj);
   set_map_var(MVAR_Attack,1);
 end
 
@@ -92,7 +92,7 @@ procedure destroy_p_proc begin
 end
 
 procedure damage_p_proc begin
-  attack(source_obj, 0, 1, 0, 0, 30000, 0, 0);
+  attack(source_obj);
   set_map_var(MVAR_Attack,1);
 end
 
