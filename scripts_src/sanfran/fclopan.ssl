@@ -156,12 +156,6 @@ procedure checkTestObj;
 #define TIMER_LEARN1        6
 #define TIMER_LEARN2        7
 
-//added by killap - expansion
-#define REG_HAIR                        (0)
-#define LONG_HAIR                       (1)
-#define BALD_HAIR                       (2)
-//end added
-
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */

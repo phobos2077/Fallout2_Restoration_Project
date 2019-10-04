@@ -169,12 +169,6 @@ procedure DoTalking;
 #define TIMER_LOPAN_HIT  8
 #define TIMER_DO_TALKING 9
 
-//added by killap - expansion
-#define REG_HAIR                        (0)
-#define LONG_HAIR                       (1)
-#define BALD_HAIR                       (2)
-//end added
-
 procedure checkLoad;
 procedure startSequence;
 
