@@ -87,7 +87,6 @@ import variable comedian_obj; //added by killap - expansion pack
 #define LVAR_Flags                     (0)
 #define LVAR_Family                    (1)
 #define LVAR_Enclave_Reward            (2)
-#define LVAR_Family                    (3)
 #define LVAR_Work                      (4)
 #define LVAR_No_Work                   (5)
 #define LVAR_First_Routine             (6)
