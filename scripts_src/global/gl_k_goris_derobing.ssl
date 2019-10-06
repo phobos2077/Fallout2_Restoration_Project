@@ -3,11 +3,12 @@
 #include "../headers/rpu.h"
 
 procedure start;
+variable enabled;
 
 procedure start begin
   if game_loaded then begin
-    variable enabled := rpu_msetting(set_goris_derobing);
     variable fs_override := check_filesystem_override;
+    enabled := rpu_msetting(set_goris_derobing);
     if enabled and fs_override then begin
       variable frm, file, path;
       variable fps_offset := 0x4;
