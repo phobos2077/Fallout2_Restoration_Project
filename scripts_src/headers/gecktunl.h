@@ -22,6 +22,5 @@
 #define MVAR_Count_Lockpick                     (4)
 #define MVAR_Count_Sneaking                     (5)
 #define MVAR_Stealing                           (6)
-#define MVAR_Made_Car                           (7)
 
 #endif // GECKTUNL_H

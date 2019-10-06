@@ -5,6 +5,5 @@
 #ifndef RNDFORVR_H
 #define RNDFORVR_H
 
-#define MVAR_Made_Car           (0)
 
 #endif // RNDFORVR_H

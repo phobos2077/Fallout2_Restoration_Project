@@ -15,7 +15,6 @@
 
 //ALL Map Vars needed to start w/ MVAR_
 #define MVAR_NCR_ENT_SLAVES_FREED              (0)
-#define MVAR_Made_Car                          (1)
 #define MVAR_Lenny_Dead                        (2)
 #define MVAR_Slavers_Attack                    (3)
 #define MVAR_Field_1a                          (4)

@@ -16,7 +16,6 @@
 // All Map Vars need to start w/ MVAR_
 
 #define MVAR_Building_Time                        (0)
-#define MVAR_Made_Car                             (1)
 #define MVAR_Failed_Swindle                       (2)
 #define MVAR_Stage_Message                        (3)
 

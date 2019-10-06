@@ -39,7 +39,6 @@
 #define modoc_floater_bad(x)                          float_msg(self_obj, modoc_mstr(x), FLOAT_COLOR_BAD)
 #define modoc_dude_floater(x)                         float_msg(dude_obj, modoc_mstr(x), FLOAT_COLOR_NORMAL)
 #define kill_them_all_floater                         modoc_floater_bad(random(1000, 1003))
-#define TIMER_CLOSE                                   (39)
 
 #define mod_add_timer_event(obj, sec, param)          rm_fixed_timer_event(obj, param);               \
                                                       add_timer_event(obj, game_ticks(sec), param)

@@ -5,7 +5,6 @@
 #ifndef DEPOLV1_H
 #define DEPOLV1_H
 
-#define MVAR_Made_Car                (0)
 #define MVAR_Landmine1               (1)
 #define MVAR_Landmine2               (2)
 #define MVAR_Landmine3               (3)

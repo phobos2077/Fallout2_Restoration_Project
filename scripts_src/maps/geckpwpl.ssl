@@ -50,12 +50,6 @@ variable glow_obj;
 variable uh_oh_chernobl;
 variable my_tile;
 variable started_chain:=0;
-/*
-variable cow_ptr;
-variable cow_hex;
-variable smiley_ptr;
-variable smiley_hex;
-*/
 
 procedure start begin
 end
@@ -64,20 +58,6 @@ procedure map_enter_p_proc begin
    if (map_first_run) then begin
        display_msg(mstr(100));
    end
-/*
-   override_map_start_hex(17962,0,2);
-   if (map_first_run) then begin
-       display_msg(mstr(100));
-   end
-*/
-
-/*
-  if ((map_var(MVAR_Made_Car) == 0) and (global_var(GVAR_PLAYER_GOT_CAR) != 0)) then begin
-       set_map_var(MVAR_Made_Car,1);
-       Create_Car(CAR_BROKEN_HILLS_HEX,CAR_BROKEN_HILLS_ELEV)
-  end
-*/
-
    Cavern_Lighting;
 
    set_global_var(GVAR_LOAD_MAP_INDEX,0);

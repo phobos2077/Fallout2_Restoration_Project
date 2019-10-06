@@ -16,7 +16,6 @@
 // All Map Vars need to start w/ MVAR_
 
 
-#define MVAR_Made_Car                             (0)
 #define MVAR_Attack_Player               		  (1)
 
 #endif // VILMERCH_H

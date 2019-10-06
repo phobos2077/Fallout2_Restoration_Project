@@ -12,7 +12,6 @@
 //MAP_GLOBAL_VARS:
 
 //GLOBAL                                        NUMBER
-#define MVAR_Made_Car                            (0)
 #define MVAR_Gave_Raiders_Reward                 (1)
 // All Map Vars need to start w/ MVAR_
 

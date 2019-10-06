@@ -24,6 +24,5 @@
 #define MVAR_Den_Flick_Tile_Num                      (6)
 #define MVAR_Petey_Talk_Message                      (7)
 #define MVAR_Petey_Next_Message_Time                 (8)
-#define MVAR_Made_Car                                (9)
 
 #endif // DENBUS1_H

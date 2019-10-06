@@ -29,7 +29,6 @@
 #define MVAR_Hench_Killed                       (11)
 #define MVAR_Rank_Killed                        (12)
 #define MVAR_checked                            (13)
-#define MVAR_Made_Car                           (14)
 #define MVAR_Lockpick_Attempt                   (15)
 #define MVAR_Count_Lockpick                     (16)
 

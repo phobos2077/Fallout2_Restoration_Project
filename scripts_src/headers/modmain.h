@@ -16,7 +16,6 @@
 // All Map Vars need to start w/ MVAR_
 
 #define MVAR_SHELF                              (0)
-#define MVAR_Made_Car                           (1)
 #define MVAR_Butcher_Time_1                     (2)
 #define MVAR_Butcher_Time_2                     (3)
 

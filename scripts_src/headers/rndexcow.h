@@ -15,6 +15,5 @@
 
 //ALL Map Vars needed to start w/ MVAR_
 #define MVAR_Current_Cow_Bombs                (0)
-#define MVAR_Made_Car                         (1)
 
 #endif // RNDEXCOW_H

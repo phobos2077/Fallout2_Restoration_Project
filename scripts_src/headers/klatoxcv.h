@@ -30,6 +30,5 @@
 #define MVAR_Bug_Parts                          (12)
 #define MVAR_Still_Betray                       (13)
 #define MVAR_Still_Accept                       (15)
-#define MVAR_Made_Car                           (16)
 
 #endif // KLATOXCV_H

@@ -15,7 +15,6 @@
 
 // All Map Vars need to start w/ MVAR_
 
-#define MVAR_Made_Car                           (0)
 #define MVAR_Patrol	                            (1)
 #define MVAR_Attack	                            (2)
 

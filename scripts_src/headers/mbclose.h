@@ -9,7 +9,6 @@
 
 #define PACK_COUNT                      (10)
 
-#define MVAR_Made_Car                   (0)
 #define MVAR_Wolf_Pack_Gathered         (1)
 #define MVAR_Pack_Following             (2)
 

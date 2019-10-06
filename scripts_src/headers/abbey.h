@@ -18,7 +18,6 @@
 #define MVAR_Caravan_Info                         (0)
 #define MVAR_Crops_Stolen                         (1)
 #define MVAR_Matt_Speeches                        (2)
-#define MVAR_Made_Car                      		  (3)
 #define MVAR_Petersons_angry                      (4)
 
 #endif // ABBEY_H

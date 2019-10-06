@@ -5,6 +5,5 @@
 #ifndef RNDBESS_H
 #define RNDBESS_H
 
-#define MVAR_Made_Car           (0)
 
 #endif // RNDBESS_H

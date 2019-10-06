@@ -16,7 +16,6 @@
 // All Map Vars need to start w/ MVAR_
 
 #define MVAR_Remove_Skeeve                      (0)
-#define MVAR_Made_Car                           (1)
 #define MVAR_Stealing_From_Harry                (2)
 #define MVAR_Guard_Alert                        (3)
 #define MVAR_Auto_Doc_Fixed                     (4)

@@ -22,7 +22,6 @@
 #define MVAR_Count_Lockpick                     (4)
 #define MVAR_Count_Sneaking                     (5)
 #define MVAR_Stealing                           (6)
-#define MVAR_Made_Car                           (7)
 #define MVAR_Bought_Another                     (8)
 
 #endif // GECKSETL_H

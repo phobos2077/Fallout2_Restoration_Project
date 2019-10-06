@@ -15,6 +15,5 @@
 
 // All Map Vars need to start w/ MVAR_
 
-#define MVAR_Made_Car                            (0)
 
 #endif // NEWRCS_H

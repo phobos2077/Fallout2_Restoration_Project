@@ -15,7 +15,6 @@
 
 // All Map Vars need to start w/ MVAR_
 
-#define MVAR_Made_Car                      		  (0)
 #define MVAR_Attack_Player                        (1)
 #define MVAR_Goods_Fake                       	  (2)
 #define MVAR_Roy_Killed							  (3)

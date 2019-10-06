@@ -16,7 +16,6 @@
 // All Map Vars need to start w/ MVAR_
 
 #define MVAR_SH1_RANGERS                        (0)
-#define MVAR_Made_Car                           (1)
 #define MVAR_Came_With_Slavers                  (2)
 #define MVAR_Safe_House1_Under_Attack           (3)
 #define MVAR_SF1_Num_Of_Slavers           	(4)

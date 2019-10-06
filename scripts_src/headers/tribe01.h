@@ -12,7 +12,6 @@
 
 // All Map Vars need to start w/ MVAR_
 
-#define MVAR_Made_Car                           (0)
 #define MVAR_Saw_Body                           (1)
 #define MVAR_Restock_Time						(2)
 #define MVAR_Restock_Time_Fix					(3)

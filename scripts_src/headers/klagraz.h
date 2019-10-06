@@ -30,7 +30,6 @@
 #define MVAR_Bug_Parts                          (12)
 #define MVAR_Still_Betray                       (13)
 #define MVAR_Still_Accept                       (14)
-#define MVAR_Made_Car                           (15)
 #define MVAR_Just_Had_Sex                       (16)
 #define MVAR_Stealing                           (17)
 #define MVAR_Dude_Bad                           (18)

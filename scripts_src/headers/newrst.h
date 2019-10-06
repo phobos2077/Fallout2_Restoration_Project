@@ -16,6 +16,5 @@
 // All Map Vars need to start w/ MVAR_
 
 #define MVAR_Alert_Guards                        (0)
-#define MVAR_Made_Car                            (1)
 
 #endif // NEWRST_H

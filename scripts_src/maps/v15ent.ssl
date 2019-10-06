@@ -75,18 +75,7 @@ procedure map_enter_p_proc begin
    end
    //end added by killap
 
-   ndebug("V15ENT: map_var(MVAR_Made_Car): " + map_var(MVAR_Made_Car) + " global_var(GVAR_PLAYER_GOT_CAR): " + global_var(GVAR_PLAYER_GOT_CAR) + "V15AREA: " + AREA_VAULT_15);
    if (global_var(GVAR_V15_NCR_DEAL) == 2 and global_var(GVAR_NCR_V15_DARION_DEAD)) then begin
-      /*if (tile_contains_pid_obj(global_var(GVAR_CAR_PLACED_TILE), 0, PID_DRIVABLE_CAR) != 0) then begin
-         Dest_Car(CAR_VAULT_15_HEX, CAR_VAULT_15_ELEV)
-         set_global_var(GVAR_CAR_PLACED_TILE, 0);
-         Create_Car(CAR_VAULT_15_DEAL_HEX, CAR_VAULT_15_DEAL_ELEV)
-         if (tile_contains_pid_obj(CAR_VAULT_15_DEAL_HEX, CAR_VAULT_15_DEAL_ELEV, PID_DRIVABLE_CAR) != 0) then begin
-            Create_Trunk(CAR_VAULT_15_DEAL_HEX, CAR_VAULT_15_DEAL_ELEV)
-         end
-      end else begin*/
-         //Check_Create_Car(CAR_VAULT_15_DEAL_HEX, CAR_VAULT_15_DEAL_ELEV)
-
       if (global_var(GVAR_CAR_PLACED_TILE) == CAR_VAULT_15_HEX) then begin
          set_global_var(GVAR_CAR_PLACED_TILE, CAR_VAULT_15_DEAL_HEX);
       end
@@ -99,9 +88,7 @@ procedure map_enter_p_proc begin
          end
       end else
          Check_Create_Car(CAR_VAULT_15_DEAL_HEX, CAR_VAULT_15_DEAL_ELEV)
-      //end added
    end else begin
-      //Check_Create_Car(CAR_VAULT_15_HEX, CAR_VAULT_15_ELEV)
 
       if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
          set_global_var(GVAR_CAR_PLACED_TILE, 0);
@@ -111,7 +98,6 @@ procedure map_enter_p_proc begin
          end
       end else
          Check_Create_Car(CAR_VAULT_15_HEX, CAR_VAULT_15_ELEV)
-      //end added
    end
    set_global_var(GVAR_LOAD_MAP_INDEX,0); //added by killap
 end

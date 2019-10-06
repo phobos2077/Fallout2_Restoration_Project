@@ -7,7 +7,6 @@
 
 #define MVAR_Fannie_Mae             (0)
 #define MVAR_Widow_Rooney           (1)
-#define MVAR_Made_Car               (2)
 #define MVAR_Attecked_Cashier       (3)
 #define MVAR_Using_Locked_Door      (4)
 #define MVAR_Rehab_Time             (5)  // Seraph's Code

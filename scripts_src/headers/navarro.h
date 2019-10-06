@@ -22,7 +22,6 @@
 #define MVAR_Exterminate                        (4)
 #define MVAR_Clean                              (5)
 #define MVAR_Secure                             (6)
-#define MVAR_Made_Car                           (7)
 #define MVAR_Open_Sesame                        (8)
 #define MVAR_Touched                            (9)
 #define MVAR_Exit                              (10)

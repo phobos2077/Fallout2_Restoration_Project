@@ -15,6 +15,5 @@
 
 //ALL Map Vars needed to start w/ MVAR_
 #define MVAR_Arthur_Leave                       (0)
-#define MVAR_Made_Car                           (1)
 
 #endif // RNDHOLY1_H

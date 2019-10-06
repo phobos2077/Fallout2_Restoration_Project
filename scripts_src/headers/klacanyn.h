@@ -30,6 +30,5 @@
 #define MVAR_Bug_Parts                          (12)
 #define MVAR_Still_Betray                       (13)
 #define MVAR_Still_Accept                       (14)
-#define MVAR_Made_Car                           (15)
 
 #endif // KLACANYN_H

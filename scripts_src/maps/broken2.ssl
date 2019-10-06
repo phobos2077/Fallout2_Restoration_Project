@@ -74,50 +74,20 @@ export variable seymour_obj;
 
 export variable Chad_Ptr; //added by killap - expansion pack
 
-/*
-variable cow_ptr;
-variable cow_hex;
-variable smiley_ptr;
-variable smiley_hex;
-*/
-
 procedure start begin
 end
 
 procedure map_enter_p_proc begin
    override_map_start_hex(21144,0,0);
 
-   //set_map_var( MVAR_Came_From_Broken2, 1 ); - comment out by killap
-
    Damage_Timer_Started := 0;
 
-   //override_map_start_hex(17945,0,2);
    if (map_first_run) then begin
        display_msg(mstr(100));
    end
 
-  /*
-  if ((map_var(MVAR_Made_Car) == 0) and (global_var(GVAR_PLAYER_GOT_CAR) != 0)) then begin
-       set_map_var(MVAR_Made_Car,1);
-       Create_Car(CAR_BROKEN_HILLS_HEX,CAR_BROKEN_HILLS_ELEV)
-  end
-  */
-
    if (global_var(GVAR_JAIL_BREAK) == JB_SUCCESSFUL) then begin
       set_global_var(GVAR_JAIL_BREAK, JB_OVER);
-/*
-      ndebug("Making Frank");
-      frank_ptr := create_object_sid(PID_MASTER_TRADER_MALE,0,0,SCRIPT_HCFRANK);
-      critter_add_trait(frank_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
-      frank_hex := 24530;
-      critter_attempt_placement(frank_ptr,frank_hex, 1);
-
-      ndebug("Making Manson");
-      manson_ptr := create_object_sid(PID_MELEE_THUG_MALE,0,0,SCRIPT_HCMANSON);
-      critter_add_trait(manson_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
-      manson_hex := 24728;
-      critter_attempt_placement(manson_ptr,manson_hex, 1);
-*/
    end
 
    if( elevation( dude_obj ) == 0 ) then

@@ -38,16 +38,6 @@ procedure map_enter_p_proc begin
        display_msg(mstr(100));
    end
 
-/*
-   if ((map_var(MVAR_Made_Car) == 0) and (global_var(GVAR_PLAYER_GOT_CAR) != 0) and (car_current_town == AREA_GECKO)) then begin
-       set_map_var(MVAR_Made_Car,1);
-       Create_Car(CAR_GECKO_HEX,CAR_GECKO_ELEV)
-   end
-   else if ((map_var(MVAR_Made_Car) == 1) and (car_current_town != AREA_GECKO)) then begin
-       set_map_var(MVAR_Made_Car,0);
-       Dest_Car(CAR_GECKO_HEX,CAR_GECKO_ELEV)
-   end
-*/
    if (global_var(GVAR_GECKO_MELTDOWN) == 2) then begin
       if ( (GAME_TIME_IN_HOURS - global_var(GVAR_GECKO_TIMER_MELTDOWN))  > 24) then begin
          call ghost_town;
@@ -55,7 +45,6 @@ procedure map_enter_p_proc begin
    end
 
    //edit by killap
-   //Lighting;
    Cavern_Lighting;
 
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
