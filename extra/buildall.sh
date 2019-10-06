@@ -15,7 +15,7 @@ function process_file() {
   set -eu -o pipefail
   f="$1"
   dst="$2"
-  script_name="$(echo "$f" | tr "[A-Z]" "[a-z]" | sed 's|\.ssl$|.int|')" # lowercase
+  script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
   gcc -E -x c -P -o "${f}.tmp" "$f" # preprocess
   wine "$bin_dir/compile.exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # compile
   rm -f "$f.tmp"
@@ -29,7 +29,7 @@ for d in $(ls $src); do
     files=""
     set +x # ok this is too verbose
     for f in $(ls | grep -i "\.ssl$"); do # build file list
-      if ! grep -qi "$d/$f" "$skip_list"; then # check if file is not on skip list. Ugly but works.
+      if ! grep -q "$d/$f" "$skip_list"; then # check if file is not on skip list. Ugly but works.
         files="$files $f"
       fi
     done
