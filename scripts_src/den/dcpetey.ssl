@@ -57,10 +57,8 @@ procedure Node990;
 #define LVAR_Gave_Money                   (7)
 #define LVAR_Should_Animate               (8)
 
-#define timed_event_float                          (3)
 #define timed_event_high                           (4)
 #define timed_event_buy_drugs                      (5)
-#define timed_event_wander                         (6)
 #define ensure_animation                           (7)
 
 /* Imported variables from the Map scripts. These should only be
