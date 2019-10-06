@@ -25,5 +25,3 @@ end
 #define timed_event_p_proc                def_timed_event_p_proc
 
 #include "../generic/zilocker.ssl"
-
-#define ENTER_CLOSE_CONDITION                (true)
