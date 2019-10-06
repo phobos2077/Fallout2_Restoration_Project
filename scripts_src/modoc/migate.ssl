@@ -41,15 +41,6 @@ procedure timed_event_p_proc begin
 
                obj_close(self_obj);
          end
-
-
-
-         /*if ((tile_distance_objs(self_obj, dude_obj) > 15) or (last_source == 0)) then begin
-            obj_close(self_obj);
-         end else if (tile_distance_objs(self_obj, last_source) > 6) then begin
-            obj_close(self_obj);
-            last_source := 0;
-         end*/
       end
    end
    mod_add_timer_event(self_obj, 10, 1);
