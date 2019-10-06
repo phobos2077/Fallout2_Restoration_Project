@@ -18,24 +18,8 @@ procedure map_enter_p_proc;
 procedure map_update_p_proc;
 procedure doRepostion;
 
-procedure start
-begin
+procedure start begin
 end
-
-procedure timed_event_p_proc begin
-   if (fixed_param == 1) then begin
-      call doRepostion;
-   end
-end
-
-procedure doRepostion begin
-   tile_set_center(19553);
-   ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(19553)); //screen will recenter on kaga
-
-   tile_set_center(tile_num(dude_obj));
-   ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
-end
-
 
 procedure map_enter_p_proc begin
    override_map_start_hex(33688,0,4);

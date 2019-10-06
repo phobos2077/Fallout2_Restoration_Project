@@ -36,9 +36,7 @@ procedure map_enter_p_proc begin
    if (map_first_run) then
       display_msg(mstr(100));
 
-   //if (global_var(GVAR_LOAD_MAP_INDEX)==12) then begin\
    override_map_start_hex(33102,0,3);
-   //end
 
    Cavern_Lighting;
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
