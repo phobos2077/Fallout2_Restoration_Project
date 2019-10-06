@@ -123,12 +123,10 @@ procedure timed_event_p_proc begin
                   stage := 3;
                   floater(random(320,321));
                   add_timer_event(self_obj,game_ticks(5),timed_event_buy_drugs);
-                  //flush_add_timer_event_sec(self_obj, game_ticks(3), timed_event_buy_drugs);
                end else if (place == 2) then begin
                   stage := 3;
                   floater(random(324,325));
                   add_timer_event(self_obj,game_ticks(5),timed_event_buy_drugs);
-                  //flush_add_timer_event_sec(self_obj, game_ticks(3), timed_event_buy_drugs);
                end
             end else if (stage == 3) then begin
                stage := 4;
@@ -173,7 +171,6 @@ procedure timed_event_p_proc begin
             end
          end
          add_timer_event(self_obj,random(150,250),timed_event_wander);
-         //flush_add_timer_event_sec(self_obj, random(5, 10), timed_event_wander);
       end else if (fixed_param == ensure_animation) then begin
           if not anim_busy(self_obj) then begin
             ndebug("ensure_animation");
@@ -208,17 +205,10 @@ procedure map_enter_p_proc begin
 
    ndebug("Home_Tile" + local_var(LVAR_Home_Tile));
 
-   //destroy_object(self_obj);
-   //if (is_loading_game == false) then begin
-      if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
-      end
-      //flush_add_timer_event_sec(self_obj, random(5,15), timed_event_high);
-      //flush_add_timer_event_sec(self_obj, random(5, 10), timed_event_wander);
-      //flush_add_timer_event_sec(self_obj, game_ticks(5), timed_event_buy_drugs);
-
-   //end
+   if (map_first_run) then begin
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
+      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   end
 
    stage := 1;
    add_timer_event(self_obj,random(800,1000),timed_event_buy_drugs);
