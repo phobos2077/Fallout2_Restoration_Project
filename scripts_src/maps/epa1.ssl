@@ -29,15 +29,11 @@ procedure timed_event_p_proc begin
 end
 
 procedure doRepostion begin
-   //game_time_advance(ONE_GAME_MINUTE);
-
    tile_set_center(19553);
    ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(19553)); //screen will recenter on kaga
 
    tile_set_center(tile_num(dude_obj));
    ndebug("ECKAGA1: tile_set_center(dude_obj): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
-
-   //ndebug("ECKAGA1: tile_set_center(16081): " + tile_set_center(tile_num(dude_obj))); //screen will recenter on kaga
 end
 
 
