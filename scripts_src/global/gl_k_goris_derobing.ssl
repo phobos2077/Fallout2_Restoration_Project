@@ -2,23 +2,20 @@
 #include "../headers/define.h"
 #include "../headers/rpu.h"
 
-variable enabled;
-
 procedure start;
 
 procedure start begin
-  variable frms;
-  frms := [
-    "madethag",
-    "marobeag"
-  ];
-
   if game_loaded then begin
-    enabled := rpu_msetting(set_goris_derobing);
-    if enabled then begin
+    variable enabled := rpu_msetting(set_goris_derobing);
+    variable fs_override := check_filesystem_override;
+    if enabled and fs_override then begin
       variable frm, file, path;
       variable fps_offset := 0x4;
       variable fps := 0x32;
+      variable frms := [
+        "madethag",
+        "marobeag"
+      ];
       ndebug("initialized");
       foreach frm in frms begin
         path := "art\\critters\\" + frm + ".frm";
