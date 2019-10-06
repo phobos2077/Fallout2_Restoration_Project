@@ -113,12 +113,6 @@ procedure Node042;
 #define gave_second_chance             lvar_bit(LVAR_Flags, gave_second_chance_bit)
 #define set_gave_second_chance         set_lvar_bit_on(LVAR_Flags, gave_second_chance_bit)
 
-//added by killap - expansion
-#define REG_HAIR                        (0)
-#define LONG_HAIR                       (1)
-#define BALD_HAIR                       (2)
-//end added
-
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
