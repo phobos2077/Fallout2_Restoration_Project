@@ -10,8 +10,6 @@
 
 #include "../headers/command.h"
 
-#define Create_Car(Hex_Num,Elevation)
-
 procedure start;
 procedure map_exit_p_proc;
 procedure map_enter_p_proc;
