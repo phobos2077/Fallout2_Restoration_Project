@@ -87,20 +87,22 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {452}{}{Sí, eres muy atractivo, pero, sinceramente, estoy un poco nervioso por hablar contigo después de lo que leí sobre que eres un psicópata asesino.}
 {453}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
 {454}{}{No está mal para un hombre de hielo. ¿Por qué estabas congelado allí, de todos modos?}
-{455}{}{Eh, you're not my type. Anyway, why were you frozen in there?}
+{455}{}{Eh, no eres mi tipo. De todos modos, ¿por qué estabas congelado allí?}
 {456}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
-{460}{}{OK, where are you getting this crap about me being a "murderous psycho"?}
-{461}{}{Don't try to bullshit me. I read about you on that computer.}
-{462}{}{That computer over there had some kind of bio on you, and it had some pretty terrible things in it.}
+{460}{}{OK, ¿de dónde sacas esta porquería de que soy un "psicópata asesino"?}
+{461}{}{-
+No trates de engañarme. Leí sobre ti en esa computadora.}
+{462}{}{Esa computadora de allí tenía algún tipo de biografía sobre ti, y tenía algunas cosas bastante terribles.}
 {463}{}{Puedo sentirlo. Pareces de esta manera.}
-{464}{}{Don't try to bullshit me. I know people like you.}
-{470}{}{Ah, now it makes sense. Look, don't worry about that, it's not what you think. I'll explain everything in a
- second. But first of all, would you mind telling me what the hell's happened since they put me on ice? I mean, this
- place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
-{471}{}{It's been over a hundred and fifty years since the great silence brought an end to the Old Ones... *your* people.}
+{464}{}{-
+No trates de engañarme. Conozco gente como tú.}
+{470}{}{Ah, ahora tiene sentido. Mira, no te preocupes por eso, no es lo que piensas. Explicaré todo en un
+ segundo. Pero antes que nada, ¿te importaría decirme qué demonios ha pasado desde que me pusieron en hielo? Quiero decir esto
+ el lugar se ha ido a la mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
+{471}{}{Han pasado más de ciento cincuenta años desde que el Gran Silencio puso fin a los Antiguos... * tu * gente.}
 {475}{}{Gran silencio? ¿Los viejos? ¿Qué tal si me ahorras esta mierda críptica y me cuentas qué pasó?}
-{476}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land. You'll find the world is nothing like the one you knew. }
-{480}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers' money, after all.}
+{476}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando los grandes incendios cayeron del cielo y chamuscaron la tierra. Encontrarás que el mundo no es como el que conociste.}
+{480}{}{No mierda, así que en realidad lanzaron las bombas, ¿eh? Supongo que el proyecto de la bóveda no fue solo un gran desperdicio del dinero de los contribuyentes, después de todo.}
 {481}{}{Espera. ¿Sabes de los Refugios sagrados?}
 {490}{}{Know of them? Hell, I used to live right by the Chicago vault. I even watched 'em finish building the thing.
  Then of course they started doing those damn drills... [He stops and regards you with amusement.] You're really eating
@@ -191,7 +193,7 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {652}{}{Oh yeah, I love that... uh, what'd you call it, The King? Yeah, huge fan.}
 {660}{}{Nevermind, bud. [Dex takes another look around the room and whistles.] This place has really gone to shit.
  How long did you say it's been?}
-{661}{}{It's been over a hundred and fifty years since the great silence brought an end to the Old Ones... *your* people.}
+{661}{}{Han pasado más de ciento cincuenta años desde que el Gran Silencio puso fin a los Antiguos... * tu * gente.}
 {665}{}{Gran silencio? ¿Los viejos? ¿Qué tal si me ahorras esta mierda críptica y me cuentas qué pasó?}
 {666}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando los grandes incendios cayeron del cielo y chamuscaron la tierra. Encontrarás que el mundo no es como el que conociste.}
 {670}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers'
@@ -251,15 +253,15 @@ and fifty years.}
 {843}{}{Sure, some girls might think you're an attractive guy, but I'm sure they're a bit put off by the murderous
  psycho vibes you're giving off.}
 {844}{}{No está mal para un hombre de hielo. ¿Por qué estabas congelado allí, de todos modos?}
-{845}{}{Eh, you're not my type. Anyway, why were you frozen in there?}
+{845}{}{Eh, no eres mi tipo. De todos modos, ¿por qué estabas congelado allí?}
 {846}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
 {850}{}{Well they usually don't see that side of me until it's too late. But anyways... [Dex takes another look around the room and whistles.]
  This place has really gone to shit. So what have I missed out on?}
-{851}{}{It's been over a hundred and fifty years since the great silence brought an end to the Old Ones... *your* people.}
+{851}{}{Han pasado más de ciento cincuenta años desde que el Gran Silencio puso fin a los Antiguos... * tu * gente.}
 {855}{}{Gran silencio? ¿Los viejos? ¿Qué tal si me ahorras esta mierda críptica y me cuentas qué pasó?}
 {856}{}{The Great Silence is what my people call the end of your world. When the great fires rained down from the sky and scorched the land.
  You'll find the world is nothing like the one you knew.}
-{860}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers' money, after all.}
+{860}{}{No mierda, así que en realidad lanzaron las bombas, ¿eh? Supongo que el proyecto de la bóveda no fue solo un gran desperdicio del dinero de los contribuyentes, después de todo.}
 {861}{}{Espera. ¿Sabes de los Refugios?}
 {870}{}{Know of them? Hell, I killed my first hooker not far from where they were building the Chicago Vault. Those were the
  days... [He stops and regards you with amusement.] You're really eating this up, aren't you?}
