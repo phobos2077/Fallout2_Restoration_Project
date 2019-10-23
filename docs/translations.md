@@ -16,4 +16,4 @@ Current languages:
 * Russian, based on [1C + Drobovik & Co](http://www.nuclear-city.com/index.php/topic/34-f2-killaps-restoration-project/).
 * Spanish, based on [translation v1.0 by ClanDLAN](http://academia.clandlan.net/?page=academia/view&id=371&title=Traduccion_Fallout_2) for Fallout 1.02d.
 
-If you want another language added into the [system](https://tra.bgforge.net/projects/fallout/rp/) so that you can translating into it, post on the [forum](https://forums.bgforge.net/viewtopic.php?f=9&t=22).
+If you want another language added into the [system](https://tra.bgforge.net/projects/fallout/rp/) so that you can start translating into it, post on the [forum](https://forums.bgforge.net/viewtopic.php?f=9&t=22).
