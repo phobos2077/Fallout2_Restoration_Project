@@ -2,6 +2,7 @@
 
 In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 
+- [Version 9](#version-9)
 - [Version 8](#version-8)
 - [Version 7](#version-7)
 - [Version 6](#version-6)
@@ -10,6 +11,21 @@ In addition to the below list, RPU releases contain all the fixes from the corre
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 9
+- General:
+  - Allowed all Kaga version to be knocked down.
+  - Added [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders) to release.
+  - Added missing "being hit" animation for Sulik in leather armor.
+  - Fixed rifle animations preventing NPCs from equiping those rifles.
+  - Fixed Kitsune being unable to equip weapons and not showing armor.
+- Den:
+  - Fixed missing orphan floats.
+- EPA:
+  - Fixed Depressed Mr. Handy causing slowdowns.
+- Modoc:
+  - Fixed being unable to resque Jonny if talked to him before starting the quest.
+  - Fixed shitty death narration being stuck.
 
 ### Version 8
 
