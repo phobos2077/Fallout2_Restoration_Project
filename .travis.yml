@@ -10,6 +10,7 @@ addons:
   apt:
     update: true
     packages:
+      - crudini
       - gcc
       - moreutils
       - p7zip
