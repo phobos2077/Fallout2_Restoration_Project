@@ -86,7 +86,7 @@ procedure timed_event_p_proc begin
          end else if (slave_is_drugged) then begin
             call Node008;
          end if (cur_map_index == MAP_NEW_RENO_4) then begin
-            if (anim_busy(self_obj) == false) then begin
+            if (obj_art_fid(self_obj) != FID_NMLOSR and anim_busy(self_obj) == false) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
                   reg_anim_animate(self_obj, ANIM_magic_hands_middle, -1);

@@ -14,10 +14,8 @@ procedure spatial_p_proc
 begin
    if (source_obj == dude_obj) then begin
       if (local_var(LVAR_Do_Once) == 0) then begin
-         if (map_var(MVAR_Sprouted) == 1) then begin
-// TODO: GVAR_EPA_SEEDS is missing. Decompiled script shows value 755, so keeping it. Need to find out what really should be here.
-//            if (global_var(GVAR_EPA_SEEDS) == BAD) then begin
-            if (global_var(GVAR_EPA_SERVICE_ELEVATOR) == BAD) then begin
+         if (map_var(MVAR_Sprouted) > 0) then begin
+            if (map_var(MVAR_Sprouted) == 2) then begin
                dude_floater(200);
             end else begin
                dude_floater(201);

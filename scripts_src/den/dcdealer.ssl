@@ -428,6 +428,7 @@ procedure map_enter_p_proc begin
 
    if (dealer == 1) then begin
       tmp := create_object(PID_DESERT_EAGLE,5,0);
+      add_obj_to_inven(self_obj, tmp);
       wield_obj(tmp);
    end
 
