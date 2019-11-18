@@ -14,7 +14,7 @@ In addition to the below list, RPU releases contain all the fixes from the corre
 
 ### Version 9
 - General:
-  - Allowed all Kaga version to be knocked down.
+  - Allowed all Kaga versions to be knocked down, for consistency.
   - Added [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders) to release package.
   - Added missing "being hit" animation for Sulik in leather armor.
   - Fixed rifle animations preventing NPCs from equiping those rifles.
