@@ -212,29 +212,28 @@ procedure critter_p_proc begin
        end
    end
 
-   else if ( (global_var(GVAR_ENEMY_ARROYO) == 1) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin //edit by killap - added (obj_can_see_obj(self_obj,dude_obj))
-       attack(dude_obj);
+   if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (global_var(GVAR_ENEMY_ARROYO) == 1) then begin
+         attack(dude_obj);
+      end
+      else if (map_var(MVAR_Stealing_From_Shaman) == 1) then begin
+         set_map_var(MVAR_Stealing_From_Shaman,2);
+         floater(300);
+      end
+      else if (map_var(MVAR_Stealing_From_Shaman) == 3) then begin
+         set_map_var(MVAR_Stealing_From_Shaman,4);
+         floater(300);
+      end
+      else if (map_var(MVAR_Stealing_From_Shaman) == 5) then begin
+         set_map_var(MVAR_Stealing_From_Shaman,6);
+         floater(301);
+         set_local_var(LVAR_Hostile,2);
+      end
+      if ((local_var(LVAR_Hostile) == 2)) then begin
+         set_local_var(LVAR_Hostile,1);
+         attack(dude_obj);
+      end
    end
-
-   else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 1)) then begin
-       set_map_var(MVAR_Stealing_From_Shaman,2);
-       floater(300);
-   end
-   else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 3)) then begin
-       set_map_var(MVAR_Stealing_From_Shaman,4);
-       floater(300);
-   end
-   else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 5)) then begin
-       set_map_var(MVAR_Stealing_From_Shaman,6);
-       floater(301);
-       set_local_var(LVAR_Hostile,2);
-   end
-
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
-       set_local_var(LVAR_Hostile,1);
-       attack(dude_obj);
-   end
-
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
