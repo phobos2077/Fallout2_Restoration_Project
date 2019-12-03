@@ -36,6 +36,16 @@
 #include "../headers/modreact.h"
 
 
+#define start_tent_dialog(condition, node) \
+   if (condition) then begin \
+       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT); \
+       gSay_Start; \
+           call node; \
+       gSay_End; \
+       end_dialogue; \
+   end
+
+
 /* Standard Script Procedures */
 procedure start;
 procedure critter_p_proc;
@@ -294,54 +304,12 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-
-   else if (Fallout2_vault13_entered) then begin //killap's fix: changed from (vault_13_visit)
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node101;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (GAME_TIME_IN_DAYS > TIME_LIMIT_4) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node031;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (GAME_TIME_IN_DAYS > TIME_LIMIT_3) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node030;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (GAME_TIME_IN_DAYS > TIME_LIMIT_2) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node029;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (GAME_TIME_IN_DAYS > TIME_LIMIT_1) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node027;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (global_var(GVAR_KILL_EVIL_PLANTS) == QUEST_ACCEPTED) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node017;
-       gSay_End;
-       end_dialogue;
-   end
+   else start_tent_dialog(Fallout2_vault13_entered, Node101)
+   else start_tent_dialog(GAME_TIME_IN_DAYS > TIME_LIMIT_4, Node031)
+   else start_tent_dialog(GAME_TIME_IN_DAYS > TIME_LIMIT_3, Node030)
+   else start_tent_dialog(GAME_TIME_IN_DAYS > TIME_LIMIT_2, Node029)
+   else start_tent_dialog(GAME_TIME_IN_DAYS > TIME_LIMIT_1, Node027)
+   else start_tent_dialog(global_var(GVAR_KILL_EVIL_PLANTS) == QUEST_ACCEPTED, Node017)
 
    else if ((global_var(GVAR_KILL_EVIL_PLANTS) == QUEST_COMPLETED) and (local_var(LVAR_One_Reward) == 0)) then begin
        set_local_var(LVAR_One_Reward,1);
@@ -352,21 +320,7 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-   else if ((global_var(GVAR_KILL_EVIL_PLANTS) == QUEST_COMPLETED) and (local_var(LVAR_One_Reward) == 1)) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node019;
-       gSay_End;
-       end_dialogue;
-   end
-
-/*   else if (local_var(LVAR_Herebefore) == 0) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
-       gSay_Start;
-           call Node000;
-       gSay_End;
-       end_dialogue;
-   end -comment out by killap */
+   else start_tent_dialog((global_var(GVAR_KILL_EVIL_PLANTS) == QUEST_COMPLETED) and (local_var(LVAR_One_Reward) == 1), Node019)
 
    else begin
        start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
