@@ -208,17 +208,14 @@ procedure critter_p_proc begin
 
    else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 1)) then begin
        set_map_var(MVAR_Stealing_From_Shaman,2);
-       //floater(218);
        floater(300);
    end
    else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 3)) then begin
        set_map_var(MVAR_Stealing_From_Shaman,4);
-       //floater(219);
        floater(300);
    end
    else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Stealing_From_Shaman) == 5)) then begin
        set_map_var(MVAR_Stealing_From_Shaman,6);
-       //floater(220);
        floater(301);
        set_local_var(LVAR_Hostile,2);
    end
