@@ -104,14 +104,15 @@ No trates de engañarme. Conozco gente como tú.}
 {476}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando los grandes incendios cayeron del cielo y chamuscaron la tierra. Encontrarás que el mundo no es como el que conociste.}
 {480}{}{No mierda, así que en realidad lanzaron las bombas, ¿eh? Supongo que el proyecto de la bóveda no fue solo un gran desperdicio del dinero de los contribuyentes, después de todo.}
 {481}{}{Espera. ¿Sabes de los Refugios sagrados?}
-{490}{}{Know of them? Hell, I used to live right by the Chicago vault. I even watched 'em finish building the thing.
- Then of course they started doing those damn drills... [He stops and regards you with amusement.] You're really eating
- this up, aren't you, babe?}
+{490}{}{¿Los conoces? Diablos, solía vivir justo al lado del refugio de Chicago. Incluso los ví construirlo.
+Y entonces, por supuesto, empezaron a hacer esas malditas excavaciones... [Para y te observa con asombro.] Te vas a comer eso,
+¿no, cariño?}
 {491}{}{¡DIME MAS ACERCA DE LAS BÓVEDAS!}
 {492}{}{Bueno, ya ves, he sido elegido por mi gente para intentar encontrar una Bóveda. Allí, espero recuperar un G.E.C.K. y
 utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que puedas decirme de las Bóvedas podría ayudarme en mi búsqueda.}
-{493}{}{Well, you see, I had been chosen by my people to try and find a Vault. I risked my life on several occasions to
- find this Holy Vault and I finally was successful in finding it. I am curious what else you might know of these places.}
+{493}{}{Verás, mi gente me había elegido para intentar encontrar un refugio. Arriesgué mi vida en varias ocasiones
+para encontrar ese dichoso refugio y finalmente logré encontrarlo. Tengo curiosidad por lo que puedas saber sobre 
+esos sitios}
 {500}{}{I'll tell you what, babe. You need help finding these Vaults, and I need someone to show me the ropes, so to speak, in this crazy world of yours. So what do you say... partner?}
 {501}{}{Dice que tenemos un trato, compañero.}
 {502}{}{Well, your knowledge of the old ones could prove quite useful to me... but, you know, there's that whole psychotic murderer thing...}
