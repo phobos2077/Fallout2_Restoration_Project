@@ -7,23 +7,25 @@ variable enabled;
 
 procedure start begin
   if game_loaded then begin
-    variable fs_override := check_filesystem_override;
     enabled := rpu_msetting(set_goris_derobing);
-    if enabled and fs_override then begin
-      variable frm, file, path;
-      variable fps_offset := 0x4;
-      variable fps := 0x32;
-      variable frms := [
-        "madethag",
-        "marobeag"
-      ];
-      ndebug("initialized");
-      foreach frm in frms begin
-        path := "art\\critters\\" + frm + ".frm";
-        file := fs_copy(path, path);
-        fs_seek(file, fps_offset);
-        fs_write_short(file, fps);
-        ndebug("set fps to " + fps + " in " + path);
+    if enabled then begin
+      variable fs_override := check_filesystem_override;
+      if fs_override then begin:
+        variable frm, file, path;
+        variable fps_offset := 0x4;
+        variable fps := 0x32;
+        variable frms := [
+          "madethag",
+          "marobeag"
+        ];
+        ndebug("initialized");
+        foreach frm in frms begin
+          path := "art\\critters\\" + frm + ".frm";
+          file := fs_copy(path, path);
+          fs_seek(file, fps_offset);
+          fs_write_short(file, fps);
+          ndebug("set fps to " + fps + " in " + path);
+        end
       end
     end
   end
