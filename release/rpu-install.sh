@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd -- "$(dirname "$BASH_SOURCE")"
+
 bdir="backup/rpu"
 mkdir -p $bdir/data
 
