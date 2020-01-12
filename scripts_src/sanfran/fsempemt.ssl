@@ -25,7 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#define SCRIPT_REALNAME "fsempemt"
+#define SCRIPT_REALNAME "femp_fsempemt"
 #include "../headers/define.h"
 //#include "../headers/ncrent.h"
 
@@ -52,8 +52,13 @@
 #define POWER_ON_CHECK          (not san_fran_flag(SF_EMPEROR_FIELD_OFF))   /* The script uses this macro to see if there is an overlying power system.
                                         If the "power" is always on then set this to 1 other wise put the check in there.*/
 #define FFIELD_PID              (PID_NS_FORCE_FIELD)   /* ex: PID_EW_FORCE_FIELD or PID_NS_FORCE_FIELD */
-#define FFIELD_TILE             (17468)   /* The tile that the foce field is on */
-#define FFIELD_ELEV             (1)       /* Elevation of the force Field */
+
+//edited for FEMP - killap
+//#define FFIELD_TILE             (17468)   /* The tile that the foce field is on */
+//#define FFIELD_ELEV             (1)       /* Elevation of the force Field */
+
+#define FFIELD_TILE             (17448)   /* The tile that the foce field is on */
+#define FFIELD_ELEV             (0)       /* Elevation of the force Field */
 
 #define NOTIFY_THRESH           (3)  /* When to set the below notification flags. */
 
@@ -73,7 +78,7 @@
 
 #define TRAPS_PENALTY           (-20)
 #define SCIENCE_PENALTY         (-40)
-#define TOOL_BONUS              (SCIENCE_PENALTY + 20 + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20))
+#define TOOL_BONUS              (SCIENCE_PENALTY + 20)
 
 #include "../headers/genffld.h"
 
@@ -220,7 +225,7 @@ procedure use_obj_on_p_proc begin
 
    if ( ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) and (not FIELD_DESTROYED) ) then begin //added super_tool_kit - killap
       script_overrides;
-      if (skill_success(source_obj,SKILL_REPAIR,TOOL_BONUS)) then begin //edit by killap: was SKILL_SCIENCE
+      if (skill_success(source_obj,SKILL_SCIENCE,TOOL_BONUS)) then begin
          if (FIELD_ON) then begin
             SET_FIELD_DELAY;
             if (source_obj == dude_obj) then begin
@@ -272,8 +277,6 @@ procedure damage_p_proc begin
    end else begin
       SET_FIELD_FLICKER;
    end
-
-   set_san_fran_flag(SF_SHI_ENEMY); //added by killap
 
    if (MAP_NOTIFY != -1) then begin
       set_map_var(MAP_NOTIFY, 2);

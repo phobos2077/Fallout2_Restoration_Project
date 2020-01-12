@@ -18,7 +18,7 @@
 
 
 /* Include Files */
-#define SCRIPT_REALNAME "figuntbl"
+#define SCRIPT_REALNAME "femp_figuntbl"
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_FIGUNTBL
@@ -45,7 +45,6 @@ procedure validHandle(variable handle);
    prepended by LVAR_
 *****************************************************************/
 #define LVAR_Restock_Time                         (0)
-#define LVAR_Restock_Time_Fix                     (1) //added by killap
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -67,11 +66,10 @@ import variable i_gun_merchant;
 //#define TABLE_2 27660
 //#define TABLE_3 20059
 
-//edited for expansion maps - killap
-#define TABLE_1 26858
-#define TABLE_2 28058
+//edited for FEMP - killap
+#define TABLE_1 26859
+#define TABLE_2 28059
 //#define TABLE_3 20059
-
 
 /*******************************************************************
    The start procedure is the first procedure called when the map is
@@ -150,21 +148,13 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   //added by killap
+      //added by killap
    variable tmp;
    variable special_item;
    //end added
 
    if (validHandle(i_gun_merchant)) then begin
       ndebug("self_tile: " + self_tile);
-
-      //added by killap - fix for game_time going negative after 7 years
-      if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
-         set_local_var(LVAR_Restock_Time, game_time - 1);
-         set_local_var(LVAR_Restock_Time_Fix, 1);
-      end
-      //end added
-
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (self_tile == TABLE_1) then begin //Armor table
 
@@ -713,13 +703,13 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_HK_CAWS, 1, 5, 40)
             check_restock_item(PID_HK_P90C, 1, 2, 55)
             check_restock_item(PID_44_MAGNUM_REVOLVER, 1, 3, 46)
-            check_restock_item(PID_BOZAR, 1, 1, 30) //edit by killap - had a 0% chance to restock 0 of them
+            check_restock_item(PID_BOZAR, 0, 0, 0)
             check_restock_item(PID_LIGHT_SUPPORT_WEAPON, 1, 1, 45)
             check_restock_item(PID_FN_FAL_HPFA, 1, 3, 50)
             check_restock_item(PID_HK_G11, 1, 4, 75)
             check_restock_item(PID_PANCOR_JACKHAMMER, 1, 2, 45)
             check_restock_item(PID_AVENGER_MINIGUN, 1, 1, 35)
-            check_restock_item(PID_HK_G11E, 1, 1, 30) //edit by killap - was PID_HK_G11; dup didn't make sense
+            check_restock_item(PID_HK_G11, 1, 1, 30)
             check_restock_item(PID_M72_GAUSS_RIFLE, 1, 1, 30)
             check_restock_item(PID_PK12_GAUSS_PISTOL, 1, 1, 30)
             check_restock_item(PID_VINDICATOR_MINIGUN, 1, 1, 30)

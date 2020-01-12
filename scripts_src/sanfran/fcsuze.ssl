@@ -28,7 +28,7 @@
 #define NPC_REACTION_TYPE       REACTION_TC
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
-#define SCRIPT_REALNAME "fcsuze"
+#define SCRIPT_REALNAME "femp_fcsuze"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 
@@ -75,7 +75,6 @@ procedure Node009;
 
 #define SUZE_SAVED          san_fran_flag(SF_SUZE_SAVED)
 
-// edit for expansion maps - killap
 //#define SAVE_TILE        13498
 //#define SAVE_TILE1       21283
 //#define BADGER_GIRL_TILE 21082
@@ -329,26 +328,12 @@ procedure Node003 begin
    ENDOPTION;
 end
 
-/*procedure Node004 begin
+procedure Node004 begin
    Reply(113);
    NOption(114, Node008, 4);
    NOption(115, Node005, 4);
    NOption(116, Node999, 4);
-end*/
-
-//new code by killap
-procedure Node004 begin
-   Reply(113);
-
-   if (badger_flag(BADGER_GFRIEND2)) then begin
-      NOption(114, Node008, 4);
-      NOption(115, Node005, 4);
-      NOption(127, Node999, 4);
-   end else begin
-      NOption(116, Node999, 4);
-   end
 end
-//end
 
 procedure Node005 begin
    Reply(117);

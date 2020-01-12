@@ -25,7 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#define SCRIPT_REALNAME "fcoz7"
+#define SCRIPT_REALNAME "femp_fcoz7"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 
@@ -189,7 +189,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin //edit by killap: was (local_var(LVAR_Hostile) == 1)
+   if ((local_var(LVAR_Hostile) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -790,7 +790,7 @@ end
 //#define OZ7_ADJUST_TILE  9308
 //#define OZ7_ADJUST_ROT   2
 
-//edit for expansion maps - killap
+//edit for FEMP - killap
 #define DUDE_ADJUST_TILE 9910
 #define DUDE_ADJUST_ROT  5
 #define OZ7_ADJUST_TILE  9508
