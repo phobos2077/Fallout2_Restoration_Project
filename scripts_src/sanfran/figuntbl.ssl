@@ -45,6 +45,7 @@ procedure validHandle(variable handle);
    prepended by LVAR_
 *****************************************************************/
 #define LVAR_Restock_Time                         (0)
+#define LVAR_Restock_Time_Fix                     (1)
 
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
@@ -147,6 +148,14 @@ procedure map_enter_p_proc begin
 
    if (validHandle(i_gun_merchant)) then begin
       ndebug("self_tile: " + self_tile);
+
+      //added by killap - fix for game_time going negative after 7 years
+      if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
+         set_local_var(LVAR_Restock_Time, game_time - 1);
+         set_local_var(LVAR_Restock_Time_Fix, 1);
+      end
+      //end added
+
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (self_tile == TABLE_1) then begin //Armor table
 
