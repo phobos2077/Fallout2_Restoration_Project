@@ -559,17 +559,17 @@ procedure Node002 begin
    turnFieldOff := 1;
    set_san_fran_flag(SF_LEE_OK_FUEL_TANKER);
    Reply(114);
-   NLowOption(115, Node999); //edit by killap
+   NLowOption(115, Node999);
 end
 
 procedure Node003 begin
    Reply(116);
-   NLowOption(117, Node999); //edit by killap
+   NLowOption(117, Node999);
 end
 
 procedure Node004 begin
    Reply(118);
-   NLowOption(119, Node999); //edit by killap
+   NLowOption(119, Node999);
 end
 
 procedure Node89 begin
