@@ -25,7 +25,7 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#define SCRIPT_REALNAME "femp_fcoz7"
+#define SCRIPT_REALNAME "fcoz7"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 
@@ -189,7 +189,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -234,19 +234,11 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   //Temp
-//   set_elron_flag(EL_SPOKEN);
-   //Temp
-
    if (san_fran_flag(SF_ELRON_ENEMY)) then begin
       call Node001;
    end else if (elron_flag(EL_REJECTED)) then begin
-      //if (not map_var(MVAR_Force_Fields_Lower)) then
-      //   set_map_var(MVAR_Force_Fields_Lower, 1);
-      //edit by killap
       if (map_var(MVAR_Force_Fields_Lower) == 1) then
          set_map_var(MVAR_Force_Fields_Lower, 0);
-      //end edit
       call Node039;
    end else if (elron_flag(EL_SPOKEN)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
@@ -710,7 +702,6 @@ procedure Node029 begin
       NOption(230, Node020, 4);
    end
    NOption(197, Node999, 4);
-//   NOption(198, Node998a, 4);
 end
 
 procedure Node030 begin
@@ -785,12 +776,7 @@ procedure doForceFieldOff begin
    set_map_var(MVAR_Force_Fields_Lower, 1);
 end
 
-//#define DUDE_ADJUST_TILE 9910
-//#define DUDE_ADJUST_ROT  5
-//#define OZ7_ADJUST_TILE  9308
-//#define OZ7_ADJUST_ROT   2
 
-//edit for FEMP - killap
 #define DUDE_ADJUST_TILE 9910
 #define DUDE_ADJUST_ROT  5
 #define OZ7_ADJUST_TILE  9508
@@ -860,14 +846,7 @@ procedure doAdjustEnd begin
       set_critter_stat(dude_obj, STAT_lu, -1);
    end
 
-//   move_to(dude_obj, dude_last_tile, 0);
    move_to(self_obj, self_last_tile, 0);
-
-/*   reg_anim_clear(dude_obj);
-   reg_anim_begin();
-   anim(dude_obj, ANIMATE_ROTATION, dude_last_rot);
-   reg_anim_end();*/
-
    reg_anim_clear(self_obj);
    reg_anim_begin();
    anim(self_obj, ANIMATE_ROTATION, self_last_rot);
@@ -876,4 +855,3 @@ procedure doAdjustEnd begin
    game_ui_enable;
    fadein(1);
 end
-//xxxxxxxxxxxxxxxxxxxx

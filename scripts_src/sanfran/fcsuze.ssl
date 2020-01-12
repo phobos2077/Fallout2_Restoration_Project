@@ -28,7 +28,7 @@
 #define NPC_REACTION_TYPE       REACTION_TC
 #define NPC_REACTION_VAR        7 /* same as thief variable */
 
-#define SCRIPT_REALNAME "femp_fcsuze"
+#define SCRIPT_REALNAME "fcsuze"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 
@@ -75,12 +75,6 @@ procedure Node009;
 
 #define SUZE_SAVED          san_fran_flag(SF_SUZE_SAVED)
 
-//#define SAVE_TILE        13498
-//#define SAVE_TILE1       21283
-//#define BADGER_GIRL_TILE 21082
-//#define SAVE_ME_TILE     13454
-
-//redone for FEMP - killap
 #define SAVE_TILE        14698
 #define SAVE_TILE1       21282
 #define BADGER_GIRL_TILE 21082
@@ -369,7 +363,3 @@ procedure Node009 begin
    Reply(135);
    ENDOPTION;
 end
-
-
-
-//xxxxxxxxxxxxxxxxxxxx
