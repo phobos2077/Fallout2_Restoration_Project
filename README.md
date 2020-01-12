@@ -20,7 +20,7 @@ This is an updated version of [killap's Restoration Project](http://killap.net/)
 1. Start with a clean humongous installation of the game.
 1. Download the latest RPU [release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest).
 1. Extract the archive into the main game directory, overwriting files when asked.
-1. **Launch `rpu-install.bat` (or `rpu-install.sh`, if you're on Linux/MacOS).**
+1. **Launch** `rpu-install.bat` (or `rpu-install.sh`, if you're on Linux/MacOS).
 1. See `mods/rpu.ini` for various settings that can be configured.
 
 **Notes:**
