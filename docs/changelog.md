@@ -1,5 +1,7 @@
 ## Changelog
 
+This file lists changes for RPU only. See original RP changelog [here](docs/rp-changelog.txt).
+
 In addition to the below list, RPU releases contain all the fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 
 - [Version 9](#version-9)

@@ -14,6 +14,8 @@
 
 This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
 
+[Original readme](docs/rp-readme.txt), [new content description](docs/rp-new_content.txt) (spoilers).
+
 ### Installation
 1. Start with a clean humongous installation of the game.
 1. Download the latest RPU [release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest).
