@@ -11,6 +11,7 @@ addons:
     update: true
     packages:
       - crudini
+      - dos2unix
       - gcc
       - moreutils
       - p7zip
