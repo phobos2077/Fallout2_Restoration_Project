@@ -30,7 +30,7 @@ In addition to the below list, RPU releases contain all applicable fixes from th
 - San Francisco
   - Fixed bug with being unable to disable force field to Shi emperor.
   - Added previously missing UP fixes:
-    - Suzy in will properly turn hostile upon pickpocket.
+    - AHS-7 will properly turn hostile upon pickpocket.
     - Emperor force field is disabled with Repair, not Science.
     - Blowing up Emperor field emitter will set Shi hostile.
     - Badger will stock Bozar and G11E.
