@@ -13,14 +13,13 @@
 * [Walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm)
 
 This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
-
-[Original readme](docs/rp-readme.txt), [new content description](docs/rp-new_content.txt) (spoilers).
+[Original readme](docs/rp-readme.txt), new content [description](docs/rp-new_content.txt) (spoilers).
 
 ### Installation
 1. Start with a clean humongous installation of the game.
 1. Download the latest RPU [release](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest).
 1. Extract the archive into the main game directory, overwriting files when asked.
-1. **Launch** `rpu-install.bat` (or `rpu-install.sh`, if you're on Linux/MacOS).
+1. **Launch** `rpu-install.bat` (or `rpu-install.sh / rpu-install.command`, if you're on Linux/MacOS).
 1. See `mods/rpu.ini` for various settings that can be configured.
 
 **Notes:**
