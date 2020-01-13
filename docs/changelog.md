@@ -27,7 +27,7 @@ In addition to the below list, RPU releases contain all applicable fixes from th
   - The drug dealer and his bodyguard now receive/equip their weapons at the first time the player enters the Den Residential map.
 - EPA
   - Planted seed will now properly grow in the green level.
--- San Francisco
+- San Francisco
   - Fixed bug with being unable to disable force field to Shi emperor.
   - Added previously missing UP fixes:
     - Suzy in will properly turn hostile upon pickpocket.
