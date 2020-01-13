@@ -4,6 +4,7 @@ This file lists changes for RPU only. See original RP changelog [here](rp-change
 
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 
+- [Version 10](#version-10)
 - [Version 9](#version-9)
 - [Version 8](#version-8)
 - [Version 7](#version-7)
@@ -14,18 +15,39 @@ In addition to the below list, RPU releases contain all applicable fixes from th
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
+### Version 10
+- General
+  - Disabled `AIBestWeaponFix` by default, as it's not much of a fix.
+  - Fixed Goris de-robing script so that it'll actually enable `UseFileSystemOverride` when necessary.
+  - Fixed sound path correction in the installation script.
+  - Added a `.command` installation script for Mac OSX users.
+- Arroyo
+  - Plant/corn from EPA seeds gets placed on the correct elevation now.
+- Den
+  - The drug dealer and his bodyguard now receive/equip their weapons at the first time the player enters the Den Residential map.
+- EPA
+  - Planted seed will now properly grow in the green level.
+-- San Francisco
+  - Fixed bug with being unable to disable force field to Shi emperor.
+  - Added previously missing UP fixes:
+    - Suzy in will properly turn hostile upon pickpocket.
+    - Emperor force field is disabled with Repair, not Science.
+    - Blowing up Emperor field emitter will set Shi hostile.
+    - Badger will stock Bozar and G11E.
+    - Badger will keep re-stocking after 7 years.
+
 ### Version 9
-- General:
+- General
   - Allowed all Kaga versions to be knocked down, for consistency.
   - Added [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders) to release package.
   - Added missing "being hit" animation for Sulik in leather armor.
   - Fixed rifle animations preventing NPCs from equiping those rifles.
   - Fixed Kitsune being unable to equip weapons and not showing armor.
-- Den:
+- Den
   - Fixed missing orphan floats.
-- EPA:
+- EPA
   - Fixed Depressed Mr. Handy causing slowdowns.
-- Modoc:
+- Modoc
   - Fixed being unable to resque Jonny if talked to him before starting the quest.
   - Fixed shitty death narration being stuck.
 
@@ -51,7 +73,7 @@ Fixed more packaging artefacts.
 
 ### Version 4
 
-Added missing scripts.lst.
+Added missing `scripts.lst`.
 
 ### Version 3
 
