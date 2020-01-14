@@ -116,44 +116,33 @@ esos sitios}
 {500}{}{I'll tell you what, babe. You need help finding these Vaults, and I need someone to show me the ropes, so to speak, in this crazy world of yours. So what do you say... partner?}
 {501}{}{Dice que tenemos un trato, compañero.}
 {502}{}{Well, your knowledge of the old ones could prove quite useful to me... but, you know, there's that whole psychotic murderer thing...}
-{503}{}{I don't think I'm too eager to go gallivanting around the wasteland with a psychotic murderer. So you're on your
- own, "babe". Don't worry, I'm sure you'll be just fine. [snicker.]}
-{510}{}{Hey, like I told you, I can explain. Everything you read about me was complete bullshit. Don't you buy a word of it.}
-{511}{}{Hey, like I told you, I can explain. These evil vibes you are getting from me are the result of the scientists who
- experimented on me.}
-{512}{}{But that doesn't make any sense. What was done to you?}
-{513}{}{Bullshit. I think it's time I shut you up for good.}
+{503}{}{No creo que esté demasiado ansioso por andar vagando por el desierto con un asesino psicótico. Entonces estás en tu
+ propio, "cariño". No te preocupes, estoy seguro de que estarás bien. (risa disimulada)
+}
+{510}{}{Oye, como te dije, puedo explicarte. Todo lo que leíste sobre mí fue una mierda total. No compres una palabra de eso.}
+{511}{}{Oye, como te dije, puedo explicarte. Estas malas vibraciones que estás obteniendo de mí son el resultado de los científicos quienes experimentaron en mí.}
+{512}{}{Pero eso no tiene ningún sentido. ¿Qué te hicieron?.}
+{513}{}{Mierda. Creo que es hora de que te calle para siempre.}
 {514}{}{Pero no tiene sentido, porque ellos mentirían acerca de ti?}
-{515}{}{The only bullshit around here is what's spewing out of your mouth and I think it's time I shut you up for good.}
-{520}{}{Hey, I know it doesn't seem to make a lot of sense, but have you looked around this place? There's not much sense to be made around here. Who knows what goes on in the fucked up minds of these scientists.}
-{521}{}{Hmm... you've got a point there. I'm not saying I believe you... but I suppose I can at least hear you out.}
+{515}{}{La única mierda que hay por aquí es lo que sale de tu boca, y creo que es hora de que te calle para siempre.}
+{520}{}{Oye, sé que no parece tener mucho sentido, pero ¿has mirado alrededor de este lugar? No hay mucho sentido por aquí. Quién sabe lo que sucede en las jodidas mentes de estos científicos.}
+{521}{}{Hmm ... tienes un punto allí. No digo que te crea ... pero supongo que al menos puedo escucharte.}
 {522}{}{Sí, no es broma. Continuar...}
-{530}{}{Alright, you see, it's all part of their "experiments". These crazy fucking doctors were doing some kind of tests
- on the "nature of human evil" or some crap. They were injecting me with the memories of a maniac, in order to see how
- it would effect the personality of a normal person. At least, that's the best I could figure it.}
+{530}{}{De acuerdo, ya ves, todo es parte de sus "experimentos". Estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me estaban inyectando los recuerdos de un maníaco, para ver cómo afectaría la personalidad de una persona normal. Al menos, eso es lo mejor que pude entender.}
 {531}{}{Bueno ... si eso es verdad, entonces es terrible. Pero, ¿qué hizo que te eligieran como sujeto de prueba en primer lugar?}
-{532}{}{Awe, you poor thing. Well, that's all the in past now. Those terrible men are long dead and won't be able to
- hurt you anymore. Come along with me and we'll get out of this place.}
-{540}{}{Heh, you see that's the funny thing. *I* actually came to *them*. Answered an add they put out saying they'd pay
- big bucks for healthy test subjects. I needed the money, and, well, it turned out to be the worst mistake of my life.
- I can't even begin to tell you the horrors they subjected me to. [His eyes shimmer with tears as he reflects. He sighs
- deeply and wipes the tears away.] Anyway, thanks to you, }
-{541}{}{, finalmente estoy libre de esa pesadilla.}
+{532}{}{Asombroso, pobrecito. Bueno, eso esta todo en el pasado ahora. Esos hombres terribles están muertos hace mucho tiempo y no podrán lastimarte jamás. Ven conmigo y saldremos de este lugar.}
+{540}{}{Je, ya ves que es lo gracioso. Yo, realmente vine a  "ellos". Respondieron un anuncio que publicaron diciendo que pagarían mucho dinero para sujetos de prueba sanos. Necesitaba el dinero y... bueno, resultó ser el peor error de mi vida. Ni siquiera puedo comenzar a contarte los horrores a los que me sometieron. [Sus ojos brillan con lágrimas mientras reflexiona. Él suspira profundamente y limpia las lágrimas.] De todos modos, gracias a ti.}
+{541}{}{Finalmente estoy libre de esa pesadilla.}
 {542}{}{Eh. Bien, me alegra poder ayudar... Yo creo.}
 {543}{}{En realidad, gilipollas, tu pesadilla acaba de empezar, porque no voy a comprar una palabra de esto.}
-{550}{}{So how 'bout it, babe? Can we partner up? Not only do I bring my striking good looks to the table, but I can
- handle myself in a fight. Hell, I'd be alright with going solo, but I've got no clue what kind of crazy shit is
- lurking out there now. For all I know, the first tree I piss on could open up its mouth and bite my cock off.}
-{551}{}{Alright, you can travel with me, but I'm gonna keep a close eye on you. The second you even think about
- stepping out of line, I'll put you down. }
+{550}{}{Entonces, ¿qué tal, bebé? ¿Podemos asociarnos? No solo traigo mi aspecto atractivo a la mesa, sino que puedo manejarme en una pelea. Demonios, estaría bien yendo solo, pero no tengo idea de qué tipo de mierda loca está acechando ahora. Por lo que sé, el primer árbol en el que meo podría abrir su boca y morderme la polla.}
+{551}{}{Bien, puedes viajar conmigo, pero te vigilaré de cerca. En el segundo en que piensas saliendo de la línea, te mato.}
 {552}{}{Claro, supongo que podríamos asociarnos. Bienvenido al equipo, Dex.}
 {553}{}{Esa fue una maldita buena historia, y no eres un mal actor, lo que te hace aún más peligroso. Creo que le haré un favor a los páramos y te eliminaré antes de que puedas hacer más daño.}
-{554}{}{Dice que tenemos un trato... compañero. }
-{555}{}{Well, your knowledge of the old ones could prove quite useful to me... I suppose you've got a deal.}
-{556}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "babe".}
-{560}{}{[Dex's grin falters and his eyes become unfocused. After a moment, he begins speaking without meeting your eyes.]
- I was one of their sick experiments. They did... terrible things to me. [He shakes his head, then looks at you with a renewed grin.]
- Anyway, I'd much rather talk about you, babe.}
+{554}{}{Yo digo que tienes un trato ... compañero.}
+{555}{}{Bueno, tu conocimiento de los viejos podría ser muy útil para mí ... Supongo que tienes un trato.}
+{556}{}{Realmente no tengo tiempo para "mostrarte las cuerdas". Estoy seguro de que lo harás bien por tu cuenta, "cariño".}
+{560}{}{[La sonrisa de Dex vacila y sus ojos se vuelven desenfocados. Después de un momento, comienza a hablar sin mirarlo a los ojos.] Fui uno de sus enfermos experimentos. Me hicieron ... cosas terribles. [Sacude la cabeza, luego te mira con una sonrisa renovada.] De todos modos, prefiero hablar de ti.}
 {561}{}{Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel--}
 {562}{}{Mira, Dex, podría ayudarte, pero me gustaría saber con quién estoy tratando. ¿Qué te hicieron exactamente?}
 {570}{}{Wow, that's real interesting, babe, and I can't wait to hear more about you. Honest. But first of all, how 'bout you fill me in on what the hell happened since they put me on ice.
@@ -277,8 +266,8 @@ and fifty years.}
 {882}{}{I don't know, Dex. Let's just say I let you come along with me, and we make it back to the remote safety of a settlement.
  Once there, how do I know you won't try and slit my throat the first chance you get?}
 {883}{}{Dice que tenemos un trato, compañero.}
-{884}{}{Well, your knowledge of the old ones could prove quite useful to me... I suppose you've got a deal.}
-{885}{}{I don't really have the time to "show you the ropes". I'm sure you'll do just fine on your own, "babe".}
+{884}{}{Bueno, tu conocimiento de los viejos podría ser muy útil para mí ... Supongo que tienes un trato.}
+{885}{}{Realmente no tengo tiempo para "mostrarte las cuerdas". Estoy seguro de que lo harás bien por tu cuenta, "cariño".}
 {890}{}{I can tell you're no saint either, so I could ask you the same thing. But to answer your question, I wouldn't kill
  you because that'd fuck me over. I'll be honest, }
 {891}{}{, I don't give a fuck about anyone, or anything, except for myself. If the world is as fucked up as you say it is,
