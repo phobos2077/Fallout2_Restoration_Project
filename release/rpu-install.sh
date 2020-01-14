@@ -41,5 +41,6 @@ cp fallout2.cfg $bdir/
 sed -i.bak 's|music_path1=.*|music_path1=data\\sound\\music\\|' fallout2.cfg
 sed -i.bak 's|music_path2=.*|music_path2=sound\\music\\|' fallout2.cfg
 rm -f fallout2.cfg.bak
+rm -f -- rpu-install.bat rpu-install.command rpu-install.sh
 
 echo "RPU installed. Backup is in $bdir."
