@@ -10,6 +10,7 @@ custom_ini="$extra_dir/publish/ddraw.ini"
 sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
 files="
 ddraw.dll
+ddraw.ini
 sfall.dat
 sfall-mods.ini
 data/scripts/gl_highlighting.int
