@@ -63,8 +63,8 @@ import variable i_gun_merchant;
 /*******************************************************************
 *******                         PROCEDURES                   *******
 *******************************************************************/
-#define TABLE_1 26859
-#define TABLE_2 28059
+#define TABLE_1 26858
+#define TABLE_2 28058
 
 /*******************************************************************
    The start procedure is the first procedure called when the map is
