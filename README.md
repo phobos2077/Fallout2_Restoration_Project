@@ -7,7 +7,7 @@
 [__Download__](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
 | [__Install__](#installation)
 | [__Report issues__](#reporting-issues)
-| [Translate](#translations)
+| [__Translate__](#translations)
 
 This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
 
