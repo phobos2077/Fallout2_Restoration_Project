@@ -27,5 +27,5 @@ mv "$release_dir/sfall-mods.ini" "$release_dir/mods/"
 
 crudini --merge "$release_ini" < "$custom_ini"
 crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02d  RP 2.3.3${uversion}"
-sed -i "s|^\([[:alnum:]]\+\) = |\1=|" # crudini adds spaces arouns the values, need to remove them
+sed -i "s|^\([[:alnum:]]\+\) = |\1=|" "$release_ini" # crudini adds spaces arouns the values, need to remove them
 unix2dos "$release_ini"
