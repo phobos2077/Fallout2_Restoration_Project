@@ -41,5 +41,5 @@ ren tmp2.cfg fallout2.cfg
 
 echo RPU installed. Backup is in %bdir%
 pause
-del /s rpu-install.sh rpu-install.bat > nul 2>&1
+del /s rpu-install.sh rpu-install.bat rpu-install.command > nul 2>&1
 (goto) 2>nul & del "%~f0"
