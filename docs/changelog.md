@@ -3,7 +3,10 @@
 This file lists changes for RPU only. See original RP changelog [here](rp-changelog.txt).
 
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
+Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 12](#version-12)
+- [Version 11](#version-11)
 - [Version 10](#version-10)
 - [Version 9](#version-9)
 - [Version 8](#version-8)
@@ -14,6 +17,16 @@ In addition to the below list, RPU releases contain all applicable fixes from th
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 12
+ - Fixed incorrect `WorldMapSlots` placement in `ddraw.ini`.
+ - Fixed re-stocking Red 888 Guns (introduced in v11).
+ - Fixed `rpu-install.command` being left out on cleanup.
+
+### Version 11
+ - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/32) custom `ddraw.ini` configuration.
+ - [Removed](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/issues/35) old workarounds for 'too many items'.
+ - Moved more ini files into `mods` directory.
 
 ### Version 10
 - General
