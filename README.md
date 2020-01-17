@@ -11,7 +11,7 @@
 
 This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
 
-Docs: [changelog](docs/changelog.md), [original readme](docs/rp-readme.txt), [new content description](docs/rp-new_content.txt) (spoilers), [walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm) (more spoilers), [credits](docs/credits.md).
+Docs: [changelog](docs/changelog.md), [original readme](docs/rp-readme.txt), [new content description](docs/rp-new_content.txt) (spoilers), [walkthrough](http://hem.bredband.net/darek1/f2rp_wt.htm) (heavy spoilers), [credits](docs/credits.md).
 
 ### Installation
 1. Start with a clean humongous installation of the game.
