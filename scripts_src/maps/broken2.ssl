@@ -48,11 +48,6 @@ variable manson_hex;
 variable Damage_Timer_Started := 0;
 variable damage;
 
-/*#define wearing_protective_gear(x)  ( ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_POWERED_ARMOR ) or \
-                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_HARDENED_POWER_ARMOR ) or \
-                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR ) or \
-                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) )*/
-//edited below for expansion - killap
 #define wearing_protective_gear(x)  ( ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_POWERED_ARMOR ) or \
                                       ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_HARDENED_POWER_ARMOR ) or \
                                       ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR ) or \
@@ -147,67 +142,14 @@ procedure timed_event_p_proc begin
    end
 end
 
+//radon damage
 procedure CauseDamage begin
-   variable dmg;
-
-   // This function is meant to apply the mine's Radon damage to
-   // unprotected party members in the mine.
-   if( not( wearing_protective_gear( dude_obj ) ) ) then begin
-      apply_radon_damage( dude_obj )
-   end
-   if (Vic_In_Party) then begin
-      if( not( wearing_protective_gear( Vic_Ptr ) ) ) then begin
-         apply_radon_damage( Vic_Ptr )
-      end
-   end
-   if (Myron_In_Party) then begin
-      if( not( wearing_protective_gear( Myron_Ptr ) ) ) then begin
-         apply_radon_damage( Myron_Ptr )
-      end
-   end
-   if (Marcus_In_Party) then begin
-      if( not( wearing_protective_gear( Marcus_Ptr ) ) ) then begin
-         apply_radon_damage( Marcus_Ptr )
-      end
-   end
-   if (MacRae_In_Party) then begin
-      if( not( wearing_protective_gear( MacRae_Ptr ) ) ) then begin
-         apply_radon_damage( MacRae_Ptr )
-      end
-   end
-   if (Sulik_In_Party) then begin
-      if( not( wearing_protective_gear( Sulik_Ptr ) ) ) then begin
-         apply_radon_damage( Sulik_Ptr )
-      end
-   end
-   if (Lenny_In_Party) then begin
-      if( not( wearing_protective_gear( Lenny_Ptr ) ) ) then begin
-         apply_radon_damage( Lenny_Ptr )
-      end
-   end
-   if (Cyberdog_In_Party) then begin
-      if( not( wearing_protective_gear( Cyberdog_Ptr ) ) ) then begin
-         apply_radon_damage( Cyberdog_Ptr )
-      end
-   end
-   if (Doc_In_Party) then begin
-      if( not( wearing_protective_gear( Doc_Ptr ) ) ) then begin
-         apply_radon_damage( Doc_Ptr )
-      end
-   end
-   if (Goris_In_Party) then begin
-      if( not( wearing_protective_gear( Goris_Ptr ) ) ) then begin
-         apply_radon_damage( Goris_Ptr )
-      end
-   end
-   if (Davin_In_Party) then begin
-      if( not( wearing_protective_gear( Davin_Ptr ) ) ) then begin
-         apply_radon_damage( Davin_Ptr )
-      end
-   end
-   if (Miria_In_Party) then begin
-      if( not( wearing_protective_gear( Miria_Ptr ) ) ) then begin
-         apply_radon_damage( Miria_Ptr )
+   variable dmg, who;
+   foreach who in party_member_list_critters begin
+      if not wearing_protective_gear(who)
+         and critter_kill_type(who) != KILL_TYPE_robot_kills
+      then begin
+         apply_radon_damage(who)
       end
    end
 end
