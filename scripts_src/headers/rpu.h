@@ -55,7 +55,7 @@ end
     variable armor := create_object(style_item_pid,0,0); \
     add_obj_to_inven(dude_obj,armor); \
     wield_obj_critter(dude_obj, armor); \
-    refresh_pc_art;
+    refresh_pc_art; \
   end
 
 procedure doVaultBoxerAppearance begin
