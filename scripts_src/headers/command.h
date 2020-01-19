@@ -18,7 +18,7 @@
 
 // include files that are needed after other declarations are made.
 #include "reppoint.h"
-#include "rpu.h"
+
 
 /*********************************************************
  General interaction dealing with the dude
@@ -177,7 +177,7 @@ variable step_tile;
                                                          if (anim_busy(self_obj) == false) then begin                                                                                           \
                                                             FAIL_STEP_ACTION                                                                                                                    \
                                                          end                                                                                                                                    \
-                                                      end else if ((tile_distance(self_tile, the_tile)) < (tile_distance(dest_tile, the_tile))) then begin                                        \
+                                                      end else if ((tile_distance(self_tile, the_tile)) < (tile_distance(dest_tile, the_tile))) then begin                                      \
                                                          reg_anim_clear(self_obj);                                                                                                              \
                                                       end                                                                                                                                       \
                                                    end
@@ -1240,101 +1240,5 @@ variable removed_qty;
 #define set_raiders_scout_left                        set_gvar_bit_on(GVAR_RAIDERS_FLAGS, raiders_scout_left_bit)
 //end added by killap
 // raiders macros end
-
-
-/* Not sure it command.h is the best place for generic procedures, but for now storing them here */
-procedure create_and_use_itempid_on(variable target, variable itempid) begin
-   variable item;
-   item := create_object(itempid, tile_num(target), elevation(target));
-   set_self(target);
-   set_self(target);
-   use_obj_on_obj(item, target);
-   set_self(0);
-end
-
-procedure is_human(variable who) begin
-   variable type;
-   type := critter_kill_type(who);
-   if type == KILL_TYPE_men_kills or type == KILL_TYPE_women_kills or type == KILL_TYPE_children_kills then return true;
-   return false;
-end
-
-
-procedure is_lockpick_elec(variable item) begin
-   switch (obj_pid(item)) begin
-      case PID_ELECTRONIC_LOCKPICKS: return true;
-      case PID_ELEC_LOCKPICK_MKII: return true;
-      default: return false;
-   end
-end
-procedure is_lockpick_mech(variable item) begin
-   switch (obj_pid(item)) begin
-      case PID_LOCKPICKS: return true;
-      case PID_EXP_LOCKPICK_SET: return true;
-      default: return false;
-   end
-end
-procedure is_lockpick(variable item) begin
-   if is_lockpick_mech(item) then return true;
-   if is_lockpick_elec(item) then return true;
-   return false;
-end
-
-
-#define is_critter(obj)    (obj_type(obj) == OBJ_TYPE_CRITTER)
-
-procedure doVaultBoxerAppearance begin
-   variable enabled := rpu_msetting(set_vault_boxer);
-   if enabled and appearance_mod_enabled then begin
-      variable armor;
-      set_global_var(GVAR_TMP_GLOBAL_VAR,1);
-      if (dude_is_male) then begin
-         if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-            if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR) == 0) then begin
-               armor := create_object(PID_VAULT_BOXER_MALE_LONG_HAIR,0,0);
-               add_obj_to_inven(dude_obj,armor);
-               wield_obj_critter(dude_obj, armor);
-               refresh_pc_art;
-            end
-         end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-            if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD) == 0) then begin
-               armor := create_object(PID_VAULT_BOXER_MALE_BALD,0,0);
-               add_obj_to_inven(dude_obj,armor);
-               wield_obj_critter(dude_obj, armor);
-               refresh_pc_art;
-            end
-         end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
-            if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL) == 0) then begin
-               armor := create_object(PID_VAULT_BOXER_MALE_NORMAL,0,0);
-               add_obj_to_inven(dude_obj,armor);
-               wield_obj_critter(dude_obj, armor);
-               refresh_pc_art;
-            end
-         end
-      end
-   end
-end
-
-procedure removeVaultBoxerAppearance begin
-   variable enabled := rpu_msetting(set_vault_boxer);
-   if enabled and appearance_mod_enabled then begin
-      set_global_var(GVAR_TMP_GLOBAL_VAR,0);
-      if (dude_is_male) then begin
-         if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-            remove_armor(dude_obj)
-            destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR));
-            refresh_pc_art;
-         end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-            remove_armor(dude_obj)
-            destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD));
-            refresh_pc_art;
-         end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
-            remove_armor(dude_obj)
-            destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL));
-            refresh_pc_art;
-         end
-      end
-   end
-end
 
 #endif // COMMAND_H
