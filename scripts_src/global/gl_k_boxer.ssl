@@ -7,7 +7,7 @@
 // a better way would probably be to check player's location (tiles)
 
 procedure start begin
-	if game_loaded then begin
+  if game_loaded then begin
       if combat_is_initialized
          and global_var(GVAR_TMP_GLOBAL_VAR) == 1
          and (cur_map_index == MAP_NEW_RENO_2 or cur_map_index == MAP_SAN_FRAN_CHINATOWN)
