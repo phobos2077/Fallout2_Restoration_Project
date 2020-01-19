@@ -1,4 +1,4 @@
-#include "command.h"
+#include "command.h" //for vault boxer
 
 #ifndef RPU_H
 #define RPU_H
@@ -50,33 +50,23 @@ procedure is_lockpick(variable item) begin
   return false;
 end
 
+#define enable_vault_boxer_style(style_item_pid) \
+  if (obj_carrying_pid_obj(dude_obj,style_item_pid) == 0) then begin \
+    variable armor := create_object(style_item_pid,0,0); \
+    add_obj_to_inven(dude_obj,armor); \
+    wield_obj_critter(dude_obj, armor); \
+    refresh_pc_art;
+  end
+
 procedure doVaultBoxerAppearance begin
   variable enabled := rpu_msetting(set_vault_boxer);
   if enabled and appearance_mod_enabled then begin
-    variable armor;
     set_global_var(GVAR_TMP_GLOBAL_VAR,1);
-    if (dude_is_male) then begin
-      if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
-        if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR) == 0) then begin
-          armor := create_object(PID_VAULT_BOXER_MALE_LONG_HAIR,0,0);
-          add_obj_to_inven(dude_obj,armor);
-          wield_obj_critter(dude_obj, armor);
-          refresh_pc_art;
-        end
-      end else if ((get_sfall_global_int("HApStyle")) == BALD_HAIR) then begin
-        if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD) == 0) then begin
-          armor := create_object(PID_VAULT_BOXER_MALE_BALD,0,0);
-          add_obj_to_inven(dude_obj,armor);
-          wield_obj_critter(dude_obj, armor);
-          refresh_pc_art;
-        end
-      end else if ((get_sfall_global_int("HApStyle")) == REG_HAIR) then begin
-        if (obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL) == 0) then begin
-          armor := create_object(PID_VAULT_BOXER_MALE_NORMAL,0,0);
-          add_obj_to_inven(dude_obj,armor);
-          wield_obj_critter(dude_obj, armor);
-          refresh_pc_art;
-        end
+    if dude_is_male then begin
+      switch (get_sfall_global_int("HApStyle") begin
+        case LONG_HAIR: enable_vault_boxer_style(PID_VAULT_BOXER_MALE_LONG_HAIR)
+        case BALD_HAIR: enable_vault_boxer_style(PID_VAULT_BOXER_MALE_LONG_HAIR)
+        case REG_HAIR: enable_vault_boxer_style(PID_VAULT_BOXER_MALE_NORMAL)
       end
     end
   end
@@ -86,7 +76,7 @@ procedure removeVaultBoxerAppearance begin
   variable enabled := rpu_msetting(set_vault_boxer);
   if enabled and appearance_mod_enabled then begin
     set_global_var(GVAR_TMP_GLOBAL_VAR,0);
-    if (dude_is_male) then begin
+    if dude_is_male then begin
       if ((get_sfall_global_int("HApStyle")) == LONG_HAIR) then begin
         remove_armor(dude_obj)
         destroy_object(obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR));
