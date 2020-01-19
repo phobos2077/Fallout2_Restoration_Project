@@ -23,8 +23,8 @@
 
 #include "../headers/command.h"
 
-#define LVAR_RESTOCK_TIME                       (0)
-#define LVAR_RESTOCK_TIME_FIX                   (1)
+#define LVAR_Restock_Time                       (0)
+#define LVAR_Restock_Time_Fix                   (1)
 
 import variable den_flick_box_obj;
 
@@ -47,13 +47,13 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
 
       //added by killap - fix for game_time going negative after 7 years
-      if (((game_time) < 0) and (local_var(LVAR_RESTOCK_TIME_FIX) == 0)) then begin
-         set_local_var(LVAR_RESTOCK_TIME, game_time - 1);
-         set_local_var(LVAR_RESTOCK_TIME_FIX, 1);
+      if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
+         set_local_var(LVAR_Restock_Time, game_time - 1);
+         set_local_var(LVAR_Restock_Time_Fix, 1);
       end
       //end added
 
-      if (local_var(LVAR_RESTOCK_TIME) < game_time) then begin
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
          item_caps_adjust(self_obj, random(55, 61) - self_caps);
          check_restock_item(PID_JET, 0, 1, 100)
          check_restock_item(PID_CATS_PAW, 0, 1, 100)
@@ -69,7 +69,7 @@ procedure map_enter_p_proc begin
          check_restock_item(PID_223_FMJ, 1, 3, 100)
          check_restock_item(PID_SHOTGUN, 1, 1, 50)
          check_restock_item(PID_SHOTGUN_SHELLS, 2, 4, 100)
-         set_local_var(LVAR_RESTOCK_TIME, (random(2,4) * ONE_GAME_DAY) + game_time);
+         set_local_var(LVAR_Restock_Time, (random(2,4) * ONE_GAME_DAY) + game_time);
       end
    end
 end

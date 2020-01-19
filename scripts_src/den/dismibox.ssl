@@ -23,8 +23,8 @@
 
 #include "../headers/command.h"
 
-#define LVAR_RESTOCK_TIME                       (0)
-#define LVAR_RESTOCK_TIME_FIX                   (1) //added by killap
+#define LVAR_Restock_Time                       (0)
+#define LVAR_Restock_Time_Fix                   (1) //added by killap
 
 import variable den_smitty_box_obj;
 
@@ -44,20 +44,20 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
 
       //added by killap - fix for game_time going negative after 7 years
-      if (((game_time) < 0) and (local_var(LVAR_RESTOCK_TIME_FIX) == 0)) then begin
-         set_local_var(LVAR_RESTOCK_TIME, game_time - 1);
-         set_local_var(LVAR_RESTOCK_TIME_FIX, 1);
+      if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
+         set_local_var(LVAR_Restock_Time, game_time - 1);
+         set_local_var(LVAR_Restock_Time_Fix, 1);
       end
       //end added
 
-      if (local_var(LVAR_RESTOCK_TIME) < game_time) then begin
+      if (local_var(LVAR_Restock_Time) < game_time) then begin
          check_restock_item(PID_BOX_OF_NOODLES, 0, 1, 100)
          check_restock_item(PID_BEER, 0, 6, 100)
          check_restock_item(PID_SUPER_TOOL_KIT, 1, 1, 40)
          check_restock_item(PID_KNIFE, 1, 1, 40)
          check_restock_item(PID_MOLOTOV_COCKTAIL, 1, 3, 40)
          check_restock_item(PID_MICRO_FUSION_CELL, 1, 6, 40)
-         set_local_var(LVAR_RESTOCK_TIME, (random(3,5) * ONE_GAME_DAY) + game_time);
+         set_local_var(LVAR_Restock_Time, (random(3,5) * ONE_GAME_DAY) + game_time);
       end
    end
 end
