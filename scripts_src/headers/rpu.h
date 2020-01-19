@@ -1,3 +1,5 @@
+#include "command.h"
+
 #ifndef RPU_H
 #define RPU_H
 
