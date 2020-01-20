@@ -1241,4 +1241,7 @@ variable removed_qty;
 //end added by killap
 // raiders macros end
 
+//see the file for disambiguation
+#include "rpu_command.h"
+
 #endif // COMMAND_H
