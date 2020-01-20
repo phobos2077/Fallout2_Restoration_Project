@@ -15,7 +15,7 @@ procedure vault_boxer_style(variable enable) begin
     case BALD_HAIR: style_item_pid := PID_VAULT_BOXER_MALE_BALD;
     case REG_HAIR: style_item_pid := PID_VAULT_BOXER_MALE_NORMAL;
   end
-  if enable begin
+  if enable then begin
     if (obj_carrying_pid_obj(dude_obj,style_item_pid) == 0) then begin
       variable armor := create_object(style_item_pid,0,0);
       add_obj_to_inven(dude_obj,armor);
