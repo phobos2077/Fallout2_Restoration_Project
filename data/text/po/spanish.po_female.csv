@@ -56,6 +56,8 @@
 ", you are the man!",", eres la elegida!"
 ". Help you wit somthin', champ?",". ¿Te ayudamos en algo, campeona?"
 ". I am the Captain of the Guard.",". Soy la capitán de la guardia."
+". It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred
+and fifty years.",". Es un placer conocerte, Dex. No puedo imaginar cómo debe ser despertarse después de haber estado congelado por más de cientocincuenta años"
 ". Me new here.",". Aquí soy nueva."
 ". Pleased to meet you.",". Encantada de conocerte."
 ". Well... You've certainly come a long way from the simple tribesman. You should visit our New California Republic office some time. You might find it rewarding. Now, if you'll excuse me...",". Bueno... ciertamente has recorrido un largo camino para una simple tribal. Deberías visitar alguna vez nuestra oficina en la República de Nueva California. Podría resultarte gratificante. Ahora, si me perdonas..."
@@ -1239,6 +1241,13 @@ Tan solo clickeo hasta llegar a la parte divertida."
  Hell, maybe I'll kill everyone in this pathetic fucking place. You thought you could all hide from the horror of the wasteland?
  Well guess what, my naive friend? Horror has found you, and its name is ","OK tipo duro, ahora esta ""tribal errante"" te va a matar frente a tu esposa. Entonces tal vez la mate también. Demonios, tal vez mate a todos en este patético maldito lugar. ¿Pensabas que podías esconderte del horror del Yermo? Bueno, ¿sabes qué, mi ingenuo amigo? Horror te ha encontrado, y su nombre es "
 "Of course I am. After all, I'm the Chosen One.","Por supuesto que soy. Después de todo, soy La Elegida."
+"Of course you don't mind. Thanks, babe. [He steps past you, gently slapping your rump, and opens a nearby locker.
+ He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he
+ begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've seen
+ you around, doll, and I doubt I'd forget a face like yours. Name's, Dex, but I'm sure you know that. Mind if I ask yours?","Por supuesto que no te importa. Gracias bebe. [Él pasa junto a ti, golpea suavemente tu trasero y abre un casillero cercano.
+ Casualmente se viste con un traje finamente confeccionado, luego se embolsa el contenido del casillero. Utilizando un peine de bolsillo, él
+ comienza a esculpir y peinar su cabello oscuro y peinado con la rápida precisión de un profesional experimentado.] No creo haber visto
+ alrededor, muñeca, y dudo que olvide una cara como la tuya. Me llamo Dex, pero estoy seguro de que lo sabes. ¿Te importa si te pido el tuyo?"
 "Of course, Boss.","Por supuesto, Jefa."
 "Of course, Citizen.","Por supuesto, Ciudadana."
 "Of course, Citizen. What else did you want to know?","Por supuesto, Ciudadana. ¿Qué más querías saber?"
@@ -1283,6 +1292,7 @@ Tan solo clickeo hasta llegar a la parte divertida."
 "Oh, sure. I didn't mean you could see him, now that you're a slaver and all.","Oh, claro. No quise decir que pudieras verle, ahora que eres una esclavista."
 "Oh, the Chosen One. Oh my, I didn't realize. I'll just try to stop shaking long enough to tell
  you something then. (Wooz smiles) Come closer and I'll whisper it to you.","Oh, la Elegida. Vaya, no me había dado cuenta. Entonces dejaré de hacer lo que estaba haciendo para contarte algo (Wooz sonríe). Acércate, que te lo voy a decir al oído."
+"Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel--","Oh, bueno, veamos ... Nací y crecí en el pueblo de Arroyo. Mi madre es la anciana de la aldea, y somos descendientes directos de la legendaria morada del refugio..."
 "Oh, yeah. You're a slaver now, eh? So what did he want? It's not going anywhere - not like it could.","Oh, sí. Ahora eres una esclavista, ¿eh? Así que, ¿qué quería? Esto no va a ir a ninguna parte... aunque pudiese."
 "Oh, you mean old man McGee? He's mostly harmless. Spent near a fortune on
  that old slot machine and hasn't seen a return in years. I think it's busted. 
@@ -2263,6 +2273,13 @@ because this is going to cost ::cough:: $200.","Debes ser muy buena para inspira
 "[He points to you and starts screaming.] Stranger! Stranger! Stranger!","[Te señala y comienza a gritar]. ¡Extraña! ¡Extraña! ¡Extraña!"
 "[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?","[Se quita el casco y deja a un lado su capa carmesí, revelando a un hombre robusto y guapo con una cabeza afeitada y una chaqueta de cuero. Parece exudar carisma y genialidad.] Oye forastera, mi nombre es Adam. Como estas?"
 "[He smiles] We must protect our honor, stranger.","[Sonríe] Debemos proteger nuestro honor, forastera."
+"[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
+ animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
+ alters his composure, projecting cool confidence, despite his nakedness.] Hey doll, I know I'm quite the sight to behold,
+ but it's a tad chilly in here. You mind if I get dressed?","[Gira la cabeza hacia ti y se pone de pie de un salto. Él te mira atentamente, luego mira a tu alrededor como un acorralado.
+ animal. Cuando sus ojos vuelven a ti, se suavizan y él se relaja cuando sus recuerdos vuelven a él. El rápidamente
+ altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] Hola muñeca, sé que soy bastante digno de contemplar,
+ pero hace un poco de frío aquí. ¿Te importa si me visto?"
 "[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
  real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. ","[Él te mira con los ojos entrecerrados por un momento, luego deja escapar su aliento en un suspiro.] Lo siento amiga, esta cosa es una verdadera perra, y me ha tenido trabajando demasiado. No quise criticarte."
 "[Injured]","[Herida]"
