@@ -113,9 +113,10 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {493}{}{Verás, mi gente me había elegido para intentar encontrar un refugio. Arriesgué mi vida en varias ocasiones
 para encontrar ese dichoso refugio y finalmente logré encontrarlo. Tengo curiosidad por lo que puedas saber sobre 
 esos sitios}
-{500}{}{I'll tell you what, babe. You need help finding these Vaults, and I need someone to show me the ropes, so to speak, in this crazy world of yours. So what do you say... partner?}
+{500}{}{Te diré qué, cariño. Necesitas ayuda para encontrar estos refugios, y necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Entonces, ¿qué dices... compañero?
+}
 {501}{}{Dice que tenemos un trato, compañero.}
-{502}{}{Well, your knowledge of the old ones could prove quite useful to me... but, you know, there's that whole psychotic murderer thing...}
+{502}{}{Bueno, tu conocimiento de los viejos podría ser bastante útil para mí... pero, ya sabes, está todo ese asunto del asesino psicótico...}
 {503}{}{No creo que esté demasiado ansioso por andar vagando por el desierto con un asesino psicótico. Entonces estás en tu
  propio, "cariño". No te preocupes, estoy seguro de que estarás bien. (risa disimulada)
 }
@@ -143,73 +144,74 @@ esos sitios}
 {555}{}{Bueno, tu conocimiento de los viejos podría ser muy útil para mí ... Supongo que tienes un trato.}
 {556}{}{Realmente no tengo tiempo para "mostrarte las cuerdas". Estoy seguro de que lo harás bien por tu cuenta, "cariño".}
 {560}{}{[La sonrisa de Dex vacila y sus ojos se vuelven desenfocados. Después de un momento, comienza a hablar sin mirarlo a los ojos.] Fui uno de sus enfermos experimentos. Me hicieron ... cosas terribles. [Sacude la cabeza, luego te mira con una sonrisa renovada.] De todos modos, prefiero hablar de ti.}
-{561}{}{Oh, well, let's see... I was born and raised in the village of Arroyo. My mother is the village elder, and we're direct descendants of the legendary vault dwel--}
+{561}{}{Oh, bueno, veamos... Nací y crecí en el pueblo de Arroyo. Mi madre es la anciana de la aldea, y somos descendientes directos del legendario morador del refugio}
 {562}{}{Mira, Dex, podría ayudarte, pero me gustaría saber con quién estoy tratando. ¿Qué te hicieron exactamente?}
-{570}{}{Wow, that's real interesting, babe, and I can't wait to hear more about you. Honest. But first of all, how 'bout you fill me in on what the hell happened since they put me on ice.
- I mean, this place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
+{570}{}{Wow, eso es realmente interesante, cariño, y no puedo esperar para saber más sobre ti. Honesto. Pero antes que nada, ¿qué tal si me informas sobre lo que pasó desde que me pusieron en hielo?
+ Quiero decir, este lugar se ha vuelto una mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
 {580}{}{Muy bien, ¿realmente necesitas saberlo? Bien. Básicamente, estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me inyectaron los recuerdos de un maníaco para ver cómo afectaría la personalidad de un tipo decente y respetuoso de la ley como yo. Al menos, eso es lo mejor que pude entender.}
-{581}{}{I see. So, how *did* it affect you?}
-{582}{}{I don't know, it gave me some nightmares, alright? Look honey, I've been through a lot and I'm not in the mood for a fucking interrogation right now.
- I answered your questions, now how 'bout you you fill me on what the hell happened since they put me on ice. I mean, this place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
-{600}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws his knees
- up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body quakes and his
- teeth chatter. Gradually, he seems to calm down.]}
+{581}{}{Veo. Entonces, ¿cómo * te * te afectó?}
+{582}{}{No sé, me dio algunas pesadillas, ¿de acuerdo? Mira cariño, he pasado por muchas cosas y no estoy de humor para un jodido interrogatorio en este momento.
+ Respondí tus preguntas, ahora, ¿qué tal si me informas sobre lo que pasó desde que me pusieron en hielo? Quiero decir, este lugar se ha vuelto una mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
+{600}{}{[Cuando te acercas a la cámara criogénica, ves a un atractivo hombre desnudo tirado en el suelo. Él estira las rodillas
+ se levanta y lo abrazas contra su pecho. Se sienta allí por varios momentos, mirando fijamente al frente mientras su cuerpo tiembla y su
+ castañeteo de dientes Gradualmente, parece calmarse.]}
 {601}{}{Eh, oye...}
-{610}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
- animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
- alters his composure, projecting cool confidence, despite his nakedness.] I don't recognize you, bud. You don't mind if
- I get dressed do you?}
+{610}{}{[Gira la cabeza hacia ti y se pone de pie de un salto. Él te mira atentamente, luego mira a tu alrededor como un acorralado.
+ animal. Cuando sus ojos vuelven a ti, se suavizan y él se relaja cuando sus recuerdos vuelven a él. El rápidamente
+ altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] No te reconozco, amigo. No te importa si
+ Me visto}
 {611}{}{Supongo que no hay daño-}
 {612}{}{Bueno, yo-}
-{620}{}{Of course you don't mind. Thanks, pal. [He steps past you and opens a nearby locker. He casually dresses himself
- in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he begins to sculpt and style his
- slicked dark hair with the quick precision of a seasoned pro.] So, where's the doc? }
-{621}{}{Beats me. Wherever he is, he's long dead by now. You see, you've been doing that popsicle impression for a REAL long time.}
-{622}{}{Listen up, pretty boy. I didn't unthaw your psychotic ass so I could answer your questions and watch you groom yourself.
- I'm only letting you live long enough to tell me whatever useful information you might have. So start talking. The more
- you can tell me, the longer you get to live.}
-{630}{}{Is that so? [He regards you curiously.] You don't exactly look like you belong here, bud, yet you've decided to
- release me and I'd like to know why. I assume you know who I am?}
-{631}{}{Yeah, you're Dex, right? If what I read about you is true, then you're one evil son of a bitch. I like that.}
+{620}{}{Por supuesto que no te importa. Gracias compañero. [Él pasa a tu lado y abre un casillero cercano. Se viste casualmente
+ con un traje finamente confeccionado, luego guarda el contenido del casillero. Utilizando un peine de bolsillo, comienza a esculpir y diseñar su
+ cabello oscuro peinado con la rápida precisión de un profesional experimentado. Entonces, ¿dónde está el doc?}
+{621}{}{Me gana Donde quiera que esté, ya hace mucho que está muerto. Verás, has estado haciendo esa impresión de paleta durante mucho tiempo REAL.}
+{622}{}{Escucha, chico lindo. No deshice tu trasero psicótico para poder responder tus preguntas y verte cuidarte.
+ Solo te dejo vivir lo suficiente como para contarme cualquier información útil que puedas tener. Entonces comienza a hablar. Mas
+ puedes decirme, cuanto más tiempo llegues a vivir.}
+{630}{}{¿Es eso así? [Te mira con curiosidad.] No pareces exactamente como si pertenecieras aquí, amigo, sin embargo, has decidido
+ libérame y me gustaría saber por qué. ¿Supongo que sabes quién soy?}
+{631}{}{Sí, eres Dex, ¿verdad? Si lo que leí sobre ti es verdad, entonces eres un malvado hijo de puta. Me gusta eso.}
 {632}{}{Bueno, según esa computadora, eres Dex, un asesino narcisista y sociopático desde antes del gran silencio.
  Solo te he descongelado para poder dejarte como el perro enfermo que eres.}
-{633}{}{No idea, but you are giving off these evil vibes and I approve.}
+{633}{}{No tengo idea, pero estás emitiendo estas vibraciones malvadas y lo apruebo.}
 {640}{}{[Su actitud fría se desvanece y sus ojos se encienden de rabia.] ¿Crees que puedes intimidarme a MÍ? Tienes una PUTA IDEA ¿con quién estás hablando? ¡Ven aquí y te enseñaré de lo que soy capaz!}
 {641}{}{[Hecho.]}
-{650}{}{[Dex grins at you, revealing a set of perfect teeth-a product of pre-war dentistry that look strange to you in all
- their pearly white symmetry.] I knew there was something I liked about you. You've got good taste. I don't suppose you're
- also a fan of The King?}
+{650}{}{[Dex te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología anterior a la guerra que te parece extraño
+ su simetría blanca perlada.] Sabía que había algo que me gustaba de ti. Tienes buen gusto. ¿Supongo que no eres
+ También fanático de el rey?}
 {651}{}{Eh... [Mirada en blanco.]}
-{652}{}{Oh yeah, I love that... uh, what'd you call it, The King? Yeah, huge fan.}
-{660}{}{Nevermind, bud. [Dex takes another look around the room and whistles.] This place has really gone to shit.
- How long did you say it's been?}
+{652}{}{Oh sí, me encanta eso ... ¿cómo lo llamarías, el rey? Sí, gran fan.}
+{660}{}{No importa, amigo. [Dex echa otro vistazo alrededor de la habitación y silba.] Este lugar realmente se ha ido a la mierda.
+ ¿Cuánto tiempo dijiste que ha pasado?}
 {661}{}{Han pasado más de ciento cincuenta años desde que el Gran Silencio puso fin a los Antiguos... * tu * gente.}
 {665}{}{Gran silencio? ¿Los viejos? ¿Qué tal si me ahorras esta mierda críptica y me cuentas qué pasó?}
 {666}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando los grandes incendios cayeron del cielo y chamuscaron la tierra. Encontrarás que el mundo no es como el que conociste.}
-{670}{}{No shit, so they actually dropped the bombs, huh? I guess the vault project wasn't just a big waste of the tax-payers'
- money, after all.}
+{670}{}{No mierda, así que en realidad lanzaron las bombas, ¿eh? Supongo que el proyecto de los refugios no fue solo un gran desperdicio de los contribuyentes
+ dinero, después de todo.}
 {671}{}{Espera. ¿Sabes de los Refugios?}
-{680}{}{Know of them? Hell, I killed my first hooker not far from where they were building the Chicago Vault.
- Those were the days... [He stops and regards you with amusement.] You're really eating this up, aren't you?}
+{680}{}{Saber de ellos? Demonios, maté a mi primera prostituta cerca de donde estaban construyendo el refugio de Chicago.
+ Esos fueron los días... [Se detiene y te mira con diversión.] Realmente estás comiendo esto, ¿no?}
 {681}{}{¡DIME MAS ACERCA DE LAS BÓVEDAS!}
-{682}{}{Well, I'm supposed to be trying to find a Vault for my tribe. Once I do, I'm expected to find a G.E.C.K. so we
- can use its power to save my dying village. Anything you can tell me about the Vaults could make my job a hell of a lot easier.}
-{683}{}{Well, you see, I had been chosen by my people to try and find a Vault. I risked my life on several occasions to
- find that damn Holy Vault and I finally was successful in finding it. I am curious what else you might know of these places.}
+{682}{}{Bueno, se supone que debo tratar de encontrar un refugio para mi tribu. Una vez que lo haga, se espera que encuentre un G.E.C.K. Así que nosotros
+ puede usar su poder para salvar a mi pueblo moribundo. Cualquier cosa que pueda decirme sobre los refugios podría hacer que mi trabajo sea mucho más fácil}
+{683}{}{Bueno, ya ves, mi gente me había elegido para tratar de encontrar un refugio. Arriesgué mi vida en varias ocasiones para
+ encontré ese maldito refugio sagrado y finalmente tuve éxito en encontrarla. Tengo curiosidad por saber qué más puede saber de estos lugares.}
 {690}{}{Te diré una cosa, amigo. Necesitas ayuda para encontrar estos Refugios, y yo necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Entonces, ¿qué dices... socio?}
-{691}{}{Hell, no need to try and convince me. I'd be happy to have you along just to see your handiwork first hand.}
-{692}{}{I don't know, Dex. Let's just say I let you come along with me, and we make it back to the remote safety of a
- settlement. Once there, how do I know you won't try and slit my throat the first chance you get?}
-{700}{}{I can tell you're no saint, so I could ask you the same thing. But to answer your question, I wouldn't kill you
- because that'd fuck me over. I'll be honest, }
-{701}{}{, I don't give a fuck about anyone, or anything, except for myself. If the world is as fucked up as you say it is,
- then sticking with you is the best shot I've got. It's as simple as that.}
+{691}{}{Demonios, no hay necesidad de tratar de convencerme. Me alegraría tenerte junto solo para ver tu obra de primera mano.}
+{692}{}{No lo se, Dex. Digamos que te dejo venir conmigo, y volvemos a la seguridad remota de un
+ asentamiento. Una vez allí, ¿cómo sé que no intentarás cortarme la garganta la primera vez que puedas?}
+{700}{}{Puedo decir que no eres un santo, así que podría preguntarte lo mismo. Pero para responder a tu pregunta, no te mataría
+ porque eso me jodería. Seré honesto,}
+{701}{}{, No me importa una mierda a nadie, ni a nada, excepto a mí mismo. Si el mundo está tan jodido como dices,
+ entonces quedarte contigo es la mejor oportunidad que tengo. Es tan simple como eso.
+}
 {702}{}{Me parece justo. Vamos.}
-{703}{}{I'm just fucking with you Dex. I never actually had any intention of bringing you with me. I just thought I'd
- have a bit of fun with you before caving your skull in.}
-{800}{}{[As you approach the cryogenic chamber, you see an attractive naked man sprawled on the floor. He draws his knees
- up and hugs them against his chest. He sits there for several moments, staring blankly ahead as his body quakes and his
- teeth chatter. Gradually, he seems to calm down.]}
+{703}{}{Solo estoy jodiendo contigo Dex. Nunca tuve la intención de traerte conmigo. Solo pensé que
+ diviértete un poco antes de derrumbar tu cráneo.}
+{800}{}{[Cuando te acercas a la cámara criogénica, ves a un atractivo hombre desnudo tirado en el suelo. Él estira las rodillas
+ se levanta y lo abrazas contra su pecho. Se sienta allí por varios momentos, mirando fijamente al frente mientras su cuerpo tiembla y su
+ castañeteo de dientes Gradualmente, parece calmarse.]}
 {801}{}{Eh, oye...}
 {810}{}{[He snaps his head towards you and leaps to his feet. He watches you intently, then glances around like a cornered
  animal. When his eyes return to you, they soften, and he relaxes as his memories come flooding back to him. He quickly
@@ -224,8 +226,7 @@ esos sitios}
 {821}{}{Soy }
 {822}{}{Pero debes saber que tengo una regla estricta de no salir con ningún hombre extraño que descongele. Como has estado en el hielo durante el último siglo y medio, asumiré que tu mano se contrajo y me golpeó accidentalmente el trasero. Pero si sucede de nuevo, te arrancaré la polla. ¿Entendido?}
 {823}{}{Mi nombre es }
-{824}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred
-and fifty years.}
+{824}{}{. Es un placer conocerte, Dex. No puedo imaginar cómo debe ser despertarse después de haber estado congelado por más de cientocincuenta años}
 {825}{}{Sí, ME IMPORTA, maldito imbécil. Solo te descongelé para poder humillarte como el perro enfermo que eres.}
 {826}{}{Olvídate de los nombres. ¿Qué tal si te quitas esa ropa y me muestras de qué están hechos los hombres de antes de la guerra?}
 {830}{}{[Sonríe y comienza a desnudarse.] Eres mi tipo de chica. Prepárate para experimentar a Dex, el duque del sexo.}
@@ -262,7 +263,7 @@ and fifty years.}
  find that damn Holy Vault and I finally was successful in finding it. I am curious what else you might know of these  places.}
 {880}{}{I'll tell you what, babe. You need help finding these Vaults, and I need someone to show me the ropes, so to speak,
  in this crazy world of yours. So what do you say... partner?}
-{881}{}{Hell, no need to try and convince me. I'd be happy to have you along just to see your handiwork first hand.}
+{881}{}{Demonios, no hay necesidad de tratar de convencerme. Me alegraría tenerte junto solo para ver tu obra de primera mano.}
 {882}{}{I don't know, Dex. Let's just say I let you come along with me, and we make it back to the remote safety of a settlement.
  Once there, how do I know you won't try and slit my throat the first chance you get?}
 {883}{}{Dice que tenemos un trato, compañero.}
@@ -270,8 +271,9 @@ and fifty years.}
 {885}{}{Realmente no tengo tiempo para "mostrarte las cuerdas". Estoy seguro de que lo harás bien por tu cuenta, "cariño".}
 {890}{}{I can tell you're no saint either, so I could ask you the same thing. But to answer your question, I wouldn't kill
  you because that'd fuck me over. I'll be honest, }
-{891}{}{, I don't give a fuck about anyone, or anything, except for myself. If the world is as fucked up as you say it is,
- then sticking with you is the best shot I've got. It's as simple as that.}
+{891}{}{, No me importa una mierda a nadie, ni a nada, excepto a mí mismo. Si el mundo está tan jodido como dices,
+ entonces quedarte contigo es la mejor oportunidad que tengo. Es tan simple como eso.
+}
 {892}{}{Me parece justo. Vamos.}
 {893}{}{I'm just fucking with you Dex. I never had any intention of bringing you with me. I just thought I'd have a bit
  of fun with you before caving your skull in.}
