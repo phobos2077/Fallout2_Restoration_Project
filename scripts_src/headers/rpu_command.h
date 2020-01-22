@@ -8,12 +8,13 @@
 
 procedure vault_boxer_style(variable enable) begin
   variable style_item_pid;
-  if dude_is_male then return;
+  if not dude_is_male then return;
 
   switch get_sfall_global_int("HApStyle") begin
     case LONG_HAIR: style_item_pid := PID_VAULT_BOXER_MALE_LONG_HAIR;
     case BALD_HAIR: style_item_pid := PID_VAULT_BOXER_MALE_BALD;
     case REG_HAIR: style_item_pid := PID_VAULT_BOXER_MALE_NORMAL;
+    default: style_item_pid := PID_VAULT_BOXER_MALE_NORMAL; // just in case
   end
   if enable then begin
     if (obj_carrying_pid_obj(dude_obj,style_item_pid) == 0) then begin
@@ -29,8 +30,7 @@ procedure vault_boxer_style(variable enable) begin
 end
 
 procedure doVaultBoxerAppearance begin
-  variable enabled := rpu_msetting(set_vault_boxer);
-  if enabled and appearance_mod_enabled then begin
+  if vault_boxer_enabled and appearance_mod_enabled then begin
     set_global_var(GVAR_TMP_GLOBAL_VAR,1);
     call vault_boxer_style(true);
   end
@@ -38,7 +38,7 @@ end
 
 procedure removeVaultBoxerAppearance begin
   variable enabled := rpu_msetting(set_vault_boxer);
-  if enabled and appearance_mod_enabled then begin
+  if vault_boxer_enabled and appearance_mod_enabled then begin
     set_global_var(GVAR_TMP_GLOBAL_VAR,0);
     call vault_boxer_style(false);
   end

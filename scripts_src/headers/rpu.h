@@ -17,6 +17,7 @@
 #define set_goris_derobing "goris_quick_derobing"
 
 #define appearance_mod_enabled get_ini_setting("ddraw.ini|Misc|EnableHeroAppearanceMod")
+#define vault_boxer_enabled rpu_msetting(set_vault_boxer)
 
 procedure check_filesystem_override begin
   variable fs_override := get_ini_setting("ddraw.ini|Misc|UseFileSystemOverride");
