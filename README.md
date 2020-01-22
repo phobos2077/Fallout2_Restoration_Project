@@ -22,7 +22,8 @@ Docs: [changelog](docs/changelog.md), [original readme](docs/rp-readme.txt), [ne
 
 **Notes:**
 1. RPU can be installed on top of RP 2.3.3. That does not _require_ starting a new game. However, if you continue with a save from an older version, you won't see some of the fixes in the areas that you've already visited.
-1. If you made any changes to `ddraw.ini`, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to the new `ddraw.ini`.
+1. If you made any changes to `ddraw.ini` prior to RPU installation, these changes will be lost when you overwrite that file. If you want to preserve them, make sure to make a backup copy and then transfer the settings manually to new `ddraw.ini`.
+1. [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch) is included into RPU. You don't need to install UPU separately.
 
 ### Translations
 If you want to play a localized version:
