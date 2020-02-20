@@ -280,10 +280,10 @@ esos sitios}
 {1015}{}{¿Qué puede Dex hacer por ti, bébe?}
 {1100}{}{¿Estamos listo para rodar?}
 {1101}{}{¿Vas a ir, o qué?}
-{1102}{}{You ready yet? I'm itchin' to move.}
+{1102}{}{¿Ya estás listo? Me muero por moverme.}
 {1103}{}{Así que, ¿te diste cuenta que estas mejor conmigo, huh?}
 {1104}{}{¿Vamos ahora? No tengo un hábito de esperar a los demás.}
-{1105}{}{Come on. I was frozen for over a hundred and fifty years. I'm eager to move.}
+{1105}{}{Vamos. Estuve congelado por más de ciento cincuenta años. Estoy ansioso por moverme.}
 {1106}{}{Me estoy impacientando aquí.}
 {1110}{}{¿Estás listo para llevarme contigo?}
 {1111}{}{Vamos.}
@@ -477,10 +477,10 @@ esos sitios}
 {4023}{}{¿Solo te quedarás allí parada y me verás desangrarme hasta morir o vas a hacer algo al respecto?}
 {4030}{}{Me siento un poco raro por aquí ...}
 {4031}{}{Hey, I'm feeling a bit radiated. If this isn't the kind that grants super powers, then I'm going to be pissed.}
-{4040}{}{You know, you're a bad influence.}
+{4040}{}{¿Sabes?, Eres una mala influencia.}
 {4041}{}{I try to stay away from this stuff. But if you insist...}
 {4042}{}{My body's a temple, but I guess this once won't hurt.}
-{4043}{}{If this does any permanent damage, I'm going to cut you.}
+{4043}{}{Si descubro que esto hace daño permanente, te mato.}
 {4045}{}{Me siento mucho mejor ahora.}
 {4046}{}{Mucho mejor.}
 {4050}{}{¡Oye! Vigila el pelo.}

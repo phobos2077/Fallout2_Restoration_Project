@@ -14,9 +14,9 @@
 {215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
 {216}{}{How come you're alive? The Doctor said he was the only survivor.}
 {220}{}{The name's Sgt. Jules, but you can call me Cat. I'm the fastest and best-looking soldier on this base.}
-{221}{}{Right, whatever you say. So, what's with this place?}
+{221}{}{Bien, lo que digas. ¿qué es este lugar?}
 {230}{}{You mean Doctor C? Why would he forget about me? Hell, he helped shape this work of *ART* [He gestures at his body].}
-{231}{}{Right, whatever you say. So, what's with this place?}
+{231}{}{Bien, lo que digas. ¿qué es este lugar?}
 {232}{}{I think we are talking about two different people... So, what's going on around here anyway?}
 {240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around
  the room.] it's awfully quiet. Where is everybody?}
