@@ -2,7 +2,6 @@
 
 set -xeu -o pipefail
 
-bin_dir="$(realpath $bin_dir)"
 release_dir="$(realpath $release_dir)"
 
 cd "$release_dir"
