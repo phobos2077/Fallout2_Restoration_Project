@@ -268,9 +268,9 @@ end
 
 //added by killap
 procedure Node911 begin
-//if player money < 5 goto 13 and set nogive
+//if player money < 20 goto 13 and set nogive
 //else goto 23 subtract 20 coins and set give
-   if (item_caps_total(dude_obj) > 4) then begin
+   if (item_caps_total(dude_obj) > 19) then begin
       if (local_var(LVAR_maxtr) < 3) then begin
          set_local_var(LVAR_maxtr, local_var(LVAR_maxtr) + 1);
          KC_REP_ADJUST(1)
@@ -280,7 +280,6 @@ procedure Node911 begin
       call Node014;
    end
    else begin
-      //set_local_var(LVAR_Nogive,1);
       call Node013;
    end
 end
