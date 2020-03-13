@@ -46,7 +46,7 @@
 
 #define rep_check_pass ( \
    (TOWN_REPUTATION > 5) or \
-   (TOWN_REPUTATION < -5 and has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   (TOWN_REPUTATION < -5 and has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) \
 )
 
 /* Standard Script Procedures */
