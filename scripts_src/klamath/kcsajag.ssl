@@ -44,6 +44,11 @@
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse
 
+#define rep_check_pass ( \
+   (TOWN_REPUTATION > 5) or \
+   (TOWN_REPUTATION < -5 and has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+)
+
 /* Standard Script Procedures */
 procedure start;
 procedure critter_p_proc;
@@ -474,7 +479,7 @@ procedure Node002 begin
 end
 
 procedure Node003 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then
       Reply(130);
    else
       Reply(131);
@@ -527,14 +532,14 @@ end
 */
 
 procedure Node006 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then
       NMessage(160);
    else
       NMessage(161);
 end
 
 procedure Node007 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then
       Reply(170);
    else
       Reply(171);
@@ -545,7 +550,7 @@ procedure Node007 begin
 end
 
 procedure Node008 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then
       Reply(180);
    else
       Reply(181);
@@ -557,7 +562,7 @@ procedure Node008 begin
 end
 
 procedure Node009 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then
       Reply(190);
    else
       Reply(191);
@@ -589,7 +594,7 @@ procedure Node011 begin
 end
 
 procedure Node012 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then begin
       Reply(230);
       NOption(232,Node013,004);
       NOption(233,Node011,004);
@@ -632,14 +637,14 @@ procedure Node015 begin
 end
 
 procedure Node016 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then
       call Node960;
    else
       call Node970;
 end
 
 procedure Node017 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if rep_check_pass then begin
       Reply(280);
       NOption(282,Node003,004);
       NOption(284,Node003,004);
