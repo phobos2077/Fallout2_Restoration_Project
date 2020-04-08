@@ -214,7 +214,7 @@ procedure critter_p_proc begin
    end
 */
    cur_hp:=self_cur_hits;
-   max_hp:=get_max_hits(self_obj);
+   max_hp:=self_max_hits;
 
    if (local_var(LVAR_Self_Repair) == 0) then begin
        if (max_hp > cur_hp) then begin
@@ -230,7 +230,7 @@ procedure timed_event_p_proc begin
 
    if (fixed_param == 1) then begin
        cur_hp:=self_cur_hits;
-       max_hp:=get_max_hits(self_obj);
+       max_hp:=self_max_hits;
 
        if (max_hp > cur_hp) then begin
            critter_heal(self_obj,1);

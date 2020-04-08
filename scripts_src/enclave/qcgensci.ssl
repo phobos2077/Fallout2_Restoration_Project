@@ -136,7 +136,7 @@ procedure critter_p_proc begin
 
    if (global_var(GVAR_ENCLAVE_POISON_TIMER) != 0) then begin
        if ((game_time - global_var(GVAR_ENCLAVE_POISON_TIMER)) > local_var(LVAR_Poison_Timer)) then begin
-           critter_damage(self_obj,2*get_max_hits(self_obj));
+           critter_damage(self_obj,2*self_max_hits);
        end
    end
 

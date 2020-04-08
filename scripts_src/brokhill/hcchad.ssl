@@ -287,7 +287,7 @@ procedure critter_p_proc begin
       end
 
       if (local_var(LVAR_Safe_Attack) == 2) then begin
-         max := get_max_hits(self_obj);
+         max := self_max_hits;
          cur := self_cur_hits;
          if (cur < (max/4)) then begin
             terminate_combat;

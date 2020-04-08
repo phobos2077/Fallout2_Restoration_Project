@@ -202,7 +202,7 @@ procedure map_enter_p_proc begin
          set_local_var(LVAR_Do_Once,1);
 
          critter_injure(self_obj,DAM_CRIP_LEG_RIGHT);
-         critter_heal(self_obj,-((get_max_hits(self_obj))-1));
+         critter_heal(self_obj,-((self_max_hits)-1));
 
          set_local_var(LVAR_Wounded_In_Cave,1);
 

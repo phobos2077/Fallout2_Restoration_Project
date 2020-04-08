@@ -491,7 +491,7 @@ end
 procedure Node006a begin
    variable hp;
 
-   hp:=get_max_hits(self_obj)-self_cur_hits;
+   hp:=self_max_hits-self_cur_hits;
 
    critter_heal(self_obj,hp);
    gfade_out(600);

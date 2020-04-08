@@ -467,7 +467,7 @@ end
 procedure Node005 begin
    Reply(117);
 
-   if (dude_cur_hits < get_max_hits(dude_obj)) then
+   if (dude_cur_hits < dude_max_hits) then
        NLowOption(118,Node054);
    NLowOption(119,Node054);
    NLowOption(120,Node999); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!

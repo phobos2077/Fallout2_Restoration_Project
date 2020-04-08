@@ -255,7 +255,7 @@ procedure timed_event_p_proc begin
                call Node2008;
             else if( Is_Crippled( MacRae_Ptr ) ) then
                call Node2022;
-            else if( self_cur_hits <= ( (get_max_hits(self_obj) * 3)/4) ) then
+            else if( self_cur_hits <= ( (self_max_hits * 3)/4) ) then
                call Node2010;
             else if( ( Cyberdog_Ptr != 0 ) and (random(1,2) == 1) ) then
                call Node2013;
