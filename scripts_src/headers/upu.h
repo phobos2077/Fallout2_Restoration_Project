@@ -30,6 +30,8 @@ end
     set_local_var(LVAR_Restock_Time_Fix, 1); \
   end
 
+#define CUR_AREA_MILITARY_BASE            (cur_town == AREA_MILITARY_BASE)
 
+#define self_exists (self_pid != -1)
 
 #endif  // UPU_H

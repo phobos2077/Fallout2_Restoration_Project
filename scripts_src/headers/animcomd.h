@@ -24,6 +24,7 @@
 #define ANIMATE_WALK                (0)
 #define ANIMATE_RUN                 (1)
 #define ANIMATE_INTERRUPT           (16)
+#define ANIMATE_RUN_FORCE           (ANIMATE_RUN bwor ANIMATE_INTERRUPT)
 
 #define ANIMATE_FORWARD             (0)
 #define ANIMATE_REVERSE             (1)

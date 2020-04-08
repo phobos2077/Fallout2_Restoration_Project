@@ -165,8 +165,6 @@
 #define PID_MEGA_POWER_FIST                 (407)
 #define PID_HOLY_HAND_GRENADE               (421)  // Special don't use this
 #define PID_FLAME_BREATH                    (427)
-#define PID_RING_BOXING_GLOVES              (496)
-#define PID_RING_PLATED_BOXING_GLOVES       (497)
 #define PID_FN_FAL_HPFA                     (500)
 //#define PID_BLOW_UP_DOLL                    (508)
 //#define PID_POPPED_BLOW_UP_DOLL             (509)
@@ -287,9 +285,6 @@
 #define PID_LF_GRAVESITE_2                  (375)
 #define PID_LF_GRAVESITE_3                  (376)
 
-#define PID_HIDDEN_CONTAINER                (467)  // Code item  JLR
-
-
 /******************************************************************
 ***************       Books                         ***************
 ******************************************************************/
@@ -378,7 +373,6 @@
 #define PID_BOX_OF_NOODLES                  (226)
 #define PID_FROZEN_DINNER                   (227)
 #define PID_MOTIVATOR                       (229)
-#define PID_JAIL_KEY                        (456)
 
 #define PID_ANNA_GOLD_LOCKET                (252)
 #define PID_CAR_FUEL_CELL_CONTROLLER        (253)
@@ -454,12 +448,10 @@
 #define PID_POISON_TANK                     (418)  // DO NOT USE THIS IN YOUR SCRIPTS, THIS IS SPECIAL CASE
 #define PID_MINE_PART                       (419)  // DO NOT USE THIS IN YOUR SCRIPTS, THIS IS SPECIAL CASE
 #define PID_MORNING_STAR_MINE               (420)
-#define PID_HOLY_HAND_GRENADE               (421)
 #define PID_EXCAVATOR_CHIP                  (422)
 #define PID_GOLD_NUGGET                     (423)
 #define PID_STONE_HEAD                      (425)
 #define PID_URANIUM_ORE                     (426)
-#define PID_FIRE_GECKO_FLAME_WEAPON         (427)
 #define PID_GOLD_TOOTH                      (429)
 #define PID_HOWITZER_SHELL                  (430)
 #define PID_RAMIREZ_BOX_CLOSED              (431)
@@ -510,7 +502,6 @@
 #define PID_ENLIGHTENED_ONE_LETTER          (476)
 #define PID_BROADCAST_HOLODISK              (477)
 #define PID_SIERRA_MISSION_HOLODISK         (478)
-#define PID_NAVCOM_PARTS                    (479)
 #define PID_KITTY_SEX_DRUG_AGILITY          (480)  // + 1 agility for 1 hr
 #define PID_KITTY_SEX_DRUG_INTELLIGENCE     (481)  // + 1 iq for 1 hr
 #define PID_KITTY_SEX_DRUG_STRENGTH         (482)  // + 1 strength for 1 hr
@@ -538,10 +529,6 @@
 //#define PID_FN_FAL_HPFA                     (507)
 #define PID_WALL_SAFE                       (501)
 #define PID_FLOOR_SAFE                      (502)
-#define PID_BLUE_MEMORY_MODULE              (503)
-#define PID_GREEN_MEMORY_MODULE             (504)
-#define PID_RED_MEMORY_MODULE               (505)
-#define PID_YELLOW_MEMORY_MODULE            (506)
 #define PID_DECOMPOSING_BODY                (507)
 #define PID_BLOW_UP_DOLL                    (508)  // (515)
 #define PID_POPPED_BLOW_UP_DOLL             (509)  // (516)
@@ -554,7 +541,6 @@
 #define PID_PIP_BOY_MEDICAL_ENHANCER        (516)  // (523)
 #define PID_LIL_JESUS_WEAPON                (517)
 #define PID_DUAL_MINIGUN                    (518)
-#define PID_REAL_BOTTLE_CAPS                (519)
 #define PID_HEAVY_DUAL_MINIGUN              (520)
 #define PID_POOR_BOX                        (521)
 #define PID_WAKIZASHI_BLADE                 (522)
@@ -562,69 +548,6 @@
 #define PID_BRIDGEKEEPERS_ROBE              (524)
 #define PID_PRITCHARD_MAP                   (532)  // Seraph's Code
 #define PID_FIRE_GECKO_PELT                 (533)  // Seraph's Code
-#define PID_BUCKET                          (534)  // added by killap - expansion pack (Primitive Tribe)
-#define PID_FISH                            (535)  // added by killap - expansion pack (Primitive Tribe)
-#define PID_FISH2                           (536)  // added by killap - expansion pack (Primitive Tribe)
-#define PID_ABBEY_MISSING_BOOK              (537)  // added by killap - expansion pack (Abbey)
-#define PID_ABBEY_TECHMANUAL1               (538)  // added by killap - expansion pack (Abbey)
-#define PID_ABBEY_TECHMANUAL2               (539)  // added by killap - expansion pack (Abbey)
-#define PID_ABBEY_TECHMANUAL3               (540)  // added by killap - expansion pack (Abbey)
-#define PID_CHINESE_ARMY_MANUAL             (541)  // added by killap - expansion pack (Abbey)
-#define PID_ABBEY_BOOZE                     (542)  // added by killap - expansion pack (Abbey)
-#define PID_ANNA_DIARY                      (543)  // added by killap - expansion pack (Den)
-#define PID_EPA_BOTANY_HOLODISK             (544)  // added by killap - expansion pack (EPA)
-#define EXPIRED_GECK                        (545)  // added by killap - expansion pack (Hub Stash)
-#define PID_OLD_COIN                        (546)  // added by killap - expansion pack (Hub Stash)
-#define PID_OLD_WATCH                       (547)  // added by killap - expansion pack (Hub Stash)
-#define PID_CIGARETTE                       (548)  // added by killap - expansion pack (Hub Stash)
-#define PID_GAS_MASK                        (549)  // added by killap - expansion pack (EPA)
-#define PID_TOASTER                         (550)  // epa cont
-#define PID_EPA_SYRINGE                     (551)
-#define PID_DOG_FOOD                        (552)
-#define PID_BUG_SPRAY                       (553)
-#define PID_ENVIRONMENTAL_ARMOUR            (554)
-#define PID_EPA_PAMPHLET                    (555)
-#define PID_DRUGS                           (556)
-#define PID_SECURITY_ROOMS_KEY_CARD         (557)
-#define PID_RACK                            (558)
-#define PID_EPA_KEYS                        (559)
-#define PID_RANDOM_CHEMICALS                (560)
-#define PID_ARROYO_SEEDS                    (561)
-#define PID_PLANT_SPRAY                     (562)
-#define PID_RADIO_DYNAMITE                  (563)
-#define PID_RADIO_DYNAMITE_TRIGGER          (564)
-#define PID_PAPER                           (565)
-#define PID_EXPERIMENTAL_SEEDS              (566)
-#define PID_DRILL                           (567)
-#define PID_ACTIVE_RADIO_DYNAMITE           (568)
-#define PID_POP_ROCKS                       (569)
-#define PID_SHAMPOO                         (570)
-#define PID_K9_KEVLAR                       (571)
-#define PID_HUMAN_EAR                       (572)
-#define PID_ERSI                            (573)
-#define PID_LIGHTSABER_GREEN                (574)
-#define PID_BLASTER                         (575)
-#define PID_LIGHTSABER_RED                  (576)
-#define PID_BIG_VENT                        (577)
-#define PID_SUB_LOCKER1                     (578)
-#define PID_SUB_LOCKER2                     (579)
-#define PID_SHI_SUB_CODE_CHART              (580)
-#define PID_DEAD_TRIBAL1                    (581)
-#define PID_DEAD_TRIBAL2                    (582)
-#define PID_EPA_SPORE_SPIKE                 (583)
-#define PID_DEAD_VAULT_DWELLER1             (584)
-#define PID_DEAD_VAULT_DWELLER2             (585)
-#define PID_DEAD_TRIBAL3                    (586)
-#define PID_DEAD_TRIBAL4                    (587)
-#define PID_K9_KEVLAR_WEARABLE              (588)
-#define PID_MUTANT_ARMOR                    (589)
-#define PID_MUTANT_ARMOR_WEARABLE           (590)
-#define PID_SMALL_SCORPION_TAIL             (591)
-#define PID_DR_SHENG_PLANT_SEED             (592)
-#define PID_VAULT_BOXER_MALE_NORMAL         (593)
-#define PID_VAULT_BOXER_MALE_LONG_HAIR      (594)
-#define PID_VAULT_BOXER_MALE_BALD           (595)
-#define PID_FAKE_HEART_PILLS                (596)
 
 /******************************************************************
 ***************       Active Items                  ***************

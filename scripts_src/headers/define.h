@@ -150,9 +150,6 @@
 #define HEAD_HAKUNIN        (10)    // Hakunin -- Found in Arroyo
 #define HEAD_BOSS           (11)
 #define HEAD_DYING_HAKUNIN  (12)
-#define HEAD_CASSIDY        (13)	//Continuum version
-#define HEAD_DYING_HAKUNIN_NIGHT  (14)
-
 /*
 #define HEAD_OVERSEER    (1)  //ovrsr  -- vault
 */
@@ -177,12 +174,6 @@
 #define BACKGROUND_PRESIDENT (18)       // pres.frm
 #define BACKGROUND_TENT      (19)       // tent.frm
 #define BACKGROUND_ADOBE     (20)       // Adobe.frm
-#define BACKGROUND_WASTELAND_NIGHT (21)       //wasteln2.frm
-#define BACKGROUND_MAINTENANCE      (22)       //epa1.frm
-#define BACKGROUND_VAULT2	        (23)       //epa2.frm
-#define BACKGROUND_SAN_FRAN_SUB	    (24)       //shisub.frm
-
-
 // Mood defines //
 #define GOOD_REACTION    (49)
 #define NEUTRAL_REACTION (50)
@@ -206,9 +197,8 @@
 
 
 // Trait defines //
-#define TRAIT_PERK  (0)
-#define TRAIT_OBJECT (1)
-#define TRAIT_TRAIT  (2)
+#include "define_pre.h" // ReDefine needs this
+
 // Perk Trait Types
 #define PERK_bonus_awareness      (0)
 #define PERK_bonus_hth_attacks    (1)
@@ -372,7 +362,6 @@
 ///  strength, perception, endurance, charisma, intelligence, agility,
 ///  luck,   // luck MUST be the last basic stat
 // derived stats
-#define STAT_max_hit_points     (7)
 #define STAT_max_move_points    (8)
 #define STAT_ac                 (9)
 ///#define STAT_unarmed_dmg        (10)
@@ -437,7 +426,7 @@
 #define SKILL_TRAPS                         (11)
 #define SKILL_SCIENCE                       (12)
 #define SKILL_REPAIR                        (13)
-#define SKILL_CONVERSANT                    (14)
+#define SKILL_SPEECH                        (14)
 #define SKILL_BARTER                        (15)
 #define SKILL_GAMBLING                      (16)
 #define SKILL_OUTDOORSMAN                   (17)
@@ -583,43 +572,6 @@
 // ----------------------------------------------------------------------- //
 
 /* Combat Flags */
-
-// WIP! These are old and incorrect now, look below!  6/18/97 JLR
-
-/*
-#define DAM_KNOCKED_OUT                       (1) // 0x00000001  // valid flags for damage_results
-#define DAM_STUNNED                           (2) // 0x00000002
-#define DAM_KNOCKED_DOWN                      (4) // 0x00000004
-#define DAM_DODGED                            (8) // 0x00000008
-#define DAM_CRIP_LEG_LEFT                    (16) // 0x00000010
-#define DAM_CRIP_LEG_RIGHT                   (32) // 0x00000020
-#define DAM_CRIP_FOOT_LEFT                   (64) // 0x00000040
-#define DAM_CRIP_FOOT_RIGHT                 (128) // 0x00000080
-#define DAM_CRIP_ARM_LEFT                   (256) // 0x00000100
-#define DAM_CRIP_ARM_RIGHT                  (512) // 0x00000200
-#define DAM_CRIP_HAND_LEFT                 (1024) // 0x00000400
-#define DAM_CRIP_HAND_RIGHT                (2048) // 0x00000800
-#define DAM_BLIND_EYE_LEFT                 (4096) // 0x00001000
-#define DAM_BLIND_EYE_RIGHT                (8192) // 0x00002000
-#define DAM_DECAPITATED                   (16384) // 0x00004000
-#define DAM_SURPRISED                     (32768) // 0x00008000
-#define DAM_DEATH_1                       (65536) // 0x00010000
-#define DAM_DEATH_2                      (131072) // 0x00020000
-#define DAM_DEATH_3                      (262144) // 0x00040000
-#define DAM_HIT                          (524288) // 0x00080000  // true if hit or critical hit
-#define DAM_UNBALANCED                  (1048576) // 0x00100000
-#define DAM_DEAF                        (2097152) // 0x00200000
-#define DAM_DROP_WEAPON                 (4194304) // 0x00400000
-#define DAM_BREAK_WEAPON                (8388608) // 0x00800000
-#define DAM_UNREADY_WEAPON_LEFT        (16777216) // 0x01000000
-#define DAM_UNREADY_WEAPON_RIGHT       (33554432) // 0x02000000
-#define DAM_EXPLODE_WEAPON             (67108864) // 0x04000000
-#define DAM_DUD_SHOT                  (134217728) // 0x08000000
-#define DAM_IGNORE_DR                 (268435456) // 0x10000000
-#define DAM_CRITICAL                  (536870912) // 0x20000000  // could be a critical hit or critical miss
-#define DAM_ON_FIRE                  (1073741824) // 0x40000000
-*/
-
 #define DAM_KNOCKED_OUT        1
 #define DAM_KNOCKED_DOWN       2
 #define DAM_CRIP_LEG_LEFT      4
@@ -669,7 +621,6 @@
 
 /* Script MetaRules */
 #define METARULE_SIGNAL_END_GAME  13
-#define METARULE_TEST_FIRSTRUN    14
 #define signal_end_game   metarule(METARULE_SIGNAL_END_GAME, 0)
 #define METARULE_ELEVATOR         15
 #define elevator(X)       metarule(METARULE_ELEVATOR, X)
@@ -968,27 +919,9 @@ end
 
 #endif
 
+
 //Misc commands
 #define obj_get_rot(obj)  (has_trait(TRAIT_OBJECT, obj, OBJECT_CUR_ROT))
-
-//added by killap - appearance mod
-#define MASH_CRITTER_LIST_SIZE 		151
-
-//races  - added by killap
-#define WHITE_RACE					0
-#define BLACK_RACE					1
-
-//styles - added by killap
-#define REG_HAIR                    0
-#define LONG_HAIR                   1
-#define BALD_HAIR                   2
-//end added
-
-
-//added by killap -misc
-//NPC critter fid offset
-//add this to the fids (artfid) when using obj_art_fid
-#define NPC_ARTFID_WEAPON_OFFSET	4096
 
 //late includes go here
 #include "upu.h"

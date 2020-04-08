@@ -187,6 +187,23 @@ variable step_tile;
 #define anim_run_to_point_rate(the_tile, x)        move_to_point(the_tile, run, x)
 #define anim_run_to_point(the_tile)                anim_run_to_point_rate(the_tile, 1)
 
+// walk/run
+#define self_walk_to_tile(tile)             animate_move_obj_to_tile(self_obj,tile,ANIMATE_WALK)
+#define self_run_to_tile(tile)              animate_move_obj_to_tile(self_obj,tile,ANIMATE_RUN)
+#define self_run_to_tile_force(tile)        animate_move_obj_to_tile(self_obj,tile,ANIMATE_RUN_FORCE)
+#define dude_run_to_tile(tile)              animate_move_obj_to_tile(dude_obj,tile,ANIMATE_RUN)
+// rotate
+#define self_rotation_to_dude               rotation_to_tile(self_tile,dude_tile)
+#define obj_rotate(obj,dir)                 anim(obj,ANIMATE_ROTATION,dir)
+#define dude_rotate(dir)                    obj_rotate(dude_obj,dir)
+#define self_rotate(dir)                    obj_rotate(self_obj,dir)
+#define dude_rotation_to_self               rotation_to_tile(dude_tile,self_tile)
+#define self_look_at_dude                   anim(self_obj,ANIMATE_ROTATION,self_rotation_to_dude)
+// stand
+#define dude_stand                          animate_stand_obj(dude_obj)
+#define self_stand                          animate_stand_obj(self_obj)
+// and whatever
+#define self_set_frame(frame)               anim(self_obj,ANIMATE_SET_FRAME,frame)
 
 // map variables that share the same number throught the maps are listed here
 
@@ -194,6 +211,14 @@ variable step_tile;
                                              ((obj_item_subtype(critter_inven_obj(x,INVEN_TYPE_LEFT_HAND))) == item_type_weapon))
 #define critter_weight(x)                   (100 + ((get_critter_stat(x,STAT_gender) == GENDER_MALE) * 50) + (get_critter_stat(x,STAT_st) * 5) - ((get_critter_stat(x,STAT_ag) + get_critter_stat(x,STAT_en))/3))
 #define critter_wearing_armor(x)            (obj_item_subtype(critter_inven_obj(x,INVEN_TYPE_WORN)) == item_type_armor)
+
+// items in hands
+#define get_left_hand(cr)                 critter_inven_obj(cr,INVEN_TYPE_LEFT_HAND)
+#define dude_left_hand                    get_left_hand(dude_obj)
+#define self_left_hand                    get_left_hand(self_obj)
+#define get_right_hand(cr)                critter_inven_obj(cr,INVEN_TYPE_RIGHT_HAND)
+#define dude_right_hand                   get_right_hand(dude_obj)
+#define self_right_hand                   get_right_hand(self_obj)
 
 #define dude_is_stupid                      (dude_iq <= 3)
 #define dude_name                           (obj_name(dude_obj))
@@ -217,6 +242,10 @@ variable step_tile;
 #define dude_is_female                      (dude_gender == GENDER_FEMALE)
 #define dude_is_armed                       critter_is_armed(dude_obj)
 #define dude_wearing_armor                  critter_wearing_armor(dude_obj)
+
+#define get_armor(cr)                       critter_inven_obj(cr,INVEN_TYPE_WORN)
+#define dude_armor                          get_armor(dude_obj)
+#define self_armor                          get_armor(self_obj)
 
 #define dude_has_power_armor                (((obj_is_carrying_obj_pid(dude_obj, PID_POWERED_ARMOR)) +            \
                                               (obj_is_carrying_obj_pid(dude_obj, PID_ADVANCED_POWER_ARMOR)) +     \
@@ -258,6 +287,8 @@ variable step_tile;
                                              (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_METAL_ARMOR_MK_II))
 
 #define dude_wearing_vault_suit             COND019(1)
+#define dude_wearing_coc_robe               (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_PURPLE_ROBE)
+
 #define dude_has_gambling_skills            ((dude_iq > 3) and (has_skill(dude_obj, SKILL_GAMBLING) >= 25))
 
 #define dude_is_sneaking                    (using_skill(dude_obj,SKILL_SNEAK))
@@ -270,6 +301,11 @@ variable step_tile;
                                              (critter_state(dude_obj) bwand DAM_CRIP_ARM_LEFT)  or \
                                              (critter_state(dude_obj) bwand DAM_CRIP_ARM_RIGHT))
 
+#define get_rads(cr)                        get_critter_stat(cr,STAT_current_rad)
+#define dude_rads                           get_rads(dude_obj)
+#define self_rads                           get_rads(self_obj)
+
+#define get_cur_rot(cr)                     has_trait(TRAIT_OBJECT,cr,OBJECT_CUR_ROT)
 #define dude_cur_rot                        (has_trait(TRAIT_OBJECT,dude_obj,OBJECT_CUR_ROT))
 #define dude_inv_rot                        ((dude_cur_rot + 3)%6)
 #define dude_tile                           (tile_num(dude_obj))
@@ -288,6 +324,7 @@ variable step_tile;
 #define dude_smooth_talker                  (has_trait(TRAIT_PERK,dude_obj,PERK_smooth_talker))
 
 #define dude_caps                           (item_caps_total(dude_obj))
+#define dude_caps_adjust(caps)              item_caps_adjust(dude_obj,caps)
 
 #define dude_has_car                        (global_var(GVAR_PLAYER_GOT_CAR))
 #define dude_is_pornstar                    dude_has_porn_star_rep
@@ -341,6 +378,7 @@ variable step_tile;
                                                end                                              \
                                             end else attack(dude_obj)
 
+// stats
 #define self_name                           (obj_name(self_obj))
 #define self_gender                         (get_critter_stat(self_obj,STAT_gender))
 #define self_strength                       (get_critter_stat(self_obj,STAT_st))
@@ -351,13 +389,36 @@ variable step_tile;
 #define self_agility                        (get_critter_stat(self_obj,STAT_ag))
 #define self_luck                           (get_critter_stat(self_obj,STAT_lu))
 
+// more stats
+#define get_strength(cr)                    get_critter_stat(cr,STAT_st)
+#define get_perception(cr)                  get_critter_stat(cr,STAT_pe)
+#define get_endurance(cr)                   get_critter_stat(cr,STAT_en)
+#define get_charisma(cr)                    get_critter_stat(cr,STAT_ch)
+#define get_iq(cr)                          get_critter_stat(cr,STAT_iq)
+#define get_agility(cr)                     get_critter_stat(cr,STAT_ag)
+#define get_luck(cr)                        get_critter_stat(cr,STAT_lu)
+
+// gender
+#define get_gender(cr)                      get_critter_stat(cr,STAT_gender)
+#define is_male(cr)                         (get_gender(cr) == GENDER_MALE)
+#define is_female(cr)                       (get_gender(cr) == GENDER_FEMALE)
 #define self_is_male                        (self_gender == GENDER_MALE)
 #define self_is_female                      (self_gender == GENDER_FEMALE)
+
 #define self_is_armed                       critter_is_armed(self_obj)
 #define self_wearing_armor                  critter_wearing_armor(self_obj)
 
-#define self_carrying_laser_pistol          ((obj_pid(critter_inven_obj(self_obj,INVEN_TYPE_LEFT_HAND)) == PID_LASER_PISTOL) or \
-                                             (obj_pid(critter_inven_obj(self_obj,INVEN_TYPE_RIGHT_HAND)) == PID_LASER_PISTOL))
+// perks and traits
+#define get_perk(cr,perk)                   has_trait(TRAIT_PERK,cr,perk)
+#define dude_perk(perk)                     get_perk(dude_obj,perk)
+#define self_perk(perk)                     get_perk(self_obj,perk)
+#define get_trait(cr,trait)                 has_trait(TRAIT_TRAIT,cr,trait)
+#define dude_trait(trait)                   get_trait(dude_obj,trait)
+#define self_trait(trait)                   get_trait(self_obj,trait)
+
+#define self_carrying_laser_pistol \
+   ((obj_pid(critter_inven_obj(self_obj,INVEN_TYPE_LEFT_HAND)) == PID_LASER_PISTOL) or \
+   (obj_pid(critter_inven_obj(self_obj,INVEN_TYPE_RIGHT_HAND)) == PID_LASER_PISTOL))
 
 #define self_is_sneaking                    (using_skill(self_obj,SKILL_SNEAK))
 #define self_is_walking                     (art_anim(obj_art_fid(self_obj)) == ANIM_walk)
@@ -367,15 +428,36 @@ variable step_tile;
 #define self_cur_rot                        (has_trait(TRAIT_OBJECT,self_obj,OBJECT_CUR_ROT))
 #define self_inv_rot                        ((self_cur_rot + 3)%6)
 #define self_tile                           (tile_num(self_obj))
+#define source_tile                         tile_num(source_obj)
 #define self_elevation                      (elevation(self_obj))
 
 #define self_pid                            (obj_pid(self_obj))
-#define self_team                           has_trait(TRAIT_OBJECT,self_obj,OBJECT_TEAM_NUM)
-#define self_ai                             has_trait(TRAIT_OBJECT,self_obj,OBJECT_AI_PACKET)
-#define self_visible                        obj_is_visible_flag(self_obj)
 
+// team
+#define self_team                           has_trait(TRAIT_OBJECT,self_obj,OBJECT_TEAM_NUM)
+#define get_team(cr)                        has_trait(TRAIT_OBJECT,cr,OBJECT_TEAM_NUM)
+#define set_team(cr,team)                   critter_add_trait(cr,TRAIT_OBJECT,OBJECT_TEAM_NUM,team)
+#define set_self_team(team)                 set_team(self_obj,team)
+
+// ai
+#define self_ai                             has_trait(TRAIT_OBJECT,self_obj,OBJECT_AI_PACKET)
+#define get_ai(cr)                          has_trait(TRAIT_OBJECT,cr,OBJECT_AI_PACKET)
+#define set_ai(cr,ai)                       critter_add_trait(cr,TRAIT_OBJECT,OBJECT_AI_PACKET,ai)
+#define set_self_ai(ai)                     set_ai(self_obj,ai)
+
+// visibility
+#define self_visible                        obj_is_visible_flag(self_obj)
+#define set_obj_invisible(cr)               set_obj_visibility(cr,1)
+#define set_obj_visible(cr)                 set_obj_visibility(cr,0)
+#define set_self_invisible                  set_obj_invisible(self_obj)
+#define set_self_visible                    set_obj_visible(self_obj)
+#define is_visible(cr)                      has_trait(TRAIT_OBJECT,cr,OBJECT_VISIBILITY) // aka obj_is_visible_flag(x)
+
+// hp
 #define self_cur_hits                       (get_critter_stat(self_obj,STAT_current_hp))
 #define self_max_hits                       (get_critter_stat(self_obj,STAT_max_hp))
+#define get_cur_hits(cr)                    get_critter_stat(cr,STAT_current_hp)
+#define get_max_hits(cr)                    get_critter_stat(cr,STAT_max_hp)
 
 #define self_mental_block                   (has_trait(TRAIT_PERK,self_obj,PERK_mental_block))
 #define self_presence                       (has_trait(TRAIT_PERK,self_obj,PERK_presence))
@@ -383,18 +465,22 @@ variable step_tile;
 #define self_fortune_finder                 (has_trait(TRAIT_PERK,self_obj,PERK_fortune_finder))
 
 #define self_caps                           (item_caps_total(self_obj))
+#define self_caps_adjust(caps)              item_caps_adjust(self_obj,caps)
+
 #define self_fid                            (obj_art_fid(self_obj))
 
 #define skill_success(x,y,z)                (is_success(roll_vs_skill(x,y,z)))
 #define stat_success(x,y,z)                 (is_success(do_check(x,y,z)))
 
 #define self_can_see_dude                   obj_can_see_obj(self_obj,dude_obj)
+#define self_can_hear_dude                  obj_can_hear_obj(self_obj,dude_obj)
 #define self_distance_from_dude             tile_distance(self_tile, dude_tile)
 #define self_is_high                        drug_influence(self_obj)
 
 #define self_item(x)                        obj_carrying_pid_obj(self_obj, x)
 #define self_item_count(x)                  obj_is_carrying_obj_pid(self_obj, x)
-
+#define get_item(cr,pid)                    obj_carrying_pid_obj(cr,pid)
+#define get_item_count(cr,pid)              obj_is_carrying_obj_pid(cr,pid)
 
 // some timer event macros
 #define check_set_obj_visiblility(the_obj, x)       if (obj_is_visible_flag(the_obj) == x) then set_obj_visibility(the_obj, x)
@@ -585,14 +671,6 @@ FLOAT_MSG_BLUE
 // truncates a number
 #define trunc(x)                (x * -(x<1))
 
-/******************************************************************
- General commands getting information about a critter
-******************************************************************/
-#define critter_is_male         (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE)
-#define critter_is_female       (get_critter_stat(self_obj,STAT_gender) == GENDER_FEMALE)
-/*#define critter_is_armed        (((obj_item_subtype(critter_inven_obj(self_obj,INVEN_TYPE_RIGHT_HAND))) == item_type_weapon)  \
-                                or ((obj_item_subtype(critter_inven_obj(self_obj,INVEN_TYPE_LEFT_HAND))) == item_type_weapon))
-*/
 /******************************************************************
  General commands setting and getting the map exit
 ******************************************************************/
