@@ -298,7 +298,7 @@ end
 procedure Node904 begin
    variable item;
    //at gecko, give stealth boy
-   item:=create_object(54,0,0); //stealth boy
+   item:=create_object(PID_STEALTH_BOY,0,0); //stealth boy
    set_global_var(GVAR_ABBEY_ESCORT_BROTHER_JASON,2);
    add_obj_to_inven(dude_obj,item);
    inc_general_rep(3);
