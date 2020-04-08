@@ -30,7 +30,7 @@
 
 #define NAME                    SCRIPT_KSCORVEG
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 
 #include "../headers/command.h"
 

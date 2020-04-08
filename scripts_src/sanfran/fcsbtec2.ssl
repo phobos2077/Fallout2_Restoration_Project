@@ -173,10 +173,10 @@ end
 
 procedure critter_p_proc begin
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or (map_var(MVAR_Attack_Player)) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or (map_var(MVAR_Attack_Player)) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
-   end else if ( (local_var(LVAR_Said_Once) == 1) and obj_can_see_obj(self_obj,dude_obj) and (dude_is_sneaking) ) then begin
+   end else if ( (local_var(LVAR_Said_Once) == 1) and self_can_see_dude and (dude_is_sneaking) ) then begin
       set_local_var(LVAR_Said_Once,1);
       floater(random(150,151));
    end
@@ -204,7 +204,7 @@ end
 
 procedure Node001 begin
    Reply(300);
-   if ( (global_var(GVAR_SAN_FRAN_SUB) == SHI_SUB_WITH_CREW) and (has_skill(dude_obj,SKILL_CONVERSANT) > 80) ) then
+   if ( (global_var(GVAR_SAN_FRAN_SUB) == SHI_SUB_WITH_CREW) and (has_skill(dude_obj,SKILL_SPEECH) > 80) ) then
       NOption(301, Node990, 4);
    if (has_skill(dude_obj,SKILL_SCIENCE) > 80) then
       NOption(302, Node991, 4);
@@ -249,7 +249,7 @@ procedure Node008 begin
 end
 
 procedure Node990 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-20))) then begin
       call Node002;
    end else begin
       call Node003;
@@ -273,7 +273,7 @@ procedure Node992 begin
 end
 
 procedure Node993 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-25))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-25))) then begin
       call Node002;
    end else begin
       call Node006;

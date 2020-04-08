@@ -200,32 +200,32 @@ end
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_ai(AI_PEASANT);
 
-   if ((tile_distance(TILE_LEAVE_HOME,tile_num(self_obj)) <= RADIUS_HOME) or
-       (tile_distance(TILE_ENTER_HOME,tile_num(self_obj)) <= RADIUS_HOME)) then begin
+   if ((tile_distance(TILE_LEAVE_HOME,self_tile) <= RADIUS_HOME) or
+       (tile_distance(TILE_ENTER_HOME,self_tile) <= RADIUS_HOME)) then begin
        set_local_var(LVAR_Where_Am_I,AT_HOME);
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+       set_self_team(HOME_TEAM);
    end
-   else if (tile_distance(TILE_BAR,tile_num(dude_obj)) <= RADIUS_BAR) then begin
+   else if (tile_distance(TILE_BAR,dude_tile) <= RADIUS_BAR) then begin
        set_local_var(LVAR_Where_Am_I,AT_BAR);
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,BAR_TEAM);
+       set_self_team(BAR_TEAM);
    end
-   else if (tile_distance(TILE_DINER,tile_num(dude_obj)) <= RADIUS_DINER) then begin
+   else if (tile_distance(TILE_DINER,dude_tile) <= RADIUS_DINER) then begin
        set_local_var(LVAR_Where_Am_I,AT_DINER);
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,DINER_TEAM);
+       set_self_team(DINER_TEAM);
    end
-   else if (tile_distance(TILE_SHOP1,tile_num(dude_obj)) <= RADIUS_SHOP1) then begin
+   else if (tile_distance(TILE_SHOP1,dude_tile) <= RADIUS_SHOP1) then begin
        set_local_var(LVAR_Where_Am_I,AT_SHOP1);
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP1_TEAM);
+       set_self_team(SHOP1_TEAM);
    end
-   else if (tile_distance(TILE_SHOP2,tile_num(dude_obj)) <= RADIUS_SHOP2) then begin
+   else if (tile_distance(TILE_SHOP2,dude_tile) <= RADIUS_SHOP2) then begin
        set_local_var(LVAR_Where_Am_I,AT_SHOP2);
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP2_TEAM);
+       set_self_team(SHOP2_TEAM);
    end
    else begin
        set_local_var(LVAR_Where_Am_I,AT_STREET);
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+       set_self_team(HOME_TEAM);
    end
 end
 
@@ -253,7 +253,7 @@ procedure timed_event_p_proc begin
    else if (fixed_param == 1) then begin
        set_local_var(LVAR_Where_To_Go,AT_BAR);
        if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
-           set_obj_visibility(self_obj,0);              // Go visible
+           set_self_visible;              // Go visible
        end
    end
 
@@ -261,7 +261,7 @@ procedure timed_event_p_proc begin
    else if (fixed_param == 2) then begin
        set_local_var(LVAR_Where_To_Go,AT_DINER);
        if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
-           set_obj_visibility(self_obj,0);              // Go visible
+           set_self_visible;              // Go visible
        end
    end
 
@@ -269,7 +269,7 @@ procedure timed_event_p_proc begin
    else if (fixed_param == 3) then begin
        set_local_var(LVAR_Where_To_Go,AT_SHOP1);
        if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
-           set_obj_visibility(self_obj,0);              // Go visible
+           set_self_visible;              // Go visible
        end
    end
 
@@ -277,7 +277,7 @@ procedure timed_event_p_proc begin
    else if (fixed_param == 4) then begin
        set_local_var(LVAR_Where_To_Go,AT_SHOP2);
        if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
-           set_obj_visibility(self_obj,0);              // Go visible
+           set_self_visible;              // Go visible
        end
    end
 
@@ -285,7 +285,7 @@ procedure timed_event_p_proc begin
    else if (fixed_param == 5) then begin
        set_local_var(LVAR_Where_To_Go,AT_STREET);
        if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
-           set_obj_visibility(self_obj,0);              // Go visible
+           set_self_visible;              // Go visible
        end
    end
 end
@@ -301,7 +301,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -387,76 +387,76 @@ end
 
 procedure Find_Me begin
    if (local_var(LVAR_Where_To_Go) == AT_HOME) then begin
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+       set_self_team(HOME_TEAM);
        if (Show_Me_Out == 0) then begin
            Show_Me_Out:=random(1,10);
        end
 
        if (Show_Me_Out == 1) then begin
-           animate_move_to_tile(TILE_ENTER_HOME);
+           self_walk_to_tile(TILE_ENTER_HOME);
        end
        else begin
-           animate_move_to_tile(TILE_LEAVE_HOME);
+           self_walk_to_tile(TILE_LEAVE_HOME);
        end
    end
    else if (local_var(LVAR_Where_To_Go) == AT_BAR) then begin
-       animate_move_to_tile(TILE_BAR);
+       self_walk_to_tile(TILE_BAR);
    end
    else if (local_var(LVAR_Where_To_Go) == AT_DINER) then begin
-       animate_move_to_tile(TILE_DINER);
+       self_walk_to_tile(TILE_DINER);
    end
    else if (local_var(LVAR_Where_To_Go) == AT_SHOP1) then begin
-       animate_move_to_tile(TILE_SHOP1);
+       self_walk_to_tile(TILE_SHOP1);
    end
    else if (local_var(LVAR_Where_To_Go) == AT_SHOP2) then begin
-       animate_move_to_tile(TILE_SHOP2);
+       self_walk_to_tile(TILE_SHOP2);
    end
    else if (local_var(LVAR_Where_To_Go) == AT_STREET) then begin
-       animate_move_to_tile(TILE_STREET);
+       self_walk_to_tile(TILE_STREET);
    end
 end
 
 procedure Roam_Around begin
    if (local_var(LVAR_Where_Am_I) == AT_HOME) then begin
        Show_Me_Out:=0;
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,HOME_TEAM);
+       set_self_team(HOME_TEAM);
        if (local_var(LVAR_Lifestyle) != LIFESTYLE_HOME_BODY) then begin
-           set_obj_visibility(self_obj,1);              // Go invisible
+           set_self_invisible;              // Go invisible
        end
    end
    else if (local_var(LVAR_Where_Am_I) == AT_BAR) then begin
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,BAR_TEAM);
-       if (tile_distance(TILE_BAR,tile_num(self_obj)) > RADIUS_BAR) then
-           animate_move_to_tile(TILE_BAR);
+       set_self_team(BAR_TEAM);
+       if (tile_distance(TILE_BAR,self_tile) > RADIUS_BAR) then
+           self_walk_to_tile(TILE_BAR);
        else
-           animate_move_to_tile(tile_num_in_direction(TILE_BAR,random(0,5),random(0,RADIUS_BAR)));
+           self_walk_to_tile(tile_num_in_direction(TILE_BAR,random(0,5),random(0,RADIUS_BAR)));
    end
    else if (local_var(LVAR_Where_Am_I) == AT_DINER) then begin
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,DINER_TEAM);
-       if (tile_distance(TILE_DINER,tile_num(self_obj)) > RADIUS_DINER) then
-           animate_move_to_tile(TILE_DINER);
+       set_self_team(DINER_TEAM);
+       if (tile_distance(TILE_DINER,self_tile) > RADIUS_DINER) then
+           self_walk_to_tile(TILE_DINER);
        else
-           animate_move_to_tile(tile_num_in_direction(TILE_DINER,random(0,5),random(0,RADIUS_BAR)));
+           self_walk_to_tile(tile_num_in_direction(TILE_DINER,random(0,5),random(0,RADIUS_BAR)));
    end
    else if (local_var(LVAR_Where_Am_I) == AT_SHOP1) then begin
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP1_TEAM);
-       if (tile_distance(TILE_SHOP1,tile_num(self_obj)) > RADIUS_SHOP1) then
-           animate_move_to_tile(TILE_SHOP1);
+       set_self_team(SHOP1_TEAM);
+       if (tile_distance(TILE_SHOP1,self_tile) > RADIUS_SHOP1) then
+           self_walk_to_tile(TILE_SHOP1);
        else
-           animate_move_to_tile(tile_num_in_direction(TILE_SHOP1,random(0,5),random(0,RADIUS_BAR)));
+           self_walk_to_tile(tile_num_in_direction(TILE_SHOP1,random(0,5),random(0,RADIUS_BAR)));
    end
    else if (local_var(LVAR_Where_Am_I) == AT_SHOP2) then begin
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,SHOP2_TEAM);
-       if (tile_distance(TILE_SHOP2,tile_num(self_obj)) > RADIUS_SHOP2) then
-           animate_move_to_tile(TILE_SHOP2);
+       set_self_team(SHOP2_TEAM);
+       if (tile_distance(TILE_SHOP2,self_tile) > RADIUS_SHOP2) then
+           self_walk_to_tile(TILE_SHOP2);
        else
-           animate_move_to_tile(tile_num_in_direction(TILE_SHOP2,random(0,5),random(0,RADIUS_BAR)));
+           self_walk_to_tile(tile_num_in_direction(TILE_SHOP2,random(0,5),random(0,RADIUS_BAR)));
    end
    else if (local_var(LVAR_Where_Am_I) == AT_STREET) then begin
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,STREET_TEAM);
-       if (tile_distance(TILE_STREET,tile_num(self_obj)) > RADIUS_STREET) then
-           animate_move_to_tile(TILE_STREET);
+       set_self_team(STREET_TEAM);
+       if (tile_distance(TILE_STREET,self_tile) > RADIUS_STREET) then
+           self_walk_to_tile(TILE_STREET);
        else
-           animate_move_to_tile(tile_num_in_direction(TILE_STREET,random(0,5),random(0,RADIUS_BAR)));
+           self_walk_to_tile(tile_num_in_direction(TILE_STREET,random(0,5),random(0,RADIUS_BAR)));
    end
 end

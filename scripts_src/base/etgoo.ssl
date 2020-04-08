@@ -48,16 +48,16 @@ end
 //edits by killap - expansion
 procedure spatial_p_proc
 begin
-     if (tile_has_rad_goo(tile_num(source_obj), self_elevation)) then begin
+     if (tile_has_rad_goo(source_tile, self_elevation)) then begin
         my_boots:=0;
         worn:=0;
         //dont need to be carrying boots in hand
-        if (obj_carrying_pid_obj(source_obj, PID_RUBBER_BOOTS)) then begin
+        if (get_item(source_obj, PID_RUBBER_BOOTS)) then begin
            //if carrying boots ..do boot damage
           //ndebug("NPC Code");
            k := random(1,100);
            if (k < 2) then begin //1% chance to melt
-              my_boots := obj_carrying_pid_obj(source_obj, PID_RUBBER_BOOTS);
+              my_boots := get_item(source_obj, PID_RUBBER_BOOTS);
               rm_obj_from_inven(source_obj, my_boots);
               destroy_object(my_boots);
               if (source_obj == dude_obj) then
@@ -87,8 +87,8 @@ procedure meltem begin
 end
 
 procedure pain begin
-   if (critter_inven_obj(source_obj,INVEN_TYPE_WORN) != 0) then
-      worn := obj_pid(critter_inven_obj(source_obj,INVEN_TYPE_WORN));
+   if (get_armor(source_obj) != 0) then
+      worn := obj_pid(get_armor(source_obj));
    if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and  (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin
         //if not wearing powered armor then do damage
         //ndebug("It hurts!");
@@ -115,10 +115,10 @@ end
 /*procedure spatial_p_proc begin
    if (obj_no_goo_effect(source_obj) == false) then begin
 
-      if (tile_has_rad_goo(tile_num(source_obj), self_elevation)) then begin
+      if (tile_has_rad_goo(source_tile, self_elevation)) then begin
          //added by killap - expansion
-         if (critter_inven_obj(source_obj,INVEN_TYPE_WORN) != 0) then
-            worn := obj_pid(critter_inven_obj(source_obj,INVEN_TYPE_WORN));
+         if (get_armor(source_obj) != 0) then
+            worn := obj_pid(get_armor(source_obj));
          if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and  (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin
          //end added
             if (source_obj == dude_obj) then begin

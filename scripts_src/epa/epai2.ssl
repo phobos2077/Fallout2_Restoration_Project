@@ -35,7 +35,7 @@ procedure timed_event_p_proc
 begin
   if (fixed_param == 3) then
   begin
-    float_msg(self_obj, message_str(NAME, random(112, 114)), FLOAT_MSG_WHITE);
+    float_msg(self_obj, mstr(random(112, 114)), FLOAT_MSG_WHITE);
     add_timer_event(self_obj, game_ticks(random(5, 10)), 3);
   end
 end
@@ -46,11 +46,11 @@ procedure use_skill_on_p_proc begin
       if (local_var(LVAR_Herebefore) == 2) then begin
          script_overrides;
          if (global_var(GVAR_FIX_VOICECOMP) >= 4) then begin
-            display_msg(message_str(NAME, 115));
+            display_msg(mstr(115));
          end else if ((has_skill(source_obj, SKILL_REPAIR) < 76) ) then
-            display_msg(message_str(NAME, 108));
+            display_msg(mstr(108));
          else begin
-            display_msg(message_str(NAME, 109));
+            display_msg(mstr(109));
             set_global_var(GVAR_FIX_VOICECOMP, 4);
             give_xp(500);
          end
@@ -64,11 +64,11 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       if (local_var(LVAR_Herebefore) == 2) then begin
          if (global_var(GVAR_FIX_VOICECOMP) >= 4) then begin
-            display_msg(message_str(NAME, 115));
+            display_msg(mstr(115));
          end else if ((has_skill(source_obj, SKILL_REPAIR) < 56) ) then
-            display_msg(message_str(NAME, 108));
+            display_msg(mstr(108));
          else begin
-            display_msg(message_str(NAME, 109));
+            display_msg(mstr(109));
             set_global_var(GVAR_FIX_VOICECOMP, 4);
             give_xp(500);
          end
@@ -97,30 +97,30 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 100);
-  giq_option(4, NAME, 101, Node002, 50);
+  Reply(100);
+  NOption(101, Node002, 4);
   if (global_var(GVAR_FIX_VOICECOMP) < 4) then
-    giq_option(4, NAME, 102, Node003, 50);
-  giq_option(4, NAME, 103, Node999, 50);
+    NOption(102, Node003, 4);
+  NOption(103, Node999, 4);
 end
 
 procedure Node002
 begin
-  gsay_reply(NAME, 104);
-  giq_option(4, NAME, 103, Node999, 50);
+  Reply(104);
+  NOption(103, Node999, 4);
 end
 
 procedure Node003
 begin
-  gsay_reply(NAME, 106);
-  giq_option(4, NAME, 107, Node999, 50);
+  Reply(106);
+  NOption(107, Node999, 4);
   set_local_var(LVAR_Herebefore, 2);
 end
 
 procedure Node004
 begin
-  gsay_reply(NAME, 110);
-  giq_option(4, NAME, 111, Node999, 50);
+  Reply(110);
+  NOption(111, Node999, 4);
 end
 
 procedure Node999

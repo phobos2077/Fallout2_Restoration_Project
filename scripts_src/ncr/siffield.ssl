@@ -72,7 +72,7 @@ end
 
 //added by killap
 procedure map_enter_p_proc begin
-   if (obj_pid(self_obj) != -1) then begin
+   if (self_pid != -1) then begin
        Field1a_Ptr:=self_obj;
    end
 
@@ -80,26 +80,26 @@ procedure map_enter_p_proc begin
    if (local_var(LVAR_Timed_Event) == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (obj_pid(self_obj) != -1) then begin
-           set_obj_visibility(self_obj,0);                  // vis
+       if (self_pid != -1) then begin
+           set_self_visible;                  // vis
        end
    end
 end
 //end added
 
 procedure map_update_p_proc begin
-   if (obj_pid(self_obj) != -1) then begin
+   if (self_pid != -1) then begin
        Field1a_Ptr:=self_obj;
    end
 
    if (global_var(POWER_SOURCE) == 0) then begin              // power on
        if ((map_var(FIELD_STATUS) == FIELD_DISABLED) and (local_var(LVAR_Timed_Event) == 0)) then begin
            set_local_var(LVAR_Timed_Event,1);
-           set_obj_visibility(self_obj,1);              // invis
+           set_self_invisible;              // invis
            add_timer_event(self_obj,game_ticks(FEILD_DOWN_TIME),1);
        end
    end else begin                                  // No Power
-      set_obj_visibility(self_obj,1);              // invis
+      set_self_invisible;              // invis
    end
 end
 
@@ -107,8 +107,8 @@ procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (obj_pid(self_obj) != -1) then begin
-           set_obj_visibility(self_obj,0);                  // vis
+       if (self_pid != -1) then begin
+           set_self_visible;                  // vis
        end
    end
 end

@@ -95,8 +95,8 @@ procedure map_enter_p_proc begin
    variable pole;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_WARRIOR);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_ARROYO_WARRIOR);
 
    if ((tile_contains_obj_pid(21303,0,PID_TEMPLE_SKULL_POLE)) and (global_var(GVAR_START_ARROYO_TRIAL) != 0)) then begin
        pole:=tile_contains_pid_obj(21303,0,PID_TEMPLE_SKULL_POLE);
@@ -114,13 +114,13 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
    //added by killap
-   if ( (REP_ENEMY_ARROYO) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( (REP_ENEMY_ARROYO) and (self_can_see_dude) ) then begin
        attack(dude_obj);
    end
    //end added by killap
@@ -247,7 +247,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   Reply(mstr(103)+obj_name(dude_obj)+mstr(104));
+   Reply(mstr(103)+dude_name+mstr(104));
 
    NLowOption(105,Node002);
    NOption(106,Node003,004);
@@ -256,13 +256,13 @@ procedure Node001 begin
 end
 
 procedure Node002 begin
-   Reply(mstr(109)+obj_name(dude_obj)+mstr(110));
+   Reply(mstr(109)+dude_name+mstr(110));
 
    NLowOption(111,Node999);
 end
 
 procedure Node003 begin
-   Reply(mstr(112)+obj_name(dude_obj)+mstr(113));
+   Reply(mstr(112)+dude_name+mstr(113));
 
    NOption(114,Node999,004);
    NOption(115,Node004,004);

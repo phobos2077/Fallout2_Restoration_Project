@@ -137,11 +137,11 @@ procedure map_enter_p_proc begin
    end
 
    //added by killap
-   if (gang_2_member_2_killed and obj_pid(self_obj) == PID_GUN_GUARD_MALE) then
+   if (gang_2_member_2_killed and self_pid == PID_GUN_GUARD_MALE) then
       destroy_object(gang_2_member_2);
-   if (gang_2_member_3_killed and obj_pid(self_obj) == PID_MELEE_GUARD_MALE) then
+   if (gang_2_member_3_killed and self_pid == PID_MELEE_GUARD_MALE) then
       destroy_object(gang_2_member_3);
-   if (gang_2_member_4_killed and obj_pid(self_obj) == PID_AGILE_GUARD_FEMALE) then
+   if (gang_2_member_4_killed and self_pid == PID_AGILE_GUARD_FEMALE) then
       destroy_object(gang_2_member_4);
    //end added
 
@@ -166,7 +166,7 @@ procedure critter_p_proc begin
    //added by killap - expansion
    if (gangwar(state_gangwar_2won)) then begin
       if (self_team == TEAM_PLAYER) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_GANG_2);
+         set_self_team(TEAM_DEN_GANG_2);
       end
    end
 

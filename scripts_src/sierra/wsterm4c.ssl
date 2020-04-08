@@ -117,7 +117,7 @@ end
 procedure use_p_proc begin
    variable Damage;
 
-   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
        end
@@ -150,8 +150,8 @@ procedure talk_p_proc begin
    end
 
    if (local_var(LVAR_Broken) == 1) then begin
-       if (tile_contains_obj_pid(11311,elevation(self_obj),PID_REPAIR_BOT_2)) then begin
-           Critter:=tile_contains_pid_obj(11311,elevation(self_obj),PID_REPAIR_BOT_2);
+       if (tile_contains_obj_pid(11311,self_elevation,PID_REPAIR_BOT_2)) then begin
+           Critter:=tile_contains_pid_obj(11311,self_elevation,PID_REPAIR_BOT_2);
            critter_dmg(Critter,1000,DMG_explosion);
        end
    end

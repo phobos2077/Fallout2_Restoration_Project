@@ -71,7 +71,7 @@ procedure start begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 end
@@ -138,7 +138,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+   set_self_team(TEAM_ABBEY);
 end
 
 
@@ -163,7 +163,7 @@ end
 
 procedure Node001 begin
    Reply(200);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_MOTIVATOR) and global_var(GVAR_ABBEY_PART) == 1)) then begin
+   if ((dude_item_count(PID_MOTIVATOR) and global_var(GVAR_ABBEY_PART) == 1)) then begin
       NOption(201,Node002,4);
       NLowOption(600,Node004);
    end
@@ -180,7 +180,7 @@ end
 
 procedure Node002a begin
 variable item;
-   item:=obj_carrying_pid_obj(dude_obj,PID_MOTIVATOR);
+   item:=dude_item(PID_MOTIVATOR);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
    display_msg(mstr(500));
@@ -205,7 +205,7 @@ end
 
 procedure Node004 begin
 variable item;
-   item:=obj_carrying_pid_obj(dude_obj,PID_MOTIVATOR);
+   item:=dude_item(PID_MOTIVATOR);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
    display_msg(mstr(500));

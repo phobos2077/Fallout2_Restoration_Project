@@ -149,7 +149,7 @@ procedure Node019;
 #define get_slot_penalty                  ((slot_penalty + (win_payoff * jackpot_penalty)) + machine_repair_bonus) /*added bonus-killap*/
 #define slot_roll                         (roll_vs_skill(dude_obj, SKILL_GAMBLING, get_slot_penalty))
 
-#define slot_floater(x)                   float_msg(self_obj, message_str(NAME,x), FLOAT_COLOR_SFX)
+#define slot_floater(x)                   float_msg(self_obj, mstr(x), FLOAT_COLOR_SFX)
 #define slot_floater_rand(x,y)            slot_floater(random(x,y))
 #define slot_mstr(x)                      message_str(SCRIPT_ZISLOTS, x)
 #define slot_reply(x)                     gSay_Reply(SCRIPT_ZISLOTS,x)
@@ -178,7 +178,7 @@ procedure Node019;
 
 
 //killap code
-#define do_slot_payoff(x)                 item_caps_adjust(dude_obj, x);                                          \
+#define do_slot_payoff(x)                 dude_caps_adjust(x);                                          \
                                           if ((x>=lowest_jackpot_payoff) and (coin_mult==coin_max)) then begin    \
                                              set_won_jackpot                                                      \
                                              set_global_var(GVAR_NEW_RENO_MCGEE_SEED, mcgee_state_jackpot);       \

@@ -170,16 +170,16 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    party_member_map_enter;
    if (Cyberdog_In_Party) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    end else begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+      set_self_team(TEAM_NCR);
    end
 end
 
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -215,7 +215,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -489,7 +489,7 @@ procedure Node1100 begin // rejoin party
 end
 
 procedure Heal_Robo(variable bonus) begin
-   if (local_var(LVAR_Heal_Count) < has_skill(source_obj, SKILL_CONVERSANT)) then begin
+   if (local_var(LVAR_Heal_Count) < has_skill(source_obj, SKILL_SPEECH)) then begin
       if (skill_success(source_obj, SKILL_REPAIR, bonus)) then begin
          critter_heal(self_obj, Random(10, 40));
          set_local_var(LVAR_Heal_Count, local_var(LVAR_Heal_Count) + 50);

@@ -67,7 +67,7 @@ variable special_item;
             destroy_object(the_box_to_kill);
          end
 
-         item_caps_adjust(self_obj, random(5, 250) - self_caps);
+         self_caps_adjust(random(5, 250) - self_caps);
          check_restock_item(PID_SPEAR, 0, 7, 100)
          check_restock_item(PID_KNIFE, 0, 11, 100)
          check_restock_item(PID_10MM_PISTOL, 0, 2, 100)

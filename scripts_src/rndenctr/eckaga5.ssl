@@ -124,8 +124,8 @@ procedure do_setup begin
    variable Critter_Tile;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAGA);
+   set_self_team(TEAM_RND_KAGA);
+   set_self_ai(AI_KAGA);
    //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
    set_kaga_1;
    set_kaga_2;
@@ -146,15 +146,15 @@ procedure do_setup begin
    //Face_Critter(dude_obj, self_obj);
    //Face_Critter(self_obj, dude_obj);
 
-   wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_GATLING_LASER));
+   wield_obj_critter(self_obj,self_item(PID_GATLING_LASER));
 
    Critter:=create_object_sid(PID_MALE_MERCENARY ,0,0,SCRIPT_ECMERCS);
    add_obj_to_inven(Critter, create_object(PID_PLASMA_PISTOL,0,0));
    add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,50));
    add_mult_objs_to_inven(Critter, create_object(PID_SMALL_ENERGY_CELL,0,0),2);
-   wield_obj_critter(Critter,obj_carrying_pid_obj(Critter, PID_PLASMA_PISTOL));
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   wield_obj_critter(Critter,get_item(Critter, PID_PLASMA_PISTOL));
+   set_team(Critter,TEAM_RND_KAGA);
+   set_ai(Critter,AI_GENERIC_GUARDS);
    Critter_Rotation:=dude_inv_rot;
    Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
    critter_attempt_placement(Critter,Critter_Tile,0);
@@ -164,9 +164,9 @@ procedure do_setup begin
    add_obj_to_inven(Critter, create_object(PID_NEEDLER_PISTOL,0,0));
    add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,50));
    add_mult_objs_to_inven(Critter, create_object(PID_HN_NEEDLER_CARTRIDGE,0,0),2);
-   wield_obj_critter(Critter,obj_carrying_pid_obj(Critter, PID_NEEDLER_PISTOL));
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   wield_obj_critter(Critter,get_item(Critter, PID_NEEDLER_PISTOL));
+   set_team(Critter,TEAM_RND_KAGA);
+   set_ai(Critter,AI_GENERIC_GUARDS);
    Critter_Rotation:=dude_inv_rot;
    Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
    critter_attempt_placement(Critter,Critter_Tile,0);
@@ -178,9 +178,9 @@ procedure do_setup begin
    add_mult_objs_to_inven(Critter, create_object(PID_SMALL_ENERGY_CELL,0,0),2);
    item:=create_object(PID_PLASMA_GRENADE,0,0);
    add_mult_objs_to_inven(Critter,item,random(4,6));
-   wield_obj_critter(Critter,obj_carrying_pid_obj(Critter, PID_PLASMA_GRENADE));
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   wield_obj_critter(Critter,get_item(Critter, PID_PLASMA_GRENADE));
+   set_team(Critter,TEAM_RND_KAGA);
+   set_ai(Critter,AI_GENERIC_GUARDS);
    Critter_Rotation:=dude_inv_rot;
    Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
    critter_attempt_placement(Critter,Critter_Tile,0);
@@ -190,9 +190,9 @@ procedure do_setup begin
    add_obj_to_inven(Critter, create_object(PID_RIPPER,0,0));
    add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,50));
    add_mult_objs_to_inven(Critter, create_object(PID_SMALL_ENERGY_CELL,0,0),2);
-   wield_obj_critter(Critter,obj_carrying_pid_obj(Critter, PID_RIPPER));
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   wield_obj_critter(Critter,get_item(Critter, PID_RIPPER));
+   set_team(Critter,TEAM_RND_KAGA);
+   set_ai(Critter,AI_GENERIC_GUARDS);
    Critter_Rotation:=dude_inv_rot;
    Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
    critter_attempt_placement(Critter,Critter_Tile,0);
@@ -227,7 +227,7 @@ procedure critter_p_proc begin
    this as well. */
    if (not( is_loading_game ) and not(kaga_5)) then begin
       call do_setup;
-   end else if ( not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   end else if ( not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        //set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end

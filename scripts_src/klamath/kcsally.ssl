@@ -129,8 +129,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -143,7 +143,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Personal_Enemy) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Personal_Enemy) == 1) and (self_can_see_dude)) then begin
        self_attack_dude;
    end
 
@@ -188,7 +188,7 @@ procedure talk_p_proc begin
    end
 
    //if Low INT
-   else if ((get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
+   else if ((dude_iq <= (0-LOW_IQ))) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node001;
@@ -306,8 +306,8 @@ end
 procedure Node914 begin
 //money check
 //[if <$25 in inventory then goto 22, else subtract $25 from PC and goto 18]
-   if (item_caps_total(dude_obj) >= 25) then begin
-      item_caps_adjust(dude_obj, -25);
+   if (dude_caps >= 25) then begin
+      dude_caps_adjust(-25);
       call Node018;
    end
    else begin
@@ -318,8 +318,8 @@ end
 procedure Node915 begin
 //money check
 //[if <$35 in inventory then goto 22, else subtract $35 from PC and goto 18]
-   if (item_caps_total(dude_obj) >= 35) then begin
-      item_caps_adjust(dude_obj, -35);
+   if (dude_caps >= 35) then begin
+      dude_caps_adjust(-35);
       call Node018;
    end
    else begin
@@ -330,8 +330,8 @@ end
 procedure Node916 begin
 //money check
 //[if <$55 in inventory then goto 23, else subtract $55 from PC and goto 19]
-   if (item_caps_total(dude_obj) >= 55) then begin
-      item_caps_adjust(dude_obj, -55);
+   if (dude_caps >= 55) then begin
+      dude_caps_adjust(-55);
       call Node019;
    end
    else begin
@@ -342,8 +342,8 @@ end
 procedure Node917 begin
 //money check
 //[if <$70 in inventory then goto 23, else subtract $70 from PC and goto 19]
-   if (item_caps_total(dude_obj) >= 70) then begin
-      item_caps_adjust(dude_obj, -70);
+   if (dude_caps >= 70) then begin
+      dude_caps_adjust(-70);
       call Node019;
    end
    else begin
@@ -354,8 +354,8 @@ end
 procedure Node918 begin
 //money check
 //[if <$125 in inventory then goto 23, else subtract $125 from PC and goto 20]
-   if (item_caps_total(dude_obj) >= 125) then begin //killap's fix: was 124
-      item_caps_adjust(dude_obj, -125);
+   if (dude_caps >= 125) then begin //killap's fix: was 124
+      dude_caps_adjust(-125);
       call Node020;
    end
    else begin
@@ -366,8 +366,8 @@ end
 procedure Node919 begin
 //money check
 //[if <$185 in inventory then goto 23, else subtract $185 from PC and goto 20]
-   if (item_caps_total(dude_obj) >= 185) then begin
-      item_caps_adjust(dude_obj, -185);
+   if (dude_caps >= 185) then begin
+      dude_caps_adjust(-185);
       call Node020;
    end
    else begin
@@ -377,7 +377,7 @@ end
 
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -390,7 +390,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -536,7 +536,7 @@ procedure Node018 begin
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(330);
    gfade_out(600);
-   move_to(dude_obj,POOR_SERVICE,elevation(dude_obj));
+   move_to(dude_obj,POOR_SERVICE,dude_elevation);
    game_time_advance(game_ticks(1800));
    gfade_in(600);
 //fade out 30 min ... attendent 1 float dialog
@@ -548,7 +548,7 @@ procedure Node019 begin
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(340);
    gfade_out(600);
-   move_to(dude_obj,FAIR_SERVICE,elevation(dude_obj));
+   move_to(dude_obj,FAIR_SERVICE,dude_elevation);
    game_time_advance(game_ticks(3600));
    gfade_in(600);
 //fade out 1 hour ...  attendent 1 float dialog
@@ -560,7 +560,7 @@ procedure Node020 begin
    set_map_var(MVAR_Just_Had_Sex,1);
    NMessage(350);
    gfade_out(600);
-   move_to(dude_obj,BEST_SERVICE,elevation(dude_obj));
+   move_to(dude_obj,BEST_SERVICE,dude_elevation);
    game_time_advance(game_ticks(7200));
    gfade_in(600);
 //fade out 2 hours ...  jenny float dialog

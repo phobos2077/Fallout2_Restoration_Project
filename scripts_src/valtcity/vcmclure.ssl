@@ -179,8 +179,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 700 ) and ( game_time_hour < 1800 ) ) then begin
@@ -204,7 +204,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -367,7 +367,7 @@ procedure Node006 begin
     set_global_var(GVAR_VAULT_SERVANT, SERVANT_FINISHED_DIPLOMATIC);
     set_global_var(GVAR_QUEST_VAULT_SERVANT, SERVANT_QUEST_FINISHED);
     gsay_reply(SCRIPT_VCMCLURE, 357);
-    giq_option(4, SCRIPT_VCMCLURE, 358, Node999, 50);
+    giq_option(4, SCRIPT_VCMCLURE, 358, Node999, NEUTRAL_REACTION);
   end
   else
   begin
@@ -431,17 +431,17 @@ procedure Node008 begin
       NOption(133, Node042, 004);
    if( global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_REPAIRED ) then
       NOption(134, Node008b, 004);
-   if( ( ( obj_is_carrying_obj_pid( dude_obj, PID_GECKO_DATA_DISK ) > 0 ) and
+   if( ( ( dude_item_count( PID_GECKO_DATA_DISK) > 0) and
        ( global_var(GVAR_VAULT_GECKO_PLANT) > PLANT_NEED_PART ) and
        ( global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REACTOR_DATA_ANALYZED ) and
        ( global_var(GVAR_VAULT_GECKO_PLANT) != PLANT_DESTROYED ) and
        ( global_var(GVAR_MCCLURE_KNOWN) < MCCLURE_CONVINCED ) )
-        or ( ( obj_is_carrying_obj_pid( dude_obj, PID_GECKO_DATA_DISK ) > 0 ) and ( global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_OPTIMIZED ) ) ) then
+        or ( ( dude_item_count( PID_GECKO_DATA_DISK) > 0) and ( global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_OPTIMIZED ) ) ) then
       NOption(135, Node048, 004);
    if( ( global_var(GVAR_MCCLURE_KNOWN) == MCCLURE_CONVINCED ) and ( global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED ) ) then
       NOption(136, Node060, 004);
    if( ( global_var(GVAR_MCCLURE_KNOWN) == MCCLURE_APPROVAL ) and
-       ( obj_is_carrying_obj_pid( dude_obj, PID_REACTOR_DATA_DISK ) > 0 ) and
+       ( dude_item_count( PID_REACTOR_DATA_DISK) > 0) and
        ( global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED ) ) then
       NOption(137, Node059, 004);
    //added by killap - expansion pack (Village)
@@ -452,7 +452,7 @@ procedure Node008 begin
 end
 
 procedure Node008a begin
-   if( has_skill( dude_obj, SKILL_CONVERSANT ) <= 50 ) then
+   if( has_skill( dude_obj, SKILL_SPEECH ) <= 50 ) then
       call Node025;
    else
       call Node026;
@@ -505,7 +505,7 @@ end
 procedure Node012 begin
    Reply(151);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then
+   if( dude_item_count( PID_FAKE_CITIZENSHIP) > 0) then
       BOption(152, Node013, 004);
    BOption(153, Node1000, 004);
 end
@@ -797,7 +797,7 @@ procedure Node041 begin
 end
 
 procedure Node041a begin
-   item_caps_adjust( dude_obj, 500 );
+   dude_caps_adjust( 500);
 end
 
 procedure Node042 begin
@@ -829,7 +829,7 @@ procedure Node045 begin
 
    Reply(278);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_GECKO_DATA_DISK ) == 0 ) then
+   if( dude_item_count( PID_GECKO_DATA_DISK) == 0) then
       NOption(279, Node045a, 004);
    else
       NOption(280, Node048, 004);
@@ -972,7 +972,7 @@ procedure Node055 begin
 end
 
 procedure Node055a begin
-   if( obj_is_carrying_obj_pid( dude_obj, PID_GECKO_DATA_DISK ) > 0 ) then
+   if( dude_item_count( PID_GECKO_DATA_DISK) > 0) then
       call Node057;
    else
       call Node999;
@@ -994,11 +994,11 @@ procedure Node057 begin
    variable itemCount;
    variable dummy;
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_GECKO_DATA_DISK ) > 0 ) then begin
+   if( dude_item_count( PID_GECKO_DATA_DISK) > 0) then begin
 
       // Remove Econ disk from player inventory.
-      itemCount := obj_is_carrying_obj_pid( dude_obj, PID_GECKO_DATA_DISK );
-      item := obj_carrying_pid_obj( dude_obj, PID_GECKO_DATA_DISK );
+      itemCount := dude_item_count( PID_GECKO_DATA_DISK);
+      item := dude_item( PID_GECKO_DATA_DISK);
       dummy := rm_mult_objs_from_inven( dude_obj, item, itemCount );
       destroy_object(item); //added by killap
 
@@ -1032,7 +1032,7 @@ procedure Node058 begin
    set_global_var( GVAR_MCCLURE_KNOWN, MCCLURE_APPROVAL );
    Reply(325);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_REACTOR_DATA_DISK ) == 0 ) then
+   if( dude_item_count( PID_REACTOR_DATA_DISK) == 0) then
       NOption(326, Node055a, 004);
    else
       NOption(327, Node059, 004);
@@ -1070,9 +1070,9 @@ procedure Node061
 begin
   gsay_reply(SCRIPT_VCMCLURE, 346);
   if ( (global_var(GVAR_VAULT_VILLAGE) != 0) and (global_var(GVAR_QUEST_VAULT_VILLAGE) != VILLAGE_QUEST_DELIVERED_GUNS) ) then
-    giq_option(4, SCRIPT_VCMCLURE, 347, Node062, 50);
-  giq_option(4, SCRIPT_VCMCLURE, 348, Node008, 50);
-  giq_option(4, SCRIPT_VCMCLURE, 349, Node999, 50);
+    giq_option(4, SCRIPT_VCMCLURE, 347, Node062, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_VCMCLURE, 348, Node008, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_VCMCLURE, 349, Node999, NEUTRAL_REACTION);
 end
 
 procedure Node063
@@ -1081,9 +1081,9 @@ begin
 
    //if (global_var(GVAR_VAULT_VILLAGE_MOLERAT_ORIGIN_KNOWN) > 0 ) then begin
    if ( (mole_rat_origin_info) or (mole_rat_origin_amulet) ) then begin
-      giq_option(4, SCRIPT_VCMCLURE, 353, Node064, 50);
+      giq_option(4, SCRIPT_VCMCLURE, 353, Node064, NEUTRAL_REACTION);
    end else begin
-      giq_option(4, SCRIPT_VCMCLURE, 354, Node064, 50);
+      giq_option(4, SCRIPT_VCMCLURE, 354, Node064, NEUTRAL_REACTION);
    end
 end
 
@@ -1093,7 +1093,7 @@ begin
   if (global_var(GVAR_VAULT_SERVANT) < SERVANT_TIME_EXTENDED) then
     set_global_var(GVAR_VAULT_SERVANT, SERVANT_TIME_EXTENDED);
   set_global_var(GVAR_SERVANT_RAID_DATE, global_var(GVAR_SERVANT_RAID_DATE) + ONE_GAME_MONTH); //edit - killap
-  giq_option(4, SCRIPT_VCMCLURE, 356, Node999, 50);
+  giq_option(4, SCRIPT_VCMCLURE, 356, Node999, NEUTRAL_REACTION);
   set_local_var(LVAR_VILLAGE_RAID_POSTPONED,1);
   //display_msg("GVAR_VAULT_SERVANT == " + global_var(GVAR_VAULT_SERVANT));
 end
@@ -1101,9 +1101,9 @@ end
 procedure Node062
 begin
   gsay_reply(SCRIPT_VCMCLURE, 350);
-  if (has_skill(dude_obj,SKILL_CONVERSANT) > 60) then
-      giq_option(4, SCRIPT_VCMCLURE, 351, Node063, 50);
-  giq_option(4, SCRIPT_VCMCLURE, 370, Node999, 50);
+  if (has_skill(dude_obj,SKILL_SPEECH) > 60) then
+      giq_option(4, SCRIPT_VCMCLURE, 351, Node063, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_VCMCLURE, 370, Node999, NEUTRAL_REACTION);
 end
 //end
 
@@ -1126,15 +1126,15 @@ procedure Node1001 begin
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
    set_global_var(GVAR_VAULT_CITIZENSHIP,0);
    set_global_var(GVAR_DAY_PASS_SHOWN, 0);
-   DayPass_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_DAY_PASS);
+   DayPass_KickOutCount := dude_item_count(PID_DAY_PASS);
    if( DayPass_KickOutCount > 0 ) then begin
-      DayPass_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_DAY_PASS);
+      DayPass_KickOutObj := dude_item(PID_DAY_PASS);
       KickOutTemp := rm_mult_objs_from_inven(dude_obj, DayPass_KickOutObj, DayPass_KickOutCount );
       destroy_object(DayPass_KickOutObj); //added by killap
    end
-   CitizenPapers_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_FAKE_CITIZENSHIP);
+   CitizenPapers_KickOutCount := dude_item_count(PID_FAKE_CITIZENSHIP);
    if( CitizenPapers_KickOutCount > 0 ) then begin
-      CitizenPapers_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_FAKE_CITIZENSHIP);
+      CitizenPapers_KickOutObj := dude_item(PID_FAKE_CITIZENSHIP);
       KickOutTemp := rm_mult_objs_from_inven(dude_obj, CitizenPapers_KickOutObj, CitizenPapers_KickOutCount );
       destroy_object(CitizenPapers_KickOutObj); //added by killap
    end

@@ -153,8 +153,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 1800 ) or ( game_time_hour < 700 ) ) then
@@ -208,7 +208,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -566,10 +566,10 @@ end
 procedure Node027 begin
    Reply(199);
 
-   if( ( has_trait( TRAIT_TRAIT, dude_obj, TRAIT_sex_appeal ) ) or
-       ( has_trait( TRAIT_PERK, dude_obj, PERK_kama_sutra_perk ) ) or
+   if( ( dude_trait( TRAIT_sex_appeal) ) or
+       ( dude_perk( PERK_kama_sutra_perk) ) or
        ( dude_charisma > 8 ) or
-       ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) and
+       ( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) and
        ( local_var( LVAR_Phyllis_Date ) == DATE_NOTHING ) ) then
       NOption(200, Node045, 004);
    NOption(201, Node028, 004);

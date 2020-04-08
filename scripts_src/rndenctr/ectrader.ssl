@@ -79,8 +79,8 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_TRADER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_RND_TRADER);
+   set_self_ai(AI_GENERIC_GUARDS);
    if (not is_loading_game) then begin
       call ChooseItem;
 
@@ -103,7 +103,7 @@ procedure map_enter_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -113,7 +113,7 @@ procedure critter_p_proc begin
          if (not anim_busy(self_obj)) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 6));
+            self_walk_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 6));
             reg_anim_end();
          end
       end else begin
@@ -255,9 +255,9 @@ procedure Node004 begin
 
    set_local_var(LVAR_State, STATE_SOLD);
    set_local_var(LVAR_Leave, 1);
-   obj := obj_carrying_pid_obj(self_obj, local_var(LVAR_Item_Pid));
+   obj := self_item(local_var(LVAR_Item_Pid));
    if (obj) then begin
-      item_caps_adjust(dude_obj, -local_var(LVAR_Item_Price));
+      dude_caps_adjust(-local_var(LVAR_Item_Price));
       rm_obj_from_inven(self_obj, obj);
       add_obj_to_inven(dude_obj, obj);
    end

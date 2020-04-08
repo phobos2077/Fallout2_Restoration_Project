@@ -85,7 +85,7 @@ procedure timed_event_p_proc begin
 
          reg_anim_clear(tmpPlyr);
          reg_anim_begin();
-            anim(self_obj, ANIMATE_ROTATION, 4);
+            self_rotate(4);
          reg_anim_end();
 
          set_obj_visibility(dude_obj, OBJ_INVIS);
@@ -175,7 +175,7 @@ procedure critter_p_proc begin
       if (obj_on_screen(self_obj)) then begin
          if (not anim_busy(self_obj)) then begin
             //animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 5));
-            animate_run_to_tile(27055); // edit by killap - this way they will actually be hidden and not just stand there in plain view
+            self_run_to_tile(27055); // edit by killap - this way they will actually be hidden and not just stand there in plain view
          end
       end else begin
          if (numDeathClaws > 0) then
@@ -218,8 +218,8 @@ procedure map_enter_p_proc begin
       i_deathclaw_2 := self_obj;
    end
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
+   set_self_team(TEAM_VAULT13);
+   set_self_ai(AI_VAULT_DEATHCLAW);
    if (is_loading_game == FALSE) then begin
       set_obj_visibility(self_obj, OBJ_INVIS);
 

@@ -88,21 +88,21 @@ begin
          //critter_attempt_placement(LVar1, 16737, dude_elevation);
          LVar1 := create_object_sid(PID_KITSUNE, KITSUNE_SPATIAL_HEX, dude_elevation, SCRIPT_EPAC12);
          critter_attempt_placement(LVar1, KITSUNE_SPATIAL_HEX, dude_elevation);
-         set_obj_visibility(LVar1,1); //invisi
+         set_obj_invisible(LVar1); //invisi
       end else if ( (map_var(MVAR_Dex_Free) > 0) and (local_var(LVAR_Triggered) == 0) and (self_tile == DEX_SPATIAL_HEX) ) then begin
          set_local_var(LVAR_Triggered,1);
          //LVar1 := create_object_sid(PID_DEX, 16729, dude_elevation, SCRIPT_EPAC10);
          //critter_attempt_placement(LVar1, 16729, dude_elevation);
          LVar1 := create_object_sid(PID_DEX, DEX_SPATIAL_HEX, dude_elevation, SCRIPT_EPAC10);
          critter_attempt_placement(LVar1, DEX_SPATIAL_HEX, dude_elevation);
-         set_obj_visibility(LVar1,1); //invisi
+         set_obj_invisible(LVar1); //invisi
       end else if ( (map_var(MVAR_Cat_Jules_Free) > 0) and (local_var(LVAR_Triggered) == 0) and (self_tile == CATJULES_SPATIAL_HEX) ) then begin
          set_local_var(LVAR_Triggered,1);
          //LVar1 := create_object_sid(PID_CAT_JULES, 16721, dude_elevation, SCRIPT_EPAC11);
          //critter_attempt_placement(LVar1, 16721, dude_elevation);
          LVar1 := create_object_sid(PID_CAT_JULES, CATJULES_SPATIAL_HEX, dude_elevation, SCRIPT_EPAC11);
          critter_attempt_placement(LVar1, CATJULES_SPATIAL_HEX, dude_elevation);
-         set_obj_visibility(LVar1,1); //invisi
+         set_obj_invisible(LVar1); //invisi
       end
    end
 end

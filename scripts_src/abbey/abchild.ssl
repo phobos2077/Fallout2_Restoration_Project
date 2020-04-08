@@ -33,7 +33,7 @@ begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
       Flee_From_Dude
    end
 end
@@ -49,16 +49,16 @@ begin
      (not(combat_is_initialized))) then begin
     reg_anim_clear(self_obj);
     reg_anim_begin();
-    if (tile_num(self_obj) / 200 > 131) then
-     animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),5,4));
-    else if (tile_num(self_obj) / 200 < 108) then
-     animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),2,4));
-    else if (tile_num(self_obj) % 200 < 80) then
-     animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),3,4));
-    else if (tile_num(self_obj) % 200 > 122) then
-     animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),0,4));
+    if (self_tile / 200 > 131) then
+     self_run_to_tile(tile_num_in_direction(self_tile,5,4));
+    else if (self_tile / 200 < 108) then
+     self_run_to_tile(tile_num_in_direction(self_tile,2,4));
+    else if (self_tile % 200 < 80) then
+     self_run_to_tile(tile_num_in_direction(self_tile,3,4));
+    else if (self_tile % 200 > 122) then
+     self_run_to_tile(tile_num_in_direction(self_tile,0,4));
     else
-     animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),4));
+     self_run_to_tile(tile_num_in_direction(self_tile,random(0,5),4));
     reg_anim_end();
   end
   add_timer_event(self_obj,game_ticks(random(3,5)),2);
@@ -88,8 +88,8 @@ end
 
 procedure map_enter_p_proc
 begin
-  critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
-  critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+  set_self_team(TEAM_ABBEY);
+  set_self_ai(AI_CHILD);
 
  if (self_tile != 16692) then begin
    add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);

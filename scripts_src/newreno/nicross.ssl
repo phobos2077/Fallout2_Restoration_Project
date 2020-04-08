@@ -151,7 +151,7 @@ procedure talk_p_proc begin
 
       // Give cash to player.
       set_local_var( LVAR_Reward_Given, 1 );
-      item_caps_adjust( dude_obj, 374 );
+      dude_caps_adjust( 374);
       float_msg( dude_obj, mstr(102), FLOAT_COLOR_NORMAL );
    end
    else if( ( global_var( GVAR_8_BALL_TRASH_SECRET ) == 1 ) and // Seraph's Fix: changed 'GVAR_8_BALL_TOILET_SECRET' to 'GVAR_8_BALL_TRASH_SECRET'

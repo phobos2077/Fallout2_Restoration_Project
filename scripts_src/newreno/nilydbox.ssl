@@ -40,7 +40,7 @@ end
 
 procedure map_enter_p_proc begin
    if (map_first_run) then begin
-      item_caps_adjust(self_obj, 1000);
+      self_caps_adjust(1000);
    end
 end
 
@@ -48,7 +48,7 @@ procedure map_update_p_proc begin
    if (local_var(LVAR_Stripped_Money) == false) then begin
       if ((get_escape(escape_follow)) or (get_escape(escape_betrayed)) or (lloyd_took_money and (lloyd_dead == false))) then begin
          set_local_var(LVAR_Stripped_Money, true);
-         item_caps_adjust(self_obj, -self_caps);
+         self_caps_adjust(-self_caps);
       end
    end
 end

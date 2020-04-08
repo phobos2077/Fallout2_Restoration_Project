@@ -90,24 +90,24 @@ variable temp_tile;
          set_chicken_let_out_off;
          if (tile_in_coup_area(self_tile)) then begin
             if (coup_door_obj == 0) then begin
-               animate_move_to_tile(death_claw_cage_tile);
+               self_walk_to_tile(death_claw_cage_tile);
             end else if (obj_is_open(coup_door_obj)) then begin
-               animate_move_to_tile(death_claw_cage_tile);
+               self_walk_to_tile(death_claw_cage_tile);
             end else if (anim_busy(self_obj) == false) then begin
                temp_tile := tile_num_in_direction(self_tile, random(0,5), random(3,10));
                if (tile_in_coup_area(temp_tile)) then begin
-                  animate_move_to_tile(temp_tile);
+                  self_walk_to_tile(temp_tile);
                end
             end
          end else begin
             if (cage_door_obj == 0) then begin
-               animate_move_to_tile(death_claw_escape_tile);
+               self_walk_to_tile(death_claw_escape_tile);
             end else if (obj_is_open(cage_door_obj)) then begin
-               animate_move_to_tile(death_claw_escape_tile);
+               self_walk_to_tile(death_claw_escape_tile);
             end else if (anim_busy(self_obj) == false) then begin
                temp_tile := tile_num_in_direction(self_tile, random(0,5), random(3,10));
                if ((tile_in_cage_area(temp_tile)) and (tile_in_coup_area(temp_tile) == false)) then begin
-                  animate_move_to_tile(temp_tile);
+                  self_walk_to_tile(temp_tile);
                end
             end
          end
@@ -200,7 +200,7 @@ variable temp;
    if (map_first_run) then begin
       check_set_obj_visiblility(self_obj,true);
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEATH_CLAW);
+   set_self_team(TEAM_DEATH_CLAW);
    match_dude_elevation;
 end
 

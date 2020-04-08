@@ -87,9 +87,9 @@ procedure finishWalk;
 
 #define Follow_Obj(X,Y,Z)                   if (Current_Distance_From_Obj(X) > Y) then begin                                    \
                                                if (Current_Distance_From_Obj(X) > Y*2) then begin                               \
-                                                  animate_run_to_tile(tile_num_in_direction(tile_num(X),random(0,5),Z));        \
+                                                  self_run_to_tile(tile_num_in_direction(tile_num(X),random(0,5),Z));        \
                                                end else begin                                                                   \
-                                                  animate_move_to_tile(tile_num_in_direction(tile_num(X),random(0,5),Z));       \
+                                                  self_walk_to_tile(tile_num_in_direction(tile_num(X),random(0,5),Z));       \
                                                end                                                                              \
                                                set_local_var(LVAR_In_Transit,1);                                                \
                                             end                                                                                 \
@@ -136,8 +136,8 @@ procedure map_enter_p_proc begin
       merk_guard2_obj := self_obj; //added by killap
    merk_guard_count += 1;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_MERK);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR_MERK);
+   set_self_ai(AI_TOUGH_GUARD);
 
    if (is_loading_game == FALSE) then begin
       if (merk_status == MERK_STATUS_DEAD) then begin
@@ -221,7 +221,7 @@ procedure critter_p_proc begin
       set_obj_visibility(self_obj, OBJ_INVIS);
    //end added by killap
 
-   if ((local_var(LVAR_Hostile) != 0 or global_var(GVAR_NCR_SCMERK_HOSTILE) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0 or global_var(GVAR_NCR_SCMERK_HOSTILE) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -368,7 +368,7 @@ procedure checkPos begin
       if (self_tile != local_var(LVAR_Tile)) then begin //edit by killap
       //if (self_tile != tile) then begin
          ndebug("self_tile != tile");
-         animate_move_to_tile(local_var(LVAR_Tile)); //edit by killap
+         self_walk_to_tile(local_var(LVAR_Tile)); //edit by killap
          //animate_move_to_tile(tile);
          set_local_var(LVAR_In_Transit,1); //edit by killap
          //inTransit := 1;
@@ -383,10 +383,10 @@ end
 procedure finishWalk begin
    if (local_var(LVAR_Self_Guard_Num) == 1) then begin //edit by killap
    //if (self_guard_num == 1) then begin
-      animate_rotation(1);
+      self_rotate(1);
    end else if (local_var(LVAR_Self_Guard_Num) == 2) then begin //edit by killap
    //end else if (self_guard_num == 2) then begin
-      animate_rotation(3);
+      self_rotate(3);
    end
 end
 

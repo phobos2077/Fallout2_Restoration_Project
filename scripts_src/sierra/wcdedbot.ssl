@@ -65,81 +65,81 @@ procedure combat_p_proc begin
       if (map_var(MVAR_Robot_Activation) == 1) then begin
          if ( (map_var(MVAR_Repair_Request1) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
             //added by killap
-            if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-               floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-               set_obj_visibility(floor_ptr,1);
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
             end
             //end added
             set_local_var(LVAR_Initialized,1);
             set_map_var(MVAR_Repair_Request1,REPAIR_COMPLETE);
             set_map_var(MVAR_Electric_Floor_2,1);
-            set_obj_visibility(Field2c_Ptr,1);
-            set_obj_visibility(Field2d_Ptr,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
             attack(dude_obj);
          end else if ( (map_var(MVAR_Repair_Request2) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
             //added by killap
-            if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-               floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-               set_obj_visibility(floor_ptr,1);
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
             end
             //end added
             set_local_var(LVAR_Initialized,1);
             set_map_var(MVAR_Repair_Request2,REPAIR_COMPLETE);
             set_map_var(MVAR_Electric_Floor_2,1);
-            set_obj_visibility(Field2c_Ptr,1);
-            set_obj_visibility(Field2d_Ptr,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
             attack(dude_obj);
          end else if ( (map_var(MVAR_Repair_Request3) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
             //added by killap
-            if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-               floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-               set_obj_visibility(floor_ptr,1);
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
             end
             //end added
             set_local_var(LVAR_Initialized,1);
             set_map_var(MVAR_Repair_Request3,REPAIR_COMPLETE);
             set_map_var(MVAR_Electric_Floor_2,1);
-            set_obj_visibility(Field2c_Ptr,1);
-            set_obj_visibility(Field2d_Ptr,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
             attack(dude_obj);
          end else if ( (map_var(MVAR_Repair_Request4) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
             //added by killap
-            if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-               floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-               set_obj_visibility(floor_ptr,1);
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
             end
             //end added
             set_local_var(LVAR_Initialized,1);
             set_map_var(MVAR_Repair_Request4,REPAIR_COMPLETE);
             set_map_var(MVAR_Electric_Floor_2,1);
-            set_obj_visibility(Field2c_Ptr,1);
-            set_obj_visibility(Field2d_Ptr,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
             attack(dude_obj);
          end else if ( (map_var(MVAR_Repair_Request5) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
             //added by killap
-            if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-               floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-               set_obj_visibility(floor_ptr,1);
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
             end
             //end added
             set_local_var(LVAR_Initialized,1);
             set_map_var(MVAR_Repair_Request5,REPAIR_COMPLETE);
             set_map_var(MVAR_Electric_Floor_2,1);
-            set_obj_visibility(Field2c_Ptr,1);
-            set_obj_visibility(Field2d_Ptr,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
             attack(dude_obj);
          end else if ( (map_var(MVAR_Repair_Request6) == REPAIR_PICKUP) and (local_var(LVAR_Initialized) != 1) ) then begin
             //added by killap
-            if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-               floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-               set_obj_visibility(floor_ptr,1);
+            if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+               floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+               set_obj_invisible(floor_ptr);
             end
             //end added
             set_local_var(LVAR_Initialized,1);
             set_map_var(MVAR_Repair_Request6,REPAIR_COMPLETE);
             set_map_var(MVAR_Electric_Floor_2,1);
-            set_obj_visibility(Field2c_Ptr,1);
-            set_obj_visibility(Field2d_Ptr,1);
+            set_obj_invisible(Field2c_Ptr);
+            set_obj_invisible(Field2d_Ptr);
             attack(dude_obj);
          end
       //end added

@@ -53,7 +53,7 @@ procedure use_obj_on_p_proc begin
          if (map_var(MVAR_Planted_Seeds) == 0) then begin
             set_map_var(MVAR_Grow_Time,game_time);
             dude_floater(100);
-            item:=obj_carrying_pid_obj(dude_obj,PID_EXPERIMENTAL_SEEDS);
+            item:=dude_item(PID_EXPERIMENTAL_SEEDS);
             JunkIt:=rm_mult_objs_from_inven(dude_obj,item,1);
             destroy_object(item);
             display_msg(mstr(200));
@@ -75,10 +75,10 @@ procedure use_obj_on_p_proc begin
             set_map_var(MVAR_Grow_Time,game_time);
             dude_floater(100);
             if (obj_pid(obj_being_used_with) == PID_ARROYO_SEEDS) then begin
-               item:=obj_carrying_pid_obj(dude_obj,PID_ARROYO_SEEDS);
+               item:=dude_item(PID_ARROYO_SEEDS);
                set_local_var(LVAR_Planted_Corn,1);
             end else begin
-               item:=obj_carrying_pid_obj(dude_obj,PID_EXPERIMENTAL_SEEDS);
+               item:=dude_item(PID_EXPERIMENTAL_SEEDS);
             end
             JunkIt:=rm_mult_objs_from_inven(dude_obj,item,1);
             destroy_object(item);
@@ -115,11 +115,11 @@ begin
          if (choice == 1) then begin
             tmp := random(1,3);
             if (tmp == 1) then
-               plant:=create_object_sid(33556293,EPA_GOOD_PLANT_HEX,2,-1);
+               plant:=create_object(33556293,EPA_GOOD_PLANT_HEX,2);
             else if (tmp == 2) then
-               plant:=create_object_sid(33556326,EPA_GOOD_PLANT_HEX,2,-1);
+               plant:=create_object(33556326,EPA_GOOD_PLANT_HEX,2);
             else
-               plant:=create_object_sid(33556327,EPA_GOOD_PLANT_HEX,2,-1);
+               plant:=create_object(33556327,EPA_GOOD_PLANT_HEX,2);
          end else begin
             plant:=create_object_sid(PID_EPA_SPORE_PLANT,EPA_BAD_PLANT_HEX,2,SCRIPT_ECPLANT);
             set_map_var(MVAR_Sprouted,2);
@@ -131,15 +131,15 @@ begin
             choice := random(1,4);
 
          if (local_var(LVAR_Planted_Corn) == 1) then begin
-            plant:=create_object_sid(33556294,(local_var(LVAR_Grow_Hex)),0,-1);
+            plant:=create_object(33556294,(local_var(LVAR_Grow_Hex)),0);
          end else if (choice == 1) then begin
             tmp := random(1,3);
             if (tmp == 1) then
-               plant:=create_object_sid(33556293,(local_var(LVAR_Grow_Hex)),0,-1);
+               plant:=create_object(33556293,(local_var(LVAR_Grow_Hex)),0);
             else if (tmp == 2) then
-               plant:=create_object_sid(33556326,(local_var(LVAR_Grow_Hex)),0,-1);
+               plant:=create_object(33556326,(local_var(LVAR_Grow_Hex)),0);
             else
-               plant:=create_object_sid(33556327,(local_var(LVAR_Grow_Hex)),0,-1);
+               plant:=create_object(33556327,(local_var(LVAR_Grow_Hex)),0);
          end else begin
             plant:=create_object_sid(PID_EPA_SPORE_PLANT,(local_var(LVAR_Grow_Hex)),1,SCRIPT_ECPLANT);
          end
@@ -162,11 +162,11 @@ procedure map_update_p_proc begin
          if (choice == 1) then begin
             tmp := random(1,3);
             if (tmp == 1) then
-               plant:=create_object_sid(33556293,EPA_GOOD_PLANT_HEX,2,-1);
+               plant:=create_object(33556293,EPA_GOOD_PLANT_HEX,2);
             else if (tmp == 2) then
-               plant:=create_object_sid(33556326,EPA_GOOD_PLANT_HEX,2,-1);
+               plant:=create_object(33556326,EPA_GOOD_PLANT_HEX,2);
             else
-               plant:=create_object_sid(33556327,EPA_GOOD_PLANT_HEX,2,-1);
+               plant:=create_object(33556327,EPA_GOOD_PLANT_HEX,2);
          end else begin
             plant:=create_object_sid(PID_EPA_SPORE_PLANT,EPA_BAD_PLANT_HEX,2,SCRIPT_ECPLANT);
             set_map_var(MVAR_Sprouted,2);
@@ -178,15 +178,15 @@ procedure map_update_p_proc begin
             choice := random(1,4);
 
          if (local_var(LVAR_Planted_Corn) == 1) then begin
-            plant:=create_object_sid(33556294,(local_var(LVAR_Grow_Hex)),0,-1);
+            plant:=create_object(33556294,(local_var(LVAR_Grow_Hex)),0);
          end else if (choice == 1) then begin
             tmp := random(1,3);
             if (tmp == 1) then
-               plant:=create_object_sid(33556293,(local_var(LVAR_Grow_Hex)),0,-1);
+               plant:=create_object(33556293,(local_var(LVAR_Grow_Hex)),0);
             else if (tmp == 2) then
-               plant:=create_object_sid(33556326,(local_var(LVAR_Grow_Hex)),0,-1);
+               plant:=create_object(33556326,(local_var(LVAR_Grow_Hex)),0);
             else
-               plant:=create_object_sid(33556327,(local_var(LVAR_Grow_Hex)),0,-1);
+               plant:=create_object(33556327,(local_var(LVAR_Grow_Hex)),0);
          end else begin
             plant:=create_object_sid(PID_EPA_SPORE_PLANT,(local_var(LVAR_Grow_Hex)),1,SCRIPT_ECPLANT);
          end

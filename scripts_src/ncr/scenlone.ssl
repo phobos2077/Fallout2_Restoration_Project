@@ -140,8 +140,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_PEASANT);
 end
 
 
@@ -154,7 +154,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -356,7 +356,7 @@ procedure Node007 begin
 end
 
 procedure Node224a begin
-   if ( skill_success(dude_obj, SKILL_CONVERSANT, 0) ) then
+   if ( skill_success(dude_obj, SKILL_SPEECH, 0) ) then
       call Node022;
    else
       call Node004;
@@ -373,7 +373,7 @@ procedure Node008 begin
       Reply(134);
    if (Node8Rep == 1) then
       NOption(135, Node008, 4);
-   if (dude_iq >= 8 or is_skill_tagged(SKILL_CONVERSANT)) then
+   if (dude_iq >= 8 or is_skill_tagged(SKILL_SPEECH)) then
       NOption(136, Node019, 4);  //137 --edit by killap - had an int requirement of 8 before.
    //unlocked by killap - expansion
    if (local_var(LVAR_Freeibe) == 0) then begin
@@ -480,7 +480,7 @@ procedure Node019 begin
    NOption(169, Node010, 4);
    if (not V13KNOWN) then
       NOption(170, Node027, 4);
-   if (has_skill(dude_obj, SKILL_CONVERSANT) >= 65) then
+   if (has_skill(dude_obj, SKILL_SPEECH) >= 65) then
       NOption(171, Node028, 4);
    NOption(172, Node999, 4);
 end
@@ -636,8 +636,8 @@ procedure warpToPos begin
    fadeout(1);
    move_to(self_obj, POS_ADJUST, 0);
    move_to(dude_obj, POS_ADJUST_PLAYER, 0);
-   animate_rotation(2); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
-   anim(dude_obj, ANIMATE_ROTATION, 5); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
+   self_rotate(2); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
+   dude_rotate(5); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
    fadein(1);
 end
 
@@ -645,8 +645,8 @@ procedure warpBackToPos begin
    fadeout(1);
    move_to(self_obj, warpBack, 0);
    move_to(dude_obj, pwarpBack, 0);
-   animate_rotation(3); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
-   anim(dude_obj, ANIMATE_ROTATION, 0); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
+   self_rotate(3); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
+   dude_rotate(0); // Seraph's Fix: animate_rotation only takes 1 arg, and just affects self_obj. Thanks Rob!
    fadein(1);
 end
 

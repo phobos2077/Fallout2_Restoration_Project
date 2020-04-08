@@ -114,14 +114,14 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_OUTSIDER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_OUTSIDER);
+   set_self_ai(AI_COWARD);
 
    //added by killap - expansion pack
    if (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_GET_GUNS) then
-      set_obj_visibility(self_obj,1); //invisible
+      set_self_invisible; //invisible
    else begin
-      set_obj_visibility(self_obj,0); //visible
+      set_self_visible; //visible
       if( MacRae_Ptr != 0 ) then begin
          move_to(self_obj,16255,0);
       end
@@ -140,7 +140,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end

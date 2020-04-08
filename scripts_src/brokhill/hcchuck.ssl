@@ -122,7 +122,7 @@ end
 procedure timed_event_p_proc begin
    if( fixed_param == 1 ) then begin
       running := 1;
-      animate_run_to_tile( 30758 );
+      self_run_to_tile(30758);
    end
    else if( fixed_param == 2 ) then begin
       game_ui_enable;
@@ -139,7 +139,7 @@ procedure critter_p_proc begin
    this as well. */
 
    //added by killap
-   if( ( map_var( MVAR_Chuck_Awoke ) == 3 ) and ( tile_num( self_obj ) != 30758 ) and ( anim_busy( self_obj ) == false ) )then begin
+   if( ( map_var( MVAR_Chuck_Awoke ) == 3 ) and ( self_tile != 30758) and ( anim_busy( self_obj ) == false ) )then begin
       add_timer_event( self_obj, 1, 1 );
       ndebug("Chuck should be moving again");
    end
@@ -154,9 +154,9 @@ procedure critter_p_proc begin
       reg_anim_end();
       add_timer_event( self_obj, game_ticks(3), 2 );
    end
-   else if( ( tile_num( self_obj ) == 30758 ) and ( anim_busy( self_obj ) == false ) ) then
+   else if( ( self_tile == 30758) and ( anim_busy( self_obj ) == false ) ) then
       destroy_object( self_obj );
-   else if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.

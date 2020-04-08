@@ -133,7 +133,7 @@ procedure Node006;
 // this formula returns the cards face (ace through king)
 #define get_card_face(the_card)                 (the_card - ((get_card_suit(the_card) - 1) * card_king))
 #define inc_player_winnings(x)                  set_local_var(LVAR_Player_Winnings, local_var(LVAR_Player_Winnings) + x);  \
-                                                item_caps_adjust(dude_obj,x)
+                                                dude_caps_adjust(x)
 
 variable player_hand_total;
 variable player_1_card;

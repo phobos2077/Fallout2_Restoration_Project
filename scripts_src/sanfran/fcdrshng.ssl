@@ -334,7 +334,7 @@ end
 
 procedure Node010 begin
    Reply(290);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_EXPERIMENTAL_SEEDS))) then
+   if ((dude_item_count(PID_EXPERIMENTAL_SEEDS))) then
       NOption(291, Node013, 4);
    BOption(292, Node012, 4);
    NOption(293, Node014, 4);
@@ -382,7 +382,7 @@ end
 
 procedure Node016 begin
    Reply(350);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_EXPERIMENTAL_SEEDS))) then
+   if ((dude_item_count(PID_EXPERIMENTAL_SEEDS))) then
       NOption(351, Node013, 4);
    else
       NOption(352, Node999, 4);
@@ -401,7 +401,7 @@ end
 procedure Node018 begin
    variable item;
    variable JunkIt;
-   item:=obj_carrying_pid_obj(dude_obj,PID_EXPERIMENTAL_SEEDS);
+   item:=dude_item(PID_EXPERIMENTAL_SEEDS);
    JunkIt:=rm_mult_objs_from_inven(dude_obj,item,1);
    destroy_object(item);
    set_global_var(GVAR_SHI_DELIVER_SEEDS_TO_DR_SHENG,PLANT_QUEST_DELIVERED_SEEDS_TO_DRSHENG);
@@ -447,7 +447,7 @@ end
 
 procedure Node022 begin
    Reply(410);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_EXPERIMENTAL_SEEDS))) then begin
+   if ((dude_item_count(PID_EXPERIMENTAL_SEEDS))) then begin
       NOption(411, Node013, 4);
    end else begin
       NOption(412, Node011, 4);
@@ -458,7 +458,7 @@ end
 procedure Node023 begin
    Reply(420);
    NOption(421, Node990, 4);
-   if (has_skill(dude_obj, SKILL_CONVERSANT) >= 95) then
+   if (has_skill(dude_obj, SKILL_SPEECH) >= 95) then
       NOption(422, Node024, 4);
    BOption(423, Node012, 4);
    BOption(424, Node017, 4);
@@ -617,7 +617,7 @@ procedure Node044 begin
    if (local_var(LVAR_Clear_Lab_For_Money) == 1) then begin
       Reply(630);
       give_xp(200);
-      item_caps_adjust(dude_obj, 1000);
+      dude_caps_adjust(1000);
    end else begin
       Reply(631);
       give_xp(500);

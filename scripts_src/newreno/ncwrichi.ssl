@@ -106,7 +106,7 @@ procedure Node046;
 #define move_child                        if (anim_busy(self_obj) == false) then begin                                           \
                                              if (children_sleep_time) then begin                                                 \
                                                 if (self_tile != local_var(LVAR_Home_Tile)) then begin                           \
-                                                   animate_move_to_tile(local_var(LVAR_Home_Tile));                              \
+                                                   self_walk_to_tile(local_var(LVAR_Home_Tile));                              \
                                                 end else if (sleeping == false) then begin                                       \
                                                    set_sleeping;                                                                 \
                                                    reg_anim_clear(self_obj);                                                     \
@@ -116,7 +116,7 @@ procedure Node046;
                                                 end                                                                              \
                                              end else if (self_tile != local_var(LVAR_Destination_Tile)) then begin              \
                                                 off_sleeping;                                                                    \
-                                                animate_run_to_tile(local_var(LVAR_Destination_Tile));                           \
+                                                self_run_to_tile(local_var(LVAR_Destination_Tile));                           \
                                              end                                                                                 \
                                           end
 #define check_child_schedule              if (children_sleep_time) then begin                                                                                  \
@@ -180,8 +180,8 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Destination_Tile, self_tile);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+         set_self_team(TEAM_NEW_RENO_WRIGHT);
+         set_self_ai(AI_CHILD);
       end
       check_child_schedule
    end

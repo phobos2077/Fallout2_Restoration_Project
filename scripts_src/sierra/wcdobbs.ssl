@@ -98,8 +98,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAMAKAZI);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_KAMAKAZI);
 end
 
 
@@ -113,7 +113,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -124,9 +124,9 @@ procedure critter_p_proc begin
    end
 
    if (local_var(LVAR_Fleeing) == 1) then begin
-       if ((local_var(LVAR_Flee_Time) == 0) and (tile_num(self_obj) != 17107)) then
-           animate_run_to_tile(17107);
-       else if ((local_var(LVAR_Flee_Time) == 0) and (tile_num(self_obj) == 17107)) then begin
+       if ((local_var(LVAR_Flee_Time) == 0) and (self_tile != 17107)) then
+           self_run_to_tile(17107);
+       else if ((local_var(LVAR_Flee_Time) == 0) and (self_tile == 17107)) then begin
            item:=create_object(PID_RED_RYDER_LE_BB_GUN,0,0);
            add_obj_to_inven(self_obj,item);
            display_msg(mstr(400));

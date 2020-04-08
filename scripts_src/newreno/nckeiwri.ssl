@@ -132,8 +132,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_WRIGHT);
+         set_self_ai(AI_TOUGH_GUARD);
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
@@ -141,7 +141,7 @@ procedure map_enter_p_proc begin
          critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
       end
       if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-         animate_rotation(local_var(LVAR_Home_Rotation));
+         self_rotate(local_var(LVAR_Home_Rotation));
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
@@ -158,9 +158,9 @@ procedure critter_p_proc begin
          nr_add_timer_event(self_obj, 0, float_param);
       end
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -215,9 +215,9 @@ end
 procedure Node999 begin
 end
 procedure Node990 begin
-   if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( (has_rep_berserker) or (has_rep_childkiller) or (check_general_rep < -100) ) ) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ( (not(dude_perk(PERK_cult_of_personality))) and ( (has_rep_berserker) or (has_rep_childkiller) or (check_general_rep < -100) ) ) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
       call Node014;
-   end else if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,(-30 * has_rep_slaver)))) then begin
+   end else if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,(-30 * has_rep_slaver)))) then begin
       call Node013;
    end else begin
       call Node014;

@@ -74,7 +74,7 @@ procedure map_update_p_proc begin
 
    if global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0 then begin
       set_exit_grids(0,MAP_SAN_FRAN_DOCK,0,13908,2);
-      door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,elevation(self_obj),ENCLAVE_DOOR_PID2);
+      door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,self_elevation,ENCLAVE_DOOR_PID2);
       obj_unlock(door);
    end
 end

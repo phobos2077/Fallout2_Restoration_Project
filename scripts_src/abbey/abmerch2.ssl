@@ -68,7 +68,7 @@ procedure start begin
 end
 
 procedure critter_p_proc begin
-   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 
@@ -81,7 +81,7 @@ end
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
       reg_anim_clear( self_obj );
-      animate_rotation(2);
+      self_rotate(2);
    end
 end
 

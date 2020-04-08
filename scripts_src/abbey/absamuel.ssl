@@ -93,62 +93,62 @@ end
 procedure timed_event_p_proc begin
    if (not((game_time_hour >= 1900) or  (game_time_hour < 600))) then begin
       if (fixed_param == 1) then begin
-         animate_move_to_tile(18467);
+         self_walk_to_tile(18467);
          //anim_move_to_point_rate(18467, 2)
          rm_fixed_timer_event(self_obj, 1);
          add_timer_event(self_obj,game_ticks(1),13);
       end else if (fixed_param == 2) then begin
-         animate_move_to_tile(18262);
+         self_walk_to_tile(18262);
          //anim_move_to_point_rate(18262, 2)
          rm_fixed_timer_event(self_obj, 2);
          add_timer_event(self_obj,game_ticks(1),14);
       end else if (fixed_param == 3) then begin
-         animate_move_to_tile(18660);
+         self_walk_to_tile(18660);
          //anim_move_to_point_rate(18660, 2)
          rm_fixed_timer_event(self_obj, 3);
          add_timer_event(self_obj,game_ticks(1),15);
       end else if (fixed_param == 4) then begin
-         animate_move_to_tile(18058);
+         self_walk_to_tile(18058);
          //anim_move_to_point_rate(18058, 2)
          rm_fixed_timer_event(self_obj, 4);
          add_timer_event(self_obj,game_ticks(1),16);
       end else if (fixed_param == 5) then begin
-         animate_move_to_tile(19265);
+         self_walk_to_tile(19265);
          //anim_move_to_point_rate(19265, 2)
          rm_fixed_timer_event(self_obj, 5);
          add_timer_event(self_obj,game_ticks(1),17);
       end else if (fixed_param == 6) then begin
-         animate_move_to_tile(19064);
+         self_walk_to_tile(19064);
          //anim_move_to_point_rate(19064, 2)
          rm_fixed_timer_event(self_obj, 6);
          add_timer_event(self_obj,game_ticks(1),18);
       end else if (fixed_param == 7) then begin
-         animate_move_to_tile(19661);
+         self_walk_to_tile(19661);
          //anim_move_to_point_rate(19661, 2)
          rm_fixed_timer_event(self_obj, 7);
          add_timer_event(self_obj,game_ticks(1),19);
       end else if (fixed_param == 8) then begin
-         animate_move_to_tile(19258);
+         self_walk_to_tile(19258);
          //anim_move_to_point_rate(19258, 2)
          rm_fixed_timer_event(self_obj, 8);
          add_timer_event(self_obj,game_ticks(1),20);
       end else if (fixed_param == 9) then begin
-         animate_move_to_tile(20265);
+         self_walk_to_tile(20265);
          //anim_move_to_point_rate(20265, 2)
          rm_fixed_timer_event(self_obj, 9);
          add_timer_event(self_obj,game_ticks(1),21);
       end else if (fixed_param == 10) then begin
-         animate_move_to_tile(20264);
+         self_walk_to_tile(20264);
          //anim_move_to_point_rate(20264, 2)
          rm_fixed_timer_event(self_obj, 10);
          add_timer_event(self_obj,game_ticks(1),22);
       end else if (fixed_param == 11) then begin
-         animate_move_to_tile(20259);
+         self_walk_to_tile(20259);
          //anim_move_to_point_rate(20259, 2)
          rm_fixed_timer_event(self_obj, 11);
          add_timer_event(self_obj,game_ticks(1),23);
       end else if (fixed_param == 12) then begin
-         animate_move_to_tile(19858);
+         self_walk_to_tile(19858);
          //anim_move_to_point_rate(19858, 2)
          rm_fixed_timer_event(self_obj, 12);
          add_timer_event(self_obj,game_ticks(1),24);
@@ -156,7 +156,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 13);
          if (self_tile == 18467) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),13);
@@ -164,7 +164,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 14);
          if (self_tile == 18262) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(3);
+            self_rotate(3);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),14);
@@ -172,7 +172,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 15);
          if (self_tile == 18660) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(5);
+            self_rotate(5);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),15);
@@ -180,7 +180,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 16);
          if (self_tile == 18058) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),16);
@@ -188,7 +188,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 17);
          if (self_tile == 19265) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(3);
+            self_rotate(3);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),17);
@@ -196,7 +196,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 18);
          if (self_tile == 19064) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(1);
+            self_rotate(1);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),18);
@@ -204,7 +204,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 19);
          if (self_tile == 19661) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),19);
@@ -212,7 +212,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 20);
          if (self_tile == 19258) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),20);
@@ -220,7 +220,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 21);
          if (self_tile == 20265) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(4);
+            self_rotate(4);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),21);
@@ -228,7 +228,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 22);
          if (self_tile == 20264) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(1);
+            self_rotate(1);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),22);
@@ -236,7 +236,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 23);
          if (self_tile == 20259) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(3);
+            self_rotate(3);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),23);
@@ -244,7 +244,7 @@ procedure timed_event_p_proc begin
          rm_fixed_timer_event(self_obj, 24);
          if (self_tile == 19858) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(1);
+            self_rotate(1);
             add_timer_event(self_obj,game_ticks(1),25);
          end else
             add_timer_event(self_obj,game_ticks(1),24);
@@ -288,7 +288,7 @@ procedure timed_event_p_proc begin
    end else begin
       ndebug("tis late");
       if (self_tile != 20687) then begin
-          animate_move_to_tile(20687);
+          self_walk_to_tile(20687);
       end else begin
 
          reg_anim_clear( self_obj );
@@ -304,7 +304,7 @@ end
 
 
 procedure critter_p_proc begin
-   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 end
@@ -376,7 +376,7 @@ procedure map_enter_p_proc begin
    end
    grave := random(1,12);
    add_timer_event(self_obj,game_ticks(random(5,10)),grave);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+   set_self_team(TEAM_ABBEY);
 end
 
 

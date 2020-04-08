@@ -128,7 +128,7 @@ procedure critter_p_proc begin
       game_ui_enable;
    end
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
        attack(dude_obj);
    end
 
@@ -177,14 +177,14 @@ procedure destroy_p_proc begin
    //else
    //     item := create_object(PID_GOLDEN_GECKO_PELT,0,0);
 
-   if (has_trait(TRAIT_PERK,dude_obj,PERK_gecko_skinning_perk)) then begin
-       if ((obj_pid(self_obj) == PID_GECKO_SMALL) or (obj_pid(self_obj) == PID_TOUGH_GECKO_SMALL)) then
+   if (dude_perk(PERK_gecko_skinning_perk)) then begin
+       if ((self_pid == PID_GECKO_SMALL) or (self_pid == PID_TOUGH_GECKO_SMALL)) then
             tail := create_object(PID_GECKO_PELT,0,0);
        // Begin Seraph's Code
-       if ((obj_pid(self_obj) == PID_FIRE_GECKO) or (obj_pid(self_obj) == PID_TOUGH_FIRE_GECKO)) then
+       if ((self_pid == PID_FIRE_GECKO) or (self_pid == PID_TOUGH_FIRE_GECKO)) then
             tail := create_object(PID_FIRE_GECKO_PELT,0,0);
        // End Seraph's Code
-       if ((obj_pid(self_obj) == PID_GOLDEN_GECKO ) or (obj_pid(self_obj) == PID_TOUGH_GOLDEN_GECKO)) then
+       if ((self_pid == PID_GOLDEN_GECKO) or (self_pid == PID_TOUGH_GOLDEN_GECKO)) then
             tail := create_object(PID_GOLDEN_GECKO_PELT,0,0);
 
       add_obj_to_inven(self_obj,tail);

@@ -66,8 +66,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_MASTERS_ARMY);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_MASTERS_ARMY);
+   set_self_team(TEAM_RND_MASTERS_ARMY);
+   set_self_ai(AI_MASTERS_ARMY);
 end
 
 
@@ -90,8 +90,8 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
-       if ((obj_art_fid(self_obj) == FID_MAMTN2) or (obj_art_fid(self_obj) == FID_MAMTNT)) then
+   if (self_can_see_dude) then begin
+       if ((self_fid == FID_MAMTN2) or (self_fid == FID_MAMTNT)) then
            floater(random(101,104));
        attack(dude_obj);
    end

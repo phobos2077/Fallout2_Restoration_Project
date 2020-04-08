@@ -67,7 +67,7 @@ end
 
 //added by killap
 procedure map_enter_p_proc begin
-   if (obj_pid(self_obj) != -1) then begin
+   if (self_pid != -1) then begin
        FIELD_PTR:=self_obj;
    end
 
@@ -75,8 +75,8 @@ procedure map_enter_p_proc begin
    if (local_var(LVAR_Timed_Event) == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (obj_pid(self_obj) != -1) then begin
-           set_obj_visibility(self_obj,0);                  // vis
+       if (self_pid != -1) then begin
+           set_self_visible;                  // vis
        end
    end
 end
@@ -84,38 +84,38 @@ end
 
 procedure map_update_p_proc begin
 
-   if (obj_pid(self_obj) != -1) then begin
+   if (self_pid != -1) then begin
        FIELD_PTR:=self_obj;
    end
 
    if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin              // power on
 
-       if ((obj_pid(self_obj) != -1) and (map_var(FIELD_STATUS) != FIELD_DAMAGED)) then begin
-           if (obj_pid(self_obj) == PID_NS_PAIN_FIELD) then begin
-               FIELD_PTR:=create_object_sid(PID_NS_FORCE_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+       if ((self_pid != -1) and (map_var(FIELD_STATUS) != FIELD_DAMAGED)) then begin
+           if (self_pid == PID_NS_PAIN_FIELD) then begin
+               FIELD_PTR:=create_object_sid(PID_NS_FORCE_FIELD,self_tile,self_elevation,CUR_SCRIPT);
                destroy_object(self_obj);
            end
-           else if (obj_pid(self_obj) == PID_EW_PAIN_FIELD) then begin
-               FIELD_PTR:=create_object_sid(PID_EW_FORCE_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+           else if (self_pid == PID_EW_PAIN_FIELD) then begin
+               FIELD_PTR:=create_object_sid(PID_EW_FORCE_FIELD,self_tile,self_elevation,CUR_SCRIPT);
                destroy_object(self_obj);
            end
        end
 
        if ((map_var(FIELD_STATUS) == FIELD_DISABLED) and (local_var(LVAR_Timed_Event) == 0)) then begin
            set_local_var(LVAR_Timed_Event,1);
-           set_obj_visibility(self_obj,1);              // invis
+           set_self_invisible;              // invis
            add_timer_event(self_obj,game_ticks(FEILD_DOWN_TIME),1);
        end
    end
 
-   else if (obj_pid(self_obj) != -1) then begin
+   else if (self_pid != -1) then begin
        ndebug("WSFELD1E: changing to pain field");
-       if (obj_pid(self_obj) == PID_NS_FORCE_FIELD) then begin
-           FIELD_PTR:=create_object_sid(PID_NS_PAIN_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+       if (self_pid == PID_NS_FORCE_FIELD) then begin
+           FIELD_PTR:=create_object_sid(PID_NS_PAIN_FIELD,self_tile,self_elevation,CUR_SCRIPT);
            destroy_object(self_obj);
        end
-       else if (obj_pid(self_obj) == PID_EW_FORCE_FIELD) then begin
-           FIELD_PTR:=create_object_sid(PID_EW_PAIN_FIELD,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+       else if (self_pid == PID_EW_FORCE_FIELD) then begin
+           FIELD_PTR:=create_object_sid(PID_EW_PAIN_FIELD,self_tile,self_elevation,CUR_SCRIPT);
            destroy_object(self_obj);
        end
    end
@@ -125,8 +125,8 @@ procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (obj_pid(self_obj) != -1) then begin
-           set_obj_visibility(self_obj,0);                  // vis
+       if (self_pid != -1) then begin
+           set_self_visible;                  // vis
        end
    end
 end

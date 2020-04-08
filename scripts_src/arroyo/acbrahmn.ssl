@@ -45,8 +45,8 @@ procedure timed_event_p_proc;
 variable Only_Once:=0;
 
 procedure start begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_BRAHMIN);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_GENERIC_BRAHMIN);
 end
 
 procedure timed_event_p_proc begin
@@ -55,7 +55,7 @@ procedure timed_event_p_proc begin
     and (not(combat_is_initialized))) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),3));
+         self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),3));
       reg_anim_end();
    end
    add_timer_event(self_obj,game_ticks(random(3,5)),1);
@@ -125,7 +125,7 @@ end
 
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
+   set_self_team(TEAM_ARROYO);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
    add_timer_event(self_obj,game_ticks(random(1,5)),1);
 end

@@ -110,7 +110,7 @@ procedure timed_event_p_proc begin
             end if (step == 1) then begin
                step :=2;
                reg_anim_clear( self_obj );
-               animate_rotation(0);
+               self_rotate(0);
                rm_fixed_timer_event(self_obj, fixed_param);
                add_timer_event(self_obj,game_ticks(1),install_part);
             end else if (step == 2) then begin
@@ -179,11 +179,11 @@ procedure timed_event_p_proc begin
                end
             end else if (fixed_param == 6) then begin
                reg_anim_clear( self_obj );
-               animate_rotation(0);
+               self_rotate(0);
                add_timer_event(self_obj,game_ticks(1),2);
             end else if (fixed_param == 7) then begin
                reg_anim_clear( self_obj );
-               animate_rotation(5);
+               self_rotate(5);
                add_timer_event(self_obj,game_ticks(0),2);
             end
          end
@@ -201,7 +201,7 @@ procedure timed_event_p_proc begin
             if (self_tile == 12504) then begin
                rm_fixed_timer_event(self_obj, 10);
                reg_anim_clear( self_obj );
-               animate_rotation(0);
+               self_rotate(0);
                add_timer_event(self_obj,game_ticks(1),11);
             end else
                add_timer_event(self_obj,game_ticks(1),10);
@@ -215,7 +215,7 @@ procedure timed_event_p_proc begin
       end
    end else begin
       if (self_tile != 12504) then begin
-         animate_move_to_tile(12504);
+         self_walk_to_tile(12504);
       end else begin
          reg_anim_clear( self_obj );
          //reg_anim_begin();
@@ -229,7 +229,7 @@ end
 
 procedure critter_p_proc begin
 
-   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 
@@ -425,7 +425,7 @@ end
 
 procedure Node009 begin
    Reply(600);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_MOTOR))) then
+   if ((dude_item_count(PID_MOTOR))) then
       NOption(602,Node010,4);
    else
       NOption(601,Node999,4);
@@ -441,7 +441,7 @@ procedure Node011 begin
    variable item;
    Reply(800);
    NOption(801,Node999,4);
-   item:=obj_carrying_pid_obj(dude_obj,PID_MOTOR);
+   item:=dude_item(PID_MOTOR);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
    rm_fixed_timer_event(self_obj, fixed_param);
@@ -466,7 +466,7 @@ end
 
 procedure Node014 begin
    set_local_var(LVAR_Asked_Money,1);
-   item_caps_adjust(dude_obj,600);
+   dude_caps_adjust(600);
    Reply(510);
    NOption(511,Node990,4);
 end

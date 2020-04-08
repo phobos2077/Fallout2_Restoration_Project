@@ -35,13 +35,13 @@
 
 
 //  Are you in this area                tile_in_tile_rect(ul,ur,ll,lr,x)
-#define In_Bar                          (tile_in_tile_rect(14923,14900,17923,17900,tile_num(self_obj)) and (cur_map_index == MAP_REDDING_DOWNTOWN))
-#define In_Fights                       (tile_in_tile_rect(19140,19127,20140,20127,tile_num(self_obj)) and (cur_map_index == MAP_REDDING_MINE_ENT))
-#define In_Mines                        ((cur_map_index == MAP_REDDING_MINE_ENT) and ((tile_in_tile_rect(15462,15452,19862,19852,tile_num(self_obj))) or (tile_in_tile_rect(10720,10700,13720,13700,tile_num(self_obj)))))
-#define In_Home                         ((cur_map_index == MAP_REDDING_MINE_ENT) and ((tile_in_tile_rect(19478,19466,22478,22478,tile_num(self_obj))) or (tile_in_tile_rect(14728,14712,17728,17712,tile_num(self_obj)))))
-#define Is_Child                        ((obj_pid(self_obj) == PID_CHILD_MALE) or (obj_pid(self_obj) == PID_CHILD_FEMALE) or (obj_pid(self_obj) == PID_ORPHAN_MALE) or (obj_pid(self_obj) == PID_ORPHAN_FEMALE))
+#define In_Bar                          (tile_in_tile_rect(14923,14900,17923,17900,self_tile) and (cur_map_index == MAP_REDDING_DOWNTOWN))
+#define In_Fights                       (tile_in_tile_rect(19140,19127,20140,20127,self_tile) and (cur_map_index == MAP_REDDING_MINE_ENT))
+#define In_Mines                        ((cur_map_index == MAP_REDDING_MINE_ENT) and ((tile_in_tile_rect(15462,15452,19862,19852,self_tile)) or (tile_in_tile_rect(10720,10700,13720,13700,self_tile))))
+#define In_Home                         ((cur_map_index == MAP_REDDING_MINE_ENT) and ((tile_in_tile_rect(19478,19466,22478,22478,self_tile)) or (tile_in_tile_rect(14728,14712,17728,17712,self_tile))))
+#define Is_Child                        ((self_pid == PID_CHILD_MALE) or (self_pid == PID_CHILD_FEMALE) or (self_pid == PID_ORPHAN_MALE) or (self_pid == PID_ORPHAN_FEMALE))
 //added by killap - RP
-#define Watching_Mole_Rats_Fight        (tile_in_tile_rect(19138, 19128, 19938, 19928, tile_num(self_obj)) and (cur_map_index == MAP_REDDING_MINE_ENT))
+#define Watching_Mole_Rats_Fight        (tile_in_tile_rect(19138, 19128, 19938, 19928, self_tile) and (cur_map_index == MAP_REDDING_MINE_ENT))
 //end added
 
 #define obj_in_bar(who)                 tile_in_tile_rect(14923,14900,17923,17900,tile_num(who))
@@ -106,8 +106,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_PEASANT);
 
    //added by killap - expansion
    if (((game_time_hour < 1200) or (game_time_hour > 1700)) and (Watching_Mole_Rats_Fight)) then begin
@@ -132,11 +132,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end

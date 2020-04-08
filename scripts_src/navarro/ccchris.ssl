@@ -122,15 +122,15 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    Fired_Dialogue := 0;
    Door_Dialogue := 0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 
    // Chris changes position depending on whether or not you come in with the car.
    if( ( global_var(GVAR_PLAYER_GOT_CAR) != 0 ) and
        ( car_current_town == AREA_NAVARRO ) ) then begin
       move_to( self_obj, 28089, 0 );
       critter_attempt_placement( self_obj, 28089, 0 );
-      anim( self_obj, ANIMATE_ROTATION, 3 );
+      self_rotate( 3);
       // Force dialog
       Fired_Dialogue := 1;
       add_timer_event( self_obj, 2, 2 );
@@ -138,7 +138,7 @@ procedure map_enter_p_proc begin
    else begin
       move_to( self_obj, 25900, 0 );
       critter_attempt_placement( self_obj, 25900, 0 );
-      anim( self_obj, ANIMATE_ROTATION, 2 );
+      self_rotate( 2);
    end
 end
 
@@ -147,12 +147,12 @@ procedure map_update_p_proc begin
 
    // If the player started combat with Chris, but left the map or
    // changed elevations before killing him, put the entire base on alert.
-   if( ( last_elevation != elevation( dude_obj ) ) and ( local_var( LVAR_Radio_Combat ) == 1 ) ) then begin
+   if( ( last_elevation != dude_elevation ) and ( local_var( LVAR_Radio_Combat ) == 1 ) ) then begin
       set_local_var( LVAR_Radio_Combat, 0 );
       set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
    end
 
-   last_elevation := elevation( dude_obj );
+   last_elevation := dude_elevation;
 end
 
 procedure map_exit_p_proc begin
@@ -170,7 +170,7 @@ procedure map_exit_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          call Node027;
          set_local_var(LVAR_Hostile,1);
@@ -303,11 +303,11 @@ procedure timed_event_p_proc begin
          if( ( global_var(GVAR_PLAYER_GOT_CAR) != 0 ) and
              ( car_current_town == AREA_NAVARRO )) then begin
             // Go to a "car" hex.
-            animate_move_to_tile( 26690 );
+            self_walk_to_tile(26690);
          end
          else begin
             // Go to hex near trapdoor room.
-            animate_move_to_tile( 24307 );
+            self_walk_to_tile(24307);
          end
 
          Radio_State += 1;
@@ -332,12 +332,12 @@ procedure timed_event_p_proc begin
       dialogue_system_enter;
    end
    else if( fixed_param == 3 ) then begin
-      if( tile_num( self_obj ) != 25900 ) then begin
+      if( self_tile != 25900) then begin
          game_ui_disable;
          gfade_out(600);
          move_to( self_obj, 25900, 0 );
          critter_attempt_placement( self_obj, 25900, 0 );
-         anim( self_obj, ANIMATE_ROTATION, 5 );
+         self_rotate( 5);
          add_timer_event( self_obj, game_ticks(1), 4 );
       end
       else begin
@@ -608,7 +608,7 @@ end
 
 procedure Node019a begin
    if( ( local_var( LVAR_Attempted_Lie ) == 0 ) and
-       ( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) ) then
+       ( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) ) then
       call Node020;
    else begin
       Add_Insult := 1;
@@ -619,7 +619,7 @@ end
 
 procedure Node019b begin
    if( ( local_var( LVAR_Attempted_Lie ) == 0 ) and
-       ( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) ) then
+       ( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) ) then
       call Node022;
    else begin
       Add_Insult := 1;
@@ -660,7 +660,7 @@ end
 
 procedure Node022a begin
    if( ( local_var( LVAR_Attempted_Lie ) == 0 ) and
-       ( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) ) then
+       ( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) ) then
       call Node021;
    else begin
       Add_Insult := 1;

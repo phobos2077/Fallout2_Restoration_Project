@@ -162,8 +162,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_PUNKS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_BADGER);
+   set_self_team(TEAM_SAN_FRAN_PUNKS);
+   set_self_ai(AI_SF_BADGER);
 //Temp
 //   set_local_var(LVAR_Do_Death, 1);
    if (badger_flag(BADGER_DONESHI) and local_var(LVAR_Do_Death) == 0) then begin
@@ -181,12 +181,12 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
 
-   if (san_fran_flag(SF_PUNKS_ENEMY) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if (san_fran_flag(SF_PUNKS_ENEMY) and (self_can_see_dude) ) then begin
       set_local_var(LVAR_Hostile, 2);
    end
 
@@ -203,12 +203,12 @@ procedure critter_p_proc begin
       g2 := create_object(PID_SHI_GUARD, G2_TILE, 0);
       reg_anim_clear(g1);
       reg_anim_begin();
-      anim(g1, ANIMATE_ROTATION, rotation_to_tile(G1_TILE, self_tile));
+      obj_rotate(g1, rotation_to_tile(G1_TILE, self_tile));
       reg_anim_end();
 
       reg_anim_clear(g2);
       reg_anim_begin();
-      anim(g2, ANIMATE_ROTATION, rotation_to_tile(G2_TILE, self_tile));
+      obj_rotate(g2, rotation_to_tile(G2_TILE, self_tile));
       reg_anim_end();
 
       float_msg(self_obj, mstr(203), FLOAT_MSG_RED);
@@ -767,7 +767,7 @@ procedure DoDeathWalk begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(TILE_LEAVE);
+         self_walk_to_tile(TILE_LEAVE);
          reg_anim_end();
       end
       if (counter > 20) then begin
@@ -821,7 +821,7 @@ procedure continueDeath begin
       float_msg(self_obj, mstr(208), FLOAT_MSG_GREEN);
       add_timer_event(self_obj, game_ticks(3), TIMER_CONTINUE_DEATH);
    end else if (cDeathCount == 4) then begin
-      sound := sfx_build_weapon_name(snd_weapon_attack, obj_carrying_pid_obj(g1, PID_HK_G11E), hit_left_weapon_primary, self_obj);
+      sound := sfx_build_weapon_name(snd_weapon_attack, get_item(g1, PID_HK_G11E), hit_left_weapon_primary, self_obj);
       reg_anim_clear(g1);
       reg_anim_begin();
       reg_anim_animate(g1, ANIM_fire_burst, -1);
@@ -839,7 +839,7 @@ procedure continueDeath begin
 
       add_timer_event(self_obj, game_ticks(1), TIMER_CONTINUE_DEATH);
    end else if (cDeathCount == 5) then begin
-      sound1 := sfx_build_weapon_name(snd_weapon_hitting, obj_carrying_pid_obj(g1, PID_HK_G11E), hit_left_weapon_primary, self_obj);
+      sound1 := sfx_build_weapon_name(snd_weapon_hitting, get_item(g1, PID_HK_G11E), hit_left_weapon_primary, self_obj);
       sound2 := sfx_build_char_name(self_obj, ANIM_chunks_of_flesh, snd_die);
       reg_anim_clear(self_obj);
       reg_anim_begin();

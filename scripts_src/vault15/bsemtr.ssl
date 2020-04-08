@@ -89,7 +89,7 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == TIMER_REMOVE_SELF) then begin
       destroy_object(self_obj);
    end else if (fixed_param == TIMER_EXPLODE) then begin
-      explosion(self_tile, elevation(self_obj), Random(MIN_EXPLOSION_DAMAGE, MAX_EXPLOSION_DAMAGE));
+      explosion(self_tile, self_elevation, Random(MIN_EXPLOSION_DAMAGE, MAX_EXPLOSION_DAMAGE));
    end
 end
 

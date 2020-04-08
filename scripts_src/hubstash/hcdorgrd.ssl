@@ -92,12 +92,12 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (self_can_see_dude) ) then begin
        attack(dude_obj);
    end
 
    else if( not( is_loading_game ) ) then begin
-      if ( (map_var(MVAR_Stash_Enter) == 0) and (local_var(LVAR_Warned) == 0) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+      if ( (map_var(MVAR_Stash_Enter) == 0) and (local_var(LVAR_Warned) == 0) and (self_can_see_dude) ) then begin
          call talk_p_proc;
       end
    end
@@ -166,7 +166,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_HUBOLOGIST_STASH);
+   set_self_team(TEAM_HUBOLOGIST_STASH);
 end
 
 
@@ -277,7 +277,7 @@ procedure Node006 begin
 end
 
 procedure Node990 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -50 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -50 ) ) ) then
       call Node007;
    else
       call Node008;
@@ -294,7 +294,7 @@ procedure Node008 begin
 end
 
 procedure Node991 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -30 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -30 ) ) ) then
       call Node007;
    else
       call Node009;
@@ -311,7 +311,7 @@ procedure Node010 begin
 end
 
 procedure Node992 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -50 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -50 ) ) ) then
       call Node011;
    else
       call Node012;
@@ -340,7 +340,7 @@ procedure Node014 begin
 end
 
 procedure Node993 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -30 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -30 ) ) ) then
       call Node011;
    else
       call Node009;

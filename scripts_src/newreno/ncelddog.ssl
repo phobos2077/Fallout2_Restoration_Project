@@ -96,7 +96,7 @@ procedure timed_event_p_proc begin
                   set_local_var(LVAR_Home_Tile, temp_move_tile);
                end
             end
-            animate_move_to_tile(local_var(LVAR_Home_Tile));
+            self_walk_to_tile(local_var(LVAR_Home_Tile));
          end
       end
       nr_add_timer_event_rand(self_obj, 3, 6, float_param);
@@ -109,8 +109,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_ELDRIDGE);
-         critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_AI_PACKET, AI_DOG_TOUGH);
+         set_self_team(TEAM_NEW_RENO_ELDRIDGE);
+         set_self_ai(AI_DOG_TOUGH);
       end else if (eldridge_dead) then begin
          if (random(1,3) == 2) then begin
             kill_critter(self_obj, random(ANIM_fall_back_sf, ANIM_fall_front_sf));

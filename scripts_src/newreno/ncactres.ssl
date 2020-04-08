@@ -99,8 +99,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_PORNO_STUDIO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_NEW_RENO_PORNO_STUDIO);
+         set_self_ai(AI_TOUGH_CITIZEN);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end

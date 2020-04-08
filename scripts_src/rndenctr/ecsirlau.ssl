@@ -103,7 +103,7 @@ procedure timed_event_p_proc begin
          if (not anim_busy(self_obj) and self_tile != tileonea) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tileonea);
+            self_walk_to_tile(tileonea);
             reg_anim_end();
             add_timer_event(self_obj, 10, TIMER_MOVE_POS_A);
          end else if (self_tile == tileonea) then begin
@@ -118,7 +118,7 @@ procedure timed_event_p_proc begin
          if (not anim_busy(self_obj) and self_tile != tileexit) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tileexit);
+            self_walk_to_tile(tileexit);
             reg_anim_end();
             add_timer_event(self_obj, 10, TIMER_MOVE_EXIT);
          end else if (self_tile == tileexit) then begin
@@ -140,8 +140,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KNIGHTS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_RND_KNIGHTS);
+   set_self_ai(AI_TOUGH_GUARD);
 
    if (ARTHUR_ENCOUNTER_ONE) then begin
       tileone := tile_num_in_direction(ARTHUR_TILE_ONE, 0, 4);
@@ -151,7 +151,7 @@ procedure map_enter_p_proc begin
       move_to(self_obj, tileone, 0);
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_rotation(4);
+      self_rotate(4);
       reg_anim_end();
    end
 end
@@ -166,7 +166,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -184,7 +184,7 @@ procedure critter_p_proc begin
          ndebug("moving to exit");
       end
    end else begin
-      if (i_vorpal_obj != -1 and elevation(self_obj) == elevation(dude_obj)) then begin
+      if (i_vorpal_obj != -1 and self_elevation == dude_elevation) then begin
          attack(i_vorpal_obj);
       end
    end
@@ -231,7 +231,7 @@ end
    in here. */
 procedure destroy_p_proc begin
    variable obj;
-   obj := obj_carrying_pid_obj(self_obj, PID_PLASMA_RIFLE);
+   obj := self_item(PID_PLASMA_RIFLE);
    if (obj) then
       destroy_object(obj);
 

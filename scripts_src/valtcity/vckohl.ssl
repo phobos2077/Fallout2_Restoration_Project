@@ -120,8 +120,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 700 ) and ( game_time_hour < 1800 ) ) then begin
@@ -139,7 +139,7 @@ end
 
 procedure timed_event_p_proc begin
    if( fixed_param == 1 ) then begin
-      if( ( obj_can_see_obj( self_obj, dude_obj ) ) and
+      if( ( self_can_see_dude ) and
           ( not( combat_is_initialized ) ) ) then begin
          if( Fallout2_enclave_destroyed ) then
             call Node001;
@@ -151,7 +151,7 @@ procedure timed_event_p_proc begin
          else if( ( Lenny_Ptr != 0 ) and
                   ( global_var( GVAR_VAULT_CITIZEN ) != CITIZEN_CAPTAIN_GUARD ) ) then
             call Node004;
-         else if( obj_can_see_obj( self_obj, dude_obj ) ) then
+         else if( self_can_see_dude ) then
             call Node006;
       end
       add_timer_event( self_obj, game_ticks( random(20, 40) ), 1 );
@@ -167,7 +167,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -476,7 +476,7 @@ procedure Node020 begin
       GOption(173, Node021, 007);
    if( ( dude_iq < 7 ) and
        ( local_var( LVAR_Kohl_Book ) == 0 ) and
-       ( has_trait( TRAIT_PERK, dude_obj, PERK_comprehension_perk ) ) ) then
+       ( dude_perk( PERK_comprehension_perk) ) ) then
       GOption(174, Node021, 004);
    NOption(175, Node012, 004);
    NOption(176, Node999, 004);

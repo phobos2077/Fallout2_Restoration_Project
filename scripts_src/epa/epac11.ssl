@@ -25,7 +25,7 @@
          party_member_default_options
 
 #define cat_jules_joins_party             party_add_self;                                                   \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+                                          set_self_team(TEAM_PLAYER)
 
 #define LVAR_Herebefore                 (4)
 #define LVAR_Hostile                    (5)
@@ -189,7 +189,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -217,7 +217,7 @@ procedure map_update_p_proc begin
 end
 
 procedure kill_p_proc begin
-   float_msg(dude_obj, message_str(NAME,5002), 8);
+   float_msg(dude_obj, mstr(5002), FLOAT_MSG_YELLOW);
    critter_dmg(self_obj,10000,DMG_plasma);
 end
 
@@ -249,7 +249,7 @@ procedure talk_p_proc begin
    destroy_object(self_obj);
 
   if (local_var(LVAR_Kill_NPC) == 1) then begin
-      set_obj_visibility(self_obj,0); //visi
+      set_self_visible; //visi
       call kill_p_proc;
   end
 end
@@ -265,7 +265,7 @@ procedure Node002 begin
 	   NOption(5001,Node999,004);
 	   set_local_var(LVAR_Kill_NPC,1);
 	   destroy_object(tile_contains_pid_obj(CATJULES_HIB_HEX,dude_elevation,33556341));
-      chamber:=create_object_sid(33556343,CATJULES_HIB_HEX,dude_elevation,-1);
+      chamber:=create_object(33556343,CATJULES_HIB_HEX,dude_elevation);
    end else begin
       if (dude_is_male) then begin
          Reply(210);
@@ -331,7 +331,7 @@ end
 //NPC does not join and leaves for good.
 procedure Node012 begin
    destroy_object(tile_contains_pid_obj(CATJULES_HIB_HEX,dude_elevation,33556341));
-   chamber:=create_object_sid(33556343,CATJULES_HIB_HEX,dude_elevation,-1);
+   chamber:=create_object(33556343,CATJULES_HIB_HEX,dude_elevation);
    Delete_Self := 1;
 end
 
@@ -398,9 +398,9 @@ procedure Node990 begin
    locker:=tile_contains_pid_obj(CATJULES_LOCKER_HEX,dude_elevation,PID_LOCKER_CLEAN_LEFT);
    move_obj_inven_to_obj(locker, self_obj);
    obj_open( locker );
-   set_obj_visibility(self_obj,0); //visi
+   set_self_visible; //visi
    destroy_object(tile_contains_pid_obj(CATJULES_HIB_HEX,dude_elevation,33556341));
-   chamber:=create_object_sid(33556343,CATJULES_HIB_HEX,dude_elevation,-1);
+   chamber:=create_object(33556343,CATJULES_HIB_HEX,dude_elevation);
 end
 
 //party member stuff
@@ -583,7 +583,7 @@ procedure Node5004 begin
 end
 
 procedure timed_event_p_proc begin
- if (obj_is_visible_flag(self_obj)) then begin
+ if (self_visible) then begin
    if (combat_is_initialized == false) then begin
       if (Cat_Jules_In_Party == false) then begin
       //blah
@@ -592,7 +592,7 @@ procedure timed_event_p_proc begin
             call Node5000;
          end else if (self_is_poisoned) then begin
             call Node5001;
-         end else if (get_critter_stat(self_obj, STAT_current_rad) > 0) then begin
+         end else if (self_rads > 0) then begin
             call Node5002;
          end else if (Is_Crippled(self_obj)) then begin
             call Node5003;

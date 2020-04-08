@@ -175,7 +175,7 @@ procedure map_enter_p_proc begin
 variable the_family;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_ai(AI_TOUGH_GUARD);
          if (cur_map_index == MAP_NEW_RENO_1) then begin
             the_family := family_mordino;
          end else if (cur_map_index == MAP_NEW_RENO_2) then begin

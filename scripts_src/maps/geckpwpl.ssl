@@ -301,7 +301,7 @@ procedure check_em begin
       else
          k:=10;
       radiation_inc(glow_obj,k);
-      if ( (get_critter_stat(glow_obj,STAT_current_hp)) < 11 ) then
+      if ( (get_cur_hits(glow_obj)) < 11 ) then
          critter_dmg(glow_obj,50,DMG_plasma BWOR DMG_BYPASS_ARMOR); //make sure they melt
       else
          critter_dmg(glow_obj,k,DMG_plasma BWOR DMG_BYPASS_ARMOR);
@@ -310,7 +310,7 @@ end
 
 procedure green_like_the_hulk begin
       radiation_inc(glow_obj,10);
-      if ( (get_critter_stat(glow_obj,STAT_current_hp)) < 11 ) then
+      if ( (get_cur_hits(glow_obj)) < 11 ) then
          critter_dmg(glow_obj,50,DMG_plasma BWOR DMG_BYPASS_ARMOR); //make sure they melt
       else
          critter_dmg(glow_obj,10,DMG_plasma BWOR DMG_BYPASS_ARMOR);

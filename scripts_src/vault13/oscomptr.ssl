@@ -337,8 +337,8 @@ end
 //123
 
 procedure Node006 begin
-   if (obj_carrying_pid_obj(dude_obj, VOICE_CHIP_PID)) then begin
-      destroy_object(obj_carrying_pid_obj(dude_obj, VOICE_CHIP_PID));
+   if (dude_item(VOICE_CHIP_PID)) then begin
+      destroy_object(dude_item(VOICE_CHIP_PID));
       set_map_var(MVAR_Computer_Status, COMP_FIXED);
       SETDSTATUS(GDFIXED);
       set_global_var(GVAR_V13_COMP_QST, 2); // Seraph's Code
@@ -684,7 +684,7 @@ procedure loadPid(variable pid, variable tile, variable rot, variable ele) begin
    if (retObj) then begin
       reg_anim_clear(retObj);
       reg_anim_begin();
-      anim(retObj, ANIMATE_ROTATION, rot);
+      obj_rotate(retObj, rot);
       reg_anim_end();
    end
 
@@ -785,15 +785,15 @@ procedure sequence begin
       lastdudetile := dude_tile;
       lastduderot := obj_get_rot(dude_obj);
 
-      body := loadPid(PID_END_BOSS, BOS_TILE, BOS_ROT, elevation(self_obj));
-      g1 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_1, GUARD_ROT_1, elevation(self_obj));
-      g2 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_2, GUARD_ROT_2, elevation(self_obj));
-      g3 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_3, GUARD_ROT_3, elevation(self_obj));
-      g4 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_4, GUARD_ROT_4, elevation(self_obj));
-      g5 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_5, GUARD_ROT_5, elevation(self_obj));
-      gruth := loadPid(PID_LARGE_DEATHCLAW, GRUTHAR_TILE, GRUTHAR_ROT, elevation(self_obj));
+      body := loadPid(PID_END_BOSS, BOS_TILE, BOS_ROT, self_elevation);
+      g1 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_1, GUARD_ROT_1, self_elevation);
+      g2 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_2, GUARD_ROT_2, self_elevation);
+      g3 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_3, GUARD_ROT_3, self_elevation);
+      g4 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_4, GUARD_ROT_4, self_elevation);
+      g5 := loadPid(PID_MALE_ENCALVE_PATROL, GUARD_TILE_5, GUARD_ROT_5, self_elevation);
+      gruth := loadPid(PID_LARGE_DEATHCLAW, GRUTHAR_TILE, GRUTHAR_ROT, self_elevation);
 
-      move_to(dude_obj, GRUTHAR_TILE, elevation(self_obj));
+      move_to(dude_obj, GRUTHAR_TILE, self_elevation);
 
       fadein(500);
       float_msg(body, mstr(129), FLOAT_MSG_NORMAL);
@@ -850,8 +850,8 @@ procedure sequence begin
       destroy_object(g5);
       destroy_object(gruth);
 
-      move_to(dude_obj, lastdudetile, elevation(self_obj));
-      anim(dude_obj, ANIMATE_ROTATION, lastduderot);
+      move_to(dude_obj, lastdudetile, self_elevation);
+      dude_rotate(lastduderot);
       set_obj_visibility(dude_obj, OBJ_VIS);
 
       party_member_unhide_all // Seraph's Fix: Uncommented out this line

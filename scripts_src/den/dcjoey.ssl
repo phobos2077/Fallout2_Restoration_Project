@@ -119,12 +119,12 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         set_local_var(LVAR_Home_Tile, tile_num(self_obj));
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_DEN_THUG);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_THUG);
-      end else if ((tile_num(self_obj)) != local_var(LVAR_Home_Tile)) then begin
+         set_local_var(LVAR_Home_Tile, self_tile);
+         set_self_team(TEAM_DEN_THUG);
+         set_self_ai(AI_THUG);
+      end else if ((self_tile) != local_var(LVAR_Home_Tile)) then begin
 //       critter_attempt_placement(self_obj, LVAR_Home_Tile, self_elevation);    //commented out by killap
-         set_local_var(LVAR_Home_Tile, tile_num(self_obj));                     //added by killap
+         set_local_var(LVAR_Home_Tile, self_tile);                     //added by killap
       end
    end
    joey_obj := self_obj;
@@ -138,8 +138,8 @@ procedure critter_p_proc begin
    end
 
    // added by killap
-   if ((tile_num(self_obj) != local_var(LVAR_Home_Tile)) and not((hostile) or (thugs_hostile)) and not(combat_is_initialized) ) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+   if ((self_tile != local_var(LVAR_Home_Tile)) and not((hostile) or (thugs_hostile)) and not(combat_is_initialized) ) then begin
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end
    // end added
 end
@@ -216,13 +216,13 @@ end
 // dialog nodes that make changes/skill checks from options
 procedure Node996 begin
    // check speech, if successful goto 2, else start combat
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) and (dude_strength > self_strength)) then begin
       call Node002;
    end else call Node998;
 end
 procedure Node995 begin
    // check speech at +10%, if successful goto 2, else start combat
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,10))) and (dude_strength > self_strength)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,10))) and (dude_strength > self_strength)) then begin
       call Node002;
    end else call Node998;
 end
@@ -233,13 +233,13 @@ procedure Node994 begin
 end
 procedure Node993 begin
    // roll speech, on success goto 7, on failure start combat
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) and (dude_strength > self_strength)) then begin
       call Node007;
    end else call Node998;
 end
 procedure Node992 begin
    // roll speech, on success goto 7, on failure goto 6
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) and (dude_strength > self_strength)) then begin
       call Node007;
    end else call Node006;
 end
@@ -247,8 +247,8 @@ procedure Node991 begin
    // if player has money($50) take money and goto 7, else goto 8
    if (dude_caps >= 50) then begin
       locket_cost := 50;
-      item_caps_adjust(self_obj,50);
-      item_caps_adjust(dude_obj,-50);
+      self_caps_adjust(50);
+      dude_caps_adjust(-50);
       call Node007;
    end else begin
       call Node008;
@@ -260,8 +260,8 @@ procedure Node990 begin
    if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,0))) then begin
       if (dude_caps >= 20) then begin
          locket_cost := 20;
-         item_caps_adjust(self_obj,20);
-         item_caps_adjust(dude_obj,-20);
+         self_caps_adjust(20);
+         dude_caps_adjust(-20);
          call Node007;
       end else begin
          call Node008;
@@ -286,7 +286,7 @@ procedure Node987 begin
 end
 procedure Node986 begin
    // roll speech, if successful goto 14, else 15
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) and (dude_strength > self_strength)) then begin
       call Node014;
    end else call Node015;
 end
@@ -313,7 +313,7 @@ procedure Node984 begin
 end
 procedure Node983 begin
    // roll speech. if successful, goto 14, else lower reaction and start combat
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) and (dude_strength > self_strength)) then begin
       call Node014;
    end else begin
       DownReactMinor;
@@ -327,7 +327,7 @@ procedure Node982 begin
 end
 procedure Node981 begin
    // roll speech, if successful, goto 12, else lower reaction and start combat
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (dude_strength > self_strength)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) and (dude_strength > self_strength)) then begin
       call Node012;
    end else begin
       DownReactMinor;
@@ -346,8 +346,8 @@ procedure Node979 begin
    // if player has money($500) take it and give jet and goto 14, else goto 23
    if (dude_caps >= 500) then begin
       give_pid_qty(dude_obj, PID_JET, 1)
-      item_caps_adjust(self_obj,500);
-      item_caps_adjust(dude_obj,-500);
+      self_caps_adjust(500);
+      dude_caps_adjust(-500);
       call Node014;
    end else begin
       call Node023;
@@ -357,8 +357,8 @@ procedure Node978 begin
    // take money ($500) and give jet and goto 14
    if (dude_caps >= 500) then begin
       give_pid_qty(dude_obj, PID_JET, 1)
-      item_caps_adjust(self_obj,500);
-      item_caps_adjust(dude_obj,-500);
+      self_caps_adjust(500);
+      dude_caps_adjust(-500);
       call Node014;
    end else begin
       call Node023;
@@ -369,8 +369,8 @@ variable jet := 0;
    // if player has money (350), take money and give jet and goto 14.
    //   else goto 23
    if (dude_caps >= 350) then begin
-      item_caps_adjust(self_obj,350);
-      item_caps_adjust(dude_obj,-350);
+      self_caps_adjust(350);
+      dude_caps_adjust(-350);
       give_pid_qty(dude_obj, PID_JET, 1)
       call Node014;
    end else begin

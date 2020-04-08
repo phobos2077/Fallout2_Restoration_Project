@@ -102,8 +102,8 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    doctor_ptr := self_obj;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RAT);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_RAT);
+   set_self_ai(AI_COWARD);
 end
 
 procedure map_update_p_proc begin
@@ -111,7 +111,7 @@ procedure map_update_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -132,8 +132,8 @@ procedure check_hearing begin
    //currently other critters on doctors team are homing in on the player during combat
    //..must prevent this as the room is suppose to be soundproofed. This code does
    //not solve that problem if the combat engine takes over.
-   if ( (tile_distance(tile_num(self_obj), SOUND_PROOF_ONE) < 8) or
-        (tile_distance(tile_num(self_obj), SOUND_PROOF_TWO) < 8) ) then begin
+   if ( (tile_distance(self_tile, SOUND_PROOF_ONE) < 8) or
+        (tile_distance(self_tile, SOUND_PROOF_TWO) < 8) ) then begin
       //do nothing
    end
    else begin
@@ -145,9 +145,9 @@ procedure damage_p_proc begin
    if (source_obj == dude_obj) then begin
 
       // Make the doctor change teams if he leaves the confines of the soundproofed room.
-      if( has_trait( TRAIT_OBJECT, self_obj, OBJECT_TEAM_NUM ) != TEAM_NAVARRO ) then begin
-         if( not( tile_in_tile_rect( 15320, 15308, 20520, 20508, tile_num( self_obj ) ) ) ) then begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
+      if( self_team != TEAM_NAVARRO) then begin
+         if( not( tile_in_tile_rect( 15320, 15308, 20520, 20508, self_tile ) ) ) then begin
+            set_self_team(TEAM_NAVARRO);
             set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
          end
       end
@@ -456,7 +456,7 @@ procedure Node020 begin
 end
 
 procedure Node021 begin
-   if( has_trait( TRAIT_OBJECT, self_obj, OBJECT_TEAM_NUM ) == TEAM_NAVARRO ) then
+   if( self_team == TEAM_NAVARRO) then
       set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
    floater(random(190,192));
 end
@@ -472,7 +472,7 @@ end
 
 procedure Node998 begin
    set_local_var(LVAR_Hostile,2);
-   if( has_trait( TRAIT_OBJECT, self_obj, OBJECT_TEAM_NUM ) == TEAM_NAVARRO ) then
+   if( self_team == TEAM_NAVARRO) then
       set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
 end
 /* Anytime that there is a need for an ending to dialog, this node is to be called. It will just

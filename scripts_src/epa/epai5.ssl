@@ -39,7 +39,7 @@ end
 procedure use_skill_on_p_proc begin
   if (action_being_used == SKILL_LOCKPICK) then begin
    script_overrides;
-   display_msg(message_str(NAME, 500));
+   display_msg(mstr(500));
   end
 end
 
@@ -66,16 +66,16 @@ end
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   else
-    display_msg(message_str(NAME, 101));
+    display_msg(mstr(101));
 end
 
 procedure use_p_proc
@@ -84,7 +84,7 @@ begin
       if (local_var(LVAR_Hostile) == 0) then begin
          if (source_obj == dude_obj) then begin
             script_overrides;
-            display_msg(message_str(NAME, 402));
+            display_msg(mstr(402));
             call talk_p_proc;
          end
       end
@@ -102,14 +102,14 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 200);
-  giq_option(4, NAME, 201, Node002, 50);
-  giq_option(4, NAME, 202, Node002, 50);
-  giq_option(4, NAME, 203, Node002, 50);
-  giq_option(4, NAME, 204, Node002, 50);
+  Reply(200);
+  NOption(201, Node002, 4);
+  NOption(202, Node002, 4);
+  NOption(203, Node002, 4);
+  NOption(204, Node002, 4);
   if (global_var(GVAR_EPADOOR_LOCK) == 2) then
-    giq_option(4, NAME, 205, Node003a, 50);
-  giq_option(4, NAME, 206, Node999, 50);
+    NOption(205, Node003a, 4);
+  NOption(206, Node999, 4);
 
   if (global_var(GVAR_EPADOOR_LOCK) == 0) then
    set_global_var(GVAR_EPADOOR_LOCK, 1);
@@ -117,8 +117,8 @@ end
 
 procedure Node002
 begin
-  gsay_reply(NAME, 300);
-  giq_option(4, NAME, 301, Node002a, 50);
+  Reply(300);
+  NOption(301, Node002a, 4);
 
   if (global_var(GVAR_EPADOOR_LOCK) == 0) then
    set_global_var(GVAR_EPADOOR_LOCK, 1);
@@ -130,16 +130,16 @@ end
 
 procedure Node003
 begin
-  gsay_reply(NAME, 400);
+  Reply(400);
   if (global_var(GVAR_EPADOOR_LOCK) == 2) then
-    giq_option(4, NAME, 205, Node003a, 50);
-  giq_option(4, NAME, 401, Node999, 50);
+    NOption(205, Node003a, 4);
+  NOption(401, Node999, 4);
 end
 
 procedure Node003a
 begin
-  gsay_reply(NAME, 403);
-  giq_option(4, NAME, 404, Node999, 50);
+  Reply(403);
+  NOption(404, Node999, 4);
   set_local_var(LVAR_Hostile, 1);
 end
 

@@ -25,12 +25,12 @@ procedure destroy_p_proc;
 variable starttile := 0;
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ALIEN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ALIEN);
+   set_self_team(TEAM_ALIEN);
+   set_self_ai(AI_ALIEN);
    starttile := self_tile;
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   animate_rotation(Random(0, 5));
+   self_rotate(Random(0, 5));
    reg_anim_end();
 end
 
@@ -38,14 +38,14 @@ procedure start begin
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj, dude_obj)) then begin
+   if (self_can_see_dude) then begin
       attack(dude_obj);
    end
 
    if (not anim_busy(self_obj)) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(3, 10)));
+      self_walk_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(3, 10)));
       reg_anim_end();
    end
 end

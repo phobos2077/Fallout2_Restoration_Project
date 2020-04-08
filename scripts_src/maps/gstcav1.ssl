@@ -46,7 +46,7 @@ export variable slag_guard_obj;
 procedure start begin
 end
 #define check_obj_fall(x)     if ((x == dude_obj) or (x != 0)) then begin                       \
-                                 if (obj_is_visible_flag(x)) then begin                         \
+                                 if (is_visible(x)) then begin                         \
                                     the_roll := do_check(x, STAT_ag, -8);                       \
                                     if (is_success(the_roll) == false) then begin               \
                                        set_fall_comment;                                        \

@@ -47,12 +47,12 @@ procedure critter_p_proc
 begin
   if (global_var(GVAR_FREE_EPASLAVES) == 1) then
   begin
-    float_msg(self_obj, message_str(NAME, 107), FLOAT_MSG_BLUE);
+    float_msg(self_obj, mstr(107), FLOAT_MSG_BLUE);
     set_global_var(GVAR_FREE_EPASLAVES, 0);
     call Run_p_proc;
   end
   else if (global_var(GVAR_FREE_EPASLAVES) == 2) then
-    animate_move_obj_to_tile(self_obj, 20435, 1);
+    self_run_to_tile(20435);
 end
 
 procedure use_p_proc
@@ -63,15 +63,15 @@ procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   else
-    display_msg(message_str(NAME, 101));
+    display_msg(mstr(101));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure use_skill_on_p_proc
@@ -100,7 +100,7 @@ end
 
 procedure Run_p_proc
 begin
-  animate_move_obj_to_tile(self_obj, 16658, 1);
+  self_run_to_tile(16658);
   set_global_var(GVAR_FREE_EPASLAVES, 2);
   add_timer_event(self_obj, game_ticks(13), 4);
 end
@@ -109,7 +109,7 @@ procedure timed_event_p_proc
 begin
   if (fixed_param == 3) then
   begin
-    float_msg(self_obj, message_str(NAME, random(103, 106)), FLOAT_MSG_BLUE);
+    float_msg(self_obj, mstr(random(103, 106)), FLOAT_MSG_BLUE);
     add_timer_event(self_obj, game_ticks(random(5, 7)), 3);
   end
   if (fixed_param == 4) then

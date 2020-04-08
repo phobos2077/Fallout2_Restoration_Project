@@ -168,7 +168,7 @@ procedure talk_p_proc begin
    set_global_var(GVAR_ENCLAVE_COM_LINE,1); //hold com line while using terminal
    start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
-   if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
+   if ((dude_is_stupid)) then begin
       call Node005;
    end
    else if (global_var(GVAR_GECKO_WORKING_ON_PLANT) > 0) then begin
@@ -233,7 +233,7 @@ procedure use_obj_on_p_proc begin
       Tool:=obj_pid(obj_being_used_with);
       if (Tool == PID_REACTOR_DATA_DISK) then begin
          if (global_var(GVAR_VAULT_GECKO_PLANT) >= PLANT_REACTOR_DATA_ANALYZED) then begin
-            item := obj_carrying_pid_obj(dude_obj, PID_REACTOR_DATA_DISK);
+            item := dude_item(PID_REACTOR_DATA_DISK);
             rm_obj_from_inven(dude_obj, item);
             destroy_object(item);
             set_global_var(GVAR_QUEST_OPTIMIZE_POWER_PLANT, OPTIMIZE_POWER_PLANT_SUCCESS);
@@ -374,7 +374,7 @@ end
 procedure Node014 begin
    Reply(240);
    //if (PC has hydroelectric magnetosphere) then
-   if (obj_is_carrying_obj_pid(dude_obj, PID_HY_MAG_PART)) then
+   if (dude_item_count(PID_HY_MAG_PART)) then
       NOption(241,Node025,004); //special...
    NOption(242,Node024,004);
    NOption(243,Node999,004);
@@ -488,7 +488,7 @@ procedure Node023 begin
          off_ptr := create_object_sid(PID_SEYMORE,0,0,SCRIPT_GCPACOFF);
          //critter_add_trait(off_ptr,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_BRAHMIN);
          off_hex := 18477;
-         move_to(off_ptr, off_hex, elevation(dude_obj));
+         move_to(off_ptr, off_hex, dude_elevation);
          //critter_attempt_placement(off_ptr,off_hex, 0);
    //com officer
    end
@@ -514,8 +514,8 @@ procedure Node023 begin
       else if (local_var(LVAR_23_before) > 7) then begin
          Reply(376); //inflict 35 pts of electric damage on pc, end
          //added by killap
-         if ( get_critter_stat(dude_obj, STAT_current_hp) < 35) then
-            critter_dmg( dude_obj, get_critter_stat(dude_obj, STAT_current_hp) - 1, DMG_electrical );
+         if ( dude_cur_hits < 35) then
+            critter_dmg( dude_obj, dude_cur_hits - 1, DMG_electrical);
          else
             critter_dmg( dude_obj, 35, DMG_electrical );
          //end added
@@ -538,7 +538,7 @@ end
 procedure Node025 begin
    //robot now has part...need to signal that it can fix reactor
    //What if player attempts to pickpocket the robot?
-   item:=obj_carrying_pid_obj(dude_obj, PID_HY_MAG_PART);
+   item:=dude_item(PID_HY_MAG_PART);
    rm_obj_from_inven(dude_obj,item);
    add_obj_to_inven(robot_obj,item);
    set_local_var(LVAR_Robot, PRE_INITIATED); //added by killap

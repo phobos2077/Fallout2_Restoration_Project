@@ -137,23 +137,23 @@ procedure map_enter_p_proc begin
    match_dude_elevation; //added by killap
    if (is_loading_game == false) then begin
       /*if ((cur_map_index == MAP_GHOST_LAKE) or jonny_at_home) then begin
-         if (obj_is_visible_flag(self_obj) == false) then begin
+         if (self_visible == false) then begin
             set_obj_visibility(self_obj, false); //visible
          end
       end else if (laddie_bit(q10_bit)) then begin
-         if (obj_is_visible_flag(self_obj) == true) then begin
+         if (self_visible == true) then begin
             set_obj_visibility(self_obj, true); //invisible
          end*/
       if (jonny_at_home) then begin //edits by killap
          if (cur_map_index == MAP_GHOST_LAKE) then begin
             destroy_object(self_obj);
-         end else if (obj_is_visible_flag(self_obj) == false) then begin
+         end else if (self_visible == false) then begin
             set_obj_visibility(self_obj, false); //visible
          end
       end else if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
          if (map_first_run) then begin
             set_local_var(LVAR_Home_Tile, self_tile);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+            set_self_team(TEAM_MODOC);
          end else if (jonny_bb_gun_found) then begin
             set_laddie_bit(dude_found_bb_gun_bit);
          end
@@ -162,7 +162,7 @@ procedure map_enter_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if (obj_is_visible_flag(self_obj)) then begin
+   if (self_visible) then begin
       if ((self_can_see_dude) and ((hostile) or (dude_enemy_modoc))) then begin
          //killap code
          if (dude_enemy_modoc) then

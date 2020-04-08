@@ -114,8 +114,8 @@ procedure map_enter_p_proc begin
    end
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 end
 
 //added by killap - expansion
@@ -156,7 +156,7 @@ procedure timed_event_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       // added by killap - expansion
       if (global_var(GVAR_CAME_ON_VERTIBIRD) == 1) then begin
          Face_Critter(dude_obj,guard1_obj);
@@ -316,7 +316,7 @@ end
 procedure Node008 begin
    Reply(320);
    NOption(321,Node013,004);
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-35)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-35)) then
       NOption(322,Node009,004);
 end
 
@@ -324,7 +324,7 @@ procedure Node009 begin
    Reply(323);
    NOption(324,Node992,004);
    //if (Fallout2_tribe_kidnapped) then
-   if ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed) and (skill_success(dude_obj,SKILL_CONVERSANT,-90)) ) then //edit by killap
+   if ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed) and (skill_success(dude_obj,SKILL_SPEECH,-90)) ) then //edit by killap
       NOption(325,Node012,004);
 end
 
@@ -417,7 +417,7 @@ procedure Node993 begin
 end
 
 procedure Node994 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-35))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-35))) then
       call Node019;
    else
       call Node020;

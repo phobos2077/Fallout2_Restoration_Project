@@ -38,7 +38,7 @@ procedure timed_event_p_proc begin
 
       add_timer_event(self_obj, game_ticks(2), TIMER_REAL_KILL);
    end else if (fixed_param == TIMER_REAL_KILL) then begin
-      critter_heal(owner, -get_critter_stat(owner,STAT_max_hp));
+      critter_heal(owner, -get_max_hits(owner));
       destroy_object(self_obj);
    end
 end

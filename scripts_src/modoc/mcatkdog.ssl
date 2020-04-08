@@ -105,10 +105,10 @@ variable temp_tile;
             if (self_tile == local_var(LVAR_Home_Tile)) then begin
                temp_tile := tile_num_in_direction(local_var(LVAR_Home_Tile), random(0,5), random(3,10));
                if (tile_in_cage_area(temp_tile)) then begin
-                  animate_move_to_tile(temp_tile);
+                  self_walk_to_tile(temp_tile);
                end
             end else begin
-               animate_move_to_tile(local_var(LVAR_Home_Tile));
+               self_walk_to_tile(local_var(LVAR_Home_Tile));
             end
          end
       end
@@ -152,7 +152,7 @@ end
                   end
                end
             end
-         end else if (((obj_can_see_obj(self_obj,dude_obj)) or (tile_distance_objs(self_obj,dude_obj) < 10))) then begin
+         end else if (((self_can_see_dude) or (tile_distance_objs(self_obj,dude_obj) < 10))) then begin
             self_attack_dude;
          end else begin
             anim_run_to_point(local_var(LVAR_Home_Tile))
@@ -172,14 +172,14 @@ variable temp_tile;
                anim_run_to_point(tile_num(brahmin_object))
             end
          end
-      end else if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      end else if (self_can_see_dude) then begin
          self_attack_dude;
       end else begin
          anim_run_to_point(local_var(LVAR_Home_Tile))
       end
    end else begin
       // dogs in cage
-      if ((self_can_see_dude) or (obj_can_hear_obj(self_obj, dude_obj))) then begin
+      if ((self_can_see_dude) or (self_can_hear_dude)) then begin
          if (dog_that_can_see_dude == 0) then begin
             dog_that_can_see_dude := self_obj;
          end
@@ -198,7 +198,7 @@ variable temp_tile;
             if (tile_distance_objs(self_obj, dude_obj) > 1) then begin
                temp_tile := tile_num_in_direction(dude_tile, rotation_to_tile(dude_tile, coup_door_tile), random(1,2));
                if (tile_in_cage_area(temp_tile)) then begin
-                  animate_run_to_tile_force(temp_tile);
+                  self_run_to_tile_force(temp_tile);
                end
             end
             if (did_dog_message == false) then begin
@@ -269,7 +269,7 @@ end
 procedure map_enter_p_proc begin
 
    match_dude_elevation;
-   critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_AI_PACKET, AI_DOG_TOUGH);
+   set_self_ai(AI_DOG_TOUGH);
    if (cur_map_index == MAP_MODOC_BRAHMINPASTURES) then begin
       // dogs in pasture
       set_attack_dog_team
@@ -280,11 +280,11 @@ procedure map_enter_p_proc begin
             inc_global_var(GVAR_MODOC_DOGS_ALIVE);
          end
       end else begin
-         animate_rotation(random(0,5));
+         self_rotate(random(0,5));
       end
    end else begin
       // dogs in cage
-      critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_MODOC);
+      set_self_team(TEAM_MODOC);
       if (local_var(LVAR_Home_Tile) == 0) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Old_Home, self_tile);

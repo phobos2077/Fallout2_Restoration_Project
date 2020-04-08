@@ -104,12 +104,12 @@ end
 
 procedure use_p_proc
 begin
-   if ((obj_is_visible_flag(PENGUARD_obj))) then begin
+   if ((is_visible(PENGUARD_obj))) then begin
       if (obj_can_see_obj(PENGUARD_obj,dude_obj)) then begin
             script_overrides;
             add_timer_event(PENGUARD_obj,5,2);
       end
-   end else if ((obj_is_visible_flag(PENGUARD2_obj))) then begin
+   end else if ((is_visible(PENGUARD2_obj))) then begin
       if (obj_can_see_obj(PENGUARD2_obj,dude_obj)) then begin
             script_overrides;
             add_timer_event(PENGUARD2_obj,5,2);

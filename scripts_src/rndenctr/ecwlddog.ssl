@@ -21,11 +21,11 @@ procedure destroy_p_proc;
 procedure critter_p_proc;
 
 procedure start begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_WILD_DOG);
+   set_self_team(TEAM_RND_WILD_DOG);
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then
+   if (self_can_see_dude) then
        attack(dude_obj);
 end
 

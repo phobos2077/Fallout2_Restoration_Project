@@ -77,20 +77,20 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    //CHANGE THESE -nbk
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+       self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
        In_Timed_Event:=0;
    end
 end
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
-   if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
       Flee_From_Dude
    end
@@ -128,8 +128,8 @@ procedure talk_p_proc begin
 
    //CURRENTLY KLAMATH CHILDREN JUST HAVE RANDOM DIALOGUE
    //IF THIS CHANGES IN FUTURE THEN JUST UNCOMMENT GETREACTION AND DIALOGUE -nbk
-   if (TOWN_REPUTATION < 6 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then call Node901; // edit by killap added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
-   else if (TOWN_REPUTATION > 14 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then call Node903; // edit by killap added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if (TOWN_REPUTATION < 6 and not(dude_perk(PERK_cult_of_personality))) then call Node901; // edit by killap added not(dude_perk(PERK_cult_of_personality))
+   else if (TOWN_REPUTATION > 14 or (dude_perk(PERK_cult_of_personality))) then call Node903; // edit by killap added (dude_perk(PERK_cult_of_personality))
    else call Node902;
    /*
    end else begin
@@ -154,7 +154,7 @@ end
    This should only hold the most cursory of glances for the player. */
 procedure look_at_p_proc begin
    script_overrides;
-   if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+   if (self_is_male) then
        display_msg(mstr(100));
    else
        display_msg(mstr(101));
@@ -165,7 +165,7 @@ end
    if the critter is known to the player. */
 procedure description_p_proc begin
    script_overrides;
-   if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+   if (self_is_male) then
        display_msg(mstr(100));
    else
        display_msg(mstr(101));
@@ -195,7 +195,7 @@ procedure Node903 begin
 end
 procedure Node997 begin
 /*
-   if (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ)) then begin
+   if (dude_iq <= (0-LOW_IQ)) then begin
       call Node007;
    end else if (local_var(LVAR_Herebefore) == 0) then begin
       call Node001;

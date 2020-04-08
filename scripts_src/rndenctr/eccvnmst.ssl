@@ -122,8 +122,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_CARAVAN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_STORE_OWNER);
+   set_self_team(TEAM_CARAVAN);
+   set_self_ai(AI_STORE_OWNER);
 end
 
 
@@ -136,7 +136,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -177,7 +177,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if ((CITY_START >= 0) and ( (check_general_rep <= 0) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) ) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ((CITY_START >= 0) and ( (check_general_rep <= 0) and (not(dude_perk(PERK_cult_of_personality))) ) ) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
        call Node014;
    end
 

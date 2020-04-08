@@ -91,7 +91,7 @@ variable Only_Once:=0;
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_CHECK_STUFF) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          if (not lvar_bit(LVAR_State, STATE_WARN_PLAYER)) then begin
             set_lvar_bit_on(LVAR_State, STATE_WARN_PLAYER);
             call Node003;
@@ -111,8 +111,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_RANGER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR_RANGER);
+   set_self_ai(AI_TOUGH_GUARD);
 end
 
 
@@ -125,13 +125,13 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
 
    if (not critter_is_fleeing(self_obj)) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          if (ncr_flag(NCR_KILLED_GOND_SERUM_FLAG)) then begin
             if (not lvar_bit(LVAR_State, STATE_GOND_MSG)) then begin
                float_msg(self_obj, mstr(109), FLOAT_MSG_RED);

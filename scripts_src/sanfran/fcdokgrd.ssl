@@ -98,32 +98,32 @@ procedure timed_event_p_proc begin
       if (self_tile == RIGHT_END_TILE) then begin
          ndebug("right");
          if (tmp == 1) then begin
-            animate_move_to_tile(local_var(LVAR_Home_Tile));
+            self_walk_to_tile(local_var(LVAR_Home_Tile));
          end else if (tmp == 3) then begin
-            animate_move_to_tile(LEFT_END_TILE);
+            self_walk_to_tile(LEFT_END_TILE);
          end
             //else stay
       end else if (self_tile == LEFT_END_TILE) then begin
          ndebug("left");
          if (tmp == 1) then begin
-            animate_move_to_tile(local_var(LVAR_Home_Tile));
+            self_walk_to_tile(local_var(LVAR_Home_Tile));
          end else if (tmp == 3) then begin
-            animate_move_to_tile(RIGHT_END_TILE);
+            self_walk_to_tile(RIGHT_END_TILE);
          end
             //else stay
       end else if (self_tile == local_var(LVAR_Home_Tile)) then begin
          ndebug("home");
          if (tmp == 1) then begin
-            animate_move_to_tile(LEFT_END_TILE);
+            self_walk_to_tile(LEFT_END_TILE);
          end else if (tmp == 3) then begin
-            animate_move_to_tile(RIGHT_END_TILE);
+            self_walk_to_tile(RIGHT_END_TILE);
          end
             //else stay
       end else begin
          if (tmp == 1) then begin
-            animate_move_to_tile(LEFT_END_TILE);
+            self_walk_to_tile(LEFT_END_TILE);
          end else if (tmp == 3) then begin
-            animate_move_to_tile(RIGHT_END_TILE);
+            self_walk_to_tile(RIGHT_END_TILE);
          end
       end
       add_timer_event(self_obj,game_ticks(random(15,20)),2);
@@ -240,16 +240,16 @@ procedure critter_p_proc begin
 
    if (self_tile == RIGHT_END_TILE and self_cur_rot != 4) then begin
       reg_anim_clear( self_obj );
-      animate_rotation(4);
+      self_rotate(4);
    end
 
    if (self_tile == LEFT_END_TILE and self_cur_rot != 0) then begin
       reg_anim_clear( self_obj );
-      animate_rotation(0);
+      self_rotate(0);
    end
 
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -317,7 +317,7 @@ end
 procedure Node004 begin
    Reply(230);
 
-   if ( (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_HAS_PASSWORD) and (has_skill(dude_obj,SKILL_CONVERSANT) > 95) and ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed))) then
+   if ( (global_var(GVAR_SAN_FRAN_SUB) < SHI_SUB_HAS_PASSWORD) and (has_skill(dude_obj,SKILL_SPEECH) > 95) and ((f2_flag_any >= f2_state_tribe_kidnapped) and (f2_flag_any < f2_state_enclave_destroyed))) then
       NOption(231, Node005, 4);
    if ( (sub_flag(SHI_SUB_HAS_PASSWORD)) or (sub_flag(SHI_SUB_WITH_CREW) ) ) then
       NOption(232, Node007, 4);

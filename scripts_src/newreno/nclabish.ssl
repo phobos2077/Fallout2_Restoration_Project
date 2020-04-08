@@ -211,14 +211,14 @@ procedure map_enter_p_proc begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
          set_local_var(LVAR_Home_Elev, self_elevation);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_BISHOP);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_NEW_RENO_BISHOP);
+         set_self_ai(AI_TOUGH_CITIZEN);
       end
       if ((self_tile != local_var(LVAR_Home_Tile)) or (self_elevation != local_var(LVAR_Home_Elev))) then begin
-         animate_stand_obj(self_obj);
+         self_stand;
          move_to(self_obj, local_var(LVAR_Home_Tile), local_var(LVAR_Home_Elev));
          if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-            animate_rotation(local_var(LVAR_Home_Rotation));
+            self_rotate(local_var(LVAR_Home_Rotation));
          end
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
@@ -345,11 +345,11 @@ procedure Node987 begin
    gfade_out(ONE_GAME_SECOND);
       set_mrs_bishop_banged
       if (dude_is_male) then begin
-         if (obj_is_carrying_obj_pid(dude_obj, PID_BLUE_CONDOM) > 0) then begin
+         if (dude_item_count(PID_BLUE_CONDOM) > 0) then begin
             remove_pid_qty(dude_obj, PID_BLUE_CONDOM, 1)
-         end else if (obj_is_carrying_obj_pid(dude_obj, PID_GREEN_CONDOM) > 0) then begin
+         end else if (dude_item_count(PID_GREEN_CONDOM) > 0) then begin
             remove_pid_qty(dude_obj, PID_GREEN_CONDOM, 1)
-         end else if (obj_is_carrying_obj_pid(dude_obj, PID_RED_CONDOM) > 0) then begin
+         end else if (dude_item_count(PID_RED_CONDOM) > 0) then begin
             remove_pid_qty(dude_obj, PID_RED_CONDOM, 1)
          end else begin
             set_mrs_bishop_pregnant
@@ -360,12 +360,12 @@ procedure Node987 begin
       ndebug("putting mrs bishop in bed");
       move_to(self_obj, mrs_bishop_self_bed_tile, mrs_bishop_room_elev);
       reg_anim_clear(self_obj);
-      anim(self_obj, ANIMATE_ROTATION, mrs_bishop_bed_rotation);
+      self_rotate(mrs_bishop_bed_rotation);
       anim(self_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
       if (dude_is_stupid == false) then begin
          if (dude_sex_rating > sex_rating_bad) then begin
             ndebug("putting DUDE IN mrs bishop bed");
-            anim(dude_obj, ANIMATE_ROTATION, mrs_bishop_bed_rotation);
+            dude_rotate(mrs_bishop_bed_rotation);
             anim(dude_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
             move_to(dude_obj, mrs_bishop_dude_bed_tile, mrs_bishop_room_elev);
          end
@@ -919,7 +919,7 @@ procedure Node130 begin
    prev_node := 130;
 end
 procedure Node131 begin
-   animate_stand_obj(dude_obj);
+   dude_stand;
    move_to(dude_obj, mrs_bishop_dude_room_tile, mrs_bishop_room_elev);
    Face_Critter(self_obj, dude_obj);
    if (dude_sex_rating >= sex_rating_great) then begin
@@ -1232,7 +1232,7 @@ procedure Node164 begin
    prev_node := 164;
 end
 procedure Node165 begin
-   animate_stand_obj(dude_obj);
+   dude_stand;
    move_to(dude_obj, mrs_bishop_dude_room_tile, mrs_bishop_room_elev);
    Face_Critter(self_obj, dude_obj);
    Reply(825);

@@ -172,8 +172,8 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    ardin_weapon:=PID_KNIFE;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_STORE_OWNER);
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_STORE_OWNER);
 end
 
 
@@ -186,7 +186,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -195,7 +195,7 @@ end
 
 procedure combat_p_proc begin
    if (fixed_param == 4) then begin //4 is combat_sequencing_turn
-      if (obj_is_carrying_obj_pid(self_obj,ardin_weapon) == 0) then begin
+      if (self_item_count(ardin_weapon) == 0) then begin
          item := create_object(ardin_weapon,0,0);
          add_obj_to_inven(self_obj, item);
       end
@@ -310,8 +310,8 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure Node910 begin
-   if (item_caps_total(dude_obj) >= 25) then begin
-      item_caps_adjust(dude_obj,-25); //subtract 25 coins
+   if (dude_caps >= 25) then begin
+      dude_caps_adjust(-25); //subtract 25 coins
       call Node920;
    end
    else begin
@@ -325,9 +325,9 @@ procedure Node920 begin
    critter_heal(dude_obj,(get_critter_stat(dude_obj,STAT_heal_rate)*4));//standard rate of healing/24 hours..Matt wants room to help healing
    gfade_out(600);
    if (random(0,1)) then
-      move_to(dude_obj,ROOM_ONE,elevation(dude_obj));
+      move_to(dude_obj,ROOM_ONE,dude_elevation);
    else
-      move_to(dude_obj,ROOM_TWO,elevation(dude_obj));
+      move_to(dude_obj,ROOM_TWO,dude_elevation);
    game_time_advance(game_ticks(28800)); //8 hours
    gfade_in(600);
 end
@@ -357,7 +357,7 @@ end
 
 procedure Node940 begin
    set_local_var(LVAR_torr_reward_given,1);
-   item_caps_adjust(dude_obj,100); //add 100 coins
+   dude_caps_adjust(100); //add 100 coins
    //+$100 to PC inventory end
 end
 
@@ -398,7 +398,7 @@ procedure Node980 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -411,7 +411,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -484,7 +484,7 @@ procedure Node006 begin
 end
 
 procedure Node007 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if (TOWN_REPUTATION < 5 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
       Reply(170);
    else
       Reply(171);
@@ -747,7 +747,7 @@ end
 //added by killap - RP
 procedure Node032 begin
    Reply(414);
-   if ( (obj_is_carrying_obj_pid(dude_obj, PID_RADSCORPION_PARTS) > 0) ) then
+   if ( (dude_item_count(PID_RADSCORPION_PARTS) > 0) ) then
       NOption(415,Node031,004);
    else
       NOption(416,Node999,004);
@@ -773,8 +773,8 @@ procedure Node035 begin
    //give_xp(300);
    set_global_var(GVAR_KLAMATH_FIND_RUSTLERS,FIND_RUSTLERS_SUCCESS);
 
-   if (obj_is_carrying_obj_pid(dude_obj, PID_RADSCORPION_PARTS ) > 0) then begin
-      item:=obj_carrying_pid_obj(dude_obj, PID_RADSCORPION_PARTS);
+   if (dude_item_count(PID_RADSCORPION_PARTS) > 0) then begin
+      item:=dude_item(PID_RADSCORPION_PARTS);
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item);
    end
@@ -796,7 +796,7 @@ end
 
 procedure Node033a begin
    Reply(1011);
-   item_caps_adjust(dude_obj,150); //give 150 coins
+   dude_caps_adjust(150); //give 150 coins
    NOption(426,Node007,004);
    NOption(1012,Node999,004);
 end

@@ -152,8 +152,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -166,11 +166,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -428,7 +428,7 @@ end
 procedure Node012 begin
    Reply(149);
 
-   if (item_caps_total(dude_obj) > 999) then
+   if (dude_caps > 999) then
        NOption(150,Node012a,004);
    else
        BOption(151,Node002,004);
@@ -437,8 +437,8 @@ procedure Node012 begin
 end
 
 procedure Node012a begin
-   item_caps_adjust(dude_obj,-1000);
-   item_caps_adjust(self_obj,300);
+   dude_caps_adjust(-1000);
+   self_caps_adjust(300);
 
    set_local_var(LVAR_Wanamingo_Deed,Deed_Sold_To_Player);
    //added by killap - expansion
@@ -505,7 +505,7 @@ procedure Node018a begin
 end
 
 procedure Node018b begin
-   item_caps_adjust(dude_obj,2500);
+   dude_caps_adjust(2500);
    set_local_var(LVAR_Wanamingo_Deed,Deed_Sold_To_Ascorti);
    give_xp(EXP_SELL_MINE_DEED);
    inc_global_var_amt(GVAR_TOWN_REP_REDDING, 15); //added by killap
@@ -582,7 +582,7 @@ end
 procedure Node028 begin
    Reply(202);
 
-   if (item_caps_total(dude_obj) >= 120) then
+   if (dude_caps >= 120) then
        GOption(203,Node028a,004);
    NOption(204,Node002,004);
    GOption(205,Node999,004);
@@ -592,7 +592,7 @@ procedure Node028a begin
    set_map_var(MVAR_Widow_Rooney,WIDOW_PAID);
 
    //added by killap
-   item_caps_adjust(dude_obj,-120);
+   dude_caps_adjust(-120);
    set_global_var(GVAR_WIDOW_ROONEY,WIDOW_PAID);
    inc_general_rep(REP_BONUS_HELPED_ROONEY);
    inc_global_var_amt(GVAR_TOWN_REP_REDDING, 5);

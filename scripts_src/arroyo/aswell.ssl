@@ -68,7 +68,7 @@ end
 procedure use_skill_on_p_proc begin
    if ((action_being_used == SKILL_REPAIR) and (local_var(LVAR_Gave_Xp) == 0)) then begin
        script_overrides;
-       display_msg(message_str(SCRIPT_GENERIC,1005));
+       display_msg(g_mstr(1005));
        give_xp(EXP_FIX_WELL);
        set_map_var(MVAR_Fixed_Well,1);
        set_local_var(LVAR_Gave_Xp,1);

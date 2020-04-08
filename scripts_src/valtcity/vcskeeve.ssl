@@ -134,8 +134,8 @@ procedure Node038;
 #define SLAVE_SKEEV        (1)
 #define SLAVE_BARKUS       (2)
 
-#define float_barkus(x)           float_msg(Barkus_Ptr, message_str(NAME,x), FLOAT_MSG_GREEN)
-#define float_dude(x)             float_msg(dude_obj, message_str(NAME,x), FLOAT_MSG_BLUE)
+#define float_barkus(x)           float_msg(Barkus_Ptr, mstr(x), FLOAT_MSG_GREEN)
+#define float_dude(x)             float_msg(dude_obj, mstr(x), FLOAT_MSG_BLUE)
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -161,8 +161,8 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    Skeeve_Ptr := self_obj;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( global_var( GVAR_BUST_SKEEVE ) == 1 ) then begin
       if( self_visible ) then
@@ -173,7 +173,7 @@ procedure map_enter_p_proc begin
          if( not( self_visible ) ) then begin
             move_to( self_obj, 29704, 0 );
             critter_attempt_placement( self_obj, 29704, 0 );
-            animate_rotation( 2 );
+            self_rotate(2);
             set_obj_visibility(self_obj, false);
             add_timer_event( self_obj, game_ticks( random( 20, 40 )), 1 );
          end
@@ -188,7 +188,7 @@ end
 procedure timed_event_p_proc begin
    if( fixed_param == 1 ) then begin
       if( ( not( combat_is_initialized ) ) and
-          ( obj_can_see_obj( self_obj, dude_obj ) ) ) then begin
+          ( self_can_see_dude ) ) then begin
          if( Allow_Floats == 1 ) then begin
             if( Fallout2_enclave_destroyed ) then
                call Node001;
@@ -288,7 +288,7 @@ procedure timed_event_p_proc begin
          Allow_Floats := 1;
          set_global_var( GVAR_DROP_PLAYER_BY_VAULT_8, 1 );
          move_to(self_obj, 29704, 0);
-         anim(self_obj, 1000, 2);
+         self_rotate(2);
          load_map( MAP_VAULT_CITY_VAULT, 0 );
       end
    end
@@ -306,7 +306,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -541,31 +541,31 @@ procedure Node013 begin
    Reply(129);
 
    if( ( has_skill( dude_obj, SKILL_BARTER ) >= 75 ) and
-       ( item_caps_total( dude_obj ) >= 50 ) ) then
+       ( dude_caps >= 50) ) then
       NOption(130, Node013a, 004);
    if( ( has_skill( dude_obj, SKILL_BARTER ) >= 50 ) and
-       ( item_caps_total( dude_obj ) >= 75 ) ) then
+       ( dude_caps >= 75) ) then
       NOption(131, Node013b, 004);
    if( ( has_skill( dude_obj, SKILL_BARTER ) < 50 ) and
-       ( item_caps_total( dude_obj ) >= 100 ) ) then
+       ( dude_caps >= 100) ) then
       NOption(132, Node013c, 004);
-   if( item_caps_total( dude_obj ) < 50 ) then
+   if( dude_caps < 50) then
       NOption(133, Node999, 004);
    NOption(134, Node999, 004);
 end
 
 procedure Node013a begin
-   item_caps_adjust( dude_obj, -50 );
+   dude_caps_adjust( -50);
    call Node014;
 end
 
 procedure Node013b begin
-   item_caps_adjust( dude_obj, -75 );
+   dude_caps_adjust( -75);
    call Node014;
 end
 
 procedure Node013c begin
-   item_caps_adjust( dude_obj, -100 );
+   dude_caps_adjust( -100);
    call Node014;
 end
 
@@ -643,19 +643,19 @@ procedure Node021 begin
 
    BOption(161, Node022, 004);
    NOption(232, Node036, 004);
-   if( item_caps_total( dude_obj ) >= 200 ) then
+   if( dude_caps >= 200) then
       GOption(162, Node021a, 004);
-   if( item_caps_total( dude_obj ) >= 150 ) then
+   if( dude_caps >= 150) then
       NOption(163, Node021b, 004);
-   if( item_caps_total( dude_obj ) < 200 ) then
+   if( dude_caps < 200) then
       NOption(164, Node999, 004);
-   if( item_caps_total( dude_obj ) >= 200 ) then
+   if( dude_caps >= 200) then
       NOption(165, Node999, 004);
 end
 
 procedure Node021a begin
    gfade_out(600);
-   item_caps_adjust( dude_obj, -200 );
+   dude_caps_adjust( -200);
    gfade_in(600);
    call Node024;
 end
@@ -671,18 +671,18 @@ procedure Node022 begin
    Reply(166);
 
    NOption(232, Node036, 004);
-   if( item_caps_total( dude_obj ) >= 200 ) then
+   if( dude_caps >= 200) then
       NOption(167, Node021a, 004);
-   if( item_caps_total( dude_obj ) >= 150 ) then
+   if( dude_caps >= 150) then
       NOption(168, Node021b, 004);
-   if( item_caps_total( dude_obj ) < 200 ) then
+   if( dude_caps < 200) then
       NOption(169, Node999, 004);
-   if( item_caps_total( dude_obj ) >= 200 ) then
+   if( dude_caps >= 200) then
       NOption(170, Node999, 004);
 end
 
 procedure Node023 begin
-   item_caps_adjust( dude_obj, -150 );
+   dude_caps_adjust( -150);
    Reply(171);
 
    NOption(172, Node023a, 004);
@@ -715,7 +715,7 @@ procedure Node025 begin
    set_local_var( LVAR_Skeeve_Status, SKEEVE_PISSED );
    Reply(177);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then
+   if( dude_item_count( PID_FAKE_CITIZENSHIP) > 0) then
       BOption(178, Node025a, 008);
    BOption(234, Node025b, 004);
    NOption(235, Node999, 004);
@@ -727,7 +727,7 @@ procedure Node025a begin
 end
 
 procedure Node025b begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -20 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -20 ) ) ) then
       call Node026;
    else
       call Node025c;
@@ -735,7 +735,7 @@ end
 
 procedure Node025c begin
    Reply(236);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then // added by killap
+   if( dude_item_count( PID_FAKE_CITIZENSHIP) > 0) then // added by killap
       BOption(237, Node025a, 004);
    BOption(238, Node999, 004);
 end
@@ -748,7 +748,7 @@ procedure Node026 begin
 end
 
 procedure Node027 begin
-   item_caps_adjust( dude_obj, 300 );
+   dude_caps_adjust( 300);
    Reply(183);
 
    BOption(184, Node999, 004);
@@ -759,17 +759,17 @@ procedure Node028 begin
    Reply(186);
 
    BOption(187, Node029, 004);
-   if( item_caps_total( dude_obj ) >= 200 ) then
+   if( dude_caps >= 200) then
       NOption(239, Node028a, 004);
-   if( item_caps_total( dude_obj ) < 200 ) then
+   if( dude_caps < 200) then
       NOption(240, Node999, 004);
-   if( item_caps_total( dude_obj ) >= 200 ) then
+   if( dude_caps >= 200) then
       NOption(241, Node999, 004);
 end
 
 procedure Node028a begin
    gfade_out(600);
-   item_caps_adjust( dude_obj, -200 );
+   dude_caps_adjust( -200);
    gfade_in(600);
    call Node024;
 end
@@ -837,7 +837,7 @@ procedure Node032 begin
 end
 
 procedure Node032a begin
-   item_caps_adjust( self_obj, 200 );
+   self_caps_adjust( 200);
    call Node033;
 end
 

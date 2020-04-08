@@ -161,7 +161,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+   set_self_team(TEAM_ABBEY);
    add_timer_event(self_obj,random(25,50),3);
    set_local_var(LVAR_Home_Tile,self_tile);
    set_local_var(LVAR_Home_Rotation, self_cur_rot);
@@ -176,12 +176,12 @@ procedure map_update_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end else if (self_tile != local_var(LVAR_Home_Tile) and drinks_this_conversation == 0) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation) and drinks_this_conversation == 0) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -215,7 +215,7 @@ procedure Node001 begin
    else
       Reply(220);
 
-   if (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER )) then begin
+   if (dude_item_count(PID_LIGHTER)) then begin
       GOption(201,Node002,004);
       NLowOption(800,Node015);
    end
@@ -229,7 +229,7 @@ end
 procedure Node002 begin
    set_local_var(LVAR_borrow_light, 1);
    set_global_var(GVAR_ABBEY_LIGHTER,3);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_LIGHTER)) then
+   if (dude_item_count(PID_LIGHTER)) then
       remove_pid_qty(dude_obj, PID_LIGHTER, 1)
    Reply(202);
    NOption(203,Node009,004);
@@ -328,7 +328,7 @@ procedure Node011 begin
 end
 
 procedure Node012 begin
-   item_caps_adjust( dude_obj, -20 );
+   dude_caps_adjust( -20);
    Reply(218);
    NOption(205,Node005,004);
    NOption(253,Node005a,004);
@@ -364,7 +364,7 @@ procedure Node016 begin
 
    set_local_var(LVAR_borrow_light, 1);
    set_global_var(GVAR_ABBEY_LIGHTER,3);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_LIGHTER)) then
+   if (dude_item_count(PID_LIGHTER)) then
       remove_pid_qty(dude_obj, PID_LIGHTER, 1)
    Reply(202);
    NOption(820,Node009,001);

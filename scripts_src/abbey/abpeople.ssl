@@ -78,16 +78,16 @@ if (fixed_param == 2) then begin
      (not(combat_is_initialized))) then begin
     reg_anim_clear(self_obj);
     reg_anim_begin();
-    if (tile_num(self_obj) / 200 > 131) then
-     animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),5,4));
-    else if (tile_num(self_obj) / 200 < 108) then
-     animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),2,4));
-    else if (tile_num(self_obj) % 200 < 80) then
-     animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),3,4));
-    else if (tile_num(self_obj) % 200 > 122) then
-     animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),0,4));
+    if (self_tile / 200 > 131) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,5,4));
+    else if (self_tile / 200 < 108) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,2,4));
+    else if (self_tile % 200 < 80) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,3,4));
+    else if (self_tile % 200 > 122) then
+     self_walk_to_tile(tile_num_in_direction(self_tile,0,4));
     else
-     animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,7),3));
+     self_walk_to_tile(tile_num_in_direction(self_tile,random(0,7),3));
     reg_anim_end();
   end
   add_timer_event(self_obj,game_ticks(random(5,7)),2);
@@ -207,7 +207,7 @@ if (source_obj == dude_obj) then begin
 
 procedure critter_p_proc begin
 
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or ((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or ((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
    end
 end

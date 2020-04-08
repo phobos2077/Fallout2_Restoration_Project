@@ -144,8 +144,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -158,7 +158,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -276,7 +276,7 @@ end
 
 /*
 procedure garl18 begin
-   tandi_pid_ptr := create_object(212,0,0); //TANDI_ITEM=212
+   tandi_pid_ptr := create_object(PID_BARTER_TANDI,0,0); //TANDI_ITEM=212
    add_obj_to_inven(self_obj,tandi_pid_ptr);
    gSay_Message(SCRIPT_GARL,147,NEUTRAL_REACTION);
    call garlbarter;
@@ -290,7 +290,7 @@ end
 */
 
 procedure slimbarter begin
-   if obj_carrying_pid_obj(dude_obj, RAT_KEY) then
+   if dude_item(RAT_KEY) then
       hadkey:=1;
 
    set_local_var(LVAR_attempted_barter,1);
@@ -299,7 +299,7 @@ procedure slimbarter begin
 
    //NBK - NEED TO CHANGE NEXT LINE TO CHECK FOR RAT KEY
    //CURRENTLY IT IS CHECKING FOR TANDI ITEM
-   if ( (obj_carrying_pid_obj(dude_obj, RAT_KEY)) and (hadkey == 0) ) then begin
+   if ( (dude_item(RAT_KEY)) and (hadkey == 0) ) then begin
       //This should only be true right after player gets key thru barter
       //unfortuanately it could be true if player steals it successfully
       //or gets the same key from yellow dog.
@@ -317,10 +317,10 @@ procedure slimbarter begin
 end
 
 procedure Node920 begin
-   if (TOWN_REPUTATION > 4 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if (TOWN_REPUTATION > 4 or (dude_perk(PERK_cult_of_personality))) then // edit by killap - added (dude_perk(PERK_cult_of_personality))
       call Node011;
    else begin
-      if (is_success(roll_vs_skill(self_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(self_obj,SKILL_SPEECH,0))) then
          call Node011;
       else
          call Node012;
@@ -333,7 +333,7 @@ procedure Node950 begin
    end
    else begin
       set_local_var(LVAR_tried_talk, 1);
-      if (is_success(roll_vs_skill(self_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(self_obj,SKILL_SPEECH,0))) then
          call Node011;  //killap's fix: changed from Node012
       else
          call Node900;  //killap's fix: changed from Node011
@@ -350,7 +350,7 @@ procedure Node960 begin
 end
 
 procedure Node970 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0)) and (local_var(LVAR_26_before) == false)) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0)) and (local_var(LVAR_26_before) == false)) then
       call Node026;
    else
       call Node027;
@@ -368,11 +368,11 @@ end
 procedure Node990 begin
    set_local_var(LVAR_26_before, 1); //moved from 026
 
-   if (TOWN_REPUTATION < 7 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
-      item_caps_adjust(dude_obj, -100); // Seraph's Fix: changed from '50' to '-100'
+   if (TOWN_REPUTATION < 7 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+      dude_caps_adjust(-100); // Seraph's Fix: changed from '50' to '-100'
    else
-      item_caps_adjust(dude_obj, -50);  // Seraph's Fix: changed from '50' to '-50'
-   learn:= 2*(get_critter_stat(dude_obj,STAT_iq));
+      dude_caps_adjust(-50);  // Seraph's Fix: changed from '50' to '-50'
+   learn:= 2*(dude_iq);
    if (learn < 7) then learn:=7;
    critter_mod_skill(dude_obj,SKILL_OUTDOORSMAN,learn);
    gfade_out(ONE_GAME_MINUTE);
@@ -382,7 +382,7 @@ procedure Node990 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -395,7 +395,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -441,7 +441,7 @@ procedure Node003 begin
 end
 
 procedure Node004 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if (TOWN_REPUTATION < 5 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
       Reply(140);
    else
       Reply(141);
@@ -476,12 +476,12 @@ procedure Node06a begin
 end
 
 procedure Node007 begin
-   if (TOWN_REPUTATION < 5 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if (TOWN_REPUTATION < 5 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
       Reply(170);
    else
       Reply(171);
 
-   if (obj_is_carrying_obj_pid(dude_obj,RAT_KEY)) then begin
+   if (dude_item_count(RAT_KEY)) then begin
     //do nothing
    end
    else begin
@@ -545,8 +545,8 @@ end
 
 procedure Node11a begin
 //give player rat key, set rat_key_given
-   if (obj_is_carrying_obj_pid(self_obj,RAT_KEY)) then begin
-      mykey:=obj_carrying_pid_obj(self_obj,RAT_KEY);
+   if (self_item_count(RAT_KEY)) then begin
+      mykey:=self_item(RAT_KEY);
       rm_obj_from_inven(self_obj,mykey);
       //destroy_object(mykey); //added by killap
       //item:=create_object(RAT_KEY,0,0); //NEED RAT KEY DEFINED..until then give spear
@@ -584,7 +584,7 @@ end
 procedure Node015 begin
    Reply(250);
    NOption(251,Node008,004);
-   if (obj_is_carrying_obj_pid(dude_obj,RAT_KEY)) then begin
+   if (dude_item_count(RAT_KEY)) then begin
     //do nothing
    end
    else begin
@@ -650,7 +650,7 @@ end
 
 procedure Node024 begin
    Reply(340);
-   if (obj_is_carrying_obj_pid(dude_obj,RAT_KEY)) then begin
+   if (dude_item_count(RAT_KEY)) then begin
     //do nothing
    end
    else begin
@@ -666,7 +666,7 @@ procedure Node24a begin
 end
 
 procedure Node025 begin
-   if (get_critter_stat(dude_obj,STAT_ch) > 5) then
+   if (dude_charisma > 5) then
       Reply(351);
    else
       Reply(350);
@@ -678,13 +678,13 @@ end
 
 procedure Node026 begin
    //set_local_var(LVAR_26_before, 1); moved to 990
-   if (TOWN_REPUTATION < 7 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if (TOWN_REPUTATION < 7 and not(dude_perk(PERK_cult_of_personality))) then begin // edit by killap - added not(dude_perk(PERK_cult_of_personality))
       Reply(360);
-      if (item_caps_total(dude_obj) >= 100) then
+      if (dude_caps >= 100) then
          NOption(362,Node990,004); //fade out, add to players skill
    end else begin
       Reply(361);
-      if (item_caps_total(dude_obj) >= 50) then
+      if (dude_caps >= 50) then
          NOption(362,Node990,004); //fade out, add to players skill
    end
 

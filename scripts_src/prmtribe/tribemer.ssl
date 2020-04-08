@@ -109,12 +109,12 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if ( (map_var(MVAR_Attack_Player) == 1) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( (map_var(MVAR_Attack_Player) == 1) and (self_can_see_dude) ) then begin
        attack(dude_obj);
    end
 
    else if( not( is_loading_game ) ) then begin
-      if ( (local_var(LVAR_Initiate_Dialogue) == 0) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+      if ( (local_var(LVAR_Initiate_Dialogue) == 0) and (self_can_see_dude) ) then begin
          call talk_p_proc;
       end
    end
@@ -180,8 +180,8 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_MERCHANT);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_MERCHANT);
+   set_self_ai(AI_TOUGH_MERCHANT);
+   set_self_team(TEAM_RND_MERCHANT);
 end
 
 
@@ -271,12 +271,12 @@ end
 
 procedure Node002 begin
    Reply(202);
-   NOption(mstr(203)+obj_name(dude_obj)+mstr(204),Node003,004);
-   NOption(obj_name(dude_obj)+mstr(205),Node004,004);
+   NOption(mstr(203)+dude_name+mstr(204),Node003,004);
+   NOption(dude_name+mstr(205),Node004,004);
 end
 
 procedure Node003 begin
-   Reply(mstr(210)+obj_name(dude_obj)+mstr(211));
+   Reply(mstr(210)+dude_name+mstr(211));
    NOption(212,Node005,004);
    NOption(213,Node006,004);
    NOption(214,Node006,004);

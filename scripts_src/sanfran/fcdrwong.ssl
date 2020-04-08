@@ -161,8 +161,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_SHI);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_SHI);
+   set_self_team(TEAM_SAN_FRAN_SHI);
+   set_self_ai(AI_SF_SHI);
 end
 
 //added by killap - expansion
@@ -220,7 +220,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -373,7 +373,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_DECOMPOSING_BODY))) then begin
+   if ((dude_item_count(PID_DECOMPOSING_BODY))) then begin
       Reply(240);
       if (map_var(MVAR_Xeno_Program_Know)) then begin
          NOption(200, Node019, 4);
@@ -392,7 +392,7 @@ procedure Node001 begin
          NOption(300, Node023, 4);
       end else if (global_var(GVAR_SHI_FIND_DR_SHENG) == PLANT_QUEST_FOUND_DRSHENG and (local_var(LVAR_Kill_Sheng) == 0) and (town_known(AREA_SAN_FRAN_DR_SHENG) == MARK_STATE_VISITED) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
          NOption(380, Node031, 4);
-      end else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0 and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
+      end else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0 and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
          if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
             NOption(502, Node045, 4);
          NOption(501, Node042, 4);
@@ -594,7 +594,7 @@ procedure Node020 begin
 end
 
 procedure Node991 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) then
       call Node021;
    else
       call Node022;
@@ -677,7 +677,7 @@ procedure Node033 begin
 
    set_local_var(LVAR_Kill_Sheng,KILL_SHENG_ACCEPT);
    Reply(410);
-   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
+   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
          NOption(502, Node045, 4);
       NOption(500, Node042, 4);
@@ -688,7 +688,7 @@ end
 
 procedure Node034 begin
    Reply(420);
-   if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED))) then
+   if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG and (dude_item_count(PID_DR_SHENG_PLANT_SEED))) then
       NOption(423, Node034b, 4);
    else
       NOption(421, Node034a, 4);
@@ -709,7 +709,7 @@ end
 procedure Node035 begin
    set_local_var(LVAR_Kill_Sheng,KILL_SHENG_REFUSE);
    Reply(430);
-   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
+   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
          NOption(502, Node045, 4);
       NOption(500, Node042, 4);
@@ -753,7 +753,7 @@ procedure Node038 begin
 
    Reply(460);
 
-   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
+   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
          NOption(502, Node045, 4);
       NOption(500, Node042, 4);
@@ -797,7 +797,7 @@ procedure Node039 begin
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KILLED_DRSHENG);
 
    Reply(470);
-   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
+   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
          NOption(502, Node045, 4);
       NOption(500, Node042, 4);
@@ -807,7 +807,7 @@ procedure Node039 begin
 end
 
 procedure Node040 begin
-   item_caps_adjust(dude_obj, 5000);
+   dude_caps_adjust(5000);
 
    display_msg(mstr(600));
    give_xp(EXP_KILL_DR_SHENG_REWARD);
@@ -815,7 +815,7 @@ procedure Node040 begin
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KILLED_DRSHENG);
 
    Reply(480);
-   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
+   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
          NOption(502, Node045, 4);
       NOption(500, Node042, 4);
@@ -833,7 +833,7 @@ procedure Node041 begin
    set_global_var(GVAR_SHI_ELIMINATE_DR_SHENG,PLANT_QUEST_KILLED_DRSHENG);
 
    Reply(490);
-   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (obj_is_carrying_obj_pid(dude_obj,PID_DR_SHENG_PLANT_SEED)) ) then begin
+   if ( (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0) and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) ) then begin
       if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
          NOption(502, Node045, 4);
       NOption(500, Node042, 4);
@@ -845,7 +845,7 @@ end
 procedure Node042 begin
    variable item;
 
-   item:=obj_carrying_pid_obj(dude_obj,PID_DR_SHENG_PLANT_SEED);
+   item:=dude_item(PID_DR_SHENG_PLANT_SEED);
    rm_obj_from_inven(dude_obj,item);
 
    set_global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG,PLANT_QUEST_DELIVERED_SEED_SAMPLE);
@@ -881,7 +881,7 @@ end
 procedure Node045 begin
    variable item;
 
-   item:=obj_carrying_pid_obj(dude_obj,PID_DR_SHENG_PLANT_SEED);
+   item:=dude_item(PID_DR_SHENG_PLANT_SEED);
    rm_obj_from_inven(dude_obj,item);
 
    set_global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG,PLANT_QUEST_DELIVERED_SEED_SAMPLE_DESTROYED);
@@ -897,13 +897,13 @@ end
 procedure Node990 begin
    variable item;
 
-   if not(obj_is_carrying_obj_pid(dude_obj,PID_DECOMPOSING_BODY)) then begin
+   if not(dude_item_count(PID_DECOMPOSING_BODY)) then begin
      call Node992;
    end else begin
       destroy_object(tile_contains_pid_obj(19738,dude_elevation,33555023));
       item:=create_object(33555025,19738,dude_elevation);
       give_xp(800);
-      item:=obj_carrying_pid_obj(dude_obj, PID_DECOMPOSING_BODY);
+      item:=dude_item(PID_DECOMPOSING_BODY);
       rm_obj_from_inven(dude_obj,item);
       display_msg(mstr(211));
    end
@@ -912,13 +912,13 @@ end
 procedure Node990a begin
    variable item;
 
-   if not(obj_is_carrying_obj_pid(dude_obj,PID_DECOMPOSING_BODY)) then begin
+   if not(dude_item_count(PID_DECOMPOSING_BODY)) then begin
      call Node992;
    end else begin
       destroy_object(tile_contains_pid_obj(19738,dude_elevation,33555023));
       item:=create_object(33555025,19738,dude_elevation);
-      item_caps_adjust( dude_obj, 500 );
-      item:=obj_carrying_pid_obj(dude_obj, PID_DECOMPOSING_BODY);
+      dude_caps_adjust( 500);
+      item:=dude_item(PID_DECOMPOSING_BODY);
       rm_obj_from_inven(dude_obj,item);
       display_msg(mstr(211));
    end

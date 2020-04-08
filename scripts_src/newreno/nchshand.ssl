@@ -71,7 +71,7 @@ procedure map_enter_p_proc begin
    handy_obj := self_obj;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_SALVATORE);
+         set_self_team(TEAM_NEW_RENO_SALVATORE);
       end
    end
 end
@@ -86,10 +86,10 @@ procedure critter_p_proc begin
    if (handy_active) then begin
       if (anim_busy(self_obj) == false) then begin
          if (delivering) then begin
-            animate_move_to_tile(tile_num_in_direction(tile_num(vertibird_obj), rotation_to_tile(tile_num(vertibird_obj),tile_num(self_obj)), 1));
+            self_walk_to_tile(tile_num_in_direction(tile_num(vertibird_obj), rotation_to_tile(tile_num(vertibird_obj),self_tile), 1));
             off_delivering;
          end else begin
-            animate_move_to_tile(tile_num_in_direction(tile_num(crate_obj), rotation_to_tile(tile_num(crate_obj),tile_num(self_obj)), 1));
+            self_walk_to_tile(tile_num_in_direction(tile_num(crate_obj), rotation_to_tile(tile_num(crate_obj),self_tile), 1));
             set_delivering;
          end
       end

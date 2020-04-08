@@ -202,7 +202,7 @@ procedure talk_p_proc begin
    end
    else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_DOWN_WELL ) and
             ( map_var( MVAR_Dwarf_In_Well ) == 0 ) ) then begin
-      if( dude_iq <= 3 ) then
+      if( dude_is_stupid ) then
          float_msg( dude_obj, mstr(115), FLOAT_COLOR_NORMAL );
       else
          float_msg( dude_obj, mstr(116), FLOAT_COLOR_NORMAL );
@@ -216,7 +216,7 @@ procedure talk_p_proc begin
       end_dialogue;
    end
    else if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_FOUND ) then begin
-      if( dude_iq <= 3 ) then
+      if( dude_is_stupid ) then
          float_msg( dude_obj, mstr(154), FLOAT_COLOR_NORMAL );
       else
          float_msg( dude_obj, mstr(155), FLOAT_COLOR_NORMAL );

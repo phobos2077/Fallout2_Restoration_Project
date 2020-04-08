@@ -84,8 +84,8 @@ end
 
 procedure look_at_p_proc begin
    script_overrides;
-   if ((obj_pid(self_obj) == PID_CHILD_FEMALE) or (obj_pid(self_obj) == PID_CHILD_MALE)) then
-      display_msg(mstr(400 + critter_is_female));
+   if ((self_pid == PID_CHILD_FEMALE) or (self_pid == PID_CHILD_MALE)) then
+      display_msg(mstr(400 + self_is_female));
    else
       display_msg(mstr(100));
 
@@ -94,8 +94,8 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   if ((obj_pid(self_obj) == PID_CHILD_FEMALE) or (obj_pid(self_obj) == PID_CHILD_MALE)) then
-      display_msg(mstr(400 + critter_is_female));
+   if ((self_pid == PID_CHILD_FEMALE) or (self_pid == PID_CHILD_MALE)) then
+      display_msg(mstr(400 + self_is_female));
    else
       display_msg(mstr(101));
 end
@@ -144,7 +144,7 @@ end
 
 procedure map_enter_p_proc begin
    CHECK_LEVEL
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_PEASANT);
+   set_self_team(TEAM_DEN_PEASANT);
 end
 
 
@@ -160,7 +160,7 @@ end
 **************************************************************************************/
 
 procedure talk_p_proc begin
-   if ( (obj_pid(self_obj) == PID_CHILD_FEMALE) or (obj_pid(self_obj) == PID_CHILD_MALE) ) then begin
+   if ( (self_pid == PID_CHILD_FEMALE) or (self_pid == PID_CHILD_MALE) ) then begin
       if (dude_is_male) then begin
          floater(random(200,(200+(global_var(GVAR_DEN_ORPHANAGE) == 7))));
       end else begin

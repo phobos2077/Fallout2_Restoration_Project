@@ -70,7 +70,7 @@ procedure Node005;
                                              end                                                                                 \
                                           end else if (x == post_state_done) then begin                                          \
                                              if (post_state == post_state_waiting) then begin                                    \
-                                                animate_move_to_tile(wander_tile);                                               \
+                                                self_walk_to_tile(wander_tile);                                               \
                                                 floater_rand(350, 357);                                                          \
                                              end                                                                                 \
                                           end                                                                                    \
@@ -131,8 +131,8 @@ procedure map_enter_p_proc begin
       destroy_object(self_obj);
    end else if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_THE_DEN);
+         set_self_ai(AI_TOUGH_GUARD);
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
@@ -158,15 +158,15 @@ procedure critter_p_proc begin
                display_mstr(375);
             end
          end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-            animate_move_to_tile(local_var(LVAR_Home_Tile));
+            self_walk_to_tile(local_var(LVAR_Home_Tile));
          end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-            animate_rotation(local_var(LVAR_Home_Rotation));
+            self_rotate(local_var(LVAR_Home_Rotation));
          end else begin
             set_post_state(post_state_none);
          end
       end else if (post_state == post_state_moving) then begin
          if (tile_distance(self_tile, wander_tile) > 1) then begin
-            animate_move_to_tile(wander_tile);
+            self_walk_to_tile(wander_tile);
          end else begin
             set_post_state(post_state_waiting);
          end

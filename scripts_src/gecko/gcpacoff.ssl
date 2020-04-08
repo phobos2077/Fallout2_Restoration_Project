@@ -87,7 +87,7 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   set_obj_visibility(self_obj,1); //should never see this critter
+   set_self_invisible; //should never see this critter
    //CHANGE THESE -nbk
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
@@ -97,7 +97,7 @@ end
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
    if (global_var(GVAR_ENCLAVE_COM_LINE) == 0) then begin
-      if ((tile_distance(tile_num(self_obj), tile_num(dude_obj))) < 9) then begin
+      if ((tile_distance(self_tile, dude_tile)) < 9) then begin
          dialogue_system_enter;
       end
    end
@@ -322,7 +322,7 @@ end
 
 procedure Node920 begin
 //Roll Speech if successful goto 22 else goto 23
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -20))) then
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, -20))) then
        call Node008;
    else
        call Node004;
@@ -330,7 +330,7 @@ end
 
 procedure Node930 begin
 //Roll Speech if successful goto 22 else goto 23
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 0))) then
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 0))) then
        call Node008;
    else
        call Node004;

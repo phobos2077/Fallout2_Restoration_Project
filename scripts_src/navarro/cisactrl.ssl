@@ -54,7 +54,7 @@ end
 
 procedure use_p_proc begin
    if (combat_is_initialized == false) then begin
-      if ( (obj_is_visible_flag(air_guard_obj)) ) then begin
+      if ( (is_visible(air_guard_obj)) ) then begin
          if (not(skill_success(dude_obj,SKILL_SNEAK,-60))) then begin
             call Tamper_Proc;
          end else begin

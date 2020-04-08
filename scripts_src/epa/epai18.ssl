@@ -40,10 +40,10 @@ procedure damage_p_proc
 begin
   variable LVar1 := 0;
 
-  if (metarule(49, target_obj) == 6) then
+  if (weapon_dmg_type(target_obj) == 6) then
   begin
     LVar1 := random(10, 20);
-    explosion(tile_num(self_obj), elevation(self_obj), LVar1);
+    explosion(self_tile, self_elevation, LVar1);
     destroy_object(self_obj);
   end
 end

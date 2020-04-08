@@ -107,8 +107,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_PEASANT);
 end
 
 
@@ -121,29 +121,29 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
-   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (tile_num(self_obj) != 20506) and (local_var(LVAR_Move_Tile) == 0)) then begin
-       animate_move_to_tile(20506);
+   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (self_tile != 20506) and (local_var(LVAR_Move_Tile) == 0)) then begin
+       self_walk_to_tile(20506);
    end
 
-   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (tile_num(self_obj) == 20506) and (local_var(LVAR_Move_Tile) == 0)) then begin
+   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (self_tile == 20506) and (local_var(LVAR_Move_Tile) == 0)) then begin
        set_local_var(LVAR_Move_Tile,1);
-       animate_move_to_tile(15479);
+       self_walk_to_tile(15479);
    end
 
-   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (tile_num(self_obj) != 15479) and (local_var(LVAR_Move_Tile) == 1)) then begin
-       animate_move_to_tile(15479);
+   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (self_tile != 15479) and (local_var(LVAR_Move_Tile) == 1)) then begin
+       self_walk_to_tile(15479);
    end
 
-   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (tile_num(self_obj) == 15479) and (local_var(LVAR_Move_Tile) == 1)) then begin
+   if ((map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) and (self_tile == 15479) and (local_var(LVAR_Move_Tile) == 1)) then begin
        set_local_var(LVAR_Move_Tile,2);
    end
 
@@ -380,10 +380,10 @@ procedure Node012 begin
 end
 
 procedure Node012a begin
-   if (item_caps_total(dude_obj) < 120) then
+   if (dude_caps < 120) then
        call Node014;
    else begin
-       item_caps_adjust(dude_obj,-120);
+       dude_caps_adjust(-120);
        set_map_var(MVAR_Widow_Rooney,WIDOW_PAID);
        set_global_var(GVAR_WIDOW_ROONEY,WIDOW_PAID); //added by killap
        inc_general_rep(REP_BONUS_HELPED_ROONEY);

@@ -33,7 +33,7 @@ begin
     radiation_inc(source_obj, 100);
     if (local_var(LVAR_Herebefore) == 0) then
     begin
-      float_msg(dude_obj, message_str(NAME, 100), FLOAT_MSG_YELLOW);
+      float_msg(dude_obj, mstr(100), FLOAT_MSG_YELLOW);
       set_local_var(LVAR_Herebefore, 1);
     end
   end

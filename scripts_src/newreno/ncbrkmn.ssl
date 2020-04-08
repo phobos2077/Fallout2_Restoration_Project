@@ -203,7 +203,7 @@ end
 
 procedure Node004 begin
    Reply(253);
-   if ( (dude_strength) > (get_critter_stat(self_obj,STAT_st)) ) then
+   if ( (dude_strength) > (self_strength) ) then
       NOption(255, Node005, -003);
    else
       NOption(254, Node999, -003);

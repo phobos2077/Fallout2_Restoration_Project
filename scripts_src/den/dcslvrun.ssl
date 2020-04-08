@@ -26,7 +26,7 @@
 #define CRITTER_KNOCKED_OUT             (5)         // temp var
 #define MIN_STUN                        (2)
 #define MAX_STUN                        (5)
-#define STUN_KNOCKOUT                   (2 * get_critter_stat(self_obj,STAT_en))
+#define STUN_KNOCKOUT                   (2 * self_endurance)
 #define ENDURANCE_BONUS                 (0)
 
 /* Standard Script Procedures */
@@ -91,7 +91,7 @@ end
 procedure timed_event_p_proc begin
    if (combat_is_initialized == false) then begin
       if (self_can_see_dude == false) then begin
-         animate_move_to_tile(tile_num_in_direction(self_tile, random(0,5), random(2,4)));
+         self_walk_to_tile(tile_num_in_direction(self_tile, random(0,5), random(2,4)));
          if (random(0,1)) then begin
             if ((self_pid == PID_PRIMITIVE_VILLAGER_MALE) or (self_pid == PID_PRIMITIVE_VILLAGER_FEMALE)) then begin
                if (self_ai == AI_KAMAKAZI) then begin
@@ -120,12 +120,12 @@ procedure map_enter_p_proc begin
       if (local_var(LVAR_Initialized) == false) then begin
          if (self_is_armed) then begin
             set_local_var(LVAR_Hostile,2);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAMAKAZI);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_HOSTILE_SLAVES);
+            set_self_ai(AI_KAMAKAZI);
+            set_self_team(TEAM_HOSTILE_SLAVES);
             set_local_var(LVAR_Is_Warrior, true);
          end else begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVE);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+            set_self_ai(AI_SLAVE);
+            set_self_team(TEAM_SLAVES);
          end
          set_local_var(LVAR_Initialized, true);
       end
@@ -191,10 +191,10 @@ end
 procedure combat_p_proc begin
    if (critter_is_fleeing(self_obj) == false) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
-         if (has_trait(TRAIT_OBJECT,self_obj,OBJECT_AI_PACKET) != AI_KAMAKAZI) then begin
+         if (self_ai != AI_KAMAKAZI) then begin
             inc_global_var(GVAR_HOSTILE_SLAVE_COUNT);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_HOSTILE_SLAVES);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAMAKAZI);
+            set_self_team(TEAM_HOSTILE_SLAVES);
+            set_self_ai(AI_KAMAKAZI);
             set_local_var(LVAR_Hostile,1);
          end else if (self_ai == AI_SLAVE) then begin
             critter_set_flee_state(self_obj, true);
@@ -204,8 +204,8 @@ procedure combat_p_proc begin
       end
    end else if (self_ai == AI_KAMAKAZI) then begin
       set_local_var(LVAR_Is_Warrior, false);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVE);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+      set_self_ai(AI_SLAVE);
+      set_self_team(TEAM_SLAVES);
       dec_global_var(GVAR_HOSTILE_SLAVE_COUNT);
       inc_global_var(GVAR_SLAVES_COUNT);
    end
@@ -216,7 +216,7 @@ end
 procedure damage_p_proc begin
    if (local_var(LVAR_Hostile) == 0) then begin
       set_local_var(LVAR_Hostile,2);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_HOSTILE_SLAVES);
+      set_self_team(TEAM_HOSTILE_SLAVES);
       critter_set_flee_state(self_obj, 0);
    end
 

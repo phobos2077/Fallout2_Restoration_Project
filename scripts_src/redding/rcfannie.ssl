@@ -138,8 +138,8 @@ procedure map_enter_p_proc begin
       destroy_object(self_obj);
    //end added
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MALAMUTE_SALOON);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_REDDING_ADDICT);
+   set_self_team(TEAM_MALAMUTE_SALOON);
+   set_self_ai(AI_REDDING_ADDICT);
 end
 
 //added by killap - expansion
@@ -161,11 +161,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -364,7 +364,7 @@ procedure Node002 begin
    else
        Reply(112);
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_JET_ANTIDOTE)) then
+   if (dude_item_count(PID_JET_ANTIDOTE)) then
        NOption(113,Node004,004);
    BOption(114,Node999,004);
    BOption(115,Node999,004);
@@ -388,7 +388,7 @@ end
 procedure Node004 begin
    Reply(121);
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_JET)) then
+   if (dude_item_count(PID_JET)) then
        GOption(122,Node004a,004);
    BOption(123,Node999,004);
    NOption(124,Node999,004);
@@ -398,8 +398,8 @@ procedure Node004a begin
    variable item;
    variable junkit;
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_JET)) then begin
-       item:=obj_carrying_pid_obj(dude_obj,PID_JET);
+   if (dude_item_count(PID_JET)) then begin
+       item:=dude_item(PID_JET);
        junkit:=rm_mult_objs_from_inven(dude_obj,item,1);
        add_mult_objs_to_inven(self_obj,item,1);
        //inc sickness
@@ -439,15 +439,15 @@ procedure Node007 begin
 
    inc_local_var(LVAR_Visits);
 
-   if (item_caps_total(dude_obj) >= COST_FOR_SEX) then
+   if (dude_caps >= COST_FOR_SEX) then
        NOption(136,Node007a,004);
    NOption(137,Node999,004);
    NOption(138,Node999,004);
 end
 
 procedure Node007a begin
-   item_caps_adjust(dude_obj,0-COST_FOR_SEX);
-   item_caps_adjust(self_obj,COST_FOR_SEX);
+   dude_caps_adjust(0-COST_FOR_SEX);
+   self_caps_adjust(COST_FOR_SEX);
 
    //added by killap
    if (fannie != FANNIE_MONEY_GIVEN) then
@@ -457,7 +457,7 @@ procedure Node007a begin
    gfade_out(600);
    do_default_sex;
 // need to move player to the back room
-   move_to(dude_obj,12901,elevation(self_obj)); //added by killap
+   move_to(dude_obj,12901,self_elevation); //added by killap
    gfade_in(600);
 
    call Node008;
@@ -499,14 +499,14 @@ end
 procedure Node011 begin
    Reply(149);
 
-   if (item_caps_total(dude_obj) >= FREE_CASH) then
+   if (dude_caps >= FREE_CASH) then
        NOption(150,Node011a,004);
    NOption(151,Node999,004);
 end
 
 procedure Node011a begin
-   item_caps_adjust(dude_obj,0-FREE_CASH);
-   item_caps_adjust(self_obj,FREE_CASH);
+   dude_caps_adjust(0-FREE_CASH);
+   self_caps_adjust(FREE_CASH);
 
    //added by killap - expansion
    inc_local_var(LVAR_Gave_Money);
@@ -536,7 +536,7 @@ procedure Node012a begin
    gfade_out(600);
    do_default_sex;
 // need to move player to the back room
-   move_to(dude_obj,12901,elevation(self_obj)); //added by killap
+   move_to(dude_obj,12901,self_elevation); //added by killap
    gfade_in(600);
 
    call Node014;
@@ -579,14 +579,14 @@ end
 procedure Node018 begin
    Reply(169);
 
-   if (item_caps_total(dude_obj) >= FINAL_MONEY) then
+   if (dude_caps >= FINAL_MONEY) then
        NOption(170,Node018a,004);
    NOption(171,Node999,004);
 end
 
 procedure Node018a begin
-   item_caps_adjust(dude_obj,0-FINAL_MONEY);
-   item_caps_adjust(self_obj,FINAL_MONEY);
+   dude_caps_adjust(0-FINAL_MONEY);
+   self_caps_adjust(FINAL_MONEY);
 
    //added by killap - expansion
    inc_local_var(LVAR_Gave_Money);
@@ -611,7 +611,7 @@ end
 procedure Node019 begin
    Reply(172);
 
-   if (item_caps_total(dude_obj) >= COST_FOR_SEX) then
+   if (dude_caps >= COST_FOR_SEX) then
        NOption(173,Node007,004);
    NOption(174,Node011,004);
    NOption(175,Node999,004);
@@ -655,7 +655,7 @@ procedure Node024a begin
    gfade_out(600);
    do_default_sex;
 // need to move player to the back room
-   move_to(dude_obj,12901,elevation(self_obj)); //added by killap
+   move_to(dude_obj,12901,self_elevation); //added by killap
    gfade_in(600);
 
    call Node024b;

@@ -146,9 +146,9 @@ variable Traps_Roll;
 *******************************************************************/
 
 procedure start begin
-   if( tile_num( self_obj ) == JAIL_DOOR_1_HEX ) then
+   if( self_tile == JAIL_DOOR_1_HEX) then
       Jail_Door_1 := self_obj;
-   else if( tile_num( self_obj ) == JAIL_DOOR_2_HEX ) then
+   else if( self_tile == JAIL_DOOR_2_HEX) then
       Jail_Door_2 := self_obj;
 end
 
@@ -328,7 +328,7 @@ procedure use_obj_on_p_proc begin
       set_map_var( MVAR_Lockpick_Attempt, 1 );
    end
    else if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
-       if (Tool == PID_JAIL_KEY) then begin
+       if (Tool == PID_CELL_DOOR_KEY) then begin
           if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
              script_overrides;
              call key_unlock_door;
@@ -427,7 +427,7 @@ procedure damage_p_proc begin
            set_local_var(LVAR_Trapped, STATE_INACTIVE);
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
            destroy_object(self_obj);
        end
 
@@ -445,7 +445,7 @@ procedure damage_p_proc begin
        if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
        end
 
        else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
@@ -490,9 +490,9 @@ procedure map_enter_p_proc begin
       obj_unlock(self_obj);
    end
 
-   if( tile_num( self_obj ) == JAIL_DOOR_1_HEX ) then
+   if( self_tile == JAIL_DOOR_1_HEX) then
       Jail_Door_1 := self_obj;
-   else if( tile_num( self_obj ) == JAIL_DOOR_2_HEX ) then
+   else if( self_tile == JAIL_DOOR_2_HEX) then
       Jail_Door_2 := self_obj;
 end
 
@@ -518,9 +518,9 @@ procedure map_update_p_proc begin
       obj_unlock(self_obj);
    end
 
-   if( tile_num( self_obj ) == JAIL_DOOR_1_HEX ) then
+   if( self_tile == JAIL_DOOR_1_HEX) then
       Jail_Door_1 := self_obj;
-   else if( tile_num( self_obj ) == JAIL_DOOR_2_HEX ) then
+   else if( self_tile == JAIL_DOOR_2_HEX) then
       Jail_Door_2 := self_obj;
 end
 
@@ -1460,7 +1460,7 @@ procedure Pry_Door begin
        end
 
        else begin
-           if (get_critter_stat(source_obj,STAT_gender) == GENDER_MALE) then begin
+           if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
                    display_msg(mstr(182));
                end

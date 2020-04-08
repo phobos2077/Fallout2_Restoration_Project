@@ -127,8 +127,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          inc_raiders_counter;
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RAIDERS);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SHADOW_WHO_WALKS);
+         set_self_team(TEAM_RAIDERS);
+         set_self_ai(AI_SHADOW_WHO_WALKS);
       end
 //      raider_add_timer_event_rand(self_obj, 20, 35, float_param);
       check_kill_raider;
@@ -283,14 +283,14 @@ procedure Node003 begin
 end
 
 procedure Node990 begin
-   if( is_success(roll_vs_skill( dude_obj, SKILL_CONVERSANT, -15 )) ) then
+   if( is_success(roll_vs_skill( dude_obj, SKILL_SPEECH, -15 )) ) then
       call Node004;
    else
       call Node017;
 end
 
 procedure Node991 begin
-   if( is_success(roll_vs_skill( dude_obj, SKILL_CONVERSANT, -25 )) ) then
+   if( is_success(roll_vs_skill( dude_obj, SKILL_SPEECH, -25 )) ) then
       call Node004;
    else
       call Node017;
@@ -298,7 +298,7 @@ end
 
 procedure Node004 begin
    Reply(430);
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 100) then
+   if (has_skill(dude_obj,SKILL_SPEECH) > 100) then
       NOption(431, Node005, 004); //speech check?
    else
       NOption(432, Node017, 004); //failure...
@@ -309,9 +309,9 @@ procedure Node005 begin
    Reply(440);
    if (dude_iq > 5) then
       NOption(441, Node992, 004); //go to a fadeout
-   if (obj_is_carrying_obj_pid(dude_obj,PID_RANGER_PIN)) then
+   if (dude_item_count(PID_RANGER_PIN)) then
       NOption(442, Node006, 004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_BISHOPS_HOLODISK)) then
+   if (dude_item_count(PID_BISHOPS_HOLODISK)) then
       NOption(443, Node992, 004); //go to a fadeout
    NOption(444, Node999, 004);
    BOption(445, Node998, 004);
@@ -391,7 +391,7 @@ procedure Node012 begin
 end
 
 procedure Node993 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -35 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -35 ) ) ) then
       call Node013;
    else
       call Node018;
@@ -416,7 +416,7 @@ procedure Node015 begin
 end
 
 procedure Node994 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -40 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -40 ) ) ) then
       call Node016;
    else
       call Node018;
@@ -504,7 +504,7 @@ end
 //4th branch (more than a branch than the third, but still not a long one
 procedure Node023 begin
    Reply(900);
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 110) then
+   if (has_skill(dude_obj,SKILL_SPEECH) > 110) then
       NOption(901, Node890, 004); //speech roll
    NOption(902, Node017, 004);
    BOption(903, Node998, 004);
@@ -520,7 +520,7 @@ end
 
 procedure Node025 begin
    Reply(920);
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 120) then
+   if (has_skill(dude_obj,SKILL_SPEECH) > 120) then
       NOption(921, Node891, 004); //speech roll
    NOption(922, Node017, 004);
 end
@@ -530,7 +530,7 @@ procedure Node026 begin
 
    NOption(931, Node027, 004);
    NOption(932, Node027, 004);
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 130) then
+   if (has_skill(dude_obj,SKILL_SPEECH) > 130) then
       NOption(933, Node892, 004); //speech roll
 end
 
@@ -553,21 +553,21 @@ procedure Node029 begin
 end
 
 procedure Node890 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -40 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -40 ) ) ) then
       call Node024;
    else
       call Node017;
 end
 
 procedure Node891 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -40 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -40 ) ) ) then
       call Node026;
    else
       call Node017;
 end
 
 procedure Node892 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -40 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -40 ) ) ) then
       call Node028;
    else
       call Node027;

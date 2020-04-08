@@ -138,8 +138,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_TOUGH_CITIZEN);
    if (is_loading_game == FALSE) then begin
 //      call checkTime;
    end
@@ -155,13 +155,13 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
    if (local_var(LVAR_Herebefore) == 0) then
-      if (beat_hoss == 0 and tile_distance_objs(self_obj, dude_obj) <= 2 and obj_can_see_obj(self_obj, dude_obj)) then
+      if (beat_hoss == 0 and tile_distance_objs(self_obj, dude_obj) <= 2 and self_can_see_dude) then
          dialogue_system_enter;
 
 //   call checkTime;
@@ -280,7 +280,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure NodeCombat begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_LOANER);
+   set_self_team(TEAM_LOANER);
    add_timer_event(self_obj, game_ticks(2), TIMER_CHECK_END_FIGHT);
    call Node998;
 end
@@ -370,7 +370,7 @@ end
 procedure surrender begin
    set_local_var(LVAR_Surrendered, 1);
    terminate_combat;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+   set_self_team(TEAM_NCR);
    add_timer_event(self_obj, game_ticks(1), TIMER_TALK);
 end
 
@@ -381,11 +381,11 @@ procedure dude_pulls_gun begin
    variable obj;
 
    if (dude_is_armed) then begin // added check by killap - prevents crash when calling proto_data
-      obj := critter_inven_obj(dude_obj, INVEN_TYPE_RIGHT_HAND);
+      obj := dude_right_hand;
       if (obj >= 0) then begin // changed to >=0 so that we actually check both hands - killap
          pid := obj_pid(obj);
          if (not(pid) or pid == -1) then begin
-            obj := critter_inven_obj(dude_obj, INVEN_TYPE_LEFT_HAND);
+            obj := dude_left_hand;
             if (obj) then
                pid := obj_pid(obj);
          end

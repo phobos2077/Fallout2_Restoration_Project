@@ -52,14 +52,14 @@ import variable melchior_obj;
 variable i_died;
 
 procedure start begin
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SUPER_MUTANT); // added by killap
+   set_self_team(TEAM_SUPER_MUTANT); // added by killap
 end
 
 procedure combat_p_proc begin
 variable pet_var;
 variable checked_spots;
 variable temp_tile;
-   if ((obj_is_visible_flag(self_obj)) and (is_critter_dead(self_obj) == false)) then begin
+   if ((self_visible) and (is_critter_dead(self_obj) == false)) then begin
       if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
          if (target_obj == dude_obj) then begin
             if (pid_is_poisoning_pid(self_pid)) then begin
@@ -135,8 +135,8 @@ variable pet_var;
       pet_var := pid_to_mvar_num(self_pid);
       inc_map_var(pet_var);
       set_local_var(LVAR_Place_Number, map_var(pet_var));
-      ndebug(""+obj_name(self_obj)+": Place Num == "+local_var(LVAR_Place_Number)+". Map Var ("+pet_var+") == "+map_var(pet_var)+" , pid_to_ai("+self_pid+") == "+pid_to_ai(self_pid));
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SUPER_MUTANT);
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, pid_to_ai(self_pid));
+      ndebug(""+self_name+": Place Num == "+local_var(LVAR_Place_Number)+". Map Var ("+pet_var+") == "+map_var(pet_var)+" , pid_to_ai("+self_pid+") == "+pid_to_ai(self_pid));
+      set_self_team(TEAM_SUPER_MUTANT);
+      set_self_ai(pid_to_ai(self_pid));
    end
 end

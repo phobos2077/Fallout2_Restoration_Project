@@ -93,8 +93,8 @@ procedure map_enter_p_proc begin
       talk_mutant_2 := self_obj;
    end
    if (map_first_run) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SUPER_MUTANT);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SUPER_MUTANT);
+      set_self_team(TEAM_SUPER_MUTANT);
+      set_self_ai(AI_SUPER_MUTANT);
    end
 end
 

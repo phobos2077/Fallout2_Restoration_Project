@@ -24,7 +24,7 @@ procedure spatial_p_proc begin
       gfade_out(600);
       move_to( dude_obj, 17512, 1 );
       critter_attempt_placement( dude_obj, 17512, 1 );
-      anim( dude_obj, ANIMATE_ROTATION, 2 );
+      dude_rotate( 2);
       gfade_in(600);
    end
 end

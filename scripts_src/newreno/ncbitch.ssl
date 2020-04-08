@@ -62,8 +62,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_PORNO_STUDIO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_PORNO_STUDIO);
+         set_self_ai(AI_TOUGH_GUARD);
       end
    end
 end
@@ -137,7 +137,7 @@ procedure Node002 begin
 end
 procedure Node003 begin
    inc_local_var(LVAR_Talk_Attempts);
-   if (obj_can_see_obj(dude_obj, self_obj)) then begin
+   if (dude_can_see_self) then begin
       if (local_var(LVAR_Talk_Attempts) >= random(3,5)) then begin
          dude_floater(random(300, 301 + (2*(dude_is_stupid == false)))); //corrected paren error - killap
       end

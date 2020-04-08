@@ -179,8 +179,8 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_SLAVER);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVER);
+         set_self_team(TEAM_DEN_SLAVER);
+         set_self_ai(AI_SLAVER);
       end
    end
 end
@@ -199,9 +199,9 @@ procedure critter_p_proc begin
          dialogue_system_enter;
       end
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -352,7 +352,7 @@ variable new_slave;
 variable the_rand;
    gfade_out(ONE_GAME_SECOND);
       // pay player
-      item_caps_adjust(dude_obj, party_price);
+      dude_caps_adjust(party_price);
       // change married states and reputation
       if ((party_being_sold == Miria_Ptr) or (party_being_sold == Davin_Ptr)) then begin
          set_dude_was_married;
@@ -711,8 +711,8 @@ procedure Node024 begin
    prev_node := 24;
 end
 procedure Node025 begin
-   item_caps_adjust(dude_obj, -party_price);
-   item_caps_adjust(self_obj, party_price);
+   dude_caps_adjust(-party_price);
+   self_caps_adjust(party_price);
    set_global_var(GVAR_DEN_SEE_VIC, state_see_vic_okay);
    set_vic_free;
    Reply(510);
@@ -750,15 +750,15 @@ variable slaving_money;
       end else begin
          Reply(mstr(540 + the_rand) + slaving_money + mstr(1540));
       end
-      item_caps_adjust(dude_obj, slaving_money);
+      dude_caps_adjust(slaving_money);
    end else if (temp_score >= slave_score_average) then begin
       the_rand := random(4, 7);
       Reply(mstr(540 + the_rand) + slaving_money + mstr(1540 + the_rand));
-      item_caps_adjust(dude_obj, slaving_money);
+      dude_caps_adjust(slaving_money);
    end else if (temp_score >= slave_score_bad) then begin
       the_rand := random(8, 11);
       Reply(mstr(540 + the_rand) + slaving_money + mstr(1540 + the_rand));
-      item_caps_adjust(dude_obj, slaving_money);
+      dude_caps_adjust(slaving_money);
    end else begin
       Reply(552);
       GOption(553, Node999, 004);
@@ -874,7 +874,7 @@ end
 procedure Node900 begin
    set_local_var(LVAR_Asked_About_Other_Facilities,1);
 
-   if ( (dude_charisma > 5)  or (has_skill(dude_obj, SKILL_CONVERSANT) > 50) ) then
+   if ( (dude_charisma > 5)  or (has_skill(dude_obj, SKILL_SPEECH) > 50) ) then
       call Node045;
    else
       call Node044;
@@ -882,7 +882,7 @@ end
 
 procedure Node045 begin
    Reply(910);
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -10))) then
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, -10))) then
       NOption(911, Node047, 004);
    else
       NOption(912, Node046, 004);

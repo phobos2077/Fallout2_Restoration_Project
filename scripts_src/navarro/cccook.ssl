@@ -98,13 +98,13 @@ procedure map_enter_p_proc begin
       set_local_var(LVAR_Cripple,1);
    end
    // He's on his own team.
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 end
 
 procedure critter_p_proc begin
    // Since Cookie is blind, don't expect him to see.
-   if (obj_can_hear_obj(self_obj,dude_obj)) then begin
+   if (self_can_hear_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          call Node022;
          set_local_var(LVAR_Hostile,1);

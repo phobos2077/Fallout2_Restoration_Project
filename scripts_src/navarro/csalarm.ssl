@@ -46,11 +46,11 @@ procedure map_update_p_proc begin
 
    if ((global_var(GVAR_NAVARRO_BASE_ALERT) > 0) and (local_var(LVAR_Once) == 0)) then begin
        set_local_var(LVAR_Once,1);
-       if (obj_pid(self_obj) == PID_NS_LIGHT) then begin
-           item:=create_object(PID_NS_FLASHING_LIGHT,tile_num(self_obj),elevation(self_obj));
+       if (self_pid == PID_NS_LIGHT) then begin
+           item:=create_object(PID_NS_FLASHING_LIGHT,self_tile,self_elevation);
        end
        else begin
-           item:=create_object(PID_EW_FLASHING_LIGHT,tile_num(self_obj),elevation(self_obj));
+           item:=create_object(PID_EW_FLASHING_LIGHT,self_tile,self_elevation);
        end
    end
 end

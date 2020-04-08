@@ -33,37 +33,37 @@ procedure make_warriors_p_proc
 begin
   variable LVar1 := 0;
 
-  if (get_pc_stat(PCSTAT_level) <= 7) then
+  if (dude_level <= 7) then
   begin
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, 1380);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, 1379);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, SCRIPT_GCENC2);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, SCRIPT_GCENC);
   end
-  else if ((get_pc_stat(PCSTAT_level) <= 12) and (get_pc_stat(PCSTAT_level) > 7)) then
+  else if ((dude_level <= 12) and (dude_level > 7)) then
   begin
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, 1380);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19130, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18516, 0, 1379);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, SCRIPT_GCENC2);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19130, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18516, 0, SCRIPT_GCENC);
   end
-  else if ((get_pc_stat(PCSTAT_level) <= 18) and (get_pc_stat(PCSTAT_level) > 12)) then
+  else if ((dude_level <= 18) and (dude_level > 12)) then
   begin
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, 1380);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19130, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18516, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19313, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18908, 0, 1379);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, SCRIPT_GCENC2);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19130, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18516, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19313, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18908, 0, SCRIPT_GCENC);
   end
-  else if (get_pc_stat(PCSTAT_level) >= 18) then
+  else if (dude_level >= 18) then
   begin
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, 1380);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19130, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18516, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19313, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18908, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18312, 0, 1379);
-    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 20315, 0, 1379);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18926, 0, SCRIPT_GCENC2);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18521, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19130, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18516, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 19313, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18908, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 18312, 0, SCRIPT_GCENC);
+    LVar1 := create_object_sid(PID_MALE_ENCALVE_PATROL, 20315, 0, SCRIPT_GCENC);
   end
 end
 

@@ -115,8 +115,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_COWARD);
 
    //added by killap
    if( local_var( LVAR_Spouse_Status ) == SPOUSE_TOLD_ABOUT_LETTER ) then begin
@@ -135,7 +135,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -191,7 +191,7 @@ procedure talk_p_proc begin
       call Node019;
    end
    else if( ( local_var( LVAR_Herebefore ) == 1 ) and
-            ( dude_iq <= 3 ) ) then begin
+            ( dude_is_stupid ) ) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node002;
@@ -315,7 +315,7 @@ procedure Node007 begin
 end
 
 procedure Node008 begin
-   item_caps_adjust( dude_obj, 500 );
+   dude_caps_adjust( 500);
 
    Reply(126);
 

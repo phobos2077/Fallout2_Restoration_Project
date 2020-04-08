@@ -76,7 +76,7 @@ procedure timed_event_p_proc begin
 
    if (fixed_param == 3) then begin
       if ( (self_tile == BROKEN_GENERATOR_HEX) and (global_var(GVAR_EPALIGHTING_GEN) < 4) ) then begin
-         float_msg(self_obj, message_str(NAME, random(200, 201)), FLOAT_MSG_YELLOW);
+         float_msg(self_obj, mstr(random(200, 201)), FLOAT_MSG_YELLOW);
          add_timer_event(self_obj, game_ticks(random(15, 30)), 3);
       end
    end
@@ -88,13 +88,13 @@ begin
    variable LVar2 := 0;
    variable generator := 0;
 
-   LVar2 := obj_carrying_pid_obj(dude_obj, PID_PUMP_PARTS);
+   LVar2 := dude_item(PID_PUMP_PARTS);
    LVar1 := obj_pid(obj_being_used_with);
    if (global_var(GVAR_EPALIGHTING_GEN) == 3) then begin
       script_overrides;
       if (LVar1 == PID_PUMP_PARTS) then begin
          script_overrides;
-         display_msg(message_str(NAME, 106));
+         display_msg(mstr(106));
          set_global_var(GVAR_EPALIGHTING_GEN, 4);
          give_xp(500);
          rm_obj_from_inven(dude_obj, LVar2);
@@ -111,15 +111,15 @@ end
 
 procedure description_p_proc begin
   script_overrides;
-  display_msg(message_str(NAME, 103));
+  display_msg(mstr(103));
 end
 
 procedure look_at_p_proc begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 101));
+    display_msg(mstr(101));
   else
-    display_msg(message_str(NAME, 102));
+    display_msg(mstr(102));
 end
 
 procedure use_skill_on_p_proc begin
@@ -128,19 +128,19 @@ procedure use_skill_on_p_proc begin
          script_overrides;
          if (has_skill(source_obj, SKILL_REPAIR) > 55) then begin
             if (global_var(GVAR_EPALIGHTING_GEN) == 1) then begin
-               display_msg(message_str(NAME, 104));
+               display_msg(mstr(104));
                game_time_advance(ONE_GAME_MINUTE*10);
-               float_msg(self_obj, message_str(NAME, 105), FLOAT_MSG_YELLOW);
+               float_msg(self_obj, mstr(105), FLOAT_MSG_YELLOW);
                set_global_var(GVAR_EPALIGHTING_GEN, 3);
             end else if (global_var(GVAR_EPALIGHTING_GEN) == 3) then begin
-               display_msg(message_str(NAME, 100));
+               display_msg(mstr(100));
             end else if (global_var(GVAR_EPALIGHTING_GEN) >= 4) then begin
-               display_msg(message_str(NAME, 108));
+               display_msg(mstr(108));
             end else begin
-               display_msg(message_str(NAME, 109));
+               display_msg(mstr(109));
             end
          end else begin
-            display_msg(message_str(NAME, 107));
+            display_msg(mstr(107));
          end
       end
    end

@@ -74,8 +74,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       check_destroy_slag
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+   set_self_team(TEAM_SLAG);
+   set_self_ai(AI_CHILD);
 end
 procedure map_exit_p_proc begin
    if (slag_in_cave) then begin
@@ -89,7 +89,7 @@ procedure timed_event_p_proc begin
    if (self_visible) then begin
       if (fixed_param == 1) then begin
          if (dont_pester > 0) then dont_pester:=dont_pester-1; //eventually child will pester hero again
-         if (playing) then animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+         if (playing) then self_run_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
          In_Timed_Event:=0;
       end else if (fixed_param == 2) then begin
          pester_dude:=1; //force end to pestering...it has gone on too long
@@ -112,12 +112,12 @@ procedure critter_p_proc begin
          add_timer_event(self_obj,game_ticks(random(6,21)),1);
       end
 
-      if ((TOWN_REPUTATION < 6 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) or (sleezy_stranger_flag)) then begin // added by killap - not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
-         scarydude:=tile_num(dude_obj);
-         here:=tile_num(self_obj);
+      if ((TOWN_REPUTATION < 6 and not(dude_perk(PERK_cult_of_personality))) or (sleezy_stranger_flag)) then begin // added by killap - not(dude_perk(PERK_cult_of_personality))
+         scarydude:=dude_tile;
+         here:=self_tile;
          if (run_from_dude == 0) then begin
             if (prevhex != scarydude) then begin //The dude has moved
-               if ((tile_distance(here,scarydude) < 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+               if ((tile_distance(here,scarydude) < 2) and (self_can_see_dude)) then begin
                   playing:=0; //not playing ...gotta run from the dude
                   run_from_dude:=1;
                   prevhex:=scarydude; //save dudes last location so child
@@ -134,13 +134,13 @@ procedure critter_p_proc begin
                run_from_dude:=0; //child has run from the dude...dont need to run again
                //call Node901;
                playing:=1;
-               animate_run_to_tile(newtile);
+               self_run_to_tile(newtile);
             end
          end
       end else if (dont_pester < 1) then begin
          //ndebug("dont_pester is FALSE");
-         cooldude:=tile_num(dude_obj);
-         here:=tile_num(self_obj);
+         cooldude:=dude_tile;
+         here:=self_tile;
          if (tile_distance(here,cooldude) < 5) then begin
             playing:=0; //not playing ...gonna pester dude for a while
             if (pester_dude < 1) then
@@ -160,7 +160,7 @@ procedure critter_p_proc begin
             end else if (tile_distance(here,cooldude) > 5) then begin
                spoke:=0;
                newtile:=tile_num_in_direction(cooldude,random(0,5),1);
-               animate_run_to_tile(newtile);
+               self_run_to_tile(newtile);
             end
          end else if (pester_dude == 1) then begin //once pester becomes 1 we stop the pestering
             fix:=0;
@@ -192,7 +192,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   if ((TOWN_REPUTATION < 6 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) or (sleezy_stranger_flag)) then begin // edit by killap not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ((TOWN_REPUTATION < 6 and not(dude_perk(PERK_cult_of_personality))) or (sleezy_stranger_flag)) then begin // edit by killap not(dude_perk(PERK_cult_of_personality))
       call Node901;
       Flee_From_Dude
    end else call Node902;

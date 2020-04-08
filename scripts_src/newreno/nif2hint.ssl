@@ -83,9 +83,9 @@ script_overrides;
          //-1 to the bonus charisma stat. The script for the Hintbook only tries to increase the base
          //charisma stat. Since base charisma stat remains unchanged (i.e. at 10), ultimately nothing happens.
          //Use sfall's set_pc_extra_stat() function to manually set Charisma to the proper level.
-         if (has_trait(TRAIT_PERK, dude_obj, PERK_dermal_enhancement_perk)) then
+         if (dude_perk(PERK_dermal_enhancement_perk)) then
             set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
-         if (has_trait(TRAIT_PERK, dude_obj, PERK_phoenix_enhancement_perk)) then
+         if (dude_perk(PERK_phoenix_enhancement_perk)) then
             set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
          max_stat(STAT_iq);
          max_stat(STAT_ag);
@@ -104,7 +104,7 @@ script_overrides;
          max_skill(SKILL_TRAPS);
          max_skill(SKILL_SCIENCE);
          max_skill(SKILL_REPAIR);
-         max_skill(SKILL_CONVERSANT);
+         max_skill(SKILL_SPEECH);
          max_skill(SKILL_BARTER);
          max_skill(SKILL_GAMBLING);
          max_skill(SKILL_OUTDOORSMAN);

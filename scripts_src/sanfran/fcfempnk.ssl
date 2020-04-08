@@ -103,7 +103,7 @@ procedure timed_event_p_proc begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(chooseTile);
+         self_walk_to_tile(chooseTile);
          reg_anim_end();
          add_timer_event(self_obj, game_ticks(1), TIMER_MOVE);
       end else begin
@@ -124,8 +124,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_PUNKS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_PUNK);
+   set_self_team(TEAM_SAN_FRAN_PUNKS);
+   set_self_ai(AI_SF_PUNK);
 
    SET_NEXT_SPEEK;
 
@@ -143,13 +143,13 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
 
    if (not critter_is_fleeing(self_obj)) then begin
-      if (game_time > local_var(LVAR_Next_Speek_Time) and obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (game_time > local_var(LVAR_Next_Speek_Time) and self_can_see_dude) then begin
          call talk_p_proc;
       end
    end

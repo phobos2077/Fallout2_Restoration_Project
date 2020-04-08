@@ -195,8 +195,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_TOUGH_GUARD);
    if (is_loading_game == FALSE) then
       call checkLoadPos;
 end
@@ -211,7 +211,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -378,7 +378,7 @@ end
 
 procedure Node004 begin
    Reply(118);
-   if ((has_skill(dude_obj, SKILL_CONVERSANT) > 79) or has_trait(TRAIT_PERK,dude_obj,PERK_speaker)) then
+   if ((has_skill(dude_obj, SKILL_SPEECH) > 79) or dude_perk(PERK_speaker)) then
       NOption(119, Node005, 4);
    BOption(120, Node002a999, 1);
 end
@@ -483,10 +483,10 @@ procedure putDownExplosive begin
       move_to(self_obj, JACK_CRAZY_TILE, 0);
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_rotation(2);
+      self_rotate(2);
       reg_anim_end();
-      if (obj_is_carrying_obj_pid(self_obj, PID_DESERT_EAGLE)) then begin
-         wield_obj(obj_carrying_pid_obj(self_obj, PID_DESERT_EAGLE));
+      if (self_item_count(PID_DESERT_EAGLE)) then begin
+         wield_obj(self_item(PID_DESERT_EAGLE));
       end
    end
 //   obj := create_object(PID_PLASTIC_EXPLOSIVES, self_tile, 0);
@@ -524,19 +524,19 @@ procedure animateToTarget begin
       walking := 1;
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(POS_INTER);
+      self_walk_to_tile(POS_INTER);
       reg_anim_end();
    end else if (walking == 1) then begin
       if (self_tile == POS_INTER) then begin
          walking := 2;
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(target_tile);
+         self_walk_to_tile(target_tile);
          reg_anim_end();
       end else if (not anim_busy(self_obj) and self_tile != target_tile) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(POS_INTER);
+         self_walk_to_tile(POS_INTER);
          reg_anim_end();
          ndebug("told to walk again.");
       end
@@ -545,7 +545,7 @@ procedure animateToTarget begin
          walking := 0;
       end
    end else if (walking == 0 and self_tile == target_tile) then begin
-      animate_rotation(3);
+      self_rotate(3);
    end
 end
 
@@ -582,9 +582,9 @@ end
 
 procedure goCrazy begin
    move_to(self_obj, JACK_CRAZY_TILE, 0);
-   animate_rotation(3); // Seraph's Fix: animate_rotation always affects self_obj and only takes 1 arg. Thanks Rob!
+   self_rotate(3); // Seraph's Fix: animate_rotation always affects self_obj and only takes 1 arg. Thanks Rob!
    set_jack_state(JACK_ALARM);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_CRAZY_JACK);
+   set_self_team(TEAM_NCR_CRAZY_JACK);
    add_timer_event(self_obj, 0, CHECK_STATE);
 end
 

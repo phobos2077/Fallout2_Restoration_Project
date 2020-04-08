@@ -103,8 +103,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    if( not( is_loading_game ) ) then begin
       if( global_var( GVAR_TYPHON_QUEST_STATUS ) == TYPHON_TREASURE_FOUND ) then begin
@@ -126,7 +126,7 @@ procedure critter_p_proc begin
 
    if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or
           (local_var(LVAR_Hostile) != 0) ) and
-        (obj_can_see_obj(self_obj,dude_obj))) then begin
+        (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -185,7 +185,7 @@ procedure talk_p_proc begin
       set_obj_visibility( self_obj, true );
       move_to( dude_obj, 18094, 0 );
       critter_attempt_placement( dude_obj, 18094, 0 );
-      anim( dude_obj, ANIMATE_ROTATION, 0 );
+      dude_rotate( 0);
       gfade_in(600);
       set_map_var( MVAR_Dwarf_In_Well, 1 );
    end

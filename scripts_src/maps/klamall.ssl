@@ -47,7 +47,7 @@ procedure map_enter_p_proc begin
        display_msg(mstr(100));
    end
 
-   if (elevation(dude_obj) > 0) then begin
+   if (dude_elevation > 0) then begin
       Cavern_Lighting;
    end
    else begin
@@ -59,7 +59,7 @@ end
 
 procedure map_update_p_proc begin
 
-   if (elevation(dude_obj) > 0) then begin
+   if (dude_elevation > 0) then begin
       Cavern_Lighting;
    end
    else begin

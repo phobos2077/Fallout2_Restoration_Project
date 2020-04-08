@@ -70,7 +70,7 @@ begin
   game_time_advance(60 * (60 * 10) * 168);
   game_ui_enable;
   gfade_in(10);
-  float_msg(dude_obj, message_str(NAME, 100), FLOAT_MSG_YELLOW);
+  float_msg(dude_obj, mstr(100), FLOAT_MSG_YELLOW);
   destroy_object(self_obj);
 end
 
@@ -80,12 +80,12 @@ begin
 
   gfade_out(10 * 5);
   game_ui_disable;
-  LVar1 := create_object_sid(PID_CORN_1, 17684, dude_elevation, -1);
+  LVar1 := create_object(PID_CORN_1, 17684, dude_elevation);
   critter_attempt_placement(LVar1, 17684, dude_elevation);
   game_time_advance(60 * (60 * 10) * 168);
   game_ui_enable;
   gfade_in(10);
-  float_msg(dude_obj, message_str(NAME, 101), FLOAT_MSG_YELLOW);
-  display_msg(message_str(NAME, 102));
+  float_msg(dude_obj, mstr(101), FLOAT_MSG_YELLOW);
+  display_msg(mstr(102));
   destroy_object(self_obj);
 end

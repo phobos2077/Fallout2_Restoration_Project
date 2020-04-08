@@ -103,7 +103,7 @@ procedure timed_event_p_proc begin
 	  add_timer_event(self_obj,40,3);
    end
    else if (fixed_param==3) then begin
-	  float_msg(GHOST_obj, message_str(NAME,311), 8);
+	  float_msg(GHOST_obj, mstr(311), FLOAT_MSG_YELLOW);
 	  add_timer_event(self_obj,30,4);
    end
    else if (fixed_param==4) then begin
@@ -111,7 +111,7 @@ procedure timed_event_p_proc begin
 	  add_timer_event(self_obj,50,5);
    end
    else if (fixed_param==5) then begin
-	  float_msg(GHOST_obj, message_str(NAME,313), 8);
+	  float_msg(GHOST_obj, mstr(313), FLOAT_MSG_YELLOW);
 	  add_timer_event(self_obj,30,6);
    end
    else if (fixed_param==6) then begin
@@ -119,7 +119,7 @@ procedure timed_event_p_proc begin
 	  add_timer_event(self_obj,60,7);
    end
    else if (fixed_param==7) then begin
-	  float_msg(GHOST_obj, message_str(NAME,315), 8);
+	  float_msg(GHOST_obj, mstr(315), FLOAT_MSG_YELLOW);
 	  add_timer_event(self_obj,40,8);
    end
    else if (fixed_param==8) then begin
@@ -127,7 +127,7 @@ procedure timed_event_p_proc begin
 	  add_timer_event(self_obj,30,9);
    end
    else if (fixed_param==9) then begin
-	  float_msg(GHOST_obj, message_str(NAME,317), 8);
+	  float_msg(GHOST_obj, mstr(317), FLOAT_MSG_YELLOW);
 	  set_global_var(GVAR_TRIBE_GHOST,3);
 	  add_timer_event(self_obj,35,10);
    end
@@ -198,7 +198,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
 
@@ -440,7 +440,7 @@ end
 
 procedure Node015 begin
    Reply(610);
-   if not((obj_is_carrying_obj_pid(dude_obj, PID_BROC_FLOWER) >= 3) and (obj_is_carrying_obj_pid(dude_obj, PID_XANDER_ROOT) >= 5)) then
+   if not((dude_item_count(PID_BROC_FLOWER) >= 3) and (dude_item_count(PID_XANDER_ROOT) >= 5)) then
       NOption(611,Node017,004);
    else
       NOption(612,Node019,004);
@@ -450,7 +450,7 @@ end
 
 procedure Node016 begin
    Reply(620);
-   if not((obj_is_carrying_obj_pid(dude_obj, PID_BROC_FLOWER) >= 3) and (obj_is_carrying_obj_pid(dude_obj, PID_XANDER_ROOT) >= 5)) then
+   if not((dude_item_count(PID_BROC_FLOWER) >= 3) and (dude_item_count(PID_XANDER_ROOT) >= 5)) then
      NOption(611,Node017,004);
    else
      NOption(612,Node019,004);
@@ -463,7 +463,7 @@ end
 
 procedure Node018 begin
    Reply(630);
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_BROC_FLOWER) >= 3) and (obj_is_carrying_obj_pid(dude_obj, PID_XANDER_ROOT) >= 5)) then
+   if ((dude_item_count(PID_BROC_FLOWER) >= 3) and (dude_item_count(PID_XANDER_ROOT) >= 5)) then
      NOption(631,Node019,004);
    else
      NOption(632,Node999,004);
@@ -476,8 +476,8 @@ procedure Node019 begin
 
    set_global_var(GVAR_TRIBE_SHAMAN_HERBS,2);
 
-   Obj := obj_carrying_pid_obj(dude_obj,PID_BROC_FLOWER);
-   Obj2 := obj_carrying_pid_obj(dude_obj,PID_XANDER_ROOT);
+   Obj := dude_item(PID_BROC_FLOWER);
+   Obj2 := dude_item(PID_XANDER_ROOT);
    Remove := rm_mult_objs_from_inven(dude_obj, Obj, 3 );
    Remove := rm_mult_objs_from_inven(dude_obj, Obj2, 5 );
    destroy_object(Obj);

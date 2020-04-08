@@ -68,17 +68,17 @@ variable WIELD_Once;
 
 procedure start begin
    if (local_var(LVAR_Home_Tile) == 0) then begin
-       set_local_var(LVAR_Home_Tile,tile_num(self_obj));
+       set_local_var(LVAR_Home_Tile,self_tile);
    end
 end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       if (tile_distance(tile_num(self_obj),local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
-           animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+       if (tile_distance(self_tile,local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
+           self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
        end
        else begin
-           animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(3,7)));
+           self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(3,7)));
        end
        In_Timed_Event:=0;
    end
@@ -119,7 +119,7 @@ procedure use_skill_on_p_proc begin
    /*script_overrides;
    if (action_being_used == SKILL_STEAL) then begin
       if (STEAL_Once == 0) then begin
-         float_msg(self_obj, message_str(NAME, 209), FLOAT_MSG_RED );
+         float_msg(self_obj, mstr(209), FLOAT_MSG_RED );
          //floater_bad(209);
          STEAL_Once:=1;
       end
@@ -150,7 +150,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
 
@@ -185,7 +185,7 @@ procedure talk_p_proc begin
       float_msg(self_obj, mstr(random(204, 208)), FLOAT_MSG_WHITE);
    end
    else begin
-   	float_msg(self_obj, message_str(NAME, random(200, 203)), FLOAT_MSG_RED );
+   	float_msg(self_obj, mstr(random(200, 203)), FLOAT_MSG_RED );
    	//floater_bad(random(200,203));
    end
 end

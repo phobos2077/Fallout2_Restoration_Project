@@ -40,7 +40,7 @@
 
 #define NAME                    SCRIPT_KCDUNTON
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
-#define floater(x)              float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)              float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 #define UNKNOWN     0
 #define GOLDENGECKO 1
 #define SHOP        2
@@ -199,7 +199,7 @@ procedure Node036;
 #define LVAR_Weapon_Check               (11) //added by killap
 
 // duntons like bad boys
-#define duntons_like    ((TOWN_REPUTATION < 5) or has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+#define duntons_like    ((TOWN_REPUTATION < 5) or dude_perk(PERK_cult_of_personality))
 
 //following should be changed to mapvars
 //even herebefore,hostile and personal_enemy might be changed to mapvar
@@ -256,15 +256,15 @@ procedure map_enter_p_proc begin
 //beat the player back to town.
    Only_Once:=0;
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DUNTON);
+   set_self_ai(AI_DUNTON);
 
    if (cur_map_index == MAP_KLAMATH_1) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH_CROOKS);
+      set_self_team(TEAM_KLAMATH_CROOKS);
       set_local_var(LVAR_THEX, 0);
       //active:=1;
    end
    else if (cur_map_index == MAP_KLAMATH_GRAZE) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
+      set_self_team(TEAM_DUNTONS);
       call rustle_status;
       call should_i_be_here;
    end
@@ -298,19 +298,19 @@ end
 procedure should_i_be_here begin
    if rustle_triggered then begin
         //they are here
-        set_obj_visibility(self_obj,0);
+        set_self_visible;
         //active:=1; //enable all p_procs
         add_timer_event(self_obj,game_ticks(4),2);
    end
    else begin
         //they are gone
-        set_obj_visibility(self_obj,1);
+        set_self_invisible;
         //active:=0; //disable all p_procs
    end
 end
 
 procedure combat_p_proc begin
-   if ( (local_var(LVAR_Weapon_Check) == 0) and (obj_is_carrying_obj_pid(self_obj,PID_SPIKED_KNUCKLES) == 0) ) then begin
+   if ( (local_var(LVAR_Weapon_Check) == 0) and (self_item_count(PID_SPIKED_KNUCKLES) == 0) ) then begin
       item := create_object(PID_SPIKED_KNUCKLES,0,0);
       add_obj_to_inven(self_obj, item);
       set_local_var(LVAR_Weapon_Check,1);
@@ -327,10 +327,10 @@ procedure timed_event_p_proc begin
    //if active then begin
       if (fixed_param == 0) then begin
          lock_out_events:=0;//can allow another timed event now that this one is over
-         new_tile := tile_num_in_direction(tile_num(self_obj), random(0,5), random(1,3));
+         new_tile := tile_num_in_direction(self_tile, random(0,5), random(1,3));
          call checktile;
          if (tile != UNKNOWN) then //don't move to an unknown tile...prevents walking outside
-            animate_move_to_tile(new_tile);
+            self_walk_to_tile(new_tile);
       end
       else if (fixed_param == 1) then begin
          call scamper;
@@ -368,14 +368,14 @@ procedure critter_p_proc begin
 
 //if active then begin
 
-   if ( (global_var(GVAR_ENEMY_DUNTON) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_ENEMY_DUNTON) == 1) and (self_can_see_dude)) then begin
        //set_local_var(LVAR_Hostile,1); //changing ENEMY DUNTON here could allow Duntons to forgive
        attack(dude_obj);
    end
    else if (cur_map_index == MAP_KLAMATH_1) then begin
       call checkarea;
       //if the dude is stealing from the Duntons then they get angry
-      if ( (area == 2) and (map_var(MVAR_Stealing) > 0) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+      if ( (area == 2) and (map_var(MVAR_Stealing) > 0) and (self_can_see_dude) ) then begin
          set_map_var(MVAR_Stealing,0);
          floater(600);
          set_global_var(GVAR_ENEMY_DUNTON,1);
@@ -390,7 +390,7 @@ procedure critter_p_proc begin
             if (local_var(LVAR_THEX) > 0) then begin //don't move unless you have a target hex
               //ndebug("target_hex= "+local_var(LVAR_THEX));
               //ndebug("\n");
-              animate_move_to_tile(local_var(LVAR_THEX));
+              self_walk_to_tile(local_var(LVAR_THEX));
            end
          end
          else begin
@@ -409,9 +409,9 @@ procedure critter_p_proc begin
            (global_var(GVAR_RUSTLE_FAIL_VIOLENT) == 1) or
            ( KILLED_ALL_SCORPS and (global_var(GVAR_RUSTLE_SUCCESS) != 1) ) ) then begin //added rustle success check - killap
          set_global_var(GVAR_RUSTLE_OVER,1);
-         dest:=tile_num_in_direction(tile_num(self_obj), 5, 12);
+         dest:=tile_num_in_direction(self_tile, 5, 12);
          //lets get outta here
-         animate_run_to_tile(dest);
+         self_run_to_tile(dest);
          add_timer_event(self_obj,game_ticks(2),1);
       end
    end
@@ -430,7 +430,7 @@ end
 
 procedure checkarea begin
 //need to check what map they are on also
-   here:=tile_num(self_obj);
+   here:=self_tile;
    area:=UNKNOWN;
    if (cur_map_index == MAP_KLAMATH_GRAZE) then area:=PASTURE;
    else if (tile_distance(here,17926) < 5) then area:=GOLDENGECKO;//these distances should be small
@@ -552,7 +552,7 @@ procedure talk_p_proc begin
       call Node035;
    end
 
-   else if ((get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
+   else if ((dude_iq <= (0-LOW_IQ))) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
       call Node032;
@@ -751,8 +751,8 @@ end
 procedure Node910 begin
 //if player money < 5 goto 8
 //else subtract 5 coins and goto 7
-   if (item_caps_total(dude_obj) > 4) then begin
-      item_caps_adjust(dude_obj,-5); //subtract 5 coins
+   if (dude_caps > 4) then begin
+      dude_caps_adjust(-5); //subtract 5 coins
       //set_local_var(LVAR_Give, 1);
       call Node007;
    end
@@ -763,14 +763,14 @@ procedure Node910 begin
 end
 
 procedure Node920 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
       call Node011;
    else
       call Node004;
 end
 
 procedure Node921 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-30))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-30))) then
       call Node028;
    else
       call Node029;
@@ -1113,7 +1113,7 @@ end
 
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -1126,7 +1126,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -1185,7 +1185,7 @@ procedure Node003 begin
    end
 
    //added by killap - expansion pack
-   if ( (obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then
+   if ( (dude_item_count(PID_RADSCORPION_PARTS) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then
       NOption(800,Node026,004);
    //end added
 
@@ -1297,7 +1297,7 @@ item:=create_object(PID_MEAT_JERKY,0,0);
 add_obj_to_inven(dude_obj,item);
 item:=create_object(PID_MEAT_JERKY,0,0);
 add_obj_to_inven(dude_obj,item);
-item_caps_adjust(dude_obj,50);//and $50
+dude_caps_adjust(50);//and $50
 set_global_var(GVAR_RUSTLE_REWARD, 1);
 //check off Brahmin Rustlin in quest log
 display_msg(mstr(700));
@@ -1385,7 +1385,7 @@ procedure Node015 begin
    else if (map_var(MVAR_Arm_Wrestle_Fail) == 1) then
       Reply(260);
    else begin
-      if (get_critter_stat(dude_obj,STAT_st) < 5) then begin
+      if (dude_strength < 5) then begin
          if not duntons_like then
             Reply(261);
          else begin
@@ -1473,7 +1473,7 @@ procedure Node021 begin
   else
      Reply(331);
    //added by killap - expansion pack
-   if ( (obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then
+   if ( (dude_item_count(PID_RADSCORPION_PARTS) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then
       NOption(800,Node026,004);
    //end added
    GOption(332, Node952, 004);//reaction+5,barter,goto13
@@ -1527,7 +1527,7 @@ procedure Node024 begin
       Reply(530);
    end
    NOption(392,Node999,004);
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_RADSCORPION_PARTS ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT)) then //killap's fix: based off of carrying and not map PID_BUG_PARTS
+   if ((dude_item_count(PID_RADSCORPION_PARTS) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT)) then //killap's fix: based off of carrying and not map PID_BUG_PARTS
       NOption(374,Node026,004);
 end
 
@@ -1540,7 +1540,7 @@ procedure Node025 begin
       NOption(381,Node999,004);
       NOption(382,Node921,004);
       NOption(383,Node027,004);
-      if ( (obj_is_carrying_obj_pid(dude_obj, 285 ) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then //killap's fix: based off of carrying and not map
+      if ( (dude_item_count(PID_RADSCORPION_PARTS) > 0) and (global_var(GVAR_KLAMATH_FIND_RUSTLERS) == FIND_RUSTLERS_ACCEPT) ) then //killap's fix: based off of carrying and not map
          NOption(384,Node026,004);
    end
 end
@@ -1592,7 +1592,7 @@ procedure Node031 begin
 
    //if (global_var(GVAR_RUSTLE_OVER) == 0) then
       GOption(441,Node903,004);
-   if ((has_skill(dude_obj,SKILL_CONVERSANT) > 50)) then  //killap fix: added speech check
+   if ((has_skill(dude_obj,SKILL_SPEECH) > 50)) then  //killap fix: added speech check
       BOption(702,Node900,004);
    NOption(442,Node999,004);
    BOption(443,Node940,004);
@@ -1639,7 +1639,7 @@ end
 
 procedure Node901
 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       Reply(706);
 
       NOption(708,Node902,004);

@@ -132,7 +132,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
 
@@ -283,6 +283,6 @@ end
 
 procedure Node005
 begin
-   animate_move_obj_to_tile(self_obj,21103,ANIMATE_WALK);
+   self_walk_to_tile(21103);
    set_local_var(LVAR_Finished,1);
 end

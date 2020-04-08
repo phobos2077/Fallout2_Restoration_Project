@@ -118,7 +118,7 @@ procedure map_update_p_proc begin
 end
 
 procedure talk_p_proc begin
-if ((get_critter_stat(dude_obj,STAT_iq) < 4)) then begin
+if ((dude_iq < 4)) then begin
 start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
       call Node012;
@@ -140,7 +140,7 @@ procedure Node999 begin
 end
 
 procedure Node001 begin
-   if (obj_carrying_pid_obj(dude_obj, PID_ACCESS_CARD)) then begin
+   if (dude_item(PID_ACCESS_CARD)) then begin
       call Node002a;
    end else begin
       Reply(106);
@@ -231,7 +231,7 @@ procedure Node002h begin
    if (local_var(LVAR_Speech_Bonus) == 0) then begin
       set_local_var(LVAR_Speech_Bonus,1);
       Reply(414);
-      critter_mod_skill(dude_obj,SKILL_CONVERSANT,5);
+      critter_mod_skill(dude_obj,SKILL_SPEECH,5);
       game_time_advance(ONE_GAME_HOUR*2);
    end else
       Reply(424);
@@ -389,7 +389,7 @@ procedure Node019 begin
    Reply(150);
    NOption(112,Node002b,4);
    NOption(113,Node999,4);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_EPA_BOTANY_HOLODISK)) then
+   if (dude_item_count(PID_EPA_BOTANY_HOLODISK)) then
          remove_pid_qty(dude_obj, PID_EPA_BOTANY_HOLODISK, 1)
    set_global_var(GVAR_ABBEY_KNOWLEDGE_EPA,4);
    display_msg(mstr(1000));

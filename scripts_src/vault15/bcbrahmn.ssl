@@ -109,11 +109,11 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   if (elevation(dude_obj) == 1) then
+   if (dude_elevation == 1) then
       set_obj_visibility(self_obj, OBJ_VIS);
    else
       set_obj_visibility(self_obj, OBJ_INVIS);
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT15);
+   set_self_team(TEAM_VAULT15);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
 end

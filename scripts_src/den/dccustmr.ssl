@@ -193,7 +193,7 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_store_patron;
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+         set_self_ai(AI_PEASANT);
       end
       flush_add_timer_event_sec(self_obj, random(30, 60), timed_event_float);
       flush_add_timer_event_sec(self_obj, random(15, 120), timed_event_wander);

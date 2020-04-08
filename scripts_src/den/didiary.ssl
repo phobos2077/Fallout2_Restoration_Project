@@ -37,7 +37,7 @@ procedure look_at_p_proc begin
    display_msg(mstr(100));
 end
 procedure description_p_proc begin
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_ANNA_DIARY))) then begin
+   if ((dude_item_count(PID_ANNA_DIARY))) then begin
       //do nothing
    end else begin
       script_overrides;

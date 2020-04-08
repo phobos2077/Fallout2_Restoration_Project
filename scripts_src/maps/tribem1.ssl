@@ -66,7 +66,7 @@ begin
       Critter:=create_object_sid(PID_MALE_PRIMITIVE_HUNTER,18517,1,SCRIPT_TRIBEC9);
 
       move_to(dude_obj, 20518, 1);
-      anim(dude_obj, ANIMATE_ROTATION, 5);
+      dude_rotate(5);
       display_msg(mstr(102));
       give_xp(EXP_FIND_HUNTERS);
       set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 15);
@@ -85,8 +85,8 @@ begin
       set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 15);
       Critter:=create_object_sid(PID_SULIK_SISTER,22101,1,SCRIPT_TRIBEC7);
       move_to(dude_obj, 22104, 1);
-      anim( Critter, ANIMATE_ROTATION, 4 );
-      anim( dude_obj, ANIMATE_ROTATION, 1 );
+      obj_rotate( Critter, 4 );
+      dude_rotate( 1);
 
       if (car_current_town == AREA_SLAVER_CAMP) then begin
          if (dude_has_car) then begin
@@ -119,7 +119,7 @@ begin
          end
       end */
    end else begin //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
-      if ((metarule(30, 0) == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
+      if ((car_current_town == 21) and (cur_map_index != MAP_CAR_DESERT) and (car_out_of_fuel)) then begin
          set_global_var(GVAR_CAR_PLACED_TILE, 0);
          Create_Car(CAR_PRIMITIVE_TRIBE_HEX,CAR_PRIMITIVE_TRIBE_ELEV)
          if (tile_contains_pid_obj(CAR_PRIMITIVE_TRIBE_HEX, CAR_PRIMITIVE_TRIBE_ELEV, PID_DRIVABLE_CAR) != 0) then begin

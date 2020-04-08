@@ -80,7 +80,7 @@ variable follow_obj := 0;
             floater_bad_rand(100, 102);
          end
       end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-         animate_move_to_tile(local_var(LVAR_Home_Tile));
+         self_walk_to_tile(local_var(LVAR_Home_Tile));
       end
    end
 end
@@ -111,8 +111,8 @@ end
 
 procedure map_enter_p_proc begin
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_DOG);
+   set_self_team(TEAM_MODOC);
+   set_self_ai(AI_GENERIC_DOG);
    if (local_var(LVAR_Home_Tile) == 0) then begin
       set_local_var(LVAR_Home_Tile, self_tile);
       add_timer_event(self_obj,game_ticks(random(90,120)),1);

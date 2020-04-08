@@ -74,7 +74,7 @@ end
 
 procedure Node001 begin
    Reply(210);
-   if (obj_carrying_pid_obj(dude_obj, PID_RED_REACTOR_KEYCARD)) then
+   if (dude_item(PID_RED_REACTOR_KEYCARD)) then
       NOption(221,Node002,004);
    else
       NOption(220,Node999,004);
@@ -84,7 +84,7 @@ end
 
 procedure Node002 begin
    Reply(222);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_PRES_ACCESS_KEY)) then
+   if (dude_item_count(PID_PRES_ACCESS_KEY)) then
       NOption(223,Node003,004);
    else
       NOption(224,Node999,004);
@@ -115,7 +115,7 @@ procedure timed_event_p_proc begin
    if (fixed_param == 2) then begin
       gfade_out(600);
          critter_dmg(dude_obj,999999,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
-         explosion(tile_num(self_obj), elevation(self_obj), 999999);
+         explosion(self_tile, self_elevation, 999999);
       //gfade_in(600);
    end
 end

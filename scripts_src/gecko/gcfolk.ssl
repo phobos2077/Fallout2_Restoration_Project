@@ -88,8 +88,8 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    //CHANGE THESE -nbk
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_TOUGH_CITIZEN);
    seq:=random(0,1);
 end
 
@@ -116,7 +116,7 @@ procedure critter_p_proc begin
    I_Am_In_Battle:=0;
    seq := 1 - seq; //GCFolk Critter Proc only run every other time to optimize speed
    if (seq) then begin
-      if (obj_can_see_obj(self_obj,dude_obj)) then begin
+      if (self_can_see_dude) then begin
          if (global_var(GVAR_GECKO_MELTDOWN) == 1) then begin
             set_local_var(LVAR_Hostile,1);
             attack(dude_obj);
@@ -126,7 +126,7 @@ procedure critter_p_proc begin
             attack(dude_obj);
          end
          //BAR GOER THAT CAN SEE DUDE
-         else if (tile_distance(tile_num(self_obj), TAVERN) < 8) then begin
+         else if (tile_distance(self_tile, TAVERN) < 8) then begin
             if (map_var(MVAR_Bought_Another) == 1) then begin
                set_map_var(MVAR_Bought_Another,0);
                call gobar;
@@ -138,7 +138,7 @@ procedure critter_p_proc begin
 
       end//can see dude
  /*   //BAR GOER THAT CURRENTLY CANNOT SEE DUDE -- all this dialogue involves actually seeing the dude, so pull this out - killap
-      else if (tile_distance(tile_num(self_obj), TAVERN) < 8) then begin
+      else if (tile_distance(self_tile, TAVERN) < 8) then begin
          if (map_var(MVAR_Bought_Another) == 1) then begin
             set_map_var(MVAR_Bought_Another,0);
             call gobar;
@@ -153,7 +153,7 @@ procedure critter_p_proc begin
 end
 
 procedure banter begin
-   if (tile_distance(tile_num(self_obj), TAVERN) < 8) then begin
+   if (tile_distance(self_tile, TAVERN) < 8) then begin
       if ((random(0,100) == 1) and (In_Timed_Event == 0)) then begin
          In_Timed_Event:=1;
          if (map_var(MVAR_Round_Of_Drinks) == 0) then
@@ -206,16 +206,16 @@ procedure talk_p_proc begin
       if ( (random(1,10) == 1) and (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) ) then begin
           call Node011;
       end
-      else if (tile_distance(tile_num(self_obj), GARDEN_1) < 8) then begin
+      else if (tile_distance(self_tile, GARDEN_1) < 8) then begin
          call Node004;
       end
-      else if (tile_distance(tile_num(self_obj), GARDEN_2) < 8) then begin
+      else if (tile_distance(self_tile, GARDEN_2) < 8) then begin
          call Node004;
       end
-      else if (tile_distance(tile_num(self_obj), BRAHMA_PEN_1) < 8) then begin
+      else if (tile_distance(self_tile, BRAHMA_PEN_1) < 8) then begin
          call Node005;
       end
-      else if (tile_distance(tile_num(self_obj), TAVERN) < 8) then begin
+      else if (tile_distance(self_tile, TAVERN) < 8) then begin
          call gobar;
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_OPTIMIZED) then begin
@@ -224,7 +224,7 @@ procedure talk_p_proc begin
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then begin
          call Node001;
       end
-      else if (TOWN_REPUTATION > 9 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // edit by killap added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      else if (TOWN_REPUTATION > 9 or (dude_perk(PERK_cult_of_personality))) then begin // edit by killap added (dude_perk(PERK_cult_of_personality))
          call Node002;
       end
       else begin
@@ -235,13 +235,13 @@ procedure talk_p_proc begin
       if ( (random(1,10) == 1) and (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) ) then begin
           call Node011;
       end
-      else if (tile_distance(tile_num(self_obj), GARDEN_3) < 8) then begin
+      else if (tile_distance(self_tile, GARDEN_3) < 8) then begin
          call Node004;
       end
-      else if (tile_distance(tile_num(self_obj), BRAHMA_PEN_2) < 8) then begin
+      else if (tile_distance(self_tile, BRAHMA_PEN_2) < 8) then begin
          call Node005;
       end
-      else if (tile_distance(tile_num(self_obj), BRAHMA_PEN_3) < 8) then begin
+      else if (tile_distance(self_tile, BRAHMA_PEN_3) < 8) then begin
          call Node005;
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_OPTIMIZED) then begin
@@ -250,7 +250,7 @@ procedure talk_p_proc begin
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then begin
          call Node001;
       end
-      else if (TOWN_REPUTATION > 9 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // edit by killap added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      else if (TOWN_REPUTATION > 9 or (dude_perk(PERK_cult_of_personality))) then begin // edit by killap added (dude_perk(PERK_cult_of_personality))
          call Node002;
       end
       else begin
@@ -276,13 +276,13 @@ procedure talk_p_proc begin
    else if ( (random(1,10) == 1) and (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) ) then begin
        call Node011;
    end
-   else if (tile_distance(tile_num(self_obj), GARDEN) < 8) then begin
+   else if (tile_distance(self_tile, GARDEN) < 8) then begin
       call Node004;
    end
-   if (tile_distance(tile_num(self_obj), HERD) < 8) then begin
+   if (tile_distance(self_tile, HERD) < 8) then begin
       call Node005;
    end
-   if (tile_distance(tile_num(self_obj), TAVERN) < 8) then begin
+   if (tile_distance(self_tile, TAVERN) < 8) then begin
       call gobar;
    end
    else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_OPTIMIZED) then begin

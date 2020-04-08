@@ -83,8 +83,8 @@ end
 
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 end
 
 procedure timed_event_p_proc begin
@@ -93,7 +93,7 @@ procedure timed_event_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -107,7 +107,7 @@ procedure critter_p_proc begin
       else if (map_var(MVAR_Gate) == 1) then begin
          call Node998;
       end
-      else if ( (local_var(LVAR_Herebefore) == 0) and (tile_distance(tile_num(self_obj), tile_num(dude_obj)) < 5) )then begin
+      else if ( (local_var(LVAR_Herebefore) == 0) and (tile_distance(self_tile, dude_tile) < 5) )then begin
          talk_to_dude:=1;
          dialogue_system_enter;
       end

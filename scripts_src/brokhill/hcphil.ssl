@@ -145,8 +145,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_CITIZEN);
    Phil_Ptr := self_obj;
 end
 
@@ -163,7 +163,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -447,7 +447,7 @@ procedure Node009 begin
 
    Reply(138);
 
-   if (item_caps_total(dude_obj) >= 4) then
+   if (dude_caps >= 4) then
       NLowOption(139,Node012);
    else
       NLowOption(140,Node013);
@@ -462,7 +462,7 @@ procedure Node010 begin
    else
       Reply(142);
 
-   if (item_caps_total(dude_obj) >= 6) then
+   if (dude_caps >= 6) then
       NLowOption(139,Node012);
    else
       NLowOption(140,Node013);
@@ -474,7 +474,7 @@ procedure Node011 begin
 
    Reply(145);
 
-   if (item_caps_total(dude_obj) >= 2) then
+   if (dude_caps >= 2) then
       NLowOption(139,Node012);
    else
       NLowOption(140,Node013);
@@ -484,7 +484,7 @@ procedure Node012 begin
    variable item;
 
    //remove Drink$ from inven and add Drinktype
-   item_caps_adjust( dude_obj, -Drink_Cost );
+   dude_caps_adjust( -Drink_Cost);
    item := create_object( Drink_Type, 0, 0 );
    add_obj_to_inven( dude_obj, item );
 
@@ -511,11 +511,11 @@ procedure Node015 begin
    else if( Drink_Type == PID_ROT_GUT ) then
       Reply(157);
 
-   if( item_caps_total( dude_obj ) >= Drink_Cost ) then
+   if( dude_caps >= Drink_Cost) then
       NOption(158, Node018, 004);
-   if( item_caps_total( dude_obj ) >= Drink_Cost + 1 ) then
+   if( dude_caps >= Drink_Cost + 1) then
       GOption(159, Node015a, 004);
-   if( item_caps_total( dude_obj ) >= Drink_Cost + 2 ) then
+   if( dude_caps >= Drink_Cost + 2) then
       GOption(160, Node015b, 004);
    NOption(161, Node019, 004);
 end
@@ -589,7 +589,7 @@ procedure Node018 begin
    // Give the drink to the player. Remove cash.
    item := create_object( Drink_Type, 0, 0 );
    add_obj_to_inven( dude_obj, item );
-   item_caps_adjust( dude_obj, -(Drink_Cost + Tip_Type) ); //aded Tip_Type - killap
+   dude_caps_adjust( -(Drink_Cost + Tip_Type)); //aded Tip_Type - killap
 
    if( From_36 == 1 ) then begin
       From_36 := 0;
@@ -797,7 +797,7 @@ procedure Node035 begin
 end
 
 procedure Node036 begin
-   item_caps_adjust( dude_obj, -(Drink_Cost + Tip_Type) ); //aded by killap
+   dude_caps_adjust( -(Drink_Cost + Tip_Type)); //aded by killap
    From_36 := 1;
    set_local_var( LVAR_Clue_Given, 1 );
    set_map_var( MVAR_Phil_Told_About_Guns, 1 );

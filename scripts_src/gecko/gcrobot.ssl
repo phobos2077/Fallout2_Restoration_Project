@@ -178,65 +178,65 @@ end
 procedure checkdone begin
    mycommand:=local_var(LVAR_CurrentCommand);
    if (mycommand == 1) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == URANUS) then begin
-         animate_rotation(5);
+         self_rotate(5);
          call punch_it;
          //set_local_var(LVAR_CommandExecuting,0);
       end
       else begin
-         animate_move_to_tile(URANUS);
+         self_walk_to_tile(URANUS);
       end
    end
    else if (mycommand == 2) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == PLUTO) then begin
-         animate_rotation(1);
+         self_rotate(1);
          call punch_it;
          //set_local_var(LVAR_CommandExecuting,0);
       end
       else begin
-         animate_move_to_tile(PLUTO);
+         self_walk_to_tile(PLUTO);
       end
    end
    else if (mycommand == 3) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == SATURN) then begin
-         animate_rotation(0);
+         self_rotate(0);
          call punch_it;
          //set_local_var(LVAR_CommandExecuting,0);
       end
       else begin
-         animate_move_to_tile(SATURN);
+         self_walk_to_tile(SATURN);
       end
    end
    else if (mycommand == 4) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == NEPTUNE) then begin
-         animate_rotation(5);
+         self_rotate(5);
          call punch_it;
          //set_local_var(LVAR_CommandExecuting,0);
       end
       else begin
-         animate_move_to_tile(NEPTUNE);
+         self_walk_to_tile(NEPTUNE);
       end
    end
    else if (mycommand == 5) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == JUPITER) then begin
-         animate_rotation(5);
+         self_rotate(5);
          call punch_it;
          //set_local_var(LVAR_CommandExecuting,0);
       end
       else begin
-         animate_move_to_tile(JUPITER);
+         self_walk_to_tile(JUPITER);
       end
    end
    else if (mycommand == 6) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == COOLANTPUMP) then begin
-         if (obj_is_carrying_obj_pid(self_obj, PID_HY_MAG_PART)) then begin
-            item:=obj_carrying_pid_obj(self_obj, PID_HY_MAG_PART);
+         if (self_item_count(PID_HY_MAG_PART)) then begin
+            item:=self_item(PID_HY_MAG_PART);
             rm_obj_from_inven(self_obj,item);
             destroy_object(item); //added by killap
             //need to give exp and KARMA here -NBK
@@ -261,11 +261,11 @@ procedure checkdone begin
          set_local_var(LVAR_CommandExecuting,0);
       end
       else begin
-         animate_move_to_tile(COOLANTPUMP);
+         self_walk_to_tile(COOLANTPUMP);
       end
    end
    else if (mycommand == 7) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == COOLANTPUMP) then begin
          set_local_var(LVAR_CommandExecuting,0);
          if (global_var(GVAR_GECKO_MELTDOWN) == 0) then begin
@@ -276,11 +276,11 @@ procedure checkdone begin
          end
       end
       else begin
-         animate_move_to_tile(COOLANTPUMP);
+         self_walk_to_tile(COOLANTPUMP);
       end
    end
    else if (mycommand == 8) then begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex == COOLANTPUMP) then begin
          set_local_var(LVAR_CommandExecuting,0);
          //MATT says that the meltdown cannot be stopped
@@ -288,15 +288,15 @@ procedure checkdone begin
          //set_global_var(GVAR_GECKO_MELTDOWN, 0); //stop meltdown
       end
       else begin
-         animate_move_to_tile(COOLANTPUMP);
+         self_walk_to_tile(COOLANTPUMP);
       end
    end
 end
 
 procedure godock begin
-      myhex:=tile_num(self_obj);
+      myhex:=self_tile;
       if (myhex != DOCK) then begin
-         animate_move_to_tile(DOCK);
+         self_walk_to_tile(DOCK);
          //move_to(self_obj,DOCK,elevation(self_obj));
       end
       else begin
@@ -326,7 +326,7 @@ procedure analyze_prog begin
    if (good_prog == 1) then begin //proper command sequence was given and robot should eventually do something
       if (map_var(MVAR_MoveVar6) == 6) then begin //repairing
          //need to check inventory of robot here
-         if (obj_is_carrying_obj_pid(self_obj, PID_HY_MAG_PART)) then begin
+         if (self_item_count(PID_HY_MAG_PART)) then begin
             //may need to set some global so part is removed from robot later
             //if still in inventory
             set_global_var(GVAR_PLANT_SCHEDULED_FOR_CHANGE, SCHEDULED_FOR_REPAIRS);

@@ -95,8 +95,8 @@ procedure LoadCritters begin
    numLoad := NUM_COWS - map_var(MVAR_Current_Cow_Bombs);
    while (numLoad > 0) do begin
       tile := tile_num_in_direction(LOAD_TILE, Random(0, 5), Random(1, 10));
-      obj := create_object_sid(COW_PID, tile, elevation(dude_obj), COW_SID);
-      critter_attempt_placement(obj, tile, elevation(dude_obj));
+      obj := create_object_sid(COW_PID, tile, dude_elevation, COW_SID);
+      critter_attempt_placement(obj, tile, dude_elevation);
 
       numLoad -= 1;
    end
@@ -113,7 +113,7 @@ procedure loadParts(variable count, variable starttile) begin
       brah_chunk_count -= 1;
       tile := tile_num_in_direction(starttile, Random(0, 5), Random(1, 10));
       temp_chunk := create_object_sid(random(PID_BRAHMIN_CHUNK_1, PID_BRAHMIN_CHUNK_6), 0, 0, SCRIPT_MIBRAMEA);
-      critter_attempt_placement(temp_chunk, tile, elevation(dude_obj));
+      critter_attempt_placement(temp_chunk, tile, dude_elevation);
       if (Random(1, 2) == 1) then
          starttile := tile;
    end
@@ -129,7 +129,7 @@ procedure loadBlood(variable count, variable starttile) begin
       brah_chunk_count -= 1;
       tile := tile_num_in_direction(starttile, Random(0, 5), Random(1, 10));
       temp_chunk := create_object_sid(random(PID_BLOOD_1, PID_BLOOD_9), 0, 0, SCRIPT_MIBRAMEA);
-      critter_attempt_placement(temp_chunk, tile, elevation(dude_obj));
+      critter_attempt_placement(temp_chunk, tile, dude_elevation);
       if (Random(1, 2) == 1) then
          starttile := tile;
    end

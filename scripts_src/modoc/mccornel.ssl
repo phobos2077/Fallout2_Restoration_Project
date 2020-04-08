@@ -125,10 +125,10 @@ end
 procedure combat_p_proc begin
    if (dude_enemy_modoc) then begin
       if (self_team == TEAM_PLAYER) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         set_self_team(TEAM_MODOC);
       end
    end else if (cur_map_index == MAP_GHOST_FARM) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    end
 end
 
@@ -140,9 +140,9 @@ procedure map_enter_p_proc begin
    export_self_obj;
    if (map_first_run) then begin
       if (cur_map_index == MAP_MODOC_BEDNBREAKFAST) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         set_self_team(TEAM_MODOC);
       end
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      set_self_ai(AI_PEASANT);
       check_restock_item(PID_SHOVEL, 1, 1, 100)
       check_restock_item(PID_MEAT_JERKY, 2, 2, 100)
       if (local_var(LVAR_Home_Tile) == 0) then begin
@@ -243,7 +243,7 @@ procedure Node998 begin
 end
 procedure Node996 begin
    set_local_var(LVAR_Told_Kill_Farrel,true);
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node022;
    end else begin
       call Node023;

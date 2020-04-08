@@ -166,7 +166,7 @@ procedure combat_p_proc begin
    end else if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
       if (self_team == TEAM_PLAYER) then begin
          if (hostile_slavers) then begin
-            critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_DEN_SLAVER);
+            set_self_team(TEAM_DEN_SLAVER);
             attack(dude_obj);
          end
       end
@@ -217,7 +217,7 @@ end
 
 procedure damage_p_proc begin
    if (source_obj == dude_obj) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_SLAVER);
+      set_self_team(TEAM_DEN_SLAVER);
       set_personal_enemy;
       set_hostile_slavers;
    end

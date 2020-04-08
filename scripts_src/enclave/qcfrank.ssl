@@ -114,20 +114,20 @@ procedure map_enter_p_proc begin
    variable door;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_END_BOSS);
+   set_self_team(TEAM_ENCLAVE);
+   set_self_ai(AI_END_BOSS);
 
    if (global_var(GVAR_ENCLAVE_REACTOR) == ENCLAVE_REACTOR_OFF) then begin
-       set_obj_visibility(self_obj,0);
+       set_self_visible;
        if (not(is_loading_game)) then begin
-         door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,elevation(self_obj),ENCLAVE_DOOR_PID2);
+         door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,self_elevation,ENCLAVE_DOOR_PID2);
          ndebug("Locking Door 2. "+door);
          obj_close(door);
          obj_lock(door);
        end
    end
    else begin
-       set_obj_visibility(self_obj,1);
+       set_self_invisible;
    end
 end
 
@@ -149,11 +149,11 @@ procedure critter_p_proc begin
    this as well. */
 
 
-   if ((local_var(LVAR_Talked_Before) == 0) and (obj_can_see_obj(self_obj,dude_obj)) and (global_var(GVAR_ENCLAVE_REACTOR) == ENCLAVE_REACTOR_OFF)) then begin
+   if ((local_var(LVAR_Talked_Before) == 0) and (self_can_see_dude) and (global_var(GVAR_ENCLAVE_REACTOR) == ENCLAVE_REACTOR_OFF)) then begin
        dialogue_system_enter;
    end
 
-   else if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 end
@@ -239,19 +239,19 @@ procedure destroy_p_proc begin
 
 
 
-      door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,elevation(self_obj),ENCLAVE_DOOR_PID2);
+      door:=tile_contains_pid_obj(ENCLAVE_DOOR_TILE2,self_elevation,ENCLAVE_DOOR_PID2);
       obj_unlock(door);
 
 
    if ((global_var(GVAR_ENCLAVE_FRANK_DEAD) == 0) and (violence_filter_setting >= VLNCLVL_NORMAL)) then begin
 //       obj_open(door);
-       animate_rotation(2);
-       tile:=tile_num_in_direction(tile_num(self_obj),2,0);
-       Boss_Legs:=create_object(BOSS_LEGS_PID,tile_num(self_obj),elevation(self_obj));
-       tile:=tile_num_in_direction(tile_num(self_obj),2,1);
+       self_rotate(2);
+       tile:=tile_num_in_direction(self_tile,2,0);
+       Boss_Legs:=create_object(BOSS_LEGS_PID,self_tile,self_elevation);
+       tile:=tile_num_in_direction(self_tile,2,1);
        tile:=tile_num_in_direction(tile,0,2);
-       Boss_Torso_Ptr:=create_object_sid(BOSS_TORSO_PID,tile,elevation(self_obj),SCRIPT_QCFRANK);
-       set_obj_visibility(self_obj,1);
+       Boss_Torso_Ptr:=create_object_sid(BOSS_TORSO_PID,tile,self_elevation,SCRIPT_QCFRANK);
+       set_self_invisible;
    end
 
    set_global_var(GVAR_ENCLAVE_FRANK_DEAD,1);

@@ -63,10 +63,10 @@ procedure Disarm_Traps;
 #define site_is_uncovered                 (local_var(LVAR_Status) == state_uncovered)
 #define do_cover_grave_site               set_local_var(LVAR_Status, state_covered);      \
                                           play_sfx("iccntnre");                           \
-                                          animate_set_frame(0)
+                                          self_set_frame(0)
 #define do_uncover_grave_site             set_local_var(LVAR_Status, state_uncovered);    \
                                           play_sfx("iocntnre");                           \
-                                          animate_set_frame(1)
+                                          self_set_frame(1)
 
 #ifndef GIVE_HEADSTONE_NAME
 #define GIVE_HEADSTONE_NAME               true

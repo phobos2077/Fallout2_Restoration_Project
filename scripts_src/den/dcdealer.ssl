@@ -172,8 +172,8 @@ procedure map_enter_p_proc begin
       wield_obj(tmp);
    end
 
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_DEN_RES_DEALER);
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_THUG);
+   set_self_team(TEAM_DEN_RES_DEALER);
+   set_self_ai(AI_THUG);
 end
 
 

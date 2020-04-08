@@ -113,7 +113,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == PLAYER_DONE) then begin
-      if (obj_can_see_obj(self_obj, dude_obj) and tile_distance_objs(self_obj, dude_obj) <= 3) then begin
+      if (self_can_see_dude and tile_distance_objs(self_obj, dude_obj) <= 3) then begin
          doWalking := 1;
          call walkUnLock;
       end else begin
@@ -128,8 +128,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_TOUGH_GUARD);
 end
 
 
@@ -142,7 +142,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -383,14 +383,14 @@ end
 procedure walkUnLock begin
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   animate_move_to_tile(FRONT_OF_DOOR);
+   self_walk_to_tile(FRONT_OF_DOOR);
    reg_anim_end();
 end
 
 procedure walkBack begin
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   animate_move_to_tile(HOME_POS);
+   self_walk_to_tile(HOME_POS);
    reg_anim_end();
 end
 

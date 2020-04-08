@@ -97,7 +97,7 @@ procedure timed_event_p_proc begin
          mod_add_timer_event_rand(self_obj, 15, 30, need_new_loc_param);
       end
       if (tile_distance(self_tile, local_var(LVAR_Where_To_Go_Tile)) > 2) then begin
-         animate_move_to_tile(local_var(LVAR_Where_To_Go_Tile));
+         self_walk_to_tile(local_var(LVAR_Where_To_Go_Tile));
       end else if ((went_to_loc == false) and (local_var(LVAR_Where_To_Go_Tile) != room_tile)) then begin
          set_went_to_loc;
          call Node003;
@@ -109,8 +109,8 @@ end
 procedure map_enter_p_proc begin
    match_dude_elevation;
    if (map_first_run) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+      set_self_team(TEAM_MODOC);
+      set_self_ai(AI_CHILD);
    end
    mod_add_timer_event_rand(self_obj, 1, 3, 1);
 end

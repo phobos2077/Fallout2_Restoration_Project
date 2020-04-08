@@ -144,15 +144,15 @@ procedure map_enter_p_proc begin
 
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MONTE);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_MONTE);
+         set_self_ai(AI_TOUGH_GUARD);
       end
    end
    nr_add_timer_event_rand(self_obj, 5, 30, float_param);
 end
 
 procedure critter_p_proc begin
-   if ( (obj_is_carrying_obj_pid(self_obj, PID_DECK_OF_CARDS) == 0 ) and (obj_is_carrying_obj_pid(self_obj, PID_MARKED_DECK_OF_CARDS)) and (local_var(LVAR_MESSAGE) == 0))  then begin
+   if ( (self_item_count(PID_DECK_OF_CARDS) == 0) and (self_item_count(PID_MARKED_DECK_OF_CARDS)) and (local_var(LVAR_MESSAGE) == 0))  then begin
       set_local_var(LVAR_MESSAGE,1);
       display_mstr(576);
       give_xp(100);
@@ -189,7 +189,7 @@ procedure talk_p_proc begin
    gSay_Start;
       if (local_var(LVAR_NO_MONEY) == 1) then
          call Node011;
-      else if ( (obj_is_carrying_obj_pid(self_obj, PID_DECK_OF_CARDS)) or (obj_is_carrying_obj_pid(self_obj, PID_MARKED_DECK_OF_CARDS)) )  then
+      else if ( (self_item_count(PID_DECK_OF_CARDS)) or (self_item_count(PID_MARKED_DECK_OF_CARDS)) )  then
          call Node002;
       else
          call Node012;
@@ -228,7 +228,7 @@ procedure Node991 begin
 
    info_price := 750;
 
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-20))) then begin
       if (prev_node == 23) then
          call Node029;
       else if (prev_node == 24) then
@@ -256,7 +256,7 @@ procedure Node992 begin
 
    info_price := 500;
 
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-30))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-30))) then begin
       if (prev_node == 23) then
          call Node029;
       else if (prev_node == 24) then
@@ -283,7 +283,7 @@ procedure Node993 begin
 
    info_price := 250;
 
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-40))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-40))) then begin
       if (prev_node == 23) then
          call Node029;
       else if (prev_node == 24) then
@@ -344,7 +344,7 @@ procedure Node001 begin
    if (local_var(LVAR_NO_MONEY) == 1) then begin
          floater(random(200,203));
    end else begin
-      if ( (obj_is_carrying_obj_pid(self_obj, PID_DECK_OF_CARDS)) or (obj_is_carrying_obj_pid(self_obj, PID_MARKED_DECK_OF_CARDS)) )  then begin
+      if ( (self_item_count(PID_DECK_OF_CARDS)) or (self_item_count(PID_MARKED_DECK_OF_CARDS)) )  then begin
          if (dude_is_male) then
             floater(random(220,228));
          else
@@ -401,7 +401,7 @@ end
 
 procedure Node005a begin
    if ((dude_caps) >= 20) then begin
-      item_caps_adjust(dude_obj, -20);
+      dude_caps_adjust(-20);
       //item_caps_adjust(self_obj, 20);
       set_local_var(LVAR_MONEY,((local_var(LVAR_MONEY)) + 20));
       call Node005b;
@@ -419,7 +419,7 @@ end
 
 //high perception check - this man is quick
 procedure Node005 begin
-   if ((get_critter_stat(dude_obj,STAT_pe) >= 7)) then
+   if ((dude_perception >= 7)) then
       call Node008;  //will notice cheating
    else
       call Node006;  //no notice of cheating
@@ -553,7 +553,7 @@ procedure Node014 begin
 end
 
 procedure Node015 begin
-   item_caps_adjust(dude_obj, 40);
+   dude_caps_adjust(40);
    //item_caps_adjust(self_obj, -40);
    set_local_var(LVAR_MONEY,((local_var(LVAR_MONEY)) - 40));
 
@@ -726,7 +726,7 @@ procedure Node030 begin
    NOption(566,Node019,004);
    NOption(567,Node999,004);
    set_local_var(LVAR_WRIGHT_ASKED,1);
-   item_caps_adjust(dude_obj, -info_price);
+   dude_caps_adjust(-info_price);
    set_local_var(LVAR_MONEY,((local_var(LVAR_MONEY)) + info_price));
    //item_caps_adjust(self_obj, info_price);
    suspect_renesco
@@ -743,7 +743,7 @@ procedure Node032 begin //llyod - ya
    NOption(516,Node019,004);
    NOption(517,Node999,004);
    set_local_var(LVAR_LLYOD_ASKED,1);
-   item_caps_adjust(dude_obj, -info_price);
+   dude_caps_adjust(-info_price);
    //item_caps_adjust(self_obj, info_price);
    set_local_var(LVAR_MONEY,((local_var(LVAR_MONEY)) + info_price));
 end
@@ -759,7 +759,7 @@ procedure Node034 begin //missing car - ya
    NOption(536,Node019,004);
    NOption(537,Node999,004);
    set_local_var(LVAR_CAR_ASKED,1);
-   item_caps_adjust(dude_obj, -info_price);
+   dude_caps_adjust(-info_price);
    //item_caps_adjust(self_obj, info_price);
    set_local_var(LVAR_MONEY,((local_var(LVAR_MONEY)) + info_price));
    set_monte_fingered_jules;
@@ -779,7 +779,7 @@ procedure Node036 begin //more info - ya
       NOption(556,Node019,004);
    NOption(557,Node999,004);
    set_local_var(LVAR_OTHER_ASKED,1);
-   item_caps_adjust(dude_obj, -info_price);
+   dude_caps_adjust(-info_price);
    //item_caps_adjust(self_obj, info_price);
    set_local_var(LVAR_MONEY,((local_var(LVAR_MONEY)) + info_price));
 end

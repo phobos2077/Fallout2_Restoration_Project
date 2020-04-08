@@ -144,7 +144,7 @@ procedure timed_event_p_proc begin
          if (anim_busy(self_obj) == false) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-               animate_move_to_tile(tile);
+               self_walk_to_tile(tile);
             reg_anim_end();
          end
          rm_fixed_timer_event(self_obj, fixed_param);
@@ -160,7 +160,7 @@ procedure timed_event_p_proc begin
             display_msg("MOVE!");
             reg_anim_clear(self_obj);
             reg_anim_begin();
-               animate_move_to_tile(19259);
+               self_walk_to_tile(19259);
             reg_anim_end();
          end*/
       end
@@ -174,7 +174,7 @@ procedure timed_event_p_proc begin
          /*if (anim_busy(self_obj) == false) then begin //move out of map
             reg_anim_clear(self_obj);
             reg_anim_begin();
-               animate_move_to_tile(22847);
+               self_walk_to_tile(22847);
             reg_anim_end();
          end*/
       end
@@ -199,13 +199,13 @@ procedure critter_p_proc begin
 
    if (self_visible) then begin
       if (self_tile == 22847) then begin
-         set_obj_visibility(self_obj, 1); //invisible
+         set_self_invisible; //invisible
       end
    end
 
    if not(self_visible) then begin
       if (self_tile != 22847) then begin
-         set_obj_visibility(self_obj, 0); //visible
+         set_self_visible; //visible
       end
    end
 
@@ -275,11 +275,11 @@ end
 procedure map_enter_p_proc begin
    if (local_var(LVAR_Peterson_Talked) == 0) then begin
      move_to(self_obj, 22847, self_elevation);
-     set_obj_visibility(self_obj, 1); //invisible
+     set_self_invisible; //invisible
    end
 
    if ( (global_var(GVAR_ABBEY_GRAVES) == 3) and (local_var(LVAR_Peterson_Talked) == 1) ) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+      set_self_team(TEAM_ABBEY);
 
    add_timer_event(self_obj, game_ticks(1), 1);
 end
@@ -438,7 +438,7 @@ procedure Node992 begin
 end
 
 procedure Node993 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -5 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -5 ) ) ) then
       call Node006;
    else
       call Node014;

@@ -69,7 +69,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -117,7 +117,7 @@ begin
   if (source_obj == dude_obj) then
   begin
     set_global_var(GVAR_GOOD_MONSTER, global_var(GVAR_GOOD_MONSTER) + 1);
-    if (metarule(51, self_obj) == 2) then
+    if (critter_kill_type(self_obj) == 2) then
     begin
       if (source_obj == dude_obj) then
       begin
@@ -199,15 +199,15 @@ procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   else
-    display_msg(message_str(NAME, 101));
+    display_msg(mstr(101));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure use_skill_on_p_proc
@@ -225,7 +225,7 @@ begin
   begin
     if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
     begin
-      float_msg(self_obj, message_str(NAME, random(330, 336)), FLOAT_MSG_BLUE);
+      float_msg(self_obj, mstr(random(330, 336)), FLOAT_MSG_BLUE);
       add_timer_event(self_obj, game_ticks(random(5, 6)), 3);
     end
   end
@@ -280,7 +280,7 @@ begin
       end_dialogue;
    end
    else if (local_var(LVAR_Herebefore) == 5) then
-   float_msg(self_obj, message_str(NAME, random(302, 303)), FLOAT_MSG_YELLOW);
+   float_msg(self_obj, mstr(random(302, 303)), FLOAT_MSG_YELLOW);
    else
    begin
       start_gdialog(NAME, self_obj, 4, -1, -1);
@@ -309,81 +309,81 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 200);
-  giq_option(4, NAME, 201, Node002, 50);
-  giq_option(4, NAME, 202, Node001a, 50);
+  Reply(200);
+  NOption(201, Node002, 4);
+  NOption(202, Node001a, 4);
 end
 
 procedure Node002
 begin
-  gsay_reply(NAME, 210);
-  if ((has_skill(dude_obj, SKILL_CONVERSANT) > 60) and (global_var(GVAR_EPADOOR_LOCK) == 1)) then
-    giq_option(4, NAME, 212, Node003, 50);
-  giq_option(4, NAME, 211, Node002a, 50);
+  Reply(210);
+  if ((has_skill(dude_obj, SKILL_SPEECH) > 60) and (global_var(GVAR_EPADOOR_LOCK) == 1)) then
+    NOption(212, Node003, 4);
+  NOption(211, Node002a, 4);
 end
 
 procedure Node003
 begin
-  gsay_reply(NAME, 220);
-  giq_option(4, NAME, 221, Node004, 50);
+  Reply(220);
+  NOption(221, Node004, 4);
 end
 
 procedure Node004
 begin
-  gsay_reply(NAME, 230);
-  if (has_skill(dude_obj, SKILL_CONVERSANT) > 70) then
-    giq_option(4, NAME, 231, Node005, 50);
-  giq_option(4, NAME, 232, Node004a, 50);
+  Reply(230);
+  if (has_skill(dude_obj, SKILL_SPEECH) > 70) then
+    NOption(231, Node005, 4);
+  NOption(232, Node004a, 4);
 end
 
 procedure Node005
 begin
-  gsay_reply(NAME, 240);
-  if (has_skill(dude_obj, SKILL_CONVERSANT) > 75) then
-    giq_option(4, NAME, 241, Node006, 50);
-  giq_option(4, NAME, 242, Node004a, 50);
+  Reply(240);
+  if (has_skill(dude_obj, SKILL_SPEECH) > 75) then
+    NOption(241, Node006, 4);
+  NOption(242, Node004a, 4);
 end
 
 procedure Node006
 begin
-  gsay_reply(NAME, 250);
-  giq_option(4, NAME, 251, Node012, 50);
+  Reply(250);
+  NOption(251, Node012, 4);
 
 end
 
 procedure Node007
 begin
-  gsay_reply(NAME, 260);
-  giq_option(4, NAME, 261, Node999, 50);
+  Reply(260);
+  NOption(261, Node999, 4);
   set_local_var(LVAR_Herebefore, 4);
   set_global_var(GVAR_EPADOOR_LOCK, 2);
 end
 
 procedure Node008
 begin
-  gsay_reply(NAME, 270);
-  giq_option(4, NAME, 271, Node002, 50);
-  giq_option(4, NAME, 272, Node999, 50);
+  Reply(270);
+  NOption(271, Node002, 4);
+  NOption(272, Node999, 4);
 end
 
 procedure Node009
 begin
-  gsay_reply(NAME, 280);
-  if ((has_skill(dude_obj, SKILL_CONVERSANT) > 60) and (global_var(GVAR_EPADOOR_LOCK) == 1)) then
-    giq_option(4, NAME, 282, Node003, 50);
-  giq_option(4, NAME, 281, Node999, 50);
+  Reply(280);
+  if ((has_skill(dude_obj, SKILL_SPEECH) > 60) and (global_var(GVAR_EPADOOR_LOCK) == 1)) then
+    NOption(282, Node003, 4);
+  NOption(281, Node999, 4);
 end
 
 procedure Node010
 begin
-  gsay_reply(NAME, 290);
-  giq_option(4, NAME, 291, Node006, 50);
+  Reply(290);
+  NOption(291, Node006, 4);
 end
 
 procedure Node011
 begin
-  gsay_reply(NAME, 300);
-  giq_option(4, NAME, 301, Node999, 50);
+  Reply(300);
+  NOption(301, Node999, 4);
   set_local_var(LVAR_Herebefore, 5);
 end
 

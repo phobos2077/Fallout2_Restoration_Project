@@ -100,9 +100,9 @@ procedure Node995;
 #define garden_known                      (karl_flag_state(karl_garden_bit))
 #define karl_nuts                         (karl_flag_state(karl_nuts_bit))
 #define no_hey                            (karl_flag_state(no_hey_bit))
-#define give_karl_money(x)                item_caps_adjust(self_obj,x);                      \
+#define give_karl_money(x)                self_caps_adjust(x);                      \
                                           set_karl_flag_state(karl_gave_money_bit, true)     \
-                                          item_caps_adjust(dude_obj,-(x))
+                                          dude_caps_adjust(-(x))
 #define set_passed_out(x)                 if (x == true) then begin                                                           \
                                              if (local_var(LVAR_Passed_Out) == 0) then begin                                  \
                                                 reg_anim_clear(self_obj);                                                     \
@@ -133,9 +133,9 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       //if (map_first_run) then begin --comment out by killap
          if (karl_in_modoc) then begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+            set_self_team(TEAM_MODOC);
          end else begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_MOMS);
+            set_self_team(TEAM_DEN_MOMS);
          end
       //end
       ndebug("karl: map_enter_p_proc");
@@ -382,13 +382,13 @@ end
 procedure Node001 begin
    Reply(169);
    NOption(170,Node994,004);              // give $100
-   if (obj_is_carrying_obj_pid(dude_obj, PID_BEER)) then begin
+   if (dude_item_count(PID_BEER)) then begin
       NOption(150,Node993,004);           // give beer
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_BOOZE)) then begin
+   if (dude_item_count(PID_BOOZE)) then begin
       NOption(151,Node992,004);           // give booze
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_NUKA_COLA)) then begin
+   if (dude_item_count(PID_NUKA_COLA)) then begin
       NOption(152,Node991,004);           // give nuke cola
    end
    NOption(173,Node999,004);
@@ -427,13 +427,13 @@ end
 procedure Node004 begin
    Reply(191);
    NOption(170,Node994,004);              // give $100
-   if (obj_is_carrying_obj_pid(dude_obj, PID_BEER)) then begin
+   if (dude_item_count(PID_BEER)) then begin
       NOption(150,Node993,004);           // give beer
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_BOOZE)) then begin
+   if (dude_item_count(PID_BOOZE)) then begin
       NOption(151,Node992,004);           // give booze
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_NUKA_COLA)) then begin
+   if (dude_item_count(PID_NUKA_COLA)) then begin
       NOption(152,Node991,004);           // give nuke cola
    end
    NOption(173,Node999,004);
@@ -496,13 +496,13 @@ procedure Node021 begin
 end
 procedure Node025 begin
    Reply(222);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_BEER)) then begin
+   if (dude_item_count(PID_BEER)) then begin
       NOption(150,Node993,001);           // give beer
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_BOOZE)) then begin
+   if (dude_item_count(PID_BOOZE)) then begin
       NOption(151,Node992,001);           // give booze
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_NUKA_COLA)) then begin
+   if (dude_item_count(PID_NUKA_COLA)) then begin
       NOption(152,Node991,001);           // give nuke cola
    end
    NOption(173,Node999,001);

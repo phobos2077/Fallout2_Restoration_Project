@@ -147,8 +147,8 @@ procedure map_enter_p_proc begin
    variable time;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_ENTRANCE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_STORE_OWNER);
+   set_self_team(TEAM_NCR_ENTRANCE);
+   set_self_ai(AI_STORE_OWNER);
 
    if (not local_var(LVAR_Starttile)) then begin
       set_local_var(LVAR_Starttile, self_tile);
@@ -171,7 +171,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -393,12 +393,12 @@ end
 procedure tryModify begin
    variable rifle := 0;
 
-   rifle := obj_carrying_pid_obj(dude_obj, PID_HUNTING_RIFLE);
+   rifle := dude_item(PID_HUNTING_RIFLE);
    if (rifle and dude_caps > 499) then begin
       fadeout(1);
       set_local_var(LVAR_Bought_Scope, 1);
-      item_caps_adjust(dude_obj, -500);
-      item_caps_adjust(self_obj, 500);
+      dude_caps_adjust(-500);
+      self_caps_adjust(500);
       rm_obj_from_inven(dude_obj, rifle);
       destroy_object(rifle);
       add_obj_to_inven(dude_obj, create_object(PID_SCOPED_HUNTING_RIFLE, dude_tile, 0));
@@ -501,12 +501,12 @@ procedure do_swap begin
                move_obj_inven_to_obj(book_obj3, self_obj);
 
          if (local_var(LVAR_Caps)) then begin
-            item_caps_adjust(self_obj, local_var(LVAR_Caps));
+            self_caps_adjust(local_var(LVAR_Caps));
          end
       end
       else begin
          set_local_var(LVAR_Caps, self_caps);
-         item_caps_adjust(self_obj, -local_var(LVAR_Caps));
+         self_caps_adjust(-local_var(LVAR_Caps));
          if (lastShelf == 1) then
             if (book_obj1) then
                move_obj_inven_to_obj(self_obj, book_obj1);

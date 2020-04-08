@@ -107,7 +107,7 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(101));
    else
       display_msg(mstr(102));
@@ -195,13 +195,13 @@ procedure map_enter_p_proc begin
       PENGUARD2_obj := self_obj;
    end
 
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SLAVER_CAMP_SLAVERS);
+   set_self_team(TEAM_SLAVER_CAMP_SLAVERS);
 end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 2) then begin
       if (local_var(LVAR_Touch_Warning) == 0) then begin
-         float_msg(self_obj, message_str(NAME, 599), FLOAT_MSG_RED );
+         float_msg(self_obj, mstr(599), FLOAT_MSG_RED );
          set_local_var(LVAR_Touch_Warning,1);
       end else begin
          call Node998;
@@ -266,18 +266,18 @@ procedure Node003 begin
       if (local_var(LVAR_Force_Talk) == 0) then
          set_local_var(LVAR_Force_Talk,1);
 
-      if (has_skill(dude_obj, SKILL_CONVERSANT) > 50) then
+      if (has_skill(dude_obj, SKILL_SPEECH) > 50) then
          NOption(401,Node009,004);
       else
          NOption(500,Node010,004);
-      if ( (party_size_humans > 0) and (has_skill(dude_obj, SKILL_CONVERSANT) > 59) ) then
+      if ( (party_size_humans > 0) and (has_skill(dude_obj, SKILL_SPEECH) > 59) ) then
          NOption(402,Node006,004);
       NOption(403,Node007,004);
 end
 
 procedure Node004 begin
      Reply(406);
-     if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -20))) then
+     if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, -20))) then
          NOption(407,Node005,004);
      else
          NOption(409,Node008,004);

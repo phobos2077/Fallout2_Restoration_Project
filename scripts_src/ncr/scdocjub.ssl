@@ -158,9 +158,9 @@ procedure map_update_p_proc begin
   variable count;
   variable tmp;
   if (i_doc_shelf_obj != -1) then begin
-    count := obj_is_carrying_obj_pid(i_doc_shelf_obj, PID_FAKE_HEART_PILLS);
+    count := get_item_count(i_doc_shelf_obj, PID_FAKE_HEART_PILLS);
     if (count and (local_var(LVAR_Westin_Pill_Pickup_Counter) - GAME_TIME_IN_DAYS) <= 0) then begin
-      tmp := obj_carrying_pid_obj(i_doc_shelf_obj, PID_FAKE_HEART_PILLS);
+      tmp := get_item(i_doc_shelf_obj, PID_FAKE_HEART_PILLS);
       rm_obj_from_inven(i_doc_shelf_obj, tmp);
       destroy_object(tmp);
       set_westin_flag(WESTIN_DEAD);
@@ -185,8 +185,8 @@ procedure map_enter_p_proc begin
 
    Only_Once:=0;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DOCTOR);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_DOCTOR);
 
 /*   if (not self_item(PID_FUZZY_PAINTING) and not local_var(LVAR_Sold_Paint)) then begin
       add_obj_to_inven(self_obj, obj);
@@ -204,7 +204,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -367,8 +367,8 @@ end
 procedure Node3Heal begin
    if (dude_caps >= 50) then begin
       call doHeal;
-      item_caps_adjust(dude_obj, -50);
-      item_caps_adjust(self_obj, 50);
+      dude_caps_adjust(-50);
+      self_caps_adjust(50);
       call Node003;
    end else begin
       call Node007;
@@ -499,8 +499,8 @@ procedure Node013 begin
 end
 
 procedure NodeSell begin
-   item_caps_adjust(dude_obj, -10000);
-   item_caps_adjust(self_obj, 10000);
+   dude_caps_adjust(-10000);
+   self_caps_adjust(10000);
    add_obj_to_inven(dude_obj, create_object_sid(PID_FUZZY_PAINTING,0,0,SCRIPT_SIPAINT));
    set_local_var(LVAR_Sold_Paint, 1);
    call Node020;
@@ -579,7 +579,7 @@ procedure Node022 begin
 end
 
 procedure Node022a begin
-   if (has_skill(dude_obj,SKILL_CONVERSANT) >= 65) then
+   if (has_skill(dude_obj,SKILL_SPEECH) >= 65) then
       call Node025;
    else
       call Node026;
@@ -695,9 +695,9 @@ procedure check_poison begin
 
    if (i_doc_shelf_obj != -1) then begin
       if (not skill_success(dude_obj, SKILL_STEAL, 0)) then begin
-         count := obj_is_carrying_obj_pid(i_doc_shelf_obj, POISON_PID); //edit by killap - was dude_obj
+         count := get_item_count(i_doc_shelf_obj, POISON_PID); //edit by killap - was dude_obj
          if (count == 0) then begin
-            tmp := obj_carrying_pid_obj(dude_obj, POISON_PID);
+            tmp := dude_item(POISON_PID);
             rm_obj_from_inven(dude_obj, tmp);
             add_obj_to_inven(i_doc_shelf_obj, tmp);
             return 0;
@@ -712,10 +712,10 @@ procedure check_pills begin
    variable count;
 
    if (i_doc_shelf_obj != -1) then begin
-      count := obj_is_carrying_obj_pid(i_doc_shelf_obj, PILL_PID); //edit by killap - was dude_obj
+      count := get_item_count(i_doc_shelf_obj, PILL_PID); //edit by killap - was dude_obj
       if (not skill_success(dude_obj, SKILL_STEAL, 0)) then begin
          if (count == 0) then begin
-            tmp := obj_carrying_pid_obj(dude_obj, PILL_PID);
+            tmp := dude_item(PILL_PID);
             rm_obj_from_inven(dude_obj, tmp);
             add_obj_to_inven(i_doc_shelf_obj, tmp);
             return 0;
@@ -733,7 +733,7 @@ procedure check_pills begin
 end
 
 procedure checkItems begin
-   if (obj_can_see_obj(self_obj, dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (not check_poison) then begin
          call Node018;
       end

@@ -86,7 +86,7 @@ begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 end
@@ -154,7 +154,7 @@ end
 
 procedure map_enter_p_proc
 begin
- critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+ set_self_team(TEAM_ABBEY);
  add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
 end
 
@@ -278,7 +278,7 @@ procedure Node009 begin
    NLowOption(1000,Node026);
 
    if (local_var(LVAR_Find_Book)) then begin
-      if ((obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_MISSING_BOOK))) then
+      if ((dude_item_count(PID_ABBEY_MISSING_BOOK))) then
          NOption(417,Node010,4);
       else
          NOption(4177,Node017,4);
@@ -298,7 +298,7 @@ procedure Node011 begin
    variable item;
    more_info := 1;
 
-   item:=obj_carrying_pid_obj(dude_obj, PID_ABBEY_MISSING_BOOK);
+   item:=dude_item(PID_ABBEY_MISSING_BOOK);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
    //give_pid_qty(dude_obj,140,1)
@@ -315,7 +315,7 @@ procedure Node012 begin
    variable item;
    more_info := 1;
 
-   item:=obj_carrying_pid_obj(dude_obj, PID_ABBEY_MISSING_BOOK);
+   item:=dude_item(PID_ABBEY_MISSING_BOOK);
    rm_obj_from_inven(dude_obj,item);
    give_pid_qty(dude_obj,41,250)
    //give_pid_qty(dude_obj,140,1)
@@ -350,7 +350,7 @@ procedure Node014b
 begin
  Reply(439);
  NOption(440,Node002,4);
- if((dude_iq > 5)and(has_skill(dude_obj, SKILL_CONVERSANT) > 49)) then begin
+ if((dude_iq > 5)and(has_skill(dude_obj, SKILL_SPEECH) > 49)) then begin
  NOption(441,Node014c,4);
 end
 end
@@ -411,7 +411,7 @@ procedure Node016c begin
 end
 
 procedure Node016d begin
-   item_caps_adjust(dude_obj, 50);
+   dude_caps_adjust(50);
    inc_general_rep(-2);
    inc_global_var_amt(GVAR_TOWN_REP_ABBEY,-5);
 end
@@ -468,7 +468,7 @@ end
 
 procedure Node023 begin
    Reply(451);
-   if (has_skill(dude_obj, SKILL_CONVERSANT) > 90) then
+   if (has_skill(dude_obj, SKILL_SPEECH) > 90) then
       NOption(452,Node024,4);
    else
       NOption(453,Node024b,4);
@@ -504,7 +504,7 @@ end
 
 procedure Node027 begin
    Reply(1020);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_MISSING_BOOK))) then begin
+   if ((dude_item_count(PID_ABBEY_MISSING_BOOK))) then begin
       NOption(1021,Node029,1);
    end else begin
       set_global_var(GVAR_ABBEY_BEAST, 3);
@@ -515,14 +515,14 @@ end
 procedure Node028 begin
 
    Reply(416);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_MISSING_BOOK))) then
+   if ((dude_item_count(PID_ABBEY_MISSING_BOOK))) then
       NOption(1030,Node029,1);
 
 end
 
 procedure Node029 begin
 variable item;
-   item:=obj_carrying_pid_obj(dude_obj, PID_ABBEY_MISSING_BOOK);
+   item:=dude_item(PID_ABBEY_MISSING_BOOK);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
 
@@ -539,7 +539,7 @@ end
 
 procedure Node030 begin
    Reply(1110);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_MISSING_BOOK))) then
+   if ((dude_item_count(PID_ABBEY_MISSING_BOOK))) then
       NOption(1112,Node010,4);
    else
       NOption(1111,Node017a,4);

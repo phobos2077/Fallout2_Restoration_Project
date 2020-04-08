@@ -49,7 +49,7 @@ variable willie_obj;
    end else if (fixed_param == back_to_diggin_param) then begin
       gfade_out(ONE_GAME_SECOND);
          willie_obj := create_object_sid(PID_TOUGH_GHOUL, 0, 0, NAME);
-         anim(willie_obj, ANIMATE_ROTATION, willie_rotation);
+         obj_rotate(willie_obj, willie_rotation);
          anim(willie_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
          move_to(willie_obj, tile_num_in_direction(self_tile, willie_rotation, 2), self_elevation);
          nr_add_timer_event(willie_obj, 2, 202);

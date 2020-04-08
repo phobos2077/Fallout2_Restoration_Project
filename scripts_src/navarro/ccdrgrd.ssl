@@ -100,7 +100,7 @@ end
 procedure timed_event_p_proc begin
     if (fixed_param == CHECK_ON_COMMANDER) then begin
       if (step != 1) then begin
-         animate_run_to_tile(15480);
+         self_run_to_tile(15480);
          step := 1;
          add_timer_event(self_obj, game_ticks(2), CHECK_ON_COMMANDER);
       end else if (step == 1) then begin
@@ -115,8 +115,8 @@ end
 
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 end
 
 procedure critter_p_proc begin
@@ -124,11 +124,11 @@ procedure critter_p_proc begin
    // the cleaning crew. Must leave range of sight.
    if( ( local_var( LVAR_Secure_Clean ) == 1 ) and
        ( local_var( LVAR_Left_Perception_Range ) == 0 ) ) then begin
-      if( not( obj_can_see_obj(self_obj,dude_obj) ) ) then
+      if( not( self_can_see_dude ) ) then
          set_local_var( LVAR_Left_Perception_Range, 1 );
    end
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (hostile) then begin
          call Node015;
          attack(dude_obj);
@@ -310,7 +310,7 @@ procedure Node006 begin
 end
 
 procedure Node007 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-20))) then begin
       set_map_var(MVAR_Secure,1);
       set_map_var(MVAR_Pass,1);
       set_map_var( MVAR_Open_Sesame, 1 );

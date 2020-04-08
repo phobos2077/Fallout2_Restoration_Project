@@ -333,7 +333,7 @@ procedure NodeChr15 begin
       game_time_advance(ONE_GAME_WEEK * 3);
 
       // added by killap - expansion
-      if (has_trait(TRAIT_PERK, dude_obj, PERK_dermal_enhancement_perk) or has_trait(TRAIT_PERK, dude_obj, PERK_phoenix_enhancement_perk)) then
+      if (dude_perk(PERK_dermal_enhancement_perk) or dude_perk(PERK_phoenix_enhancement_perk)) then
          set_pc_extra_stat(STAT_ch, get_pc_extra_stat(STAT_ch) + 1);
       else
          set_critter_stat(dude_obj, STAT_ch, 1);
@@ -708,10 +708,10 @@ procedure sequence begin
       body   := create_object(PID_END_BOSS, BODYTILE, 2);
       matt   := create_object(PID_TOUGH_GUARD_MALE, MATTTILE, 2);
 
-      anim(guard1, ANIMATE_ROTATION, rotation_to_tile(tile_num(guard1), tile_num(matt)));
-      anim(guard2, ANIMATE_ROTATION, rotation_to_tile(tile_num(guard2), tile_num(matt)));
-      anim(body, ANIMATE_ROTATION, rotation_to_tile(tile_num(body), tile_num(matt)));
-      anim(matt, ANIMATE_ROTATION, rotation_to_tile(tile_num(matt), tile_num(body)));
+      obj_rotate(guard1, rotation_to_tile(tile_num(guard1), tile_num(matt)));
+      obj_rotate(guard2, rotation_to_tile(tile_num(guard2), tile_num(matt)));
+      obj_rotate(body, rotation_to_tile(tile_num(body), tile_num(matt)));
+      obj_rotate(matt, rotation_to_tile(tile_num(matt), tile_num(body)));
 
       party_no_follow_on;
       move_to(dude_obj, CAMERATILE, 2);
@@ -801,7 +801,7 @@ procedure sequence begin
       seqCnt += 1;
       add_timer_event(self_obj, game_ticks(5), TIMER_SEQUENCE);
    end else if (seqCnt == 15) then begin
-      anim(body, ANIMATE_ROTATION, rotation_to_tile(tile_num(body), tile_num(guard1)));
+      obj_rotate(body, rotation_to_tile(tile_num(body), tile_num(guard1)));
       float_msg(matt, mstr(237), FLOAT_MSG_NORMAL);
       seqCnt += 1;
       add_timer_event(self_obj, game_ticks(3), TIMER_SEQUENCE);
@@ -828,7 +828,7 @@ procedure sequence begin
 
       move_to(dude_obj, 14547, 1);
       party_no_follow_off;
-      anim(dude_obj, ANIMATE_ROTATION, lastDudeRot); // Seraph's Fix: animate_rotation only affects self_obj. Thanks Rob!
+      dude_rotate(lastDudeRot); // Seraph's Fix: animate_rotation only affects self_obj. Thanks Rob!
       set_obj_visibility(dude_obj, OBJ_VIS);
       game_ui_enable;
 

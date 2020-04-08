@@ -161,14 +161,14 @@ end
 procedure use_skill_on_p_proc begin
    script_overrides;
 
-   if ((get_critter_stat(dude_obj,STAT_iq) > 3) and ((has_skill(dude_obj,SKILL_DOCTOR) > 75) or (has_skill(dude_obj,SKILL_SCIENCE) > 50))) then
+   if ((dude_iq > 3) and ((has_skill(dude_obj,SKILL_DOCTOR) > 75) or (has_skill(dude_obj,SKILL_SCIENCE) > 50))) then
        dialogue_system_enter;
    else begin
        display_msg(mstr(104));
-       if (get_critter_stat(source_obj,STAT_iq) > 3) then
-           float_msg(source_obj, message_str(NAME,105), FLOAT_COLOR_NORMAL);
+       if (get_iq(source_obj) > 3) then
+           float_msg(source_obj, mstr(105), FLOAT_COLOR_NORMAL);
        else
-           float_msg(source_obj, message_str(NAME,107), FLOAT_COLOR_NORMAL);
+           float_msg(source_obj, mstr(107), FLOAT_COLOR_NORMAL);
    end
 end
 

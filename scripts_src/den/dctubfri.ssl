@@ -101,8 +101,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_TUBBYS);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+         set_self_team(TEAM_DEN_TUBBYS);
+         set_self_ai(AI_COWARD);
       end else if (tubby_dead) then begin
          if (self_is_male) then begin
             destroy_object(self_obj);
@@ -224,9 +224,9 @@ procedure Node002 begin
       end
    end else if ((has_rep_slaver) and (random(0,1))) then begin
       floater_rand(232,235);
-   end else if ( ( (check_general_rep <= -100) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) and (random(0,1))) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   end else if ( ( (check_general_rep <= -100) and (not(dude_perk(PERK_cult_of_personality))) ) and (random(0,1))) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
       floater(220);
-   end else if ( ( (check_general_rep >= 100) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) and (random(0,1))) then begin //edit by killap - added ((has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   end else if ( ( (check_general_rep >= 100) or (dude_perk(PERK_cult_of_personality)) ) and (random(0,1))) then begin //edit by killap - added ((dude_perk(PERK_cult_of_personality)))
       floater(221 + dude_is_female);
    end else begin
       floater_rand(223,231);

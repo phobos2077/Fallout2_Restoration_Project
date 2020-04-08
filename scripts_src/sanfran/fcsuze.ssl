@@ -117,8 +117,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_PUNKS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_PUNK);
+   set_self_team(TEAM_SAN_FRAN_PUNKS);
+   set_self_ai(AI_SF_PUNK);
    i_suze_obj := self_obj;
 end
 
@@ -132,19 +132,19 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
 
    if (not SUZE_SAVED) then begin
-      if (elevation(self_obj) == 0) then begin
+      if (self_elevation == 0) then begin
          set_san_fran_flag(SF_SUZE_SAVED);
          set_badger_flag(BADGER_GFRIEND2);
       end
    end
 
-   if (elevation(self_obj) == elevation(dude_obj)) then begin
+   if (self_elevation == dude_elevation) then begin
       if (local_var(LVAR_Follow_Dude)) then begin
          if ((tile_distance(self_tile, SAVE_TILE) <= 10 or tile_distance(self_tile, SAVE_TILE1) <= 10) and (self_tile != SAVE_TILE and self_tile != SAVE_TILE1)) then begin
             if (not anim_busy(self_obj)) then begin
@@ -152,12 +152,12 @@ procedure critter_p_proc begin
                if (tile_distance(self_tile, SAVE_TILE) <= 10) then begin
                   reg_anim_clear(self_obj);
                   reg_anim_begin();
-                  animate_run_to_tile(SAVE_TILE);
+                  self_run_to_tile(SAVE_TILE);
                   reg_anim_end();
                end else if (tile_distance(self_tile, SAVE_TILE1) <= 10) then begin
                   reg_anim_clear(self_obj);
                   reg_anim_begin();
-                  animate_run_to_tile(SAVE_TILE1);
+                  self_run_to_tile(SAVE_TILE1);
                   reg_anim_end();
                end
             end
@@ -168,9 +168,9 @@ procedure critter_p_proc begin
          end else begin
             Follow_Dude(1, 2)
          end
-      end else if (elevation(self_obj) == 1) then begin
+      end else if (self_elevation == 1) then begin
          if (self_tile != SAVE_ME_TILE) then begin
-            move_to(self_obj, SAVE_ME_TILE, elevation(self_obj));
+            move_to(self_obj, SAVE_ME_TILE, self_elevation);
          end
       end
    end
@@ -185,7 +185,7 @@ procedure damage_p_proc begin
    the player for his evil acts. */
    if (source_obj == dude_obj) then begin
       set_local_var(LVAR_Personal_Enemy,1);
-      if (elevation(self_obj) == 0) then begin
+      if (self_elevation == 0) then begin
          set_san_fran_flag(SF_PUNKS_ENEMY);
       end
    end

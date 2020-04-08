@@ -133,13 +133,13 @@ procedure map_enter_p_proc begin
    Bette_Ptr:=self_obj;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_REDDING_MINER);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_REDDING_MINER);
 
    if ((not(is_loading_game)) and (global_var(GVAR_BAR_BRAWL) == BRAWL_NEITHER_JAILED)) then begin
-       set_obj_visibility(Caminetto_Ptr,1);
+       set_obj_invisible(Caminetto_Ptr);
        move_to(Caminetto_Ptr,5000,0);
-       set_obj_visibility(self_obj,1);
+       set_self_invisible;
        move_to(self_obj,5000,0);
    end
 end
@@ -154,18 +154,18 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
    if (global_var(GVAR_BAR_BRAWL) == 0) then begin
-       set_obj_visibility(self_obj,1);
+       set_self_invisible;
    end
    else begin
-       set_obj_visibility(self_obj,0);
+       set_self_visible;
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -178,9 +178,9 @@ procedure critter_p_proc begin
    else if ((local_var(LVAR_Started_Conversation) != 0) and (not(In_Bar(dude_obj))) and (global_var(GVAR_BAR_BRAWL) == BRAWL_JOB_ACCEPTED)) then begin
        set_global_var(GVAR_BAR_BRAWL,BRAWL_NEITHER_JAILED);
        gfade_out(600);
-       set_obj_visibility(Caminetto_Ptr,1);
+       set_obj_invisible(Caminetto_Ptr);
        move_to(Caminetto_Ptr,5000,0);
-       set_obj_visibility(self_obj,1);
+       set_self_invisible;
        move_to(self_obj,5000,0);
        move_to(dude_obj,Tile3,0);
        gfade_in(600);
@@ -409,14 +409,14 @@ procedure Node008 begin
 end
 
 procedure Node008a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+   if (skill_success(dude_obj,SKILL_SPEECH,(2*dude_level))) then
        call Node013;
    else
        call Node014;
 end
 
 procedure Node008b begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,0)) then
        call Node009;
    else
        call Node010;
@@ -434,8 +434,8 @@ procedure Node009 begin
 
       move_to(self_obj,5000,0);
       move_to(Caminetto_Ptr,5000,0);
-      set_obj_visibility(Caminetto_Ptr,1);
-      set_obj_visibility(self_obj,1);
+      set_obj_invisible(Caminetto_Ptr);
+      set_self_invisible;
 
       gfade_in(600);
 
@@ -456,7 +456,7 @@ procedure Node010 begin
 end
 
 procedure Node010a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+   if (skill_success(dude_obj,SKILL_SPEECH,(2*dude_level))) then
        call Node011;
    else
        call Node012;
@@ -503,7 +503,7 @@ procedure Node013a begin
 
    move_to(Bette_Ptr,Tile1,0);
    move_to(Caminetto_Ptr,5000,0);
-   set_obj_visibility(Caminetto_Ptr,1);
+   set_obj_invisible(Caminetto_Ptr);
    move_to(dude_obj,Tile3,0);
 
    display_msg(g_mstr(1020)); //added by killap
@@ -522,14 +522,14 @@ procedure Node014 begin
 end
 
 procedure Node014a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+   if (skill_success(dude_obj,SKILL_SPEECH,(2*dude_level))) then
        call Node016;
    else
        call Node998;
 end
 
 procedure Node014b begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,(2*get_pc_stat(PCSTAT_level)))) then
+   if (skill_success(dude_obj,SKILL_SPEECH,(2*dude_level))) then
        call Node016;
    else
        call Node998;

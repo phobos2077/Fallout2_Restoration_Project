@@ -131,7 +131,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -170,7 +170,7 @@ procedure map_enter_p_proc begin
       if (global_var(GVAR_VAULT_VILLAGE) >= VILLAGE_STAGE_ONE) then begin
          critter_attempt_placement(self_obj, 24100, dude_elevation);
       end
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_VAULT_VILLAGERS);
+      set_self_team(TEAM_VAULT_VILLAGERS);
 
    end
 
@@ -181,7 +181,7 @@ procedure map_enter_p_proc begin
       if (global_var(GVAR_QUEST_VAULT_SERVANT) > SERVANT_BRAIN_AGREEMENT) then
          critter_attempt_placement(self_obj, 24100, dude_elevation);
 
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_VAULT_VILLAGERS);
+      set_self_team(TEAM_VAULT_VILLAGERS);
    end*/
 end
 
@@ -337,7 +337,7 @@ procedure Node992 begin
    set_global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE,5); //bad complete
    display_msg(mstr(500));
    give_xp(400);
-   item_caps_adjust(dude_obj, 100);
+   dude_caps_adjust(100);
 end
 
 procedure Node993 begin

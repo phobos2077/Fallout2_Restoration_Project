@@ -142,8 +142,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    set_local_var(LVAR_In_Timed_Event,0);
 
@@ -172,7 +172,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -385,7 +385,7 @@ procedure Node003 begin
 end
 
 procedure Node003a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,0)) then
        call Node004;
    else
        call Node010;
@@ -501,7 +501,7 @@ end
 procedure Node010b begin
    if ( bishop_dead ) then
        call Node032;
-   else if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then
+   else if (skill_success(dude_obj,SKILL_SPEECH,-20)) then
        call Node007;
    else
        call Node012;
@@ -573,8 +573,8 @@ procedure Node016c begin
    variable item;
    variable item2;
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_MOORE_GOOD_BRIEFCASE)) then begin
-       item2:=obj_carrying_pid_obj(dude_obj,PID_MOORE_GOOD_BRIEFCASE);
+   if (dude_item_count(PID_MOORE_GOOD_BRIEFCASE)) then begin
+       item2:=dude_item(PID_MOORE_GOOD_BRIEFCASE);
        destroy_object(item2);
    end
 
@@ -657,7 +657,7 @@ procedure Node023 begin
    Reply(192);
 
    BOption(193,Node011,004);
-   if ((has_rep_slaver) and ((dude_charisma > 8) or (has_skill(dude_obj,SKILL_CONVERSANT) > 95))) then
+   if ((has_rep_slaver) and ((dude_charisma > 8) or (has_skill(dude_obj,SKILL_SPEECH) > 95))) then
        GOption(194,Node003,004);
    if (( not(has_rep_slaver) ) and (dude_charisma > 5)) then
        GOption(195,Node003,004);
@@ -690,7 +690,7 @@ procedure Node024a begin
 end
 
 procedure Node024b begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-20)) then
        call Node012;
    else
        call Node025;

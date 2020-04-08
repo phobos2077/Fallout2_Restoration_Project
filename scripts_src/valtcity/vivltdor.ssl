@@ -49,7 +49,7 @@ procedure Node008;
 
 procedure NodeOpen;
 
-#define float_dude(x)             float_msg(dude_obj, message_str(NAME,x), FLOAT_COLOR_NORMAL)
+#define float_dude(x)             float_msg(dude_obj, mstr(x), FLOAT_COLOR_NORMAL)
 
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be

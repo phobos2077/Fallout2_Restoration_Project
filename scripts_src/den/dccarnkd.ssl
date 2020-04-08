@@ -62,8 +62,8 @@ procedure map_enter_p_proc begin
    end
    //end added
 
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_MUMMY_LOVERS );
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_CHILD);
+   set_self_team(TEAM_MUMMY_LOVERS);
+   set_self_ai(AI_CHILD);
 
    add_timer_event( self_obj, game_ticks( random( 7, 15 ) ), 0 );
 end

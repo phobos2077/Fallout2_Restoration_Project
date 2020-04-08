@@ -94,8 +94,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+         set_self_team(TEAM_THE_DEN);
+         set_self_ai(AI_PEASANT);
       end
       // ### flush_add_timer_event_sec(self_obj, random(, ), timed_event_float);
    end
@@ -231,7 +231,7 @@ procedure Node008 begin
    else
       Reply(138);
 
-   if( item_caps_total( dude_obj ) >= 10 ) then begin
+   if( dude_caps >= 10) then begin
       GOption(139, Node008a, 004);
       NOption(140, Node008a, 004);
    end
@@ -240,7 +240,7 @@ end
 
 procedure Node008a begin
    set_local_var( LVAR_Story_Status, STORY_DRINK_PURCHASED );
-   item_caps_adjust( dude_obj, -10 );
+   dude_caps_adjust( -10);
    call Node010;
 end
 

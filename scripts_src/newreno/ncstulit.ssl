@@ -179,8 +179,8 @@ procedure map_enter_p_proc begin
       /*if ((masticator_dead) and (dude_is_prizefighter == false)) then begin -- COMMENT OUT BY KILLAP
          destroy_object(self_obj);
       end else */if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXER);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_NEW_RENO_BOXER);
+         set_self_ai(AI_TOUGH_CITIZEN);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
@@ -283,7 +283,7 @@ procedure Node986 begin
    nr_add_timer_event(self_obj, 0, start_fight_param);
 end
 procedure Node985 begin
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) and (gave_second_chance == false)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) and (gave_second_chance == false)) then begin
       call Node016;
    end else begin
       call Node015;
@@ -307,14 +307,14 @@ procedure Node982 begin
    end
 end
 procedure Node981 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node028;
    end else begin
       call Node026;
    end
 end
 procedure Node980 begin
-   if ((has_skill(dude_obj, SKILL_BARTER) > 75) and (has_skill(dude_obj, SKILL_CONVERSANT) > 75)) then begin
+   if ((has_skill(dude_obj, SKILL_BARTER) > 75) and (has_skill(dude_obj, SKILL_SPEECH) > 75)) then begin
       set_stuart_deal(25);
       call Node029;
    end else begin
@@ -340,14 +340,14 @@ procedure Node977 begin
    end
 end
 procedure Node976 begin
-   if ((Fallout2_enclave_destroyed) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0)))) then begin
+   if ((Fallout2_enclave_destroyed) or (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0)))) then begin
       call Node015;
    end else begin
       call Node016;
    end
 end
 procedure Node975 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,20))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,20))) then begin
       call Node028;
    end else begin
       call Node027;
@@ -567,7 +567,7 @@ procedure Node025 begin
       end else begin
          Reply(442);
       end
-      if (has_skill(dude_obj, SKILL_CONVERSANT) >= 50) then begin
+      if (has_skill(dude_obj, SKILL_SPEECH) >= 50) then begin
          NOption(452, Node975, 006);
       end
    end
@@ -577,7 +577,7 @@ procedure Node025 begin
 end
 procedure Node026 begin
    Reply(450 + dude_is_male);
-   if (has_skill(dude_obj, SKILL_CONVERSANT) >= 50) then begin
+   if (has_skill(dude_obj, SKILL_SPEECH) >= 50) then begin
       GOption(452 + dude_is_male, Node975, 006);
    end
    NOption(454, Node999, 004);
@@ -586,7 +586,7 @@ end
 procedure Node027 begin
    Reply(460 + dude_is_male);
    if (prev_node == 27) then begin
-      if ((has_skill(dude_obj, SKILL_CONVERSANT) >= 50) and (dude_is_female) and (dude_charisma > 5)) then begin
+      if ((has_skill(dude_obj, SKILL_SPEECH) >= 50) and (dude_is_female) and (dude_charisma > 5)) then begin
          GOption(462, Node975, 006);
       end
    end

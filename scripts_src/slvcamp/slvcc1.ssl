@@ -173,7 +173,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SLAVER_CAMP_SLAVERS);
+   set_self_team(TEAM_SLAVER_CAMP_SLAVERS);
 end
 
 
@@ -311,14 +311,14 @@ procedure Node014 begin
 end
 
 procedure Node090 begin
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -15))) then
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, -15))) then
       call Node007;
    else
       call Node009;
 end
 
 procedure Node091 begin
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -25))) then
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, -25))) then
       call Node008;
    else
       call Node010;

@@ -147,8 +147,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_THE_DEN);
+         set_self_ai(AI_TOUGH_CITIZEN);
          set_local_var(LVAR_Home_Tile,self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
@@ -177,9 +177,9 @@ procedure critter_p_proc begin
    else if ((self_can_see_dude) and (hostile)) then begin
       self_attack_dude;
    end else if (self_tile != local_var(LVAR_Home_Tile) and drinks_this_conversation == 0) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation) and drinks_this_conversation == 0) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -210,7 +210,7 @@ procedure talk_p_proc begin
    CheckKarma;
    GetReaction;
    ReactToLevel; //added by killap
-   if ((hostile) or ( (has_rep_childkiller) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   if ((hostile) or ( (has_rep_childkiller) and (not(dude_perk(PERK_cult_of_personality))) ) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
       call Node015;
       //set_hostile; --comment out by killap
       //self_attack_dude; --comment out by killap
@@ -234,7 +234,7 @@ procedure talk_p_proc begin
 end
 
 procedure destroy_p_proc begin
-   item_caps_adjust(self_obj, 200 + random(3, 11));
+   self_caps_adjust(200 + random(3, 11));
    give_pid_qty(self_obj, PID_BOOZE, random(2, 5))
    inc_good_critter
    set_rebecca_dead;
@@ -267,7 +267,7 @@ end
 
 procedure Node990 begin
    inc_becky_drinks;
-   item_caps_adjust(dude_obj, -5);
+   dude_caps_adjust(-5);
    drinks_this_conversation += 1; //added by killap
    //use_obj_on_obj(create_object(PID_BOOZE,0,0), dude_obj); -- comment out by killap
    call Node007;
@@ -295,7 +295,7 @@ procedure Node986 begin
    call Node012;
 end
 procedure Node985 begin
-   item_caps_adjust(dude_obj, 1000);
+   dude_caps_adjust(1000);
 end
 
 procedure Node001 begin
@@ -394,7 +394,7 @@ procedure Node007 begin
    prev_node := 7;
 end
 procedure Node008 begin
-   if ( (check_general_rep < 0) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   if ( (check_general_rep < 0) and (not(dude_perk(PERK_cult_of_personality))) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
       Reply(350);
    end else if (becky_job(state_becky_job_none)) then begin
       Reply(351 + told_collect);
@@ -447,7 +447,7 @@ end
 procedure Node011 begin
    off_becky_work;
    if (becky_job(state_becky_job_collect)) then begin
-      item_caps_adjust(dude_obj, -100);
+      dude_caps_adjust(-100);
       den_display_mstr(800);
       give_xp(EXP_REBECCA_COLLECT);
       inc_general_rep(REP_BONUS_RETURN_REBECCA_MONEY);
@@ -455,7 +455,7 @@ procedure Node011 begin
       set_becky_job(state_becky_job_collect_done); //added by killap
       Reply(400);
    end else begin
-      item_caps_adjust(dude_obj, 80);
+      dude_caps_adjust(80);
       den_display_mstr(900);
       give_xp(EXP_REBECCA_BOOK);
       set_becky_job(state_becky_job_no_jobs);
@@ -518,7 +518,7 @@ procedure Node019 begin
 end
 procedure Node020 begin
    Reply(490);
-   item_caps_adjust(dude_obj, 1000);
+   dude_caps_adjust(1000);
    give_pid_qty(dude_obj, PID_10MM_SMG, 1)
    give_pid_qty(dude_obj, PID_10MM_JHP, 5)
    give_pid_qty(dude_obj, PID_STIMPAK, 5)

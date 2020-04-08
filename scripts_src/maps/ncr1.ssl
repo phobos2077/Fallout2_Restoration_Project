@@ -108,7 +108,7 @@ procedure map_enter_p_proc begin
        inc_map_var(MVAR_Made_Payoff);
        Critter:=create_object_sid(PID_AGILE_GUARD_MALE,0,0,SCRIPT_RCNORD);
        critter_attempt_placement(Critter,12115,0); //was 10913 - killap (expansion)
-       animate_rotation(2); //added by killap (expansion)
+       self_rotate(2); //added by killap (expansion)
    end
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
 end

@@ -122,8 +122,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_WRIGHT);
+         set_self_ai(AI_TOUGH_GUARD);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
@@ -205,7 +205,7 @@ end
 procedure Node999 begin
 end
 procedure Node990 begin
-   if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( (has_rep_berserker) or (has_rep_childkiller) or (check_general_rep < -100)) ) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ( (not(dude_perk(PERK_cult_of_personality))) and ( (has_rep_berserker) or (has_rep_childkiller) or (check_general_rep < -100)) ) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
       call Node013;
    end else begin
       call Node012;
@@ -219,14 +219,14 @@ procedure Node989 begin
    end
 end
 procedure Node988 begin
-   if ((bad_critter_reaction) and (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0)) == false)) then begin
+   if ((bad_critter_reaction) and (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0)) == false)) then begin
       call Node023;
    end else begin
       call Node022;
    end
 end
 procedure Node987 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node023;
    end else begin
       call Node024;

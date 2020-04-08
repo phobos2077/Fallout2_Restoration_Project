@@ -113,7 +113,7 @@ procedure timed_event_p_proc begin
       if( not( combat_is_initialized ) ) then begin
          //animate_move_to_tile(tile_num_in_direction(dude_tile, (has_trait(TRAIT_OBJECT,dude_obj,OBJECT_CUR_ROT)), 3));
          //animate_move_obj_to_tile(dude_obj, 31106, ANIMATE_RUN);
-         animate_move_obj_to_tile(dude_obj, (tile_num_in_direction(dude_tile, (has_trait(TRAIT_OBJECT,dude_obj,OBJECT_CUR_ROT)), 3)), ANIMATE_RUN);
+         dude_run_to_tile((tile_num_in_direction(dude_tile, (dude_cur_rot), 3)));
       end
    end
 end

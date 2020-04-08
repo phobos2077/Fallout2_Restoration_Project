@@ -32,8 +32,8 @@ procedure timed_event_p_proc;
 
 procedure start begin
    if not self_obj then return;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SPORE_PLANT);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SPORE_PLANT);
+   set_self_team(TEAM_RND_SPORE_PLANT);
+   set_self_ai(AI_SPORE_PLANT);
 end
 
 procedure critter_p_proc begin

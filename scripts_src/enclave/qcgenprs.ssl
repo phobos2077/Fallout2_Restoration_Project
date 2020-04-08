@@ -35,7 +35,7 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 
-#define Villager                (tile_in_tile_rect(24710,24662,27310,27262,tile_num(self_obj)))
+#define Villager                (tile_in_tile_rect(24710,24662,27310,27262,self_tile))
 
 /* Standard Script Procedures */
 procedure start;
@@ -88,8 +88,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_PEASANT);
 
    rm_timer_event(self_obj);
    add_timer_event(self_obj,game_ticks(random(40,60)),1);
@@ -105,7 +105,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -121,7 +121,7 @@ procedure timed_event_p_proc begin
    end
 
    else if (fixed_param == 2) then begin
-       animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(2,5)));
+       self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(2,5)));
        add_timer_event(self_obj,random(20,40)*ONE_GAME_SECOND,1);
    end
 end
@@ -166,7 +166,7 @@ procedure talk_p_proc begin
                floater(random(128,134));
            else
                //floater(mstr(random(135,137))+obj_name(dude_obj)+"!");
-               float_msg(self_obj,mstr(random(135,137))+obj_name(dude_obj)+"!",FLOAT_COLOR_NORMAL); //edit by killap
+               float_msg(self_obj,mstr(random(135,137))+dude_name+"!",FLOAT_COLOR_NORMAL); //edit by killap
        end
        else
            floater(random(116,127));

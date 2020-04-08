@@ -113,8 +113,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+         set_self_team(TEAM_NEW_RENO_MORDINO);
+         set_self_ai(AI_COWARD);
       end
       if ((myron_left_stables) or (critter_is_fleeing(self_obj))) then begin
          check_set_obj_visiblility(self_obj,false);
@@ -257,7 +257,7 @@ end
 procedure Node009 begin
    Reply(315);
    NOption(316, Node010, 005);
-   if ((dude_charisma > 6) or (has_skill(dude_obj,SKILL_CONVERSANT) > 65) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 6) or (has_skill(dude_obj,SKILL_SPEECH) > 65) or (dude_smooth_talker)) then begin
       NOption(317, Node990, 004);
    end
    NOption(318, Node999, 004);
@@ -312,7 +312,7 @@ end
 procedure Node018 begin
    set_know_myron_whores;
    Reply(405);
-   if ((obj_is_carrying_obj_pid(self_obj, id_badge_pid) > 0) and (gave_ident == false)) then begin
+   if ((self_item_count(id_badge_pid) > 0) and (gave_ident == false)) then begin
       NOption(406, Node019, 004);
    end
    NOption(407, Node999, 004);
@@ -332,7 +332,7 @@ procedure Node020 begin
 end
 procedure Node021 begin
    Reply(435);
-   if ((dude_charisma > 6) or (has_skill(dude_obj,SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 6) or (has_skill(dude_obj,SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
       NOption(436, Node022, 004);
    end
    NOption(437, Node999, 004);

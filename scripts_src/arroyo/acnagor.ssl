@@ -112,8 +112,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_ARROYO_VILLAGER);
 end
 
 
@@ -126,25 +126,25 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
-   if ( (REP_ENEMY_ARROYO) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin //added and (obj_can_see_obj(self_obj,dude_obj)) by killap
+   if ( (REP_ENEMY_ARROYO) and (self_can_see_dude) ) then begin //added and (self_can_see_dude) by killap
        attack(dude_obj);
    end
 
    if (global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF) then begin
-       animate_run_to_tile(RUNNING_TILE);
+       self_run_to_tile(RUNNING_TILE);
    end
 
-   if (tile_num(self_obj) == RUNNING_TILE) then begin
-       set_obj_visibility(self_obj,1);          // go invis
+   if (self_tile == RUNNING_TILE) then begin
+       set_self_invisible;          // go invis
        move_to(self_obj,5000,2);
    end
 
-   Nagor_Tile:=tile_num(self_obj);
+   Nagor_Tile:=self_tile;
 
 end
 

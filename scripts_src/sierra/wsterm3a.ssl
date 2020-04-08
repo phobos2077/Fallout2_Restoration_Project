@@ -73,7 +73,7 @@ procedure use_p_proc begin
        display_msg(mstr(300));
    end
 
-   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   else if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
        end
@@ -109,7 +109,7 @@ procedure Node001 begin
 
    NOption(109,Node010,004);
    NOption(110,Node011,004);
-   NOption(mstr(111)+obj_name(dude_obj)+".",Node012,004); // edit by killap - added "."
+   NOption(mstr(111)+dude_name+".",Node012,004); // edit by killap - added "."
 end
 
 procedure Node002 begin
@@ -122,7 +122,7 @@ procedure Node010 begin
    Reply(mstr(119)+mstr(120));
 
    NOption(121,Node011,004);
-   NOption( mstr(122) + obj_name(dude_obj) + '.',Node012,004);
+   NOption( mstr(122) + dude_name + '.',Node012,004);
    NOption(123,Node013,004);
    NOption(124,Node999,004);
 end
@@ -143,7 +143,7 @@ end
 procedure Node012 begin
    set_map_var(MVAR_Security_Level_3,0);
 
-   if (get_critter_stat(dude_obj,STAT_gender) == GENDER_FEMALE) then
+   if (dude_is_female) then
        Reply(mstr(131));
    else
        Reply(135);

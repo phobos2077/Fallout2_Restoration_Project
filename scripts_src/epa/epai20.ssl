@@ -27,10 +27,10 @@ procedure use_p_proc begin
   set_global_var(GVAR_EPA_SERVICE_ELEVATOR, 1);
   if (global_var(GVAR_PASSWORD_KNOWN) == 0) then begin
     script_overrides;
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   end else if (global_var(GVAR_PASSWORD_KNOWN) == 1) then begin
-    float_msg(dude_obj, message_str(NAME, 102), FLOAT_MSG_YELLOW);
-    display_msg(message_str(NAME, 101));
+    float_msg(dude_obj, mstr(102), FLOAT_MSG_YELLOW);
+    display_msg(mstr(101));
     set_global_var(GVAR_PASSWORD_KNOWN,2);
   end
 end

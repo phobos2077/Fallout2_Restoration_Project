@@ -109,7 +109,7 @@ procedure use_p_proc begin
        display_msg(message_str(SCRIPT_WSTERM1A,300)); //was SCRIPT_WSTERM1B - killap
    end
 
-   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   else if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(message_str(SCRIPT_WSTERM1B,102));
        end
@@ -277,7 +277,7 @@ end
 procedure Node014 begin
    if (local_var(LVAR_Gave_Xp) == 0) then begin
        set_local_var(LVAR_Gave_Xp,1);
-       display_msg(message_str(SCRIPT_GENERIC,1004));
+       display_msg(g_mstr(1004));
        give_xp(EXP_HACK_SIERRA_COMPUTER_1B);
    end
 

@@ -145,8 +145,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_WESTIN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR_WESTIN);
+   set_self_ai(AI_TOUGH_GUARD);
    set_local_var(LVAR_Turn_Field_Off,0); //added by killap
    if (global_var(GVAR_NCR_GRANT_HOSTILE) == 5) then begin
       destroy_object(self_obj);
@@ -164,7 +164,7 @@ procedure map_enter_p_proc begin
       //if (not is_loading_game) then begin
          if (self_tile != starttile) then begin
             move_to(self_obj, starttile, 0);
-            animate_rotation(startrot); // Seraph's Fix: animate_rotation always affects self_obj and only takes 1 arg. Thanks Rob!
+            self_rotate(startrot); // Seraph's Fix: animate_rotation always affects self_obj and only takes 1 arg. Thanks Rob!
          end
       //end
    end
@@ -185,7 +185,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_NCR_GRANT_HOSTILE) != 0 or ncr_flag(NCR_WESTIN_ENEMY)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_NCR_GRANT_HOSTILE) != 0 or ncr_flag(NCR_WESTIN_ENEMY)) and (self_can_see_dude)) then begin
        set_global_var(GVAR_NCR_GRANT_HOSTILE, 1);
        self_attack_dude;
    end
@@ -195,7 +195,7 @@ procedure critter_p_proc begin
 
    if (cur_map_index == MAP_NCR_DOWNTOWN) then begin
       if (global_var(GVAR_NCR_WFIELD_NOTIFY) == 4 or global_var(GVAR_NCR_POWER_ON) != POWER_ON) then begin
-         if (obj_can_see_obj(self_obj, dude_obj) and tile_distance_objs(self_obj, dude_obj) <= 5) then begin
+         if (self_can_see_dude and tile_distance_objs(self_obj, dude_obj) <= 5) then begin
             if (not ncr_flag(NCR_GRANT_ACCESS) and not local_var(LVAR_Warned)) then begin
                set_local_var(LVAR_Warned, 1);
                reg_anim_clear(dude_obj);
@@ -204,7 +204,7 @@ procedure critter_p_proc begin
          end
       end
    end else begin
-      if (not ncr_flag(NCR_GRANT_ACCESS) and obj_can_see_obj(self_obj, dude_obj)) then
+      if (not ncr_flag(NCR_GRANT_ACCESS) and self_can_see_dude) then
          set_global_var(GVAR_NCR_GRANT_HOSTILE, 2);
    end
 end
@@ -338,11 +338,11 @@ procedure Node001 begin
       end else begin
          Reply(103);
          NLowOption(104, Node002); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
-         if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (obj_is_carrying_obj_pid(dude_obj, PID_BISHOPS_HOLODISK))) then
+         if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (dude_item_count(PID_BISHOPS_HOLODISK))) then
             NLowOption(139, Node008);
          NLowOption(105, Node999); // Seraph's Fix: NLowOption only takes 2 args. Thanks Rob!
          NOption(106, Node002, 4);
-         if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (obj_is_carrying_obj_pid(dude_obj, PID_BISHOPS_HOLODISK))) then
+         if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (dude_item_count(PID_BISHOPS_HOLODISK))) then
             NOption(140, Node008, 4);
          NOption(107, Node999, 4);
       end
@@ -367,14 +367,14 @@ procedure Node003 begin
    Reply(118);
    if (get_felix_seed(FELIX_DUMONT_REF)) then
       NLowOption(119, Node004);
-   if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (obj_is_carrying_obj_pid(dude_obj, PID_BISHOPS_HOLODISK))) then
+   if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (dude_item_count(PID_BISHOPS_HOLODISK))) then
       NLowOption(139, Node008);
    NLowOption(120, Node005);
    NLowOption(121, Node006);
    NLowOption(122, Node999);
    if (get_felix_seed(FELIX_DUMONT_REF)) then
       NOption(123, Node004, 4);
-   if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (obj_is_carrying_obj_pid(dude_obj, PID_BISHOPS_HOLODISK))) then
+   if ((global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED) and (dude_item_count(PID_BISHOPS_HOLODISK))) then
       NOption(140, Node008, 4);
    NOption(124, Node005, 4);
    NOption(125, Node999, 4);
@@ -423,7 +423,7 @@ procedure FieldOff begin
 
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(tile);
+      self_walk_to_tile(tile);
       reg_anim_end();
 
       add_timer_event(self_obj, 4, TIMER_WALK);
@@ -449,15 +449,15 @@ procedure Walk begin
          end
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(starttile);
-         animate_rotation(startrot); //added by killap
+         self_walk_to_tile(starttile);
+         self_rotate(startrot); //added by killap
          reg_anim_end();
          set_local_var(LVAR_Turn_Field_Off, 0);
       end else begin
          if (not anim_busy(self_obj)) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tile);
+            self_walk_to_tile(tile);
             reg_anim_end();
          end
       end
@@ -467,8 +467,8 @@ procedure Walk begin
          if (not anim_busy(self_obj)) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(starttile);
-            animate_rotation(startrot); //added by killap
+            self_walk_to_tile(starttile);
+            self_rotate(startrot); //added by killap
             reg_anim_end();
          end
          add_timer_event(self_obj, 4, TIMER_WALK);
@@ -477,7 +477,7 @@ procedure Walk begin
 end
 
 procedure checkNotify begin
-   if (obj_can_see_obj(self_obj, dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (global_var(GVAR_NCR_WFIELD_NOTIFY) == 3) then begin
          set_global_var(GVAR_NCR_WFIELD_NOTIFY, 0);
          float_msg(self_obj, mstr(134), FLOAT_MSG_RED);

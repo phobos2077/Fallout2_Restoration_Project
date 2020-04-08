@@ -48,12 +48,12 @@ variable manson_hex;
 variable Damage_Timer_Started := 0;
 variable damage;
 
-#define wearing_protective_gear(x)  ( ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_POWERED_ARMOR ) or \
-                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_HARDENED_POWER_ARMOR ) or \
-                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR ) or \
-                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) or \
-                                      ( obj_pid( critter_inven_obj( x, INVEN_TYPE_WORN ) ) == PID_ENVIRONMENTAL_ARMOUR ) or \
-                                      ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_RIGHT_HAND)) == PID_GAS_MASK) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_LEFT_HAND)) == PID_GAS_MASK)) )
+#define wearing_protective_gear(x)  ( ( obj_pid( get_armor( x) ) == PID_POWERED_ARMOR ) or \
+                                      ( obj_pid( get_armor( x) ) == PID_HARDENED_POWER_ARMOR ) or \
+                                      ( obj_pid( get_armor( x) ) == PID_ADVANCED_POWER_ARMOR ) or \
+                                      ( obj_pid( get_armor( x) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) or \
+                                      ( obj_pid( get_armor( x) ) == PID_ENVIRONMENTAL_ARMOUR ) or \
+                                      ((obj_pid(dude_right_hand) == PID_GAS_MASK) or (obj_pid(dude_left_hand) == PID_GAS_MASK)) )
 
 #define apply_radon_damage(x)    damage := random( 10, 15 ); \
                                  critter_dmg( x, damage, ( DMG_normal_dam BWOR DMG_NOANIMATE BWOR DMG_BYPASS_ARMOR ));
@@ -85,7 +85,7 @@ procedure map_enter_p_proc begin
       set_global_var(GVAR_JAIL_BREAK, JB_OVER);
    end
 
-   if( elevation( dude_obj ) == 0 ) then
+   if( dude_elevation == 0) then
       Lighting;
    else
       Cavern_Lighting;
@@ -100,7 +100,7 @@ end
 procedure map_update_p_proc begin
    //set_map_var( MVAR_Came_From_Broken2, 1 ); - comment out by killap
 
-   if( elevation( dude_obj ) == 0 ) then
+   if( dude_elevation == 0) then
       Lighting;
    else
       Cavern_Lighting;
@@ -135,7 +135,7 @@ procedure timed_event_p_proc begin
    end
    else if( fixed_param == 2 ) then begin
       if( global_var(GVAR_BH_MINE) < MINE_FIXED_CASH ) then begin
-         if( elevation( dude_obj ) == 2 ) then
+         if( dude_elevation == 2) then
             call CauseDamage;
          add_timer_event( self_obj, game_ticks(20), 2);
       end

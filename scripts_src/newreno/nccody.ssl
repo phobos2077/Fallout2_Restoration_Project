@@ -164,8 +164,8 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_CODY);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_CHILD);
+         set_self_team(TEAM_NEW_RENO_CODY);
+         set_self_ai(AI_CHILD);
       end else if (cody_fingered_jules) then begin
          move_cody_home;
          if ((jules_warned == false) and (jules_dead == false)) then begin
@@ -193,7 +193,7 @@ procedure critter_p_proc begin
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
       anim_move_to_point(local_var(LVAR_Home_Tile))
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -217,7 +217,7 @@ procedure talk_p_proc begin
       start_dialog_at_node(Node016);
    end else if ((dude_wearing_power_armor) or (has_rep_slaver)) then begin
       start_dialog_at_node(Node012);
-   end else if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ((check_general_rep < -100) or (has_rep_childkiller))) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   end else if ( (not(dude_perk(PERK_cult_of_personality))) and ((check_general_rep < -100) or (has_rep_childkiller))) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
       start_dialog_at_node(Node013);
    end else if (marcus_is_dude_companion) then begin
       start_dialog_at_node(Node014);
@@ -281,7 +281,7 @@ procedure Node986 begin
 end
 procedure Node985 begin
    set_iguana_karma;
-   if (obj_is_carrying_obj_pid(self_obj, PID_MEAT_ON_A_STICK) > 0) then begin
+   if (self_item_count(PID_MEAT_ON_A_STICK) > 0) then begin
       remove_pid_qty(dude_obj, PID_MEAT_ON_A_STICK, 1)
    end else begin
       remove_pid_qty(dude_obj, PID_IGUANA_ON_A_STICK, 1)
@@ -327,7 +327,7 @@ end
 procedure Node003 begin
    if (Fallout2_enclave_destroyed) then begin
       Reply(220);
-      if ( ( (check_general_rep < -100) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) or (has_rep_childkiller)) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      if ( ( (check_general_rep < -100) and (not(dude_perk(PERK_cult_of_personality))) ) or (has_rep_childkiller)) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
          BOption(223, Node990, -003);
          BOption(225, Node990, 004);
       end
@@ -357,7 +357,7 @@ end
 procedure Node005 begin
 variable has_item := false;
    Reply(230);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_NUKA_COLA) > 0) then begin
+   if (dude_item_count(PID_NUKA_COLA) > 0) then begin
       has_item := true;
       GOption(251, Node989, 004);
    end
@@ -365,11 +365,11 @@ variable has_item := false;
       has_item := true;
       NOption(252, Node003, 004);
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_JET) > 0) then begin
+   if (dude_item_count(PID_JET) > 0) then begin
       has_item := true;
       BOption(mstr(253 + dude_is_female) + dude_name + mstr(1254), Node988, 004);
    end
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_BUFFOUT) + obj_is_carrying_obj_pid(dude_obj, PID_PSYCHO)) > 0) then begin
+   if ((dude_item_count(PID_BUFFOUT) + dude_item_count(PID_PSYCHO)) > 0) then begin
       has_item := true;
       BOption(255, Node987, 004);
    end
@@ -381,23 +381,23 @@ end
 procedure Node006 begin
 variable has_item := false;
    Reply(230);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_MUTATED_FRUIT) > 0) then begin
+   if (dude_item_count(PID_MUTATED_FRUIT) > 0) then begin
       has_item := true;
       GOption(261, Node986, 004);
    end
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_IGUANA_ON_A_STICK) + obj_is_carrying_obj_pid(dude_obj, PID_MEAT_ON_A_STICK)) > 0) then begin
+   if ((dude_item_count(PID_IGUANA_ON_A_STICK) + dude_item_count(PID_MEAT_ON_A_STICK)) > 0) then begin
       has_item := true;
       GOption(262, Node985, 004);
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_MEAT_JERKY) > 0) then begin
+   if (dude_item_count(PID_MEAT_JERKY) > 0) then begin
       has_item := true;
       GOption(263, Node984, 004);
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_JET) > 0) then begin
+   if (dude_item_count(PID_JET) > 0) then begin
       has_item := true;
       BOption(mstr(253 + dude_is_female) + dude_name + mstr(1254), Node988, 004);
    end
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_BUFFOUT) + obj_is_carrying_obj_pid(dude_obj, PID_PSYCHO)) > 0) then begin
+   if ((dude_item_count(PID_BUFFOUT) + dude_item_count(PID_PSYCHO)) > 0) then begin
       has_item := true;
       BOption(255, Node987, 004);
    end
@@ -506,7 +506,7 @@ procedure Node018 begin
    NOption(382, Node019, 004);
 end
 procedure Node019 begin
-   if ( ( (check_general_rep < 0) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) or (has_rep_childkiller)) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ( ( (check_general_rep < 0) and (not(dude_perk(PERK_cult_of_personality))) ) or (has_rep_childkiller)) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
       Reply(391);
       BOption(393, Node003, -003);
       BOption(395, Node003, 004);

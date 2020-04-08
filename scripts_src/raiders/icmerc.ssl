@@ -67,9 +67,9 @@ procedure timed_event_p_proc begin
    if (fixed_param == patrol_param) then begin
       if (combat_is_initialized == false) then begin
          if (self_tile != local_var(LVAR_Home_Tile)) then begin
-            animate_move_to_tile(local_var(LVAR_Home_Tile));
+            self_walk_to_tile(local_var(LVAR_Home_Tile));
          end else begin
-            animate_move_to_tile(tile_num_in_direction(self_tile, local_var(LVAR_Home_Rot), random(3, 5)));
+            self_walk_to_tile(tile_num_in_direction(self_tile, local_var(LVAR_Home_Rot), random(3, 5)));
          end
       end
       raider_add_timer_event_rand(self_obj, 15, 45, patrol_param);
@@ -104,8 +104,8 @@ procedure map_enter_p_proc begin
          inc_raiders_counter;
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rot, self_cur_rot);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RAIDERS);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_MERC_RAIDER);
+         set_self_team(TEAM_RAIDERS);
+         set_self_ai(AI_MERC_RAIDER);
       end
       raider_add_timer_event_rand(self_obj, 20, 35, float_param);
       raider_add_timer_event_rand(self_obj, 5, 45, patrol_param);
@@ -131,17 +131,17 @@ procedure critter_p_proc begin
          if (attempt_alarm == false) then begin
             set_attempt_alarm;
             if ((self_perception*2) >= tile_distance(self_tile, safe_tile)) then begin
-               animate_move_to_tile(tile_num_in_direction(safe_tile, rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)), random(1, 3)));
+               self_walk_to_tile(tile_num_in_direction(safe_tile, rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)), random(1, 3)));
             end
          end
       end else begin
          off_attempt_alarm;
          if (self_tile == local_var(LVAR_Home_Tile)) then begin
             if (self_cur_rot != local_var(LVAR_Home_Rot)) then begin
-               animate_rotation(local_var(LVAR_Home_Rot));
+               self_rotate(local_var(LVAR_Home_Rot));
             end
          end else begin
-            animate_rotation(rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)));
+            self_rotate(rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)));
          end
       end
    end

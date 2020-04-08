@@ -148,8 +148,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_GENERIC_GUARDS);
 end
 
 
@@ -162,11 +162,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -651,7 +651,7 @@ end
 procedure Node040 begin
    Reply(251);
 
-   if (not(obj_is_carrying_obj_pid(dude_obj,PID_EXCAVATOR_CHIP))) then begin
+   if (not(dude_item_count(PID_EXCAVATOR_CHIP))) then begin
        GOption(252,Node041,004);
        NOption(255,Node999,004);
    end
@@ -664,7 +664,7 @@ end
 procedure Node040a begin
    variable item;
 
-   item_caps_adjust(dude_obj,1000);
+   dude_caps_adjust(1000);
    display_msg(g_mstr(1007));
    give_xp(EXP_DELIVERED_DAN_CHIP);
 
@@ -673,7 +673,7 @@ procedure Node040a begin
    //add_obj_to_inven(self_obj,item);
 
    //added by killap
-   item:=obj_carrying_pid_obj(dude_obj,PID_EXCAVATOR_CHIP);
+   item:=dude_item(PID_EXCAVATOR_CHIP);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
    //end added
@@ -737,7 +737,7 @@ procedure Node047 begin
 end
 
 procedure Node048 begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-20)) then
        Reply(279);
    else
        Reply(280);

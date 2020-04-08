@@ -77,7 +77,7 @@ end
 
 procedure map_enter_p_proc begin
    if (local_var(LVAR_Term_Num) == 0) then begin
-       set_local_var(LVAR_Term_Num,tile_num(self_obj));
+       set_local_var(LVAR_Term_Num,self_tile);
    end
 
    if (local_var(LVAR_Special_Num) == 0) then begin
@@ -90,7 +90,7 @@ procedure map_enter_p_proc begin
        end
    end
 
-   if ((tile_num(self_obj) == TERM_1) and (map_var(MVAR_Electric_Floor) == FLOOR_ACTIVE) and (not(is_loading_game))) then begin
+   if ((self_tile == TERM_1) and (map_var(MVAR_Electric_Floor) == FLOOR_ACTIVE) and (not(is_loading_game))) then begin
 /*       display_msg(mstr(120));
        if (In_Trap_Room(dude_obj)) then begin
            critter_dmg(dude_obj,random(DMG_LOW,DMG_HIGH),DMG_electrical);
@@ -174,7 +174,7 @@ procedure use_skill_on_p_proc begin
                call Egg_Traps;
            end
 
-           else if ((has_skill(dude_obj,SKILL_CONVERSANT) > 99) and (is_skill_tagged(SKILL_CONVERSANT))) then begin
+           else if ((has_skill(dude_obj,SKILL_SPEECH) > 99) and (is_skill_tagged(SKILL_SPEECH))) then begin
                script_overrides;
                display_msg(mstr(110));
                call Egg_Conversant;
@@ -189,23 +189,23 @@ procedure use_p_proc begin
 
    display_msg(mstr(102));
 
-   if (tile_num(self_obj) == TERM_1) then
+   if (self_tile == TERM_1) then
        call Term1;
-   else if (tile_num(self_obj) == TERM_2) then
+   else if (self_tile == TERM_2) then
        call Term2;
-   else if (tile_num(self_obj) == TERM_3) then
+   else if (self_tile == TERM_3) then
        call Term3;
-   else if (tile_num(self_obj) == TERM_4) then
+   else if (self_tile == TERM_4) then
        call Term4;
-   else if (tile_num(self_obj) == TERM_5) then
+   else if (self_tile == TERM_5) then
        call Term5;
-   else if (tile_num(self_obj) == TERM_6) then
+   else if (self_tile == TERM_6) then
        call Term6;
-   else if (tile_num(self_obj) == TERM_7) then
+   else if (self_tile == TERM_7) then
        call Term7;
-   else if (tile_num(self_obj) == TERM_8) then
+   else if (self_tile == TERM_8) then
        call Term8;
-   else if (tile_num(self_obj) == TERM_9) then
+   else if (self_tile == TERM_9) then
        call Term9;
 end
 
@@ -225,44 +225,44 @@ procedure Term1 begin
 
    ndebug("Terminal 1 Used");
 
-   if (tile_contains_obj_pid(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 1s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 2s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 7e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_1E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 1e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_2E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 2e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -274,58 +274,58 @@ procedure Term2 begin
 
    ndebug("Terminal 2 Used");
 
-   if (tile_contains_obj_pid(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_1E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 1e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_2E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 7e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_2E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 2e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2N,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 2n");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2N,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 6e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_8S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 8s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_8S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -337,51 +337,51 @@ procedure Term3 begin
    ndebug("Terminal 3 Used");
 
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 4s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 6e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 4e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -392,72 +392,72 @@ procedure Term4 begin
 
    ndebug("Terminal 4 Used");
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 5e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 6e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 2s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 1s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 4s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 5s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 6s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -468,44 +468,44 @@ procedure Term5 begin
 
    ndebug("Terminal 5 Used");
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 5e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 2s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 1s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 4e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -516,66 +516,66 @@ procedure Term6 begin
 
    ndebug("Terminal 6 Used");
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 5e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 2s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 6e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 4e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
 
-   if (tile_contains_obj_pid(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 4s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 5s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 6s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -586,44 +586,44 @@ procedure Term7 begin
 
    ndebug("Terminal 7 Used");
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 5s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 7e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 2s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 1s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 5e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -634,51 +634,51 @@ procedure Term8 begin
 
    ndebug("Terminal 8 Used");
 
-   if (tile_contains_obj_pid(DOOR_8E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_8E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 8e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_8E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_8E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 6s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 6e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Close Door 5s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 5e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Close Door 7e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_close(Door_Ptr);
        obj_lock(Door_Ptr);
    end
@@ -689,30 +689,30 @@ procedure Term9 begin
 
    ndebug("Terminal 9 Used");
 
-   if (tile_contains_obj_pid(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2N,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 2n");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2N,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_8S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 8s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_8S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 6e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
@@ -725,114 +725,114 @@ procedure Egg_Science begin
 
    ndebug("Launched Science Easter Egg!");
 
-   if (tile_contains_obj_pid(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_1E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 1e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 1s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_1S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2N,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 2n");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2N,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2N,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_2E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 2e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 2s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_2S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 3s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_3S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 4s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 4w");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_4W,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 5e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 5s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_5S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 6e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 6s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_6S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 7e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_7E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_8E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
+   if (tile_contains_obj_pid(DOOR_8E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS)) then begin
        ndebug("Open Door 8e");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_8E,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_NS);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_8E,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_NS);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
 
-   if (tile_contains_obj_pid(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
+   if (tile_contains_obj_pid(DOOR_8S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW)) then begin
        ndebug("Open Door 8s");
-       Door_Ptr:=tile_contains_pid_obj(DOOR_8S,elevation(self_obj),PID_ENCLAVE_PUZZLE_DOOR_EW);
+       Door_Ptr:=tile_contains_pid_obj(DOOR_8S,self_elevation,PID_ENCLAVE_PUZZLE_DOOR_EW);
        obj_unlock(Door_Ptr);
        obj_open(Door_Ptr);
    end
@@ -869,7 +869,7 @@ procedure Egg_Gambling begin
    item:=create_object(PID_LOADED_DICE,0,0);
    add_obj_to_inven(dude_obj,item);
 
-   item_caps_adjust(dude_obj,random(2000,5000));
+   dude_caps_adjust(random(2000,5000));
 end
 
 procedure Egg_Throwing begin

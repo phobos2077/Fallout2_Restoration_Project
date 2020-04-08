@@ -34,8 +34,8 @@ end
 procedure map_enter_p_proc begin
    variable item;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_MOONSHINER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT);
+   set_self_team(TEAM_RND_MOONSHINER);
+   set_self_ai(AI_ADDICT);
    add_timer_event(self_obj,game_ticks(random(10,30)),1);
 
    if (map_first_run) then begin

@@ -194,8 +194,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_MORDINO);
+         set_self_ai(AI_TOUGH_GUARD);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
@@ -338,7 +338,7 @@ end
 procedure Node999 begin
 end
 procedure Node990 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-20))) then begin
       if ((dude_has_power_armor) or (dude_wearing_combat_armor) or ((dude_is_male) and (dude_strength > 5))) then begin
          call Node018;
       end else begin
@@ -356,14 +356,14 @@ procedure Node989 begin
    end
 end
 procedure Node988 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-20))) then begin
       call Node018;
    end else begin
       call Node009;
    end
 end
 procedure Node987 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,10))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,10))) then begin
       call Node018;
    end else begin
       call Node009;
@@ -650,7 +650,7 @@ end
 procedure Node016 begin
    set_sold_slave;
    inc_general_rep(REP_BONUS_SELL_SLAVE);
-   item_caps_adjust(dude_obj, slave_price);
+   dude_caps_adjust(slave_price);
 
    if (Miria_In_Party) then begin
 //      remove_party(410, Miria_Ptr);  //killap comment out
@@ -813,7 +813,7 @@ procedure Node022 begin
    prev_node := 22;
 end
 procedure Node023 begin
-   item_caps_adjust(dude_obj, 100);
+   dude_caps_adjust(100);
    set_delivery(delivery_done);
    Reply(490);
    NOption(491, Node981, 004);
@@ -891,7 +891,7 @@ procedure Node031 begin
    give_xp(EXP_NEW_RENO_COR_BRO_EXTORTION);
    inc_reno_rep(REP_NEW_RENO_BIG_JESUS_TRIBUTE);
    set_extortion_bros(extortion_bros_done);
-   item_caps_adjust(dude_obj, -125);
+   dude_caps_adjust(-125);
    Reply(570);
    NOption(571, Node980, 004);
    if (dude_charisma > 5) then begin
@@ -1008,7 +1008,7 @@ procedure Node041 begin
    end else begin
       Reply(680);
    end
-   item_caps_adjust(dude_obj, 500);
+   dude_caps_adjust(500);
    NOption(681, Node979, 004);
    BOption(682, Node978, 004);
 end

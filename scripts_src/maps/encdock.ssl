@@ -46,7 +46,7 @@ end
 procedure map_enter_p_proc begin
 //Added by Chris Holland
    if (global_var(GVAR_LOAD_MAP_INDEX) == 10) then begin
-     set_obj_visibility(dude_obj, 0);
+     set_obj_visible(dude_obj);
      fadein(500);
 //Added by Chris Holland
    //added by killap - expansion: vertibird pad

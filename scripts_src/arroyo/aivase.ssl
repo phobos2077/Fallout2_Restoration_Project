@@ -73,12 +73,12 @@ end
 procedure map_enter_p_proc begin
    /*if (local_var(LVAR_Placed_Money) == 0) then begin
        set_local_var(LVAR_Placed_Money,1);
-       item_caps_adjust(self_obj,100);
+       self_caps_adjust(100);
    end --comment out by killap; money already placed on the map itself*/
 end
 
 procedure map_update_p_proc begin
-   if ((item_caps_total(self_obj) < 100) and (local_var(LVAR_Lowered_Karma) == 0)) then begin
+   if ((self_caps < 100) and (local_var(LVAR_Lowered_Karma) == 0)) then begin
        display_msg(g_mstr(30000)); //added by killap - expansion
        set_local_var(LVAR_Lowered_Karma,1);
        inc_general_rep(REP_BONUS_ARROYO_MONEY_THEFT);

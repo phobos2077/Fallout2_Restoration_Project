@@ -363,7 +363,7 @@ end
 procedure playerStepBack begin
    reg_anim_clear(dude_obj);
    reg_anim_begin();
-   animate_move_to_tile(STANDTILE);
-   animate_rotation(5);
+   self_walk_to_tile(STANDTILE);
+   self_rotate(5);
    reg_anim_end();
 end

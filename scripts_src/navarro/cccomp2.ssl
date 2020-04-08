@@ -73,12 +73,12 @@ end
 
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if( not_alone ) then begin
          if( said_intruder == 0 ) then begin
             said_intruder:=1;
@@ -197,7 +197,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-10))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-10))) then begin
       set_map_var(MVAR_Snookie,1);
       Reply(119);
 

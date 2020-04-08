@@ -37,7 +37,7 @@ end
 procedure map_enter_p_proc begin
    variable gun;
    if (map_first_run) then begin
-      if not(obj_carrying_pid_obj(self_obj, PID_SOLAR_SCORCHER)) then begin
+      if not(self_item(PID_SOLAR_SCORCHER)) then begin
          gun:=create_object(PID_SOLAR_SCORCHER,0,0);
          add_obj_to_inven(self_obj,gun);
       end

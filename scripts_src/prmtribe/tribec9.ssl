@@ -195,14 +195,14 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
    if ( (global_var(GVAR_MISSING_WARRIOR) == 1) ) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
       if (local_var(LVAR_Do_Once) == 0) then begin
          set_local_var(LVAR_Do_Once,1);
 
          critter_injure(self_obj,DAM_CRIP_LEG_RIGHT);
-         critter_heal(self_obj,-((get_critter_stat(self_obj,STAT_max_hp))-1));
+         critter_heal(self_obj,-((get_max_hits(self_obj))-1));
 
          set_local_var(LVAR_Wounded_In_Cave,1);
 
@@ -222,7 +222,7 @@ procedure map_enter_p_proc begin
             reg_anim_animate(self_obj,ANIM_fall_back_sf,ANIMATE_FORWARD);
          reg_anim_end();
 
-         animate_rotation(3);
+         self_rotate(3);
 
          set_global_var(GVAR_MISSING_WARRIOR,5);
          set_local_var(LVAR_Time,game_time);
@@ -235,7 +235,7 @@ procedure map_enter_p_proc begin
 
          move_to(self_obj, 21890, 1);
 
-         animate_rotation(3);
+         self_rotate(3);
       end
    end
 
@@ -281,7 +281,7 @@ procedure talk_p_proc begin
    end else if (global_var(GVAR_MISSING_WARRIOR) == 4) then begin
       floater(300);
    end else if ( (global_var(GVAR_MISSING_WARRIOR) == 5) or (global_var(GVAR_MISSING_WARRIOR) == 6) ) then begin
-      float_msg(self_obj, message_str(NAME,random(500,501)), FLOAT_MSG_PURPLE);
+      float_msg(self_obj, mstr(random(500,501)), FLOAT_MSG_PURPLE);
    end else if (global_var(GVAR_MISSING_WARRIOR) == 7) then begin
       if (Fallout2_enclave_destroyed) then begin
          floater(random(1000,1001));

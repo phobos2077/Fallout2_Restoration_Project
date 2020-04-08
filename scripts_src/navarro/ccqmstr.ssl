@@ -73,12 +73,12 @@ end
 
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -195,14 +195,14 @@ procedure Node001 begin
       BOption(106,Node998,001);
    end
    else begin
-      if ( ( obj_pid( critter_inven_obj( dude_obj, INVEN_TYPE_WORN ) ) == PID_POWERED_ARMOR ) or
-           ( obj_pid( critter_inven_obj( dude_obj, INVEN_TYPE_WORN ) ) == PID_HARDENED_POWER_ARMOR ) ) then begin
+      if ( ( obj_pid( dude_armor ) == PID_POWERED_ARMOR ) or
+           ( obj_pid( dude_armor ) == PID_HARDENED_POWER_ARMOR ) ) then begin
          Reply(104);
 
          NOption(107,Node004,001);
       end
-      else if( ( obj_pid( critter_inven_obj( dude_obj, INVEN_TYPE_WORN ) ) != PID_ADVANCED_POWER_ARMOR ) and
-               ( obj_pid( critter_inven_obj( dude_obj, INVEN_TYPE_WORN ) ) != PID_ADVANCED_POWER_ARMOR_MK2 ) ) then begin
+      else if( ( obj_pid( dude_armor ) != PID_ADVANCED_POWER_ARMOR ) and
+               ( obj_pid( dude_armor ) != PID_ADVANCED_POWER_ARMOR_MK2 ) ) then begin
          Reply(105); //Not in poper uniform as where to go's should have caught this
 
          NLowOption(108,Node002);
@@ -256,8 +256,8 @@ end
 procedure Node007 begin
    //set_local_var( LVAR_Suited_Up, 1 );
    if( ( local_var( LVAR_Suited_Up ) == 0 ) and
-       ( obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR ) and
-       ( obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) != PID_ADVANCED_POWER_ARMOR_MK2 ) ) then begin
+       ( obj_pid(dude_armor) != PID_ADVANCED_POWER_ARMOR ) and
+       ( obj_pid(dude_armor) != PID_ADVANCED_POWER_ARMOR_MK2 ) ) then begin
       Reply(125);
 
       NOption(126,Node004,001);

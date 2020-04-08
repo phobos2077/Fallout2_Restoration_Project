@@ -64,11 +64,11 @@ procedure use_p_proc begin
       if (map_var(MVAR_Verti_Status) == 1) then begin
          set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
       end else if (map_var(MVAR_Verti_Status) == 0) then begin
-         if ( (obj_is_visible_flag(guard1_obj)) ) then begin
+         if ( (is_visible(guard1_obj)) ) then begin
             call Tamper_Proc1;
-         end else if ( (obj_is_visible_flag(guard2_obj)) ) then begin
+         end else if ( (is_visible(guard2_obj)) ) then begin
             call Tamper_Proc2;
-         end else if ( (obj_is_visible_flag(guard3_obj)) ) then begin
+         end else if ( (is_visible(guard3_obj)) ) then begin
             call Tamper_Proc3;
          end else begin
             set_map_var(MVAR_Verti_Status,2);
@@ -104,7 +104,7 @@ end
 
 procedure Node003 begin
    Reply(206);
-   if (obj_carrying_pid_obj(dude_obj, PID_YELLOW_REACTOR_KEYCARD)) then
+   if (dude_item(PID_YELLOW_REACTOR_KEYCARD)) then
       NOption(207,Node004,001);
    else
       NOption(208,Node999,001);
@@ -173,8 +173,8 @@ end
 
 procedure Node990 begin
    fadeout(500);
-   move_to(dude_obj, 17134, elevation(dude_obj));
-   set_obj_visibility(dude_obj, 1);
+   move_to(dude_obj, 17134, dude_elevation);
+   set_obj_invisible(dude_obj);
    give_xp(15000);
    game_time_advance(ONE_GAME_HOUR * 6);
    set_global_var(GVAR_CAME_ON_VERTIBIRD,1);

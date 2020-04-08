@@ -59,7 +59,7 @@ procedure map_enter_p_proc begin
       //end added
 
       if (local_var(LVAR_Restock_Time) < game_time) then begin
-         item_caps_adjust(self_obj, random(1,12) - self_caps);
+         self_caps_adjust(random(1,12) - self_caps);
          check_restock_item(PID_NUKA_COLA, 1, 1, 100)
          check_restock_item(PID_FLOWER, 1, 1, 100)
          set_local_var(LVAR_Restock_Time, (random(13,15) * ONE_GAME_DAY) + game_time);

@@ -78,7 +78,7 @@ procedure use_p_proc begin
    end
 
    else*/
-   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
        end
@@ -163,23 +163,23 @@ procedure Node011 begin
        gfade_out(600);
        gfade_in(600);
 
-       if (tile_contains_obj_pid(8908,elevation(self_obj),PID_BROKEN_BRAINBOT)) then begin
-           item:=tile_contains_pid_obj(8908,elevation(self_obj),PID_BROKEN_BRAINBOT);
+       if (tile_contains_obj_pid(8908,self_elevation,PID_BROKEN_BRAINBOT)) then begin
+           item:=tile_contains_pid_obj(8908,self_elevation,PID_BROKEN_BRAINBOT);
            destroy_object(item);
            if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then begin
-               critter:=create_object_sid(PID_BRAINBOT,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               critter:=create_object_sid(PID_BRAINBOT,8908,self_elevation,SCRIPT_WCBRNBOT);
                ndebug("Made Cybernetic Robobrain "+obj_pid(critter));
            end
            else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_HUMAN) then begin
-               critter:=create_object_sid(PID_ROBOBRAIN_HUMAN,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               critter:=create_object_sid(PID_ROBOBRAIN_HUMAN,8908,self_elevation,SCRIPT_WCBRNBOT);
                ndebug("Made Human Robobrain "+obj_pid(critter));
            end
            else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CHIMP) then begin
-               critter:=create_object_sid(PID_ROBOBRAIN_CHIMP,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               critter:=create_object_sid(PID_ROBOBRAIN_CHIMP,8908,self_elevation,SCRIPT_WCBRNBOT);
                ndebug("Made Chimp Robobrain "+obj_pid(critter));
            end
            else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_ABNORMAL) then begin
-               critter:=create_object_sid(PID_ROBOBRAIN_ABNORMAL,8908,elevation(self_obj),SCRIPT_WCBRNBOT);
+               critter:=create_object_sid(PID_ROBOBRAIN_ABNORMAL,8908,self_elevation,SCRIPT_WCBRNBOT);
                ndebug("Made Abnormal Robobrain "+obj_pid(critter));
            end
        end

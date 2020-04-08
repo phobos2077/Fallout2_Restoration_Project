@@ -110,8 +110,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRISONERS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_PRISONERS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -124,12 +124,12 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
-   if ((obj_can_see_obj(self_obj,dude_obj)) and (local_var(LVAR_In_Timed_Event) == 0)) then begin
+   if ((self_can_see_dude) and (local_var(LVAR_In_Timed_Event) == 0)) then begin
        inc_local_var(LVAR_In_Timed_Event);
        add_timer_event(self_obj,game_ticks(random(8,15)),1);
    end
@@ -308,7 +308,7 @@ procedure Node009 begin
 
    if (vault_13_visible_on_map) then
        NOption(148,Node010,004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_GECK)) then
+   if (dude_item_count(PID_GECK)) then
        NOption(149,Node010,004);
    else
        NOption(150,Node017,004);
@@ -318,7 +318,7 @@ procedure Node010 begin
    Reply(151);
 
    NOption(152,Node011,004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_GECK)) then
+   if (dude_item_count(PID_GECK)) then
        NOption(153,Node003,004);
 end
 
@@ -363,7 +363,7 @@ procedure Node015 begin
 
    Reply(167);
 
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_DYNAMITE)) or (obj_is_carrying_obj_pid(dude_obj,PID_PLASTIC_EXPLOSIVES))) then begin
+   if ((dude_item_count(PID_DYNAMITE)) or (dude_item_count(PID_PLASTIC_EXPLOSIVES))) then begin
       GOption(168,Node013,004);
    end else begin
       NOption(169,Node016,004);

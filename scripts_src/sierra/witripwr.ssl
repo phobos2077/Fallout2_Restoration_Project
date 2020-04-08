@@ -55,9 +55,9 @@ end
 procedure map_enter_p_proc begin
 
    if ( (map_var(MVAR_Wire_Tripped)) or (map_var(MVAR_Wire_Found)) ) then begin
-      set_obj_visibility(self_obj,0);          // vis
+      set_self_visible;          // vis
    end else begin
-      set_obj_visibility(self_obj,1);          // invis
+      set_self_invisible;          // invis
    end
 end
 
@@ -69,15 +69,15 @@ end
 procedure map_update_p_proc begin
 
    if ( (map_var(MVAR_Wire_Tripped)) or (map_var(MVAR_Wire_Found)) ) then begin
-      set_obj_visibility(self_obj,0);          // vis
+      set_self_visible;          // vis
    end else begin
-      set_obj_visibility(self_obj,1);          // invis
+      set_self_invisible;          // invis
    end
 end
 
 
 procedure critter_p_proc begin
    if ( (map_var(MVAR_Wire_Tripped)) or (map_var(MVAR_Wire_Found)) ) then begin
-      set_obj_visibility(self_obj,0);          // vis
+      set_self_visible;          // vis
    end
 end

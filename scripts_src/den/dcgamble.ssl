@@ -90,11 +90,11 @@ procedure map_enter_p_proc begin
       end
       set_local_var(LVAR_Type, random(gambler_vhl, gambler_vll));
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
+         set_self_team(TEAM_THE_DEN);
          if ((self_is_male) and (random(1,5) == 1)) then begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+            set_self_ai(AI_TOUGH_CITIZEN);
          end else begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_WIMPY_PEASANT);
+            set_self_ai(AI_WIMPY_PEASANT);
          end
       end
       flush_add_timer_event_sec(self_obj, random(15, 60), timed_event_float);
@@ -141,15 +141,15 @@ end
 procedure destroy_p_proc begin
    inc_good_critter
    if (local_var(LVAR_Type) == gambler_vhl) then begin
-      item_caps_adjust(self_obj, random(40, 50));
+      self_caps_adjust(random(40, 50));
    end else if (local_var(LVAR_Type) == gambler_hl) then begin
-      item_caps_adjust(self_obj, random(25, 35));
+      self_caps_adjust(random(25, 35));
    end else if (local_var(LVAR_Type) == gambler_av) then begin
-      item_caps_adjust(self_obj, random(15, 25));
+      self_caps_adjust(random(15, 25));
    end else if (local_var(LVAR_Type) == gambler_ll) then begin
-      item_caps_adjust(self_obj, random(10, 15));
+      self_caps_adjust(random(10, 15));
    end else begin
-      item_caps_adjust(self_obj, random(0, 2));
+      self_caps_adjust(random(0, 2));
    end
 end
 

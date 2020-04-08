@@ -127,7 +127,7 @@ procedure timed_event_p_proc begin
             if (Random(1, 10) == 1) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
-               animate_move_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(5, 12)));
+               self_walk_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(5, 12)));
                reg_anim_end();
             end
          end
@@ -145,8 +145,8 @@ procedure map_enter_p_proc begin
 
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT15);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_VAULT15);
+   set_self_ai(AI_PEASANT);
    starttile := self_tile;
    add_timer_event(self_obj, 0, TIMER_MOVE);
 end
@@ -161,7 +161,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -288,14 +288,14 @@ end
 procedure time_8_hour begin
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   animate_move_to_tile(starttile);
+   self_walk_to_tile(starttile);
    reg_anim_end();
 end
 
 procedure time_24_hour begin
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   animate_move_to_tile(SARA_TENT_POS);
+   self_walk_to_tile(SARA_TENT_POS);
    reg_anim_end();
 end
 

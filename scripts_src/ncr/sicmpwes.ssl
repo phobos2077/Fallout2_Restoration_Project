@@ -88,7 +88,7 @@ procedure timed_event_p_proc begin
          EMITTER_SET_FIELD_DESTROYED(i_westin_emitter_obj);
          explosion(tile_num(i_westin_emitter_obj), 0, 0);
       end
-      obj := create_object(PID_VDU_NOT_WORKING, self_tile, elevation(self_obj));
+      obj := create_object(PID_VDU_NOT_WORKING, self_tile, self_elevation);
       if (obj) then
          destroy_object(self_obj);
    end

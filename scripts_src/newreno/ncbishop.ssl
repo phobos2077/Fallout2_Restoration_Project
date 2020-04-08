@@ -141,8 +141,8 @@ procedure map_enter_p_proc begin
    mr_bishop_obj := self_obj;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BISHOP);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_BISHOP);
+         set_self_ai(AI_TOUGH_GUARD);
       end
    end
 end
@@ -493,7 +493,7 @@ procedure Node008 begin
    display_mstr(900);
    inc_reno_rep(REP_NEW_RENO_MOORE_BRIEFCASE);
    give_xp(EXP_DELIVER_BRIEFCASE);
-   item_caps_adjust(dude_obj, 250);
+   dude_caps_adjust(250);
    Reply(295);
    BOption(296, Node989, 004);
    NOption(297, Node988, 004);
@@ -668,7 +668,7 @@ variable temp;
    temp := mstr(695);
    if (westin_price >= 500) then begin
       temp += mstr(536);
-      item_caps_adjust(dude_obj, westin_price);
+      dude_caps_adjust(westin_price);
    end
    Reply(temp);
    if (westin_price >= 500) then begin
@@ -821,7 +821,7 @@ variable temp;
    set_snuff_carlson(snuff_carlson_succeed);
    if (carlson_price >= 500) then begin
       temp += mstr(536);
-      item_caps_adjust(dude_obj, carlson_price);
+      dude_caps_adjust(carlson_price);
    end
    Reply(temp);
    if (bishop_warning == false) then begin

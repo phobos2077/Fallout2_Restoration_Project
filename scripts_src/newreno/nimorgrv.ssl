@@ -63,9 +63,9 @@ procedure Disarm_Traps;
 #define site_is_covered                   (local_var(LVAR_Status) == state_covered)
 #define site_is_uncovered                 (local_var(LVAR_Status) == state_uncovered)
 #define do_cover_grave_site               set_local_var(LVAR_Status, state_covered);      \
-                                          animate_set_frame(0)
+                                          self_set_frame(0)
 #define do_uncover_grave_site             set_local_var(LVAR_Status, state_uncovered);    \
-                                          animate_set_frame(1)
+                                          self_set_frame(1)
 
 #define LVAR_Status                       (0)
 #define LVAR_Uncovered                    (1)
@@ -83,7 +83,7 @@ procedure Disarm_Traps;
                                                       set_stash_found;                                   \
                                                    end                                                   \
                                                    give_pid_qty(self_obj, PID_GOLD_NUGGET, 1)            \
-                                                   item_caps_adjust(self_obj, 171);                      \
+                                                   self_caps_adjust(171);                      \
                                                    give_pid_qty(self_obj, PID_44_MAGNUM_REVOLVER, 1)     \
                                                    give_pid_qty(self_obj, PID_44_MAGNUM_JHP, 2)          \
                                                    give_pid_qty(self_obj, PID_ANTIDOTE, 1)               \

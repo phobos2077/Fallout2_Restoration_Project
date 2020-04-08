@@ -30,7 +30,7 @@ procedure start begin
 end
 
 procedure spatial_p_proc begin
-   if ((obj_pid(source_obj) == PID_FRUIT_FLY) or (obj_pid(critter_inven_obj(source_obj,INVEN_TYPE_RIGHT_HAND)) == PID_GAS_MASK) or (obj_pid(critter_inven_obj(source_obj,INVEN_TYPE_LEFT_HAND)) == PID_GAS_MASK)) then begin
+   if ((obj_pid(source_obj) == PID_FRUIT_FLY) or (obj_pid(get_right_hand(source_obj)) == PID_GAS_MASK) or (obj_pid(get_left_hand(source_obj)) == PID_GAS_MASK)) then begin
    //if (obj_carrying_pid_obj(source_obj, PID_GAS_MASK)) then begin
       //do nothing
    end else begin
@@ -39,8 +39,8 @@ procedure spatial_p_proc begin
 end
 
 procedure doPain begin
-   if (critter_inven_obj(source_obj,INVEN_TYPE_WORN) != 0) then
-      worn := obj_pid(critter_inven_obj(source_obj,INVEN_TYPE_WORN));
+   if (get_armor(source_obj) != 0) then
+      worn := obj_pid(get_armor(source_obj));
    if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin
       if ((cur_map_index == MAP_EPA_SUBLEVELS_2) or (map_var(MVAR_Cleaned_Fan) == 0)) then begin
          poison(source_obj, 100);
@@ -48,12 +48,12 @@ procedure doPain begin
          poison(source_obj, 50);
       end else begin
         if (Current_Distance_From_Obj(source_obj) <= 1) then begin
-            if (obj_carrying_pid_obj(source_obj, PID_RUBBER_BOOTS)) then begin
+            if (get_item(source_obj, PID_RUBBER_BOOTS)) then begin
               //if carrying boots ..do boot damage
              //ndebug("NPC Code");
               k := random(1,100);
               if (k < 2) then begin //1% chance to melt
-                 my_boots := obj_carrying_pid_obj(source_obj, PID_RUBBER_BOOTS);
+                 my_boots := get_item(source_obj, PID_RUBBER_BOOTS);
                  rm_obj_from_inven(source_obj, my_boots);
                  destroy_object(my_boots);
                  if (source_obj == dude_obj) then

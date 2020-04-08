@@ -37,20 +37,20 @@ procedure look_at_p_proc
 begin
    if (self_tile == MIDDLE_FAN) then begin
       script_overrides;
-      display_msg(message_str(NAME, 100));
+      display_msg(mstr(100));
    end
 end
 
 procedure description_p_proc
 begin
    variable fan := 0;
-   fan := tile_contains_pid_obj(tile_num(self_obj),self_elevation,33556632);
+   fan := tile_contains_pid_obj(self_tile,self_elevation,33556632);
    if (self_tile == MIDDLE_FAN) then begin
       script_overrides;
-      if (obj_is_visible_flag(fan)) then
-         display_msg(message_str(NAME, 102));
+      if (is_visible(fan)) then
+         display_msg(mstr(102));
       else
-         display_msg(message_str(NAME, 101));
+         display_msg(mstr(101));
    end
 end
 
@@ -65,7 +65,7 @@ procedure map_enter_p_proc begin
    add_timer_event(self_obj, 1, 1);
 
    if (map_first_run) then begin
-      fan := tile_contains_pid_obj(tile_num(self_obj),self_elevation,33556632);
+      fan := tile_contains_pid_obj(self_tile,self_elevation,33556632);
       set_obj_visibility( fan, true ); //invis
    end
 
@@ -101,7 +101,7 @@ procedure use_obj_on_p_proc begin
       gfade_out(ONE_GAME_SECOND);
       display_msg(mstr(200));
       remove_pid_qty(dude_obj, PID_PLANK, 1)
-      fan := tile_contains_pid_obj(tile_num(self_obj),self_elevation,33556632);
+      fan := tile_contains_pid_obj(self_tile,self_elevation,33556632);
       set_obj_visibility( fan, false ); //vis
       gfade_in(ONE_GAME_SECOND);
       destroy_object(self_obj);

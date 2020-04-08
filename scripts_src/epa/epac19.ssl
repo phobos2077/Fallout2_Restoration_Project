@@ -45,16 +45,16 @@ end
 
 procedure combat_p_proc
 begin
-  if (has_trait(TRAIT_OBJECT, self_obj, OBJECT_VISIBILITY)) then
+  if (self_visible) then
   begin
     if (obj_can_see_obj(self_obj, DOCTOR_obj)) then
       attack(DOCTOR_obj);
     else if (tile_distance_objs(self_obj, DOCTOR_obj) > 12) then
     begin
       if (tile_distance_objs(self_obj, dude_obj) > (12 * 2)) then
-        animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(DOCTOR_obj), (has_trait(TRAIT_OBJECT, DOCTOR_obj, OBJECT_CUR_ROT) + 3) % 6, 9), 1);
+        self_run_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
       else
-        animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(DOCTOR_obj), (has_trait(TRAIT_OBJECT, DOCTOR_obj, OBJECT_CUR_ROT) + 3) % 6, 9), 0);
+        self_walk_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
     end
   end
 end
@@ -63,16 +63,16 @@ procedure timed_event_p_proc
 begin
   if (fixed_param == 1) then
   begin
-    if (has_trait(TRAIT_OBJECT, self_obj, OBJECT_VISIBILITY)) then
+    if (self_visible) then
     begin
       if (obj_can_see_obj(self_obj, DOCTOR_obj)) then
         attack(DOCTOR_obj);
       else if (tile_distance_objs(self_obj, DOCTOR_obj) > 12) then
       begin
         if (tile_distance_objs(self_obj, DOCTOR_obj) > (12 * 2)) then
-          animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(DOCTOR_obj), (has_trait(TRAIT_OBJECT, DOCTOR_obj, OBJECT_CUR_ROT) + 3) % 6, 9), 1);
+          self_run_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
         else
-          animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(DOCTOR_obj), (has_trait(TRAIT_OBJECT, DOCTOR_obj, OBJECT_CUR_ROT) + 3) % 6, 9), 0);
+          self_walk_to_tile(tile_num_in_direction(tile_num(DOCTOR_obj), (get_cur_rot(DOCTOR_obj) + 3) % 6, 9));
       end
     end
   end
@@ -82,7 +82,7 @@ procedure critter_p_proc
 begin
   if (global_var(GVAR_LOWER_EPAFIELDS) == 1) then
   begin
-    animate_move_obj_to_tile(self_obj, 18507, 0);
+    self_walk_to_tile(18507);
     add_timer_event(self_obj, game_ticks(10), 1);
   end
 end
@@ -109,10 +109,10 @@ end
 
 procedure map_enter_p_proc begin
   critter_obj := self_obj;
-  starttile := tile_num(self_obj);
+  starttile := self_tile;
   reg_anim_clear( self_obj);
   reg_anim_begin();
-  anim(self_obj, 1000, random(0, 5));
+  self_rotate(random(0, 5));
   reg_anim_end();
 end
 

@@ -137,8 +137,8 @@ procedure map_enter_p_proc begin
    match_dude_elevation;
    if (only_once == 0) then begin
       only_once := 1;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      set_self_team(TEAM_MODOC);
+      set_self_ai(AI_PEASANT);
    end
    if (map_first_run) then begin
       check_restock_item(PID_BOTTLE_CAPS, 20, 20, 100)
@@ -361,8 +361,8 @@ procedure Node013 begin
    NOption(187,Node988,004);
 end
 procedure Node014 begin
-   item_caps_adjust(self_obj,food_cost);
-   item_caps_adjust(dude_obj,-food_cost);
+   self_caps_adjust(food_cost);
+   dude_caps_adjust(-food_cost);
    Reply(188);
    NOption(g_mstr(352),Node015,004);
 end
@@ -389,13 +389,13 @@ procedure Node019 begin
 end
 procedure Node020 begin
    poison(dude_obj, 1);
-   item_caps_adjust(dude_obj,20);
+   dude_caps_adjust(20);
    Reply(198);
    NOption(199,Node999,004);
 end
 procedure Node021 begin
-   item_caps_adjust(self_obj,food_cost);
-   item_caps_adjust(dude_obj,-food_cost);
+   self_caps_adjust(food_cost);
+   dude_caps_adjust(-food_cost);
    critter_heal(dude_obj, (dude_max_hits - dude_cur_hits));
    poison(dude_obj, -get_poison(dude_obj));
    set_omlet;
@@ -403,8 +403,8 @@ procedure Node021 begin
    NOption(201,Node999,004);
 end
 procedure Node022 begin
-   item_caps_adjust(self_obj,food_cost);
-   item_caps_adjust(dude_obj,-food_cost);
+   self_caps_adjust(food_cost);
+   dude_caps_adjust(-food_cost);
    if (food_cost == 1000) then begin
       set_gave_cookie;
       Reply(300);

@@ -31,15 +31,15 @@ procedure use_p_proc
 begin
   variable item;
   script_overrides;
-  if (get_critter_stat(dude_obj, STAT_pe) < 7) then
-    display_msg(message_str(NAME, 100));
-  else if (get_critter_stat(dude_obj, STAT_pe) >= 7) then
+  if (dude_perception < 7) then
+    display_msg(mstr(100));
+  else if (dude_perception >= 7) then
   begin
     if (local_var(LVAR_Herebefore) == 1) then
-      display_msg(message_str(NAME, 101));
+      display_msg(mstr(101));
     else
     begin
-      display_msg(message_str(NAME, 102));
+      display_msg(mstr(102));
       set_local_var(LVAR_Herebefore, 1);
       //move_obj_inven_to_obj(self_obj, dude_obj);
       item:=create_object(PID_PAPER,0,0);

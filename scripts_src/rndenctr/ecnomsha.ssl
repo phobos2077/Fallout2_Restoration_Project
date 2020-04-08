@@ -130,8 +130,8 @@ procedure map_enter_p_proc begin
       move_to(self_obj, 19088, 0);
 
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_NOMAD);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_RND_NOMAD);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    check_restock_item(PID_SPEAR, 2, 5, 30)
    check_restock_item(PID_CLUB, 5, 7, 40)
@@ -159,7 +159,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -292,8 +292,8 @@ end
 
 procedure NodeCurePoison begin
    if (dude_caps >= poison_price) then begin
-      item_caps_adjust(dude_obj, -poison_price);
-      item_caps_adjust(self_obj, poison_price);
+      dude_caps_adjust(-poison_price);
+      self_caps_adjust(poison_price);
       if (poison_heal_amt > get_poison(dude_obj)) then
          poison(dude_obj, -get_poison(dude_obj));
       else
@@ -305,8 +305,8 @@ end
 
 procedure NodeCureHits begin
    if (dude_caps >= healing_price) then begin
-      item_caps_adjust(dude_obj, -healing_price);
-      item_caps_adjust(self_obj, healing_price);
+      dude_caps_adjust(-healing_price);
+      self_caps_adjust(healing_price);
       critter_heal(dude_obj, dude_max_hits - dude_cur_hits);
       call Node005;
    end else
@@ -315,8 +315,8 @@ end
 
 procedure NodeCureCripple begin
    if (dude_caps >= cripple_price) then begin
-      item_caps_adjust(dude_obj, -cripple_price);
-      item_caps_adjust(self_obj, cripple_price);
+      dude_caps_adjust(-cripple_price);
+      self_caps_adjust(cripple_price);
       critter_uninjure(dude_obj, DAM_CRIP_LEG_LEFT bwor DAM_CRIP_LEG_RIGHT bwor DAM_CRIP_ARM_LEFT bwor DAM_CRIP_ARM_RIGHT);
       call Node005;
    end else
@@ -368,13 +368,13 @@ procedure NodeCombine begin
    variable brocamt;
    variable cnt;
 
-   rootamt := obj_is_carrying_obj_pid(dude_obj, PID_XANDER_ROOT);
-   brocamt := obj_is_carrying_obj_pid(dude_obj, PID_BROC_FLOWER);
-   root := obj_carrying_pid_obj(dude_obj, PID_XANDER_ROOT);
-   broc := obj_carrying_pid_obj(dude_obj, PID_BROC_FLOWER);
+   rootamt := dude_item_count(PID_XANDER_ROOT);
+   brocamt := dude_item_count(PID_BROC_FLOWER);
+   root := dude_item(PID_XANDER_ROOT);
+   broc := dude_item(PID_BROC_FLOWER);
 
-   item_caps_adjust(dude_obj, -powder_price);
-   item_caps_adjust(self_obj, powder_price); //edit by killap - was dude_obj
+   dude_caps_adjust(-powder_price);
+   self_caps_adjust(powder_price); //edit by killap - was dude_obj
 
    while (rootamt > 0 and brocamt > 0) do begin
       cnt += 1;
@@ -392,7 +392,7 @@ end
 
 procedure Node008 begin
    Reply(mstr(127) + " " + powder_price + " " + mstr(150));
-   if (obj_carrying_pid_obj(dude_obj, PID_XANDER_ROOT) and  obj_carrying_pid_obj(dude_obj, PID_BROC_FLOWER)) then
+   if (dude_item(PID_XANDER_ROOT) and  dude_item(PID_BROC_FLOWER)) then
       NOption(128, NodeCombine, 4);
    NOption(129, Node999, 4);
 end

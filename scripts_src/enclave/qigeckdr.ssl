@@ -42,7 +42,7 @@ procedure start begin
 end
 
 procedure use_p_proc begin
-   if (not(obj_is_carrying_obj_pid(dude_obj,PID_GECK))) then begin
+   if (not(dude_item_count(PID_GECK))) then begin
        script_overrides;
        float_msg(dude_obj,g_mstr(1016),FLOAT_MSG_WHITE);
    end
@@ -61,7 +61,7 @@ end
 procedure use_obj_on_p_proc begin
    if (obj_pid(obj_being_used_with) == PID_GECK) then begin
        script_overrides;
-       explosion(tile_num(self_obj),elevation(self_obj),60);
+       explosion(self_tile,self_elevation,60);
        set_local_var(LVAR_Used_GECK,1);
        display_msg(g_mstr(1017));
        destroy_object(self_obj);

@@ -108,13 +108,13 @@ procedure is_dropping_p_proc begin
    end else if ( (obj == PID_VAULT_BOXER_MALE_NORMAL) or (obj == PID_VAULT_BOXER_MALE_LONG_HAIR) or (obj == PID_VAULT_BOXER_MALE_BALD) ) then begin
       script_overrides;
       if (obj == PID_VAULT_BOXER_MALE_NORMAL) then begin
-         armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_NORMAL);
+         armor := dude_item(PID_VAULT_BOXER_MALE_NORMAL);
          wield_obj_critter(dude_obj, armor);
       end else if (obj == PID_VAULT_BOXER_MALE_LONG_HAIR) then begin
-         armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_LONG_HAIR);
+         armor := dude_item(PID_VAULT_BOXER_MALE_LONG_HAIR);
          wield_obj_critter(dude_obj, armor);
       end else if (obj == PID_VAULT_BOXER_MALE_BALD) then begin
-         armor := obj_carrying_pid_obj(dude_obj,PID_VAULT_BOXER_MALE_BALD);
+         armor := dude_item(PID_VAULT_BOXER_MALE_BALD);
          wield_obj_critter(dude_obj, armor);
       end
    end
@@ -135,26 +135,26 @@ procedure map_enter_p_proc begin
    variable Junkit1;
 
    if (not(is_loading_game)) then begin
-       if (obj_is_carrying_obj_pid(self_obj,PID_SCORPION_TAIL)) then begin
+       if (self_item_count(PID_SCORPION_TAIL)) then begin
            First_Aid:=has_skill(self_obj,SKILL_FIRST_AID);
            Outdoor:=has_skill(self_obj,SKILL_OUTDOORSMAN);
            if (((First_Aid + Outdoor) >= 125) and (skill_success(self_obj,SKILL_SCIENCE,0))) then begin
-               tail:=obj_carrying_pid_obj(self_obj,PID_SCORPION_TAIL);
-               count:=obj_is_carrying_obj_pid(self_obj,PID_SCORPION_TAIL);
+               tail:=self_item(PID_SCORPION_TAIL);
+               count:=self_item_count(PID_SCORPION_TAIL);
                Junkit:=rm_mult_objs_from_inven(self_obj,tail,count);
                item:=create_object(PID_ANTIDOTE,0,0);
                add_mult_objs_to_inven(self_obj,item,count);
                display_msg(g_mstr(1050));
            end
        end
-       if ((obj_is_carrying_obj_pid(self_obj,PID_XANDER_ROOT)) and (obj_is_carrying_obj_pid(self_obj,PID_BROC_FLOWER))) then begin
+       if ((self_item_count(PID_XANDER_ROOT)) and (self_item_count(PID_BROC_FLOWER))) then begin
            Doctor:=has_skill(self_obj,SKILL_DOCTOR);
            Outdoor:=has_skill(self_obj,SKILL_OUTDOORSMAN);
            if (((Doctor + Outdoor) >= 125) and (skill_success(self_obj,SKILL_SCIENCE,0))) then begin
-               flower:=obj_carrying_pid_obj(self_obj,PID_BROC_FLOWER);
-               root:=obj_carrying_pid_obj(self_obj,PID_XANDER_ROOT);
-               count:=obj_is_carrying_obj_pid(self_obj,PID_BROC_FLOWER);
-               count1:=obj_is_carrying_obj_pid(self_obj,PID_XANDER_ROOT);
+               flower:=self_item(PID_BROC_FLOWER);
+               root:=self_item(PID_XANDER_ROOT);
+               count:=self_item_count(PID_BROC_FLOWER);
+               count1:=self_item_count(PID_XANDER_ROOT);
                if (count > count1) then
                    count:=count1;
                Junkit:=rm_mult_objs_from_inven(self_obj,flower,count);
@@ -190,25 +190,25 @@ procedure timed_event_p_proc begin
       script_overrides;
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         reg_anim_animate(self_obj, 2, -1);
+         reg_anim_animate(self_obj, ANIM_jump_begin, -1);
          reg_anim_play_sfx(self_obj, "zippo", 10);
       reg_anim_end();
    end else if (fixed_param == SMOKE_POWER) then begin
       script_overrides;
    	reg_anim_clear(self_obj);
    	reg_anim_begin();
-   	reg_anim_animate(self_obj, 5, -1);
+   	reg_anim_animate(self_obj, ANIM_falling, -1);
    	reg_anim_play_sfx(self_obj, "powr", 6);
-   	reg_anim_animate(self_obj, 2, -1);
+   	reg_anim_animate(self_obj, ANIM_jump_begin, -1);
    	reg_anim_play_sfx(self_obj, "zippo", 9);
    	reg_anim_animate_reverse(self_obj, 5, -1);
    	reg_anim_play_sfx(self_obj, "powrb", 8);
    	reg_anim_end();
    end else if (fixed_param == HIGH_SEQUENCE) then begin
       if (count == 3) then begin
-         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,210), 3);
+         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,210), FLOAT_MSG_GREEN);
       end else if (count == 4) then begin
-         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,211), 3);
+         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,211), FLOAT_MSG_GREEN);
          script_overrides;
          reg_anim_clear(dude_obj);
          reg_anim_begin();
@@ -217,30 +217,30 @@ procedure timed_event_p_proc begin
          reg_anim_end();
       end else if (count == 5) then begin
          display_msg(message_str(SCRIPT_ZISMOKE, 212));
-         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,213), 3);
+         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,213), FLOAT_MSG_GREEN);
       end else if (count == 6) then begin
-         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,214), 3);
+         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,214), FLOAT_MSG_GREEN);
       end else if (count == 7) then begin
          script_overrides;
          reg_anim_clear(dude_obj);
          reg_anim_begin();
-            reg_anim_animate(dude_obj, 37, -1);
+            reg_anim_animate(dude_obj, ANIM_back_to_standing, -1);
          reg_anim_end();
       end else if (count == 8) then begin
-         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,215), 3);
+         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,215), FLOAT_MSG_GREEN);
       end else if (count == 9) then begin
-         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,216), 2);
+         float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,216), FLOAT_MSG_RED);
          display_msg(message_str(SCRIPT_ZISMOKE, 217));
          script_overrides;
          reg_anim_clear(dude_obj);
          reg_anim_begin();
-            reg_anim_animate(dude_obj, 21, -1);
+            reg_anim_animate(dude_obj, ANIM_fall_front, -1);
          reg_anim_end();
       end else if (count == 10) then begin
          script_overrides;
          reg_anim_clear(dude_obj);
          reg_anim_begin();
-            reg_anim_animate(dude_obj, 37, -1);
+            reg_anim_animate(dude_obj, ANIM_back_to_standing, -1);
          reg_anim_end();
          gfade_out(600);
          display_msg(message_str(SCRIPT_ZISMOKE, 218));
@@ -323,31 +323,31 @@ procedure critter_p_proc begin
    end
 
    //added by killap - expansion
-   if (global_var(692) > 0) then begin
+   if (global_var(GVAR_RESERVED_VAR59) > 0) then begin
       if ( (((game_time - soda_timer)  >= ONE_GAME_HOUR) and (soda_timer != 0)) or (((game_time - rocks_timer)  >= ONE_GAME_HOUR) and (rocks_timer != 0)) )then begin
-         set_global_var(692,0);
+         set_global_var(GVAR_RESERVED_VAR59,0);
          soda_timer := 0;
          rocks_timer := 0;
       end
    end
 
-   if (global_var(692) == 1) then begin
+   if (global_var(GVAR_RESERVED_VAR59) == 1) then begin
       if ((took_soda) == 1) then
-        set_global_var(692,3);
+        set_global_var(GVAR_RESERVED_VAR59,3);
       took_rocks:=1;
       rocks_timer:= game_time;
    end
 
-   if (global_var(692) == 2) then begin
+   if (global_var(GVAR_RESERVED_VAR59) == 2) then begin
       if ((took_rocks) == 1) then
-         set_global_var(692,3);
+         set_global_var(GVAR_RESERVED_VAR59,3);
       took_soda:=1;
       soda_timer:= game_time;
    end
 
-   if ((global_var(692) == 2) or (global_var(692) == 1) or (global_var(692) == 0) ) then begin
+   if ((global_var(GVAR_RESERVED_VAR59) == 2) or (global_var(GVAR_RESERVED_VAR59) == 1) or (global_var(GVAR_RESERVED_VAR59) == 0) ) then begin
    end else
-   if ((global_var(692) == 3) and (gave_warning != 1)) then begin
+   if ((global_var(GVAR_RESERVED_VAR59) == 3) and (gave_warning != 1)) then begin
       gave_warning:=1;
       display_msg(mstr(600));
       warning_timer:=game_time + game_ticks(10);
@@ -358,7 +358,7 @@ procedure critter_p_proc begin
          display_msg(mstr(601));
          //critter_dmg(dude_obj,9999,6);
       end else if ((game_time >= warning_timer) and (gave_warning2 == 1)) then begin
-         explosion(tile_num(dude_obj), elevation(dude_obj), 999999);
+         explosion(dude_tile, dude_elevation, 999999);
       end
    end
    //end added
@@ -409,22 +409,22 @@ procedure use_obj_on_p_proc begin
          script_overrides;
          rm_obj_from_inven(dude_obj,obj_being_used_with);
          destroy_object(obj_being_used_with);
-         set_global_var(692,1);
+         set_global_var(GVAR_RESERVED_VAR59,1);
       end
 
       if (obj_pid(obj_being_used_with) == PID_NUKA_COLA) then begin
-         if (global_var(692) > 0) then begin
+         if (global_var(GVAR_RESERVED_VAR59) > 0) then begin
             script_overrides;
             rm_obj_from_inven(dude_obj,obj_being_used_with);
             destroy_object(obj_being_used_with);
          end
-         set_global_var(692,2);
+         set_global_var(GVAR_RESERVED_VAR59,2);
       end
 
       //smoking animations - regular cigs
       if ((dude_is_male) and (obj_pid(obj_being_used_with) == PID_CIGARETTE)) then begin
          if not (combat_is_initialized) then begin
-            if ( ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_POWERED_ARMOR) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_HARDENED_POWER_ARMOR)) and (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) >= 1)) then begin
+            if ( ((obj_pid(dude_armor) == PID_POWERED_ARMOR) or (obj_pid(dude_armor) == PID_HARDENED_POWER_ARMOR)) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
             	script_overrides;
             	if (local_var(LVAR_Smoke_Count) == 0) then
             	  display_msg(message_str(SCRIPT_ZISMOKE, 100));
@@ -438,18 +438,18 @@ procedure use_obj_on_p_proc begin
             	if ((local_var(LVAR_Smoke_Count)%10) == 0) then begin
                   script_overrides;
                   display_msg(message_str(SCRIPT_ZISMOKE, 103));
-                  set_global_var(773,1);
+                  set_global_var(GVAR_PLAYER_SMOKER,1);
                   rm_obj_from_inven(dude_obj,obj_being_used_with);
                end
 
             end
 
-            else if ( (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
+            else if ( (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
             	script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 102));
             end
 
-            else if ((source_obj == dude_obj) and (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) >= 1)) then begin
+            else if ((source_obj == dude_obj) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
             	script_overrides;
             	if (local_var(LVAR_Smoke_Count) == 0) then
             	  display_msg(message_str(SCRIPT_ZISMOKE, 100));
@@ -463,12 +463,12 @@ procedure use_obj_on_p_proc begin
                if ((local_var(LVAR_Smoke_Count)%10) == 0) then begin
                   script_overrides;
                   display_msg(message_str(SCRIPT_ZISMOKE, 103));
-                  set_global_var(773,1);
+                  set_global_var(GVAR_PLAYER_SMOKER,1);
                   rm_obj_from_inven(dude_obj,obj_being_used_with);
                end
             end
 
-            if (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) == 0) then begin
+            if (dude_item_count(PID_LIGHTER) == 0) then begin
                script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 104));
             end
@@ -480,7 +480,7 @@ procedure use_obj_on_p_proc begin
       if ((dude_is_male) and (obj_pid(obj_being_used_with) == PID_DRUGS)) then begin
          if not (combat_is_initialized) then begin
             game_ui_disable;
-            if ( ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_POWERED_ARMOR) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_HARDENED_POWER_ARMOR)) and (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) >= 1)) then begin
+            if ( ((obj_pid(dude_armor) == PID_POWERED_ARMOR) or (obj_pid(dude_armor) == PID_HARDENED_POWER_ARMOR)) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
             	script_overrides;
             	display_msg(message_str(SCRIPT_ZISMOKE, 200));
 
@@ -488,12 +488,12 @@ procedure use_obj_on_p_proc begin
 
             end
 
-            else if ( (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
+            else if ( (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
             	script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 102));
             end
 
-            else if ((source_obj == dude_obj) and (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) >= 1)) then begin
+            else if ((source_obj == dude_obj) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
             	script_overrides;
             	display_msg(message_str(SCRIPT_ZISMOKE, 200));
 
@@ -501,7 +501,7 @@ procedure use_obj_on_p_proc begin
 
             end
 
-            if (obj_is_carrying_obj_pid(dude_obj, PID_LIGHTER) == 0) then begin
+            if (dude_item_count(PID_LIGHTER) == 0) then begin
                script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 104));
                game_ui_enable;

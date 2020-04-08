@@ -133,7 +133,7 @@ procedure map_enter_p_proc begin
 
    if (not FIELD_DESTROYED and not destroyOnLoad) then begin
       fieldPtr := tile_contains_pid_obj(FFIELD_TILE, FFIELD_ELEV, FFIELD_PID);
-      if (obj_is_visible_flag(fieldPtr)) then begin
+      if (is_visible(fieldPtr)) then begin
          set_local_var(LVAR_Power_On, 1);
       end
       add_timer_event(self_obj, 0, TIMER_CHECK_POWER);
@@ -325,7 +325,7 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == TIMER_DO_FLICKER) then begin
       if (not FIELD_DESTROYED and FIELD_FLICKER) then begin
          if (game_time < local_var(LVAR_Flicker_Stop)) then begin
-            if (obj_is_visible_flag(fieldPtr)) then begin
+            if (is_visible(fieldPtr)) then begin
                set_obj_visibility(fieldPtr, OBJ_INVIS);
             end else begin
                set_obj_visibility(fieldPtr, OBJ_VIS);
@@ -339,14 +339,14 @@ procedure timed_event_p_proc begin
       if (not POWER_ON_CHECK) then begin
          set_local_var(LVAR_Power_On, 0);
          if (not FIELD_DESTROYED) then begin
-            if (obj_is_visible_flag(fieldPtr)) then begin
+            if (is_visible(fieldPtr)) then begin
                set_obj_visibility(fieldPtr, OBJ_INVIS);
             end
          end
       end else begin
          set_local_var(LVAR_Power_On, 1);
          if (not FIELD_DESTROYED and FIELD_ON) then begin
-            if (not obj_is_visible_flag(fieldPtr)) then begin
+            if (not is_visible(fieldPtr)) then begin
                set_obj_visibility(fieldPtr, OBJ_VIS);
             end
          end

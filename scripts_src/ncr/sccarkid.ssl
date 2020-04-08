@@ -149,8 +149,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_CARLSON);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+   set_self_team(TEAM_NCR_CARLSON);
+   set_self_ai(AI_CHILD);
    tvarSetNum(6);
    tvarTile(0, 19139);
    tvarTile(1, 17129);
@@ -187,7 +187,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -472,21 +472,21 @@ procedure anim_end_call begin
          if (local_var(LVAR_State) == GOTO_CARLSON or local_var(LVAR_State) == BISHOP_NEWS) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_run_to_tile(getTile(7));
+            self_run_to_tile(getTile(7));
             reg_anim_end();
          end else begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_run_to_tile(getTile(5));
+            self_run_to_tile(getTile(5));
             reg_anim_end();
          end
       end else if (self_tile == getTile(7)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
          if (local_var(LVAR_State) == GOTO_CARLSON or local_var(LVAR_State) == BISHOP_NEWS) then
-            animate_run_to_tile(getTile(8));
+            self_run_to_tile(getTile(8));
          else if (local_var(LVAR_State) == BACK_FROM_GOTO_CARLSON or local_var(LVAR_State) == BACK_FROM_BISHOP_NEWS) then
-            animate_run_to_tile(getTile(6));
+            self_run_to_tile(getTile(6));
          reg_anim_end();
       end else if (self_tile == getTile(8)) then begin
          if (local_var(LVAR_State) == GOTO_CARLSON or local_var(LVAR_State) == BISHOP_NEWS) then begin
@@ -495,7 +495,7 @@ procedure anim_end_call begin
          end else begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_run_to_tile(getTile(7));
+            self_run_to_tile(getTile(7));
             reg_anim_end();
          end
       end
@@ -506,7 +506,7 @@ procedure walkToCarlson begin
    doNormalWalking := 0;
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   animate_run_to_tile(getTile(6));
+   self_run_to_tile(getTile(6));
    reg_anim_end();
 end
 

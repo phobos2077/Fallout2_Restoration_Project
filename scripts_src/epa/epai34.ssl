@@ -37,7 +37,7 @@ procedure use_obj_on_p_proc begin
       if (global_var(GVAR_FIX_STATICINGHOLOGRAM) >= 1) then begin
          if (has_skill(dude_obj, SKILL_REPAIR) > 20) then begin
             if (local_var(LVAR_Herebefore) == 0) then begin
-               display_msg(message_str(NAME, 103));
+               display_msg(mstr(103));
                dude_floater(105);
                set_global_var(GVAR_FIX_STATICINGHOLOGRAM, 2);
                set_local_var(LVAR_Herebefore, 1);
@@ -62,7 +62,7 @@ begin
     if (global_var(GVAR_FIX_STATICINGHOLOGRAM) >= 1) then begin
       if (has_skill(source_obj, SKILL_REPAIR) > 50) then begin
         if (local_var(LVAR_Herebefore) == 0) then begin
-          display_msg(message_str(NAME, 103));
+          display_msg(mstr(103));
           float_msg( source_obj, mstr(105), FLOAT_MSG_NORMAL);
           set_global_var(GVAR_FIX_STATICINGHOLOGRAM, 2);
           set_local_var(LVAR_Herebefore, 1);
@@ -83,13 +83,13 @@ end
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 101));
+  display_msg(mstr(101));
 end
 
 procedure look_at_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 100));
+  display_msg(mstr(100));
 end
 
 procedure use_p_proc

@@ -167,8 +167,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_TANDI);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_NCR_TANDI);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -181,7 +181,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -339,7 +339,7 @@ procedure checkSpyHolo begin
 end
 
 procedure checkVaultParts begin
-   if (obj_is_carrying_obj_pid(dude_obj, VAULTPARTS) > 0) then
+   if (dude_item_count(VAULTPARTS) > 0) then
       return 1;
    return 0;
 end
@@ -347,7 +347,7 @@ end
 procedure TakeParts begin
    variable obj;
 
-   obj := obj_carrying_pid_obj(dude_obj, VAULTPARTS);
+   obj := dude_item(VAULTPARTS);
    if (obj) then begin
       rm_obj_from_inven(dude_obj, obj);
       destroy_object(obj);
@@ -414,7 +414,7 @@ procedure Node001 begin
       NLowOption(104, Node002);
       NOption(110, Node002, 4);
    end
-   if ((has_skill(dude_obj, SKILL_CONVERSANT) > 60)) then begin
+   if ((has_skill(dude_obj, SKILL_SPEECH) > 60)) then begin
       GLowOption(105, Node003);
       NOption(111, Node003, 4);
    end
@@ -441,7 +441,7 @@ procedure Node002 begin
 end
 
 procedure NodeCheck521 begin
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 0))) then begin
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 0))) then begin
       call Node005;
    end else begin
       call Node021;
@@ -588,7 +588,7 @@ procedure Node014 begin
    if (n14Rep == 0) then begin
       n14Rep := 1;
       Reply(183);
-      NOption(message_str(SCRIPT_GENERIC, 352), Node014, 1);
+      NOption(g_mstr(352), Node014, 1);
    end else begin
       n14Rep := 0;
       Reply(315);
@@ -730,7 +730,7 @@ end
 procedure Node032 begin
    set_local_var(LVAR_Tandi_Node32,1);
    //add_obj_to_inven(dude_obj, create_object_sid(TANDI_HOLO_PID, 0, 0, SCRIPT_SIHISHOL));
-   add_obj_to_inven(dude_obj, create_object_sid(TANDI_HOLO_PID, 0, 0, -1)); //edit by killap - this is now done through the dude_obj script; part of the too manly items fix
+   add_obj_to_inven(dude_obj, create_object(TANDI_HOLO_PID, 0, 0)); //edit by killap - this is now done through the dude_obj script; part of the too manly items fix
    Reply(253);
    NOption(254, Node007, 1);
 end

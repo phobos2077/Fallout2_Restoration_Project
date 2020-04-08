@@ -49,10 +49,10 @@ procedure Node012;
 #define WANAMINGO_TILE 28469
 #define SPORE_PLANT_TILE 28461
 
-#define PETTING_ZOO_FIELD_PTR (tile_contains_pid_obj(27076,dude_elevation,33554921))
-#define PETTING_ZOO_FIELD_PTR2 (tile_contains_pid_obj(27064,dude_elevation,33554921))
-#define WANAMINGO_FIELD_PTR (tile_contains_pid_obj(28676,dude_elevation,33554921))
-#define SPORE_PLANT_FIELD_PTR (tile_contains_pid_obj(28662,dude_elevation,33554921))
+#define PETTING_ZOO_FIELD_PTR (tile_contains_pid_obj(27076,dude_elevation,PID_NS_FORCE_FIELD))
+#define PETTING_ZOO_FIELD_PTR2 (tile_contains_pid_obj(27064,dude_elevation,PID_NS_FORCE_FIELD))
+#define WANAMINGO_FIELD_PTR (tile_contains_pid_obj(28676,dude_elevation,PID_NS_FORCE_FIELD))
+#define SPORE_PLANT_FIELD_PTR (tile_contains_pid_obj(28662,dude_elevation,PID_NS_FORCE_FIELD))
 
 procedure start begin
 end

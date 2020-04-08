@@ -123,7 +123,7 @@ procedure use_p_proc begin
    else
        Needed_IQ:=6;
 
-   if ((local_var(LVAR_Shut_Down) == 1) or (get_critter_stat(dude_obj,STAT_iq) < Needed_IQ)) then begin
+   if ((local_var(LVAR_Shut_Down) == 1) or (dude_iq < Needed_IQ)) then begin
        call Node002;
    end
 
@@ -462,7 +462,7 @@ procedure Node021 begin
 end
 
 procedure Node021a begin
-   if (obj_is_carrying_obj_pid(dude_obj,PID_PRES_ACCESS_KEY)) then begin
+   if (dude_item_count(PID_PRES_ACCESS_KEY)) then begin
        if (cur_map_index == MAP_ENCLAVE_END_FIGHT) then begin
            //added check and call to 022a - killap
            if (global_var(GVAR_ENCLAVE_REACTOR) == ENCLAVE_REACTOR_OFF) then
@@ -526,7 +526,7 @@ procedure Node025 begin
 end
 
 procedure Node025a begin
-   if (obj_is_carrying_obj_pid(dude_obj,PID_PRES_ACCESS_KEY)) then
+   if (dude_item_count(PID_PRES_ACCESS_KEY)) then
        call Node026;
    else
        call Node027;

@@ -79,8 +79,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 procedure combat_p_proc begin
@@ -91,7 +91,7 @@ end
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
    I_Am_In_Battle:=0; //critter proc not run during combat so I must not be in combat
-   if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
       Flee_From_Dude
    end
@@ -170,7 +170,7 @@ end
 procedure timed_event_p_proc begin
    if (I_Am_In_Battle == 0) then begin //shouldn't say anything in battle
       if (fixed_param == 1) then begin
-          if (tile_distance(tile_num(dude_obj),tile_num(self_obj)) < 3) then begin
+          if (tile_distance(dude_tile,self_tile) < 3) then begin
              call saysomething;
           end
           In_Timed_Event:=0;
@@ -190,7 +190,7 @@ procedure thanks begin
 end
 
 procedure saysomething begin
-   if (TOWN_REPUTATION < 0 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin
+   if (TOWN_REPUTATION < 0 and not(dude_perk(PERK_cult_of_personality))) then begin // edit by killap - added not(dude_perk(PERK_cult_of_personality))) then begin
       call Node001;
    end
    else begin

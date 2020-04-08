@@ -188,9 +188,9 @@ procedure Node063;
                                                       poison(who_fluf, random(2,4));                                              \
                                                       if (the_caps > 0) then begin                                                \
                                                          if (self_caps >= the_caps) then begin                                    \
-                                                            item_caps_adjust(self_obj, -the_caps);                                \
+                                                            self_caps_adjust(-the_caps);                                \
                                                          end                                                                      \
-                                                         item_caps_adjust(dude_obj, the_caps);                                    \
+                                                         dude_caps_adjust(the_caps);                                    \
                                                       end                                                                         \
                                                    porn_fade_in;                                                                  \
                                                    if (who_fluf == dude_obj) then begin                                           \
@@ -263,7 +263,7 @@ procedure timed_event_p_proc begin
       porn_fade_in;
       game_ui_enable;
       if (enclave_movie) then begin
-         item_caps_adjust(dude_obj, 2000);
+         dude_caps_adjust(2000);
          set_finished_enclave_movie;
       end else if ((get_deal(deal_deal_0)) or (get_deal(deal_deal_200)) or (get_deal(deal_deal_500))) then begin
          if (dude_is_stupid) then begin
@@ -286,8 +286,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_PORNO_STUDIO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_PORNO_STUDIO);
+         set_self_ai(AI_TOUGH_GUARD);
       end else if (is_loading_game == false) then begin
          switch_brother
       end
@@ -623,7 +623,7 @@ procedure Node027 begin
    NOption(498, Node028, -003);
    BOption(499, Node999, -003);
    NOption(500, Node028, 004);
-   if ((dude_iq >= 8) or (dude_charisma >= 8) or (has_skill(dude_obj,SKILL_CONVERSANT) > 74)) then begin
+   if ((dude_iq >= 8) or (dude_charisma >= 8) or (has_skill(dude_obj,SKILL_SPEECH) > 74)) then begin
       BOption(501, Node029, 004);
    end
    NOption(503, Node999, 004);
@@ -688,10 +688,10 @@ procedure Node035 begin
    if (dude_is_male) then the_msg := mstr(585) + the_msg + mstr(588);
    else the_msg := mstr(586) + the_msg + mstr(589);
    if (get_deal(deal_deal_500)) then begin
-      item_caps_adjust(dude_obj, 500);
+      dude_caps_adjust(500);
       the_msg += mstr(590) + mstr(592);
    end else if (get_deal(deal_deal_200)) then begin
-      item_caps_adjust(dude_obj, 200);
+      dude_caps_adjust(200);
       the_msg += mstr(590) + mstr(591);
    end
    the_msg += mstr(593);
@@ -885,7 +885,7 @@ procedure Node056 begin
    prev_node := 56;
 end
 procedure Node057 begin
-   item_caps_adjust(dude_obj, 250);
+   dude_caps_adjust(250);
    set_extortion_bros(extortion_bros_collected);
    Reply(845 + ((dude_has_porn_star_rep == false) and (dude_is_prizefighter == false) and (dude_is_made_man == false)));
    NOption(847, Node055, 004);

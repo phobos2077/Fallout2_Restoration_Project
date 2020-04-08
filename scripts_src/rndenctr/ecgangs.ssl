@@ -74,8 +74,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_GANGS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_RND_GANGS);
+   set_self_ai(AI_TOUGH_GUARD);
 end
 
 
@@ -99,7 +99,7 @@ procedure critter_p_proc begin
 
 
    set_local_var(LVAR_Hostile, 2);
-   if (local_var(LVAR_Hostile) == 2 and obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (local_var(LVAR_Hostile) == 2 and self_can_see_dude) then begin
       set_local_var(LVAR_Hostile, 1);
       attack(dude_obj);
    end

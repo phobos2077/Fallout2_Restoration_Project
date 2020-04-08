@@ -77,7 +77,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -162,7 +162,7 @@ begin
   if (source_obj == dude_obj) then
   begin
     set_global_var(GVAR_GOOD_MONSTER, global_var(GVAR_GOOD_MONSTER) + 1);
-    if (metarule(51, self_obj) == 2) then
+    if (critter_kill_type(self_obj) == 2) then
     begin
       if (source_obj == dude_obj) then
       begin
@@ -243,14 +243,14 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    if (local_var(LVAR_Herebefore) == 0) then
-      display_msg(message_str(NAME, 100));
+      display_msg(mstr(100));
    else
-      display_msg(message_str(NAME, 101));
+      display_msg(mstr(101));
 end
 
 procedure description_p_proc begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure use_skill_on_p_proc begin

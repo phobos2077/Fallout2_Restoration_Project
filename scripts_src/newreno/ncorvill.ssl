@@ -146,8 +146,8 @@ variable the_obj;
       if (wright_dead) then begin
          kill_critter(self_obj, random(ANIM_fall_back_blood_sf, ANIM_fall_front_blood_sf));
       end else if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_WRIGHT);
+         set_self_ai(AI_TOUGH_GUARD);
       end else if (global_var(GVAR_NEW_RENO_KILL_DADDY_WEAPON) != 0) then begin
          set_wright_dead; //added by killap
          the_obj := create_object(global_var(GVAR_NEW_RENO_KILL_DADDY_WEAPON), tile_num_in_direction(self_tile, random(0,5), 1), self_elevation);
@@ -497,11 +497,11 @@ procedure Node021 begin
    end else begin
       Reply(mstr(436) + mstr(437));
       give_pid_qty(dude_obj, PID_SHOTGUN_SHELLS, 1)
-      item_caps_adjust(dude_obj, 100);
+      dude_caps_adjust(100);
    end
    give_pid_qty(dude_obj, PID_SHOTGUN_SHELLS, 1)
    give_pid_qty(dude_obj, PID_BOOZE, 2)
-   item_caps_adjust(dude_obj, 250);
+   dude_caps_adjust(250);
    NOption(438, Node024, 004);
    NOption(439, Node028, 004);
    prev_node := 21;

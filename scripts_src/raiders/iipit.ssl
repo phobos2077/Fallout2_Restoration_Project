@@ -63,7 +63,7 @@ procedure spatial_p_proc begin
     if (obj_type(source_obj) == 1) then begin
    //if ( source_obj == dude_obj ) then begin
 
-       Range:=get_critter_stat(source_obj,STAT_pe) + PERCEPTION_BONUS;
+       Range:=get_perception(source_obj) + PERCEPTION_BONUS;
        Range_Mod:=Range - (tile_distance_objs(self_obj,source_obj)*DIST_BONUS);
 
        if ((tile_distance_objs(self_obj,source_obj) <= Range) and
@@ -78,7 +78,7 @@ procedure spatial_p_proc begin
 
                set_local_var(LVAR_Trap_Found,1);
                reg_anim_clear(source_obj);
-               Trap:=create_object_sid(ART_TRAP_VISIBLE,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+               Trap:=create_object_sid(ART_TRAP_VISIBLE,self_tile,self_elevation,CUR_SCRIPT);
 
                if (is_critical(Detection_Roll)) then begin
                    if (source_obj == dude_obj) then
@@ -103,12 +103,12 @@ procedure spatial_p_proc begin
            ndebug("Set off the Trap!");
            //Projectile:=create_object(PROJECTILE_WEAPON,INITIAL_TILE,elevation(self_obj));
            //Face_Critter(source_obj,Projectile);
-           if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
+           if (tile_contains_obj_pid(self_tile,self_elevation,ART_TRAP_VISIBLE)) then begin
                ndebug("Destroying Visible Trap");
-               destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
+               destroy_object(tile_contains_pid_obj(self_tile,self_elevation,ART_TRAP_VISIBLE));
                ndebug("Destroyed Visible Trap");
            end
-           Trap:=create_object(ART_TRAP_VISIBLE,tile_num(self_obj),elevation(self_obj));
+           Trap:=create_object(ART_TRAP_VISIBLE,self_tile,self_elevation);
 
             display_msg( message_str( SCRIPT_IIPIT, 100 ) );
            critter_dmg(source_obj,random(MIN_DMG,MAX_DMG),(DMG_normal_dam BWOR DMG_BYPASS_ARMOR BWOR DMG_NOANIMATE));
@@ -151,7 +151,7 @@ procedure DumpPoorBastard begin
    variable PoorBastard;
 
    gfade_out( 10 );
-   if( tile_num( self_obj ) == 15692 ) then begin
+   if( self_tile == 15692) then begin
       ndebug("attempt_pit_to_tile(" + 15692 + ", " + 15091 + ") passed initial check");
       PoorBastard := tile_get_next_critter( 15091, 1, 0 );
       if( PoorBastard > 0 ) then
@@ -160,7 +160,7 @@ procedure DumpPoorBastard begin
       if( PoorBastard > 0 ) then
          critter_attempt_placement( PoorBastard, 15091, 1 );
    end
-   else if( tile_num( self_obj ) == 20504 ) then begin
+   else if( self_tile == 20504) then begin
       ndebug("attempt_pit_to_tile(" + 20504 + ", " + 19299 + ") passed initial check");
       PoorBastard := tile_get_next_critter( 19299, 1, 0 );
       if( PoorBastard > 0 ) then
@@ -169,7 +169,7 @@ procedure DumpPoorBastard begin
       if( PoorBastard > 0 ) then
          critter_attempt_placement( PoorBastard, 19299, 1 );
    end
-   else if( tile_num( self_obj ) == 19084 ) then begin
+   else if( self_tile == 19084) then begin
       ndebug("attempt_pit_to_tile(" + 19084 + ", " + 20291 + ") passed initial check");
       PoorBastard := tile_get_next_critter( 20291, 1, 0 );
       if( PoorBastard > 0 ) then
@@ -178,7 +178,7 @@ procedure DumpPoorBastard begin
       if( PoorBastard > 0 ) then
          critter_attempt_placement( PoorBastard, 20291, 1 );
    end
-   else if( tile_num( self_obj ) == 22879 ) then begin
+   else if( self_tile == 22879) then begin
       ndebug("attempt_pit_to_tile(" + 22879 + ", " + 23904 + ") passed initial check");
       PoorBastard := tile_get_next_critter( 23904, 1, 0 );
       if( PoorBastard > 0 ) then

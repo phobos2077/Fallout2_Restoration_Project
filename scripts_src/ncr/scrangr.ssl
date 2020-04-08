@@ -90,7 +90,7 @@ end
 
 procedure look_at_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(100));
    else
       display_msg(mstr(101));
@@ -99,7 +99,7 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(102));
    else
       display_msg(mstr(103)); // edit by killap (was 102)
@@ -223,8 +223,8 @@ procedure map_enter_p_proc begin
 
    end
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_RANGER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR_RANGER);
+   set_self_ai(AI_TOUGH_GUARD);
 end
 
 
@@ -277,10 +277,10 @@ procedure Node005 begin
    destroy_object(tile_contains_pid_obj(18298,dude_elevation,PID_MALE_SLAVER));
    destroy_object(tile_contains_pid_obj(20497,dude_elevation,PID_MALE_SLAVER));
 
-   Critter := create_object_sid(PID_MALE_SLAVER,18298,elevation(dude_obj),SCRIPT_SCATKSLV);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVERS);
-   Critter := create_object_sid(PID_MALE_SLAVER,20497,elevation(dude_obj),SCRIPT_SCATKSLV);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVERS);
+   Critter := create_object_sid(PID_MALE_SLAVER,18298,dude_elevation,SCRIPT_SCATKSLV);
+   set_team(Critter,TEAM_SLAVERS);
+   Critter := create_object_sid(PID_MALE_SLAVER,20497,dude_elevation,SCRIPT_SCATKSLV);
+   set_team(Critter,TEAM_SLAVERS);
    attack_setup(Critter,self_obj);
 end
 

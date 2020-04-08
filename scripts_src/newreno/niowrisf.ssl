@@ -81,7 +81,7 @@ procedure damage_p_proc;
                                                    end                                                                           \
                                                 end                                                                              \
                                              end
-#define open_chance                          ((5 * (get_critter_stat(source_obj,STAT_iq) >= 7)) + (5 * ((has_skill(source_obj, SKILL_LOCKPICK) >= 50) or (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,0))))) + (5 * ((get_critter_stat(source_obj,STAT_lu) == 9) or (get_critter_stat(source_obj,STAT_pe) == 9) or (is_success(do_check(source_obj, STAT_lu, 0))))) + (25 * ((get_critter_stat(source_obj,STAT_lu) == 10) or (get_critter_stat(source_obj,STAT_pe) == 10))))
+#define open_chance                          ((5 * (get_iq(source_obj) >= 7)) + (5 * ((has_skill(source_obj, SKILL_LOCKPICK) >= 50) or (is_success(roll_vs_skill(dude_obj,SKILL_LOCKPICK,0))))) + (5 * ((get_luck(source_obj) == 9) or (get_perception(source_obj) == 9) or (is_success(do_check(source_obj, STAT_lu, 0))))) + (25 * ((get_luck(source_obj) == 10) or (get_perception(source_obj) == 10))))
 
 variable prev_node;
 import variable new_reno_orville_wright_obj;

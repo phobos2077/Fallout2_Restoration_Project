@@ -112,8 +112,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_TOUGH_GUARD);
 end
 
 
@@ -130,7 +130,7 @@ procedure critter_p_proc begin
       set_local_var(LVAR_Hostile, 2);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -294,7 +294,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if ( ( (bad_critter_reaction or has_rep_childkiller or has_rep_berserker) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) or global_var(TOWN_REP_VAR) < 0) then //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   if ( ( (bad_critter_reaction or has_rep_childkiller or has_rep_berserker) and (not(dude_perk(PERK_cult_of_personality))) ) or global_var(TOWN_REP_VAR) < 0) then //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
       Reply(178);
    else if (jack_state != JACK_SURRENDER) then
       Reply(123);
@@ -302,7 +302,7 @@ procedure Node005 begin
       Reply(124);
 
 
-   if ( ( (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) or (not ((bad_critter_reaction or has_rep_childkiller or has_rep_berserker or global_var(TOWN_REP_VAR) < 0))) ) then begin //edit by killap - added ((has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   if ( ( (dude_perk(PERK_cult_of_personality)) ) or (not ((bad_critter_reaction or has_rep_childkiller or has_rep_berserker or global_var(TOWN_REP_VAR) < 0))) ) then begin //edit by killap - added ((dude_perk(PERK_cult_of_personality)))
       NOption(125, Node016, 4);
    end
    NOption(126, Node018, 4);

@@ -31,7 +31,7 @@
 
 #define NAME                    SCRIPT_GCZOMAK
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_NORMAL) //edit by killap
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_NORMAL) //edit by killap
 //#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
 
 #include "../headers/command.h"
@@ -116,8 +116,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -130,7 +130,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if ( (global_var(GVAR_GECKO_MELTDOWN) == 1) or
            (REP_ENEMY_GECKO) or
            (local_var(LVAR_Personal_Enemy) == 1) ) then begin
@@ -246,7 +246,7 @@ procedure Node910 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -259,7 +259,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;

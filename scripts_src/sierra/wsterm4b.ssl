@@ -98,7 +98,7 @@ end
 procedure use_p_proc begin
    variable Damage;
 
-   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
        end
@@ -304,7 +304,7 @@ procedure give_brains(variable pid, variable num) begin
    variable b, n := 0;
    if pid != 0 then begin
       while n < num do begin
-         b := create_object(pid, 16515, elevation(self_obj)); // some magic tile?
+         b := create_object(pid, 16515, self_elevation); // some magic tile?
          n++;
       end
    end

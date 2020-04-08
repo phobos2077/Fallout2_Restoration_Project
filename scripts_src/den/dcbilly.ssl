@@ -150,8 +150,8 @@ procedure map_enter_p_proc begin
          ndebug("KILLING BILLY, SINCE FRANKIE'S DEAD");
          destroy_object(self_obj);
       end
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOLE);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      set_self_team(TEAM_DEN_HOLE);
+      set_self_ai(AI_PEASANT);
       set_local_var(LVAR_Jerkin_State, 0);
       off_said_jerkin;
       off_frankie_message;
@@ -191,7 +191,7 @@ procedure critter_p_proc begin
          end
       end
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -270,7 +270,7 @@ end
 procedure Node995 begin
    //set money to 200, roll speech and if success goto 3 else goto 7
    sex_money := 200;
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node993;
    end else begin
       call Node007;
@@ -295,7 +295,7 @@ end
 procedure Node993 begin
    // setup sex with billy
    gfade_out(ONE_GAME_SECOND);
-      item_caps_adjust(dude_obj, sex_money);
+      dude_caps_adjust(sex_money);
       set_local_var(LVAR_Had_Sex, game_time + ONE_GAME_DAY);
       critter_attempt_placement(self_obj, billy_sex_tile, self_elevation);
       critter_attempt_placement(sex_partner, billy_player_sex_tile, self_elevation);

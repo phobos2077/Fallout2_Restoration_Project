@@ -23,7 +23,7 @@ procedure talk_p_proc;
 #define LVAR_Battle_Cry                         (1)
 
 procedure start begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_WAR_PARTY);
+   set_self_team(TEAM_RND_WAR_PARTY);
 end
 
 procedure critter_p_proc begin
@@ -32,7 +32,7 @@ procedure critter_p_proc begin
        add_timer_event(self_obj,game_ticks(random(10,20)),1);
    end
 
-   if ((obj_can_see_obj(self_obj,dude_obj)) and (local_var(LVAR_Battle_Cry) == 0)) then begin
+   if ((self_can_see_dude) and (local_var(LVAR_Battle_Cry) == 0)) then begin
        set_local_var(LVAR_Battle_Cry,1);
        floater(random(150,157));
        attack(dude_obj);
@@ -42,7 +42,7 @@ end
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
        set_local_var(LVAR_In_Timed_Event,0);
-       animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(2,5)));
+       self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(2,5)));
    end
 end
 

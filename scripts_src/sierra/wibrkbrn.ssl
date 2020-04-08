@@ -104,7 +104,7 @@ end
 
 procedure map_update_p_proc begin
    if (map_var(MVAR_Explode_Robot) == 1) then begin
-       explosion(tile_num(self_obj),elevation(self_obj),100);
+       explosion(self_tile,self_elevation,100);
        destroy_object(self_obj);
    end
 end

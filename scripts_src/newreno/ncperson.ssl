@@ -66,7 +66,7 @@ procedure Node020;
 
 #define hidden_for_fight_bit           bit_10
 
-#define set_audience_member            if (obj_is_visible_flag(self_obj)) then begin                                                                                                      \
+#define set_audience_member            if (self_visible) then begin                                                                                                      \
                                           if (obj_comedian_audience(self_obj)) then begin                                                                                                 \
                                              if ((commedian_audience_1_obj != self_obj) and (commedian_audience_2_obj != self_obj) and (commedian_audience_3_obj != self_obj)) then begin \
                                                 if ((self_is_female) and (random(0,1))) then begin                                                                                        \
@@ -146,8 +146,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       check_poison_kill_critter
       if (map_first_run) then begin
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_CITIZEN);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_COWARD);
+         set_self_team(TEAM_NEW_RENO_CITIZEN);
+         set_self_ai(AI_COWARD);
       end
       check_visible_townsperson
       set_audience_member

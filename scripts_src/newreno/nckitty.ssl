@@ -90,7 +90,7 @@ procedure Node031;
 
 #define speech_bonus_given             lvar_bit(LVAR_Flags, speech_bonus_given_bit)
 #define set_speech_bonus_given         if (speech_bonus_given == false) then begin              \
-                                          critter_mod_skill(dude_obj, SKILL_CONVERSANT, 3);     \
+                                          critter_mod_skill(dude_obj, SKILL_SPEECH, 3);     \
                                        end                                                      \
                                        set_lvar_bit_on(LVAR_Flags, speech_bonus_given_bit)
 
@@ -225,8 +225,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_CAT_PAW);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_NEW_RENO_CAT_PAW);
+         set_self_ai(AI_TOUGH_CITIZEN);
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
@@ -240,9 +240,9 @@ procedure critter_p_proc begin
          self_attack_dude;
       end
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -351,7 +351,7 @@ procedure Node988 begin
       set_no_whore_floats;
       nr_add_timer_event(self_obj, 5, no_whore_floats_param);
       if (temp_cost > 0) then begin
-         item_caps_adjust(dude_obj, -temp_cost);
+         dude_caps_adjust(-temp_cost);
       end
       if (sex_type == sex_blow_job) then begin
          game_time_advance(have_sex_time / 2);
@@ -502,11 +502,11 @@ variable temp_msg;
    NOption(227, Node004, 004);
    NOption(228, Node012, 004);
    if get_magazines(MAGAZINES_NOTHING) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_CATS_PAW) > 0) then begin
+      if (dude_item_count(PID_CATS_PAW) > 0) then begin
          NOption(229, Node016, 004);
       end
    end else if get_magazines(MAGAZINES_ASSIGNED) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_CATS_PAW) >= 10) then begin
+      if (dude_item_count(PID_CATS_PAW) >= 10) then begin
          NOption(230, Node019, 004);
       end
    end
@@ -644,11 +644,11 @@ procedure Node012 begin
       NOption(249, Node014, 004);
    end
    if (get_magazines(MAGAZINES_NOTHING)) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_CATS_PAW) > 0) then begin
+      if (dude_item_count(PID_CATS_PAW) > 0) then begin
          NOption(229, Node016, 004);
       end
    end else if (get_magazines(MAGAZINES_ASSIGNED)) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_CATS_PAW) >= 10) then begin
+      if (dude_item_count(PID_CATS_PAW) >= 10) then begin
          NOption(230, Node019, 004);
       end
    end
@@ -755,7 +755,7 @@ procedure Node018 begin
    set_magazines(MAGAZINES_ASSIGNED);
    Reply(460);
    NOption(461, Node012, 004);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_CATS_PAW) >= 10) then begin
+   if (dude_item_count(PID_CATS_PAW) >= 10) then begin
       NOption(462, Node019, 004);
    end
    NOption(463, Node999, 004);
@@ -774,7 +774,7 @@ procedure Node020 begin
    NOption(483, Node999, 004);
 end
 procedure Node021 begin
-   item_caps_adjust(dude_obj, 750);
+   dude_caps_adjust(750);
    remove_pid_qty(dude_obj, PID_CATS_PAW, 10)
    set_magazines(MAGAZINES_DONE);
    Reply(490);
@@ -787,7 +787,7 @@ procedure Node022 begin
 end
 procedure Node023 begin
    give_pid_qty(dude_obj, PID_CATS_PAW_ISSUE_5, 1)
-   item_caps_adjust(dude_obj, 500);
+   dude_caps_adjust(500);
    remove_pid_qty(dude_obj, PID_CATS_PAW, 10)
    set_magazines(MAGAZINES_DONE);
    Reply(510);
@@ -844,7 +844,7 @@ procedure Node026 begin
    if (dude_is_female) then begin
       NOption(569, Node977, 004);
       NOption(570, Node977, 004);
-   end else if ((obj_is_carrying_obj_pid(dude_obj, PID_BLUE_CONDOM) + obj_is_carrying_obj_pid(dude_obj, PID_GREEN_CONDOM) + obj_is_carrying_obj_pid(dude_obj, PID_RED_CONDOM)) > 0) then begin
+   end else if ((dude_item_count(PID_BLUE_CONDOM) + dude_item_count(PID_GREEN_CONDOM) + dude_item_count(PID_RED_CONDOM)) > 0) then begin
       NOption(568, Node977, 004);
    end
 end

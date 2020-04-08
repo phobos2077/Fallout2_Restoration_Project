@@ -73,7 +73,7 @@ procedure timed_event_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BRAHMIN);
+   set_self_team(TEAM_RND_BRAHMIN);
    add_timer_event(self_obj, Random(10, 50), TIMER_MOO);
 end
 
@@ -97,7 +97,7 @@ procedure critter_p_proc begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_run_to_tile(tile_num_in_direction(dude_tile, Random(0, 5), 1));
+         self_run_to_tile(tile_num_in_direction(dude_tile, Random(0, 5), 1));
          reg_anim_end();
       end
    end
@@ -105,7 +105,7 @@ end
 
 procedure doExplosion begin
    if (tile_distance_objs(self_obj, dude_obj) < COW_BLOW_DISTANCE) then begin
-      explosion(self_tile, elevation(self_obj), COW_BLOW_DAMAGE);
+      explosion(self_tile, self_elevation, COW_BLOW_DAMAGE);
       return 1;
    end
    return 0;

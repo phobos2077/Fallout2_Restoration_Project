@@ -27,7 +27,7 @@
 #include "../headers/command.h"
 #include "../headers/vctyctyd.h"
 
-#define float_dude(x)             float_msg(dude_obj, message_str(NAME,x), FLOAT_COLOR_NORMAL)
+#define float_dude(x)             float_msg(dude_obj, mstr(x), FLOAT_COLOR_NORMAL)
 
 #define WRENCH_UNKNOWN     (0)
 #define WRENCH_KNOWN       (1)

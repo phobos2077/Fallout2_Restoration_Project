@@ -91,7 +91,7 @@ variable In_Timed_Event;
 
 procedure start begin
    if (local_var(LVAR_Home_Tile) == 0) then begin
-       set_local_var(LVAR_Home_Tile,tile_num(self_obj));
+       set_local_var(LVAR_Home_Tile,self_tile);
    end
 end
 
@@ -103,19 +103,19 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_ARROYO_VILLAGER);
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
-   if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
       Flee_From_Dude
    end
 
-   if ( (REP_ENEMY_ARROYO) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin //added and (obj_can_see_obj(self_obj,dude_obj)) by killap
+   if ( (REP_ENEMY_ARROYO) and (self_can_see_dude) ) then begin //added and (self_can_see_dude) by killap
        attack(dude_obj);
    end
 
@@ -127,11 +127,11 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       if (tile_distance(tile_num(self_obj),local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
-           animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+       if (tile_distance(self_tile,local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
+           self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
        end
        else begin
-           animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(3,7)));
+           self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(3,7)));
        end
        In_Timed_Event:=0;
    end
@@ -189,7 +189,7 @@ end
    This should only hold the most cursory of glances for the player. */
 procedure look_at_p_proc begin
    script_overrides;
-   if (critter_is_male) then begin
+   if (self_is_male) then begin
        display_msg(mstr(100));
    end else begin
        display_msg(mstr(101));
@@ -293,7 +293,7 @@ procedure Node011 begin
 end
 //end
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ)) then begin
+   if (dude_iq <= (0-LOW_IQ)) then begin
       call Node007;
    end else if (local_var(LVAR_Herebefore) == 0) then begin
       call Node001;

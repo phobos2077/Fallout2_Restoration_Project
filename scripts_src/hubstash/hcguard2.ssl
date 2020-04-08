@@ -95,14 +95,14 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (self_can_see_dude) ) then begin
        attack(dude_obj);
    end
 
    if (map_var(MVAR_Attack_Player) != 1) then begin
 
 
-      if ( (local_var(LVAR_Force_Talk) == 1) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+      if ( (local_var(LVAR_Force_Talk) == 1) and (self_can_see_dude) ) then begin
          force_dialog_start(@Node008);
       end
 
@@ -112,13 +112,13 @@ procedure critter_p_proc begin
             if (dude_elevation == 1) then begin
                move_to(self_obj, 22328, 1);
                set_obj_visibility(self_obj, false);
-               if (obj_can_see_obj(self_obj,dude_obj)) then begin
+               if (self_can_see_dude) then begin
                   force_dialog_start(@Node008);
                end
                add_timer_event(self_obj,10,3);
             end else begin
                set_obj_visibility(self_obj, false);
-               if (obj_can_see_obj(self_obj,dude_obj)) then begin
+               if (self_can_see_dude) then begin
                   force_dialog_start(@Node008);
                end
                set_map_var(MVAR_Room_Empty,0);
@@ -219,7 +219,7 @@ end
 
 procedure map_enter_p_proc begin
    guard2_obj := self_obj;
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_HUBOLOGIST_STASH);
+   set_self_team(TEAM_HUBOLOGIST_STASH);
 end
 
 
@@ -275,7 +275,7 @@ end
 
 procedure Node001 begin
    Reply(200);
-   if (has_skill(dude_obj, SKILL_CONVERSANT) > 100) then
+   if (has_skill(dude_obj, SKILL_SPEECH) > 100) then
       NOption(201, Node990, 4);
    NOption(202, Node991, 4);
 end
@@ -294,7 +294,7 @@ end
 procedure Node990 begin
    From_Node := 990;
 
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -30 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -30 ) ) ) then
       call Node005;
    else
       call Node002;
@@ -303,7 +303,7 @@ end
 procedure Node991 begin
    From_Node := 991;
 
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -30 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -30 ) ) ) then
       call Node003;
    else
       call Node002;
@@ -340,7 +340,7 @@ procedure Node008 begin
 end
 
 procedure Node992 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -20 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -20 ) ) ) then
       call Node006;
    else
       call Node007;

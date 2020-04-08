@@ -78,8 +78,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CARAVAN_DRIVER);
+   set_self_team(TEAM_PLAYER);
+   set_self_ai(AI_CARAVAN_DRIVER);
 end
 
 

@@ -122,15 +122,15 @@ variable KickOutTemp                   :=0;
 #define kick_out_of_vault_city      set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_KICKED_OUT);\
                                     set_global_var(GVAR_VAULT_CITIZENSHIP,0);\
                                     set_global_var(GVAR_DAY_PASS_SHOWN, 0);\
-                                    DayPass_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_DAY_PASS);\
+                                    DayPass_KickOutCount := dude_item_count(PID_DAY_PASS);\
                                     if( DayPass_KickOutCount > 0 ) then begin\
-                                       DayPass_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_DAY_PASS);\
+                                       DayPass_KickOutObj := dude_item(PID_DAY_PASS);\
                                        KickOutTemp := rm_mult_objs_from_inven(dude_obj, DayPass_KickOutObj, DayPass_KickOutCount );\
                                        destroy_object(DayPass_KickOutObj); \
                                     end\
-                                    CitizenPapers_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_FAKE_CITIZENSHIP);\
+                                    CitizenPapers_KickOutCount := dude_item_count(PID_FAKE_CITIZENSHIP);\
                                     if( CitizenPapers_KickOutCount > 0 ) then begin\
-                                       CitizenPapers_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_FAKE_CITIZENSHIP);\
+                                       CitizenPapers_KickOutObj := dude_item(PID_FAKE_CITIZENSHIP);\
                                        KickOutTemp := rm_mult_objs_from_inven(dude_obj, CitizenPapers_KickOutObj, CitizenPapers_KickOutCount );\
                                        destroy_object(CitizenPapers_KickOutObj); \
                                     end\
@@ -155,22 +155,22 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    From_28 := 0;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 200 ) and ( game_time_hour < 700 ) ) then begin
          // I'm SLEEPING!!!!
          move_to( self_obj, 25721, 0 );
          critter_attempt_placement( self_obj, 25721, 0 );
-         animate_rotation( 3 );
+         self_rotate(3);
          add_timer_event( self_obj, game_ticks(random(30,40)), 1 );
       end
       else begin
          // I'm WORKING!!!!
          move_to( self_obj, 20717, 0 );
          critter_attempt_placement( self_obj, 20717, 0 );
-         animate_rotation( 3 );
+         self_rotate(3);
          add_timer_event( self_obj, game_ticks(random(30,40)), 1 );
       end
    end
@@ -186,7 +186,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -440,21 +440,21 @@ procedure Node013 begin
    else
       Reply(145);
 
-   if( item_caps_total(dude_obj) >= 5 ) then begin
+   if( dude_caps >= 5) then begin
       NOption(146, Node013a, 004);
       NOption(147, Node013a, 004);
       NOption(148, Node013a, 004);
    end
    NOption(149, Node014, 004);
    NOption(150, Node010b, 004);
-   if( item_caps_total(dude_obj) < 5 ) then
+   if( dude_caps < 5) then
       NOption(151, Node999, 004);
    else
       NOption(152, Node999, 004);
 end
 
 procedure Node013a begin
-   item_caps_adjust( dude_obj, -5 );
+   dude_caps_adjust( -5);
    critter_heal( dude_obj, 1 );
    gfade_out(600);
    game_time_advance( ONE_GAME_MINUTE * 3 );
@@ -469,17 +469,17 @@ procedure Node014 begin
       NOption(154, Node017, 004);
    NOption(155, Node022, 004);
    NOption(156, Node013, 004);
-   if( item_caps_total(dude_obj) >= 20 ) then
+   if( dude_caps >= 20) then
       NOption(157, Node014a, 004);
    NOption(158, Node010b, 004);
-   if( item_caps_total(dude_obj) < 20 ) then
+   if( dude_caps < 20) then
       NOption(159, Node999, 004);
    else
       NOption(160, Node999, 004);
 end
 
 procedure Node014a begin
-   item_caps_adjust( dude_obj, -20 );
+   dude_caps_adjust( -20);
    critter_heal( dude_obj, 3 );
    gfade_out(600);
    game_time_advance( ONE_GAME_MINUTE * 3 );
@@ -527,7 +527,7 @@ procedure Node016 begin
       Reply(168);
 
    NOption(171, Node013, 004);
-   if( item_caps_total(dude_obj) >= 20 ) then
+   if( dude_caps >= 20) then
       NOption(172, Node014a, 004);
    if( has_skill( dude_obj, SKILL_SCIENCE) >= 75 ) then
       NOption(173, Node017, 004);
@@ -541,7 +541,7 @@ procedure Node017 begin
    NOption(177, Node018, 004);
    NOption(178, Node022, 004);
    NOption(179, Node013, 004);
-   if( item_caps_total(dude_obj) >= 20 ) then
+   if( dude_caps >= 20) then
       NOption(180, Node014a, 004);
    NOption(181, Node010b, 004);
    NOption(182, Node999, 004);

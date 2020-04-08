@@ -144,7 +144,7 @@ begin
         critter_stop_attacking(self_obj);
         if (local_var(LVAR_Warriors_released)==0) then begin
             explosion(16104,0,1);
-            float_msg(self_obj, message_str(NAME,109), FLOAT_MSG_LIGHT_GREY);
+            float_msg(self_obj, mstr(109), FLOAT_MSG_LIGHT_GREY);
             set_local_var(LVAR_Warriors_released,1);
             terminate_combat;
          end
@@ -152,7 +152,7 @@ begin
    end else if (global_var(GVAR_LOWER_EPAFIELDS)==1) then begin
       if (local_var(LVAR_Warriors_released)==0) then begin
          explosion(16104,0,1);
-         float_msg(self_obj, message_str(NAME,109), FLOAT_MSG_LIGHT_GREY);
+         float_msg(self_obj, mstr(109), FLOAT_MSG_LIGHT_GREY);
          set_local_var(LVAR_Warriors_released,1);
          terminate_combat;
       end
@@ -171,8 +171,8 @@ end
 procedure critter_p_proc
 begin
      if (global_var(GVAR_LOWER_EPAFIELDS)==1) then begin
-         animate_rotation(5);
-         float_msg(self_obj, message_str(NAME,603), FLOAT_MSG_RED);
+         self_rotate(5);
+         float_msg(self_obj, mstr(603), FLOAT_MSG_RED);
      end
 end
 
@@ -184,15 +184,15 @@ procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 106));
+    display_msg(mstr(106));
   else
-    display_msg(message_str(NAME, 107));
+    display_msg(mstr(107));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 108));
+  display_msg(mstr(108));
 end
 
 procedure use_skill_on_p_proc
@@ -206,7 +206,7 @@ end
 procedure damage_p_proc
 begin
   set_global_var(GVAR_EPADOCTOR_ATTACKED, 1);
-  float_msg(self_obj, message_str(NAME, 109), 12);
+  float_msg(self_obj, mstr(109), FLOAT_MSG_LIGHT_GREY);
 end
 
 procedure map_enter_p_proc
@@ -341,16 +341,16 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 120);
-  giq_option(4, NAME, message_str(NAME, 121) + obj_name(dude_obj) + message_str(NAME, 122), Node002, 50);
-  giq_option(4, NAME, 123, Node001a, 50);
+  Reply(120);
+  NOption(mstr(121) + dude_name + mstr(122), Node002, 4);
+  NOption(123, Node001a, 4);
 end
 
 procedure Node002
 begin
-  gsay_reply(NAME, 130);
-  giq_option(4, NAME, 131, Node002a, 50);
-  giq_option(4, NAME, 132, Node002b, 50);
+  Reply(130);
+  NOption(131, Node002a, 4);
+  NOption(132, Node002b, 4);
 end
 
 procedure Node002a
@@ -363,152 +363,152 @@ end
 
 procedure Node003
 begin
-  gsay_reply(NAME, 140);
-  giq_option(4, NAME, 141, Node005, 50);
-  giq_option(4, NAME, 142, Node006, 50);
+  Reply(140);
+  NOption(141, Node005, 4);
+  NOption(142, Node006, 4);
 end
 
 procedure Node004
 begin
-  gsay_reply(NAME, 150);
+  Reply(150);
 
-   if ((has_skill(dude_obj, SKILL_CONVERSANT) > 100) or (has_skill(dude_obj, SKILL_SCIENCE) > 100)) then begin
-      giq_option(4, NAME, 151, Node007, 50);
-      giq_option(4, NAME, 152, Node004a, 50);
+   if ((has_skill(dude_obj, SKILL_SPEECH) > 100) or (has_skill(dude_obj, SKILL_SCIENCE) > 100)) then begin
+      NOption(151, Node007, 4);
+      NOption(152, Node004a, 4);
    end else if ( (has_skill(dude_obj, SKILL_SMALL_GUNS) > 70) or (has_skill(dude_obj, SKILL_SMALL_GUNS) > 70) or (has_skill(dude_obj, SKILL_BIG_GUNS) > 70) or (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) > 70) or (has_skill(dude_obj, SKILL_MELEE) > 70) ) then begin
-      giq_option(4, NAME, 152, Node062, 50);
+      NOption(152, Node062, 4);
    end else
-      giq_option(4, NAME, 152, Node004a, 50);
+      NOption(152, Node004a, 4);
 end
 
 procedure Node005
 begin
-  gsay_reply(NAME, 160);
-  giq_option(4, NAME, 161, Node009, 50);
-  giq_option(4, NAME, 700, Node050, 50);
+  Reply(160);
+  NOption(161, Node009, 4);
+  NOption(700, Node050, 4);
 end
 
 procedure Node006
 begin
-  gsay_reply(NAME, 170);
-  giq_option(4, NAME, 171, Node013, 50);
-  giq_option(4, NAME, 172, Node014, 50);
+  Reply(170);
+  NOption(171, Node013, 4);
+  NOption(172, Node014, 4);
 end
 
 procedure Node007
 begin
-  gsay_reply(NAME, 180);
-  giq_option(4, NAME, 181, Node008, 50);
+  Reply(180);
+  NOption(181, Node008, 4);
 end
 
 procedure Node008
 begin
-  gsay_reply(NAME, 190);
-  giq_option(4, NAME, 191, Node005, 50);
-  giq_option(4, NAME, 192, Node006, 50);
+  Reply(190);
+  NOption(191, Node005, 4);
+  NOption(192, Node006, 4);
 end
 
 procedure Node009
 begin
-  gsay_reply(NAME, 200);
-  giq_option(4, NAME, 201, Node010, 50);
-  giq_option(4, NAME, 202, Node011, 50);
-  giq_option(4, NAME, 203, Node012, 50);
+  Reply(200);
+  NOption(201, Node010, 4);
+  NOption(202, Node011, 4);
+  NOption(203, Node012, 4);
 end
 
 procedure Node010
 begin
-  gsay_reply(NAME, 210);
-  if (has_skill(dude_obj, SKILL_CONVERSANT) > 90) then
-    giq_option(4, NAME, 211, Node015, 50);
-  giq_option(4, NAME, 212, Node016, 50);
-  giq_option(4, NAME, 213, Node017, 50);
+  Reply(210);
+  if (has_skill(dude_obj, SKILL_SPEECH) > 90) then
+    NOption(211, Node015, 4);
+  NOption(212, Node016, 4);
+  NOption(213, Node017, 4);
 end
 
 procedure Node011
 begin
-  gsay_reply(NAME, 220);
-  giq_option(4, NAME, 221, Node013, 50);
-  giq_option(4, NAME, 222, Node012, 50);
+  Reply(220);
+  NOption(221, Node013, 4);
+  NOption(222, Node012, 4);
 end
 
 procedure Node012
 begin
-  gsay_reply(NAME, 230);
-  giq_option(4, NAME, 231, Node017, 50);
+  Reply(230);
+  NOption(231, Node017, 4);
 end
 
 procedure Node013
 begin
-  gsay_reply(NAME, 250);
-  giq_option(4, NAME, 251, Node018, 50);
-  if (get_critter_stat(dude_obj, STAT_iq) >= 7) then
-    giq_option(4, NAME, 252, Node017, 50);
+  Reply(250);
+  NOption(251, Node018, 4);
+  if (dude_iq >= 7) then
+    NOption(252, Node017, 4);
 end
 
 procedure Node014
 begin
-  gsay_reply(NAME, 240);
-  giq_option(4, NAME, 241, Node019, 50);
-  giq_option(4, NAME, 242, Node020, 50);
+  Reply(240);
+  NOption(241, Node019, 4);
+  NOption(242, Node020, 4);
   if (party_member_obj(16777376) != 0) then
-    giq_option(4, NAME, 243, Node026, 50);
+    NOption(243, Node026, 4);
 end
 
 procedure Node015
 begin
-  gsay_reply(NAME, 260);
-  giq_option(4, NAME, 261, Node021, 50);
-  giq_option(4, NAME, 262, Node006, 50);
-  giq_option(4, NAME, 263, Node017, 50);
+  Reply(260);
+  NOption(261, Node021, 4);
+  NOption(262, Node006, 4);
+  NOption(263, Node017, 4);
 end
 
 procedure Node016
 begin
-  gsay_reply(NAME, 270);
-  giq_option(4, NAME, 271, Node010, 50);
-  giq_option(4, NAME, 272, Node011, 50);
-  giq_option(4, NAME, 273, Node012, 50);
+  Reply(270);
+  NOption(271, Node010, 4);
+  NOption(272, Node011, 4);
+  NOption(273, Node012, 4);
 end
 
 procedure Node017
 begin
-  gsay_reply(NAME, 280);
-  giq_option(4, NAME, 281, Node032, 50);
-  giq_option(4, NAME, 282, Node017a, 50);
+  Reply(280);
+  NOption(281, Node032, 4);
+  NOption(282, Node017a, 4);
 end
 
 procedure Node018
 begin
-  gsay_reply(NAME, 290);
-  giq_option(4, NAME, 291, Node022, 50);
-  giq_option(4, NAME, 292, Node018a, 50);
+  Reply(290);
+  NOption(291, Node022, 4);
+  NOption(292, Node018a, 4);
 end
 
 procedure Node019
 begin
-  gsay_reply(NAME, 300);
-  giq_option(4, NAME, 301, Node023, 50);
-  giq_option(4, NAME, 302, Node024, 50);
+  Reply(300);
+  NOption(301, Node023, 4);
+  NOption(302, Node024, 4);
 end
 
 procedure Node020
 begin
-  gsay_reply(NAME, 310);
-  giq_option(4, NAME, 311, Node019, 50);
+  Reply(310);
+  NOption(311, Node019, 4);
 end
 
 procedure Node021
 begin
-  gsay_reply(NAME, 320);
-  giq_option(4, NAME, 321, Node025, 50);
+  Reply(320);
+  NOption(321, Node025, 4);
 end
 
 procedure Node022
 begin
-  gsay_reply(NAME, 330);
-  giq_option(4, NAME, 331, Node022a, 50);
-  giq_option(4, NAME, 332, Node022b, 50);
+  Reply(330);
+  NOption(331, Node022a, 4);
+  NOption(332, Node022b, 4);
 end
 
 procedure Node022a
@@ -520,33 +520,33 @@ end
 
 procedure Node023
 begin
-  gsay_reply(NAME, 340);
-  giq_option(4, NAME, 341, Node024, 50);
+  Reply(340);
+  NOption(341, Node024, 4);
 end
 
 procedure Node024
 begin
-  gsay_reply(NAME, 350);
-  giq_option(4, NAME, 351, Node017, 50);
+  Reply(350);
+  NOption(351, Node017, 4);
 end
 
 procedure Node025
 begin
-  gsay_reply(NAME, 360);
-  giq_option(4, NAME, 361, Node022a, 50);
-  giq_option(4, NAME, 362, Node022b, 50);
+  Reply(360);
+  NOption(361, Node022a, 4);
+  NOption(362, Node022b, 4);
 end
 
 procedure Node026
 begin
-  gsay_reply(NAME, 370);
-  giq_option(4, NAME, 371, Node027, 50);
+  Reply(370);
+  NOption(371, Node027, 4);
 end
 
 procedure Node027
 begin
-  gsay_reply(NAME, 380);
-  giq_option(4, NAME, 381, Node027a, 50);
+  Reply(380);
+  NOption(381, Node027a, 4);
 end
 
 procedure Node027a
@@ -561,14 +561,14 @@ end
 
 procedure Node028
 begin
-  gsay_reply(NAME, 390);
-  giq_option(4, NAME, 391, Node029, 50);
+  Reply(390);
+  NOption(391, Node029, 4);
 end
 
 procedure Node029
 begin
-  gsay_reply(NAME, 400);
-  giq_option(4, NAME, 401, Node029a, 50);
+  Reply(400);
+  NOption(401, Node029a, 4);
   //giq_option(4, NAME, 411, Node031, 50);
 end
 
@@ -583,68 +583,68 @@ end
 
 procedure Node030
 begin
-  gsay_reply(NAME, 410);
-  giq_option(4, NAME, 411, Node031, 50);
+  Reply(410);
+  NOption(411, Node031, 4);
 end
 
 procedure Node031
 begin
-  gsay_reply(NAME, 420);
-  giq_option(4, NAME, 421, Node032, 50);
-  giq_option(4, NAME, 422, Node017a, 50);
+  Reply(420);
+  NOption(421, Node032, 4);
+  NOption(422, Node017a, 4);
 end
 
 procedure Node032
 begin
-  gsay_reply(NAME, 430);
-  if (obj_is_carrying_obj_pid(dude_obj, PID_GOLDEN_GECKO_PELT) >= 10) then
-    giq_option(4, NAME, 432, Node039, 50);
-  if (obj_is_carrying_obj_pid(dude_obj, PID_GOLDEN_GECKO_PELT) <= 9) then
-    giq_option(4, NAME, 431, Node032a, 50);
+  Reply(430);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) >= 10) then
+    NOption(432, Node039, 4);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) <= 9) then
+    NOption(431, Node032a, 4);
 end
 
 procedure Node033
 begin
-  gsay_reply(NAME, 440);
-  giq_option(4, NAME, 441, Node002, 50);
+  Reply(440);
+  NOption(441, Node002, 4);
 end
 
 procedure Node034
 begin
-  gsay_reply(NAME, 450);
-  giq_option(4, NAME, 451, Node002a, 50);
+  Reply(450);
+  NOption(451, Node002a, 4);
 end
 
 procedure Node035
 begin
-  gsay_reply(NAME, 460);
-  giq_option(4, NAME, 461, Node031, 50);
-  giq_option(4, NAME, 462, Node999, 50);
+  Reply(460);
+  NOption(461, Node031, 4);
+  NOption(462, Node999, 4);
 end
 
 procedure Node036
 begin
-  gsay_reply(NAME, 470);
-  giq_option(4, NAME, 471, Node022a, 50);
-  giq_option(4, NAME, 472, Node037, 50);
+  Reply(470);
+  NOption(471, Node022a, 4);
+  NOption(472, Node037, 4);
 end
 
 procedure Node037
 begin
-  gsay_reply(NAME, 480);
-  giq_option(4, NAME, 481, Node014, 50);
-  giq_option(4, NAME, 482, Node010, 50);
-  giq_option(4, NAME, 483, Node031, 50);
-  giq_option(4, NAME, 484, Node012, 50);
+  Reply(480);
+  NOption(481, Node014, 4);
+  NOption(482, Node010, 4);
+  NOption(483, Node031, 4);
+  NOption(484, Node012, 4);
 end
 
 procedure Node038
 begin
-  gsay_reply(NAME, 490);
-  if (obj_is_carrying_obj_pid(dude_obj, PID_GOLDEN_GECKO_PELT) >= 10) then
-    giq_option(4, NAME, 491, Node039, 50);
-  if (obj_is_carrying_obj_pid(dude_obj, PID_GOLDEN_GECKO_PELT) <= 9) then
-    giq_option(4, NAME, 492, Node999, 50);
+  Reply(490);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) >= 10) then
+    NOption(491, Node039, 4);
+  if (dude_item_count(PID_GOLDEN_GECKO_PELT) <= 9) then
+    NOption(492, Node999, 4);
 end
 
 procedure Node039
@@ -652,50 +652,50 @@ begin
   variable LVar1 := 0;
   variable LVar2 := 0;
 
-  gsay_reply(NAME, 500);
-  giq_option(4, NAME, 501, Node040, 50);
-  giq_option(4, NAME, 502, Node039a, 50);
+  Reply(500);
+  NOption(501, Node040, 4);
+  NOption(502, Node039a, 4);
   set_global_var(GVAR_FETCH_GECKOPELTS, 2);
-  LVar1 := obj_carrying_pid_obj(dude_obj, PID_GOLDEN_GECKO_PELT);
+  LVar1 := dude_item(PID_GOLDEN_GECKO_PELT);
   LVar2 := rm_mult_objs_from_inven(dude_obj, LVar1, 10);
   destroy_object(LVar1);
 end
 
 procedure Node040
 begin
-  gsay_reply(NAME, 510);
+  Reply(510);
   if (global_var(GVAR_EPALIGHTING_GEN) != 4) then
-    giq_option(4, NAME, 511, Node040a, 50);
+    NOption(511, Node040a, 4);
   if (global_var(GVAR_EPALIGHTING_GEN) != 4) then
-    giq_option(4, NAME, 512, Node039a, 50);
+    NOption(512, Node039a, 4);
   if (global_var(GVAR_EPALIGHTING_GEN) == 4) then
-    giq_option(4, NAME, 513, Node042, 50);
+    NOption(513, Node042, 4);
 end
 
 procedure Node041
 begin
-  gsay_reply(NAME, 520);
-  giq_option(4, NAME, 521, Node017, 50);
-  giq_option(4, NAME, 522, Node999, 50);
+  Reply(520);
+  NOption(521, Node017, 4);
+  NOption(522, Node999, 4);
 end
 
 procedure Node042
 begin
-  gsay_reply(NAME, 531);
-  giq_option(4, NAME, 532, Node043, 50);
+  Reply(531);
+  NOption(532, Node043, 4);
 end
 
 procedure Node043
 begin
-  gsay_reply(NAME, 540);
-  giq_option(4, NAME, 541, Node044, 50);
-  giq_option(4, NAME, 592, Node999, 50);
+  Reply(540);
+  NOption(541, Node044, 4);
+  NOption(592, Node999, 4);
 end
 
 procedure Node044
 begin
-  gsay_reply(NAME, 550);
-  giq_option(4, NAME, 551, Node044a, 50);
+  Reply(550);
+  NOption(551, Node044a, 4);
 end
 
 procedure Node044a
@@ -711,21 +711,21 @@ end
 
 procedure Node045
 begin
-  gsay_reply(NAME, 570);
-  giq_option(4, NAME, 571, Node046, 50);
+  Reply(570);
+  NOption(571, Node046, 4);
 end
 
 procedure Node046
 begin
-  gsay_reply(NAME, 580);
-  giq_option(4, NAME, 581, Node046a, 50);
+  Reply(580);
+  NOption(581, Node046a, 4);
 end
 
 procedure Node047
 begin
-  gsay_reply(NAME, 590);
-  giq_option(4, NAME, 591, Node040a, 50);
-  giq_option(4, NAME, 592, Node999, 50);
+  Reply(590);
+  NOption(591, Node040a, 4);
+  NOption(592, Node999, 4);
 end
 
 procedure Node001a
@@ -782,111 +782,111 @@ end
 
 procedure Node048
 begin
-  gsay_reply(NAME, 600);
-  giq_option(4, NAME, 601, Node999, 50);
+  Reply(600);
+  NOption(601, Node999, 4);
 end
 
 procedure Node049
 begin
-  gsay_reply(NAME, 530);
+  Reply(530);
   if (global_var(GVAR_EPALIGHTING_GEN) != 4) then
-    giq_option(4, NAME, 533, Node999, 50);
+    NOption(533, Node999, 4);
   if (global_var(GVAR_EPALIGHTING_GEN) == 4) then
-    giq_option(4, NAME, 602, Node042, 50);
+    NOption(602, Node042, 4);
 end
 
 procedure Node050
 begin
-  gsay_reply(NAME, 701);
-  giq_option(4, NAME, 702, Node051, 50);
+  Reply(701);
+  NOption(702, Node051, 4);
 end
 
 procedure Node051
 begin
-  gsay_reply(NAME, 703);
-  giq_option(4, NAME, 704, Node052, 50);
+  Reply(703);
+  NOption(704, Node052, 4);
 end
 
 procedure Node052
 begin
-  gsay_reply(NAME, 705);
-  giq_option(4, NAME, 706, Node053, 50);
+  Reply(705);
+  NOption(706, Node053, 4);
 end
 
 procedure Node053
 begin
-  gsay_reply(NAME, 707);
-  giq_option(4, NAME, 708, Node054, 50);
-  giq_option(4, NAME, 709, Node055, 50);
-  giq_option(4, NAME, 710, Node055, 50);
-  giq_option(4, NAME, 715, Node999, 50);
+  Reply(707);
+  NOption(708, Node054, 4);
+  NOption(709, Node055, 4);
+  NOption(710, Node055, 4);
+  NOption(715, Node999, 4);
 end
 
 procedure Node054
 begin
-  gsay_reply(NAME, 711);
-  giq_option(4, NAME, 712, Node056, 50);
-  giq_option(4, NAME, 730, Node009, 50);
-  giq_option(4, NAME, 729, Node022a, 50);
-  giq_option(4, NAME, 715, Node999, 50);
+  Reply(711);
+  NOption(712, Node056, 4);
+  NOption(730, Node009, 4);
+  NOption(729, Node022a, 4);
+  NOption(715, Node999, 4);
 end
 
 procedure Node055
 begin
-  gsay_reply(NAME, 728);
-  giq_option(4, NAME, 712, Node056, 50);
-  giq_option(4, NAME, 729, Node022a, 50);
-  giq_option(4, NAME, 715, Node999, 50);
+  Reply(728);
+  NOption(712, Node056, 4);
+  NOption(729, Node022a, 4);
+  NOption(715, Node999, 4);
 end
 
 procedure Node056
 begin
-  gsay_reply(NAME, 713);
-  giq_option(4, NAME, 714, Node057, 50);
-  giq_option(4, NAME, 729, Node022a, 50);
-  giq_option(4, NAME, 715, Node999, 50);
+  Reply(713);
+  NOption(714, Node057, 4);
+  NOption(729, Node022a, 4);
+  NOption(715, Node999, 4);
 end
 
 procedure Node057
 begin
-  gsay_reply(NAME, 716);
-  giq_option(4, NAME, 717, Node058, 50);
-  giq_option(4, NAME, 715, Node999, 50);
+  Reply(716);
+  NOption(717, Node058, 4);
+  NOption(715, Node999, 4);
 end
 
 procedure Node058
 begin
-  gsay_reply(NAME, 718);
-  giq_option(4, NAME, 720, Node059, 50);
-  giq_option(4, NAME, 721, Node061, 50);
-  giq_option(4, NAME, 730, Node009, 50);
-  giq_option(4, NAME, 719, Node999, 50);
+  Reply(718);
+  NOption(720, Node059, 4);
+  NOption(721, Node061, 4);
+  NOption(730, Node009, 4);
+  NOption(719, Node999, 4);
 end
 
 procedure Node059
 begin
-  gsay_reply(NAME, 722);
-  giq_option(4, NAME, 723, Node060, 50);
-  giq_option(4, NAME, 721, Node061, 50);
-  giq_option(4, NAME, 715, Node999, 50);
+  Reply(722);
+  NOption(723, Node060, 4);
+  NOption(721, Node061, 4);
+  NOption(715, Node999, 4);
 end
 
 procedure Node060
 begin
-  gsay_reply(NAME, 724);
-  giq_option(4, NAME, 725, Node061, 50);
-  giq_option(4, NAME, 730, Node009, 50);
-  giq_option(4, NAME, 726, Node999, 50);
+  Reply(724);
+  NOption(725, Node061, 4);
+  NOption(730, Node009, 4);
+  NOption(726, Node999, 4);
 end
 
 procedure Node061
 begin
-  gsay_reply(NAME, 731);
-  giq_option(4, NAME, 730, Node009, 50);
-  giq_option(4, NAME, 192, Node006, 50);
-  giq_option(4, NAME, 201, Node010, 50);
-  giq_option(4, NAME, 202, Node011, 50);
-  giq_option(4, NAME, 203, Node012, 50);
+  Reply(731);
+  NOption(730, Node009, 4);
+  NOption(192, Node006, 4);
+  NOption(201, Node010, 4);
+  NOption(202, Node011, 4);
+  NOption(203, Node012, 4);
 end
 
 procedure Node998
@@ -907,7 +907,7 @@ begin
   begin
     if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
     begin
-      float_msg(self_obj, message_str(NAME, random(100, 105)), 12);
+      float_msg(self_obj, mstr(random(100, 105)), FLOAT_MSG_LIGHT_GREY);
       add_timer_event(self_obj, game_ticks(random(13, 16)), 2);
     end
   end
@@ -917,60 +917,60 @@ procedure createExitGrids begin
    variable grid;
 
 
-   grid:=create_object_sid(83886102,6522,0,-1);
-   grid:=create_object_sid(83886102,6521,0,-1);
-   grid:=create_object_sid(83886102,6520,0,-1);
-   grid:=create_object_sid(83886102,6519,0,-1);
-   grid:=create_object_sid(83886102,6518,0,-1);
-   grid:=create_object_sid(83886102,6517,0,-1);
-   grid:=create_object_sid(83886102,5922,0,-1);
-   grid:=create_object_sid(83886102,5920,0,-1);
-   grid:=create_object_sid(83886102,5918,0,-1);
-   grid:=create_object_sid(83886102,5916,0,-1);
-   grid:=create_object_sid(83886102,5915,0,-1);
+   grid:=create_object(83886102,6522,0);
+   grid:=create_object(83886102,6521,0);
+   grid:=create_object(83886102,6520,0);
+   grid:=create_object(83886102,6519,0);
+   grid:=create_object(83886102,6518,0);
+   grid:=create_object(83886102,6517,0);
+   grid:=create_object(83886102,5922,0);
+   grid:=create_object(83886102,5920,0);
+   grid:=create_object(83886102,5918,0);
+   grid:=create_object(83886102,5916,0);
+   grid:=create_object(83886102,5915,0);
 
-   grid:=create_object_sid(83886097,6918,0,-1);
-   grid:=create_object_sid(83886097,6717,0,-1);
-   grid:=create_object_sid(83886097,6316,0,-1);
-   grid:=create_object_sid(83886097,6115,0,-1);
+   grid:=create_object(83886097,6918,0);
+   grid:=create_object(83886097,6717,0);
+   grid:=create_object(83886097,6316,0);
+   grid:=create_object(83886097,6115,0);
 
-   grid:=create_object_sid(83886103,6315,0,-1);
-   grid:=create_object_sid(83886103,6319,0,-1);
-   grid:=create_object_sid(83886103,6317,0,-1);
-   grid:=create_object_sid(83886103,6321,0,-1);
-   grid:=create_object_sid(83886103,6323,0,-1);
-   grid:=create_object_sid(83886103,5914,0,-1);
-   grid:=create_object_sid(83886103,5915,0,-1);
-   grid:=create_object_sid(83886103,6113,0,-1);
+   grid:=create_object(83886103,6315,0);
+   grid:=create_object(83886103,6319,0);
+   grid:=create_object(83886103,6317,0);
+   grid:=create_object(83886103,6321,0);
+   grid:=create_object(83886103,6323,0);
+   grid:=create_object(83886103,5914,0);
+   grid:=create_object(83886103,5915,0);
+   grid:=create_object(83886103,6113,0);
 
-   /*grid:=create_object_sid(83886103,6715,0,-1);
-   grid:=create_object_sid(83886103,6716,0,-1);
-   grid:=create_object_sid(83886103,7319,0,-1);
-   grid:=create_object_sid(83886103,7118,0,-1);
-   grid:=create_object_sid(83886103,6923,0,-1);
-   grid:=create_object_sid(83886103,6722,0,-1);
-   grid:=create_object_sid(83886103,6720,0,-1);
-   grid:=create_object_sid(83886103,6718,0,-1);
-   grid:=create_object_sid(83886103,7323,0,-1);
-   grid:=create_object_sid(83886103,7122,0,-1);
-   grid:=create_object_sid(83886103,7321,0,-1);
-   grid:=create_object_sid(83886103,7120,0,-1);
-   grid:=create_object_sid(83886103,7117,0,-1);
-   grid:=create_object_sid(83886099,7317,0,-1);
+   /*grid:=create_object(83886103,6715,0);
+   grid:=create_object(83886103,6716,0);
+   grid:=create_object(83886103,7319,0);
+   grid:=create_object(83886103,7118,0);
+   grid:=create_object(83886103,6923,0);
+   grid:=create_object(83886103,6722,0);
+   grid:=create_object(83886103,6720,0);
+   grid:=create_object(83886103,6718,0);
+   grid:=create_object(83886103,7323,0);
+   grid:=create_object(83886103,7122,0);
+   grid:=create_object(83886103,7321,0);
+   grid:=create_object(83886103,7120,0);
+   grid:=create_object(83886103,7117,0);
+   grid:=create_object(83886099,7317,0);
 
-   grid:=create_object_sid(83886103,6123,0,-1);
-   grid:=create_object_sid(83886103,6321,0,-1);
-   grid:=create_object_sid(83886103,6119,0,-1);
-   grid:=create_object_sid(83886103,6517,0,-1);
-   grid:=create_object_sid(83886103,6518,0,-1);
-   grid:=create_object_sid(83886103,6515,0,-1);
-   grid:=create_object_sid(83886103,6723,0,-1);
-   grid:=create_object_sid(83886103,6522,0,-1);
-   grid:=create_object_sid(83886103,6721,0,-1);
-   grid:=create_object_sid(83886103,6520,0,-1);
-   grid:=create_object_sid(83886103,6114,0,-1);
-   grid:=create_object_sid(83886103,6116,0,-1);
-   grid:=create_object_sid(83886099,6113,0,-1);*/
+   grid:=create_object(83886103,6123,0);
+   grid:=create_object(83886103,6321,0);
+   grid:=create_object(83886103,6119,0);
+   grid:=create_object(83886103,6517,0);
+   grid:=create_object(83886103,6518,0);
+   grid:=create_object(83886103,6515,0);
+   grid:=create_object(83886103,6723,0);
+   grid:=create_object(83886103,6522,0);
+   grid:=create_object(83886103,6721,0);
+   grid:=create_object(83886103,6520,0);
+   grid:=create_object(83886103,6114,0);
+   grid:=create_object(83886103,6116,0);
+   grid:=create_object(83886099,6113,0);*/
 
    set_local_var(LVAR_Get_Widget,1);
    set_map_var(MVAR_Maze_Open,1);
@@ -1008,7 +1008,7 @@ end
 
 procedure Node066 begin
    Reply(830);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_DRILL) >= 1) then begin
+   if (dude_item_count(PID_DRILL) >= 1) then begin
       NOption(832,Node068,004);
       NOption(833,Node069,004);
    end else begin

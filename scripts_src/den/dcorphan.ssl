@@ -92,7 +92,7 @@ procedure Node999;                                      // This Node is Always E
             inven_value := 0;                                                                \
             inven_num := 0;                                                                  \
             while (inven_num < inven_count(self_obj)) do begin                               \
-               inven_value += (obj_cost(inven_ptr(self_obj, inven_num)) * obj_is_carrying_obj_pid(self_obj, obj_pid(inven_ptr(self_obj, inven_num)))); \
+               inven_value += (obj_cost(inven_ptr(self_obj, inven_num)) * self_item_count(obj_pid(inven_ptr(self_obj, inven_num)))); \
                inven_num += 1;                                                               \
             end                                                                              \
             inven_value := (25 * inven_value)/100;                                           \
@@ -204,8 +204,8 @@ procedure map_enter_p_proc begin
          end else if (cur_map_index == MAP_DEN_BUSINESS) then begin
             is_closest_business(hole_heart, store_def_hole)
          end
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_ORPHAN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+         set_self_team(TEAM_DEN_ORPHAN);
+         set_self_ai(AI_CHILD);
       end
       set_local_var(LVAR_Caps, random(25, 75));
       if (((local_var(LVAR_Loyal_To_Store) == store_def_tubby) and (tubby_dead)) or
@@ -253,7 +253,7 @@ procedure critter_p_proc begin
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
       anim_move_to_point_rate(local_var(LVAR_Home_Tile), 2)
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -288,7 +288,7 @@ end
 procedure destroy_p_proc begin
    //inc_childkiller
    inc_good_critter //edit by killap
-   item_caps_adjust(self_obj, local_var(LVAR_Caps));
+   self_caps_adjust(local_var(LVAR_Caps));
 end
 
 procedure look_at_p_proc begin
@@ -321,7 +321,7 @@ procedure Attempted_Theft begin
       if (random(1,10) <= 3 + (2 * is_critical(Skill_Roll))) then begin
          Inven_Roll := random(0, (inven_count(dude_obj)-1));
          item := inven_ptr(dude_obj, Inven_Roll);
-         if ((critter_inven_obj(dude_obj,INVEN_TYPE_RIGHT_HAND) != item) and (critter_inven_obj(dude_obj,INVEN_TYPE_LEFT_HAND) != item) and (critter_inven_obj(dude_obj,INVEN_TYPE_WORN) != item)) then begin
+         if ((dude_right_hand != item) and (dude_left_hand != item) and (dude_armor != item)) then begin
             ndebug("\nOrphan Stole Inventory Item #"+Inven_Roll+".");
             count := rm_mult_objs_from_inven(dude_obj, item, 1);
             add_mult_objs_to_inven(self_obj, item, 1);
@@ -329,8 +329,8 @@ procedure Attempted_Theft begin
       end else if (dude_caps > 0) then begin
          item := random(MIN_MONEY + (MIN_MONEY * is_critical(Skill_Roll)),MAX_MONEY + (MAX_MONEY * is_critical(Skill_Roll)));
          item := item - (item % dude_caps);
-         item_caps_adjust(dude_obj, -item);
-         item_caps_adjust(self_obj, item);
+         dude_caps_adjust(-item);
+         self_caps_adjust(item);
          ndebug("Orphan Stole "+item+" NCR Brahma Bucks.");
       end
    end
@@ -338,7 +338,7 @@ procedure Attempted_Theft begin
    //new code by killap - 2 lines below are commented out by killap as well
    reg_anim_clear(self_obj);
    reg_anim_begin();
-      reg_anim_animate(self_obj, ANIM_magic_hands_middle, rotation_to_tile(self_tile,dude_tile));
+      reg_anim_animate(self_obj, ANIM_magic_hands_middle, self_rotation_to_dude);
    reg_anim_end();
    //end added
 
@@ -363,6 +363,6 @@ end
 
 procedure poziv
 begin
-  if ((local_var(8) == 1) and (((global_var(445) bwand 4) != 0) == 0) or ((local_var(8) == 3) and (((global_var(445) bwand 8) != 0) == 0)) or ((local_var(8) == 2) and (((global_var(445) bwand 4) != 0) == 0)) or ((local_var(8) == 4) and (((global_var(445) bwand 2) != 0) == 0))) then
+  if ((local_var(8) == 1) and (((global_var(GVAR_DEN_FLAG_1) bwand 4) != 0) == 0) or ((local_var(8) == 3) and (((global_var(GVAR_DEN_FLAG_1) bwand 8) != 0) == 0)) or ((local_var(8) == 2) and (((global_var(GVAR_DEN_FLAG_1) bwand 4) != 0) == 0)) or ((local_var(8) == 4) and (((global_var(GVAR_DEN_FLAG_1) bwand 2) != 0) == 0))) then
     call Attempted_Theft;
 end

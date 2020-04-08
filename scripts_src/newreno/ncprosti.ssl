@@ -99,7 +99,7 @@ end
 
 #define check_sidewalk(big_box_condition, sub_box_condition, the_tile)           \
          if ((big_box_condition) and (sub_box_condition == false)) then begin    \
-            animate_move_to_tile(the_tile);                                      \
+            self_walk_to_tile(the_tile);                                      \
          end
 procedure timed_event_p_proc begin
 variable temp_tile;
@@ -148,7 +148,7 @@ variable temp_tile;
       if (is_cats_paw_whore == false) then begin
          if ((anim_busy(self_obj) == false) and (random(1,5) == 1)) then begin
             if (self_tile != local_var(LVAR_Home_Tile)) then begin
-               animate_move_to_tile(local_var(LVAR_Home_Tile));
+               self_walk_to_tile(local_var(LVAR_Home_Tile));
             end else begin
                temp_tile := tile_num_in_direction(self_tile, random(0, 5), random(5,15));
                if (self_team == TEAM_NEW_RENO_PIMP_1) then begin
@@ -180,11 +180,11 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          if (obj_cats_paw_building(self_obj)) then begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_CATS_PAW);
+            set_self_team(TEAM_NEW_RENO_CATS_PAW);
          end else begin
             set_team_pimp
          end
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PROSTITUTE);
+         set_self_ai(AI_PROSTITUTE);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end

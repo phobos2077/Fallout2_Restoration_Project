@@ -33,7 +33,7 @@
 
 #define NAME                    SCRIPT_GCLENNY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 #define UNKNOWN     0
 #define HOUSE       1
 #define SHOP        2
@@ -101,7 +101,7 @@ procedure Node999;                                      // This Node is Always E
 
 #define lenny_joins_party                 party_add(self_obj);                                                   \
                                           add_timer_event(self_obj,game_ticks(1),1);                             \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+                                          set_self_team(TEAM_PLAYER)
 #define dude_has_free_slot_for_lenny        ((dude_at_max_party_size == false) and (Lenny_In_Party == false))
 #define lenny_party_member_options                                                                \
          party_member_default_options
@@ -238,7 +238,7 @@ procedure map_enter_p_proc begin
    end
    else begin
       Only_Once:=0;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
+      set_self_team(TEAM_GECKO);
       //NEVER SET AI FOR NPC's
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PARTY_LENNY_DEFENSIVE);
    end
@@ -250,7 +250,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -319,7 +319,7 @@ procedure critter_p_proc begin
    if ( ((local_var(LVAR_Hostile) == 2) or
          ( (cur_town == AREA_GECKO) and (global_var(GVAR_ENEMY_GECKO)) ) or //edit by killap - added ( (cur_town == AREA_GECKO) and (global_var(GVAR_ENEMY_GECKO)) )
          (local_var(LVAR_Personal_Enemy) == 1)) and
-         (obj_can_see_obj(self_obj,dude_obj))) then begin
+         (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -329,7 +329,7 @@ procedure critter_p_proc begin
          call Node070;
          ndebug("Bad Karma");
       end
-      else if ( (has_rep_childkiller) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+      else if ( (has_rep_childkiller) and (not(dude_perk(PERK_cult_of_personality))) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
          call Node071;
          ndebug("Childkiller");
       end
@@ -396,7 +396,7 @@ end
 
 procedure push_p_proc begin
    k:=2300+random(0,7);
-   float_msg(self_obj, message_str(NAME,k),FLOAT_COLOR_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(k),FLOAT_COLOR_NORMAL); //edit by killap
    //floater(k);
 end
 
@@ -432,7 +432,7 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    end
-   else if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
+   else if ((dude_is_stupid)) then begin
       call Node003;
    end
    else begin
@@ -478,7 +478,7 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure checkarea begin
-   here:=tile_num(self_obj);
+   here:=self_tile;
    area:=UNKNOWN;
    if (tile_distance(here,17926) < 5) then area:=HOUSE;//these distances should be small
    else if (tile_distance(here,18100) < 4) then area:=SHOP;//so the duntons wont block doorways
@@ -507,10 +507,10 @@ procedure HealPlayer begin
 end
 
 procedure PayDude begin
-   k:=item_caps_total( dude_obj );
+   k:=dude_caps;
    if( k >= Heal_Cost ) then begin
       // Heal the player.
-      item_caps_adjust(dude_obj, -Heal_Cost);
+      dude_caps_adjust(-Heal_Cost);
       if (prev_node == 922) then begin
          //do nothing
       end else begin
@@ -518,7 +518,7 @@ procedure PayDude begin
       end
    end
    else begin
-      item_caps_adjust(dude_obj, -k); //heal him anyway but take all money
+      dude_caps_adjust(-k); //heal him anyway but take all money
       call Node024; //added by killap
    end
 end
@@ -605,7 +605,7 @@ procedure timed_event_p_proc begin
          if (Lenny_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(5000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then
+            else if (self_rads) then
                floater(5001);
             else if (get_poison(self_obj)) then
                floater(5002);
@@ -827,7 +827,7 @@ end
 
 procedure Node951 begin
 //   call Node021;
-   if ( (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) or ( (check_general_rep > 0) and (local_var(LVAR_reaction) > 30) ) ) then begin //edit by killap - ((has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   if ( (dude_perk(PERK_cult_of_personality)) or ( (check_general_rep > 0) and (local_var(LVAR_reaction) > 30) ) ) then begin //edit by killap - ((dude_perk(PERK_cult_of_personality)))
       call Node021;
    end
    else begin
@@ -864,7 +864,7 @@ procedure Node966 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -877,7 +877,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -1226,7 +1226,7 @@ procedure Node071 begin
    if (self_visible) then
       floater(370);
    set_self_abandon_party;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
+   set_self_team(TEAM_GECKO);
 end
 
 procedure Node072 begin
@@ -1250,7 +1250,7 @@ procedure Node074 begin
    if (self_visible) then
       floater(370);
    set_self_abandon_party;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
+   set_self_team(TEAM_GECKO);
 end
 
 procedure Node075 begin
@@ -1264,7 +1264,7 @@ procedure Node076 begin
    if (self_visible) then
       floater(370);
    set_self_abandon_party;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
+   set_self_team(TEAM_GECKO);
 end
 
 // RP content - killap
@@ -1357,7 +1357,7 @@ procedure Node1000 begin
 
    if ((get_westin_flag(WESTIN_DRUGS_KNOWN) or (MacRae_In_Party)) and local_var(LVAR_Heart_Health_Talk) == 0) then
       NOption(6000,Node077,004);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_HEART_PILLS)) and not(get_westin_flag(WESTIN_LENNY_TALKED))) then
+   if ((dude_item_count(PID_HEART_PILLS)) and not(get_westin_flag(WESTIN_LENNY_TALKED))) then
       NOption(6001,Node081,004);
 
 end
@@ -1378,7 +1378,7 @@ procedure Node1001 begin
 
    if ((get_westin_flag(WESTIN_DRUGS_KNOWN) or (MacRae_In_Party)) and local_var(LVAR_Heart_Health_Talk) == 0) then
       NOption(6000,Node077,004);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_HEART_PILLS)) and not(get_westin_flag(WESTIN_LENNY_TALKED))) then
+   if ((dude_item_count(PID_HEART_PILLS)) and not(get_westin_flag(WESTIN_LENNY_TALKED))) then
       NOption(6001,Node081,004);
 
    lenny_party_member_options;

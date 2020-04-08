@@ -20,10 +20,10 @@
 #define eldrid_mid_tile_2                 (22923)
 
 #define try_one_or_other(t1,t2)           if (self_tile != t1) then begin                 \
-                                             animate_move_to_tile(t1);                    \
+                                             self_walk_to_tile(t1);                    \
                                           end                                             \
                                           if (anim_busy(self_obj) == false) then begin    \
-                                             animate_move_to_tile(t2);                    \
+                                             self_walk_to_tile(t2);                    \
                                           end
 #define FAIL_STEP_ACTION                  if (dest_tile != eldridge_front_room_tile) then begin       \
                                              try_one_or_other(eldrid_mid_tile_1, eldrid_mid_tile_2)   \
@@ -151,8 +151,8 @@ procedure Node030;
 #define adj_eldridge_barter(x)         inc_local_var_amt(LVAR_Barter_Penalty, x);                                                                 \
                                        set_local_var(LVAR_Barter_Penalty, local_var(LVAR_Barter_Penalty) - (local_var(LVAR_Barter_Penalty)%200)); \
                                        gdialog_set_barter_mod(local_var(LVAR_Barter_Penalty))
-#define give_eldridge_money(x)         item_caps_adjust(dude_obj, -x);  \
-                                       item_caps_adjust(self_obj, x)
+#define give_eldridge_money(x)         dude_caps_adjust(-x);  \
+                                       self_caps_adjust(x)
 
 // Begin Seraph's Fixes: changed each '250' to '25000' and added '/100' to the end
 // Magnum: replaced '2000' with '400'
@@ -232,8 +232,8 @@ procedure map_enter_p_proc begin
    new_reno_eldridge_obj := self_obj;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_ELDRIDGE);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_ELDRIDGE);
+         set_self_ai(AI_TOUGH_GUARD);
          nr_add_timer_event_rand(self_obj, 25, 35, float_param);
       end
    end
@@ -281,7 +281,7 @@ procedure critter_p_proc begin
                anim_move_to_point_rate(eldridge_back_room_tile, 2)
                else begin
                   if (self_tile == eldridge_back_room_tile and investigated_barking == 0) then begin
-                     anim(self_obj, ANIMATE_ROTATION, 3);
+                     self_rotate(3);
                      investigated_barking := 1;
                      floater_rand(701, 702); // Seraph's Fix: floater only takes 1 arg; changed to floater_rand. Thanks Rob!
                      nr_add_timer_event_rand(self_obj, 5, 10, float_param);
@@ -406,7 +406,7 @@ procedure Node988 begin
 end
 procedure Node987 begin
 //final weapon/money check added by killap
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_44_MAGNUM_REVOLVER)) and (dude_caps >= MCOST)) then begin
+   if ((dude_item_count(PID_44_MAGNUM_REVOLVER)) and (dude_caps >= MCOST)) then begin
       give_eldridge_money(MCOST);
       call upgrade_weapon(PID_44_MAGNUM_REVOLVER, PID_44_MAGNUM_SPEEDLOADER);
       call Node014;
@@ -415,7 +415,7 @@ procedure Node987 begin
       Reply(802);
       NOption(1346, Node999, 004);
    end
-   else if (not(obj_is_carrying_obj_pid(dude_obj, PID_44_MAGNUM_REVOLVER))) then begin
+   else if (not(dude_item_count(PID_44_MAGNUM_REVOLVER))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
    end
@@ -423,7 +423,7 @@ end
 //end final weapon/money check added by killap
 procedure Node986 begin
 //final weapon/money check added by killap
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_DESERT_EAGLE)) and (dude_caps >= DECOST)) then begin
+   if ((dude_item_count(PID_DESERT_EAGLE)) and (dude_caps >= DECOST)) then begin
       give_eldridge_money(DECOST);
       call upgrade_weapon(PID_DESERT_EAGLE, PID_DESERT_EAGLE_EXT_MAG);
       call Node014;
@@ -432,7 +432,7 @@ procedure Node986 begin
       Reply(802);
       NOption(1346, Node999, 004);
    end
-   else if (not(obj_is_carrying_obj_pid(dude_obj, PID_DESERT_EAGLE))) then begin
+   else if (not(dude_item_count(PID_DESERT_EAGLE))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
    end
@@ -440,7 +440,7 @@ end
 //end final weapon/money check added by killap
 procedure Node985 begin
 //final weapon/money check added by killap
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_HUNTING_RIFLE)) and (dude_caps >= HRCOST)) then begin
+   if ((dude_item_count(PID_HUNTING_RIFLE)) and (dude_caps >= HRCOST)) then begin
       give_eldridge_money(HRCOST);
       call upgrade_weapon(PID_HUNTING_RIFLE, PID_SCOPED_HUNTING_RIFLE);
       call Node014;
@@ -449,7 +449,7 @@ procedure Node985 begin
       Reply(802);
       NOption(1346, Node999, 004);
    end
-   else if (not(obj_is_carrying_obj_pid(dude_obj, PID_HUNTING_RIFLE))) then begin
+   else if (not(dude_item_count(PID_HUNTING_RIFLE))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
    end
@@ -457,7 +457,7 @@ end
 //end final weapon/money check added by killap
 procedure Node984 begin
 //final weapon/money check added by killap
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_ASSAULT_RIFLE)) and (dude_caps >= ARCOST)) then begin
+   if ((dude_item_count(PID_ASSAULT_RIFLE)) and (dude_caps >= ARCOST)) then begin
       give_eldridge_money(ARCOST);
       call upgrade_weapon(PID_ASSAULT_RIFLE, PID_ASSAULT_RIFLE_EXT_MAG);
       call Node014;
@@ -466,7 +466,7 @@ procedure Node984 begin
       Reply(802);
       NOption(1346, Node999, 004);
    end
-   else if (not(obj_is_carrying_obj_pid(dude_obj, PID_ASSAULT_RIFLE))) then begin
+   else if (not(dude_item_count(PID_ASSAULT_RIFLE))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
    end
@@ -474,7 +474,7 @@ end
 //end final weapon/money check added by killap
 procedure Node983 begin
 //final weapon/money check added by killap
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_FN_FAL)) and (dude_caps >= FNCOST)) then begin
+   if ((dude_item_count(PID_FN_FAL)) and (dude_caps >= FNCOST)) then begin
       give_eldridge_money(FNCOST);
       call upgrade_weapon(PID_FN_FAL, PID_FN_FAL_NIGHT_SCOPE);
       call Node014;
@@ -483,7 +483,7 @@ procedure Node983 begin
       Reply(802);
       NOption(1346, Node999, 004);
    end
-   else if (not(obj_is_carrying_obj_pid(dude_obj, PID_FN_FAL))) then begin
+   else if (not(dude_item_count(PID_FN_FAL))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
    end
@@ -491,7 +491,7 @@ end
 //end final weapon/money check added by killap
 procedure Node982 begin
 //final weapon/money check added by killap
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_CATTLE_PROD)) and (dude_caps >= CPCOST)) then begin
+   if ((dude_item_count(PID_CATTLE_PROD)) and (dude_caps >= CPCOST)) then begin
       give_eldridge_money(CPCOST);
       call upgrade_weapon(PID_CATTLE_PROD, PID_SUPER_CATTLE_PROD);
       call Node014;
@@ -500,7 +500,7 @@ procedure Node982 begin
       Reply(802);
       NOption(1346, Node999, 004);
    end
-   else if (not(obj_is_carrying_obj_pid(dude_obj, PID_CATTLE_PROD))) then begin
+   else if (not(dude_item_count(PID_CATTLE_PROD))) then begin
       Reply(801);
       NOption(1346, Node999, 004);
    end
@@ -618,7 +618,7 @@ procedure Node005 begin
          NOption(258, Node023, 004);
       end
    end else if (get_fetch_laser(fetch_laser_assigned)) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_LASER_PISTOL)) then begin
+      if (dude_item_count(PID_LASER_PISTOL)) then begin
          NOption(259, Node025, 004);
       end
    end
@@ -653,7 +653,7 @@ procedure Node006 begin
          NOption(258, Node023, 004);
       end
    end else if (get_fetch_laser(fetch_laser_assigned)) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_LASER_PISTOL)) then begin
+      if (dude_item_count(PID_LASER_PISTOL)) then begin
          NOption(259, Node025, 004);
       end
    end
@@ -695,7 +695,7 @@ procedure Node008 begin
          NOption(258, Node023, 004);
       end
    end else if (get_fetch_laser(fetch_laser_assigned)) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_LASER_PISTOL)) then begin
+      if (dude_item_count(PID_LASER_PISTOL)) then begin
          NOption(259, Node025, 004);
       end
    end
@@ -713,13 +713,13 @@ procedure Node010 begin
 variable has_pistol := false;
 variable has_rifle := false;
 variable has_other := false;
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_DESERT_EAGLE)) or (obj_is_carrying_obj_pid(dude_obj, PID_44_MAGNUM_REVOLVER))) then begin
+   if ((dude_item_count(PID_DESERT_EAGLE)) or (dude_item_count(PID_44_MAGNUM_REVOLVER))) then begin
       has_pistol := true;
    end
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_HUNTING_RIFLE)) or (obj_is_carrying_obj_pid(dude_obj, PID_ASSAULT_RIFLE)) or (obj_is_carrying_obj_pid(dude_obj, PID_FN_FAL))) then begin
+   if ((dude_item_count(PID_HUNTING_RIFLE)) or (dude_item_count(PID_ASSAULT_RIFLE)) or (dude_item_count(PID_FN_FAL))) then begin
       has_rifle := true;
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_CATTLE_PROD)) then begin
+   if (dude_item_count(PID_CATTLE_PROD)) then begin
       has_other := true;
    end
    if ((has_pistol) or (has_rifle) or (has_other)) then begin
@@ -745,19 +745,19 @@ end
 procedure Node011 begin
 variable temp_msg := "";
 variable afford := false;
-   if (obj_is_carrying_obj_pid(dude_obj, PID_44_MAGNUM_REVOLVER)) then begin
+   if (dude_item_count(PID_44_MAGNUM_REVOLVER)) then begin
       temp_msg += mstr(350) + MCOST + mstr(5500) + " ";
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_DESERT_EAGLE)) then begin
+   if (dude_item_count(PID_DESERT_EAGLE)) then begin
       temp_msg += mstr(351) + DECOST + mstr(5500);
    end
 
    Reply(temp_msg);
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_44_MAGNUM_REVOLVER)) and (dude_caps >= MCOST)) then begin
+   if ((dude_item_count(PID_44_MAGNUM_REVOLVER)) and (dude_caps >= MCOST)) then begin
       NOption(352, Node987, 004);
       afford := true;
    end
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_DESERT_EAGLE)) and (dude_caps >= DECOST)) then begin
+   if ((dude_item_count(PID_DESERT_EAGLE)) and (dude_caps >= DECOST)) then begin
       NOption(353, Node986, 004);
       afford := true;
    end
@@ -773,26 +773,26 @@ procedure Node012 begin
 variable temp_msg;
 variable afford := false;
    temp_msg := mstr(365);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_HUNTING_RIFLE)) then begin
+   if (dude_item_count(PID_HUNTING_RIFLE)) then begin
       temp_msg += mstr(366) + HRCOST + mstr(5500) + " ";
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_ASSAULT_RIFLE)) then begin
+   if (dude_item_count(PID_ASSAULT_RIFLE)) then begin
       temp_msg += mstr(367) + ARCOST + mstr(5500) + " ";
    end
-   if (obj_is_carrying_obj_pid(dude_obj, PID_FN_FAL)) then begin
+   if (dude_item_count(PID_FN_FAL)) then begin
       temp_msg += mstr(368) + FNCOST + mstr(5500);
    end
 
    Reply(temp_msg);
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_HUNTING_RIFLE)) and (dude_caps >= HRCOST)) then begin
+   if ((dude_item_count(PID_HUNTING_RIFLE)) and (dude_caps >= HRCOST)) then begin
       NOption(369, Node985, 004);
       afford := true;
    end
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_ASSAULT_RIFLE)) and (dude_caps >= ARCOST)) then begin
+   if ((dude_item_count(PID_ASSAULT_RIFLE)) and (dude_caps >= ARCOST)) then begin
       NOption(370, Node984, 004);
       afford := true;
    end
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_FN_FAL)) and (dude_caps >= FNCOST)) then begin
+   if ((dude_item_count(PID_FN_FAL)) and (dude_caps >= FNCOST)) then begin
       NOption(371, Node983, 004);
       afford := true;
    end
@@ -911,7 +911,7 @@ procedure Node023 begin
 end
 procedure Node024 begin
    Reply(505);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_LASER_PISTOL)) then begin
+   if (dude_item_count(PID_LASER_PISTOL)) then begin
       GOption(506, Node025, 004);
    end
    NOption(507, Node978, 004);
@@ -922,7 +922,7 @@ procedure Node024 begin
 end
 procedure Node025 begin
    transfer_pid_between_objs(dude_obj, new_reno_temp_box, PID_LASER_PISTOL, 1)
-   item_caps_adjust(dude_obj, 1500);
+   dude_caps_adjust(1500);
    display_mstr(800);
    give_xp(EXP_ELDRIDGE_LASER);
    inc_reno_rep(REP_NEW_RENO_ELDRIDGE_LASER);

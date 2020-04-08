@@ -4,14 +4,14 @@
 procedure start;
 
 procedure start begin
-   if (metarule(22,0)) then return;
+   if (is_loading_game) then return;
 	if (game_loaded) then begin
       set_global_script_repeat(60);
       set_global_script_type(2);
    end else begin
       if (in_world_map) then begin
-         if ( (global_var(494) == 8) and (global_var(772) == 0) ) then begin
-            set_global_var(772,1);
+         if ( (global_var(GVAR_FALLOUT_2) == 8) and (global_var(GVAR_EASTER_EGG_ENCOUNTER) == 0) ) then begin
+            set_global_var(GVAR_EASTER_EGG_ENCOUNTER,1);
             force_encounter(166);
          end
       end

@@ -57,7 +57,7 @@ procedure timed_event_p_proc begin
       end else if (sequence == 2) then begin
          float_msg(Marcus_Ptr, mstr(211), FLOAT_MSG_GREEN);
          sequence += 1;
-         animate_move_obj_to_tile(self_obj, MARCUS_TILE, ANIMATE_WALK);
+         self_walk_to_tile(MARCUS_TILE);
          add_timer_event(self_obj,game_ticks(2),1);
       end else if (sequence == 3) then begin
          if (tile_num(Marcus_Ptr) != MARCUS_TILE) then begin
@@ -65,7 +65,7 @@ procedure timed_event_p_proc begin
             add_timer_event(self_obj,game_ticks(1),1);
          end else begin
             reg_anim_clear( self_obj );
-            anim(Marcus_Ptr, ANIMATE_ROTATION, 1);
+            obj_rotate(Marcus_Ptr, 1);
             reg_anim_begin();
               reg_anim_animate( Marcus_Ptr,ANIM_magic_hands_ground,-1 );
             reg_anim_end();

@@ -69,15 +69,15 @@ end
 
 procedure description_p_proc begin
   script_overrides;
-  display_msg(message_str(NAME, 120));
+  display_msg(mstr(120));
 end
 
 procedure look_at_p_proc begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 118));
+    display_msg(mstr(118));
   else
-    display_msg(message_str(NAME, 119));
+    display_msg(mstr(119));
 end
 
 procedure use_p_proc begin

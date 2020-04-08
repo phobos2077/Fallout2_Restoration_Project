@@ -74,7 +74,7 @@ end
 
 procedure look_at_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(100));
    else
       display_msg(mstr(101));
@@ -85,17 +85,17 @@ end
 procedure description_p_proc begin
    script_overrides;
    if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_FINISHED_DIPLOMATIC) ) then begin
-      if (critter_is_male) then
+      if (self_is_male) then
          display_msg(mstr(104));
       else
          display_msg(mstr(105));
    end else if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then begin
-      if (critter_is_male) then
+      if (self_is_male) then
          display_msg(mstr(106));
       else
          display_msg(mstr(107));
    end else begin
-      if (critter_is_male) then
+      if (self_is_male) then
          display_msg(mstr(102));
       else
          display_msg(mstr(103));
@@ -156,7 +156,7 @@ begin
             critter_attempt_placement(self_obj, self_tile, dude_elevation);
       //end
       end
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_VAULT_VILLAGERS);
+      set_self_team(TEAM_VAULT_VILLAGERS);
       //if ((tile_num(self_obj) != 24311) and (tile_num(self_obj) != 23900)) then
       add_timer_event(self_obj, 50, 1);
 
@@ -183,14 +183,14 @@ end
 
 procedure talk_p_proc begin
    if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
-    float_msg(self_obj, message_str(NAME, 204), FLOAT_MSG_RED);
+    float_msg(self_obj, mstr(204), FLOAT_MSG_RED);
    else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) or (global_var(GVAR_QUEST_VAULT_SERVANT) >= SERVANT_BRAIN_AGREEMENT)) then begin
       if (dude_is_male) then
-         float_msg(self_obj, message_str(NAME, random(200,201)), FLOAT_MSG_YELLOW);
+         float_msg(self_obj, mstr(random(200,201)), FLOAT_MSG_YELLOW);
       else
-         float_msg(self_obj, message_str(NAME, random(202,203)), FLOAT_MSG_YELLOW);
+         float_msg(self_obj, mstr(random(202,203)), FLOAT_MSG_YELLOW);
    end else
-      float_msg(self_obj, message_str(NAME, 205), FLOAT_MSG_YELLOW);
+      float_msg(self_obj, mstr(205), FLOAT_MSG_YELLOW);
 end
 
 
@@ -203,8 +203,8 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (obj_can_see_obj(self_obj,dude_obj))) then begin
-       animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (self_can_see_dude)) then begin
+       self_run_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
        //set_local_var(LVAR_Hostile,1);
        //attack(dude_obj);
    end
@@ -215,17 +215,17 @@ procedure timed_event_p_proc begin
   variable the_temp;
   if (anim_busy(self_obj) == 0) then begin
     if (random(1, 2) == 1) then begin
-      if (tile_distance(tile_num(self_obj), local_var(7)) >= 8) then
-        the_temp := tile_num_in_direction(tile_num(self_obj), rotation_to_tile(tile_num(self_obj), local_var(7)), random(2, 5));
+      if (tile_distance(self_tile, local_var(7)) >= 8) then
+        the_temp := tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(7)), random(2, 5));
       else
-        the_temp := tile_num_in_direction(tile_num(self_obj), random(0, 5), random(2, 5));
-      animate_move_obj_to_tile(self_obj, the_temp, 0);
-      if (tile_num(self_obj) != local_var(7)) then
-        animate_move_obj_to_tile(self_obj, local_var(7), 0);
+        the_temp := tile_num_in_direction(self_tile, random(0, 5), random(2, 5));
+      self_walk_to_tile(the_temp);
+      if (self_tile != local_var(7)) then
+        self_walk_to_tile(local_var(7));
       else if (random(1, 5) == 1) then
-        animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), random(0, 5), random(1, 4)), 0);
+        self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), random(1, 4)));
       else
-        animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), (has_trait(TRAIT_OBJECT, self_obj, OBJECT_CUR_ROT) + 3) % 6, random(1, 4)), 0);
+        self_walk_to_tile(tile_num_in_direction(self_tile, (self_cur_rot + 3) % 6, random(1, 4)));
     end
   end
   add_timer_event(self_obj, random(30,70), 1);

@@ -37,10 +37,10 @@ begin
   if (fixed_param == 1) then
   begin
     if (global_var(GVAR_DYNAMITE_SETTING) == 0) then begin
-      item2:=obj_carrying_pid_obj(dude_obj,PID_ACTIVE_RADIO_DYNAMITE);
+      item2:=dude_item(PID_ACTIVE_RADIO_DYNAMITE);
       rm_obj_from_inven(dude_obj, item2);
     end else if (global_var(GVAR_DYNAMITE_SETTING) == 1) then begin
-      item2:=obj_carrying_pid_obj(dude_obj,PID_RADIO_DYNAMITE);
+      item2:=dude_item(PID_RADIO_DYNAMITE);
       rm_obj_from_inven(dude_obj, item2);
     end
 
@@ -59,7 +59,7 @@ procedure use_p_proc begin
       display_msg(mstr(100));
       item:=create_object(PID_ACTIVE_RADIO_DYNAMITE,0,NAME);
       add_obj_to_inven( dude_obj, item );
-      item:=obj_carrying_pid_obj(dude_obj,PID_RADIO_DYNAMITE);
+      item:=dude_item(PID_RADIO_DYNAMITE);
       rm_obj_from_inven(dude_obj, item);
       //destroy_object(self_obj);
    end else begin
@@ -69,7 +69,7 @@ procedure use_p_proc begin
       display_msg(mstr(101));
       item:=create_object(PID_RADIO_DYNAMITE,0,NAME);
       add_obj_to_inven( dude_obj, item );
-      item:=obj_carrying_pid_obj(dude_obj,PID_ACTIVE_RADIO_DYNAMITE);
+      item:=dude_item(PID_ACTIVE_RADIO_DYNAMITE);
       rm_obj_from_inven(dude_obj, item);
       //destroy_object(self_obj);
       //art_change_fid_num(self_obj,117440558);
@@ -91,7 +91,7 @@ begin
 end
 
 procedure explode_p_proc begin
-  explosion(tile_num(self_obj), elevation(self_obj), 100);
+  explosion(self_tile, self_elevation, 100);
   destroy_object(self_obj);
 end
 

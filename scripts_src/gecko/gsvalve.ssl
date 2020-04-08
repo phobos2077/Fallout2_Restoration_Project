@@ -31,7 +31,7 @@
 
 #define NAME                    SCRIPT_GSVALVE
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 
 #include "../headers/command.h"
 #include "../headers/gecko.h"
@@ -153,7 +153,7 @@ procedure use_skill_on_p_proc begin
 
    skill_used:=action_being_used;
    if (skill_used == SKILL_REPAIR) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_HY_MAG_PART)) then begin
+      if (dude_item_count(PID_HY_MAG_PART)) then begin
          call repair_it;
       end
       else begin
@@ -168,7 +168,7 @@ end
 procedure repair_it begin
    repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,0);
    if (is_success(repair_check)) then begin
-      item:=obj_carrying_pid_obj(dude_obj, PID_HY_MAG_PART);
+      item:=dude_item(PID_HY_MAG_PART);
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item); //added by killap
       set_global_var(GVAR_VAULT_GECKO_PLANT, PLANT_REPAIRED);

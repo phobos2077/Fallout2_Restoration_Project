@@ -4,13 +4,13 @@
 procedure start;
 
 procedure start begin
-   if (metarule(22,0)) then return;
+   if (is_loading_game) then return;
 	if (game_loaded) then begin
       set_global_script_repeat(60);
       set_global_script_type(2);
    end else begin
       if (in_world_map) then begin
-         if (global_var(730) == 1) then begin
+         if (global_var(GVAR_ENCLAVE_SENT) == 1) then begin
             force_encounter(161);
          end
       end

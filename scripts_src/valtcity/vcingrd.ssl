@@ -104,8 +104,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_GUARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_VAULT_GUARD);
 
    add_timer_event( self_obj, game_ticks( random(20, 40) ), 1);
 end
@@ -113,7 +113,7 @@ end
 procedure timed_event_p_proc begin
    if( fixed_param == 1 ) then begin
       if( not( combat_is_initialized ) ) then begin
-         if( obj_can_see_obj( self_obj, dude_obj ) ) then begin
+         if( self_can_see_dude ) then begin
             if( Fallout2_enclave_destroyed ) then
                call Node013;
             else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) then
@@ -143,7 +143,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -151,7 +151,7 @@ procedure critter_p_proc begin
       if( map_var( MVAR_Guard_Alert ) == 1 ) then begin
          set_map_var( MVAR_Guard_Alert, 0 );
          set_local_var(LVAR_Hostile,1);
-         anim_run_to_point_rate( tile_num( dude_obj ), 5 )
+         anim_run_to_point_rate( dude_tile, 5 )
          attack(dude_obj);
       end
       else if( self_can_see_dude ) then
@@ -397,7 +397,7 @@ end
 procedure Node015 begin
    Reply(161);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then
+   if( dude_item_count( PID_FAKE_CITIZENSHIP) > 0) then
       NOption(162, Node016, 004);
    NOption(163, Node005, 004);
 end

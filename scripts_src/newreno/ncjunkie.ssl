@@ -97,7 +97,7 @@ procedure timed_event_p_proc begin
             if (gave_drugs) then begin
                Follow_Dude(5, 4)
             end else if (random(1,2) == 1) then begin
-               animate_run_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(1,3)));
+               self_run_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(1,3)));
             end
             if (self_can_see_dude) then begin
                if (tile_distance(self_tile,dude_tile) <= 3) then begin
@@ -113,7 +113,7 @@ procedure timed_event_p_proc begin
             // junkie's not high
          off_gave_drugs;
             if (random(1,3) == 1) then begin
-               animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(1,3)));
+               self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(1,3)));
             end
             if ((night) or (random(1,100) == 42)) then begin
                //give_pid_qty(self_obj, PID_JET, 1)
@@ -145,8 +145,8 @@ procedure map_enter_p_proc begin
       check_poison_kill_critter
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_JUNKIE);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT);
+         set_self_team(TEAM_NEW_RENO_JUNKIE);
+         set_self_ai(AI_ADDICT);
       end
       off_gave_drugs;
       if (self_is_high) then begin

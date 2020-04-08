@@ -117,7 +117,7 @@ procedure timed_event_p_proc begin
                      call Node010;
                   end
                   if (rotation_to_tile(self_tile, tile_num(slot_obj)) != self_cur_rot) then begin
-                     animate_rotation(rotation_to_tile(self_tile, tile_num(slot_obj)));
+                     self_rotate(rotation_to_tile(self_tile, tile_num(slot_obj)));
                   end else begin
                      reg_anim_clear(self_obj);
                      reg_anim_begin();
@@ -125,16 +125,16 @@ procedure timed_event_p_proc begin
                      reg_anim_end();
                      if ((random(0,100) <= 17) and (self_caps < 30)) then begin
                         // winner
-                        item_caps_adjust(self_obj, random(1, 10));
+                        self_caps_adjust(random(1, 10));
                         nr_add_timer_event_tic(self_obj, 5, slot_win_param);
                      end else if (self_caps > 3) then begin
-                        item_caps_adjust(self_obj, -1);
+                        self_caps_adjust(-1);
                      end
                   end
                end else if ((tile_distance(self_tile, local_var(LVAR_Home_Tile)) > 4) and (random(1,10) != 2)) then begin
-                  animate_move_to_tile(local_var(LVAR_Home_Tile));
+                  self_walk_to_tile(local_var(LVAR_Home_Tile));
                end else begin
-                  animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), random(0,5), random(1,5)));
+                  self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), random(0,5), random(1,5)));
                end
             end
          end
@@ -170,7 +170,7 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          get_and_set_family(temp);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET, AI_COWARD);
+         set_self_ai(AI_COWARD);
       end
       check_visible_townsperson
       nr_add_timer_event_rand(self_obj, 10, 20, float_param);

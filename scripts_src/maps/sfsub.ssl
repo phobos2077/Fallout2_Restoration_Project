@@ -59,7 +59,7 @@ end
 
 procedure map_update_p_proc begin
    variable explosives;
-   if( elevation( dude_obj ) == 0 ) then begin
+   if( dude_elevation == 0) then begin
       set_light_level(60);
    end else begin
       if (tile_in_tile_rect(25907, 27884, 28717, 31895, dude_tile)) then begin

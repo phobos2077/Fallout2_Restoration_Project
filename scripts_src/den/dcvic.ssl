@@ -153,7 +153,7 @@ import variable vic_door_obj; //added by killap
          party_member_default_options
 
 //#define vic_in_his_old_place              (false) // ### put this in
-#define vic_in_his_old_place              (tile_distance(tile_num(self_obj),18053) <= 5) // ### put this in //added by killap
+#define vic_in_his_old_place              (tile_distance(self_tile,18053) <= 5) // ### put this in //added by killap
 
 #define vic_mom_tile                      (24482)
 
@@ -169,7 +169,7 @@ end
 procedure timed_event_p_proc begin
    if (fixed_param == 666) then begin
       set_self_abandon_party;
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_VAULT_CITIZENS);
+      set_self_team(TEAM_VAULT_CITIZENS);
       set_daughter_attacked;
       attack(dude_obj);
    end else if (fixed_param == timed_event_float) then begin
@@ -184,7 +184,7 @@ procedure timed_event_p_proc begin
                   //added by killap
                   end else if (Is_Crippled(self_obj)) then begin
                      floater(5500);
-                  end else if (get_critter_stat(self_obj, STAT_current_rad)) then begin
+                  end else if (self_rads) then begin
                      floater(5501);
                   end else if (get_poison(self_obj)) then begin
                      floater(5502);
@@ -222,21 +222,21 @@ procedure timed_event_p_proc begin
       if not anim_busy(self_obj) then begin
          if ( (local_var(LVAR_Head_To_Mom) == 1) ) then begin //added (local_var(LVAR_Head_To_Mom)) - killap
             if (self_tile != 22092) then
-               animate_move_to_tile(22092);
+               self_walk_to_tile(22092);
             else begin
-               animate_move_to_tile(27094);
+               self_walk_to_tile(27094);
                set_local_var(LVAR_Head_To_Mom,2);
             end
          end else if ( (local_var(LVAR_Head_To_Mom) == 2) ) then begin
             if (self_tile != 27094) then
-               animate_move_to_tile(27094);
+               self_walk_to_tile(27094);
             else begin
-               animate_move_to_tile(vic_mom_tile);
+               self_walk_to_tile(vic_mom_tile);
                set_local_var(LVAR_Head_To_Mom,3);
             end
          end else if ( (local_var(LVAR_Head_To_Mom) == 3) ) then begin
             if (self_tile != vic_mom_tile) then
-               animate_move_to_tile(vic_mom_tile);
+               self_walk_to_tile(vic_mom_tile);
             else begin
                set_local_var(LVAR_Home_Tile, vic_mom_tile);
                set_local_var(LVAR_Head_To_Mom,0);
@@ -253,7 +253,7 @@ variable temp_weapon;
    if (is_loading_game == false) then begin
       if (cur_map_index == MAP_DEN_BUSINESS) then begin
          if (map_first_run) then begin
-            critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_SLAVES);
+            set_self_team(TEAM_SLAVES);
             set_local_var(LVAR_Home_Tile, self_tile);
          end else if (has_joined_party == false) then begin
             //unlocked by killap
@@ -262,7 +262,7 @@ variable temp_weapon;
                   set_local_var(LVAR_Head_To_Mom,0);
                   set_local_var(LVAR_Home_Tile, vic_mom_tile); //edit by killap, was-- set_local_var(vic_mom_tile, vic_mom_tile);
                   critter_attempt_placement(self_obj, vic_mom_tile, self_elevation);
-                  animate_rotation(1);
+                  self_rotate(1);
                end
             end
             //end unlocked
@@ -275,7 +275,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -338,7 +338,7 @@ procedure critter_p_proc begin
    /*end else if (has_joined_party == false) then begin
       if (vic_free) then begin
          if (self_tile != local_var(LVAR_Home_Tile)) then begin
-            animate_move_to_tile(local_var(LVAR_Home_Tile)); // Seraph's Fix: animate_move_to_tile only takes one parameter. Thanks Rob!
+            self_walk_to_tile(local_var(LVAR_Home_Tile)); // Seraph's Fix: animate_move_to_tile only takes one parameter. Thanks Rob!
          end
       end*/
    end
@@ -480,7 +480,7 @@ procedure Node993 begin
       set_local_var(LVAR_Head_To_Mom,1);
                reg_anim_clear(self_obj);
          reg_anim_begin();
-            animate_move_to_tile(22092);
+            self_walk_to_tile(22092);
          reg_anim_end();
       add_timer_event(self_obj, game_ticks(1), TIMER_ENSURE_ANIM); //was 2 ticks
    end
@@ -524,7 +524,7 @@ procedure Node003 begin
    if (dude_has_vic_radio) then begin
       NOption(170,Node005a,004); //edit by killap - was 005
       NOption(172,Node005a,-003); //edit by killap - was 005
-   end else if (obj_carrying_pid_obj(dude_obj,PID_RADIO) != 0) then begin
+   end else if (dude_item(PID_RADIO) != 0) then begin
       NOption(170,Node014,004);
       NOption(172,Node014,-003);
    end else begin
@@ -541,7 +541,7 @@ procedure Node004 begin
    Reply(173);
    if (dude_has_vic_radio) then begin
       NOption(174,Node005,004);
-   end else if (obj_carrying_pid_obj(dude_obj,PID_RADIO) != 0) then begin
+   end else if (dude_item(PID_RADIO) != 0) then begin
       NOption(174,Node014,004);
    end
    NOption(175,Node006,004);
@@ -549,7 +549,7 @@ procedure Node004 begin
 end
 procedure Node005 begin
 variable the_radio;
-   the_radio := obj_carrying_pid_obj(dude_obj, PID_VIC_RADIO);
+   the_radio := dude_item(PID_VIC_RADIO);
    if (the_radio) then begin
       rm_obj_from_inven(dude_obj,the_radio);
       destroy_object(the_radio); //added by killap
@@ -705,7 +705,7 @@ procedure Node020 begin
    Reply(750);
    if (dude_has_vic_radio) then begin
       NOption(170,Node005,004);
-   end else if (obj_carrying_pid_obj(dude_obj,PID_RADIO) != 0) then begin
+   end else if (dude_item(PID_RADIO) != 0) then begin
       NOption(170,Node014,004);
    end
    if (Fallout2_vault13_looking) then begin
@@ -720,7 +720,7 @@ procedure Node021 begin
    NOption(761, Node020, 004);
    if (dude_has_vic_radio) then begin
       NOption(170,Node005,004);
-   end else if (obj_carrying_pid_obj(dude_obj,PID_RADIO) != 0) then begin
+   end else if (dude_item(PID_RADIO) != 0) then begin
       NOption(170,Node014,004);
    end
    if (Fallout2_vault13_looking) then begin
@@ -734,7 +734,7 @@ procedure Node022 begin
    if (dude_has_vic_radio) then begin
       NOption(170,Node005a,004); //edit by killap - was 005
       NOption(172,Node005a,-003); //added by killap
-   end else if (obj_carrying_pid_obj(dude_obj,PID_RADIO) != 0) then begin
+   end else if (dude_item(PID_RADIO) != 0) then begin
       NOption(170,Node014,004);
       NOption(172,Node014,-003); //added by killap
    end

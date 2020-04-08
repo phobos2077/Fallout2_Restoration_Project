@@ -79,7 +79,7 @@ procedure use_skill_on_p_proc begin
        if (skill_success(source_obj,skill,SCIENCE_PENALTY)) then begin
            if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
                set_map_var(FIELD_STATUS,FIELD_DISABLED);
-               set_obj_visibility(Field_Ptr,1);         // invis
+               set_obj_invisible(Field_Ptr);         // invis
                if (source_obj == dude_obj) then
                    display_msg(mstr(112));
                else
@@ -87,7 +87,7 @@ procedure use_skill_on_p_proc begin
            end
            else begin
                set_map_var(FIELD_STATUS,FIELD_ENABLED);
-               set_obj_visibility(Field_Ptr,0);         // vis
+               set_obj_visible(Field_Ptr);         // vis
                if (source_obj == dude_obj) then
                    display_msg(mstr(114));
                else
@@ -124,7 +124,7 @@ procedure use_obj_on_p_proc begin
        if (skill_success(source_obj,SKILL_SCIENCE,TOOL_BONUS)) then begin
            if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
                set_map_var(FIELD_STATUS,FIELD_DISABLED);
-               set_obj_visibility(Field_Ptr,1);         // invis
+               set_obj_invisible(Field_Ptr);         // invis
                if (source_obj == dude_obj) then
                    display_msg(mstr(112));
                else
@@ -132,7 +132,7 @@ procedure use_obj_on_p_proc begin
            end
            else begin
                set_map_var(FIELD_STATUS,FIELD_ENABLED);
-               set_obj_visibility(Field_Ptr,0);         // vis
+               set_obj_visible(Field_Ptr);         // vis
                if (source_obj == dude_obj) then
                    display_msg(mstr(114));
                else

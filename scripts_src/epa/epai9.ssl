@@ -80,7 +80,7 @@ begin
       end
    end else if (Tool == PID_EPA_KEYS) then begin
       script_overrides;
-      display_msg(message_str(NAME, 103));
+      display_msg(mstr(103));
       obj_unlock(self_obj);
       reg_anim_clear( self_obj);
       reg_anim_begin();
@@ -93,20 +93,20 @@ end
 procedure look_at_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 101));
+  display_msg(mstr(101));
 end
 
 procedure use_p_proc
 begin
   if (local_var(LVAR_Herebefore) == 0) then begin
     script_overrides;
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   end
 end
 
@@ -164,7 +164,7 @@ end
 procedure Lockpick_Door begin
    if (is_success(Locks_Roll)) then begin
        script_overrides;
-       display_msg(message_str(NAME, 103));
+       display_msg(mstr(103));
        obj_unlock(self_obj);
        reg_anim_clear( self_obj);
        reg_anim_begin();
@@ -181,11 +181,11 @@ procedure Lockpick_Door begin
    else if (is_critical(Locks_Roll)) then begin
        jam_lock(self_obj);
 
-       display_msg(message_str(NAME, 106));
+       display_msg(mstr(106));
    end
 
    else begin
-       display_msg(message_str(NAME, 105));
+       display_msg(mstr(105));
    end
 end
 
@@ -236,7 +236,7 @@ end
 procedure Lock_Door begin
    if (is_success(Locks_Roll)) then begin
        script_overrides;
-       display_msg(message_str(NAME, 107));
+       display_msg(mstr(107));
        reg_anim_clear( self_obj);
        reg_anim_begin();
        obj_close(self_obj);
@@ -251,6 +251,6 @@ procedure Lock_Door begin
    end
 
    else begin
-       display_msg(message_str(NAME, 108));
+       display_msg(mstr(108));
    end
 end

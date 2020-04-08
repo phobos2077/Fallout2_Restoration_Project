@@ -68,7 +68,7 @@ procedure map_enter_p_proc begin
          //end added
 
          if (local_var(LVAR_Restock_Time) < game_time) then begin
-            item_caps_adjust(self_obj, random(1,50) - self_caps);
+            self_caps_adjust(random(1,50) - self_caps);
             set_local_var(LVAR_Poor_Box_Caps, self_caps);
             set_local_var(LVAR_Restock_Time, (7 * ONE_GAME_DAY) + game_time);
          end

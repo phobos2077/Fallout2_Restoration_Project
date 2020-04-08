@@ -99,10 +99,10 @@ procedure timed_event_p_proc begin
             if (slaves_free == false) then begin
                global_temp := tile_num_in_direction(self_tile, random(0, 5), random(3, 8));
                if (tile_in_slave_pen(global_temp)) then begin
-                  animate_move_to_tile(global_temp);
+                  self_walk_to_tile(global_temp);
                end
             end else begin
-               if (tile_distance(tile_num(self_obj),30302) > 3)  then begin //edit by killap - was map_next_tile
+               if (tile_distance(self_tile,30302) > 3)  then begin //edit by killap - was map_next_tile
                   anim_run_to_point_rate(30302, 5)
                end else begin
                   destroy_object(self_obj);
@@ -117,8 +117,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+         set_self_team(TEAM_SLAVES);
+         set_self_ai(AI_COWARD);
       end
       if (slaves_free) then begin
          destroy_object(self_obj);

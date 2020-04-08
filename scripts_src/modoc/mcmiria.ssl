@@ -136,12 +136,12 @@ procedure combat_p_proc begin
    end
    if (Miria_In_Party == false) then begin
       if (self_team != TEAM_MODOC) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         set_self_team(TEAM_MODOC);
       end
       if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
          if (self_is_armed == false) then begin
-            if (obj_is_carrying_obj_pid(self_obj, PID_KNIFE) > 0) then begin
-               wield_obj(obj_carrying_pid_obj(self_obj, PID_KNIFE));
+            if (self_item_count(PID_KNIFE) > 0) then begin
+               wield_obj(self_item(PID_KNIFE));
             end
          end
       end
@@ -155,7 +155,7 @@ procedure timed_event_p_proc begin
          if (Miria_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(2000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then
+            else if (self_rads) then
                floater(2001);
             else if (get_poison(self_obj)) then
                floater(2002);
@@ -174,7 +174,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -205,7 +205,7 @@ procedure map_enter_p_proc begin
    party_member_map_enter;
 //   if (local_var(LVAR_Home_Tile) == 0) then begin   -comment out by killap
 //      set_local_var(LVAR_Home_Tile, self_tile);  -comment out by killap
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+   set_self_team(TEAM_MODOC);
    /*end else */  //  -comment out by killap
    //if (Miria_In_Party == false) then begin
    if not(married_to_miria) then begin // edit by killap - party check doesn't always work when map loads
@@ -396,7 +396,7 @@ end
 procedure Node996 begin
 // Begin Seraph's Code
    if (grisham_dead) then begin
-      biff := create_object_sid(PID_GRISHAM, 28512, elevation(self_obj), SCRIPT_MCGRISHA);
+      biff := create_object_sid(PID_GRISHAM, 28512, self_elevation, SCRIPT_MCGRISHA);
       gun := create_object(PID_SAWED_OFF_SHOTGUN, 0, 0);
 
       add_obj_to_inven(biff, gun);
@@ -410,7 +410,7 @@ end
 procedure Node995 begin
 // Begin Seraph's Code
    if (grisham_dead) then begin
-      biff := create_object_sid(PID_GRISHAM, 28512, elevation(self_obj), SCRIPT_MCGRISHA);
+      biff := create_object_sid(PID_GRISHAM, 28512, self_elevation, SCRIPT_MCGRISHA);
       gun := create_object(PID_SAWED_OFF_SHOTGUN, 0, 0);
 
       add_obj_to_inven(biff, gun);

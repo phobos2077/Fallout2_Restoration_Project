@@ -130,9 +130,9 @@ procedure map_enter_p_proc begin
       end else if (map_first_run) then begin
          if (cur_map_index == MAP_MODOC_MAINSTREET) then begin
             check_set_obj_visiblility(self_obj, true);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+            set_self_team(TEAM_MODOC);
          end else begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
+            set_self_team(TEAM_SLAG);
          end
       end
       if (self_visible) then begin
@@ -252,7 +252,7 @@ procedure Node996 begin
    call Node024;
 end
 procedure Node995 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node017;
    end else begin
       call Node018;

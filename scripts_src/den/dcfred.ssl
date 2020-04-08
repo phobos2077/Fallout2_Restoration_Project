@@ -156,10 +156,10 @@ variable temp_fred;
          end
       end
       flush_add_timer_event_sec(self_obj, random(15, 90), timed_event_wander);
-      animate_rotation(3);
+      self_rotate(3);
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_THE_DEN);
+   set_self_ai(AI_COWARD);
 end
 
 procedure map_exit_p_proc begin
@@ -218,7 +218,7 @@ end
 
 procedure destroy_p_proc begin
    set_fred_dead;
-   item_caps_adjust(self_obj, fred_money);
+   self_caps_adjust(fred_money);
    inc_good_critter
 end
 
@@ -249,27 +249,27 @@ procedure Node990 begin
    end
 end
 procedure Node989 begin
-   item_caps_adjust(dude_obj, 1000);
+   dude_caps_adjust(1000);
 end
 procedure Node988 begin
-   item_caps_adjust(dude_obj, 2000);
+   dude_caps_adjust(2000);
    give_pid_qty(dude_obj, PID_MICRO_FUSION_CELL, 5)
    give_pid_qty(dude_obj, PID_SMALL_ENERGY_CELL, 5)
    give_pid_qty(dude_obj, PID_PLASMA_GRENADE, 1)
 end
 procedure Node987 begin
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 0))) then begin
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 0))) then begin
       call Node024;
    end else begin
       call Node025;
    end
 end
 procedure Node986 begin
-   item_caps_adjust(dude_obj, 200);
+   dude_caps_adjust(200);
    set_fred_money(0);
 end
 procedure Node985 begin
-   if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 20))) then begin
+   if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 20))) then begin
       call Node022;
    end else begin
       call Node036;
@@ -332,7 +332,7 @@ procedure Node010 begin
    end
 end
 procedure Node011 begin
-   item_caps_adjust(dude_obj, 500);
+   dude_caps_adjust(500);
    Reply(350);
    GOption(351, Node999, 004); //was 990 - killap
    BOption(352, Node999, 004); //was 990 - killap
@@ -426,7 +426,7 @@ end
 procedure Node026 begin
    set_global_var(GVAR_DEN_FRED_COVERED,1);	//killap's fix
    set_fred_money(100);
-   item_caps_adjust(dude_obj, 100);
+   dude_caps_adjust(100);
    Reply(500 + dude_is_female);
    NOption(502, Node028, 004);
    NOption(503, Node027, 004);
@@ -453,7 +453,7 @@ procedure Node030 begin
    BOption(543, Node999, 004);
 end
 procedure Node031 begin
-   item_caps_adjust(dude_obj, -50);
+   dude_caps_adjust(-50);
    set_global_var(GVAR_DEN_FRED_LOAN,1);	//killap's fix
    set_global_var(GVAR_DEN_FRED_COVERED,0);   //killap's fix
    set_fred_money(150);

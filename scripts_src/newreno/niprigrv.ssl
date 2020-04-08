@@ -56,10 +56,10 @@ procedure use_skill_on_p_proc;
 #define site_is_uncovered                 (local_var(LVAR_Status) == state_uncovered)
 #define do_cover_grave_site               set_local_var(LVAR_Status, state_covered);      \
                                           play_sfx("iccntnre");                           \
-                                          animate_set_frame(0)
+                                          self_set_frame(0)
 #define do_uncover_grave_site             set_local_var(LVAR_Status, state_uncovered);    \
                                           play_sfx("iocntnre");                           \
-                                          animate_set_frame(1)
+                                          self_set_frame(1)
 
 #ifndef GIVE_HEADSTONE_NAME
 #define GIVE_HEADSTONE_NAME               true
@@ -168,7 +168,7 @@ procedure use_p_proc begin
             dude_floater(255 + dude_is_stupid);
             display_mstr(250);
             //give_xp(EXP_NEW_RENO_PRITCHARD_GRAVE);
-            item:=create_object(532,0,0);
+            item:=create_object(PID_PRITCHARD_MAP,0,0);
             add_obj_to_inven(dude_obj, item);
             set_pritchard_exp;
             //mark_sierra_army_base_on_map
@@ -191,7 +191,7 @@ procedure pickup_p_proc begin //fix by killap: added code from use_p_proc (does 
             dude_floater(255 + dude_is_stupid);
             display_mstr(250);
             //give_xp(EXP_NEW_RENO_PRITCHARD_GRAVE);
-            item:=create_object(532,0,0);
+            item:=create_object(PID_PRITCHARD_MAP,0,0);
             add_obj_to_inven(dude_obj, item);
             set_pritchard_exp;
             //mark_sierra_army_base_on_map

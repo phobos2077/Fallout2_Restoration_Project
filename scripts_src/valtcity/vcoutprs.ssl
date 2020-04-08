@@ -87,11 +87,11 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_OUTSIDER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_OUTSIDER);
+   set_self_ai(AI_COWARD);
 
    if (local_var(LVAR_Home_Tile) == 0) then
-       set_local_var(LVAR_Home_Tile,tile_num(self_obj));
+       set_local_var(LVAR_Home_Tile,self_tile);
 end
 
 
@@ -104,7 +104,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -124,16 +124,16 @@ procedure timed_event_p_proc begin
        set_local_var(LVAR_In_Timed_Event,0);
 
        while ((not(tile_in_tile_rect(21725,21711,24711,24725,Move_Hex))) and (Counter < 5)) do begin                // 4 corners of jail cell
-           Move_Hex:=tile_num_in_direction(tile_num(self_obj),random(0,5),random(2,4));
+           Move_Hex:=tile_num_in_direction(self_tile,random(0,5),random(2,4));
            ndebug("I'm trying to walk out of the cell. Trying to goto tile: "+Move_Hex);
            Counter+=1;
        end
        if (tile_in_tile_rect(21725,21711,24711,24725,Move_Hex)) then
-           animate_move_to_tile(Move_Hex);
-       else if (tile_num(self_obj) == local_var(LVAR_Home_Tile)) then
-           animate_move_to_tile(22716);
+           self_walk_to_tile(Move_Hex);
+       else if (self_tile == local_var(LVAR_Home_Tile)) then
+           self_walk_to_tile(22716);
        else
-           animate_move_to_tile(local_var(LVAR_Home_Tile));
+           self_walk_to_tile(local_var(LVAR_Home_Tile));
    end
 end
 

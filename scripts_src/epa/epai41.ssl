@@ -36,12 +36,12 @@ end
 
 procedure look_at_p_proc begin
    script_overrides;
-   display_msg(message_str(NAME, 102));
+   display_msg(mstr(102));
 end
 
 procedure description_p_proc begin
   script_overrides;
-  display_msg(message_str(NAME, 103));
+  display_msg(mstr(103));
 end
 
 procedure destroy_p_proc begin
@@ -86,9 +86,9 @@ procedure use_obj_on_p_proc begin
          gfade_out(ONE_GAME_SECOND);
          gfade_in(ONE_GAME_SECOND);
          if (PARTY_NON_BIPED_SIZE > 1) then
-            float_msg(dude_obj, message_str(NAME, 100), FLOAT_MSG_YELLOW);
+            float_msg(dude_obj, mstr(100), FLOAT_MSG_YELLOW);
          else if (PARTY_NON_BIPED_SIZE == 1) then
-            float_msg(dude_obj, message_str(NAME, 101), FLOAT_MSG_YELLOW);
+            float_msg(dude_obj, mstr(101), FLOAT_MSG_YELLOW);
          destroy_object(self_obj);
       end
    end

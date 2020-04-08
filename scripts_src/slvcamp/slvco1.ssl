@@ -107,7 +107,7 @@ end
 
 procedure use_p_proc
 begin
-   if ((obj_is_visible_flag(SULIK_SIS_obj))) then begin
+   if ((is_visible(SULIK_SIS_obj))) then begin
       script_overrides;
       add_timer_event(SULIK_SIS_obj,1,1);
    end else
@@ -145,7 +145,7 @@ procedure use_skill_on_p_proc begin
 
    Skill_Used:=action_being_used;
 
-   if ((obj_is_visible_flag(SULIK_SIS_obj))) then begin
+   if ((is_visible(SULIK_SIS_obj))) then begin
       script_overrides;
       add_timer_event(SULIK_SIS_obj,1,1);
    end else begin
@@ -167,7 +167,7 @@ procedure use_obj_on_p_proc begin
    variable Tool;
 
    Tool:=obj_pid(obj_being_used_with);
-   if ((obj_is_visible_flag(SULIK_SIS_obj))) then begin
+   if ((is_visible(SULIK_SIS_obj))) then begin
       script_overrides;
       add_timer_event(SULIK_SIS_obj,1,1);
    end else begin

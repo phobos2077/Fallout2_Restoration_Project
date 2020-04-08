@@ -50,7 +50,7 @@ end
 
 procedure critter_p_proc
 begin
-  if (obj_can_see_obj(self_obj, dude_obj)) then
+  if (self_can_see_dude) then
     attack(dude_obj);
 end
 
@@ -88,8 +88,8 @@ end
 
 procedure map_update_p_proc
 begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_EPA_FLIES);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_FLOATER);
+   set_self_team(TEAM_EPA_FLIES);
+   set_self_ai(AI_FLOATER);
 end
 
 procedure talk_p_proc
@@ -104,7 +104,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), random(0, 5), 5), 0);
+      self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), 5));
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(random(2, 3)), 1);

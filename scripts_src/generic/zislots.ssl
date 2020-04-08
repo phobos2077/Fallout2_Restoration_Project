@@ -156,7 +156,7 @@ procedure Node020; //added by killap - expansion pack
 #define slot_tube_size                    (local_var(LVAR_Caps))
 #define lowest_jackpot_payoff             (level_6_payoff_mult * low_bet * coin_mult)
 
-#define do_slot_payoff(x)                 item_caps_adjust(dude_obj, x);                                          \
+#define do_slot_payoff(x)                 dude_caps_adjust(x);                                          \
                                           set_local_var(LVAR_Caps_Restocked_Time, game_time + restock_time);      \
                                           set_local_var(LVAR_Caps, slot_tube_size - x);                           \
                                           if ((x>=lowest_jackpot_payoff) and (coin_mult==coin_max)) then begin    \
@@ -231,7 +231,7 @@ variable obj_near_machine := 0;
       obj_near_machine := tile_get_next_critter(tile_num_in_direction(self_tile, 3, 1), self_elevation, 0);
    end
    if (obj_near_machine != 0) then begin
-      if ((obj_near_machine != dude_obj) and (obj_in_party(obj_near_machine) == false) and (obj_is_visible_flag(obj_near_machine))) then begin //added obj_is_visible_flag - killap
+      if ((obj_near_machine != dude_obj) and (obj_in_party(obj_near_machine) == false) and (is_visible(obj_near_machine))) then begin //added obj_is_visible_flag - killap
          obj_near_machine := 1;
       end
    end
@@ -634,7 +634,7 @@ end
 
 //added by killap - expansion pack
 procedure Node020 begin
-   item_caps_adjust(dude_obj, machine_starting_caps);
+   dude_caps_adjust(machine_starting_caps);
    set_local_var(LVAR_Caps_Restocked_Time, game_time + restock_time);
    set_local_var(LVAR_Caps, slot_tube_size - machine_starting_caps);
    slot_reply(5001);

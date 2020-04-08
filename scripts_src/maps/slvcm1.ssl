@@ -49,8 +49,8 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_LOAD_MAP_INDEX) == 5) then begin
       set_map_var(MVAR_Came_With_Rangers,1);
       move_to(dude_obj, 16692, 0);
-      Critter := create_object_sid(PID_MALE_NCR_RANGER,17097,elevation(dude_obj),SCRIPT_SCATKRNG);
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      Critter := create_object_sid(PID_MALE_NCR_RANGER,17097,dude_elevation,SCRIPT_SCATKRNG);
+      set_team(Critter,TEAM_PLAYER);
       item:=create_object(PID_ASSAULT_RIFLE,0,0);
       add_obj_to_inven(Critter,item);
       wield_obj_critter(Critter,item);
@@ -59,8 +59,8 @@ procedure map_enter_p_proc begin
       item:=create_object(PID_STIMPAK,0,0);
       add_obj_to_inven(Critter,item);
 
-      Critter := create_object_sid(PID_FEMALE_NCR_RANGER,17087,elevation(dude_obj),SCRIPT_SCATKRNG);
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      Critter := create_object_sid(PID_FEMALE_NCR_RANGER,17087,dude_elevation,SCRIPT_SCATKRNG);
+      set_team(Critter,TEAM_PLAYER);
       item:=create_object(PID_ASSAULT_RIFLE,0,0);
       add_obj_to_inven(Critter,item);
       wield_obj_critter(Critter,item);

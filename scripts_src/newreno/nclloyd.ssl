@@ -192,8 +192,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (lloyd_in_new_reno) then begin
          if (map_first_run) then begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_LLOYD);
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+            set_self_team(TEAM_NEW_RENO_LLOYD);
+            set_self_ai(AI_TOUGH_CITIZEN);
          end
       end else if (init_golgatha == false) then begin
          set_init_golgatha;
@@ -204,7 +204,7 @@ procedure map_enter_p_proc begin
             if ((is_success(roll_vs_skill(dude_obj,SKILL_SNEAK,0))) or (is_success(roll_vs_skill(dude_obj,SKILL_OUTDOORSMAN,0)))) then begin
                ndebug("   successful follow");
                display_mstr(1001);
-               item_caps_adjust(self_obj, 1000);
+               self_caps_adjust(1000);
                check_set_obj_visiblility(self_obj, false);
             end else begin
                ndebug("   lloyd escaped");
@@ -229,7 +229,7 @@ end
 
 procedure map_update_p_proc begin
    if ((dude_strength) >= (self_strength)) then begin
-      if ( ((elevation(dude_obj)) == (elevation(self_obj))) and (prev_node == 947) ) then begin
+      if ( ((dude_elevation) == (self_elevation)) and (prev_node == 947) ) then begin
          display_msg(mstr(1053));
          prev_node :=0;
       end
@@ -253,7 +253,7 @@ procedure critter_p_proc begin
    //added by killap
    if (get_escape(escape_betrayed)) then begin
       if (anim_busy(self_obj) == false) then begin
-         set_obj_visibility(self_obj, 1); //invisible
+         set_self_invisible; //invisible
       end
    end
    //end added by killap
@@ -275,7 +275,7 @@ procedure critter_p_proc begin
       else begin
       //added by killap
          if (prev_node == 947) then
-            set_obj_visibility(self_obj, 1); //invisible
+            set_self_invisible; //invisible
       //end added by killap
          else if (anim_busy(self_obj) == false) then begin
             //anim_move_to_point_rate(33105, 5)
@@ -411,7 +411,7 @@ procedure Node981 begin
    going_to_golgatha := true;
 end
 procedure Node979 begin
-   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap
+   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (dude_trait(TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap
       call Node006;
    end else begin
       call Node005;
@@ -425,7 +425,7 @@ procedure Node978 begin
    call Node007;
 end
 procedure Node977 begin
-   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap
+   if ((dude_strength > 5) or (dude_wearing_power_armor) or (dude_wearing_combat_armor) or (true_party_size > 0) or (dude_trait(TRAIT_bruiser)) or (has_trait(TRAIT_OBJECT , dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin //was (has_trait(TRAIT_OBJECT, dude_obj, TRAIT_bruiser)) - killap
       call Node008;
    end else begin
       call Node007;
@@ -590,7 +590,7 @@ procedure Node002 begin
       BOption(217, Node023, 004);
    end else begin
       BOption(215, Node004, 004);
-      if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+      if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
          NOption(216, Node004, 005);
       end
    end
@@ -607,7 +607,7 @@ procedure Node004 begin
    NOption(231, Node999, -003);
    NOption(232, Node999, -003);
    BOption(233, Node979, 004);
-   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
       GOption(234, Node018, 005);
    end
    BOption(235, Node978, 006);
@@ -617,7 +617,7 @@ end
 procedure Node005 begin
    Reply(mstr(245) + mstr(246 + dude_is_female));
    BOption(248, Node977, 004);
-   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
       GOption(234, Node018, 005);
    end
    BOption(235, Node978, 006);
@@ -627,7 +627,7 @@ end
 procedure Node006 begin
    Reply(255 + (dude_is_female * (1 + (dude_charisma > 5))));
    BOption(258, Node976, 004);
-   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
       GOption(234, Node018, 004);
    end
    BOption(260, Node978, 004);
@@ -642,7 +642,7 @@ end
 procedure Node008 begin
    Reply(283);
    BOption(284, Node976, 004);
-   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
       GOption(285, Node018, 004);
    end
    BOption(286, Node978, 004);
@@ -669,8 +669,8 @@ procedure Node011 begin
    prev_node := 11;
 end
 procedure Node012 begin
-   item_caps_adjust(dude_obj, self_caps);
-   item_caps_adjust(self_obj, -self_caps);
+   dude_caps_adjust(self_caps);
+   self_caps_adjust(-self_caps);
    Reply(325);
    BOption(326, Node013, 004);
    BOption(327, Node998, 004);
@@ -758,7 +758,7 @@ procedure Node023 begin
    Reply(435 + ((dude_is_female) and (dude_charisma > 5)));
    BOption(437, Node024, 004);
    NOption(438, Node025, 005);
-   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 6) or (has_skill(dude_obj, SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
       NOption(439, Node026, 006);
    end
    prev_node := 23;

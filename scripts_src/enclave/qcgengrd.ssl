@@ -87,14 +87,14 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ENCLAVE_PATROL);
+   set_self_team(TEAM_ENCLAVE);
+   set_self_ai(AI_ENCLAVE_PATROL);
 end
 
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),2));
+       self_run_to_tile(tile_num_in_direction(dude_tile,random(0,5),2));
        ndebug("running to player");
        set_local_var(LVAR_Start_Timer,0);
    end
@@ -111,7 +111,7 @@ procedure critter_p_proc begin
 
    if (cur_map_index == MAP_ENCLAVE_PRESIDENT) then begin
        if (map_var(MVAR_Pres_Ordered) == 1) then begin
-           if (obj_can_see_obj(self_obj,dude_obj)) then
+           if (self_can_see_dude) then
                attack(dude_obj);
            else if (local_var(LVAR_Start_Timer) == 0) then begin
                inc_local_var(LVAR_Start_Timer);
@@ -120,7 +120,7 @@ procedure critter_p_proc begin
        end
    end
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
        if (local_var(LVAR_Hostile) == 2) then begin
            set_local_var(LVAR_Hostile,1);
            attack(dude_obj);
@@ -128,10 +128,10 @@ procedure critter_p_proc begin
        else if (party_size > 1) then begin
            attack(dude_obj);
        end
-       else if ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) or
-                (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR) or
-                (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_POWERED_ARMOR) or
-                (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_HARDENED_POWER_ARMOR)) then begin
+       else if ((obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2) or
+                (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR) or
+                (obj_pid(dude_armor) == PID_POWERED_ARMOR) or
+                (obj_pid(dude_armor) == PID_HARDENED_POWER_ARMOR)) then begin
            // do nothing
        end
        else begin
@@ -139,7 +139,7 @@ procedure critter_p_proc begin
        end
    end
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
        if ((cur_map_index == MAP_ENCLAVE_BARRACKS) and (global_var(GVAR_ENCLAVE_ENEMY_GUARD) == 1)) then
            attack(dude_obj);
        else if ((cur_map_index == MAP_ENCLAVE_PRESIDENT) and (global_var(GVAR_ENCLAVE_ENEMY_PRESIDENT) == 1)) then

@@ -100,8 +100,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_ENTRANCE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_STORE_OWNER);
+   set_self_team(TEAM_NCR_ENTRANCE);
+   set_self_ai(AI_STORE_OWNER);
    // comment out by killap
    //if (local_var(LVAR_Restock_Time) < game_time) then begin
    //   check_restock_item(PID_BOTTLE_CAPS, 50, 100, 100)
@@ -120,7 +120,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -156,7 +156,7 @@ end
 // added by killap
 procedure combat_p_proc begin
    variable item;
-   if ( (local_var(LVAR_Weapon_Check) == 0) and (obj_is_carrying_obj_pid(self_obj,PID_SPIKED_KNUCKLES) == 0) ) then begin
+   if ( (local_var(LVAR_Weapon_Check) == 0) and (self_item_count(PID_SPIKED_KNUCKLES) == 0) ) then begin
       item := create_object(PID_SPIKED_KNUCKLES,0,0);
       add_obj_to_inven(self_obj, item);
       set_local_var(LVAR_Weapon_Check,1);
@@ -177,7 +177,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    move_obj_inven_to_obj(scmikey_inventory_box_obj, self_obj);
-   ndebug("Should have moved everything number: " + obj_is_carrying_obj_pid(self_obj, PID_IGUANA_ON_A_STICK));
+   ndebug("Should have moved everything number: " + self_item_count(PID_IGUANA_ON_A_STICK));
 
    start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
@@ -244,8 +244,8 @@ end
 
 procedure Node0203a begin
    // edited by killap
-   number := obj_is_carrying_obj_pid(self_obj, PID_IGUANA_ON_A_STICK);
-   number1 := obj_is_carrying_obj_pid(self_obj, PID_MEAT_ON_A_STICK);
+   number := self_item_count(PID_IGUANA_ON_A_STICK);
+   number1 := self_item_count(PID_MEAT_ON_A_STICK);
    gdialog_barter;
    Reply("");
    NOption(g_mstr(352), Node006, 4);
@@ -301,8 +301,8 @@ procedure Node006 begin
    variable num_iquana := 0;
    variable num_meat := 0;
 
-   num_iquana := obj_is_carrying_obj_pid(self_obj, PID_IGUANA_ON_A_STICK);
-   num_meat := obj_is_carrying_obj_pid(self_obj, PID_MEAT_ON_A_STICK);
+   num_iquana := self_item_count(PID_IGUANA_ON_A_STICK);
+   num_meat := self_item_count(PID_MEAT_ON_A_STICK);
 
    if ((number == num_iquana) and (number1 == num_meat)) then
       call Node003;

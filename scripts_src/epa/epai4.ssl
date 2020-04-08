@@ -36,16 +36,16 @@ end
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 108));
+  display_msg(mstr(108));
 end
 
 procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 106));
+    display_msg(mstr(106));
   else
-    display_msg(message_str(NAME, 107));
+    display_msg(mstr(107));
 end
 
 procedure use_p_proc
@@ -73,25 +73,25 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 100);
+  Reply(100);
   if (global_var(GVAR_ELECTRIC_CHAIR) == 0) then
-    giq_option(4, NAME, 101, Node002, 50);
+    NOption(101, Node002, 4);
   if (global_var(GVAR_ELECTRIC_CHAIR) == 1) then
-    giq_option(4, NAME, 102, Node003, 50);
-  giq_option(4, NAME, 105, Node999, 50);
+    NOption(102, Node003, 4);
+  NOption(105, Node999, 4);
 end
 
 procedure Node002
 begin
-  gsay_reply(NAME, 103);
-  giq_option(4, NAME, 105, Node999, 50);
+  Reply(103);
+  NOption(105, Node999, 4);
   set_global_var(GVAR_ELECTRIC_CHAIR, 1);
 end
 
 procedure Node003
 begin
-  gsay_reply(NAME, 104);
-  giq_option(4, NAME, 105, Node999, 50);
+  Reply(104);
+  NOption(105, Node999, 4);
   set_global_var(GVAR_ELECTRIC_CHAIR, 0);
 end
 

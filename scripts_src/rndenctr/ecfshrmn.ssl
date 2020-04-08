@@ -114,8 +114,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_FISHERMEN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_RND_FISHERMEN);
+   set_self_ai(AI_GENERIC_GUARDS);
    set_local_var(LVAR_Choice, Random(CH_FRUIT, CH_SPEARS));
 
    if (local_var(LVAR_Choice) == CH_FRUIT) then begin
@@ -141,7 +141,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -253,8 +253,8 @@ procedure NodeBuyJunk begin
       obj := self_item(PID_FROZEN_DINNER);
       rm_obj_from_inven(self_obj, obj);
       add_obj_to_inven(dude_obj, obj);
-      item_caps_adjust(dude_obj, -10);
-      item_caps_adjust(self_obj, 10);
+      dude_caps_adjust(-10);
+      self_caps_adjust(10);
       call Node005;
    end else begin
       call Node006;
@@ -267,8 +267,8 @@ procedure NodeBuyLaser begin
       obj := self_item(PID_LASER_PISTOL);
       rm_obj_from_inven(self_obj, obj);
       add_obj_to_inven(dude_obj, obj);
-      item_caps_adjust(dude_obj, -10000);
-      item_caps_adjust(self_obj, 10000);
+      dude_caps_adjust(-10000);
+      self_caps_adjust(10000);
       call Node005;
    end else begin
       call Node006;
@@ -281,8 +281,8 @@ procedure NodeBuyPole begin
       obj := self_item(PID_SHARPENED_POLE);
       rm_obj_from_inven(self_obj, obj);
       add_obj_to_inven(dude_obj, obj);
-      item_caps_adjust(dude_obj, -40);
-      item_caps_adjust(self_obj, 40);
+      dude_caps_adjust(-40);
+      self_caps_adjust(40);
       call Node005;
    end else begin
       call Node006;
@@ -295,8 +295,8 @@ procedure NodeBuyFruit begin
       obj := self_item(PID_MUTATED_FRUIT);
       rm_obj_from_inven(self_obj, obj);
       add_obj_to_inven(dude_obj, obj);
-      item_caps_adjust(dude_obj, -5);
-      item_caps_adjust(self_obj, 5);
+      dude_caps_adjust(-5);
+      self_caps_adjust(5);
       call Node005;
    end else begin
       call Node006;
@@ -309,8 +309,8 @@ procedure NodeBuyXander begin
       obj := self_item(PID_XANDER_ROOT);
       rm_obj_from_inven(self_obj, obj);
       add_obj_to_inven(dude_obj, obj);
-      item_caps_adjust(dude_obj, -20);
-      item_caps_adjust(self_obj, 20);
+      dude_caps_adjust(-20);
+      self_caps_adjust(20);
       call Node005;
    end else begin
       call Node006;
@@ -323,8 +323,8 @@ procedure NodeBuyBroc begin
       obj := self_item(PID_BROC_FLOWER);
       rm_obj_from_inven(self_obj, obj);
       add_obj_to_inven(dude_obj, obj);
-      item_caps_adjust(dude_obj, -10);
-      item_caps_adjust(self_obj, 10);
+      dude_caps_adjust(-10);
+      self_caps_adjust(10);
       call Node005;
    end else begin
       call Node006;

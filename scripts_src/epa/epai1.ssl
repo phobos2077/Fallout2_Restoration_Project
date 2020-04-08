@@ -42,33 +42,33 @@ end
 procedure use_p_proc
 begin
   if (combat_is_initialized == 0) then begin
-     if ((obj_pid(critter_inven_obj(dude_obj, 1)) == PID_EPA_PAMPHLET) or (obj_pid(critter_inven_obj(dude_obj, 2)) == PID_EPA_PAMPHLET)) then
+     if ((obj_pid(dude_right_hand) == PID_EPA_PAMPHLET) or (obj_pid(dude_left_hand) == PID_EPA_PAMPHLET)) then
        call talk_p_proc;
      else
-       display_msg(message_str(NAME, 202));
+       display_msg(mstr(202));
   end
 end
 
 procedure critter_p_proc
 begin
-  if ((local_var(LVAR_Hostile) != 0) and obj_can_see_obj(self_obj, dude_obj)) then
+  if ((local_var(LVAR_Hostile) != 0) and self_can_see_dude) then
   begin
     set_local_var(LVAR_Hostile, 1);
     if (critter_is_fleeing(self_obj)) then
     begin
       if (anim_busy(self_obj) == 0) then
       begin
-        if ((tile_distance_objs(self_obj, dude_obj) < 8) or obj_can_see_obj(self_obj, dude_obj)) then
+        if ((tile_distance_objs(self_obj, dude_obj) < 8) or self_can_see_dude) then
         begin
           if (anim_busy(self_obj) == 0) then
           begin
-            global_temp := rotation_to_tile(tile_num(dude_obj), tile_num(self_obj));
-            animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), global_temp, random(3, 10)), 1);
+            global_temp := dude_rotation_to_self;
+            self_run_to_tile(tile_num_in_direction(self_tile, global_temp, random(3, 10)));
             global_temp := (global_temp + 1) % 6;
-            while ((anim_busy(self_obj) == 0) and (global_temp != rotation_to_tile(tile_num(dude_obj), tile_num(self_obj)))) do
+            while ((anim_busy(self_obj) == 0) and (global_temp != dude_rotation_to_self)) do
             begin
               ndebug("flee loop: rot == " + global_temp);
-              animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), global_temp, random(3, 10)), 1);
+              self_run_to_tile(tile_num_in_direction(self_tile, global_temp, random(3, 10)));
               global_temp := (global_temp + 1) % 6;
             end
           end
@@ -100,7 +100,7 @@ begin
   if (source_obj == dude_obj) then
   begin
     set_global_var(GVAR_GOOD_MONSTER, global_var(GVAR_GOOD_MONSTER) + 1);
-    if (metarule(51, self_obj) == 2) then
+    if (critter_kill_type(self_obj) == 2) then
     begin
       if (source_obj == dude_obj) then
       begin
@@ -182,15 +182,15 @@ procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   else
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure use_skill_on_p_proc
@@ -226,6 +226,6 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 200);
-  giq_option(4, NAME, 201, Node999, 50);
+  Reply(200);
+  NOption(201, Node999, 4);
 end

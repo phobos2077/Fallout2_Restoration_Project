@@ -108,13 +108,13 @@ procedure timed_event_p_proc begin
    if (fixed_param == TIMER_CHECK_DOOR) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(PHIL_CHECK_TILE);
+      self_walk_to_tile(PHIL_CHECK_TILE);
       reg_anim_end();
       add_timer_event(self_obj, game_ticks(5), TIMER_WALK_BACK);
    end else if (fixed_param == TIMER_WALK_BACK) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(starttile);
+      self_walk_to_tile(starttile);
       reg_anim_end();
    end
 end
@@ -124,8 +124,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KHAN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_V15_TOUGH_KHAN);
+   set_self_team(TEAM_KHAN);
+   set_self_ai(AI_V15_TOUGH_KHAN);
    starttile := self_tile;
 end
 
@@ -139,7 +139,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -352,7 +352,7 @@ procedure giveKey begin
 end
 
 procedure Node008 begin
-   if (skill_success(dude_obj, SKILL_CONVERSANT, 0)) then begin
+   if (skill_success(dude_obj, SKILL_SPEECH, 0)) then begin
       call giveKey;
       orV15Status(V15_PHIL_LET_GO);
       Reply(141);
@@ -390,7 +390,7 @@ end
 
 procedure canSeeDude begin
    if (game_time > look_Dude) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          return 1;
       end
       look_Dude := game_time + ONE_GAME_SECOND;

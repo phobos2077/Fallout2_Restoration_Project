@@ -52,7 +52,7 @@ begin
        call Make_Fish;
    end
 
-   if( elevation( dude_obj ) == 0 ) then
+   if( dude_elevation == 0) then
       Lighting;
    else
       Cavern_Lighting;
@@ -63,7 +63,7 @@ end
 procedure map_update_p_proc
 begin
 
-   if( elevation( dude_obj ) == 0 ) then
+   if( dude_elevation == 0) then
       Lighting;
    else
       Cavern_Lighting;

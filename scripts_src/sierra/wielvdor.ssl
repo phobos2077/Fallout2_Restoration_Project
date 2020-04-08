@@ -50,16 +50,16 @@ end
 //modified code by killap
 procedure map_update_p_proc begin
    if (cur_map_index == MAP_SIERRA_123) then begin
-       if ((elevation(self_obj) == map_var(MVAR_Eyeball_Used)) and (tile_num(self_obj) != 19918)) then begin
+       if ((self_elevation == map_var(MVAR_Eyeball_Used)) and (self_tile != 19918)) then begin
            obj_open(self_obj);
        end
 
-       else if ((elevation(self_obj) == map_var(MVAR_Eyeball_Level)) and (tile_num(self_obj) == 19918)) then begin
+       else if ((self_elevation == map_var(MVAR_Eyeball_Level)) and (self_tile == 19918)) then begin
            obj_open(self_obj);
        end
    end
 
-   else if (map_var(MVAR_Eyeball_Used_4) == elevation(self_obj)) then begin
+   else if (map_var(MVAR_Eyeball_Used_4) == self_elevation) then begin
        obj_open(self_obj);
    end
 
@@ -74,11 +74,11 @@ end
 
 /*procedure map_update_p_proc begin
    if (cur_map_index == MAP_SIERRA_123) then begin
-       if ((elevation(self_obj) == map_var(MVAR_Eyeball_Used)) and (tile_num(self_obj) != 19918)) then begin
+       if ((self_elevation == map_var(MVAR_Eyeball_Used)) and (self_tile != 19918)) then begin
            obj_open(self_obj);
        end
 
-       else if ((elevation(self_obj) == map_var(MVAR_Eyeball_Level)) and (tile_num(self_obj) == 19918)) then begin
+       else if ((self_elevation == map_var(MVAR_Eyeball_Level)) and (self_tile == 19918)) then begin
            obj_open(self_obj);
        end
    end
@@ -87,11 +87,11 @@ end
 
 procedure use_p_proc begin
    if (cur_map_index == MAP_SIERRA_123) then begin
-       if ((elevation(self_obj) == map_var(MVAR_Eyeball_Used)) and (tile_num(self_obj) != 19918)) then begin
+       if ((self_elevation == map_var(MVAR_Eyeball_Used)) and (self_tile != 19918)) then begin
            ndebug("Clearance Granted");
        end
 
-       else if ((elevation(self_obj) == map_var(MVAR_Eyeball_Level)) and (tile_num(self_obj) == 19918)) then begin
+       else if ((self_elevation == map_var(MVAR_Eyeball_Level)) and (self_tile == 19918)) then begin
            ndebug("Clearance Granted");
        end
 
@@ -101,7 +101,7 @@ procedure use_p_proc begin
        end
    end
 
-   else if (map_var(MVAR_Eyeball_Used_4) != elevation(self_obj)) then begin
+   else if (map_var(MVAR_Eyeball_Used_4) != self_elevation) then begin
        script_overrides;
        display_msg(mstr(100));
    end

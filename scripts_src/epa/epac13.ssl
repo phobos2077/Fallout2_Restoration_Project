@@ -37,7 +37,7 @@ procedure combat_p_proc;
 
 procedure start
 begin
-  float_msg(self_obj, message_str(NAME, random(103, 106)), FLOAT_MSG_RED);
+  float_msg(self_obj, mstr(random(103, 106)), FLOAT_MSG_RED);
   add_timer_event(self_obj, game_ticks(random(13, 16)), 3);
   add_timer_event(self_obj, game_ticks(random(5, 7)), 1);
 end
@@ -50,8 +50,8 @@ end
 procedure critter_p_proc
 begin
   if (global_var(GVAR_EPADOCTOR_ATTACKED) == 1) then
-    animate_move_obj_to_tile(self_obj, 18508, 1);
-  if (obj_can_see_obj(self_obj, dude_obj) and (pissed == 0)) then
+    self_run_to_tile(18508);
+  if (self_can_see_dude and (pissed == 0)) then
   begin
     pissed := 1;
     attack(dude_obj);
@@ -68,15 +68,15 @@ procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   else
-    display_msg(message_str(NAME, 101));
+    display_msg(mstr(101));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure use_skill_on_p_proc
@@ -94,8 +94,8 @@ end
 
 procedure map_enter_p_proc
 begin
-  critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_RAIDER_BAND);
-  critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_ARROYO_WARRIOR);
+  set_self_team(TEAM_RAIDER_BAND);
+  set_self_ai(AI_ARROYO_WARRIOR);
 end
 
 procedure map_update_p_proc
@@ -104,14 +104,14 @@ end
 
 procedure talk_p_proc
 begin
-  float_msg(self_obj, message_str(NAME, 107), FLOAT_MSG_RED);
+  float_msg(self_obj, mstr(107), FLOAT_MSG_RED);
 end
 
 procedure timed_event_p_proc
 begin
   if (fixed_param == 3) then
   begin
-    float_msg(self_obj, message_str(NAME, random(103, 106)), FLOAT_MSG_RED);
+    float_msg(self_obj, mstr(random(103, 106)), FLOAT_MSG_RED);
     add_timer_event(self_obj, game_ticks(random(13, 16)), 3);
   end
   if (fixed_param == 1) then
@@ -120,7 +120,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), random(0, 5), 5), 0);
+      self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), 5));
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(random(3, 5)), 1);

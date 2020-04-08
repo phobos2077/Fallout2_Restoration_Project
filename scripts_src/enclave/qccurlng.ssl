@@ -141,8 +141,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DOCTOR);
+   set_self_team(TEAM_ENCLAVE);
+   set_self_ai(AI_DOCTOR);
 end
 
 
@@ -155,7 +155,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -293,7 +293,7 @@ end
 procedure Node003 begin
    Reply(115);
 
-   BOption(mstr(116)+obj_name(dude_obj)+mstr(117),Node005,004);
+   BOption(mstr(116)+dude_name+mstr(117),Node005,004);
    NOption(118,Node999,004);
 end
 
@@ -302,7 +302,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   Reply(mstr(127)+obj_name(dude_obj)+mstr(128));
+   Reply(mstr(127)+dude_name+mstr(128));
 
    NOption(129,Node007,004);
    BOption(130,Node008,004);
@@ -313,7 +313,7 @@ procedure Node006 begin
    Reply(132);
 
    BOption(133,Node008,004);
-   NOption(mstr(134)+obj_name(dude_obj)+mstr(135),Node005,004);
+   NOption(mstr(134)+dude_name+mstr(135),Node005,004);
    NOption(136,Node007,004);
 end
 
@@ -321,7 +321,7 @@ procedure Node007 begin
    Reply(137);
 
    NOption(138,Node009,004);
-   NOption(mstr(139)+obj_name(dude_obj)+mstr(140),Node008,004);
+   NOption(mstr(139)+dude_name+mstr(140),Node008,004);
    NOption(141,Node008,004);
    NOption(142,Node999,004);
 end
@@ -422,14 +422,14 @@ procedure Node020 begin
 end
 
 procedure Node020a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-25)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-25)) then
        call Node021;
    else
        call Node022;
 end
 
 procedure Node020b begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-50)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-50)) then
        call Node021;
    else
        call Node022;
@@ -451,14 +451,14 @@ procedure Node022 begin
 end
 
 procedure Node022a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-50)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-50)) then
        call Node021;
    else
        call Node023;
 end
 
 procedure Node022b begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-100)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-100)) then
        call Node021;
    else
        call Node023;

@@ -85,7 +85,7 @@ end
 
 procedure Tamper_Proc begin
    if (map_var(MVAR_Can_Check_Slaves) == 0) then begin
-      if ((obj_is_visible_flag(GUARD_obj))) then begin
+      if ((is_visible(GUARD_obj))) then begin
          if (obj_can_see_obj(GUARD_obj,dude_obj)) then begin
             script_overrides;
             add_timer_event(GUARD_obj,5,2);

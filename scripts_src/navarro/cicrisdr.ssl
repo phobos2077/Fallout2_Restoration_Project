@@ -44,10 +44,10 @@ procedure map_enter_p_proc begin
 end
 
 procedure use_p_proc begin
-   if( ( tile_num( dude_obj ) == 23300 ) or
-       ( tile_num( dude_obj ) == 23501 ) or
-       ( tile_num( dude_obj ) == 23301 ) or
-       ( tile_num( dude_obj ) == 23302 ) ) then begin
+   if( ( dude_tile == 23300) or
+       ( dude_tile == 23501) or
+       ( dude_tile == 23301) or
+       ( dude_tile == 23302) ) then begin
       // If on the inside, just open it.
       obj_unlock( self_obj );
    end

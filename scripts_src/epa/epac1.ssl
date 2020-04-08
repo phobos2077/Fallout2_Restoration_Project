@@ -40,11 +40,11 @@ procedure timed_event_p_proc begin
     if not (critter_state(self_obj) bwand DAM_KNOCKED_DOWN)
       and not combat_is_initialized then
     begin
-      variable dst := tile_num_in_direction(tile_num(self_obj), random(0, 5), 5);
-      if not tile_is_blocked(dst, elevation(self_obj)) then begin
+      variable dst := tile_num_in_direction(self_tile, random(0, 5), 5);
+      if not tile_is_blocked(dst, self_elevation) then begin
         reg_anim_clear(self_obj);
         reg_anim_begin();
-          animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), random(0, 5), 5), 0);
+          self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), 5));
         reg_anim_end();
       end
     end
@@ -92,10 +92,10 @@ end
 
 procedure talk_p_proc
 begin
-  float_msg(self_obj, message_str(NAME, random(200, 210)), FLOAT_MSG_YELLOW);
+  float_msg(self_obj, mstr(random(200, 210)), FLOAT_MSG_YELLOW);
 end
 
 procedure push_p_proc
 begin
-  float_msg(self_obj, message_str(NAME, random(500, 501)), FLOAT_MSG_YELLOW);
+  float_msg(self_obj, mstr(random(500, 501)), FLOAT_MSG_YELLOW);
 end

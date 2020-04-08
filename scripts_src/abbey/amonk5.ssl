@@ -57,7 +57,7 @@ begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 end
@@ -106,7 +106,7 @@ end
 
 procedure map_enter_p_proc
 begin
- critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+ set_self_team(TEAM_ABBEY);
  add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
 end
 
@@ -147,7 +147,7 @@ begin
 
  if ( (global_var(GVAR_ABBEY_BEAST) >= 4) and (local_var(LVAR_Abbey_Card) == 0) ) then
    NOption(600,Node009,4);
- if ( (global_var(GVAR_ABBEY_KNOWLEDGE_EPA) == 2) and (obj_is_carrying_obj_pid(dude_obj, PID_EPA_BOTANY_HOLODISK )) ) then
+ if ( (global_var(GVAR_ABBEY_KNOWLEDGE_EPA) == 2) and (dude_item_count(PID_EPA_BOTANY_HOLODISK)) ) then
    NOption(430,Node014,4);
  if (global_var(GVAR_ABBEY_KNOWLEDGE_EPA) == 0) then
    NOption(301,Node002,4);
@@ -263,7 +263,7 @@ end
 procedure Node015 begin
    //check if dude has access to the computers
    if (local_var(LVAR_Abbey_Card) == 0) then begin
-      if (obj_is_carrying_obj_pid(dude_obj,PID_EPA_BOTANY_HOLODISK)) then
+      if (dude_item_count(PID_EPA_BOTANY_HOLODISK)) then
          remove_pid_qty(dude_obj, PID_EPA_BOTANY_HOLODISK, 1)
       set_global_var(GVAR_ABBEY_KNOWLEDGE_EPA,4);
       display_msg(message_str(SCRIPT_ACOMPU, 1000));

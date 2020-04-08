@@ -170,10 +170,10 @@ procedure timed_event_p_proc begin
             if (Random(1, 10) == 1) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
-               animate_move_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(5, 10)));
+               self_walk_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(5, 10)));
                reg_anim_end();
             end else begin
-               animate_rotation(Random(0, 5));
+               self_rotate(Random(0, 5));
             end
          end
       end else begin
@@ -181,7 +181,7 @@ procedure timed_event_p_proc begin
             if (Random(1, 10) == 1) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
-               animate_rotation(Random(0, 5));
+               self_rotate(Random(0, 5));
                reg_anim_end();
             end
          end
@@ -198,8 +198,8 @@ procedure map_enter_p_proc begin
 
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT15);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_VAULT15);
+   set_self_ai(AI_PEASANT);
    starttile := self_tile;
    add_timer_event(self_obj, 0, TIMER_MOVE);
 end
@@ -214,7 +214,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -411,8 +411,8 @@ end
 
 procedure do_trans begin
    fadeout(1);
-   move_to(self_obj, REBECCA_TENT_POS, elevation(self_obj));
-   move_to(dude_obj, DUDE_TENT_POS, elevation(self_obj));
+   move_to(self_obj, REBECCA_TENT_POS, self_elevation);
+   move_to(dude_obj, DUDE_TENT_POS, self_elevation);
 
    reg_anim_clear(self_obj);
    reg_anim_begin();
@@ -680,7 +680,7 @@ procedure game_time_8_hour begin
       roam := 0;
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(TENT_TILE_POS);
+      self_walk_to_tile(TENT_TILE_POS);
       reg_anim_end();
    end
 end
@@ -690,7 +690,7 @@ procedure game_time_12_hour begin
       roam := 1;
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(starttile);
+      self_walk_to_tile(starttile);
       reg_anim_end();
    end
 end
@@ -700,7 +700,7 @@ procedure game_time_24_hour begin
       roam := 0;
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(TENT_TILE_POS);
+      self_walk_to_tile(TENT_TILE_POS);
       reg_anim_end();
    end
 end

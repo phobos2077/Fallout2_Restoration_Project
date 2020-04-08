@@ -125,7 +125,7 @@ procedure map_enter_p_proc begin
    end else
       ndebug("DIDN'T HAVE MAP HEX FOR CAR, WE NEED TO CREATE ONE");
 
-   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((has_trait(TRAIT_PERK,dude_obj,PERK_mysterious_stranger)))) then begin
+   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((dude_perk(PERK_mysterious_stranger)))) then begin
        if (not(get_stranger_flag(STRANGER_GENDER))) then begin
            ndebug("Set the Stranger Gender");
            set_stranger_flag(STRANGER_GENDER);
@@ -156,8 +156,8 @@ procedure map_enter_p_proc begin
            else
                Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_MALE,0,0,SCRIPT_ECMSTSTR);
        end
-       Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),random(5,10));
-       critter_attempt_placement(Critter,Critter_Tile,elevation(dude_obj));
+       Critter_Tile:=tile_num_in_direction(dude_tile,random(0,5),random(5,10));
+       critter_attempt_placement(Critter,Critter_Tile,dude_elevation);
    end
 
 end

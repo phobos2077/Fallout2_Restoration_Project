@@ -119,7 +119,7 @@ procedure use_p_proc begin
        display_msg(message_str(SCRIPT_WSTERM1A,300)); //was SCRIPT_WSTERM1B - killap
    end
 
-   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   else if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(message_str(SCRIPT_WSTERM1B,102));
        end
@@ -225,12 +225,12 @@ procedure Node001a begin
    set_local_var(LVAR_Disable_Alarm,1); // Seraph's Code
 
    if (has_skill(dude_obj,SKILL_SCIENCE) > 90) then begin
-       display_msg(message_str(SCRIPT_GENERIC,1004));
+       display_msg(g_mstr(1004));
        give_xp(EXP_HACK_SIERRA_COMP_2A_SECURITY);
        call Node014;
    end
    else if (skill_success(dude_obj,SKILL_SCIENCE,-50)) then begin
-       display_msg(message_str(SCRIPT_GENERIC,1004));
+       display_msg(g_mstr(1004));
        give_xp(EXP_HACK_SIERRA_COMP_2A_SECURITY);
        call Node014;
    end
@@ -244,12 +244,12 @@ procedure Node001b begin
    set_local_var(LVAR_Disable_Alarm,1); // Seraph's Code
 
    if (has_skill(dude_obj,SKILL_SCIENCE) > 105) then begin
-       display_msg(message_str(SCRIPT_GENERIC,1004));
+       display_msg(g_mstr(1004));
        give_xp(EXP_HACK_SIERRA_COMP_2A_ALARM);
        call Node014;
    end
    else if (skill_success(dude_obj,SKILL_SCIENCE,-65)) then begin
-       display_msg(message_str(SCRIPT_GENERIC,1004));
+       display_msg(g_mstr(1004));
        give_xp(EXP_HACK_SIERRA_COMP_2A_ALARM);
        call Node014;
    end

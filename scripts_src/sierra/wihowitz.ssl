@@ -83,11 +83,11 @@ procedure timed_event_p_proc begin
    variable door_tile;
 
    door_tile:=tile_num(Entrance_Door_Ptr);
-   create_object(PID_SIERRA_ENTRANCE_DOOR_EXP,door_tile,elevation(self_obj));
-   create_object(33555781,door_tile,elevation(self_obj));
-   destroy_object(tile_contains_pid_obj(door_tile,elevation(self_obj),PID_SIERRA_ENTRANCE_DOOR));
+   create_object(PID_SIERRA_ENTRANCE_DOOR_EXP,door_tile,self_elevation);
+   create_object(33555781,door_tile,self_elevation);
+   destroy_object(tile_contains_pid_obj(door_tile,self_elevation,PID_SIERRA_ENTRANCE_DOOR));
    set_local_var(LVAR_Fired,1);
-   explosion(11710,elevation(self_obj),200);
+   explosion(11710,self_elevation,200);
    display_msg(mstr(210));
 end
 

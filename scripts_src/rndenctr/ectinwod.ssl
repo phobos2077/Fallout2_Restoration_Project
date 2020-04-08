@@ -128,8 +128,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_TIN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_RND_TIN);
+   set_self_ai(AI_TOUGH_GUARD);
    if (local_var(LVAR_Used_Can) == 0) then begin
       add_timer_event(self_obj, game_ticks(Random(5, 7)), TIMER_LOOK);
    end
@@ -146,7 +146,7 @@ procedure critter_p_proc begin
    this as well. */
 
    if (local_var(LVAR_Used_Can) == 1) then begin
-      if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+      if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
           set_local_var(LVAR_Hostile,1);
          self_attack_dude;
           //Macro made by Tom to keep the critter fleeing.
@@ -156,7 +156,7 @@ procedure critter_p_proc begin
          if (not anim_busy(self_obj) and self_tile != TILELEAVE) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_run_to_tile(TILELEAVE);
+            self_run_to_tile(TILELEAVE);
             reg_anim_end();
          end else if (self_tile == TILELEAVE) then begin
             destroy_object(self_obj);

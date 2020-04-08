@@ -78,7 +78,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( ((san_fran_flag(SF_ELRON_ENEMY)) or (map_var(MVAR_Attack_Player) == 1)) and (self_can_see_dude) ) then begin
        attack(dude_obj);
    end
 
@@ -153,7 +153,7 @@ procedure map_enter_p_proc begin
    else if (self_tile == 23128) then
       guard1c_obj := self_obj;
 
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_HUBOLOGIST_STASH);
+   set_self_team(TEAM_HUBOLOGIST_STASH);
 end
 
 

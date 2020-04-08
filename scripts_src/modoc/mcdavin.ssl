@@ -109,10 +109,10 @@ end
 procedure combat_p_proc begin
    if (dude_enemy_modoc) then begin
       set_self_abandon_party;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+      set_self_team(TEAM_MODOC);
    end else if (cur_map_index == MAP_GHOST_FARM) then begin
    end else if (cur_map_index == MAP_GHOST_FARM) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    end
 end
 
@@ -123,7 +123,7 @@ procedure timed_event_p_proc begin
          if (Davin_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(2000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then
+            else if (self_rads) then
                floater(2001);
             else if (get_poison(self_obj)) then
                floater(2002);
@@ -147,7 +147,7 @@ procedure map_enter_p_proc begin
 //   if (local_var(LVAR_Home_Tile) == 0) then begin - comment out by killap
 //      set_local_var(LVAR_Home_Tile, self_tile);  - moved down by killap
    if (cur_map_index != MAP_GHOST_FARM) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
+         set_self_team(TEAM_MODOC);
    end else begin
          check_show_ghost_farm_attackers
    end
@@ -170,7 +170,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -356,7 +356,7 @@ end
 procedure Node996 begin
 // Begin Seraph's Code
    if (grisham_dead) then begin //added by killap
-      biff := create_object_sid(PID_GRISHAM, 28512, elevation(self_obj), SCRIPT_MCGRISHA);
+      biff := create_object_sid(PID_GRISHAM, 28512, self_elevation, SCRIPT_MCGRISHA);
       gun := create_object(PID_SAWED_OFF_SHOTGUN, 0, 0);
 
       add_obj_to_inven(biff, gun);

@@ -52,16 +52,16 @@ procedure use_p_proc begin
    set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
 
    if (cur_map_index == MAP_SIERRA_123) then begin
-       if (elevation(dude_obj) == 0) then
+       if (dude_elevation == 0) then
            set_map_var(MVAR_Security_Level_1,1);
-       else if (elevation(dude_obj) == 1) then
+       else if (dude_elevation == 1) then
            set_map_var(MVAR_Security_Level_2,1);
        else
            set_map_var(MVAR_Security_Level_3,1);
 
        display_msg(mstr(101));
        display_msg(mstr(102));
-       level:=1+elevation(dude_obj);
+       level:=1+dude_elevation;
        display_msg(mstr(103)+level+".");
 
    end
@@ -83,25 +83,25 @@ procedure use_obj_on_p_proc begin
    script_overrides;
 
    if (cur_map_index == MAP_SIERRA_123) then begin
-       if (((Tool == PID_CLIFTON_EYE) or (Tool == PID_DIXON_EYE)) and (tile_num(self_obj) != 19916)) then begin
-               set_map_var(MVAR_Eyeball_Used,elevation(self_obj));
-               level:=1+elevation(dude_obj);
+       if (((Tool == PID_CLIFTON_EYE) or (Tool == PID_DIXON_EYE)) and (self_tile != 19916)) then begin
+               set_map_var(MVAR_Eyeball_Used,self_elevation);
+               level:=1+dude_elevation;
                display_msg(mstr(100)+level+".");
        end
 
-       else if ((tile_num(self_obj) == 19916) and (Tool == PID_CLIFTON_EYE)) then begin
-               set_map_var(MVAR_Eyeball_Level,elevation(self_obj));
-               level:=1+elevation(dude_obj);
+       else if ((self_tile == 19916) and (Tool == PID_CLIFTON_EYE)) then begin
+               set_map_var(MVAR_Eyeball_Level,self_elevation);
+               level:=1+dude_elevation;
                display_msg(mstr(100)+level+".");
        end
 
-       else if ((tile_num(self_obj) == 19916) and (Tool == PID_DIXON_EYE)) then begin
+       else if ((self_tile == 19916) and (Tool == PID_DIXON_EYE)) then begin
            display_msg(mstr(101));
        end
    end
 
    else if (Tool == PID_CLIFTON_EYE) then begin
-       set_map_var(MVAR_Eyeball_Used_4,elevation(self_obj));
+       set_map_var(MVAR_Eyeball_Used_4,self_elevation);
        display_msg(mstr(104));
    end
 

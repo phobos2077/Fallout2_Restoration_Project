@@ -175,7 +175,7 @@ procedure timed_event_p_proc begin
             (tile_in_box(tile_num(repair_bot2), 21743, 21737, 23537, 23543)) or
             (tile_in_box(tile_num(repair_bot3), 21743, 21737, 23537, 23543)))) or
 
-            ((tile_distance(tile_num(self_obj),tile_num(repair_bot1)) < 5 and obj_is_visible_flag(repair_bot1) and elevation(repair_bot1) == self_elevation) or (tile_distance(tile_num(self_obj),tile_num(repair_bot2)) < 5 and obj_is_visible_flag(repair_bot2) and elevation(repair_bot2) == self_elevation) or (tile_distance(tile_num(self_obj),tile_num(repair_bot3)) < 5 and obj_is_visible_flag(repair_bot3) and elevation(repair_bot3) == self_elevation))) then begin
+            ((tile_distance(self_tile,tile_num(repair_bot1)) < 5 and is_visible(repair_bot1) and elevation(repair_bot1) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot2)) < 5 and is_visible(repair_bot2) and elevation(repair_bot2) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot3)) < 5 and is_visible(repair_bot3) and elevation(repair_bot3) == self_elevation))) then begin
                obj_unlock(self_obj);
                //set_local_var(LVAR_Locked, STATE_INACTIVE);
             end else begin
@@ -431,7 +431,7 @@ procedure damage_p_proc begin
            set_local_var(LVAR_Trapped, STATE_INACTIVE);
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
            destroy_object(self_obj);
        end
 
@@ -449,7 +449,7 @@ procedure damage_p_proc begin
        if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
        end
 
        else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
@@ -1468,7 +1468,7 @@ procedure Pry_Door begin
        end
 
        else begin
-           if (get_critter_stat(source_obj,STAT_gender) == GENDER_MALE) then begin
+           if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
                    display_msg(mstr(182));
                end
@@ -1502,7 +1502,7 @@ end
 
 procedure Check_Repair(variable Cur_Var) begin
    //if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
-       if ((map_var(Cur_Var) > 0)/* and (tile_num(self_obj) == 20118)*/) then begin //edit by killap - was != 0 and did a tile check
+       if ((map_var(Cur_Var) > 0)/* and (self_tile == 20118)*/) then begin //edit by killap - was != 0 and did a tile check
          obj_unlock(self_obj);
          set_local_var(LVAR_Locked, STATE_INACTIVE);
          ndebug("unlocking door for repair bot");

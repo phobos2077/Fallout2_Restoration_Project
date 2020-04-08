@@ -176,8 +176,8 @@ end
 procedure map_enter_p_proc begin
    Jacob_Ptr := self_obj;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RACIST);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_RACIST);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 procedure map_update_p_proc begin
@@ -192,7 +192,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if ( ( ( global_var( GVAR_ENEMY_CONSPIRATORS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_CONSPIRATORS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -492,10 +492,10 @@ procedure Node006 begin
    variable val;
 
    val:=random(5,10);
-   if (item_caps_total(dude_obj) >= val) then
-      item_caps_adjust(dude_obj, -val);
+   if (dude_caps >= val) then
+      dude_caps_adjust(-val);
    else
-      item_caps_adjust(dude_obj, -item_caps_total( dude_obj ) );
+      dude_caps_adjust(-dude_caps);
 
    Reply(124);
    NLowOption(125,Node999);
@@ -757,9 +757,9 @@ procedure Node051 begin
 
    // The player has totally rejected the conspiracy. Be sure to
    // remove all Explosive Switches from the player's inventory.
-   triggerCount := obj_is_carrying_obj_pid( dude_obj, PID_EXPLOSIVE_SWITCH );
+   triggerCount := dude_item_count( PID_EXPLOSIVE_SWITCH);
    if( triggerCount > 0 ) then begin
-      trigger := obj_carrying_pid_obj( dude_obj, PID_EXPLOSIVE_SWITCH );
+      trigger := dude_item( PID_EXPLOSIVE_SWITCH);
       dummy := rm_mult_objs_from_inven( dude_obj, trigger, triggerCount );
       destroy_object(trigger); //added by killap
    end

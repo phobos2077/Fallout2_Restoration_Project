@@ -238,7 +238,7 @@ procedure Node004 begin
    Reply(230);
    NOption(231,Node005,4);
    NOption(232,Node005,4);
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 80) then
+   if (has_skill(dude_obj,SKILL_SPEECH) > 80) then
       NOption(233,Node005,4);
 end
 
@@ -308,7 +308,7 @@ end
 
 //speech check
 procedure Node905 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,10))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,10))) then
       call Node021;
    else
       call Node020;
@@ -327,7 +327,7 @@ end
 
 //barter success
 procedure Node008 begin
-   item_caps_adjust(dude_obj, -500);
+   dude_caps_adjust(-500);
    //quest over
    Reply(310);
    NOption(311,Node906,4);
@@ -345,7 +345,7 @@ procedure Node009 begin
 end
 
 procedure Node010 begin
-   item_caps_adjust(dude_obj, -1000);
+   dude_caps_adjust(-1000);
    //quest over
    Reply(330);
    NOption(331,Node906,4);

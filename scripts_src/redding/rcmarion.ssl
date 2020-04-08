@@ -163,8 +163,8 @@ procedure map_enter_p_proc begin
    end
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_TOUGH_GUARD);
 end
 
 
@@ -177,11 +177,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -845,7 +845,7 @@ procedure Node031 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 0) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,100);
+      dude_caps_adjust(100);
    end
 //end killap's code
    Reply(216);
@@ -858,7 +858,7 @@ procedure Node032 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 0) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,100);
+      dude_caps_adjust(100);
    end
 //end killap's code
    Reply(219);
@@ -871,7 +871,7 @@ procedure Node033 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 0) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,100);
+      dude_caps_adjust(100);
    end
 //end killap's code
    Reply(222);
@@ -896,7 +896,7 @@ procedure Node035 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 1) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,300);
+      dude_caps_adjust(300);
    end
 //endkillap's code
    Reply(228);
@@ -909,7 +909,7 @@ procedure Node036 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 1) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,300);
+      dude_caps_adjust(300);
    end
 //end killap's code
    Reply(231);
@@ -922,7 +922,7 @@ procedure Node037 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 1) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,300);
+      dude_caps_adjust(300);
    end
 //end killap's code
    Reply(234);
@@ -935,7 +935,7 @@ procedure Node038 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 1) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,150);
+      dude_caps_adjust(150);
    end
 //end killap's code
    Reply(237);
@@ -968,7 +968,7 @@ procedure Node041 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 2) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,500);
+      dude_caps_adjust(500);
    end
 //end killap's code
    Reply(247);
@@ -981,7 +981,7 @@ procedure Node042 begin
 //killap's code
    if (local_var(LVAR_Gave_Reward) == 2) then begin
       inc_local_var(LVAR_Gave_Reward);
-      item_caps_adjust(dude_obj,500);
+      dude_caps_adjust(500);
    end
 //end killap's code
    Reply(250);
@@ -1004,7 +1004,7 @@ end
 procedure Node044 begin
    if (local_var(LVAR_Gave_Reward) == 3) then begin   //killap's fix: changed to == 3 and not 0
        inc_local_var(LVAR_Gave_Reward);
-       item_caps_adjust(dude_obj,1000);
+       dude_caps_adjust(1000);
    end
 
    Reply(256);
@@ -1093,7 +1093,7 @@ end
 procedure Node054 begin
    if (local_var(LVAR_Gave_Reward) == 1) then begin	//added by killap
       inc_local_var(LVAR_Gave_Reward);			//added by killap
-      item_caps_adjust(dude_obj,300);
+      dude_caps_adjust(300);
    end
 
    Reply(287);

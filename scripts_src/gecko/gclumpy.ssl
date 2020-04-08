@@ -31,7 +31,7 @@
 
 #define NAME                    SCRIPT_GCLUMPY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 #define UNKNOWN     0
 #define HOUSE       1
 #define SHOP        2
@@ -144,8 +144,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    //added by killap
    if (not (is_loading_game)) then begin
@@ -178,12 +178,12 @@ procedure critter_p_proc begin
    if (night) then begin
       if (self_tile != HOME_TILE) then begin
          if (anim_busy(self_obj) == false) then begin
-            animate_move_to_tile(HOME_TILE);
+            self_walk_to_tile(HOME_TILE);
          end
       end else begin
          if (obj_get_rot(self_obj) != 2) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(2);
+            self_rotate(2);
          end
       end
    end else begin
@@ -192,29 +192,29 @@ procedure critter_p_proc begin
             //do nothing
             if (obj_get_rot(self_obj) != 2) then begin
                reg_anim_clear( self_obj );
-               animate_rotation(2);
+               self_rotate(2);
             end
          end else begin
             if ( (anim_busy(self_obj) == false) and (self_tile != local_var(LVAR_Destination)) and (local_var(LVAR_In_Transit) == 1) ) then begin
-               animate_move_to_tile(local_var(LVAR_Destination));
+               self_walk_to_tile(local_var(LVAR_Destination));
             end else begin
                if (random(1,2) == 1) then
                   set_local_var(LVAR_Destination,SHOP_TILE);
                else
                   set_local_var(LVAR_Destination,SHOP_TILE);
                set_local_var(LVAR_In_Transit,1);
-               animate_move_to_tile(local_var(LVAR_Destination));
+               self_walk_to_tile(local_var(LVAR_Destination));
             end
          end
       end
    end
    //end added
 
-   if ( ((global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO))) and (obj_can_see_obj(self_obj,dude_obj))) then begin //edit by killap - added (global_var(GVAR_ENEMY_GECKO))
+   if ( ((global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO))) and (self_can_see_dude)) then begin //edit by killap - added (global_var(GVAR_ENEMY_GECKO))
       set_local_var(LVAR_Hostile,1);
       attack(dude_obj);
    end
-   else if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -260,7 +260,7 @@ visit_14_before:=0; //reset aat the beginning of each conversation
        call Node998;
    end
 
-   else if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
+   else if ((dude_is_stupid)) then begin
       call Node001;
    end
 
@@ -316,7 +316,7 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure checkarea begin
-   here:=tile_num(self_obj);
+   here:=self_tile;
    area:=UNKNOWN;
 
    //modifed by killap
@@ -337,14 +337,14 @@ procedure Node910 begin
 end
 
 procedure Node920 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
       call Node019;
    else
       call Node020;
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -357,7 +357,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -382,7 +382,7 @@ procedure Node001 begin
    else if (k == 4) then floater(113);
    else if (k == 5) then floater(114);*/
 
-   float_msg(self_obj, message_str(NAME,random(110,114)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(110,114)),FLOAT_MSG_NORMAL); //edit by killap
 
 end
 

@@ -125,15 +125,15 @@ procedure map_enter_p_proc begin
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
    //edits by killap
    if (cur_map_index == MAP_NCR_DOWNTOWN) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
+      set_self_team(TEAM_NCR);
    else if (cur_map_index == MAP_NCR_BAZAAR) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_ENTRANCE);
+      set_self_team(TEAM_NCR_ENTRANCE);
    else if (cur_town == AREA_REDDING) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
+      set_self_team(TEAM_REDDING);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    //end edits
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_ai(AI_TOUGH_GUARD);
    if (is_loading_game == FALSE) then
       call checkLoadConditions;
 end
@@ -148,7 +148,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -304,7 +304,7 @@ procedure Node006 begin
       Reply(116);
    end
    set_cattle_drive(CATTLE_FINISHED);
-   item_caps_adjust(dude_obj, amount);
+   dude_caps_adjust(amount);
    ENDOPTION;
 end
 

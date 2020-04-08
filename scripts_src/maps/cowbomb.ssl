@@ -71,8 +71,8 @@ procedure LoadCritters begin
    numLoad := NUM_COWS - map_var(MVAR_Current_Cow_Bombs);
    while (numLoad > 0) do begin
       tile := tile_num_in_direction(LOAD_TILE, Random(0, 5), Random(1, 10));
-      obj := create_object_sid(COW_PID, tile, elevation(dude_obj), COW_SID);
-      critter_attempt_placement(obj, tile, elevation(dude_obj));
+      obj := create_object_sid(COW_PID, tile, dude_elevation, COW_SID);
+      critter_attempt_placement(obj, tile, dude_elevation);
 
       numLoad -= 1;
    end

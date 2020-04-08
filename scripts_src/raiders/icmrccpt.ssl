@@ -83,8 +83,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          inc_raiders_counter;
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RAIDERS);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_MERC_CAPTAIN);
+         set_self_team(TEAM_RAIDERS);
+         set_self_ai(AI_MERC_CAPTAIN);
       end
       raider_add_timer_event_rand(self_obj, 20, 35, float_param);
       check_kill_raider;

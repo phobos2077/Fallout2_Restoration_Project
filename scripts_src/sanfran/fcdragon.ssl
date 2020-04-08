@@ -208,8 +208,8 @@ procedure combat_p_proc begin
          cur := 0;
          ndebug("critter was dead..." + max + " cur: " + cur);
       end else begin
-         max := get_critter_stat(obj, STAT_max_hp);
-         cur := get_critter_stat(obj, STAT_current_hp);
+         max := get_max_hits(obj);
+         cur := get_cur_hits(obj);
          ndebug("critter wasn't dead... " + max + " cur: " + cur);
       end
 
@@ -243,14 +243,14 @@ end
 
 procedure push_p_proc begin
    script_overrides;
-   move_to(dude_obj, tile_num_in_direction(self_tile, rotation_to_tile(dude_tile, self_tile), 1), elevation(dude_obj));
+   move_to(dude_obj, tile_num_in_direction(self_tile, dude_rotation_to_self, 1), dude_elevation);
    display_msg(mstr(200));
 end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_ATTACK) then begin
       if (not combat_is_initialized) then begin
-         if (obj_can_see_obj(self_obj, dude_obj) and tile_distance_objs(self_obj, dude_obj) < ATTACK_DIST) then begin
+         if (self_can_see_dude and tile_distance_objs(self_obj, dude_obj) < ATTACK_DIST) then begin
             floater((202));
             set_local_var(LVAR_Hostile, 2);
          end
@@ -286,8 +286,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_SHI);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_THE_DRAGON);
+   set_self_team(TEAM_SAN_FRAN_SHI);
+   set_self_ai(AI_THE_DRAGON);
    if (not is_loading_game) then
       call CheckLoad;
 end
@@ -319,7 +319,7 @@ procedure critter_p_proc begin
    variable cur;
    //end added by killap
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -346,8 +346,8 @@ procedure critter_p_proc begin
          cur := 0;
          ndebug("critter was dead..." + max + " cur: " + cur);
       end else begin
-         max := get_critter_stat(obj, STAT_max_hp);
-         cur := get_critter_stat(obj, STAT_current_hp);
+         max := get_max_hits(obj);
+         cur := get_cur_hits(obj);
          ndebug("critter wasn't dead... " + max + " cur: " + cur);
       end
 
@@ -537,7 +537,7 @@ procedure destroy_p_proc begin
       fadeout(1);
       if (combat_is_initialized) then
          terminate_combat;
-      move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), elevation(dude_obj));
+      move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), dude_elevation);
       call ReturnInven;
       call removeVaultBoxerAppearance; //added by killap
       fadein(1);
@@ -918,7 +918,7 @@ end
 procedure HideObj begin
    if (local_var(LVAR_Test_Obj)) then begin
       if (not (is_critter_dead(local_var(LVAR_Test_Obj)))) then begin
-         set_obj_visibility(local_var(LVAR_Test_Obj), 1);
+         set_obj_invisible(local_var(LVAR_Test_Obj));
          move_to(local_var(LVAR_Test_Obj), self_tile, 2);
       end
    end
@@ -968,8 +968,8 @@ procedure DoTest begin
       if (local_var(LVAR_Test_Stage) < 6) then begin
          game_ui_disable;
          critter_heal(dude_obj, dude_max_hits - dude_cur_hits);
-         move_to(self_obj, TEST_POS_DRAGON_WATCH, elevation(self_obj));
-         move_to(dude_obj, TEST_POS_DUDE, elevation(dude_obj));
+         move_to(self_obj, TEST_POS_DRAGON_WATCH, self_elevation);
+         move_to(dude_obj, TEST_POS_DUDE, dude_elevation);
          if (local_var(LVAR_Test_Stage) == 0) then begin
             set_local_var(LVAR_Test_Obj, tile_contains_pid_obj(7635, 0, TEST_SHI_PID1));
             strnum := 206;
@@ -999,21 +999,21 @@ procedure DoTest begin
             move_to(local_var(LVAR_Test_Obj), TEST_POS_LOAD, 0);
          ndebug("uhh test obj set at: " + local_var(LVAR_Test_Obj));
 
-         critter_add_trait(local_var(LVAR_Test_Obj),TRAIT_OBJECT,OBJECT_AI_PACKET,AI_THE_DRAGON);
+         set_ai(local_var(LVAR_Test_Obj),AI_THE_DRAGON);
 
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_rotation(3);
+         self_rotate(3);
          reg_anim_end();
 
          reg_anim_clear(local_var(LVAR_Test_Obj));
          reg_anim_begin();
-         anim(local_var(LVAR_Test_Obj), ANIMATE_ROTATION, 4);
+         obj_rotate(local_var(LVAR_Test_Obj), 4);
          reg_anim_end();
 
          reg_anim_clear(dude_obj);
          reg_anim_begin();
-         anim(dude_obj, ANIMATE_ROTATION, 1);
+         dude_rotate(1);
          reg_anim_end();
 
          fadein(1);
@@ -1050,8 +1050,8 @@ procedure endTestFail begin
       call removeVaultBoxerAppearance; //added by killap - expansion
 
       set_local_var(LVAR_Test_Stage, 0);
-      move_to(self_obj, local_var(LVAR_Old_Self_Tile), elevation(self_obj));
-      move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), elevation(dude_obj));
+      move_to(self_obj, local_var(LVAR_Old_Self_Tile), self_elevation);
+      move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), dude_elevation);
       fadein(1);
       float_msg(self_obj, mstr(212), FLOAT_MSG_NORMAL);
    end else begin
@@ -1074,8 +1074,8 @@ procedure endTestPass begin
 
       set_local_var(LVAR_Test_Stage, 0);
       critter_heal(dude_obj, dude_max_hits - dude_cur_hits);
-      move_to(self_obj, local_var(LVAR_Old_Self_Tile), elevation(self_obj));
-      move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), elevation(dude_obj));
+      move_to(self_obj, local_var(LVAR_Old_Self_Tile), self_elevation);
+      move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), dude_elevation);
       set_local_var(LVAR_Beaten, 1);
 
       COMP_QUEST(0, 0, EXP_DRAGON_BEAT_TEST)
@@ -1104,11 +1104,11 @@ procedure DoChallenge begin
    fadeout(1);
    critter_heal(dude_obj, dude_max_hits - dude_cur_hits);
    critter_heal(self_obj, self_max_hits - self_cur_hits);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_LONER); //edit by killap - was TEAM_SAN_FRAN_SHI
+   set_self_team(TEAM_LONER); //edit by killap - was TEAM_SAN_FRAN_SHI
    //Change the team to make sure that the Guards don't attack you.
 
-   move_to(self_obj, TEST_POS_LOAD, elevation(self_obj));
-   move_to(dude_obj, TEST_POS_DUDE, elevation(dude_obj));
+   move_to(self_obj, TEST_POS_LOAD, self_elevation);
+   move_to(dude_obj, TEST_POS_DUDE, dude_elevation);
    fadein(1);
    float_msg(self_obj, mstr(213), FLOAT_MSG_NORMAL);
    add_timer_event(self_obj, game_ticks(3), TIMER_FIGHT);
@@ -1118,10 +1118,10 @@ procedure DoLearn begin
    game_ui_disable;
    fadeout(1);
    inven_unwield(dude_obj); //added by killap - expansion
-   move_to(self_obj, TEST_POS_LOAD, elevation(self_obj));
-   move_to(dude_obj, TEST_POS_DUDE, elevation(dude_obj));
-   animate_rotation(1);
-   anim(dude_obj, ANIMATE_ROTATION, 1);
+   move_to(self_obj, TEST_POS_LOAD, self_elevation);
+   move_to(dude_obj, TEST_POS_DUDE, dude_elevation);
+   self_rotate(1);
+   dude_rotate(1);
    fadein(1);
    float_msg(self_obj, mstr(217), FLOAT_MSG_NORMAL);
    add_timer_event(self_obj, game_ticks(3), TIMER_LEARN1);
@@ -1173,8 +1173,8 @@ procedure learn2 begin
    game_time_advance(ONE_GAME_HOUR * 4);
    game_ui_enable;
 
-   move_to(self_obj, local_var(LVAR_Old_Self_Tile), elevation(self_obj));
-   move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), elevation(dude_obj));
+   move_to(self_obj, local_var(LVAR_Old_Self_Tile), self_elevation);
+   move_to(dude_obj, local_var(LVAR_Old_Dude_Tile), dude_elevation);
    fadein(1);
    float_msg(self_obj, mstr(218), FLOAT_MSG_NORMAL);
    display_msg(mstr(219));
@@ -1182,7 +1182,7 @@ procedure learn2 begin
 end
 
 procedure ReturnInven begin
-   set_local_var(LVAR_Container_Obj, tile_contains_pid_obj(0, elevation(self_obj), PID_LOCKER_CLEAN_LEFT));
+   set_local_var(LVAR_Container_Obj, tile_contains_pid_obj(0, self_elevation, PID_LOCKER_CLEAN_LEFT));
    if (local_var(LVAR_Container_Obj)) then begin
       move_obj_inven_to_obj(local_var(LVAR_Container_Obj), dude_obj);
       destroy_object(local_var(LVAR_Container_Obj));
@@ -1192,7 +1192,7 @@ end
 
 procedure TakeInven begin
    if (local_var(LVAR_Container_Obj) == 0) then begin
-      set_local_var(LVAR_Container_Obj, create_object(PID_LOCKER_CLEAN_LEFT, 0, elevation(self_obj)));
+      set_local_var(LVAR_Container_Obj, create_object(PID_LOCKER_CLEAN_LEFT, 0, self_elevation));
       if (local_var(LVAR_Container_Obj)) then begin
          move_obj_inven_to_obj(dude_obj, local_var(LVAR_Container_Obj));
       end
@@ -1204,7 +1204,7 @@ procedure checkLoad begin
       if (self_tile != DRAGON_TILE) then begin
          move_to(self_obj, DRAGON_TILE, 0);
          reg_anim_begin();
-         animate_rotation(3);
+         self_rotate(3);
          reg_anim_end();
       end
    end

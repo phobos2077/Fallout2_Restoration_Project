@@ -89,8 +89,8 @@ procedure timed_event_p_proc begin
    if (fixed_param == TIMER_CREATE) then begin
        destroy_object(Projectile);
        if (PROJECTILE_CREATED != 0) then begin
-           Projectile:=create_object(PROJECTILE_CREATED,Final_Hex,elevation(self_obj));
-           anim(Projectile,ANIMATE_ROTATION,rotation_to_tile(INITIAL_TILE,Final_Hex));
+           Projectile:=create_object(PROJECTILE_CREATED,Final_Hex,self_elevation);
+           obj_rotate(Projectile,rotation_to_tile(INITIAL_TILE,Final_Hex));
        end
    end
 end
@@ -150,7 +150,7 @@ procedure use_obj_on_p_proc begin
          display_mstr(101);
 
          if (not stat_success(source_obj, STAT_lu, 0)) then begin
-            Projectile:=create_object(PID_FLYING_KNIFE, INITIAL_TILE, elevation(self_obj));
+            Projectile:=create_object(PID_FLYING_KNIFE, INITIAL_TILE, self_elevation);
             call CheckHit;
          end else begin
             display_mstr(102);
@@ -169,10 +169,10 @@ procedure checkHit begin
        else
            display_msg(obj_name(source_obj)+mstr(105));
 
-       Final_Hex:=tile_num_in_direction(tile_num(source_obj),rotation_to_tile(INITIAL_TILE,tile_num(source_obj)),3);
+       Final_Hex:=tile_num_in_direction(source_tile,rotation_to_tile(INITIAL_TILE,source_tile),3);
        call Missile_Fired;
    end else begin
-       Final_Hex:=tile_num(source_obj);
+       Final_Hex:=source_tile;
        call Missile_Fired;
        float_msg(dude_obj, mstr(103), FLOAT_MSG_RED);
        critter_dmg(source_obj,random(MIN_DMG,MAX_DMG),(DMG_BYPASS_ARMOR BWOR DMG_NOANIMATE));
@@ -188,8 +188,8 @@ procedure Missile_Fired begin
    while ((tile_num(Projectile) != Final_Hex) and (counter < 10000)) do begin
        if ((Counter % ROF) == 0) then begin
            Cur_Tile_Num:=tile_num_in_direction(tile_num(Projectile),rotation_to_tile(tile_num(Projectile),Final_Hex),1);
-           move_to(Projectile,Cur_Tile_Num,elevation(self_obj));
-           if (Final_Hex == tile_num(source_obj)) then begin
+           move_to(Projectile,Cur_Tile_Num,self_elevation);
+           if (Final_Hex == source_tile) then begin
                anim(source_obj,ANIM_hit_from_back,ANIMATE_FORWARD);
            end
            else begin

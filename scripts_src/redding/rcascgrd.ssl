@@ -89,8 +89,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_TOUGH_GUARD);
 
    rm_fixed_timer_event(self_obj, 3);
    add_timer_event(self_obj,game_ticks(random(20,40)),3);
@@ -106,27 +106,27 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj)) and (not(critter_is_fleeing(self_obj)))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude) and (not(critter_is_fleeing(self_obj)))) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
-   else if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj)) and (not(critter_is_fleeing(self_obj)))) then begin
+   else if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude) and (not(critter_is_fleeing(self_obj)))) then begin
        floater(random(123,132));
        attack(dude_obj);
    end
 
-   else if ((obj_can_see_obj(self_obj,dude_obj)) and (dude_is_armed) and (local_var(LVAR_Weapon_Warning) == 0)) then begin
+   else if ((self_can_see_dude) and (dude_is_armed) and (local_var(LVAR_Weapon_Warning) == 0)) then begin
        set_local_var(LVAR_Weapon_Warning,1);
        floater(random(143,152));
        add_timer_event(self_obj,game_ticks(20),1);
    end
 
-   else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Attecked_Cashier) == 1) and (not(critter_is_fleeing(self_obj)))) then begin
+   else if ((self_can_see_dude) and (map_var(MVAR_Attecked_Cashier) == 1) and (not(critter_is_fleeing(self_obj)))) then begin
        floater(random(103,112));
    end
 
-   else if ((obj_can_see_obj(self_obj,dude_obj)) and (map_var(MVAR_Using_Locked_Door) == 1)) then begin
+   else if ((self_can_see_dude) and (map_var(MVAR_Using_Locked_Door) == 1)) then begin
        set_map_var(MVAR_Using_Locked_Door,2);
        floater(random(183,192));
    end
@@ -136,7 +136,7 @@ procedure critter_p_proc begin
        add_timer_event(self_obj,game_ticks(5),4);
    end
 
-   else if ((map_var(MVAR_Using_Locked_Door) == 3) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if ((map_var(MVAR_Using_Locked_Door) == 3) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Door_Warning,3);
        floater(random(133,142));
        set_map_var(MVAR_Using_Locked_Door,4);
@@ -147,7 +147,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       if ((obj_can_see_obj(self_obj,dude_obj)) and (dude_is_armed)) then begin
+       if ((self_can_see_dude) and (dude_is_armed)) then begin
            floater(random(143,152));
            add_timer_event(self_obj,game_ticks(20),2);
        end
@@ -156,7 +156,7 @@ procedure timed_event_p_proc begin
    end
 
    else if (fixed_param == 2) then begin
-       if ((obj_can_see_obj(self_obj,dude_obj)) and (dude_is_armed)) then begin
+       if ((self_can_see_dude) and (dude_is_armed)) then begin
            floater(random(133,142));
            attack(dude_obj);
        end

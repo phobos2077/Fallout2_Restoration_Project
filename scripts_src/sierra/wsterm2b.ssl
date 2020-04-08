@@ -141,7 +141,7 @@ procedure use_p_proc begin
 
    if (local_var(LVAR_Comp_Off) == 1) then
        display_msg(mstr(200));
-   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   else if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then
            // display_msg(message_str(SCRIPT_WSTERM1B,102)); // Disabled by Seraph
            display_mstr(102); // Seraph's Code
@@ -272,9 +272,9 @@ end
 procedure Node011 begin // Shock Plates on (Fail Hacking)
    variable floor_ptr;
 
-   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-       set_obj_visibility(floor_ptr,0);
+   if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+       set_obj_visible(floor_ptr);
    end
 
    set_map_var(MVAR_Electric_Floor_2,0);
@@ -405,9 +405,9 @@ end
 procedure Node019 begin // Shock Plates off (Virus)
    variable floor_ptr;
 
-   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-       set_obj_visibility(floor_ptr,1);
+   if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+       set_obj_invisible(floor_ptr);
    end
 
    //added by killap - disable forcefield as well (makes sense since computer controlling them is gone
@@ -439,9 +439,9 @@ end
 procedure Node012 begin // Shock Plates off (Success Hacking)
    variable floor_ptr;
 
-   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-       set_obj_visibility(floor_ptr,1);
+   if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+       set_obj_invisible(floor_ptr);
    end
 
    set_map_var(MVAR_Electric_Floor_2,1);
@@ -449,7 +449,7 @@ procedure Node012 begin // Shock Plates off (Success Hacking)
    if (local_var(LVAR_Gave_Xp_Shock) == 0) then begin
        inc_local_var(LVAR_Gave_Xp_Shock);
 // Begin Seraph's Code
-       display_msg(message_str(SCRIPT_GENERIC,1019));
+       display_msg(g_mstr(1019));
 // End Seraph's Code
        give_xp(EXP_HACK_SIERRA_COMP_2B_SHOCK);
    end
@@ -463,9 +463,9 @@ end
 procedure Node021 begin // Shock Plates off (Success Guessing)
    variable floor_ptr;
 
-   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-       set_obj_visibility(floor_ptr,1);
+   if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+       set_obj_invisible(floor_ptr);
    end
 
    set_map_var(MVAR_Electric_Floor_2,1);
@@ -479,9 +479,9 @@ end
 procedure Node022 begin // Shock Plates on (Fail Guessing)
    variable floor_ptr;
 
-   if (tile_contains_obj_pid(25299,elevation(self_obj),PID_ELECTRIC_FLOOR)) then begin
-       floor_ptr:=tile_contains_pid_obj(25299,elevation(self_obj),PID_ELECTRIC_FLOOR);
-       set_obj_visibility(floor_ptr,0);
+   if (tile_contains_obj_pid(25299,self_elevation,PID_ELECTRIC_FLOOR)) then begin
+       floor_ptr:=tile_contains_pid_obj(25299,self_elevation,PID_ELECTRIC_FLOOR);
+       set_obj_visible(floor_ptr);
    end
 
    set_map_var(MVAR_Electric_Floor_2,0);
@@ -551,10 +551,10 @@ end
    set_map_var(MVAR_Field_2c,0);
    set_map_var(MVAR_Field_2d,0);
 
-   Field2a_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2a),elevation(self_obj),SCRIPT_WSFELD2A);
-   Field2b_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2b),elevation(self_obj),SCRIPT_WSFELD2B);
-   Field2c_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2c),elevation(self_obj),SCRIPT_WSFELD2C);
-   Field2d_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2d),elevation(self_obj),SCRIPT_WSFELD2D);
+   Field2a_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2a),self_elevation,SCRIPT_WSFELD2A);
+   Field2b_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2b),self_elevation,SCRIPT_WSFELD2B);
+   Field2c_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2c),self_elevation,SCRIPT_WSFELD2C);
+   Field2d_Ptr:=create_object_sid(PID_NS_FORCE_FIELD,local_var(LVAR_Hex_Field2d),self_elevation,SCRIPT_WSFELD2D);
 
    Reply(162);
 

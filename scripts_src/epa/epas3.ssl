@@ -29,7 +29,7 @@ end
 procedure spatial_p_proc
 begin
   if (global_var(GVAR_ELECTRIC_CHAIR) == 1) then
-    critter_dmg(source_obj, random(450, 550), 4);
+    critter_dmg(source_obj, random(450, 550), DMG_electrical);
 end
 
 procedure map_enter_p_proc

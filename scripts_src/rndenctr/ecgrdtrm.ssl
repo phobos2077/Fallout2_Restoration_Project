@@ -53,7 +53,7 @@ procedure timed_event_p_proc begin
       gfade_out(600);
       move_to( dude_obj, 18095, 0 );
       critter_attempt_placement( dude_obj, 18095, 0 );
-      anim( dude_obj, ANIMATE_ROTATION, 5 );
+      dude_rotate( 5);
       gfade_in(600);
    end
 end

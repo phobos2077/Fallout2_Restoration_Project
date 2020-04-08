@@ -36,9 +36,9 @@ begin
     add_timer_event(self_obj, game_ticks(5), 1);
   else if( cur_map_index == MAP_EPA_SUBLEVELS_1 or cur_map_index == MAP_EPA_SUBLEVELS_2) then
   begin
-    if (elevation(self_obj) == 0) then
+    if (self_elevation == 0) then
       add_timer_event(self_obj, game_ticks(5), 5);
-    else if (elevation(self_obj) == 2) then
+    else if (self_elevation == 2) then
       add_timer_event(self_obj, game_ticks(5), 9);
   end
 end
@@ -82,9 +82,9 @@ begin
     add_timer_event(self_obj, game_ticks(5), 1);
   else if( cur_map_index == MAP_EPA_SUBLEVELS_1 or cur_map_index == MAP_EPA_SUBLEVELS_2) then
   begin
-    if (elevation(self_obj) == 0) then
+    if (self_elevation == 0) then
       add_timer_event(self_obj, game_ticks(5), 5);
-    else if (elevation(self_obj) == 2) then
+    else if (self_elevation == 2) then
       add_timer_event(self_obj, game_ticks(5), 9);
   end
 
@@ -106,7 +106,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 16083, 0);
+      self_walk_to_tile(16083);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 2);
@@ -117,7 +117,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 16132, 0);
+      self_walk_to_tile(16132);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 3);
@@ -128,7 +128,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 20933, 0);
+      self_walk_to_tile(20933);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 4);
@@ -139,7 +139,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 20683, 0);
+      self_walk_to_tile(20683);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 1);
@@ -150,7 +150,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 16066, 0);
+      self_walk_to_tile(16066);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 6);
@@ -161,7 +161,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 18479, 0);
+      self_walk_to_tile(18479);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 7);
@@ -172,7 +172,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 26682, 0);
+      self_walk_to_tile(26682);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 8);
@@ -183,7 +183,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 26067, 0);
+      self_walk_to_tile(26067);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 5);
@@ -194,7 +194,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 22515, 0);
+      self_walk_to_tile(22515);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 10);
@@ -205,7 +205,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 18714, 0);
+      self_walk_to_tile(18714);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 11);
@@ -216,7 +216,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 19126, 0);
+      self_walk_to_tile(19126);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 12);
@@ -227,7 +227,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 22126, 0);
+      self_walk_to_tile(22126);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 13);
@@ -238,7 +238,7 @@ begin
     begin
       reg_anim_clear( self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, 22298, 0);
+      self_walk_to_tile(22298);
       reg_anim_end();
     end
     add_timer_event(self_obj, game_ticks(20), 9);

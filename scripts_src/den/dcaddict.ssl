@@ -63,12 +63,12 @@ procedure Node005;
 #define crazy                             lvar_bit(LVAR_Flags, crazy_bit)
 #define set_crazy                         set_lvar_bit_on(LVAR_Flags, crazy_bit);                                             \
                                           off_said_crazy_rant;                                                                \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_DEN_CRAZY_ADDICT);    \
+                                          set_self_team(TEAM_DEN_CRAZY_ADDICT);    \
                                           set_crazy_addict
 #define off_crazy                         if (crazy) then begin                                                               \
                                              off_crazy_addict;                                                                \
                                           end                                                                                 \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_ADDICT);           \
+                                          set_self_team(TEAM_DEN_ADDICT);           \
                                           set_lvar_bit_off(LVAR_Flags, crazy_bit)
 
 #define STATUS_LOW                        (0)
@@ -94,9 +94,9 @@ procedure Node005;
                                              end                                                                     \
                                           end                                                                        \
                                           if (crazy) then begin                                                      \
-                                             critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CRAZY_ADDICT);    \
+                                             set_self_ai(AI_CRAZY_ADDICT);    \
                                           end else begin                                                                   \
-                                             critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT_WIMPY);    \
+                                             set_self_ai(AI_ADDICT_WIMPY);    \
                                           end                                                                              \
                                           flush_add_timer_event_sec(self_obj, random(900, 3600), timed_event_get_high)
 #define set_random_status                 set_local_var(LVAR_HIGH_STATUS, random(STATUS_LOW, STATUS_HEAVY));               \
@@ -152,17 +152,17 @@ variable the_temp;
                   the_temp := tile_num_in_direction(self_tile, random(0, 5), random(5, 15));
                end
                if (check_status(STATUS_HEAVY)) then begin
-                  animate_run_to_tile(the_temp);
+                  self_run_to_tile(the_temp);
                end else begin
-                  animate_move_to_tile(the_temp);
+                  self_walk_to_tile(the_temp);
                end
             end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-               animate_move_to_tile(local_var(LVAR_Home_Tile));
+               self_walk_to_tile(local_var(LVAR_Home_Tile));
             end else begin
                if (random(1,5) == 1) then begin
-                  animate_move_to_tile(tile_num_in_direction(self_tile, random(0,5), random(4, 7)));
+                  self_walk_to_tile(tile_num_in_direction(self_tile, random(0,5), random(4, 7)));
                end else begin
-                  animate_move_to_tile(tile_num_in_direction(self_tile, self_inv_rot, random(4, 7)));
+                  self_walk_to_tile(tile_num_in_direction(self_tile, self_inv_rot, random(4, 7)));
                end
             end
          end
@@ -182,7 +182,7 @@ procedure map_enter_p_proc begin
    end
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_ADDICT);
+         set_self_team(TEAM_DEN_ADDICT);
       end
       set_random_status;
       if ((random(1,3) == 1) and (crazy == false)) then begin
@@ -277,7 +277,7 @@ procedure Node001 begin
 end
 procedure Node002 begin
    if (heavy_high) then begin
-      floater_rand(201 - ( (check_general_rep < 0) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ), 212 + ( (check_general_rep > 0) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) ); //edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      floater_rand(201 - ( (check_general_rep < 0) and (not(dude_perk(PERK_cult_of_personality))) ), 212 + ( (check_general_rep > 0) or (dude_perk(PERK_cult_of_personality)) ) ); //edit by killap - added (dude_perk(PERK_cult_of_personality))
    end else if (light_high) then begin
       floater_rand(215 - dude_is_male, 221);
    end else if (light_withdrawal) then begin

@@ -101,10 +101,10 @@ procedure use_obj_on_p_proc begin
 
    Tool:=obj_pid(obj_being_used_with);
 
-   if ((Tool == PID_MULTI_TOOL) and (obj_is_carrying_obj_pid(dude_obj,PID_MOTOR))) then begin
+   if ((Tool == PID_MULTI_TOOL) and (dude_item_count(PID_MOTOR))) then begin
       script_overrides;
       Skill:=roll_vs_skill(source_obj,SKILL_REPAIR,-20);
-   end else if ((Tool == PID_SUPER_TOOL_KIT) and (obj_is_carrying_obj_pid(dude_obj,PID_MOTOR))) then begin
+   end else if ((Tool == PID_SUPER_TOOL_KIT) and (dude_item_count(PID_MOTOR))) then begin
       script_overrides;
       Skill:=roll_vs_skill(source_obj,SKILL_REPAIR,-10);
    end else if (Tool == PID_MOTOR) then begin
@@ -112,14 +112,14 @@ procedure use_obj_on_p_proc begin
       display_msg(mstr(103));
    end
 
-   if ((global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) and (obj_is_carrying_obj_pid(dude_obj,PID_MOTOR))) then begin
+   if ((global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) and (dude_item_count(PID_MOTOR))) then begin
          script_overrides;
          if (is_success(Skill)) then begin
             display_msg(mstr(104));
             set_global_var(GVAR_ABBEY_PUMP,PUMP_FIXED);
             give_xp(800);
             inc_global_var_amt(GVAR_TOWN_REP_ABBEY,5);
-            item:=obj_carrying_pid_obj(dude_obj,PID_MOTOR);
+            item:=dude_item(PID_MOTOR);
             rm_obj_from_inven(dude_obj,item);
             destroy_object(item);
          end else begin

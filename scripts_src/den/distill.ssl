@@ -64,9 +64,9 @@ procedure map_enter_p_proc begin
    //end added by killap
 
    if (still_broken) then begin
-      animate_set_frame(1);
+      self_set_frame(1);
    end else begin
-      animate_set_frame(0);
+      self_set_frame(0);
    end
 end
 
@@ -79,7 +79,7 @@ procedure damage_p_proc begin
          set_player_has_destroyed_still;
          set_still_broken;
          display_mstr(103); //killap's fix: was 102
-         animate_set_frame(1);
+         self_set_frame(1);
          set_local_var(LVAR_Becky_Repair_Still_Time, game_time + (ONE_GAME_DAY * (random(3, 7)))); //added by killap
       gfade_in(ONE_GAME_SECOND);
    end
@@ -98,7 +98,7 @@ procedure use_obj_on_p_proc begin
          set_player_has_destroyed_still;
          set_still_broken;
          display_mstr(103); //killap's fix: was 102
-         animate_set_frame(1);
+         self_set_frame(1);
          set_local_var(LVAR_Becky_Repair_Still_Time, game_time + (ONE_GAME_DAY * (random(3, 7)))); //added by killap
       gfade_in(ONE_GAME_SECOND);
    end

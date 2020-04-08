@@ -165,8 +165,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_SHI);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET, AI_SF_SHI);
+   set_self_team(TEAM_SAN_FRAN_SHI);
+   set_self_ai(AI_SF_SHI);
 
    if (not is_loading_game) then begin
       if (game_time > local_var(LVAR_Restock_Money)) then begin
@@ -197,7 +197,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -206,7 +206,7 @@ procedure critter_p_proc begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(HOME_TILE);
+         self_walk_to_tile(HOME_TILE);
          reg_anim_end();
       end
    end
@@ -535,7 +535,7 @@ end
 procedure Node025 begin
    Reply(230);
 
-   if (has_skill(dude_obj, SKILL_CONVERSANT) > 90) then
+   if (has_skill(dude_obj, SKILL_SPEECH) > 90) then
       NOption(231, Node026, 4);
    NOption(232, Node027, 4);
    if (dude_is_female) then
@@ -563,14 +563,14 @@ procedure Node028 begin
 end
 
 procedure Node052 begin
-   item_caps_adjust(dude_obj, -2000);
+   dude_caps_adjust(-2000);
 
    Reply(270);
    NOption(271, Node042, 4);
 end
 
 procedure Node029 begin
-   item_caps_adjust(dude_obj, -1500);
+   dude_caps_adjust(-1500);
 
    Reply(285);
    NOption(286, Node030, 4);
@@ -679,7 +679,7 @@ procedure Node047 begin
 end
 
 procedure Node048 begin
-   item_caps_adjust(dude_obj, -10000);
+   dude_caps_adjust(-10000);
 
    Reply(460);
    NOption(461, Node999, 4);
@@ -689,7 +689,7 @@ procedure Node048 begin
 end
 
 procedure Node049 begin
-   item_caps_adjust(dude_obj, -5000);
+   dude_caps_adjust(-5000);
 
    Reply(470);
    NOption(471, Node999, 4);
@@ -718,7 +718,7 @@ procedure Node900 begin
 end
 
 procedure Node901 begin
-   if( ( has_trait( TRAIT_TRAIT, dude_obj, TRAIT_sex_appeal ) ) or (dude_charisma >= 7) ) then
+   if( ( dude_trait( TRAIT_sex_appeal) ) or (dude_charisma >= 7) ) then
       call Node032;
    else
       call Node035;

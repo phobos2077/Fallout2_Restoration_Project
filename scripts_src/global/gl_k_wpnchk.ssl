@@ -2,6 +2,7 @@
 #include "../headers/define.h"
 #include "../sfall/sfall.h"
 #include "../headers/maps.h"
+#include "../headers/command.h"
 
 procedure start;
 
@@ -35,7 +36,7 @@ procedure test_scorcher begin
             )
             or
             (       cur_map_index == MAP_EPA
-               and ((elevation(dude_obj) != 1) or (elevation(dude_obj) != 2))
+               and ((dude_elevation != 1) or (dude_elevation != 2))
             )
          )
       then begin

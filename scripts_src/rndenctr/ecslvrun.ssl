@@ -16,5 +16,5 @@ procedure start;
 #include "../headers/command.h"
 
 procedure start begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SLAVE_RUN);
+   set_self_team(TEAM_RND_SLAVE_RUN);
 end

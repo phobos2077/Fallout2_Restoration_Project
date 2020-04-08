@@ -155,9 +155,9 @@ procedure check_tile_events(variable curr_timer) begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
 #ifdef WAYPNT_RUN
-               animate_run_to_tile(target_tile);
+               self_run_to_tile(target_tile);
 #else
-               animate_move_to_tile(target_tile);
+               self_walk_to_tile(target_tile);
 #endif
                reg_anim_end();
             end
@@ -169,7 +169,7 @@ procedure check_tile_events(variable curr_timer) begin
 end
 
 procedure tvar_Warp_To_Pos(variable tileNum, variable nextTime) begin
-   move_to(self_obj, getTile(tileNum), elevation(self_obj));
+   move_to(self_obj, getTile(tileNum), self_elevation);
    tileNum += 1;
    if (tileNum >= numTvars) then tileNum := 0;
    target_tile := getTile(tileNum);

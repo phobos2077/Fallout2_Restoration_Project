@@ -96,8 +96,8 @@ procedure map_enter_p_proc begin
    flick_obj := self_obj;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_LONER_CITIZEN);
+         set_self_team(TEAM_THE_DEN);
+         set_self_ai(AI_LONER_CITIZEN);
       end
    end
 end

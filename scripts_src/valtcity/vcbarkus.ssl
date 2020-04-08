@@ -162,8 +162,8 @@ procedure map_enter_p_proc begin
    From_26:=0;
    Slave_To_Sell:=0;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 700 ) and ( game_time_hour < 1800 ) ) then begin
@@ -190,7 +190,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -496,7 +496,7 @@ end
 procedure Node015 begin
    Reply(174);
 
-   if( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) then
+   if( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) then
       NOption(175, Node016, 004);
    NOption(176, Node019, 004);
    NOption(177, Node003, 004);
@@ -537,29 +537,29 @@ procedure Node019 begin
 
    From_19 := 1;
 
-   if( item_caps_total(dude_obj) >= 1000 ) then
+   if( dude_caps >= 1000) then
       NOption(193, Node019a, 004);
-   if( item_caps_total(dude_obj) >= 750 ) then
+   if( dude_caps >= 750) then
       NOption(194, Node019b, 004);
-   if( item_caps_total(dude_obj) >= 500 ) then
+   if( dude_caps >= 500) then
       NOption(195, Node019c, 004);
-   if( item_caps_total(dude_obj) >= 250 ) then
+   if( dude_caps >= 250) then
       NOption(196, Node019d, 004);
    NOption(197, Node003, 004);
-   if( item_caps_total(dude_obj) >= 250 ) then
+   if( dude_caps >= 250) then
       NOption(198, Node999, 004);
    else
       NOption(199, Node999, 004);
 end
 
 procedure Node019a begin
-   item_caps_adjust( dude_obj, -1000 );
+   dude_caps_adjust( -1000);
    call Node020;
 end
 
 procedure Node019b begin
    if( has_skill(dude_obj,SKILL_BARTER) >= 25 ) then begin
-      item_caps_adjust( dude_obj, -750 );
+      dude_caps_adjust( -750);
       call Node020;
    end
    else
@@ -568,7 +568,7 @@ end
 
 procedure Node019c begin
    if( has_skill(dude_obj,SKILL_BARTER) >= 75 ) then begin
-      item_caps_adjust( dude_obj, -500 );
+      dude_caps_adjust( -500);
       call Node020;
    end
    else
@@ -577,7 +577,7 @@ end
 
 procedure Node019d begin
    if( has_skill(dude_obj,SKILL_BARTER) >= 95 ) then begin
-      item_caps_adjust( dude_obj, -250 );
+      dude_caps_adjust( -250);
       call Node020;
    end
    else
@@ -626,14 +626,14 @@ procedure Node022 begin
    Reply(206);
 
    NOption(207, Node018, 004);
-   if( has_skill( dude_obj, SKILL_CONVERSANT ) >= 50 ) then
+   if( has_skill( dude_obj, SKILL_SPEECH ) >= 50 ) then
       NOption(mstr(208) + dude_name + mstr(209), Node022a, 004);
    if( has_skill(dude_obj, SKILL_DOCTOR) >= 75 ) then
       NOption(mstr(210) + dude_name + mstr(211), Node025, 004);
 end
 
 procedure Node022a begin
-   if( has_skill( dude_obj, SKILL_CONVERSANT ) >= 80 ) then
+   if( has_skill( dude_obj, SKILL_SPEECH ) >= 80 ) then
       call Node024;
    else
       call Node023;
@@ -758,7 +758,7 @@ procedure Node028b begin
     inc_general_rep(REP_BONUS_VAULT_SOLD_COMPANION);
 //   end
 
-   item_caps_adjust( dude_obj, local_var(LVAR_Slave_Cost) );
+   dude_caps_adjust( local_var(LVAR_Slave_Cost));
 
    call Node031;
 end

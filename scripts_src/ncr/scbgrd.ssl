@@ -93,8 +93,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_ENTRANCE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR_ENTRANCE);
+   set_self_ai(AI_TOUGH_GUARD);
 
    if (not local_var(LVAR_Starttile)) then begin
       set_local_var(LVAR_Starttile, self_tile);
@@ -111,7 +111,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -121,7 +121,7 @@ procedure critter_p_proc begin
       if (self_tile != local_var(LVAR_Starttile) and not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(local_var(LVAR_Starttile));
+         self_walk_to_tile(local_var(LVAR_Starttile));
          reg_anim_end();
       end
   end

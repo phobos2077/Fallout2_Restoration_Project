@@ -119,10 +119,10 @@ procedure map_enter_p_proc begin
       Nixon_Floats := 0;
       Help_Floats := 0;
 
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
+      set_self_team(TEAM_VAULT_CITIZENS);
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
       // Tough kid. He throws rocks.
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_GUARD);
+      set_self_ai(AI_VAULT_GUARD);
       add_timer_event(self_obj, game_ticks( random(20, 30) ), 1);
    end
 end
@@ -154,7 +154,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -206,7 +206,7 @@ procedure talk_p_proc begin
       call Node007;
    else if( Cyberdog_Ptr != 0 ) then
       call Node009;
-   else if( ( local_var( LVAR_Nixon_Quest ) == NIXON_ASSIGNED ) and ( obj_is_carrying_obj_pid( dude_obj, PID_MR_NIXON_DOLL ) > 0 ) ) then begin
+   else if( ( local_var( LVAR_Nixon_Quest ) == NIXON_ASSIGNED ) and ( dude_item_count( PID_MR_NIXON_DOLL) > 0) ) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node010;
@@ -342,7 +342,7 @@ end
 procedure Node011 begin
    variable toy;
 
-   toy := obj_carrying_pid_obj( dude_obj, PID_MR_NIXON_DOLL );
+   toy := dude_item( PID_MR_NIXON_DOLL);
    rm_obj_from_inven( dude_obj, toy );
    add_obj_to_inven( self_obj, toy );
 
@@ -361,7 +361,7 @@ end
 procedure Node012 begin
    variable toy;
 
-   toy := obj_carrying_pid_obj( dude_obj, PID_MR_NIXON_DOLL );
+   toy := dude_item( PID_MR_NIXON_DOLL);
    rm_obj_from_inven( dude_obj, toy );
    destroy_object( toy );
 

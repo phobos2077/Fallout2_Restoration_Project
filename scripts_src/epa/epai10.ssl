@@ -43,7 +43,7 @@ begin
   else if (global_var(GVAR_EPA_RANDOMDRUGS) == 3) then
     call radiate_p_proc;
 
-    item:=obj_carrying_pid_obj(dude_obj,PID_RANDOM_CHEMICALS);
+    item:=dude_item(PID_RANDOM_CHEMICALS);
     rm_obj_from_inven(dude_obj,item);
 
 end

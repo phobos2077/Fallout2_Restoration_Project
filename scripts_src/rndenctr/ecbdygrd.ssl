@@ -166,7 +166,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -275,7 +275,7 @@ procedure doSequence begin
          game_ui_disable;
          reg_anim_clear(dude_obj);
          reg_anim_begin();
-         animate_move_obj_to_tile(dude_obj, DUDE_WATCH_TILE, ANIMATE_RUN);
+         dude_run_to_tile(DUDE_WATCH_TILE);
          reg_anim_end();
       end else begin
          if (not anim_busy(dude_obj)) then begin
@@ -306,7 +306,7 @@ procedure doSequence begin
       sequence += 1;
       add_timer_event(self_obj, game_ticks(1), TIMER_SEQUENCE);
    end else if (sequence == 7) then begin
-      sound := sfx_build_weapon_name(snd_weapon_attack, obj_carrying_pid_obj(guard1, PID_VINDICATOR_MINIGUN), hit_left_weapon_primary, self_obj);
+      sound := sfx_build_weapon_name(snd_weapon_attack, get_item(guard1, PID_VINDICATOR_MINIGUN), hit_left_weapon_primary, self_obj);
       reg_anim_clear(guard1);
       reg_anim_begin();
       reg_anim_animate(guard1, ANIM_fire_burst, -1);
@@ -348,7 +348,7 @@ procedure doSequence begin
 
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_rotation(rotation_to_tile(self_tile, dude_tile));
+      self_look_at_dude;
       reg_anim_end();
       float_msg(self_obj, mstr(108), FLOAT_MSG_NORMAL);
       sequence += 1;
@@ -356,7 +356,7 @@ procedure doSequence begin
    end else if (sequence == 9) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_obj_to_tile(self_obj, BODYLEAVETILE, ANIMATE_WALK);
+      self_walk_to_tile(BODYLEAVETILE);
       reg_anim_end();
       sequence += 1;
       add_timer_event(self_obj, game_ticks(2), TIMER_SEQUENCE);
@@ -374,7 +374,7 @@ procedure doSequence begin
       add_timer_event(self_obj, game_ticks(4), TIMER_SEQUENCE);
    end else if (sequence == 11) then begin
       if (self_tile == BODYLEAVETILE and tile_num(guard1) == GUARD1LEAVETILE and tile_num(guard2) == GUARD2LEAVETILE) then begin
-         set_obj_visibility(self_obj, 1);
+         set_self_invisible;
          destroy_object(guard1);
          destroy_object(guard2);
          sequence += 1;

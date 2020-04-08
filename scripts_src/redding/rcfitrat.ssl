@@ -28,7 +28,7 @@
 #define sequence(who)           get_critter_stat(who,STAT_sequence)
 #define armour(who)             get_critter_stat(who,STAT_ac)
 #define max_ap(who)             get_critter_stat(who,STAT_max_move_points)
-#define max_hp(who)             get_critter_stat(who,STAT_max_hp)
+#define max_hp(who)             get_max_hits(who)
 #define roll_to_hit(who1,who2)  roll_vs_skill(who1,SKILL_UNARMED_COMBAT,-armour(who2))
 
 // Fixed Params for Timed_Event
@@ -88,8 +88,8 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_LONER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_RAT);
+   set_self_team(TEAM_LONER);
+   set_self_ai(AI_GENERIC_RAT);
 
    if (local_var(LVAR_Setup_Info) == 0) then begin
        set_local_var(LVAR_Setup_Info,1);
@@ -180,20 +180,20 @@ end
 
 procedure Find_Rat_Num begin
 
-   if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_1) then
+   if (self_pid == PID_FIGHTING_MOLERAT_1) then
        set_local_var(LVAR_Rat_Number,1);
-   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_2) then
+   else if (self_pid == PID_FIGHTING_MOLERAT_2) then
        set_local_var(LVAR_Rat_Number,2);
-   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_3) then
+   else if (self_pid == PID_FIGHTING_MOLERAT_3) then
        set_local_var(LVAR_Rat_Number,3);
-   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_4) then
+   else if (self_pid == PID_FIGHTING_MOLERAT_4) then
        set_local_var(LVAR_Rat_Number,4);
-   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_5) then
+   else if (self_pid == PID_FIGHTING_MOLERAT_5) then
        set_local_var(LVAR_Rat_Number,5);
-   else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_6) then
+   else if (self_pid == PID_FIGHTING_MOLERAT_6) then
        set_local_var(LVAR_Rat_Number,6);
    else
-       ndebug("Prototype "+obj_pid(self_obj)+" is trying to use RCFitRat script.");
+       ndebug("Prototype "+self_pid+" is trying to use RCFitRat script.");
 
 end
 
@@ -386,7 +386,7 @@ procedure Fighter_Sequence(variable Combat1, variable Combat2) begin
            else if (local_var(Combat1_LVAR) >= AP_COST_ATTACK) then begin
                ndebug("Attempting to Hit. "+Combat1_LVAR);
                Roll:=roll_to_hit(Combat1,Combat2);
-               anim(Combat1, ANIMATE_ROTATION,rotation_to_tile(tile_num(Combat1),tile_num(Combat2)));
+               obj_rotate(Combat1,rotation_to_tile(tile_num(Combat1),tile_num(Combat2)));
                reg_anim_animate(Combat1,ANIM_throw_punch,-1);
                set_local_var(Combat1_LVAR,local_var(Combat1_LVAR)-AP_COST_ATTACK);
                if (is_success(Roll)) then begin
@@ -422,7 +422,7 @@ procedure Fighter_Sequence(variable Combat1, variable Combat2) begin
            else begin
                ndebug("Moving Around. "+Combat1_LVAR);
                Closest_Tile:=tile_num_in_direction(tile_num(Combat1),random(0,5),local_var(Combat1_LVAR));
-               animate_move_obj_to_tile(Combat1,Closest_Tile,0);
+               animate_move_obj_to_tile(Combat1,Closest_Tile,ANIMATE_WALK);
                set_local_var(Combat1_LVAR,0);
            end
        end
@@ -455,54 +455,54 @@ procedure End_Fight(variable Combatant) begin
 
    if (Combatant == self_obj) then begin
        if (map_var(MVAR_Rat_Fighter1) == local_var(LVAR_Rat_Number)) then begin
-           if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_1) then begin
+           if (self_pid == PID_FIGHTING_MOLERAT_1) then begin
                Molerat_Ptr1:=0;
                set_map_var(MVAR_Rat_Fighter1,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_2) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_2) then begin
                Molerat_Ptr2:=0;
                set_map_var(MVAR_Rat_Fighter1,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_3) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_3) then begin
                Molerat_Ptr3:=0;
                set_map_var(MVAR_Rat_Fighter1,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_4) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_4) then begin
                Molerat_Ptr4:=0;
                set_map_var(MVAR_Rat_Fighter1,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_5) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_5) then begin
                Molerat_Ptr5:=0;
                set_map_var(MVAR_Rat_Fighter1,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_6) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_6) then begin
                Molerat_Ptr6:=0;
                set_map_var(MVAR_Rat_Fighter1,0);
            end
        end
 
        else begin
-           if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_1) then begin
+           if (self_pid == PID_FIGHTING_MOLERAT_1) then begin
                Molerat_Ptr1:=0;
                set_map_var(MVAR_Rat_Fighter2,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_2) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_2) then begin
                Molerat_Ptr2:=0;
                set_map_var(MVAR_Rat_Fighter2,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_3) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_3) then begin
                Molerat_Ptr3:=0;
                set_map_var(MVAR_Rat_Fighter2,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_4) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_4) then begin
                Molerat_Ptr4:=0;
                set_map_var(MVAR_Rat_Fighter2,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_5) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_5) then begin
                Molerat_Ptr5:=0;
                set_map_var(MVAR_Rat_Fighter2,0);
            end
-           else if (obj_pid(self_obj) == PID_FIGHTING_MOLERAT_6) then begin
+           else if (self_pid == PID_FIGHTING_MOLERAT_6) then begin
                Molerat_Ptr6:=0;
                set_map_var(MVAR_Rat_Fighter2,0);
            end

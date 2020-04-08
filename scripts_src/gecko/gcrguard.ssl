@@ -88,15 +88,15 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    //CHANGE THESE -nbk
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_TOUGH_GUARD);
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if ( (global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO)) ) then begin //edit by killap - added (global_var(GVAR_ENEMY_GECKO))
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -155,7 +155,7 @@ procedure talk_p_proc begin
    if ((REP_ENEMY_GECKO) or (local_var(LVAR_Personal_Enemy) == 1)) then begin
        call Node998;
    end
-   else if obj_carrying_pid_obj(dude_obj, PID_RED_PASS_KEY) then begin
+   else if dude_item(PID_RED_PASS_KEY) then begin
       call Node006;
    end
    else begin

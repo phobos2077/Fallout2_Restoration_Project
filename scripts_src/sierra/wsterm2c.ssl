@@ -70,7 +70,7 @@ end
 
 procedure use_p_proc begin
    script_overrides;
-   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
        end
@@ -136,7 +136,7 @@ procedure Node011 begin
    set_local_var(LVAR_Auto,1);
    call Turn_Off_Robots;
 
-   display_msg(message_str(SCRIPT_GENERIC,1021)); //added by killap
+   display_msg(g_mstr(1021)); //added by killap
    give_xp(EXP_HACK_SIERRA_COMP_2C_REPAIR);
 
    Reply(112);
@@ -148,7 +148,7 @@ procedure Node012 begin
    set_local_var(LVAR_Auto,1);
    call Turn_Off_Robots;
 
-   display_msg(message_str(SCRIPT_GENERIC,1021)); //added by killap
+   display_msg(g_mstr(1021)); //added by killap
    give_xp(EXP_HACK_SIERRA_COMP_2C_REPAIR);
 
    Reply(114);
@@ -160,7 +160,7 @@ procedure Node013 begin
    set_local_var(LVAR_Auto,1);
    call Turn_Off_Robots;
 
-   display_msg(message_str(SCRIPT_GENERIC,1021)); //added by killap
+   display_msg(g_mstr(1021)); //added by killap
    give_xp(EXP_HACK_SIERRA_COMP_2C_REPAIR);
 
    Reply(116);

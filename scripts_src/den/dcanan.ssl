@@ -109,8 +109,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MUMMY_LOVERS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_MUMMY_LOVERS);
+   set_self_ai(AI_PEASANT);
 
 //   if( global_var( GVAR_GECKO_FIND_WOODY ) < WOODY_FOUND ) then
 //      add_timer_event( self_obj, game_ticks(5), 0 );
@@ -136,7 +136,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -178,7 +178,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if( dude_iq <= 3 ) then
+   if( dude_is_stupid ) then
       call Node006;
    else if( global_var( GVAR_GECKO_FIND_WOODY ) >= WOODY_FOUND ) then
       call Node001;
@@ -293,13 +293,13 @@ end
 procedure Node007 begin
    Reply(136);
 
-   if( item_caps_total( dude_obj ) >= 25 ) then
+   if( dude_caps >= 25) then
       NOption(137, Node007a, 004);
    BOption(138, Node999, 004);
 end
 
 procedure Node007a begin
-   item_caps_adjust( dude_obj, -25 );
+   dude_caps_adjust( -25);
    call Node008;
 end
 

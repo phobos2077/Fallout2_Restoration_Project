@@ -54,7 +54,7 @@ procedure Node998;                                      // This Node is Always C
 
 #define destroy_anna_bit                  bit_10
 
-#define helped_anna                       (obj_is_carrying_obj_pid(self_obj, PID_ANNA_GOLD_LOCKET) > 0)
+#define helped_anna                       (self_item_count(PID_ANNA_GOLD_LOCKET) > 0)
 #define set_helped_anna                   if (helped_anna == false) then begin                           \
                                              ndebug("SETTING ANNA HELPED");                           \
                                              remove_pid_qty(dude_obj, PID_ANNA_GOLD_LOCKET, 1)           \
@@ -71,7 +71,7 @@ procedure Node998;                                      // This Node is Always C
 #define set_destroy_anna                  ndebug("SETTING DESTROY ANNA");              \
                                           set_lvar_bit_on(LVAR_Flags, destroy_anna_bit)
 
-#define anna_floater(x)                   float_msg(self_obj, message_str(NAME,x), FLOAT_MSG_WHITE)
+#define anna_floater(x)                   float_msg(self_obj, mstr(x), FLOAT_MSG_WHITE)
 
 // needs to be the locket for anna
 #define CHECK_ANNA_VISIBILITY             if (destroy_anna) then begin                       \
@@ -87,7 +87,7 @@ procedure Node998;                                      // This Node is Always C
                                              destroy_object(self_obj);                       \
                                           end else if (helped_anna) then begin               \
                                              ndebug("setting DESTROY_ANNA");              \
-                                             ndebug(" obj_is_carrying_obj_pid(self_obj, PID_ANNA_GOLD_LOCKET) == "+obj_is_carrying_obj_pid(self_obj, PID_ANNA_GOLD_LOCKET)); \
+                                             ndebug(" self_item_count(PID_ANNA_GOLD_LOCKET) == "+self_item_count(PID_ANNA_GOLD_LOCKET)); \
                                              set_destroy_anna;                               \
                                           end else if (game_time_hour <= 400) then begin     \
                                              check_set_obj_visiblility(self_obj,false);             \
@@ -116,7 +116,7 @@ procedure timed_event_p_proc begin
       if (combat_is_initialized == false) then begin
          temp_room_tile := tile_num_in_direction(self_tile, random(0, 5), random(1, 5));
          if (tile_in_anna_room(temp_room_tile)) then begin
-            animate_move_to_tile(temp_room_tile);
+            self_walk_to_tile(temp_room_tile);
          end
       end
       flush_add_timer_event_sec(self_obj, random(5, 15), timed_event_wander);
@@ -126,8 +126,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_THE_DEN);
+         set_self_ai(AI_TOUGH_CITIZEN);
       end
       flush_add_timer_event_sec(self_obj, random(10, 30), timed_event_float);
       flush_add_timer_event_sec(self_obj, random(5, 15), timed_event_wander);
@@ -165,7 +165,7 @@ procedure talk_p_proc begin
    end else begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
-         if (obj_is_carrying_obj_pid(dude_obj,PID_ANNA_GOLD_LOCKET)) then begin
+         if (dude_item_count(PID_ANNA_GOLD_LOCKET)) then begin
             call Node006;
          end else begin
             call Node001;

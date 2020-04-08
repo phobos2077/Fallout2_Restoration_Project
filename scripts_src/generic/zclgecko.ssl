@@ -75,8 +75,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GECKO);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_GECKO);
 end
 
 
@@ -89,13 +89,13 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
        attack(dude_obj);
    end
 
    //Normal Geckos are less active/aggressive
    if (random(0,2000) == 1) then begin
-       animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+       self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
    end
 
 end
@@ -127,14 +127,14 @@ procedure destroy_p_proc begin
    variable tail :=0;
 
 
-   if (has_trait(TRAIT_PERK,dude_obj,PERK_gecko_skinning_perk)) then begin
-       if ((obj_pid(self_obj) == PID_GECKO_SMALL) or (obj_pid(self_obj) == PID_TOUGH_GECKO_SMALL)) then
+   if (dude_perk(PERK_gecko_skinning_perk)) then begin
+       if ((self_pid == PID_GECKO_SMALL) or (self_pid == PID_TOUGH_GECKO_SMALL)) then
             tail := create_object(PID_GECKO_PELT,0,0);
        // Begin Seraph's Code
-       else if ((obj_pid(self_obj) == PID_FIRE_GECKO) or (obj_pid(self_obj) == PID_TOUGH_FIRE_GECKO)) then
+       else if ((self_pid == PID_FIRE_GECKO) or (self_pid == PID_TOUGH_FIRE_GECKO)) then
             tail := create_object(PID_FIRE_GECKO_PELT,0,0);
        // End Seraph's Code
-       else if ((obj_pid(self_obj) == PID_GOLDEN_GECKO ) or (obj_pid(self_obj) == PID_TOUGH_GOLDEN_GECKO)) then
+       else if ((self_pid == PID_GOLDEN_GECKO) or (self_pid == PID_TOUGH_GOLDEN_GECKO)) then
             tail := create_object(PID_GOLDEN_GECKO_PELT,0,0);
 
       add_obj_to_inven(self_obj,tail);

@@ -43,7 +43,7 @@ end
 
 
 procedure use_p_proc begin
-   if (obj_is_visible_flag(merk_obj)) then begin
+   if (is_visible(merk_obj)) then begin
       if (obj_can_see_obj(merk_obj, dude_obj)) then begin
          call Tamper_Proc;
       end

@@ -36,7 +36,7 @@
 #include "../headers/modreact.h"
 
 
-#define dude_speech             has_skill(dude_obj,SKILL_CONVERSANT)
+#define dude_speech             has_skill(dude_obj,SKILL_SPEECH)
 
 /* Standard Script Procedures */
 procedure start;
@@ -331,8 +331,8 @@ end
 procedure map_enter_p_proc begin
    Lynette_Ptr := self_obj;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 700 ) and ( game_time_hour < 1800 ) ) then begin
@@ -364,7 +364,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -610,7 +610,7 @@ procedure Node010 begin
 
    BLowOption(153,Node998);
    if (not(has_rep_berserker)) then
-       NLowOption(obj_name(dude_obj)+mstr(154),Node010a);
+       NLowOption(dude_name+mstr(154),Node010a);
 end
 
 procedure Node010a begin
@@ -624,15 +624,15 @@ procedure Node010a begin
     set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_KICKED_OUT);
     set_global_var(GVAR_VAULT_CITIZENSHIP,0);
     set_global_var(GVAR_DAY_PASS_SHOWN, 0);
-    DayPass_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_DAY_PASS);
+    DayPass_KickOutCount := dude_item_count(PID_DAY_PASS);
     if( DayPass_KickOutCount > 0 ) then begin
-        DayPass_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_DAY_PASS);
+        DayPass_KickOutObj := dude_item(PID_DAY_PASS);
         KickOutTemp := rm_mult_objs_from_inven(dude_obj, DayPass_KickOutObj, DayPass_KickOutCount );
         destroy_object(DayPass_KickOutObj); //added by killap
     end
-    CitizenPapers_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_FAKE_CITIZENSHIP);
+    CitizenPapers_KickOutCount := dude_item_count(PID_FAKE_CITIZENSHIP);
     if( CitizenPapers_KickOutCount > 0 ) then begin
-        CitizenPapers_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_FAKE_CITIZENSHIP);
+        CitizenPapers_KickOutObj := dude_item(PID_FAKE_CITIZENSHIP);
         KickOutTemp := rm_mult_objs_from_inven(dude_obj, CitizenPapers_KickOutObj, CitizenPapers_KickOutCount );
         destroy_object(CitizenPapers_KickOutObj); //added by killap
     end
@@ -1044,11 +1044,11 @@ end
 procedure Node037 begin
    Reply(304);
 
-   if( obj_is_carrying_obj_pid(dude_obj,PID_VIC_WATER_FLASK) ) then
+   if( dude_item_count(PID_VIC_WATER_FLASK) ) then
       NOption(305,Node042,004);
    else
       NOption(847,Node042,004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_VIC_WATER_FLASK)) then begin
+   if (dude_item_count(PID_VIC_WATER_FLASK)) then begin
        if (dude_iq < 7) then
            NOption(306,Node037b,004);
        else
@@ -1140,7 +1140,7 @@ end
 procedure Node042 begin
    Reply(329);
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_VIC_WATER_FLASK)) then begin
+   if (dude_item_count(PID_VIC_WATER_FLASK)) then begin
        if (dude_iq < 7) then
            NOption(330,Node040,004);
        else
@@ -1246,7 +1246,7 @@ procedure Node047b begin
       BOption(853, Node047c, 004);
    BOption(854, Node047c, 005);
    NOption(855, Node999, 004);
-   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+   if( ( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) or ( dude_charisma > 7 ) ) then
       NOption(856, Node999, 004);
 end
 
@@ -1254,10 +1254,10 @@ procedure Node047c begin
    Reply(513);
 
    BOption(857, Node047d, 004);
-   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+   if( ( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) or ( dude_charisma > 7 ) ) then
       BOption(858, Node047d, 004);
    NOption(859, Node999, 004);
-   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+   if( ( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) or ( dude_charisma > 7 ) ) then
       NOption(860, Node999, 004);
 end
 
@@ -1269,7 +1269,7 @@ procedure Node047d begin
 
    BOption(861, Node047e, 004);
    NOption(862, Node999, 004);
-   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+   if( ( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) or ( dude_charisma > 7 ) ) then
       NOption(863, Node999, 004);
 end
 
@@ -1279,7 +1279,7 @@ procedure Node047e begin
 
    BOption(866, Node998, 004);
    NOption(867, Node999, 004);
-   if( ( has_skill( dude_obj, SKILL_CONVERSANT ) >= 75 ) or ( dude_charisma > 7 ) ) then
+   if( ( has_skill( dude_obj, SKILL_SPEECH ) >= 75 ) or ( dude_charisma > 7 ) ) then
       NOption(868, Node999, 004);
 end
 
@@ -1390,7 +1390,7 @@ procedure Node053 begin
        GOption(392,Node107,004);
    if ((global_var(GVAR_VAULT_RAIDERS) == RAIDERS_FOUND) and (local_var(LVAR_Raiders_Done) == 1)) then
        GOption(393,Node057,004);
-   if ((global_var(GVAR_VAULT_RAIDERS) == RAIDERS_PLANS_KNOWN_RENO) and (obj_is_carrying_obj_pid(dude_obj,PID_BISHOPS_HOLODISK))) then
+   if ((global_var(GVAR_VAULT_RAIDERS) == RAIDERS_PLANS_KNOWN_RENO) and (dude_item_count(PID_BISHOPS_HOLODISK))) then
        GOption(394,Node136,004);
    if ((global_var(GVAR_VAULT_JET_QUEST) == JET_WILL_GET) or (global_var(GVAR_VAULT_JET_QUEST) == JET_DECLINED_JOB) and (global_var(GVAR_DR_TROY_STATUS) == 0)) then
        NOption(395,Node078,004);
@@ -1472,7 +1472,7 @@ procedure Node056 begin
 end
 
 procedure Node056a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then begin
+   if (skill_success(dude_obj,SKILL_SPEECH,-20)) then begin
        set_neutral_critter_reaction;
        call Node053;
    end
@@ -1499,7 +1499,7 @@ end
 procedure Node058 begin
    Reply(425);
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_FAKE_CITIZENSHIP)) then
+   if (dude_item_count(PID_FAKE_CITIZENSHIP)) then
        NOption(426,Node060,004);
    BOption(427,Node041,004);
    if (dude_charisma < 8) then
@@ -1509,7 +1509,7 @@ procedure Node058 begin
 end
 
 procedure Node058a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,0)) then
        call Node061;
    else
        call Node069;
@@ -1528,7 +1528,7 @@ end
 procedure Node060 begin
    variable item;
 
-   item:=obj_carrying_pid_obj(dude_obj,PID_FAKE_CITIZENSHIP);
+   item:=dude_item(PID_FAKE_CITIZENSHIP);
    rm_obj_from_inven(dude_obj,item);
    add_obj_to_inven(self_obj,item);
 
@@ -1680,7 +1680,7 @@ procedure Node072 begin
    if (local_var(LVAR_Info_Paid) == 0) then begin
        inc_local_var(LVAR_Info_Paid);
        inc_local_var(LVAR_Raiders_Done); // Seraph's Fix: inc_local_var only takes 1 arg. Thanks Rob!
-       item_caps_adjust(dude_obj,1000);
+       dude_caps_adjust(1000);
        display_msg( mstr(872) );
        give_xp(EXP_FINISHED_RAIDERS);
        set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_TOLD_LYNETTE_ABOUT_RAIDERS ) );
@@ -2238,7 +2238,7 @@ procedure Node110 begin
    else
        Reply(674);
 
-   if ((town_known(AREA_RAIDERS) != MARK_STATE_UNKNOWN) and (not(obj_is_carrying_obj_pid(dude_obj,PID_ACCOUNT_BOOK)))) then
+   if ((town_known(AREA_RAIDERS) != MARK_STATE_UNKNOWN) and (not(dude_item_count(PID_ACCOUNT_BOOK)))) then
        NOption(675,Node111,004);
    else
        NOption(676,Node111,004);
@@ -2253,7 +2253,7 @@ procedure Node111 begin
    else
        Reply(679);
 
-   if ((town_known(AREA_RAIDERS) != MARK_STATE_UNKNOWN) and (not(obj_is_carrying_obj_pid(dude_obj,PID_ACCOUNT_BOOK)))) then
+   if ((town_known(AREA_RAIDERS) != MARK_STATE_UNKNOWN) and (not(dude_item_count(PID_ACCOUNT_BOOK)))) then
        NOption(680,Node112,004);
    else
        NOption(681,Node114,004);
@@ -2285,15 +2285,15 @@ procedure Node114 begin
    Reply(689);
 
    //added by killap
-   if (obj_is_carrying_obj_pid(dude_obj,PID_ACCOUNT_BOOK)) then begin
-      obj := obj_carrying_pid_obj(dude_obj, PID_ACCOUNT_BOOK);
+   if (dude_item_count(PID_ACCOUNT_BOOK)) then begin
+      obj := dude_item(PID_ACCOUNT_BOOK);
       rm_obj_from_inven(dude_obj, obj);
    end
    //end added
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_BISHOPS_HOLODISK)) then begin
+   if (dude_item_count(PID_BISHOPS_HOLODISK)) then begin
    //killap code
-      item_caps_adjust(dude_obj,500);
+      dude_caps_adjust(500);
       display_msg( mstr(874) );
       give_xp(EXP_RENO_RAIDER_CONNECTION);
       set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_BISHOP_RAIDERS ) );
@@ -2307,7 +2307,7 @@ procedure Node114 begin
 end
 
 procedure Node115 begin
-   item_caps_adjust(dude_obj,500);
+   dude_caps_adjust(500);
    display_msg( mstr(874) );
    give_xp(EXP_RENO_RAIDER_CONNECTION);
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_EXPOSED_BISHOP_RAIDERS ) );
@@ -2353,7 +2353,7 @@ end
 
 procedure Node117a begin
    if (skill_success(dude_obj,SKILL_BARTER,20)) then begin
-       item_caps_adjust(dude_obj,100);
+       dude_caps_adjust(100);
        call Node118;
    end
    else
@@ -2362,7 +2362,7 @@ end
 
 procedure Node117b begin
    if (skill_success(dude_obj,SKILL_BARTER,10)) then begin
-       item_caps_adjust(dude_obj,200);
+       dude_caps_adjust(200);
        call Node118;
    end
    else
@@ -2371,7 +2371,7 @@ end
 
 procedure Node117c begin
    if (skill_success(dude_obj,SKILL_BARTER,-20)) then begin
-       item_caps_adjust(dude_obj,400);
+       dude_caps_adjust(400);
        call Node118;
    end
    else
@@ -2380,7 +2380,7 @@ end
 
 procedure Node117d begin
    if (skill_success(dude_obj,SKILL_BARTER,-50)) then begin
-       item_caps_adjust(dude_obj,500);
+       dude_caps_adjust(500);
        call Node118;
    end
    else
@@ -2442,7 +2442,7 @@ procedure Node121 begin
    else begin
        inc_local_var(LVAR_Info_Paid);
        set_neutral_critter_reaction;
-       item_caps_adjust(dude_obj,500);
+       dude_caps_adjust(500);
        Reply(720);
    end
 
@@ -2482,7 +2482,7 @@ procedure Node123a begin
 end
 
 procedure Node124 begin
-   item_caps_adjust(dude_obj,500);
+   dude_caps_adjust(500);
 
    Reply(734);
 
@@ -2544,7 +2544,7 @@ procedure Node129 begin
 
    Reply(756);
 
-   if (obj_is_carrying_obj_pid(dude_obj,PID_WESTIN_HOLO)) then
+   if (dude_item_count(PID_WESTIN_HOLO)) then
        NOption(757,Node130,004);
    BOption(758,Node134,004);
    NOption(759,Node135,004);
@@ -2553,7 +2553,7 @@ end
 procedure Node130 begin
    variable disc;
 
-   disc := obj_carrying_pid_obj( dude_obj, PID_WESTIN_HOLO );
+   disc := dude_item( PID_WESTIN_HOLO);
    destroy_object( disc );
    set_global_var(GVAR_VAULT_RAIDERS,RAIDERS_GIVE_REWARD);
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_GOT_LYNETTE_HOLODISK_BACK ) );
@@ -2616,7 +2616,7 @@ procedure Node133 begin
 end
 
 procedure Node134 begin
-   item_caps_adjust(dude_obj,1000);
+   dude_caps_adjust(1000);
    set_bad_critter_reaction;
 
    Reply(775);
@@ -2628,7 +2628,7 @@ procedure Node134 begin
 end
 
 procedure Node135 begin
-   item_caps_adjust(dude_obj,1000);
+   dude_caps_adjust(1000);
    set_neutral_critter_reaction;
 
    Reply(779);

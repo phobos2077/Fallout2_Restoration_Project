@@ -42,20 +42,20 @@ procedure damage_p_proc begin
  if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
    if (local_var(LVAR_Destroyed) == 0) then begin
        set_local_var(LVAR_Destroyed,1);
-       rubble:=create_object(33554839,26704,elevation(self_obj));
-       rubble:=create_object(33554839,26507,elevation(self_obj));
-       rubble:=create_object(33554839,27108,elevation(self_obj));
-       rubble:=create_object(33554513,23104,elevation(self_obj));
+       rubble:=create_object(PID_CAVE_IN_ROCKS,26704,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,26507,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,27108,self_elevation);
+       rubble:=create_object(PID_LARGE_BLUE_ROCK_PILE,23104,self_elevation);
 
-       blocker:=create_object(PID_BLOCKING_HEX,24901,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,24902,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25103,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25497,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25697,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27113,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27313,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27513,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27713,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,24901,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,24902,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25103,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25497,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25697,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27113,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27313,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27513,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27713,self_elevation);
 
        set_map_var(MVAR_CVN3,1);
        display_msg(message_str(SCRIPT_KLARATCV, 101));
@@ -166,20 +166,20 @@ end
 procedure destroy_support begin
    if (local_var(LVAR_Destroyed) == 0) then begin
        set_local_var(LVAR_Destroyed,1);
-       rubble:=create_object(33554839,26704,elevation(self_obj));
-       rubble:=create_object(33554839,26507,elevation(self_obj));
-       rubble:=create_object(33554839,27108,elevation(self_obj));
-       rubble:=create_object(33554513,23104,elevation(self_obj));
+       rubble:=create_object(PID_CAVE_IN_ROCKS,26704,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,26507,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,27108,self_elevation);
+       rubble:=create_object(PID_LARGE_BLUE_ROCK_PILE,23104,self_elevation);
 
-       blocker:=create_object(PID_BLOCKING_HEX,24901,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,24902,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25103,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25497,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25697,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27113,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27313,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27513,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27713,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,24901,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,24902,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25103,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25497,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25697,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27113,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27313,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27513,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27713,self_elevation);
 
        set_map_var(MVAR_CVN3,1);
 
@@ -273,20 +273,20 @@ end
 
 procedure force_destroy_support begin
        set_local_var(LVAR_Destroyed,1);
-       rubble:=create_object(33554839,26704,elevation(self_obj));
-       rubble:=create_object(33554839,26507,elevation(self_obj));
-       rubble:=create_object(33554839,27108,elevation(self_obj));
-       rubble:=create_object(33554513,23104,elevation(self_obj));
+       rubble:=create_object(PID_CAVE_IN_ROCKS,26704,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,26507,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,27108,self_elevation);
+       rubble:=create_object(PID_LARGE_BLUE_ROCK_PILE,23104,self_elevation);
 
-       blocker:=create_object(PID_BLOCKING_HEX,24901,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,24902,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25103,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25497,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,25697,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27113,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27313,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27513,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,27713,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,24901,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,24902,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25103,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25497,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,25697,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27113,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27313,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27513,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,27713,self_elevation);
 
        set_map_var(MVAR_CVN3,1);
 

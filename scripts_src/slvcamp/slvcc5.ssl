@@ -271,14 +271,14 @@ procedure Node008 begin
 end
 
 procedure Node900 begin
-   if ( (has_skill(dude_obj, SKILL_CONVERSANT) > 60) ) then
+   if ( (has_skill(dude_obj, SKILL_SPEECH) > 60) ) then
       call Node005;
    else
       call Node008;
 end
 
 procedure Node901 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-5))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-5))) then
       call Node006;
    else
       call Node008;

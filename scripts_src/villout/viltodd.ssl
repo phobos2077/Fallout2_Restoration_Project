@@ -68,12 +68,12 @@ procedure timed_event_p_proc begin
   variable the_temp;
    if ((fixed_param == 1) and (not combat_is_initialized)) then begin
       if (anim_busy(self_obj) == 0) then begin
-            if (tile_distance(tile_num(self_obj), local_var(7)) >= 8) then
+            if (tile_distance(self_tile, local_var(7)) >= 8) then
                the_temp := local_var(LVAR_Home_Tile);
             else
-               the_temp := tile_num_in_direction(tile_num(self_obj), random(0, 5), random(2, 5));
+               the_temp := tile_num_in_direction(self_tile, random(0, 5), random(2, 5));
 
-            animate_run_to_tile(the_temp);
+            self_run_to_tile(the_temp);
       end
       call Node001;
       add_timer_event(self_obj, random(10,15)*ONE_GAME_SECOND, 1);
@@ -89,8 +89,8 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (obj_can_see_obj(self_obj,dude_obj))) then begin
-       animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+   if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (self_can_see_dude)) then begin
+       self_run_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
        //set_local_var(LVAR_Hostile,1);
        //attack(dude_obj);
    end
@@ -175,7 +175,7 @@ procedure map_enter_p_proc begin
             critter_attempt_placement(self_obj, self_tile, dude_elevation);
       //end
       end
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_VAULT_VILLAGERS);
+      set_self_team(TEAM_VAULT_VILLAGERS);
       //if ((tile_num(self_obj) != 24311) and (tile_num(self_obj) != 23900)) then
       add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
    end

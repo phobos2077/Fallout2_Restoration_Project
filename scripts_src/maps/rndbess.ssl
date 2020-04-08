@@ -94,14 +94,14 @@ procedure LoadBrahmn begin
       tile := 0;
       if (global_var(GVAR_MODOC_BRAHMIN_ESCAPED) == 1) then begin
          tile := DEATH_TILE;
-         obj := create_object_sid(PID_BESS, tile, elevation(dude_obj), SCRIPT_ECBESS);
+         obj := create_object_sid(PID_BESS, tile, dude_elevation, SCRIPT_ECBESS);
       end else begin
          tile := tile_num_in_direction(DEATH_TILE, Random(0, 5), Random(1, 10));
-         obj := create_object_sid(PID_BRAHMIN, tile, elevation(self_obj), SCRIPT_ECBESCOW);
+         obj := create_object_sid(PID_BRAHMIN, tile, self_elevation, SCRIPT_ECBESCOW);
       end
       if (obj) then begin
-         critter_attempt_placement(obj, tile, elevation(dude_obj));
-         anim(obj, ANIMATE_ROTATION, Random(0, 5));
+         critter_attempt_placement(obj, tile, dude_elevation);
+         obj_rotate(obj, Random(0, 5));
       end
       set_global_var(GVAR_MODOC_BRAHMIN_ESCAPED, global_var(GVAR_MODOC_BRAHMIN_ESCAPED) - 1);
    end

@@ -109,7 +109,7 @@ procedure timed_event_p_proc begin
    ndebug("timer fixed_param: " + fixed_param);
    if (fixed_param == TIMER_TALK) then begin
       if (not combat_is_initialized and local_var(LVAR_State) != STATE_RUN) then begin
-         if (obj_can_see_obj(self_obj, dude_obj)) then
+         if (self_can_see_dude) then
             call talk_p_proc;
       end
       add_timer_event(self_obj, game_ticks(Random(5, 100)), TIMER_TALK);
@@ -123,7 +123,7 @@ procedure timed_event_p_proc begin
             ndebug("should be animating");
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_run_to_tile(tile);
+            self_run_to_tile(tile);
             reg_anim_end();
          end
          if (stat_success(dude_obj, STAT_ch, 0)) then begin
@@ -146,7 +146,7 @@ procedure timed_event_p_proc begin
       if (local_var(LVAR_State) == 0 and not combat_is_initialized) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_run_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(5, 20)));
+         self_run_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(5, 20)));
          reg_anim_end();
       end
       add_timer_event(self_obj, game_ticks(Random(1, 120)), TIMER_MOVE);
@@ -158,8 +158,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_SHI);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+   set_self_team(TEAM_SAN_FRAN_SHI);
+   set_self_ai(AI_CHILD);
    add_timer_event(self_obj, game_ticks(Random(1, 120)), TIMER_MOVE);
    add_timer_event(self_obj, game_ticks(Random(5, 100)), TIMER_TALK);
    starttile := self_tile;
@@ -175,7 +175,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end

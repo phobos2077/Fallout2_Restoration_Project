@@ -12,7 +12,7 @@
 
 #define NAME                    SCRIPT_ABMATT
 #define TOWN_REP_VAR            GVAR_TOWN_REP_ABBEY
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_BLUE)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_BLUE)
 
 #include "../headers/command.h"
 
@@ -98,7 +98,7 @@ procedure critter_p_proc begin
       end
    end
 
-   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) or (hostile) ) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 end
@@ -167,7 +167,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+   set_self_team(TEAM_ABBEY);
    add_timer_event(self_obj,game_ticks(random(15,20)),speech);
    set_map_var(MVAR_Matt_Speeches,1);
 end

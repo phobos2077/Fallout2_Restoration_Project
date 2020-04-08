@@ -86,7 +86,7 @@ procedure timed_event_p_proc begin
          end else if (slave_is_drugged) then begin
             call Node008;
          end if (cur_map_index == MAP_NEW_RENO_4) then begin
-            if (obj_art_fid(self_obj) != FID_NMLOSR and anim_busy(self_obj) == false) then begin
+            if (self_fid != FID_NMLOSR and anim_busy(self_obj) == false) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
                   reg_anim_animate(self_obj, ANIM_magic_hands_middle, -1);
@@ -110,8 +110,8 @@ variable temp;
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SLAVE); //edit by killap - RP
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+         set_self_team(TEAM_RND_SLAVE); //edit by killap - RP
+         set_self_ai(AI_COWARD);
          if (tile_distance(self_tile, 20878) <= 17) then begin
             set_local_var(LVAR_Slave_Type, random(slave_generic, slave_beaten));
          end else if (tile_distance(self_tile, 20323) <= 9) then begin

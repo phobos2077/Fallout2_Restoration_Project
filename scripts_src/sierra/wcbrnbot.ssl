@@ -141,11 +141,11 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_update_p_proc begin
    if (local_var(LVAR_In_Party == 0)) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SIERRA_BASE);
+      set_self_team(TEAM_SIERRA_BASE);
    else begin
       if (combat_is_initialized == false) then begin
          if (anim_busy(self_obj) == false) then begin
-            if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+            if (party_member_obj(self_pid) != 0) then begin
                if (chem_use_level(self_obj) == 1) then begin
                   if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                      global_temp := 1;
@@ -170,7 +170,7 @@ procedure map_update_p_proc begin
             end
          end
       end
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    end
 end
 
@@ -191,13 +191,13 @@ procedure critter_p_proc begin
        end
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        floater(173);
        attack(dude_obj);
    end
 
    else if (local_var(LVAR_Hostile) == 2) then begin
-       animate_move_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),random(1,4)));
+       self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,4)));
    end
 
    /*if ((cur_map_index == MAP_SIERRA_123) and ((local_var(LVAR_Alarm_1) == 0) or (local_var(LVAR_Alarm_2) == 0) or (local_var(LVAR_Alarm_3) == 0))) then begin
@@ -212,9 +212,9 @@ procedure critter_p_proc begin
 
    if ((local_var(LVAR_In_Party) == 1) and (not(party_no_follow))) then begin
       if (tile_distance_objs(self_obj,dude_obj) > (2*FOLLOW_DISTANCE_MEDIUM)) then
-         animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),FOLLOW_DISTANCE_CLOSE));
+         self_run_to_tile(tile_num_in_direction(dude_tile,random(0,5),FOLLOW_DISTANCE_CLOSE));
       else if (tile_distance_objs(self_obj,dude_obj) > FOLLOW_DISTANCE_MEDIUM) then
-         animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),FOLLOW_DISTANCE_MEDIUM));
+         self_run_to_tile(tile_num_in_direction(dude_tile,random(0,5),FOLLOW_DISTANCE_MEDIUM));
    end
 
 end
@@ -491,7 +491,7 @@ end
 procedure Node006a begin
    variable hp;
 
-   hp:=get_critter_stat(self_obj,STAT_max_hp)-get_critter_stat(self_obj,STAT_current_hp);
+   hp:=get_max_hits(self_obj)-self_cur_hits;
 
    critter_heal(self_obj,hp);
    gfade_out(600);
@@ -598,7 +598,7 @@ procedure Node015 begin
    set_local_var(LVAR_Hostile,2);
    party_remove(self_obj);
    set_local_var(LVAR_In_Party,0);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SIERRA_BASE);
+   set_self_team(TEAM_SIERRA_BASE);
 //   attack(dude_obj);
 end
 
@@ -702,19 +702,19 @@ end
 
 /*procedure Node024 begin
 
-   if ((local_var(LVAR_Alarm_1) == 0) and (elevation(self_obj) == 0)) then begin
+   if ((local_var(LVAR_Alarm_1) == 0) and (self_elevation == 0)) then begin
        set_global_var(GVAR_SIERRA_BASE_ALERT,0);
        set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
        floater(204);
        set_local_var(LVAR_Alarm_1,1);
    end
-   else if ((local_var(LVAR_Alarm_2) == 0) and (elevation(self_obj) == 1)) then begin
+   else if ((local_var(LVAR_Alarm_2) == 0) and (self_elevation == 1)) then begin
        set_global_var(GVAR_SIERRA_BASE_ALERT,0);
        set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
        floater(205);
        set_local_var(LVAR_Alarm_2,1);
    end
-   else if ((local_var(LVAR_Alarm_3) == 0) and (elevation(self_obj) == 2)) then begin
+   else if ((local_var(LVAR_Alarm_3) == 0) and (self_elevation == 2)) then begin
        set_global_var(GVAR_SIERRA_BASE_ALERT,0);
        set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
        floater(206);
@@ -726,19 +726,19 @@ end*/
 procedure Node024 begin
 
    if (cur_map_index == MAP_SIERRA_123) then begin
-      if ((map_var(MVAR_Security_Level_1) == 1) and (elevation(self_obj) == 0)) then begin
+      if ((map_var(MVAR_Security_Level_1) == 1) and (self_elevation == 0)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
           set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
           floater(204);
           set_map_var(MVAR_Security_Level_1,0);
       end
-      else if ((map_var(MVAR_Security_Level_2) == 1) and (elevation(self_obj) == 1)) then begin
+      else if ((map_var(MVAR_Security_Level_2) == 1) and (self_elevation == 1)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
           set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
           floater(205);
           set_map_var(MVAR_Security_Level_2,0);
       end
-      else if ((map_var(MVAR_Security_Level_3) == 1) and (elevation(self_obj) == 2)) then begin
+      else if ((map_var(MVAR_Security_Level_3) == 1) and (self_elevation == 2)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
           set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
           floater(206);
@@ -763,7 +763,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Vic_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Vic_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,1);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -775,7 +775,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Myron_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Myron_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,2);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -787,7 +787,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Sulik_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Sulik_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,3);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -799,7 +799,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Lenny_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Lenny_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,4);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -811,7 +811,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(MacRae_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(MacRae_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,5);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -823,7 +823,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Davin_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Davin_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,6);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -835,7 +835,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Miria_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Miria_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,7);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -847,7 +847,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Kitsune_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Kitsune_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,7);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -859,7 +859,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Cat_Jules_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Cat_Jules_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,7);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -871,7 +871,7 @@ procedure Kill_The_Party begin
            //call Node015; --comment out by killap
        end
        else begin
-           animate_run_to_tile(tile_num_in_direction(tile_num(Dex_Ptr),random(0,5),1));
+           self_run_to_tile(tile_num_in_direction(tile_num(Dex_Ptr),random(0,5),1));
            set_local_var(LVAR_Party_Target,7);
            add_timer_event(self_obj,game_ticks(3),2);
        end
@@ -882,7 +882,7 @@ procedure Kill_The_Party begin
    end
 
    else begin
-       animate_run_to_tile(tile_num_in_direction(tile_num(dude_obj),random(0,5),1));
+       self_run_to_tile(tile_num_in_direction(dude_tile,random(0,5),1));
        set_local_var(LVAR_Party_Target,8);
        add_timer_event(self_obj,game_ticks(3),2);
    end

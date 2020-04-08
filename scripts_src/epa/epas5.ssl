@@ -76,17 +76,17 @@ end
 procedure Node001
 begin
   gsay_reply(SCRIPT_EPAS1, 100);
-  giq_option(4, SCRIPT_EPAS1, 101, Node002, 50);
-  giq_option(4, SCRIPT_EPAS1, 102, Node003, 50);
-  giq_option(4, SCRIPT_EPAS1, 103, Node004, 50);
-  giq_option(4, SCRIPT_EPAS1, 104, Node005, 50);
-  giq_option(4, SCRIPT_EPAS1, 105, Node999, 50);
+  giq_option(4, SCRIPT_EPAS1, 101, Node002, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 102, Node003, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 103, Node004, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 104, Node005, NEUTRAL_REACTION);
+  giq_option(4, SCRIPT_EPAS1, 105, Node999, NEUTRAL_REACTION);
 end
 
 procedure Node002
 begin
   gsay_reply(SCRIPT_EPAS1, 106);
-  giq_option(4, SCRIPT_EPAS1, 107, Node999, 50);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
   if (cur_map_index == MAP_EPA) then
     move_to(dude_obj, 18758, 2);
   else
@@ -99,7 +99,7 @@ end
 procedure Node003
 begin
   gsay_reply(SCRIPT_EPAS1, 109);
-  giq_option(4, SCRIPT_EPAS1, 107, Node999, 50);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
   if (cur_map_index == MAP_EPA_SUBLEVELS) then
     move_to(dude_obj, 21908, 0);
   else
@@ -112,7 +112,7 @@ end
 procedure Node004
 begin
   gsay_reply(SCRIPT_EPAS1, 110);
-  giq_option(4, SCRIPT_EPAS1, 107, Node999, 50);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
   if (cur_map_index == MAP_EPA_SUBLEVELS) then
     move_to(dude_obj, 21908, 1);
   else
@@ -125,7 +125,7 @@ end
 procedure Node005
 begin
   gsay_reply(SCRIPT_EPAS1, 111);
-  giq_option(4, SCRIPT_EPAS1, 107, Node999, 50);
+  giq_option(4, SCRIPT_EPAS1, 107, Node999, NEUTRAL_REACTION);
   if (cur_map_index == MAP_EPA_SUBLEVELS) then
     move_to(dude_obj, 21908, 2);
   else

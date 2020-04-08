@@ -87,7 +87,7 @@ variable WIELD_Once;
 
 procedure start begin
    if (local_var(LVAR_Home_Tile) == 0) then begin
-       set_local_var(LVAR_Home_Tile,tile_num(self_obj));
+       set_local_var(LVAR_Home_Tile,self_tile);
    end
 end
 
@@ -96,7 +96,7 @@ procedure timed_event_p_proc begin
       add_timer_event(self_obj,game_ticks(random(5,9)),1);
    end else if (fixed_param == 1) then begin
        if (local_var(LVAR_Home_Tile) == 21902) then begin
-           animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+           self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
            add_timer_event(self_obj,game_ticks(random(15,25)),1);
        end
        else if (local_var(LVAR_Home_Tile) == 19494) then begin
@@ -119,11 +119,11 @@ procedure timed_event_p_proc begin
        end
        else begin
             if(random(1,2) == 1) then
-               animate_move_to_tile(24921);
+               self_walk_to_tile(24921);
 
                //animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),24921,random(3,7)));
             else
-                animate_move_to_tile(21121);
+                self_walk_to_tile(21121);
                //animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),21121,random(3,7)));
 
             add_timer_event(self_obj,game_ticks(random(15,20)),1);
@@ -145,7 +145,7 @@ end
 
 procedure look_at_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(100));
    else
       display_msg(mstr(101));
@@ -154,7 +154,7 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(102));
    else
       display_msg(mstr(103));
@@ -166,7 +166,7 @@ procedure use_skill_on_p_proc begin
    /*script_overrides;
    if (action_being_used == SKILL_STEAL) then begin
       if (STEAL_Once == 0) then begin
-         float_msg(self_obj, message_str(NAME, 209), FLOAT_MSG_RED );
+         float_msg(self_obj, mstr(209), FLOAT_MSG_RED );
          //floater_bad(209);
          STEAL_Once:=1;
       end
@@ -200,7 +200,7 @@ procedure map_enter_p_proc begin
    call wield_spear_p_proc;
    add_timer_event(self_obj,game_ticks(random(5,9)),1);
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
 
@@ -224,7 +224,7 @@ end
 procedure talk_p_proc begin
    if ((global_var(GVAR_MERCHANT_MEETING) > 1) or (global_var(GVAR_TRIBE_WEAPONS) == 2) or (global_var(GVAR_TRIBE_GHOST) == 3) or (global_var(GVAR_SULIK_SISTER) >= 3) ) then begin
       //float_msg(self_obj, message_str(1308, random(204, 208)), FLOAT_MSG_WHITE );
-      if ( (critter_is_female) and (global_var(GVAR_TRIBE_FIREWOOD) < FINISHED) ) then begin
+      if ( (self_is_female) and (global_var(GVAR_TRIBE_FIREWOOD) < FINISHED) ) then begin
          if (global_var(GVAR_TRIBE_FIREWOOD) == WAIT) then begin
                start_gdialog(NAME,self_obj,4,-1,-1);
                gSay_Start;
@@ -250,7 +250,7 @@ procedure talk_p_proc begin
             float_msg(self_obj, mstr(random(204, 208)), FLOAT_MSG_WHITE);
    end
    else begin
-   	float_msg(self_obj, message_str(NAME, random(200, 203)), FLOAT_MSG_RED );
+   	float_msg(self_obj, mstr(random(200, 203)), FLOAT_MSG_RED );
    	//floater_bad(random(200,203));
    end
 end
@@ -285,7 +285,7 @@ end
 
 procedure wield_spear_p_proc
 begin
-   if ( (WIELD_Once == 0) and (critter_is_male) ) then begin
+   if ( (WIELD_Once == 0) and (self_is_male) ) then begin
       wield_obj(self_item(PID_SHARPENED_POLE));
       WIELD_Once:=1;
    end
@@ -305,7 +305,7 @@ end
 
 procedure Node002 begin
    Reply(304);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_FIREWOOD) >= 3) then begin
+   if (dude_item_count(PID_FIREWOOD) >= 3) then begin
       NOption(306,Node004,004);
       NLowOption(411,Node004);
    end else begin
@@ -325,7 +325,7 @@ procedure Node004 begin
    variable remove;
 
    set_global_var(GVAR_TRIBE_FIREWOOD,FINISHED);
-   wood:=obj_carrying_pid_obj(dude_obj, PID_FIREWOOD);
+   wood:=dude_item(PID_FIREWOOD);
    remove := rm_mult_objs_from_inven(dude_obj, wood, 3 );
    destroy_object(wood);
 
@@ -337,7 +337,7 @@ end
 
 procedure Node005 begin
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE, global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 1);
-   item_caps_adjust(dude_obj, 75);
+   dude_caps_adjust(75);
    give_xp(125);
    Reply(311);
    BOption(312,Node999,004);
@@ -352,12 +352,12 @@ procedure Node006 begin
 end
 
 procedure Node007 begin
-   float_msg(self_obj, message_str(NAME, 314), FLOAT_MSG_RED );
+   float_msg(self_obj, mstr(314), FLOAT_MSG_RED );
 end
 
 procedure Node008 begin
    Reply(315);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_FIREWOOD) >= 3) then begin
+   if (dude_item_count(PID_FIREWOOD) >= 3) then begin
       NLowOption(411,Node004);
       NOption(316,Node004,004);
    end else begin

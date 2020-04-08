@@ -91,7 +91,7 @@ procedure Node043;
 #define LVAR_Dying_Message                (6)
 #define LVAR_Player_Said_Have_Info        (7) //added by killap
 
-#define salvatore_has_oxygen              (obj_is_carrying_obj_pid(self_obj, PID_OXYGEN_TANK) > 0)
+#define salvatore_has_oxygen              (self_item_count(PID_OXYGEN_TANK) > 0)
 #define self_family                       family_salvatore
 #define kill_salvatore                    if ((dude_can_see_self) or (self_can_see_dude)) then begin   \
                                              dude_floater_bad(660);                                   \
@@ -105,7 +105,7 @@ procedure Node043;
                                           kill_critter(self_obj, ANIM_fall_back_blood_sf)
 
 #define check_assassinate_salvatore       if (salvatore_has_oxygen == false) then begin                              \
-                                             if (obj_is_carrying_obj_pid(self_obj, PID_POISON_TANK) > 0) then begin /* Seraph's Fix: changed 'dude_obj' to 'self_obj' */ \
+                                             if (self_item_count(PID_POISON_TANK) > 0) then begin /* Seraph's Fix: changed 'dude_obj' to 'self_obj' */ \
                                                 ndebug("salvatore_assassinated == "+salvatore_assassinated);      \
                                                 ndebug("personal_enemy         == "+personal_enemy);              \
                                                 if ((salvatore_assassinated == false) and (personal_enemy == false)) then begin  \
@@ -115,8 +115,8 @@ procedure Node043;
                                                 end                                                                  \
                                              end                                                                     \
                                           end
-#define give_salvatore_money(x)           item_caps_adjust(self_obj, x);   \
-                                          item_caps_adjust(dude_obj, -x)
+#define give_salvatore_money(x)           self_caps_adjust(x);   \
+                                          dude_caps_adjust(-x)
 variable prev_node;
 
 /* Imported variables from the Map scripts. These should only be
@@ -148,7 +148,7 @@ variable temp_tile;
                   if (anim_busy(self_obj) == false) then begin
                      temp_tile := tile_num_in_direction(self_tile, random(0, 5), random(2,7));
                      if (tile_in_box(temp_tile, 25914, 25906, 28506, 28514)) then begin
-                        animate_move_to_tile(temp_tile);
+                        self_walk_to_tile(temp_tile);
                      end
                   end
                end
@@ -162,8 +162,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_SALVATORE);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+         set_self_team(TEAM_NEW_RENO_SALVATORE);
+         set_self_ai(AI_GENERIC_GUARDS);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end

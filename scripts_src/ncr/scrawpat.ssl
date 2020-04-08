@@ -113,7 +113,7 @@ procedure timed_event_p_proc begin
             tileNum := tile_num_in_direction(StartTile, dir, 2);
             reg_anim_clear(self_obj);
             reg_anim_begin();
-               animate_move_to_tile(tileNum);
+               self_walk_to_tile(tileNum);
             reg_anim_end();
          end
          add_timer_event(self_obj, random_move_time, TIMERMOVE);
@@ -133,22 +133,22 @@ procedure map_enter_p_proc begin
    if (roll < SHOTGUNCHANCE) then weapon := WEP_SHOTGUN;
    else if (roll < KNIFECHANCE) then weapon := WEP_KNIFE;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_ENTRANCE);
+   set_self_team(TEAM_NCR_ENTRANCE);
    if (weapon == WEP_NONE) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      set_self_ai(AI_PEASANT);
    end
    else if (weapon == WEP_SHOTGUN) then begin
       ndebug("Someone got shotgun");
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+      set_self_ai(AI_GENERIC_GUARDS);
       stock_weapon_obj(self_obj, PID_SHOTGUN, 1, 0, NUMSHELLS)
    end
    else if (weapon == WEP_KNIFE) then begin
       ndebug("Someone got Knife");
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+      set_self_ai(AI_TOUGH_GUARD);
       stock_weapon_obj(self_obj, PID_COMBAT_KNIFE, 1, 0, 0)
    end
 
-   StartTile := tile_num(self_obj);
+   StartTile := self_tile;
 
    add_timer_event(self_obj, random_move_time, TIMERMOVE);
 end
@@ -163,13 +163,13 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
 
    if (local_var(LVAR_Did_Lenny_Float) == 0 and ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG)) then begin
-      if (obj_can_see_obj(self_obj, dude_obj) and obj_on_screen(self_obj)) then begin
+      if (self_can_see_dude and obj_on_screen(self_obj)) then begin
          set_local_var(LVAR_Did_Lenny_Float, 1);
          call Node004;
       end

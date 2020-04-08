@@ -128,13 +128,13 @@ procedure map_enter_p_proc begin
          critter_attempt_placement(self_obj, butcher_work_tile, self_elevation);
       end
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_MODOC);
+   set_self_ai(AI_PEASANT);
 end
 
 procedure critter_p_proc begin
    if (self_can_see_dude) then begin
-      if (obj_is_visible_flag(self_obj)) then begin
+      if (self_visible) then begin
          if ((local_var(LVAR_Hostile) > 0) or (dude_enemy_modoc)) then begin
             set_local_var(LVAR_Hostile, 1);
             self_attack_dude;
@@ -160,7 +160,7 @@ procedure critter_p_proc begin
       end else if (self_cur_rot == rotation_to_tile(self_tile, butcher_work_tile)) then begin
          check_on_butcher
       end else begin
-         animate_rotation(rotation_to_tile(self_tile, butcher_work_tile));
+         self_rotate(rotation_to_tile(self_tile, butcher_work_tile));
       end
    end
 end

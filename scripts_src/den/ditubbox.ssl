@@ -53,7 +53,7 @@ procedure map_enter_p_proc begin
       //end added
 
       if (local_var(LVAR_Restock_Time) < game_time) then begin
-         item_caps_adjust(self_obj, random(151, 161) - self_caps);
+         self_caps_adjust(random(151, 161) - self_caps);
          check_restock_item(PID_JET, 5, 10, 100)
          check_restock_item(PID_PSYCHO, 0, 2, 100)
          check_restock_item(PID_BUFFOUT, 0, 1, 100)

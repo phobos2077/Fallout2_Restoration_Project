@@ -114,8 +114,8 @@ procedure map_enter_p_proc begin
    Vic_Ed_Message:=0;
    Ed_Ptr := self_obj;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_TOUGH_CITIZEN);
    add_timer_event( self_obj, game_ticks(random(30, 40)), 1);
 end
 
@@ -141,7 +141,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -150,7 +150,7 @@ procedure critter_p_proc begin
    if( (Vic_Ed_Message == 0) and (Vic_Ptr != 0) and (vic_trader) ) then begin
       if(tile_distance(19113, tile_num(Vic_Ptr) ) <= 12) then begin
          Vic_Ed_Message := 1;
-         float_msg(Vic_Ptr, message_str(NAME,165), FLOAT_COLOR_NORMAL);
+         float_msg(Vic_Ptr, mstr(165), FLOAT_COLOR_NORMAL);
       end
    end
 end
@@ -262,9 +262,9 @@ procedure Node002 begin
 
    set_local_var(LVAR_Herebefore,1);
 
-   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (obj_is_carrying_obj_pid( dude_obj, PID_VIC_WATER_FLASK ) > 0) ) then
+   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (dude_item_count( PID_VIC_WATER_FLASK) > 0) ) then
       NOption(108, Node005, 004);
-   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (obj_is_carrying_obj_pid( dude_obj, PID_VIC_WATER_FLASK ) == 0) ) then
+   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (dude_item_count( PID_VIC_WATER_FLASK) == 0) ) then
       NOption(109, Node003, 004);
    if( (vic_trader) and (Vic_Ptr != 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) ) then
       NOption(110, Node005, 004);
@@ -296,9 +296,9 @@ procedure Node005 begin
    else
       Reply(123);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_VIC_WATER_FLASK ) > 0 ) then
+   if( dude_item_count( PID_VIC_WATER_FLASK) > 0) then
       NOption(124, Node006, 004);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_VIC_WATER_FLASK ) == 0 ) then
+   if( dude_item_count( PID_VIC_WATER_FLASK) == 0) then
       NOption(125, Node004, 004);
    NOption(126, Node999, 004);
 
@@ -364,9 +364,9 @@ end
 procedure Node012 begin
    Reply(145);
 
-   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (obj_is_carrying_obj_pid( dude_obj, PID_VIC_WATER_FLASK ) > 0) ) then
+   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (dude_item_count( PID_VIC_WATER_FLASK) > 0) ) then
       NOption(146, Node005, 004);
-   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (obj_is_carrying_obj_pid( dude_obj, PID_VIC_WATER_FLASK ) == 0) ) then
+   if( (vic_trader) and (Vic_Ptr == 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) and (dude_item_count( PID_VIC_WATER_FLASK) == 0) ) then
       NOption(147, Node003, 004);
    if( (vic_trader) and (Vic_Ptr != 0) and (local_var(LVAR_Ed_Memory) == ED_NOTHING) ) then
       NOption(148, Node005, 004);

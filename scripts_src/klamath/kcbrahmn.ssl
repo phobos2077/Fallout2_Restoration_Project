@@ -115,8 +115,8 @@ end
 
 procedure map_enter_p_proc begin
    if (global_var(GVAR_RUSTLE_SUCCESS) != 0) then begin //Hack for alpah...use critter attempt placement
-        set_obj_visibility(self_obj,1);
+        set_self_invisible;
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BRAHMIN);
+   set_self_team(TEAM_BRAHMIN);
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_VILLAGER);
 end

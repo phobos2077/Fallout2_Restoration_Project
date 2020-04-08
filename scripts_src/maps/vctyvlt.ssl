@@ -50,7 +50,7 @@ procedure map_enter_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   if( elevation( dude_obj ) == 0 ) then
+   if( dude_elevation == 0) then
       set_vault_city_wrong_place;
 
    Full_Light;

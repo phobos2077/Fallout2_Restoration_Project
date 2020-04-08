@@ -131,8 +131,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ARROYO_ELDER);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_ARROYO_ELDER);
 end
 
 //added by killap -- done to prevent the Elder from escaping her cell at the Enclave
@@ -155,12 +155,12 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
-   if ( (REP_ENEMY_ARROYO) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin //added and (obj_can_see_obj(self_obj,dude_obj)) by killap
+   if ( (REP_ENEMY_ARROYO) and (self_can_see_dude) ) then begin //added and (self_can_see_dude) by killap
        attack(dude_obj);
    end
 
@@ -285,8 +285,8 @@ procedure talk_p_proc begin
    else begin
        set_global_var(GVAR_ENCLAVE_ELDER,1);
 
-       if ((obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_ADVANCED_POWER_ARMOR_MK2) or
-           (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_HARDENED_POWER_ARMOR)) then begin
+       if ((obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2) or
+           (obj_pid(dude_armor) == PID_HARDENED_POWER_ARMOR)) then begin
            start_gdialog(NAME,self_obj,4,HEAD_ELDER,BACKGROUND_ENCLAVE);
            gSay_Start;
                call Enc002;
@@ -416,7 +416,7 @@ procedure Node003 begin
 end
 
 procedure Node003a begin
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 45) then begin
+   if (has_skill(dude_obj,SKILL_SPEECH) > 45) then begin
        UpReactModerate;
    end
    else if (dude_charisma > 7) then begin
@@ -541,9 +541,9 @@ procedure Node015 begin
    variable item;
    variable money;
 
-   money:=item_caps_total(self_obj);
-   item_caps_adjust(self_obj,-money);
-   item_caps_adjust(dude_obj,money);
+   money:=self_caps;
+   self_caps_adjust(-money);
+   dude_caps_adjust(money);
 
    item:=create_object(PID_VIC_WATER_FLASK,0,0);
    add_mult_objs_to_inven(dude_obj,item,1);

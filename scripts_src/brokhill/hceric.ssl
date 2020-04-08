@@ -110,8 +110,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
@@ -123,7 +123,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -440,7 +440,7 @@ end
 
 procedure Node020 begin
    set_local_var( LVAR_Rewarded, 1 );
-   item_caps_adjust( dude_obj, 150 );
+   dude_caps_adjust( 150);
    Reply(177);
 
    NOption(178, Node999, 004);

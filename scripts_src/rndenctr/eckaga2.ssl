@@ -134,7 +134,7 @@ procedure combat_p_proc begin
          end
       end
 
-      if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 100)) then begin
+      if ((self_cur_hits) <= ((self_max_hits) - 100)) then begin
          critter_set_flee_state(self_obj, 1);
       end
 
@@ -142,7 +142,7 @@ procedure combat_p_proc begin
          set_kaga_met;
          float_msg(self_obj, mstr(113), FLOAT_MSG_RED);
          //destroy_object(self_obj);
-         set_obj_visibility(self_obj,1);
+         set_self_invisible;
       end
    end
 
@@ -158,8 +158,8 @@ procedure do_setup begin
    variable Critter_Tile;
 
    if not(local_var(LVAR_Defeated)) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_KAGA);
+      set_self_team(TEAM_RND_KAGA);
+      set_self_ai(AI_KAGA);
       //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
       set_kaga_1;
       set_kaga_2;
@@ -173,7 +173,7 @@ procedure do_setup begin
       //move_to(self_obj, 20307, 0);
       //move_to(dude_obj, 20713, 0);
 
-      wield_obj_critter(self_obj,obj_carrying_pid_obj(self_obj, PID_14MM_PISTOL));
+      wield_obj_critter(self_obj,self_item(PID_14MM_PISTOL));
       //display_msg(mstr(200));
 
 
@@ -187,9 +187,9 @@ procedure do_setup begin
       Critter:=create_object_sid(PID_WEAK_MELEE_GUARD_MALE,0,0,SCRIPT_ECBANDIT);
       add_obj_to_inven(Critter, create_object(PID_SHARP_SPEAR,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,10));
-      wield_obj_critter(Critter,obj_carrying_pid_obj(Critter, PID_SHARP_SPEAR));
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+      wield_obj_critter(Critter,get_item(Critter, PID_SHARP_SPEAR));
+      set_team(Critter,TEAM_RND_KAGA);
+      set_ai(Critter,AI_GENERIC_GUARDS);
       Critter_Rotation:=dude_inv_rot;
       Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
       critter_attempt_placement(Critter,Critter_Tile,0);
@@ -199,9 +199,9 @@ procedure do_setup begin
       add_obj_to_inven(Critter, create_object(PID_10MM_PISTOL,0,0));
       add_obj_to_inven(Critter, create_object(PID_10MM_JHP,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,10));
-      wield_obj_critter(Critter,obj_carrying_pid_obj(Critter, PID_10MM_PISTOL));
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+      wield_obj_critter(Critter,get_item(Critter, PID_10MM_PISTOL));
+      set_team(Critter,TEAM_RND_KAGA);
+      set_ai(Critter,AI_GENERIC_GUARDS);
       Critter_Rotation:=dude_inv_rot;
       Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
       critter_attempt_placement(Critter,Critter_Tile,0);
@@ -210,9 +210,9 @@ procedure do_setup begin
       Critter:=create_object_sid(PID_FEMALE_BANDIT,0,0,SCRIPT_ECBANDIT);
       add_obj_to_inven(Critter, create_object(PID_SHARP_SPEAR,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,10));
-      wield_obj_critter(Critter,obj_carrying_pid_obj(Critter, PID_SHARP_SPEAR));
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_KAGA);
-      critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+      wield_obj_critter(Critter,get_item(Critter, PID_SHARP_SPEAR));
+      set_team(Critter,TEAM_RND_KAGA);
+      set_ai(Critter,AI_GENERIC_GUARDS);
       Critter_Rotation:=dude_inv_rot;
       Critter_Tile:=tile_num_in_direction(self_tile,Critter_Rotation,random(3,4));
       critter_attempt_placement(Critter,Critter_Tile,0);
@@ -250,13 +250,13 @@ procedure critter_p_proc begin
    /*if (local_var(LVAR_Personal_Enemy)) then begin
       if (obj_on_screen(self_obj)) then begin
          if (not anim_busy(self_obj)) then begin
-            animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 5));
+            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 5));
          end
       end else begin
          set_kaga_met;
          destroy_object(self_obj);
       end
-   end else if (obj_can_see_obj(self_obj, dude_obj)) then begin
+   end else if (self_can_see_dude) then begin
       attack(dude_obj);
    end*/
    variable rot;
@@ -264,7 +264,7 @@ procedure critter_p_proc begin
    if (self_visible) then begin
       if (not( is_loading_game ) and not(kaga_2)) then begin
          call do_setup;
-      end else if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 100)) then begin
+      end else if ((self_cur_hits) <= ((self_max_hits) - 100)) then begin
          if not(local_var(LVAR_Defeated)) then begin
             set_local_var(LVAR_Defeated,1);
          end
@@ -272,44 +272,44 @@ procedure critter_p_proc begin
             float_msg(self_obj, mstr(113), FLOAT_MSG_RED);
             set_global_var(GVAR_RND_KAGA_STATE, global_var(GVAR_RND_KAGA_STATE) bwor 64);
             //destroy_object(self_obj);
-            set_obj_visibility(self_obj,1);
+            set_self_invisible;
          end else begin
             if (tile_distance_objs(dude_obj, self_obj) < 15) then begin
                if (anim_busy(self_obj) == 0) then begin
-                  rot := rotation_to_tile(tile_num(dude_obj), tile_num(self_obj));
-                  animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), rot, random(30, 40)), 1);
+                  rot := dude_rotation_to_self;
+                  self_run_to_tile(tile_num_in_direction(self_tile, rot, random(30, 40)));
                   rot := (rot + 1) % 6;
-                  while((anim_busy(self_obj) == 0) and (rot != rotation_to_tile(tile_num(dude_obj), tile_num(self_obj)))) do begin
+                  while((anim_busy(self_obj) == 0) and (rot != dude_rotation_to_self)) do begin
                      ndebug("flee loop: rot == " + rot);
-                     animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), rot, random(30, 40)), 1);
+                     self_run_to_tile(tile_num_in_direction(self_tile, rot, random(30, 40)));
                      rot := (rot + 1) % 6;
                   end
                end
             end else begin
                if (not(anim_busy(self_obj))) then begin
-                  animate_move_obj_to_tile(self_obj, tile_num_in_direction(tile_num(self_obj), rotation_to_tile(tile_num(dude_obj), tile_num(self_obj)), 30), 1);
+                  self_run_to_tile(tile_num_in_direction(self_tile, dude_rotation_to_self, 30));
                end
             end
          end
       end else begin
-         if (not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and obj_can_see_obj(self_obj, dude_obj)) then begin
+         if (not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and self_can_see_dude) then begin
             attack(dude_obj);
          end
       end
    end
 
-   /*if ((get_critter_stat(self_obj,STAT_current_hp)) <= ((get_critter_stat(self_obj,STAT_max_hit_points)) - 100)) then begin
+   /*if ((self_cur_hits) <= ((self_max_hits) - 100)) then begin
       if not(local_var(LVAR_Defeated)) then
          set_local_var(LVAR_Defeated,1);
       if ( ((obj_on_screen(self_obj))) or (self_can_see_dude) ) then begin
          if (not anim_busy(self_obj)) then begin
-            animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 12));
+            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 12));
          end
       end else begin
          set_kaga_met;
          destroy_object(self_obj);
       end
-   end else if ( not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   end else if ( not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        //set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end*/

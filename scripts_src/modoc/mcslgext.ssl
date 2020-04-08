@@ -59,7 +59,7 @@ end
 procedure map_update_p_proc begin
    if (local_var(LVAR_Home_Rot) != self_cur_rot) then begin
       if (anim_busy(self_obj) == false) then begin
-         animate_rotation(rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)));
+         self_rotate(rotation_to_tile(self_tile,local_var(LVAR_Home_Tile)));
       end
    end
 end
@@ -72,8 +72,8 @@ procedure map_enter_p_proc begin
          inc_slag_cnt;
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rot, self_cur_rot);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_SLAG);
+         set_self_ai(AI_TOUGH_GUARD);
       end
    end
 end
@@ -155,12 +155,12 @@ procedure Node001 begin
    script_overrides;
    floater_bad(200);
    if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end
 end
 procedure Node002 begin
    if (self_tile == local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), 2, random(2,4)));
+      self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), 2, random(2,4)));
    end
    floater(210);
 end

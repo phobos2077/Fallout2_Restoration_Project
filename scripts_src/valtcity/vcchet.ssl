@@ -101,8 +101,8 @@ end
 procedure map_enter_p_proc begin
    destroy_object(self_obj);
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 end
 
 
@@ -115,7 +115,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -256,15 +256,15 @@ procedure Node001e begin
    set_global_var(GVAR_VAULT_CITIZEN,CITIZEN_KICKED_OUT);
    set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_KICKED_OUT ) );
    set_global_var(GVAR_VAULT_CITIZENSHIP,0);
-   DayPass_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_DAY_PASS);
+   DayPass_KickOutCount := dude_item_count(PID_DAY_PASS);
    if( DayPass_KickOutCount > 0 ) then begin
-      DayPass_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_DAY_PASS);
+      DayPass_KickOutObj := dude_item(PID_DAY_PASS);
       KickOutTemp := rm_mult_objs_from_inven(dude_obj, DayPass_KickOutObj, DayPass_KickOutCount );
       destroy_object(DayPass_KickOutObj); //added by killap
    end
-   CitizenPapers_KickOutCount := obj_is_carrying_obj_pid(dude_obj, PID_FAKE_CITIZENSHIP);
+   CitizenPapers_KickOutCount := dude_item_count(PID_FAKE_CITIZENSHIP);
    if( CitizenPapers_KickOutCount > 0 ) then begin
-      CitizenPapers_KickOutObj := obj_carrying_pid_obj(dude_obj, PID_FAKE_CITIZENSHIP);
+      CitizenPapers_KickOutObj := dude_item(PID_FAKE_CITIZENSHIP);
       KickOutTemp := rm_mult_objs_from_inven(dude_obj, CitizenPapers_KickOutObj, CitizenPapers_KickOutCount );
       destroy_object(CitizenPapers_KickOutObj); //added by killap
    end
@@ -307,7 +307,7 @@ procedure Node003a begin
    variable party_member;
 
    party_member := create_object_sid(PID_MARCUS, 0, 0, SCRIPT_HCMARCUS );
-   critter_attempt_placement( party_member, tile_num( self_obj ), 0 );
+   critter_attempt_placement( party_member, self_tile, 0 );
    party_add( party_member );
 end
 
@@ -315,7 +315,7 @@ procedure Node003b begin
    variable party_member;
 
    party_member := create_object_sid(PID_LENNY, 0, 0, SCRIPT_GCLENNY );
-   critter_attempt_placement( party_member, tile_num( self_obj ), 0 );
+   critter_attempt_placement( party_member, self_tile, 0 );
    party_add( party_member );
 end
 
@@ -323,7 +323,7 @@ procedure Node003c begin
    variable party_member;
 
    party_member := create_object_sid(PID_VIC, 0, 0, SCRIPT_DCVIC );
-   critter_attempt_placement( party_member, tile_num( self_obj ), 0 );
+   critter_attempt_placement( party_member, self_tile, 0 );
    party_add( party_member );
 end
 
@@ -331,7 +331,7 @@ procedure Node003d begin
    variable party_member;
 
    party_member := create_object_sid(PID_MYRON, 0, 0, SCRIPT_NHMYRON );
-   critter_attempt_placement( party_member, tile_num( self_obj ), 0 );
+   critter_attempt_placement( party_member, self_tile, 0 );
    party_add( party_member );
 end
 //xxxxxxxxxxxxxxxxxxxx

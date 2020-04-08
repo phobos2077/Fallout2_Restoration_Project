@@ -169,8 +169,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_ELRONS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_OZ7);
+   set_self_team(TEAM_SAN_FRAN_ELRONS);
+   set_self_ai(AI_SF_OZ7);
    if (not is_loading_game) then begin
       if (Only_Once == 0) then begin
          set_map_var(MVAR_Force_Fields_Lower, 0);
@@ -189,7 +189,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -798,12 +798,12 @@ procedure doAdjust begin
 
    reg_anim_clear(dude_obj);
    reg_anim_begin();
-   anim(dude_obj, ANIMATE_ROTATION, DUDE_ADJUST_ROT);
+   dude_rotate(DUDE_ADJUST_ROT);
    reg_anim_end();
 
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   anim(self_obj, ANIMATE_ROTATION, OZ7_ADJUST_ROT);
+   self_rotate(OZ7_ADJUST_ROT);
    reg_anim_end();
    fadein(1);
 
@@ -849,7 +849,7 @@ procedure doAdjustEnd begin
    move_to(self_obj, self_last_tile, 0);
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   anim(self_obj, ANIMATE_ROTATION, self_last_rot);
+   self_rotate(self_last_rot);
    reg_anim_end();
    ndebug("FCOZ7: enabling ui");
    game_ui_enable;

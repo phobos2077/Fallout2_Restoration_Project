@@ -126,7 +126,7 @@ procedure timed_event_p_proc begin
          set_local_var(LVAR_status,4);
       end
       else if (local_var(LVAR_status) == 4) then begin
-         anim(quincy_ptr, ANIMATE_ROTATION, 2); //quincy faces raul
+         obj_rotate(quincy_ptr, 2); //quincy faces raul
          float_msg(quincy_ptr, message_str(SCRIPT_CCQUINCY,201),FLOAT_MSG_RED);
          set_local_var(LVAR_status,5);
       end
@@ -134,8 +134,8 @@ procedure timed_event_p_proc begin
          set_local_var(LVAR_status,6);
       end
       else if (local_var(LVAR_status) == 11) then begin
-         anim(quincy_ptr, ANIMATE_ROTATION, 0); //quincy faces locker
-         anim(self_obj, ANIMATE_ROTATION, 0); //raul faces locker
+         obj_rotate(quincy_ptr, 0); //quincy faces locker
+         self_rotate(0); //raul faces locker
          set_local_var(LVAR_status,12);
          set_map_var(MVAR_Fight,0);
       end
@@ -177,11 +177,11 @@ end
 procedure map_enter_p_proc begin
    raul_ptr := self_obj;
    if (local_var(LVAR_home) == 0) then begin
-      set_local_var(LVAR_home, tile_num(self_obj));
+      set_local_var(LVAR_home, self_tile);
    end
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 end
 
 procedure map_update_p_proc begin
@@ -189,14 +189,14 @@ procedure map_update_p_proc begin
 end
 
 procedure find_way begin
-   myhex:=tile_num(self_obj);
+   myhex:=self_tile;
    if (myhex == local_var(LVAR_next_hex)) then begin
       if (local_var(LVAR_WAYPOINT) < 9) then begin
          set_local_var(LVAR_WAYPOINT, local_var(LVAR_WAYPOINT)+1);
       end
       else begin
          set_map_var(MVAR_Argument,1);
-         animate_rotation(5); //face quincy
+         self_rotate(5); //face quincy
          floater(200);
          set_local_var(LVAR_status,2); //turn off walk over to quincy
       end
@@ -228,11 +228,11 @@ procedure find_way begin
    else if (local_var(LVAR_WAYPOINT) == 9) then begin
       set_local_var(LVAR_next_hex, HEX_NIN);
    end
-   animate_move_to_tile(local_var(LVAR_next_hex));
+   self_walk_to_tile(local_var(LVAR_next_hex));
 end
 
 procedure go_back begin
-   myhex:=tile_num(self_obj);
+   myhex:=self_tile;
    if (myhex == local_var(LVAR_home)) then begin
       set_local_var(LVAR_status,10);
    end
@@ -271,7 +271,7 @@ procedure go_back begin
    else if (local_var(LVAR_WAYPOINT) == 9) then begin
       set_local_var(LVAR_next_hex, HEX_NIN);
    end
-   animate_move_to_tile(local_var(LVAR_next_hex));
+   self_walk_to_tile(local_var(LVAR_next_hex));
 end
 
 procedure process_status begin
@@ -317,7 +317,7 @@ procedure critter_p_proc begin
    else if (local_var(LVAR_status) == 3) then begin
    end
 */
-   else if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   else if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          call Node012;
          set_local_var(LVAR_Hostile,1);

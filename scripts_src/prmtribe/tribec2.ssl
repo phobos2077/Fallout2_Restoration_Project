@@ -146,9 +146,9 @@ end
 procedure map_enter_p_proc begin
    if ((Fallout2_enclave_destroyed) and (local_var(LVAR_Gave_SMG) == 2)) then begin
      move_to(self_obj,22921,1);
-     set_obj_visibility(self_obj,0); // go vis
+     set_self_visible; // go vis
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
 
@@ -253,7 +253,7 @@ begin
    variable newtile;
    if (not(Fallout2_enclave_destroyed) and local_var(LVAR_Gave_SMG) == 2) then begin
      if ( self_visible and not(obj_on_screen(self_obj)) or (self_tile == RUN_TILE) ) then begin
-       set_obj_visibility(self_obj,1); // go invis
+       set_self_invisible; // go invis
      end else begin
        anim_run_to_point(RUN_TILE)
      end
@@ -276,7 +276,7 @@ end
 /* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
    exit from the dialog system without any reprisals from the NPC. */
 procedure Node999 begin
-   if ( (global_var(GVAR_FIXTRIBE_WELL) >= 6) and (obj_is_carrying_obj_pid(dude_obj,PID_10MM_SMG)) and (local_var(LVAR_Gave_SMG) == 0)) then begin
+   if ( (global_var(GVAR_FIXTRIBE_WELL) >= 6) and (dude_item_count(PID_10MM_SMG)) and (local_var(LVAR_Gave_SMG) == 0)) then begin
       call Node011;
    end
 end
@@ -338,7 +338,7 @@ begin
 	//gsay_reply(1306, 130);
 	Reply(130);
 	//giq_option(4, 1306, 131, Node003a, 50);
-	if (obj_is_carrying_obj_pid(dude_obj,PID_ROPE)) then
+	if (dude_item_count(PID_ROPE)) then
       NOption(132,Node003a,004);
    else
       NOption(131,Node003a,004);
@@ -386,8 +386,8 @@ procedure Node006b
 begin
 	set_global_var(GVAR_FIXTRIBE_WELL,6);
    give_xp(EXP_TRIBE_WELL_BAD);
-   if (tile_contains_obj_pid(22919,elevation(self_obj),PID_BUCKET)) then begin
-      destroy_object(tile_contains_pid_obj(22919,elevation(self_obj),PID_BUCKET));
+   if (tile_contains_obj_pid(22919,self_elevation,PID_BUCKET)) then begin
+      destroy_object(tile_contains_pid_obj(22919,self_elevation,PID_BUCKET));
    end
    Reply(300);
 
@@ -433,7 +433,7 @@ begin
 	set_global_var(GVAR_FIXTRIBE_WELL,6);
 	display_msg(mstr(1000));
    give_xp(EXP_TRIBE_WELL_GOOD);
-   item_caps_adjust(dude_obj, 150);
+   dude_caps_adjust(150);
 
 	Reply(330);
 	BOption(331,Node999,004);
@@ -451,7 +451,7 @@ begin
    inc_general_rep(REP_TOWN_TRIBE_WELL);
    //set_global_var((65),global_var((65))+5);
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 5);
-   item_caps_adjust(dude_obj, 150);
+   dude_caps_adjust(150);
 end
 
 procedure combat_p_proc

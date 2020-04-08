@@ -109,21 +109,21 @@ end
 
 procedure pickup_p_proc begin
    call signal_critter;
-   if (tile_num(self_obj) == COMMANDER_LOCKER) then begin
+   if (self_tile == COMMANDER_LOCKER) then begin
       if (global_var(GVAR_NAVARRO_FOB) < NAVARRO_HAVE_FOB) then begin
          display_msg(mstr(800));
          give_xp(EXP_RETRIEVE_FOB);
          set_global_var(GVAR_NAVARRO_FOB, NAVARRO_HAVE_FOB);
       end
    end
-   if (tile_num(self_obj) == QUINCY_LOCKER) then begin
+   if (self_tile == QUINCY_LOCKER) then begin
       if (local_var(LVAR_got_plans) == 0) then begin
          set_local_var(LVAR_got_plans,1);
          display_msg(mstr(810));
          give_xp(EXP_RETRIEVE_PLANS);
       end
    end
-   if (tile_num(self_obj) == RAUL_LOCKER) then begin
+   if (self_tile == RAUL_LOCKER) then begin
       if (local_var(LVAR_got_part) == 0) then begin
          set_local_var(LVAR_got_part,1);
          display_msg(mstr(820));
@@ -139,21 +139,21 @@ procedure signal_critter begin
    //if raul has said ok to take k9 part
    if (map_var(MVAR_Take_It) == 1) then begin
       //only want to open up one locker...not all lockers in Navarro
-      if (tile_num(self_obj) == RAUL_LOCKER) then begin
+      if (self_tile == RAUL_LOCKER) then begin
          set_local_var(LVAR_Locked, STATE_INACTIVE);
       end
    end
    //if commander has given fob then this locker is open
    if (map_var(MVAR_Open_Sesame) == 1) then begin
       //only want to open up one locker...not all lockers in Navarro
-      if (tile_num(self_obj) == COMMANDER_LOCKER) then begin
+      if (self_tile == COMMANDER_LOCKER) then begin
          set_local_var(LVAR_Locked, STATE_INACTIVE);
       end
    end
    //if quincy has given plans then this locker is open
    if (map_var(MVAR_See_Me) == 1) then begin
       //only want to open up one locker...not all lockers in Navarro
-      if (tile_num(self_obj) == QUINCY_LOCKER) then begin
+      if (self_tile == QUINCY_LOCKER) then begin
          set_local_var(LVAR_Locked, STATE_INACTIVE);
       end
    end
@@ -282,7 +282,7 @@ procedure Pry_It begin
        end
 
        else begin
-           if (get_critter_stat(source_obj,STAT_gender) == GENDER_MALE) then begin
+           if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
                    display_msg(mstr(182));
                end

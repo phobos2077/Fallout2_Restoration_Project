@@ -99,7 +99,7 @@ end
 procedure use_p_proc begin
    variable Damage;
 
-   if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
            floater(110); //added by killap
@@ -329,7 +329,7 @@ end
 procedure Node018 begin
    Reply(mstr(189));
 
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 75) then
+   if (has_skill(dude_obj,SKILL_SPEECH) > 75) then
        NOption(194,Node019,004);
    NOption(195,Node018a,004);
 end
@@ -406,6 +406,6 @@ procedure Node998 begin
    set_map_var(MVAR_Security_Level_3,1);
    set_map_var(MVAR_Skynet_Battle_3,1);
    set_global_var(GVAR_SIERRA_BASE_ENEMY,1);
-   obj_close(tile_contains_pid_obj(16282,dude_elevation,33554450)); //close door to room -added by killap
+   obj_close(tile_contains_pid_obj(16282,dude_elevation,PID_NS_NAVARRO_BUNKER_DOOR)); //close door to room -added by killap
 
 end

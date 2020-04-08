@@ -122,8 +122,8 @@ procedure Node043;
 #define good_box                       lvar_bit(LVAR_Flags, good_box_bit)
 #define set_good_box                   set_lvar_bit_on(LVAR_Flags, good_box_bit)
 
-#define has_good_box                   (obj_is_carrying_obj_pid(dude_obj, PID_RAMIREZ_BOX_CLOSED))
-#define has_bad_box                    (obj_is_carrying_obj_pid(dude_obj, PID_RAMIREZ_BOX_OPEN))
+#define has_good_box                   (dude_item_count(PID_RAMIREZ_BOX_CLOSED))
+#define has_bad_box                    (dude_item_count(PID_RAMIREZ_BOX_OPEN))
 #define dude_has_delivery              ((has_good_box) or (has_bad_box))
 #define remove_delivery                if (has_good_box) then begin                             \
                                           set_good_box;                                         \
@@ -189,8 +189,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_MORDINO);
+         set_self_ai(AI_TOUGH_GUARD);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
       call_warning_loop;

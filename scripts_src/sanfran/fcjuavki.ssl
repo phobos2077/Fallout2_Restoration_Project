@@ -178,11 +178,11 @@ procedure map_enter_p_proc begin
       set_map_var(MVAR_Talk_Sequence, TALK_DONE);
    //end killap code
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_ELRONS);
+   set_self_team(TEAM_SAN_FRAN_ELRONS);
    if (self_is_male) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_RON_CRUZ);
+      set_self_ai(AI_SF_RON_CRUZ);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_NIKKI_GOLDMAN);
+      set_self_ai(AI_SF_NIKKI_GOLDMAN);
    if (not is_loading_game) then begin
       call checkLoadPos;
    end
@@ -199,7 +199,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) > 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) > 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -224,7 +224,7 @@ procedure critter_p_proc begin
             if (not anim_busy(self_obj)) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
-               animate_move_to_tile(REAL_TILE_HIM);
+               self_walk_to_tile(REAL_TILE_HIM);
                reg_anim_end();
             end
          end
@@ -233,7 +233,7 @@ procedure critter_p_proc begin
             if (not anim_busy(self_obj) and self_tile != HER_ADJUST_TILE) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
-               animate_move_to_tile(REAL_TILE_HER);
+               self_walk_to_tile(REAL_TILE_HER);
                reg_anim_end();
             end
          end
@@ -243,7 +243,7 @@ procedure critter_p_proc begin
    if (self_tile == REAL_TILE_HIM and self_is_male) then begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_begin();
-         animate_rotation(3);
+         self_rotate(3);
          reg_anim_end();
       end
    end
@@ -251,7 +251,7 @@ procedure critter_p_proc begin
    if (self_tile == REAL_TILE_HER and self_is_female) then begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_begin();
-         animate_rotation(2);
+         self_rotate(2);
          reg_anim_end();
       end
    end
@@ -572,7 +572,7 @@ end
 procedure NodeJoin begin
    callIndoctranation := 1;
    //add_obj_to_inven(dude_obj, create_object_sid(ELRON_HOLO_PID,0,0, SCRIPT_FIELRDSK));
-   add_obj_to_inven(dude_obj, create_object_sid(ELRON_HOLO_PID,0,0, -1)); //edit by killap - this is now done through the dude_obj script; part of the too many items fix
+   add_obj_to_inven(dude_obj, create_object(ELRON_HOLO_PID,0,0)); //edit by killap - this is now done through the dude_obj script; part of the too many items fix
 end
 
 procedure Node016 begin
@@ -738,14 +738,14 @@ procedure doEndSequence begin
       if (not combat_is_initialized and not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(REAL_TILE_HIM);
+         self_walk_to_tile(REAL_TILE_HIM);
          reg_anim_end();
       end
    end else begin
       if (not combat_is_initialized and not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(REAL_TILE_HER);
+         self_walk_to_tile(REAL_TILE_HER);
          reg_anim_end();
       end
    end*/
@@ -795,17 +795,17 @@ procedure doAdjust begin
 
    reg_anim_clear(dude_obj);
    reg_anim_begin();
-   anim(dude_obj, ANIMATE_ROTATION, DUDE_ADJUST_ROT);
+   dude_rotate(DUDE_ADJUST_ROT);
    reg_anim_end();
 
    reg_anim_clear(i_he_obj);
    reg_anim_begin();
-   anim(self_obj, ANIMATE_ROTATION, HIM_ADJUST_ROT);
+   self_rotate(HIM_ADJUST_ROT);
    reg_anim_end();
 
    reg_anim_clear(i_she_obj);
    reg_anim_begin();
-   anim(self_obj, ANIMATE_ROTATION, HER_ADJUST_ROT);
+   self_rotate(HER_ADJUST_ROT);
    reg_anim_end();
 
    fadein(1);
@@ -854,17 +854,17 @@ procedure doAdjustEnd begin
 
 /*   reg_anim_clear(dude_obj);
    reg_anim_begin();
-   anim(dude_obj, ANIMATE_ROTATION, dude_last_rot);
+   dude_rotate(dude_last_rot);
    reg_anim_end();*/
 
    reg_anim_clear(i_he_obj);
    reg_anim_begin();
-   anim(i_he_obj, ANIMATE_ROTATION, him_last_rot);
+   obj_rotate(i_he_obj, him_last_rot);
    reg_anim_end();
 
    reg_anim_clear(i_she_obj);
    reg_anim_begin();
-   anim(i_she_obj, ANIMATE_ROTATION, her_last_rot);
+   obj_rotate(i_she_obj, her_last_rot);
    reg_anim_end();
 
    game_ui_enable;

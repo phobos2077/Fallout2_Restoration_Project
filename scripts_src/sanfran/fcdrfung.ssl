@@ -143,8 +143,8 @@ procedure map_enter_p_proc begin
    //end added
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_SHI);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_SHI);
+   set_self_team(TEAM_SAN_FRAN_SHI);
+   set_self_ai(AI_SF_SHI);
 
    //added by killap - fix for game_time going negative after 7 years
    if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
@@ -172,7 +172,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -374,8 +374,8 @@ end
 
 procedure Node2217a begin
    if (dude_caps >= 100) then begin
-      item_caps_adjust(dude_obj, -100);
-      item_caps_adjust(self_obj, 100);
+      dude_caps_adjust(-100);
+      self_caps_adjust(100);
       critter_heal(dude_obj, -(dude_cur_hits - dude_max_hits));
       call Node022;
    end else begin
@@ -385,8 +385,8 @@ end
 
 procedure Node2217b begin
    if (dude_caps >= 200) then begin
-      item_caps_adjust(dude_obj, -200);
-      item_caps_adjust(self_obj, 200);
+      dude_caps_adjust(-200);
+      self_caps_adjust(200);
       critter_heal(dude_obj, -(dude_cur_hits - dude_max_hits));
       call Node022;
    end else begin
@@ -396,8 +396,8 @@ end
 
 procedure Node2217c begin
    if (dude_caps >= 300) then begin
-      item_caps_adjust(dude_obj, -300);
-      item_caps_adjust(self_obj, 300);
+      dude_caps_adjust(-300);
+      self_caps_adjust(300);
       critter_heal(dude_obj, -(dude_cur_hits - dude_max_hits));
       call Node022;
    end else begin
@@ -407,8 +407,8 @@ end
 
 procedure Node2217d begin
    if (dude_caps >= 400) then begin
-      item_caps_adjust(dude_obj, -400);
-      item_caps_adjust(self_obj, 400);
+      dude_caps_adjust(-400);
+      self_caps_adjust(400);
       critter_heal(dude_obj, -(dude_cur_hits - dude_max_hits));
       call Node022;
    end else begin
@@ -418,8 +418,8 @@ end
 
 procedure Node2217e begin
    if (dude_caps >= 600) then begin
-      item_caps_adjust(dude_obj, -600);
-      item_caps_adjust(self_obj, 600);
+      dude_caps_adjust(-600);
+      self_caps_adjust(600);
       critter_uninjure(dude_obj, DAM_CRIP_LEG_LEFT BWOR DAM_CRIP_LEG_RIGHT BWOR DAM_CRIP_ARM_LEFT BWOR DAM_CRIP_ARM_RIGHT);
       critter_heal(dude_obj, -(dude_cur_hits - dude_max_hits));
       call Node022;
@@ -516,8 +516,8 @@ end
 
 procedure Node3031a begin
    if (dude_caps >= 1000) then begin
-      item_caps_adjust(dude_obj, -1000);
-      item_caps_adjust(self_obj, 1000);
+      dude_caps_adjust(-1000);
+      self_caps_adjust(1000);
       set_spleen_flag(SP_FUNGCHARGE);
       call Node030;
    end else begin
@@ -620,13 +620,13 @@ procedure Node034 begin
 
    NOption(208, Node035, 4);
 
-   if (not(has_trait(TRAIT_PERK,dude_obj,PERK_dermal_armor_perk)) and not(has_trait(TRAIT_PERK,dude_obj,PERK_dermal_enhancement_perk))) then
+   if (not(dude_perk(PERK_dermal_armor_perk)) and not(dude_perk(PERK_dermal_enhancement_perk))) then
       NOption(209, Node036, 4);
-   else if (not(has_trait(TRAIT_PERK,dude_obj,PERK_dermal_enhancement_perk))) then
+   else if (not(dude_perk(PERK_dermal_enhancement_perk))) then
       NOption(210, Node037, 4);
-   if (not(has_trait(TRAIT_PERK,dude_obj,PERK_phoenix_armor_perk)) and not(has_trait(TRAIT_PERK,dude_obj,PERK_phoenix_enhancement_perk))) then
+   if (not(dude_perk(PERK_phoenix_armor_perk)) and not(dude_perk(PERK_phoenix_enhancement_perk))) then
       NOption(211, Node038, 4);
-   else if (not(has_trait(TRAIT_PERK,dude_obj,PERK_phoenix_enhancement_perk))) then
+   else if (not(dude_perk(PERK_phoenix_enhancement_perk))) then
       NOption(212, Node039, 4);
    NOption(213, Node022, 4);
    NOption(214, Node999, 4);
@@ -636,13 +636,13 @@ procedure Node035 begin
    Reply(215);
    //216 looks like a screw up
 
-    if (not(has_trait(TRAIT_PERK,dude_obj,PERK_dermal_armor_perk)) and not(has_trait(TRAIT_PERK,dude_obj,PERK_dermal_enhancement_perk))) then
+    if (not(dude_perk(PERK_dermal_armor_perk)) and not(dude_perk(PERK_dermal_enhancement_perk))) then
       NOption(217, Node036, 4);
-   else if (not(has_trait(TRAIT_PERK,dude_obj,PERK_dermal_enhancement_perk))) then
+   else if (not(dude_perk(PERK_dermal_enhancement_perk))) then
       NOption(218, Node037, 4);
-   if (not(has_trait(TRAIT_PERK,dude_obj,PERK_phoenix_armor_perk)) and not(has_trait(TRAIT_PERK,dude_obj,PERK_phoenix_enhancement_perk))) then
+   if (not(dude_perk(PERK_phoenix_armor_perk)) and not(dude_perk(PERK_phoenix_enhancement_perk))) then
       NOption(219, Node038, 4);
-   else if (not(has_trait(TRAIT_PERK,dude_obj,PERK_phoenix_enhancement_perk))) then
+   else if (not(dude_perk(PERK_phoenix_enhancement_perk))) then
       NOption(220, Node039, 4);
    NOption(221, Node022, 4);
    NOption(222, Node999, 4);
@@ -652,14 +652,14 @@ procedure NodeDoDermal begin
    variable item;
 
    if (dude_caps > 5500 and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) ) then begin
-      item_caps_adjust(dude_obj,-5500);
+      dude_caps_adjust(-5500);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR);
+         item:=dude_item(PID_COMBAT_ARMOR);
       //added by killap
       else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR_MK_II);
+         item:=dude_item(PID_COMBAT_ARMOR_MK_II);
       else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_BROTHERHOOD_COMBAT_ARMOR);
+         item:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
       //end added by killap
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item);
@@ -677,14 +677,14 @@ procedure NodeDoDermalUpgrade begin
    variable item;
 
    if (dude_caps > 33000 and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then begin
-      item_caps_adjust(dude_obj,-33000);
+      dude_caps_adjust(-33000);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR);
+         item:=dude_item(PID_COMBAT_ARMOR);
       //added by killap
       else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR_MK_II);
+         item:=dude_item(PID_COMBAT_ARMOR_MK_II);
       else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_BROTHERHOOD_COMBAT_ARMOR);
+         item:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
       //end added by killap
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item);
@@ -703,14 +703,14 @@ procedure NodeDoPhoenix begin
    variable item;
 
    if (dude_caps > 8500 and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then begin
-      item_caps_adjust(dude_obj,-8500);
+      dude_caps_adjust(-8500);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR);
+         item:=dude_item(PID_COMBAT_ARMOR);
       //added by killap
       else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR_MK_II);
+         item:=dude_item(PID_COMBAT_ARMOR_MK_II);
       else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_BROTHERHOOD_COMBAT_ARMOR);
+         item:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
       //end added by killap
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item);
@@ -728,14 +728,14 @@ procedure NodeDoPhoenixUprade begin
    variable item;
 
    if (dude_caps > 49000 and (dude_item(PID_COMBAT_ARMOR) or dude_item(PID_COMBAT_ARMOR_MK_II) or dude_item(PID_BROTHERHOOD_COMBAT_ARMOR))) then begin
-      item_caps_adjust(dude_obj,-49000);
+      dude_caps_adjust(-49000);
       if (dude_item(PID_COMBAT_ARMOR)) then//added check - killap
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR);
+         item:=dude_item(PID_COMBAT_ARMOR);
       //added by killap
       else if (dude_item(PID_COMBAT_ARMOR_MK_II)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_COMBAT_ARMOR_MK_II);
+         item:=dude_item(PID_COMBAT_ARMOR_MK_II);
       else if (dude_item(PID_BROTHERHOOD_COMBAT_ARMOR)) then
-         item:=obj_carrying_pid_obj(dude_obj,PID_BROTHERHOOD_COMBAT_ARMOR);
+         item:=dude_item(PID_BROTHERHOOD_COMBAT_ARMOR);
       //end added by killap
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item);

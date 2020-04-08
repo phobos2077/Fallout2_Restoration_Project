@@ -39,7 +39,7 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    // Give unique messages to woman with note.
-   if( tile_num( self_obj ) == 18453 ) then
+   if( self_tile == 18453) then
       display_msg( mstr(102) );
    else
       display_msg( mstr(100) );
@@ -48,8 +48,8 @@ end
 procedure description_p_proc begin
    script_overrides;
    // Give unique messages to woman with note.
-   if( tile_num( self_obj ) == 18453 ) then begin
-      if( obj_is_carrying_obj_pid( self_obj, PID_MEMO_FROM_FRANCIS ) > 0 ) then
+   if( self_tile == 18453) then begin
+      if( self_item_count( PID_MEMO_FROM_FRANCIS) > 0) then
          display_msg( mstr(103) );
       else
          display_msg( mstr(104) );

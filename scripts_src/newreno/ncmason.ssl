@@ -192,8 +192,8 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Patience, 5);
          nr_add_timer_event_rand(self_obj, 5, 5 + (self_can_see_dude*20), float_param);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_SALVATORE);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+         set_self_team(TEAM_NEW_RENO_SALVATORE);
+         set_self_ai(AI_GENERIC_GUARDS);
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
@@ -218,9 +218,9 @@ procedure critter_p_proc begin
          Follow_Dude(1,1)
       end
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -340,7 +340,7 @@ procedure Node989 begin
    dec_patience;
    if (has_patience == false) then begin
       call Node016;
-   end else if ((dude_smooth_talker) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0)))) then begin
+   end else if ((dude_smooth_talker) or (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0)))) then begin
       call Node009;
    end else begin
       call Node008;
@@ -470,7 +470,7 @@ procedure Node007 begin
    Reply(250 + (salvatore_known == false));
    set_salvatore_known
    BOption(252, Node010, 004);
-   if ((dude_charisma > 5) or (dude_iq > 5) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75) or (dude_smooth_talker)) then begin
+   if ((dude_charisma > 5) or (dude_iq > 5) or (has_skill(dude_obj, SKILL_SPEECH) > 75) or (dude_smooth_talker)) then begin
       BOption(253, Node989, 004);
    end
    if ((know_lasers) and (get_salvatore_pistol(salvatore_pistol_none))) then begin
@@ -819,7 +819,7 @@ procedure Node049 begin
    BOption(698, Node048, 004);
    if (get_salvatore_pistol(salvatore_pistol_mason)) then begin
       BOption(642, Node045, 004);
-   end else if ((get_salvatore_pistol(salvatore_pistol_received)) and (obj_is_carrying_obj_pid(dude_obj, PID_LASER_PISTOL)>1) and (taught == false) and (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) ) then begin //added (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) - killap
+   end else if ((get_salvatore_pistol(salvatore_pistol_received)) and (dude_item_count(PID_LASER_PISTOL)>1) and (taught == false) and (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) ) then begin //added (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) - killap
       BOption(699, Node052, 004);
    end
    prev_node := 49;
@@ -834,7 +834,7 @@ procedure Node051 begin
    Reply(715);
    BOption(696, Node046, 004);
    NOption(697, Node047, 004);
-   if ((get_salvatore_pistol(salvatore_pistol_received)) and (obj_is_carrying_obj_pid(dude_obj, PID_LASER_PISTOL)>1) and (taught == false) and (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) ) then begin //added (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) - killap
+   if ((get_salvatore_pistol(salvatore_pistol_received)) and (dude_item_count(PID_LASER_PISTOL)>1) and (taught == false) and (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) ) then begin //added (has_skill(dude_obj, SKILL_ENERGY_WEAPONS) <= 295) - killap
       BOption(699, Node052, 004);
    end
    BOption(698, Node048, 004);
@@ -862,13 +862,13 @@ procedure Node053 begin
       if (local_var(LVAR_Patience) > 4) then begin
          give_pid_qty(dude_obj, PID_METAL_ARMOR_MK_II, 1)
          give_pid_qty(dude_obj, PID_SMALL_ENERGY_CELL, 2)
-         item_caps_adjust(dude_obj, 300);
+         dude_caps_adjust(300);
       end else begin
          give_pid_qty(dude_obj, PID_METAL_ARMOR, 1)
-         item_caps_adjust(dude_obj, 150);
+         dude_caps_adjust(150);
       end
    end else begin
-      item_caps_adjust(dude_obj, 50);
+      dude_caps_adjust(50);
    end
    Reply(mstr(735) + made_man_name + mstr(5735));
    NOption(736, Node054, 001);

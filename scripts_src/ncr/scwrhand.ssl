@@ -97,8 +97,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_WESTIN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_NCR_WESTIN);
+   set_self_ai(AI_GENERIC_GUARDS);
    starttile := self_tile;
    add_timer_event(self_obj, 0, TIMER_MOVE);
 end
@@ -113,7 +113,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0 or ncr_flag(NCR_WESTIN_ENEMY)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0 or ncr_flag(NCR_WESTIN_ENEMY)) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -228,7 +228,7 @@ procedure MoveMe begin
 
    reg_anim_clear(self_obj);
    reg_anim_begin();
-   animate_move_to_tile(tile);
+   self_walk_to_tile(tile);
    reg_anim_end();
    add_timer_event(self_obj, Random(0, 6) * ONE_GAME_MINUTE, TIMER_MOVE);
 end

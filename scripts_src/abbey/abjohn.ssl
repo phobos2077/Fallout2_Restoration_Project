@@ -55,7 +55,7 @@ procedure start begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 end
@@ -102,7 +102,7 @@ procedure damage_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ABBEY);
+   set_self_team(TEAM_ABBEY);
 end
 
 procedure map_update_p_proc begin
@@ -152,7 +152,7 @@ end
 
 procedure Node005 begin
  Reply(406);
- if ((obj_is_carrying_obj_pid(dude_obj,PID_HEART_PILLS))) then
+ if ((dude_item_count(PID_HEART_PILLS))) then
    NOption(407,Node006,4);
  NOption(408,Node999,4);
 end
@@ -167,7 +167,7 @@ end
 
 procedure Node007a begin
 variable item;
- item:=obj_carrying_pid_obj(dude_obj, PID_HEART_PILLS);
+ item:=dude_item(PID_HEART_PILLS);
       rm_obj_from_inven(dude_obj,item);
       add_obj_to_inven(self_obj,item);
       set_local_var(LVAR_heart, 1);
@@ -180,7 +180,7 @@ end
 
 procedure Node007b begin
 variable item;
-  item:=obj_carrying_pid_obj(dude_obj, PID_HEART_PILLS);
+  item:=dude_item(PID_HEART_PILLS);
       rm_obj_from_inven(dude_obj,item);
       add_obj_to_inven(self_obj,item);
       set_local_var(LVAR_heart, 2);

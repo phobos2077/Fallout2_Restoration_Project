@@ -32,14 +32,14 @@ begin
   if (source_obj == dude_obj) then begin
     if ( (map_var(MVAR_Gave_Float) == 0) and (local_var(LVAR_Herebefore) == 0) ) then begin
       if ( (tile_distance(19268, dude_tile) <= 1) and (dude_elevation == 1) ) then begin
-         display_msg(message_str(NAME, 100));
-         float_msg(dude_obj, message_str(NAME, 102), FLOAT_MSG_YELLOW);
+         display_msg(mstr(100));
+         float_msg(dude_obj, mstr(102), FLOAT_MSG_YELLOW);
       end else if ( (tile_distance(19303, dude_tile) <= 1) and (dude_elevation == 1) ) then begin
-         display_msg(message_str(NAME, 100));
-         float_msg(dude_obj, message_str(NAME, 103), FLOAT_MSG_YELLOW);
+         display_msg(mstr(100));
+         float_msg(dude_obj, mstr(103), FLOAT_MSG_YELLOW);
       end else begin
-         display_msg(message_str(NAME, 100));
-         float_msg(dude_obj, message_str(NAME, 101), FLOAT_MSG_YELLOW);
+         display_msg(mstr(100));
+         float_msg(dude_obj, mstr(101), FLOAT_MSG_YELLOW);
       end
       set_local_var(LVAR_Herebefore, 1);
       set_map_var(MVAR_Gave_Float,1);

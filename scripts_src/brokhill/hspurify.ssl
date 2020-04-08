@@ -177,7 +177,7 @@ procedure use_obj_on_p_proc begin
          display_msg( mstr(130) );
       end
       else begin
-         item := obj_carrying_pid_obj(dude_obj, PID_MINE_PART);
+         item := dude_item(PID_MINE_PART);
          rm_obj_from_inven(dude_obj, item);
          destroy_object(item);
          display_msg( mstr(120) );
@@ -193,7 +193,7 @@ procedure use_obj_on_p_proc begin
    // Check to see if the player is trying to blow up the machine.
    else if(Tool == PID_EXPLOSIVE_SWITCH) then begin
       script_overrides;
-      item := obj_carrying_pid_obj(dude_obj, PID_EXPLOSIVE_SWITCH);
+      item := dude_item(PID_EXPLOSIVE_SWITCH);
       rm_obj_from_inven(dude_obj, item);
       destroy_object(item);
 

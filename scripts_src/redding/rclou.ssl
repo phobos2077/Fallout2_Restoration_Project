@@ -133,8 +133,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MALAMUTE_SALOON);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_MALAMUTE_SALOON);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -147,11 +147,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -307,7 +307,7 @@ procedure Node001 begin
        NOption(116,Node014,004);
 
    // Begin Seraph's Code - expansion
-   if ( (not(fannie_cured)) and (obj_is_carrying_obj_pid(dude_obj,PID_JET_ANTIDOTE)) and (map_var(MVAR_Fannie_Mae) == FANNIE_MONEY_GIVEN) ) then
+   if ( (not(fannie_cured)) and (dude_item_count(PID_JET_ANTIDOTE)) and (map_var(MVAR_Fannie_Mae) == FANNIE_MONEY_GIVEN) ) then
       GOption(310,Node030,004);
    // End Seraph's Code
 
@@ -325,7 +325,7 @@ end
 procedure Node003 begin
    Reply(121);
 
-   if (item_caps_total(dude_obj) > 24) then
+   if (dude_caps > 24) then
        NLowOption(122,Node003a);
    NLowOption(123,Node004);
    NLowOption(124,Node999);
@@ -337,8 +337,8 @@ procedure Node003a begin
 
    money:=23+random(1,6)+random(1,6);
 
-   item_caps_adjust(dude_obj,-money);
-   item_caps_adjust(self_obj,money/2);
+   dude_caps_adjust(-money);
+   self_caps_adjust(money/2);
 
    item:=create_object(PID_BEER,0,0);
    add_mult_objs_to_inven(dude_obj,item,1);
@@ -347,7 +347,7 @@ end
 procedure Node004 begin
    Reply(125);
 
-   if (item_caps_total(dude_obj) >= 49) then
+   if (dude_caps >= 49) then
        NLowOption(126,Node004a);
    NLowOption(127,Node003);
    NLowOption(128,Node999);
@@ -358,15 +358,15 @@ procedure Node004a begin
    variable healing;
 
    money:=46 + random(1,6) + random(1,6) + random(1,6) + random(1,6);
-   item_caps_adjust(dude_obj,-money);
-   item_caps_adjust(self_obj,money/2);
+   dude_caps_adjust(-money);
+   self_caps_adjust(money/2);
 
    healing:=4*get_critter_stat(dude_obj,STAT_heal_rate);
    critter_heal(dude_obj,healing);
    game_time_advance(8*ONE_GAME_HOUR);
    //added by killap
    gfade_out(600);
-   move_to(dude_obj,12901,elevation(self_obj));
+   move_to(dude_obj,12901,self_elevation);
    gfade_in(600);
    //added by killap
 end
@@ -538,7 +538,7 @@ end
 procedure Node022 begin
    Reply(197);
 
-   if (item_caps_total(dude_obj) > 39) then begin
+   if (dude_caps > 39) then begin
        NOption(198,Node022a,004);
        NOption(199,Node001,004);
    end
@@ -549,8 +549,8 @@ end
 procedure Node022a begin
    variable healing;
 
-   item_caps_adjust(dude_obj,-40);
-   item_caps_adjust(self_obj,20);
+   dude_caps_adjust(-40);
+   self_caps_adjust(20);
 
    healing:=4*get_critter_stat(dude_obj,STAT_heal_rate);
    critter_heal(dude_obj,healing);
@@ -558,7 +558,7 @@ procedure Node022a begin
    game_time_advance(8*ONE_GAME_HOUR);
    //added by killap
    gfade_out(600);
-   move_to(dude_obj,12901,elevation(self_obj));
+   move_to(dude_obj,12901,self_elevation);
    gfade_in(600);
    //added by killap
 end
@@ -613,7 +613,7 @@ procedure Node027 begin
    Reply(219);
 
 // Begin Seraph's Code - expansion
-   if (obj_is_carrying_obj_pid(dude_obj,PID_JET_ANTIDOTE)) then
+   if (dude_item_count(PID_JET_ANTIDOTE)) then
       GOption(229,Node030,004);
 // End Seraph's Code
 
@@ -647,8 +647,8 @@ procedure Node031 begin
    variable item; //added by killap
 
    set_fannie(FANNIE_CURED_LOU);
-   item:=obj_carrying_pid_obj(dude_obj, PID_JET_ANTIDOTE); //added by killap
-   rm_obj_from_inven(dude_obj,obj_carrying_pid_obj(dude_obj,PID_JET_ANTIDOTE));
+   item:=dude_item(PID_JET_ANTIDOTE); //added by killap
+   rm_obj_from_inven(dude_obj,dude_item(PID_JET_ANTIDOTE));
    destroy_object(item); //added by killap
    display_msg(mstr(300));
    set_rehab_time

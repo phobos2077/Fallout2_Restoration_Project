@@ -123,8 +123,8 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    Sing_State := 0;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 200 ) and ( game_time_hour < 700 ) ) then begin
@@ -132,7 +132,7 @@ procedure map_enter_p_proc begin
          move_to( self_obj, 24886, 1 );
          critter_attempt_placement( self_obj, 24886, 1 );
          set_map_var( MVAR_Martin_In_Area, 0 );
-         animate_rotation( 3 );
+         self_rotate(3);
          rm_timer_event( self_obj );
          add_timer_event( self_obj, 1, 1 );
          add_timer_event( self_obj, 1, 2 );
@@ -142,7 +142,7 @@ procedure map_enter_p_proc begin
          move_to( self_obj, 23488, 2 );
          critter_attempt_placement( self_obj, 23488, 2 );
          set_map_var( MVAR_Martin_In_Area, 1 );
-         animate_rotation( 2 );
+         self_rotate(2);
          rm_timer_event( self_obj );
          add_timer_event( self_obj, 1, 1 );
          add_timer_event( self_obj, 1, 2 );
@@ -156,7 +156,7 @@ procedure timed_event_p_proc begin
    singTimer := 0;
    if( fixed_param == 1 ) then begin
       if( not( combat_is_initialized ) ) then begin
-         if( ( elevation( self_obj ) == 1 ) and
+         if( ( self_elevation == 1) and
              ( game_time_hour > 200 ) and
              ( game_time_hour < 700 ) ) then
             call Node022;
@@ -186,13 +186,13 @@ procedure timed_event_p_proc begin
    end
    else if( fixed_param == 2 ) then begin
       if( ( map_var( MVAR_Martin_In_Area ) == 1 ) and ( not( combat_is_initialized ) ) ) then begin
-         if( tile_num( self_obj ) == 23488 ) then
+         if( self_tile == 23488) then
             animate_move_obj_to_tile( self_obj, 24884, -1 );
-         else if( tile_num( self_obj ) == 24884 ) then
+         else if( self_tile == 24884) then
             animate_move_obj_to_tile( self_obj, 26077, -1 );
-         else if( tile_num( self_obj ) == 26077 ) then
+         else if( self_tile == 26077) then
             animate_move_obj_to_tile( self_obj, 21891, -1 );
-         else if( tile_num( self_obj ) == 21891 ) then
+         else if( self_tile == 21891) then
             animate_move_obj_to_tile( self_obj, 23488, -1 );
          else begin
             // If for some reason Martin gets off track, just put him
@@ -213,7 +213,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -273,7 +273,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if( ( elevation( self_obj ) == 1 ) and
+   if( ( self_elevation == 1) and
        ( game_time_hour > 200 ) and
        ( game_time_hour < 700 ) ) then
       call Node022;

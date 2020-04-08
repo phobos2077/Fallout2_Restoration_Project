@@ -101,7 +101,7 @@ procedure timed_event_p_proc begin
       if (not critter_is_fleeing(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), Random(0, 5), Random(1, 20)));
+         self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile), Random(0, 5), Random(1, 20)));
          reg_anim_end();
        end
       add_timer_event(self_obj, game_ticks(Random(5, 20)), TIMER_MOVE);
@@ -116,8 +116,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_PEASANT);
    if (not is_loading_game) then begin
       add_timer_event(self_obj, game_ticks(Random(5, 20)), TIMER_MOVE);
       if (not local_Var(LVAR_Home_Tile)) then begin
@@ -136,7 +136,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -180,9 +180,9 @@ procedure talk_p_proc begin
 
    if (local_var(LVAR_Personal_Enemy)) then begin
       call Node001;
-   end else if ( (has_rep_childkiller) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   end else if ( (has_rep_childkiller) and (not(dude_perk(PERK_cult_of_personality))) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
       call Node002;
-   end else if ( (has_rep_berserker) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) )  then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   end else if ( (has_rep_berserker) and (not(dude_perk(PERK_cult_of_personality))) )  then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
       call Node003;
    end else if (global_var(TOWN_REP_VAR) < 0) then begin
       call Node004;

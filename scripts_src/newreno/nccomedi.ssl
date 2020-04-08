@@ -105,7 +105,7 @@ variable start_new_routine;
 #define check_female_audience(x)                                                                               \
          if (last_floater == 0) then begin                                                                     \
             if (commedian_audience_##x##_obj != 0) then begin                                                  \
-               if (get_critter_stat(commedian_audience_##x##_obj,STAT_gender) == GENDER_FEMALE) then begin     \
+               if (is_female(commedian_audience_##x##_obj)) then begin     \
                   last_floater := commedian_audience_##x##_obj;                                                \
                   float_msg(commedian_audience_##x##_obj, mstr(fixed_param), FLOAT_COLOR_NORMAL);              \
                end                                                                                             \
@@ -182,9 +182,9 @@ procedure timed_event_p_proc begin
       // moves around while telling jokes
       if (anim_busy(self_obj) == false) then begin
          if (self_tile != local_var(LVAR_Home_Tile)) then begin
-            animate_move_to_tile(local_var(LVAR_Home_Tile));
+            self_walk_to_tile(local_var(LVAR_Home_Tile));
          end else if (last_floater == self_obj) then begin
-            animate_move_to_tile(tile_num_in_direction(self_tile, random(1,3), random(1,3)));
+            self_walk_to_tile(tile_num_in_direction(self_tile, random(1,3), random(1,3)));
          end
       end
    end
@@ -206,8 +206,8 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_LONER);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_COWARD);
+         set_self_team(TEAM_LONER);
+         set_self_ai(AI_COWARD);
       end
       start_random_routine;
    end
@@ -235,7 +235,7 @@ procedure critter_p_proc begin
       self_attack_dude;
    end else if (anim_busy(self_obj) == false) then begin
       if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-         animate_rotation(local_var(LVAR_Home_Rotation));
+         self_rotate(local_var(LVAR_Home_Rotation));
       end
    end
 end

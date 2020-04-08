@@ -211,16 +211,16 @@ procedure Node103;
                                              set_passed_out_state;                                    \
                                           end                                                         \
                                        end
-#define give_tully_booze               if (obj_is_carrying_obj_pid(dude_obj, PID_ROENTGEN_RUM) > 0) then begin                \
-                                          use_obj_on_obj(obj_carrying_pid_obj(dude_obj, PID_ROENTGEN_RUM), self_obj);         \
-                                       end else if (obj_is_carrying_obj_pid(dude_obj, PID_GAMMA_GULP_BEER) > 0) then begin    \
-                                          use_obj_on_obj(obj_carrying_pid_obj(dude_obj, PID_GAMMA_GULP_BEER), self_obj);      \
-                                       end else if (obj_is_carrying_obj_pid(dude_obj, PID_BOOZE) > 0) then begin              \
-                                          use_obj_on_obj(obj_carrying_pid_obj(dude_obj, PID_BOOZE), self_obj);                \
-                                       end else if (obj_is_carrying_obj_pid(dude_obj, PID_BEER) > 0) then begin               \
-                                          use_obj_on_obj(obj_carrying_pid_obj(dude_obj, PID_BEER), self_obj);                 \
-                                       end else if (obj_is_carrying_obj_pid(dude_obj, PID_ROT_GUT) > 0) then begin            \
-                                          use_obj_on_obj(obj_carrying_pid_obj(dude_obj, PID_ROT_GUT), self_obj);              \
+#define give_tully_booze               if (dude_item_count(PID_ROENTGEN_RUM) > 0) then begin                \
+                                          use_obj_on_obj(dude_item(PID_ROENTGEN_RUM), self_obj);         \
+                                       end else if (dude_item_count(PID_GAMMA_GULP_BEER) > 0) then begin    \
+                                          use_obj_on_obj(dude_item(PID_GAMMA_GULP_BEER), self_obj);      \
+                                       end else if (dude_item_count(PID_BOOZE) > 0) then begin              \
+                                          use_obj_on_obj(dude_item(PID_BOOZE), self_obj);                \
+                                       end else if (dude_item_count(PID_BEER) > 0) then begin               \
+                                          use_obj_on_obj(dude_item(PID_BEER), self_obj);                 \
+                                       end else if (dude_item_count(PID_ROT_GUT) > 0) then begin            \
+                                          use_obj_on_obj(dude_item(PID_ROT_GUT), self_obj);              \
                                        end
 
 variable prev_node;
@@ -298,8 +298,8 @@ procedure map_enter_p_proc begin
          off_passed_out_state;
       end
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_CITIZEN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_LONER_CITIZEN);
+         set_self_team(TEAM_NEW_RENO_CITIZEN);
+         set_self_ai(AI_LONER_CITIZEN);
          set_local_var(LVAR_Home_Tile,self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
          set_new_passed_out_time;
@@ -317,7 +317,7 @@ procedure critter_p_proc begin
       if (passed_out_state) then begin
          if ((is_critter_prone(self_obj)) == false) then begin
             if (self_tile != passed_out_tile) then begin
-               animate_move_to_tile(passed_out_tile);
+               self_walk_to_tile(passed_out_tile);
             end else begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
@@ -332,9 +332,9 @@ procedure critter_p_proc begin
             reg_anim_animate(self_obj, ANIM_back_to_standing, -1);
          reg_anim_end();
       end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-         animate_move_to_tile(local_var(LVAR_Home_Tile));
+         self_walk_to_tile(local_var(LVAR_Home_Tile));
       end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-         animate_rotation(local_var(LVAR_Home_Rotation));
+         self_rotate(local_var(LVAR_Home_Rotation));
       end
    end
 end
@@ -431,7 +431,7 @@ procedure Node003 begin
    //added by killap - expansion pack
    if (global_var(GVAR_ABBEY_TULLY) == 3) then
       NOption(2060, Node069, 004);
-   if ( ((global_var(GVAR_ABBEY_BOOZE) > 1) and (global_var(GVAR_ABBEY_BOOZE) < 4)) and (obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_BOOZE)) ) then begin
+   if ( ((global_var(GVAR_ABBEY_BOOZE) > 1) and (global_var(GVAR_ABBEY_BOOZE) < 4)) and (dude_item_count(PID_ABBEY_BOOZE)) ) then begin
       NOption(2061, Node065, 004);
       Node_07 := 1;
    end
@@ -478,7 +478,7 @@ procedure Node007 begin
    //added by killap - expansion pack
    if (global_var(GVAR_ABBEY_TULLY) == 3) then
       NOption(2060, Node069, 004);
-   if ( ((global_var(GVAR_ABBEY_BOOZE) > 1) and (global_var(GVAR_ABBEY_BOOZE) < 4)) and (obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_BOOZE)) ) then begin
+   if ( ((global_var(GVAR_ABBEY_BOOZE) > 1) and (global_var(GVAR_ABBEY_BOOZE) < 4)) and (dude_item_count(PID_ABBEY_BOOZE)) ) then begin
       NOption(2061, Node065, 004);
       Node_07 := 1;
    end
@@ -622,7 +622,7 @@ end
 procedure Node017 begin
    if (item_caps_total(new_reno_poor_box_obj) > 0) then begin
       Reply(mstr(450) + mstr(452));
-      item_caps_adjust(dude_obj, item_caps_total(new_reno_poor_box_obj));
+      dude_caps_adjust(item_caps_total(new_reno_poor_box_obj));
       item_caps_adjust(new_reno_poor_box_obj, -item_caps_total(new_reno_poor_box_obj));
       NOption(454, Node999, 004);
    end else begin
@@ -1040,7 +1040,7 @@ procedure Node064 begin
    Reply(2023);
   // display_msg(mstr(3000));
    if ((global_var(GVAR_ABBEY_BOOZE) > 0) and (global_var(GVAR_ABBEY_BOOZE) < 4)) then begin
-      if (obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_BOOZE)) then begin
+      if (dude_item_count(PID_ABBEY_BOOZE)) then begin
          NOption(2024, Node065, 004);
          Node_64 := 1;
       end else begin
@@ -1082,7 +1082,7 @@ procedure Node066 begin
    give_xp(500);
 
    //remove booze from dude inventory
-   if (obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_BOOZE)) then
+   if (dude_item_count(PID_ABBEY_BOOZE)) then
       remove_pid_qty(dude_obj, PID_ABBEY_BOOZE, 1)
 
    if not(booze_for_price) then begin
@@ -1090,7 +1090,7 @@ procedure Node066 begin
    end else begin
       Reply(2037);
       tmp := random(15,30);
-      item_caps_adjust(dude_obj, tmp);
+      dude_caps_adjust(tmp);
    end
    NOption(g_mstr(350), Node903, 004); //move father to ground and drunk. -NEED NEW TEXT
 end
@@ -1118,7 +1118,7 @@ procedure Node069 begin
 
    Reply(2062);
    NOption(2063, Node999, 004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_ABBEY_BOOZE)) then
+   if (dude_item_count(PID_ABBEY_BOOZE)) then
       NOption(2064, Node065, 004);
 
    Node_69 := 1;
@@ -1143,7 +1143,7 @@ end
 
 procedure Node903 begin
    gfade_out(600);
-   move_to(self_obj,passed_out_tile,elevation(self_obj));
+   move_to(self_obj,passed_out_tile,self_elevation);
    reg_anim_clear(self_obj);
    reg_anim_begin();
    reg_anim_animate(self_obj,ANIM_fall_front,-1);

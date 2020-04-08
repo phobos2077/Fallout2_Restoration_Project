@@ -69,7 +69,7 @@ procedure use_p_proc begin
        display_msg(mstr(300));
    end
 
-   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   else if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
        end

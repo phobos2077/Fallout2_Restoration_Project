@@ -125,7 +125,7 @@ procedure spatial_p_proc begin
    call Trap_Detection;
 
    if (tile_distance_objs(self_obj,source_obj) == 0) then begin
-       Which_Tile_Var(tile_num(self_obj));
+       Which_Tile_Var(self_tile);
        call Check_Active(Landmine_Var);
    end
 end
@@ -136,19 +136,19 @@ procedure use_skill_on_p_proc begin
    variable Landmine_Var;
 
    if (action_being_used == SKILL_TRAPS) then begin
-       Which_Tile_Var(tile_num(self_obj));
+       Which_Tile_Var(self_tile);
        if (map_var(Landmine_Var) == MINE_ACTIVE) then begin
            script_overrides;
            Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,TRAPS_BONUS);
 
            if (is_success(Traps_Roll)) then begin
                //Trap:=create_object_sid(ART_TRAP_DISARMED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
-               Trap:=create_object(ART_TRAP_DISARMED,tile_num(self_obj),elevation(self_obj)); // edit by killap
+               Trap:=create_object(ART_TRAP_DISARMED,self_tile,self_elevation); // edit by killap
                set_map_var(Landmine_Var,MINE_DISARMED);
                if (source_obj == dude_obj) then
-                   display_msg(message_str(SCRIPT_GENERIC,102));
+                   display_msg(g_mstr(102));
                else
-                   display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,105));
+                   display_msg(obj_name(source_obj)+g_mstr(105));
 
                if (local_var(LVAR_Gave_Exp) == 0) then begin
                    set_local_var(LVAR_Gave_Exp,1);
@@ -159,26 +159,26 @@ procedure use_skill_on_p_proc begin
            else if (is_critical(Traps_Roll)) then begin
                set_map_var(Landmine_Var,MINE_EXPLODED);
                if (source_obj == dude_obj) then
-                   display_msg(message_str(SCRIPT_GENERIC,104));
+                   display_msg(g_mstr(104));
                else
-                   display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,107));
+                   display_msg(obj_name(source_obj)+g_mstr(107));
 
                //for some reason this code segment causes issues - killap
-               /*if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
+               /*if (tile_contains_obj_pid(self_tile,self_elevation,ART_TRAP_VISIBLE)) then begin
                    ndebug("Destroying Visible Trap");
-                   destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
+                   destroy_object(tile_contains_pid_obj(self_tile,self_elevation,ART_TRAP_VISIBLE));
                    ndebug("Destroyed Visible Trap");
                end*/
                //Trap:=create_object_sid(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
-               Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj)); //edit by killap
-               explosion(tile_num(self_obj),elevation(self_obj),random(MIN_DMG,MAX_DMG));
+               Trap:=create_object(ART_TRAP_EXPLODED,self_tile,self_elevation); //edit by killap
+               explosion(self_tile,self_elevation,random(MIN_DMG,MAX_DMG));
            end
 
            else begin
                if (source_obj == dude_obj) then
-                   display_msg(message_str(SCRIPT_GENERIC,103));
+                   display_msg(g_mstr(103));
                else
-                   display_msg(obj_name(source_obj)+message_str(SCRIPT_GENERIC,106));
+                   display_msg(obj_name(source_obj)+g_mstr(106));
            end
       end
    end
@@ -188,17 +188,17 @@ procedure Check_Active(variable Mine_Var) begin
    variable Trap;
 
    if (map_var(Mine_Var) == MINE_ACTIVE) then begin
-       if (tile_contains_obj_pid(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE)) then begin
+       if (tile_contains_obj_pid(self_tile,self_elevation,ART_TRAP_VISIBLE)) then begin
            ndebug("Destroying Visible Trap");
-           destroy_object(tile_contains_pid_obj(tile_num(self_obj),elevation(self_obj),ART_TRAP_VISIBLE));
+           destroy_object(tile_contains_pid_obj(self_tile,self_elevation,ART_TRAP_VISIBLE));
            ndebug("Destroyed Visible Trap");
        end
-       Trap:=create_object(ART_TRAP_EXPLODED,tile_num(self_obj),elevation(self_obj));
+       Trap:=create_object(ART_TRAP_EXPLODED,self_tile,self_elevation);
        //if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (is_success(do_check(dude_obj,STAT_ag,-3)))) then
-       if ((source_obj == dude_obj) and (has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) and (random(0,1) == 1)) then //added by killap
+       if ((source_obj == dude_obj) and (dude_perk(PERK_light_step_perk)) and (random(0,1) == 1)) then //added by killap
            ndebug("Used Light Step.");
        else
-           explosion(tile_num(self_obj),elevation(self_obj),random(MIN_DMG,MAX_DMG));
+           explosion(self_tile,self_elevation,random(MIN_DMG,MAX_DMG));
 
        set_map_var(Mine_Var,MINE_EXPLODED);
    end
@@ -212,7 +212,7 @@ procedure Trap_Detection begin
 
    if (obj_type(source_obj) == 1) then begin
 
-       Range:=get_critter_stat(source_obj,STAT_pe) + PERCEPTION_BONUS;
+       Range:=get_perception(source_obj) + PERCEPTION_BONUS;
        Range_Mod:=Range - (tile_distance_objs(self_obj,source_obj)*DIST_BONUS);
 
        if ((tile_distance_objs(self_obj,source_obj) <= Range) and
@@ -227,7 +227,7 @@ procedure Trap_Detection begin
 
                set_local_var(LVAR_Trap_Found,1);
                reg_anim_clear(source_obj);
-               Trap:=create_object_sid(ART_TRAP_VISIBLE,tile_num(self_obj),elevation(self_obj),CUR_SCRIPT);
+               Trap:=create_object_sid(ART_TRAP_VISIBLE,self_tile,self_elevation,CUR_SCRIPT);
 
                if (is_critical(Detection_Roll)) then begin
                    if (source_obj == dude_obj) then

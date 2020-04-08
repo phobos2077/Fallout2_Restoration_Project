@@ -128,12 +128,12 @@ procedure timed_event_p_proc begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
             tile := tile_num_in_direction(starttile, Random(0, 5), Random(1, 11));
-            animate_run_to_tile(tile);
+            self_run_to_tile(tile);
             reg_anim_end();
          end else begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(1, 11)));
+            self_walk_to_tile(tile_num_in_direction(starttile, Random(0, 5), Random(1, 11)));
             reg_anim_end();
          end
       end
@@ -159,14 +159,14 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    starttile := self_tile;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_RAVE);
+   set_self_team(TEAM_RND_RAVE);
    if (not is_loading_game) then
       call chooseType;
 
    if (local_var(LVAR_Type) == TYPE_ADDICT) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT);
+      set_self_ai(AI_ADDICT);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT);
+      set_self_ai(AI_ADDICT);
    add_timer_event(self_obj, 0, TIMER_MOVE);
 end
 
@@ -180,7 +180,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -280,7 +280,7 @@ procedure description_p_proc begin
    if (ADDICT) then begin
       display_msg(mstr(121));
    end else begin
-      if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+      if (self_is_male) then
           display_msg(mstr(102));
       else
           display_msg(mstr(210)); //edit by killap - was 202
@@ -322,8 +322,8 @@ end
 
 procedure Node62Da begin
    if (dude_caps >= 6) then begin
-      item_caps_adjust(dude_obj, -6);
-      item_caps_adjust(self_obj, 6);
+      dude_caps_adjust(-6);
+      self_caps_adjust(6);
       add_obj_to_inven(dude_obj, create_object(PID_NUKA_COLA, self_tile, 0));
       call Node002D;
    end else
@@ -332,8 +332,8 @@ end
 
 procedure Node63Da begin
    if (dude_caps >= 15) then begin
-      item_caps_adjust(dude_obj, -15);
-      item_caps_adjust(self_obj, 15);
+      dude_caps_adjust(-15);
+      self_caps_adjust(15);
       add_obj_to_inven(dude_obj, create_object(PID_BEER, self_tile, 0));
       call Node003D;
    end else
@@ -342,8 +342,8 @@ end
 
 procedure Node65Da begin
    if (dude_caps >= 30) then begin
-      item_caps_adjust(dude_obj, -30);
-      item_caps_adjust(self_obj, 30);
+      dude_caps_adjust(-30);
+      self_caps_adjust(30);
       add_obj_to_inven(dude_obj, create_object(PID_BOOZE, self_tile, 0));
       call Node005D;
    end else
@@ -411,8 +411,8 @@ procedure Node32Aa begin
    if (dude_caps >= 560) then begin
       variable obj;
 
-      item_caps_adjust(dude_obj, -560);
-      item_caps_adjust(self_obj, 560);
+      dude_caps_adjust(-560);
+      self_caps_adjust(560);
       obj := create_object(PID_MENTATS, self_tile, 0);
       if (obj) then begin
          use_obj_on_obj(obj, dude_obj);
@@ -427,8 +427,8 @@ procedure Node32Ab begin
    if (dude_caps >= 400) then begin
       variable obj;
 
-      item_caps_adjust(dude_obj, -400);
-      item_caps_adjust(self_obj, 400);
+      dude_caps_adjust(-400);
+      self_caps_adjust(400);
       obj := create_object(PID_BUFFOUT, self_tile, 0);
       if (obj) then begin
          use_obj_on_obj(obj, dude_obj);
@@ -443,8 +443,8 @@ procedure Node32Ac begin
    if (dude_caps >= 800) then begin
       variable obj;
 
-      item_caps_adjust(dude_obj, -800);
-      item_caps_adjust(self_obj, 800);
+      dude_caps_adjust(-800);
+      self_caps_adjust(800);
       obj := create_object(PID_PSYCHO, self_tile, 0);
       if (obj) then begin
          use_obj_on_obj(obj, dude_obj);
@@ -482,8 +482,8 @@ end
 procedure Node005Aa begin
    variable obj;
 
-   item_caps_adjust(dude_obj, -1000);
-   item_caps_adjust(self_obj, 1000);
+   dude_caps_adjust(-1000);
+   self_caps_adjust(1000);
 
    obj := create_object(PID_MENTATS, self_tile, 0);
    if (obj) then begin

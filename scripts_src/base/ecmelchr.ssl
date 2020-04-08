@@ -122,7 +122,7 @@ variable temp_tile;
                      the_msg := 1000 + (10 * local_var(LVAR_Cur_Pet_Var)) + random(0,2);
                      ndebug("message: #"+the_msg+" == "+mstr(the_msg));
                      floater(the_msg);
-                     animate_rotation(rotation_to_tile(self_tile, number_to_throw_tile(temp_tile)));
+                     self_rotate(rotation_to_tile(self_tile, number_to_throw_tile(temp_tile)));
                      anim(self_obj, ANIM_throw_anim, self_cur_rot); // edit by killap - was -1
                      if ((pets_released - local_var(LVAR_Pets_In_Play)) > 1) then begin
                         dec_map_var_amt(local_var(LVAR_Cur_Pet_Var), 2);
@@ -158,8 +158,8 @@ end
 procedure map_enter_p_proc begin
    melchior_obj := self_obj;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SUPER_MUTANT);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SUPER_MUTANT);
+   set_self_team(TEAM_SUPER_MUTANT);
+   set_self_ai(AI_SUPER_MUTANT);
 end
 
 procedure map_update_p_proc begin
@@ -174,7 +174,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (hostile) then begin
          attack(dude_obj);
       end

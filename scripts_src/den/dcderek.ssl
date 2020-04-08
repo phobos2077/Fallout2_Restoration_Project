@@ -79,9 +79,9 @@ procedure timed_event_p_proc begin
    if (fixed_param == timed_event_wander) then begin
       if ((combat_is_initialized == false) and (random(0,1)) and (night == false)) then begin
          if (tile_distance(self_tile, local_var(LVAR_Home_Tile)) > 20) then begin
-            animate_move_to_tile(tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(LVAR_Home_Tile)), random(5, 10)));
+            self_walk_to_tile(tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(LVAR_Home_Tile)), random(5, 10)));
          end else begin
-            animate_move_to_tile(tile_num_in_direction(self_tile, random(0,5), random(5, 10)));
+            self_walk_to_tile(tile_num_in_direction(self_tile, random(0,5), random(5, 10)));
          end
          flush_add_timer_event_sec(self_obj, random(10, 60), timed_event_wander);
       end
@@ -91,8 +91,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_ADDICT);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_ADDICT);
+         set_self_team(TEAM_DEN_ADDICT);
+         set_self_ai(AI_ADDICT);
       end
       flush_add_timer_event_sec(self_obj, random(10, 60), timed_event_wander);
    end

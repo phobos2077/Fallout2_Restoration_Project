@@ -144,7 +144,7 @@ end
 
 procedure map_enter_p_proc begin
    call wield_spear_p_proc;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
 

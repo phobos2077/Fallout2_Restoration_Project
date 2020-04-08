@@ -128,13 +128,13 @@ end
 
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_UVILLAGER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_RND_UVILLAGER);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
-   if (obj_pid(self_obj) == PID_STRONG_SLAVE_FEMALE)     then me := ME_BUFFY;
-   else if (obj_pid(self_obj) == PID_TOUGH_THUG_FEMALE)  then me := ME_DOOMBOT;
-   else if (obj_pid(self_obj) == PID_AGILE_GUARD_FEMALE) then me := ME_PANOPLY;
-   else if (obj_pid(self_obj) == PID_MYST_STRANGER_MALE_16_20)   then begin
+   if (self_pid == PID_STRONG_SLAVE_FEMALE)     then me := ME_BUFFY;
+   else if (self_pid == PID_TOUGH_THUG_FEMALE)  then me := ME_DOOMBOT;
+   else if (self_pid == PID_AGILE_GUARD_FEMALE) then me := ME_PANOPLY;
+   else if (self_pid == PID_MYST_STRANGER_MALE_16_20)   then begin
       if (i_last_me == 0) then begin
          me := ME_LERK;
          i_last_me := ME_LERK;
@@ -190,7 +190,7 @@ procedure critter_p_proc begin
          if (not anim_busy(self_obj)) then begin
             reg_anim_begin();
             reg_anim_end();
-            animate_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 10));
+            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 10));
             reg_anim_end();
          end
 

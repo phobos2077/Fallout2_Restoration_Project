@@ -84,8 +84,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_local_var(LVAR_Type, random(0,1));
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_SLAVER);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVER);
+         set_self_team(TEAM_DEN_SLAVER);
+         set_self_ai(AI_SLAVER);
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
@@ -93,7 +93,7 @@ procedure map_enter_p_proc begin
          critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
       end
       if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-         animate_rotation(local_var(LVAR_Home_Rotation));
+         self_rotate(local_var(LVAR_Home_Rotation));
       end
    end
 end
@@ -107,9 +107,9 @@ procedure critter_p_proc begin
          self_attack_dude;
       end
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 

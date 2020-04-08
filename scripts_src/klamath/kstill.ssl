@@ -31,7 +31,7 @@
 
 #define NAME                    SCRIPT_KSTILL
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 
 #include "../headers/command.h"
 
@@ -111,7 +111,7 @@ procedure use_obj_on_p_proc begin
           //if (local_var(LVAR_Herebefore) == 0) then begin
           //set_local_var(LVAR_Herebefore,1);
              if (global_var(GVAR_STILL_STATUS) == STILL_ACCEPT) then begin
-                wood:=obj_carrying_pid_obj(dude_obj, PID_FIREWOOD);
+                wood:=dude_item(PID_FIREWOOD);
                 rm_obj_from_inven(dude_obj,wood);
                 destroy_object(wood); //added by killap
                 if ( (GAME_TIME_IN_HOURS - (global_var(GVAR_STILL_START)) ) > 24) then begin

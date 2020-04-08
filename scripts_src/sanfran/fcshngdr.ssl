@@ -116,7 +116,7 @@ import variable door_guard;
 #define check_tamper                         if (caught_tamper == false) then begin                                                                           \
                                                 if (DO_CHECK_TAMPER_CONDITION) then begin                                                                     \
                                                    if (WATCHER_OBJ != 0) then begin                                                                           \
-                                                      if ((obj_is_visible_flag(WATCHER_OBJ)) and (is_critter_dead(WATCHER_OBJ) == false)) then begin          \
+                                                      if ((is_visible(WATCHER_OBJ)) and (is_critter_dead(WATCHER_OBJ) == false)) then begin          \
                                                          if (watch_box_conditions) then begin                                                                 \
                                                             caught_tamper := true;                                                                            \
                                                          end                                                                                                  \
@@ -446,7 +446,7 @@ procedure damage_p_proc begin
            set_local_var(LVAR_Trapped, STATE_INACTIVE);
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
            lab_door := -1;
            destroy_object(self_obj);
        end
@@ -466,7 +466,7 @@ procedure damage_p_proc begin
        if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
        end
 
        else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
@@ -1476,7 +1476,7 @@ procedure Pry_Door begin
        end
 
        else begin
-           if (get_critter_stat(source_obj,STAT_gender) == GENDER_MALE) then begin
+           if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
                    display_msg(mstr(182));
                end

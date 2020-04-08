@@ -62,12 +62,12 @@ procedure timed_event_p_proc begin
       if (anim_busy(self_obj) == false) then begin
          if (self_can_see_dude) then begin
             if (local_var(LVAR_Hostile) == false) then begin
-               animate_rotation(rotation_to_tile(self_tile, dude_tile));
+               self_look_at_dude;
             end
          end else if (tile_distance(self_tile, local_var(LVAR_Home_Tile)) > 12) then begin
-            animate_run_to_tile(tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(LVAR_Home_Tile)), random(5, 10)));
+            self_run_to_tile(tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(LVAR_Home_Tile)), random(5, 10)));
          end else begin
-            animate_run_to_tile(tile_num_in_direction(self_tile, random(0, 5), random(5, 10)));
+            self_run_to_tile(tile_num_in_direction(self_tile, random(0, 5), random(5, 10)));
          end
       end
    end
@@ -77,8 +77,8 @@ end
 procedure map_enter_p_proc begin
    if (map_first_run) then begin
       set_local_var(LVAR_Home_Tile, self_tile);
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_REDDING);
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_CHILD);
+      set_self_team(TEAM_REDDING);
+      set_self_ai(AI_CHILD);
    end
    flush_add_timer_event_sec(self_obj, 1, 1);
 end

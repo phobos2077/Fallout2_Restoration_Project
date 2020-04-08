@@ -30,13 +30,13 @@ end
 procedure use_p_proc
 begin
   script_overrides;
-  if (obj_carrying_pid_obj(dude_obj, PID_PAPER)) then
+  if (dude_item(PID_PAPER)) then
   begin
     play_sfx(0);
-    animate_stand_obj(self_obj);
+    self_stand;
   end
   else
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
 end
 
 procedure pickup_p_proc

@@ -110,9 +110,9 @@ procedure combat_p_proc begin
                         inven_unwield(self_obj);
                      //end else if (self_fid == FID_BOXER) then begin
                      end else if (self_fid == FID_NMBOXX) then begin //edit by killap due to changes to the artfid.h file
-                        if (obj_is_carrying_obj_pid(self_obj, PID_SPECIAL_BOXER_WEAPON) > 0) then begin
+                        if (self_item_count(PID_SPECIAL_BOXER_WEAPON) > 0) then begin
                            ndebug("weilding boxer weapon");
-                           wield_obj(obj_carrying_pid_obj(self_obj, PID_SPECIAL_BOXER_WEAPON));
+                           wield_obj(self_item(PID_SPECIAL_BOXER_WEAPON));
                         end
                      end
                   end

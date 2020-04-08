@@ -119,8 +119,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_REDDING);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -133,11 +133,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -262,11 +262,11 @@ procedure Node002 begin
        Reply(109);
 
    NOption(110,Node004,004);
-   if (item_caps_total(dude_obj) >= 5) then
+   if (dude_caps >= 5) then
        GOption(111,Node005,004);
-   if (item_caps_total(dude_obj) >= 50) then
+   if (dude_caps >= 50) then
        GOption(112,Node006,004);
-   if ((item_caps_total(dude_obj) >= 5*party_size) and (party_size > 1)) then
+   if ((dude_caps >= 5*party_size) and (party_size > 1)) then
        GOption(113,Node007,004);
    NOption(114,Node008,004);
    NOption(115,Node999,004);
@@ -294,8 +294,8 @@ procedure Node005 begin
 end
 
 procedure Node005a begin
-   item_caps_adjust(self_obj, 5);
-   item_caps_adjust(dude_obj, -5);
+   self_caps_adjust(5);
+   dude_caps_adjust(-5);
    call create_and_use_itempid_on(dude_obj, PID_BEER);
    call Node013;
 end
@@ -316,8 +316,8 @@ procedure Node006a begin
       if is_human(who) then call create_and_use_itempid_on(who, PID_BEER);
    end
 
-   item_caps_adjust(self_obj, 50);
-   item_caps_adjust(dude_obj, -50);
+   self_caps_adjust(50);
+   dude_caps_adjust(-50);
 
    call Node013;
 end
@@ -333,8 +333,8 @@ end
 procedure Node007a begin
    variable price, who;
    price := 5 * (party_size_humans + 1);
-   item_caps_adjust(self_obj, price);
-   item_caps_adjust(dude_obj, -price);
+   self_caps_adjust(price);
+   dude_caps_adjust(-price);
    foreach who in party_member_list_critters begin
       if is_human(who) then call create_and_use_itempid_on(who, PID_BEER);
    end

@@ -87,24 +87,24 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    //CHANGE THESE -nbk
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+       self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
        In_Timed_Event:=0;
    end
 end
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
-   if ( ( (global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO)) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin //edit by killap - (global_var(GVAR_ENEMY_GECKO))
+   if ( ( (global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO)) ) and (self_can_see_dude)) then begin //edit by killap - (global_var(GVAR_ENEMY_GECKO))
       set_local_var(LVAR_Hostile,1);
       attack(dude_obj);
    end
-   else if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if (((local_var(LVAR_Hostile) == 2)or(local_var(LVAR_Personal_Enemy) == 1)) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
       attack(dude_obj);
    end
@@ -156,16 +156,16 @@ procedure talk_p_proc begin
       if ( (random(1,10) == 1) and (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) ) then begin
           call Node011;
       end
-      else if (tile_distance(tile_num(self_obj), GARDEN_1) < 8) then begin
+      else if (tile_distance(self_tile, GARDEN_1) < 8) then begin
          call Node004;
       end
-      else if (tile_distance(tile_num(self_obj), GARDEN_2) < 8) then begin
+      else if (tile_distance(self_tile, GARDEN_2) < 8) then begin
          call Node004;
       end
-      else if (tile_distance(tile_num(self_obj), BRAHMA_PEN_1) < 8) then begin
+      else if (tile_distance(self_tile, BRAHMA_PEN_1) < 8) then begin
          call Node005;
       end
-      else if (tile_distance(tile_num(self_obj), TAVERN) < 8) then begin
+      else if (tile_distance(self_tile, TAVERN) < 8) then begin
          call gobar;
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_OPTIMIZED) then begin
@@ -174,7 +174,7 @@ procedure talk_p_proc begin
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then begin
          call Node001;
       end
-      else if (TOWN_REPUTATION > 9 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // edit by killap added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      else if (TOWN_REPUTATION > 9 or (dude_perk(PERK_cult_of_personality))) then begin // edit by killap added (dude_perk(PERK_cult_of_personality))
          call Node002;
       end
       else begin
@@ -185,13 +185,13 @@ procedure talk_p_proc begin
       if ( (random(1,10) == 1) and (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) ) then begin
           call Node011;
       end
-      else if (tile_distance(tile_num(self_obj), GARDEN_3) < 8) then begin
+      else if (tile_distance(self_tile, GARDEN_3) < 8) then begin
          call Node004;
       end
-      else if (tile_distance(tile_num(self_obj), BRAHMA_PEN_2) < 8) then begin
+      else if (tile_distance(self_tile, BRAHMA_PEN_2) < 8) then begin
          call Node005;
       end
-      else if (tile_distance(tile_num(self_obj), BRAHMA_PEN_3) < 8) then begin
+      else if (tile_distance(self_tile, BRAHMA_PEN_3) < 8) then begin
          call Node005;
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_OPTIMIZED) then begin
@@ -200,7 +200,7 @@ procedure talk_p_proc begin
       else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then begin
          call Node001;
       end
-      else if (TOWN_REPUTATION > 9 or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // edit by killap added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+      else if (TOWN_REPUTATION > 9 or (dude_perk(PERK_cult_of_personality))) then begin // edit by killap added (dude_perk(PERK_cult_of_personality))
          call Node002;
       end
       else begin

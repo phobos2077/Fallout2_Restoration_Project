@@ -31,7 +31,7 @@ begin
   if (source_obj == dude_obj) then
   begin
     if ( (local_var(LVAR_Fan_Message) == 0) and ((dude_perception > 6) and (dude_iq > 5)) ) then begin
-      float_msg(dude_obj, message_str(NAME, 100), FLOAT_MSG_YELLOW);
+      float_msg(dude_obj, mstr(100), FLOAT_MSG_YELLOW);
       set_local_var(LVAR_Fan_Message, 1);
     end
   end

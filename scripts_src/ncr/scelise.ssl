@@ -152,7 +152,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_ATTACK) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          set_local_var(LVAR_Hostile, 2);
       end
    end
@@ -163,8 +163,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_RANGER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR_RANGER);
+   set_self_ai(AI_TOUGH_GUARD);
 
    if (not local_var(LVAR_Starttile)) then begin
       set_local_var(LVAR_Starttile, self_tile);
@@ -185,7 +185,7 @@ procedure critter_p_proc begin
    this as well. */
 
    // edit by killap - added (global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST2_DONE)
-   if ( ((global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST2_DONE) or (local_var(LVAR_Hostile) != 0)) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( ((global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST2_DONE) or (local_var(LVAR_Hostile) != 0)) and (self_can_see_dude) ) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -200,12 +200,12 @@ procedure critter_p_proc begin
       if (self_tile != local_var(LVAR_Starttile) and not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(local_var(LVAR_Starttile));
+         self_walk_to_tile(local_var(LVAR_Starttile));
          reg_anim_end();
       end
 
       if (ncr_flag(NCR_KILLED_GOND_SERUM_FLAG)) then begin
-         if (obj_can_see_obj(self_obj, dude_obj)) then begin
+         if (self_can_see_dude) then begin
             if (not lvar_bit(LVAR_State, STATE_GOND_MSG)) then begin
                float_msg(self_obj, mstr(182), FLOAT_MSG_RED);
                set_local_var(LVAR_Hostile, 2);
@@ -667,7 +667,7 @@ end
 procedure Node036 begin
    Reply(214);
 
-   if (has_skill(dude_obj,SKILL_CONVERSANT) >= 80) then
+   if (has_skill(dude_obj,SKILL_SPEECH) >= 80) then
       NOption(219, Node992, 4);
    //NOption(215, Node033, 4);
    NOption(216, Node990, 4);
@@ -677,7 +677,7 @@ end
 
 procedure Node037 begin
    display_msg(mstr(236));
-   item_caps_adjust( dude_obj, 1000 );
+   dude_caps_adjust( 1000);
    set_global_var(GVAR_NCR_ATTACK_SLAVER_CAMP,2);
    set_global_var(GVAR_WIPED_OUT_SLAVER_CAMP,2);
    Reply(227);
@@ -734,7 +734,7 @@ procedure Node991 begin
 end
 
 procedure Node992 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) then
       call Node041;
    else
       call Node042;
@@ -786,7 +786,7 @@ end
 
 procedure Node048 begin
    display_msg(mstr(236));
-   item_caps_adjust( dude_obj, 1000 );
+   dude_caps_adjust( 1000);
    set_global_var(GVAR_NCR_ATTACK_SLAVER_CAMP,2);
    set_global_var(GVAR_WIPED_OUT_SLAVER_CAMP,2);
 

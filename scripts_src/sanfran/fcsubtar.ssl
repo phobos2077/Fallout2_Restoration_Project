@@ -30,7 +30,7 @@ procedure description_p_proc;
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-      float_msg(self_obj, message_str(NAME, random(212, 213)), FLOAT_MSG_YELLOW);
+      float_msg(self_obj, mstr(random(212, 213)), FLOAT_MSG_YELLOW);
       add_timer_event(self_obj, game_ticks(random(25, 35)), 1);
    end
 end

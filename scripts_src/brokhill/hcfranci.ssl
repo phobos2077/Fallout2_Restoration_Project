@@ -110,9 +110,9 @@ procedure Node027a;
 import variable Phil_Ptr;
 
 #define float_phil(x)             if( map_var( MVAR_Phil_Dead ) == 0 ) then \
-                                    float_msg(Phil_Ptr, message_str(NAME,x), FLOAT_MSG_GREEN)
+                                    float_msg(Phil_Ptr, mstr(x), FLOAT_MSG_GREEN)
 
-#define float_dude(x)             float_msg(dude_obj, message_str(NAME,x), FLOAT_MSG_BLUE)
+#define float_dude(x)             float_msg(dude_obj, mstr(x), FLOAT_MSG_BLUE)
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
@@ -136,8 +136,8 @@ procedure map_enter_p_proc begin
    fight_response := 0;
    Francis_Leaves := 0;
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
       set_obj_visibility( self_obj, true );
@@ -161,8 +161,8 @@ procedure timed_event_p_proc begin
          gfade_out( 600 );
          //set_obj_visibility( self_obj, true );
          //set_obj_visibility( dude_obj, true );
-         Francis_Start := tile_num( self_obj );
-         Player_Start := tile_num( dude_obj );
+         Francis_Start := self_tile;
+         Player_Start := dude_tile;
          move_to( self_obj, 20689, 0 );
          //set_obj_visibility( self_obj, false );
          critter_attempt_placement( self_obj, 20689, 0 );
@@ -237,7 +237,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -379,7 +379,7 @@ procedure talk_p_proc begin
       set_global_var(GVAR_GIMP_FLAG,1); // mark that player was a gimp
 
       gfade_out(600);
-      move_to(dude_obj,SPOT1_NEAR_BED,elevation(dude_obj));
+      move_to(dude_obj,SPOT1_NEAR_BED,dude_elevation);
       //move_to(self_obj,SPOT2_NEAR_BED,elevation(dude_obj));
       game_time_advance(game_ticks(8*3600));//8 hours
       gfade_in(600);
@@ -391,7 +391,7 @@ procedure talk_p_proc begin
 
    if( Francis_Leaves == 1 ) then begin
       //added by killap
-      if (obj_is_carrying_obj_pid(dude_obj,PID_MEMO_FROM_FRANCIS)) then begin
+      if (dude_item_count(PID_MEMO_FROM_FRANCIS)) then begin
          remove_pid_qty(dude_obj, PID_MEMO_FROM_FRANCIS, 1)
       end
       //destroy_object(note);
@@ -461,7 +461,7 @@ procedure armwrestle begin
       // Give dude -10 to +5 random bonus
       dpower:= (dude_strength * dude_endurance) + random(0, 5) - random(0, 10);
       // Give Francis -5 to +10 random bonus
-      fpower:=(get_critter_stat(self_obj,STAT_st)) * (get_critter_stat(self_obj,STAT_en)) + random(0, 10) - random(0, 5);
+      fpower:=(self_strength) * (self_endurance) + random(0, 10) - random(0, 5);
 
       if( dpower > fpower ) then
          you_lose := 0;

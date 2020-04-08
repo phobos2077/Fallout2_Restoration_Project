@@ -142,15 +142,15 @@ procedure Check_Countdown begin
    end
 
    if (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) != BREACH_NONE) then begin
-       if ((elevation(dude_obj) == 2) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_3)) then begin
+       if ((dude_elevation == 2) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_3)) then begin
            critter_dmg(dude_obj,3*dude_max_hits,DMG_plasma BWOR DMG_BYPASS_ARMOR);
        end
 
-       if ((elevation(dude_obj) == 1) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_2)) then begin
+       if ((dude_elevation == 1) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_2)) then begin
            critter_dmg(dude_obj,3*dude_max_hits,DMG_plasma BWOR DMG_BYPASS_ARMOR);
        end
 
-       if ((elevation(dude_obj) == 0) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_1)) then begin
+       if ((dude_elevation == 0) and (global_var(GVAR_SIERRA_BASE_LEVEL_BREACH) >= BREACH_LEVEL_1)) then begin
            critter_dmg(dude_obj,3*dude_max_hits,DMG_plasma BWOR DMG_BYPASS_ARMOR);
        end
    end

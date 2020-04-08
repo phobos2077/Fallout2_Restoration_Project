@@ -126,8 +126,8 @@ end
 procedure map_enter_p_proc begin
    Frank_Ptr := self_obj;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RACIST);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_RACIST);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    if( ( global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL ) or
        ( ( global_var(GVAR_BH_JAIL) == JAIL_FORCE ) or
@@ -181,7 +181,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_CONSPIRATORS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_CONSPIRATORS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -317,7 +317,7 @@ procedure talk_p_proc begin
                 call Node001;
              end
              else begin
-                if (dude_iq <= 3) then begin
+                if (dude_is_stupid) then begin
                    call Node002;
                 end
                 else begin
@@ -368,7 +368,7 @@ procedure combat begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -381,7 +381,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;

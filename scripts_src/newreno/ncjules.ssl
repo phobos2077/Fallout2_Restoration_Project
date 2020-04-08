@@ -221,8 +221,8 @@ procedure timed_event_p_proc begin
          end
       end
    end else if (fixed_param == car_comment_param) then begin
-      animate_rotation(rotation_to_tile(tile_num(self_obj), CAR_NEW_RENO1_HEX)); // Seraph's Fix: Changed 'CAR_NEW_RENO_HEX' to 'CAR_NEW_RENO1_HEX'
-      if (((self_can_see_dude) or (obj_can_see_obj(dude_obj, self_obj))) and (obj_on_screen(self_obj))) then begin
+      self_rotate(rotation_to_tile(self_tile, CAR_NEW_RENO1_HEX)); // Seraph's Fix: Changed 'CAR_NEW_RENO_HEX' to 'CAR_NEW_RENO1_HEX'
+      if (((self_can_see_dude) or (dude_can_see_self)) and (obj_on_screen(self_obj))) then begin
          set_car_comment;
          floater(2000);
       end else begin
@@ -235,8 +235,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_JULES);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_JULES);
+         set_self_ai(AI_TOUGH_GUARD);
          set_local_var(LVAR_Rotation, self_cur_rot);
       end
 
@@ -246,7 +246,7 @@ procedure map_enter_p_proc begin
             nr_add_timer_event(self_obj, 1, car_comment_param);
          end
       end else begin
-         animate_rotation(local_var(LVAR_Rotation));
+         self_rotate(local_var(LVAR_Rotation));
       end
    end
 end
@@ -267,7 +267,7 @@ procedure critter_p_proc begin
          if (critter_is_fleeing(self_obj)) then begin
             if (anim_busy(self_obj) == false) then begin
                if (tile_distance(self_tile, map_exit_tile) > 2) then begin
-                  animate_run_to_tile(map_exit_tile);
+                  self_run_to_tile(map_exit_tile);
                end else begin
                   destroy_object(self_obj);
                end
@@ -348,7 +348,7 @@ end
 procedure Node999 begin
 end
 procedure Node990 begin
-   item_caps_adjust(dude_obj, -info_cost);
+   dude_caps_adjust(-info_cost);
    call Node025;
 end
 procedure Node989 begin
@@ -364,7 +364,7 @@ procedure Node988 begin
    end
 end
 procedure Node987 begin
-   if ((has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) or (dude_strength > 8) or (dude_wearing_power_armor) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_kamikaze)) or (has_rep_berserker)) then begin
+   if ((dude_trait(TRAIT_bruiser)) or (dude_strength > 8) or (dude_wearing_power_armor) or (dude_trait(TRAIT_kamikaze)) or (has_rep_berserker)) then begin
       call Node078;
    end else begin
       call Node077;
@@ -565,7 +565,7 @@ end
 procedure Node026 begin
    Reply(590);
    NOption(591, Node027, 004);
-   if ((has_trait(TRAIT_PERK, dude_obj, PERK_educated)) or (has_skill(dude_obj,SKILL_SCIENCE)) or (dude_iq >= 8)) then begin
+   if ((dude_perk(PERK_educated)) or (has_skill(dude_obj,SKILL_SCIENCE)) or (dude_iq >= 8)) then begin
       NOption(592, Node027, 004);
    end
    NOption(594, Node024, 004);

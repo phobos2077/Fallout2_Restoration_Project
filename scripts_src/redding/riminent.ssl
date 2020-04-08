@@ -46,11 +46,11 @@ end
 procedure use_p_proc begin
     script_overrides;
 
-   if (obj_pid(self_obj) == WELL_PID) then begin
+   if (self_pid == WELL_PID) then begin
        load_map(MAPSTR_REDMTUN,1);
    end
 
-   else if (obj_pid(self_obj) == DOWN_TOWN_WELL) then begin
+   else if (self_pid == DOWN_TOWN_WELL) then begin
        load_map(MAPSTR_REDDTUN,2);
    end
 

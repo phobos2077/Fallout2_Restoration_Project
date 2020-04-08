@@ -244,8 +244,8 @@ procedure map_enter_p_proc begin
          // setup inventory
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BISHOP);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_BISHOP);
+         set_self_ai(AI_TOUGH_GUARD);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
       call_warning_loop;
@@ -268,7 +268,7 @@ procedure critter_p_proc begin
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
       anim_move_to_point_rate(local_var(LVAR_Home_Tile), 5)
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 

@@ -109,7 +109,7 @@ variable regularSpearCount:=0;
 variable to_home:=0;
 variable from_home:=0;
 
-#define ATTRACTIVE_FEMALE ((dude_is_female) and (get_critter_stat(dude_obj,STAT_ch) >= 7))
+#define ATTRACTIVE_FEMALE ((dude_is_female) and (dude_charisma >= 7))
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -225,9 +225,9 @@ procedure map_enter_p_proc begin
    end
 
    if (cur_map_index == MAP_MERCHANT) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+      set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
 
@@ -441,10 +441,10 @@ procedure Node001 begin
       NOption(209,Node999,004);
    end else begin
       Reply(200);
-      if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
-         NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
+      if (dude_item_count(PID_GECK) == 0) then
+         NOption(mstr(202)+dude_name+mstr(203),Node002,004);
       else
-         NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
+         NOption(mstr(204)+dude_name+mstr(205),Node002,004);
       NOption(206,Node999,004);
    end
 
@@ -454,32 +454,32 @@ end
 
 procedure Node001a begin
    Reply(270);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
-      NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
+   if (dude_item_count(PID_GECK) == 0) then
+      NOption(mstr(202)+dude_name+mstr(203),Node002,004);
    else
-      NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
+      NOption(mstr(204)+dude_name+mstr(205),Node002,004);
    NOption(206,Node999,004);
 end
 
 procedure Node001b begin
    Reply(280);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
-      NOption(mstr(202)+obj_name(dude_obj)+mstr(203),Node002,004);
+   if (dude_item_count(PID_GECK) == 0) then
+      NOption(mstr(202)+dude_name+mstr(203),Node002,004);
    else
-      NOption(mstr(204)+obj_name(dude_obj)+mstr(205),Node002,004);
+      NOption(mstr(204)+dude_name+mstr(205),Node002,004);
    NOption(206,Node999,004);
 end
 
 procedure Node002 begin
    Reply(210);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then
+   if (dude_item_count(PID_GECK) == 0) then
       NOption(211,Node003,004);
    else
       NOption(212,Node003,004);
 end
 
 procedure Node003 begin
-   if (obj_is_carrying_obj_pid(dude_obj, PID_GECK) == 0) then begin
+   if (dude_item_count(PID_GECK) == 0) then begin
       Reply(220);
       NOption(222,Node004,004);
       BOption(223,Node005,004);
@@ -810,14 +810,14 @@ end
 procedure Node040 begin
    set_local_var(LVAR_Accept_Spear_Quest,1);
 
-   sharpenedSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SHARP_SPEAR);
-   regularSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SPEAR);
+   sharpenedSpearCount := dude_item_count(PID_SHARP_SPEAR);
+   regularSpearCount := dude_item_count(PID_SPEAR);
 
    set_global_var(GVAR_TRIBE_WEAPONS,1);
 
    Reply(810);
 
-   if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
+   if (((sharpenedSpearCount + regularSpearCount) >= 5) and (dude_item_count(PID_KNIFE) >= 10)) then
       NLowOption(812,Node038);
    else
       NLowOption(811,Node902);
@@ -837,12 +837,12 @@ procedure Node042 begin
 end
 
 procedure Node043 begin
-   sharpenedSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SHARP_SPEAR);
-   regularSpearCount := obj_is_carrying_obj_pid(dude_obj, PID_SPEAR);
+   sharpenedSpearCount := dude_item_count(PID_SHARP_SPEAR);
+   regularSpearCount := dude_item_count(PID_SPEAR);
 
    Reply(830);
 
-   if (((sharpenedSpearCount + regularSpearCount) >= 5) and (obj_is_carrying_obj_pid(dude_obj, PID_KNIFE) >= 10)) then
+   if (((sharpenedSpearCount + regularSpearCount) >= 5) and (dude_item_count(PID_KNIFE) >= 10)) then
       NLowOption(831,Node041);
    else
       NLowOption(832,Node999);
@@ -880,11 +880,11 @@ procedure removeWeapons begin
    give_xp(EXP_TRIBE_WEAPONS);
    inc_general_rep(REP_BONUS_TRIBE_WEAPONS);
    set_global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE,global_var(GVAR_TOWN_REP_PRIMITIVE_TRIBE) + 10);
-   Obj := obj_carrying_pid_obj(dude_obj,PID_KNIFE);
+   Obj := dude_item(PID_KNIFE);
    Remove := rm_mult_objs_from_inven(dude_obj, Obj, 10 );
 
-   Obj2 := obj_carrying_pid_obj(dude_obj,PID_SHARP_SPEAR);
-   Obj3 := obj_carrying_pid_obj(dude_obj,PID_SPEAR);
+   Obj2 := dude_item(PID_SHARP_SPEAR);
+   Obj3 := dude_item(PID_SPEAR);
 
    if (sharpenedSpearCount >= 5) then
       count := 5;

@@ -75,15 +75,15 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_HOLY_PEOPLE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_RND_HOLY_PEOPLE);
+   set_self_ai(AI_PEASANT);
 //   set_local_var(LVAR_Hostile, 2);
 end
 
 //added by killap
 procedure look_at_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(105));
    else
       display_msg(mstr(106));
@@ -91,7 +91,7 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   if (critter_is_male) then
+   if (self_is_male) then
       display_msg(mstr(105));
    else
       display_msg(mstr(106));
@@ -114,7 +114,7 @@ procedure critter_p_proc begin
 //   if (local_var(LVAR_Hostile) == 2 and obj_can_see_obj(self_obj,dude_obj)) then begin
 //      set_local_var(LVAR_Hostile, 1);
 
-   if ( obj_can_see_obj(self_obj,dude_obj) ) then //added by killap
+   if ( self_can_see_dude ) then //added by killap
       attack(dude_obj);
 //   end
 

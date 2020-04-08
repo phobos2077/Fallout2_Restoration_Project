@@ -49,24 +49,24 @@ procedure map_enter_p_proc begin
    Check_Create_Car(CAR_RANDOM_MOUNTAIN_HEX, CAR_RANDOM_MOUNTAIN_ELEV)
 
         // Attempt to place some caravan guards
-        k:=elevation(dude_obj);
+        k:=dude_elevation;
         master := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHA);
-        critter_add_trait(master,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
-        master_hex := tile_num_in_direction(tile_num(dude_obj),0,3);
+        set_ai(master,AI_TOUGH_GUARD);
+        master_hex := tile_num_in_direction(dude_tile,0,3);
         //critter_attempt_placement(master,master_hex, k);
 
         cguard := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHB);
-        critter_add_trait(cguard,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+        set_ai(cguard,AI_TOUGH_GUARD);
         cguard_hex := tile_num_in_direction(master_hex,1,2);
         critter_attempt_placement(cguard,cguard_hex, k);
 
         cguard := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHB);
-        critter_add_trait(cguard,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+        set_ai(cguard,AI_TOUGH_GUARD);
         cguard_hex := tile_num_in_direction(master_hex,2,2);
         critter_attempt_placement(cguard,cguard_hex, k);
 
         cguard := create_object_sid(PID_TOUGH_GUARD_MALE,0,0,SCRIPT_HCENCHB);
-        critter_add_trait(cguard,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+        set_ai(cguard,AI_TOUGH_GUARD);
         cguard_hex := tile_num_in_direction(master_hex,4,8);
 
         critter_attempt_placement(cguard,master_hex, k);

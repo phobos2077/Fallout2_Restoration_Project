@@ -46,7 +46,7 @@ procedure map_update_p_proc;
 
 #define k9_joins_party                    party_add(self_obj);                                                   \
                                           add_timer_event(self_obj,game_ticks(1),1);                             \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+                                          set_self_team(TEAM_PLAYER)
 #define dude_has_free_slot_for_k9         ((dude_at_max_party_size == false) and (K9_In_Party == false))
 #define k9_party_member_options                                                                \
          party_member_default_options
@@ -116,13 +116,13 @@ procedure map_enter_p_proc begin
    party_member_map_enter;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CYBERDOG);
+   set_self_team(TEAM_DUNTONS);
+   set_self_ai(AI_CYBERDOG);
 end
 
 procedure critter_p_proc begin
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -243,10 +243,10 @@ procedure use_skill_on_p_proc begin
       dialogue_system_enter;
    end
    else if (action_being_used == SKILL_REPAIR) then begin
-      if (obj_is_carrying_obj_pid(dude_obj, PID_K9_MOTIVATOR)) then begin
+      if (dude_item_count(PID_K9_MOTIVATOR)) then begin
          repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,-10);
          if (is_success(repair_check)) then begin
-            item:=obj_carrying_pid_obj(dude_obj, PID_K9_MOTIVATOR);
+            item:=dude_item(PID_K9_MOTIVATOR);
             rm_obj_from_inven(dude_obj,item);
             destroy_object(item); //added by killap
             //floater(154); --comment out by killap
@@ -276,7 +276,7 @@ procedure use_obj_on_p_proc begin
       if (Tool == PID_K9_MOTIVATOR) then begin
          repair_check:=roll_vs_skill(dude_obj,SKILL_REPAIR,-10);
          if (is_success(repair_check)) then begin
-            item:=obj_carrying_pid_obj(dude_obj, PID_K9_MOTIVATOR);
+            item:=dude_item(PID_K9_MOTIVATOR);
             rm_obj_from_inven(dude_obj,item);
             destroy_object(item); //added by killap
             //floater(154); -- comment out by killap
@@ -295,7 +295,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -410,7 +410,7 @@ end
 procedure Node013 begin
    Reply(145);
 
-   if (obj_is_carrying_obj_pid(dude_obj, PID_K9_MOTIVATOR)) then begin
+   if (dude_item_count(PID_K9_MOTIVATOR)) then begin
       NLowOption(147,Node015);
       NOption(149,Node015,004);
    end
@@ -508,7 +508,7 @@ procedure Node800 begin
       give_xp(EXP_K9_FIXED);
       set_global_var(GVAR_NAVARRO_K9, NAVARRO_K9_FIXED);
       dog := create_object_sid(PID_K9,0,0,SCRIPT_CCK9);
-      move_to(dog, DOG_HEX, elevation(dude_obj));
+      move_to(dog, DOG_HEX, dude_elevation);
       destroy_object(self_obj);
    end
 end

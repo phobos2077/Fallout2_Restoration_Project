@@ -81,12 +81,12 @@ end
 
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_COWARD);
 end
 
 procedure critter_p_proc begin
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          call Node015;
          set_local_var(LVAR_Hostile,1);
@@ -242,7 +242,7 @@ procedure Node005 begin
 end
 
 procedure Node006 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -20 ) ) ) then begin
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -20 ) ) ) then begin
       Reply(136);
 
       NOption(138, Node007, 004);

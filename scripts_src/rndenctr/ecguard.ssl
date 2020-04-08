@@ -82,8 +82,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_CARAVAN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_CARAVAN);
+   set_self_ai(AI_GENERIC_GUARDS);
 end
 
 
@@ -107,7 +107,7 @@ procedure critter_p_proc begin
    this as well. */
 
 
-   if ((obj_can_see_obj(self_obj,dude_obj)) and (tile_distance_objs(self_obj,dude_obj) < 8)) then begin
+   if ((self_can_see_dude) and (tile_distance_objs(self_obj,dude_obj) < 8)) then begin
        if ((local_var(LVAR_Gave_Warning) == 0) and (dude_is_armed)) then begin
            set_local_var(LVAR_Gave_Warning,1);
            floater(random(200,203));
@@ -144,7 +144,7 @@ procedure timed_event_p_proc begin
                floater(250);
                attack(dude_obj);
            end
-           else if (obj_can_see_obj(self_obj,dude_obj)) then begin
+           else if (self_can_see_dude) then begin
                floater(250);
                attack(dude_obj);
            end

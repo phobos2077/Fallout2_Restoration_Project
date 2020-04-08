@@ -119,8 +119,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_MERK);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_NCR_MERK);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -133,7 +133,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -180,7 +180,7 @@ procedure talk_p_proc begin
            call Node003;
        gSay_End;
        end_dialogue;
-   end else if (dude_iq <= 3 and dude_strength >= 7) then begin
+   end else if (dude_is_stupid and dude_strength >= 7) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node002;
@@ -304,7 +304,7 @@ procedure Node003 begin
       end
    end else begin
       if (local_var(LVAR_N3_Count) == 0) then begin
-         add_obj_to_inven(dude_obj, create_object(PID_BOOZE, tile_num(self_obj), 0));
+         add_obj_to_inven(dude_obj, create_object(PID_BOOZE, self_tile, 0));
          Reply(115);
          ENDOPTION;
       end else begin
@@ -317,9 +317,9 @@ procedure Node003 begin
 end
 
 procedure Node9a begin
-   item_caps_adjust(dude_obj, -10);
-   item_caps_adjust(self_obj, 10);
-   add_obj_to_inven(dude_obj, create_object(PID_BOOZE, tile_num(self_obj), 0));
+   dude_caps_adjust(-10);
+   self_caps_adjust(10);
+   add_obj_to_inven(dude_obj, create_object(PID_BOOZE, self_tile, 0));
    call Node009;
 end
 
@@ -345,9 +345,9 @@ procedure Node006 begin
 end
 
 procedure Node9b begin
-   item_caps_adjust(dude_obj, -1);
-   item_caps_adjust(self_obj, 1);
-   add_obj_to_inven(dude_obj, create_object(PID_BEER, tile_num(self_obj), 0));
+   dude_caps_adjust(-1);
+   self_caps_adjust(1);
+   add_obj_to_inven(dude_obj, create_object(PID_BEER, self_tile, 0));
    call Node009;
 end
 
@@ -507,7 +507,7 @@ end
 
 procedure Node023 begin
    set_global_var(GVAR_NCR_MIRA_STATE, MJOBDONE);
-   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, tile_num(self_obj), 0));
+   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, self_tile, 0));
    Reply(181);
    ENDOPTION;
 end
@@ -530,7 +530,7 @@ procedure Node025 begin
 end
 
 procedure Node026 begin
-   add_obj_to_inven(dude_obj, create_object(PID_BOOZE, tile_num(self_obj), 0)); //added by killap
+   add_obj_to_inven(dude_obj, create_object(PID_BOOZE, self_tile, 0)); //added by killap
    Reply(193);
    NLowOption(194, Node009);
    NLowOption(195, Node999);
@@ -539,14 +539,14 @@ procedure Node026 begin
 end
 
 procedure Node027 begin
-   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, tile_num(self_obj), 0));
+   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, self_tile, 0));
    Reply(198);
    NOption(199, Node011, 4);
    NOption(200, Node999, 4);
 end
 
 procedure Node028 begin
-   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, tile_num(self_obj), 0));
+   add_obj_to_inven(dude_obj, create_object(HKP90C_PID, self_tile, 0));
    Reply(201);
    NLowOption(202, Node009);
    NLowOption(203, Node999);

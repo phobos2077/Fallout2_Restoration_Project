@@ -55,7 +55,7 @@ end
 
 procedure map_enter_p_proc begin
    //edit by killap
-   if( elevation( dude_obj ) == 2 ) then
+   if( dude_elevation == 2) then
       Basement_Lighting;
    else
       Full_Light;
@@ -63,7 +63,7 @@ end
 
 procedure map_update_p_proc begin
    //edit by killap
-   if( elevation( dude_obj ) == 2 ) then
+   if( dude_elevation == 2) then
       Basement_Lighting;
    else
       Full_Light;

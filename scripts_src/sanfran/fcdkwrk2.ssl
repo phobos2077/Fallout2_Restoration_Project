@@ -174,7 +174,7 @@ procedure critter_p_proc begin
 
 
 
-   if ( ((local_var(LVAR_Hostile) == 2) or (san_fran_flag(SF_SHI_ENEMY))) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( ((local_var(LVAR_Hostile) == 2) or (san_fran_flag(SF_SHI_ENEMY))) and (self_can_see_dude) ) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -236,7 +236,7 @@ procedure Node004 begin
    Reply(230);
    NOption(231, Node005, 4);
    NOption(232, Node006, 4);
-   if (has_skill(dude_obj,SKILL_CONVERSANT) > 80) then
+   if (has_skill(dude_obj,SKILL_SPEECH) > 80) then
       NOption(233, Node007, 4);
 end
 

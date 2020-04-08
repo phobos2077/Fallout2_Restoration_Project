@@ -38,7 +38,7 @@ procedure use_obj_on_p_proc begin
       end else if (global_var(GVAR_FIX_HOLOGRAM00000) > 0) and (global_var(GVAR_FIX_HOLOGRAM00000) < 3) then begin
          if (has_skill(dude_obj, SKILL_REPAIR) > 50) then begin
             if (local_var(LVAR_Herebefore) == 0) then begin
-               display_msg(message_str(NAME, 103));
+               display_msg(mstr(103));
                set_global_var(GVAR_FIX_HOLOGRAM00000, 2);
                set_local_var(LVAR_Herebefore, 1);
                game_time_advance(ONE_GAME_MINUTE * 30);
@@ -63,7 +63,7 @@ procedure use_skill_on_p_proc begin
       end else if (global_var(GVAR_FIX_HOLOGRAM00000) > 0) and (global_var(GVAR_FIX_HOLOGRAM00000) < 3) then begin
          if (has_skill(source_obj, SKILL_REPAIR) > 80) then begin
             if (local_var(LVAR_Herebefore) == 0) then begin
-               display_msg(message_str(NAME, 103));
+               display_msg(mstr(103));
                set_global_var(GVAR_FIX_HOLOGRAM00000, 2);
                set_local_var(LVAR_Herebefore, 1);
                game_time_advance(ONE_GAME_MINUTE * 30);
@@ -82,16 +82,16 @@ end
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   else
-    display_msg(message_str(NAME, 101));
+    display_msg(mstr(101));
 end
 
 procedure use_p_proc

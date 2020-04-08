@@ -121,8 +121,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_COWARD);
 end
 
 
@@ -135,7 +135,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -178,7 +178,7 @@ procedure talk_p_proc begin
        call Node998;
    end
 
-   else if ((get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
+   else if ((dude_iq <= (0-LOW_IQ))) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            //added by killap
@@ -251,12 +251,12 @@ end
 procedure Node910 begin
 //if player money < 5 goto 13 and set nogive
 //else goto 5 subtract 5 coins and set give
-   if (item_caps_total(dude_obj) > 4) then begin
+   if (dude_caps > 4) then begin
       if (local_var(LVAR_maxtr) < 3) then begin
          set_local_var(LVAR_maxtr, local_var(LVAR_maxtr) + 1);
          KC_REP_ADJUST(1)
       end
-      item_caps_adjust(dude_obj,-5); //subtract 5 coins
+      dude_caps_adjust(-5); //subtract 5 coins
       set_local_var(LVAR_Give, 1);
       call Node005;
    end
@@ -270,12 +270,12 @@ end
 procedure Node911 begin
 //if player money < 20 goto 13 and set nogive
 //else goto 23 subtract 20 coins and set give
-   if (item_caps_total(dude_obj) > 19) then begin
+   if (dude_caps > 19) then begin
       if (local_var(LVAR_maxtr) < 3) then begin
          set_local_var(LVAR_maxtr, local_var(LVAR_maxtr) + 1);
          KC_REP_ADJUST(1)
       end
-      item_caps_adjust(dude_obj,-20); //subtract 20 coins
+      dude_caps_adjust(-20); //subtract 20 coins
       set_local_var(LVAR_Give, 1);
       call Node014;
    end
@@ -286,7 +286,7 @@ end
 //end added
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -299,7 +299,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;

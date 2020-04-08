@@ -121,7 +121,7 @@ procedure map_enter_p_proc begin
    end
    Cavern_Lighting;
 
-   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((has_trait(TRAIT_PERK,dude_obj,PERK_mysterious_stranger)))) then begin
+   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (random(0,99) < (30 + (2*dude_luck))) and ((dude_perk(PERK_mysterious_stranger)))) then begin
        if (not(get_stranger_flag(STRANGER_GENDER))) then begin
            set_stranger_flag(STRANGER_GENDER);
            ndebug("Set the Stranger Gender");
@@ -152,15 +152,15 @@ procedure map_enter_p_proc begin
            else
                Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_MALE,0,0,SCRIPT_ECMSTSTR);
        end
-       Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),random(5,10));
-       critter_attempt_placement(Critter,Critter_Tile,elevation(dude_obj));
+       Critter_Tile:=tile_num_in_direction(dude_tile,random(0,5),random(5,10));
+       critter_attempt_placement(Critter,Critter_Tile,dude_elevation);
    end
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
 end
 
 procedure map_update_p_proc begin
    //added by killap
-   if( elevation( dude_obj ) == 0 ) then
+   if( dude_elevation == 0) then
       Lighting;
    else
    //end

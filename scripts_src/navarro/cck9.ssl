@@ -45,7 +45,7 @@ procedure map_update_p_proc;
 
 #define k9_joins_party                    party_add(self_obj);                                                   \
                                           add_timer_event(self_obj,game_ticks(1),1);                             \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+                                          set_self_team(TEAM_PLAYER)
 #define dude_has_free_slot_for_k9         ((dude_at_max_party_size == false) and (K9_In_Party == false))
 #define k9_party_member_options                                                                \
          party_member_default_options
@@ -113,7 +113,7 @@ end
 procedure map_update_p_proc begin
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -147,7 +147,7 @@ procedure map_enter_p_proc begin
    end
    else begin
       Only_Once:=0;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DUNTONS);
+      set_self_team(TEAM_DUNTONS);
       //NEVER SET AI FOR NPCs
       //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CYBERDOG);
    end
@@ -178,7 +178,7 @@ procedure critter_p_proc begin
          k9_joins_party;
       end
    end
-   else if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -247,7 +247,7 @@ procedure talk_p_proc begin
    end
 // DONT CARE ABOUT MOTIVATOR ANYMORE...THE SCENERY OBJ TAKES CARE OF THIS
 /*
-   else if (obj_is_carrying_obj_pid(dude_obj, PID_K9_MOTIVATOR)) then begin
+   else if (dude_item_count(PID_K9_MOTIVATOR)) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node013;
@@ -413,7 +413,7 @@ end
 procedure Node013 begin
    Reply(145);
 
-   if (obj_is_carrying_obj_pid(dude_obj, PID_K9_MOTIVATOR)) then begin
+   if (dude_item_count(PID_K9_MOTIVATOR)) then begin
       NLowOption(147,Node015);
       NOption(149,Node015,004);
    end

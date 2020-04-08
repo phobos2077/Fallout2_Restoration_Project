@@ -124,8 +124,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KHAN_GUARD);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_V15_KHAN);
+   set_self_team(TEAM_KHAN_GUARD);
+   set_self_ai(AI_V15_KHAN);
 
    add_timer_event(self_obj, game_ticks(Random(30, 50)), TIMER_IDLE_TALK);
    GuardNum := i_Guard_Count;
@@ -149,7 +149,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
       if (map_var(MVAR_Vault15_Guards_Attack) != 1) then begin
          set_map_var(MVAR_Vault15_Guards_Attack, 1);
@@ -285,7 +285,7 @@ procedure Node002 begin
 end
 
 procedure Node003 begin
-   if (skill_success(dude_obj, SKILL_CONVERSANT, 0)) then begin
+   if (skill_success(dude_obj, SKILL_SPEECH, 0)) then begin
       set_map_var(MVAR_Grilled_Player, 1);
       Reply(107);
       ENDOPTION;
@@ -311,8 +311,8 @@ procedure NodeIdleTalk begin
       count1 := 1;
       while (count1 < 6 and talk == 0) do begin
          tile := tile_num_in_direction(self_tile, count, count1);
-         if (tile_contains_obj_pid(tile, elevation(self_obj), KHAN_GUARD_PID1) or
-             tile_contains_obj_pid(tile, elevation(self_obj), KHAN_GUARD_PID2)) then begin
+         if (tile_contains_obj_pid(tile, self_elevation, KHAN_GUARD_PID1) or
+             tile_contains_obj_pid(tile, self_elevation, KHAN_GUARD_PID2)) then begin
              talk := 1;
          end
          count1 += 1;
@@ -332,7 +332,7 @@ end
 
 procedure canISee begin
    if (game_time > lastCheckTime) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          return 1;
       end
       lastCheckTime := game_time + (ONE_GAME_MINUTE / 2);

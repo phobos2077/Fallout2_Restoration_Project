@@ -128,37 +128,37 @@ procedure map_enter_p_proc begin
    end
    else if (not(is_loading_game)) then begin
        if (cur_map_index == MAP_BH_RND_DESERT) then
-           critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+           set_self_team(TEAM_PLAYER);
        else
-           critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_REDDING);
-       critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+           set_self_team(TEAM_REDDING);
+       set_self_ai(AI_GENERIC_GUARDS);
        if ((get_day >= 7) and (get_day <= 11)) then begin
            if (cur_map_index == MAP_REDDING_MINE_ENT) then begin
                if ((get_month % 2) == 0) then begin
-                   set_obj_visibility(self_obj,0);
+                   set_self_visible;
                end
                else begin
-                   set_obj_visibility(self_obj,1);
+                   set_self_invisible;
                end
            end
            else begin
                if ((get_month % 2) == 1) then begin
-                   set_obj_visibility(self_obj,0);
+                   set_self_visible;
                end
                else begin
-                   set_obj_visibility(self_obj,1);
+                   set_self_invisible;
                end
            end
        end
        else begin
-           set_obj_visibility(self_obj,1);
+           set_self_invisible;
        end
 
        if (cur_map_index == MAP_BH_RND_DESERT) then
-           set_obj_visibility(self_obj,0);
+           set_self_visible;
 
        else if ((global_var(CURRENT_CARAVAN) != REDDING_CARAVAN_NONE) and (local_var(LVAR_No_More_Caravans) == 0)) then //killap fix: was (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_AVERAGE_SUCCESS) then
-           set_obj_visibility(self_obj,0);
+           set_self_visible;
    end
 end
 
@@ -167,30 +167,30 @@ procedure map_update_p_proc begin
        if ((get_day >= 7) and (get_day <= 11)) then begin
            if (cur_map_index == MAP_REDDING_MINE_ENT) then begin
                if ((get_month % 2) == 0) then begin
-                   set_obj_visibility(self_obj,0);
+                   set_self_visible;
                end
                else begin
-                   set_obj_visibility(self_obj,1);
+                   set_self_invisible;
                end
            end
            else begin
                if ((get_month % 2) == 1) then begin
-                   set_obj_visibility(self_obj,0);
+                   set_self_visible;
                end
                else begin
-                   set_obj_visibility(self_obj,1);
+                   set_self_invisible;
                end
            end
        end
        else begin
-           set_obj_visibility(self_obj,1);
+           set_self_invisible;
        end
 
        if (cur_map_index == MAP_BH_RND_DESERT) then
-           set_obj_visibility(self_obj,0);
+           set_self_visible;
 
        else if (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_AVERAGE_SUCCESS) then
-           set_obj_visibility(self_obj,0);
+           set_self_visible;
    end
 
    if ((not(is_loading_game)) and (not(combat_is_initialized)) ) then begin   //check added by killap - probably doesn't help, but doesn't hurt either.
@@ -221,11 +221,11 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_ENEMY_REDDING) == 1) and (self_can_see_dude)) then begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -539,7 +539,7 @@ end
 
 procedure Node008 begin
    set_global_var(CURRENT_CARAVAN,REDDING_CARAVAN_NONE);
-   item_caps_adjust(dude_obj,500);
+   dude_caps_adjust(500);
 
    Reply(128);
 
@@ -549,7 +549,7 @@ end
 
 procedure Node009 begin
    set_global_var(CURRENT_CARAVAN,REDDING_CARAVAN_NONE);
-   item_caps_adjust(dude_obj,2000);
+   dude_caps_adjust(2000);
 
    Reply(131);
 
@@ -559,7 +559,7 @@ end
 
 procedure Node010 begin
    set_global_var(CURRENT_CARAVAN,REDDING_CARAVAN_NONE);
-   item_caps_adjust(dude_obj,2500);
+   dude_caps_adjust(2500);
 
    Reply(134);
 

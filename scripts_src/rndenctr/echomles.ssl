@@ -79,7 +79,7 @@ procedure timed_event_p_proc begin
          if (tile_distance_objs(self_obj, dude_obj) > FOLLOW_DIST) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tile_num_in_direction(dude_tile, Random(0, 5), Random(0, FOLLOW_DIST)) );
+            self_walk_to_tile(tile_num_in_direction(dude_tile, Random(0, 5), Random(0, FOLLOW_DIST)));
             reg_anim_end();
          end
          call Node001;
@@ -100,8 +100,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_HOMELESS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_RND_HOMELESS);
+   set_self_ai(AI_PEASANT);
    add_timer_event(self_obj, game_ticks(Random(1, 5)), TIMER_BEG);
    add_timer_event(self_obj, game_ticks(30), TIMER_ATTACK); //doubled time before attacking since it is basically impossible to do it in 15 ticks. Really, the way this is done should be reworked, but I do not have the time these days... -killap (expansion)
 end
@@ -135,7 +135,7 @@ procedure critter_p_proc begin
 
    if (local_var(LVAR_Got_Something) != 0) then set_local_var(LVAR_Hostile, 0);
 
-   if (local_var(LVAR_Hostile) == 2 and obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (local_var(LVAR_Hostile) == 2 and self_can_see_dude) then begin
 //      set_local_var(LVAR_Hostile, 1);
       attack(dude_obj);
    end

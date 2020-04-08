@@ -118,8 +118,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Float_Hello := 1;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_GUARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_VAULT_GUARD);
 
    if( local_var( LVAR_Created ) == 0 ) then begin
       if ( map_var( MVAR_Vault_Guard_Count ) == 0 ) then begin
@@ -147,7 +147,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
        //added by killap
@@ -158,11 +158,11 @@ procedure critter_p_proc begin
    end
 
    if( ( local_var( LVAR_Talking_Guard ) == 1 ) and
-       ( obj_can_see_obj( self_obj, dude_obj ) ) or
-       ( obj_can_hear_obj( self_obj, dude_obj ) ) and
-       ( ( tile_distance( VAULT_EXIT_HEX_1, tile_num( dude_obj ) ) <= 4 ) or
-         ( tile_distance( VAULT_EXIT_HEX_2, tile_num( dude_obj ) ) <= 4 ) or
-         ( tile_distance( VAULT_EXIT_HEX_3, tile_num( dude_obj ) ) <= 4 ) ) ) then begin
+       ( self_can_see_dude ) or
+       ( self_can_hear_dude ) and
+       ( ( tile_distance( VAULT_EXIT_HEX_1, dude_tile ) <= 4 ) or
+         ( tile_distance( VAULT_EXIT_HEX_2, dude_tile ) <= 4 ) or
+         ( tile_distance( VAULT_EXIT_HEX_3, dude_tile ) <= 4 ) ) ) then begin
       if( Fallout2_enclave_destroyed ) then begin
          if( Float_Hello == 1 ) then
             call Node017;
@@ -264,11 +264,11 @@ procedure talk_p_proc begin
        end_dialogue;
        //added by killap
        if (map_var(MVAR_Player_As_Slave) == 1) then begin
-           destroy_object(tile_contains_pid_obj(28917, 0, 33554499));    // remove blocking hex at gate
+           destroy_object(tile_contains_pid_obj(28917, 0, PID_BLOCKING_HEX));    // remove blocking hex at gate
        end
        //end added
    end
-   else if ( (TOWN_REPUTATION < -20 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) or (dude_iq < 4) ) then begin // edit by killap - added not (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   else if ( (TOWN_REPUTATION < -20 and not(dude_perk(PERK_cult_of_personality))) or (dude_iq < 4) ) then begin // edit by killap - added not (dude_perk(PERK_cult_of_personality))
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node001;
@@ -486,7 +486,7 @@ procedure Node014 begin
 end
 
 procedure Node015 begin
-   if( dude_iq <= 3 ) then
+   if( dude_is_stupid ) then
       Reply( mstr(153) + " " + mstr(155) );
    else
       Reply( mstr(154) + " " + mstr(155) );

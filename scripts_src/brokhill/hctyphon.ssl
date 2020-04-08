@@ -131,21 +131,21 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) >= TYPHON_TREASURE_TOLD ) and
           ( map_var( MVAR_Seymour_Status ) == SEYMOUR_PLANTED ) and
-          ( tile_num( self_obj ) != 18482 ) ) then begin
+          ( self_tile != 18482) ) then begin
          move_to( self_obj, 18482, 0 );
          critter_attempt_placement( self_obj, 18482, 0 );
-         anim( self_obj, ANIMATE_ROTATION, 5 );
+         self_rotate( 5);
          add_timer_event( self_obj, game_ticks( random( 5, 10 ) ), 0 );
       end
       else if( ( global_var( GVAR_TYPHON_QUEST_STATUS ) >= TYPHON_TREASURE_TOLD ) and
                ( map_var( MVAR_Seymour_Status ) == SEYMOUR_PLANTED ) and
-               ( tile_num( self_obj ) == 18482 ) ) then begin
+               ( self_tile == 18482) ) then begin
          add_timer_event( self_obj, game_ticks( random( 5, 10 ) ), 0 );
       end
    end
@@ -200,7 +200,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) != 0) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) != 0) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -420,11 +420,11 @@ procedure Node006 begin
       set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GET_MAGAZINE );
    Reply(126);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+   if( dude_item_count( PID_CATS_PAW) > 0) then
       NLowOption(127, Node006a);
    NLowOption(128, Node999);
    NLowOption(129, Node004);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+   if( dude_item_count( PID_CATS_PAW) > 0) then
       NOption(130, Node006a, 004);
    NOption(131, Node999, 004);
    NOption(132, Node004, 004);
@@ -434,7 +434,7 @@ procedure Node006a begin
    variable magazine;
 
    set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GAVE_MAGAZINE );
-   magazine := obj_carrying_pid_obj( dude_obj, PID_CATS_PAW );
+   magazine := dude_item( PID_CATS_PAW);
    rm_obj_from_inven( dude_obj, magazine );
    add_obj_to_inven( self_obj, magazine );
    call Node007;
@@ -512,10 +512,10 @@ end
 procedure Node016 begin
    Reply(166);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+   if( dude_item_count( PID_CATS_PAW) > 0) then
       NLowOption(167, Node006a);
    NLowOption(168, Node017);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_CATS_PAW ) > 0 ) then
+   if( dude_item_count( PID_CATS_PAW) > 0) then
       NOption(169, Node006a, 004);
    NOption(170, Node011, 004);
    NOption(171, Node017, 004);
@@ -529,11 +529,11 @@ procedure Node018 begin
    set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GET_BLOW_UP_DOLL );
    Reply(174);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_BLOW_UP_DOLL ) > 0 ) then
+   if( dude_item_count( PID_BLOW_UP_DOLL) > 0) then
       NLowOption(177, Node018a);
    NLowOption(176, Node004);
    NLowOption(175, Node017);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_BLOW_UP_DOLL ) > 0 ) then
+   if( dude_item_count( PID_BLOW_UP_DOLL) > 0) then
       NOption(181, Node018a, 004);
    NOption(178, Node011, 004);
    NOption(179, Node017, 004);
@@ -544,7 +544,7 @@ procedure Node018a begin
    variable doll;
 
    set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GAVE_BLOW_UP_DOLL );
-   doll := obj_carrying_pid_obj( dude_obj, PID_BLOW_UP_DOLL );
+   doll := dude_item( PID_BLOW_UP_DOLL);
    rm_obj_from_inven( dude_obj, doll );
    add_obj_to_inven( self_obj, doll );
    call Node019;
@@ -566,20 +566,20 @@ procedure Node021 begin
    set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_GET_ROTGUT );
 
    // Pop the Rubber woman.
-   dollCount := obj_is_carrying_obj_pid( self_obj, PID_BLOW_UP_DOLL );
+   dollCount := self_item_count( PID_BLOW_UP_DOLL);
    if( dollCount > 0 ) then begin
-      doll := obj_carrying_pid_obj( self_obj, PID_BLOW_UP_DOLL );
+      doll := self_item( PID_BLOW_UP_DOLL);
       rm_obj_from_inven( self_obj, doll );
       doll := create_object( PID_POPPED_BLOW_UP_DOLL, 0, 0 );
       add_obj_to_inven( self_obj, doll );
    end
    Reply(186);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_ROT_GUT ) > 0 ) then
+   if( dude_item_count( PID_ROT_GUT) > 0) then
       NLowOption(189, Node021a);
    NLowOption(188, Node004);
    NLowOption(187, Node999);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_ROT_GUT ) > 0 ) then
+   if( dude_item_count( PID_ROT_GUT) > 0) then
       NOption(190, Node021a, 004);
    NOption(191, Node022, 004);
    NOption(193, Node004, 004);
@@ -590,7 +590,7 @@ procedure Node021a begin
    variable rotgut;
 
    set_global_var( GVAR_TYPHON_QUEST_STATUS, TYPHON_TREASURE_TOLD );
-   rotgut := obj_carrying_pid_obj( dude_obj, PID_ROT_GUT );
+   rotgut := dude_item( PID_ROT_GUT);
    rm_obj_from_inven( dude_obj, rotgut );
    add_obj_to_inven( self_obj, rotgut );
    call Node023;

@@ -89,8 +89,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_FARMER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_RND_FARMER);
+   set_self_ai(AI_GENERIC_GUARDS);
 end
 
 
@@ -103,7 +103,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -166,12 +166,12 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    if (local_var(LVAR_Herebefore) == 0) then begin
-      if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+      if (self_is_male) then
           display_msg(mstr(100));
       else
           display_msg(mstr(200));
    end else begin
-      if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+      if (self_is_male) then
         display_msg(mstr(101));
       else
          display_msg(mstr(201));
@@ -183,7 +183,7 @@ end
    if the critter is known to the player. */
 procedure description_p_proc begin
    script_overrides;
-   if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+   if (self_is_male) then
        display_msg(mstr(102));
    else
        display_msg(mstr(202));
@@ -288,9 +288,5 @@ procedure NodeFleeing begin
 end
 
 procedure NodeFighting begin
-   //float_msg(self_obj, mstr(Random(131, 136)), FLOAT_MSG_RED);
-   float_msg(self_obj, mstr(Random(131, (135 + critter_is_male))), FLOAT_MSG_RED); //edit by killap, added critter_is_male
+   float_msg(self_obj, mstr(Random(131, (135 + self_is_male))), FLOAT_MSG_RED);
 end
-
-
-//xxxxxxxxxxxxxxxxxxxx

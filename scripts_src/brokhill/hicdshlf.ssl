@@ -88,7 +88,7 @@ end
 procedure Node991 begin
    variable chad;
    chad := create_object_sid(PID_AGILE_THUG_MALE, 0, 0, SCRIPT_HCCHAD);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_ai(AI_TOUGH_CITIZEN);
    move_to(chad,22052,0);
    set_map_var(MVAR_House_Encounter,1);
    ndebug("map var:" + map_var(MVAR_House_Encounter));

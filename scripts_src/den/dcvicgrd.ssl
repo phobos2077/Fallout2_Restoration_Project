@@ -142,8 +142,8 @@ procedure map_enter_p_proc begin
    vic_door_guard_obj := self_obj;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_SLAVER);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVER);
+         set_self_team(TEAM_DEN_SLAVER);
+         set_self_ai(AI_SLAVER);
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
@@ -151,7 +151,7 @@ procedure map_enter_p_proc begin
          critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), self_elevation);
       end
       if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-         animate_rotation(local_var(LVAR_Home_Rotation));
+         self_rotate(local_var(LVAR_Home_Rotation));
       end
    end
 end
@@ -165,9 +165,9 @@ procedure critter_p_proc begin
          self_attack_dude;
       end
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -233,7 +233,7 @@ procedure Node990 begin
    end
 end
 procedure Node989 begin
-   if ((is_skill_tagged(SKILL_REPAIR)) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-10)))) then begin
+   if ((is_skill_tagged(SKILL_REPAIR)) or (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-10)))) then begin
       set_see_vic(state_see_vic_okay);
       call Node006;
    end else begin
@@ -324,7 +324,7 @@ end
 procedure Node006 begin
    open_vic_door
    if (see_vic(state_see_vic_waiting)) then begin
-      item_caps_adjust(dude_obj, -300);
+      dude_caps_adjust(-300);
       set_see_vic(state_see_vic_okay);
       Reply(275);
    end else begin

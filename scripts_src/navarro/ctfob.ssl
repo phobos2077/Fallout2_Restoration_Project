@@ -18,7 +18,7 @@ end
 
 procedure spatial_p_proc begin
    if( ( local_var( LVAR_Gave_Reward ) == 0 ) and
-       ( obj_is_carrying_obj_pid( dude_obj, PID_TANKER_FOB ) > 0 ) ) then begin
+       ( dude_item_count( PID_TANKER_FOB) > 0) ) then begin
       set_local_var( LVAR_Gave_Reward, 1 );
       if (global_var(GVAR_NAVARRO_FOB) < NAVARRO_HAVE_FOB) then begin
          display_msg(mstr(100));

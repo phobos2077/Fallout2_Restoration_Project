@@ -77,8 +77,8 @@ end
 
 procedure spatial_p_proc begin
    if (combat_is_initialized == false) then begin
-      if not(has_trait(TRAIT_PERK,dude_obj,PERK_light_step_perk)) then begin
-         if ( (source_obj == dude_obj) and ( (dude_agility < 6) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_bruiser)) ) )then begin
+      if not(dude_perk(PERK_light_step_perk)) then begin
+         if ( (source_obj == dude_obj) and ( (dude_agility < 6) or (dude_trait(TRAIT_bruiser)) ) )then begin
             display_msg(random(100,103));
             critter_dmg(dude_obj,random(MIN_DMG_SPATIAL,MAX_DMG_SPATIAL),DAMAGE_TYPE);
          end

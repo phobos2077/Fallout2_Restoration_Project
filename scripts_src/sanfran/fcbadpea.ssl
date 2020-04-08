@@ -114,7 +114,7 @@ procedure timed_event_p_proc begin
             if (not anim_busy(self_obj)) then begin
                reg_anim_clear(self_obj);
                reg_anim_begin();
-               animate_move_to_tile(tile);
+               self_walk_to_tile(tile);
                reg_anim_end();
             end
          end
@@ -123,13 +123,13 @@ procedure timed_event_p_proc begin
          if (not anim_busy(self_obj)) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_move_to_tile(tile);
+            self_walk_to_tile(tile);
             reg_anim_end();
          end
       end
       add_timer_event(self_obj, ONE_GAME_SECOND * Random(5, 10), TIMER_MOVE);
    end else if (fixed_param == TIMER_FLOAT) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          call talk_p_proc;
       end
       add_timer_event(self_obj, ONE_GAME_SECOND * Random(1, 7), TIMER_FLOAT);
@@ -141,8 +141,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_LOPAN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_SHI);
+   set_self_team(TEAM_SAN_FRAN_LOPAN);
+   set_self_ai(AI_SF_SHI);
    if (not is_loading_game) then begin
       if (not local_var(LVAR_HomeTile)) then begin
          set_local_var(LVAR_HomeTile, self_tile);
@@ -162,7 +162,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end

@@ -91,7 +91,7 @@ procedure timed_event_p_proc begin
             end
          end
       end else if (random(1,7) != 1) then begin
-         animate_move_to_tile(tile_num_in_direction(self_tile, random(0,5), random(0, 10)));
+         self_walk_to_tile(tile_num_in_direction(self_tile, random(0,5), random(0, 10)));
       end
    end
    mod_add_timer_event_rand(self_obj, 10, 30, 1);
@@ -113,8 +113,8 @@ procedure map_enter_p_proc begin
          if (slag_in_farm) then begin
             inc_slag_cnt;
          end
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAG);
+         set_self_team(TEAM_SLAG);
+         set_self_ai(AI_SLAG);
          set_local_var(LVAR_Home_Tile, self_tile);
       end
       mod_add_timer_event_rand(self_obj, 10, 30, 1);

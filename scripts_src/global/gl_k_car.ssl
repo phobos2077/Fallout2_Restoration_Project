@@ -8,7 +8,7 @@ procedure start;
 
 procedure start
 begin
-   if (metarule(22, 0)) then begin
+   if (is_loading_game) then begin
       return 0;
    end
    if (game_loaded) then begin
@@ -17,88 +17,88 @@ begin
    end
    else begin
       if (in_world_map) then begin
-         if ((metarule(30, 0) == 00) and (metarule(17, 22))) then begin
+         if ((car_current_town == 00) and (town_known(22))) then begin
             set_car_current_town(22);
          end
          if (metarule3(110, 0, 0, 0)) then begin
-            if (global_var(780) == 0) then begin
-               if ((metarule(44, 0) > 162) and (metarule(44, 0) <= 184) and (metarule(45, 0) > 111) and (metarule(45, 0) <= 133)) then begin
+            if (global_var(GVAR_CAR_OUTTA_POWER_FIX) == 0) then begin
+               if ((worldmap_xpos > 162) and (worldmap_xpos <= 184) and (worldmap_ypos > 111) and (worldmap_ypos <= 133)) then begin
                   set_car_current_town(00);   // Arroyo
                end
                else begin
-                  if ((metarule(44, 0) > 450) and (metarule(44, 0) <= 500) and (metarule(45, 0) > 250) and (metarule(45, 0) <= 300)) then begin
+                  if ((worldmap_xpos > 450) and (worldmap_xpos <= 500) and (worldmap_ypos > 250) and (worldmap_ypos <= 300)) then begin
                      set_car_current_town(01);   // The Den
                   end
                   else begin
-                     if ((metarule(44, 0) > 350) and (metarule(44, 0) <= 400) and (metarule(45, 0) > 100) and (metarule(45, 0) <= 150)) then begin
+                     if ((worldmap_xpos > 350) and (worldmap_xpos <= 400) and (worldmap_ypos > 100) and (worldmap_ypos <= 150)) then begin
                         set_car_current_town(02);   // Klamath
                      end
                      else begin
-                        if ((metarule(44, 0) > 900) and (metarule(44, 0) <= 950) and (metarule(45, 0) > 250) and (metarule(45, 0) <= 300)) then begin
+                        if ((worldmap_xpos > 900) and (worldmap_xpos <= 950) and (worldmap_ypos > 250) and (worldmap_ypos <= 300)) then begin
                            set_car_current_town(03);   // Modoc
                         end
                         else begin
-                           if ((metarule(44, 0) > 1200) and (metarule(44, 0) <= 1250) and (metarule(45, 0) > 300) and (metarule(45, 0) <= 350)) then begin
+                           if ((worldmap_xpos > 1200) and (worldmap_xpos <= 1250) and (worldmap_ypos > 300) and (worldmap_ypos <= 350)) then begin
                               set_car_current_town(04);   // Vault City
                            end
                            else begin
-                              if ((metarule(44, 0) > 1250) and (metarule(44, 0) <= 1300) and (metarule(45, 0) > 200) and (metarule(45, 0) <= 250)) then begin
+                              if ((worldmap_xpos > 1250) and (worldmap_xpos <= 1300) and (worldmap_ypos > 200) and (worldmap_ypos <= 250)) then begin
                                  set_car_current_town(05);   // Gecko
                               end
                               else begin
-                                 if ((metarule(44, 0) > 1150) and (metarule(44, 0) <= 1200) and (metarule(45, 0) > 850) and (metarule(45, 0) <= 900)) then begin
+                                 if ((worldmap_xpos > 1150) and (worldmap_xpos <= 1200) and (worldmap_ypos > 850) and (worldmap_ypos <= 900)) then begin
                                     set_car_current_town(06);   // Broken Hills
                                  end
                                  else begin
-                                    if ((metarule(44, 0) > 900) and (metarule(44, 0) <= 950) and (metarule(45, 0) > 900) and (metarule(45, 0) <= 950)) then begin
+                                    if ((worldmap_xpos > 900) and (worldmap_xpos <= 950) and (worldmap_ypos > 900) and (worldmap_ypos <= 950)) then begin
                                        set_car_current_town(07);   // New Reno
                                     end
                                     else begin
-                                       if ((metarule(44, 0) > 901) and (metarule(44, 0) <= 923) and (metarule(45, 0) > 800) and (metarule(45, 0) <= 822)) then begin
+                                       if ((worldmap_xpos > 901) and (worldmap_xpos <= 923) and (worldmap_ypos > 800) and (worldmap_ypos <= 822)) then begin
                                           set_car_current_town(08);   // Sierra Army Base
                                        end
                                        else begin
-                                          if ((metarule(44, 0) > 1262) and (metarule(44, 0) <= 1284) and (metarule(45, 0) > 1411) and (metarule(45, 0) <= 1433)) then begin
+                                          if ((worldmap_xpos > 1262) and (worldmap_xpos <= 1284) and (worldmap_ypos > 1411) and (worldmap_ypos <= 1433)) then begin
                                              set_car_current_town(09);   // Vault 15
                                           end
                                           else begin
-                                             if ((metarule(44, 0) > 1100) and (metarule(44, 0) <= 1150) and (metarule(45, 0) > 1400) and (metarule(45, 0) <= 1450)) then begin
+                                             if ((worldmap_xpos > 1100) and (worldmap_xpos <= 1150) and (worldmap_ypos > 1400) and (worldmap_ypos <= 1450)) then begin
                                                 set_car_current_town(10);   // New California Republic
                                              end
                                              else begin
-                                                if ((metarule(44, 0) > 962) and (metarule(44, 0) <= 984) and (metarule(45, 0) > 1411) and (metarule(45, 0) <= 1433)) then begin
+                                                if ((worldmap_xpos > 962) and (worldmap_xpos <= 984) and (worldmap_ypos > 1411) and (worldmap_ypos <= 1433)) then begin
                                                    set_car_current_town(11);   // Vault 13
                                                 end
                                                 else begin
-                                                   if ((metarule(44, 0) > 650) and (metarule(44, 0) <= 700) and (metarule(45, 0) > 1400) and (metarule(45, 0) <= 1450)) then begin
+                                                   if ((worldmap_xpos > 650) and (worldmap_xpos <= 700) and (worldmap_ypos > 1400) and (worldmap_ypos <= 1450)) then begin
                                                       set_car_current_town(12);   // Military Base
                                                    end
                                                    else begin
-                                                      if ((metarule(44, 0) > 650) and (metarule(44, 0) <= 700) and (metarule(45, 0) > 500) and (metarule(45, 0) <= 550)) then begin
+                                                      if ((worldmap_xpos > 650) and (worldmap_xpos <= 700) and (worldmap_ypos > 500) and (worldmap_ypos <= 550)) then begin
                                                          set_car_current_town(13);   // Redding
                                                       end
                                                       else begin
-                                                         if ((metarule(44, 0) > 450) and (metarule(44, 0) <= 500) and (metarule(45, 0) > 1300) and (metarule(45, 0) <= 1350)) then begin
+                                                         if ((worldmap_xpos > 450) and (worldmap_xpos <= 500) and (worldmap_ypos > 1300) and (worldmap_ypos <= 1350)) then begin
                                                             set_car_current_town(14);   // San Francisco
                                                          end
                                                          else begin
-                                                            if ((metarule(44, 0) > 155) and (metarule(44, 0) <= 177) and (metarule(45, 0) > 853) and (metarule(45, 0) <= 875)) then begin
+                                                            if ((worldmap_xpos > 155) and (worldmap_xpos <= 177) and (worldmap_ypos > 853) and (worldmap_ypos <= 875)) then begin
                                                                set_car_current_town(15);   // Navarro
                                                             end
                                                             else begin
-                                                               if ((metarule(44, 0) > 1310) and (metarule(44, 0) <= 1332) and (metarule(45, 0) > 9) and (metarule(45, 0) <= 31)) then begin
+                                                               if ((worldmap_xpos > 1310) and (worldmap_xpos <= 1332) and (worldmap_ypos > 9) and (worldmap_ypos <= 31)) then begin
                                                                   set_car_current_town(17);   // Abbey
                                                                end
                                                                else begin
-                                                                  if ((metarule(44, 0) > 60) and (metarule(44, 0) <= 82) and (metarule(45, 0) > 509) and (metarule(45, 0) <= 531)) then begin
+                                                                  if ((worldmap_xpos > 60) and (worldmap_xpos <= 82) and (worldmap_ypos > 509) and (worldmap_ypos <= 531)) then begin
                                                                      set_car_current_town(18);   // Primitive Tribe
                                                                   end
                                                                   else begin
-                                                                     if ((metarule(44, 0) > 599) and (metarule(44, 0) <= 621) and (metarule(45, 0) > 948) and (metarule(45, 0) <= 970)) then begin
+                                                                     if ((worldmap_xpos > 599) and (worldmap_xpos <= 621) and (worldmap_ypos > 948) and (worldmap_ypos <= 970)) then begin
                                                                         set_car_current_town(19);   // Environmental Protection Agency
                                                                      end
                                                                      else begin
-                                                                        set_global_var(780, 1);
+                                                                        set_global_var(GVAR_CAR_OUTTA_POWER_FIX, 1);
                                                                      end
                                                                   end
                                                                end
@@ -118,25 +118,25 @@ begin
                      end
                   end
                end
-               if (global_var(780) == 0) then begin
-                  set_global_var(780, 2);
+               if (global_var(GVAR_CAR_OUTTA_POWER_FIX) == 0) then begin
+                  set_global_var(GVAR_CAR_OUTTA_POWER_FIX, 2);
                end
             end
-            if (global_var(633) != 0) then begin
-               set_global_var(633, 0);
+            if (global_var(GVAR_CAR_PLACED_TILE) != 0) then begin
+               set_global_var(GVAR_CAR_PLACED_TILE, 0);
             end
          end
          else begin
-            if (global_var(780) != 0) then begin
-               set_global_var(780, 0);
+            if (global_var(GVAR_CAR_OUTTA_POWER_FIX) != 0) then begin
+               set_global_var(GVAR_CAR_OUTTA_POWER_FIX, 0);
             end
          end
       end
       else begin
          if (metarule3(110, 0, 0, 0)) then begin
-            if (global_var(780) != 1) then begin
+            if (global_var(GVAR_CAR_OUTTA_POWER_FIX) != 1) then begin
                mark_area_known(0, 21, -66);
-               set_global_var(780, 1);
+               set_global_var(GVAR_CAR_OUTTA_POWER_FIX, 1);
             end
          end
       end

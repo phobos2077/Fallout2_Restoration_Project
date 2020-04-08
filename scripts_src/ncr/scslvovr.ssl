@@ -138,8 +138,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_VORTIS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR_VORTIS);
+   set_self_ai(AI_TOUGH_GUARD);
 
    add_timer_event(self_obj, 5, TIMER_SCHEDUAL);
 end
@@ -153,7 +153,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -308,7 +308,7 @@ end
 
 procedure Node006 begin
    Reply(117);
-   if (is_skill_tagged(SKILL_CONVERSANT)) then
+   if (is_skill_tagged(SKILL_SPEECH)) then
       NOption(118, Node007, 4);
    NOption(119, Node999, 4);
 end
@@ -410,23 +410,23 @@ end
 procedure go_tile(variable tile) begin
    reg_anim_clear(self_obj);
    reg_anim_begin();
-      animate_move_to_tile(tile);
+      self_walk_to_tile(tile);
    reg_anim_end();
 end
 
 procedure anim_end_call begin
    if (local_var(LVAR_Movement) == OVR_TILE_8TO11) then begin
    //if (last_anim == OVR_TILE_8TO11) then begin
-      animate_rotation(QUARTERS_DIR);
+      self_rotate(QUARTERS_DIR);
    end else if (local_var(LVAR_Movement) == OVR_TILE_12TO3) then begin
    //end else if (last_anim == OVR_TILE_12TO3) then begin
-      animate_rotation(WORK_DIR);
+      self_rotate(WORK_DIR);
    end else if (local_var(LVAR_Movement) == OVR_TILE_4TO11) then begin
    //end else if (last_anim == OVR_TILE_4TO11) then begin
-      animate_rotation(WORK_DIR);
+      self_rotate(WORK_DIR);
    end else if (local_var(LVAR_Movement) == OVR_TILE_12TO7) then begin
    //end else if (last_anim == OVR_TILE_12TO7) then begin
-      animate_rotation(QUARTERS_DIR);
+      self_rotate(QUARTERS_DIR);
    end
 end
 
@@ -485,7 +485,7 @@ procedure canSeePlayer begin
    variable retval := 0;
 
    if not (successCount) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          retval := 1;
       end
       else begin
@@ -505,7 +505,7 @@ end
 procedure canSeePlayer begin
    variable retval := 0;
 
-   if (obj_can_see_obj(self_obj, dude_obj)) then
+   if (self_can_see_dude) then
       if (dude_is_sneaking) then begin
          if (is_success(roll_vs_skill(dude_obj, SKILL_SNEAK, 0))) then begin
             successCount := SUCCESSNOCHECK;

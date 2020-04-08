@@ -273,7 +273,7 @@ procedure Node1100;
                                           party_add_self;  \
                                           inven_unwield(self_obj)
 
-#define combined_pid_qty(the_pid)         (obj_is_carrying_obj_pid(dude_obj, the_pid) + obj_is_carrying_obj_pid(self_obj, the_pid))
+#define combined_pid_qty(the_pid)         (dude_item_count(the_pid) + self_item_count(the_pid))
 
 #define myron_attracted_to_dude           ((dude_is_female) and (dude_charisma > 5))
 
@@ -333,7 +333,7 @@ procedure Node1100;
                                           gfade_in(5)
 
 #define myron_has_stuff                   ((gave_stuff == false) or (inven_count(self_obj) > 0))
-#define myron_has_drugs                   ((gave_drugs == false) or (obj_is_carrying_obj_pid(self_obj, PID_SUPER_STIMPAK) > 0) or (obj_is_carrying_obj_pid(self_obj, PID_STIMPAK) > 0) or (obj_is_carrying_obj_pid(self_obj, PID_JET) > 0))
+#define myron_has_drugs                   ((gave_drugs == false) or (self_item_count(PID_SUPER_STIMPAK) > 0) or (self_item_count(PID_STIMPAK) > 0) or (self_item_count(PID_JET) > 0))
 
 #define steal_myron_stuff                 set_gave_stuff;                                                         \
                                           if (stole_from_myron == false) then begin                               \
@@ -350,7 +350,7 @@ procedure Node1100;
                                           transfer_all_pid_between_objs(self_obj, dude_obj, PID_SUPER_STIMPAK)    \
                                           transfer_all_pid_between_objs(self_obj, dude_obj, PID_STIMPAK)          \
                                           transfer_all_pid_between_objs(self_obj, dude_obj, PID_JET)
-#define check_bad_area(map, elev)         ((cur_map_index == map) and ((elevation(self_obj) == elev) or (elev == -1)))
+#define check_bad_area(map, elev)         ((cur_map_index == map) and ((self_elevation == elev) or (elev == -1)))
 #define myron_doesnt_like_area            ((check_bad_area(MAP_BROKEN_HILLS2, -1)) or           \
                                            (check_bad_area(MAP_GHOST_FARM, -1)) or              \
                                            (check_bad_area(MAP_RAIDERS_CAMP2, 0)) or            \
@@ -391,11 +391,11 @@ procedure start begin
 end
 
 procedure timed_event_p_proc begin
-   if (obj_is_visible_flag(self_obj)) then begin
+   if (self_visible) then begin
       if (fixed_param == special_floater_param) then begin
          set_myron_paused;
          reg_anim_clear(self_obj);
-         animate_rotation(mordino_grave_tile);
+         self_rotate(mordino_grave_tile);
          call Node314;
          nr_add_timer_event(self_obj, 5, pause_param);
       end else if (fixed_param == force_talk_param) then begin
@@ -436,7 +436,7 @@ procedure timed_event_p_proc begin
                call Node008;
             end else if (self_is_poisoned) then begin
                call Node010;
-            end else if (get_critter_stat(self_obj, STAT_current_rad) > 0) then begin
+            end else if (self_rads > 0) then begin
                call Node011;
             end else if (cur_town == AREA_VAULT_CITY) then begin
                call Node026;
@@ -470,7 +470,7 @@ procedure map_update_p_proc begin
 
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;
@@ -502,7 +502,7 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (initialized == false) then begin
          set_initialized;
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_LONER);
+         set_self_team(TEAM_LONER);
       end
       nr_add_timer_event_rand(self_obj, 25, 45, float_param);
    end
@@ -560,7 +560,7 @@ procedure damage_p_proc begin
       if (myron_left_stables == false) then begin
          attack_family(self_family)
          if (self_team == TEAM_LONER) then begin
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
+            set_self_team(TEAM_NEW_RENO_MORDINO);
          end
       end
    end
@@ -661,7 +661,7 @@ end
 procedure Node998 begin
    set_hostile;
    if (myron_left_stables == false) then begin
-      critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_MORDINO);
+      set_self_team(TEAM_NEW_RENO_MORDINO);
    end
 end
 procedure Node999 begin
@@ -833,7 +833,7 @@ procedure Node968 begin
    call Node204;
 end
 procedure Node967 begin
-   if (((dude_endurance > 6) or (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_resistant) > 0)) and (has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_addict) == 0)) then begin
+   if (((dude_endurance > 6) or (dude_trait(TRAIT_drug_resistant) > 0)) and (dude_trait(TRAIT_drug_addict) == 0)) then begin
       call Node212;
    end else begin
       call Node211;
@@ -1629,7 +1629,7 @@ procedure Node220 begin
    Reply(1405 + (dude_is_female * (1 + (dude_charisma > 5))));
    BOption(1408, Node221, 004);
    NOption(1409, Node222, 004);
-   if ((dude_smooth_talker) or (dude_charisma > 7) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75)) then begin
+   if ((dude_smooth_talker) or (dude_charisma > 7) or (has_skill(dude_obj, SKILL_SPEECH) > 75)) then begin
       GOption(1410, Node222, 004);
    end
    BOption(1411, Node999, 004);
@@ -1641,7 +1641,7 @@ procedure Node221 begin
    Reply(1425 + myron_attracted_to_dude);
    NOption(1427, Node222, 004);
    NOption(1428, Node223, 004);
-   if ((dude_smooth_talker) or (dude_charisma > 7) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75)) then begin
+   if ((dude_smooth_talker) or (dude_charisma > 7) or (has_skill(dude_obj, SKILL_SPEECH) > 75)) then begin
       GOption(1410, Node222, 004);
    end
    BOption(1430, Node999, 004);
@@ -1659,7 +1659,7 @@ procedure Node223 begin
    Reply(1455);
    NOption(1456, Node224, 004);
    NOption(1457, Node225, 004);
-   if ((dude_smooth_talker) or (dude_charisma > 7) or (has_skill(dude_obj, SKILL_CONVERSANT) > 75)) then begin
+   if ((dude_smooth_talker) or (dude_charisma > 7) or (has_skill(dude_obj, SKILL_SPEECH) > 75)) then begin
       GOption(1458, Node231, 004);
    end
    BOption(1459, Node999, 004);

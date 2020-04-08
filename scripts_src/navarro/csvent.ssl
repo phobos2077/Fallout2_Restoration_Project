@@ -21,7 +21,7 @@
 #include "../headers/define.h"
 
 #define NAME                    SCRIPT_CSVENT
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 
 #include "../headers/command.h"
 
@@ -54,7 +54,7 @@ end
 
 procedure use_p_proc begin
    gfade_out(600);
-   if (elevation(dude_obj) == 0) then
+   if (dude_elevation == 0) then
       move_to(dude_obj,26963,1);
    else
       display_msg(mstr(120));
@@ -74,7 +74,7 @@ end
    This should only hold the most cursory of glances for the player. */
 procedure look_at_p_proc begin
    script_overrides;
-   if (elevation(dude_obj) == 0) then
+   if (dude_elevation == 0) then
       display_msg(mstr(101)); //switch to "a boulder" (100) if want to make this more difficult
    else
       display_msg(mstr(200));
@@ -85,7 +85,7 @@ end
    if the critter is known to the player. */
 procedure description_p_proc begin
    script_overrides;
-   if (elevation(dude_obj) == 0) then
+   if (dude_elevation == 0) then
       display_msg(mstr(101));
    else
       display_msg(mstr(200));

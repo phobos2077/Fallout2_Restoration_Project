@@ -98,8 +98,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MORNING_STAR_MINERS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_MORNING_STAR_MINERS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -112,7 +112,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-/*   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+/*   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -122,11 +122,11 @@ procedure critter_p_proc begin
        attack(dude_obj);
 
    else if (cur_map_index == MAP_REDDING_DOWNTOWN) then begin
-       if ((global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_JAILED) and (not(obj_is_visible_flag(self_obj)))) then begin
-           set_obj_visibility(self_obj,0);              // become visible
+       if ((global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_JAILED) and (not(self_visible))) then begin
+           set_self_visible;              // become visible
        end
-       else if ((global_var(GVAR_REDDING_WHORE_CUT) != WHORE_CUT_JAILED) and (obj_is_visible_flag(self_obj))) then begin
-           set_obj_visibility(self_obj,1);              // become invisible
+       else if ((global_var(GVAR_REDDING_WHORE_CUT) != WHORE_CUT_JAILED) and (self_visible)) then begin
+           set_self_invisible;              // become invisible
        end
    end
 
@@ -293,7 +293,7 @@ procedure Node007a begin
    inc_general_rep(REP_BONUS_REDDING_WHORE_CUT);
    inc_global_var_amt(GVAR_TOWN_REP_REDDING, 5); //added by killap
    set_global_var(GVAR_REDDING_WHORE_CUT, WHORE_CUT_JAILED);
-   set_obj_visibility(self_obj,1);               // invisible
+   set_self_invisible;               // invisible
    move_to(self_obj,12000,2);
    load_map(MAPSTR_REDDOWN,LOAD_MAP_WHORE_CUT_JAIL);
 end
@@ -302,7 +302,7 @@ procedure Node008 begin
    set_global_var(GVAR_REDDING_WHORE_CUT,WHORE_CUT_LET_GO);
    set_local_var(LVAR_Set_Free,game_time);
 
-   if (get_critter_stat(dude_obj,STAT_gender) == GENDER_MALE) then
+   if (dude_is_male) then
        Reply(138);
    else
        Reply(139);

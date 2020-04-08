@@ -31,7 +31,7 @@
 
 #define NAME                    SCRIPT_GCFESTUS
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 //these are values for festus...will need to be put in map or global defines
 #define FESTUS_INSTALLED 0
 #define CONVINCE         1
@@ -183,8 +183,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -196,7 +196,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if ((global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO))) then begin //edit by killap - added (global_var(GVAR_ENEMY_GECKO))
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -207,11 +207,11 @@ procedure critter_p_proc begin
       end
    end
 /*
-   if ( (global_var(GVAR_GECKO_MELTDOWN) == 1) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( (global_var(GVAR_GECKO_MELTDOWN) == 1) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
       attack(dude_obj);
    end
-   else if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -253,10 +253,10 @@ procedure talk_p_proc begin
 
    else if (global_var(GVAR_GECKO_WORKING_ON_PLANT) > 0) then begin
       //floater(400);
-      float_msg(self_obj, message_str(NAME,400),FLOAT_MSG_NORMAL); //edit by killap
+      float_msg(self_obj, mstr(400),FLOAT_MSG_NORMAL); //edit by killap
    end
 
-   else if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
+   else if ((dude_is_stupid)) then begin
       call Node001;
    end
 
@@ -265,7 +265,7 @@ procedure talk_p_proc begin
    end
 
    else if ( (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_ANALYZED) and
-             (obj_is_carrying_obj_pid(dude_obj, PID_REACTOR_DATA_DISK)) ) then begin
+             (dude_item_count(PID_REACTOR_DATA_DISK)) ) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
           call Node046;
@@ -318,7 +318,7 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-   else if ((local_var(LVAR_Festus) < CHICKEN) and (obj_is_carrying_obj_pid(dude_obj, PID_HY_MAG_PART)) ) then begin
+   else if ((local_var(LVAR_Festus) < CHICKEN) and (dude_item_count(PID_HY_MAG_PART)) ) then begin
 //else if PC has part to repair the reactor
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
@@ -396,8 +396,8 @@ end
 procedure Node910 begin
 //if player money < 5 goto 13 and set nogive
 //else goto 5 subtract 5 coins and set give
-   if (item_caps_total(dude_obj) > 4) then begin
-      item_caps_adjust(dude_obj,-5); //subtract 5 coins
+   if (dude_caps > 4) then begin
+      dude_caps_adjust(-5); //subtract 5 coins
       set_local_var(LVAR_Give, 1);
       call Node005;
    end
@@ -454,7 +454,7 @@ procedure Node940 begin
       call Node033;
    end
    else begin
-      if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
          call Node033;
       else
          call Node034;
@@ -467,7 +467,7 @@ procedure Node942 begin
       call Node033;
    end
    else begin
-      if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
          call Node033;
       else
          call Node034;
@@ -480,7 +480,7 @@ procedure Node944 begin
       call Node033;
    end
    else begin
-      if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
          call Node033;
       else
          call Node034;
@@ -489,7 +489,7 @@ end
 
 procedure Node946 begin
    ndebug("Node946");
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
       call Node033;
    else
       call Node035;
@@ -528,7 +528,7 @@ procedure Node950 begin
       call aconvinced;
    end
    else begin
-      if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
          call aconvinced;
       else
          call Node026;
@@ -549,7 +549,7 @@ procedure Node954 begin
       call bconvinced;
    end
    else begin
-      if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
          call bconvinced;
       else
          call Node026;
@@ -562,7 +562,7 @@ procedure Node956 begin
       call cconvinced;
    end
    else begin
-      if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
          call cconvinced;
       else
          call Node026;
@@ -575,7 +575,7 @@ procedure Node958 begin
       call Node025;
    end
    else begin
-      if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+      if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
          call Node025;
       else
          call Node026;
@@ -595,7 +595,7 @@ procedure Node962 begin
    ndebug("Node962");
 //if (obj_is_carrying_obj_pid(self_obj, PID_PART_REQUISITION_FORM)) then begin
    //item:=create_object(PID_PART_REQUISITION_FORM,0,0);
-   item:=obj_carrying_pid_obj(self_obj, PID_PART_REQUISITION_FORM);
+   item:=self_item(PID_PART_REQUISITION_FORM);
    rm_obj_from_inven(self_obj,item);
    add_obj_to_inven(dude_obj,item);
 //end
@@ -621,7 +621,7 @@ procedure Node992 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -634,7 +634,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -680,7 +680,7 @@ procedure Node002 begin
 
    //Reply(mstr(300) + dude_name + mstr(301));
    NOption(122,Node004,004);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_REACTOR_DATA_DISK)) then begin
+   if (dude_item_count(PID_REACTOR_DATA_DISK)) then begin
       NOption(600,Node050,004);
    end
 
@@ -876,7 +876,7 @@ procedure Node027 begin
    else if (k == 4) then floater(393);
    else if (k == 5) then floater(394);*/
 
-   float_msg(self_obj, message_str(NAME,random(390,394)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(390,394)),FLOAT_MSG_NORMAL); //edit by killap
 
 
 //floats
@@ -904,7 +904,7 @@ procedure Node30a begin
    ndebug("Node30a");
    //if (local_var(LVAR_30_before) == 0) then begin
    //   set_local_var(LVAR_30_before, 1);
-      item:=obj_carrying_pid_obj(dude_obj, PID_HY_MAG_PART);
+      item:=dude_item(PID_HY_MAG_PART);
       rm_obj_from_inven(dude_obj,item);
       destroy_object(item);
       set_local_var(LVAR_Festus, FESTUS_INSTALLED);
@@ -936,7 +936,7 @@ end
 
 procedure Node033 begin
    ndebug("Node033");
-   if (obj_is_carrying_obj_pid(self_obj, PID_PART_REQUISITION_FORM)) then begin
+   if (self_item_count(PID_PART_REQUISITION_FORM)) then begin
       Reply(450);
       NOption(452,Node962,004);
    end
@@ -1019,7 +1019,7 @@ procedure Node044 begin
    ndebug("Node044");
    //floater(random(817,820));
 
-   float_msg(self_obj, message_str(NAME,random(817,820)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(817,820)),FLOAT_MSG_NORMAL); //edit by killap
 
 end
 
@@ -1027,7 +1027,7 @@ procedure Node045 begin
    ndebug("Node045");
    //floater(random(821,824));
 
-   float_msg(self_obj, message_str(NAME,random(821,824)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(821,824)),FLOAT_MSG_NORMAL); //edit by killap
 
 end
 
@@ -1041,7 +1041,7 @@ end
 procedure Node047 begin
    ndebug("Node047");
    //floater(random(828,831));
-   float_msg(self_obj, message_str(NAME,random(828,831)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(828,831)),FLOAT_MSG_NORMAL); //edit by killap
 end
 
 procedure Node050 begin

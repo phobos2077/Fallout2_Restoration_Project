@@ -168,8 +168,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_VORTIS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_NCR_VORTIS);
+   set_self_ai(AI_GENERIC_GUARDS);
 
    if (is_loading_game == FALSE) then
       call doLoadStuff;
@@ -186,7 +186,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -236,7 +236,7 @@ procedure talk_p_proc begin
 
 // (tile_distance(tile_num(dude_obj), VORTISBEDPLACE) < 6)
    if (local_var(LVAR_Vortis_Location) == VORTISBEDPLACE) then begin
-      if ( (tile_distance(tile_num(dude_obj), VORTISBEDPLACE) < 9) ) then //added by killap
+      if ( (tile_distance(dude_tile, VORTISBEDPLACE) < 9) ) then //added by killap
          call Node021;
       else
          call Node023; //added by killap
@@ -563,9 +563,9 @@ procedure Node19a begin
    obj := dude_item(VOTRIS_NCR_MAP);
    rm_obj_from_inven(dude_obj, obj);
    add_obj_to_inven(self_obj, obj);
-   item_caps_adjust(dude_obj, 500);
+   dude_caps_adjust(500);
 
-   if ( (has_rep_slaver) or ( (check_general_rep <= KARMA_BETRAYER) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) ) then //edit by killap - added and (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ( (has_rep_slaver) or ( (check_general_rep <= KARMA_BETRAYER) or (dude_perk(PERK_cult_of_personality)) ) ) then //edit by killap - added and (dude_perk(PERK_cult_of_personality))
       call Node024;
    else
       call Node019;
@@ -584,7 +584,7 @@ end
 
 procedure Node025 begin
    Reply(204);
-   if (has_skill(dude_obj,SKILL_CONVERSANT) >= 80) then
+   if (has_skill(dude_obj,SKILL_SPEECH) >= 80) then
       NOption(207, Node029, 4);
    NOption(206, Node990, 4);
 end
@@ -602,7 +602,7 @@ procedure Node027 begin
 end
 
 procedure Node028 begin
-   item_caps_adjust(dude_obj, 1000);
+   dude_caps_adjust(1000);
    display_msg(mstr(240));
    set_global_var(GVAR_NCR_VORTIS_QUEST_STATE, VORTIS_QUEST2_DONE);
 
@@ -614,7 +614,7 @@ procedure Node028 begin
 end
 
 procedure Node029 begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) then
       call Node030;
    else
       call Node031;
@@ -682,7 +682,7 @@ procedure Node993 begin
     price := 2000;
   else
     price := 1000;
-  item_caps_adjust(dude_obj, -price);
+  dude_caps_adjust(-price);
   call Node036;
 end
 
@@ -714,7 +714,7 @@ end
 
 procedure Node016 begin
    Reply(163);
-   if (obj_is_carrying_obj_pid(dude_obj, VOTRIS_NCR_MAP)) then
+   if (dude_item_count(VOTRIS_NCR_MAP)) then
       NOption(164, Node19a, 4);
    NOption(165, Node020, 4);
 end
@@ -784,7 +784,7 @@ procedure walkToOffice begin
    set_local_var(LVAR_Vortis_Location, VORTISOFFICEPLACE);
    reg_anim_clear(self_obj);
    reg_anim_begin();
-      animate_move_to_tile(VORTISOFFICEPLACE);
+      self_walk_to_tile(VORTISOFFICEPLACE);
    reg_anim_end();
 end
 
@@ -792,7 +792,7 @@ procedure walkToBed begin
    set_local_var(LVAR_Vortis_Location, VORTISBEDPLACE);
    reg_anim_clear(self_obj);
    reg_anim_begin();
-      animate_move_to_tile(VORTISBEDPLACE);
+      self_walk_to_tile(VORTISBEDPLACE);
    reg_anim_end();
 end
 
@@ -820,9 +820,9 @@ end
 
 procedure anim_end_call begin
    if (self_tile == VORTISOFFICEPLACE) then begin
-      animate_rotation(VORTISOFFICEDIR);
+      self_rotate(VORTISOFFICEDIR);
    end else if (self_tile == VORTISBEDPLACE) then begin
-      animate_rotation(VORTISBEDDIR);
+      self_rotate(VORTISBEDDIR);
    end
 end
 //xxxxxxxxxxxxxxxxxxxx

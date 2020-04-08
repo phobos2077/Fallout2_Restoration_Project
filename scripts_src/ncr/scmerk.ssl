@@ -231,7 +231,7 @@ procedure timed_event_p_proc begin
          call exitMap;
          add_timer_event(self_obj, game_ticks(1), MERK_TIMER_APPEAR); //was ONE_GAME_MINUTE - killap
       end else begin
-         if (tile_num(self_obj) != whatTile and (local_var(LVAR_Should_Animate) == 0)) then begin //edit by killap
+         if (self_tile != whatTile and (local_var(LVAR_Should_Animate) == 0)) then begin //edit by killap
          //if (tile_num(self_obj) != whatTile and should_animate == 0) then begin
             //should_animate := whatTile;
             set_local_var(LVAR_Should_Animate,whatTile); //edit by killap
@@ -241,7 +241,7 @@ procedure timed_event_p_proc begin
       end
    end else if (fixed_param == MERK_TIMER_DELETE) then begin
       if (cur_map_index == MAP_NCR_BAZAAR) then begin
-         if (tile_num(self_obj) == MERK_ENTER_BAZAAR_MAP) then begin
+         if (self_tile == MERK_ENTER_BAZAAR_MAP) then begin
             set_obj_visibility(self_obj, OBJ_INVIS);
             merk_visible := 0;
          end
@@ -249,7 +249,7 @@ procedure timed_event_p_proc begin
             add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 tick
       end
       else if (cur_map_index == MAP_NCR_COUNCIL) then begin
-         if (tile_num(self_obj) == MERK_ENTER_COUNCIL_MAP) then begin
+         if (self_tile == MERK_ENTER_COUNCIL_MAP) then begin
             set_obj_visibility(self_obj, OBJ_INVIS);
             merk_visible := 0;
          end
@@ -262,10 +262,10 @@ procedure timed_event_p_proc begin
       //if (should_Animate == 0) then begin
          set_local_var(LVAR_Hit_Check_Point,0);
          //if (cur_map_index == MAP_NCR_BAZAAR) then --comment out by killap
-            animate_rotation(1);
+            self_rotate(1);
       end
    end else if (fixed_param == MERK_TIMER_PRIVACY) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then
+      if (self_can_see_dude) then
          call doMerkAttack;
    //added by killap - expansion
    end else if (fixed_param == MERK_TIMER_STAIRS_TOUCHED) then begin
@@ -301,8 +301,8 @@ procedure map_enter_p_proc begin
       move_to(self_obj, 7000, 0);
       destroy_object(self_obj);
    end else begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_MERK);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      set_self_team(TEAM_NCR_MERK);
+      set_self_ai(AI_TOUGH_CITIZEN);
 
       set_local_var(LVAR_Active_Map,loadMapPosition); //edit by killap
 
@@ -327,7 +327,7 @@ procedure map_enter_p_proc begin
       end
    end
 
-   if (elevation(self_obj) == 1) then
+   if (self_elevation == 1) then
       set_local_var(LVAR_Do_Lenny_Fight, 1);   //added by killap
       //Do_Lenny_Fight := 1;
 
@@ -360,7 +360,7 @@ procedure critter_p_proc begin
    end
    //end added
 
-   if ((global_var(GVAR_NCR_SCMERK_HOSTILE) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((global_var(GVAR_NCR_SCMERK_HOSTILE) != 0) and (self_can_see_dude)) then begin
        set_global_var(GVAR_NCR_SCMERK_HOSTILE,1);
        self_attack_dude;
    end
@@ -380,7 +380,7 @@ procedure critter_p_proc begin
    //end added
 
    if (ncr_flag(NCR_KILLED_LENNY_SERUM_FLAG) and (not(ncr_flag(NCR_MERK_SERUM_FLAG))) and (map_var(MVAR_Do_Lenny_Fight) == 0)) then begin //edit by killap
-      if (obj_can_see_obj(self_obj, dude_obj) and self_visible) then begin
+      if (self_can_see_dude and self_visible) then begin
          set_ncr_flag(NCR_MERK_SERUM_FLAG);
          float_msg(self_obj, mstr(265), FLOAT_MSG_RED);
          set_global_var(GVAR_NCR_SCMERK_HOSTILE,1);
@@ -610,7 +610,7 @@ nbody(002)
       msgNum := 105;
    else
       set_merk_status(MERK_STATUS_MET);
-   if (msgNum == 109 and ( (check_general_rep < KARMA_DEFENDER) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   if (msgNum == 109 and ( (check_general_rep < KARMA_DEFENDER) and (not(dude_perk(PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(dude_perk(PERK_cult_of_personality)))
       msgNum := 105;
    if (msgNum == 113 and dude_is_male) then
       msgNum := 105;
@@ -624,7 +624,7 @@ nbody(003)
    msgNum += Random(0, 6);
    if (msgNum == 115 and not has_rep_childkiller) then
       msgNum := 114;
-   if (msgNum == 116 and ( (check_general_rep < KARMA_DEFENDER) and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   if (msgNum == 116 and ( (check_general_rep < KARMA_DEFENDER) and (not(dude_perk(PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(dude_perk(PERK_cult_of_personality)))
       msgNum := 114;
    if (msgNum == 117 and dude_is_male) then
       msgNum := 114;
@@ -644,7 +644,7 @@ procedure Node1011a begin
 end
 
 procedure Node1211a begin
-   if (skill_success(dude_obj, SKILL_CONVERSANT, 0)) then
+   if (skill_success(dude_obj, SKILL_SPEECH, 0)) then
       call Node012;
    else
       call Node011;
@@ -717,7 +717,7 @@ nbody(007)
    else
       Reply(139);
 
-   NOption(ENDSTRING, Node999, 0);
+   NOption(ENDSTRING, Node999, 1);
 nbodyEnd
 
 procedure Node2122a begin
@@ -759,7 +759,7 @@ nbodyEnd
 
 nbody(010)
    Reply(149);
-   NOption(ENDSTRING, Node998, 0);
+   NOption(ENDSTRING, Node998, 1);
 nbodyEnd
 
 procedure Node2413a begin
@@ -834,7 +834,7 @@ procedure Node19a begin //Just making sure he is in the party.
 /*   if (Myron_In_Party) then begin
       // Begin Seraph's Code
          gfade_out(ONE_GAME_SECOND);
-         item_caps_adjust(dude_obj, 1000);
+         dude_caps_adjust(1000);
          set_merk_status(MERK_STATUS_PLEASED);
          if (critter_is_armed(Myron_Ptr)) then begin
             inven_unwield(Myron_Ptr);
@@ -850,7 +850,7 @@ procedure Node19a begin //Just making sure he is in the party.
 //begin killap's code
     if (Myron_In_Party) then begin
          gfade_out(ONE_GAME_SECOND);
-         item_caps_adjust(dude_obj, 1000);
+         dude_caps_adjust(1000);
          set_merk_status(MERK_STATUS_PLEASED);
          if (critter_is_armed(Myron_Ptr)) then begin
             inven_unwield(Myron_Ptr);
@@ -886,8 +886,8 @@ nbodyEnd
 
 procedure Node20Rep begin
    Merk_Question := 1;
-   item_caps_adjust(dude_obj, -50);
-   item_caps_adjust(self_obj, 50);
+   dude_caps_adjust(-50);
+   self_caps_adjust(50);
    Node020Repeat += 1;
    call Node020;
 end
@@ -951,7 +951,7 @@ nbody(026)
 nbodyEnd
 
 procedure Node4041a begin
-   if (get_critter_stat(dude_obj, SKILL_CONVERSANT) >= 90) then
+   if (get_critter_stat(dude_obj, SKILL_SPEECH) >= 90) then
       call Node040;
    else
       call Node041;
@@ -1026,8 +1026,8 @@ nbodyEnd
 
 procedure Node29a begin
    Merk_Question := 1;
-   item_caps_adjust(dude_obj, -50);
-   item_caps_adjust(self_obj, 50);
+   dude_caps_adjust(-50);
+   self_caps_adjust(50);
    call Node029;
 end
 
@@ -1042,9 +1042,9 @@ procedure Node36a begin
    variable holodisk;
    if (global_var(GVAR_NCR_FAKE_VAULT13_MAP) == 0) then begin
       //Need to make the holodisk script
-      item_caps_adjust(dude_obj, -1000);
-      item_caps_adjust(self_obj, 1000);
-      holodisk := create_object_sid(FAKE_HOLODISK, tile_num(self_obj), 0, SCRIPT_SIFAKHLO);
+      dude_caps_adjust(-1000);
+      self_caps_adjust(1000);
+      holodisk := create_object_sid(FAKE_HOLODISK, self_tile, 0, SCRIPT_SIFAKHLO);
       if (holodisk) then begin
          add_obj_to_inven(dude_obj, holodisk);
          set_global_var(GVAR_NCR_FAKE_VAULT13_MAP, DUDE_HAS_FAKE_MAP);
@@ -1205,7 +1205,7 @@ nbodyEnd
 
 nbody(048)
    Reply(245);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_DOC_PAPERS)) then
+   if (dude_item_count(PID_DOC_PAPERS)) then
       NOption(246, Node049, 4);
    NOption(247, Node046, 4);
 nbodyEnd
@@ -1213,10 +1213,10 @@ nbodyEnd
 procedure Node5051a begin
    variable papers;
 
-   papers := obj_carrying_pid_obj(dude_obj, PID_DOC_PAPERS);
+   papers := dude_item(PID_DOC_PAPERS);
 
    if (papers) then begin
-      item_caps_adjust(dude_obj, 1000);
+      dude_caps_adjust(1000);
       rm_obj_from_inven(dude_obj, papers);
       add_obj_to_inven(self_obj, papers);
       set_merk_seed_status(MSS_DR_HENRY_DONE);
@@ -1258,8 +1258,8 @@ nbody(051)
 nbodyEnd
 
 nbody(052)
-   item_caps_adjust(dude_obj, -500);
-   item_caps_adjust(self_obj, 500);
+   dude_caps_adjust(-500);
+   self_caps_adjust(500);
    Reply(254);
    ENDOPTION;
 nbodyEnd
@@ -1311,7 +1311,7 @@ procedure loadMapPosition begin
    if (cur_map_index == MAP_NCR_BAZAAR) then begin
       if (checktime == MAP_NCR_BAZAAR) then begin
          move_to(self_obj, MERK_BAZAAR_POS, 0);
-         animate_rotation(1); //added by killap
+         self_rotate(1); //added by killap
          //retval := 1;
          set_local_var(LVAR_Retval,1);
       end
@@ -1319,14 +1319,14 @@ procedure loadMapPosition begin
    //end else if (cur_map_index == MAP_NCR_DOWNTOWN) then begin //edit by killap
       if (checktime == MAP_NCR_DOWNTOWN) then begin
          move_to(self_obj, MERK_HOME_POS, 0);
-         animate_rotation(1); //added by killap
+         self_rotate(1); //added by killap
          //retval := 1;
          set_local_var(LVAR_Retval,1);
       end
    //end else if (cur_map_index == MAP_NCR_COUNCIL) then begin --comment out by killap
       if (checktime == MAP_NCR_COUNCIL) then begin
          move_to(self_obj, MERK_CARLSON_POS, 0);
-         animate_rotation(1); //added by killap
+         self_rotate(1); //added by killap
          //retval := 1;
          set_local_var(LVAR_Retval,1);
       end
@@ -1399,27 +1399,27 @@ procedure enterMap begin
          ndebug("enter council map");
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            animate_move_to_tile(whatTile);
+            self_walk_to_tile(whatTile);
          reg_anim_end();
          set_local_var(LVAR_Should_Animate,whatTile); //edit by killap
-      end else if ( tile_num(self_obj) == MERK_ENTER_COUNCIL_MAP ) then begin
+      end else if ( self_tile == MERK_ENTER_COUNCIL_MAP) then begin
          ndebug("leave council map to way point1");
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            animate_move_to_tile(MERK_ENTER_COUNCIL_WAY1);
+            self_walk_to_tile(MERK_ENTER_COUNCIL_WAY1);
          reg_anim_end();
          //should_animate := MERK_ENTER_COUNCIL_WAY1;
          set_local_var(LVAR_Should_Animate,MERK_ENTER_COUNCIL_WAY1);
       end else if (checktime == MAP_NCR_COUNCIL) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            animate_move_to_tile(MERK_CARLSON_POS);
+            self_walk_to_tile(MERK_CARLSON_POS);
          reg_anim_end();
          set_local_var(LVAR_Should_Animate,MERK_CARLSON_POS);
       end else if (checktime == MAP_NCR_DOWNTOWN) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(MERK_HOME_POS);
+         self_walk_to_tile(MERK_HOME_POS);
          reg_anim_end();
          set_local_var(LVAR_Should_Animate,MERK_HOME_POS);
       end
@@ -1428,7 +1428,7 @@ procedure enterMap begin
       ndebug("should be moving to bazaar pos");
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         animate_move_to_tile(MERK_BAZAAR_POS);
+         self_walk_to_tile(MERK_BAZAAR_POS);
       reg_anim_end();
       //should_animate := MERK_BAZAAR_POS;
       set_local_var(LVAR_Should_Animate,MERK_BAZAAR_POS); //edit by killap
@@ -1444,7 +1444,7 @@ procedure exitMap begin
       ndebug("leave bazaar map");
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         animate_move_to_tile(MERK_ENTER_BAZAAR_MAP);
+         self_walk_to_tile(MERK_ENTER_BAZAAR_MAP);
       reg_anim_end();
       add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
       //should_animate := MERK_ENTER_BAZAAR_MAP;
@@ -1453,7 +1453,7 @@ procedure exitMap begin
       /*display_msg("MERK: leave council map");
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         animate_move_to_tile(MERK_ENTER_COUNCIL_WAY1);
+         self_walk_to_tile(MERK_ENTER_COUNCIL_WAY1);
       reg_anim_end();
       display_msg("About to call addtimer");
       add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
@@ -1465,7 +1465,7 @@ procedure exitMap begin
          ndebug("leave council map");
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            animate_move_to_tile(MERK_ENTER_COUNCIL_MAP);
+            self_walk_to_tile(MERK_ENTER_COUNCIL_MAP);
          reg_anim_end();
          add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
          //should_animate := MERK_ENTER_COUNCIL_WAY1;
@@ -1474,7 +1474,7 @@ procedure exitMap begin
          ndebug("leave council map to way point2");
          reg_anim_clear(self_obj);
          reg_anim_begin();
-            animate_move_to_tile(MERK_ENTER_COUNCIL_WAY2);
+            self_walk_to_tile(MERK_ENTER_COUNCIL_WAY2);
          reg_anim_end();
          add_timer_event(self_obj, game_ticks(1), MERK_TIMER_DELETE); //was 2 ticks
          //should_animate := MERK_ENTER_COUNCIL_WAY1;
@@ -1494,9 +1494,9 @@ procedure ensureAnimation begin
    if not anim_busy(self_obj) then begin
       //if (should_animate != 0) then begin
       if (local_var(LVAR_Should_Animate) != 0) then begin //edit by killap
-         if (tile_num(self_obj) != (local_var(LVAR_Should_Animate))) then begin //edit by killap
+         if (self_tile != (local_var(LVAR_Should_Animate))) then begin //edit by killap
          //if (tile_num(self_obj) != should_animate) then begin
-            animate_move_to_tile(local_var(LVAR_Should_Animate)); //edit by killap
+            self_walk_to_tile(local_var(LVAR_Should_Animate)); //edit by killap
             //animate_move_to_tile(should_animate);
             add_timer_event(self_obj, game_ticks(1), MERK_TIMER_ENSURE_ANIM); //was 2 ticks
             ndebug( "MERK: told to animate");
@@ -1575,7 +1575,7 @@ procedure whereAmI begin
 
    /*if (cur_map_index == MAP_NCR_COUNCIL) then begin
       if (local_var(LVAR_Time_Map) == MAP_NCR_COUNCIL) then begin
-         if (tile_num(self_obj) == whatTile) then
+         if (self_tile == whatTile) then
             //retval := IN_CARLSON;
             set_local_var(LVAR_Retval,IN_CARLSON);
          else
@@ -1583,7 +1583,7 @@ procedure whereAmI begin
             set_local_var(LVAR_Retval,IN_TRANSIT);
       end
       if (local_var(LVAR_Time_Map) == MAP_NCR_DOWNTOWN) then begin
-         if (tile_num(self_obj) == whatTile) then
+         if (self_tile == whatTile) then
             //retval := IN_HOME;
             set_local_var(LVAR_Retval,IN_HOME);
          else
@@ -1592,7 +1592,7 @@ procedure whereAmI begin
       end
    end else if (cur_map_index == MAP_NCR_BAZAAR) then begin
       if (local_var(LVAR_Time_Map) == MAP_NCR_BAZAAR) then begin //added begin/end by killap
-         if (tile_num(self_obj) == whatTile) then
+         if (self_tile == whatTile) then
             //retval := IN_RAWHIDE;
             set_local_var(LVAR_Retval,IN_RAWHIDE);
          else
@@ -1666,7 +1666,7 @@ procedure putAllInBox(variable object, variable pid) begin
    variable JunkIt := 0; //added by killap
 
    if (playerTmpBox > 0) then begin
-      count := obj_is_carrying_obj_pid(dude_obj, pid);
+      count := dude_item_count(pid);
       if (count > 0) then begin
          JunkIt:=rm_mult_objs_from_inven(dude_obj,object,count); //added by killap
          add_mult_objs_to_inven(playerTmpBox, object, JunkIt); //added by killap
@@ -1775,11 +1775,11 @@ procedure LennyFight begin
     //  move_to(merk_guard2_obj, 21945, 1); // added by killap
 
    /* Seraph's Fix: animate_rotation only affects self_obj. Thanks Rob!
-   animate_rotation(dude_obj, 2);
-   animate_rotation(lenny_obj, 5);
+   self_rotate(dude_obj, 2);
+   self_rotate(lenny_obj, 5);
    */
-   anim(dude_obj, ANIMATE_ROTATION, 2); // Seraph's Code
-   anim(lenny_obj, ANIMATE_ROTATION, 5); // Seraph's Code
+   dude_rotate(2); // Seraph's Code
+   obj_rotate(lenny_obj, 5); // Seraph's Code
 
    //anim(self_obj, ANIMATE_ROTATION, 2); // added by killap
    //if (obj_is_visible_flag(merk_guard1_obj)) then

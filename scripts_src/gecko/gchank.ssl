@@ -31,7 +31,7 @@
 
 #define NAME                    SCRIPT_GCHANK
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_RED)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_RED)
 //#define PID_COOLANT_REPORT      10 //need to change to proper pid
 #define PID_REACTOR_REPAIR_PART 20 //need to change to proper pid
 
@@ -130,8 +130,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_GECKO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_GECKO);
+   set_self_ai(AI_TOUGH_CITIZEN);
 end
 
 
@@ -143,16 +143,16 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if ( ( (global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO)) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (global_var(GVAR_GECKO_MELTDOWN) == 1) or (global_var(GVAR_ENEMY_GECKO)) ) and (self_can_see_dude)) then begin
       set_local_var(LVAR_Hostile,1);
       attack(dude_obj);
    end
-   else if ( (local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if ( (local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
    else if ( (local_var(LVAR_SEQ) < 11) and (local_var(LVAR_convinced) == 1) and (local_var(LVAR_Hostile) == 0) ) then begin
-         my_hex := tile_num(self_obj);
+         my_hex := self_tile;
          if (my_hex == local_var(LVAR_THEX)) then
             set_local_var(LVAR_SEQ,local_var(LVAR_SEQ)+1);
          if (local_var(LVAR_SEQ) == 0) then set_local_var(LVAR_THEX,WAYPOINTA);
@@ -183,7 +183,7 @@ procedure critter_p_proc begin
          //indicates the meltdown is over - slag the door and kill anything
          //not dead already.
          if (local_var(LVAR_SEQ) < 11) then
-            animate_move_to_tile(local_var(LVAR_THEX));
+            self_walk_to_tile(local_var(LVAR_THEX));
    end //of convinced
 end
 
@@ -240,12 +240,12 @@ procedure talk_p_proc begin
       call Node012;
    end
 
-   else if ((get_critter_stat(dude_obj,STAT_iq) <= 3)) then begin
+   else if ((dude_is_stupid)) then begin
       call Node013;
    end
 
 
-   else if (obj_is_carrying_obj_pid(dude_obj, PID_HY_MAG_PART)) then begin
+   else if (dude_item_count(PID_HY_MAG_PART)) then begin
 
       if (local_var(LVAR_Herebefore) == 0) then begin
 //else if ((local_var(LVAR_Herebefore) == 0) and (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
@@ -320,7 +320,7 @@ procedure Node910 begin
 end
 
 procedure Node920 begin
-  coolant:=obj_carrying_pid_obj(dude_obj, PID_CLIPBOARD);
+  coolant:=dude_item(PID_CLIPBOARD);
   rm_obj_from_inven(dude_obj, coolant);
   destroy_object(coolant); //added by killap
   set_local_var(LVAR_convinced,1);
@@ -329,7 +329,7 @@ procedure Node920 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -342,7 +342,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -373,7 +373,7 @@ else begin
    Reply(111);
 end
    NOption(112,Node002,004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_CLIPBOARD) > 0) then
+   if (dude_item_count(PID_CLIPBOARD) > 0) then
       NOption(113,Node003,004);
    NOption(114,Node999,004);
 end
@@ -438,7 +438,7 @@ procedure Node011 begin
    else if (k == 2) then floater(211);
    else if (k == 3) then floater(212);*/
 
-   float_msg(self_obj, message_str(NAME,random(210,212)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(210,212)),FLOAT_MSG_NORMAL); //edit by killap
 end
 
 procedure Node012 begin
@@ -447,14 +447,14 @@ procedure Node012 begin
    else if (k == 2) then floater(221);
    else if (k == 3) then floater(222);*/
 
-   float_msg(self_obj, message_str(NAME,random(220,222)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(220,222)),FLOAT_MSG_NORMAL); //edit by killap
 
 end
 
 procedure Node013 begin
    //floater(random(230,232));
 
-   float_msg(self_obj, message_str(NAME,random(230,232)),FLOAT_MSG_NORMAL); //edit by killap
+   float_msg(self_obj, mstr(random(230,232)),FLOAT_MSG_NORMAL); //edit by killap
 
 end
 //xxxxxxxxxxxxxxxxxxxx

@@ -731,7 +731,7 @@ end
 
 //intel network
 procedure Node040a begin
-   if (obj_is_carrying_obj_pid(dude_obj,PID_SHI_SUB_CODE_CHART)) then begin
+   if (dude_item_count(PID_SHI_SUB_CODE_CHART)) then begin
       call Node040b;
    end else begin
       call Node040c;
@@ -944,13 +944,13 @@ end
 procedure DoCallGuards begin
    variable obj;
 
-   obj := tile_contains_pid_obj(GUARD_TILE_1, elevation(self_obj), GUARD_PID);
+   obj := tile_contains_pid_obj(GUARD_TILE_1, self_elevation, GUARD_PID);
    ndebug("fsempter: should be attacking: " + obj);
    if (obj) then begin
       float_msg(obj, mstr(Random(216, 219)), FLOAT_MSG_RED);
       attack_setup(obj, dude_obj);
    end
-   obj := tile_contains_pid_obj(GUARD_TILE_2, elevation(self_obj), GUARD_PID);
+   obj := tile_contains_pid_obj(GUARD_TILE_2, self_elevation, GUARD_PID);
    ndebug("fsempter: should be attacking: " + obj);
    if (obj) then begin
       float_msg(obj, mstr(Random(216, 219)), FLOAT_MSG_RED);

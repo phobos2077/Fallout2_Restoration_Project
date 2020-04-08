@@ -127,8 +127,8 @@ end
 procedure map_enter_p_proc begin
    xarn_ptr := self_obj;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
+   set_self_team(TEAM_VAULT13);
+   set_self_ai(AI_VAULT_DEATHCLAW);
 end
 
 procedure map_update_p_proc begin
@@ -145,7 +145,7 @@ procedure push_p_proc begin
 end
 
 procedure escape begin
-   here:=tile_num(self_obj);
+   here:=self_tile;
    if (local_var(LVAR_THEX) == 0) then
       set_local_var(LVAR_THEX, TILE_ZER);
    else if ( (local_var(LVAR_THEX) == TILE_ZER) and (here == TILE_ZER) ) then begin
@@ -188,7 +188,7 @@ procedure critter_p_proc begin
    else if (local_var(LVAR_freed) == 2) then begin
       //do nothing (i am already free)
    end
-   else if (  ((local_var(LVAR_Hostile) == 2) or (local_var(LVAR_Personal_Enemy) == 1)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   else if (  ((local_var(LVAR_Hostile) == 2) or (local_var(LVAR_Personal_Enemy) == 1)) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        call Node021;
        attack(dude_obj);
@@ -196,16 +196,16 @@ procedure critter_p_proc begin
    else if (local_var(LVAR_freed) == 1) then begin
       call escape;
       if (local_var(LVAR_THEX) > 0) then begin //don't move unless you have a target hex
-         animate_move_to_tile(local_var(LVAR_THEX));
+         self_walk_to_tile(local_var(LVAR_THEX));
       end
    end
-   else if ( (local_var(LVAR_met) == 0) and (obj_can_see_obj(self_obj,dude_obj)) and (global_var(GVAR_NAVARRO_BASE_ALERT) > 0)) then begin
+   else if ( (local_var(LVAR_met) == 0) and (self_can_see_dude) and (global_var(GVAR_NAVARRO_BASE_ALERT) > 0)) then begin
       talk_to_dude:=1;
       dialogue_system_enter;
    end
    else if (map_var(MVAR_Xarn_In_Party) == 1) then begin
-      dtile:=tile_num(dude_obj);
-      dlev:=elevation(dude_obj);
+      dtile:=dude_tile;
+      dlev:=dude_elevation;
       if (map_var(MVAR_Exit) == 1) then begin
          call leave_player;
       end
@@ -213,8 +213,8 @@ procedure critter_p_proc begin
       //   call leave_player;
       //end
       else begin
-         mytile:=tile_num(self_obj);
-         mylev:=elevation(self_obj);
+         mytile:=self_tile;
+         mylev:=self_elevation;
          if (mylev != dlev) then begin
             newtile:=tile_num_in_direction(dtile,random(0,5),1);
             move_to(self_obj,newtile,dlev);
@@ -222,7 +222,7 @@ procedure critter_p_proc begin
          end
          else if (tile_distance(mytile,dtile) > 5) then begin
             newtile:=tile_num_in_direction(dtile,random(0,5),1);
-            animate_run_to_tile(newtile);
+            self_run_to_tile(newtile);
          end
       end
    end//follow
@@ -235,7 +235,7 @@ procedure leave_player begin
       gfade_out(600);
       move_to(self_obj,0,0);
       set_local_var(LVAR_freed,2);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);  //added by killap
+      set_self_team(TEAM_VAULT13);  //added by killap
       gfade_in(600);
    end
 end
@@ -432,7 +432,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if ( (check_general_rep >= 0) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap  (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ( (check_general_rep >= 0) or (dude_perk(PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap  (dude_perk(PERK_cult_of_personality))
       call Node05a;
    end
    else begin
@@ -453,7 +453,7 @@ procedure Node05b begin
 end
 
 procedure Node05c begin
-   if ( (check_general_rep >= 0) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap -  (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ( (check_general_rep >= 0) or (dude_perk(PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap -  (dude_perk(PERK_cult_of_personality))
       Reply(122);
 
       NLowOption(124,Node006);
@@ -550,10 +550,10 @@ end
 procedure Node014 begin
    Reply(170);
 
-   if( obj_is_carrying_obj_pid( dude_obj, PID_BLUE_PASS_KEY ) > 0 ) then
+   if( dude_item_count( PID_BLUE_PASS_KEY) > 0) then
       NLowOption(171,Node015);
    NLowOption(172,Node999);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_BLUE_PASS_KEY ) > 0 ) then
+   if( dude_item_count( PID_BLUE_PASS_KEY) > 0) then
       NOption(173,Node015,004);
    NOption(174,Node999,004);
 end
@@ -652,7 +652,7 @@ procedure Node800 begin
       inc_general_rep(REP_BONUS_CC_XARN_JOIN);
       set_global_var(GVAR_NAVARRO_XARN, NAVARRO_XARN_FINISHED); //player has dealt w/ xarn
       set_map_var(MVAR_Xarn_In_Party,1);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    end
 end
 

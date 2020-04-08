@@ -131,7 +131,7 @@ procedure critter_p_proc begin
          if (self_tile != LARGE_PEN_ESCAPE_TILE) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_run_to_tile(LARGE_PEN_ESCAPE_TILE);
+            self_run_to_tile(LARGE_PEN_ESCAPE_TILE);
             reg_anim_end();
          end
       end
@@ -140,7 +140,7 @@ procedure critter_p_proc begin
          if (self_tile != SMALL_PEN_ESCAPE_TILE) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            animate_run_to_tile(SMALL_PEN_ESCAPE_TILE);
+            self_run_to_tile(SMALL_PEN_ESCAPE_TILE);
             reg_anim_end();
          end
       end
@@ -163,7 +163,7 @@ procedure map_enter_p_proc begin
    end
 
    flush_add_timer_event_sec(self_obj, random(15, 90), 1);
-   critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_SLAVER_CAMP_SLAVES);
+   set_self_team(TEAM_SLAVER_CAMP_SLAVES);
 end
 
 
@@ -207,13 +207,13 @@ procedure timed_event_p_proc begin
       add_timer_event(self_obj,(random(150,200)),1);
    end else if (fixed_param == 2) then begin
       if (slaves_in_big_pen(self_tile)) then begin
-         animate_run_to_tile(LARGE_PEN_ESCAPE_TILE);
+         self_run_to_tile(LARGE_PEN_ESCAPE_TILE);
          set_map_var(MVAR_Slaves_Flee,3);
       end
    end else if (fixed_param == 3) then begin
       ndebug("slaves in small pen free");
       if (slaves_in_small_pen(self_tile)) then begin
-         animate_run_to_tile(SMALL_PEN_ESCAPE_TILE);
+         self_run_to_tile(SMALL_PEN_ESCAPE_TILE);
          set_map_var(MVAR_Slaves_Flee,4);
       end
    end

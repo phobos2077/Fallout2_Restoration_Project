@@ -117,10 +117,10 @@ procedure map_enter_p_proc begin
    add_timer_event( self_obj, game_ticks( random( 15,  30 ) ), 4 );
 
    if( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 0 ) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SUPER_MUTANT);
+      set_self_team(TEAM_SUPER_MUTANT);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
       set_obj_visibility( self_obj, true );
@@ -144,17 +144,17 @@ procedure critter_p_proc begin
 
    // Handle rotation to center of room
    if( ( anim_busy( self_obj ) == false ) and ( not( combat_is_initialized ) ) ) then begin
-      if( ( tile_num( self_obj ) == 11484 ) and ( self_cur_rot != 3 ) ) then begin
-         animate_rotation(3);
+      if( ( self_tile == 11484) and ( self_cur_rot != 3 ) ) then begin
+         self_rotate(3);
       end
-      else if( ( tile_num( self_obj ) == 14884 ) and ( self_cur_rot != 3 ) ) then begin
-         animate_rotation(5);
+      else if( ( self_tile == 14884) and ( self_cur_rot != 3 ) ) then begin
+         self_rotate(5);
       end
-      else if( ( tile_num( self_obj ) == 14894 ) and ( self_cur_rot != 3 ) ) then begin
-         animate_rotation(0);
+      else if( ( self_tile == 14894) and ( self_cur_rot != 3 ) ) then begin
+         self_rotate(0);
       end
-      else if( ( tile_num( self_obj ) == 11494 ) and ( self_cur_rot != 3 ) ) then begin
-         animate_rotation(2);
+      else if( ( self_tile == 11494) and ( self_cur_rot != 3 ) ) then begin
+         self_rotate(2);
       end
    end
 
@@ -166,11 +166,11 @@ procedure critter_p_proc begin
    if ( ( ( global_var( GVAR_ENEMY_BANK_GUARDS ) == 1 ) or
           ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or
           ( local_var(LVAR_Hostile) == 2 ) ) and
-        (obj_can_see_obj(self_obj,dude_obj))) then begin
+        (self_can_see_dude)) then begin
        // If the player is an enemy of Broken Hills, put me on Broken Hills.
        // Otherwise, I'm on the local Super Mutants team for the bank.
        if( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) then
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+         set_self_team(TEAM_BROKEN_HILLS);
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -184,7 +184,7 @@ procedure critter_p_proc begin
          call Node998;
       end
    end
-   else if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   else if (self_can_see_dude) then begin
       /*if (dude_is_sneaking) then begin
          if (local_var(LVAR_Warned) == 0) then begin
             call Node011;
@@ -243,7 +243,7 @@ procedure talk_p_proc begin
    if (local_var(LVAR_Personal_Enemy) == 1) then begin
        call Node998;
    end
-   else if (dude_iq <= 3) then begin
+   else if (dude_is_stupid) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node002;
@@ -310,12 +310,12 @@ end
 procedure timed_event_p_proc begin
    if (fixed_param == 0) then begin //sneaking too long
       set_local_var(LVAR_Warned,0);
-      if ( ( obj_can_see_obj( self_obj, dude_obj ) ) and ( night ) ) then //if still sneaking you are in trouble
+      if ( ( self_can_see_dude ) and ( night ) ) then //if still sneaking you are in trouble
          set_local_var(LVAR_Hostile, 2);
    end
    else if (fixed_param == 1) then begin //held weapon too long
       set_local_var(LVAR_Gun,0);
-      if ( ( obj_can_see_obj( self_obj, dude_obj ) ) and ( critter_is_armed(dude_obj) ) ) then //if still armed you are in trouble
+      if ( ( self_can_see_dude ) and ( critter_is_armed(dude_obj) ) ) then //if still armed you are in trouble
          set_local_var(LVAR_Hostile, 2);
    end
    else if (fixed_param == 2) then begin
@@ -329,16 +329,16 @@ procedure timed_event_p_proc begin
    else if(fixed_param == 4) then begin
       if( not( combat_is_initialized ) ) then begin
          // Update the walking of the guard
-         if( tile_num( self_obj ) == 11484 ) then begin
+         if( self_tile == 11484) then begin
             animate_move_obj_to_tile( self_obj, 14884, -1 );
          end
-         else if( tile_num( self_obj ) == 14884 ) then begin
+         else if( self_tile == 14884) then begin
             animate_move_obj_to_tile( self_obj, 14894, -1 );
          end
-         else if( tile_num( self_obj ) == 14894 ) then begin
+         else if( self_tile == 14894) then begin
             animate_move_obj_to_tile( self_obj, 11494, -1 );
          end
-         else if( tile_num( self_obj ) == 11494 ) then begin
+         else if( self_tile == 11494) then begin
             animate_move_obj_to_tile( self_obj, 11484, -1 );
          end
          else begin
@@ -358,7 +358,7 @@ procedure dudeleaves begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -371,7 +371,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -472,8 +472,8 @@ procedure Node008 begin
    //add_obj_to_inven(dude_obj,item2);
 
    //changed by killap (expansion) - he no longer always gives you a key even if he is not carrying one
-   if ((obj_is_carrying_obj_pid(self_obj,PID_CELL_DOOR_KEY))) then begin
-      item:=obj_carrying_pid_obj(self_obj, PID_CELL_DOOR_KEY);
+   if ((self_item_count(PID_CELL_DOOR_KEY))) then begin
+      item:=self_item(PID_CELL_DOOR_KEY);
       rm_obj_from_inven(self_obj,item);
       add_obj_to_inven(dude_obj,item);
 

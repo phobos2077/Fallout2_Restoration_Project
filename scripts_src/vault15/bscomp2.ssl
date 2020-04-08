@@ -172,7 +172,7 @@ end
 procedure giveHolodisk begin
    set_local_var(LVAR_Got_Holodisk, 1);
    set_global_var(GVAR_V15_NCR_SPY, 1);
-   add_obj_to_inven(dude_obj, create_object_sid(SPY_HOLO_PID, self_tile, elevation(self_obj), SCRIPT_BISPYHOL));
+   add_obj_to_inven(dude_obj, create_object_sid(SPY_HOLO_PID, self_tile, self_elevation, SCRIPT_BISPYHOL));
    set_global_var(GVAR_NCR_SPY_KNOWN, 1);
 end
 

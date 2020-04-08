@@ -85,8 +85,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 end
 
 
@@ -99,7 +99,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -143,7 +143,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if ((TOWN_REPUTATION < -15 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) or (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_SCREW_SMITH)) then // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ((TOWN_REPUTATION < -15 and not(dude_perk(PERK_cult_of_personality))) or (global_var(GVAR_VAULT_PLOW_PROBLEM) == PLOW_SCREW_SMITH)) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
        floater(106);
    else if (global_var(GVAR_VAULT_PLOW_PROBLEM) == QUEST_NONE) then begin
        floater(107);

@@ -108,12 +108,12 @@ procedure timed_event_p_proc begin
                if (place == 1) then begin
                   ndebug("place: " + place);
                   set_local_var(LVAR_Should_Animate,17508);
-                  animate_move_to_tile(17508); //tubby
+                  self_walk_to_tile(17508); //tubby
                   add_timer_event(self_obj,game_ticks(1),ensure_animation);
                end else if (place == 2) then begin
                   ndebug("place: " + place);
                   set_local_var(LVAR_Should_Animate,26684);
-                  animate_move_to_tile(26684); //flick
+                  self_walk_to_tile(26684); //flick
                   add_timer_event(self_obj,game_ticks(1),ensure_animation);
                end
             end else if (stage == 2) then begin
@@ -149,7 +149,7 @@ procedure timed_event_p_proc begin
                ndebug("Home_Tile: " + local_var(LVAR_Home_Tile));
                set_local_var(LVAR_Should_Animate,local_var(LVAR_Home_Tile));
                ndebug("Should_Animate:" + local_var(LVAR_Should_Animate));
-               animate_move_to_tile(local_var(LVAR_Home_Tile));
+               self_walk_to_tile(local_var(LVAR_Home_Tile));
                add_timer_event(self_obj,game_ticks(1),ensure_animation);
             end
       end else if (fixed_param == timed_event_wander) then begin
@@ -157,13 +157,13 @@ procedure timed_event_p_proc begin
             if (anim_busy(self_obj) == false) then begin
                ndebug("wander...");
                if (self_tile != local_var(LVAR_Home_Tile)) then begin
-                  animate_move_to_tile(local_var(LVAR_Home_Tile));
+                  self_walk_to_tile(local_var(LVAR_Home_Tile));
                end else begin
                   ndebug("should wander to a different location other than home");
                   if (random(1,5) == 1) then begin
-                     animate_move_to_tile(tile_num_in_direction(self_tile, random(1,5), random(4, 7)));
+                     self_walk_to_tile(tile_num_in_direction(self_tile, random(1,5), random(4, 7)));
                   end else begin
-                     animate_move_to_tile(tile_num_in_direction(self_tile, self_inv_rot, random(4, 7)));
+                     self_walk_to_tile(tile_num_in_direction(self_tile, self_inv_rot, random(4, 7)));
                   end
                end
             end
@@ -173,8 +173,8 @@ procedure timed_event_p_proc begin
           if not anim_busy(self_obj) then begin
             ndebug("ensure_animation");
             if (local_var(LVAR_Should_Animate) != 0) then begin //edit by killap
-               if (tile_num(self_obj) != (local_var(LVAR_Should_Animate))) then begin
-                  animate_move_to_tile(local_var(LVAR_Should_Animate)); //edit by killap
+               if (self_tile != (local_var(LVAR_Should_Animate))) then begin
+                  self_walk_to_tile(local_var(LVAR_Should_Animate)); //edit by killap
                   add_timer_event(self_obj, game_ticks(1), ensure_animation); //was 2 ticks
                end else begin
                   if (stage == 1) then begin
@@ -204,8 +204,8 @@ procedure map_enter_p_proc begin
    ndebug("Home_Tile" + local_var(LVAR_Home_Tile));
 
    if (map_first_run) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_THE_DEN);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+      set_self_team(TEAM_THE_DEN);
+      set_self_ai(AI_PEASANT);
    end
 
    stage := 1;
@@ -320,7 +320,7 @@ procedure Node004 begin
 end
 
 procedure Node990 begin
-   item_caps_adjust(dude_obj, -5);
+   dude_caps_adjust(-5);
    if (local_var(LVAR_Gave_Money) == 0) then
       inc_general_rep(1); //gain 1 karma for giving to the poor.
    set_local_var(LVAR_Gave_Money,1);

@@ -202,7 +202,7 @@ variable the_punch;
                   end
                end else if (boxer_resting) then begin
                   if (self_tile != local_var(LVAR_Home_Tile)) then begin
-                     animate_move_to_tile(local_var(LVAR_Home_Tile));
+                     self_walk_to_tile(local_var(LVAR_Home_Tile));
                   end else begin
                      boxing_floater_rand(360, 368);
                   end
@@ -218,15 +218,15 @@ variable the_punch;
                               boxing_floater_rand(320, 323);
                            end
                            if (tile_distance_objs(self_obj, other_boxer_obj) < 4) then begin
-                              animate_move_to_tile(tile_num_in_direction(self_tile, (self_cur_rot + random(2, 4)) % 6, random(1,3)));
+                              self_walk_to_tile(tile_num_in_direction(self_tile, (self_cur_rot + random(2, 4)) % 6, random(1,3)));
                            end
                         end else if (random(1, 15) != 2) then begin
                            if (random(1,7) == 2) then begin
                               if (self_is_armed) then begin
                                  inven_unwield(self_obj);
                               end else if (self_fid == FID_NMBOXX) then begin
-                                 if (obj_is_carrying_obj_pid(self_obj, PID_SPECIAL_BOXER_WEAPON) > 0) then begin
-                                    wield_obj(obj_carrying_pid_obj(self_obj, PID_SPECIAL_BOXER_WEAPON));
+                                 if (self_item_count(PID_SPECIAL_BOXER_WEAPON) > 0) then begin
+                                    wield_obj(self_item(PID_SPECIAL_BOXER_WEAPON));
                                  end
                               end
                            end else begin
@@ -271,8 +271,8 @@ procedure map_enter_p_proc begin
 variable the_cnt;
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_BOXER);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BOXER);
+         set_self_team(TEAM_NEW_RENO_BOXER);
+         set_self_ai(AI_BOXER);
          set_local_var(LVAR_Hit_Points, boxer_starting_hp);
          set_local_var(LVAR_Home_Tile, self_tile);
          if (self_fid == FID_NMBOXX) then begin

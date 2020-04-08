@@ -21,23 +21,23 @@ procedure damage_p_proc begin
  if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
    if (local_var(LVAR_Destroyed) == 0) then begin
        set_local_var(LVAR_Destroyed,1);
-       rubble:=create_object(33554510,14486,elevation(self_obj));
-       rubble:=create_object(33554513,14083,elevation(self_obj));
-       rubble:=create_object(33554839,13083,elevation(self_obj));
-       rubble:=create_object(33554839,13681,elevation(self_obj));
-       rubble:=create_object(33554839,13683,elevation(self_obj));
-       rubble:=create_object(33554839,14682,elevation(self_obj));
+       rubble:=create_object(33554510,14486,self_elevation);
+       rubble:=create_object(PID_LARGE_BLUE_ROCK_PILE,14083,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,13083,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,13681,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,13683,self_elevation);
+       rubble:=create_object(PID_CAVE_IN_ROCKS,14682,self_elevation);
 
-       blocker:=create_object(PID_BLOCKING_HEX,14487,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,14687,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,14887,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,12886,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,13086,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,13286,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,14476,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,14676,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,14876,elevation(self_obj));
-       blocker:=create_object(PID_BLOCKING_HEX,15077,elevation(self_obj));
+       blocker:=create_object(PID_BLOCKING_HEX,14487,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,14687,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,14887,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,12886,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,13086,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,13286,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,14476,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,14676,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,14876,self_elevation);
+       blocker:=create_object(PID_BLOCKING_HEX,15077,self_elevation);
 
        display_msg(message_str(SCRIPT_REDWAN1, 101));
 

@@ -18,7 +18,7 @@ procedure start;
 procedure talk_p_proc;
 
 procedure start begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_SLAVE);
+   set_self_team(TEAM_RND_SLAVE);
 end
 
 procedure talk_p_proc begin

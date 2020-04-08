@@ -113,8 +113,8 @@ procedure map_enter_p_proc begin
    variable weapon;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_GUARD);
 
    if map_first_run then begin
       weapon := create_object(PID_COMBAT_SHOTGUN,0,0);
@@ -132,7 +132,7 @@ procedure map_enter_p_proc begin
       set_global_var(GVAR_BH_BOSS, 200); //leader is Chad until someone dies
       set_global_var(GVAR_BH_HENCH_COUNT, global_var(GVAR_BH_HENCH_COUNT) + 1);
       set_local_var(LVAR_Rank, global_var(GVAR_BH_HENCH_COUNT)); //we have rank, now we need a name
-      if ( (get_critter_stat(self_obj,STAT_gender)) == GENDER_MALE) then begin //i am male
+      if ( (self_gender) == GENDER_MALE) then begin //i am male
          set_global_var(GVAR_BH_MALE_NAMES_USED, global_var(GVAR_BH_MALE_NAMES_USED) + 1);
          set_local_var(LVAR_Name, 200+global_var(GVAR_BH_MALE_NAMES_USED)); //now i know my name
       end
@@ -153,7 +153,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -199,7 +199,7 @@ end
 
 /*
 procedure combat_p_proc begin
-   if (obj_is_carrying_obj_pid(self_obj,) == 0) then begin
+   if (self_item_count() == 0) then begin
       item := create_object(PID_COMBAT_SHOTGUN,0,0);
       add_obj_to_inven(self_obj, item);
    end
@@ -273,7 +273,7 @@ procedure talk_p_proc begin
                 call Node001;
              end
              else begin
-                if ( dude_iq <= 3 ) then begin
+                if ( dude_is_stupid ) then begin
                    call Node002;
                 end
                 else begin
@@ -327,7 +327,7 @@ procedure Node920 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -340,7 +340,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -470,7 +470,7 @@ end
 
 procedure Node017 begin
    set_global_var(GVAR_BH_CARAVAN, CARAVAN_GOING_HOME);
-   item_caps_adjust(dude_obj, 500);
+   dude_caps_adjust(500);
    Reply(140);
    NOption(141,Node999,004);
 end

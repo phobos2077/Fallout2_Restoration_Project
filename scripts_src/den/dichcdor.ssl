@@ -84,7 +84,7 @@ end
 
 procedure check_unlock_door begin
    //this code doesn't make sense to me. How can a piece of scenery be part of a TEAM -- killap
-   /*if (has_trait(TRAIT_OBJECT,source_obj,OBJECT_TEAM_NUM) == TEAM_DEN_GANG_1) then begin
+   /*if (get_team(source_obj) == TEAM_DEN_GANG_1) then begin
       obj_unlock(self_obj);
    end*/
 end

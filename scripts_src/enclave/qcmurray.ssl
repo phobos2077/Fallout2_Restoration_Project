@@ -112,8 +112,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ENCLAVE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_ENCLAVE);
+   set_self_ai(AI_PEASANT);
 end
 
 
@@ -126,7 +126,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -310,7 +310,7 @@ procedure Node008 begin
 end
 
 procedure Node008a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,0)) then
        call Node009;
    else
        call Node010;
@@ -328,7 +328,7 @@ procedure Node009 begin
 end
 
 procedure Node009a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,0)) then
        call Node011;
    else
        call Node012;
@@ -344,7 +344,7 @@ procedure Node010 begin
 end
 
 procedure Node010a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,-50)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,-50)) then
        call Node011;
    else
        call Node012;
@@ -382,7 +382,7 @@ procedure Node013 begin
 end
 
 procedure Node013a begin
-   if (skill_success(dude_obj,SKILL_CONVERSANT,0)) then
+   if (skill_success(dude_obj,SKILL_SPEECH,0)) then
        call Node999;
    else
        call Node008b; //edit by killap - was Node008a

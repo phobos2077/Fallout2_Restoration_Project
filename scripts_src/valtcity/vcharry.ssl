@@ -126,8 +126,8 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    Harry_Ptr := self_obj;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    //added by killap - expansion pack (Village)
    if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then begin
@@ -152,7 +152,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( ( local_var(LVAR_Hostile) == 2 ) or ( ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -208,7 +208,7 @@ procedure talk_p_proc begin
    if (global_var(GVAR_QUEST_VAULT_SERVANT) == SERVANT_TURNED_IN_HARRY) then
     float_msg(self_obj, message_str(SCRIPT_VCHARRY, random(145, 149)), FLOAT_MSG_YELLOW);
    //end
-   else if (TOWN_REPUTATION < -30 and not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) then begin // edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   else if (TOWN_REPUTATION < -30 and not(dude_perk(PERK_cult_of_personality))) then begin // edit by killap - added not(dude_perk(PERK_cult_of_personality))
        floater(107);
    end
    else begin
@@ -290,16 +290,16 @@ procedure Node001 begin
    if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_JOE_SPOKE) then begin
      if (local_var(LVAR_Village_Guns) == 1) then begin
        gsay_reply(SCRIPT_VCHARRY, 141); //killap
-       if (obj_is_carrying_obj_pid(dude_obj, PID_BOTTLE_CAPS) >= 10000) then
-         giq_option(4, SCRIPT_VCHARRY, 132, Node011, 50); //killap
+       if (dude_caps >= 10000) then
+         giq_option(4, SCRIPT_VCHARRY, 132, Node011, NEUTRAL_REACTION); //killap
        else
-         giq_option(4, SCRIPT_VCHARRY, 144, Node999, 50); //killap
-       if (obj_is_carrying_obj_pid(dude_obj, PID_BOTTLE_CAPS) >= 5000) then
-         giq_option(4, SCRIPT_VCHARRY, 142, Node012, 50); //killap
-       if (obj_is_carrying_obj_pid(dude_obj, PID_BOTTLE_CAPS) >= 2000) then
-         giq_option(4, SCRIPT_VCHARRY, 143, Node013, 50); //killap
+         giq_option(4, SCRIPT_VCHARRY, 144, Node999, NEUTRAL_REACTION); //killap
+       if (dude_caps >= 5000) then
+         giq_option(4, SCRIPT_VCHARRY, 142, Node012, NEUTRAL_REACTION); //killap
+       if (dude_caps >= 2000) then
+         giq_option(4, SCRIPT_VCHARRY, 143, Node013, NEUTRAL_REACTION); //killap
      end else
-       giq_option(4, SCRIPT_VCHARRY, 129, Node010, 50); //killap
+       giq_option(4, SCRIPT_VCHARRY, 129, Node010, NEUTRAL_REACTION); //killap
    end
    //end
 
@@ -319,16 +319,16 @@ procedure Node003 begin
 
    NOption(109,Node003a,004);
    NOption(110,Node003b,004);
-   if (item_caps_total(dude_obj) < 800) then
+   if (dude_caps < 800) then
        NOption(111,Node999,004);
    else
        BOption(112,Node003c,004);
 end
 
 procedure Node003a begin
-   if ((has_skill(dude_obj,SKILL_BARTER) > 50) and (item_caps_total(dude_obj) >= 600)) then begin
-       item_caps_adjust(dude_obj,-600);
-       item_caps_adjust(self_obj,600);
+   if ((has_skill(dude_obj,SKILL_BARTER) > 50) and (dude_caps >= 600)) then begin
+       dude_caps_adjust(-600);
+       self_caps_adjust(600);
        call Node004;
    end
    else
@@ -336,9 +336,9 @@ procedure Node003a begin
 end
 
 procedure Node003b begin
-   if (item_caps_total(dude_obj) >= 800) then begin
-       item_caps_adjust(dude_obj,-800);
-       item_caps_adjust(self_obj,800);
+   if (dude_caps >= 800) then begin
+       dude_caps_adjust(-800);
+       self_caps_adjust(800);
        call Node004;
    end
    else
@@ -359,7 +359,7 @@ procedure Node005 begin
    Reply(115);
 
    NOption(110,Node003b,004);
-   if (item_caps_total(dude_obj) < 800) then
+   if (dude_caps < 800) then
        NOption(111,Node999,004);
    else
        BOption(112,Node003c,004);
@@ -376,10 +376,10 @@ procedure Node007 begin
 
    gfade_out(600);
 
-   if( not( obj_is_visible_flag( plow1 ) ) ) then begin
+   if( not( is_visible( plow1 ) ) ) then begin
       set_obj_visibility( plow1, false );
    end
-   if( obj_is_visible_flag( plow2 ) ) then begin
+   if( is_visible( plow2 ) ) then begin
       set_obj_visibility( plow2, true );
    end
 
@@ -409,8 +409,8 @@ end
 
 procedure Node009 begin
   give_pid_qty(dude_obj,PID_MOTOR,1)
-  item_caps_adjust(dude_obj,-500);
-  item_caps_adjust(self_obj,500);
+  dude_caps_adjust(-500);
+  self_caps_adjust(500);
   set_local_var(LVAR_Abbey_Part_Sold,1);
   Reply(127);
   NOption(128,Node999,004);
@@ -421,7 +421,7 @@ end
 procedure Node010
 begin
   gsay_reply(SCRIPT_VCHARRY, 130); //killap
-  giq_option(4, SCRIPT_VCHARRY, 139, Node010a, 50); //killap
+  giq_option(4, SCRIPT_VCHARRY, 139, Node010a, NEUTRAL_REACTION); //killap
 end
 
 procedure Node010a
@@ -430,42 +430,42 @@ begin
   gfade_in(600);
   gsay_reply(SCRIPT_VCHARRY, 131); //killap
   set_local_var(LVAR_Village_Guns,1);
-  if (obj_is_carrying_obj_pid(dude_obj, PID_BOTTLE_CAPS) >= 10000) then
-    giq_option(4, SCRIPT_VCHARRY, 132, Node011, 49); //killap
+  if (dude_caps >= 10000) then
+    giq_option(4, SCRIPT_VCHARRY, 132, Node011, GOOD_REACTION); //killap
   else
-    giq_option(4, SCRIPT_VCHARRY, 144, Node999, 50); //killap
-  if (obj_is_carrying_obj_pid(dude_obj, PID_BOTTLE_CAPS) >= 5000) then
-    giq_option(4, SCRIPT_VCHARRY, 133, Node012, 50); //killap
-  if (obj_is_carrying_obj_pid(dude_obj, PID_BOTTLE_CAPS) >= 2000) then
-    giq_option(4, SCRIPT_VCHARRY, 134, Node013, 51); //killap
+    giq_option(4, SCRIPT_VCHARRY, 144, Node999, NEUTRAL_REACTION); //killap
+  if (dude_caps >= 5000) then
+    giq_option(4, SCRIPT_VCHARRY, 133, Node012, NEUTRAL_REACTION); //killap
+  if (dude_caps >= 2000) then
+    giq_option(4, SCRIPT_VCHARRY, 134, Node013, BAD_REACTION); //killap
 end
 
 procedure Node011
 begin
   set_local_var(LVAR_Village_Guns,2);
   //set_local_var(7, 2);
-  gun1 := create_object_sid(PID_SHOTGUN, 0, 0, -1);
-  gun2 := create_object_sid(PID_ASSAULT_RIFLE, 0, 0, -1);
+  gun1 := create_object(PID_SHOTGUN, 0, 0);
+  gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
   add_mult_objs_to_inven(dude_obj, gun1, 1);
   add_mult_objs_to_inven(dude_obj, gun2, 4);
-  item_caps_adjust(dude_obj, -10000);
+  dude_caps_adjust(-10000);
   set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GOT_GUNS); //edit by killap
   //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
   gsay_reply(SCRIPT_VCHARRY, 137); //killap
-  giq_option(4, SCRIPT_VCHARRY, 138, Node999, 50); //killap
+  giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION); //killap
 end
 
 procedure Node012
 begin
-  if (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 0)) or is_success(roll_vs_skill(dude_obj, SKILL_BARTER, 0)) or (get_critter_stat(dude_obj, STAT_ch) > 5)) then
+  if (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 0)) or is_success(roll_vs_skill(dude_obj, SKILL_BARTER, 0)) or (dude_charisma > 5)) then
   begin
     gsay_reply(SCRIPT_VCHARRY, 136); //killap
-    giq_option(4, SCRIPT_VCHARRY, 138, Node999, 50); //killap
-    gun1 := create_object_sid(PID_SHOTGUN, 0, 0, -1);
-    gun2 := create_object_sid(PID_ASSAULT_RIFLE, 0, 0, -1);
+    giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION); //killap
+    gun1 := create_object(PID_SHOTGUN, 0, 0);
+    gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
     add_mult_objs_to_inven(dude_obj, gun1, 1);
     add_mult_objs_to_inven(dude_obj, gun2, 4);
-    item_caps_adjust(dude_obj, -5000);
+    dude_caps_adjust(-5000);
     //set_local_var(7, 2);
     set_local_var(LVAR_Village_Guns,2);
     //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
@@ -474,21 +474,21 @@ begin
   else
   begin
     gsay_reply(SCRIPT_VCHARRY, 135); //killap
-    giq_option(4, SCRIPT_VCHARRY, 140, Node999, 50); //killap
+    giq_option(4, SCRIPT_VCHARRY, 140, Node999, NEUTRAL_REACTION); //killap
   end
 end
 
 procedure Node013
 begin
-  if ((has_skill(dude_obj, SKILL_CONVERSANT) > 74) or (has_skill(dude_obj, SKILL_BARTER) > 74) or (get_critter_stat(dude_obj, STAT_ch) > 7)) then
+  if ((has_skill(dude_obj, SKILL_SPEECH) > 74) or (has_skill(dude_obj, SKILL_BARTER) > 74) or (dude_charisma > 7)) then
   begin
     gsay_reply(SCRIPT_VCHARRY, 136); //killap
-    giq_option(4, SCRIPT_VCHARRY, 138, Node999, 50); //killap
-    gun1 := create_object_sid(PID_SHOTGUN, 0, 0, -1);
-    gun2 := create_object_sid(PID_ASSAULT_RIFLE, 0, 0, -1);
+    giq_option(4, SCRIPT_VCHARRY, 138, Node999, NEUTRAL_REACTION); //killap
+    gun1 := create_object(PID_SHOTGUN, 0, 0);
+    gun2 := create_object(PID_ASSAULT_RIFLE, 0, 0);
     add_mult_objs_to_inven(dude_obj, gun1, 1);
     add_mult_objs_to_inven(dude_obj, gun2, 4);
-    item_caps_adjust(dude_obj, -2000);
+    dude_caps_adjust(-2000);
     //set_local_var(7, 2);
     set_local_var(LVAR_Village_Guns,2);
     //set_global_var(GVAR_ENEMY_VAULT_VILLAGE, 8);
@@ -497,7 +497,7 @@ begin
   else
   begin
     gsay_reply(SCRIPT_VCHARRY, 135);
-    giq_option(4, SCRIPT_VCHARRY, 140, Node999, 50); //killap
+    giq_option(4, SCRIPT_VCHARRY, 140, Node999, NEUTRAL_REACTION); //killap
   end
 end
 

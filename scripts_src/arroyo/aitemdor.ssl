@@ -401,7 +401,7 @@ procedure damage_p_proc begin
            set_local_var(LVAR_Trapped, STATE_INACTIVE);
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
            destroy_object(self_obj);
        end
 
@@ -419,7 +419,7 @@ procedure damage_p_proc begin
        if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
            set_local_var(LVAR_Locked, STATE_INACTIVE);
            Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
-           explosion(tile_num(self_obj), elevation(self_obj), Trap_Damage);
+           explosion(self_tile, self_elevation, Trap_Damage);
        end
 
        else if (local_var(LVAR_Explosion_Attempts) > DOOR_STRENGTH) then begin
@@ -451,7 +451,7 @@ procedure map_enter_p_proc begin
        set_local_var(LVAR_Locked,LOCKED_STATUS);
    end
 
-   if ((tile_num(self_obj) == 13528) and (map_var(MVAR_Passed_Fighting) != Fighting_Finished) and (local_var(LVAR_Used_Key) == 0)) then begin
+   if ((self_tile == 13528) and (map_var(MVAR_Passed_Fighting) != Fighting_Finished) and (local_var(LVAR_Used_Key) == 0)) then begin
        set_local_var(LVAR_Locked,STATE_ACTIVE);
    end
 
@@ -474,7 +474,7 @@ procedure map_update_p_proc begin
 
 //   Entrance_Door_Ptr:=self_obj;
 
-   ndebug("tile_num == "+tile_num(self_obj)+", MVAR_Passed_Fighting == "+map_var(MVAR_Passed_Fighting)+", LVAR_Used_Key == "+local_var(LVAR_Used_Key));
+   ndebug("tile_num == "+self_tile+", MVAR_Passed_Fighting == "+map_var(MVAR_Passed_Fighting)+", LVAR_Used_Key == "+local_var(LVAR_Used_Key));
 
    if (map_var(MVAR_Passed_Fighting) == Fighting_Started) then begin
        set_local_var(LVAR_Locked,STATE_ACTIVE);
@@ -482,11 +482,11 @@ procedure map_update_p_proc begin
 
    else begin
 
-       if ((tile_num(self_obj) == 13528) and (map_var(MVAR_Passed_Fighting) != Fighting_Finished) and (local_var(LVAR_Used_Key) == 0)) then begin
+       if ((self_tile == 13528) and (map_var(MVAR_Passed_Fighting) != Fighting_Finished) and (local_var(LVAR_Used_Key) == 0)) then begin
            set_local_var(LVAR_Locked,STATE_ACTIVE);
        end
 
-       else if ((tile_num(self_obj) == 13528) and (map_var(MVAR_Passed_Fighting) == Fighting_Finished) and (global_var(GVAR_DUMAR_STATUS) == 0)) then begin
+       else if ((self_tile == 13528) and (map_var(MVAR_Passed_Fighting) == Fighting_Finished) and (global_var(GVAR_DUMAR_STATUS) == 0)) then begin
            obj_unlock(self_obj); //added by killap
            set_local_var(LVAR_Locked,STATE_INACTIVE);
        end
@@ -1455,7 +1455,7 @@ procedure Pry_Door begin
        end
 
        else begin
-           if (get_critter_stat(source_obj,STAT_gender) == GENDER_MALE) then begin
+           if (is_male(source_obj)) then begin
                if (Crowbar_Strain == 1) then begin
                    display_msg(mstr(182));
                end

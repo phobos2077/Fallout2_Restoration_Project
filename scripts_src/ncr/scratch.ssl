@@ -119,8 +119,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_ENTRANCE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_NCR_ENTRANCE);
+   set_self_ai(AI_TOUGH_CITIZEN);
    if (local_var(LVAR_Repair_Time) and (local_var(LVAR_Ratch_Parts) == RATCHREPAIR)) then // edit by killap - was != RATCHDONEFIX
       add_timer_event(self_obj, game_ticks(60), RATCH_FIX_TIMER);
 end
@@ -135,7 +135,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -250,8 +250,8 @@ end
 
 procedure Node005a begin
    Node5Repeat += 1;
-   item_caps_adjust(dude_obj, -5);
-   item_caps_adjust(self_obj, 5);
+   dude_caps_adjust(-5);
+   self_caps_adjust(5);
    call Node005;
 end
 
@@ -291,8 +291,8 @@ end
 
 procedure Node0607a begin
    if (dude_caps > 999) then begin
-      item_caps_adjust(dude_obj, -1000);
-      item_caps_adjust(self_obj, 1000);
+      dude_caps_adjust(-1000);
+      self_caps_adjust(1000);
       call Node006;
    end else begin
       call Node007;
@@ -363,9 +363,9 @@ end
 
 procedure figureWalkTile begin
    if (local_var(LVAR_Ratch_Parts) == 0 or local_var(LVAR_Ratch_Parts) == RATCHNOPARTS) then
-      animate_move_to_tile(RATCH_HOMETILE);
+      self_walk_to_tile(RATCH_HOMETILE);
    else
-      animate_move_to_tile(RATCH_WORKTILE);
+      self_walk_to_tile(RATCH_WORKTILE);
 end
 
 procedure startRepair begin

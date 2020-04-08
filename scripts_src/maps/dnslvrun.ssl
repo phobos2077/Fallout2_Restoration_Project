@@ -132,11 +132,11 @@ variable last_critter := 0;
          if (last_critter != 0) then begin
             Face_Critter(the_obj, last_critter);
          end
-         critter_add_trait(the_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+         set_team(the_obj,TEAM_SLAVES);
          if (the_elev != 2) then begin
-            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_PRIMITIVE_COWARD);
+            set_ai(the_obj, AI_PRIMITIVE_COWARD);
          end else begin
-            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_COWARD);
+            set_ai(the_obj, AI_COWARD);
          end
          last_critter := the_obj;
          num_critters -= 1;
@@ -150,11 +150,11 @@ variable last_critter := 0;
          if (last_critter != 0) then begin
             Face_Critter(the_obj, last_critter);
          end
-         critter_add_trait(the_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOSTILE_SLAVES);
+         set_team(the_obj,TEAM_DEN_HOSTILE_SLAVES);
          if (the_elev != 2) then begin
-            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_PRIMITIVE_KAMAKAZI);
+            set_ai(the_obj, AI_PRIMITIVE_KAMAKAZI);
          end else begin
-            critter_add_trait(the_obj,TRAIT_OBJECT, OBJECT_AI_PACKET, AI_PEASANT_KAMAKAZI);
+            set_ai(the_obj, AI_PEASANT_KAMAKAZI);
          end
          last_critter := the_obj;
          num_critters -= 1;
@@ -168,14 +168,14 @@ variable last_critter := 0;
          the_obj := create_object_sid(PID_WEAK_GUN_GUARD_MALE,0,0,SCRIPT_DCRNSLVR);
          temp := 0;
          while (temp == 0) do begin
-            temp := tile_num_in_direction(tile_num(dude_obj), random(0,5), random(3,5));
+            temp := tile_num_in_direction(dude_tile, random(0,5), random(3,5));
             if (tile_is_blocked(temp, the_elev)) then begin
                temp := 0;
             end
          end
          critter_attempt_placement(the_obj, temp, the_elev);
-         critter_add_trait(the_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_PLAYER);
-         critter_add_trait(the_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_SLAVER);
+         set_team(the_obj, TEAM_PLAYER);
+         set_ai(the_obj, AI_SLAVER);
          Face_Critter(dude_obj, the_obj);
          num_critters -= 1;
       end

@@ -189,7 +189,7 @@ procedure Put_Chad_In_Jail; //added by killap - expansion pack
 
 procedure Put_Conspiracy_In_Jail;
 
-#define check_bad_area(map, elev)         ((cur_map_index == map) and ((elevation(self_obj) == elev) or (elev == -1)))
+#define check_bad_area(map, elev)         ((cur_map_index == map) and ((self_elevation == elev) or (elev == -1)))
 #define marcus_doesnt_like_area            ((check_bad_area(MAP_RAIDERS_CAMP1, -1)) or           \
                                            (check_bad_area(MAP_KLAMATH_TOXICCAVES, -1)) or              \
                                            (check_bad_area(MAP_KLAMATH_RATCAVES, -1)) or            \
@@ -199,7 +199,7 @@ procedure Put_Conspiracy_In_Jail;
                                            (check_bad_area(MAP_SIERRA_BATTLE, -1)))      // *** finish
 
 #define marcus_is_poisoned                    (get_poison(self_obj))
-#define marcus_is_irradiated                  (get_critter_stat(self_obj, STAT_current_rad))
+#define marcus_is_irradiated                  (self_rads)
 #define marcus_is_crippled                    ((critter_state(self_obj) bwand DAM_CRIP_LEG_LEFT)  or \
                                                 (critter_state(self_obj) bwand DAM_CRIP_LEG_RIGHT) or \
                                                 (critter_state(self_obj) bwand DAM_CRIP_ARM_LEFT)  or \
@@ -207,7 +207,7 @@ procedure Put_Conspiracy_In_Jail;
 
 #define marcus_joins_party                party_add_self;                                                   \
                                           add_timer_event(self_obj,game_ticks(1),1);                             \
-                                          critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER)
+                                          set_self_team(TEAM_PLAYER)
 #define dude_has_free_slot_for_marcus        ((dude_at_max_party_size == false) and (Marcus_In_Party == false))
 #define marcus_party_member_options          party_member_default_options
 
@@ -278,7 +278,7 @@ procedure map_enter_p_proc begin
    end
    else begin
       Perform_Critter_Float := 0;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+      set_self_team(TEAM_BROKEN_HILLS);
 
       if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
          set_obj_visibility( self_obj, true );
@@ -307,7 +307,7 @@ procedure timed_event_p_proc begin
                call Node2000;
             else if( marcus_is_crippled ) then
                call Node2009;
-            else if( get_critter_stat(self_obj, STAT_current_hp) <= ( (get_critter_stat(self_obj, STAT_max_hp) * 3)/4) ) then
+            else if( self_cur_hits <= ( (get_max_hits(self_obj) * 3)/4) ) then
                call Node2010;
             //added and (random(1,2) == 1) to the below checks - this way having one npc doesn't prohibit responses to other npcs - killap
             else if( (Cyberdog_Ptr != 0 ) and (random(1,2) == 1) ) then
@@ -341,7 +341,7 @@ procedure timed_event_p_proc begin
             move_to(self_obj, 18284, 0 );
             move_to(dude_obj, 18287, 0 );
             reg_anim_clear( self_obj );
-            animate_rotation(3);
+            self_rotate(3);
             //anim(self_obj, ANIMATE_ROTATION, 0 );
             call Put_Chad_In_Jail;
             gfade_in(600);
@@ -383,7 +383,7 @@ procedure critter_p_proc begin
       party_member_follow_dude
    end
    //else if ( ( ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or (local_var(LVAR_Hostile) == 2) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
-   else if ( (cur_town == AREA_BROKEN_HILLS) and ( ((global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) or (local_var(LVAR_Hostile) == 2)) and (obj_can_see_obj(self_obj,dude_obj)) ) ) then begin //edit by killap (now only become hostile on BH maps)
+   else if ( (cur_town == AREA_BROKEN_HILLS) and ( ((global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) or (local_var(LVAR_Hostile) == 2)) and (self_can_see_dude) ) ) then begin //edit by killap (now only become hostile on BH maps)
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -438,7 +438,7 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
    end
-   else if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( check_general_rep < -10 )  ) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   else if ( (not(dude_perk(PERK_cult_of_personality))) and ( check_general_rep < -10 )  ) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
        start_gdialog(NAME,self_obj,4,HEAD_MARCUS,PartyMemberBackground);
        gSay_Start;
            call Node045;
@@ -477,7 +477,7 @@ procedure talk_p_proc begin
                 call Node001;
              end
              else begin
-                if (dude_iq <= 3) then begin
+                if (dude_is_stupid) then begin
                    call Node006;
                 end
                 else begin
@@ -496,7 +496,7 @@ procedure talk_p_proc begin
    if( Perform_Party_Remove == 1 ) then begin
       Perform_Party_Remove := 0;
       set_party_waiting;
-      critter_add_trait(self_obj, TRAIT_OBJECT,OBJECT_TEAM_NUM, TEAM_BROKEN_HILLS);
+      set_self_team(TEAM_BROKEN_HILLS);
    end*/
    //end comment out by killap
    if( Perform_Jailing == 1 ) then begin
@@ -517,9 +517,9 @@ procedure destroy_p_proc begin
    set_global_var(GVAR_ENDGAME_MOVIE_MARCUS,0);
 
    //added by killap - RP
-   if (obj_is_carrying_obj_pid(self_obj, PID_MUTANT_ARMOR_WEARABLE)) then begin
-      rm_obj_from_inven(self_obj, critter_inven_obj(self_obj, INVEN_TYPE_WORN));
-      destroy_object(obj_carrying_pid_obj(self_obj,PID_MUTANT_ARMOR_WEARABLE));
+   if (self_item_count(PID_MUTANT_ARMOR_WEARABLE)) then begin
+      rm_obj_from_inven(self_obj, self_armor);
+      destroy_object(self_item(PID_MUTANT_ARMOR_WEARABLE));
       armor := create_object(PID_MUTANT_ARMOR,0,0);
       add_obj_to_inven(self_obj,armor);
    end
@@ -636,7 +636,7 @@ procedure Node001a begin
         ( (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS) or (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) or
           (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS) or (global_var(GVAR_BH_FTM) == FTM_EXPOSED) ) and
         ( ( check_general_rep >= 0 ) or
-          ( has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality) ) ) and //added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+          ( dude_perk(PERK_cult_of_personality) ) ) and //added (dude_perk(PERK_cult_of_personality))
         ( dude_has_free_slot_for_marcus ) ) then
       call Node030;
    else
@@ -906,7 +906,7 @@ procedure Node025a begin
    Perform_Jailing := 1;
    if (global_var(GVAR_BH_MISSING) == MISSING_DISCOVERED_CASH) then begin
       set_global_var( GVAR_BH_MISSING, MISSING_REWARDED );
-      item_caps_adjust( dude_obj, 500 );
+      dude_caps_adjust( 500);
       Reply( 198 ); //multiple replies ...check with Colin, need priority
    end
    else if (global_var(GVAR_BH_MISSING) == MISSING_DISCOVERED_FREE) then begin
@@ -1012,7 +1012,7 @@ procedure Node031 begin
       else
          Reply(276);
    end
-   else if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( check_general_rep < 0 ) ) then //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   else if ( (not(dude_perk(PERK_cult_of_personality))) and ( check_general_rep < 0 ) ) then //edit by killap - added not(dude_perk(PERK_cult_of_personality))
       Reply(277);
    else
       Reply(213);
@@ -1109,7 +1109,7 @@ procedure Node043 begin
 end
 
 procedure Node043a begin
-   if( is_success( roll_vs_skill( dude_obj, SKILL_CONVERSANT, -10 ) ) ) then
+   if( is_success( roll_vs_skill( dude_obj, SKILL_SPEECH, -10 ) ) ) then
       call Node044;
    else begin
       if( local_var(LVAR_Down_React_5) == 0 ) then begin
@@ -1234,11 +1234,11 @@ procedure Node115 begin
 
    if( global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_GECKO ) then
       NOption(192,Node028,004);
-   else if( (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) and (obj_is_carrying_obj_pid(dude_obj,PID_BRIEFCASE)) and (global_var(GVAR_CHAD_DEAD) == 1) ) then
+   else if( (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) and (dude_item_count(PID_BRIEFCASE)) and (global_var(GVAR_CHAD_DEAD) == 1) ) then
       NOption(193002,Node2020,004);
    else if( (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) and (map_var(MVAR_Chad_Draw) == 1) ) then
       NOption(193003,Node2021,004);
-   else if( (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) and (obj_is_carrying_obj_pid(dude_obj,PID_BRIEFCASE)) ) then
+   else if( (global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS) and (dude_item_count(PID_BRIEFCASE)) ) then
       NOption(193001,Node029,004);
    //else if( global_var(GVAR_BH_CHAD) == CHAD_CONFIRMED_BROKENHILLS ) then
    //   NOption(193,Node029,004);
@@ -1357,7 +1357,7 @@ end
 procedure Node1008 begin
    // gear
    Reply(185);
-   if (obj_is_carrying_obj_pid(self_obj, PID_MUTANT_ARMOR)) then begin
+   if (self_item_count(PID_MUTANT_ARMOR)) then begin
       NOption(10008, Node1009, 004);
    end
    party_member_def_gear_options;
@@ -1365,16 +1365,16 @@ end
 procedure Node1009 begin
    // remove armor
    variable armor;
-   if (obj_is_carrying_obj_pid(self_obj, PID_MUTANT_ARMOR)) then begin
+   if (self_item_count(PID_MUTANT_ARMOR)) then begin
       armor := create_object(PID_MUTANT_ARMOR_WEARABLE,0,0);
       add_obj_to_inven(self_obj,armor);
       wield_obj_critter(self_obj, armor);
       metarule3(107, self_obj, FID_MALIEU, 0);
-      destroy_object(obj_carrying_pid_obj(self_obj, PID_MUTANT_ARMOR));
+      destroy_object(self_item(PID_MUTANT_ARMOR));
       Reply(297);
-   end else if (obj_is_carrying_obj_pid(self_obj, PID_MUTANT_ARMOR_WEARABLE)) then begin
-      rm_obj_from_inven(self_obj, critter_inven_obj(self_obj, INVEN_TYPE_WORN));
-      destroy_object(obj_carrying_pid_obj(self_obj,PID_MUTANT_ARMOR_WEARABLE));
+   end else if (self_item_count(PID_MUTANT_ARMOR_WEARABLE)) then begin
+      rm_obj_from_inven(self_obj, self_armor);
+      destroy_object(self_item(PID_MUTANT_ARMOR_WEARABLE));
       armor := create_object(PID_MUTANT_ARMOR,0,0);
       add_obj_to_inven(self_obj,armor);
       metarule3(107, self_obj, FID_MAMTN2, 0);
@@ -1401,7 +1401,7 @@ procedure Node1100 begin
       Reply(277);
       BOption(3100, Node999, 001); //added by killap
       BOption(3200, Node999, 001); //added by killap
-   end else if( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( ( has_rep_childkiller ) or ( check_general_rep < -100 ) )  ) then begin //edit by killap - added not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   end else if( (not(dude_perk(PERK_cult_of_personality))) and ( ( has_rep_childkiller ) or ( check_general_rep < -100 ) )  ) then begin //edit by killap - added not(dude_perk(PERK_cult_of_personality))
       set_self_abandon_party;
       Reply(277);
       BOption(3100, Node999, 001); //added by killap
@@ -1592,7 +1592,7 @@ procedure Put_Chad_In_Jail begin
    variable door;
    if( global_var( GVAR_CHAD_DEAD ) == 0 ) then begin
 
-      if (obj_is_carrying_obj_pid(dude_obj,PID_BRIEFCASE)) then
+      if (dude_item_count(PID_BRIEFCASE)) then
          remove_pid_qty(dude_obj, PID_BRIEFCASE, 1)
 
       //critter_attempt_placement( Chad_Ptr, 10093, 0 );
@@ -1602,7 +1602,7 @@ procedure Put_Chad_In_Jail begin
       reg_anim_begin();
       reg_anim_animate(Chad_Ptr, ANIMATE_ROTATION, 1);
       reg_anim_end();
-      door := tile_contains_pid_obj(13096,0,33555013);
+      door := tile_contains_pid_obj(13096,0,PID_JAIL_DOOR_N_S);
       reg_anim_clear(door);
       obj_close(door);
       obj_lock(door);

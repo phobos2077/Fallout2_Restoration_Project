@@ -136,8 +136,8 @@ end
 procedure map_enter_p_proc begin
    Randal_Ptr := self_obj;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_COWARD);
 
    if( not( is_loading_game ) ) then begin
       if( ( game_time_hour > 700 ) and ( game_time_hour < 1800 ) ) then begin
@@ -190,7 +190,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) then begin
          ndebug("LVAR_Hostile == " + local_var(LVAR_Hostile));
          ndebug("GVAR_ENEMY_VAULT_CITY == " + global_var(GVAR_ENEMY_VAULT_CITY));
@@ -538,7 +538,7 @@ procedure Node019 begin
    Reply(185);
 
    NOption(186, Node021, 004);
-   if( obj_is_carrying_obj_pid( dude_obj, PID_FAKE_CITIZENSHIP ) > 0 ) then
+   if( dude_item_count( PID_FAKE_CITIZENSHIP) > 0) then
       NOption(187, Node020, 004);
    NOption(188, Node999, 004);
 

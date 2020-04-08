@@ -144,7 +144,7 @@ procedure timed_event_p_proc begin
             which := Random(1, 10);
             float_msg(self_obj, mstr(176 + which), Random(4, 7));
          end else begin
-            if (obj_can_see_obj(self_obj, dude_obj)) then begin
+            if (self_can_see_dude) then begin
                float_msg(self_obj, mstr(176), FLOAT_MSG_GREEN);
             end
          end
@@ -165,12 +165,12 @@ procedure timed_event_p_proc begin
          reg_anim_begin();
             if (Skeeter_High) then begin
                if (Random(0, 1)) then begin
-                  animate_run_to_tile(tileNum);
+                  self_run_to_tile(tileNum);
                end else begin
-                  animate_move_to_tile(tileNum);
+                  self_walk_to_tile(tileNum);
                end
             end else begin
-               animate_move_to_tile(tileNum);
+               self_walk_to_tile(tileNum);
             end
          reg_anim_end();
       end
@@ -189,18 +189,18 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_SKEETER);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_NCR_SKEETER);
+   set_self_ai(AI_PEASANT);
 
    Skeeter_High := Random(0, 1);
 
-   startTileNum := tile_num(self_obj);
+   startTileNum := self_tile;
    add_timer_event(self_obj, 1, TIMER_TALK);
    add_timer_event(self_obj, 15, TIMER_MOVE);
 
 
    // Fix for Chosen One having the car but leaving it behind and arriving in NCR by joining a caravan - killap
-   if ((global_var(GVAR_PLAYER_GOT_CAR)) and (metarule(30, 0) == 10)) then
+   if ((global_var(GVAR_PLAYER_GOT_CAR)) and (car_current_town == 10)) then
      hasCar := global_var(GVAR_PLAYER_GOT_CAR);
    else
      hasCar := 0;
@@ -208,8 +208,8 @@ procedure map_enter_p_proc begin
    if (local_var(LVAR_Herebefore) == 0) then
       Skeeter_High := 0;
 
-   if (obj_is_carrying_obj_pid(self_obj, PID_BRASS_KNUCKLES)) then begin
-      wield_obj(obj_carrying_pid_obj(self_obj, PID_BRASS_KNUCKLES));
+   if (self_item_count(PID_BRASS_KNUCKLES)) then begin
+      wield_obj(self_item(PID_BRASS_KNUCKLES));
    end
 end
 
@@ -226,7 +226,7 @@ procedure critter_p_proc begin
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -353,8 +353,8 @@ end
 
 procedure Node0506a begin
    if (dude_caps > 4) then begin
-      item_caps_adjust(dude_obj, -5);
-      item_caps_adjust(self_obj, 5);
+      dude_caps_adjust(-5);
+      self_caps_adjust(5);
       call Node005;
    end else begin
       call Node006;
@@ -396,7 +396,7 @@ procedure Node002 begin
    if (dude_is_female) then
       NOption(115, Node008, 4);
    NOption(116, Node008, 4);
-   if (has_trait(TRAIT_PERK, dude_obj, PERK_speaker)) then begin
+   if (dude_perk(PERK_speaker)) then begin
      // added by killap
      if (repeatN11 >= 5) then
        repeatN11 := 0;
@@ -545,8 +545,8 @@ end
 
 procedure Node01606a begin
    if (dude_caps > 49) then begin
-      item_caps_adjust(dude_obj, -50);
-      item_caps_adjust(self_obj, 50);
+      dude_caps_adjust(-50);
+      self_caps_adjust(50);
       call Node016;
    end else
       call Node006;

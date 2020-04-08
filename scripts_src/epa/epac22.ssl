@@ -265,11 +265,11 @@ procedure Node010 begin
    //   NOption(331,Node011,004);
    //if (obj_is_carrying_obj_pid(dude_obj,PID_RACK)) then
    //   NOption(333,Node012,004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_EPA_SYRINGE)) then
+   if (dude_item_count(PID_EPA_SYRINGE)) then
       NOption(332,Node013,004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_DRUGS)) then
+   if (dude_item_count(PID_DRUGS)) then
       NOption(334,Node015,004);
-   if (obj_is_carrying_obj_pid(dude_obj,PID_RANDOM_CHEMICALS)) then
+   if (dude_item_count(PID_RANDOM_CHEMICALS)) then
       NOption(335,Node016,004);
    //if (obj_is_carrying_obj_pid(dude_obj,PID_RADIO_DYNAMITE)) then
    //   NOption(336,Node018,004);

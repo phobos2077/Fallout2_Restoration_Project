@@ -37,7 +37,7 @@
 
 #define NAME                    SCRIPT_KCTORR
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_NORMAL)
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_NORMAL)
 #define NOW                     1
 #define TONIGHT                 2
 
@@ -168,11 +168,11 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    if (cur_map_index == MAP_KLAMATH_GRAZE) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BRAHMIN);
+      set_self_team(TEAM_BRAHMIN);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
+      set_self_team(TEAM_KLAMATH);
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TORR);
+   set_self_ai(AI_TORR);
    call set_critter;
 end
 
@@ -190,31 +190,31 @@ call rustle_status;
 //It makes sure things will work after map enter/exit.
 
    if ( (cur_map_index == MAP_KLAMATH_1) and (global_var(GVAR_QUEST_RESCUE_TORR) == TORR_RESCUE_SUCCESS) ) then begin
-         set_obj_visibility(self_obj,0);
+         set_self_visible;
          set_map_var(MVAR_Torr_On_Map,1);
    end
    else if ( (cur_map_index == MAP_KLAMATH_1) and (rustle_triggered) ) then begin
-           set_obj_visibility(self_obj,1);
+           set_self_invisible;
    end //of KLAMATH_1
    else if (cur_map_index == MAP_KLAMATH_GRAZE) then begin
       if (rustle_triggered) then begin
-              move_to(self_obj,WAYPOINTV,elevation(self_obj));
-              animate_rotation(3);
-              set_obj_visibility(self_obj,0);
+              move_to(self_obj,WAYPOINTV,self_elevation);
+              self_rotate(3);
+              set_self_visible;
               set_map_var(MVAR_Torr_On_Map,1);
       end //rustle_triggered
       else begin
-         set_obj_visibility(self_obj,1);
+         set_self_invisible;
       end
    end //of KLAMATH_GRAZE
    else if (cur_map_index == MAP_KLAMATH_CANYON) then begin
       if (global_var(GVAR_QUEST_RESCUE_TORR) == TORR_RESCUE_ACCEPT) then begin
               //PLACE TORR IN CANYON AREA
-              set_obj_visibility(self_obj,0);
+              set_self_visible;
               set_map_var(MVAR_Torr_On_Map,1);
       end
       else begin
-         set_obj_visibility(self_obj,1); //Torr is not here
+         set_self_invisible; //Torr is not here
       end
    end //of KLAMATH_CANYON
 
@@ -223,7 +223,7 @@ end
 procedure leave_player begin
 //on leaving canyon map we need to remove Torr from players party
    //floater(600);
-   float_msg(self_obj, message_str(NAME,600),FLOAT_MSG_GREEN); //edit by killap
+   float_msg(self_obj, mstr(600),FLOAT_MSG_GREEN); //edit by killap
    set_global_var(GVAR_TORR_MISSING, 0);
    set_global_var(GVAR_QUEST_RESCUE_TORR, TORR_RESCUE_SUCCESS);
    set_local_var(LVAR_Follow_Dude, 0);
@@ -243,20 +243,20 @@ procedure critter_p_proc begin
       call Node021;
       set_local_var(LVAR_Hostile,2);
    end
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
    else if (local_var(LVAR_Follow_Dude) == 1) then begin
-      dtile:=tile_num(dude_obj);
+      dtile:=dude_tile;
       if ((tile_distance(dtile,OUTSIDE)) < 14 ) then begin
          call leave_player;
       end
       else begin
-         mytile:=tile_num(self_obj);
+         mytile:=self_tile;
          if (tile_distance(mytile,dtile) > 5) then begin
             newtile:=tile_num_in_direction(dtile,random(0,5),1);
-            animate_run_to_tile(newtile);
+            self_run_to_tile(newtile);
          end
       end
    end//follow
@@ -279,7 +279,7 @@ end
 
 procedure timed_event_p_proc begin
      if (fixed_param == 5) then begin
-        animate_move_to_tile(tile_num_in_direction(HOME,random(0,5),random(3,7)));
+        self_walk_to_tile(tile_num_in_direction(HOME,random(0,5),random(3,7)));
         In_Timed_Event:=0;
      end
      //else if (fixed_param == 1) then
@@ -332,7 +332,7 @@ procedure talk_p_proc begin
 
       if (global_var(GVAR_QUEST_RESCUE_TORR) == TORR_RESCUE_SUCCESS) then begin
          //floater(600);
-         float_msg(self_obj, message_str(NAME,600),FLOAT_MSG_GREEN); //edit by killap
+         float_msg(self_obj, mstr(600),FLOAT_MSG_GREEN); //edit by killap
       end
       else begin
          start_gdialog(NAME,self_obj,4,-1,-1);
@@ -392,7 +392,7 @@ procedure talk_p_proc begin
                end_dialogue;
             end
             else begin
-               float_msg(self_obj, message_str(NAME,301),FLOAT_MSG_GREEN);
+               float_msg(self_obj, mstr(301),FLOAT_MSG_GREEN);
 //               floater(301); //tell player he can go..danger is gone
             end
       end
@@ -471,8 +471,8 @@ procedure scampera begin
 end
 
 procedure scamperb begin
-   dest:=tile_num_in_direction(tile_num(self_obj), 3, 12);
-   animate_run_to_tile(dest);
+   dest:=tile_num_in_direction(self_tile, 3, 12);
+   self_run_to_tile(dest);
    add_timer_event(self_obj,game_ticks(1),4);
 end
 
@@ -480,7 +480,7 @@ procedure scamperc begin
    gfade_out(600);
    //game_time_advance(game_ticks(604800));
       set_map_var(MVAR_Torr_On_Map,0);
-      set_obj_visibility(self_obj,1);
+      set_self_invisible;
       //set_global_var(GVAR_RUSTLE_OVER, 1);
    gfade_in(600);
 end
@@ -501,7 +501,7 @@ procedure Node915 begin
 end
 
 procedure Node920 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then
       call Node011;
    else
       call Node004;
@@ -528,7 +528,7 @@ procedure Node940 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -541,7 +541,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -776,22 +776,22 @@ end
 
 procedure Node021 begin
    k:=random(1,5);
-   if (k == 1) then float_msg(self_obj, message_str(NAME,500),FLOAT_MSG_RED);
-   else if (k == 2) then float_msg(self_obj, message_str(NAME,501),FLOAT_MSG_RED);
+   if (k == 1) then float_msg(self_obj, mstr(500),FLOAT_MSG_RED);
+   else if (k == 2) then float_msg(self_obj, mstr(501),FLOAT_MSG_RED);
    else if (k == 3) then begin
       if dude_is_female then
-         float_msg(self_obj, message_str(NAME,502),FLOAT_MSG_RED);
+         float_msg(self_obj, mstr(502),FLOAT_MSG_RED);
       else
-         float_msg(self_obj, message_str(NAME,503),FLOAT_MSG_RED);
+         float_msg(self_obj, mstr(503),FLOAT_MSG_RED);
    end
    else if (k == 4) then begin
       if dude_is_female then
-         float_msg(self_obj, message_str(NAME,504),FLOAT_MSG_RED);
+         float_msg(self_obj, mstr(504),FLOAT_MSG_RED);
       else
-         float_msg(self_obj, message_str(NAME,505),FLOAT_MSG_RED);
+         float_msg(self_obj, mstr(505),FLOAT_MSG_RED);
    end
-   else if (k == 5) then float_msg(self_obj, message_str(NAME,506),FLOAT_MSG_RED);
-   else if (k == 6) then float_msg(self_obj, message_str(NAME,507),FLOAT_MSG_RED);
+   else if (k == 5) then float_msg(self_obj, mstr(506),FLOAT_MSG_RED);
+   else if (k == 6) then float_msg(self_obj, mstr(507),FLOAT_MSG_RED);
 end
 
 procedure Node031 begin

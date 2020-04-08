@@ -109,10 +109,10 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
 
    if( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 0 ) then
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SUPER_MUTANT);
+      set_self_team(TEAM_SUPER_MUTANT);
    else
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+      set_self_team(TEAM_BROKEN_HILLS);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
       set_obj_visibility( self_obj, true );
@@ -135,16 +135,16 @@ procedure critter_p_proc begin
    if ( ( ( global_var( GVAR_ENEMY_BANK_GUARDS ) == 1 ) or
           ( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) or
           ( local_var(LVAR_Hostile) == 2 ) ) and
-        (obj_can_see_obj(self_obj,dude_obj))) then begin
+        (self_can_see_dude)) then begin
        // If the player is an enemy of Broken Hills, put me on Broken Hills.
        // Otherwise, I'm on the local Super Mutants team for the bank.
        if( global_var( GVAR_ENEMY_BROKEN_HILLS ) == 1 ) then
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_BROKEN_HILLS);
+         set_self_team(TEAM_BROKEN_HILLS);
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       /*
       if (dude_is_sneaking) then begin
          if (local_var(LVAR_Warned) == 0) then begin
@@ -253,12 +253,12 @@ end
 procedure timed_event_p_proc begin
    if (fixed_param == 0) then begin //sneaking too long
       set_local_var(LVAR_Warned,0);
-      if ( ( obj_can_see_obj( self_obj, dude_obj ) ) and ( ( dude_is_sneaking ) or ( night ) ) ) then //if still sneaking you are in trouble
+      if ( ( self_can_see_dude ) and ( ( dude_is_sneaking ) or ( night ) ) ) then //if still sneaking you are in trouble
          set_local_var(LVAR_Hostile, 2);
    end
    else if (fixed_param == 1) then begin //held weapon too long
       set_local_var(LVAR_Gun,0);
-      if ( ( obj_can_see_obj( self_obj, dude_obj ) ) and ( critter_is_armed(dude_obj) ) ) then //if still armed you are in trouble
+      if ( ( self_can_see_dude ) and ( critter_is_armed(dude_obj) ) ) then //if still armed you are in trouble
          set_local_var(LVAR_Hostile, 2);
    end
    else if (fixed_param == 2) then begin
@@ -280,7 +280,7 @@ procedure dudeleaves begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -293,7 +293,7 @@ procedure Node996 begin
 end
 
 procedure Node997 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 8) then
+   if (dude_charisma >= 8) then
        call Node004;
    else
        call Node005;
@@ -371,9 +371,9 @@ procedure Node008 begin
 
    // Remove jail key from Guard's inventory. If there isn't
    // one there, screw it and create a new one.
-   itemCount := obj_is_carrying_obj_pid( self_obj, PID_CELL_DOOR_KEY );
+   itemCount := self_item_count( PID_CELL_DOOR_KEY);
    if( itemCount > 0 ) then begin
-      item := obj_carrying_pid_obj( self_obj, PID_CELL_DOOR_KEY );
+      item := self_item( PID_CELL_DOOR_KEY);
       dummy := rm_mult_objs_from_inven( self_obj, item, itemCount );
    end
 

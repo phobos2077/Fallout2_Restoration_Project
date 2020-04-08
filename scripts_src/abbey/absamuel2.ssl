@@ -134,7 +134,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 13) then begin
          if (self_tile == 18467) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -144,7 +144,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 14) then begin
          if (self_tile == 18262) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(3);
+            self_rotate(3);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -154,7 +154,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 15) then begin
          if (self_tile == 18660) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(5);
+            self_rotate(5);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -164,7 +164,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 16) then begin
          if (self_tile == 18058) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -174,7 +174,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 17) then begin
          if (self_tile == 19265) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(3);
+            self_rotate(3);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -184,7 +184,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 18) then begin
          if (self_tile == 19064) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(1);
+            self_rotate(1);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -195,7 +195,7 @@ procedure timed_event_p_proc begin
          if (self_tile == 19661) then begin
             rm_fixed_timer_event(self_obj, 19);
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -205,7 +205,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 20) then begin
          if (self_tile == 19258) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(0);
+            self_rotate(0);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -215,7 +215,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 21) then begin
          if (self_tile == 20265) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(4);
+            self_rotate(4);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -225,7 +225,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 22) then begin
          if (self_tile == 20264) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(1);
+            self_rotate(1);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -235,7 +235,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 23) then begin
          if (self_tile == 20259) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(3);
+            self_rotate(3);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin
@@ -245,7 +245,7 @@ procedure timed_event_p_proc begin
       end else if (fixed_param == 24) then begin
          if (self_tile == 19858) then begin
             reg_anim_clear( self_obj );
-            animate_rotation(1);
+            self_rotate(1);
             rm_fixed_timer_event(self_obj, fixed_param);
             add_timer_event(self_obj,game_ticks(1),25);
          end else begin

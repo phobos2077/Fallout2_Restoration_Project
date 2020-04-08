@@ -131,10 +131,10 @@ procedure map_enter_p_proc begin
    ndebug("lara count" + global_var(GVAR_DEN_GANG_2_COUNT));
 
    if (at_party_fight) then begin
-      if (get_critter_stat(self_obj,STAT_pe) > 3) then begin
+      if (self_perception > 3) then begin
          set_critter_base_stat(self_obj, STAT_pe, 1);
       end
-      if (get_critter_stat(self_obj,STAT_pe) > 5) then begin
+      if (self_perception > 5) then begin
          set_critter_base_stat(self_obj, STAT_ag, 5);
       end
    end

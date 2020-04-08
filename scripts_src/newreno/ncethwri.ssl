@@ -165,8 +165,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_WRIGHT);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_NEW_RENO_WRIGHT);
+         set_self_ai(AI_TOUGH_CITIZEN);
       end
       check_belongs_here
       //added by killap
@@ -257,7 +257,7 @@ procedure talk_p_proc begin
          start_dialog_at_node(Node039);
       end else if (dude_has_porn_star_rep) then begin
          start_dialog_at_node(Node035);
-      end else if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ((has_rep_slaver) or (has_rep_childkiller) or (has_rep_berserker) or (mrs_wright_pissed)) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) )
+      end else if ( (not(dude_perk(PERK_cult_of_personality))) and ((has_rep_slaver) or (has_rep_childkiller) or (has_rep_berserker) or (mrs_wright_pissed)) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality))) )
          start_dialog_at_node(Node037);
       end else if ((know_mrs_wright) and (herebefore)) then begin
          start_dialog_at_node(Node024);
@@ -687,7 +687,7 @@ procedure Node047 begin
    prev_node := 47;
 end
 procedure Node048 begin
-   item_caps_adjust(dude_obj, 237);
+   dude_caps_adjust(237);
    give_pid_qty(dude_obj, PID_LOUISVILLE_SLUGGER, 1)
    Reply(525);
    NOption(526, Node999, 004);

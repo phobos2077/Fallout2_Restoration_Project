@@ -57,13 +57,13 @@ procedure critter_p_proc begin
 
    if (local_var(LVAR_Following_Player) == 1) then begin
        if (map_var(MVAR_Pack_Following) >= PACK_COUNT) then begin
-           tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),1);
-           animate_run_to_tile(tile);
+           tile:=tile_num_in_direction(dude_tile,random(0,5),1);
+           self_run_to_tile(tile);
            attack(dude_obj);
        end
        else begin
-           tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),Following_Distance);
-           animate_move_to_tile(tile);
+           tile:=tile_num_in_direction(dude_tile,random(0,5),Following_Distance);
+           self_walk_to_tile(tile);
        end
 
        if (Need_Howl == 0) then begin
@@ -86,8 +86,8 @@ procedure critter_p_proc begin
    end
 
    else if (map_var(MVAR_Wolf_Pack_Gathered) == PACK_FOUND_PLAYER) then begin
-       tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),Following_Distance);
-       animate_run_to_tile(tile);
+       tile:=tile_num_in_direction(dude_tile,random(0,5),Following_Distance);
+       self_run_to_tile(tile);
 
        if (Need_Howl == 0) then begin
            Need_Howl:=1;
@@ -103,7 +103,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == Roaming) then begin
-       animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(2,6)));
+       self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(2,6)));
        In_Timed_Event:=0;
    end
 

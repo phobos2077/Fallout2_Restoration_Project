@@ -45,8 +45,8 @@ begin
         script_overrides;
         set_global_var(GVAR_MAGNETIC_FIELD, 1);
         set_local_var(LVAR_Problem, 2);
-        float_msg(source_obj, message_str(NAME, 108), FLOAT_MSG_YELLOW);
-        display_msg(message_str(NAME, 109));
+        float_msg(source_obj, mstr(108), FLOAT_MSG_YELLOW);
+        display_msg(mstr(109));
         give_xp(100);
       end else if (local_var(LVAR_Problem) == 2) then begin
         script_overrides;
@@ -63,15 +63,15 @@ procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 105));
+    display_msg(mstr(105));
   else
-    display_msg(message_str(NAME, 106));
+    display_msg(mstr(106));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 107));
+  display_msg(mstr(107));
 end
 
 procedure use_p_proc
@@ -99,18 +99,18 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 100);
-  giq_option(4, NAME, 101, Node002, 50);
-  giq_option(4, NAME, 102, Node999, 50);
+  Reply(100);
+  NOption(101, Node002, 4);
+  NOption(102, Node999, 4);
 end
 
 procedure Node002
 begin
   if (local_var(LVAR_Problem) != 2) then
-   gsay_reply(NAME, 103);
+   Reply(103);
   else
-   gsay_reply(NAME, 1030);
-  giq_option(4, NAME, 104, Node002a, 50);
+   Reply(1030);
+  NOption(104, Node002a, 4);
 end
 
 procedure Node002a

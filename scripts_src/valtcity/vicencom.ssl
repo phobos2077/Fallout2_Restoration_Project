@@ -273,7 +273,7 @@ procedure Node005 begin
 end
 
 procedure Node006 begin
-   if (get_critter_stat(dude_obj,STAT_iq) < 4) then
+   if (dude_iq < 4) then
        Reply(166);
    else
        Reply(167);
@@ -283,7 +283,7 @@ procedure Node006 begin
    NLowOption(170,Node999);
    NOption(171,Node023,004);
    NOption(172,Node024,004);
-   if ((global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED) and (obj_is_carrying_obj_pid(dude_obj,PID_REACTOR_DATA_DISK))) then
+   if ((global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED) and (dude_item_count(PID_REACTOR_DATA_DISK))) then
        NOption(173,Node031,004);
    if (global_var(GVAR_GRUTHAR_DSTATUS) == 2) then
        NOption(174,Node010,004);
@@ -295,7 +295,7 @@ procedure Node006 begin
 end
 
 procedure Node006a begin
-   if ((global_var(GVAR_VAULT_PIP) == 0) and (get_critter_stat(dude_obj,STAT_pe) > 6)) then
+   if ((global_var(GVAR_VAULT_PIP) == 0) and (dude_perception > 6)) then
        call Node012;
    else
        call Node999;
@@ -347,7 +347,7 @@ procedure Node009a begin
       set_pc_extra_stat(STAT_dmg_resist_electrical, elc_rest); //added by killap
       //set_critter_stat(dude_obj,STAT_dmg_resist_electrical,elc_rest); - comment out by killap
 
-      critter_dmg( dude_obj, get_critter_stat(dude_obj,STAT_current_hp) - 1, ( DMG_electrical BWOR DMG_NOANIMATE ) );
+      critter_dmg( dude_obj, dude_cur_hits - 1, ( DMG_electrical BWOR DMG_NOANIMATE ) );
 
    end
 
@@ -382,7 +382,7 @@ end
 procedure Node012 begin
    set_global_var(GVAR_VAULT_PIP,PIP_FOUND);
 
-   if (get_critter_stat(dude_obj,STAT_iq) < 4) then
+   if (dude_iq < 4) then
        Reply(193);
    else
        Reply(194);
@@ -478,7 +478,7 @@ procedure Node021 begin
    if (global_var(GVAR_GECKO_ECON_DISK) >= ECON_DISK_RECEIVED) then //added by killap
        NOption(229,Node022,004);
    //added by killap
-   if ((global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED) and (obj_is_carrying_obj_pid(dude_obj,PID_REACTOR_DATA_DISK))) then
+   if ((global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_RECEIVED) and (dude_item_count(PID_REACTOR_DATA_DISK))) then
        NOption(173,Node031,004);
    if (global_var(GVAR_GRUTHAR_DSTATUS) == 2) then
        NOption(174,Node010,004);

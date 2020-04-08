@@ -111,8 +111,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_GUARD);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_GUARDS);
+   set_self_team(TEAM_NCR_GUARD);
+   set_self_ai(AI_GENERIC_GUARDS);
 end
 
 
@@ -126,7 +126,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end else if (didFloat == 0 and global_var(GVAR_NCR_GTEGRD_ATTACK) == 0) then begin
@@ -326,7 +326,7 @@ procedure canSeePlayer begin
    variable retval := 0;
 
    if not (successCount) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          retval := 1;
       end
       else begin
@@ -346,7 +346,7 @@ end
 /*procedure canSeePlayer begin
    variable retval := 0;
 
-   if (obj_can_see_obj(self_obj, dude_obj)) then
+   if (self_can_see_dude) then
       if (dude_is_sneaking) then begin
          if (is_success(roll_vs_skill(dude_obj, SKILL_SNEAK, 0))) then begin
             successCount := SUCCESSNOCHECK;

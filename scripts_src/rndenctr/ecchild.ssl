@@ -86,7 +86,7 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+   set_self_ai(AI_CHILD);
 end
 
 
@@ -99,7 +99,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -159,7 +159,7 @@ end
    This should only hold the most cursory of glances for the player. */
 procedure look_at_p_proc begin
    script_overrides;
-   if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+   if (self_is_male) then
        display_msg(mstr(100));
    else
        display_msg(mstr(101));
@@ -170,7 +170,7 @@ end
    if the critter is known to the player. */
 procedure description_p_proc begin
    script_overrides;
-   if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+   if (self_is_male) then
        display_msg(mstr(100));
    else
        display_msg(mstr(101));

@@ -62,10 +62,10 @@ procedure Disarm_Traps;
 #define site_is_uncovered                 (local_var(LVAR_Status) == state_uncovered)
 #define do_cover_grave_site               set_local_var(LVAR_Status, state_covered);      \
                                           off_uncovered_lloyd_grave;                      \
-                                          animate_set_frame(0)
+                                          self_set_frame(0)
 #define do_uncover_grave_site             set_local_var(LVAR_Status, state_uncovered);    \
                                           set_uncovered_lloyd_grave;                      \
-                                          animate_set_frame(1)
+                                          self_set_frame(1)
 
 #define LVAR_Status                       (0)
 #define LVAR_Uncovered                    (1)

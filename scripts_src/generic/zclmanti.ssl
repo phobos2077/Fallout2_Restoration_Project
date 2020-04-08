@@ -49,7 +49,7 @@ procedure timed_event_p_proc begin
    if ((combat_is_initialized == false) and ((critter_state(self_obj) bwand DAM_KNOCKED_OUT) == FALSE)) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         animate_move_to_tile(tile_num_in_direction(LVAR_Home_Tile,random(0,5),random(1,3)));
+         self_walk_to_tile(tile_num_in_direction(LVAR_Home_Tile,random(0,5),random(1,3)));
       reg_anim_end();
    end
    add_timer_event(self_obj,game_ticks(random(1,5)),0);
@@ -85,7 +85,7 @@ procedure use_obj_on_p_proc begin
       script_overrides;
       rm_obj_from_inven(source_obj,obj_being_used_with);
       destroy_object(obj_being_used_with);
-      critter_dmg(self_obj,get_critter_stat(self_obj,STAT_current_hp)+10,DMG_explosion);
+      critter_dmg(self_obj,self_cur_hits+10,DMG_explosion);
    //added by killap - expansion
    end else if ((obj_pid(obj_being_used_with) == PID_BUG_SPRAY)) then begin
       kill_critter(self_obj, ANIM_melted_to_nothing_sf);
@@ -100,9 +100,9 @@ end
 
 procedure map_enter_p_proc begin
    if (local_var(LVAR_Home_Tile) == 0) then begin
-      set_local_var(LVAR_Home_Tile,tile_num(self_obj));
+      set_local_var(LVAR_Home_Tile,self_tile);
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MANTIS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_MANTIS);
+   set_self_team(TEAM_MANTIS);
+   set_self_ai(AI_GENERIC_MANTIS);
    add_timer_event(self_obj,game_ticks(random(1,5)),0);
 end

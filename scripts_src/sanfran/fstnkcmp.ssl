@@ -297,7 +297,7 @@ end
 procedure LoadEnclave begin
 //HACK HACK HACK HACK yeah.
    fadeout(500);
-   move_to(dude_obj, 17134, elevation(dude_obj));
+   move_to(dude_obj, 17134, dude_elevation);
    set_obj_visibility(dude_obj, OBJ_INVIS);
    play_gmovie(TANKER_MOVIE);
    COMP_QUEST(0, 0, EXP_TANKER_GO)

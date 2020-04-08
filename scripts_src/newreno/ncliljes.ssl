@@ -219,8 +219,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MORDINO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_MORDINO);
+         set_self_ai(AI_TOUGH_GUARD);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
       call_warning_loop;
@@ -337,22 +337,22 @@ procedure Node990 begin
    end
 end
 procedure Node989 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node050;
    end else begin
       call Node049;
    end
 end
 procedure Node986 begin
-   if ((is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) or (town_rep_is_liked) or (dude_is_prizefighter) or (dude_has_porn_star_rep) or (dude_is_made_man) or (dude_charisma > 7)) then begin
+   if ((is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) or (town_rep_is_liked) or (dude_is_prizefighter) or (dude_has_porn_star_rep) or (dude_is_made_man) or (dude_charisma > 7)) then begin
       call Node065;
    end else begin
       call Node064;
    end
 end
 procedure Node984 begin
-   item_caps_adjust(dude_obj, -200);
-   item_caps_adjust(self_obj, 200);
+   dude_caps_adjust(-200);
+   self_caps_adjust(200);
    call Node066;
 end
 procedure Node985 begin

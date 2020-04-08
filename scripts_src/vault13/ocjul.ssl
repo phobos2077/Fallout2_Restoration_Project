@@ -117,8 +117,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
+   set_self_team(TEAM_VAULT13);
+   set_self_ai(AI_VAULT_DEATHCLAW);
 end
 
 
@@ -131,7 +131,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (((local_var(LVAR_Hostile) == 2) or map_var(MVAR_Vault13_Enemy)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if (((local_var(LVAR_Hostile) == 2) or map_var(MVAR_Vault13_Enemy)) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        set_map_var(MVAR_Vault13_Enemy, 1);
        attack(dude_obj);
@@ -176,7 +176,7 @@ procedure talk_p_proc begin
 
    if (local_var(LVAR_Transported) == 1 and local_var(LVAR_Hostile) == 0) then begin
       fadeout(1);
-      move_to(dude_obj, HATCHERY_BACK_POS, elevation(dude_obj));
+      move_to(dude_obj, HATCHERY_BACK_POS, dude_elevation);
       set_local_var(LVAR_Transported, 0);
       fadein(1);
    end else if (local_var(LVAR_Hostile) == 1) then begin
@@ -199,7 +199,7 @@ procedure talk_p_proc begin
    if (doTrans == 1) then begin
       doTrans := 0;
       fadeout(1);
-      move_to(dude_obj, TILE_HATCHERY, elevation(dude_obj));
+      move_to(dude_obj, TILE_HATCHERY, dude_elevation);
       set_local_var(LVAR_Transported, 1);
       fadein(1);
    end

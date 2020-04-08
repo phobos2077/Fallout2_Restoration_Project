@@ -6,14 +6,14 @@
 procedure start;
 
 procedure start begin
-   if (metarule(22,0)) then return;
+   if (is_loading_game) then return;
 	if (game_loaded) then begin
 	  	set_global_script_repeat(1000);
 		set_global_script_type(0);
 	end else begin
      // San Fran password pieces
-     if (not(obj_carrying_pid_obj(dude_obj, PID_PASSWORD_PAPER))) then begin
-       if (obj_carrying_pid_obj(dude_obj, PID_TORN_PAPER_1) and obj_carrying_pid_obj(dude_obj, PID_TORN_PAPER_2) and obj_carrying_pid_obj(dude_obj, PID_TORN_PAPER_3)) then begin
+     if (not(dude_item(PID_PASSWORD_PAPER))) then begin
+       if (dude_item(PID_TORN_PAPER_1) and dude_item(PID_TORN_PAPER_2) and dude_item(PID_TORN_PAPER_3)) then begin
          add_obj_to_inven(dude_obj, create_object(PID_PASSWORD_PAPER,0,0));
          remove_pid_qty(dude_obj, PID_TORN_PAPER_1, 1)
          remove_pid_qty(dude_obj, PID_TORN_PAPER_2, 1)

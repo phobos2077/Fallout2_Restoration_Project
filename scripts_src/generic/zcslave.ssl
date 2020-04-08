@@ -48,12 +48,12 @@ procedure Node998;                                      // This Node is Always C
 
 #define temp_map_exit_tile             9688
 
-#define slave_is_attractive            ((obj_pid(self_obj) == PID_HANDSOME_SLAVE_MALE) or (obj_pid(self_obj) == PID_CUTE_SLAVE_FEMALE))
-#define slave_is_healthy               ((obj_pid(self_obj) == PID_HEALTHY_SLAVE_MALE) or (obj_pid(self_obj) == PID_HEALTHY_SLAVE_FEMALE))
-#define slave_is_strong                ((obj_pid(self_obj) == PID_STRONG_SLAVE_MALE) or (obj_pid(self_obj) == PID_STRONG_SLAVE_FEMALE))
-#define slave_is_combat                ((obj_pid(self_obj) == PID_COMBAT_SLAVE_MALE) or (obj_pid(self_obj) == PID_COMBAT_SLAVE_FEMALE))
-#define slave_is_clever                ((obj_pid(self_obj) == PID_CLEVER_SLAVE_MALE) or (obj_pid(self_obj) == PID_CLEVER_SLAVE_FEMALE))
-#define slave_is_generic               ((obj_pid(self_obj) == PID_GENERIC_SLAVE_MALE) or (obj_pid(self_obj) == PID_GENERIC_SLAVE_FEMALE))
+#define slave_is_attractive            ((self_pid == PID_HANDSOME_SLAVE_MALE) or (self_pid == PID_CUTE_SLAVE_FEMALE))
+#define slave_is_healthy               ((self_pid == PID_HEALTHY_SLAVE_MALE) or (self_pid == PID_HEALTHY_SLAVE_FEMALE))
+#define slave_is_strong                ((self_pid == PID_STRONG_SLAVE_MALE) or (self_pid == PID_STRONG_SLAVE_FEMALE))
+#define slave_is_combat                ((self_pid == PID_COMBAT_SLAVE_MALE) or (self_pid == PID_COMBAT_SLAVE_FEMALE))
+#define slave_is_clever                ((self_pid == PID_CLEVER_SLAVE_MALE) or (self_pid == PID_CLEVER_SLAVE_FEMALE))
+#define slave_is_generic               ((self_pid == PID_GENERIC_SLAVE_MALE) or (self_pid == PID_GENERIC_SLAVE_FEMALE))
 
 #define slave_is_fleeing               (local_var(LVAR_Fleeing))
 #define dude_is_obstructing_flee       ((tile_distance_objs(self_obj,dude_obj) < 20) or ((dude_is_armed == false) and (tile_distance_objs(self_obj,dude_obj) < 15) and (slave_is_fleeing)))
@@ -66,11 +66,11 @@ variable is_attacking:=false;
 procedure start begin
    if (only_once == 0) then begin
       only_once := 1;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAVES);
+      set_self_team(TEAM_SLAVES);
       if ((slave_is_combat) or (slave_is_strong)) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_THUG);
+         set_self_ai(AI_THUG);
       end else begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+         set_self_ai(AI_PEASANT);
       end
       //add_timer_event(self_obj,game_ticks(random(3,5)),1);
    end

@@ -129,14 +129,14 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_ARROYO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_DUMAR);
+   set_self_team(TEAM_ARROYO);
+   set_self_ai(AI_DUMAR);
 
    if ((cur_map_index == MAP_ARROYO_VILLAGE) and (global_var(GVAR_DUMAR_STATUS) == 1) and (not(is_loading_game))) then begin
-       set_obj_visibility(self_obj,1);
+       set_self_invisible;
    end
    if ((cur_map_index == MAP_ARROYO_CAVES) and (global_var(GVAR_START_ARROYO_TRIAL) > TRIAL_NONE) and (not(is_loading_game))) then
-       set_obj_visibility(self_obj,1);
+       set_self_invisible;
 end
 
 
@@ -155,14 +155,14 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        call Node013;
        attack(dude_obj);
    end
 
    //added by killap
-   if ( (REP_ENEMY_ARROYO) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+   if ( (REP_ENEMY_ARROYO) and (self_can_see_dude) ) then begin
        attack(dude_obj);
    end
    //end added by killap
@@ -174,26 +174,26 @@ procedure critter_p_proc begin
 
 
    if (local_var(LVAR_Start_Trial) == 2) then begin
-       if ((local_var(LVAR_Waypoint) == 0) and (tile_num(self_obj) != 19728)) then begin
+       if ((local_var(LVAR_Waypoint) == 0) and (self_tile != 19728)) then begin
            door:=tile_contains_pid_obj(19928,2,PID_ARROYO_CAVE_DOOR);
            obj_unlock(door);
-           animate_run_to_tile(19728);
+           self_run_to_tile(19728);
        end
-       else if ((local_var(LVAR_Waypoint) == 0) and (tile_num(self_obj) == 19728)) then begin
+       else if ((local_var(LVAR_Waypoint) == 0) and (self_tile == 19728)) then begin
            set_local_var(LVAR_Waypoint,1);
            door:=tile_contains_pid_obj(19928,2,PID_ARROYO_CAVE_DOOR);
            obj_open(door);
            add_timer_event(self_obj,game_ticks(2),1);
        end
-       else if ((local_var(LVAR_Waypoint) == 2) and (tile_num(self_obj) != 22712)) then
-           animate_run_to_tile(22712);
-       else if ((local_var(LVAR_Waypoint) == 2) and (tile_num(self_obj) == 22712)) then
+       else if ((local_var(LVAR_Waypoint) == 2) and (self_tile != 22712)) then
+           self_run_to_tile(22712);
+       else if ((local_var(LVAR_Waypoint) == 2) and (self_tile == 22712)) then
            set_local_var(LVAR_Waypoint,3);
-       else if ((local_var(LVAR_Waypoint) == 3) and (tile_num(self_obj) != 28715)) then
-           animate_run_to_tile(28715);
-       else if ((local_var(LVAR_Waypoint) == 3) and (tile_num(self_obj) == 28715)) then begin
+       else if ((local_var(LVAR_Waypoint) == 3) and (self_tile != 28715)) then
+           self_run_to_tile(28715);
+       else if ((local_var(LVAR_Waypoint) == 3) and (self_tile == 28715)) then begin
            set_local_var(LVAR_Waypoint,4);
-           set_obj_visibility(self_obj,1);
+           set_self_invisible;
        end
    end
 
@@ -230,7 +230,7 @@ procedure combat_p_proc begin
    variable item;
 
    if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
-       if ((get_critter_stat(self_obj,STAT_current_hp) <= (get_critter_stat(self_obj,STAT_max_hit_points)/2)) and (local_var(LVAR_Start_Trial) == 1)) then begin
+       if ((self_cur_hits <= (self_max_hits/2)) and (local_var(LVAR_Start_Trial) == 1)) then begin
            terminate_combat;
            script_overrides;
            item:=create_object(PID_HEALING_POWDER,0,0);
@@ -350,7 +350,7 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   Reply(mstr(103)+obj_name(dude_obj)+mstr(104));
+   Reply(mstr(103)+dude_name+mstr(104));
 
    NLowOption(105,Node002);
    NLowOption(106,Node006);
@@ -402,11 +402,11 @@ procedure Node002c begin
 end
 
 procedure Node003 begin
-   Reply(mstr(122)+obj_name(dude_obj)+mstr(123));
+   Reply(mstr(122)+dude_name+mstr(123));
 
    NLowOption(124,Node002);
    NOption(125,Node002,004);
-   if (is_skill_tagged(SKILL_CONVERSANT)) then
+   if (is_skill_tagged(SKILL_SPEECH)) then
        NOption(165,Node014,004);
 end
 
@@ -418,7 +418,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   Reply(mstr(129)+obj_name(dude_obj)+mstr(130));
+   Reply(mstr(129)+dude_name+mstr(130));
 
    NLowOption(131,Node002);
    NOption(132,Node002,004);
@@ -438,7 +438,7 @@ procedure Node007 begin
 end
 
 procedure Node008 begin
-   Reply(mstr(139)+obj_name(dude_obj)+mstr(140));
+   Reply(mstr(139)+dude_name+mstr(140));
 
    NLowOption(141,Node009);
    NLowOption(142,Node007);
@@ -458,7 +458,7 @@ procedure Node009 begin
    set_map_var(MVAR_Passed_Fighting,Fighting_Started);
    set_local_var(LVAR_Start_Trial,1);
 
-   NMessage(mstr(145)+obj_name(dude_obj)+mstr(146));
+   NMessage(mstr(145)+dude_name+mstr(146));
 
    gfade_out(600);
    gfade_in(600);
@@ -502,7 +502,7 @@ procedure Node013 begin
 end
 
 procedure Node014 begin
-   Reply(mstr(166)+obj_name(dude_obj)+mstr(167));
+   Reply(mstr(166)+dude_name+mstr(167));
 
    NOption(168,Node015,004);
 end
@@ -510,8 +510,8 @@ end
 procedure Node015 begin
    variable skill;
 
-   skill:=roll_vs_skill(dude_obj,SKILL_CONVERSANT,0);
-   if ((is_skill_tagged(SKILL_CONVERSANT)) or (is_success(skill))) then begin
+   skill:=roll_vs_skill(dude_obj,SKILL_SPEECH,0);
+   if ((is_skill_tagged(SKILL_SPEECH)) or (is_success(skill))) then begin
        Reply(169);
 
        NOption(171,Node015a,004);

@@ -157,8 +157,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR_WESTIN);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_NCR_WESTIN);
+   set_self_ai(AI_TOUGH_CITIZEN);
 
    //added by killap - RP
    if (get_westin_flag(WESTIN_HEART_PILLS_DEATH)) then begin
@@ -179,7 +179,7 @@ procedure critter_p_proc begin
    this as well. */
 
    if (not local_var(LVAR_Death_Sequence) == 1) then begin
-      if ((local_var(LVAR_Hostile) != 0 or ncr_flag(NCR_WESTIN_ENEMY)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+      if ((local_var(LVAR_Hostile) != 0 or ncr_flag(NCR_WESTIN_ENEMY)) and (self_can_see_dude)) then begin
          set_local_var(LVAR_Hostile,1);
          self_attack_dude;
          set_westin_flag(WESTIN_FAIL);
@@ -347,7 +347,7 @@ procedure Node001 begin
    // Changed - DJS. Proper PID is PID_BISHOPS_HOLODISK
    //if (obj_is_carrying_obj_pid(dude_obj, LYNETTE_PID_HOLO)) then
    if ( ( global_var( GVAR_VAULT_DELIVER_HOLODISK ) == HOLODISK_ACCEPTED ) and
-        ( obj_is_carrying_obj_pid(dude_obj, PID_BISHOPS_HOLODISK) ) ) then
+        ( dude_item_count(PID_BISHOPS_HOLODISK) ) ) then
       GOption(113, Node017, 4);
 
    if (get_westin_flag(WESTIN_ACCEPT_SNUFF) and not get_westin_flag(WESTIN_CANCEL_SNUFF)) then
@@ -445,7 +445,7 @@ procedure Node1119a begin
 end
 
 procedure Node009 begin
-   item_caps_adjust(dude_obj, global_var(GVAR_NCR_BISHOP_PRICE));
+   dude_caps_adjust(global_var(GVAR_NCR_BISHOP_PRICE));
    set_bishop_flag(BISHOP_COMPLETE);
    set_global_var(GVAR_NCR_ELMBISHOP_QST, 2);
 
@@ -506,7 +506,7 @@ end
 procedure EndDeathClawMission begin
    set_global_var(GVAR_NCR_BRAHMIN_QST, 2);
    set_felix_seed(FELIX_CRITTERS_DONE);
-   item_caps_adjust(dude_obj, 200);
+   dude_caps_adjust(200);
    inc_general_rep(REP_BONUS_NCR_DID_DEATHCLAWS);
    inc_ncr_rep(REP_HERO_NCR_STOPED_BRAHMIN_RAIDS);
    give_xp(EXP_DID_DEATHCLAW_MISSION);
@@ -530,7 +530,7 @@ procedure getDisk begin
 
    // Changed, DJS. Proper PID is PID_BISHOPS_HOLODISK
    //obj := obj_carrying_pid_obj(dude_obj, LYNETTE_PID_HOLO);
-   obj := obj_carrying_pid_obj(dude_obj, PID_BISHOPS_HOLODISK);
+   obj := dude_item(PID_BISHOPS_HOLODISK);
    if (obj) then begin
       set_global_var(GVAR_VAULT_DELIVER_HOLODISK, HOLODISK_DELIVERED);
       rm_obj_from_inven(dude_obj, obj);
@@ -542,7 +542,7 @@ end
 procedure giveDisk begin
    variable obj;
 
-   obj := create_object_sid(WESTIN_PID_HOLO, self_tile, elevation(self_obj), SCRIPT_SIWESHOL);
+   obj := create_object_sid(WESTIN_PID_HOLO, self_tile, self_elevation, SCRIPT_SIWESHOL);
    if (obj) then begin
       set_global_var(GVAR_NCR_LYNETTE_HOLO_QST, 1);
       add_obj_to_inven(dude_obj, obj);
@@ -585,7 +585,7 @@ procedure DoDeathSequence begin
       set_local_var(LVAR_Death_Sequence, 1);
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_move_to_tile(DEATH_TILE);
+      self_walk_to_tile(DEATH_TILE);
       reg_anim_end();
       float_msg(self_obj, mstr(171), FLOAT_MSG_GREEN);
       add_timer_event(self_obj, game_ticks(3), TIMER_DEATH);
@@ -621,7 +621,7 @@ procedure DoExplosiveSequence begin
       set_local_var(LVAR_Death_Sequence, 1);
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_run_to_tile(DEATH_TILE);
+      self_run_to_tile(DEATH_TILE);
       reg_anim_end();
       float_msg(self_obj, mstr(174), FLOAT_MSG_RED);
       add_timer_event(self_obj, game_ticks(1), TIMER_EXPLOSIVE_DEATH);

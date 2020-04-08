@@ -46,10 +46,10 @@ procedure timed_event_p_proc begin
    if ((combat_is_initialized == false) and ((critter_state(self_obj) bwand DAM_KNOCKED_OUT) == FALSE)) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-         if (((cur_map_index == MAP_ARROYO_CAVES) and (elevation(dude_obj) != elevation(self_obj)))) then
+         if (((cur_map_index == MAP_ARROYO_CAVES) and (dude_elevation != self_elevation))) then
            ndebug("I'm in Arroyo Caves and not on the same elevation as the dude.");
          else
-           animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(1,3)));
+           self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(1,3)));
       reg_anim_end();
    end
    add_timer_event(self_obj,game_ticks(random(3,5)),0);
@@ -108,7 +108,7 @@ procedure use_skill_on_p_proc begin
 end
 
 procedure map_enter_p_proc begin
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SCORPION);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_SCORPION);
+   set_self_team(TEAM_SCORPION);
+   set_self_ai(AI_GENERIC_SCORPION);
    add_timer_event(self_obj,game_ticks(random(1,5)),0);
 end

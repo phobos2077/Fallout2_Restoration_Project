@@ -56,7 +56,7 @@ procedure timed_event_p_proc begin
       set_map_var(FIELD_STATUS,FIELD_DESTROYED);
       explosion(tile_num(FIELD_PTR), 0, 0);
       destroy_object(FIELD_PTR);
-      obj := create_object(PID_VDU_NOT_WORKING2, self_tile, elevation(self_obj));
+      obj := create_object(PID_VDU_NOT_WORKING2, self_tile, self_elevation);
       if (obj) then
          destroy_object(self_obj);
    end
@@ -93,14 +93,14 @@ procedure use_skill_on_p_proc begin
       if (skill_success(source_obj,skill,SCIENCE_PENALTY)) then begin
         if (map_var(FIELD_STATUS) == FIELD_ENABLED) then begin
             set_map_var(FIELD_STATUS,FIELD_DISABLED);
-            set_obj_visibility(FIELD_PTR,1);         // invis
+            set_obj_invisible(FIELD_PTR);         // invis
             if (source_obj == dude_obj) then
                 display_msg(mstr(200));
             else
                 display_msg(obj_name(source_obj)+mstr(210));
         end else begin
             set_map_var(FIELD_STATUS,FIELD_ENABLED);
-            set_obj_visibility(FIELD_PTR,0);         // vis
+            set_obj_visible(FIELD_PTR);         // vis
             if (source_obj == dude_obj) then
                 display_msg(mstr(202));
             else

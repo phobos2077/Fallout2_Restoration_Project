@@ -57,7 +57,7 @@ procedure timed_event_p_proc begin
 variable temp_poo;
    if (fixed_param == 1) then begin
       if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
-         animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(1,3)));
+         self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(1,3)));
       end
       flush_add_timer_event_sec(self_obj, random(45, 90), 1);
    end if (fixed_param == 2) then begin
@@ -68,16 +68,16 @@ variable temp_poo;
          if (((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) and (not(combat_is_initialized))) then begin
             reg_anim_clear(self_obj);
             reg_anim_begin();
-            if (tile_num(self_obj) / 200 > 131) then
-               animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),5,4));
-            else if (tile_num(self_obj) / 200 < 108) then
-               animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),2,4));
-            else if (tile_num(self_obj) % 200 < 80) then
-               animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),3,4));
-            else if (tile_num(self_obj) % 200 > 122) then
-               animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),0,4));
+            if (self_tile / 200 > 131) then
+               self_walk_to_tile(tile_num_in_direction(self_tile,5,4));
+            else if (self_tile / 200 < 108) then
+               self_walk_to_tile(tile_num_in_direction(self_tile,2,4));
+            else if (self_tile % 200 < 80) then
+               self_walk_to_tile(tile_num_in_direction(self_tile,3,4));
+            else if (self_tile % 200 > 122) then
+               self_walk_to_tile(tile_num_in_direction(self_tile,0,4));
             else
-               animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,7),3));
+               self_walk_to_tile(tile_num_in_direction(self_tile,random(0,7),3));
             reg_anim_end();
          end
          flush_add_timer_event_sec(self_obj, random(10, 20), 3);
@@ -154,8 +154,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BRAHMIN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_BRAHMIN);
+         set_self_team(TEAM_RND_BRAHMIN);
+         set_self_ai(AI_GENERIC_BRAHMIN);
       end
       flush_add_timer_event_sec(self_obj, random(15, 90), 1);
       flush_add_timer_event_sec(self_obj, random(5, 15), 2);

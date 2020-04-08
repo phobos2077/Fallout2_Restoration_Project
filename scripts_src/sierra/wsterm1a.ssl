@@ -117,7 +117,7 @@ procedure use_p_proc begin
        display_msg(mstr(300));
    end
 
-   else if (get_critter_stat(source_obj,STAT_iq) < 4) then begin
+   else if (get_iq(source_obj) < 4) then begin
        if (source_obj == dude_obj) then begin
            display_msg(mstr(102));
        end
@@ -340,7 +340,7 @@ end
 procedure Node012 begin
    if (local_var(LVAR_Gave_Xp) == 0) then begin
        set_local_var(LVAR_Gave_Xp,1);
-       display_msg(message_str(SCRIPT_GENERIC,1003));
+       display_msg(g_mstr(1003));
        give_xp(EXP_DISABLE_FIELDS_LEVEL_1);
    end
 

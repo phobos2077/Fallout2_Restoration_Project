@@ -50,13 +50,13 @@ procedure use_p_proc
 begin
    if (global_var(GVAR_FIXTRIBE_WELL) < 4) then begin
       if (global_var(GVAR_FIXTRIBE_WELL) >= 2) then
-        display_msg(message_str(NAME, 104));
+        display_msg(mstr(104));
       else
-        display_msg(message_str(NAME, 102));
+        display_msg(mstr(102));
       if ( not(local_var(LVAR_Noticed_Broken)) and (global_var(GVAR_FIXTRIBE_WELL) == 0) ) then
          set_local_var(LVAR_Noticed_Broken,1);
    end else begin
-      display_msg(message_str(NAME, 103));
+      display_msg(mstr(103));
    end
 end
 
@@ -65,14 +65,14 @@ begin
    variable Obj;
    variable Obj2;
    variable Remove;
-   Obj := obj_carrying_pid_obj(dude_obj,PID_ROPE);
-   Obj2 := obj_carrying_pid_obj(dude_obj,PID_BUCKET);
+   Obj := dude_item(PID_ROPE);
+   Obj2 := dude_item(PID_BUCKET);
    script_overrides;
 
    /*if (local_var(LVAR_Noticed_Broken) == 1) then begin
       if (obj_pid(obj_being_used_with) == PID_ROPE) then begin
          set_global_var(GVAR_FIXTRIBE_WELL,2);
-         float_msg(self_obj, message_str(NAME, 100), 8);
+         float_msg(self_obj, mstr(100), FLOAT_MSG_YELLOW);
          Remove := rm_mult_objs_from_inven(dude_obj, Obj, 1 );
          destroy_object(Obj);
          set_global_var(GVAR_FIXTRIBE_WELL,3);
@@ -80,7 +80,7 @@ begin
       end
    end else if (local_var(LVAR_Noticed_Broken) == 2) then begin
       if (obj_pid(obj_being_used_with) == PID_BUCKET) then begin
-    	   float_msg(self_obj, message_str(NAME, 101), 8);
+    	   float_msg(self_obj, mstr(101), FLOAT_MSG_YELLOW);
     	   set_local_var(LVAR_WELL_FIXED,1);
     	   Remove := rm_mult_objs_from_inven(dude_obj, Obj2, 1 );
     	   destroy_object(Obj2);
@@ -94,7 +94,7 @@ begin
       if ( (local_var(LVAR_Noticed_Broken) == 1) or (global_var(GVAR_FIXTRIBE_WELL) == 1) ) then begin
          if (obj_pid(obj_being_used_with) == PID_ROPE) then begin
           set_global_var(GVAR_FIXTRIBE_WELL,2);
-          float_msg(self_obj, message_str(NAME, 100), 8);
+          float_msg(self_obj, mstr(100), FLOAT_MSG_YELLOW);
           Remove := rm_mult_objs_from_inven(dude_obj, Obj, 1 );
           destroy_object(Obj);
           if (local_var(LVAR_Noticed_Broken) == 1) then
@@ -102,7 +102,7 @@ begin
          end
       end else if ( ((local_var(LVAR_Noticed_Broken) == 2) or ((global_var(GVAR_FIXTRIBE_WELL) == 2) or (global_var(GVAR_FIXTRIBE_WELL) == 3))) and (local_var(LVAR_WELL_FIXED) == 0) ) then begin
          if (obj_pid(obj_being_used_with) == PID_BUCKET) then begin
- 	       float_msg(self_obj, message_str(NAME, 101), 8);
+ 	       float_msg(self_obj, mstr(101), FLOAT_MSG_YELLOW);
  	       set_local_var(LVAR_WELL_FIXED,1);
  	       Remove := rm_mult_objs_from_inven(dude_obj, Obj2, 1 );
  	       destroy_object(Obj2);
@@ -131,7 +131,7 @@ procedure description_p_proc begin
      set_local_var(LVAR_Noticed_Broken,1);
 
    if (global_var(GVAR_FIXTRIBE_WELL) < 4) then begin
-      if (get_critter_stat(dude_obj, STAT_pe) >= 6) then begin
+      if (dude_perception >= 6) then begin
          if ( not(local_var(LVAR_Noticed_Broken)) and (global_var(GVAR_FIXTRIBE_WELL) == 0) ) then
             set_local_var(LVAR_Noticed_Broken,1);
          display_msg(mstr(202));

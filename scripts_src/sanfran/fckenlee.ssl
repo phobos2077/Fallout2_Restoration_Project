@@ -167,7 +167,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == TIMER_CHECK_DIST) then begin
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          if (local_var(LVAR_Guard_Count) < GUARD_ATTACK) then begin
             call doGuardsMessage;
          end else begin
@@ -187,8 +187,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SAN_FRAN_SHI);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SF_SHI);
+   set_self_team(TEAM_SAN_FRAN_SHI);
+   set_self_ai(AI_SF_SHI);
 end
 
 procedure map_exit_p_proc begin
@@ -204,7 +204,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (((local_var(LVAR_Hostile) != 0) or (san_fran_flag(SF_SHI_ENEMY))) and (obj_can_see_obj(self_obj,dude_obj))) then begin //edit by killap - added (san_fran_flag(SF_SHI_ENEMY))
+   if (((local_var(LVAR_Hostile) != 0) or (san_fran_flag(SF_SHI_ENEMY))) and (self_can_see_dude)) then begin //edit by killap - added (san_fran_flag(SF_SHI_ENEMY))
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
    end
@@ -469,7 +469,7 @@ procedure Node234 begin
 end
 
 procedure SpeechCheck begin
-   if (skill_success(dude_obj, SKILL_CONVERSANT, -70)) then
+   if (skill_success(dude_obj, SKILL_SPEECH, -70)) then
       return 1;
    return 0;
 end
@@ -573,7 +573,7 @@ procedure Node004 begin
 end
 
 procedure Node89 begin
-   if ((neutral_critter_reaction or good_critter_reaction) and ( (check_general_rep >= KARMA_BETRAYER) or (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) ) ) then //edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ((neutral_critter_reaction or good_critter_reaction) and ( (check_general_rep >= KARMA_BETRAYER) or (dude_perk(PERK_cult_of_personality)) ) ) then //edit by killap - added (dude_perk(PERK_cult_of_personality))
       call Node008;
    else
       call Node009;

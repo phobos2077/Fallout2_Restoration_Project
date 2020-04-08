@@ -97,8 +97,8 @@ procedure map_enter_p_proc begin
    variable time;
 
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SLAVE);
+   set_self_team(TEAM_VAULT_CITIZENS);
+   set_self_ai(AI_SLAVE);
 
    // Make the slaves disappear between 6pm and 7am
    if( not( is_loading_game ) ) then begin
@@ -135,7 +135,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_CITY ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -218,7 +218,7 @@ end
 procedure look_at_p_proc begin
    script_overrides;
 
-   if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then begin
+   if (self_is_male) then begin
        if (local_var(LVAR_Looked_Before) == 0) then begin
            inc_local_var(LVAR_Looked_Before);
            display_msg(mstr(100));
@@ -241,7 +241,7 @@ end
    if the critter is known to the player. */
 procedure description_p_proc begin
    script_overrides;
-   if (get_critter_stat(self_obj,STAT_gender) == GENDER_MALE) then
+   if (self_is_male) then
        display_msg(mstr(102));
    else
        display_msg(mstr(105));

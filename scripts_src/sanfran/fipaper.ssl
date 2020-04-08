@@ -83,7 +83,7 @@ procedure timed_event_p_proc begin
       if (not dude_item(PAPER_PID_COMPLETE)) then begin
          if (dude_item(PAPER_PID_1) and dude_item(PAPER_PID_2) and dude_item(PAPER_PID_3)) then begin
 
-            add_obj_to_inven(dude_obj, create_object(PAPER_PID_COMPLETE, dude_tile, elevation(dude_obj)));
+            add_obj_to_inven(dude_obj, create_object(PAPER_PID_COMPLETE, dude_tile, dude_elevation));
 
             obj := dude_item(PAPER_PID_1);
             if (obj != self_obj) then begin

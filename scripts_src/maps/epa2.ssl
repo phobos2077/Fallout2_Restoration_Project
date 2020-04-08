@@ -33,7 +33,7 @@ end
 
 procedure map_enter_p_proc begin
    if (map_first_run) then begin
-       display_msg(message_str(NAME, 100));
+       display_msg(mstr(100));
    end
 
    if (global_var(GVAR_LOAD_MAP_INDEX)==12) then begin\

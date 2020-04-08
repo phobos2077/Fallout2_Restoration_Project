@@ -67,8 +67,8 @@ end
 procedure map_enter_p_proc begin
    Only_Once:=0;
    //critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_RAIDERS);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_GANGS); //added by killap
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_BERSERKER);
+   set_self_team(TEAM_RND_GANGS); //added by killap
+   set_self_ai(AI_BERSERKER);
 end
 
 
@@ -91,7 +91,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
        floater(random(200,209)); //edit by killap - ended with 211, but this included Raider specific dialogue
        attack(dude_obj);
    end

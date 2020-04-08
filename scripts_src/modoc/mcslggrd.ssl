@@ -71,7 +71,7 @@ end
 procedure map_update_p_proc begin
    if (local_var(LVAR_Home_Rot) != self_cur_rot) then begin
       if (anim_busy(self_obj) == false) then begin
-         animate_rotation(local_var(LVAR_Home_Rot));
+         self_rotate(local_var(LVAR_Home_Rot));
       end
    end
    if (say_message) then begin
@@ -100,8 +100,8 @@ procedure map_enter_p_proc begin
          set_setup_slag_guard;
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rot, self_cur_rot);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_SLAG);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+         set_self_team(TEAM_SLAG);
+         set_self_ai(AI_TOUGH_GUARD);
       end
       if ((global_var(GVAR_LOAD_MAP_INDEX) == 777) and (hostile == false) and (enemy_slags == false)) then begin
          mod_add_timer_event(self_obj, 0, 777);
@@ -189,7 +189,7 @@ procedure Node998 begin
 end
 procedure Node990 begin
    gfade_out(5);
-      animate_stand_obj(dude_obj);
+      dude_stand;
       move_to(dude_obj, 25702, dude_elevation);
       critter_attempt_placement(dude_obj, 25702, dude_elevation);
       attempt_place_party(25702, dude_elevation)

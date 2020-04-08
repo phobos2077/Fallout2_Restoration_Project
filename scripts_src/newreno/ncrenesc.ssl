@@ -203,9 +203,9 @@ procedure Node901;
 #define first_saw                         lvar_bit(LVAR_Flags, first_saw_bit)
 #define set_first_saw                     set_lvar_bit_on(LVAR_Flags, first_saw_bit)
 
-#define give_renesco_caps(x)              item_caps_adjust(self_obj, x);      \
+#define give_renesco_caps(x)              self_caps_adjust(x);      \
                                           ndebug("GIVE_RENESCO_CAPS "+(x)); /*changed from debug_msg - killap*/ \
-                                          item_caps_adjust(dude_obj, -x)
+                                          dude_caps_adjust(-x)
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -244,8 +244,8 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_RENESCO);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+         set_self_team(TEAM_NEW_RENO_RENESCO);
+         set_self_ai(AI_COWARD);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
@@ -406,7 +406,7 @@ procedure Node987 begin
    call Node998;
 end
 procedure Node986 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node062;
    end else begin
       call Node061;
@@ -994,7 +994,7 @@ end
 procedure Node060 begin
    Reply(890);
    NOption(891, Node062, 004);
-   if ((obj_is_carrying_obj_pid(dude_obj, PID_LASER_PISTOL)) and (know_lasers)) then begin
+   if ((dude_item_count(PID_LASER_PISTOL)) and (know_lasers)) then begin
       NOption(892, Node062, 004);
    end
    BOption(893, Node986, 004);
@@ -1171,7 +1171,7 @@ end
 
 procedure Node082 begin
    Reply(6070);
-   if ((obj_is_carrying_obj_pid(dude_obj,PID_HEART_PILLS))) then
+   if ((dude_item_count(PID_HEART_PILLS))) then
       NOption(6072, Node083, 004);
    else if (dude_iq >= 7 or (has_skill(dude_obj,SKILL_SCIENCE) >= 80)) then
       NOption(6073, Node083, 004);
@@ -1213,7 +1213,7 @@ procedure Node085 begin
 end
 
 procedure Node086 begin
-   item_caps_adjust(dude_obj, -200);
+   dude_caps_adjust(-200);
    Reply(6100);
    NOption((g_mstr(353)), Node087, 004);
 end
@@ -1261,7 +1261,7 @@ procedure Node093 begin
 end
 
 procedure Node094 begin
-   item_caps_adjust(dude_obj, -300);
+   dude_caps_adjust(-300);
    Reply(6130);
    NOption(g_mstr(353), Node087, 004);
 end

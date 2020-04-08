@@ -129,7 +129,7 @@ procedure pickup_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if ( (obj_can_see_obj(self_obj, dude_obj)) and (local_var(LVAR_Herebefore) == 0) )then begin
+   if ( (self_can_see_dude) and (local_var(LVAR_Herebefore) == 0) )then begin
       call talk_p_proc;
    end else
    if (self_can_see_dude) then begin
@@ -160,14 +160,14 @@ end
 procedure map_enter_p_proc begin
    CHECK_LEVEL
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_PEASANT);
+   set_self_team(TEAM_DEN_PEASANT);
 
    if (global_var(GVAR_DEN_ORPHANAGE) == 7) then begin
       if (map_var(MVAR_Johnny_Move) == 1) then begin
          set_map_var(MVAR_Johnny_Move,2);
          move_to(self_obj, 14119, dude_elevation);
          reg_anim_clear( self_obj );
-         animate_rotation(2);
+         self_rotate(2);
       end
    end
 end

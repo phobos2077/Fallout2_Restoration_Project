@@ -75,7 +75,7 @@ procedure spatial_p_proc begin
       if (local_var(LVAR_Herebefore) == 0) then begin
          reg_anim_clear(dude_obj);
          set_local_var(LVAR_Herebefore,1);
-         if (has_trait(TRAIT_PERK,dude_obj,PERK_night_vision)) then
+         if (dude_perk(PERK_night_vision)) then
             display_msg(mstr(101));
          else
             display_msg(mstr(100));

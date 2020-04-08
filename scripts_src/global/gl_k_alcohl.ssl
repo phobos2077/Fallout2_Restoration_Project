@@ -1,6 +1,7 @@
 #define SCRIPT_REALNAME "gl_k_alcohl"
 #include "../headers/define.h"
 #include "../headers/scripts.h"
+#include "../headers/command.h"
 
 procedure start;
 
@@ -10,7 +11,7 @@ variable game_timer;
 variable game_timer2;
 
 procedure start begin
-   if (metarule(22,0)) then return;
+   if (is_loading_game) then return;
 	if (game_loaded) then begin
 	  	set_global_script_repeat(60);
 		set_global_script_type(3);
@@ -18,7 +19,7 @@ procedure start begin
 		count := 0;
 		//display_msg("var: " + do_once);
 	end else begin
-      if (global_var(26) == 1) then begin
+      if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then begin
 	     if (do_once != 1) then begin
 	         do_once := 1;
             game_timer := game_time;
@@ -38,10 +39,10 @@ procedure start begin
             count := count + 1;
         end
         if (((game_time - game_timer2) >= ((7*(24*(60*(60*(10)))))))) then begin
-            set_global_var(26,0);
-            set_critter_stat(dude_obj, 1, 2);
+            set_global_var(GVAR_ALCOHOL_ADDICT,0);
+            set_critter_stat(dude_obj, STAT_pe, 2);
             display_msg(message_str(SCRIPT_OBJ_DUDE,802));
-            if not(has_trait(2, dude_obj, 11)) then
+            if not(dude_trait(TRAIT_drug_addict)) then
                hide_iface_tag(4);
         end
       end

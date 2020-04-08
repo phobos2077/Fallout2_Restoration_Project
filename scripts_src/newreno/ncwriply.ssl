@@ -114,21 +114,21 @@ procedure Node039;
 #define child_playing_time             ((800 < game_time_hour) and (game_time_hour <= 2100))
 
 #define get_obj_pistol(x)                                                                          \
-         if (obj_is_carrying_obj_pid(x, PID_10MM_PISTOL) > 0) then begin                           \
+         if (get_item_count(x, PID_10MM_PISTOL) > 0) then begin                           \
             the_pistol := PID_10MM_PISTOL;                                                         \
-         end else if (obj_is_carrying_obj_pid(x, PID_9MM_MAUSER) > 0) then begin                   \
+         end else if (get_item_count(x, PID_9MM_MAUSER) > 0) then begin                   \
             the_pistol := PID_9MM_MAUSER;                                                          \
-         end else if (obj_is_carrying_obj_pid(x, PID_44_MAGNUM_REVOLVER) > 0) then begin           \
+         end else if (get_item_count(x, PID_44_MAGNUM_REVOLVER) > 0) then begin           \
             the_pistol := PID_44_MAGNUM_REVOLVER;                                                  \
-         end else if (obj_is_carrying_obj_pid(x, PID_44_MAGNUM_SPEEDLOADER) > 0) then begin        \
+         end else if (get_item_count(x, PID_44_MAGNUM_SPEEDLOADER) > 0) then begin        \
             the_pistol := PID_44_MAGNUM_SPEEDLOADER;                                               \
-         end else if (obj_is_carrying_obj_pid(x, PID_DESERT_EAGLE) > 0) then begin                 \
+         end else if (get_item_count(x, PID_DESERT_EAGLE) > 0) then begin                 \
             the_pistol := PID_DESERT_EAGLE;                                                        \
-         end else if (obj_is_carrying_obj_pid(x, PID_DESERT_EAGLE_EXT_MAG) > 0) then begin         \
+         end else if (get_item_count(x, PID_DESERT_EAGLE_EXT_MAG) > 0) then begin         \
             the_pistol := PID_DESERT_EAGLE_EXT_MAG;                                                \
-         end else if (obj_is_carrying_obj_pid(x, PID_14MM_PISTOL) > 0) then begin                  \
+         end else if (get_item_count(x, PID_14MM_PISTOL) > 0) then begin                  \
             the_pistol := PID_14MM_PISTOL;                                                         \
-         end else if (obj_is_carrying_obj_pid(x, PID_223_PISTOL) > 0) then begin                   \
+         end else if (get_item_count(x, PID_223_PISTOL) > 0) then begin                   \
             the_pistol := PID_223_PISTOL;                                                          \
          end else begin                                                                            \
             the_pistol := 0;                                                                       \
@@ -184,7 +184,7 @@ variable temp_tile;
                   end else begin
                      temp_tile := tile_num_in_direction(self_tile, random(0,5), random(5, 10));
                   end
-                  animate_run_to_tile(temp_tile);
+                  self_run_to_tile(temp_tile);
                end else begin
                   Follow_Obj_Run_Only(wright_child_playing_obj, 1, 1)
                end
@@ -199,8 +199,8 @@ procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile, self_tile);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_WRIGHT);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_CHILD);
+         set_self_team(TEAM_NEW_RENO_WRIGHT);
+         set_self_ai(AI_CHILD);
       end
       if (kill_daddy) then begin
          destroy_object(self_obj);
@@ -237,7 +237,7 @@ procedure critter_p_proc begin
          if (anim_busy(self_obj) == false) then begin
             set_flee := false;
             if (new_reno_wright_teen_obj != 0) then begin
-               if ((elevation(self_obj)) == (elevation(new_reno_wright_teen_obj))) then begin
+               if ((self_elevation) == (elevation(new_reno_wright_teen_obj))) then begin
                   if (tile_distance_objs(self_obj, dude_obj) < tile_distance_objs(new_reno_wright_teen_obj, dude_obj)) then begin
                      set_flee := true;
                      point_run_next_and_face(new_reno_wright_teen_obj)
@@ -334,14 +334,14 @@ procedure Node990 begin
    gfade_in(ONE_GAME_SECOND);
 end
 procedure Node987 begin
-   if ((dude_charisma > 6) or (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, 0))) or (has_trait(TRAIT_PERK, dude_obj, PERK_empathy)) or (local_var(LVAR_reaction_level) > REACTION_LEVEL_NEUTRAL)) then begin
+   if ((dude_charisma > 6) or (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, 0))) or (dude_perk(PERK_empathy)) or (local_var(LVAR_reaction_level) > REACTION_LEVEL_NEUTRAL)) then begin
       call Node024;
    end else begin
       call Node023;
    end
 end
 procedure Node986 begin
-   if ((dude_charisma > 8) or (is_success(roll_vs_skill(dude_obj, SKILL_CONVERSANT, -20))) or (has_trait(TRAIT_PERK, dude_obj, PERK_empathy)) or (local_var(LVAR_reaction_level) > REACTION_LEVEL_GOOD)) then begin
+   if ((dude_charisma > 8) or (is_success(roll_vs_skill(dude_obj, SKILL_SPEECH, -20))) or (dude_perk(PERK_empathy)) or (local_var(LVAR_reaction_level) > REACTION_LEVEL_GOOD)) then begin
       call Node027;
    end else begin
       call Node026;

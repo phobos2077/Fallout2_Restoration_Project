@@ -188,7 +188,7 @@ procedure combat_p_proc begin
    if (self_visible) then begin
       if (fixed_param == COMBAT_SUBTYPE_TURN) then begin
          ndebug("umm my turn");
-         if (Goris_In_Party and has_trait(TRAIT_OBJECT, target_obj, OBJECT_TEAM_NUM) == TEAM_VAULT13) then begin
+         if (Goris_In_Party and get_team(target_obj) == TEAM_VAULT13) then begin
             ndebug("Attcking player");
             set_self_abandon_party;
             self_attack_dude;
@@ -210,7 +210,7 @@ procedure timed_event_p_proc begin
          if (Goris_In_Party) then begin
             if (Is_Crippled(self_obj)) then
                floater(2000);
-            else if (get_critter_stat(self_obj, STAT_current_rad)) then
+            else if (self_rads) then
                floater(2001);
             else if (get_poison(self_obj)) then
                floater(2002);
@@ -247,11 +247,11 @@ procedure map_enter_p_proc begin
    Only_Once:=0;
    party_member_map_enter;
    if (not Goris_In_Party) then begin
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+      set_self_team(TEAM_VAULT13);
    end else begin
       if (local_var(LVAR_First_Combat) == 0) then
          set_local_var(LVAR_First_Combat,1);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+      set_self_team(TEAM_PLAYER);
    end
 //   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
 
@@ -277,17 +277,17 @@ procedure critter_p_proc begin
          set_obj_visibility(self_obj, OBJ_VIS);
       end
    end else begin
-      if (local_var(LVAR_Hostile) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+      if (local_var(LVAR_Hostile) and (self_can_see_dude)) then begin
          self_attack_dude;
       end
 
       if (Goris_In_Party and self_visible) then begin
          party_member_follow_dude
 
-         if ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and (has_rep_berserker or has_rep_childkiller or check_general_rep < 0) ) then begin //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+         if ( (not(dude_perk(PERK_cult_of_personality))) and (has_rep_berserker or has_rep_childkiller or check_general_rep < 0) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
             float_msg(self_obj, mstr(1160), FLOAT_MSG_RED);
             set_self_abandon_party;
-            critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+            set_self_team(TEAM_VAULT13);
             add_timer_event(self_obj, 0, TIMER_RETURN);
          end
 
@@ -405,7 +405,7 @@ procedure talk_p_proc begin
    if (leavePack == 1) then begin
       fadeout(500);
       set_self_abandon_party;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
+      set_self_team(TEAM_VAULT13);
       ndebug("adding self for tagging 2");
       party_add(self_obj);
       bworlvar(LVAR_State, STATE_TAGGING);
@@ -732,14 +732,14 @@ procedure Node013 begin
 end
 
 procedure Node014 begin
-   if ( (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) or ((global_var(TOWN_REP_VAR) >= 0) and ( (check_general_rep >= 0) and (not has_rep_childkiller) and (not has_rep_berserker)) ) ) then begin //edit by killap - added (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))
+   if ( (dude_perk(PERK_cult_of_personality)) or ((global_var(TOWN_REP_VAR) >= 0) and ( (check_general_rep >= 0) and (not has_rep_childkiller) and (not has_rep_berserker)) ) ) then begin //edit by killap - added (dude_perk(PERK_cult_of_personality))
       ndebug("true_party_size " + true_party_size);
       ndebug("party_max_formula " + party_max_formula);
       ndebug("((true_party_size >= (party_max_formula)) or (true_party_size >= 5)): " + ((true_party_size >= (party_max_formula)) or (true_party_size >= 5)));
       ndebug("uhh PARTY_MAX_FORMULA info");
       ndebug("(floor(dude_charisma/2): " + (floor(dude_charisma/2)));
-      ndebug("(has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)): " + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk)));
-      ndebug("(floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))): " + (floor(dude_charisma/2) + (has_trait(TRAIT_PERK,dude_obj,PERK_magnetic_personality_perk))));
+      ndebug("(dude_perk(PERK_magnetic_personality_perk)): " + (dude_perk(PERK_magnetic_personality_perk)));
+      ndebug("(floor(dude_charisma/2) + (dude_perk(PERK_magnetic_personality_perk))): " + (floor(dude_charisma/2) + (dude_perk(PERK_magnetic_personality_perk))));
 
       if not (dude_at_max_party_size) then begin
          addParty := 1;
@@ -1009,7 +1009,7 @@ procedure map_update_p_proc begin
    call checkHidden;
    if (combat_is_initialized == false) then begin
       if (anim_busy(self_obj) == false) then begin
-         if (party_member_obj(obj_pid(self_obj)) != 0) then begin
+         if (party_member_obj(self_pid) != 0) then begin
             if (chem_use_level(self_obj) == 1) then begin
                if ((100 * self_cur_hits / self_max_hits) <= 60) then begin
                   global_temp := 1;

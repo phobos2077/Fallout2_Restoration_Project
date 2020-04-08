@@ -70,7 +70,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) != 0) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) != 0) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        self_attack_dude;
        //Macro made by Tom to keep the critter fleeing.
@@ -118,7 +118,7 @@ begin
   if (source_obj == dude_obj) then
   begin
     set_global_var(GVAR_GOOD_MONSTER, global_var(GVAR_GOOD_MONSTER) + 1);
-    if (metarule(51, self_obj) == 2) then
+    if (critter_kill_type(self_obj) == 2) then
     begin
       if (source_obj == dude_obj) then
       begin
@@ -200,15 +200,15 @@ procedure look_at_p_proc
 begin
   script_overrides;
   if (local_var(LVAR_Herebefore) == 0) then
-    display_msg(message_str(NAME, 100));
+    display_msg(mstr(100));
   else
-    display_msg(message_str(NAME, 101));
+    display_msg(mstr(101));
 end
 
 procedure description_p_proc
 begin
   script_overrides;
-  display_msg(message_str(NAME, 102));
+  display_msg(mstr(102));
 end
 
 procedure use_skill_on_p_proc
@@ -226,7 +226,7 @@ begin
   begin
     if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
     begin
-      float_msg(self_obj, message_str(NAME, random(333, 341)), FLOAT_MSG_GREEN);
+      float_msg(self_obj, mstr(random(333, 341)), FLOAT_MSG_GREEN);
       add_timer_event(self_obj, game_ticks(random(5, 6)), 3);
     end
   end
@@ -274,7 +274,7 @@ begin
     gsay_end;
     end_dialogue;
   end else
-    float_msg(self_obj, message_str(NAME, random(330, 331)), FLOAT_MSG_YELLOW);
+    float_msg(self_obj, mstr(random(330, 331)), FLOAT_MSG_YELLOW);
 end
 
 procedure Node998
@@ -291,60 +291,60 @@ end
 
 procedure Node001
 begin
-  gsay_reply(NAME, 200);
-  giq_option(4, NAME, 201, Node002, 50);
+  Reply(200);
+  NOption(201, Node002, 4);
 end
 
 procedure Node002
 begin
-  gsay_reply(NAME, 210);
-  giq_option(4, NAME, 211, Node003, 50);
-  giq_option(4, NAME, 212, Node003, 50);
+  Reply(210);
+  NOption(211, Node003, 4);
+  NOption(212, Node003, 4);
 end
 
 procedure Node003
 begin
-  gsay_reply(NAME, 220);
-  giq_option(4, NAME, 221, Node004, 50);
-  giq_option(4, NAME, 222, Node003a, 50);
+  Reply(220);
+  NOption(221, Node004, 4);
+  NOption(222, Node003a, 4);
 end
 
 procedure Node004
 begin
-  gsay_reply(NAME, 230);
-  giq_option(4, NAME, 231, Node005, 50);
-  giq_option(4, NAME, 232, Node003a, 50);
+  Reply(230);
+  NOption(231, Node005, 4);
+  NOption(232, Node003a, 4);
 end
 
 procedure Node005
 begin
-  gsay_reply(NAME, 240);
+  Reply(240);
   if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then
-   giq_option(4, NAME, 242, Node009, 50);
+   NOption(242, Node009, 4);
   else
-   giq_option(4, NAME, 241, Node005a, 50);
+   NOption(241, Node005a, 4);
 
 end
 
 procedure Node006
 begin
-  gsay_reply(NAME, 250);
-  giq_option(4, NAME, 251, Node003, 50);
+  Reply(250);
+  NOption(251, Node003, 4);
 end
 
 procedure Node007
 begin
-  gsay_reply(NAME, 260);
-  giq_option(4, NAME, 261, Node005, 50);
-  giq_option(4, NAME, 262, Node999, 50);
+  Reply(260);
+  NOption(261, Node005, 4);
+  NOption(262, Node999, 4);
 end
 
 procedure Node008
 begin
-  gsay_reply(NAME, 270);
+  Reply(270);
   if ((global_var(GVAR_KILL_EPAPLANTS) >= 26) and (global_var(GVAR_PLANT_QUEST) == 1)) then
-    giq_option(4, NAME, 271, Node009, 50);
-  giq_option(4, NAME, 272, Node999, 50);
+    NOption(271, Node009, 4);
+  NOption(272, Node999, 4);
 end
 
 procedure Node009
@@ -352,9 +352,9 @@ begin
   variable item;
   item:=create_object(PID_EPA_KEYS,0,0);
   add_obj_to_inven(dude_obj,item);
-  gsay_reply(NAME, 280);
-  giq_option(4, NAME, 281, Node999, 50);
-  display_msg(message_str(NAME, 332));
+  Reply(280);
+  NOption(281, Node999, 4);
+  display_msg(mstr(332));
   give_xp(500);
   set_local_var(LVAR_Herebefore, 5);
   set_global_var(GVAR_PLANT_QUEST, 2);
@@ -363,8 +363,8 @@ end
 
 procedure Node010
 begin
-  gsay_reply(NAME, 290);
-  giq_option(4, NAME, 291, Node011, 50);
+  Reply(290);
+  NOption(291, Node011, 4);
   set_local_var(LVAR_Herebefore, 5);
   set_global_var(GVAR_PLANT_QUEST, 2);
   set_global_var(GVAR_KILL_EPAPLANTS, 1);
@@ -372,16 +372,16 @@ end
 
 procedure Node011
 begin
-  gsay_reply(NAME, 300);
-  giq_option(4, NAME, 301, Node012, 50);
-  giq_option(4, NAME, 302, Node011a, 50);
+  Reply(300);
+  NOption(301, Node012, 4);
+  NOption(302, Node011a, 4);
 end
 
 procedure Node012
 begin
   variable item;
-  gsay_reply(NAME, 310);
-  giq_option(4, NAME, 311, Node013, 50);
+  Reply(310);
+  NOption(311, Node013, 4);
 
   item:=create_object(PID_EPA_KEYS,0,0);
   add_obj_to_inven(dude_obj,item);
@@ -390,9 +390,9 @@ end
 
 procedure Node013
 begin
-  gsay_reply(NAME, 320);
-  giq_option(4, NAME, 321, Node999, 50);
-  display_msg(message_str(NAME, 332));
+  Reply(320);
+  NOption(321, Node999, 4);
+  display_msg(mstr(332));
   give_xp(500);
 end
 
@@ -427,6 +427,6 @@ begin
   item:=create_object(PID_EPA_KEYS,0,0);
   add_obj_to_inven(dude_obj,item);
 
-  display_msg(message_str(NAME, 332));
+  display_msg(mstr(332));
   give_xp(300);
 end

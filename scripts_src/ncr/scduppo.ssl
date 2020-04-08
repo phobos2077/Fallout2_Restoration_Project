@@ -114,7 +114,7 @@ variable Node11Count := 0;
 
 
 procedure combat_p_proc begin
-   if (not obj_can_see_obj(self_obj, dude_obj)) then begin
+   if (not self_can_see_dude) then begin
       script_overrides;
    end
 end
@@ -128,8 +128,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_STORE_OWNER);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_STORE_OWNER);
 
    //added by killap - fix for game_time going negative after 7 years
    if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
@@ -163,7 +163,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -221,8 +221,8 @@ procedure talk_p_proc begin
    set_local_var(LVAR_Herebefore, 1);
 
    move_obj_inven_to_obj(self_obj, i_duppo_table);
-   item_caps_adjust(self_obj, obj_is_carrying_obj_pid(i_duppo_table, PID_BOTTLE_CAPS));
-   item_caps_adjust(i_duppo_table, -obj_is_carrying_obj_pid(self_obj, PID_BOTTLE_CAPS));
+   self_caps_adjust(item_caps_total(i_duppo_table));
+   item_caps_adjust(i_duppo_table, -self_caps);
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like
@@ -420,7 +420,7 @@ procedure checkConvince begin
 
    ndebug("skill checked with negative: " + -(BRIBE_AMOUNT / payAmount) * 10);
    if (payAmount < BRIBE_AMOUNT) then begin
-      if (skill_success(dude_obj, SKILL_CONVERSANT, -((BRIBE_AMOUNT / payAmount) * 10))) then
+      if (skill_success(dude_obj, SKILL_SPEECH, -((BRIBE_AMOUNT / payAmount) * 10))) then
          return 1;
       else
          return 0;
@@ -430,8 +430,8 @@ end
 
 procedure NodePay500 begin
    if (dude_caps >= 500) then begin
-      item_caps_adjust(dude_obj, -500);
-      item_caps_adjust(self_obj, 500);
+      dude_caps_adjust(-500);
+      self_caps_adjust(500);
       payAmount += 500;
 
       if (checkConvince) then
@@ -444,8 +444,8 @@ end
 
 procedure NodePay300 begin
    if (dude_caps >= 300) then begin
-      item_caps_adjust(dude_obj, -300);
-      item_caps_adjust(self_obj, 300);
+      dude_caps_adjust(-300);
+      self_caps_adjust(300);
       payAmount += 300;
 
       if (checkConvince) then
@@ -458,8 +458,8 @@ end
 
 procedure NodePay200 begin
    if (dude_caps >= 200) then begin
-      item_caps_adjust(dude_obj, -200);
-      item_caps_adjust(self_obj, 200);
+      dude_caps_adjust(-200);
+      self_caps_adjust(200);
       payAmount += 200;
 
       if (checkConvince) then
@@ -472,8 +472,8 @@ end
 
 procedure NodePay100 begin
    if (dude_caps >= 100) then begin
-      item_caps_adjust(dude_obj, -100);
-      item_caps_adjust(self_obj, 100);
+      dude_caps_adjust(-100);
+      self_caps_adjust(100);
       payAmount += 100;
 
       if (checkConvince) then

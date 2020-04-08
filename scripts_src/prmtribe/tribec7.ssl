@@ -144,11 +144,11 @@ procedure timed_event_p_proc begin
       start_dialog_at_node(Node017);
    end else if (fixed_param == 3) then begin
       if (not(combat_is_initialized)) then begin
-         if (tile_distance(tile_num(self_obj),local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
-            animate_move_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+         if (tile_distance(self_tile,local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
+            self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
          end
          else begin
-           animate_move_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(3,7)));
+           self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(3,7)));
          end
          add_timer_event(self_obj,random(50,100),3);
       end
@@ -170,15 +170,15 @@ end
 procedure look_at_p_proc begin
    script_overrides;
    if (local_var(LVAR_Herebefore) == 0) then
-       display_msg(message_str(NAME, 100));
+       display_msg(mstr(100));
    else
-       display_msg(message_str(NAME, 101));
+       display_msg(mstr(101));
 end
 
 
 procedure description_p_proc begin
    script_overrides;
-    display_msg(message_str(NAME, 102));
+    display_msg(mstr(102));
 end
 
 
@@ -219,7 +219,7 @@ procedure map_enter_p_proc begin
    if (global_var(GVAR_SULIK_SISTER) > 2) then
       add_timer_event(self_obj,random(20,30),3);
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PRIMITIVE_TRIBE);
+   set_self_team(TEAM_PRIMITIVE_TRIBE);
 
    if (cur_town == AREA_SLAVER_CAMP) then begin
       if (local_var(LVAR_Freed)) then begin
@@ -380,7 +380,7 @@ end
 
 procedure Node003 begin
    Reply(204);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_KEYS) >= 1) then begin
+   if (dude_item_count(PID_KEYS) >= 1) then begin
       NOption(206,Node004,004);
       NLowOption(920,Node004);
    end else begin
@@ -454,16 +454,16 @@ procedure Node093 begin
 end
 
 procedure Node094 begin
-   if ((obj_is_visible_flag(GUARD_obj))) then
+   if ((is_visible(GUARD_obj))) then
       attack_setup(Sulik_Ptr,GUARD_obj); //sulik attacks the outside guard.
    set_map_var(MVAR_Attack_Slavers,1);    //outside hostile
    set_local_var(LVAR_Wait,3); //sulik sister rush out
 end
 
 procedure Node096 begin
-   if (obj_is_carrying_obj_pid(dude_obj, PID_KEYS) >= 1) then
+   if (dude_item_count(PID_KEYS) >= 1) then
       call Node097;
-   else if (not(obj_is_visible_flag(GUARD_obj))) then
+   else if (not(is_visible(GUARD_obj))) then
       call Node097;
    else if (dude_luck > 7) then
       call Node097;
@@ -491,14 +491,14 @@ procedure Node098 begin
    move_to(dude_obj, 13672, self_elevation);
    move_to(GUARD_obj, 14672, self_elevation);
    move_to(DOG_obj, 14473, self_elevation);
-   float_msg(dude_obj, message_str(NAME, 810), FLOAT_MSG_NORMAL );
+   float_msg(dude_obj, mstr(810), FLOAT_MSG_NORMAL );
    attack_setup(GUARD_obj,dude_obj);
    set_local_var(LVAR_Wait,2);
 end
 
 procedure Node014 begin
    Reply(214);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_KEYS) >= 1) then begin
+   if (dude_item_count(PID_KEYS) >= 1) then begin
       NOption(216,Node004,004);
       NLowOption(920,Node004);
    end else begin
@@ -519,7 +519,7 @@ end
 
 procedure Node008 begin
    Reply(510);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_KEYS) >= 1) then begin
+   if (dude_item_count(PID_KEYS) >= 1) then begin
       NOption(511,Node004,004);
       NLowOption(920,Node004);
    end else begin
@@ -547,7 +547,7 @@ end
 
 procedure Node011 begin
    Reply(225);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_KEYS) >= 1) then begin
+   if (dude_item_count(PID_KEYS) >= 1) then begin
       NOption(226,Node004,004);
       NLowOption(920,Node004);
    end else begin
@@ -566,7 +566,7 @@ procedure Node012 begin
 end
 
 procedure Node013 begin
-   float_msg(self_obj, message_str(NAME, 800), FLOAT_MSG_RED );
+   float_msg(self_obj, mstr(800), FLOAT_MSG_RED );
 end
 
 procedure Node015 begin
@@ -709,9 +709,9 @@ end
 procedure Node091 begin
    variable modifier;
 
-   if (obj_is_carrying_obj_pid(dude_obj, PID_LOCKPICKS) >= 1) then
+   if (dude_item_count(PID_LOCKPICKS) >= 1) then
       modifier := 20;
-   if (obj_is_carrying_obj_pid(dude_obj, PID_EXP_LOCKPICK_SET) >= 1) then
+   if (dude_item_count(PID_EXP_LOCKPICK_SET) >= 1) then
       modifier := 40;
 
    if (is_success(roll_vs_skill(dude_obj, SKILL_LOCKPICK, (-40 + modifier)))) then

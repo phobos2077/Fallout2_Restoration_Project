@@ -73,7 +73,7 @@ procedure map_enter_p_proc begin
       display_msg(mstr(100));
 
    //hide squatters if you told them to leave
-   if ( (elevation(dude_obj) == 0) and (map_var(MVAR_Squater_Count) == 0) ) then begin
+   if ( (dude_elevation == 0) and (map_var(MVAR_Squater_Count) == 0) ) then begin
       set_obj_visibility( squatter_object, true );
    end
 
@@ -99,7 +99,7 @@ procedure map_enter_p_proc begin
 
          if (lara_dead == false) then begin
             Critter:=create_object_sid(PID_TOUGH_GUARD_FEMALE,19501,dude_elevation,SCRIPT_DCLARA);
-              critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+              set_team(Critter,TEAM_PLAYER);
               item:=create_object(PID_10MM_PISTOL,0,0);
               add_obj_to_inven(Critter,item);
               wield_obj_critter(Critter,item);
@@ -108,7 +108,7 @@ procedure map_enter_p_proc begin
          end
          if (gang_2_member_2_killed == false) then begin
             Critter:=create_object_sid(PID_GUN_GUARD_MALE,19301,dude_elevation,SCRIPT_DCG2GRD);
-               critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+               set_team(Critter,TEAM_PLAYER);
                item:=create_object(PID_10MM_PISTOL,0,0);
                add_obj_to_inven(Critter,item);
                wield_obj_critter(Critter,item);
@@ -117,7 +117,7 @@ procedure map_enter_p_proc begin
          end
          if (gang_2_member_3_killed == false) then begin
             Critter:=create_object_sid(PID_MELEE_GUARD_MALE,19303,dude_elevation,SCRIPT_DCG2GRD);
-               critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+               set_team(Critter,TEAM_PLAYER);
                item:=create_object(PID_SLEDGEHAMMER,0,0);
                add_obj_to_inven(Critter,item);
                wield_obj_critter(Critter,item);
@@ -126,7 +126,7 @@ procedure map_enter_p_proc begin
          end
          if (gang_2_member_4_killed == false) then begin
             Critter:=create_object_sid(PID_AGILE_GUARD_FEMALE,19504,dude_elevation,SCRIPT_DCG2GRD);
-               critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+               set_team(Critter,TEAM_PLAYER);
                item:=create_object(PID_SPEAR,0,0);
                add_obj_to_inven(Critter,item);
                wield_obj_critter(Critter,item);

@@ -154,14 +154,14 @@ procedure map_enter_p_proc begin
          set_local_var(LVAR_Home_Tile, self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
          set_local_var(LVAR_Home_Elev, self_elevation);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_TEAM_NUM, TEAM_NEW_RENO_BISHOP);
-         critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_GUARD);
+         set_self_team(TEAM_NEW_RENO_BISHOP);
+         set_self_ai(AI_TOUGH_GUARD);
       end
       if ((self_tile != local_var(LVAR_Home_Tile)) or (self_elevation != local_var(LVAR_Home_Elev))) then begin
-         animate_stand_obj(self_obj);
+         self_stand;
          move_to(self_obj, local_var(LVAR_Home_Tile), local_var(LVAR_Home_Elev));
          if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-            animate_rotation(local_var(LVAR_Home_Rotation));
+            self_rotate(local_var(LVAR_Home_Rotation));
          end
       end
       nr_add_timer_event_rand(self_obj, 15, 30, float_param);
@@ -308,14 +308,14 @@ procedure Node989 begin
    end
 end
 procedure Node988 begin
-   if ((dude_charisma > 7) or (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,20)))) then begin
+   if ((dude_charisma > 7) or (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,20)))) then begin
       call Node036;
    end else begin
       call Node045;
    end
 end
 procedure Node987 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node037;
    end else begin
       call Node038;
@@ -331,11 +331,11 @@ procedure Node984 begin
    call create_and_use_itempid_on(dude_obj, PID_JET);
    gfade_out(ONE_GAME_SECOND);
       set_angela_banged
-      if (obj_is_carrying_obj_pid(dude_obj, PID_BLUE_CONDOM) > 0) then begin
+      if (dude_item_count(PID_BLUE_CONDOM) > 0) then begin
          remove_pid_qty(dude_obj, PID_BLUE_CONDOM, 1)
-      end else if (obj_is_carrying_obj_pid(dude_obj, PID_GREEN_CONDOM) > 0) then begin
+      end else if (dude_item_count(PID_GREEN_CONDOM) > 0) then begin
          remove_pid_qty(dude_obj, PID_GREEN_CONDOM, 1)
-      end else if (obj_is_carrying_obj_pid(dude_obj, PID_RED_CONDOM) > 0) then begin
+      end else if (dude_item_count(PID_RED_CONDOM) > 0) then begin
          remove_pid_qty(dude_obj, PID_RED_CONDOM, 1)
       end else begin
          set_angela_pregnant
@@ -343,7 +343,7 @@ procedure Node984 begin
       do_default_sex;
       move_to(self_obj, angela_bed_tile, angela_self_room_elev);
       reg_anim_clear(self_obj);
-      anim(self_obj, ANIMATE_ROTATION, angela_bed_rotation);
+      self_rotate(angela_bed_rotation);
       anim(self_obj, ANIM_fall_back_sf, ANIMATE_FORWARD);
    gfade_in(ONE_GAME_SECOND);
 end

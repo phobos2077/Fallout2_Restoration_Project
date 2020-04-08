@@ -130,7 +130,7 @@ import variable i_matt_obj;
 import variable i_gruthar_obj;
 
 #define GRUTHAR_NO_LIKE_YOU    \
-   ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( (bad_critter_reaction) or ( check_general_rep < 0 ) or (global_var(TOWN_REP_VAR) < 0) or (has_rep_childkiller) or ( has_rep_berserker ) ) ) //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+   ( (not(dude_perk(PERK_cult_of_personality))) and ( (bad_critter_reaction) or ( check_general_rep < 0 ) or (global_var(TOWN_REP_VAR) < 0) or (has_rep_childkiller) or ( has_rep_berserker ) ) ) //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
 
 #define STARTTILE 14695
 
@@ -180,8 +180,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT13);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_VAULT_DEATHCLAW);
+   set_self_team(TEAM_VAULT13);
+   set_self_ai(AI_VAULT_DEATHCLAW);
    if (map_var(MVAR_Dude_See) == 0) then
       set_obj_visibility(self_obj, OBJ_INVIS);
 
@@ -228,7 +228,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if (((local_var(LVAR_Hostile) != 0) or map_var(MVAR_Vault13_Enemy)) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if (((local_var(LVAR_Hostile) != 0) or map_var(MVAR_Vault13_Enemy)) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        set_map_var(MVAR_Vault13_Enemy, 1);
        self_attack_dude;
@@ -238,12 +238,12 @@ procedure critter_p_proc begin
    dstatus := GETDSTATUS;
    if (dstatus == GDREFUSE or dstatus == GDIDIOT or dstatus == 0) then begin
       if (local_var(LVAR_Talked_Gruthar) == 0) then begin
-         if (obj_can_see_obj(self_obj, dude_obj)) then begin
+         if (self_can_see_dude) then begin
             if (tile_distance_objs(self_obj, dude_obj) < 9) then
                doTalking := 1;
          end
       end else begin
-         if (obj_can_see_obj(self_obj, dude_obj)) then
+         if (self_can_see_dude) then
             doTalking := checkFunction;
       end
 
@@ -258,7 +258,7 @@ procedure critter_p_proc begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(STARTTILE);
+         self_walk_to_tile(STARTTILE);
          reg_anim_end();
       end
    end
@@ -326,7 +326,7 @@ procedure talk_p_proc begin
       end_dialogue;
    end else if (local_var(LVAR_Talked_Gruthar) == 1) then begin
       if (local_var(LVAR_Personal_Enemy)) then begin
-         if (obj_can_see_obj(self_obj,dude_obj)) then begin
+         if (self_can_see_dude) then begin
             floater(202);
             set_local_var(LVAR_Hostile,2);
          end
@@ -498,11 +498,11 @@ procedure Node002 begin
    if (dude_iq > 3 and local_var(LVAR_Playing_Dumb) == 0) then begin
       Reply(113);
       set_local_var(LVAR_Playing_Dumb, 1);
-      NOption(MORESTRING, Node001, 0);
+      NOption(MORESTRING, Node001, 1);
    end else if (dude_iq > 3 and local_var(LVAR_Playing_Dumb) == 1) then begin
       Reply(114);
       SETDSTATUS(GDIDIOT);
-      NOption(MORESTRING, Node030, 0);
+      NOption(MORESTRING, Node030, 1);
    end else begin
       SETDSTATUS(GDTRUEIDIOT);
       Reply(115);
@@ -675,7 +675,7 @@ end
 procedure Node017 begin
    Reply(USEDUDENAME(177, 233));
    NOption(178, Node999, 4);
-   if (obj_is_carrying_obj_pid(dude_obj, VOICEREPAIROBJ) > 0) then
+   if (dude_item_count(VOICEREPAIROBJ) > 0) then
       GOption(179, Node029, 4);
 end
 
@@ -788,17 +788,17 @@ end
 
 procedure Node030 begin
    Reply(225);
-   NOption(ENDSTRING, NodeTeleport, 0);
+   NOption(ENDSTRING, NodeTeleport, 1);
 end
 
 procedure Node031 begin
    Reply(226);
-   NOption(227, NodeTeleport, 0);
+   NOption(227, NodeTeleport, 1);
 end
 
 procedure Node032 begin
    Reply(229);
-   NOption(230, NodeTeleport, 0);
+   NOption(230, NodeTeleport, 1);
 end
 
 procedure Node033 begin
@@ -815,7 +815,7 @@ end
 
 procedure checkGeck begin
    if (geck_container) then begin
-      return obj_carrying_pid_obj(geck_container, GECKOBJ);
+      return get_item(geck_container, GECKOBJ);
    end
    return 0;
 end

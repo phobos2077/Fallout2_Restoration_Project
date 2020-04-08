@@ -85,7 +85,7 @@ procedure Node024;
 /* Local variables which do not need to be saved between map changes. */
 
 
-#define mcgee_easy_on_dude                ((dude_charisma > 8) or (has_trait(TRAIT_TRAIT,dude_obj,TRAIT_good_natured))) //killap's fix: changed from self_obj
+#define mcgee_easy_on_dude                ((dude_charisma > 8) or (dude_trait(TRAIT_good_natured))) //killap's fix: changed from self_obj
 #define give_warning                      if (mcgee_easy_on_dude == false) then begin  \
                                              set_local_var(LVAR_Warning, true);        \
                                           end
@@ -95,15 +95,15 @@ procedure Node024;
                                           end else begin                                                    \
                                              inc_general_rep(REP_BONUS_NEW_RENO_MCGEE_JACKPOT_HALF);   /*swapped -killap*/     \
                                           end                                                               \
-                                          item_caps_adjust(self_obj, x);                                    \
-                                          item_caps_adjust(dude_obj, -x);                                   \
+                                          self_caps_adjust(x);                                    \
+                                          dude_caps_adjust(-x);                                   \
                                           set_mcgee_jackpot_settled
-#define reply_w_rifle_check(x)            if (obj_is_carrying_obj_pid(self_obj, PID_HUNTING_RIFLE) == 0) then begin     \
+#define reply_w_rifle_check(x)            if (self_item_count(PID_HUNTING_RIFLE) == 0) then begin     \
                                              Reply(mstr(x) + " " + mstr(317));                                                \
                                           end else begin                                                                \
                                              Reply(x);                                                                  \
                                           end
-#define option_w_rifle_check(x,y)         BOption(x+(obj_is_carrying_obj_pid(self_obj, PID_HUNTING_RIFLE)), Node998, y);
+#define option_w_rifle_check(x,y)         BOption(x+(self_item_count(PID_HUNTING_RIFLE)), Node998, y);
 
 
 import variable mcGeeSlotMachineOBJ;
@@ -137,8 +137,8 @@ procedure timed_event_p_proc begin
             call Node005;
             // ### make him go get money if he's out
          end else if (mcgee_playing_slots) then begin
-            if (rotation_to_tile(tile_num(self_obj),tile_num(mcGeeSlotMachineOBJ)) != self_cur_rot) then begin
-               animate_rotation(rotation_to_tile(tile_num(self_obj),tile_num(mcGeeSlotMachineOBJ)));
+            if (rotation_to_tile(self_tile,tile_num(mcGeeSlotMachineOBJ)) != self_cur_rot) then begin
+               self_rotate(rotation_to_tile(self_tile,tile_num(mcGeeSlotMachineOBJ)));
             end else if (anim_busy(self_obj) == false) then begin
                call Node003;
                if ((local_var(LVAR_Last_Played) <= game_time) and (random(1,10) != 5)) then begin
@@ -148,7 +148,7 @@ procedure timed_event_p_proc begin
                   reg_anim_begin();
                      reg_anim_animate(self_obj, ANIM_magic_hands_middle, -1);
                   reg_anim_end();
-                  item_caps_adjust(self_obj, -1);
+                  self_caps_adjust(-1);
                end else begin
                   reg_anim_clear(self_obj);
                   reg_anim_begin();
@@ -157,7 +157,7 @@ procedure timed_event_p_proc begin
                end
             end
          end else begin
-            animate_run_to_tile(tile_num_in_direction(tile_num(mcGeeSlotMachineOBJ),2,1));
+            self_run_to_tile(tile_num_in_direction(tile_num(mcGeeSlotMachineOBJ),2,1));
          end
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
@@ -167,12 +167,12 @@ end
 procedure map_enter_p_proc begin
    if (is_loading_game == false) then begin
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_MCGEE);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+         set_self_team(TEAM_NEW_RENO_MCGEE);
+         set_self_ai(AI_TOUGH_CITIZEN);
       end
       if (mcgee_jackpot_settled == false) then begin
          mcGeeOBJ := self_obj;
-         item_caps_adjust(self_obj, random(1,32) - self_caps);
+         self_caps_adjust(random(1,32) - self_caps);
       end else begin
          mcGeeOBJ := 0;
          destroy_object(self_obj);
@@ -266,21 +266,21 @@ procedure Node999 begin
 end
 procedure Node990 begin
    // if dude has charisma > 8, or trait good natured, or speech skill is good, goto 8 else 23
-   if ((mcgee_easy_on_dude) or (has_skill(dude_obj, SKILL_CONVERSANT) > 35)) then begin
+   if ((mcgee_easy_on_dude) or (has_skill(dude_obj, SKILL_SPEECH) > 35)) then begin
       call Node008;
    end else begin
       call Node023;
    end
 end
 procedure Node989 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,10*(mcgee_known)))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,10*(mcgee_known)))) then begin
       call Node009;
    end else begin
       call Node010;
    end
 end
 procedure Node988 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node012;
    end else begin
       call Node014;

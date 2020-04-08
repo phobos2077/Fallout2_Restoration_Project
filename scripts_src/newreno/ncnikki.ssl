@@ -167,8 +167,8 @@ procedure map_enter_p_proc begin
    end
    if (map_first_run) then begin
    end
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_);
+   set_self_team(TEAM_NEW_RENO_);
+   set_self_ai(AI_);
    */
 
    /*// added by killap - expansion
@@ -180,8 +180,8 @@ procedure map_enter_p_proc begin
    end
    // end added*/
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NEW_RENO_SALVATORE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_CITIZEN);
+   set_self_team(TEAM_NEW_RENO_SALVATORE);
+   set_self_ai(AI_TOUGH_CITIZEN);
    nr_add_timer_event_rand(self_obj, 5, 30, float_param);
 end
 
@@ -526,7 +526,7 @@ procedure Node021 begin //go on
 end
 
 procedure Node022 begin //player set up
-   item_caps_adjust(dude_obj, -500);
+   dude_caps_adjust(-500);
    set_nikki_bribed;
    display_msg(mstr(600));
    give_xp(EXP_NIKKI_BRIBED_SOLVE);
@@ -552,7 +552,7 @@ procedure Node025 begin
 end
 
 procedure Node995 begin
-   if ( (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-20))) or (dude_smooth_talker) ) then
+   if ( (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-20))) or (dude_smooth_talker) ) then
       call Node016;
    else begin
       if (dude_strength >= 8) then
@@ -564,7 +564,7 @@ end
 
 procedure Node996 begin
 
-   if ( (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,-40))) or (dude_smooth_talker) ) then
+   if ( (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,-40))) or (dude_smooth_talker) ) then
       call Node020;
    else
       call Node019;
@@ -578,7 +578,7 @@ variable the_roll_2;
 variable the_result := 0;
 
    // play game
-   item_caps_adjust(dude_obj, -bet_amt);
+   dude_caps_adjust(-bet_amt);
    if (random(0,1)) then begin
       play_sfx("dice");
    end else begin
@@ -597,7 +597,7 @@ variable the_result := 0;
       end
    end
    // display results
-   item_caps_adjust(dude_obj, the_result*bet_amt);
+   dude_caps_adjust(the_result*bet_amt);
    Reply(332 - (dude_has_important_rep*((2*dude_is_male) + (dude_is_female))) + (10*the_result));
    //play_dice_options
    if (dude_caps >= 5) then begin

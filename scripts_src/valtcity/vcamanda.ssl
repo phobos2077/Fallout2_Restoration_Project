@@ -117,8 +117,8 @@ procedure map_enter_p_proc begin
    end
    else begin
       Only_Once:=0;
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_VAULT_CITIZENS);
-      critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_COWARD);
+      set_self_team(TEAM_VAULT_CITIZENS);
+      set_self_ai(AI_COWARD);
       add_timer_event( self_obj, game_ticks( random(20, 30) ), 1 );
    end
 end
@@ -151,7 +151,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ( ( (local_var(LVAR_Hostile) == 2) or ( global_var( GVAR_ENEMY_VAULT_COURTYARD ) == 1 ) ) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -200,7 +200,7 @@ procedure talk_p_proc begin
    if ( (global_var(GVAR_QUEST_JOSHUA) == JOSHUA_UNKNOWN) and (dude_iq < 4) ) then
       call Node005;
    else if( (global_var(GVAR_QUEST_JOSHUA) == JOSHUA_UNKNOWN) and
-            ( (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality))) and ( (check_general_rep < 0)  or (has_rep_slaver) or (has_rep_childkiller) ) or ( local_var(LVAR_Amanda_Pissed) == 1 ) ) ) then //edit by killap - added (not(has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)))
+            ( (not(dude_perk(PERK_cult_of_personality))) and ( (check_general_rep < 0)  or (has_rep_slaver) or (has_rep_childkiller) ) or ( local_var(LVAR_Amanda_Pissed) == 1 ) ) ) then //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
       call Node006;
    else if( global_var(GVAR_QUEST_JOSHUA) == JOSHUA_UNKNOWN ) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
@@ -394,7 +394,7 @@ procedure Node016a begin
 end
 
 procedure Node017 begin
-   float_msg(Myron_Ptr, message_str(NAME,151), FLOAT_COLOR_NORMAL);
+   float_msg(Myron_Ptr, mstr(151), FLOAT_COLOR_NORMAL);
 end
 
 procedure Node018 begin
@@ -408,7 +408,7 @@ procedure Node019 begin
       set_global_var( GVAR_QUEST_JOSHUA, JOSHUA_REWARDED );
       inc_general_rep( REP_BONUS_FREED_JOSHUA );
       set_global_var( GVAR_TOWN_REP_VAULT_CITY, (global_var(GVAR_TOWN_REP_VAULT_CITY) + REP_TOWN_RESCUED_JOSHUA_NO_SEX ) );
-      item_caps_adjust( dude_obj, 32 );
+      dude_caps_adjust( 32);
    end
 end
 

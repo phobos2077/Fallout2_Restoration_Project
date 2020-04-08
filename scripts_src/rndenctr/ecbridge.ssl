@@ -145,8 +145,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_RND_BRIDGE);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_RND_BRIDGE);
+   set_self_ai(AI_PEASANT);
    add_timer_event(self_obj, 0, TIMER_NODE011);
    ndebug("in the map enter");
 end
@@ -162,7 +162,7 @@ procedure critter_p_proc begin
    this as well. */
 
 
- /*  if (tile_distance_objs(self_obj, dude_obj) < 5 and obj_can_see_obj(self_obj, dude_obj)) then begin
+ /*  if (tile_distance_objs(self_obj, dude_obj) < 5 and self_can_see_dude) then begin
       if (talkCount == 0) then begin
          talkCount := 500000;
          dialogue_system_enter;
@@ -433,7 +433,7 @@ procedure selfLeave begin
    if (self_tile != local_var(LVAR_Leave_Tile)) then begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_begin();
-         animate_move_to_tile(local_var(LVAR_Leave_Tile));
+         self_walk_to_tile(local_var(LVAR_Leave_Tile));
          reg_anim_end();
       end else begin
          if (game_time > talkCount) then begin

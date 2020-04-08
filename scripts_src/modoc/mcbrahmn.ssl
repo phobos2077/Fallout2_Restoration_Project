@@ -112,7 +112,7 @@ procedure critter_p_proc begin
    else if (anim_busy(self_obj) == false) then begin
       if (tile_distance(self_tile, local_var(LVAR_Graze_Tile)) > 0) then begin
          if ((critter_state(self_obj) bwand DAM_KNOCKED_DOWN) == FALSE) then begin
-            animate_move_to_tile(local_var(LVAR_Graze_Tile));
+            self_walk_to_tile(local_var(LVAR_Graze_Tile));
          end
       end
    end
@@ -188,8 +188,8 @@ procedure map_enter_p_proc begin
          inc_global_var(GVAR_MODOC_BRAHMIN_ALIVE);
       end
       if (map_first_run) then begin
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_MODOC_SEED_BRAHMIN);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_SCARED_BRAHMIN);
+         set_self_team(TEAM_MODOC_SEED_BRAHMIN);
+         set_self_ai(AI_SCARED_BRAHMIN);
       end
       flush_add_timer_event_sec(self_obj, random(15, 90), 1);
       flush_add_timer_event_sec(self_obj, random(5, 15), 2);

@@ -160,7 +160,7 @@ procedure start begin
 end
 
 procedure combat_p_proc begin
-   if (obj_can_see_obj(self_obj, dude_obj) and ncr_flag(NCR_GUARD_CHECK_HOSTILE) and not local_var(LVAR_Personal_Enemy)) then begin
+   if (self_can_see_dude and ncr_flag(NCR_GUARD_CHECK_HOSTILE) and not local_var(LVAR_Personal_Enemy)) then begin
       ndebug("should be attacking dude");
       set_ncr_flag(NCR_GUARD_ENEMY);
       set_local_var(LVAR_Personal_Enemy, 1);
@@ -169,12 +169,12 @@ procedure combat_p_proc begin
 end
 
 procedure combat_is_over_p_proc begin
-   if (obj_can_see_obj(self_obj, dude_obj) and ncr_flag(NCR_GUARD_CHECK_HOSTILE) and local_var(LVAR_Personal_Enemy)) then begin
+   if (self_can_see_dude and ncr_flag(NCR_GUARD_CHECK_HOSTILE) and local_var(LVAR_Personal_Enemy)) then begin
       ndebug("should be re-attacking dude");
       self_attack_dude;
    end else begin
       if (tile_distance_objs(self_obj, dude_obj) < 15) then begin
-         ndebug("obj_can_see_obj: " + obj_can_see_obj(self_obj, dude_obj));
+         ndebug("obj_can_see_obj: " + self_can_see_dude);
          ndebug("ncr: " + ncr_flag(NCR_GUARD_CHECK_HOSTILE));
          ndebug("should be clearing attacking dude.");
       end
@@ -197,7 +197,7 @@ procedure timed_event_p_proc begin
    end else if (fixed_param == TIMER_LOOK) then begin
       If_Party_Is_Armed then begin
       end
-      if (obj_can_see_obj(self_obj, dude_obj) and How_Many_Party_Members_Armed and tile_distance_objs(self_obj, dude_obj) <= POLICE_WARN_DIST) then
+      if (self_can_see_dude and How_Many_Party_Members_Armed and tile_distance_objs(self_obj, dude_obj) <= POLICE_WARN_DIST) then
          if (waiting == 0) then
             call talk_p_proc;
       add_timer_event(self_obj, game_ticks(2), TIMER_LOOK);
@@ -209,8 +209,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NCR);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_GUARD);
+   set_self_team(TEAM_NCR);
+   set_self_ai(AI_TOUGH_GUARD);
    if (not is_loading_game) then begin
       add_timer_event(self_obj, game_ticks(2), TIMER_LOOK);
       if (not local_var(LVAR_Home_Tile)) then begin
@@ -238,7 +238,7 @@ procedure critter_p_proc begin
 
    if (last_locker_tamper != i_locker_tamper) then begin
       last_locker_tamper := i_locker_tamper;
-      if (obj_can_see_obj(self_obj, dude_obj)) then begin
+      if (self_can_see_dude) then begin
          if (Random(1, 5 + dude_luck) <= last_locker_tamper) then begin
             set_local_var(LVAR_Hostile, 2);
          end
@@ -248,7 +248,7 @@ procedure critter_p_proc begin
       end
    end
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        If_Party_Is_Armed then begin
           attack(Get_Armed_Party_Member);
@@ -260,13 +260,13 @@ procedure critter_p_proc begin
       if (not anim_busy(self_obj)) then begin
          reg_anim_clear(self_obj);
          reg_anim_begin();
-         animate_move_to_tile(local_var(LVAR_Home_Tile));
+         self_walk_to_tile(local_var(LVAR_Home_Tile));
          reg_anim_end();
       end
    end else if (obj_get_rot(self_obj) != local_var(LVAR_Home_Rot)) then begin
       reg_anim_clear(self_obj);
       reg_anim_begin();
-      animate_rotation(local_var(LVAR_Home_Rot));
+      self_rotate(local_var(LVAR_Home_Rot));
       reg_anim_end();
    end
 end

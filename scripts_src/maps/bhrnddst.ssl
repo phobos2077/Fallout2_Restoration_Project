@@ -491,7 +491,7 @@ procedure Build_Caravan_Team begin
    dude_facing:=random(0,5);
    dude_start_hex:=tile_num_in_direction(START_HEX,dude_facing,random(3,8));
    override_map_start_hex(dude_start_hex,0,random(0,5));
-   anim(dude_obj,ANIMATE_ROTATION,dude_facing);
+   dude_rotate(dude_facing);
 
    call Add_Mysterious_Stranger;
 
@@ -520,16 +520,16 @@ procedure Build_Caravan_Team begin
            add_obj_to_inven(Critter, create_object(PID_SHOTGUN_SHELLS,0,0));
        end
        else begin
-           Critter:=create_object_sid(PID_GRAND_MASTER_TRADER_FEMALE,0,0,-1);        // need to fix this later
+           Critter:=create_object(PID_GRAND_MASTER_TRADER_FEMALE,0,0);        // need to fix this later
        end
 
-       val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+       val := set_team(Critter,TEAM_PLAYER);
        Critter_Rotation:=(dude_facing + 3) % 6;
        Critter_Tile:=tile_num_in_direction(dude_start_hex,Critter_Rotation,random(5,7));
        critter_attempt_placement(Critter,Critter_Tile,0);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
        give_money(Critter,random(10,30));
-       anim(Critter,ANIMATE_ROTATION,rotation_to_tile(tile_num(Critter),tile_num(dude_obj)));
+       obj_rotate(Critter,rotation_to_tile(tile_num(Critter),dude_tile));
    end
 
    // Place the Caravan, Driver and Brahmin
@@ -552,18 +552,18 @@ procedure Build_Caravan_Team begin
        Brahmin_Tile:=tile_num_in_direction(Critter_Tile,0,1);
        Critter:=create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ECCRTBRA);
        critter_attempt_placement(Critter,Brahmin_Tile,0);
-       val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+       val := set_team(Critter,TEAM_PLAYER);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
-       anim(Critter,ANIMATE_ROTATION,1);
+       obj_rotate(Critter,1);
        Brahmin_Counter+=1;
 
        if (Brahmin_Counter < caravan_brahmin_left) then begin
            Brahmin_Tile:=tile_num_in_direction(Critter_Tile,2,2);
            Critter:=create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ECCRTBRA);
            critter_attempt_placement(Critter,Brahmin_Tile,0);
-           val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+           val := set_team(Critter,TEAM_PLAYER);
 //           critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
-           anim(Critter,ANIMATE_ROTATION,1);
+           obj_rotate(Critter,1);
            Brahmin_Counter+=1;
        end
 
@@ -622,10 +622,10 @@ procedure Build_Caravan_Team begin
 
            Driver_Tile:=tile_num_in_direction(Critter_Tile,1,3);
            critter_attempt_placement(Critter,Driver_Tile,0);
-           val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+           val := set_team(Critter,TEAM_PLAYER);
 //           critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
            give_money(Critter,random(5,20));
-           anim(Critter,ANIMATE_ROTATION,1);
+           obj_rotate(Critter,1);
        end
 
    end
@@ -641,9 +641,9 @@ procedure Build_Caravan_Team begin
        Brahmin_Tile:=tile_num_in_direction(Brahmin_Tile,random(0,5),random(2,5));
        Critter:=create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ECCRTBRA);
        critter_attempt_placement(Critter,Brahmin_Tile,0);
-       val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+       val := set_team(Critter,TEAM_PLAYER);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
-       anim(Critter,ANIMATE_ROTATION,random(0,5));
+       obj_rotate(Critter,random(0,5));
 
    end
 
@@ -706,10 +706,10 @@ procedure Build_Caravan_Team begin
 
        Driver_Tile:=tile_num_in_direction(Driver_Tile,1,3);
        critter_attempt_placement(Critter,Driver_Tile,0);
-       val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+       val := set_team(Critter,TEAM_PLAYER);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
        give_money(Critter,random(5,20));
-       anim(Critter,ANIMATE_ROTATION,random(0,5));
+       obj_rotate(Critter,random(0,5));
 
    end
 
@@ -804,9 +804,9 @@ procedure Build_Caravan_Team begin
        Critter_Tile:=tile_num_in_direction(Critter_Tile,random(0,5),random(2,4));
        critter_attempt_placement(Critter,Critter_Tile,0);
        give_money(Critter,random(10,20));
-       val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+       val := set_team(Critter,TEAM_PLAYER);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
-       anim(Critter,ANIMATE_ROTATION,dude_cur_rot);
+       obj_rotate(Critter,dude_cur_rot);
        add_obj_to_inven(Critter,item);
        wield_obj_critter(Critter,item);
 
@@ -828,7 +828,7 @@ procedure Add_Mysterious_Stranger begin
    Die_Roll:=random(0,99);
    Stranger_Chance:=30 + (2 * dude_luck);
 
-   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (Die_Roll < Stranger_Chance) and ((has_trait(TRAIT_PERK,dude_obj,PERK_mysterious_stranger)))) then begin
+   if ((map_first_run) and (not(get_stranger_flag(STRANGER_DEAD))) and (Die_Roll < Stranger_Chance) and ((dude_perk(PERK_mysterious_stranger)))) then begin
        if (not(get_stranger_flag(STRANGER_GENDER))) then begin
            set_stranger_flag(STRANGER_GENDER);
            if (random(0,99) < 50) then
@@ -838,12 +838,12 @@ procedure Add_Mysterious_Stranger begin
            Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_FEMALE,0,0,SCRIPT_ECMSTSTR);
        else
            Critter:=create_object_sid(PID_MYSTERIOUS_STRANGER_MALE,0,0,SCRIPT_ECMSTSTR);
-       Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),random(0,5),random(5,10));
-       critter_attempt_placement(Critter,Critter_Tile,elevation(dude_obj));
-       val := critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+       Critter_Tile:=tile_num_in_direction(dude_tile,random(0,5),random(5,10));
+       critter_attempt_placement(Critter,Critter_Tile,dude_elevation);
+       val := set_team(Critter,TEAM_PLAYER);
 //       critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
        give_money(Critter,random(30,60));
-       anim(Critter,ANIMATE_ROTATION,dude_cur_rot);
+       obj_rotate(Critter,dude_cur_rot);
    end
 end
 
@@ -3388,7 +3388,7 @@ procedure Brok_Rogues begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    if (Critter_Total < 1) then
@@ -3442,7 +3442,7 @@ procedure Red_Wolves begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/1;
    Critter_Counter:=0;
@@ -3462,7 +3462,7 @@ procedure DMRV_Scorpions begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/1;
    Critter_Counter:=0;
@@ -3482,7 +3482,7 @@ procedure ARRO_Spore_Plants begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/1;
    Critter_Counter:=0;
@@ -3503,7 +3503,7 @@ procedure Brok_Unity_Patrol begin
    variable item;
    variable item2;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -3567,7 +3567,7 @@ procedure VPat_Strong_Slavers begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -3628,7 +3628,7 @@ procedure DVMV_Wild_Dogs begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/1;
    Critter_Counter:=0;
@@ -3648,7 +3648,7 @@ procedure DMRV_Golden_Geckos begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*7)/10;
    Critter_Counter:=0;
@@ -3678,7 +3678,7 @@ procedure VPat_Patrol begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -3736,7 +3736,7 @@ procedure RDRC_Raiders begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -3790,7 +3790,7 @@ procedure DNRV_Vault_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18);
 
    call Build_Grey_Caravan;
 
@@ -3845,7 +3845,7 @@ procedure RDRC_Broken_Hills_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //new addition - april 2006 - killap (was 14)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //new addition - april 2006 - killap (was 14)
 
    call Build_Grey_Caravan;
 
@@ -3880,7 +3880,7 @@ procedure RDRC_Gecko_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //new addition - april 2006 - killap (was 13)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //new addition - april 2006 - killap (was 13)
 
    call Build_Grey_Caravan;
 
@@ -3915,7 +3915,7 @@ procedure NCR_Marauders begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -3970,7 +3970,7 @@ procedure DNRV_Redding_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //new addition - april 2006 - killap (was 13)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //new addition - april 2006 - killap (was 13)
 
    call Build_Grey_Caravan;
 
@@ -4025,7 +4025,7 @@ procedure DNRV_Reno_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,random(18,20)); //new addition - april 2006 - killap (was 13,16)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,random(18,20)); //new addition - april 2006 - killap (was 13,16)
 
    call Build_Grey_Caravan;
 
@@ -4082,7 +4082,7 @@ procedure NCR_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
 
    call Build_Grey_Caravan;
 
@@ -4137,7 +4137,7 @@ procedure V15_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
 
    call Build_Grey_Caravan;
 
@@ -4192,7 +4192,7 @@ procedure New_Traveler begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    if (random(0,99) < 50) then begin
        Create_Enemy(PID_FEMALE_HOMESTEADER,PID_COMBAT_KNIFE,SCRIPT_ECTRVLR);
@@ -4211,7 +4211,7 @@ procedure NCR_Masters_Army begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -4263,7 +4263,7 @@ procedure NCR_Rangers begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -4313,7 +4313,7 @@ procedure KLA_Farmers begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*2)/3;
    Critter_Counter:=0;
@@ -4355,7 +4355,7 @@ procedure DNRV_Den_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
 
    call Build_Grey_Caravan;
 
@@ -4413,7 +4413,7 @@ procedure DVMV_Highwaymen begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*3)/10;
    Critter_Counter:=0;
@@ -4479,7 +4479,7 @@ procedure DVMV_Robbers begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*2)/5;
    Critter_Counter:=0;
@@ -4543,7 +4543,7 @@ procedure DMRV_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //new addition - april 2006 - killap (was dude_perception*2)
 
    Create_Enemy(PID_MALE_SLAVER,PID_HUNTING_RIFLE,SCRIPT_ECMSTDEN);
    give_money(Critter,random(20,40));
@@ -4588,7 +4588,7 @@ procedure DMRV_Highwaymen begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Create_Enemy(PID_TOUGH_THUG_MALE,PID_HUNTING_RIFLE,SCRIPT_ECHIWYMN);
    give_money(Critter,random(40,70));
@@ -4658,7 +4658,7 @@ procedure DMRV_Robbers begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Create_Enemy(PID_TOUGH_THUG_FEMALE,PID_HUNTING_RIFLE,SCRIPT_ECROBBER);
    give_money(Critter,random(20,40));
@@ -4722,7 +4722,7 @@ procedure DVMV_Mantis_Swarm begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter;
    Critter_Counter:=0;
@@ -4742,7 +4742,7 @@ procedure DVMV_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //april 2006 edit by killap (was dude_perception*2)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //april 2006 edit by killap (was dude_perception*2)
 
    call Build_Grey_Caravan;
 
@@ -4787,7 +4787,7 @@ procedure Red_Claim_Jumper begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -4841,7 +4841,7 @@ procedure Red_Prospector begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -4892,7 +4892,7 @@ procedure Red_Trappers begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -4942,7 +4942,7 @@ procedure Red_Homesteaders begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -4990,7 +4990,7 @@ procedure Red_Bootlegger begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -5040,7 +5040,7 @@ procedure EPA_Deathclaws begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*6)/10;
    Critter_Counter:=0;
@@ -5080,7 +5080,7 @@ procedure EPA_Fire_Geckos begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter;
    Critter_Counter:=0;
@@ -5100,7 +5100,7 @@ procedure Fran2_San_Fran_Caravan begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,18); //april 2006 killap - (was dude_perception*2)
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,18); //april 2006 killap - (was dude_perception*2)
 
    call Build_Grey_Caravan;
 
@@ -5155,7 +5155,7 @@ procedure EPA_Special_Alien begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -5185,7 +5185,7 @@ procedure EPA_Floater_Centaurs begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/5;
    Critter_Counter:=0;
@@ -5235,7 +5235,7 @@ procedure EPA_Special_Fire_Geckos begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*9)/20;
    Critter_Counter:=0;
@@ -5265,7 +5265,7 @@ procedure EPA_Alien begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter;
    Critter_Counter:=0;
@@ -5285,7 +5285,7 @@ procedure EPA_Centaurs begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*2)/5;
    Critter_Counter:=0;
@@ -5315,7 +5315,7 @@ procedure EPA_Floaters begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*2)/5;
    Critter_Counter:=0;
@@ -5345,7 +5345,7 @@ procedure New_Yakuza begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/2;
    Critter_Counter:=0;
@@ -5377,7 +5377,7 @@ procedure New_Gang begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/4;
    Critter_Counter:=0;
@@ -5431,7 +5431,7 @@ procedure New_Mobsters begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=Encounter_Counter/2;
    Critter_Counter:=0;
@@ -5463,7 +5463,7 @@ procedure Klad_Mole_Pig_Rat begin
    variable Critter_Tile;
    variable item;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,dude_perception*2);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,dude_perception*2);
 
    Critter_Total:=(Encounter_Counter*2)/5;
    Critter_Counter:=0;
@@ -5501,19 +5501,19 @@ procedure Build_Grey_Caravan begin
    //variable Critter;
    variable Critter_Tile;
 
-   Critter_Tile:=tile_num_in_direction(tile_num(dude_obj),Encounter_Rotation,20);
+   Critter_Tile:=tile_num_in_direction(dude_tile,Encounter_Rotation,20);
 
-   Create_EW_Grey_Caravan(Critter_Tile,elevation(dude_obj))
+   Create_EW_Grey_Caravan(Critter_Tile,dude_elevation)
 
    Brahmin_Tile:=tile_num_in_direction(Critter_Tile,0,1);
    Critter:=create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ECCRTBRA);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_CARAVAN); //added by killap
+   set_team(Critter,TEAM_CARAVAN); //added by killap
    critter_attempt_placement(Critter,Brahmin_Tile,0);
-   anim(Critter,ANIMATE_ROTATION,1);
+   obj_rotate(Critter,1);
 
    Brahmin_Tile:=tile_num_in_direction(Critter_Tile,2,2);
    Critter:=create_object_sid(PID_BRAHMIN,0,0,SCRIPT_ECCRTBRA);
-   critter_add_trait(Critter,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_CARAVAN); //added by killap
+   set_team(Critter,TEAM_CARAVAN); //added by killap
    critter_attempt_placement(Critter,Brahmin_Tile,0);
-   anim(Critter,ANIMATE_ROTATION,1);
+   obj_rotate(Critter,1);
 end

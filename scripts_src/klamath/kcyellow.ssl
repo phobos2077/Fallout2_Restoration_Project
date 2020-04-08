@@ -36,7 +36,7 @@
 
 #define NAME                    SCRIPT_KCYELLOW
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_KLAMATH)
-#define floater(x)		float_msg(self_obj, message_str(NAME,x),FLOAT_MSG_GREEN) //edit by killap - was "_RED"
+#define floater(x)		float_msg(self_obj, mstr(x),FLOAT_MSG_GREEN) //edit by killap - was "_RED"
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
@@ -112,8 +112,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DOG);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_GENERIC_DOG);
+   set_self_team(TEAM_DOG);
+   set_self_ai(AI_GENERIC_DOG);
 end
 
 
@@ -126,7 +126,7 @@ procedure critter_p_proc begin
    actions need to be taken by the critter based on previous combat, the critter will remember
    this as well. */
 
-   if ((local_var(LVAR_Hostile) == 2) and (obj_can_see_obj(self_obj,dude_obj))) then begin
+   if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
    end
@@ -135,11 +135,11 @@ procedure critter_p_proc begin
        add_timer_event(self_obj,game_ticks(random(6,21)),1);
    end
    else if (local_var(LVAR_Befriend_YellowDog) == 1) then begin
-     dtile:=tile_num(dude_obj);
-     mytile:=tile_num(self_obj);
+     dtile:=dude_tile;
+     mytile:=self_tile;
      if (tile_distance(mytile,dtile) > 6) then begin
         newtile:=tile_num_in_direction(dtile,random(0,5),1);
-        animate_run_to_tile(newtile);
+        self_run_to_tile(newtile);
      end
   end//follow
 
@@ -148,7 +148,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       animate_run_to_tile(tile_num_in_direction(tile_num(self_obj),random(0,5),random(3,7)));
+       self_run_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,7)));
        In_Timed_Event:=0;
    end
 end
@@ -244,8 +244,8 @@ end
 
 procedure Node920 begin
 //if player has drymeat subtract one piece and goto 2, else 3
-   if (obj_is_carrying_obj_pid(dude_obj, PID_MEAT_JERKY)) then begin
-      meat:=obj_carrying_pid_obj(dude_obj, PID_MEAT_JERKY);
+   if (dude_item_count(PID_MEAT_JERKY)) then begin
+      meat:=dude_item(PID_MEAT_JERKY);
       rm_obj_from_inven(dude_obj,meat);
       destroy_object(meat); //added by killap
       call Node002;
@@ -256,7 +256,7 @@ procedure Node920 begin
 end
 
 procedure Node995 begin
-   if (get_critter_stat(dude_obj,STAT_ch) >= 7) then begin
+   if (dude_charisma >= 7) then begin
        TopReact;
    end
    else begin
@@ -290,7 +290,7 @@ procedure Node001 begin
 
    NLowOption(111,Node004);
    NOption(112,Node910,004);
-   if (obj_is_carrying_obj_pid(dude_obj, PID_MEAT_JERKY)) then begin
+   if (dude_item_count(PID_MEAT_JERKY)) then begin
    //if ( (has_skill(dude_obj, SKILL_OUTDOORSMAN) > 24) or (is_success(do_check(dude_obj,STAT_ch,0))) ) then
       NOption(113,Node004,004);
    //if (has_skill(dude_obj, SKILL_OUTDOORSMAN) > 50) then
@@ -302,7 +302,7 @@ procedure Node002 begin
    ndebug("Node002");
    set_local_var(LVAR_Befriend_YellowDog, 1);
    KC_REP_ADJUST(3)
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_PLAYER);
+   set_self_team(TEAM_PLAYER);
   // if (is_success(do_check(dude_obj,STAT_pe,0))) then begin
       item:=create_object(PID_TRAPPER_TOWN_KEY,0,0);
       add_obj_to_inven(dude_obj,item);

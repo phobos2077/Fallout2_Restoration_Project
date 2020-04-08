@@ -66,7 +66,7 @@ end
 procedure timed_event_p_proc begin
    if (global_var(GVAR_DEN_ORPHANAGE) >= 6) then begin
       if (fixed_param == 3) then begin
-         animate_run_to_tile(tile_num_in_direction(self_tile, random(1,5), random(4, 7)));
+         self_run_to_tile(tile_num_in_direction(self_tile, random(1,5), random(4, 7)));
          add_timer_event(self_obj,game_ticks(random(30,45)),3);
       end
    end
@@ -93,7 +93,7 @@ end
 
 procedure description_p_proc begin
    script_overrides;
-   display_msg(mstr((101 + (critter_is_female))));
+   display_msg(mstr((101 + (self_is_female))));
 end
 
 
@@ -141,7 +141,7 @@ end
 procedure map_enter_p_proc begin
    add_timer_event(self_obj,random(150,250),3);
 
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_PEASANT);
+   set_self_team(TEAM_DEN_PEASANT);
 end
 
 

@@ -118,8 +118,8 @@ procedure map_enter_p_proc begin
       if (map_first_run) then begin
          set_local_var(LVAR_Home_Tile,self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_DEN_HOLE);
-         critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_TOUGH_MERCHANT);
+         set_self_team(TEAM_DEN_HOLE);
+         set_self_ai(AI_TOUGH_MERCHANT);
       end
       critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), 0);
    end
@@ -129,9 +129,9 @@ procedure critter_p_proc begin
    if ((self_can_see_dude) and (hostile)) then begin
       self_attack_dude;
    end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
-      animate_move_to_tile(local_var(LVAR_Home_Tile));
+      self_walk_to_tile(local_var(LVAR_Home_Tile));
    end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
-      animate_rotation(local_var(LVAR_Home_Rotation));
+      self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
 
@@ -202,8 +202,8 @@ variable whiskey_bottle;
    // if player has money, take it and give him whiskey and goto 5
    //    else goto 6
    if (dude_caps >= whiskey_cost) then begin
-      item_caps_adjust(self_obj,whiskey_cost);
-      item_caps_adjust(dude_obj,-whiskey_cost);
+      self_caps_adjust(whiskey_cost);
+      dude_caps_adjust(-whiskey_cost);
       use_obj_on_obj(create_object(PID_BOOZE,0,0), dude_obj);
       call Node005;
    end else begin
@@ -229,7 +229,7 @@ procedure Node992 begin
 end
 procedure Node991 begin
    // roll speech: success goto 19, else 18
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       call Node019;
    end else begin
       if (still_quest(state_still_quest_finished) == false) then
@@ -375,7 +375,7 @@ end
 procedure Node013 begin
    den_display_mstr(400);
    give_xp(EXP_FIND_STILL_FOR_FRANKIE);
-   item_caps_adjust(dude_obj, find_still_money);
+   dude_caps_adjust(find_still_money);
    set_still_quest(state_still_quest_asked_to_destroy);
    Reply(201);
    if (still_broken) then begin
@@ -402,7 +402,7 @@ procedure Node014 begin
    end
 end
 procedure Node015 begin
-   item_caps_adjust(dude_obj, destroy_still_money);
+   dude_caps_adjust(destroy_still_money);
    den_display_mstr(500);
    give_xp(EXP_DESTROY_STILL_FOR_FRANKIE);
    inc_general_rep(REP_BONUS_DESTROY_BECKY_STILL);
@@ -507,7 +507,7 @@ procedure Node026 begin
    NOption(262,Node003,004);
 end
 procedure Node027 begin
-   if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,0))) then begin
+   if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,0))) then begin
       Reply(263);
       NOption(264,Node999,004);
    end else begin

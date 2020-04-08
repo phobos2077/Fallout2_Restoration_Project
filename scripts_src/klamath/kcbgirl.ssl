@@ -73,8 +73,8 @@ end
    default from the prototype, and needs to be set in scripts. */
 procedure map_enter_p_proc begin
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_KLAMATH);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_PEASANT);
+   set_self_team(TEAM_KLAMATH);
+   set_self_ai(AI_PEASANT);
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
@@ -82,13 +82,13 @@ end
 procedure critter_p_proc begin
    if (  ( (global_var(GVAR_ENEMY_KLAMATH) == 1)
         or (global_var(GVAR_BATH_HOUSE_REJECT) == 1)
-        or (local_var(LVAR_Personal_Enemy) == 1) ) and (obj_can_see_obj(self_obj,dude_obj)) ) then begin
+        or (local_var(LVAR_Personal_Enemy) == 1) ) and (self_can_see_dude) ) then begin
       self_attack_dude;
       //Flee_From_Dude
    end
 
 
-   else if ( (map_var(MVAR_Just_Had_Sex) == 1) and (tile_distance(tile_num(self_obj),tile_num(dude_obj)) < 3) ) then begin
+   else if ( (map_var(MVAR_Just_Had_Sex) == 1) and (tile_distance(self_tile,dude_tile) < 3) ) then begin
       set_map_var(MVAR_Just_Had_Sex,0);
       call rate_dude;
    end
@@ -161,7 +161,7 @@ end
 
 procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
-       if (tile_distance(tile_num(dude_obj),tile_num(self_obj)) < 3) then begin
+       if (tile_distance(dude_tile,self_tile) < 3) then begin
           call saysomething;
        end
        In_Timed_Event:=0;

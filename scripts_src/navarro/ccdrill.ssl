@@ -135,13 +135,13 @@ procedure map_enter_p_proc begin
    Setup_Rounds := 0;
    Force_Move := 0;
    Only_Once:=0;
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_TEAM_NUM,TEAM_NAVARRO);
-   critter_add_trait(self_obj,TRAIT_OBJECT,OBJECT_AI_PACKET,AI_NAV_GUARD);
+   set_self_team(TEAM_NAVARRO);
+   set_self_ai(AI_NAV_GUARD);
 
    // Set up the Drill Sargeant's rounds
    rm_timer_event( self_obj );
    if( local_var( LVAR_Guard_Duty ) == 1 ) then begin
-      animate_move_to_tile( local_var( LVAR_Dest_Tile ) );
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
       if( local_var( LVAR_Rounds_State ) >= 7 ) then
          set_local_var( LVAR_Rounds_State, 0 );
       else
@@ -186,21 +186,21 @@ procedure timed_event_p_proc begin
          set_local_var( LVAR_Dest_Rot, ROUNDS7_ROT);
       end
 
-      animate_move_to_tile( local_var( LVAR_Dest_Tile ) );
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
    end
 end
 
 procedure critter_p_proc begin
    // Rotate the Sarge and do a floater if in position.
    if( ( local_var( LVAR_Guard_Duty ) == 1 ) and
-       ( tile_num( self_obj ) == local_var( LVAR_Dest_Tile ) ) and
+       ( self_tile == local_var( LVAR_Dest_Tile ) ) and
        ( self_cur_rot != local_var( LVAR_Dest_Rot ) ) and
        ( anim_busy(self_obj) == false ) ) then begin
       // Only float something at the player's position if
       // he's in the area.
       if( local_var( LVAR_Rounds_State ) == 4 ) then begin
-         if( tile_distance( GUARD_POST, tile_num( dude_obj ) ) > 10 ) then begin
-            anim( self_obj, ANIMATE_ROTATION, local_var( LVAR_Dest_Rot ) );
+         if( tile_distance( GUARD_POST, dude_tile ) > 10 ) then begin
+            self_rotate( local_var( LVAR_Dest_Rot ));
             floater(169);
          end
          else begin
@@ -209,7 +209,7 @@ procedure critter_p_proc begin
          end
       end
       else begin
-         anim( self_obj, ANIMATE_ROTATION, local_var( LVAR_Dest_Rot ) );
+         self_rotate( local_var( LVAR_Dest_Rot ));
          call SpawnResponse;
          call Node020;
       end
@@ -222,14 +222,14 @@ procedure critter_p_proc begin
       add_timer_event( self_obj, game_ticks(6), 0 );
    end
    else if( ( local_var( LVAR_Guard_Duty ) == 1 ) and
-            ( tile_num( self_obj ) != local_var( LVAR_Dest_Tile ) ) and
+            ( self_tile != local_var( LVAR_Dest_Tile ) ) and
             ( anim_busy(self_obj) == false ) ) then begin
       // Dornan has stopped walking, potentiall because you had dialog with
       // someone else. Start 'im up again.
-      animate_move_to_tile( local_var( LVAR_Dest_Tile ) );
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
    end
 
-   if (obj_can_see_obj(self_obj,dude_obj)) then begin
+   if (self_can_see_dude) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);
@@ -246,7 +246,7 @@ procedure critter_p_proc begin
       else if( not_alone ) then begin
          call Node021;
       end
-      else if( ( tile_distance( GUARD_POST, tile_num( dude_obj ) ) > 10 ) and ( local_var( LVAR_Guard_Duty ) == 1 ) ) then begin
+      else if( ( tile_distance( GUARD_POST, dude_tile ) > 10 ) and ( local_var( LVAR_Guard_Duty ) == 1 ) ) then begin
          dialogue_system_enter;
       end
    end
@@ -301,7 +301,7 @@ procedure talk_p_proc begin
    end
    // Set up NOT AT POST
    else if( ( local_var( LVAR_Guard_Duty ) == 1 ) and
-            ( tile_distance( GUARD_POST, tile_num( dude_obj ) ) > 10 ) ) then begin
+            ( tile_distance( GUARD_POST, dude_tile ) > 10 ) ) then begin
       start_drill_dialog(Node015);
    end
    else if( local_var( LVAR_Guard_Duty ) == 1 ) then begin
@@ -341,9 +341,9 @@ procedure talk_p_proc begin
       Move_Player := 0;
       gfade_out(600);
       set_local_var( LVAR_Guard_Duty, 1 );
-      move_to(dude_obj,GUARD_POST,elevation(dude_obj));
-      critter_attempt_placement(dude_obj,GUARD_POST,elevation(dude_obj));
-      anim( dude_obj, ANIMATE_ROTATION, 2 );
+      move_to(dude_obj,GUARD_POST,dude_elevation);
+      critter_attempt_placement(dude_obj,GUARD_POST,dude_elevation);
+      dude_rotate( 2);
       gfade_in(600);
    end
 
@@ -358,7 +358,7 @@ procedure talk_p_proc begin
       // after talking to you.
       Force_Move := 0;
       rm_timer_event( self_obj );
-      animate_move_to_tile( local_var( LVAR_Dest_Tile ) );
+      self_walk_to_tile(local_var( LVAR_Dest_Tile ));
       if( local_var( LVAR_Rounds_State ) >= 7 ) then
          set_local_var( LVAR_Rounds_State, 0 );
       else
