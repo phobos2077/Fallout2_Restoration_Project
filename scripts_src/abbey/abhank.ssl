@@ -49,10 +49,6 @@ procedure Node997;
 procedure Node998;
 procedure Node999;
 
-/*****************************************************************
-   Local Variables which are saved. All Local Variables need to be
-   prepended by LVAR_
-*****************************************************************/
 #define LVAR_Flags                      (0)
 #define LVAR_borrow_light               (1)
 #define LVAR_Herebefore                 (2)
@@ -62,28 +58,6 @@ procedure Node999;
 #define LVAR_Personal_Enemy             (6)
 #define LVAR_Said_Thanks                (7)
 
-/*******************************************************************
-   Imported variables from the Map scripts. These should only be
-   pointers and variables that need not be saved. If a variable
-   Needs to be saved, make it a map variable (MVAR_)
-*******************************************************************/
-
-/*******************************************************************
-   Local variables which do not need to be saved between map changes.
-*******************************************************************/
-variable drinks_this_conversation;
-
-/*******************************************************************
-*******                         PROCEDURES                   *******
-*******************************************************************/
-
-
-/*******************************************************************
-   The start procedure is the first procedure called when the map is
-   first entered. Any initial information that needs to be set up
-   should be placed in here.
-*******************************************************************/
-
 procedure start begin
 end
 
@@ -92,12 +66,6 @@ procedure timed_event_p_proc begin
       if (local_var(LVAR_borrow_light) == 0) then begin
          floater(random(300,302));
          add_timer_event(self_obj,random(75,100),3);
-      end
-   end else if (fixed_param == 999) then begin
-      if (drinks_this_conversation > 0) then begin
-         drinks_this_conversation -= 1;
-         use_obj_on_obj(create_object(PID_ABBEY_BOOZE,0,0), dude_obj);
-         flush_add_timer_event_sec(self_obj, 1, 999);
       end
    end
 end
@@ -176,11 +144,11 @@ procedure map_update_p_proc begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
+   if (global_var(GVAR_TOWN_REP_ABBEY) == -30) and self_can_see_dude then begin
       attack(dude_obj);
-   end else if (self_tile != local_var(LVAR_Home_Tile) and drinks_this_conversation == 0) then begin
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
       self_walk_to_tile(local_var(LVAR_Home_Tile));
-   end else if (self_cur_rot != local_var(LVAR_Home_Rotation) and drinks_this_conversation == 0) then begin
+   end else if self_cur_rot != local_var(LVAR_Home_Rotation) then begin
       self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
@@ -190,16 +158,12 @@ end
 **************************************************************************************/
 
 procedure talk_p_proc begin
-   //if (local_var(LVAR_borrow_light) == 3) then begin
-   //   call Node008;
    if (global_var(GVAR_ABBEY_LIGHTER) < 3) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_start;
          call Node001;
       gSay_end;
       end_dialogue;
-   //end else begin
-   //   floater(random(300,304));
    end else begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_start;
@@ -252,10 +216,10 @@ procedure Node005 begin
    if (global_var(GVAR_ABBEY_BOOZE) == 0) then
       set_global_var(GVAR_ABBEY_BOOZE,1);
 
-   inc_local_var( LVAR_Abbey_Alcohol );
-   drinks_this_conversation += 1;
+   inc_local_var(LVAR_Abbey_Alcohol);
+   call create_and_use_itempid_on(dude_obj, PID_ABBEY_BOOZE);
 
-   if( (local_var( LVAR_Abbey_Alcohol ) > 3) and (dude_agility < 7) ) then begin
+   if( (local_var(LVAR_Abbey_Alcohol) > 3) and (dude_agility < 7) ) then begin
       call Node006;
    end else begin
       call Node004;
@@ -288,9 +252,6 @@ float_msg( dude_obj, mstr(400), FLOAT_MSG_GREEN);
 end
 
 procedure Node999 begin
-   if (drinks_this_conversation > 0) then begin
-      flush_add_timer_event_sec(self_obj, 0, 999);
-   end
 end
 
 procedure Node998 begin
