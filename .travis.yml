@@ -35,6 +35,7 @@ env:
     - appearance_dir: appearance
     - appearance_repo: BGforgeNet/Fallout2_Hero_Appearance
     - party_orders_repo: BGforgeNet/Fallout2_Party_Orders
+    - hq_music_repo: BGforgeNet/Fallout2-HQ-music
     - release_dir: release
     - mods_dir: release/mods
     - mpack_7z: mpack.7z

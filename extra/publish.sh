@@ -40,6 +40,9 @@ cd ..
 # party orders
 ./"$extra_dir"/publish/party_orders.sh
 
+# hq music
+./"$extra_dir"/publish/hq_music.sh
+
 # sfall
 ./"$extra_dir"/publish/sfall.sh
 
