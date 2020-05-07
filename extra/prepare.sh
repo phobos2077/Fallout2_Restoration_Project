@@ -10,10 +10,6 @@ mpack_url="https://sourceforge.net/projects/sfall/files/Modders%20pack/$mpack_fi
 compile_exe="compile.exe"
 mpack_compile="ScriptEditor/resources/$compile_exe"
 
-sfse_url="http://www.nma-fallout.com/resources/sfall-script-editor.77/download?version=181"
-sfse_file="sfse.rar"
-sfse_dir="Fallout sFall Script Editor/Resources"
-
 # directories
 cache_dir="$HOME/.cache/build"
 bin_dir="$(realpath extra/bin)"

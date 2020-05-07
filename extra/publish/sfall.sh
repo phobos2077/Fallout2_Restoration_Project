@@ -2,8 +2,6 @@
 
 set -xeu -o pipefail
 
-release_dir="$(realpath $release_dir)"
-extra_dir="$(realpath $extra_dir)"
 release_ini="$release_dir/ddraw.ini"
 custom_ini="$extra_dir/publish/ddraw.ini"
 
@@ -18,10 +16,9 @@ data/scripts/gl_partycontrol.int
 "
 
 wget -q "$sfall_url" -O sfall.7z
-
 for f in $files; do
   7zr e sfall.7z "$f"
-  mv "$(basename $f)" "$release_dir/"
+  mv "$f" "$release_dir/"
 done
 mv "$release_dir/sfall-mods.ini" "$release_dir/mods/"
 

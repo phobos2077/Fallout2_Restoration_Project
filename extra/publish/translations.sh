@@ -2,12 +2,6 @@
 
 set -xeu -o pipefail
 
-bin_dir="$(realpath $bin_dir)"
-dat2a="wine $bin_dir/dat2.exe a -1"
-trans_dir="translations"
-file_list="$(realpath file.list)"
-mods_dir="$(realpath $mods_dir)"
-release_dir="$(realpath release_dir)"
 lang_dir="data/text"
 
 # delete unnecessary files
@@ -30,11 +24,17 @@ done
 # package into dats
 cd "$trans_dir"
 for d in $(ls); do
-  dat="${mod_name}_${version}_$d.dat"
+  dat="${mod_name}_$d.dat"
   cd "$d"
   find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
   $dat2a "$dat" @"$file_list"
+  mv $dat ..
   cd ..
 done
 cd ..
-mv "$trans_dir"/*/*.dat .
+
+cp "$trans_dir"/${mod_name}_russian.dat ${mod_name}_russian_sound.dat # Russian includes speech, it's much larger than others, so published separately
+$dat2 d -r "$trans_dir"/${mod_name}_russian.dat 'sound\speech\*'
+$dat2 k "$trans_dir"/${mod_name}_russian.dat
+
+zip -r "${mod_name}_${vversion}_translations.zip" "$trans_dir"/*.dat # all translations, just text and graphics

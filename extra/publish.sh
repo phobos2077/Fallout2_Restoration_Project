@@ -2,20 +2,25 @@
 
 set -xeu -o pipefail
 
-bin_dir="$(realpath $bin_dir)"
-dat2a="wine $bin_dir/dat2.exe a -1"
-comp_dir="components"
-file_list="$(realpath file.list)"
-release_dir="$(realpath $release_dir)"
-mods_dir="$(realpath $mods_dir)"
+export comp_dir="components"
+export bin_dir="$(realpath $bin_dir)"
+export dat2="wine $bin_dir/dat2.exe"
+export dat2a="wine $bin_dir/dat2.exe a -1"
+export trans_dir="$(realpath translations)"
+export mods_dir="$(realpath $mods_dir)"
+export release_dir="$(realpath $release_dir)"
+export file_list="file.list"
 
 # release?
 if [ -n "$TRAVIS_TAG" ]; then # tag found: releasing
-  export version="$TRAVIS_TAG"
+  export version="$(echo $TRAVIS_TAG | tr -d 'v')" # numeric
+  export vversion="$TRAVIS_TAG"
+  export uversion="$(echo $TRAVIS_TAG | tr 'v' 'u')" # in-game
 else
-  export version="git$TRAVIS_COMMIT"
+  export version='0' # numeric
+  export vversion="git$TRAVIS_COMMIT"
+  export uversion="git$TRAVIS_COMMIT"
 fi
-export uversion="$(echo $version | tr 'v' 'u')" # for showing in-game
 
 # translations packaged first, to get extra text out of the way
 ./"$extra_dir"/publish/translations.sh
@@ -58,6 +63,9 @@ cd ..
 # final package
 pushd .
 cd "$release_dir"
-zip -r "${mod_name}_${version}.zip" * # our package
+zip -r "${mod_name}_${vversion}.zip" * # our package
 popd
-mv "$release_dir/${mod_name}_${version}.zip" .
+mv "$release_dir/${mod_name}_${vversion}.zip" .
+
+# exe installer
+./"$extra_dir"/publish/inno.sh

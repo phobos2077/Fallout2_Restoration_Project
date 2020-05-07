@@ -1,10 +1,13 @@
-language: minimal
+language: java
 dist: bionic
 sudo: false
 
 cache:
   directories:
     - $HOME/.cache/build
+
+services:
+  - xvfb
 
 addons:
   apt:
@@ -20,6 +23,10 @@ addons:
 
 before_install:
   - ./extra/prepare.sh
+  - wineboot
+
+after_success:
+  - wineserver -k
 
 script:
   - ./extra/buildall.sh
@@ -37,6 +44,7 @@ env:
     - party_orders_repo: BGforgeNet/Fallout2_Party_Orders
     - hq_music_repo: BGforgeNet/Fallout2-HQ-music
     - release_dir: release
+    - trans_dir: translations
     - mods_dir: release/mods
     - mpack_7z: mpack.7z
     - WINEARCH: win32
@@ -49,6 +57,7 @@ deploy:
   file:
     - rpu*.zip
     - rpu*.dat
+    - rpu*.exe
   skip_cleanup: true
   on:
     tags: true
