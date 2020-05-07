@@ -18,7 +18,7 @@ data/scripts/gl_partycontrol.int
 wget -q "$sfall_url" -O sfall.7z
 for f in $files; do
   7zr e sfall.7z "$f"
-  mv "$f" "$release_dir/"
+  mv "$(basename $f)" "$release_dir/"
 done
 mv "$release_dir/sfall-mods.ini" "$release_dir/mods/"
 
