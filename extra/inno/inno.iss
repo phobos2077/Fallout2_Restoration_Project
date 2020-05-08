@@ -47,7 +47,7 @@ Name: "{app}\{#backup_dir}"
 Filename: "{app}\rpu-install.bat"; Parameters: "> {#backup_dir}\log.txt 2>&1"; WorkingDir: "{app}"; Description: "install script";
 
 [Components]
-Name: "core"; Description: "All the fixes"; Types: "custom"; Flags: fixed;
+Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
 Name: "translation"; Description: "Language"; Types: "custom";
 Name: "translation\english"; Description: "English"; Flags: exclusive disablenouninstallwarning;
 Name: "translation\czech"; Description: "Czech"; Flags: exclusive disablenouninstallwarning;
