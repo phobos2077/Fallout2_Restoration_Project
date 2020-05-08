@@ -74,7 +74,7 @@
 {172}{}{El Proyecto al que el Enclave se ha dedicado durante las últimas décadas ha sido el restablecimiento de la raza humana, empezando por Estados Unidos. Dios bendiga América.}
 {173}{}{No parece que hayan hecho falta décadas para planearlo.}
 {174}{}{Ya basta de ese tema. Déjame preguntarte algo más.}
-{175}{}{Oh, sólo establecer un puesto no llevaría tanto tiempo. Ya lo hemos hecho en Navarro. Pero ha llevado mucho tiempo concretar el procedimiento correcto para la erradicación.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{¿Proceso de erradicación?}
 {177}{}{Sí, claro, no podemos arriesgarnos a volver a tierra firme para terminar contaminados por los cuasi-humanos que la habitan. Con el fin de hacer a los Estados Unidos seguros para los auténticos humanos, en primer lugar todos los mutantes deben ser exterminados.}
 {178}{}{¡¿¡Qué!?! ¿Estás loco? ¡Eso es monstruoso!}
@@ -103,7 +103,7 @@
 {201}{}{De acuerdo, ahora sé donde lo encontrasteis, pero... ¿qué es lo que hace?}
 {202}{}{Inicialmente el virus V.E.F se diseñó para convertir a humanos en super-soldados. El experimento parece que fue un completo fracaso, aunque yo probé una modificación del virus en uno de nuestros agentes del Servicio Secreto, con cierto éxito.}
 {203}{}{Bien por ti pero, ¿qué tiene esto que ver con erradicar a todos?}
-{204}{}{Oh, sí, bueno, estaba llegando a ello… el virus V.E.F se adhiere a una especie de manera específica, y sólo se enlazará a glico-proteín humano. No me llevó más que unos pocos años hacer el virus más letal de lo que ya era antes. El resultado fue justo lo que buscaba, perfecto en todos los sentidos.}
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{¿Perfecto? ¿Cómo?}
 {206}{}{¿No es obvio, mi amigo mutante? El V.E.F es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
 {207}{}{¿Y?}

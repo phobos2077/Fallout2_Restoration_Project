@@ -198,7 +198,7 @@
 {248}{}{Todo el mundo quiere lo que Redding tiene. Pero algunas personas van a ser más agradables que otras en la
  forma de sacárnoslo. Deja que te explique la situación.}
 {249}{}{Adelante.}
-{250}{}{Ya he he oído más que suficiente de tu explicación. Adiós.}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{Te pagaré 1.000 dólares por el chip de excavación.}
 {252}{}{Eso me suena bien. ¿Dónde puedo encontrarlo?}
 {253}{}{Me suena bien. Aquí tienes el chip.}
@@ -216,7 +216,7 @@
  Y estoy dispuesto a pagar 1.000 dólares por él.}
 {264}{}{¿Dónde está?}
 {265}{}{Si lo necesitas tan desesperadamente, ¿cómo es que no has ido a por él tú mismo?}
-{266}{}{Estoy hasta arriba de misiones que hacer. Lo siento, amigo. Adiós.}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Por un montón de razones, casi todas ellas hambrientas y desagradables. La mina Wanamingo está hasta arriba de wanamingos
  hambrientos.}
 {268}{}{¿Qué demonios es un wana-min-lo que sea?}

@@ -202,7 +202,7 @@
 {248}{}{Alle wollen haben, was Redding zu bieten hat. Manche versuchen aber auf nettere Weise, es von uns zu
  bekommen. Laß mich die Situation erklären.}
 {249}{}{Leg los.}
-{250}{}{Mir reichen deine Erklärungen jetzt schon. Wiedersehn.}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{Ich zahle dir $1.000 für diesen Ausgrabungs-Chip.}
 {252}{}{Das hört sich gut an. Wo finde ich das Ding?}
 {253}{}{Hört sich gut an. Hier ist dein Chip.}
@@ -222,7 +222,7 @@
  Ich würde dir $1.000 dafür zahlen.}
 {264}{}{Wo ist er?}
 {265}{}{Wenn du ihn so dringend brauchst, warum hast du ihn dir dann noch nicht selbst geholt?}
-{266}{}{Ich stecke schon bis über beide Ohren in Suchen und Mutproben. Tut mir leid, mein Freund. Wiedersehn.}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Eine Menge Gründe und die meisten davon sind hungrig und unangenehm. Die Wanamingo-Mine ist vollgestopft mit hungrigen
  Wanamingos.}
 {268}{}{Was zum Teufel ist ein Wannen-Mingo?}
