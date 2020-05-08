@@ -12,6 +12,8 @@ move /y data %bdir%\
 move /y %bdir%\data\savegame data\
 move /y %bdir%\data\*.txt data\
 move /y %bdir%\data\*.gcd data\
+mkdir data\sound\music
+move /y %bdir%\data\sound\music\*.acm data\sound\music\
 move /y %bdir%\data\sound data\
 
 :: old appearance mod in directories
