@@ -37,4 +37,8 @@ cp "$trans_dir"/${mod_name}_russian.dat ${mod_name}_russian_sound.dat # Russian 
 $dat2 d -r "$trans_dir"/${mod_name}_russian.dat 'sound\speech\*'
 $dat2 k "$trans_dir"/${mod_name}_russian.dat
 
-zip -r "${mod_name}_${vversion}_translations.zip" "$trans_dir"/*.dat # all translations, just text and graphics
+pushd .
+cd "$trans_dir"
+zip -r "${mod_name}_${vversion}_translations.zip" *.dat # all translations, just text and graphics
+popd
+mv "$trans_dir/${mod_name}_${vversion}_translations.zip" .
