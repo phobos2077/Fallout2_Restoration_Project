@@ -6,9 +6,9 @@
 
 [__Download__](https://github.com/BGforgeNet/Fallout2_Restoration_Project/releases/latest)
 | [__Install__](#installation)
+| [__Included mods__](#included-mods)
 | [__Report issues__](#reporting-issues)
 | [__Translations__](#translations)
-| [__Included mods__](#included-mods)
 
 This is an updated version of [killap's Restoration Project](http://killap.net/) for Fallout 2.
 
@@ -55,12 +55,15 @@ RPU includes the following mods:
 - [Unofficial Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch)
 - [High quality music](https://github.com/BGforgeNet/Fallout2-HQ-music)
 - [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance)
-- [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor)
+- NPC armor
 - [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
 - Enhanced worldmap
 - Additional rifle and wakizashi animations
 - Improved Mysterious Stranger
 - Voice for Cassidy
+- High resolution patch.
+
+For additional QoL options, check out [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks).
 
 ### Reporting issues
 If you've found an issue:
