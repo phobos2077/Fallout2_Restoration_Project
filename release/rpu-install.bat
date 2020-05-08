@@ -41,4 +41,4 @@ del /s tmp.cfg initool.exe camlrt.dll
 move /y tmp2.cfg fallout2.cfg
 
 del /s rpu-install.sh rpu-install.bat rpu-install.command
-echo UPU installed. Backup is in %bdir%
+echo RPU installed. Backup is in %bdir%
