@@ -55,7 +55,7 @@ RPU includes the following mods:
 - [Unofficial Patch](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch)
 - [High quality music](https://github.com/BGforgeNet/Fallout2-HQ-music)
 - [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance)
-- NPC armor
+- [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor)
 - [Party Orders](https://github.com/BGforgeNet/Fallout2_Party_Orders)
 - Enhanced worldmap
 - Additional rifle and wakizashi animations
