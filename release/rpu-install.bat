@@ -26,7 +26,7 @@ for %%a in (%appearances%) do (
 )
 
 :: sfall scripts
-mkdir data\scripts
+mkdir %scripts_dir%
 move gl_ammomod.int %scripts_dir%\
 move gl_highlighting.int %scripts_dir%\
 move gl_npcarmor.int %scripts_dir%\
