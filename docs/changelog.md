@@ -21,7 +21,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 1](#version-1)
 
 ### Version 14
-Fixed auto installer not allowing to select a directory.
+Fixed auto installer not allowing to select a directory in some cases.
 
 ### Version 13
 - Multiple fixes and updates from [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch).
