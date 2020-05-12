@@ -5,6 +5,7 @@ This file lists changes for RPU only. See original RP changelog [here](rp-change
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 14](#version-14)
 - [Version 13](#version-13)
 - [Version 12](#version-12)
 - [Version 11](#version-11)
@@ -18,6 +19,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 14
+Fixed auto installer not allowing to select a directory.
 
 ### Version 13
 - Multiple fixes and updates from [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch).
