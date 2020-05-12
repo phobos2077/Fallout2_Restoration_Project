@@ -22,6 +22,7 @@ InfoBeforeFile=before.rtf
 SetupIconFile=nuclear.ico
 DisableDirPage=no
 UsePreviousAppDir=no
+AlwaysShowDirOnReadyPage=yes
 
 [Files]
 Source: "..\..\release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
