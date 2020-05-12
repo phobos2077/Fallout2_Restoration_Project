@@ -20,7 +20,6 @@ DirExistsWarning=no
 Uninstallable=no
 InfoBeforeFile=before.rtf
 SetupIconFile=nuclear.ico
-CreateAppDir=no
 DisableDirPage=no
 UsePreviousAppDir=no
 
