@@ -3,11 +3,8 @@
 set -xeu -o pipefail
 
 release_dir="$(realpath $release_dir)"
-scripts_dir="$release_dir/data/scripts"
 
-mkdir -p "$scripts_dir"
-for f in gl_npcarmor.int npcarmor.ini; do
-  7zr e "$mpack_7z" mods/$f
-done
-mv gl_npcarmor.int "$release_dir/"
-mv npcarmor.ini "$release_dir/mods"
+cd "$release_dir"
+wget -q "$(curl -s https://api.github.com/repos/${npc_armor_repo}/releases/latest | grep browser_download_url | awk -F '"' '{print $4}')"
+unzip npc_armor*.zip "mods/*"
+rm -f npc_armor*.zip
