@@ -5,6 +5,8 @@ compile.exe*
 *.err
 *.tmp
 *.log
+*.exe
 extra/bin/*
 !extra/bin/dat2.exe
 scripts_src/sfall
+translations/*.dat
