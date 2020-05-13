@@ -1,5 +1,6 @@
+#define basename "rpu"
 #define install_dir "C:\Games\Fallout2"
-#define backup_dir "backup\rpu"
+#define backup_dir "backup\" + basename
 #define mods_dir "{app}\mods"
 #define uversion "u0"
 #define vversion "v0"
@@ -14,7 +15,7 @@ AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
 AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Restoration_Project
 DefaultDirName={#install_dir}
 DisableProgramGroupPage=yes
-OutputBaseFilename=rpu_{#vversion}
+OutputBaseFilename={#basename}_{#vversion}
 Compression=lzma
 DirExistsWarning=no
 Uninstallable=no
@@ -26,13 +27,13 @@ AlwaysShowDirOnReadyPage=yes
 
 [Files]
 Source: "..\..\release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
-Source: "..\..\translations\rpu_czech.dat"; DestDir: "{#mods_dir}"; Components: translation\czech; Flags: ignoreversion overwritereadonly
-Source: "..\..\translations\rpu_french.dat"; DestDir: "{#mods_dir}"; Components: translation\french; Flags: ignoreversion overwritereadonly
-Source: "..\..\translations\rpu_german.dat"; DestDir: "{#mods_dir}"; Components: translation\german; Flags: ignoreversion overwritereadonly
-Source: "..\..\translations\rpu_polish.dat"; DestDir: "{#mods_dir}"; Components: translation\polish; Flags: ignoreversion overwritereadonly
-Source: "..\..\translations\rpu_portuguese.dat"; DestDir: "{#mods_dir}"; Components: translation\portuguese; Flags: ignoreversion overwritereadonly
-Source: "..\..\translations\rpu_russian.dat"; DestDir: "{#mods_dir}"; Components: translation\russian; Flags: ignoreversion overwritereadonly
-Source: "..\..\translations\rpu_spanish.dat"; DestDir: "{#mods_dir}"; Components: translation\spanish; Flags: ignoreversion overwritereadonly
+Source: "..\..\translations\{#basename}_czech.dat"; DestDir: "{#mods_dir}"; Components: translation\czech; Flags: ignoreversion overwritereadonly
+Source: "..\..\translations\{#basename}_french.dat"; DestDir: "{#mods_dir}"; Components: translation\french; Flags: ignoreversion overwritereadonly
+Source: "..\..\translations\{#basename}_german.dat"; DestDir: "{#mods_dir}"; Components: translation\german; Flags: ignoreversion overwritereadonly
+Source: "..\..\translations\{#basename}_polish.dat"; DestDir: "{#mods_dir}"; Components: translation\polish; Flags: ignoreversion overwritereadonly
+Source: "..\..\translations\{#basename}_portuguese.dat"; DestDir: "{#mods_dir}"; Components: translation\portuguese; Flags: ignoreversion overwritereadonly
+Source: "..\..\translations\{#basename}_russian.dat"; DestDir: "{#mods_dir}"; Components: translation\russian; Flags: ignoreversion overwritereadonly
+Source: "..\..\translations\{#basename}_spanish.dat"; DestDir: "{#mods_dir}"; Components: translation\spanish; Flags: ignoreversion overwritereadonly
 
 [INI]
 FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "czech";  Components: translation\czech;
@@ -47,7 +48,7 @@ FileName: "{app}\fallout2.cfg"; Section: "system"; Key: "language"; String: "spa
 Name: "{app}\{#backup_dir}"
 
 [Run]
-Filename: "{app}\rpu-install.bat"; Parameters: "> {#backup_dir}\log.txt 2>&1"; WorkingDir: "{app}"; Description: "install script";
+Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 2>&1"; WorkingDir: "{app}"; Description: "install script";
 
 [Components]
 Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
