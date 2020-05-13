@@ -20,6 +20,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
+### Version 15
+- Separated [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor) mod.
+
 ### Version 14
 - Fixed auto installer not allowing to select a directory in some cases.
 - Fixed `AllowSoundForFloats` placement in `ddraw.ini`
