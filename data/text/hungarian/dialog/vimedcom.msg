@@ -1,0 +1,71 @@
+{100}{}{A terminál véletlenszerûen fel-le mozgó, világító, zöld oszlopokat mutat.}
+{101}{}{Ez Menedékváros orvosi terminálja.}
+{102}{}{A terminál véletlenszerûen fel-le mozgó, világító, zöld oszlopokat mutat.}
+{103}{}{Kicsit tudományosabb megközelítéssel sokkal több információhoz juthatnál.}
+{104}{}{Nem jöttél rá, hogy mûködik a terminál.}
+{105}{}{Rohadt számítógépek!!!}
+{106}{}{Nem jöttél rá, hogy mûködik a terminál.}
+{107}{}{Rohad' számtó... ghépk}
+{108}{}{Bejelentkeztél Menedékváros Orvosi Adatbázisába. Bár a kezelõfelületet nem teljesen érted, látod, hogy maga az adatbázis több adattárra van bontva.}
+{109}{}{Megkeresed a 13-as Menedék koordinátáit.}
+{110}{}{Adatok keresése: Édenkert Létrehozást Elõsegítõ Táska.}
+{111}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
+{112}{}{Kilépés.}
+{113}{}{You don't find any mention of Vaults in the database. It's mostly medical information relating
+ to anatomy, known diseases, treatments, drugs, and implants.}
+{114}{}{Átkutatod az adattárat, hátha megemlíti az Édenkert Létrehozást Elõsegítõ Táskát.}
+{115}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
+{116}{}{Kilépés.}
+{117}{}{You don't find any mention of the GECK in the database. It's mostly medical archives relating to
+ anatomy, known diseases, treatments, drugs, and implants.}
+{118}{}{Megkeresed a 13-as Menedék koordinátáit.}
+{119}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
+{120}{}{Kilépés.}
+{121}{}{Átkutattad az adatbázist, de az orvosi terminológiát nem igazán érted. Ha többet tudnál a szakmáról, nem jelentene problémát.}
+{122}{}{Keresés folytatása.}
+{123}{}{Kilépés.}
+{124}{}{Átkutattad az adatbázist és elképedsz az adattár információbõségén. Menedékváros aktuális kutatási programjainak színvonala, az orvosi technológiájuk messze túlmutat mindenen, amit valaha is láttál.}
+{125}{}{Ismét átnézed az adatbázist, de semmi újat nem találtál. Az implantátumok mûszaki rajza a leghasznosabb információ az adattárban. Talán kihagytál valamit, de úgy gondolod, ez nem valószínû.}
+{126}{}{Ismét átnézted az adatbázist, de semmi újat nem találtál. Ha még vagy hússzor megismétled, talán rábukkannál valami érdekesre.}
+{127}{}{Csak vicceltünk! Tényleg nincs itt semmi. Persze ha alaposan átnézed az adattárat még vagy harmincszor, esetleg találsz valamit... hehe :)}
+{128}{}{Hát nem vagy semmi, apafej! Figyu! Menj és folytasd a játékot, oké? Nem üldögélhetsz itt örökké.}
+{129}{}{Hát jó! Keress csak tovább!}
+{130}{}{Csak az idõdet vesztegeted.}
+{131}{}{Négyes az Intelligenciád, igaz?}
+{132}{}{Húzz el, öcsi!}
+{133}{}{Miért nem mész inkább a nõvérkével papás-mamást játszani?}
+{134}{}{Nincs itt semmi!}
+{135}{}{Átkutattad az adattárat, de nem találtál semmit.}
+{136}{}{Ötvenharmadszor is átnézted az adatbázist. Még most sem találtál újat.}
+{137}{}{Csak megcsináltad még egyszer, igaz? Makkonya! :)}
+{138}{}{Oké, figyelj! Elárulok egy nagy titkot. Miután meguntad a kutakodást, mindenképpen nézd meg a Központi Számítógépet a harmadik szinten! Most pedig lépj ki, és folytasd a játékot!}
+{139}{}{Átkutattad az adattárat, de nem találtál semmit.}
+{140}{}{További keresés az adattárban.}
+{141}{}{Keresés folytatása, csak hogy biztos legyél benne, nem hagytál ki semmit.}
+{142}{}{További keresés az adattárban.}
+{143}{}{Kilépés.}
+{144}{}{Majdnem egy órát töltöttél az adatbázis tanulmányozásával. Ahogy egyre mélyebbre ásol, rábukkansz valami régi adatra, amely valamiféle "harci implantátum" mûszaki leírását tartalmazza.}
+{145}{}{Az implantátumokról szóló információk tanulmányozása.}
+{146}{}{A mûszaki leírások részletesen bemutatják a lövedékálló lemezek és hõelosztó membránok emberi testbe való beültetését. Így növelhetõ a fizikai és hõellenálló képesség. Nagyon bonyolult mûveletnek tûnik.}
+{147}{}{Feljegyzést készíteni, majd tovább kutatni.}
+{148}{}{Feljegyzést készíteni, majd kilépni.}
+{149}{}{Visszatértél a fõmenübe. A képernyõn néhány adattár és keresõprogram látható.}
+{150}{}{Keresés: 13-as Menedék.}
+{151}{}{Keresés: Édenkert Létrehozást Elõsegítõ Táska.}
+{152}{}{Átkutatod az orvosi adatbázist bármi érdekes után.}
+{153}{}{Kilépés.}
+{200}{}{Befejezted Menedékváros Orvosi Adatbázisának tanulmányozását.}
+{201}{}{A barátod megpróbálja felhívni a figyelmedet a színes képernyõs dobozra, ami azt mondja, hogy  BIPP-BIPP, de nem tudsz rájönni a nyitjára. Végül megunod és otthagyod.}
+{202}{}{Otthagyod.}
+{203}{}{*Bíííp*}
+{204}{}{*Bipp... Bipp*}
+{205}{}{*Zzzzz... klity... klaty... bipp*}
+{206}{}{*Bííí-úúúp*}
+{207}{}{*Bíííp*}
+{208}{}{PING!}
+{209}{}{Sajnálom, Dave. Nem tehetem.}
+{210}{}{Veszély! Will Robinson!}
+{211}{}{Harminc másodperce van, hogy elérje a minimális biztonsági távolságot.}
+{212}{}{PING! Én mondtam!}
+{213}{}{Kérem, vegye el a kártyáját, csak ezután kapja meg a pénzét és a bizonylatot.}
+{214}{}{Érdekes játék. Az egyetlen nyerõ lépés az, ha nem játszol.}

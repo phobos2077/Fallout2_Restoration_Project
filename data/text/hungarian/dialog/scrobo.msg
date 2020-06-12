@@ -1,0 +1,48 @@
+{100}{}{Egy furcsa, félig kutya, félig fém dolgot látsz. Úgy látszik, be van kapcsolva.}
+{101}{}{Ez itt egy Roboeb! Mindenki kedvence!}
+{102}{}{Ez a valami vagy egy szörnyûséges módon összetákolt kutya-gép kombináció vagy teljes mértékben gép és csak külsõre néz ki kutyának. Nehéz megmondani.}
+{103}{}{Arf! <katt> Vaúú!}
+{104}{}{...bzzzzzz...}
+{105}{}{.whirrrrr... Nem vagyok kutyuli.}
+{106}{}{Grrrrrrrrrrrrrrrr--}
+{107}{}{Vau! Va-va-va-<katt>vaúú.}
+{108}{}{<sprzzzt> Meow... error.}
+{109}{}{UgatUgatUgatUgatUgatUgatUgat!}
+{110}{}{Grrr...}
+{111}{}{Háúúúúúú! <kitt-katt> Háúúúú!}
+{112}{}{Yipe! Yipe! Yipe!}
+{113}{}{Veszély! Veszély!}
+{114}{}{Rowf! <tick-tick-tick> Rowf!}
+{115}{}{<whirrr> Nem madár, nem repülõ, nem is béka, csak én magam - Roboeb!<katt>}
+{116}{}{Rooby-Doo!}
+{117}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
+{118}{}{Vaúú!}
+{119}{}{GRRR-ROWF!}
+{120}{}{Arf-arf-arf-arf-arf-arf-arf!}
+{121}{}{Oké}
+{122}{}{Nincs kedvem újra csatlakozni hozzád. Viszlát!}
+{123}{}{Rowf? <bang> Raggy?}
+{124}{}{Hogy vagy?}
+{125}{}{Kérlek, várj itt, amíg vissza nem jövök!}
+{126}{}{Mára ennyi.}
+{127}{}{<katt> nyaff}
+{128}{}{Értem.}
+{129}{}{Oké}
+{130}{}{HP:}
+{131}{}{A kiberebet most nem lehet tovább javítani.}
+{132}{}{A kibereb egy kicsit jobban van.}
+{133}{}{A kibereb most már teljesen ép.}
+{1000}{}{Vau! Va-va-va-<katt>vaúú?}
+{1100}{}{Arf! <katt> Vaúú!}
+{1200}{}{Rowf? <bang> Raggy?}
+{1300}{}{<katt> nyaff.}
+{1400}{}{Háúúúúúú! <kitt-katt> Háúúúú!}
+{1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
+{1600}{}{Persze, elteszem.}
+{1700}{}{Arf-arf távolág: közel.}
+{1800}{}{Arf-arf távolág: közepes.}
+{1900}{}{Arf-arf távolág: messze.}
+{2000}{}{.whirrrrr... Nem vagyok kutyuli.}
+{2100}{}{GRRR-ROWF!}
+{2200}{}{Vau! Va-va-va-<katt>vaúú?}
+{2204}{}{Ok, you're at a good distance for now.}

@@ -1,0 +1,3 @@
+1:Sei morto.
+2:Forse dovresti ricominciare il gioco con un personaggio diverso.
+3:La tua distribuzione dei punti fa cagare.

@@ -1,0 +1,31 @@
+1:Háború.
+2:A háború nem változik.
+3:A világ vége pont úgy következett be ahogy megjósoltuk.
+4:Túl sok ember, túl kevés hely és nyersanyag.
+5:A részletek jelentéktelenek és értelmetlenek, az okok, mint mindig, tisztán emberiek.
+6:2077-ben a Földrõl csaknem teljesen eltûnt az emberi élet.
+7:Hatalmas tisztítótûz, egy emberi kezek csiholta atomszikra, mely gyorsan irányíthatatlanná vált.
+8:Nukleáris tûz hullott az égbõl.
+9:A lángba borult kontinenseket forró óceánok nyelték el.
+10:Az emberiség majdnem teljesen kihalt, a lelkek részévé váltak a háttérsugárzásnak, mely beborította a Földet.
+11:Évekig tartó néma sötétség ereszkedett a bolygóra.
+12:Kevesen élték csak túl a pusztítást.
+13:Néhányan elég szerencsések voltak és védelmet találtak az óriási földalatti óvóhelyekben.
+14:Mikor a nagy sötétség véget ért, e menedékek kapui kinyíltak és a bennük élõk elõjöttek, hogy újrakezdjék életüket.
+15:Az északi törzsek egyike is egy ilyen óvóhelyrõl származtatja magát.
+16:Úgy tartják, hogy a falujuk alapítója - egy bizonyos "Menedéklakó" - egyszer megmentette a világot egy hatalmas gonosztól.
+17:A legenda szerint ez a gonosz délen ébredezett.
+18:Mindent megrontott, amihez hozzáért, embereket változtatott szörnyetegekké.
+19:Csak a Menedéklakó bátorságának volt köszönhetõ a pusztulása.
+20:De mindeközben elvesztette barátait, többet szenvedett, mint bárki, feláldozva önmagát a világ megmentéséért.
+21:Mikor végre visszatért otthonába - melynek megóvásáért oly sokat küzdött - az otthoniak kitaszították.
+22:Számûzték.
+23:Szembesítve mindazzal amitõl féltek, valami mássá vált a szemükben...és nem volt többé a hõsük.
+24:Sajátjai által elhagyatva nekivágott a pusztaságnak.
+25:Messze északra vándorolt, míg el nem érte a nagy kanyonokat.
+26:Ott alapított egy kis falut, Arroyot, ahol hátralévõ éveit leélte.
+27:Még egy generációval az alapítása után is, Arroyo békében élt a külvilágtól menedéket nyújtó kanyonok között.
+28:Egy otthon. A te otthonod.
+29:De a világban a háború okozta sérülések még nem gyógyultak be.
+30:A sebek mélyek és most már Arroyoban is érezni õket.
+31:Az élet Arroyóban hamarosan megváltozik… 
