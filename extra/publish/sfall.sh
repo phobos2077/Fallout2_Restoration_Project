@@ -12,7 +12,7 @@ ddraw.ini
 sfall.dat
 "
 
-wget -q "$sfall_url" -O sfall.7z
+wget -nv "$sfall_url" -O sfall.7z
 for f in $files; do
   7zr e sfall.7z "$f"
   mv "$(basename $f)" "$release_dir/"

@@ -16,7 +16,7 @@ bin_dir="$(realpath extra/bin)"
 mkdir -p "$cache_dir" "$bin_dir"
 
 # compile.exe, no cache (mpack version may change)
-wget -q "$mpack_url" -O "$mpack_7z"
+wget -nv "$mpack_url" -O "$mpack_7z"
 7zr e "$mpack_7z" "$mpack_compile"
 mv -f "$compile_exe" "$bin_dir/"
 # sfall headers
