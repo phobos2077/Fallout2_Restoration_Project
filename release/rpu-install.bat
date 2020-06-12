@@ -9,6 +9,7 @@ if exist patch000.dat (
 
 :: I don't know how to iterate over files in batch properly, so just moving back and forth
 move /y data %bdir%\
+mkdir data
 move /y %bdir%\data\savegame data\
 move /y %bdir%\data\*.txt data\
 move /y %bdir%\data\*.gcd data\
