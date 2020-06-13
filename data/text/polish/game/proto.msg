@@ -64,7 +64,7 @@
 {460}{}{Roboty}
 {461}{}{Psy}
 {462}{}{Modliszki}
-{463}{}{Szpony œmierci}
+{463}{}{Deathclaws}
 {464}{}{roœlina}
 {465}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci mêskiej, którzy zginêli z twojej rêki w trakcie twoich przygód.}
 {466}{}{Ten wiersz pokazuje liczbê homo sapiens p³ci ¿eñskiej, które zginê³y z twojej rêki w trakcie twoich przygód.}
@@ -95,7 +95,7 @@
 {503}{}{jest lekko ranna.}
 {504}{}{jest w pe³ni si³.}
 {510}{}{Mod. KP: %d}
-{511}{}{DT Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Mod. Obr.: %d/%d}
 {518}{}{Wygl¹dasz na osobê, która %s}
 {519}{}{%s %s}
@@ -138,16 +138,16 @@
 {596}{}{Samochód nie potrzebuje wiêcej mocy.}
 {597}{}{Drzwi s¹ najwyraŸniej zablokowane.}
 {620}{}{Zdobywasz %d PD za zabicie: %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Za pokonanie swoich wrogów}
 {623}{}{Za zg³adzenie swoich przeciwników}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{Za zmiecenie swoich przeciwników z powierzchni ziemi}
 {626}{}{Wychodzisz z tej walki bez jednego zadrapania, za co}
-{650}{}{[GOTOWE]}
-{651}{}{[More]}
+{650}{}{[Zrobione]}
+{651}{}{[Dalej]}
 {652}{}{Wiêcej}
-{653}{}{[Back]}
+{653}{}{[Z powrotem.]}
 {654}{}{Wróæ.}
 {655}{}{Mój dom}
 {656}{}{Eee...}
@@ -192,7 +192,7 @@
 {1460}{}{Roboty}
 {1461}{}{Psy}
 {1462}{}{Modliszki}
-{1463}{}{Szpony œmierci}
+{1463}{}{Deathclaws}
 {1464}{}{Roœliny}
 {1465}{}{Gekony}
 {1466}{}{Kosmici}

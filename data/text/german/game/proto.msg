@@ -95,7 +95,7 @@
 {503}{}{verletzt}
 {504}{}{unverletzt}
 {510}{}{RA-Mod: %d}
-{511}{}{RV-Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Sch-Mod: %d/%d}
 {518}{}{Du bist: %s}
 {519}{}{%s %s }
@@ -138,16 +138,16 @@
 {596}{}{Das Auto ist schon voll aufgeladen.}
 {597}{}{Die Türöffnung scheint blockiert zu sein.}
 {620}{}{Du erhältst %d Erfahrungspunkte für das Töten von: %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{For defeating your enemies,}
 {623}{}{For slaying your opponents,}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
-{650}{}{[Fertig]}
-{651}{}{[Weiter]}
+{650}{}{[Erledigt]}
+{651}{}{[Mehr]}
 {652}{}{Weiter}
-{653}{}{[Zurück]}
+{653}{}{[ZURÜCK]}
 {654}{}{Zurück.}
 {655}{}{Weiter im Text}
 {656}{}{Ähh...}

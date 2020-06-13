@@ -64,7 +64,7 @@
 {460}{}{Robots}
 {461}{}{Cachorros}
 {462}{}{Manti}
-{463}{}{DeathClaws}
+{463}{}{Deathclaws}
 {464}{}{Plantas}
 {465}{}{Esta linha mostra o número de seres humanos masculinos que você matou durante o curso de suas aventuras.}
 {466}{}{Esta linha mostra o número de seres humanos do sexo feminino que você matou durante o curso de suas aventuras.}
@@ -138,16 +138,16 @@
 {596}{}{O carro já está cheio de energia.}
 {597}{}{A porta parece estar bloqueada.}
 {620}{}{Você ganha %d pontos de experiência por matar: %s.}
-{621}{}{%s ganha %d pontos de experiência.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Por derrotar seus inimigos,}
 {623}{}{Por matar seus oponentes,}
-{624}{}{Por ser vitorioso em combate,}
+{624}{}{For being victorious in combat,}
 {625}{}{Por esmagar seus inimigos,}
 {626}{}{Por destruir seus inimigos sem tomar um arranhão,}
-{650}{}{[Feito]}
-{651}{}{[More]}
+{650}{}{[FEITO]}
+{651}{}{[MAIS]}
 {652}{}{mais}
-{653}{}{[Back]}
+{653}{}{[VOLTAR]}
 {654}{}{De volta}
 {655}{}{Continuar}
 {656}{}{Err...}
@@ -192,7 +192,7 @@
 {1460}{}{Robots}
 {1461}{}{Cachorros}
 {1462}{}{Manti}
-{1463}{}{DeathClaws}
+{1463}{}{Deathclaws}
 {1464}{}{Plantas}
 {1465}{}{Geckos}
 {1466}{}{Aliens}

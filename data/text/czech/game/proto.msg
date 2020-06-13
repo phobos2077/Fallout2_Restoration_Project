@@ -64,7 +64,7 @@
 {460}{}{Roboti}
 {461}{}{Psi}
 {462}{}{Mantisové}
-{463}{}{Páraèi}
+{463}{}{Deathclaws}
 {464}{}{Rostlina}
 {465}{}{Tato øádka ukazuje, kolik mužù jsi bìhem své cesty zabil.}
 {466}{}{Tato øádka ukazuje, kolik žen jsi bìhem svého putování zabil.}
@@ -95,7 +95,7 @@
 {503}{}{zranìnì}
 {504}{}{v poøádku}
 {510}{}{Modifikátor TZ: %d}
-{511}{}{DT Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Mod. poškození: %d/%d}
 {518}{}{Vypadáš: %s }
 {519}{}{%s %s }
@@ -138,16 +138,16 @@
 {596}{}{Zásobník auta je už plný.}
 {597}{}{Vchod je zablokován.}
 {620}{}{Získáváš %d zkušenostních bodù za zabití nepøítele: %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Za poražení nepøátel}
 {623}{}{Za likvidaci svých protivníkù}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{Za rozdrcení svých nepøátel}
 {626}{}{Za znièení svých nepøátel bez jediného utrpìného škrábnutí}
 {650}{}{[KONEC]}
-{651}{}{[More]}
+{651}{}{[Více]}
 {652}{}{Více}
-{653}{}{[Back]}
+{653}{}{[Zpìt]}
 {654}{}{Zpìt.}
 {655}{}{Jdi na to}
 {656}{}{Eh...}
@@ -192,7 +192,7 @@
 {1460}{}{Roboti}
 {1461}{}{Psi}
 {1462}{}{Mantisové}
-{1463}{}{Páraèi}
+{1463}{}{Deathclaws}
 {1464}{}{Rostliny}
 {1465}{}{Geckoni}
 {1466}{}{Alieni}
