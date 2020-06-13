@@ -34,8 +34,8 @@ script:
 
 env:
   global:
-    - sfall_version: 4.2.4
-    - mpack_version: 4.2.4
+    - sfall_version: 4.2.5.1
+    - mpack_version: 4.2.5
     - mod_name: rpu
     - extra_dir: extra
     - bin_dir: extra/bin
