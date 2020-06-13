@@ -64,7 +64,7 @@
 {460}{}{Robot -}
 {461}{}{Cani -}
 {462}{}{Mantidi -}
-{463}{}{DeathClaw -}
+{463}{}{Deathclaws}
 {464}{}{Pianta}
 {465}{}{Questa riga mostra il numero di maschi umani che hai ucciso durante le tue avventure.}
 {466}{}{Questa riga mostra il numero di femmine umane che hai ucciso durante le tue avventure.}
@@ -95,7 +95,7 @@
 {503}{}{Ferito}
 {504}{}{Illeso}
 {510}{}{Mod ClArm: %d}
-{511}{}{DT Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Mod Danno: %d/%d}
 {518}{}{Sei: %s }
 {519}{}{%s %s }
@@ -138,16 +138,16 @@
 {596}{}{L'auto ha il pieno di carburante.}
 {597}{}{L'entrata sembra bloccata.}
 {620}{}{Guadagni %d punti esperienza per aver ucciso: %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Per aver sconfitto i tuoi nemici,}
 {623}{}{Per aver massacrato i tuoi nemici,}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{Per aver schiacciato i tuoi nemici,}
 {626}{}{Per aver distrutto i tuoi nemici senza farti un graffio,}
-{650}{}{[Fatto]}
-{651}{}{[Avanti]}
+{650}{}{[FATTO]}
+{651}{}{[AVANTI]}
 {652}{}{Avanti}
-{653}{}{[Back]}
+{653}{}{[INDIETRO]}
 {654}{}{Indietro.}
 {655}{}{Go on}
 {656}{}{Err...}
@@ -192,7 +192,7 @@
 {1460}{}{Robot -}
 {1461}{}{Cani -}
 {1462}{}{Mantidi -}
-{1463}{}{DeathClaw -}
+{1463}{}{Deathclaws}
 {1464}{}{Piante -}
 {1465}{}{Gecki -}
 {1466}{}{Alieni -}

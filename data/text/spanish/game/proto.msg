@@ -64,7 +64,7 @@
 {460}{}{Robots}
 {461}{}{Perros}
 {462}{}{Mantis}
-{463}{}{Garras mortales}
+{463}{}{Deathclaws}
 {464}{}{Plantas}
 {465}{}{Esta línea muestra el número de hombres a las que has matado durante el curso de tus aventuras.}
 {466}{}{Esta línea muestra el número de mujeres a las que has matado durante el curso de tus aventuras.}
@@ -95,7 +95,7 @@
 {503}{}{Herido}
 {504}{}{Ileso}
 {510}{}{CA Mod: %d}
-{511}{}{DT Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Dañ Mod: %d/%d}
 {518}{}{Ves: %s }
 {519}{}{%s %s }
@@ -138,10 +138,10 @@
 {596}{}{El coche ya está lleno de energía.}
 {597}{}{La puerta parece bloqueada.}
 {620}{}{Ganas %d puntos de experiencia por matar: %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Por derrotar a tus enemigos,}
 {623}{}{Por asesinar a tus enemigos,}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{Por aplastar a tus enemigos,}
 {626}{}{Por destruir a tus enemigos sin sufrir un rasguño,}
 {650}{}{[HECHO]}
@@ -192,7 +192,7 @@
 {1460}{}{Robots}
 {1461}{}{Perros}
 {1462}{}{Mantis}
-{1463}{}{Garras mortales}
+{1463}{}{Deathclaws}
 {1464}{}{Plantas}
 {1465}{}{Geckos}
 {1466}{}{Aliens}

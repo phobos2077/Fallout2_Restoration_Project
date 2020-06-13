@@ -64,7 +64,7 @@
 {460}{}{Robot}
 {461}{}{Kutya}
 {462}{}{Sáska}
-{463}{}{Halálkarom}
+{463}{}{Deathclaws}
 {464}{}{Növény}
 {465}{}{Ez a szám mutatja, hány férfit öltél meg a kalandozásaid során.}
 {466}{}{Ez a szám mutatja, hány nõt öltél meg a kalandozásaid során.}
@@ -95,7 +95,7 @@
 {503}{}{Sebesült}
 {504}{}{Sértetlen}
 {510}{}{VÉ Mód.: %d}
-{511}{}{DT Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Sebz. Mód.: %d/%d}
 {518}{}{Ez egy: %s }
 {519}{}{%s %s }
@@ -138,16 +138,16 @@
 {596}{}{Az autó már maximum energián van.}
 {597}{}{Az ajtót elállja valaki.}
 {620}{}{%d tapasztalati pontot kaptál, mert megölted: %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{For defeating your enemies,}
 {623}{}{For slaying your opponents,}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
-{650}{}{[Kész]}
-{651}{}{[Tovább]}
+{650}{}{[DONE]}
+{651}{}{[TOVÁBB]}
 {652}{}{Tovább}
-{653}{}{[Vissza]}
+{653}{}{[BACK]}
 {654}{}{Vissza.}
 {655}{}{Vigyázz arra, hogy mit csinálsz,}
 {656}{}{Ööö...}
@@ -192,7 +192,7 @@
 {1460}{}{Robot}
 {1461}{}{Kutya}
 {1462}{}{Sáska}
-{1463}{}{Halálkarom}
+{1463}{}{Deathclaws}
 {1464}{}{Növény}
 {1465}{}{Gekkó}
 {1466}{}{Idegen}

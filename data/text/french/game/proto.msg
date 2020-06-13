@@ -64,7 +64,7 @@
 {460}{}{Robot(s)}
 {461}{}{Chien(s)}
 {462}{}{Mante(s)}
-{463}{}{Griffemort(s)}
+{463}{}{Deathclaws}
 {464}{}{Plante}
 {465}{}{Cette ligne indique le nombre d'hommes humains que tu as tués au cours de tes aventures.}
 {466}{}{Cette ligne indique le nombre de femmes humaines que tu as tuées au cours de tes aventures.}
@@ -95,7 +95,7 @@
 {503}{}{mal en point}
 {504}{}{indemne}
 {510}{}{Mod. CA : %d}
-{511}{}{DT Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Mod. Dégâts : %d/%d}
 {518}{}{Tu as l'air %s }
 {519}{}{%s %s }
@@ -138,16 +138,16 @@
 {596}{}{La voiture a déjà fait le plein d'énergie.}
 {597}{}{L'entrée semble être bloquée.}
 {620}{}{Tu gagnes %d points d'expérience pour avoir tué : %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Pour avoir tenu tes ennemis en échec}
 {623}{}{Pour avoir décimé tes adversaires}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{Pour avoir écrasé tes ennemis}
 {626}{}{Pour avoir anéanti tes ennemis sans une égratignure}
 {650}{}{[Terminé]}
-{651}{}{[More]}
+{651}{}{[Plus]}
 {652}{}{Suite}
-{653}{}{[Back]}
+{653}{}{[Retour]}
 {654}{}{Retour}
 {655}{}{Continue}
 {656}{}{Err...}
@@ -192,7 +192,7 @@
 {1460}{}{Robot(s)}
 {1461}{}{Chien(s)}
 {1462}{}{Mante(s)}
-{1463}{}{Griffemort(s)}
+{1463}{}{Deathclaws}
 {1464}{}{Plante(s)}
 {1465}{}{Gecko(s)}
 {1466}{}{Alien(s)}
