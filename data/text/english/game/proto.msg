@@ -213,20 +213,20 @@
 # Experience-Point messages
 #
 {620}{}{You gain %d experience points for killing: %s.}
-{621}{}{%s you earn %d experience points.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{For defeating your enemies,}  # 622-626 prepend to line 621
 {623}{}{For slaying your opponents,}
-{624}{}{You are victorious in combat,}
+{624}{}{For being victorious in combat,}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
 
 #
 # Dialog messages
 #
-{650}{}{[Done]}
-{651}{}{[More]}
+{650}{}{[DONE]}
+{651}{}{[MORE]}
 {652}{}{More}
-{653}{}{[Back]}
+{653}{}{[BACK]}
 {654}{}{Back}     # changed number from 653
 {655}{}{Go on}    # new
 {656}{}{Err...}   # new
