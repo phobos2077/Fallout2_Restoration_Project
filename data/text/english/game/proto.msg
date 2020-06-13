@@ -101,7 +101,7 @@
 {460}{}{Robots}
 {461}{}{Dogs}
 {462}{}{Manti}
-{463}{}{DeathClaws}
+{463}{}{Deathclaws}
 {464}{}{Plant}
 #
 # Kill type info descriptions
@@ -155,7 +155,7 @@
 # Examine text messages
 #
 {510}{}{AC Mod: %d}
-{511}{}{DT Mod: %d}
+{511}{}{DR Mod: %d}
 {512}{}{Dmg Mod: %d/%d}
 {518}{}{You look: %s }
 {519}{}{%s %s }
@@ -286,7 +286,7 @@
 {1460}{}{Robots}
 {1461}{}{Dogs}
 {1462}{}{Manti}
-{1463}{}{DeathClaws}
+{1463}{}{Deathclaws}
 {1464}{}{Plants}
 {1465}{}{Geckos}
 {1466}{}{Aliens}
