@@ -290,33 +290,33 @@ esos sitios}
 {1112}{}{No, aún no.}
 {1200}{}{Así que, ¿qué me puedes decir sobre los Refugios?}
 {1201}{}{Así que, ¿ahora recuerdas algo que me puedes decir sobre los Refugios?}
-{1202}{}{Is there anything useful you can tell me about the time before the Great Silence?}
-{1210}{}{Well, lets see... Huh. You know what? My mind's still a little foggy about some things. You'll have to ask me later.}
+{1202}{}{¿Hay algo útil que pueda decirme sobre el tiempo antes del Gran Silencio?}
+{1210}{}{Bueno, veamos ... Huh. ¿Sabes que? Mi mente todavía está un poco nublada por algunas cosas. Tendrás que preguntarme más tarde.}
 {1211}{}{Hmm. De acuerdo.}
-{1220}{}{The vaults... the vaults... Nope, not yet.}
+{1220}{}{Los refugios ... refugios ... No, todavía no.}
 {1221}{}{Hmm. De acuerdo.}
-{1230}{}{Yes, actually, I remember... Wait, never mind, I forgot.}
+{1230}{}{Sí, de hecho, lo recuerdo ... Espera, no importa, lo olvidé.}
 {1231}{}{Hmm. De acuerdo.}
-{1240}{}{Well, I used to live by the Chicago Vault. Does that help?}
+{1240}{}{Bueno, yo solía vivir cerca del Refugio de Chicago. ¿Eso ayuda?}
 {1241}{}{¿Sabes si tenía un GECK?}
 {1242}{}{Estoy seguro de que tenía. Estoy bastante seguro de que todos lo tuvieron.}
 {1243}{}{Bien, ahora tenemos algo. ¿Puedes decirme dónde es este Refugio?}
-{1244}{}{No problem. It's about 2,000 miles in that direction. [Dex points eastward.]}
+{1244}{}{No hay problema. Son alrededor de 2,000 millas en esa dirección. [Dex señala hacia el este.]}
 {1245}{}{Oh. Bueno, entonces. No importa.}
-{1250}{}{There was one man, greater than any other, that we called, "The King". He was a handsome man with impeccable
- style, amazing hair, and a voice of gold. With a simple thrust of his pelvis he could impregnate every woman in sight.
- He was worshiped as a God by the people of the world. He was my father.}
+{1250}{}{Había un hombre, más grande que cualquier otro, al que llamamos "El Rey". Era un hombre guapo con impecable
+  estilo, cabello increíble y una voz de oro. Con un simple empuje de su pelvis, podía impregnar a todas las mujeres a la vista.
+  Fue adorado como un Dios por la gente del mundo. El era mi padre.}
 {1251}{}{Interesante...}
-{1260}{}{There were immortals that lived secretly among us. They had to battle each other to the death with swords until
- only one remained to claim "The Prize".}
-{1261}{}{Wait. If they were immortal, how could they kill each other?}
-{1262}{}{They could only be killed by decapitation. When one immortal decapitated another, a quickening
- would be released, giving the slain immortal's powers to the victor.}
+{1260}{}{Había inmortales que vivían en secreto entre nosotros. Tuvieron que luchar entre ellos hasta la muerte con espadas hasta
+  solo quedaba uno para reclamar "El Premio".}
+{1261}{}{Espere. Si fueran inmortales, ¿cómo podrían matarse entre ellos?}
+{1262}{}{Solo podían ser asesinados por decapitación. Cuando un inmortal decapita a otro, una aceleración
+  sería liberado, dando los poderes del inmortal asesinado al vencedor.}
 {1263}{}{¿A qué exactamente te refieres con "poderes"?}
-{1264}{}{Uh, fighting powers? Mechanic powers? I don't know, it was kind of vague.}
+{1264}{}{Uh, ¿poderes de lucha? Poderes mecánicos? No sé, fue un poco vago.}
 {1265}{}{Interesante...}
-{1270}{}{There were these giant lizards, some bigger than buildings, that people would ride around on. We called them
- dinosaurs, and they were known as man's best friend.}
+{1270}{}{Existían estos lagartos gigantes, algunos más grandes que los edificios, en los que la gente se paseaba. Los llamamos
+  dinosaurios, y eran conocidos como el mejor amigo del hombre.}
 {1271}{}{Vaya, ¿tenías uno?}
 {1272}{}{Of course. I rode a T-rex, the most badass giant lizard of them all. Only mine was even more badass because it had wings. Basically, it was a dragon.}
 {1273}{}{Interesante...}
