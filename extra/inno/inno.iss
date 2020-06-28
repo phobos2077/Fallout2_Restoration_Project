@@ -40,7 +40,7 @@ Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 
 
 [Components]
 Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
-Name: "translation"; Description: "Language"; Types: "custom";
+Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
 #include "components_translations.iss"
 
 [Types]

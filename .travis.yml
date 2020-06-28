@@ -1,6 +1,6 @@
 language: java
 dist: bionic
-sudo: false
+os: linux
 
 cache:
   directories:
@@ -20,6 +20,10 @@ addons:
       - p7zip
       - wine-stable
       - wine32
+  artifacts:
+    paths:
+    - $(ls rpu*.exe | tr "\n" ":")
+    - $(ls rpu*.zip | tr "\n" ":")
 
 before_install:
   - ./extra/prepare.sh
@@ -53,7 +57,7 @@ env:
 
 deploy:
   provider: releases
-  api_key: $GITHUB_TOKEN
+  token: $GITHUB_TOKEN
   file_glob: true
   file:
     - rpu*.zip

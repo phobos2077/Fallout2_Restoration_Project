@@ -7,9 +7,14 @@ lang_dir="data/text"
 # delete unnecessary files
 rm -rf "$lang_dir"/{po,readme.md,translation.patch}
 
-# update current version in patchinf
-for f in $lang_dir/*/dialog/patchinf.msg; do
-  sed -i "s|2\.3\.3u[0-9]*\.|2.3.3${uversion}.|" "$f"
+# update patchinf
+for lang in $(ls $lang_dir); do
+  patchinf="$lang_dir/$lang/dialog/patchinf.msg"
+  # display current version
+  sed -i "s|2\.3\.3u[0-9]*\.|2.3.3${uversion}.|" "$patchinf"
+  # if the string is untranslated, still show correct language
+  lang_name="${lang^}"
+  sed -i "s|English|$lang_name|" "$patchinf"
 done
 
 # duplicate cuts for english language, otherwise sfall won't display them in english
