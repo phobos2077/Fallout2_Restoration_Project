@@ -9,13 +9,11 @@ if exist patch000.dat (
 
 :: I don't know how to iterate over files in batch properly, so just moving back and forth
 move /y data %bdir%\
-mkdir data
+mkdir data\sound
 move /y %bdir%\data\savegame data\
 move /y %bdir%\data\*.txt data\
 move /y %bdir%\data\*.gcd data\
-mkdir data\sound\music
-move /y %bdir%\data\sound\music\*.acm data\sound\music\
-move /y %bdir%\data\sound data\
+move /y %bdir%\data\sound\music data\sound\
 
 :: old appearance mod in directories
 set appearances=hfr00s00,hfr00s01,hfr00s02,hmr00s00,hmr00s01,hmr00s02
