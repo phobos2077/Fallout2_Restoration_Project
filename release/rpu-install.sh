@@ -19,13 +19,13 @@ if [[ -f patch000.dat ]]; then
   mv patch000.dat "$bdir"/
 fi
 
-# keep savegames, character files
-for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$"); do
+# keep savegames, character files, sound
+for i in $(ls data | grep -vi "^savegame$\|\.txt$\|\.gcd$\|^sound$"); do
   mv data/"$i" "$bdir"/data/
 done
 # only need music from sound
 for i in $(ls data/sound | grep -vi "^music$"); do
-  mv data/"$i" "$bdir"/data/sound/
+  mv data/sound/"$i" "$bdir"/data/sound/
 done
 
 # sfall mods
