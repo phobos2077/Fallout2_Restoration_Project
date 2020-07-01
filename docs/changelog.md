@@ -5,7 +5,7 @@ This file lists changes for RPU only. See original RP changelog [here](rp-change
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
-- [Version 15](#version-15)
+- [Version 16](#version-16)
 - [Version 14](#version-14)
 - [Version 13](#version-13)
 - [Version 12](#version-12)
@@ -21,7 +21,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
-### Version 15
+### Version 16
 - Separated [NPC armor](https://github.com/BGforgeNet/Fallout2_NPC_Armor) mod.
 - Added Italian and Hungarian translations.
 - Fixed a leftover from YAAM, incorrect stats for BB ammo.
