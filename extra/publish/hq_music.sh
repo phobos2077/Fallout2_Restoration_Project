@@ -4,7 +4,7 @@ set -xeu -o pipefail
 
 bin_dir="$(realpath $bin_dir)"
 release_dir="$(realpath $release_dir)"
-sound_dir="$release_dir/data/sound"
+sound_dir="$release_dir/data/sound/music"
 
 mkdir -p "$sound_dir"
 cd "$sound_dir"
