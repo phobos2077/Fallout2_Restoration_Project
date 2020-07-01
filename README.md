@@ -63,7 +63,9 @@ RPU includes the following mods:
 - Voice for Cassidy
 - High resolution patch.
 
-For additional QoL options, check out [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks).
+For additional QoL options, check out:
+- [Ultra HQ music](https://github.com/BGforgeNet/Fallout2-HQ-music)
+- [FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)
 
 ### Reporting issues
 If you've found an issue:
