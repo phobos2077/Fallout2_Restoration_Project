@@ -100,7 +100,7 @@
 {512}{}{Gut, wenn du mich sprechen willst, ich bin im Loch. }
 {513}{}{Wie wär's, wenn wir uns im Loch treffen, und ich einen ausgebe?}
 {520}{}{Tut mir leid, aber ich muß dringend nach Hause. Habe gerade ein paar neue Pornos gekriegt.}
-{521}{}{I'm uhhh, tired, please let me go home and uhhh, sleep...}
+{521}{}{Ich ähhh, bin müde. Bitte lass mich nachhause gehen und ähhh, schlafen...}
 {522}{}{Ich gehe rüber zu Dave. Er hat eine ganze Porno-Abteilung.}
 {530}{}{Ähhh, nee danke. Lieber schieb ich mit dem Stuhl 'ne Nummer, als daß ich noch mal sowas Ödes mitmache.}
 {540}{}{Gut, ich geb deinem Hintern noch 'ne Chance.}

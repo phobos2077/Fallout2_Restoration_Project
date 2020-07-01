@@ -9,7 +9,7 @@
 {108}{}{Was kannst du mir über Chad erzählen?}
 {109}{}{Tut mir leid mit Chad. Er hat's wohl herausgefordert.}
 {110}{}{Euer Karawanenmeister Chad steckt jetzt ganz schön in der Krise, was?}
-{111}{}{Wer bist du?}
+{111}{}{Wer sind Sie?}
 {112}{}{Hör mal, Kleiner, ich hab keine Ahnung, was du da redest. Hier hast du einen Lutscher.}
 {113}{}{Oooh!}
 {114}{}{Aber klar. Da hinten ist ein ganzer Haufen Brahmin-Mist. Schaufel mir den einen Tag lang
@@ -54,7 +54,7 @@
 {145}{}{Was kannst du mir über Chad erzählen?}
 {146}{}{Tut mir leid mit Chad. Er hat's wohl herausgefordert.}
 {147}{}{Euer Karawanenmeister steckt jetzt wohl ganz schön in der Krise, was?}
-{148}{}{Wer bist du?}
+{148}{}{Wer sind Sie?}
 {149}{}{War nett, mit dir zu plaudern. Willst du sonst noch was von mir?}
 {150}{}{Tut mir leid. Das wird nichts. Willst du sonst noch was von mir?}
 {151}{}{Nein. Tschüß dann!}
@@ -145,4 +145,4 @@
 {211}{}{[Fortfahren]}
 {212}{}{Tut mir leid, aber jetzt wo Chad nicht mehr ist, um beim Personalmanagement zu helfen, komme ich mit der Arbeitsvergabe einfach nicht richtig zurecht. Der arme Hund wird mir fehlen. Im Ödland zu verrecken wie ein verwundetes Brahmin.}
 {213}{}{Tut mir leid. Tschüß.}
-{214}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to.}
+{214}{}{Tut mir leid, aber jetzt wo Chad nicht mehr ist, um beim Personalmanagement zu helfen, komme ich mit der Arbeitsvergabe einfach nicht richtig zurecht.}

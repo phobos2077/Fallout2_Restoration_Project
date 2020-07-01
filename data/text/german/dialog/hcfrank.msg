@@ -4,7 +4,7 @@
 {103}{}{Was willste?}
 {104}{}{Argghhh! ::sabber::}
 {105}{}{Du! Ich! Gehen!}
-{106}{}{Wer bist du?}
+{106}{}{Wer sind Sie?}
 {107}{}{Warum bist du im Gefängnis?}
 {108}{}{Was kannst du mir über diesen Ort hier sagen?}
 {109}{}{Was weißt du über Marcus?}

@@ -28,7 +28,7 @@
 {121}{}{Verzeihung...kann ich dir helfen?}
 {122}{}{Hallo du.}
 {123}{}{Verzieh dich}
-{124}{}{Wer bist du?}
+{124}{}{Wer sind Sie?}
 {125}{}{Ich seh mich nur ein wenig um, besten Dank.}
 {126}{}{Schon WIEDER ein Diener auf Abwegen! Wenn Barkus sie weiterhin frei rumlaufen l‰ﬂt, muﬂ
  ich Meldung erstatten. Und jetzt fort mit dir, dalli, dalli!}

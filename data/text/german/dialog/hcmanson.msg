@@ -4,7 +4,7 @@
 {103}{}{Was?!}
 {104}{}{Dahhh... gabba gabba he?}
 {105}{}{Warum du Gitter?}
-{106}{}{Wer bist du?}
+{106}{}{Wer sind Sie?}
 {107}{}{Warum bist du im Gefängnis?}
 {108}{}{Erzähl mir was über Broken Hills.}
 {109}{}{Nichts, vergiß es.}
@@ -37,7 +37,7 @@
 {136}{}{Ähhmm... ja wirklich. Wenn man dich so betrachtet...}
 {137}{}{Du? Helle? Ha!}
 {138}{}{Na klar. Tschüß dann.}
-{139}{}{Wha'?}
+{139}{}{Wa?}
 {140}{}{Nichts.}
 {141}{}{Ja, der ist einer der weisesten Menschen, die ich je gekannt hab. Jacob ist auch schlau, aber der ist nicht so ehrlich wie Franc.}
 {142}{}{Franc ist so nützlich wie eine ansteckende Krankheit. Der bringt dich auch nicht weiter.}
@@ -45,7 +45,7 @@
 {144}{}{Den hab ich nie gesehen. Über den kann ich nix sagen.}
 {145}{}{Danke. Tschüß.}
 {146}{}{Was willste denn noch?}
-{147}{}{Wer bist du?}
+{147}{}{Wer sind Sie?}
 {148}{}{Warum bist du im Gefängnis?}
 {149}{}{Erzähl mir was über Broken Hills.}
 {150}{}{Kannst du Franc gut leiden?}

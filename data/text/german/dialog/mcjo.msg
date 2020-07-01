@@ -202,4 +202,4 @@
 {900}{}{Danke nochmals, das du unsere kleine Stadt gerettet hast, mein Freund.}
 {925}{}{Gern geschehen. Sehe dich später.}
 {1000}{}{Du hast Modoc gerettet.}
-{1500}{}{Du siehst den stellvertretenden Friedensrichter Bo.}
+{1500}{}{You see Substitute Justice of the Peace Bo.}

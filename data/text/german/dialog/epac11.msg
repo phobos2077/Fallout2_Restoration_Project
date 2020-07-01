@@ -1,7 +1,7 @@
 {100}{}{Du siehst Sergeant "Cat" Jules.}
 {101}{}{Du siehst einen gut aussehenden Schwarzen mit ziemlich deutlich hervorstehenden Eckzähnen. Er stolziert angeberisch herum und sein Gesichtsausdruck zeugt von Selbstgefälligkeit.}
 {200}{}{[Als du die Kryokammer erreichst siehst du einen schlanken, nackten Mann, ausgestreckt auf dem Boden liegen. Sein muskulöser Körper zittert immer noch von dem eiskalten Wasser. Als du näherkommst schaut er zu dir hoch.]}
-{201}{}{Wer bist du?}
+{201}{}{Wer sind Sie?}
 {210}{}{[Er steht auf und schüttelt sich wie ein nasses Tier. Dabei grinst er dich etwas einfältig an, wobei du seine seltsam scharfen Zähne sehen kannst.] Wer ICH bin? Wer bist DU? Du siehst aus wie ein schwerbewaffneter Landstreicher!}
 {211}{}{[[Er steht auf und schüttelt sich selbst trocken wie ein nasses Tier. Dabei grinst er dich etwas einfältig an, wobei du seine seltsam scharfen Zähne sehen kannst.] Wer ICH bin? Warum? Ich bin nur Sgt. Jules, der bestaussehendste Soldat in dieser Basis.}
 {212}{}{Ich bin }

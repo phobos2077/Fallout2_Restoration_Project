@@ -1112,7 +1112,7 @@
 {21049}{}{ verschiedene wasserdichte Türen in der gesamten}
 {21050}{}{ Steuerstäbe befinden. Hier zirkuliert es durch den}
 {21051}{}{ Kern und wird von der stattfindenden Kernreaktion}
-{21052}{}{ erhitzt. Das Seewasser erreicht den Siedepunkt;}
+{21052}{}{waste-conduit, terminating one mile to the south. }
 {21053}{}{ mit dem entstehenden Dampf wird der}
 {21054}{}{ Turbinengenerator betrieben, der all unsere}
 {21055}{}{ Elektrizität generiert. Daraufhin kondensiert der}

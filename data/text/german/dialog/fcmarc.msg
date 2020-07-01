@@ -5,7 +5,7 @@
 {104}{}{Was kann ich für dich tun?}
 {105}{}{Was tun kann für dich?}
 {106}{}{Uuh! Uuh! Aah!}
-{107}{}{Wer bist du?}
+{107}{}{Wer sind Sie?}
 {108}{}{Was ist das alles hier?}
 {109}{}{Wer ist hier der Anführer?}
 {110}{}{Nichts. Tschüß.}

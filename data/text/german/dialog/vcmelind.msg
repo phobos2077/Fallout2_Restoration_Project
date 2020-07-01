@@ -6,7 +6,7 @@
 {103}{}{Und was kann ich sonst noch für dich tun?}
 {104}{}{Ist dieser eingezäunte Bereich die Stadt?}
 {105}{}{Ich suche die Vault.}
-{106}{}{Wer bist du?}
+{106}{}{Wer sind Sie?}
 {107}{}{Nein danke. Tschüß.}
 {108}{}{Dis Valt Citeee?}
 {109}{}{Nein, nein...laß dich nicht durch die Umgebung täuschen. Du befindest

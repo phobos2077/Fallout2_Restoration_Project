@@ -8,7 +8,7 @@
 {106}{}{Was du tun?}
 {107}{}{Wie klug du?}
 {108}{}{Ich gehn.}
-{109}{}{Wer bist du?}
+{109}{}{Wer sind Sie?}
 {110}{}{Was tust du hier?}
 {111}{}{Nimm's mir nicht übel, aber wie klug bist du?}
 {112}{}{Naja, ich vertreib mir die Zeit.}

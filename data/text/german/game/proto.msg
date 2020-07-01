@@ -121,8 +121,8 @@
 {547}{}{ und tr‰gt: %s mit %d/%d Schuﬂ %s.}
 {548}{}{Das Auto sieht nicht so aus, als w¸rde es im Augenblick funktionieren.}
 {549}{}{Das Auto l‰uft mit %d%% Energie.}
-{550}{}{Fehler: lookup_val ist auﬂerhalb des Bereichs!}
-{551}{}{Fehler: obj_examine: proto_ptr fehlgeschlagen!}
+{550}{}{\nFehler: lookup_val ist auﬂerhalb des Bereichs!}
+{551}{}{\nFehler: obj_examine: proto_ptr fehlgeschlagen!}
 {580}{}{Du benutzt %s.}
 {581}{}{Du verwendest %s an %s.}
 {582}{}{Nichts passiert.}

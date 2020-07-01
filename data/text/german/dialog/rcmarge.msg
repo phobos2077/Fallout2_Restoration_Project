@@ -28,7 +28,7 @@
  Morningstar Schläger im Gefängnis sind, hätte in der Stadt auch Ruhe geherrscht. Was willst du?}
 {122}{}{Du weißt ja wirklich, wie man das Kind mit dem Bade ausschüttet, was? Bei einer Prügelei
  in 'ner Bar muß doch niemand draufgehn. Und was zum Teufel willst du jetzt noch von mir?}
-{123}{}{Wer bist du?}
+{123}{}{Wer sind Sie?}
 {124}{}{Ich wollte dich was fragen.}
 {125}{}{Ich kam nur gerade vorbei. Ich glaub, ich gehe einfach weiter. Wiedersehn.}
 {126}{}{Hallo. Ich bin Marge. Marge LeBarge und mir gehört diese Mine.}

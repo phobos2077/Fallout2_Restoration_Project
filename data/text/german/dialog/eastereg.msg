@@ -26,10 +26,11 @@
 {400}{}{Du siehst Darek Vader.}
 {401}{}{Dieser Kerl sieht verflucht hart aus und scheint mehr Maschine als Mensch zu sein.}
 {410}{}{Ich bin Darek. Ich half 'ne Million Anfängerfragen für Obi-Wan-Killap zu beantworten.}
-{411}{}{Join me! Together we can rule the galaxy!}
-{412}{}{Did you know that the great Obi-Wan-Killap asked ME for help?}
-{413}{}{Don't tell Obi-Wan-Killap, but I think he might be losing his mind.}
-{414}{}{I helped squash several nasty bugs. You can thank me later.}
+{411}{}{Begleite mich! Gemeinsam können wir über die Galaxie herrschen!}
+{412}{}{Wusstest du, dass der große Obi-Wan-Killap MICH um Hilfe gebeten hat?}
+{413}{}{Sag es bitte nicht Obi-Wan-Killap, aber ich glaube, er könnte den Verstand verlieren.}
+{414}{}{Ich half mehrere eklige Käfer zu zerquetschen. Danke mir später.
+}
 {500}{}{Du siehst Jotisz the Hutt.}
 {501}{}{Dieser Kerl ist groß, fett und grün.}
 {510}{}{Ich bin Jotisz the Hutt. Ich mag wie eine große fette grüne Schnecke aussehen, aber tatsächlich half ich,
@@ -50,7 +51,7 @@
 {700}{}{Du siehst Chris3ParksO.}
 {701}{}{Ein glänzender humanoider Roboter. Er sieht überrascht aus.}
 {710}{}{Hallo, ich bin Chris3ParksO, Mensch-Maschine Beziehungen. Ich kenne mich mit über 3 Millionen Programmiersprachen aus.}
-{711}{}{I helped lay the groundwork for the Umbra Tribe and the EPA.}
+{711}{}{Ich half dabei den Umbra-Stamm und die EPA zu erschaffen.}
 {712}{}{Das ist R2QWERTY: mein treuer Kumpel. Er schuf neue Geschöpfe und Grafiken.}
 {800}{}{Du siehst Yosan12.}
 {801}{}{Ein kleiner grüner Kerl. Er sieht ALT aus.}

@@ -32,7 +32,7 @@
 {280}{}{Schieß los. Was willst du wissen?}
 {281}{}{Fuuuuuuh fuh fuh fuuuuh}
 {282}{}{[Verschwinde]}
-{283}{}{Wer bist du?}
+{283}{}{Wer sind Sie?}
 {284}{}{Was ist das hier für ein Kasino?}
 {285}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {286}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
@@ -79,7 +79,7 @@
 {341}{}{[Der Blick des Aufsehers bleibt auf die Spieltische gerichtet.] Was kann ich für dich tun, Baby?}
 {342}{}{Fuuuuuuh fuh fuh fuuuuh}
 {343}{}{[Verschwinde]}
-{344}{}{Wer bist du?}
+{344}{}{Wer sind Sie?}
 {345}{}{Was ist das hier für ein Kasino?}
 {346}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {347}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
@@ -91,14 +91,14 @@
 {353}{}{Wollte nur mal nach dem Rechten sehen. Laß dich nicht stören.}
 {355}{}{Die Familie }
 {356}{}{Die Familie }
-{357}{}{Wer bist du?}
+{357}{}{Wer sind Sie?}
 {358}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {359}{}{Ah ja. Besten Dank für die Auskunft.}
 {360}{}{Hey, schau mal, wer da ist! Hey, }
 {361}{}{. Willkommen im }
 {362}{}{Fuuuuuuh fuh fuh fuuuuh}
 {363}{}{[Verschwinde]}
-{364}{}{Wer bist du?}
+{364}{}{Wer sind Sie?}
 {365}{}{Was ist das hier für ein Kasino?}
 {366}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {367}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
@@ -186,13 +186,13 @@
 {1306}{}{. Mach mal Pause und amüsier dich. Die Welt kommt auch mal zwei Stunden ohne Retter aus.}
 {1335}{}{Das hier ist das }
 {1336}{}{Das hier ist das }
-{1337}{}{Wer bist du?}
+{1337}{}{Wer sind Sie?}
 {1338}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
 {1339}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {1345}{}{Das geilste Kasino in der ganzen Stadt...bin da aber nicht ganz objektiv, das geb ich zu. [Lacht.] Sonst noch
  Fragen?}
 {1346}{}{Das geilst Kasino in der ganzen Stadt...die besten Tische...aber warum probierst du's nicht einfach selber aus?}
-{1347}{}{Wer bist du?}
+{1347}{}{Wer sind Sie?}
 {1348}{}{Wer ist der Eigentümer?}
 {1349}{}{Gut, besten Dank. Entschuldige die Störung. [Ab.].}
 {1355}{}{ Die haben hier richtig was auf die Beine gestellt. Hier ist immer was los, wir sind das strahlende

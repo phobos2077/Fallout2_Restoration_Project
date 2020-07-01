@@ -4,7 +4,7 @@
 {103}{}{[Er rülpst laut] Wat wills'n du?}
 {104}{}{::Rülps::}
 {105}{}{Du wer?}
-{106}{}{Wer bist du?}
+{106}{}{Wer sind Sie?}
 {107}{}{Was weißt du über diesen Tanker?}
 {108}{}{Was machst du hier?}
 {109}{}{Ich möchte, daß du dich für mich in einen Computer hackst.}

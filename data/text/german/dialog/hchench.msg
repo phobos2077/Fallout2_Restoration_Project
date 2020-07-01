@@ -21,7 +21,7 @@
 {200}{}{Dir helfen?}
 {201}{}{Ja, ich will zum Karawanenmeister.}
 {202}{}{Kann ich Dir vielleicht ein paar Fragen über Chad stellen?}
-{203}{}{Wer bist du?}
+{203}{}{Wer sind Sie?}
 {204}{}{Nein, danke.}
 {205}{}{In diesem Fall möchtest du wohl mit Bill, dem Händler aus Broken Hills reden. Er ist in dem Gebäude da drüben.}
 {206}{}{Ich hab noch einige Fragen.}

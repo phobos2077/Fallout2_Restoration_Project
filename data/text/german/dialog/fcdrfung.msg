@@ -6,7 +6,7 @@
 {105}{}{Ja, ich bin verletzt und wie's aussieht, bist du Arzt.}
 {106}{}{Ja. Mein Freund braucht dringend einen Arzt.}
 {107}{}{Hast du Stimpaks? Ich möchte gern welche kaufen.}
-{108}{}{Wer bist du?}
+{108}{}{Wer sind Sie?}
 {109}{}{Einem Freund von mir fehlt die Milz. Kannst du ihm helfen?}
 {110}{}{Was kannst du mir über diesen Ort hier sagen?}
 {111}{}{Tschüß.}
@@ -57,7 +57,7 @@
 {171}{}{Brauchst du noch was?}
 {172}{}{Ich brauche Heilung.}
 {173}{}{Ein Freund von mir braucht Heilung.}
-{174}{}{Wer bist du?}
+{174}{}{Wer sind Sie?}
 {175}{}{Erzähl mir was über diesen Ort.}
 {176}{}{Einem Freund von mir fehlt die Milz. Kannst du ihm helfen?}
 {177}{}{Nein. Trotzdem danke.}

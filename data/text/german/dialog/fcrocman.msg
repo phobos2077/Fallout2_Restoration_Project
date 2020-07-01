@@ -43,7 +43,7 @@
 {163}{}{. Ich schau mich nur so um.}
 {170}{}{Ich brauche Hilfe, Kind. Kannst du mir helfen?}
 {171}{}{Ich brauche immer noch Hilfe, Kind. Kannst du mir helfen?}
-{172}{}{Wer bist du?}
+{172}{}{Wer sind Sie?}
 {173}{}{Was tust du hier?}
 {174}{}{Ich habe eine Kopie der Pläne von den Shi.}
 {175}{}{Ich habe die Pläne für die Vertibirds.}

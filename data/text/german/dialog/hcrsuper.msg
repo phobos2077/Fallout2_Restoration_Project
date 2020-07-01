@@ -6,7 +6,7 @@
 {105}{}{Da jagga! Iiep uuhp up!}
 {106}{}{Weiß nich.}
 {107}{}{Ich habe etwas, das veredelt werden soll.}
-{108}{}{Wer bist du?}
+{108}{}{Wer sind Sie?}
 {109}{}{Was ist das alles hier?}
 {110}{}{Ich möchte etwas Uranium.}
 {111}{}{Nichts.}

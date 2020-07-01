@@ -22,7 +22,7 @@
 {249}{}{Muttah. Mann is' Muttah!}
 {250}{}{Huubajuubiie}
 {251}{}{[Verschwinde]}
-{252}{}{Wer bist du?}
+{252}{}{Wer sind Sie?}
 {253}{}{Ich suche Arbeit. Stellt die Familie Wright Leute ein?}
 {254}{}{Sag mal, ich bin deiner Ma begegnet.}
 {255}{}{Kannst du mir was über Richard erzählen?}

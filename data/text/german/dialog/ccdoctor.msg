@@ -14,7 +14,7 @@
 {112}{}{Warum Todkralle in anderem Zimmer?}
 {113}{}{Warum Hundi bei Tür nicht bewegen? Gar nix?}
 {114}{}{Ich müssen gehen.}
-{115}{}{Wer bist du?}
+{115}{}{Wer sind Sie?}
 {116}{}{Was machst du hier?}
 {117}{}{Was ist das alles hier?}
 {118}{}{Wieso ist der Raum hier schalldicht?}

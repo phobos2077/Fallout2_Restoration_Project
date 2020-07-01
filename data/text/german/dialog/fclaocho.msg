@@ -5,7 +5,7 @@
 {104}{}{Was kann ich für dich tun?}
 {105}{}{Da eggel uuh!     }
 {106}{}{Sachen!}
-{107}{}{Wer bist du?}
+{107}{}{Wer sind Sie?}
 {108}{}{Ich brauche eine Ausrüstung.}
 {109}{}{Ich bräuchte da mal ein paar Infos.}
 {110}{}{Tschüß.}
@@ -72,7 +72,7 @@
 {171}{}{Danke. Tschüß.}
 {172}{}{Du bist ein Feind meines Volkes. Stirb!}
 {173}{}{Du hast meinem Volk geholfen, indem du AHS-9 vernichtet hast. Ich hoffe, ich kann auch dir irgendwie weiterhelfen.}
-{174}{}{Wer bist du?}
+{174}{}{Wer sind Sie?}
 {175}{}{Ich brauche eine Ausrüstung.}
 {176}{}{Ich bräuchte da mal ein paar Infos.}
 {177}{}{Tschüß.}

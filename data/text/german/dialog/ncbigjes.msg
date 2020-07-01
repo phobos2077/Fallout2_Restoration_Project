@@ -21,7 +21,7 @@
 {245}{}{[Stare back at him with a sneering gaze.]}
 {246}{}{[Stare back at him with affected disinterest.]}
 {247}{}{[[Verschwinde]]}
-{248}{}{Wer bist du?}
+{248}{}{Wer sind Sie?}
 {249}{}{Bist du Jesus Mordino?}
 {250}{}{Entschuldigung. Ich bin im falschen Zimmer.}
 {260}{}{Du. (Mordino starrt Myron beim Eintreten an, ein schwarzes Blitzen flackert in seinen Augen.) Du hast... deinen Posten verlassen. Für mich bist du nicht mehr... von NUTZEN. (Er macht eine Bewegung, und seine Wachen greifen nach ihren Waffen.)}

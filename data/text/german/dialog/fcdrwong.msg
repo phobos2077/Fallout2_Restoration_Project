@@ -5,7 +5,7 @@
 {104}{}{Dagi nuh?}
 {105}{}{Du wer?}
 {106}{}{Ich habe gehört, daß du die Milz von jemandem hast.}
-{107}{}{Wer bist du?}
+{107}{}{Wer sind Sie?}
 {108}{}{Was machst du hier?}
 {109}{}{Nein danke. Das ist alles.}
 {110}{}{Ich muß gestehen, daß ich deine Sprache nicht spreche. Vielleicht solltest du mit Ken Lee
@@ -128,21 +128,25 @@
 {390}{}{So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
 {391}{}{Yeah, some of them seem to be subservient. They even refer to him as 'master.'}
 {400}{}{Hmm... If he were to somehow establish an army of those plant-creatures, that would not bode well for the Shi. I was hoping it wouldn't come to this, but it seems we have no choice but to ensure that Dr. Sheng and his experiments are eliminated. Since he trusts you enough to allow you get close to him, you are the best candidate. Is that something you'd be willing to do? You would be compensated, of course.}
-{401}{}{It'd be a pleasure. The guy and his whole operation creeps me out.}
-{402}{}{What kind of compensation are we talking here?}
-{403}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
-{410}{}{The Shi will be most grateful for this service. Once Dr. Sheng and all of his creations have been eliminated, report back to me to receive your reward.}
+{401}{}{Es wäre mir ein Vergnügen. Der Typ und seine ganze Operation machen mir Angst.}
+{402}{}{Über welche Art von Entschädigung sprechen wir hier?}
+{403}{}{Nicht interessiert. Dr. Sheng ist dein Problem... ihr könnt euch um ihn kümmern.}
+{410}{}{Die Schi werden für diesen Dienst sehr dankbar sein. Sobald Dr. Sheng und alle seine Kreationen eliminiert sind,
+melden dich bei mir, um deine Belohnung entgegenzunehmen.}
 {411}{}{[Erledigt]}
-{420}{}{I'll leave that up to you. We could grant you weapons, supplies, or money. You may decide once the task is complete.}
+{420}{}{Das überlasse ich dir. Wir könnten dir Waffen, Vorräte oder Geld gewähren. Du kannst dich entscheiden, sobald die Aufgabe erledigt ist.}
 {421}{}{All right. I'll do it.}
-{422}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
-{423}{}{All right. I'll do it. But before I go, Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
-{430}{}{Fair enough. We will handle the problem ourselves, but it will have to wait, as we don't have the resources to expend at the moment. Hopefully it won't be too late once we are able to act. In the meantime, if you should change your mind, please let me know.}
-{431}{}{Don't count on it. Bye.}
+{422}{}{Nicht interessiert. Dr. Sheng ist dein Problem... ihr könnt euch um ihn kümmern.}
+{423}{}{Also gut. Ich werd's tun. Aber bevor ich gehe, wollte Dr. Sheng, dass ich Ihnen diese Pflanzenprobe übergebe. 
+Er meinte, sie sollte Ihnen beim Ziel der Erschaffung strahlenresistenter Pflanzen helfen.}
+{430}{}{In Ordnung. Wir werden uns selbst um das Problem kümmern, aber das muss warten, da wir im Moment nicht über die nötigen Mittel verfügen.
+Hoffentlich wird es nicht schon zu spät sein, sobald wir in der Lage sind zu handeln. Solltest du in der Zwischenzeit deine Meinung ändern,
+lass es mich bitte wissen.}
+{431}{}{Verlaß dich nicht darauf. Tschüss.}
 {432}{}{I'll think about it. Bye.}
-{433}{}{We'll see. Let me ask you something else.}
-{440}{}{I don't suppose you have changed your mind? Will you help us eliminate Dr. Sheng and his creations?}
-{441}{}{Nope, I actually wanted to ask you about something else.}
+{433}{}{Wir werden sehen. Laß mich dich noch was fragen.}
+{440}{}{Ich nehme nicht an, dass du deine Meinung geändert hast? Wirst du uns helfen, Dr. Sheng und seine Schöpfungen zu beseitigen?}
+{441}{}{Nö. Ich möchte dich aber nach etwas anderem fragen.}
 {442}{}{Alright, I'll take him out for you.}
 {443}{}{I'll do it, but for a price. You were talking about compensation before?}
 {450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}

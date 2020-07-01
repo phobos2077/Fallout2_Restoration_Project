@@ -5,7 +5,7 @@
 {104}{}{Was willst du?}
 {105}{}{Was kann ich für dich tun?}
 {106}{}{Du?}
-{107}{}{Wer bist du?}
+{107}{}{Wer sind Sie?}
 {108}{}{Was ist das alles hier?}
 {109}{}{Ich bin auf der Suche nach einigen Vermißten aus meinem Dorf.}
 {110}{}{Ich brauche Benzin.}

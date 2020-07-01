@@ -72,7 +72,7 @@
 {171}{}{Du bist nicht besonders geschickt. Deshalb verklemmt sich das Schloß an dem Behälter.}
 {172}{}{Du schaffst es nicht, das Schloß diesen Behälter zu öffnen.}
 {173}{}{öffnet geschickt das Schloß an dem Behälter.}
-{174}{}{ ist nicht besonders geschickt. Deshalb verklemmt sich das Schloß an dem Behälter.}
+{174}{}{ist nicht besonders geschickt. Deshalb verklemmt sich das Schloß an dem Behälter.}
 {175}{}{ schafft es nicht, das Schloß an dem Behälter zu öffnen.}
 {176}{}{Du hast das Schloß von dem Behälter abgebrochen.}
 {177}{}{Beim Aufbrechen des Schlosses verrenkst du dir den Rücken und wirst mit einem Trefferpunkt bestraft.}

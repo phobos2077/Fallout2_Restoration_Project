@@ -148,6 +148,6 @@
 {1239}{}{Mal sehen. Es sah so aus, als ob du und mein Neffe 'nen Horizontalen Tango unterm Betttuch tanzen würdet.}
 {1403}{}{Wie kannst du nur die Ehre meines Bruders besudeln }
 {1412}{}{daughter.}
-{1413}{}{son.}
+{1413}{}{Sohn.}
 {1600}{}{. Ich hoffe, du paßt gut auf meine Tochter Miria auf. Sie ist das Licht meines Lebens, und es würde mir das Herz brechen, wenn ihr etwas zustoßen würde. Wo ist sie eigentlich? Ich wollte sie eigentlich wiedersehen.}
 {1601}{}{. Wie bekommt dir das Eheleben denn so? Wie ich sehe, reist mein Sohn Davin nicht mit dir zusammen. Ich vermisse ihn schon sehr. Vielleicht kannst du ihn ja beim nächsten Besuch mitbringen. Das wär eine große Freude für einen alten Mann, wenn er seinen einzigen Sohn wiedersehen könnte.}

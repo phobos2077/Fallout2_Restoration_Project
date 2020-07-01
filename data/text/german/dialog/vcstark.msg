@@ -37,7 +37,7 @@
 {132}{}{Was willst du?}
 {133}{}{Jah!}
 {134}{}{Verzieh dich}
-{135}{}{Wer bist du?}
+{135}{}{Wer sind Sie?}
 {136}{}{Nichts. Entschuldige die Störung.}
 {137}{}{Du kommst jetzt mit, Bürschlein. Auf der Stelle.}
 {138}{}{Du kommst jetzt mit, Mädchen. Auf der Stelle.}

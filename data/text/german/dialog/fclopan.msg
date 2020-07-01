@@ -5,7 +5,7 @@
 {104}{}{Daggel aggel aggel!}
 {105}{}{Wer du?}
 {106}{}{Mit wem hast du da gekämpft?}
-{107}{}{Wer bist du?}
+{107}{}{Wer sind Sie?}
 {108}{}{Ich möchte lernen, wie du zu kämpfen. Lehre mich.}
 {109}{}{Ich möchte dich herausfordern.}
 {110}{}{Vergiss es.}

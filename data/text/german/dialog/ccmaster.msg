@@ -43,7 +43,7 @@
 {139}{}{Fische?}
 {140}{}{Ich will eine Powerrüstung.}
 {141}{}{Schwertfisch.}
-{142}{}{Right. Unit?}
+{142}{}{Richtig. Einheit?}
 {143}{}{Arroyo.}
 {144}{}{Nö.}
 {145}{}{Ich habe mich verbessert.}

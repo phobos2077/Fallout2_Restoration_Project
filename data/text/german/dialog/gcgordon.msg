@@ -89,10 +89,10 @@
 {301}{}{Ich kann mir nicht vorstellen, daß sie in Vault City besonders an Informationen von
  Ghuls interessiert sind.}
 {302}{}{Nein, hab ich noch nicht... aber ich werd's tun. Tschüß.}
-{303}{}{Delivering that data to Vault City is only one of the many steps you need to take. Our atomic power
- plant is still barely operational and needs to be fixed.}
-{304}{}{I will get right on it. Goodbye.}
-{305}{}{Yeah, maybe some other time.}
+{303}{}{Die Lieferung dieser Daten an Vault City ist nur einer der vielen Schritte, die du unternehmen musst.
+Unser Atomkraftwerk ist immer noch kaum betriebsfähig und muss repariert werden.}
+{304}{}{Ich werd mich gleich drum kümmern. Bis dann.}
+{305}{}{Vielleicht ein andermal.}
 {310}{}{Danke, daß du unser Atomkraftwerk repariert hast. Der nächste Schritt auf dem Plan des
  alten Gordon aus Gecko läuft wunderbar. Gier ist doch was Wunderbares. Du kannst stolz sein,
  daß du mitmachen darfst.}

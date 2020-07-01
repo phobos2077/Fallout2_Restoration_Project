@@ -91,7 +91,7 @@
 {507}{}{Willst du was, Chica?}
 {508}{}{Hu uuh?}
 {511}{}{[Verschwinde]}
-{512}{}{Wer bist du?}
+{512}{}{Wer sind Sie?}
 {513}{}{Tut mir leid. Ich dachte, du wärst jemand anderes.}
 {522}{}{Äh...? Du schon wieder? Was willst du jetzt?}
 {523}{}{Heeeey... wassn los, Kumpel? Haste was vor?}
@@ -306,7 +306,7 @@
 {5256}{}{?}
 {5257}{}{. Kommste mit?}
 {5271}{}{. Verkneif's dir und hau ab, sonst setzt's was.}
-{5273}{}{ s versuchen, sich mit uns anzulegen und aus dir wird Fischfutter. Raus hier!}
+{5273}{}{s versuchen, sich mit uns anzulegen und aus dir wird Fischfutter. Raus hier!}
 {5276}{}{? Mit der bin ich fertig - vielleicht sollte ich mich jetzt um dich kümmern.}
 {5280}{}{, du gehst besser.}
 {5320}{}{? Du solltest wirklich aufrecht gehen.}
@@ -322,6 +322,6 @@
 {5542}{}{! Der große alte Kämpfer! Mann, du bist gut!}
 {5543}{}{! Das garstige Kampfmädel! Du bist gut, Mädchen!}
 {5560}{}{? }
-{6035}{}{ s Hand Nicht BERÜHREN }
-{7035}{}{ s Hand }
+{6035}{}{s Hand Nicht BERÜHREN }
+{7035}{}{s Hand }
 {8035}{}{ NIX MÖGEN}

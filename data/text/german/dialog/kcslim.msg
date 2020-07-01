@@ -122,4 +122,4 @@
 {403}{}{Was ist bloß mit den Ratten passiert?}
 {404}{}{Gut daß wir die Nagetierplage los sind.}
 {405}{}{Bist wohl so was wie der Rattenfänger von Hameln, was? Danke!}
-{406}{}{No way. I will only trade this here key for something you got. No fast talk.}
+{406}{}{Auf keinen Fall. Ich werde diesen Schlüssel hier nur gegen etwas eintauschen, das du hast. Keine Beschwatzen!}

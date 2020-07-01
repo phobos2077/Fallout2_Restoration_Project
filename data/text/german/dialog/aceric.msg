@@ -4,5 +4,5 @@
 {103}{}{Bahh!!! Der Brunnen muß wirklich repariert werden.}
 {104}{}{Hey, danke, daß du den Brunnen repariert hast.}
 {105}{}{Sei vorsichtig.}
-{106}{}{Der Brunnen ist repariert. Du hast es geschafft.}
+{106}{}{Der Brunnen ist repariert. Du hast es geschafft!}
 {200}{}{Du siehst deinen Neffen Feargus.}

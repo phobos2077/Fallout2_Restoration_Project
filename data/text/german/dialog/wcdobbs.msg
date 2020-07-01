@@ -1,7 +1,7 @@
 {100}{}{Ein Mann, in einem gewöhnlichen militärischen Kampfanzug.}
 {101}{}{Er sieht ganz gesund aus, wirkt aber ziemlich orientierungslos.}
 {102}{}{Oh, mein Kopf.}
-{103}{}{Wer bist du?}
+{103}{}{Wer sind Sie?}
 {104}{}{Ug!}
 {105}{}{Ich... Ich bin Dobbs... Gefreiter.}
 {106}{}{Kannst du mir sagen, wie du hierhergekommen bist?}

@@ -7,7 +7,7 @@
 {106}{}{Wie kann ich dir helfen?}
 {107}{}{Was willst du?}
 {108}{}{Da...uuuh...}
-{109}{}{Wer bist du?}
+{109}{}{Wer sind Sie?}
 {110}{}{Was machst du hier?}
 {111}{}{Ich hab mit Vikki gesprochen. Sie und Juan haben sich über dich lustig gemacht. Sie sagen, du bist kein richtiger Mann.}
 {112}{}{Ich hab mit Vikki gesprochen. Sie sagt, sie findet dich scharf und würd dich gern mal vernaschen.}

@@ -167,7 +167,7 @@
 {315}{}{Na also. Schon besser, oder?}
 {316}{}{[Fortfahren]}
 {400}{}{Dogmeat.}
-{401}{}{K-9.}
+{401}{}{K-9}
 {402}{}{Kitsune.}
 {403}{}{Dex.}
 {404}{}{Cat Jules.}

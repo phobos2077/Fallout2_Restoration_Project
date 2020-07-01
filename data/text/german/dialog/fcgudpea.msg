@@ -3,7 +3,7 @@
 {102}{}{Diese Person sieht anders aus, als alle, die du je gesehen hast. Sie scheint dich nicht
  groﬂ zu beachten.}
 {103}{}{Du bist doch kein Spion, oder?}
-{104}{}{Wer bist du?}
+{104}{}{Wer sind Sie?}
 {105}{}{Fisch und Seetang. Das ist alles, was wir hier kriegen.}
 {106}{}{Ha ha! Nun schau dir nur diese komischen Rundaugen an!}
 {107}{}{Du siehst aus wie ein Hubologe.}

@@ -4,7 +4,7 @@
 {103}{}{Mal sehen, wie dir das gefällt, du asoziales Schwein.}
 {104}{}{Was willste?}
 {105}{}{Aahhrg, aaahrg.}
-{106}{}{Wer bist du?}
+{106}{}{Wer sind Sie?}
 {107}{}{Was ist das alles hier?}
 {108}{}{Schon mal was von einem GECK gehört?}
 {109}{}{Hör mal, Eric fragt, ob er mehr Strom zugeteilt bekommen kann. Er sagt, daß er zuviel schwitzt.}

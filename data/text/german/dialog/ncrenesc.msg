@@ -21,7 +21,7 @@
 {239}{}{OK, gut. Muﬂ erst BH aufmachen. Warte. (Zip)}
 {240}{}{Was ich WOLLEN? Was du HABEN?}
 {241}{}{[Starre ihn einen Moment an, nur um sicherzugehen, daﬂ er echt ist, und geh dann weg]}
-{242}{}{Wer bist du?}
+{242}{}{Wer sind Sie?}
 {243}{}{Hey, ich hab eine Brille, wenn du sie willst.}
 {244}{}{Wie ist die Brille?}
 {245}{}{Weiﬂt du, es gibt koffeinfreie Marken, die genausogut schmecken wie die richtigen.}

@@ -3,17 +3,17 @@
 3:Das Ende der Welt ereignete sich mehr oder weniger so wie wir es vorausgesehen hatten.
 4:Zu viele Menschen, zu wenig Platz, zu wenig Ressourcen.
 5:Die Einzelheiten sind trivial und unbedeutend, die Gründe, wie immer, rein menschlicher Natur.
-6:Aber Krieg ist immer gleich.
+6:In 2077, the earth was nearly wiped clean of human life.
 7:Eine große Säuberung, ein atomarer Funke, gezündet von Menschenhand, geriet schnell außer Kontrolle.
 8:Nukleares Feuer regnete auf die Erde herab.
 9:Kontinente gingen in Flammen auf und versanken in den brodelnden Fluten der Ozeane.
-10:Wegen dieser Schätze marschierte China in Alaska ein, annektierten die USA Kanada, und die Vereinigten Staaten von Europa zerfielen in zerstrittene Nationalstaaten, nur darauf aus, die letzten Bodenschätze der Welt zu kontrollieren.
+10:Humanity was almost extinguished, their spirits becoming part of the background radiation that blanketed the earth.
 11:Stille Dunkelheit breitete sich über dem Planeten aus und dauerte viele Jahre an.
 12:Nur wenige überlebten den verheerenden Schlag.
 13:Einige hatten Glück gehabt und sich in großen unterirdischen Vaults in Sicherheit bringen können.
-14:Einige schafften es, sich in halbwegs sichere, große unterirdische Vaults zu retten.
+14:When the great darkness passed, these vaults opened, and their inhabitants emerged to begin their lives again.
 15:Einer der Stämme im Norden führt seinen Ursprung auf eine solche Vault zurück.
-16:Sicher eingeschlossen hinter der riesigen Tür, unter massivem Felsgestein, lebt eine Generation, die nichts über die Außenwelt weiß.
+16:They hold that their founder and ancestor, one known the "Vault Dweller," once saved the world from a great evil.
 17:Der Überlieferung nach hatte dieses Übel seinen Ursprung im tiefen Süden und verdarb jeden, der damit in Berührung kam.
 18:Menschen änderten ihre Gesinnung und verwandelten sich in wilde Tiere.
 19:Nur der Tapferkeit des Vaultbewohners war es zu verdanken, daß das Übel vernichtet wurde.

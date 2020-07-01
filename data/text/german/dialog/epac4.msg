@@ -5,7 +5,7 @@
 {201}{}{Ich bin das Auserwählte Wesen aus Arroyo. Ich erforsche die EPA.}
 {202}{}{Ich bin kein Eindringling und werde jetzt gehen.}
 {203}{}{Ich bin }
-{204}{}{ und kein Eindringling. Ich erforsche nur.}
+{204}{}{und kein Eindringling. Ich erforsche nur.}
 {210}{}{Erforschen!? Erforschen...MEINE...EPA!? Wie können Sie es wagen, hier dreist einzubrechen und unbekümmert rum zu laufen! Dickhead! Ich hab nicht übel Lust Sie festzunehmen und Ihren Arsch in den Streichelzoo zu stecken — um dieser Monstrositätenschau ein wahres Fest zu liefern.}
 {211}{}{Nein, warte! Ich richte keinen Schaden an! Lass mich erklären...}
 {220}{}{Sie gehen nirgendwo hin, Fathead. Niemand schlendert durch MEINE EPA ohne seine Absichten darzulegen. Woher soll ich wissen dass Sie nicht ein chinesischer Spion sind?}

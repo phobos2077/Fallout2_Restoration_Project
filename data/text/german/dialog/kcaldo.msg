@@ -72,6 +72,6 @@
 {910}{}{Nun (hick), ich hab Vic schon 'ne ganze Weile nicht gesehen. Ich weiß nicht (rülps), wo er sich rumtreibt. Du kannst (rülps) Jenny drüben im Badehaus fragen Sie und Vic waren ziemlich dicke (hick) Freunde. Heh, heh, heh. Hat's gefunkt? Oh Mann, ich hab meinen Scharfsinn nicht verloren.}
 {911}{}{Gut zu wissen, daß du nichts verlieren kannst, das du noch nie hattest, egal, wie tief du sinkst. Ich werd's riskieren, dir eine Frage zu stellen.}
 {912}{}{Gott sein Dank, du bist einmalig, Aldo. Ich glaube, das genügt mir erst mal.}
-{920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
-{921}{}{Moar? Ook.}
+{920}{}{Nochmals hallo, mein Freund! Weisst du, unsere Freundschaft könnte noch viel inniger sein, wenn noch weitere 20 Dollar drinnen wären.}
+{921}{}{Määhr? Uhk.}
 {922}{}{Me no share. Byee.}

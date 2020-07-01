@@ -3,7 +3,7 @@
 {102}{}{Blondes Haar, blaue Augen, ein typisch amerikanischer Junge.}
 {150}{}{Wäääää!}
 {151}{}{Ich will meinen Hund wieder!}
-{152}{}{Whimper... }
+{152}{}{Winsel...}
 {153}{}{Fremder!}
 {154}{}{Komm zu Jonny, Laddie! Ich hab dich vermißt. Danke, daß du meinen Hund zurückgebracht hast.}
 {155}{}{Hallo, dich hab ich hier ja noch nie gesehen.}

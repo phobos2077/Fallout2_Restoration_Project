@@ -320,7 +320,7 @@
 {1402}{}{Du hast deinen dritten Gegner besiegt.}
 {1403}{}{Du hast den Beiﬂer besiegt!}
 {1404}{}{Du bist jetzt der Schwergewichts-Champion von New Reno.}
-{1405}{}{You have defeated your last challenger!}
+{1405}{}{Du hast deinen letzten Herausforderer geschlagen!}
 {1500}{}{Du hast Mrs. Wright dazu gebracht, die Brennerei zu vernichten.}
 {1550}{}{Du hast die geheime Transaktion beobachtet.}
 {1600}{}{Im Eifer des Gefechts reiﬂt der Beiﬂer dir ein Ohr ab.}

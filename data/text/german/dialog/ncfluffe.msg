@@ -81,7 +81,7 @@
 {334}{}{::Glares at you::}
 {335}{}{Na toll. NOCH 'ne Mieze. So wie die aussieht, arbeitet die bestimmt für den halben Preis.}
 {336}{}{Wer ist die denn?}
-{337}{}{Wer bist du?}
+{337}{}{Wer sind Sie?}
 {345}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muß, muß ich mich übergeben.}
 {346}{}{Gar nicht so einfach, 'ne Mieze zu sein.}
 {347}{}{I hear the Families are getting tense again.}
@@ -90,7 +90,7 @@
 {350}{}{Na toll. NOCH 'ne Mieze. So wie die aussieht, arbeitet die bestimmt für den halben Preis.}
 {351}{}{::Glares at you::}
 {352}{}{Wer ist die denn?}
-{353}{}{Wer bist du?}
+{353}{}{Wer sind Sie?}
 {360}{}{Die Enklave? Präsident? Erzähl mir die ganze Geschichte.}
 {361}{}{Tom French scripted me. He has soft, gentle hands.}
 {362}{}{They were still fighting the WAR?! Really! Good thing you wasted those bastards.}

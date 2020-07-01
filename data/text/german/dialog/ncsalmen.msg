@@ -15,7 +15,7 @@
 {172}{}{Versuchst du dich unauffällig zu verhalten?}
 {173}{}{Warum schleichst du herum? Jagd dich jemand?}
 {180}{}{Na, ist das nicht }
-{181}{}{You LOST, pal? You better get out of here.}
+{181}{}{Hast du dich verlaufen, Kumpel? Du verschwindest besser von hier.}
 {182}{}{Der Kerl bettelt ja förmlich nach Ärger...}
 {183}{}{Raus hier, und zwar sofort. }
 {184}{}{Wenn du nicht gerade Ärger suchst, solltest du besser hier abhauen.}
@@ -88,8 +88,7 @@
 {306}{}{Das ist hier kein Pornostudio, Liebster.}
 {307}{}{Mach deine Geschäfte woanders, Schätzchen.}
 {310}{}{Tut mir wirklich leid... wirklich... aber ich hab jetzt keine Zeit zu reden.
- Schau nach der Arbeit vorbei, falls du Zeit hast.
-}
+ Schau nach der Arbeit vorbei, falls du Zeit hast.}
 {311}{}{Es bricht mir das Herz, aber ich kann jetzt wirklich nicht reden.}
 {312}{}{Geh jetzt, du lenkst mich ab, Schatz.}
 {313}{}{Ich kann dir nicht helfen.}

@@ -206,15 +206,15 @@
  Reaktor herunterfährt.}
 {244}{}{Danke für die Informationen. Dein Opfer werden alle Völker der Erde für immer in Ehren halten.}
 {245}{}{Zeit, daß du zu Sinnen kommst, alter Schwachkopf. Jetzt beweg dich.}
-{246}{}{Als die Stern' die Speere senkten,}
+{246}{}{When the stars threw down their spears,}
 {247}{}{                                 Und mit Tränen Himmel tränkten,}
 {248}{}{                                  Freut' er da des Werkes sich?}
 {249}{}{                                     Schuf er, der auch das Lamm schuf, dich?}
 {250}{}{Häh?}
 {251}{}{Ach, nur was von einem Dichter, der schon lange tot ist. Ich frage mich, ob es immer noch
- einen Ort gibt für Leute, die so lange auf so ein böses Ziel hingearbeitet haben. Unsere Zeit
- ist vorbei, eure beginnt. Mach dich auf!}
-{252}{}{Oh, OK, danke für die Hilfe, Doktor. Du bist ein tapferer Mann.}
+einen Ort gibt für Leute, die so lange auf so ein böses Ziel hingearbeitet haben. Unsere Zeit
+ist vorbei, eure beginnt. Mach dich auf!}
+{252}{}{Oh, ok, danke für die Hilfe, Doktor. Du bist ein tapferer Mann.}
 {253}{}{Du bist ein Irrer, aber ein nützlicher Irrer. Tschüß.}
 {254}{}{Mach schon!}
 {255}{}{Verschwinde.}

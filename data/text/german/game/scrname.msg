@@ -731,11 +731,11 @@
 {831}{}{Map Script}
 {832}{}{Mysteriöser Fremder}
 {833}{}{Tollwütiges Brahmin}
-{834}{}{Yakuza Member}
+{834}{}{Yakuza-Mitglied}
 {835}{}{Verirrter}
 {836}{}{Hund}
 {837}{}{Kiste}
-{838}{}{Patrol Member}
+{838}{}{Patrouillenmitglied}
 {839}{}{Reisender}
 {840}{}{Rauch}
 {841}{}{Händler}
@@ -761,7 +761,7 @@
 {861}{}{}
 {862}{}{}
 {863}{}{Goldsucher}
-{864}{}{Gang Member}
+{864}{}{Gangmitglied}
 {865}{}{Nomadenhäuptling}
 {866}{}{Hubologe}
 {867}{}{Irrer}

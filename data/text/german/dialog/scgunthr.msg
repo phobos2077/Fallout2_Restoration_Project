@@ -6,7 +6,7 @@
 {103}{}{Kann ich etwas für dich tun?}
 {104}{}{Du schon wieder?}
 {105}{}{Ähhhh...Arbeit. Arbeit Tandi.}
-{106}{}{Wer bist du?}
+{106}{}{Wer sind Sie?}
 {107}{}{Ich würde gern zu Präsidentin Tandi. Ich möchte für sie arbeiten.}
 {108}{}{Tut mir leid, war wohl das falsche Büro.}
 {109}{}{Du wollen Arbeit?}
@@ -96,4 +96,4 @@
 {501}{}{Ich muß dich auffordern zu gehen.}
 {502}{}{Das ist meine letzte Warnung. Geh, oder ich laß dich entfernen.}
 {503}{}{Wache, schafft mir dieses Ungeziefer vom Hals.}
-{510}{}{Well, wait a minute. I have more to discuss with your boss about Vault 15.}
+{510}{}{Nun, warte einen Moment. Ich muss mit deinem Chef noch über Bunker 15 sprechen.}

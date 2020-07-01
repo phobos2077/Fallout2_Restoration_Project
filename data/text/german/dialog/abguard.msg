@@ -1,46 +1,51 @@
 {100}{}{You see a Tough Guard.}
-{101}{}{You see an impressively muscled, but aging guard with sun burnt skin. He must have been quite something in his
- prime. His piercing gaze seems to follow you everywhere.}
-{200}{}{Hi there, traveler. Welcome to the Abbey. Keep your nose clean and we'll get along just fine.}
-{201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
- I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
- warped brain of yours.}
-{202}{}{Wer bist du?}
-{203}{}{Where can I barter for some supplies?}
-{204}{}{Somebody is digging up graves, why don't you do anything about it?}
-{205}{}{I heard something about animals in the basement. Know anything about that?}
-{206}{}{I think it's time I send you to a grave. Let's dance, old man.}
+{101}{}{Sie sehen einen beeindruckend muskulösen, aber alternden Wächter mit sonnenverbrannter Haut. Er muss etwas
+ganz Besonderes gewesen sein in seiner Blütezeit. Sein durchdringender Blick scheint Ihnen überallhin zu folgen.}
+{200}{}{Hallo, Reisender. Willkommen in der Abtei. Mach keinen Ärger und wir werden gut miteinander 
+auskommen.}
+{201}{}{Ich beobachte dich, Sklavenhändler. Eine falsche Bewegung und du wirst unseren Friedhof für den
+Rest der Ewigkeit beschmutzen. Das würde mir nicht gefallen, und ich bin mir ziemlich sicher, dass dir das 
+auch nicht gefallen würde. Also hecke in deinem verkorksten Gehirn bloss nichts aus, verstanden!?}
+{202}{}{Wer sind Sie?}
+{203}{}{Wo kann ich für Vorräte handeln?}
+{204}{}{Jemand gräbt Gräber aus. Warum unternehmen Sie nichts dagegen?}
+{205}{}{Ich habe etwas über Tiere im Keller gehört. Wissen Sie etwas darüber?}
+{206}{}{Ich denke, es ist an der Zeit, Sie ins Grab zu schicken. Lass uns tanzen, alter Mann.}
 {207}{}{Vergiss es. Tschüß.}
-{300}{}{Nobody... Just an old retired caravan guard. A lot of people mistake me for some sort of sheriff because I'm
- the closest thing resembling the law in these parts, but I'm not. I just look out for this community because I think
- it's worth protecting.}
-{301}{}{And in return the community looks out for me. I get some complimentary booze from the monks, Peterson makes
- sure I'm fed and Bill makes sure I've got ammo and stims. Not a bad retirement gig, if you ask me.}
-{302}{}{I'm the one keeping you in line, and that's all you need to know. Now get on with your business and leave me
- alone.}
-{303}{}{That is a nice arrangement. Let me ask you something else.}
+{300}{}{Niemand... Nur eine alte Karawanenwache im Ruhestand. Viele Leute verwechseln mich mit einer Art Sheriff, 
+weil ich dem Gesetz in dieser Gegend am nächsten komme, aber ich bin es nicht. Ich passe nur auf diese
+Gemeinschaft auf, weil ich sie für schützenswert halte.}
+{301}{}{Und im Gegenzug hält die Gemeinschaft Ausschau nach mir. Ich bekomme von den Mönchen kostenlosen Schnaps, 
+Peterson sorgt für meine Verpflegung und Bill dafür, dass ich Munition und Aufputschmittel kriege. Kein schlechter
+Ruhestandsjob, wenn Sie mich fragen.}
+{302}{}{Ich bin derjenige, der dich im Zaum hält, und das ist alles, was du wissen musst. Und jetzt kümmer dich um deine
+Angelegenheiten und lass mich allein.}
+{303}{}{Das ist eine nette Übereinkunft. Ich möchte Sie noch etwas anderes fragen.}
 {304}{}{Whatever, goodbye.}
-{305}{}{You think you can keep me in line? Let's see you try it, old man. This should be fun.}
-{400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
- to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City.}
+{305}{}{Sie glauben, Sie könnten mich im Zaum halten? Dann zeig mal, was du kannst,
+alter Mann. Das wird sicher lustig.}
+{400}{}{Sie finden Bill, unseren ansässigen Händler, im Gebäude gegenüber von hier. Ansonsten gibts noch
+Percys Survival-Laden auf dem Schrottplatz in Gecko oder Happy Harry's im Hinterhof von Bunkerstadt.}
 {401}{}{Good to know. I have another question.}
 {402}{}{Danke, Tschüß.}
-{500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
- use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
+{500}{}{Wenn jemand arm oder gierig genug ist, um zu versuchen, Gräber auszuheben, ist das seine Sache.
+Es ist nicht so, dass die Toten  das benutzen, womit sie ohnehin begraben sind. Nicht mein Problem... 
+Ich verliere deswegen jeweils keinen Schlaf.}
 {501}{}{Ich möcht dich noch was andres fragen.}
 {502}{}{Tschüß.}
-{600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
- but I don't think it's just a bunch of rats and radscorpies.}
-{601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
- and radscorpies. Why don't you find out, tough guy?}
-{602}{}{So why don't you go look?}
-{603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
-{610}{}{It's a bit embarrassing, but after spending so much time outdoors with the caravans, I get very nervous when I
- go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
- Brother Thomas?}
+{600}{}{Ja, und Bruder Thomas wird vermisst. Er war ein kluger Mann, aber ein bisschen tollkühn. Ich weiß nicht, 
+was sich da unten rumtreibt, aber ich glaube nicht, dass es nur ein paar Ratten und Radskorpions sind.}
+{601}{}{Ja, und Bruder Thomas wird vermisst. Er war ein kluger Mann, aber ein bisschen tollkühn. Ich weiß nicht, 
+was sich da unten rumtreibt, aber ich glaube nicht, dass es nur ein paar Ratten und Radskorpions sind.
+Warum findest du harter Kerl es nicht selber raus?}
+{602}{}{Also warum siehst du es dir nicht selber an?}
+{603}{}{Du bist doch hier der harte Kerl, nicht wahr? Warum schleppst du deinen Arsch dann nicht da runter?}
+{610}{}{Es ist ein bisschen peinlich, aber nachdem ich so viel Zeit mit den Karavanen im Freien verbracht habe, werde ich
+sehr nervös, wenn ich in den Keller gehe. Die Wände rücken dicht an mich heran und ich kann kaum atmen... 
+Vielleicht kannst du ja herausfinden, was mit Bruder Thomas passiert ist?}
 {611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
 {612}{}{Tschüß.}
-{613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
+{613}{}{Ich bin ein harter Kerl, weshalb ich Ihnen nun in den Arsch treten werde.}
 {700}{}{Was willst du sonst noch wissen?}
 {800}{}{It's good to see you again.}
 {801}{}{I'm keeping my eye on you.}

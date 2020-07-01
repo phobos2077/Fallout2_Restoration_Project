@@ -7,7 +7,7 @@
 {203}{}{Hallo!}
 {204}{}{(Du starrst auf ihre Brüste und fängst an zu sabbern.)}
 {205}{}{[Verschwinde]}
-{206}{}{Wer bist du?}
+{206}{}{Wer sind Sie?}
 {207}{}{Ich hätte da ein paar Fragen, Mrs. Bishop.}
 {208}{}{Tut mir leid, ich habe mit jemand anderem gerechnet. Auf Wiedersehen.}
 {210}{}{*Was?*}

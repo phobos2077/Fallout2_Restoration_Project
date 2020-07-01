@@ -5,7 +5,7 @@
 {103}{}{Kann ich dir irgendwie helfen?}
 {104}{}{Är?}
 {105}{}{Hier arbeiten!}
-{106}{}{Wer bist du?}
+{106}{}{Wer sind Sie?}
 {107}{}{Was kannst du mir über Chad erzählen?}
 {108}{}{Ich hab leider keine Zeit für Idioten. Tut mir leid, aber du mußt dir jemand anderen zum
  Spielen suchen.}

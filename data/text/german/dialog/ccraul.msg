@@ -18,8 +18,8 @@
 {114}{}{Weißt du, Quincy hat gesagt, du bist 'n Vollidiot und daß du zu feige bist, ihm Bericht
  zu erstatten.}
 {115}{}{He Mann, Raul läßt sich nichts gefallen. Siehst du, daß Quincy an den Vögeln arbeitet?
- Niemals, Mann. Nur Raul arbeitet an den Babys. Weißt du warum? Weil Quincy keine Ahnung von
- VÖGELN hat, Mann, darum!}
+Niemals, Mann. Nur Raul arbeitet an den Babys. Weißt du warum? Weil Quincy keine Ahnung von
+VÖGELN hat, Mann, darum!}
 {116}{}{Äh...}
 {117}{}{Also...}
 {118}{}{He, tut mir leid, Mann. Raul sollte dich nicht anbrüllen, klar? Is' nich' deine Schuld,

@@ -364,14 +364,14 @@
 {1176}{}{Tschühüß}
 {1177}{}{Deine Wachen sind zu sehr damit beschäftigt, tot zu sein, um die Tür zu bewachen.}
 {1178}{}{Ich bin mit diesem Ausweis reingekommen. Marjorie hat mich geschickt.}
-{1179}{}{Wer bist du?}
+{1179}{}{Wer sind Sie?}
 {1180}{}{Du Myron?}
 {1181}{}{Immer mit der Ruhe, Tiger. Halte deine Hormone unter Kontrolle. Wer bist du?}
 {1182}{}{Immer mit der Ruhe, Tiger. Halte deine Hormone unter Kontrolle. Bist du Myron?}
 {1183}{}{Tut mir leid. Ich hab wohl die falsche Tür erwischt.}
 {1195}{myn202}{Soso. Wer bist du? Spuck's aus, oder ich laß es von den Wachen aus dir rausprügeln.}
 {1196}{}{Deine Wachen sind zu tot, um noch viel anzustellen. Noch Fragen, du kleine Kröte?}
-{1197}{}{Wer bist du?}
+{1197}{}{Wer sind Sie?}
 {1198}{}{Du Myron?}
 {1199}{}{Ich mach mich dann wohl mal wieder auf den Weg. War schön, mit dir zu plaudern.}
 {1205}{myn203}{Na toll. Einer von diesen geistigen Kleingärtnern da oben. Ich hab hier nicht viel, aber du-können-nehmen was-du-wollen.}

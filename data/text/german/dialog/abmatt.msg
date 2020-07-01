@@ -5,14 +5,14 @@
 {201}{}{Hier sammeln wir die heiligen Relikte einer längst vergangenen Zeit.}
 {202}{}{Versengt vom großen Feuersturm, warf man uns in die Dunkelheit.}
 {203}{}{Wir erstellen eine Memorabilia, um die Weisheit der Alten zu behüten.}
-{204}{}{Wir müssen sie schützen und hegen, obschon die Feuer verglühten.}
+{204}{}{Wir müssen sie schützen und hegen, obschon die Feuer verglühten;}
 {205}{}{Die Flammen werden wieder emporlodern, sollte das Wissen missbraucht werden.}
 {206}{}{So soll niemand lernen, aus Sorge vor einem neuen Feuersturm auf Erden.}
 {207}{}{Aber eines Tages wird sich die Menschheit über ihr Verlangen nach Zerstörung erheben.}
 {208}{}{Und die Memorabilia wird da sein, um ihre Wiederentstehung zu erleben.}
 {209}{}{Also pflegen wir unsere heilige Aufgabe, all das Wissen zusammenzutragen.}
 {210}{}{Wir müssen es bewahren und beschützen, es zu nutzen dürfen wir nicht wagen.}
-{211}{}{So geht jetzt meine Freunde und läutert euren Geist.}
+{211}{}{So geht jetzt meine Freunde und läutert euren Geist;}
 {212}{}{Zu den Hütern des Wissens, ihr alle berufen seid.}
 {213}{}{Und nun, nehmt euch einen Moment Zeit und denkt darüber nach was ich gesagt habe.}
 {224}{}{Und nun, nehmt euch einen Moment Zeit und denkt darüber nach was ich gesagt habe.}

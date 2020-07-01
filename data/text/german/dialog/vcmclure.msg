@@ -17,7 +17,7 @@
 {115}{}{Weiiihnachtsmaaann?}
 {116}{}{Verzieh dich}
 {117}{}{Kann ich dir einige Fragen stellen?}
-{118}{}{Wer bist du?}
+{118}{}{Wer sind Sie?}
 {119}{}{Ich schau' mich nur um, danke. Guten Tag.}
 {120}{}{Wie bist Du in unsere Stadt gekommen? Wache! Wir haben einen Outsider, der zum Tor begleitet werden muﬂ!}
 {121}{}{Ich gehe nein ICH GEHE NEIN}

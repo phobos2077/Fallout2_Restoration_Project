@@ -4,7 +4,7 @@
  wie man das bei Säufern häufig sieht. Außerdem riecht er ziemlich übel.}
 {103}{}{Hallo, Fremdling!}
 {104}{}{Gruh?}
-{105}{}{Wer bist du?}
+{105}{}{Wer sind Sie?}
 {106}{}{Ich heiß Bob. Pökel-Bob, jawohl. Und du?}
 {107}{}{Wie war gleich noch mal der Name, Fremdling? Ich bin Pökel-Bob.}
 {108}{}{[Spielername]}

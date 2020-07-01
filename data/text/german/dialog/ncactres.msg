@@ -64,7 +64,7 @@
 {287}{}{Gott sei dank haben die endlich diese gepolsterte Kopfstütze angebracht.}
 {288}{}{Mir wär es lieber, wenn du nicht reden würdest, während du mit mir sprichst. Denk dir
  lieber was und stell dir vor, ich würde dir antworten.}
-{289}{}{Wer bist du?}
+{289}{}{Wer sind Sie?}
 {290}{}{Bist du einer von den Hausmeistern?}
 {295}{}{Bist du nicht etwas zu klein für die Sturmtruppen?}
 {296}{}{Arrrghhhhhh! Was machst du denn? Ich soll wohl einen Herzinfarkt kriegen?! Raus hier!}

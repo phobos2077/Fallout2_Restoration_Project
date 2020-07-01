@@ -105,7 +105,7 @@
 {391}{}{Wer du}
 {392}{}{ wollen Automat spielen}
 {393}{}{[Verschwinde]}
-{394}{}{Wer bist du?}
+{394}{}{Wer sind Sie?}
 {395}{}{Was machst du?}
 {396}{}{Was dagegen, wenn ich zieh?}
 {397}{}{Egal. Tut mir leid, daﬂ ich dich bel‰stigt habe.}

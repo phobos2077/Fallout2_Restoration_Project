@@ -94,7 +94,7 @@
 {341}{}{Danke. Kann ich dich was fragen?}
 {342}{}{Okay, danke.}
 {343}{}{Dankey Direy.}
-{344}{}{Asky?}
+{344}{}{Fraag?}
 {350}{}{Nein, ich glaube nicht.}
 {351}{}{Fred schuldet mir $200. Wenn du es eintreiben kannst, können wir einen Handel machen.}
 {352}{}{Ich habe immer noch dieses einzutreibende Darlehen.}

@@ -8,7 +8,7 @@
 {105}{}{Hier arbeiten?}
 {106}{}{Ja, ich will zum Karawanenmeister.}
 {107}{}{Kann ich Dir vielleicht ein paar Fragen über Chad stellen?}
-{108}{}{Wer bist du?}
+{108}{}{Wer sind Sie?}
 {109}{}{Tut mir leid, das mit Chad. Wer ist denn der neue Chef?}
 {110}{}{Nein, danke.}
 {111}{}{Wenn du Arbeit suchst, solltest du mal mit Bill reden, er ist da drin. DRINNEN. Er

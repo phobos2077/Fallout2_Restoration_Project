@@ -5,7 +5,7 @@
 {152}{}{[GESPRÄCH]}
 {153}{}{Oh, diese Schmerzen! Es brennt so!}
 {154}{}{Was ist los?}
-{155}{}{Wer bist du?}
+{155}{}{Wer sind Sie?}
 {156}{}{Hinfort, abscheulicher Geist!}
 {157}{}{Ich halte an jeder Tür und klopfe. Aber niemand öffnet. Niemand hört mich.}
 {158}{}{Ich kann dich hören. Was ist los?}

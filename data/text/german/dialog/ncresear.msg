@@ -38,7 +38,7 @@
 {253}{}{Heh-heh. Du kahl. Sehen aus wie Mann.}
 {254}{}{Delenn?}
 {255}{}{[Verschwinde]}
-{256}{}{Wer bist du?}
+{256}{}{Wer sind Sie?}
 {257}{}{Oh, Entschuldigung. Ich dachte, du wärst eine andere kahlköpfige Frau mit Klemmbrett. Ich geh jetzt.}
 {265}{}{(Die Frau schaut auf und sieht dich zornig an.) Bist du eins der Kontrollobjekte? Macht auch nichts... Wache! Nehmt diesen Sklaven fest!}
 {266}{}{Wo Sklave? Keinen sehen.}

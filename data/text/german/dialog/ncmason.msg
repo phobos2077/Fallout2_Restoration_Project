@@ -43,7 +43,7 @@
 {308}{}{Also gut.}
 {315}{}{(Mason hält dich auf.) Hör zu... (beugt sich her, senkt die Stimme) ...ein paar Grundregeln, Junge.}
 {316}{}{Hör zu... (beugt sich her, senkt die Stimme) ...ein paar Grundregeln, Mädchen.}
-{317}{}{ Verschwende Mr. Salvatores Zeit nicht und erzähl ihm nicht irgendeinen Mist, sonst kriegst du's mit mir zu tun.}
+{317}{}{Verschwende Mr. Salvatores Zeit nicht und erzähl ihm nicht irgendeinen Mist, sonst kriegst du's mit mir zu tun.}
 {318}{}{Verstanden.}
 {319}{}{Ja, ja, was auch immer. Geh mir aus dem Weg.}
 {325}{}{(Mason hält dich wieder auf.) Ich bin noch nicht FERTIG. Du zeigst ihm RESPEKT. Sprich ihn immer mit *Mr. Salvatore* an, und wenn er redet, bist du *still und hörst zu*. Verstanden?}

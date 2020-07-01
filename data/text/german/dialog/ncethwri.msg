@@ -15,7 +15,7 @@
 {212}{}{Wer, wer?}
 {213}{}{Hallo, hallo!}
 {214}{}{Du nicht Mama...Mama? Maamaaaa...?! Mama! Ich gehen nach Mama gucken}
-{215}{}{Wer bist du?}
+{215}{}{Wer sind Sie?}
 {216}{}{Ich hab gehört, wie du vor dich hingesummt hast, und dachte mir, daß ich mal stehenbleibe und ein wenig mit dir plaudere. Schönes Wetter heute, nicht wahr?}
 {217}{}{Tut mir leid. Ich dachte, du wärst jemand anderes.}
 {220}{}{(Sieht verwundert aus, dann sieht sie dich von oben bis unten an) }

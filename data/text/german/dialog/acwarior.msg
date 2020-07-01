@@ -24,7 +24,7 @@
 {171}{}{Macht nichts.}
 {172}{}{Ach, Dummkopf. Man sagt, du seist das Auserwählte Wesen. Ich muß sagen, der Geist des Gründers ist unergründlich.}
 {173}{}{Uhn Ga.}
-{174}{}{Gute Reise, dummes Wesen - um unser Willen.}
+{174}{}{ Gute Reise, dummes Wesen - um unser Willen.}
 {175}{}{????}
 {176}{}{Du verrätst uns, also mußt du sterben.}
 {177}{}{Ein Verräter am eigenen Volk!}
