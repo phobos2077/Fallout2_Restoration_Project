@@ -7,27 +7,27 @@
 {106}{}{Ich kann für einfache Gemüter einfach kein Verständnis aufbringen.}
 {107}{}{Der meiste Pöbel hier arbeitet einfach nur dafür, genügend Jet zusammenzubekommen. Sie brauchen etwas, das sie von diesem
  Ort ablenkt.}
-{108}{}{Ich möcht dich noch was andres fragen.}
+{108}{}{Ich möcht dich noch was anderes fragen.}
 {109}{}{Jet? Was ist Jet?}
 {110}{}{Ach so. Auf Wiedersehn.}
 {111}{}{Jet hat seinen Sinn. Es bewirkt, daß man sich etwas weniger aus dem Schmutz ringsum macht.}
-{112}{}{Ich möcht dich noch was andres fragen.}
+{112}{}{Ich möcht dich noch was anderes fragen.}
 {113}{}{Jet? Was ist Jet?}
 {114}{}{Ach so. Auf Wiedersehn.}
 {115}{}{Jet ist in letzter Zeit so teuer. Ein richtiges Verbrechen ist das. Apropos... Ich habe gehört, daß unser geliebter
  Bürgermeister Ascorti daran arbeitet, mehr Jet für uns aufzutreiben. Ein echter Mann des Volks.}
-{116}{}{Ich möcht dich noch was andres fragen.}
+{116}{}{Ich möcht dich noch was anderes fragen.}
 {117}{}{Bürgermeister Ascorti? Wer ist das denn?}
 {118}{}{Jet? Was ist Jet?}
 {119}{}{Ach so. Auf Wiedersehn.}
 {120}{}{Es scheinen alle krank zu sein. Nach der letzten Lieferung Jet haben alle dem Zeug abgeschworen. Aber ich
  schätze, daß sie schon bald wieder nach dem Zeug lechzen werden.}
-{121}{}{Ich möcht dich noch was andres fragen.}
+{121}{}{Ich möcht dich noch was anderes fragen.}
 {122}{}{Jet? Was ist Jet?}
 {123}{}{Ach so. Auf Wiedersehn.}
 {124}{}{Ich hatte wohl unrecht. Die meisten, die auf Jet flogen, haben dem Zeug abgeschworen.
  Nach dieser letzten, schlechten Lieferung können die meisten von uns das Zeug nicht einmal mehr riechen, ohne daß sich uns der Magen umdreht.}
-{125}{}{Ich möcht dich noch was andres fragen.}
+{125}{}{Ich möcht dich noch was anderes fragen.}
 {126}{}{Jet? Was ist Jet?}
 {127}{}{Ach so. Auf Wiedersehn.}
 {128}{}{Ich bin... Madame Modjeska. Was wünschst du von mir?}
@@ -56,7 +56,7 @@
 {149}{}{Früher habe ich im Malamute-Saloon gearbeitet. Dort wurde ich Madame genannt, das war Teil der Arbeit. Der Name
  ist hängengeblieben, obwohl ich nicht mehr dort arbeite.}
 {150}{}{Wo arbeitest du jetzt?}
-{151}{}{Ich möcht dich noch was andres fragen.}
+{151}{}{Ich möcht dich noch was anderes fragen.}
 {152}{}{Ich glaube, das ist alles, was ich wissen wollte. Wiedersehn.}
 {153}{}{Vor ein paar Tagen habe ich etwas Jet genommen und davon ist mir richtig schlecht geworden. Muß eine unreine
  Lieferung gewesen sein. Das will ich so bald nicht wieder probieren. Na ja, zurück zur Flasche, heißt das wohl.}
@@ -143,14 +143,14 @@
 {212}{}{Ich möchte dich noch etwas fragen.}
 {213}{}{Ich glaub, ich hab dir wohl lang genug zugehört. Wiedersehn.}
 {214}{}{Jet ist wundervoll. Es hilft mir, dieses miserable Leben etwas erträglicher zu machen, Schätzchen.}
-{215}{}{Ich möcht dich noch was andres fragen.}
+{215}{}{Ich möcht dich noch was anderes fragen.}
 {216}{}{Interessant. Danke und auf Wiedersehn.}
 {217}{}{Mit Jet fühle ich mich wirklich lebendig. Mit Jet fliege ich hoch durch die Lüfte.}
-{218}{}{Ich möcht dich noch was andres fragen.}
+{218}{}{Ich möcht dich noch was anderes fragen.}
 {219}{}{Interessant. Danke und auf Wiedersehn.}
 {220}{}{Mmmm, ich verrate dir, was Jet ist. Es ist köstlich, das ist es. Jet hat jedem etwas
  zu bieten.}
-{221}{}{Ich möcht dich noch was andres fragen.}
+{221}{}{Ich möcht dich noch was anderes fragen.}
 {222}{}{Interessant. Danke und auf Wiedersehn.}
 {223}{}{Jet war mal total in. Jetzt dreht es mir den Magen um wie einer alten
  Waschmaschine. Ich würde dir die aktuelle Lieferung nicht empfehlen. Dieses Jet hat seinen Saft verloren und eine Bauchlandung gemacht,
@@ -160,7 +160,7 @@
 {226}{}{Mit der letzten Lieferung Jet, die durch die Stadt gegangen ist, war etwas überhaupt nicht in Ordnung. Es ist beim Start
  abgestürzt und ausgebrannt. Ich habe genug vom Fliegen. Trinken, das ist was, worauf du dich
  verlassen kannst.}
-{227}{}{Ich möcht dich noch was andres fragen.}
+{227}{}{Ich möcht dich noch was anderes fragen.}
 {228}{}{Interessant. Danke und auf Wiedersehn.}
 {229}{}{Der "Schmerzlose Doc Johnson" ist 'ne Art Geheimniskrämer. Ich weiß nicht, wo er hergekommen ist, aber er ist
  ein echter Doktor. Diese Art von Ausbildung kriegt man nur in Vault City. Ich wette, er ist so 'ne Art Spion, der hier

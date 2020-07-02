@@ -31,7 +31,7 @@
 {247}{}{Kommt drauf an... was steht auf dem Programm?}
 {248}{}{Ich würde meinem Freund hier gern mit was Besonderem aufwarten.}
 {249}{}{Ich würde einem meiner Freunde gern mit was Besonderem aufwarten. Es ist sein... äh, Geburtstag.}
-{250}{}{I'd like to ask you some questions...}
+{250}{}{Ich möchte Euch ein paar Fragen stellen…}
 {251}{}{Ich hab's mir anders überlegt. Angst vorm Versagen und so. Wiedersehn.}
 {255}{}{Ich fühle mich geschmeichelt, aber... nein. Ich kann nicht.}
 {256}{}{Ach, komm schon. Nur auf einen Drink. Sonst nichts. Wir werden eine Menge Spaß haben.}
@@ -170,7 +170,7 @@
 {596}{}{nein, ich glaube nicht, daß du in Frage kommst. Vielleicht, wenn du dich noch mehr herausputzen würdest, dich... vorzeigbar machst. Tut mir leid.}
 {597}{}{ja... ja, ich glaube, du wärst genau richtig. Bist du an dem Job interessiert? Alle meine anderen Mädchen haben... die Nase voll davon.}
 {598}{}{Sicher.}
-{599}{}{Hmmmph. I had some other questions...}
+{599}{}{Hmmmph. Ich hatte noch ein paar andere Fragen...}
 {600}{}{Nein, aber vielleicht frage ich später noch mal. Ich hätte da noch ein paar andere Fragen...}
 {610}{}{(Nickt) Ausgezeichnet. Einer der Mordino-Leutnants sollte demnächst hier aufkreuzen. Wenn du Platz nimmst, stelle ich dich als eine der... Bewerberinnen vor.}
 {611}{}{Gut... ich warte auf ihn.}

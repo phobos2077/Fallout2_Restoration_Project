@@ -110,7 +110,7 @@
 {209}{}{Warum?}
 {210}{}{Die Selbstmordrate unter den Maschinen mit wahrer künstlicher Intelligenz war erschreckend hoch. Bei voller Wahrnehmungsfähigkeit wurden die Maschinen depressiv, weil sie nicht in der Lage waren, in die Welt hinauszugehen und sie zu erfahren. Wurde keine volle Wahrnehmungsfähigkeit installiert, entwickelten die Maschinen schwere mentale Störungen, ähnlich wie bei Menschen mit gestörter Sinneswahrnehmung. Die wenigen Maschinen, die durchkamen, litten schrecklich unter Langeweile und schufen sich zu ihrer Unterhaltung Situationen in der Außenwelt. Einige glauben, daß dies der Grund für den Krieg war, der die Menschheit fast vernichtete.}
 {211}{}{Öh...Wie du fühlen?}
-{212}{}{Me change subject.}
+{212}{}{Ich anderes Thema.}
 {213}{}{Hmmm. Dann sag mir, Kübe. Wie fühlst du dich?}
 {214}{}{Zeit das Thema zu wechseln.}
 {215}{}{Ich...ich glaube, manchmal verstehe ich das Gefühl, das ihr Einsamkeit nennt. Ich finde es sehr...beunruhigend. Ich...}

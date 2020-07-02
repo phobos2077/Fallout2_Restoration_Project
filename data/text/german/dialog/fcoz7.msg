@@ -5,7 +5,7 @@
 {104}{}{Du. Was ist dein Begehr?}
 {105}{}{Aaagh! Nu! Nee!}
 {106}{}{Ich habe einen Brief für AHS-9 von der Erleuchteten in der NCR.}
-{107}{}{I'm here to speak to Crockett about some armor.}
+{107}{}{Ich bin hier, um mit Crockett über ein paar Rüstungen zu sprechen.}
 {108}{}{Ich würd mich gern mal umsehen.}
 {109}{}{Ich bin generell daran interessiert, eurer Gruppe beizutreten.}
 {110}{}{Wer sind Sie?}
@@ -28,7 +28,7 @@
 {127}{}{Ooh! Berühmtheiten!}
 {128}{}{Ich bin AHS-7, der zweite Befehlshaber dieser Einrichtung Bevor du fragst: AHS steht für Ausgerichteter Hub-Sucher, was bedeutet, daß ich meinen Geist von sieben Neurodyn-Schichten befreit habe. Das bedeutet, daß ich erleuchteter und viel näher an der Nabe des Großen Rades bin als du. Und das bedeutet wiederum, daß du mir jetzt sagen wirst, was du hier willst. Also?!}
 {129}{}{Ich habe einen Brief für AHS-9 von der Erleuchteten in der NCR.}
-{130}{}{I'm here to speak to Crockett about some armor.}
+{130}{}{Ich bin hier, um mit Crockett über ein paar Rüstungen zu sprechen.}
 {131}{}{Ich würd mich gern mal umsehen.}
 {132}{}{Ich bin generell daran interessiert, eurer Gruppe beizutreten.}
 {133}{}{Ich bin gekommen, um euch alle zu töten.}
@@ -76,7 +76,7 @@
 {175}{}{Wo kann ich Treibstoff für den Poseidon-Tanker bekommen?}
 {176}{}{Wo kann ich die Bedeutung all dieser Begriffe herausfinden, die du im Munde führst?}
 {177}{}{Wann startet das Schiff?}
-{178}{}{Where is Crockett?}
+{178}{}{Wo ist Crockett?}
 {179}{}{Nichts, danke. Bis dann.}
 {180}{}{Sag uns Bescheid, wenn du deine Aufgabe beendet hast.}
 {181}{}{Das werde ich. Ich habe weitere Fragen.}
@@ -106,7 +106,7 @@
 {205}{}{Wie ich höre, haben die Shi einen gewaltigen Tank voller Benzin. Vielleicht kannst du es ihnen stehlen.}
 {206}{}{Gute Idee. Ich habe weitere Fragen.}
 {207}{}{Ja, vielleicht. Danke.}
-{208}{}{Simply use the holodisk Juan and Vikki provided to you and check out the Glossary.}
+{208}{}{Du mußt nur die Holodisk benutzen, die Juan und Vikki dir gegeben haben und im Glossar nachsehen.}
 {209}{}{Danke. Mehr Fragen?}
 {210}{}{Danke.}
 {211}{}{Sobald AHS-9 eine Vision vom Hub erhält, werden wir starten und in himmlischer Herrlichkeit zu ihm stoßen!}

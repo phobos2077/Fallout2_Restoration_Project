@@ -17,13 +17,11 @@
 {113}{}{Wie du willst.}
 {114}{}{Weißt du, Quincy hat gesagt, du bist 'n Vollidiot und daß du zu feige bist, ihm Bericht
  zu erstatten.}
-{115}{}{He Mann, Raul läßt sich nichts gefallen. Siehst du, daß Quincy an den Vögeln arbeitet?
-Niemals, Mann. Nur Raul arbeitet an den Babys. Weißt du warum? Weil Quincy keine Ahnung von
-VÖGELN hat, Mann, darum!}
+{115}{}{He Mann, Raul läßt sich nichts gefallen. Siehst du, daß Quincy an den Vögeln arbeitet? Niemals, Mann. Nur Raul arbeitet an den Babys. Weißt du warum?
+ Weil Quincy keine Ahnung von VÖGELN hat, Mann, darum!}
 {116}{}{Äh...}
 {117}{}{Also...}
-{118}{}{He, tut mir leid, Mann. Raul sollte dich nicht anbrüllen, klar? Is' nich' deine Schuld,
- bist ja nur der Bote. He, Mann, haste gerade zu tun?}
+{118}{}{He, tut mir leid, Mann. Raul sollte dich nicht anbrüllen, klar? Is' nich' deine Schuld, bist ja nur der Bote. He, Mann, haste gerade zu tun?}
 {119}{}{Nein, ich nix tun. Warum?}
 {120}{}{Eigentlich nicht, warum?}
 {121}{}{He, paß auf, Mann. Raul muß das Rindvieh mal besuchen, kapiert? Raul rückt dem Alten mal den Kopf zurecht. Du bleibst hier und paßt auf Rauls Babys auf, solang er weg is', OK, Mann?}

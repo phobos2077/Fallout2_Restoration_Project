@@ -21,7 +21,7 @@
 {169}{}{Ah, verdammt.}
 {170}{}{[Erledigt]}
 {171}{}{Ich bin vollkommen fix und fertig.}
-{172}{}{I'll come back.}
+{172}{}{Ich komm zurück.}
 {173}{}{OK.}
 {174}{}{Du bist wirklich ein hübsches Ding.}
 {175}{}{Laß mich in Ruhe.}

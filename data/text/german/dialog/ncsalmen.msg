@@ -87,8 +87,7 @@
 {305}{}{Kann ich was für dich tun?}
 {306}{}{Das ist hier kein Pornostudio, Liebster.}
 {307}{}{Mach deine Geschäfte woanders, Schätzchen.}
-{310}{}{Tut mir wirklich leid... wirklich... aber ich hab jetzt keine Zeit zu reden.
- Schau nach der Arbeit vorbei, falls du Zeit hast.}
+{310}{}{Tut mir wirklich leid... wirklich... aber ich hab jetzt keine Zeit zu reden. Schau nach der Arbeit vorbei, falls du Zeit hast.}
 {311}{}{Es bricht mir das Herz, aber ich kann jetzt wirklich nicht reden.}
 {312}{}{Geh jetzt, du lenkst mich ab, Schatz.}
 {313}{}{Ich kann dir nicht helfen.}

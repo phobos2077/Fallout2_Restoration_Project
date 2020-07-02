@@ -45,7 +45,7 @@
 {142}{}{OK.}
 {143}{}{Kapiert.}
 {153}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Laß dich ausrüsten!}
-{154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{154}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
 {155}{}{Warum trägst du keine Uniform? }
 {156}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {157}{}{Eindringlinge! Ruft die Wache!}

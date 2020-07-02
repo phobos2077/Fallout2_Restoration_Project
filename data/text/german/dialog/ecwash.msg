@@ -68,14 +68,14 @@
 {314}{}{Beschützt den Auserwählten von den Hirngespinsten des Spammers!}
 {315}{}{Auserwähltes Wesen! Komm zu uns!}
 {316}{}{Die Rache der Ungewaschenen!}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Du wirst niemals ein Ungewaschenes Wesen sein, Du Dummkopf!}
 {318}{}{Du hast keine Chance!}
 {319}{}{Wir sind noch nicht fertig!}
 {320}{}{Auf diesen Tag habe ich seeeehr lange gewartet.}
 {400}{}{Das ist dafür, daß Du mich bedroht hast!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
+{401}{}{Da bin ich ganz sicher! Du würdest einem Mädchen nicht weh tun, oder?}
 {402}{}{'Rache wird am besten kalt serviert.'}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Ich bin Buffy... du bist erledigt.}
 {405}{}{Keiner wagt es, Doombot zu bedrohen!}
 {406}{}{Grim Buster!}
 {410}{}{Nur ein guanaban kann man mit dem Geschmack dieses Sieges vergleichen...}

@@ -97,9 +97,9 @@
  aber nicht die nötigen Ersatzteile.}
 {753}{}{Wo krieg ich die Teile her, die du brauchst?}
 {754}{}{Ich werd sehen, was ich tun kann.}
-{760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
- I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
- he expect me to fix it?}
+{760}{}{Das ist eine lange Geschichte. Man könnte sagen, daß Metzger mich hier festhält, bis ich
+ das verdammte Funkgerät repariert habe. Der Quarz ist durchgebrannt und ich hab keine Ersatzteile.
+ Was glaubt er, wie ich es so hinkriegen soll?}
 {761}{}{Nun, ich bin hier, um dich rauszuholen.}
 {764}{}{Weiß nicht. Bis später.}
 {800}{}{Ich muß dieses Funkgerät wieder hinkriegen. Hilf mir, wenn du kannst. Vielleicht läßt er dann
@@ -119,7 +119,7 @@
 {834}{}{Du siehst aus, als hättest du genug Gesellschaft, Boß. Ich bleib hier und warte, bis du alles im Griff hast. Moms Küche erinnert mich an meine Exfrau... weiß nich', ob das gut oder schlecht ist...}
 {835}{}{Das würde ich wirklich gern, Boß. Aber es sieht aus, als hättest du wirklich keinen Platz mehr. Ich geh mal rüber zu Mom, war schon lange nicht mehr da. Komm und hol mich ab, wenn du etwas mehr Platz für mich hast. }
 {840}{}{Ed ist drüben in Vault City. Er ist ein Brahminhändler. Er war nur einer meiner vielen Lieferanten. Vault City ist nicht weit von hier.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{845}{}{Ich hab dir doch gesagt, es ist hier drüben. [Vic zeigt auf einen Ort auf deinem PIP-Boy 2000.]}
 {900}{}{Du hast erfahren, daß Vic ein Händler ist.}
 {1000}{}{Ich muß dich was fragen.}
 {1100}{}{Vollständig geheilt, Boß. Noch was?}

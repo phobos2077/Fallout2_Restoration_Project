@@ -42,7 +42,7 @@
 {242}{}{OK. Wiedersehn.}
 {250}{}{Ja. Ich bin sicher. Jetzt hau ab.}
 {251}{}{OK, wenn du's sagst. Tschüß.}
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
+{260}{}{Oh; ha, ha... ja. Das wußt ich. Hmm, tja, habe ich bestanden? }
 {261}{}{Natürlich hast du bestanden. Jetzt laß mich rein.}
 {262}{}{Nein, du hast nicht bestanden. Und jetzt muß ich dich melden.}
 {270}{}{OK. Du kannst gleich reingehn.}

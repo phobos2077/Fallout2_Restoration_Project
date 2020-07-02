@@ -6,7 +6,7 @@
 {104}{}{Bei mir ist tote Hose und bei dir?}
 {105}{}{Solltest du dich nicht auf deinem Posten befinden, Soldat? Es ist nicht gut, hier
  herumzustreunen.}
-{106}{}{You're out of uniform. }
+{106}{}{Du trägst keine Uniform.}
 {107}{}{Du meldest dich lieber beim Sarge und läßt dich ausrüsten.}
 {108}{}{Das ist sehr riskant, ohne Uniform herumzulaufen. Meld dich lieber beim Nachschub.}
 {109}{}{Wer zum Teufel seid ihr...Alarm! Eindringlinge!}

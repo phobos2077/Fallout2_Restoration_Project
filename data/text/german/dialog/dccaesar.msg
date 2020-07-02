@@ -45,8 +45,7 @@
 {193}{}{Nichts. Ich muß gehen.}
 {195}{}{Er stammt von einer alten Sprache, wahrscheinlich aus Vorkriegszeiten. }
 {196}{}{Metzger heißt Fleischer. Paßt doch, oder nicht?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
+{197}{}{Das war der Name meines Großvaters. Er kam von irgendwo aus dem fernen Osten über ein großes Gewässer.}
 {198}{}{Ich habe ein Buch über einen Metzger gelesen. Er war ein Präsident oder so etwas.}
 {199}{}{Sieh mal an, wer da wie ein Eingeborener spricht.}
 {200}{}{Es ist Detsch, Deutsch, Dentsch oder so ähnlich. Eine antike Sprache aus alten Zeiten.}
@@ -54,8 +53,8 @@
 {202}{}{Ich verstehe. Ich habe aber noch immer eine Frage.}
 {203}{}{Das ist das Dümmste, was ich je gehört habe.}
 {204}{}{Faszinierend. Ich muß los.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{205}{}{Unser Auftrag lautet, eine stabile und hochwertige Arbeitstruppe zusammenzustellen, welche den ständig wachsenden Anforderungen der größeren Städte gerecht werden kann.
+ Möchtest du dabei sein?}
 {206}{}{Sicher. Hört sich super an.}
 {207}{}{Niemals!}
 {208}{}{Ich komme deswegen auf Dich zurück. Welche Städte kaufen Deine Sklaven?}
@@ -130,7 +129,7 @@
 {309}{}{Ausgezeichnet! Es dauert wahrscheinlich einige Tage, um hin und zurück zu reisen. Bist
  Du bereit zu gehen?}
 {310}{}{Nein. Ich komm zurück.}
-{311}{}{Yes, I'm ready. Let's go.}
+{311}{}{Ja, ich bin soweit. Los geht's.}
 {312}{}{Aha, Du bist zurück vom Sklavenfang. Mal sehen, wie Du Dich gemacht hast...}
 {313}{}{[weiter]}
 {314}{}{[weiter]}

@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen Mann in Militäruniform.}
-{101}{}{You see Quincy, the mechanic.}
+{101}{}{Du siehst Quincy, den Mechaniker.}
 {102}{}{Du siehst einen Mann in Militäruniform. Den Ölflecken nach zu urteilen, hältst du ihn
  eher für einen Mechaniker als für einen Soldaten.}
 {103}{}{Ich heiße Quincy, Soldat. Warum klopfst du mir auf die Schulter und siehst verwirrt aus?}

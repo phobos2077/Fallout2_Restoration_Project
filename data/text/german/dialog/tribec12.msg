@@ -9,7 +9,7 @@
 {108}{}{Gibt es hier noch irgend etwas anderes, was getan werden muss?}
 {109}{}{Schon gut. Tschüß.}
 {110}{}{Das heilige GECK . . . [Er nimmt einen langen Zug aus seiner Pfeife.] Es gibt eine Kreatur, die wir manchmal jagen - mitunter, jagt auch sie uns. Ein Gecko? Nein. Ich fühle, dass es das nicht ist, was du suchst. Ich befürchte, dein heiliges GECK ist jenseits meines geistigen Horizonts.}
-{111}{}{Ich möcht dich noch was andres fragen.}
+{111}{}{Ich möcht dich noch was anderes fragen.}
 {112}{}{Das ist alles was ich wissen wollte. Tschüß.}
 {120}{}{Sulik? [Er nickt.] Er ist einer unseren besten Männer. Ebenso talentiert in der Jagd, wie in der Kunst mit den Knochengeistern zu kommunizieren. Er hat uns verlassen um seine Schwester, Kurisu, zu finden, die von einem Nachbarstamm nicht zurückgekommen ist. Erzähl mir, Kind, wo ist Sulik jetzt?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}

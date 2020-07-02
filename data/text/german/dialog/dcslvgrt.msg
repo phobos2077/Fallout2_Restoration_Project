@@ -14,7 +14,7 @@
 {219}{}{Noch eine Frage für dich.}
 {220}{}{Danke, das werd ich.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Äh...ok.}
 {230}{}{Jetzt wirst du sterben.}
 {240}{}{Soll das 'n Witz sein? Wir fangen und verkaufen Sklaven. Deswegen biste ja wohl hier, oder? Kämpfste gerne?}
 {241}{}{Soll das 'n Witz sein? Wir fangen und verkaufen Sklaven. Wennde nich' deswegen hier bist, was willste dann?}
@@ -104,7 +104,7 @@
 {384}{}{Noch eine Frage.}
 {385}{}{Danke, das werd ich.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
+{387}{}{Äh...ok.}
 {400}{}{Nein, aber ich würd mal den Boß fragen. Der war schon so ziemlich überall.}
 {401}{}{Noch eine Frage.}
 {402}{}{OK, danke, Tschüß.}

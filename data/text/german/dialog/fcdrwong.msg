@@ -123,7 +123,7 @@
 {362}{}{Ach so. Laß mich dich noch was fragen.}
 {370}{}{I suppose I could... I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.}
 {371}{}{Thanks, I'll do that. Bye.}
-{372}{}{Ich möcht dich noch was andres fragen.}
+{372}{}{Ich möcht dich noch was anderes fragen.}
 {380}{}{Dr. Sheng is still alive and he's created some kind of plant that takes root in and controls human corpses.}
 {390}{}{So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
 {391}{}{Yeah, some of them seem to be subservient. They even refer to him as 'master.'}
@@ -131,17 +131,15 @@
 {401}{}{Es wäre mir ein Vergnügen. Der Typ und seine ganze Operation machen mir Angst.}
 {402}{}{Über welche Art von Entschädigung sprechen wir hier?}
 {403}{}{Nicht interessiert. Dr. Sheng ist dein Problem... ihr könnt euch um ihn kümmern.}
-{410}{}{Die Schi werden für diesen Dienst sehr dankbar sein. Sobald Dr. Sheng und alle seine Kreationen eliminiert sind,
-melden dich bei mir, um deine Belohnung entgegenzunehmen.}
+{410}{}{Die Schi werden für diesen Dienst sehr dankbar sein. Sobald Dr. Sheng und alle seine Kreationen eliminiert sind, melden dich bei mir, um deine Belohnung entgegenzunehmen.}
 {411}{}{[Erledigt]}
 {420}{}{Das überlasse ich dir. Wir könnten dir Waffen, Vorräte oder Geld gewähren. Du kannst dich entscheiden, sobald die Aufgabe erledigt ist.}
 {421}{}{All right. I'll do it.}
 {422}{}{Nicht interessiert. Dr. Sheng ist dein Problem... ihr könnt euch um ihn kümmern.}
-{423}{}{Also gut. Ich werd's tun. Aber bevor ich gehe, wollte Dr. Sheng, dass ich Ihnen diese Pflanzenprobe übergebe. 
-Er meinte, sie sollte Ihnen beim Ziel der Erschaffung strahlenresistenter Pflanzen helfen.}
-{430}{}{In Ordnung. Wir werden uns selbst um das Problem kümmern, aber das muss warten, da wir im Moment nicht über die nötigen Mittel verfügen.
-Hoffentlich wird es nicht schon zu spät sein, sobald wir in der Lage sind zu handeln. Solltest du in der Zwischenzeit deine Meinung ändern,
-lass es mich bitte wissen.}
+{423}{}{Also gut. Ich werd's tun. Aber bevor ich gehe, wollte Dr. Sheng, dass ich Ihnen diese Pflanzenprobe übergebe. Er meinte, sie sollte Ihnen beim Ziel der Erschaffung strahlenresistenter
+ Pflanzen helfen.}
+{430}{}{In Ordnung. Wir werden uns selbst um das Problem kümmern, aber das muss warten, da wir im Moment nicht über die nötigen Mittel verfügen. Hoffentlich wird es nicht schon zu spät sein,
+ sobald wir in der Lage sind zu handeln. Solltest du in der Zwischenzeit deine Meinung ändern, lass es mich bitte wissen.}
 {431}{}{Verlaß dich nicht darauf. Tschüss.}
 {432}{}{I'll think about it. Bye.}
 {433}{}{Wir werden sehen. Laß mich dich noch was fragen.}

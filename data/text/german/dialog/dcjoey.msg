@@ -16,7 +16,7 @@
 {162}{}{Hast du ein Medaillon aus dem Spukhaus gestohlen?}
 {163}{}{Nichts. Vergiﬂ es.}
 {164}{}{Ach, vergiﬂ es. Ich bring dich jetzt um, und k¸mmer mich sp‰ter um die Einzelheiten.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{Ich... Ich weiﬂ nicht, wovon du sprichst.}
 {166}{}{Oh, ich glaube doch. Du hast das Medaillon eines toten M‰dchens gestohlen und jetzt kann ihr
  Geist keine Ruhe finden.}
 {167}{}{Dann nehme ich es mir mit Gewalt!}

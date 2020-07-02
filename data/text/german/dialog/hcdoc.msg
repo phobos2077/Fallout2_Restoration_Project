@@ -33,7 +33,7 @@
 {126}{}{Du würdest staunen, was die Leute unter Schmerzen alles erzählen.}
 {127}{}{Ach ja, was denn?}
 {128}{}{Ich hab mich anders entschieden. Ich möchte lieber andere Fragen stellen.}
-{129}{}{That'll cost you $50.}
+{129}{}{Das macht 50 Dollar.}
 {130}{}{In Ordnung.}
 {131}{}{Vergiss es.}
 {132}{}{Bei solchen Wunden verlierst du $100.}
@@ -116,11 +116,11 @@
 {196}{}{Ich hätte noch ein paar Fragen.}
 {197}{}{Danke. Bis bald mal.}
 {198}{}{Bist du verletzt? Laß mich mal machen.}
-{199}{}{Umm...}
+{199}{}{Mmmm...}
 {200}{}{Danke. Bis bald!}
 {201}{}{Wer ist verletzt? Oh je, stellt euch mal in einer Reihe auf, dann kümmer ich mich um euch
  alle.}
-{202}{}{One more thing...}
+{202}{}{Da ist noch was...}
 {203}{}{Danke! Tschüß dann!}
 {204}{}{Erstaunlich wenig. Tut mir leid, aber wenn ich jemanden verarzte, kümmere ich mich
  normalerweise nicht um seine geheimsten Gedanken.}

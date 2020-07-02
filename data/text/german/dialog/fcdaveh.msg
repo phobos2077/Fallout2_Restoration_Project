@@ -13,8 +13,7 @@
 {112}{}{Ich hab mit Vikki gesprochen. Sie sagt, sie findet dich scharf und würd dich gern mal vernaschen.}
 {113}{}{Soll ich das mit Vikki für dich klarmachen?}
 {114}{}{Schon gut. Tschüß.}
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[As you turn to look, he whips back to what he was doing and ignores you.]}
+{115}{}{Hmmm...Oookay. Wie du meinst. Sag mal, was ist das da drüben? [Als du dich umdrehst, wendet er sich schlagartig wieder seiner Arbeit zu und ignoriert dich]}
 {116}{}{[Erledigt]}
 {117}{}{Ich bin Dave Handy. Ich bin von Kanada hier runtergekommen.}
 {118}{}{Also, was machst Du hier?}

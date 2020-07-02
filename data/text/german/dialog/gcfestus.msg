@@ -58,8 +58,7 @@
 {261}{}{Wenn das 'ne Bombe wär, hättest du das mit deinem technischen Sachverstand doch schon lang gemerkt. Installier das Teil einfach, OK?}
 {262}{}{Du hast wahrscheinlich recht. Es muß 'ne andere Möglichkeit geben, das Teil einzubauen.}
 {270}{}{OK, ich bin hier. Aber ich bin echt nicht sicher, ob das das richtige Teil ist oder irgendeine Falle. Ich bin viel zu wertvoll für so ein riskantes Spiel. Vielleicht sollte sich einfach jemand anders drum kümmern ... später... viel später.}
-{271}{}{It needs to be done now. And you're the only person that can do it right. Come on, all of Gecko
- depends on you!}
+{271}{}{Es muß aber jetzt gemacht werden. Und du bist der einzige, der das kann. Komm schon, die Zukunft von ganz Gecko hängt von dir ab!}
 {272}{}{Du hast wahrscheinlich recht. Es muß 'ne andere Möglichkeit geben, das Teil einzubauen.}
 {300}{}{Naja, braucht schon recht viel Uran. Und es tritt auch was aus. Ich hab auch schon gefragt, ob's jemand reparieren kann. Aber keiner hört mir zu}
 {301}{}{Ich hab gehört, daß das Grundwasser verstrahlt wird. Stimmt das?}

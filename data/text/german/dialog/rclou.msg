@@ -83,21 +83,21 @@
  etwas Geld gegeben und sie gehen lassen.}
 {164}{}{Weißt du, wer das getan hat?}
 {165}{}{Weißt du, was passiert ist?}
-{166}{}{Ich möcht dich noch was andres fragen.}
+{166}{}{Ich möcht dich noch was anderes fragen.}
 {167}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {168}{}{Bin mir nicht ganz sicher, wer das war, aber sie hielt 'n Morningstar-Schuldschein in der
  Hand, als wir sie fanden, und der letzte, der bei ihr war, war 'n Bergarbeiter.}
 {169}{}{Kann ich das Mädchen sehen?}
 {170}{}{Weißt du, was passiert ist?}
 {171}{}{Ein Morningstar-Schuldschein? Was ist das?}
-{172}{}{Ich möcht dich noch was andres fragen.}
+{172}{}{Ich möcht dich noch was anderes fragen.}
 {173}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {174}{}{Also, es gab Geschrei und Getrampel und da bin ich in ihr Zimmer. Als ich ankam, war das
  Schwein schon weg und meinem Mädchen ging es ziemlich dreckig. Also hab ich den Doc gerufen und
  dann den Sheriff. Den Rest kennst du.}
 {175}{}{Weißt du, wer das getan hat?}
 {176}{}{Kann ich das Mädchen sehen?}
-{177}{}{Ich möcht dich noch was andres fragen.}
+{177}{}{Ich möcht dich noch was anderes fragen.}
 {178}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {179}{}{Im Norden der Stadt betreibt Dan McGrew die Morningstar-Mine. In der Regel kriegen die
  Bergarbeiter Schuldscheine von ihrer jeweiligen Mine... du weißt schon, Zettel. Also, mein
@@ -105,7 +105,7 @@
  [Sie gibt dir den Zettel.]}
 {180}{}{Ach so. Kann ich das Mädchen sehen?}
 {181}{}{Ach so. Weißt du, was passiert ist?}
-{182}{}{Ich möcht dich noch was andres fragen.}
+{182}{}{Ich möcht dich noch was anderes fragen.}
 {183}{}{Ich regle das schon für dich. Du kannst auf mich zählen. Wiedersehn.}
 {184}{}{Tja, ich bin wirklich froh, daß sich jemand der Sache annimmt. Solche Sachen sind einfach
  mies. Ich hoffe wirklich, daß du das Schwein dafür zahlen läßt, was er meinem Mädchen angetan

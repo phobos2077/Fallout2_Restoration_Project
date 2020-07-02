@@ -15,12 +15,12 @@
 {114}{powr3a}{Das hat's auch nicht viel besser gemacht. Ich kann hier immer noch nichts sehen. Wer spricht da?}
 {115}{}{Bitte wiederholen. Ende.}
 {116}{}{Ich könnte es dir erzählen, aber dann müßte ich dich töten.}
-{117}{}{I'm the Chosen One.}
+{117}{}{Ich bin das Auserwählte Wesen.}
 {118}{}{Ja, das ist nicht ungewöhnlich, oder? Es funktioniert überhaupt nichts mehr.}
 {119}{}{Tja, ich weiß Bescheid und du kannst es selbst herausfinden. Tschüß.}
 {120}{powr3b_b}{Wovon redest du? Wer spricht da?}
 {121}{}{Ich könnte es dir erzählen, aber dann müßte ich dich töten.}
-{122}{}{I'm the Chosen One.}
+{122}{}{Ich bin das Auserwählte Wesen.}
 {123}{}{Ja, das ist nicht ungewöhnlich, oder? Es funktioniert überhaupt nichts mehr.}
 {124}{}{Tja, ich weiß Bescheid und du kannst es selbst herausfinden. Tschüß.}
 {125}{powr4a_a}{Der Präsident! Ich, äh...}
@@ -35,7 +35,7 @@
 {134}{}{Da... Damit sollte es klappen. Besser?}
 {135}{}{Verstärker? Was soll ich verstärken? Ich bin nach wie vor ziemlich aktiv. Ich glaub nicht, daß ich irgend was stärken kann.}
 {136}{}{Ich versuch's später noch mal. Tschüß.}
-{137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
+{137}{powr6_a}{Das Auserwählte Wesen, was? Verzeiht, daß ich nicht vor Euch auf die Knie falle, aber für so einen Scheiß hab ich im Moment keine Zeit.}
 {138}{}{Knie vor mir und ich laß dich vielleicht am Leben. Ah, das klingt gut.}
 {139}{}{Ich bestehe nicht mehr darauf, daß man vor mir niederkniet. Eine kleine Verbeugung, um meinen Ring zu küssen, ist völlig ausreichend.}
 {140}{}{Äh, ich meinte, ich bin auserwählt, die Kommandoeinheit zu reparieren. Scheinbar funktioniert gar nichts mehr.}
@@ -60,7 +60,7 @@
 {159}{}{Ich geh besser zurück an die Arbeit. Ich muß diese Verbindung reparieren. Tschüß.}
 {160}{powr12}{Der Präsident der Vereinigten verdammten Staaten von Amerika. Was dachtest du denn, von wem ich rede?...Wer spricht da?}
 {161}{}{Ich bin das Auserwählte Wesen. Leck mich am...Ärmel.}
-{162}{}{I'm the Chosen One.}
+{162}{}{Ich bin das Auserwählte Wesen.}
 {163}{}{Ich bin der Präsident. Du hast jetzt eine Menge Ärger am Hals.}
 {164}{}{Du bist nicht wichtig genug für derlei Informationen.}
 {165}{}{Äh, ich glaub, ich geh lieber, hier ist noch viel zu tun. Tschüß.}

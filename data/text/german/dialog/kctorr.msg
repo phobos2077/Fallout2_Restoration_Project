@@ -24,9 +24,7 @@
 {151}{}{Ich bewachen Muh-muhs vor Wanzenmännern.}
 {152}{}{Anzenmänner? (Wanzenmänner? Ja, deiner Beschreibung nach ist das eine passende Bezeichnung . Erzähl mir mehr darüber.)}
 {153}{}{Wanzenmänner?}
-{160}{}{Bugmen take moo-moos at night. Torr scared! Hep Torr? (Well, as I said, they are nocturnal in
- their feeding habits. I sure could use some assistance in guarding the brahmin. Will you kill any
- bugmen that you see near the brahmin?)}
+{160}{}{Wanzenmänner nehmen Muh-muhs nachts. Torr Angst! Hilf Torr? (Naja, wie bereits gesagt, sie fressen immer nachts. Ich könnte wirklich Unterstützung bei der Bewachung der Brahmin brauchen. Wirst du die Wanzenmänner töten, die sich den Brahmin nähern?)}
 {161}{}{Wanzenmänner nehmen Muh-muhs nachts. Torr Angst! Hilf Torr?}
 {162}{}{Hilf Torr Hilf Muh-muh. (Ja, natürlich werde ich dir helfen, die Brahmin deiner Familie vor den Angriffen der ruchlosen Wanzenmänner zu schützen.)}
 {163}{}{Wanzenmänner schlecht. Nix helfen Torr. (Hmm, ich glaube nicht, daß ich dir im Augenblick mit den Wanzenmännern helfen kann, Torr. Aber ich wünsche dir viel Glück mit ihnen. Auf Wiedersehen.)}

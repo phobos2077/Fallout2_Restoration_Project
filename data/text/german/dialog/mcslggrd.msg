@@ -24,6 +24,6 @@
 {242}{}{[Töte sie alle und sortiere sie nach den Göttern, denen sie dienen.]}
 {250}{}{Es tut mir leid. Du kannst nicht hier heraus gehen.}
 {251}{}{Dieser Eingang ist für die Arbeiter.}
-{252}{}{It takes too much effort to set up the ramps for just one person.}
+{252}{}{Es ist zuviel Aufwand, die Rampen nur für eine Person aufzubauen.}
 {253}{}{Wenn Du gehen willst, frag Vegeir.}
 {260}{}{Alles Paletti.}

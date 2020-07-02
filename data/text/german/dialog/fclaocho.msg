@@ -28,7 +28,7 @@
 {127}{}{Ich suche eine Milz.}
 {128}{}{Ich hab gehört, eine Gruppe von Dorfbewohnern wurde von Flugmaschinen hierher gebracht.}
 {129}{}{Nichts. Tschüß.}
-{130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
+{130}{}{Am besten redest du mit Crockett, drüben im Hubologen-Lager. Er ist ihr Chefwissenschaftler.}
 {131}{}{Danke. Ich brauche mehr Informationen.}
 {132}{}{Danke. Tschüß.}
 {133}{}{Geh nach Norden. In Navarro liegt eine versteckte Basis in der Nähe der Tankstelle.}

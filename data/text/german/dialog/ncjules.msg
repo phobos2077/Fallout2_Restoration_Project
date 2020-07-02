@@ -121,7 +121,7 @@
 {463}{}{Ich suchen... ähm. Wieder vergessen.}
 {464}{}{[Verschwinde]}
 {465}{}{OK, Womit kannst du mir denn helfen?}
-{466}{}{Well, I had some questions...}
+{466}{}{Naja, ich hätte da ein paar Fragen...}
 {467}{}{Weißt du, was mit dem Sohn von den Wrights passiert ist, Jules?}
 {468}{}{Jules, hast du mein Auto gesehen? Hab's vor einiger Zeit hier geparkt und jetzt ist es weg.}
 {469}{}{Hör mal... "Jules", oder? Du erwartest doch offensichtlich etwas von diesem Gespräch, also sag's mir lieber gleich. WAS willst du?}
@@ -158,7 +158,7 @@
 {535}{}{Die Familien sorgen dafür, daß alles gut läuft. Die MÖGEN nämlich keinen Ärger, das schadet ja dem Tourismus und das bedeutet weniger Geld für sie. Wenn du keinen Ärger machst und nicht zu hoch wettest, mußt du auch nicht nach Golgotha.}
 {537}{}{Golgotha?}
 {545}{}{Ja, dieser Friedhof vor der Stadt. Da kommen Leute hin, die ihre Schulden nicht bezahlen oder die Familien geärgert haben. Die werden einfach aufgehängt und sterben langsam in der Sonne. Nicht meine Wahl, wenn ich sterben müßte. Stinkt zum Himmel da draußen.}
-{547}{}{Interesting. Say, I had some other questions...}
+{547}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {548}{}{Das klingt ja super. Vielen Dank für die Information.}
 {555}{}{Da wäre NOCH was, was du über New Reno wissen mußt: Nichts ist umsonst. Wenn was nichts kostet, sieh es dir genau an.}
 {556}{}{Tja, solche Info ist nicht billig. Hast du genug Chips? Dann hast du auch meine Aufmerksamkeit.}
@@ -178,7 +178,7 @@
 {581}{}{Ich hab da ein paar Fragen über New Reno...}
 {582}{}{Ach, weißt du was? Wir reden später mal darüber.}
 {590}{}{(Hält zwei Finger hoch.) Die Mordinos sind eine Bestie mit zwei Köpfen und die heißen beide Jesus Mordino.}
-{591}{}{Go on...}
+{591}{}{Fahr fort…}
 {592}{}{Ich hab immer schon den Verdacht gehabt, daß Jesus was mit dem organisierten Verbrechen zu tun hat.}
 {594}{}{Und jetzt was über die anderen Familien.}
 {596}{}{Ach, weißt du was - ist auch egal. Danke für deine Zeit.}
@@ -295,7 +295,7 @@
 {1120}{}{Tja, in diesem Fall gehe ich jetzt wohl besser.}
 {1121}{}{Wie eloquent von dir. Deine Rede ist reine Poesie und wenn du von einem "Kohlbeet" sprichst, erstehen wunderbare Bilder vor meinem inneren Auge. VIELEN Dank auch.}
 {1130}{}{Vielleicht ja, wenn du eine gutaussehende Frau wärst. Ansonsten brauchst du erst die Erlaubnis der Mordinos. Und das ist beides nicht sehr wahrscheinlich.}
-{1132}{}{I see. Say, I had some other questions...}
+{1132}{}{Verstehe. Sag mal, Ich hab da noch ein paar andere Fragen...}
 {1145}{}{Wenn du Waffen brauchst, kannst du zu meinem Kumpel Eldridge im Westend gehen. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, daß du von mir kommst.}
 {1146}{}{Ich hab dich gut verstanden, Mann. Wenn du das Beste willst, geh zu meinem Kumpel Eldridge im Westend. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, daß du von mir kommst.}
 {1147}{}{Ich hab dich ganz gut verstanden, Schwester. Wenn du das Beste willst, geh zu meinem Kumpel Eldridge im Westend. Der hat Sachen, mit denen kannst du Leute umbringen, die du noch gar nicht GESEHEN hast. Sag ihm, daß du von mir kommst.}
@@ -396,6 +396,6 @@
 {1486}{}{Und "Jagged Jimmy J?" Wo kann ich den finden?}
 {1487}{}{Alles klar... warte mal, ich hatte noch ein paar Fragen...}
 {1500}{}{Und sag dem feigen Hund, wenn er noch weiter solchen Mist erzählt, dann bring ICH ihn noch vor dem alten Wright um. Weißt du, was das für ein Gerede ist? Das kommt von einem, der ANGST hat, so sieht das nämlich aus.}
-{1501}{}{I see... say, I had some other questions...}
+{1501}{}{Verstehe... ich hätte da noch Fragen...}
 {1502}{}{Schon verstanden. Ich kümmer mich drum.}
 {2000}{}{Das soll ein AUTO sein? Ach du grüne Neune.}

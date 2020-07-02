@@ -30,7 +30,7 @@
 {180}{}{Äh, nein.}
 {181}{}{[Sabber]}
 {182}{}{Du hast nicht genug Kohle. Hau ab, Schätzchen.}
-{183}{}{I'll come back.}
+{183}{}{Ich komm zurück.}
 {184}{}{Das bist du nicht wert, Kleine.}
 {185}{}{Wah!}
 {186}{}{Du warst unglaublich!}
@@ -44,7 +44,7 @@
 {194}{}{Ja.}
 {195}{}{Klasse!}
 {196}{}{OK, wir sind fertig. Tschüß.}
-{197}{}{That's it?}
+{197}{}{Das ist alles?}
 {198}{}{OK. Tschüß}
 {199}{}{Es war gut.}
 {200}{}{Wiedersehn.}

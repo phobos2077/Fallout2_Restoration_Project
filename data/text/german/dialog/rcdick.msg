@@ -8,19 +8,19 @@
 {107}{}{Ich hab schon Schaufeln gesehen, die mehr Hirn hatten als du.}
 {108}{}{Fast immer 's Gleiche. Wir Bergarbeiter arbeiten alle gerade mal so viel, daß wir
  unseren nächsten Jet-Flug zusammenkriegen.}
-{109}{}{Ich möcht dich noch was andres fragen.}
+{109}{}{Ich möcht dich noch was anderes fragen.}
 {110}{}{Jet? Was ist Jet?}
 {111}{}{Ach so. Auf Wiedersehn.}
 {112}{}{Tja, die meisten von uns arbeiten sich 'n Ast ab, um genug Jet zusammenzukratzen.
  Die elenden Preise gehen ja jetzt ständig nach oben. Ich hasse das Gefühl, wenn ich grad
  nich' auf Jet bin.}
-{113}{}{Ich möcht dich noch was andres fragen.}
+{113}{}{Ich möcht dich noch was anderes fragen.}
 {114}{}{Jet? Was ist Jet?}
 {115}{}{Ach so. Auf Wiedersehn.}
 {116}{}{Komm ja kaum mit der Arbeit hinterher, um mir genug Jet kaufen zu können, daß ich
  mich gut fühl. Vielleicht kann ich ja so 'ne Art Direkthandel mit New Reno anleiern. Hab
  gehört, daß Ascorti auch an sowas denkt.}
-{117}{}{Ich möcht dich noch was andres fragen.}
+{117}{}{Ich möcht dich noch was anderes fragen.}
 {118}{}{Ascorti? Wer ist das denn?}
 {119}{}{Jet? Was ist Jet?}
 {120}{}{Ach so. Auf Wiedersehn.}
@@ -28,13 +28,13 @@
  Ich hab's schon mit mehr Jet versucht, aber das bringt's überhaupt nicht. Ich hab das Gefühl,
  davon wird's nur noch schlimmer. Mir geht's dreckiger als 'nem Schweinehintern und so geht's
  den meisten Bergarbeitern.}
-{122}{}{Ich möcht dich noch was andres fragen.}
+{122}{}{Ich möcht dich noch was anderes fragen.}
 {123}{}{Jet? Was ist Jet?}
 {124}{}{Ach so. Auf Wiedersehn.}
 {125}{}{Ich weiß auch nich', was passiert is', aber nach der letzten Ladung haben fast alle
  Jet aufgegeben. Hab mich gefühlt, als ob wir auf dem Jet zum großen Flughafen im Himmel fliegen
  würden. Jetzt will das niemand mehr nehmen. Von dem Gedanken allein wird uns schon ganz übel.}
-{126}{}{Ich möcht dich noch was andres fragen.}
+{126}{}{Ich möcht dich noch was anderes fragen.}
 {127}{}{Jet? Was ist Jet?}
 {128}{}{Ach so. Auf Wiedersehn.}
 {129}{}{Hallöle. Mein Name ist Athabaska-Dick. Die meisten nennen mich einfach nur Dick.
@@ -163,16 +163,16 @@ entgegenzutreten. Danach ist die Mine gleich geschlossen worden und seitdem war 
 {207}{}{Ich glaub, ich hab dir wohl lang genug zugehört. Wiedersehn.}
 {208}{}{Jet ist nur ein kleines Etwas aus New Reno. Ich nehm gerade genug, um die scharfen Kanten
  abzurunden.}
-{209}{}{Ich möcht dich noch was andres fragen.}
+{209}{}{Ich möcht dich noch was anderes fragen.}
 {210}{}{Interessant. Danke und auf Wiedersehn.}
 {211}{}{Jet ist der Hit, Mann. Wenn ich nicht auf Jet bin, fühl ich mich einfach nicht mehr wohl.
  Das mußte auch mal probieren.}
-{212}{}{Ich möcht dich noch was andres fragen.}
+{212}{}{Ich möcht dich noch was anderes fragen.}
 {213}{}{Interessant. Danke und auf Wiedersehn.}
 {214}{}{Ohne Jet pack ich's einfach nicht. Da fliegt jeder drauf in letzter Zeit. Ich brauch das
  einfach, um über die Runden zu kommen. Himmel, mit dem Zeug fühl ich mich nicht so gut, wie ich
  mich ohne dreckig fühle.}
-{215}{}{Ich möcht dich noch was andres fragen.}
+{215}{}{Ich möcht dich noch was anderes fragen.}
 {216}{}{Interessant. Danke und auf Wiedersehn.}
 {217}{}{Das Jet ist schlecht, Mann. Jedem, der's genommen hat, ist so schlecht geworden,
  als ob er gleich abkratzen würd. Ich glaub, ich sollte...(beugt sich vor und würgt ein bißchen)
@@ -182,5 +182,5 @@ entgegenzutreten. Danach ist die Mine gleich geschlossen worden und seitdem war 
 {220}{}{Ich will nie wieder was über dieses elende Jet hören. Das Zeug bringt dich um. Noch
  schlimmer als Radskorpiongift. Ich kann nicht glauben, daß ich das Zeug je gemocht hab. Aber
  das letzte Mal...ich dacht, das wär das Ende.}
-{221}{}{Ich möcht dich noch was andres fragen.}
+{221}{}{Ich möcht dich noch was anderes fragen.}
 {222}{}{Interessant. Danke und auf Wiedersehn.}

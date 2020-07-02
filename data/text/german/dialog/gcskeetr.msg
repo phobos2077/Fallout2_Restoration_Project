@@ -38,10 +38,10 @@
 {210}{}{Was soll ich mir ansehen?}
 {211}{}{Haste noch was andres, das ich mir ansehen soll? Was soll ich mir noch angucken?}
 {212}{}{Hier hab ich noch dieses Teleskop-Ding.}
-{213}{}{I've got an 'X'}
-{214}{}{I've got an 'X'}
-{215}{}{I've got an 'X'}
-{216}{}{I've got an 'X'}
+{213}{}{Ich hab hier ein 'X'.}
+{214}{}{Ich hab hier ein 'X'.}
+{215}{}{Ich hab hier ein 'X'.}
+{216}{}{Ich hab hier ein 'X'.}
 {217}{}{Kann ich die Teile später wechseln?}
 {218}{}{Ich brauch nichts weiter. Tschüß.}
 {220}{}{Hmm, ich kann das Teleskop an deine Waffe bauen.}
@@ -94,13 +94,13 @@
 {362}{}{Du hast viele Antworten parat, was? Ich hoffe, du weißt auch eine Antwort auf die Frage, was im Jenseits auf dich wartet, denn da befördere ich dich jetzt hin.}
 {363}{}{Ich muß drüber nachdenken. Tschüß erst mal.}
 {370}{}{Wie ich seh, haste hier 'n verdammt gutes Werkzeug. "Snap-Off", stimmt's? Ich geb dir die Brennstoff-Steuerung dafür.}
-{371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
+{371}{}{Hey, du bist mit meinem Werkzeugsatz zurück. Mmm, "Snap-Off"! Das sin' die besten. Also dann, tauschen wir?}
 {372}{}{Das ist ein Wort.}
 {373}{}{Noch nicht. Ich behalt das noch 'ne Weile. Tschüß.}
 {380}{}{Das iss'n mächtig guter Deal. Du kannst das Teil wahrscheinlich einfach einbaun und dein Auto in Gang setzen.}
 {381}{}{Das iss'n mächtig guter Deal. Du kannst das Teil wahrscheinlich einfach einbaun und dein Auto in Gang setzen. Weißte, ich könnt dir noch 'n Gefallen tun und dir noch andre Sachen kostenlos reparieren.}
 {382}{}{Wirklich? Kostenlos? Was muß ich dafür tun?}
-{383}{}{Ich möcht dich noch was andres fragen.}
+{383}{}{Ich möcht dich noch was anderes fragen.}
 {384}{}{Ich werd das gleich ausprobieren. Tschüß.}
 {390}{}{Naja, ich brauch 'n verdammten dreistufigen Plasma- Transformator. Und der einzige Ort, an dem man so'n Ding wohl kriegt, ist der Versorgungsraum.}
 {391}{}{Und warum holst du's dann nicht einfach?}
@@ -153,14 +153,9 @@
 {627}{}{Das ist ein bißchen viel für mich. Da muß ich erst mehr Geld auftreiben.}
 {630}{}{Möchtest du, daß ich diese Nahkampfwaffe frisiere? Ich könnte sie auch mit einer *Superladung* versehen. Kostet $}
 {631}{}{Sicher.}
-{640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
- eye.] Well, this is a mite challengin', but I think I can fix this up real nice
- for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
- workbench and locks it in a really big vise.]}
+{640}{}{[Skeeter nimmt das Teil und sieht es sich mit einem irren Glitzern in den Augen von allen Seiten an.] Tja, das ist nicht ganz einfach, aber ich denk, ich krieg das schon hin. Setz dich doch solange hin. [Skeeter geht mit der Waffe zu seiner Werkbank und klemmt sie in einen riesigen Schraubstock ein.]}
 {641}{}{OK.}
-{650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
- don't know exactly what he's doing but that weird chuckle and all the pounding are
- making you nervous.]}
+{650}{}{[Beim Warten siehst du Skeeter' Rücken, während er an deiner Waffe arbeitet. Du siehst nicht genau, was er macht, aber sein beklopptes Kichern und das ganze Gehämmere machen dich nervös.]}
 {651}{}{Moment...}
 {660}{}{[Noch mehr Gehämmere und irres Kichern, während du immer noch wartest...]}
 {661}{}{[Du pfeifst leise vor dich hin und beschäftigst dich damit, mit den Händen Schattenfiguren an der Rückwand von Skeeter' Werkstatt zu erzeugen...]}

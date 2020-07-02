@@ -53,7 +53,8 @@
 {141}{}{Ich verstehe. Hast Du irgend etwas geschaffen, daß funktioniert?}
 {142}{}{Ich möchte einen Test machen.}
 {143}{}{Das ist alles, was ich wissen wollte.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
+{144}{}{Ja, das habe ich, vielen Dank! Hast Du jemals von "Mentats" gehört? Ich habe mitgeholfen,
+ eine einfache Methode für die Massenproduktion dieses Zeugs zu entwickeln! Und mehr! Vieles mehr!}
 {145}{}{Ist gut, ist gut. Sag mal, ich möchte meine Fähigkeiten im Vergleich mit deinem Skorpion
  testen.}
 {146}{}{Ist gut, Ich glaube Dir. Ich gehe dann jetzt.}
@@ -87,7 +88,7 @@
 {401}{}{WAS? Du hast gefudelt!}
 {402}{}{Schachmatt?}
 {403}{}{Sei nicht so ein schlechter Verlierer.}
-{404}{}{And... checkmate!}
+{404}{}{Und... Schachmatt!}
 {405}{}{Schachmaaaatt!}
 {406}{}{::klicker:: Töte Pflanze! ::klick-klack-klick::}
 {407}{}{Du hast bewiesen, daß Du einen Skorpion besiegen kannst, der intelligenter ist als Du.}

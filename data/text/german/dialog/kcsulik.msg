@@ -50,7 +50,7 @@
 {211}{}{Vielleicht können wir uns ein andermal ausführlicher unterhalten. Tschau.}
 {220}{slk7}{Vic sein Verräter, nix Händler. Kommen in Dorf, sagen, wissen alles über Sklavenhändler, sagen, wir kommen zu ihm. Wir gehen, er nicht da.}
 {221}{}{Deine Schwester wurde von Sklavenhändlern geraubt?}
-{222}{}{Ich möcht dich noch was andres fragen.}
+{222}{}{Ich möcht dich noch was anderes fragen.}
 {223}{}{Ich glaube, das ist im Augenblick alles. Wiedersehn.}
 {230}{slk8}{Wir dir wollen danken. Heißen Sulik. Wie können wir gutmachen?}
 {231}{}{Oh.}
@@ -227,7 +227,7 @@
 {769}{}{Würdest du gerne mitkommen? Im Laufe der Reise finden wir vielleicht auch deine Schwester.}
 {770}{}{Im Moment brauche ich glaub ich keine weiteren Informationen.}
 {771}{slk45}{Heimat von Stamm ist neben Großes Salzwasser. Zwei Monde von hier, mein Freund.}
-{772}{}{Ich möcht dich noch was andres fragen.}
+{772}{}{Ich möcht dich noch was anderes fragen.}
 {773}{}{Zwei Monde? Das ist ganz schön weit. Wie konntest du eine so lange Reise unbeschadet überstehen?}
 {774}{}{Mehr brauche ich jetzt nicht. Wiedersehen.}
 {775}{slk46}{Geckos. Kleine Kerle sein nicht so bissig. Aber die Goldenen. Die dein Bein glatt durchbeißen.}
@@ -401,10 +401,10 @@
 {1023}{}{Wir auf keinen Fall Freunde sein mit Mörder.}
 {1025}{}{Du wirst in Klamath Ärger anrichten. Wir sind weg.}
 {1026}{}{Du wirst in meinem Heimatdorf Ärger anrichten. Wir sind weg.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Die Geister bewegen uns.}
+{2301}{}{Wir gehen jetzt.}
 {2302}{}{OK, mach's gut.}
-{2303}{}{Don' worry, We an' I be movin'.}
+{2303}{}{Keine Sorge, wir gehn jetzt.}
 {2304}{}{Wir denken, du Zeit brauchen, um alles zu verstehen. Großvater Knochen sagen, du zu hektisch. Mußt Dingen im Leben Zeit lassen.}
 {2305}{}{We be movin' an' groovin'.}
 {2306}{}{Wir jetzt hierhin gehen.}
@@ -417,7 +417,7 @@
 {3005}{}{Nach Südosten.}
 {3006}{}{In Richtung Sonnenaufgang.}
 {3007}{}{Nach Nordosten.}
-{3008}{}{We don't know anything about that.}
+{3008}{}{Wir wissen darüber rein gar nichts.}
 {3009}{}{Ja.}
 {3010}{}{Nein.}
 {3011}{}{Was erwartest du von uns?}
@@ -447,8 +447,8 @@
 {3036}{}{Du mußt das entriegeln.}
 {3037}{}{Du mußt das öffnen.}
 {3038}{}{Vielleicht sollten wir noch mal hierher zurückkommen.}
-{3039}{}{We don't understand.}
-{3040}{}{We don't know.}
+{3039}{}{Wir verstehen nicht.}
+{3040}{}{Wir wissen es nicht.}
 {3050}{slk86}{Daheimsein ganz nett, aber Ort jetzt werden scheinen klein. Wir vermissen Reise mit so ein Superkumpel wie du. Du wollen, daß wir wieder gehen Seite an Seite.}
 {3051}{}{Das wär toll.}
 {3052}{}{Tut mir leid, im Moment nicht.}

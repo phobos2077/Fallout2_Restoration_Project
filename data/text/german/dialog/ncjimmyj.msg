@@ -74,7 +74,7 @@
 {360}{}{Ja, das ist es! Ich WUSSTE doch, daß ich dich schon mal gesehen hatte! Verdammt, warum hast du's nicht gleich gesagt und Jimmy an seinen Platz verwiesen...?! Mann, was kann ich für dich tun?}
 {361}{}{Ähh... ich vergessen. Gehen.}
 {363}{}{Also, ich brauch etwas Jet...}
-{364}{}{Hey, I wanted something else...}
+{364}{}{Hey, Ich wollte noch etwas anderes...}
 {365}{}{Ich muß jetzt gehen. Wir sehen uns später, Jimmy.}
 {375}{}{(Jimmy wird plötzlich ganz still. Vielleicht hast du sein Gehirn gelähmt.)}
 {376}{}{(Stiehl alles, was er bei sich hat.)}
@@ -124,7 +124,7 @@
 {502}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {510}{}{Ich hab Verbindung zum SCHÖPFER selbst, Pilot. Ich krieg mein Jet direkt vom großen Genie, dem lebendigen Gott aller chemischen Verbindungen, MYRON.}
 {511}{}{Myron?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {513}{}{Myron, soso. Kann ich diesen... lebendigen Gott mal sprechen?}
 {514}{}{Echt? Na, dann komm ich bestimmt zurück und kauf später was davon. Danke, Jimmy.}
 {520}{}{Er ist der Goldesel der Mordinos. Hat Jet ERFUNDEN. Wenn du von Jagged Jimmy kaufst, kaufst du von Myron selbst, kapiert? Deswegen hat J-J das reinste Jet. Das BESTE Jet.}
@@ -137,7 +137,7 @@
 {534}{}{Gut zu wissen. Danke für die Informationen, Jimmy.}
 {540}{}{Wachen, Wachen und noch mehr Wachen. Und außerdem die modernsten elektronischen Sicherungsanlagen in ganz New Reno. Du hast schon Glück, wenn jemand SAGT, er habe Myron gesehen, so gut ist er bewacht.}
 {541}{}{Gut bewacht, was? Wo denn genau?}
-{543}{}{I see. Say, I had some other questions...}
+{543}{}{Verstehe. Sag mal, Ich hab da noch ein paar andere Fragen...}
 {550}{}{Er ist in den sogenannten "Ställen" im Norden, vor der Stadt. Ich war erst einmal da - sie lassen mich noch nicht mal durch das Tor und dabei ARBEITE ich für die Familie.}
 {551}{}{Jetzt sag schon, es gibt bestimmt eine Möglichkeit, ihn mal zu sprechen.}
 {554}{}{Die Ställe also? Vor der Stadt und im Norden... (Du gibst es schnell in den PIPBoy ein.) ...vielen Dank auch, Jimmy.}
@@ -156,13 +156,13 @@
 {592}{}{Interessant... Jetzt mal REIN aus Interesse, woher holen die Mordinos diese Prostituierten und wie werden sie ausgewählt?}
 {600}{}{(Zuckt die Achseln.) Einer von Mordinos Jungs sieht sich im Cat's Paw da unten um, soweit ich weiß und wählt eine aus Miss Kittys Sortiment aus, die Myron gefallen könnte... (Jimmy hört plötzlich auf zu reden. Er sieht dich an und runzelt die Stirn.) Augenblick mal...}
 {601}{}{Was ist denn los?}
-{602}{}{Uh... nevermind. Say, I had some other questions...}
+{602}{}{Na, egal. Ich hätte da noch ein paar weitere Fragen...}
 {603}{}{Äh, OK, und danke für die Informationen, Jimmy.}
 {610}{}{Wieso willst du so einen Kram wissen? Ich hab Jet und das ist alles, was DU wissen mußt. Du brauchst nichts über Myron zu wissen, weder was er zum Abendessen hatte noch wen er vor dem Schlafengehen vernascht hat.}
 {611}{}{Wieso willst du so einen Kram wissen... (Macht eine Pause, lächelt dann und sieht dich von oben bis unten an) Aha, jetzt hab ich's auch begriffen. Du willst dein Jet direkt von der Quelle, hab ich recht, Schwester?}
 {612}{}{Im Moment nicht. Laß mal sehen, was du so hast, Jimmy.}
 {613}{}{Dann vergiß es. Laß uns zum Geschäft kommen.}
-{614}{}{Nevermind then. I had some other questions...}
+{614}{}{Dann vergiß es. Ich hätte da noch ein paar Fragen...}
 {615}{}{Vielleicht ja. Hör mal, ich hatte da noch ein paar Fragen...}
 {616}{}{Nein, war nur neugierig. Danke, Jimmy. Ich muß dann weg.}
 {617}{}{Alles klar dann. Bis später, Jimmy. Ich muß dann weg.}

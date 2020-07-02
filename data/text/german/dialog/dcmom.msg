@@ -110,7 +110,7 @@
  Ich erinnere mich an ein kleines Goldmedaillon, das er selbst behielt.}
 {561}{}{Erinnerst du dich an seinen Namen?}
 {562}{}{Medaillon? Seltsam. Wer war das?}
-{563}{}{Ich möcht dich noch was andres fragen.}
+{563}{}{Ich möcht dich noch was anderes fragen.}
 {564}{}{Danke, Tschüß.}
 {580}{}{Ich bin mir nicht sicher. Er hieß Joe oder Joel oder so ähnlich. Er ist jetzt fast 19.
  Er hat sich hier ein paar Schlägern angeschlossen.}

@@ -110,7 +110,7 @@
 {230}{}{Zuerst mußt du beweisen, daß du es kannst. Ich lasse dich gegen fünf meiner Kämpfer antreten - nacheinander. Wenn du sie besiegst, wirst du vor die letzte Prüfung gestellt. }
 {231}{}{Was ist das?}
 {232}{}{Hört sich nach zu viel Ärger an. Mach's gut.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Du mußt meinen bevorzugten Schüler besiegen. Aber keiner dieser Kämpfe wird auf Leben und Tod sein - zum Schutz meiner Männer, versteht sich. [Er grinst höhnisch]}
 {234}{}{Dann fangen wir mal an!}
 {235}{}{Kümmer dich doch selbst um den Drachen.}
 {236}{}{[Lo Pan mustert dich und bevor du noch Zeit hast zu reagieren, trifft er dich mit einem schnellen Fausthieb auf die Nase.] Du bist nicht gut genug.}

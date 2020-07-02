@@ -29,8 +29,7 @@
 {150}{}{Ich weiß nicht so recht.}
 {151}{}{Ich kann sie gut leiden!}
 {152}{}{Wenn das so ist, erzähle ich dir, wie es wirklich aussieht.}
-{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
- and forced everyone under his rule. }
+{153}{}{Ein Mensch namens Jacob -- ich wurde nach ihm benannt -- gründete diesen Ort hier. Dann kam der Mutant Marcus und hat alle unterworfen. }
 {154}{}{Das reicht. Du bist ja verrückt. Auf Wiedersehen.}
 {155}{}{Erzähl mir mehr.}
 {156}{}{Wenn ich dir erzähle, was wirklich passiert ist, änderst du deine Meinung ganz sicher.}
@@ -69,7 +68,7 @@
 {189}{}{Kein Problem. Sind ja eh alles nur Mutanten. Aber sei um Himmels Willen leise dabei.}
 {190}{}{Schon klar. Ich habe weitere Fragen.}
 {191}{}{Alles klar. Bis dann.}
-{192}{}{More questions?}
+{192}{}{Noch Fragen? }
 {193}{}{Ich will dieses Erz hier raffinieren lassen, ohne die Preise der Raffinerie zahlen zu müssen.}
 {194}{}{Was kannst du mir über Broken Hills erzählen?}
 {195}{}{Ich will ein paar chemische Substanzen mischen lassen.}
@@ -89,12 +88,12 @@
 {234}{}{Noch nicht. Ich brauche erst ein paar Chemikalien dafür.}
 {235}{}{Noch nicht, danke. Tschüß.}
 {258}{}{Die Sache sieht folgendermaßen aus: Wir hassen die Mutanten und wollen sie umbringen. Am einfachsten geht das, wenn wir die Mine hochgehen lassen, während sie drinnen sind. Du sollst die Ladung anbringen.}
-{259}{}{I'll do it!}
+{259}{}{Ich mach es!}
 {260}{}{Das kann ich nicht tun.}
 {261}{}{Sehr gut! Hier, nimm. Das ist ein Sprengschalter. Den schließt du an den Luftreiniger an und dann haust du ab. Wir haben alles so vorbereitet, daß die Mutanten der ganzen Stadt dann in der Mine sind.}
 {262}{}{Sag Bescheid, wenn du soweit bist.}
 {263}{}{Mache ich.}
-{264}{}{I can't do it.}
+{264}{}{Das kann ich nicht tun.}
 {265}{}{Warum nicht? Hast du Angst oder was? Du machst es also wirklich nicht?}
 {266}{}{Ja.}
 {267}{}{Nein, ich mach's wohl doch.}
@@ -102,7 +101,7 @@
 {269}{}{[Erledigt]}
 {270}{}{Bist du bereit, den Plan auszuführen?}
 {272}{}{Ja. Auf geht's.}
-{273}{}{I've changed my mind. I don't want to do this.}
+{273}{}{Ich hab mich anders entschieden. Ich will nicht.}
 {274}{}{Gut. Auf diesen Tag habe ich gewartet. Bring den Sprengschalter nur am Luftreiniger in der Mine an und hau ab. Es gibt eine riesige Explosion. Bis nachher dann!}
 {275}{}{Bis dann! Tod den Mutanten!}
 {276}{}{Ich hab mich anders entschieden. Ich will nicht.}

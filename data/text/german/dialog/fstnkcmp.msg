@@ -17,7 +17,7 @@
 {116}{}{ERROR: Navigation Computer non Functional.}
 {117}{}{-Treibstofftanks: Leer- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {118}{}{-Treibstofftanks: Voll- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
-{119}{}{You see a PoseidoNet Navigation Computer.}
+{119}{}{Du siehst einen PoseidoNet-Navigationscomputer.}
 {129}{}{[Du gibst schnell die Sequenz zum Lösen der Leinen ein und das Schiff bewegt sich vom Landesteg weg.]}
 {130}{}{[Erledigt]}
 {131}{}{Navigation Computer on-line.}

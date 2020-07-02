@@ -42,11 +42,11 @@
  Vault City, New Reno und in die New California Republic.}
 {134}{}{Es wird ja überallhin geschickt!}
 {135}{}{Warum hast du deine Mine Kokoweef genannt?}
-{136}{}{Ich möcht dich noch was andres fragen.}
+{136}{}{Ich möcht dich noch was anderes fragen.}
 {137}{}{Ach so. Danke; das ist alles, was ich im Moment wissen muß. Wiedersehn.}
 {138}{}{Klar. Jeder mag Gold. Du solltest mal mit dem Karawanen-Meister James Hoffy sprechen,
  wenn du wirklich daran interessiert bist.}
-{139}{}{Ich möcht dich noch was andres fragen.}
+{139}{}{Ich möcht dich noch was anderes fragen.}
 {140}{}{Danke, das werde ich tun. Wiedersehn.}
 {141}{}{Ein Garden-Eden-Creation-Kit, was? Der Name macht was her! Wenn ich sowas hätte,
  würde ich sicher nicht in der Erde herumbuddeln, um über die Runden zu kommen, oder?}

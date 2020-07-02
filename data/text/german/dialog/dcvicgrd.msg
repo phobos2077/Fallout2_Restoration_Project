@@ -123,9 +123,9 @@
 {481}{}{OK.}
 {482}{}{Wie du willst.}
 {490}{}{Leider nein.}
-{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
+{491}{}{Ich sagte nein. Und jetzt zieh Leine. Du mußt mit Metzger reden.}
 {492}{}{OK.}
-{500}{}{Too bad you didn't join us.}
+{500}{}{Schade, daß du dich uns nicht angeschlossen hast.}
 {501}{}{Du solltest in die Gilde eintreten.}
 {502}{}{Ich mach nur dieses Wachedings.}
 {503}{}{Hoffe, Vic bringt das für dich in Ordnung.}

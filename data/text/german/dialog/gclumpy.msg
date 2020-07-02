@@ -33,7 +33,7 @@
 {164}{}{Oh, tut mir leid. Ich wollte nicht hereinplatzen. Wiedersehn.}
 {170}{}{Ich bewache die Brahmin oder helfe Skeeter in seiner Werkstatt.}
 {171}{}{Wer ist Skeeter?}
-{172}{}{Ich möcht dich noch was andres fragen.}
+{172}{}{Ich möcht dich noch was anderes fragen.}
 {173}{}{Das ist alles, was ich im Moment wissen wollte. Tschüß, Klumpy.}
 {180}{}{Naja, es ist eine Art Witz. Sie nennen Leute wie mich und dich normalerweise Glatthäute. Ich wurde aber von anderen Glatthäuten in Vault City so schlecht behandelt, daß alle hier gesagt haben, ich sehe noch mehr wie ein Klumpen aus als sie selbst, deshalb Klumpy.}
 {181}{}{Warum wurdest du in Vault City schlecht behandelt?}

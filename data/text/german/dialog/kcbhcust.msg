@@ -43,7 +43,7 @@
 {157}{}{Wetter wird wohl bald umschlagen.}
 {158}{}{Ich habe eine gute Stelle für Fallen südlich von hier gefunden.}
 {159}{}{Wenn du clever bist, hältst du dich von den Duntons fern.}
-{160}{}{If you're anxious, try the Bathhouse.}
+{160}{}{Wenn du verspannt bist, probier das Badehaus aus.}
 {161}{}{Geh nach Westen, in die Trapperstadt, wenn du einen Platz suchst, wo du pennen kannst.}
 {162}{}{Willkommen, Freund.}
 {163}{}{Ich hoffe, dir gefällt unsere Stadt.}

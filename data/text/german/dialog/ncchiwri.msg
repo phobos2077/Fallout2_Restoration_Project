@@ -58,8 +58,7 @@
 {317}{}{Tritt ihn mit dem Stiefel, auf den er dir gespuckt hat.}
 {318}{}{Verzieh dich}
 {319}{}{Geh, und laß die Sache auf sich beruhen. Für diesmal.}
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Na ja… Ich… ich meine, die Wright-Familie... meine Familie... könnte da was haben. Ich verspreche dir nichts, aber geh zu dem Herrenhaus im Süden von hier, such da meinen Bruder Keith, und sag ihm, daß ich dich schicke. Mein Name ist Chris. Chris Wright.}
 {326}{}{Äh, Familie Wright? Wer is' das denn?}
 {327}{}{Wright, hm? Ich bin deiner Ma begegnet.}
 {328}{}{Kannst du mir sagen, was deinem Bruder Richard zugestoßen ist?}
@@ -86,16 +85,16 @@
 {380}{}{Sie läuft rum und predigt so 'n Quatsch über Sünden und so 'n Zeug, aber sie weiß nicht mal richtig, was Papa macht.
  Entweder das, oder sie ignoriert es.}
 {381}{}{Was macht denn dein Vater?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmm. Ich hätte da noch ein paar weitere Fragen...}
 {383}{}{Interessant. Na, ich muß dann mal los.}
 {390}{}{Er brennt Alkohol, handelt mit Waffen, macht Leute fertig, die ihm was wollen...typischer Familienkram halt. Ma würde
  es ganz schön stinken, wenn sie mal wahrnähme, was hier so abgeht. Und ganz besonders, wenn sie diese Brennerei hier fände.}
 {391}{}{Wie sehr würde es ihr stinken?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmm. Ich hätte da noch ein paar weitere Fragen...}
 {393}{}{Interessant. Na, ich muß dann mal los.}
 {400}{}{Wahrscheinlich genug, um den ganzen Laden auseinanderzunehmen...mindestens. Dann würde sie und allen 'ne Rede halten
  und eine tagelange Predigt. Hä.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {402}{}{Hmmmmm. Danke. }
 {410}{}{Richard? Tja, weißt du, man hat ihn gefunden wie einen dieser Jet-Toten, in der Gosse. Soweit wir es uns erklären
  können, hat ihn jemand so lange mit Jet vollgepumpt, bis er tot war.}

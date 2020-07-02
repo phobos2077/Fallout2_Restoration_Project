@@ -36,7 +36,8 @@
 {280}{}{Eigentlich nicht. Entschuldige die Störung.}
 {290}{}{Du hast noch nicht von der Familie *Wright* gehört? Du mußt dich zu lange in der Wüste aufgehalten haben. Die Familie Wright ist die größte Mafia-Familie in Reno. Wir werden diese Stadt beherrschen.}
 {291}{}{Wirklich? Klingt so, als ob die Wright-Familie alle Karten in der Hand hält. Stellt ihr jemanden ein?}
-{292}{}{Eigentlich hatte ich den Eindruck, daß ihr eine der schwächsten Familien seid... ich meine, ihr handelt nur mit Alkohol, ihr habt kein Kasino und kein Bein im Drogenhandel, und ihr seid viel weniger Leute als in anderen Familien.}
+{292}{}{Eigentlich hatte ich den Eindruck, daß ihr eine der schwächsten Familien seid... ich meine, ihr handelt nur mit Alkohol, ihr habt kein Kasino
+ und kein Bein im Drogenhandel, und ihr seid viel weniger Leute als in anderen Familien.}
 {293}{}{Wo wir gerade von Familie reden, ich bin deiner Ma begegnet.}
 {295}{}{Wirklich? Wie interessant... tja, hör mal, ich muß gehen.}
 {296}{}{Die Familie Wright ist die größte der kriminellen Familien in Reno. Wir werden die ganze Stadt beherrschen.}
@@ -73,12 +74,12 @@
 {370}{}{Ich glaub schon. Hör mal, ich geh dann wohl besser.}
 {380}{}{Sie läuft rum und predigt so 'n Quatsch über Sünden und so 'n Zeug, aber sie weiß nicht mal richtig, was Papa macht. Entweder das, oder sie ignoriert es.}
 {381}{}{Was macht denn dein Vater?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmm. Ich hätte da noch ein paar weitere Fragen...}
 {383}{}{Interessant. Na, ich muß dann mal los.}
 {390}{}{Er brennt Alkohol, handelt mit Waffen, macht Leute fertig, die ihm was wollen... typischer Familienkram halt. Ma würde es ganz schön stinken, wenn sie mal wahrnähme, was hier so abgeht. Und ganz besonders, wenn sie diese Brennerei hier fände.}
 {391}{}{Wie sehr würde es ihr stinken?}
 {400}{}{Wahrscheinlich genug, um den ganzen Laden auseinanderzunehmen... mindestens. Dann würde sie und allen 'ne Rede halten und eine tagelange Predigt. Ha.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Interessant. Ich hätte noch ein paar Fragen...}
 {402}{}{Hmmmmm. Danke. }
 {410}{}{Richard? Tja, weißt du, man hat ihn gefunden wie einen dieser Drogentoten, in der Gosse. Soweit wir es uns erklären können, hat ihn jemand so lange mit Drogen vollgepumpt, bis er tot war.}
 {411}{}{"Jemand" hat ihm zuviel gegeben? Woher willst du wissen, daß er nicht SELBST eine Überdosis genommen hat?}
@@ -110,7 +111,8 @@
 {487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiß. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
-{495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch Little Jesus Mordino: der könnte Rich Drogen aufgedrängt haben, als Rich allein draußen war. Er hängt im Desperado rum.}
+{495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch Little Jesus Mordino: der könnte Rich Drogen aufgedrängt haben,
+ als Rich allein draußen war. Er hängt im Desperado rum.}
 {497}{}{Jagged Jimmy J, Renesco, genannt Rocketman, Jules und Little Jesus...die knöpf ich mir vor. Besten Dank für die
  Infos, Chris. }
 {1200}{}{! Was 'ne Art, der Enklave eins überzuziehen!}

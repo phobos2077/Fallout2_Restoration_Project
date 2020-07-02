@@ -42,7 +42,7 @@
 {271}{}{Äh, wahrscheinlich. Erzähl mir was anderes.}
 {272}{}{Herrjeh, ich glaub von euch kann ich viel lernen. Ich würd auch gern zivilisiert sein, eines Tages.}
 {273}{}{Zivilisiert? Du glaubst, ihr seid zivilisiert, weil ihr in den ausgebrannten Ruinen einer Stadt aus den alten Zeiten wohnt? Erzähl mir was andres.}
-{274}{}{I think I've heard just about enough. Goodbye.}
+{274}{}{Ich glaube, ich habe jetzt genug gehört. Auf Wiedersehen.}
 {280}{}{Also, kann ich sonst noch was für dich tun?}
 {281}{}{Ich hab für die nächste Zeit mit Gecko-Häuten ausgesorgt. Kann ich sonst noch was für dich tun?}
 {282}{}{Eigentlich wollte ich noch was anderes erstehen.}

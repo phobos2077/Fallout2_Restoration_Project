@@ -179,10 +179,10 @@
 {532}{}{Vielen Dank.}
 {533}{}{Tank!}
 {534}{}{Ug! Schön Frau.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Du bist ein wunderbarer Mann. Ich bin zwar nicht mit deinen Taten einverstanden, aber du
+ hast der Welt einen großen Dienst erwiesen.}
+{541}{}{Du bist eine wunderbare Frau. Ich bin zwar nicht mit deinen Taten einverstanden, aber du
+ hast der Welt einen großen Dienst erwiesen.}
 {542}{}{Danke.}
 {550}{}{Du bist hier nicht willkommen. Bitte geh.}
 {551}{}{Bitte geh.}

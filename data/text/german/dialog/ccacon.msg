@@ -1,7 +1,7 @@
 {100}{}{Du siehst jemanden in Milit‰runiform.}
 {101}{}{Du siehst jemanden in Milit‰runiform.}
 {102}{}{Du siehst jemanden in Milit‰runiform, doch das ist eher ein Techniker als ein Soldat.}
-{103}{}{Hey. How's it going?}
+{103}{}{Hey, wie geht's so?}
 {104}{}{'Roger, ich hab dich auf dem Schirm' - tut mir leid, aber ich bin mitten bei der Arbeit.}
 {105}{}{Ich kann gerade nicht mit dir sprechen.}
 {106}{}{Sieh dich ruhig um, aber faﬂ nichts an.}

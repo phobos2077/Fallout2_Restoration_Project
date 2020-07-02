@@ -68,7 +68,7 @@
 {161}{}{Diese Schweine Jacob und Aileen haben mich immer wie einen Bürger zweiter Klasse
  behandelt. Das haben sie jetzt davon.}
 {162}{}{Ich glaube nicht, daß sich Broken Hills je wieder vom Verlust der Mine erholt...}
-{163}{}{All the mutants... dead...}
+{163}{}{Alle Mutanten… tot…}
 {164}{}{...jetzt werden wir nie herausfinden, ob es Frieden zwischen Menschen und Mutanten hätte
  geben können...}
 {165}{}{Jetzt sollten wir aber von hier abhauen und sehen, was der Rest der Welt so zu bieten

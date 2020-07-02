@@ -172,7 +172,7 @@
 {820}{}{Sein Name ist Myron. Und wo er ist, geht dich nichts an.}
 {821}{}{Sein Name ist Myron. Wir haben ihn in den Ställen im Norden der Stadt einquartiert. Da testet er neues Zeug. Du kannst hingehen und ihn sehen, wenn du willst, aber er ist meistens beschäftigt... entweder mit Jet oder mit Frauen.}
 {822}{}{Warum tust du nicht einfach was Kluges und erzählst es mir?}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Ok. Ich hätte da noch ein paar weitere Fragen...}
 {824}{}{Myron, hm? Also gut, Jesus. Danke für die Unterhaltung.}
 {840}{}{Das Desperado ist DIE Szene, Mann. Wir haben das Jet, die Spiele, die Action... und wir haben die Putas, direkt vor der Tür, feucht und willig. Paradies, Mann. Pa-ra-dies.}
 {841}{}{Das Desperado ist DIE Szene, Mädchen. Wir haben das Jet, die Spiele, die Action. Du brauchst nirgendwo sonst hinzugehen.}

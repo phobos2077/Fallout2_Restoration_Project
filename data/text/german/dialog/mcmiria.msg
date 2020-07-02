@@ -27,7 +27,7 @@
 {179}{}{Du hast irgend etwas von Rose erwähnt?}
 {180}{}{Was ist dran an den Gerüchten über ein mutiertes Brahmin?}
 {181}{}{Erzähl mir von Davin.}
-{182}{}{Let's talk about something else.}
+{182}{}{Laß uns lieber über was anderes reden.}
 {183}{}{Ah, Rose. Die Besitzerin von Roses Pension. Du hast es nicht von mir, aber hast du dich schon mal gefragt, wieso ihr "Stall" so gut beschützt ist? Sie behauptet, sie will ihre Hühner vor Räubern schützen, aber wenn man genau hinschaut, sieht es eher aus, als wolle Sie etwas am ausbrechen hindern als am einbrechen. Außerdem habe ich noch nie von Hühnern gehört, die 12 Pfund schwere Eier legen?}
 {184}{}{Erzähl mir noch ein paar Gerüchte.}
 {186}{}{Es klingt verrückt, aber man sagt, daß hin und wieder ein Brahminkalb mit nur einem Kopf geboren wird. Irre, oder!}

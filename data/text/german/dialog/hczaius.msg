@@ -98,7 +98,7 @@
 {169}{}{Was willst du jetzt?}
 {170}{}{Kannst du mir was über die Stadt erzählen?}
 {171}{}{Ich hab gehört, daß ihr Probleme mit der Mine habt.}
-{172}{}{How're things?}
+{172}{}{Wie läuft es?}
 {173}{}{Verstehst du dich gut mit den Menschen?}
 {174}{}{Hast du noch mal drüber nachgedacht, ob du das mit der Mine nicht doch machen willst?}
 {175}{}{Wieviel ist für mich drin?}
@@ -136,13 +136,13 @@
 {201}{}{Tja, am besten redest du darüber mit Marcus, der ist drüben bei der Bank, oder mit Steve,
  das ist der Begrüßer der Stadt.}
 {202}{}{Hmm. Alles klar, danke.}
-{203}{}{I'll go ask them, then.}
+{203}{}{Dann werde ich sie fragen. }
 {204}{}{Die sind eigentlich in Ordnung. Na ja... könnten auch noch mehr in Ordnung sein.}
 {205}{}{He, vielen Dank für die Informationen.}
-{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
- something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
- far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here... now those are some bastards.}
+{206}{}{Tja, jetzt wo die Mutanten alt und senil werden - wobei das Gas sie glaub ich jung hält -
+ muß ich sagen, daß eigentlich alles OK ist. Wir wollen ja nicht jeden umbringen und soweit ich
+ das beurteilen kann, können die Menschen uns ganz gut leiden. Das gilt natürlich nicht für die
+ Menschen hier aus der Umgebung... das sind alles elende Mistkerle.}
 {207}{}{Alles klar, danke. Tschüß dann.}
 {300}{}{. Wie wäre das?}
 {301}{}{. Wie wäre das?}

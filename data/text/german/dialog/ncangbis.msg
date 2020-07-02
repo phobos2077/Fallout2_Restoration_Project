@@ -37,7 +37,7 @@
 {270}{}{Doch, das wirst du. Komm schon.}
 {271}{}{Ich kommen}
 {272}{}{Gerne spielen. Aber nur mit mir}
-{280}{}{Exactly...}
+{280}{}{Genau…}
 {281}{}{[Folge ihr.]}
 {290}{}{Och, komm schon! Bittebittebitte! Ich will dir wirklich mein Zimmer zeigen. Dauert nur eine Sekunde, das verspreche ich.}
 {291}{}{Nein! Nicht gehen! Nicht zwingen! Nicht zu bösem Zimmer! Nein!}

@@ -13,7 +13,7 @@
 {161}{}{I left them back with my guard. I’ll go fetch them.}
 {162}{}{You cannot get in without papers.}
 {163}{}{Here’s my authorization! Attack!}
-{164}{}{I'll come back.}
+{164}{}{Ich komm zurück.}
 {165}{}{[Embarrassed] No...um...alright, just go on in...}
 {166}{}{Danke.}
 {167}{}{Das hört sich schon besser an.}

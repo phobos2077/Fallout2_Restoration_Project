@@ -48,7 +48,7 @@
 {196}{}{Ein paar von uns waren auf der Jagd, als wir die Farm bemerkten. Aber das war ja nicht mal so seltsam. Kurz danach gingen ein paar von uns, um die neuen Nachbarn zu besuchen, bloß da war keiner.}
 {197}{}{Ja?}
 {198}{}{Wir versuchten viele Monate ohne Erfolg, mit den Besitzern in Kontakt zu treten, doch ohne Erfolg. Also dachten wir, daß die Farm bald nach ihrem Bau aufgegeben worden war. Um die Saat nicht auf dem Feld verrotten zu lassen, ist der junge Karl eingezogen.}
-{199}{}{Hmm... }
+{199}{}{Hmm...}
 {200}{}{Dann wurde es übel. Karl kam mit Geschichten über seltsame leuchtende Figuren, die sich nachts um die Felder kümmerten und die Tiere fütterten. Wir lachten ihn alle aus, weil wir glaubten, daß er das alles nur erfunden hatte. Eines Tages kam Karl nicht mehr in die Stadt.}
 {201}{}{Was ist mit ihm geschehen? Habt ihr ihn gesucht?}
 {202}{}{Aber klar! Wir gingen zur Farm, als wir vermuteten, daß da was faul war. [Er fängt an, heftig zu zittern.] Der Horror! Überall Leichen verstreut. Manche gekreuzigt, während andere in der Sonne verwesten. Ich wache immer noch mitten in der Nacht schreiend auf, weil ich die furchtbaren Bilder von damals nicht vergessen kann.}

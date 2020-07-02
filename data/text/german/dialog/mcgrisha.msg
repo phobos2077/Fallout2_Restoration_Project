@@ -50,7 +50,7 @@
 {199}{}{[SCHÜTTEL GRISHAMS HAND]}
 {200}{}{Moment mal. Wenn ich so drüber nachdenke, die Brahmin sahen recht dünn aus. Wie wär's mit $750?}
 {201}{}{Ich hab's mir überlegt, ich will dich nicht bezahlen.}
-{202}{}{[Gives you a big toothy smile.] Good to see you're a person of character.}
+{202}{}{[Zeigt dir ein grosses breites Grinsen] Schön zu sehen, daß du eine Person von Charakter bist.}
 {203}{}{[Grisham bekommt einen hochroten Kopf und spricht durch zusammengebissene Zähne.] OK, $750. Gib mir das Geld!}
 {204}{}{Also weißt du, $750 ist immer noch ziemlich teuer. Die Brahmin wären auch gestorben, wenn die Hunde sie nicht erwischt hätten. Aber ich bin kein Egoist, ich geb dir $50.}
 {206}{}{GUT! GIB MIR DAS GELD UND HAU AB!}
@@ -147,7 +147,7 @@
 {1238}{}{Mal sehen. Es sah so aus, als ob du und meine Nichte die Paarungszeit der Brahmins nachgemacht hättet.}
 {1239}{}{Mal sehen. Es sah so aus, als ob du und mein Neffe 'nen Horizontalen Tango unterm Betttuch tanzen würdet.}
 {1403}{}{Wie kannst du nur die Ehre meines Bruders besudeln }
-{1412}{}{daughter.}
+{1412}{}{Tochter.}
 {1413}{}{Sohn.}
 {1600}{}{. Ich hoffe, du paßt gut auf meine Tochter Miria auf. Sie ist das Licht meines Lebens, und es würde mir das Herz brechen, wenn ihr etwas zustoßen würde. Wo ist sie eigentlich? Ich wollte sie eigentlich wiedersehen.}
 {1601}{}{. Wie bekommt dir das Eheleben denn so? Wie ich sehe, reist mein Sohn Davin nicht mit dir zusammen. Ich vermisse ihn schon sehr. Vielleicht kannst du ihn ja beim nächsten Besuch mitbringen. Das wär eine große Freude für einen alten Mann, wenn er seinen einzigen Sohn wiedersehen könnte.}

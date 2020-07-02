@@ -116,7 +116,7 @@
 {391}{}{Wo trainierst du?}
 {392}{}{Pass auf den Masticator auf. Er steht auf Ohren.}
 {393}{}{Ich würd dir nen Drink spendieren, wenn ich nicht mein ganzes Geld auf deinen Gegner gesetzt hätte.}
-{394}{}{Wanna wrestle?}
+{394}{}{Willste ringen?}
 {395}{}{Du siehst gar nicht so zäh aus, Meister des linken Haken.}
 {396}{}{Kann ich mal deine Bauchmuskel sehen?}
 {400}{}{Hab gehört, daß Mrs. Bishop dich sucht. Paß auf, Freund.}

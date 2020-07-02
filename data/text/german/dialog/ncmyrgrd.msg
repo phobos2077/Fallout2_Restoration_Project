@@ -95,8 +95,7 @@
 {477}{}{Ja. Kann ich reingehen? Wir haben was Geschäftliches zu besprechen.}
 {478}{}{Nein, jetzt nicht. Paßt auf, Jungs.}
 {479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
-{480}{}{Ja, sicher. Versuch nicht zu viel Aufsehen zu erregen, während du hier bist.
-(Zu sich sellbst) Verdammt, Myron ist so ein Glückspilz.}
+{480}{}{Ja, sicher. Versuch nicht zu viel Aufsehen zu erregen, während du hier bist. (Zu sich sellbst) Verdammt, Myron ist so ein Glückspilz.}
 {485}{}{Myron ist nicht da.}
 {487}{}{Kann ich trotzdem reingehen?}
 {495}{}{(Zuckt mit den Schultern.) Ist mir egal. Wenn du auf ihn warten willst, geh rein. Ich weiß nicht, wann er zurückkommt...oder ob er überhaupt zurückkommt.}

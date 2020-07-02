@@ -2,7 +2,7 @@
 {101}{}{Du siehst Marc, eine Wache.}
 {102}{}{Du siehst Marc, eine von Tylers Wachen.}
 {150}{}{Hey Tyler!}
-{200}{}{What the...?}
+{200}{}{Was zum...?}
 {225}{}{Danke für den Tip, das hat Spaß gemacht.}
 {226}{}{Ich wußte, daß wir diese Weicheier erledigen können.}
 {227}{}{Schade, daß wir sie alle umgebracht haben. Was machen wir jetzt?}

@@ -42,7 +42,7 @@
 {201}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
  Ich hab viel Gerede über schlechte Zeiten gehört.}
 {202}{}{Ich noch such, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Ich suche noch, Cousin.}
 {204}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
  Dreizehn und das GECK gefunden?}
 {205}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige

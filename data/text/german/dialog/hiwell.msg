@@ -50,8 +50,7 @@
 {149}{}{Äh... hör mal. Da unten ist so ein Viech mit vielen Beinen, dem ich gern entkommen würde. Könntest Du Dich etwas beeilen?}
 {150}{}{Typhon hätte wissen müssen, daß Deckel heutzutage wertlos sind. Oder etwa nicht?}
 {151}{}{Ach du liebe Güte! Es greift nach mir! HILFE!}
-{152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
- shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
+{152}{}{Weißt Du, irgendwie ist das süß, wenn man sich das so überlegt. Er hat ernsthaft geglaubt, er würde mir helfen. Vielleicht sollte ich nicht zu hart mit ihm sein. ::seufz:: Soviel also zum Schatz. Ich glaube, es gibt andere Plätze, die noch auf mich warten.}
 {153}{}{::Winsel...::}
 {154}{}{Keinen Gedanken mehr an Brunnen verschwenden.}
 {155}{}{Hmmmm... irgendwie werde ich das Gefühl nicht los, daß ich etwas im Zusammenhang mit dem Brunnen vergessen habe. Naja, keine Zeit zu verschwenden.}

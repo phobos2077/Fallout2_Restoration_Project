@@ -33,8 +33,7 @@
 {132}{}{Liz ist eigentlich ganz in Ordnung für einen Menschen. Sie betreibt den Gemischtwarenladen westlich von der Bank. Sonst noch was?}
 {133}{}{OK dann. Bis bald.}
 {134}{}{Cameron ist der Anführer der normalen Menschen hier. Er kann Mutanten oder Ghuls nicht besonders gut leiden, aber er behandelt uns OK. Er ist Politiker, deshalb ist er meistens in der Bank oder im Saloon. Manchmal arbeitet er sogar beim Schmied. Sonst noch was? Wo bin ich hier überhaupt? Ach ja... na gut... sonst noch was?}
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
- the jail. Anything else?}
+{135}{}{Marcus ist unser Anführer. Er war bei der Gründung von Broken Hills dabei. Du kannst ihn normalerweise in der Bank oder im Gefängnis antreffen. Sonst noch was?}
 {136}{}{Du gieriger Bastard. Weißt du eigentlich, wie hart wir dafür arbeiten? Von mir aus kannst du verrotten.}
 {137}{}{Danke für das Erz!}
 {138}{}{Ich kann immer noch nicht glauben, daß die Mine in die Luft geflogen ist. Jetzt müssen wir alle verhungern. Diese Mine hat die Stadt am Leben erhalten. Immerhin kann ich jetzt in Ruhe senil werden, ohne weiter arbeiten zu müssen ...}

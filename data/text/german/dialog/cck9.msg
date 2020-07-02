@@ -213,7 +213,7 @@
 {400}{}{Du hast was vergessen.}
 {410}{}{Nichts passiert.}
 {420}{}{Das paﬂt nicht.}
-{800}{}{You fixed K-9.}
+{800}{}{Du hast K-9 repariert.}
 {1000}{}{Ja, Meister?}
 {1100}{}{Alle Systeme funktionieren mit voller Leistung, Meister.}
 {1200}{}{Meine Systeme funktionieren mit fast voller Leistung, Meister.}

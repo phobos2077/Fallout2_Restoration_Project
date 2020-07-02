@@ -2,8 +2,8 @@
 {101}{}{Du siehst Metzger, den Sklavenhändlermeister.}
 {150}{}{Metzger ist der Anführer der Sklavenhändlergilde.}
 {200}{}{Dafür wirst du bezahlen.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{Was zum Teufel wollt ihr? Das ist hier die Sklavenhändlergilde und kein Asyl für
+ abgewrackte Junkies.}
 {211}{}{Was willst du häßliche Schlampe? Das ist hier die Sklavenhändlergilde und kein
  verdammtes Eroscenter.}
 {212}{}{Was hast du vor, du Schlampe? Das ist hier die Sklavenhändlergilde und kein verdammtes

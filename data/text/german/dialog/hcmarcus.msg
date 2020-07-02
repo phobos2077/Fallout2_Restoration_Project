@@ -65,7 +65,7 @@
 {151}{mcs15b}{Nun, einer der Karawanenjungs macht mir Sorgen. Chad heißt er. Er scheint mir nicht ganz
  sauber zu sein. Meinst du, du kannst ihn für mich mal überprüfen?}
 {152}{}{Wieviel ist für mich drin?}
-{153}{}{Sure. I'll do it.}
+{153}{}{Klar, mach ich.}
 {154}{}{Ich hab leider zu viel zu tun.}
 {155}{}{Hast du sonst noch was?}
 {156}{mcs16}{Meine ewige Dankbarkeit. Alles klar?}
@@ -85,7 +85,8 @@
 {169}{}{Hast du sonst noch was?}
 {170}{}{Ich habe noch weitere Fragen.}
 {171}{}{Tschüß.}
-{172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
+{172}{mcs20}{Irgendeiner hat zwei Verrückte aus dem Gefängnis in der Bank befreit. Spür sie auf. Dann
+ sag mir, wo sie sind und ich loche sie wieder ein.}
 {173}{}{Hast du sonst noch was?}
 {174}{}{Ich habe noch weitere Fragen.}
 {175}{}{Tschüß.}
@@ -192,7 +193,7 @@
 {251}{}{Verdammt richtig. Was willst du dagegen sagen, Mutantchen?}
 {252}{}{Neeein... das ist jemand anders. Ich weiß gar nicht, wovon du redest.}
 {253}{mcs43}{Na, macht nichts. Das ist wie gesagt alles sehr lange her.}
-{254}{}{I'm not afraid of you.}
+{254}{}{Ich hab keine Angst vor dir!}
 {255}{}{Warum habt ihr denn damals die Menschen gehaßt?}
 {256}{mcs44}{Solange du mich und die Leute in der Stadt nicht verärgerst, gibt's keinen Grund zur
  Angst. Benimm dich anständig, das ist alles, was ich will.}
@@ -220,7 +221,7 @@
  und ihre Bomben entschärft.}
 {273}{}{Super! Ich hab ein paar Fragen...}
 {274}{}{Hey, ich habe was herausgefunden.}
-{275}{}{Didn't learn anything.}
+{275}{}{Ich hab nichts gelernt.}
 {276}{mcs103a}{Zu viele Leute. Vom Reisen mit einer ganzen Horde hab ich genug.}
 {277}{mcs103b}{Ich dachte, du wärst einer von den Guten. Ich komme nicht mit dir.}
 {278}{mcs103c}{Ich kann im Moment nicht mit dir kommen. Tut mir leid.}
@@ -268,11 +269,11 @@
 {320}{}{Nicht sehr nett.}
 {321}{}{Danke. }
 {322}{}{Das ist gut.}
-{323}{}{This ain't good.}
+{323}{}{Das ist nicht gut.}
 {324}{}{Das gefällt mir. Und zwar sehr. }
 {325}{}{Ich habe ein ungutes Gefühl dabei.}
 {326}{}{Diese Typen sind verrückt.}
-{327}{}{Didn't learn anything.}
+{327}{}{Ich hab nichts gelernt.}
 {328}{}{Ich hab was gelernt.}
 {329}{}{Sind denn hier alle verrückt?}
 {330}{}{Es muß noch einen anderen Weg geben.}

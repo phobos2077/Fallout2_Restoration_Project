@@ -27,9 +27,10 @@
 {138}{}{Das hört sich aber langweilig an.}
 {139}{}{Ich habe noch weitere Fragen.}
 {140}{}{Danke. Tschüß.}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Dir was über Broken Hills erzählen? Tja... ich bin vor ein paar Jahren hierhergezogen.
+ Hab eine Stelle bei Bill bekommen, das ist unser Ausstatter hier. Hab mich dann bis hierhin
+ hochgearbeitet. Ich unterstehe Marcus und Bill, aber ich bin für das Wohlergehen der Stadt
+ verantwortlich.}
 {142}{}{Ich habe noch weitere Fragen.}
 {143}{}{Tschüß.}
 {144}{}{Wie zum Beispiel?}

@@ -47,7 +47,7 @@
 {271}{}{Ja, weißt du was es war?}
 {272}{}{Ich denke, es war ein Vogel.}
 {273}{}{Nein, ein Hund.}
-{274}{}{But it was flying, man.}
+{274}{}{Aber es flog, Mann.}
 {275}{}{Niemals, es rauschte über den Boden.}
 {276}{}{Eh, du bildest dir Sachen ein. }
 {277}{}{Och Komm. Das war Wirklichkeit.}
@@ -98,7 +98,7 @@
 {406}{}{Prickelt deine Haut nicht auch davon?}
 {407}{}{Tubby hat die beste Ware in der Stadt.}
 {408}{}{Ich fühl mich so lebendig!}
-{420}{}{Did you hear a loud bang?}
+{420}{}{Hast du einen lauten Knall gehört?}
 {421}{}{Hab Tubby schon seit einer Weile nicht mehr gesehen.}
 {422}{}{Wo ist Tubby?}
 {423}{}{Tubby gesehen?}

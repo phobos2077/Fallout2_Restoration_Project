@@ -89,11 +89,10 @@
 {340}{}{Ich weiß nicht mehr genau, was er alles gesagt hat, aber er konnte es kaum erwarten zu gehen. Ich hätte ihn nicht gehen lassen sollen. Er ist schon zwei Wochen länger weg als geplant. Ich mach mir wirklich Sorgen.}
 {341}{}{Ich würde gern helfen. Ich könnte nach ihm suchen.}
 {342}{}{Das tut mir leid. Kann ich noch eine Frage stellen?}
-{343}{}{That's too bad, Mrs. Buckner. Maybe he just ran out on you. I think I know why he would, too.
- Goodbye.}
+{343}{}{Pech, Mrs. Buckner. Vielleicht ist er einfach davongelaufen. Würd ich an seiner Stelle auch. Tschüß. }
 {350}{}{Oh, vielen Dank. Ich werde auf der Karte markieren, wo er suchen wollte. Ich hoffe wirklich, daß du ihn findest. Er ist niemand besonderes, aber ich liebe ihn immer noch und vermisse ihn mehr, als ich es für möglich gehalten hätte. Bitte finde ihn.}
 {351}{}{Ich werde tun, was ich kann. Ich habe allerdings noch eine Frage.}
-{352}{}{I'll do my best, Mrs. Buckner. Goodbye.}
+{352}{}{Ich werde mein Möglichstes tun, Mrs. Buckner. Wiedersehn.}
 {353}{}{Ich glaube nicht, daß ich dir jetzt helfen kann. Wiedersehn.}
 {360}{}{Hast du meinen Smiley gefunden?}
 {361}{}{Tut mir leid, Mrs. Buckner. Ich suche immer noch nach ihm. Ich würde allerdings zuerst gerne noch was fragen.}

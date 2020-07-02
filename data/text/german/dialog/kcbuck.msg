@@ -22,7 +22,7 @@
 {166}{}{(Schaut dich an und schüttelt den Kopf)}
 {167}{}{(Macht ein subtile unhöfliche Geste)}
 {168}{}{Du bist wahrscheinlich für die Verstümmlungen der Brahmin verantwortlich.}
-{169}{}{Some of our trappers' is gone missing an' you're prob'ly why.}
+{169}{}{Einige unserer Fallensteller sind verschwunden; wahrscheinlich bist du dafür verantwortlich.}
 {170}{}{In der Stadt treiben sich Wanzenmänner rum.}
 {171}{}{Es gibt einen Geist in einem Canyon östlich der Stadt.}
 {172}{}{Laß dich nicht vom Wandelnden Geist erwischen!}
@@ -38,7 +38,7 @@
 {208}{}{Wetter wird wohl bald umschlagen.}
 {209}{}{Ich habe eine gute Stelle für Fallen südlich von hier gefunden.}
 {210}{}{Wenn du clever bist, hältst du dich von den Duntons fern.}
-{211}{}{If you're anxious, try the Bathhouse.}
+{211}{}{Wenn du verspannt bist, probier das Badehaus aus.}
 {212}{}{Geh nach Westen, in die Trapperstadt, wenn du einen Platz suchst, wo du pennen kannst.}
 {213}{}{Willkommen, Freund.}
 {214}{}{Ich hoffe, dir gefällt unsere Stadt.}

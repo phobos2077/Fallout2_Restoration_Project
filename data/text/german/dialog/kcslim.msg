@@ -79,9 +79,7 @@
 {291}{}{Erzähl mir mehr.}
 {300}{}{Ein wirklich guter Fallensteller, Smiley, ist nach Norden gegangen, um herauszufinden, wo sie herkommen. Er war davon überzeugt, daß alle von einem Ort kommen. Tja und jetzt hat man schon seit einigen Monaten nichts mehr von ihm gehört.}
 {301}{}{Was glaubst du, ist ihm passiert?}
-{310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
- thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
- Buckner runs Buckner house, y'know.}
+{310}{}{Vielleicht hat er herausgefunden, wo sie herkommen und wurde ganz gefressen. (Heh, hee, hee) Aber eins kann ich dir sagen: Mrs. Buckners Herz ist gebrochen, als er nicht zurückkam. Er war nämlich ihr Geliebter. Mrs. Buckner ist die Inhaberin vom Buckner-Haus, weisste. }
 {311}{}{Interessant. Erzähl mir was andres.}
 {312}{}{Das ist alles, was ich im Moment wissen muß. Wiedersehn.}
 {320}{}{Wir haben einen ganzen Platz voller Autos. Sie warten alle drauf, daß ihre Besitzer vom Einkaufen zurückkommen. Bloß - sie sind nie aufgetaucht. Nicht ein einziger von ihnen. Im Nordwesten der Stadt steht ein richtiges Prachtexemplar von Chrysalis Motors Highwayman, ich hab aber bis jetzt noch nicht rausgefunden, wie man da hin kommt.}

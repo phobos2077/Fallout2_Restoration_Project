@@ -30,10 +30,10 @@
 {177}{}{Nein, Danke.}
 {178}{}{Du hast nicht genug Geld! Wir sind doch kein Wohltätigkeitsverein!}
 {179}{}{Oh, tut mir leid. Ich bin knapp bei Kasse.}
-{180}{}{I'll come back.}
+{180}{}{Ich komm zurück.}
 {181}{}{Was willst du?}
 {182}{}{Whiskey.}
-{183}{}{Nothing. I'm leaving.}
+{183}{}{Nichts, ich muß weiter.}
 {184}{}{Wiiie schaadeee!}
 {185}{}{Und bleib bloß draußen!}
 {186}{}{[Ausgang]}
@@ -72,7 +72,7 @@
 {217}{}{Was meinst du damit?}
 {218}{}{Kauf den Alkohol bei ihr. Er ist billiger als der aus New Reno und du kannst mehr Geld
  damit machen.}
-{219}{}{I don't want to do this.}
+{219}{}{Ich will das nicht tun!}
 {220}{}{Macht nichts.}
 {221}{}{Paß auf, ich möcht nur, daß ihr Destillator zerstört wird. Machst du das?}
 {222}{}{In Ordnung, ich mach's.}

@@ -32,7 +32,7 @@
 {410}{}{Ich schau mir mal einen anderen Anschlag an.}
 {420}{}{Mehr muß ich im Augenblick nicht wissen.}
 {430}{}{Du siehst ein Stück Holz, auf dem Papierfetzen befestigt sind. Bis auf eins haben sie alle diese verflixten wanzenähnlichen Zeichen drauf. Puh! Junge, bist du müde. Vielleicht solltest du was suchen, das dich weniger anstrengt. }
-{440}{}{Torr. (Look at the one notice that makes any sense.)}
+{440}{}{Torr. (Sieh dir die eine Anzeige an, die Sinn macht)}
 {450}{}{Uck}
 {460}{}{Eine primitive Zeichnung - soll wahrscheinlich ein Brahmin sein, mit einem großen 'X' drüber und dem Wort 'Torr' darunter gekritzelt (nicht gerade Lascaux, aber die Bedeutung ist ziemlich klar).}
 {470}{}{Eruu. (Tja, offensichtlich braucht eine arme Seele namens Torr irgendwie Hilfe mit seinen Brahmin.)}

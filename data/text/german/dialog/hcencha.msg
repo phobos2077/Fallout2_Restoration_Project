@@ -13,8 +13,8 @@
 {110}{}{Nein, danke.}
 {111}{}{Wenn du Arbeit suchst, solltest du mal mit Bill reden, er ist da drin. DRINNEN. Er
  versteht dich vielleicht. Viel Glück!}
-{112}{}{Duhhhh...}
-{113}{}{That'd be }
+{112}{}{Verdammt...}
+{113}{}{Das macht dann }
 {114}{}{Ja.}
 {115}{}{Nein.}
 {116}{}{Du hast Fragen, und ich hab vielleicht Antworten dazu. Was willste wissen?}
@@ -57,7 +57,7 @@
 {142}{}{Bist du bereit?}
 {143}{}{Danke. Hier sind deine $500. Wenn du einen neuen Job brauchst, geh zu Bill.}
 {144}{}{Du kranker Typ! Du mußt jetzt sterben!}
-{145}{}{Umm...}
+{145}{}{Mmmm...}
 {150}{}{, der Karawanenwächter.}
 {151}{}{. Ich bin Wächter bei Bills Karawanen. Sonst noch was?}
 {152}{}{.}

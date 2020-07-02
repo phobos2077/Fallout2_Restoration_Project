@@ -151,7 +151,7 @@
 {249}{}{Erzählen NCR.}
 {250}{}{Ich andere Frage.}
 {251}{}{Bitte erzähl mir von der NCR.}
-{252}{}{Ich möcht dich noch was andres fragen.}
+{252}{}{Ich möcht dich noch was anderes fragen.}
 {253}{tand32}{Davon könnte ich ewig reden, aber leider habe ich keine Zeit dazu. Hier ist eine Holodisk über die NCR. Wir stellen sie her, um unsere frohe Botschaft zu verbreiten.}
 {254}{}{Äh, danke.}
 {255}{tand33}{Sie sind also endlich vernünftig geworden. Ich kann den Kongreß dazu bringen, Vorräte und Techniker zu entsenden. Bist du sicher, daß wir in die Vault können?}

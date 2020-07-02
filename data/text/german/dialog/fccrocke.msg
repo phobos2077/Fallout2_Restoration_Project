@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen relativ jungen Wissenschaftler, dessen Haar sich bereits lichtet. Er sieht aus, als w‰re er ganz auf seine Arbeit konzentriert.}
-{101}{}{You see Crockett, the Hubologist scientist.}
+{101}{}{Du siehst Crocket, den Hubologen-Wissenschaftler.}
 {102}{}{Du siehst einen relativ jungen Wissenschaftler, dessen Haar sich bereits lichtet. Er wirkt wie ein schlampiger Wirrkopf.}
 {103}{}{Ja? Was willste'n?}
 {104}{}{Agg. Um. Duur.}
@@ -15,7 +15,7 @@
 {114}{}{Ich kann daf¸r bezahlen.}
 {115}{}{Ich laﬂ dich leben.}
 {116}{}{Nichts, vergiﬂ es.}
-{117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
+{117}{}{Ich bin Crocket. Ich bin Wissenschaftler und Reparaturgenie. Kann ich damit weitermachen?}
 {118}{}{Nein. Ich habe noch Fragen.}
 {119}{}{Ja, sicher.}
 {120}{}{Ich entwickle neue Technologien und ich habe ganz gut Spaﬂ mit den Kultlerinnen, wenn du verstehst, was ich meine!?}

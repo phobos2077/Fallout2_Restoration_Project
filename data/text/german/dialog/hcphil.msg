@@ -35,12 +35,12 @@
 {148}{}{. Wenn du mal wieder einen Drink willst, komm einfach vorbei, OK? }
 {149}{}{Otay!}
 {150}{}{! Willst du was trinken?}
-{151}{}{Grink 'es!}
+{151}{}{Grinken, ja!}
 {152}{}{Grinken nein!}
 {153}{}{Hi, Loo! Willkommen. Hab deinen Platz extra für dich warmgehalten.}
 {154}{}{Anke!}
-{155}{}{That'll be $2.}
-{156}{}{That'll be $4.}
+{155}{}{Das macht dann $2.}
+{156}{}{Das macht dann $4}
 {157}{}{Das macht $5.}
 {158}{}{Bitte schön.}
 {159}{}{[Gib Phil $1 Trinkgeld] Hier, Phil.}

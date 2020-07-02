@@ -102,7 +102,7 @@
 {202}{}{ schafft es nicht, die Falle zu entschärfen.}
 {203}{}{Der Behälter scheint verschlossen zu sein.}
 {204}{}{Du bemerkst eine Falle an der Ecke.}
-{205}{}{ notices a trap on the container jamb.}
+{205}{}{ bemerkt eine Falle an der Ecke.}
 {206}{}{Du kannst keine Falle an dem Behälter anbringen, weil der Behälter offen ist.}
 {207}{}{ kann keine Falle an dem Behälter anbringen, weil der Behälter offen ist.}
 {208}{}{Du bringst geschickt eine Falle an der Ecke an.}

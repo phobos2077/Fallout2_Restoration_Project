@@ -80,7 +80,7 @@
 {179}{}{Botanikprogramm.}
 {180}{}{Xeno-Programm.}
 {181}{}{Zurück.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{"Das Versuchsobjekt, an dem wir eine Reihe von bedeutenden Experimenten durchführen wollten, ist verschwunden, wahrscheinlich zerstört oder von den Hubologen gestohlen. Alle weiteren Nachforschungen verliefen ergebnislos. Diese Datenbank wird bis zum Erhalt weiterer Exemplare gesperrt bleiben." - Dr. Sheng}
 {183}{}{Botanikprogramm.}
 {184}{}{Genetikprogramm}
 {185}{}{Zurück.}
@@ -88,7 +88,7 @@
 {187}{}{Benzin und Derivate}
 {188}{}{Polymere}
 {189}{}{Zurück.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, daß die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend  haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
 {191}{}{(Du entdeckst eine unglaubliche Masse komplexer chemischer Formeln und Laboraufzeichnungen. Du weißt nicht genau, was das alles zu bedeuten hat.}
 {192}{}{Leite Benzin zum Poseidon-Tanker.}
 {193}{}{Leite Benzin zu Hubologen.}
@@ -100,8 +100,8 @@
 {199}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
 {200}{}{[Erledigt]}
 {201}{}{Physikdatenbank: Forschung - Theorie}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Erkundung.}
+{203}{}{Theorie.}
 {204}{}{Zurück.}
 {205}{}{"Durch die vor kurzem erworbenen Vertibird-Pläne sind wir der Möglichkeit, eine in der Praxis anwendbare Flugmaschine zu bauen, einen Quantensprung näher gekommen. Wir hoffen, bis zum Jahresende einen flugfähigen Prototypen fertigzustellen und innerhalb der nächsten zwei Jahre mit der Massenproduktion starten zu können." - Dr. Wong}
 {206}{}{[Kopiere Pläne] Zurück.}

@@ -16,7 +16,7 @@
 {240}{}{Reicht dir das, Kumpel?}
 {241}{}{Eigentlich würd ich gern noch mal einen Blick auf deine Ware werfen.}
 {242}{}{Eigentlich würd ich dich gern etwas fragen.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{Das reicht. Also Flick, bis dann.}
 {260}{}{Ich hab für Leute zu sorgen, was hast du denn gedacht? Daß ich ein guter Samurai bin?}
 {261}{}{Sag, was ist?}
 {262}{}{Ja, äh, nun... ich möcht dich noch was anderes fragen.}

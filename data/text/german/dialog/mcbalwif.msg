@@ -1,5 +1,5 @@
 {100}{}{Schluchz-}
-{101}{}{Jonny...}
+{101}{}{Jonny…}
 {102}{}{Schnief...}
 {103}{}{Ich vermisse meinen Sohn.}
 {110}{}{Bitte finde Jonny.}

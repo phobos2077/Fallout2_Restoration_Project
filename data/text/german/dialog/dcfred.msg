@@ -34,7 +34,7 @@
 {263}{}{Ich werd schon ganz bald das große Geld machen!}
 {264}{}{Zu dir werd ich als erstes gehen, wenn ich gewonnen habe.}
 {275}{}{Der Superplan wird ausgeführt!}
-{276}{}{Thanks for the loan! Your money's in good hands!}
+{276}{}{Danke für das Darlehen! Dein Geld ist in guten Händen.}
 {277}{}{An den Tischen geht es rauh zu, aber mach dir keine Sorgen.}
 {278}{}{Eines Tages mach ich den großen Gewinn, dank dir.}
 {279}{}{Es kann jeden Tag passieren, ich fühl es.}

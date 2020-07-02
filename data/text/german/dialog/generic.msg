@@ -40,7 +40,7 @@
 {920}{}{Du stolperst über die Überreste von Nagor, der starb, als er versuchte, seinen Hund zu retten.}
 {921}{}{Nagor starb, als er versuchte, die Leiche seines Hundes zurück ins Dorf zu schleppen.}
 {930}{}{Heuuuuul!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Du nimmst dir ein wenig Zeit, um ein paar Bewegungen zu üben. Deine Fähigkeiten für den unbewaffneten Kampf nehmen zu.}
 {951}{}{Die kämpfende Maulwurfsratte bekommt ihren Todesstoß versetzt.}
 {952}{}{Der Kampf ist vorbei.}
 {1000}{}{Du hast den Bürgerschaftstest bestanden}
@@ -253,8 +253,8 @@
 {10013}{}{Ich möchte wissen, mit was für Waffen du umgehen kannst.}
 {10100}{}{Dann lass uns mal Tyler kalt stellen.}
 {20000}{}{Nichts passiert.}
-{20100}{}{There is no lock on this door.}
+{20100}{}{Es ist kein Schloss an der Tür.}
 {21020}{}{zwanzig}
-{30000}{}{You have stolen from your own tribe.}
+{30000}{}{Du hast deinen eigenen Stamm bestohlen.}
 {40000}{}{Slot Jinxer}
 {40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}

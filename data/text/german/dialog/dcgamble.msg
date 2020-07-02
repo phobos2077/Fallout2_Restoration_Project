@@ -86,4 +86,4 @@
 {601}{}{Warum hast du das getan?}
 {602}{}{Verschwinde!}
 {603}{}{Hör auf, ich bin empfindlich.}
-{604}{}{I wouldn't do that to you.}
+{604}{}{Das würd ich dir doch nicht antun.}

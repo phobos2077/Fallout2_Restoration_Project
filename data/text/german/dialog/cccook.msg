@@ -22,7 +22,7 @@
 {120}{}{Was geht hier vor?}
 {121}{}{Ich interessiere mich für die Vertibirds. Wenn ich mir die Pläne ansehen wollte, wo finde
  ich die denn?}
-{123}{}{Where's the Enclave main base located?}
+{123}{}{Wo liegt die Enklave-Hauptbasis?}
 {124}{}{Danke. Ich muß zurück zu meinem Dienstposten.}
 {125}{}{Magste 'n bißchen Tratsch hören? Ich kann dir die letzten Neuigkeiten aus der Wartung,
  dem Labor oder von den Füchsen liefern.}
@@ -47,7 +47,7 @@
  keine Ahnung was. Auf jeden Fall gab's viel Lärm, bis der Kommandant das Zimmer schallisolieren
  ließ.}
 {141}{}{Kapiert.}
-{142}{}{That's interesting. }
+{142}{}{Das ist ja interessant.}
 {143}{}{Ha! Da wird's romantisch, mein Freund. Scheint als ob einer der Computerfreaks sich in
  eine Füchsin verguckt hat, die Wache vor der Praxis. Hat sogar 'nen Kosenamen für sie. Nennt sie
  ausgerechnet Snookie.}
@@ -60,7 +60,7 @@
 {148}{}{OK.}
 {149}{}{Wo das?}
 {150}{}{Verstehe.}
-{151}{}{Where's that?}
+{151}{}{Wo das?}
 {152}{}{Nordöstliche Ecke der Basis, mein Freund. Kannst es nicht verfehlen.}
 {153}{}{OK. Danke.}
 {156}{}{Komisch, daß du das nicht weißt, bist wohl hier aus der Gegend. Die Hauptbasis ist mitten
@@ -92,7 +92,7 @@
  schön für dich. Jetzt beweg deinen Hintern zum Nachschub und laß dich ausrüsten.}
 {174}{}{Wo das?}
 {175}{}{OK.}
-{176}{}{Where's that?}
+{176}{}{Wo das?}
 {177}{}{Ich kümmer mich darum.}
 {178}{}{Nimm den Aufzug im nächsten Raum nach unten, den Flur entlang bis zur Hauptkreuzung, dann
  links und die erste Tür links. Auf geht's. }

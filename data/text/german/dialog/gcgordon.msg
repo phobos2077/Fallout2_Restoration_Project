@@ -89,8 +89,7 @@
 {301}{}{Ich kann mir nicht vorstellen, daß sie in Vault City besonders an Informationen von
  Ghuls interessiert sind.}
 {302}{}{Nein, hab ich noch nicht... aber ich werd's tun. Tschüß.}
-{303}{}{Die Lieferung dieser Daten an Vault City ist nur einer der vielen Schritte, die du unternehmen musst.
-Unser Atomkraftwerk ist immer noch kaum betriebsfähig und muss repariert werden.}
+{303}{}{Die Lieferung dieser Daten an Vault City ist nur einer der vielen Schritte, die du unternehmen musst. Unser Atomkraftwerk ist immer noch kaum betriebsfähig und muss repariert werden.}
 {304}{}{Ich werd mich gleich drum kümmern. Bis dann.}
 {305}{}{Vielleicht ein andermal.}
 {310}{}{Danke, daß du unser Atomkraftwerk repariert hast. Der nächste Schritt auf dem Plan des

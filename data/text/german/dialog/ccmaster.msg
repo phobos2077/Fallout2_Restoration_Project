@@ -18,11 +18,11 @@
 {114}{}{Nein.}
 {115}{}{Wer bist du? Was machst du hier?}
 {116}{}{Was?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Äh... Ich neu hier.}
 {118}{}{Kuckkuck!}
 {119}{}{Wer bist du? Was machst du hier?}
 {120}{}{Was?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Äh... Ich neu hier.}
 {122}{}{Kuckkuck!}
 {123}{}{Was meinst Du? Dieser Anzug funktioniert bestens! Unterschreibst Du jetzt die Papiere oder nicht?}
 {124}{}{Ich verstehe kein einziges Wort hiervon.}

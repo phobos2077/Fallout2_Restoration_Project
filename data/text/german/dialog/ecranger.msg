@@ -25,7 +25,7 @@
 {121}{}{Dumm gelaufen für dich. Wir sind NCR-Ranger. Schon mal von uns gehört? Wir töten
  Sklavenhändler.}
 {122}{}{Du bist ein verlogenes Stück Dreck. Los, drauf!}
-{123}{}{Greetings, stranger. We're NCR Rangers. Who be you?}
+{123}{}{Sei gegrüßt, Fremdling. Wir sind NCR-Ranger. Und du?}
 {124}{}{Geht dich nix an.}
 {125}{}{Ah, den Namen hab ich schon mal gehört. Du bist ein Ranger, oder?}
 {126}{}{Ja.}

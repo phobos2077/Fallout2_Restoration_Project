@@ -9,7 +9,7 @@
 {108}{}{Was kannst du mir über diesen Ort hier sagen?}
 {109}{}{Was weißt du über Marcus?}
 {110}{}{Ich hab keine Ahnung, was du Idiot mir sagen willst. Geh mir bloß aus den Augen.}
-{111}{}{Oooooh...}
+{111}{}{Oooooh…}
 {112}{}{I heiße Franc. Ich würde dich ja auch nach deinem Namen fragen, wenn er mir nicht total egal wäre.}
 {113}{}{Ach, ein harter Typ, ja?}
 {114}{}{Macht nichts. Mir ist auch egal, wer du bist.}

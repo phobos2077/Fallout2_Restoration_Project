@@ -30,8 +30,7 @@
 {190}{}{Hör auf zu reden, du machst es für uns beide kaputt. Lehn dich zurück und genieß.}
 {191}{}{Das muß ein Irrtum sein, ich wollte dir nur ein paar Fragen stellen.}
 {192}{}{Danke für das Angebot, aber nein. Ähhh ... Ich geh jetzt.}
-{193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
- imagination.]}
+{193}{}{Oh Gott! Nimm mich! Nimm mich jetzt! [Er reisst sich die Kleider vom Leib, dann dir... dann ... Lass deine Phantasie spielen]}
 {194}{}{[Er kichert] Ich lieg oben! Du darfst das nächste Mal.}
 {195}{}{[Zwei Stunden später. Es war unglaublich. Dieses Bett wird nie wieder das selbe sein.]}
 {196}{}{[Eine Stunde und den besten je erlebten Orgasmus später.]}

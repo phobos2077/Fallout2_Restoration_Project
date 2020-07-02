@@ -12,7 +12,7 @@
 {124}{}{Wenn eurer Haut dieser "besondere Glanz" fehlt...}
 {125}{}{Wählt Gamma-Gulp-Bier!}
 {143}{}{...das Cat's Paw!}
-{144}{}{When you got that itch that you NEED to scratch...}
+{144}{}{Wenn da dieses Bedürfnis ist, das UNBEDINGT befriedigt werden muss…}
 {145}{}{Dann auf zum Cat's Paw!}
 {163}{}{...New-Reno-Waffen!}
 {164}{}{Wenn ihr jemanden aus sicherer Entfernung umbringen müßt...}

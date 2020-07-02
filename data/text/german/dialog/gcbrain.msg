@@ -6,8 +6,7 @@
 {121}{}{Ich hab keine Zeit für deine Kindereien. Ich plane die Übernahme der Weltherrschaft. Also verzieh dich.}
 {122}{}{Stör mich nicht. Das ist die letzte Warnung.}
 {123}{}{Das war's. Zomak! Töte ihn für mich!}
-{130}{}{Renewal is at hand. But it won't get any closer unless you get moving on repairing our Atomic
- Reactor. (to himself) Humans... they're so disappointing.}
+{130}{}{Die Erneuerung ist zum Greifen nah. Doch sie wird nicht näher kommen, wenn du dich nicht daran machst, unseren Atomreaktor zu reparieren. (Zu sich selbst) Menschen!... Sie rauben einem wirklich jegliche Illusion.}
 {131}{}{Den Atomreaktor reparieren?}
 {132}{}{Tja, also. Ich geh dann mal. Wiedersehn.}
 {140}{}{Ich rieche einen meiner Talismane an dir. Ich kann mich aber nicht erinnern, dir einen gegeben zu haben.}
@@ -51,7 +50,7 @@
 {230}{}{Der erste Schritt war schon mal die Reparatur des Reaktors. Damit Gecko und Vault City überleben können, muß aber noch was getan werden.}
 {231}{}{Noch ein Schritt?}
 {232}{}{Bist du plötzlich der besorgte Bürger?}
-{233}{}{I think I've heard more than enough. Goodbye.}
+{233}{}{Ich denke ich hab genug gehört. Tschüß.}
 {234}{}{Wie kommt es, daß eine sprechende Riesenratte sich so sehr für all das interessiert?}
 {240}{}{Gute Arbeit. Vault City und Gecko können sich freuen. Jetzt, wo der Reaktor einwandfrei läuft, bin ich nicht mehr weit von der Weltherrschaft entfernt. Du kannst jetzt gehn. Ich hab zu tun.}
 {241}{}{Für dich hab ich's bestimmt nicht gemacht. Tschüß.}
@@ -62,7 +61,7 @@
 {260}{}{Besorgter Bürger? Irgendwie schon. Wenn ich die Weltherrschaft übernehme, muß ich sichergehen, daß es sich wirklich lohnt. Ich muß mit Gecko und Vault City eine starke Bastion errichten.}
 {261}{}{Oh Gott, eine Ratte, die die Weltherrschaft anstrebt?}
 {270}{}{Mag ja sein, daß du Zweifel hast, ob ein Nagetier die Welt beherrschen sollte, aber von meinen Plänen könnten Tausende von Bürgern in Vault City und Gecko profitieren. Meine Motive können dir ja egal sein, aber die Ergebnisse sind's wert, sich anzustrengen.}
-{271}{}{Why don't you tell me about this last step, and I'll think about helping.}
+{271}{}{Erzähl mir doch einfach, was dieser letzte Schritt ist, und ich denk drüber nach, ob ich helfe.}
 {272}{}{Mir wird ganz schlecht, wenn ich mir überlege, daß ich dir schon geholfen hab. Ich verschwinde. Tschüß.}
 {280}{}{Sie werden dich lassen, wenn du ihnen zeigst, was für sie dabei rausspringt. Wir haben einen Wirtschaftsbericht, der beweist, daß Vault City unmittelbar davon profitiert, wenn wir das Atomkraftwerk in Gecko verbessern. Ich werde unsere Kameraden hier in Gecko in deine Mission einweihen.}
 {281}{}{Sie werden dir den Hydroelektrischen Magnetosphären- Regulator geben, wenn du beweisen kannst, daß Vault City davon profitiert. Ich hab einen Wirtschaftsbericht vorbe- reitet, aus dem hervorgeht, wie gut es für Vault City ist, wenn wir unser Kraftwerk reparieren. Ich werde unsere Kameraden hier in Gecko in deine Mission einweihen.}
@@ -116,8 +115,7 @@
 {443}{}{(Krach, mampf, krach) Mmmm, ich liebe Käse-Chips, sie sind so, äh, käsig.}
 {444}{}{Äh...}
 {450}{}{Wie du wünschst. Zomak! Töte diesen Idioten. Aber paß auf die Käse-Chips auf!}
-{460}{}{You have to use the Reactor Data disk on Vault City's Central Computer. You can either sneak
- in and use it or, if you have the Economic Data disk, you can go to McClure.}
+{460}{}{Du mußt die Disk mit den Reaktordaten auf dem Zentralcomputer von Vault City laufen lassen. Entweder du schleichst dich rein und benutzt ihn einfach oder, falls du die Disk mit den Wirtschaftsdaten hast, geh zu McClure.}
 {461}{}{Disk mit den Wirtschaftsdaten?}
 {462}{}{Oh, okay.}
 {463}{}{Bring die analysierte Disk mit den Reaktordaten einfach zu Festus. Er wird die Daten eingeben, die du brauchst, um die Reaktorleistung zu verbessern.}

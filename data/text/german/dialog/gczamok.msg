@@ -32,7 +32,7 @@
 {210}{}{Uhk? Was meinst du damit? Bist du doof?}
 {211}{}{Guhp?}
 {220}{}{Verschwinde hier. Das Hirn hat für Leute wie dich keine Zeit.}
-{221}{}{OK. I'll be going now.}
+{221}{}{OK, ich geh jetzt.}
 {230}{}{There’s nothing else down here but The Brain’s lair. Boy, are you dumb.}
 {231}{}{Das Hirn?}
 {232}{}{Das war ein Test. Du hast ihn bestanden. Jetzt laß mich rein.}

@@ -204,6 +204,6 @@
 {1251}{}{. Ich habe ein paar Fragen über New Reno...}
 {1415}{}{(Zuckt zusammen) Du meine Güte! (Schielt dich an und schürzt dann mißbilligend die Lippen.) Na, sowas! }
 {1430}{}{(Zuckt zusammen) Du meine Güte! }
-{1431}{}{(Squints at you, then her gaze becomes glacial.) }
+{1431}{}{(Schielt dich an, dann wird ihr Blick eisig.) }
 {1480}{}{Du willst sie zerstören? Ich...also, gut....(gerät immer mehr in Rage) }
 {1530}{}{. ich werde mich schon darum kümmern, daß die Familie Wright von jetzt an auf dem rechten und steinigen Pfad bleibt.}

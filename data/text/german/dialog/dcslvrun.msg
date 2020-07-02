@@ -7,7 +7,7 @@
 {130}{}{Du siehst einen zerlumpt wirkenden Mann.}
 {131}{}{Dieser sieht ziemlich kräftig aus. }
 {140}{}{Du siehst einen Mann in zerfetzter Kleidung.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Seine Bewegungen deuten auf Schnelligkeit hin.}
 {150}{}{Du siehst eine sehr finstere Frau.}
 {151}{}{Sie sieht aus, als hätte sie noch nie gebadet.}
 {160}{}{Du siehst eine eher große Frau.}

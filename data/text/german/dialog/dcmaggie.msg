@@ -6,7 +6,7 @@
 {153}{}{Hello, stranger, and welcome to my saloon. I’m Becky.}
 {154}{}{Hello, I am }
 {155}{}{. What’s there to do around here?}
-{156}{}{Hi, I'm }
+{156}{}{Hi. Ich bin }
 {157}{}{. Can I ask some questions?}
 {158}{}{Mom?}
 {159}{}{Mag gah.}

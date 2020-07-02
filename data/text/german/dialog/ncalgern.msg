@@ -61,5 +61,5 @@
 {291}{}{Willst du einen Schluck von dem Flammenwerferbenzin hier?}
 {292}{}{Hier hast du ein bißchen Benzin für den Flammenwerfer. Kannst du damit was anfangen?}
 {301}{}{Gib ihm deinen Elektroschock-Stab. Paß auf, daß er ihn am Griff anfaßt.}
-{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
+{302}{}{Deine Powerfaust "Bigger Frigger" von der Beat Co.}
 {400}{}{Ich Al töten. Besser weg hier.}

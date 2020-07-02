@@ -47,7 +47,7 @@
 {232}{}{Ich helfe gern. Aber erzähl mir zuerst, was es Neues in der Stadt gibt.}
 {240}{}{Du bist wirklich ein harter Geschäftsmann. OK, ich geb dir $65. Machst du es?}
 {241}{}{Guter Versuch, aber mehr als $50 ist es mir nicht wert. Hey, ich kann es mir nicht leisten, mehr zu zahlen. }
-{242}{}{OK, I'll do it.}
+{242}{}{OK, ich mach's.}
 {243}{}{Für das bißchen Geld möchte ich das nicht machen. Meine Zeit ist mehr wert.}
 {250}{}{Hallo, mein Freund. Zurück, um dich wieder mit Whiskey Bob zu treffen, hm? Bist du bereit, über Drinks und Geschäfte und so zu reden?}
 {251}{}{Hey, Mädel, möchtest du mit Whiskey Bob wieder über Drinks und Geschäfte und so reden? Ich laß dich auf meinem Schoß sitzen! (Heh, heh) War nur ein Witz.}

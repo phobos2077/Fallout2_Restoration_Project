@@ -28,7 +28,7 @@
 {154}{}{Mehr brauche ich wohl nicht zu wissen. Wiedersehen.}
 {160}{}{Ja, i-ich helf H-harold meistens. W-wenn L-leute verletzt w-werden, h-helf ich ihnen.}
 {161}{}{Wobei hilfst du Harold?}
-{162}{}{Ich möcht dich noch was andres fragen.}
+{162}{}{Ich möcht dich noch was anderes fragen.}
 {163}{}{Du kannst Leute heilen?}
 {164}{}{Ich bin verletzt. Kannst du mir helfen?}
 {165}{}{Einer meiner Freunde ist verletzt. Kannst du ihm helfen?}

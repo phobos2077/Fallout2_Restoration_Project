@@ -1,8 +1,8 @@
 {100}{}{Ein Verkäufer.}
 {101}{}{Frank.}
 {102}{}{Ein aalglatter Vertreter.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{103}{}{Sei gegrüßt, Freund, ich heiße Willy und hab ein Superangebot für dich. [Er liest
+ scheinbar von einer Karte ab, nach einer Weile döst du ein.]}
 {104}{}{Zzzzzzz...}
 {105}{}{[Du machst ganz erschöpft die Augen auf, als du merkst, daß dich jemand tritt.] Hast du
  nun Interesse oder nicht?}

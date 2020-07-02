@@ -23,7 +23,7 @@
 {122}{}{Wir verkaufen unsere Ausgrabungen an die anderen Städte im Umkreis. Sie können damit etwas anfangen. Wenn du etwas verkaufen möchtest, kannst du dich an die ganzen Kaufleute der Stadt wenden. Jetzt muß ich aber wieder an die Arbeit. Sei vorsichtig und benimm dich, ja?}
 {123}{}{Oh-kay! Tschüüüüß!}
 {124}{}{Jetzt muß ich aber wieder an die Arbeit. Sei vorsichtig und benimm dich, ja?}
-{125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
+{125}{}{Schon wieder du? Na, du weißt ja, was du zu tun hast - schön vorsichtig sein. Also dann!}
 {126}{}{Oh-kay! Tschüüüüß!}
 {127}{}{Steck deine Waffen weg. So lange du mir die ins Gesicht hältst, kriegst du von mir gar keine Antworten.}
 {128}{}{Wir wohnen hier in einer kleinen Bergarbeiterstadt. Vor ein paar Jahrzehnten wurde die Stadt von unserem Sheriff Marcus und einem Mann namens Jacob gegründet. Die beiden haben den Ort ausgewählt, weil es hier Uranvorkommen gibt. Möchtest du sonst noch etwas wissen?}
@@ -43,7 +43,7 @@
 {142}{}{Abgesehen davon, daß die Mutanten tot sind und unsere einzige Einkommensquelle zerstört ist...}
 {143}{}{Abgesehen davon, daß du ein Held bist, weil du uns die Korruption in unserer Mitte vor Augen geführt hast...}
 {144}{}{Abgesehen davon, daß wir seit der Flucht von Franc und Manson gemerkt haben, daß sich ein Krebsgeschwür unter uns befindet ...}
-{145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
+{145}{}{Abgesehen von Chads Betrug an der Stadt und deiner Gerechtigkeit - für die wir alle sehr dankbar sind -- }
 {146}{}{Eigentlich nicht viel.}
 {147}{}{Ich habe noch weitere Fragen.}
 {148}{}{Tschüß.}
@@ -57,9 +57,7 @@
 {156}{}{Wer wohnt hier alles?}
 {157}{}{Was für Dienstleistungen bietet die Stadt?}
 {158}{}{Nein, danke.}
-{159}{}{We make our living by refining the ore we dig from the hills, and selling it to nearby
- communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
- own power. More?}
+{159}{}{Wir leben von der Veredelung des Erzes, das wir in den Bergen abbauen und an die umliegenden Städte wie Bunkerstadt, Gecko und die Neue Kalifornische Republik verkaufen. Ein wenig verwenden wir auch für die Stromversorgung der Stadt. Weiter?}
 {160}{}{Ja.}
 {161}{}{Nein.}
 {162}{}{Alle sind gleich. Wir sind alle aus Menschen entstanden, im Inneren sind wir alle gleich. Es wäre dumm zu behaupten, daß jemand nur wegen seines Aussehens grausam ist.}
@@ -75,8 +73,7 @@
 {172}{}{Tatsächlich? Ich hätte gedacht, daß die meisten inzwischen gestorben sind.}
 {173}{}{Ein Mutant als Sheriff also. Ich wette, daß die meisten Bürger hier ganz schön gesetzestreu sind. Das läuft sicher ganz gut.}
 {174}{}{Tschüß.}
-{175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
- to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
+{175}{}{Tja, und jetzt halten wir uns hier über Wasser, gestalten unsere eigene Version von Zivilisation und versuchen alles, damit wir uns nicht Bunkerstadt oder der RNK unterwerfen müssen. Deren Regierungstil gefällt uns nämlich nicht. Das ist alles.}
 {176}{}{OK. Ich habe noch mehr Fragen.}
 {177}{}{Danke. Tschüß.}
 {178}{}{Wenn du weiterhin glauben willst, daß du den Charakter einer Person an ihrem Äußeren festmachen kannst, dann bist du tatsächlich ein Ignorant.}
@@ -85,17 +82,14 @@
 {181}{}{Egal, das war sowieso schon alles, was ich sagen wollte. Willkommen in Broken Hills.}
 {182}{}{Warten.}
 {183}{}{Tschüß.}
-{184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
- forever -- in fact, most of them are going senile now. Building a community isn't going to help them
- achieve their aims.}
+{184}{}{Wenn die Mutanten uns ans Leder wollten, dann hätten sie uns schon längst angegriffen. Die leben ja auch nicht ewig, die meisten von ihnen werden sogar allmählich senil. Die erreichen ihre Ziele auch nicht leichter, wenn sie eine Gemeinschaft aufbauen.}
 {185}{}{Da kannst du recht haben.}
 {186}{}{Aber grausam sind sie trotzdem.}
 {187}{}{Tschüß.}
 {188}{}{Meine Güte, je länger ich mit dir rede, desto blöder komme ich mir vor. Mit deiner Einstellung wirst du es in Broken Hills nicht leicht haben. Und jetzt mußt du mich entschuldigen, ich habe nämlich zu arbeiten.}
 {189}{}{Idiot.}
 {190}{}{Zeit zu sterben, Vollidiot.}
-{191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
- just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
+{191}{}{Wir haben hier eine Mine, eine Raffinerie, eine Taverne, ein Hotel - da gibt es übrigens im Moment keinen Besitzer, deswegen lassen wir die Leute umsonst da wohnen - ein Krankenhaus, einen Gemischtwarenladen und einen Alchemistenladen. Wir bauen unser Gemüse selbst an.}
 {192}{}{OK. Ich habe noch weitere Fragen.}
 {193}{}{Tschüß.}
 {194}{}{Tja, das trifft schon auf einige zu. Mutanten sind ja unfruchtbar... habe ich jedenfalls gehört, deswegen sterben sie aus. Die übrigen hier scheinen außerdem allmählich senil zu werden. Außer Marcus natürlich, der ist noch genauso fit wie sonst.}
@@ -107,8 +101,7 @@
 {200}{}{[Mehr]}
 {201}{}{Hör mal Freundchen, wir brauchen dich hier nicht. Du hast schon genug Schaden angerichtet.}
 {202}{}{[Erledigt]}
-{300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
- Jail. Sometimes he's in the tavern or at home, but he's usually working.}
+{300}{}{Normalerweise ist Marcus bei der Bank zu finden, die dient gleichzeitig auch als Sicherheitsgefängnis, oder im Gefängnis selbst. Manchmal ist er auch in der Taverne oder zu Hause, aber meistens arbeitet er.}
 {301}{}{Was'n Hammer!}
 {302}{}{Verdammt!}
 {303}{}{Hurra!}

@@ -43,8 +43,8 @@
 {150}{}{Du siehst so aus, als ob du dich im Wald auskennen würdest.}
 {151}{}{Geckos fangen ist gefährlich - aber man bekommt viel Geld dafür.}
 {152}{}{Ich hasse all die Ratten hier. Sie sind einfach zu clever für die Fallen!}
-{153}{}{Watch out for golden geckos; they're twice as tough as the ordinary ones.}
-{154}{}{You're from the Arroyo tribe, ain't you? Can tell by your looks.}
+{153}{}{Paß auf Goldene Geckos auf; die sind doppelt so gefährlich wie die normalen.}
+{154}{}{Du bist vom Arroyo-Stamm, oder? Das kann ich dir ansehen.}
 {155}{}{Manchmal glaub ich, daß ich eine richtig große Ratte hinten in den Gebäuden gesehn hab.}
 {156}{}{Es ist billig, hier zu leben, aber du mußt dich mit den Ratten abfinden.}
 {157}{}{(Kaut geräuschvoll) Ratten schmecken besser, als die meisten Leute denken. Haste Hunger?}

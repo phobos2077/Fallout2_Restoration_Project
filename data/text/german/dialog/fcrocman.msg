@@ -36,7 +36,8 @@
 {131}{}{Nichts. Tschüß.}
 {132}{}{Du willst wohl nicht kooperieren, hä? Wachen! Tötet den Eindringling!}
 {133}{}{Deine Wachen sind so gut wie tot.}
-{134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
+{134}{}{Geh einfach die Treppe runter und rede mit AHS-7 am Wachposten. Er wird dir sagen, wo
+ du hin mußt.}
 {135}{}{Danke. Tschüß.}
 {161}{}{. Ich schau mich nur so um.}
 {162}{}{. Ich schau mich nur so um.}
@@ -47,7 +48,7 @@
 {173}{}{Was tust du hier?}
 {174}{}{Ich habe eine Kopie der Pläne von den Shi.}
 {175}{}{Ich habe die Pläne für die Vertibirds.}
-{176}{}{The Shi have the plans for the vertibird.}
+{176}{}{Die Shi haben die Pläne für die Vertibirds.}
 {177}{}{Was kann ich für dich tun?}
 {178}{}{Vergiß es. Tschüß.}
 {179}{}{Ich bin Harry, AHS-5. Ich bin der für das Raumschiff zuständige Sternenbruder. Wir werden

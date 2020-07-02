@@ -6,7 +6,7 @@
 {151}{}{Wenn du den Laden hier leitest, wieso heiﬂt der dann ROSES Pension?}
 {152}{}{Ich suche nach einer goldenen Uhr.}
 {153}{}{Was machst du hier?}
-{154}{}{Who's Rose?}
+{154}{}{Wer ist Rose?}
 {155}{}{Ich h‰tte gerne ein Zimmer.}
 {156}{}{Fragen? Habe ich dich was gefragt? Hi, ich heiﬂe Cornelius.}
 {162}{}{Du brauchst wirklich Hilfe, Alter.}

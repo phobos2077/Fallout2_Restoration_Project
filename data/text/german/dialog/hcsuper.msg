@@ -32,8 +32,7 @@
 {131}{}{[Erledigt]}
 {132}{}{In Ordnung. Gib uns einen Tag und wir machen es für dich fertig.}
 {133}{}{Toll. Bis dann.}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
- should do it. You want it or not?}
+{134}{}{Viel Glück dabei, wenn du es woanders versuchen willst. Der Vorgang ist ziemlich gefährlich, das sollte nur ein Profi machen. Willst du jetzt oder nicht?}
 {135}{}{Ja.}
 {136}{}{Nein.}
 {137}{}{Gut. Du hast hier nichts zu suchen. Bitte geh, damit wir unsere Arbeit machen können.}

@@ -74,4 +74,4 @@
 {912}{}{Gott sein Dank, du bist einmalig, Aldo. Ich glaube, das genügt mir erst mal.}
 {920}{}{Nochmals hallo, mein Freund! Weisst du, unsere Freundschaft könnte noch viel inniger sein, wenn noch weitere 20 Dollar drinnen wären.}
 {921}{}{Määhr? Uhk.}
-{922}{}{Me no share. Byee.}
+{922}{}{Ich verschwinden. Tsüss.}

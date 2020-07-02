@@ -81,7 +81,7 @@
 {180}{}{Das ist es. Und ich habe täglich mit diesen Leuten zu tun. Leider!}
 {181}{}{Mmh, ich habe noch weitere Fragen.}
 {182}{}{Ja, du Armer. Mach's gut.}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
+{183}{}{Du bist ein wahrhaft würdiger Empfänger unseres Benzins. Ich denke, ich kann dich getrost in unsere Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer. Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum Kaisercomputer herstellen. Der Kaiser kann unser Benzin dahin leiten, wo du es brauchst.}
 {184}{}{Danke.}
 {185}{}{Wachen! Der Feind ist unter uns! Wachen!}
 {186}{}{Wirklich? Sicher möchtest du den Spieß umdrehen? Unsere Hilfe ist dir sicher, wenn du bereit bist, AHS-9 zu töten. }
@@ -127,5 +127,5 @@
 {501}{}{Verschwinde! Das ist die vorletzte Warnung.}
 {502}{}{Ich warne dich zum letzten Mal.}
 {503}{}{Wache!}
-{1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
+{1430}{}{Der Kaiser ist neugierigen Augen verborgen und meine Aufgabe ist es, den Kaiser abzuschirmen. Allerdings hast du dich als Freund der Shi erwiesen. Ich denke, ich kann dich getrost in unsere Geheimnisse einweihen. Im Hinterzimmer findest du das Kraftfeld für den großen Computer. Es ist ausgeschaltet. Mit dem Kennwort "CSPDMSHR-Shih-huang-ti-X9372" kannst du die Verbindung zum Kaisercomputer herstellen. Ich hoffe, das wird dir von Nutzen sein.}
 {2001}{}{Ich...verstehe. Also danke, daß du dir die Zeit genommen hast. Ich habe jetzt ein Dorf zu retten.}
