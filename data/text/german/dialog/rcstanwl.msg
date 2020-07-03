@@ -4,7 +4,7 @@
 {103}{}{Die NCR ist Drückebergern gegenüber nicht gerade freundlich gesinnt. Hau ab von hier.}
 {104}{}{Du weißt, was ich von deiner Sorte halte. Geh mir einfach aus den Augen.}
 {105}{}{Hüa! Treib sie raus.}
-{106}{}{Okay, let's go.}
+{106}{}{OK, gehen wir.}
 {107}{}{Ich bin Stanwell. Ich führe die Karawane zwischen Redding und der New California Republic an. Brahmin gegen
  Gold. Wir könnten noch eine Wache gebrauchen und wir wollen jetzt sofort aufbrechen.}
 {108}{}{Man nennt mich Stanwell. Ich führe die Karawane zwischen Redding und der New California Republic an.

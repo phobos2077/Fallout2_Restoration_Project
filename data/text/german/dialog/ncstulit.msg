@@ -45,7 +45,7 @@
 {283}{}{draußen}
 {290}{}{(Lächelt.) Alles klar, wir sind im Geschäft. Ich heiß Stuart und die meisten Leute nennen mich Stuart Little, aber das ist nur, weil...ach was, DU mußt nur wissen, daß ich in den wichtigen Dingen ganz groß bin. Haste den Namen verstanden, Idiot?}
 {291}{}{Ich }
-{292}{}{Me... uh... me...}
+{292}{}{Ich... äh... ich...}
 {293}{}{Ich Big Stu}
 {296}{}{[Wandere weiter auf der Suche nach Abenteuern]}
 {300}{}{Mei-äh-mi, hm? "Miami..." TOLL. FIND ICH TOLL. OK, dann wollen wir mal was kaputtschlagen.}
@@ -163,7 +163,7 @@
 {530}{}{Und wie kommst du darauf, daß ich mal im Zirkus war, oder da sogar schuften mußte?}
 {531}{}{Äh...och, ziemlich viele Leute hier aus New Reno benehmen sich, als wären sie aus dem Zirkus und da dachte ich...}
 {540}{}{DU hast gedacht, weil ich von kleinem Wuchs bin, läg meine einzige Karrieremöglichkeit auf den "Brettern, die die Welt bedeuten".}
-{541}{}{Uh... well, now...}
+{541}{}{Äh... nun, also...}
 {550}{}{Du hat mich nur EINMAL kurz angeschaut und wolltest gleich mein ganzes Leben beurteilen können. Du wärst nie darauf gekommen, daß jemand mit meiner Größe sich einen Namen im *Boxmanagement* machen könnte.}
 {551}{}{Tut mir leid, ich wollte dich nicht beleidigen.}
 {560}{}{Warum sollte ich beleidigt sein? Nur weil jeder in diesem Spiel gewohnheitsmäßig Blitzurteile über andere inaktive Figuren zu fällen scheint, die sich nur auf deren äußere Erscheinung stützen?}
@@ -176,7 +176,7 @@
 {591}{}{Und du wärst überrascht, für wie viele Männer das ebenfalls gilt.}
 {600}{}{Ich hab jetzt deine lächerlich überdimensionierten Muskelpakete, deine äußerst wagemutige Möchtegern-Mad-Maxx-Show und deine einfallslose Punkteverteilung lange genug beobachtet, um dich als größenwahnsinnigen Wicht einstufen zu können.}
 {601}{}{Ich hab jetzt deine übermäßig getunten Brüste, dein lächerliches Gehüpfe beim Gehen und deine einfallslose Punkteverteilung lange genug beobachtet, um dich als größenwahnsinniges Laura-Kroft-Imitat einzustufen.}
-{602}{}{I...}
+{602}{}{Ich...}
 {610}{}{Du bist doch nichts weiter als eine typische 'männliche RPG-Heldenfigur', eine von VIELEN dieser Art, die diese Welt zu bevölkern scheinen.}
 {611}{}{Du bist doch nichts weiter als eine typische 'weibliche RPG-Heldinnenfigur,' eine von VIELEN dieser Art, die diese Welt zu bevölkern scheinen.}
 {612}{}{Also...}

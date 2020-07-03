@@ -55,7 +55,7 @@
 {301}{}{Versammelt Euch, Ungewaschene! Zerstört den Spammer!}
 {302}{}{Tod den Spammern!}
 {303}{}{Das hast Du davon, daß Du das Leben anderer Leute bedrohst!}
-{304}{}{Now you will die, Grim Reaper.}
+{304}{}{Stirb jetzt, Grim Reaper.}
 {305}{}{Du gehst zurück, Australier!}
 {306}{}{Der Genpool braucht etwas Chlor.}
 {307}{}{Zeit zum Zurückzahlen!}

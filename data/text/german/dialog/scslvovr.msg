@@ -16,9 +16,10 @@
 {114}{}{Raus hier, mach schon. Ich hab schon genügend dämliche Wachleute!}
 {115}{}{Bist du blind, oder was? Das hier ist ein Sklavenpferch. Wenn du mehr wissen willst,
  wende dich an Vortis.}
-{116}{}{Is that so? Well, I'm sending you back in a body bag.}
+{116}{}{Ach tatsächlich? Dich schick ich im Leichensack zurück.}
 {117}{}{Das ist wohl Vortis, der alte Knabe.}
-{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
+{118}{}{Danke. Ich hab den Eindruck, du bist ganz schön helle. Du kannst mir bestimmt ein paar
+ Fragen beantworten.}
 {119}{}{Der alte Knabe, wie? Okay.}
 {120}{}{Wenn du's so formulierst, kann ich gar nicht nein sagen. Was liegt dir auf der Seele?}
 {121}{}{Danke, Fremdling.}
@@ -54,7 +55,11 @@
  betrunken war, fing er an von irgendwelchen Typen zu erzählen, die er die Enklave nannte.}
 {142}{}{Genau das wollte ich wissen. Du bist ganz schön gut informiert.}
 {143}{}{Das war's auch schon. Besten Dank.}
-{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
+{144}{}{Was mich betrifft, ich halte immer Ausschau - das Problem ist, daß heutzutage keiner mehr
+ Sklavenhändler anheuern will. Vortis, mein Chef, hat da irgendwelche Heimlichkeiten am Laufen.
+ In der Stadt gibt's die Ranchbesitzer vom Viehzüchter-Verband, die suchen immer jemanden. Und
+ Dorothy kann immer eine Aushilfe für das Kraftwerk gebrauchen, falls du dich mit so was
+ auskennst. Es heißt, daß sogar Präsidentin Tandi einen Fachmann sucht.}
 {145}{}{Mensch, du bist aber informiert. Am liebsten würde ich dir den ganzen Tag lang Fragen
  stellen.}
 {146}{}{Ich geh diesen Hinweisen sofort nach.}

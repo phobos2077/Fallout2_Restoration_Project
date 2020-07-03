@@ -9,7 +9,7 @@
 {213}{}{Hier ist 'ne Aderpresse, falls du sie brauchst.}
 {214}{}{Nicht das ganze Jet auf einmal einatmen...erst ein bißchen, dann einen tiefen Zug und
  dann laß ihm ein bißchen Zeit.}
-{215}{}{You want two half ounce bags, or a canister?}
+{215}{}{Willst du zwei Tüten zu 1/2 Unze oder einen Kanister?}
 {216}{}{Der Jet-Inhalierer kommt extra...}
 {217}{}{Laß mich raten: Ich soll's anschreiben, oder?}
 {218}{}{Einmal Nuke On The Rocks, kommt sofort.}

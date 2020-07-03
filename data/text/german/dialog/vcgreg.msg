@@ -53,7 +53,7 @@
  der Bürger von Vault City werden möchte.}
 {141}{}{Worin genau besteht denn dieser Test?}
 {142}{}{Ich würde den Test gern noch mal machen.}
-{143}{}{What are the benefits of being a Citizen?}
+{143}{}{Was bringt es, wenn man ein Bürger ist?}
 {144}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {145}{}{Verstehe. Vielleicht sprechen uns später noch mal.}
 {146}{}{Was es bringt? Du brauchst dich nur umzusehen... Vault City ist die sicherste und

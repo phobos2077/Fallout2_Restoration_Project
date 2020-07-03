@@ -75,7 +75,7 @@
 {160}{}{Wie gesagt, Teil des Problems.}
 {161}{}{Ah, verstehe. Wie Sie vielleicht wissen, bin ich schon lange der Meinung, daß es Zeit für
  die Menschheit ist, das Sonnensystem zu betreten.}
-{162}{}{Aren't we already in the... Uh, to go *where*?}
+{162}{}{Sind wir nicht schon... Äh, *wohin*?}
 {163}{}{Wie soll denn das vor sich gehen?}
 {164}{}{Ich finde, Mars wäre nicht schlecht, denn Mars liegt im Grunde in der gleichen
  Umlaufbahn... Mars befindet sich praktisch in der gleichen Entfernung von der Sonne, was sehr

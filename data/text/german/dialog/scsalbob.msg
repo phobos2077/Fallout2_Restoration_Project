@@ -21,7 +21,9 @@
 {117}{}{Trink! Gut!}
 {118}{}{Grrrg!}
 {119}{}{Nun mach mal halblang, Kumpel! Fragen wird ja noch erlaubt sein. Ich geh dann mal.}
-{120}{}{(Gulp, gulp, gulp) Aaaahhhh! That's right fine of you, stranger! Fine person, indeed. Kind a man should have as his pardner. (Gulp) Did I ever tell you about the time I made my big strike?}
+{120}{}{(Gluck, gluck, gluck) Aaaahhhh! Das is' echt klasse von dir, Fremdling! Bist schwer in
+ Ordnung, das muß ich sagen. Mit so ei'm wie dir muß man sich zusammentun. (Gluck) Hab ich dir
+ schon mal davon erzählt, wie ich meinen großen Coup gelandet habe?}
 {121}{}{Nein?}
 {122}{}{Momentchen mal, du kannst doch nicht meinen ganzen Schnaps wegsaufen!}
 {123}{}{Rahhhg!}
@@ -51,7 +53,7 @@
 {133}{}{Du kannst mich mal, altes Wrack!}
 {134}{}{Mich ärgern? Mich ärgern! Da müßteste mich erst mal kennenlernen, wenn ich mich ärger!
  An deiner Stelle würd ich mich schleunigst aus dem Staub machen, bevor's soweit ist! Los! Hau ab!}
-{135}{}{Well bite me, too! Now yer talking. Don't take no lip from nobody, pardner! Say, you got any hooch on ya? Just a little sip?}
+{135}{}{Du mich auch! Richtig so. Laß dir von keinem was bieten, Kumpel! Sag mal, hast du was zu trinken dabei? Nur so'n kleines Schlückchen?}
 {136}{}{Ja.}
 {137}{}{Nein.}
 {138}{}{Laß mich in Ruhe, du stinkender alter Zausel!}
@@ -62,7 +64,7 @@
 {142}{}{Freut mich. Ich bin}
 {143}{}{Himmeldonnerwetter, du schon wieder? Ich will deine blöde Fresse nich' mehr hier sehen!}
 {144}{}{Laß mich in Ruh'!}
-{145}{}{You're a feisty one, old timer.}
+{145}{}{Du bist mir ja einer, Opa.}
 {146}{}{Zum Teufel, das bin ich! Du hast nicht zufällig was zu trinken dabei, wie? Für'n alten Mann.}
 {147}{}{Ja.}
 {148}{}{Nein.}

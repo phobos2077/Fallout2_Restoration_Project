@@ -9,7 +9,7 @@
  Dollar. Keiner faßt die Kisten an, wenn Doofus sie bewacht.}
 {105}{}{Klar, logisch, Mann.}
 {106}{}{Wie sieht's aus, Mann, soll ich deine Karre beschützen?}
-{107}{}{Good. Do.}
+{107}{}{Gut. Mach.}
 {108}{}{Nein. Du nix anfaß.}
 {109}{}{Von wegen Mann!}
 {110}{}{Wo bin ich hier?}
@@ -58,7 +58,8 @@
 {147}{}{Görg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Duff? Ganja kalk sar!}
-{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
+{150}{}{Also gut - dem Riesen muß man gehorchen, Mann. So läuft das halt. Was soll ich machen,
+ Riese?}
 {151}{}{Das ist 'ne ganze Menge, Mann. Riese, ich bin Doofus, der Parkplatzwächter und meine
  Aufgabe ist, auf die Autos aufzupassen, die die Leute hier abstellen. Aber dann hab ich noch
  dieses... Ding hier, verstehst du und manchmal brauch ich halt 'n bißchen mehr Geld und so, wenn
@@ -70,7 +71,9 @@
  schlafen, nachdem da geschlossen ist. Dafür will er dann natürlich 'ne Gegenleistung sehen.}
 {154}{}{Jaja, immer der Reihe nach - oh Mann, was für Farben! Merk will manchmal Zeugs aus den
  Autos haben, die ich bewache. Aber ich führ ihn an der Nase rum!}
-{155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that. Man, I got to quit talking. I'm like seeing things... oh, man, the glow. It's all about glowing.}
+{155}{}{Ich nehm nur Sachen aus den Auto raus, bei denen ich nicht als Aufpasser bezahlt werde.
+ Er glaubt, daß ich meine Kunden ausnehm, aber das mach ich nicht. Mann, ich kann nicht mehr
+ weiterreden. Ich sehe... Dinge, oh Mann, so ein Leuchten. Was für ein irres Leuchten.}
 {156}{}{Gib mir dein ganzes Zeugs.}
 {157}{}{Sag mir alles, was du weißt.}
 {158}{}{Das reicht, mehr halt ich nicht aus.}
@@ -84,8 +87,9 @@
 {165}{}{Stimmt, Mann. Geh zu Merk. Bei dem gibt's immer was zu tun.}
 {166}{}{Mach winke-winke!}
 {167}{}{Oh Mann, du hast alles versaut! Merk wird total sauer werden, wenn er davon erfährt.}
-{168}{}{Goodbye, dope-head.}
-{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
+{168}{}{Tschüß, du vollgepisste Dumpfbacke.}
+{169}{}{Okay! Das waren Merks Leute. okay. Letzte Nacht haben sie Autos ausgenommen. Schau dich
+ um, vielleicht findest du sie.}
 {170}{}{Du lüg, ich töt.}
 {171}{}{Erzähl keinen Unfug, sonst komm ich wieder.}
 {172}{}{Klar. Ich brech vor Angst zusammen.}

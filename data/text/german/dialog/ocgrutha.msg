@@ -162,7 +162,7 @@
 {206}{}{OK, laß uns reden.}
 {207}{}{Du bist eine Deathclaw und das ist ein Todesurteil... für dich!}
 {208}{}{Tut mir leid, Gruthar. Laß uns reden.}
-{209}{}{Whatever. I'm gone.}
+{209}{}{Was auch immer, ich bin hier raus.}
 {210}{}{Nein, ich bin hier derjenige, der entscheidet. Wenn dir das mißfällt, kannst du in das
  Land der Menschen zurückkehren!}
 {211}{}{Boa, ey!}

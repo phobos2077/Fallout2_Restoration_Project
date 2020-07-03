@@ -42,7 +42,7 @@
 {281}{}{Du warst echt Klasse in Great Balls for Hire.}
 {282}{}{Du warst spitze in Good Will Humping.}
 {283}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Ich liebte deine Arbeit in "Vault Sex-Teen". Es war inspirierend. Eine cineastische Tour de Force.}
 {285}{}{::Pfeift::}
 {295}{}{Willst du ein Grab in Golgatha, Sklavenhändler? Nimm die Waffe runter.}
 {296}{}{Nimm die Waffe runter, Sklavenhändler, oder ich benutzte dich als Zielübung.}

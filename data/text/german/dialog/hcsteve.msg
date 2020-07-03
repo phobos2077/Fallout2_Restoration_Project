@@ -57,7 +57,7 @@
 {156}{}{Wer wohnt hier alles?}
 {157}{}{Was für Dienstleistungen bietet die Stadt?}
 {158}{}{Nein, danke.}
-{159}{}{Wir leben von der Veredelung des Erzes, das wir in den Bergen abbauen und an die umliegenden Städte wie Bunkerstadt, Gecko und die Neue Kalifornische Republik verkaufen. Ein wenig verwenden wir auch für die Stromversorgung der Stadt. Weiter?}
+{159}{}{Wir leben von der Veredelung des Erzes, das wir in den Bergen abbauen und an die umliegenden Städte wie Vault City, Gecko und die New California Republic verkaufen. Ein wenig verwenden wir auch für die Stromversorgung der Stadt. Weiter?}
 {160}{}{Ja.}
 {161}{}{Nein.}
 {162}{}{Alle sind gleich. Wir sind alle aus Menschen entstanden, im Inneren sind wir alle gleich. Es wäre dumm zu behaupten, daß jemand nur wegen seines Aussehens grausam ist.}
@@ -73,7 +73,7 @@
 {172}{}{Tatsächlich? Ich hätte gedacht, daß die meisten inzwischen gestorben sind.}
 {173}{}{Ein Mutant als Sheriff also. Ich wette, daß die meisten Bürger hier ganz schön gesetzestreu sind. Das läuft sicher ganz gut.}
 {174}{}{Tschüß.}
-{175}{}{Tja, und jetzt halten wir uns hier über Wasser, gestalten unsere eigene Version von Zivilisation und versuchen alles, damit wir uns nicht Bunkerstadt oder der RNK unterwerfen müssen. Deren Regierungstil gefällt uns nämlich nicht. Das ist alles.}
+{175}{}{Tja, und jetzt halten wir uns hier über Wasser, gestalten unsere eigene Version von Zivilisation und versuchen alles, damit wir uns nicht Vault City oder der NCR unterwerfen müssen. Deren Regierungstil gefällt uns nämlich nicht. Das ist alles.}
 {176}{}{OK. Ich habe noch mehr Fragen.}
 {177}{}{Danke. Tschüß.}
 {178}{}{Wenn du weiterhin glauben willst, daß du den Charakter einer Person an ihrem Äußeren festmachen kannst, dann bist du tatsächlich ein Ignorant.}

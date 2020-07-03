@@ -67,7 +67,7 @@
 {166}{}{Nein.}
 {167}{}{Formatierung wird durchgeführt... Formatierung abgeschlossen. Neustart erfordert komplette Installation. System wird heruntergefahren... Beendet...}
 {168}{}{[Erledigt]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Daten für: - Botanikprogramm - Genetikprogramm - Xeno-Programm.}
 {170}{}{Botanikprogramm.}
 {171}{}{Genetikprogramm}
 {172}{}{Xeno-Programm.}

@@ -24,7 +24,7 @@
 {120}{}{Und ich sag zu ihm, "Paß auf", sag ich...}
 {121}{}{Probier mal die geröstete Maulwurfsratte. Spezialität des Hauses.}
 {122}{}{Hallo. Was bist du für ein Sternzeichen?}
-{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
+{123}{}{Wenn du Arbeit suchst, Fremdling, geh zu den Viehzüchtern.}
 {124}{}{Mist! Hast du das gesehen?}
 {125}{}{Oh Mann, ich glaub ich werd' krank.}
 {126}{}{Für mich nichts mehr.}

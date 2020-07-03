@@ -7,7 +7,7 @@
 {105}{}{Ich hab genug von den Brahmin.}
 {106}{}{Ich hab gehört, die Bishops haben unseren Chef auf'm Kieker.}
 {107}{}{Wenn du mit jemandem reden willst, geh zu Felix, dem Vorarbeiter.}
-{108}{}{You ain't with the Bishops, are you?}
+{108}{}{Du hast doch nicht etwa was mit den Bishops zu tun?}
 {109}{}{Wir wissen, daß es Mord war. Wir kriegen diese Schlange schon und dann machen wir kurzen
  Prozeß.}
 {110}{}{Felix schwört, daß die Bishops dahinterstecken und daß es da um eine Menge Geld geht.}

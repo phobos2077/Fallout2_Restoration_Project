@@ -54,7 +54,7 @@
 {450}{}{Männer}
 {451}{}{Frauen}
 {452}{}{Kinder}
-{453}{}{Super mutants}
+{453}{}{Supermutanten}
 {454}{}{Ghuls}
 {455}{}{Brahmin}
 {456}{}{Radskorpione}
@@ -95,7 +95,7 @@
 {503}{}{verletzt}
 {504}{}{unverletzt}
 {510}{}{RA-Mod: %d}
-{511}{}{DR Mod: %d}
+{511}{}{RV-Mod: %d}
 {512}{}{Sch-Mod: %d/%d}
 {518}{}{Du bist: %s}
 {519}{}{%s %s }
@@ -138,12 +138,12 @@
 {596}{}{Das Auto ist schon voll aufgeladen.}
 {597}{}{Die Türöffnung scheint blockiert zu sein.}
 {620}{}{Du erhältst %d Erfahrungspunkte für das Töten von: %s.}
-{621}{}{%s you gain %d experience points.}
-{622}{}{For defeating your enemies,}
-{623}{}{For slaying your opponents,}
-{624}{}{For being victorious in combat,}
-{625}{}{For crushing your enemies,}
-{626}{}{For destroying your enemies without taking a scratch,}
+{621}{}{%s erhälst du %d Erfahrungspunkte.}
+{622}{}{Für den Sieg über deine Feinde}
+{623}{}{Für das Erledigen deiner Gegner}
+{624}{}{Da du siegreich aus dem Kampf hervorgegangen bist,}
+{625}{}{Für die Vernichtung deiner Gegner}
+{626}{}{Für die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,}
 {650}{}{[Erledigt]}
 {651}{}{[Mehr]}
 {652}{}{Weiter}

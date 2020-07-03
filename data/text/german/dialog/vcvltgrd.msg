@@ -6,12 +6,12 @@
 {104}{}{Ich möchte gerne in die Vault.}
 {105}{}{Nichts. Entschuldige die Störung.}
 {106}{}{Es ist schon nach 18 Uhr. Du mußt gehen.}
-{107}{}{Okay. I'm leaving.}
+{107}{}{OK, ich hau ab.}
 {108}{}{OK. Nur noch eine Minute, bitte.}
 {109}{}{Ich hab noch was zu erledigen. Ich gehe, wenn ich soweit bin.}
 {110}{}{Umag Nak!?! Umag NAK!}
 {111}{}{Ich rufe die Wache, damit sie dich rausbringen.}
-{112}{}{Okay. Let's go.}
+{112}{}{OK, gehen wir.}
 {113}{}{Brog Frup}
 {114}{}{Keine Sorge. Ich find schon allein raus..}
 {115}{}{Tut mir leid, aber ich habe meine Befehle.}

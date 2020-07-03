@@ -15,13 +15,13 @@
 {114}{}{Klar, Fremdling, was möchtest du wissen?}
 {115}{}{Erzähl mir was über die NCR.}
 {116}{}{Wie ist das mit Merk?}
-{117}{}{What can you tell me about Roger Westin?}
+{117}{}{Was weißt du über Roger Westin?}
 {118}{}{Ich möchte mich mit dem alten Carlson treffen. Kennst du jemand, der mir dabei helfen kann?}
 {119}{}{Hast du ein GECK?}
 {120}{}{That's nice, stranger, but I ain't no charity.}
 {121}{}{Schon möglich. Ich hätte da eventuell ein Zielfernrohr, Modell Triveld x10 - eignet sich ideal für Jagdgewehre, wenn das jemanden interessiert. Ich mach ein Sonderangebot: 500 Dollar.}
 {122}{}{Hey, du hast mich doch schon ausgenommen.}
-{123}{}{Sure, it's a deal.}
+{123}{}{Ja, das geht klar.}
 {124}{}{Nein, danke.}
 {125}{}{Das ist die New California Republic. Präsidentin Tandi und ihre Leute sagen, sie wollen, daß alles wieder so wird wie in der guten alten Zeit. Ich glaub ja eher, sie wollen vor allem so viel abgreifen, wie sie nur können. Was soll's, mich juckt's nicht, die gute alte Zeit war vor meiner Zeit. Sind allerdings ziemlich prüde, diese Gesellen - haben was gegen Sklaverei und Glücksspiel und was sonst noch. Darum hab ich meinen Laden hier draußen. Ich mag keine Regeln - hatte schon immer was dagegen.}
 {126}{}{Verstehe.}
@@ -32,7 +32,7 @@
 {131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
 {132}{}{Verstehe.}
 {133}{}{Wiedersehn.}
-{134}{}{Funny you go asking that after what happened to Roger Westin. Not that I'd know, but there's a fellow - Merk - down at the Rawhide who might be able to help you.}
+{134}{}{Komische Frage nach dem, was mit Roger Westin passiert ist. Ich weiß da nicht Bescheid, aber drunten im "Rawhide" gibt's einen Knaben - Merk heißt er - der kann dir vielleicht weiterhelfen.}
 {135}{}{Verstehe.}
 {136}{}{Wiedersehn.}
 {137}{}{So einen von den Vorkriegsimporten? Laß mich raten, mit 14-mm-Munition? Nee, hab ich nicht.}

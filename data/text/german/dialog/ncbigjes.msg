@@ -117,7 +117,7 @@
 {452}{}{Na gut. Ich bin schon weg.}
 {460}{}{Geh Richtung Norden entlang der Virgin Street, an den Kasinos vorbei... folge dem Pfad, der aus der Stadt führt. Dann kommst du... zu den Ställen. Geh jetzt.}
 {461}{}{(Folge seiner Wegbeschreibung...)}
-{470}{}{Have... you done as I asked?}
+{470}{}{Hast… du getan, was dir befohlen wurde?}
 {471}{}{Nein, ich hab das Paket noch nicht abgeliefert.}
 {472}{}{Ja, ich habe das Paket zu Ramirez gebracht, wie du es verlangt hast.}
 {473}{}{Ja, ich war in den Ställen und habe dein Paket abgegeben... weißt du, daß Sie Sklaven mit Jet quälen?}

@@ -46,7 +46,7 @@
 {271}{}{Der letzte Kampf war wie aus 'nem Epos, Chica.}
 {272}{}{Wo trainierst du, eh? Brauchst du 'n Agenten?}
 {273}{}{Pass auf den Masticator auf. Er hat Geschmack an Ohren gefunden... er ist ein kranker Typ.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Hey, hey, hey! Chica, soll ich die Waffe für dich beiseite schaffen?}
 {281}{}{Was, ich soll dich durchsuchen und so? Komm schon, nimm das Eisen weg, bevor ich handgreiflich werden muß.}
 {285}{}{Was zum Teufel schnüffelst du hier herum, }
 {290}{}{Mit der Figur schleichst du so schnell an keinem Mordino vorbei, Chica.}

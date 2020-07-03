@@ -82,7 +82,7 @@
 {603}{}{Archive}
 {604}{}{Wecker}
 {605}{}{Du da du da dum di di dudly du dam dam dam du da}
-{606}{}{Welcome to the RobCo Pip-Boy 2000.}
+{606}{}{Dein RobCo Pip-Boy 2000 grüßt dich.}
 {607}{}{Machs gut.}
 {608}{}{Aufwachen.}
 {700}{}{Vault 13}
@@ -307,7 +307,7 @@
 {9007}{}{ und Abwehrmaßnahmen muß bis zu diesem Zeitpunkt}
 {9008}{}{ abgeschlossen sein. Der gesamte Trupp muß sich}
 {9009}{}{ aufgrund der geänderten Befehle mit den}
-{9010}{}{strictly enforced; ID badges must be worn}
+{9010}{}{ Abteilungsleitern in Verbindung setzen, um}
 {9011}{}{ geänderte Anordnungen entgegenzunehmen. Während}
 {9012}{}{}
 {9013}{}{ Kennmarken müssen ständig getragen werden.}
@@ -341,8 +341,8 @@
 {10026}{}{ Sierra Army Depot}
 {10027}{}{ Missionsbericht 2077}
 {10028}{}{ Aufgrund der Knappheit an ausgebildetem Personal}
-{10029}{}{personnel are to be relocated to neighboring}
-{10030}{}{installations or sent to the front line.}
+{10029}{}{ ist das Sierra Army Depot in eine automatisierte}
+{10030}{}{ Verteidigungsbasis umzuwandeln. Das gesamte}
 {10031}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {11000}{}{ mit der Art und Weise zufrieden sind, in der der}
 {11001}{}{ Abschrift der Übertragung vom 11. Januar 2073}
@@ -413,7 +413,7 @@
 {11066}{}{ der Bundesstaaten willkommen. Gut unterrichteten}
 {11067}{}{ Quellen zufolge erhält Kanada als Gegenleistung volle}
 {11068}{}{ 10 % der restlichen Ölvorräte der Welt, die}
-{11069}{}{to score the winning touchdown during the final seconds}
+{11069}{}{ ausschließlich von den USA kontrolliert werden, sowie}
 {11070}{}{ einen 50%igen Steuernachlaß, da Kanada jetzt unter}
 {11071}{}{ die Steuergesetzgebung der USA fällt.}
 {11072}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -431,7 +431,7 @@
 {11084}{}{ In einer verblüffenden Demonstration von Einigkeit}
 {11085}{}{ stimmten das Repräsentantenhaus und der Kongreß}
 {11086}{}{ einstimmig für die Einleitung eines Amtsenthebungs-}
-{11087}{}{military exercises staged by the Chinese fleet that are}
+{11087}{}{ verfahrens gegen den Präsidenten aufgrund von}
 {11088}{}{ unachtsamem Verhalten im Straßenverkehr. Beide}
 {11089}{}{ Häuser betonten, daß der Präsident nicht über}
 {11090}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -466,10 +466,10 @@
 {11119}{}{ Abschrift der Übertragung vom 10. Oktober 2077}
 {11120}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {12000}{}{Willkommen!}
-{12001}{}{Welcome to the Hubology Holodisk! Within these electronic}
+{12001}{}{ Willkommen zur Hubologie-Holodisk! Auf diesen}
 {12002}{}{ elektronischen Seiten befindet sich eine}
 {12003}{}{ Kurzbeschreibung unserer Philosophie}
-{12004}{}{This holodisk isn't meant to represent the final word on}
+{12004}{}{ einschließlich der früher verbotenen Lehren des Hub.}
 {12005}{}{ Diese Holodisk soll kein umfassendes Werk über die}
 {12006}{}{ Hubologie darstellen - sie ist einfach eine Einführung,}
 {12007}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -910,7 +910,7 @@
 {16051}{}{ Nach dem Bürgertraining und der Bearbeitung}
 {16052}{}{ deines Antrags wirst du über deinen neuen Status}
 {16053}{}{ verschiedene wasserdichte Türen in der gesamten}
-{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
+{16054}{}{ Dann ist es nur noch ein kleiner Schritt bis zur}
 {16055}{}{ vollwertigen Bürgerschaft!}
 {16056}{}{**END-PAR**}
 {16057}{}{ Natürlich kann die NCR nicht alle aufnehmen -}
@@ -1021,8 +1021,8 @@
 {20010}{}{ decodierten Informationen aus dem verlassenen}
 {20011}{}{ verschiedene wasserdichte Türen in der gesamten}
 {20012}{}{ Fortschritte bei unseren Forschungen wesentlich}
-{20013}{}{designed to be used as an agent for the creation of}
-{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
+{20013}{}{ begünstigt.}
+{20014}{}{**END-PAR**}
 {20015}{}{ Wir haben entdeckt, daß das F.E.V.-Virus}
 {20016}{}{ ursprünglich nicht für die Entwicklung von Super-}
 {20017}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -1112,7 +1112,7 @@
 {21049}{}{ verschiedene wasserdichte Türen in der gesamten}
 {21050}{}{ Steuerstäbe befinden. Hier zirkuliert es durch den}
 {21051}{}{ Kern und wird von der stattfindenden Kernreaktion}
-{21052}{}{waste-conduit, terminating one mile to the south. }
+{21052}{}{ erhitzt. Das Seewasser erreicht den Siedepunkt.}
 {21053}{}{ mit dem entstehenden Dampf wird der}
 {21054}{}{ Turbinengenerator betrieben, der all unsere}
 {21055}{}{ Elektrizität generiert. Daraufhin kondensiert der}

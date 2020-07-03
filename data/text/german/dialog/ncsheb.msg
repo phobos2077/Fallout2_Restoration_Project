@@ -1,4 +1,4 @@
-{100}{}{You see... Sheb.}
+{100}{}{Du siehst... Sheb.}
 {150}{}{Du siehst einen mageren Mann in leuchtend blauer Kleidung. Und als ob seine Kleidung nicht schon schreiend genug wäre, brüllt er auch noch aus Leibeskräften.}
 {200}{}{Beute, Beute, Beu-te!}
 {201}{}{Nur her mit euch, Beutefreunde!}

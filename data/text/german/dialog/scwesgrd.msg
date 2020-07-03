@@ -44,5 +44,5 @@
 {139}{}{Ich haben Sachen von Vault City für Mr. Westin.}
 {140}{}{Ich habe etwas aus Vault City für Mr. Westin.}
 {141}{}{Na gut, komm herein. Mach ja keinen Ärger. Ich beobachte dich.}
-{142}{}{You're not allowed on to the ranch without official business.}
+{142}{}{Ohne irgendwelche Geschäfte zu machen, kommst du nicht auf die Farm.}
 {150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}

@@ -6,7 +6,7 @@
 {105}{}{Ziemlich pelzig.}
 {106}{}{Ah, ich verstehe. Du mußt neu in der Stadt sein. Gut, ich werde dir etwas sagen. Ich werde eine spezielle Wette für
  Dich während den morgigen Kämpfen machen. Möchtest du, daß ich das für dich mache?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{107}{}{[Du nickst.] Ja, ja. [Und reichst deinen Geldbeutel]}
 {108}{}{Ich? Plemplem. Bis bald, Pelz.}
 {109}{}{Gute Idee. Du kommst morgen hier zurück und falls dein Critter bei den Kämpfen gewinnt, gebe ich dir dein Geld.
  Okay?}

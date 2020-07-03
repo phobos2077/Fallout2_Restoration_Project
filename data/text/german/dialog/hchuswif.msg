@@ -11,7 +11,7 @@
 {108}{}{**Phhhhhhh**}
 {109}{}{Zaius von der Mine sagt, daß sie nächsten Monat vielleicht Arbeit für mich haben.}
 {110}{}{Hier sieht's wie im Saustall aus! Wann putzt du denn endlich mal, Alte?}
-{111}{}{You got a real smart mouth on ya', woman!}
+{111}{}{Du bist mir ein bißchen zu frech, Weib!}
 {112}{}{Ich liebe dich, Warzenschwein.}
 {113}{}{Soll ich's dir mal mit dem flachen Handrücken geben, ja?}
 {140}{}{Mach dir deinen verdammten Auflauf doch selbst, du fauler Hund!}

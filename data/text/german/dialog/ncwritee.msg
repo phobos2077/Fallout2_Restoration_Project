@@ -12,7 +12,7 @@
 {200}{}{::Jubelt::}
 {201}{}{::Klatscht::}
 {202}{}{::Pfeift::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{(Singt.) "We don't need another hero, we don't need to know the way home..."}
 {204}{}{Hey! }
 {205}{}{Weg die Enklave zu zerstören, }
 {206}{}{Du musst härter als Tommy the Balls sein, um die Enklave so in den Arsch zu treten.}
@@ -58,7 +58,7 @@
 {299}{}{Der Mutant gehört dir? Pass gut auf ihn auf, kapiert?}
 {305}{}{Was willst du?}
 {306}{}{Kann ich dir irgendwie helfen?}
-{307}{}{Damn hot...}
+{307}{}{Verdammt heiss...}
 {308}{}{New Reno wird jeden Tag hässlicher...}
 {309}{}{Was machst du hier?}
 {310}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
@@ -78,7 +78,7 @@
 {340}{}{Dad sagt er erwürgt uns wenn er hört, dass einer von uns Jet nimmt.}
 {341}{}{Dad ist noch immer aufgeregt, sei vorsichtig, wenn du mit ihm sprichst, kapiert?}
 {342}{}{Chris wird noch ausgepeitscht wenn er nicht aufhört in das Lagerhaus zu schleichen.}
-{343}{}{Damn hot...}
+{343}{}{Verdammt heiss...}
 {344}{}{Ich habe meine Mutter eine Weile nicht gesehen. wenn du sie siehst, sag ihr nichts von den Destillen, Ok?}
 {345}{}{Keith hat letzte Woche das Klavier zerlegt und wieder zusammen gebaut. Kluger Junge.}
 {346}{}{Wir gehen in den nächsten Tagen Radscorpione jagen.}
@@ -103,7 +103,7 @@
 {368}{}{Dad sagt er erwürgt uns wenn er hört, dass einer von uns Jet nimmt.}
 {369}{}{Dad ist noch immer aufgeregt, sei vorsichtig, wenn du mit ihm sprichst, kapiert?}
 {370}{}{Chris wird noch ausgepeitscht wenn er nicht aufhört in das Lagerhaus zu schleichen.}
-{371}{}{Damn hot...}
+{371}{}{Verdammt heiss...}
 {372}{}{Keith hat letzte Woche das Klavier zerlegt und wieder zusammen gebaut. Kluger Junge.}
 {373}{}{Wir gehen in den nächsten Tagen Radscorpione jagen.}
 {374}{}{Redest du wirklich mit Gott, wenn du Sex bei den Aufnahmen hast?}

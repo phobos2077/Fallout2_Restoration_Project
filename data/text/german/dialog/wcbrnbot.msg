@@ -47,7 +47,7 @@
 {143}{}{Tschüß.}
 {144}{}{Agh.}
 {145}{}{Skynet hat alle benötigten Informationen zu dieser Umgebung erfaßt.}
-{146}{}{Waaaaa......tinnnnnng.}
+{146}{}{Waaaaar.....tennnnnnn.}
 {147}{}{[Er ist noch genau dort, wo du ihn zurückgelassen hast.]}
 {148}{}{Dann lass uns mal Tyler kalt stellen.}
 {149}{}{Bleib hier, ich komm zurück.}
@@ -108,7 +108,7 @@
 {197}{}{Tschüß.}
 {198}{}{Skynet wird die Erfassung von Daten selbständig fortsetzen. Skynet dankt dem Menschen für
  Skynets Befreiung.}
-{199}{}{Gooooo......innnnnnng.}
+{199}{}{Geeeee.....hennnnnnnnn}
 {200}{}{Tschüß.}
 {201}{}{Skynet reist mit dem Menschen.}
 {202}{}{Ooooo......kaaaaaaay.}

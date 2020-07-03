@@ -43,7 +43,7 @@
 {129}{}{Hier ist dein Geld, Doc. Dann mal los.}
 {130}{}{Das können wir uns, glaub ich, im Moment nicht leisten. Tut mir leid, Doc, vielleicht
  ein anderes Mal.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{$100, was? Vielleicht lassen wir das später mal machen. Wiedersehn, Doc.}
 {132}{}{Sieht so aus, als ob es dir nicht allzu gut geht. Ich kann dein Leiden für $100 heilen.
  Willst du, daß ich es mal probiere?}
 {133}{}{Deinem Freund geht es aber gar nicht gut. Ich glaube, ich kann sein Leiden für $100
@@ -178,8 +178,9 @@
  was fragen, Doc.}
 {220}{}{Gut, ich wette, die Sache könnte ziemlich häßlich werden, wenn sie jemals Verdacht
  schöpfen. Na dann, Wiedersehn, Doc.}
-{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to be controlled
- by someone, eventually. I just want us to have the master that's going to do the best job for Redding.}
+{221}{}{Naja, jeder will einen Teil des Goldes hier in Redding, also werden wir über kurz oder
+ lang von irgend jemandem kontrolliert werden. Ich möchte nur, daß jemand über Redding
+ entscheidet, der das Beste für uns tut.}
 {222}{}{Und wer glaubst du, ist das?}
 {223}{}{So wie ich das sehe, hat Redding die beste Chance, wenn Vault City hier das Ruder
  übernimmt. Da komme ich her, ich habe also wahrscheinlich Vorurteile, aber ich glaube wirklich,

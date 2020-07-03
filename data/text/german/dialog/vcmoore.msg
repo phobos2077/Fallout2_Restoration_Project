@@ -122,7 +122,7 @@ in New Reno aus und er wird dir Zugang zu meinen Konten verschaffen.}
 {186}{}{Klingt aber verdammt nach Hochverrat.}
 {187}{}{Eine Schande ist das. Nun denn, auf Wiedersehen.}
 {188}{}{Wir könnten unsere Tore weit öffnen, und sie hereinbitten! Sie brauchen unsere Hilfe, doch NOCH IMMER verschließen wir unsere Augen.}
-{189}{}{Amen! Vault City's advanced technology should be shared, not hoarded.}
+{189}{}{Amen! Die fortschrittliche Technologie von Vault City sollte mit allen geteilt werden, nicht eifersüchtig gehortet!}
 {190}{}{Hmmm... ich weiß nicht. Uns geht's hier doch ziemlich gut. Brauchen wir die denn
  überhaupt? Letztendlich würden die unseren Lebensstandard verringern... und uns sogar
  verseuchen.}

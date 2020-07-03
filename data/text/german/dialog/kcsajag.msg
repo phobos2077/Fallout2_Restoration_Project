@@ -101,9 +101,7 @@
 {342}{}{Ich glaub, ich will doch nicht mir dir handeln.}
 {343}{}{Du hast Verbindungen mit Den. Komm schon - ich weiß, daß du einen besseren Deal machen kannst.}
 {350}{}{Naja, sie sagen, daß mannsgroße Wesen, die aussehen wie Wanzen und auf zwei Beinen gehen, die Brahmin mitten in der Nacht aufschlitzen. Nur Torr konnte sie mal genau ansehn. Gruselig, was?}
-{360}{}{Some say that there's a gigantic rat, the size of a Corvega, that rules over all the rats over
- in Trapper Town, west of here. They say that it lives in an old mine underneath Trapper Town and
- that all the other rats bring it any shiny objects that they find. (licks his lips) Mmm, shiny baubles.}
+{360}{}{Manche sagen, es gibt eine gigantische Ratte, so groß wie ein Corvega, die über alle Ratten in der Trapperstadt westlich hier herrscht. Sie soll in einem alten Bergwerk unterhalb Trapperstadt leben und die anderen Ratten bringen ihr alle glänzenden Objekte, die sie finden können. (Leckt sich die Lippen) Mmm, glänzende Bläschen.}
 {370}{}{Nun, westlich der Stadt gibt's einen Canyon. Vor ein paar Monaten kam ein helles Licht von dort und dann begannen Tiere zu verschwinden. Spuren führen in den Canyon, aber nicht wieder raus. Gruselig, was? Manche haben auch schon ein komisches Wimmern gehört, das von den Wänden des Canyon widerhallt.}
 {380}{}{Naja, Smiley war einer der besten Fallensteller, die es je gab. Eines Tages hat er Mrs. Buckner einfach verlassen. Er sagte, er wolle herausfinden, wo all die goldenen Geckos herkommen. Er glaubte, er werde reich, wenn er es schaffen könnte, sie zu finden. Aber er ist nicht zurückgekommen - und das ist jetzt auch schon ziemlich lang her.}
 {381}{}{Das ist ja wirklich unglaublich. Was gibt's sonst noch Neues in der Stadt.}

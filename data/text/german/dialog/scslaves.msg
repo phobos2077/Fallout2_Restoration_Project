@@ -22,7 +22,7 @@
 {118}{}{Freiheit! Süßer Segen der Freiheit!}
 {119}{}{Sieh nur, was du angerichtet hast - du hast mein Leben ruiniert!}
 {120}{}{Kann nicht stehenbleiben. Muß laufen. Sie dürfen mich nicht kriegen.}
-{121}{}{Shit! I'm doomed - they're gonna hunt me down and kill me.}
+{121}{}{Scheisse! Es ist um mich geschehen - sie werden mich kriegen und dann töten sie mich.}
 {122}{}{Wo soll ich jetzt hin? Was soll ich tun?}
 {123}{}{Danke vielmals. Jetzt geht's den Sklavenhändlern an den Kragen.}
 {124}{}{Ich kann's gar nicht glauben - ich bin frei!}

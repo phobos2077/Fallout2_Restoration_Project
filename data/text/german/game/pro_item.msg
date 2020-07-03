@@ -99,7 +99,7 @@
 {5000}{}{Reserveobjekt}
 {5001}{}{Dies ist ein Reserveobjekt. NICHT VERWENDEN.}
 {5100}{}{Dynamit}
-{5101}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer.}
+{5101}{}{Hochempfindlicher Sprengstoff aus Nitroglyzerin, vermischt mit Kieselguhr als Absorptionsmittel. Mit Timer.}
 {5200}{}{Geigerzähler}
 {5201}{}{Geigerzähler Wattz Electronics C-Radz. Ermittelt Existenz und Stärke von Strahlungsfeldern.}
 {5300}{}{Mentats}
@@ -159,7 +159,7 @@
 {8000}{}{Erste-Hilfe-Buch}
 {8001}{}{Lehrbuch über Theorie und Praxis der Ersten Hilfe.}
 {8100}{}{Leguan am Spieß}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Gebratener Leguan, in der Haut geröstet.}
 {8200}{}{Schlüssel}
 {8201}{}{Ein Schlüssel. Mit einem Schlüssel wird ein bestimmtes Schloß geöffnet.}
 {8300}{}{Schlüsselbund}
@@ -377,19 +377,19 @@
 {18900}{}{Spind}
 {18901}{}{Ein Spind.}
 {19000}{}{FEV-Disk}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Holoband mit medizinischen Informationen. Hiermit können Informationen in deinen Pip-Boy eingegeben werden.}
 {19100}{}{Sicherheits-CD}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Ein Holoband mit der Beschriftung "Sicherheitsprotokoll". Die darauf enthaltenen Daten können auf deinen Pip-Boy übertragen werden.}
 {19200}{}{Alpha-Experiment-Disk}
 {19201}{}{Die Beschriftung auf diesem Holoband heißt: "Protokoll Alpha-Experiment"}
 {19300}{}{Delta-Experiment-Disk}
 {19301}{}{Die Beschriftung auf diesem Holoband lautet: "Protokoll Delta-Experiment "}
 {19400}{}{Vrees Experiment-Disk}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Auf diesem Holoband wurden die neuesten medizinischen Erkenntnisse von Vree von der Brotherhood of Steel gespeichert. Die darauf enthaltenen Daten können auf deinen Pip-Boy übertragen werden.}
 {19500}{}{Ehrencodex der Brotherhood}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Ein Holoband mit einem groben Symbol der Brotherhood of Steel als Inschrift. Übertrage die darauf enthaltenen Daten auf deinen Pip-Boy.}
 {19600}{}{Mutantenübertragungen}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Dieses Holoband wurde wahrscheinlich dafür verwendet, Audiodaten von einem Funkgerät aufzuzeichnen. Übertrage die darauf enthaltenen Daten auf deinen Pip-Boy.}
 {19700}{}{Kiste}
 {19800}{}{Kiste}
 {19900}{}{Kiste}
@@ -401,7 +401,7 @@
 {20500}{}{Leuchtrakete}
 {20501}{}{Leuchtrakete. Erzeugt für kurze Zeit Licht. Das Papier ist etwas verwittert, ansonsten ist sie in gutem Zustand. Sie leuchtet.}
 {20600}{}{Dynamit}
-{20601}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer, which is ticking.}
+{20601}{}{Hochempfindlicher Sprengstoff aus Nitroglyzerin, vermischt mit Kieselguhr als Absorptionsmittel. Mit tickendem Timer.}
 {20700}{}{Geigerzähler}
 {20701}{}{Geigerzähler Wattz Electronics C-Radz. Ermittelt Existenz und Stärke von Strahlungsfeldern. Er ist eingeschaltet.}
 {20800}{}{Bewegungssensor}
@@ -419,7 +419,7 @@
 {21400}{}{Schreibtisch}
 {21401}{}{Ein Schreibtisch. Nach näherer Untersuchung entscheidest du, daß es immer noch ein Schreibtisch ist.}
 {21500}{}{Geschichte der Brotherhood}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Ein Holoband, das Informationen über die Brotherhood of Steel enthält. Kann zur Eingabe von Informationen in deinen Pip-Boy 2000 verwendet werden.}
 {21600}{}{Maxsons Geschichte}
 {21700}{}{Maxsons Tagebuch}
 {21800}{}{Leichte Heilung}
@@ -751,7 +751,7 @@
 {38600}{}{Louisville Slugger}
 {38601}{}{Dieser typisch amerikanische Baseballschläger aus Hartholz schlägt nicht nur den Ball weit übers Feld hinaus.    Mindest-ST: 4.}
 {38700}{}{M60}
-{38701}{}{This relatively light machine gun was prized by militaries around the world for its high rate of fire. This reliable, battlefield-proven design, was used on vehicles and for squad level fire-support. Min ST: 7.}
+{38701}{}{Dieses recht leichte Maschinengewehr wird von Militärs weltweit für seine große Schußkraft gelobt. Das verläßliche, kampferprobte Design wurde auf Fahrzeugen montiert und zum Feuerschutz für Schwadronen verwendet. Mindest-ST: 7.}
 {38800}{}{Nadelpistole}
 {38801}{}{Du vermutest, daß diese Bringham-Nadelpistole einst für wissen- schaftliche Feldstudien eingesetzt wurde. Ihre Munition besteht aus kleinen harten Kunststoffpfeilen. Mindest-ST: 3.}
 {38900}{}{Kleingeschütz Avenger}
@@ -855,7 +855,7 @@
 {43801}{}{Ein Schlüssel zur Tür des Tempels von Arroyo.}
 {43900}{}{Taschenfussel}
 {43901}{}{Fussel, die du in einer Tasche gefunden hast.}
-{44000}{}{Biomed Gel}
+{44000}{}{Biomed-Gel}
 {44001}{}{Eine Flasche Bio-Gel,   das in der Biomedizin eingesetzt wird.}
 {44100}{}{Blondies Dogtags}
 {44101}{}{Bei diesen Marken wurde der Name des Besitzers weggekratzt und der Name "Blondie" auf die Rückseite geschmiert. Unter dem Namen steht eine "11".}
@@ -894,7 +894,7 @@
 {45800}{}{M.B.-Holodisk 5}
 {45801}{}{Auf dem Etikett steht: Nachricht an CHQ - Vertraulich.}
 {45900}{}{M.B.-Holodisk 1}
-{45901}{}{The label reads: Radio transmission log checkpoint 1.}
+{45901}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am Kontrollpunkt 1.}
 {46000}{}{M.B.-Holodisk 2}
 {46001}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am zweiten Kontrollpunkt.}
 {46100}{}{M.B.-Holodisk 3}
@@ -920,7 +920,7 @@
 {47100}{}{Die Lavendelblüte}
 {47101}{}{Sieht nach einem Liebesroman von Dorothy Rixon aus. Auf dem Titelbild liegt eine Frau umgeben von Hunderten von Blüten auf einem Bett.}
 {47200}{}{Hubologen-Holodisk}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47201}{}{Auf dieser Holodisk steht "Hubologie: Die Wahrheit hinter den Lügen". Sie sieht aus, als würde sie mit deinem Pip-Boy funktionieren.}
 {47300}{}{Mutierter Zeh}
 {47301}{}{Du siehst deinen sechsten Zeh. Er ist ein kleiner mutierter Teil von dir. Aus unbestimmten Gründen empfindest du einen schrecklichen Verlust, als du den kleinen amputierten Zeh ansiehst.}
 {47400}{}{Gänseblümchen}
@@ -934,7 +934,7 @@
 {47800}{}{Sierra-Missions-Holodisk}
 {47801}{}{Auf dem Etikett steht: "Missionsbericht."}
 {47900}{}{NavCom-Teile}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Computerteile, die aussehen, als gehörten sie ins Innere eines Computers. Weil "Poseidon-Öl" und "Navigationscomputer" darauf steht, denkst du dir, daß sie in einen Poseidon-Öl Navigationscomputer passen könnten.}
 {48000}{}{Bonus +1 Beweglichkeit}
 {48100}{}{Bonus +1 Intelligenz}
 {48200}{}{Bonus +1 Stärke}

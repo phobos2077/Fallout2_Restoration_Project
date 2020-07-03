@@ -71,7 +71,7 @@
 {261}{}{Laß mich bitte in Ruhe. Ich gehöre bereits jemand anderem.}
 {262}{}{Ich bitte dich: hast du zwei Kinder gesehen, dunkles Haar…? Sie wurden von anderen Sklavenhändlern gefangen und nördlich von hier verkauft, ist so zwei Jahre her.}
 {263}{}{Bitte, es ist mir nicht gestattet mit jemanden zu reden.}
-{264}{}{Please... let me be. My master will be back soon.}
+{264}{}{Bitte... lass mich in Ruhe. Mein Meister wird bald zurück sein.}
 {265}{}{Wenn mich mein Meister erwischt, wie ich mit einem Sklavenhändler spreche, werde ich geschlagen.}
 {266}{}{Ich habe schon einen Meister. Sie wird nicht erfreut sein, wenn wir weiter miteinander reden.}
 {267}{}{Ich kann nicht mit Dir sprechen. Ich habe Verpflichtungen.}
@@ -88,7 +88,7 @@
 {287}{}{Wenn mich mein Meister erwischt, wie ich mit dir spreche, wird er mich schlagen.}
 {288}{}{Mein Meister ist gut. Er schlägt mich nicht oft.}
 {289}{}{Ich vermisse meine Familie nicht. Mein Meister ist nett.}
-{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
+{290}{}{Ich wurde von einem Stammesdorf nördlich von hier entführt. Das Leben hier ist viel... besser.}
 {291}{}{Ich wurde in Den gefangen.}
 {292}{}{Ich kann nicht mit Dir sprechen. Ich muß arbeiten.}
 {293}{}{Ich muss meine Pflichten erfüllen, bevor mein Meister zurück ist.}

@@ -10,7 +10,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{Mir egal. Bring mir die Spezialität des Hauses.}
-{109}{}{Gimme a beer.}
+{109}{}{Bring mir 'n Bier. }
 {110}{}{Informationen.}
 {111}{}{Ich such Arbeit.}
 {112}{}{Hey, du bist mir ja einer! So mag ich sie.}

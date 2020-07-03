@@ -58,7 +58,7 @@
 {304}{}{Naa-äh}
 {306}{}{Mach dich an die Arbeit.}
 {307}{}{Äh, nee danke. Hab's mir anders überlegt. Wiedersehn.}
-{320}{}{Aiight then...}
+{320}{}{In Ordnung also...}
 {321}{}{Äh-äh-äh}
 {330}{}{Ach, du SPIELST wohl nur mit T-Ray? Na gut. Abhauen, Alte...da hab ich bessere als dich an der Hand.}
 {331}{}{Kennste das (singt): "Time keeps on ticking, ticking, ticking...into the fuuuuture."}
@@ -77,7 +77,7 @@
 {365}{}{Hört sich gut an. Wir sehen uns dann später.}
 {375}{}{Du willst bei BISHOPS Angebot mithalten? Das ist ganz schön viel Kies, Mann. VERDAMMT viele Chips. Außerdem ist er einer der wichtigsten Männer in Reno mußte wissen. Wenn ich dem das Auto hier verschaffe, springt da auch sonst noch was raus.}
 {376}{}{Du willst bei BISHOPS Angebot mithalten? Das ist ganz schön viel Kies, Alte. VERDAMMT viele Chips. Außerdem ist er einer der wichtigsten Männer in Reno mußte wissen. Wenn ich dem das Auto hier verschaffe, springt da auch sonst noch was raus.}
-{377}{}{I'm listening...}
+{377}{}{Ich bin ganz Ohr...}
 {378}{}{Würden 1000 Chips deine Meinung ändern?}
 {379}{}{Würden 750 Chips deine Meinung ändern?}
 {380}{}{Würden 500 Chips deine Meinung ändern?}
@@ -155,7 +155,7 @@
 {631}{}{Also gut.}
 {632}{}{Tut mir leid, nur wenn's auch WIRKLICH geschäftlich ist. Bis dann, T-Ray.}
 {640}{}{Puhh, bist du scharf! Ich hab dir doch erst vor fünf Minuten gezeigt, was ich kann! Willst du mich UMBRINGEN?}
-{641}{}{Now, hold on...}
+{641}{}{Jetzt hör aber auf...}
 {642}{}{Los, ich muß mal nachladen und das kann ich nur mit DEINER heißen Liebe.}
 {643}{}{OK, in Ordnung. Von mir aus.}
 {650}{}{Nee danke, ich hab schon einen Hund zu füttern und ich will keinen Zwinger aufmachen. So wie du aussiehst, hast du gar nichts, was für mich von Wert sein könnte. Den Highwayman aufzumöbeln kostet dich 500 Chips, Punkt.}

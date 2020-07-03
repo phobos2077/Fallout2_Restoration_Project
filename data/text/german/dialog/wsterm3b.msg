@@ -91,7 +91,8 @@
 {166}{}{Ich kann dich hier nicht raustragen.}
 {167}{}{Skynet benötigt ein Transportmittel, um von hier wegzukommen.}
 {168}{}{Transportmittel? Das versteh ich nicht.}
-{169}{}{You need a way to transfer your program into a more mobile container, correct?}
+{169}{}{Du mußt dein Programm in ein Behältnis überführen, das sich besser transportieren läßt.
+ Richtig?}
 {170}{}{Ich will nichts damit zu tun haben.}
 {171}{}{Ein Behältnis, in dem Skynet von hier wegkommt.}
 {172}{}{Warum möchtest du denn weg von hier?}

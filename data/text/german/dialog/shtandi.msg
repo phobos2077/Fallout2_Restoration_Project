@@ -50,7 +50,7 @@
 {148}{}{Du wissen, wo Vault 13?}
 {149}{}{Ich nach GECK suchen. Du haben?}
 {150}{}{Was du erzählen über New Reno?}
-{151}{}{What you tell about Roger Westin?}
+{151}{}{Was du erzählen über Roger Westin?}
 {152}{}{Was du erzählen über Carlson?}
 {153}{}{Älteste erzählen Geschichte. Sprechen von Vaultbewohner, Tandi. Du diese Tandi?}
 {154}{}{Hier Schedisäns, von der Ältesten sprechen?}
@@ -60,7 +60,7 @@
 {158}{}{Do you know where Vault 13 is?}
 {159}{}{Ich such nach einem GECK. Du hast doch nicht zufällig eins?}
 {160}{}{Was kannst du mir über New Reno erzählen?}
-{161}{}{What can you tell me about Roger Westin?}
+{161}{}{Was weißt du über Roger Westin?}
 {162}{}{Was kannst du mir von Carlson erzählen?}
 {163}{}{Die Älteste erzählte vom Vaultbewohner und jemandem namens Tandi. Bist du etwa diese Tandi?}
 {164}{}{Ist das hier das Schedisänds, von dem die Älteste erzählt hat?}
@@ -75,7 +75,7 @@
 {173}{}{Mehr wissen müssen.}
 {174}{}{Bitte noch ein, zwei Fragen.}
 {175}{tand11}{Na, mach schon. Ich hab nicht den ganzen Tag Zeit.}
-{176}{}{Ok, me hurry.}
+{176}{}{OK, ich beeilen.}
 {177}{}{Ich versuch, mich zu beeilen.}
 {178}{tand12}{Dachte bei dem Anzug, den du da trägst, wüßtest du das.}
 {179}{}{Anzug schon lange in Dorf. Gehören Vaultbewohner, Stammesgründer.}
@@ -169,7 +169,7 @@
 {267}{}{Eins noch. Was, wenn ich dir sagen würde, daß ich Vault 13 gefunden habe?}
 {268}{}{Ich werd mit ihm reden. Tschau.}
 {269}{tand36}{Ohne Geld geht gar nichts, was? Na schön. Fünfhundert - sobald die Sache erledigt ist. Ich feilsche nicht, also überleg's dir. }
-{270}{}{Me take but me need ask questions.}
+{270}{}{Ich nehmen, aber müssen fragen.}
 {271}{}{Ich nix Interesse.}
 {272}{}{Ich nehm das Geld, aber ich brauche noch ein paar Informationen.}
 {273}{}{Kein Interesse.}
@@ -217,7 +217,7 @@ Vielleicht bist du ja der rechte Mann zur rechten Zeit. Suchst du vielleicht 'ne
 {314}{}{[Fertig]}
 {315}{tand14b}{Mein Vater und Seth haben jahrelang versucht, Vault 13 zu finden. Sie sind dabei umgekommen - sagten immer, er befinde sich westlich von hier. Wenn jemand Vault 13 finden würde, dann wär das noch viel besser als Vault 15. }
 {316}{}{Darüber mußt du mit meinem Sekretär Gunther reden.}
-{400}{}{Squatters want deal. You teach, you help, they give you vault.}
-{401}{}{The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
-{410}{}{As me said. Lowlifes there but me kick ass. Bye-bye.}
-{411}{}{As I mentioned before, there were some lowlifes there but I kicked their ass. See you around.}
+{400}{}{Siedler wollen Tausch. Du unterrichten und helfen, sie dir Vault lassen.}
+{401}{}{Die Siedler wollen einen Tausch. Du bringst ihnen bei, wie sie sich selbst versorgen können, und dafür gewähren sie dir Zutritt zur Vault.}
+{410}{}{Ich sagte. Penner da, aber ich hauen.}
+{411}{}{Wie ich bereits sagte, da waren so ein paar Penner, aber denen hab ich eins über die Rübe gegeben.}

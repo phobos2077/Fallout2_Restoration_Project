@@ -19,7 +19,7 @@
 {233}{}{Dein Vorschlag interessiert mich nicht... mein Freund. Wo ist hier das Problem?}
 {234}{}{Du hörst dich an wie ein Mann in Schwierigkeiten. Ich könnte dir vielleicht helfen.}
 {235}{}{Du siehst aus wie ein Mann, der seine Privatsphäre schätzt. Für so einen geschwätzigen Menschen wie mich könnte es ziemlich teuer werden, dich zu vergessen.}
-{236}{}{All right then... sorry to bother you.}
+{236}{}{Also, in Ordnung. Entschuldige die Störung.}
 {245}{}{Problem? Das Problem steht direkt vor mir.}
 {246}{}{Also, ich sag's nicht noch einmal, Kumpel: Geh.}
 {247}{}{Also, ich sag's nicht noch einmal, Schätzchen: Geh.}
@@ -40,7 +40,7 @@
 {284}{}{Ich glaube, du HAST ein Problem. Weißt du, durch diese Abgeschiedenheit ist es schwierig mitzubekommen, was hier unten vor sich geht. Vielleicht bring ich dich ja einfach um, hm?}
 {285}{}{Du siehst aus wie ein Mann in Schwierigkeiten und ich kann dir vielleicht helfen. Was sagst du?}
 {286}{}{Du siehst aus wie ein Mann, der seine Privatsphäre schätzt. Für so einen geschwätzigen Menschen wie mich könnte es ziemlich teuer werden, dich zu vergessen.}
-{287}{}{All right then... sorry to bother you.}
+{287}{}{Also, in Ordnung. Entschuldige die Störung.}
 {295}{}{Äh... hey, also... es ist, äh, nicht nötig, so zu reden. Vielleicht können wir über etwas ANDERES reden: wie sehr dein Freund dir helfen kann.}
 {296}{}{Ich bin interessiert. Red weiter.}
 {297}{}{Interessiert mich nicht. Ich verschwinde hier.}
@@ -130,7 +130,7 @@
 {615}{}{(Scheint außer Atem.) Als... Teil deiner... Aufgaben als Wache, wäre ich... dir sehr verbunden, wenn... du es ausgraben würdest.}
 {616}{}{Äh...}
 {617}{}{Es gibt auf dieser Welt zwei Sorten von Menschen, Lloyd. Die mit geladenen Pistolen und diejenigen, die graben.}
-{620}{}{All right then, I'll do it...}
+{620}{}{Also gut. Ich tu's...}
 {625}{}{(Lloyd murmelt leise vor sich hin, dann beginnt er zu graben.)}
 {626}{}{(Lloyd murmelt leise vor sich hin, dann beginnt er zu graben... vorsichtig. Kaum eine Minute später zieht er eine Landmine aus dem Dreck und legt sie beiseite. Er zuckt einfältig mit den Schultern.)}
 {627}{}{Geeee-nau. Du machst das fabelhaft. Mach weiter. Grab ein bißchen schneller.}

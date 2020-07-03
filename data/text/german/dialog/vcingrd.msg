@@ -9,7 +9,7 @@
 {108}{}{Umag Nak!?! Umag NAK!}
 {109}{}{Ich werde dafür sorgen, daß du gesund und munter auf dem Vorhof ankommst. Los, auf
  geht's.}
-{110}{}{Okay. Let's go.}
+{110}{}{OK, gehen wir.}
 {111}{}{Brog Frup}
 {112}{}{Ich find schon allein dahin.}
 {113}{}{Tut mir leid, ich habe meine Befehle. Ich muß dich zur anderen Seite des Tors bringen.}

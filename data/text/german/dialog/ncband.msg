@@ -60,7 +60,7 @@
 {921}{}{Gib mir den Kuß, der nie vergeht...}
 {923}{}{Gib mir, was nur du mir geben kannst}
 {925}{}{::Maultrommel::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Wiiiiiieder bei dir sein und duuuuu bei mir}
 {933}{}{Ohhhh}
 {935}{}{Ein Kuß, ein Augenblick}
 {937}{}{Der nie vorübergeht}

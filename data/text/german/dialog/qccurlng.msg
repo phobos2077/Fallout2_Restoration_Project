@@ -92,7 +92,8 @@
  Wiedererstarken der Menschheit auf dem Kontinent der Vereinigten Staaten. Gott schütze Amerika.}
 {173}{}{Das klingt nicht so, als ob man Jahrzehnte dafür benötigt.}
 {174}{}{Ich hab genug gehört. Ich möchte noch eine Frage stellen.}
-{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
+{175}{}{Ach, einen Vorposten aufzubauen würde nicht lange dauern. Das haben wir schon in Navarro
+ gemacht. Die Ausrottung dauert so lange.}
 {176}{}{Ausrottung?}
 {177}{}{Ja klar, wir können uns nicht aufs Festland zurückwagen, nur um dort wieder von den
  mutierten Fast-Menschen verseucht zu werden. Um die Vereinigten Staaten für die Menschheit
@@ -138,7 +139,10 @@
  modifizierte Version des Virus mit einigem Erfolg an einem unserer Geheimagenten ausprobiert
  habe.}
 {203}{}{Schön für dich, aber wie hängt das mit der Ausrottung von allen zusammen?}
-{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Ach ja, naja, ich wollte gerade erzählen... Die F.E.V.-Virusbindung ist gattungsabhängig,
+ es verbindet sich nur mit menschlichen Glycoproteinen. Es hat nur ein paar Jahre gedauert, das
+ F.E.V.-Virus noch tödlicher zu machen als es schon war. Das Ergebnis war genau richtig, absolut
+ perfekt. }
 {205}{}{Perfekt? Wie das?}
 {206}{}{Ist das nicht offensichtlich, mein mutierter Freund? Das F.E.V. ist dank mir ein
  tödliches Gift und dank eines rätselhaften Genies, der etwas dramatisch "Der Meister" genannt
@@ -206,7 +210,7 @@
  Reaktor herunterfährt.}
 {244}{}{Danke für die Informationen. Dein Opfer werden alle Völker der Erde für immer in Ehren halten.}
 {245}{}{Zeit, daß du zu Sinnen kommst, alter Schwachkopf. Jetzt beweg dich.}
-{246}{}{When the stars threw down their spears,}
+{246}{}{Als die Stern' die Speere senkten,}
 {247}{}{                                 Und mit Tränen Himmel tränkten,}
 {248}{}{                                  Freut' er da des Werkes sich?}
 {249}{}{                                     Schuf er, der auch das Lamm schuf, dich?}

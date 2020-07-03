@@ -24,5 +24,4 @@
 {290}{}{Während du den Safe nach einer Falle absuchst, löst du eine Explosion aus.}
 {291}{}{Du hast beim Entschärfen der Falle das falsche Kabel herausgezogen.}
 {300}{}{Du hörst einen gedämpften Knall von oben.}
-{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
- if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
+{400}{}{Du erspähst ein kleines Fach unten im Safe. Du hättest es wahrscheinlich nie gefunden, wenn dir Mrs. Bishop nichts davon erzählt hätte. In dem Fach ist ein seltsam aussehendes Zubehörteil für Pip-Boys.}

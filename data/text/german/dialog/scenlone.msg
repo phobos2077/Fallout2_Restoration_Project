@@ -27,7 +27,7 @@
 {126}{}{Nein, ich suche ein GECK.}
 {127}{}{Helfen? Wie?}
 {128}{}{Alles, was ich zu meinem Frieden im Geiste und sonstwo brauche, ist ein Raketenwerfer,}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"Wahre Erkenntnis"! Erkenn das! (Obszöne Geste)}
 {130}{}{Merk? Was will der denn?}
 {131}{}{Er will, daß du stirbst. Den Löffel abgibst. Ganz einfach.}
 {132}{}{Ich weiß nicht, was du ihm angetan hast. Jedenfalls hat er ein Kopfgeld auf dich ausgesetzt.}
@@ -95,7 +95,7 @@
 {194}{}{Ausgezeichnet. Hier ist der Brief. Kann ich noch irgend etwas für dich tun? Möchtest du vielleicht einen Zeta-Scan?}
 {195}{}{Einen Scan? Wieso eigentlich nicht?}
 {196}{}{Du hast schon genug getan. Mach's gut.}
-{197}{}{Then I've spoken too much already. Goodbye.}
+{197}{}{Dann habe ich bereits zuviel gesagt. Lebe wohl.}
 {198}{}{Ich grüße dich abermals. Wie kann die Kirche der Hubologen dir behilflich sein?}
 {199}{}{<Sabber (Geifer)>}
 {200}{}{Du bist also der Störfaktor, den Merk ausgeschaltet sehen möchte!}

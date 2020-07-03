@@ -398,9 +398,9 @@
 {20700}{}{Alte Matratze.}
 {20701}{}{Selbst wenn du allein auf dem Ding schlafen würdest, wärst du nicht einsam.}
 {20800}{}{Bett}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{Ein provisorisches Bett. Das Material wurde aus anderen Quellen zusammengesammelt.}
 {20900}{}{Bett}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{Ein provisorisches Bett. Das Material wurde aus anderen Quellen zusammengesammelt.}
 {21000}{}{Bett}
 {21001}{}{Dieses Bett hat schon bessere Tage gesehen (und Nächte wahrscheinlich auch).}
 {21100}{}{Bett}
@@ -2604,12 +2604,12 @@
 {169400}{}{Schatten}
 {169500}{}{Schatten}
 {169600}{}{Schatten}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Seltsame Maschine, abgestürzt}
+{169800}{}{Seltsame Maschine, abgestürzt}
+{169900}{}{Seltsame Maschine, abgestürzt}
+{170000}{}{Seltsame Maschine, abgestürzt}
+{170100}{}{Seltsame Maschine, abgestürzt}
+{170200}{}{Seltsame Maschine, abgestürzt}
 {170300}{}{Schatten}
 {170400}{}{Schatten}
 {170500}{}{Schatten}

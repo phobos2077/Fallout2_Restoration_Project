@@ -6,7 +6,7 @@
 {104}{}{Du schon wieder? Was willst du?}
 {105}{}{Was willst du?}
 {106}{}{Duh...}
-{107}{}{Me look Vault 13. You help?}
+{107}{}{Ich suchen Vault 13? Du helfen?}
 {108}{}{Ich suche Vault 13. Kannst du mir helfen?}
 {109}{}{Ich hab deine schmutzige Arbeit erledigt.}
 {110}{}{Böse Dinger kommen. Ich scheuch. Muh-Muhs sicher.}
@@ -66,7 +66,8 @@
 {153}{}{Ich weiß nicht, ob ich dir das glaube, aber hier ist dein Geld. Wenn du gelogen hast, finden meine Jungs dich. Ich wollte dir auch noch 'ne Auskunft geben, also: Ich habe allerhand über Tandi und den Vaultbewohner gehört. Anscheinend hat er ihr das Leben gerettet, lange bevor die NCR gegründet wurde. Also, die Legende besagt, daß er einen Vault östlich von hier gesucht hat. Wenn das nicht Vault 13 ist, findest du dort vielleicht einen Hinweis, wie du dahin kommst.}
 {154}{}{Ich tanke!}
 {155}{}{Danke.}
-{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{Die Erstbürgerin? Hervorragend, genau darauf hab ich gewartet. Bist du Bürger von
+ Vault City?}
 {157}{}{Ja.}
 {158}{}{Nein.}
 {159}{}{Bestimmt bist du ein guter Bürger, da bin ich mir sicher. Ich möchte dich bitten, diese

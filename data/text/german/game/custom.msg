@@ -37,5 +37,5 @@
 {600}{}{Ich bin sauber}
 {601}{}{Stimpaks, wenn etwas verletzt}
 {602}{}{Stimpaks, wenn schwer verletzt}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Gelegentlich irgendeine Droge}
+{604}{}{Jederzeit irgendeine Droge}

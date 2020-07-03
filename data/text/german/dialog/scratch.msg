@@ -17,7 +17,8 @@
 {113}{}{Na gut - du bist ja ganz schön schräg drauf! Ich mach meine Einkäufe besser woanders.}
 {114}{}{Laß mich dein Angebot noch mal ansehen.}
 {115}{}{Ich und Edna gehen jetzt wohl besser.}
-{116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
+{116}{}{Gott sei Dank hat der Fremde dich nicht gekauft, mein Kind... Meine Sachen sind wie
+ Kinder für mich, weißt du.}
 {117}{}{Ähm - selbstverständlich.}
 {118}{}{Ich geh dann wohl besser.}
 {119}{}{Ich kann alle möglichen Sachen reparieren. Hab mir 'n Gebläse geholt, das gute Stück

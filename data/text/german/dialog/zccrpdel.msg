@@ -86,7 +86,7 @@
 {613}{}{Drei - Don't Line-Wetten gewinnen.}
 {614}{}{Zwölf - Schiebt die Don't Line-Wetten.}
 {620}{}{Proposition-Wette 7}
-{621}{}{Prop bet double 3s}
+{621}{}{Propositions-Wette 3er Pasch}
 {622}{}{Proposition-Wette 4er Pasch}
 {623}{}{Proposition-Wette 5er Pasch}
 {624}{}{Proposition-Wette 2er Pasch}

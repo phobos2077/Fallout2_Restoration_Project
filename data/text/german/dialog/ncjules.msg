@@ -362,7 +362,7 @@
 {1362}{}{...Ich hab ein paar Typen gesehen, die haben es mitgenommen, gar nicht lange her. Aber das waren zu viele für mich und deswegen--}
 {1363}{}{Maul halten; bring mich dahin. Und zwar jetzt sofort.}
 {1364}{}{Macht nichts. Ich suche auch ohne deine Hilfe nach denen.}
-{1375}{}{Okay, okay...}
+{1375}{}{OK, OK.}
 {1376}{}{Ach, übrigens... Jules? Wenn du den Kleinen da drüben auch nur schief ANSIEHST, bring ich dich so oft um, daß du mehrere Testamente brauchst. Ist das klar? Und jetzt los.}
 {1377}{}{Noch was, Jules: Wenn ich höre, daß du was mit Cody angestellt hast, bring ich dich um. Jetzt bring mich zu meinem Auto.}
 {1378}{}{(Du folgst ihm.)}

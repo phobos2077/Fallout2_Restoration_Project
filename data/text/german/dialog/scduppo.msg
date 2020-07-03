@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen rotgesichtigen, freundlich dreinblickenden Mann.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{101}{}{Das ist Duppo, der Leiter des Viehzüchter-Verbandes.}
 {102}{}{Er ist korpulent, hat ein ständig rot angelaufenes Gesicht und dünnes blondes Haar auf dem Kopf. Beim Gehen hinkt er ein wenig.}
 {103}{}{Grüß dich, Fremder. Hab dich hier noch nie gesehen, du bist offenbar kein Rancher. Suchst du Arbeit, oder bist du hier um was zu kaufen?}
 {104}{}{Was darf's denn sein, Fremder?}

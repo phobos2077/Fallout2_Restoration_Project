@@ -15,7 +15,7 @@
 {223}{}{Du. Komm her.}
 {224}{}{Jau.}
 {225}{}{Hmmmm.}
-{226}{}{Well, well...}
+{226}{}{Sieh mal einer an...}
 {230}{}{Mir ist LANGWEILIG.}
 {231}{}{Sieht wie eine von Papis neuen Prostituierten aus…}
 {232}{}{Eine von Papis billigen Schlampen…}

@@ -406,7 +406,7 @@
 {2302}{}{OK, mach's gut.}
 {2303}{}{Keine Sorge, wir gehn jetzt.}
 {2304}{}{Wir denken, du Zeit brauchen, um alles zu verstehen. Groﬂvater Knochen sagen, du zu hektisch. Muﬂt Dingen im Leben Zeit lassen.}
-{2305}{}{We be movin' an' groovin'.}
+{2305}{}{Wir geh'n und fet'n.}
 {2306}{}{Wir jetzt hierhin gehen.}
 {2307}{}{Ganz ruhig bleiben, wir gehen jetzt.}
 {3000}{}{Nach Norden.}

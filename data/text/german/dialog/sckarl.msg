@@ -32,14 +32,17 @@
 {123}{}{Hab ich nicht von dir gehört? Ich glaub schon und das klang gar nicht übel. Ich kenne da
  ein paar Leute, die garantiert Verwendung für jemanden wie dich hätten. Geh einfach zum
  Autohändler rüber und frag nach Elise. Sag ihr, Karl hat dich geschickt und grüß sie von mir.}
-{124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
+{124}{}{Arbeit? Der Viehzüchter-Verband braucht dringend Wachleute. Die Gangster haben bei den
+ Viehtrieben wieder ziemlich heftig zugeschlagen. Und ich hab gehört, daß Präsidentin Tandi
+ jemand "Findigen" sucht, wie sie das ausdrückt. Ist dir damit geholfen?}
 {125}{}{Ja, ich hätte da schon noch ein paar Fragen.}
 {126}{}{Schon. Danke.}
 {127}{}{Das ist Offizier Jack, Fremdling. Einer von unseren Leuten. Du hast nicht zufällig mit
  Mira gesprochen, oder?}
 {128}{}{Ja.}
 {129}{}{Was für eine Mira?}
-{130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
+{130}{}{Dieser Dreckskerl! Seine Ranch liegt vor der Stadt. Nimm einfach die Straße Richtung
+ Viehzüchter-Verband.}
 {131}{}{Du magst ihn wohl nicht besonders.}
 {132}{}{Ja, ich hätte da schon noch ein paar Fragen.}
 {133}{}{Danke.}

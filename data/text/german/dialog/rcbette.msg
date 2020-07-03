@@ -88,8 +88,8 @@
  nach Hause zu Mami und sag ihr, du hattest nicht genug Mumm, um irgend etwas zu unternehmen.}
 {176}{}{Jetzt reicht's. Ich hab jetzt die Schnauze voll von deiner großen Klappe. Noch eine letzte Chance; hau jetzt friedlich ab, oder ich reiß dich in Stücke.}
 {177}{}{Vielleicht werde ich das einfach tun. Ich will ja keinem wehtun. Wiedersehn.}
-{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
- (to Caminetto) Right, my little fuckface?}
+{178}{}{Ich seh schon, wo der Hase im Pfeffer liegt, du kleines Stück Dreck. OK, du kannst mich mitnehmen und Caminetto auch.
+ (zu Caminetto) Richtig, du kleiner Schwachkopf?}
 {179}{}{Das hört sich schon besser an.}
 {180}{}{Nee, jetzt isses zu spät. Auf euch beide pell ich mir 'ne Wurst.}
 {181}{}{Ich denke Caminetto hat noch ein paar Tage Schonfrist.}

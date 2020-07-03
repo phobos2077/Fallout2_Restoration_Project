@@ -129,7 +129,7 @@
  flüstert dir eine aufregende männliche Stimme aus dem Einwurfschlitz zu.) *Du bist die
  faszinierendste Frau, die ich je gesehn hab. Willste dein Glück versuchen?*}
 {2282}{}{::Zwick dich selbst::}
-{2283}{}{Uh... hello?}
+{2283}{}{Äh... Hallo?}
 {2284}{}{::Hol tief Luft, geh weiter.:: }
 {2300}{}{*Ich bin immer noch hier, schöne Frau.* (Der Spielautomat senkt seine Stimme.) *Na komm 
  schon...willste 'n Spielchen wagen?*}

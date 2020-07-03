@@ -25,7 +25,7 @@
 {124}{}{Was soll das werden - eine Spendenaktion?}
 {125}{}{Ich bin Merk. Worum geht's?}
 {126}{}{Du schon wieder?}
-{127}{}{Well, keep it polite, punk, or this could get ugly.}
+{127}{}{Paß auf, was du sagt, oder es könnte sehr unerfreulich für dich werden.}
 {128}{}{Urt.}
 {129}{}{Ich such Arbeit.}
 {130}{}{Aus gewöhnlich gut unterrichteten Kreisen hört man, daß du der richtige Mann fürs Geschäftliche bist.}
@@ -95,7 +95,7 @@
 {194}{}{Je nun, ich bin Gelehrter. Wie lautet deine Frage?}
 {195}{}{Frage weiter.}
 {196}{}{Ich bin auf der Suche nach Vault 13.}
-{197}{}{Ever heard of a GECK?}
+{197}{}{Schon mal was von einem GECK gehört?}
 {198}{}{Was weißt über diese Gruppe namens Ranger?}
 {199}{}{Was kannst du mir über einen Typen namens Westin erzählen?}
 {200}{}{Ich suche nach Informationen über Vizepräsident Carlson.}
@@ -120,7 +120,7 @@
 {219}{}{Sieht wohl so aus, als würde ich dem Mann nie begegnen. Ich hab schon eine Menge über ihn gehört.}
 {220}{}{Das ist alles, was ich wissen wollte.}
 {221}{}{War's das?}
-{222}{}{No, I've got some more questions.}
+{222}{}{Nein, ich hab noch mehr Fragen.}
 {223}{}{Ja, das wär's fürs erste gewesen.}
 {224}{}{Man muß alles mal versuchen. Vault 13 ist hier der totale Kult. Sie haben sogar eine Statue für so einen Knaben aufgestellt, der angeblich von da stammt. Mehr kann ich dazu nicht sagen.}
 {225}{}{Ich hab dir eine Karte zu dem Zweck verkauft. Nimm einfach die.}
@@ -164,8 +164,8 @@
 {263}{}{Ich rede erst wieder mit dir, wenn der Job gemacht ist! Ich brauch die Unterlagen von Dr. Henry und zwar auf der Stelle, klar?}
 {264}{}{Nein, aber ich brauche ein paar Informationen.}
 {265}{}{Ich weiß ganz genau, daß Lennys Tod kein Unfall war, du Drecksack.}
-{266}{}{Hey, that map was a fake.}
-{267}{}{Well, what about the money I gave you.}
+{266}{}{Aber diese Karte war eine Fälschung.}
+{267}{}{Und wie ist das mit dem Geld, das ich dir gegeben habe?}
 {268}{}{Wie schon gesagt, es tut mir leid, daß es nicht geklappt hat.}
 {269}{}{Mein Vorschlag wäre der: Zum Ausgleich für den ganzen Ärger, den ich hatte, puste ich dir mit dieser Kugel hier das Hirn weg.}
 {270}{}{Hmmpfh.}

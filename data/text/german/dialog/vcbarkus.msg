@@ -131,7 +131,7 @@
  restlichen Außenweltlern in den Vorhof gebracht.}
 {203}{}{Danke. Ich hätte da noch ein paar Fragen...}
 {204}{}{Sehr schön. Dann geh ich ihn jetzt da abholen.}
-{205}{}{Sounds good. Hopefully, he won't make his way back into the city.}
+{205}{}{Klingt gut. Hoffentlich schlüpft er nicht wieder irgendwie in die Stadt rein.}
 {206}{}{Tatsächlich? Weißt du nicht, daß alle Diener sorgfältig überprüft werden, bevor sie in
  das Zuteilungszentrum eingelassen werden?}
 {207}{}{Vielleicht irre ich mich. Aber ich möchte trotzdem über seine Freilassung verhandeln.}
@@ -190,7 +190,8 @@
 {244}{}{Nein, der Junge sieht so aus, als ob er schwierig auszubilden wäre...200 oder gar nichts.}
 {245}{}{Überleg mal. Das wird 'ne ganze Woche dauern, den Geruch von dem Sippenhannes hier
  wegzukriegen. 100 oder vergiß es.}
-{246}{}{You can't even promise me that he won't have a heart attack once he leaves your care. He's old. 100 or nothing.}
+{246}{}{Wer garantiert mir, daß er nicht in 10 Minuten einen Herzinfarkt kriegt? Er ist alt.
+ 100 oder gar nichts.}
 {247}{}{OK, das ist fair. Der Diener gehört dir.}
 {248}{}{Dann vergiß es. Ich hab da noch ein paar Fragen an dich...}
 {249}{}{Dann wird nichts draus. Kann mir nicht leisten, meinen Diener für den Preis abzustoßen.

@@ -56,7 +56,7 @@
 {309}{}{Du verkaufst Drogen? Zum Beispiel an Wrights Sohn?}
 {310}{}{Mach wieder dort weiter, wo du aufgehört hast.}
 {320}{}{(Renesco schaut dich wütend an. Es sieht so aus, als würde er dich gedanklich ausziehen und dann in Stücke reißen.)}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{Dann vergiß es. Ich hätte da noch ein paar Fragen...}
 {322}{}{Macht nichts.}
 {330}{}{(Renesco schaut dich angewidert an.) Ja. Im LADEN. Wir leben hier nicht im zwanzigsten Jahrhundert, wo Drogen von Ungeziefer an der Straßenecke verkauft wird, das in ständiger Angst vor den Autoritäten lebt.}
 {331}{}{Gut, also -}
@@ -163,7 +163,7 @@
 {632}{}{Du hörst dich wie ein gebildeter Mensch an. Hast du schon mal von einem GECK oder einem Ort namens Vault 13 gehört?}
 {634}{}{Nichts, egal. }
 {640}{}{(Renesco schnappt sich die Brille und setzt sie auf. Seine Augen weiten sich.) Heiliges Reno! SO sieht also dieser verdammte Laden aus. (Runzelt die Stirn.) Was für eine Unordnung... und was ist das in den Regalen? Sieht wie Brahminmist aus.}
-{641}{}{You're welcome...}
+{641}{}{Gern geschehen...}
 {642}{}{Genieß es. }
 {650}{}{Hmppff! Ich... hmmm... äh... woher hast du die?}
 {651}{}{Also, da war dieser kleine Radskorpion, und dieser Wissenschaftler dressierte ihn, und... weißt du was? Das glaub nicht mal ich. Behalt sie einfach, OK?}
@@ -174,8 +174,8 @@
 {671}{}{Wie wär's mit einem Preisnachlaß?}
 {672}{}{Jaja, egal... trag sie einfach und bleib gesund damit, okay? Ich hatte noch ein paar andere Fragen...}
 {673}{}{Eines Tages, und dieser Tag wird vielleicht nie kommen, werde ich dich bitten, mir dafür einen Gefallen zu tun. Bis dahin betrachte diese Brille als ein Geschenk zum Hochzeitstag meiner Tochter. }
-{680}{}{Ehhh...}
-{681}{}{Errr...}
+{680}{}{Ähhh...}
+{681}{}{Ähh...}
 {682}{}{Also...}
 {683}{}{Okay! Okay! Ich gewähre dir einen Preisnachlaß! Hmpfff.}
 {684}{}{Komm schon. Nur ein kleiner Nachlaß. Komm...}

@@ -84,8 +84,8 @@
 {282}{}{OK, ich nehm die Disk. Ich kann sie bestimmt an die richtige Stelle weitergeben. Tschüß.}
 {290}{}{Hmpf, ich brauch keine Hilfe von dir. Du bist doch bloß einer von den Sippen.}
 {291}{}{Anscheinend leben nicht alle Heuchler in Vault City, oder, Gordie, alter Junge? Tschüß.}
-{300}{}{Our atomic power plant is still barely operational. You must not take the information to
- Vault City yet.}
+{300}{}{Unser Atomkraftwerk steht immer noch kurz vor dem Zusammenbruch. Du hast wohl noch
+ niemanden in Vault City informiert.}
 {301}{}{Ich kann mir nicht vorstellen, daß sie in Vault City besonders an Informationen von
  Ghuls interessiert sind.}
 {302}{}{Nein, hab ich noch nicht... aber ich werd's tun. Tschüß.}

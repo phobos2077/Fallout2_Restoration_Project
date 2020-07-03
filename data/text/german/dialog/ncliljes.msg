@@ -187,7 +187,7 @@
 {862}{}{Versuch's und schau, was passiert, LITTLE Jesus.}
 {863}{}{Versuch's und ich werd dir so viele Kratzer ins Gesicht machen, daß du aussiehst wie ein Puzzle.}
 {864}{}{Beruhig dich... hab nur Spaß gemacht.}
-{865}{}{Chill. I had some other questions...}
+{865}{}{Beruhig dich. Ich hab da noch ein paar andere Fragen...}
 {867}{}{Ich gehe. Hat Spaß gemacht mit einem kultivierten Menschen wie dir zu sprechen.}
 {880}{}{Ha! Du bist in Ordnung, Chica. Du bist in Ordnung. Lil' Jesus wird ein Auge auf dich haben... nicht, daß ich das müßte. Was kann ich für dich tun?}
 {881}{}{Das erste, was du tun kannst, ist, deine Augen bei dir zu behalten, LITTLE Jesus. Ich werd eher Felsen schleppen, als diese Kraterlandschaft anzufassen, die du Gesicht nennst.}
@@ -225,7 +225,7 @@
 {951}{}{Ach, ja? Die Mordinos sind die größten Jet-Händler in New Reno. Das macht euch zu den Hauptverdächtigen.}
 {952}{}{Ich glaub dir nicht. Ich glaube, du BIST der Verantwortliche. Du und der Rest der Mordinos.}
 {953}{}{Wer, glaubst du, könnte das getan haben?}
-{954}{}{Okay... look, I had some other questions...}
+{954}{}{OK... Also, ich hab da noch ein paar Fragen...}
 {955}{}{Also, in Ordnung. War nur 'ne Frage.}
 {965}{}{(Augen verengen sich.) Hör zu, ich hatte NICHTS mit dem Tod des Jungen zu tun. Ich weiß nicht, was du gehört hast, aber wenn ich den Jungen getötet hätte, hätte ich ihn in Stücke zerlegt und nicht an Jet draufgehen lassen, klar?}
 {966}{}{Ja, na und? Daß man uns die Schuld in die Schuhe schiebt, heißt nicht, daß wir es WAREN. Der kleine Kacker hat zuviel genommen. Mir tut sein Tod nicht leid. Und wenn der alte Wright draufgeht, werden wir ihn neben seinem Junkie-Sohn begraben.}
@@ -275,7 +275,7 @@
 {1054}{}{Ich gebe dir hundert Chips.}
 {1055}{}{Ich gebe dir zweihundert Chips.}
 {1056}{}{Meine Art zu lieben ist auch eine Kunst. Wollen wir einen Tauschhandel machen?}
-{1058}{}{Actually, I had some questions...}
+{1058}{}{Eigentlich hatte ich noch mehr Fragen...}
 {1059}{}{Ein andermal dann... wenn ich genügend Chips habe, um deine Meinung zu ändern.}
 {1060}{}{Vielleicht ein andermal, danke.}
 {1070}{}{Hmmmmm. 200, und der Handel ist perfekt.}

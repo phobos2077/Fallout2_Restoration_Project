@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{Pro-Konsul Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Assistenzärztin Phyllis}
 {219}{}{Randal}
 {220}{}{Glibber}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Wolf}
 {444}{}{Generator}
 {445}{}{Tür}
-{446}{}{Super mutant}
+{446}{}{Supermutant}
 {447}{}{Salvatores Mann}
 {448}{}{Bishops Mann}
 {449}{}{Mordinos Mann}
@@ -503,7 +503,7 @@
 {603}{}{Hausbesetzer}
 {604}{}{Sklavenbefreier}
 {605}{}{Schmuggler}
-{606}{}{Super mutant}
+{606}{}{Supermutant}
 {607}{}{Fischer}
 {608}{}{Sklavenhändler}
 {609}{}{Fallensteller}
@@ -715,7 +715,7 @@
 {815}{}{Map Script}
 {816}{}{Vorpal-Ratte}
 {817}{}{Hund}
-{818}{}{Drill Sergeant}
+{818}{}{Ausbildungsfeldwebel}
 {819}{}{Wächter}
 {820}{}{Facharbeiter}
 {821}{}{Kommandant}
@@ -1033,8 +1033,8 @@
 {1133}{}{Vertibird}
 {1134}{}{Salvatore-Wache}
 {1135}{}{Salvatore-Wache}
-{1136}{}{Soldier}
-{1137}{}{Soldier}
+{1136}{}{Soldat}
+{1137}{}{Soldat}
 {1138}{}{Kiste}
 {1139}{}{Mr. Handy}
 {1140}{}{Salvatore-Wache}

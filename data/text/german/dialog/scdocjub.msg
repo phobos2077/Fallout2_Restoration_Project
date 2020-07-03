@@ -28,7 +28,7 @@
 {127}{}{Schieß los.}
 {128}{}{Vault 13?}
 {129}{}{Hast du eine Ahnung, wo man Vault 13 finden könnte?}
-{130}{}{I heard somebody saying Mr. Westin's not well. That true? I'm worried something might happen to him. He owes me money.}
+{130}{}{Ich hab gehört, Mr. Westin geht's nicht allzu gut. Stimmt das? Ich mach mir Sorgen, daß ihm etwas zustoßen könnte. Er schuldet mir Geld.}
 {131}{}{Es gibt da diesen Typ, diesen Pökel. Der behauptet, du hast ihm eine Karte geklaut. Was hat es damit auf sich?}
 {132}{}{Ich suche Arbeit. Weißt du was für mich?}
 {133}{}{Du weißt nicht zufällig etwas von einer Gruppe, die gegen diese finsteren Sklavenhändler kämpft, Doktor?}

@@ -66,7 +66,7 @@
 {514}{}{Nicht schlecht.}
 {515}{}{Wie ist das denn passiert?}
 {516}{}{Hoppla.}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Keine Einsätze mehr, Stop!}
 {518}{}{Das Spiel macht seinem Namen Ehre.}
 {519}{}{Ich brauche nur einen dicken Gewinn.}
 {520}{}{Zahlen!}

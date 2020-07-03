@@ -37,7 +37,7 @@
 {160}{}{Du solltest hier drinnen besser aufpassen.}
 {161}{}{Willkommen im Kontrollbereich.}
 {162}{}{Nichts anfassen hier drinnen.}
-{163}{}{If something goes wrong in there, we'll come looking for you.}
+{163}{}{Wenn da drin was passiert, kommen wir dich holen.}
 {164}{}{Wenn's Probleme gibt, bist du schuld.}
 {170}{}{Etwas überrascht, eine Glatthaut wie dich hier zu sehen.}
 {171}{}{Sieht so aus, als wenn du hier drinnen langsam braun wirst.}

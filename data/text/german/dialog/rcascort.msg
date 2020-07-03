@@ -213,8 +213,8 @@
 {269}{}{Vielleicht spaziere ich da mal hoch und spreche mit den beiden. Danke, Bürgermeister. Wiedersehn.}
 {270}{}{In der letzten Zeit sind wir immer langsamer geworden mit unseren Goldlieferungen, weil die Bergarbeiter zuviel Zeit damit verbringen, sich mit
  Jet vollzupumpen.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
+{271}{}{Fast alle Bergarbeiter verbringen mehr Zeit damit, auf Jet zu fliegen, als Gold abzubauen... also sind unsere Preise
+ hoch und unsere Exporte sind dürftig. Ganz schlecht für das Geschlecht, wie man's auch betrachtet.}
 {272}{}{Eigentlich sind alle zu high von Jet, um zu arbeiten. Wir machen nur noch ein Zehntel unserer
  regulären Goldlieferungen und dadurch ist der Preis enorm hoch. Das kann so nicht weitergehen.}
 {273}{}{Sieht so aus, als ob alle eine schlechte Jet-Lieferung bekommen haben. Alle Jet-Süchtigen durchlaufen im Moment

@@ -49,13 +49,13 @@
 {401}{}{Mal sehen...mir ist schlecht...Herzrasen...Fieber. Höchstwahrscheinlich Gift.}
 {402}{}{Ah...kann...nicht...mehr...länger...Gift...breitet...aus...}
 {403}{}{Könnte vielleicht mal jemand dieses Gift raussaugen?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
+{410}{}{Bin ich das, der hier strahlt? Wenn wir das nächste Mal in verstrahlten Zonen rumlaufen, gebt ihr mir etwas Rad-X, OK?}
+{411}{}{Ich brauche eine Dosis RadAway, bevor mir die Strahlung alles wegfrißt.}
 {412}{}{Warum trinken wir nächstes Mal nicht einfach den radioaktiven Glibber? Dann sterben wir wenigstens schneller!}
 {413}{}{Mit der Strahlung in meinem Körper könnte ich ganz New Reno mit Strom versorgen. Willst du meinen Stromstecker sehen?}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
+{414}{}{Ich strahle heller als New Reno bei Mitternacht. Hat jemand eine Dosis RadAway?}
 {415}{}{Toll. Ein bißchen Strahlung, und ich bin eine menschliche Taschenlampe.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
+{416}{}{Jemand soll mich das RadAway halten lassen. Ich nehme nicht alles. Ich versprech's.}
 {425}{}{Warum gehen wir nicht zurück auf die erste Ebene des Kerkers, in dem die ganzen Kobolde sind?}
 {426}{}{Zum Glück hab ich die ganzen Jahre über D&D gespielt und dadurch gelernt, was Mut bedeutet.}
 {427}{}{Reich mir mal das Buffout. Ich hab das Gefühl, ich werde es bald brauchen.}
@@ -198,7 +198,7 @@
 {683}{}{Ich sehe schon, wohin das führt. Vergiß es, Myron.}
 {690}{myn109}{Naja, als ich damals zufällig die Mordino-Familie kennenlernte, bauten die Peyote-Kakteen an und versuchten, sie als das "Reno-Erlebnis" an Touristen zu verkaufen. Totaler Schwachsinn...}
 {691}{}{Ja?}
-{692}{}{Forget this. I had some other questions...}
+{692}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
 {693}{}{Vergiß, daß ich es erwähnt habe.}
 {700}{myn110}{Ich mein, Peyote? Also echt. Das ist ja nicht mal halb so stark wie, was weiß ich, das gute alte LSD.}
 {701}{}{Äh, das mit dem Jet -?}
@@ -261,7 +261,7 @@
 {882}{}{Myron, du bist weniger wert als ein Staubkorn. Tötest Menschen, um Drogen zu testen...das ist das Mieseste, was ich je gehört habe.}
 {883}{}{Myron, du hast mehr als hundert Menschen getötet, nur um Drogen zu testen? Hat man bei dir als Kind das Gewissen herausoperiert?}
 {884}{}{Wem sagst du das. Die Sklavenpreise steigen ständig. Wenn Menschen sich doch nur schneller vermehren würden. Aber mal was anderes, ich hätte da noch ein paar Fragen...}
-{885}{}{I... see. Look, I had some other questions...}
+{885}{}{Verstehe... Hör zu, ich hätte noch ein paar andere Fragen...}
 {886}{}{Ich glaube, ich habe genug gehört.}
 {887}{}{Ach so, na DANN ist es ja in Ordnung. Ich habe genug gehört. Ich geh dann mal.}
 {890}{myn128}{Du steigst mir wegen 'n paar Sklaven aufs Dach? He, Mann, wir mußten dafür sorgen, daß Jet unsere Kunden nicht umbringt.}
@@ -276,7 +276,7 @@
 {911}{}{Im Grunde genommen ist es ein hochgradig süchtig machendes Metamphetamin, stimmt's? Könnte man die Sucht nicht mit einem Beruhigungsmittel für das Nervensystem durchbrechen?}
 {913}{}{Egal, Myron. Vergiß die Frage.}
 {920}{myn131}{Nee, ist nicht drin. Jet läßt sich nicht so leicht aufhalten. Hast du's mal im Körper drin, kriegst du's nicht mehr raus.}
-{921}{}{What about using some kind of endorphin blocker? That would repress the chemical and psychological addiction, wouldn't it?}
+{921}{}{Wie wäre es mit einer Art Endorphinblocker? Das würde die chemische und psychologische Abhängigkeit unterdrücken, oder?}
 {924}{}{Na, dann egal.}
 {930}{myn132}{Grundgütiger! Das ist ja wohl das Dümmste... }
 {931}{}{Also?}
@@ -322,7 +322,7 @@
 {1050}{myn145a}{Dazu brauch ich erst ein paar Radskorpion-Giftbeutel. Irgendwie paradox, was?}
 {1051}{myn145b}{Tja, wär mir ein Vergnügen, meine Süße, aber dazu brauch ich Radskorpionschwänze. So 'n Pech!}
 {1052}{}{Kannst du auch noch andere Drogen herstellen?}
-{1053}{}{Forget it then. I had some questions...}
+{1053}{}{Dann vergiß es. Ich hätte da noch ein paar andere Fragen...}
 {1060}{myn146a}{Sollte kein Problem sein. Wie viele Flaschen Gegenmittel willste? }
 {1061}{myn146b}{Das gibt's doch nicht...haste schon mal dran gedacht, daß es vielleicht einfacher wäre, sich gleich von den linken Skorpionen fernzuhalten, du Superhirn? Wie viele brauchste denn diesmal?!}
 {1062}{myn146c}{Für dich tu ich doch alles, Süße. Wie viele willste?}
@@ -337,7 +337,7 @@
 {1085}{}{Danke. Hör mal, ich hätte da noch ein paar andere Fragen...}
 {1086}{}{Danke, Myron. Du bist ein echter Kumpel.}
 {1095}{myn148}{Sorry, aber ich hab nicht die nötigen...."Grundzutaten". Und ich hab auch keinen Bock, sie zu besorgen.}
-{1097}{}{Forget it then. I had some other questions...}
+{1097}{}{Dann vergiss es. Ich hätte da noch ein paar weitere Fragen...}
 {1098}{}{OK. Tausend Dank, Myron.}
 {1105}{myn149a}{Megasimpel. Wie viele willste?}
 {1106}{myn149b}{He, Superhirn. Haste schon mal dran gedacht, daß es vielleicht einfacher wäre, dem Ärger gleich aus dem Weg zu gehen? OK, wie viele?}
@@ -548,7 +548,7 @@
 {1675}{myn240}{Fragen. Die Antwort lautet 'Ja, vielleicht'. Sag mal, woher weißt du das überhaupt alles? Bist du aus Vault City oder so?}
 {1676}{}{Um deine Frage zu beantworten, Ja...VIELLEICHT. Wo hast DU das alles eigentlich gelernt?}
 {1677}{}{Nicht ganz. Mir fliegen solche Dinge einfach zu. Es ist eigentlich ziemlich simpel.}
-{1678}{}{No. Look, I had some other questions...}
+{1678}{}{Nein. Sieh mal, ich hätte da noch andere Fragen...}
 {1679}{}{Vault City. Wo ist denn das?}
 {1680}{}{Das kannst du dich jetzt für den Rest deines Lebens fragen. Du hast mir alles gesagt, was ich wissen wollte.}
 {1685}{myn241a}{Du nimmst den Mund ganz schön voll, du Klugscheißer. Ich könnte dich hier wegoxidieren. Ich bin ein Naturtalent. Hab mir alles selbst beigebracht. Nicht diesen ganzen Reinheitsmist aus Vault City, verstehste?}

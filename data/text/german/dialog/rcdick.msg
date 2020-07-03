@@ -56,7 +56,8 @@
 {140}{}{Was heißt Ata-Baske?}
 {141}{}{Was ist mit dir los?}
 {142}{}{Was ist mit dir passiert?}
-{143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
+{143}{}{Ich arbeite ab und zu 'ne Runde hier in der Morningstar. Die können immer 'ne
+ qualifizierte Kraft gebrauchen.}
 {144}{}{Laß mich dich noch etwas fragen.}
 {145}{}{Ich verstehe. Tja, das ist alles, was ich wissen wollte. Wiedersehn.}
 {146}{}{Naja, nicht viel, nur die Sache mit diesen vermaledeiten Wanamingos.}

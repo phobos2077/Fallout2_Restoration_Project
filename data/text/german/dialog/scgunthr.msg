@@ -19,7 +19,8 @@
 {116}{}{Die Arbeit der Präsident ist nichts für dich!}
 {117}{}{Nein?}
 {118}{}{Oh. Na gut.}
-{119}{}{Right. I'm not sure that's what she's looking for. Oh well, she said send them all in. You go. Talk Tandi now.}
+{119}{}{So, so. Ich weiß nicht, ob es das ist, was sie benötigt. Na ja, sie hat gesagt, ich soll
+ jeden reinschicken.Du gehen hinein. Jetzt Tandi reden.}
 {120}{}{NEIN! Du bist dumm. Präsident muß schlau sein, muß reden können. Du kein Präsident.}
 {121}{}{Oh. Was ich machen?}
 {122}{}{Ich dich nix mögen. Du schreien. Du böse.}
@@ -31,7 +32,7 @@
 {127}{}{Die Präsidentin ist nicht mehr zu Gesprächen über Vault 13 bereit. Tut mir leid. Sie hat
  viel zu tun und kann sich unmöglich mit jedem dahergelaufenen Glücksritter beschäftigen.}
 {128}{}{Was? Kapier ich nicht.}
-{129}{}{What about a GECK? She might know something about that?}
+{129}{}{Und über das GECK, weiß sie darüber vielleicht was?}
 {130}{}{Da war von einer Arbeit die Rede.}
 {131}{}{Das hat alles keinen Sinn. Ich gehe.}
 {132}{}{Dann würde ich vorschlagen, daß du dir die Gedenktafel an der Statue draußen durchliest.
@@ -96,4 +97,4 @@
 {501}{}{Ich muß dich auffordern zu gehen.}
 {502}{}{Das ist meine letzte Warnung. Geh, oder ich laß dich entfernen.}
 {503}{}{Wache, schafft mir dieses Ungeziefer vom Hals.}
-{510}{}{Nun, warte einen Moment. Ich muss mit deinem Chef noch über Bunker 15 sprechen.}
+{510}{}{Nun, warte einen Moment. Ich muss mit deinem Chef noch über Vault 15 sprechen.}

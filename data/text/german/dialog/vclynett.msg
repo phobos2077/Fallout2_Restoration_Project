@@ -268,7 +268,7 @@
 {367}{}{Ich muß die Vault finden, aus die meine Leute stammen.}
 {368}{}{Ich brauche ein Garden-Eden-Creation-Kit. Hast du eins?}
 {369}{}{Ach, und damit bin ich jetzt in eurer Stadt willkommen? Vergiß es, ich bleib keine Sekunde länger hier.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
+{370}{}{Du hast ja keine Ahnung... aber ich erzähl dir ein andermal vom Tempel der Erprobungen. Wiedersehn.}
 {371}{lyn051}{Ich geb dir ein Chance, die nur wenige Outsider kriegen. Du kannst den Test machen, wenn du willst. Aber uns aus dieser Situation zu helfen, könnte sich als lohnenswerter herausstellen. Verstehen wir uns?}
 {372}{}{Na gut. Was für eine Situation denn?}
 {373}{}{Verstehe. Was immer die Vault auch brauchen, werde ich pflichtschuldigst ausführen.}
@@ -294,8 +294,8 @@
 {393}{}{Ich habe mehr über die Gangster herausgefunden, die die Stadt angegriffen haben.}
 {394}{}{Ich hab etwas in Bishops Safe gefunden, das dich interessieren könnte.}
 {395}{}{Dr. Troy ist da glaub ich in eine illegale Sache verwickelt.}
-{396}{}{I must speak with you on the delivery of that holodisk.}
-{397}{}{I've changed my mind. I will deliver that holodisk to the Counselor in the NCR.}
+{396}{}{Ich muß mal mit dir über die Übergabe der Holodisk reden.}
+{397}{}{Ich hab's mir anders überlegt. Ich überbring die Holodisk an den Berater in NCR.}
 {398}{}{Tut mir leid, daß ich euch gestört habe.}
 {399}{lyn054a}{Natürlich. Wie kann ich dir helfen, Bürger?}
 {400}{lyn054b}{Natürlich. Wie kann ich dir helfen, Hauptmann?}
@@ -609,8 +609,7 @@
 {708}{}{Ich hab sie erledigt. Sie haben sich in ein paar Höhlen am Fuß der Berge im Süden versteckt.}
 {709}{}{Eigentlich weiß ich gar nicht so viel.}
 {710}{}{Danke für das Geld, Ich muß jetzt gehen.}
-{711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,
- Roger Westin. Give him the holodisk. That should insure that no more "raiders" get hired.}
+{711}{lyn119}{Du mußt sofort in die New California Republic gehen und den Stadtrat Westin suchen, Roger Westin. Gib ihm die Holodisk. Dann werden keine "Raider" mehr angeheuert.}
 {712}{}{Oh... weißt du's noch nicht? Westin ist tot. Er hatte einen Unfall. Einen tödlichen Unfall. Das ist eine lange Geschichte.}
 {713}{}{Augenblick mal. In die NCR? Sind die nicht für alles verantwortlich?}
 {714}{}{Alles klar, mach ich.}
@@ -629,7 +628,7 @@
 {727}{lyn122}{Roger Westin ist wahrscheinlich der einzig ehrliche Mann in der Neuen Republik. Er setzt sich für unsere Sache ein.}
 {728}{}{Alles klar, ich bring ihm die Disk.}
 {729}{}{Nein danke. Im Moment hab ich zu viel zu tun.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{730}{lyn123}{Dein Patriotismus wird nicht unbelohnt bleiben. Und jetzt beeil dich. Die Zeit drängt.}
 {731}{}{Bevor ich gehe, hätte ich da noch ein paar Fragen...}
 {732}{}{Ich bin dabei.}
 {733}{}{Du kannst auf mich zählen, Erstbürgerin. Ich komme wieder, wenn ich Westin die Disk gebracht habe.}

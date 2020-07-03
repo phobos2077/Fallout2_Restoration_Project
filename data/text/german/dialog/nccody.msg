@@ -85,8 +85,8 @@
 {382}{}{Was, Cody? Was hast du gerade gesagt?}
 {390}{}{(Cody blinzelt, dann nuschelt er wieder. Du kannst es kaum verstehen, aber es hört sich an wie "Danke".)}
 {391}{}{(Cody blinzelt, dann nuschelt er wieder. Du kannst es kaum verstehen, aber es hört sich an wie "Verpiss dich".)}
-{392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world.}
-{393}{}{ME KILL YOU ME KILL YOU}
+{392}{}{Dankeschön Codee. Ohne EN-PEE-CEEs wie dich, wäre ich in einer SEHR langweiligen Welt.}
+{393}{}{ICH DICH TÖTEN  ICH DICH TÖTEN}
 {394}{}{Hey, kein Problem, Cody. Die Welt zu retten liegt mir scheinbar im Blut. Pass jetzt auf, hörst du?}
 {395}{}{Du kleiner Hosenscheißer! Ich werde dich töten! Ich werde dich töten --!}
 {1204}{}{ traurig. Du gesehen }

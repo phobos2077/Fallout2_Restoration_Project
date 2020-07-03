@@ -8,13 +8,13 @@
 {156}{}{Du siehst eine Prostituierte. Sie sieht aus, als ob sie ihre Freier umbringt und auffrißt.}
 {157}{}{Du siehst eine Prostituierte. Sie taxiert dich wie ein Juwelier.}
 {158}{}{Du siehst eine Prostituierte. Ihre zerlumpten Kleider sind verführerisch um ihren Körper drapiert.}
-{175}{}{Oh my... it's him.}
+{175}{}{Oh mein Gott... Er ist es.}
 {176}{}{Du bist der größte Hengst der Welt.}
 {177}{}{::Wird ohnmächtig::}
 {178}{}{Yeah, }
 {179}{}{::Klatscht::}
 {180}{}{::Jubelt::}
-{181}{}{Oh my... it's her.}
+{181}{}{Oh mein Gott... sie ist es. }
 {182}{}{Weg da, Mädel!}
 {183}{}{::Gives you the thumbs up sign::}
 {190}{}{Du hast nicht genug Chips dabei, damit du mich mit dem DING besteigen könntest.}
@@ -283,7 +283,7 @@
 {457}{}{Wo brennt's denn Sklavenhändlerin?}
 {458}{}{Die Sklavenhändlerin ist ziemlich frech.}
 {459}{}{Diese Sklavenhändlerin lässt meine Geigerzähler durch brennen.}
-{460}{}{I guarantee I'm better in the sack than that robot following you around.}
+{460}{}{Ich garantiere dir ich bin besser in meinem Geschäft, als der Roboter, der dir gerade folgt.}
 {461}{}{Ist der Roboter voll FUNKTIONSFÄHIG?}
 {462}{}{Ist das eine Art Spielautomat, was da hinter dir herrennt? }
 {463}{}{Ist das ein einarmiger Bandit?}

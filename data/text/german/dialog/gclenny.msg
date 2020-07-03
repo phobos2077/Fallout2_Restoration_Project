@@ -47,7 +47,7 @@
 {185}{}{Dein F-freund ist verletzt. Ich könnt ihn f-für $30 heilen. Das Geld b-brauch ich für M-medikamente.}
 {186}{}{Was ist denn mit euch p-passiert? S-sieht a-aus, als könntet ihr wirklich 'n-n A-arzt vertragen. F-für $60 heile ich euch alle auf einmal.}
 {187}{}{Dein F-freund scheint ganz OK zu sein.}
-{190}{}{W'well. I didn't actually m'meet the V'vault Dweller. But I saw 'em. Once. }
+{190}{}{Äh, ich h'hab den V'Vaultbewohner nie k'kennengerlernt. Aber ich hab ihn einmal g'gesehn.}
 {191}{}{Du hast den Vaultbewohner gesehen? Wo?}
 {192}{}{Oh, ich verstehe. Ich muß noch woanders hin und einige Dinge erledigen. Tschüß.}
 {200}{}{V-vor dem K-krieg war ich Arzt.}
@@ -110,7 +110,7 @@
 {373}{}{Du wirst damit nicht fertig, wie? Du solltest deinen halb verrotteten Kadaver hier schleunigst weg bewegen, bevor ich mir überlege, ob es mir eine Kugel wert ist, dir das Licht auszuknipsen.}
 {374}{}{Rülps Jaja, wie auch immer, ich denke, du hast anderes zu tun, zum Beispiel deine Zeit an Erinnerungen zu verschwenden, wie es war, eine Haut zu haben, die nicht so aussieht, wie die eines drei Monate alten Verkehrstoten im Juli. Verschwinde hier, du verdammte Mißgeburt.}
 {375}{}{OK.}
-{380}{}{Wh'what d'do you w'want me to do?}
+{380}{}{W'was soll ich d'denn t'tun?}
 {381}{}{Lenny, ich weiß ja, daß du dir Mühe gibst. Aber geh mir bitte trotzdem aus dem Weg.}
 {382}{}{Du mußt anders Kämpfen, Lenny.}
 {383}{}{Du mußt hier warten.}
@@ -132,7 +132,7 @@
 {413}{}{Bleib auf größerem Abstand.}
 {414}{}{Du mußt die Lage auskundschaften.}
 {415}{}{Macht nichts.}
-{420}{}{Wh'what d'do you want me to d'do?}
+{420}{}{W'was soll ich d'denn t'tun?}
 {421}{}{Du mußt jetzt defensiv kämpfen.}
 {422}{}{Du mußt jetzt normal kämpfen.}
 {423}{}{Du mußt jetzt aggressiv kämpfen.}
@@ -183,7 +183,7 @@
 {533}{}{Macht nichts.}
 {540}{}{Ich k-kann nicht. Daß diese alten Knochen ü-überhaupt noch k-kämpfen, ist schon ein W-wunder.}
 {541}{}{OK. Macht nichts.}
-{1000}{}{Wh'what d'do you w'want me to do?}
+{1000}{}{W'was soll ich d'denn t'tun?}
 {1100}{}{Mir g-geht es gut.}
 {1200}{}{Ich bin l-leicht verletzt, aber ich k-kann weiter machen.}
 {1300}{}{Das ist eine gute Idee. Ich h-hab mich schon g-gefragt, wann wir d-dafür anhalten. Mi-mir tut j-jedenfalls a-alles weh.}

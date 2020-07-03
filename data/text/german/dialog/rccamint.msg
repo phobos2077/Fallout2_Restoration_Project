@@ -88,4 +88,4 @@
  Nimm uns mit, Sheriff.}
 {179}{}{Das hört sich schon besser an.}
 {180}{}{Nee, jetzt isses zu spät. Auf euch beide pell ich mir 'ne Wurst.}
-{181}{}{Don't worry; I won't be startin' any trouble tonight.}
+{181}{}{Keine Angst; Heut Abend fang ich keinen Ärger an.}

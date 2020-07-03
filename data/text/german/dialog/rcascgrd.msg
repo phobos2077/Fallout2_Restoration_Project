@@ -31,7 +31,7 @@
 {130}{}{Ich mach Kleinholz aus dir, weil du hier eine Schlägerei begonnen hast.}
 {131}{}{Du Dummkopf.}
 {132}{}{Wer sowas macht, kann nicht überleben.}
-{133}{}{Time to take you outta' da' gene-pool.}
+{133}{}{Zeit, dich aus dem Gen-Pool zu holen}
 {134}{}{Du hättest es besser wissen sollen.}
 {135}{}{Entschuldigung, daß es soweit kommen mußte.}
 {136}{}{Du Verlierer.}
@@ -42,7 +42,7 @@
 {141}{}{Jetzt werden wir härter mit dir umgehen.}
 {142}{}{Das wird wirklich weh tun... DIR!}
 {143}{}{Steck' lieber die Waffe weg, Bursche.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
+{144}{}{Wir wollen hier keinen Ärger, Freund. Steck' das weg.}
 {145}{}{Steck dieses Teil lieber weg.}
 {146}{}{Lass' sie im Halfter, Bursche.}
 {147}{}{Steck die Waffe weg.}
