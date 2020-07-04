@@ -514,7 +514,7 @@ esos sitios}
  I'd kiss the barrel of a shotgun and just end it.}
 {4150}{}{Lets say we ditch the walking corpse.}
 {4151}{}{Alright, this whole joke about bringing Lenny along has gone on a little long now, don't you think?}
-{4152}{}{How the hell am I supposed to pick up the ladies with Lenny hanging around?}
+{4152}{}{¿Como demonios se supone que voy a recoger a las muchachas con Lenny andando por ahi?}
 {4160}{}{So, uh, Marcus, when do you revert back to the mild mannered physicist?}
 {4161}{}{Oye Marcus, ¿no tienes algún tipo de ciudad que se supone que estás dirigindo?}
 {4170}{}{Hang in there Myron, I'm sure someday your balls will drop.}

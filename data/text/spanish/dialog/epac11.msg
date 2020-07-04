@@ -1,6 +1,5 @@
 {100}{}{Ves al sargento Cat Jules.}
-{101}{}{You see a good-looking black man with rather pronounced canines. He moves with a constant swagger and has a smug
- expression on his face.}
+{101}{}{Ves a un hombre negro guapo con caninos bastante pronunciados. Se mueve con un swagger constante y tiene una engreida expresión en su rostro.}
 {200}{}{[As you approach the cryogenic chamber, you see a slender, naked black man sprawled on the floor.
  His muscular body is still shaking from the icy, cold water. He looks up at you as you approach.]}
 {201}{}{¿Quién eres?}
@@ -11,13 +10,13 @@
 {212}{}{Soy }
 {213}{}{. Pero, ¿cuál es tu nombre?}
 {214}{}{Don't you get cocky with me. What's with this place anyway?}
-{215}{}{I see. Well, Sgt. Jules, what's going on around here anyway?}
+{215}{}{Ya veo. Bueno, Sgto. Jules, ¿Qué está pasando por aquí?}
 {216}{}{How come you're alive? The Doctor said he was the only survivor.}
 {220}{}{The name's Sgt. Jules, but you can call me Cat. I'm the fastest and best-looking soldier on this base.}
 {221}{}{Bien, lo que digas. ¿qué es este lugar?}
 {230}{}{You mean Doctor C? Why would he forget about me? Hell, he helped shape this work of *ART* [He gestures at his body].}
 {231}{}{Bien, lo que digas. ¿qué es este lugar?}
-{232}{}{I think we are talking about two different people... So, what's going on around here anyway?}
+{232}{}{Creo que estamos hablando de dos personas diferentes... Entonces, ¿qué está pasando por aquí?}
 {240}{}{This is some government facility as far as I know. They do all kinds of top secret research. But...[He looks around
  the room.] it's awfully quiet. Where is everybody?}
 {241}{}{Well, this is probably going to come as a shock to you, but you've been frozen for over a century. The world's

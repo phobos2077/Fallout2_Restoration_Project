@@ -13,9 +13,9 @@
 {231}{}{...Dios mio...}
 {232}{}{...mein Herz...}
 {233}{}{hurrkkkk}
-{240}{}{(Der Mann dreht sich zu dir. Er sieht fiebrig aus: Schweiß läuft über sein Gesicht und verschmutzt seine Kleider. }
-{241}{}{(Er ignoriert dich und starrt Myron an. Offensichtlich wartet er darauf, daß Myron etwas sagt.)}
-{242}{}{(Er starrt dich an. Offensichtlich wartet er darauf, daß du etwas sagst.)}
+{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
+{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
+{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
 {243}{}{[Starre mit deinem niederträchtigsten Blick zurück.]}
 {244}{}{[Starre mit leichtem Desinteresse zurück.]}
 {245}{}{[Starre mit höhnischem Blick zurück]}

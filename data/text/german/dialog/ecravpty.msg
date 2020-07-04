@@ -46,7 +46,7 @@
 {158}{}{Wie wär's, wenn wir uns 'n einsames Plätzchen suchen?}
 {159}{}{Ahh, laß es uns tun!}
 {160}{}{Nee, Ich bin blau.}
-{161}{}{::Rülps:: [lächelt]}
+{161}{}{[Rülps] ::lächelt::}
 {170}{}{Hey, willste hinter den Busch da gehn?}
 {171}{}{Hast du's schon mal gemacht, als du drauf warst?}
 {172}{}{Ich könnt dir die Sterne zeigen, Baby.}
