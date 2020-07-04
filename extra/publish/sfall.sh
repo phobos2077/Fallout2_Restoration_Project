@@ -9,7 +9,7 @@ sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_versi
 
 cd "$release_dir"
 wget -nv "$sfall_url" -O sfall.7z
-7z x sfall.7z
+7zr x sfall.7z
 rm -f sfall.7z
 
 # uncomment ini settings to preserve options' placement in ddraw.ini
