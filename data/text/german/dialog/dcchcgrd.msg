@@ -1,7 +1,7 @@
 {100}{}{Du siehst eine Wache.}
-{150}{}{The guard is guarding the old church.}
+{150}{}{Die Wache bewacht die alte Kirche.}
 {151}{}{[GESPRÄCH]}
-{152}{}{How dare you show your face again!}
+{152}{}{Wie kannst du es wagen, dich hier wieder blicken zu lassen!}
 {153}{}{[Fertig]}
 {154}{}{Ho! No one enters the Family Wright warehouse at night!}
 {155}{}{Well, Mr. Wright himself sent me on an errand. If you don’t know about it, too bad.}
