@@ -3,7 +3,7 @@
 set -xeu -o pipefail
 
 release_ini="$release_dir/ddraw.ini"
-custom_ini="$extra_dir/publish/ddraw.ini"
+custom_ini="$(realpath $extra_dir)/publish/ddraw.ini"
 
 sfall_url="https://sourceforge.net/projects/sfall/files/sfall/sfall_$sfall_version.7z/download"
 
