@@ -23,7 +23,7 @@
 {172}{}{Ganz so, wie du es magst.}
 {173}{}{Ja, junge Dame.}
 {174}{}{Ich muß gehen.}
-{176}{}{OK!}
+{176}{}{Ok!}
 {177}{}{Nein. Tschüß.}
 {178}{}{Du kommst sicher wieder.}
 {179}{}{Das werden wir noch sehen.}

@@ -7,7 +7,7 @@
  hätte viel lieber wilden und leidenschaftlichen Spaß mit dir. Was hältst du davon?}
 {201}{}{Du bist also der Hengst, der es der Enklave mal so richtig gezeigt hat.}
 {202}{}{Wenn sich ein Typ mit diesen Regierungsenklaven anlegt, werde ich ganz heiß.}
-{203}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
+{203}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
 {210}{}{Ich sollte mich wohl bei dir dafür bedanken, daß du die Welt gerettet hast. Ähm...danke.}
 {211}{}{Du hast es der Enklave also mal so richtig gezeigt. Ich bin hochbeeindruckt.}
 {212}{}{Ich hab gehört, daß die Brüder nach dir suchen. Sie wollen einen Film über dein
@@ -92,7 +92,7 @@
 {322}{}{Du bist ja noch explosiver als ein Vulkan an einem schlechten Tag.}
 {323}{}{Ich kann dir gar nicht sagen, wie gut mir das mit dem spanischen Akzent gefällt.}
 {324}{}{Du siehst toll aus, Schätzchen.}
-{330}{}{::Ignores you::}
+{330}{}{::Ignoriert dich::}
 {331}{}{Bist du in der nächsten Szene die Französin oder die Russin?}
 {332}{}{Wenn die Verhütung doch nur ein bißchen zuverlässiger wäre.}
 {333}{}{Hast du meine Pumps geklaut?}
@@ -124,8 +124,8 @@
 {360}{}{Meine Freunde wissen gar nicht, daß ich hier arbeite. Das wär mir aber auch egal.}
 {361}{}{Ich hab später noch nichts vor, wenn du ein bißchen Gesellschaft brauchst.}
 {362}{}{Steigst du auch hier ins Geschäft ein? Willkommen an Bord.}
-{363}{}{Nice unit you got there.}
-{364}{}{You should go into porn. You got the body for it.}
+{363}{}{Nettes Outfit hast du da.}
+{364}{}{Du solltest Pornos machen, du hast den richtigen Körper dafür.}
 {365}{}{Nettes Stück Eisen hast du da.}
 {366}{}{Ich hab später noch nichts vor, wenn du ein bißchen Gesellschaft brauchst.}
 {367}{}{Ich hab schon von dir gehört. Du bist doch }
@@ -166,7 +166,7 @@
 {420}{}{Wenn du in mein Höschen willst, hast du dabei kein Glück. Darin ist nur Platz für einen
  Hintern.}
 {421}{}{Tut mir leid, ich dachte, du sähst gut aus. Hab mich wohl vertan.}
-{422}{}{You? Sorry, I'll NEVER be that desperate.}
+{422}{}{Du? Tut mir leid, aber SO verzweifelt werde ich nie sein.}
 {423}{}{Ich hab die Brüder auch nicht gesehen...und jetzt geh mir nicht auf die Nerven. Ich bin
  Schauspielerin.}
 {424}{}{Bitte...keine Autogramme.}
@@ -176,8 +176,8 @@
 {427}{}{Du kannst dir gar nicht vorstellen, wie stressig mein Leben ist.}
 {428}{}{Meine Freunde wissen gar nicht, daß ich hier arbeite. Das wär mir aber auch egal.}
 {429}{}{BITTE geh mir nicht auf die Nerven. Ich versuche gerade, meinen Text zu lernen.}
-{430}{}{If you're looking for a job, talk to the Brothers.}
-{431}{}{You the new fluffer?}
+{430}{}{Wenn du Arbeit suchst, red mal mit den Brüdern.}
+{431}{}{Bist du der neue Fluffer?}
 {432}{}{Bist du der neue Hausmeister? Ich kann mir nicht vorstellen, wer du sonst sein solltest. }
 {433}{}{Wenn du der neue Hausmeister bist, könntest du mir mal den Hintern abwischen. }
 {434}{}{Nein, ich hab die Brüder nicht gesehen, Kleine...und jetzt stör mich nicht. Ich bin

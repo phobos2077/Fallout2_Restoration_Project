@@ -68,9 +68,9 @@
 {301}{}{Drinks kosten immer noch $5 und die Familie Dyer macht die besten Drinks der Welt.}
 {302}{}{Bist du in Ordnung? Willste 'n Whiskey? Nur $5.}
 {303}{}{Ich nehm einen Drink.}
-{304}{}{Why are your drinks so cheap?}
+{304}{}{Warum sind deine Drinks so billig?}
 {305}{}{Dyer?}
-{306}{}{Can I ask a question?}
+{306}{}{Kann ich eine Frage stellen?}
 {307}{}{Tschüß.}
 {308}{}{Wikie}
 {309}{}{Urka.}

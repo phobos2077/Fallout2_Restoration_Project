@@ -1217,7 +1217,7 @@
 {3109}{}{Äh, Zeit für einen strategischen Rückzug.}
 {3110}{}{Abgang von der Bühne.}
 {3111}{}{Ist schon später als ich dachte.}
-{3112}{}{Gotta run. See ya.}
+{3112}{}{Muss los. Man sieht sich.}
 {3113}{}{Lauf weeeeeg!}
 {3114}{}{Muß ein paar Teile wieder ankleben.}
 {3115}{}{Diese alten Knochen machen das nicht mehr mit.}

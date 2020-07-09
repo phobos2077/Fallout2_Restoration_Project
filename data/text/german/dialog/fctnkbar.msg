@@ -17,7 +17,7 @@
 {116}{}{War's das?}
 {117}{}{Ja.}
 {118}{}{Nein.}
-{119}{}{Later then.}
+{119}{}{Dann später.}
 {120}{}{}
 {121}{}{OK.}
 {122}{}{Na, wieder da? Willste noch 'n Drink?}

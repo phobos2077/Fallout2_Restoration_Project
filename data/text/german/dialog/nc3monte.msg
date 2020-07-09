@@ -8,7 +8,7 @@
 {202}{}{Hab ich die falsche Karte genommen?}
 {203}{}{Wie konnte der dumme Wilde immer wieder die richtige Karte ziehen?}
 {205}{}{Heeeey! Du bist ein Held! Du bist in Ordnung.}
-{206}{}{::Gives you the thumbs up sign::}
+{206}{}{::Gibt dir einen Daumen-hoch-Zeichen::}
 {207}{}{::Er lächelt und nickt dir zu::}
 {208}{}{Hast du gut gemacht, du Held. Hast du gut gemacht.}
 {215}{}{Wo zum Teufel sind meine Karten? Ich hatte sie doch gerade noch.}

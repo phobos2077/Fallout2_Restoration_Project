@@ -50,7 +50,7 @@
 {310}{}{Tja, die Beleuchtung ist aus...}
 {311}{}{Als ob es irgend jemanden KÜMMERT, wenn das Mikro im Bild ist!}
 {312}{}{Können wir uns bitte auf den Hintern konzentrieren?}
-{313}{}{Der Dreh dauert schon viel zu lange. Wir gehen noch pleite, wenn wir die Miezen so lange zahlen müssen...}
+{313}{}{Der Dreh dauert schon viel zu lange. Wir gehen noch pleite, wenn wir die Fluffer so lange bezahlen müssen...}
 {314}{}{Er will WAS?!! Sag ihm, er kann mich mal, oder besser das Brahmin, auf dem er hier reingeritten ist!}
 {315}{}{In den Tagen der Implantate war alles besser...}
 {316}{}{Die Betriebskosten bringen uns noch um.}
@@ -70,9 +70,9 @@
 {330}{}{20 Minuten, Baby.}
 {331}{}{Laß mal sehen: (Prüft Skript.) Auftritt Randy, er und Sylvia gehen ran... Christy geht ins Badezimmer, Peter hinterher, sie gehen ran. Auftritt Ron...}
 {345}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut ärgerlich hoch, sieht noch ein zweites Mal hin.) Hey... du warst doch vorhin schon mal da - du wolltest mit uns drehen, richtig?}
-{346}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Du schon wieder. Hör zu, biste nun interessiert an der Rolle als Mieze oder nicht?}
-{347}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch, sieht noch ein zweites Mal hin.) DU bist die neue Mieze?}
-{348}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Du bist die neue Mieze?}
+{346}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Du schon wieder. Hör zu, biste nun interessiert an der Rolle als Fluffer oder nicht?}
+{347}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch, sieht noch ein zweites Mal hin.) DU bist die neue Flufferbraut?}
+{348}{}{Die Korsischen Brüder zu deinen Diensten... (Schaut verärgert hoch.) Du bist die neue Fluffermieze?}
 {349}{}{Ich Miez}
 {350}{}{Ich nix Miez! Ich fiez!}
 {351}{}{[Verschwinde]}
@@ -169,7 +169,7 @@
 {593}{}{Wenn du mal wieder einen drehen möchtest, komm in einem Monat wieder, hörst du?}
 {594}{}{Also gut.}
 {610}{}{Willst du mich auf den Arm nehmen? Hör zu, wenn du schon fragst, du bist NICHT für diesen Job gemacht. Und was willst du jetzt noch?}
-{612}{}{Einen Job, was? Na gut, ich BIN eine Mieze. Die beste Mieze im Geschäft.}
+{612}{}{Einen Job, was? Na gut, ich BIN ein Fluffer. Die beste Mieze im Geschäft.}
 {613}{}{Ähm, nichts. Ich muß mich verlaufen haben.}
 {620}{}{Wow, was mach ich denn da? Du kommst hier rein, ein Klasse-Akt und ich fasele wie ein Idiot! Hör zu, Freund, das tut mir leid. Sag mal, ähm, suchst du Arbeit? Ich sprech jetzt nicht von diesen horizontalen Geschichten. Ich meine SCHAUSPIELEREI, verstehste?}
 {621}{}{Wow, was mach ich denn da? Du kommst hier rein, ein Klasse-Akt und ich fasele wie ein Idiot! Hör zu, Süße, das tut mir leid. Sag mal, ähm, suchst du Arbeit? Ich sprech jetzt nicht von diesen horizontalen Geschichten. Ich meine SCHAUSPIELEREI, verstehste?}

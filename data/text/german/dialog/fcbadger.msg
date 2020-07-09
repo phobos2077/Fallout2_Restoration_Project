@@ -51,7 +51,7 @@
 {150}{}{Was ist dein Preis?}
 {151}{}{Ja, egal. Ich muß gehn.}
 {152}{}{Das heißt, daß ich dir die Daten besorgen kann, die du brauchst.}
-{153}{}{Can you do something for me?}
+{153}{}{Kannst du etwas für mich tun?}
 {154}{}{Ah ja. Cool. Ich habe noch weitere Fragen.}
 {155}{}{Verstehe. Danke.}
 {156}{}{Ja, war ja klar. Jedenfalls muß ich jetzt weitermachen..}

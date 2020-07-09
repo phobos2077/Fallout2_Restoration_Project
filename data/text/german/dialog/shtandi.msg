@@ -57,7 +57,7 @@
 {155}{}{Das alles. Ich jetzt gehn.}
 {156}{}{Was kannst du mir von Vault 15 erzählen?}
 {157}{}{Warum hast du mit den Siedlern keinen Handel gemacht?}
-{158}{}{Do you know where Vault 13 is?}
+{158}{}{Weisst du wo ich Vault 13 finden kann?}
 {159}{}{Ich such nach einem GECK. Du hast doch nicht zufällig eins?}
 {160}{}{Was kannst du mir über New Reno erzählen?}
 {161}{}{Was weißt du über Roger Westin?}

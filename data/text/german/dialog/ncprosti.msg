@@ -16,7 +16,7 @@
 {180}{}{::Jubelt::}
 {181}{}{Oh mein Gott... sie ist es. }
 {182}{}{Weg da, Mädel!}
-{183}{}{::Gives you the thumbs up sign::}
+{183}{}{::Gibt dir einen Daumen-hoch-Zeichen::}
 {190}{}{Du hast nicht genug Chips dabei, damit du mich mit dem DING besteigen könntest.}
 {195}{}{Hier drüben }
 {196}{}{Da! Das ist er!}
@@ -25,14 +25,14 @@
 {199}{}{Wann kommt dein nächster Film raus?}
 {200}{}{Mmmm-mmmm. Mach weiter, Schätzchen.}
 {201}{}{Für was brauchst du mich, Schwarzer Mann?}
-{202}{}{Ooops. I dropped something in your pants. Let me get it.}
-{203}{}{I loved you in Great Balls for Hire.}
-{204}{}{I loved you in Good Will Humping.}
+{202}{}{Hoppla. Mir ist da etwas in deine Hose gefallen. Lass es mich holen.}
+{203}{}{Ich hab dich geliebt in "Great Balls for Hire".}
+{204}{}{Ich hab dich geliebt in "Good Will Humping".}
 {205}{}{Du warst klasse in Vault Sexzehn.}
-{206}{}{You were great in Pokeahotass.}
+{206}{}{Ich fand dich großartig in "Pokeahotass".}
 {207}{}{Mmmmm-mmmm. Wie hältst du dich so fit?}
-{208}{}{Can I have your autograph? On my chest?}
-{209}{}{Could I act in your next movie?}
+{208}{}{Gibst du mir ein Autogramm? Auf die Brust?}
+{209}{}{Könnte ich in deinem nächsten Film mitspielen?}
 {210}{}{Ich würde DIR nie einen Orgasmus vorspielen, }
 {211}{}{Werde... schwach. kann... nicht mehr aushalten... Muss... Sex... haben... mit dir...}
 {212}{}{Sie ist kein Star, sie ist nur "wilder" Abfall...}
@@ -78,10 +78,10 @@
 {252}{}{Schaut euch mal diese Muskeln an! Ich werde schwach...}
 {253}{}{WOW!}
 {254}{}{::Pfeift::}
-{255}{}{He's built like a tank. Check out that barrel.}
-{256}{}{Ich würde mal gerne deinen Ölstand checken...}
+{255}{}{Es ist wie ein Panzer gebaut. Seht euch das Kanonenrohr an.}
+{256}{}{Schau dir diese Kanone an...}
 {257}{}{Der gehört mir...}
-{258}{}{::Sigh::}
+{258}{}{::Seufz::}
 {259}{}{Was für ein Bad Boy.}
 {260}{}{Der junge macht mich schwach.}
 {261}{}{Der König der Stecher...}
@@ -98,8 +98,8 @@
 {272}{}{Brauchst du Gesellschaft, }
 {273}{}{Du bist So ein böser Junge.}
 {274}{}{Du machst mich schwach, weißt du?}
-{275}{}{Nice unit you got there.}
-{276}{}{Need someone to take care of that for you, champ?}
+{275}{}{Nettes Outfit hast du da.}
+{276}{}{Brauchst du wen, der sich für dich darum kümmert, Champ?}
 {277}{}{Hey... pass auf den Masticator auf. Ein echter Drecksack. Er hat mal versucht mir ein Ohr abzubeißen.}
 {278}{}{Schaut! Es ist }
 {279}{}{Brauchst du Gesellschaft, }
@@ -226,7 +226,7 @@
 {400}{}{Ziehst du mich aus?}
 {401}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
 {402}{}{Brauchst du einen Freund?}
-{403}{}{I kicked Jules in his family jewels last week.}
+{403}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {404}{}{Wohin willst du Sklavenhändler?}
 {405}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {406}{}{Ich liebe die Kondome mit Brahmin Aroma.}
@@ -414,7 +414,7 @@
 {588}{}{Ziehst du mich aus?}
 {589}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
 {590}{}{Willst du ein wenig Zeit totschlagen?}
-{591}{}{I kicked Jules in his family jewels last week.}
+{591}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {592}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {593}{}{Ich liebe die Kondome mit Brahmin Aroma.}
 {594}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -577,7 +577,7 @@
 {751}{}{Ziehst du mich aus?}
 {752}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
 {753}{}{Willst du ein wenig Zeit totschlagen?}
-{754}{}{I kicked Jules in his family jewels last week.}
+{754}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {755}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {756}{}{Ich liebe die Kondome mit Brahmin Aroma.}
 {757}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -642,7 +642,7 @@
 {816}{}{Wo brennt's denn Mädchen?}
 {817}{}{Diese Frau lässt meinen Geigerzähler durch brennen.}
 {818}{}{Die Enklave? Präsident? Erzähl mir die ganze Geschichte.}
-{819}{}{Tom French scripted me. He has soft, gentle hands.}
+{819}{}{Tom French hat mir ein Drehbuch geschrieben. Er hat weiche, sanfte Hände.}
 {820}{}{Die wollten schon wieder einen KRIEG? Echt! Gut das du diese Bastarde erledigt hast.}
 {821}{}{Du bist ein echter Bad Boy. Ich meine du hast als speerwerfender Wilder begonnen - ohne Erfahrung - und du gehst aus und rettest die Welt. Du trittst ihnen in den Arsch. Ende der Geschichte.}
 {822}{}{Du solltest das spiel nochmal, mit einen anderen Charakter durchspielen.}
@@ -651,7 +651,7 @@
 {825}{}{Ich weiß nicht, wie du gegen diese Enklavenschweine eine Chance hattest, aber du bist die mutigste Person die ich kenne.}
 {826}{}{Tim Cain? Ja, er ist einer meiner Stammkunden.}
 {827}{}{Küss mich du Enklaven zerstörender Held.}
-{828}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
+{828}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
 {829}{}{Wir vermissen Tim Cain. er kann wunderbar Brot backen. Dann hat er uns immer den Hintern versohlt, wie kleinen Kindern.}
 {830}{}{Ich weiß, ich bin nur ein NPC, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
 {831}{}{Die Frauen in dieser Stadt scheinen von einem sexhungrigen Nerd entworfen worden zu sein, der noch immer bei seinen Eltern im Keller wohnt.}
@@ -808,7 +808,7 @@
 {982}{}{Entschuldigung, was hast du gesagt? Ich war von deinem Arsch abgelenkt.}
 {983}{}{Willst du ein wenig Zeit totschlagen?}
 {984}{}{Möchtest du 'n bißchen Spaß?}
-{985}{}{I kicked Jules in his family jewels last week.}
+{985}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {986}{}{Möchtest du in die Stadt gehen?}
 {987}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {988}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
@@ -824,7 +824,7 @@
 {998}{}{Ich so geil.}
 {999}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1000}{}{Lass mich dein inneres Kind erwecken.}
-{1001}{}{I'm just doing this to pay for college.}
+{1001}{}{Ich mach das nur, um das College zu bezahlen.}
 {1002}{}{Pass auch, zum letzten Mal. Ich ziehe mich nicht wie der "Vaultbewohner" an}
 {1003}{}{Willst du dein Gebiet markieren?}
 {1004}{}{Willst du mich zum stöhnen bringen?}
@@ -982,7 +982,7 @@
 {1156}{}{Ziehst du mich aus?}
 {1157}{}{Entschuldigung, was hast du gesagt? Ich war von deinem Arsch abgelenkt.}
 {1158}{}{Willst du ein wenig Zeit totschlagen?}
-{1159}{}{I kicked Jules in his family jewels last week.}
+{1159}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {1160}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {1161}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
 {1162}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -998,7 +998,7 @@
 {1172}{}{Ich so geil.}
 {1173}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1174}{}{Lass mich dein inneres Kind erwecken.}
-{1175}{}{I'm just doing this to pay for college.}
+{1175}{}{Ich mach das nur, um das College zu bezahlen.}
 {1176}{}{Willst du tanzen Süßer?}
 {1177}{}{Pass auf, zum letzten Mal. Ich werde mich nicht als "Vaultbewohner" verkleiden.}
 {1178}{}{Willst du dein Gebiet markieren?}
@@ -1155,7 +1155,7 @@
 {1329}{}{Ziehst du mich aus?}
 {1330}{}{Entschuldigung was hast du gesagt? Ich war von deinen tollen Körper abgelenkt.}
 {1331}{}{Willst du ein wenig Zeit totschlagen?}
-{1332}{}{I kicked Jules in his family jewels last week.}
+{1332}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {1333}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {1334}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
 {1335}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -1171,7 +1171,7 @@
 {1345}{}{Ich so geil.}
 {1346}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1347}{}{Lass mich dein inneres Kind erwecken.}
-{1348}{}{I'm just doing this to pay for college.}
+{1348}{}{Ich mach das nur, um das College zu bezahlen.}
 {1349}{}{Willst du tanzen Süßer?}
 {1350}{}{Pass auf, zum letzten Mal. Ich werde mich nicht als "Vaultbewohner" verkleiden.}
 {1351}{}{Willst du dein Gebiet markieren?}

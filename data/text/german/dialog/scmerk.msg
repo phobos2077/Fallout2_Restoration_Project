@@ -35,7 +35,7 @@
 {134}{}{Du schon wieder? Hast du die Sache erledigt?}
 {135}{}{Glabb.}
 {136}{}{Nein.}
-{137}{}{I got some questions.}
+{137}{}{Ich hätte da noch ein paar Fragen.}
 {138}{}{Hmm...stark. Beschränkt... Wenn du 'nen Job willst, rede mit Mira. Verstanden? Mi-ra. Da drüben.}
 {139}{}{Du machst wohl gern Radau, wie? Wirft mal bitte jemand diesen Haufen Brahminkacke hier raus!}
 {140}{}{Bist du wirklich so bescheuert zu glauben, ich würde jedem x-beliebigen einen Job geben? Wenn du für mich arbeiten willst, muß du erst mal beweisen, daß du was taugst.}

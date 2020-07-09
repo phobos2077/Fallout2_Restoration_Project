@@ -174,8 +174,8 @@
 {1001}{}{Mountains}
 {1002}{}{City}
 {1003}{}{Coast}
-{1004}{}{Unknown}
-{1500}{}{You gained 10,000 experience points!}
+{1004}{}{Unbekannt}
+{1500}{}{Du erhälst 10,000 Erfahrungspunkte!}
 {1501}{}{Ruins}
 {1502}{}{Das Auto hat keinen Strom mehr.}
 {1503}{}{Ein Auto. Es sieht nicht so aus, als ob es funktionieren würde.}
