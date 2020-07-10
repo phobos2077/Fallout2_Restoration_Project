@@ -6,7 +6,7 @@
 {105}{}{Aua?}
 {106}{}{Was ist mit dir los?}
 {107}{}{Du hast wohl Schmerzen? Haha.}
-{108}{}{Wer sind Sie?}
+{108}{}{Wer bist du?}
 {109}{}{Kannst du mir vielleicht Informationen über meine Leute geben?}
 {110}{}{Auaaa, mein Bauch. Ich hab Schmerzen. Bitte laß mich in Ruhe.}
 {111}{}{OK; OK.}

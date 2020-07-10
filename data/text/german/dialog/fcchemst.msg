@@ -23,7 +23,9 @@
 {122}{}{Ich wüßte gern, was ihr hier so macht.}
 {123}{}{Ich bin hier, um Benzin für die Hubologen zu besorgen.}
 {124}{}{Nein. Ich gehe jetzt.}
-{125}{}{Du brauchst Benzin für den Tanker? Ich brauche gehärtete Powerrüstungen. Ich habe gehört, daß ein Hubologe namens Crocket ein Verfahren kennt, eine normale Powerrüstung aufzurüsten. Bring mir eine solche Rüstung, dann werde ich dir Benzin abzweigen.}
+{125}{}{Du brauchst Benzin für den Tanker? Ich brauche gehärtete Powerrüstungen. Ich habe gehört,
+ daß ein Hubologe namens Crocket ein Verfahren kennt, eine normale Powerrüstung aufzurüsten.
+ Bring mir eine solche Rüstung, dann werde ich dir Benzin abzweigen.}
 {126}{}{Werd ich tun.}
 {127}{}{Ich kann nichts versprechen.}
 {128}{}{Ich habe eine bei mir.}

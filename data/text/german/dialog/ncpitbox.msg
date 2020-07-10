@@ -32,7 +32,7 @@
 {490}{}{This is [CN]. Need anything, just ask.}
 {500}{}{Das beste verdammte Casino der Stadt... aber ich bin ein wenig voreingenommen. [Lacht] 
  Willst du sonst noch was wissen?}
-{510}{}{The [CA] family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
+{510}{}{Die [CA]-Familie. Sie haben viel Leben in diesen Ort gepumpt, ihn zu einem richtigen Anziehungspunkt gemacht, einem leuchtenden Juwel in New Reno.}
 {520}{}{Der Typ? Old Man McGee? Verrückter Mistkerl... er verbringt jetzt schon einige Jahre an dieser Maschine,
  immer auf den großen Jackpot wartend. Das ganze Vermögen seines Lebens muss in dem Ding stecken,
  aber es gibt ihm keinen einzigen Chip.}

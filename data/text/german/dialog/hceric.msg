@@ -11,7 +11,7 @@
 {110}{}{Tür zu! Bitte! Geh weg und nimm auch die verdammten Fliegen mit!}
 {111}{}{OK!}
 {112}{}{Tut mir leid. Ich bin nur ein bißchen nervös. Die ganzen Fliegen und keine Klimaanlage. Wenn ich ein bißchen mehr Strom hätte, würde ich's ihnen zeigen... hab ich aber nicht.}
-{113}{}{Wer sind Sie?}
+{113}{}{Wer bist du?}
 {114}{}{Und wie kommt man hier an Strom?}
 {115}{}{Warum kommen die Fliegen hierher?}
 {116}{}{Du könntest es ja mal mit Baden versuchen.}
@@ -34,7 +34,7 @@
 {133}{}{Wo kommen die Fliegen denn her?}
 {134}{}{Hast du's schon mal mit Baden versucht?}
 {135}{}{Wo ist der Stromgenerator?}
-{136}{}{Wer sind Sie?}
+{136}{}{Wer bist du?}
 {137}{}{Hier ist es schon viel netter. So besser?}
 {138}{}{Nichts, vergiß es.}
 {139}{}{Ich könnte ein bißchen was für dich zusammekratzen, wenn du es machst. Viel kann ich nicht versprechen, aber ich bitte dich ja auch nicht um viel.}

@@ -8,7 +8,7 @@
 {107}{}{Du sehen aus wie Wache.}
 {108}{}{Ich gehn.}
 {109}{}{Ich wollte nur mal Hallo sagen.}
-{110}{}{Wer sind Sie?}
+{110}{}{Wer bist du?}
 {111}{}{Was machst du?}
 {112}{}{Du siehst so aus, als würdest du den Pfad bewachen.}
 {113}{}{Ich mach mich dann mal auf den Weg.}

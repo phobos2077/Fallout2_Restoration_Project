@@ -186,7 +186,7 @@
 {427}{}{Die Frau die du bei dir hast ist echt hübsch.}
 {428}{}{Kann die Frau kochen? Wenn ja, nehm ich sie.}
 {429}{}{Wie viel für das Weib das du bei dir hast?}
-{430}{}{Check out the new boss o' the walk.}
+{430}{}{Schaut den neuen Boss der Strasse an.}
 {431}{}{Heute nacht gibt's Action!}
 {432}{}{Hör zu, ich hab jetzt gerade keine Zeit, mit dir zu reden.}
 {450}{}{Mrs. Bishop hat wirklich einen süßen Arsch.}
@@ -366,8 +366,8 @@
 {687}{}{Hab VERSUCHT aufzuhören, aber...}
 {688}{}{Hör auf, mich zu nerven.}
 {689}{}{Hör mal, ich hab jetzt keine Zeit, um mit dir zu reden.}
-{690}{}{She's yer "wife," huh? Can I borrow her fer an hour or two?}
-{691}{}{Wanna swap wives for a while?}
+{690}{}{Sie is deine "Frau", hm? Kann ich sie für ein oder zwei Stunden ausleihen?}
+{691}{}{Willste für 'ne Weile Frauen tauschen?}
 {692}{}{Verkaufst du die Frau da?}
 {693}{}{Wie viel für die Frau, die du bei dir hast?}
 {694}{}{Die Frau die du bei dir hast ist echt hübsch.}

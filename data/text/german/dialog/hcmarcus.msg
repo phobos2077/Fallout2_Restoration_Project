@@ -7,7 +7,7 @@
 {104}{mcs1b}{Was willst du, Mensch?}
 {105}{mcs1c}{Willst du sonst noch was?}
 {106}{}{Aggie.}
-{107}{}{Wer sind Sie?}
+{107}{}{Wer bist du?}
 {108}{}{Was ist hier eigentlich los?}
 {109}{}{Warum greift ihr Mutanten mich nicht an?}
 {110}{}{Was gibt's Neues?}

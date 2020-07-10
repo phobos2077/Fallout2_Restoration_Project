@@ -5,7 +5,7 @@
 {104}{}{Du schon wieder?}
 {105}{}{Karl hat mich hergeschickt.}
 {106}{}{Doktor Jubilee meinte, ich soll mit dir reden.}
-{107}{}{Wer sind Sie?}
+{107}{}{Wer bist du?}
 {108}{}{Gah?}
 {109}{}{Ich suche nach einer Gruppe von Leuten, die was gegen Sklaverei haben. Nennen sich New California Ranger.}
 {110}{}{Kannst du mein Auto reparieren?}

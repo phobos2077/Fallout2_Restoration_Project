@@ -9,7 +9,7 @@
 {108}{}{Aktionspunkte}
 {109}{}{Rüstung}
 {110}{}{Schaden ohne Bewaffnung}
-{111}{}{Schaden im Nahkampf}
+{111}{}{Nahkampf-Sch.}
 {112}{}{Tragekapazität}
 {113}{}{Reaktion}
 {114}{}{Heilung}

@@ -12,7 +12,7 @@
  Jeder hat mal Ärger - nur laß es dir nicht zur Gewohnheit werden.}
 {111}{}{Ich habe gehört, daß du schon in Karawanen gearbeitet hast. Das ist gut. Wir können immer
  gute Karawanenwachen gebrauchen.}
-{112}{}{Wer sind Sie?}
+{112}{}{Wer bist du?}
 {113}{}{Sind gerade irgendwelche Karawanen fertig zum Aufbruch?}
 {114}{}{Wohin ziehen die Karawanen von Redding aus normalerweise?}
 {115}{}{Hast du in letzter Zeit irgendwelche Neuigkeiten in der Stadt gehört?}

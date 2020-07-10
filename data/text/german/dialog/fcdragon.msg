@@ -5,7 +5,7 @@
 {104}{}{Didl, didl, du!}
 {105}{}{Du wer?}
 {106}{}{Mit wem hast du da gekämpft?}
-{107}{}{Wer sind Sie?}
+{107}{}{Wer bist du?}
 {108}{}{Zeig mir, wie man kämpft.}
 {109}{}{Ich möchte dich herausfordern.}
 {110}{}{Vergiss es.}

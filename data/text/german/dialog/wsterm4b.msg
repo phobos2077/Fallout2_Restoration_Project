@@ -67,20 +67,20 @@
                                             Danke, daß Sie Vault-Tec benutzt haben. In unserem Katalog finden Sie eine vollständige Übersicht über alle Produkte von Vault-Tec.}
 {152}{}{}
 {153}{}{Beenden}
-{154}{}{Extraktion fehlgeschlagen--lokale Sensorüberlastung.}
-{155}{}{Extraktion fehlgeschlagen--nicht in der Lage, das Verfahren für die Physiologie des Patienten zu initialisieren.}
-{170}{}{Mensch}
-{171}{}{Hund}
-{172}{}{Katze}
-{173}{}{Road Runner}
-{174}{}{Nagetier}
-{175}{}{Mutant}
-{176}{}{Deathclaw}
-{180}{}{Gehirn}
-{181}{}{Herz}
-{182}{}{Niere}
-{183}{}{Leber}
-{184}{}{Lunge}
-{185}{}{Blinddarm}
-{186}{}{Dickdarm}
+{154}{}{Extraktion fehlgeschlagen-- Lokale Sensorüberlastung.}
+{155}{}{Extraktion fehlgeschlagen-- nicht in der Lage, das Verfahren für die Physiologie des Patienten zu initialisieren.}
+{170}{}{Mensch }
+{171}{}{Hund }
+{172}{}{Katze }
+{173}{}{Road Runner }
+{174}{}{Nagetier }
+{175}{}{Mutant }
+{176}{}{Deathclaw }
+{180}{}{Gehirn }
+{181}{}{Herz }
+{182}{}{Niere }
+{183}{}{Leber }
+{184}{}{Lunge }
+{185}{}{Blinddarm }
+{186}{}{Dickdarm }
 {200}{}{ kann nicht lesen, was auf dem Monitor steht.}

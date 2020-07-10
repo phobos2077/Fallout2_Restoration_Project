@@ -21,7 +21,7 @@
 {239}{}{OK, gut. Muß erst BH aufmachen. Warte. (Zip)}
 {240}{}{Was ich WOLLEN? Was du HABEN?}
 {241}{}{[Starre ihn einen Moment an, nur um sicherzugehen, daß er echt ist, und geh dann weg]}
-{242}{}{Wer sind Sie?}
+{242}{}{Wer bist du?}
 {243}{}{Hey, ich hab eine Brille, wenn du sie willst.}
 {244}{}{Wie ist die Brille?}
 {245}{}{Weißt du, es gibt koffeinfreie Marken, die genausogut schmecken wie die richtigen.}
@@ -371,7 +371,7 @@
 {6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
 {6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
 {6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
-{6102}{}{Ich möcht dich noch was anderes fragen.}
+{6102}{}{Ich möchte dich noch was anderes fragen.}
 {6103}{}{That's it for me. See you around.}
 {6110}{}{(Renesco flushes, nostrils flaring in anger, but then looks down and begins cleaning his glasses very intently on his smock as he speaks.) Primate, the ONLY two things I will EVER be indebted to you for are JACK and SHIT.}
 {6111}{}{Now, that being the case... if it will disabuse you of this intolerable provincial delusion that you've somehow got something over me, the very THOUGHT of which makes me ill in ways I lack the words to describe... }

@@ -40,7 +40,8 @@
 {201}{}{Äh, also eigentlich wollte ich's für Skeeter.}
 {202}{}{Skeeter wer? Ich muß das Teil nur in den Reaktor-Kontrollraum bringen, für die Reparatur vom... Hey, sieh mal! Ist das da 'ne Ratte?}
 {203}{}{Keine Ahnung, was sie mit dem Teil wollen. Ich soll's bloß abholen.}
-{210}{}{Hätt ich mir ja denken können. Wie hat Skeeter das bloß angestellt, daß ihm jemand eine Anforderungsvollmacht für ein Teil ausstellt. Ich hoff ja bloß, daß er diesmal nichts in die Luft jagt. Naja, geht mich ja nichts an.}
+{210}{}{Hätt ich mir ja denken können. Wie hat Skeeter das bloß angestellt, daß ihm jemand eine Anforderungsvollmacht
+ für ein Teil ausstellt. Ich hoff ja bloß, daß er diesmal nichts in die Luft jagt. Naja, geht mich ja nichts an.}
 {211}{}{Äh, das Teil? Ich muß es jetzt mitnehmen.}
 {220}{}{Tja, du könntest eins von Harold drüben in der Siedlung bekommen oder von Festus, gleich hier im Reaktor-Kontrollraum. Mir egal, wo du es hernimmst. Hauptsache, du besorgst eins. Keine Anforderungsvollmacht, keine Teile - so läuft das eben.}
 {221}{}{Hast du schon dein Anforderungsvollmachts-Formular? Ich darf die Teile nur rausgeben, wenn du dieses Formular hast.}

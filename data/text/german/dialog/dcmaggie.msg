@@ -41,7 +41,7 @@
 {188}{}{Häh?}
 {189}{}{Hier ist das Geld.}
 {190}{}{Habs mir anders überlegt.}
-{191}{}{I’m a little short of cash. Can I have a tab?}
+{191}{}{Ich bin ein wenig knapp bei Kasse. Kannst du's aufschreiben?}
 {192}{}{Kann ich eine Frage stellen?}
 {193}{}{Muss gehen.}
 {194}{}{Hier der Drink. Sonst noch was?}
@@ -85,7 +85,7 @@
 {233}{}{Wo bist du, Baby?}
 {234}{}{Kommst du?}
 {235}{}{Ich warte.}
-{236}{}{I'm in here, lover.}
+{236}{}{Ich bin hier, Schnuckelchen.}
 {237}{}{Ich muss hier eine Bar führen.}
 {238}{}{Follow me, sugar.}
 {240}{}{Wie machst du... Das... Ohhh...}

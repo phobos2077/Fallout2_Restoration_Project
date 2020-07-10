@@ -100,7 +100,7 @@
 {380}{}{Das iss'n mächtig guter Deal. Du kannst das Teil wahrscheinlich einfach einbaun und dein Auto in Gang setzen.}
 {381}{}{Das iss'n mächtig guter Deal. Du kannst das Teil wahrscheinlich einfach einbaun und dein Auto in Gang setzen. Weißte, ich könnt dir noch 'n Gefallen tun und dir noch andre Sachen kostenlos reparieren.}
 {382}{}{Wirklich? Kostenlos? Was muß ich dafür tun?}
-{383}{}{Ich möcht dich noch was anderes fragen.}
+{383}{}{Ich möchte dich noch was anderes fragen.}
 {384}{}{Ich werd das gleich ausprobieren. Tschüß.}
 {390}{}{Naja, ich brauch 'n verdammten dreistufigen Plasma- Transformator. Und der einzige Ort, an dem man so'n Ding wohl kriegt, ist der Versorgungsraum.}
 {391}{}{Und warum holst du's dann nicht einfach?}
@@ -153,9 +153,12 @@
 {627}{}{Das ist ein bißchen viel für mich. Da muß ich erst mehr Geld auftreiben.}
 {630}{}{Möchtest du, daß ich diese Nahkampfwaffe frisiere? Ich könnte sie auch mit einer *Superladung* versehen. Kostet $}
 {631}{}{Sicher.}
-{640}{}{[Skeeter nimmt das Teil und sieht es sich mit einem irren Glitzern in den Augen von allen Seiten an.] Tja, das ist nicht ganz einfach, aber ich denk, ich krieg das schon hin. Setz dich doch solange hin. [Skeeter geht mit der Waffe zu seiner Werkbank und klemmt sie in einen riesigen Schraubstock ein.]}
+{640}{}{[Skeeter nimmt das Teil und sieht es sich mit einem irren Glitzern in den Augen von allen Seiten an.]
+ Tja, das ist nicht ganz einfach, aber ich denk, ich krieg das schon hin. Setz dich doch solange hin.
+ [Skeeter geht mit der Waffe zu seiner Werkbank und klemmt sie in einen riesigen Schraubstock ein.]}
 {641}{}{OK.}
-{650}{}{[Beim Warten siehst du Skeeter' Rücken, während er an deiner Waffe arbeitet. Du siehst nicht genau, was er macht, aber sein beklopptes Kichern und das ganze Gehämmere machen dich nervös.]}
+{650}{}{[Beim Warten siehst du Skeeter' Rücken, während er an deiner Waffe arbeitet. Du siehst nicht genau,
+ was er macht, aber sein beklopptes Kichern und das ganze Gehämmere machen dich nervös.]}
 {651}{}{Moment...}
 {660}{}{[Noch mehr Gehämmere und irres Kichern, während du immer noch wartest...]}
 {661}{}{[Du pfeifst leise vor dich hin und beschäftigst dich damit, mit den Händen Schattenfiguren an der Rückwand von Skeeter' Werkstatt zu erzeugen...]}

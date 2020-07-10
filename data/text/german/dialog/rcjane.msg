@@ -179,7 +179,7 @@
 {327}{}{Spot}
 {328}{}{Lord Wiggler}
 {330}{}{Lucky}
-{331}{}{Zoroaster the Great}
+{331}{}{Zoroaster der Groﬂe}
 {332}{}{Shub}
 {333}{}{Usuthu}
 {334}{}{Growler}

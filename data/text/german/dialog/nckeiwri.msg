@@ -1,7 +1,7 @@
 {100}{}{Du siehst Keith Wright.}
 {150}{}{Du siehst einen dünnen, bleichen jungen Mann mit strähnigen langen Haaren. Er sieht dich argwöhnisch an.}
 {151}{}{Du siehst Keith Wright. Er sieht dich argwöhnisch an.}
-{200}{}{Wer sind Sie?}
+{200}{}{Wer bist du?}
 {201}{}{Was willste'n?}
 {220}{}{Hey, }
 {230}{}{Noch einen Schritt in Richtung Tür und es wird dir leid tun.}

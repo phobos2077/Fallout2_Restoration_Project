@@ -4,7 +4,7 @@
 {200}{}{Hallo, Reisender. Willkommen in der Abtei. Mach keinen Ärger und wir werden gut miteinander auskommen.}
 {201}{}{Ich beobachte dich, Sklavenhändler. Eine falsche Bewegung und du wirst unseren Friedhof für den Rest der Ewigkeit beschmutzen. Das würde mir nicht gefallen, und ich bin mir ziemlich sicher,
  dass dir das auch nicht gefallen würde. Also hecke in deinem verkorksten Gehirn bloss nichts aus, verstanden!?}
-{202}{}{Wer sind Sie?}
+{202}{}{Wer bist du?}
 {203}{}{Wo kann ich für Vorräte handeln?}
 {204}{}{Jemand gräbt Gräber aus. Warum unternehmen Sie nichts dagegen?}
 {205}{}{Ich habe etwas über Tiere im Keller gehört. Wissen Sie etwas darüber?}
@@ -24,7 +24,7 @@
 {402}{}{Danke, Tschüß.}
 {500}{}{Wenn jemand arm oder gierig genug ist, um zu versuchen, Gräber auszuheben, ist das seine Sache. Es ist nicht so, dass die Toten  das benutzen, womit sie ohnehin begraben sind.
  Nicht mein Problem... Ich verliere deswegen jeweils keinen Schlaf.}
-{501}{}{Ich möcht dich noch was anderes fragen.}
+{501}{}{Ich möchte dich noch was anderes fragen.}
 {502}{}{Tschüß.}
 {600}{}{Ja, und Bruder Thomas wird vermisst. Er war ein kluger Mann, aber ein bisschen tollkühn. Ich weiß nicht, was sich da unten rumtreibt, aber ich glaube nicht, dass es nur ein paar Ratten und
  Radskorpions sind.}

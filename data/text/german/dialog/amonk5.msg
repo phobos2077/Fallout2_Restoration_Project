@@ -60,4 +60,4 @@
 {4213}{}{Ich habe nie eine gesehen, aber ich habe über sie gelesen. [Er sieht sich nervös um und senkt seine Stimme.] Ich weiß, wir sollen diese Bücher eigentlich nicht wirklich studieren, aber, als ich ein Buch über Botanik übertrug, konnte ich mich einfach nicht mehr davon losreißen. Die Pflanzenwelt ist einfach faszinierend. Vielleicht, wenn du auf deinen Reisen irgendwelche Botanikinformation findest, könntest du sie mir bringen? Ich wäre überaus dankbar. Selbstverständlich muss das unser Geheimnis bleiben.}
 {4220}{}{Ich denke nicht, dass ich deine Pflanzenbesessenheit unterstützen werde. Tut mir leid.}
 {4221}{}{Oh, na dann. Gut. Vergiss dass ich gefragt habe.}
-{4222}{}{Ich möcht dich noch was anderes fragen.}
+{4222}{}{Ich möchte dich noch was anderes fragen.}

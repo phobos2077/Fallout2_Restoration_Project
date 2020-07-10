@@ -2,7 +2,7 @@
 {101}{}{Du siehst einen älteren Mönch von Abbey.}
 {102}{}{You see an old monk. He looks to be in his early seventies.}
 {300}{}{Hallo, Jungchen.}
-{301}{}{Wer sind Sie?}
+{301}{}{Wer bist du?}
 {302}{}{Hast du irgendwas über ein GECK oder Vault 13 gehört?}
 {303}{}{Tschüß.}
 {400}{}{Mein Name ist John, ich bin einer der ältesten Mönche hier.}

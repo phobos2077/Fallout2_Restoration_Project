@@ -22,7 +22,7 @@
 {249}{}{Muttah. Mann is' Muttah!}
 {250}{}{Huubajuubiie}
 {251}{}{[Verschwinde]}
-{252}{}{Wer sind Sie?}
+{252}{}{Wer bist du?}
 {253}{}{Ich suche Arbeit. Stellt die Familie Wright Leute ein?}
 {254}{}{Sag mal, ich bin deiner Ma begegnet.}
 {255}{}{Kannst du mir was über Richard erzählen?}
@@ -111,7 +111,8 @@
 {487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiß. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
-{495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch Little Jesus Mordino: der könnte Rich Drogen aufgedrängt haben,
+{495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch
+ Little Jesus Mordino: der könnte Rich Drogen aufgedrängt haben,
  als Rich allein draußen war. Er hängt im Desperado rum.}
 {497}{}{Jagged Jimmy J, Renesco, genannt Rocketman, Jules und Little Jesus...die knöpf ich mir vor. Besten Dank für die
  Infos, Chris. }

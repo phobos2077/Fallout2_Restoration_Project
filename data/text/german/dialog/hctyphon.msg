@@ -4,7 +4,7 @@
 {103}{}{Na, wie geht's, Kindchen, willkommen im Heim der alten Ghuls!}
 {104}{}{Was für'n Ghul?}
 {105}{}{Heim der alten Ghuls?}
-{106}{}{Wer sind Sie?}
+{106}{}{Wer bist du?}
 {107}{}{Hey, schon mal vom GECK gehört?}
 {108}{}{Tschüß.}
 {109}{}{Noch so ein Wüsten-Baby, he? Hey, Kid, willst du ein Geheimnis wissen?}
@@ -48,7 +48,7 @@
 {147}{}{Wie zum Beispiel?}
 {148}{}{Das ist das Heim der alten Ghuls?}
 {149}{}{Hast du schon mal was vom GECK gehört?}
-{150}{}{Wer sind Sie?}
+{150}{}{Wer bist du?}
 {151}{}{Noch etwas, was du mir erzählen könntest?}
 {152}{}{Es ist eine Art Witz. Es gibt außer alten Ghuls keine Ghuls. Wir sind alle sterilisiert, aber haben eine lange Lebensdauer, verstehst du. Wir sind die erste und letzte Generation von Ghuls. Dieser Ort hier ist für diejenigen von uns, die sich ein wenig ausruhen wollen.}
 {153}{}{Ich verstehe. Ich habe weitere Fragen.}

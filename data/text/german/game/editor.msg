@@ -3,7 +3,7 @@
 {102}{}{ABBRECHEN}
 {103}{}{DRUCKEN}
 {104}{}{ALTER}
-{105}{}{GESCHLECHT}
+{105}{}{GESCHL.}
 {106}{}{NAME}
 {107}{}{MÄNNLICH}
 {108}{}{WEIBLICH}
@@ -74,14 +74,14 @@
 {301}{}{Aktionspunkte}
 {302}{editor}{Rüstung}
 {303}{}{Schaden ohne Bewaffnung}
-{304}{}{Schaden im Nahkampf}
+{304}{}{Nahkampf-Sch.}
 {305}{}{Verletz.-Res.}
 {306}{}{Giftresistenz}
 {307}{}{Strahlungsres.}
 {308}{editor}{Reaktion}
 {309}{editor}{Heilung}
-{310}{editor}{Kritische Treffer}
-{311}{editor}{Tragekapazität}
+{310}{editor}{Krit. Treffer}
+{311}{editor}{Tragekapaz.}
 {312}{}{Vergiftet}
 {313}{}{Verstrahlt}
 {314}{}{Augenverletzung}

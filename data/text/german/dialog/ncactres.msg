@@ -64,7 +64,7 @@
 {287}{}{Gott sei dank haben die endlich diese gepolsterte Kopfstütze angebracht.}
 {288}{}{Mir wär es lieber, wenn du nicht reden würdest, während du mit mir sprichst. Denk dir
  lieber was und stell dir vor, ich würde dir antworten.}
-{289}{}{Wer sind Sie?}
+{289}{}{Wer bist du?}
 {290}{}{Bist du einer von den Hausmeistern?}
 {295}{}{Bist du nicht etwas zu klein für die Sturmtruppen?}
 {296}{}{Arrrghhhhhh! Was machst du denn? Ich soll wohl einen Herzinfarkt kriegen?! Raus hier!}
@@ -82,7 +82,7 @@
 {312}{}{Diese Dreherei leiert - äh, powert ganz schön aus.}
 {313}{}{Wir drehen jetzt ENDLICH mal eine Szene zusammen.}
 {314}{}{Meine Freunde wissen gar nicht, daß ich hier arbeite. Das wär mir aber auch egal.}
-{315}{}{I haven't seen the Brothers around…try the office, maybe?}
+{315}{}{Ich hab die Brüder noch nicht gesehen... vielleicht im Büro?}
 {316}{}{Ist mir eigentlich egal, wohin. Hauptsache wir spielen das nötige Geld ein.}
 {317}{}{Du bist ein leidenschaftlicher, geheimnisvoller Mann. Und lustvoll.}
 {318}{}{Wir machen es so, wie es für dich am bequemsten ist.}
@@ -115,7 +115,7 @@
 {351}{}{Getting out of boxing and into porn? Same thing, different stage.}
 {352}{}{Möchtest du mit mir in den Ring steigen, Champion?}
 {353}{}{Willst du boxen, Champ?}
-{354}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{354}{}{Vorsicht vor dem Mastikator. Er ist ein Arsch. Hat einmal versucht, mir ein Ohr abzubeißen.}
 {355}{}{Willst du mir helfen, meinen Text zu lernen?}
 {356}{}{Könntest du mir ein bißchen Jet besorgen?}
 {357}{}{Diese Dreherei leiert - äh, powert ganz schön aus.}
@@ -133,7 +133,7 @@
 {369}{}{Willst du mich etwa für ein bißchen Spaß überreden? Nur zu.}
 {370}{}{Hat der Chef mich mal erwähnt?}
 {380}{}{Wie ist das Boxen denn so?}
-{381}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{381}{}{Vorsicht vor dem Mastikator. Er ist ein Arsch. Hat einmal versucht, mir ein Ohr abzubeißen.}
 {382}{}{Tolles Outfit. Schick, schick.}
 {383}{}{Du siehst toll aus in diesem Outfit.}
 {384}{}{Was willst...oho, meine Dame! Willkommen im Studio.}

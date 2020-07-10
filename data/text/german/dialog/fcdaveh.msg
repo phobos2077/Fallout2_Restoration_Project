@@ -7,13 +7,14 @@
 {106}{}{Wie kann ich dir helfen?}
 {107}{}{Was willst du?}
 {108}{}{Da...uuuh...}
-{109}{}{Wer sind Sie?}
+{109}{}{Wer bist du?}
 {110}{}{Was machst du hier?}
 {111}{}{Ich hab mit Vikki gesprochen. Sie und Juan haben sich über dich lustig gemacht. Sie sagen, du bist kein richtiger Mann.}
 {112}{}{Ich hab mit Vikki gesprochen. Sie sagt, sie findet dich scharf und würd dich gern mal vernaschen.}
 {113}{}{Soll ich das mit Vikki für dich klarmachen?}
 {114}{}{Schon gut. Tschüß.}
-{115}{}{Hmmm...Oookay. Wie du meinst. Sag mal, was ist das da drüben? [Als du dich umdrehst, wendet er sich schlagartig wieder seiner Arbeit zu und ignoriert dich]}
+{115}{}{Hmmm...Oookay. Wie du meinst. Sag mal, was ist das da drüben? [Als du dich umdrehst,
+ wendet er sich schlagartig wieder seiner Arbeit zu und ignoriert dich.]}
 {116}{}{[Erledigt]}
 {117}{}{Ich bin Dave Handy. Ich bin von Kanada hier runtergekommen.}
 {118}{}{Also, was machst Du hier?}

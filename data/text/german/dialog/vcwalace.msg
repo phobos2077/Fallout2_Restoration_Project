@@ -18,7 +18,7 @@
 {111}{}{Guten Tag, Reisender. Willkommen in Vault City. Kann ich dir irgendwie behilflich sein?}
 {112}{}{Fras-ser-pluh!}
 {113}{}{Verzieh dich}
-{114}{}{Wer sind Sie?}
+{114}{}{Wer bist du?}
 {115}{}{Was ist das alles hier?}
 {116}{}{Ich hab den Verdacht, daß Skeev, dein Assistent, ein paar krumme Dinger dreht.}
 {117}{}{Heute nichts, danke.}

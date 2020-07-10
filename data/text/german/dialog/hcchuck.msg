@@ -3,7 +3,7 @@
 {102}{}{Ein Mann, der staubig und verschlafen wirkt. Seine Kleidung sieht sehr, SEHR altmodisch aus.}
 {103}{}{::Er reibt sich verschlafen die Augen:: Was... hä? Wo bin ich? Wie lange hab ich geschlafen?}
 {104}{}{Grr?}
-{105}{}{Wer sind Sie?}
+{105}{}{Wer bist du?}
 {106}{}{Ich hab zwar keine Ahnung, wie lange du geschlafen hast, aber du bist in Broken Hills, in der Nähe der New California Republic.}
 {107}{}{Oh nein! Ich hab so lange geschlafen, daß die Welt jetzt vollkommen verrückt geworden ist! Aieeeeeeee! ::er läuft panisch davon::}
 {108}{}{[Erledigt]}

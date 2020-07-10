@@ -69,7 +69,7 @@
 {320}{}{Solltest du hier sein?}
 {321}{}{Tut mir leid für den Idioten, der diesen Highwayman herumstehen ließ.}
 {322}{}{Ich würd mir nichts draus machen; der Highwayman hat eine komplettes Analogsystem und keine Elektronik. Nichts von dem hochgezüchteten Zeugs.}
-{330}{}{Laß BLOSS die Finger von dem Auto, verstanden?}
+{330}{}{Laß BLOß die Finger von dem Auto, verstanden?}
 {331}{}{Zum Teufel, verschwinde von dem Auto.}
 {332}{}{Dieses Auto ist wertvoller als dein Leben. Greif es nochmal an, und ich beweise es dir.}
 {5221}{}{?}

@@ -215,7 +215,8 @@
 {248}{}{                                  Freut' er da des Werkes sich?}
 {249}{}{                                     Schuf er, der auch das Lamm schuf, dich?}
 {250}{}{Häh?}
-{251}{}{Ach, nur was von einem Dichter, der schon lange tot ist. Ich frage mich, ob es immer noch einen Ort gibt für Leute, die so lange auf so ein böses Ziel hingearbeitet haben.
+{251}{}{Ach, nur was von einem Dichter, der schon lange tot ist. Ich frage mich, ob es immer noch einen Ort
+ gibt für Leute, die so lange auf so ein böses Ziel hingearbeitet haben.
  Unsere Zeit ist vorbei, eure beginnt. Mach dich auf!}
 {252}{}{Oh, ok, danke für die Hilfe, Doktor. Du bist ein tapferer Mann.}
 {253}{}{Du bist ein Irrer, aber ein nützlicher Irrer. Tschüß.}

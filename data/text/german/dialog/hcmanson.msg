@@ -4,7 +4,7 @@
 {103}{}{Was?!}
 {104}{}{Dahhh... gabba gabba he?}
 {105}{}{Warum du Gitter?}
-{106}{}{Wer sind Sie?}
+{106}{}{Wer bist du?}
 {107}{}{Warum bist du im Gefängnis?}
 {108}{}{Erzähl mir was über Broken Hills.}
 {109}{}{Nichts, vergiß es.}
@@ -45,7 +45,7 @@
 {144}{}{Den hab ich nie gesehen. Über den kann ich nix sagen.}
 {145}{}{Danke. Tschüß.}
 {146}{}{Was willste denn noch?}
-{147}{}{Wer sind Sie?}
+{147}{}{Wer bist du?}
 {148}{}{Warum bist du im Gefängnis?}
 {149}{}{Erzähl mir was über Broken Hills.}
 {150}{}{Kannst du Franc gut leiden?}

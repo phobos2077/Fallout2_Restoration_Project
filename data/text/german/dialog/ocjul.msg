@@ -9,13 +9,13 @@
 {107}{}{OK, ich geh.}
 {108}{}{Ich gehe, wohin ich will, Echsenvieh!}
 {109}{}{Was ist das alles hier?}
-{110}{}{Wer sind Sie?}
+{110}{}{Wer bist du?}
 {111}{}{Das Brutplatz. Mutter von Rudel drin. Eier drin. Ich bewachen. Ganzes Rudel wachen.}
 {112}{}{Ich sprechen Mutter.}
 {113}{}{Wer du?}
 {114}{}{Ich gehn.}
 {115}{}{Ich geh dann mal.}
-{116}{}{Wer sind Sie?}
+{116}{}{Wer bist du?}
 {117}{}{Ich möchte mit der Mutter sprechen.}
 {118}{}{Ich Jul. Krieger von Rudel. Bewachen Gelege. Bewachen Mutter.}
 {119}{}{Ich}

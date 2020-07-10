@@ -28,7 +28,7 @@
  Morningstar Schläger im Gefängnis sind, hätte in der Stadt auch Ruhe geherrscht. Was willst du?}
 {122}{}{Du weißt ja wirklich, wie man das Kind mit dem Bade ausschüttet, was? Bei einer Prügelei
  in 'ner Bar muß doch niemand draufgehn. Und was zum Teufel willst du jetzt noch von mir?}
-{123}{}{Wer sind Sie?}
+{123}{}{Wer bist du?}
 {124}{}{Ich wollte dich was fragen.}
 {125}{}{Ich kam nur gerade vorbei. Ich glaub, ich gehe einfach weiter. Wiedersehn.}
 {126}{}{Hallo. Ich bin Marge. Marge LeBarge und mir gehört diese Mine.}
@@ -42,11 +42,11 @@
  Vault City, New Reno und in die New California Republic.}
 {134}{}{Es wird ja überallhin geschickt!}
 {135}{}{Warum hast du deine Mine Kokoweef genannt?}
-{136}{}{Ich möcht dich noch was anderes fragen.}
+{136}{}{Ich möchte dich noch was anderes fragen.}
 {137}{}{Ach so. Danke; das ist alles, was ich im Moment wissen muß. Wiedersehn.}
 {138}{}{Klar. Jeder mag Gold. Du solltest mal mit dem Karawanen-Meister James Hoffy sprechen,
  wenn du wirklich daran interessiert bist.}
-{139}{}{Ich möcht dich noch was anderes fragen.}
+{139}{}{Ich möchte dich noch was anderes fragen.}
 {140}{}{Danke, das werde ich tun. Wiedersehn.}
 {141}{}{Ein Garden-Eden-Creation-Kit, was? Der Name macht was her! Wenn ich sowas hätte,
  würde ich sicher nicht in der Erde herumbuddeln, um über die Runden zu kommen, oder?}

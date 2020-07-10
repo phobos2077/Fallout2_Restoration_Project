@@ -12,7 +12,7 @@
 {126}{}{Es gibt genug Beweise, um dich dafür festzunehmen, dass du Geld, das für Broken Hills
  bestimmt war, gestohlen hast. Gib mir $1000, dann sorg ich dafür, daß du
  abhauen kannst.}
-{127}{}{Wer sind Sie?}
+{127}{}{Wer bist du?}
 {128}{}{Erzähl mir was über diesen Ort.}
 {129}{}{Nichts. Tschüß.}
 {130}{}{Was das Ödland so alles hierherweht! Tut mir leid Kumpel, ich kann dir auch nicht helfen.}

@@ -6,7 +6,9 @@
 {121}{}{Ich hab keine Zeit für deine Kindereien. Ich plane die Übernahme der Weltherrschaft. Also verzieh dich.}
 {122}{}{Stör mich nicht. Das ist die letzte Warnung.}
 {123}{}{Das war's. Zomak! Töte ihn für mich!}
-{130}{}{Die Erneuerung ist zum Greifen nah. Doch sie wird nicht näher kommen, wenn du dich nicht daran machst, unseren Atomreaktor zu reparieren. (Zu sich selbst) Menschen!... Sie rauben einem wirklich jegliche Illusion.}
+{130}{}{Die Erneuerung ist zum Greifen nah. Doch sie wird nicht näher kommen, wenn du dich nicht daran
+ machst, unseren Atomreaktor zu reparieren. (Zu sich selbst) Menschen!...
+ Sie rauben einem wirklich jegliche Illusion.}
 {131}{}{Den Atomreaktor reparieren?}
 {132}{}{Tja, also. Ich geh dann mal. Wiedersehn.}
 {140}{}{Ich rieche einen meiner Talismane an dir. Ich kann mich aber nicht erinnern, dir einen gegeben zu haben.}
@@ -50,7 +52,7 @@
 {230}{}{Der erste Schritt war schon mal die Reparatur des Reaktors. Damit Gecko und Vault City überleben können, muß aber noch was getan werden.}
 {231}{}{Noch ein Schritt?}
 {232}{}{Bist du plötzlich der besorgte Bürger?}
-{233}{}{Ich denke ich hab genug gehört. Tschüß.}
+{233}{}{Ich denke ich hab genug gehört. Tschüss.}
 {234}{}{Wie kommt es, daß eine sprechende Riesenratte sich so sehr für all das interessiert?}
 {240}{}{Gute Arbeit. Vault City und Gecko können sich freuen. Jetzt, wo der Reaktor einwandfrei läuft, bin ich nicht mehr weit von der Weltherrschaft entfernt. Du kannst jetzt gehn. Ich hab zu tun.}
 {241}{}{Für dich hab ich's bestimmt nicht gemacht. Tschüß.}
@@ -115,7 +117,8 @@
 {443}{}{(Krach, mampf, krach) Mmmm, ich liebe Käse-Chips, sie sind so, äh, käsig.}
 {444}{}{Äh...}
 {450}{}{Wie du wünschst. Zomak! Töte diesen Idioten. Aber paß auf die Käse-Chips auf!}
-{460}{}{Du mußt die Disk mit den Reaktordaten auf dem Zentralcomputer von Vault City laufen lassen. Entweder du schleichst dich rein und benutzt ihn einfach oder, falls du die Disk mit den Wirtschaftsdaten hast, geh zu McClure.}
+{460}{}{Du mußt die Disk mit den Reaktordaten auf dem Zentralcomputer von Vault City laufen lassen. Entweder
+ du schleichst dich rein und benutzt ihn einfach oder, falls du die Disk mit den Wirtschaftsdaten hast, geh zu McClure.}
 {461}{}{Disk mit den Wirtschaftsdaten?}
 {462}{}{Oh, okay.}
 {463}{}{Bring die analysierte Disk mit den Reaktordaten einfach zu Festus. Er wird die Daten eingeben, die du brauchst, um die Reaktorleistung zu verbessern.}

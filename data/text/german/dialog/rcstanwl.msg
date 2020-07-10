@@ -47,7 +47,7 @@
 {138}{}{Wir müssen die Brahmin von den umliegenden Dörfern herholen, bevor wir aufbrechen können. Wir werden
  am frühen Morgen des 11. zum Aufbruch bereit sein. Komm dann wieder vorbei, wenn du einen Job möchtest.}
 {139}{}{Wie war das, was transportierst du normalerweise?}
-{140}{}{Ich möcht dich noch was anderes fragen.}
+{140}{}{Ich möchte dich noch was anderes fragen.}
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir sind eigentlich immer auf der Suche nach Karawanenwachen, aber wie ich schon sagte, vor dem 11. des Monats werden wir nicht zum
  Aufbruch bereit sein. Wenn du dann immer noch einen Job brauchst, komm doch einfach vorbei.}
@@ -58,7 +58,7 @@
 {147}{}{Oh, okay.}
 {148}{}{Wir tauschen die besten Brahmin aus der NCR gegen Golderz in Redding. Ganz einfach — genau so, wie ich es gern mag.}
 {149}{}{Da bist du ja. Du sagtest doch, daß du noch Wachen suchst? }
-{150}{}{Ich möcht dich noch was anderes fragen.}
+{150}{}{Ich möchte dich noch was anderes fragen.}
 {151}{}{Oh, OK. Wiedersehn.}
 {152}{}{Genau zum richtigen Zeitpunkt. Wir wollten gerade aufbrechen. Es gibt $2000 für den Job, aber ich zahle nur dich dafür,
  weil ich nur noch eine Wache brauche. Alles klar?}

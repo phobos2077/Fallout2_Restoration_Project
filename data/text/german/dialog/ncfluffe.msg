@@ -30,7 +30,7 @@
 {247}{}{Gar nicht so einfach ein Fluffer zu sein.}
 {248}{}{Ich hab gehört, daß sich in den Familien wieder was zusammenbraut.}
 {249}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{250}{}{I wünschte die Brüder würden mich spielen lassen.}
+{250}{}{Ich wünschte die Brüder würden mich spielen lassen.}
 {251}{}{Ich weiß nicht, was die Korsischen Brüder in IHR sehen...}
 {255}{}{Oh mein Gott... Er ist es.}
 {256}{}{Schaut euch mal diese Muskeln an! Ich werde schwach...}
@@ -59,7 +59,7 @@
 {300}{}{Oh, Mist! Es ist Myron! Lauf!}
 {301}{}{Verdammt! Es ist Myron. Bleib ruhig... er kann Angst riechen.}
 {302}{}{Du solltest Myron besser von mir fernhalten.}
-{303}{}{Myron, you better stay the HELL away from me.}
+{303}{}{Myron, du kommst mir VERDAMMT nochmal nicht zu nah.}
 {304}{}{Wenn Myron hier anfängt zu arbeiten, dann bin ich weg.}
 {305}{}{Myron, hast du die Fünf-Sekunden-Marke schon überschritten?}
 {306}{}{Myron, du verschwindest besser von hier, bevor die Brüder dich sehen.}
@@ -78,20 +78,20 @@
 {330}{}{Wer ist denn dein süßer Freund mit dem Knochen in der Nase?}
 {331}{}{Sieh dir den Wilden mit dem Knochen in der Nase gut an. Der bringt's noch mal weit.}
 {332}{}{Wow, ich hab ja schon Unfälle am Set gesehen, aber noch nie einen, der sich einen Knochen in der Nase eingeklemmt hat.}
-{333}{}{I wünschte die Brüder würden mich spielen lassen.}
+{333}{}{Ich wünschte die Brüder würden mich spielen lassen.}
 {334}{}{::Starrt dich an::}
 {335}{}{Na toll. NOCH 'ne Fluffermieze. So wie die aussieht, arbeitet die bestimmt für den halben Preis.}
 {336}{}{Wer ist die denn?}
-{337}{}{Wer sind Sie?}
+{337}{}{Wer bist du?}
 {345}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muß, muß ich mich übergeben.}
 {346}{}{Gar nicht so einfach ein Fluffer zu sein.}
 {347}{}{Ich hab gehört, daß sich in den Familien wieder was zusammenbraut.}
 {348}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
-{349}{}{I wünschte die Brüder würden mich spielen lassen.}
+{349}{}{Ich wünschte die Brüder würden mich spielen lassen.}
 {350}{}{Na toll. NOCH 'ne Fluffermieze. So wie die aussieht, arbeitet die bestimmt für den halben Preis.}
 {351}{}{::Starrt dich an::}
 {352}{}{Wer ist die denn?}
-{353}{}{Wer sind Sie?}
+{353}{}{Wer bist du?}
 {360}{}{Die Enklave? Präsident? Erzähl mir die ganze Geschichte.}
 {361}{}{Tom French hat mir ein Drehbuch geschrieben. Er hat weiche, sanfte Hände.}
 {362}{}{Sie kämpften immer noch diesen KRIEG?! Mann, gut, dass du diese Mistkerle erledigt hast.}
@@ -112,12 +112,12 @@ Odland-Stamm an - nichts für ungut - und gehst dann weiter dazu, die ganze Welt 
 {379}{}{Ähm, ich weiß, es wird gerade nicht gefilmt, aber brauchst du trotzdem einen Fluffer?}
 {380}{}{Brauchst du jemanden, der sich für dich darum kümmert?}
 {381}{}{Brauch ein feuchtes Handtuch.}
-{382}{}{Ich hab dich geliebt in "Great Balls for Hire".}
-{383}{}{Ich hab dich geliebt in "Good Will Humping".}
-{384}{}{Ich fand dich großartig in "Pokeahotass".}
-{385}{}{Ich fand dich großartig in "Vault Sexteen". Richtig inspirierend.}
-{386}{}{I haven't seen the Brothers around…try the office, maybe?}
-{387}{}{Besteht die Möglichkeit, dass du die korsischen Brüder überreden kannst, mich spielen zu lassen?}
+{382}{}{Du warst echt Klasse in Great Balls for Hire.}
+{383}{}{Du warst spitze in Good Will Humping.}
+{384}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
+{385}{}{Ich fand dich großartig in Vault Sexteen. Richtig inspirierend.}
+{386}{}{Ich hab die Brüder noch nicht gesehen... vielleicht im Büro?}
+{387}{}{Besteht die Möglichkeit, dass du die Korsischen Brüder überreden kannst, mich spielen zu lassen?}
 {388}{}{Die Fluffer haben die wichtige Aufgabe, die Darsteller hart zu kriegen.}
 {389}{}{Könnte ich in deinem nächsten Film mitspielen?}
 {390}{}{Ich will nicht mein Leben lang ein Fluffer bleiben. Nein, wirklich nicht.}
@@ -143,7 +143,7 @@ Odland-Stamm an - nichts für ungut - und gehst dann weiter dazu, die ganze Welt 
 {429}{}{Du solltest Pornos machen, du hast den richtigen Körper dafür.}
 {430}{}{Willste Boxen?}
 {431}{}{Hum Job? Davon sprechen wir ein anderes mal.}
-{432}{}{Watch out for the Masticator. He's a real jerk. He tried to bite my ear off once.}
+{432}{}{Vorsicht vor dem Mastikator. Er ist ein Arsch. Hat einmal versucht, mir ein Ohr abzubeißen.}
 {433}{}{Guten Tag, Ma'am. Kann ich dir helfen mit...*irgendwas?*}
 {434}{}{Wenn sie später eine Begleitung suchen Fräulein...}
 {435}{}{Möchten Sie das Übliche, Ma'am?}
@@ -166,7 +166,7 @@ Odland-Stamm an - nichts für ungut - und gehst dann weiter dazu, die ganze Welt 
 {470}{}{Wer ist denn dein süßer Freund mit dem Knochen in der Nase?}
 {471}{}{Sag dem Stammesangehörigen mit dem Knochen in der Nase, dass er es in dieser Branche weit bringen wird.}
 {472}{}{Wow, ich hab ja schon Unfälle am Set gesehen, aber noch nie einen, der sich einen Knochen in der Nase eingeklemmt hat.}
-{473}{}{I haven't seen the Brothers around…try the office, maybe?}
+{473}{}{Ich hab die Brüder noch nicht gesehen... vielleicht im Büro?}
 {474}{}{Die Fluffer haben die wichtige Aufgabe, die Darsteller hart zu kriegen.}
 {475}{}{Ich möchte wirklich mispielen.}
 {476}{}{Ich will nicht mein Leben lang ein Fluffer bleiben. Nein, wirklich nicht.}
@@ -187,7 +187,7 @@ Odland-Stamm an - nichts für ungut - und gehst dann weiter dazu, die ganze Welt 
 {491}{}{Salzmilch? Man gewöhnt sich dran.}
 {500}{}{Nein danke. Ich könnte ja mit meinem Lippenstift mehr Spaß haben.}
 {501}{}{Du? Tut mir leid, aber SO verzweifelt werde ich nie sein.}
-{502}{}{I haven't seen the Brothers around…try the office, maybe?}
+{502}{}{Ich hab die Brüder noch nicht gesehen... vielleicht im Büro?}
 {503}{}{Die Fluffer haben die wichtige Aufgabe, die Darsteller hart zu kriegen.}
 {504}{}{Ich möchte wirklich mispielen.}
 {505}{}{Ich will nicht mein Leben lang ein Fluffer bleiben. Nein, wirklich nicht.}

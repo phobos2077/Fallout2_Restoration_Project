@@ -34,7 +34,8 @@
 {180}{}{Nett dich kennenzulernen.}
 {181}{}{Deine Eltern haben mich geschickt, damit ich dich finde.}
 {182}{}{Man sieht sich, Kleiner.}
-{183}{}{Klasse! Ich wollte schon heim, aber Vegeir sagt, seine Leute können sich nicht so weit über der Erde bewegen und mich mitnehmen... Nicht daß ich dir nicht traue, aber wie heißt mein Vater?}
+{183}{}{Klasse! Ich wollte schon heim, aber Vegeir sagt, seine Leute können sich nicht so weit über der Erde
+ bewegen und mich mitnehmen... Nicht daß ich dir nicht traue, aber wie heißt mein Vater?}
 {184}{}{Farrel}
 {185}{}{Cornelius}
 {186}{}{Balthas}
@@ -43,7 +44,8 @@
 {189}{}{Traust du mir nicht, Jonny?}
 {190}{}{Ähhh... nein. Danke, daß du mir meinen Hund gebracht hast, aber ich muß jetzt gehen. Tschüss.}
 {191}{}{War wirklich toll, dich kennenzulernen, aber ich muß jetzt gehen. Tschüß.}
-{192}{}{Stimmt! Jippie! Ich geh heim. Frag Vegeir, ob du mich nach Hause bringen kannst. Er war so nett zu mir, ich will nicht weg, wenn er nicht sagt, daß das OK ist. Beeil dich bitte, ich hab Heimweh.}
+{192}{}{Stimmt! Jippie! Ich geh heim. Frag Vegeir, ob du mich nach Hause bringen kannst. Er war so nett zu mir,
+ ich will nicht weg, wenn er nicht sagt, daß das OK ist. Beeil dich bitte, ich hab Heimweh.}
 {193}{}{OK, Mister, ich glaub dir. Frag Vegeir, ob du mich nach Hause bringen kannst. Er war so nett zu mir, ich will nicht weg, wenn er nicht sagt, daß das OK ist.}
 {194}{}{OK, Miss, ich glaub dir. Frag Vegeir, ob du mich nach Hause bringen kannst. Er war so nett zu mir, ich will nicht weg, wenn er nicht sagt, daß das OK ist.}
 {195}{}{Nö, ich spiel jetzt mit meinen Freunden. Tschüß.}

@@ -40,7 +40,7 @@
 {324}{}{Erzähl mir was anderes.}
 {325}{}{Ich glaub, das ist alles, was ich im Moment wissen muß.}
 {330}{}{Den ist ein Haufen Abschaum und Bosheit südlich von hier, vielleicht eine Woche entfernt. Kann mich nicht mehr so genau erinnern. Jedenfalls ist's dort ziemlich aufregend. Gefährlich, aber aufregend. Irgendwie schade, daß ich nicht dort bleiben konnte.}
-{331}{}{Ich möcht dich noch was anderes fragen.}
+{331}{}{Ich möchte dich noch was anderes fragen.}
 {332}{}{Ich geh dann mal. Danke.}
 {340}{}{Ich weiß nicht genau, wo Vic ist. Ich weiß, daß er die Straße runter ein Haus hat, Richtung Osten. Soweit ich weiß, könnte er auf Reisen sein und mit den Wilden oder sogar in Den Geschäfte machen. Ich hoffe, es geht ihm gut. Er wurde langsam mehr als nur ein Stammkunde für mich.}
 {341}{}{Dann hoffe ich, daß es ihm gut geht. Ich hätte noch 'ne andre Frage an dich.}

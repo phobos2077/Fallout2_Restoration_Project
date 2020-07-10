@@ -5,7 +5,7 @@
 {104}{}{Agg. Um. Duur.}
 {105}{}{Dr. Jing schickt mich. Er braucht eine gehärtete Powerrüstung.}
 {106}{}{Kannst du Powerrüstungen aufrüsten?}
-{107}{}{Wer sind Sie?}
+{107}{}{Wer bist du?}
 {108}{}{Was machst du hier?}
 {109}{}{Nichts, Danke.}
 {110}{}{Verdammt, es laufen doch täglich mehr Untermenschen herum. Schh! Schh!}

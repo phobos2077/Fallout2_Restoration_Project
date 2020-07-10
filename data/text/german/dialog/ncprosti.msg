@@ -26,10 +26,10 @@
 {200}{}{Mmmm-mmmm. Mach weiter, Schätzchen.}
 {201}{}{Für was brauchst du mich, Schwarzer Mann?}
 {202}{}{Hoppla. Mir ist da etwas in deine Hose gefallen. Lass es mich holen.}
-{203}{}{Ich hab dich geliebt in "Great Balls for Hire".}
-{204}{}{Ich hab dich geliebt in "Good Will Humping".}
+{203}{}{Du warst echt Klasse in Great Balls for Hire.}
+{204}{}{Du warst spitze in Good Will Humping.}
 {205}{}{Du warst klasse in Vault Sexzehn.}
-{206}{}{Ich fand dich großartig in "Pokeahotass".}
+{206}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
 {207}{}{Mmmmm-mmmm. Wie hältst du dich so fit?}
 {208}{}{Gibst du mir ein Autogramm? Auf die Brust?}
 {209}{}{Könnte ich in deinem nächsten Film mitspielen?}

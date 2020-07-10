@@ -21,7 +21,7 @@
 {245}{}{[Starre mit höhnischem Blick zurück]}
 {246}{}{[Starre mit betontem Desinteresse zurück]}
 {247}{}{[[Verschwinde]]}
-{248}{}{Wer sind Sie?}
+{248}{}{Wer bist du?}
 {249}{}{Bist du Jesus Mordino?}
 {250}{}{Entschuldigung. Ich bin im falschen Zimmer.}
 {260}{}{Du. (Mordino starrt Myron beim Eintreten an, ein schwarzes Blitzen flackert in seinen Augen.) Du hast... deinen Posten verlassen. Für mich bist du nicht mehr... von NUTZEN. (Er macht eine Bewegung, und seine Wachen greifen nach ihren Waffen.)}

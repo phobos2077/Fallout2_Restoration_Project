@@ -7,7 +7,7 @@
 {106}{}{Dallo?}
 {107}{}{Dallo!}
 {108}{}{Was kann man denn hier so alles unternehmen?}
-{109}{}{Wer sind Sie?}
+{109}{}{Wer bist du?}
 {110}{}{Na prachtvoll. Ein armer Irrer. Wohl zuviel Strahlung abgekriegt, was? Ich kann dich nicht verstehen und ich kann dir auch nicht helfen.}
 {111}{}{Ich hab gesagt, daß ich dir nicht helfen kann! Jetzt hau ab und nerv gefälligst jemand anders!}
 {112}{}{Was man hier machen kann? Also die Mine ist geschlossen worden, weil wir keinen funktionierenden Luftreiniger haben. Dann gibt es einen Saloon, die Leute von der Karawane und einen Gemischtwarenladen. Das wär's eigentlich auch. Warte mal ... wovon hatten wir gerade geredet?}
@@ -39,10 +39,10 @@
 {138}{}{Ich kann immer noch nicht glauben, daß die Mine in die Luft geflogen ist. Jetzt müssen wir alle verhungern. Diese Mine hat die Stadt am Leben erhalten. Immerhin kann ich jetzt in Ruhe senil werden, ohne weiter arbeiten zu müssen ...}
 {139}{}{Du dreckiger Bastard! Stirb!}
 {140}{}{Danke, daß du die Mine für uns in Ordnung gebracht hast. Wir stehen tief in deiner Schuld. Was kann ich für dich tun?}
-{141}{}{Wer sind Sie?}
+{141}{}{Wer bist du?}
 {142}{}{Was kann man hier in der Stadt machen?}
 {143}{}{Nichts.}
 {144}{}{Wir stehen in deiner Schuld, weil du uns vor den Bastarden aus der NCR bewahrt hast. Noch mal Danke! Was kann ich für dich tun?}
-{145}{}{Wer sind Sie?}
+{145}{}{Wer bist du?}
 {146}{}{Was kann man hier in der Stadt machen?}
 {147}{}{Nichts.}

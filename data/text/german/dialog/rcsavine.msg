@@ -47,7 +47,7 @@
 {138}{}{Hey, ich stelle gerade eine Ladung von heiklem Zeug zusammen. Zeug, das so seine Zeit dauert. Qualität kann man nicht
  über den Zaun brechen, weißt du. Wir brechen wahrscheinlich am 21. auf. Komm dann wieder, wenn du immer noch einen Job suchst.}
 {139}{}{Was transportiert ihr denn normalerweise?}
-{140}{}{Ich möcht dich noch was anderes fragen.}
+{140}{}{Ich möchte dich noch was anderes fragen.}
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir suchen eigentlich immer Karawanenwachen, aber ich bin noch nicht fertig zum Aufbruch. Am 21. werde ich so
  weit sein. Komm dann wieder, wenn du einen Job brauchst.}
@@ -59,7 +59,7 @@
 {148}{}{Tja, in New Reno nehmen wir meistens, äh, Medikamente mit - ja genau, das ist es - und die tauschen wir in
  Redding gegen Gold ein.}
 {149}{}{Interessant. Und du sagst, du suchst nach Wachen?}
-{150}{}{Ich möcht dich noch was anderes fragen.}
+{150}{}{Ich möchte dich noch was anderes fragen.}
 {151}{}{Oh, OK. Wiedersehn.}
 {152}{}{Genau zum richtigen Zeitpunkt. Wir sind gerade bereit aufzubrechen. Der Job bringt $1500, aber ich bezahle
  nur dich für diesen Job, weil ich nur noch eine Wache brauche. Alles klar?}

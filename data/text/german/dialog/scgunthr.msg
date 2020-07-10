@@ -6,7 +6,7 @@
 {103}{}{Kann ich etwas für dich tun?}
 {104}{}{Du schon wieder?}
 {105}{}{Ähhhh...Arbeit. Arbeit Tandi.}
-{106}{}{Wer sind Sie?}
+{106}{}{Wer bist du?}
 {107}{}{Ich würde gern zu Präsidentin Tandi. Ich möchte für sie arbeiten.}
 {108}{}{Tut mir leid, war wohl das falsche Büro.}
 {109}{}{Du wollen Arbeit?}

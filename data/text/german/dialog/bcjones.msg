@@ -12,7 +12,7 @@
 {111}{}{Ich bin verstümmelt, kannst du mir helfen?}
 {112}{}{Ich möchte dich was fragen.}
 {113}{}{Ich wollte nur mal Hallo sagen.}
-{114}{}{Ja, sicher. Hier, wir geben dir eine Dosis hiervon — das piekst ein bißchen — jetzt eine Bandage, und schon bist du wieder OK.}
+{114}{}{Ja, sicher. Hier, wir geben dir eine Dosis hiervon — das piekst ein bisschen — jetzt eine Bandage, und schon bist du wieder OK.}
 {115}{}{Danke. Wieder-sehn.}
 {116}{}{Danke Doc. Ich fühl mich schon viel besser.}
 {117}{}{Ja, sicher. Hier, trink das — alles, ich weiß, daß es furchtbar schmeckt. Jetzt leg dich da drüben aufs Bett. Ich weck dich morgen früh.}

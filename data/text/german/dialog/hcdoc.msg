@@ -33,7 +33,7 @@
 {126}{}{Du würdest staunen, was die Leute unter Schmerzen alles erzählen.}
 {127}{}{Ach ja, was denn?}
 {128}{}{Ich hab mich anders entschieden. Ich möchte lieber andere Fragen stellen.}
-{129}{}{Das macht 50 Dollar.}
+{129}{}{Das macht $50.}
 {130}{}{In Ordnung.}
 {131}{}{Vergiss es.}
 {132}{}{Bei solchen Wunden verlierst du $100.}

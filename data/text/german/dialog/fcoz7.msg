@@ -8,7 +8,7 @@
 {107}{}{Ich bin hier, um mit Crockett über ein paar Rüstungen zu sprechen.}
 {108}{}{Ich würd mich gern mal umsehen.}
 {109}{}{Ich bin generell daran interessiert, eurer Gruppe beizutreten.}
-{110}{}{Wer sind Sie?}
+{110}{}{Wer bist du?}
 {111}{}{Ich bin gekommen, um euch alle zu töten.}
 {112}{}{Ach, du armes Kind. Möchtest du angepasst werden?}
 {113}{}{Ja!}

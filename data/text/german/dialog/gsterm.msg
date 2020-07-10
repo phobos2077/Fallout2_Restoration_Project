@@ -176,7 +176,9 @@
 {512}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 75% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
 {514}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 80% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
 {516}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 85% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 90% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{518}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 90% der Einheitstoleranz.
+ Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9,
+ MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
 {520}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 95% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Nach links.}
 {524}{}{Nach rechts.}

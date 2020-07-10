@@ -53,7 +53,8 @@
 {202}{}{Ich verstehe. Ich habe aber noch immer eine Frage.}
 {203}{}{Das ist das Dümmste, was ich je gehört habe.}
 {204}{}{Faszinierend. Ich muß los.}
-{205}{}{Unser Auftrag lautet, eine stabile und hochwertige Arbeitstruppe zusammenzustellen, welche den ständig wachsenden Anforderungen der größeren Städte gerecht werden kann.
+{205}{}{Unser Auftrag lautet, eine stabile und hochwertige Arbeitstruppe zusammenzustellen, welche den
+ ständig wachsenden Anforderungen der größeren Städte gerecht werden kann.
  Möchtest du dabei sein?}
 {206}{}{Sicher. Hört sich super an.}
 {207}{}{Niemals!}

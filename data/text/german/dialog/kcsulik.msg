@@ -50,7 +50,7 @@
 {211}{}{Vielleicht können wir uns ein andermal ausführlicher unterhalten. Tschau.}
 {220}{slk7}{Vic sein Verräter, nix Händler. Kommen in Dorf, sagen, wissen alles über Sklavenhändler, sagen, wir kommen zu ihm. Wir gehen, er nicht da.}
 {221}{}{Deine Schwester wurde von Sklavenhändlern geraubt?}
-{222}{}{Ich möcht dich noch was anderes fragen.}
+{222}{}{Ich möchte dich noch was anderes fragen.}
 {223}{}{Ich glaube, das ist im Augenblick alles. Wiedersehn.}
 {230}{slk8}{Wir dir wollen danken. Heißen Sulik. Wie können wir gutmachen?}
 {231}{}{Oh.}
@@ -227,7 +227,7 @@
 {769}{}{Würdest du gerne mitkommen? Im Laufe der Reise finden wir vielleicht auch deine Schwester.}
 {770}{}{Im Moment brauche ich glaub ich keine weiteren Informationen.}
 {771}{slk45}{Heimat von Stamm ist neben Großes Salzwasser. Zwei Monde von hier, mein Freund.}
-{772}{}{Ich möcht dich noch was anderes fragen.}
+{772}{}{Ich möchte dich noch was anderes fragen.}
 {773}{}{Zwei Monde? Das ist ganz schön weit. Wie konntest du eine so lange Reise unbeschadet überstehen?}
 {774}{}{Mehr brauche ich jetzt nicht. Wiedersehen.}
 {775}{slk46}{Geckos. Kleine Kerle sein nicht so bissig. Aber die Goldenen. Die dein Bein glatt durchbeißen.}

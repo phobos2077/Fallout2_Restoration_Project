@@ -213,7 +213,6 @@
 {734}{}{Also gut. Ich versuch es später noch mal.}
 {735}{}{(Zwinkert.) Du bist bares Geld, Baby, bares Geld!}
 {740}{}{Die Korsischen Brüder zu deinen Diensten... (Der Mann schaut hoch, lächelt.) Hey,
-
  willkommen zurück, }
 {743}{}{Klar will ich. Laß uns ein paar Bettfedern ausleiern.}
 {745}{}{Eigentlich nicht. Ich bin hier wegen Big Jesus Mordinos Geld.}

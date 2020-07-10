@@ -42,7 +42,7 @@
 {254}{}{Naa-aacht.}
 {255}{}{Äh, eigentlich isses ja Tag, Vater.}
 {256}{}{Äh, eigentlich isses ja Nacht, Vater.}
-{257}{}{Wer sind Sie?}
+{257}{}{Wer bist du?}
 {258}{}{Bist du betrunken?}
 {259}{}{"Vater" Tully, hä? Machst du auch Scheidungen?}
 {261}{}{Sag mal, ich hab dir was Alk mitgebracht, Vater. Können wir 'n Moment reden...?}

@@ -5,7 +5,7 @@
 {104}{}{Daggel aggel aggel!}
 {105}{}{Wer du?}
 {106}{}{Mit wem hast du da gekämpft?}
-{107}{}{Wer sind Sie?}
+{107}{}{Wer bist du?}
 {108}{}{Ich möchte lernen, wie du zu kämpfen. Lehre mich.}
 {109}{}{Ich möchte dich herausfordern.}
 {110}{}{Vergiss es.}
@@ -110,7 +110,8 @@
 {230}{}{Zuerst mußt du beweisen, daß du es kannst. Ich lasse dich gegen fünf meiner Kämpfer antreten - nacheinander. Wenn du sie besiegst, wirst du vor die letzte Prüfung gestellt. }
 {231}{}{Was ist das?}
 {232}{}{Hört sich nach zu viel Ärger an. Mach's gut.}
-{233}{}{Du mußt meinen bevorzugten Schüler besiegen. Aber keiner dieser Kämpfe wird auf Leben und Tod sein - zum Schutz meiner Männer, versteht sich. [Er grinst höhnisch]}
+{233}{}{Du mußt meinen bevorzugten Schüler besiegen. Aber keiner dieser Kämpfe wird auf Leben und Tod sein
+ - zum Schutz meiner Männer, versteht sich. [Er grinst höhnisch]}
 {234}{}{Dann fangen wir mal an!}
 {235}{}{Kümmer dich doch selbst um den Drachen.}
 {236}{}{[Lo Pan mustert dich und bevor du noch Zeit hast zu reagieren, trifft er dich mit einem schnellen Fausthieb auf die Nase.] Du bist nicht gut genug.}

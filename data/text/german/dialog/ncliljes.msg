@@ -91,7 +91,7 @@
 {507}{}{Willst du was, Chica?}
 {508}{}{Hu uuh?}
 {511}{}{[Verschwinde]}
-{512}{}{Wer sind Sie?}
+{512}{}{Wer bist du?}
 {513}{}{Tut mir leid. Ich dachte, du wärst jemand anderes.}
 {522}{}{Äh...? Du schon wieder? Was willst du jetzt?}
 {523}{}{Heeeey... wassn los, Kumpel? Haste was vor?}

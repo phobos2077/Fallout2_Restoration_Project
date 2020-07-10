@@ -1,5 +1,5 @@
-1::Auserwähltes Wesen?
-2::Auserwähltes Wesen?
+1:Auserwähltes Wesen?
+2:Auserwähltes Wesen?
 3:Kannst du mich hören?
 4:Das Dorf stirbt.
 5:Unser aller Zukunft stirbt mit Ihm.

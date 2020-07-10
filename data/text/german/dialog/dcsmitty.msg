@@ -105,7 +105,7 @@
 {512}{}{Ich komme wieder, wenn ich einen gefunden hab. Wiedersehn, Smitty.}
 {520}{}{Da hast du ihn. Ganz wie neu. Paﬂ aber ein biﬂchen auf.}
 {521}{}{Das werd ich. Danke, Smitty. Wiedersehn.}
-{600}{}{GEH BLOSS WEG DA VON MEINEM AUTO!}
+{600}{}{GEH BLOﬂ WEG DA VON MEINEM AUTO!}
 {650}{}{Wenn ich dich noch einmal bei meinem Auto erwische, passiert was.}
 {651}{}{Das wird nicht passieren.}
 {652}{}{Uggg-K}

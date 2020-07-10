@@ -27,7 +27,7 @@
 {244}{}{H‰‰?}
 {245}{}{Warum du sooo klein?}
 {246}{}{[[Verschwinde]]}
-{247}{}{Wer sind Sie?}
+{247}{}{Wer bist du?}
 {248}{}{Nichts. Ich seh mich nur um.}
 {250}{}{(Scheucht dich mit der Hand weg.) Hau ab, du Sackgesicht. Verschwendest hier meine Zeit.}
 {251}{}{Bzzzzzzz-bzzzzzz}

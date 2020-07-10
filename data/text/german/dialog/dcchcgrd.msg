@@ -21,7 +21,7 @@
 {169}{}{Wir müssen rein.}
 {170}{}{Der Boss hat uns geschickt.}
 {171}{}{Eine Gruppe auf den Weg hierher? Davon hätte ich gehört. Verschwindet!}
-{172}{}{Den Kopf hast du längste Zeit gehabt!}
+{172}{}{Den Kopf hast du die längste Zeit gehabt!}
 {173}{}{Ok, Ok; wir gehen.}
 {174}{}{Was willst du?}
 {175}{}{Wir müssen rein.}
@@ -31,7 +31,7 @@
 {179}{}{Hallo nochmal. Du kannst reinkommen.}
 {180}{}{Danke.}
 {181}{}{Hey, geh zum Teufel nochmal von der Tür weg!}
-{182}{}{Lass bloss die Finger von der Tür, sofern du keinen Ärger willst.}
+{182}{}{Lass bloß die Finger von der Tür, sofern du keinen Ärger willst.}
 {183}{}{Wenn du noch einmal die Tür anrührst, kriegst du eine Kugel in den Kopf.}
 {184}{}{Hey, was glaubst Du, was Du da machst?}
 {185}{}{Mir reichts mir dir.}

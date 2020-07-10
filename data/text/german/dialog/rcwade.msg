@@ -43,7 +43,7 @@
 {138}{}{Ich bin mir nicht sicher, wie lange ich brauche, um alle Medikamente aufzutreiben. Wahrscheinlich aber nicht viel länger
  als ein paar Wochen. Frag halt immer mal nach.}
 {139}{}{Was transportiert ihr denn normalerweise?}
-{140}{}{Ich möcht dich noch was anderes fragen.}
+{140}{}{Ich möchte dich noch was anderes fragen.}
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir suchen eigentlich immer nach Wachen für die Karawane, aber diese Karawane ist noch eine Weile nicht bereit zur Abreise. Du kannst
  aber immer mal nachfragen.}
@@ -55,7 +55,7 @@
 {148}{}{Tja, wir holen meistens Medikamente aus Vault City ab und tauschen sie in Redding gegen
  Golderz ein.}
 {149}{}{Interessant. Und du sagst, du suchst nach Wachen?}
-{150}{}{Ich möcht dich noch was anderes fragen.}
+{150}{}{Ich möchte dich noch was anderes fragen.}
 {151}{}{Oh, OK. Wiedersehn.}
 {152}{}{Genau zum richtigen Zeitpunkt. Wir wollten gerade aufbrechen. Es gibt $1000 für den Job, aber ich zahle nur dich dafür,
  weil ich nur noch eine Wache brauche. Alles klar?}
