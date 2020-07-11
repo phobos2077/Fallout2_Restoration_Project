@@ -11,7 +11,7 @@
 {303}{}{Erzähl mir was über euer Oberhaupt.}
 {304}{}{Hast du irgendwelche Infos über ein G.E.C.K.?}
 {305}{}{Weißt du, wo ich Vault 13 finden kann?}
-{306}{}{Tschüß.}
+{306}{}{Tschüss.}
 {307}{}{Ich bin auf der Suche nach einigen speziellen Informationen.}
 {308}{}{Und das wäre?}
 {400}{}{Ja, haben wir. Viel zu viele, meiner Meinung nach. Ich kann dir überhaupt nicht sagen, wie langweilig es ist, all diese Dateien jeden einzelnen Tag sichern zu müssen. Es gibt eben so viele Informationen zu bewahren, doch, selbstverständlich, muss es gemacht werden.}

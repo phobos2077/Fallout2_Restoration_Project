@@ -20,12 +20,12 @@
 {151}{}{Ich bin nur ein Wanderer.}
 {152}{}{Ich bin das Auserwählte Wesen.}
 {153}{}{Ich bin nur für meine jährliche Erneuerung hier.}
-{154}{}{Das ist schon OK. Ich muß ihm nur ein paar Fragen stellen.}
-{160}{}{Dann wander weiter und mach, daß du hier weg kommst.}
+{154}{}{Das ist schon OK. Ich muss ihm nur ein paar Fragen stellen.}
+{160}{}{Dann wander weiter und mach, dass du hier weg kommst.}
 {161}{}{Äh, OK. Wiedersehn.}
 {170}{}{Ja, wenn das so ist... Komm rein. Er ist gleich hier nebenan. Lass ihn nicht warten.}
 {171}{}{Keine Angst, ich geh gleich rein. Tschüss.}
-{172}{}{Ich komm vielleicht später wieder. Tschüß.}
+{172}{}{Ich komm vielleicht später wieder. Tschüss.}
 {180}{}{Du solltest lieber "auswählen" zu gehn. Verschwinde.}
 {181}{}{OK.}
 {200}{}{Ja, du kannst drinnen alles erneuern.}
@@ -36,16 +36,16 @@
 {221}{}{OK, ich geh jetzt.}
 {230}{}{Hier ist nur das Lager des Hirns. Mann, bist du blöd!}
 {231}{}{Das Hirn?}
-{232}{}{Das war ein Test. Du hast ihn bestanden. Jetzt laß mich rein.}
-{233}{}{Ich bin wohl etwas verwirrt. Muß an all der Strahlung liegen. Tschüß.}
-{240}{}{Hoppla, äh, hier ist nichts. Überhaupt nichts. Nun mach, daß du weg kommst.}
-{241}{}{Bist du sicher, daß hier nichts ist?}
+{232}{}{Das war ein Test. Du hast ihn bestanden. Jetzt lass mich rein.}
+{233}{}{Ich bin wohl etwas verwirrt. Muss an all der Strahlung liegen. Tschüss.}
+{240}{}{Hoppla, äh, hier ist nichts. Überhaupt nichts. Nun mach, dass du weg kommst.}
+{241}{}{Bist du sicher, dass hier nichts ist?}
 {242}{}{OK. Tschüss.}
 {250}{}{Ja. Ich bin sicher. Jetzt hau ab.}
 {251}{}{OK, wenn du's sagst. Tschüss.}
 {260}{}{Oh, heh, heh, Yeah. I knew that. Umm, well, err, did I pass? }
-{261}{}{Natürlich hast du bestanden. Jetzt laß mich rein.}
-{262}{}{Nein, du hast nicht bestanden. Und jetzt muß ich dich melden.}
+{261}{}{Natürlich hast du bestanden. Jetzt lass mich rein.}
+{262}{}{Nein, du hast nicht bestanden. Und jetzt muss ich dich melden.}
 {270}{}{OK. Du kannst gleich reingehn.}
 {271}{}{OK. Tschüss.}
 {280}{}{Du hast das Zeichen. Geh rein.}

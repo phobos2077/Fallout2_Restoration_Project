@@ -16,7 +16,7 @@
 {115}{}{Nächster Level:}
 {116}{}{  FIGURENPUNKTE}
 {117}{}{FÄHIGKEITEN}
-{118}{}{Du mußt alle Figurenpunkte verwenden,}
+{118}{}{Du musst alle Figurenpunkte verwenden,}
 {119}{}{ um mit dem Spiel zu beginnen!}
 {120}{}{Figurenpunkte}
 {121}{}{Anzahl der freien Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
@@ -91,7 +91,7 @@
 {318}{}{Beinverletz. (links)}
 {400}{}{Deine Figur wurde vergiftet. Gift schadet dem Organismus eine gewisse Zeitlang, bis es neutralisiert oder ausgeschieden wird.}
 {401}{}{Deine Figur leidet an einer beträchtlichen Strahlenvergiftung. Je höher die Verstrahlung, desto tödlicher der Effekt.}
-{402}{}{Dies bedeutet, daß deine Figur schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
+{402}{}{Dies bedeutet, dass deine Figur schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
 {403}{}{Der rechte Arm wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
 {404}{}{Der linke Arm deiner Figur wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
 {405}{}{Deine Figur hat ein verstümmeltes rechtes Bein.}
@@ -113,7 +113,7 @@
 {602}{}{IN DATEI DRUCKEN}
 {603}{}{LÖSCHEN}
 {604}{}{[Fertig]}
-{605}{}{Bist du sicher, daß du}
+{605}{}{Bist du sicher, dass du}
 {606}{}{die aktuelle Figur löschen willst?}
 {607}{}{ wurde gespeichert.}
 {608}{}{ wurde geladen.}
@@ -192,7 +192,7 @@
 {1024}{}{Mafioso: Wright}
 {1025}{}{Getrennt}
 {1026}{}{Raucher}
-{1100}{}{Dies ist ein Wert, der dein allgemeines Ansehen darstellt. Je höher der Wert, desto bekannter und respektierter bist du. Ist dein Ansehen negativ, wirst du von manchen wegen deiner bösartigen Handlungen gehaßt.}
+{1100}{}{Dies ist ein Wert, der dein allgemeines Ansehen darstellt. Je höher der Wert, desto bekannter und respektierter bist du. Ist dein Ansehen negativ, wirst du von manchen wegen deiner bösartigen Handlungen gehasst.}
 {1101}{}{Du hast ein viele Menschen getötet. Hierdurch bekannt zu werden ist im allgemeinen kein Vorteil. Menschen aus dem falschen Lager werden dich aber etwas mehr mögen.}
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
@@ -205,7 +205,7 @@
 {1110}{}{Du hast eine Präparat-Abhängigkeit. Du mußt regelmäßig Jet einnehmen.}
 {1111}{}{Tragischerweise bist von Tragic abhängig. Du bist ständig auf der Suche nach neuen Expansions-        möglichkeiten.}
 {1112}{}{TEMPORÄR - Was ist das?}
-{1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, daß er mehr will.}
+{1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, dass er mehr will.}
 {1114}{}{Du bist Schwergewichtsmeister von Nordkalifornien. Du hast Ruhm, Respekt und die Liebe Tausender erlangt...und außerdem einen Bonus für deine Härte und Schlagkraft ohne Waffen.}
 {1115}{}{Jetzt mal ganz ehrlich: Du schläfst mit allem, was zwei Beine hat. Und manchmal achtest du noch nicht mal darauf.}
 {1116}{}{"Die sind tot, denen ist es egal," ist zu deinem Leitspruch geworden. Die Überreste anderer auszugraben ist zu mehr als einem Hobby für dich geworden.}
@@ -224,15 +224,15 @@
 {2002}{}{Akzeptiert}
 {2003}{}{Neutral}
 {2004}{}{Antipathie}
-{2005}{}{Gehaßt}
+{2005}{}{Gehasst}
 {2006}{}{Verachtet}
 {2100}{}{Jeder in der Gegend würde gerne mit dir tauschen. Du bist der Liebling der ganzen Stadt und giltst als leuchtendes Beispiel dafür, was jemand aus sich machen kann.}
 {2101}{}{Die Leute winken dir zu und grüßen dich, egal wohin du auch kommst. Jeder in der Gegend hat schon von dir gehört und ist begeistert von dem, was man sich erzählt.}
-{2102}{}{Obwohl du in der Gegend nicht gerade mit offenen Armen empfangen wirst, nicken dir die meisten Leute doch zumindest zu. Du paßt ganz gut in die hiesige Gesellschaft.}
-{2103}{}{Obwohl die Leute in der Gegend Fremden gegenüber meistens mißtrauisch sind, sind sie sich über dich noch nicht völlig im klaren.}
+{2102}{}{Obwohl du in der Gegend nicht gerade mit offenen Armen empfangen wirst, nicken dir die meisten Leute doch zumindest zu. Du passt ganz gut in die hiesige Gesellschaft.}
+{2103}{}{Obwohl die Leute in der Gegend Fremden gegenüber meistens misstrauisch sind, sind sie sich über dich noch nicht völlig im klaren.}
 {2104}{}{Du bist einfach einer von vielen Fremden in der Stadt und führst wahrscheinlich nichts Gutes im Schilde.}
-{2105}{}{Du hast den Leuten aus der Gegend bewiesen, daß ihr anfängliches Mißtrauen dir gegenüber gerechtfertigt war. Es ist bekannt, daß du nichts Gutes im Schilde führst.}
-{2106}{}{Manche Leute wechseln unter Geflüster und bösen Blicken die Straßenseite, damit sie nicht in deiner Nähe gehen müssen. Alle wissen, daß du mit zu den schlimmsten Gestalten zählst.}
+{2105}{}{Du hast den Leuten aus der Gegend bewiesen, dass ihr anfängliches Misstrauen dir gegenüber gerechtfertigt war. Es ist bekannt, dass du nichts Gutes im Schilde führst.}
+{2106}{}{Manche Leute wechseln unter Geflüster und bösen Blicken die Straßenseite, damit sie nicht in deiner Nähe gehen müssen. Alle wissen, dass du mit zu den schlimmsten Gestalten zählst.}
 {3000}{}{Retter der Verdammten}
 {3001}{}{Wächter des Ödlands}
 {3002}{}{Schild der Hoffnung}

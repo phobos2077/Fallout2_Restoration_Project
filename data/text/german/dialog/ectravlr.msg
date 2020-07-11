@@ -15,21 +15,21 @@
 {114}{}{Eine alte, verlassene Anlage.}
 {115}{}{Ne, da war ich schon. Trotzdem danke.}
 {116}{}{New Reno -- Das ist ne Stadt Mann. Sex, Drogen und Glücksspiel. Was kann man da noch verlangen? Lass mich dir zeigen wo es liegt.}
-{117}{}{Danke. Tschüß.}
+{117}{}{Danke. Tschüss.}
 {118}{}{Vault City -- Also das ist die Stadt der Vollidioten. Lässt dir nen Extrafinger wachsen und schon behandeln sie dich wie nen Freak. War nie drin, aber ich weiß wo es liegt.}
-{119}{}{Danke. Tschüß.}
+{119}{}{Danke. Tschüss.}
 {120}{}{Redding... Weiß nicht mehr, als das es ne alte Minenstadt ist. Es liegt im Norden, gleich im Schoß der gemeinsten Berge die du je gesehen hast.}
-{121}{}{Danke. Tschüß.}
+{121}{}{Danke. Tschüss.}
 {122}{}{Ich würd mich an deiner Stelle von Den fern halten. Es ist eine Anlaufstelle für allen möglichen Abfall in der Gegend. Ich zeig dir wo es ist  aber ich rate dir dort nicht hinzugehen.}
-{123}{}{Danke. Tschüß.}
+{123}{}{Danke. Tschüss.}
 {124}{}{San Francisco. Öhm... alles was Ich darüber sagen kann ist, dass die Leute dort... Merkwürdig sind. Es ist an der Küste.}
-{125}{}{Danke. Tschüß.}
+{125}{}{Danke. Tschüss.}
 {126}{}{Die NCR. Ist ne nette Stadt. Ich würd mich dort eines Tages gerne zur Ruhe setzen. Sauber, nette Leute und ziemlich gut ausgebaut. Es ist gleich hier auf deiner Karte.}
-{127}{}{Danke. Tschüß.}
+{127}{}{Danke. Tschüss.}
 {128}{}{Ja, vor ner Weile traf ich auf ein verlassenes Zeltlager bei einer Mine. Hab geplant, mich für ein oder zwei Tage dort auszuruhen. Aber dann tauchten überall Wölfe auf und ich dachte mir, dass es das Beste wäre zu verduften. Wirklich schade, die Minenarbeiter müssen den Platz in ziemlicher Eile geräumt haben. Die ließen allerhand Zeug dort liegen. Ich beabsichtige nicht, dahin zurückzukehren aber ich denk es ist in Ordnung wenn ich dir den Weg zeig.}
-{129}{}{Danke. Tschüß.}
+{129}{}{Danke. Tschüss.}
 {130}{}{Also, vor einige Zeit stieß ich auf eine alte Anlage, die aussah, wäre sie seit dem großen Krieg verlassen. Sah auch ziemlich wichtig aus, also würde ich darauf wetten, dass sie gerammelt voll mit Vorkriegskrempel ist. Ich hätte das Teil selbst ausgeräumt, aber das gesamte Areal wird von tobsüchtigen menschenfressenden Pflanzen überwuchert. Ich habe nicht die Absicht dahin zurückzukehren, darum ist es wohl okay, wenn ich dir zeige, wo es ist.}
-{131}{}{Danke. Tschüß.}
+{131}{}{Danke. Tschüss.}
 {132}{}{Oh... Ist wirklich nicht wichtig. Eines Tages dachte ich mir, fängst du an zu wandern, und nun bin ich hier.}
 {133}{}{Vielleicht kannst du mir helfen. Ich brauch ein paar Wegbeschreibungen.}
 {134}{}{Was machst'n du so?}

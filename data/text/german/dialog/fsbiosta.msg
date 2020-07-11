@@ -23,7 +23,7 @@
 {122}{}{Xeno-Programm.}
 {123}{}{Neueste Personalvermerke.}
 {124}{}{Zurück.}
-{125}{}{(Nach etwa zwanzig Minuten setzt du dir folgende Information zusammen: Dr. Long Wang ist davon überzeugt, daß er mit Hilfe der Grundlagen des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, daß interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng bricht die Versuchsreihe ab. Nach Dr. Longs Tod wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
+{125}{}{(Nach etwa zwanzig Minuten setzt du dir folgende Information zusammen: Dr. Long Wang ist davon überzeugt, dass er mit Hilfe der Grundlagen des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, dass interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng bricht die Versuchsreihe ab. Nach Dr. Longs Tod wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
 {126}{}{Botanikprogramm.}
 {127}{}{Xeno-Programm.}
 {128}{}{Neueste Personalvermerke.}

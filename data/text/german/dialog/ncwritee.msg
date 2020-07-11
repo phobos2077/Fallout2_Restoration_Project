@@ -94,7 +94,7 @@
 {356}{}{Pass auf Masticator auf, ok? Er ist echt fies. Früher oder später beißt er dir ein Ohr ab.}
 {360}{}{Mom sagt du wärst ein Werkzeug des Teufels. Oder du hast ein Teufelswerkzeug. Irgendwas in der Richtung.}
 {361}{}{Du solltest hier nicht rumlaufen, oder Mom fängt wieder mit einer ihrer Predigten an.}
-{362}{}{Wie ist es denn so beim Film? Mom läßt mich deine Filme nicht sehen.}
+{362}{}{Wie ist es denn so beim Film? Mom lässt mich deine Filme nicht sehen.}
 {363}{}{Erzähle den kleinen nicht was du tust.}
 {364}{}{Mom wir durchdrehen, wenn sie dich sieht. Sie ist so hysterisch.}
 {365}{}{Wenn du nach Alkohol Ausschau hältst, dann bist du beim Bahnhof am richtigen Ort.}
@@ -133,7 +133,7 @@
 {418}{}{Du willst meinen Vater wegen dem Geschäft sehen? Viel Glück, soweit ich weiß heuert er zur Zeit keine Männer an.}
 {425}{}{Der Ghul gehört hier nicht hin. Schicke ihn besser sofort nach Gecko zurück.}
 {426}{}{Du bringst besser den Ghul nicht zu den Kindern. Sie werden vielleicht radioaktiv verstrahlt.}
-{427}{}{Ich würd vorschlagen, daß du und dein Ghul-Freund abhaut, bevor ihr Ärger kriegt.}
+{427}{}{Ich würd vorschlagen, dass du und dein Ghul-Freund abhaut, bevor ihr Ärger kriegt.}
 {1204}{}{! Verdammt geile Methode der Enklave in den Hintern zu treten!}
 {1205}{}{. Dazu gehört ne ordentliche Portion Mut.}
 {1240}{}{. Wie läuft's bei dir so?}

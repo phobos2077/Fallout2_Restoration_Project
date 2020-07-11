@@ -30,13 +30,13 @@
 {129}{}{Physik.}
 {130}{}{Geschichte.}
 {131}{}{Zurück.}
-{132}{}{Die Kinder von Shi-Town sind in Gefahr. Die Wahrscheinlichkeit, daß ein Killer unter ihnen ist, liegt bei 50%.}
-{133}{}{Shi-Town ist in Gefahr. Die Wahrscheinlichkeit, daß den Einwohnern etwas zustößt, liegt bei 75%.}
+{132}{}{Die Kinder von Shi-Town sind in Gefahr. Die Wahrscheinlichkeit, dass ein Killer unter ihnen ist, liegt bei 50%.}
+{133}{}{Shi-Town ist in Gefahr. Die Wahrscheinlichkeit, dass den Einwohnern etwas zustößt, liegt bei 75%.}
 {134}{}{Die Wahrscheinlichkeit eines Fehlstarts der Hubologenrakete liegt bei 95%. Gründe: Kein Treibstoff, ungeeignetes Dichtungsmaterial, schlechte Führung, Mangel an Initiative.}
 {135}{}{Die Wahrscheinlichkeit, dass der sogenannte "Auserwählte" seine Aufgabe erfüllt, liegt bei 15%.}
-{136}{}{Eingabewert zeigt, daß "Enklave" stärker als vermutet. Nicht annähern.}
-{137}{}{Wahrscheinlichkeit, daß U-Boot in diesem Spiel wieder auftaucht gleich 100%.}
-{138}{}{Wahrscheinlichkeit, daß die Tankervagabunden die Monsterplage ohne Hilfe von außen bewältigen gleich 0%. Nutzen einer Hilfeleistung wird untersucht.}
+{136}{}{Eingabewert zeigt, dass "Enklave" stärker als vermutet. Nicht annähern.}
+{137}{}{Wahrscheinlichkeit, dass U-Boot in diesem Spiel wieder auftaucht gleich 100%.}
+{138}{}{Wahrscheinlichkeit, dass die Tankervagabunden die Monsterplage ohne Hilfe von außen bewältigen gleich 0%. Nutzen einer Hilfeleistung wird untersucht.}
 {139}{}{Eingabe: Poseidon-Öltanker nicht bereit zum Auslaufen. Weitere Eingaben nötig.}
 {140}{}{Keine Bearbeitung. Weitere Eingaben nötig}
 {141}{}{[Mehr]}
@@ -76,7 +76,7 @@
 {175}{}{Genetikprogramm}
 {176}{}{Xeno-Programm.}
 {177}{}{Zurück.}
-{178}{}{(Nach etwa zwanzig Minuten setzt du folgende Informationen zusammen: Dr. Long Wang ist davon überzeugt, daß er auf der Grundlage des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, das interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng stellt die Versuchsreihe ein. Nach dem Tod von Dr. Long wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
+{178}{}{(Nach etwa zwanzig Minuten setzt du folgende Informationen zusammen: Dr. Long Wang ist davon überzeugt, dass er auf der Grundlage des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, das interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng stellt die Versuchsreihe ein. Nach dem Tod von Dr. Long wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
 {179}{}{Botanikprogramm.}
 {180}{}{Xeno-Programm.}
 {181}{}{Zurück.}
@@ -88,12 +88,12 @@
 {187}{}{Benzin und Derivate}
 {188}{}{Polymere}
 {189}{}{Zurück.}
-{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, daß die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend  haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
+{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, dass die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend  haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
 {191}{}{(Du entdeckst eine unglaubliche Masse komplexer chemischer Formeln und Laboraufzeichnungen. Du weißt nicht genau, was das alles zu bedeuten hat.}
 {192}{}{Leite Benzin zum Poseidon-Tanker.}
 {193}{}{Leite Benzin zu Hubologen.}
 {194}{}{Zurück.}
-{195}{}{(Nachdem du dich durch die Symbolik und die technischen Abhandlungen gekämpft hast, entdeckst du, daß die Shi an einer neuen feuer- und waffensicheren Polymer-Kampfrüstung arbeiten. Sie sind noch meilenweit von der Vollendung entfernt. Es ist außerdem von neuen Waffen und Konstruktionsmöglichkeiten die Rede. Anscheinend haben die Shi so manche Zukunftspläne.}
+{195}{}{(Nachdem du dich durch die Symbolik und die technischen Abhandlungen gekämpft hast, entdeckst du, dass die Shi an einer neuen feuer- und waffensicheren Polymer-Kampfrüstung arbeiten. Sie sind noch meilenweit von der Vollendung entfernt. Es ist außerdem von neuen Waffen und Konstruktionsmöglichkeiten die Rede. Anscheinend haben die Shi so manche Zukunftspläne.}
 {196}{}{Zurück.}
 {197}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
 {198}{}{[Erledigt]}
@@ -108,7 +108,7 @@
 {207}{}{Zurück.}
 {208}{}{"Wir arbeiten noch an dem funktionsfähigen Modell einer Flugmaschine. Keiner der bisherigen Entwürfe konnte in Bezug auf Sicherheit oder Aerodynamik überzeugen. Vielleicht wenn wir Zugriff auf die Pläne der Alten Welt hätten..." - Dr. Wong }
 {209}{}{Zurück.}
-{210}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequält hast, entdeckst du, daß die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belächeln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
+{210}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequält hast, entdeckst du, dass die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belächeln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
 {211}{}{Zurück.}
 {212}{}{Station aktiviert.}
 {213}{}{Zurück.}

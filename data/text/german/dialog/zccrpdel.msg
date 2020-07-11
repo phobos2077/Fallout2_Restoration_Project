@@ -128,7 +128,7 @@
 {702}{}{Spiel nicht}
 {710}{}{Würfel1:}
 {711}{}{Würfel2:}
-{712}{}{Tut mir leid, ich muß gehn.}
+{712}{}{Tut mir leid, ich muss gehn.}
 {713}{}{Nein, danke, ich möchte nicht setzen.}
 {714}{}{Points sind off.}
 {800}{}{Gewinnquote auf Spielnummern nehmen.}

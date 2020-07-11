@@ -5,7 +5,7 @@
 {200}{}{Sulik! [Sie fängt sich und beginnt zu flüstern.] Necken mich die Geister, oder bist du es wirklich, Bruder?}
 {201}{}{Ich? Nein, Ich bin das Auserwählte Wesen. Du meinst sicher die alte Knochennase hier.}
 {202}{}{[Sulik rennt zum Tor und umklammert die ausgestreckten Hände seiner Schwester. Du drehst dich weg, um ihrem
- gefühlsbetonten Wiedersehen etwas Privatsphäre zu geben. Kurz darauf knackt ein Zweig außerhalb des Gebäudes. Sulik läßt
+ gefühlsbetonten Wiedersehen etwas Privatsphäre zu geben. Kurz darauf knackt ein Zweig außerhalb des Gebäudes. Sulik lässt
  seine Schwester los, und greift nach seinen Waffen während er die Tür beobachtet. Es dringen keine weiteren Geräusche herein.]}
 {203}{}{[Mehr]}
 {204}{}{[Suliks Schwester dreht sich zu dir um] Die Knochengeister sagen dass du Sulik anführst. Mein Name ist Kurisu, aber jetzt ist nicht die Zeit für eine richtige Begrüßung.
@@ -73,7 +73,7 @@
 {900}{}{Mir? Na, bin da Ausgewählte. Willst sprechen Sulik?}
 {910}{}{Jo, bös Jungs tot.}
 {920}{}{Ich hab Schlüssl.}
-{921}{}{Ich versuch Schloß knacken.}
+{921}{}{Ich versuch Schloss knacken.}
 {922}{}{[Du nickst Sulik zu.] Wir bös Jungs jetz machen tot.}
 {923}{}{Ich bin dran.}
 {930}{}{[Du drehst dich zu Kurisu.] Ich beschütz dir. [Zu den anderen Sklaven.] Geht Heim.}
@@ -92,6 +92,6 @@
 {975}{}{Mir leid tun. Er tot ist.}
 {976}{}{Ich immer noch such.}
 {1000}{}{Du hast Sulik geholfen seine Schwester wiederzufinden.}
-{2000}{}{Ich hab *gewußt* dass die Knochengeister große Pläne für dich hatten.}
+{2000}{}{Ich hab *gewusst* dass die Knochengeister große Pläne für dich hatten.}
 {2001}{}{Zuerst rettest du mich. Dann rettest du die Welt. Du bist der vollkommene Held.}
 {2002}{}{Jetzt brauchst du Sulik nicht mehr, oder?}

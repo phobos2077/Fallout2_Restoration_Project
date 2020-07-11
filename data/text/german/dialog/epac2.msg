@@ -11,7 +11,7 @@
 {220}{}{[After a couple hours, you finally believe you've correctly translated the binary numbers. It appears he's
  saying "Help me! Electrical short."}
 {221}{}{Gut, das entschlüsseln hat Spaß gemacht. Bis später.}
-{222}{}{Ein Kurzschluß im Speicher, huh? Ok, schaun wir, ob wir es reparieren können.}
+{222}{}{Ein Kurzschluss im Speicher, huh? Ok, schaun wir, ob wir es reparieren können.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
 {231}{}{Hab mich nur kurz gemeldet. Bis bald.}
 {232}{}{Machen Sie sich keine Sorgen, ich beeile mich Sie zu reparieren.}
@@ -22,8 +22,8 @@
  running the hologram. To pass the time, you whistle as it chugs through all its starting procedures.]}
 {251}{}{[Mach weiter]}
 {260}{}{Beim Zeus, Sie haben's geschafft. Mein Sprachprogramm hatte sich im Binärmodus
- für Jahre aufgehangen. Es ist so lange her, daß ich das Vergnügen hatte mich mit
- einem Freund intellektuell auszutauschen. Man sollte meinen, daß in all der Zeit
+ für Jahre aufgehangen. Es ist so lange her, dass ich das Vergnügen hatte mich mit
+ einem Freund intellektuell auszutauschen. Man sollte meinen, dass in all der Zeit
  wenigstens einer meiner Kameraden die Güte gehabt hätte, binär zu lernen. Aber, nein.}
 {261}{}{No prob--}
 {270}{}{Wissen Sie, sie hatten keine Zeit für mich. Oh nein, sie waren zu beschäftigt sich
@@ -33,7 +33,7 @@
 {271}{}{Festgefahren in einer Endlosschleife?}
 {272}{}{Ich habe übrigens das Problem behoben. Keine Endlosschleifen mehr.}
 {280}{}{Was ist das? Oh ja, ja, es sieht so aus, als ob eine Fehlfunktion irgendwo ein starkes
- Magnetfeld erzeugt hat, daß ihr Kurzzeitgedächtnis alle paar Minuten gelöscht hat und sie zu
+ Magnetfeld erzeugt hat, dass ihr Kurzzeitgedächtnis alle paar Minuten gelöscht hat und sie zu
  einer Art Hologramm Fegefeuer verdammt hat. Aber, das macht nichts, wir sind ohne sie besser
  dran. Während sie in einem Endlosstreit gefangen sind, bin ich, äh, ich meine, wir, die Herren
  über die Einrichtung. Mit meinem hervorragendem Verstand und Ihrem Körper sind wir ein gutes Team.}
@@ -68,13 +68,13 @@
 {350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
  friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
  *Solar Scorcher*. However, it's yet to be tested under direct sunlight, which is, of course, where you come in.}
-{351}{}{Also, sie wollen, daß ich nach draußen gehe und mit diesem Ding schieße? Das ist alles?}
+{351}{}{Also, sie wollen, dass ich nach draußen gehe und mit diesem Ding schieße? Das ist alles?}
 {352}{}{Ja, ja, dann geben Sie mir das Ding einfach.}
 {360}{}{Im Wesentlichen, ja. Natürlich muss ich wissen, wie gut es sich im Verlauf von Kampfhandlungen
  verhält, so dass ich es begrüßen würde, wenn Sie einige Lebensformen dort draußen aufspüren könnten,
  die Sie dann spektakulär mit meinem Solar Scorcher vernichten würden.}
 {361}{}{Rausgehen und was abknallen, hab' es. Also, wo ist dieser Solar Scorcher?}
-{370}{}{Nicht so hastig mein Freund. Ich will nicht, daß Sie die Waffe draußen ziellos abfeuern. Ich muß
+{370}{}{Nicht so hastig mein Freund. Ich will nicht, dass Sie die Waffe draußen ziellos abfeuern. Ich muß
  wissen, wie gut sie sich im Verlauf von Kampfhandlungen verhält. Daher würde ich es begrüßen, wenn Sie
  einige Lebensformen da draußen aufspüren könnten, die Sie dann mit meinem Solar Scorcher
  aufsehenerregend auslöschen würden.}

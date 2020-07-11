@@ -10,14 +10,14 @@
 {109}{}{Ich gebe dir sechshundert dafür.}
 {110}{}{Einverstanden. Ich nehm ihn.}
 {111}{}{Hmmm, achthundert? Bin gleich wieder da. Ich hole nur das Geld.}
-{112}{}{Vergiß es. Sollen die Smiths doch verhungern.}
+{112}{}{Vergiss es. Sollen die Smiths doch verhungern.}
 {113}{}{Er gehört dir. [Steckt das Geld ein.] Nimmst du ihn gleich mit, oder soll er
  irgendwohin geliefert werden?}
 {114}{}{Liefer den doch bitte bei den Smiths ab.}
-{115}{}{Tut mir leid, aber dafür mußt du schon achthundert hinblättern.}
+{115}{}{Tut mir leid, aber dafür musst du schon achthundert hinblättern.}
 {119}{}{Hast du das Geld dabei, Freundchen?}
 {120}{}{Ich gehe das Geld holen.}
-{121}{}{Kein Problem. Ich möchte, daß er sofort geliefert wird.}
+{121}{}{Kein Problem. Ich möchte, dass er sofort geliefert wird.}
 {122}{}{Hast wohl gedacht, du könntest dich hier selbst bedienen, was? Verdammter Dieb... Wachen! Wachen!}
 {123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
 {124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
@@ -26,7 +26,7 @@
 {125}{}{Sicher. Hier ist das Geld.}
 {126}{}{$500? Verdammt. Ich hoffe ich kriege das erstattet. Na gut, hier ist das Geld.}
 {127}{}{Eine Freude mit dir Geschäfte zu machen. Pass auf dich auf.}
-{128}{}{Tschüß.}
+{128}{}{Tschüss.}
 {129}{}{Connar hat mich wegen der Sachen geschickt.}
 {130}{}{[Harrys Augen springen durch den Raum, er scheint nervös zu sein.] Ja, sicher. Einen Moment.}
 {131}{}{[Harry bringt dir die Gewehre.] Hier, nimm sie. Das macht dann zehntausend, und drück auf die Tube.}

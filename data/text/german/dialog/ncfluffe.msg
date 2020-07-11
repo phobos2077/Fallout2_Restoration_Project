@@ -26,9 +26,9 @@
 {241}{}{Der kann mit mir jede Perversion machen.}
 {242}{}{Eine schmutzige kleine Fleischpeitsche hast du da.}
 {245}{}{Brauchst du irgendwas, }
-{246}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muß, muß ich mich übergeben.}
+{246}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muss, muss ich mich übergeben.}
 {247}{}{Gar nicht so einfach ein Fluffer zu sein.}
-{248}{}{Ich hab gehört, daß sich in den Familien wieder was zusammenbraut.}
+{248}{}{Ich hab gehört, dass sich in den Familien wieder was zusammenbraut.}
 {249}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {250}{}{Ich wünschte die Brüder würden mich spielen lassen.}
 {251}{}{Ich weiß nicht, was die Korsischen Brüder in IHR sehen...}
@@ -69,9 +69,9 @@
 {318}{}{Leder und Fesseln sind bei uns erst nächste Woche dran.}
 {319}{}{Toll, noch so ein Leder-Häschen.}
 {320}{}{Leder-Häschen, das Casting ist am Mittwoch, verstanden?}
-{325}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muß, muß ich mich übergeben.}
+{325}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muss, muss ich mich übergeben.}
 {326}{}{Gar nicht so einfach ein Fluffer zu sein.}
-{327}{}{Ich hab gehört, daß sich in den Familien wieder was zusammenbraut.}
+{327}{}{Ich hab gehört, dass sich in den Familien wieder was zusammenbraut.}
 {328}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {329}{}{Dein Freund mit dem Knochen in der Nase ist irgendwie süß. So auf 'ne sadomasochistische
  Art.}
@@ -83,9 +83,9 @@
 {335}{}{Na toll. NOCH 'ne Fluffermieze. So wie die aussieht, arbeitet die bestimmt für den halben Preis.}
 {336}{}{Wer ist die denn?}
 {337}{}{Wer bist du?}
-{345}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muß, muß ich mich übergeben.}
+{345}{}{Wenn ich mich heute um noch einen Schauspieler kümmern muss, muss ich mich übergeben.}
 {346}{}{Gar nicht so einfach ein Fluffer zu sein.}
-{347}{}{Ich hab gehört, daß sich in den Familien wieder was zusammenbraut.}
+{347}{}{Ich hab gehört, dass sich in den Familien wieder was zusammenbraut.}
 {348}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {349}{}{Ich wünschte die Brüder würden mich spielen lassen.}
 {350}{}{Na toll. NOCH 'ne Fluffermieze. So wie die aussieht, arbeitet die bestimmt für den halben Preis.}
@@ -101,7 +101,7 @@ Odland-Stamm an - nichts für ungut - und gehst dann weiter dazu, die ganze Welt 
 {365}{}{Erzähl mir alles über deinen Kampf gegen die Enklave...ich hol dir 'n kaltes Bier.}
 {366}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
 {370}{}{Hoppla. Mir ist da etwas in deine Hose gefallen. Lass es mich holen.}
-{371}{}{Ähm, du möchtest nicht zufällig einen saufen gehen, oder? Und wie wär's mit 'nem bißchen Liebe?}
+{371}{}{Ähm, du möchtest nicht zufällig einen saufen gehen, oder? Und wie wär's mit 'nem bisschen Liebe?}
 {372}{}{Wie hälst du dich so fit?}
 {373}{}{Gibst du mir ein Autogramm? Auf die Brust?}
 {374}{}{Dir wird geholfen, }

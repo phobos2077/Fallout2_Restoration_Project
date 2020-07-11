@@ -23,7 +23,7 @@
 {122}{}{Hey, du hast mich doch schon ausgenommen.}
 {123}{}{Ja, das geht klar.}
 {124}{}{Nein, danke.}
-{125}{}{Das ist die New California Republic. Präsidentin Tandi und ihre Leute sagen, sie wollen, daß alles wieder so wird wie in der guten alten Zeit. Ich glaub ja eher, sie wollen vor allem so viel abgreifen, wie sie nur können. Was soll's, mich juckt's nicht, die gute alte Zeit war vor meiner Zeit. Sind allerdings ziemlich prüde, diese Gesellen - haben was gegen Sklaverei und Glücksspiel und was sonst noch. Darum hab ich meinen Laden hier draußen. Ich mag keine Regeln - hatte schon immer was dagegen.}
+{125}{}{Das ist die New California Republic. Präsidentin Tandi und ihre Leute sagen, sie wollen, dass alles wieder so wird wie in der guten alten Zeit. Ich glaub ja eher, sie wollen vor allem so viel abgreifen, wie sie nur können. Was soll's, mich juckt's nicht, die gute alte Zeit war vor meiner Zeit. Sind allerdings ziemlich prüde, diese Gesellen - haben was gegen Sklaverei und Glücksspiel und was sonst noch. Darum hab ich meinen Laden hier draußen. Ich mag keine Regeln - hatte schon immer was dagegen.}
 {126}{}{Verstehe.}
 {127}{}{Wiedersehn.}
 {128}{}{Ich will nichts mit Merk zu schaffen haben und es bringt nichts, über ihn zu schwatzen. Wenn du Fragen hast, dann frag im "Rawhide" nach ihm.}
@@ -35,7 +35,7 @@
 {134}{}{Komische Frage nach dem, was mit Roger Westin passiert ist. Ich weiß da nicht Bescheid, aber drunten im "Rawhide" gibt's einen Knaben - Merk heißt er - der kann dir vielleicht weiterhelfen.}
 {135}{}{Verstehe.}
 {136}{}{Wiedersehn.}
-{137}{}{So einen von den Vorkriegsimporten? Laß mich raten, mit 14-mm-Munition? Nee, hab ich nicht.}
+{137}{}{So einen von den Vorkriegsimporten? Lass mich raten, mit 14-mm-Munition? Nee, hab ich nicht.}
 {138}{}{Verstehe.}
 {139}{}{Wiedersehn.}
 {140}{}{Das geht nur bei Jagdgewehren, glaub's mir. Das liegt an der Befestigung, verstehst du?}

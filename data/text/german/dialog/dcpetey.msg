@@ -5,7 +5,7 @@
 {152}{}{[plaudern]}
 {155}{}{[hust, hust] Hast Du etwas Kleingeld für Petey übrig?}
 {156}{}{Sicher, hier hast Du etwas.}
-{157}{}{Nein, laß mich in Ruhe.}
+{157}{}{Nein, lass mich in Ruhe.}
 {158}{}{Peetee?}
 {159}{}{Du bist schlimmer dran als ich. [hust] Trotzdem danke.}
 {160}{}{Tut mir leid. Tschüß.}

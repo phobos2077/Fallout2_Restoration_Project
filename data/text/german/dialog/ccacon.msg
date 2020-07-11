@@ -4,8 +4,8 @@
 {103}{}{Hey, wie geht's so?}
 {104}{}{'Roger, ich hab dich auf dem Schirm' - tut mir leid, aber ich bin mitten bei der Arbeit.}
 {105}{}{Ich kann gerade nicht mit dir sprechen.}
-{106}{}{Sieh dich ruhig um, aber faß nichts an.}
-{107}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Laß dich ausrüsten!}
+{106}{}{Sieh dich ruhig um, aber fass nichts an.}
+{107}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
 {108}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
 {109}{}{Warum trägst du keine Uniform? }
 {110}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}

@@ -5,14 +5,14 @@
 {103}{}{<Quietsch, kratz> -das Waffenlager!}
 {104}{}{Was zum - <Zaaaarrrrk!>>}
 {105}{}{(Also, der Sarge schickt Dich. Wegen einer Powerrüstung. Tja, die einzige, die ich da
- habe, ist eine zur Verstärkung. Hast vielleicht noch ein paar Probleme damit, also laß es
+ habe, ist eine zur Verstärkung. Hast vielleicht noch ein paar Probleme damit, also lass es
  langsam angehen. Du mußt nur hier unterschreiben.}
 {106}{}{Äh... Kannst Du das nochmal wiederholen?}
 {107}{}{Ich glaube, mit deinem Anzug stimmt was nicht.}
 {108}{}{Klar, mach ich.}
-{109}{}{Auf keinen Fall. Vergiß es.}
+{109}{}{Auf keinen Fall. Vergiss es.}
 {110}{}{Bist Du der Typ von dem Arch über Funk berichtet hat?}
-{111}{}{Bist Du sicher, daß Du nicht der Typ bist?}
+{111}{}{Bist Du sicher, dass Du nicht der Typ bist?}
 {112}{}{Häh?}
 {113}{}{Ja.}
 {114}{}{Nein.}
@@ -29,11 +29,11 @@
 {125}{}{Dein Lautsprecher ist kaputt.}
 {126}{}{Klar, von mir aus.}
 {127}{}{Zum Teufel damit!}
-{128}{}{(Was ist, bist Du taub? Ich sagte, ich habe einen Anzug. Du mußt nur hier unterschreiben)}
+{128}{}{(Was ist, bist Du taub? Ich sagte, ich habe einen Anzug. Du musst nur hier unterschreiben)}
 {129}{}{Was bist Du denn für ein Scherzkeks? Mit sowas kann ich nichts anfangen. Du erklärst dem Sarge, warum Du keine Uniform hast!}
 {130}{}{Häh?}
 {131}{}{In Ordnung, ich tue es.}
-{132}{}{Vergiß es einfach, okay?}
+{132}{}{Vergiss es einfach, okay?}
 {133}{}{Dein Lautsprecher ist nicht kaputt. Ich kann Dich sehr gut verstehen. Unterschreib' einfach die Papiere und wir sind damit durch.}
 {134}{}{Häh?}
 {135}{}{O.K., ich gebe auf!}
@@ -71,7 +71,7 @@
 {167}{}{Häh?}
 {168}{}{OK.}
 {169}{}{Du willst mich wohl feuern, was? Das glaube ich aber nicht!}
-{170}{}{Oh, nun, vergiß es.}
+{170}{}{Oh, nun, vergiss es.}
 {171}{}{Die Powerrüstung. Gib mir die Powerrüstung, Du Idiot.}
 {172}{}{OK.}
 {173}{}{Ich habe bereits ein Geschäft gemacht. Ich gebe Dir nichts mehr.}

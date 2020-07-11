@@ -7,7 +7,7 @@
 {105}{}{Ich bin }
 {106}{}{Niemand Wichtiges.}
 {107}{}{Ich bin auf Raubzug.}
-{108}{}{Nichts. Niemand. Tschüß.}
+{108}{}{Nichts. Niemand. Tschüss.}
 {109}{}{Bitte nicht in meinem Haus. Draußen auf der Straße kannst du schlafen und alles andere
  machen, was ihr "besonderen" Leute so macht.}
 {110}{}{Phhh!}
@@ -28,14 +28,14 @@
 {122}{}{Nee, mach ich nicht.}
 {123}{}{Bitte. Meine Frau...sie bedeutet mir alles. Also bitte.}
 {124}{}{Ich hab nein gesagt!}
-{125}{}{Schon gut, schon gut, laß mich nur in Ruhe.}
+{125}{}{Schon gut, schon gut, lass mich nur in Ruhe.}
 {126}{}{Hier ist das Geld. Und jetzt find BITTE meine Frau und sag mir, wo sie ist. Vielleicht
  hat sie sich mit einem anderen eingelassen und hat mich verlassen...aber ich muß wissen, was los
  ist.}
 {127}{}{Alles klar, Mann. Wie sieht sie denn aus?}
 {128}{}{Kein Problem. Ich werd mein Bestes tun.}
 {129}{}{::schluchzt einen Augenblick lang hemmungslos:: Ich hab verstanden. Geh. Dir ist
- hoffentlich klar, daß du mein Herz gebrochen hast.    }
+ hoffentlich klar, dass du mein Herz gebrochen hast.    }
 {130}{}{Bis dann, du Verlierer.}
 {131}{}{Sie ist blond, sexy und hat eine unglaubliche Singstimme... Ich hab sie zuletzt hier im
  Viertel gesehen. Sie konnte Mutanten und Ghuls nicht leiden, denen wär sie also nicht zu nahe
@@ -56,7 +56,7 @@
 {144}{}{Oh. Richtig. Nun, Sie hat jetzt keine tollen Beine mehr. Ihr wurde übel mitgespielt und
  Ihre beine sind AB. Sie ist tot und Sie litt bevor Sie starb.}
 {145}{}{Ja, ja. Ich hab sie in den Tunnels unter der Stadt gefunden. Sie ist tot. Tut mir leid.}
-{146}{}{Danke, daß du es mir gesagt hast. Jetzt muß ich mich ausweinen.}
+{146}{}{Danke, dass du es mir gesagt hast. Jetzt muss ich mich ausweinen.}
 {147}{}{Ja, wein ruhig, du Heulsuse.}
 {148}{}{Tut mir leid, Mann.}
 {149}{}{Ich hasse dich! Alle hassen dich! Kratz doch ab! ::schluchz::}
@@ -65,12 +65,12 @@
 {151}{}{Mein Gott! Das...kann ich nicht glauben... Das stimmt nicht... [Seufzt tief]. Du kannst
  natürlich recht haben. Sie schien alle Mutanten und Ghuls zu hassen, mit denen sie zu tun
  hatte. Ich hab das nie so genau verstanden.}
-{152}{}{Wie dem auch sei, du solltest dir überlegen, daß die Mörder vielleicht nicht bei deiner
+{152}{}{Wie dem auch sei, du solltest dir überlegen, dass die Mörder vielleicht nicht bei deiner
  Frau halt machen. Wenn sie in der Sache drinsteckte, kann das auch für dich gelten.}
-{153}{}{Willst du damit sagen, daß mein Leben in Gefahr ist? Ach du lieber Gott. Da kannst du
+{153}{}{Willst du damit sagen, dass mein Leben in Gefahr ist? Ach du lieber Gott. Da kannst du
  natürlich recht haben. Ich hab nachts schon komische Geräusche ums Haus herum gehört. Flüstern
  und Schritte.}
 {154}{}{Du solltest vielleicht hier weggehen. Sei auf der Hut. Viel Glück.}
 {155}{}{Vielen Dank für deine Hilfe. Ich bleibe hier nicht länger als notwendig.}
-{156}{}{Du hast Dan erzählt, daß seine Frau ermordet wurde.}
+{156}{}{Du hast Dan erzählt, dass seine Frau ermordet wurde.}
 {157}{}{.}

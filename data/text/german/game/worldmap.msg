@@ -75,7 +75,7 @@
 {351}{}{Haupttor}
 {360}{}{Hafen}
 {361}{}{Gefängnis}
-{362}{}{Boß des Viertels}
+{362}{}{Boss des Viertels}
 {363}{}{Kaserne}
 {364}{}{Präsidenten Bereich}
 {365}{}{Reaktor}
@@ -1506,7 +1506,7 @@
 {5867}{}{Einem Mann, der eine Brücke bewacht.}
 {5868}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5900}{}{Einer Söldnerbande.}
-{5901}{}{Einer Preßpatrouille.}
+{5901}{}{Einer Presspatrouille.}
 {5902}{}{Einer Herde Deathclaws.}
 {5903}{}{Einer Schar Feuergeckos.}
 {5904}{}{Ein paar Kopfgeldjägern.}
@@ -1520,12 +1520,12 @@
 {5912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5913}{}{Einem Haufen Aliens.}
 {5914}{}{Hubologen, die gegen Söldner kämpfen.}
-{5915}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{5915}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {5916}{}{Hubologen.}
 {5917}{}{Einer Gruppe von zornigen Söldnern.}
 {5918}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
 {5950}{}{Einer Söldnerbande.}
-{5951}{}{Einer Preßpatrouille.}
+{5951}{}{Einer Presspatrouille.}
 {5952}{}{Einer Herde Deathclaws.}
 {5953}{}{Einer Schar Feuergeckos.}
 {5954}{}{Ein paar Kopfgeldjägern.}
@@ -1539,14 +1539,14 @@
 {5962}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5963}{}{Einem Haufen Aliens.}
 {5964}{}{Hubologen, die gegen Söldner kämpfen.}
-{5965}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{5965}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {5966}{}{Hubologen.}
 {5967}{}{Einem Mann, der eine Brücke bewacht.}
 {5968}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5969}{}{Einer Gruppe von zornigen Söldnern.}
 {5970}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
 {6000}{}{Einer Söldnerbande.}
-{6001}{}{Einer Preßpatrouille.}
+{6001}{}{Einer Presspatrouille.}
 {6002}{}{Einer Herde Deathclaws.}
 {6003}{}{Einer Schar Feuergeckos.}
 {6004}{}{Ein paar Kopfgeldjägern.}
@@ -1560,7 +1560,7 @@
 {6012}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6013}{}{Einem Haufen Aliens.}
 {6014}{}{Hubologen, die gegen Söldner kämpfen.}
-{6015}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{6015}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {6016}{}{Hubologen.}
 {6017}{}{Einer Gruppe von zornigen Söldnern.}
 {6018}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
@@ -1577,12 +1577,12 @@
 {6060}{}{Ein paar Kopfgeldjägern.}
 {6061}{}{Ein paar Kopfgeldjägern.}
 {6062}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{6063}{}{Einer Preßpatrouille.}
+{6063}{}{Einer Presspatrouille.}
 {6064}{}{Einer Herde Deathclaws.}
 {6065}{}{Einer Schar Feuergeckos.}
 {6066}{}{Einem Haufen Aliens.}
 {6067}{}{Hubologen, die gegen Söldner kämpfen.}
-{6068}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{6068}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {6069}{}{Hubologen.}
 {6070}{}{Den Überresten eines Wals.}
 {6071}{}{Einem riesigen Steinkopf.}

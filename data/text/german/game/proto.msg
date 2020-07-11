@@ -79,7 +79,7 @@
 {475}{}{Die Zahl der Roboter, die du zerstört oder zerlegt hast.}
 {476}{}{Die Gesamtzahl der Hunde, die du in den großen Zwinger im Himmel geschickt hast.}
 {477}{}{Diese Zeile zeigt die Zahl der toten Gottesanbeterinnen oder großer mutierter gottesanbeterartigen Insekten, die du bis jetzt zerquetscht hast.}
-{478}{}{Diese Zeile zeigt, daß du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
+{478}{}{Diese Zeile zeigt, dass du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
 {479}{}{Die Anzahl an Pflanzen, deren Streben zur Sonne du beendet hast.}
 {480}{}{Du siehst: %s.}
 {485}{}{Du durchsuchst %s.}
@@ -126,8 +126,8 @@
 {580}{}{Du benutzt %s.}
 {581}{}{Du verwendest %s an %s.}
 {582}{}{Nichts passiert.}
-{583}{}{Entsetzt merkst du, daß es schon tot ist.}
-{584}{}{Als du es berührst, merkst du, daß es schon tot ist.}
+{583}{}{Entsetzt merkst du, dass es schon tot ist.}
+{584}{}{Als du es berührst, merkst du, dass es schon tot ist.}
 {585}{}{Leider kommst du zu spät.}
 {586}{}{Das funktioniert nicht bei Toten.}
 {587}{}{Du zündest die Leuchtrakete an.}
@@ -159,7 +159,7 @@
 {673}{}{Was immer du sagst.}
 {674}{}{Ich werde es versuchen.}
 {675}{}{Das kann ich nicht tun.}
-{676}{}{Ich glaube nicht, daß ich das tun kann.}
+{676}{}{Ich glaube nicht, dass ich das tun kann.}
 {677}{}{Arf}
 {678}{}{Wuff!}
 {700}{}{Du hast nicht genügend Aktionspunkte.}
@@ -197,7 +197,7 @@
 {1465}{}{Geckos}
 {1466}{}{Aliens}
 {1467}{}{Riesenameisen}
-{1468}{}{Big Bad Boß}
+{1468}{}{Big Bad Boss}
 {1469}{}{Diese Zeile zeigt die Zahl der männlichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {1470}{}{Diese Zeile zeigt die Zahl der weiblichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {1471}{}{Diese Zeile zeigt die Zahl der menschlichen Kleinkinder, die du im Verlauf deines Abenteuers getötet hast. Du Widerling.}
@@ -211,7 +211,7 @@
 {1479}{}{Die Zahl der Roboter, die du zerstört oder zerlegt hast.}
 {1480}{}{Die Gesamtzahl der Hunde, die du in den großen Zwinger im Himmel geschickt hast.}
 {1481}{}{Diese Zeile zeigt die Zahl der toten Gottesanbeterinnen oder großer mutierter gottesanbeterartigen Insekten, die du bis jetzt zerquetscht hast.}
-{1482}{}{Diese Zeile zeigt, daß du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
+{1482}{}{Diese Zeile zeigt, dass du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
 {1483}{}{Diese Zeile zeigt die Zahl der Pflanzen, die du aus dieser Welt herausgerissen hast.}
 {1484}{}{Die Zahl niedlicher Echsen, die du aus dem Leben befördert hast.}
 {1485}{}{Die Anzahl der durch deine Hand umgekommenen Aliens.}

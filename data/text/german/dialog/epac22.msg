@@ -53,7 +53,7 @@
 {391}{}{Definitiv. Noch eine Frage.}
 {400}{}{Und nochmal Hallo. Kann ich ihnen bei irgendwas anderem behilflich sein?}
 {401}{}{Ich habe ein paar Fragen.}
-{402}{}{Schon gut. Tschüß.}
+{402}{}{Schon gut. Tschüss.}
 {500}{}{Du entfernst die Seitenwand am Hologrammemitter und siehst hinein. Ein wahres durcheinander an Kabeln und Schaltplatinen.}
 {501}{}{Nun, fangen wir an.}
 {502}{}{Nach einiger Zeit entdeckst du das Problem und behebst es. Du bringst die Seitenwand wieder an und wischt dir den Schweiß von der Stirn.}

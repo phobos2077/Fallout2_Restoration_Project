@@ -8,7 +8,7 @@
 {201}{}{Du schon wieder. Was willst du jetzt, Lao Wai?}
 {202}{}{Was bewachst du?}
 {203}{}{Ich will mir das Motorboot ausleihen.}
-{204}{}{Nichts. Tschüß.}
+{204}{}{Nichts. Tschüss.}
 {210}{}{Alles hier. Versuch nichts blödes.}
 {211}{}{Du kannst wohl nicht genauer sein?}
 {220}{}{Nein. Jetzt hau ab, Outsider.}
@@ -28,7 +28,7 @@
 {261}{}{Ich habe nicht wirklich etwas besseres vor, na sicher ...}
 {262}{}{Ich komme später zurück.}
 {270}{}{Geh einfach zum Verankerungspfosten und rutsch das Seil hinunter ins Boot. Allerdings solltest du nicht zu lang draußen bleiben, damit ich keine Schwierigkeiten bekomme.}
-{271}{}{Alles klar. Tschüß.}
+{271}{}{Alles klar. Tschüss.}
 {272}{}{Ziemlich leicht. Auf Wiedersehen.}
 {280}{}{Bereit, dich der Technikmannschaft anzuschließen?}
 {281}{}{Ja, ich bin abmarschbereit.}

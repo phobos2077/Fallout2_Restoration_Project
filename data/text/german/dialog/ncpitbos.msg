@@ -1,8 +1,8 @@
 {100}{}{Du siehst den Aufseher des Kasinos.}
 {150}{}{Du siehst einen elegant gekleideten Mann. Er ist der Aufseher des Kasinos.}
 {151}{}{Du siehst einen Kasinoaufseher, der aufmerksam alles kontrolliert.}
-{200}{}{Ähem...ich fürchte, du mußt diese Rüstung ablegen.}
-{201}{}{Ähem...ich fürchte, du mußt diese Rüstung ablegen.}
+{200}{}{Ähem...ich fürchte, du musst diese Rüstung ablegen.}
+{201}{}{Ähem...ich fürchte, du musst diese Rüstung ablegen.}
 {202}{}{Äh...in dieser Aufmachung kommst du nicht ins Kasino.}
 {205}{}{Äh, warum schleichst du hier herum, Jungchen?}
 {206}{}{Äh, bist du hier undercover, Mister?}
@@ -20,8 +20,8 @@
 {236}{}{Du solltest besser gehen. Jetzt.}
 {237}{}{Dies ist nicht der richtige Ort um mit dem Leben zu Spielen. Du gehst besser.}
 {238}{}{Schlampe, du gehst ins falsche Kasino!}
-{245}{}{Es tut mir leid, aber du mußt die Waffe wegstecken.}
-{250}{}{Es tut mir leid, aber du mußt die Waffe wegstecken.}
+{245}{}{Es tut mir leid, aber du musst die Waffe wegstecken.}
+{250}{}{Es tut mir leid, aber du musst die Waffe wegstecken.}
 {255}{}{Schätzchen, es tut mir leid, aber du darfst im Kasino keine Waffen tragen. Ha-ha... du bist auch so schon tödlich genug.}
 {260}{}{Schätzchen, mit so 'nem Körper kannst du dich nirgendwo vorbeischleichen.}
 {265}{}{Hey, Sippentrottel, du solltest diese Waffe besser JETZT GLEICH wegstecken.}
@@ -34,14 +34,14 @@
 {282}{}{[Verschwinde]}
 {283}{}{Wer bist du?}
 {284}{}{Was ist das hier für ein Kasino?}
-{285}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
+{285}{}{Kannst du mir ein bisschen was über das Kasino erzählen?}
 {286}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
 {287}{}{Wer ist der Alte an dem Automaten da?}
 {288}{}{Der Komiker, den ihr da auf der Bühne habt, ist ganz schön schlecht. Was dagegen, wenn ich's mal probiere?}
 {289}{}{Danke. Braucht ihr für heute Abend eine Tänzerin? Ich wär grade mal frei.}
 {290}{}{Danke, das werd ich.}
 {291}{}{Nichts weiter, danke. Entschuldige die Störung.}
-{292}{}{Wollte nur mal nach dem Rechten sehen. Laß dich nicht stören.}
+{292}{}{Wollte nur mal nach dem Rechten sehen. Lass dich nicht stören.}
 {295}{}{Keine Roboter!}
 {296}{}{Wir haben hier nichts für Droiden!}
 {297}{}{Keine Droiden. Die müssen draußen warten.}
@@ -63,7 +63,7 @@
 {325}{}{Ich bin der Kasinoaufseher. [Guckt ein wenig irritiert.] Also, was kann ich für dich tun?}
 {326}{}{Ich bin ich hier der Leiter des Kasinobereichs. Wenn du was brauchst, wende dich an mich.}
 {327}{}{Was ist das hier für ein Kasino?}
-{328}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
+{328}{}{Kannst du mir ein bisschen was über das Kasino erzählen?}
 {329}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {335}{}{Hey, }
 {336}{}{! Ich hab gehört, du warst das, der die Enklave in die Steinzeit zurückkatapultiert hat! [Wird wieder förmlich.] Ich
@@ -81,18 +81,18 @@
 {343}{}{[Verschwinde]}
 {344}{}{Wer bist du?}
 {345}{}{Was ist das hier für ein Kasino?}
-{346}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
+{346}{}{Kannst du mir ein bisschen was über das Kasino erzählen?}
 {347}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
 {348}{}{Wer ist der Alte an dem Automaten da?}
 {349}{}{Der Komiker, den ihr da auf der Bühne habt, ist ganz schön schlecht. Was dagegen, wenn ich's mal probiere?}
 {350}{}{Danke. Braucht ihr für heute Abend eine Tänzerin? Ich wär grade mal frei.}
 {351}{}{Danke, das werd ich.}
 {352}{}{Nichts weiter, danke. Entschuldige die Störung.}
-{353}{}{Wollte nur mal nach dem Rechten sehen. Laß dich nicht stören.}
+{353}{}{Wollte nur mal nach dem Rechten sehen. Lass dich nicht stören.}
 {355}{}{Die Familie }
 {356}{}{Die Familie }
 {357}{}{Wer bist du?}
-{358}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
+{358}{}{Kannst du mir ein bisschen was über das Kasino erzählen?}
 {359}{}{Ah ja. Besten Dank für die Auskunft.}
 {360}{}{Hey, schau mal, wer da ist! Hey, }
 {361}{}{. Willkommen im }
@@ -100,12 +100,12 @@
 {363}{}{[Verschwinde]}
 {364}{}{Wer bist du?}
 {365}{}{Was ist das hier für ein Kasino?}
-{366}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
+{366}{}{Kannst du mir ein bisschen was über das Kasino erzählen?}
 {367}{}{Kennst du jemanden der sich Schönling Llyod nennt?}
 {368}{}{Wer ist der Alte an dem Automaten da?}
 {369}{}{Danke. Braucht ihr für heute Abend eine Tänzerin? Ich wär grade mal frei.}
 {370}{}{Danke, sehr schmeichelhaft. Wollte nur mal Tag sagen. [Ab.]}
-{375}{}{[Schüttelt den Kopf.] Nicht die Bohne, nur ein bißchen stur...genau wie McGee. [Zuckt die Achseln.] Müßte vielleicht
+{375}{}{[Schüttelt den Kopf.] Nicht die Bohne, nur ein bisschen stur...genau wie McGee. [Zuckt die Achseln.] Müsste vielleicht
  mal wieder überholt werden, aber wir haben keinen Mechaniker, der mit dem verdammten Ding klarkommt.}
 {376}{}{Ich hab da noch ein paar Fragen...}
 {377}{}{Gut zu wissen. Danke für die Information.}
@@ -131,15 +131,15 @@
 {427}{}{Im Moment nicht. Ich hätte da ein paar andere Fragen...}
 {428}{}{Nein nicht jetzt, aber ich komme später zurück.}
 {435}{}{[Schüttelt den Kopf.] Nein, wir erholen uns grade noch von deiner letzten Show. Frag mal in den anderen Kasinos nach.}
-{436}{}{Geht in Ordnung, danke. Paß mal auf, ich wollte dich noch was fragen...}
-{437}{}{Okay...aber verlaß dich drauf, ich komm wieder.}
+{436}{}{Geht in Ordnung, danke. Pass mal auf, ich wollte dich noch was fragen...}
+{437}{}{Okay...aber verlass dich drauf, ich komm wieder.}
 {445}{}{[You count up the evening's chips. Not a bad haul.]}
 {446}{}{Das mit dem Leder kam gut. }
 {447}{}{Die Spielchen mit dem Ballknebel waren auch nicht von schlechten Eltern. }
 {448}{}{[Weiter]}
 {455}{}{Ja, der stinkt nach Brahminkacke, nur noch schlimmer. Und du willst trotzdem...? [Nimmt eine skeptische Musterung
  deiner Person vor.] Zum Teufel, warum eigentlich nicht. Kann nicht schaden, so eine kleine Showeinlage. Aber mit dem
- Publikum ist nicht zu spaßen. Will hoffen, daß du's drauf hast.}
+ Publikum ist nicht zu spassen. Will hoffen, dass du's drauf hast.}
 {456}{}{Klar hab ich's drauf...guck's dir einfach an.}
 {457}{}{Nein nicht jetzt, aber ich komme später zurück.}
 {500}{}{Das war verdammt lustig. Du bist der nächste Milton Berle. Komm nächste Woche wieder, wenn du noch eine Show machen willst.}
@@ -187,7 +187,7 @@
 {1335}{}{Das hier ist das }
 {1336}{}{Das hier ist das }
 {1337}{}{Wer bist du?}
-{1338}{}{Kannst du mir ein bißchen was über das Kasino erzählen?}
+{1338}{}{Kannst du mir ein bisschen was über das Kasino erzählen?}
 {1339}{}{Nichts weiter, danke. Entschuldige die Störung.}
 {1345}{}{Das geilste Kasino in der ganzen Stadt...bin da aber nicht ganz objektiv, das geb ich zu. [Lacht.] Sonst noch
  Fragen?}
@@ -203,7 +203,7 @@
 {1365}{}{Der da? Der alte McGee? Total durchgeknallt, der Typ...der steht schon seit Jahren an diesem Automat und wartet auf
  den großen Jackpot. Dürfte inzwischen so ziemlich sein ganzes Vermögen an das Ding verfüttert haben. Hat noch nie auch nur
  einen müden Dollar davon wiedergesehen.}
-{1366}{}{Der da? Der alte McGee? Total durchgeknallt, der Typ, davon kannst du ausgehen. Ha, ha. War ziemlich sauer, daß du
+{1366}{}{Der da? Der alte McGee? Total durchgeknallt, der Typ, davon kannst du ausgehen. Ha, ha. War ziemlich sauer, dass du
  sein Vermögen gewonnen hast. An deiner Stelle würd ich mich vor dem in acht nehmen.}
 {1367}{}{Ist der Automat getürkt oder so?}
 {1368}{}{Ich hab da noch ein paar Fragen...}

@@ -10,7 +10,7 @@
 {230}{}{Ich versichere Ihnen, wir arbeiten eifrig daran, um alle Probleme zu lösen. Wir hatten ein paar Beeinträchtigungen, aber die Dinge haben sich verbessert. Ich bin zuversichtlich, dass alle Quoten rechtzeitig erfüllt werden.}
 {231}{}{Welche Quoten? Das ergibt irgendwie alles keinen Sinn. Machst du hier tatsächlich irgendetwas? Kannst du mir helfen, oder nicht?}
 {240}{}{Das hängt alles von Ihrer Einstellung ab. Meine Hände sind in dieser Angelegenheit gebunden, aber ich wäre erfreut, Ihnen zu helfen, wenn Sie es fertigbringen.}
-{241}{}{Vergiß es. Tschüß.}
+{241}{}{Vergiss es. Tschüss.}
 {242}{}{Tut mir leid, dass ich nicht weiter behilflich sein konnte.}
 {243}{}{Danke, dass Sie sich Zeit genommen haben.}
 {244}{}{Darüber möchte ich mich nicht weiter äußern.}

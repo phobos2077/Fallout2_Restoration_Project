@@ -13,6 +13,6 @@
 {400}{}{Bestätige Code-Überschreibung.}
 {401}{}{[Ende]}
 {402}{}{Diese Tür ist elektronisch gesichert.}
-{403}{}{Tür aufgeschlossen. Danke, daß sie Vault-Tec benutzt haben.}
+{403}{}{Tür aufgeschlossen. Danke, dass sie Vault-Tec benutzt haben.}
 {404}{}{[Ende]}
 {500}{}{Hier gibt es kein Schloss zum knacken.}

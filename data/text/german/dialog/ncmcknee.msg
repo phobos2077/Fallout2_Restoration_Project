@@ -6,7 +6,7 @@
 {153}{}{Er sieht aus, als könnte ihn ein Windstoß umhauen.}
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
-{202}{}{::Läßt die Muskeln spielen::}
+{202}{}{::Lässt die Muskeln spielen::}
 {203}{}{Bin total groggy.}
 {204}{}{Ich bin müde.}
 {205}{}{*Puhhhhh* Harter Tag.}
@@ -16,9 +16,9 @@
 {300}{}{::Der Boxer sieht dich an und bedeckt sein Kinn::}
 {301}{}{::Der Boxer sieht dich an und reibt sein Kinn::}
 {302}{}{Trainieren macht mich immer müde.}
-{303}{}{Mein Manager muß jederzeit in den Ring kommen und den Kampf beenden können.}
+{303}{}{Mein Manager muss jederzeit in den Ring kommen und den Kampf beenden können.}
 {304}{}{Ich bin Pete "Endevomlied" McKneely.}
-{305}{}{Ich mag Pizza, aber ich muß vorsichtig mit der Kruste sein.}
+{305}{}{Ich mag Pizza, aber ich muss vorsichtig mit der Kruste sein.}
 {306}{}{Ich habe heut früh die Tür geöffnet und der Wind hat mich k.o. geschlagen.}
 {307}{}{Kämpfen macht mich fertig.}
 {308}{}{Geh besser mein Glaskinn polieren.}

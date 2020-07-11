@@ -13,7 +13,7 @@
 {112}{}{Wenn du was brauchst, rede mit Bill, dem Händler.}
 {113}{}{Man sollte nach all dieser Zeit, in der versucht wurde das Ödland zu zivilisieren, meinen, wir wären einen Schritt weiter.}
 {114}{}{Ich bin diese Mensch/Mutanten-Streitereien satt. Sollen wir nicht ein Vorbild darstellen?}
-{115}{}{Was willste? Siehst du nicht daß ich mich ausruhe??}
+{115}{}{Was willste? Siehst du nicht dass ich mich ausruhe??}
 {116}{}{Wann fährt die nächste Karawane los?}
 {117}{}{Patrouille, Patrouille, Patrouille... Was anderes mach ich hier nicht.}
 {118}{}{Ich glaub ich brauch ne Pause.}
@@ -25,29 +25,29 @@
 {204}{}{Nein, danke.}
 {205}{}{In diesem Fall möchtest du wohl mit Bill, dem Händler aus Broken Hills reden. Er ist in dem Gebäude da drüben.}
 {206}{}{Ich hab noch einige Fragen.}
-{207}{}{Danke. Tschüß.}
+{207}{}{Danke. Tschüss.}
 {208}{}{Du hast Fragen, und ich hab vielleicht Antworten dazu. Was willste wissen?}
 {209}{}{Wie ist er so?}
 {210}{}{Kann man ihm trauen?}
 {211}{}{Wo hat er sein Geld her?}
 {212}{}{Kennst du seine Vergangenheit?}
-{213}{}{Vergiß es. Bis später.}
+{213}{}{Vergiss es. Bis später.}
 {214}{}{Ich? Ich bin }
 {215}{}{. Ich bin Wächter bei Bills Karawanen. Sonst noch was?}
-{216}{}{Wie er ist? Tja, freundlich eigentlich, aber ein bißchen barsch. Er ist ein guter Chef
+{216}{}{Wie er ist? Tja, freundlich eigentlich, aber ein bisschen barsch. Er ist ein guter Chef
  und im allgemeinen sehr fair zu uns. Er behandelt uns nicht schlecht, falls du das meinst. Noch
  Fragen?}
-{217}{}{Hmm, er ist natürlich ein bißchen undurchsichtig...aber das sind ja viele Leute
+{217}{}{Hmm, er ist natürlich ein bisschen undurchsichtig...aber das sind ja viele Leute
  heutzutage. Noch Fragen?}
-{218}{}{Ich dachte immer, daß er das mitgebracht hat. Er hat ganz schön viel davon. Sowas fragt
+{218}{}{Ich dachte immer, dass er das mitgebracht hat. Er hat ganz schön viel davon. Sowas fragt
  man jemanden ja eigentlich nicht, oder? Noch Fragen?}
 {219}{}{Seine Vergangenheit kenne ich nicht. Fast alle bei den Karawanenwächtern sind nicht
- seßhaft und einfach wegen des Jobs hier. Ich kann mir denken, daß er woanders schnell abhauen
- mußte. Noch Fragen?}
+ seßhaft und einfach wegen des Jobs hier. Ich kann mir denken, dass er woanders schnell abhauen
+ musste. Noch Fragen?}
 {220}{}{Ja.}
 {221}{}{Nein.}
 {222}{}{Alles klar. Bis dann also.}
-{223}{}{Tschüß.}
+{223}{}{Tschüss.}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}

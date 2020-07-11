@@ -1,23 +1,23 @@
 {100}{}{Du siehst eine gelangweilte Gestalt in einer Lederrüstung.}
 {101}{}{Du siehst Max, den Karawanenwächter.}
 {102}{}{Du siehst eine staubige, gelangweilte Gestalt in einer Lederrüstung. Dem Brahmin-Gestank
- und dem selbstbewußten Gang nach ist es eindeutig ein Karawanenwächter.}
+ und dem selbstbewussten Gang nach ist es eindeutig ein Karawanenwächter.}
 {103}{}{Kann ich dir irgendwie helfen?}
 {104}{}{Är?}
 {105}{}{Hier arbeiten!}
 {106}{}{Wer bist du?}
 {107}{}{Was kannst du mir über Chad erzählen?}
-{108}{}{Ich hab leider keine Zeit für Idioten. Tut mir leid, aber du mußt dir jemand anderen zum
+{108}{}{Ich hab leider keine Zeit für Idioten. Tut mir leid, aber du musst dir jemand anderen zum
  Spielen suchen.}
 {109}{}{::schnüff::}
 {110}{}{Ich heiße Max. Ich bin ein Karawanenwächter.}
 {111}{}{Was kannst du mir über Chad erzählen?}
-{112}{}{Danke. Tschüß.}
+{112}{}{Danke. Tschüss.}
 {113}{}{Ganz ehrlich? Der Typ ist mir unsympathisch. In letzter Zeit hat er mit viel Geld um sich geworfen. Sicher, er ist der Karawanenmeister, also ist es plausibel, dass er einen größeren Schnitt macht - ich verstehe das. Aber, es ist unmöglich, dass er dabei *so* stinkreich wird. Ich denke, dass es wirklich interessant wäre, einen kurzen Blick in seine Aufzeichnungen zu werfen.}
 {114}{}{Marcus erzählte mir, er verdächtigt Chad, dass er etwas vom Karawanengeld, das eigentlich für Broken Hills bestimmt ist, abzweigt. Ich versprach ihm, ein paar Nachforschungen anzustellen.}
-{115}{}{Danke. Tschüß.}
+{115}{}{Danke. Tschüss.}
 {116}{}{Danke. Ich bin froh das es endlich ein Ende hat. Du solltest allerdings auf der Hut sein.}
-{117}{}{Tschüß.}
+{117}{}{Tschüss.}
 {118}{}{Der Feind! Stirb!}
 {119}{}{Hoppla.}
 {120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to
@@ -28,7 +28,7 @@
 {122}{}{Bist du wahnsinnig? Chad ist ein mächtiger Mann in dieser Stadt und er hat viele Freunde. Wenn ich ihn verpfeifen würde, gäbe es eine Menge Leute, die mich hassen würden. Verdammt, ich könnte sogar ermordet werden.}
 {123}{}{Hmm, then perhaps I could say something to Marcus. I don't plan to stay around here too much longer anyway.}
 {124}{}{He, du mußt tun was du tun mußt, aber zieh mich einfach nicht mit hinein. Genau genommen, dieses Gespräch wurde niemals geführt, OK?}
-{125}{}{Kein Problem. Tschüß.}
+{125}{}{Kein Problem. Tschüss.}
 {126}{}{Achja, noch etwas. Ich weiß, dass Chad über alle stattgefunden Transaktionen Buch
  führt. Er ist ein ziemlicher Aufzeichnungsfreak. Der Typ ist in der Tat so verrückt danach, ich wette, dass er sogar Aufzeichnungen über das ganze eingesackte Geld hat. Das Problem ist, dass er all
  das Zeug irgendwo in seinem Haus, am anderen Ende der Stadt, unter Verschluss hat, und es gibt keine Möglichkeit,

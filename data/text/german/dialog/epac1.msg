@@ -10,7 +10,7 @@
 {206}{}{Langweilig...}
 {207}{}{...SCHLUCHZ...}
 {208}{}{Leben. Rede nicht mit mir über mein Leben.}
-{209}{}{Ich denke du solltest wissen, daß ich mich depressiv fühle.}
-{210}{}{Verzeihung, daß ich dir die Luft zum Atmen wegnehme, was ich aber niemals machen werden kann. Und ich weiß noch nicht einmal, wieso ich dich damit belästige. Oh mein Gott, ich bin so depressiv.}
+{209}{}{Ich denke du solltest wissen, dass ich mich depressiv fühle.}
+{210}{}{Verzeihung, dass ich dir die Luft zum Atmen wegnehme, was ich aber niemals machen werden kann. Und ich weiß noch nicht einmal, wieso ich dich damit belästige. Oh mein Gott, ich bin so depressiv.}
 {500}{}{Yeah, just push me over a cliff.}
 {501}{}{***bzzt Aufhören! *** bzzt}

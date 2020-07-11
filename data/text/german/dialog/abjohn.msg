@@ -4,7 +4,7 @@
 {300}{}{Hallo, Jungchen.}
 {301}{}{Wer bist du?}
 {302}{}{Hast du irgendwas über ein GECK oder Vault 13 gehört?}
-{303}{}{Tschüß.}
+{303}{}{Tschüss.}
 {400}{}{Mein Name ist John, ich bin einer der ältesten Mönche hier.}
 {401}{}{Und, was arbeitest du hier?}
 {402}{}{Ich sehe schon, machs gut.}
@@ -15,7 +15,7 @@
   Weißt du, es ist heutzutage sehr schwierig, Medikamente für dieses Problem zu finden.}
 {407}{}{Ich habe vielleicht eine Lösung für deine Herzprobleme...}
 {408}{}{Tut mir leid das zu hören, machs gut.}
-{410}{}{Tschüß.}
+{410}{}{Tschüss.}
 {411}{}{Hast du? DU sagst, dass du tatsächlich Herzpillen HAST?}
 {412}{}{Ja habe ich. Es wäre mir eine Freude, sie dir zu geben.}
 {413}{}{Ja, ich habe Herzpillen. Du kannst sie für $400 haben.}

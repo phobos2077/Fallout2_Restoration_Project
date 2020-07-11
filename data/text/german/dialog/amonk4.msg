@@ -7,7 +7,7 @@
 {300}{}{Hey, wie kann ich dir helfen?}
 {301}{}{Was kannst du mir über deinen Orden erzählen?}
 {302}{}{Lass uns handeln.}
-{303}{}{Tschüß.}
+{303}{}{Tschüss.}
 {400}{}{Unsere heilige Mission ist das Sammeln und Bewahren der ehrwürdigen Reliquien der Vergangenheit.
  Jeder ist hier willkommen, solange er nichts beschädigt.}
 {401}{}{Wer ist euer Anführer?}

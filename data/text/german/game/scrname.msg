@@ -437,10 +437,10 @@
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
-{540}{}{Boﬂ des "Abschaum"}
+{540}{}{Boss des "Abschaum"}
 {541}{}{Renesco, der Raketenmann}
 {542}{}{Marjorie Reed}
-{543}{}{Boﬂ Salvatore}
+{543}{}{Boss Salvatore}
 {544}{}{Stuart Little}
 {545}{}{T-Ray}
 {546}{}{Hure}

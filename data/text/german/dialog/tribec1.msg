@@ -35,19 +35,19 @@
 {222}{}{Of course not. I successfully conquered the Temple of Trials and earned the highly respected title of the Chosen One.
  That's why I've been given this quest -- because I've proved myself to be the most qualified. Now, what have you read of the
  GECK?}
-{223}{}{Versuchst du mich zu beleidigen? Ich habe dich wissen lassen, daß ich der Auserwählte bin. Entschuldige dich,
+{223}{}{Versuchst du mich zu beleidigen? Ich habe dich wissen lassen, dass ich der Auserwählte bin. Entschuldige dich,
  oder ich werde dich zurechtstutzen.}
 {224}{}{Ich bin mir nicht ganz sicher, aber ich habe bereits zu viel riskiert, um jetzt aufzuhören. Egal was es kostet, ich
  werde alles tun um meinen Stamm zu retten, auch wenn es sich noch so verrückt und gefährlich anhört.}
 {230}{}{[Er zuckt mißbilligend mit den mächtigen Schultern.] Nur eine weitere verrückte technische Spielerei von den
  "Alten", dafür gedacht, die altbewährten Methoden zu ersetzen, welche die Menschen gegen die unerbittliche Erde
- anwandten, um Ihr Leben im Schweiße ihres Angesichts zu meistern. Aber wenn du wirklich glaubst, daß so ein Gerät
+ anwandten, um Ihr Leben im Schweiße ihres Angesichts zu meistern. Aber wenn du wirklich glaubst, dass so ein Gerät
  eure einzige Hoffnung ist, schlage ich vor, du spürst eine unterirdische Vault der "Alten" auf. Ich bin landauf, landab
  gereist, habe aber niemals Eine entdeckt. Aber, ich habe auch nicht gerade danach gesucht.}
-{231}{}{Meine Dorfälteste ist sicher, daß den G.E.C.K. zu finden die beste Chance darstellt, die wir haben. Da ich damit
+{231}{}{Meine Dorfälteste ist sicher, dass den G.E.C.K. zu finden die beste Chance darstellt, die wir haben. Da ich damit
  beauftragt worden bin, ist das genau das, was ich zu tun gedenke. Trotzdem, danke für Deinen Hinweis.}
 {232}{}{Eine Vault ausfindig machen, sagst du? Wow, das ist mal ein "großartiger" Ratschlag. Wenn ich das nur vorher
- gewußt hätte. Danke für Deinen Hinweis, mein großer Freund.}
+ gewusst hätte. Danke für Deinen Hinweis, mein großer Freund.}
 {240}{}{[He laughs heartily, then, with a speed that seems impossible for a man of his impressive bulk, he brings his spear
  up and takes combat stance.] Chosen One, eh? If a fool like you is the best your tribe has to offer, then their doom seems
  inevitable. Now, either take up your weapon so I can split your skull, or be gone from my sight.}
@@ -83,7 +83,7 @@
  Tell me, girl, what's your name, and what brings you to our village?}
 {290}{}{[Krom grinst anzüglich und nimmt dich dann in seine mächtigen Arme.]}
 {291}{}{[Du schläfst mit ihm.]}
-{292}{}{MAN! Laß mich los, du hast die falschen Vorstellungen!}
+{292}{}{MAN! Lass mich los, du hast die falschen Vorstellungen!}
 {300}{}{Zur Hölle mit Dir, Verführerin! Ärgere jemand Anderen. Ich habe keine Zeit an dich zu verschwenden.}
 {301}{}{Na ja, fick dich auch. Tschüß.}
 {302}{}{Wie du meinst. Bis dann. }
@@ -96,7 +96,7 @@
  du ja doch daran interessiert den Rest des Stammes zu unterstützen?}
 {321}{}{Sicher, ich denke ich könnte ein bißchen helfen. Was soll ich denn machen?}
 {322}{}{Ich wünschte, ich könnte euch helfen. Aber ich sollte jetzt wirklich aufbrechen. Tut mir leid.}
-{323}{}{Du willst, daß ich mit dem Rest des Stammes eine Nummer schiebe? Was glaubst du denn, was für eine Art
+{323}{}{Du willst, dass ich mit dem Rest des Stammes eine Nummer schiebe? Was glaubst du denn, was für eine Art
  Mädchen ich bin?}
 {330}{}{[Krom bricht in herzhaftes Lachen aus.] Gott nein, Mädchen. Obwohl das für die Moral meiner Krieger sicher
  Wunder bewirken würde. Ich würde es hassen, so einen süßen Schatz wie dich, mit irgendwem zu teilen. Nein, ich habe
@@ -110,15 +110,15 @@
 {342}{}{Ich verstehe nicht, was ich da machen soll. Worauf willst du hinaus?}
 {350}{}{Als wir letztes Mal miteinander sprachen, prahlte er, er würde mir etwas wirklich wundervolles bringen. Und es
  klug wäre, so viele goldene Gecko-Häute, wie ich tragen kann, zum Treffen mitzubringen. Ich weiß nicht was dieses
- wunder– volle Ding ist, aber es ist wahrscheinlich neumodischer Tand, von dem er annimmt, daß ich unwissend genug bin
- um weit mehr dafür zu zahlen, als es eigentlich wert ist. Aus diesem Grund möchte ich, daß du das Geschäft für mich
+ wunder– volle Ding ist, aber es ist wahrscheinlich neumodischer Tand, von dem er annimmt, dass ich unwissend genug bin
+ um weit mehr dafür zu zahlen, als es eigentlich wert ist. Aus diesem Grund möchte ich, dass du das Geschäft für mich
  abschließt.}
 {351}{}{Warum ich?}
 {352}{}{Tut mir leid, ich verzichte. Auf Wiedersehen.}
-{360}{}{Weil du mir ähnlich bist — Stammesverwandte, nennen sie uns — ich weiß, daß du vor kurzem Erfahrungen mit
+{360}{}{Weil du mir ähnlich bist — Stammesverwandte, nennen sie uns — ich weiß, dass du vor kurzem Erfahrungen mit
  der Außenwelt gemacht hast. Wenn er versucht uns auszutricksen, merkst du es bestimmt eher als ich. Außerdem habe
  ich ein gutes Gefühl dich betreffend, und ich habe gelernt meinen Instinkten zu vertrauen.}
-{361}{}{Weil du mir ähnlich bist — Stammesverwandte, nennen sie uns — ich weiß, daß du vor kurzem Erfahrungen mit
+{361}{}{Weil du mir ähnlich bist — Stammesverwandte, nennen sie uns — ich weiß, dass du vor kurzem Erfahrungen mit
  der Außenwelt gemacht hast. Wenn er versucht uns auszutricksen, merkst du es bestimmt eher als ich. Außerdem habe
  ich ein gutes Gefühl bei dir, Mädchen, und ich habe gelernt meinen Instinkten zu vertrauen.}
 {362}{}{In Ordnung. Lass es uns machen.}
@@ -138,26 +138,26 @@
  probiert vorsichtig davon.] Verdammt nochmal, sie sind mit Brahminblut gefüllt. Der einäugige Mistkerl hat uns
  beschissen. Wahrscheinlich lacht er sich gerade ins Fäustchen über uns, während er sich an seinen neuen goldenen
  Häuten weidet.}
-{391}{}{Tut mir leid. Ich hatte keine Ahnung, daß sie gefälscht sind.}
+{391}{}{Tut mir leid. Ich hatte keine Ahnung, dass sie gefälscht sind.}
 {392}{}{Ach ja. Man lernt nie aus.}
 {400}{}{Sollte mir dieser betrügerische Hund jemals wieder über den Weg laufen, werde ich große Freude daran haben,
- seinen häßlichen Schädel zu spalten. Nun, wenn du mich entschuldigst, ich habe einige Fläschchen mit Brahminblut zu
+ seinen hässlichen Schädel zu spalten. Nun, wenn du mich entschuldigst, ich habe einige Fläschchen mit Brahminblut zu
  entsorgen. Vielleicht hat der Schamane ja Verwendung dafür.}
-{410}{}{Ich mochte den häßlichen Kerl nicht, aber, mein Gott, abschlachten wollte ich ihn auch nicht. Klar, jetzt
- bekommen wir seine Ware umsonst, aber wenn herauskommt, daß er hierherkam, um mit uns zu handeln, aber nie
+{410}{}{Ich mochte den hässlichen Kerl nicht, aber, mein Gott, abschlachten wollte ich ihn auch nicht. Klar, jetzt
+ bekommen wir seine Ware umsonst, aber wenn herauskommt, dass er hierherkam, um mit uns zu handeln, aber nie
  zurückkehrte, werden wir von den Händlern auf die schwarze Liste gesetzt werden.}
-{411}{}{Ich mochte den häßlichen Kerl nicht, aber, mein Gott Mädchen, abschlachten wollte ich ihn auch nicht. Klar,
- jetzt bekommen wir seine Ware umsonst, aber wenn herauskommt, daß er hierherkam, um mit uns zu handeln, aber nie
+{411}{}{Ich mochte den hässlichen Kerl nicht, aber, mein Gott Mädchen, abschlachten wollte ich ihn auch nicht. Klar,
+ jetzt bekommen wir seine Ware umsonst, aber wenn herauskommt, dass er hierherkam, um mit uns zu handeln, aber nie
  zurückkehrte, werden wir bei den Händlern auf die schwarze Liste gesetzt werden.}
 {412}{}{Tut mir leid, ich habe mich nicht mehr bremsen können.}
 {413}{}{Er war zivilisierter Abschaum und hat den Tod verdient.}
 {414}{}{Hoppla.}
-{420}{}{Ich weiß jetzt, daß es ein Fehler war, dich hiermit zu betrauen. Ich werde ein wachsames Auge auf dich,
- während Deiner Zeit in unserem Dorf, haben. Nun komm, laß uns um dieses Durcheinander kümmern und dann
+{420}{}{Ich weiß jetzt, dass es ein Fehler war, dich hiermit zu betrauen. Ich werde ein wachsames Auge auf dich,
+ während Deiner Zeit in unserem Dorf, haben. Nun komm, lass uns um dieses Durcheinander kümmern und dann
  aufbrechen.}
 {430}{}{Der Lügenbold bekam, was er verdient hat. Sein Schicksal soll eine Lehre für alle Händler sein, die glauben, sie
  könnten uns um unsere Kostbarkeiten betrügen. Du hast gut daran getan seinen Betrug aufzudecken. Ich sehe, es war ein
- weiser Entschluß, Dir zu vertrauen. Du kannst gerne bei uns bleiben und unseren Stamm als den Deinen betrachten.
+ weiser Entschluss, Dir zu vertrauen. Du kannst gerne bei uns bleiben und unseren Stamm als den Deinen betrachten.
  Allerdings könnte ich in der Zukunft wieder einmal an Deine Hilfe appellieren. Nun komm, lassen wir diese Leichen in
  der Sonne verrotten.}
 {431}{}{Der Lügenbold hat bekommen, was er verdient hat. Sein Schicksal soll eine Lehre für alle Händler sein, die
@@ -179,12 +179,12 @@
 {443}{}{Es war mir ein Vergnügen.}
 {444}{}{Wie du meinst. Bis dann. }
 {450}{}{Sollte ich dieser betrügerische Hund jemals wieder über den Weg laufen, werde ich große Freude daran haben,
- seinen häßlichen Schädel zu spalten. Du hast gut daran getan seine Betrug aufzudecken. Ich sehe, es war ein weiser
- Entschluß, Dir zu vertrauen. Nun, du kannst gerne bei uns bleiben und unseren Stamm als den Deinen betrachten.
+ seinen hässlichen Schädel zu spalten. Du hast gut daran getan seine Betrug aufzudecken. Ich sehe, es war ein weiser
+ Entschluss, Dir zu vertrauen. Nun, du kannst gerne bei uns bleiben und unseren Stamm als den Deinen betrachten.
  Allerdings könnte ich in der Zukunft wieder einmal an Deine Hilfe appellieren. Danke für Deine Hilfe.}
 {451}{}{Sollte ich dieser betrügerische Hund jemals wieder über den Weg laufen, werde ich große Freude daran haben,
- seinen häßlichen Schädel zu spalten. Du hast gut daran getan seine Betrug aufzudecken, Mädchen. Ich sehe, es war ein
- weiser Entschluß, Dir zu vertrauen. Nun, du kannst gerne bei uns bleiben und unseren Stamm als den Deinen betrachten.
+ seinen hässlichen Schädel zu spalten. Du hast gut daran getan seine Betrug aufzudecken, Mädchen. Ich sehe, es war ein
+ weiser Entschluss, Dir zu vertrauen. Nun, du kannst gerne bei uns bleiben und unseren Stamm als den Deinen betrachten.
  Allerdings könnte ich in der Zukunft wieder einmal an Deine Hilfe appellieren. Danke für Deine Hilfe.}
 {452}{}{Kein Problem.}
 {453}{}{Es war mir ein Vergnügen.}
@@ -207,7 +207,7 @@
  way to manhood. Every man, woman, and child was dead, except for me. Ah, but what's life without battle and strife? It
  either breaks a man, or it forges him into steel. I wear my scars with pride.}
 {481}{}{Und, was hast du dann gemacht?}
-{482}{}{Gut, ich glaube, ich habe genug gehört. Laß mich dich was Anderes fragen.}
+{482}{}{Gut, ich glaube, ich habe genug gehört. Lass mich dich was Anderes fragen.}
 {490}{}{I piled the bodies and watched them burn into the night. Then gathered what I could and went wandering. Spent
  time with various tribes; fought many battles. Spent a little time amongst the "civilized" men, but I tired of them quickly.
  Too many honorless dogs hiding behind their guns. I'd rather enjoy a good battle of flesh and steel. I'm not a complicated man.
@@ -215,11 +215,11 @@
 {491}{}{Also, wie bist du hier gelandet?}
 {500}{}{Ich bin vor einigen Jahren hierher gekommen. Dieser Stamm hat mich aufgenommen und mich gut behandelt.
  Sie boten mir an, ihr oberster Krieger zu sein, was ich offensichtlich angenommen habe. Ich habe mich hier, nahe des
- Großen Salzsees, wohlgefühlt, spüre aber, daß die Wanderlust in mir wächst. Vielleicht werde ich schon bald
+ Großen Salzsees, wohlgefühlt, spüre aber, dass die Wanderlust in mir wächst. Vielleicht werde ich schon bald
  weiterziehen, um herauszufinden, was das Schicksal für mich bereithält.}
-{501}{}{Danke, daß du mir Deine Geschichte erzählt hast. Könnte ich dich noch etwas fragen?}
-{502}{}{Danke, daß du mir Deine Geschichte erzählt hast. Tschüß.}
-{510}{}{Laß mich überlegen... die meisten Mitglieder dieses Stammes stammen ursprünglich von 3 kleineren Stämmen
+{501}{}{Danke, dass du mir Deine Geschichte erzählt hast. Könnte ich dich noch etwas fragen?}
+{502}{}{Danke, dass du mir Deine Geschichte erzählt hast. Tschüß.}
+{510}{}{Lass mich überlegen... die meisten Mitglieder dieses Stammes stammen ursprünglich von 3 kleineren Stämmen
  ab, die vor langer Zeit beschlossen haben, um nicht auszusterben, sich zusammenzutun. Dies hat einen interessanten Mix
  aus verschiedenen Gewohnheiten und Dialekten zur Folge. Noch wichtiger: daraus ist eine interessante Frauenmischung
  hervorgegangen. Darüber hinaus gibt’s nicht viel zu sagen. Es ist ein einfaches Dorf, wo wir hart, um unsere Existenz
@@ -235,20 +235,20 @@
 {532}{}{Sicher, was brauchst du?}
 {533}{}{Tut mir leid, ich bin gerade beschäftigt. Vielleicht später.}
 {540}{}{Zwei unserer Jäger, Serin und Jerem, sind noch nicht von der Jagd zurück und einige Leute fangen an, sich
- Sorgen zu machen. Die Beiden sind zwei unserer besten Krieger und ich hasse den Gedanken, daß ihnen etwas zugestoßen
+ Sorgen zu machen. Die Beiden sind zwei unserer besten Krieger und ich hasse den Gedanken, dass ihnen etwas zugestoßen
  sein könnte. Ich würde sie ja selbst suchen, aber wenn die Dorfbewohner das mitbekommen, würden sie das Schlimmste
  befürchten. Ich möchte die Leute lieber nicht beunruhigen, bevor ich nicht selbst weiß, was los ist. Kannst du sie für mich
  suchen?}
 {541}{}{Gut, aber wo soll ich suchen?}
-{542}{}{Tut mir leid, aber ich habe keine Zeit nach ihnen zu suchen. Außerdem, bin ich mir sicher, daß sie bald
+{542}{}{Tut mir leid, aber ich habe keine Zeit nach ihnen zu suchen. Außerdem, bin ich mir sicher, dass sie bald
  auftauchen werden. Tschüß.}
 {543}{}{Ich bin doch kein Babysitter für Deine Krieger. Tschüß.}
 {550}{}{Überprüf das Jagdgebiet im Norden. Der schnellste Weg, dorthin zu gelangen, ist der durch die Höhle im
  Westen, nahe des Großen Salzsees. Normalerweise würde ich nicht vorschlagen diesen Weg zu nehmen, da die Gefahr
- besteht, daß sie einstürzt. Aber es ist wichtig, daß du schnell vorankommst. Beweg dich einfach vorsichtig in der Höhle,
+ besteht, dass sie einstürzt. Aber es ist wichtig, dass du schnell vorankommst. Beweg dich einfach vorsichtig in der Höhle,
  und es sollte gutgehen.}
 {551}{}{Gut, ich werde mich beeilen.}
-{552}{}{Warte, du willst, daß ich durch eine Höhle gehe, die einsturzgefährdet ist? Hmm... Verdammt, mir fällt gerade
+{552}{}{Warte, du willst, dass ich durch eine Höhle gehe, die einsturzgefährdet ist? Hmm... Verdammt, mir fällt gerade
  ein, ich muß meinen Stamm retten. Tut mir leid, ich muß los.}
 {560}{}{Hast du Neuigkeiten die vermißten Jäger betreffend?}
 {561}{}{Not yet. I'll keep looking.}
@@ -258,13 +258,13 @@
  Trümmern fest. Er wurde von einem Gecko bei lebendigem Leib gefressen. Es war ziemlich grausam.}
 {580}{}{Getötet bei einem verdammten Höhleneinsturz. Zum Teufel! Ich hasse es, gute Männer auf eine solche Art zu
  verlieren. Wahre Krieger wie sie sollten auf dem Schlachtfeld fallen. [Er schüttelt seinen Kopf.] Ihr Verlust ist ein
- schwerer Schlag für den Stamm. Aber danke, daß du gesucht hast. Deine Dienste sind nicht länger nötig.}
+ schwerer Schlag für den Stamm. Aber danke, dass du gesucht hast. Deine Dienste sind nicht länger nötig.}
 {581}{}{Sicher, jederzeit. Tschüß.}
 {582}{}{Ich bin mir sicher, sie waren großartige Kerle. Tschüß}
-{590}{}{Danke, daß du die Jäger ausfindig gemacht hast. Der Verlust von Jerem ist groß, da er ein geschickter Krieger
+{590}{}{Danke, dass du die Jäger ausfindig gemacht hast. Der Verlust von Jerem ist groß, da er ein geschickter Krieger
  war. Er hätte auf dem Schlachtfeld fallen sollen, nicht bei einem verdammten Höhleneinsturz. Jedenfalls wird, dank dir
  mein Freund, Serin wieder ganz gesund werden. Du bist bei uns immer willkommen.}
-{591}{}{Danke, daß du die Jäger ausfindig gemacht hast. Der Verlust von Jerem ist groß, da er ein geschickter Krieger
+{591}{}{Danke, dass du die Jäger ausfindig gemacht hast. Der Verlust von Jerem ist groß, da er ein geschickter Krieger
  war. Er hätte auf dem Schlachtfeld fallen sollen, nicht bei einem verdammten Höhleneinsturz. Jedenfalls wird, dank dir
  Mädchen, Serin wieder ganz gesund werden. Du bist bei uns immer willkommen.}
 {592}{}{Danke. Paß auf dich auf Krom.}
@@ -296,7 +296,7 @@
 {870}{}{Ah, sieht aus, als ob ich heute milde gestimmt bin, mein Freund. Nun, was kann ich für dich tun?}
 {871}{}{Ich mag es nicht verarscht zu werden, Mädchen. Aber, Teufel nochmal, wie könnte ich einer Göttin wie Dir böse
  sein? Nun, was kann ich für dich tun?}
-{872}{}{Schon gut. Tschüß.}
+{872}{}{Schon gut. Tschüss.}
 {1000}{}{[Der mächtige Krieger nickt respektvoll zu Dir.] Wenn das nicht der große Held des Ödlands ist. Das war eine
  sehr beeindruckende Leistung diese Enklavenhunde in die Hölle zu schicken. In der Tat haben mich die Geschichten über
  Deine Heldentaten dazu inspiriert, selbst ins Ödland zurückzukehren.}
@@ -310,7 +310,7 @@
 {2000}{}{Du versorgst den Stamm mit mehr Waffen.}
 {2500}{}{Du fällst Roys Betrug zum Opfer.}
 {2501}{}{Du hast den Händler völlig überflüssigerweise umgebracht.}
-{2502}{}{Du machst Roys Betrug publik, um sicherzustellen, daß er nie wieder Handel treiben wird.}
+{2502}{}{Du machst Roys Betrug publik, um sicherzustellen, dass er nie wieder Handel treiben wird.}
 {2503}{}{Du weigerst dich mit Roy zu handeln.}
 {2504}{}{Du machst Roys Betrug publik.}
 {3000}{}{Verschwinde, gemeiner Sklavenhändler!}

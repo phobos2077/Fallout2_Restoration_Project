@@ -15,7 +15,7 @@
 {113}{}{Zukunftsziele.}
 {114}{}{Finanzen.}
 {115}{}{Zurück.}
-{116}{}{[Nachdem du dich durch das religiöse Papperlapapp gewühlt hast, entdeckst du, daß die
+{116}{}{[Nachdem du dich durch das religiöse Papperlapapp gewühlt hast, entdeckst du, dass die
  Hubologen ein Verfahren entwickelt haben, Powerrüstungen zu härten. Außerdem habe sie einen Weg
  gefunden, um  Raketenstarts, Umlaufbahnen und Ziele im Weltraum zu berechnen. Darüber hinaus
  scheinen sie an der Beeinflussung des Wetters zu arbeiten.]}
@@ -24,7 +24,7 @@
 {119}{}{[Du studierst etwa eine halbe Stunde lang die Ziele, die sich AHS-9 gesteckt hat. Neben
  der Erleuchtung und der Vereinigung mit dem Sternenvater scheint dazu auch die skrupellose
  Vernichtung der Menschen zu gehören, die nicht von Anfang an auf seiner Seite standen. Er ist
- ein bißchen verrückt.]}
+ ein bisschen verrückt.]}
 {120}{}{Zurück.}
 {121}{}{Abmelden.}
 {122}{}{[Die Hubologen-Kirche scheint sehr wohlhabend zu sein. Die reguläre Vorgehensweise ist,
@@ -49,11 +49,11 @@
 {136}{}{Zurück.}
 {137}{}{Abmelden.}
 {200}{}{[Die Hubologenkirche scheint ausgesprochen reich zu sein. Die Standardmethode ist; das neue Rekruten, als Zeichen des guten Glaubens sich von 
- all ihren weltlichen Gütern trennen. Wenn jemand nicht gefragt wird das zu tun, bedeutet es, daß die Hubologen nicht fair Handeln. Sie haben ein 
+ all ihren weltlichen Gütern trennen. Wenn jemand nicht gefragt wird das zu tun, bedeutet es, dass die Hubologen nicht fair Handeln. Sie haben ein 
  riesiges Lager irgendwo draußen in der Wüste versteckt. Nach etwas mehr Hacken und mathematischer Berechnungen, findest du die Koordinaten und markierst
  die Position auf deinem PIPBoy.]}
 {201}{}{[Die Hubologenkirche scheint ausgesprochen reich zu sein. Die Standardmethode ist; das neue Rekruten, als Zeichen des guten Glaubens sich von 
- all ihren weltlichen Gütern trennen. Wenn jemand nicht gefragt wird das zu tun, bedeutet es, daß die Hubologen nicht fair Handeln. Sie haben ein 
+ all ihren weltlichen Gütern trennen. Wenn jemand nicht gefragt wird das zu tun, bedeutet es, dass die Hubologen nicht fair Handeln. Sie haben ein 
  riesiges Lager irgendwo draußen in der Wüste versteckt. Du hast bereits die Koordinaten.]}
 {210}{}{System hacken.}
 {211}{}{[Nach einiger Zeit erlangst du vollen administrativen Zugang zum Hauptrechner. Du kannst nun mit dem System anstellen, was immer du willst.]}

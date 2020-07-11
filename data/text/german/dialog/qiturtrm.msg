@@ -1,6 +1,6 @@
 {100}{}{Du siehst ein Terminal.}
 {101}{}{Du siehst ein Terminal. Er scheint betriebsbereit zu sein.}
-{102}{}{Du siehst einen DataPlex 2000 SmarTerminal mit 64GB RAM, das Allerneueste in der Computertechnik - zu schade, daß er
+{102}{}{Du siehst einen DataPlex 2000 SmarTerminal mit 64GB RAM, das Allerneueste in der Computertechnik - zu schade, dass er
  im Moment nicht läuft.}
 {103}{}{Du siehst einen DataPlex 2000 SmarTerminal mit 64GB RAM, das Allerneueste in der Computertechnik.}
 {104}{}{Willkommen bei PoseidoNet. Gehe ins Auswahlmenü:}
@@ -29,7 +29,7 @@
 {125}{}{Auflisten (der Computer zeigt ein Liste mit Namen).}
 {126}{}{Wähle Benutzerkennung oder logge Dich aus:}
 {127}{}{(Dieser hat genehmigten Zugang.) Smith, J.}
-{128}{}{(Dieser sieht irgendwie speziell aus.) Präsidenten-Paßwort  Außerkraftsetzen der Sicherheitsfunktion .}
+{128}{}{(Dieser sieht irgendwie speziell aus.) Präsidenten-Passwort  Außerkraftsetzen der Sicherheitsfunktion .}
 {129}{}{(Dein Zugang ist besser, als ein normaler Zugang.) Murray, T.}
 {130}{}{(Dieser hat guten Zugang.) Curling, Dr. C.}
 {131}{}{(Dieser sieht aus, als ob er wirklich guten Zugang hat.) Bird, D.}
@@ -125,7 +125,7 @@
 {222}{}{Sicherheitsstatus}
 {223}{}{Zurück zur Benutzerkennung:}
 {224}{}{Dieser Terminal befindet sich zur Zeit in Diagnosezustand. Versuche einen anderen Terminal. Dankeschön.}
-{225}{}{Willkommen beim PoseidoNet-Hilfesystem. Wir bedauern, daß die Hilfedateien überholt und zur Zeit nicht verfügbar
+{225}{}{Willkommen beim PoseidoNet-Hilfesystem. Wir bedauern, dass die Hilfedateien überholt und zur Zeit nicht verfügbar
  sind. Hilfedatei aktualisieren? (J/N)}
 {226}{}{Ja.}
 {227}{}{Nein, zurück}
@@ -133,12 +133,12 @@
  Vollversion um die aktuellen Updates zu erhalten. Die Frist für diese Software ist vor 59.439 Tagen abgelaufen.}
 {229}{}{Zurück zum Einloggen.}
 {230}{}{Beende die Sitzung}
-{231}{}{Außerkraftsetzung der Sicherheit erfordert das Präsidenten-Paßwort. Erlaubte Optionen: Aufstandsgegenmaßnahmen, Notfall
+{231}{}{Außerkraftsetzung der Sicherheit erfordert das Präsidenten-Passwort. Erlaubte Optionen: Aufstandsgegenmaßnahmen, Notfall
  Verteidigungssystem Stillegung.}
 {232}{}{(Ich werde mir das anschauen.) Gegenaufstand.}
 {233}{}{(Ich werde mir das anschauen.) Notfall Verteidigungssystem Stillegung.}
 {234}{}{(Vielleicht sollte ich etwas weniger Auffälliges versuchen) Zurück zur Benutzerkennung.}
-{235}{}{(Ich glaube nicht, daß ich mich jetzt darauf einlassen möchte.) Ausloggen}
+{235}{}{(Ich glaube nicht, dass ich mich jetzt darauf einlassen möchte.) Ausloggen}
 {236}{}{Aufstandsgegenmaßnahmen. In dem Fall einer bewaffneten Rebellion ermöglicht es die Präsidenten-Sicherheits-Schlüsselkarte, die
  Verteidigungssysteme auf alle, vorher treuen und jetzt bedrohenden Einheiten aus einem Gebiet anzuwenden. Verteidigungssysteme
  sind darauf programmiert, die gefährlichsten Feinde zuerst anzugreifen. Warnung! Derzeitiges Operations-Level - nur
@@ -152,8 +152,8 @@
 {242}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfallprotokoll Aufstandsniederschlagung eingeleitet.
 ..**Fehlfunktion**... Sicherheitslink offline in diesem Level. Bitte Formular FG-I-106-32-0635 einreichen zur
  Reparaturservice-Berechtigung. Guten Tag.}
-{243}{}{(Vielleicht wird er bei den Eingangsleveln funktionieren. Hmm, das muß das Gebiet direkt vor dem Hafen bedeuten. Ich
- muß es dort versuchen.) Zurück zur Benutzerkennung.}
+{243}{}{(Vielleicht wird er bei den Eingangsleveln funktionieren. Hmm, das muss das Gebiet direkt vor dem Hafen bedeuten. Ich
+ muss es dort versuchen.) Zurück zur Benutzerkennung.}
 {244}{}{(Ich bin gespannt, was ich noch alles versuchen kann?) Zurück.}
 {245}{}{Präsidenten-Sicherheitsschlüssel wird benötigt, um auf diese Funktion zuzugreifen. Schlüsselkarte wurde nicht
  gefunden.}
@@ -165,7 +165,7 @@
 {250}{}{(Ich möchte gerade nicht mehr mit dem Computer spielen.) Ausloggen.}
 {251}{}{Präsidenten-Sicherheitsschlüssel erkannt. Guten Tag, Herr Präsident... Notfall Verteidigungssystem Stillegung
  eingeleitet... intensive Diagnose ausführen. Alpha....Bravo....Charlie....}
-{252}{}{(Aus irgendeinem seltsamen Grund glaube ich nicht, daß ich das jetzt gerade tun möchte.) Zurück.}
+{252}{}{(Aus irgendeinem seltsamen Grund glaube ich nicht, dass ich das jetzt gerade tun möchte.) Zurück.}
 {253}{}{(Ich werde mich besser bewegen, während dieses Ding weiterhin die Diagnose läuft.) Ausloggen.}
 {254}{}{Präsidenten-Sicherheitsschlüssel nicht erkannt. Zugang verweigert.}
 {255}{}{(Hmm, mich würde interessieren, ob ich den Scanner durch einhacken in die Zugangsdatei täuschen kann, damit er

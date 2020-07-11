@@ -7,7 +7,7 @@
 {301}{}{Don ist hier der Boss. Sprich mit ihm.}
 {302}{}{Das ist Privatgelände. Kein Herumlungern.}
 {303}{}{Man sieht nicht allzu viele weibliche Sklavenhändler.}
-{304}{}{Schön, daß du bei uns bist.}
+{304}{}{Schön, dass du bei uns bist.}
 {305}{}{Hallo. Wie geht's?}
 {306}{}{Hast du schon Sklaven geschlagen?}
 {307}{}{Hallo.}

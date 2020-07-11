@@ -17,7 +17,7 @@
 {241}{}{Eigentlich würd ich gern noch mal einen Blick auf deine Ware werfen.}
 {242}{}{Eigentlich würd ich dich gern etwas fragen.}
 {243}{}{Das reicht. Also Flick, bis dann.}
-{260}{}{Ich hab für Leute zu sorgen, was hast du denn gedacht? Daß ich ein guter Samurai bin?}
+{260}{}{Ich hab für Leute zu sorgen, was hast du denn gedacht? Dass ich ein guter Samurai bin?}
 {261}{}{Sag, was ist?}
 {262}{}{Ja, äh, nun... ich möcht dich noch was anderes fragen.}
 {263}{}{Äh, oh. OK. Wiedersehn, Flick.}
@@ -50,7 +50,7 @@
 {363}{}{Wer ist Momma?}
 {364}{}{Danke. Ich hätte da noch 'ne Frage.}
 {365}{}{Danke, das ist alles, was ich wissen wollte. Auf Wiedersehen.}
-{380}{}{Momma betreibt einen Imbiß im Osten der Stadt. Gleich hinter dem Friedhof. Netter Laden,
+{380}{}{Momma betreibt einen Imbiss im Osten der Stadt. Gleich hinter dem Friedhof. Netter Laden,
  sie hat gute Pasta, Mama mia}
 {381}{}{Danke. Was ist mit dem Typen Metzger, der Vic hat?}
 {382}{}{Danke. Ich hätte da noch 'ne Frage.}

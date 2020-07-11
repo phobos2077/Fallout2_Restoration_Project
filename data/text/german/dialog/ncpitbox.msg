@@ -1,6 +1,6 @@
 {100}{}{Du siehst den Aufseher des Kasinos.}
 {150}{}{Du siehst einen elegant gekleideten Mann. Er ist der Aufseher des Kasinos.}
-{200}{}{Ähem...ich fürchte, du mußt diese Rüstung ablegen.}
+{200}{}{Ähem...ich fürchte, du musst diese Rüstung ablegen.}
 {210}{}{Äh, warum schleichst du hier herum, Jungchen?}
 {220}{}{Äh, warum schleichst du hier herum, Mädchen?}
 {230}{}{Guten Abend, [MM], Sir.}
@@ -8,8 +8,8 @@
 {250}{}{Guten Tag, [MM], Sir.}
 {260}{}{Guten Tag, [MM], Ma'am.}
 {270}{}{Freund, du gehst ins Falsche Kasino!}
-{280}{}{Es tut mir leid, aber du mußt die Waffe wegstecken.}
-{290}{}{Es tut mir leid, aber du mußt die Waffe wegstecken.}
+{280}{}{Es tut mir leid, aber du musst die Waffe wegstecken.}
+{290}{}{Es tut mir leid, aber du musst die Waffe wegstecken.}
 {300}{}{Schätzchen, tut mir leid, aber du darfst keine Waffen mit ins Kasino nehmen. [Lächelt.] Du bist schon tödlich genug.}
 {310}{}{Schätzchen, mit so 'nem Körper kannst du dich nirgendwo vorbeischleichen.}
 {320}{}{Stammesmann, du steckst die Waffe besser weg. Jetzt.}

@@ -42,7 +42,7 @@
 {609}{}{Diese Geschichte wird etwas zu lang. Tschüß.}
 {610}{}{Lass mich das klarstellen. Du willst jemandem helfen, der nachts um das Haus schleicht,
  die Ernte stiehlt und die Toten beraubt? Ich habe eine Menge Spinner in meinem Leben getroffen,
- aber du bist die Krönung. Ein Wunder, daß du so lange überlebt hast.}
+ aber du bist die Krönung. Ein Wunder, dass du so lange überlebt hast.}
 {611}{}{[Er kneift die Augen zusammen, kann aber seine Fassung bewahren.] So halten wir es hier in Abbey.
  Wenn also Freundlichkeit für dich so beleidigend ist, schlage ich vor, du verschwindest aus meinem Haus.
  Ich werde hier nicht tatenlos rumsitzen, während ein dahergelaufener Halbwilder mich vor meiner Frau beleidigt.}

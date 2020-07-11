@@ -15,7 +15,7 @@
 {204}{}{Ich liebe haun.}
 {205}{}{::Grinst zahnlos::}
 {206}{}{::kratzt sich::}
-{207}{}{::L‰ﬂt die Muskeln spielen::}
+{207}{}{::L‰sst die Muskeln spielen::}
 {208}{}{Grunz.}
 {209}{}{Grunz - Grunz.}
 {210}{}{Ich nix mag reden.}

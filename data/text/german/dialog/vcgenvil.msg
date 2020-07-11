@@ -9,7 +9,7 @@
 {108}{}{Hallo.}
 {109}{}{Geh jetzt!}
 {110}{}{Geh zurück, wo du hergekommen bist.}
-{111}{}{Mach, daß du schleunigst hier wegkommst!}
+{111}{}{Mach, dass du schleunigst hier wegkommst!}
 {112}{}{Jetzt sind wir sicher.}
 {113}{}{Vielen Dank.}
 {114}{}{Gesegnet seist du, Fremder.}

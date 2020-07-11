@@ -8,7 +8,7 @@
 {156}{}{Ich komme morgen wieder.}
 {157}{}{Ich muss da jetzt rein.}
 {158}{}{[Schaut nervös] Tut mir leid... das wusste ich nicht. Hast du irgendwelche Papiere dabei?}
-{159}{}{Bitte sehr! Kannst du überhaupt lesen?}
+{159}{}{Bitte! Kannst du überhaupt lesen?}
 {160}{}{Nein, er hat mir keine mitgegeben.}
 {161}{}{Die hab ich bei meiner Wache gelassen. Ich werd sie holen.}
 {162}{}{Ohne Papiere kommst du nicht rein.}

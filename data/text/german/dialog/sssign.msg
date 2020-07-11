@@ -21,11 +21,11 @@
 {118}{}{Die wollen hier offenbar eine ehrbare und anständige Gesellschaft schaffen.}
 {119}{}{[Zurück]}
 {120}{}{Mir reicht's. Ich hab genug gelesen.}
-{121}{}{Harte Worte. Vielleicht kann man was dazu beitragen, daß sie daran ersticken.}
+{121}{}{Harte Worte. Vielleicht kann man was dazu beitragen, dass sie daran ersticken.}
 {122}{}{Gleichheit vor dem Gesetz ist eine gute Sache.}
 {123}{}{[Zurück]}
 {124}{}{Mir reicht's. Ich hab genug gelesen.}
-{125}{}{Du machst es sofort zu deinem obersten Anliegen, diesen Leuten ein bißchen Respekt
+{125}{}{Du machst es sofort zu deinem obersten Anliegen, diesen Leuten ein bisschen Respekt
  beizubringen.}
 {126}{}{Nicht besonders geschickt ausgedrückt, aber auf den Punkt gebracht.}
 {127}{}{[Zurück]}

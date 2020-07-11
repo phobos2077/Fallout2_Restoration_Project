@@ -24,4 +24,4 @@
 {123}{}{Vic.}
 {124}{}{Myron.}
 {125}{}{Niemand. Ich habe noch mehr Bedürfnisse.}
-{126}{}{Schon gut. Tschüß.}
+{126}{}{Schon gut. Tschüss.}

@@ -36,7 +36,7 @@
 {406}{}{Vielen Dank für alles! Mach auf jeden Fall mal wieder hier halt, wenn du in der Gegend bist, bis dahin haben wir das Dorf weiter ausgebaut. Dann werde ich auch endlich eine funktionierende Küche haben, um darin zu kochen.}
 {410}{}{Hallo.}
 {411}{}{Du scheinst sehr beschäftigt zu sein. Brauchst du bei irgendetwas Hilfe?}
-{412}{}{Schon gut. Tschüß.}
+{412}{}{Schon gut. Tschüss.}
 {420}{}{Hast du etwas erreicht?}
 {421}{}{Was erreicht? Oh, die Händler. Eigentlich, ich habe das Interesse an ihm verloren und verschwand.}
 {430}{}{Was!? Es ist dir wohl klar, dass dies unsere letzte Chance war, Vereinbarungen mit ihm zu machen. Jetzt sehen wir ihm gegenüber wie Narren aus. Du hast uns zum Untergang verurteilt.}

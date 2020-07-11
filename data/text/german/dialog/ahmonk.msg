@@ -8,7 +8,7 @@
 {301}{}{Was kannst du mir über deinen Orden erzählen?}
 {302}{}{Hast du schon einmal von einem Apparat namens GECK gehört?}
 {303}{}{Weißt du, wo ich Vault 13 finden kann?}
-{304}{}{Tschüß.}
+{304}{}{Tschüss.}
 {400}{}{Was willst du wissen?}
 {401}{}{In Ordnung, ich möchte noch etwas anderes wissen.}
 {402}{}{Hmm... das kommt mir bekannt vor. Ahja, jetzt erinnere ich mich. Bruder Thomas hat sich vor kurzem mit dem Thema beschäftigt. Tut mir leid, aber ich erinnere mich nicht genau daran, was er sagte.}

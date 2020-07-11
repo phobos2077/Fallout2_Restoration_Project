@@ -19,7 +19,7 @@
 {166}{}{Kann ich eine Frage stellen?}
 {167}{}{Ich will einen Drink!}
 {168}{}{Hmm, das sind ein paar billige Drinks. Lass mal sehen.}
-{169}{}{Danke. Tschüß.}
+{169}{}{Danke. Tschüss.}
 {170}{}{Vault 13? Nö, nie von gehört.}
 {171}{}{Hmm, kann ich was anderes fragen?}
 {172}{}{Verdammt, Ich muss sie finden. Tschüss.}
@@ -27,16 +27,16 @@
 {174}{}{Wo kann man gut essen?}
 {175}{}{Weisst du wo ich Vault 13 finden kann?}
 {176}{}{Warum sind deine Drinks so billig?}
-{177}{}{Nichts. Tschüß.}
+{177}{}{Nichts. Tschüss.}
 {178}{}{Mama betreibt ein kleines Restaurant am anderen Ende der Stadt.}
 {179}{}{Mammi! Mammi!}
 {180}{}{Eine Frage noch.}
-{181}{}{Danke. Tschüß.}
+{181}{}{Danke. Tschüss.}
 {182}{}{Hau ab.}
 {183}{}{Gwah.}
 {184}{}{Ich geb dir etwas, das du schlagen kannst.}
 {185}{}{Zuerst eine kurze Frage?}
-{186}{}{Tschüß.}
+{186}{}{Tschüss.}
 {187}{}{Ein Schuss Whiskey macht 5 Dollar. Erst bezahlen.}
 {188}{}{Häh?}
 {189}{}{Hier ist das Geld.}
@@ -76,11 +76,11 @@
 {221}{}{Warum? Warum hast du meine Destille zerstörtl? Du Mistkerl!}
 {222}{}{Ist nichts persönliches. Ich wurde dafür bezahlt, es zu tun.}
 {223}{}{Es tut mir leid.}
-{224}{}{Tschüß.}
+{224}{}{Tschüss.}
 {225}{}{Ich mach einfach eine neue, weißt du.}
 {226}{}{Ich weiß.}
 {227}{}{Nun, das ist gut.}
-{228}{}{Tschüß.}
+{228}{}{Tschüss.}
 {232}{}{Warum? Warum hast du meine Destille zerstörtl? Du Schlampe!}
 {233}{}{Wo bist du, Baby?}
 {234}{}{Kommst du?}

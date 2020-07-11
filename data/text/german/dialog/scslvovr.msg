@@ -23,7 +23,7 @@
 {119}{}{Der alte Knabe, wie? Okay.}
 {120}{}{Wenn du's so formulierst, kann ich gar nicht nein sagen. Was liegt dir auf der Seele?}
 {121}{}{Danke, Fremdling.}
-{122}{}{Ich weiß mehr, als der alte Vortis vermutet, das laß dir gesagt sein.}
+{122}{}{Ich weiß mehr, als der alte Vortis vermutet, das lass dir gesagt sein.}
 {123}{}{Ich hab schon so einiges hinter mir, auch wenn man's nicht vermuten würde. Aber ich mag
  diesen Job hier. Ziemlich gemütliche Sache.}
 {124}{}{Wie du willst.}
@@ -32,7 +32,7 @@
 {127}{}{Schon mal was von einem GECK gehört?}
 {128}{}{Kennst du einen Verein namens "Enklave"?}
 {129}{}{Ich suche Arbeit. Kennst du jemand, der Leute braucht?}
-{130}{}{Vergiß es. Ich will dich nicht unnötig von deiner Arbeit abhalten.}
+{130}{}{Vergiss es. Ich will dich nicht unnötig von deiner Arbeit abhalten.}
 {131}{}{Diese Schweine haben meinen Bruder umgebracht. Hinterher haben sie behauptet, es wäre zum
  Wohle des Volkes! Ich will ihr Blut sehen. Wenn du helfen kannst, rede mit Vortis.}
 {132}{}{Gar keine schlechte Idee, finde ich.}
@@ -43,26 +43,26 @@
  gesucht. Liegt angeblich östlich von hier. Wir haben da alles abgegrast, aber nichts gefunden.}
 {136}{}{Ich bin sicher, ihr habt euer Bestes getan. Da du soviel weißt, würde ich dir gerne noch
  mehr Fragen stellen.}
-{137}{}{Ich muß jetzt gehen.}
+{137}{}{Ich muss jetzt gehen.}
 {138}{}{GECK, wie? Früher, als ich Vaulttechnik studierte, hab ich mal davon gelesen. Angeblich
  hat jede Vault so ein Ding und angeblich waren sie für die Zeit unmittelbar nach Öffnung der
  Vault bestimmt. Es heißt, Shady Sands ist dadurch entstanden - durch ein GECK. Bringt dich das
  irgendwie weiter?}
 {139}{}{Du hast Vaulttechnik studiert? Beeindruckend. Da würd ich dir gerne noch ein paar
  weitere Fragen stellen.}
-{140}{}{Ich muß jetzt gehen.}
+{140}{}{Ich muss jetzt gehen.}
 {141}{}{Die Enklave... Es gibt da einen Arzt in der Stadt, Henry heißt er. Eines Nachts, als er
  betrunken war, fing er an von irgendwelchen Typen zu erzählen, die er die Enklave nannte.}
 {142}{}{Genau das wollte ich wissen. Du bist ganz schön gut informiert.}
 {143}{}{Das war's auch schon. Besten Dank.}
-{144}{}{Was mich betrifft, ich halte immer Ausschau - das Problem ist, daß heutzutage keiner mehr
+{144}{}{Was mich betrifft, ich halte immer Ausschau - das Problem ist, dass heutzutage keiner mehr
  Sklavenhändler anheuern will. Vortis, mein Chef, hat da irgendwelche Heimlichkeiten am Laufen.
  In der Stadt gibt's die Ranchbesitzer vom Viehzüchter-Verband, die suchen immer jemanden. Und
  Dorothy kann immer eine Aushilfe für das Kraftwerk gebrauchen, falls du dich mit so was
- auskennst. Es heißt, daß sogar Präsidentin Tandi einen Fachmann sucht.}
+ auskennst. Es heißt, dass sogar Präsidentin Tandi einen Fachmann sucht.}
 {145}{}{Mensch, du bist aber informiert. Am liebsten würde ich dir den ganzen Tag lang Fragen
  stellen.}
 {146}{}{Ich geh diesen Hinweisen sofort nach.}
 {147}{}{Du schneidest ihnen die...du weißt schon, was...für mich ab, ja?}
-{148}{}{Kein Problem. Ich wüßte aber gerne noch ein bißchen mehr.}
+{148}{}{Kein Problem. Ich wüsste aber gerne noch ein bisschen mehr.}
 {149}{}{Ich kümmere mich um sie, mach dir keine Sorgen.}

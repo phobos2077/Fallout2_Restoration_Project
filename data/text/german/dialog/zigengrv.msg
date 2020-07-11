@@ -19,7 +19,7 @@
 {300}{}{"Hier ruht Chris Avellone, König des Tanzparketts."}
 {301}{}{"Chris Jones. Nightwing"}
 {302}{}{"Christopher Michael Holland, alias 'Chris Holland', alias 'Chris': Es gibt zweieinhalb
- Gründe, diesen Grabstein zu lesen... Normalerweise würden man erwarten, daß diese Gründe genannt
+ Gründe, diesen Grabstein zu lesen... Normalerweise würden man erwarten, dass diese Gründe genannt
  sind."}
 {303}{}{"Colin McComb: Auch eine sinnlose Existenz."}
 {304}{}{"David Hendee: der Lauteste unter den Toten. Möge er in Frieden RUHEn."}
@@ -84,7 +84,7 @@
 {352}{}{"Brahmin-Cowboy"}
 {353}{}{"Josh Walters, 1971-2011. Er starb an Komplikationen während seiner fünften
  Lebertransplantation."}
-{354}{}{"Doug Avery. Haßte den Krieg dafür, daß er seinen Lebensstil ruinierte."}
+{354}{}{"Doug Avery. Hasste den Krieg dafür, dass er seinen Lebensstil ruinierte."}
 {355}{}{"Hier ruht Ezekial Aikle, Alter 102. Wen die Götter lieben, den rufen sie früh zu sich."}
 {356}{}{"Hier ruht Ann Mann, sie lebte als alte Jungfer und starb als alter Mann. 8. Dezember
  1767"}
@@ -103,7 +103,7 @@
 {365}{}{"Ich hab euch doch gesagt, ich bin krank!"}
 {366}{}{"Wenn Mangel an Geld du verspürst, so grabe einen Meter tief und du wirst finden einen
  Penny."}
-{367}{}{"Sie hat immer gesagt, daß ihre Füße sie eines Tages umbringen würden. Aber niemand
+{367}{}{"Sie hat immer gesagt, dass ihre Füße sie eines Tages umbringen würden. Aber niemand
  glaubte ihr."}
 {368}{}{"Ein Stoß in die Saite am 22. Mai - da war's für John Fiddle endgültig vorbei."}
 {369}{}{"Hier ruht der Leichnam von Anne, sie kam um durch eine Banane. Nicht die Frucht brachte

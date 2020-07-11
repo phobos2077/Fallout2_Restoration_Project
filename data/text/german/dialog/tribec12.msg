@@ -7,7 +7,7 @@
 {106}{}{Ich bin auf der Suche nach dem heiligen GECK. Weißt du irgend etwas darüber?}
 {107}{}{Ich suche nach einer vermissten Frau. Sie ist die Schwester meines Freundes, Sulik.}
 {108}{}{Gibt es hier noch irgend etwas anderes, was getan werden muss?}
-{109}{}{Schon gut. Tschüß.}
+{109}{}{Schon gut. Tschüss.}
 {110}{}{Das heilige GECK . . . [Er nimmt einen langen Zug aus seiner Pfeife.] Es gibt eine Kreatur, die wir manchmal jagen - mitunter, jagt auch sie uns. Ein Gecko? Nein. Ich fühle, dass es das nicht ist, was du suchst. Ich befürchte, dein heiliges GECK ist jenseits meines geistigen Horizonts.}
 {111}{}{Ich möchte dich noch was anderes fragen.}
 {112}{}{Das ist alles was ich wissen wollte. Tschüß.}
@@ -26,7 +26,7 @@
 {130}{}{Thank you, child, but I am content. Perhaps others are not so. Ask around the village.}
 {140}{}{Ich such GECK.}
 {141}{}{Ich such verloren Frau. Schwester ist von Freund Sulik.}
-{142}{}{Tschüß.}
+{142}{}{Tschüss.}
 {150}{}{Ich noch frag.}
 {160}{}{Mh, er is da. Sulik, wichtig Mann dich sprechen.}
 {161}{}{Oh, ihm ged gut. Wart auf mir.}

@@ -23,8 +23,8 @@
 {121}{}{Ich interessiere mich für die Vertibirds. Wenn ich mir die Pläne ansehen wollte, wo finde
  ich die denn?}
 {123}{}{Wo liegt die Enklave-Hauptbasis?}
-{124}{}{Danke. Ich muß zurück zu meinem Dienstposten.}
-{125}{}{Magste 'n bißchen Tratsch hören? Ich kann dir die letzten Neuigkeiten aus der Wartung,
+{124}{}{Danke. Ich muss zurück zu meinem Dienstposten.}
+{125}{}{Magste 'n bisschen Tratsch hören? Ich kann dir die letzten Neuigkeiten aus der Wartung,
  dem Labor oder von den Füchsen liefern.}
 {126}{}{Was magst'n hören?}
 {127}{}{Wie steht's mit Wartung?}
@@ -38,7 +38,7 @@
 {135}{}{Geht noch was ab?}
 {136}{}{Ich hab genug gehört, denke ich.}
 {137}{}{Raul, der Vertibird-Mechaniker, mag Quincy nicht, den Leiter der Wartung. Die beiden sind
- dauernd am streiten. Ich glaub nicht, daß es da um berufliche Konkurrenz geht. Auf jeden Fall
+ dauernd am streiten. Ich glaub nicht, dass es da um berufliche Konkurrenz geht. Auf jeden Fall
  ist Raul total arrogant, aber Quincy ist irgendwie in Ordnung. Hoffentlich gewinnt er am Ende.}
 {138}{}{OK.}
 {139}{}{Ja, ich kann dich hören.}
@@ -52,7 +52,7 @@
  eine Füchsin verguckt hat, die Wache vor der Praxis. Hat sogar 'nen Kosenamen für sie. Nennt sie
  ausgerechnet Snookie.}
 {144}{}{Putzig.}
-{145}{}{Nö, das war ziemlich alles. Wenn ich mehr hör, laß ich's dich wissen. Ich red genauso
+{145}{}{Nö, das war ziemlich alles. Wenn ich mehr hör, lass ich's dich wissen. Ich red genauso
  gern drüber wie ich's hör!}
 {146}{}{Danke.}
 {147}{}{Was interessiert dich daran? Was soll's, is' egal. Quincy hat sie in der Wartung drüben,
@@ -63,7 +63,7 @@
 {151}{}{Wo das?}
 {152}{}{Nordöstliche Ecke der Basis, mein Freund. Kannst es nicht verfehlen.}
 {153}{}{OK. Danke.}
-{156}{}{Komisch, daß du das nicht weißt, bist wohl hier aus der Gegend. Die Hauptbasis ist mitten
+{156}{}{Komisch, dass du das nicht weißt, bist wohl hier aus der Gegend. Die Hauptbasis ist mitten
  im verdammten Ozean. Naja, nicht genau mittendrin, aber so gut wie. Kommt man nur mit Schiff
  oder Vertibird hin und das blöde Schiff is' irgendwie manipuliert. Brauchst 'n SHS dafür.}
 {157}{}{SHS?}
@@ -82,14 +82,14 @@
 {167}{}{Quatschen.}
 {168}{}{Ich nur sagen Hallo.}
 {169}{}{Gar nichts, wollte nur vorbeischauen.}
-{170}{}{Da hast du's. Es ist tot, es ist gekocht, es ist nicht zu erkennen. Laß dir's schmecken.}
+{170}{}{Da hast du's. Es ist tot, es ist gekocht, es ist nicht zu erkennen. Lass dir's schmecken.}
 {171}{}{Äh...Danke.}
-{172}{}{Mein Sohn, ich kann dir vom Geruch her schon sagen, daß du keine dieser Powerrüstungen
+{172}{}{Mein Sohn, ich kann dir vom Geruch her schon sagen, dass du keine dieser Powerrüstungen
  trägst. Wenn der Sarge dich ohne Uniform sieht, bist du erledigt. Und das wär alles andere als
- schön für dich. Jetzt beweg deinen Hintern zum Nachschub und laß dich ausrüsten.}
-{173}{}{Meine Beste, ich kann dir vom Geruch her schon sagen, daß du keine dieser Powerrüstungen
+ schön für dich. Jetzt beweg deinen Hintern zum Nachschub und lass dich ausrüsten.}
+{173}{}{Meine Beste, ich kann dir vom Geruch her schon sagen, dass du keine dieser Powerrüstungen
  trägst. Wenn der Sarge dich ohne Uniform sieht, bist du erledigt. Und das wär alles andere als
- schön für dich. Jetzt beweg deinen Hintern zum Nachschub und laß dich ausrüsten.}
+ schön für dich. Jetzt beweg deinen Hintern zum Nachschub und lass dich ausrüsten.}
 {174}{}{Wo das?}
 {175}{}{OK.}
 {176}{}{Wo das?}

@@ -29,7 +29,7 @@
 {310}{}{Hey, danke dass du das für uns klar gemacht hast. Wir werden hart arbeiten.}
 {311}{}{Solltet ihr. Sorgt auch dafür das sich die Kinder von allen Problemen fernhalten.}
 {312}{}{Wir tun unser Bestes.}
-{313}{}{Tschüß.}
+{313}{}{Tschüss.}
 {350}{}{Wo auch immer, nur nicht hier. In Den ist viel Platz, ich bin sicher ihr findet wo eine Loch zum pennen.
  Komm schon, willst du wirklich das die Kinder auf der Straße leben?}
 {351}{}{Ne, hast Recht. Is nich cool für die Kinder. Na gut, wir packen unser Zeug und ziehen aus. Das Dach von der Hütte hier hat eh ein Loch.}

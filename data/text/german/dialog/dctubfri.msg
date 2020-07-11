@@ -27,7 +27,7 @@
 {233}{}{Hat das Tätowieren weh getan?}
 {234}{}{Ihr Sklavenhändler seid echt harte Typen.}
 {235}{}{Ist es nicht gefährlich, Sklavenhändler zu sein?}
-{236}{}{Hey, ich hab gehört, dein Boß wurde erschossen oder so. So'n Pech.}
+{236}{}{Hey, ich hab gehört, dein Boss wurde erschossen oder so. So'n Pech.}
 {237}{}{Hey, haste gehört? Metzger ist tot oder sowas.}
 {238}{}{Wow, irgend jemand hat Metzger den Schlächter zu Hackfleisch verarbeitet.}
 {239}{}{Ich hoffe Tubby bleibt im Geschäft, wenn Metz weg ist. }
@@ -85,13 +85,13 @@
 {326}{}{Bitte geh einfach nur.}
 {327}{}{Ich kann jetzt nicht sprechen, Mädel. Die verdammten Kopfschmerzen bringen mich um.}
 {340}{}{Oh Mann, du bist ätzend.}
-{341}{}{Warum mußtest du gehen und einen perfekten Rausch zerstören?}
+{341}{}{Warum musstest du gehen und einen perfekten Rausch zerstören?}
 {342}{}{Mann, das tut weh.}
 {343}{}{Was zum Henker.}
 {344}{}{Wie soll das denn vor sich gehen?}
 {400}{}{Tubby ist so wunderbar.}
 {401}{}{Jet macht mich so scharf.}
-{402}{}{Tubby weiß, wie er sich um seine Frauen kümmern muß.}
+{402}{}{Tubby weiß, wie er sich um seine Frauen kümmern muss.}
 {403}{}{Ist Tubby nicht wunderbar?}
 {404}{}{Oh, Baby - Warte mal! Du bist nicht Tubby.}
 {405}{}{Was macht unser großer Mann gerade?}
@@ -113,5 +113,5 @@
 {461}{}{Bitte nicht!}
 {462}{}{Ich hab's nicht genommen!}
 {463}{}{Ich war's nicht!}
-{464}{}{Laß mich in Ruh!}
-{465}{}{Ich wußte nicht, daß es deins war.}
+{464}{}{Lass mich in Ruh!}
+{465}{}{Ich wusste nicht, dass es deins war.}

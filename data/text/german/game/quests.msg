@@ -25,13 +25,13 @@
 {306}{}{Finde heraus, wer die Brahmins gestohlen hat.}
 {400}{}{Bei der Farm nordöstlich von Modoc gehen seltsame Dinge vor. Kundschafte das aus und erstatte Jo Bericht.}
 {401}{}{Cornelius hat seine goldene Taschenuhr verloren. Such sie, und gib sie ihm wieder.}
-{402}{}{Farrel will, daß du Cornelius' goldene Taschenuhr findest. Such sie, und gib sie Farrel wieder.}
+{402}{}{Farrel will, dass du Cornelius' goldene Taschenuhr findest. Such sie, und gib sie Farrel wieder.}
 {403}{}{Jonny ist verschwunden. Such ihn, und bring ihn nach Hause zu Balthas zurück.}
 {404}{}{Jonny ist in den Höhlen der Schlacken. Finde eine Möglichkeit, Jonny nach Hause zu Balthas zu bringen.}
 {405}{}{Werde die Plage in Farrels Garten los.}
 {406}{}{Überbringe die Nachricht der Schlacken an Jo in Modoc.}
 {407}{}{Jo findet die Schlacken verdächtig. Informiere dich über die Leichen in der Geisterfarm, und finde heraus, was Karl zugestoßen ist.}
-{408}{}{Geh nach Den und sag Karl, daß er wieder nach Hause kommen kann.}
+{408}{}{Geh nach Den und sag Karl, dass er wieder nach Hause kommen kann.}
 {409}{}{Bewache Grishams Brahmin.}
 {500}{}{Besorg einen Pflug für Mr. Smith.}
 {501}{}{Liefere Moores Aktentasche bei Mr. Bishop in New Reno ab.}
@@ -72,13 +72,13 @@
 {809}{}{Hilf bei der Bewachung einer geheimen Transaktion in der Wüste.}
 {810}{}{Such ein paar Endorphinblocker, um ein Gegenmittel gegen Jet herzustellen.}
 {811}{}{Jage den Destillator der Wrights unter dem Bahnhof in die Luft.}
-{812}{}{Bring Westin in der NCR um, ohne daß es wie ein Mord aussieht.}
+{812}{}{Bring Westin in der NCR um, ohne dass es wie ein Mord aussieht.}
 {813}{}{Bring Carlson in der NCR um.}
 {814}{}{Liefere zehn Cat's Paw-Zeitschriften bei Miss Kitty ab.}
 {815}{}{Liefere eine Laserpistole bei Eldridge ab.}
 {816}{}{Bring das Paket von Big Jesus zu Ramirez bei den Ställen.}
 {817}{}{Treibe die Abgabe von den Korsischen Brüdern ein.}
-{818}{}{Bring Boß Salvatore für Big Jesus Mordino um.}
+{818}{}{Bring Boss Salvatore für Big Jesus Mordino um.}
 {819}{}{Bringe eine Flasche von Abbeys Fusel zu Vater Tully.}
 {900}{}{}
 {1000}{}{}
@@ -117,8 +117,8 @@
 {1509}{}{Die Shi brauchen Vertibird-Pläne aus Navarro.}
 {1510}{}{Stiehl den Hubologen die Vertibird-Pläne.}
 {1511}{}{Suche die Freundin von Dachs im Schiffsbauch.}
-{1512}{}{Der Drache will, daß du mit Lo Pan aus dem Weg räumst - im Kampf Mann gegen Mann.}
-{1513}{}{Lo Pan will, daß du mit den Drachen aus dem Weg räumst - wenn möglich im Kampf Mann gegen Mann.}
+{1512}{}{Der Drache will, dass du mit Lo Pan aus dem Weg räumst - im Kampf Mann gegen Mann.}
+{1513}{}{Lo Pan will, dass du mit den Drachen aus dem Weg räumst - wenn möglich im Kampf Mann gegen Mann.}
 {1514}{}{Hol Chips Milz.}
 {1515}{}{Besorg eine gehärtete Powerrüstung von Crockett.}
 {1516}{}{Hol die Vertibird-Pläne von der Brotherhood of Steel.}

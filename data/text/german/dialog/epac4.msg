@@ -9,7 +9,7 @@
 {210}{}{Erforschen!? Erforschen...MEINE...EPA!? Wie können Sie es wagen, hier dreist einzubrechen und unbekümmert rum zu laufen! Dickhead! Ich hab nicht übel Lust Sie festzunehmen und Ihren Arsch in den Streichelzoo zu stecken — um dieser Monstrositätenschau ein wahres Fest zu liefern.}
 {211}{}{Nein, warte! Ich richte keinen Schaden an! Lass mich erklären...}
 {220}{}{Sie gehen nirgendwo hin, Fathead. Niemand schlendert durch MEINE EPA ohne seine Absichten darzulegen. Woher soll ich wissen dass Sie nicht ein chinesischer Spion sind?}
-{221}{}{Ich weiß, das kannst du nicht. Aber wenn du mich ausreden läßt, bin ich sicher, dass wir die Missverständnisse beseitigen können.}
+{221}{}{Ich weiß, das kannst du nicht. Aber wenn du mich ausreden lässt, bin ich sicher, dass wir die Missverständnisse beseitigen können.}
 {222}{}{Und wenn ich einer bin? Spielt es irgend eine Rolle? Deine wertvolle EPA ist nicht mehr wirklich wichtig. Sie ist nur ein weiterer verrottender Überrest aus einer untergegangen Ära.}
 {230}{}{Dann los, Bubblehead, rechtfertigen Sie sich. Machen Sie es aber gut, sonst lasse ich die Roboter los, die werden Sie zusammenschlagen und auf den elektrischen Stuhl schleifen!}
 {231}{}{In Ordnung. Erstens, ich bin kein chinesischer Spion — ich bin das, was du wahrscheinlich einen Wilden nennst. Ich wurde ausgewählt, um eine gefährliche Suche zu absolvieren, die meinen Stamm vor der Vernichtung retten könnte. Ich betrat diesen Komplex nur in der Hoffnung, etwas einzusacken, das mir bei meiner Suche helfen könnte.}
@@ -35,7 +35,7 @@
 {320}{}{Ausgezeichnet! Wunderbar! Jetzt kann ich diese Narren zermalmen! Die EPA wird wieder gesäubert werden! So, jetzt habe ich etwas für Sie. [Spricht zu den Robotern.] Hebt eure Blechhintern und gebt diesem Bürger eine Belohnung dafür, dass er dieser großen Nation gedient hat! [Ein Roboter nähert sich und hält dir eine Schlüsselkarte hin. Sobald du die Karte genommen hast, verlässt er sofort den Raum. Irgendwie hast du den Eindruck, dass diese Roboter glücklicher gewesen wären, wenn du sie inaktiv gelassen hättest.] Jetzt können Sie ihre Angelegenheiten weiterverfolgen. Sie dürfen wegtreten.}
 {321}{}{Danke.}
 {322}{}{Wegtreten? Was bin ich, ein Nachtwächter? Bis später, Alter.}
-{330}{}{Laß mich in Ruh!}
+{330}{}{Lass mich in Ruh!}
 {331}{}{Ich will nichts mehr mit Ihnen zu tun haben.}
 {332}{}{GO JERK YOURSELF!!}
 {333}{}{Ich bin gerade beschäftigt.}

@@ -6,8 +6,8 @@
 {105}{}{Was juckt's dich?}
 {106}{}{Geht dich nichts an.}
 {107}{}{Ich möchte wetten, die Bastarde aus Vault City haben dich geschickt. Am besten
- verschwindest du und läßt alle am Leben.}
-{108}{}{Dafür ist's ein bißchen zu spät.}
+ verschwindest du und lässt alle am Leben.}
+{108}{}{Dafür ist's ein bisschen zu spät.}
 {109}{}{Warum?}
 {110}{}{Tut mir leid, habe einen Auftrag zu erledigen.}
 {111}{}{Diese Kreaturen sind das einzige, das Vault City davon abhält, uns zu ihren sogenannten
@@ -21,14 +21,14 @@
 {118}{}{Nicht mein Problem.}
 {119}{}{Hoffentlich erstickst du dran. Die werden schon sehr bald hier auftauchen und uns
  abschleppen.}
-{120}{}{Ich wußte nicht, daß die mir deshalb den Auftrag gegeben haben.}
-{121}{}{Mag schon sein. Aber ich laß mir von Gesocks wie dir trotzdem nichts sagen.}
+{120}{}{Ich wusste nicht, dass die mir deshalb den Auftrag gegeben haben.}
+{121}{}{Mag schon sein. Aber ich lass mir von Gesocks wie dir trotzdem nichts sagen.}
 {122}{}{Wir können das nicht zulassen.}
 {123}{}{Tu, was du nicht lassen kannst.}
 {124}{}{Du hast denen das einfach so geglaubt? Da mußt du aber noch einiges über das Leben
  lernen, mein Freund.}
 {125}{}{Kann ich euch denn irgendwie helfen?}
-{126}{}{Die Jungs aus Vault City sind ziemliche Feiglinge. Wenn du denen ein bißchen Angst
+{126}{}{Die Jungs aus Vault City sind ziemliche Feiglinge. Wenn du denen ein bisschen Angst
  einjagst, rennen die wie die Karnickel. Mit ein paar Waffen könnten wir sie uns bestimmt
  vom Leib halten.}
 {127}{}{Ich kann dir vielleicht helfen, aber Knarren sind nicht billig. An welche Waffen denkst du?}
@@ -50,8 +50,8 @@
 {140}{}{Gern geschehen.}
 {141}{}{Willkommen, da bist du ja wieder. Bei uns läuft's gut. Wir erweitern gerade das Dorf.}
 {142}{}{Hallo, da bist du ja wieder! Hier bei uns ist es gut vorangegangen, wie du siehst. Schau
- dich mal um, wenn du 'n bißchen Zeit hast.}
-{143}{}{Wir sind dauernd am Bauen. Wir hoffen, daß wir bis nächsten Monat das Dorf wieder ein
+ dich mal um, wenn du 'n bisschen Zeit hast.}
+{143}{}{Wir sind dauernd am Bauen. Wir hoffen, dass wir bis nächsten Monat das Dorf wieder ein
  Stück erweitert haben.}
 {144}{}{Willkommen! Das Dorf ist noch ein Stück gewachsen, genau, wie wir gehofft hatten. Wie
  immer bist du hier willkommen.}
@@ -88,7 +88,7 @@
 {169}{}{Du bist hier immer willkommen! Mach's gut.}
 {170}{}{Ja, aber ich denke du wirst sie nicht brauchen. Zumindest nicht gegen Vault City. Weißt du, ich konnte den Stadtrat von Vault City dazu überreden, euer Dorf in Ruhe zu lassen.}
 {171}{}{Ich mach's. Bevor ich loslege habe ich aber noch einige Fragen.}
-{172}{}{Schon gut. Tschüß.}
+{172}{}{Schon gut. Tschüss.}
 {173}{}{Bisher nicht. Ich melde mich wieder wenn ich sie habe.}
 {174}{}{Danke! Man sieht sich.}
 {200}{}{Ich habe zufälligerweise alle dabei, die du haben möchtest.}

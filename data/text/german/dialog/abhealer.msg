@@ -5,7 +5,7 @@
 {301}{}{Ich bin verletzt, kannst du mir helfen?}
 {302}{}{[Sabber.]}
 {303}{}{So, what do you do here at the Abbey?}
-{304}{}{Tschüß.}
+{304}{}{Tschüss.}
 {400}{}{Es ist vollbracht!}
 {401}{}{Danke.}
 {402}{}{Hör auf damit!}
@@ -29,7 +29,7 @@
 {700}{}{Einige der Medikamente bekam ich von meinem Vater. Der Großteil der anderen Sachen war schon hier im Kloster.}
 {701}{}{Interessant, machs gut.}
 {702}{}{Glaubst du, du könntest mir ein paar Medikamente abgeben? Du scheinst ja jede Menge übrig zu haben.}
-{703}{}{Du willst dass ich sie dir einfach so *gebe*? Was läßt dich glauben, dass du sie mehr verdienst als die Menschen von Abbey?}
+{703}{}{Du willst dass ich sie dir einfach so *gebe*? Was lässt dich glauben, dass du sie mehr verdienst als die Menschen von Abbey?}
 {704}{}{Weil ich dazu neige, verletzt zu werden... sehr oft.}
 {705}{}{Da ich auf der heiligen Suche nach einem Garten Eden Creation Kit bin. Sieh mal, mein ganzes Dorf wird untergehen, wenn ich dieses
  Gerät nicht rechtzeitig finde. Deine Leute, andererseits, scheinen hier ein friedliches Leben zu führen, und nicht viel Bedarf nach so viel

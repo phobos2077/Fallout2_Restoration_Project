@@ -2,7 +2,7 @@
 {101}{}{Du siehst einen Generator.}
 {102}{}{Du siehst einen EPA Beleuchtungsgenerator.}
 {103}{}{Du siehst einen Generator der die Beleuchtung der EPA steuert.}
-{104}{}{Nach längerer Suche läßt sich eine Schaltplatte mit einigen beschädigten Teilen ausfindig machen. Unter dem Schrott draußen könnte man vielleicht ein paar Ersatzteile finden.}
+{104}{}{Nach längerer Suche lässt sich eine Schaltplatte mit einigen beschädigten Teilen ausfindig machen. Unter dem Schrott draußen könnte man vielleicht ein paar Ersatzteile finden.}
 {105}{}{Da ist das Problem!}
 {106}{}{Die schadhaften Stellen wurden repariert und der Generator läuft wieder.}
 {107}{}{An dem Generator gibt's keinen Fehler. Er läuft einfach nicht.}

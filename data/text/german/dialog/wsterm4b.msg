@@ -64,7 +64,7 @@
 {149}{}{Entnahme fehlgeschlagen.}
 {150}{}{Entnahme abgeschlossen.}
 {151}{}{Entnahme abgeschlossen 
-                                            Danke, daß Sie Vault-Tec benutzt haben. In unserem Katalog finden Sie eine vollständige Übersicht über alle Produkte von Vault-Tec.}
+                                            Danke, dass Sie Vault-Tec benutzt haben. In unserem Katalog finden Sie eine vollständige Übersicht über alle Produkte von Vault-Tec.}
 {152}{}{}
 {153}{}{Beenden}
 {154}{}{Extraktion fehlgeschlagen-- Lokale Sensorüberlastung.}

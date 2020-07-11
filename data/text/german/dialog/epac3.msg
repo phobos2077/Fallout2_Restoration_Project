@@ -38,7 +38,7 @@
 {303}{}{Nein. Ich muss weg.}
 {310}{}{Sicher, was möchtest du wissen? Ich hoffe es geht um Toast.}
 {311}{}{Was ist das alles hier?}
-{312}{}{Schon gut. Tschüß.}
+{312}{}{Schon gut. Tschüss.}
 {350}{}{Hey! Du hast mich repariert! Ich wusste dass Mr. Handy seine Arbeit unerledigt ließ. Jetzt fühl ich mich besser denn je! Danke.}
 {351}{}{Sicherlich, das ist das was ich tue. Bis später.}
 {352}{}{Jetzt warte doch. Wenn du mich dich nicht mit Toast belohnen lässt, dann darf ich dir wenigstens einen kleinen Tipp geben.

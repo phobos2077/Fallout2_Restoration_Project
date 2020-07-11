@@ -4,7 +4,7 @@
 {200}{}{Hallo. Was kann ich für dich tun?}
 {201}{}{Ich habe etwas von Elaine...}
 {202}{}{Was ist das alles hier?}
-{203}{}{Tschüß.}
+{203}{}{Tschüss.}
 {300}{}{Lass mich raten. Es ist das Wartungsteil, das ich angefordert habe, richtig?}
 {301}{}{Ja, hier ist es.}
 {302}{}{Nein, ich habe dich nur getestet.}

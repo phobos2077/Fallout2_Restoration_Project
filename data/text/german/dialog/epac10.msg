@@ -303,7 +303,7 @@
  zu was ich alles fähig bin!}
 {641}{}{[Fertig]}
 {650}{}{[Er grinst dich an, wobei er eine Reihe perfekter Zähne entblößt - ein Produkt der Zahnmedizin aus der
- Vorkriegszeit - die dir etwas fremd erscheinen in ihrem perlweißen Glanz und ihrer klaren Symmetrie.] Ich wußte, dass da
+ Vorkriegszeit - die dir etwas fremd erscheinen in ihrem perlweißen Glanz und ihrer klaren Symmetrie.] Ich wusste, dass da
  irgendetwas ist was mir an dir gefällt. Du hast einen guten Geschmack. Du bist nicht zufällig ein Fan von "The King",
  oder?}
 {651}{}{Öhh.... [Leerer Blick.]}
@@ -674,7 +674,7 @@
 {4040}{}{Du bist echt ein schlechter Umgang, weißt du das?}
 {4041}{}{Ich versuche, mich von dem Zeug fern zu halten. Aber wenn du darauf bestehst...}
 {4042}{}{Mein Körper ist mir heilig aber ich schätze das eine Mal kann nicht schaden.}
-{4043}{}{Wenn das irgendwelche bleibenden Schäden hinterläßt, schneid ich dir die Kehle durch.}
+{4043}{}{Wenn das irgendwelche bleibenden Schäden hinterlässt, schneid ich dir die Kehle durch.}
 {4045}{}{Ich fühle mich schon viel besser.}
 {4046}{}{Viel besser.}
 {4050}{}{Hey! Meine Frisur.}
@@ -707,7 +707,7 @@
 {4130}{}{Ich sage, wir schießen ein Loch in Davids Kopf und rollen ihn in einen Graben hinunter.}
 {4131}{}{Nehmen wir mal an, rein hypothetisch, man würde David die Kehle durchschneiden, während er schläft. Keinen
  würde es jucken, stimmst?}
-{4140}{}{Hey Cassidy, du solltest wirklich mal Psycho ausprobieren. Ich hab gehört, es läßt sogar dein Haar wieder
+{4140}{}{Hey Cassidy, du solltest wirklich mal Psycho ausprobieren. Ich hab gehört, es lässt sogar dein Haar wieder
  wachsen.}
 {4141}{}{Warum säufst du nicht ein bisschen mehr Alkohol, Cassidy? Er hat dich doch so schön altern lassen.}
 {4142}{}{Es ist erbärmlich, mit ansehen zu müssen, wie jemand der so alt ist wie Cassidy krampfhaft versucht am Leben

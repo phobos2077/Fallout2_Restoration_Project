@@ -15,7 +15,7 @@
 {144}{}{Wenn da dieses Bedürfnis ist, das UNBEDINGT befriedigt werden muss…}
 {145}{}{Dann auf zum Cat's Paw!}
 {163}{}{...New-Reno-Waffen!}
-{164}{}{Wenn ihr jemanden aus sicherer Entfernung umbringen müßt...}
+{164}{}{Wenn ihr jemanden aus sicherer Entfernung umbringen müsst...}
 {165}{}{Auf zu New-Reno-Waffen!}
 {200}{}{Der Sieger heißt...}
 {201}{}{durch K.O...}

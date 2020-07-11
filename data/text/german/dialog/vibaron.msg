@@ -28,29 +28,29 @@
 {251}{}{Lass uns handeln.}
 {252}{}{T'schuldigung, ich gehe jetzt.}
 {253}{}{Ich glaube, ich kann auf dich verzichten, Arschloch.}
-{254}{}{Besteht die Möglichkeit deine Meinung zu ändern, so daß du mit dem Dorf Handel
+{254}{}{Besteht die Möglichkeit deine Meinung zu ändern, so dass du mit dem Dorf Handel
  treiben würden?}
-{260}{}{Was, macht's schon? Es ist mir egal, daß es beinahe auf meinem Weg liegt. Es lohnt den
+{260}{}{Was, macht's schon? Es ist mir egal, dass es beinahe auf meinem Weg liegt. Es lohnt den
  Aufwand einfach nicht.}
 {261}{}{Gut, ich sehe es ist sinnlos mit dir zu verhandeln. Tschüß.}
 {262}{}{Kann ich etwas tun, um deine Meinung zu ändern?}
 {263}{}{Das ist schade. Ein schlauer Geschäftsmann, würde diese Möglichkeit nutzen. Aber gut,
  wenn du nicht interessiert bist, muß ich jemand anderen finden.}
-{270}{}{Moment mal, ich habe nicht gesagt, daß ich nicht interessiert bin. Von welcher
+{270}{}{Moment mal, ich habe nicht gesagt, dass ich nicht interessiert bin. Von welcher
  Gelegenheit sprichst du denn?}
 {271}{}{Weißt du, das Dorf sieht vielleicht im Moment nach nichts aus. Ich habe jedoch Insider
- Informationen, die besagen, daß das Dorf der kommende Hot Spot sein wird. Vertrau
+ Informationen, die besagen, dass das Dorf der kommende Hot Spot sein wird. Vertrau
  mir, hier wird es in den nächsten Jahren richtig boomen. Also, wenn ich du wäre, würde
  ich Verbindungen knüpfen wollen, bevor sie dafür zu groß geworden sind und du deine
  Chance verpasst hast.}
-{280}{}{Haha! Du willst mir weiß machen, daß dieses Rattenloch sich zu etwas Großem
+{280}{}{Haha! Du willst mir weiß machen, dass dieses Rattenloch sich zu etwas Großem
  entwickeln wird? Ich glaube meine Zeit ist zu kostbar, um sie mit dir zu vergeuden.}
 {281}{}{Gut, ich sehe es ist sinnlos mit dir zu verhandeln. Tschüß.}
 {282}{}{Kann ich etwas tun, um deine Meinung zu ändern?}
 {290}{}{Du machst keine Scherze, oder? Hmm, ich glaube, es würde nicht schaden, einen
  kleinen Umweg dort hin zu machen. Es liegt ja sowieso fast auf meinem Weg.}
 {291}{}{Kein Problem. Bis dann.}
-{292}{}{Jo. Tschüß.}
+{292}{}{Jo. Tschüss.}
 {300}{}{[Er scheint Deinen Vorschlag in Betracht zu ziehen.] Vielleicht.....worüber genau reden
  wir hier?}
 {301}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
@@ -64,7 +64,7 @@
 {310}{}{Jetzt sprichst du meine Sprache. Gut, das ist abgemacht. [Gierig greift er nach dem Geld
  und schüttelt dir danach die Hand.]}
 {311}{}{Ein Vergnügen mit dir Geschäfte zu machen. Tschüß}
-{312}{}{Tschüß.}
+{312}{}{Tschüss.}
 {320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
 {321}{}{Ich habe nicht so viel. Tschüß.}
 {322}{}{Ok, gut. Hier, $1000.}
@@ -72,15 +72,15 @@
 {330}{}{Jetzt sprichst du meine Sprache. Jetzt hast du deinen Handel. [Gierig greift er nach dem
  Geld und schüttelt dir danach die Hand.]}
 {331}{}{Ein Vergnügen mit dir Geschäfte zu machen. Tschüß}
-{332}{}{Tschüß.}
+{332}{}{Tschüss.}
 {340}{}{Drohst du mir? Niemand droht mir und lebt weiter! [zu seinen Karawanenwächtern]
  Tötet diesen verrückten Idioten.}
 {341}{}{Versucht's doch mal!}
-{350}{}{Schau, ich will keinen Ärger. Wenn du willst, daß ich umdrehe, um Handel mit
+{350}{}{Schau, ich will keinen Ärger. Wenn du willst, dass ich umdrehe, um Handel mit
  dem Dorf zu treiben, ok, kein großer Akt. Teufel nochmal, es liegt ja sowieso fast auf
  meinem Weg. Kein Problem.}
-{351}{}{Ich bin froh, daß wir uns verstehen. Ich werde dich beobachten. Tschüß.}
-{352}{}{Du betest besser, daß es keine Probleme gibt. Weil, sollte es doch welche geben, werde
+{351}{}{Ich bin froh, dass wir uns verstehen. Ich werde dich beobachten. Tschüß.}
+{352}{}{Du betest besser, dass es keine Probleme gibt. Weil, sollte es doch welche geben, werde
  ich sie auf meine Art lösen. Tschüß.}
 {353}{}{[Du starrst ihn konzentriert einen Moment lang an und gehst dann langsam weg.]}
 {360}{}{Uhh, guter Gott, ich fick lieber eine Brahmin. Jetzt verschwinde hier und verschwende
@@ -88,22 +88,22 @@
 {361}{}{Fick Dich, Arschloch! [Angriff]}
 {362}{}{Gut. Du hättest aber auch einfach nein sagen können. Man muß ja nicht gleich ausfällig werden.}
 {363}{}{Du weißt ja nicht, was dir entgeht.}
-{364}{}{[Du vergräbst dein häßliches Gesicht in deinen Händen und läufst weinend weg.]}
+{364}{}{[Du vergräbst dein hässliches Gesicht in deinen Händen und läufst weinend weg.]}
 {370}{}{Eh, tut mir leid, Mädchen. Ich bin nur gerade nicht in Stimmung. Hast Du sonst noch was
  anzubieten?}
 {371}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
  zahle ich dir $500.}
 {372}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
-{373}{}{Nee. Tschüß.}
+{373}{}{Nee. Tschüss.}
 {380}{}{[Er mustert Dich von oben bis unten und grinst dann.] Ich denke, wir sind im Geschäft.
  Wollen wir es bei der Hintertür erledigen?}
 {381}{}{Baby, ich mache es, wo immer du willst.}
 {382}{}{Das wirst Du rausfinden müssen, nicht wahr?}
-{383}{}{Uhh! Zum Teufel damit. Beeilung, laß uns fertig damit werden, bevor ich kotzen muß.}
+{383}{}{Uhh! Zum Teufel damit. Beeilung, lass uns fertig damit werden, bevor ich kotzen muß.}
 {390}{}{[The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
 {391}{}{[dir schaudert] Einmal war genug. Tschüß.}
 {392}{}{Jederzeit. Tschüß.}
-{393}{}{Tschüß.}
+{393}{}{Tschüss.}
 {400}{}{[Er mustert Miria von oben bis unten und grinst dann.] Ich glaube, wir sind im Geschäft.
  [Er schüttelt deine Hand, legt seinen Arm um Miria und zieht sich mit ihr zurück.]}
 {401}{}{[Du wippst mit dem Fuß, während du wartest.]}
@@ -112,13 +112,13 @@
 {404}{}{[Du bleibst still stehen, und wirfst peinliche Blicke auf die Karawanenwächter, während du
  den Lauten deiner Frau lauschst, die von dem Händler gevögelt wird.]}
 {410}{}{[Eine Stunde später siehst du Robert Baron und Miria, jetzt verschwitzt und zerzaust
- vom Vögeln, wieder auf dich zukommen. Du bemerkst, daß Miria etwas hinkt. Der
+ vom Vögeln, wieder auf dich zukommen. Du bemerkst, dass Miria etwas hinkt. Der
  Händler grinst Dich an, nachdem er seinen Gürtel festgezogen hat.] Heilige Scheiße,
  du weißt, wie du ein gutes Geschäft anleierst. Wenn du jemals einem Händler wieder
- etwas aufschwatzen willst, stell sicher, daß ich mit von der Partie bin. Jetzt muß ich aber
+ etwas aufschwatzen willst, stell sicher, dass ich mit von der Partie bin. Jetzt muß ich aber
  wirklich los. War ein Vergnügen Geschäfte mit dir zu machen.}
 {411}{}{Wie du meinst. Bis dann. }
 {412}{}{Jederzeit. Tschüß.}
-{413}{}{Tschüß.}
+{413}{}{Tschüss.}
 {500}{}{Du überzeugst Den Händler das Dorf auf seine Handelsroute aufzunehmen.}
-{510}{}{Du tötest den Händler, um sicherzustellen, daß das Dorf keinen Handel treiben kann.}
+{510}{}{Du tötest den Händler, um sicherzustellen, dass das Dorf keinen Handel treiben kann.}

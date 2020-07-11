@@ -27,7 +27,7 @@
 {217}{}{Oooooooh. Schaut mal der Roboter!}
 {218}{}{Schaut mal der Mutant! Schaut mal der Mutant!}
 {219}{}{Mutant! Mutant!}
-{220}{}{Ist das ein echter Mutant? Der ist echt häßlich.}
+{220}{}{Ist das ein echter Mutant? Der ist echt hässlich.}
 {221}{}{Oooooooh. Schaut mal der Mutant!}
 {222}{}{Der Mutant ist groß. Größer als Daddy.}
 {230}{}{Ghul! Schaut, es ist ein Ghul!}
@@ -46,8 +46,8 @@
 {297}{}{Folge deinen Träumen. Du kannst deine Ziele erreichen. Ich bin der lebende Beweis.}
 {298}{}{Sicher kannst du. Sag mal, ich war sehr mitgenommen, als ich das von deinem Bruder erfahren habe, Richie. Weißt du, was mit ihm passiert ist?}
 {299}{}{Ich bin durch drei Staaten gefahren und hatte die ganze Zeit, den Kopf dieses kleinen Mädchens wie einen Hut auf.}
-{300}{}{[Laß ihn weiter spielen.]}
-{301}{}{[Laß sie weiter spielen.]}
+{300}{}{[Lass ihn weiter spielen.]}
+{301}{}{[Lass sie weiter spielen.]}
 {310}{}{Oh-Oh! Du bist klug! Du bist ein HELD und du bist MUTIG und ich möchte so wie DU werden, wenn ich groß bin. Danke, dass du uns gerettet hast, }
 {311}{}{Dank Kindchen. Du machst }
 {315}{}{Ok, }
@@ -79,7 +79,7 @@
 {406}{}{Haha! ICH gewinnen.}
 {410}{}{Oh. (Überlegt einen Moment, dann starrt es dich an.) Wieso bist du kein Roboter?}
 {411}{}{Äh... weil... Roboter und Menschen unterschiedlich... äh, hergestellt werden.}
-{412}{}{Ich muß jetzt weg.}
+{412}{}{Ich muss jetzt weg.}
 {425}{}{Ah, ja? (Sieht dich skeptisch an.) Wie hergestellt?}
 {426}{}{Äh... gut... sag mal, haben dir deine Mutter und dein Vater das noch nicht erklärt?}
 {427}{}{Äh... gut! schau mal wie spät es schon ist! Ich muss gehen.}

@@ -55,7 +55,7 @@
 {270}{}{Hast du Hummeln im Hintern, dass er beim gehen so wackelt, Puppe?}
 {271}{}{Vielleicht tanzt sie heute Abend.}
 {272}{}{Hast du ihren neuesten Film gesehen? Heiß, Mann, BRANDHEISS.}
-{273}{}{Entschuldige mich. Ich muß schnell auf die Toilette und äh, kurz meine Haare kämmen.}
+{273}{}{Entschuldige mich. Ich muss schnell auf die Toilette und äh, kurz meine Haare kämmen.}
 {274}{}{Ich möchte ihr Slip sein.}
 {275}{}{Ich möchte ihre Unterwäsche sein.}
 {276}{}{Ich möchte an ihrem Höschen riechen.}
@@ -97,8 +97,8 @@
 {316}{}{Was für eine Brust! Äh, Brustpanzerung, mein ich.}
 {320}{}{Was ist neuerdings mit den Sklavenhändlern hier los?}
 {321}{}{Wieso, weshalb, warum. Wer nicht fragt bleibt dumm.}
-{322}{}{Ich muß raus aus dieser Stadt.}
-{323}{}{Sklavenhändler, paß besser auf in dieser Stadt...}
+{322}{}{Ich muss raus aus dieser Stadt.}
+{323}{}{Sklavenhändler, pass besser auf in dieser Stadt...}
 {324}{}{Ich hasse diese verdammte Stadt.}
 {325}{}{Ich bin schon zu lange in dieser Stadt.}
 {326}{}{Diese Stadt ist toll... bis auf die Sklavenhändler.}
@@ -124,7 +124,7 @@
 {346}{}{Wenn mir die Abstinenzler-Vereinigung noch einmal einen Vortrag hält...}
 {347}{}{Sah Tully wieder ohnmächtig in der Gosse liegen.}
 {348}{}{Verdammtes Gesindel in Dens Gosse.}
-{349}{}{Ich muß raus aus dieser Stadt.}
+{349}{}{Ich muss raus aus dieser Stadt.}
 {350}{}{Hab heute morgen wieder einen Süchtigen gesehen. Lauter Fliegen um seinen Mund. Und er LÄCHELTE.}
 {351}{}{Hab VERSUCHT aufzuhören, aber...}
 {352}{}{Sklavenhändler sollten in dieser Stadt besser aufpassen...}
@@ -172,7 +172,7 @@
 {413}{}{Sah Tully wieder ohnmächtig in der Gosse liegen.}
 {414}{}{Hinterfotzige Mistkerle.}
 {415}{}{Der ist nicht aus dieser Gegend.}
-{416}{}{Ich muß raus aus dieser Stadt.}
+{416}{}{Ich muss raus aus dieser Stadt.}
 {417}{}{Hab heute morgen wieder einen Süchtigen gesehen. Lauter Fliegen um seinen Mund. Und er LÄCHELTE.}
 {418}{}{Hab VERSUCHT aufzuhören, aber...}
 {419}{}{Weshalb versuchst du auf die Art, jemanden auszubooten?}
@@ -216,7 +216,7 @@
 {474}{}{Sah Tully wieder ohnmächtig in der Gosse liegen.}
 {475}{}{Hinterfotzige Mistkerle.}
 {476}{}{Der ist nicht aus dieser Gegend.}
-{477}{}{Ich muß raus aus dieser Stadt.}
+{477}{}{Ich muss raus aus dieser Stadt.}
 {478}{}{Hab heute morgen wieder einen Süchtigen gesehen. Lauter Fliegen um seinen Mund. Und er LÄCHELTE.}
 {479}{}{Hab VERSUCHT aufzuhören, aber...}
 {480}{}{Weshalb versuchst du auf die Art, jemanden auszubooten?}
@@ -267,7 +267,7 @@
 {547}{}{Ich hab deinen Höhepunkt genau hier.}
 {548}{}{Diese Beine gehen bis da hinauf?}
 {549}{}{Gehst du heute abend tanzen?}
-{550}{}{Entschuldige mich. Ich muß schnell auf die Toilette und äh, kurz meine Haare kämmen.}
+{550}{}{Entschuldige mich. Ich muss schnell auf die Toilette und äh, kurz meine Haare kämmen.}
 {551}{}{Ich möchte deine Unterwäsche sein.}
 {552}{}{Ich möchte an deinem Höschen riechen.}
 {553}{}{Du bist so ein sexy Biest.}
@@ -283,13 +283,13 @@
 {581}{}{Stimmt irgendwas nicht, Mister?}
 {582}{}{Entschuldigung, war ich im Weg? Ich werde die Stadt verlassen.}
 {583}{}{Verzeihung, nehme ich dir die Luft? Ich halt den Atem an.}
-{584}{}{Grüß deinen Boß von mir.}
+{584}{}{Grüß deinen Boss von mir.}
 {585}{}{Sieh mal, bitte...ich will keinen Ärger.}
 {586}{}{Hallo, Fräulen. Wie geht's.}
 {587}{}{Stimmt irgendwas nicht, Fräulein?}
 {600}{}{Was ist neuerdings mit den Sklavenhändlern hier los?}
 {601}{}{Ich hab dich hier noch nie gesehen...}
-{602}{}{Wenn du Sklaven verkaufen willst, mußte dich an die Mordinos halten.}
+{602}{}{Wenn du Sklaven verkaufen willst, musste dich an die Mordinos halten.}
 {603}{}{Diese Stadt ist toll... bis auf die Sklavenhändler.}
 {604}{}{Wie ich höre, testen sie das Zeug an Sklaven nördlich von New Reno.}
 {605}{}{Was willst du?}
@@ -321,7 +321,7 @@
 {631}{}{Bishops Tochter ist übergeschnappt.}
 {632}{}{Wenn mir die Abstinenzler-Vereinigung noch einmal einen Vortrag hält...}
 {633}{}{Sah Tully wieder ohnmächtig in der Gosse liegen.}
-{634}{}{Ich muß raus aus dieser Stadt.}
+{634}{}{Ich muss raus aus dieser Stadt.}
 {635}{}{Hab heute morgen wieder einen Süchtigen gesehen. Lauter Fliegen um seinen Mund. Und er LÄCHELTE.}
 {636}{}{Hab VERSUCHT aufzuhören, aber...}
 {637}{}{Hör auf, mich zu nerven.}
@@ -361,7 +361,7 @@
 {682}{}{Bishops Tochter ist übergeschnappt.}
 {683}{}{Wenn mir die Abstinenzler-Vereinigung noch einmal einen Vortrag hält...}
 {684}{}{Sah Tully wieder ohnmächtig in der Gosse liegen.}
-{685}{}{Ich muß raus aus dieser Stadt.}
+{685}{}{Ich muss raus aus dieser Stadt.}
 {686}{}{Hab heute morgen wieder einen Süchtigen gesehen. Lauter Fliegen um seinen Mund. Und er LÄCHELTE.}
 {687}{}{Hab VERSUCHT aufzuhören, aber...}
 {688}{}{Hör auf, mich zu nerven.}
@@ -375,7 +375,7 @@
 {696}{}{Wie viel für das Weib das du bei dir hast?}
 {697}{}{Hör zu, ich hab jetzt gerade keine Zeit, mit dir zu reden.}
 {700}{}{Heute nacht gibt's Action!}
-{701}{}{Ich muß raus aus dieser Stadt.}
+{701}{}{Ich muss raus aus dieser Stadt.}
 {702}{}{Hör zu, ich hab jetzt gerade keine Zeit, mit dir zu reden.}
 {703}{}{Wie ich höre, testen sie das Zeug an Sklaven nördlich von New Reno.}
 {704}{}{Golgotha liegt südlich von Reno, in der Wüste.}
@@ -405,7 +405,7 @@
 {728}{}{Bishops Tochter ist übergeschnappt.}
 {729}{}{Wenn mir die Abstinenzler-Vereinigung noch einmal einen Vortrag hält...}
 {730}{}{Sah Tully wieder ohnmächtig in der Gosse liegen.}
-{731}{}{Ich muß raus aus dieser Stadt.}
+{731}{}{Ich muss raus aus dieser Stadt.}
 {732}{}{Hab heute morgen wieder einen Süchtigen gesehen. Lauter Fliegen um seinen Mund. Und er LÄCHELTE.}
 {733}{}{Hab VERSUCHT aufzuhören, aber...}
 {734}{}{Hör auf, mich zu nerven.}

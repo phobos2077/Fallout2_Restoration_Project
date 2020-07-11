@@ -10,7 +10,7 @@
 {206}{}{Jetzt reicht's.}
 {207}{}{Nehmt doch, was ihr wollt.}
 {208}{}{Bitte verschont mich.}
-{209}{}{Ich hab die Landwirtschaft eh immer gehaﬂt.}
+{209}{}{Ich hab die Landwirtschaft eh immer gehasst.}
 {210}{}{Bitte brennt das Haus nicht nieder.}
 {220}{}{Nerv mich nicht.}
 {230}{}{Danke, das du uns geholfen hast.}

@@ -75,8 +75,8 @@
  Vault City an den Hauptlistenserver gesendet.}
 {164}{}{Sie können das Terminal jetzt ausschalten.}
 {165}{}{Danke.}
-{166}{}{Du siehst einen Metallkasten, aus dem ein Frauenstimme spricht. Die Frau muß sich im
- Inneren des Kastens befinden! Da drin muß es doch fürchterlich eng sein.}
+{166}{}{Du siehst einen Metallkasten, aus dem ein Frauenstimme spricht. Die Frau muss sich im
+ Inneren des Kastens befinden! Da drin muss es doch fürchterlich eng sein.}
 {167}{}{Du hast dich beim Zentralcomputer von Vault City angemeldet. Die Benutzeroberfläche
  sieht recht einfach aus, alles ist in einzelne Archive unterteilt.}
 {168}{}{Hullo? Hullo?}
@@ -136,7 +136,7 @@
 {207}{}{Du zeigst dem kleinen Scheißkerl auch einen Finger...}
 {208}{}{Versuche herauszufinden, was das Problem ist.}
 {209}{}{Brich das Verfahren ab und melde dich bei dem Terminal ab.}
-{210}{}{Eine kleine Anzeige unter dem PIPBoy gibt an, daß die letzte Wartung vor 50.352 Jahren
+{210}{}{Eine kleine Anzeige unter dem PIPBoy gibt an, dass die letzte Wartung vor 50.352 Jahren
  war. Die Archive sind beschädigt und müssen "neu formatiert" werden. Möchtest du fortfahren?}
 {211}{}{Äh... sicher.}
 {212}{}{Waa... nein! Auf gar keinen Fall! }
@@ -186,7 +186,7 @@
 {246}{}{Melde dich beim Terminal ab.}
 {247}{}{Ein kleines Fenster mit einem lächelnden PIPBoy daneben öffnet sich auf dem Bildschirm
  des Computerterminals. Der PIPBoy sieht dir direkt in die Augen und gibt dir mit erhobenem
- Daumen zu verstehen, daß alles in Ordnung ist. Ein rotes Licht leuchtet neben dem
+ Daumen zu verstehen, dass alles in Ordnung ist. Ein rotes Licht leuchtet neben dem
  Computerschacht auf.}
 {248}{}{Antworte mit der selben Geste.}
 {249}{}{Zeig dem PIPBoy den Mittelfinger.}
@@ -198,7 +198,7 @@
 {253}{}{Der PIPBoy auf dem Bildschirm winkt zum Abschied und der Bildschirm wird schwarz. Das
  Computerterminal wird heruntergefahren.}
 {254}{}{[Du gehst.]}
-{255}{}{Ja, mach besser, daß du wegkommst, du kleiner Mistkerl.}
+{255}{}{Ja, mach besser, dass du wegkommst, du kleiner Mistkerl.}
 {256}{}{Das Computerterminal wurde heruntergefahren. Du hast keine Ahnung, wie du das System
  wieder einschaltest.}
 {257}{}{[Geh]}

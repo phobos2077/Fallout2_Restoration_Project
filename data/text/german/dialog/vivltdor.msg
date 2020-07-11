@@ -13,5 +13,5 @@
 {111}{}{BUMM Tür nich wehtun.}
 {112}{}{Die Tür ist nicht verschlossen, sie klemmt.}
 {113}{}{Tür nich zu, nur klemmie.}
-{114}{}{Die Tür läßt sich nicht schließen. Sie ist blockiert.}
+{114}{}{Die Tür lässt sich nicht schließen. Sie ist blockiert.}
 {115}{}{Tür nich bewegen.}

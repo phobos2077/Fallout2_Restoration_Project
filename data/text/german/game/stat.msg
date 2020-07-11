@@ -45,7 +45,7 @@
 {206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich auf irgendeine Art auf die Figur aus. Ereignisse und Situationen ändern sich in Abhängigkeit davon, wie viel oder wenig Glück eine Figur hat.}
 {207}{}{Die Verletzungen, die deine Figur verkraften kann, bevor sie stirbt. Wenn du null oder weniger Trefferpunkte erreichst, bist du tot.}
 {208}{}{Die Anzahl der Aktionen, die eine Figur durchführen kann, wenn sie am Zug ist.}
-{209}{}{Beeinflußt die Wahrscheinlichkeit, daß diese Figur getroffen wird.}
+{209}{}{Beeinflußt die Wahrscheinlichkeit, dass diese Figur getroffen wird.}
 {210}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
 {211}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
 {212}{}{Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in Pfund.}
@@ -67,7 +67,7 @@
 {228}{}{Verletzungsresistenz - Elektrisch}
 {229}{}{Verletzungsresistenz - EMP}
 {230}{}{Verletzungsresistenz - Explosion}
-{231}{}{Die Strahlung, der du ausgesetzt bist, wird um diesen Prozentsatz verringert. Die Strahlungsresistenz läßt sich durch die Art der getragenen Rüstung und Antistrahlenmittel beeinflussen.}
+{231}{}{Die Strahlung, der du ausgesetzt bist, wird um diesen Prozentsatz verringert. Die Strahlungsresistenz lässt sich durch die Art der getragenen Rüstung und Antistrahlenmittel beeinflussen.}
 {232}{}{Jede Vergiftung wird um diesen Prozentsatz verringert.}
 {233}{}{Alter}
 {234}{}{Geschlecht}
@@ -89,7 +89,7 @@
 {402}{}{Erfahrung}
 {403}{}{Ansehen}
 {404}{}{Karma}
-{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt läßt sich eine Fähigkeit um 1 % oder eine Spezialkenntnis um 2 % erhöhen.}
+{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lässt sich eine Fähigkeit um 1 % oder eine Spezialkenntnis um 2 % erhöhen.}
 {501}{}{Die allgemeine Kompetenz einer Spielerfigur. Ein Maß für deine Erfahrung und Fähigkeiten.}
 {502}{}{Eine Belohnung für die Durchführung bestimmter Aufgaben oder das Besiegen des Feindes im Kampf. Um höhere Level zu erreichen, sind mehr Erfahrungspunkte erforderlich.}
 {503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflußt die Reaktionen von inaktiven Figuren.}

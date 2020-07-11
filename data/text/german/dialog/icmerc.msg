@@ -28,5 +28,5 @@
 {264}{}{...und da sagt *sie* 'das ist mein Bauchnabel, Trottel!' Ha! Dieser Spruch haut mich *immer* um.}
 {265}{}{Tut das gut, zu gehen.}
 {266}{}{Der Hauptmann geht mir echt auf den Keks...}
-{267}{}{Ich hab das Gefühl, ich steh schon ewig hier und warte nur darauf, daß jemand auftaucht.}
+{267}{}{Ich hab das Gefühl, ich steh schon ewig hier und warte nur darauf, dass jemand auftaucht.}
 {268}{}{Wenn ich bloß 'ne andere Karte hätte, zu der ich gehen könnte.}

@@ -26,7 +26,7 @@
 {313}{}{Ich sagte dem Abt, dass ich helfen werde, aber wenn du ein Arschloch sein willst, dann kannst du gerne auf eigene Faust dahinterkommen.}
 {320}{}{[Er schielt für einen Moment zu dir, dann stößt er langsam seinen Atem seufzend aus.] Entschuldige Freund, dieses Ding ist ein echtes Miststück, und ich hab mich etwas zu sehr hineingesteigert. Ich wollte dich nicht anschnauzen.}
 {321}{}{Gut, wo liegt denn das Problem?}
-{322}{}{Wie du meinst, tschüß.}
+{322}{}{Wie du meinst, tschüss.}
 {330}{}{Komm Morgen Früh wieder, um mit mir zu reden.}
 {400}{}{Ah, da bist du wieder, hattest du Erfolg?}
 {401}{}{Nein, noch nicht. Ich komme wieder, wenn ich es geschafft habe.}
@@ -54,6 +54,6 @@
 {901}{}{Die Wasserpumpe wurde repariert.}
 {910}{}{[Wischt sich den Schweiß von seiner Stirn ab.] Ja, brauchst du irgendwas?}
 {911}{}{Der Abt sagt, du könntest Hilfe gebrauchen. Wo liegt das Problem?}
-{912}{}{Vergiss es. Tschüß.}
+{912}{}{Vergiss es. Tschüss.}
 {913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
  going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}

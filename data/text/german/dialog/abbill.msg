@@ -4,7 +4,7 @@
 {201}{}{Willkommen zurück. Brauchst du noch etwas anderes?}
 {202}{}{Lass uns handeln.}
 {203}{}{Ich habe gehört, dass du der Mann bist, mit dem ich über die Karawanen reden muss.}
-{204}{}{Schon gut. Tschüß.}
+{204}{}{Schon gut. Tschüss.}
 {210}{}{Sag mal, mir ist aufgefallen, dass hier in Abbey viele alte Geräte und Gegenstände gesammelt werden. Ich nehme nicht an, dass dir im Lauf der Zeit hier irgendetwas... Besonderes, untergekommen ist?}
 {211}{}{Ah, du hast es bemerkt, nicht? Ja, die Menschen von Abbey sind ziemliche begeistert von allem aus der Vorkriegszeit, besonders wenn es Bezug zu Technik hat. Sie haben so eine Art von versponnener Religion darum herum geformt. Ich verstehe es selbst nicht ganz,
  aber sie sind nette Leute, und sie bezahlen gutes Geld für jedes Vorkriegszeug, das ich in die Hände bekomme. Aber wie auch immer, also etwas Besonderes... hmm, [Er blickt kurz zu Marcus rüber.] Könnte sein, dass ich da etwas habe das deinen Freund interessieren könnte.}
@@ -17,22 +17,22 @@
  sie wären durch den tiefen Süden gereist, wo sie widerliche Mutanten [dreht sich
  zu Marcus um] nichts für ungut, Großer, angegriffen hätten. Jedenfalls haben sie ziemlich damit angegeben,
  wie sie alle Mutanten aus dem Weg geräumt haben, behaupteten, es wären fast ein Dutzend von ihnen gewesen.
- Ich hab' drauf geschissen. Es stellte sich aber heraus, daß sie Beweise dafür hatten.}
+ Ich hab' drauf geschissen. Es stellte sich aber heraus, dass sie Beweise dafür hatten.}
 {217}{}{Ja? Was war das?}
 {218}{}{Sie haben eine riesige Mutantenrüstung mitgebracht. So weit ich weiß, haben sie
  die natürlich von einem der längst verstorbenen Mutanten, über den sie im Ödland
  gestolpert sind, gestohlen. Aber wer weiß das schon? Jedenfalls waren sie nicht
- begierig darauf das schwere Ding weiter mit sich herumzuschleppen, so daß sie es mir
- spottbillig angeboten haben. Erst wußte ich nicht, was ich damit anfangen soll,
+ begierig darauf das schwere Ding weiter mit sich herumzuschleppen, so dass sie es mir
+ spottbillig angeboten haben. Erst wusste ich nicht, was ich damit anfangen soll,
  aber Geschäft ist Geschäft.}
-{219}{}{Hmm, Ich bin sicher, daß Marcus davon profitieren könnte. Wieviel willst Du dafür haben?}
-{220}{}{Das ist interessant. Nun, Marcus ist stark genug. Ich glaube nicht, daß wir das Ding
- brauchen. Laß mich Dich was anderes fragen.}
+{219}{}{Hmm, Ich bin sicher, dass Marcus davon profitieren könnte. Wieviel willst Du dafür haben?}
+{220}{}{Das ist interessant. Nun, Marcus ist stark genug. Ich glaube nicht, dass wir das Ding
+ brauchen. Lass mich Dich was anderes fragen.}
 {221}{}{Nun, diese Teufelsrüstung könnte ganz leicht eingeschmolzen werden, um daraus 3 oder 4
  Rüstungssets zu machen. Sagen wir $3000. }
 {222}{}{Ich habe genug davon.}
-{223}{}{Ich denke, wir lassen es. Laß mich Dich was anderes fragen.}
-{224}{}{Na gut. Das Ding braucht 2 von unserer Sorte, um es zu tragen, also laß mich Dir helfen
+{223}{}{Ich denke, wir lassen es. Lass mich Dich was anderes fragen.}
+{224}{}{Na gut. Das Ding braucht 2 von unserer Sorte, um es zu tragen, also lass mich Dir helfen
  es für Deinen Freund hier anzupassen.}
 {225}{}{[Fertig]}
 {226}{}{Hey, es paßt genau!}

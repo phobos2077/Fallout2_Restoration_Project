@@ -4,7 +4,7 @@
 {200}{}{Hallo!}
 {201}{}{Hi, what's your name?}
 {202}{}{What can you tell me about the Abbey?}
-{203}{}{Tschüß.}
+{203}{}{Tschüss.}
 {300}{}{Wenn du mehr über unseren Orden wissen möchtest, sprich mit unserem Abt. Seine Räume befinden sich im zweiten Stock.}
 {301}{}{Verstehe. Ein paar weitere Fragen...}
 {400}{}{Natürlich. Was möchtest du wissen?}

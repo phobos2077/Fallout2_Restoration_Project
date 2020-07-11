@@ -9,11 +9,11 @@
 {108}{}{Willst du nun gehen oder nicht?}
 {109}{}{Will gehn.}
 {110}{}{Nein. Bleib.}
-{111}{}{Ja, ich muß jetzt gehen.}
-{112}{}{Nein, ich treib mich noch ein bißchen rum hier.}
+{111}{}{Ja, ich muss jetzt gehen.}
+{112}{}{Nein, ich treib mich noch ein bisschen rum hier.}
 {113}{}{Das ist Westins Ranch. Hier wohnt Stadtrat Westin.}
-{114}{}{Muß sehn.}
-{115}{}{Gut. Tschüß.}
+{114}{}{Muss sehn.}
+{115}{}{Gut. Tschüss.}
 {116}{}{Ich möchte bitte den Stadtrat sprechen.}
 {117}{}{Verstehe. Dann geh ich also.}
 {118}{}{Was wünschst du von Mr. Westin?}

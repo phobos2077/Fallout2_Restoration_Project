@@ -23,7 +23,7 @@
 {118}{}{Ich verspreche, nichts zu beschädigen.}
 {119}{}{In Ordnung. Über den Terminal da drüben kommst Du in das System hinein. Aber sei bitte
  vorsichtig. Wenn Du die Maschine beschädigst, werden wir beide erschossen. Ach ja, das
- Gast-Paßwort lautet "Snookie".}
+ Gast-Passwort lautet "Snookie".}
 {120}{}{Tut mir leid, aber das kommt nicht in Frage. Ich darf nicht einmal den Angestellten,
  die in diesem Raum arbeiten, erlauben, die Ausstattung zu benutzen.}
 {121}{}{Snookie? Was heißt Snookie?}

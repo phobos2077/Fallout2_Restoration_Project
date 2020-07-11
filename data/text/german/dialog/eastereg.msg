@@ -3,7 +3,7 @@
 {110}{}{Du siehst einen harten, rücksichtslosen Kopfgeldjäger. Sieht nicht aus, wie wenn er viel redet. Er half bei den neuen Scripts und Ideen. Und Menschen zu töten.}
 {200}{}{Du siehst Hivan Zolo.}
 {201}{}{Ein ungepflegter, aber gutaussehender Schurke.}
-{210}{}{Kind, ich bin in dieser Galaxis von einem Ende zum anderen geflogen, und ich habe viele seltsame Dinge gesehen, aber ich habe *überhaupt* nichts gesehen, das mich glauben läßt, dass es eine allmächtige Macht gibt, die alles kontrolliert.
+{210}{}{Kind, ich bin in dieser Galaxis von einem Ende zum anderen geflogen, und ich habe viele seltsame Dinge gesehen, aber ich habe *überhaupt* nichts gesehen, das mich glauben lässt, dass es eine allmächtige Macht gibt, die alles kontrolliert.
  Weil kein mystisches Energiefeld *mein* Schicksal steuert. Es sind alles einfache Kunststücke und Unsinn. Verlogene Religionen und alte Waffen sind kein Ersatz für einen guten Blaster an deiner Seite.
  Ich erkenne es, wenn ein Typ geschickt mit der Waffe ist, also nimm das. Vertraue mir: es wird dir helfen, wenn Sie einen Preis auf deinen Kopf ausgesetzt haben. (Er gibt dir einen Blaster.)}
 {211}{}{Mein richtiger Name ist Ivan Zaharath.}

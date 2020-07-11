@@ -28,7 +28,7 @@
 {290}{}{Guten Tag. Ich bin gerade ein wenig beschäftigt damit, einen neuen Plan für die Führungen der nächsten Saison zu Entwerfen. Wenn Sie später wiederkommen würden?}
 {291}{}{Ich würde gerne, aber ich hab es wirklich eilig. Weißt du, ich brauche wirklich das Kennwort für diese Türen. Würdest du es mir bitte geben?}
 {300}{}{Nochmals vielen Dank für Ihre Unterstützung, und bitte gehen Sie mit dem Kennwort, das ich Ihnen gegeben habe, verantwortungsvoll um. Denken Sie daran, dass das unser kleines Geheimnis ist. Ich danke Ihnen für den Besuch in der EPA, ich hoffe, Sie hatten eine angenehme Zeit.}
-{301}{}{Danke. Tschüß.}
+{301}{}{Danke. Tschüss.}
 {302}{}{Besuchen Sie uns mal wieder.}
 {303}{}{Vergessen Sie nicht, den EPA Souvenir-Stand zu besuchen.}
 {310}{}{Denken Sie, dass Sie die Beleuchtung in Ordnung bringen könnten? Es ist schwierig für mich, Führungen durch solch einen schwach beleuchteten Komplex zu absolvieren. Wenn Sie für mich wieder mehr Licht in diese Räume bringen, gebe ich Ihnen das Kennwort. Bitte denken Sie daran, Ihre Hände nach dem Besuch unseres Streichelzoos gründlich zu waschen.}

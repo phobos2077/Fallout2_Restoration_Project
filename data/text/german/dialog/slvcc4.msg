@@ -11,7 +11,7 @@
 {328}{}{Habt Ihr keine Ehre im Leib?}
 {329}{}{Was wird mit uns passieren?}
 {330}{}{Was haben wir falsch gemacht?}
-{331}{}{Laﬂ uns in Ruhe, Sklavenh‰ndler!}
+{331}{}{Lass uns in Ruhe, Sklavenh‰ndler!}
 {332}{}{Tu mir nicht weh!}
 {333}{}{Lass mich in Ruhe!}
 {350}{}{Wer du?}

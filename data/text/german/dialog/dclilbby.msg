@@ -5,7 +5,7 @@
 {104}{}{Hallo mein Herr! Mein Name ist Bobby und ich lebe hier zusammen mit meinen Vater.}
 {105}{}{Hallo Fräulein! Mein Name ist Bobby und ich lebe hier zusammen mit meinen Vater.}
 {106}{}{Verstehe. Nun da-}
-{107}{}{Bist du hier weil mein Vater dir Geld schuldet? Ich weiß nicht, ob er gerade hier ist. Aber wenn ich wüßte wo er ist, würde ich es dir sagen, da du ihn möglicherweise so verprügeln wirst, dass er nie wieder nach Hause kommen würde.}
+{107}{}{Bist du hier weil mein Vater dir Geld schuldet? Ich weiß nicht, ob er gerade hier ist. Aber wenn ich wüsste wo er ist, würde ich es dir sagen, da du ihn möglicherweise so verprügeln wirst, dass er nie wieder nach Hause kommen würde.}
 {108}{}{Das klingt ja schrecklich, Bobby. Dein Vater hat nicht das Recht, dich auf diese Weise behandeln - kein Elternteil hat dieses Recht.}
 {109}{}{Hah! Ich würde meinen Jungen auch schlagen, wenn er ungehorsam ist. Dein Vater klingt nach einem guten Mann.}
 {110}{}{[Seine Augen leuchten auf.] Du bist nicht wie die Anderen die hier vorbeikommen. Ich mag dich. [Er macht einen tiefen Seufzer.] Ich wünschte, mein Vater
@@ -39,6 +39,6 @@
 {200}{}{Ich mag dich nicht. Hau ab!}
 {210}{}{Es klingt als hättest du deinen Vater nicht sehr gern. Stört es dich, wenn ich frage warum?}
 {211}{}{Du kleiner Fratz, was gibt dir das Recht, so über deinen Vater zu reden?}
-{220}{}{Weil mein Vater nicht sehr lieb ist. Er läßt mich die ganze Zeit allein, und wenn er zu Hause *ist*, dann säuft er oder er sagt er fliegt mit Jet, was eine Lüge ist da ich ihn noch nie herumfliegen sah. Manchmal bringt er eine Freundin mit nach Hause - er hat eine Menge Freundinnen - und er schickt mich für eine Weile raus, selbst mitten in der Nacht wenn es kalt ist oder regnet.}
+{220}{}{Weil mein Vater nicht sehr lieb ist. Er lässt mich die ganze Zeit allein, und wenn er zu Hause *ist*, dann säuft er oder er sagt er fliegt mit Jet, was eine Lüge ist da ich ihn noch nie herumfliegen sah. Manchmal bringt er eine Freundin mit nach Hause - er hat eine Menge Freundinnen - und er schickt mich für eine Weile raus, selbst mitten in der Nacht wenn es kalt ist oder regnet.}
 {221}{}{Das ist j-}
 {230}{}{Oh! Und manchmal sagt er, ich soll heimlich Sachen von den Leuten nehmen. Er behauptet das ist ein Spiel und er gibt die Sachen später zurück, aber ich glaube ihm nicht. Aber wenn ich es nicht mache wird er wirklich wütend und seine Augen bekommen einen echt gruseligen Blick, und dann schlägt er mich. Siehst du? [Er streift seine Hemdsärmel hoch und zeigt einen schlimmen Bluterguss am Arm.]}

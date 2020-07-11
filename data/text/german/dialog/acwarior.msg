@@ -22,7 +22,7 @@
 {169}{}{Kannst du mir sagen, wo ich Heilkräuter finde?}
 {170}{}{Was kannst du mir über die Händler erzählen, die mit uns Geschäfte machen?}
 {171}{}{Macht nichts.}
-{172}{}{Ach, Dummkopf. Man sagt, du seist das Auserwählte Wesen. Ich muß sagen, der Geist des Gründers ist unergründlich.}
+{172}{}{Ach, Dummkopf. Man sagt, du seist das Auserwählte Wesen. Ich muss sagen, der Geist des Gründers ist unergründlich.}
 {173}{}{Uhn Ga.}
 {174}{}{ Gute Reise, dummes Wesen - um unser Willen.}
 {175}{}{????}
