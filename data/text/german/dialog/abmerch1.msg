@@ -22,7 +22,7 @@
 {309}{}{Klar, es hält dich keiner auf.}
 {310}{}{Oh, tut mir leid. Bis dann.}
 {311}{}{Ich schau mal was ich machen kann...}
-{312}{}{Ich dachte, ich könnte helfen, aber wenn du ein Arschloch sein willst, dann mußt du wohl auf eigene Faust daraufkommen.}
+{312}{}{Ich dachte, ich könnte helfen, aber wenn du ein Arschloch sein willst, dann musst du wohl auf eigene Faust daraufkommen.}
 {313}{}{Ich sagte dem Abt, dass ich helfen werde, aber wenn du ein Arschloch sein willst, dann kannst du gerne auf eigene Faust dahinterkommen.}
 {320}{}{[Er schielt für einen Moment zu dir, dann stößt er langsam seinen Atem seufzend aus.] Entschuldige Freund, dieses Ding ist ein echtes Miststück, und ich hab mich etwas zu sehr hineingesteigert. Ich wollte dich nicht anschnauzen.}
 {321}{}{Gut, wo liegt denn das Problem?}
@@ -38,7 +38,7 @@
 {501}{}{Dann geh ich mal los, bis dann.}
 {502}{}{Warte mal 'ne Sekunde. Ich bin froh, dass dich dir helfen konnte den Fehler herauszufinden, aber wer hat gesagt,
  dass ich quer durch das Ödland ziehe um dir einen teuren Motor zu kaufen? Wenn du meine Hilfe willst, wird es dich was kosten.}
-{503}{}{Wie wäre es, wenn *du* es Harry selbst erzählst? Ich werd jedenfalls nicht dein Laufbursche sein, Tschüß.}
+{503}{}{Wie wäre es, wenn *du* es Harry selbst erzählst? Ich werd jedenfalls nicht dein Laufbursche sein, Tschüss.}
 {510}{}{Ok, ich würd auch nicht umsonst arbeiten. Das Teil wird etwa $500 kosten und ich denke $100 mehr
  als kleine Aufwandsentschädigung sind angemessen. Hier sind $600.}
 {511}{}{Das ist schon besser. Ich werd mit dem Teil zurückkehren.}

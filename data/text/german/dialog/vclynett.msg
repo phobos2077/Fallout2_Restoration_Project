@@ -464,7 +464,7 @@
 {563}{}{Stimmt. Soll ich... mich um ihn kümmern?}
 {564}{}{Dann solltest du ihm die Bürgerschaft aberkennen.}
 {565}{}{Verstehe. Dann halt ich mich lieber von ihm fern. Schönen Tag noch.}
-{566}{lyn088}{Dauernd versucht er, die Bürger davon zu überzeugen, eine... "Demokratie" aus Vault City zu machen, in der jeder Einfluß auf die Gesetze und Entscheidungen hat. *Ich* nenne das Pöbelherrschaft.}
+{566}{lyn088}{Dauernd versucht er, die Bürger davon zu überzeugen, eine... "Demokratie" aus Vault City zu machen, in der jeder Einfluss auf die Gesetze und Entscheidungen hat. *Ich* nenne das Pöbelherrschaft.}
 {567}{}{"Demokratie?"}
 {568}{}{Wie versucht er die Bürger denn zu überzeugen?}
 {569}{}{Klingt nach einem Problem. Soll ich mich darum kümmern?}
@@ -555,7 +555,7 @@
 {654}{}{Darf ich dir noch eine Frage stellen?}
 {655}{}{Ich muss jetzt gehen. Wiedersehen.}
 {656}{}{Ich muss jetzt weg. Schönen Tag noch, Erstbürgerin.}
-{657}{lyn106}{Ihr Basislager zu finden, ist gar nicht so einfach. Außerdem verfügen sie über gute Schußwaffen. Trotzdem haben wir alle Angriffe abgewehrt... mit minimalen Verlusten.}
+{657}{lyn106}{Ihr Basislager zu finden, ist gar nicht so einfach. Außerdem verfügen sie über gute Schusswaffen. Trotzdem haben wir alle Angriffe abgewehrt... mit minimalen Verlusten.}
 {658}{}{Darf ich dir noch eine Frage stellen?}
 {659}{}{Ich muss jetzt gehen. Wiedersehen.}
 {660}{}{Vielen Dank für deine Zeit. Schönen Tag noch, Erstbürgerin.}

@@ -1405,7 +1405,7 @@
 {12026}{}{Zeit, diesen Mistkerl zu erledigen...}
 {12027}{}{Sichern und laden!}
 {12028}{}{Rock and Roll!}
-{12029}{}{Sieh mal, wer da gerade zum Abschuß freigegeben wurde...}
+{12029}{}{Sieh mal, wer da gerade zum Abschuss freigegeben wurde...}
 {12030}{}{Hoffe, du hast ein paar Stimpaks eingepackt, Sippenpenner...}
 {12031}{}{Kontakt!}
 {12032}{}{Jemand ist in das Gebiet eingedrungen!}
@@ -1541,7 +1541,7 @@
 {12413}{}{Der Treffer hat mir den Arm ausgerenkt!}
 {12414}{}{Auuu! Verdammt!}
 {12415}{}{Mein ganzer Arm ist voll Blut...!}
-{12416}{}{Meine Schußhand!}
+{12416}{}{Meine Schusshand!}
 {12417}{}{*Nfff*...hat meinen Arm beinah fein säuberlich abgetrennt...!}
 {12418}{}{*Urkkk*...kann dich immer noch....treffen...mit der anderen Hand...}
 {12419}{}{Brauch ein paar Stims für meinen Arm. Nachdem ich dich umgebracht hab.}
@@ -1551,7 +1551,7 @@
 {12423}{}{Der Treffer hat mir den Arm ausgerenkt!}
 {12424}{}{Auuu! Verdammt!}
 {12425}{}{Mein ganzer Arm ist voll Blut...!}
-{12426}{}{Meine Schußhand!}
+{12426}{}{Meine Schusshand!}
 {12427}{}{*Nfff*...hat meinen Arm beinah fein säuberlich abgetrennt...!}
 {12428}{}{Brauch ein paar Stims für meinen Arm. Nachdem ich dich umgebracht hab.}
 {12429}{}{*Urkkk*...kann dich immer noch....treffen...mit der anderen Hand...}
@@ -1958,7 +1958,7 @@
 {32545}{}{Beug dich mal kurz vornüber..}
 {32546}{}{Hab hier was Schönes für dich.}
 {32547}{}{Schenk dir ein Stück von mir.}
-{32548}{}{Ein Schuß...ein Tor!}
+{32548}{}{Ein Schuss...ein Tor!}
 {32549}{}{Willst du ein bisschen Liebe?}
 {32560}{}{Jawoll!}
 {32561}{}{JaWOLL!}
@@ -2158,7 +2158,7 @@
 {36032}{}{Grrr!}
 {36033}{}{Das wirst du noch bereuen!}
 {36034}{}{Hör lieber auf, solang du führst!}
-{36035}{}{Guter Schuß. Jetzt bin ich dran.}
+{36035}{}{Guter Schuss. Jetzt bin ich dran.}
 {36060}{}{Au, mein Bein.}
 {36061}{}{Das wirst du mir bezahlen!}
 {36062}{}{Ahhhh! MEIN BEIN!}
@@ -2196,7 +2196,7 @@
 {36148}{}{Schrei für mich.}
 {36160}{}{Du kannst mir nicht weh tun!}
 {36161}{}{Die Geister beschützen mich.}
-{36162}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36162}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36163}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36164}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36165}{}{Zu langsam!}
@@ -2222,7 +2222,7 @@
 {36249}{}{Schrei für mich.}
 {36260}{}{Du kannst mir nicht weh tun!}
 {36261}{}{Die Geister beschützen mich.}
-{36262}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36262}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36263}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36264}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36265}{}{Zu langsam!}
@@ -2247,7 +2247,7 @@
 {36348}{}{Schrei für mich.}
 {36360}{}{Du kannst mir nicht weh tun!}
 {36361}{}{Die Geister beschützen mich.}
-{36362}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36362}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36363}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36364}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36365}{}{Zu langsam!}
@@ -2273,7 +2273,7 @@
 {36449}{}{Schrei für mich.}
 {36460}{}{Du kannst mir nicht weh tun!}
 {36461}{}{Die Geister beschützen mich.}
-{36462}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36462}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36463}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36464}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36465}{}{Zu langsam!}
@@ -2298,7 +2298,7 @@
 {36548}{}{Schrei für mich.}
 {36560}{}{Du kannst mir nicht weh tun!}
 {36561}{}{Die Geister beschützen mich.}
-{36562}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36562}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36563}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36564}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36565}{}{Zu langsam!}
@@ -2415,7 +2415,7 @@
 {36840}{}{Wenn der Gegner zurückschießt, ist Töten gar nicht so einfach.}
 {36841}{}{Probier mal. Passt's?}
 {36842}{}{Ich brauch nur deinen Kopf. Den Rest kannste behalten.}
-{36843}{}{Nicht besonders spassig, das Sterben, stimmt's?}
+{36843}{}{Nicht besonders spaßig, das Sterben, stimmt's?}
 {36844}{}{Die Belohnung hab ich schon so gut wie in der Tasche.}
 {36845}{}{Du bist gar nicht so zäh.}
 {36846}{}{Damit verletzt du dich selber mehr als mich.}
@@ -2438,7 +2438,7 @@
 {36863}{}{Nicht mal nah.}
 {36864}{}{Entschuldigung, hattest du auf mich gezielt?}
 {36865}{}{Der Felsbrocken, den du getroffen hast, war noch nicht mal bewaffnet.}
-{36866}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36866}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36867}{}{Das scheint leichter zu gehen, als ich dachte.}
 {36868}{}{Besser du legst das Ding weg, bevor du dich noch damit verletzt.}
 {36869}{}{Ha! Daneben!}
@@ -2446,7 +2446,7 @@
 {36871}{}{Vielleicht versuchst du es das nächste Mal mit Zielen...}
 {36872}{}{Da schießt meine Mutter ja besser als du.}
 {36873}{}{Um da nicht zu treffen, müssen deine Hände ja ganz schön gezittert haben.}
-{36874}{}{War das aber ein gefährlicher Schuß.}
+{36874}{}{War das aber ein gefährlicher Schuss.}
 {36875}{}{Da brauchte ich ja noch nicht mal auszuweichen.}
 {36876}{}{Sieht aus, als müsstest du mehr üben.}
 {36877}{}{So, das war jetzt ein entscheidender Fehler.}
@@ -2456,7 +2456,7 @@
 {40001}{}{Heut wird früh dunkel.}
 {40002}{}{Nette Narbe im Gesicht jetzt.}
 {40003}{}{Fast wär Großvater Knochen kaputtgegangen.}
-{40004}{}{Hah, Großvater Knochen stoppen meiste Schuß!}
+{40004}{}{Hah, Großvater Knochen stoppen meiste Schuss!}
 {40005}{}{Sulik brauchen Zähne nicht.}
 {40006}{}{Sulik immer noch ein Ohr zum Hören von Schmerz!}
 {40007}{}{Großvater Knochen rausgefallen, muss Großvater finden!}
@@ -2772,7 +2772,7 @@
 {40966}{}{Bist anscheinend blöd UND blind.}
 {40967}{}{Hast mich um ein paar %-Punkte verfehlt.}
 {40968}{}{Hast wohl Augen aus Beton, du Mistkerl.}
-{40969}{}{Jetzt ist Schluss mit den Zielübungen. Der nächste Schuß trifft deinem Kopf.}
+{40969}{}{Jetzt ist Schluss mit den Zielübungen. Der nächste Schuss trifft deinem Kopf.}
 {40970}{}{Verdammt, ich bin ein Dinosaurier und hau trotzdem noch härter zu als du.}
 {40971}{}{Tja, so 'n Pech: DU kannst nicht einfach das Spiel neu laden und noch mal anfangen...}
 {40972}{}{Wenn du was draufhättest, hättest du jetzt aber getroffen.}
@@ -2881,7 +2881,7 @@
 {41295}{}{Masseltov!}
 {41296}{}{Unbeschnitten war's eigentlich ganz OK.}
 {41297}{}{Als ob mir *das* die Tour vermasseln würde!}
-{41298}{}{Mit einem Schuß vom Stier zum Ochsen.}
+{41298}{}{Mit einem Schuss vom Stier zum Ochsen.}
 {41299}{}{Jetzt kann ich wohl Haremswächter werden!}
 {41300}{}{Oha, mein Spiderman-Sinn meldet sich.}
 {41301}{}{Verdammt, die haben Kryptonit. Nix wie weg!}
@@ -2924,7 +2924,7 @@
 {41338}{}{Dabei wird bestimmt jemand verletzt, womöglich sogar ich.}
 {41339}{}{Sag mir, wann ich die Augen wieder aufmachen soll.}
 {41340}{}{Hei! Zack! Bumm!}
-{41341}{}{Ein Schuß, ein Tor!}
+{41341}{}{Ein Schuss, ein Tor!}
 {41342}{}{...und die Zuschauer toben!}
 {41343}{}{Zittert und zagt, jetzt kommt Lenny!}
 {41344}{}{Ja, so ist's richtig. Und? Wer ist nun der Trottel?}
@@ -2983,7 +2983,7 @@
 {41617}{}{Oh, mein Handgelenk.}
 {41618}{}{Wenn ich nicht mehr schreiben kann, bring ich dich um.}
 {41619}{}{Das ist meine Schreibhand!}
-{41620}{}{Au, meine Schußhand.}
+{41620}{}{Au, meine Schusshand.}
 {41621}{}{Mein Ellenbogen!}
 {41622}{}{Mutter Gottes!}
 {41623}{}{Hab ja im Training schon Schlimmeres erlebt.}
@@ -3089,7 +3089,7 @@
 {41723}{}{Mit dir werd ich viel Spaß haben...}
 {41724}{}{Füße, Hände, Kopf...mal sehn, was alles so in deinen Hintern reinpasst.}
 {41725}{}{Beug dich mal vor, Freundchen...}
-{41726}{}{Das wird bestimmt spassig.}
+{41726}{}{Das wird bestimmt spaßig.}
 {41727}{}{Ein Tritt in den Hintern, kommt sofort.}
 {41728}{}{Idioten...haut bloß schnell ab!}
 {41729}{}{Los, los! Mach, dass du hier wegkommst!}
@@ -3269,7 +3269,7 @@
 {42131}{}{Lasst mich los! Ich mach ihn fertig!}
 {42132}{}{Myron! Das ist doch nur 'n blöder Mu...}
 {42133}{}{Wenigstens hab ich in all den Jahren, in denen ich AD&D gespielt hab, ein bisschen was über Tapferkeit gelernt.}
-{42140}{}{Du bist reif für den letzten Schuß.}
+{42140}{}{Du bist reif für den letzten Schuss.}
 {42141}{}{Hast du Erfahrung?}
 {42142}{}{Nimm das!}
 {42143}{}{Bist wohl 'n bisschen übermütig, was?}
@@ -3317,7 +3317,7 @@
 {44090}{}{Zaaap!}
 {44100}{}{BA - NA - NEN}
 {44101}{}{Heim in den Dschungel}
-{44400}{}{Riß in Hirnschale.}
+{44400}{}{Riss in Hirnschale.}
 {44401}{}{Leck in Hirnschale festgestellt.}
 {44402}{}{Flüssigkeitsstand: sinkend}
 {44403}{}{Gehirnverbindung: unterbrochen}
@@ -3391,7 +3391,7 @@
 {44562}{}{Zugefügter Schaden: negativ. Zielerfassungsscanner neu ausrichten.}
 {44563}{}{Feind verfehlt. Zielerfassungssensoren neu kalibrieren.}
 {44564}{}{Warnung Fehlfunktion in Zielerfassungssensoren.}
-{44565}{}{Schußdaten werden analysiert... Anpassungen abgeschlossen.}
+{44565}{}{Schussdaten werden analysiert... Anpassungen abgeschlossen.}
 {44566}{}{Feindziel unbeschädigt.}
 {44800}{}{Hab 'nen ziemlich dicken Schädel, aber das hat trotzdem weh getan.}
 {44801}{}{Hab höllische Kopfschmerzen}
@@ -3447,7 +3447,7 @@
 {44891}{}{Nicht...unter...die...Gürtellinie!}
 {44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden  treffen würde?}
 {44893}{}{Ich HASSE Unterleibsschüsse! Umpf...}
-{44894}{}{Unterleibsschuß...wie gut, dass ich kein Mensch bin!}
+{44894}{}{Unterleibsschuss...wie gut, dass ich kein Mensch bin!}
 {44900}{}{Zeit, abzuhauen!}
 {44901}{}{Ich verschwinde!}
 {44902}{}{Zurück!}
@@ -3491,7 +3491,7 @@
 {44950}{}{Hey, hier gibt es einen Bluter!}
 {44951}{}{Wenn ich mit dir fertig bin, bringt dich ein Stimpak allein garantiert nicht mehr auf die Beine.}
 {44952}{}{Hoffentlich bist du krankenversichert. Wirst es brauchen.}
-{44953}{}{Hier ein Riß, da ein Riß, überall ein Riß, Riß, Riß...}
+{44953}{}{Hier ein Riss, da ein Riss, überall ein Riss, Riss, Riss...}
 {44954}{}{Mir egal, wer damit angefangen hat, ich werd's in jedem Fall beenden!}
 {44955}{}{Ich hör gern, wie Fleisch reißt, du nicht?}
 {44956}{}{Bin grad erst beim Aufwärmen, das richtige Spektakel geht gleich erst los.}

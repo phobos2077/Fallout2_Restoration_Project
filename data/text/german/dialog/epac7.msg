@@ -3,14 +3,14 @@
 {102}{}{Hologramm 40011. Sie ist für all die Führungen und Presseveröffentlichungen der EPA verantwortlich}
 {200}{}{[Dieses attraktive weibliche Hologramm begrüßt dich mit einem freundlichen Lächeln.] Hallo Besucher, herzlich willkommen in der EPA. Wie kann ich ihnen helfen? Das Essen wird für alle Angestellten mittags in der Cafeteria serviert.}
 {201}{}{Was? Oh nicht so wichtig. Wer bist du?}
-{202}{}{Ich muss jetzt gehen. Tschüß.}
+{202}{}{Ich muss jetzt gehen. Tschüss.}
 {210}{}{Ich? Ich bin Hologram 40011, die Direktorin für die wichtige Öffentlichkeitsarbeit. Ich organisiere Ausflüge, Führungen und vieles mehr, um einen reibungslosen Tagesablauf für das Publikum sicherzustellen. Die Führung durch das Museum der EPA beginnt bald. Bitte halten Sie ihre Pässe bereit.}
 {211}{}{Das klingt nach einer spannenden Arbeit. Wiedersehen.}
 {212}{}{Nun, vielleicht könntest du mir helfen?}
 {220}{}{Natürlich. Ich helfe gerne. Wie kann ich Ihnen behilflich sein? Prospekte finden Sie sowohl im Hauptbüro als auch in den, in der gesamten EPA angebrachten, Aushängen.}
 {221}{}{Es gibt einige Türen in diesem Komplex, die sich, ohne dass man ein Kennwort spricht, nicht öffnen. Ich würde da wirklich gerne durch, um mehr von dieser Einrichtung zu sehen. Ich nehme nicht an, dass du das Kennwort kennst?}
 {230}{}{Natürlich weiß ich das Kennwort, aber leider bin ich außerstande es Ihnen mitzuteilen. Ich verstehe Ihre Begeisterung dafür, alles sehen zu wollen, was diese große Einrichtung anbietet, aber es gibt Regeln, die wir für Ihre eigene Sicherheit beachten müssen. Zur Erinnerung, wir bieten zu vorbestimmten Zeiten Führungen durch unseren Komplex an.}
-{231}{}{Oh, du mußt dich nicht um meine Sicherheit sorgen, ich bin das Auserwählte Wesen. Außerdem, wann hattest du zum letzte Mal einen *richtigen* Besucher? Willst du mich wirklich enttäuscht weggehen lassen?}
+{231}{}{Oh, du musst dich nicht um meine Sicherheit sorgen, ich bin das Auserwählte Wesen. Außerdem, wann hattest du zum letzte Mal einen *richtigen* Besucher? Willst du mich wirklich enttäuscht weggehen lassen?}
 {232}{}{Na gut.  Wiedersehen.}
 {240}{}{Natürlich nicht. Aber, wenn ich Ihnen das Kennwort gebe, würde ich nicht nur Sie gefährden, ich könnte auch den ganzen Komplex gefährden. Kinder, belästigt bitte nicht die Hologramme.}
 {241}{}{Wie könnte das den Komplex gefährden? Es tut mir leid, aber ich muss es dir sagen, Lady, dieser Komplex ist bereits zur Hölle und wieder zurück gegangen. Es gibt hier nichts, außer gefährlichen Chemikalien und kaputten Robotern. Also wirklich, ich sehe nicht wie ich die Sache noch schlimmer machen könnte.}
@@ -18,7 +18,7 @@
 {250}{}{Ich... ich weiß es nicht. Ich würde das Protokoll übergehen. Aber... wenn Sie mir vielleicht bei etwas helfen könnten. Sehr geehrte Besucher, bitte beachten Sie dass, aus Gründen die sehr uninteressant sind, das Betreten der Ebene Blau verboten ist. Es gibt keinen Grund, sich dafür zu interessieren.}
 {251}{}{Klar, kann ich dir helfen. Sag mir einfach was du brauchst.}
 {260}{}{Ach ja, hier sieht es jetzt viel besser aus, ich danke Ihnen. Das Kennwort ist ABRE. Einfach laut und deutlich gegen die Tür sprechen und sie wird sich öffnen. Wenn Sie nun bitte alle... }
-{261}{}{JA, wir haben dich schon verstanden. Danke für den Code. Tschüß.}
+{261}{}{JA, wir haben dich schon verstanden. Danke für den Code. Tschüss.}
 {270}{}{Und nochmal Guten Tag. Wie kann ich Ihnen helfen? Der EPA-Komplex wird in absehbarer Zeit, aufgrund von Mangel an Fachpersonal, geschlossen werden.}
 {271}{}{Nun, da ich mehr Zeit habe. Kannst du mir sagen was du hier machst?}
 {272}{}{Macht nichts.}

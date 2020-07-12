@@ -9,7 +9,7 @@
  seine Schwester los, und greift nach seinen Waffen während er die Tür beobachtet. Es dringen keine weiteren Geräusche herein.]}
 {203}{}{[Mehr]}
 {204}{}{[Suliks Schwester dreht sich zu dir um] Die Knochengeister sagen dass du Sulik anführst. Mein Name ist Kurisu, aber jetzt ist nicht die Zeit für eine richtige Begrüßung.
- Bitte, du mußt uns aus dem Käfig und von den gemeinen Männern, die von den Geistern der Begierde beherrscht werden, fortschaffen. [Sie grinst und spuckt in den Dreck.] Die dreckigen Hunde werden uns nie wieder begrapschen. [Als Sulik das hört, reißt er die Augen auf. Unvorstellbare Wut verzerrt sein Gesicht. Fest umklammert er seine Waffe.]}
+ Bitte, du musst uns aus dem Käfig und von den gemeinen Männern, die von den Geistern der Begierde beherrscht werden, fortschaffen. [Sie grinst und spuckt in den Dreck.] Die dreckigen Hunde werden uns nie wieder begrapschen. [Als Sulik das hört, reißt er die Augen auf. Unvorstellbare Wut verzerrt sein Gesicht. Fest umklammert er seine Waffe.]}
 {205}{}{Warte Sulik, wir sind in der Unterzahl. Lass mich versuchen diese Tür aufzusperren, damit wir uns hier unbemerkt rausschleichen können.}
 {206}{}{Warte Sulik, wir sind in der Unterzahl. Ich hole die Schlüssel zu dieser Tür. Bewahren Ruhe und wir können
  uns unbemerkt rausschleichen.}
@@ -26,8 +26,8 @@
 {217}{}{Warum ist da draußen so ein Krawall? Oh, ich fühle dass sich viele mit den Geistern vereint haben. Wer ist . . . Sulik?  Necken mich die Geister, oder bist du es wirklich, Bruder?}
 {218}{}{Warum ist da draußen so ein Krawall? Oh, ich fühle dass sich viele mit den Geistern vereint haben. Und ich spüre dass du derjenige bist, der sie zu ihnen geschickt hat. Was willst du, Geistermacher?}
 {219}{}{Ich bin gekommen, um dich zu befreien.}
-{221}{}{Ehret die Geister! Bitte, du mußt uns aus dem Käfig herausholen. Weg von diesem grässlichen Ort.}
-{222}{}{Die Geister mögen dich beschützen! Ich muß jetzt zu meinen Leuten zurückkehren. Ich werde schon lange vermisst. Bitte, komm doch mal in mein Dorf. Es ist in der Nähe vom großen Salzwasser, ein paar Tage südwestlich von hier. Ich danke dir, Freund.}
+{221}{}{Ehret die Geister! Bitte, du musst uns aus dem Käfig herausholen. Weg von diesem grässlichen Ort.}
+{222}{}{Die Geister mögen dich beschützen! Ich muss jetzt zu meinen Leuten zurückkehren. Ich werde schon lange vermisst. Bitte, komm doch mal in mein Dorf. Es ist in der Nähe vom großen Salzwasser, ein paar Tage südwestlich von hier. Ich danke dir, Freund.}
 {223}{}{[Sulik rennt zum Tor und umklammert die ausgestreckten Hände seiner Schwester. Du drehst dich weg, um ihrem gefühlsbetonten Wiedersehen etwas Privatsphäre zu geben. Kurz darauf wendet sich seine Schwester an dich.] Die Knochengeister sagen dass du Sulik anführst. Mein Name ist Kurisu, aber jetzt ist nicht die Zeit für eine richtige Begrüßung. Die Sklavenhändler sind tot, richtig?}
 {224}{}{Ja, die Sklavenhändler sind alle tot.}
 {225}{}{Ehret die Geister! Bitte, sperr diese Tür auf. Wir können es nicht erwarten, diesen grässlichen Ort zu verlassen.}
@@ -40,7 +40,7 @@
 {501}{}{Ich bin "das Auserwählte Wesen" und wer bist du?}
 {502}{}{Ich heiße }
 {503}{}{. Wer bist du?}
-{510}{}{Mein Name ist Kurisu. Ich bin von einem Stamm südwestlich von hier, nahe dem großen Salzwasser. Sklavenhändler haben mich gefangen. Auch andere, aber die wurden weggebracht. Sie sagen, sie sind noch nicht fertig mit mir. Sie behalten mich hier für ihre üblen Vergnügungen. Bitte, du mußt uns aus dem Käfig und von den gemeinen Männern fortschaffen.}
+{510}{}{Mein Name ist Kurisu. Ich bin von einem Stamm südwestlich von hier, nahe dem großen Salzwasser. Sklavenhändler haben mich gefangen. Auch andere, aber die wurden weggebracht. Sie sagen, sie sind noch nicht fertig mit mir. Sie behalten mich hier für ihre üblen Vergnügungen. Bitte, du musst uns aus dem Käfig und von den gemeinen Männern fortschaffen.}
 {511}{}{Mach dir keine Sorgen, ich bin hier um dich zu befreien. Ich habe einen Schlüssel und die Erlaubnis dich hier weg zubringen.}
 {512}{}{Alles klar, lass mich versuchen diese Tür aufzukriegen.}
 {530}{}{Ist es jetzt sicher? Hast du die Sklavenhändler zu den Geistern geschickt?}
@@ -50,7 +50,7 @@
 {600}{}{Ehret die Geister, wir sind endlich zu Hause. Mein Freund, ich danke dir von ganzem Herzen.}
 {601}{}{Gern geschehen. Wie bist du hier her gekommen?}
 {602}{}{Ich war in einem Nachbardorf um zu Handeln. Dann kamen die Sklavenhändler. Es gab ein blutiges Chaos. Dann wurde mir schwarz vor Augen. Ich erwachte in einem brechend vollen Käfig, der nach Scheiße stank. Bald steckten sie mich in einen kleineren Käfig, zu denen die sie behalten möchten. Ich sah viele Sklaven kommen und gehen. Es ist schrecklich wenn Menschen wie Tiere behandelt werden.}
-{603}{}{Ja, die Sklaverei ist eine wirklich schreckliche Sache. Es tut mir leid, dass du das erleben mußtest, Kurisu. Also, was willst du jetzt tun?}
+{603}{}{Ja, die Sklaverei ist eine wirklich schreckliche Sache. Es tut mir leid, dass du das erleben musstest, Kurisu. Also, was willst du jetzt tun?}
 {604}{}{Die Sklavenhändler verletzten mich tief, aber sie konnten mich nicht brechen. Die Geister lenkten dich um meine Rettung zu ermöglichen. Die Geister planen eindeutig etwas großes für mich.
  Sie haben auch für dich große Pläne. Und meinen Bruder Sulik. Er wird uns sehr fehlen, aber die Geister sagen, sein Platz ist an deiner Seite. Bei allen Geistern, selbst Großvater Knochen mag dich, also weiß ich Sulik in guten Händen. Pass auf dich auf.}
 {605}{}{Thank you, Kurisu, see you around.}

@@ -44,7 +44,7 @@
 {207}{}{Tut mir leid, ich kann euch nicht helfen.}
 {208}{}{Ich werde eure Botschaft gerne nach Modoc bringen.}
 {209}{}{Ich bedaure, dies zu hören. Betrachte dich als Gast der Schlacken. Wenn wir Kontakt zu den Oberflächlern hergestellt haben, kannst du gehen. Bis dahin versuche gar nicht erst, diese Höhlen zu verlassen. Die Folgen für dich wären äußerst unerfreulich.}
-{210}{}{Dank unseres neuen Bewässerungssystems erwirtschaften wir einen großen Lebensmittelüberschuß. Wir möchten mit den Oberflächlern handeln und unsere überschüssigen Lebensmittel gegen dringend benötigte Arzneimittel eintauschen.}
+{210}{}{Dank unseres neuen Bewässerungssystems erwirtschaften wir einen großen Lebensmittelüberschuss. Wir möchten mit den Oberflächlern handeln und unsere überschüssigen Lebensmittel gegen dringend benötigte Arzneimittel eintauschen.}
 {213}{}{Bitte lass uns deine große Weisheit zuteil werden.}
 {216}{}{Ich wusste, dass du uns verstehen würdest. Hier ist ein Brief mit unserem Angebot. Bitte bring ihn nach Modoc und gib ihn dem dortigen Herrscher. Ich werde die Protektoren anweisen, auf deine Rückkehr zu warten. Mein Volk steht in deiner Schuld.}
 {217}{}{Typisch Oberflächler! Tut nichts für niemanden, wenn nichts für ihn dabei herausspringt. Jemandem wie dir kann man nicht trauen! Wir werden jemand anderen finden, um unsere Nachricht zu übermitteln. Wir sind zwar ein friedfertiges Volk, aber ich rate dir trotzdem, diese Höhlen nicht zu verlassen. Du würdest es bereuen...}

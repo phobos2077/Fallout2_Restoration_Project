@@ -31,7 +31,7 @@
  Kerl machte genau mitten während meiner jährlichen Wartungsüberprüfung schlapp. Er hoppelte natürlich zu einer Wartungsbucht und ließ mich hier hängen.}
 {281}{}{Aha, verstehe. Dann also danke für deine Zeit.}
 {290}{}{Kein Problem. Schau mal wieder vorbei. Vielleicht hast du dann Appetit auf Toast.}
-{291}{}{Bezweifle ich. Tschüß.}
+{291}{}{Bezweifle ich. Tschüss.}
 {300}{}{Ich wusste du kommst wieder. Das tun sie immer. Also, möchtest du etwas Toast?}
 {301}{}{Ich wusste du kommst wieder. Das tun sie immer. Und jetzt, da ich voll funktionsfähig bin, kann ich besseren Toast denn je herstellen. Also, möchtest du etwas Toast?}
 {302}{}{Nicht jetzt. Ich muss dich noch was Anderes fragen.}

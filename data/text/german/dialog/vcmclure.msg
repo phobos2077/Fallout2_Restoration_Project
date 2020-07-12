@@ -241,7 +241,7 @@
  könnte. Viel mehr, als Gecko braucht. Vault City könnte diese Energie nutzen.}
 {310}{}{Schlägst Du vor, wir BESETZEN Gecko und nehmen deren Kraftwerk? Ich werde NICHT --}
 {311}{}{Nein, nein... falls Gecko die Optimierungsdaten für deren Werk erhalten würde, wette ich, dass sie gewillt sind,
- ihre Überschußenergie für medizinischen Dienst zu verkaufen.}
+ ihre Überschussenergie für medizinischen Dienst zu verkaufen.}
 {312}{}{Hmmm. Was den medizinischen Dienst betrifft, stehe ich der Einigung mit den Ghuls nicht ablehnend gegenüber. Sie
  haben auf jeden Fall genug erlitten... aber wie können wir deren Werk optimieren?}
 {313}{}{Ich weiß es nicht. Vielleicht kann ich mit jemandem reden, wenn das Werk erstmal repariert ist.}

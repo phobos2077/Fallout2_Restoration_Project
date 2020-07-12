@@ -103,7 +103,7 @@
 {203}{}{Kein Interesse.}
 {204}{}{Sehr gut. Ich zeige dir auf deinem Karten-Dingsbums wo du hin musst. Sag Bescheid, wenn die Sache geregelt ist.}
 {205}{}{Na wer nicht will der hat schon. Dann beschwer dich aber nicht, wenn die Ranger irgendwann mal hier auftauchen und Ärger machen.}
-{206}{}{Ist ja schon gut. Tschüß.}
+{206}{}{Ist ja schon gut. Tschüss.}
 {207}{}{Besteht eigentlich die Möglichkeit, dass du mir einige deiner Männer als Unterstützung mitgibst? Dann wäre das alles verdammt viel schneller erledigt, und außerdem wäre der Erfolg garantiert.}
 {210}{}{Da bist du ja wieder. Hast du die Ranger-Außenposten ausgelöscht?}
 {211}{}{Klar hab ich sie erledigt. War ein Kinderspiel.}
@@ -114,8 +114,8 @@
 {217}{}{Ich verschwinde aus der Stadt. Man sieht sich.}
 {218}{}{Anscheinend ist, egal was ich mache, immer irgendeiner angepisst. Ich hab mich schon daran gewöhnt. Wiedersehen.}
 {220}{}{Scheiße nein. Dafür trommle ich meine Männer nicht zusammen. Wenn du feige Sau das nicht hinkriegst, dann verschwinde von hier!}
-{221}{}{Ich hab nie gesagt, dass ich das nicht hinkriege. Ich dachte nur, deine Männer würden gerne bei dem Spass mitmachen. Aber was soll's, ich regle das auch gerne auf eigene Faust, kein Problem. Ich melde mich wieder, wenn ich fertig bin.}
-{222}{}{Gut, ich bin draußen, Arschloch. Ich bin nicht dein Trottel. Tschüß.}
+{221}{}{Ich hab nie gesagt, dass ich das nicht hinkriege. Ich dachte nur, deine Männer würden gerne bei dem Spaß mitmachen. Aber was soll's, ich regle das auch gerne auf eigene Faust, kein Problem. Ich melde mich wieder, wenn ich fertig bin.}
+{222}{}{Gut, ich bin draußen, Arschloch. Ich bin nicht dein Trottel. Tschüss.}
 {223}{}{Du nennst mich eine feige Sau? Keiner nennt mich so und überlebt!}
 {225}{}{Alles klar. Ich denke ich kann 'n paar Mann zur Unterstützung auftreiben. Sie stoßen unterwegs zu dir, bist du bereit?}
 {226}{}{Gib mir noch etwas Zeit, ich melde mich dann wenn ich bereit bin.}

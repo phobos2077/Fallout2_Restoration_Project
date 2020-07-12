@@ -15,7 +15,7 @@
 {211}{}{[Erledigt]}
 {212}{}{Nein, leider nicht.}
 {213}{}{Hallo nochmal.}
-{214}{}{Hallo und Tschüß.}
+{214}{}{Hallo und Tschüss.}
 {215}{}{Dieser ist nicht mehr umsonst. Er wird dich $20 kosten.}
 {216}{}{Sicher. Hier ist das Geld.}
 {217}{}{Nah, ich hab genug. Vielleicht nächstes Mal.}
@@ -45,4 +45,4 @@
 {810}{}{Jaa, das ist genau was ich brauche. Wirst du es mir geben?}
 {811}{}{Na gut. Sowieso nicht mag.}
 {812}{}{Ich nicht geben!}
-{820}{}{Du nich brenn dich selbst. Tschüß!}
+{820}{}{Du nich brenn dich selbst. Tschüss!}

@@ -215,7 +215,7 @@
 {249}{}{Ich glaub, ich will im Moment nicht noch einen Job, Sheriff. Wiedersehn.}
 {250}{}{Ich bezweifle ja nicht, dass das Schwein, das dieses arme Mädchen entstellt hat, bekommen
  hat, was er verdiente. Aber unter den Bergarbeitern hast du dir wahrhaftig keine Freunde
- gemacht, als du ihn getötet hast. Die lieben es, einen netten Prozeß und eine hübsche
+ gemacht, als du ihn getötet hast. Die lieben es, einen netten Prozess und eine hübsche
  Hinrichtung zu sehen. Na, trotzdem, der Job ist erledigt. Hier ist dein Geld. Fertig für den
  nächsten Job?}
 {251}{}{Erzähl mir über den nächsten Job.}

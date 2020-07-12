@@ -10,7 +10,7 @@
 {109}{}{Schon gut. Tschüss.}
 {110}{}{Das heilige GECK . . . [Er nimmt einen langen Zug aus seiner Pfeife.] Es gibt eine Kreatur, die wir manchmal jagen - mitunter, jagt auch sie uns. Ein Gecko? Nein. Ich fühle, dass es das nicht ist, was du suchst. Ich befürchte, dein heiliges GECK ist jenseits meines geistigen Horizonts.}
 {111}{}{Ich möchte dich noch was anderes fragen.}
-{112}{}{Das ist alles was ich wissen wollte. Tschüß.}
+{112}{}{Das ist alles was ich wissen wollte. Tschüss.}
 {120}{}{Sulik? [Er nickt.] Er ist einer unseren besten Männer. Ebenso talentiert in der Jagd, wie in der Kunst mit den Knochengeistern zu kommunizieren. Er hat uns verlassen um seine Schwester, Kurisu, zu finden, die von einem Nachbarstamm nicht zurückgekommen ist. Erzähl mir, Kind, wo ist Sulik jetzt?}
 {121}{}{Oh, he's right here. Hey, Sulik, come on in here...}
 {122}{}{Oh, ihn geht es gut. Er wartet auf mich, bis ich ein paar Dinge erledige.}
@@ -35,7 +35,7 @@
 {200}{}{Deine Bösartigkeit endet hier, Sklavenhändler!}
 {300}{}{[Der alte Mann raucht seine Pfeife und beobachtet dich mit trüben grauen Augen, die sich in deine Seele zu bohren scheinen. Er gibt dir ein Zeichen, ihm gegenüber im verqualmten Zelt Platz zu nehmen.] Du hast eine große Tat vollbracht, mein Kind. Ich höre die Schreie von vielen bösen Knochengeistern, die im großen Salzwasser ihr Leben ließen. Nun, da du dich bewiesen hast, kann ich mit dir das letzte große Geheimnis teilen.}
 {301}{}{In Ordnung, schlussendlich! Lass es hören.}
-{302}{}{Kein Interesse, alter Mann. Tschüß.}
+{302}{}{Kein Interesse, alter Mann. Tschüss.}
 {310}{}{[He takes a big hit off his pipe, then closes his eyes. After a moment, he nods.] Yes. I see the Great Bear spirit has guided your quest, breathing new life into old bones. Others as well. Perhaps they've come to you in a vision. Come from far, far away... where mutants are not allowed.}
 {311}{}{Von was sprichst du, verdammt nochmal?}
 {312}{}{Ja, ja, ich hatte eine besondere Begegnung in Sachen Krieg der Sterne. Erzähl mir nicht, das ist das letzte große Geheimis.}

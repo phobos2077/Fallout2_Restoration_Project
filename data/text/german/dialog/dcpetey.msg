@@ -8,7 +8,7 @@
 {157}{}{Nein, lass mich in Ruhe.}
 {158}{}{Peetee?}
 {159}{}{Du bist schlimmer dran als ich. [hust] Trotzdem danke.}
-{160}{}{Tut mir leid. Tschüß.}
+{160}{}{Tut mir leid. Tschüss.}
 {161}{}{Puh, gerne geschehen, uh-huh, ja.}
 {162}{}{Vielleicht beim nächsten Mal. Trotzdem danke. [hust]}
 {163}{}{[Fertig]}

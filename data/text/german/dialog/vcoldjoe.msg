@@ -26,7 +26,7 @@
  ein paar gute Nachrichten für deinen alten Freund Ian?}
 {120}{}{Ian?}
 {121}{}{Ja, Ian. Kennst du mich nicht mehr? Ist schon 'n paar Jährchen her. Aber normalerweise
- vergisst man doch seinen besten Kumpel nicht. Naja, bis auf die Sache mit dem Schuß in den
+ vergisst man doch seinen besten Kumpel nicht. Naja, bis auf die Sache mit dem Schuss in den
  Rücken. Du, ich sag's noch mal: Tut mir wirklich leid.}
 {122}{}{Tut mir leid, aber du hältst mich wohl für den Vaultbewohner. Mein Dorf wurde
  von ihm gegründet.}
@@ -79,7 +79,7 @@
 {159}{}{Dann gehe ich zu ihm und rede mit ihm. Allerdings hab ich mich über die Maulwurfsratten, die das Dorf schützen, gewundert.}
 {200}{}{He, wenn du wirklich der gleiche Ian bist, der mit meinem Vorfahr reiste, dann habe ich eine Frage an dich.}
 {201}{}{In Ordnung, lass hören.}
-{202}{}{Wie zum Teufel kannst du noch leben? Du mußt über hundert Jahre alt sein. Ganz zu schweigen von den Vaultbewohner Memoiren, in denen von deinem Tod in Nekropolis durch den Flammenwerfer eines Supermutanten berichtet wird.}
+{202}{}{Wie zum Teufel kannst du noch leben? Du musst über hundert Jahre alt sein. Ganz zu schweigen von den Vaultbewohner Memoiren, in denen von deinem Tod in Nekropolis durch den Flammenwerfer eines Supermutanten berichtet wird.}
 {203}{}{[Er lacht eine Zeit lang herzhaft; schließlich setzt er sich und wischt ein paar Tränen aus den Augen.] Oh, ist das absurd. Gegrillt von einen Flammenwerfer, ha! Schau mal, ich bat den Vaultbewohner eine Geschichte über meinen Tod zu erfinden, da ich nicht wollte dass irgendwelche unserer alten Feinde mich zur Strecke bringen — darum habe ich auch meinen Namen geändert. Er sollte erzählen dass ich bei einem heißen Kampf umgekommen bin, und er hat es buchstäblich getan. Ha, das ist klassisch.}
 {204}{}{He, ich denke das erklärt es. Allerdings hab ich mich über die Maulwurfsratten, die das Dorf schützen, gewundert.}
 {205}{}{Das erklärt immer noch nicht, warum du nach all den Jahren noch lebst.}

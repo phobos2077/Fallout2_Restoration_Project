@@ -5,7 +5,7 @@
 {202}{}{OK. Wiedersehn.}
 {203}{}{Meine...zZzzt...Sensoren...ZzzZzt...*verstümmelt*..repariert?}
 {204}{}{Entschuldigung, aber ich kann dich nicht verstehen. Das Rauschen überlagert alles. Vielleicht finde ich einen Weg es irgendwie zu reparieren.}
-{205}{}{Dafür habe ich wirklich keine Zeit. Tschüß.}
+{205}{}{Dafür habe ich wirklich keine Zeit. Tschüss.}
 {300}{}{Ah, vielen Dank dass Sie mich repariert haben! Unter der Vorstellung, dass ein Besucher vorbeikommen könnte und ich seine Fragen wegen der Störungen nicht ordentlich beantworten kann, habe ich sehr gelitten. Natürlich sind Sie der erste Besucher, den ich seit dem Krieg gesehen habe, aber dennoch, wäre ich jemand anderem begegnet, hätte das ziemlich peinlich sein können.}
 {301}{}{Keine Ursache. Also, was genau ist das hier überhaupt für ein Ort?}
 {302}{}{[Er grinst, scheinbar erfreut über die Aussicht, Fragen zu beantworten.] Sie stehen in der Umweltschutzbehörde, besser bekannt unter der Bezeichnung EPA. Wir sind eine Forschungseinrichtung der Regierung, die auf das Testen von Chemikalien spezialisiert ist, um sicherzustellen, dass sie ungefährlich für die Umwelt sind. Aber das kratzt nur an der Oberfläche. Wir hatten allerlei aufregende Sachen hier, zumindest bis die Anlage aufgrund des Kriegs geräumt wurde. Es ist seit damals nicht mehr dasselbe.}

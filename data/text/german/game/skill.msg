@@ -78,7 +78,7 @@
 {571}{}{Du stiehlst %s.}
 {572}{}{Du wirst erwischt, als du %s anbringst.}
 {573}{}{Du bringst %s an.}
-{590}{}{Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein bißchen.}
+{590}{}{Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein bisschen.}
 {591}{}{Du bist zu müde.}
 {592}{}{Die Anstrengung könnte dich umbringen.}
 {600}{}{Du verfügst nicht über die Fähigkeiten, schwere Verletzungen zu heilen.}

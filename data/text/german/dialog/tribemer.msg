@@ -5,7 +5,7 @@
 {201}{}{[Mehr]}
 {202}{}{[Der Händler begrüßt Krom überschwenglich, dann wendet er sich dir zu und betrachtet dich. Obwohl sich sein Lächeln
  nicht verändert, verrät sein prüfendes Auge einen Hauch von Argwohn.] Also Krom sagt, dass ich das Geschäft heute mit dir
- abwickeln muß. [Er zuckt die Achseln.] Die Leute nennen mich den einäugigen Roy, aber ich kann beim besten Willen nicht
+ abwickeln muss. [Er zuckt die Achseln.] Die Leute nennen mich den einäugigen Roy, aber ich kann beim besten Willen nicht
  verstehen warum. [Er lacht herzlich über seinen Scherz.] Wie ist dein Name, Freund?}
 {203}{}{Ich bin }
 {204}{}{ aus Arroyo.}
@@ -97,12 +97,12 @@
 {350}{}{Okay, wenn du mit dem herumhängen fertig bist, lass uns den Handel anpacken. Ich bin ein vielbeschäftigter Mann.}
 {351}{}{In Ordnung. Wir nehmen diesen Handel an.}
 {352}{}{Wir verzichten.}
-{353}{}{Ich muß noch einen Tick länger darüber nachdenken.}
+{353}{}{Ich muss noch einen Tick länger darüber nachdenken.}
 {354}{}{Ich habe einen neuen Handel für dich: gib uns die Stimpaks, und du bekommst ein längeres Leben.}
 {360}{}{Du bist ein vielbeschäftigter Kerl, hm? Du bist auch ein Lügner und Betrüger.}
 {361}{}{Diese Stimpaks sind gefälscht. Das sind nichts anderes als mit Brahminblut gefüllte Spritzen. Du wolltest diesen Stamm
  übers Ohr hauen.}
-{362}{}{Ich muß noch einen Tick länger darüber nachdenken.}
+{362}{}{Ich muss noch einen Tick länger darüber nachdenken.}
 {363}{}{In Ordnung. Wir nehmen diesen Handel an.}
 {370}{}{[Er windet sich unbehaglich, und wirft einen nervösen Blick auf Krom.] W--wovon sprichst du?}
 {371}{}{Diese Stimpaks sind gefälscht. Das sind nichts anderes als mit Brahminblut gefüllte Spritzen. Du wolltest diesen Stamm

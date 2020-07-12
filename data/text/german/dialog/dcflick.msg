@@ -72,7 +72,7 @@ guter Samurai-ter. Hab mich um die Kinder und das alles gekümmert. Das ging gut,
 {422}{}{Du meinst das bestehlen der Leute, deren Sachen du dann Verkaufst.}
 {430}{}{Hör auf zu klugscheißen, du Arschloch. Die Kinder bringen mir Sachen die Sie finden. Ich weiß nicht wo Sie die finden, aber offen gesagt ist es mir scheißegal.}
 {431}{}{Okay.}
-{432}{}{Du bist voll davon. Ich werd krank von solchem Abschaum wie dir, die Menschen für ihren eigenen Vorteil mißbrauchen. Zeit zu sterben!}
+{432}{}{Du bist voll davon. Ich werd krank von solchem Abschaum wie dir, die Menschen für ihren eigenen Vorteil missbrauchen. Zeit zu sterben!}
 {440}{}{Pai-san-o, du weißt schon, die Kinder. Meine Kinder.}
 {441}{}{Und du hast eine Abmachung mit ihnen?}
 {450}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht.

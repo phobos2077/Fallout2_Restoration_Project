@@ -5,7 +5,7 @@
 {201}{}{Oh, was?}
 {210}{}{01000101 01101100 01100101 01100011 01110100 01110010 01101001 01100011
  01100001 01101100 00100000 01110011 01101000 01101111 01110010 01110100 00101110}
-{211}{}{Tut mir leid, ich kann Sie nicht verstehen. Tschüß.}
+{211}{}{Tut mir leid, ich kann Sie nicht verstehen. Tschüss.}
 {212}{}{Interessant. Anscheinend können Sie nur mehr in Binärsprache kommunizieren.
  Wenn ich mir aufschreibe, was Sie sagen, kann ich es vielleicht entschlüsseln.}
 {220}{}{[After a couple hours, you finally believe you've correctly translated the binary numbers. It appears he's
@@ -74,7 +74,7 @@
  verhält, so dass ich es begrüßen würde, wenn Sie einige Lebensformen dort draußen aufspüren könnten,
  die Sie dann spektakulär mit meinem Solar Scorcher vernichten würden.}
 {361}{}{Rausgehen und was abknallen, hab' es. Also, wo ist dieser Solar Scorcher?}
-{370}{}{Nicht so hastig mein Freund. Ich will nicht, dass Sie die Waffe draußen ziellos abfeuern. Ich muß
+{370}{}{Nicht so hastig mein Freund. Ich will nicht, dass Sie die Waffe draußen ziellos abfeuern. Ich muss
  wissen, wie gut sie sich im Verlauf von Kampfhandlungen verhält. Daher würde ich es begrüßen, wenn Sie
  einige Lebensformen da draußen aufspüren könnten, die Sie dann mit meinem Solar Scorcher
  aufsehenerregend auslöschen würden.}
@@ -83,7 +83,7 @@
 {381}{}{Gut, ich werde es versuchen und teile Ihnen dann mit, wie es lief.}
 {390}{}{Ah, willkommen zurück. Hatten Sie die Chance den Solar Scorcher zu testen?}
 {391}{}{Sicher habe ich. Ich hab ihn bis zum Umfallen abgefeuert}
-{392}{}{Sicher hab' ich's. Aber das Mistding ist kaputt gegangen. Ich mußte es wegwerfen.}
+{392}{}{Sicher hab' ich's. Aber das Mistding ist kaputt gegangen. Ich musste es wegwerfen.}
 {393}{}{Nein, noch nicht.}
 {394}{}{Ich werd's schon noch tun.}
 {400}{}{Ausgezeichnet! Ich freue mich, zu erfahren, dass er wie vorgesehen funktioniert. Vielen Dank für

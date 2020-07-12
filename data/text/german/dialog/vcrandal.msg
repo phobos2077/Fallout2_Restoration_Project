@@ -144,7 +144,7 @@
 {212}{}{Könnte ich's bei dir zurücklegen? Ich würde es dann später abholen.}
 {213}{}{Nichts Geringeres als eine Heckler & Koch G11, eines der besten Sturmgewehre aller
  Zeiten... (wiegt das Gewehr in der Hand, reicht es an dich weiter)...wird mit hülsenlosen
- 4,7mm-Patronen geladen. Das Magazin fasst fünfzig Schuß. Wenn diese Waffe spricht, hören alle
+ 4,7mm-Patronen geladen. Das Magazin fasst fünfzig Schuss. Wenn diese Waffe spricht, hören alle
  zu.}
 {214}{}{Kein Zweifel. Danke.}
 {215}{}{Kein Problem. Hier hast du noch ein paar Splittergranaten, die gehen auf meine Kappe. Als

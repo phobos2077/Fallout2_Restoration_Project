@@ -5,7 +5,7 @@
 {103}{}{Willkommen in der New California Republic! Bevor du unsere schöne Stadt betrittst,
  nimm dir bitte ein wenig Zeit und mache dich mit den folgenden Regeln und Vorschriften vertraut.}
 {104}{}{Waffen dürfen in der Stadt nicht offen getragen werden.}
-{105}{}{Personen die unter dem Einfluß von Alkohol oder Jet stehen, werden verhaftet.}
+{105}{}{Personen die unter dem Einfluss von Alkohol oder Jet stehen, werden verhaftet.}
 {106}{}{Sklaverei, Glücksspiel und Prostitution sind in der Stadt untersagt.}
 {107}{}{Unwissenheit schützt vor Strafe nicht. Dummköpfe kriegen ebenso einen Tritt in den Hintern wie Klugscheißer.}
 {108}{}{Wenn dir diese Gesetze nicht in den Kram passen, dann verzieh dich!}

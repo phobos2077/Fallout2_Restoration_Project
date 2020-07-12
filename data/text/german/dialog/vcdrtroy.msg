@@ -137,14 +137,14 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {200}{}{Möglicherweise. Ich glaube es ja selbst nicht. Bis dann, Doktor.}
 {201}{}{Wirklich? Hmmmmm. Ich nehme an, dass Brahmin-... Exkremente einen guten Dünger abgeben.
  Darüber hatte ich bisher noch nicht nachgedacht. Danke schön, mein Freund. Ich wollte unbedingt
- etwas über den Herstellungsprozeß herausfinden.}
+ etwas über den Herstellungsprozess herausfinden.}
 {202}{}{Ja, außer dass sie zur Herstellung von Jet Brahmin-Mist nehmen und keine "Exkremente".
  Tschüss, Doc.}
 {203}{}{Kein Problem. Sei vorsichtig mit dem Zeug, OK?}
 {204}{}{Hey, war's das? Bis dann Doktor.}
 {205}{}{Das ist wirklich... faszinierend. Hmmmm. Vielleicht sollte ich Blutproben von den Brahmins
  im Vorhof sammeln und danach... OK, danke, mein Freund. Wirklich, vielen, vielen Dank. Ich wollte
- unbedingt etwas über den Herstellungsprozeß wissen.}
+ unbedingt etwas über den Herstellungsprozess wissen.}
 {206}{}{Kein Problem. Sei vorsichtig mit dem Zeug, OK?}
 {207}{}{Hey, war's das? Bis dann Doktor.}
 {208}{}{Endorphin-Blocker? Wofür das denn?}

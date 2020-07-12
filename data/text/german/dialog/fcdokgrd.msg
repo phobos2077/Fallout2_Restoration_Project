@@ -12,7 +12,7 @@
 {210}{}{Alles hier. Versuch nichts blödes.}
 {211}{}{Du kannst wohl nicht genauer sein?}
 {220}{}{Nein. Jetzt hau ab, Outsider.}
-{221}{}{Ist ja schon gut. Tschüß.}
+{221}{}{Ist ja schon gut. Tschüss.}
 {222}{}{Niemand sagt mir was ich tun soll. Du bist sowas von tot!}
 {230}{}{Und ich WILL dass du dich sofort verpisst. Du bist nicht berechtigt das Motorboot zu benutzen. Verflucht, du bist ein Lao Wai, und kein Shi.}
 {231}{}{Hör zu, ich bin in einer verzweifelten Situation. Wenn du mich dieses Motorboot nicht benutzen lässt, dann könnte mein ganzer Stamm sterben. Im Augenblick sind sie in den Fängen dieser Enklavenbastarde, und sie zählen darauf, dass ich sie rette. Aber, um das zu tun, brauche ich dieses Motorboot. Wenn du es mich nicht verwenden lässt, muss ich es gewaltsam nehmen, und das wird für einen von uns tödlich enden. Bitte, lass es nicht dazu kommen.}

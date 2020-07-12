@@ -12,7 +12,7 @@
 {110}{}{Vielleicht zu einer anderen Zeit? Mögen deine Reisen frei von Gefahr sein.}
 {111}{}{Danke. Tschüss.}
 {112}{}{Wie Schade. Dann Ruhe dich aus und sei willkommen in meinem Lager.}
-{113}{}{Danke. Tschüß.}
+{113}{}{Danke. Tschüss.}
 {114}{}{Mein Schattenangebot ist zu spät für dich. Die Sonne muss dir die Worte ausgekocht haben. 
  Ich muss freundlich zu denen sein, die weniger Glücklich sind als ich. Bleib in meinem Lager solange du willst, dusseliger Einer.}
 {115}{}{Tschüss.}

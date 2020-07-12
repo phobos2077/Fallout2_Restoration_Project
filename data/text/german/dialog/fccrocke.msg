@@ -55,7 +55,7 @@
 {154}{}{Diese Typen haben keine Ahnung von Wissenschaft. Ich unterstütze sie in dieser Extravaganz gegen ein wenig "Echtzeit" mit den Damen und ein saftiges Gehalt.}
 {155}{}{Hmm. Ich wollte noch mehr Fragen stellen.}
 {156}{}{Nicht übel. Bis dann.}
-{157}{}{Mal sehen... Ich habe einen Atomreaktor für das Raumschiff gebaut. Ich habe den Härteprozeß für die Powerrüstungen erfunden. Und ich repariere kaputte Sachen.}
+{157}{}{Mal sehen... Ich habe einen Atomreaktor für das Raumschiff gebaut. Ich habe den Härteprozess für die Powerrüstungen erfunden. Und ich repariere kaputte Sachen.}
 {158}{}{Ach so. Ich hätte noch ein paar Fragen.}
 {159}{}{Hmm. Muss los. Tschüss.}
 {160}{}{Hey, ich hab keinen Streit mit dir. Also tu mir nichts.}

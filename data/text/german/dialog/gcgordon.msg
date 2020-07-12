@@ -26,7 +26,7 @@
  wichtige Informationen über das Überleben von Gecko, aber niemand hört mir zu.}
 {151}{}{Was für Informationen?}
 {160}{}{Ich hab berechnet, wenn unser Reaktor richtig funktionieren würde, könnten wir einen
- riesigen Überschuß an Strom erzeugen, viel mehr als Gecko braucht.}
+ riesigen Überschuss an Strom erzeugen, viel mehr als Gecko braucht.}
 {161}{}{Und dann?}
 {170}{}{Nachdem du ja jetzt unser Atomkraftwerk repariert hast, stehn die Chancen gut, dass ich
  bekomm, was ich will - also mein Potential maximiere.}

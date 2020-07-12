@@ -176,7 +176,7 @@
 {651}{}{Toll, das ist ja 'ne große Hilfe. Hör mal, ich hab da noch ein paar Fragen zu Carlson...}
 {652}{}{Tja, das sollte reichen. Carlson ist ein toter Mann.}
 {660}{}{Nein, nichts in die Richtung... soweit ich weiß. Er ist ein paranoider Spinner, klar, aber ich glaub nich', dass er krank ist oder sowas. (Runzelt die Stirn.) Andererseits ist er schon ganz schön ALT, also kann er ja so gesund nicht sein.}
-{670}{}{(Starrt dich wütend an.) Er ist der Vizepräsident der NCR. Mach dir darum keine Sorgen... einfach ein gut platzierter Schuß, und schon nehmen sie Maß für seinen Sarg. Sieh einfach zu, dass du überhaupt dazu KOMMST, einen Schuß zu platzieren.}
+{670}{}{(Starrt dich wütend an.) Er ist der Vizepräsident der NCR. Mach dir darum keine Sorgen... einfach ein gut platzierter Schuss, und schon nehmen sie Maß für seinen Sarg. Sieh einfach zu, dass du überhaupt dazu KOMMST, einen Schuss zu platzieren.}
 {671}{}{Also gut. Ich hab da noch ein paar Fragen zu Carlson...}
 {673}{}{Der "Vizepräsident der NCR"? Vergiss es. Such dir jemand anderen... jemanden mit Todessehnsucht.}
 {680}{}{Hast du Carlson schon erledigt?}
@@ -250,13 +250,13 @@
 {835}{}{Tatsächlich? Ich glaube, du warst da. Ich glaube, du bist verantwortlich. }
 {836}{}{So wie ich das sehe, SCHULDEST du mir ordentlich was, Sippenkröte. Du musst für zwanzig arbeiten, um die Schuld zu begleichen. }
 {837}{}{Du übernimmst den Job, und vielleicht... sind wir dann quitt.}
-{838}{}{Nicht so, wie ich das sehe. Ich glaube, ein Gewehrschuß in deinen Kopf begleicht diese Schuld.}
+{838}{}{Nicht so, wie ich das sehe. Ich glaube, ein Gewehrschuss in deinen Kopf begleicht diese Schuld.}
 {840}{}{Die haben MICH angegriffen, Bishop. Ich schulde dir gar nichts, und ich mach nicht deine Schmutzarbeit. Verstanden?}
 {900}{}{Du hast die Aktentasche von Thomas Moore abgeliefert.}
 {925}{}{Du hast Westin ermordet.}
 {950}{}{Du hast Carlson umgelegt.}
 {975}{}{Du bist jetzt ein gemachter Mann in der Bishop-Familie.}
-{1805}{}{Ja... in der Öde gibt's 'n Gerücht, dass jemand, auf den deine Beschreibung paßt, geholfen hat diese Banditen südlich von Vault City zu erledigen. }
+{1805}{}{Ja... in der Öde gibt's 'n Gerücht, dass jemand, auf den deine Beschreibung passt, geholfen hat diese Banditen südlich von Vault City zu erledigen. }
 {1820}{}{Also bist du der durchtrieben Hurensohn, der ihren Führer überredet hat sie nicht mehr durch die Berge zu geleiten. Und es könnte gut sein, dass ich das nicht mag was du da gemacht hast.}
 {1836}{}{Ich sehe schon, du schuldest mir viel, Sippling. Ich mag Leute nicht, die ihre Nase in fremde Angelegenheiten hineinstecken. }
 {1840}{}{Ich schulde dir gar nichts, und ich denke nicht daran deine Schmutzarbeit zu erledigen. Verstanden?}

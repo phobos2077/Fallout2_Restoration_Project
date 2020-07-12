@@ -197,7 +197,7 @@
 {1349}{}{Gut, besten Dank. Entschuldige die Störung. [Ab.].}
 {1355}{}{ Die haben hier richtig was auf die Beine gestellt. Hier ist immer was los, wir sind das strahlende
  Juwel im Nachtleben von New Reno.}
-{1356}{}{ [Sieht dich mißtrauisch an.] Was dagegen einzuwenden? Wenn du nicht zum Spielen hier bist, bist du
+{1356}{}{ [Sieht dich misstrauisch an.] Was dagegen einzuwenden? Wenn du nicht zum Spielen hier bist, bist du
  an der falschen Adresse. Kapiert?}
 {1361}{}{. Ich steht auf deine Filme.}
 {1365}{}{Der da? Der alte McGee? Total durchgeknallt, der Typ...der steht schon seit Jahren an diesem Automat und wartet auf

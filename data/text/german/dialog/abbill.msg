@@ -35,7 +35,7 @@
 {224}{}{Na gut. Das Ding braucht 2 von unserer Sorte, um es zu tragen, also lass mich Dir helfen
  es für Deinen Freund hier anzupassen.}
 {225}{}{[Fertig]}
-{226}{}{Hey, es paßt genau!}
+{226}{}{Hey, es passt genau!}
 {300}{}{Ich könnte schon das eine oder andere wissen. Worüber möchtest du etwas erfahren?}
 {301}{}{Wie oft wirst du neu beliefert?}
 {302}{}{Stellen die Karawanen-Treiber auch Leute ein?}

@@ -259,13 +259,13 @@
 {13200}{}{Wand}
 {13300}{}{Wand}
 {13400}{}{Wand}
-{13500}{}{Abfluß}
-{13501}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluß empor. Nach einigen Augenblicken riecht es nicht mehr so übel.}
-{13600}{}{Abfluß}
-{13601}{}{Du kannst gerade so Bewegung hinter dem Abflußgitter erkennen. Du siehst rote Augen, die dich anstarren. Rattenaugen.}
-{13700}{}{Abfluß}
-{13701}{}{Gurgelnde Wassergeräusche kommen aus dem Abfluß. Und ein abscheulicher Geruch.}
-{13800}{}{Abfluß}
+{13500}{}{Abfluss}
+{13501}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluss empor. Nach einigen Augenblicken riecht es nicht mehr so übel.}
+{13600}{}{Abfluss}
+{13601}{}{Du kannst gerade so Bewegung hinter dem Abflussgitter erkennen. Du siehst rote Augen, die dich anstarren. Rattenaugen.}
+{13700}{}{Abfluss}
+{13701}{}{Gurgelnde Wassergeräusche kommen aus dem Abfluss. Und ein abscheulicher Geruch.}
+{13800}{}{Abfluss}
 {13801}{}{Gurgelnde Wassergeräusche kommen von jenseits des Abflusses. Und ein abscheulicher Geruch.}
 {13900}{}{Leiter}
 {13901}{}{Eine alte, ziemlich wacklige Leiter. Sieht aus, als würde sie dein Gewicht kaum aushalten.}
@@ -539,13 +539,13 @@
 {28300}{}{Waschbecken}
 {28301}{}{Ein kaputtes Porzellanwaschbecken. Im Becken befindet sich eine kleine Lache braunen Wassers, in der eine tote Ratte treibt.}
 {28400}{}{Waschbecken}
-{28401}{}{Dieses Waschbecken ist hinüber. Deutlich zu sehen am großen Riß in der Mitte.}
+{28401}{}{Dieses Waschbecken ist hinüber. Deutlich zu sehen am großen Riss in der Mitte.}
 {28500}{}{Waschbecken}
 {28501}{}{Ein kaputtes Porzellanwaschbecken. Im Becken befindet sich eine kleine Lache braunen Wassers, in der eine tote Ratte treibt.}
 {28600}{}{Stopschild}
 {28601}{}{Ein rotes Schild, auf dem in großen Druckbuchstaben STOP steht.}
 {28700}{}{Stopschild}
-{28701}{}{Ein rotes Schild, auf dem in großen Druckbuchstaben STOP steht. Das große Einschußloch wurde erst nachträglich hinzugefügt.}
+{28701}{}{Ein rotes Schild, auf dem in großen Druckbuchstaben STOP steht. Das große Einschussloch wurde erst nachträglich hinzugefügt.}
 {28800}{}{Ampel}
 {28801}{}{Dies ist ein altes Gerät zur Steuerung des Autoverkehrs.}
 {28900}{}{Ampel}
@@ -1125,9 +1125,9 @@
 {59000}{}{Schrott}
 {59001}{}{Metallschrott.}
 {59100}{}{Tisch}
-{59101}{}{Der Metalltisch scheint in gutem Zustand zu sein. In seiner Mitte ist ein Abfluß.}
+{59101}{}{Der Metalltisch scheint in gutem Zustand zu sein. In seiner Mitte ist ein Abfluss.}
 {59200}{}{Tisch}
-{59201}{}{Der Metalltisch scheint in gutem Zustand zu sein. In seiner Mitte ist ein Abfluß.}
+{59201}{}{Der Metalltisch scheint in gutem Zustand zu sein. In seiner Mitte ist ein Abfluss.}
 {59300}{}{Tisch}
 {59301}{}{Der Metalltisch ist mit einer Art Biomasse bedeckt.}
 {59400}{}{Tisch}
@@ -1240,7 +1240,7 @@
 {64901}{}{Der Gabelstapler ist nicht funktionsfähig.}
 {65000}{}{Ausrüstung}
 {65100}{}{Seziertisch}
-{65101}{}{Der Tisch ist sehr rostig. Der Abfluß in seiner Mitte ist verstopft.}
+{65101}{}{Der Tisch ist sehr rostig. Der Abfluss in seiner Mitte ist verstopft.}
 {65200}{}{Seziertisch}
 {65201}{}{Dieser Tisch ist sehr rostig.}
 {65300}{}{Tor}
@@ -3421,11 +3421,11 @@
 {227200}{}{Glowing Wall}
 {227300}{}{Glowing Wall}
 {227400}{}{Glowing Drain}
-{227401}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluß empor. Nach einigen Augenblicken riecht es nicht mehr so übel.}
+{227401}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluss empor. Nach einigen Augenblicken riecht es nicht mehr so übel.}
 {227500}{}{Glowing Drain}
 {227501}{}{You can barely make out some movement behind the grate covering this drain. You can see small green glowing eyes peering back at you. Rat eyes.}
 {227600}{}{Glowing Drain}
-{227601}{}{Gurgelnde Wassergeräusche kommen aus dem Abfluß. Und ein abscheulicher Geruch.}
+{227601}{}{Gurgelnde Wassergeräusche kommen aus dem Abfluss. Und ein abscheulicher Geruch.}
 {227700}{}{Glowing Drain}
 {227701}{}{Gurgelnde Wassergeräusche kommen von jenseits des Abflusses. Und ein abscheulicher Geruch.}
 {227800}{}{Grimy Bed}

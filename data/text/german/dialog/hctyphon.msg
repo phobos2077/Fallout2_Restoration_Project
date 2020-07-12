@@ -145,7 +145,7 @@
 {319}{}{Stell dir mal vor, du wärst in DIESEM Körper gefangen! Keine Action! Kein bisschen Action!}
 {320}{}{Vielleicht solltest du der Photosynthese mal eine Chance geben...}
 {321}{}{Ich kann nichts für meine evolutionären Wurzeln, du grüner Bastard!}
-{322}{}{Hoppla! Ich hoffe, dass du den biologischen Prozeß vorantreiben kannst!}
+{322}{}{Hoppla! Ich hoffe, dass du den biologischen Prozess vorantreiben kannst!}
 {323}{}{Mein Blätter! Meine armen Blätter! Aaaaah!}
 {324}{}{Mir gefällt es hier. Ich überlege mir, hier Wurzeln zu schlagen.}
 {325}{}{Okay, genug Pflanzenwitze für heute, Kumpel.}

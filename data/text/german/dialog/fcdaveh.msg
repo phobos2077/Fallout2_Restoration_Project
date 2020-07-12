@@ -90,7 +90,7 @@
 {188}{}{"Warum kann ich keine Multiuser-Verbindung herstellen?"}
 {189}{}{"Ich glaube, wir sollten das Interface wechseln, auch wenn dieses wunderbar funktioniert!"}
 {190}{}{"Warum kann ich auf meinem Monitor kein Schwert oder eine Motorsäge benutzen?"}
-{191}{}{"Ich müsste eigentlich zwei Schußwaffen haben. Warum kann ich nicht zwei Schußwaffen benutzen?"}
+{191}{}{"Ich müsste eigentlich zwei Schusswaffen haben. Warum kann ich nicht zwei Schusswaffen benutzen?"}
 {192}{}{"Das Interface auf meinem Terminal ist langsam und macht Geräusche. Ich glaube, das ist deine Schuld."}
 {193}{}{So in der Art.}
 {194}{}{Verstehe. Hört sich an, als könnte man viel Spaß mit diesen Leuten haben. Ich habe noch Fragen.}

@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen buckligen alten Mann.}
 {101}{}{Der altersschwache Greis stinkt nach Schweiß und vermutlich Urin. Er ist in zerrissene, schmutzige Lumpen gekleidet und trägt eine Schaufel.}
 {102}{}{Du siehst Tom.}
-{200}{}{[Der alte Mann schreckt überrascht auf, als er sieht, wie du dich näherst.] Äh, schau, ich muß wirklich gehen...}
+{200}{}{[Der alte Mann schreckt überrascht auf, als er sieht, wie du dich näherst.] Äh, schau, ich muss wirklich gehen...}
 {201}{}{Wart jetzt mal 'ne Minute. [Du packst den Mann am Arm als er gerade gehen will.] Wer bist du, und was machst du hier um diese Uhrzeit?}
 {202}{}{Was? Warum, eh... mein Name ist Tom. Kann ein alter Mann nicht einen nächtlichen Spaziergang unternehmen ohne belästigt zu werden?}
 {203}{}{Nicht, wenn er wie ein Dieb herumschleicht und eine Schaufel mitschleppt.}
@@ -9,7 +9,7 @@
 {205}{}{Whatever, I'm out of here.}
 {206}{}{Kein Problem. Entschuldige die Störung.}
 {207}{}{Du meinst das alte Teil? [Er streift die verrostete Schaufel in seiner Hand mit einem Blick.] Naja, äh, man weiß ja nie,
- wann man mal was findet, das man ausgraben muß. Allseits bereit sag ich immer.}
+ wann man mal was findet, das man ausgraben muss. Allseits bereit sag ich immer.}
 {208}{}{Was finden? Du meinst, was man in 'nem Grab so findet?}
 {209}{}{Das ist in der Tat ein gutes Motto. Ok, machs gut.}
 {210}{}{(Tom reißt die Augen auf) Ich bin nicht sicher was du, äh, meinst.}

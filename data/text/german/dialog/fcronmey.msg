@@ -21,12 +21,12 @@
 {120}{}{Was genau ist eigentlich die Enklave?}
 {121}{}{Wie bringt man dieses Ding in Gang?}
 {122}{}{Tschüss.}
-{123}{}{Wie man diesen Kahn steuert? Füll ihn mit Sprit - frag mal bei den Hubologen oder den Shi, wenn du alles andere erledigt hast - und drück auf den Knopf. Den Rest macht der Computer, falls er noch funktioniert. Er wird auf direktem Weg zur Bohrinsel schippern - falls ihn das alte U-Boot nicht in die Luft jagt. Aber zumindest musst du nicht befürchten dass die Enklave auf dich feuert, da du den IFF-Transponder hast. Du mußt nur dafür sorgen, dass du alles Nötige hast, um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
+{123}{}{Wie man diesen Kahn steuert? Füll ihn mit Sprit - frag mal bei den Hubologen oder den Shi, wenn du alles andere erledigt hast - und drück auf den Knopf. Den Rest macht der Computer, falls er noch funktioniert. Er wird auf direktem Weg zur Bohrinsel schippern - falls ihn das alte U-Boot nicht in die Luft jagt. Aber zumindest musst du nicht befürchten dass die Enklave auf dich feuert, da du den IFF-Transponder hast. Du musst nur dafür sorgen, dass du alles Nötige hast, um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
 {124}{}{Klar. Woher weißt du das alles?}
 {125}{}{Was ist ein IFF-Transponder und ein SHS?}
 {126}{}{Was für eine Bohrinsel?}
 {127}{}{Ja. Tschüss.}
-{128}{}{IFF: Identifiziere Freund oder Feind. Das bedeutet, dass dieses Schiff als Freund identifiziert wird und andere Poseidon-Stationen, wie zum Beispiel eine Bohrinsel, nicht auf dich feuern, wenn du in Schußweite kommst. Ach so, und ein SHS ist eine Art Technologie der Enklave, mit der du eine Tür elektronisch öffnen kannst. Wahrscheinlich wirst du einen in einer ihrer Basen finden.}
+{128}{}{IFF: Identifiziere Freund oder Feind. Das bedeutet, dass dieses Schiff als Freund identifiziert wird und andere Poseidon-Stationen, wie zum Beispiel eine Bohrinsel, nicht auf dich feuern, wenn du in Schussweite kommst. Ach so, und ein SHS ist eine Art Technologie der Enklave, mit der du eine Tür elektronisch öffnen kannst. Wahrscheinlich wirst du einen in einer ihrer Basen finden.}
 {129}{}{Woher weißt du das alles?}
 {130}{}{Was für eine Bohrinsel?}
 {131}{}{Danke. Tschüss.}
@@ -50,8 +50,8 @@
 {149}{}{Ach so. Also, wie soll ich das Ding noch mal steuern?}
 {150}{}{Danke. Tschüss.}
 {151}{}{Du hast einen großen Fehler gemacht, als du dich mit dem Kapitän und seinen Freunden angelegt hast...}
-{152}{}{Wie du diesen Kahn steuerst? Wie ich sehe, hast du ihn schon vollgetankt. Wenn du alles andere erledigt hast, mußt du nur auf den Knopf drücken. Den Rest macht der Computer, wenn er noch funktioniert. Er wird auf direktem Weg zur Bohrinsel schippern - falls ihn das alte U-Boot nicht in die Luft jagt. Aber zumindest musst du nicht befürchten dass die Enklave auf dich feuert, da du den IFF-Transponder hast. Du mußt nur dafür sorgen, dass du alles Nötige hast, um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
-{153}{}{Oh ja. Du mußt auch den Navigationscomputer funktionstüchtig machen. Ich wette du findest in den alten Vaults die Teile.}
+{152}{}{Wie du diesen Kahn steuerst? Wie ich sehe, hast du ihn schon vollgetankt. Wenn du alles andere erledigt hast, musst du nur auf den Knopf drücken. Den Rest macht der Computer, wenn er noch funktioniert. Er wird auf direktem Weg zur Bohrinsel schippern - falls ihn das alte U-Boot nicht in die Luft jagt. Aber zumindest musst du nicht befürchten dass die Enklave auf dich feuert, da du den IFF-Transponder hast. Du musst nur dafür sorgen, dass du alles Nötige hast, um zu allem Zugang zu erhalten: SHS, funktionsfähiger Computer und Benzin. Ist doch ganz einfach, oder?}
+{153}{}{Oh ja. Du musst auch den Navigationscomputer funktionstüchtig machen. Ich wette du findest in den alten Vaults die Teile.}
 {154}{}{Schön, dich wiederzusehen, Was brauchst du?}
 {155}{}{, und ich Wette, das deine Freunde auch dort sind.}
 {156}{}{.}

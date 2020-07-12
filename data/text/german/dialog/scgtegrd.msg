@@ -1,6 +1,6 @@
 {100}{}{Sieht ziemlich offiziell aus, denn er trägt eine Uniform mit NCR-Abzeichen.}
 {101}{}{Nur einer von der Stadtwache.}
-{102}{}{Mal sehen - harter Bursche, Waffe, Abzeichen, schußsichere Weste - hmm, könnte eine Wache
+{102}{}{Mal sehen - harter Bursche, Waffe, Abzeichen, schusssichere Weste - hmm, könnte eine Wache
  sein.}
 {103}{}{Willkommen in der NCR. Nur um das gleich mal klarzustellen: Wenn du eine Waffe hast, lass
  sie stecken. In dieser Stadt wird nicht mit Kanonen rumgefuchtelt, Fremdling.}

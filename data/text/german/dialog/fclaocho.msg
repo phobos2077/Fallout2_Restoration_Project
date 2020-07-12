@@ -85,10 +85,10 @@
 {220}{}{Ich meine, dass das Stück Schrott älter ist, als die meisten Ghuls. Es wäre ein Wunder, wenn es nicht mit dir sinken würde. Das ist alles, was ich damit sagen wollte.}
 {221}{}{Ich habe das Gefühl, da ist irgendetwas, das du mir nicht über den Tanker erzählt hast.}
 {230}{}{Möglicherweise. (Lächelt) Möglicherweise hat dich das Ödland auch paranoid gemacht.}
-{231}{}{Hör mal, ich muß meinen Stamm finden. Die Bastarde, die sie entführt haben, sind gefährlich und müssen gestoppt werden.}
+{231}{}{Hör mal, ich muss meinen Stamm finden. Die Bastarde, die sie entführt haben, sind gefährlich und müssen gestoppt werden.}
 {232}{}{Komm schon. Was ist so Besonderes an dem Tanker? Wir sind nur zwei Menschen die sich unterhalten.}
 {233}{}{Bist du sicher? Ich werde mich für deine Mühe besonders revanchieren.}
-{234}{}{Ich habe keine Zeit für solche Psychospielchen. Tschüß.}
+{234}{}{Ich habe keine Zeit für solche Psychospielchen. Tschüss.}
 {240}{}{Pah. Die sind unbedeutend. Wie auch immer, es ist nicht der Tanker, der ungewöhnlich ist. Er ist so wie du gesagt hast, bloß ein großer rostiger Tanker. Unser U-Boot, andererseits...}
 {241}{}{U-Boot?}
 {250}{}{Dann unterhalten wir uns. Aber es gibt nichts Besonderes an dem Tanker. Ich gebe dir mein Wort.}
@@ -120,7 +120,7 @@
 {350}{}{Oh doch. Ich finde dich einfach nicht sehr attraktiv. Vielleicht wenn ich betrunken bin.}
 {351}{}{Du bist offenbar blind. Wie auch immer. Es ist dein Schaden.}
 {360}{}{Was schlägst du vor? Ahh... nun, ich steck in diesem Laden schon ziemlich lange fest. Im Tausch dafür von den Reizen deiner Freundin kosten zu dürfen, werde ich dir alles erzählen, was ich weiß.}
-{361}{}{Miria, Liebling... ich schätze, du mußt, ähm, diesem Kerl ein paar Informationen rausstoßen.}
+{361}{}{Miria, Liebling... ich schätze, du musst, ähm, diesem Kerl ein paar Informationen rausstoßen.}
 {362}{}{Ich hab nur Spaß gemacht, alter Mann. Wie wenn ich dir meine Frau überlassen würde... ich werd jetzt gehen.}
 {370}{}{[Du wartest draußen und hörst leises Stöhnen aus dem Inneren des Fliegenden 8. Drachen. Stunde um Stunde vergeht. Du klopfst an die Tür und rufst: "Beeilt euch da drin!" Schließlich endet das Gestöhne mit einem Urschrei.]}
 {371}{}{[Du hämmerst an die Tür.] Hallo, was macht ihr zwei da drin!?}

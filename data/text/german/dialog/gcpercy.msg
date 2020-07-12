@@ -26,7 +26,7 @@
 {118}{}{Hm, eigentlich nichts, ich hab mich bloß umgesehen. Guten Tag.}
 {119}{}{Tauschen?}
 {120}{}{Gut? Ja ja, Tag auch.}
-{121}{}{Wollte Dir dafür nur gratulieren, dass Du unseren Atomreaktor wieder so toll in Schuß
+{121}{}{Wollte Dir dafür nur gratulieren, dass Du unseren Atomreaktor wieder so toll in Schuss
  gebracht hast. Schnurrt wieder wie ein Kätzchen. Tja, da ist noch was. Mein Freund Woody ist
  verschwunden.}
 {122}{}{Muss mich bei Dir bedanken dafür, dass Du unseren Atomreaktor repariert hast. Der verdammte

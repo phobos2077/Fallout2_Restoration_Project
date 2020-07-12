@@ -2,9 +2,9 @@
 {101}{}{Seine Kleider sind zerrissen und schmutzig. Er hat viele Kratzer auf seinen Armen und Beinen.}
 {150}{}{Wau! Wau. Wau.}
 {151}{}{Äh, bist du in Ordnung?}
-{152}{}{Äh, richtig. Tschüß.}
+{152}{}{Äh, richtig. Tschüss.}
 {153}{}{Ich glaube, ich habe etwas gefunden, dass deinen Zustand verbessern kann.}
-{154}{}{Hmm... scheinbar leidest du unter einer neurologischen Störung, vielleicht Epilepsie. Leider kann ich nichts für dich tun. Tschüß.}
+{154}{}{Hmm... scheinbar leidest du unter einer neurologischen Störung, vielleicht Epilepsie. Leider kann ich nichts für dich tun. Tschüss.}
 {160}{}{Wau. Wau wau. Wau.}
 {250}{}{Grrr!}
 {251}{}{Grrrrrr!}

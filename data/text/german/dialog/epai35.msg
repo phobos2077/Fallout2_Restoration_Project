@@ -13,7 +13,7 @@
 {220}{}{[Ein Wohnzimmer materialisiert sich um DR. Caleb herum, in dem eine Familie
  sich entspannt auf den Abend vorbereitet. Dr. Caleb legt seine Hand auf den Kopf
  eines Hundes und lächelt Dich an.] Vater raucht seine Pfeiffe, Mutter liest in ihrem
- Kochbuch während der kleine Billy und Susi noch ein bißchen fernsehen vor dem
+ Kochbuch während der kleine Billy und Susi noch ein bisschen fernsehen vor dem
  Zubettgehen. Sie glauben, dass alles in Ordnung ist. Sie ignorieren die heulenden
  Sirenen, glauben, es sein nur eine weitere Übung. Oh, aber was ist das?}
 {221}{}{[Mehr]}
@@ -28,14 +28,14 @@
 {240}{}{Das stimmt. Im Falle eines Nuklearkriegs, möchten Sie, dass Ihre Familie sicher
  ist, im Schutz eines Vault-Tec Bunkers. Vault-Tec hat 122 öffentliche Bunker,
  überall über unser großartiges Land verteilt, errichtet, so dass sich einer sicher auch
- in Ihrer Nachbarschaft befinden müßte. Wie Sie sich sicher vorstellen können, sind
+ in Ihrer Nachbarschaft befinden müsste. Wie Sie sich sicher vorstellen können, sind
  die Plätze nur sehr eingeschränkt verfügbar, so dass Sie Ihre Plätze noch heute
  reservieren sollten, um *Ihre* Familie nicht enden zu sehen, wie die Johnsons hier.
  [Dr. Caleb tätschelt den Kopf des Hundeskeletts. Dessen Schädel löst sich vom
  Torax und fällt auf den Boden. Ein Staubsaugerroboter schwebt herbei und saugt
  die Skelettreste auf.}
 {241}{}{[Mehr]}
-{250}{}{Sieht aus, als ob Mr. Handy dieses Stück (Film) rausschneiden muß, um *diesen*
+{250}{}{Sieht aus, als ob Mr. Handy dieses Stück (Film) rausschneiden muss, um *diesen*
  Schlamassel beseitigen zu können. [Dr. Caleb lacht als das Bild verschwindet und
  durch einen Text ersetzt wird.]: Danke fürs Zuschauen. Dieses Lernvideo wurde
  Ihnen präsentiert von den netten Leuten bei Vault-Tec. Vault-Tec, Amerikas

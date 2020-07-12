@@ -23,7 +23,7 @@
  der alte Sammy den Job bekommen. Es ist nicht so schlecht, wie man denken könnte. Es hat seine...
  Vorteile, wenn du weißt, was ich meine. [Er grinst schief und wackelt mit seinen
  buschigen Augenbrauen in deine Richtung.]}
-{401}{}{Nein, Ich weiß nicht, was du meinst und ich will es auch gar nicht wissen. Tschüß.}
+{401}{}{Nein, Ich weiß nicht, was du meinst und ich will es auch gar nicht wissen. Tschüss.}
 {402}{}{Nein, Ich weiß nicht, was du meinst. Aber ich glaube, ich frag dich lieber nach
  was anderem.}
 {403}{}{Nein, ich weiß nicht was du meinst, aber ich bin krankhaft neugierig...}
@@ -46,12 +46,12 @@
 {504}{}{Das kann ich mir vorstellen, man sieht sich Samuel.}
 {505}{}{Alles klar, ich muss jetzt los.}
 {600}{}{Hmm... *hicks* lass mich eine Minute überlegen. Ja, ich hätte da etwas, wenn du noch Interesse hast.}
-{601}{}{Ah, nichts für ungut Samuel. Ich muß jetzt los.}
+{601}{}{Ah, nichts für ungut Samuel. Ich muss jetzt los.}
 {602}{}{Sicher, was brauchst du?}
 {603}{}{Ja, die letzten Tage hab ich *hicks* gemerkt, dass einige dieser Gräber geöffnet wurden.
  Wer immer das tut, es sieht nicht so aus, als würde er weit damit kommen. Aber es *hicks* es tut mir weh, die Gräber immer wieder auffüllen zu müssen.}
 {604}{}{Hmm, hast du mal versucht herauszufinden, wer das getan hat?}
-{605}{}{Sicher *hicks* hab ich's versucht. Eines Nachts hab ich bis Mitternacht gewartet, aber keiner ist aufgetaucht. Kurz danach muß ich wohl eingenickt sein.
+{605}{}{Sicher *hicks* hab ich's versucht. Eines Nachts hab ich bis Mitternacht gewartet, aber keiner ist aufgetaucht. Kurz danach muss ich wohl eingenickt sein.
  Hab wohl zu viel gesoffen, schätze ich. [Er grinst, kramt seinen Flachmann raus und nimmt einen kräftigen Schluck.] Also, was *hicks* sagst du? Hilfst du mir dabei?}
 {606}{}{In Ordnung, ich schau mal was ich tun kann. Weißt du noch irgendwas, was mir helfen könnte?}
 {607}{}{Achja, jetzt wo du's sagst. Ich erinnere mich *hicks* Mr. Peterson sagen zu hören, dass er irgendwelche Geräusche aus seinem Feld gehört hat. Vielleicht weiß er was über die Sache. Er und seine hübsche kleine Frau wohnen da drüben. [Er zeigt auf das Gebäude südlich vom Friedhof.]}
@@ -60,7 +60,7 @@
 {700}{}{Ich habe dein Problem mit den Gräbern gelöst. Du solltest jetzt deine Ruhe haben.}
 {701}{}{Nun, das sind *hicks* gute Nachrichten. Ich bin froh nicht mehr in diese verdammten Gräber zu fallen. *hicks* Danke für deine Hilfe. *Rülps*}
 {702}{}{Freut mich, dass ich helfen konnte. Ich hab noch ein paar Fragen.}
-{703}{}{Ok, paß auf dich auf.}
+{703}{}{Ok, pass auf dich auf.}
 {704}{}{Ich denke nicht, dass die offenen Gräber der Grund sind, warum du dich immer auf die Fresse legst. Machs gut.}
 {1000}{}{*pfeift*}
 {1001}{}{*Hust* *Hust*}

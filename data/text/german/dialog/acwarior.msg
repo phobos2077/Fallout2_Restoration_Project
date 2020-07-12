@@ -26,7 +26,7 @@
 {173}{}{Uhn Ga.}
 {174}{}{ Gute Reise, dummes Wesen - um unser Willen.}
 {175}{}{????}
-{176}{}{Du verrätst uns, also mußt du sterben.}
+{176}{}{Du verrätst uns, also musst du sterben.}
 {177}{}{Ein Verräter am eigenen Volk!}
 {178}{}{Warum tust du das?}
 {179}{}{Tod allem Bösen!}

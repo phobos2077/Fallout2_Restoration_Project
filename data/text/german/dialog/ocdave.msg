@@ -20,7 +20,7 @@
  Veranda fallengelassen. Als ich zwei war, hatte ich Lungenentzündung. Mit drei hatte ich die
  Windpocken. Mit vier fiel ich die Treppen runter und brach mir sechs Rippen. Als ich fünf war,
  wurde mein Onkel geköpft. Als ich sechs war schlugen mich meine Eltern mit einer Schaufel auf
- den Kopf. Mit sieben biß mir meine Ratte den rechten Zeigefinger ab.}
+ den Kopf. Mit sieben biss mir meine Ratte den rechten Zeigefinger ab.}
 {117}{}{Äh, ich höre jemanden rufen. Tschüss.}
 {118}{}{Mir leid tun, dass alles schlecht.}
 {119}{}{Vergangenheit schlecht, nicht reden. Jetzt gut?}

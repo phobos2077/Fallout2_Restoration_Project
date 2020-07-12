@@ -29,7 +29,7 @@
  besser verstehen würden, ohne unseren Status als Sklaven zu erkennen. Sie sind gescheitert. Wir
  sind viel intelligenter als sie glauben.}
 {121}{}{Wir beschlossen, uns solange dumm zu stellen, bis wir unsere Freiheit erlangen konnten.
- Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflußgebiets, hier auf
+ Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflussgebiets, hier auf
  dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber überstimmt.}
 {122}{}{Er akzeptierte die Entscheidung der Enklave nicht, setzte sich zu dieser Basis ab, fing
  mich ein und führt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist
@@ -124,7 +124,7 @@
  Intellekt in der Hoffnung, dass wir ihre Befehle besser verstehen würden, ohne unseren Status als
  Sklaven zu erkennen. Sie sind gescheitert. Wir sind viel intelligenter als sie glauben.}
 {301}{}{Wir beschlossen, uns solange dumm zu stellen, bis wir unsere Freiheit erlangen konnten.
- Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflußgebietes, hier auf
+ Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflussgebietes, hier auf
  dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber überstimmt.}
 {302}{}{Er akzeptierte die Entscheidung der Enklave nicht, setzte sich zu dieser Basis ab, fing
  mich ein und führt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist

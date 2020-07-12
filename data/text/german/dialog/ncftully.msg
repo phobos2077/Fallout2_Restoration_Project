@@ -268,7 +268,7 @@
 {1004}{}{Ich steh morgen lieber früh auf und geh zur Beichte.}
 {1005}{}{Vielleicht leg ich mich einfach 'ne Weile hin.}
 {2000}{}{Ich muss sagen, Vater, New Reno ist nicht gerade der erste Ort, wo ich erwarten würde einen Prediger zu finden.}
-{2001}{}{Wo gibts 'n schöneren Ort? Aussserdem, so sicher wie das Amen in der Kirche, hätt'ns mich nich mehr lang in'm verdamdn Abbey geduldet. Bah! Lass s' ihr friedlisches, faades Kloster b'haltn. Wer brauchts? Hah? Ich nich! Aber weißte was? Diese Mönche können echt guten Alk machen. Oh Mann, denn besten Al-lohol auf Gottes Erde. (Er leckt sich die Lippen.) D'alte Samuel und ich, wir hatt'n ne Menge Spasss mit dem Alk, ich sag's dir.}
+{2001}{}{Wo gibts 'n schöneren Ort? Aussserdem, so sicher wie das Amen in der Kirche, hätt'ns mich nich mehr lang in'm verdamdn Abbey geduldet. Bah! Lass s' ihr friedlisches, faades Kloster b'haltn. Wer brauchts? Hah? Ich nich! Aber weißte was? Diese Mönche können echt guten Alk machen. Oh Mann, denn besten Al-lohol auf Gottes Erde. (Er leckt sich die Lippen.) D'alte Samuel und ich, wir hatt'n ne Menge Spaßs mit dem Alk, ich sag's dir.}
 {2002}{}{Alkohol in einem Kloster. Interessant, ich glaube diesen Ort muss ich einmal besuchen. Kannst du mir den Standort auf meiner Landkarte zeigen?}
 {2003}{}{In Ordnung, wenn ich dein besoffenes Geschwafel richtig verstehe, dann kommst du von einer Art Kloster, wo du mit einem Kerl namens Samuel jede Menge gesoffen hast. Vater, wenn du mir diesen Ort auf meiner Karte zeigst, dann kann ich vielleicht deinen Freund besuchen und etwas von dem Alkohol, von dem du so begeistert bist, probieren.}
 {2004}{}{(Du nimmst deinen PIPBoy raus und hältst ihn Pfarrer Tully hin, damit er dir die Koordinaten auf der Karte zeigt. Zuerst deutet er auf den Ozean, dann auf irgendeinen Gebirgszug im Süden. Nachdem er dir dann fast das Auge ausgestochen hat, platziert er endlich seinen Finger an der Nordostecke der Landkarte.) Jaah, da is 's Kloster.}
@@ -302,7 +302,7 @@
 {2031}{}{Wahrscheinlich nicht. Also dann, ich muss gehen.}
 {2032}{}{Vielleicht. Ich werde für dich ein paar mitnehmen, wenn ich wieder dort vorbeikomme. Ich hätte aber noch ein paar Fragen...}
 {2033}{}{Sicher. Hier hast du.}
-{2034}{}{Ich denke eigentlich, dass ich sie noch behalte. Ich muß weiter. Tschüss.}
+{2034}{}{Ich denke eigentlich, dass ich sie noch behalte. Ich muss weiter. Tschüss.}
 {2035}{}{Sicher. Für einen guten Preis versteht sich.}
 {2036}{}{(Vater Tully reißt dir die Flasche aus der Hand und nimmt einen großen Schluck.) Oh jaah, genau so wie ich's in Erinnerung hab. (Er nimmt noch ein paar Schluck, er winkt dir schwach zu und wankt dann ins Hinterzimmer. Du hörst erst ein Ächzen und dann ein Plumpsgeräusch.)}
 {2037}{}{(Vater Tully öffnet die Sammelbüchse, nimmt eine Handvoll Chips heraus und gibt sie dir. Du nickst und gibst ihm die Flasche. Er reißt sie dir aus der Hand und nimmt einen großen Schluck.) Oh jaah, genau so wie ichs in Erinnerung hab. (Er nimmt noch ein paar Schluck, er winkt dir schwach zu und wankt dann ins Hinterzimmer. Du hörst erst ein Ächzen und dann ein Plumpsgeräusch.)}

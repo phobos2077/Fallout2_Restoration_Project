@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen von Bishops Männern.}
-{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schußwunden bedecken seinen Körper.}
+{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schusswunden bedecken seinen Körper.}
 {151}{}{Du siehst einen von Bishops Männern. Er beobachtet die Gegend und fingert an seiner Waffe herum.}
 {200}{}{Hey! }
 {201}{}{::Gut gemacht::}

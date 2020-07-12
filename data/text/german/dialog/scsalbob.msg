@@ -58,7 +58,7 @@
 {137}{}{Nein.}
 {138}{}{Lass mich in Ruhe, du stinkender alter Zausel!}
 {139}{}{Hee, hee, hee! Jetzt gehört's mir, Kumpel. Da musst du dir wohl was Eigenes suchen!}
-{140}{}{Der Boss lässt mich hier wohnen. Ich halte diesen ganzen Stall in Schuß. Ich mach 'n
+{140}{}{Der Boss lässt mich hier wohnen. Ich halte diesen ganzen Stall in Schuss. Ich mach 'n
  bisschen sauber, seh zu, dass hier alles seine Ordnung hat.}
 {141}{}{Pökel? Was ist das denn für ein komischer Name?}
 {142}{}{Freut mich. Ich bin}

@@ -33,7 +33,7 @@
 {132}{}{Und Franc kannst du wohl gut leiden, was?}
 {133}{}{Tschüss.}
 {134}{}{Was weißt du Trottel schon? Hau bloß ab hier, bevor dir was passiert!}
-{135}{}{Ganz früher gab es auch jemanden, der wollte, dass wir uns alle unsre eigenen Gedanken machen. Meine Eltern sagen, dass er mit uns verwandt war. Er ist dann im Gefängnis gestorben, aber er hatte echt großen Einfluß auf mich. Die Leute sagen, dass er ganz schön helle war und da haben sie bestimmt recht. Schau mich doch erst an!}
+{135}{}{Ganz früher gab es auch jemanden, der wollte, dass wir uns alle unsre eigenen Gedanken machen. Meine Eltern sagen, dass er mit uns verwandt war. Er ist dann im Gefängnis gestorben, aber er hatte echt großen Einfluss auf mich. Die Leute sagen, dass er ganz schön helle war und da haben sie bestimmt recht. Schau mich doch erst an!}
 {136}{}{Ähhmm... ja wirklich. Wenn man dich so betrachtet...}
 {137}{}{Du? Helle? Ha!}
 {138}{}{Na klar. Tschüss dann.}

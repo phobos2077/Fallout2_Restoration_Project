@@ -116,7 +116,7 @@
 {215}{}{Der Rancher, was? Der kam hier irgendwann mal rein, kurz vorm Abnippeln. Der Doktor aus der Stadt musste mit irgendwelchen Tabletten anrücken - Westin hat's wohl mit dem Herzen. Das Geschäft ging ziemlich schlecht für den Rest des Abends.}
 {216}{}{Danke für die Info. Ich hätte da noch ein paar weitere Fragen.}
 {217}{}{Das ist alles, was ich wissen wollte.}
-{218}{}{Als rechtschaffener Bürger begrüße ich Carlsons Widerstand gegen die Einflußnahme durch New Reno in dieser Gegend. Nachdem Westin nun tot ist, unterstütze ich den Vizepräsidenten hier und da in wenig in Sicherheitsfragen.}
+{218}{}{Als rechtschaffener Bürger begrüße ich Carlsons Widerstand gegen die Einflussnahme durch New Reno in dieser Gegend. Nachdem Westin nun tot ist, unterstütze ich den Vizepräsidenten hier und da in wenig in Sicherheitsfragen.}
 {219}{}{Sieht wohl so aus, als würde ich dem Mann nie begegnen. Ich hab schon eine Menge über ihn gehört.}
 {220}{}{Das ist alles, was ich wissen wollte.}
 {221}{}{War's das?}

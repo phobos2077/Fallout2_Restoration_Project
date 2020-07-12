@@ -25,7 +25,7 @@
 {121}{}{Mag schon sein. Aber ich lass mir von Gesocks wie dir trotzdem nichts sagen.}
 {122}{}{Wir können das nicht zulassen.}
 {123}{}{Tu, was du nicht lassen kannst.}
-{124}{}{Du hast denen das einfach so geglaubt? Da mußt du aber noch einiges über das Leben
+{124}{}{Du hast denen das einfach so geglaubt? Da musst du aber noch einiges über das Leben
  lernen, mein Freund.}
 {125}{}{Kann ich euch denn irgendwie helfen?}
 {126}{}{Die Jungs aus Vault City sind ziemliche Feiglinge. Wenn du denen ein bisschen Angst
@@ -111,7 +111,7 @@
  ihr unnötigerweise eure Leben. Aber wenn ich nur einen im Stadtrat
  von Vault City überzeugen kann, dann können wir eine friedliche Lösung erreichen.}
 {218}{}{Hmm... Na gut, ich denke du meinst es gut. Wenn du wirklich denkst, dass du einen der Stadträte überzeugen kannst,
- mußt du auf jeden Fall einen Versuch wagen. Allerdings solltest du mit Old Joe sprechen und dir seine Meinung anhören.
+ musst du auf jeden Fall einen Versuch wagen. Allerdings solltest du mit Old Joe sprechen und dir seine Meinung anhören.
  Du findest ihn in der Nähe der Bar im Vorhof. Viel Glück. Wir zählen auf dich.}
 {220}{}{Ein weiterer herzloser Opportunist, ich hätte es wissen müssen. Um deinesgleichen zu entkommen, haben wir diese Gemeinschaft gegründet. Weißt du was? Vergiss es. Wir brauchen keine Hilfe von jemandem wie dir. Ich schlage vor, dass du jetzt gehst.}
 {221}{}{Ein weiterer herzloser Opportunist, ich hätte es wissen müssen. Um deinesgleichen zu entkommen, haben wir diese Gemeinschaft gegründet. [Er seufzt.] Gut, wir legen noch $1.000 extra drauf, aber jetzt sind wir pleite. Gibst du uns jetzt die Waffen?}

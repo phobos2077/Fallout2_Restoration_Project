@@ -18,7 +18,7 @@
  nehmen und an AHS-9 weiterleiten. Kann ich jetzt wieder an meine Arbeit, Felgenfleisch?}
 {118}{}{Sicher.}
 {119}{}{Du bist keiner von uns und daher nicht befugt, hier zu sein. Es sei denn, du hast vor,
- dich uns anzuschlieﬂen. In diesem Fall muﬂt du zu AHS-7 gehen und ihm deinen Wunsch vortragen.
+ dich uns anzuschlieﬂen. In diesem Fall musst du zu AHS-7 gehen und ihm deinen Wunsch vortragen.
  Er hat gerade Wache. Also gehst du jetzt entweder runter zu ihm, oder du verschwindest hier,
  klar?!}
 {120}{}{OK, OK. Kein Grund, bissig zu werden.}

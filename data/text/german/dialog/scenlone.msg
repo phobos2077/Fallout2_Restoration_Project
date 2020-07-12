@@ -54,7 +54,7 @@
 {153}{}{Damit kann ich dir nicht dienen. Aber unsere Wissenschaftler in San Francisco können dir vielleicht weiterhelfen. Du solltest dorthin gehen.}
 {154}{}{Durch Reinigung der Neurodyne, die für deinen unterdrückten Zustand verantwortlich sind. Nur dann kannst du zur Erleuchtung finden!}
 {155}{}{Neurodyne sind die psychischen Zentren des Körpers. Sie werden von den geistigen Überresten der Opfer des Krieges verunreinigt. Ihre Psi-Energien prägen sich bei der Geburt unseren Neurodynen auf und sind dafür verantwortlich, dass wir im Zustand der Unterdrückung verharren. Durch die Ausrichtung wird diese Aufprägung aufgehoben.}
-{156}{}{Solange die chemischen Verhältnisse in deinem Gehirn unter dem Einfluß von negativer psychischer Energie stehen, wird dein wahres geistiges Potential unterdrückt. Und was noch schlimmer ist: Repressive können diese Energie übertragen, es sei denn, man ist extrem stark.}
+{156}{}{Solange die chemischen Verhältnisse in deinem Gehirn unter dem Einfluss von negativer psychischer Energie stehen, wird dein wahres geistiges Potential unterdrückt. Und was noch schlimmer ist: Repressive können diese Energie übertragen, es sei denn, man ist extrem stark.}
 {157}{}{Die Erleuchtung tritt ein, wenn alle deine Neurodyne angeglichen sind. Dann wirst du zum AHS, zum Ausgerichteten Hub-Sucher und erreichst damit das höchste Ziel aller Hubologen.}
 {158}{}{Neurodyne?}
 {159}{}{Erleuchtet?}
@@ -83,7 +83,7 @@
 {182}{}{Wenn man nicht einmal sein eigenes Leben in der Hand hat, wo bleibt dann der Sinn? Nichts von dem, was du tust, hat irgendeinen Wert. Hast du dich heute morgen dafür entschieden aufzustehen? Nein, du bist nichts als eine Marionette deiner eigenen Philosophie. Wir hingegen, die Kirche der Hubologen, kennen die wahre Antwort.}
 {183}{}{Und die wäre?}
 {184}{}{Aber klar doch.}
-{185}{}{Oh, was für eine traurige und leere Philosophie! Selbst wenn sie stimmt: Das einzige, was dir bleibt, ist, dich zu entwickeln. Das ist das einzige, worauf du Einfluß hast. Die Kirche der Hubologen kann dir dabei helfen.}
+{185}{}{Oh, was für eine traurige und leere Philosophie! Selbst wenn sie stimmt: Das einzige, was dir bleibt, ist, dich zu entwickeln. Das ist das einzige, worauf du Einfluss hast. Die Kirche der Hubologen kann dir dabei helfen.}
 {186}{}{Wie?}
 {187}{}{Oh, geh mir aus den Augen.}
 {188}{}{Vault 13? Unsere Wissenschaftler suchen irgendwo im Osten danach. Das ist alles, was ich weiß. Bist du dir sicher, dass du keine Ausrichtung möchtest?}

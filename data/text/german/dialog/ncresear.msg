@@ -68,7 +68,7 @@
 {345}{}{Hmmmm. Na gut. Dann erklär ich dir mal kurz, was wir hier machen: Wir testen Wirkungsweise und Stärke eines Methamphetamins namens Jet.}
 {346}{}{Verstehe. Und wie kommt ihr mit der Forschung vorwärts?}
 {347}{}{Ja, das verstehe ich glaube ich. Ich seh mir den restlichen Testbereich selber an.}
-{355}{}{Nicht so gut. Unser Zeitplan ist sehr knapp und wir müssen den Herstellungsprozeß für Jet bald neu aufbereiten.}
+{355}{}{Nicht so gut. Unser Zeitplan ist sehr knapp und wir müssen den Herstellungsprozess für Jet bald neu aufbereiten.}
 {356}{}{Warum? Jet macht doch auch jetzt schon abhängig genug.}
 {357}{}{Warum ist der Zeitplan so knapp?}
 {358}{}{Klingt nach einem harten Job. Moment mal, ich muss mich eben um etwas kümmern - bin gleich zurück.}

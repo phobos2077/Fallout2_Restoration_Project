@@ -48,7 +48,7 @@
 {147}{}{[Er lächelt] Du wirst es nicht bereuen. Du darfst dich auf dem Gelände frei bewegen. Oh...du bist jemand, der mit Waffen umgehen kann. Würdest du deine Waffen in den Dienst des Großen Rades stellen?}
 {148}{}{Ja.}
 {149}{}{Vielleicht später.}
-{150}{}{Zögere nicht zu lange mit deiner Antwort. Bis wir mit dem Säuberungsprozeß beginnen können, werden deine Neurodyne immer weiter verschmutzt.}
+{150}{}{Zögere nicht zu lange mit deiner Antwort. Bis wir mit dem Säuberungsprozess beginnen können, werden deine Neurodyne immer weiter verschmutzt.}
 {151}{}{Ich habe meine Meinung geändert. Ich trete bei.}
 {152}{}{Alles klar. Wir sprechen uns später noch.}
 {153}{}{Du darfst dieses Gelände unbeschadet verlassen, Fremdling, aber ich rate dir, komm nie wieder zurück. Wenn du nicht mit uns reist, dann bist du gegen uns - und ich würde dich nur ungern verletzt sehen.}

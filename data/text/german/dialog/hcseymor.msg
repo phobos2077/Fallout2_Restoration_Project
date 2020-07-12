@@ -86,7 +86,7 @@
 {158}{}{Oh.}
 {159}{}{In der Tat ein guter Tag.}
 {160}{}{Oooh... die Erde fühlt sich hier so anders an. Irgendwie sauberer. Vielleicht, weil ich
- sie nicht mit all den anderen Pflanzen teilen muß. Ahhh. Uh! Ja! Sollte dir jemals der
+ sie nicht mit all den anderen Pflanzen teilen muss. Ahhh. Uh! Ja! Sollte dir jemals der
  Professor mit seinem Skorpion über den Weg laufen, dann erinnere dich an diesen Trick: er heißt
  Angriff der Fliegenden Leber und der Skorpion kommt nicht dagegen an.}
 {161}{}{Danke!}

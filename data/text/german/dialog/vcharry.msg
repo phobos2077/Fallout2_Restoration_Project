@@ -36,7 +36,7 @@
 {135}{}{Nicht mein Bier. Hör mal, mein Geschäft ist jetzt schon schwierig genug. Wenn jemand rauskriegt, dass ich Connar mit Waffen versorge, wirds ziemlich schnell echt hässlich. Und nebenbei, ich hab ihm schon Rabatt gegeben.}
 {136}{}{Schau, ich riskier meinen Hals . . . Ah, zum Teufel damit, ich hab keine Zeit zum diskutieren. Nimm sie einfach. [Er steckt schnell dein Geld ein.] Jetzt geh mir aus den Augen. Und vergiss nicht, du hast sie nicht von mir gekauft.}
 {137}{}{Sehr gut. Aber denk immer daran, die Waffen hast du nicht von mir.}
-{138}{}{Das ist ein Deal. Tschüß.}
+{138}{}{Das ist ein Deal. Tschüss.}
 {139}{}{[Mehr]}
 {140}{}{Okay, warte etwas und ich besorg das Geld.}
 {141}{}{Hast du das Geld dabei?}

@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen von Bishops Bodyguards.}
-{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schußwunden bedecken seinen Körper.}
+{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schusswunden bedecken seinen Körper.}
 {151}{}{Du siehst einen von Bishops Bodyguards. Er beobachtet die Gegend und fingert dabei an seiner Waffe rum.}
 {200}{}{Hey! }
 {201}{}{! Was 'ne Art, der Enklave eins überzuziehen!}

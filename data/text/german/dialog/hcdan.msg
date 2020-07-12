@@ -17,7 +17,7 @@
 {113}{}{Erkennst du etwa das Auserwählte Wesen nicht?}
 {114}{}{Nein.}
 {115}{}{Was geht dich das an?}
-{116}{}{Ich frage ja nur, weil meine Frau vermißt ist. Ich weiß nicht, wo sie ist. Sie ist schon
+{116}{}{Ich frage ja nur, weil meine Frau vermisst ist. Ich weiß nicht, wo sie ist. Sie ist schon
  seit Tagen weg. Ich hab in der Stadt herumgefragt, aber niemand hat sie gesehen. Kannst du sie
  nicht für mich finden?}
 {117}{}{Wieviel ist für mich drin?}
@@ -30,7 +30,7 @@
 {124}{}{Ich hab nein gesagt!}
 {125}{}{Schon gut, schon gut, lass mich nur in Ruhe.}
 {126}{}{Hier ist das Geld. Und jetzt find BITTE meine Frau und sag mir, wo sie ist. Vielleicht
- hat sie sich mit einem anderen eingelassen und hat mich verlassen...aber ich muß wissen, was los
+ hat sie sich mit einem anderen eingelassen und hat mich verlassen...aber ich muss wissen, was los
  ist.}
 {127}{}{Alles klar, Mann. Wie sieht sie denn aus?}
 {128}{}{Kein Problem. Ich werd mein Bestes tun.}

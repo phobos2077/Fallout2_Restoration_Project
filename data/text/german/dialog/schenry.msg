@@ -15,7 +15,7 @@
 {114}{}{Kybernetische Genetik? Ich kann mich nicht erinnern, mich jemals damit beschäftigt zu haben.}
 {115}{}{Na gut. Du bist ja völlig durchgedreht. Mach's gut.}
 {116}{}{Oh je, ich habe schon mehr gesagt, als ich eigentlich darf. Egal. Wenn mich jemand danach fragt, weiß ich von gar nichts.}
-{117}{}{Irgendwas von wegen extremer sozialer Konditionierung. Ich bin von jeher der Meinung gewesen, dass das alles unwissenschaftlicher Unfug ist. Aber ich hab gehört, dass im Lauf des Experiments bei Vault 13 improvisiert werden mußte. Ziemlich schlampige Arbeit, würde ich sagen.}
+{117}{}{Irgendwas von wegen extremer sozialer Konditionierung. Ich bin von jeher der Meinung gewesen, dass das alles unwissenschaftlicher Unfug ist. Aber ich hab gehört, dass im Lauf des Experiments bei Vault 13 improvisiert werden musste. Ziemlich schlampige Arbeit, würde ich sagen.}
 {118}{}{Experiment? Was für ein Experiment?}
 {119}{}{Wie ist das mit dieser Kybernetischen Genetik?}
 {120}{}{Erwartest du ernsthaft, dass ich dir auch nur ein Wort glaube? Du bist nicht ganz bei Trost.}
@@ -48,7 +48,7 @@
 {147}{}{Und...wie ist's gelaufen?}
 {148}{}{Er ist daran gestorben! Und du hast behauptet, die Mutanten würden davon gesund!}
 {149}{}{Er ist tot, Jim.}
-{150}{}{Du hast mich offenbar mißverstanden. Ich sagte, dass durch das Serum das mutagene Potential aufgehoben wird. Offenbar wird der Metabolismus bei diesem Prozeß momentan noch sehr stark belastet. Da muß noch ein wenig Feinarbeit geleistet werden.}
+{150}{}{Du hast mich offenbar missverstanden. Ich sagte, dass durch das Serum das mutagene Potential aufgehoben wird. Offenbar wird der Metabolismus bei diesem Prozess momentan noch sehr stark belastet. Da muss noch ein wenig Feinarbeit geleistet werden.}
 {151}{}{Und wie ist das jetzt mit meinem Lohn?}
 {152}{}{Du bist ein Ungeheuer! Ich will nichts mehr mit dir zu tun haben.}
 {153}{}{Offenbar noch nicht ganz perfekt. Die Versuchsreihe muss fortgesetzt werden.}

@@ -15,7 +15,7 @@
 {113}{}{Ich geh an dir vorbei, ob dir das nun passt oder nicht.}
 {114}{}{Können wir darüber noch mal reden?}
 {115}{ssa4a}{Dass du unsere Luft mit dem F.E.V.-Virus verseucht hast, macht aus dir keinen
- Helden. Du bist nur ein weiterer Mutant, dem der Gnadenschuß versetzt werden muss.}
+ Helden. Du bist nur ein weiterer Mutant, dem der Gnadenschuss versetzt werden muss.}
 {116}{ssa4b}{Wenn unser Reaktor schmilzt, wird es hier drin bald ganz schön heiß werden. Leider wirst
  du das Ganze nicht mehr erleben. Du bist kein Held, sondern eine wandelnde Leiche.}
 {117}{}{Du redest und redest, kannst du noch was anderes? Ich glaube nicht.}

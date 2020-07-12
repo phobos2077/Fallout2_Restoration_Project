@@ -121,7 +121,7 @@
 {400}{}{Du hast gewonnen? Zur Hölle mit dir! Ich brauch dafür eine Regel. Das war reines Glück. Mein Päckchen war einfach nicht gut genug. Ich muss ein besseres erstellen.}
 {401}{}{Danke für die Karten, Wooz. Und ich dachte, du weißt, wie man dieses Spiel spielt. Schätze, du bist einfach dumm.}
 {402}{}{So ist das nun mal, Wooz. Tschüss.}
-{410}{}{Ich hab gewonnen! Verpiß dich! Du Dummkopf, dir hab ich's gezeigt. Ich kann jetzt ein noch besseres Päckchen mit deinen Karten machen.}
+{410}{}{Ich hab gewonnen! Verpiss dich! Du Dummkopf, dir hab ich's gezeigt. Ich kann jetzt ein noch besseres Päckchen mit deinen Karten machen.}
 {411}{}{Äh, ja. Du hast gewonnen. Tschüss.}
 {412}{}{Was für eine Überraschung. Naja, zumindest musste ich mir nicht eine deiner Geschichten anhören. Tschüss.}
 {420}{}{Keine Zeit. Los. Ich hab ein neues Päckchen Karten, das ich ausprobieren will.}

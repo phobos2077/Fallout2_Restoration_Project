@@ -1,6 +1,6 @@
 {100}{}{Brauchst du etwas?}
 {101}{}{Ja. Ich wundere mich gerade, wen du da bewachst?}
-{102}{}{Meinst du mich? Äh, ich brauch nichts. Tschüß.}
+{102}{}{Meinst du mich? Äh, ich brauch nichts. Tschüss.}
 {103}{}{Wen du bewachen?}
 {104}{}{Wiedersehn!}
 {110}{}{Ich bewache unseren heiligen Stammesführer. Er, der mit den Seelen wandert. Eine Ehre ihn zu bewachen. Ich halte Unerwüchte, wie dich, von ihm fern. Nun geh.}

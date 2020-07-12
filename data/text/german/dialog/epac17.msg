@@ -74,14 +74,14 @@
 {321}{}{Du spielst mit Dingen, die du nicht zu verändern hast! Was ist wenn etwas schief geht? Was ist, wenn die Leute an denen du arbeitest, sterben!?}
 {330}{}{Beseitigen! Oh, nein. Ich glaube nicht. Ich erledige die Arbeit für die ich hier eingestellt wurde. Untersuchen und Experimentieren. Mit der Zeit gehen einem die Dinge zum Untersuchen aus, also muss man etwas freizügiger mit mit seinen Ideen umgehen. Ich glaube es hieß einmal 'Querdenker'.}
 {331}{}{Ich hab genug davon! Wenn niemand anderes dich stoppen wird, dann werd Ich es.}
-{332}{}{Du bist ja krank Ich geh jetzt. Tschüß.}
+{332}{}{Du bist ja krank Ich geh jetzt. Tschüss.}
 {340}{}{Ja, wieso nicht? Helf dir selbst. Es ist genug davon in den Lagerschuppen an der Oberfläche. Ich glaub, ich hab auch Mr.Chemie! darauf programmiert es herzustellen. Ich hab hier keins mehr rumliegen, nimmt mir zuviel Platz weg.}
 {341}{}{Danke! Du sagtest vorhin, dass deine ersten Versuche nicht erfolgreich waren. Wieso?}
 {350}{}{Einige der Testsubjekte hatten schwerwiegende Reaktionen auf das Virus, aber die sind einer Erwähnung nicht wert. Ein paar Fehlschläge hier und dort werden in unserem Beruf erwartet. Wenn du mich jetzt bitte entschuldigst, ich hab noch andere Dinge zu erledigen.}
 {351}{}{Ja, ich ebenfalls. Wiedersehen.}
 {360}{}{Dann sterben sie halt. Was erwartest du? Das ist die Art wie man Fortschritte macht.}
 {361}{}{Monströs! Unglaublich! Du stirbst - jetzt!}
-{362}{}{Ich kann das nich mehr ertragen. Tschüß. Ich werd nicht so bald wiederkommen.}
+{362}{}{Ich kann das nich mehr ertragen. Tschüss. Ich werd nicht so bald wiederkommen.}
 {370}{}{Jet? Ja, diese Droge auf der die meisten Reddinger drauf sind, wenn ich mich nicht Irre. Es ist eine außergewöhnlich komplexes Gemisch und meine Maschinen können es nicht mal bei voller Leistung reproduzieren. Wieso fragst du? Was weißt du darüber?}
 {371}{}{Nun, ich habe den Mann der es erfunden hat bei mir.}
 {380}{}{[*Augen funkeln*] Wirklich!? Wo? Kann ich ihn sehen bzw. mit ihm sprechen?}
@@ -118,14 +118,14 @@
 {492}{}{Nein noch nicht.}
 {500}{}{Wunderbar! Ausgezeichnet! Mal sehen... Ah ja, das wird es sein! Also dann, willst du einen weiteren Auftrag?}
 {501}{}{Wenn du einen hast, ja.}
-{502}{}{Jetzt gerade nicht, nein. Tschüß.}
+{502}{}{Jetzt gerade nicht, nein. Tschüss.}
 {510}{}{Obwohl die Lagerhalle der Ort ist an dem ich nahezu all meine Arbeiten ausführe, benötige ich von Zeit zu Zeit dennoch Zugriff auf den Hauptkomplex. Allerdings ist die Beleuchtung auf niedrigste Stufe eingestellt worden. Behebe das, so dass ich die EPA selbst betreten kann.}
 {511}{}{Kein Problem.}
 {512}{}{Ich komm wieder wenn ich die Zeit dafür habe.}
 {513}{}{Hab ich bereits erledigt! Da waren ein paar lose Drähte auf dem Hauptschaltkreis und ich hab es gescha-}
 {520}{}{Jetzt, wo du alle meine Krieger getötet hast, hast du dich mehr als würdig erwiesen. Würdest du es in Erwägung ziehen für mich zu arbeiten?}
 {521}{}{Was!? Für dich Arbeiten!? Was soll ich überhaupt dabei machen?}
-{522}{}{Nein danke. Tschüß.}
+{522}{}{Nein danke. Tschüss.}
 {530}{}{Hast du das Energieproblem in den Griff bekommen?}
 {531}{}{Ja, ja, ja, Ich will keine Einzelheiten hören. Danke. Gut, Ich habe noch immer eine Aufgabe für dich wenn du dich bereit erklärst.}
 {532}{}{Was ist das?}
@@ -166,7 +166,7 @@
 {716}{}{Das erste Mal als wir die kryogenischen Kammern nutzten, war es einfach nur wie Einschlafen und Aufwachen. Aber ich erkannte schnell, dass das Zeitverschwendung ist. Ich hab die Einstellungen der Kammer neu angeordnet, sodass ich sie für Jahre benutzen kann, aber mein Verstand bei vollem Bewusstsein bleibt! Ich nutzte diese längeren Zeitabschnitte um über verschiedene Projekte als auch über neue Experimente nachzudenken. Dadurch kann ich die Langzeiteffekte meiner Forschungen erkennen.}
 {717}{}{Hast du jemals darüber nachgedacht, das diese Art der Kammernutzung dir vielleicht irgendwie schaden könnte?}
 {718}{}{Unsinn! Wenn überhaupt, dann fühl ich mich besser! Ich kann durch meinen Wachwinterschlaf so viele Dinge klarer sehen.}
-{719}{}{So ein Irrer! Tschüß.}
+{719}{}{So ein Irrer! Tschüss.}
 {720}{}{Das ist ne ziemlich gute Idee. Genial! Hey, kann ich diese kryogenische Kammer sehen?}
 {721}{}{Verstehe. Noch was anderes.}
 {722}{}{Natürlich. Sie steht gleich da hinten. Ich hab sie vor einiger Zeit hierher gebracht. Die Kammer in den Subebenen der Anlagen zu lassen, war keine so gute Idee.}
@@ -181,10 +181,10 @@
 {731}{}{Was möchtest du sonst noch wissen?}
 {800}{}{Warte mal einen Moment. Du siehst recht abenteuerlustig aus. Ich hab da ne Verwendung für jemanden mit deinen Fähigkeiten.}
 {801}{}{Sicher, was brauchst du?}
-{802}{}{Nein danke. Tschüß.}
+{802}{}{Nein danke. Tschüss.}
 {803}{}{Ich habe Proben an einer meiner Arbeitsplätze gesammelt und ich glaube das ich eins meiner Werkzeuge dort verlegt hab. Normalerweise würde ich selbst danach suchen, aber ich bin gerade ziemlich beschäftigt und ich kann mich nicht einmal genau erinnern wo genau ich es liegen gelassen hab. Wenn du von diesem Gebäude aus nach Nordwesten gehst solltest du die Gegend finden in der ich mein Werkzeug liegen gelassen habe. Sollte ein Kinderspiel sein.}
 {804}{}{Ich werd gleich danach suchen.}
-{805}{}{Kein Interesse. Tschüß.}
+{805}{}{Kein Interesse. Tschüss.}
 {806}{}{Warte. Bist du dir sicher das du mir bei einer Kleinigkeit nicht helfen kannst?}
 {810}{}{Ausgezeichnet! Jetzt muss ich aber zurück zu meiner Arbeit. [Zu sich selbst.] Alles verläuft nach Plan.}
 {811}{}{[Erledigt]}
@@ -195,7 +195,7 @@
 {832}{}{Hier ist das Werkzeug. In der Tat ein Kinderspiel.}
 {833}{}{Wolltest du versuchen mich da draußen umzulegen? Das war ein Labyrinth voller Mutanten! Auf keinen Fall war das ein normaler Rückholauftrag, oder?}
 {840}{}{Was?! Gib mir das! [Er reißt dir das Werkzeug aus den Händen.] Wie hast du- Öh, nicht so wichtig. Zurück ans Zeichenbrett...}
-{841}{}{[Du ignorierst seine Reaktion.] Ok, wenn du sonst noch was brauchst, lass es mich wissen. Tschüß.}
+{841}{}{[Du ignorierst seine Reaktion.] Ok, wenn du sonst noch was brauchst, lass es mich wissen. Tschüss.}
 {850}{}{Geht dich nichts an. [Er reißt dir das Werkzeug aus den Händen.] Und jetzt raus. Ich hab noch Anderes zu Erledigen.
  [Er sieht weg und murmelt in sich hinein.]}
 {851}{}{Wie du meinst. Bis dann. }

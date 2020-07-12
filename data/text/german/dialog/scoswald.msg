@@ -15,7 +15,7 @@
 {112}{}{Schon gut, schon gut! Was willste wissen? Tu mir bloß nicht mehr weh.}
 {113}{}{Vault 15 - du sagen!}
 {114}{}{Was weißt du über Vault 15?}
-{115}{}{Hör mal, ich hab hier gar nichts zu melden. Dafür ist Darion zuständig. An den mußt du
+{115}{}{Hör mal, ich hab hier gar nichts zu melden. Dafür ist Darion zuständig. An den musst du
  dich wenden. Der ist voll fixiert auf Shady Sands und diese alte Kuh Tandi. Er hat 'n Versteck
  in Vault 15 und die Einwohner glauben sogar, er wär auf ihrer Seite. Das ist alles, was ich
  weiß. Ehrlich!}

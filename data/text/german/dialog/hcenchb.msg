@@ -27,7 +27,7 @@
 {121}{}{Wirklich? Warum hast du das Marcus nicht berichtet?}
 {122}{}{Bist du wahnsinnig? Chad ist ein mächtiger Mann in dieser Stadt und er hat viele Freunde. Wenn ich ihn verpfeifen würde, gäbe es eine Menge Leute, die mich hassen würden. Verdammt, ich könnte sogar ermordet werden.}
 {123}{}{Hmm, then perhaps I could say something to Marcus. I don't plan to stay around here too much longer anyway.}
-{124}{}{He, du mußt tun was du tun mußt, aber zieh mich einfach nicht mit hinein. Genau genommen, dieses Gespräch wurde niemals geführt, OK?}
+{124}{}{He, du musst tun was du tun musst, aber zieh mich einfach nicht mit hinein. Genau genommen, dieses Gespräch wurde niemals geführt, OK?}
 {125}{}{Kein Problem. Tschüss.}
 {126}{}{Achja, noch etwas. Ich weiß, dass Chad über alle stattgefunden Transaktionen Buch
  führt. Er ist ein ziemlicher Aufzeichnungsfreak. Der Typ ist in der Tat so verrückt danach, ich wette, dass er sogar Aufzeichnungen über das ganze eingesackte Geld hat. Das Problem ist, dass er all
@@ -38,7 +38,7 @@
 {128}{}{Komplexes System? Wie soll ich dann reinkommen?}
 {129}{}{[Max denkt einen Augenblick scharf nach.] Ok hör zu, du siehst aus wie jemand dem
  man vertrauen kann. Chads Haustür hat das fortschrittlichste, nicht elektronische Schloss, dass es gibt
- - und es ist ne richtige Schönheit. Ich muß es wissen, weil ich es entwickelt hab.
+ - und es ist ne richtige Schönheit. Ich muss es wissen, weil ich es entwickelt hab.
  Weißt du, vor meiner Zeit als Karawanenwache war ich Schlosser.
  Also, da ich annehme, dass du darauf angewiesen bist in das Haus zu kommen,
  erklär ich dir im Detail, wie du diese Art von Schloss knackst.}

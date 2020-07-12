@@ -24,7 +24,7 @@
 {412}{}{Abgemacht, ich bin bald zurück.}
 {413}{}{Vielleicht, lass mich noch einen Moment darüber nachdenken...}
 {414}{}{Großartig, lass es mich wissen wenn du das Buch hast.}
-{415}{}{Ok, Tschüß.}
+{415}{}{Ok, Tschüss.}
 {416}{}{Sei gegrüßt, mein Freund.}
 {417}{}{Ich hab euer Biest getötet, und hab das Buch gefunden.}
 {418}{}{Hervorragend! Bitte gib es mir!}
@@ -33,9 +33,9 @@
 {421}{}{[Er nimmt es dir ab und liebkost den Buchdeckel, als ob er es beruhigen will.] Du hast uns einen großen Dienst erwiesen. Du hast nun freien Zugang zu unseren Computern in der Bibliothek. Sag Bruder Paul, dass du von mir die Erlaubnis bekommen hast unsere Daten einzusehen.}
 {422}{}{Danke.}
 {423}{}{Du willst Geld? Ok, hier sind $250. Geh zu Bruder Paul um Zugang zu unseren Computern zu bekommen.}
-{424}{}{Danke für die Kohle, Tschüß.}
+{424}{}{Danke für die Kohle, Tschüss.}
 {425}{}{Du solltest zu einem Computer im ersten Stock gehen, da du dort jetzt vollen Zugriff hast.}
-{426}{}{Ok, Tschüß.}
+{426}{}{Ok, Tschüss.}
 {430}{}{Was ist das Ziel eures Ordens?}
 {431}{}{What is the history behind the Abbey?}
 {432}{}{Ich hab im Moment keine Fragen mehr.}
@@ -63,8 +63,8 @@
  is on the brink of destruction. The knowledge contained in these books could help cure diseases, improve crops, and greatly
  increase the chance of humanity's survival.}
 {453}{}{Ah, gut, das ist wohl ein gutes Argument. Aber es scheint, das gerade die Informationen die hier gespeichert sind, einer Menge Leute helfen könnten. Selbst wenn du denkst, dass die Welt nicht bereit für dieses Wissen ist, so verstehe ich nicht, warum *IHR* nicht wenigstens versucht, etwas davon zu lernen. Was ist sonst der Sinn darin, es zu erhalten?}
-{454}{}{Ich verstehe deine Frustration über unsere Gebräuche, aber du mußt begreifen, dass es eben so ist, und das war schon seit jeher so. Das zu ändern, jetzt, nach so vielen Jahren... das wäre ein Frevel an unserem Glauben. Nein, ich fühle es, wir müssen weiterhin nach den Regeln unserer Vorfahren leben.}
-{455}{}{Ich verstehe deine Frustration über unsere Gebräuche, aber du mußt begreifen, dass es eben so ist, und das war schon seit jeher so. Das zu ändern, jetzt, nach so vielen Jahren... das wäre ein Frevel an unserem Glauben. Dennoch, Ich werde deine Worte in Betracht ziehen. Ich spüre große Weisheit in dir, Reisender. Es ist schade, das ich nur wenige wie dich getroffen habe.}
+{454}{}{Ich verstehe deine Frustration über unsere Gebräuche, aber du musst begreifen, dass es eben so ist, und das war schon seit jeher so. Das zu ändern, jetzt, nach so vielen Jahren... das wäre ein Frevel an unserem Glauben. Nein, ich fühle es, wir müssen weiterhin nach den Regeln unserer Vorfahren leben.}
+{455}{}{Ich verstehe deine Frustration über unsere Gebräuche, aber du musst begreifen, dass es eben so ist, und das war schon seit jeher so. Das zu ändern, jetzt, nach so vielen Jahren... das wäre ein Frevel an unserem Glauben. Dennoch, Ich werde deine Worte in Betracht ziehen. Ich spüre große Weisheit in dir, Reisender. Es ist schade, das ich nur wenige wie dich getroffen habe.}
 {456}{}{Danke. Ich möchte aber noch etwas anderes wissen.}
 {457}{}{Na schön. Ich möchte aber noch etwas anderes wissen.}
 {500}{}{Hör auf damit!}

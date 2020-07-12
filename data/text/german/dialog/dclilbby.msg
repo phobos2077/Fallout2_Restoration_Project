@@ -19,7 +19,7 @@
  Freunde gehen dahin, und sie schenkt ihnen immer heimlich was zum Essen. Ich wünschte mein Vater würde mit mir hingehen, da sie weiß, wie man
  es anstellt, damit Ratte echt lecker schmeckt!}
 {114}{}{Hmm, ich spüre einen kleinen Hunger. Vielleicht sollte ich Mom einen Besuch abstatten. Pass auf dich auf, Bobby.}
-{115}{}{Was bist du bloß für ein kleines ungezogenes Balg. Ich gehe besser, bevor ich deine Dummheit aus dir herausprügle. Tschüß.}
+{115}{}{Was bist du bloß für ein kleines ungezogenes Balg. Ich gehe besser, bevor ich deine Dummheit aus dir herausprügle. Tschüss.}
 {116}{}{Weißt du was, Bobby? Ich sprach mit Mom, und sie wird ein ein schönes großes neues Zuhause errichten, wo du und all deine
  obdachlosen Freunde willkommen seid, um miteinander zu leben. Es ist das großen Gebäude nordwestlich von hier. Sie sagte, sie wird
  alles in einigen Tagen eingerichtet haben.}

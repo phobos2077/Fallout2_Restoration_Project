@@ -870,7 +870,7 @@
 {12026}{}{Zeit, diesen Mistkerl zu erledigen...}
 {12027}{}{Sichern und laden!}
 {12028}{}{Rock and Roll!}
-{12029}{}{Sieh mal, wer da gerade zum Abschuß freigegeben wurde...}
+{12029}{}{Sieh mal, wer da gerade zum Abschuss freigegeben wurde...}
 {12030}{}{Hoffe, du hast ein paar Stimpaks eingepackt, Sippenpenner...}
 {12031}{}{Kontakt!}
 {12032}{}{Jemand ist in das Gebiet eingedrungen!}
@@ -1211,7 +1211,7 @@
 {32545}{}{Beug dich mal kurz vornüber..}
 {32546}{}{Hab hier was Schönes für dich.}
 {32547}{}{Schenk dir ein Stück von mir.}
-{32548}{}{Ein Schuß...ein Tor!}
+{32548}{}{Ein Schuss...ein Tor!}
 {32549}{}{Willst du ein bisschen Liebe?}
 {32560}{}{Jawoll!}
 {32561}{}{JaWOLL!}
@@ -1411,7 +1411,7 @@
 {36032}{}{Grrr!}
 {36033}{}{Das wirst du noch bereuen!}
 {36034}{}{Hör lieber auf, solang du führst!}
-{36035}{}{Guter Schuß. Jetzt bin ich dran}
+{36035}{}{Guter Schuss. Jetzt bin ich dran}
 {36060}{}{Au, mein Bein.}
 {36061}{}{Das wirst du mir bezahlen!}
 {36062}{}{Ahhhh! MEIN BEIN!}
@@ -1449,7 +1449,7 @@
 {36148}{}{Schrei doch mal ein bisschen...}
 {36160}{}{Du kannst mir nicht weh tun!}
 {36161}{}{Die Geister beschützen mich.}
-{36162}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36162}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36163}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36164}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36165}{}{Zu langsam!}
@@ -1475,7 +1475,7 @@
 {36249}{}{Schrei für mich.}
 {36260}{}{Du kannst mir nicht weh tun!}
 {36261}{}{Die Geister beschützen mich.}
-{36262}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36262}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36263}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36264}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36265}{}{Zu langsam!}
@@ -1500,7 +1500,7 @@
 {36348}{}{Schrei doch mal ein bisschen...}
 {36360}{}{Du kannst mir nicht weh tun!}
 {36361}{}{Die Geister beschützen mich.}
-{36362}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36362}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36363}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36364}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36365}{}{Zu langsam!}
@@ -1526,7 +1526,7 @@
 {36449}{}{Schrei doch mal ein bisschen...}
 {36460}{}{Du kannst mir nicht weh tun!}
 {36461}{}{Die Geister beschützen mich.}
-{36462}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36462}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36463}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36464}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36465}{}{Zu langsam!}
@@ -1551,7 +1551,7 @@
 {36548}{}{Schrei doch mal ein bisschen...}
 {36560}{}{Du kannst mir nicht weh tun!}
 {36561}{}{Die Geister beschützen mich.}
-{36562}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36562}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36563}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36564}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36565}{}{Zu langsam!}
@@ -1679,7 +1679,7 @@
 {44891}{}{Nicht...unter...die...Gürtellinie!}
 {44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden  treffen würde?}
 {44893}{}{Ich HASSE Unterleibsschüsse! Umpf...}
-{44894}{}{Unterleibsschuß...wie gut, dass ich kein Mensch bin!}
+{44894}{}{Unterleibsschuss...wie gut, dass ich kein Mensch bin!}
 {44900}{}{Zeit, abzuhauen!}
 {44901}{}{Ich verschwinde!}
 {44902}{}{Zurück!}
@@ -1723,7 +1723,7 @@
 {44950}{}{Hey, hier gibt es einen Bluter!}
 {44951}{}{Wenn ich mit dir fertig bin, bringt dich ein Stimpak allein garantiert nicht mehr auf die Beine.}
 {44952}{}{Hoffentlich bist du krankenversichert. Wirst es brauchen.}
-{44953}{}{Hier ein Riß, da ein Riß, überall ein Riß, Riß, Riß...}
+{44953}{}{Hier ein Riss, da ein Riss, überall ein Riss, Riss, Riss...}
 {44954}{}{Mir egal, wer damit angefangen hat, ich werd's in jedem Fall beenden!}
 {44955}{}{Ich hör gern, wie Fleisch reißt, du nicht?}
 {44956}{}{Bin grad erst beim Aufwärmen, das richtige Spektakel geht gleich erst los.}

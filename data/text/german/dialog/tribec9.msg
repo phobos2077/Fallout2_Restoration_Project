@@ -9,7 +9,7 @@
 {201}{}{Beruhige dich. Du bist jetzt sicher. Der Gecko ist tot!}
 {202}{}{Was!? Oh, ehre die Geister, Freund. Ich hatte schon befürchtet, dass mich der Gecko tötet.}
 {203}{}{Was ist hier passiert?}
-{204}{}{Jerem und ich gingen auf unsere wöchentliche Jagd. Wir nahmen diesen Höhlendurchgang zu dem Gebiet wo sich viele Geckos herumtreiben. Die Jagd lief schlecht. Wir mußten flüchten. Der Geist der Wut hatte viele Geckos erfasst. Wir liefen in die Höhle und brüllten um Hilfe.
+{204}{}{Jerem und ich gingen auf unsere wöchentliche Jagd. Wir nahmen diesen Höhlendurchgang zu dem Gebiet wo sich viele Geckos herumtreiben. Die Jagd lief schlecht. Wir mussten flüchten. Der Geist der Wut hatte viele Geckos erfasst. Wir liefen in die Höhle und brüllten um Hilfe.
  [Er macht einen Moment Pause und zuckt vor Schmerz zusammen als er sein Bein berührt.]}
 {205}{}{Bitte, erzähl mir mehr.}
 {206}{}{Der Durchgang war schon immer Einsturzgefährdet. Wasser tropfte von der Decke. Ein gefährlicher Weg, aber es war eine große Abkürzung zu diesem Gebiet. Bis jetzt. Weißt du, unser verrücktes Brüllen hat die Decke direkt über uns zum Einsturz gebracht.}

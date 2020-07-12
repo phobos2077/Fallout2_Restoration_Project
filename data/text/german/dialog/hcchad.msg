@@ -37,7 +37,7 @@
 {145}{}{Er verdächtigt dich, dass du Geld abzweigst das für Broken Hills bestimmt ist.}
 {146}{}{Nicht wirklich, Tschüss.}
 {147}{}{Hör mal, ich weiß darüber überhaupt nichts, und todsicher mag ich es nicht, wenn man mich irgendwelcher Dinge beschuldigt. Ich schlage vor, dass du verschwindest.}
-{150}{}{Ich krieg die Wahrheit schon noch raus, Tschüß.}
+{150}{}{Ich krieg die Wahrheit schon noch raus, Tschüss.}
 {156}{}{Red mal mit Bill. Der wird dir helfen.}
 {157}{}{Ich habe noch weitere Fragen.}
 {158}{}{Danke. Tschüss.}
@@ -63,7 +63,7 @@
 {200}{}{Ich hab keine Ahnung wovon du redest. Ich schlage vor, dass du die Sache vergisst, bevor du jemanden verärgerst. Und jetzt hau ab.}
 {201}{}{Ich hab ne bessere Idee. Wie wärs wenn ich dich stattdessen totschlage?}
 {202}{}{Falsche Antwort. Sieht so aus, als hättest du dir den Falschen ausgesucht den du ans Bein pissen kannst!}
-{203}{}{Schön, Tschüß.}
+{203}{}{Schön, Tschüss.}
 {204}{}{Ach Scheiße! Ich wusste, dass es nicht ewig so weitergehen kann. [Sieht dich an und senkt seine Stimme.] Ok hör zu.
  Verliere kein Wort über diese Angelegenheit. Hier sind $1000 für dein Schweigen. [Er gibt dir das Geld] Nun, wenn du mich
  jetzt entschuldigen würdest, ich muss gehen.}

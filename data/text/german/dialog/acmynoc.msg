@@ -131,7 +131,7 @@
 {614}{}{Ja?}
 {615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
 {616}{}{Ja?}
-{617}{}{Vergiss es, ich will diese Geschichte nicht mehr hören. Tschüß.}
+{617}{}{Vergiss es, ich will diese Geschichte nicht mehr hören. Tschüss.}
 {618}{}{Er machte seinen Weg durch den Tempel und schnell erreichte er den letzten Test: ein Faustkampf gegen einen Krieger.}
 {619}{}{Ja?}
 {620}{}{Warte, er sprengte also die Tür und alles? Lassen wir immer wieder jemanden das Ganze wieder zusammenbauen, wenn jemand durch den Tempel durchgeht? Wenn wir schon dabei sind, wer hat den Tempel als erstes erbaut?}

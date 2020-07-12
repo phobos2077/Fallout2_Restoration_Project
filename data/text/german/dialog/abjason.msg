@@ -2,7 +2,7 @@
 {101}{}{Du siehst Bruder Jason.}
 {102}{}{Dieser Mönch scheint über etwas zu grübeln.}
 {200}{}{[The young monk quickly pockets a deck of "Tragic" cards as you approach.] What do you want?}
-{201}{}{Von dir nichts. Tschüß.}
+{201}{}{Von dir nichts. Tschüss.}
 {202}{}{Ich würde gerne wissen warum du die Spielkarten vor mir versteckst.}
 {210}{}{Ich weiß nicht wovon du sprichst. Ich habe überhaupt keine Spielkarten.}
 {211}{}{Lüg mich nicht an. Ich habe es gesehen, du hast sie in deine Tasche gesteckt. Ich wollte nur wissen warum.}
@@ -41,7 +41,7 @@
  Aber nein, sie sind völlig zufrieden damit, die Reliquien zu verehren und zu katalogisieren, aber nie wirklich etwas Sinnvolles damit
  zu machen. Wie ich sagte, es ist einfach nur schwachsinnig.}
 {251}{}{Du hast es kapiert, das ist wirklich ziemlich bescheuert.}
-{252}{}{Genauso schwachsinnig, wie hier zu sitzen und dir zuzuhören, wie du über dein Leben meckerst. Tschüß.}
+{252}{}{Genauso schwachsinnig, wie hier zu sitzen und dir zuzuhören, wie du über dein Leben meckerst. Tschüss.}
 {253}{}{Wenn du es für so bescheuert hältst, warum versuchst du dann nicht etwas an der Situation zu ändern?}
 {260}{}{Finally, someone who agrees with me! Look, I have this idea, and maybe you could help me out. You see, the monks
  here have spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally"
@@ -65,28 +65,28 @@
 {281}{}{Ich fürchte mich vor nichts und niemandem. Ich werde es machen.}
 {282}{}{In Ordnung. Ich werde es machen.}
 {283}{}{Nee, ich denke, dass ich stattdessen deine Massakertheorie teste. Und der erste wirst du sein.}
-{284}{}{Ich lass es bleiben. Das ist einfach nicht mein Stil. Tschüß.}
+{284}{}{Ich lass es bleiben. Das ist einfach nicht mein Stil. Tschüss.}
 {285}{}{Nein, ich werde es nicht machen. Wenn du das alles hier so hasst, warum verschwindest du nicht einfach?}
 {286}{}{Wenn du deine Meinung nicht geändert hast, und mir nicht hilfst, verpiss dich.}
 {287}{}{In Ordnung. Ich werde es machen.}
 {288}{}{Nein, ich werde es nicht machen. Wenn du das alles hier so hasst, warum verschwindest du nicht einfach?}
-{290}{}{Du machst es? Ernsthaft? Oh Mann, das ist phantastisch. Aber erst mußt du versuchen, Zugang zu bekommen, da sie die Datenbank
+{290}{}{Du machst es? Ernsthaft? Oh Mann, das ist phantastisch. Aber erst musst du versuchen, Zugang zu bekommen, da sie die Datenbank
  außerordentlich abschirmen. Es sollte aber nicht zu schwer sein, diese Mönche sind ziemlich gutgläubig. Sie werden fuchsteufelswild
- sein, nachdem du sie formatiert hast, aber sie sind allesamt eine Bande von Schwächlingen, deshalb mußt du dir darüber wirklich
+ sein, nachdem du sie formatiert hast, aber sie sind allesamt eine Bande von Schwächlingen, deshalb musst du dir darüber wirklich
  keine Sorgen machen. Aber versuch niemanden zu töten — ich will nicht, dass die Sache aus dem Ruder läuft, verstehst du?}
 {291}{}{Sicher. Sonst noch etwas?}
 {292}{}{Ich mache keine Versprechungen. Sonst noch was?}
 {300}{}{Einfach nur formatieren und danach abhauen, denn sie werden dich hier nicht mehr leiden können. Außerdem ist es nicht
- nötig, mir mitzuteilen, dass es erledigt ist, da ich so tun muß, als ob ich genauso stinksauer bin wie alle anderen, damit
+ nötig, mir mitzuteilen, dass es erledigt ist, da ich so tun muss, als ob ich genauso stinksauer bin wie alle anderen, damit
  sie mich nicht verdächtigen. Danke nochmal, dass du es machst. Es ist nur zu ihrem Besten.}
-{301}{}{Ganz wie du meinst. Tschüß.}
+{301}{}{Ganz wie du meinst. Tschüss.}
 {310}{}{Bist du verrückt? Ich war noch nie im Ödland, aber ich kann mir ganz gut vorstellen, wie es da ist. Mit viel Glück
  würde ich hundert Meter schaffen, bevor mich ein Radscorpion mit seinem meterlangen Stachel aufspießt. Oder noch schlimmer,
  eine Bande irrer Banditen nimmt mich gefangen und foltert mich *oder* ich werde von Kannibalen lebendig gefressen.
  Wie auch immer. Ich weiß es einfach, wenn ich hier abhaue, werde ich ins Gras beißen. Also nein, ich steck hier fest.}
 {311}{}{He, es ist nicht *so* schrecklich da draußen... genau genommen, hast du Recht. Du würdest es wahrscheinlich nicht einmal
  bis Gecko schaffen. Zumindest nicht ohne Hilfe. Aber was ist, wenn ich verspreche, dich zu begleiten?}
-{312}{}{Was für ein Pech. Tschüß.}
+{312}{}{Was für ein Pech. Tschüss.}
 {313}{}{Gib die Hoffnung nicht auf. Ich bin sicher, dass es eine Stadt in der Nähe gibt, zu der man gefahrlos reisen kann.}
 {315}{}{Ja, also, wenn du eine entdeckst, lass es mich wissen.}
 {316}{}{Wird gemacht. Tschüss.}
@@ -119,14 +119,14 @@
  Hier, ich, äh, hab mir das aus Abbeys Memorabile "geborgt", erstaunlicherweise ist es eines der wenigen Technologie-Relikte, das
  immer noch funktioniert. [Er überreicht dir einen Stealth Boy.] Bis dann.}
 {373}{}{Danke. Tschüss.}
-{374}{}{Ich bin einfach froh, dass ich dein Meckern nicht mehr hören muß. Tschüß.}
+{374}{}{Ich bin einfach froh, dass ich dein Meckern nicht mehr hören muss. Tschüss.}
 {380}{}{Mein Gott, Wooz hat *wirklich* eine Black Dahlia! Allein dafür hat sich diese Reise gelohnt. Sicher, die Ghuls
  sind hässlich wie die Nacht, aber ich finde, wenn ich meine Brille abnehme, sie sind ganz annehmbar. Jedenfalls, vielen
  Dank fürs herbringen. Hier, [Er greift in seine Tasche, dann runzelt er die Stirn.] Was zum Teufel? Ich könnte schwören,
- ich hatte es. Äh, entschuldige, sieht so aus als hätte ich dein Honorar verlegt, dann mußt du dich mit einem
+ ich hatte es. Äh, entschuldige, sieht so aus als hätte ich dein Honorar verlegt, dann musst du dich mit einem
  einfachen Danke zufriedengeben. Bis dann.}
-{381}{}{Oh, äh, mach dir nicht draus. Ich bin froh dass ich helfen konnte. Tschüß.}
-{382}{}{Ich bin einfach froh, dass ich dein Meckern nicht mehr hören muß. Tschüß.}
+{381}{}{Oh, äh, mach dir nicht draus. Ich bin froh dass ich helfen konnte. Tschüss.}
+{382}{}{Ich bin einfach froh, dass ich dein Meckern nicht mehr hören muss. Tschüss.}
 {400}{}{Stör mich nicht... muss einen noch mächtigeren Stapel zusammenstellen...}
 {500}{}{Lass mich in Ruhe.}
 {501}{}{Hau ab.}
@@ -136,6 +136,6 @@
  Mönche meine Abwesenheit nicht, daher bekam ich keinen Ärger wegen meines fortgehens. Allerdings ist es echt ätzend, ich dachte,
  ich würde ein neues Leben beginnen, und nur mehr das machen was ich liebe. [Er macht einen tiefen Seufzer.]}
 {601}{}{Es tut mir leid, das zu hören. Wir sehen uns.}
-{602}{}{So ist das Leben. Einen Augenblick bist du im siebten Himmel, im nächsten liegt deine Nase im Dreck. Leben heißt Lernen. Tschüß.}
+{602}{}{So ist das Leben. Einen Augenblick bist du im siebten Himmel, im nächsten liegt deine Nase im Dreck. Leben heißt Lernen. Tschüss.}
 {610}{}{Vermutlich muss ich mich einfach an den Ort gewöhnen.}
 {1000}{}{Du begleitest Bruder Jason sicher in seine neue Heimat.}

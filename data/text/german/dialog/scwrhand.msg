@@ -9,6 +9,6 @@
 {107}{}{Wenn du mit jemandem reden willst, geh zu Felix, dem Vorarbeiter.}
 {108}{}{Du hast doch nicht etwa was mit den Bishops zu tun?}
 {109}{}{Wir wissen, dass es Mord war. Wir kriegen diese Schlange schon und dann machen wir kurzen
- Prozeß.}
+ Prozess.}
 {110}{}{Felix schwört, dass die Bishops dahinterstecken und dass es da um eine Menge Geld geht.}
 {111}{}{Es ist wohl an der Zeit, sich zu verdrücken. Hier geht alles den Bach runter.}

@@ -17,7 +17,7 @@
  diverse Dinge, darunter auch einen Kamm, mit dem er sich geschickt durchs Haar fährt und seine Frisur mit der Präzision
  eines routiniertem Profis herrichtet.] Also, wo ist der Doktor?}
 {221}{}{Der Doktor? Oh, ich nehme an, er ist hier irgendwo. Tatsächlich glaube ich sogar, dass er sich gerade auf dem
- Weg hierher befindet. Ich gehe lieber wieder. Ich will euch nicht weiter stören. Tschüß!}
+ Weg hierher befindet. Ich gehe lieber wieder. Ich will euch nicht weiter stören. Tschüss!}
 {222}{}{Hmm, das mag jetzt vielleicht ein Schock für dich sein, aber du warst für lange Zeit eingefroren. Wer immer
  dieser Doktor auch gewesen sein mag, er ist bestimmt schon längst tot. Falls er dein Freund war, tut es mir Leid.}
 {223}{}{Jetzt hör mal zu, Schönling! Ich hab deinen bescheuerten Arsch nicht aufgetaut, um dir deine dämlichen Fragen
@@ -62,7 +62,7 @@
 {283}{}{Weißt du, ich wurde von meinen Stammesmitgliedern dazu auserwählt eine Vault zu finden. Ich riskierte mein
  Leben bei etlichen Auseinandersetzungen um diese heilige Vault zu finden und schließlich habe ich sie gefunden. Ich bin
  neugierig was du vielleicht sonst noch über diese Orte weißt.}
-{290}{}{Ich sag dir was, Kumpel. Du mußt diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
+{290}{}{Ich sag dir was, Kumpel. Du musst diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
  verrückten Welt in der du lebst zurecht findet. Also was sagst du...Partner?}
 {291}{}{Hmm, dein Wissen über die alte Welt könnte mir durchaus von Nutzen sein...Aber, naja, ehrlich gesagt, ich...ähm,
  habe einiges über dich gelesen, in diesem Computer da drüben und ich bin mir nicht sicher ob du der Typ von Mensch bist,
@@ -199,7 +199,7 @@
 {493}{}{Weißt du, ich wurde von meinen Stammesmitgliedern dazu auserwählt eine Vault zu finden. Ich riskierte mein
  Leben bei etlichen Auseinandersetzungen um diese heilige Vault zu finden und schließlich habe ich sie gefunden. Ich bin
  neugierig was du vielleicht sonst noch über diese Orte weißt.}
-{500}{}{Ich sag dir was, Baby. Du mußt diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
+{500}{}{Ich sag dir was, Baby. Du musst diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
  verrückten Welt in der du lebst zurecht findet. Also was sagst du...Partner?}
 {501}{}{Abgemacht...Partner.}
 {502}{}{Hmm, dein Wissen über die alte Welt könnte mir durchaus von Nutzen sein...Aber, naja, da ist noch diese ganze
@@ -328,7 +328,7 @@
 {683}{}{Weißt du, ich wurde von meinen Stammesmitgliedern dazu auserwählt eine Vault zu finden. Ich riskierte mein
  Leben bei etlichen Auseinandersetzungen um diese verfluchte heilige Vault zu finden und war schließlich erfolgreich. Ich
  bin neugierig was du vielleicht sonst noch über diese Orte weißt.}
-{690}{}{Ich sag dir was, Kumpel. Du mußt diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
+{690}{}{Ich sag dir was, Kumpel. Du musst diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
  verrückten Welt in der du lebst zurecht findet. Also was sagst du...Partner?}
 {691}{}{Du brauchst nicht versuchen, mich zu überreden. Ich würde mich glücklich schätzen, dich um mich herum zu
  haben, schon allein um dich in Aktion sehen zu können.}
@@ -410,7 +410,7 @@
 {873}{}{Weißt du, ich wurde von meinen Stammesmitgliedern dazu auserwählt eine Vault zu finden. Ich riskierte mein
  Leben bei etlichen Auseinandersetzungen um dies verfluchte heilige Vault zu finden und war schließlich erfolgreich. Ich
  bin neugierig was du vielleicht sonst noch über diese Orte weißt.}
-{880}{}{Ich sag dir was, Baby. Du mußt diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
+{880}{}{Ich sag dir was, Baby. Du musst diese Vault finden und ich brauche jemanden der sich in dieser, sagen wir mal,
  verrückten Welt in der du lebst zurecht findet. Also was sagst du...Partner?}
 {881}{}{Du brauchst nicht versuchen, mich zu überreden. Ich würde mich glücklich schätzen, dich um mich herum zu
  haben, schon allein um dich in Aktion sehen zu können.}
@@ -607,7 +607,7 @@
  dieses eine Mädchen namens Vicky. Bei ihr musste ich mich wirklich etwas anstrengen. Unglaublich, ich weiß, aber
  schließlich brachte ich sie dazu mit mir auszugehen und meine Freundin zu werden.}
 {3028}{}{Und die ganze Zeit warst du nebenbei ein Serienmörder?}
-{3029}{}{Ich interessiere mich nicht für deine High-School Geschichten. Vergiß die Story.}
+{3029}{}{Ich interessiere mich nicht für deine High-School Geschichten. Vergiss die Story.}
 {3030}{}{Ja. [Dex grinst.] Das waren noch Zeiten. Weißt du, ich war wirklich glücklich. Nachdem wir die Schule beendet
  hatten, zogen wir zusammen und alles war einfach spitze. Aber diese Schlampe musste ja alles ruinieren und mich hinter
  meinem Rücken betrügen.}

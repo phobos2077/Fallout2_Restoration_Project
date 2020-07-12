@@ -22,17 +22,17 @@
 {121}{}{Ich wäre gern aufmerksamer.}
 {122}{}{Ich hätte gern mehr Charisma.}
 {123}{}{Im Augenblick brauche ich eigentlich nichts.}
-{124}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Der Heilungsprozeß dauert 5 Minuten.}
+{124}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Der Heilungsprozess dauert 5 Minuten.}
 {125}{}{OK.}
 {126}{}{Macht nichts.}
 {127}{}{Also gut.}
 {128}{}{Vergiss es.}
-{129}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Zuerst wird das Gift analysiert und dann ein Gegenmittel synthetisiert. Danach werden Gewebeschäden behoben. Dieser Prozeß dauert 30 Minuten.}
+{129}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Zuerst wird das Gift analysiert und dann ein Gegenmittel synthetisiert. Danach werden Gewebeschäden behoben. Dieser Prozess dauert 30 Minuten.}
 {130}{}{OK.}
 {131}{}{Nein.}
 {132}{}{Sicher.}
 {133}{}{Macht nichts.}
-{134}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Gegenstrahlung wird angewandt und Gewebeschäden danach behoben. Dieser Prozeß dauert 60 Minuten.}
+{134}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Gegenstrahlung wird angewandt und Gewebeschäden danach behoben. Dieser Prozess dauert 60 Minuten.}
 {135}{}{OK.}
 {136}{}{Nein.}
 {137}{}{Wie du willst.}

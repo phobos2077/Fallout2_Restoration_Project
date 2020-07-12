@@ -197,7 +197,7 @@
 {546}{}{Die reine Wahrheit. Ethyl, dein Mann verkauft Alkohol hier in New Reno und unterstützt die Trunksucht. Er macht damit die Stadt zu einem schlechteren Ort zum Leben. Hilf mir und wir können der ganzen üblen Sache ein Ende bereiten.}
 {547}{}{Wenn du mir nicht glaubst, sieh dich mal im Bahnhof von New Reno um. Dann siehst du schon, was ich meine.}
 {548}{}{Ich seh schon, wir haben uns nichts mehr zu sagen, es sei denn, ich kann es dir beweisen.}
-{550}{}{Aber jetzt möchte ich nicht, dass du meinen Kindern weh tust, keine Schußwaffen! Sie sind keine bösen Kinder, sie sind bloß...irregeleitet. Ich werde mich schon darum kümmern, das zu ändern...}
+{550}{}{Aber jetzt möchte ich nicht, dass du meinen Kindern weh tust, keine Schusswaffen! Sie sind keine bösen Kinder, sie sind bloß...irregeleitet. Ich werde mich schon darum kümmern, das zu ändern...}
 {551}{}{Okay, mach dir keine Sorgen...es wird schon keine Verwundeten oder Toten geben.}
 {552}{}{Ich komm zurück, wenn ich fertig bin. Aber zuerst muss ich mich noch um etwas anderes kümmern.}
 {553}{}{Äh, das kann ich nicht versprechen...vielleicht solltest du jemand anderen finden, der sich um das Problem kümmert.}

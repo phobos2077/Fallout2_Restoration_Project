@@ -88,7 +88,7 @@
 {206}{}{Dafür hab ich keine Zeit... Wachen!}
 {207}{}{[The man looks like he is about to yell, then calms down.] Fine. Here is $500. More than enough for something
  that always belonged to us. Now leave, I'm a busy man.}
-{208}{}{Ein Vergnügen mit dir Geschäfte zu machen. Tschüß}
+{208}{}{Ein Vergnügen mit dir Geschäfte zu machen. Tschüss}
 {209}{}{Oh, Mist!}
 {210}{}{Die Tanzfläche ist eröffnet!}
 {211}{}{You recover the missing Xeno Program specimen.}

@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen gutbewaffneten Söldner.}
-{150}{}{Du siehst einen finsteren Mann in lederner Rüstung. Sein Körper ist von Narben und Schußwunden gezeichnet. Seine Rüstung und seine Waffen sind dagegen in sehr gutem Zustand und sehen fast neu aus.}
+{150}{}{Du siehst einen finsteren Mann in lederner Rüstung. Sein Körper ist von Narben und Schusswunden gezeichnet. Seine Rüstung und seine Waffen sind dagegen in sehr gutem Zustand und sehen fast neu aus.}
 {151}{}{Du siehst einen bewaffneten Gangster. Er beobachtet die Umgebung genau und spielt mit seiner Waffe.}
 {200}{}{Jetzt guck dir die Chuzpe von diesem Idioten an...}
 {201}{}{Kontakt!}

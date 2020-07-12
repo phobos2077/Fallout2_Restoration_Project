@@ -49,7 +49,7 @@
 {291}{}{Grrrr.}
 {292}{}{Danke.}
 {300}{}{Hau ab, du Angeber, bevor ich dir auf die Fresse hau.}
-{301}{}{Hau ab Schlampe. Metzger hätte sowieso keine Frau geschickt, also verpiß dich.}
+{301}{}{Hau ab Schlampe. Metzger hätte sowieso keine Frau geschickt, also verpiss dich.}
 {302}{}{Schlampe? Ich zeig dir, was diese Schlampe alles so kann.}
 {303}{}{LMAA.}
 {304}{}{[Geh]}
@@ -154,7 +154,7 @@
 {710}{}{Da ist dieser Klugscheißer schon wieder! Du willst wirklich in diese Kirche, oder? Wieso? Da ist nichts drin, was dich interessieren könnte.}
 {711}{}{Was zum Teufel willst du eigentlich?}
 {712}{}{Siehst du das Zeichen auf meiner Stirn? Lass mich rein. Sofort! }
-{713}{}{Ich bin seine neue Schnalle, deshalb. Wenn du mich nicht sofort reinlässt, wirst du ganz oben auf seiner Abschußliste stehen, da kannste Gift drauf nehmen!}
+{713}{}{Ich bin seine neue Schnalle, deshalb. Wenn du mich nicht sofort reinlässt, wirst du ganz oben auf seiner Abschussliste stehen, da kannste Gift drauf nehmen!}
 {714}{}{Hör zu, Mann, Metzger zieht mir das Fell über die Ohren, wenn ich nicht bald alles inspiziere. Du weißt ja, wie er sein kann. }
 {715}{}{Das geht dich 'nen Dreck an. Wenn der Boss will, dass ich seinen Kram kontrolliere, dann mach ich's. Ich stell keine Fragen, kapiert!?  }
 {716}{}{Macht nichts.}

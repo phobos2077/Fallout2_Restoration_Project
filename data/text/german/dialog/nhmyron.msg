@@ -403,7 +403,7 @@
 {1297}{}{Nix Freund?}
 {1305}{myn214a}{Aber sicher doch, Kumpel. }
 {1306}{myn214b}{Aber sicher doch, Süße. }
-{1307}{myn214c}{Du und ich - Freunde bis in alle Ewigkeit. Oder bis zum nächsten Schuß. UND JETZT RAUS MIT DIR!}
+{1307}{myn214c}{Du und ich - Freunde bis in alle Ewigkeit. Oder bis zum nächsten Schuss. UND JETZT RAUS MIT DIR!}
 {1308}{}{NIX FREUND. TÖTEN.}
 {1309}{}{Freund alles geben. Sofooort.}
 {1325}{myn215a}{VerDAMMT noch mal! Ich hab Jesus doch gesagt, dass diese Schwachköpfe nichts taugen! Du hast sie also kaltgemacht? Legst du mich jetzt auch noch um?}
@@ -459,8 +459,8 @@
 {1465}{myn224a}{Das würdest du eh nicht verstehen. Wäre viel zu hoch für dich.}
 {1466}{myn224b}{Darüber zerbrich dir nicht dein hübsches, Köpfchen, meine Süße. Ich könnt' dir was anderes vorschlagen, womit du deinen Kopf beschäftigen kannst.}
 {1467}{}{Bist du hier glücklich?}
-{1468}{}{Ja, ich schätze, von einem Idioten wie mir kann man nicht erwarten, dass er den Herstellungsprozeß eines Halluzinogen-Amphetamin-Hybrids wie Jet versteht, was?}
-{1469}{}{Ja, ich schätze, von einem Häschen wie mir kann man nicht erwarten, dass es den Herstellungsprozeß eines Halluzinogen-Amphetamin-Hybrids wie Jet versteht, was?}
+{1468}{}{Ja, ich schätze, von einem Idioten wie mir kann man nicht erwarten, dass er den Herstellungsprozess eines Halluzinogen-Amphetamin-Hybrids wie Jet versteht, was?}
+{1469}{}{Ja, ich schätze, von einem Häschen wie mir kann man nicht erwarten, dass es den Herstellungsprozess eines Halluzinogen-Amphetamin-Hybrids wie Jet versteht, was?}
 {1472}{}{Du wärst vermutlich überrascht, wieviel ich über dein amateurhaftes Halluzinogen-Amphetamin-Hybrid weiß. Ich kann mir nicht vorstellen, dass ein Kind wie du einfach darüber GESTOLPERT ist, Myron.}
 {1473}{}{Tja, danke für die Mühe, Myron. Ich muss jetzt los.}
 {1485}{myn225}{Eigentlich schon. Sie geben mir Nutten, Geld und Jet. Mein eigenes Labor. Den kreativen Freiraum, den ich zum Zaubern brauch, aber, naja...nee, ist schon 'n guter Deal.}

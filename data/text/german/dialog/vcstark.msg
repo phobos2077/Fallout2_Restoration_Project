@@ -232,7 +232,7 @@
 {281}{}{Ich hab da noch ein paar Fragen...}
 {282}{}{Ich muss jetzt weg.}
 {283}{}{Ja, ich hab's selber erlebt. Beim letzten Angriff haben sie eine Laserkanone an der
- westlichen Flanke außer Gefecht gesetzt. Sie hatten freies Schußfeld auf die Stadt. Dann hab ich
+ westlichen Flanke außer Gefecht gesetzt. Sie hatten freies Schussfeld auf die Stadt. Dann hab ich
  gesehen, wie einer von ihren "Offizieren" den Rückzug ANGEORDNET hat. Völlig rätselhaft.}
 {284}{}{Hast du eine Ahnung, woher sie kommen?}
 {285}{}{Hmmm. Ich hatte noch ein paar andere Fragen...}

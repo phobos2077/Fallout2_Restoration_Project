@@ -55,7 +55,7 @@
 {154}{}{Nein.}
 {155}{}{Ich habe gehört, dass du es warst, der die Sklaven vor den Toren der Stadt befreit hat. Das war eine gute Tat. Lass mich dir die Hand reichen.}
 {156}{}{Danke.}
-{157}{}{Ganz einfach. Unser Ziel ist, die Sklaverei auszurotten und dafür tun wir alles. Wir haben in der NCR eine Menge einflußreicher Freunde und ihnen verdanken wir, dass die Sklaverei im Süden bereits verboten ist. Jetzt wollen wir das gleiche auch im Norden durchsetzen.}
+{157}{}{Ganz einfach. Unser Ziel ist, die Sklaverei auszurotten und dafür tun wir alles. Wir haben in der NCR eine Menge einflussreicher Freunde und ihnen verdanken wir, dass die Sklaverei im Süden bereits verboten ist. Jetzt wollen wir das gleiche auch im Norden durchsetzen.}
 {158}{}{Ich werde stolz darauf sein, zu den Rangern zu gehören. Nehmt mich bei euch auf.}
 {159}{}{Interessant... Ich werde mir das mal durch den Kopf gehen lassen.}
 {160}{}{Schwörst du, bei jeder sich bietenden Gelegenheit gegen die Sklaverei zu kämpfen und deinen in Not geratenen Rangerkameraden beizustehen?}
@@ -73,7 +73,7 @@
 {172}{}{OK.}
 {173}{}{Wenn das so ist, muss ich dich auffordern, mir aus den Augen zu gehen. Und zwar sofort!}
 {174}{}{OK.}
-{175}{}{Ein Sklavenhändler! Mach, dass du dich hier verpißt, sonst puste ich dir deine Tätowierung mit 'ner Kugel weg!}
+{175}{}{Ein Sklavenhändler! Mach, dass du dich hier verpisst, sonst puste ich dir deine Tätowierung mit 'ner Kugel weg!}
 {176}{}{Sicher.}
 {177}{}{Versuch's!}
 {178}{}{Wir haben in einigen Städten im Norden Agenten und Sympathisanten. Wir werben für unsere Auffassungen und knöpfen uns alle Sklavenhändler vor, deren wir habhaft werden können.}
@@ -89,7 +89,7 @@
 {205}{}{Die Einzigen, die diesen Ort noch bewachen, sind Leichen. Ich habe das Lager bereits vollständig vernichtet.}
 {206}{}{Ich habe etwa ein Dutzend Wachen gesehen.}
 {207}{}{Ich kann es dir nicht sagen - ich war noch nicht dort.}
-{208}{}{Tatsächlich? Das ist erstaunlich! Ich muß es den anderen Rangern erzählen. Jetzt ist der richtige Zeitpunkt für uns, aufzustehen und sie anzugreifen, während sie damit beschäftigt sind, ihre Wunden zu lecken. Ich kann dir nicht genug danken. Wir stehen tief in deiner Schuld.}
+{208}{}{Tatsächlich? Das ist erstaunlich! Ich muss es den anderen Rangern erzählen. Jetzt ist der richtige Zeitpunkt für uns, aufzustehen und sie anzugreifen, während sie damit beschäftigt sind, ihre Wunden zu lecken. Ich kann dir nicht genug danken. Wir stehen tief in deiner Schuld.}
 {209}{}{Ihr Dank ist alles was ich brauche. Auf Wiedersehen}
 {210}{}{Wenn du von meiner Arbeit so begeistert bist, wie wär's mit etwas Bargeld als Belohnung?}
 {211}{}{Wir müssen sie sofort angreifen. Willst du diese Drecksäcke für uns beseitigen?}
@@ -126,7 +126,7 @@
 {261}{}{Klar. Das war ich.}
 {262}{}{Todsicher war ich das. Hast du ein Problem damit? }
 {263}{}{Vielleicht... warum fragst du?}
-{264}{}{Ich hab keine Ahnung wovon du sprichst. Also, wenn du mich entschuldigst, ich muß mich auf den Weg machen.}
+{264}{}{Ich hab keine Ahnung wovon du sprichst. Also, wenn du mich entschuldigst, ich muss mich auf den Weg machen.}
 {270}{}{Du hast ein echt gutes Werk vollbracht, und ich möchte dir einfach die Hand schütteln.}
 {271}{}{Durchaus nicht. Genau genommen, möchte ich dir gerne die Hand schütteln.}
 {272}{}{Weil du da eine echt gute Sache gemacht hast, und ich dir einfach die Hand schütteln möchte.}
@@ -137,5 +137,5 @@
 {282}{}{Danke. Warum erzählst du mir jetzt nicht wer du bist?}
 {290}{}{Ich bin Elise. Das ist Gond. Wir sind Mitglieder einer Anti-Sklaven Organisation genannt die New California Ranger. Wir könnten jemanden wie dich gebrauchen. Wenn du daran interessiert bist, bei uns mitzumachen, habe ich eine Aufgabe für dich.}
 {291}{}{Erzähl mir davon.}
-{292}{}{Kein Interesse. Tschüß.}
+{292}{}{Kein Interesse. Tschüss.}
 {300}{}{Help you with something, Ranger?}

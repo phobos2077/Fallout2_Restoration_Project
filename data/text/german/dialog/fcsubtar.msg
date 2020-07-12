@@ -5,7 +5,7 @@
  wissenschaftlichen Annäherung mehr über das System herausfinden.}
 {210}{}{Mit ein paar erweiterten Befehlen, ist das System unterwandert und startet korrekt. Einige Tastenanschläge später, sind die Torpedolenksysteme 
  deaktiviert und so manipuliert, dass sie ein paar Minuten nach dem Verlassen der Rohre explodieren. Wissenschaft!}
-{211}{}{Du fummelst ein paar Minuten an dem System herum, aber du bist nicht in der Lage, etwas zu erreichen. Scheinbar mußt du einen anderen Weg 
+{211}{}{Du fummelst ein paar Minuten an dem System herum, aber du bist nicht in der Lage, etwas zu erreichen. Scheinbar musst du einen anderen Weg 
  finden, um die Torpedos zu deaktivieren.}
 {212}{}{*Piep*}
 {213}{}{*Biibuup*}

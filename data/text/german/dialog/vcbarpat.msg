@@ -33,7 +33,7 @@
 {131}{}{Ich hab den Wachen doch schon das Schutzgeld bezahlt. Und jetzt lasst mich in Ruhe.}
 {132}{}{Na, mischst du dich ein bisschen unter den Pöbel, Bürger?}
 {133}{}{Vielleicht gehst du besser in die Stadt zurück, Bürger.}
-{134}{}{Verpiß dich, Bürger.}
+{134}{}{Verpiss dich, Bürger.}
 {135}{}{Mach die Fliege, Bürger.}
 {136}{}{Scheint, als würde Lynette neuerdings jeden zum Bürger ernennen.}
 {137}{}{Dieser Smith ist 'n netter Kerl.}

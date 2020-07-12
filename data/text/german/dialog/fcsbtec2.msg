@@ -21,7 +21,7 @@
 {350}{}{Tut mir leid, aber NEIN. Du könntest etwas zerstören und wir verlieren das Subsystem für immer, und ich bin *nicht* bereit, die Torpedozielsteuerungseinheit per Hand einzustellen. Also, wenn du nicht etwas *nennenswertes* für mich hast, lass mich bitte zu meiner Arbeit zurückkehren.}
 {351}{}{In der Tat, da ist etwas. Ich habe neue Zielparameter für die Torpedos, überprüft vom Kaiser, äh, persönlich. Du bist das ansässige Computergenie, also glaube ich, dass ich dich damit betrauen kann.}
 {352}{}{Entschuldige die Störung.}
-{360}{}{Nein, ich brauche keine Hilfe oder neue Daten. Ich bin hier um zu Arbeiten, und du hinderst mich daran zu arbeiten, geh weg, oder ich muß dich *wegbringen*!}
+{360}{}{Nein, ich brauche keine Hilfe oder neue Daten. Ich bin hier um zu Arbeiten, und du hinderst mich daran zu arbeiten, geh weg, oder ich muss dich *wegbringen*!}
 {361}{}{Entschuldige die Störung.}
 {370}{}{He, ich bin beschäftigt.}
 {371}{}{Tut mit leid, ich arbeite.}

@@ -105,7 +105,7 @@
 {523}{}{Sie ist %s}
 {524}{}{Es ist %s}
 {525}{}{%s hat %d/%d Trefferpunkte.}
-{526}{}{Es hat %d/%d Schuß %s.}
+{526}{}{Es hat %d/%d Schuss %s.}
 {530}{}{ und hat schwer verletzte Gliedmaßen.}
 {531}{}{, hat aber schwer verletzte Gliedmaßen.}
 {532}{}{ und hast schwer verletzte Gliedmaßen.}
@@ -118,7 +118,7 @@
 {544}{}{, }
 {545}{}{.}
 {546}{}{ und trägt: %s.}
-{547}{}{ und trägt: %s mit %d/%d Schuß %s.}
+{547}{}{ und trägt: %s mit %d/%d Schuss %s.}
 {548}{}{Das Auto sieht nicht so aus, als würde es im Augenblick funktionieren.}
 {549}{}{Das Auto läuft mit %d%% Energie.}
 {550}{}{\nFehler: lookup_val ist außerhalb des Bereichs!}

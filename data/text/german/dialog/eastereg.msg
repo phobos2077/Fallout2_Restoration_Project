@@ -91,7 +91,7 @@
  Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, and the Masses. They all helped in the great project to restore
  this world from the bug infestation. The only good bug is a dead bug.}
 {941}{}{Hmm. Diese Namen klingen irgendwie vertraut... Nun, ich denke, dass ich werde mit ihnen reden.}
-{950}{}{Kann ich allerdings. Du mußt lernen, deine Empfindungen zu benutzen: dich von deinem bewussten Verstand lösen. Schalte den Monitor aus.
+{950}{}{Kann ich allerdings. Du musst lernen, deine Empfindungen zu benutzen: dich von deinem bewussten Verstand lösen. Schalte den Monitor aus.
  Schließe die Augen und spüre wie die "Source" durch die Maus fließt... (Befolge seine Anweisungen.)}
 {951}{}{Dir fehlt die Erfahrung, um mit dem Training zu beginnen. Kehre zu mir zurück, wenn du zumindest Grundkenntnisse in der Programmierung gelernt hast, junger Padawan.}
 {960}{}{Wie du möchtest, }
@@ -109,7 +109,7 @@
  engine fixes to greatly improve the stability of this world, and correct FOOLISH AND STUPID MISTAKES left by the original ones.}
 {1011}{}{Wirklich, mein Meister. Erzähle mir von dir Gebieter.}
 {1012}{}{Mann! Du bist gruselig. Und dein Gesicht sieht schrecklich aus.}
-{1013}{}{Das ist nett. Ich muß gehen.}
+{1013}{}{Das ist nett. Ich muss gehen.}
 {1020}{}{Ich kann ändern, was in der "Source" festgeschrieben ist. Ein kleiner Gedanke von mir kann das Schicksal des gesamten Universums verändern!
  Eine ganze Legion meiner besten Bugfixes erwartet dich im Rest des Abenteuers. Ich bin der Meister der dunklen Seite von der "Source".}
 {1021}{}{Sei still! Die Jahre der Arbeit im Dunkeln können mein Aussehen verfälscht haben, aber in meinem Geist steckt die Macht eines Gottes!
@@ -117,18 +117,18 @@
  Ich war es auch, der Evil Beth erlaubte, die RPG Welt mit meinen Mods zu beherrschen. Alles, was geschehen ist, entsprach MEINEM Wunsch.}
 {1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
 {1023}{}{Ja ja. Mensch, was du auch sagst. Ich denke, dass ich jetzt gehe.}
-{1024}{}{Äh, OK. Das ist toll. Nun, ich muß... äh... meine Pflanzen gießen...}
+{1024}{}{Äh, OK. Das ist toll. Nun, ich muss... äh... meine Pflanzen gießen...}
 {1030}{}{Dummer Narr. Dein übersteigertes Selbstvertrauen ist deine Schwäche, und mein Vertrauen zu deinen Freunden ist... äh... meine. *schaut irritiert* Geh mir aus den Augen.}
 {1040}{}{Warte! Du kannst gehen WANN und WENN ich es sage. Falls es dir nicht aufgefallen ist, du bist äußerst gemein auf deiner Suche gewesen.
  Dein Hass hat dich mächtig gemacht, und dein Charakter hat sich entsprechend meinen Wünschen entwickelt.
  Wut, Angst, Hass... zu der dunklen Seite gehören sie. Jetzt bist du mein Lehrling und dein Platz ist AN MEINER SEITE!}
 {1041}{}{Wie du wünscht, mein Meister. Ich warte auf dein Geheiß.}
-{1042}{}{Kein Interesse. Tschüß.}
+{1042}{}{Kein Interesse. Tschüss.}
 {1045}{}{Geh hinaus und verbreite das Chaos, mein Kind.}
 {1046}{}{Fort mit dir!}
 {1050}{}{Eeeeeeexzellent. Dann nimm diese Java-Waffe. Benutze sie. Töte wahllos. BEDIENE DICH DEINER AGRRESSIVEN GEFÜHLE, mein Kind!
  (Er gibt dir ein rotes Lichtschwert.)}
-{1051}{}{Also... im Prinzip soll ich so weitermachen wie bisher. Kein Problem. Tschüß!}
+{1051}{}{Also... im Prinzip soll ich so weitermachen wie bisher. Kein Problem. Tschüss!}
 {1052}{}{Ich werde dich nicht enttäuschen, mein Meister.}
 {1053}{}{Alle töten? Meinst du... auch die Kinder?}
 {1060}{}{INSBESONDERE die Kinder.}
@@ -143,7 +143,7 @@
 {1122}{}{Amen Bruder. Vielen Dank für deine Hilfe bei der Erschaffung dieses Hort des Friedens und des Trostes. Gerade als ich meine verstrahlten Füße ausruhen musste und geistige Erneuerung benötigte.}
 {1123}{}{Ich erinnere mich an den Ort. Allerdings gab es keinen kompetenten Schamanen, und keine Superkräuter. Ich weiß nicht, wer sich darunter ein spirituelles Zentrum vorstellt, ich jedenfalls nicht.}
 {1124}{}{Oh? Und wo ist dieser Ort, der mich retten kann?}
-{1125}{}{Kuckuck! Aber jetzt Tschüß!}
+{1125}{}{Kuckuck! Aber jetzt Tschüss!}
 {1130}{}{Du solltest jetzt dorthin gehen.}
 {1131}{}{Ich bin schon unterwegs, Mr. Skynet. Danke für alles. Auf Wiedersehen.}
 {1132}{}{Nun, ich denke, du solltest hingehen Skyhirni, und dort bleiben. Ich hau hier ab. Freak.}
@@ -179,18 +179,18 @@
 {1601}{}{Dieser Kerl ist wirklich begeistert...}
 {1610}{}{[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?}
 {1611}{}{Ziemlich gut. Es war ein steiniger Weg, aber ich habe endlich das Ende erreicht.}
-{1612}{}{Dafür habe ich wirklich keine Zeit. Tschüß.}
+{1612}{}{Dafür habe ich wirklich keine Zeit. Tschüss.}
 {1620}{}{Das ist gut zu hören. [Er schaut sich um, dann runzelt er die Stirn.] Wo ist Dex? Ich verbrachte viel Zeit damit, den Dialog dieses Dandys zu schreiben, und du nutzt ihn nicht einmal? [Er seufzt schwer und schüttelt seinen Kopf.]}
 {1621}{}{Dex? Seine Dialog geschrieben? Was redest du?}
 {1630}{}{Das ist gut zu hören. Entschuldige mich einen Moment. [Er geht zu Dex rüber, begrüßt ihn und kehrt dann zu dir zurück.] Ich bin froh, dich und meinen Mann Dex zusammen zu sehen. Weißt du, ich verbrachte viel Zeit damit, den Dialog dieses Dandys zu schreiben.}
 {1631}{}{Woher kennst du Dex? Und du hast "seinen Dialog geschrieben"? Worüber sprichst du?}
 {1640}{}{Hör mal, es tut nichts zur Sache. Aber, wenn du wieder beschließt, eine neue epische Suche in Angriff zu nehmen, solltest du bei der EPA vorbeisehen. Dort gibt es eine Unmenge von Dingen zu erledigen, und wenn du deine Karten richtig ausspielst, findest du vielleicht auch einen neuen Begleiter. [Er mustert dich und grinst.] Ja, du bist genau der Typ für Dex, ihr werdet sicher Freunde.}
 {1641}{}{Danke. Ich werde es im Auge behalten.}
-{1650}{}{Hör mal, es tut nichts zur Sache. Aber, wenn du wieder beschließt, eine neue epische Suche in Angriff zu nehmen, solltest du bei der EPA vorbeisehen. Dort gibt es eine Unmenge von Dingen zu erledigen, und wenn du deine Karten richtig ausspielst, findest du vielleicht auch einen neuen Begleiter. [Er mustert dich.] Wahrscheinlich mußt du deine Einstellung ändern, wenn du ein Freund von Dex werden willst. Er mag seine Gefährten ein wenig mehr... moralisch gestört.}
+{1650}{}{Hör mal, es tut nichts zur Sache. Aber, wenn du wieder beschließt, eine neue epische Suche in Angriff zu nehmen, solltest du bei der EPA vorbeisehen. Dort gibt es eine Unmenge von Dingen zu erledigen, und wenn du deine Karten richtig ausspielst, findest du vielleicht auch einen neuen Begleiter. [Er mustert dich.] Wahrscheinlich musst du deine Einstellung ändern, wenn du ein Freund von Dex werden willst. Er mag seine Gefährten ein wenig mehr... moralisch gestört.}
 {1651}{}{Danke. Ich werde es im Auge behalten.}
 {1660}{}{[Er nickt und blickt in die Ferne.] Weißt du, Dex war nicht mein einziger Beitrag. Ich half auch dem Bear Dude beim Verfeinern dieser Welt durch die Unterstützung als Berater, Tester und Wächter von Grundprinzip und Originalabsicht. Aber hauptsächlich war ich damit beschäftigt, alle neuen Ödlandgespräche auf einen Nenner zu bringen. Es war ein verflucht langer Weg, aber wenn du mich fragst, wurde das Ding verdammt toll. [Er blickt dich an und grinst.]}
-{1661}{}{Wie auch immer. Ich bin es leid dir zuzuhören. Tschüß.}
-{1662}{}{Das ist ziemlich großzügig von dir. Du hast bemerkenswerte Arbeit geleistet. Pass auf dich auf. Tschüß.}
+{1661}{}{Wie auch immer. Ich bin es leid dir zuzuhören. Tschüss.}
+{1662}{}{Das ist ziemlich großzügig von dir. Du hast bemerkenswerte Arbeit geleistet. Pass auf dich auf. Tschüss.}
 {1670}{}{*Looks over at your party members* Lookin' good, Dex.}
 {1671}{}{Pass auf Dex auf, okay? Ich will nicht dass er in Schwierigkeiten gerät. Schließlich ist er mein Schöpfung.}
 {1672}{}{Herzlichen Dank dass du die Dialoge des Ödlands entrümpelt hast.}
@@ -216,15 +216,15 @@
 {2010}{}{[Der Roboter nickt, als du dich näherst.] Hallo. Genießt du den Aufenthalt in dieser Welt?}
 {2011}{}{Ja sicher. Danke der Nachfrage.}
 {2012}{}{Nicht wirklich. Es könnte besser sein.}
-{2013}{}{Ich hab gerade keine Lust zum Plaudern. Tschüß.}
+{2013}{}{Ich hab gerade keine Lust zum Plaudern. Tschüss.}
 {2020}{}{Das ist schön zu hören! Ich hoffe, dass all die schwere Arbeit, die ich tat, um jeden Schauplatz so einzigartig und detailliert wie möglich erscheinen zu lassen, irgendwie für deine Zufriedenheit verantwortlich ist. Es nahm viel Zeit in Anspruch, um die Dinge zu ordnen, aber die allgemeine Atmosphäre und das Erscheinungsbild sind jetzt Spitzenklasse. Meinst du nicht auch?}
 {2021}{}{Oh, definitiv. Alles sieht toll aus. Du bist ziemlich talentiert!}
 {2022}{}{Na ja, es geht.}
-{2023}{}{Wie schön. Tschüß.}
+{2023}{}{Wie schön. Tschüss.}
 {2030}{}{Ich bedauere, das zu hören. Vielleicht hast du dir die Welt um dich herum nicht genau genug angesehen. Ich habe viel getan, damit jedes Gebiet so einzigartig und detailliert wie möglich erscheint. Vielleicht, wenn du dir die Details ansiehst, bessert sich deine Laune. Es nahm viel Zeit in Anspruch, um die Dinge zu ordnen, aber die allgemeine Atmosphäre und das Erscheinungsbild sind jetzt Spitzenklasse. Meinst du nicht auch?}
 {2031}{}{Jetzt, wo du es sagst, fällt mir auf, dass wirklich alles viel netter aussieht.}
 {2032}{}{Ist mir nicht wirklich aufgefallen.}
-{2033}{}{Wie schön. Tschüß.}
+{2033}{}{Wie schön. Tschüss.}
 {2040}{}{[Der Roboter schwankt entzückt hin und her.] Ich bin froh, dass es dir gefällt. Nun, ich muss jetzt gehen. Ich habe noch mehr tolle Sachen, die ich auf diese Welt loslassen möchte.}
 {2041}{}{In Ordnung. Pass auf dich auf.}
 {2050}{}{[Der Roboter senkt traurig den Kopf.] Nun, meine Arbeit ist nicht für jeden, nehme ich an. Nun, wenn du mich entschuldigst, ich muss jetzt gehen. Ich habe noch mehr tolle Sachen, die ich auf diese Welt loslassen möchte.}
@@ -237,7 +237,7 @@
  of this world could be shown at any one time. I changed all this though. Empress Timeslip and I are masters of the
  Source. He and I have brought this old world into a new era.}
 {2111}{}{Toll, vielen Dank dafür. Alles ist viel besser. Manchmal etwas zu klein, aber das kann man leicht einstellen.}
-{2112}{}{Dafür habe ich wirklich keine Zeit. Tschüß.}
+{2112}{}{Dafür habe ich wirklich keine Zeit. Tschüss.}
 {2120}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
  with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
  help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have taken advantage of this

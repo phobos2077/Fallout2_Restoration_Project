@@ -5,10 +5,10 @@
 {201}{}{Mal sehen... ich benutzte ein Seil, um einen Aufzugsschacht zur Versorgungsebene hinunterzuklettern... dann kroch ich durch einen Ventilatorschacht und fand mich in einem Wartungsbereich für Roboter wieder...}
 {210}{}{Ich bin überrascht dass Sie an den ganzen verdammten Pflanzen vorbeigekommen sind, ohne gefressen zu werden. Ich bin Hologram 10031, Direktor der Boden-Instandhaltung der EPA. [Er seufzt schwer.] Ich weiß, ich weiß, die Außen- anlagen sehen schrecklich aus. Überflüssig das zu erwähnen.}
 {211}{}{Wenn du mit der Art, wie das Gebiet ausschaut, nicht zufrieden bist, warum tust du nicht etwas dagegen?}
-{212}{}{Aber echt! Die Böden sind übersät mit radioaktiven Glibber, Leichen, mutierten fleischfressenden Pflanzen... Ernsthaft, du mußt der schlechteste Landschaftsgestalter aller Zeiten sein.}
+{212}{}{Aber echt! Die Böden sind übersät mit radioaktiven Glibber, Leichen, mutierten fleischfressenden Pflanzen... Ernsthaft, du musst der schlechteste Landschaftsgestalter aller Zeiten sein.}
 {220}{}{Glauben Sie mir, wenn ich etwas tun könnte, würde ich das auch tun. Ich habe keinen physischen Körper erhalten, und die verdammten Roboter reagieren nicht auf ein Wort, das ich sage. Ich arbeite in den letzten Jahrzehnten mit 100% Ineffizienz - wie erbärmlich ist das? Die anderen Hologramme lassen es mich auch nicht vergessen. Der einzige, der noch nutzloser ist als ich, ist der leitende Direktor.}
 {221}{}{Vielleicht könnte ich irgendwie helfen?}
-{222}{}{Das ist wirklich schade. Ich muss jetzt weg. Tschüß.}
+{222}{}{Das ist wirklich schade. Ich muss jetzt weg. Tschüss.}
 {230}{}{Hey, wenn Sie wirklich dazu bereit sind zu helfen, wäre das großartig. Ich versichere Ihnen, dass Sie für ihre Mühen entlohnt werden.}
 {231}{}{So gut wie erledigt. Wie kann ich helfen?}
 {232}{}{Nein, dafür hab ich keine Zeit.}

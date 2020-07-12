@@ -116,7 +116,7 @@
 {180}{}{In letzter Zeit scheinen immer mehr Bergarbeiter immer länger auf Jet zu fliegen als zu
  arbeiten. Wenn das so weitergeht, kommt Reddings Goldproduktion noch zum Stillstand. New Reno
  scheint das allerdings nichts auszumachen.}
-{181}{}{Alle Bergarbeiter hier arbeiten nur gerade so viel, dass sie sich ihren nächsten Schuß
+{181}{}{Alle Bergarbeiter hier arbeiten nur gerade so viel, dass sie sich ihren nächsten Schuss
  Jet leisten können. Die Produktion ist ganz schön zurückgegangen. Wenn das so weitergeht,
  gehört Redding bald New Reno.}
 {182}{}{Alles, was die Bergarbeiter in letzter Zeit hier tun, ist Jet nehmen. Es gräbt kaum

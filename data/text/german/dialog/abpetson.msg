@@ -39,7 +39,7 @@
 {607}{}{Ich versuch den Bastard zu schnappen. Vielleicht warte ich dort um Mitternacht und seh zu was ich herausfinden kann.
  Naja, danke jedenfalls für die Auskunft. Machs gut.}
 {608}{}{Ich schau mal was ich tun kann. Ich habe aber noch ein paar Fragen bevor ich gehe.}
-{609}{}{Diese Geschichte wird etwas zu lang. Tschüß.}
+{609}{}{Diese Geschichte wird etwas zu lang. Tschüss.}
 {610}{}{Lass mich das klarstellen. Du willst jemandem helfen, der nachts um das Haus schleicht,
  die Ernte stiehlt und die Toten beraubt? Ich habe eine Menge Spinner in meinem Leben getroffen,
  aber du bist die Krönung. Ein Wunder, dass du so lange überlebt hast.}

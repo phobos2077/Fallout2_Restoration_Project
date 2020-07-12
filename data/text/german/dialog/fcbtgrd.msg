@@ -7,18 +7,18 @@
 {204}{}{Mich reiten auf Metall-Fischi?}
 {210}{}{Geht dich nichts an, Outsider. Verpiss dich.}
 {211}{}{Schlechte Wortwahl du Arschloch. Das wird deine Letzte sein.}
-{212}{}{Ich versteh' den Hinweis. Kein Grund ein Arschloch zu sein. Tschüß.}
+{212}{}{Ich versteh' den Hinweis. Kein Grund ein Arschloch zu sein. Tschüss.}
 {213}{}{Was auch immer du meinst, Kollege.}
 {220}{}{[Er sieht dich an, als ob du das dümmste Lebewesen dieser Welt wärst. Er schüttelt langsam mit dem Kopf.] Du nicht reiten auf Metall-Fischi. Du gehst, oder ich schieße. Verstanden?}
 {221}{}{Okie, Tschööö!}
 {222}{}{Du gemeiner Mann. Ich zerschmetter gemeinen Mann!}
 {230}{}{[Die Wache greift zu seiner Waffe und starrt dich wortlos an.]}
 {231}{}{Kann ich mir dein Boot für 'ne Minute ausleihen?}
-{232}{}{Ich wollte nur mal schauen, ob du immer noch ein Arschloch bist. Jep, du bist es immer noch. Tschüß.}
-{233}{}{Verzeihung, aber ich dachte du, äh, wärst jemand anderes. Tschüß.}
+{232}{}{Ich wollte nur mal schauen, ob du immer noch ein Arschloch bist. Jep, du bist es immer noch. Tschüss.}
+{233}{}{Verzeihung, aber ich dachte du, äh, wärst jemand anderes. Tschüss.}
 {234}{}{Ich hoffe du weißt, wie man das Ding benutzt, denn ich beabsichtige so oder so das verdammte Boot zu nehmen.}
 {240}{}{[Er sieht dich an, als ob du das dümmste Lebewesen dieser Welt wärst. Er schüttelt langsam den Kopf.] Nein, nun verschwinde! Stell mir noch eine Frage und ich werde dir weh tun.}
-{241}{}{Okay, ich gehe. Tschüß.}
+{241}{}{Okay, ich gehe. Tschüss.}
 {242}{}{Ist das wahr?}
 {250}{}{Hau ab da!}
 {251}{}{Fass das noch einmal an und ich knall dich ab.}

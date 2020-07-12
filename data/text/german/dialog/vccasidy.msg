@@ -34,7 +34,7 @@
 {129}{Cas0129}{Bitte schön. Trink. Das hilft dir vielleicht vergessen, wo du dich befindest.}
 {130}{}{So schlimm kann's hier doch wohl auch nicht sein.}
 {131}{}{Danke für den Drink. Ich muss jetzt gehen.}
-{132}{Cas0132}{Tatsächlich? Also, dann ich muß mich wohl geirrt haben. Schließlich bist DU ja der
+{132}{Cas0132}{Tatsächlich? Also, dann ich muss mich wohl geirrt haben. Schließlich bist DU ja der
  Experte. Hast du die Razzia letzte Woche etwa verpennt?}
 {133}{}{Razzia?}
 {134}{Cas0134}{Oh ja, es war phantastisch. Eine Wachpatrouille platzte auf der Suche nach "illegalen
@@ -44,11 +44,11 @@
 {136}{}{Tut mir echt leid. Bis später.}
 {137}{Cas0137}{Nachdem sie den einen Typen, Joshua, wegen Widerstand bei seiner Festnahme in die
  Arrestzelle geschleppt hatten, haben sie mir auch noch ein Bußgeld aufgebrummt, weil sie
- - das mußt du dir mal reinziehen! - ECHTEN Whiskey hier bei mir gefunden haben. Dabei hab ich
+ - das musst du dir mal reinziehen! - ECHTEN Whiskey hier bei mir gefunden haben. Dabei hab ich
  vor drei Monaten eine Genehmigung von Stark erhalten. Diese Schweine.}
 {138}{}{Wow! Was du nicht sagst.}
 {139}{}{Tut mir echt leid. Bis später.}
-{140}{Cas0140}{Und es kommt noch besser. Jetzt schulde ich den Wachen das Bußgeld und ich mußte bei
+{140}{Cas0140}{Und es kommt noch besser. Jetzt schulde ich den Wachen das Bußgeld und ich musste bei
  einem Händler 'ne neue Kiste Alkohol zum dreifachen Preis kaufen. Und ich rechne damit, dass die
  Wachen bald wieder auftauchen, nur um mir das Leben zur Hölle zu machen. }
 {141}{}{Wie läuft es denn normalerweise?}
@@ -93,7 +93,7 @@ schon ist.}
 {169}{}{}
 {170}{}{}
 {171}{Cas0171}{Was ist denn jetzt los? Du machst wieder so ein
- "Ich-muß-dir-jetzt-was-sagen-das-dir-nicht-gefallen-wird" Gesicht.}
+ "Ich-muss-dir-jetzt-was-sagen-das-dir-nicht-gefallen-wird" Gesicht.}
 {172}{Cas0172}{Ja?}
 {173}{Cas0173}{Was ist los? Du wirkst schon wieder, als wolltest du den Vorgesetzten rauskehren.}
 {174}{}{Ich wollte dich was fragen...}
@@ -158,7 +158,7 @@ schon ist.}
 {298}{Cas0298}{Häh, gibt's für sowas jetzt auch Kits? Davon steht nichts in den Schulbüchern, was? Naja.
  OK, Gehn wir auf die Jagd.}
 {299}{Cas0299}{Aha. Na dann, alles klar. Wollt's eben genau wissen.}
-{300}{Cas0300}{Würde mir nichts ausmachen, 'n paar Kidnapper mit Blei vollzupumpen. Bißchen Lynchjustiz
+{300}{Cas0300}{Würde mir nichts ausmachen, 'n paar Kidnapper mit Blei vollzupumpen. Bisschen Lynchjustiz
  hat noch niemandem geschadet... Mir jedenfalls nicht.}
 {301}{}{Alles klar. Auf geht's!}
 {302}{Cas0302}{Die Sachen, die dieser kleine Kerl da von sich gibt, sind nichts für empfindliche Ohren.}

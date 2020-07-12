@@ -47,10 +47,10 @@
 {139}{}{Ich muss jetzt gehen. Auf Wiedersehen}
 {140}{}{Ich meine, wir wollen nicht zurück zum Morgen, wir wollen vorwärts gehen.}
 {141}{}{Kann man denn noch anders gehen?}
-{142}{}{Man kann nicht vorsichtig genug sein, denn ganz seltsame Leute können einflußreiche
- Positionen erreichen und außerordentlichen Einfluß auf die Geschichte nehmen.}
+{142}{}{Man kann nicht vorsichtig genug sein, denn ganz seltsame Leute können einflussreiche
+ Positionen erreichen und außerordentlichen Einfluss auf die Geschichte nehmen.}
 {143}{}{Ja, das sehe ich.}
-{144}{}{Welchen Einfluß willst du denn auf die Geschichte nehmen?}
+{144}{}{Welchen Einfluss willst du denn auf die Geschichte nehmen?}
 {145}{}{Ja, diese Richtung gefällt mir. Ich habe in der Vergangenheit gute Entscheidungen
  getroffen. Ich habe in der Zukunft gute Entscheidungen getroffen. Deshalb sollten wir auf alle
  Fälle in diese Richtung gehen.}

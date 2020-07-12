@@ -200,7 +200,7 @@
 {662}{}{Jetzt reicht's über die Mordinos und die anderen Familien. Erzähl mir was von diesem Myron...}
 {670}{}{Sie verkaufen es in ganz New Reno, dann noch in Den im Norden und ... äh... (Fängt sich wieder, zuckt die Achseln und redet weiter.) ...tja, in letzter Zeit wird es auch nach Redding verkauft, was den Mordinos auch kräftig was einbringt.}
 {672}{}{Erzähl mir was über Redding.}
-{685}{}{Gibt nicht VIEL zu sagen. Kleine Bergwerksstadt nordwestlich von hier. Es heißt, dass Mordino da ein bisschen mehr Einfluß möchte und an das GOLD ran will, das sie in Redding ausgraben. Er liefert ihnen also Jet und sie liefern ihm Gold, da sind alle zufrieden.}
+{685}{}{Gibt nicht VIEL zu sagen. Kleine Bergwerksstadt nordwestlich von hier. Es heißt, dass Mordino da ein bisschen mehr Einfluss möchte und an das GOLD ran will, das sie in Redding ausgraben. Er liefert ihnen also Jet und sie liefern ihm Gold, da sind alle zufrieden.}
 {695}{}{Ruhige Leute. Werden von Louis Salvatore angeführt, ein echter Gangster, der es zu was gebracht hat. Ihr Gebiet ist im Westen der Stadt. Sie hängen immer in der Bar namens Salvatore's auf der 2nd Street ab. Mach da bloß keinen Ärger.}
 {696}{}{Wieso nicht?}
 {710}{}{Ein Gratistip: Wenn du einen Salvatore siehst, verhalt dich ruhig und halt die Klappe, sonst zerlegen die dich. Haben die besten Waffen in dieser Ecke von Kalifornien, deswegen legt sich auch keiner mit ihnen an, der noch etwas Hirn im Schädel hat. Kapiert?}
@@ -233,7 +233,7 @@
 {841}{}{Die Mordinos haben ein paar von Sklavenhändlern gekauft, die hier vorbeikamen.}
 {842}{}{Die Mordinos haben ein paar von Sklavenhändlern wie dir gekauft, die hier in New Reno vorbeikamen. }
 {843}{}{Die kaufen auch ganz schön viele, weil die Sklaven immer krank werden, abhauen... oder sterben. Die meisten sterben eigentlich.}
-{860}{}{Um es noch weiter zu verbessern, glaub ich, den Prozeß und das Jet selbst. Jet ist zwar schon gut, aber wenn man es noch BESSER machen kann... ist dann wohl der Unterschied zwischen ein bisschen Hüpfen und zum Mond fliegen.}
+{860}{}{Um es noch weiter zu verbessern, glaub ich, den Prozess und das Jet selbst. Jet ist zwar schon gut, aber wenn man es noch BESSER machen kann... ist dann wohl der Unterschied zwischen ein bisschen Hüpfen und zum Mond fliegen.}
 {880}{}{Jetzt warte mal eben - da würde ich nicht im TRAUM dran denken, wenn ich du wäre. Die Mordinos bewachen das Haus wie tollwütige Hunde. Schlag dir das lieber aus dem Kopf.}
 {881}{}{Es muss doch einen Weg da rein geben...}
 {886}{}{OK, OK, ist ja schon gut. Danke für die Informationen.}

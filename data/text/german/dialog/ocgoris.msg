@@ -84,7 +84,7 @@
 {153}{}{Hmm... Ich möchte dich noch was fragen.}
 {154}{}{Ich wusste, dass diese verdammte Deathclaws irgendwie dafür verantwortlich sind! Aber ich
  brauch noch mehr Informationen.}
-{155}{}{Manchmal sind wir durch Situationen, auf die wir keinen Einfluß haben, gezwungen,
+{155}{}{Manchmal sind wir durch Situationen, auf die wir keinen Einfluss haben, gezwungen,
  schreckliche Dinge zu tun. Gruthar sollte lernen, sich selbst zu vergeben.}
 {156}{}{Gruthar ist nicht das Monster, das er zu sein scheint. Er kümmert sich hier wirklich sehr
  um uns und tut alles in seiner Macht stehende für unsere Sicherheit und unser Überleben. Wir

@@ -70,7 +70,7 @@
 {631}{}{Ja, ich habe alles hier.}
 {632}{}{Nein, noch nicht.}
 {640}{}{Ausgezeichnet. Das wird gut funktionieren. Hier ist etwas Heilpulver für deine Mühe.}
-{641}{}{Danke. Tschüß.}
+{641}{}{Danke. Tschüss.}
 {1000}{}{Du hast den Schamanen dieses Stammes von seinen Sorgen befreit.}
 {2000}{}{Du hast die Kräuter dem Schamanen abgeliefert.}
 {3000}{}{Ich weiß, dass du ein Held bist...die Geister haben es mir gesagt.}

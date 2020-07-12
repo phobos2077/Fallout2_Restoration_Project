@@ -140,7 +140,7 @@
 {1119}{}{Jeder Level von Gebildet gibt dir +2 Fähigkeitspunkte, wenn du eine neue Erfahrungsebene bewältigst. Dieser Bonus funktioniert am besten, wenn du ihn schon zu einem frühen Zeitpunkt deines Abenteuers kaufst.}
 {1120}{}{Es fällt dir mit diesem Bonus leichter, andere zu heilen. Jeder Level dieses Bonus heilt 4-10 zusätzliche Trefferpunkte, wenn du die Erste-Hilfe- oder Arzt-Fähigkeiten anwendest.}
 {1121}{}{Du hast eine Begabung dafür, Geld zu finden. Du findest bei verschiedenen Zufallsbegegnungen in der Wüste noch mehr Geld.}
-{1122}{}{Im Kampf gelandete kritische Treffer richten mehr Unheil an. Du erhältst einen Bonus von 20%, so dass verstärkt Schaden angerichtet wird. Die Chance, einen kritischen Treffer zu landen, wird nicht beeinflußt. }
+{1122}{}{Im Kampf gelandete kritische Treffer richten mehr Unheil an. Du erhältst einen Bonus von 20%, so dass verstärkt Schaden angerichtet wird. Die Chance, einen kritischen Treffer zu landen, wird nicht beeinflusst. }
 {1123}{}{Du hast andere menschliche Wesen studiert, um ihre emotionale Reaktion dir gegenüber genau einzuschätzen. Du siehst bei einem vertraulichen Gespräch den Reaktionswert der Person, mit der du gerade sprichst. }
 {1124}{}{Du bist der leibhaftige Totschläger! Bei Nahkämpfen werden aus all deinen Treffern kritische Treffer, so dass du Zerstörung und Verwüstung zurücklässt.}
 {1125}{}{Du hast die Feuer- waffe als Schmerz- quelle gemeistert. Mit diesem Bonus wird jeder erfolg- reiche Treffer im Kampf mit Waffen  zu einem kritischen Treffer aufge- wertet, wenn du zudem einen guten Wurf machst.}
@@ -161,7 +161,7 @@
 {1140}{}{Dein Ruf ist immer positiv. Ohne diesen Bonus hätte ein negativer Ruf eine schlechte Wirkung auf gutmütige Menschen. Das funktioniert auch umgekehrt. Selbst bösartige Leute behandeln ein wahres Engelchen jetzt wie ein Gangmitglied.}
 {1141}{}{Du findest mehr Munition als andere Überlebende des postatomaren Horrorszenarios. Mit diesem Bonus verdoppelt sich die Munitionsmenge, die du zufällig findest.}
 {1142}{}{Ein Forscher entdeckt neue und interessante Orte. Mit diesem Bonus hast du eine bessere Chance, besonders interessante Orte und Menschen zu finden.}
-{1143}{}{Mit diesem Bonus verringert sich die Wahrscheinlichkeit von Präparaten abhängig zu werden um 50%, und du mußt nur die Hälfte der normalen Entzugszeit durchmachen.}
+{1143}{}{Mit diesem Bonus verringert sich die Wahrscheinlichkeit von Präparaten abhängig zu werden um 50%, und du musst nur die Hälfte der normalen Entzugszeit durchmachen.}
 {1144}{}{Der Pfadfinder hat es einfacher, den kürzesten Weg zu finden. Mit diesem Bonus verringert sich deine Reisezeit auf der Weltkarte um 25 % pro Stufe.}
 {1145}{}{Tiere greifen keine Freunde an, außer das Tier wird zuerst angegriffen oder bedroht. Was genau in dieser Welt als Tier gilt, ist Definitionssache.}
 {1146}{}{Du hast deine Fähigkeit verbessert, weit entfernte Örtlichkeiten zu sehen, womit die Größe der Entdeckungen auf der Weltkarte um ein Quadrat in jeder Richtung ausgeweitet wird. Es erhöht sich auch deine Chance, besondere Begegnungen zu machen.}

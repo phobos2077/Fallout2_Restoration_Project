@@ -16,7 +16,7 @@
 {218}{}{Ich gewöhne mich langsam an dein blödes Gesicht. Bist du aus einem bestimmten Grund hier?}
 {219}{}{Seh ich vielleicht aus wie dein Papa, oder was? Das will ich in drei Teufelsnamen nicht
  hoffen. Jetzt spuck's schon aus, was willst du?}
-{220}{}{Oh, schaut mal, wer hier ist. Hältst du dich für was Besonderes? Rede oder verpiß dich.}
+{220}{}{Oh, schaut mal, wer hier ist. Hältst du dich für was Besonderes? Rede oder verpiss dich.}
 {221}{}{Was willst du jetzt, Sklavenhändler?}
 {222}{}{Willst du bloß blöd rumstehen, oder hast du was zu sagen?}
 {223}{}{Jetzt red schon. Ich hab für diesen Mist nicht den ganzen Tag Zeit.}
@@ -183,7 +183,7 @@
 {498}{}{Okay. Hier.}
 {499}{}{Zuerst möchte ich dir noch ein paar Fragen stellen.}
 {500}{}{Tut mir leid, das kann ich mir noch nicht leisten.}
-{510}{}{Also gut, er gehört dir, aber verpiß dich, bevor ich es mir anders überlege und ihm eine
+{510}{}{Also gut, er gehört dir, aber verpiss dich, bevor ich es mir anders überlege und ihm eine
  Kugel durch den hohlen Schädel jage.}
 {511}{}{Zuerst möchte ich dir noch ein paar Fragen stellen.}
 {512}{}{Danke.}

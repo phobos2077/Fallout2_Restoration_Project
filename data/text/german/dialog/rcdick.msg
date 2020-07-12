@@ -123,7 +123,7 @@ haltbar denn doch nicht. Und jetzt hat keine der beiden Minen einen funktioniere
 {183}{}{Ich bin nicht sicher, ob ich jetzt verstehe, worauf du hinauswillst.}
 {184}{}{Je mehr Teile es gibt, desto mehr kann kaputtgehen. Danke für die Info. Wiedersehn.}
 {185}{}{Naja, ich sag nur, dass beide Minenbesitzer dir Geld für so nen Grabungschip geben würden.
- Himmel, wenn da einer 'ne funktionierende Maschine hätte und der andere nich', müßte die Mine
+ Himmel, wenn da einer 'ne funktionierende Maschine hätte und der andere nich', müsste die Mine
  ohne dichtmachen - oder würd ruckzuck aufgekauft.}
 {186}{}{Zu schade, dass niemand weiß, wo man so einen Chip herbekommt.}
 {187}{}{Ich muss mal sehen, wieviel die für so 'nen Chip bezahlen würden. Danke, Wiedersehn.}

@@ -6,7 +6,7 @@
 {104}{}{Was zum - <Zaaaarrrrk!>>}
 {105}{}{(Also, der Sarge schickt Dich. Wegen einer Powerrüstung. Tja, die einzige, die ich da
  habe, ist eine zur Verstärkung. Hast vielleicht noch ein paar Probleme damit, also lass es
- langsam angehen. Du mußt nur hier unterschreiben.}
+ langsam angehen. Du musst nur hier unterschreiben.}
 {106}{}{Äh... Kannst Du das nochmal wiederholen?}
 {107}{}{Ich glaube, mit deinem Anzug stimmt was nicht.}
 {108}{}{Klar, mach ich.}

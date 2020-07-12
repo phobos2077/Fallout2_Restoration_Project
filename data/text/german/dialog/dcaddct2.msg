@@ -5,7 +5,7 @@
 {104}{}{Ich will dich und deine Freunde aus diesem Gebäude raus haben. Es ist mir zu Ohren gekommen, dass Mom aus diesem Ort ein Waisenhaus machen will, um damit all die obdachlosen Kinder von der Straße zu holen. Und sie kann das nicht machen wenn ihr hier herumlungert.}
 {105}{}{[Er kichert nervös und versichert sich mit einem Blick der Rückendeckung seiner Kumpel.] Mom kennt den Handel.
  Wir gehen nirgendwo hin, wenn sie nicht das Geld ausspuckt. Also, wenn du nicht 'ne Million dabei hast, verpiss dich.}
-{106}{}{Schau mal, Mom hat nicht so viel Geld, und wenn sie es hätte, würde sie es euch niemals geben, also vergiß es. Warum
+{106}{}{Schau mal, Mom hat nicht so viel Geld, und wenn sie es hätte, würde sie es euch niemals geben, also vergiss es. Warum
  zeigt ihr nicht etwas Anstand und geht irgendwo anders hin? Diese obdachlosen Kinder brauchen den Platz tausendmal mehr als ihr.}
 {107}{}{Für wen hältst du dich, dass du glaubst sagen zu können, wem was zusteht? Uns *gefällt* es hier. Du kannst uns nicht verjagen.}
 {108}{}{Hör mal, ihr habt zwei Optionen: Ihr könnt entweder auf euren eigenen zwei Füßen rausgehen, oder *ich* befördere euch hinaus - eine Leiche nach der anderen.}

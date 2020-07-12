@@ -16,7 +16,7 @@
 {300}{}{Entschuldige, aber könntest du mir einen Gefallen tun? Ich bin etwas beschäftigt und ich weiß nicht, ob ich diesen Kochtopf hier unbeaufsichtigt stehen lassen kann.}
 {301}{}{Sicher, was brauchst du?}
 {302}{}{Ich bin ebenfalls beschäftigt. Vielleicht später.}
-{303}{}{Hey, das Leben ist voller Probleme und ich bin nicht hier, um sie alle zu lösen. Tschüß.}
+{303}{}{Hey, das Leben ist voller Probleme und ich bin nicht hier, um sie alle zu lösen. Tschüss.}
 {304}{}{Nun, ich habe fast kein Holz mehr für das Feuer. Ich wäre wirklich dankbar, wenn du für mich etwas sammeln könntest.
  Ich würde es selbst tun, aber ich kann den Kochtopf nicht unbeaufsichtigt stehen lassen. Ich bin sicher, dass viel Feuerholz in
  der Nähe des Waldes zu finden ist. Ich denke, drei Bündel wären mehr als genug.}
@@ -28,7 +28,7 @@
 {309}{}{Dein Dank ist Lohn genug. Machs gut.}
 {310}{}{Nothing to repay me? Look lady, I could have died in those woods. It's filled with all kinds of deadly creatures. I risked my neck for this fucking wood. Not to mention I think one of the logs gave me a splinter. I *hate* splinters.}
 {311}{}{Hier, nimm dieses Geld. Ich habe keine wirkliche Verwendung dafür. Danke nochmal für deine Hilfe.}
-{312}{}{Schon besser. Tschüß.}
+{312}{}{Schon besser. Tschüss.}
 {313}{}{[Erledigt]}
 {314}{}{Dann frag jemand anderes um Hilfe.}
 {315}{}{Hast du das Feuerholz?}

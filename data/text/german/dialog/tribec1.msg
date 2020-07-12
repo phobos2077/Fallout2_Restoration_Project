@@ -17,7 +17,7 @@
 {207}{}{[lächelst] Vielen Dank, Krom.}
 {208}{}{Danke, aber wie wär's, wenn du deine Augen weiter nach oben richtest! In Ordnung, großer Kerl?}
 {209}{}{Erspar dir die Komplimente, in Ordnung, Widerling? Ich habe nicht die Absicht, mit dir zu schlafen. Zum
- Teufel, ich will gar nicht mehr mit dir reden. Tschüß.}
+ Teufel, ich will gar nicht mehr mit dir reden. Tschüss.}
 {210}{}{Arroyo, yes, one of the northern tribes. But what of this "certain destruction" you speak of? Your village is well
  fortified by a large canyon, is it not? Surely, you can defend against enemy tribes or raiders.}
 {211}{}{Es ist keine Bedrohung von außen. Mein Stamm stirbt von innen heraus. Wir haben eine schreckliche Dürre
@@ -39,7 +39,7 @@
  oder ich werde dich zurechtstutzen.}
 {224}{}{Ich bin mir nicht ganz sicher, aber ich habe bereits zu viel riskiert, um jetzt aufzuhören. Egal was es kostet, ich
  werde alles tun um meinen Stamm zu retten, auch wenn es sich noch so verrückt und gefährlich anhört.}
-{230}{}{[Er zuckt mißbilligend mit den mächtigen Schultern.] Nur eine weitere verrückte technische Spielerei von den
+{230}{}{[Er zuckt missbilligend mit den mächtigen Schultern.] Nur eine weitere verrückte technische Spielerei von den
  "Alten", dafür gedacht, die altbewährten Methoden zu ersetzen, welche die Menschen gegen die unerbittliche Erde
  anwandten, um Ihr Leben im Schweiße ihres Angesichts zu meistern. Aber wenn du wirklich glaubst, dass so ein Gerät
  eure einzige Hoffnung ist, schlage ich vor, du spürst eine unterirdische Vault der "Alten" auf. Ich bin landauf, landab
@@ -56,8 +56,8 @@
  "Feuer" zu etwas Nützlicherem verwenden, während du hier bist. Was meinst du?}
 {242}{}{Gut, schön, ich gehe jetzt.}
 {243}{}{Niemand bedroht mich, Arschloch!}
-{244}{}{Zur Hölle mit Dir. Ich verschwinde. Tschüß.}
-{245}{}{Niemand faßt mich an, Arschloch! [Angriff]}
+{244}{}{Zur Hölle mit Dir. Ich verschwinde. Tschüss.}
+{245}{}{Niemand fasst mich an, Arschloch! [Angriff]}
 {246}{}{Wenn du Deine Hände bei Dir behältst, dann "könnte" ich mich vielleicht dazu entschließen, euch zu helfen.}
 {247}{}{Das hängt davon ab. [Lächelst verführerisch.] Was stellst du Dir denn so vor, mein Großer? [Zwinkerst]}
 {250}{}{Ich verstehe mich auf die Kunst des Sarkasmus. Geh, bring Deine smarte Zunge sonst wohin, bevor ich sie Dir
@@ -70,12 +70,12 @@
 {261}{}{Du bist eine Sture. Mein Gott, ich könnte dich mögen. Mädchen [Er lacht herzlich und gibt Dir dann mit seiner
  Hand, die in der Lage zu sein scheint, Findlinge zu zertrümmern, einen Klaps auf den Hintern.] Während du hier bist,
  könntest du uns vielleicht bei 1 oder 2 Sachen unterstützen. Was sagst du dazu?}
-{262}{}{Sicher, ich glaube, ich könnte euch ein bißchen helfen bevor ich gehe. Was soll ich denn für euch machen}
-{263}{}{Tut mir leid, aber ich habe überhaupt keine Zeit. Eigentlich sollte ich mich jetzt auf den Weg machen. Tschüß.}
-{264}{}{Sicher, ich glaube, ich könnte euch ein bißchen helfen bevor ich gehe. Was soll ich denn für euch machen}
+{262}{}{Sicher, ich glaube, ich könnte euch ein bisschen helfen bevor ich gehe. Was soll ich denn für euch machen}
+{263}{}{Tut mir leid, aber ich habe überhaupt keine Zeit. Eigentlich sollte ich mich jetzt auf den Weg machen. Tschüss.}
+{264}{}{Sicher, ich glaube, ich könnte euch ein bisschen helfen bevor ich gehe. Was soll ich denn für euch machen}
 {265}{}{Wenn du Deine Hände bei Dir behältst, dann "könnte" ich mich vielleicht dazu entschließen, euch zu helfen.}
-{266}{}{Tut mir leid, aber ich habe überhaupt keine Zeit. Eigentlich sollte ich mich jetzt auf den Weg machen. Tschüß.}
-{267}{}{Niemand faßt mich an, Arschloch! [Angriff]}
+{266}{}{Tut mir leid, aber ich habe überhaupt keine Zeit. Eigentlich sollte ich mich jetzt auf den Weg machen. Tschüss.}
+{267}{}{Niemand fasst mich an, Arschloch! [Angriff]}
 {268}{}{Das hängt davon ab. [Lächelst verführerisch.] Was stellst du Dir denn so vor, mein Großer? [Zwinkerst]}
 {270}{}{[He grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.] Tell me, girl,
  what's your name, and what brings you to our village?}
@@ -85,7 +85,7 @@
 {291}{}{[Du schläfst mit ihm.]}
 {292}{}{MAN! Lass mich los, du hast die falschen Vorstellungen!}
 {300}{}{Zur Hölle mit Dir, Verführerin! Ärgere jemand Anderen. Ich habe keine Zeit an dich zu verschwenden.}
-{301}{}{Na ja, fick dich auch. Tschüß.}
+{301}{}{Na ja, fick dich auch. Tschüss.}
 {302}{}{Wie du meinst. Bis dann. }
 {310}{}{[Einige Stunden verstreichen im Schleier schweißnasser und brutaler Leidenschaft. Schließlich liegst du atemlos
  auf dem Fußboden in Kroms Hütte. Krom liegt neben Dir. Seine Augen verschlingen die Konturen deines Körpers.] Mein
@@ -94,7 +94,7 @@
 {312}{}{Selbstverständlich. Schließlich bin ich die Auserwählte.}
 {320}{}{[Krom lächelt dich merkwürdig an.] Weiß Gott, Mädchen, du hast Wunder an mir vollbracht, aber vielleicht bist
  du ja doch daran interessiert den Rest des Stammes zu unterstützen?}
-{321}{}{Sicher, ich denke ich könnte ein bißchen helfen. Was soll ich denn machen?}
+{321}{}{Sicher, ich denke ich könnte ein bisschen helfen. Was soll ich denn machen?}
 {322}{}{Ich wünschte, ich könnte euch helfen. Aber ich sollte jetzt wirklich aufbrechen. Tut mir leid.}
 {323}{}{Du willst, dass ich mit dem Rest des Stammes eine Nummer schiebe? Was glaubst du denn, was für eine Art
  Mädchen ich bin?}
@@ -128,11 +128,11 @@
  verspreche Dir jedoch nichts weiter.}
 {371}{}{In Ordnung. Lass es uns machen.}
 {372}{}{Gut, aber gib mir einen Moment, mich darauf vorzubereiten.}
-{373}{}{Kein Interesse. Tschüß.}
+{373}{}{Kein Interesse. Tschüss.}
 {375}{}{Kann's jetzt losgehen?}
 {376}{}{Noch nicht.}
 {377}{}{In Ordnung. Lass es uns machen.}
-{380}{}{Das mußt du entscheiden.}
+{380}{}{Das musst du entscheiden.}
 {390}{}{[Krom untersucht die vom Stamm neu erworbenen Stimpaks.] Diese sollen sich als sehr nützlich erweisen. [Er
  beschnüffelt die Stimpaks und runzelt die Stirn. Er spritzt ein wenig der roten Flüssigkeit auf seine Hand und
  probiert vorsichtig davon.] Verdammt nochmal, sie sind mit Brahminblut gefüllt. Der einäugige Mistkerl hat uns
@@ -201,7 +201,7 @@
 {472}{}{Was kannst du mir über dieses Dorf erzählen?}
 {473}{}{Gibt es hier irgendwas, womit ich Dir helfen kann?}
 {474}{}{Huch, das ist seltsam. Es scheint, als ob ich vergessen habe, was ich dich fragen wollte. Ich komme zurück,
- wenn ich mich wieder erinnern kann. Tschüß.}
+ wenn ich mich wieder erinnern kann. Tschüss.}
 {480}{}{[He chuckles.] Yes, I suppose I've been through a lot. I come from a tribe far to the north. When I was fifteen,
  we were attacked by savages. I awoke that day as a boy, but by the time the sun set on that grim scene, I had slayed my
  way to manhood. Every man, woman, and child was dead, except for me. Ah, but what's life without battle and strife? It
@@ -218,16 +218,16 @@
  Großen Salzsees, wohlgefühlt, spüre aber, dass die Wanderlust in mir wächst. Vielleicht werde ich schon bald
  weiterziehen, um herauszufinden, was das Schicksal für mich bereithält.}
 {501}{}{Danke, dass du mir Deine Geschichte erzählt hast. Könnte ich dich noch etwas fragen?}
-{502}{}{Danke, dass du mir Deine Geschichte erzählt hast. Tschüß.}
+{502}{}{Danke, dass du mir Deine Geschichte erzählt hast. Tschüss.}
 {510}{}{Lass mich überlegen... die meisten Mitglieder dieses Stammes stammen ursprünglich von 3 kleineren Stämmen
  ab, die vor langer Zeit beschlossen haben, um nicht auszusterben, sich zusammenzutun. Dies hat einen interessanten Mix
  aus verschiedenen Gewohnheiten und Dialekten zur Folge. Noch wichtiger: daraus ist eine interessante Frauenmischung
  hervorgegangen. Darüber hinaus gibt’s nicht viel zu sagen. Es ist ein einfaches Dorf, wo wir hart, um unsere Existenz
  kämpfen.}
 {511}{}{Gut, danke. Könnte ich dich noch etwas fragen?}
-{512}{}{Gut, danke. Tschüß.}
+{512}{}{Gut, danke. Tschüss.}
 {520}{}{Actually, Marli looks like he's having some trouble with the well. If you feel like helping, maybe you could go see what his problem is.}
-{521}{}{Gut, danke. Tschüß.}
+{521}{}{Gut, danke. Tschüss.}
 {522}{}{Gut, vielleicht mache ich das. Aber zuvor, könnte ich dich noch etwas fragen?}
 {530}{}{Gut dich zu sehen, mein Freund. Wenn du einen Moment Zeit hast, könnte ich Deine Hilfe noch einmal
  brauchen.}
@@ -241,16 +241,16 @@
  suchen?}
 {541}{}{Gut, aber wo soll ich suchen?}
 {542}{}{Tut mir leid, aber ich habe keine Zeit nach ihnen zu suchen. Außerdem, bin ich mir sicher, dass sie bald
- auftauchen werden. Tschüß.}
-{543}{}{Ich bin doch kein Babysitter für Deine Krieger. Tschüß.}
+ auftauchen werden. Tschüss.}
+{543}{}{Ich bin doch kein Babysitter für Deine Krieger. Tschüss.}
 {550}{}{Überprüf das Jagdgebiet im Norden. Der schnellste Weg, dorthin zu gelangen, ist der durch die Höhle im
  Westen, nahe des Großen Salzsees. Normalerweise würde ich nicht vorschlagen diesen Weg zu nehmen, da die Gefahr
  besteht, dass sie einstürzt. Aber es ist wichtig, dass du schnell vorankommst. Beweg dich einfach vorsichtig in der Höhle,
  und es sollte gutgehen.}
 {551}{}{Gut, ich werde mich beeilen.}
 {552}{}{Warte, du willst, dass ich durch eine Höhle gehe, die einsturzgefährdet ist? Hmm... Verdammt, mir fällt gerade
- ein, ich muß meinen Stamm retten. Tut mir leid, ich muß los.}
-{560}{}{Hast du Neuigkeiten die vermißten Jäger betreffend?}
+ ein, ich muss meinen Stamm retten. Tut mir leid, ich muss los.}
+{560}{}{Hast du Neuigkeiten die vermissten Jäger betreffend?}
 {561}{}{Not yet. I'll keep looking.}
 {562}{}{Ja, ich habe sie in der Höhle gefunden. Sie sind beide tot.}
 {570}{}{[Krom nickt mit grimmigem Gesicht.] Wie denn?}
@@ -259,15 +259,15 @@
 {580}{}{Getötet bei einem verdammten Höhleneinsturz. Zum Teufel! Ich hasse es, gute Männer auf eine solche Art zu
  verlieren. Wahre Krieger wie sie sollten auf dem Schlachtfeld fallen. [Er schüttelt seinen Kopf.] Ihr Verlust ist ein
  schwerer Schlag für den Stamm. Aber danke, dass du gesucht hast. Deine Dienste sind nicht länger nötig.}
-{581}{}{Sicher, jederzeit. Tschüß.}
-{582}{}{Ich bin mir sicher, sie waren großartige Kerle. Tschüß}
+{581}{}{Sicher, jederzeit. Tschüss.}
+{582}{}{Ich bin mir sicher, sie waren großartige Kerle. Tschüss}
 {590}{}{Danke, dass du die Jäger ausfindig gemacht hast. Der Verlust von Jerem ist groß, da er ein geschickter Krieger
  war. Er hätte auf dem Schlachtfeld fallen sollen, nicht bei einem verdammten Höhleneinsturz. Jedenfalls wird, dank dir
  mein Freund, Serin wieder ganz gesund werden. Du bist bei uns immer willkommen.}
 {591}{}{Danke, dass du die Jäger ausfindig gemacht hast. Der Verlust von Jerem ist groß, da er ein geschickter Krieger
  war. Er hätte auf dem Schlachtfeld fallen sollen, nicht bei einem verdammten Höhleneinsturz. Jedenfalls wird, dank dir
  Mädchen, Serin wieder ganz gesund werden. Du bist bei uns immer willkommen.}
-{592}{}{Danke. Paß auf dich auf Krom.}
+{592}{}{Danke. Pass auf dich auf Krom.}
 {800}{}{Ich Stamm, Arroyo, brauche Hilfe. Ich Hilfe. Ich sein gewählter Helfer.}
 {801}{}{[Krom kichert.] Jau, sicher ein ganz besonderer. [Er lächelt und zaust Dir durch die Haare mit einer Hand, die
  aussieht, als könnte sie einen Findling zertrümmern.] Du willst helfen? Wie würdest du es finden unseres Stammes

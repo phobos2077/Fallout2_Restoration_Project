@@ -9,7 +9,7 @@
 {301}{}{Verstehe. Ein paar weitere Fragen...}
 {400}{}{Natürlich. Was möchtest du wissen?}
 {401}{}{Wie ist dein Name?}
-{402}{}{Eigentlich unwichtig, Tschüß.}
+{402}{}{Eigentlich unwichtig, Tschüss.}
 {403}{}{What can you tell me about the Abbey?}
 {500}{}{Ich bin Elaine.}
 {501}{}{Verstehe. Ein paar weitere Fragen...}
@@ -18,7 +18,7 @@
  steigen. Wärst du so freundlich, ihm das Teil zu bringen?}
 {601}{}{Sicher.}
 {602}{}{Sorry, I don't have time for this. Bye.}
-{603}{}{Seh ich aus wie dein persöhnlicher Lieferdienst? Machs doch selber, du fettes, faules Stück. Tschüß.}
+{603}{}{Seh ich aus wie dein persöhnlicher Lieferdienst? Machs doch selber, du fettes, faules Stück. Tschüss.}
 {604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
  in the chapel area.}
 {605}{}{Kein Problem. [Du nimmst das Teil.] Ich werd's gleich zu Max bringen.}

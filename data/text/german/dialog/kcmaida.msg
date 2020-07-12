@@ -91,7 +91,7 @@
 {400}{}{Zurück, was? Ich hoffe, du kümmerst dich um Sulik. Ich bin sicher, er ist verloren, wenn ich ihm nicht sag, was er tun muss.}
 {401}{}{Ich bin zurück, weil ich was brauche.}
 {402}{}{Naja, wahrscheinlich kann ich nicht so gut auf ihn aufpassen wie du, aber ich werd's versuchen.}
-{420}{}{Eine Fallensteller namens Smiley wird vermißt. Mutter ist wirklich bestürzt darüber. Ich bin sicher, wenn ihn jemand finden würde, wäre sie überaus dankbar.}
+{420}{}{Eine Fallensteller namens Smiley wird vermisst. Mutter ist wirklich bestürzt darüber. Ich bin sicher, wenn ihn jemand finden würde, wäre sie überaus dankbar.}
 {421}{}{Naja, hast du Torr irgendwo gesehn? Scheinbar ist er davongelaufen, und wir machen uns echt Sorgen.}
 {422}{}{OK, darüber werd ich dann mit Mrs. Buckner reden. Ich möcht dich aber noch was anderes fragen.}
 {423}{}{Nein, ich hab Torr nirgends gesehn. Wenn er mir über den Weg läuft, lass ich's dich wissen. Ich möcht dich aber noch was anderes fragen.}
@@ -139,7 +139,7 @@
 {550}{}{Du kannst dir sicher sein, (seufz) das ich froh bin, (schluchz) diesen Stammesbruder (schluchz) los zu sein. (schluchz, schluchz)}
 {600}{}{[Mehr]}
 {700}{}{Ich hab herausgefunden was mit euren Brahmin geschehen ist.}
-{701}{}{Hast du? Das ist großartig, aber darüber mußt du mit meiner Mutter sprechen.}
+{701}{}{Hast du? Das ist großartig, aber darüber musst du mit meiner Mutter sprechen.}
 {702}{}{Na klar, dann werde ich mit ihr sprechen.}
 {710}{}{Viehdiebstahl? Irgendwelche Hinweise?}
 {711}{}{Nicht wirklich. Ich bin mir nicht einmal sicher, ob da eine Verbindung zwischen dem hier und den Verstümmelungen der Brahmin gibt.}
