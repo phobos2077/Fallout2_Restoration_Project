@@ -104,11 +104,11 @@
 {466}{}{Verstehe. Sag mal, ich hab da noch ein paar Fragen...}
 {467}{}{Was glaubst du, welcher von den Händlern hat Richard das Zeug verkauft?}
 {468}{}{Ach so. Ich muss dann mal los.}
-{475}{}{Könnte jeder von ihnen gewesen sein: Jagged Jimmy J, dieses elende Narbengesicht an der Ecke der Virgin Street, oder Renesco "Der Rocketman", das elende alte Wiesel, der Jet in dieser besseren Nußschale verkauft, oben an der West Side.}
+{475}{}{Könnte jeder von ihnen gewesen sein: Jagged Jimmy J, dieses elende Narbengesicht an der Ecke der Virgin Street, oder Renesco "Der Rocketman", das elende alte Wiesel, der Jet in dieser besseren Nussschale verkauft, oben an der West Side.}
 {476}{}{Sonst noch irgendwelche Händler?}
 {485}{}{Hey, Mann, danke DIR. }
 {486}{}{Hey, Lady, danke DIR. }
-{487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiß. Und wir lassen
+{487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiss. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
 {495}{}{Jules oben in der Stadt verkauft auch Jet, aber hauptsächlich an Touristen... dann ist da noch

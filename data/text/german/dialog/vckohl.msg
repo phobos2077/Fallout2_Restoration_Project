@@ -37,7 +37,7 @@
 {131}{}{Oh. Ich hätte da ein paar Fragen...}
 {132}{}{Dann frag ich da wohl mal nach.}
 {133}{}{Da bist du ja wieder. Suchst du was? Brauchst du jemanden, der dir hilft?}
-{134}{}{Aber gewiß doch. Was möchtest du gerne wissen?}
+{134}{}{Aber gewiss doch. Was möchtest du gerne wissen?}
 {135}{}{Was ist das alles hier?}
 {136}{}{Weißt du, wo ich ein GECK finden kann?}
 {137}{}{Weißt du vielleicht, wo ich die Vault finden kann?}

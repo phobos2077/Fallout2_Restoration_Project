@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen Ghul in alten, fettfleckigen Kleidern.}
 {101}{}{Du siehst Skeeter, den Techniker-Ghul.}
-{102}{}{Du siehst einen schmuddeligen, aber intelligenten Ghul mit fettfleckigem Overall und einer Meßschraube in seiner Tasche.}
+{102}{}{Du siehst einen schmuddeligen, aber intelligenten Ghul mit fettfleckigem Overall und einer Messschraube in seiner Tasche.}
 {110}{}{Fass nichts an, du könntest dich verletzen.}
 {111}{}{Ich dachte, die Sippen wären ziemlich ungebildet.}
 {112}{}{Du kannst zusehen, vielleicht lernst du noch was, obwohl ich das bezweifle.}

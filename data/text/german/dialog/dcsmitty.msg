@@ -44,7 +44,7 @@
  ein paar Erfahrungspunkte haben?}
 {324}{}{OK, die Verwechslung tut mir leid. Ich hoff nur, Mom wirft mich nicht raus! Ich brauche
  diese Arbeit dringend.}
-{325}{}{Ihr wißt schon, dass es kein kostenloses Essen nach 24 Stunden mehr gibt, oder?}
+{325}{}{Ihr wisst schon, dass es kein kostenloses Essen nach 24 Stunden mehr gibt, oder?}
 {326}{}{Na gut, dann esse ich es eben selbst.}
 {327}{}{Das wird Mom gar nicht gerne hören.}
 {330}{}{Wie du siehst, hab ich 'n Chrysalis Motors Highwayman. Wunderschöne Kiste. Früher hat man

@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen verstrahlten Ghul, der besorgt aussieht.}
 {101}{}{Du siehst Hank, den verstrahlten Ghul. Er arbeitet hier im Kraftwerk.}
-{102}{}{Du siehst einen verstrahlten Ghul, der Meßgeräte im Kraftwerk überwacht.}
+{102}{}{Du siehst einen verstrahlten Ghul, der Messgeräte im Kraftwerk überwacht.}
 {110}{}{Hallo, ich bin Hank. Ich kümmer mich um das Innere des Reaktorkerns. Normalerweise ist
  hier nicht besonders viel zu tun.}
 {111}{}{Hallo. Schön, dass du mich wieder besuchst. Warm und kuschelig hier so nah am Kern. Die
@@ -31,7 +31,7 @@
 {151}{}{Freut mich, dass es dir gefällt. Willst du's einbauen?}
 {152}{}{Danke. Mir gefällt's auch. Tschüss.}
 {160}{}{Ich würd dir ja gern helfen, aber ich hab keine Ahnung, wie man so was installiert. Ich
- kümmer mich hier meistens um die Meßgeräte. Vielleicht Festus. Er ist hier das Genie für Teile
+ kümmer mich hier meistens um die Messgeräte. Vielleicht Festus. Er ist hier das Genie für Teile
  - frag ihn doch einfach.}
 {161}{}{Wo ist Festus?}
 {162}{}{Gibt's irgendeine andere Möglichkeit?}

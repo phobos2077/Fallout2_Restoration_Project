@@ -283,7 +283,7 @@
 {1282}{}{Das war ein echt mieser Versuch!}
 {1283}{}{Ich bin verdammt noch mal blind!}
 {1284}{}{Du Mistkerl hast mich geblendet!}
-{1285}{}{Dafür preß ich dir die Augen aus.}
+{1285}{}{Dafür press ich dir die Augen aus.}
 {1286}{}{Du hast mir das verdammte Auge ausgerissen!}
 {1287}{}{Verdammt, mein Auge hängt nur noch am Sehnerv.}
 {1288}{}{Ich kann immer noch hören, wo du bist.}

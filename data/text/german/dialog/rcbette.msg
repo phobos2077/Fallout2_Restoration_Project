@@ -80,7 +80,7 @@
 {169}{}{Weise Entscheidung.}
 {170}{}{Keine Angst, ich nehm Caminetto auch mit, damit du Gesellschaft hast. Nicht wahr, Caminetto?}
 {171}{}{Du kapierst es einfach nicht, oder? Versuch dich bei uns einzumischen und wir beide, nämlich
- dumme Nuß Caminetto und ich, werden dir ordentlich zusetzen.}
+ dumme Nuss Caminetto und ich, werden dir ordentlich zusetzen.}
 {172}{}{Dann muss ich euch eben beide einlochen, dich und Caminetto.}
 {173}{}{Dann muss ich euch eben beide umlegen, dich und Caminetto.}
 {174}{}{Hmm, ich glaube, ich werd gerade in einem anderen Teil von Redding benötigt. Jetzt gleich. Wiedersehn.}

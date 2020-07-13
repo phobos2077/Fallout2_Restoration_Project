@@ -36,7 +36,7 @@
 {286}{}{Ich hol mir jetzt 'n Mädchen.}
 {287}{}{Ich wette, ich dieses Mal hab ich mehr Abschüsse als du.}
 {288}{}{Hier, Miezekätzchen.}
-{295}{}{Die andern von euch sind alle tot, ihr wißt es nur noch nicht.}
+{295}{}{Die andern von euch sind alle tot, ihr wisst es nur noch nicht.}
 {296}{}{Ihr könnt euch nicht vor uns verstecken!}
 {297}{}{Komm raus, oder ich puste dir den Kopf weg.}
 {298}{}{Ah, das war gut! Wo sind die anderen?}

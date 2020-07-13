@@ -1219,9 +1219,9 @@
 {1393}{}{Brauchst du ein wenig Action Süße?}
 {1394}{}{Wo brennt's denn Mädchen?}
 {1395}{}{Du hast die Knete, ich habe die Zeit.}
-{2175}{}{. Ihr wißt schon - hat der Enklave in den Hintern getreten.}
+{2175}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
 {2178}{}{! Was 'ne Art, der Enklave eins überzuziehen!}
-{2181}{}{. Ihr wißt schon - hat der Enklave in den Hintern getreten.}
+{2181}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
 {2195}{}{!}
 {2197}{}{! Kannst du mir einen Job im Studio besorgen?}
 {2210}{}{.}

@@ -235,7 +235,7 @@
 {11800}{}{Lasergewehr}
 {11801}{}{Leistungsstarkes Wattz 2000-Lasergewehr mit verlängertem Lauf für eine größere Reichweite. Mindest-ST: 6.}
 {11900}{}{Halskette}
-{11901}{}{Teuer wirkende Halskette aus Silber, Gold und gepreßten Diamanten.}
+{11901}{}{Teuer wirkende Halskette aus Silber, Gold und gepressten Diamanten.}
 {12000}{}{Alien Blaster}
 {12001}{}{Seltsame Pistole, die offensichtlich von Außerirdischen stammt. Mindest-ST: 2.}
 {12100}{}{9mm-Kugeln}

@@ -206,9 +206,9 @@ Odland-Stamm an - nichts für ungut - und gehst dann weiter dazu, die ganze Welt 
 {518}{}{Ich wünschte, einige der Schauspieler würden duschen. Ich meine eine normale Dusche.}
 {519}{}{Ähm, bist du neu hier?}
 {520}{}{Salzmilch? Man gewöhnt sich dran.}
-{1200}{}{. Ihr wißt schon - hat der Enklave in den Hintern getreten.}
+{1200}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
 {1204}{}{! Was 'ne Art, der Enklave eins überzuziehen!}
-{1207}{}{. Ihr wißt schon - hat der Enklave in den Hintern getreten.}
+{1207}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
 {1235}{}{?}
 {1236}{}{!}
 {1238}{}{!}

@@ -149,12 +149,12 @@
 {371}{}{Was zum Teufel machst du hier? Willst du uns helfen oder nicht? Wenn du interessiert bist, hätten wir vielleicht einen Job für dich.}
 {372}{}{Yeah, ich bin interessiert. Erzählt mir, was das für ein Job ist.}
 {373}{}{Ich glaube nicht, dass ich etwas mit euch beiden zu tun haben möchte. Tschüss.}
-{374}{}{Ich dachte, ich hätte dort drüben einen Haufen Wanzenteile gesehen. Wißt ihr, was das ist?}
+{374}{}{Ich dachte, ich hätte dort drüben einen Haufen Wanzenteile gesehen. Wisst ihr, was das ist?}
 {380}{}{Was zum Teufel willst du? Hast du vergessen, was du eigentlich tun solltest?}
 {381}{}{Nein. Ich kann mich sehr gut erinnern. Ich werde mich um unseren Plan kümmern.}
 {382}{}{Seid ihr wahnsinnig? Sie sind hinter uns her. Ich bin gekommen, um euch zu warnen, die Sache abzublasen. Ich wette, sie beobachten uns in diesem Augenblick.}
 {383}{}{Ich hab's vergessen. Kannst du mir den Plan noch mal erklären? Bitte.}
-{384}{}{Ich dachte, ich hätte dort drüben einen Haufen Wanzenteile gesehen. Wißt ihr, was das ist?}
+{384}{}{Ich dachte, ich hätte dort drüben einen Haufen Wanzenteile gesehen. Wisst ihr, was das ist?}
 {390}{}{Wanzenteile? Ähm, err, äh, wir haben keine Ahnung von diesen Wanzenteilen. Wovon redest du?}
 {391}{}{Naja, ich hab da einen Haufen Wanzenteile gesehen, die Riemen und Schnallen hatten, damit man sie als Kostüm anziehen kann. Sie lagen genau da, wo ihr beiden gestanden habt.}
 {392}{}{Äh, vergiss es einfach. Tschüss.}

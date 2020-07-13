@@ -307,7 +307,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {330}{}{Gute Nachrichten... Es ist mir gelungen, aufgrund deiner Angaben ein Gegengift
  herzustellen.}
 {331}{}{Dieses Gegengift beseitigt die Entzugssymptome und... neutralisiert die mit dem
- Drogengenuß verbundenen Glücksgefühle.}
+ Drogengenuss verbundenen Glücksgefühle.}
 {332}{}{Super! Kann ich was davon haben?}
 {333}{}{Kann ich eine Probe davon bekommen? Das wäre für die Leute in Redding bestimmt eine große
  Hilfe.}

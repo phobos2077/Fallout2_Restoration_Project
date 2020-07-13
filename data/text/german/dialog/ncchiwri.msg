@@ -127,12 +127,12 @@
 {467}{}{Was glaubst du, welcher von den Händlern hat Richard das Zeug verkauft?}
 {468}{}{Ach so. Ich muss dann mal los.}
 {475}{}{Da kommt praktisch jeder in Frage: Jagged Jimmy J, dieses elende Narbengesicht an der Ecke der Virgin Street, oder
- Renesco, genannt 'Rocketman', diese Ratte. Der verkauft sein Jet in dieser besseren Nußschale, oben an der West Side.}
+ Renesco, genannt 'Rocketman', diese Ratte. Der verkauft sein Jet in dieser besseren Nussschale, oben an der West Side.}
 {476}{}{Sonst noch irgendwelche Händler?}
 {477}{}{Verstehe. Sag mal, ich hab da noch ein paar Fragen...}
 {485}{}{Hey, Mann, heißen Dank.}
 {486}{}{Hey, Puppe, heißesten Dank.}
-{487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiß. Und wir lassen
+{487}{}{Wenn du rausfindest, wer meinen Bruder umgelegt hat, ist dir der Dank der ganzen Familie Wright gewiss. Und wir lassen
  gerne mal was springen, wenn wir dankbar sind. Verstehste?}
 {488}{}{Ich verstehe. Bis später, Chris. }
 {495}{}{Jules verkauft auch Jet, aber fast nur an Touristen. Und dann wär da noch Little Jesus Mordino: Von dem könnte

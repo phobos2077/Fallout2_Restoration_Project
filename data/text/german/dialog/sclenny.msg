@@ -9,7 +9,7 @@
  geschickt hat.}
 {107}{}{Freut mich, dich zu treffen. Ich bin Lenny - und du bist bestimmt Meister 
  Mist-im-Hirn. Ha, ha!}
-{108}{}{Sag deinem Mutantenboß, dass ich Lenny heiße, Sklave.}
+{108}{}{Sag deinem Mutantenboss, dass ich Lenny heiße, Sklave.}
 {109}{}{Hey, Bruder Mutant, Lenny will wissen, warum du mit dieser Menschennulpe rumhängst.}
 {110}{}{Lenny redet mit niemandem. Mutantchen nehm ich mir als Sklaven, du Wurm.}
 {111}{}{Lenny sagt, du sollst zum Teufel fahren und deinen Mutantenfreak gleich mitnehmen.}

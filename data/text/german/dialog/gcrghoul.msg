@@ -8,17 +8,17 @@
 {114}{}{Du solltest besser mit Jeremy sprechen, er hasst es nämlich, wenn Leute sich hinter seinem Rücken einfach Sachen nehmen.}
 {115}{}{Ich kann dir nicht helfen, wenn du nicht zuerst mit Jeremy redest.}
 {116}{}{Rede mit Jeremy, du kennst die Regeln.}
-{120}{}{Ich glaub, einige dieser alten Meßgeräte sind kaputt.}
+{120}{}{Ich glaub, einige dieser alten Messgeräte sind kaputt.}
 {121}{}{Ich hab nur auf die Konsole geschlagen, um sie wieder in Gang zu setzen.}
 {122}{}{Ich glaub, dieses Gerät hat noch nie richtig funktioniert.}
 {123}{}{Ich bin stolz darauf, für den Reaktor zu arbeiten.}
-{124}{}{Es ist am schönsten hier, wenn alle Meßgeräte im roten Bereich sind.}
+{124}{}{Es ist am schönsten hier, wenn alle Messgeräte im roten Bereich sind.}
 {125}{}{Ich hoffe, wir bekommen bald eine neue Lieferung Uranium aus Broken Hills.}
 {126}{}{Das Uranium geht uns allmählich aus.}
 {127}{}{Ich zähme die Macht des Atoms. Was machst du?}
 {128}{}{Es wird jetzt richtig schön warm hier drin.}
-{129}{}{Nach einer Weile braucht man gar nicht mehr auf die Meßgeräte zu sehen.}
-{130}{}{Ist das langweilig - diese Meßgeräte funktionieren sowieso nicht.}
+{129}{}{Nach einer Weile braucht man gar nicht mehr auf die Messgeräte zu sehen.}
+{130}{}{Ist das langweilig - diese Messgeräte funktionieren sowieso nicht.}
 {131}{}{Leck? Was für ein Leck?}
 {140}{}{Dies ist der beste Wohnort in ganz Gecko. }
 {141}{}{Nichts wärmt diese alten Knochen mehr als eine kräftige Dosis Röntgenstrahlen.}

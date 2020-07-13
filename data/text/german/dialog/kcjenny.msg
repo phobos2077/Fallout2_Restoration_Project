@@ -5,7 +5,7 @@
 {210}{}{Das war schön. Sieht so aus, als ob du dich besser mit Frauen auskennst als die meisten Typen deines Alters.}
 {211}{}{Freut mich, dass es dir genauso viel Spaß gemacht hat wie mir.}
 {220}{}{Du hast wirklich ein ziemliches Stehvermögen. Das ist eben das Schöne an jungen Männern. Ich wünschte, es gäb mehr von deiner Sorte in der Stadt.}
-{221}{}{Das Bad war wirklich ein Genuß, Jenny. Ich könnt noch eins vertragen, wenn ich nicht noch was anderes erledigen müsste.}
+{221}{}{Das Bad war wirklich ein Genuss, Jenny. Ich könnt noch eins vertragen, wenn ich nicht noch was anderes erledigen müsste.}
 {230}{}{Na, das war doch mal was anderes. Ich hoffe, du kommst wieder. Nächstes Mal würd ich gern ein paar eigene Sachen ausprobieren.}
 {231}{}{Es ist schön, zur Abwechslung mal jemanden zu haben, der meine Bedürfnisse versteht.}
 {240}{}{Das hat echt Spaß gemacht. Du wärst richtig umwerfend, wenn wir dich aus diesen Stammesklamotten rauskriegen würden. Würd mich gar nicht stören, wenn du 'ne Weile hier wärst, Schwester. Schon mal an 'nen Berufswechsel gedacht?}

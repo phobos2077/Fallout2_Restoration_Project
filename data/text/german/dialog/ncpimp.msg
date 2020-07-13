@@ -108,10 +108,10 @@
 {411}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {412}{}{Die Schlampe verheimlicht mir besser nichts...}
 {413}{}{Wollt ihr 'n bisschen Action?}
-{414}{}{Wollt ihr beide... naß werden.}
+{414}{}{Wollt ihr beide... nass werden.}
 {415}{}{Yo, Myron! Whazzup?}
 {416}{}{Yo, Myron! Brauchst du Gesellschaft heute Nacht? Ich habe ein paar neue Frauen für dich.}
-{417}{}{Kumpel wollt ihr... naß werden?}
+{417}{}{Kumpel wollt ihr... nass werden?}
 {418}{}{Du findest NIRGENDWO was Besseres.}
 {419}{}{Ich bin so helle, gegen mich sieht Reno dunkel aus.}
 {420}{}{Du siehst aus als würdest du da unten schon verbrennen.}
@@ -153,7 +153,7 @@
 {470}{}{Die Tussi sollte mein Geld lieber haben...}
 {471}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {472}{}{Die Schlampe verheimlicht mir besser nichts...}
-{473}{}{Jo Sklavenhändler! Willste... naß werden?}
+{473}{}{Jo Sklavenhändler! Willste... nass werden?}
 {474}{}{Sklavenhändler, wenn du irgendwo billigere Frauen findest gleiche ich den Preis aus.}
 {475}{}{Ich bin so helle, gegen mich sieht Reno dunkel aus.}
 {476}{}{Sklavenhändler, du siehst aus, als ob du dein Feuer kaum noch kontrollieren könntest.}
@@ -195,7 +195,7 @@
 {521}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {522}{}{Die Schlampe verheimlicht mir besser nichts...}
 {523}{}{Willste 'n bisschen Action?}
-{524}{}{Willste... naß werden?}
+{524}{}{Willste... nass werden?}
 {525}{}{Du findest NIRGENDWO was Besseres.}
 {526}{}{Ich bin so helle, gegen mich sieht Reno dunkel aus.}
 {527}{}{Du siehst als ob dir da unten schon ganz heiß wäre.}
