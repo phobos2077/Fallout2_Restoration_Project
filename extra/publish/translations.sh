@@ -6,6 +6,7 @@ lang_dir="data/text"
 
 # delete unnecessary files
 rm -rf "$lang_dir"/{po,readme.md,translation.patch}
+rm -f "$lang_dir/english/cuts/intro.sve"
 
 # update patchinf
 for lang in $(ls $lang_dir); do
