@@ -71,7 +71,7 @@
 {157}{}{Ja.}
 {158}{}{Nein.}
 {159}{}{Bestimmt bist du ein guter Bürger, da bin ich mir sicher. Ich möchte dich bitten, diese
- Holodisk zur Erstbürgerin zurückzubringen. Es ist wichtig. Die Holodisk enthält die Daten, die
+ Holo-Disk zur Erstbürgerin zurückzubringen. Es ist wichtig. Die Holo-Disk enthält die Daten, die
  sie braucht, um den NCR-New-Reno-Plan aufzudecken.}
 {160}{}{Ich hab noch ein paar Fragen.}
 {161}{}{Jawohl.}
@@ -89,5 +89,5 @@
 {172}{}{Muss.....Feeellliixx sssaaaagennnn...}
 {173}{}{Donnerlittchen, sieht wirklich stark nach Herzschwäche aus.}
 {174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! DAS BRENNT!!!}
-{175}{}{Du hast die Holodisk bei Westin abgeliefert.}
+{175}{}{Du hast die Holo-Disk bei Westin abgeliefert.}
 {176}{}{His heart go boom boom.}

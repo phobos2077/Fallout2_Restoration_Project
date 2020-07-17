@@ -54,12 +54,12 @@
 {153}{}{./~ Bier her, Bier her... ./~}
 {154}{}{./~ 99 Flaschen Bier stehen drüben am Klavier... ./~}
 {155}{}{Dieser Man sieht so aus, als ob er sich hier wie zu Hause fühlt.}
-{156}{}{Du siehst einen Mann, der eine Mahlzeit ißt.}
+{156}{}{Du siehst einen Mann, der eine Mahlzeit isst.}
 {157}{}{Du siehst einen Mann, der ein Kleidungsstück stopft.}
 {158}{}{Dieser Mann ruht sich aus.}
 {159}{}{Dieser Mann entspannt sich in seinem Heim.}
 {160}{}{Diese Frau sieht so aus, als ob sie sich hier wie zu Hause fühlt.}
-{161}{}{Du siehst eine Frau, die eine Mahlzeit ißt.}
+{161}{}{Du siehst eine Frau, die eine Mahlzeit isst.}
 {162}{}{Du siehst eine Frau, die ein Kleidungsstück stopft.}
 {163}{}{Diese Frau ruht sich aus.}
 {164}{}{Diese Frau entspannt sich in ihrem Heim.}

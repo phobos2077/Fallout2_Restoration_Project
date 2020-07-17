@@ -113,7 +113,7 @@
 {5700}{}{Wanze}
 {5701}{}{Miniaturmikrophon und -übertragungsgerät.}
 {5800}{}{Band}
-{5801}{}{Holodisk-Band der Marke Wattz Electronics. Dieses Band scheint in sehr schlechtem Zustand zu sein.}
+{5801}{}{Holo-Disk-Band der Marke Wattz Electronics. Dieses Band scheint in sehr schlechtem Zustand zu sein.}
 {5900}{}{Bewegungssensor}
 {5901}{}{Bewegungssensor von Wattz Electronics, Modell C-U. Stellt Bewegungen biologischer Materie mit Hilfe eines getunten Radarempfängers über eine Entfernung von mehreren Metern fest. Wenn du einen in deinem Inventar hast, kannst du auch Begegnungen im Freien vermeiden (+20% auf Naturbursche).}
 {6000}{}{Regal}
@@ -325,7 +325,7 @@
 {16300}{}{Luftgewehrgeschosse}
 {16301}{}{Pack Luftgewehrgeschosse von vor dem Krieg. Ausgezeichneter Zustand. Edelstahl.}
 {16400}{}{Band der Brotherhood}
-{16401}{}{Eine Holodisk über die Brotherhood of Steel.}
+{16401}{}{Eine Holo-Disk über die Brotherhood of Steel.}
 {16500}{}{Echsenstand}
 {16501}{}{Bobs Echsengrill. Wer ist nicht verrückt nach frischgerösteten Leguanen?}
 {16600}{}{Tisch}
@@ -377,19 +377,19 @@
 {18900}{}{Spind}
 {18901}{}{Ein Spind.}
 {19000}{}{FEV-Disk}
-{19001}{}{Holoband mit medizinischen Informationen. Hiermit können Informationen in deinen Pip-Boy eingegeben werden.}
+{19001}{}{Holoband mit medizinischen Informationen. Hiermit können Informationen in deinen PIPBoy eingegeben werden.}
 {19100}{}{Sicherheits-CD}
-{19101}{}{Ein Holoband mit der Beschriftung "Sicherheitsprotokoll". Die darauf enthaltenen Daten können auf deinen Pip-Boy übertragen werden.}
+{19101}{}{Ein Holoband mit der Beschriftung "Sicherheitsprotokoll". Die darauf enthaltenen Daten können auf deinen PIPBoy übertragen werden.}
 {19200}{}{Alpha-Experiment-Disk}
 {19201}{}{Die Beschriftung auf diesem Holoband heißt: "Protokoll Alpha-Experiment"}
 {19300}{}{Delta-Experiment-Disk}
 {19301}{}{Die Beschriftung auf diesem Holoband lautet: "Protokoll Delta-Experiment "}
 {19400}{}{Vrees Experiment-Disk}
-{19401}{}{Auf diesem Holoband wurden die neuesten medizinischen Erkenntnisse von Vree von der Brotherhood of Steel gespeichert. Die darauf enthaltenen Daten können auf deinen Pip-Boy übertragen werden.}
+{19401}{}{Auf diesem Holoband wurden die neuesten medizinischen Erkenntnisse von Vree von der Brotherhood of Steel gespeichert. Die darauf enthaltenen Daten können auf deinen PIPBoy übertragen werden.}
 {19500}{}{Ehrencodex der Brotherhood}
-{19501}{}{Ein Holoband mit einem groben Symbol der Brotherhood of Steel als Inschrift. Übertrage die darauf enthaltenen Daten auf deinen Pip-Boy.}
+{19501}{}{Ein Holoband mit einem groben Symbol der Brotherhood of Steel als Inschrift. Übertrage die darauf enthaltenen Daten auf deinen PIPBoy.}
 {19600}{}{Mutantenübertragungen}
-{19601}{}{Dieses Holoband wurde wahrscheinlich dafür verwendet, Audiodaten von einem Funkgerät aufzuzeichnen. Übertrage die darauf enthaltenen Daten auf deinen Pip-Boy.}
+{19601}{}{Dieses Holoband wurde wahrscheinlich dafür verwendet, Audiodaten von einem Funkgerät aufzuzeichnen. Übertrage die darauf enthaltenen Daten auf deinen PIPBoy.}
 {19700}{}{Kiste}
 {19800}{}{Kiste}
 {19900}{}{Kiste}
@@ -419,7 +419,7 @@
 {21400}{}{Schreibtisch}
 {21401}{}{Ein Schreibtisch. Nach näherer Untersuchung entscheidest du, dass es immer noch ein Schreibtisch ist.}
 {21500}{}{Geschichte der Brotherhood}
-{21501}{}{Ein Holoband, das Informationen über die Brotherhood of Steel enthält. Kann zur Eingabe von Informationen in deinen Pip-Boy 2000 verwendet werden.}
+{21501}{}{Ein Holoband, das Informationen über die Brotherhood of Steel enthält. Kann zur Eingabe von Informationen in deinen PIPBoy 2000 verwendet werden.}
 {21600}{}{Maxsons Geschichte}
 {21700}{}{Maxsons Tagebuch}
 {21800}{}{Leichte Heilung}
@@ -574,8 +574,8 @@
 {29201}{}{Ein Paar Boxhandschuhe, die leicht nach Schweiß riechen. Sie scheinen einiges miterlebt zu haben: Viele alte Blutflecken sind zu sehen.}
 {29300}{}{Plattierte Boxhandschuhe}
 {29301}{}{Jemand hat "aus Versehen" Metallplatten in diese Boxhandschuhe geschoben. Technisch gesehen könnte das als Betrug angesehen werden, doch du wertest es als verstärkte Möglichkeit, knochensplitternde Verletzungen zuzufügen.}
-{29400}{}{Holodisk von Vault 13}
-{29401}{}{Eine Holodisk, auf der angeblich der Standort von Vault 13 verzeichnet ist.}
+{29400}{}{Holo-Disk von Vault 13}
+{29401}{}{Eine Holo-Disk, auf der angeblich der Standort von Vault 13 verzeichnet ist.}
 {29500}{}{Käse-Chips}
 {29501}{}{Eine Schachtel Chips mit Käsegeschmack. Außerordentlich lecker.}
 {29600}{}{H&K P90c}
@@ -590,9 +590,9 @@
 {30001}{}{Eine handgefertigte Pistole für einen Schuss. Mindest-ST: 4.}
 {30100}{}{Klemmbrett}
 {30101}{}{Dies ist ein Klemmbrett mit einem Kühlmittelbericht.}
-{30200}{}{Gecko-Holodisk}
+{30200}{}{Gecko-Holo-Disk}
 {30201}{}{Die Beschriftung auf diesem Holoband lautet: "Wirtschaftsdaten Gecko." Die Auslegung der ganzen technischen Diagramme, Tabellen und Formeln ist recht schwierig, aber es sieht so aus, als sollten die Vorteile eines Bündnisses zwischen Vault City und Gecko betont werden.}
-{30300}{}{Reaktor-Holodisk}
+{30300}{}{Reaktor-Holo-Disk}
 {30301}{}{Die Beschriftung auf diesem Holoband lautet: "Reaktorleistungsdaten Gecko." Auf dieser Disk befindet sich eine Reihe von Zahlen, mit denen du nichts anfangen kannst. Bestimmt enthält die Disk wichtige Informationen, die irgend jemandem sehr viel bedeuten.}
 {30400}{}{Kartenspiel "Tragic"}
 {30401}{}{Dies ist ein Päckchen Sammelkarten. Könnte wohl ein teueres Hobby sein, wenn man mal angebissen hat.}
@@ -660,12 +660,12 @@
 {33501}{}{Thomas Moore hat dich gebeten, seine Aktentasche aus Brahminleder zur Familie Bishop in New Reno zu bringen. Sie ist fest verschlossen, und du kannst sie wohl nicht öffnen.}
 {33600}{}{Moores Aktentasche}
 {33601}{}{Thomas Moore hat dich gebeten, seine Aktentasche aus Brahminleder zur Familie Bishop in New Reno zu bringen. Sie ist fest verschlossen, und du kannst sie wohl nicht öffnen.}
-{33700}{}{Lynettes Holodisk}
-{33701}{}{Das ist die Holodisk, die du von Lynette bekommen hast.}
-{33800}{}{Westins Holodisk}
-{33801}{}{Das ist die Holodisk, die du von Westin bekommen hast.}
-{33900}{}{NCR-Spion-Holodisk}
-{33901}{}{Diese Holodisk enthält Berichte über die Termine der NCR-Karawane sowie Sicherheitsinformationen. Sie ist an Darion adressiert und mit "F" abgezeichnet. Es ist klar, wie die Gangster mit dieser Info ihrer Gefangennahme aus dem Weg gehen konnten.}
+{33700}{}{Lynettes Holo-Disk}
+{33701}{}{Das ist die Holo-Disk, die du von Lynette bekommen hast.}
+{33800}{}{Westins Holo-Disk}
+{33801}{}{Das ist die Holo-Disk, die du von Westin bekommen hast.}
+{33900}{}{NCR-Spion-Holo-Disk}
+{33901}{}{Diese Holo-Disk enthält Berichte über die Termine der NCR-Karawane sowie Sicherheitsinformationen. Sie ist an Darion adressiert und mit "F" abgezeichnet. Es ist klar, wie die Gangster mit dieser Info ihrer Gefangennahme aus dem Weg gehen konnten.}
 {34000}{}{Arztpapiere}
 {34001}{}{Mehrere äußerst detailgenaue Pläne für eine Wacheinheit mit kybernetischen Hunden. Damit und den geeigneten Instrumenten kann jemand eventuell einen Robodog bauen.}
 {34100}{}{Präsidentenpass}
@@ -869,8 +869,8 @@
 {44501}{}{Abzeichen, das der Sheriff einer Stadt trägt.}
 {44600}{}{Vertibird-Pläne}
 {44601}{}{Pläne für den Bau von Vertibirds.}
-{44700}{}{Bishops Holodisk}
-{44701}{}{Diese Holodisk enthält belastende Infor- mationen aus Bishops geheimen Verhandlungen mit der NCR. Offensicht- lich hat Bishop Söldner angestellt, die Vault City angreifen sollten, damit Vault City mili- tärische Unterstützung aus der NCR anfordert. Diese Holodisk hat nur Audiofunktionen. Vault City könnte daran interessiert sein.}
+{44700}{}{Bishops Holo-Disk}
+{44701}{}{Diese Holo-Disk enthält belastende Infor- mationen aus Bishops geheimen Verhandlungen mit der NCR. Offensicht- lich hat Bishop Söldner angestellt, die Vault City angreifen sollten, damit Vault City mili- tärische Unterstützung aus der NCR anfordert. Diese Holo-Disk hat nur Audiofunktionen. Vault City könnte daran interessiert sein.}
 {44800}{}{Buchhaltungsbuch}
 {44801}{}{Dieses Buchhaltungsbuch listet eine Reihe monatlicher Zahlungen an die Söldnergang durch die Familie Bishop aus New Reno auf. Die Zahlungen hängen stark davon ab, wieviel "Druck" die Söldner auf Vault City ausüben. Vault City könnte daran interessiert sein.}
 {44900}{}{Unbenutzt}
@@ -891,21 +891,21 @@
 {45601}{}{Dieser Schlüssel passt auf die Zellentür in Broken Hills.}
 {45700}{}{Feldbericht der Hubologin}
 {45701}{}{Feldbericht für die Mitglieder des wahren Glaubens.}
-{45800}{}{M.B.-Holodisk 5}
+{45800}{}{M.B.-Holo-Disk 5}
 {45801}{}{Auf dem Etikett steht: Nachricht an CHQ - Vertraulich.}
-{45900}{}{M.B.-Holodisk 1}
+{45900}{}{M.B.-Holo-Disk 1}
 {45901}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am Kontrollpunkt 1.}
-{46000}{}{M.B.-Holodisk 2}
+{46000}{}{M.B.-Holo-Disk 2}
 {46001}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am zweiten Kontrollpunkt.}
-{46100}{}{M.B.-Holodisk 3}
+{46100}{}{M.B.-Holo-Disk 3}
 {46101}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am dritten Kontrollpunkt.}
-{46200}{}{M.B.-Holodisk 4}
+{46200}{}{M.B.-Holo-Disk 4}
 {46201}{}{Auf dem Etikett steht: Protokoll der Funkübertragung des Forschungsteams.}
-{46300}{}{Evakuierungs-Holodisk}
+{46300}{}{Evakuierungs-Holo-Disk}
 {46301}{}{Auf dem Etikett steht: Evakuierungsbefehl der Basis.}
-{46400}{}{Experiment-Holodisk}
+{46400}{}{Experiment-Holo-Disk}
 {46401}{}{Auf dem Etikett steht: Forschungsprotokoll.}
-{46500}{}{Medizinische Holodisk}
+{46500}{}{Medizinische Holo-Disk}
 {46501}{}{Auf dem Etikett steht: Medizinisches Protokoll.}
 {46600}{}{Kennwortpapier}
 {46601}{}{Ein gefaltetes Blatt Papier, auf dem das Wort "TSCHAIKOWSKY" steht.}
@@ -919,8 +919,8 @@
 {47001}{}{Fragwürdiges Hilfsmittel für Sexspielchen. Wenn du nach dem Zweck fragen musst, willst du die Antwort gar nicht wissen.}
 {47100}{}{Die Lavendelblüte}
 {47101}{}{Sieht nach einem Liebesroman von Dorothy Rixon aus. Auf dem Titelbild liegt eine Frau umgeben von Hunderten von Blüten auf einem Bett.}
-{47200}{}{Hubologen-Holodisk}
-{47201}{}{Auf dieser Holodisk steht "Hubologie: Die Wahrheit hinter den Lügen". Sie sieht aus, als würde sie mit deinem Pip-Boy funktionieren.}
+{47200}{}{Hubologen-Holo-Disk}
+{47201}{}{Auf dieser Holo-Disk steht "Hubologie: Die Wahrheit hinter den Lügen". Sie sieht aus, als würde sie mit deinem PIPBoy funktionieren.}
 {47300}{}{Mutierter Zeh}
 {47301}{}{Du siehst deinen sechsten Zeh. Er ist ein kleiner mutierter Teil von dir. Aus unbestimmten Gründen empfindest du einen schrecklichen Verlust, als du den kleinen amputierten Zeh ansiehst.}
 {47400}{}{Gänseblümchen}
@@ -929,9 +929,9 @@
 {47501}{}{Unbenutzt}
 {47600}{}{Brief der Erleuchteten}
 {47601}{}{Bericht, der an AHS-9 in San Francisco adressiert ist. Sehr trocken - Tabellen über Ausrichtungen, Spesenabrechnungen und anderes Zeugs, mit dem du deine Zeit nicht zu verschwenden brauchst.}
-{47700}{}{Übertragungs-Holodisk}
+{47700}{}{Übertragungs-Holo-Disk}
 {47701}{}{Auf dem Etikett steht: "Galaxy News Network."}
-{47800}{}{Sierra-Missions-Holodisk}
+{47800}{}{Sierra-Missions-Holo-Disk}
 {47801}{}{Auf dem Etikett steht: "Missionsbericht."}
 {47900}{}{NavCom-Teile}
 {47901}{}{Computerteile, die aussehen, als gehörten sie ins Innere eines Computers. Weil "Poseidon-Öl" und "Navigationscomputer" darauf steht, denkst du dir, dass sie in einen Poseidon-Öl Navigationscomputer passen könnten.}
@@ -957,7 +957,7 @@
 {49101}{}{Du siehst eine kleine Puppe mit einer großen roten Nase. Aus irgendwelchen Gründen traust du diesem unschuldig aussehenden Kinderspielzeug nicht.}
 {49200}{}{Tanker-SHS}
 {49201}{}{Codierter Passierschlüssel, mit dem du Zugang zu Hochsicherheitsbereichen erhältst.}
-{49300}{}{Holodisk mit Lehren}
+{49300}{}{Holo-Disk mit Lehren}
 {49301}{}{Auf dem Etikett steht: "Lehre der Hubologen."}
 {49400}{}{Kokoweef-Gutschein}
 {49401}{}{Dieser kleine Gutschein wird vermutlich zur Bezahlung der Minenarbeiter der Kokoweef-Mine verwendet.}
@@ -970,7 +970,7 @@
 {49800}{}{Duale Plasmakanone}
 {49801}{}{Nur für Verwendung in  Geschützturm.}
 {49900}{}{PIPBoy-Powerfunktion "Sprache"}
-{49901}{}{Die PIPBoy-Powerfunktion "Sprache" besteht aus einer Speicher-Holodisk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch ins Gedächtnis des Benutzers, so dass dessen Ausdrucksfähigkeit dauerhaft verbessert wird.}
+{49901}{}{Die PIPBoy-Powerfunktion "Sprache" besteht aus einer Speicher-Holo-Disk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch ins Gedächtnis des Benutzers, so dass dessen Ausdrucksfähigkeit dauerhaft verbessert wird.}
 {50000}{}{FN FAL HPFA}
 {50001}{}{Dieses Gewehr wurde im Lauf der Geschichte häufiger von kämpfenden Truppen eingesetzt als jedes andere. Eine zuverlässige Waffe, unabhängig von Terrain oder der taktischen Situation. Das HPFA ist durchschlagskräftiger als das normale FN FAL. Mindest-ST: 5.}
 {50100}{}{Wandsafe}
@@ -997,7 +997,7 @@
 {51400}{}{Pool-Billard-Tisch}
 {51500}{}{Pool-Billard-Tisch}
 {51600}{}{PIPBoy-Powerfunktion "Medizin"}
-{51601}{}{Die PIPBoy-Powerfunktion "Medizin" besteht aus einer Speicher-Holodisk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch von Arztfähigkeiten und medizinischen Kenntnissen in das Gedächtnis des Benutzers, so dass seine Fähigkeiten als Arzt dauerhaft verbessert werden.}
+{51601}{}{Die PIPBoy-Powerfunktion "Medizin" besteht aus einer Speicher-Holo-Disk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch von Arztfähigkeiten und medizinischen Kenntnissen in das Gedächtnis des Benutzers, so dass seine Fähigkeiten als Arzt dauerhaft verbessert werden.}
 {51700}{}{"Little Jesus"}
 {51701}{}{Diese bösartig aussehende Klinge gehörte einmal Lil' Jesus Mordino. Auf der Oberfläche sind zahlreiche Kratzer und Dellen, aber die Klinge ist scharf wie ein Rasiermesser. In den Griff ist "Little Jesus" eingeritzt.}
 {51800}{}{Duales Kleingewehr}
@@ -1049,7 +1049,7 @@
 {54201}{}{A fresh bottle of Abbey's finest wine.}
 {54300}{}{Tagebuch}
 {54301}{}{Die Beschriftung auf der ersten Seite sagt: "Eigentum von Anna." Die meisten Seiten sind ausgerissen oder verblasst, eine ist aber noch lesbar. "Tag 271: Gestern gab mir Mutter ein goldenes Medalion. Es ist das schönste Ding was ich jeh besessen hab. Ich werde mich niemals davon trennen."}
-{54400}{}{Botanik-Holodisk}
+{54400}{}{Botanik-Holo-Disk}
 {54401}{}{Dieser Datenträger enthält Informationen über verschiedenste Pflanzen die vor dem Großen Krieg wuchsen.}
 {54500}{}{Abgelaufenes G.E.C.K.}
 {54501}{}{Das Garden-Eden- Creation-Kit. Dieses Gerät ist Standartausrüstung für alle Vault-Tec Vaults. Mit einem GECK kann die Zivilisation nach Zündung einer Atombombe wiederaufgebaut werden. Einfach Wasser hinzufügen und umrühren. Dieses hier ist weit über dem Haltbarkeitsdatum. Was für eine Verschwendung!}

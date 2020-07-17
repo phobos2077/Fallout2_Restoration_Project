@@ -30,7 +30,7 @@
 {255}{}{Wo hast du das Kämpfen gelernt, }
 {256}{}{Du hast den Mumm eines Mordino.}
 {257}{}{Der letzte Kampf war etwas aus 'nem Epos, Hombre.}
-{258}{}{Halt nach dem Beißer Ausschau. Er ißt gerne Ohren.}
+{258}{}{Halt nach dem Beißer Ausschau. Er isst gerne Ohren.}
 {259}{}{Fliegen wie ein Schmetterling, stechen wie eine Biene. Das bist du, }
 {260}{}{Früher habe ich im Ring gekämpft, aber ich hab mich am Arm verletzt, deshalb kämpfe ich nicht mehr, du verstehst?}
 {261}{}{Weißte, die Mordinos könnten jemanden wie dich gebrauchen, }

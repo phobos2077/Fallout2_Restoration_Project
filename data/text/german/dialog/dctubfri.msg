@@ -67,7 +67,7 @@
 {301}{}{Tiere leben auf Bäumen.}
 {302}{}{Nein, nicht Frauen und Bäume, Frauen und Kartoffeln.}
 {303}{}{Ich kann auf Bäume klettern.}
-{304}{}{Eine Frau, die auf einen Baum klettert und Kartoffeln ißt? Du bist bescheuert.}
+{304}{}{Eine Frau, die auf einen Baum klettert und Kartoffeln isst? Du bist bescheuert.}
 {305}{}{Wo kommen die Bäume her?}
 {306}{}{Du kannst nicht auf einen Baum klettern und Kartoffeln essen.}
 {307}{}{Büsche mag ich auch. }

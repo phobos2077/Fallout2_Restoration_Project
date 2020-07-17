@@ -26,7 +26,7 @@
        - Herstellung von Medizin und Material um Krankheiten und     andere Bedürfnisse zu Behandeln.
                               - Umweltveränderungen besser zu Verstehen.                 
  Die restlichen Informationen präsentieren sich als diverse Tabellen, Grafiken und Abbildungen von Mischpflanzen.}
-{231}{}{Informationen auf einer Holodisk speichern.}
+{231}{}{Informationen auf einer Holo-Disk speichern.}
 {232}{}{Zurück.}
 {240}{}{Diese Anlage war Schauplatz für verschiedene Experimente an tierischen und pflanzlichen Lebensformen. 
  Ausführliche Tests wurden an einer pflanzenähnlichen Lebensform mit der Bezeichnung Sporenpflanze als auch Tierähnliche
@@ -70,5 +70,5 @@
  Schließe Lagercontainer... Erfolg.}
 {281}{}{Sammle Saatgutproben... 2 Pakete unbekanntes Saatgut erfolgreich aufgenommen. Platziere Pakete zum Sammelcontainer... Erfolg...
  Schließe Lagercontainer... Erfolg.}
-{290}{}{Speichere Botanikdatenbank auf Holodisk... 75% fertiggestellt... Fertig. Bitte entnehmen Sie die Disk und kehren Sie zum Menü zurück.}
+{290}{}{Speichere Botanikdatenbank auf Holo-Disk... 75% fertiggestellt... Fertig. Bitte entnehmen Sie die Disk und kehren Sie zum Menü zurück.}
 {291}{}{Zurück.}

@@ -40,7 +40,7 @@
 {170}{}{Du nutzloser Haufen Gecko-Scheiße! Was fällt dir ein, uns schon wieder zu belästigen?}
 {171}{}{Ich wollte mich nur entschuldigen. Ich wollte es nicht vermasseln. Ich kann einfach nicht so gut klauen wie ihr beiden. Außerdem brauch ich etwas von euch.}
 {172}{}{Ja, ihr habt recht - ich hätte mich mehr anstrengen können. Ich bin wohl einfach kein so guter Dieb wir ihr beiden. Aber ich brauche etwas.}
-{173}{}{Gecko-Scheiße? Sprechen wir von dem, was du ißt oder was du im Kopf hast?}
+{173}{}{Gecko-Scheiße? Sprechen wir von dem, was du isst oder was du im Kopf hast?}
 {180}{}{Wieder zurück, was? Na, womit können wir dir helfen, Geschäftspartner?}
 {181}{}{Hey, mein Freund. Das Ding mit diesem Idioten Torr haben wir wirklich gut gedreht, was? Ich werde dir deinen Anteil holen.}
 {182}{}{Das war ein guter Tausch. Lasst es mich wissen, wenn wieder so ein Job ansteht. Im Moment brauche ich aber was anderes. }

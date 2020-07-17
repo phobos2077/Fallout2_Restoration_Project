@@ -37,7 +37,7 @@
 {501}{}{Liefere Moores Aktentasche bei Mr. Bishop in New Reno ab.}
 {502}{}{Liefere eine Jet-Probe bei Dr. Troy ab.}
 {503}{}{Löse das Problem im Kraftwerk von Gecko.}
-{504}{}{Liefere Lynettes Holodisk bei Westin in der NCR ab.}
+{504}{}{Liefere Lynettes Holo-Disk bei Westin in der NCR ab.}
 {505}{}{Rette Amandas Mann Joshua.}
 {506}{}{Liefere je 10 Flaschen Bier und Schnaps an Lydia.}
 {507}{}{Liefere eine Zange (Werkzeug) und einen Schraubenschlüssel bei Valerie ab.}
@@ -88,7 +88,7 @@
 {1103}{}{Hol die Papiere von Dr. Henry.}
 {1104}{}{Teste das Mutationsserum an einem Supermutanten. Versuch es in Broken Hills.}
 {1105}{}{Schaff Mr. Bishop aus dem Weg.}
-{1106}{}{Bring Westins Holodisk zu Lynette nach Vault City.}
+{1106}{}{Bring Westins Holo-Disk zu Lynette nach Vault City.}
 {1107}{}{Beschaffe die Karte von den NCR-Rangern für Vortis, den Sklavenhändler.}
 {1108}{}{Befreie die Sklaven im Sklavenpferch für die Ranger.}
 {1109}{}{Liefere den Feldbericht der Erleuchteten bei AHS-9 in San Francisco ab.}
@@ -173,4 +173,4 @@
 {3200}{}{Rette Chrissy}
 {3201}{}{Töte Darion}
 {3202}{}{Schließ die Vereinbarung mit der NCR ab.}
-{3203}{}{Gib die Spion-Holodisk bei der Regierung der NCR ab.}
+{3203}{}{Gib die Spion-Holo-Disk bei der Regierung der NCR ab.}

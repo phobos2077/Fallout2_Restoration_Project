@@ -148,9 +148,9 @@
 {248}{}{Map Script}
 {249}{}{Sicherheitsroboter}
 {250}{}{Reparaturroboter}
-{251}{}{Holodisk}
-{252}{}{Holodisk}
-{253}{}{Holodisk}
+{251}{}{Holo-Disk}
+{252}{}{Holo-Disk}
+{253}{}{Holo-Disk}
 {254}{}{Terminal}
 {255}{}{Terminal}
 {256}{}{Terminal}
@@ -331,7 +331,7 @@
 {431}{}{Möbel}
 {432}{}{Boden}
 {433}{}{Boden}
-{434}{}{Holodisk}
+{434}{}{Holo-Disk}
 {435}{}{Lenny}
 {436}{}{Kiste}
 {437}{}{Hure}
@@ -358,11 +358,11 @@
 {458}{}{New Reno: Chop Shop}
 {459}{}{New Reno: Golgotha}
 {460}{}{New Reno Bishop-Keller}
-{461}{}{Holodisk}
-{462}{}{Holodisk}
-{463}{}{Holodisk}
-{464}{}{Holodisk}
-{465}{}{Holodisk}
+{461}{}{Holo-Disk}
+{462}{}{Holo-Disk}
+{463}{}{Holo-Disk}
+{464}{}{Holo-Disk}
+{465}{}{Holo-Disk}
 {466}{}{Wächter}
 {467}{}{Lore}
 {468}{}{Melchior}
@@ -1088,9 +1088,9 @@
 {1188}{}{Boxer}
 {1189}{}{Tür}
 {1190}{}{Mogelfigur}
-{1191}{}{Holodisk}
-{1192}{}{Holodisk}
-{1193}{}{Holodisk}
+{1191}{}{Holo-Disk}
+{1192}{}{Holo-Disk}
+{1193}{}{Holo-Disk}
 {1194}{}{Hinweis}
 {1195}{}{Hundefleisch}
 {1196}{}{Cat's Paw-Ausgabe Nr. 5}

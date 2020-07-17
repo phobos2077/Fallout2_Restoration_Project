@@ -294,8 +294,8 @@
 {393}{}{Ich habe mehr über die Gangster herausgefunden, die die Stadt angegriffen haben.}
 {394}{}{Ich hab etwas in Bishops Safe gefunden, das dich interessieren könnte.}
 {395}{}{Dr. Troy ist da glaub ich in eine illegale Sache verwickelt.}
-{396}{}{Ich muss mal mit dir über die Übergabe der Holodisk reden.}
-{397}{}{Ich hab's mir anders überlegt. Ich überbring die Holodisk an den Berater in NCR.}
+{396}{}{Ich muss mal mit dir über die Übergabe der Holo-Disk reden.}
+{397}{}{Ich hab's mir anders überlegt. Ich überbring die Holo-Disk an den Berater in NCR.}
 {398}{}{Tut mir leid, dass ich euch gestört habe.}
 {399}{lyn054a}{Natürlich. Wie kann ich dir helfen, Bürger?}
 {400}{lyn054b}{Natürlich. Wie kann ich dir helfen, Hauptmann?}
@@ -588,7 +588,7 @@
 {687}{}{Wenn ich was rausfinde, sag ich dir Bescheid.}
 {688}{}{Mach ich, Erstbürgerin. Schönen Tag noch.}
 {689}{lyn114}{Das überrascht mich nicht. Bishop war vor kurzem in Vault City und schlug eine Allianz vor. Was ich natürlich abgelehnt habe. Wir verbünden uns doch nicht mit Kriminellen.}
-{690}{}{Ich schätze, das hat er angenommen. Ich habe diese Holodisk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
+{690}{}{Ich schätze, das hat er angenommen. Ich habe diese Holo-Disk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
 {691}{}{Vielleicht wollte er dich auf diese Weise zu einem Bündnis zwingen.}
 {692}{lyn115}{Möglich... aber das wird ihm nie gelingen. Da würde ich ja eher die NCR um Hilfe bitten. Du hast Vault City einen großen Dienst erwiesen. Bitte nimm dies als Zeichen unserer Anerkennung.}
 {693}{}{Danke. Ich hätte da noch ein paar Fragen...}
@@ -609,7 +609,7 @@
 {708}{}{Ich hab sie erledigt. Sie haben sich in ein paar Höhlen am Fuß der Berge im Süden versteckt.}
 {709}{}{Eigentlich weiß ich gar nicht so viel.}
 {710}{}{Danke für das Geld, Ich muss jetzt gehen.}
-{711}{lyn119}{Du musst sofort in die New California Republic gehen und den Stadtrat Westin suchen, Roger Westin. Gib ihm die Holodisk. Dann werden keine "Raider" mehr angeheuert.}
+{711}{lyn119}{Du musst sofort in die New California Republic gehen und den Stadtrat Westin suchen, Roger Westin. Gib ihm die Holo-Disk. Dann werden keine "Raider" mehr angeheuert.}
 {712}{}{Oh... weißt du's noch nicht? Westin ist tot. Er hatte einen Unfall. Einen tödlichen Unfall. Das ist eine lange Geschichte.}
 {713}{}{Augenblick mal. In die NCR? Sind die nicht für alles verantwortlich?}
 {714}{}{Alles klar, mach ich.}
@@ -647,7 +647,7 @@
 {746}{}{Bevor ich gehe, hätte ich da noch ein paar Fragen...}
 {747}{}{Ich bin dabei.}
 {748}{}{Du kannst auf mich zählen, Erstbürgerin. Ich komme wieder, wenn ich Westin die Disk gebracht habe.}
-{749}{lyn127}{Glaub mir, wir werden dich nicht enttäuschen. Bitte bring ihm jetzt die Holodisk.}
+{749}{lyn127}{Glaub mir, wir werden dich nicht enttäuschen. Bitte bring ihm jetzt die Holo-Disk.}
 {750}{}{Bevor ich gehe, hätte ich da noch ein paar Fragen...}
 {751}{}{Alles klar. Ich bin dabei.}
 {752}{}{Du kannst auf mich zählen, Erstbürgerin. Ich komme wieder, wenn ich Westin die Disk gebracht habe.}
@@ -682,7 +682,7 @@
 {781}{}{Bis später.}
 {782}{}{Einen schönen Tag, Erstbürgerin.}
 {783}{lyn136}{Worum geht's?}
-{784}{}{Ich hab diese Holodisk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
+{784}{}{Ich hab diese Holo-Disk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
 {785}{lyn099}{Was meinst du damit?}
 {786}{}{Moore arbeitet in Wirklichkeit für die New California Republic.}
 {787}{lyn138}{Ein Spion für die NCR? Das... das würde allerdings *einiges* erklären. Vielen Dank für diese Enthüllung, Bürger. Um *dieses* Problem kann ich mich gleich selbst kümmern.}
@@ -768,8 +768,8 @@
 {867}{}{Vergiss es. Vielleicht kann mir ja jemand anders helfen.}
 {868}{}{Entschuldige bitte die Störung, Erstbürgerin.}
 {869}{}{Ich brauche ein Ersatzteil, um das Kraftwerk in Gecko zu reparieren.}
-{870}{}{Du hast Westins Holodisk bei Lynette abgeliefert.}
-{871}{}{Du hast Westins Holodisk bei Lynette abgeliefert und bist Hauptmann der Wache geworden.}
+{870}{}{Du hast Westins Holo-Disk bei Lynette abgeliefert.}
+{871}{}{Du hast Westins Holo-Disk bei Lynette abgeliefert und bist Hauptmann der Wache geworden.}
 {872}{}{Du hast die Gangster erledigt und Vault City geholfen.}
 {873}{}{Du hast Moore als einen NCR-Spion entlarvt.}
 {874}{}{Du hast bewiesen, dass Bishop die Gangster bezahlt hat.}

@@ -68,7 +68,7 @@
 {167}{}{Ich habe noch weitere Fragen.}
 {168}{}{Ich bin an einem Beitritt interessiert.}
 {169}{}{Ach so. Na, bis dann.}
-{170}{}{Er: Es ist wirklich ganz einfach. Wir geben dir einfach mal diese informative Holodisk. Sie: ...du siehst einen Kurzfilm... Er:...und dann sprichst du mit AHS-7! Sie: Ganz einfach, oder?}
+{170}{}{Er: Es ist wirklich ganz einfach. Wir geben dir einfach mal diese informative Holo-Disk. Sie: ...du siehst einen Kurzfilm... Er:...und dann sprichst du mit AHS-7! Sie: Ganz einfach, oder?}
 {171}{}{Na, dann los.}
 {172}{}{Ich glaube, ich bin dazu noch nicht bereit.}
 {173}{}{Sie: Das steht dir frei. Er: Aber ich hoffe, du verstehst, dass wir dich nicht in unserer Basis herumspazieren lassen können. Sie: Also geh jetzt besser - die Wachen werden bestimmt auf dich schießen, wenn du noch länger bleibst.}

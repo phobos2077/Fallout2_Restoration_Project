@@ -386,7 +386,7 @@
 {404}{}{Mir ist zu Ohren gekommen, dass ihr die Dorfbewohner als Diener verschleppen wolltet und die Maulwurfsratten haben euch daran gehindert - das ist der eigentliche Grund, warum du sie ausrotten willst.}
 {405}{}{Ja.}
 {406}{}{Noch nicht.}
-{407}{}{Oh, du hast davon gehört, nicht wahr? Nun, das ist richtig - es ist zu ihrem eigenen Besten. Hier haben sie genug zu Essen und sind außer Gefahr. Ich bin mir sicher, sie werden feststellen, dass es viel besser ist, in der großen Vault-City zu dienen, als in ihrem kleinen Dorf zu bleiben, wo sie bis zu den Knien in Rattenkot herumwaten.}
+{407}{}{Oh, du hast davon gehört, nicht wahr? Nun, das ist richtig - es ist zu ihrem eigenen Besten. Hier haben sie genug zu Essen und sind außer Gefahr. Ich bin mir sicher, sie werden feststellen, dass es viel besser ist, in der großen Vault City zu dienen, als in ihrem kleinen Dorf zu bleiben, wo sie bis zu den Knien in Rattenkot herumwaten.}
 {408}{}{Dort sind sie aber glücklich und zufrieden.}
 {409}{}{Das ist doch egal. Nimmst du den Auftrag jetzt an oder nicht?}
 {410}{}{Ok. Ich mach's.}
@@ -395,10 +395,10 @@
 {413}{}{Das ist doch egal, sie enden trotzdem als Diener. Ich schicke gleich eine Kampfeinheit los und bald gibt es dieses kleine Dorf nicht mehr.}
 {414}{}{[Erledigt]}
 {415}{}{Komm zurück wenn alles erledigt ist.}
-{416}{}{Gute Arbeit, Soldat. Hier sind deine $750 - ein geringer Preis für ein Dorf voll mit neuen Dienern. Du hast Vault-City einen großen Dienst erwiesen.}
+{416}{}{Gute Arbeit, Soldat. Hier sind deine $750 - ein geringer Preis für ein Dorf voll mit neuen Dienern. Du hast Vault City einen großen Dienst erwiesen.}
 {417}{}{Moment - Es war nie davon die Rede, das die Dorfbewohner eure Diener werden.}
 {418}{}{Meinetwegen. Wiedersehen.}
-{419}{}{Es ist zu ihrem eigenen Besten. Wenn sie Diener in Vault-City sind, haben sie es nicht mehr nötig, ums Überleben zu kämpfen. Hier bekommen sie genug zu Essen und sind außer Gefahr. Im Gegenzug arbeiten sie für das Wohl der Stadt. Und alle gewinnen. }
+{419}{}{Es ist zu ihrem eigenen Besten. Wenn sie Diener in Vault City sind, haben sie es nicht mehr nötig, ums Überleben zu kämpfen. Hier bekommen sie genug zu Essen und sind außer Gefahr. Im Gegenzug arbeiten sie für das Wohl der Stadt. Und alle gewinnen. }
 {420}{}{Das ist Sklaverei!}
 {421}{}{Das ist KEINE Sklaverei, es ist eine Zusammenarbeit zum Vorteil beider Seiten, sozusagen eine Symbiose.}
 {422}{}{Wie abscheulich! Wiedersehen.}

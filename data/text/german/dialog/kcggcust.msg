@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen Kneipengast, der dich anschaut.}
-{101}{}{Du siehst einen Kneipengast, der Schnetzelfleisch ißt.}
+{101}{}{Du siehst einen Kneipengast, der Schnetzelfleisch isst.}
 {102}{}{Du siehst einen Kneipengast, der einen Krug Bier trinkt.}
 {103}{}{Du siehst einen Kneipengast.}
 {104}{}{Du siehst einen schmuddeligen Kneipengast. Möglicherweise ein Fallensteller.}

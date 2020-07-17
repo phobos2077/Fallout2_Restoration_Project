@@ -38,7 +38,7 @@
 {132}{}{Achtung: Vaulttür geöffnet. In einem Notfall wird die Tür versiegelt.}
 {133}{}{Alle Werte sind normal. Systemdiagnose abgeschlossen. Vorbereitung zum Schreiben auf den
  Datenträger...}
-{134}{}{Die Werte wurden auf Holodisk gespeichert.}
+{134}{}{Die Werte wurden auf Holo-Disk gespeichert.}
 {135}{}{Die Werteliste wurde an das Haupt-Listenbüro weitergeleitet.}
 {136}{}{Drei Sicherungskopien der Listen werden nun in den Quellsafe gestellt.}
 {137}{}{Abgesicherte Sicherungskopie der Listen wird zur Verteilung an alle Terminals in
@@ -68,7 +68,7 @@
 {158}{}{Achtung: Vaulttür geöffnet. In einem Notfall wird die Tür versiegelt.}
 {159}{}{Alle Werte sind normal. Systemdiagnose abgeschlossen. Vorbereitung zum Schreiben auf den
  Datenträger...}
-{160}{}{Die Werte wurden auf Holodisk gespeichert.}
+{160}{}{Die Werte wurden auf Holo-Disk gespeichert.}
 {161}{}{Die Werteliste wurde an das Haupt-Listenbüro weitergeleitet.}
 {162}{}{Drei Sicherungskopien der Listen werden nun in den Quellsafe gestellt.}
 {163}{}{Abgesicherte Sicherungskopie der Listen wird zur Verteilung an alle Terminals in

@@ -60,7 +60,7 @@
 {376}{}{Dan-ki, Mom.}
 {385}{}{Na siehst du. Ich wusste, dass dir das schmeckt.}
 {386}{}{Mmmh, lecker! Tschüss, Mom.}
-{395}{}{Oh vielen Dank! Ich würde es selbst tun, aber ich kann nicht weg, weil jemand auf den Laden aufpassen muss. Hier ist das Essen für Smitty. Wenn ich nicht dafür sorgen würde, dass er was ißt, würde er es wahrscheinlich vergessen.}
+{395}{}{Oh vielen Dank! Ich würde es selbst tun, aber ich kann nicht weg, weil jemand auf den Laden aufpassen muss. Hier ist das Essen für Smitty. Wenn ich nicht dafür sorgen würde, dass er was isst, würde er es wahrscheinlich vergessen.}
 {396}{}{Ich bring es ihm rüber.}
 {405}{}{Ich bin sehr enttäuscht von dir. Der arme Smitty musste sich sein Essen selbst abholen. Was willst du denn?}
 {406}{}{Hallo! Ich heiße Mom und ich führe diesen Laden. Hier gibt's das beste Essen nördlich von New Reno.}

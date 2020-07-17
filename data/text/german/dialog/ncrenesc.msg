@@ -133,7 +133,7 @@
 {546}{}{Hab ich schon erwähnt, dass Arroyo von meinem Vorfahren, dem heiligen Vaultbewohner gegründet wurde? Er unternahm eine legendäre Reise vom Süden aus, nachdem er ein großes Unheil abgewendet hatte. (Du blähst die Brust auf und blickst stolz in die Ferne.) Jetzt, bin *Ich* der Erlöser meines Stammes, auserwählt, nach dem heiligen GECK zu suchen!}
 {547}{}{OK, gut, genug der Geschichten... Ich mache mich jetzt besser auf den Weg. Gelobt sei die Vault!}
 {555}{}{(Renescos funkelnder Blick erlischt.) }
-{556}{}{GECK? Wie 'Garden Eden Creation Kit'? Wird mit einer Basisreplikationseinheit, Holodisk-Leser mit einer Auswahl der Kongreßbibliothek und einer kleinen Stablampe geliefert?}
+{556}{}{GECK? Wie 'Garden Eden Creation Kit'? Wird mit einer Basisreplikationseinheit, Holo-Disk-Leser mit einer Auswahl der Kongreßbibliothek und einer kleinen Stablampe geliefert?}
 {557}{}{Ja, aber das ist jetzt nicht wichtig. Ich habe dir noch nicht alles über Arroyo erzählt.}
 {558}{}{Ja! Mein Dorf hat Schwierigkeiten mit der Ernte und sie brauchen das GECK, um das Dorf zu erhalten. Weißt du, wo ich eines finde?}
 {559}{}{Es heißt, es sei in Vault 13 versiegelt, zumindest in den Legenden. Kennst du diesen Ort?}

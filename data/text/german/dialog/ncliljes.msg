@@ -45,7 +45,7 @@
 {346}{}{Hab dich im Ring kämpfen sehen, }
 {347}{}{Wie groß bist du, }
 {348}{}{Wo trainierst'n du, eh?}
-{349}{}{Halt nach dem Beißer Ausschau. Er ißt gerne Ohren.}
+{349}{}{Halt nach dem Beißer Ausschau. Er isst gerne Ohren.}
 {350}{}{Ich würd dir nen Drink spendieren, wenn ich nicht mein ganzes Geld auf deinen Gegner gesetzt hätte.}
 {351}{}{Woher kommst du, dass du so kämpfst? Du bist gut. Ich meine, GUT.}
 {352}{}{Wo hast du Kämpfen gelernt, Mädchen? Du bist tückisch. Du hast es DRAUF.}

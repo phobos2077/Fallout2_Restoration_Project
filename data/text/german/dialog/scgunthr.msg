@@ -72,7 +72,7 @@
  befindet - ein gewisser Feargus.}
 {159}{}{Wiedersehn.}
 {160}{}{Feargus? Ich glaub das nicht.}
-{161}{}{Sieh dir mal diese Holodisk an.}
+{161}{}{Sieh dir mal diese Holo-Disk an.}
 {162}{}{So oder so, ich mach mich davon.}
 {163}{}{Verdammt. Scheint ziemlich hieb- und stichfest zu sein. Wir werden uns der Sache
  annehmen. Hier hast du noch mal 4000 Dollar für die Information.}

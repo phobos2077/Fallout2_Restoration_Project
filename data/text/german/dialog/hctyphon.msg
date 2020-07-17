@@ -162,7 +162,7 @@
 {336}{}{Ein GECK? Jau, da war so ein Typ, der...}
 {337}{}{Psst! Psst! Jemand hört zu!}
 {338}{}{Es ist der Zyklus des Lebens, weißt du... das eine Lebewesen lebt vom anderen und immer so weiter...}
-{339}{}{Aha. Aber DU ißt noch immer Dünger. Blödsinn... Pflanzenphilosophie...}
+{339}{}{Aha. Aber DU isst noch immer Dünger. Blödsinn... Pflanzenphilosophie...}
 {340}{}{Kann ich mal irgendwann mit deiner Powerrüstung spielen?}
 {341}{}{Sprichst du von diesem alten Anzug, den ich in der Abstellkammer habe? Hihi...}
 {342}{}{Ja, ich habe mich mit Planzenkreuzung befasst.}

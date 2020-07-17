@@ -111,7 +111,7 @@
 {190}{}{Jacob und Aileen wollen, dass ich die Mine in die Luft jage. Ich dachte, das interessiert
  dich vielleicht.}
 {191}{}{Ein Wissenschaftler aus der NCR will ein Experiment mit einer Substanz durchführen, die
- alle Mutanten umbringt. Pass auf, was du ißt oder trinkst.}
+ alle Mutanten umbringt. Pass auf, was du isst oder trinkst.}
 {192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
 {193}{}{Chad hat ungefähr $1000 von der letzten Uranlieferung für sich behalten. Er will sich demnächst absetzen. 
  Ich hab hier eine Aktentasche mit Aufzeichnungen darüber.}

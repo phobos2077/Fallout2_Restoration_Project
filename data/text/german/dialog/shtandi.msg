@@ -152,7 +152,7 @@
 {250}{}{Ich andere Frage.}
 {251}{}{Bitte erzähl mir von der NCR.}
 {252}{}{Ich möchte dich noch was anderes fragen.}
-{253}{tand32}{Davon könnte ich ewig reden, aber leider habe ich keine Zeit dazu. Hier ist eine Holodisk über die NCR. Wir stellen sie her, um unsere frohe Botschaft zu verbreiten.}
+{253}{tand32}{Davon könnte ich ewig reden, aber leider habe ich keine Zeit dazu. Hier ist eine Holo-Disk über die NCR. Wir stellen sie her, um unsere frohe Botschaft zu verbreiten.}
 {254}{}{Äh, danke.}
 {255}{tand33}{Sie sind also endlich vernünftig geworden. Ich kann den Kongreß dazu bringen, Vorräte und Techniker zu entsenden. Bist du sicher, dass wir in die Vault können?}
 {256}{}{Ich sicher. Penner da, aber ich hauen.}
@@ -160,7 +160,7 @@
 {258}{tand34}{Ich hab immer daran geglaubt, dass gute Arbeit auch guten Lohn verdient. Mein Sekretär wird die Sache regeln.}
 {259}{}{Ich finden Problem. Du gucken Disk. Spion in NCR.}
 {260}{}{Ich müssen wissen eins noch: Was, wenn ich gefunden Vault 13?}
-{261}{}{Ich fürchte ihr habt jetzt ein anderes Problem. Wirf mal einen Blick auf diese Holodisk - es gibt einen Spion in der NCR.}
+{261}{}{Ich fürchte ihr habt jetzt ein anderes Problem. Wirf mal einen Blick auf diese Holo-Disk - es gibt einen Spion in der NCR.}
 {262}{}{Eins noch. Was, wenn ich dir sagen würde, dass ich Vault 13 gefunden habe?}
 {263}{}{Danke.}
 {264}{tand35}{Verdammt, der einzige, der das wusste, war Feargus! Ich will keine voreiligen Schlüsse ziehen, aber vielleicht sollte Gunther davon erfahren.}

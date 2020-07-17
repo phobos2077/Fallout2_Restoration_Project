@@ -66,8 +66,8 @@
 {221}{}{Einen Apfel?}
 {222}{}{Ich mag im Moment nicht reden, ich bin zu sehr enttäuscht. Tschüss.}
 {230}{}{Ich liebe Äpfel. Es gibt nur leider nicht mehr viele. Ich seh kaum noch welche.}
-{231}{}{Ich wusste nicht, dass du so gerne Obst ißt. Erzähl mir was anderes.}
-{232}{}{Ich hab gehört, dass du einen Apfel richtig genießen kannst, weil man sie so langsam ißt.}
+{231}{}{Ich wusste nicht, dass du so gerne Obst isst. Erzähl mir was anderes.}
+{232}{}{Ich hab gehört, dass du einen Apfel richtig genießen kannst, weil man sie so langsam isst.}
 {240}{}{Langsam?! Bist du dämlich! Rindvieh! Äpfel kann man genauso schnell essen wie anderes Obst. Äpfel sind das Höchste. Wenn sich die Obsthersteller nicht verschworen hätten, könnten wir alle Äpfel essen.}
 {241}{}{Du bist verrückt! Ich glaub, du hast zu viel von deinem eigenen Bier getrunken. Erzähl mir was anderes.}
 {242}{}{Oh, ja, Äpfel sind wirklich phantastisch. (Du weichst langsam zurück) Ja, das stimmt. Guter, alter Wooz, mach's gut. Tschüss.}
@@ -92,7 +92,7 @@
 {302}{}{Du bist hier das dumme Stück. Deine Bar stinkt. Ich hau ab.}
 {303}{}{Äh, nichts. Tut mir leid, Wooz.}
 {304}{}{Äh, hab ich dir erzählt, wie sehr ich Äpfel mag?}
-{310}{}{Wirklich? Das wusste ich nicht. Naja, wenn du gern Äpfel ißt, kannst du gar nicht so schlecht sein. Also, was zum Teufel willst du?}
+{310}{}{Wirklich? Das wusste ich nicht. Naja, wenn du gern Äpfel isst, kannst du gar nicht so schlecht sein. Also, was zum Teufel willst du?}
 {311}{}{Ich möcht dir einige Fragen stellen, Wooz.}
 {320}{}{Zombies? Fahr zur Hölle! Wir sind Ghuls. Zombies sind eine Art Untote ohne freien Willen. Auch wenn wir ihnen vielleicht äußerlich ähneln - vor allem das verrottete Fleisch und die typische Düsterkeit - wir sind Kreaturen mit freiem Willen. Erlaube mir, dies zu demonstrieren.}
 {321}{}{Häh?}

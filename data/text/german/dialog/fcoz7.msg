@@ -106,7 +106,7 @@
 {205}{}{Wie ich höre, haben die Shi einen gewaltigen Tank voller Benzin. Vielleicht kannst du es ihnen stehlen.}
 {206}{}{Gute Idee. Ich habe weitere Fragen.}
 {207}{}{Ja, vielleicht. Danke.}
-{208}{}{Du musst nur die Holodisk benutzen, die Juan und Vikki dir gegeben haben und im Glossar nachsehen.}
+{208}{}{Du musst nur die Holo-Disk benutzen, die Juan und Vikki dir gegeben haben und im Glossar nachsehen.}
 {209}{}{Danke. Mehr Fragen?}
 {210}{}{Danke.}
 {211}{}{Sobald AHS-9 eine Vision vom Hub erhält, werden wir starten und in himmlischer Herrlichkeit zu ihm stoßen!}

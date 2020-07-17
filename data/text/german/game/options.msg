@@ -26,7 +26,7 @@
 {120}{}{STANDARD}
 {121}{}{ABBRECHEN}
 {122}{}{Spielergeschwindigkeit beeinflussen}
-{123}{}{Pip-Boy-Sprachausgabe}
+{123}{}{PIPBoy-Sprachausgabe}
 {201}{}{Ein}
 {202}{}{Aus}
 {203}{}{Einfach}

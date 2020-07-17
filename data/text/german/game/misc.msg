@@ -5,7 +5,7 @@
 {4}{}{Spiel erfolgreich geladen.}
 {5}{}{Spiel erfolgreich gespeichert.}
 {6}{}{Demo-Zeitlimit überschritten.}
-{7}{}{Pip-Boy steht im Kampf nicht zur Verfügung!}
+{7}{}{PIPBoy steht im Kampf nicht zur Verfügung!}
 {8}{}{Fehler beim Speichern des Screenshots.}
 {9}{}{EINFÜHRUNG}
 {10}{}{NEUES SPIEL}
@@ -43,7 +43,7 @@
 {5001}{}{hat keine Munition mehr für}
 {5002}{}{lädt}
 {6000}{}{Über was befragen?}
-{7000}{}{Du hast den Pip-Boy nicht dabei!}
+{7000}{}{Du hast den PIPBoy nicht dabei!}
 {8000}{}{Du bist überladen.}
 {8001}{}{%s ist überladen.}
 {8500}{}{Du bekommst %d Erfahrungspunkte für die erfolgreiche Anwendung der Fähigkeit Naturbursche.}

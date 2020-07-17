@@ -38,7 +38,7 @@
 {313}{}{Bis Mitternacht (00:00) ausruhen}
 {314}{}{Bis zur Heilung ausruhen}
 {315}{}{Bis zur Heilung der Gruppe ausruhen}
-{400}{}{Holodisk von Vault 13}
+{400}{}{Holo-Disk von Vault 13}
 {401}{}{Militärbasis, Außen}
 {402}{}{Militärbasis, Ebene 1}
 {403}{}{Militärbasis, Ebene 2}
@@ -52,9 +52,9 @@
 {411}{}{Lehre der Hubologen}
 {412}{}{Vault City Designerhinweise}
 {413}{}{Vault City Reisebericht}
-{414}{}{NCR-Spion-Holodisk}
+{414}{}{NCR-Spion-Holo-Disk}
 {415}{}{NCR-Geschichts-Disk}
-{416}{}{Westins Holodisk}
+{416}{}{Westins Holo-Disk}
 {417}{}{Lage der Nation}
 {418}{}{Wortliste}
 {419}{}{Das Projekt}
@@ -82,7 +82,7 @@
 {603}{}{Archive}
 {604}{}{Wecker}
 {605}{}{Du da du da dum di di dudly du dam dam dam du da}
-{606}{}{Dein RobCo Pip-Boy 2000 grüßt dich.}
+{606}{}{Dein RobCo PIPBoy 2000 grüßt dich.}
 {607}{}{Machs gut.}
 {608}{}{Aufwachen.}
 {700}{}{Vault 13}
@@ -132,7 +132,7 @@
 {810}{}{Kathedrale}
 {1000}{}{  Vault 13 HOLO von Ziggy}
 {1001}{}{ verschiedene wasserdichte Türen in der gesamten}
-{1002}{}{ Diese Holodisk gibt den Standort von Vault 13}
+{1002}{}{ Diese Holo-Disk gibt den Standort von Vault 13}
 {1003}{}{ an. Der Standort ist auf deiner Karte markiert}
 {1004}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {2000}{}{ An: CHQ}
@@ -466,11 +466,11 @@
 {11119}{}{ Abschrift der Übertragung vom 10. Oktober 2077}
 {11120}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {12000}{}{Willkommen!}
-{12001}{}{ Willkommen zur Hubologie-Holodisk! Auf diesen}
+{12001}{}{ Willkommen zur Hubologie-Holo-Disk! Auf diesen}
 {12002}{}{ elektronischen Seiten befindet sich eine}
 {12003}{}{ Kurzbeschreibung unserer Philosophie}
 {12004}{}{ einschließlich der früher verbotenen Lehren des Hub.}
-{12005}{}{ Diese Holodisk soll kein umfassendes Werk über die}
+{12005}{}{ Diese Holo-Disk soll kein umfassendes Werk über die}
 {12006}{}{ Hubologie darstellen - sie ist einfach eine Einführung,}
 {12007}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12008}{}{**END-PAR**}

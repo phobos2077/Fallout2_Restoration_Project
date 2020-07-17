@@ -14,7 +14,7 @@
 {113}{}{Ratt putzen und putzen. Alles schlechte Ungeziefer essen. Haus sauber halten.}
 {114}{}{Und etwas anderes, ich möchte Dich nicht andauernd diese Käfer, Schaben und das ganze Zeugs essen sehen.}
 {115}{}{Doktor nicht wollen Ratt loswerden die Ungeziefer? Okay, Ratt aufheben gute Ungeziefer für Doktor zu essen.}
-{116}{}{Ich möchte sie nicht essen, Du Dummkopf! Ich möchte nur nicht sehen, wie Du sie ißt.}
+{116}{}{Ich möchte sie nicht essen, Du Dummkopf! Ich möchte nur nicht sehen, wie Du sie isst.}
 {117}{}{Ratt nicht essen Ungeziefer?}
 {118}{}{Genau, ESSE KEIN UNGEZIEFER IN MEINER GEGENWART. Mich interessiert dieses widerlich mampfende Geräusch nicht.}
 {119}{}{Ratt nur an knackigen Schalen lecken dann?}

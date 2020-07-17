@@ -138,7 +138,7 @@
 {803}{}{In Ordnung, ich schau mal, was ich tun kann.}
 {804}{}{Hmm, das wäre eine Idee.}
 {805}{}{Das passiert nur dann, wenn ein Papierhund eine Asbestkatze erfolgreich quer durch die Hölle jagt. Tschüss.}
-{806}{}{Möchte wetten, dass so 'n schlaues Kerlchen wie du dort einfach reinschlüpfen könnte, um eine Holodisk mit den Leistungsdaten des Reaktors am Zentralcomputer anzuwenden. Und dann die Disk geradewegs wieder hierher schmuggeln. Das würde reichen. Ich würd's ja selbst machen, aber ich werd hier zu sehr gebraucht, als dass ich auch nur einen Moment weg könnte.}
+{806}{}{Möchte wetten, dass so 'n schlaues Kerlchen wie du dort einfach reinschlüpfen könnte, um eine Holo-Disk mit den Leistungsdaten des Reaktors am Zentralcomputer anzuwenden. Und dann die Disk geradewegs wieder hierher schmuggeln. Das würde reichen. Ich würd's ja selbst machen, aber ich werd hier zu sehr gebraucht, als dass ich auch nur einen Moment weg könnte.}
 {807}{}{Ich mag keine halben Sachen.}
 {808}{}{Hmm, ich glaube kaum, dass ich damit durchkommen würde. Tut mir leid, Festus. Mach 's gut.}
 {809}{}{Das könnte gerade klappen. Mir scheint, meine Klugheit fängt an, auf dich abzufärben. Gut, gut. Hör zu. Am besten, du bringst sie zu einem Typ namens McClure. Nach dem, was ich so gehört habe, ist er der einzige da, der auch mal für jemand anderes als bloß immer für diese hochehrwürdigen Vaultstädter ein offenes Ohr hat.}

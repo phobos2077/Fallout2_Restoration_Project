@@ -119,7 +119,7 @@
 {834}{}{Du siehst aus, als hättest du genug Gesellschaft, Boss. Ich bleib hier und warte, bis du alles im Griff hast. Moms Küche erinnert mich an meine Exfrau... weiß nich', ob das gut oder schlecht ist...}
 {835}{}{Das würde ich wirklich gern, Boss. Aber es sieht aus, als hättest du wirklich keinen Platz mehr. Ich geh mal rüber zu Mom, war schon lange nicht mehr da. Komm und hol mich ab, wenn du etwas mehr Platz für mich hast. }
 {840}{}{Ed ist drüben in Vault City. Er ist ein Brahminhändler. Er war nur einer meiner vielen Lieferanten. Vault City ist nicht weit von hier.}
-{845}{}{Ich hab dir doch gesagt, es ist hier drüben. [Vic zeigt auf einen Ort auf deinem PIP-Boy 2000.]}
+{845}{}{Ich hab dir doch gesagt, es ist hier drüben. [Vic zeigt auf einen Ort auf deinem PIPBoy 2000.]}
 {900}{}{Du hast erfahren, dass Vic ein Händler ist.}
 {1000}{}{Ich muss dich was fragen.}
 {1100}{}{Vollständig geheilt, Boss. Noch was?}

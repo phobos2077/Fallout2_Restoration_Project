@@ -96,5 +96,5 @@
  genutzt werden kann. Das GECK selbst enthält Anweisungen zur Demontage von Teilen der Vault um Gebäude und Verteidigungsanlagen für die neue Gemeinschaft zu schaffen.
  Als du die Dateien zu Ende gelesen hast, erkennst du durchaus, dass es nicht so ein magisches Gerät ist, wie die Ältere zu denken scheint,
  ein GECK zu finden ist trotzdem die beste Möglichkeit deinen Stamm zu retten.}
-{1000}{}{Du lädst die EPA Botanikdaten Holodisk hoch.}
+{1000}{}{Du lädst die EPA Botanikdaten Holo-Disk hoch.}
 {2000}{}{Du formatierst die Bücherdatenbank von Abbey.}
