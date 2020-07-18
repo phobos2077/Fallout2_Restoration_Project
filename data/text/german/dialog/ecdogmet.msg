@@ -39,8 +39,8 @@
 {138}{}{Grrrrr....}
 {139}{}{[Vielleicht kann ich Dogmeat dazu bringen, den Abstand zu ändern?]}
 {150}{}{Wuff! Wuff!}
-{200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
-{201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
+{200}{}{Schau was ich für dich hab, Junge! Mal sehen, wer sich jetzt noch mit dir anlegen will! [Du legst Dogmeat das K9-Kevlar an.]}
+{201}{}{Zieht dich die Rüstung runter, Junge? Lass uns das Ding abnehmen. (Du entfernst das K-9-Kevlar von Dogmeat.) }
 {300}{}{*winseln*}
 {301}{}{Auuuuuuuuuuu! *winseln*}
 {1110}{}{Der Hund schlingt den Inhalt der Dose Hundefutter gierig hinunter und sieht dich dann erwartungsvoll an.}

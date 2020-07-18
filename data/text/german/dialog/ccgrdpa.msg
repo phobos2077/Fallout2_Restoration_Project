@@ -51,19 +51,22 @@
 {420}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
  later, the cargo door opens and you see a squad of Enclave soldiers. One of them does a double-take at you.] What the hell
  are you doing back here? You weren't authorized to be on that mission. What's your name, soldier?}
-{421}{}{It doesn't matter what my name is, 'cause I'm not here to talk. [Jump out and start fighting.]}
-{422}{}{Me? Oh, I'm, uh, *cough*mumble*cough*. Don't mind me, though. In fact, I should probably be going now.
- [Get out and attempt to walk away nonchalantly.]}
+{421}{}{Mein Name spielt keine Rolle, denn ich bin nicht zum Reden hier. [Spring raus und fang an zu kämpfen.]}
+{422}{}{Ich? Oh, ich bin, äh, *hust*nuschel*hust*. Beachtet mich gar nicht. Sollte jetzt wohl besser gehen.
+ [Steig aus und versuche lässig wegzugehen.]}
 {423}{}{Ich heiße }
-{424}{}{. Where am I?}
-{425}{}{No, what's *your* name, soldier? I was put here to test you and I gotta say you FAILED. If I were a wasteland
- suicide assassin you and your whole crew would be dead right now! That is unacceptable! Shape up, soldier!}
-{426}{}{Uh . . . my name }
-{427}{}{. I take fun ride in metal birdie! Go again! Wanna go again!}
-{428}{}{You not need know my name. I no like you. I kill. [Jump out and start fighting.]}
-{430}{}{What are you, drunk? You're at Navarro, of course. If you're having memory problems, soldier, you might wanna go get yourself checked out. Maybe some of that radiation out there got to you.}
-{440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
-{450}{}{Sir! Yes sir!}
-{451}{}{Ma'am! Yes ma'am!}
-{460}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made him retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bastard out of his misery before he contaminates us.}
-{461}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made her retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bitch out of her misery before she contaminates us.}
+{424}{}{. Wo bin ich?}
+{425}{}{Nein, wie ist *dein* Name, Soldat? Ich wurde hierher geschickt, um euch zu testen, und ich muß sagen: ihr habt VERSAGT.
+ Wenn ich ein Ödland-Selbstmordattentäter wäre, wären du und deine ganze Truppe jetzt tot! Das ist inakzeptabel!
+ Reiß dich zusammen, Soldat!}
+{426}{}{Äh... meine Name }
+{427}{}{. Ich machen lustigen Flug in Metallvogel! Nochmal! Ich nochmal fliegen!}
+{428}{}{Du meinen Namen nicht zu wissen. Ich dich nicht mögen. Ich töten. [Spring raus und fang an zu kämpfen.]}
+{430}{}{Bist du betrunken, oder was? Du bist natürlich in Navarro. Wenn du Gedächtnisprobleme hast, Soldat, solltest du dich besser mal untersuchen lassen. Vielleicht hat die Strahlung da draußen etwas mit dir angestellt.}
+{440}{}{Komm mir nicht mit diesem Schwachsinn. Du bist einer der neuen Rekruten, nicht wahr? Dein schlaues
+ Mundwerk wird dir noch mächtig Ärger einbringen... und ich kann es kaum erwarten, das zu sehen.
+ Jetzt geh zurück auf deinen Posten, Soldat.}
+{450}{}{Sir, jawohl, Sir!}
+{451}{}{Ma'am! Jawohl ma'am!}
+{460}{}{[Der Soldat sieht einen seiner Kameraden an.] Mein Gott, der Kontakt mit all den Mutanten und der Strahlung da draußen muss ihn bekloppt gemacht haben. Siehst du? *Deshalb* melde ich mich nie freiwillig für diese Ödlandausflüge. Wie auch immer, lasst uns diesen dummen Bastard von seinem Elend erlösen, bevor er uns noch verseucht.}
+{461}{}{[Der Soldat sieht einen seiner Kameraden an.] Mein Gott, der Kontakt mit all den Mutanten und der Strahlung da draußen muss sie bekloppt gemacht haben. Siehst du? *Deshalb* melde ich mich nie freiwillig für diese Ödlandausflüge. Wie auch immer, lasst uns diese dumme Schlampe von ihrem Elend erlösen, bevor sie uns noch verseucht.}
