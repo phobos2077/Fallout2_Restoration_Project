@@ -16,7 +16,7 @@ sfall.dat
 sfall-mods.ini
 translations
 "
-for f in files; do
+for f in $files; do
   7zr x sfall.7z "$f"
 done
 7zr e sfall.7z data/scripts
