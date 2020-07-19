@@ -31,6 +31,7 @@ done
 # then merge custom settings
 crudini --merge "$release_ini" < "$custom_ini"
 # set version string
+sed -i "s|^;VersionString=|VersionString=|" "$release_ini"
 crudini --set "$release_ini" "Misc" "VersionString" "FALLOUT II 1.02d  RP 2.3.3${uversion}"
 # crudini adds spaces arouns the values, need to remove them
 sed -i "s|^\([[:alnum:]]\+\) = |\1=|" "$release_ini"
