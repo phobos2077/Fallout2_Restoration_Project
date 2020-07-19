@@ -37,7 +37,7 @@ gl_npcarmor.int
 gl_partycontrol.int
 "
 for f in $scripts; do
-  mv $f data/scripts/
+  mv "$f" data/scripts/
 done
 
 # old appearance mod in directories
