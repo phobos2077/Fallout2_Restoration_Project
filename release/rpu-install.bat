@@ -26,10 +26,9 @@ for %%a in (%appearances%) do (
 
 :: sfall scripts
 mkdir %scripts_dir%
-move gl_ammomod.int %scripts_dir%\
-move gl_highlighting.int %scripts_dir%\
-move gl_npcarmor.int %scripts_dir%\
-move gl_partycontrol.int %scripts_dir%\
+move /y gl_ammomod.int %scripts_dir%\
+move /y gl_highlighting.int %scripts_dir%\
+move /y gl_partycontrol.int %scripts_dir%\
 
 :: sound path fix
 initool.exe s fallout2.cfg sound music_path1 data\sound\music\ > tmp.cfg

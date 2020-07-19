@@ -8,8 +8,10 @@ cd -- "$(dirname "$BASH_SOURCE")"
 touch fs_testx fs_testX
 if [[ "$(ls fs_test* | wc -l)" == "2" ]]; then
   rm -f fs_testx fs_testX
-  echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
-  exit 1
+  if [[ "$(find . -name "[[:upper:]]*" | wc -l)" != "0" ]]; then
+    echo "The filesystem is case sensitive. You must recursively lowercase Fallout game directory before proceeding."
+    exit 1
+  fi
 fi
 
 bdir="backup/rpu"
@@ -33,7 +35,6 @@ mkdir -p data/scripts
 scripts="
 gl_ammomod.int
 gl_highlighting.int
-gl_npcarmor.int
 gl_partycontrol.int
 "
 for f in $scripts; do

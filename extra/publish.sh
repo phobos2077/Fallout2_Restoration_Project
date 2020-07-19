@@ -52,7 +52,7 @@ cd ..
 ./"$extra_dir"/publish/sfall.sh
 
 # npc armor mod from sfall
-./"$extra_dir"/publish/npcarmor.sh
+./"$extra_dir"/publish/npc_armor.sh
 
 # ammo mod from sfall
 ./"$extra_dir"/publish/ammo.sh
