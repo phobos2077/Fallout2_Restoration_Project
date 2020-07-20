@@ -14,6 +14,11 @@ if [[ "$(ls fs_test* | wc -l)" == "2" ]]; then
   fi
 fi
 
+if [[ ! -f master.dat ]]; then
+  echo "File master.dat not found. This is not Fallout 2 directory. Aborting."
+  exit 1
+fi
+
 bdir="backup/rpu"
 mkdir -p "$bdir"/data/sound
 
