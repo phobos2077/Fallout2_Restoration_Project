@@ -45,3 +45,14 @@ Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
 
 [Types]
 Name: "custom"; Description: "Custom Selection"; Flags: iscustom
+
+[Code]
+function NextButtonClick(PageId: Integer): Boolean;
+begin
+  Result := True;
+  if (PageId = wpSelectDir) and not FileExists(ExpandConstant('{app}\fallout2.exe')) then begin
+    MsgBox('fallout2.exe not found in the selected directory. Re-check game path.', mbError, MB_OK);
+    Result := False;
+    exit;
+  end;
+end;
