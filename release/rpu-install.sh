@@ -18,6 +18,14 @@ if [[ ! -f master.dat ]]; then
   echo "File master.dat not found. This is not Fallout 2 directory. Aborting."
   exit 1
 fi
+if [[ -f up-changelog.txt && ! -f rp-changelog.txt ]]; then
+  echo "UP installation detected. RPU cannot be installed on UP. Aborting. Re-start with a fresh Fallout 2 installation."
+  exit 1
+fi
+if [[ -f mods/upu.dat ]]; then
+  echo "UPU installation detected. RPU cannot be installed on UPU. Aborting. Re-start with a fresh Fallout 2 installation."
+  exit 1
+fi
 
 bdir="backup/rpu"
 mkdir -p "$bdir"/data/sound
