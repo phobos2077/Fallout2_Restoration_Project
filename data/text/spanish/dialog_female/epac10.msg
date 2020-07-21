@@ -318,101 +318,73 @@ esos sitios}
 {1270}{}{Existían estos lagartos gigantes, algunos más grandes que los edificios, en los que la gente se paseaba. Los llamamos
   dinosaurios, y eran conocidos como el mejor amigo del hombre.}
 {1271}{}{Vaya, ¿tenías uno?}
-{1272}{}{Of course. I rode a T-rex, the most badass giant lizard of them all. Only mine was even more badass because it had wings. Basically, it was a dragon.}
+{1272}{}{Por supuesto. Monté un T-rex, el lagarto gigante más rudo de todos. Solo que el mío era aún más rudo porque tiene alas. Básicamente, era un dragón.}
 {1273}{}{Interesante...}
-{1280}{}{In the year 2011, The Awaking took place, and long dormant magical creatures, like Orcs, Elves, Trolls, and
- Dwarves returned to the world, along with magic. Magic and technology then clashed in a dark world of corporate warfare,
- waged in the shadows of the sprawling metropolises.}
+{1280}{}{En el año 2011, tuvo lugar El Despertar y criaturas mágicas inactivas, como Orcos, Elfos, Trolls y los enanos regresaron al mundo, junto con la magia. La magia y la tecnología se enfrentaron en un oscuro mundo de guerra corporativa librado en las sombras de las metrópolis en expansión.}
 {1281}{}{Vaya, ¿qué pasó con las criaturas mágicas?}
-{1282}{}{I guess they got taken out when the bombs fell. Except it looks like you've still got some Dwarves, Trolls,
- and Zombies around.}
+{1282}{}{Supongo que los sacaron cuando cayeron las bombas. Excepto que parece que todavía tienes algunos enanos, trolls y zombis.}
 {1283}{}{Interesante...}
-{1290}{}{There was this gigantic green lizard called Godzilla. Godzilla would alternate between terrorizing Japan,
- and saving its ass against giant space invaders. There was another violent gigantic lizard called the Tarrasque. I think they were cousins or something.}
+{1290}{}{Había una gigantesca lagartija verde llamada Godzilla. 
+Godzilla alternaría entre aterrorizar a Japón y salvar su trasero contra los invasores espaciales gigantes. Había otro lagarto gigantesco violento llamado Tarrasque. Creo que eran primos o algo así.}
 {1291}{}{Vaya, ¿qué les pasó?}
-{1292}{}{Godzilla got taken out by Ferris Bueller. As for the Tarrasque, we had a giant robot battle him. The robot,
- piloted by yours truly, punched the Tarrasque so hard that be broke apart into thousands of little Tarrasques that
- scattered all over California.}
+{1292}{}{Godzilla fue sacado por Ferris Bueller. En cuanto al Tarrasque, tuvimos un robot gigante luchando contra él. El robot, pilotado por el tuyo de verdad, golpeó al Tarrasque con tanta fuerza que se dividió en miles de pequeños Tarrascos que se dispersaron por toda California.}
 {1293}{}{Interesante...}
-{1300}{}{The earth was full of hot women, and I held the world record for the amount of sexual partners I had.}
-{1301}{}{I see. You know, Dex, some of these things you're telling me are a bit... out there. I get this strange feeling
- that it might not all be true.}
-{1302}{}{Hey, were YOU alive back then? No, you weren't. So who's the pre-war expert here? So trust me, it's all true.
- But hey, if you're not going to believe me, then I'm done telling you stories for now.}
-{1303}{}{Huh. That's too bad, because they've been so helpful so far.}
+{1300}{}{La tierra estaba llena de mujeres calientes, y tenía el récord mundial por la cantidad de parejas sexuales que tenía.}
+{1301}{}{Veo. Sabes, Dex, algunas de estas cosas que me estás diciendo son un poco ... por ahí.
+Tengo la extraña sensación de que no todo puede ser cierto.}
+{1302}{}{Oye, ¿estabas VIVO entonces? No, no estabas. 
+Entonces, ¿quién es el experto de antes de la guerra aquí? Entonces confía en mí, todo es verdad.
+Pero bueno, si no me vas a creer, ya no te cuento historias por ahora.}
+{1303}{}{Huh. Eso es una pena, porque han sido muy útiles hasta ahora.}
 {1400}{}{Simplemente dime dónde me quieres.}
 {1401}{}{Simplemente dime dónde me quieres, bebé.}
 {1402}{}{No hay problema. No quiero hacer que se sientas nerviosa. [Dex sonríe.]}
-{1403}{}{Sure. If you think you need to keep an eye on me, I'm fine with that.}
-{1404}{}{Sure. I understand it's hard to concentrate when I'm too close. [Dex grins.]}
-{1405}{}{[Dex cocks his eyebrow at you and winks.]}
+{1403}{}{Por supuesto. Si crees que necesitas vigilarme, estoy bien con eso.}
+{1404}{}{Por supuesto. Entiendo que es difícil concentrarse cuando estoy demasiado cerca. [Dex sonríe.]}
+{1405}{}{[Dex levanta la ceja y te guiña un ojo.]}
 {1406}{}{No hay problema.}
-{1500}{}{Why? You don't trust me with weapons? [He laughs.] Sure thing, if it'll put your mind at ease.}
-{1600}{}{Uh, sure. But just so we're on the same page here, you know I'm into chicks... right?}
-{1601}{}{All-right. [Dex strips off his armor and begins stripping off his clothes. He stops when he sees you glaring
- at him.] You're sending me mixed signals here, doll. Dex doesn't like to be toyed with. Just the armor it is.}
-{1700}{}{Well, I can do wondrous things with knives. It's like an art. There's something very special about the way a
- blade slices into flesh, you know what I mean?}
-{1701}{}{Uh... yeah, sure. Anything else you can use? Feel free to be less creepy about it this time.}
-{1702}{}{Well, my Uncle was one of them military hard-asses. He trained me with pistols and SMGs, and I even got to toy
- around with some energy weapon prototypes they were working on. He thought I'd follow in his footsteps and be a
- puppet for Uncle Sam, but I, uh... Let's just say I went down a different path.}
+{1500}{}{¿Por qué? ¿No confías en mí con armas? [Se ríe.] Claro, si te tranquiliza.}
+{1600}{}{Uh, claro. Pero solo para estar en la misma página aquí, sabes que me gustan las chicas ... ¿verdad?}
+{1601}{}{Todo bien. [Dex se quita la armadura y comienza a quitarse la ropa. Se detiene cuando te ve mirándolo.] Me estás enviando señales confusas aquí, muñeca. A Dex no le gusta que le jueguen. Solo la armadura que es.}
+{1700}{}{Bueno, puedo hacer cosas maravillosas con cuchillos. Es como un arte. Hay algo muy especial en la forma en que una cuchilla se corta en carne, ¿sabes a qué me refiero?}
+{1701}{}{Uh ... sí, claro. ¿Algo más que puedas usar? Siéntete libre de ser menos espeluznante esta vez.}
+{1702}{}{Bueno, mi tío era uno de esos imbéciles militares. Me entrenó con pistolas y SMG, e incluso pude jugar con algunos prototipos de armas de energía en los que estaban trabajando. Pensó que seguiría sus pasos y sería un títere para el tío Sam, pero yo, eh ... Digamos que tomé un camino diferente.}
 {1703}{}{Eso suena bien. ¿Algo más?}
-{1704}{}{I've been known to beat some ass with good 'ol fisticuffs. When I was a teen, I tried my hand at Karate for
- awhile, but they kept feeding me all this shit about being more disciplined, so I told 'em to fuck off. Anything else you need to know?}
+{1704}{}{Se me conoce por golpear algunos traseros con buenos puñetazos. Cuando era adolescente, probé suerte con Karate por un tiempo, pero siguieron alimentándome de toda esta mierda sobre ser más disciplinado, así que les dije que se fueran a la mierda. ¿Algo más que necesites saber?}
 {1705}{}{Eso debería cubrirlo. Gracias.}
 {1800}{}{Estoy listo para empezar.}
 {1801}{}{He estado mejor, pero puedo manejarlo.}
 {1802}{}{No me siento muy bien.}
 {1803}{}{Creo que oígo la llamada del Rey. Puedo ver la luz...}
-{1900}{}{No problem. But you're going to feel a lot less cool without me around. Just saying...}
+{1900}{}{No hay problema. Pero te sentirás mucho menos genial sin mí cerca. Solo digo...}
 {1901}{}{Claro. Nos vemos más tarde.}
-{1902}{}{Sure, I'll wait. But if you don't come back, then I'm going to start looking for you, and it won't be pleasant
- when I find you.}
-{1903}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
- better than them in every conceivable way.}
+{1902}{}{Claro, esperaré. Pero si no regresas, comenzaré a buscarte, y no será agradable cuando te encuentre.}
+{1903}{}{Muy bien, siempre y cuando no me abandones solo para dejar espacio para algún otro imbécil. Porque te prometo que soy mejor que ellos en todas las formas imaginables.}
 {1904}{}{No hay problema.}
 {1905}{}{No hay problema, cariño.}
-{1906}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
- better than them in every conceivable way.}
-{1907}{}{Getting you too hot and bothered am I? I understand.}
+{1906}{}{Muy bien, siempre y cuando no me abandones solo para dejar espacio para algún otro imbécil. Porque te prometo que soy mejor que ellos en todas las formas imaginables.}
+{1907}{}{¿Te estoy poniendo demasiado caliente y molesto? Entiendo.}
 {2000}{}{De acuerdo, ¿qué pasa con eso?}
-{2001}{}{Look, I know I was on ice for a long time, but trust me, everything is in PERFECT working order. If you want,
- I'll prove it to you right here, right now. [Dex stops when he sees you glaring] Oh, I see, my *other* gear. What about it?}
-{2010}{}{It's a bit crowded. Let me know if things open up.}
-{2020}{}{No way in hell I'm traveling with you. You're ugly as fuck.}
+{2001}{}{Mira, sé que estuve en el hielo durante mucho tiempo, pero confía en mí, todo está en perfecto estado de funcionamiento. Si quieres, te lo demostraré aquí y ahora. [Dex se detiene cuando te ve mirando] Oh, ya veo, mi * otro * equipo. ¿Qué hay de eso?}
+{2010}{}{Está un poco abarrotado. Avísame si las cosas se abren.}
+{2020}{}{De ninguna manera en el infierno que estoy viajando contigo. Eres feo como la mierda.}
 {2030}{}{Vamos.}
 {2031}{}{Era hora de que nos volviéramos a ir.}
 {3000}{}{Así que, ¿cuál es tu historia?}
-{3001}{}{What, like my life story? Look, I know I'm pretty fascinating, but I don't want to stand around talking forever.
- My mouth will get all dry and there's not a whole lot of water to go around-it's just not a good situation to be in.
- But I suppose I could sum it up for you if you really want to know... Actually, I DO like to talk about myself so I'll
- leave up to you. You want the quick summary or the version with more detail?}
+{3001}{}{¿Qué, como la historia de mi vida? Mira, sé que soy bastante fascinante, pero no quiero quedarme hablando para siempre. Mi boca se secará y no hay mucha agua por ahí, simplemente no es una buena situación. Pero supongo que podría resumirlo si realmente quieres saber ... En realidad, me gusta hablar de mí, así que te dejo a ti. ¿Quieres el resumen rápido o la versión con más detalles?}
 {3002}{}{Solo dame el resumen rápido.}
 {3003}{}{Vamos a escuchar la versión detallada.}
 {3004}{}{No importa, perdí el interés.}
-{3010}{}{Alright, basically, ever since I was a kid, I liked to kill things. I could talk about my childhood and my
- shitty parents and try to analyze why I like to do it, but I don't need an excuse. I do it simply because I can, and
- it's fun. By the time I was sixteen I spent my days as a popular high school heartthrob, and my nights as a ripper of
- Chicago's young working girls.}
+{3010}{}{Bien, básicamente, desde que era un niño, me gustaba matar cosas. Podría hablar sobre mi infancia y mis padres de mierda e intentar analizar por qué me gusta hacerlo, pero no necesito una excusa. Lo hago simplemente porque puedo, y es divertido. Cuando tenía dieciséis años, pasé mis días como un galán popular de la escuela secundaria y mis noches como destripador de las jóvenes trabajadoras de Chicago.}
 {3011}{}{Vaaale. Continúa.}
-{3012}{}{Then one day I caught my girlfriend making the beast with two backs with another guy. I butchered them, set
- the place on fire, then high tailed it out of Chicago. Spent the next ten years traveling the nation, seducing girls,
- then cutting 'em up. Then they finally caught me, and my trail turned me into a celebrity.}
+{3012}{}{Entonces, un día atrapé a mi novia haciendo la bestia con otro chico. Los masacré, prendí fuego al lugar y luego dejé Chicago. Pasé los siguientes diez años viajando por la nación, seduciendo a las chicas y luego cortándolas. Entonces finalmente me atraparon, y mi rastro me convirtió en una celebridad.}
 {3013}{}{¿Así, entonces qué?}
-{3014}{}{So then one of my new fans, Alice, helps me escape. The two of us go on a three week cross country murder rampage
- before we finally go down in a shootout. Then, for some reason, The Man decides to stitch me back together and run all
- these tests on me. And that's how I wound up at the EPA where you found me.}
+{3014}{}{Entonces, una de mis nuevas fans, Alice, me ayuda a escapar. Los dos nos embarcamos en un alboroto de tres semanas de asesinatos a campo traviesa antes de finalmente caer en un tiroteo. Luego, por alguna razón, El Hombre decide volver a unirme y hacerme todas estas pruebas. Y así es como terminé en la EPA donde me encontraste.}
 {3015}{}{Gracias por la historia.}
-{3020}{}{Let's see.... My Mom was a drug fiend and a whore, and my Dad was an ornery drunken bastard. Fortunately, my
- grandpa was alright for an old guy. Introduced me to The King's music. Unfortunately, he was claimed by the New Plague
- when I was seven. Then when I was ten, I watched from the closet as my Dad beat my Mom to death for forgetting to feed
- our dog, Captain Robeenie.}
+{3020}{}{Veamos ... Mi mamá era una drogadicta y una prostituta, y mi papá era un maldito bastardo borracho. Afortunadamente, mi abuelo estaba bien para un viejo. Me presentó a la música de The King. Desafortunadamente, fue reclamado por la Nueva Peste cuando yo tenía siete años. Luego, cuando tenía diez años, vi desde el armario cómo mi papá golpeaba a mi mamá hasta la muerte por olvidarse de alimentar a nuestro perro, el capitán Robeenie.}
 {3021}{}{Esto es empezar bien. Continua.}
-{3022}{}{The bitch should've remembered to feed the Captain. Go on.}
-{3023}{}{So they put my Dad away and shipped me off to live with my Aunt and Uncle. You see, I was a little hell-raiser,
- even then, and my Uncle, being a military sort, thought he'd be able to straighten me out-turn me into a Red slaying
- soldier boy, just like the son he'd lost. He gave it his best shot, but I was a stubborn son-of-a-bitch.}
+{3022}{}{La perra debería haberse acordado de alimentar al Capitán. Sigue. }
+{3023}{}{Así que apartaron a mi papá y me enviaron a vivir con mi tía y mi tío. Verá, yo era un pequeño infierno, incluso entonces, y mi tío, que era militar, pensó que sería capaz de enderezarme y convertirme en un chico soldado rojo asesino, al igual que el hijo que había perdió. Dio su mejor tiro, pero yo era un terco hijo de puta.}
 {3024}{}{Vaaale. Continúa.}
 {3025}{}{So anyway, we did a lot of moving around and it wasn't until I was in high school that we finally settled down
  in Chicago. That's when I took to sneaking out at night and knifing hookers. I'd been killing things for as long as I
