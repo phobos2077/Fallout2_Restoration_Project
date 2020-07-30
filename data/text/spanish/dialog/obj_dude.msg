@@ -8,15 +8,15 @@
 {141}{}{¡Oh, Dios mío, es Bess!}
 {150}{}{Ganas }
 {151}{}{ puntos de experiencia por conseguir el GECK.}
-{400}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
-{500}{}{You have become addicted to alcohol. The thirst for alcohol will soon consume you.}
+{400}{}{No se puede entender una cosa en el texto, pero las ilustraciones son muy informativos.}
+{500}{}{Te has convertido en un adicto al alcohol. La sed de alcohol pronto se consumirá.}
 {600}{}{Something doesn't feel quite right in your stomach.}
-{601}{}{You feel an intense pressure in your stomach.}
-{700}{}{You attach the torn pieces of paper together to yield a list of three passwords.}
+{601}{}{Se siente una intensa presión en su estómago.}
+{700}{}{Adjuntar los pedazos de papel para obtener una lista de tres contraseñas.}
 {800}{}{The cravings are getting worse.}
-{801}{}{You've got the shakes. You have this intense urge to drink something with alcohol in it.}
-{802}{}{You feel as if a great burden has been lifted from your mind. No longer do you crave the need to drink alcohol.}
+{801}{}{Tienes los batidos. Usted tiene este intenso ganas de beber algo con alcohol.}
+{802}{}{Se siente como si un gran peso se ha levantado de su mente. Ya No se le antoja a la necesidad de beber alcohol.}
 {900}{}{Something doesn't feel quite right in your stomach.}
-{901}{}{You feel an intense pressure in your stomach.}
+{901}{}{Se siente una intensa presión en su estómago.}
 {1000}{}{You cannot think straight. You feel a burning desire to open another box of Tragic cards.}
-{1001}{}{You feel as if a great burden has been lifted from your mind. No longer is Tragic a constant part of your thoughts.}
+{1001}{}{Se siente como si un gran peso se ha levantado de su mente. Ya No es Trágica, una parte constante de sus pensamientos.}

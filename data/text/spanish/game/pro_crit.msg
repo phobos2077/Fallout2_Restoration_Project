@@ -513,20 +513,20 @@
 {49100}{}{Kaga}
 {49200}{}{Kaga}
 {49300}{}{Kaga}
-{49400}{}{Hologram 00000}
+{49400}{}{Holograma 00000}
 {49401}{}{The hologram for the director of science.}
-{49500}{}{Hologram 10001}
+{49500}{}{Holograma 10001}
 {49501}{}{The hologram for the director of security.}
-{49600}{}{Hologram 12001}
+{49600}{}{Holograma 12001}
 {49601}{}{The hologram for the director of operations.}
-{49700}{}{Hologram 10031}
-{49701}{}{Hologram for the director of Ground Maintenance.}
-{49800}{}{Hologram 40011}
-{49801}{}{Hologram for the Director of Public Relations.}
+{49700}{}{Holograma 10031}
+{49701}{}{Holograma para el director de la Planta de Mantenimiento.}
+{49800}{}{Holograma 40011}
+{49801}{}{Holograma para el Director de Relaciones Públicas.}
 {49900}{}{Mr. Handy Robot}
-{49901}{}{A seriously depressed version of the Mr. Handy Robot.}
+{49901}{}{Una depresión grave de la versión de el Señor la Mano del Robot.}
 {50000}{}{The Doctor}
-{50001}{}{The leading, and only, Doctor left in the EPA.}
+{50001}{}{El principal - y único - Médico de la izquierda en la EPA.}
 {50100}{}{EPA Spore Plant}
 {50101}{}{A hideously mutated spore plant.}
 {50200}{}{Kitsune}
@@ -536,8 +536,8 @@
 {50501}{}{A warrior for the doctor.}
 {50600}{}{Fruit fly}
 {50601}{}{A mutated fruit fly.}
-{50700}{}{A hologram}
-{50701}{}{A hologram.}
+{50700}{}{Un holograma}
+{50701}{}{Un holograma.}
 {50800}{}{Kitsune - level 1}
 {50900}{}{Kitsune - level 2}
 {51000}{}{Kitsune - level 3}
@@ -551,10 +551,10 @@
 {51800}{}{Cat Jules - level 1}
 {51900}{}{Cat Jules - level 2}
 {52000}{}{Cat Jules - level 3}
-{52100}{}{Cat Jules - level 4}
-{52200}{}{Cat Jules - level 5}
+{52100}{}{Gato Jules - nivel 4}
+{52200}{}{Gato Jules - nivel 4}
 {52300}{}{MIBoba Fe88}
-{52400}{}{Hivan Zolo}
+{52400}{}{Navih Zolo}
 {52500}{}{Contie-bacca}
 {52600}{}{Darek Vader}
 {52700}{}{Jotisz the Hutt}
@@ -562,11 +562,11 @@
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
 {53100}{}{Obi-Wan-Killap}
-{53200}{}{Empress Timeslip}
+{53200}{}{La Emperatriz Timeslip}
 {53300}{}{Luke Skynet}
-{53400}{}{Mon-Morticia}
+{53400}{}{De Lunes A Morticia}
 {53500}{}{Kanhef}
-{53600}{}{HawkEyE}
+{53600}{}{Ojo de halcón}
 {53700}{}{Dravean}
 {53800}{}{Mr. Wolna}
 {53900}{}{encinodude}

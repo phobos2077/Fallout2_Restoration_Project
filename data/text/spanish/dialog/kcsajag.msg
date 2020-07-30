@@ -80,7 +80,7 @@
 {282}{}{Me alegro de haber podido ayudar; por supuesto, los 50 dólares no me vendrían mal.}
 {283}{}{Sí, estoy seguro de que dormiré más tranquilo sabiendo que Klamath está a salvo del alcohol de Bob.}
 {284}{}{No me interesa, amigo.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's }
+{290}{}{Bien, vamos a ver. Todo tipo de cosas que suceden en la ciudad últimamente. (cuenta con los dedos) Hay }
 {291}{}{Háblame de los hombres bicho, por favor.}
 {292}{}{Háblame de los roedores, por favor.}
 {293}{}{Háblame del espíritu andante, por favor.}
@@ -110,7 +110,7 @@
 {392}{}{Es todo lo que quería saber.}
 {2900}{}{En realidad, ahora las cosas están muy calmadas por aquí.}
 {2901}{}{los hombres bicho que mutilan los brahmines}
-{2902}{}{rodents of unusual size}
+{2902}{}{los roedores de tamaño inusual}
 {2903}{}{un espíritu andante}
 {2904}{}{un trampero desaparecido}
-{2905}{}{. Klamath's become a real hot spot lately.}
+{2905}{}{. Klamath ha convertido en un verdadero punto caliente de los últimos tiempos.}

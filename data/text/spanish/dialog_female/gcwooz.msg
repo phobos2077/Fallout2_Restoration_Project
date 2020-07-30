@@ -214,7 +214,7 @@ clamando por su sangre.}
 {730}{}{Te has convertido en adicto al juego de Trágico. Muchas noches sin dormir te esperan.}
 {731}{}{De acuerdo, hecho. ¿Algo más?}
 {732}{}{Sí, otra ronda para todos.}
-{740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
- business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
+{740}{}{Je, sí escuché esos pendejos son atacados por molerats que está protegiendo los smoothskins. Sirve 'em derecho para follar con otras personas
+ de negocios. Realmente no sé mucho más que eso. Bultos en el depósito de chatarra podría saber más. Que smoothskin siempre oír cosas.}
 {741}{}{Gracias por la información. Adiós.}
 {742}{}{Good to know. Let me ask you something else.}

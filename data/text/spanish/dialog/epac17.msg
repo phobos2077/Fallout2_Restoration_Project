@@ -1,114 +1,114 @@
 {100}{}{That's it... I think.}
-{101}{}{No, but it can't... I, well... hmmm...}
-{102}{}{The blue wire to the red housing...}
+{101}{}{No, pero no puede... yo, bueno... hmmm...}
+{102}{}{El cable azul a la vivienda roja...}
 {103}{}{Those mutations are progressing nicely.}
 {104}{}{It won't be long now.}
 {105}{}{Just a few more drops of HCl...}
 {106}{}{You see a man in a white lab coat.}
 {107}{}{You see The Doctor.}
-{108}{}{The leading - and only - Doctor left in the EPA.}
+{108}{}{El principal - y único - Médico de la izquierda en la EPA.}
 {109}{}{It would be unwise to attack me.}
 {120}{}{¿Sí?}
 {121}{}{Hola, mi nombre es }
 {122}{}{. ¿Quién eres?}
 {123}{}{Perdona que te haya molestado. Adiós.}
 {130}{}{I'm known as the Doctor.}
-{131}{}{Oh, right. So what do you do? Why are you here all on your own? The rest of the place looks deserted.}
+{131}{}{Oh, a la derecha. Entonces, ¿qué hacemos? ¿Por qué está usted aquí todo por tu cuenta? El resto del lugar parece desierto.}
 {132}{}{De acuerdo, gracias.}
-{140}{}{I see you are adequately skilled in the ways of science. Maybe you could understand what I do here after all. What do you wish to know?}
+{140}{}{Veo que usted está adecuadamente cualificado en los caminos de la ciencia. Tal vez usted podría entender lo que yo hago aquí, después de todo. ¿Qué desea saber?}
 {141}{}{¿Por qué estás aquí?}
 {142}{}{¿Qué haces aquí?}
-{150}{}{I'm sorry, but I don't believe you have the skills required to understand what I'm doing here. Come back when you're mentally tougher.}
-{151}{}{Whoa, just a minute. I'll have a go at anything you give me!}
+{150}{}{Lo siento, pero yo no creo que usted tiene las habilidades necesarias para entender lo que estoy haciendo aquí. Vuelve cuando estés mentalmente más fuerte.}
+{151}{}{Whoa, sólo un minuto. Voy a ir a por cualquier cosa que me das!}
 {152}{}{De acuerdo entonces. Adiós.}
-{160}{}{I was part of the original team of scientists that worked here in the EPA before the war. Unfortunately, none of them were skilled enough in the scientific disciplines or possessed sufficient resolve and had to leave. Now, I'm the only one left.}
-{161}{}{So, are you happy with that? I mean, being the only one here?}
-{170}{}{Anything I want to really. At the moment, I'm carrying out more genetic research on creatures that I've created in order to observe the effects of FEV on their immune systems. Years ago, I created many new drugs and adapted several others, but I don't do that anymore.}
+{160}{}{Yo era parte del equipo de científicos que trabajó aquí en la EPA antes de la guerra. Por desgracia, ninguno de ellos era lo suficientemente hábil en las disciplinas científicas o poseía suficiente resolver y tuvo que abandonar. Ahora, yo soy el único que queda.}
+{161}{}{Así que, ¿estás feliz con eso? Me refiero a que, siendo el único aquí?}
+{170}{}{Nada quiero de verdad. Por el momento, me voy a llevar a cabo más investigación sobre genética de las criaturas que he creado con el fin de observar los efectos de la FEV en sus sistemas inmunológicos. Años atrás, he creado muchos nuevos medicamentos y adaptado varios otros, pero yo ya no lo hacen.}
 {171}{}{What's that about creatures you've created?}
 {172}{}{What types of drugs have you made?}
-{180}{}{No, you cannot. You just aren't skilled enough in the ways of science and biological enhancements. Now, if you'll excuse me, you're wasting my time.}
-{181}{}{I most certainly am not. Try me.}
-{190}{}{<smiles> Well, maybe so. OK, if you wish, I'll give you a chance. What would you like to know then?}
+{180}{}{No, No puedes. Usted simplemente no son lo suficientemente capacitado en las maneras de ciencias biológicas y de mejoras. Ahora, si me disculpáis, estás perdiendo mi tiempo.}
+{181}{}{Yo, ciertamente, no lo soy. Trate de mí.}
+{190}{}{<sonrisas> Bueno, tal vez sea así. OK, si quieres, te voy a dar una oportunidad. ¿Qué te gustaría saber?}
 {191}{}{¿Por qué estás aquí?}
 {192}{}{¿Qué haces aquí?}
-{200}{}{Why of course! Nobody to watch over me. No rules whatsoever. I do whatever I want, whenever I want. Also, with only me being left here, I have access to all the equipment I would ever need. Anything else?}
+{200}{}{Por qué, por supuesto! Nadie to watch over me. Sin reglas de ningún tipo. Hago lo que quiero, cuando quiero. También, con sólo me dejó aquí, tengo acceso a todo el equipo que necesita. Cualquier otra cosa?}
 {201}{}{Who are the people over there in those cages?}
-{202}{}{What's all the funny colored liquid I've seen around the EPA?}
+{202}{}{¿Qué es todo este divertido líquido de color que he visto alrededor de la EPA?}
 {203}{}{Where do you get all of the equipment from?}
-{210}{}{Those in the first cells over by that wall are some villagers that wandered in here by mistake and I captured them for use later on. The other stronger-looking ones are my own warriors for... emergencies.}
+{210}{}{Las primeras células encima de ese muro son algunos de los aldeanos que se paseaban por aquí por error y he capturado para su posterior uso en. El otro más fuerte de aspecto son mis propios guerreros para... situaciones de emergencia.}
 {211}{}{...for use later? What do you mean?}
 {212}{}{Gracias. ¿Puedo preguntarte otra cosa?}
 {213}{}{Right. Thanks. I must be going now.}
-{220}{}{Chemicals and tanks of FEV mostly. It was all contained in great barrels for safe storage here at the EPA. Unfortunately, there was a minor accident and a huge chemical leak forced everyone except those daft holograms to leave. Some of the chemicals have leaked into the lower levels. I'm now using it as experimentation material. So far, it's provided some promising results!}
-{221}{}{What types of results? Do you mean you've created these creatures?}
+{220}{}{Productos químicos y tanques de FEV en su mayoría. Todo estaba contenida en grandes barriles de almacenamiento seguro aquí en la EPA. Desafortunadamente, no fue un accidente menor y una enorme fuga de productos químicos obligó a todos, excepto a aquellos daft hologramas para salir. Algunos de los productos químicos se han filtrado en los niveles inferiores. Yo estoy usando ahora es como en la experimentación de materiales. Hasta ahora, se proporcionan algunos resultados prometedores!}
+{221}{}{Qué tipos de resultados? ¿Quieres decir que te has creado estas criaturas?}
 {222}{}{So where do you get all your equipment from?}
-{230}{}{Here mostly. The EPA was originally designed and furnished with all kinds of machinery and, since all the other scientists left, none of it was ever used. I'm just running out of a few things now after so many years...}
+{230}{}{Aquí en su mayoría. La EPA fue originalmente diseñado y amueblado con todo tipo de maquinaria y, dado que todos los otros científicos de la izquierda, ninguno de los que se ha utilizado alguna vez. Yo soy sólo se ejecuta fuera de un par de cosas ahora, después de tantos años...}
 {231}{}{No importa. Debo irme ahora.}
-{240}{}{Drugs? Dozens! Over the years I've created mentats, buffout, stimpaks, medical kits of varying strengths, psychos and many others that you wouldn't understand. I don't do that anymore, though. I created the Mr. Chemmie! robot to do that for me. It's in the main complex. If you have the intelligence and scientific skills you say you have, then feel free to use it to make any drugs you want.}
+{240}{}{Drogas? Docenas! A través de los años he creado mentats, buffout, estimulantes, botiquines médicos de diferentes puntos fuertes, psicópatas y muchos otros que no entienden. Yo ya no lo hacen, sin embargo. He creado el Señor Chemmie! robot a hacer eso por mí. Es en el complejo principal. Si usted tiene la inteligencia y las habilidades científicas que decir tiene, a continuación, siéntase libre de usar para hacer cualquier medicamento que usted desea.}
 {241}{}{¿Qué clase de drogas especiales has creado?}
 {242}{}{Where can I find Mr. Chemmie!?}
 {243}{}{Gracias. Decirme, ¿alguna vez has oído hablar de jet?}
-{250}{}{Yes, I've created many creatures whilst I've been at the EPA. If you're an exploring type, then you may have come across some of them in the wastes. Centaurs?  Floaters? The "Aliens"? They roam freely now in the wastes. I've just retained a few here and in the main base for future reference.}
-{251}{}{Just a minute. Are you telling me that all those creatures out there, those things that are plaguing the wasteland and killing innocents were created by you?!}
+{250}{}{Sí, he creado muchas criaturas mientras he estado en el de la EPA. Si eres una exploración de tipo, entonces usted puede venir a través de algunos de ellos en los desechos. Los centauros? Las moscas volantes? Los "Extranjeros"? Ellos vagan libremente por ahora en los desechos. Sólo he conservado algunos aquí y en la principal base para la futura referencia.}
+{251}{}{Sólo un minuto. ¿Me estás diciendo que todas esas criaturas que hay, de esas cosas que están plagando la tierra y matando a inocentes fueron creados por usted?!}
 {252}{}{Whoa, nota a sí mismo: no ira al Doctor. Adiós.}
-{260}{}{'What do I mean?' The Forced Evolution Virus, of course! I'm only just beginning to experiment as to the effects on humans. We've all heard the story of the Master. I was thinking of doing something similar myself. An army of my own would certainly be very useful!}
-{261}{}{Don't you think that's a bit immoral? How can you even consider such a hideous thing?}
-{262}{}{Just getting around to humans? What else have you worked on then?}
+{260}{}{'¿Qué quiero decir?' El Virus de Evolución Forzada, por supuesto! Estoy apenas comenzando a experimentar los efectos en los seres humanos. Todos hemos oído la historia de la Maestra. Yo estaba pensando en hacer algo similar a mí mismo. Un ejército de mi propio sería, sin duda, muy útil!}
+{261}{}{No crees que es un poco inmoral? ¿Cómo se puede siquiera considerar que la horrible cosa?}
+{262}{}{Acaba de llegar en torno a los seres humanos? Qué más has trabajado en ese entonces?}
 {263}{}{Bien, buena suerte con eso. Debo irme ahora.}
-{270}{}{Yes, I suppose you can. You amuse me greatly. What else can I answer for you? }
+{270}{}{Sí, supongo que puede. Usted me divierten muchísimo. ¿Qué otra cosa puedo contestar por usted? }
 {271}{}{Háblame de nuevo sobre este gente.}
 {272}{}{What's all the funny-colored liquid around the EPA?}
 {273}{}{Where do you get all the equipment and supplies for your experiments?}
-{280}{}{No, no, no. Before you leave, I must ask you something. Could you do a little favor for me? I don't leave the safety of the warehouse for fear of things being stolen. I need some raw materials. Could you help me?}
+{280}{}{No, No, No. Antes de salir, tengo que preguntarte algo. Puedes hacer un pequeño favor para mí? Yo no abandonar la seguridad del almacén para el miedo de que las cosas sean robados. Necesito un poco de materias primas. ¿Podría usted ayudarme?}
 {281}{}{Yeah, I suppose so. What do you need?}
 {282}{}{No, I'm too busy at the moment. Maybe some other time.}
-{290}{}{Yeah, I wondered what the virus would do on regular domesticated animals saved in storage from before the war. The unfortunate thing was it affected their reproductive cycles and they bred very quickly. I released them into the wastes soon after I realized that.}
-{291}{}{You're a monster! No wonder nobody in the area knows about you! You ought to be disposed of.}
+{290}{}{Sí, me preguntaba lo que el virus podría hacer en regular animales domésticos guardados en el almacenamiento de antes de la guerra. La cosa lamentable fue afectado sus ciclos reproductivos y se crían de manera muy rápida. He publicado en el gasta poco después me di cuenta de que.}
+{291}{}{Eres un monstruo! No es de extrañar que nadie en el área sabe acerca de usted! Usted debe ser desechado.}
 {292}{}{Well, I don't agree with what you are doing, but there's nothing I can do about it. Goodbye.}
-{300}{}{Special drugs? Well, I've been cultivating a new crop of marijuana. It's a pre-war drug that I found in deep freeze. I only have manure though from the mutated creatures you see here, so it was more dangerous than I first thought. The first trials weren't very successful, anyway...}
+{300}{}{Medicamentos especiales? Bueno, he estado desarrollando una nueva cosecha de marihuana. Es un pre-guerra de la droga que he encontrado en la deep freeze. Sólo tengo abono a pesar de las criaturas mutantes que usted ve aquí, lo que era más peligroso de lo que yo pensaba. Las primeras pruebas no fueron muy exitosos, de todos modos...}
 {301}{}{Can I get some of this drug?}
 {302}{}{Why weren't they successful? What happened?}
-{310}{}{Mr. Chemmie! is located in the northeast section of the bottom floor of the EPA. Or maybe the northwest... Actually, it's on the top floor. Oh, I can't remember anymore. It's a huge chunk of machinery. You can't miss it.}
-{311}{}{Right. Thanks. You mentioned you'd created some special drugs. Like what?}
-{320}{}{Easily. I'm a scientist. That's what I do. Experiments are my life. Though different, it really is just another type of experiment.}
-{321}{}{You're messing with things that you shouldn't be altering! What if things go wrong? What if some of the people you're working on die!?}
-{330}{}{Disposed of! Oh, no. I don't think so. I'm doing the job I was originally hired to do. Investigate and experiment. As time goes on though, you start to run out of things to investigate, so you have to be more liberal in your ideas. I think it was once called 'thinking outside the box'.}
+{310}{}{El Señor Chemmie! se encuentra en la sección noreste de la parte baja de la EPA. O tal vez el noroeste... en Realidad, es en la planta superior. Oh, no puedo recordar nada más. Es un pedazo enorme de la maquinaria. No te lo puedes perder.}
+{311}{}{A la derecha. Gracias. Usted mencionó que había creado algunos medicamentos especiales. Como qué?}
+{320}{}{Fácilmente. Yo soy un científico. Eso es lo que yo hago. Los experimentos son mi vida. Aunque diferentes, en realidad, es sólo un experimento de otro tipo.}
+{321}{}{Usted está jugando con cosas que no se debe alterar! ¿Qué pasa si las cosas van mal? Lo que si algunas de las personas que está trabajando en morir!?}
+{330}{}{Eliminados! Oh, no. Yo no lo creo. Yo estoy haciendo el trabajo que me había contratado para hacer. Investigar y experimentar. Como pasa el tiempo, sin embargo, usted comenzará a correr de cosas para investigar, así que tienes que ser más liberal en sus ideas. Creo que alguna vez se llamó "pensamiento fuera de la caja'.}
 {331}{}{I've had enough of this! If no one else will stop you, then I will.}
 {332}{}{You're sick and I'm leaving. Goodbye.}
-{340}{}{Yeah, why not? Help yourself. There's plenty in the storage sheds on the surface level. I think I may have programmed Mr. Chemmie! to make it as well. I don't keep any around here anymore as it takes up a lot of space.}
-{341}{}{Thanks! You were saying a moment ago that you weren't successful in early trials? Why is that?}
-{350}{}{Well, some of the test subjects had severe reactions to the virus, but those are not even worth mentioning. A few errors here and there are expected in our line of work. Now, if you'll excuse me, I have things to do.}
+{340}{}{Sí, ¿por qué no? Ayudarse a sí mismo. Hay mucho en los cobertizos de almacenamiento en el nivel de la superficie. Yo creo que puede haber programado el Señor Chemmie! para hacerlo así. No tengo ninguna por aquí, ya que ocupa mucho espacio.}
+{341}{}{Gracias! Usted decía hace un momento que no tuvieron éxito en los primeros ensayos? ¿Por qué es eso?}
+{350}{}{Así, algunos de los sujetos de prueba tenido reacciones graves a los virus, pero esos no son ni siquiera vale la pena mencionar. Algunos errores aquí y allá, se espera que en nuestra línea de trabajo. Ahora, si me disculpáis, tengo cosas que hacer.}
 {351}{}{Yeah, I suppose I do as well. Goodbye.}
-{360}{}{Then they die. What do you expect me to do? This is how one makes progress.}
-{361}{}{Monstrous! Unbelievable! You die - now!}
+{360}{}{Y luego mueren. ¿Qué espera usted que yo haga? Esta es la forma en que uno hace el progreso.}
+{361}{}{Monstruoso! Increíble! De morir - ¡ahora!}
 {362}{}{I can't stand this anymore. Goodbye. I won't be back soon.}
-{370}{}{Jet? Yeah, that's the drug that most of Redding's been high on, if I'm not mistaken. It's an exceptionally complex compound and my machines couldn't reproduce it even on maximum power. Why? What do you know of it?}
+{370}{}{Jet? Sí, esa es la droga que más de Redding ha sido alta, si no me equivoco. Es un excepcional complejo compuesto y mis máquinas no pudieron reproducir incluso en su máxima potencia. Por qué? ¿Qué sabe usted de él?}
 {371}{}{Well, I have here with me it's creator.}
-{380}{}{[*Eyes sparkle*] Really!? Who? Can I see him? Maybe speak to him?}
-{381}{}{Of course. His name is Myron. He's right here.}
-{390}{}{Thank you for bringing that Myron kid to me. He's very knowledgeable! Not quite as intellectually adept as me, understand, but well nonetheless. If he ever wants to settle down he can come here as my apprentice.}
-{391}{}{I'm not sure he'd like being anybody's apprentice. We'd better be going.}
-{400}{}{One moment, before you go. Please, take this as a token for bringing Myron here. I have no real use for it.}
+{380}{}{[*Brillan los ojos*] ¡de verdad!? Que? Puedo verlo? Tal vez hablar con él?}
+{381}{}{Por supuesto. Su nombre es Myron. Él está aquí.}
+{390}{}{Gracias por traer que Myron chico para mí. Él está muy bien informado! No se muy bien como intelectualmente experto como yo, a entender, pero bien, no obstante. Si alguna vez se quiere resolver abajo se puede venir aquí como mi aprendiz.}
+{391}{}{No estoy seguro de que le gustaría ser alguien del aprendiz. Es mejor que estar pasando.}
+{400}{}{Un momento, antes de ir. Por favor, tome esto como una muestra para llevar Myron aquí. No tengo uso para él.}
 {401}{}{Hey, thanks. Um, what is it?}
-{410}{}{It's a Solar Scorcher. It was an experiment of mine. It feeds off the energy from the sun and thus no ammunition is required. It actually works and will be of great use to you, I'm sure, in the deep wastes. This requires a further question actually...}
+{410}{}{Es un Solar Abrasador. Fue un experimento de la mina. Se alimenta de la energía del sol y por lo tanto no hay municiones. Lo que realmente funciona y que será de gran utilidad para usted, estoy seguro de que, en las profundidades de los desechos. Esto requiere una nueva pregunta en realidad...}
 {411}{}{¿Qué tienes para hacer?}
-{420}{}{You seem an adventurous type. I'm restricted to the grounds of the EPA to watch over many of the experiments, but I need some equipment that I've run out of. Could you collect a few things for me?}
+{420}{}{Parece un tipo de aventura. Yo estoy limitado a los motivos de la EPA para mirar a través de muchos de los experimentos, pero necesito un poco de equipo que se me ha agotado. Podría recoger un par de cosas para mí?}
 {421}{}{Yeah, I suppose so. What do you need?}
 {422}{}{No, I'm too busy at the moment saving my village. Maybe some other time.}
-{430}{}{Well, one of the only animals I haven't looked into in detail is the Golden Gecko. I need some research material before I can go any further. Could you collect, say, 10 golden gecko pelts and bring them back here to me? I'm sure I could find something here to give you.}
+{430}{}{Así, uno de los únicos animales que no he estudiado en detalle es el de Golden Gecko. Necesito un poco de material de investigación antes de que pueda ir a más. Podría recoger, digamos, 10 de golden gecko pieles y traerlos de vuelta aquí para mí? Estoy seguro de que podría encontrar algo aquí para dar.}
 {431}{}{No problem. I'll be back as soon as I have them.}
 {432}{}{I already have 10 pelts with me.}
-{440}{}{[Looks up at you.] What?}
-{441}{}{Uh, hello again. I didn't catch who you are the last time we spoke.}
+{440}{}{[Mira para arriba en usted.] Qué?}
+{441}{}{Uh, hola de nuevo. No he entendido que usted es la última vez que hablamos.}
 {450}{}{You again? What do you want now?}
-{451}{}{What do you do here? This place is like a ghost town.}
-{460}{}{If you do not wish to help me, then please leave me alone. Or, have you decided to lend your abilities?}
+{451}{}{¿Qué haces aquí? Este lugar es como un pueblo fantasma.}
+{460}{}{Si usted no desea ayudarme, por favor, que me dejes solo. O, ¿has decidido prestar sus habilidades?}
 {461}{}{Yes. What do you want me to do?}
 {462}{}{No, but as soon as I'm free I'll be back to help you.}
 {470}{}{Hello there. Have you calmed down at all yet?}
-{471}{}{No, I'm here to kill you. The world needs less people like you.}
+{471}{}{No, yo estoy aquí para matarte. El mundo necesita menos gente como tú.}
 {472}{}{Sí, supongo. Necesito hacerte unas preguntas.}
-{480}{}{What do you want? I have experiments to watch over, you know!}
+{480}{}{¿Qué desea? He experimentos para ver más, usted sabe!}
 {481}{}{Tell me about the drugs you're making.}
 {482}{}{Háblame de esa gente de nuevo.}
 {483}{}{Estoy buscando trabajo. ¿Tienes alguno?}
@@ -116,96 +116,96 @@
 {490}{}{Have you collected the pelts as I requested?}
 {491}{}{Si, aquí están.}
 {492}{}{No, aún no.}
-{500}{}{Wonderful! Excellent! Let me see... ahh yes, these will do nicely! Now then, do you want another job?}
+{500}{}{Maravilloso! Excelente! Déjame ver... ah sí, estos va a hacer muy bien! Ahora bien, ¿quieres otro trabajo?}
 {501}{}{Sí, si tienes alguna otra cosa.}
 {502}{}{Aún no, gracias. Adiós.}
-{510}{}{Well, although the warehouse is where I do almost all of my work, I still need to enter the main complex from time to time. However, the lights have been permanently fixed on low setting. Sort this out for me so I can enter the EPA building itself.}
+{510}{}{Así, aunque la bodega es donde hago casi todos los de mi trabajo, tengo que entrar en el complejo principal de vez en cuando. Sin embargo, las luces se han fijado de manera permanente en el ajuste bajo. Solucionar esto para mí, para que yo pueda entrar en la EPA del propio edificio.}
 {511}{}{No hay problema.}
 {512}{}{I'll get back to you when I have time to do it.}
-{513}{}{I've already done this! There were some loose wires on the main circuit board and I mana-}
-{520}{}{Now that you've killed all of my warriors, you have more than proven yourself worthy. Would you consider working for me?}
+{513}{}{Ya he hecho esto! Hubo algunos cables sueltos en la placa de circuitos principal y me maná-}
+{520}{}{Ahora que has matado a todos mis guerreros, usted tiene más que demostrado que eres digno. Habría que considerar la posibilidad de trabajar para mí?}
 {521}{}{What!? Working for you!? What would you want me to do?}
 {522}{}{No, gracias. Adiós.}
 {530}{}{Have you sorted out the power problem yet?}
-{531}{}{Yes, yes, yes, I don't need to know the specifics. Thanks. Now, I still have one more task if you wish to undertake it.}
+{531}{}{Sí, sí, sí, no necesito saber los detalles. Gracias. Ahora, todavía tengo una tarea más si usted desea llevar a cabo la misma.}
 {532}{}{¿Qué tienes para hacer?}
 {533}{}{No, sigo trabajando en ello.}
-{540}{}{I am experimenting with a new serum at the moment to improve the agility and awareness of people to help them survive in this harsh world. You'd allow me to try it on you, wouldn't you?}
+{540}{}{Estoy experimentando con un nuevo suero en el momento para mejorar la agilidad y conocimiento de las personas que les ayudan a sobrevivir en este mundo hostil. Usted iba a permitir que me trate sobre ti, ¿no?}
 {541}{}{Well... I suppose so, what harm could it do?}
-{550}{}{More than you'd ever believe if it goes wrong... Now hold still and let's get down to it!}
+{550}{}{Más de lo que alguna vez había creen que si sale mal... Ahora tienen todavía y vamos a llegar a esto!}
 {551}{}{¡Eh, eh! Espere un minuto...}
-{560}{}{Ahh, there you are! Back in the land of the living, I see! How do you feel?}
+{560}{}{Ah, ahí estás! De vuelta en la tierra de los vivos, veo! ¿Cómo te sientes?}
 {561}{}{Uh, ¿bien por qué?}
-{570}{}{You just blacked out for a couple of hours, but you should be fine now. Indications show you are much more alert and responsive.}
+{570}{}{Sólo se desmayó durante un par de horas, pero usted debe estar bien ahora. Indicaciones muestran que son mucho más alerta y sensible.}
 {571}{}{¡Caray! Gracias, doctor.}
 {580}{}{No problem. If you ever need anything, let me know.}
 {581}{}{Eso haré. Adiós.}
 {590}{}{Have you decided to help me yet?}
-{591}{}{Yes, I will help you. I'll return when the power is restored.}
+{591}{}{Sí, yo te ayudaré. Voy a volver cuando se restablezca la alimentación.}
 {592}{}{No, lo siento.}
-{600}{}{I'm sorry, but there's nothing more I can do for you now. I have no more jobs left to be done. Thanks for your help.}
+{600}{}{Lo siento, pero no hay nada más que puedo hacer por ti ahora. No tengo más puestos de trabajo que queda por hacer. Gracias por tu ayuda.}
 {601}{}{Entonces adiós.}
-{602}{}{Yes, there were some loose wires and I had to find some junk to-}
+{602}{}{Sí, hubo algunos cables sueltos y yo tenía que encontrar algo de chatarra-}
 {603}{}{¡NO! ¿Qué estás haciendo?}
-{700}{}{Wait a second! You were part of the *original* team?! But, that's got to make you almost 200 years old!}
-{701}{}{Well, I suppose that's true, in a way. I was actually born 202 years ago. However, there is no way that I could have lived that long through regular means.}
+{700}{}{Espera un segundo! Ustedes fueron parte de la *original* equipo?! Pero, que tiene que hacer casi 200 años de antigüedad!}
+{701}{}{Bueno, supongo que es cierto, en un camino. Yo en realidad nació 202 años. Sin embargo, no hay manera de que yo podría haber vivido de esa larga a través de los medios normales.}
 {702}{}{Continúa. Estoy escuchando.}
-{703}{}{When the war started, the other scientists and I used the cryogenic storage chambers. We handed over more control of the facility to the holograms and robots, then put ourselves in the chambers to wait out the worst of the destruction.}
-{704}{}{But, the great war was over many, many years ago.}
-{705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
+{703}{}{Cuando comenzó la guerra, el resto de los científicos y he usado el criogénico de almacenamiento de las cámaras. Hemos entregado más de control de la instalación a los hologramas y los robots, a continuación, poner de nosotros mismos en las cámaras a esperar lo peor de la destrucción.}
+{704}{}{Pero, la gran guerra había terminado hace muchos, muchos años.}
+{705}{}{Verdadero. Inicialmente se salió de la hibernación unos 90 años, y descubrió que este lugar se había deteriorado considerablemente. La mayoría de los otros científicos aquí seguido algunos de sus originales de investigación, ya que realmente no sabía qué otra cosa hacer.}
 {706}{}{[MÁS]}
-{707}{}{I couldn't believe their scientific short-sightedness... their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
+{707}{}{Yo no podía creer a sus científicos a la falta de visión... su falta total de imaginación! Tuvimos una oportunidad increíble para hacer algunas cosas increíbles. Tuvimos la oportunidad de rehacer las cosas como vimos al ajuste. Lamentablemente, mis compañeros pagado por su falta de visión...}
 {708}{}{You killed them!?}
 {709}{}{Comprensible.}
 {710}{}{Por favor, continúa.}
-{711}{}{No, I didn't kill them. But I couldn't have them stay here interfering with my plans. I merely manipulated events here so that they chose to leave.}
-{712}{}{Okay, that answers part of the story. But there is still something missing...}
-{713}{}{Ah, yes. Sorry about that. I sometimes go off on tangents or my mind just wanders. Great minds, you know? Anyway, I continue to use the tank. I have modified it somewhat, though.}
+{711}{}{No, yo no he matado a ellos. Pero yo no podía tener la estancia aquí de interferir con mis planes. Simplemente me manipuló aquí, así que decidieron irse.}
+{712}{}{Bueno, que responde a una parte de la historia. Pero todavía hay algo que falta...}
+{713}{}{Ah, sí. Lo siento por eso. A veces me voy por la tangente o mi mente divaga. Grandes mentes, ¿sabe usted? De todos modos, sigo a utilizar el tanque. He modificado un poco, sin embargo.}
 {714}{}{What modifications have you done?}
 {715}{}{Creo que ya he oído bastante. Adiós.}
-{716}{}{Well, the first time we used the cryogenic chambers, it was as if I just went to sleep and woke up. But, I realized that was a waste of time. I reset the chamber settings so that I could use it for years at a time, but keep my mind conscious! I use those extended periods to ponder current projects and think up new experiments. By doing so, I can see the long-term effects of my research.}
-{717}{}{Did you ever consider that maybe using the chamber like this might be damaging to you somehow?}
-{718}{}{Nonsense! If anything I am getting better. I can see things so clearly, now, thanks to my periods of lucid hibernation.}
+{716}{}{Bien, la primera vez que se utilizó el criogénico de las cámaras, era como si me fui a dormir y se despertó. Pero, me di cuenta de que era una pérdida de tiempo. Puedo restablecer la configuración de la cámara para que yo pudiera usar durante años, en un momento, pero mantener mi mente consciente! Yo uso esos períodos prolongados a reflexionar sobre los proyectos actuales y pensar en nuevos experimentos. Al hacerlo, puedo ver los efectos a largo plazo de mi investigación.}
+{717}{}{¿Alguna vez considerar la posibilidad de que tal vez el uso de la cámara como esta puede ser perjudicial para usted de alguna manera?}
+{718}{}{Tonterías! Si de algo estoy mejorando. Puedo ver las cosas con tanta claridad, ahora, gracias a mi períodos de lucidez de la hibernación.}
 {719}{}{What a loon! Goodbye.}
-{720}{}{That's actually a great idea. Genius! Hey, do you think that I could see this cryogenic chamber?}
+{720}{}{Que en realidad es una gran idea. Genio! Hey, ¿crees que yo podría ver este criogénico de la cámara?}
 {721}{}{Lo que veo. Hablemos de otra cosa.}
-{722}{}{Well of course. It's right over there. I had it moved up here some time ago. Keeping the chamber in the sublevels of this facility was just not a wise idea.}
+{722}{}{Bueno, por supuesto. Es justo allí. Me había mudado aquí hace algún tiempo. Mantener la cámara en los subniveles de este centro no sólo era una buena idea.}
 {723}{}{Interesting. So, how does it work?}
-{724}{}{Well, of course the scientific principles of cryogenics is quite advanced. However, the functions are governed by the computer here, has a fairly easy interface. [He takes a few minutes showing you how the system works.]}
+{724}{}{Bueno, por supuesto, los principios científicos de la criogenia es bastante avanzada. Sin embargo, las funciones se rigen por el equipo aquí, es bastante fácil interfaz. [Toma un par de minutos que muestra cómo funciona el sistema.]}
 {725}{}{Thanks for the information, Doctor. I guess I would still like to know about a few other things.}
 {726}{}{Thanks for the information, Doctor. Who knows? Information like that just might prove useful someday. Goodbye.}
 {727}{}{Well, enough chit-chat. I should be going. Goodbye, Doctor.}
-{728}{}{No, it just wouldn't do to have them stay here interfering with my plans... not at all... [The Doctor gazes past you seemingly lost in his thoughts.]}
-{729}{}{You know, you are one twisted person. I think I am going to have to show you how I 'experiment' on people. Time to die!}
-{730}{}{So, are you happy with this situation? I mean, being the only one here?}
+{728}{}{No, simplemente no se que hacer para que se queden aquí interferir con mis planes... no en todos los... [El Médico miradas pasado, aparentemente perdido en sus pensamientos.]}
+{729}{}{Usted sabe, usted es un trenzado persona. Creo que me voy a tener que mostrar cómo 'experimento' en las personas. Tiempo para morir!}
+{730}{}{Así que, ¿estás feliz con esta situación? Me refiero a que, siendo el único aquí?}
 {731}{}{¿Qué más quieres saber?}
-{800}{}{Actually, wait one second. You look like an adventurous type. I may have a use for someone of your skills.}
+{800}{}{En realidad, espere un segundo. Te ves como un tipo de aventura. Yo podría tener un uso para alguien de sus habilidades.}
 {801}{}{Claro. ¿Qué necesitas?}
 {802}{}{No, gracias. Adiós.}
-{803}{}{Well, I was out collecting samples at one of my work sites and I seem to have left one of my tools there. Normally
- I would just go and get it myself, but I'm extremely busy at the moment and for the life of me I cannot remember the exact
- spot I left it at. In any case, head northwest from this building and you will find the area where I left my tool. Should
- be a piece cake.}
+{803}{}{Bueno, yo estaba a cabo la recogida de muestras en uno de mis sitios de trabajo y me parece que han dejado una de mis herramientas. Normalmente
+ Acabo de ir y obtener yo mismo, pero estoy muy ocupado en este momento y para la vida de mí no puedo recordar exactamente
+ spot me dejó. En cualquier caso, hacia el noroeste de este edificio y usted encontrará el área donde dejé mi herramienta. Debe
+ ser un pedazo de la torta.}
 {804}{}{Me pondré a ello ahora mismo.}
 {805}{}{No estoy interesado. Adiós.}
-{806}{}{Well, wait. Are you sure you won't help me with a little something?}
-{810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}
+{806}{}{Bueno, a esperar. Está usted seguro de que no me ayuda con un poco de algo?}
+{810}{}{Excelente! Ahora, debo volver al trabajo. [A sí mismo.] Todo va según el plan.}
 {811}{}{[HECHO]}
-{820}{}{That's too bad. Well, I must be getting back to work. [To himself.] Almost had him. Now, where am I going to find another test subject...}
+{820}{}{Eso es muy malo. Bueno, debo volver al trabajo. [A sí mismo.] Casi lo tenía. Ahora, a dónde voy a encontrar a otro sujeto de prueba...}
 {821}{}{[HECHO]}
-{830}{}{[The man looks up startled.] What the-?!}
+{830}{}{[El hombre mira asustado.] Lo que los?!}
 {831}{}{I'm still looking for your part.}
-{832}{}{Here's your tool. Piece of cake indeed.}
-{833}{}{Were you trying to kill me out there? That was a maze full of mutated monsters. This wasn't an ordinary part
- retrieval job, now was it?}
-{840}{}{What?! Give me that! [He snatched the tool from your hand.] How did you- Oh, nevermind. Back to the drawing board then...}
+{832}{}{Esta es tu herramienta. Pedazo de pastel de hecho.}
+{833}{}{Estaba tratando de matarme por ahí? Que era un laberinto lleno de monstruos mutados. Esta no era una parte ordinaria
+ trabajo de recuperación, ahora era él?}
+{840}{}{Qué?! A mi me da que! [Él arrebató la herramienta de su mano.] Cómo hizo usted - Oh, no importa. De vuelta a la mesa de dibujo, a continuación,...}
 {841}{}{[You ignore the man's reaction.] Alright, well if you need anything else, let me know. Bye.}
-{850}{}{That's none of your business. [He snatches the tool from your hand.] Now, get out of here. I've got things to do. [He looks
- away muttering to himself.]}
+{850}{}{Eso es ninguno de su negocio. [Le agarra la herramienta de su mano.] Ahora, fuera de aquí. Tengo cosas que hacer. [Mira
+ lejos murmurando para sí mismo.]}
 {851}{}{Lo que sea. Adiós.}
-{852}{}{I don't think so. You tried to kill me and now I will return the favor. Prepare to die!}
+{852}{}{Yo no lo creo. Se trató de matarme y ahora voy a devolver el favor. Prepárate a morir!}
 {860}{}{Uh, yes, of course. Well, get to it then.}
 {861}{}{[HECHO]}
-{900}{}{*Grumbles*}
-{901}{}{*To himself* I was sure he wouldn't return.}
+{900}{}{*Se queja*}
+{901}{}{*A sí mismo* yo estaba seguro de que él no volvería.}
 {1000}{}{You return the Doctor's forgotten tool.}

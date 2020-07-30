@@ -12,9 +12,9 @@
 {110}{}{Soy Max. Uno de los guardias de las caravanas.}
 {111}{}{¿Qué puedes contarme sobre Chad?}
 {112}{}{Gracias. Adiós.}
-{113}{}{Honestly? I don't care for the guy. Lately, he's been tossing around a lot of coin. I mean, sure, he's the
- caravan master, so it makes sense for him to take a larger cut--I understand that. But there's no way he should be
- *that* loaded. I think it'd be *real* interesting to take a peek at his records.}
+{113}{}{Honestamente? No me importa para el hombre. Últimamente, ha estado lanzando alrededor de un montón de monedas. Quiero decir, seguro que es el
+ caravana maestro, así que tiene sentido para él tomar una incisión más grande, entiendo que. Pero no hay manera de que debe ser
+ *que* cargado. Creo que sería *real* interesante echar un vistazo a sus registros.}
 {114}{}{Marcus told me he suspects Chad of skimming some of the caravan money that supposed to be going to Broken Hills.
  I told him I'd look into it.}
 {115}{}{Gracias. Adiós.}
@@ -22,26 +22,26 @@
 {117}{}{Adiós.}
 {118}{}{¡Es la enemiga! ¡Muere!}
 {119}{}{Ups.}
-{120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to
- Gecko, and I overheard Chad arguing with their ghoul rep. Apparently, Broken Hills had recently been jacking up the
- price of uranium, and the ghoul wasn't too happy about it. Then I hear Chad explain to him our uranium supply was
- running low due to a recent miners' strike, but the thing is, there never was a strike.}
+{120}{}{[Baja la voz y mira a su alrededor.] Eso tiene que ser la misma. De hecho, yo estaba un guardia en la última uranio ejecutar a
+ Gecko, y escuché a Chad discutiendo con su ghoul rep. Al parecer, Roto Colinas que se acababan de levantar el
+ precio del uranio, y el demonio no estaba demasiado feliz por eso. Entonces oigo el Chad explicarle nuestro suministro de uranio fue
+ baja debido a una reciente mineros en huelga, pero la cosa es que nunca hubo una huelga.}
 {121}{}{Really? Then why didn't you report that to Marcus?}
-{122}{}{Are you insane? Chad's a powerful guy in this town and he's got a lot of friends. If I try to rat him out, there's a lot of people that'd hate me. Hell, I might even get killed.}
+{122}{}{Está usted loco? Chad es un tipo poderoso en esta ciudad, y él tiene un montón de amigos. Si yo trato a la rata de él, hay un montón de gente que gusta de mí. El infierno, que incluso podría morir.}
 {123}{}{Hmm, then perhaps I could say something to Marcus. I don't plan to stay around here too much longer anyway.}
 {124}{}{Hey, you do what you need to do, just don't drag me into it. In fact, we never had this conversation, OK?}
 {125}{}{No hay problema. Adiós.}
-{126}{}{Actually, one more thing. I know Chad keeps records of all the transactions he makes. He's kind of a record freak.
- In fact, the guy's such a nut about it, I bet he even has records of all the money he's been skimming. The problem is,
- he keeps all the stuff locked up in his house on the other side of town, and there's no way you're getting in there--his
- locking system's too complex. Again, we never had this conversation.}
+{126}{}{En realidad, una cosa más. Sé el Chad mantiene registros de todas las transacciones que realiza. Es una especie de registro de freak.
+ De hecho, el hombre es como una tuerca sobre ella, apuesto a que él incluso tiene registros de todo el dinero que él ha estado rozando. El problema es,
+ él mantiene todas las cosas encerrado en su casa del otro lado de la ciudad, y no hay manera de que usted está consiguiendo en no-su
+ sistema de cierre es demasiado complejo. De nuevo, nunca hemos tenido esta conversación.}
 {127}{}{I'll find a way. Thanks for the extra info.}
 {128}{}{Complex system? How am I supposed to get in then?}
-{129}{}{[Max thinks hard for a moment.] Alright, listen. You look like someone I can trust. The door to Chad's house is
- locked using the most advanced non-electronic locking system there is -- this one's a real beauty. I should know, since I
- designed it. You see, before I was a caravan guard, I used to be a locksmith. Now, since I assume you'll be needing to
- get into that house, let me explain how to pick these types of locks.}
-{130}{}{(About five minutes later Max is done explaining the workings of his locks.) There you go, that should be enough to get in there.
- With this information even a novice can pick one of those locks. You be careful now. Oh, and we never had this conversation.}
+{129}{}{[Max piensa duro por un momento.] Bien, escucha. Te pareces a alguien que puedo confiar. La puerta de la casa de Chad
+ bloqueado el uso de las más avanzadas de no-bloqueo electrónico del sistema que hay, esto es una verdadera belleza. Debería saberlo, ya que yo
+ la diseñó. Se puede ver, antes de que yo era una caravana de la guardia, que solía ser un cerrajero. Ahora, ya que supongo que usted tendrá que
+ entrar a esa casa, me explico cómo a recoger a estos tipos de cerraduras.}
+{130}{}{(Unos cinco minutos más tarde Max es un hecho que explican el funcionamiento de sus cabellos.) Hay que ir, que debería ser suficiente para llegar allí.
+ Con esta información, incluso un principiante puede escoger uno de esos bloqueos. Tenga cuidado de ahora. Ah, y nunca hemos tenido esta conversación.}
 {131}{}{Don't worry. Thanks for the extra info.}
 {200}{}{You learn about Chad's recent skimming from the Gecko caravans.}

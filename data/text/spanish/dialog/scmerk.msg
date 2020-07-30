@@ -172,4 +172,4 @@
 {271}{}{Has "encargado" la Hubologista para Merk.}
 {272}{}{Has recuperado los papeles del doctor Henry.}
 {300}{}{Where the hell do you think you are going?! Try that again and I'll kick your ass.}
-{301}{}{I warned you!}
+{301}{}{Yo lo advertí!}

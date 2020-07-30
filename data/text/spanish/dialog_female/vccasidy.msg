@@ -228,6 +228,6 @@
 {20005}{}{Olvídalo. Mantengamos la formación que tenemos ahora.}
 {20006}{}{No importa. No hay nada que necesite saber sobre tu armamento.}
 {20007}{}{Necesito quitarte la armadura que llevas.}
-{30000}{}{Ah, that actually feels good. I feel like I can handle things much better now.}
-{30001}{}{Wow, this feels different. Those heart pills must be working.}
-{30100}{}{Yeah, why not... It'll help me feel like I'm dead.}
+{30000}{}{Ah, que en realidad se siente bien. Me siento como que puedo manejar las cosas mucho mejor ahora.}
+{30001}{}{Wow, esto se siente diferente. Aquellos corazón pastillas deben estar trabajando.}
+{30100}{}{Sí, ¿por qué no... me ayudará a sentir como que estoy muerto.}

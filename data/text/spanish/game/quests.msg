@@ -43,9 +43,9 @@
 {507}{}{Entrégale a Valerie unos alicates y una llave inglesa.}
 {508}{}{Registra los ocho sectores alrededor de Gecko e informa a Stark.}
 {509}{}{Entra en la RNC e informa a Stark.}
-{510}{}{Resolve the problem with the nearby village.}
-{511}{}{Get weapons for Connar to be used at the nearby village.}
-{512}{}{Put the Village on a trade route.}
+{510}{}{Resolver el problema con el pueblo más cercano.}
+{511}{}{Conseguir las armas para Connar a ser utilizados en el pueblo cercano.}
+{512}{}{Poner el Pueblo en una ruta de comercio.}
 {600}{}{Resuelve el problema de la central nuclear de Gecko.}
 {601}{}{Repara la central nuclear.}
 {602}{}{Optimiza la central nuclear.}
@@ -79,7 +79,7 @@
 {816}{}{Entrega el paquete de Gran Jesús a Ramirez en los Establos.}
 {817}{}{Recauda el tributo de los Hermanos Corsican.}
 {818}{}{Asesina al líder de los Salvatore.}
-{819}{}{Bring a bottle of Abbey's hootch to Father Tully.}
+{819}{}{Traer una botella de Abadía de hootch al Padre de Tully.}
 {900}{}{}
 {1000}{}{}
 {1100}{}{Recupera las piezas/Consigue acceso al Refugio 15.}
@@ -122,43 +122,43 @@
 {1514}{}{Get Chip's spleen.}
 {1515}{}{Consigue una servoarmadura mejorada de Crockett.}
 {1516}{}{Consíguele a la Hermandad del Acero los planos del vertibird.}
-{1517}{}{Disable the Shi submarine threatening the tanker.}
-{1518}{}{Investigate the whereabouts of Dr. Sheng.}
-{1519}{}{Bring Dr. Sheng some plant seeds.}
+{1517}{}{Deshabilitar el Shi submarino amenazando la cisterna.}
+{1518}{}{Investigar el paradero del Dr. Sheng.}
+{1519}{}{Traer el Dr. Sheng algunas semillas de plantas.}
 {1520}{}{Eliminate Dr. Sheng.}
 {1521}{}{Deliver the plant seed sample to Dr. Wong.}
-{1522}{}{Eliminate Dr. Wong without alerting the Shi.}
-{1523}{}{Clear out Dr. Sheng's lab.}
+{1522}{}{Eliminar el Dr. Wong sin alertar a los Shi'.}
+{1523}{}{Borrar el Dr. Sheng del laboratorio.}
 {1600}{}{Encárgate de la Garra mortal.}
 {1601}{}{Fix K-9.}
 {1602}{}{Consigue el FOB del comandante de la base.}
 {1700}{}{}
 {1800}{}{Kill the beast beneath the church.}
 {1801}{}{Deliver the machine part to Brother Max.}
-{1802}{}{Repair the waterpump and report the status to the headmonk.}
+{1802}{}{Reparación de la bomba de agua y el informe de la situación a la headmonk.}
 {1803}{}{Find out who is digging up the graves.}
-{1804}{}{Inform Brother Samuel and Father Tully about the whereabouts of each other.}
-{1805}{}{Bring a lighter to Brother Hank.}
+{1804}{}{Informar Hermano Samuel y su Padre Tully sobre el paradero de cada uno de los otros.}
+{1805}{}{Llevar un encendedor para el Hermano Hank.}
 {1806}{}{Collect information about Botany for Brother Paul.}
-{1807}{}{Format the Abbey's book database.}
-{1808}{}{Escort Brother Jason to Gecko.}
+{1807}{}{El formato de la Abadía de la base de datos de libros.}
+{1808}{}{Escort Hermano Jason to Gecko.}
 {1900}{}{Collect some weapons for the Tribe's warriors.}
-{1901}{}{Fix the well for Marli and the tribe.}
+{1901}{}{Fijar el bien para Marli y la tribu.}
 {1902}{}{Find out what's haunting the tribe's shaman.}
-{1903}{}{Find Sulik's missing sister.}
+{1903}{}{Encontrar Sulik falta hermana.}
 {1904}{}{Find out what happened to the hunting party.}
-{1905}{}{Collect firewood for the tribe's fishermen.}
-{1906}{}{Reunite Sulik and his sister, Kurisu.}
-{1907}{}{Accompany Krom to meet with the trader.}
-{1908}{}{Bring some herbs (5 Xander Roots, 3 Broc Flowers) to the Shaman.}
-{2000}{}{Fix Hologram 00000.}
+{1905}{}{Recoger leña para la tribu de los pescadores.}
+{1906}{}{Reunir Sulik y su hermana, Kurisu.}
+{1907}{}{Acompañar a Krom para cumplir con el comerciante.}
+{1908}{}{Traer algunas hierbas (5 Xander Raíces, 3 Broc Flores) para el Chamán.}
+{2000}{}{Revisión Holograma 00000.}
 {2001}{}{Fix the Voice Computer.}
 {2002}{}{Clear out the plant problem.}
-{2003}{}{Fix EPA lighting problem.}
+{2003}{}{Revisión de la EPA problema de iluminación.}
 {2004}{}{Collect Gecko Pelts for the Doctor.}
-{2005}{}{Fix the hologram that speaks with static.}
-{2006}{}{Find the tool the Doctor left behind.}
-{2007}{}{Test the Solar Scorcher for the Director of Science.}
+{2005}{}{Fijar el holograma que habla con estática.}
+{2006}{}{La herramienta se encuentra el Doctor dejó atrás.}
+{2007}{}{Usted prueba el Abrasador Solar para el Director de Ciencia.}
 {2100}{}{}
 {2200}{}{}
 {2300}{}{}

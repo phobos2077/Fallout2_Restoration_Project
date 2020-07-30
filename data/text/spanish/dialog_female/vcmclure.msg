@@ -245,18 +245,18 @@
 {343}{}{Le hablaste a McClure de la entrega del antídoto para el Jet.}
 {344}{}{El disco muestra que desde que la central es completamente funcional y está optimizada, puede producir una gran cantidad de energía. Mucha más de la que necesita Gecko. Ciudad Refugio podría usar esta energía. Creo que el Consejo debería considerar lo que este disco tiene que ofrecer.}
 {345}{}{Do you know anything about the nearby village that's swarming with mole rats?}
-{346}{}{Actually, yes. Sergeant Stark reported something on this to me recently. What interest do you have in this matter?}
-{347}{}{Is it true that you intend to make servants of those people?}
+{346}{}{En realidad, sí. El sargento Stark informado algo sobre esto a mí recientemente. ¿Qué interés tiene usted en este asunto?}
+{347}{}{Es cierto que la intención de hacer que los siervos de esas personas?}
 {348}{}{Nothing really. May I ask you about something else?}
 {349}{}{Doesn't matter. Bye.}
-{350}{}{Recruiting servants is not the issue here. The issue is the threat that these monsters pose to Vault City. According to Sergeant Stark's report, the people of that village seem to coexist with those huge rat creatures. If that's true, they may have found a way to control them, and perhaps that's why these creatures have begun to attack our patrols. Sergeant Stark plans to eliminate these pests, and he has my full support.}
-{351}{}{I assure you the people of that village aren't controlling the mole rats. In fact, I've got a proposition for you: I'll take care of this mole rat problem, and in return, I want your assurance that Vault City will leave the people of that village alone.}
-{352}{}{An interesting proposition, but how exactly do you plan to deal with all those rat creatures?}
+{350}{}{El reclutamiento de funcionarios no es el tema aquí. El problema es la amenaza que estos monstruos plantean a la Bóveda de la Ciudad. Según el Sargento Stark informe, la gente de ese pueblo parecen coexistir con aquellos enorme rata criaturas. Si eso es cierto, podrían haber encontrado una manera de controlarlos, y tal vez es por eso que estas criaturas han empezado a atacar nuestras patrullas. El sargento Stark planes para eliminar estas plagas, y él tiene todo mi apoyo.}
+{351}{}{Te aseguro que la gente de ese pueblo no son el control de la mole ratas. De hecho, tengo una proposición para ti: voy a cuidar de esta mole problema de ratas, y en la vuelta, quiero su garantía de que la Bóveda de la Ciudad va a dejar a la gente de ese pueblo solo.}
+{352}{}{Una proposición interesante, pero, ¿exactamente cómo hacer el plan para lidiar con todos esos rata criaturas?}
 {353}{}{I think I might know who *is* controlling them.}
-{354}{}{Don't really know, but I'll think of something. I always do.}
-{355}{}{Really? Very well then, I'll take your word for it. The raid will be postponed for a month.}
-{356}{}{You're a good man, McClure, and you won't regret this. I'll be back once the problem's taken care of.}
-{357}{}{It's amazing, the mole rat attacks on our patrols suddenly stopped without warning. I don't know how you did it, but I thank you. Also, I shall uphold my end of the bargain -- I'll order Stark to cancel the raid at once. As long as the people of that village pose no threat to Vault City, they'll have nothing to fear from us -- I'll see to that.}
+{354}{}{Realmente no lo sé, pero voy a pensar en algo. Yo siempre lo hago.}
+{355}{}{De verdad? Muy bien, entonces, voy a tomar su palabra para ella. El raid se aplazó por un mes.}
+{356}{}{Eres un buen hombre, McClure, y no se arrepentirá de esto. Voy a estar de vuelta una vez que el problema ha tomado cuidado de.}
+{357}{}{Es increíble, la mole de la rata de ataques a nuestras patrullas se detuvo de repente, sin previo aviso. No sé cómo lo hizo, pero le doy las gracias. También, voy a mantener mi parte del trato, me voy el fin de Stark para cancelar la raid a la vez. Mientras la gente de ese pueblo no suponen una amenaza para la Bóveda de la Ciudad, va a tener nada que temer de nosotros, voy a ver a que.}
 {358}{}{Thank you!}
 {359}{}{You solved the village problem.}
 {360}{}{Esto es muy interesante.}

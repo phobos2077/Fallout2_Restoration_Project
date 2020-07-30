@@ -10,7 +10,7 @@
 {109}{}{¿Tienes alguna información que darme sobre mi pueblo?}
 {110}{}{Oooh, mis tripas. Me duele. Por favor, déjame solo.}
 {111}{}{Vale.}
-{112}{}{What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen. Now he has it, and I need it back.}
+{112}{}{¿Que qué me pasa? Te lo diré: que la semana pasada me emborraché, empecé a apostar con Lao Chou, y perdí. Tenía tal cogorza que aposté mi bazo. Ahora lo tiene él, y yo lo necesito.}
 {113}{}{¿APOSTASTE tu bazo?}
 {114}{}{Eso no es bueno.}
 {115}{}{Debes de ser un tonto de primera.}
@@ -47,7 +47,7 @@
 {146}{}{No.}
 {147}{}{Agradezco de veras lo que estás haciendo por mí. No lo olvidaré.}
 {148}{}{No hay problema.}
-{149}{}{Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.}
+{149}{}{Amigo, realmente no puedo ir a los lugares sin mucho esfuerzo. Si usted no puede ayudarme, estoy jodido.}
 {150}{}{Bien. Iré a hablar con Fung.}
 {151}{}{Bien. De todos modos ya me importas una mierda.}
 {152}{}{Si pudieras hacer algo al respecto... matarlo, o convencerlo, o algo... moriré sin él.}

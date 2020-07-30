@@ -1,2 +1,2 @@
 {100}{}{Woah...}
-{101}{}{You come to after about two hours. Your head is throbbing and you feel a little different.}
+{101}{}{De venir después de unas dos horas. Su cabeza es pulsátil y se siente un poco diferente.}

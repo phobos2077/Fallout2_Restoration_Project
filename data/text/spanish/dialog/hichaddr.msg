@@ -1,10 +1,10 @@
 {100}{}{Ves una puerta de madera.}
-{101}{}{This door is made of a solid wood. It seems to be built with a new locking system.}
+{101}{}{Esta puerta está hecha de madera sólida. Parece ser construida con un nuevo sistema de bloqueo.}
 {102}{}{This door is firmly locked.}
-{103}{}{Using the technique you learned from Max, you carefully undo the trigger mechanism and
- effortlessly lockpick the door.}
-{104}{}{Something seems different about this lock. You decide to leave it alone.}
-{105}{}{You are about to get to work lockpicking when you notice a small little trigger mechanism in the locking system.
- If triggered, you never would have been able to lockpick the door. You skillfully remove it and then in a matter of
- seconds you have the rest of the door lockpicked.}
+{103}{}{Utilizando la técnica que aprendió de Max, cuidadosamente deshacer el mecanismo de disparo y
+ sin esfuerzo forzar la puerta.}
+{104}{}{Algo parece diferente acerca de este bloqueo. Usted decide dejarlo solo.}
+{105}{}{Usted está a punto de llegar a su trabajo de cerrajería cuando usted nota un pequeño mecanismo de activación en el sistema de cierre.
+ Si se desencadena, nunca habría sido capaz de forzar la puerta. Usted hábilmente quitar y, a continuación, en cuestión de
+ segundos tendrás el resto de la puerta lockpicked.}
 {106}{}{Los explosivos no le han hecho ni un rasguño a la puerta.}

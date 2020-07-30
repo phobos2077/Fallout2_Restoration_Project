@@ -59,7 +59,7 @@
 {281}{}{Gracias. Ahora no tendré que ir cojeando hasta allí... incluso aún que me haya costado 65 dólares. Aquí está tu dinero. ¿Alguna pregunta que pueda responder?}
 {282}{}{Sí. Cuéntame que está pasando en el pueblo últimamente.}
 {283}{}{No, gracias, Bob. Creo que ya sé todo lo que necesito.}
-{290}{}{All sorts of things going on hereabouts lately. We've got }
+{290}{}{Todo tipo de cosas que están pasando últimamente en los alrededores. Tenemos }
 {291}{}{Háblame de las mutilaciones de ganado.}
 {292}{}{Háblame del espíritu andante.}
 {293}{}{¿Ratas gigantes? Cuéntame más de ellas.}
@@ -113,7 +113,7 @@
 {501}{}{¿Qué está pasando aquí?}
 {502}{}{Nada, gracias.}
 {550}{}{Bob no quiere hablar contigo.}
-{2900}{}{Things have slowed down recently. Nothing really to tell ya.}
+{2900}{}{Las cosas se han ralentizado recientemente. Nada de lo que digo.}
 {2901}{}{mutiladores de los brahmines}
 {2902}{}{espíritus que andan}
 {2903}{}{ratas gigantes}

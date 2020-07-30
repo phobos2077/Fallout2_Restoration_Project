@@ -58,7 +58,7 @@
 {316}{}{¡Oh, qué bien! Adiooos.}
 {317}{}{Te alejas}
 {320}{}{Se necesitan más fichas en la mesa tres…}
-{321}{}{Good crowd tonight...}
+{321}{}{Gran cantidad de público de esta noche...}
 {325}{}{Soy el vigilante de sala. ¿Qué puedo hacer por ti?}
 {326}{}{Gestiono esta planta del casino. Si necesitas algo, tan solo pregunta.}
 {327}{}{¿Qué casino es éste?}
@@ -135,36 +135,36 @@
  es un público difícil… espero que lo hagas bien.}
 {456}{}{Oh, lo haré bien… vas a comprobarlo.}
 {457}{}{Ahora no, pero volveré más tarde.}
-{500}{}{That was some funny shit. You're the next Milton Berle. Come back in a week for another show.}
-{501}{}{That was a great show. You got a great routine. Come back in a week for another show.}
+{500}{}{Eso fue algo divertido mierda. Eres la siguiente Milton Berle. Regresar en una semana para otra exposición.}
+{501}{}{Que fue un gran espectáculo. Tiene una gran rutina. Regresar en una semana para otra exposición.}
 {502}{}{I will. See you around.}
-{510}{}{That was just awful. I don't know how you do it, but you are actually worse than the regular. I don't think we will be needing you again.}
-{511}{}{Fine, I'll go take my talent to someone who WILL actually appreciate it.}
+{510}{}{Que era horrible. No sé cómo lo hacen, pero en realidad se están peor que la normal. No creo que vamos a necesitar de nuevo.}
+{511}{}{Bien, voy a dar mi talento a alguien que realmente lo aprecio.}
 {512}{}{Lo que sea. Adiós.}
-{520}{}{You were smokin' out there. The next Traci Lords. }
+{520}{}{Usted se smokin' ahí fuera. El próximo Traci Lords. }
 {521}{}{I don't think I have seen anyone move like that on stage. You got real talent. }
 {522}{}{I will. See you around.}
 {523}{}{Come back in a week for another show.}
 {530}{}{Sorry, you're not up to our standards.}
 {531}{}{Whatever. I got some other questions.}
-{532}{}{Fine, I'll go find someone who WILL appreciate my talent. Bye.}
+{532}{}{Bien, voy a ir a buscar a alguien que LE agradezco a mi talento. Bye.}
 {620}{}{Interested in me doing another comic routine?}
-{621}{}{I told you to check back in a week. You still got some time, so check back later.}
+{621}{}{Me dijo que comprobar de nuevo en una semana. Usted todavía tiene algo de tiempo, así que revise de nuevo más tarde.}
 {622}{}{Alright. I got some questions then.}
 {623}{}{I will see you around then.}
 {720}{}{Is there an opening for any dancers tonight?}
-{721}{}{I told you to check back in a week. You still got some time, so check back later.}
+{721}{}{Me dijo que comprobar de nuevo en una semana. Usted todavía tiene algo de tiempo, así que revise de nuevo más tarde.}
 {722}{}{Alright. I got some questions then.}
 {723}{}{I will see you around then.}
 {902}{}{Bishop}
 {903}{}{Mordino}
 {904}{}{Shark Club}
 {905}{}{Desperado}
-{1000}{}{You know your marriage is in trouble if your wife says, 'You're only interested in one thing,' and you can't remember what it is.}
-{1001}{}{My doctor recently told me that jogging could add years to my life. I think he was right. I feel ten years older already.}
-{1002}{}{Folks who don't know why America is the Land of Promise should be here during an election campaign.}
-{1003}{}{Politicians have always made me laugh.}
-{1004}{}{Someone once told me I don't exercise enough. Well, they're wrong. I get my exercise running to the funerals of my friends who exercise.}
+{1000}{}{Usted sabe que su matrimonio está en problemas si su esposa dice, 'Usted sólo está interesado en una cosa, y usted no puede recordar lo que es.}
+{1001}{}{Mi médico me dijo hace poco que correr podría añadir años a mi vida. Yo creo que tenía razón. Me siento diez años más viejo ya.}
+{1002}{}{La gente que no sabe por qué estados unidos es la Tierra de la Promesa de que no debería estar aquí durante una campaña electoral.}
+{1003}{}{Los políticos tienen siempre me hizo reír.}
+{1004}{}{Alguien una vez me dijo que no hace suficiente ejercicio. Así, se equivoca. Puedo obtener mi ejercicio corriendo a los funerales de mis amigos que de ejercicio.}
 {1215}{}{, señor.}
 {1216}{}{, señor.}
 {1220}{}{, señora.}
@@ -174,7 +174,7 @@
 {1230}{}{, señora.}
 {1231}{}{, señora.}
 {1285}{}{Nada de mutantes. Tendrá que esperar fuera.}
-{1286}{}{I don't care if your friend is one of the Ex-Men, mutants wait outside.}
+{1286}{}{No me importa si tu amigo es uno de los Ex-Men, los mutantes que esperar fuera.}
 {1287}{}{Ese monstruo mutante no está permitido aquí.}
 {1306}{}{. Tómate un descanso de lo de salvar al mundo y diviértete un poco.}
 {1335}{}{This is the }
@@ -198,21 +198,21 @@
 {1367}{}{¿La máquina está trucada?}
 {1368}{}{Tenía algunas preguntas más...}
 {1369}{}{Gracias por la información.}
-{1425}{}{Sure. Let's hope you are as good as last time.}
-{1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}
-{1500}{}{Umm... Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
-{1501}{}{Yo mama sooooooo fat that I had to take a plane, a train, and an automobile just to get on the bitch's good side.}
-{1502}{}{Alright, what did one plate say to the other?}
+{1425}{}{Seguro. Esperemos que usted es tan bueno como la última vez.}
+{1455}{}{Seguro. Estoy harto de todos modos. Esperemos que usted es tan bueno como la última vez.}
+{1500}{}{Umm... Yo' mama es tan grasa cuando ella cayó sobre ella sacudió a sí misma dormido tratando de levantarse de nuevo.}
+{1501}{}{Yo mama sooooooo de grasa que tenía que tomar un avión, un tren y un automóvil sólo para obtener en la puta del lado bueno.}
+{1502}{}{Bien, ¿qué le dijo una placa de decir a los demás?}
 {1503}{}{Ok, why were the suspenders arrested?}
-{1504}{}{Ok, why couldn't the woman buy a bakery shop?}
-{2000}{}{Your comic routine was a success.}
-{2001}{}{Your comic routine was a flop.}
-{2003}{}{In Washington, a man gets up to speak and doesn't say a thing, and the other men disagree with him for three hours.}
-{2010}{}{Your erotic dance routine was a success.}
+{1504}{}{Ok, ¿por qué no podía la mujer comprar una tienda de panadería?}
+{2000}{}{Tu cómic rutina fue un éxito.}
+{2001}{}{Tu cómic rutina fue un fracaso.}
+{2003}{}{En Washington, un hombre se pone a hablar y no decir una cosa, y los otros hombres está de acuerdo con él durante tres horas.}
+{2010}{}{Su erótica rutina de baile fue un éxito.}
 {2335}{}{. Need anything, just ask.}
 {2336}{}{. At least, last time I checked the sign outside the door. Now what can I do for you?}
 {2500}{}{[2 hours pass.]}
-{2501}{}{[1 hour passes.]}
+{2501}{}{[1 hora pasa.]}
 {2502}{}{Lunch is on me.}
-{2503}{}{They were arrested for holding up a pair of pants.}
-{2504}{}{Because she couldn't raise enough dough.}
+{2503}{}{Ellos fueron detenidos por la celebración de un par de pantalones.}
+{2504}{}{Porque no podía recaudar suficiente masa.}

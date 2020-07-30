@@ -76,47 +76,47 @@
 {175}{}{¡Qué cojones? ¡Guardias! ¡Tenemos un intruso!}
 {176}{}{Entra ahí y te vuelo la puta cabeza. ¿Lo pillas?}
 {177}{}{Es tarde y hemos cerrado. Vuelve por la mañana.}
-{200}{}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could
- pay you for the job - say $1000.}
-{201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
+{200}{}{Buen trabajo. Una cosa más, aunque. Eres un esclavista, ¿verdad? ¿Cómo 'bout you echar una mano y limpie esas casas de seguridad para mí. Yo podría
+ usted paga por el trabajo - por ejemplo, de $1000.}
+{201}{}{Buen trabajo. Una cosa más, aunque. Te ves como un medio sonuvabith. ¿Cómo 'bout you de borrar esas casas de seguridad para mí. Hay una recompensa por ello - por ejemplo, de $1000.}
 {202}{}{Claro.}
 {203}{}{No estoy interesado.}
-{204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
+{204}{}{Excelente. Aquí, permítanme marca de estas coordenadas en el mapa cosita. Informe cuando haya terminado.}
 {205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
 {206}{}{De acuerdo. Adiós.}
-{207}{}{Actually, do you think you could send some of your men along with me? It'd make things go a hell of a lot faster, and further guarantee success.}
+{207}{}{En realidad, ¿crees que podrías enviar a algunos de sus hombres conmigo? Esto podría hacer que las cosas vayan un infierno de mucho más rápido, y más garantía de éxito.}
 {210}{}{You're back. Did you wipe out the Rangers' safe houses?}
-{211}{}{Hell yeah I did. Piece of cake.}
+{211}{}{El infierno sí lo hice. Pedazo de la torta.}
 {212}{}{Not yet. I'm still working on it.}
-{215}{}{Really? Hot damn. This is the best news I've heard yet. This will be quite a blow to the Rangers. Good work. Here's your pay. Now you best make yourself scarce, the Rangers in town are sure to be looking for you.}
+{215}{}{De verdad? Caliente maldito. Esta es la mejor noticia que he escuchado hasta ahora. Este va a ser un golpe bastante duro para los Rangers. Buen trabajo. Aquí está tu paga. Ahora usted mejor hacerte escasos, los Rangers en la ciudad que de seguro te busca.}
 {216}{}{Let em look -- I'm not afraid. Thanks for the money.}
 {217}{}{I better get out of town then. See you later.}
-{218}{}{It seems everything I do manages to piss someone off. I'm used to it now. Bye.}
-{220}{}{Hell no. I'm not rounding up any guys for this. If you feel you can't handle it, then leave.}
-{221}{}{I never said I couldn't handle it. I just thought your men would like to join in on the fun. But whatever, I'll handle it on my own, no problem. I'll report back when I'm done.}
-{222}{}{Fine, you can count me out, asshole. I'm not gonna be your dog. Bye.}
-{223}{}{You calling me chicken? No one calls me that and lives!}
-{225}{}{Well, alright. I think I can round up some boys to aid you in this. They'll meet you on the way. You ready to start
- now?}
+{218}{}{Parece que todo lo que hago se las arregla para mear a alguien. Estoy acostumbrado a que ahora. Bye.}
+{220}{}{El infierno no. Yo no soy redondeo alguno de los chicos para este. Si usted siente que no puede manejar, y luego dejar.}
+{221}{}{Yo nunca dije que no podía manejarlo. Yo sólo pensaba que sus hombres le gustaría unirse a la diversión. Pero lo que sea, me va a manejar en el mío propio, no hay problema. Voy a informar de cuando yo estoy hecho.}
+{222}{}{Bien, usted puede contar de mí, idiota. Yo no voy a ser tu perro. Bye.}
+{223}{}{Usted me llama pollo? Nadie me llama así y la vida!}
+{225}{}{Bien, bien. Creo que puede reunir a algunos niños para que te ayuden en esto. Ellos se encontrarán en el camino. Estás listo para empezar
+ ahora?}
 {226}{}{Give me some time. I'll be back when I am ready.}
 {227}{}{I was born ready. Let's rumble.}
 {228}{}{I'm ready. Let's go.}
 {229}{}{I think I'll pass on all this. I've lost interest. Bye.}
-{230}{}{You ready for the raid, or are you here to waste more of my time?}
+{230}{}{Estás listo para la raid, o está usted aquí para perder más de mi tiempo?}
 {231}{}{I need more time.}
 {232}{}{I'm ready. Let's go.}
-{240}{}{You wipe out the Rangers' safe houses. This deals quite a blow to the Rangers in their fight against slavery.}
+{240}{}{Limpie el Rangers " casas de seguridad. Se trata de un golpe bastante duro para los Rangers en su lucha contra la esclavitud.}
 {241}{}{I'm looking to buy some slaves.}
-{250}{}{Well that's fuckin nice. We don't sell here. Metzger up north in the Den can help you with that.}
+{250}{}{Así que puto agradable. Nosotros no vendemos aquí. Metzger en el norte, en el estudio puede ayudar con eso.}
 {251}{}{I've been there and his stock wasn't up to my standards.}
-{252}{}{Seeing how I killed Metzger, I don't know how that's going to be useful to me. I think I'll kill you instead.}
-{260}{}{Well aren't you a picky fuck. You do realize that his stock isn't limited to just the Den, right? He's got his own holding pen where slaves are dropped off.}
+{252}{}{A ver cómo me mató Metzger, no sé cómo va a ser útil para mí. Creo que me voy a matar en su lugar.}
+{260}{}{Bueno, ¿no eres exigente con la mierda. Te das cuenta de que su acción no se limita a la Madriguera, ¿verdad? Él tiene su propio corral donde los esclavos se cayó.}
 {261}{}{Interesting. How would I get to this other location?}
-{270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
-{271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
+{270}{}{Qué, ¿crees que puedes conseguir lo que coño quieres gratis? $1000. Lo tomas o lo dejas.}
+{271}{}{Qué, ¿crees que puedes conseguir lo que coño quieres gratis? Además, el cieno virtuosidad. No me gusta eso. $2000. Lo tomas o lo dejas.}
 {272}{}{Alright, here.}
 {273}{}{No importa.}
 {274}{}{I'll do whatever I want. And I think I'll kill you now.}
 {275}{}{Volveré cuando tenga más dinero.}
-{280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}
+{280}{}{[Señala en el mapa la ubicación de la esclavista campamento.] Es por ahí. Ahora, ¿qué otra cosa vas a perder mi tiempo con?}
 {281}{}{I've got what I need. Bye.}

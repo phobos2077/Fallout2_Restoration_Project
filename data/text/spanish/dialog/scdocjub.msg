@@ -76,76 +76,76 @@
 {175}{}{Gracias, he intentado sacarle el dinero a ese Cecina, pero el condenado nunca tiene nada.}
 {176}{}{.}
 {200}{}{Whoa there, }
-{201}{}{son! }
+{201}{}{hijo! }
 {202}{}{missy! }
-{203}{}{You can't be messing with that stuff! I just measured out Mr. Westin's dose and we wouldn't want him getting the wrong meds now. What in blazes do you think you're doing?}
-{204}{}{I was just trying to get a look at those pills you have on the shelf there.}
+{203}{}{No se puede estar jugando con esas cosas! Yo sólo miden el Señor de Westin dosis y no queremos conseguir la mal meds ahora. Lo que en arde, ¿crees que estás haciendo?}
+{204}{}{Yo estaba tratando de conseguir un vistazo a esas pastillas que tienes en la estantería que hay.}
 {205}{}{Oh, don't mind me. I was just window shopping.}
-{206}{}{Sorry. I've just always had this irresistible compulsion to dig around in other people's stuff that I've never been able to shake.}
-{207}{}{Honestly? Not expecting you to be that observant. I guess I'm going to have to improvise.}
-{210}{}{Were you, now? (Doc Jubilee regards you coolly.) I'd guess you were a mite young to be suffering from a bum ticker.}
-{211}{}{And you'd be right. I'm asking for my friend Cassidy. Older fella. He's got a bad heart, and traveling the wastes is getting kind of rough on him.}
-{212}{}{And I'd wish you were right. I got it from my pa. Or so they tell me.}
-{213}{}{Oh, nothing like that. I'm just overbearingly inquisitive, I guess.}
-{220}{}{Well, you can't. This is a private practice, not a drugstore. You might want to try Duppo's, a tetch north of here.}
+{206}{}{Lo siento. Sólo he tenido siempre esta irresistible compulsión a cavar a su alrededor con otras personas, cosas que nunca he sido capaz de sacudir.}
+{207}{}{Honestamente? No esperando a que atentos. Supongo que voy a tener que improvisar.}
+{210}{}{Fueron, ahora? (Doc Jubileo mira fríamente.) Me imagino que usted era un ácaro joven para estar sufriendo de un vago ticker.}
+{211}{}{Y estaríamos en lo cierto. Yo estoy pidiendo a mi amigo de Cassidy. Mayores chico. Él tiene un mal corazón, y los viajes de los desechos está recibiendo tipo de áspero en él.}
+{212}{}{Y me gustaría que estaban en lo correcto. Lo tengo de mi pa. O eso es lo que me dicen.}
+{213}{}{Oh, nada de eso. Sólo estoy overbearingly curioso, supongo.}
+{220}{}{Bueno, usted no puede. Esta es una práctica privada, no en una farmacia. Es posible que desee probar Duppo, una tetch al norte de aquí.}
 {221}{}{Sounds like just what I'm looking for. Bye.}
-{222}{}{I'll check 'em out. In the meantime, though, do you mind if I ask you a few things?}
-{223}{}{No, I think I came to the right place. I can see you're doing good work here. I thought I might offer a donation.}
-{230}{}{(The doctor blinks. He blinks again.) You should probably talk to somebody about that. Unfortunately,
- I ain't the right kind of doctor. All's you need to know about that shelf is that if you mix up or taint any of those
- prescriptions, some poor fella's liable to end up in a world of hurt, if they're still in this world at all. Best keep
- your hands to yourself.}
-{231}{}{Will do, doc. But, uh, say-- I've got a buddy who could really use some of those heart pills you've got there.
- Think you'd be willing to sell me some?}
+{222}{}{Voy a ver 'em hacia fuera. En el ínterin, sin embargo, ¿te importa si te pregunto un par de cosas?}
+{223}{}{No, yo creo que he venido al lugar correcto. Veo que estás haciendo un buen trabajo aquí. Pensé que podría ofrecer una donación.}
+{230}{}{(El médico parpadea. Él parpadea de nuevo.) Probablemente, usted debe hablar con alguien sobre eso. Por desgracia,
+ No soy el tipo de médico. Todo que usted necesita saber sobre que plataforma es, que si se mezcla o contaminación de cualquiera de los
+ recetas, algunas pobre chico del responsable de acabar en un mundo de dolor, si todavía están en este mundo. Mejor mantener
+ en tus manos para ti mismo.}
+{231}{}{Va a hacer, doc. Pero, eh, digo, tengo un amigo que realmente podría utilizar algunos de esos corazón píldoras tienes aquí.
+ Creo que estaría dispuesto a vender a mi algo?}
 {240}{}{Awww, }
 {241}{}{son, }
 {242}{}{miss, }
-{243}{}{I wish I could help you, but I'm not taking on any new patients right now. Council's got me on retainer. Can't sell you no pills, neither-- Councilman Westin's people are supposed to pick those ones up in }
+{243}{}{Me gustaría poder ayudarte, pero yo no estoy tomando en nuevos pacientes por ahora. Del consejo me metieron en el retenedor. No se puede vender sin pastillas, ni-- el Concejal del Westin, la gente se supone que para escoger a aquellos en }
 {244}{}{ days, }
 {245}{}{ day, }
-{246}{}{and just ain't no way I'm going to have time to mix up another batch before then.}
-{247}{}{I understand, doc. Maybe I'll find a decent pharmacist somewhere else. If it's not too much to ask, though, is there any advice you could give me on the subject? You don't find medicine like that too often.}
-{248}{}{Those are the breaks, I guess. Anyway, I should be alright. I've picked up *tons* about cardamomagy from old comic books. Cut the hard chems back to twice a day, TOPS, make sure to get your exercise in short, strenuous bursts so your heart doesn't have time to act up, all kinds of good stuff.}
-{250}{}{I feel for you, friend, but I'm afraid those pills are for Councilman Westin, and I ain't taking on any new patients right now so I wouldn't be able to write you up a script. Now please, don't go messing around on that shelf anymore. Those prescriptions get mixed up, someone could wind up in a pretty bad way.}
+{246}{}{y no es de ninguna manera me voy a tener tiempo para mezclar otro lote antes de entonces.}
+{247}{}{Entiendo, doc. Tal vez voy a encontrar una buena farmacéutico en algún otro lugar. Si no es mucho pedir, aunque, ¿hay algún consejo que me pudieran dar sobre el tema? De no encontrar el medicamento como que demasiado a menudo.}
+{248}{}{Esos son los descansos, supongo. De todos modos, yo debería estar bien. He recogido *toneladas* acerca de cardamomagy de viejos libros de historietas. Cortar el duro chems de nuevo a dos veces al día, TAPAS, asegúrese de obtener su ejercicio en resumen, extenuante ráfagas para que su corazón no tiene tiempo para actuar, todo tipo de cosas buenas.}
+{250}{}{Que yo siento por ti, amigo, pero me temo que esas pastillas son para el Concejal de Westin, y no me está tomando nuevos pacientes ahora mismo, así que no sería capaz de escribir un guión. Ahora, por favor, no se vaya cachondeo en que estante más. Las recetas se mezclan, alguien podría terminar en una muy mala manera.}
 {260}{}{Let's be clear here, }
 {261}{}{mister. }
 {262}{}{missy. }
 {263}{}{What exactly do you mean by "donation?"}
-{264}{}{A charitable contribution, in furtherance of your service to the public, say... $150? You can count it out in the back room. Should only take a minute, right?}
-{265}{}{Uh, actually, I think I'd better check with my accountant before I do anything rash. See you later, doc.}
-{270}{}{No can do, I'm afraid. Those are for Councilman Westin. His people are due by to pick them up in }
+{264}{}{Una contribución de caridad, en cumplimiento de su servicio al público, a decir... $150? Usted puede contar con que en la parte de atrás de la sala. Sólo debe tomar un minuto, ¿verdad?}
+{265}{}{Uh, en realidad, creo que será mejor que consulte con mi contable antes de hacer nada precipitado. Nos vemos más tarde, doc.}
+{270}{}{No se puede hacer, me temo. Esas son para el Concejal de Westin. Su pueblo debido a recoger en }
 {271}{}{ days, }
 {272}{}{ day, }
-{273}{}{and I'm not going to have the time to mix up another batch before then. I'm sure you can find a pharmacist with a lighter workload.}
+{273}{}{y no voy a tener tiempo para mezclar otro lote antes de entonces. Estoy seguro que usted puede encontrar un farmacéutico con un encendedor de la carga de trabajo.}
 {274}{}{I see. Well, thanks anyway.}
-{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
-{281}{}{Let's see... for starters, you should prob'ly stop doing... well, near to just about everything oughta cover it. No drinking, no smoking, no red meat, NO chems. Try to get a half-hour a day of MILD exercise. And take it easy. Life ain't a race, 'least not the kind where you want to be first to finish. Truth told, no one ever listens to this stuff, but at least I'll be able to rest easier tonight.}
-{282}{}{More important, you need to find you a half-decent chemist and tell 'em you need set up with a regular supply of Triproxinil. Tri-prox-i-nil. Wasteland stock ain't gonna be as fancy as what I got on the shelf there, but chemically, it's all the same once you get down to brass tacks. 30 milligrams, twice a day.}
-{283}{}{Now, you gotta be sure to drink plenty of water while you're on this stuff. And for criminy sakes, you stay *as far as you can* from those pecker pills like they got up in New Reno, understand? They don't play nice together. Fella takes one while he's on the other, his John Thomas ain't nearly the only part of him going stiff that day, if you follow.}
-{284}{}{(To yourself) Hmm, that could work. Yeah. Maybe something in the way of a PDE-5 inhibitor compound...}
-{285}{}{Oh-- And if you *do* go through one of them Reno hucksters, they might go tellin' you that this stuff'll proof your heart against just about any pusher's poison you'd care to try. I ain't gonna lie to you-- there's prob'ly some truth to that. Still don't make bein' a junkie any more glamorous. You're grown and out of britches, so I ain't gonna lecture, but there it is.}
-{286}{}{Thanks a million, doc. You have no idea what a help you've been. Take care.}
-{287}{}{Tri-prox-i-nil, no bo-ner-pill. Heh heh. I'll keep that in mind. See you around, doc.}
-{290}{}{You think you're dealing with some shifty bartertown sawbones, }
+{280}{}{(Doc Jubileo abertura en ti por un momento.) Aw, eres puttin' en mí, ¿verdad? Tienes que ser puttin' en mí. (Miradas a usted de nuevo, sacude la cabeza, los golpes de las mejillas.) Hooo, muchacho. De cualquier manera, no iba a haber ningún tipo de doctor si me permiten salir de aquí sin un par de punteros, al menos.}
+{281}{}{Vamos a ver... para empezar, usted debe prob'ly dejar de hacer... bueno, cerca de casi todo oughta cubrir. No beber, no fumar, no de la carne roja, NO chems. Trate de obtener una media hora al día de ejercicio moderado. Y tomarlo con calma. La vida no es una carrera, 'menos no el tipo de a donde quieres estar en primer lugar para terminar. A decir verdad, nadie escucha esta materia, pero al menos voy a ser capaz de descansar esta noche.}
+{282}{}{Más importante, usted necesita encontrar un medio decente químico y decir 'em es necesario configurar un suministro regular de Triproxinil. Tri-prox-i-nil. Páramo de stock no va a ser tan elegante como lo tengo en la estantería que hay, pero químicamente, es todo lo mismo una vez que uno llega al grano. 30 miligramos dos veces al día.}
+{283}{}{Ahora, tienes que asegúrese de beber mucha agua mientras estés en esta materia. Y para criminy bien, para que la estancia *como se puede* de esos pecker pastillas que se levantó en New Reno, entendido? Ellos no juegan bien juntos. Chico lleva a uno mientras él está en el otro, su John Thomas no es casi la única parte de él se pone rígido de ese día, si usted sigue.}
+{284}{}{(A sí mismo) Hmm, que se puede trabajar. Sí. Tal vez algo en la forma de un PDE-5 compuesto inhibidor...}
+{285}{}{Ah, Y si se ** ir a través de uno de ellos Reno charlatanes, que podría ir tellin' usted que esto va a prueba su corazón contra casi cualquier botón del veneno te importaría probar. Yo no voy a mentir a usted-no hay prob'ly algo de verdad en eso. Todavía no hace bein' un adicto a la más glamorosa. Usted está crecido y fuera de la pieza, así que no va a conferencia, pero ahí está.}
+{286}{}{Un millón de gracias, doc. Usted no tiene idea de lo que es una ayuda a la que has sido. Cuidado de la toma.}
+{287}{}{Tri-prox-i-nil, no bo-ner-píldora. Je je. Lo tendré en mente. Ver a tu alrededor, doc.}
+{290}{}{Usted piensa que usted está tratando con algunos shifty bartertown sawbones, }
 {291}{}{son, }
-{292}{}{girlie, }
-{293}{}{is that it? Don't. I am a trained and accredited NCR medical professional, and that's worth a lot more than that pocketful o' chump change.}
-{294}{}{My apologies. Obviously, a practitioner of your caliber rates a donation of no less than $250.}
-{295}{}{(Hang head.) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
-{296}{}{Sorry for the trouble. I think I'd better just go before I dig myself a bigger hole.}
-{300}{}{(Doc Jubilee begins to turn red.) I don't think you heard me the first time,}
-{301}{}{ boy, }
+{292}{}{chicas, }
+{293}{}{es que es? No. Soy una formación y acreditación de NCR profesional de la medicina, y que vale mucho más que los bolsillos llenos o' calderilla.}
+{294}{}{Mis disculpas. Obviamente, un profesional de su calibre de las tasas de donación de no menos de $250.}
+{295}{}{(Cuelga de la cabeza.) Mira, lo siento mucho. No estoy orgulloso de mí mismo, y yo normalmente nunca han intentado nada de eso, pero voy a ser honesto con usted: yo estaba desesperado por esas pastillas.}
+{296}{}{Lo siento por las molestias. Creo que será mejor que me acaba de ir antes de que me gusta a mí un hueco mas grande.}
+{300}{}{(Doc Jubileo comienza a ponerse roja.) No creo que usted me ha oído la primera vez,}
+{301}{}{ muchacho, }
 {302}{}{ woman, }
-{303}{}{so listen close: I am a doctor of the NCR. It's a solemn duty, and it came with a solemn oath. You ask me one more time to piss on that oath, the ONLY part of it that's going out the window is "first, do no harm." You got me?}
-{304}{}{Alright, screw it. If you're as great as you seem to think you are, maybe you'll be able to sew yourself back together after this.}
+{303}{}{así que escuchen con atención: yo soy un médico de la NCR. Es un deber solemne, y llegó con un solemne juramento. Usted me pregunta una vez más a la mierda en ese juramento, la ÚNICA parte de ella que salía por la ventana "primero, no hacer daño". Me tienes?}
+{304}{}{Bien, el tornillo. Si usted está tan grandes como parecen pensar que, tal vez usted será capaz de coser a ti mismo de nuevo juntos después de esto.}
 {305}{}{Whoa, now. Didn't mean to step on any toes, doc. I'll just leave you be for awhile.}
 {310}{}{Say, doc, I was wondering about those heart pills you've got up there on the shelf.}
-{311}{}{Are you sure you can't reconsider selling me some of those pills?}
-{320}{}{Sorry, Councilman Westin's people are due by to pick those up in }
+{311}{}{Está usted seguro de que no puede reconsiderar me está vendiendo algunas de esas pastillas?}
+{320}{}{Lo sentimos, el Concejal de Westin personas son debido a recoger aquellos en }
 {321}{}{ days, }
 {322}{}{ day, }
-{323}{}{and I'm just too busy to mix up another batch in time.}
-{324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
- Oh, sorry. What can I do for you today?}
-{325}{}{I couldn't help overhearing what you said about heart pills. I was actually going to ask you about such medicine.}
-{330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}
+{323}{}{y estoy demasiado ocupado como para mezclar otro lote en el tiempo.}
+{324}{}{(Mutters y una serie de a sí mismo.) Donde el infierno puse las pastillas para el Señor Westin. Su corazón no va a durar mucho tiempo sin ellos. (Mira hacia arriba).
+ Oh, lo siento. ¿Qué puedo hacer por usted hoy?}
+{325}{}{Yo no podía oír lo que usted dijo sobre el corazón de las píldoras. Yo iba a preguntar sobre el medicamento.}
+{330}{}{(Mutters y una serie de a sí mismo.) No puedo creer que el Señor de Westin muertos. No podía haber sido mi culpa, yo medí las pastillas precisamente. (Mira hacia arriba) Oh, lo siento. ¿Qué puedo hacer por usted hoy?}

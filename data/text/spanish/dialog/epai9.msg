@@ -1,5 +1,5 @@
 {100}{}{This door is locked.}
-{101}{}{You see a locked door, preventing any further access.}
+{101}{}{Usted ve una puerta cerrada, impidiendo el acceso.}
 {102}{}{You see a sturdy-looking door.}
 {103}{}{The door is now unlocked.}
 {104}{}{This door is already unlocked and open.}

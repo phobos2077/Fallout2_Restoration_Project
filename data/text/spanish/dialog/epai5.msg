@@ -4,15 +4,15 @@
 {200}{}{Confirm code:}
 {201}{}{XY104FD}
 {202}{}{BFN12}
-{203}{}{Open}
+{203}{}{Abierto}
 {204}{}{Wheat}
 {205}{}{Abre}
 {206}{}{[FIN]}
-{300}{}{Incorrect door code. Locking door. Please contact the head of Public Relations for the override code.}
+{300}{}{Incorrecto código de la puerta. Bloqueo de la puerta. Póngase en contacto con el jefe de Relaciones Públicas para el reemplazo de código.}
 {301}{}{[FIN]}
-{400}{}{Confirm override code.}
+{400}{}{Confirmar reemplazar el código.}
 {401}{}{[FIN]}
 {402}{}{This door is electronically locked.}
-{403}{}{Unlocking door. Thank you and have a pleasant day.}
+{403}{}{Desbloqueo de la puerta. Gracias y que tengan un día agradable.}
 {404}{}{[FIN]}
 {500}{}{There is no lock to pick.}

@@ -891,5 +891,5 @@
 {883}{}{Uh, ha sido un error... no quería decir --}
 {884}{}{Mis disculpas, Primer Ciudadano. Yo --}
 {885}{}{¡Guardias!}
-{1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
-{1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
+{1663}{}{Estaban metidos en una serie de cuevas en las colinas al Sur. Estoy convencido de que su guía para no ayudarles más. Sin él, serán incapaces de encontrar su camino a través de las montañas.}
+{1708}{}{Estaban metidos en una serie de cuevas en las colinas al Sur. Estoy convencido de que su guía para no ayudarles más. Sin él, serán incapaces de encontrar su camino a través de las montañas.}

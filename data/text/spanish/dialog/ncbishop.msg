@@ -282,7 +282,7 @@
 {950}{}{Te has cargado a Carlson.}
 {975}{}{Te has convertido en Iniciado de la Familia Bishop.}
 {1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
-{1820}{}{Well, you must be one sly motherfucker to convince their guide to stop leading them through the mountains.
- And it could be I don't LIKE what you did down there.}
+{1820}{}{Bien, usted debe ser un astuto hijo de puta para convencer a su guía para dejar de guiar a ellos a través de las montañas.
+ Y podría ser que no me GUSTA lo que hizo allí.}
 {1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
 {1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}

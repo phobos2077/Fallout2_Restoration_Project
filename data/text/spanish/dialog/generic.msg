@@ -259,4 +259,4 @@
 {21020}{}{veinte}
 {30000}{}{Has robado de tu propia tribu.}
 {40000}{}{Slot Jinxer}
-{40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}
+{40001}{}{Gracias a un pequeño pero valiente aparato de cocina, usted sabe un secreto para hacer que las máquinas de ranura de la tos de su dinero en efectivo. Lástima que rompe la máquina en el proceso. ¡Vaya!}

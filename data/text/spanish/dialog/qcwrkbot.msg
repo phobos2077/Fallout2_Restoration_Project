@@ -1,5 +1,5 @@
 {100}{}{Ves a un Sr. Mañoso robot.}
-{101}{}{This robot appears to have been designed to carry heavy supplies and equipment around.}
+{101}{}{Este robot parece haber sido diseñada para transportar grandes suministros y equipo a su alrededor.}
 {200}{}{Beep.}
 {201}{}{*Click*}
 {202}{}{*Beeboop*}

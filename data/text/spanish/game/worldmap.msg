@@ -82,7 +82,7 @@
 {366}{}{Habitacion trampa}
 {370}{}{Entrada}
 {380}{}{Bosque}
-{381}{}{Tribe}
+{381}{}{Tribu}
 {390}{}{Entrada}
 {391}{}{Ducts}
 {392}{}{Utilities}
@@ -167,9 +167,9 @@
 {668}{}{Desierto}
 {670}{}{Establo}
 {680}{}{Aldea}
-{690}{}{Umbra Tribe}
-{700}{}{Umbra Tribe}
-{710}{}{Umbra Tribe}
+{690}{}{Umbra Tribu}
+{700}{}{Umbra Tribu}
+{710}{}{Umbra Tribu}
 {1000}{}{Desierto}
 {1001}{}{Montañas}
 {1002}{}{Ciudad}

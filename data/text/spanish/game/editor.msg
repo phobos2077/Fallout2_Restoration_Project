@@ -218,7 +218,7 @@
 {1123}{}{Eres un mafioso de la Familia Mordino. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1124}{}{Eres un mafioso de la Familia Wright. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1125}{}{Tu esposa ya no está contigo. Espero que estés contento.}
-{1126}{}{You are a smoker. They say it'll kill ya, but you're not dead yet. And anyway, it's a good way to look damn cool in a post-apocalyptic world.}
+{1126}{}{Usted es un fumador. Dicen que va a matar ya, pero no está muerto todavía. Y de todos modos, es una buena manera de ver la maldita fresco en un mundo post-apocalíptico.}
 {2000}{}{Idolatrado}
 {2001}{}{Querido}
 {2002}{}{Aceptado}

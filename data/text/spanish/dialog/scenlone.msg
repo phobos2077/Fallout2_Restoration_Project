@@ -36,7 +36,7 @@
 {135}{}{¿Cuál es tu nivel?}
 {136}{}{Oh. Supuse que podías ver mi aura. Lo siento.}
 {137}{}{Oh. Supuse que podías ver mi aura. Lo siento.}
-{138}{}{Well, last time I checked the character screen, I was at level }
+{138}{}{Bueno, la última vez que revisé la pantalla de personaje, yo estaba en el nivel }
 {139}{}{Pues bien, estoy en la Trascendencia, por supuesto.}
 {140}{}{Uhhh... ¿no es realmente de mala educación hablar sobre niveles?}
 {141}{}{¡Honestamente! No sé qué esperan que logre rodeada de semejante carne de segunda!}
@@ -71,10 +71,10 @@
 {170}{}{Necesito cierta información. El Refugio 13: ¿qué sabes sobre él?}
 {171}{}{¿Cómo han ido las cosas?}
 {172}{}{Olvídalo. Sin resentimientos. Eso es todo.}
-{173}{}{That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.}
+{173}{}{Eso es impresionante. Aunque creo que estamos hablando de dos cosas diferentes, todavía suena como usted se merece un bonus de experiencia.}
 {174}{}{Yes!!}
-{175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there.
- Now that we have that out of the way, shall we try again?}
+{175}{}{Se hace. Sólo recuerde, sin embargo, hay más en la vida que ganar suficientes puntos de experiencia para alcanzar el siguiente nivel. Hay todo un mundo "real" por ahí.
+ Ahora que tenemos que salir del camino, vamos a intentarlo de nuevo?}
 {176}{}{Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
 {177}{}{(Continuar)}
 {178}{}{¿Estabas dormido durante el adoctrinamiento? Mmmmm... ¡tú no eres uno de los Iluminados!}
@@ -116,6 +116,6 @@
 {214}{}{Me encantaría ayudarte, pero incluso un AHS-4 debe dormir. Vuelve durante el día.}
 {215}{}{¡Intruso! ¿Planeas destruir este lugar? ¡Sal de aquí!}
 {216}{}{Maravilloso, hermana. ¿Cuál es tu nivel?}
-{217}{}{. I'm sure if I keep wandering and killing random creatures I'll hit level 99 in no time.}
+{217}{}{. Estoy seguro que si sigo vagando y matando al azar criaturas voy a golpear el nivel 99 en ningún momento.}
 {218}{}{Ganas }
 {219}{}{ puntos de experiencia por "encargarte" de la Hubologista para Merk.}

@@ -45,9 +45,9 @@
  it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
  You already determined the coordinates of it.]}
 {210}{}{Hack the system.}
-{211}{}{[After some time you gain full administrative access to the mainframe. You can now do whatever you want to the system.]}
+{211}{}{[Después de algún tiempo usted puede obtener acceso administrativo a la unidad central. Ahora puedes hacer lo que quieras para el sistema.]}
 {212}{}{Format the system.}
-{213}{}{Initializing format procedure... Initialized... Formatting... Formatting Complete... System is shutting down. Goodbye.}
+{213}{}{Inicializar el formato de procedimiento... Inicializado... el Formato de... de Formato Completo... el Sistema se está cerrando. Adiós.}
 {220}{}{You format the Hubologist mainframe.}
 {250}{}{Dirigir combustible al petrolero Poseidon.}
 {251}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}

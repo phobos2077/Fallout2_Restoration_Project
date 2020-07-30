@@ -219,32 +219,32 @@
 {5002}{}{Creo que p-podría s-ser envenenado.}
 {5100}{}{I'm f'feeling a b'bit warm now.}
 {5101}{}{That's b'better.}
-{6000}{}{I need a professional opinion, Lenny. What do you know about managing a heart condition?}
+{6000}{}{Necesito una opinión profesional, Lenny. ¿Qué sabe usted acerca de la administración de una enfermedad del corazón?}
 {6001}{}{Can you tell me anything about these pills I found, Doc?}
-{6010}{}{What seems to be the t'trouble? Your t'ticker ain't g'givin' out on you now, is it?}
+{6010}{}{Lo que parece ser el t'trouble? Su t'ticker ain't g'givin' hacia fuera en usted ahora, ¿no?}
 {6011}{}{No, I was actually wondering if there was anything we could do for Cassidy.}
-{6012}{}{No. I'm going to murder an infirmed old man and I was trying to come up with something more creative than sneaking up and popping a paper bag.}
-{6013}{}{Just chalk it up to academic curiosity, I guess.}
+{6012}{}{No. Voy a asesinar a un débiles hombre viejo y yo estaba tratando de llegar a algo más creativo que escabullirse y hacer estallar una bolsa de papel.}
+{6013}{}{Sólo achacarlo a la curiosidad académica, supongo.}
 {6020}{}{Heh. No need to get t'tetchy, now.}
-{6021}{}{Well, mostly, it's just c'common sense stuff. Eatin' right, steerin' c'clear of the harder c'chems, that sorta thing. K'keepin' stress to a m'minimum. B'basically, livin' m'more like an old l'lady, and less like... well, us. Heh. O'course, the b'best thing you could d'do would probably be to t'tamp it down with some c'cardiac regulators, m'maybe some v'vasodilators.}
+{6021}{}{Y, sobre todo, es sólo c'common las cosas con sentido. Comer a la derecha, steerin' c'clear de la más difícil c'chems, que sorta cosa. K'keepin' estrés a un m'minimum. B'basically, livin' m'por como un viejo l'lady, y menos como... bueno, nosotros. Heh. O'course, el b'best cosa que podría d do que probablemente sería t'tamp hacia abajo con un poco de c'cardiac reguladores, m'maybe algunos v'vasodilators.}
 {6022}{}{Cardiac what now?}
 {6023}{}{Hmm. Heart pills.}
-{6030}{}{Let's see, now... (Lenny mutters to himself as he reads over the label.)}
-{6040}{}{Heart pills. I guess what they're p'puttin' out in Vault City and NCR these d'days ain't much different than w'what we were usin' b'back before the w'war. Strong m'medicine. G'get a fella on that stuff, he'd have the h'heart of a m'mutant m'marathon runner. Heck, if he minded his d'doc and took 'em r'regular-like, he could probably live on hot b'buttered chems and n'not have to worry about it skippin' a s'single b'beat. Uh, n'not that I'd recommend that sort o' thing, of course. D'doctors orders are always supposed to be c'clean livin' and p'plenty of r'roughage, right?}
+{6030}{}{Vamos a ver, ahora... (Lenny mutters y una serie de a sí mismo como él lee la etiqueta).}
+{6040}{}{Corazón en forma de pastillas. Supongo que lo que están p'puttin' en la Bóveda de la Ciudad y NCR estos d'days no es muy diferente que la de w'what estábamos trabajador' b'back antes de la w " guerra. Fuerte m'medicine. G mama'un chico en esas cosas, él tendría la h'heart de un m'mutant m'marathon corredor. Diablos, si importaban de su d'doc y tomó 'em r'regular-como, él probablemente podría vivir en caliente b'buttered chems y n'not tiene que preocuparse de que skippin' a s'single b'beat. Uh, n'not que me gustaría recomendar que tipo o' cosa, por supuesto. D'doctors los pedidos son siempre supone que c'clean livin' y p'plenty de r'roughage, ¿verdad?}
 {6041}{}{Uh, right. Thanks, Lenny. Let me ask you about something else.}
-{6042}{}{Are they dangerous at all? Any side-effects to look out for?}
+{6042}{}{Son peligrosos en absoluto? Efectos secundarios a tener en cuenta?}
 {6043}{}{Do you think these could help Cassidy?}
-{6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
+{6050}{}{Podrían ser j'just la cosa, ahora que m'mention ella. De hecho, creo que w'would ser. Él había hafta ser cuidadoso acerca de un c'coupla' las cosas, sin embargo.}
 {6051}{}{¿Como qué?}
 {6052}{}{I knew there'd be a catch.}
-{6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
+{6060}{}{Nada que volvería a c'come t'too a menudo. Ellos han sido conocidos a c'cause mareos. Y y ¿no t'take 'em con g'grapefruit jugo, a pesar de que me d armagedón, no creo que va a ser de m'much de un p'problem, en estos días. A menos que eso sea lo que los l'lumpy g'green deben ser las cosas. Hmmm... (Lenny pone una mano a su barbilla y mira hacia el espacio).}
 {6061}{}{Lenny?}
-{6070}{}{S'sorry. Oh! One more b'big one. Unless you're l'lookin' to meet a l'less-than-d'dignified end, you *do not* want to g'go mixin' those things with N'new Reno p'pep pills.}
-{6071}{}{Pep... pills?}
+{6070}{}{S'sorry. Oh! Uno de los más b'big uno. A menos que usted está l'lookin "para satisfacer una l'less-de-d'dignified final, que *no* quiere g go mixin' esas cosas con N new'Reno p'pep pastillas.}
+{6071}{}{Pep... pastillas?}
 {6072}{}{Bad reaction, then?}
-{6080}{}{Ayup. Y'know, for when your l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6081}{}{Ayup. Y'know, for when a man's l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6082}{}{Oh, yeah. You g'get those two into your s'system together, and KER-BLAM! Your heart'll explode like a b'blood s'sausage. I remember d'doin' p'post-mortems on m'more than one poor g'geezer who was t'too b'busy sowing his oats to r'read a w'warning label.}
+{6080}{}{Ayup. Ya sabes, para cuando su l'little t'trooper no st'stand en la atención? T'technical n'name para 'em fue "la PDE-inhibidores de la 5" pero t'times bein' lo que son, y N new'Reno bein' lo QUE es... Anywho, ¿dónde estaba?}
+{6081}{}{Ayup. Ya sabes, para cuando un hombre se l'little t'trooper no st'stand en la atención? T'technical n'name para 'em fue "la PDE-inhibidores de la 5" pero t'times bein' lo que son, y N new'Reno bein' lo QUE es... Anywho, ¿dónde estaba?}
+{6082}{}{Oh, sí. G mama'los dos en su s'system juntos, y KER-BLAM! Tu corazón va a estallar como un b'blood s'sausage. Recuerdo d'doin' p'post mórtem en m more que un pobre g'geezer que fue t'too b'busy siembra su avena a r leía un w'warning etiqueta.}
 {6083}{}{Blood Sausage?}
 {6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
 {6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}

@@ -445,7 +445,7 @@
 {22800}{}{Manual técnico}
 {22801}{}{Un manual de reparaciones técnicas de la servoarmadura T-51b.}
 {22900}{}{Pequeña pieza de maquinaria}
-{22901}{}{Some mechanical component for a machine. If a machine is missing one of these, then it's a safe bet it isn't working properly.}
+{22901}{}{Algunos de los componentes mecánicos de una máquina. Si a un equipo le falta uno de estos, entonces es una apuesta segura que no está funcionando correctamente.}
 {23000}{}{Registros del Refugio}
 {23001}{}{Un compendio de eventos e importantes grabaciones de una computadora de Refugio. Posiblemente dañado.}
 {23100}{}{Código de seguridad de la base militar}
@@ -1030,123 +1030,125 @@
 {53300}{}{Piel de gecko de fuego}
 {53301}{}{La seca y curada piel de un gecko de fuego. Está muy quemado y, como resultado, tiene poco valor.}
 {53400}{}{Bucket}
-{53401}{}{A medium sized bucket used to haul water from a well.}
+{53401}{}{Un medio de tamaño de cubo utilizado para transportar el agua de un pozo.}
 {53500}{}{Scaly Fish}
-{53501}{}{A scaly looking fish. If cooked, it would probably make a tasty meal.}
+{53501}{}{Una escamosa en busca de peces. Si se cocinan, es probable que hacer una comida sabrosa.}
 {53600}{}{Fish}
-{53601}{}{A raw looking fish. If cooked, it would probably make a tasty meal.}
-{53700}{}{Ode to the Flame Deluge}
-{53701}{}{A novel set after a devastating nuclear war. The book excerpt describes how a violent backlash against the culture of advanced knowledge and technology that had led to the development of nuclear weapons took place shortly after this war. Anyone of learning, and eventually anyone who could even read, was likely to be killed.}
-{53800}{}{Text Book}
-{53801}{}{An old text book from before the Great War. It is quite technical and doesn't appear to contain any useful information.}
+{53601}{}{Un raw en busca de peces. Si se cocinan, es probable que hacer una comida sabrosa.}
+{53700}{}{Oda a la Llama Diluvio}
+{53701}{}{Una novela ambientada después de una devastadora guerra nuclear. El extracto del libro describe cómo una violenta reacción en contra de la cultura de conocimiento avanzado y la tecnología que han conducido al desarrollo de armas nucleares tuvo lugar poco después de esta guerra. Cualquiera de aprendizaje, y, finalmente, a cualquier persona que pueda leer incluso, fue propensos a ser asesinados.}
+{53800}{}{Libro De Texto}
+{53801}{}{Un viejo libro de texto de antes de la Gran Guerra. Es muy técnico y no parece contener ninguna información útil.}
 {53900}{}{Army Technical Manual}
-{53901}{}{An old technical manual designed for the United States Army Corps of Engineers.}
-{54000}{}{Operations Manual}
-{54001}{}{The operations manual to the KV-75; a portable, tactical cryptographic device. Also used by non-tactical users for high-level communications in the local wideband telephone networks and wideband satellite terminals.}
-{54100}{}{Chinese Army: Special Ops Manual}
-{54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
+{53901}{}{Un viejo manual técnico diseñado para los Estados unidos Cuerpo de Ingenieros del Ejército.}
+{54000}{}{Manual De Operaciones De}
+{54001}{}{El manual de operaciones para el KV-75; un portátil, táctico dispositivo criptográfico. También se utiliza por los no-táctico de los usuarios de alto nivel de las comunicaciones en el local de banda ancha, las redes de telefonía y banda ancha de terminales de satélite.}
+{54100}{}{Ejército Chino: Manual De Operaciones Especiales De La}
+{54101}{}{No se puede entender una cosa en el texto, pero las ilustraciones son muy informativos.}
 {54200}{}{Bottle of wine}
-{54201}{}{A fresh bottle of Abbey's finest wine.}
+{54201}{}{Una fresca botella de Abadía de los mejores vinos.}
 {54300}{}{Diario}
-{54301}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna" Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket. It is the most beautiful thing I have ever owned. I will never part with it."}
+{54301}{}{Parece ser un diario que pertenecía a una joven. La escritura en la portada interna dice: "Propiedad de Anna"
+La mayoría de las paginas fueron arrancadas o están muy descoloridas, pero una es aun legible. "Día 271: Hoy mi madre me dio un medallón de oro.
+Es la cosa más hermosa que he tenido. Nunca me separare de el"}
 {54400}{}{Botany Holodisk}
-{54401}{}{This information disk categorizes the various plant life that grew before the Great War.}
+{54401}{}{Esta información de disco clasifica las diversas vida de la planta que creció antes de la Gran Guerra.}
 {54500}{}{Expired G.E.C.K.}
 {54501}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir. This one is well beyond is expiration date. What a waste!}
 {54600}{}{Old Coin}
-{54601}{}{A very old coin. You are not sure whose face is on it, but it looks like it could be rare and worth a lot of money.}
+{54601}{}{Una muy antigua moneda. Usted no está seguro de que su cara está en él, pero parece que podría ser raros y vale la pena un montón de dinero.}
 {54700}{}{A watch}
-{54701}{}{An antique watch. This brand stopped being manufactured long before the Great War.}
+{54701}{}{Un antiguo reloj. Esta marca dejó de ser fabricados mucho antes de la Gran Guerra.}
 {54800}{}{Pack of Cigarettes}
-{54801}{}{A pack of 'Commies'. On the back it says: 'Smoke a Commie to do your bit for democracy and feel better'. Lower down there's a health warning: 'As your doctor, I recommend Commies for fresher breath and a winning smile'. It looks like there's about 10 in a pack.}
-{54900}{}{Gas Mask}
-{54901}{}{The Protective Mask: Your mask is your first line of defense against biological agents. Take care of it.}
+{54801}{}{Un pack de 'Comunistas'. En la parte de atrás dice: "el Humo de un Comunista a poner su granito de arena para la democracia y sentirse mejor". Más abajo hay una advertencia de salud: "Como su médico, recomiendo a los Comunistas para un aliento fresco y una sonrisa ganadora'. Parece que hay alrededor de 10 en un pack.}
+{54900}{}{Máscara De Gas}
+{54901}{}{La Protección de la Máscara: la máscara es su primera línea de defensa contra agentes biológicos. Tomar el cuidado de él.}
 {55000}{}{Toaster}
-{55001}{}{A silver toaster sitting on a desk.}
-{55100}{}{Syringe}
-{55101}{}{A pre war implement for administrating drugs. It is full of an unknown substance.}
+{55001}{}{Una plata tostadora sentado en un escritorio.}
+{55100}{}{Jeringa}
+{55101}{}{Un pre guerra implementar para la administración de medicamentos. Está lleno de una sustancia desconocida.}
 {55200}{}{Dog Food}
 {55201}{}{Several cans of dog food.}
-{55300}{}{Bug Spray}
-{55301}{}{A spray can full of a substance that kills all known bugs.}
+{55300}{}{Repelente De Insectos}
+{55301}{}{Un spray lleno de una sustancia que mata todos los fallos conocidos.}
 {55400}{}{Environmental Armor}
-{55401}{}{Armor best worn against biological attacks.}
-{55500}{}{EPA Pamphlet}
-{55501}{}{A leaflet given out at the beginning of tours.}
+{55401}{}{Armadura mejor ha sido usado contra los ataques biológicos.}
+{55500}{}{Folleto de EPA}
+{55501}{}{Un folleto que se entregará en el principio de tours.}
 {55600}{}{Drugs}
-{55601}{}{Some sort of drugs preserved from before the war.}
+{55601}{}{Algún tipo de drogas conservada de antes de la guerra.}
 {55700}{}{Security Rooms Key Card}
 {55701}{}{A key card to unlock the security rooms.}
-{55800}{}{Test tube rack}
-{55801}{}{A rack for holding chemical test tubes.}
-{55900}{}{Keys}
-{55901}{}{Keys to allow access to the storage shed on the surface.}
-{56000}{}{Random Chemicals}
-{56001}{}{DANGER! Unknown chemicals. Use with caution.}
+{55800}{}{Gradilla para tubos de ensayo}
+{55801}{}{Un estante para la celebración de la prueba química de los tubos.}
+{55900}{}{Claves}
+{55901}{}{Claves para permitir el acceso a la nave de almacenamiento en la superficie.}
+{56000}{}{Al Azar De Los Productos Químicos}
+{56001}{}{PELIGRO! Químicos desconocidos. Usar con precaución.}
 {56100}{}{Corn Seeds}
-{56101}{}{Packets of seeds, used to grow plants. These are labeled as genetically modified corn seeds immune to both disease and insect infestation.}
+{56101}{}{Los paquetes de semillas, utilizado para el crecimiento de las plantas. Estos son etiquetados como maíz modificado genéticamente semillas inmune a la enfermedad y la infestación de insectos.}
 {56200}{}{Plant Spray}
-{56201}{}{A spray can full of a substance that kills various types of plants.}
+{56201}{}{Un spray lleno de una sustancia que mata los diferentes tipos de plantas.}
 {56300}{}{Trigger activated dynamite}
-{56301}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger.}
+{56301}{}{A diferencia de la normal de la dinamita, la cual establece un temporizador, este dinamita es activado por un disparo.}
 {56400}{}{Trigger switch}
 {56401}{}{Trigger for dynamite.}
 {56500}{}{Papel}
-{56501}{}{Paper with a passcode scribbled on it.}
+{56501}{}{De papel con un código de acceso garabateado en él.}
 {56600}{}{Experimental Seeds}
-{56601}{}{Packet of experimental seeds. Result of germination is unknown.}
+{56601}{}{Paquete de experimentales de semillas. Resultado de la germinación es desconocido.}
 {56700}{}{A drill}
-{56701}{}{An electric powered drill.}
+{56701}{}{Eléctrico, taladro eléctrico.}
 {56800}{}{Trigger activated dynamite}
-{56801}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger. This one is armed and ready to be triggered.}
+{56801}{}{A diferencia de la normal de la dinamita, la cual establece un temporizador, este dinamita es activado por un disparo. Este está armado y listo para ser activado.}
 {56900}{}{Pop Rocks}
-{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
+{56901}{}{Una bolsa sin abrir de un sabroso gaseosas dulces de azúcar, la lactosa (más azúcar), jarabe de maíz (incluso más de azúcar), y el sabor. Se rumorea que cuando se mezcla con bebidas como Nuka Cola estomago iba a explotar.}
 {57000}{}{Bottle of Shampoo}
-{57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
+{57001}{}{Una prima de la botella de champú. A diferencia de otras marcas líderes, este champú viene en una inusual flexi-botella de plástico. Fue especialmente diseñado de esta manera, así que cuando la botella se la apretó, la cantidad adecuada de champú fue derramada - ni más, ni menos. Sólo una cara de la tapa, y usted está en su camino.}
 {57100}{}{K-9 Kevlar}
-{57101}{}{A dusty old set of sturdy kevlar plates set into black nylon sleeves. You think it must be sized for a dwarf, until you notice a tag on the inside which reads: Canine Kevlar. Large. A DoggieBuddy product. Made in Taiwan.}
+{57101}{}{Un polvoriento y viejo juego de robusta kevlar conjunto de discos en nylon negro de mangas. Usted piensa que debe ser del tamaño de un enano, hasta que se note una etiqueta en el interior que dice: Canino de Kevlar. De gran tamaño. Un DoggieBuddy producto. Hecho en Taiwán.}
 {57200}{}{Human Ear}
-{57201}{}{A woman's ear. Gross! Only a mentally unstable person would ever remove a human ear.}
-{57300}{}{ERSI canister}
-{57301}{}{A canister of Environmental Rejection Syndrome Inhibitors. Applied to specimens exiting from an extended period of hibernation.}
+{57201}{}{Una mujer de la oreja. Bruto! Sólo una persona mentalmente inestable nunca iba a quitar el oído humano.}
+{57300}{}{ERSI bote}
+{57301}{}{Con un bote de Ambiental Rechazo Síndrome de serotonina. Aplica a los especímenes de salir de un largo período de hibernación.}
 {57400}{}{Lightsaber}
-{57401}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Obi-Wan-Killap. Min ST: 2}
+{57401}{}{Una antigua arma de una vida más civilizada de edad. No tan torpe o tan aleatorio como un blaster. Se le ha dado por Obi-Wan-Killap. Min ST: 2}
 {57500}{}{Blaster}
-{57501}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid. Min ST: 3}
+{57501}{}{Hokey las religiones y las armas antiguas no son rival para un buen blaster a tu lado, niño. Min ST: 3}
 {57600}{}{Lightsaber}
-{57601}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Empress Timeslip. Min ST: 2.}
+{57601}{}{Una antigua arma de una vida más civilizada de edad. No tan torpe o tan aleatorio como un blaster. Se le ha dado por la Emperatriz Timeslip. Min ST: 2.}
 {57700}{}{Air Processing Vent}
 {57701}{}{The grill on this vent looks different.}
 {57800}{}{Taquilla metálica}
 {57801}{}{Un recipiente de almacenamiento.}
 {57900}{}{Taquilla metálica}
 {57901}{}{Un recipiente de almacenamiento.}
-{58000}{}{Chinese Code Chart}
-{58001}{}{You're not certain, but it appears to be a chart containing various Chinese command codes. Perhaps if you found a place to input these codes, you could learn a thing or two.}
+{58000}{}{Chino Tabla De Códigos De}
+{58001}{}{Usted no está seguro, pero parece que para ser un gráfico que contiene varios Chinos códigos de comando. Tal vez si usted encuentra un lugar para introducir estos códigos, usted podría aprender una cosa o dos.}
 {58100}{}{Dead Tribal}
-{58101}{}{This person has died a horrible death on the medical table.}
+{58101}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
 {58200}{}{Dead Tribal}
-{58201}{}{This person has died a horrible death on the medical table.}
+{58201}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
 {58300}{}{Pincho de planta}
 {58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
 {58400}{}{Dead Vault Dweller}
-{58401}{}{This person has died a horrible death on the medical table.}
+{58401}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
 {58500}{}{Dead Vault Dweller}
-{58501}{}{This person has died a horrible death on the medical table.}
+{58501}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
 {58600}{}{Dead Tribal}
-{58601}{}{This person has died a horrible death on the medical table.}
+{58601}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
 {58700}{}{Dead Tribal}
-{58701}{}{This person has died a horrible death on the medical table.}
+{58701}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
 {58800}{}{K-9 Kevlar}
-{58801}{}{Wearable K-9 Kevlar (FAKE)}
+{58801}{}{Wearable K-9 de Kevlar (FALSO)}
 {58900}{}{Mutant Armor}
 {58901}{}{Mutant Armor}
 {59000}{}{Mutant Armor}
-{59001}{}{Wearable Mutant Armor (FAKE)}
+{59001}{}{Wearable Mutante Armadura (FALSO)}
 {59100}{}{Small Scorpion Tail}
 {59101}{}{The severed tail of a small radscorpion.}
 {59200}{}{Plant seed}
-{59201}{}{A plant seed given to you by Dr. Sheng.}
+{59201}{}{Una semilla de la planta dada a usted por el Dr. Sheng.}
 {59300}{}{Nothing out of the ordinary}
 {59301}{}{Nothing out of the ordinary.}
 {59400}{}{Nothing out of the ordinary}
@@ -1154,4 +1156,4 @@
 {59500}{}{Nothing out of the ordinary}
 {59501}{}{Nothing out of the ordinary.}
 {59600}{}{Fake Heart Pills}
-{59601}{}{These pills would normally be used by people with heart problems, except in this case death would ensue. These pills have been mixed with other chemicals, resulting in a guaranteed heart-exploding experience.}
+{59601}{}{Estas pastillas normalmente ser utilizado por personas con problemas cardíacos, excepto que en este caso la muerte sería segura. Estas pastillas han sido mezclados con otros productos químicos, lo que resulta en una garantía de corazón-la explosión de la experiencia.}

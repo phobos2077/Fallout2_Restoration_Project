@@ -534,13 +534,13 @@
 {663}{}{Aldea}
 {664}{}{Aldea}
 {665}{}{Bosque}
-{666}{}{Tribe}
-{667}{}{Tribe}
+{666}{}{Tribu}
+{667}{}{Tribu}
 {668}{}{Zona de pesca}
 {669}{}{Pequeña Cueva}
 {670}{}{introduzca nombre}
 {671}{}{Entrada}
-{672}{}{Air, Water, and Power Facility Level}
+{672}{}{El aire, el Agua, y la Potencia de la Instalación}
 {673}{}{Mantenimiento de robots}
 {674}{}{Nivel Uno}
 {675}{}{Nivel Dos}
@@ -557,15 +557,15 @@
 {686}{}{Entrada}
 {687}{}{Nivel Uno}
 {688}{}{Nivel Dos}
-{689}{}{Ranger Safe House}
-{690}{}{Ranger Safe House}
-{691}{}{Ranger Safe House}
-{692}{}{Ranger Safe House}
-{693}{}{Ranger Safe House}
-{694}{}{Ranger Safe House}
-{695}{}{Ranger Safe House}
-{696}{}{Ranger Safe House}
-{697}{}{Ranger Safe House}
+{689}{}{Ranger Casa De Seguridad}
+{690}{}{Ranger Casa De Seguridad}
+{691}{}{Ranger Casa De Seguridad}
+{692}{}{Ranger Casa De Seguridad}
+{693}{}{Ranger Casa De Seguridad}
+{694}{}{Ranger Casa De Seguridad}
+{695}{}{Ranger Casa De Seguridad}
+{696}{}{Ranger Casa De Seguridad}
+{697}{}{Ranger Casa De Seguridad}
 {698}{}{Desierto}
 {699}{}{Desierto}
 {700}{}{Desierto}
@@ -605,7 +605,7 @@
 {1515}{}{Navarro}
 {1516}{}{El Enclave}
 {1517}{}{Abadía}
-{1518}{}{Umbra Tribe}
+{1518}{}{Umbra Tribu}
 {1519}{}{APA}
 {1520}{}{Granja fantasma}
 {1521}{}{Coche sin gasolina}

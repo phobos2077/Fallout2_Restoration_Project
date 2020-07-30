@@ -1330,7 +1330,7 @@
 {1430}{}{Brother Thomas}
 {1431}{}{Tom}
 {1432}{}{Abbey computer}
-{1433}{}{Abbey Head Monk}
+{1433}{}{La Abadía De Cabeza De Monje}
 {1434}{}{Abbey monk}
 {1435}{}{Abbey monk}
 {1436}{}{Abbey monk}
@@ -1349,27 +1349,27 @@
 {1449}{}{Tribal}
 {1450}{}{Kurisu}
 {1451}{}{Pozo}
-{1452}{}{Tribe map}
+{1452}{}{Tribu mapa}
 {1453}{}{Tribal}
 {1454}{}{Serin}
-{1455}{}{Tribe map2}
-{1456}{}{Tribe map 2 - spacial 1}
-{1457}{}{Tribe map 2 - spacial 2}
+{1455}{}{Tribu map2}
+{1456}{}{Tribu mapa 2 - espacial 1}
+{1457}{}{Tribu mapa 2 - espacial 1}
 {1458}{}{Gecko}
 {1459}{}{Cave Guard}
 {1460}{}{dead body}
-{1461}{}{woods spacial}
+{1461}{}{woods espacial}
 {1462}{}{Don}
 {1463}{}{Esclavista}
 {1464}{}{map script}
 {1465}{}{Perro}
 {1466}{}{Esclavista}
 {1467}{}{Esclavo}
-{1468}{}{slavepen door}
+{1468}{}{slavepen puerta}
 {1469}{}{Estante}
 {1470}{}{Puerta}
 {1471}{}{Little Bobby}
-{1472}{}{Little Bobby's Father}
+{1472}{}{Poco Bobby Padre}
 {1473}{}{Okupa}
 {1474}{}{Traficante}
 {1475}{}{Den Resident}
@@ -1378,7 +1378,7 @@
 {1478}{}{map script}
 {1479}{}{Persona con un extraño tipo de armadura}
 {1480}{}{Persona con un extraño tipo de armadura}
-{1481}{}{safe}
+{1481}{}{seguro}
 {1482}{}{guard}
 {1483}{}{Hubologista}
 {1484}{}{Guardia Hubologista}
@@ -1388,26 +1388,26 @@
 {1488}{}{container script}
 {1489}{}{Brahmin}
 {1490}{}{door}
-{1491}{}{gate}
+{1491}{}{puerta}
 {1492}{}{Tribal Chief}
 {1493}{}{Barking Man}
 {1494}{}{epax map script}
-{1495}{}{EPA MAIN}
+{1495}{}{EPA PRINCIPAL}
 {1496}{}{EPA Secret Level}
 {1497}{}{Mr. handy Robot}
-{1498}{}{Hologram 00000}
+{1498}{}{Holograma 00000}
 {1499}{}{The Brave Little Toaster}
-{1500}{}{Hologram 10001}
-{1501}{}{Hologram 12001}
-{1502}{}{Hologram 10031}
-{1503}{}{Hologram 40011}
+{1500}{}{Holograma 10001}
+{1501}{}{Holograma 12001}
+{1502}{}{Holograma 10031}
+{1503}{}{Holograma 40011}
 {1504}{}{EPA plant}
-{1505}{}{Mr. Chemmie!}
+{1505}{}{El Señor Chemmie!}
 {1506}{}{Dex}
 {1507}{}{Cat Jules}
 {1508}{}{Kitsune}
 {1509}{}{Guerrero}
-{1510}{}{Bug Spray}
+{1510}{}{Repelente De Insectos}
 {1511}{}{Doctor's Prisoner}
 {1512}{}{Hormiga gigante}
 {1513}{}{The Doctor}
@@ -1415,7 +1415,7 @@
 {1515}{}{Creature}
 {1516}{}{Robot}
 {1517}{}{Robot}
-{1518}{}{EPA Leaflet}
+{1518}{}{EPA Folleto}
 {1519}{}{Voice Computer}
 {1520}{}{Research Computer}
 {1521}{}{Electric Chair Computer}
@@ -1424,7 +1424,7 @@
 {1524}{}{Puerta de seguridad}
 {1525}{}{Puerta del ascensor}
 {1526}{}{Puerta}
-{1527}{}{Random Chemicals}
+{1527}{}{Al Azar De Los Productos Químicos}
 {1528}{}{Fertile ground}
 {1529}{}{Fertile ground}
 {1530}{}{Hibernation Computer}
@@ -1441,7 +1441,7 @@
 {1541}{}{Campo de fuerza}
 {1542}{}{Dinamita}
 {1543}{}{Dynamite Trigger}
-{1544}{}{Stuff on Desk}
+{1544}{}{Cosas en el Escritorio}
 {1545}{}{Taquilla}
 {1546}{}{Spatial Script}
 {1547}{}{Spatial Script}
@@ -1451,31 +1451,31 @@
 {1551}{}{Spatial Script}
 {1552}{}{Spatial Script}
 {1553}{}{Spatial Script}
-{1554}{}{Air Conditioning Vent}
+{1554}{}{Aire Acondicionado De Ventilación}
 {1555}{}{Fan}
 {1556}{}{Fan}
 {1557}{}{spatial script}
 {1558}{}{computer terminal}
 {1559}{}{fertile ground}
-{1560}{}{spatial}
-{1561}{}{A hologram}
-{1562}{}{spatial}
+{1560}{}{espacial}
+{1561}{}{Un holograma}
+{1562}{}{espacial}
 {1563}{}{}
 {1564}{}{hologram computer}
 {1565}{}{Niño}
-{1566}{}{spatial}
+{1566}{}{espacial}
 {1567}{}{Vertibird}
 {1568}{}{computer}
-{1569}{}{spatial}
+{1569}{}{espacial}
 {1570}{}{Señor Manitas}
 {1571}{}{Nuke}
 {1572}{}{Pozo}
 {1573}{}{Pozo}
 {1574}{}{}
 {1575}{}{Ranger de la RNC}
-{1576}{}{object name}
-{1577}{}{object name}
-{1578}{}{object name}
+{1576}{}{nombre de objeto}
+{1577}{}{nombre de objeto}
+{1578}{}{nombre de objeto}
 {1579}{}{Mapa}
 {1580}{}{Ranger de la RNC}
 {1581}{}{Esclavista}
@@ -1490,11 +1490,11 @@
 {1590}{}{}
 {1591}{}{Matón}
 {1592}{}{trip wire}
-{1593}{}{trip wire spatial}
+{1593}{}{viaje espacial de alambre}
 {1594}{}{Prostituta}
 {1595}{}{Sustancia}
 {1596}{}{Spatial}
-{1597}{}{Hibernation Chamber spatial}
+{1597}{}{La hibernación de la Cámara espacial}
 {1598}{}{}
 {1599}{}{Taquilla}
 {1600}{}{Map Script}
@@ -1515,7 +1515,7 @@
 {1615}{}{Robert Baron}
 {1616}{}{Guardia}
 {1617}{}{Embalaje}
-{1618}{}{Ravenous Human}
+{1618}{}{Voraz Humanos}
 {1619}{}{map}
 {1620}{}{force field panel}
 {1621}{}{Fan}
@@ -1525,18 +1525,18 @@
 {1625}{}{Basura}
 {1626}{}{stairs}
 {1627}{}{elevator shaft}
-{1628}{}{spatial}
+{1628}{}{espacial}
 {1629}{}{elevator shaft}
 {1630}{}{Taquilla}
 {1631}{}{Dock Guard}
 {1632}{}{Técnico}
 {1633}{}{Técnico}
 {1634}{}{Técnico}
-{1635}{}{spatial}
+{1635}{}{espacial}
 {1636}{}{Trabajador del puerto}
 {1637}{}{map script}
 {1638}{}{Puerta}
-{1639}{}{spatial}
+{1639}{}{espacial}
 {1640}{}{power console}
 {1641}{}{torpedo console}
 {1642}{}{targeting console}
@@ -1544,15 +1544,15 @@
 {1644}{}{sub hatch}
 {1645}{}{Guardia}
 {1646}{}{vertibird}
-{1647}{}{spatial}
-{1648}{}{serum}
+{1647}{}{espacial}
+{1648}{}{suero}
 {1649}{}{Old Caravan Guard}
 {1650}{}{Dr. Sheng}
-{1651}{}{Plant Creature}
+{1651}{}{Planta Criatura}
 {1652}{}{Escondite del Dr. Sheng}
 {1653}{}{Puerta}
 {1654}{}{Puerta}
-{1655}{}{spatial}
+{1655}{}{espacial}
 {1656}{}{Robot de reparaciones}
 {1657}{}{Robot de seguridad}
 {1658}{}{Puerta}

@@ -290,46 +290,46 @@
 {388}{}{Has explorado Gecko para Ciudad Refugio.}
 {389}{}{Has explorado la RNC para Ciudad Refugio.}
 {390}{}{¿Como qué... señora?}
-{391}{}{Yeah, there is something... I have been looking through your reconnaissance report and I found a small village nearby swarming with uhh..."mole rats", that's what the outsiders call them, right? I want you to go there and exterminate all those beasts.}
-{392}{}{Just gun down a few rats? Ok, I'm on it.}
+{391}{}{Sí, hay algo... he estado buscando a través de su informe de reconocimiento y he encontrado un pequeño pueblo cerca de enjambre con uhh..."las ratas topo", que es lo que los forasteros se les llame, ¿verdad? Quiero que vayas allí y exterminar a todos aquellos animales.}
+{392}{}{Sólo la pistola hacia abajo un par de ratas? Ok, estoy en ello.}
 {393}{}{¿Para qué?}
 {394}{}{¿Qué pasa con la expedición de RNC?}
 {395}{}{Lo pensare. ¿Puedo hacerte unas pocas preguntas?}
 {396}{}{No, no es mi clase de trabajo. Adiós.}
-{397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters... and any other threat.}
+{397}{}{Excelente. Aquí, permítanme mostrar la ubicación exacta de la aldea. [Stark marcas de la aldea, en tu Pip-Boy mapa.] Pago de $750, acaba de regresar y recoger una vez que termine la tarea. Una cosa más, si no tratar con él en un mes, voy a enviar un escuadrón para eliminar a los monstruos... y cualquier otro tipo de amenaza.}
 {398}{}{Adiós.}
-{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
+{399}{}{¿Para qué? [Vacila por un momento, luego frunce el ceño.] No tengo que explicar mis motivaciones para usted. Yo doy las órdenes, y toma de ellos -- Que es lo que es. Si usted no desea que el trabajo, voy a enviar un escuadrón de hacerlo en su lugar... pero las cosas a veces conseguir un poco "desordenado" cuando me puse mis hijos sueltos.}
 {400}{}{Lo tengo. Haré el trabajo.}
 {401}{}{It's clear. What's with that village, anyway?}
 {402}{}{Sobre ese pueblo...}
-{403}{}{You killed all those big ugly rats? Really?}
-{404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
+{403}{}{Has matado a todos esos grandes feo ratas? De verdad?}
+{404}{}{Me dijeron que usted planea en hacer de la gente de ese pueblo en siervos, y que las ratas topo se le impide hacerlo -- esa es la verdadera razón por la que quería que ellos exterminados.}
 {405}{}{Sí.}
 {406}{}{Aún no.}
-{407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
+{407}{}{Oh, has oído eso, ¿no? Bien, has oído bien-es por su propio bien. Aquí, estaría bien alimentado y cuidado. Estoy seguro de que había llegado a darse cuenta de cuánto mejor es para servir en la gran Bóveda de la Ciudad que habita en su pequeña aldea con la rata de mierda hasta las rodillas.}
 {408}{}{They're happy right where they are.}
 {409}{}{Doesn't matter. Will you complete your task or not?}
 {410}{}{Ok. I'll finish it.}
 {411}{}{No, I don't think so. }
 {412}{}{Great, return when you are done.}
-{413}{}{Doesn't matter, they'll all become servants just the same. I'm sending a battle squad there immediately. Soon, there'll be nothing left of their little village.}
+{413}{}{No importa, ellos van a ser siervos de la misma. Yo voy a enviar un escuadrón de batalla de inmediato. Pronto, no va a quedar nada de su pequeño pueblo.}
 {414}{}{[HECHO]}
 {415}{}{Return when all is done.}
-{416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
+{416}{}{Gran trabajo, soldado. Aquí está su $750 -- un pequeño precio a pagar por un pueblo lleno de nuevos siervos. Usted ha hecho de la Bóveda de la Ciudad de un gran servicio.}
 {417}{}{Wait -- You never said anything about making the villagers your servants.}
 {418}{}{Como quieras. Adiós.}
-{419}{}{It's for their own good. Once they're servants of Vault City, there'll be no need for them to strife for survival. They'll be fed and taken care of. In return, they'll work for the good of the City. Everyone wins.}
+{419}{}{Es por su propio bien. Una vez que son siervos de la Bóveda de la Ciudad, no habrá necesidad de lucha por la supervivencia. Que van a ser alimentados y cuidados. En cambio, los que van a trabajar para el bien de la Ciudad. Todo el mundo gana.}
 {420}{}{But it's slavery!}
-{421}{}{It's not slavery, but a mutually beneficial co-existence, a symbiosis so to speak.}
+{421}{}{No es esclavitud, sino mutuamente beneficiosa co-existencia, una simbiosis de lo que hablo.}
 {422}{}{Disgusting! Goodbye.}
-{423}{}{Those primitives must have lost their minds completely. They obtained weapons from somewhere, and started shooting us on sight! So I gave it another thought. Hell with them. After all, it's not like we're short on slaves... I mean servants.}
-{424}{}{What village? Oh, the one we got our new servants from... what about it?}
+{423}{}{Aquellas primitivas de haber perdido sus mentes por completo. Obtuvieron armas de algún lugar, y comenzó a disparar con nosotros a la vista! Así que me dio otro pensamiento. Al infierno con ellos. Después de todo, no es como estamos cortos en esclavos... me refiero a los siervos.}
+{424}{}{¿De qué pueblo? Oh, el uno tenemos nuestros nuevos siervos de... ¿qué pasa con él?}
 {425}{}{You say what!? You enslaved them all?}
-{426}{}{I know who provided them with weapons. It was that trader in the courtyard, Harry. }
-{427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
-{428}{}{I don't know why, but proconsul McClure has ordered me to wait with the village a little. It's applying to you as well. }
+{426}{}{Yo sé quien les proporcionó las armas. Es que eso era comerciante en el patio, Harry. }
+{427}{}{Feliz Harry, dice usted? ... cifras que iba a ser uno de ellos desgraciados en el patio. Ok voy a tratar con él. Vamos a ver cómo "Feliz" es cuando estoy a través de. Como para usted, usted puede tomar lo que usted encuentra en su tienda como una recompensa para la venta de él.}
+{428}{}{No sé por qué, pero procónsul McClure me ha ordenado que esperar con el pueblo, un poco. Es la aplicación para usted. }
 {429}{}{Hmm... Ok.}
-{1215}{}{I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
-{1224}{}{You did? So, they will no longer be a threat to us?}
-{1251}{}{Actually, I already put a stop to them. I convinced their guide to no longer lead them through the mountains. They will never find their way without him.}
+{1215}{}{Estoy convencido de que su guía no guiarlos a través de las montañas. Nunca van a encontrar su camino sin él.}
+{1224}{}{Usted hizo? Así, dejará de ser una amenaza para nosotros?}
+{1251}{}{En realidad, yo ya había puesto fin a las mismas. Estoy convencido de que su guía no guiarlos a través de las montañas. Nunca van a encontrar su camino sin él.}
 {1422}{}{Well, I agree. They're better off this way. Goodbye.}

@@ -1,11 +1,11 @@
 {100}{}{You see torpedos.}
-{101}{}{These dangerous-looking weapons are filled to the brim with explosives. The casings are corroded and it
- seems the propellers will fall off any second now.}
-{200}{}{Despite the looks, this torpedo is still a potent weapon. The loose propeller is actually an integral part of
- its navigating system, giving it unprecedented maneuverability. Looks like you need to break out the tools to disable it.}
-{210}{}{Thanks to two centuries of decay, the rusted propulsion system is easy to disassemble. Moments later, it's put
- back together, this time completely immobilized.}
-{211}{}{The rusted-through propulsion system is too much of a challenge. The nuts are stuck and you can't quite figure
- out how to detach the propeller without cutting yourself.}
-{220}{}{You have planted explosives near several high-explosive torpedoes. It might be a good idea to get the hell
- out of here.}
+{101}{}{Estos peligrosos-en busca de armas están llenos hasta el borde con explosivos. Las carcasas están corroídos y
+ parece que las hélices se caerá en cualquier instante.}
+{200}{}{A pesar de las miradas, este torpedo es todavía un arma potente. La suelta de la hélice es en realidad una parte integral de
+ su sistema de navegación, dándole maniobrabilidad sin precedentes. Parece que la necesidad de romper con las herramientas para desactivarlo.}
+{210}{}{Gracias a los dos siglos de decadencia, los oxidados sistema de propulsión es fácil de desmontar. Momentos más tarde, se puso
+ de nuevo juntos, esta vez completamente inmovilizada.}
+{211}{}{Los oxidados-a través de su sistema de propulsión es demasiado de un desafío. Los frutos secos son atascado y no puedes encontrar
+ cómo separar la hélice sin cortar tú mismo.}
+{220}{}{Se han plantado explosivos cerca de varios de alto explosivo torpedos. Podría ser una buena idea para obtener el infierno
+ fuera de aquí.}

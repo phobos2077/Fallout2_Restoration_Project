@@ -1,1 +1,1 @@
-{100}{}{If I'm careful enough, I could tie some rope and climb down this elevator shaft.}
+{100}{}{Si estoy lo suficientemente cuidadoso, podría atar una cuerda y bajar a través de este hueco del ascensor.}

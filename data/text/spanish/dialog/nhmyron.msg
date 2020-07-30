@@ -145,7 +145,7 @@
 {593}{}{Entonces... lo de Miria y tú. ¿Vais en serio, o...?}
 {594}{}{Entonces... lo de Miria y tú. ¿Sois libres para estar con otras personas, o....?}
 {595}{}{¿Sueles intercambiar esposas? Puedes quedarte con la mía en cuanto consiga una.}
-{596}{}{So... who is this hot oriental looking chick?}
+{596}{}{Entonces... ¿quién es este caliente oriental en busca de pollo?}
 {597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
 {598}{}{This oriental chick suuuure is a looker.}
 {599}{}{So... you and Kitsune. Are you two going out or something?}
@@ -639,7 +639,7 @@
 {3004}{}{¿Con qué armas eres hábil, Myron? ¿Alguna?}
 {3005}{}{No importa, hay otra cosa que necesito de ti.}
 {3025}{}{Lo que sea.}
-{4000}{}{Yeah, this should be where that facility I marked on your map is. Probably deep underground too.}
+{4000}{}{Sí, esto debe ser donde la instalación he marcado en el mapa. Probablemente en lo más profundo de metro también.}
 {5000}{}{¡Joder! ¡Joder! ¡No puedo sentir más este miembro!}
 {5001}{}{¡Siento como estoy derritiendo! ¡Joder!}
 {5002}{}{¡Estoy vomitando mis putos tripas por aquí!}

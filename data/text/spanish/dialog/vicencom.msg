@@ -193,15 +193,15 @@
 {270}{}{Buscas en los archivos.}
 {271}{}{Finalizas la sesión en el terminal.}
 {272}{}{Oooooooh. Eso zumbaaaaa.}
-{300}{}{As you are about to return to the archive listing, you skillfully notice a hidden entry in the list of archives..}
-{301}{}{As you are about to log off the terminal, you skillfully notice a hidden entry in the list of archives.}
+{300}{}{Como usted está a punto de regresar al archivo de listado, que hábilmente aviso oculto entrada en la lista de archivos..}
+{301}{}{Como usted está a punto de cerrar el terminal, que hábilmente aviso oculto entrada en la lista de archivos.}
 {302}{}{[CONTINUAR]}
-{303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
- entitled "Classified." It looks like your skill points in Science are paying off.}
+{303}{}{Después de unos minutos usted es capaz de obtener acceso al archivo bloqueado. Sólo hay un archivo que se enumeran y se
+ titulado "Clasificados." Parece que tus puntos de habilidad en la Ciencia están pagando.}
 {304}{}{[Read entry.]}
-{305}{}{Reading through the file, it appears as if the sole purpose of Vault 8 was to act as a "control Vault" in a series of Vaults created by a corporation called Vault-Tec.
- The intent was for Vault 8 to open and re-colonize the surface after 10 years. It also appears Vault 8 was not the only Vault with a purpose other than protecting its inhabitants from the Great War.
- Perhaps more can be found out about the true purpose of these Vaults at another location.}
+{305}{}{La lectura a través de el archivo, parece como si el único propósito de Bóveda 8 era el de actuar como un "control de Bóveda" en una serie de Bóvedas creado por una corporación llamada Vault-Tec.
+ La intención era que la Bóveda de 8 a abrir y volver a colonizar la superficie después de 10 años. También parece que la Bóveda 8 no fue la única Bóveda con una finalidad distinta de proteger a sus habitantes de la Gran Guerra.
+ Tal vez se puede encontrar más información sobre el verdadero propósito de estas Bóvedas en otro lugar.}
 {306}{}{[Return to archive listing.]}
 {307}{}{[Log off.]}
-{308}{}{You learn about the real purpose of Vault 8 and that there is more to the construction of all the Vaults than meets the eye.}
+{308}{}{Aprender sobre el verdadero propósito de la Bóveda 8 y que no es más que la construcción de todas las Bóvedas que salta a la vista.}

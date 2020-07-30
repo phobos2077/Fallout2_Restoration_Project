@@ -1,114 +1,114 @@
 {100}{}{You see a chubby merchant with an eyepatch.}
-{101}{}{One-Eyed Roy watches you intently with his good eye as he mops sweat from his forehead.}
-{200}{}{[As you and Krom approach the meeting site, you're greeted by a chubby merchant with an eyepatch and a
- small entourage of bodyguards. Though the merchant is sweating profusely, he appears downright cheerful.]}
+{101}{}{One-Eyed Roy le observa fijamente con su ojo bueno mientras se seca el sudor de su frente.}
+{200}{}{[Como usted y Krom enfoque al sitio de la reunión, que es recibido por un gordito comerciante con un parche y un
+ pequeño séquito de guardaespaldas. A pesar de que el comerciante está sudando mucho, él parece francamente alegre.]}
 {201}{}{[MÁS]}
-{202}{}{[After the merchant gives Krom an enthusiastic greeting, he turns to you and looks you over. Though his grin
- never falters, his probing eye betrays a hint of suspicion.] So Krom here says I'm to do business with you today.
- [He shrugs.] Folks call me One-Eyed Roy, but I can't for the life of me figure out why. [He laughs heartily at his joke.]
- What's your name, friend?}
+{202}{}{[Después de que el comerciante le da Krom un entusiasta saludo, se dirige a usted y se ve más. A pesar de su sonrisa
+ nunca se tambalea, su mirada penetrante traiciona un indicio de sospecha.] Así Krom aquí dice que tengo que hacer negocios con usted el día de hoy.
+ [Él se encoge de hombros.] La gente me llame Tuerto Roy, pero no puedo por la vida de averiguar por qué. [Ríe a carcajadas en su broma.]
+ ¿Cuál es tu nombre, amigo?}
 {203}{}{Soy }
 {204}{}{ of Arroyo.}
 {205}{}{. Now let's get this underway.}
 {210}{}{A true pleasure to meetcha, }
-{211}{}{. If you don't mind me saying, you're a bit of an odd sort for a tribal.}
-{212}{}{I'm not your average tribal. In fact, I'm the Chosen One.}
-{213}{}{I don't know what you mean. I'm just your average Joe Tribal. Nothing odd about me at all.}
-{214}{}{Oh, because of what I'm wearing? You see, I'm trying to set a new tribal fashion trend. I'm tired of the same ol'
- brahmin hide pants with a strap across the chest. That look is *so* 2240.}
-{215}{}{Who are you calling an "odd sort", you tubby one-eyed motherfucker? [Attack.]}
-{220}{}{[His grin falters slightly and he nods.] Alright, down to business then. Tell me, friend, have you ever heard
- of a little item called... a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat
- pocket and holds it up like a wondrous artifact.]}
-{230}{}{[His eye goes wide and he lets out a low whistle.] The Chosen One, huh? Well color me impressed. Now let's say
- we get down to business. Tell me, friend, have you ever heard of a little item called... a stimpak? [As he dramatically
- speaks the last word, he produces a stimpak from his coat pocket and holds it up like a wondrous artifact.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
- a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
- wondrous artifact.]}
-{241}{}{Uh, yeah. Actually, they're pretty common.}
-{242}{}{Of course. In fact, I hoard the things. Hell, I'm practically a stimpak junkie.}
-{243}{}{[Shake your head and stare at the item in wonder.] What's... stim-pak?}
-{250}{}{[He chuckles nervously.] I wouldn't say they're *common*, but they're certainly coveted by us civilized folks.
- [He looks at Krom.] And for good reason. You see, these little guys contain magical healing powers that will *astound*
- and *amaze* you. Of course, words mean nothing without proof, so allow me to show you the wonders of the stimpak in action.}
-{251}{}{[His eye momentarily hardens, but he quickly regains his composure and looks at Krom.] You see, these little guys
- contain magical healing powers that will *astound* and *amaze* you. Of course, words mean nothing without proof, so allow
- me to show you the wonders of the stimpak in action.}
-{252}{}{An excellent question my friend! A stimpak is one of the many great marvels left to us by the Old World. You see,
- these little guys contain magical healing powers that will *astound* and *amaze* you. Of course, words mean nothing without
- proof, so allow me to show you the wonders of the stimpak in action.}
+{211}{}{. Si no te importa me dijo, usted es un poco de un extraño tipo de tribal.}
+{212}{}{Yo no soy tu media tribales. De hecho, yo soy el Elegido.}
+{213}{}{No sé a qué te refieres. Yo sólo soy el promedio de Joe Tribales. Nada de extraño acerca de mí en absoluto.}
+{214}{}{Oh, porque de lo que estoy usando? Usted ve, yo estoy tratando de establecer un nuevo tribal tendencia de la moda. Estoy cansado de los mismo ol'
+ brahmán ocultar los pantalones con una correa en el pecho. Esa mirada es *tan* 2240.}
+{215}{}{A quién llamas "un poco extraño", que tubby tuerto hijo de puta? [Ataque.]}
+{220}{}{[Su sonrisa se tambalea un poco y él asiente con la cabeza.] Bien, a los negocios, a continuación,. Dime, amigo, ¿alguna vez has escuchado
+ de un pequeño artículo llamado... un estimulante? [Como él dramáticamente habla de la última palabra, se produce un estimulante de su abrigo
+ bolsillo y la sostiene como un maravilloso artefacto.]}
+{230}{}{[Sus ojos se va y deja a un bajo silbido.] El Elegido, ¿eh? Además el color me impresionó. Ahora vamos a decir
+ hemos de llegar a los negocios. Dime, amigo, ¿alguna vez has oído hablar de un pequeño artículo llamado... un estimulante? [Como él dramáticamente
+ habla de la última palabra, se produce un estimulante de su bolsillo de la chaqueta y se sostiene como un maravilloso artefacto.]}
+{240}{}{Lo que usted diga, amigo. Ahora vamos a ir al grano, vamos? ¿Alguna vez has oído hablar de un pequeño artículo llamado...
+ un estimulante? [Como él dramáticamente habla de la última palabra, se produce un estimulante de su bolsillo de la chaqueta y la sostiene como una
+ maravilloso artefacto.]}
+{241}{}{Uh, sí. En realidad, son bastante comunes.}
+{242}{}{Por supuesto. De hecho, yo atesoran las cosas. El infierno, estoy prácticamente un estimulante junkie.}
+{243}{}{[Sacude la cabeza y mira fijamente el punto de maravilla.] Lo que es... stim-pak?}
+{250}{}{[Él sonríe nerviosamente.] Yo no diría que eres *común*, pero son sin duda codiciado por nosotros civilizado de la gente.
+ [Mira a Krom.] Y por una buena razón. Se puede ver, estos chicos poco a contener poderes curativos mágicos que se *astound*
+ y *amaze* de ti. Por supuesto, las palabras no significan nada sin la prueba, así que me permita mostrar las maravillas de la estimulante en acción.}
+{251}{}{[Sus ojos momentáneamente se endurece, pero rápidamente se recupera la compostura y se ve en Krom.] Se puede ver, estos chicos poco
+ contienen poderes curativos mágicos que se *asombrar y sorprender a* de ti. Por supuesto, las palabras no significan nada sin pruebas, de modo que
+ me mostrará las maravillas de la estimulante en acción.}
+{252}{}{Una excelente pregunta de mi amigo! Un estimulante es una de las muchas maravillas que nos dejó el Viejo Mundo. Usted ve,
+ estos chicos poco a contener poderes curativos mágicos que se *asombrar y sorprender a* de ti. Por supuesto, las palabras no significan nada sin
+ la prueba, de modo que me permita mostrar las maravillas de la estimulante en acción.}
 {253}{}{This should be interesting. Let's see it.}
-{254}{}{I already know how they work, I've used them myself plenty of times.}
-{260}{}{[He grins at you and Krom, then turns to one of his bodyguards.] Warren, come give me your hand. [The guard frowns,
- but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm. Warren
- winces with pain but does not cry out. Roy grins at you.] As you can see, Warren's got quite a nasty gash here.}
+{254}{}{Ya sé cómo funcionan, yo he utilizado yo mismo un montón de veces.}
+{260}{}{[Sonríe antes de que usted y Krom, luego se vuelve hacia uno de sus guardaespaldas.] Warren, ven dame tu mano. [La guardia frunce el ceño,
+ pero hace lo que él dice. Roy rápidamente saca un cuchillo y barras través de la parte superior de Warren en el brazo. Warren
+ hace una mueca de dolor pero no grita. Roy sonríe a usted.] Como se puede ver, Warren tiene bastante desagradable gash aquí.}
 {261}{}{[MÁS]}
-{262}{}{I assure you friends, the cut, and Warren's pain, are quite genuine. You can see this is no trick blade. [He hands
- the knife to Krom, who hardly glances at it before nodding and handing it back.] But now, look. [He injects the stimpak
- into Warren's arm. Almost instantly, the bleeding stops. Roy uses a dirty rag to mop away most of the blood, revealing a
- gash that's nearly healed.]}
+{262}{}{Os aseguro, amigos, el corte, y Warren dolor, son muy auténtico. Usted puede ver que esto no es ningún truco de la cuchilla. [Él las manos
+ el cuchillo para Krom, que apenas miradas en él antes de asintiendo con la cabeza y se la entregó de nuevo.] Pero ahora, miren. [Él inyecta el estimulante
+ en Warren brazo. Casi al instante, el sangrado se detiene. Roy utiliza un sucio trapo para absorber a la mayoría de la sangre, revelando una
+ herida que casi curado.]}
 {263}{}{[MÁS]}
-{264}{}{Now just imagine the advantage having stimpaks would give you over your rival tribes. And unlike that healing
- powder you fellas like to brew up, the stimpak does *not* cause drowsiness. In fact, this little wonder is completely
- *without* side effects. But I know what you're thinking, they must cost a fortune, right? Wrong. Because I *like* you,
- I'm practically giving 'em away for nothing.}
-{270}{}{[Ignoring your comment, he grins at Krom, then turns to one of his bodyguards.] Warren, come give me your hand.
- [The guard frowns, but does as he's told. Roy quickly takes out a knife and slashes it across the top of Warren's arm.
- Warren winces with pain but does not cry out.] As you can see, Warren's got quite a nasty gash here.}
+{264}{}{Ahora imagínese que la ventaja de tener estimulantes daría por encima de su rival tribus. Y a diferencia de la sanación
+ el polvo que chicos como a la cerveza, el estimulante *no* causar somnolencia. De hecho, esta pequeña maravilla es completamente
+ *sin* efectos secundarios. Pero yo sé lo que estás pensando, que debe costar una fortuna, ¿verdad? Mal. Porque me *gusta* usted,
+ Estoy prácticamente de dar 'em lejos para nada.}
+{270}{}{[Ignorando su comentario, sonríe antes de Krom, luego se vuelve hacia uno de sus guardaespaldas.] Warren, ven dame tu mano.
+ [La guardia frunce el ceño, pero se hace lo que él dice. Roy rápidamente saca un cuchillo y barras través de la parte superior de Warren en el brazo.
+ Warren hace una mueca de dolor pero no grita.] Como se puede ver, Warren tiene bastante desagradable gash aquí.}
 {275}{}{¿Cuánto?}
-{276}{}{Practically giving them away? How much are you asking?}
-{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks--and all I ask in return is a measly *twenty*
- golden gecko pelts. You just can't beat a deal like that.}
-{281}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
-{282}{}{That's a good deal alright. Too good. What's the catch?}
+{276}{}{Prácticamente regalando? Cuánto pides?}
+{280}{}{Te voy a dar toda esta jaula llena de em-que es *cincuenta* estimulantes -, y todo lo que pido a cambio es un mísero *veinte*
+ golden gecko de las pieles. Usted simplemente no puede vencer a un acuerdo como el que.}
+{281}{}{[A Krom.] Él está en lo correcto, esa es una buena oferta. Genial, la verdad. [Roy.] Nosotros nos encargamos de hacerlo.}
+{282}{}{Es un buen trato bien. Demasiado buena. ¿Cuál es la trampa?}
 {283}{}{We'll offer you ten golden gecko skins. No more.}
 {284}{}{Let me think it over for a moment.}
 {285}{}{No hay trato.}
-{290}{}{[Roy's face lights up.] Excellent choice! It's a deal then. [The items are quickly exchanged, then Roy hastens
- off to his next stop.]}
-{300}{}{[Roy chuckles and glances at his bodyguards before returning his eye to you.] Look, a single stimpak is worth much
- more than a single golden pelt. So you see, I'm already offering them to you at an outrageous discount. To ask more of me
- would be robbery. Twenty pelts, or I'll move on to a tribe that's more reasonable.}
+{290}{}{[Roy ilumina el rostro.] Excelente opción! Es un trato entonces. [Los artículos son rápidamente intercambiados, a continuación, Roy se apresura
+ a su próxima parada.]}
+{300}{}{[Roy risas y miradas a sus guardaespaldas antes de regresar su mirada a usted.] Mira, una sola estimulante vale mucho
+ más de una sola de oro pelt. Así que ya ves, ya estoy ofreciendo a usted en un escandaloso de descuento. Para pedir más a mí
+ sería robo. Veinte de las pieles, o voy a pasar a una tribu que es más razonable.}
 {301}{}{Alright. We'll do it.}
 {302}{}{Then you better get moving. No deal.}
 {303}{}{Let me think about it a moment.}
-{305}{}{[Roy frowns and scratches his scruffy neck. Finally, he lets out a long sigh.] You're killing me, you know that?
- But as a favor to your tribe, I'll accept your deal. [The items are quickly exchanged, then Roy hastens off to his next
- stop.]}
-{310}{}{[He frowns.] I don't know what kind of an idiot would turn down a deal like this. [He shakes his head and turns
- to his men.] Alright, let's go. [He glances back at you.] And fuck you for wasting my time.}
+{305}{}{[Roy, frunce el ceño y arañazos a su desaliñado cuello. Finalmente, dejó salir un largo suspiro.] Usted está matando a mí, sabes que?
+ Pero como un favor a su tribu, voy a aceptar tu oferta. [Los artículos son rápidamente intercambiados, a continuación, Roy se apresura a su lado
+ la parada.]}
+{310}{}{[Él frunce el ceño.] No sé qué clase de idiota a su vez hacia abajo a un acuerdo como este. [Sacude la cabeza y vuelve
+ para sus hombres.] Muy bien, vamos a ir. [Él la mirada en usted.] Y vete a la mierda por desperdiciar mi tiempo.}
 {311}{}{[Let them leave.]}
 {312}{}{[Attack]}
-{320}{}{No catch, my friend. I simply already have all the stimpaks I need, so I'm offloading my excess supply.
- Golden pelts, on the other hand... I could never have enough of those. Sure, fifty stimpaks are worth far more than
- a mere twenty golden gecko pelts, but I'm being realistic. I can't expect your tribe -- skilled hunters though I'm sure
- you are -- to have a hundred golden gecko hides laying around, so I'm making a more reasonable offer. *That's* why it's
- such a good deal.}
-{321}{}{[To Krom.] He's right, that's a good deal. Great, actually. [To Roy.] We'll do it.}
-{322}{}{Before we agree to anything, I'd like to have a look at the rest of the goods.}
-{330}{}{[His eye narrows slightly, then he grins.] Of course. They're in this crate next to me.}
+{320}{}{No hay trampa, mi amigo. Yo simplemente ya tienen todos los estimulantes que yo necesito, así que yo soy la descarga de mi exceso de oferta.
+ De oro de las pieles, en el otro lado... yo nunca podría tener suficiente de ellos. Seguro, cincuenta estimulantes valen mucho más que
+ un mero veinte golden gecko pieles, pero estoy siendo realista. Yo no puede esperar que su tribu -- cazadores expertos, aunque estoy seguro de que
+ usted está -- para tener un centenar de oro gecko oculta por ahí, así que estoy haciendo una más oferta razonable. *Eso* ¿por qué es
+ un buen trato.}
+{321}{}{[A Krom.] Él está en lo correcto, esa es una buena oferta. Genial, la verdad. [Roy.] Nosotros nos encargamos de hacerlo.}
+{322}{}{Antes de estar de acuerdo con nada, me gustaría echar un vistazo a el resto de los bienes.}
+{330}{}{[Sus ojos se estrecha ligeramente, entonces él sonríe.] Por supuesto. Están en esta jaula junto a mí.}
 {331}{}{[HECHO]}
-{340}{}{Alright, but don't take too long. We've got another stop to make before nightfall.}
-{350}{}{Alright, if you're done messing around, let's get this show on the road. I'm a busy man.}
+{340}{}{Bien, pero no tome demasiado tiempo. Tenemos otra parada para hacer antes de la noche.}
+{350}{}{Bien, si estás hecho cachondeo, vamos a conseguir que este espectáculo en el camino. Yo soy un hombre ocupado.}
 {351}{}{Alright. We'll accept the deal.}
 {352}{}{No hay trato.}
 {353}{}{I need to think about this a little more.}
 {354}{}{I've got a new deal for you: give us the stimpaks, and you get to keep your life.}
-{360}{}{You're a busy guy, huh? You're also a liar and a cheat.}
-{361}{}{Those stimpaks are fake. They're nothing but hypodermics filled with brahmin blood. You were trying to rip this tribe off.}
+{360}{}{Eres un hombre ocupado, ¿eh? Eres un mentiroso y un tramposo.}
+{361}{}{Los estimulantes son falsos. No son sino hypodermics lleno de brahmán de la sangre. Estaban tratando de extraer esta tribu off.}
 {362}{}{I need to think about this a little more.}
 {363}{}{Alright. We'll accept the deal.}
-{370}{}{[He shifts uncomfortably, and casts a nervous glance at Krom.] Wh-what are you talking about?}
-{371}{}{Those stimpaks are fake. They're nothing but hypodermics filled with brahmin blood. You were trying rip this
- tribe off.}
-{372}{}{Wha-- that's impossible. You saw the demonstration. They work fine. I'm not going to stand here and let you try
- and ruin my good name.}
-{373}{}{Sure, the stimpak you used during the demonstration was real. But I'd like to see you try it again using one of the stimpaks in that crate.}
-{374}{}{Fuck your good name. It's not going to be any use to you after I'm done. [Attack.]}
-{380}{}{[He sneers.] Alright! Fine! If you say they're fake, then maybe they are. How should I know? I didn't make the
- fucking things -- I bought 'em. So *I'm* the one that was ripped off here -- not you. Now, since there's no deal, I'm not
- gonna waste my time here any longer. Bye.}
+{370}{}{[Él se mueve incómodamente, y proyecta una nerviosa mirada a Krom.] Wh-¿de qué estás hablando?}
+{371}{}{Los estimulantes son falsos. No son sino hypodermics lleno de brahmán de la sangre. Estás tratando de extraer esta
+ la tribu de descuento.}
+{372}{}{Wha-eso es imposible. Usted vio la demostración. Ellos trabajan muy bien. Yo no voy a estar aquí y vamos a intentar
+ y arruinar mi buen nombre.}
+{373}{}{Seguro, el estimulante que se utiliza durante la manifestación fue real. Pero me gustaría ver que lo intente de nuevo usando uno de los estimulantes en ese cajón.}
+{374}{}{A la mierda tu buen nombre. No va a ser de alguna utilidad para usted después de que estoy hecho. [Ataque.]}
+{380}{}{[Él se burla.] Bien! Bien! Si usted dice que son falsos, entonces tal vez se. ¿Cómo debo saber? Yo no tenía la
+ follando cosas, me compré 'em. Así que *estoy* el que fue estafado aquí-no a usted. Ahora, ya que no hay trato, yo no soy
+ voy a perder mi tiempo aquí por más tiempo. Bye.}
 {381}{}{[Let them leave.]}
 {382}{}{[Attack]}
-{390}{}{Who the fuck do you think you are? [To his bodyguards.] Kill these goddamn tribals!}
+{390}{}{Quién coño te crees que eres? [A su guardaespaldas.] Matar a estos maldita tribales!}

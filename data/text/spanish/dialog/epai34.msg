@@ -1,9 +1,9 @@
 {100}{}{You see a peculiar machine.}
-{101}{}{The machine that controls the hologram projection for the hologram in this room.}
-{103}{}{A fault in the machine is found and quickly fixed.}
+{101}{}{La máquina que controla el holograma de la proyección del holograma en esta habitación.}
+{103}{}{Un fallo en la máquina se encuentra y rápidamente fija.}
 {104}{}{This machine is already fixed.}
-{105}{}{Looks like there was interference occurring which caused the hologram's speech to become garbled.}
-{106}{}{Fixing this machine seems too complicated.}
+{105}{}{Parece que no fue la interferencia que ocurren, que causó el holograma del discurso distorsionadas.}
+{106}{}{La fijación de esta máquina parece demasiado complicado.}
 {107}{}{What am I looking for here?}
-{108}{}{Damn. This too hard for me. Repair just isn't my forte.}
-{109}{}{Damn, even with these tools this is too hard for me. Repair just isn't my forte.}
+{108}{}{Maldita sea. Esta demasiado duro para mí. Reparación no es mi fuerte.}
+{109}{}{Maldita sea, incluso con estas herramientas, esto es demasiado duro para mí. Reparación no es mi fuerte.}

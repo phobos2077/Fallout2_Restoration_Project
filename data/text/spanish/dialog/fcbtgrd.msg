@@ -1,25 +1,25 @@
-{100}{}{You see a vigilant Shi guard.}
-{101}{}{This scowling man appears to be guarding the motorboat. He seems to be taking his job very seriously.}
-{200}{}{[He eyes you suspiciously.] Help you with something?}
-{201}{}{Nope. I'm all set. Bye.}
-{202}{}{I was just wondering what you're doing.}
-{203}{}{Say, that's a nice boat you got there. Does that thing still work?}
-{204}{}{Me ride metal fishy-fish?}
-{210}{}{None of your business, outsider. Piss off.}
-{211}{}{Poor choice of words, asshole. They're gonna be your last.}
-{212}{}{I can take a hint. No need to be a dick about it. Bye.}
-{213}{}{Whatever you say, buddy.}
-{220}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride metal fishy-fish. You go. You go, or I shoot. Understand?}
+{100}{}{Usted ve un vigilante Shi guardia.}
+{101}{}{Esto con mala cara el hombre parece ser que custodiaban la lancha. Parece que se toma su trabajo muy en serio.}
+{200}{}{[Él los ojos con suspicacia.] Ayudar con algo?}
+{201}{}{Nope. Yo estoy listo. Bye.}
+{202}{}{Me preguntaba lo que estás haciendo.}
+{203}{}{Decir, que un buen barco llegó allí. ¿Que cosa todavía funcionan?}
+{204}{}{Me paseo de metal de pescado-pescado?}
+{210}{}{Ninguno de su negocio, forastero. Cabrear.}
+{211}{}{Mala elección de palabras, imbécil. Está va a ser la última.}
+{212}{}{Puedo tomar una pista. No hay necesidad de ser una polla al respecto. Bye.}
+{213}{}{Lo que usted diga, amigo.}
+{220}{}{[Él te mira como si eres más tonto de la criatura que él podría imaginar. Lentamente, él sacude su cabeza.] Usted no andar de metal de pescado-pescado. Que vaya. Vaya, o que dispare. Entender?}
 {221}{}{Okie, bu-bye!}
-{222}{}{You meanie-man. Me smash meanie-man!}
-{230}{}{[The guard grips his weapon and glares at you wordlessly.]}
-{231}{}{Can I borrow your boat for a minute?}
-{232}{}{I was just checking to see if you're still an asshole. Yep, looks like you are. Bye.}
-{233}{}{Sorry, I thought you were, uh, someone else. Bye.}
-{234}{}{I hope you know how to use that thing, 'cause I plan on taking that fucking boat, one way or another.}
-{240}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] No. Now go away. Ask me another question, and I'll hurt you.}
-{241}{}{Alright, I'm going. Bye.}
-{242}{}{Is that a fact?}
+{222}{}{Usted meanie-hombre. Me smash meanie-hombre!}
+{230}{}{[La guardia empuñaduras de sus armas y la mira a usted sin palabras.]}
+{231}{}{¿Me prestas tu barco por un minuto?}
+{232}{}{Estaba revisando para ver si todavía eres un idiota. Sí, parece que son. Bye.}
+{233}{}{Lo siento, pensé que eras, uh, alguien más. Bye.}
+{234}{}{Espero que usted sepa cómo usar esa cosa, porque tengo la intención de tomar ese maldito barco, de una manera o de otra.}
+{240}{}{[Él te mira como si eres más tonto de la criatura que él podría imaginar. Lentamente, él sacude su cabeza.] No. Ahora desaparece. Hacerme otra pregunta, y voy a hacerte daño.}
+{241}{}{Bien, me voy. Bye.}
+{242}{}{Es que un hecho?}
 {250}{}{¡Lárgate de aquí!}
-{251}{}{Touch that again and I'll kill you.}
-{252}{}{I warned you!}
+{251}{}{Toque de nuevo y te voy a matar.}
+{252}{}{Yo lo advertí!}

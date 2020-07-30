@@ -1807,41 +1807,41 @@
 {179500}{}{Muro}
 {179600}{}{Hatchway}
 {179700}{}{Hatchway}
-{179800}{}{Internal Submarine Wall}
-{179900}{}{Internal Submarine Wall}
-{180000}{}{Internal Submarine Wall}
-{180100}{}{Internal Submarine Wall}
-{180200}{}{External Submarine Wall}
-{180300}{}{External Submarine Wall}
-{180400}{}{External Submarine Wall}
-{180500}{}{External Submarine Wall}
-{180600}{}{External Submarine Wall}
-{180700}{}{External Submarine Wall}
-{180800}{}{External Submarine Wall}
-{180900}{}{External Submarine Wall}
-{181000}{}{External Submarine Wall}
-{181100}{}{External Submarine Wall}
-{181200}{}{Internal Submarine Wall}
-{181300}{}{Internal Submarine Wall}
-{181400}{}{Internal Submarine Wall}
-{181500}{}{External Submarine Wall}
-{181600}{}{External Submarine Wall}
-{181700}{}{External Submarine Wall}
-{181800}{}{External Submarine Wall}
-{181900}{}{External Submarine Wall}
-{182000}{}{External Submarine Wall}
-{182100}{}{External Submarine Wall}
-{182200}{}{External Submarine Wall}
-{182300}{}{External Submarine Wall}
-{182400}{}{Internal Submarine Wall}
-{182500}{}{Internal Submarine Wall}
-{182600}{}{Internal Submarine Wall}
+{179800}{}{Interna Submarino De La Pared}
+{179900}{}{Interna Submarino De La Pared}
+{180000}{}{Interna Submarino De La Pared}
+{180100}{}{Interna Submarino De La Pared}
+{180200}{}{Externo Submarino De La Pared}
+{180300}{}{Externo Submarino De La Pared}
+{180400}{}{Externo Submarino De La Pared}
+{180500}{}{Externo Submarino De La Pared}
+{180600}{}{Externo Submarino De La Pared}
+{180700}{}{Externo Submarino De La Pared}
+{180800}{}{Externo Submarino De La Pared}
+{180900}{}{Externo Submarino De La Pared}
+{181000}{}{Externo Submarino De La Pared}
+{181100}{}{Externo Submarino De La Pared}
+{181200}{}{Interna Submarino De La Pared}
+{181300}{}{Interna Submarino De La Pared}
+{181400}{}{Interna Submarino De La Pared}
+{181500}{}{Externo Submarino De La Pared}
+{181600}{}{Externo Submarino De La Pared}
+{181700}{}{Externo Submarino De La Pared}
+{181800}{}{Externo Submarino De La Pared}
+{181900}{}{Externo Submarino De La Pared}
+{182000}{}{Externo Submarino De La Pared}
+{182100}{}{Externo Submarino De La Pared}
+{182200}{}{Externo Submarino De La Pared}
+{182300}{}{Externo Submarino De La Pared}
+{182400}{}{Interna Submarino De La Pared}
+{182500}{}{Interna Submarino De La Pared}
+{182600}{}{Interna Submarino De La Pared}
 {182700}{}{Hatchway}
 {182800}{}{Hatchway}
-{182900}{}{Internal Submarine Wall}
-{183000}{}{Internal Submarine Wall}
-{183100}{}{Internal Submarine Wall}
-{183200}{}{Internal Submarine Wall}
+{182900}{}{Interna Submarino De La Pared}
+{183000}{}{Interna Submarino De La Pared}
+{183100}{}{Interna Submarino De La Pared}
+{183200}{}{Interna Submarino De La Pared}
 {183300}{}{Muro}
 {183400}{}{Muro}
 {183500}{}{Glowing Cave Wall}
