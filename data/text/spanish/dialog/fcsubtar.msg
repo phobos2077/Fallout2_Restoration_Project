@@ -1,4 +1,4 @@
-{100}{}{You see an old console.}
+{100}{}{Usted ve una vieja consola.}
 {101}{}{Parece que esta es la edad de torpedos de destino de la consola de control. La mayoría de los monitores estén dañados o que faltan, con
  sólo una sola apenas operativo. De bits aleatorios de los datos que aparecen en la pantalla que parpadea de vez en cuando.}
 {200}{}{El sistema operativo parece estar dañado, ya que no responde a sus comandos como se debe. Usted podría

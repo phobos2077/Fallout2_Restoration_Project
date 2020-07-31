@@ -2770,7 +2770,7 @@
 {40964}{}{Apuntas por apuntar. Yo disparo a matar.}
 {40965}{}{No tienes lo que se necesita para acabar conmigo.}
 {40966}{}{Parece que además de estúpido eres ciego.}
-{40967}{}{Missed me by a few % points.}
+{40967}{}{Me perdió por un par de puntos porcentuales.}
 {40968}{}{Debes de ser un cegato hijoputa.}
 {40969}{}{Has fallado. En el siguiente turno, vas a perder la cabeza.}
 {40970}{}{Demonios, soy un fósil y puedo hacerlo mejor que tú.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Mal funcionamiento en los sistemas.}
 {44437}{}{Sistemas energéticos fluctuando. Activando energía de reserva.}
 {44438}{}{Comprometida integridad estructural primaria. Circuitos principales expuestos.}
-{44439}{}{Power conditioning unit damage. Operating at 75% capacity.}
+{44439}{}{Acondicionamiento de la energía de la unidad de daño. Operativo en el 75% de su capacidad.}
 {44460}{}{Impacto en unidad motriz derecha. Daño mínimo.}
 {44461}{}{Eje derecho desalineado.}
 {44462}{}{Rueda derecha dañada.}
@@ -3386,13 +3386,13 @@
 {44547}{}{Resumiendo ataque sobre objetivo.}
 {44548}{}{Comenzando ataque.}
 {44549}{}{Eliminando amenaza.}
-{44560}{}{Target missed.}
-{44561}{}{Sensors indicate enemy target missed.}
-{44562}{}{Negative damage inflicted. Adjusting targeting scanners.}
-{44563}{}{Enemy missed. Recalibrating targeting sensors.}
-{44564}{}{Error. Malfunction in targeting sensors.}
-{44565}{}{Analyzing firing data... corrections complete.}
-{44566}{}{Enemy target undamaged.}
+{44560}{}{Destino perdido.}
+{44561}{}{Los sensores indican objetivo enemigo perdidas.}
+{44562}{}{Negativo daño infligido. Ajuste de la orientación de los escáneres.}
+{44563}{}{Enemigo perdidas. Recalibrar la orientación de los sensores.}
+{44564}{}{Error. Mal funcionamiento en la orientación de los sensores.}
+{44565}{}{El análisis de la cocción de datos... correcciones completa.}
+{44566}{}{Objetivo enemigo en buen estado.}
 {44800}{}{Tengo la cabeza dura, pero eso ha dolido.}
 {44801}{}{Eso me va a producir un infernal dolor de cabeza.}
 {44802}{}{Umph. ¡En la cabeza no!}
@@ -3535,106 +3535,106 @@
 {60040}{}{Whrrr. Clic. Clic. ¡Guau!}
 {60041}{}{¡Arg! Clic. ¡Guau!}
 {60060}{}{Acción ofensiva evadida.}
-{70000}{}{You better hope that doesn't leave a scar.}
-{70001}{}{Woah! Not the face!}
-{70002}{}{My face! My beautiful face!}
-{70003}{}{Hey! Don't mess with perfection.}
-{70004}{}{Try that again motherfucker and see what happens.}
-{70010}{}{That hurt, asshole.}
-{70011}{}{Shit! My arm!}
-{70012}{}{Hey, lay off the guns.}
-{70013}{}{Son of a bitch, that hurt!}
-{70020}{}{That hurt, asshole.}
-{70021}{}{Shit! My arm!}
-{70022}{}{Hey, lay off the guns.}
-{70023}{}{Son of a bitch, that hurt!}
+{70000}{}{Es mejor que la esperanza que no deja una cicatriz.}
+{70001}{}{Woah! No la cara!}
+{70002}{}{¡La cara! ¡Mi cara bonita!}
+{70003}{}{Hey! No se metan con la perfección.}
+{70004}{}{Trate de que el nuevo hijo de puta y a ver qué pasa.}
+{70010}{}{Que lastima, imbécil.}
+{70011}{}{Mierda! Mi brazo!}
+{70012}{}{Hey, despídete de las armas de fuego.}
+{70013}{}{Hijo de puta, ¡eso duele!}
+{70020}{}{Que lastima, imbécil.}
+{70021}{}{Mierda! Mi brazo!}
+{70022}{}{Hey, despídete de las armas de fuego.}
+{70023}{}{Hijo de puta, ¡eso duele!}
 {70030}{}{Estoy técnicamente más de un centenar de ochenta años de edad, usted debe sentirse avergonzado.}
 {70031}{}{Estoy sangrando... que no se cómo se supone que funciona.}
-{70032}{}{You can't kill me, I've got the heart of a demon.}
-{70033}{}{Hit me again and I'll knife you in the groin.}
-{70040}{}{You trying to make me a gimp?}
-{70041}{}{Ah! My knee!}
-{70042}{}{Shit! My leg!}
-{70043}{}{You gave me a fucking Charley horse!}
-{70050}{}{You trying to make me a gimp?}
-{70051}{}{Ah! My knee!}
-{70052}{}{Shit! My leg!}
-{70053}{}{You gave me a fucking Charley horse!}
+{70032}{}{Usted no puede matar a mí, tengo el corazón de un demonio.}
+{70033}{}{Me golpeó de nuevo y voy a cuchillo en la ingle.}
+{70040}{}{Tratando de hacer de mí un gimp?}
+{70041}{}{Ah! Mi rodilla!}
+{70042}{}{Mierda! Mi pierna!}
+{70043}{}{Usted me dio un puto Charley horse!}
+{70050}{}{Tratando de hacer de mí un gimp?}
+{70051}{}{Ah! Mi rodilla!}
+{70052}{}{Mierda! Mi pierna!}
+{70053}{}{Usted me dio un puto Charley horse!}
 {70060}{}{¡Mis ojos!}
-{70061}{}{Oh fuck, not my eyes!}
-{70062}{}{MAh! I can't see shit!}
-{70063}{}{My eyes! My dreamboat eyes!}
-{70070}{}{FUCK!}
-{70071}{}{You just made this REAL personal.}
-{70072}{}{Oh, you're going to regret that.}
+{70061}{}{Oh mierda, no mis ojos!}
+{70062}{}{MAh! Yo no puedo ver la mierda!}
+{70063}{}{Mis ojos! Mi dreamboat ojos!}
+{70070}{}{¡JODER!}
+{70071}{}{Usted acaba de hacer este personal REAL.}
+{70072}{}{Oh, te vas a arrepentir de eso.}
 {70073}{}{Que es la parte superior de la línea de pre-guerra tech estás follando con.}
 {70074}{}{Celosa?}
 {70075}{}{Whoa! Whoa! Whoa! Que estaba fuera de lugar!}
 {70100}{}{Verás, todo esto fue un gran malentendido.}
-{70101}{}{I'm sorry alright, now leave me alone.}
-{70102}{}{Fuck this, I'm outta' here.}
-{70103}{}{I'll come back later and knife you in your sleep.}
-{70104}{}{It was just a joke.}
-{70105}{}{I'm terribly sorry, I don't know what came over me.}
+{70101}{}{Me siento bien, ahora me deja solo.}
+{70102}{}{Esta mierda, me voy de aquí.}
+{70103}{}{Voy a volver más tarde y cuchillo en su sueño.}
+{70104}{}{Era sólo una broma.}
+{70105}{}{Estoy terriblemente triste, no sé qué se apoderó de mí.}
 {70106}{}{Se me hizo hacerlo, te lo juro!}
 {70107}{}{Déjame vivir y nunca me voy a matar de nuevo, lo prometo!}
-{70108}{}{Can't we just talk this over like civilized people?}
-{70120}{}{Oh, I'm going to enjoy this.}
-{70121}{}{I can't wait to hear some screams.}
-{70122}{}{I've been just itching to kill...}
+{70108}{}{No podemos simplemente hablar de esto como personas civilizadas?}
+{70120}{}{Oh, yo voy a disfrutar de esto.}
+{70121}{}{Yo no puedo esperar a escuchar algunos gritos.}
+{70122}{}{He sido justo con ganas de matar...}
 {70123}{}{Tiempo para disfrutar de las alegrías de un unpoliced de la sociedad.}
 {70124}{}{Bien! Ingle tiempo de disparo!}
 {70140}{}{Grita para mí.}
-{70141}{}{Let me get a better look at your blood.}
-{70142}{}{I'll try and make this as painful as possible.}
-{70143}{}{This violence is giving me a hard-on.}
-{70160}{}{What a fuckin' joke.}
-{70161}{}{Holy shit do you suck.}
+{70141}{}{Me permite obtener un mejor aspecto en su sangre.}
+{70142}{}{Voy a tratar de hacer esto lo más dolorosa posible.}
+{70143}{}{Esta violencia me está dando un duro en.}
+{70160}{}{Lo que una puta broma.}
+{70161}{}{Holy shit hacer que usted aspira.}
 {70162}{}{Tienes suerte te perdiste. En realidad, no estás de suerte, porque todavía voy a matar a usted.}
-{70163}{}{Way to fail, champ.}
-{70200}{}{You best hope that don't leave a scar...}
-{70201}{}{Damn! You chipped my tooth, monkey!}
-{70202}{}{Hey! Watch the face!}
-{70210}{}{Shit! You got my arm!}
-{70211}{}{Ohh, that stings!}
-{70212}{}{That's gonna leave an ugly smegging bruise.}
-{70220}{}{Shit! You got my arm!}
-{70221}{}{Ohh, that stings!}
-{70222}{}{That's gonna leave an ugly smegging bruise.}
+{70163}{}{Manera de fracasar, campeón.}
+{70200}{}{La mejor esperanza de que no deje una cicatriz...}
+{70201}{}{Maldita sea! Astillas de mi diente, mono!!!}
+{70202}{}{Hey! Ver la cara!}
+{70210}{}{Mierda! Tienes mi brazo!}
+{70211}{}{Ohh, que pica!}
+{70212}{}{Que va a dejar una fea smegging moretón.}
+{70220}{}{Mierda! Tienes mi brazo!}
+{70221}{}{Ohh, que pica!}
+{70222}{}{Que va a dejar una fea smegging moretón.}
 {70230}{}{Ah! A la derecha en mi smegging pecho!}
-{70231}{}{There goes one of my lives...}
-{70232}{}{You missed my heart, monkey!}
-{70240}{}{You can't keep this cat from strutting.}
+{70231}{}{Ahí va uno de mis vidas...}
+{70232}{}{Se ha perdido mi corazón, mono!!!}
+{70240}{}{Usted no puede mantener a este gato de pavoneándose.}
 {70241}{}{Mierda, justo en mi rodilla!}
-{70242}{}{You can't slow me down!}
-{70250}{}{You can't keep this cat from strutting.}
+{70242}{}{Usted no puede slow me down!}
+{70250}{}{Usted no puede mantener a este gato de pavoneándose.}
 {70251}{}{Mierda, justo en mi rodilla!}
-{70252}{}{You can't slow me down!}
-{70260}{}{Motherfucker hit me in the eyes!}
-{70261}{}{Oh! I think my eye's bleeding!}
+{70252}{}{Usted no puede slow me down!}
+{70260}{}{Hijo de puta me golpeó en los ojos!}
+{70261}{}{Oh! Creo que mi ojo sangrando!}
 {70262}{}{¡Mis ojos!}
-{70270}{}{Whoa, no hitting below the belt.}
+{70270}{}{Whoa, no golpear debajo del cinturón.}
 {70271}{}{Pasando por la zona de la ingle no es "cool". No mola nada.}
 {70272}{}{Hey ahora! La ingle es fuera de límites.}
 {70273}{}{Este gato no quiero ser castrado!}
 {70300}{}{Un gato tiene que cuidar de sí mismo!}
-{70301}{}{Screw it, you're not worth it.}
-{70302}{}{Fuck this, I'm outta' here.}
+{70301}{}{Tornillo, no eres digno de él.}
+{70302}{}{Esta mierda, me voy de aquí.}
 {70303}{}{Tengo Jet mientras que todavía tengo una vida libre.}
-{70304}{}{You won this time, monkey!}
-{70320}{}{Don't worry, this'll be over *real* soon.}
-{70321}{}{This cat's about to pounce!}
-{70322}{}{Let's waste these smegheads.}
+{70304}{}{Has ganado esta vez, mono!!!}
+{70320}{}{No te preocupes, esto va a ser más *real* pronto.}
+{70321}{}{Este gato a punto de saltar!}
+{70322}{}{Vamos a los residuos de estas smegheads.}
 {70340}{}{Date prisa y morir para que yo pueda ir a tomar una siesta.}
-{70341}{}{At least I'm killing you with style.}
-{70342}{}{You best not bleed on my clothes. }
-{70343}{}{I better not break a nail. }
-{70360}{}{Looks like this cat's too quick for you.}
-{70361}{}{Now that's just sad.}
-{70362}{}{Here, let me show you how to actually *hit* something.}
+{70341}{}{Al menos estoy matando con estilo.}
+{70342}{}{Mejor no sangrar en mi ropa. }
+{70343}{}{Yo mejor no romperse una uña. }
+{70360}{}{Se parece a este gato es demasiado rápida para usted.}
+{70361}{}{Ahora que es simplemente triste.}
+{70362}{}{Aquí, permítanme mostrarles cómo en realidad *golpear* algo.}
 {70363}{}{El infierno, casi siento lástima por ti. Casi.}
 {70400}{}{¡Ay! ¡Mi cabeza!}
-{70401}{}{I think my ear's bleeding.}
+{70401}{}{Creo que mi oído es el sangrado.}
 {70402}{}{Cào! Espero que no romper mi nariz.}
 {70410}{}{¡Ay! ¡Mi brazo!}
 {70411}{}{¡Maldición, eso duele!}
@@ -3643,7 +3643,7 @@
 {70421}{}{¡Maldición, eso duele!}
 {70422}{}{Al menos no esta roto... no creo.}
 {70430}{}{Creo que me has roto una costilla.}
-{70431}{}{I won't die that easily.}
+{70431}{}{No voy a morir tan fácilmente.}
 {70432}{}{¡Oh! ¡Eso duele!}
 {70440}{}{¡En las piernas no!}
 {70441}{}{¡Ay! Justo en la espinilla.}
@@ -3654,18 +3654,18 @@
 {70460}{}{¡Cào! ¡Mis ojos!}
 {70461}{}{¡Golpe bajo!}
 {70462}{}{Hey! No puedo pagar otra cirugía en el ojo!}
-{70470}{}{I can't believe you just hit me there.}
+{70470}{}{No puedo creer que sólo me golpeó allí.}
 {70471}{}{¡No soy ese tipo de chica!}
-{70472}{}{You just made this *real* personal.}
-{70500}{}{Looks like I've no choice but to run...}
-{70501}{}{I'd rather flee than die.}
+{70472}{}{Usted acaba de hacer esta *real* de carácter personal.}
+{70500}{}{Parece que no tengo más remedio que correr...}
+{70501}{}{Prefiero huir de morir.}
 {70502}{}{De acuerdo. Eso es bastante...}
-{70520}{}{Let's get this over with.}
-{70521}{}{Your death shall come swiftly.}
-{70522}{}{Looks like it's come to this...}
+{70520}{}{Vamos a terminar con esto.}
+{70521}{}{Su muerte vendrá rápidamente.}
+{70522}{}{Parece que vienen a este...}
 {70540}{}{Tú lo has querido.}
-{70541}{}{I take no pleasure from this.}
-{70542}{}{Now you see the consequence of your actions.}
+{70541}{}{No me placer de este.}
+{70542}{}{Ahora se ven las consecuencias de sus acciones.}
 {70560}{}{Caray, eso es paté.}
-{70561}{}{Too quick for you, huh?}
+{70561}{}{Demasiado rápido para usted, ¿eh?}
 {70562}{}{Ni de cerca.}

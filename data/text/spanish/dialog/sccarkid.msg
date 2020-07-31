@@ -15,7 +15,7 @@
 {114}{}{Está dentro. En su oficina. Siempre está allí.}
 {115}{}{¿Dónde está su oficina?}
 {116}{}{De acuerdo. Gracias.}
-{117}{}{By the water tank. I play over there sometimes. I peek on him while he's working.}
+{117}{}{Por el tanque de agua. Puedo jugar por allí algunas veces. Yo mirada en él mientras que él está trabajando.}
 {118}{}{Eres un mocoso molesto, ¿verdad?}
 {119}{}{Gracias, muchacho, me has ayudado mucho.}
 {120}{}{¡No eres bueno, eres un hombre malo! ¡Se lo voy a decir a mi papá!}
@@ -24,7 +24,7 @@
 {123}{}{Dile a tu padre que tengo noticias sobre el señor Bishop. ¿Te acordarás?}
 {124}{}{Fnuh.}
 {125}{}{¡Eres un cerebro de mosquito! ¡Cerebro de mosquito!}
-{126}{}{De acuerdo.}
+{126}{}{Vale.}
 {127}{}{Noticias sobre el señor Bishop. ¿Vale?}
 {128}{}{Bastante bien.}
 {129}{}{Papá dice que no puede verte.}

@@ -30,7 +30,7 @@
 {302}{}{Ahora no. Necesito preguntarte algo.}
 {303}{}{Nope. He de irme.}
 {310}{}{Claro, ¿qué te gustaría saber? Espero que se trate de tostadas.}
-{311}{}{¿Qué es este lugar?}
+{311}{}{¿Qué lugar es éste?}
 {312}{}{No importa. Adiós.}
 {350}{}{Oye, ¡me arreglaste! Sabía que el Sr. Mañoso dejó el trabajo sin terminar. ¡Ahora me siento mejor que nunca! Gracias.}
 {351}{}{Claro, es lo que hago. Nos vemos más tarde.}

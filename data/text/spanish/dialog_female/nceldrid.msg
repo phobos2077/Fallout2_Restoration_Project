@@ -91,7 +91,7 @@
 {386}{}{Claro.}
 {395}{}{(Eldridge toma el objeto y lo examina atentamente). Muy bien... espera un momentito, y veré lo que puedo hacer.
  (Desaparece en la trastienda).}
-{396}{}{De acuerdo.}
+{396}{}{Vale.}
 {400}{}{(Esperas...)}
 {401}{}{Esperas...}
 {405}{}{(Esperas más tiempo...)}
@@ -175,7 +175,7 @@
 {610}{}{Así que te sugiero que salgas de aquí de una puta vez antes de que te pegue un tiro.}
 {700}{}{¡Malditos perros! Volveré a la cama.}
 {701}{}{¡Estúpidos perros! Lo primero que haré mañana será poneros a dormir.}
-{702}{}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
+{702}{}{Le perros cállate! Nadie es lo suficientemente estúpido como para entrar en una tienda de armas!}
 {800}{}{Has entregado una pistola láser a Eldridge.}
 {801}{}{Oye, ¿te parezco un mago? Vas a necesitar la arma si quieres mejorarlo. Ahora vete de aquí y ve a encontrar una que puedo mejorar. ¡Cielos!}
 {802}{}{Vuelve cuando tengas dinero.}

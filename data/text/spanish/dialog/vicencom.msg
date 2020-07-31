@@ -198,10 +198,10 @@
 {302}{}{[CONTINUAR]}
 {303}{}{Después de unos minutos usted es capaz de obtener acceso al archivo bloqueado. Sólo hay un archivo que se enumeran y se
  titulado "Clasificados." Parece que tus puntos de habilidad en la Ciencia están pagando.}
-{304}{}{[Read entry.]}
+{304}{}{[Leer entrada.]}
 {305}{}{La lectura a través de el archivo, parece como si el único propósito de Bóveda 8 era el de actuar como un "control de Bóveda" en una serie de Bóvedas creado por una corporación llamada Vault-Tec.
  La intención era que la Bóveda de 8 a abrir y volver a colonizar la superficie después de 10 años. También parece que la Bóveda 8 no fue la única Bóveda con una finalidad distinta de proteger a sus habitantes de la Gran Guerra.
  Tal vez se puede encontrar más información sobre el verdadero propósito de estas Bóvedas en otro lugar.}
-{306}{}{[Return to archive listing.]}
-{307}{}{[Log off.]}
+{306}{}{[Volver al archivo de listado.]}
+{307}{}{[Cerrar sesión.]}
 {308}{}{Aprender sobre el verdadero propósito de la Bóveda 8 y que no es más que la construcción de todas las Bóvedas que salta a la vista.}

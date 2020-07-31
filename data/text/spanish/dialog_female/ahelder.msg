@@ -68,7 +68,7 @@
 {172}{}{No te fallaré ni a ti ni a nuestra gente, Anciana.}
 {173}{}{Oye. Si crees que tú puedes hacerlo mejor...}
 {174}{aeld19}{Elegido, las cosas no marchan bien. Necesitamos el GECK si nuestro poblado quiere sobrevivir. Nuestra gente se debilita por el hambre y nuestras reservas de comida no durarán mucho más. Por favor encuentra el sagrado Trece y vuelve aquí. Vete ya.}
-{175}{}{Me voy, yo.}
+{175}{}{Yo ir.}
 {176}{}{Muy bien. Me largo de aquí.}
 {177}{}{Haré todo lo que esté en mi mano para encontrar el GECK y salvar a nuestro pueblo.}
 {178}{}{No me presiones, vieja. Hago lo que puedo.}

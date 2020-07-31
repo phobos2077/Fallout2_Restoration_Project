@@ -1,7 +1,7 @@
 {100}{}{Ves una a una niña pequeña que lleva un vestido amarillo.}
 {101}{}{Ves a Sandy, la niña.}
-{102}{}{You see a small girl wearing a yellow dress with flowers on it. She appears to be meowing like
- a cat. She has on a name tag that says "Sandy".}
+{102}{}{Ves a una niña pequeña que lleva un vestido amarillo con flores.  Parece maullar como
+ un gato. Lleva puesta una etiqueta con su nombre donde pone "Sandy".}
 {103}{}{Miau... Miau... Soy un gato. Y tengo poderes especiales que solo tienen los gatos. ¿Qué eres tú?}
 {104}{}{¡Soy un perrito! ¡Guau! ¡Guau! ¡Guau! ¿Quien eres tú?}
 {105}{}{¿Urrrh? (parece un cachorro asustado)}
@@ -39,11 +39,11 @@
  piensa que otros niños vendrán a vivir aquí. Hasta que no lo hagan quiero jugar con Valdis. Es divertido y me hace el caballito. Mamá dice que debo dejar en paz a Valdis. Él está ocupado y no tiene tiempo para jugar conmigo
  aunque siempre juega conmigo cuando se lo pido. No le cuento a mamá nada de esto y ya está.}
 {132}{}{Caballito... (Parece un cachorro confuso)}
-{133}{}{Me voy, yo.}
+{133}{}{Yo ir.}
 {134}{}{Eso está bien.}
 {135}{}{Vale, ya veo.}
 {136}{}{Pues sí. Mamá nos cuida a Valdis y a mí, nadie nos hará daño. Estoy a salvo aquí.}
 {137}{}{De acuerdo. Ahora me voy.}
 {138}{}{Bien; luego me marcho.}
-{139}{}{Buenas.}
+{139}{}{Hola.}
 {140}{}{¡Lárgate! ¡No me gustas!}

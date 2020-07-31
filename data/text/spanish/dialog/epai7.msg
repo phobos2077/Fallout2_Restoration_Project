@@ -1,6 +1,6 @@
 {100}{}{Unauthrorized Acceso Solicitado. Bloqueo de la puerta.}
 {101}{}{La Autorización Concedida. Desbloqueo de la puerta.}
-{102}{}{Door is already unlocked.}
-{103}{}{You see a door to the Security Wing.}
-{104}{}{You see a reinforced door for the Security Wing.}
-{200}{}{There is no lock to pick.}
+{102}{}{La puerta ya está desbloqueado.}
+{103}{}{Usted ve una puerta para la Seguridad del Ala.}
+{104}{}{Usted ve una puerta blindada para la Seguridad del Ala.}
+{200}{}{No hay bloqueo para elegir.}

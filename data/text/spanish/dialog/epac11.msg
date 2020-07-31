@@ -44,7 +44,7 @@
  [Gato destellos de su sonrisa toothy.] Ellos querían un voluntario para uno de sus proyectos. Fue para los scouts y el como, se supone que
  hacer más ágil y flexible. Me gustaba el sonido de eso *lee*. De todos modos, que me dio esta foto, me puso bajo, y
  la siguiente cosa que supe, tenía los dientes, y me sentí.... más nítida? Tipo de depredadores.}
-{302}{}{Sigue.}
+{302}{}{Continúa.}
 {303}{}{Bueno, al parecer, el experimento no iba según lo planeado y lo pusieron dentro de mí no estaba sentado
  así que con mi sistema. No sé lo que quería decir con eso, ya que me sentí mejor que nunca. Se decidió a tirar de mí en
  el crio en el congelador hasta que se dieron cuenta de qué hacer conmigo.}

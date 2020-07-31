@@ -1,12 +1,12 @@
 {100}{}{Ves una computadora funcional.}
-{101}{}{You see the EPA's botany terminal.}
+{101}{}{Ve a la EPA de botánica de la terminal.}
 {200}{}{Bienvenido a la EPA de botánica de la terminal. Por favor seleccione una de las siguientes opciones.}
-{201}{}{Access information database.}
-{202}{}{Access seed storage.}
+{201}{}{Acceso a la información de la base de datos.}
+{202}{}{De acceso de almacenamiento de la semilla.}
 {203}{}{Salir.}
 {210}{}{Actualmente hay dos bases de datos disponibles para su visualización. Por favor, hacer su elección.}
-{211}{}{Access file on crop rotation.}
-{212}{}{Access file on botany.}
+{211}{}{Archivo de acceso en la rotación de cultivos.}
+{212}{}{Archivo de acceso en la botánica.}
 {213}{}{Archivo de acceso de los animales y de la prueba biológica.}
 {214}{}{Atrás.}
 {220}{}{La rotación de cultivos evita una disminución en la fertilidad del suelo, como el crecimiento de la misma cosecha repetidamente en el mismo lugar
@@ -33,9 +33,9 @@
 {240}{}{Este centro ha sido el sitio de varios experimentos de varios animales y vegetales formas de vida. Numerosas pruebas han sido
  hecho en la planta como forma de vida conocida como una de esporas de plantas y algunos animales-como las criaturas conocidas como los Centauros, los Volantes, y Radscorpions.}
 {241}{}{Leer acerca de los planta de experimentos.}
-{242}{}{Read about Spore Plants.}
-{243}{}{Read about Centuars and Floaters.}
-{244}{}{Read about Radscorpions.}
+{242}{}{Leer acerca de las Esporas de las Plantas.}
+{243}{}{Leer acerca de Centuars y los Flotadores.}
+{244}{}{Leer acerca de Radscorpions.}
 {250}{}{Varios experimentos se han realizado a crecer la nueva vida de la planta. Varios de estos intentos han tenido éxito
  y ahora puede ser visto crecer en un estado saludable en el arboretum. Los tanques de almacenamiento en la actualidad indican que las muestras de semillas están todavía disponibles para realizar más pruebas.}
 {251}{}{Una de esporas de la planta es una forma mutada de algunos Venus de la mosca de la trampa-como la planta. Pruebas adicionales, se ha demostrado que la planta es bastante
@@ -57,13 +57,13 @@
 {261}{}{Actual de la EPA de los recipientes de almacenamiento de informe, hay semillas que quedan en el Tanque de Almacenamiento de Dos.}
 {262}{}{Actual de la EPA de los recipientes de almacenamiento de informe, hay semillas que quedaban en el Tanque de Almacenamiento.}
 {263}{}{Actual de la EPA de los recipientes de almacenamiento de informe que no hay más semillas restantes en cualquiera de los Tanques de Almacenamiento.}
-{264}{}{Access Storage Tank One.}
+{264}{}{Acceso Tanque De Almacenamiento.}
 {265}{}{El Acceso Del Tanque De Almacenamiento De Dos.}
 {266}{}{Atrás.}
 {270}{}{Tanque de almacenamiento de informes de los 5 restantes paquetes de Alimentos de los estados UNIDOS Programa de Mejora. Las semillas de las plantas de maíz se han modificado genéticamente
  para ser inmune a la enfermedad y la infestación de insectos.}
 {271}{}{Tanque de almacenamiento de Dos informes en los 2 restantes paquetes de semillas, cada uno de similares o diferentes familias. Ninguna investigación ha sido llevada a cabo y el resultado de la germinación de las semillas es desconocido.}
-{273}{}{Retrieve seeds.}
+{273}{}{Recuperar las semillas.}
 {280}{}{La recogida de muestras de semillas de... recogido con Éxito 5 paquetes de maíz modificado genéticamente las semillas. Depositar paquetes de contenedor para la recogida de... Éxito...
  De cierre del recipiente de almacenamiento... el Éxito.}
 {281}{}{La recogida de muestras de semillas de... recogido con Éxito 2 paquetes de las semillas desconocidas. Depositar paquetes de contenedor para la recogida de... Éxito...

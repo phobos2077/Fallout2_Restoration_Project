@@ -24,13 +24,13 @@
 {119}{}{Sí, eso es interesante. ¿Qué puedes contarme sobre Broken Hills?}
 {120}{}{Claaaaaro. ¿Qué puedes contarme sobre Marcus?}
 {121}{}{Vaaale. Adiós.}
-{122}{}{Place used to be a paradise. Then the mutants came and turned it into a shithole. Now we're all
- expected to forget about the past and live peaceful with 'em. Not me! Live free or die!}
+{122}{}{El lugar solía ser un paraíso. Entonces llegaron los mutantes y lo convirtieron en un agujero de mierda. Ahora, todo lo que
+ se espera es que se olvide el pasado y vivir en paz con ellos. ¡Yo no! ¡Vive libre o muere!}
 {123}{}{No es exactamente lo que estaba buscando, pero gracias de todos modos. ¿Qué me puedes contar de Marcus?}
 {124}{}{Umm, de acuerdo. Hasta luego.}
-{125}{}{Marcus tells everyone he helped discover the city. He didn't. It was humans here first, and him
- and his crowd moved in and took over and expected ever'one else to bend over and let the mutants give
- it to 'em. Marcus is the ringleader of that whole circus.}
+{125}{}{Marcus le cuenta a todos que él ayudó a descubrir la ciudad. No lo hizo. Los humanos llegaron aquí primero, y él
+ y sus compinches llegaron, se instalaron, y esperaron a que todos se echaran a un lado y dejaran a los mutantes
+ quedársela. Marcus es el jefe de pista de todo este circo.}
 {126}{}{Me parece que estás realmente loco.}
 {127}{}{Malditos mutantes. Justo lo que yo pensaba.}
 {128}{}{Sí, soy un tipo duro. Si no estuviera entre rejas, te lo demostraría. ¿Te crees duro?
@@ -39,7 +39,7 @@
 {130}{}{No tengo nada que demostrarte, piltrafilla.}
 {131}{}{¡Sal de mi vista de una puta vez, gilipollas! ¡Te mataré en cuanto tenga la oportunidad!}
 {132}{}{Adiós.}
-{133}{}{The law 'round here is based on mutant love. Do you hate mutants?}
+{133}{}{La ley 'de la ronda de aquí se basa en el mutante amor. Usted odia a los mutantes?}
 {134}{}{Sí.}
 {135}{}{No.}
 {136}{}{¿Sí? Pues ve a hablar con Jacob, el farmacéutico. Ya nos veremos más tarde.}

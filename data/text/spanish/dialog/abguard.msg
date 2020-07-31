@@ -40,5 +40,5 @@
 {612}{}{Adiós.}
 {613}{}{Soy un tipo duro, por eso voy a patear tu trasero.}
 {700}{}{¿Qué más quieres saber?}
-{800}{}{Es un placer verte de nuevo.}
+{800}{}{Qué bueno verte de nuevo.}
 {801}{}{Te estoy vigilando.}

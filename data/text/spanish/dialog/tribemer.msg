@@ -1,4 +1,4 @@
-{100}{}{You see a chubby merchant with an eyepatch.}
+{100}{}{Usted ve un gordito comerciante con un parche.}
 {101}{}{One-Eyed Roy le observa fijamente con su ojo bueno mientras se seca el sudor de su frente.}
 {200}{}{[Como usted y Krom enfoque al sitio de la reunión, que es recibido por un gordito comerciante con un parche y un
  pequeño séquito de guardaespaldas. A pesar de que el comerciante está sudando mucho, él parece francamente alegre.]}
@@ -8,9 +8,9 @@
  [Él se encoge de hombros.] La gente me llame Tuerto Roy, pero no puedo por la vida de averiguar por qué. [Ríe a carcajadas en su broma.]
  ¿Cuál es tu nombre, amigo?}
 {203}{}{Soy }
-{204}{}{ of Arroyo.}
-{205}{}{. Now let's get this underway.}
-{210}{}{A true pleasure to meetcha, }
+{204}{}{ de Arroyo.}
+{205}{}{. Ahora vamos a esta marcha.}
+{210}{}{Un verdadero placer para meetcha, }
 {211}{}{. Si no te importa me dijo, usted es un poco de un extraño tipo de tribal.}
 {212}{}{Yo no soy tu media tribales. De hecho, yo soy el Elegido.}
 {213}{}{No sé a qué te refieres. Yo sólo soy el promedio de Joe Tribales. Nada de extraño acerca de mí en absoluto.}
@@ -38,7 +38,7 @@
 {252}{}{Una excelente pregunta de mi amigo! Un estimulante es una de las muchas maravillas que nos dejó el Viejo Mundo. Usted ve,
  estos chicos poco a contener poderes curativos mágicos que se *asombrar y sorprender a* de ti. Por supuesto, las palabras no significan nada sin
  la prueba, de modo que me permita mostrar las maravillas de la estimulante en acción.}
-{253}{}{This should be interesting. Let's see it.}
+{253}{}{Esto debería ser interesante. Vamos a ver.}
 {254}{}{Ya sé cómo funcionan, yo he utilizado yo mismo un montón de veces.}
 {260}{}{[Sonríe antes de que usted y Krom, luego se vuelve hacia uno de sus guardaespaldas.] Warren, ven dame tu mano. [La guardia frunce el ceño,
  pero hace lo que él dice. Roy rápidamente saca un cuchillo y barras través de la parte superior de Warren en el brazo. Warren
@@ -62,24 +62,24 @@
  golden gecko de las pieles. Usted simplemente no puede vencer a un acuerdo como el que.}
 {281}{}{[A Krom.] Él está en lo correcto, esa es una buena oferta. Genial, la verdad. [Roy.] Nosotros nos encargamos de hacerlo.}
 {282}{}{Es un buen trato bien. Demasiado buena. ¿Cuál es la trampa?}
-{283}{}{We'll offer you ten golden gecko skins. No more.}
-{284}{}{Let me think it over for a moment.}
+{283}{}{Te ofrecemos diez golden gecko pieles. No más.}
+{284}{}{Déjame pensar en ello por un momento.}
 {285}{}{No hay trato.}
 {290}{}{[Roy ilumina el rostro.] Excelente opción! Es un trato entonces. [Los artículos son rápidamente intercambiados, a continuación, Roy se apresura
  a su próxima parada.]}
 {300}{}{[Roy risas y miradas a sus guardaespaldas antes de regresar su mirada a usted.] Mira, una sola estimulante vale mucho
  más de una sola de oro pelt. Así que ya ves, ya estoy ofreciendo a usted en un escandaloso de descuento. Para pedir más a mí
  sería robo. Veinte de las pieles, o voy a pasar a una tribu que es más razonable.}
-{301}{}{Alright. We'll do it.}
-{302}{}{Then you better get moving. No deal.}
-{303}{}{Let me think about it a moment.}
+{301}{}{Bien. Nosotros nos encargamos de hacerlo.}
+{302}{}{Entonces es mejor empezar a moverse. No hay trato.}
+{303}{}{Déjame pensar un momento.}
 {305}{}{[Roy, frunce el ceño y arañazos a su desaliñado cuello. Finalmente, dejó salir un largo suspiro.] Usted está matando a mí, sabes que?
  Pero como un favor a su tribu, voy a aceptar tu oferta. [Los artículos son rápidamente intercambiados, a continuación, Roy se apresura a su lado
  la parada.]}
 {310}{}{[Él frunce el ceño.] No sé qué clase de idiota a su vez hacia abajo a un acuerdo como este. [Sacude la cabeza y vuelve
  para sus hombres.] Muy bien, vamos a ir. [Él la mirada en usted.] Y vete a la mierda por desperdiciar mi tiempo.}
-{311}{}{[Let them leave.]}
-{312}{}{[Attack]}
+{311}{}{[Vamos a salir de ellos.]}
+{312}{}{[Atacas]}
 {320}{}{No hay trampa, mi amigo. Yo simplemente ya tienen todos los estimulantes que yo necesito, así que yo soy la descarga de mi exceso de oferta.
  De oro de las pieles, en el otro lado... yo nunca podría tener suficiente de ellos. Seguro, cincuenta estimulantes valen mucho más que
  un mero veinte golden gecko pieles, pero estoy siendo realista. Yo no puede esperar que su tribu -- cazadores expertos, aunque estoy seguro de que
@@ -91,14 +91,14 @@
 {331}{}{[HECHO]}
 {340}{}{Bien, pero no tome demasiado tiempo. Tenemos otra parada para hacer antes de la noche.}
 {350}{}{Bien, si estás hecho cachondeo, vamos a conseguir que este espectáculo en el camino. Yo soy un hombre ocupado.}
-{351}{}{Alright. We'll accept the deal.}
+{351}{}{Bien. Vamos a aceptar el trato.}
 {352}{}{No hay trato.}
-{353}{}{I need to think about this a little more.}
-{354}{}{I've got a new deal for you: give us the stimpaks, and you get to keep your life.}
+{353}{}{Tengo que pensar en esto un poco más.}
+{354}{}{Tengo una nueva oferta para usted: nos dan los estimulantes, y tendrás tu vida.}
 {360}{}{Eres un hombre ocupado, ¿eh? Eres un mentiroso y un tramposo.}
 {361}{}{Los estimulantes son falsos. No son sino hypodermics lleno de brahmán de la sangre. Estaban tratando de extraer esta tribu off.}
-{362}{}{I need to think about this a little more.}
-{363}{}{Alright. We'll accept the deal.}
+{362}{}{Tengo que pensar en esto un poco más.}
+{363}{}{Bien. Vamos a aceptar el trato.}
 {370}{}{[Él se mueve incómodamente, y proyecta una nerviosa mirada a Krom.] Wh-¿de qué estás hablando?}
 {371}{}{Los estimulantes son falsos. No son sino hypodermics lleno de brahmán de la sangre. Estás tratando de extraer esta
  la tribu de descuento.}
@@ -109,6 +109,6 @@
 {380}{}{[Él se burla.] Bien! Bien! Si usted dice que son falsos, entonces tal vez se. ¿Cómo debo saber? Yo no tenía la
  follando cosas, me compré 'em. Así que *estoy* el que fue estafado aquí-no a usted. Ahora, ya que no hay trato, yo no soy
  voy a perder mi tiempo aquí por más tiempo. Bye.}
-{381}{}{[Let them leave.]}
-{382}{}{[Attack]}
+{381}{}{[Vamos a salir de ellos.]}
+{382}{}{[Atacas]}
 {390}{}{Quién coño te crees que eres? [A su guardaespaldas.] Matar a estos maldita tribales!}

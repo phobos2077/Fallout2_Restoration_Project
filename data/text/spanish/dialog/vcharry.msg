@@ -25,32 +25,32 @@
  escuchar cuadros se barajan y se mueven alrededor. Él devuelve un minuto más tarde.] Sí, lo tengo justo aquí. $500 y es toda tuya.}
 {125}{}{Por supuesto. Aquí está el dinero.}
 {126}{}{500? Maldita sea. Tengo la esperanza de obtener un reembolso por este. Bien, aquí está el dinero.}
-{127}{}{Thanks for the business. Take care.}
+{127}{}{Gracias por la empresa. Cuidado de la toma.}
 {128}{}{Adiós.}
-{129}{}{Connar sent me for the goods.}
+{129}{}{Connar me envió de la mercancía.}
 {130}{}{[Harry los ojos se mueven rápidamente alrededor rápidamente, él parece un poco nervioso] Sí, claro. Sólo un momento...}
 {131}{}{[Harry le trae los fusiles.] Aquí, tomar em. Que va a ser diez mil, y vamos a hacer esto rápido.}
-{132}{}{Of course, here's the money.}
+{132}{}{Por supuesto, aquí está el dinero.}
 {133}{}{Pero Connar sólo me dio cinco grandes.}
 {134}{}{Pero Connar solo me dieron dos de los grandes.}
 {135}{}{No es mi problema. Mira, mi negocio luchas suficiente como es. Si alguien se entera que estoy proporcionando Connar con armas, entonces las cosas resultarán muy feo, muy rápido. Además, estoy dándole un descuento ya.}
 {136}{}{Mira, yo voy a poner mi cuello en la línea . . . Oh, al diablo con esto, no tengo tiempo para discutir. Acaba de tomar em. [Él rápidamente los bolsillos de su dinero.] Ahora salir de aquí. Y recuerde, usted no comprar aquellos de mí.}
 {137}{}{Excelente. Pero recuerde, usted no comprar estas armas aquí.}
-{138}{}{It's a deal. Bye.}
+{138}{}{Es un trato. Bye.}
 {139}{}{[MÁS]}
-{140}{}{Well then, wait a bit until I get the money.}
-{141}{}{Well, have you brought the money?}
-{142}{}{What if I just give you five grand?}
-{143}{}{What about two grand?}
+{140}{}{Pues bien, espere un poco hasta que consiga el dinero.}
+{141}{}{Bien, has traído el dinero?}
+{142}{}{Lo que si me acabo de dar cinco grand?}
+{143}{}{¿Qué acerca de los dos grandes?}
 {144}{}{Ehmmm... diez de los grandes?! Yo no tengo esa cantidad de dinero; hay que esperar un poco hasta que se llega.}
 {145}{}{Maldita sea! Que posiblemente me han convertido en los?!}
-{146}{}{Hey! What was I imprisoned for?}
-{147}{}{Well, at least the food's not bad.}
+{146}{}{Hey! ¿En qué estaba encarcelado?}
+{147}{}{Bueno, al menos la comida no es mala.}
 {148}{}{¿Qué estás mirando?}
-{149}{}{What will happen to my shop now?}
+{149}{}{Qué va a pasar a mi tienda ahora?}
 {200}{}{$500? Hey, tal vez usted me podría dar algún tipo de descuento, quiero decir, usted y Dave son amigos, ¿verdad?}
 {201}{}{A decir verdad, yo nunca realmente se preocupaba por el chico. $500 para el motor. Lo tomas o lo dejas.}
-{202}{}{Fine. Here's the money.}
-{203}{}{Forget it, I'm outta here.}
-{204}{}{$500!? Forget this, I'm outta here.}
-{1288}{}{Looks like I don't have enough money. Bye.}
+{202}{}{Hecho. Aquí está el dinero.}
+{203}{}{Olvídalo, me voy de aquí.}
+{204}{}{$500!? Olvidar esto, me voy de aquí.}
+{1288}{}{Parece que no tienen suficiente dinero. Bye.}

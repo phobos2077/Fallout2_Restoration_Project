@@ -92,7 +92,7 @@
 {280}{}{Te quiero, amiga.}
 {281}{}{Eres la mejor.}
 {282}{}{¡A bombardear Ciudad Refugio hasta que resplandezca!}
-{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
+{283}{}{./~99 jeringas de RadAway en la pared, 99 jeringas... ./~}
 {284}{}{[Canta] He estado trabajando en el re-ac-tor, todo el santo día…}
 {285}{}{Antes de conocerte jamás habría confiado en un piel suave.}
 {286}{}{Supongo que algunos pieles suaves no son tan malos, después de todo.}

@@ -1,8 +1,8 @@
 {100}{}{Ves a un esclavista.}
-{101}{}{This slaver looks like one mean dude.}
-{102}{}{This slaver looks like one mean woman.}
-{200}{}{Excellent work. Ready to move on?}
-{201}{}{Give me a moment to rest.}
-{202}{}{I'm ready. Let's go.}
-{250}{}{I can still smell some Ranger trash around here.}
+{101}{}{Esta esclavista se parece a uno significa amigo.}
+{102}{}{Esta esclavista se parece a una media de mujer.}
+{200}{}{Excelente trabajo. Listo para seguir adelante?}
+{201}{}{Dame un momento para descansar.}
+{202}{}{Yo estoy listo. Vamos a ir.}
+{250}{}{Todavía puedo oler algunos Ranger basura por aquí.}
 {300}{}{Esa fue la última casa de seguridad. Informe a Vortis en NCR.}

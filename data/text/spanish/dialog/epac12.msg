@@ -109,13 +109,13 @@
 {323}{}{Wow, la mayoría de los que se fue por encima de mi cabeza. Pero si he entendido bien, estás diciendo que tú y tus padres engañado a los Chinos a pensar que eran leales.}
 {324}{}{Los padres hacían grandes esfuerzos para asegurarse de que su familia verdaderas lealtades se quedó en secreto.}
 {325}{}{Toda guerra se basa en el engaño. Mis padres amaban a su país. Simplemente odio a la gente que corría y pensé que estaría mejor como una democracia. La manera en que la vi, no estaban traicionando a China - que estaban trabajando en contra de un gobierno que no creen que era bueno para ella.}
-{326}{}{Sigue.}
+{326}{}{Continúa.}
 {327}{}{Me casé con un funcionario que trabajaba para el Ministerio Chino de Defensa Nacional. Yo lo escogí a él porque él era el más dispuesto a hablar de su trabajo cuando estábamos juntos. Así que desempeñó el papel de las obediente esposa, mientras que el secreto de reporte de información relevante de vuelta a mi American superiores. Pero luego las cosas se pusieron complicadas.}
 {328}{}{¿Cómo es eso?}
 {329}{}{Mi padre fue contactado por el Dr. Raynard Muldrake, un viejo colega que había trabajado durante su tiempo en los Estados unidos. El Dr. Muldrake solicitado una reunión privada, pero mi padre estaba en mal estado de salud en el momento y no estaba en condiciones para el viaje a América. El Dr. Muldrake acordaron reunirse a mí en su lugar.}
 {330}{}{¿Y qué pasó?}
 {331}{}{Resultó Muldrake fue parte de un proyecto de alto secreto en un Oeste Tek centro de investigación en el Sur de California. El proyecto había iniciado inocentemente, como un intento de encontrar una manera de hacer que la gente inmune a la Nueva Plaga, pero se convirtió en algo más siniestro. Algo que se llama Forzado Evolutivo de Virus, o FEV.}
-{332}{}{Sigue.}
+{332}{}{Continúa.}
 {333}{}{Tenía el potencial para mejorar enormemente de una persona y la fuerza del intelecto, pero la FEV era peligrosamente inestable. A pesar de esto, los militares esperaba utilizar para crear un ejército de súper soldados que podría aplastar a los Chinos.}
 {334}{}{El Dr. Muldrake estaba en contra de que el cambio en la dirección del proyecto, pero mantuvo su boca cerrada por temor por su vida. Pero cuando se enteró de que el ejército era una prueba de que el virus de incautos, pequeñas ciudades Americanas, él sabía que tenía que tomar acción. El mundo necesitaba saber la verdad.}
 {335}{}{Así que eso es cuando ha contactado a tu padre...}
@@ -300,15 +300,15 @@
 {3058}{}{Aprender. Y en el aprendizaje a ir mal.}
 {3059}{}{El viaje viene antes de la caída.}
 {3060}{}{Lucha de arena con el fuego, la magia con el polvo.}
-{3061}{}{We must all prepare for the war of peace.}
+{3061}{}{Todos debemos prepararnos para la guerra de la paz.}
 {3062}{}{Añadir rayas a una serpiente después de completar el dibujo de la misma.}
 {3063}{}{El tigre puede librarse de sus spots por ser de difícil bajar.}
 {3064}{}{Uno no puede negarse a comer porque hay una oportunidad de crecimiento hambre todo de nuevo.}
-{3065}{}{A painting is worth a hundred years of pain.}
+{3065}{}{Una pintura es digno de un centenar de años de dolor.}
 {3066}{}{Viciosa como una tigresa puede ser, nunca lo hace ella come su propia cangrejos.}
 {3067}{}{Una sirena de los dedos son cortos y dulces.}
 {3068}{}{Matar a miles de personas a menguar uno.}
-{3069}{}{Keep your enemies close, and your friends right below you.}
+{3069}{}{Mantener a tus enemigos cerca, y a tus amigos por debajo de usted.}
 {3070}{}{Para evadir la más segura de la debilidad de uno golpea a los más fuertes de la delantera.}
 {3071}{}{Si tu enemigo está bien entrenado, prepararse para el éxtasis.}
 {3072}{}{Al enemigo, para él, para prepararse a sí mismo.}
@@ -317,7 +317,7 @@
 {3075}{}{La invisibilidad posiblemente radica en la defensa del enemigo en el ataque de la victoria.}
 {3076}{}{Conócete a ti mismo. Conoce a tu enemigo. Conocer a sus amigos y familia.}
 {3077}{}{Las oportunidades se multiplican a medida que nos estornudar.}
-{3078}{}{Impale your opponent with your ego.}
+{3078}{}{Empalar a su oponente con su ego.}
 {3079}{}{Fingir debilidad. Dar ánimo a los del adversario de la ignorancia.}
 {3080}{}{Estrategia táctica medio de un seguro de la victoria.}
 {3081}{}{Cauteloso de los gobernantes son, en general, todos pecadores.}
@@ -325,15 +325,15 @@
 {3083}{}{Tácticas para conquistar a los hombres. Estrategia para desarrollar viendo.}
 {3084}{}{Hay millones de maneras para que un gato a despojarse de su piel.}
 {3085}{}{No se puede exprimir guijarros a partir de una gota de sangre.}
-{3086}{}{There is no blood thicker than that of water.}
-{3087}{}{There must be two suns in the sky.}
+{3086}{}{No hay sangre sea más espesa que la del agua.}
+{3087}{}{Debe haber dos soles en el cielo.}
 {3088}{}{Robar la carne y la marcamos.}
 {3089}{}{Lo Mental es la carne, llevando el potencial que se desvanece.}
 {3090}{}{Un pájaro canta porque su canción es la respuesta.}
 {3091}{}{Baja la voz y aumentar su fuerza.}
 {3092}{}{Comer más allá de sus límites, a pie de acuerdo a las longitudes vas a ir.}
 {3093}{}{Si una palabra vale más que el jeque silencio que ser digno de un emperador.}
-{3094}{}{He who lives outside this plane dies with honor.}
+{3094}{}{Él que vive fuera de este plano muere con honor.}
 {3095}{}{Engañar a los pobres. Insulto a los ricos.}
 {3096}{}{Una vez que el calor que ha pasado, te olvidas de la sombra del árbol.}
 {3097}{}{Nadie está más cerca de la muerte como el que escucha.}
@@ -342,7 +342,7 @@
 {3100}{}{Cuando te estás muriendo de sed, no es demasiado tarde para excavar en busca de agua.}
 {3101}{}{El más alto, el bambú crece, más cerca de la panda llega a los emergentes.}
 {3102}{}{Nunca se debe confiar en la gloria de la mañana o la sonrisa de su madre-en-ley.}
-{3103}{}{Eyes are our sole windows.}
+{3103}{}{Los ojos son nuestra única de windows.}
 {3104}{}{La vejez se arrastra para arriba en usted como un viejo y sucio hombre.}
 {3105}{}{El cielo nunca es la culpa. Los impíos serán pagados sus salarios en el tiempo.}
 {3106}{}{La justicia es el alma virtuosa que se distribuye en el desierto.}
@@ -352,7 +352,7 @@
 {3110}{}{Haymakers bajo el sol brillando.}
 {3111}{}{Nunca tome un regalo de un caballo en la boca sin preguntar primero.}
 {3112}{}{El mundo se ríe de ti. Luego llorar con sus compañeros.}
-{3113}{}{Many hands make the lights work.}
+{3113}{}{Muchas manos hacen las luces de trabajo.}
 {3114}{}{Un plato de zanahorias limpias, sin limpiar, con verduras.}
 {3115}{}{Un burro labios los besos de una boca del caballo sólo cuando se alimenta con forraje extra durante la noche.}
 {3116}{}{Traer un club en un tigre de la guarida.}

@@ -203,7 +203,7 @@
 {653}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en
  el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, amigo? NECESITAMOS talentos como tú.}
 {654}{}{¿Este viejo lugar? Esto es el Golden Globes, un estudio de CINE, probablemente el ÚNICO que sigue erguido y en pie en el mundo. Pero basta de hablar de este lugar… ¿buscas trabajo, tetazas?}
-{655}{}{How do you "film?" I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
+{655}{}{¿Cómo filmáis? Quiero decir, venga… necesitaríais cámaras, película, proyectores… ¿dónde conseguiríais todo ese material?}
 {657}{}{No, gracias. He de irme.}
 {658}{}{Sólo echaba un vistazo. Últimamente me he sentido un poco agotado.}
 {670}{}{Tuvimos suerte… NO necesitamos nada de esa porquería de la Edad de Piedra. Nos encontramos con un por… er, proyector holo…gráfico FUNCIONAL. Nada de equipamiento voluminoso, nada de complicaciones… y sin líos raros.}
@@ -246,7 +246,7 @@
 {780}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... }
 {781}{}{Por ti parti.}
 {782}{}{Nada.}
-{783}{}{¿Qué es este lugar?}
+{783}{}{¿Qué lugar es éste?}
 {784}{}{¿Puedes contarme algo sobre el estudio?}
 {785}{}{¿Tienes alguna… abertura… que yo pueda llenar?}
 {786}{}{¿Tienes algo de trabajo para alguien como yo?}
@@ -260,7 +260,7 @@
 {806}{}{[Haces lo que el hombre indica.]}
 {810}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... eh… oye, ¿cómo estás, }
 {812}{}{N-nada}
-{813}{}{¿Qué es este lugar?}
+{813}{}{¿Qué lugar es éste?}
 {814}{}{Dame el gusto. Háblame un poco sobre este estudio.}
 {815}{}{Buena pregunta. ¿Tienes alguna… abertura… que yo pueda llenar?}
 {816}{}{Buena pregunta. ¿Tienes algo de trabajo para alguien como yo?}
@@ -307,7 +307,7 @@
 {937}{}{¡Oh, crueles, crueles dioses del sexo! ¿Qué ofensa os causamos que provocó que nos arrebatarais el cubo?}
 {938}{}{::Suspira:: Sin el cubo, quizá deba dedicarme al macramé.}
 {1000}{}{Siento enfermo mucho en barriga.}
-{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
+{1001}{}{Usted tiene una falta, insalubres sabor en la boca, y te sientes mal del estómago. Pero bueno, de 3 chips es de 3 fichas!}
 {1100}{}{¡Agh! ::escupes, escupes:: ¡Eso es un ASCO!}
 {1101}{}{Notas un desagradable y poco sano sabor en la boca, y te sientes mal del estómago. ¡Pero oye, 5 fichas son 5 fichas!}
 {1200}{}{Yo... no me siento muy bien.}

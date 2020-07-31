@@ -1544,11 +1544,11 @@
 {153000}{}{Puerta}
 {153100}{}{Muro}
 {153200}{}{Muro}
-{153300}{}{Stone Pillar}
-{153400}{}{Stone Pillar}
-{153500}{}{Stone Pillar}
-{153600}{}{Stone Pillar}
-{153700}{}{Stone Pillar}
+{153300}{}{Pilar De Piedra}
+{153400}{}{Pilar De Piedra}
+{153500}{}{Pilar De Piedra}
+{153600}{}{Pilar De Piedra}
+{153700}{}{Pilar De Piedra}
 {153800}{}{Muro}
 {153900}{}{Muro}
 {154000}{}{Muro}
@@ -1675,19 +1675,19 @@
 {166100}{}{Emisor de campo de fuerza}
 {166200}{}{Emisor de campo de fuerza}
 {166300}{}{Emisor de campo de fuerza}
-{166400}{}{Stone Pillar}
-{166500}{}{Stone Pillar}
-{166600}{}{Stone Pillar}
-{166700}{}{Stone Pillar}
-{166800}{}{Stone Pillar}
+{166400}{}{Pilar De Piedra}
+{166500}{}{Pilar De Piedra}
+{166600}{}{Pilar De Piedra}
+{166700}{}{Pilar De Piedra}
+{166800}{}{Pilar De Piedra}
 {166900}{}{Muro}
 {167000}{}{Muro}
 {167100}{}{Muro}
 {167200}{}{Muro}
-{167300}{}{Wall Pillar}
-{167400}{}{Wall Pillar}
-{167500}{}{Wall Pillar}
-{167600}{}{Wall Pillar}
+{167300}{}{Pilar De Pared}
+{167400}{}{Pilar De Pared}
+{167500}{}{Pilar De Pared}
+{167600}{}{Pilar De Pared}
 {167700}{}{Muro}
 {167800}{}{Muro}
 {167900}{}{Muro}
@@ -1730,19 +1730,19 @@
 {171800}{}{Puerta}
 {171900}{}{Puerta}
 {172000}{}{Muro}
-{172100}{}{Rusty Steel Railing}
-{172200}{}{Rusty Steel Railing}
-{172300}{}{Rusty Steel Railing}
-{172400}{}{Rusty Steel Railing}
-{172500}{}{Rusty Steel Railing}
-{172600}{}{Rusty Steel Railing}
-{172700}{}{Rusty Steel Railing}
-{172800}{}{Rusty Steel Railing}
-{172900}{}{Rusty Steel Railing}
-{173000}{}{Rusty Steel Railing}
-{173100}{}{Rusty Steel Railing}
-{173200}{}{Rusty Steel Railing}
-{173300}{}{Rusty Steel Railing}
+{172100}{}{Barandilla De Acero Oxidado}
+{172200}{}{Barandilla De Acero Oxidado}
+{172300}{}{Barandilla De Acero Oxidado}
+{172400}{}{Barandilla De Acero Oxidado}
+{172500}{}{Barandilla De Acero Oxidado}
+{172600}{}{Barandilla De Acero Oxidado}
+{172700}{}{Barandilla De Acero Oxidado}
+{172800}{}{Barandilla De Acero Oxidado}
+{172900}{}{Barandilla De Acero Oxidado}
+{173000}{}{Barandilla De Acero Oxidado}
+{173100}{}{Barandilla De Acero Oxidado}
+{173200}{}{Barandilla De Acero Oxidado}
+{173300}{}{Barandilla De Acero Oxidado}
 {173400}{}{Muro}
 {173500}{}{Muro}
 {173600}{}{Muro}
@@ -1796,7 +1796,7 @@
 {178400}{}{Muro}
 {178500}{}{Emisor de campo de fuerza}
 {178600}{}{Emisor de campo de fuerza}
-{178700}{}{Rusty Steel Railing}
+{178700}{}{Barandilla De Acero Oxidado}
 {178800}{}{Muro}
 {178900}{}{Muro}
 {179000}{}{Emisor de campo de fuerza}
@@ -1805,8 +1805,8 @@
 {179300}{}{Muro}
 {179400}{}{Muro}
 {179500}{}{Muro}
-{179600}{}{Hatchway}
-{179700}{}{Hatchway}
+{179600}{}{Escotilla de}
+{179700}{}{Escotilla de}
 {179800}{}{Interna Submarino De La Pared}
 {179900}{}{Interna Submarino De La Pared}
 {180000}{}{Interna Submarino De La Pared}
@@ -1836,66 +1836,66 @@
 {182400}{}{Interna Submarino De La Pared}
 {182500}{}{Interna Submarino De La Pared}
 {182600}{}{Interna Submarino De La Pared}
-{182700}{}{Hatchway}
-{182800}{}{Hatchway}
+{182700}{}{Escotilla de}
+{182800}{}{Escotilla de}
 {182900}{}{Interna Submarino De La Pared}
 {183000}{}{Interna Submarino De La Pared}
 {183100}{}{Interna Submarino De La Pared}
 {183200}{}{Interna Submarino De La Pared}
 {183300}{}{Muro}
 {183400}{}{Muro}
-{183500}{}{Glowing Cave Wall}
-{183600}{}{Glowing Cave Wall}
-{183700}{}{Glowing Cave Wall}
-{183800}{}{Glowing Cave Wall}
-{183900}{}{Glowing Cave Wall}
-{184000}{}{Glowing Cave Wall}
-{184100}{}{Glowing Cave Wall}
-{184200}{}{Glowing Cave Wall}
-{184300}{}{Glowing Cave Wall}
-{184400}{}{Glowing Cave Wall}
-{184500}{}{Glowing Cave Wall}
-{184600}{}{Glowing Cave Wall}
-{184700}{}{Glowing Cave Wall}
-{184800}{}{Glowing Cave Wall}
-{184900}{}{Glowing Cave Wall}
-{185000}{}{Glowing Cave Wall}
-{185100}{}{Glowing Cave Wall}
-{185200}{}{Glowing Cave Wall}
-{185300}{}{Glowing Cave Wall}
-{185400}{}{Glowing Cave Wall}
-{185500}{}{Glowing Cave Wall}
-{185600}{}{Glowing Cave Wall}
-{185700}{}{Glowing Cave Wall}
-{185800}{}{Glowing Cave Wall}
-{185900}{}{Glowing Cave Wall}
-{186000}{}{Glowing Cave Wall}
-{186100}{}{Glowing Cave Wall}
-{186200}{}{Glowing Cave Wall}
-{186300}{}{Glowing Cave Wall}
-{186400}{}{Glowing Cave Wall}
-{186500}{}{Glowing Cave Wall}
-{186600}{}{Glowing Cave Wall}
-{186700}{}{Glowing Cave Wall}
-{186800}{}{Glowing Cave Wall}
-{186900}{}{Glowing Cave Wall}
-{187000}{}{Glowing Cave Wall}
-{187100}{}{Glowing Cave Wall}
-{187200}{}{Glowing Cave Wall}
-{187300}{}{Glowing Cave Wall}
-{187400}{}{Glowing Cave Wall}
-{187500}{}{Glowing Cave Wall}
-{187600}{}{Glowing Cave Wall}
-{187700}{}{Glowing Cave Wall}
-{187800}{}{Glowing Cave Wall}
-{187900}{}{Glowing Cave Wall}
-{188000}{}{Glowing Cave Wall}
-{188100}{}{Glowing Cave Wall}
-{188200}{}{Glowing Cave Wall}
-{188300}{}{Glowing Cave Wall}
-{188400}{}{Glowing Cave Wall}
-{188500}{}{Glowing Cave Wall}
-{188600}{}{Glowing Cave Wall}
+{183500}{}{Brillante La Pared De La Cueva}
+{183600}{}{Brillante La Pared De La Cueva}
+{183700}{}{Brillante La Pared De La Cueva}
+{183800}{}{Brillante La Pared De La Cueva}
+{183900}{}{Brillante La Pared De La Cueva}
+{184000}{}{Brillante La Pared De La Cueva}
+{184100}{}{Brillante La Pared De La Cueva}
+{184200}{}{Brillante La Pared De La Cueva}
+{184300}{}{Brillante La Pared De La Cueva}
+{184400}{}{Brillante La Pared De La Cueva}
+{184500}{}{Brillante La Pared De La Cueva}
+{184600}{}{Brillante La Pared De La Cueva}
+{184700}{}{Brillante La Pared De La Cueva}
+{184800}{}{Brillante La Pared De La Cueva}
+{184900}{}{Brillante La Pared De La Cueva}
+{185000}{}{Brillante La Pared De La Cueva}
+{185100}{}{Brillante La Pared De La Cueva}
+{185200}{}{Brillante La Pared De La Cueva}
+{185300}{}{Brillante La Pared De La Cueva}
+{185400}{}{Brillante La Pared De La Cueva}
+{185500}{}{Brillante La Pared De La Cueva}
+{185600}{}{Brillante La Pared De La Cueva}
+{185700}{}{Brillante La Pared De La Cueva}
+{185800}{}{Brillante La Pared De La Cueva}
+{185900}{}{Brillante La Pared De La Cueva}
+{186000}{}{Brillante La Pared De La Cueva}
+{186100}{}{Brillante La Pared De La Cueva}
+{186200}{}{Brillante La Pared De La Cueva}
+{186300}{}{Brillante La Pared De La Cueva}
+{186400}{}{Brillante La Pared De La Cueva}
+{186500}{}{Brillante La Pared De La Cueva}
+{186600}{}{Brillante La Pared De La Cueva}
+{186700}{}{Brillante La Pared De La Cueva}
+{186800}{}{Brillante La Pared De La Cueva}
+{186900}{}{Brillante La Pared De La Cueva}
+{187000}{}{Brillante La Pared De La Cueva}
+{187100}{}{Brillante La Pared De La Cueva}
+{187200}{}{Brillante La Pared De La Cueva}
+{187300}{}{Brillante La Pared De La Cueva}
+{187400}{}{Brillante La Pared De La Cueva}
+{187500}{}{Brillante La Pared De La Cueva}
+{187600}{}{Brillante La Pared De La Cueva}
+{187700}{}{Brillante La Pared De La Cueva}
+{187800}{}{Brillante La Pared De La Cueva}
+{187900}{}{Brillante La Pared De La Cueva}
+{188000}{}{Brillante La Pared De La Cueva}
+{188100}{}{Brillante La Pared De La Cueva}
+{188200}{}{Brillante La Pared De La Cueva}
+{188300}{}{Brillante La Pared De La Cueva}
+{188400}{}{Brillante La Pared De La Cueva}
+{188500}{}{Brillante La Pared De La Cueva}
+{188600}{}{Brillante La Pared De La Cueva}
 {188700}{}{Puerta}
 {188800}{}{Puerta}
 {188900}{}{Muro}

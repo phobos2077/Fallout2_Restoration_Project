@@ -8,7 +8,7 @@
 {106}{}{¿Quién tú?}
 {107}{}{De acuerdo, me iré.}
 {108}{}{¡Voy donde me apetece, apestosa lagartija!}
-{109}{}{¿Qué es este lugar?}
+{109}{}{¿Qué lugar es éste?}
 {110}{}{¿Quién eres?}
 {111}{}{Esto es nido. Madre de manada dentro. Huevos dentro. Yo protejo. Toda manada protege.}
 {112}{}{Quiero hablar a madre.}
@@ -25,12 +25,12 @@
 {123}{}{Proteger la madre es una posición de mucha responsabilidad. Debes ser un importante miembro de la manada.}
 {124}{}{Supongo que me iré ahora.}
 {125}{}{Espera. Yo pregunto a madre.}
-{126}{}{De acuerdo.}
+{126}{}{Vale.}
 {127}{}{Madre dice que habla contigo. Entra. No hagas problemas. No quiero hacerte daño, pero te hago daño
  si tú eres malo y haces problemas.}
 {128}{}{Madre dice que habla contigo. Entras pero vas solo; amigos se quedan aquí. No hagas
  problemas. No quiero hacerte daño, pero te hago daño si tú eres malo y haces problemas.}
-{129}{}{De acuerdo.}
+{129}{}{Vale.}
 {130}{}{¿Crees eso? No lo veo así. Eso me hace sentirme bien. Me gusta. Gracias.}
 {131}{}{Vale. Marcho ahora.}
 {132}{}{Quiero hablar a madre.}
@@ -46,7 +46,7 @@
 {140}{}{¿Quién dices que ser?}
 {141}{}{¿Qué es este lugar?}
 {142}{}{Sólo me he dejado caer por aquí para saludar.}
-{143}{}{¿Qué es este lugar?}
+{143}{}{¿Qué lugar es éste?}
 {144}{}{De nuevo, ¿quién eres tú?}
 {145}{}{Ya estás muerto. Eres demasiado imbécil como para resultar útil.}
 {146}{}{. Quiero hablar a madre.}

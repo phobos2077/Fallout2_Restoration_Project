@@ -1,9 +1,9 @@
 {100}{}{Ves una computadora.}
-{101}{}{You see the EPA's museum computer.}
+{101}{}{Ver la EPA del museo de la computadora.}
 {200}{}{Bienvenidos a la EPA del museo! Este terminal se proyecto una película utilizando emocionante nueva tecnología holográfica!
  La película es un entretenido e informativo mirar el miedo, pero posible, la realidad de un post-nuclear mundial.}
-{201}{}{[Play movie.]}
-{202}{}{[Logoff.]}
+{201}{}{[Juego de la película.]}
+{202}{}{[Cierre de sesión.]}
 {210}{}{[La terminal de proyectos de un holograma de un hombre alto con gafas hombre en una bata de laboratorio. Me saluda y te da una amigable sonrisa.]
  Hola, soy el Dr. Caleb, y voy a ser anfitrión de este vídeo holográfico en un post-holocausto de los estados unidos.}
 {211}{}{[MÁS]}
@@ -26,4 +26,4 @@
 {250}{}{Parece que el Señor Práctico tendrá su trabajo cortado para él si él planea limpiar ** esta lío. [Dr. Caleb
  se ríe como la imagen desaparece y se sustituye por el texto.] Gracias por su atención. Este video educativo fue llevado a
  por la gente fina en Vault-Tec. Vault-Tec, América del Final de la Palabra en los Hogares.}
-{251}{}{[Logoff.]}
+{251}{}{[Cierre de sesión.]}

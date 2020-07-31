@@ -9,7 +9,7 @@
 {213}{}{Aquí hay un torniquete si lo necesitas.}
 {214}{}{No inhales el Jet todo de una vez… toma un poco, una inspiración profunda, y dale
  tiempo para que haga efecto.}
-{215}{}{You want two half ounce bags, or a canister?}
+{215}{}{Quieres dos, media onza de bolsas, o de un recipiente?}
 {216}{}{El inhalador de Jet es aparte…}
 {217}{}{Déjame adivinar: ¿lo pongo en tu cuenta?}
 {218}{}{Marchando un Nuclear con hielo.}
@@ -32,4 +32,4 @@
 {246}{}{Hoy nada, gracias.}
 {250}{}{Oh, ¿te refieres al viejo McGee? Es prácticamente inofensivo. Gastó una pequeña fortuna en esa vieja máquina tragaperras y no la ha visto soltar nada desde hace años. Creo está rota. Cambiando de tema... ¿puedo ponerte algo, amiga?}
 {260}{}{Ese es el chico menor de Jesús, Pequeño Jesús. Él y ese cuchillo son casi amigos íntimos… le he visto hacer algunas cosas malas con él. Cambiando de tema... ¿puedo ponerte algo, amigo?}
-{270}{}{Pleasure doin' business with ya.}
+{270}{}{Placer haciendo negocios con ustedes.}

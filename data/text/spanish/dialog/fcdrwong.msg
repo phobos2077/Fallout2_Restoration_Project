@@ -67,75 +67,75 @@
 {166}{}{Hasta la vista.}
 {200}{}{He encontrado este cadáver escondido en el Hubologists' base. Creo que puede ser su falta de Xeno Proyecto muestra.}
 {201}{}{Sí, es verdad! Mi predecesor había invertido mucho en este tema y fue muy angustiado cuando desapareció. A pesar de que él se ha ido, todavía puede tener algún uso para esta muestra. Gracias por recuperar este.}
-{202}{}{No problem. See you later.}
+{202}{}{No hay problema. Nos vemos más tarde.}
 {203}{}{Espera hay. Nadie dijo que esto lo hice por libre.}
 {204}{}{Correcto. Tampoco nadie pregunte usted a recuperar el tema. Lo hizo y se la trajo aquí por su propia voluntad. Ahora que el robo ha sido devuelta a sus legítimos dueños, y le damos las gracias por ello.}
 {205}{}{Que bueno, pero lo he encontrado, así que si lo quieren de vuelta, entonces va a costar.}
-{206}{}{I don't have time for this... Guards!}
+{206}{}{No tengo tiempo para esto... Guardias!}
 {207}{}{[El hombre parece que está a punto de gritar, luego se calma.] Bien. De aquí es de $500. Más que suficiente para algo
  que siempre nos perteneció. Ahora, yo soy un hombre ocupado.}
-{208}{}{Pleasure doing business with you. Bye.}
+{208}{}{Placer hacer negocios con usted. Bye.}
 {209}{}{¡Oh, mierda!}
-{210}{}{Let's dance!}
+{210}{}{Vamos a bailar!}
 {211}{}{Recuperar la falta Xeno Programa de la muestra.}
 {220}{}{Entonces, ¿dónde está, entonces? Estás tratando de jugar conmigo?}
 {221}{}{Lo siento, me gusta probar y acumular tantos elementos como puedo. Es un poco lo mío.}
-{230}{}{I don't have time for this. Come back when you have the specimen.}
+{230}{}{No tengo tiempo para esto. Volver cuando usted tiene la muestra.}
 {240}{}{[Él olfatea el aire.] ¿Qué es ese olor? Como la carne descompuesta. [Él te mira y levanta una ceja.]}
 {241}{}{Oh, usted debe oler este cuerpo que he encontrado. No estoy realmente seguro de por qué me voy a llevar a su alrededor, para ser honesto.}
 {242}{}{Eh-eh! [Saca la descomposición de un cadáver] Apestoso cuerpo! U quiere?}
 {250}{}{Espera un segundo, que es el tema de la Xeno Proyecto! Mi predecesor había invertido mucho en este tema y fue muy angustiado cuando desapareció. A pesar de que él se ha ido, todavía puede tener algún uso para este tema. Gracias.}
 {251}{}{No, no quiero-- Espera un segundo, que es el tema de la Xeno Proyecto! Mi predecesor había invertido mucho en . . . [Se da cuenta de su mirada en blanco.] Ejem. Quiero decir, gracias por el cuerpo. Buen trabajo. No traigan más aunque. Esto es suficiente. Bye ahora!}
 {252}{}{Bye Bye!}
-{253}{}{Me hoard tings. Me hide it.}
-{300}{}{So what's the deal with this Dr. Sheng?}
+{253}{}{Me acumular cosas. Me oculte.}
+{300}{}{Así que ¿cuál es el trato con este Dr. Sheng?}
 {310}{}{¿Cómo sabes acerca de Dr. Sheng? Eh, supongo que no importa. El Dr. Ming Sheng fue un brillante, sino más bien desagradable hombre que fue mi predecesor. No es de gran relevancia aquí.}
-{311}{}{Well if he's not relevant to you, then why should *I* care? Let me ask you something else.}
-{312}{}{So what happened to him?}
+{311}{}{Bueno, si él no es relevante para usted, entonces ¿por qué *I* atención? Déjame preguntarte algo más.}
+{312}{}{Entonces, ¿qué le pasó?}
 {320}{}{Lo que pasó? Yo diría que él perdió su mente. Durante sus experimentos se topó con algo que debo admitir que fue bastante notable, pero también era extremadamente peligroso y relacionada de ninguna manera con los objetivos de la Shi. Pero eso no importa para el Dr. Sheng. Él estaba obsesionado con su creación y desde sus experimentos fueron considerados demasiado peligrosos para continuar aquí, él decidió tomar otra. Dejó en año sabático y nunca regresó. Que es cuando me acerqué a ocupar su posición.}
 {321}{}{¿Qué tipo de experimentos fue el Dr. Sheng realizar? Y qué es exactamente lo fue su gran descubrimiento?}
-{322}{}{So where is Dr. Sheng now?}
+{322}{}{Entonces, ¿dónde está el Dr. Sheng ahora?}
 {330}{}{Como un hombre de ciencia, yo respeto su naturaleza inquisitiva. Sin embargo, me temo que yo no estoy dispuesto a compartir los secretos de los Shi'con usted, extraño.}
-{331}{}{So where is Dr. Sheng now?}
+{331}{}{Entonces, ¿dónde está el Dr. Sheng ahora?}
 {332}{}{Bien, mantener su fantasía secretos. Tengo los secretos de mi propio, usted sabe. Mejor los secretos de lo que jamás podría imaginar.}
 {340}{}{[Sonríe cortésmente.] Estoy seguro de que hacer. Ahora si me disculpan, tengo un montón de trabajo que se necesita hacer. Buen día.}
 {341}{}{[HECHO]}
 {350}{}{El Dr. Sheng fue escoltado de un día para el sur. Él tomó la residencia en alguna casa abandonada, si no me equivoco. Él se suponía que sólo ha ido por un mes, pero ha sido mucho más largo y aún tenemos que escuchar de él. Si tuviera que adivinar, diría que él fue destruido por sus propias creaciones, o bien cayó víctima de los numerosos peligros de la tierra.}
 {351}{}{Uno de sus principales científicos podría estar muerto, y no te importa? Ni siquiera vas a ir a ver en él?}
 {352}{}{Creo que me gustaría seguir con este Dr. Sheng chico. Me podría dar su última ubicación conocida?}
-{353}{}{Well, that's that. Let me ask you something else.}
+{353}{}{Bueno, eso es todo. Déjame preguntarte algo más.}
 {360}{}{Tendrás disculpas por parecer tan cruel sobre el asunto. La verdad es que el Dr. Sheng no era muy popular por aquí, y yo no creo que ninguno de nosotros lo extraño en lo más mínimo.}
 {361}{}{Creo que me gustaría seguir con este Dr. Sheng chico. Me podría dar su última ubicación conocida?}
 {362}{}{Ya veo. Deja que te pregunte algo más.}
 {370}{}{Supongo que me podría... debo admitir que me siento un poco de curiosidad para aprender de su destino. Aquí, voy a marcar el Dr. Sheng de la última ubicación conocida en la asignación de dispositivos. Pero debo advertirle que podría llegar a ser muy peligroso. Por supuesto, siempre es peligroso ahí fuera en los desechos. De todos modos, si encuentras algo de interés, hágamelo saber.}
-{371}{}{Thanks, I'll do that. Bye.}
+{371}{}{Gracias, voy a hacer eso. Bye.}
 {372}{}{Déjame hacerte otra pregunta.}
 {380}{}{El Dr. Sheng todavía está vivo y ha creado algún tipo de planta que echa raíces y controles de cadáveres humanos.}
 {390}{}{Así que él ha logrado cierto éxito con su Xeno Proyecto. Qué fascinante ... y preocupante. Podemos poner fin a su sensibles de la planta de experimentos aquí después de que perdimos a uno de nuestros técnicos. Cuando salió para continuar su investigación, supuse que le gustaría caer víctima de sus propias creaciones. Ha logrado asumir alguna forma de control sobre ellas?}
 {391}{}{Sí, algunos de ellos parecen ser servil. Incluso se refieren a él como "master".}
 {400}{}{Hmm... Si él se para de alguna manera crear un ejército de esas plantas de las criaturas, que no son un buen augurio para el Shi. Tenía la esperanza de que no vendría a este, pero parece que no tienen otra opción, pero para asegurarse de que el Dr. Sheng y sus experimentos son eliminados. Desde que él confía en ti lo suficiente como para permitir que se acerque a él, usted es el mejor candidato. Es que algo que usted estaría dispuesto a hacer? Usted podría ser compensada, por supuesto.}
 {401}{}{Sería un placer. El chico y su conjunto de la operación me asusta.}
-{402}{}{What kind of compensation are we talking here?}
-{403}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
+{402}{}{¿Qué tipo de compensación estamos hablando aquí?}
+{403}{}{No le interesa. El Dr. Sheng es tu problema--ustedes pueden tratar con él.}
 {410}{}{El Shi será muy agradecido por este servicio. Una vez que el Dr. Sheng y todas sus creaciones han sido eliminados, el informe de nuevo a mí para recibir tu recompensa.}
 {411}{}{[HECHO]}
 {420}{}{Se los dejo a ustedes. Nos podría conceder armas, suministros, o dinero. Usted puede decidir una vez que se complete la tarea.}
-{421}{}{All right. I'll do it.}
-{422}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
+{421}{}{Todo a la derecha. Lo voy a hacer.}
+{422}{}{No le interesa. El Dr. Sheng es tu problema--ustedes pueden tratar con él.}
 {423}{}{Todo a la derecha. Lo voy a hacer. Pero antes de irme, el Dr. Sheng quería que me lo entregan esta planta muestra con usted. Él dijo que debería ayudar a lograr el objetivo de la creación de la radiación resistentes a la vida de la planta.}
 {430}{}{Justo lo suficiente. Vamos a manejar el problema de nosotros mismos, pero eso tendrá que esperar, ya que no tienen los recursos para gastar en el momento. Esperemos que no sea demasiado tarde una vez que son capaces de actuar. Mientras tanto, si usted debe cambiar su mente, por favor hágamelo saber.}
-{431}{}{Don't count on it. Bye.}
-{432}{}{I'll think about it. Bye.}
-{433}{}{We'll see. Let me ask you something else.}
-{440}{}{I don't suppose you have changed your mind? Will you help us eliminate Dr. Sheng and his creations?}
-{441}{}{Nope, I actually wanted to ask you about something else.}
-{442}{}{Alright, I'll take him out for you.}
+{431}{}{No contar con ella. Bye.}
+{432}{}{Voy a pensar en ello. Bye.}
+{433}{}{Vamos a ver. Déjame preguntarte algo más.}
+{440}{}{Supongo que usted no ha cambiado de opinión? Nos pueden ayudar a eliminar el Dr. Sheng y sus creaciones?}
+{441}{}{Nope, yo en realidad quería preguntarle acerca de algo más.}
+{442}{}{Bien, me llevaré a cabo para usted.}
 {443}{}{Lo voy a hacer, pero por un precio. Estaba hablando acerca de la compensación antes?}
 {450}{}{Nuestros exploradores han informado de que el Dr. Sheng y sus experimentos han sido destruidos. Tal pérdida de una mente brillante... de todos Modos, usted puede reclamar su recompensa. Está usted interesado en armas, suministros, o dinero en efectivo?}
 {451}{}{Nuestros exploradores han informado de que el Dr. Sheng y sus experimentos han sido destruidos. Tal pérdida de una mente brillante... de todos Modos, nunca pedimos a involucrarse demasiado, pero estamos muy agradecidos. De sus problemas, usted puede reclamar una recompensa. Está usted interesado en armas, suministros, o dinero en efectivo?}
-{452}{}{I'll take weapons.}
-{453}{}{I could always use more supplies.}
-{454}{}{Just give me money.}
+{452}{}{Voy a tomar las armas.}
+{453}{}{Siempre podría utilizar más suministros.}
+{454}{}{Me acaba de dar dinero.}
 {455}{}{Mantenga su recompensa. Sólo lo hice porque era lo correcto a hacer.}
 {460}{}{Aquí tienes. [Que las manos de varias armas de alta potencia]}
 {461}{}{[HECHO]}
@@ -150,18 +150,18 @@
 {502}{}{El Dr. Sheng me quería darle esta planta muestra como un regalo, pero he pensado que debo advertir que es infundido con su percepción de suero. No sé qué se supone que debe hacer, pero estoy bastante seguro de que no va a ser bueno para el Shi.}
 {510}{}{Interesante. [Él toma la muestra y la almacena.] Mi equipo y yo examinará más adelante. Yo no puedo decir que me fío de ninguna regalo del Dr. Sheng, pero supongo que hay una oportunidad de que va a resultar muy útil. Vamos a ver. Ahora si no hay nada, debo volver al trabajo.}
 {511}{}{Interesante. [Él toma la muestra y la almacena.] Mi equipo y yo examinará más adelante. Yo no puedo decir que me fío de ninguna regalo del Dr. Sheng, pero supongo que hay una oportunidad de que va a resultar muy útil. Vamos a ver. Pero yo pensé que iba a eliminar el Dr. Sheng, no ser su mensajero? En cualquier caso, debo volver al trabajo.}
-{512}{}{Actually, I would like to ask you something else.}
+{512}{}{En realidad, me gustaría preguntarle algo más.}
 {513}{}{Adiós.}
 {514}{}{En realidad, me fui por un poco de problemas para conseguir que la muestra para usted. Yo creo que merece una recompensa.}
 {520}{}{Qué, ahora? El Shi no solicitar esta planta muestra de usted, pero si usted siente que sus obras han ganado algunos de compensación, supongo que podemos ahorrar este. [Le da una super estimulante.] Ahora debería de estar para volver al trabajo.}
-{521}{}{Actually, I would like to ask you something else.}
+{521}{}{En realidad, me gustaría preguntarle algo más.}
 {522}{}{Gracias. Adiós.}
 {523}{}{De verdad? Se llama a esta recompensa? Voy a golpear hasta algo más valioso que se cae.}
 {530}{}{[Toma la semilla.] Gracias, voy a deshacerse de él de inmediato. [Suspira.] Supe que el Dr. Sheng lo había perdido, pero no creo que le iría tan lejos como para intentar destruir a su propio pueblo. Él debe ser tratado inmediatamente.}
-{531}{}{I agree. He's quite the madman.}
+{531}{}{Estoy de acuerdo. Es bastante loco.}
 {540}{}{*garras del corazón* Wahh.}
 {541}{}{Urgh.}
-{542}{}{Dr. Wong!}
-{600}{}{You eliminate Dr. Sheng for the Shi.}
-{601}{}{You deliver the plant sample to Dr. Wong.}
-{602}{}{You assassinate Dr. Wong.}
+{542}{}{El Dr. Wong!}
+{600}{}{Eliminar el Dr. Sheng para el Shi.}
+{601}{}{Entregar la muestra de la planta para el Dr. Wong.}
+{602}{}{Usted asesinar al Dr. Wong.}

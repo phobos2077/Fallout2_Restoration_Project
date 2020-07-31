@@ -28,10 +28,8 @@ Demasiado ocupados imponiéndose regulaciones unos a otros y discutiendo como ton
 {280}{}{¿Que es eso? Oh, sí, sí, parece que un mal funcionamiento en algún lugar ha generado un poderoso campo magnético, que es borrando su memoria a corto plazo cada dos minutos, condenándolos a una especie de purgatorio de hologramas. Pero no importa eso, estamos mejor sin ellos. Con ellos atados en una discusión interminable, eso me deja, él, quiero decir, * nosotros *, a cargo de la instalación. Con mi intelecto supremo y tu cuerpo físico, podríamos hacer un buen dúo.
 }
 {281}{}{En primer lugar, ¿Por què no me dices exactamente que es este lugar? }
-{290}{}{¿En serio? En mi opinión, estamos mejor sin ellos, pero si piensas lo contrario, ¿quién soy yo para quejarme? Con mi
- intelecto supremo, y tu cuerpo físico, podríamos hacer un buen dúo.
-
-}
+{290}{}{De verdad? En mi opinión, estamos mejor sin ellos, pero si usted pensaba de otra manera ¿quién soy yo para quejarme. Con mi
+ intelecto supremo, y su cuerpo físico, se podría hacer bastante el dúo, usted sabe.}
 {291}{}{En primer lugar, ¿Por què no me dices exactamente que es este lugar? }
 {300}{}{Por qué, es la Agencia de Protección Ambiental, por supuesto. Esta es una instalación federal establecida originalmente
 regula los productos químicos y protege el medio ambiente, ¡pero es mucho más que eso! Porque estas en una de las mejores instalaciones de investigación experimental del país. Tenemos muchas cosas emocionantes en desarrollo. Por supuesto, el progreso ha sido un poco lento últimamente, con la caída de la civilización y todo...}

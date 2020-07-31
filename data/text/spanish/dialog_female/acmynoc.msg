@@ -127,12 +127,12 @@
 {611}{}{[Mynoc murmura algo por lo bajo y sacude la cabeza antes de comenzar su historia.] Como deberías saber, él fue una vez el guerrero más grande de nuestra tribu. Dirigió muchas expediciones al mundo exterior, y fue allí donde la corrupción comenzó a envenenar su mente.}
 {612}{}{Se enamoró de los caminos de los Forasteros, donde el poder podía brindarle gran respeto y lujo a cualquiera. Comenzó a verse a sí mismo como superior a sus compañeros de tribus que estaban contentos de vivir una vida más simple.}
 {613}{}{Que capullo.}
-{614}{}{Sigue.}
+{614}{}{Continúa.}
 {615}{}{Cuando nuestra tribu cayó en estos tiempos difíciles, se consideró el salvador de nuestro pueblo y entró al Templo de las Pruebas para demostrar que era El Elegido.}
-{616}{}{Sigue.}
+{616}{}{Continúa.}
 {617}{}{No importa, ya no quiero escuchar esta historia. Adiós.}
 {618}{}{Atravesó el Templo, llegando rápidamente a la prueba final: una batalla cuerpo a cuerpo con un compañero guerrero.}
-{619}{}{Sigue.}
+{619}{}{Continúa.}
 {620}{}{Espera, ¿arruinó esa puerta y todo? ¿Lo reconstruimos cada vez que alguien pasa por el templo? Hablando de eso, ¿quién construyó el templo en primer lugar?}
 {621}{}{No tengo tiempo para responder a todas tus tontas preguntas. ¿Quieres que termine la historia, o no?}
 {622}{}{Lo siento. Por favor, continua.}

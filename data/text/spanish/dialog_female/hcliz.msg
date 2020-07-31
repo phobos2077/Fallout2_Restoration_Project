@@ -91,7 +91,7 @@
 {202}{}{Hell yeah!}
 {203}{}{Nah, este perro puede tomar a nadie ya. Gracias de todos modos. Vamos a ver qué más tienes.}
 {204}{}{(Lo mira a usted y a su partido) No, lo siento. Yo no creo que tenga nada especial que usted podría encontrar útil. Lo que ves aquí es lo que usted consigue.}
-{205}{}{Oh well. Let's see what you've got.}
-{206}{}{I told you I'd let it go for $2000. Come back when you've got the cash for it!}
-{207}{}{Alright. Show me what else you've got.}
-{208}{}{Fine. I'll be back some other time.}
+{205}{}{Oh, bueno. Vamos a ver lo que tienes.}
+{206}{}{Te dije que te dejaría ir por $2000. Volver cuando tienes el dinero para ello!}
+{207}{}{Bien. Muéstrame lo que tienes.}
+{208}{}{Bien. Voy a estar de vuelta otra vez.}

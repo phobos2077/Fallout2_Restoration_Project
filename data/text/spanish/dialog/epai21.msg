@@ -16,8 +16,8 @@
 {113}{}{Sub-nivel Verde es un emocionante nivel que contiene un arboretum, arma biológica de investigación, nuevos y fascinantes criaturas y, cada hijo favorito, nuestro único zoológico de mascotas.}
 {114}{}{Sub-Nivel Azul no existe. Si alguien diga lo contrario, son sucios, mentirosos, tienen más probabilidades de simpatizantes comunistas. Por favor informe a nuestro departamento de seguridad en el Sub-Nivel de Red, por lo que puede ser tratado en consecuencia. Gracias por hacer su parte como un orgulloso Americano!}
 {115}{}{Vuelves al menú principal.}
-{116}{}{Thank you for using the location finder.}
+{116}{}{Gracias por usar el buscador de la localización.}
 {117}{}{[HECHO]}
 {118}{}{Ves una computadora.}
-{119}{}{You see the EPA Location Finder.}
+{119}{}{Ver la EPA Buscador de Ubicación.}
 {120}{}{Usted ve un equipo con información detallada acerca de los niveles de la EPA.}

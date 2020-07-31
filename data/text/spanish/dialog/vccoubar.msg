@@ -74,7 +74,7 @@
 {173}{}{¿Cómo fabricas esos tipos de alcohol sintetizado?}
 {174}{}{En realidad, buscaba algo de información.}
 {175}{}{Nada más hoy, gracias.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
+{176}{}{La Auto-Docs dentro de la Bóveda de la Ciudad puede brew sustitutos sintéticos de otro modo-las sustancias adictivas. Como yo lo entiendo, estos productos sintéticos fueron utilizados como placebos para chem adictos antes de la guerra.}
 {177}{}{Parece que sabes mucho sobre estos sintetizados.}
 {178}{}{Eh, ¿no tienes ninguna bebida de verdad?}
 {179}{}{Oh. En fin, me quedaré con un poco de agua entonces.}
@@ -130,7 +130,7 @@
 {229}{}{Hmmm. Tenía curiosidad acerca de algo más...}
 {230}{}{Ya veo. Bien, podría tomarme una copa. ¿Qué tienes para trasegar?}
 {231}{}{Interesante. Gracias por la información. Adiós.}
-{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Oh, no, no... no es esclavitud. Aquellas personas que trabajan en la ciudad son siervos... incluido yo mismo. Nos han tratado muy bien aquí, le enseñó a leer y a escribir, y le da atención médica, las casas y los alimentos.}
 {233}{}{Tenéis todo excepto la libertad, ¿eh?}
 {234}{}{Si no tienes quejas, entonces no hay problema. Olvida que te he preguntado.}
 {235}{}{No importa. Quería una copa. ¿Qué tienes para trasegar?}

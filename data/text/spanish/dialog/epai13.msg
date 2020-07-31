@@ -1,6 +1,6 @@
 {100}{}{La Hibernación De La Cámara De La Computadora De Control. Seleccione una opción.}
-{101}{}{Subject history.}
-{102}{}{Retrieve a test subject.}
+{101}{}{Sujeto de la historia.}
+{102}{}{Recuperar un objeto de la prueba.}
 {103}{}{[HECHO]}
 {104}{}{Cámaras De Hibernación. Tres personas fueron sellados dentro de estas cámaras de antes de la guerra, particular en cada uno de clasificados
  razones. Los sujetos permanecen sellados y conscientes de su entorno. Las entradas de registro están disponibles para cada sujeto.}
@@ -10,23 +10,23 @@
  (Ambiental Rechazo Síndrome De Down). Para garantizar la seguridad de la asignatura, es muy recomendable que coloque un ERSI
  (Ambiental Rechazo Síndrome de Inhibidor) recipiente en el dispensador antes de continuar.}
 {107}{}{Oh maravilloso. Sólo me he despertado un montón de huesos.}
-{108}{}{No, return to Main Menu.}
-{109}{}{Retrieving test subject.}
-{110}{}{Retrieving test subject.}
-{111}{}{Retrieving test subject.}
-{112}{}{Thank you for using the Hibernation Control Computer.}
+{108}{}{No, volver al Menú Principal.}
+{109}{}{La recuperación de sujeto de prueba.}
+{110}{}{La recuperación de sujeto de prueba.}
+{111}{}{La recuperación de sujeto de prueba.}
+{112}{}{Gracias por utilizar el modo de Hibernación del Ordenador de Control.}
 {113}{}{Ves una computadora grande. }
-{114}{}{You see The Hibernation Control Computer.}
+{114}{}{Vea El modo de Hibernación del Ordenador de Control.}
 {115}{}{Usted ve un equipo que se utiliza para regular nada que ver con la Hibernación de las Tinas.}
 {116}{}{Lugar ERSI recipiente en el dispensador.}
-{117}{}{Proceed anyway.}
+{117}{}{Continuar de todos modos.}
 {118}{}{Ambiental Rechazo Síndrome de Inhibidores se han aplicado con éxito a la muestra. La frecuencia cardíaca de la muestra parece normal. Por favor
  proceder a la Crio de cámara para la recuperación.}
 {119}{}{ADVERTENCIA: No Ambientales Rechazo Síndrome de Inhibidores se han aplicado a la muestra. Estado de la muestra es desconocido. Por favor
  proceder a la Crio de cámara para la recuperación.}
 {120}{}{Hmm, tal vez debería ir a ver si puedo encontrar uno de estos ERSI botes. Tiene que haber algún lugar por aquí para conseguir esos productos químicos...}
-{200}{}{Read log entries.}
-{210}{}{Please choose a subject.}
+{200}{}{Leer las entradas del registro.}
+{210}{}{Por favor, elegir un tema.}
 {211}{}{Sujeto A.}
 {212}{}{Tema B.}
 {213}{}{Tema C.}
@@ -84,7 +84,7 @@
  para el servicio y, de hecho, es probable que esté más capaz que antes de que como resultado del tratamiento. Hasta más fondos
  recibido para este proyecto, el sargento. Jules permanecerán en animación suspendida.
  -Dr. R. D. Crichton, 11/04/2075}
-{300}{}{Choose a subject:}
+{300}{}{Elegir un tema:}
 {301}{}{El Sargento Christopher "Gato" Jules}
 {302}{}{Dexter "Dex" Patrick}
 {303}{}{Kitsune}

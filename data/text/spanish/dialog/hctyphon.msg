@@ -70,7 +70,7 @@
 {168}{}{Nuh-uh.}
 {169}{}{Pues sí. Aquí la tienes. [Le das la revista a Typhon]}
 {170}{}{Aún no. Tenía otras preguntas.}
-{171}{}{No.}
+{171}{}{¡No!}
 {172}{}{¡Bueno, pues date prisa! Soy un viejo necrófago y, cómo quieres que te lo diga, necesito relajarme! ¡Ahora vete, vete, vete!}
 {173}{}{[HECHO]}
 {174}{}{Muchacho, esa revista ha revitalizado la sangre de mis venas, y supongo que por la clase de tesoro que estamos hablando, puedes conseguirme un par más de cosillas. Tráeme una muñeca hinchable. Seguramente encuentres alguna en Nuevo Reno.}
@@ -106,7 +106,7 @@
 {204}{}{Pues no. Tengo más preguntas.}
 {205}{}{Pues no. Adiós.}
 {206}{}{Bien, sigue buscando. Al final lo conseguirás.}
-{207}{}{De acuerdo.}
+{207}{}{Vale.}
 {208}{}{Supongo. Adiós.}
 {209}{}{¿Qué tal el tesoro, chico?}
 {210}{}{¡Malo! ¡Chapas!}

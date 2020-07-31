@@ -1,18 +1,18 @@
-{100}{}{You see a tired Hubologist guard.}
-{101}{}{He looks pretty bored.}
+{100}{}{Usted ve un cansado Hubologist de la guardia.}
+{101}{}{Él se ve muy aburrido.}
 {200}{}{(Mira a su aburrido con los ojos) Hola. ¿Qué te trae todo el camino hasta aquí?}
 {201}{}{Estoy aquí para dejar fuera de servicio temprana. Estoy en la próxima guardia de turno.}
 {202}{}{Ashton me envió a conseguir. Él dijo que necesitaba consultar con usted acerca de la reciente serie de donaciones.}
-{210}{}{Awe, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
-{211}{}{I'm a new recruit. I was recently transferred here.}
-{212}{}{Yeah, I was assigned to kill you.}
-{220}{}{Dammit. I don't have time for this crap, my shift's almost over.}
+{210}{}{El asombro, el hombre-Hey, espera un minuto! Yo nunca he visto todo antes. ¿Qué estás haciendo aquí?}
+{211}{}{Soy un nuevo recluta. Recientemente fue transferido aquí.}
+{212}{}{Sí, yo estaba asignado a matar.}
+{220}{}{Maldita sea. No tengo tiempo para esta mierda, mi turno casi excesiva.}
 {221}{}{Mira, él parecía bastante molesto. Yo wouln't lo mantienen a la espera.}
 {230}{}{Ah, el infierno. Bien. Ver más de las cosas mientras que no estoy. Estaré de vuelta en un par de minutos.}
 {231}{}{No hay problema.}
 {240}{}{Nuevo recluta, ¿eh? Tenemos a la gente de aquí de vez en cuando. Bastante aburrido trabajo de seguridad aquí, si usted me pregunta. Es mejor que la contratación
  aunque, para que no se queja. Que bueno que te haya a bordo.}
-{241}{}{Thanks. So, I wouldn't keep Ashton waiting if I were you.}
+{241}{}{Gracias. Así que, yo no mantener Ashton espera si yo fuera usted.}
 {242}{}{Agradezco la bienvenida. Así, los interesados en obtener fuera de turno temprano?}
 {250}{}{Seguro, ¿por qué diablos no? Nada interesante sucede aquí de todos modos. Ver todo.}
 {251}{}{Cuídate.}

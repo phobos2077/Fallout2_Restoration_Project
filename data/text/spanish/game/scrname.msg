@@ -115,7 +115,7 @@
 {215}{}{Señor Smith}
 {216}{}{Skeeve}
 {217}{}{Procónsul Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Enfermera Phyllis}
 {219}{}{Randal}
 {220}{}{Sustancia}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Lobo}
 {444}{}{Generador}
 {445}{}{Puerta}
-{446}{}{Super mutant}
+{446}{}{Supermutantes}
 {447}{}{Hombre de Salvatore}
 {448}{}{Hombre de Bishop}
 {449}{}{Hombre de Mordino}
@@ -503,7 +503,7 @@
 {603}{}{Okupa}
 {604}{}{Abolicionista}
 {605}{}{Contrabandista}
-{606}{}{Super mutant}
+{606}{}{Supermutantes}
 {607}{}{Pescador}
 {608}{}{Esclavista}
 {609}{}{Trampero}
@@ -679,7 +679,7 @@
 {779}{}{Centro de Redding}
 {780}{}{Map Script}
 {781}{}{Map Script}
-{782}{}{Lou}
+{782}{}{Teni}
 {783}{}{Arthur}
 {784}{}{Robin}
 {785}{}{Bedemir}
@@ -1311,39 +1311,39 @@
 {1411}{}{}
 {1412}{}{Niño}
 {1413}{}{Garra mortal}
-{1414}{}{Sister Elaine}
+{1414}{}{La Hermana Elaine}
 {1415}{}{Tumba}
 {1416}{}{Tumba}
-{1417}{}{Brother Hank}
-{1418}{}{Abbey Doctor}
-{1419}{}{Brother John}
-{1420}{}{Brother Max}
+{1417}{}{Hermano Hank}
+{1418}{}{Abadía Médico}
+{1419}{}{El Hermano John}
+{1420}{}{El Hermano De Max}
 {1421}{}{Mercader}
 {1422}{}{Mercader}
-{1423}{}{Merchant Guard}
-{1424}{}{Mrs. Peterson}
-{1425}{}{Abbey citizen}
-{1426}{}{Mr. Peterson}
+{1423}{}{Comerciante De La Guardia}
+{1424}{}{La Señora Peterson}
+{1425}{}{Abadía ciudadano}
+{1426}{}{La Señora Peterson}
 {1427}{}{Bomba de agua}
-{1428}{}{Brother Samuel}
-{1429}{}{Abbey citizen}
-{1430}{}{Brother Thomas}
+{1428}{}{El Hermano Samuel}
+{1429}{}{Abadía ciudadano}
+{1430}{}{El Hermano Thomas}
 {1431}{}{Tom}
-{1432}{}{Abbey computer}
+{1432}{}{La abadía de equipo}
 {1433}{}{La Abadía De Cabeza De Monje}
-{1434}{}{Abbey monk}
-{1435}{}{Abbey monk}
-{1436}{}{Abbey monk}
-{1437}{}{Abbey monk}
-{1438}{}{Brother Paul}
+{1434}{}{Monje de la abadía}
+{1435}{}{Monje de la abadía}
+{1436}{}{Monje de la abadía}
+{1437}{}{Monje de la abadía}
+{1438}{}{El Hermano Pablo}
 {1439}{}{Tribal}
-{1440}{}{Brother Matthew}
-{1441}{}{map}
+{1440}{}{El Hermano Mateo}
+{1441}{}{mapa}
 {1442}{}{Rata Topo}
 {1443}{}{Ann}
-{1444}{}{Head Warrior}
+{1444}{}{Cabeza De Guerrero}
 {1445}{}{Marli}
-{1446}{}{Villagers}
+{1446}{}{Los aldeanos}
 {1447}{}{Chamán}
 {1448}{}{Fantasma}
 {1449}{}{Tribal}
@@ -1356,91 +1356,91 @@
 {1456}{}{Tribu mapa 2 - espacial 1}
 {1457}{}{Tribu mapa 2 - espacial 1}
 {1458}{}{Gecko}
-{1459}{}{Cave Guard}
-{1460}{}{dead body}
+{1459}{}{Cueva De La Guardia}
+{1460}{}{cuerpo muerto}
 {1461}{}{woods espacial}
-{1462}{}{Don}
+{1462}{}{No}
 {1463}{}{Esclavista}
-{1464}{}{map script}
+{1464}{}{mapa de secuencia de comandos}
 {1465}{}{Perro}
 {1466}{}{Esclavista}
 {1467}{}{Esclavo}
 {1468}{}{slavepen puerta}
 {1469}{}{Estante}
 {1470}{}{Puerta}
-{1471}{}{Little Bobby}
+{1471}{}{Poco Bobby}
 {1472}{}{Poco Bobby Padre}
 {1473}{}{Okupa}
 {1474}{}{Traficante}
-{1475}{}{Den Resident}
+{1475}{}{Den Residente}
 {1476}{}{Huérfano}
 {1477}{}{Campesino}
-{1478}{}{map script}
+{1478}{}{mapa de secuencia de comandos}
 {1479}{}{Persona con un extraño tipo de armadura}
 {1480}{}{Persona con un extraño tipo de armadura}
 {1481}{}{seguro}
-{1482}{}{guard}
+{1482}{}{la guardia}
 {1483}{}{Hubologista}
 {1484}{}{Guardia Hubologista}
 {1485}{}{Guardia Hubologista}
 {1486}{}{Puerta metálica}
-{1487}{}{map script}
-{1488}{}{container script}
+{1487}{}{mapa de secuencia de comandos}
+{1488}{}{contenedor de secuencia de comandos}
 {1489}{}{Brahmin}
-{1490}{}{door}
+{1490}{}{puerta}
 {1491}{}{puerta}
-{1492}{}{Tribal Chief}
-{1493}{}{Barking Man}
-{1494}{}{epax map script}
+{1492}{}{Jefe De Tribu}
+{1493}{}{El Ladrido De Hombre}
+{1494}{}{epax mapa de secuencia de comandos}
 {1495}{}{EPA PRINCIPAL}
-{1496}{}{EPA Secret Level}
-{1497}{}{Mr. handy Robot}
+{1496}{}{EPA Nivel Secreto}
+{1497}{}{El Señor Práctico Robot}
 {1498}{}{Holograma 00000}
-{1499}{}{The Brave Little Toaster}
+{1499}{}{Brave Little Toaster}
 {1500}{}{Holograma 10001}
 {1501}{}{Holograma 12001}
 {1502}{}{Holograma 10031}
 {1503}{}{Holograma 40011}
-{1504}{}{EPA plant}
+{1504}{}{EPA planta}
 {1505}{}{El Señor Chemmie!}
 {1506}{}{Dex}
 {1507}{}{Cat Jules}
 {1508}{}{Kitsune}
 {1509}{}{Guerrero}
 {1510}{}{Repelente De Insectos}
-{1511}{}{Doctor's Prisoner}
+{1511}{}{Médico del Preso}
 {1512}{}{Hormiga gigante}
-{1513}{}{The Doctor}
-{1514}{}{Fruit Fly}
-{1515}{}{Creature}
+{1513}{}{El Médico}
+{1514}{}{La Mosca De La Fruta}
+{1515}{}{La criatura}
 {1516}{}{Robot}
 {1517}{}{Robot}
 {1518}{}{EPA Folleto}
-{1519}{}{Voice Computer}
-{1520}{}{Research Computer}
-{1521}{}{Electric Chair Computer}
-{1522}{}{Electronic door}
-{1523}{}{Hologram Generator}
+{1519}{}{La Voz De La Computadora}
+{1520}{}{Equipo De Investigación}
+{1521}{}{Silla Eléctrica De La Computadora}
+{1522}{}{Puerta electrónica}
+{1523}{}{Holograma Generador}
 {1524}{}{Puerta de seguridad}
 {1525}{}{Puerta del ascensor}
 {1526}{}{Puerta}
 {1527}{}{Al Azar De Los Productos Químicos}
-{1528}{}{Fertile ground}
-{1529}{}{Fertile ground}
-{1530}{}{Hibernation Computer}
-{1531}{}{Lighting Generator}
+{1528}{}{Tierra fértil}
+{1529}{}{Tierra fértil}
+{1530}{}{La hibernación del equipo}
+{1531}{}{Iluminación Generador}
 {1532}{}{Campo de fuerza}
-{1533}{}{Plant spray}
-{1534}{}{Magnetic coil computer}
+{1533}{}{Pulverización de la planta}
+{1534}{}{Bobina magnética equipo}
 {1535}{}{Campo de fuerza}
-{1536}{}{Projection machine}
+{1536}{}{Proyección de la máquina}
 {1537}{}{Puerta}
-{1538}{}{computer}
+{1538}{}{equipo}
 {1539}{}{Puerta}
 {1540}{}{Computadora}
 {1541}{}{Campo de fuerza}
 {1542}{}{Dinamita}
-{1543}{}{Dynamite Trigger}
+{1543}{}{Dinamita Gatillo}
 {1544}{}{Cosas en el Escritorio}
 {1545}{}{Taquilla}
 {1546}{}{Spatial Script}
@@ -1454,18 +1454,18 @@
 {1554}{}{Aire Acondicionado De Ventilación}
 {1555}{}{Fan}
 {1556}{}{Fan}
-{1557}{}{spatial script}
-{1558}{}{computer terminal}
-{1559}{}{fertile ground}
+{1557}{}{espacial de la secuencia de comandos}
+{1558}{}{terminal de ordenador}
+{1559}{}{Tierra fértil}
 {1560}{}{espacial}
 {1561}{}{Un holograma}
 {1562}{}{espacial}
 {1563}{}{}
-{1564}{}{hologram computer}
+{1564}{}{holograma equipo}
 {1565}{}{Niño}
 {1566}{}{espacial}
 {1567}{}{Vertibird}
-{1568}{}{computer}
+{1568}{}{equipo}
 {1569}{}{espacial}
 {1570}{}{Señor Manitas}
 {1571}{}{Nuke}
@@ -1489,65 +1489,65 @@
 {1589}{}{Puerta}
 {1590}{}{}
 {1591}{}{Matón}
-{1592}{}{trip wire}
+{1592}{}{viaje de alambre}
 {1593}{}{viaje espacial de alambre}
 {1594}{}{Prostituta}
 {1595}{}{Sustancia}
-{1596}{}{Spatial}
+{1596}{}{Espacial}
 {1597}{}{La hibernación de la Cámara espacial}
 {1598}{}{}
 {1599}{}{Taquilla}
 {1600}{}{Map Script}
 {1601}{}{Modder}
-{1602}{}{Smoking}
-{1603}{}{Peeing}
+{1602}{}{Fumar}
+{1603}{}{Lluvia dorada}
 {1604}{}{Map Script}
 {1605}{}{Map Script}
 {1606}{}{Mercader}
-{1607}{}{Merchant Guard}
-{1608}{}{Merchant Guard}
-{1609}{}{Merchant Map}
-{1610}{}{computer}
-{1611}{}{computer}
+{1607}{}{Comerciante De La Guardia}
+{1608}{}{Comerciante De La Guardia}
+{1609}{}{Comerciante Mapa}
+{1610}{}{equipo}
+{1611}{}{equipo}
 {1612}{}{Auto-Doctor}
-{1613}{}{Brother Jason}
+{1613}{}{Hermano Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}
 {1616}{}{Guardia}
 {1617}{}{Embalaje}
 {1618}{}{Voraz Humanos}
-{1619}{}{map}
-{1620}{}{force field panel}
+{1619}{}{mapa}
+{1620}{}{campo de fuerza del panel}
 {1621}{}{Fan}
 {1622}{}{Guardia}
-{1623}{}{Motor Boat}
+{1623}{}{Barco A Motor}
 {1624}{}{Guardia}
 {1625}{}{Basura}
-{1626}{}{stairs}
-{1627}{}{elevator shaft}
+{1626}{}{escaleras}
+{1627}{}{hueco del ascensor}
 {1628}{}{espacial}
-{1629}{}{elevator shaft}
+{1629}{}{hueco del ascensor}
 {1630}{}{Taquilla}
-{1631}{}{Dock Guard}
+{1631}{}{Muelle De La Guardia}
 {1632}{}{Técnico}
 {1633}{}{Técnico}
 {1634}{}{Técnico}
 {1635}{}{espacial}
 {1636}{}{Trabajador del puerto}
-{1637}{}{map script}
+{1637}{}{mapa de secuencia de comandos}
 {1638}{}{Puerta}
 {1639}{}{espacial}
-{1640}{}{power console}
-{1641}{}{torpedo console}
-{1642}{}{targeting console}
+{1640}{}{la potencia de la consola}
+{1641}{}{torpedo de la consola}
+{1642}{}{la orientación de la consola}
 {1643}{}{Bahia Torpedo}
 {1644}{}{sub hatch}
 {1645}{}{Guardia}
 {1646}{}{vertibird}
 {1647}{}{espacial}
 {1648}{}{suero}
-{1649}{}{Old Caravan Guard}
-{1650}{}{Dr. Sheng}
+{1649}{}{La Vieja Guardia De Caravana}
+{1650}{}{El Dr. Sheng}
 {1651}{}{Planta Criatura}
 {1652}{}{Escondite del Dr. Sheng}
 {1653}{}{Puerta}

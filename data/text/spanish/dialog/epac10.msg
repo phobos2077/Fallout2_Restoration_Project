@@ -113,13 +113,10 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {493}{}{Verás, mi gente me había elegido para intentar encontrar un refugio. Arriesgué mi vida en varias ocasiones
 para encontrar ese dichoso refugio y finalmente logré encontrarlo. Tengo curiosidad por lo que puedas saber sobre 
 esos sitios}
-{500}{}{Te diré qué, cariño. Necesitas ayuda para encontrar estos refugios, y necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Entonces, ¿qué dices... compañero?
-}
+{500}{}{Te diré algo, nena. Necesitas ayuda para encontrar estos refugios, y necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Entonces, ¿qué dices ... compañero?}
 {501}{}{Dice que tenemos un trato, compañero.}
 {502}{}{Bueno, tu conocimiento de los viejos podría ser bastante útil para mí... pero, ya sabes, está todo ese asunto del asesino psicótico...}
-{503}{}{No creo que esté demasiado ansioso por andar vagando por el desierto con un asesino psicótico. Entonces estás en tu
- propio, "cariño". No te preocupes, estoy seguro de que estarás bien. (risa disimulada)
-}
+{503}{}{No creo que esté demasiado ansioso por ir a vagar por el desierto con un asesino psicótico. Así que vas por tu cuenta, "amigo". No te preocupes, estoy seguro de que estarás bien. [Risa disimulada.]}
 {510}{}{Oye, como te dije, puedo explicarte. Todo lo que leíste sobre mí fue una mierda total. No compres una palabra de eso.}
 {511}{}{Oye, como te dije, puedo explicarte. Estas malas vibraciones que estás obteniendo de mí son el resultado de los científicos quienes experimentaron en mí.}
 {512}{}{Pero eso no tiene ningún sentido. ¿Qué te hicieron?.}
@@ -203,9 +200,8 @@ esos sitios}
  asentamiento. Una vez allí, ¿cómo sé que no intentarás cortarme la garganta la primera vez que puedas?}
 {700}{}{Puedo decir que no eres un santo, así que podría preguntarte lo mismo. Pero para responder a tu pregunta, no te mataría
  porque eso me jodería. Seré honesto,}
-{701}{}{, No me importa una mierda a nadie, ni a nada, excepto a mí mismo. Si el mundo está tan jodido como dices,
- entonces quedarte contigo es la mejor oportunidad que tengo. Es tan simple como eso.
-}
+{701}{}{, Me importa un carajo a nadie, ni nada, excepto para mí. Si el mundo está tan jodido como dicen que es,
+ a continuación, pegue con usted es la mejor foto que tengo. Es tan simple como eso.}
 {702}{}{Me parece justo. Vamos.}
 {703}{}{Solo estoy jodiendo contigo Dex. Nunca tuve la intención de traerte conmigo. Solo pensé que
  diviértete un poco antes de derrumbar tu cráneo.}
@@ -258,9 +254,8 @@ Eso no es jodidamente creíble. [Mira su reflejo.] Pero tienes que admitir que me
 {884}{}{Bueno, tu conocimiento de los viejos podría ser muy útil para mí ... Supongo que tienes un trato.}
 {885}{}{Realmente no tengo tiempo para "mostrarte las cuerdas". Estoy seguro de que lo harás bien por tu cuenta, "cariño".}
 {890}{}{Puedo decir que tampoco eres un santo, así que podria preguntarte lo mismo. Pero para responder a tu pregunta, No te mataría porque eso me jodería. Seré honesta,}
-{891}{}{, No me importa una mierda a nadie, ni a nada, excepto a mí mismo. Si el mundo está tan jodido como dices,
- entonces quedarte contigo es la mejor oportunidad que tengo. Es tan simple como eso.
-}
+{891}{}{, Me importa un carajo a nadie, ni nada, excepto para mí. Si el mundo está tan jodido como dicen que es,
+ a continuación, pegue con usted es la mejor foto que tengo. Es tan simple como eso.}
 {892}{}{Me parece justo. Vamos.}
 {893}{}{Solo estoy jodiendo contigo Dex. Nunca tuve la intención de traerte conmigo. Pensé que me divertía un poco contigo antes de hundirte el cráneo.}
 {900}{}{Vamos a llegar a eso en un segundo. Pero primero de todo, ¿qué tal si me informas de lo que pasó desde que me pusieron hielo. Me refiero, este lugar se ha ido a la mierda, y parece que has salido de algún tipo de cuento de aventuras de ciencia ficción.}

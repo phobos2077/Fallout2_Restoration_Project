@@ -36,19 +36,19 @@
 {135}{}{Servidor operativo. Oleoducto operativo. Estaciones de investigación operativas. Centro de reparaciones operativo. Cámaras operativas.}
 {136}{}{Atrás.}
 {137}{}{Salir.}
-{200}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
- his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
- it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
- After a bit hacking and mathematical calculations, you determine the coordinates of the stash. You mark them down in your Pip-Boy.]}
-{201}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
- his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
- it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
- You already determined the coordinates of it.]}
-{210}{}{Hack the system.}
+{200}{}{[El Hubologist de la Iglesia parece ser muy ricos. El método estándar es para pedir un nuevo recluta para donar a todos
+ su o sus posesiones mundanas a la Iglesia como un signo de buena fe. Cuando alguien no pide hacer esto, al parecer
+ esto significa que el Hubologists no con la intención de tratar de manera justa. Ellos tienen un gran caché de botín escondido en algún lugar en el desierto.
+ Después de un poco de hacking y cálculos matemáticos, determinar las coordenadas de la mercancía. Marca hacia abajo en tu Pip-Boy.]}
+{201}{}{[El Hubologist de la Iglesia parece ser muy ricos. El método estándar es para pedir un nuevo recluta para donar a todos
+ su o sus posesiones mundanas a la Iglesia como un signo de buena fe. Cuando alguien no pide hacer esto, al parecer
+ esto significa que el Hubologists no con la intención de tratar de manera justa. Ellos tienen un gran caché de botín escondido en algún lugar en el desierto.
+ Ya determina las coordenadas de la misma.]}
+{210}{}{Hackear el sistema.}
 {211}{}{[Después de algún tiempo usted puede obtener acceso administrativo a la unidad central. Ahora puedes hacer lo que quieras para el sistema.]}
-{212}{}{Format the system.}
+{212}{}{Formato del sistema.}
 {213}{}{Inicializar el formato de procedimiento... Inicializado... el Formato de... de Formato Completo... el Sistema se está cerrando. Adiós.}
-{220}{}{You format the Hubologist mainframe.}
+{220}{}{El formato de la Hubologist mainframe.}
 {250}{}{Dirigir combustible al petrolero Poseidon.}
 {251}{}{Combustible dirigido a petición. Tanques de almacenamiento = Vacíos. Cerrando programa.}
 {252}{}{[HECHO]}

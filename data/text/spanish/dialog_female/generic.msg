@@ -1,7 +1,7 @@
 {100}{}{Ganas }
 {101}{}{ puntos de experiencia.}
 {102}{}{Has desarmado la trampa.}
-{103}{}{No consigues desactivar la trampa.}
+{103}{}{No consigues desarmar la trampa.}
 {104}{}{Haces saltar accidentalmente la trampa.}
 {105}{}{ desarma la trampa.}
 {106}{}{ falla al desarmar la trampa.}
@@ -254,9 +254,9 @@
 {10012}{}{Necesito que te quites la armadura que llevas.}
 {10013}{}{Necesito saber qué clase de armas puedes usar.}
 {10100}{}{Vamos.}
-{20000}{}{Eso no hizo nada.}
+{20000}{}{Eso no hace nada.}
 {20100}{}{No hay cerradura en esta puerta.}
 {21020}{}{veinte}
 {30000}{}{Has robado de tu propia tribu.}
-{40000}{}{Slot Jinxer}
+{40000}{}{Ranura Jinxer}
 {40001}{}{Gracias a un pequeño pero valiente aparato de cocina, usted sabe un secreto para hacer que las máquinas de ranura de la tos de su dinero en efectivo. Lástima que rompe la máquina en el proceso. ¡Vaya!}

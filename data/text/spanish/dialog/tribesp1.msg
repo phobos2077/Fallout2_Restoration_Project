@@ -1,1 +1,1 @@
-{100}{}{You enter a small cave. You can hear noises coming from within.}
+{100}{}{Usted entrar en una pequeña cueva. Usted puede escuchar los ruidos provenientes del interior.}

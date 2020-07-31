@@ -501,84 +501,84 @@
 {48300}{}{Frank Horrigan}
 {48301}{}{Guardaespaldas del Presidente.}
 {48400}{}{Nessa}
-{48401}{}{The ghost of dead Nessa.}
+{48401}{}{El fantasma de los muertos Nessa.}
 {48500}{}{Chamán}
-{48501}{}{Tribal shaman.}
-{48600}{}{Warrior 	}
-{48601}{}{Tribe warrior.}
+{48501}{}{Tribal chamán.}
+{48600}{}{Guerrero }
+{48601}{}{La tribu de guerrero.}
 {48700}{}{Guardia}
-{48800}{}{Sulik's sister}
+{48800}{}{Sulik, la hermana de}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
 {49100}{}{Kaga}
 {49200}{}{Kaga}
 {49300}{}{Kaga}
 {49400}{}{Holograma 00000}
-{49401}{}{The hologram for the director of science.}
+{49401}{}{El holograma para el director de la ciencia.}
 {49500}{}{Holograma 10001}
-{49501}{}{The hologram for the director of security.}
+{49501}{}{El holograma para el director de seguridad.}
 {49600}{}{Holograma 12001}
-{49601}{}{The hologram for the director of operations.}
+{49601}{}{El holograma para el director de operaciones.}
 {49700}{}{Holograma 10031}
 {49701}{}{Holograma para el director de la Planta de Mantenimiento.}
 {49800}{}{Holograma 40011}
 {49801}{}{Holograma para el Director de Relaciones Públicas.}
-{49900}{}{Mr. Handy Robot}
+{49900}{}{El Señor Práctico Robot}
 {49901}{}{Una depresión grave de la versión de el Señor la Mano del Robot.}
-{50000}{}{The Doctor}
+{50000}{}{El Médico}
 {50001}{}{El principal - y único - Médico de la izquierda en la EPA.}
-{50100}{}{EPA Spore Plant}
-{50101}{}{A hideously mutated spore plant.}
+{50100}{}{La EPA de Esporas de la Planta}
+{50101}{}{Una muy mutado de esporas de la planta.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
-{50500}{}{Doctor's Warrior}
-{50501}{}{A warrior for the doctor.}
-{50600}{}{Fruit fly}
-{50601}{}{A mutated fruit fly.}
+{50500}{}{Del Doctor Guerrero}
+{50501}{}{Un guerrero para el médico.}
+{50600}{}{La mosca de la fruta}
+{50601}{}{Una mutación de la mosca de la fruta.}
 {50700}{}{Un holograma}
 {50701}{}{Un holograma.}
-{50800}{}{Kitsune - level 1}
-{50900}{}{Kitsune - level 2}
-{51000}{}{Kitsune - level 3}
-{51100}{}{Kitsune - level 4}
-{51200}{}{Kitsune - level 5}
-{51300}{}{Dex - level 1}
-{51400}{}{Dex - level 2}
-{51500}{}{Dex - level 3}
-{51600}{}{Dex - level 4}
-{51700}{}{Dex - level 5}
-{51800}{}{Cat Jules - level 1}
-{51900}{}{Cat Jules - level 2}
-{52000}{}{Cat Jules - level 3}
+{50800}{}{Kitsune - nivel 1}
+{50900}{}{Kitsune - nivel 1}
+{51000}{}{Kitsune - nivel 1}
+{51100}{}{Kitsune - nivel 1}
+{51200}{}{Kitsune - nivel 1}
+{51300}{}{Dex - nivel 1}
+{51400}{}{Dex - nivel 1}
+{51500}{}{Dex - nivel 1}
+{51600}{}{Dex - nivel 1}
+{51700}{}{Dex - nivel 1}
+{51800}{}{Gato Jules - nivel 4}
+{51900}{}{Gato Jules - nivel 4}
+{52000}{}{Gato Jules - nivel 4}
 {52100}{}{Gato Jules - nivel 4}
 {52200}{}{Gato Jules - nivel 4}
 {52300}{}{MIBoba Fe88}
 {52400}{}{Navih Zolo}
 {52500}{}{Contie-bacca}
 {52600}{}{Darek Vader}
-{52700}{}{Jotisz the Hutt}
+{52700}{}{Jotisz el Hutt}
 {52800}{}{R2Qwerty}
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
 {53100}{}{Obi-Wan-Killap}
 {53200}{}{La Emperatriz Timeslip}
-{53300}{}{Luke Skynet}
+{53300}{}{Lucas Skynet}
 {53400}{}{De Lunes A Morticia}
 {53500}{}{Kanhef}
 {53600}{}{Ojo de halcón}
 {53700}{}{Dravean}
-{53800}{}{Mr. Wolna}
+{53800}{}{El Señor Wolna}
 {53900}{}{encinodude}
 {54000}{}{Minigun Jim}
 {54100}{}{Bofast}
 {54200}{}{Krom}
-{54300}{}{Mother Spore Plant}
-{54400}{}{Mother Alien}
-{54500}{}{EPA Spore Plant}
-{54501}{}{A hideously mutated spore plant.}
+{54300}{}{La Madre De Esporas De La Planta}
+{54400}{}{Madre Alienígena}
+{54500}{}{La EPA de Esporas de la Planta}
+{54501}{}{Una muy mutado de esporas de la planta.}
 {54600}{}{Perro salvaje}
 {54601}{}{Un perro salvaje de raza cruzada}
 {54700}{}{Robot centinela Mark II}
 {54800}{}{Viejo Joe}
-{54900}{}{A plant creature}
+{54900}{}{Una planta criatura}

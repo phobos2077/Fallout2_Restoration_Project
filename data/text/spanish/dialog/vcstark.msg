@@ -300,31 +300,31 @@
 {398}{}{Adiós.}
 {399}{}{¿Para qué? [Vacila por un momento, luego frunce el ceño.] No tengo que explicar mis motivaciones para usted. Yo doy las órdenes, y toma de ellos -- Que es lo que es. Si usted no desea que el trabajo, voy a enviar un escuadrón de hacerlo en su lugar... pero las cosas a veces conseguir un poco "desordenado" cuando me puse mis hijos sueltos.}
 {400}{}{Lo tengo. Haré el trabajo.}
-{401}{}{It's clear. What's with that village, anyway?}
+{401}{}{Es claro. ¿Qué pasa con ese pueblo, de todos modos?}
 {402}{}{Sobre ese pueblo...}
 {403}{}{Has matado a todos esos grandes feo ratas? De verdad?}
 {404}{}{Me dijeron que usted planea en hacer de la gente de ese pueblo en siervos, y que las ratas topo se le impide hacerlo -- esa es la verdadera razón por la que quería que ellos exterminados.}
 {405}{}{Sí.}
 {406}{}{Aún no.}
 {407}{}{Oh, has oído eso, ¿no? Bien, has oído bien-es por su propio bien. Aquí, estaría bien alimentado y cuidado. Estoy seguro de que había llegado a darse cuenta de cuánto mejor es para servir en la gran Bóveda de la Ciudad que habita en su pequeña aldea con la rata de mierda hasta las rodillas.}
-{408}{}{They're happy right where they are.}
-{409}{}{Doesn't matter. Will you complete your task or not?}
-{410}{}{Ok. I'll finish it.}
-{411}{}{No, I don't think so. }
-{412}{}{Great, return when you are done.}
+{408}{}{Ellos están felices en el lugar donde viven.}
+{409}{}{No importa. Va a completar su tarea o no?}
+{410}{}{Ok. Voy a terminar con ella.}
+{411}{}{No, no lo creo. }
+{412}{}{Genial, volver cuando haya terminado.}
 {413}{}{No importa, ellos van a ser siervos de la misma. Yo voy a enviar un escuadrón de batalla de inmediato. Pronto, no va a quedar nada de su pequeño pueblo.}
 {414}{}{[HECHO]}
-{415}{}{Return when all is done.}
+{415}{}{Volver cuando todo está hecho.}
 {416}{}{Gran trabajo, soldado. Aquí está su $750 -- un pequeño precio a pagar por un pueblo lleno de nuevos siervos. Usted ha hecho de la Bóveda de la Ciudad de un gran servicio.}
-{417}{}{Wait -- You never said anything about making the villagers your servants.}
+{417}{}{Esperar, Que nunca dijo nada acerca de hacer que los aldeanos de sus siervos.}
 {418}{}{Como quieras. Adiós.}
 {419}{}{Es por su propio bien. Una vez que son siervos de la Bóveda de la Ciudad, no habrá necesidad de lucha por la supervivencia. Que van a ser alimentados y cuidados. En cambio, los que van a trabajar para el bien de la Ciudad. Todo el mundo gana.}
-{420}{}{But it's slavery!}
+{420}{}{Pero es esclavitud!}
 {421}{}{No es esclavitud, sino mutuamente beneficiosa co-existencia, una simbiosis de lo que hablo.}
-{422}{}{Disgusting! Goodbye.}
+{422}{}{Asqueroso! Adiós.}
 {423}{}{Aquellas primitivas de haber perdido sus mentes por completo. Obtuvieron armas de algún lugar, y comenzó a disparar con nosotros a la vista! Así que me dio otro pensamiento. Al infierno con ellos. Después de todo, no es como estamos cortos en esclavos... me refiero a los siervos.}
 {424}{}{¿De qué pueblo? Oh, el uno tenemos nuestros nuevos siervos de... ¿qué pasa con él?}
-{425}{}{You say what!? You enslaved them all?}
+{425}{}{Usted dice ¡qué!? Esclavizados a todos ellos?}
 {426}{}{Yo sé quien les proporcionó las armas. Es que eso era comerciante en el patio, Harry. }
 {427}{}{Feliz Harry, dice usted? ... cifras que iba a ser uno de ellos desgraciados en el patio. Ok voy a tratar con él. Vamos a ver cómo "Feliz" es cuando estoy a través de. Como para usted, usted puede tomar lo que usted encuentra en su tienda como una recompensa para la venta de él.}
 {428}{}{No sé por qué, pero procónsul McClure me ha ordenado que esperar con el pueblo, un poco. Es la aplicación para usted. }
@@ -332,4 +332,4 @@
 {1215}{}{Estoy convencido de que su guía no guiarlos a través de las montañas. Nunca van a encontrar su camino sin él.}
 {1224}{}{Usted hizo? Así, dejará de ser una amenaza para nosotros?}
 {1251}{}{En realidad, yo ya había puesto fin a las mismas. Estoy convencido de que su guía no guiarlos a través de las montañas. Nunca van a encontrar su camino sin él.}
-{1422}{}{Well, I agree. They're better off this way. Goodbye.}
+{1422}{}{Bueno, estoy de acuerdo. Que es mejor de esta manera. Adiós.}

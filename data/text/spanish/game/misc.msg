@@ -5,7 +5,7 @@
 {4}{}{Cargado rápido cargado con éxito.}
 {5}{}{Guardado rápido guardado con éxito.}
 {6}{}{Límite de tiempo de la demo excedido.}
-{7}{}{Pip-Boy not available in combat!}
+{7}{}{Pip-Boy no está disponible en el combate!}
 {8}{}{Error guardando la captura.}
 {9}{}{INTRO}
 {10}{}{NUEVO JUEGO}
@@ -43,7 +43,7 @@
 {5001}{}{Se queda sin munición para la}
 {5002}{}{recarga la}
 {6000}{}{¿Sobre qué quieres preguntarme?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Usted no está usando el Pip-Boy!}
 {8000}{}{Llevas demasiado peso.}
 {8001}{}{%s está sobrecargado.}
 {8500}{}{Ganas %d puntos de experiencia por el uso con éxito de Supervivencia.}
@@ -124,18 +124,18 @@
 {9242}{}{Realizando modificaciones de hardware, Maestro... Sistemas nominales.}
 {9243}{}{Realizando modificaciones de hardware, Maestro... ¡Sistemas óptimos!}
 {9250}{}{}
-{9260}{}{There's more than one way to skin a cat.}
+{9260}{}{Hay más de una manera para la piel de un gato.}
 {9261}{}{La menor caída, el mayor de volar.}
 {9262}{}{Vivir. Aprender. Evolucionar.}
 {9263}{}{Escucho y olvido; veo y recuerdo; hago y entiendo.}
-{9264}{}{I *am* the Nine.}
-{9270}{}{You know, I think I'm starting to recover from that whole being frozen thing.}
+{9264}{}{I *am* las Nueve.}
+{9270}{}{Sabes, creo que estoy empezando a recuperarse de que todo está congelado cosa.}
 {9271}{}{Ahh... sí. Puedo sentir la magia antigua que viene de nuevo a mí ahora.}
-{9272}{}{I don't want to blow your mind, but I just got even better.}
+{9272}{}{No quiero volar tu mente, pero sólo he conseguido aún mejor.}
 {9273}{}{Cabeza, acabo de llegar a ser perfectos. Ahora vamos a encontrar algunas putas para que podamos celebrar.}
 {9274}{}{Parece que he superado la perfección. Supongo que si alguien era capaz de ello, fue a mí.}
-{9280}{}{The Cat is back!}
+{9280}{}{El Gato está de vuelta!}
 {9281}{}{Son mis ojos jugando trucos o mi culo se ven mejor que nunca?}
-{9282}{}{My cat senses are tingling!}
+{9282}{}{Mi gato sentidos son hormigueo!}
 {9283}{}{Si tan sólo tuviera un poco de pescado para ir con esta experiencia.}
-{9284}{}{This Cat is unstoppable!}
+{9284}{}{Este Gato es imparable!}

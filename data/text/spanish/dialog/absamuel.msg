@@ -41,7 +41,7 @@
 {605}{}{Claro *hickup* que lo intenté. Una noche me quedé hasta la medianoche o así y nadie apareció. Debo haberme quedado dormido poco después. Demasiado beber, supongo. [Sonríe, saca su frasco y toma un fuerte trago.] Entonces, ¿qué *hickup* dices? ¿Quieres ayudar?}
 {606}{}{De acuerdo, veré lo que puedo hacer. ¿Sabes also más que pueda ayudarme?}
 {607}{}{Bueno, ahora que lo mencionas, recuerdo * hickup * que el Sr. Peterson dijo algo acerca de escuchar algunos ruidos que vienen de su campo. Él podría saber algo sobre esto. Él y esa bonita pequeña esposa viven allí mismo. [Señala el edificio al sur del cementerio.]}
-{608}{}{Veré lo que puedo hacer.}
+{608}{}{Sé lo que podemos hacer.}
 {609}{}{Creo que voy a pasar. Debo irme.}
 {700}{}{He cuidado de la situación de excavación de las tumbas. No deberíais tener más problemas aquí.}
 {701}{}{Bueno, esas son *hickup* buenas noticias. Me alegro de no caer en más tumbas *hickup* abiertas. Gracias por la ayuda.}

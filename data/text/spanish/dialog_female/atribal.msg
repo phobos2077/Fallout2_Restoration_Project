@@ -2,7 +2,7 @@
 {101}{}{Ves a un hombre de aspecto fuerte.}
 {200}{}{Saludos.}
 {201}{}{Bienvenida a la Abadía.}
-{202}{}{Buenas.}
+{202}{}{Hola.}
 {203}{}{Hola.}
 {204}{}{¿Eres de la tribu de Arroyo?}
 {205}{}{Saludos.}

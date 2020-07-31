@@ -1,7 +1,7 @@
-{100}{}{You be needin' something?}
-{101}{}{Yeah, I was wondering who you're guarding.}
-{102}{}{Me? Oh no, I don't need anything. Bye.}
-{103}{}{Who you guard?}
+{100}{}{Usted se needin' algo?}
+{101}{}{Sí, me estaba preguntando quién está protegiendo.}
+{102}{}{Me? Oh no, yo no necesito nada. Bye.}
+{103}{}{Que se guard?}
 {104}{}{¡Adiós!}
 {110}{}{Yo se que custodiaban la tribu santo líder. El que camina con los espíritus. Un gran honor que lo custodiaban. Mantener fuera no deseados, como usted. Ahora acaba de salir.}
 {111}{}{[HECHO]}
@@ -11,13 +11,13 @@
 {131}{}{Escuchado acerca de las buenas obras que usted ha estado haciendo, fren. Vaya y asomarse al gran hombre. Él estará esperando.}
 {132}{}{Gracias.}
 {133}{}{Thankee.}
-{140}{}{Greetings, fren.}
-{141}{}{How goes things, warrior?}
+{140}{}{Saludos, fren.}
+{141}{}{Cómo va las cosas, guerrero?}
 {142}{}{Vamos, entra.}
-{143}{}{Well met, warrior.}
-{144}{}{Good to peep you again, fren.}
-{260}{}{Me kill slaver!}
-{300}{}{You see a strong looking tribal}
-{301}{}{You see the guardian of the tribe leader.}
+{143}{}{Bien conoció, guerrero.}
+{144}{}{Buenas a asomarse de nuevo, fren.}
+{260}{}{Me matan esclavista!}
+{300}{}{Verá un gran aspecto tribal}
+{301}{}{Vea el guardián de la líder de la tribu.}
 {302}{}{Este hombre está mirando con una mirada penetrante. Claramente, él está cuidando a alguien importante.}
-{500}{}{You always be welcome here, hero.}
+{500}{}{Siempre serán bienvenidos aquí, el héroe.}

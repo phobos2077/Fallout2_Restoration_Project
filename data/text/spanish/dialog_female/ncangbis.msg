@@ -2,7 +2,7 @@
 {101}{}{Ves a la escandalosa Angela Bishop.}
 {150}{}{Ves a una mujer joven que viste un ajustado vestido de cuero.}
 {151}{}{Ves a Angela Bishop. Cuando te pilla mirándola, se lame los labios lentamente.}
-{152}{}{You see Angela Bishop. She scowls at you with disgust.}
+{152}{}{Usted ve Angela Obispo. Ella scowls con asco.}
 {175}{}{Ves a una mujer joven que viste un ajustado vestido de cuero. Parece demasiado refinada como para ser puta.}
 {176}{}{Ves a Angela Bishop. Te mira despectivamente.}
 {200}{}{Mi padre te MATARÁ cuando se entere de cómo me has tratado.}
@@ -15,7 +15,7 @@
 {223}{}{Tú. Ven aquí. Ahora.}
 {224}{}{Yum.}
 {225}{}{Hmmmm.}
-{226}{}{Well, well...}
+{226}{}{Bien, bien...}
 {230}{}{Estoy ABURRIDA.}
 {231}{}{Parece una de las nuevas putas de papá…}
 {232}{}{Una de las putas baratas de papá…}
@@ -37,7 +37,7 @@
 {270}{}{Puedes apostar. Vamos.}
 {271}{}{Voy yo}
 {272}{}{Yo gusta jugar. Juego conmigo pero sólo yo}
-{280}{}{Exactly...}
+{280}{}{Exactamente...}
 {281}{}{[La sigues]}
 {290}{}{¡Va, venga! ¿Por favoooor? De verdad que quería enseñarte mi dormitorio. Sólo será un momento, te lo prometo.}
 {291}{}{¡No ir! ¡No voy yo! ¡No haces voy yo! ¡No lleves a sitio malo! ¡No!}
@@ -95,7 +95,7 @@
 {401}{}{Sí. Vamos a tu dormitorio, princesa, y te mostraré lo que es un hombre de verdad.}
 {402}{}{No, sólo tenía curiosidad por saber hasta qué punto eras una golfa. Mas tarde, muñeca.}
 {410}{}{Sí, es mejor que sepas cómo están las cosas por aquí. (Te mira de arriba abajo)}
-{411}{}{Uh...}
+{411}{}{Eh...}
 {413}{}{[Te quedas de pie incómodamente mientras ella te estudia]}
 {420}{}{De acuerdo entonces... (Te mira de arriba abajo)}
 {422}{}{Vale, así que...}

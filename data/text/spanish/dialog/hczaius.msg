@@ -59,7 +59,7 @@
 {146}{}{¿Estás de broma? Ni hablar.}
 {147}{}{ dólares. ¿Qué tal suena?}
 {148}{}{A tacañería, suena. Quiero más.}
-{149}{}{Suena bien.}
+{149}{}{Me parece bien.}
 {150}{}{Olvídalo. Me largo.}
 {151}{}{¡Genial! Por supuesto, necesitarás las piezas de recambio. Ve a Nuevo Reno y busca a Renesco. Tiene herramientas
  por toda la tienda. Dile que Zaius te envía. Dile que yo he dicho, "El canario estiró la
@@ -77,8 +77,8 @@
 {159}{}{Me marcharé.}
 {160}{}{Bien. Déjalo, entonces. Nada, gracias.}
 {161}{}{Lo que sea.}
-{162}{}{Hi, friend!}
-{163}{}{Oh, good. It's you again.}
+{162}{}{Hola, amigo!}
+{163}{}{Oh, bien. Eres tú de nuevo. }
 {164}{}{Hola.}
 {165}{}{Verás, yo sabía lo que esos bastardos de Franc, Manson, Jacob, y Aileen tenían preparado para nosotros. ¡Bien hecho! Así que…}
 {166}{}{Espero que te hayas pensado un poco lo de devolver el mineral a la ciudad… así que…}

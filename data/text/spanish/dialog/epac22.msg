@@ -11,11 +11,11 @@
 {302}{}{[Él sonríe, aparentemente encantado con la posibilidad de tener preguntas a responder.] Usted está de pie en la Agencia de Protección Ambiental, más comúnmente conocida como la EPA. Somos un gobierno de instalaciones de investigación que se especializa en el análisis de productos químicos para garantizar que son seguros para el medio ambiente de la Tierra. Pero eso es sólo la superficie. Hemos tenido todo tipo de cosas interesantes sucediendo aquí, al menos hasta que la instalación fue anulada debido a la guerra. Cosas que no he sido el mismo desde entonces.}
 {303}{}{Interesante. Así que, ¿cuál es exactamente tu propósito aquí?}
 {304}{}{Así, a diferencia de los otros hologramas que se pueden encontrar, yo no estaba creado para una tarea específica. Yo simplemente estoy aquí para responder del visitante pregunta o ayudar a resolver problemas matemáticos difíciles que la mente humana no puede lograr.}
-{305}{}{I see. Then perhaps you could answer some questions for me?}
+{305}{}{Lo que yo veo. Entonces, tal vez usted podría responder a algunas preguntas para mí?}
 {310}{}{Oh, me encantaría responder a sus preguntas. Pide lejos y voy a responder con lo mejor de mi capacidad.}
 {311}{}{Sigo viendo las referencias a un Nivel Azul. ¿Cómo puedo acceder a él?}
 {312}{}{He encontrado otra manera en este centro, pero se requiere un código de acceso. El servicio de ascensor lleva a ella.}
-{313}{}{Can you identify some items I found around here?}
+{313}{}{Puede usted identificar algunos elementos que he encontrado por aquí?}
 {314}{}{No importa. No necesito nada.}
 {320}{}{Por qué, por supuesto, el ascensor principal en la superficie debe llevarte a donde quieras ir! ¿Por qué ir a través de la
  sistema de ventilación?}
@@ -25,11 +25,11 @@
  Usted necesitará un código de acceso para acceder a su interior, sin embargo. Desde que estoy agradecido por que la reparación de mí, y te diré de código. El código es "MACETA".}
 {323}{}{Gracias. Deja que te pregunte algo más.}
 {324}{}{Oh, lo siento, pero el Nivel Azul contiene alto secreto de la investigación. El acceso a ese nivel se limita a... oh, al infierno con él. Usted la amabilidad de reparación de mí, así que supongo que me podría dar la contraseña. Se trata de "MACETA".}
-{330}{}{I will do my best. What item would you like me to identify?}
+{330}{}{Voy a hacer mi mejor esfuerzo. Qué elemento te gustaría identificarme?}
 {331}{}{¿Cuál es el propósito de esta comida de perro?}
 {332}{}{He encontrado esta jeringa llena de una sustancia desconocida. Podría usted decirme qué hace?}
 {333}{}{He encontrado este bastidor de tubos de ensayo. Nada específico que puedo hacer con ella?}
-{334}{}{What are the effects of using these drugs I found?}
+{334}{}{¿Cuáles son los efectos del uso de estos fármacos he encontrado?}
 {335}{}{He hecho algunos químicos desconocidos con el Señor Chemmie! de la máquina. ¿Qué hacen ellos?}
 {336}{}{He encontrado un poco de dinamita que era diferente a la de los que me he encontrado. Cómo puedo utilizarlo?}
 {337}{}{Actualmente, déjame hacerte otra pregunta.}

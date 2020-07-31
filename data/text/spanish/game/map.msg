@@ -35,11 +35,11 @@
 {134}{}{error:Map Name}
 {135}{}{error:Map Name}
 {136}{}{error:Map Name}
-{137}{}{El Eje}
-{138}{}{El Eje}
-{139}{}{El Eje}
-{140}{}{El Eje}
-{141}{}{El Eje}
+{137}{}{Eje}
+{138}{}{Eje}
+{139}{}{Eje}
+{140}{}{Eje}
+{141}{}{Eje}
 {142}{}{El Ardor}
 {143}{}{El Ardor}
 {144}{}{Cementerio}
@@ -456,7 +456,7 @@
 {585}{}{Celdas de detención}
 {586}{}{Celdas de detención}
 {587}{}{Muelle}
-{588}{}{Vertibird Unloading Pad}
+{588}{}{Vertibird Descarga De La Almohadilla.}
 {589}{}{Muelle}
 {590}{}{Sala de Entrada}
 {591}{}{Sala de Entrada}
@@ -576,7 +576,7 @@
 {705}{}{Desierto}
 {706}{}{Desierto}
 {707}{}{Subsuperficie}
-{708}{}{Sub Interior Level 1}
+{708}{}{Sub Interior De Nivel 1}
 {709}{}{}
 {710}{}{Nivel Uno}
 {711}{}{Nivel Dos}
@@ -584,7 +584,7 @@
 {713}{}{Nivel Uno}
 {714}{}{Nivel Dos}
 {715}{}{Nivel Tres}
-{716}{}{Abandoned House}
+{716}{}{Casa Abandonada}
 {717}{}{Caverna}
 {718}{}{}
 {1500}{}{Arroyo}
@@ -637,14 +637,14 @@
 {1547}{}{Encuentro aleatorio}
 {1548}{}{Establo}
 {1549}{}{Aldea}
-{1550}{}{Slaver Camp}
-{1551}{}{Hubologist Stash}
-{1552}{}{Safe House}
-{1553}{}{Safe House}
-{1554}{}{Safe House}
-{1555}{}{RP Easter Egg Encounter}
+{1550}{}{Esclavista Campamento}
+{1551}{}{Hubologist Alijo}
+{1552}{}{Casa De Seguridad}
+{1553}{}{Casa De Seguridad}
+{1554}{}{Casa De Seguridad}
+{1555}{}{RP Huevo de Pascua Encuentro}
 {1556}{}{Mercader}
 {1557}{}{Mercader}
 {1558}{}{Submarino de Shi}
-{1559}{}{Abandoned House}
-{1560}{}{Gecko Enclave Patrol}
+{1559}{}{Casa Abandonada}
+{1560}{}{Gecko Enclave De La Patrulla}

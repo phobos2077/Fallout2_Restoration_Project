@@ -99,7 +99,7 @@
 {420}{}{es golpeado al azar}
 {421}{}{se rompe un miembro al azar}
 {422}{}{le alcanzan los fragmentos}
-{506}{}{Tú}
+{506}{}{Usted}
 {509}{}{%s eres herida en vez de %s!}
 {511}{}{%s eres herida críticamente en %s, pierdes %d puntos de salud}
 {512}{}{%s eres herida en %s perdiendo %d puntos de salud}
@@ -117,7 +117,7 @@
 {528}{}{%s eres críticamente herida sin sufrir daño}
 {533}{}{%s falla críticamente y pierde 1 punto de salud}
 {534}{}{%s falla críticamente y pierde %d puntos de salud}
-{556}{}{Tú}
+{556}{}{Usted}
 {559}{}{%s eres herida en vez de %s!}
 {561}{}{%s eres herida críticamente en %s, pierdes %d puntos de salud}
 {562}{}{%s eres herida en %s perdiendo %d puntos de salud}
@@ -496,7 +496,7 @@
 {2037}{}{las alas}
 {2038}{}{un lugar indefinido}
 {5000}{}{. Eso realmente duele}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Grave dolor infligido.}
 {5002}{}{ traspasando su armadura}
 {5003}{}{. El ataque lo deja inconsciente}
 {5004}{}{. El golpe lo tira al suelo}
@@ -534,7 +534,7 @@
 {5036}{}{. El dolor es demasiado para él y se desploma como un castillo de naipes}
 {5037}{}{. Susurra "Mamá", mientras sus ojos se quedan en blanco}
 {5100}{}{. Eso realmente duele}
-{5101}{}{. Serious pain is inflicted}
+{5101}{}{. Grave dolor infligido.}
 {5102}{}{ traspasando su armadura}
 {5103}{}{. El ataque la deja inconsciente}
 {5104}{}{. El golpe la tira al suelo}

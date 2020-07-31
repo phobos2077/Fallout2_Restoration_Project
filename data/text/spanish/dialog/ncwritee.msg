@@ -12,7 +12,7 @@
 {200}{}{::Brindis::}
 {201}{}{::Aplausos::}
 {202}{}{::Silbidos::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{(Canta.) "No necesitamos otro héroe, no necesitamos saber el camino a casa..."}
 {204}{}{¡Oye! }
 {205}{}{Qué manera de aplastar al Enclave, }
 {206}{}{Tienes que ser más duro que Tommy Pelotas para haberte cargado el Enclave como hiciste.}
@@ -58,10 +58,10 @@
 {299}{}{Ese mutante tuyo, que tenga cuidado por aquí, ¿me oyes?}
 {305}{}{¿Qué quieres?}
 {306}{}{¿Necesitas ayuda?}
-{307}{}{Damn hot...}
+{307}{}{Maldito calor...}
 {308}{}{Nuevo Reno se vuelve más fea a cada día que pasa…}
 {309}{}{¿Qué estás haciendo por aquí?}
-{310}{}{If you're lookin' for alcohol, the train station is the place to be.}
+{310}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
 {311}{}{Cuida tus pasos por aquí, amigo. Este es territorio de la Familia Wright.}
 {320}{}{Deberías jugar con los chicos con esta armadura puesta. Les encantaría.}
 {321}{}{No pises a ninguno de los pequeños con esa armadura puesta, ¿me oyes?}
@@ -79,11 +79,11 @@
 {340}{}{Papá dijo que nos estrangulará si alguna vez nos oye hablar de tomar Jet.}
 {341}{}{Papá todavía está enfadado, así que cuidado cuando hables con él, ¿me oyes?}
 {342}{}{Chris será azotado como siga colándose en el burdel.}
-{343}{}{Damn hot...}
+{343}{}{Maldito calor...}
 {344}{}{Hace tiempo que no veo a mamá. Si la ves, no le menciones nada sobre la destiladora, ¿vale?}
 {345}{}{Keith desmontó el piano la semana pasada y lo volvió a montar. Chico listo.}
 {346}{}{Vamos a volver a cazar escorpiones rad dentro de unos días.}
-{347}{}{If you're lookin' for alcohol, the train station is the place to be.}
+{347}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
 {348}{}{Cuidado con los chicos por aquí, siempre están bajo los pies de uno.}
 {349}{}{¿Y me puedes enseñar a luchar?}
 {350}{}{Tú eres ese luchador, }
@@ -98,20 +98,20 @@
 {362}{}{¿Y entonces cómo es en las películas? Mamá no me deja verlas.}
 {363}{}{No le digas a los pequeños lo que haces.}
 {364}{}{A mamá le dará un ataque si te ve. Ella es así de histriónica.}
-{365}{}{If you're lookin' for alcohol, the train station is the place to be.}
+{365}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
 {366}{}{Nosotros, los Wright, somos la Familia más fuerte porque nosotros SOMOS familia.}
 {367}{}{Una lástima lo de mi hermanito. Era un buen muchacho, pero el Jet está por toda esta ciudad, es difícil evitarlo…}
 {368}{}{Papá dijo que nos estrangulará si alguna vez nos oye hablar de tomar Jet.}
 {369}{}{Papá todavía está enfadado, así que cuidado cuando hables con él, ¿me oyes?}
 {370}{}{Chris será azotado como siga colándose en el burdel.}
-{371}{}{Damn hot...}
+{371}{}{Maldito calor...}
 {372}{}{Keith desmontó el piano la semana pasada y lo volvió a montar. Chico listo.}
 {373}{}{Vamos a volver a cazar escorpiones rad dentro de unos días.}
 {374}{}{¿De verdad hablas con Dios cuando practicas sexo en el plató?}
 {375}{}{Mamá dice que eres un instrumento del demonio.}
 {376}{}{Mamá dice que eres una ramera. Un putón desvergonzado. No tengo ni idea de lo que quiere decir.}
-{385}{}{You planning to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
-{386}{}{If you're lookin' for alcohol, the train station is the place to be. }
+{385}{}{Usted planificación a ver a Papá acerca de los negocios? Bien, buena suerte, no creo que la contratación de cualquiera de manos ahora.}
+{386}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar. }
 {387}{}{Cuida tus pasos por aquí, amigo. Este es territorio de la Familia Wright.}
 {390}{}{Mejor será que te vayas… no somos amables con los esclavistas.}
 {391}{}{No CREAS que vas a raptar a nadie por aquí. Si causas un solo problema te destriparemos.}
@@ -120,7 +120,7 @@
 {394}{}{Te estoy vigilando, esclavista, así que cuidado con lo que haces, ¿me oyes?}
 {395}{}{Si tocas a uno de los chicos, esclavista, te dispararé tantas veces que volarás fuera de tus botas.}
 {396}{}{Toca a cualquiera de esos chicos, esclavista, y te mataré.}
-{397}{}{If you're lookin' for alcohol, the train station is the place to be.}
+{397}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
 {398}{}{i le haces daño a un Wright, esclavista, la Familia no descansará hasta que te estés pudriendo en el Gólgota.}
 {399}{}{¿Estás aquí para ver a papá por negocios? No creo que papá los haga con esclavista. Mejor vete.}
 {410}{}{Mejor será que te vayas… sin ánimo de ofender, pero a papá no le gustan demasiado los tribales.}
@@ -129,7 +129,7 @@
 {413}{}{Mejor será que no hayas traído drogas, o de lo contrario papá te matará. Luego, YO te mataré también.}
 {414}{}{Te estoy vigilando, así que cuidado con lo que haces, ¿me oyes?}
 {415}{}{¿De dónde eres? Hace tiempo que no veo a los de tu clase por aquí.}
-{416}{}{If you're lookin' for alcohol, the train station is the place to be.}
+{416}{}{Si usted está buscando' por el alcohol, la estación de tren es el lugar para estar.}
 {417}{}{Si le haces daño a un Wright, la Familia no descansará hasta que te estés pudriendo en el Gólgota.}
 {418}{}{¿Estás aquí para ver a papá por negocios? Buena suerte, no creo que contrate a nadie ahora.}
 {425}{}{Ese necrófago no debería estar aquí. Mejor que lo envíes de vuelta a Gecko.}

@@ -11,4 +11,4 @@
 {206}{}{Copiar libros es un trabajo bastante difícil.}
 {207}{}{Hola.}
 {208}{}{Hay mucho para copiar de esos libros.}
-{500}{}{¡Deja de hacer eso!}
+{500}{}{¡Para eso!}

@@ -1,14 +1,14 @@
-{100}{}{You see a warrior.}
-{101}{}{You see Serin.}
-{102}{}{He looks badly injured and has a broken leg.}
+{100}{}{Usted ve a un Guerrero.}
+{101}{}{Ver Serin.}
+{102}{}{Él se ve mal herido y se ha roto una pierna.}
 {103}{}{Ver Serin. Él se ve mal herido y se ha roto una pierna.}
-{104}{}{You see Serin. His leg is bandaged and he is hobbling.}
-{105}{}{You see Serin. He looks better and he is in a deep sleep.}
-{106}{}{You see Serin. He looks like he has recovered nicely.}
+{104}{}{Ver Serin. Su pierna vendada y él está cojeando.}
+{105}{}{Ver Serin. Se ve mejor y él está en un sueño profundo.}
+{106}{}{Ver Serin. Él parece que se ha recuperado muy bien.}
 {200}{}{*ugh* Morir demonio!! Usted no será ta-}
-{201}{}{Calm down. You're safe now. The gecko is dead.}
+{201}{}{Calmarse. Ahora estás a salvo. El gecko está muerto.}
 {202}{}{Qué!? Oh, alabado los espíritus, fren. Yo temía que puedo hacer para que.}
-{203}{}{What happened here?}
+{203}{}{¿Qué pasó aquí?}
 {204}{}{Jerem y me va a salir por la semana de la caza. Tomó la cueva de pasaje a campo, donde muchos de los geckos de vagar. Hunt fue mala. Había que correr. También muchos de los geckos con los espíritus de furia. Entramos en la cueva. Comenzó a gritar pidiendo ayuda. [Hace una pausa por un momento y hace una mueca de dolor mientras él intenta frotar su pierna.]}
 {205}{}{Por favor, continúa.}
 {206}{}{Pasaje ya estaba en el borde de la perdición. Filtraciones de agua en de la corriente de sobrecarga. Un mortal pase, pero sería una gran acceso directo a los campos. No no más. A ver, vamos a ser gritando como locos y el techo de estrellarse en nosotros.}
@@ -28,11 +28,11 @@
 {220}{}{Bien, que debería acerca de hacerlo. Usted necesitará un par de días de descanso para recuperarse completamente. No ponga demasiada presión sobre él durante este tiempo y que debe estar bien.}
 {221}{}{Espíritu santo posee usted, fren! Le doy las gracias. Ahora puedo estar cojeando a mi manera para el chamán. Algunas hierbas para aliviar el dolor. A ver de vuelta en la aldea, fren.}
 {222}{}{[HECHO]}
-{300}{}{I thank you, fren. Be seeing you back at the village.}
+{300}{}{Gracias, fren. A ver de vuelta a la aldea.}
 {400}{}{Muchas gracias, fren. Verdaderamente, eres bendito por los espíritus.}
 {500}{}{zzzZZzzz...}
 {501}{}{...zzZZZZzz... zzz...}
-{600}{}{You heal Serin's leg.}
-{700}{}{He needs more help than I can offer. I better get going.}
-{1000}{}{Good to be peeping you, hero.}
-{1001}{}{I never forget what you done for me, hero.}
+{600}{}{Sanar Serin de la pierna.}
+{700}{}{Él necesita más ayuda que puedo ofrecer. Mejor me voy yendo.}
+{1000}{}{Bueno para ser peeping usted, héroe.}
+{1001}{}{Yo nunca olvidaré lo que hiciste por mí, el héroe.}

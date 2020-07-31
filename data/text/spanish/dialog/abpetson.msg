@@ -22,7 +22,7 @@
 {601}{}{Cuidando de las tumbas como de costumbre supongo. Entonces, sobre lo que escuchaste ...}
 {602}{}{[John se sienta en su silla y se sirve una trago de whisky.] Todo comenzó hace un par de días. Mi esposa y
  yo estábamos preparándonos para irnos a la cama cuando escuchamos un crujido en el campo. Agarré mi linterna y corrí afuera para ver si podia encontrar la fuente del ruido. Tan pronto como llegué a los campos, los ruidos se habían detenido.}
-{603}{}{Sigue.}
+{603}{}{Continúa.}
 {604}{}{Mira, realmente debo irme.}
 {605}{}{Bueno, la noche siguiente no escuchamos nada. Pero la noche después de eso, escuchamos crujidos provenientes del campo de nuevo. Esta vez me arrastré hasta la ventana y miré en vez de salir corriendo. Mirando en la oscuridad, vi una luz tenue, como de una linterna vieja o algo así, moviéndose entre los cultivos. Después de un par de minutos, la luz se movió hacia el cementerio.}
 {606}{}{Yo quería salir y enfrentarme a quien sea o lo que fuera, pero mi esposa me convenció para que permaneciera adentro y revisara las cosas en la mañana. Así que a la mañana siguiente, veo que se han comido algunos de mis cultivos y huellas frescas alrededor. Ahora, no me importa alimentar a los pobres, pero no me agradan los ladrones.}
@@ -31,7 +31,7 @@
 {609}{}{Esta historia se está haciendo un poco demasiado largo. Adiós.}
 {610}{}{Déjeme entenderlo. Estarías feliz de ayudar a alguien que acecha en su casa por la noche, roba sus cultivos, y trata de robar a sus muertos? He conocido a muchos locos en mi época, pero es posible que te lleves el pastel. Es una maravilla que hallas sobrevivido tanto tiempo.}
 {611}{}{[Él entorna los ojos, pero se las arregla para mantener la compostura.] Así es como hacemos las cosas aquí en la Abadía. Si amabilidad es tan ofensivo para ti, entonces te sugiero que te vayas de mi casa. No voy a sentarme aquí y dejar a un tribal errante me insulte frente a mi esposa.}
-{612}{}{Está bien, está bien. Me marcho.}
+{612}{}{Vale, vale, ya me voy.}
 {613}{}{OK tipo duro, ahora este "tribal errante" te va a matar frente a tu esposa. Entonces tal vez la mate también. Demonios, tal vez mate a todos en este patético maldito lugar. ¿Pensabas que podías esconderte del horror del Yermo? Bueno, ¿sabes qué, mi ingenuo amigo? Horror te ha encontrado, y su nombre es }
 {700}{}{Lárgate de hache ya.}
 {710}{}{Qué bueno verte de nuevo. Tom ha sido de gran ayuda por aquí. Gracias de nuevo por ordenar todo eso. Ahora, ¿qué puedo hacer por ti?}

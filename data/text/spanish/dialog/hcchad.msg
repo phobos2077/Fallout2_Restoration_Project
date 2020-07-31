@@ -6,8 +6,8 @@
 {122}{}{¡Deerk deegler!}
 {123}{}{¿Quién?}
 {124}{}{Marcus ha estado haciendo algunas preguntas sobre ti.}
-{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
-{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{No hay suficiente evidencia para arrestar a usted para robar el dinero que se supone que va a ir a Broken Hills. Vas hacia abajo.}
+{126}{}{No hay suficiente evidencia para arrestar a usted para robar el dinero que se supone que va a ir a Broken Hills. Cortar conmigo para $1000 y la voy a hacer seguro de que usted puede huir de la ciudad.}
 {127}{}{¿Quién eres?}
 {128}{}{Háblame sobre este lugar.}
 {129}{}{Nada. Adiós.}
@@ -15,7 +15,7 @@
 {131}{}{¡A-adiós!}
 {132}{}{Soy Chad.}
 {133}{}{Mira, ahora estoy muy ocupado. Búscate a otro a quien molestar.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days, I'm focusing primarily on Gecko.}
+{134}{}{Soy el organizador de caravanas de la ciudad. Me ocupo de los negocios al otro extremo de las rutas comerciales. Estos días estoy centrado mayoritariamente en Gecko.}
 {135}{}{¡Vale!}
 {136}{}{Me gustaría trabajar contigo.}
 {137}{}{Suena excitante.}
@@ -26,10 +26,10 @@
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
-{145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
+{145}{}{Él sospecha que está rozando el dinero que se supone que se va a Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
 {147}{}{Mira, yo no sé nada acerca de eso, y estoy seguro como el infierno que no le gusta cuando la gente me acusan de cosas. Ahora le sugiero que deje.}
-{150}{}{I'm going to find out the truth. Bye.}
+{150}{}{Voy a averiguar la verdad. Bye.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
 {158}{}{Gracias. Adiós.}
@@ -52,17 +52,17 @@
 {175}{}{No dejes que esos cabrones se te echen encima.}
 {200}{}{No sé lo que vas hablando. Sugiero colocar este asunto antes de empezar a cabrear a la gente. Ahora salir de aquí.}
 {201}{}{Tengo una mejor idea. ¿Me golpearon hasta la muerte en su lugar.}
-{202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
-{203}{}{Fine, goodbye.}
+{202}{}{Respuesta incorrecta. Parece que recogió el hombre equivocado para meterse con ellos.}
+{203}{}{Bien, adiós.}
 {204}{}{Ah maldita sea, yo sabía que esto no duraría para siempre. [Mira a su alrededor y baja su voz.] Bien, escucha. Mantener la boca cerrada acerca de este tema. Aquí de $1000 para mantenerlos callados. [Él te entrega el dinero.] Ahora, si me disculpáis, tengo que ir.}
 {205}{}{[HECHO]}
-{206}{}{Help! We have a thief on our hands here.}
+{206}{}{Ayuda! Tenemos un ladrón en nuestras manos aquí.}
 {207}{}{}
-{208}{}{What the!? Who the hell are you?}
+{208}{}{Qué!? Quién diablos es usted?}
 {209}{}{Me? Uh, yo soy el hada de los dientes. He venido a traer grandes riquezas.}
 {210}{}{Sí, y yo soy Saint Nick. Ahora que la mierda son ustedes y por qué están en mi casa?}
 {211}{}{De verdad? Yo conocí a un chico en New Reno que también pretende ser de Saint Nick.}
-{212}{}{*Stares blankly*}
+{212}{}{*Se queda mirando fijamente*}
 {213}{}{(ir on) Sí, y entonces le conté mi historia de la vida sobre el Arroyo...}
 {214}{}{Escucha, yo no doy un vuelo a la mierda acerca de cualquiera de sus disquisiciones mierda. Tú eres el que ha sido snooping alrededor, haciendo preguntas acerca de la falta de la caravana de dinero.}
 {215}{}{Eso es correcto. Y estoy aquí para recoger la pieza final de la prueba que necesito para poner distancia.}
@@ -76,7 +76,7 @@
 {219}{}{Estoy aquí para la última pieza de evidencia en la caravana rozando el caso.}
 {220}{}{Oh ¿de verdad?...Pensé que reconoció usted.}
 {221}{}{Bien, Bien. Admito todo. Yo no quiero morir por esto. Dígale a Marcus voy a venir en paz.}
-{222}{}{Alright, don't move. I'll go get Marcus.}
+{222}{}{Bien, no se mueven. Iré a buscar a Marcus.}
 {300}{}{Que permiten a Chad para saltar de la ciudad.}
 {400}{}{Déjame tranquilo.}
 {2040}{}{Ah maldita sea yo sabía que esto no duraría para siempre. (Mira a su alrededor y baja su voz.) Bien escuchar. Mantenga su

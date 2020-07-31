@@ -1,20 +1,20 @@
-{100}{}{You see a grungy, shaggy looking man.}
+{100}{}{Usted ve un sucio, peludo busca hombre.}
 {101}{}{Su ropa rasgada y sucia. Él tiene varios arañazos en los brazos y las piernas.}
-{150}{}{Woof! Wooof. Woooof.}
-{151}{}{Uh, are you alright?}
-{152}{}{Uh, right. Bye.}
-{153}{}{Hey, I think I found something that might help your condition.}
+{150}{}{Guau! Wooof. Woooof.}
+{151}{}{Eh, ¿estás bien?}
+{152}{}{Uh, a la derecha. Bye.}
+{153}{}{Hey, yo creo que he encontrado algo que puede ayudar a su condición.}
 {154}{}{Hmm... parece que usted podría estar sufriendo de algún trastorno neurológico, tal vez la epilepsia. Lamentablemente, no puedo
  hacer nada al respecto. Bye.}
-{160}{}{Woof. Woof woof. Woooof.}
+{160}{}{De la trama. La trama de la trama. Woooof.}
 {250}{}{¡Grrr!}
 {251}{}{Grrrrrr!}
 {252}{}{Grrrrrrrr!}
 {253}{}{Grrrrrrrrrr!}
-{254}{}{[Shamble away]}
-{255}{}{Grrrrrrrrr! Grrr! Woof!}
+{254}{}{[Shamble lejos]}
+{255}{}{Grrrrrrrrr! Grrr! Guau!}
 {256}{}{(El hombre wimpers y se escabulle de distancia.)}
-{257}{}{Hehe. Nice doggie...}
+{257}{}{Jeje. Lindo perrito...}
 {258}{}{Jeje. Me super doogie...}
 {300}{}{¿Guau?}
 {301}{}{Sí. Acabo de escuchar de cerca a esta serie de cartas que te voy a decir...}
@@ -29,9 +29,9 @@
  agradezco lo que has hecho. Aquí, hay que tomar estos stimpacks. He encontrado 'em cuando yo estaba buscando comida detrás de todos estos edificios.}
 {307}{}{Gracias. Hasta otra.}
 {350}{}{¡Guau!}
-{351}{}{Woof! Woooof!}
-{352}{}{*scratches self*}
+{351}{}{Guau! Woooof!}
+{352}{}{*los arañazos de auto*}
 {400}{}{Guau! Je, es broma. Gracias de nuevo por el curado de mí.}
-{500}{}{You cure the Barking Man.}
-{600}{}{*whimper*}
-{601}{}{He looks at you with big, scared eyes.}
+{500}{}{Se puede curar el Ladrido de Hombre.}
+{600}{}{*quejido*}
+{601}{}{Él te mira con los grandes, los ojos asustados.}

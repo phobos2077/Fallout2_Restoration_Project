@@ -13,6 +13,6 @@
 {402}{}{¿Qué clase de reliquias?}
 {403}{}{Él puede ser encontrado en el tercer piso. Si desea obtener más información sobre nuestra orden, es él con quien debe hablar.}
 {404}{}{De todo tipo, pero la mayoría de nuestros Memoriales consisten en tomos antiguos. Se puede obtener mucha información de esos textos. Es nuestra misión preservar este conocimiento para que una generación futura pueda usarlo para construir un nuevo mundo de paz y alegría.}
-{405}{}{De acuerdo.}
+{405}{}{Vale.}
 {406}{}{Vale.}
-{500}{}{¡Deja de hacer eso!}
+{500}{}{¡Para eso!}

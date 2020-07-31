@@ -3,7 +3,7 @@
 {102}{}{No hay nada en particular en el tipo. Parece el epítome del burócrata en ciernes.}
 {103}{}{Bienvenido al Congreso. ¿Cómo puedo ayudarte?}
 {104}{}{Has vuelto, por lo que que veo. ¿Cómo puedo ayudarte esta vez?}
-{105}{}{Now, how can I help you?}
+{105}{}{Ahora, ¿en qué puedo ayudarle?}
 {106}{}{Uhhh...}
 {107}{}{¿Ver a Tandi yo?}
 {108}{}{¿Ver a Tandi yo?}
@@ -14,7 +14,7 @@
 {113}{}{Estoy aquí para ver a la presidente Tandi.}
 {114}{}{Estoy aquí para ver a la presidente Tandi.}
 {115}{}{Estoy buscando trabajo.}
-{116}{}{¿Qué es este lugar?}
+{116}{}{¿Qué lugar es éste?}
 {117}{}{No puedes.}
 {118}{}{Yo me voy.}
 {119}{}{Lo siento, aquí no hay aseos públicos. ¿Por qué no sigues tu camino?}

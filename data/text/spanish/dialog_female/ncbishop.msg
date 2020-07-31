@@ -40,8 +40,8 @@
 {267}{}{(Te estudia) Entonces… ¿de dónde CONOCES a Moore? ¿Ahora juega a la política entre los tribales? ¡Ja! Ese muchacho confundió su vocación.}
 {268}{}{Le conocí en Ciudad Refugio, extendiendo la palabra. Me ofrecí a ayudarlo entregándote este maletín.}
 {269}{}{Simplemente me lo encontré durante mi viaje. Me ofrecí a ayudarlo entregándote este maletín.}
-{275}{}{Heh... damn human of you... for all his preaching, ol' Tomcat Moore can't seem to step off his soapbox long enough to actually
- do any legwork. Heh... still, that don't make him any different than any other NCR boy.}
+{275}{}{Je... maldito humano de usted... por toda su predicación, ol' Tomcat Moore parece que no puede bajarse de su tribuna el tiempo suficiente para realmente
+ hacer cualquier trabajo de campo. Je... todavía, que no le hacen diferente de cualquier otro NCR niño.}
 {276}{}{Predica mucho. De hecho, parece tener mucho sentido.}
 {277}{}{Tiene cierto… talento con las palabras.}
 {278}{}{Sí, bueno, en algún momento ha de hacerse el trabajo, y me llaman para asegurarme de que las cosas se entregan… como ese maletín.}
@@ -281,8 +281,8 @@
 {925}{}{Has asesinado a Westin.}
 {950}{}{Te has cargado a Carlson.}
 {975}{}{Te has convertido en Iniciada de la Familia Bishop.}
-{1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
+{1805}{}{Sí... el rumor de los residuos es alguien que coincide con la descripción que ayudó a poner fin a los raiders sur de la Bóveda de la Ciudad. }
 {1820}{}{Bien, usted debe ser un astuto hijo de puta para convencer a su guía para dejar de guiar a ellos a través de las montañas.
  Y podría ser que no me GUSTA lo que hizo allí.}
-{1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
-{1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}
+{1836}{}{A mi modo de ver, no me debes grande, tribal. No me gusta la gente meterse con asuntos que no son suyos. }
+{1840}{}{Yo no debo nada, y yo no voy a hacer su trabajo sucio. Entender?}

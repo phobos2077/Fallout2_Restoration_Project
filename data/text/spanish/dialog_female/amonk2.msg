@@ -8,4 +8,4 @@
 {203}{}{Buenas días... ¿o es de noche ya?}
 {204}{}{Hay tanto trabajo que debe ser hecho.}
 {205}{}{La vida aquí en la Abadía es pacífica. Algo raro en este miserable Yermo.}
-{500}{}{¡Deja de hacer eso!}
+{500}{}{¡Para eso!}

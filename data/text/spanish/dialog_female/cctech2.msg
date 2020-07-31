@@ -13,7 +13,7 @@
 {112}{}{¿Dónde está la base principal del Enclave?}
 {113}{}{Busco planos de v-vertibird. ¿Dónde encuentro yo?}
 {117}{}{Tengo que marchar.}
-{118}{}{¿Qué es este lugar?}
+{118}{}{¿Qué lugar es éste?}
 {119}{}{¿Cuál es tu trabajo aquí?}
 {120}{}{¿Dónde está la base principal del Enclave?}
 {121}{}{Estoy buscando los planos de los vertibird. ¿Dónde los guardan?}
@@ -25,7 +25,7 @@
 {130}{}{Eh... ya.}
 {131}{}{Bien. Sigue con tu trabajo.}
 {132}{}{Soldado, esa información sólo es para los que la necesitan saber. Si tienes que preguntar es que no necesitas saberla.}
-{133}{}{De acuerdo.}
+{133}{}{Vale.}
 {134}{}{Vamos, no es como si fuera un maldito tribal o algo así. Llevamos el mismo uniforme, ¿te has fijado en la insignia de la armadura?}
 {135}{}{Entendido.}
 {136}{}{Sí, señora. La base principal se encuentra más allá de la costa del Pacífico, cerca de la ciudad de San Francisco. ¿Puedo preguntarle por qué quiere saberlo?}
@@ -36,7 +36,7 @@
 {141}{}{Gracias.}
 {142}{}{Gracias.}
 {143}{}{Pues deberían estar en Mantenimiento, justo al lado de la torre de control aéreo.}
-{144}{}{De acuerdo.}
+{144}{}{Vale.}
 {145}{}{Entiendo.}
 {155}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Vístete!}
 {156}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}

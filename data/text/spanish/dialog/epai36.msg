@@ -1,14 +1,14 @@
 {100}{}{Ves una computadora.}
-{150}{}{Please select an option below.}
-{151}{}{Information}
-{152}{}{Employee Access}
-{160}{}{Please select an option below.}
-{161}{}{Lower Force Field}
+{150}{}{Por favor, seleccione una opción a continuación.}
+{151}{}{Información.}
+{152}{}{El Acceso De Los Empleados}
+{160}{}{Por favor, seleccione una opción a continuación.}
+{161}{}{Disminuir La Fuerza De Campo}
 {162}{}{[VOLVER]}
 {170}{}{Para disminuir la fuerza de los campos, por favor, introduzca la contraseña de acceso. (Si la contraseña perdida u olvidada, por favor consulte el Holograma 40011, Director de Relaciones Públicas.)}
 {171}{}{ABRE}
 {172}{}{[VOLVER]}
-{180}{}{Thank you. Force fields are now disengaged.}
+{180}{}{Gracias. Los campos de fuerza son ahora desconectado.}
 {181}{}{[HECHO]}
 {200}{}{Bienvenidos a la EPA Zoológico de mascotas! Aquí usted tendrá el placer de interactuar con estas criaturas únicas que
  parecen muy deformado los seres humanos! Eso es porque estas bestias feas son el resultado de interesantes experimentos en los que nuestro
@@ -22,7 +22,7 @@
  estos fallado abominaciones, pensamos que sería divertido poner en un zoológico de mascotas. No te preocupes, a pesar de su horrible apariencia,
  no van a atacar siempre y cuando estén bien alimentados. Nos complace informar sólo tres visitante víctimas se han producido
  en el último año!}
-{221}{}{[Logoff.]}
+{221}{}{[Cierre de sesión.]}
 {300}{}{Bienvenidos a nuestra nueva exhibición! El extraño aspecto tentáculos a las criaturas que veremos en esta jaula podría parecerse a ellos
  venía del espacio exterior, pero no son extraterrestres, en realidad, se hicieron a la derecha aquí en los estados unidos! Como usted puede haber adivinado,
  estos chicos no fueron creados por la madre naturaleza, que fueron creados por la ciencia!}
@@ -35,7 +35,7 @@
 {320}{}{Usted está buscando en el futuro de la guerra biológica! Pero no te preocupes, estos masacre vicioso máquinas no pueden obtener
  usted, como son encerrados bajo llave dentro de los confines de su alta seguridad de la jaula. Vas a tener que disculpar la iluminación tenue,
  pero estos chicos son más felices cuando se hace hincapié en lugar fresco, oscuro y lugares, y usted no quiere que ellos se enoje, ¿lo harías?}
-{321}{}{[Logoff.]}
+{321}{}{[Cierre de sesión.]}
 {400}{}{Aquí se puede ver la planta de la vida a diferencia de cualquiera que hayas visto antes! Esta emocionante nueva especie, derivadas de la Venus
  Trampa, fue específicamente diseñado por nuestros científicos brillantes, para ser capaz de sobrevivir en un mundo devastado por una nuclear
  la guerra. ¿Por qué queremos hacerlo? Es muy sencillo.}
@@ -48,4 +48,4 @@
 {420}{}{Suena terrible, ¿no? Pero no te preocupes. Estas nuevas plantas puede ser la respuesta a ese problema. En lugar de
  depender de la fertilidad del suelo y la lluvia, son capaces de obtener los nutrientes por matar y comer animales, como
  gente!!! Todo a través de las maravillas de la ciencia!}
-{421}{}{[Logoff.]}
+{421}{}{[Cierre de sesión.]}

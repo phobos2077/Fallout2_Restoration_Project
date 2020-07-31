@@ -9,4 +9,4 @@
 {200}{}{Ves a un joven.}
 {201}{}{Es un niño pequeño.}
 {202}{}{Es una niña pequeña.}
-{210}{}{Buenas.}
+{210}{}{Hola.}

@@ -1,14 +1,14 @@
 {100}{}{Ves una computadora funcional.}
-{101}{}{You see the EPA's Top Secret Research and Development Terminal.}
+{101}{}{Ve a la EPA de alto Secreto de la Investigación y el Desarrollo de la Terminal.}
 {102}{}{Bienvenido a la EPA de alto Secreto de la Investigación y el Desarrollo de la Terminal. Error de inicialización de acceso rápido procedimiento. Por favor
  buscar algo específico.}
-{103}{}{Search for anything of importance.}
+{103}{}{Búsqueda de cualquier cosa de importancia.}
 {104}{}{Desconexión.}
 {105}{}{Después de 30 minutos de tamizar a través de todos los archivos que se encuentran cuatro de los cuales parecen útiles. Por favor, hacer una elección.}
-{106}{}{Access FEV history log.}
+{106}{}{Acceso FEV registro de la historia.}
 {107}{}{Archivo de acceso en la Epilepsia cura.}
-{108}{}{Keep searching.}
-{109}{}{Please make a choice below.}
+{108}{}{Seguir buscando.}
+{109}{}{Por favor, hacer una elección.}
 {110}{}{Las tensiones continuaron acumulándose entre los EE.UU. y China, un miedo a la vanguardia de las mentes de nuestros funcionarios militares
  era que el Chino iba a desplegar armas biológicas contra las tropas Estadounidenses. Como resultado, el Oeste de Tek, una de las principales de alta tecnología
  contratista de defensa, fue contratado para desarrollar un agente de mostrador. Esto llevó a Oeste Tek investigación sobre la Pan-Inmunidad del Virión
@@ -28,10 +28,10 @@
  (y el buen inflexiones) utilizado por el Dr. Hodkin en sus experimentos. Esta es una noticia maravillosa y es un excelente comienzo para
  la investigación adicional en el tratamiento de trastornos neurológicos.}
 {121}{}{Esto podría ser útil. Tome nota de la cadena y la búsqueda de algo más.}
-{130}{}{You find nothing more of interest.}
-{131}{}{You still find nothing more of interest.}
+{130}{}{Encuentras nada más de interés.}
+{131}{}{Usted todavía encontrar nada más de interés.}
 {132}{}{Tal vez si usted busca un poco más, usted puede encontrar algo?}
-{133}{}{Maybe one more search?}
+{133}{}{Tal vez uno de los más de búsqueda?}
 {134}{}{Después de mucho dolor de búsqueda, usted venir a través de un archivo oculto.}
 {135}{}{Acceso a archivo de la etiqueta: Masa de la Fluoración del Proyecto.}
 {136}{}{En el continuo esfuerzo para concienciar a los ciudadanos de los Estados unidos, más controlable, la inclusión de sodio
@@ -45,7 +45,7 @@
  fluidos" y evita el consumo de cualquier sustancia que no sabe de dónde se originó. Incluso ha dejado de tener sexo
  las relaciones sexuales como él los temores de que las mujeres buscan "la esencia de la vida."}
 {139}{}{Atrás.}
-{150}{}{Gender Modification.}
+{150}{}{Género Modificación.}
 {151}{}{Cargados de Virus Moscas de la Fruta.}
 {160}{}{El Dr. Glen Madera ha logrado un nuevo avance en su investigación sobre el género de la modificación que él reclamaciones
  revolucionar nuestros países espionaje esfuerzos. Con sólo un simple procedimiento, un hombre que podría convertirse en una mujer, o viceversa.

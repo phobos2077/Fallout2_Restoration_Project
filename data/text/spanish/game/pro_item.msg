@@ -159,7 +159,7 @@
 {8000}{}{Libro de primeros auxilios}
 {8001}{}{Un libro de estudio sobre los conceptos y la práctica de los primeros auxilios.}
 {8100}{}{Pincho de iguana}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Una iguana asada en su propia piel.}
 {8200}{}{Llave}
 {8201}{}{Una llave. Una llave que abrirá una cerradura en particular.}
 {8300}{}{Llavero}
@@ -223,7 +223,7 @@
 {11200}{}{Urna}
 {11201}{}{Un bonita urna dorada con el nombre "Harriet" inscrito en la parte frontal, que contiene cenizas.}
 {11300}{}{Túnica}
-{11301}{}{Worn-looking robes.}
+{11301}{}{Usado-buscando vestidos.}
 {11400}{}{Mano de Tangler}
 {11401}{}{Un manipulador cibernético, con forma de mano. Dañada por la naturaleza descuidada del proceso de retirada.}
 {11500}{}{Super almádena}
@@ -377,19 +377,19 @@
 {18900}{}{Taquilla}
 {18901}{}{Una taquilla.}
 {19000}{}{Disco sobre VEF}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Un holotape que contiene la información médica. Puede ser utilizado para introducir información en tu Pip-Boy.}
 {19100}{}{Disco de seguridad}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Un holodisco con una etiqueta que pone "Identificador de Seguridad". Puedes usarlo para copiar esos datos en tu Pip-Boy 2000.}
 {19200}{}{Disco del experimento Alfa}
 {19201}{}{En la etiqueta de este holodisco pone: "Registro del experimento Alfa".}
 {19300}{}{Disco del experimento Delta}
 {19301}{}{En la etiqueta de este holodisco pone: "Registro del experimento Delta".}
 {19400}{}{Disco del experimento de Vree}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Este holotape ha sido actualizado con la evidencia médica de Vree de la BoS. Se puede utilizar para transferir los datos a tu Pip-Boy.}
 {19500}{}{Código de Honor de la Hermandad}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Un holotape, con una áspera símbolo de la Hermandad de Acero inscrito en él. Utilice la cinta para transferir los datos a tu Pip-Boy.}
 {19600}{}{Transmisiones mutantes}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Este holotape parece que fue configurado para grabar datos de audio de una radio. El uso de la cinta de transferencia de la información a tu Pip-Boy.}
 {19700}{}{Caja}
 {19800}{}{Caja}
 {19900}{}{Caja}
@@ -419,7 +419,7 @@
 {21400}{}{Escritorio}
 {21401}{}{Un escritorio. Tras observarlo detenidamente, decides que sigue siendo un escritorio.}
 {21500}{}{Historia de la Hermandad}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Una holocinta que contiene información relativa a la Hermandad del Acero. Puede utilizarse para introducir información en tu Pip-Boy 2000.}
 {21600}{}{Historia de Maxson}
 {21700}{}{Diario de Maxson}
 {21800}{}{Curación ligera}
@@ -920,7 +920,7 @@
 {47100}{}{"La Flor de Lavanda"}
 {47101}{}{Parece ser algún tipo de novela romántica escrita por Dorothy Rixon. La portada muestra a una mujer en el borde de una cama, cubierta por cientos de flores.}
 {47200}{}{Holodisco Hubologista}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47201}{}{Holodiscos es con la etiqueta "Hubology: La Verdad Detrás de las Mentiras". Parece que funciona con tu Pip-Boy.}
 {47300}{}{Dedo mutado del pie}
 {47301}{}{Ves tu sexto dedo. Es una pequeña parte mutada de ti mismo. Por alguna razón, notas una terrible sensación de pérdida cuando miras al pequeño dedo amputado.}
 {47400}{}{Margaritas}
@@ -934,7 +934,7 @@
 {47800}{}{Holodisco de misión Sierra}
 {47801}{}{En la etiqueta pone: "Estado de Misión".}
 {47900}{}{Circuito CompNav}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Estas son las piezas de equipo que parece que la ranura en el interior de una máquina. El hecho de que dicen "Poseidon Aceite" y "Equipo de Navegación" en la que llevar a creer que encajan en un Poseidon Aceite del Ordenador de Navegación.}
 {48000}{}{Bono +1 Agilidad}
 {48100}{}{Bono +1 Inteligencia}
 {48200}{}{Bono +1 Fuerza}
@@ -1029,131 +1029,131 @@
 {53201}{}{Este mapa crudo muestra los alrededores de Nuevo Reno. Parece que hay algún tipo de base militar en el norte.}
 {53300}{}{Piel de gecko de fuego}
 {53301}{}{La seca y curada piel de un gecko de fuego. Está muy quemado y, como resultado, tiene poco valor.}
-{53400}{}{Bucket}
+{53400}{}{Cubo}
 {53401}{}{Un medio de tamaño de cubo utilizado para transportar el agua de un pozo.}
-{53500}{}{Scaly Fish}
+{53500}{}{Escamas De Pescado}
 {53501}{}{Una escamosa en busca de peces. Si se cocinan, es probable que hacer una comida sabrosa.}
-{53600}{}{Fish}
+{53600}{}{Los peces}
 {53601}{}{Un raw en busca de peces. Si se cocinan, es probable que hacer una comida sabrosa.}
 {53700}{}{Oda a la Llama Diluvio}
 {53701}{}{Una novela ambientada después de una devastadora guerra nuclear. El extracto del libro describe cómo una violenta reacción en contra de la cultura de conocimiento avanzado y la tecnología que han conducido al desarrollo de armas nucleares tuvo lugar poco después de esta guerra. Cualquiera de aprendizaje, y, finalmente, a cualquier persona que pueda leer incluso, fue propensos a ser asesinados.}
 {53800}{}{Libro De Texto}
 {53801}{}{Un viejo libro de texto de antes de la Gran Guerra. Es muy técnico y no parece contener ninguna información útil.}
-{53900}{}{Army Technical Manual}
+{53900}{}{Ejército Manual Técnico}
 {53901}{}{Un viejo manual técnico diseñado para los Estados unidos Cuerpo de Ingenieros del Ejército.}
 {54000}{}{Manual De Operaciones De}
 {54001}{}{El manual de operaciones para el KV-75; un portátil, táctico dispositivo criptográfico. También se utiliza por los no-táctico de los usuarios de alto nivel de las comunicaciones en el local de banda ancha, las redes de telefonía y banda ancha de terminales de satélite.}
 {54100}{}{Ejército Chino: Manual De Operaciones Especiales De La}
 {54101}{}{No se puede entender una cosa en el texto, pero las ilustraciones son muy informativos.}
-{54200}{}{Bottle of wine}
+{54200}{}{Botella de vino}
 {54201}{}{Una fresca botella de Abadía de los mejores vinos.}
 {54300}{}{Diario}
 {54301}{}{Parece ser un diario que pertenecía a una joven. La escritura en la portada interna dice: "Propiedad de Anna"
 La mayoría de las paginas fueron arrancadas o están muy descoloridas, pero una es aun legible. "Día 271: Hoy mi madre me dio un medallón de oro.
 Es la cosa más hermosa que he tenido. Nunca me separare de el"}
-{54400}{}{Botany Holodisk}
+{54400}{}{Botánica Holodisk}
 {54401}{}{Esta información de disco clasifica las diversas vida de la planta que creció antes de la Gran Guerra.}
-{54500}{}{Expired G.E.C.K.}
-{54501}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir. This one is well beyond is expiration date. What a waste!}
-{54600}{}{Old Coin}
+{54500}{}{Expirado G. E. C. K.}
+{54501}{}{El Jardín de Eden Creation Kit. Esta unidad es un equipo estándar para todos los de Vault-Tec bóvedas. Un GECK es el recurso para la reconstrucción de la civilización después de la bomba. Sólo añadir agua y remover. Esto es así más allá de la fecha de caducidad. Qué desperdicio!}
+{54600}{}{Moneda Vieja}
 {54601}{}{Una muy antigua moneda. Usted no está seguro de que su cara está en él, pero parece que podría ser raros y vale la pena un montón de dinero.}
-{54700}{}{A watch}
+{54700}{}{Un reloj}
 {54701}{}{Un antiguo reloj. Esta marca dejó de ser fabricados mucho antes de la Gran Guerra.}
-{54800}{}{Pack of Cigarettes}
+{54800}{}{Paquete de Cigarrillos}
 {54801}{}{Un pack de 'Comunistas'. En la parte de atrás dice: "el Humo de un Comunista a poner su granito de arena para la democracia y sentirse mejor". Más abajo hay una advertencia de salud: "Como su médico, recomiendo a los Comunistas para un aliento fresco y una sonrisa ganadora'. Parece que hay alrededor de 10 en un pack.}
 {54900}{}{Máscara De Gas}
 {54901}{}{La Protección de la Máscara: la máscara es su primera línea de defensa contra agentes biológicos. Tomar el cuidado de él.}
-{55000}{}{Toaster}
+{55000}{}{Tostadora}
 {55001}{}{Una plata tostadora sentado en un escritorio.}
 {55100}{}{Jeringa}
 {55101}{}{Un pre guerra implementar para la administración de medicamentos. Está lleno de una sustancia desconocida.}
-{55200}{}{Dog Food}
-{55201}{}{Several cans of dog food.}
+{55200}{}{El Alimento De Perro}
+{55201}{}{Varias latas de comida de perro.}
 {55300}{}{Repelente De Insectos}
 {55301}{}{Un spray lleno de una sustancia que mata todos los fallos conocidos.}
-{55400}{}{Environmental Armor}
+{55400}{}{Ambiental De La Armadura}
 {55401}{}{Armadura mejor ha sido usado contra los ataques biológicos.}
 {55500}{}{Folleto de EPA}
 {55501}{}{Un folleto que se entregará en el principio de tours.}
-{55600}{}{Drugs}
+{55600}{}{Drogas}
 {55601}{}{Algún tipo de drogas conservada de antes de la guerra.}
-{55700}{}{Security Rooms Key Card}
-{55701}{}{A key card to unlock the security rooms.}
+{55700}{}{Seguridad De La Tarjeta De La Clave De Habitaciones}
+{55701}{}{Una tarjeta de claves para desbloquear la seguridad de habitaciones.}
 {55800}{}{Gradilla para tubos de ensayo}
 {55801}{}{Un estante para la celebración de la prueba química de los tubos.}
 {55900}{}{Claves}
 {55901}{}{Claves para permitir el acceso a la nave de almacenamiento en la superficie.}
 {56000}{}{Al Azar De Los Productos Químicos}
 {56001}{}{PELIGRO! Químicos desconocidos. Usar con precaución.}
-{56100}{}{Corn Seeds}
+{56100}{}{Semillas De Maíz}
 {56101}{}{Los paquetes de semillas, utilizado para el crecimiento de las plantas. Estos son etiquetados como maíz modificado genéticamente semillas inmune a la enfermedad y la infestación de insectos.}
-{56200}{}{Plant Spray}
+{56200}{}{Pulverización De La Planta}
 {56201}{}{Un spray lleno de una sustancia que mata los diferentes tipos de plantas.}
-{56300}{}{Trigger activated dynamite}
+{56300}{}{Gatillo activado dinamita}
 {56301}{}{A diferencia de la normal de la dinamita, la cual establece un temporizador, este dinamita es activado por un disparo.}
-{56400}{}{Trigger switch}
-{56401}{}{Trigger for dynamite.}
+{56400}{}{Interruptor de gatillo}
+{56401}{}{Gatillo de dinamita.}
 {56500}{}{Papel}
 {56501}{}{De papel con un código de acceso garabateado en él.}
-{56600}{}{Experimental Seeds}
+{56600}{}{Experimentales De Semillas}
 {56601}{}{Paquete de experimentales de semillas. Resultado de la germinación es desconocido.}
-{56700}{}{A drill}
+{56700}{}{Un taladro}
 {56701}{}{Eléctrico, taladro eléctrico.}
-{56800}{}{Trigger activated dynamite}
+{56800}{}{Gatillo activado dinamita}
 {56801}{}{A diferencia de la normal de la dinamita, la cual establece un temporizador, este dinamita es activado por un disparo. Este está armado y listo para ser activado.}
 {56900}{}{Pop Rocks}
 {56901}{}{Una bolsa sin abrir de un sabroso gaseosas dulces de azúcar, la lactosa (más azúcar), jarabe de maíz (incluso más de azúcar), y el sabor. Se rumorea que cuando se mezcla con bebidas como Nuka Cola estomago iba a explotar.}
-{57000}{}{Bottle of Shampoo}
+{57000}{}{Botella de Champú}
 {57001}{}{Una prima de la botella de champú. A diferencia de otras marcas líderes, este champú viene en una inusual flexi-botella de plástico. Fue especialmente diseñado de esta manera, así que cuando la botella se la apretó, la cantidad adecuada de champú fue derramada - ni más, ni menos. Sólo una cara de la tapa, y usted está en su camino.}
-{57100}{}{K-9 Kevlar}
+{57100}{}{K-9 De Kevlar}
 {57101}{}{Un polvoriento y viejo juego de robusta kevlar conjunto de discos en nylon negro de mangas. Usted piensa que debe ser del tamaño de un enano, hasta que se note una etiqueta en el interior que dice: Canino de Kevlar. De gran tamaño. Un DoggieBuddy producto. Hecho en Taiwán.}
-{57200}{}{Human Ear}
+{57200}{}{Oído Humano}
 {57201}{}{Una mujer de la oreja. Bruto! Sólo una persona mentalmente inestable nunca iba a quitar el oído humano.}
 {57300}{}{ERSI bote}
 {57301}{}{Con un bote de Ambiental Rechazo Síndrome de serotonina. Aplica a los especímenes de salir de un largo período de hibernación.}
-{57400}{}{Lightsaber}
+{57400}{}{Sable de luz}
 {57401}{}{Una antigua arma de una vida más civilizada de edad. No tan torpe o tan aleatorio como un blaster. Se le ha dado por Obi-Wan-Killap. Min ST: 2}
 {57500}{}{Blaster}
 {57501}{}{Hokey las religiones y las armas antiguas no son rival para un buen blaster a tu lado, niño. Min ST: 3}
-{57600}{}{Lightsaber}
+{57600}{}{Sable de luz}
 {57601}{}{Una antigua arma de una vida más civilizada de edad. No tan torpe o tan aleatorio como un blaster. Se le ha dado por la Emperatriz Timeslip. Min ST: 2.}
-{57700}{}{Air Processing Vent}
-{57701}{}{The grill on this vent looks different.}
+{57700}{}{De Tratamiento De Aire De Ventilación}
+{57701}{}{La parrilla en esta ventilación se ve diferente.}
 {57800}{}{Taquilla metálica}
 {57801}{}{Un recipiente de almacenamiento.}
 {57900}{}{Taquilla metálica}
 {57901}{}{Un recipiente de almacenamiento.}
 {58000}{}{Chino Tabla De Códigos De}
 {58001}{}{Usted no está seguro, pero parece que para ser un gráfico que contiene varios Chinos códigos de comando. Tal vez si usted encuentra un lugar para introducir estos códigos, usted podría aprender una cosa o dos.}
-{58100}{}{Dead Tribal}
+{58100}{}{Muerto Tribales}
 {58101}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
-{58200}{}{Dead Tribal}
+{58200}{}{Muerto Tribales}
 {58201}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
 {58300}{}{Pincho de planta}
-{58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
-{58400}{}{Dead Vault Dweller}
+{58301}{}{Una de semillas orgánicas-spike que las plantas carnívoras escupir en el potencial de los alimentos o de las semillas de los transportistas. Este es más nítida, y más que de costumbre.}
+{58400}{}{Muerto Vault Dweller}
 {58401}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
-{58500}{}{Dead Vault Dweller}
+{58500}{}{Muerto Vault Dweller}
 {58501}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
-{58600}{}{Dead Tribal}
+{58600}{}{Muerto Tribales}
 {58601}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
-{58700}{}{Dead Tribal}
+{58700}{}{Muerto Tribales}
 {58701}{}{Esta persona ha muerto una muerte horrible en el cuadro médico.}
-{58800}{}{K-9 Kevlar}
+{58800}{}{K-9 De Kevlar}
 {58801}{}{Wearable K-9 de Kevlar (FALSO)}
-{58900}{}{Mutant Armor}
-{58901}{}{Mutant Armor}
-{59000}{}{Mutant Armor}
+{58900}{}{Mutante Armadura}
+{58901}{}{Mutante Armadura}
+{59000}{}{Mutante Armadura}
 {59001}{}{Wearable Mutante Armadura (FALSO)}
-{59100}{}{Small Scorpion Tail}
-{59101}{}{The severed tail of a small radscorpion.}
-{59200}{}{Plant seed}
+{59100}{}{Pequeño Escorpión De Cola}
+{59101}{}{El cortó la cola de un pequeño radscorpion.}
+{59200}{}{Semilla de la planta}
 {59201}{}{Una semilla de la planta dada a usted por el Dr. Sheng.}
-{59300}{}{Nothing out of the ordinary}
-{59301}{}{Nothing out of the ordinary.}
-{59400}{}{Nothing out of the ordinary}
-{59401}{}{Nothing out of the ordinary.}
-{59500}{}{Nothing out of the ordinary}
-{59501}{}{Nothing out of the ordinary.}
-{59600}{}{Fake Heart Pills}
+{59300}{}{Nada fuera de lo común}
+{59301}{}{Nada fuera de lo común}
+{59400}{}{Nada fuera de lo común}
+{59401}{}{Nada fuera de lo común}
+{59500}{}{Nada fuera de lo común}
+{59501}{}{Nada fuera de lo común}
+{59600}{}{Falso Corazón Pastillas}
 {59601}{}{Estas pastillas normalmente ser utilizado por personas con problemas cardíacos, excepto que en este caso la muerte sería segura. Estas pastillas han sido mezclados con otros productos químicos, lo que resulta en una garantía de corazón-la explosión de la experiencia.}

@@ -42,17 +42,17 @@
 {135}{}{¡Su sangre correrá como el Nilo!}
 {200}{}{Bienvenido, Vault Dweller. Para su conveniencia, este Vault-Tec terminal ha sido modificado para responder a comandos de voz. Por favor, vocalizar su comando de ahora.}
 {201}{}{Oh, me tienes confundido con alguien más. Usted ve, yo no soy el Vault Dweller, yo soy el Elegido. }
-{202}{}{Run diagnostics.}
-{203}{}{Switch to keyboard input mode.}
-{204}{}{Access security footage.}
+{202}{}{Ejecute los diagnósticos.}
+{203}{}{Cambiar al modo de entrada del teclado.}
+{204}{}{Seguridad de acceso a material de archivo.}
 {205}{}{Salir.}
 {206}{}{Urk?}
 {210}{}{[Una luz parpadea en la terminal, ya que hace varios pulsando y girando sonidos. Después de varios segundos, el texto
  aparece en el monitor.] Lo siento, no he entendido tu comando. Por favor, repita el comando, asegúrese de hablar
  directamente en el micrófono en una forma clara y precisa. Vault-Tec se disculpa por cualquier inconveniente. Gracias.}
-{211}{}{Run diagnostics.}
-{212}{}{Switch to keyboard input mode.}
-{213}{}{Access security footage.}
+{211}{}{Ejecute los diagnósticos.}
+{212}{}{Cambiar al modo de entrada del teclado.}
+{213}{}{Seguridad de acceso a material de archivo.}
 {214}{}{Salir.}
 {220}{}{Por favor espere mientras yo inicie diagnóstico de cheques..Vault-Tec agradece su paciencia... Gracias por la espera... de Diagnóstico
  comprueba completa. Todos los sistemas están funcionando correctamente. Después de todo, eres el uso de Vault-Tec. }
@@ -60,7 +60,7 @@
 {222}{}{Salir.}
 {230}{}{Conmutación manual en el modo de interfaz de... manual de la interfaz de modo de iniciado. Para la comodidad de los demás, de esta
  terminal volverá automáticamente a la interfaz de voz modo una vez que han cerrado la sesión. Por favor, introduzca el comando.}
-{231}{}{Search database for anything of interest.}
+{231}{}{Base de datos de búsqueda de cualquier cosa de interés.}
 {232}{}{Salir.}
 {240}{}{Después de un poco de búsqueda, descubre tres archivos que podría ser digno de una mirada: Vault Dweller la Guía de Supervivencia del
  (Versión abreviada), la Bóveda de 13 línea de tiempo, y de Supervisor de los Registros.}
@@ -111,27 +111,27 @@
 {279}{}{Salir.}
 {280}{}{Se requiere autorización. Por favor ingrese la contraseña. }
 {281}{}{[VOLVER]}
-{282}{}{[Guess password]}
-{283}{}{[Attempt to hack into it.]}
+{282}{}{[Adivinar la contraseña]}
+{283}{}{[Intento de hack en ella.]}
 {284}{}{Salir.}
-{290}{}{Incorrect. Please enter password.}
+{290}{}{Incorrecto. Por favor ingrese la contraseña.}
 {291}{}{[VOLVER]}
-{292}{}{[Guess password]}
-{293}{}{[Attempt to hack into it.]}
+{292}{}{[Adivinar la contraseña]}
+{293}{}{[Intento de hack en ella.]}
 {294}{}{Salir.}
 {300}{}{Incorrecto. Usted ahora está bloqueado fuera de estos archivos. Vault-Tec se disculpa por cualquier inconveniente.}
 {301}{}{[VOLVER]}
-{302}{}{[Attempt to hack into it.]}
+{302}{}{[Intento de hack en ella.]}
 {303}{}{Salir.}
 {310}{}{[Intenta todo lo que puedas imaginar, pero usted no puede tener acceso. Con un suspiro de derrota, regresa al menú principal.]}
-{311}{}{Run diagnostics.}
-{312}{}{Switch to keyboard input mode.}
-{313}{}{Access security footage.}
+{311}{}{Ejecute los diagnósticos.}
+{312}{}{Cambiar al modo de entrada del teclado.}
+{313}{}{Seguridad de acceso a material de archivo.}
 {314}{}{Salir.}
 {320}{}{Contraseña correcta. Todas las entradas, pero uno de ellos han sido eliminados del sistema. Última entrada en el del Capataz de los Registros es todavía accesible.}
 {321}{}{[Después de varios largos minutos de trabajo técnico de su magia, te las arreglas para hack su camino en la del Capataz de los Registros. Sin embargo, parece que cada entrada, excepto al final uno se ha eliminado.]}
 {322}{}{Muy bien, vamos a ver lo que esta Supervisor tenía que decir. [Leer El Registro.] }
-{323}{}{Eh, whatever. [Logoff.]}
+{323}{}{Eh, lo que sea. [Cierre de sesión.]}
 {330}{}{Esto es. Considere estas mis últimas palabras, como dudo que voy a vivir para escribir otra entrada. Oh no, la gente de la Bóveda han hablado y lo han hecho muy claro que quieren mi cabeza. Sabía que llegaría este día, desde que SE las arregló para sacar de quicio a ellos haciendo lo imposible. Seguro, él salvó la vida de todos nosotros, pero también ha arruinado todo.}
 {331}{}{[MÁS]}
 {332}{}{Que se sepa que me tomó poco de alegría en exiliar a nuestro "gran héroe", pero yo no tenía ninguna opción en la materia. Sus aventuras en el mundo exterior había cambiado demasiado de él. Él era una amenaza demasiado grande para el proyecto. Había dejarlo permanecer entre nosotros, podría haber descubierto la verdadera naturaleza de las Bóvedas y pone en peligro el experimento. Incluso si él no, él había al menos inspirar a otros a aventurarse fuera, que sería igual de malo.}
@@ -161,9 +161,9 @@
 {373}{}{[MÁS]}
 {374}{}{Bóveda 68 iba a ser ocupado por 999 hombres y sólo una mujer. Sólo se puede imaginar los horrores que tuvieron lugar allí... Vault 69, por otro lado, iba a ser ocupado por 999 mujeres y sólo un macho... interesante. Bóveda de los años 70 mono extrusoras fueron diseñados para fallar después de 6 meses. Y por último, la Bóveda de 106 fue diseñado de tal manera que 10 días después de ser sellado, comenzarían a "la liberación de las drogas psicoactivas en el sistema de filtración de aire".}
 {375}{}{Salir.}
-{500}{}{You learn about the Vault Experiments and the roles of the various Vaults.}
+{500}{}{Usted aprenderá acerca de la Bóveda de los Experimentos y de las funciones de los diferentes Bóvedas.}
 {510}{}{Usted aprenderá acerca de la historia de la Bóveda 13 y el papel del Supervisor en la Bóveda de los Experimentos.}
-{520}{}{I'm sorry, I did not understand that.}
+{520}{}{Lo siento, no he entendido eso.}
 {521}{}{Salir.}
 {2541}{}{Espesor de la puerta: de 4 m, de acero
  La tierra de cobertura: a 3.200.000 toneladas de tierra, a 200 pies

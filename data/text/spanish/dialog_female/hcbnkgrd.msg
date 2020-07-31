@@ -37,13 +37,13 @@
 {136}{}{De acuerdo.}
 {137}{}{!Tú! ¿Qué demonios estás haciendo? !Largo de aquí!}
 {138}{}{Ya estás guardando tus armas ahora mismo, amiga.}
-{139}{}{You again? Do you need something?}
+{139}{}{Usted de nuevo? ¿Necesitas algo?}
 {140}{}{Sólo estaba mirando.}
 {141}{}{Err... no, realmente no.}
 {142}{}{Sí. Estoy aquí para hablar con tus prisioneros.}
 {143}{}{¿Habéis considerado la posibilidad de que vuestros prisioneros esté retenidos ilegalmente?}
 {144}{}{No deberías estar deambulando por aquí. Márchate ahora mismo.}
 {145}{}{Si alguna vez descubro a dónde se han ido corriendo esos malditos prisioneros, ¡lo pagarán en el infierno!}
-{150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
+{150}{}{Pero... pero... todo a la derecha. Están fuera. Usted es responsable. Sólo espero que usted está en lo correcto. Aquí está el... Oye, ¿a dónde iba mi clave go!? Mierda, Marcus se va a tener mi cabeza si he perdido esa cosa. Lo siento, me tengo que ir.}
 {151}{}{De acuerdo.}
-{152}{}{I actually took that key from you. What are going to do about it?}
+{152}{}{De hecho, me tomó la clave de usted. ¿Qué vas a hacer al respecto?}

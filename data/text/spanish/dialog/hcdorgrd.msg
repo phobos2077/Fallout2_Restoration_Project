@@ -1,13 +1,13 @@
-{100}{}{You see a Hubologist guard.}
+{100}{}{Usted ve un Hubologist de la guardia.}
 {101}{}{Él está construida como una roca y está bien armado.}
 {200}{}{Alto! Esta es la propiedad privada de la Iglesia de Hubology. ¿Cuál es su negocio aquí?}
 {201}{}{He venido a saquear este lugar. Me dijeron que hay un montón de riqueza para la toma.}
 {202}{}{No te preocupes, hermano, porque somos almas gemelas. Yo también, el abrazo de la Iglesia de Hubology.}
 {203}{}{Ah, sí? [Él mira hacia arriba y hacia abajo.] Entonces no importa si tengo un examen de nuestra fe.}
 {204}{}{[Él sonríe salvajemente.] Eres un valiente. Me gusta que. Vamos a ver cómo negrita es cuando dejo de sangrado en el polvo.}
-{205}{}{Ask away. I am ready.}
+{205}{}{Pide lejos. Estoy listo.}
 {206}{}{Una prueba, ¿eh? Sabes qué? Tornillo de esto-mentí. Vamos a luchar.}
-{220}{}{Who was the founder of the Church?}
+{220}{}{Quien fue el fundador de la Iglesia?}
 {221}{}{La Iglesia cree que la vida, el universo y todo lo que puede ser simbolizado por qué?}
 {222}{}{En el contexto de la Iglesia, lo que se entiende por el término "Iluminación"?}
 {230}{}{Herbert Jentz}
@@ -16,10 +16,10 @@
 {233}{}{AHS-9}
 {234}{}{Hugo Richardson}
 {240}{}{Un círculo.}
-{241}{}{Money.}
-{242}{}{A turning wheel.}
+{241}{}{Dinero.}
+{242}{}{Una rueda que gira.}
 {243}{}{Odin cuerno.}
-{244}{}{A fish.}
+{244}{}{Un pez.}
 {250}{}{La reposición de corporales esencia.}
 {251}{}{Un completo estado de euforia.}
 {252}{}{Un estado alcanzado en la que el buscador se desarrolla divina comprensión de la verdadera naturaleza de las cosas.}
@@ -29,7 +29,7 @@
 {260}{}{Eso es correcto. Sólo un compañero de Hubologist podría tener la sabiduría. Doy la bienvenida a vosotros, y os suplico tu perdón. Puedo preguntarte por qué has venido aquí? Muy pocos de nuestros miembros siquiera saben de este lugar.}
 {261}{}{Ja! Ni siquiera cerca. El probado y verdadero test de seguridad método funciona todo el tiempo. Ahora, para librar al mundo de usted, impostor!}
 {270}{}{Me preguntaron por AHS-9 para comprobar todas las donaciones. Él quiere asegurarse de que todo está en orden aquí.}
-{271}{}{I have come to make a donation.}
+{271}{}{He llegado a hacer una donación.}
 {280}{}{Oh, no sabía que estaban siguiendo tales órdenes divinas. En ese caso, eres libre de entrar. Aquí, me deja desbloquear la puerta para usted.}
 {281}{}{[Él frunce el ceño.] Eh, yo no se informó acerca de las inspecciones...}
 {282}{}{Gracias. Hasta otra.}
@@ -42,13 +42,13 @@
 {294}{}{Escucha, estoy a punto de darle una buena suma de dinero a la Iglesia. Quiero asegurarme de que mi donación será seguro y utilizado
  apropiadamente.}
 {300}{}{Hola de nuevo.}
-{301}{}{I hope everything is in order.}
-{400}{}{Me want in.}
+{301}{}{Espero que todo está en orden.}
+{400}{}{Me quieren en.}
 {410}{}{[Él te mira raro.] Bien, usted va a necesitar una contraseña.}
 {411}{}{Me paso de gas, no de la palabra.}
-{412}{}{Me want in!}
-{420}{}{Listen, I don't have time for this. You clearly shouldn't be here, so beat it or you'll be sorry.}
-{421}{}{Buh bye!}
-{422}{}{Me want goodies inside. U die now.}
+{412}{}{Me quieren en!}
+{420}{}{Escucha, no tengo tiempo para esto. Claramente no debería estar aquí, así que beat it o estarás triste.}
+{421}{}{Ta bye!}
+{422}{}{Me dieron ganas de golosinas en el interior. U ahora de morir.}
 {430}{}{Última oportunidad. Deja ahora o morir.}
 {431}{}{Yo lo advertí!}

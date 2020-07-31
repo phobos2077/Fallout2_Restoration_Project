@@ -63,7 +63,7 @@
 {309}{}{¿Te refieres a cosas como venderle drogas al hijo de Wright?}
 {310}{}{Puedes volver a hacer cosas importantes.}
 {320}{}{(Renesco te mira fijamente. Parece como si te desnudara mentalmente, y te arrancase los miembros uno a uno).}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{No importa, entonces. Yo tenía algunas otras preguntas...}
 {322}{}{No importa, entonces.}
 {330}{}{(Renesco te mira disgustado). Sí. En la TIENDA. Esto no es el siglo XX, en el que las drogas las vendían cucarachas de esquina que vivían con un temor constante a las autoridades.}
 {331}{}{Bien, entonces -}
@@ -104,7 +104,7 @@
 {413}{}{Ya me he dado cuenta. Oye, tenía algunas preguntas más...}
 {414}{}{Ya veo… ahora debo irme.}
 {420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil. Es como una gran y brillante garrapata agarrada al desierto.  Ahora bien, Redding, por el contrario…}
-{421}{}{Sigue.}
+{421}{}{Continúa.}
 {422}{}{… PRODUCE algo útil.}
 {423}{}{Ya he oído bastante.}
 {430}{}{Primera y última vez que te aviso, tribal: no termines mis malditas frases. No me gustan los primates listillos
@@ -194,7 +194,7 @@
 {634}{}{Nada, no importa. }
 {640}{}{(Renesco te arranca los anteojos de las manos y se los pone. Abre mucho los ojos). ¡Dulce Reno! ASÍ es como está esta maldita
  tienda. (Frunce el ceño). Qué desorden… ¿y qué es eso que hay en las estanterías? Parece mierda de brahmin.}
-{641}{}{You're welcome...}
+{641}{}{Eres bienvenido...}
 {642}{}{Disfruta. }
 {650}{}{¡Hmpphh! Yo… hmmm… eh… ¿de dónde has sacado esto?}
 {651}{}{Bien, había un diminuto escorpión rad, ¿sabes?, y un científico que lo estaba entrenando, y... ¿sabes qué? Ni yo
@@ -382,14 +382,14 @@
  y habrá una fiesta grande con payasos y…}
 {6000}{}{Yo estaba buscando algunos consejos sobre la salud del corazón. Creo que se podría llenar mí en una cosa o dos?}
 {6010}{}{Sé que esto debe venir como una sorpresa para usted, pero un blanco delantal no confiere automáticamente un cardiología grado. Soy un farmacéutico. Me producen chems. A continuación, usted compra de ellos. A continuación, dejar. En silencio.}
-{6011}{}{Fair enough. Moving on, then...}
+{6011}{}{Justo lo suficiente. De pasar, a continuación,...}
 {6012}{}{Vamos, podría humor mí? Sólo por esta vez? Bastante pleeease?}
 {6020}{}{Bien. Mi receta es de los cigarrillos y la carne roja, en grandes cantidades. Era eso todo? Si tengo que poner con mucho más vacua prattle hoy en día, soy responsable de tener un accidente cerebrovascular a mí mismo.}
 {6021}{}{Sí, está muy muy nervioso, no? Apuesto a Hakunin podría ayudar con eso. Él es el hombre de la medicina de vuelta a casa, en el Arroyo. Dicen que he dicho sobre el Arroyo?}
 {6022}{}{Y ¿no sería una tragedia. La siguiente pregunta...}
-{6023}{}{Okay then, just one more quick thing...}
-{6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
-{6030}{}{I need you to fix me up with a special order.}
+{6023}{}{Bueno, sólo una más rápida la cosa...}
+{6024}{}{Caramba, gracias Renesco. Yo sabía que podía contar con usted. Usted toma el cuidado ahora.}
+{6030}{}{Necesito que arreglarme con un pedido especial.}
 {6031}{}{Así, acerca de que la orden especial estábamos discutiendo...}
 {6040}{}{Sí? Y? Se que me esperan para leer su mente, o quieres que te sorprenda?}
 {6041}{}{No en su vida, imbécil. Lo que hay son algunas de las... um... pastillas. Para, um... (trail off, la mirada específicamente en la dirección de la hebilla del cinturón, mira Renesco en el ojo, y claro la garganta).}
@@ -414,7 +414,7 @@
 {6080}{}{Hmmm. ¿Eso es todo? Correctivas cosas, realmente. Y los materiales de base son irrisorios. Contabilidad para el trabajo de parto... $200, debería bastar.}
 {6081}{}{Qué?! Si quería hacerse follar, me hubiera ido a la Pata del Gato! Al menos me gustaría saber qué me estaba metiendo.}
 {6082}{}{Usted sabe tan bien como yo que estamos hablando de alrededor de $15 en el chems y cinco minutos de mortero de trabajo. Creo que tenemos que hablar de algunos números aquí.}
-{6083}{}{All right. You've got overhead, I've got better places to be. $200.}
+{6083}{}{Todo a la derecha. Tienes la sobrecarga, tengo mejores lugares para estar. $200.}
 {6084}{}{No estoy seguro que se puede ahorrar mucho en el momento. Tal vez vamos a volver a esto más adelante.}
 {6090}{}{(Su ceño fruncido se profundiza.) Yo no estoy en el humor para irse por las ramas con usted. Crees que me voy a comprar que usted está a solo algunos particularmente exigente homo no-tan-erectus? Por FAVOR! ¿Tiene usted alguna idea de cuánto tiempo he estado haciendo esto?}
 {6091}{}{Usted, evidentemente, no ha pasado mucho tiempo fuera de su cueva, así que tome mi palabra para ella cuando me dicen que no hay demasiados tipos de pastillas que va alrededor de ese partido que curiosamente descripción específica de los suyos, y una *muy notables* uno viene a la mente inmediatamente. La "especialidad" de los artículos, de la especialidad de precios, retroceso. Bienvenidos a la Nueva Reno. Que va a ser de $300.}
@@ -422,11 +422,11 @@
 {6093}{}{He cubierto el culo con Salvatore. Considere la posibilidad de esta colección en su deuda.}
 {6094}{}{No creo que *el Señor Obispo* sería muy feliz si él sabía que estaban obstaculizando sus intereses como este, Renesco.}
 {6095}{}{Bien. $300, y eso es por las pastillas *y* su discreción. Entender?}
-{6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
+{6096}{}{Whoa, fácil no difusa poco hombre melocotón. Tal vez voy a volver cuando usted está en un mejor estado de ánimo.}
 {6100}{}{Bien. Supongo que concluye nuestro negocio, entonces. Debo decir, tribal, esto ha sido... casi *tolerable*. Ahora, sentarse en sus manos y tratar de no arruinar el momento. (Renesco toma su dinero y se va a trabajar.)}
 {6101}{}{(Minutos pasan. Renesco el polvo de sus manos y tira una botella de píldoras indistinguible de la del Westin, a través del contador de usted.) Ahí estás. Ahora, se nos hace aquí?}
 {6102}{}{Déjame hacerte otra pregunta.}
-{6103}{}{That's it for me. See you around.}
+{6103}{}{Eso es todo para mí. Ver todo.}
 {6110}{}{(Renesco vacía, las fosas nasales de la quema en la ira, pero luego mira hacia abajo y comienza la limpieza de sus cristales muy intensamente en su delantal mientras habla.) Los primates, las únicas dos cosas que SIEMPRE estaré en deuda con usted para JACK y la MIERDA.}
 {6111}{}{Ahora, siendo ese el caso... si va a desengañar a usted de esta intolerable provincial ilusión de que has de alguna manera tiene algo más de mí, la sola idea de que me hace mal en formas me faltan las palabras para describir... }
 {6112}{}{Yo... SUPONGO que... el tres veces maldito pastillas son un pequeño precio a pagar. Y si alguna VEZ vuelvo a escuchar otra vez dices una palabra que incluso RIMAS con "deber" el taller es conseguir un nuevo chimpancé-alfombra de piel. Sit down, shut up, y trabajar en el crecimiento de un par de pulgares oponibles, mientras que llegué a este compuesto. (Renesco va a trabajar.)}

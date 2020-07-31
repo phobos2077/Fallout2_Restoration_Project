@@ -1,5 +1,5 @@
-{100}{}{Ves a un hombre.}
-{101}{}{Ves a una mujer.}
+{100}{}{Estás viendo a un hombre.}
+{101}{}{Estás viendo a una mujer.}
 {102}{}{Es un habitante de la Abadía.}
 {103}{}{Es un habitante de la Abadía.}
 {200}{}{Bienvenido, forastero.}

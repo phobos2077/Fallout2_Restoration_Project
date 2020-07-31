@@ -317,9 +317,9 @@
 {2004}{}{(Saca tu Pip-Boy y mantenga la posición durante Padre Tully para señalar la ubicación. Fue el primero de los puntos en el océano, entonces al azar
  cordillera hacia el sur. Después de casi asomando a sus ojos, él finalmente se asienta su dedo en la esquina noreste del mapa.) Sí, allí z
  la Abadía. Que seemz de pelea de la derecha.}
-{2005}{}{I appreciate it, Father. I have some other questions though.}
+{2005}{}{Se lo agradezco, Padre. Tengo algunas preguntas, aunque.}
 {2006}{}{Gracias. Pero tengo curiosidad, ¿por qué había de salir de la Abadía?}
-{2007}{}{Thanks, Father. I must be going now.}
+{2007}{}{Gracias, Padre. Debo irme ahora.}
 {2008}{}{Bien dat wuz un muuuucho tiempo atrás. Yo haddent bastante conseguido mi actuar juntos todavía. Es waz antes de th' ángel de la Señora Wright me puso en línea. Ya ver,
  ellos monjes no toman amablemente a mis formas silvestres. Yo y el Hermano Samuel, nos useta obtener un lil loco. Jeje, esta noche, Sammy y yo fuimos de vuelta a
  el sleepin monjes, y poner en su handz en cuencos de un agua tibia. Incluso consiguió el Abad! Ja! Esas fueron las dayz, déjame decirte.}
@@ -332,15 +332,15 @@
  Incluso me voy a traer de vuelta algunos de los que el alcohol.}
 {2013}{}{Oh, couldja, por favor? Que haría yo más feliz que una libre de enfermedad Reno puta. Gracias fren.}
 {2014}{}{No hay problema. Aunque tengo algunas preguntas más.}
-{2015}{}{Sure. See you around.}
+{2015}{}{Seguro. Ver todo.}
 {2016}{}{Voy a hacer un montón de viajar, así que si puedo encontrar mi camino a la Abadía, tal vez voy a traer de vuelta algunos de los que el alcohol.}
-{2017}{}{Interesting. See you around.}
+{2017}{}{Interesante. Ver todo.}
 {2020}{}{La Abadía, ¿eh? He estado allí antes. De hecho, me encontré con un hombre llamado Samuel que actúa muy parecido a usted.}
 {2021}{}{Samuel!? Ja! Howzzat chico haciendo? Han sido años desde que he visto 'im. Sigue bebiendo de distancia, es él?}
-{2022}{}{Yeah, he reeks of alcohol, much like you.}
+{2022}{}{Sí, huele a alcohol, como usted.}
 {2023}{}{Ah, thaz grandes. Es bueno saber que él está haciendo bien. Si lo ves de nuevo, le digo que decir hola. Así que... (Se abrocha sus
  las manos juntas y roza con impaciencia.) Así que, quizás de recoger summa de la Abadía del famoso aguardiente mientras tu no?}
-{2024}{}{Yeah, I got some right here.}
+{2024}{}{Sí, tengo algunos aquí.}
 {2025}{}{Yo lo hice, pero me bebí. Wow es algo muy potente.}
 {2026}{}{No, no lo he hecho.}
 {2027}{}{No hay necesidad de ta frote en mi cara. Itz sido tanto tiempo desde que he tenido un poco... yo realmente podría ir por una botella o dos. Cualquier posibilidad de que te paren por la Abadía de nuevo?}
@@ -348,11 +348,11 @@
  se detiene por la Abadía de nuevo?}
 {2029}{}{Que hacer? Itz sido tanto tiempo desde que he tenido un poco. Estaría usted dispuesto a participar con él?}
 {2030}{}{Vamos a ver. Si lo hago, voy a tratar de recordar a agarrar algo para usted. Vea usted todo, Padre.}
-{2031}{}{Probably not. Look, I must be going.}
-{2032}{}{Probably. I pick one up for you when I am passing through. I had some other question though.}
-{2033}{}{Sure. Here you go.}
-{2034}{}{Actually, I think I'll hold on to this for awhile. Gotta run. Bye.}
-{2035}{}{Sure. For a price though.}
+{2031}{}{Probablemente no. Mira, debo irme.}
+{2032}{}{Probablemente. Puedo elegir a uno para que cuando estoy de paso. Había alguna otra pregunta, sin embargo.}
+{2033}{}{Seguro. Aquí tienes.}
+{2034}{}{En realidad, creo que voy a aferrarse a esta por un tiempo. Tengo que ejecutar. Bye.}
+{2035}{}{Seguro. Por un precio, aunque.}
 {2036}{}{(Padre Tully agarra la botella de su mano y toma un gran trago.) Oh, sí, jus como lo recuerdo. (Toma
  varios tragos, las ondas débilmente en usted, entonces tropieza distancia a la parte trasera de la habitación. Oye el gemido, seguido de un golpe.)}
 {2037}{}{(Padre Tully abre las donaciones cuadro, agarra un puñado de monedas y se las entrega a usted. Tú asientes con la cabeza y la mano de él la
@@ -362,16 +362,16 @@
 {2041}{}{Él es un gran chico. Si ya alguna vez hacer ejecutar inna él, dejar que él sabe que yo estoy viviendo la buena vida en New Reno. Yo no he hablado con él desde que me fui de th' Abadía.}
 {2042}{}{Seguro. Pero tengo curiosidad, ¿por qué había de salir de la Abadía?}
 {2045}{}{De verdad? Thaz demasiado malo. Él era un buen chico. Le echaré de menos.}
-{2046}{}{Yeah. Well, I have some other questions.}
-{2047}{}{Never was much of a mourner. See you around.}
-{2050}{}{I'm curious, why'd you leave the Abbey?}
+{2046}{}{Sí. Bueno, tengo algunas preguntas.}
+{2047}{}{No era mucho de una plañidera. Ver todo.}
+{2050}{}{Tengo curiosidad, ¿por qué había de salir de la Abadía?}
 {2060}{}{Hablé con el Hermano Samuel. Él es al parecer sigue bebiendo a sí mismo lejos.}
 {2061}{}{Tengo una botella de la Abadía de la famosa bebida.}
 {2062}{}{Jeje, buen ol' Sam. Thaz bueno para escuchar. I s'pose algún día yo me trate de un salir de allí de nuevo.}
-{2063}{}{Well, see you around, Father.}
+{2063}{}{Bueno, vea usted todo, Padre.}
 {2064}{}{Yo también tengo una botella de la Abadía de la famosa bebida que te quería.}
 {2065}{}{Jeje, buen ol' Sam. Thaz bueno para escuchar. I s'pose algún día yo me trate de un salir de allí de nuevo.}
 {3000}{}{Informar al Padre de Tully y el Hermano Samuel sobre el paradero de cada uno de los otros.}
 {3001}{}{Entregar una botella de la Abadía de la famosa poción Padre Tully.}
-{3022}{}{Actually, he's dead.}
+{3022}{}{En realidad, él está muerto.}
 {20091}{}{Ja! Que clásico. Me sacó la misma broma a mi sobrino Fergus una vez, y cuando se despertó y se dio cuenta de que él había cabreado a sí mismo, empezó a berrear ... fue genial. De todos modos, así lo hicieron terminar pateando usted?}

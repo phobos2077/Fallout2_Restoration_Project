@@ -99,7 +99,7 @@
 {194}{}{Encuentras una trampa en el cajón.}
 {195}{}{No logras encontrar ninguna trampa en el cajón.}
 {196}{}{Hábilmente desactivas una trampa de la tumba.}
-{198}{}{No consigues desactivar la trampa.}
+{198}{}{No consigues desarmar la trampa.}
 {199}{}{ encuentra una trampa en el cajón.}
 {200}{}{ no logra encontrar ninguna trampa en el cajón.}
 {201}{}{ hábilmente desactiva la trampa.}

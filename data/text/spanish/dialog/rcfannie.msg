@@ -114,4 +114,4 @@
 {192}{}{¡Vuelva en cualquier momento! Siempre es bueno repetir negocios.}
 {193}{}{[HECHO]}
 {200}{}{Deslizó el antídoto para el Jet en la bebida de Fannie Mae.}
-{210}{}{Alright, here's $60. How 'bout another round?}
+{210}{}{Muy bien, aquí es de $60. ¿Cómo 'bout otra ronda?}

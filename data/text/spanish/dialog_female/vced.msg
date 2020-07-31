@@ -60,7 +60,7 @@
 {158}{}{Un buen lugar... si consigues tratar con los Ciudadanos. No estoy de acuerdo con algunos de sus puntos de vista, pero oye, me gano la vida bastante bien aquí.}
 {159}{}{Tenía algunas preguntas más...}
 {160}{}{Ya veo. Gracias por la información. Adiós.}
-{161}{}{I sell brahmin to people who need them. Helps me pay rent on this place.}
+{161}{}{Vendo brahmán a las personas que los necesitan. Me ayuda a pagar el alquiler en este lugar.}
 {162}{}{Tenía algunas preguntas más...}
 {163}{}{Ya veo. Gracias por la información. Adiós.}
 {164}{}{Tengo brahmines más listos que tú. Vete.}

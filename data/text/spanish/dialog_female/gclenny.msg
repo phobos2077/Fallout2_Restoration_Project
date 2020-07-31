@@ -108,7 +108,7 @@
 {372}{}{Siento que te vayas, Lenny.}
 {373}{}{¿No puedes soportarlo, eh? Bueno, será mejor que arrastres tu cuerpo a medio pudrir lejos de aquí antes de que decida si liquidarte vale un cartucho o no.}
 {374}{}{*Eructo* Sí, lo que sea. Supongo que tienes otras cosas que hacer, como gastar tu tiempo libre intentando recordar cómo era tener una piel que no parecía como el cadáver podrido de una rata atropellada en pleno julio. Vete de aquí, jodido fenómeno.}
-{375}{}{De acuerdo.}
+{375}{}{Vale.}
 {380}{}{¿Q-Qué q-quieres que haga?}
 {381}{}{Lenny, sé que lo estás intentando, pero por favor, quítate de mi camino.}
 {382}{}{Necesito que pelees de una manera distinta, Lenny.}
@@ -138,7 +138,7 @@
 {424}{}{No importa.}
 {430}{}{P-parece que p-puedes e-enseñarle trucos nuevos a un perro v-viejo. Genial.}
 {431}{}{Por alguna razón n-no puedo pillarle el truco.}
-{432}{}{De acuerdo.}
+{432}{}{Vale.}
 {440}{}{Oh, está bien. Esperaré aquí hasta que vuelvas. Dame algo de tiempo para descansar mis articulaciones doloridas.}
 {441}{}{Hazlo, Lenny. Adiós.}
 {442}{}{Deberías esperar aquí; oh, y otra cosa...}
@@ -188,7 +188,7 @@
 {1300}{}{Esa es una buena idea. Me estaba preguntando cuando nos detendríamos para hacer eso, estoy bastante lastimado.}
 {1400}{}{Necesito curarme ahora mismo o moriré.}
 {1500}{}{Oh, está bien. Esperaré aquí hasta que vuelvas. Dame algo de tiempo para descansar mis articulaciones doloridas.}
-{1600}{}{De acuerdo.}
+{1600}{}{Vale.}
 {1700}{}{Me m-mantendré c-cerca de ti.}
 {1800}{}{S-supongo que no queremos ser un b-blanco fácil, ¿eh?}
 {1900}{}{Está bien, me m-mantendré un poco más lejos. D-de todas formas la g-gente siempre parece querer matarte.}
@@ -211,42 +211,42 @@
 {3005}{}{N-no quiero t-tener nada que ver c-contigo.}
 {4000}{}{Vale, pero no me gusta mucho la idea de quedarme solo aquí.}
 {4001}{}{Está bien, si realmente crees que es una buena idea.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
+{4002}{}{Bueno, no me gusta usar las armas, a menos que realmente tengo, pero supongo que me podría usar un cuchillo, creo. Puedo usar una pistola, al menos yo solía ser capaz de. Si yo realmente, creo que podría manejar una ametralladora. Si tan sólo no fuera tan fuerte. Soy un sanador, no un luchador.}
 {4003}{}{Cielos, espero no necesitar eso.}
-{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
+{4004}{}{Bueno, no me gusta usar las armas, a menos que realmente tengo, pero supongo que me podría usar un cuchillo, creo. Puedo usar una lanza, al menos yo solía ser capaz de. Si yo realmente, creo que podría manejar un rifle. Si tan sólo no fuera tan fuerte. Soy un sanador, no un luchador.}
 {5000}{}{Creo que p-podría tener un m-miembro roto.}
 {5001}{}{Creo que p-podría s-ser irradiado.}
 {5002}{}{Creo que p-podría s-ser envenenado.}
-{5100}{}{I'm f'feeling a b'bit warm now.}
-{5101}{}{That's b'better.}
+{5100}{}{Estoy f'feeling a b'bit caliente ahora.}
+{5101}{}{Que b'better.}
 {6000}{}{Necesito una opinión profesional, Lenny. ¿Qué sabe usted acerca de la administración de una enfermedad del corazón?}
-{6001}{}{Can you tell me anything about these pills I found, Doc?}
+{6001}{}{Me pueden decir nada acerca de estas píldoras que he encontrado, Doc?}
 {6010}{}{Lo que parece ser el t'trouble? Su t'ticker ain't g'givin' hacia fuera en usted ahora, ¿no?}
-{6011}{}{No, I was actually wondering if there was anything we could do for Cassidy.}
+{6011}{}{No, en realidad estaba preguntando si había algo que podía hacer por Cassidy.}
 {6012}{}{No. Voy a asesinar a un débiles hombre viejo y yo estaba tratando de llegar a algo más creativo que escabullirse y hacer estallar una bolsa de papel.}
 {6013}{}{Sólo achacarlo a la curiosidad académica, supongo.}
-{6020}{}{Heh. No need to get t'tetchy, now.}
+{6020}{}{Heh. No hay necesidad de obtener t'tetchy, ahora.}
 {6021}{}{Y, sobre todo, es sólo c'common las cosas con sentido. Comer a la derecha, steerin' c'clear de la más difícil c'chems, que sorta cosa. K'keepin' estrés a un m'minimum. B'basically, livin' m'por como un viejo l'lady, y menos como... bueno, nosotros. Heh. O'course, el b'best cosa que podría d do que probablemente sería t'tamp hacia abajo con un poco de c'cardiac reguladores, m'maybe algunos v'vasodilators.}
-{6022}{}{Cardiac what now?}
-{6023}{}{Hmm. Heart pills.}
+{6022}{}{Cardiaca ¿y ahora qué?}
+{6023}{}{Hmm. Corazón en forma de pastillas.}
 {6030}{}{Vamos a ver, ahora... (Lenny mutters y una serie de a sí mismo como él lee la etiqueta).}
 {6040}{}{Corazón en forma de pastillas. Supongo que lo que están p'puttin' en la Bóveda de la Ciudad y NCR estos d'days no es muy diferente que la de w'what estábamos trabajador' b'back antes de la w " guerra. Fuerte m'medicine. G mama'un chico en esas cosas, él tendría la h'heart de un m'mutant m'marathon corredor. Diablos, si importaban de su d'doc y tomó 'em r'regular-como, él probablemente podría vivir en caliente b'buttered chems y n'not tiene que preocuparse de que skippin' a s'single b'beat. Uh, n'not que me gustaría recomendar que tipo o' cosa, por supuesto. D'doctors los pedidos son siempre supone que c'clean livin' y p'plenty de r'roughage, ¿verdad?}
-{6041}{}{Uh, right. Thanks, Lenny. Let me ask you about something else.}
+{6041}{}{Uh, a la derecha. Gracias, Lenny. Déjame preguntarte sobre algo más.}
 {6042}{}{Son peligrosos en absoluto? Efectos secundarios a tener en cuenta?}
-{6043}{}{Do you think these could help Cassidy?}
+{6043}{}{¿Crees que estas podrían ayudar a Cassidy?}
 {6050}{}{Podrían ser j'just la cosa, ahora que m'mention ella. De hecho, creo que w'would ser. Él había hafta ser cuidadoso acerca de un c'coupla' las cosas, sin embargo.}
 {6051}{}{¿Como qué?}
-{6052}{}{I knew there'd be a catch.}
+{6052}{}{Yo sabía que habría una captura.}
 {6060}{}{Nada que volvería a c'come t'too a menudo. Ellos han sido conocidos a c'cause mareos. Y y ¿no t'take 'em con g'grapefruit jugo, a pesar de que me d armagedón, no creo que va a ser de m'much de un p'problem, en estos días. A menos que eso sea lo que los l'lumpy g'green deben ser las cosas. Hmmm... (Lenny pone una mano a su barbilla y mira hacia el espacio).}
 {6061}{}{Lenny?}
 {6070}{}{S'sorry. Oh! Uno de los más b'big uno. A menos que usted está l'lookin "para satisfacer una l'less-de-d'dignified final, que *no* quiere g go mixin' esas cosas con N new'Reno p'pep pastillas.}
 {6071}{}{Pep... pastillas?}
-{6072}{}{Bad reaction, then?}
+{6072}{}{Mala reacción, entonces?}
 {6080}{}{Ayup. Ya sabes, para cuando su l'little t'trooper no st'stand en la atención? T'technical n'name para 'em fue "la PDE-inhibidores de la 5" pero t'times bein' lo que son, y N new'Reno bein' lo QUE es... Anywho, ¿dónde estaba?}
 {6081}{}{Ayup. Ya sabes, para cuando un hombre se l'little t'trooper no st'stand en la atención? T'technical n'name para 'em fue "la PDE-inhibidores de la 5" pero t'times bein' lo que son, y N new'Reno bein' lo QUE es... Anywho, ¿dónde estaba?}
 {6082}{}{Oh, sí. G mama'los dos en su s'system juntos, y KER-BLAM! Tu corazón va a estallar como un b'blood s'sausage. Recuerdo d'doin' p'post mórtem en m more que un pobre g'geezer que fue t'too b'busy siembra su avena a r leía un w'warning etiqueta.}
-{6083}{}{Blood Sausage?}
-{6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
-{6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}
-{6091}{}{Well, since you asked...}
-{6092}{}{Nope, that'll do. Thanks, Lenny.}
+{6083}{}{Morcilla?}
+{6084}{}{Eh. Es bueno saber. Muchas gracias, Lenny.}
+{6090}{}{Oh. Heh. Musta b'been un poco antes de su t'time. Lo siento. Nada me puede d do para usted?}
+{6091}{}{Bueno, ya que le...}
+{6092}{}{No, que voy a hacer. Gracias, Lenny.}

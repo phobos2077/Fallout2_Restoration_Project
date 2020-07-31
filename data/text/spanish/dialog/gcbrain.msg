@@ -97,9 +97,9 @@
 {381}{}{¿Y entonces qué?}
 {390}{}{Trepé hacia el exterior. Cuando comencé a curarme, noté que había cambiado. Intenté comunicarme con la gente, pero todos intentaron matarme. Los humanos son demasiado violentos como para sobrevivir bajo su propio liderazgo... pero esa es otra historia. El primer paso es reparar el reactor.}
 {391}{}{¿Reparar el reactor?}
-{400}{}{You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
- then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
- themselves in the long run, as well.}
+{400}{}{Usted debe obtener una Hidroeléctrica Magnetosfera Regulador de la Bóveda de la Ciudad con el fin de reparar el Gecko reactor. Si no,
+ luego de la Bóveda de la Ciudad sin duda ataque Gecko. Por supuesto, al destruir el reactor, se condena
+ a sí mismos en el largo plazo, así.}
 {401}{}{¿Se condenarán a sí mismos? ¿Qué quieres decir?}
 {402}{}{¿Por qué Ciudad Refugio me daría una pieza para la central nuclear de Gecko?}
 {410}{}{Tienes que demostrarles que hacerlo redundará en su mejor interés. La gente es fácilmente manipulable a través de sus propios intereses.}
@@ -114,7 +114,7 @@
 {441}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso. Fue sabio permitirte unirte a mi culto. ¿No hay algo que deberías estar haciendo en este momento?}
 {442}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
 {443}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
-{444}{}{Uh...}
+{444}{}{Eh...}
 {450}{}{Que así sea. ¡Zomak! ¡Mata a este idiota por mí! ¡Pero ten cuidado con las bolitas de queso!}
 {460}{}{Tienes que usar el disco de datos del reactor en la computadora central de Ciudad Refugio. Puedes colarte
  en ella y usarlo, o, si tienes el disco de datos económicos, dirigirte a McClure.}
@@ -202,23 +202,23 @@
 {700}{}{No tengo nada más que decirte.}
 {701}{}{Bien feo el hijo de puta, ahora tengo una nueva oferta para usted: ya Sea que usted llame fuera de su roedores, o te juro que me va a soplar el maldito reactor!}
 {702}{}{Bien, bien... eso está hecho. Simplemente, no toque el reactor. (masculla) Maldito psicópata humanos...}
-{703}{}{Now that we're in agreement, what were you saying about the optimization?}
-{704}{}{It's settled then. Goodbye.}
+{703}{}{Ahora que estamos de acuerdo, ¿qué estabas diciendo acerca de la optimización?}
+{704}{}{Se estableció entonces. Adiós.}
 {705}{}{Se llegó a un acuerdo acerca de la molerats con El Cerebro.}
 {706}{}{La bóveda de la Ciudad de las patrullas de mantener atacados por molerats. Asumo que está detrás de esto?}
 {707}{}{Pide mi ayuda, sin embargo, deja una tarea a medio terminar. (para sí mismo) Típico del ser humano. (a usted) Optimizar el reactor, entonces, y sólo entonces, puedo ayudarle.}
-{708}{}{That depends. What is it?}
+{708}{}{De que depende. ¿Qué es?}
 {709}{}{Escuchar aquí, usted radiactivos de rata. Usted está realmente empezando a piss me off. Usted dijo que su "kin" había pateado el cubo... Bueno, quiero que sepan -- era yo, que terminó fuera de él. Y ahora creo que voy a terminar el trabajo de la representación de su especie extinta.}
 {710}{}{Escuchar aquí, usted radiactivos de rata. Usted está realmente empezando a piss me off. Creo que es hora de que me ponga un freno a esta locura.}
-{711}{}{I need to think this over.}
+{711}{}{Tengo que pensar sobre esto.}
 {712}{}{Más interesante... y yo pensaba que estaban preocupados por el bienestar de la Bóveda de la Ciudad. De todos modos, la seguridad de que el pueblo es parte integrante de mi plan. Por lo tanto, voy a conceder su petición, humanos.}
 {713}{}{A mí me parece, que ya tiene fijo y optimizado el reactor, te mereces mi ayuda. ¿Qué es lo que quieres?}
-{714}{}{Thank you! What were you saying about the optimization?}
-{715}{}{Thank you! Bye.}
+{714}{}{Gracias! ¿Qué estabas diciendo acerca de la optimización?}
+{715}{}{Gracias. Adiós.}
 {716}{}{Parece que Gordon ya te ha dado este Disco de Data de Económico del que hablo. Llévelo inmediatamente a Cuidad Refugio.}
 {717}{}{Estoy en ello.}
 {718}{}{Umm... sí, quizá más tarde.}
-{719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
-{720}{}{Very well, I shall help you.}
+{719}{}{*Deben* obtener una Hidroeléctrica Magnetosfera Regulador de la Bóveda de la Ciudad con el fin de reparar el Gecko reactor. Si no, entonces la Bóveda de la Ciudad sin duda ataque Gecko. Si me ayuda, voy a cumplir con su solicitud. Así que... ¿te unes a nosotros?}
+{720}{}{Muy bien, voy a ayudar a usted.}
 {721}{}{No, tornillo de cerebro de rata! He tenido suficiente de esto. Tiempo para morir!}
 {4211}{}{Eh, supongo que mejor voy a conseguir ese disco de Gordon. Adiós.}

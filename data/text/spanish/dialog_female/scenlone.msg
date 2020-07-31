@@ -27,7 +27,7 @@
 {126}{}{No, estoy buscando un GECK.}
 {127}{}{¿Ayudar? ¿Cómo?}
 {128}{}{Un lanzacohetes me da toda la paz espiritual que necesito, señora.}
-{129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
+{129}{}{"La verdadera entender" esta! (Grosero gesto con la mano con el dedo del medio.)}
 {130}{}{¿Merk? ¿Qué es lo que quiere?}
 {131}{}{Sencillo. Te quiere muerta. Di adiós.}
 {132}{}{No sé lo que hiciste, pero tiene un contrato sobre ti.}
@@ -72,10 +72,10 @@
 {171}{}{¿Cómo han ido las cosas?}
 {172}{}{Olvídalo. Sin resentimientos. Eso es todo.}
 {173}{}{Eso es impresionante. Aunque creo que estamos hablando de dos cosas diferentes, todavía suena como usted se merece un bonus de experiencia.}
-{174}{}{Yes!!}
+{174}{}{Sí!!}
 {175}{}{Se hace. Sólo recuerde, sin embargo, hay más en la vida que ganar suficientes puntos de experiencia para alcanzar el siguiente nivel. Hay todo un mundo "real" por ahí.
  Ahora que tenemos que salir del camino, vamos a intentarlo de nuevo?}
-{176}{}{Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
+{176}{}{La trascendencia? Honestamente, ¿cómo me esperan para difundir la palabra aquí cuando ni siquiera me mantienen al día sobre las últimas doctrina!?}
 {177}{}{(Continuar)}
 {178}{}{¿Estabas dormido durante el adoctrinamiento? Mmmmm... ¡tú no eres una de los Iluminados!}
 {179}{}{¿Así que estás diciendo que existe algún enorme poder que nos crea con un propósito y luego nos abandona? No puedo creer que alguien pudiera ser tan cruel. Vamos, abraza la Iglesia de la Hubología. Déjanos enseñarte el camino correcto.}

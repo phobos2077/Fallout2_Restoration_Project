@@ -1,1 +1,1 @@
-{100}{}{This locker requires a key code.}
+{100}{}{Este armario se requiere un código de clave.}

@@ -18,16 +18,16 @@
 {117}{}{Supervivencia}
 {200}{}{El uso, cuidado y conocimiento general de las armas pequeñas: pistolas, ametralladoras y rifles.}
 {201}{}{El uso y mantenimiento de las armas grandes: miniguns, lanzacohetes, lanzallamas y similares.}
-{202}{}{The care and feeding of energy-based weapons. How to arm and operate weapons that use laser or plasma technology.}
-{203}{}{A combination of martial arts, boxing and other hand-to-hand martial arts. Combat with your hands and feet.}
+{202}{}{Cuidado y alimentación de armas de energía. Cómo montar y manejar armas que utilizan tecnología láser o de plasma.}
+{203}{}{Combinación de artes marciales, boxeo y otras habilidades defensivas que implican contacto cuerpo a cuerpo. Luchas con las manos y con los pies.}
 {204}{}{El uso de las armas melee: cuchillos, almádenas, lanzas, mazas y similares.}
 {205}{}{La habilidad con las armas arrojadizas, como cuchillos, lanzas y granadas.}
-{206}{}{General healing skill. Used to heal small cuts, abrasions and other minor ills. In game terms, the use of first aid can heal more hit points over time than just rest.}
-{207}{}{The healing of major wounds and crippled limbs. Without this skill, it will take a much longer period of time to restore crippled limbs to use.}
+{206}{}{Habilidad general de curación. Utilizada para curar pequeños cortes, quemaduras y otras incidencias menores. En el juego, el uso de los primeros auxilios puede curar más puntos de salud que el simple descanso.}
+{207}{}{Curación de heridas mayores y extremidades dañadas. Sin esta habilidad se tardará mucho más en curar las extremidades dañadas.}
 {208}{}{Movimiento en silencio, y la habilidad para permanecer indetectable. Usado con éxito, serás mucho más difícil de localizar. No puedes correr y estar en sigilo al mismo tiempo.}
 {209}{}{La habilidad de abrir cerraduras sin la llave apropiada. El uso de ganzúas y ganzúas electrónicas incrementará en gran medida esta habilidad.}
-{210}{}{The ability to make the things of others your own. Can be used to steal from people or places.}
-{211}{}{The finding and removal of traps. Also the setting of explosives for demolition purposes.}
+{210}{}{La capacidad para hacer las cosas de otras personas de su propio. Puede ser utilizada para robar de personas o lugares.}
+{211}{}{Localización y eliminación de trampas. También incluye la colocación de explosivos con fines destructores.}
 {212}{}{Cubre una gran variedad de habilidades de alta tecnología, como computadoras, biología, física y geología.}
 {213}{}{La aplicación práctica de la ciencia en la reparación de equipamiento, maquinaria y electrónica averiada.}
 {214}{}{La habilidad para comunicarse de forma práctica y eficiente. Habilidad de convencer a otros de que tu razonamiento es el correcto. Habilidad para mentir y no ser pillado haciéndolo.}
@@ -78,7 +78,7 @@
 {571}{}{Robas %s.}
 {572}{}{Te pillan plantando la %s.}
 {573}{}{Plantas la %s.}
-{590}{}{You've taxed your ability with that skill. Wait a while.}
+{590}{}{Has sobrepasado tu capacidad con esta habilidad. Espera un momento.}
 {591}{}{Estás demasiado cansado.}
 {592}{}{El agotamiento podría matarte.}
 {600}{}{No tienes suficiente habilidad para curar huesos fracturados.}
@@ -87,7 +87,7 @@
 {1001}{}{Puedo hacerlo.}
 {1002}{}{Lo tengo.}
 {1003}{}{Encantado de ayudar.}
-{1004}{}{De acuerdo.}
+{1004}{}{Vale.}
 {1005}{}{Lo intentaré.}
 {1100}{}{Si tienes problemas, avísame.}
 {1101}{}{¿Lo tienes?}

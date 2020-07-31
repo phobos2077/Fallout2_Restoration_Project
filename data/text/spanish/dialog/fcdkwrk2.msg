@@ -51,7 +51,7 @@
 {310}{}{Entonces... BOOM!}
 {311}{}{Gotcha. Supongo que usted no sabe cómo yo podría desarmar a él?}
 {320}{}{Sólo el Shi técnicos gustaría saber una cosa. Yo he dicho todo lo que sé.}
-{321}{}{Thanks, Meng. Good luck with your new life.}
-{330}{}{Now it is time to begin anew...}
-{350}{}{Leave me be, lao wai.}
-{400}{}{You convince Meng to move on with his life.}
+{321}{}{Gracias, Meng. Buena suerte con tu nueva vida.}
+{330}{}{Ahora es el momento de comenzar de nuevo...}
+{350}{}{Me dejan ser, lao wai.}
+{400}{}{Usted convencer a Meng para seguir adelante con su vida.}

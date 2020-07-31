@@ -71,12 +71,12 @@
 {170}{}{Como robarle el caramelo a un niño. Nunca me encontrarán. ¿Qué es lo que quieres de ellos?}
 {171}{}{Genial. Tengo más preguntas.}
 {172}{}{Genial. Volveré.}
-{173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines. Are you sure you want me to go after them?}
+{173}{}{Puedo llegar a ellos. Son muy protectores de su información, y tienen unas graves de hielo a la protección de sus máquinas. Estás seguro de que quieres que me vaya tras ellos?}
 {174}{}{En fin, buena suerte. Tengo más preguntas.}
 {175}{}{Buena suerte. Volveré más tarde.}
 {176}{}{Oye, encuentra a mi novia y entonces hablaremos.}
 {177}{}{De acuerdo, de acuerdo.}
-{178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me. Give me a few hours to get myself together.}
+{178}{}{Ella está muerta? Ella está MUERTA? ¿Cómo va a morir? No, espera... no me digas. Dame un par de horas para llegar a mí juntos.}
 {179}{}{Claro, claro.}
 {180}{}{Ponte las pilas, juerguista. Tenemos puñeteras cosas que hacer.}
 {181}{}{De acuerdo. Ya estoy mejor.}
@@ -99,7 +99,7 @@
 {198}{}{Me alegro de verte.}
 {199}{}{Estoy buscando algo de combustible.}
 {200}{}{He oído que los Hubologistas tienen algo de combustible, y pude echar un vistazo en su computadora para ti.}
-{201}{}{The Shi have all the fuel around here. I could take a gander at their mainframe for you.}
+{201}{}{El Shi tiene todo el combustible por aquí. Yo podría tomar un vistazo a su mainframe para usted.}
 {202}{}{¿Podrías?}
 {203}{}{¿Qué coño quieres?}
 {204}{}{¿Badger, supongo?}
@@ -116,7 +116,7 @@
 {215}{}{¿Puedes transferir el combustible de sus reservas al petrolero?}
 {216}{}{No importa, lo haré de otra forma.}
 {217}{}{No importa.}
-{218}{}{Alright. Check back with me in a day or so and I'll let you know.}
+{218}{}{Bien. Comprobar de nuevo conmigo en un día o así y voy a dejar que usted sabe.}
 {219}{}{¿Conseguiste lo que necesitaba?}
 {220}{}{Sí, tengo el combustible.}
 {221}{}{Sí, tengo los planos del verti.}

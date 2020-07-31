@@ -1,4 +1,4 @@
-{100}{}{You see torpedos.}
+{100}{}{Ver torpedos.}
 {101}{}{Estos peligrosos-en busca de armas están llenos hasta el borde con explosivos. Las carcasas están corroídos y
  parece que las hélices se caerá en cualquier instante.}
 {200}{}{A pesar de las miradas, este torpedo es todavía un arma potente. La suelta de la hélice es en realidad una parte integral de
