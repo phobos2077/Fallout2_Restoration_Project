@@ -1,8 +1,8 @@
 {100}{}{Ves a un "humano" horriblemente desfigurado.}
-{101}{}{You see what appears to be an unfortunate human with grotesque animal features. It seems ravenous with hunger.}
+{101}{}{Usted ve lo que parece ser un desafortunado humano con grotescos rasgos animales. Parece voraz con el hambre.}
 {200}{}{¡Urgh!}
 {201}{}{¡Haambreeento!}
-{202}{}{*snarl*}
+{202}{}{*gruñido*}
 {203}{}{¡Grrr!}
 {204}{}{¡Quiero comerr!}
 {205}{}{¡Matar! ¡Alimentaaar!}

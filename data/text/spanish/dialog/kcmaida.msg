@@ -91,15 +91,15 @@
 {400}{}{¿Has vuelto, eh? Espero que estés cuidando de Sulik. Estoy segura de que está perdido sin que yo le diga lo que tiene que hacer.}
 {401}{}{He vuelto porque necesito algo.}
 {402}{}{Bueno, estoy seguro de que no puedo hacer un trabajo tan bueno como el tuyo cuidando de él, pero lo intento.}
-{420}{}{A trapper named Smiley has gone missing. Momma sure is upset about that. I'm sure she would be grateful if
- someone found him.}
+{420}{}{Un cazador llamado Smiley ha desaparecido. Mamá seguro que se enoja por eso. Estoy seguro de que ella estaría agradecido si
+ alguien lo encontró.}
 {421}{}{Bueno, ¿has visto a Torr por alguna parte? Parece que se ha escapado, y estamos preocupadas.}
 {422}{}{Vale, hablaré con la señora Buckner sobre el tema. Déjame hacerte otra pregunta.}
 {423}{}{No, no he visto a Torr por ninguna parte. Te lo haré saber si lo veo. Déjame hacerte otra pregunta.}
-{424}{}{Well, Torr has been complaining about "Bug Men" scaring the brahmin. Not sure if I really believe all his stories,
- but someone or something has been rustling cattle here in town.}
-{425}{}{I'll admit I haven't been paying too much attention to all the gossip around town. Head over to the Golden Gecko,
- I'm sure someone there might know a thing or two.}
+{424}{}{Bueno, Torr ha estado quejando "Error Hombres" asustar el brahmán. No estoy seguro si realmente creo que todas sus historias,
+ pero alguien o algo ha sido el abigeato de ganado aquí en la ciudad.}
+{425}{}{Admito que no he estado prestando demasiada atención a todos los chismes alrededor de la ciudad. Pásate a la Golden Gecko,
+ Estoy seguro de que alguien podría saber una cosa o dos.}
 {426}{}{Robando de ganado, ¿eh? Voy a mirar en esto. Pero déjame preguntarte otra cosa.}
 {427}{}{Interesante. ¿Algo más que deba saber?}
 {428}{}{Gracias por el consejo. Pero permíteme preguntarte otra cosa.}
@@ -141,9 +141,9 @@
 {542}{}{Oh, entonces volveré cuando tenga más. Adiós.}
 {550}{}{Me alegro mucho de que ese maldito (sollozo) tribal (sollozo) se marche (sollozo) de aquí (sollozo).}
 {600}{}{[MÁS]}
-{700}{}{I found out what's been happening to your brahmin.}
-{701}{}{You have? That's great, but mom's the one you'll want to talk to about that.}
+{700}{}{Me enteré de lo que está ocurriendo a su brahmán.}
+{701}{}{Tiene usted? Eso es genial, pero la mamá es la que usted quiere hablar acerca de eso.}
 {702}{}{Por supuesto, entonces iré a preguntarla.}
-{710}{}{Cattle rustling? Any leads?}
-{711}{}{Not really. I'm not even sure if there's a connection between this and the brahmin mutilations.}
+{710}{}{El robo de ganado? Cualquier conduce?}
+{711}{}{De verdad que no. Ni siquiera estoy seguro de si hay una conexión entre este y el brahmán mutilaciones.}
 {712}{}{Interesante. ¿Alguna otra noticia local que debo conocer?}

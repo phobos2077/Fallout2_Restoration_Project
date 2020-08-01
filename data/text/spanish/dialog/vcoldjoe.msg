@@ -31,46 +31,46 @@
  tiene un consejo para ti. Ten cuidado ahí fuera. Este lugar no es tan apacible como parece. }
 {124}{}{¿Qué ocurre aquí?}
 {125}{}{Bueno, los Ciudadanos de Refugio tienen en alta estima su estirpe y no cuidan mucho de personas como tu y yo. Toma esto. Te protegerá si las cosas se descontrolan. Probablemente no deberías haber sido visto hablando con este anciano loco. Mejor que continúes tu camino.}
-{126}{}{Thanks for your help. Bye.}
+{126}{}{Gracias por tu ayuda. Bye.}
 {127}{}{Dejas descansar al anciano.}
 {128}{}{Tan parecido...}
 {129}{}{Ahora déjame.}
 {130}{}{Mejor que te vayas.}
 {131}{}{Ellos sospecharán si seguimos hablando.}
 {132}{}{Venga, ponte a ello. Que mi viejo amigo se sintiera orgulloso.}
-{133}{}{Thanks. One more thing though. I'm trying to help this little village that's north-east of here. A guy there named Connar told me to seek you out and speak with you.}
-{134}{}{Connar, huh? He's a good guy. I've been keeping my eye on things for him. So what exactly does Connar want, now?}
-{135}{}{He's trying to get his hands on some weapons. He thinks if they had some firepower, they'd be able to keep the Vault City patrols at bay.}
-{136}{}{Ah, so that's his new plan, eh? Well, head over to Happy Harry's general store. Tell Harry Connar sent you, and he should be able to fix you up -- I believe he's got some guns stashed away for just such an occasion. But if you ask me, I'm not sure this is the best way to handle things.}
-{137}{}{I'm off to speak with Harry then. Take care ol' friend.}
+{133}{}{Gracias. Una cosa más, aunque. Estoy tratando de ayudar a este pequeño pueblo del norte-este de aquí. Un chico llamado Connar me dijo que me buscan y hablar con usted.}
+{134}{}{Connar, ¿eh? Él es un buen hombre. He estado manteniendo mis ojos en las cosas para él. Entonces, ¿qué hace exactamente Connar quiera, ahora?}
+{135}{}{Está tratando de conseguir sus manos en algunas de las armas. Él piensa que si tenían algún poder de fuego, que sería capaz de mantener la Bóveda de la Ciudad de patrullas en la bahía.}
+{136}{}{Ah, así que es su nuevo plan, eh? Bueno, pásate Feliz Harry general de la tienda. Decirle a Harry Connar enviado, y él debe ser capaz de fijar-creo que él tiene algunas armas guardados para tal ocasión. Pero si usted me pregunta, yo no estoy seguro de que esta es la mejor manera de manejar las cosas.}
+{137}{}{Me voy a hablar con Harry, entonces. Cuidar ol' amigo.}
 {138}{}{¿Por qué? ¿Qué quieres decir?}
-{139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Vault City have nearly unlimited resources, and eventually, they'll win out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}
-{140}{}{Hmm... I may have to consider this. Thanks for everything, bye.}
-{141}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
+{139}{}{Connar y su gente tiene que fuerte espíritu de lucha, pero no será suficiente en este caso. La bóveda de la Ciudad tiene casi ilimitado de recursos, y, finalmente, van a ganar. A veces, lo mejor es hablar las cosas y tratar de razonar con la gente. Esa es una lección que aprendí de mi viejo amigo, el Vault Dweller. Senior Miembro del Consejo de la McClure ha demostrado ser un hombre razonable. Tal vez algún acuerdo se puede hacer con él?}
+{140}{}{Hmm... yo podría tener esto en cuenta. Gracias por todo, adiós.}
+{141}{}{Tal vez voy a ir a hablar con él entonces. Sin embargo, tenía curiosidad sobre la mole de las ratas que están cuidando la aldea.}
 {142}{}{Sí, ¿qué pasa con ellos?}
-{143}{}{Any idea where they're from or who's controlling them?}
-{144}{}{That, I'm not sure about. A bunch of ghouls came by with them. They were carrying strange amulets and talking about some "Renewal". That's pretty much all I know. You might wanna check out Gecko though. That place is bustling with ghouls. Speaking of big rats, did I ever tell you about the time the Vault Dweller and I went to Vault 15?}
-{145}{}{No, but I'm well versed in the tale, as it's become a sacred legend in my tribe. Anyway, maybe I'll go see what I can find in Gecko. Take care, Ian.}
-{146}{}{Uh, thanks for the tip. I think you are the man I need to see though. Connar sent me to ask you for some things.}
-{147}{}{Wait a minute! Connar told me you have some information.}
-{148}{}{No, but I'm well versed in the tale, as it's become a sacred legend in my tribe. Anyway, maybe I'll go see what I can find in Gecko. Take care.}
-{150}{}{He was interested in getting some weaponry to fight off the Vault City patrols, but I convinced him that there's a better solution.}
-{151}{}{Ah, so that's his new plan, eh? Yeah, Connar's a good man, but he doesn't always think things all the way through. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller.}
-{152}{}{Well, any idea who on the council I might be able to talk to?}
-{153}{}{I think Senior Council Member McClure might be the man to talk to. What do you think?}
-{154}{}{Senior Council Member McClure is a smart man here in Vault City. Perhaps some agreement can be made with him?}
+{143}{}{Alguna idea de dónde viene o quién los controla?}
+{144}{}{Que, no estoy seguro acerca de. Un grupo de ghouls vino con ellos. Llevaban extraños amuletos y hablando sobre "la Renovación". Eso es todo lo que sé. Puedes querer retirar Gecko, aunque. Ese lugar está plagado de demonios. Hablando de grandes ratas, se me ocurrió decir usted sobre el tiempo de la Vault Dweller y me fui a la Bóveda de 15?}
+{145}{}{No, pero estoy muy versado en la historia, como se ha convertido en una leyenda sagrada en mi tribu. De todos modos, tal vez voy a ver qué puedo encontrar en Gecko. Cuidar, Ian.}
+{146}{}{Uh, gracias por la sugerencia. Creo que eres el hombre que necesito a ver si. Connar me envía a pedir que para algunas cosas.}
+{147}{}{Espera un minuto! Connar me dijo usted tiene alguna información.}
+{148}{}{No, pero estoy muy versado en la historia, como se ha convertido en una leyenda sagrada en mi tribu. De todos modos, tal vez voy a ver qué puedo encontrar en Gecko. Cuidado de la toma.}
+{150}{}{Él estaba interesado en conseguir algunas armas para luchar contra la Bóveda de la Ciudad de las patrullas, pero estoy convencido de que hay una mejor solución.}
+{151}{}{Ah, así que es su nuevo plan, eh? Sí, Connar un buen hombre, pero no siempre piensa que las cosas todo el camino a través. A veces, lo mejor es hablar las cosas y tratar de razonar con la gente. Esa es una lección que aprendí de mi viejo amigo, el Vault Dweller.}
+{152}{}{Bien, alguna idea de que en el consejo que yo podría ser capaz de hablar?}
+{153}{}{Creo Senior Miembro del Consejo de la McClure podría ser el hombre a hablar. ¿Qué te parece?}
+{154}{}{Senior Miembro del Consejo de la McClure es un hombre inteligente, aquí en la Bóveda de la Ciudad. Tal vez algún acuerdo se puede hacer con él?}
 {155}{}{De acuerdo. Trataré de hablar con él.}
-{156}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
-{157}{}{He'd be your best bet. He is the only one on the council that has a reasonable soul left.}
+{156}{}{Tal vez voy a ir a hablar con él entonces. Sin embargo, tenía curiosidad sobre la mole de las ratas que están cuidando la aldea.}
+{157}{}{Él iba a ser su mejor apuesta. Él es el único en el consejo el que tiene un alma razonable a la izquierda.}
 {158}{}{De acuerdo. Trataré de hablar con él.}
-{159}{}{I will go speak with him then. I was curious about the molerats that are guarding the village though.}
-{200}{}{Hey, if you really are the same Ian that journeyed with my ancestor, then I've got a question for you.}
-{201}{}{Alright, let's hear it.}
-{202}{}{How the hell are you still alive? You must be over a hundred years old. Not to mention the Vault Dweller's memoirs, which say you were burnt to death in Necropolis by a super mutant with a flame thrower.}
-{203}{}{[He barks gruff laughter for awhile; finally, he settles down and wipes a couple tears from his eyes.] Oh, that's rich. Burnt to death by a flame thrower, ha! You see, I told the Vault Dweller to make up some story about how I died, 'cause I didn't want any of our old enemies trying to hunt me down -- that's why I changed my name. I told him to have me going down in a blaze of glory, and it looks like he took that literally. Ha, that's classic.}
-{204}{}{Heh, I guess that solves that. I was curious about the molerats that are guarding the village though.}
-{205}{}{That still doesn't explain how you're still alive and well after all these years.}
-{206}{}{Hey, I'm just as confused as you are. Who knows? Maybe it's got something to do with all that radiation I was exposed to back in the old days. Hell, when we went to the Glow, I remember the Vault Dweller was popping Rad-X like candy, but did he offer any to ol' Ian? Of course not. I think he was still upset over a little friendly fire mishap. Heh heh. [Sigh.] Those were some good times.}
-{207}{}{I'm sure they were. Thanks for the story Joe, er, Ian. Take care.}
-{208}{}{I'm sure they were. Thanks for the story Joe, er, Ian. I was curious about the molerats that are guarding the village though.}
-{300}{}{Wait a minute! Are you the contact in Vault City that Connar was talking about?}
+{159}{}{Voy a ir a hablar con él entonces. Tenía curiosidad acerca de la molerats que están cuidando la aldea, aunque.}
+{200}{}{Hey, si realmente son el mismo Ian que iban con mi antepasado, luego tengo una pregunta para usted.}
+{201}{}{Bien, vamos a escuchar.}
+{202}{}{¿Cómo diablos están todavía vivos? Usted debe tener más de cien años de antigüedad. Por no hablar de la Bóveda Habitante de memorias, que dicen que fueron quemados hasta la muerte en la Necrópolis por un super mutante con un lanzallamas.}
+{203}{}{[Él ladra brusco de la risa por un rato; por último, se establece y toallitas húmedas, un par de lágrimas de sus ojos.] Oh, que rico. Quemados a muerte por un lanzallamas, ja! Usted ve, yo le dije al Vault Dweller que hacer algo de historia sobre la forma en que murió, porque no quería que ninguno de nuestros viejos enemigos tratando de cazar a mí ... eso es lo que he cambiado mi nombre. Yo le dije que me iba abajo en una llamarada de gloria, y parece que se tomó literalmente. Ja, que clásico.}
+{204}{}{Je, supongo que los que resuelve. Tenía curiosidad acerca de la molerats que están cuidando la aldea, aunque.}
+{205}{}{Que todavía no se explica cómo usted todavía está vivo y bien, después de todos estos años.}
+{206}{}{Hey, estoy tan confundida como tú. Quién sabe? Tal vez tiene algo que ver con todo lo que la radiación a la que estaba expuesta en los viejos tiempos. El infierno, cuando fuimos a el Resplandor, recuerdo el Vault Dweller hacía estallar Rad-X como el caramelo, pero hizo oferta alguna a ol' Ian? Por supuesto que no. Yo creo que él todavía estaba molesto por encima de un pequeño fuego amigo percance. Je je. [Suspiro.] Esos fueron algunos de los buenos tiempos.}
+{207}{}{Estoy seguro de que ellos eran. Gracias por la historia de Joe, er, Ian. Cuidado de la toma.}
+{208}{}{Estoy seguro de que ellos eran. Gracias por la historia de Joe, er, Ian. Tenía curiosidad acerca de la molerats que están cuidando la aldea, aunque.}
+{300}{}{Espera un minuto! Son el contacto en la Bóveda de la Ciudad que Connar estaba hablando?}

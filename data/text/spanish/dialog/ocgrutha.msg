@@ -3,7 +3,7 @@
 {102}{}{Ves la Garra mortal más impresionante que podrías imaginar. La criatura debe ser única en su especie.}
 {103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de Garras mortales. ¿Para qué has venido?}
 {104}{}{¿Para qué has venido?}
-{105}{}{Uh...}
+{105}{}{Eh...}
 {106}{}{¡Para patearte el culo!}
 {107}{}{¿Cómo es posible que una Garra mortal pueda hablar... y tan bien?}
 {108}{}{Quiero saber lo que ocurrió con la gente que vivía aquí.}
@@ -112,7 +112,7 @@
 {182}{}{Dijiste que si encontrabas un GECK aquí me lo harías saber. ¿Lo has hecho?}
 {183}{}{Sí, estoy buscando un GECK. Me dijeron que podría encontrarlo aquí. ¿Sabes dónde está?}
 {184}{}{No, gracias. Tengo todo lo que necesito.}
-{185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
+{185}{}{Ah, déjame ver. [Él se va, a continuación, devuelve un momento más tarde, torpemente agarrando algún tipo de carcasa metálica en sus grandes garras.] Sí, hubo un geck en la bóveda de la sala de almacenamiento. Es la suya con muchas gracias.}
 {186}{}{Sí, había un GECK en el almacén del Refugio. Sin embargo, se perdió. Lamento no poder dártelo como recompensa por tu generosa ayuda.}
 {187}{}{¡Gracias!}
 {188}{}{Eh... está bien. Intentaré encontrar uno en algún otro lugar.}

@@ -1,2 +1,2 @@
-{100}{}{You arm the dynamite.}
-{101}{}{You disarm the dynamite.}
+{100}{}{Usted brazo de la dinamita.}
+{101}{}{Usted desarmar la dinamita.}

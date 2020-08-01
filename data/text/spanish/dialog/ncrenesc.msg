@@ -63,7 +63,7 @@
 {309}{}{¿Te refieres a cosas como venderle drogas al hijo de Wright?}
 {310}{}{Puedes volver a hacer cosas importantes.}
 {320}{}{(Renesco te mira fijamente. Parece como si te desnudara mentalmente, y te arrancase los miembros uno a uno).}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{No importa, entonces. Yo tenía algunas otras preguntas...}
 {322}{}{No importa, entonces.}
 {330}{}{(Renesco te mira disgustado). Sí. En la TIENDA. Esto no es el siglo XX, en el que las drogas las vendían cucarachas de esquina que vivían con un temor constante a las autoridades.}
 {331}{}{Bien, entonces -}
@@ -104,7 +104,7 @@
 {413}{}{Ya me he dado cuenta. Oye, tenía algunas preguntas más...}
 {414}{}{Ya veo… ahora debo irme.}
 {420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil. Es como una gran y brillante garrapata agarrada al desierto.  Ahora bien, Redding, por el contrario…}
-{421}{}{Sigue.}
+{421}{}{Continúa.}
 {422}{}{… PRODUCE algo útil.}
 {423}{}{Ya he oído bastante.}
 {430}{}{Primera y última vez que te aviso, tribal: no termines mis malditas frases. No me gustan los primates listillos
@@ -194,7 +194,7 @@
 {634}{}{Nada, no importa. }
 {640}{}{(Renesco te arranca los anteojos de las manos y se los pone. Abre mucho los ojos). ¡Dulce Reno! ASÍ es como está esta maldita
  tienda. (Frunce el ceño). Qué desorden… ¿y qué es eso que hay en las estanterías? Parece mierda de brahmin.}
-{641}{}{You're welcome...}
+{641}{}{Eres bienvenido...}
 {642}{}{Disfruta. }
 {650}{}{¡Hmpphh! Yo… hmmm… eh… ¿de dónde has sacado esto?}
 {651}{}{Bien, había un diminuto escorpión rad, ¿sabes?, y un científico que lo estaba entrenando, y... ¿sabes qué? Ni yo
@@ -380,60 +380,60 @@
 {5259}{}{ no grites tú POR QUE GRITAS DEJA LOS GRITOS }
 {5260}{}{…*sniff*… ¡voy a buscar a mi hermano mayor y te pegará, viejo! Luego comeremos helado y…*sniff*… TARTA
  y habrá una fiesta grande con payasos y…}
-{6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}
-{6010}{}{I know this must come as something of a shock to you, but a white smock does not automatically confer a cardiology degree. I am a pharmacist. I produce chems. Then you buy them. Then, you leave. Quietly.}
-{6011}{}{Fair enough. Moving on, then...}
-{6012}{}{C'mon, could you humor me? Just this once? Pretty pleeease?}
-{6020}{}{Fine. My prescription is cigarettes and red meat, in large quantities. Was that all? If I have to put up with much more vacuous prattle today, I'm liable to have a stroke myself.}
-{6021}{}{Yeah, you are pretty high strung, aren't you? I'll bet Hakunin could help you with that. He's the medicine man back home, in Arroyo. Say, have I ever told you about Arroyo?}
-{6022}{}{And wouldn't that be a tragedy. Next question...}
-{6023}{}{Okay then, just one more quick thing...}
-{6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
-{6030}{}{I need you to fix me up with a special order.}
-{6031}{}{So, about that special order we were discussing...}
-{6040}{}{Yes? And? Were you expecting me to read your mind, or would you like me to surprise you?}
-{6041}{}{Not on your life, asshole. What I need are some... um... pills. For, um... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
-{6042}{}{Not on your life, asshole. What I need are some... um... pills. For, um... a man's... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
-{6043}{}{I'd like you to make me a batch of, erm, "Corsican Brothers chewable multivitamins."}
-{6044}{}{I'm looking for something you'd use to, uh, sharpen your spear, you know? Put a little bite back into your gecko?}
-{6045}{}{I'm looking for something a man would use to, uh, sharpen his spear, you know? Put a little bite back into his gecko?}
-{6046}{}{I'm looking for a complex PDE5-inhibitor compound, and I need the pills made according to my distinct specifications.}
-{6050}{}{What in Golgotha are you babbling about? English, Tribal! Do you speak it?}
-{6051}{}{(Sigh...) I would like you to make me some... erectile dysfunction medication.}
-{6052}{}{You know. Boner pills. Uh, for a friend.}
-{6053}{}{Boner pills. Not for me, obviously.}
-{6054}{}{You know exactly what I mean, you withered old bastard.}
-{6060}{}{(He leers derisively at you.) Hnn! I wouldn't exactly call that a "special" order. Half the reason this deviant cesspit of a city exists is to provide rutting degenerates such as yourself with an easy means of drowning in their own unsavory juices.}
-{6061}{}{I've got over a dozen brands here. Take your pick. And don't hurt yourself thinking too hard about it; they're all completely identical aside from the packaging.}
-{6062}{}{None of that is going to cut it. I need these made to order.}
-{6063}{}{That's a good start, but I had something specific in mind.}
-{6070}{}{(He sneers.) Oh, discerning customer, are you? Fine. Go on. It's been awhile since I got to charge anyone the specialty rate. Most of the local street vermin could care less what they're killing themselves with.}
-{6071}{}{Yeah, I hear that works out pretty well for you. Get those dollar signs out of your eyes, though, I'm not asking for anything too special. Just take some of that off the rack crap, grind it up, and shape it into smooth, circular, red pills, about yea big. Sound doable?}
-{6072}{}{(Show Renesco one of the heart pills.) What I need you to do is to make me a batch of those pills, only they need to look *exactly* like this one.}
-{6073}{}{Chemically, the base formulation can match the generic. As far as physical parameters... hmm... let's say, about a centimeter and a half in diameter, smooth, mildly rounded face, dull red coating. Lozenge edge of about an eighth-centimeter. Shouldn't be too much of a challenge for a man of your experience.}
-{6080}{}{Hmmm. Is that all? Remedial stuff, really. And the base materials are dirt cheap. Accounting for labor... $200 should suffice.}
-{6081}{}{What?! If I wanted to get screwed, I'd have gone to the Cat's Paw! At least I'd know what I was getting myself into.}
-{6082}{}{You know as well as I do that we're talking about $15 in chems and five minutes of mortar work. I think we need to talk some numbers here.}
-{6083}{}{All right. You've got overhead, I've got better places to be. $200.}
-{6084}{}{Not sure I can spare that much at the moment. Maybe we'll come back to this later.}
-{6090}{}{(His scowl deepens.) I'm not in the mood to beat around the bush with you. You think I'm going to buy that you're just some particularly picky homo not-so-erectus? PLEASE! Do you have any idea how long I've been doing this?}
-{6091}{}{You obviously haven't spent much time out of your cave, so take my word for it when I say there aren't too many kinds of pills going around that match that oddly specific description of yours, and one *very notable* one comes to mind immediately. "Specialty" items, specialty prices, throwback. Welcome to New Reno. That'll be $300.}
-{6092}{}{Look, I made sure no one even *breathed your name* in connection with that Wright affair. You do this for me, we're square. Okay?}
-{6093}{}{I covered your ass with Salvatore. Consider this collection on your debt.}
-{6094}{}{I don't think *Mr. Bishop* would be very happy with you if he knew you were hindering his interests like this, Renesco.}
-{6095}{}{Fine. $300, and that's for the pills *and* your discretion. Understand?}
-{6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
-{6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
-{6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
+{6000}{}{Yo estaba buscando algunos consejos sobre la salud del corazón. Creo que se podría llenar mí en una cosa o dos?}
+{6010}{}{Sé que esto debe venir como una sorpresa para usted, pero un blanco delantal no confiere automáticamente un cardiología grado. Soy un farmacéutico. Me producen chems. A continuación, usted compra de ellos. A continuación, dejar. En silencio.}
+{6011}{}{Justo lo suficiente. De pasar, a continuación,...}
+{6012}{}{Vamos, podría humor mí? Sólo por esta vez? Bastante pleeease?}
+{6020}{}{Bien. Mi receta es de los cigarrillos y la carne roja, en grandes cantidades. Era eso todo? Si tengo que poner con mucho más vacua prattle hoy en día, soy responsable de tener un accidente cerebrovascular a mí mismo.}
+{6021}{}{Sí, está muy muy nervioso, no? Apuesto a Hakunin podría ayudar con eso. Él es el hombre de la medicina de vuelta a casa, en el Arroyo. Dicen que he dicho sobre el Arroyo?}
+{6022}{}{Y ¿no sería una tragedia. La siguiente pregunta...}
+{6023}{}{Bueno, sólo una más rápida la cosa...}
+{6024}{}{Caramba, gracias Renesco. Yo sabía que podía contar con usted. Usted toma el cuidado ahora.}
+{6030}{}{Necesito que arreglarme con un pedido especial.}
+{6031}{}{Así, acerca de que la orden especial estábamos discutiendo...}
+{6040}{}{Sí? Y? Se que me esperan para leer su mente, o quieres que te sorprenda?}
+{6041}{}{No en su vida, imbécil. Lo que hay son algunas de las... um... pastillas. Para, um... (trail off, la mirada específicamente en la dirección de la hebilla del cinturón, mira Renesco en el ojo, y claro la garganta).}
+{6042}{}{No en su vida, imbécil. Lo que hay son algunas de las... um... pastillas. Para, um... un hombre... (trail off, la mirada específicamente en la dirección de la hebilla del cinturón, mira Renesco en el ojo, y claro la garganta).}
+{6043}{}{Me gustaría que me hagas un lote de, erm, "Corso de los Hermanos multivitaminas masticables."}
+{6044}{}{Estoy buscando algo que te gustaría utilizar para, uh, enfocar su lanza, sabes? Poner un poco de vuelta a tu gecko?}
+{6045}{}{Estoy buscando algo que un hombre se uso para, uh, enfocar su lanza, sabes? Poner un poco de emoción en su gecko?}
+{6046}{}{Estoy buscando un complejo de la PDE5-compuesto inhibidor, y necesito las pastillas hechas de acuerdo a mi especificaciones distintas.}
+{6050}{}{Lo que en el Gólgota estás balbuceando acerca de? Inglés, Tribal! ¿Habla usted de él?}
+{6051}{}{(Suspiro...) me gustaría que me hacen algunos... medicamento para la disfunción eréctil.}
+{6052}{}{Usted sabe. Píldoras de la erección. Uh, para un amigo.}
+{6053}{}{Píldoras de la erección. No para mí, obviamente.}
+{6054}{}{Usted sabe exactamente a qué me refiero, se marchita viejo hijo de puta.}
+{6060}{}{(Él lee burlonamente a usted.) Hnn! No me llama exactamente que un "especial" de la orden. La mitad de la razón por la que este deviant pozo negro de una ciudad que existe es proporcionar la formación de surcos degenera como a ti mismo con un medio fácil de ahogarse en su propio desagradable jugos.}
+{6061}{}{Tengo más de una docena de marcas de aquí. Lleve a su selección. Y no hagas daño a ti mismo pensando demasiado sobre ella, todas son completamente idénticos a un lado de la caja.}
+{6062}{}{Ninguno de los que se va a cortar. Necesito estos hechos a la orden.}
+{6063}{}{Ese es un buen comienzo, pero yo tenía algo específico en mente.}
+{6070}{}{(Él se burla.) Oh, cliente exigente, ¿no? Bien. Ir en. Ha sido un tiempo desde que me llegó a acusar a nadie de la especialidad de la tasa. La mayoría de los locales de la calle bichos podría importarle menos lo que se están matando a sí mismos con.}
+{6071}{}{Sí, he oído que funciona bastante bien para usted. Obtener esos signos de dólar fuera de sus ojos, sin embargo, no estoy pidiendo nada demasiado especial. Acaba de tomar algunos de los que el rack de mierda, triturarlas, y la forma en suave, circular, de color rojo pastillas, acerca de sí grande. Sonido factible?}
+{6072}{}{(Mostrar Renesco uno de el corazón de las píldoras.) Lo que deben hacer es hacer de mí un lote de esas pastillas, sólo se necesita mirar *exactamente* como este.}
+{6073}{}{Químicamente, la base de la formulación puede coincidir con el genérico. Tan lejos como parámetros físicos... mmm... digamos, alrededor de un centímetro y medio de diámetro, liso, ligeramente redondeado de la cara, sordo revestimiento rojo. Pastilla borde de una octava-centímetro. No debería ser demasiado de un desafío para un hombre de su experiencia.}
+{6080}{}{Hmmm. ¿Eso es todo? Correctivas cosas, realmente. Y los materiales de base son irrisorios. Contabilidad para el trabajo de parto... $200, debería bastar.}
+{6081}{}{Qué?! Si quería hacerse follar, me hubiera ido a la Pata del Gato! Al menos me gustaría saber qué me estaba metiendo.}
+{6082}{}{Usted sabe tan bien como yo que estamos hablando de alrededor de $15 en el chems y cinco minutos de mortero de trabajo. Creo que tenemos que hablar de algunos números aquí.}
+{6083}{}{Todo a la derecha. Tienes la sobrecarga, tengo mejores lugares para estar. $200.}
+{6084}{}{No estoy seguro que se puede ahorrar mucho en el momento. Tal vez vamos a volver a esto más adelante.}
+{6090}{}{(Su ceño fruncido se profundiza.) Yo no estoy en el humor para irse por las ramas con usted. Crees que me voy a comprar que usted está a solo algunos particularmente exigente homo no-tan-erectus? Por FAVOR! ¿Tiene usted alguna idea de cuánto tiempo he estado haciendo esto?}
+{6091}{}{Usted, evidentemente, no ha pasado mucho tiempo fuera de su cueva, así que tome mi palabra para ella cuando me dicen que no hay demasiados tipos de pastillas que va alrededor de ese partido que curiosamente descripción específica de los suyos, y una *muy notables* uno viene a la mente inmediatamente. La "especialidad" de los artículos, de la especialidad de precios, retroceso. Bienvenidos a la Nueva Reno. Que va a ser de $300.}
+{6092}{}{Mira, me aseguré de que nadie, ni siquiera *respiró su nombre* en relación con la que Wright asunto. Hacer esto por mí, estamos cuadrado. ¿De acuerdo?}
+{6093}{}{He cubierto el culo con Salvatore. Considere la posibilidad de esta colección en su deuda.}
+{6094}{}{No creo que *el Señor Obispo* sería muy feliz si él sabía que estaban obstaculizando sus intereses como este, Renesco.}
+{6095}{}{Bien. $300, y eso es por las pastillas *y* su discreción. Entender?}
+{6096}{}{Whoa, fácil no difusa poco hombre melocotón. Tal vez voy a volver cuando usted está en un mejor estado de ánimo.}
+{6100}{}{Bien. Supongo que concluye nuestro negocio, entonces. Debo decir, tribal, esto ha sido... casi *tolerable*. Ahora, sentarse en sus manos y tratar de no arruinar el momento. (Renesco toma su dinero y se va a trabajar.)}
+{6101}{}{(Minutos pasan. Renesco el polvo de sus manos y tira una botella de píldoras indistinguible de la del Westin, a través del contador de usted.) Ahí estás. Ahora, se nos hace aquí?}
 {6102}{}{Déjame hacerte otra pregunta.}
-{6103}{}{That's it for me. See you around.}
-{6110}{}{(Renesco flushes, nostrils flaring in anger, but then looks down and begins cleaning his glasses very intently on his smock as he speaks.) Primate, the ONLY two things I will EVER be indebted to you for are JACK and SHIT.}
-{6111}{}{Now, that being the case... if it will disabuse you of this intolerable provincial delusion that you've somehow got something over me, the very THOUGHT of which makes me ill in ways I lack the words to describe... }
-{6112}{}{I... SUPPOSE... your thrice damned pills are a small price to pay. And if I EVER AGAIN hear you say a word that even RHYMES with "owe," the shop is getting a new chimp-skin rug. Sit down, shut up, and work on growing a pair of opposable thumbs while I get this compounded. (Renesco goes to work.)}
-{6120}{}{(Renesco gazes around wide-eyed at the rest of the shop's chemically stupefied patrons before leaning in and rounding on you in a lowered voice, sibilant with rage) You. IGNORANT. Toad-licking, tumleweed worshipping ass. I don't think *Mr Bishop* would be very happy AT ALL if he were to hear that one of the talking brahmin turds on his payroll had been dropping his name while purchasing HIGHLY SPECIALIZED MURDER WEAPONS.}
-{6121}{}{In fact, I don't think *anyone involved* would be very happy about it in the end, unless you count the feeling of relief that comes when Bishop's people finally tire of pulling bits off of you with METALWORKING TOOLS and decide to FINISH THE JOB.}
-{6122}{}{(He blanches.) Oh God. I didn't hear this. I can't know this. Turn around. Get out. NOW. Find somewhere else to finish this mystical, ancestral vision quest up your own ass. Somewhere far, far away. (Renesco hurries off to look busy on the other side of his cage.)}
-{6130}{}{All the parts that weren't belches or grunts, anyway. Now wait here. (Renesco takes your money and goes to work). And for the love of God, *try* not to get any of my merchandise stuck in your simian face-holes while my back is turned.}
-{6141}{}{Oh, *this* again. My fee is $200, in the highly likely event that it slipped your mind.}
-{6142}{}{Once more, in case you were distracted by something shiny the first time around: $300. And don't push your luck.}
+{6103}{}{Eso es todo para mí. Ver todo.}
+{6110}{}{(Renesco vacía, las fosas nasales de la quema en la ira, pero luego mira hacia abajo y comienza la limpieza de sus cristales muy intensamente en su delantal mientras habla.) Los primates, las únicas dos cosas que SIEMPRE estaré en deuda con usted para JACK y la MIERDA.}
+{6111}{}{Ahora, siendo ese el caso... si va a desengañar a usted de esta intolerable provincial ilusión de que has de alguna manera tiene algo más de mí, la sola idea de que me hace mal en formas me faltan las palabras para describir... }
+{6112}{}{Yo... SUPONGO que... el tres veces maldito pastillas son un pequeño precio a pagar. Y si alguna VEZ vuelvo a escuchar otra vez dices una palabra que incluso RIMAS con "deber" el taller es conseguir un nuevo chimpancé-alfombra de piel. Sit down, shut up, y trabajar en el crecimiento de un par de pulgares oponibles, mientras que llegué a este compuesto. (Renesco va a trabajar.)}
+{6120}{}{(Renesco miradas alrededor de los ojos muy abiertos en el resto de la tienda químicamente estupefactos a los clientes antes de inclinarse y de redondeo en que en una bajada voz sibilante con rabia) Usted. IGNORANTE. Sapo-lamiendo, tumleweed adorar culo. No creo *Señor Obispo* sería muy feliz si A TODOS los que fueron a escuchar que uno de los de hablar de los brahmanes mojones pisados en su nómina había ido disminuyendo a su nombre, mientras que la compra ALTAMENTE ESPECIALIZADOS ASESINATO de ARMAS.}
+{6121}{}{De hecho, no creo *cualquiera de los involucrados* sería muy feliz en el final, a menos que cuente la sensación de alivio que viene cuando el Obispo de la gente finalmente se cansan de tirar de pedacitos de ti con las HERRAMIENTAS de la METALURGIA y decida TERMINAR EL TRABAJO.}
+{6122}{}{(Él blanche.) Oh Dios. Yo no oír esto. Yo no puedo saber esto. Gire a su alrededor. Salir. AHORA. Encontrar otro lugar para terminar esta mística, visión ancestral búsqueda de su propio culo. En algún lugar lejos, muy lejos. (Renesco apresura a buscar ocupado en el otro lado de su jaula.)}
+{6130}{}{Todas las partes que no eran los eructos o gruñidos, de todos modos. Ahora a esperar aquí. (Renesco toma su dinero y se va a trabajar). Y por el amor de Dios, *probar* no de mi mercancía pegado en su cara de simio-agujeros, mientras a mis espaldas.}
+{6141}{}{Oh, ** esta de nuevo. Mi tarifa es de $200, en el muy probable caso de que se les escapó de su mente.}
+{6142}{}{Una vez más, en caso de que usted se distrae por algo brillante que la primera vez: $300. Y que no presione a su suerte.}
 {6259}{}{ TE MATA.}

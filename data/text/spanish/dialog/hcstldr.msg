@@ -1,27 +1,27 @@
-{100}{}{You see a man dressed in robes.}
-{101}{}{You see Ashton. He is in charge here.}
-{102}{}{He has a smirk on his face.}
-{200}{}{Greetings. My name is Ashton, and I'm in charge of things here. Were you sent here for security detail?}
-{201}{}{Yeah, actually, I was.}
-{202}{}{No, I was sent by AHS-9 to check on everything.}
-{210}{}{Excellent! Never can have too much security with what we have stored here, I say. Good to have you here.}
-{211}{}{Really? That's... interesting. You're free to look around, of course. I'm sure you'll find that everything is in order.}
-{220}{}{Thanks. What exactly are we storing here, anyway?}
-{221}{}{Alright then. See you around.}
-{230}{}{As you're certainly aware, every donation to the Church of Hubology over the last several decades is stored here -- and I must say,
- it's quite a stash. Some donations are small; others quite large. We get all kinds of stuff, from weapons and ammunition, to jewelry,
- and antiques, and even a few old vehicles. Why, just a few months ago, actor Don Ravolta donated a genuine 20th century Harkley Sports
- motorcycle -- best of its time. Heck, a working Howitzer was even donated to the Church. Our most common donation, however, is money -- lots and
- lots of money.}
-{240}{}{Impressive. It sounds like the Church does quite well for itself.}
-{241}{}{Yes, of course -- and for good reason. Advertising campaigns and a massive space shuttle aren't cheap activities you know.}
-{242}{}{Yeah, I can imagine. So, how large is this place?}
-{243}{}{I know what you mean. Well, I must be going. Bye.}
-{250}{}{The structure we're standing in is an older bunker, probably built for private use rather than military. There's two levels below us.
- Directly below us is the living area -- we got some beds there, bathrooms, exercise machines, security equipment. Below that is what I call the "vault."}
-{251}{}{A vault?}
-{252}{}{It's not *really* a vault, I just call it that. It's more of a storage room full of goods. That's where we keep all the donations. It's guarded all day, everyday.}
-{260}{}{Interesting. Well, I'm going to have a look around. See you later.}
-{270}{}{So, how large is this place?}
-{300}{}{Hello again. Help you with something?}
-{301}{}{Nope, just looking around. Bye.}
+{100}{}{Usted ve a un hombre vestido de ropas.}
+{101}{}{Ves que Ashton. Él está a cargo aquí.}
+{102}{}{Él tiene una sonrisa boba en su cara.}
+{200}{}{Saludos. Mi nombre es Ashton, y estoy a cargo de las cosas de aquí. Se te ha enviado aquí para detalles de seguridad?}
+{201}{}{Sí, en realidad, era yo.}
+{202}{}{No, me fue enviado por AHS-9 para comprobar todo.}
+{210}{}{Excelente! Nunca se puede tener demasiado de seguridad con lo que hemos guardado aquí, digo yo. Que bueno tenerte aquí.}
+{211}{}{De verdad? Eso es... interesante. Eres libre de mirar a su alrededor, por supuesto. Estoy seguro de que usted encontrará que todo está en orden.}
+{220}{}{Gracias. Qué, exactamente, estamos almacenando aquí, de todos modos?}
+{221}{}{Muy bien, entonces. Ver todo.}
+{230}{}{Como eres sin duda conscientes, cada donación a la Iglesia de Hubology durante las últimas décadas se almacena aquí, y debo decir,
+ es un buen escondite. Algunas donaciones son pequeños; otros muy grandes. Tenemos toda clase de cosas, desde armas y municiones, a la joyería,
+ y antigüedades, e incluso un par de vehículos antiguos. Por qué, hace apenas unos meses, el actor No Ravolta donó una auténtica del siglo 20 Harkley Deportes
+ motocicleta-la mejor de su tiempo. Heck, un Obús incluso fue donada a la Iglesia. Nuestro más comunes de la donación, sin embargo, es el dinero-un montón y
+ un montón de dinero.}
+{240}{}{Impresionante. Suena como que la Iglesia lo hace bastante bien para sí mismo.}
+{241}{}{Sí, por supuesto-y por buena razón. Campañas de publicidad y un espacio masivo de transporte no son baratas de las actividades que usted sabe.}
+{242}{}{Sí, me imagino. Así que, ¿qué tan grande es este lugar?}
+{243}{}{Yo sé lo que quieres decir. Bueno, debo irme. Bye.}
+{250}{}{La estructura que está de pie en un viejo bunker, probablemente construido para uso privado, en lugar de militares. Hay dos niveles por debajo de nosotros.
+ Directamente debajo de nosotros es el área de la sala -- tenemos algunas hay camas, de los baños, máquinas de ejercicio, equipos de seguridad. A continuación que es lo que yo llamo el "salto".}
+{251}{}{Un almacén?}
+{252}{}{No *realmente* una bóveda, acabo de llamar a eso. Es más de un cuarto de almacenamiento total de los bienes. Que es donde guardamos todas las donaciones. Es custodiada todo el día, todos los días.}
+{260}{}{Interesante. Bueno, voy a echar un vistazo alrededor. Nos vemos más tarde.}
+{270}{}{Así que, ¿qué tan grande es este lugar?}
+{300}{}{Hola de nuevo. Ayudar con algo?}
+{301}{}{Nope, sólo mirando a su alrededor. Bye.}

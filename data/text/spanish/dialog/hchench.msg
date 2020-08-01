@@ -23,7 +23,7 @@
 {202}{}{Me preguntaba si podría hacerte algunas preguntas sobre Chad.}
 {203}{}{¿Quién eres?}
 {204}{}{No, gracias.}
-{205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
+{205}{}{En ese caso, quiero hablar con Bill, el Armador de Broken Hills. Es dentro de ese edificio de allí.}
 {206}{}{Tengo más preguntas.}
 {207}{}{Gracias. Adiós.}
 {208}{}{Tú tienes preguntas, quizá yo tenga respuestas. ¿Qué quieres saber?}
@@ -76,4 +76,4 @@
 {413}{}{Sarah}
 {450}{}{Ves a }
 {451}{}{, guardia de caravana.}
-{2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}
+{2050}{}{En ese caso, quiero hablar con Bill, el Armador de Broken Hills. Él es el que lleva un sombrero, justo allí.}

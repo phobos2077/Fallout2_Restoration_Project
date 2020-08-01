@@ -1,4 +1,4 @@
-{100}{}{Sorry my non two-legged friends. You're going to have to wait up here for me.}
-{101}{}{Sorry my non two-legged friend. You're going to have to wait up here for me.}
-{102}{}{You see a broken elevator shaft.}
-{103}{}{This elevator is broken. With some effort, you could probably make your way to the bottom.}
+{100}{}{Lo siento mi no amigos de dos piernas. Vas a tener que esperar hasta aquí para mí.}
+{101}{}{Lo siento mi no de dos patas amigo. Vas a tener que esperar hasta aquí para mí.}
+{102}{}{Se observa una fractura de un pozo del ascensor.}
+{103}{}{Este ascensor está roto. Con un poco de esfuerzo, usted puede hacer su camino a la parte inferior.}

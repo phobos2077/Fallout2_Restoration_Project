@@ -1,2 +1,2 @@
-{100}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u. Thanks for installing!}
-{101}{}{You are running killap's Fallout 2 Restoration Project. Version 2.3.3u. Thanks for installing!}
+{100}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauración. La versión 2.3.3 u. Gracias por instalar!}
+{101}{}{Se ejecuta killap del Fallout 2 Proyecto de Restauración. La versión 2.3.3 u. Gracias por instalar!}

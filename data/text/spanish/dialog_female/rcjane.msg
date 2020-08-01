@@ -5,7 +5,7 @@
 {104}{}{Oooh. Peluche.}
 {105}{}{Peluche bonito.}
 {106}{}{Ah, ya veo. Debes de ser nueva en la ciudad. Vale, te diré qué haremos. Te haré una apuesta especial durante los combates de mañana. ¿Quieres que lo haga por ti?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{107}{}{(Tú asientes con la cabeza) Ook, ook. (y sostenga su bolso)}
 {108}{}{Mook? Gaga. Adiós peludo.}
 {109}{}{Buena idea. Vuelve por aquí mañana y si tu bicho ganó la pelea, te daremos tu dinero. ¿De acuerdo?}
 {110}{}{De acuerdo, buena decisión. Me aseguraré de que que sea una apuesta muy especial. Nos vemos más tarde.}
@@ -73,7 +73,7 @@
 {172}{}{Los lagartos grandes me dan miedo. Creo que no hace. Gracias por la advertencia. Adiós. (piensas para ti mismo) *Uf, eso estuvo cerca*.}
 {173}{}{La parte deportiva es la apuesta sobre el resultado de la pelea. Así es como funciona: vienes y me dices que quieres apostar. Te indico qué dos criaturas van a pelear a continuación y me dices en cuál fías tu dinero.}
 {174}{}{¿Y entonces qué?}
-{175}{}{Simple, if your critter wins you double your money. TRIPLE in the event of a first-round takedown! If your critter loses, then your money belongs to me. There are usually several fights each day. Until the stock of critters runs low, you can bet on all of 'em. But just one bet per fight. Oh, yeah, just to keep things nice an' easy, all bets are $100.}
+{175}{}{Simple, si tu criatura gana, duplicas tu dinero. ¡Lo TRIPLICAS en caso de un derribo en el primer asalto! Si tu criatura pierde, entonces tu dinero me lo quedo yo. Normalmente hay varias peleas al día. Hasta que el número de criaturas sea demasiado bajo, puedes apostar en todas las peleas. Pero una sola apuesta por combate. Ah, sí, para hacerlo sencillo y emocionante, todas las apuestas son de 100 dólares.}
 {176}{}{Vale. Ya lo he entendido. Déjame intentarlo.}
 {177}{}{Ya veo. Hmm, creo que probaré en otro momento. Adiós.}
 {178}{}{Este va a ser un buen intercambio de golpes. }

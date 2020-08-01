@@ -1,4 +1,4 @@
-{100}{}{I'll check back on this in a few days.}
-{101}{}{I've already planted something here. There is no room for anything else.}
-{102}{}{I should probably save these for Arroyo. No point to waste them here.}
-{200}{}{You plant the seeds in the ground.}
+{100}{}{Voy a comprobar de nuevo sobre esto en un par de días.}
+{101}{}{Ya he plantado algo aquí. No hay espacio para nada más.}
+{102}{}{Probablemente debería guardar estos para Arroyo. Ningún punto de residuos ellos aquí.}
+{200}{}{Sembrar las semillas en el suelo.}

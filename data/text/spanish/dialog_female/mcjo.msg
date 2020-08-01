@@ -46,15 +46,12 @@
 {194}{}{Hay una granja a las afueras del pueblo, donde no debería haber ninguna. Hace algunos años simplemente 'apareció' de la nada.}
 {195}{}{¿Estás diciendo que esta granja surgió de la noche a la mañana? ¡Sí, claro!}
 {196}{}{Varios de nosotros estábamos cazando cuando descubrimos la nueva granja. Pero eso no fue lo extraño. Poco después, algunos de nosotros fuimos juntos a visitar a nuestros nuevos vecinos, sólo para descubrir que allí no había nadie.}
-{197}{}{Sigue.}
+{197}{}{Continúa.}
 {198}{}{Tras muchos meses de intentar contactar con los dueños sin éxito, se decidió que la granja debía haber sido abandonada poco después de ser construida. Así que en vez de dejar que las cosechas se echaran a perder en los campos, el joven Karl se trasladó allí.}
 {199}{}{Hmm...}
 {200}{}{Entonces fue cuando las cosas empezaron a ir mal. Karl comenzó a contar historias sobre extrañas visiones de figuras resplandecientes cuidando la cosecha y alimentando a los animales por la noche. Todos nos reímos de él, pensando que se estaba inventando la historia. Entonces un día Karl dejó de venir al pueblo.}
 {201}{}{¿Qué le ocurrió? ¿Le buscásteis?}
-{202}{}{Of course we did! We went up there as soon as we suspected something was wrong. [He starts to
- tremble violently.] The horror. Bodies strewn everywhere. Some crucified, while others were
- left to rot out in the sun. I still wake up screaming in the middle of the night from the horrible
- images I saw that day.}
+{202}{}{¡Por supuesto que lo hicimos! Fuimos allí tan pronto como sospechamos que algo malo había ocurrido. [Comienza a temblar violentamente]. Qué horror. Había cadáveres esparcidos por todas partes. Algunos crucificados, otros dejados pudriéndose al sol. Todavía me despierto gritando en mitad de la noche por culpa de las horribles imágenes que vi aquel día.}
 {203}{}{Así que, déjame adivinar... quieres que vaya a la granja y averigüe qué ha sucedido.}
 {204}{}{Normalmente, dejaríamos tranquilo aquel lugar maldito, pero por alguna razón las cosechas de aquella granja siguen floreciendo a pesar de la sequía. Nos moriremos de hambre si no conseguimos comida pronto. ¿Nos ayudarás a librar la granja de esos fantasmas?}
 {205}{}{¿Y qué saco yo de todo esto?}
@@ -72,7 +69,7 @@
 {217}{}{Obviamente no estás lo suficientemente desesperado. Paso.}
 {218}{}{¿Qué ha sido eso? ¿Has dicho GECK?}
 {219}{}{Unh hiiii. GECK.}
-{220}{}{Me voy, yo.}
+{220}{}{Yo ir.}
 {222}{}{Mi nombre es Jo. ¿Sabes decir Jo? No importa; ¿ves esa cosa rectangular de ahí? Es una puerta. Ten cuidado de no golpearte cuando salgas.}
 {223}{}{[No entiendes bien todo lo que está diciendo, pero sonríes y te das la vuelta para salir].}
 {224}{}{[Parece meditar un momento sobre algo y entonces sonríe y te mira]. Quizá podamos llegar a un acuerdo, después de todo. Me llamo Jo; llevo este puesto comercial. Tengo información sobre el GECK. ¿Te interesa?}

@@ -1,5 +1,5 @@
-{100}{}{As you leave the outskirts of the city you skillfully notice a group of armed men being stealthily led through the bushes by a strong
- looking tribal. The tribal glances in your direction and spots you looking at him. He gives a signal and the group of men
- he is leading duck down and disappear.}
-{101}{}{[Follow them at a safe distance.]}
-{102}{}{[Ignore and move on.]}
+{100}{}{Al salir de las afueras de la ciudad en la que hábilmente aviso de un grupo de hombres armados se sigilosamente se dirigió a través de los arbustos con una fuerte
+ en busca de las tribus. El tribal miradas en su dirección y manchas de mirarlo. Él da la señal y el grupo de los hombres
+ él es el líder de pato y desaparecen.}
+{101}{}{[Seguirlos a una distancia segura.]}
+{102}{}{[Ignorar y seguir adelante.]}

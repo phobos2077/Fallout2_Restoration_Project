@@ -21,7 +21,7 @@
 {119}{}{En realidad, no.}
 {120}{}{Sí, de hecho lo estoy. Tropecé con este lugar y fui capturado por las Garras mortales. Me dan libertad de movimientos dentro de los niveles inferiores del Refugio, pero nunca puedo ir al nivel 1, donde está la salida.}
 {121}{}{¿Por qué?}
-{122}{}{De acuerdo.}
+{122}{}{Vale.}
 {123}{}{Me largo.}
 {124}{}{¿Por qué?}
 {125}{}{Ya veo.}

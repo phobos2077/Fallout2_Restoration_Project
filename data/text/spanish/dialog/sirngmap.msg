@@ -1,3 +1,3 @@
-{100}{}{There appears to be several Ranger safe houses to the north of NCR. You mark
- their locations in your Pip-Boy.}
-{101}{}{The locations of the safe houses have already been marked in your Pip-Boy.}
+{100}{}{Parece ser que varios Ranger casas de seguridad para el norte de NCR. Marca
+ sus ubicaciones en tu Pip-Boy.}
+{101}{}{Las ubicaciones de las casas de seguridad ya han sido marcados en tu Pip-Boy.}

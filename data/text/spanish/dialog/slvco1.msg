@@ -1,4 +1,4 @@
-{100}{}{You see a sturdy gate.}
-{101}{}{This gate has a large lock on it.}
-{102}{}{You unlock the gate with the key.}
-{103}{}{You lock the gate with the key.}
+{100}{}{Usted ve una robusta puerta.}
+{101}{}{Esta puerta tiene una cerradura grande en él.}
+{102}{}{Desbloquear la puerta con la llave.}
+{103}{}{Desbloquear la puerta con la llave.}

@@ -1,152 +1,152 @@
-{100}{}{You see a crazed-looking Shi scientist.}
-{101}{}{You see Dr. Sheng.}
-{200}{}{[You see a Shi scientist with a wispy beard and a crazed look in his eyes. His hair and clothes are disheveled and he appears to have not slept in days.] Ah! Yes! Yes, I was expecting you. They told me you were coming. [He looks you up and down.] Yes, you are perfect.}
-{201}{}{I won't argue with that, but what the hell is going on here?}
-{202}{}{You must be Dr. Sheng. Dr. Wong told me your location. The Shi thought you might be dead.}
-{203}{}{First of all, what are these creatures?}
-{204}{}{Perfect for what, exactly?}
-{205}{}{Who told you I was coming?}
-{210}{}{Science! What else? I am Dr. Sheng and these creatures are my creations. Beautiful, are they not?}
-{211}{}{Uh, yeah ... But, what are they?}
-{212}{}{Actually, I find them rather repulsive. Vomit inducing, really. And that smell, both sweet and fetid, like syrup made from corpse juice. What are these things?}
-{220}{}{Ha! Dr. Wong wishes I were dead. Oh no, I am doing better than ever. And things will only improve if you are willing to assist me.}
-{221}{}{Assist you with what?}
-{222}{}{Hold on. Before I agree to help you with anything, tell me what these creatures are.}
-{230}{}{They are the future! A new race of sentient plant life forms, created by me. I have finally achieved success in synthesizing my new plant life with fresh human cadavers! As you can see, this endows the plants with, sensory, ambulatory, and vocal capabilities which they would otherwise lack. It also grants a human-like appearance which will allow them to more easily assimilate into our culture.}
-{231}{}{So where are you getting these 'fresh human cadavers'? }
-{232}{}{Assimilate into our culture? Good luck with that. The ghouls and mutants can hardly manage that and they are--or were--at one point human. These things are abominations.}
-{233}{}{Actually, I've met a spore plant that could talk without being infused with a human body.}
-{234}{}{That's incredible. As a fellow student of science, I must know how this was made possible.}
-{240}{}{Perfect for the task at hand. You see, not all of my experimental creatures have been as successful as the specimens you see here. Most tend to end up being mindless, violent brutes. I keep these failures locked within a pen in my lab, but they recently got loose. I managed to get out and lock the door before any could escape into the wild, but now I am unable to return to my lab.}
-{241}{}{So what do you want me to do about it?}
-{250}{}{My creations, of course. They are ever vigilant of the wastes. There is much out there to be wary of, as I'm sure you would agree. When they told me of your approach, I instructed them to bring you to me, as I believe you may be able to assist me.}
-{251}{}{Assist you with what?}
-{252}{}{Before I agree to assist you with anything, tell me what these creatures are.}
-{260}{}{Oh, mostly from raiders who foolishly decide to attack us here. But enough about that. I must know if you are willing to assist me.}
-{261}{}{Assist you with what?}
-{270}{}{You see, not all of my experimental creatures have been as successful as the specimens you see here. Most tend to end up being mindless, violent brutes. I keep these failures locked within a pen in my lab, but they recently got loose. I managed to get out and lock the door before any could escape into the wild, but now I am unable to return to my lab.}
-{271}{}{So what do you want me to do about it?}
-{280}{}{How you feel about my work is of no concern to me. Now I shall be blunt. I have a task which you seem qualified for. Upon its completion, you will be rewarded. Are you interested?}
+{100}{}{Usted ve un enloquecido buscando Shi científico.}
+{101}{}{Vea el Dr. Sheng.}
+{200}{}{[Vea un Shi científico con un tenue barba y un enloquecido mirada en sus ojos. Su pelo y su ropa desaliñada y parece que no ha dormido en días.] Ah! Sí! Sí, me estaba esperando. Me dijeron que ibas a venir. [Él mira hacia arriba y hacia abajo.] Sí, está perfecto.}
+{201}{}{No voy a discutir eso, pero, ¿qué diablos está pasando aquí?}
+{202}{}{Debe ser el Dr. Sheng. El Dr. Wong me dijo su ubicación. El Shi pensó que usted podría estar muerto.}
+{203}{}{Primero de todo, ¿qué son estas criaturas?}
+{204}{}{Perfecto para qué, exactamente?}
+{205}{}{Quien te dijo que me iba a venir?}
+{210}{}{La ciencia! ¿Y qué más? Soy el Dr. Sheng y estas criaturas son mis creaciones. Hermoso, ¿no?}
+{211}{}{Eh, sí ... Pero, ¿qué son?}
+{212}{}{De hecho, me parece bastante repulsivo. Inducir vómitos, realmente. Y ese olor, dulce y maloliente, como hecha de jarabe de cadáver jugo. ¿Qué son estas cosas?}
+{220}{}{Ja! El Dr. Wong deseos que estaban muertos. Oh no, estoy mejor que nunca antes. Y lo único que va a mejorar si usted está dispuesto a ayudar a mí.}
+{221}{}{Ayudar a usted con qué?}
+{222}{}{La retención. Antes de que me comprometo a ayudar con cualquier cosa, dime lo que estas criaturas son.}
+{230}{}{Ellos son el futuro! Una nueva raza de seres sintientes de la planta de formas de vida, creado por mí. Por fin he logrado el éxito en la síntesis de mi nueva vida de la planta, con cadáveres humanos frescos! Como se puede ver, esto dota a las plantas, sensorial, ambulatorio, y vocal de capacidades que de otra manera la falta. También otorga un humano como la apariencia que les permitirá más fácil de asimilar en nuestra cultura.}
+{231}{}{Entonces, ¿de dónde conseguir estos nuevos cadáveres humanos'? }
+{232}{}{Asimilar en nuestra cultura? Buena suerte con eso. Los ghouls y los mutantes que apenas puede manejar, y que son-o fueron-en un punto humanos. Estas cosas son abominaciones.}
+{233}{}{De hecho, he conocido a una de esporas de la planta que podía hablar sin ser infundido con un cuerpo humano.}
+{234}{}{Eso es increíble. Como un compañero estudiante de la ciencia, debo saber cómo esto fue posible.}
+{240}{}{Perfecto para la tarea a mano. Se puede ver, no todos los de mi experimental criaturas han sido tan exitosos como el de los especímenes se puede ver aquí. La mayoría tienden a terminar siendo irracional, violento brutos. Yo me quedo con estos fallos encerrado dentro de una pluma en mi laboratorio, pero que recientemente se desató. Me las arreglé para salir y cerrar la puerta antes de que cualquiera podría escapar en la naturaleza, pero ahora no puedo volver a mi laboratorio.}
+{241}{}{Así que ¿qué quieres que haga yo al respecto?}
+{250}{}{Mis creaciones, por supuesto. Ellos están siempre vigilantes de los desechos. Hay mucho por ahí para ser cautelosos, como estoy seguro de que estaría de acuerdo. Cuando me dijeron de su planteamiento, me instruyó para que te traiga a mí, como creo que usted puede ser capaz de ayudar a mí.}
+{251}{}{Ayudar a usted con qué?}
+{252}{}{Antes de que me comprometo a ayudar con cualquier cosa, dime lo que estas criaturas son.}
+{260}{}{Oh, la mayoría de los asaltantes que, tontamente, deciden atacar con nosotros aquí. Pero ya basta de hablar de eso. Necesito saber si usted está dispuesto a ayudar a mí.}
+{261}{}{Ayudar a usted con qué?}
+{270}{}{Se puede ver, no todos los de mi experimental criaturas han sido tan exitosos como el de los especímenes se puede ver aquí. La mayoría tienden a terminar siendo irracional, violento brutos. Yo me quedo con estos fallos encerrado dentro de una pluma en mi laboratorio, pero que recientemente se desató. Me las arreglé para salir y cerrar la puerta antes de que cualquiera podría escapar en la naturaleza, pero ahora no puedo volver a mi laboratorio.}
+{271}{}{Así que ¿qué quieres que haga yo al respecto?}
+{280}{}{Cómo te sientes acerca de mi trabajo es de ningún interés para mí. Ahora voy a ser contundente. Tengo una tarea que parece cualificados. Tras su finalización, usted será recompensado. Está usted interesado?}
 {281}{}{Estoy escuchando.}
-{282}{}{I want nothing to do with you or your disgusting creations.}
-{290}{}{Excellent! Give them to me, and you shall be rewarded.}
-{291}{}{Sure, it's not like I have much use for them. Here you go.}
-{292}{}{Nah. I've grown rather fond of the little guys. I think I'll hold on to them. Maybe start a garden or something.}
-{293}{}{I don't have them on me but I'll go see if I can find them.}
-{294}{}{I don't have them on me, and even if I did I wouldn't hand them over to you. I want nothing to do with you or your veggie-zombies.}
-{300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
-{301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
+{282}{}{No quiero nada que ver con usted o su repugnante creaciones.}
+{290}{}{Excelente! Darles a mí, y usted será recompensado.}
+{291}{}{Claro, no es como que tengo mucho que uso para ellos. Aquí tienes.}
+{292}{}{Nah. He crecido bastante aficionado a los chicos de poco. Creo que voy a aferrarse a ellos. Tal vez iniciar un jardín o algo.}
+{293}{}{No los tengo en mí, pero voy a ver si puedo encontrar.}
+{294}{}{No los tengo en mí, y aunque yo lo hice, yo no entregar a usted. No quiero nada que ver con usted o su veggie-zombies.}
+{300}{}{El mecanismo es conocido como el de la EPA. He marcado en su asignación de dispositivo. Por favor, ir allí y tratar de encontrar algunas semillas. Y no cualquier viejo y simple semillas, deben ser únicos.}
+{301}{}{Ah, parece que usted ya conoce la ubicación de la EPA. Por favor, ir allí y tratar de encontrar algunas semillas. Y no cualquier viejo y simple semillas, deben ser únicos.}
 {302}{}{Volveré.}
-{303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
-{310}{}{[His eyes flare with rage] Kill him, my children! His body shall make a fine host for your newest sibling!}
-{311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
+{303}{}{Eh, pensándolo bien, no estoy interesado en trabajar para usted. Hemos terminado aquí.}
+{310}{}{[Sus ojos llamarada de ira] matarlo, mis hijos! Su cuerpo debe hacer un buen host para su nuevo hermano!}
+{311}{}{[Sus ojos llamarada de ira] Matar a ella, a mis hijos! Su cuerpo debe hacer un buen host para su nuevo hermano!}
 {312}{}{[HECHO]}
-{320}{}{Excellent! Now I shall prepare your reward. Make yourself comfortable. This may take a little while.}
+{320}{}{Excelente! Ahora voy a preparar tu recompensa. Ponte cómodo. Esto puede tomar un poco de tiempo.}
 {321}{}{[CONTINUAR]}
-{322}{}{Keep your reward. I don't have time to wait around.}
-{330}{}{Yes, bring the seeds to me and you may claim your reward.}
+{322}{}{Mantenga su recompensa. No tengo tiempo para esperar.}
+{330}{}{Sí, llevar las semillas a mí y usted puede reclamar su recompensa.}
 {331}{}{Volveré.}
-{340}{}{Simply giving you the location of the facility is a reward in itself, as it is bound to be full of useful supplies. You may of course keep anything else you find. I am only interested in unique seed samples. Once you have brought them to me, I will give you a gift to present to the Shi.}
-{341}{}{Alright, I'll do it. I'll be back.}
-{342}{}{You call that a reward? I can explore ruins on my own time. I'm not interested.}
-{350}{}{[Looks at you expectantly.]}
-{351}{}{Here are the seeds you wanted.}
-{352}{}{I'll come back when I have the seeds.}
-{360}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill him, my children! His body shall make a fine host for your newest sibling!}
-{361}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill her, my children! Her body shall make a fine host for your newest sibling!}
+{340}{}{Simplemente dándole la ubicación de la instalación es una recompensa en sí misma, ya que está obligado a estar lleno de artículos útiles. Usted puede seguir cualquier otra cosa que encuentre. Sólo estoy interesado en la única de las muestras de semillas. Una vez que los han traído a mí, te voy a dar un regalo a presentar a la Shi.}
+{341}{}{Bien, lo voy a hacer. Voy a estar de vuelta.}
+{342}{}{Usted lo llama una recompensa? Me pueden explorar las ruinas en mi propio tiempo. Yo no estoy interesado.}
+{350}{}{[Mira expectante.]}
+{351}{}{Aquí están las semillas que usted quería.}
+{352}{}{Volveré cuando tengo las semillas.}
+{360}{}{Entonces parece que no tengo más para ti. [Y señala a la planta de criaturas.] Matarlo, mis hijos! Su cuerpo debe hacer un buen host para su nuevo hermano!}
+{361}{}{Entonces parece que no tengo más para ti. [Y señala a la planta de criaturas.] Matar a ella, a mis hijos! Su cuerpo debe hacer un buen host para su nuevo hermano!}
 {362}{}{[HECHO]}
-{370}{}{[The Doctor departs. After about an hour, he returns and hands you a single plant seed.] This plant sample is my gift to the Shi. It will change everything. I am giving you the honor of presenting it to Doctor Wong.}
-{371}{}{What's so special about this plant sample?}
-{372}{}{That's it? I went and got those damn seeds for you and this is what I get for my trouble? Yet another seed? Fuck you and your creepy plant zombies. I think I'll do the world a favor and put an end to this morbid operation of yours.}
-{380}{}{The Shi have been attempting to create plant life that is resistant to radiation. I was the head of that project, but during my research I made a discovery that led me down a different path. I created a plant sentience serum, but after a few ... unfortunate incidences, the Shi wanted to shut the project down. So I left to continue my work unimpeded.}
-{381}{}{Okay. So how does this plant sample figure into this?}
-{382}{}{Go on...}
-{390}{}{Ironically, just as my focus was shifting to my new sentient plant creations, I happened to make a major breakthrough in radiation-resistant plant research. I kept this breakthrough a secret, as I did not want to draw attention away from my more significant discovery. When the others failed to see the importance of my sentient plants, I decided to keep my secret out of spite. That is, until now. With the plant sample I have given you, even a narrow-minded fool like Dr. Wong could achieve the goal of radiation-resistant plant life.}
-{391}{}{So why the change of heart?}
-{392}{}{Okay. I'll deliver it to Dr. Wong.}
-{393}{}{I'll bring this to Dr. Wrong. But if he doesn't give me a proper reward for it, then you'll be seeing me again.}
-{394}{}{You can keep the sample. I'm sure Dr. Wong and the other Shi scientists can figure it out without your help. I'm done doing you favors.}
-{400}{}{I have had no change of heart. In addition to being radiation resistant, the plant sample is infused with my sentience serum. Like a proud father, I merely wish to see my creation flourish. Deliver it for me, and you shall be granted a true reward.}
-{401}{}{Okay. I'll deliver it to Dr. Wong.}
-{402}{}{Nah. Keep your sample. I'm done helping you.}
-{403}{}{Dr. Wong seems like a sly guy. You really think he'll trust a plant sample from you?}
-{410}{}{It has come to my attention that there is an old US government facility where one might obtain unique plant seeds untouched by radiation. This facility is too far away for me to personally venture to, but I believe it would be a simple task for an experienced wastelander such as you.}
-{411}{}{Oh, you're talking about these weird seeds from the EPA. Been there, got them.}
-{412}{}{I'm always up for exploring some old ruins. Give me the location and I'll go see what I can find.}
-{413}{}{And what do I get out of it?}
-{420}{}{Yes, Dr. Wong is a bit of an obstacle. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will get the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{421}{}{Veré lo que puedo hacer.}
-{422}{}{If you want Wong dead, you'll need to give me something up front.}
-{423}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
-{424}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
-{430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
-{431}{}{Veré lo que puedo hacer.}
-{440}{}{[Looks at you expectantly.]}
-{441}{}{I'm still working on things. I'll get back to you.}
-{442}{}{I delivered the sample to the Shi.}
-{443}{}{The Shi have the sample and Dr. Wong is dead.}
-{444}{}{Your method of revenge wasn't direct enough for my tastes, so I just killed everyone for you.}
-{445}{}{Dr. Wong is dead.}
-{446}{}{I delivered the sample to the Shi and told Dr. Wong about your intentions. He destroyed the sample immediately.}
-{450}{}{Impossible! A spore plant cannot be capable of speech regardless of its intelligence. Either you are making some sort of jest or you were under a drug-induced hallucination. By the looks of you, I'd guess it was the latter. But enough about that nonsense. I must know if you are willing to assist me.}
-{451}{}{Yeah, I suppose it *does* sound rather silly. Anyway, what did you want me to assist you with?}
-{452}{}{Don't change the subject--I was telling the truth! I swear on the Vault Dweller, his name was Seymour and he could talk. He wanted me to re-plant him in a better location. I'm not making this up and I wasn't hallucinating.}
-{460}{}{Enough! I do not have time for this foolishness. Will you assist me, or not?}
-{461}{}{Assist you with what?}
-{462}{}{No! I'm not going to assist you, asshole! Seymour was real! SEYMOUR WAS REAL!}
-{470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
-{471}{}{Sigue.}
-{480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
-{481}{}{But plants lack a nervous system, and without one what you're suggesting just isn't possible.}
-{482}{}{I think all forms of life perceive in some way or another.}
-{483}{}{Those spore plants I've encountered sure fight back. So yeah, I'd say plants feel something.}
-{490}{}{And you would not be alone in thinking that. I too was skeptical at first. But you see, in the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
-{491}{}{Are you suggesting that plants are almost like humans?}
-{500}{}{And you would not be alone in thinking that. In the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
-{501}{}{Are you suggesting that plants are almost like humans?}
-{510}{}{I'm suggesting that they COULD be like humans. And as you can see, I was right. They just required a little help.}
-{511}{}{A little help?}
-{520}{}{Gene-splicing! Through the magic of science, I was able to develop a botany sentience serum. But giving the plants human-like intelligence was only half of the equation. In order to fully utilize such intelligence, I knew they would require a human-like body and senses.}
-{521}{}{Ah, which is where the 'fresh human cadavers' come in. You must tell me how you were able to get the plant life to interface with and take control of a human nervous system. And a dead one, at that. I wouldn't believe it were possible if I hadn't seen it firsthand.}
-{530}{}{Very well, I cannot promise you will fully comprehend what I am about to say, but I will do my best to explain it to you. [With the zeal of a preacher raving about his god to a rapt listener, he spends two hours detailing the process of his experiments, obviously taking great pride in his accomplishments.]}
+{370}{}{[El Médico sale. Después de aproximadamente una hora, regresa y las manos de una sola planta la semilla.] Esta planta de la muestra es mi regalo para el Shi. Se va a cambiar todo. Yo estoy dándole el honor de presentar a Doctor Wong.}
+{371}{}{¿Qué es tan especial acerca de esta planta muestra?}
+{372}{}{¿Es eso? Fui y conseguí esas malditas semillas para usted y esto es lo que obtengo por mis problemas? Sin embargo, otra semilla? Vete a la mierda y su espeluznante de la planta de zombies. Creo que voy a hacer el mundo un favor y poner fin a esta morbosa operación de los suyos.}
+{380}{}{El Shi han estado tratando de crear vida de la planta, que es resistente a la radiación. Yo era el jefe de ese proyecto, pero durante mi investigación, he hecho un descubrimiento que me llevó hacia abajo por un camino diferente. He creado una planta de la percepción de suero, pero después de unos pocos ... incidentes desafortunados, el Shi quería cerrar el proyecto. Así que me fui a continuar con mi trabajo sin obstáculos.}
+{381}{}{Bien. Entonces, ¿cómo esta planta muestra la figura en esto?}
+{382}{}{Ir en...}
+{390}{}{Irónicamente, justo como mi enfoque estaba desplazando a mi nuevo sensibles de la planta de creaciones, se me ocurrió hacer un gran avance en la radiación de la planta resistente a la investigación. Seguí este descubrimiento de un secreto, ya que no quería llamar la atención lejos de mi más importante descubrimiento. Cuando los otros no pudieron ver la importancia de mi sensibles de las plantas, he decidido mantener mi secreto de pesar. Eso es, hasta ahora. Con la planta de ejemplo os he dado, incluso estrecha tonto como el Dr. Wong podría lograr el objetivo de la radiación resistentes a la vida de la planta.}
+{391}{}{Entonces, ¿por qué el cambio de corazón?}
+{392}{}{Bien. Voy a entregar a el Dr. Wong.}
+{393}{}{Me voy a llevar esto a la Doctora Mal. Pero si no me dan una recompensa adecuada para, a continuación, vamos a ver de nuevo conmigo.}
+{394}{}{Usted puede conservar la muestra. Estoy seguro de que el Dr. Wong y el otro Shi científicos pueden arreglárselas sin su ayuda. He terminado haciendo favores.}
+{400}{}{Yo no he tenido ningún cambio de corazón. Además de ser resistentes a la radiación, la muestra de la planta es infundido con mi percepción de suero. Como un padre orgulloso, simplemente quiero ver mi creación florecer. Entregar por mí, y te será concedida una verdadera recompensa.}
+{401}{}{Bien. Voy a entregar a el Dr. Wong.}
+{402}{}{Nah. Mantener la muestra. Estoy hecho de ayudar a usted.}
+{403}{}{El Dr. Wong parece un astuto hombre. Usted realmente cree que le va a confiar en una planta de la muestra de usted?}
+{410}{}{Ha llegado a mi atención que hay un viejo gobierno de estados unidos de las instalaciones en las que uno puede obtener únicas semillas de plantas de la virgen por la radiación. Esta instalación está demasiado lejos para que yo personalmente aventurarse, pero creo que sería una tarea sencilla para un experimentado wastelander como usted.}
+{411}{}{Oh, usted está hablando acerca de estos extraños semillas de la EPA. Estado allí, consiguió ellos.}
+{412}{}{Estoy siempre para explorar algunas de las viejas ruinas. Dame la ubicación y voy a ver qué puedo encontrar.}
+{413}{}{Y lo hago para salir de ella?}
+{420}{}{Sí, el Dr. Wong es un poco de un obstáculo. Si él se retira de la imagen, las cosas irían mucho más suavemente. Dar Dr. Wong de la muestra. Incluso si él desconfía de mí, su curiosidad va a conseguir el mejor de él y lo aceptan. Una vez que la muestra ha sido almacenada, de encontrar una manera de eliminar el Dr. Wong sin alertar a los demás Shi. Tal vez una sobredosis de algún tipo. Hacer esto, y voy a ver que su recompensa es triplicado.}
+{421}{}{Sé lo que podemos hacer.}
+{422}{}{Si desea Wong muerto, tendrás que darme algo delante.}
+{423}{}{Sabes, todo esto es un poco complicado. Creo que preferiría sólo masacre de usted y, a continuación, vaya masacre de el Shi.}
+{424}{}{No hay manera de que me estoy matando el Dr. Wong para usted. Estoy hecho aquí.}
+{430}{}{Muy bien. Este veneno puede venir en práctico. He extraído de una de mis creaciones. Es extremadamente mortal. [Le da una jeringa.]}
+{431}{}{Sé lo que podemos hacer.}
+{440}{}{[Mira expectante.]}
+{441}{}{Todavía estoy trabajando en cosas. Voy a volver a usted.}
+{442}{}{Me entregó la muestra para el Shi.}
+{443}{}{Los Shi'la muestra y el Dr. Wong está muerto.}
+{444}{}{Su método de venganza no era directa suficiente para mi gusto, así que me acaba de matar a todo el mundo para usted.}
+{445}{}{El Dr. Wong está muerto.}
+{446}{}{Me entregó la muestra para el Shi y le dijo al Dr. Wong acerca de sus intenciones. Él destruyó la muestra inmediatamente.}
+{450}{}{Imposible! Una de esporas de la planta no puede ser capaz de discurso, independientemente de su inteligencia. Ya sea que usted está haciendo algún tipo de broma o que estaban bajo una droga-inducida de la alucinación. Por el aspecto de usted, supongo que era esto último. Pero lo suficiente acerca de esa tontería. Necesito saber si usted está dispuesto a ayudar a mí.}
+{451}{}{Sí, supongo que sí *no* sonido bastante tonta. De todos modos, ¿qué quieres de mí para ayudar a usted con?}
+{452}{}{No cambiar de tema-me estaba diciendo la verdad! Yo juro por el Vault Dweller, su nombre era Seymour y podía hablar. Él quería que yo vuelva a la planta de él en un lugar mejor. No estoy haciendo esto y yo no estaba alucinando.}
+{460}{}{Suficiente! No tengo tiempo para esta locura. Va a ayudarme o no?}
+{461}{}{Ayudar a usted con qué?}
+{462}{}{No! Yo no voy a ayudar a usted, imbécil! Seymour fue real! SEYMOUR FUE REAL!}
+{470}{}{[Él sonríe, obviamente, deseoso de mostrar su genio.] Siempre he estado fascinado por las plantas. Son tan notablemente diferentes de los animales, y sin embargo sorprendentemente similares. Cuando usted mira a un animal, usted sabe que puede pensar, que es consciente de su entorno, las experiencias de dolor y de miedo. Que tiene razón. Obviamente, la medida de esta capacidad varía, pero el punto es que un animal que posee este.}
+{471}{}{Continúa.}
+{480}{}{Cuando usted mira a una planta, aunque, ¿usted también cree esto? Si usted saque de una planta, ¿luchar? Responde a usted de todos modos? Hablando de una planta afectan a su crecimiento? Algunas culturas antes de la Gran Guerra probado este tipo de teorías. Un pueblo conocido como los Alemanes llevaron a cabo experimentos que llevan a creer que las plantas son capaces de emociones y que se podría promover el crecimiento saludable en la conversación, atención y cariño.}
+{481}{}{Pero las plantas carecen de sistema nervioso, y sin que uno lo que usted está sugiriendo simplemente no es posible.}
+{482}{}{Creo que todas las formas de percibir la vida, de alguna manera u otra.}
+{483}{}{Esas esporas de las plantas que he encontrado asegurarse de luchar. Así que sí, yo diría que las plantas sienten algo.}
+{490}{}{Y usted no estaría solo en pensar eso. Yo también era escéptico al principio. Pero se puede ver, en el siglo xx, el gobierno de Estados unidos llevó a cabo experimentos similares con un enfoque en la comunicación. Asegúrese de que, de todas las formas de vida tienen algunos medios de auto-detección de daño, de lo contrario se conoce como dolor, pero se comunican este dolor de alguna manera? Y ¿cuál fue la conclusión de estos experimentos? La idea de la comunicación--que las plantas son sensibles.}
+{491}{}{Se sugiere que las plantas son casi como los humanos?}
+{500}{}{Y usted no estaría solo en pensar eso. En el siglo xx, el gobierno de Estados unidos llevó a cabo experimentos similares con un enfoque en la comunicación. Asegúrese de que, de todas las formas de vida tienen algunos medios de auto-detección de daño, de lo contrario se conoce como dolor, pero se comunican este dolor de alguna manera? Y ¿cuál fue la conclusión de estos experimentos? La idea de la comunicación--que las plantas son sensibles.}
+{501}{}{Se sugiere que las plantas son casi como los humanos?}
+{510}{}{Estoy sugiriendo que PODRÍA ser como seres humanos. Y como se puede ver, yo estaba en lo correcto. Que sólo requiere un poco de ayuda.}
+{511}{}{Un poco de ayuda?}
+{520}{}{Gen-empalme! A través de la magia de la ciencia, yo era capaz de desarrollar un botánica percepción de suero. Pero dando a las plantas humanas como la inteligencia fue sólo la mitad de la ecuación. Para poder utilizar plenamente esta inteligencia, sabía que lo harían requieren de un ser humano-como el cuerpo y los sentidos.}
+{521}{}{Ah, que es donde los 'cadáveres humanos frescos' vienen en. Me tienes que decir cómo fueron capaces de conseguir que la vida de las plantas para la interfaz con el y tomar el control de un sistema nervioso humano. Y un muerto, en ese. Yo no creo que esto fuera posible si yo no lo había visto de primera mano.}
+{530}{}{Muy bien, no puedo prometer que va a comprender plenamente lo que te voy a decir, pero voy a hacer mi mejor esfuerzo para explicar a usted. [Con el celo de un predicador delirando acerca de su dios a un gran oyente, se pasa dos horas detallando el proceso de sus experimentos, obviamente toma gran orgullo en sus logros.]}
 {531}{}{[MÁS]}
-{540}{}{And so now you understand, I hope?}
-{541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
-{550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{551}{}{Veré lo que puedo hacer.}
-{552}{}{If you want Wong dead, you'll need to give me something up front.}
-{553}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
-{554}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
-{560}{}{Excellent. And what of Dr. Wong?}
-{561}{}{He is still alive. I'll return once he's out of the picture.}
-{562}{}{I'm not going to kill Dr. Sheng for you. I gave them the plant sample, and now I'm done helping you.}
-{570}{}{I need them put down, and you look more than capable of the task.}
-{571}{}{Why don't you send these, uh, more successful ones in there to take care of them?}
-{572}{}{Sounds fun. I'll do it.}
+{540}{}{Así que ahora usted entiende, espero?}
+{541}{}{Sí, lo sé. Parecía totalmente imposible, pero de la manera que he explicado hace completo sentido. Y la cosa sobre las esponjas, absoluto genio! Morbo, pero genio. Pero había una cosa que no explican. Donde exactamente están recibiendo estos nuevos cadáveres humanos'?}
+{550}{}{Ahora espera hay un minuto. El Dr. Wong va a ser un poco de un obstáculo. Si él se retira de la imagen, las cosas irían mucho más suavemente. Dar Dr. Wong de la muestra. Incluso si él desconfía de mí, su curiosidad le getter el mejor de él y lo aceptan. Una vez que la muestra ha sido almacenada, de encontrar una manera de eliminar el Dr. Wong sin alertar a los demás Shi. Tal vez una sobredosis de algún tipo. Hacer esto, y voy a ver que su recompensa es triplicado.}
+{551}{}{Sé lo que podemos hacer.}
+{552}{}{Si desea Wong muerto, tendrás que darme algo delante.}
+{553}{}{Sabes, todo esto es un poco complicado. Creo que preferiría sólo masacre de usted y, a continuación, vaya masacre de el Shi.}
+{554}{}{No hay manera de que me estoy matando el Dr. Wong para usted. Estoy hecho aquí.}
+{560}{}{Excelente. Y lo del Dr. Wong?}
+{561}{}{Él todavía está vivo. Voy a volver una vez que él está fuera de la imagen.}
+{562}{}{Yo no voy a matar Dr. Sheng para usted. Les di la muestra de la planta, y ahora estoy hecho de ayudar a usted.}
+{570}{}{Necesito poner abajo, y se mira más que capaz de la tarea.}
+{571}{}{¿Por qué no enviar estos, eh, de mayor éxito en allí para cuidar de ellos?}
+{572}{}{Suena divertido. Lo voy a hacer.}
 {573}{}{¿Qué hay para mí?}
-{574}{}{I'm not interested in cleaning up your messes.}
-{580}{}{They will not attack their own. They understand why I must now dispose of their less-fortunate brethren, but they will not carry out the task themselves. That left me in a rather delicate situation. Which is why I was so pleased to learn of your approach. So, will you assist me?}
-{581}{}{All right. I'll do it.}
+{574}{}{Yo no estoy interesado en la limpieza de sus líos.}
+{580}{}{Ellos no van a atacar a los suyos. Entienden por qué ahora debe disponer de sus menos afortunados hermanos, pero ellos no va a llevar a cabo la tarea en sí. Que me dejó en una situación bastante delicada. Que es por qué yo estaba tan contento de aprender de su enfoque. Así que, va a ayudarme?}
+{581}{}{Todo a la derecha. Lo voy a hacer.}
 {582}{}{¿Qué hay para mí?}
-{583}{}{I'm not interested in cleaning up your messes.}
-{590}{}{The laboratory is right up there to the north. The sentry will let you through. Be careful. These creatures are incredibly strong, so try not to let them get too close. Oh, and beware of the poisonous spore they shoot out. But do not worry. I have an antidote, should you get poisoned.}
-{591}{}{Okay. I'll be back.}
-{592}{}{So they're incredibly strong and have poisonous projectiles? On second thought, I'm going to have to pass.}
-{600}{}{I shall give you money, of course. Also, I have information that I believe would be of great interest to you. So, will you assist me?}
-{601}{}{All right. I'll do it.}
-{602}{}{I'm not interested in cleaning up your messes.}
-{610}{}{[Looks at you expectantly.]}
-{611}{}{I'll come back after I've taken out the creatures in the lab.}
-{612}{}{All the creatures in the lab are dead.}
-{613}{}{All the creatures in the lab are dead, but I've been poisoned. You said something about an antidote?}
-{620}{}{Yes, I shall administer it at once. Here.}
-{621}{}{Ah. I feel better already.}
-{630}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Here is your monetary reward. [He hands you $1000.] The second half of your reward is information -- and a second task to go with it.}
-{631}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Your reward is information -- and a second task to go with it.}
-{632}{}{Let's hear it.}
-{633}{}{Forget it. Keep your information. I'm done working for you.}
-{640}{}{Exellent. And the Shi have the sample I gave you?}
-{641}{}{Oh, uh ... No, actually. I forgot to give it to him first.}
-{700}{}{You clear out Dr. Sheng's lab.}
-{710}{}{You deliver plant seeds to Dr. Sheng.}
-{800}{}{*gasp* Ahhh...}
+{583}{}{Yo no estoy interesado en la limpieza de sus líos.}
+{590}{}{El laboratorio está ahí arriba, en el norte. El centinela te permitirá a través de. Tener cuidado. Estas criaturas son muy fuertes, así que trate de no dejar que ellos se acerquen demasiado. Ah, y ten cuidado con los de esporas venenosas que disparar. Pero no te preocupes. Tengo un antídoto, se debe obtener envenenado.}
+{591}{}{Bien. Voy a estar de vuelta.}
+{592}{}{Así son increíblemente fuertes y tienen proyectiles venenosos? En el segundo pensamiento, voy a tener que pasar.}
+{600}{}{Yo te daré el dinero, por supuesto. También, tengo la información que yo creo que sería de gran interés para usted. Así que, va a ayudarme?}
+{601}{}{Todo a la derecha. Lo voy a hacer.}
+{602}{}{Yo no estoy interesado en la limpieza de sus líos.}
+{610}{}{[Mira expectante.]}
+{611}{}{Volveré después de que me he sacado las criaturas en el laboratorio.}
+{612}{}{Todas las criaturas en el laboratorio están muertos.}
+{613}{}{Todas las criaturas en el laboratorio están muertos, pero he sido envenenado. Usted dijo algo acerca de un antídoto?}
+{620}{}{Sí, voy a administrar a la vez. Aquí.}
+{621}{}{Ah. Me siento mejor ya.}
+{630}{}{Es una lástima perder esos especímenes, pero un mal necesario para recuperar mi laboratorio. Lo han hecho bien. Aquí está tu recompensa monetaria. [Él de manos a $1000.] La segunda mitad de su recompensa es la información, y una segunda tarea para ir con ella.}
+{631}{}{Es una lástima perder esos especímenes, pero un mal necesario para recuperar mi laboratorio. Lo han hecho bien. Su recompensa es la información, y una segunda tarea para ir con ella.}
+{632}{}{Vamos a escuchar.}
+{633}{}{Olvidarse de él. Mantener su información. He terminado de trabajo para usted.}
+{640}{}{Exelente. Y los Shi'el ejemplo que te di?}
+{641}{}{Oh, uh ... No, en realidad. Se me olvidó darle a él en primer lugar.}
+{700}{}{Limpiar el Dr. Sheng del laboratorio.}
+{710}{}{Entregar las semillas de la planta para el Dr. Sheng.}
+{800}{}{*suspiro* Ahhh...}

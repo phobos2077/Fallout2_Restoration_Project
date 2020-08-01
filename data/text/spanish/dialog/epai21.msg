@@ -1,23 +1,23 @@
-{100}{}{Hello, welcome to the Environmental Protection Agency, commonly referred to as the EPA! For your convenience,
- this terminal will provide you with descriptions of the various color coded areas that comprise our wonderful research
- facility. Please select a level for which you would like more information.}
-{101}{}{SUB-LEVEL ORANGE}
-{102}{}{SUB-LEVEL RED}
-{103}{}{SUB-LEVEL YELLOW}
-{104}{}{SUB-LEVEL INDIGO}
-{105}{}{SUB-LEVEL VIOLET}
-{106}{}{SUB-LEVEL GREEN}
-{107}{}{SUB-LEVEL BLUE}
-{108}{}{Sub-level Orange contains the conference rooms where all the exciting decisions are made, a cafeteria where delicious food is served, and some hazardous chemicals.}
-{109}{}{Sub-level Red is home to our security department (so behave yourself!) and a small but informative museum. Also, don't forget to purchase some snacks and stop by the public execution chamber! [Disclaimer: Execution chamber may be unfit for children under the age of four.]}
-{110}{}{Sub-level Yellow houses the power supply rooms for our amazing new holograms, and it's also where you'll find everyone's favorite drug making appliance, Mr. Chemmie! [Notice: Due to limited storage space, we've moved some hazardous chemicals into this area, so watch your step!]}
-{111}{}{Sub-level Indigo is where our brilliant scientists are conducting some Top Secret Research! Sounds exciting, doesn't it? Remember, any unauthorized visitors found on this level will be shot on sight. So parents, don't let your children wander around unsupervised.}
-{112}{}{Sub-level Violet contains the memory core for storage of data in the EPA and other things that aren't of much interest to visitors. Sorry! However, it directly connects to Sub-level Yellow, which contains more interesting things, like the pharmacist of the future, Mr. Chemmie!}
-{113}{}{Sub-level Green is an exciting level that contains an arboretum, biological weapon research, fascinating new creatures and, every child's favorite, our unique petting zoo.}
-{114}{}{Sub-Level Blue does not exist. If someone told you otherwise, they're dirty liars and are most likely communist sympathizers. Please report them to our security department on Sub-Level Red so they may be dealt with accordingly. Thank you for doing your part as a proud American!}
+{100}{}{Hola, bienvenido a la Agencia de Protección Ambiental, comúnmente conocido como el EPA! Para su comodidad,
+ este terminal va a proporcionar usted con las descripciones de los diferentes códigos de color a las áreas que componen nuestra maravillosa de investigación
+ de las instalaciones. Por favor, seleccione un nivel para el que desea obtener más información.}
+{101}{}{SUB-NIVEL DE NARANJA}
+{102}{}{SUB-NIVEL ROJO}
+{103}{}{SUB-NIVEL AMARILLO}
+{104}{}{SUB-NIVEL DE INDIGO}
+{105}{}{SUB-NIVEL DE VIOLETA}
+{106}{}{SUB-NIVEL VERDE}
+{107}{}{SUB-NIVEL AZUL}
+{108}{}{Sub-nivel de Naranja contiene las salas de conferencias donde todos los emocionantes se toman las decisiones, una cafetería donde se sirve una comida deliciosa, y algunos productos químicos peligrosos.}
+{109}{}{Sub-nivel de Red es el hogar de nuestro departamento de seguridad (así que pórtense bien!) y un pequeño pero informativo del museo. También, no se olvide de comprar algunos bocadillos y parada por la ejecución pública de la cámara! [Descargo de responsabilidad: la Ejecución de la cámara pueden ser no aptas para niños menores de cuatro años.]}
+{110}{}{Sub-nivel Amarillo casas de la fuente de alimentación a las habitaciones de nuestros nuevos y sorprendentes hologramas, y es también el lugar donde encontrarás los favoritos de todos los medicamentos fabricación de electrodomésticos, Señor Chemmie! [Aviso: Debido a la limitación de espacio de almacenamiento, nos hemos movido algunos productos químicos peligrosos en esta área, a fin de ver su paso!]}
+{111}{}{Sub-nivel Indigo es donde nuestros brillantes científicos están llevando a cabo algunos de los Mejores Secretos de la Investigación! Suena interesante, ¿no? Recuerde, cualquier uso no autorizado de los visitantes se encuentran en este nivel se dispararon a la vista. Así que los padres, no dejen que sus hijos vagan sin supervisión.}
+{112}{}{Sub-nivel de Violeta contiene la memoria de núcleo para el almacenamiento de los datos de la EPA y otras cosas que no son de mucho interés para los visitantes. Lo siento! Sin embargo, se conecta directamente a la Sub-nivel Amarillo, que contiene las cosas más interesantes, como el farmacéutico del futuro, el Señor Chemmie!}
+{113}{}{Sub-nivel Verde es un emocionante nivel que contiene un arboretum, arma biológica de investigación, nuevos y fascinantes criaturas y, cada hijo favorito, nuestro único zoológico de mascotas.}
+{114}{}{Sub-Nivel Azul no existe. Si alguien diga lo contrario, son sucios, mentirosos, tienen más probabilidades de simpatizantes comunistas. Por favor informe a nuestro departamento de seguridad en el Sub-Nivel de Red, por lo que puede ser tratado en consecuencia. Gracias por hacer su parte como un orgulloso Americano!}
 {115}{}{Vuelves al menú principal.}
-{116}{}{Thank you for using the location finder.}
+{116}{}{Gracias por usar el buscador de la localización.}
 {117}{}{[HECHO]}
 {118}{}{Ves una computadora.}
-{119}{}{You see the EPA Location Finder.}
-{120}{}{You see a computer with detailed information about the levels in the EPA.}
+{119}{}{Ver la EPA Buscador de Ubicación.}
+{120}{}{Usted ve un equipo con información detallada acerca de los niveles de la EPA.}

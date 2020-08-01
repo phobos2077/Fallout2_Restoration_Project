@@ -8,7 +8,7 @@
 {304}{}{Adiós.}
 {400}{}{¡Se acabó!}
 {401}{}{Gracias.}
-{402}{}{¡Deja de hacer eso!}
+{402}{}{¡Para eso!}
 {403}{}{[SEGUIR]}
 {404}{}{[SALIR]}
 {405}{}{¡PARA! ¡PARA! ¡PARA!}
@@ -37,6 +37,6 @@
 {707}{}{Gracias, Jack. Eres un verdadero salvador del Yermo. Adiós.}
 {708}{}{Entonces quizás deberías aprender a ser más cuidadoso. Lo siento, no voy a regalar los suministros médicos de la Abadía.}
 {709}{}{Bien. ADÍOS.}
-{800}{}{No puedo hablar ahora.}
+{800}{}{Ahora no puedo hablar.}
 {801}{}{Lo siento. Estoy en la mitad de algo. Ven a verme más tarde.}
 {802}{}{Hola de nuevo.}

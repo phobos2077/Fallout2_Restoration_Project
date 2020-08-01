@@ -200,7 +200,7 @@
 {1105}{}{Eres adicto a los esteroides. Debes tomarlos regularmente o sufrirás el "mono".}
 {1106}{}{Eres adicto a los mentats. Debes tomarlos regularmente o sufrirás el "mono".}
 {1107}{}{Eres adicto al psico. Si no lo tomas, sufrirás. Si lo tomas, sufrirán los demás.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1108}{}{Su cuerpo se ha vuelto adicta a RadAway. Aunque no amenazan la vida, usted debe tomar regularmente.}
 {1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus hábitos de bebida.}
 {1110}{}{Eres adicto al Jet. Debes tomarlo regularmente o sufrirás el "mono".}
 {1111}{}{Desgraciadamente, eres adicto al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas.}
@@ -218,7 +218,7 @@
 {1123}{}{Eres un mafioso de la Familia Mordino. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1124}{}{Eres un mafioso de la Familia Wright. Eres conocido, respetado, y te sientan genial los sombreros.}
 {1125}{}{Tu esposa ya no está contigo. Espero que estés contento.}
-{1126}{}{You are a smoker. They say it'll kill ya, but you're not dead yet. And anyway, it's a good way to look damn cool in a post-apocalyptic world.}
+{1126}{}{Usted es un fumador. Dicen que va a matar ya, pero no está muerto todavía. Y de todos modos, es una buena manera de ver la maldita fresco en un mundo post-apocalíptico.}
 {2000}{}{Idolatrado}
 {2001}{}{Querido}
 {2002}{}{Aceptado}

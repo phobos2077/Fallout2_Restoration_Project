@@ -1,2 +1,2 @@
-{200}{}{Woah, looks like those seeds sprouted something nasty.}
-{201}{}{Interesting plant. I wonder what else these seeds might grow.}
+{200}{}{Woah, se parece a esas semillas germinadas algo desagradable.}
+{201}{}{Interesantes de la planta. Me pregunto ¿qué otra cosa estas semillas pueden crecer.}

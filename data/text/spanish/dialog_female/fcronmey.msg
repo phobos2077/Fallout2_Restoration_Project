@@ -11,7 +11,7 @@
 {110}{}{Nada.}
 {111}{}{Soy el capitán. Dirijo el barco. Para más preguntas, ve a hablar con uno de los Shi o con Badger o con quien sea. No tengo tiempo para ti.}
 {112}{}{[HECHO]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
+{113}{}{Esta nave de Poseidon petrolero. Está equipado con tecnología que duró hasta la guerra. Tiene un control remoto que permite el acceso a la computadora de navegación de la habitación, y tienen un transpondedor IFF, que la protege de Poseidón armas de fuego. Claro, eso no va a ayudar a cualquiera en contra de que los antiguos Chinos sub, así que mejor espero que la cosa está tan muerto como parece.}
 {114}{}{¿Cómo sabes todo esto?}
 {115}{}{¿Qué es un transpondedor IAE?}
 {116}{}{¿Cómo haces para que zarpe?}
@@ -21,7 +21,7 @@
 {120}{}{¿Qué es exactamente el Enclave?}
 {121}{}{¿Cómo haces que esta cosa se mueva?}
 {122}{}{Adiós.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{¿Cómo piloto de este equipo? Llénalo con un poco de gas a probar la Hubologists o el Shi después de tomar el cuidado de todo lo demás - y pulse el botón. El equipo se encargará del resto, si se sigue trabajando. Va a navegar a la derecha de la plataforma petrolera, a menos que el antiguo sub sopla para arriba. Pero al menos usted no tiene que preocuparse por el Enclave disparando a usted, porque usted tiene el transpondedor IFF. Sólo asegúrese de que usted tiene lo que necesita para tener acceso a todo: LLAVERO con mando a distancia, equipo de trabajo, y el combustible. Bastante fácil, ¿eh?}
 {124}{}{Desde luego. ¿Cómo sabes todo esto?}
 {125}{}{¿Qué es un transpondedor IAE y un FOB?}
 {126}{}{¿Qué plataforma petrolífera?}
@@ -50,14 +50,14 @@
 {149}{}{Ya veo. ¿Puedes repetirme cómo piloto esto?}
 {150}{}{Gracias. Adiós.}
 {151}{}{Has cometido un gran error metiéndote con el capitán y sus amigos...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{153}{}{Oh, yeah. You gotta get the navigation computer working as well. I bet you'd find parts for it in one of those old vaults.}
+{152}{}{¿Cómo piloto de este equipo? Bueno, veo que ya gaseados por ella. Cuando has tomado el cuidado de todo lo demás, basta con pulsar el botón. El equipo se encargará del resto, si se sigue trabajando. Va a navegar a la derecha de la plataforma petrolera, a menos que el antiguo sub sopla para arriba. Pero al menos usted no tiene que preocuparse por el Enclave disparando a usted, porque usted tiene el transpondedor IFF. Sólo asegúrese de que usted tiene lo que necesita para tener acceso a todo: LLAVERO con mando a distancia, equipo de trabajo, y el combustible. Bastante fácil, ¿eh?}
+{153}{}{Oh, sí. Tienes que conseguir el equipo de navegación de trabajo así. Apuesto a que usted encontrará las piezas para que en una de esas viejas bóvedas.}
 {154}{}{Me alegra verte de nuevo. ¿Qué necesitas?}
 {155}{}{, y a menos que pierda mi apuesta, que es donde están tus amigos, también.}
 {156}{}{.}
-{200}{}{What old sub?}
-{210}{}{There's an old Chinese submarine marooned out there in the bay. Damn thing gives me the creeps, lurking out there under the water like a rusty ghost. I doubt it's still active, but if it was, its automated weapons systems could blow this tanker to hell before you even got close to that oil rig.}
-{211}{}{Why don't you think the sub's still active?}
-{220}{}{Well, for one, she's been sitting there rotting in the ocean since the great war. Plus, if she were active, she would've fired on this rig back when the Enclave first docked it here. Course, I wouldn't put it past the Shi to go there and start tinkering with it, so you never know. Might be worth checking into before you set sail.}
-{221}{}{How would I go about checking into it?}
-{230}{}{If anyone knows what's going on with that sub, it'd be the Shi. The sub's what brought 'em here in the first place - I wouldn't be surprised if they worship the thing. The Shi Emperor would know everything, of course, but good luck with that. You'd be better off asking Lao Chou, over at the Flying Dragon 8 - he's been known to dole out information from time to time. Hell, maybe you could even get one of the dock workers to talk.}
+{200}{}{¿Qué edad sub?}
+{210}{}{Hay un viejo Chino submarino abandonado en la bahía. Maldita cosa me da los pelos de punta, acechando ahí fuera bajo el agua como una de rusty fantasma. Me cabe duda de que es aún activo, pero si fue así, sus sistemas automatizados de armas podría explotar esta cisterna para el infierno antes de que usted incluso llegó a cerrar para que la plataforma petrolera.}
+{211}{}{¿Por qué no pensar en la sub sigue activo?}
+{220}{}{Pues bien, ella ha estado sentado allí pudriéndose en el océano desde la gran guerra. Además, si ella se activa, ella se ha disparado en este equipo, cuando el Enclave primer acoplado aquí. Claro, yo no lo pondría por delante de la Shi'a ir allí y empezar a juguetear con ella, así que nunca se sabe. Podría ser vale la pena mirar en antes de zarpar.}
+{221}{}{Cómo voy a ir yo acerca de la comprobación en ella?}
+{230}{}{Si alguien sabe de lo que está pasando con ese sub, que sería el Shi. El sub es lo que trajo 'em aquí en primer lugar - no me sorprendería si ellos adoran a la cosa. El Emperador Shi sabría todo lo que, por supuesto, pero buena suerte con eso. Usted sería mejor preguntar Lao Chou, en el Vuelo del Dragón 8 - que ha sido conocido a repartir información a partir de tiempo al tiempo. El infierno, tal vez usted podría incluso conseguir uno de los trabajadores de los muelles para hablar.}

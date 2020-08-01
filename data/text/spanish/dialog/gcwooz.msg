@@ -90,7 +90,7 @@ apestosos zombis.}
 {271}{}{Lo sabía. Te estaba poniendo a prueba. Wooz, qué listo eres. Cuéntame algo más.}
 {272}{}{¡No lo soy! Tú sí que eres tonto. Me largo. Adiós.}
 {280}{}{(Wooz se te acerca) Déjame susurrártelo…}
-{281}{}{De acuerdo.}
+{281}{}{Vale.}
 {282}{}{Ni hablar; tú lo que estás intentando es comerme los sesos, ¿no? Me voy. Hasta la próxima.}
 {290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegido. Por Cristo, menudo perdedor.}
 {291}{}{De todas formas no me quiero quedar en tu estúpido bar. No hace falta que grites. Adiós.}
@@ -154,7 +154,7 @@ clamando por su sangre.}
 {470}{}{Esos cabrones de Ciudad Refugio. Si alguien nos va a joder, serán ellos. Están locos. Nadie ha estado jodido hasta que intentaron matarnos. Tendría cuidado con ellos si fuera tú.}
 {471}{}{Parece un buen consejo. Tendré cuidado. Déjame preguntarte una cosa, entonces.}
 {472}{}{Creo que tienen unos buenos ideales. Sólo un poco de limpieza genética. Espero que empiecen contigo. Adiós.}
-{473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
+{473}{}{Bien, ahora que estamos bastante enloquecido sobre el pueblo cercano. ¿Sabe usted algo acerca de esto?}
 {480}{}{La única forma de que los necrófagos sean libres será cuando puedan tocar su propia arpa.}
 {481}{}{No sabía que los necrófagos fueran especialmente musicales.}
 {482}{}{Oh, ya veo. Je, je. Déjame preguntarte algo.}
@@ -214,7 +214,7 @@ clamando por su sangre.}
 {730}{}{Te has convertido en adicto al juego de Trágico. Muchas noches sin dormir te esperan.}
 {731}{}{De acuerdo, hecho. ¿Algo más?}
 {732}{}{Sí, otra ronda para todos.}
-{740}{}{Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's
- business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.}
+{740}{}{Je, sí escuché esos pendejos son atacados por molerats que está protegiendo los smoothskins. Sirve 'em derecho para follar con otras personas
+ de negocios. Realmente no sé mucho más que eso. Bultos en el depósito de chatarra podría saber más. Que smoothskin siempre oír cosas.}
 {741}{}{Gracias por la información. Adiós.}
-{742}{}{Good to know. Let me ask you something else.}
+{742}{}{Es bueno saber. Déjame preguntarte algo más.}

@@ -72,7 +72,7 @@
 {364}{}{Claro. Gracias, Mason.}
 {365}{}{Puedo hacerlo. Ahora apártate y déjame hacer el trabajo.}
 {366}{}{Ya me he encargado del "asunto" de Lloyd.}
-{367}{}{Who was the dealer at the table Lloyd won the money from?}
+{367}{}{Que era el distribuidor en la tabla Lloyd ganó el dinero?}
 {375}{}{¿Sí? ¿Como qué?}
 {381}{}{Eso es todo lo que necesito saber. Gracias, Mason.}
 {382}{}{Eso es todo lo que necesito saber. Apártate y déjame hacer el trabajo.}
@@ -213,7 +213,7 @@
 {826}{}{No creas que acabar conmigo va a ser tan fácil como envenenar a ese chico...}
 {835}{}{No importa. El trabajo se canceló. Lárgate de aquí.}
 {840}{}{Me alegro de que por fin hayas vuelto. El jefe quiere verte.}
-{900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
+{900}{}{Su nombre es Nikki. Ella abajo, en la trastienda. (Mason mira a la distancia.) El hombre no tiene un culo perfecto.}
 {901}{}{Tenía algunas preguntas más...}
 {1305}{}{.}
 {5735}{}{. El señor Salvatore avisó de tu ascenso. Felicidades. Tengo algo de material para ti… veamos… (Te pasa un puñado de objetos). Cuidado con todo eso…}

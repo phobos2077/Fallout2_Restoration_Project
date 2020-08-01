@@ -95,4 +95,4 @@
 {366}{}{Córtame, Mick.}
 {367}{}{Recuerda usar el directo de izquierda!}
 {368}{}{¡Veo tres de ellos!}
-{400}{}{He is sweating profusely.}
+{400}{}{Él está sudando mucho.}

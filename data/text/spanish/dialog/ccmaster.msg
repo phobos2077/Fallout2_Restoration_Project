@@ -42,7 +42,7 @@
 {141}{}{Pez Espada.}
 {142}{}{De acuerdo. ¿Tú unidad?}
 {143}{}{Arroyo.}
-{144}{}{No.}
+{144}{}{¡No!}
 {145}{}{Eh... sí, estoy unido.}
 {146}{}{De la 42.}
 {147}{}{¿Eso se escribe con S o con C?}
@@ -66,11 +66,11 @@
 {165}{}{De acuerdo, vamos a acabar con esto rápido. Quítate eso y te daré un nuevo traje.}
 {166}{}{No oigo nada salvo estática.}
 {167}{}{¿Eh?}
-{168}{}{De acuerdo.}
+{168}{}{Vale.}
 {169}{}{¿Me vas a quitar eso? ¡Lo dudo!}
 {170}{}{Oh, pues nada.}
 {171}{}{La servoarmadura. Dame la servoarmadura, imbécil.}
-{172}{}{De acuerdo.}
+{172}{}{Vale.}
 {173}{}{Ya hemos hecho el trato. No te voy a dar más.}
 {174}{}{Qué te apuestas que tengo algo para ti, bastardo.}
 {175}{}{Vale, aquí está el traje. Ahora vete..}
@@ -80,7 +80,7 @@
 {179}{}{¡Que te den!}
 {180}{}{De acuerdo, J. ¿Unidad?}
 {181}{}{Arroyo.}
-{182}{}{No.}
+{182}{}{¡No!}
 {183}{}{Eh... sí, estoy unido.}
 {184}{}{De la 42.}
 {185}{}{¿Estás sordo? ¿Quién eres?}

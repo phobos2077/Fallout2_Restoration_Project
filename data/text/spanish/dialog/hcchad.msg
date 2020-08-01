@@ -6,8 +6,8 @@
 {122}{}{¡Deerk deegler!}
 {123}{}{¿Quién?}
 {124}{}{Marcus ha estado haciendo algunas preguntas sobre ti.}
-{125}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. You're going down.}
-{126}{}{There's enough evidence to arrest you for stealing money that's supposed to go to Broken Hills. Cut me in for $1000 and I'll make sure you can flee town.}
+{125}{}{No hay suficiente evidencia para arrestar a usted para robar el dinero que se supone que va a ir a Broken Hills. Vas hacia abajo.}
+{126}{}{No hay suficiente evidencia para arrestar a usted para robar el dinero que se supone que va a ir a Broken Hills. Cortar conmigo para $1000 y la voy a hacer seguro de que usted puede huir de la ciudad.}
 {127}{}{¿Quién eres?}
 {128}{}{Háblame sobre este lugar.}
 {129}{}{Nada. Adiós.}
@@ -15,7 +15,7 @@
 {131}{}{¡A-adiós!}
 {132}{}{Soy Chad.}
 {133}{}{Mira, ahora estoy muy ocupado. Búscate a otro a quien molestar.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days, I'm focusing primarily on Gecko.}
+{134}{}{Soy el organizador de caravanas de la ciudad. Me ocupo de los negocios al otro extremo de las rutas comerciales. Estos días estoy centrado mayoritariamente en Gecko.}
 {135}{}{¡Vale!}
 {136}{}{Me gustaría trabajar contigo.}
 {137}{}{Suena excitante.}
@@ -26,10 +26,10 @@
 {142}{}{Tengo más preguntas.}
 {143}{}{Adiós.}
 {144}{}{¿Como qué?}
-{145}{}{He suspects that you're skimming money that's supposed to be going to Broken Hills.}
+{145}{}{Él sospecha que está rozando el dinero que se supone que se va a Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
-{147}{}{Look, I don't know anything about that, and I sure as hell don't like it when people accuse me of things. Now I suggest you leave.}
-{150}{}{I'm going to find out the truth. Bye.}
+{147}{}{Mira, yo no sé nada acerca de eso, y estoy seguro como el infierno que no le gusta cuando la gente me acusan de cosas. Ahora le sugiero que deje.}
+{150}{}{Voy a averiguar la verdad. Bye.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
 {158}{}{Gracias. Adiós.}
@@ -50,35 +50,35 @@
 {173}{}{Mantén los ojos bien abiertos.}
 {174}{}{Te cubriré las espaldas.}
 {175}{}{No dejes que esos cabrones se te echen encima.}
-{200}{}{I don't know what yer talking about. I suggest you drop this matter before you start to piss people off. Now get outta here.}
-{201}{}{I got a better idea. How about I beat you to death instead.}
-{202}{}{Wrong answer. Looks like you picked the wrong guy to mess with.}
-{203}{}{Fine, goodbye.}
-{204}{}{Ah dammit, I knew this wouldn't last forever. [Looks around and lowers his voice.] Alright, listen. Keep your mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money.] Now, if you'll excuse me, I have to get going.}
+{200}{}{No sé lo que vas hablando. Sugiero colocar este asunto antes de empezar a cabrear a la gente. Ahora salir de aquí.}
+{201}{}{Tengo una mejor idea. ¿Me golpearon hasta la muerte en su lugar.}
+{202}{}{Respuesta incorrecta. Parece que recogió el hombre equivocado para meterse con ellos.}
+{203}{}{Bien, adiós.}
+{204}{}{Ah maldita sea, yo sabía que esto no duraría para siempre. [Mira a su alrededor y baja su voz.] Bien, escucha. Mantener la boca cerrada acerca de este tema. Aquí de $1000 para mantenerlos callados. [Él te entrega el dinero.] Ahora, si me disculpáis, tengo que ir.}
 {205}{}{[HECHO]}
-{206}{}{Help! We have a thief on our hands here.}
+{206}{}{Ayuda! Tenemos un ladrón en nuestras manos aquí.}
 {207}{}{}
-{208}{}{What the!? Who the hell are you?}
-{209}{}{Me? Uh, I'm the tooth fairy. I have come to bring you great riches.}
-{210}{}{Yeah and I'm Saint Nick. Now who the fuck are you and why are you in my house?}
-{211}{}{Really? I met a guy in New Reno who also claims to be Saint Nick.}
-{212}{}{*Stares blankly*}
-{213}{}{(going on) Yeah, and then I told him my life story about Arroyo...}
-{214}{}{Listen, I don't give a flying fuck about any of your rambling bullshit. You're the one who's been snooping around, asking questions about the missing caravan money.}
-{215}{}{That's right. And I'm here to collect the final piece of evidence I need to put you away.}
-{216}{}{Oh yeah? Let me help. The documents you're looking for are in a briefcase that's locked away in the bottom drawer
- of that dresser over there. But you're never gonna touch it, 'cause I'm gonna kill you, you fuckin' do-gooder. If it
- weren't for you, I coulda kept skimming off the caravan runs for another couple months. But no, you had to go an'
- meddle in affairs that aren't any of your fuckin' concern. So now I gotta flee town, but at least I'll have the pleasure
- of leaving your corpse behind.}
-{217}{}{No one has to die here, Chad. Instead of doing something stupid that might get you killed, you should calm down, and we'll talk this over with Marcus.}
-{218}{}{You think I'm stupid? That big ugly prick would lock me up in a second. No, I'm afraid someone's certainly going to die here. And it's not gonna be me!}
-{219}{}{I'm here for the last piece of evidence in the caravan skimming case.}
-{220}{}{Oh really?...I thought I recognized you.}
-{221}{}{Alright, Alright. I admit to everything. I don't want to die for this. Tell Marcus I'll come peacefully.}
-{222}{}{Alright, don't move. I'll go get Marcus.}
-{300}{}{You allow Chad to skip town.}
+{208}{}{Qué!? Quién diablos es usted?}
+{209}{}{Me? Uh, yo soy el hada de los dientes. He venido a traer grandes riquezas.}
+{210}{}{Sí, y yo soy Saint Nick. Ahora que la mierda son ustedes y por qué están en mi casa?}
+{211}{}{De verdad? Yo conocí a un chico en New Reno que también pretende ser de Saint Nick.}
+{212}{}{*Se queda mirando fijamente*}
+{213}{}{(ir on) Sí, y entonces le conté mi historia de la vida sobre el Arroyo...}
+{214}{}{Escucha, yo no doy un vuelo a la mierda acerca de cualquiera de sus disquisiciones mierda. Tú eres el que ha sido snooping alrededor, haciendo preguntas acerca de la falta de la caravana de dinero.}
+{215}{}{Eso es correcto. Y estoy aquí para recoger la pieza final de la prueba que necesito para poner distancia.}
+{216}{}{Ah, sí? Déjame ayudarte. Los documentos que buscas están en un maletín que se encuentra bloqueada en el cajón de abajo
+ de que el peluquero de allí. Pero nunca vamos a tocar, porque me voy a matar a usted, usted fuckin' bienhechora. Si
+ no eran para ti, yo coulda mantenido quitando la caravana se ejecuta durante un par de meses. Pero no, había que ir a un'
+ inmiscuirse en asuntos que no son de su fuckin' preocupación. Así que ahora tengo que huir de la ciudad, pero al menos voy a tener el placer
+ de salir de su cadáver detrás.}
+{217}{}{Nadie tiene que morir aquí, Chad. En lugar de hacer algo estúpido que podría costarle la vida, debe calmarse, y vamos a hablar sobre esto con Marcus.}
+{218}{}{Crees que soy estúpido? Que grande y feo pinchazo bloqueo de mí en un segundo. No, me temo que alguien seguro que va a morir aquí. Y no va a ser de mí!}
+{219}{}{Estoy aquí para la última pieza de evidencia en la caravana rozando el caso.}
+{220}{}{Oh ¿de verdad?...Pensé que reconoció usted.}
+{221}{}{Bien, Bien. Admito todo. Yo no quiero morir por esto. Dígale a Marcus voy a venir en paz.}
+{222}{}{Bien, no se mueven. Iré a buscar a Marcus.}
+{300}{}{Que permiten a Chad para saltar de la ciudad.}
 {400}{}{Déjame tranquilo.}
-{2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your
- mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money and you hand him his briefcase.]
- Now if you excuse me I have to get going.}
+{2040}{}{Ah maldita sea yo sabía que esto no duraría para siempre. (Mira a su alrededor y baja su voz.) Bien escuchar. Mantenga su
+ boca cerrada acerca de este tema. Aquí de $1000 para mantenerlos callados. [Él te entrega el dinero y la mano de él en su maletín.]
+ Ahora si me disculpan tengo que ir.}

@@ -18,10 +18,10 @@
 {117}{}{¿Qué puedes decirme de Roger Westin?}
 {118}{}{Estoy intentando reunirme con el viejo Carlson. ¿Sabes de alguien que pueda ayudarme?}
 {119}{}{¿Tienes un GECK?}
-{120}{}{That's nice, stranger, but I ain't no charity.}
-{121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested. Let it go cheap -- $500.}
+{120}{}{Que bueno, extraño, pero no hay caridad.}
+{121}{}{Tal vez. Sólo podría tener un Triveld x10 rifle de alcance - encajaría bien en un rifle de caza, si alguien estaba interesado. Let it go barato - $500.}
 {122}{}{Oye, ya me has limpiado.}
-{123}{}{Sure, it's a deal.}
+{123}{}{Claro, es un trato.}
 {124}{}{No, gracias.}
 {125}{}{República de Nueva California: eso es lo que es. La presidente Tandi y su grupo dicen que están intentando reconstruir los viejos días; imagino que sólo están intentando agarrarse a lo que pueden. Demonios, no tengo quejas de ellos: los viejos días son anteriores a mi propio tiempo. Aunque sólo son una especie de grupo de remilgados: no les gustan los esclavos, el juego, nada de casi nada. Por eso me establecí aquí. No me gustan las reglas y nunca me han gustado.}
 {126}{}{Ya veo.}
@@ -29,7 +29,7 @@
 {128}{}{No me meto con el señor Merk si no se me paga por cotillear sobre él. Si tienes preguntas, pregunta por él en el Rawhide.}
 {129}{}{Ya veo.}
 {130}{}{Adiós.}
-{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
+{131}{}{¿Roger Westin? ¿Te refieres al tipo del Congreso? Consiguió unos terrenos al oeste del poblado. El hombre de los brahmines: un puntal en la Asociación de Ganaderos. Siempre está buscando un par de manos, si quieres trabajo.}
 {132}{}{Ya veo.}
 {133}{}{Adiós.}
 {134}{}{Es gracioso que estés preguntando después de lo que sucedió con Roger Westin. Yo no lo sé, pero tengo un compañero, Merk, en el Rawhide, que tal vez podría ayudarte.}

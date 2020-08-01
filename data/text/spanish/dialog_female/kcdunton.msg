@@ -204,12 +204,12 @@
 {600}{}{Incluso el idiota de Torr tiene más cerebro que tú, ¡ladrona!}
 {601}{}{¿Listo para ir?}
 {700}{}{Has robado el ganado de Torr.}
-{702}{}{No, I'll tell you what you have these for. You dress up as "Bug Men" and scare poor old Torr out of his Brahmin, don't you -- don't you?! It all makes sense now. You're just a couple of no good ruffians.}
-{703}{}{[The Dunton brothers' eyes get really wide and the two men begin to fidget uncomfortably.] Yy..yyy... yeah so... what's it to you, tribal? Everyone needs a little extra cash now and then. What's it to you anyway? What are you gonna do about it, huh?}
-{704}{}{I'll tell you what. If you stop stealing brahmin and bothering Torr, then I won't turn you in. All I need is your word, since if it happens again, there won't be any of you left to steal another brahmin. Got it?!}
-{705}{}{[hyuk, hyuk, hyuk] Yeah right, tribal. I think it's about time we teach you what happens to nosy tribals 'round here.}
-{706}{}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
-{707}{}{You scare the Dunton brothers into never bothering Torr again.}
+{702}{}{No, yo diré lo que tienen estos para. Se visten como el "Error de los Hombres" y asustar a la pobre vieja Torr de su Brahmán, no usted, ¿no?! Todo tiene sentido ahora. Usted está a sólo un par de no buena rufianes.}
+{703}{}{[El Dunton hermanos ojos muy amplia y los dos hombres comienzan a inquietar demasiado.] Yy..yyy... sí, así que... ¿qué es para usted, tribales? Todo el mundo necesita un poco de dinero extra ahora y entonces. ¿Qué es para usted de todos modos? ¿Qué van a hacer al respecto, ¿eh?}
+{704}{}{Voy a decirle a usted lo que. Si usted deja de robar brahmán y molestando a Torr, entonces yo no te convertirá en. Todo lo que necesita es su palabra, ya que si esto sucede otra vez, no habrá alguno de ustedes la izquierda para robar otro de los brahmanes. ¿Lo tienes?!}
+{705}{}{[hyuk, hyuk, hyuk] Sí a la derecha, tribal. Creo que es hora de que te enseñe lo que sucede a nosy tribus 'de la ronda de aquí.}
+{706}{}{Bien Tribales, usted gana esta vez. Vamos a parar, ahora sólo nos deja solos.}
+{707}{}{Usted asustar a los Dunton hermanos en nunca molesta Torr de nuevo.}
 {708}{}{[HECHO]}
 {709}{}{Déjanos en paz.}
 {710}{}{Sí, lo que sea, tribal. Sólo mejor que te metas en tus asuntos.}

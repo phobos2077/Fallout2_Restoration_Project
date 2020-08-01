@@ -5,7 +5,7 @@
 {104}{}{¿Qué quieres?}
 {105}{}{Nyug aarg.}
 {106}{}{¿Quién eres?}
-{107}{}{¿Qué es este lugar?}
+{107}{}{¿Qué lugar es éste?}
 {108}{}{¿Alguna vez has oído hablar de un GECK?}
 {109}{}{Eric me pidió que ajustara el suministro de energía de su casa. Dijo que estaba sudando demasiado.}
 {110}{}{Oye, Eric está realmente contento con su bonita y chula casa. Y veo que la energía no se ha cortado en la ciudad.}
@@ -20,7 +20,7 @@
 {119}{}{¿Barras de uranio?}
 {120}{}{Interesante. Adiós.}
 {121}{}{¿Un GECK? Nunca he oído hablar de eso. Imagino que nadie de por aquí tampoco. Aunque suena como si fuera un animal con zarpas repugnantes.}
-{122}{}{No, that's not what I'm looking for. I have more questions though.}
+{122}{}{No, no es eso lo que estoy buscando. Tengo más dudas.}
 {123}{}{No es eso después de todo. Adiós.}
 {124}{}{¿Eric quiere más energía? Eric no puede TENER más energía. Hay un equilibrio muy delicado de la energía que se genera aquí, y si Eric tiene más energía, entonces el hospital se apagará. O las luces. O la mina. No podemos hacerlo.}
 {125}{}{Si esta máquina funciona con barras de uranio, tenéis suficiente energía como para suplir este lugar y Nuevo Reno sin que se resienta el suministro. Ahora, súbelo.}

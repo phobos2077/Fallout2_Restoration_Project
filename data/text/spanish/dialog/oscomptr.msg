@@ -40,136 +40,136 @@
 {133}{}{Y ahora os doy la muerte.}
 {134}{}{Toma su cuerpo. El doctor quería una muestra.}
 {135}{}{¡Su sangre correrá como el Nilo!}
-{200}{}{Welcome, Vault Dweller. For your convenience, this Vault-Tec terminal has been modified to respond to vocal commands. Please vocalize your command now.}
-{201}{}{Oh, you've got me confused with someone else. You see, I'm not the Vault Dweller, I'm the Chosen One. }
-{202}{}{Run diagnostics.}
-{203}{}{Switch to keyboard input mode.}
-{204}{}{Access security footage.}
+{200}{}{Bienvenido, Vault Dweller. Para su conveniencia, este Vault-Tec terminal ha sido modificado para responder a comandos de voz. Por favor, vocalizar su comando de ahora.}
+{201}{}{Oh, me tienes confundido con alguien más. Usted ve, yo no soy el Vault Dweller, yo soy el Elegido. }
+{202}{}{Ejecute los diagnósticos.}
+{203}{}{Cambiar al modo de entrada del teclado.}
+{204}{}{Seguridad de acceso a material de archivo.}
 {205}{}{Salir.}
 {206}{}{Urk?}
-{210}{}{[A light blinks on the terminal as it makes various clicking and whirling sounds. After several seconds, text
- appears on the monitor.] Sorry, I did not understand your command. Please repeat your command, making sure to speak
- directly into the microphone in a clear and precise manner. Vault-Tec apologizes for any inconvenience. Thank you.}
-{211}{}{Run diagnostics.}
-{212}{}{Switch to keyboard input mode.}
-{213}{}{Access security footage.}
+{210}{}{[Una luz parpadea en la terminal, ya que hace varios pulsando y girando sonidos. Después de varios segundos, el texto
+ aparece en el monitor.] Lo siento, no he entendido tu comando. Por favor, repita el comando, asegúrese de hablar
+ directamente en el micrófono en una forma clara y precisa. Vault-Tec se disculpa por cualquier inconveniente. Gracias.}
+{211}{}{Ejecute los diagnósticos.}
+{212}{}{Cambiar al modo de entrada del teclado.}
+{213}{}{Seguridad de acceso a material de archivo.}
 {214}{}{Salir.}
-{220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience... Thank you for waiting... Diagnostic
- checks complete. All systems are working properly. After all, you're using Vault-Tec. }
+{220}{}{Por favor espere mientras yo inicie diagnóstico de cheques..Vault-Tec agradece su paciencia... Gracias por la espera... de Diagnóstico
+ comprueba completa. Todos los sistemas están funcionando correctamente. Después de todo, eres el uso de Vault-Tec. }
 {221}{}{Atrás.}
 {222}{}{Salir.}
-{230}{}{Switching to manual interface mode... manual interface mode initiated. For the convenience of others, this
- terminal will automatically revert to vocal interface mode once you have logged off. Please input command.}
-{231}{}{Search database for anything of interest.}
+{230}{}{Conmutación manual en el modo de interfaz de... manual de la interfaz de modo de iniciado. Para la comodidad de los demás, de esta
+ terminal volverá automáticamente a la interfaz de voz modo una vez que han cerrado la sesión. Por favor, introduzca el comando.}
+{231}{}{Base de datos de búsqueda de cualquier cosa de interés.}
 {232}{}{Salir.}
-{240}{}{After a bit of searching, you discover three files that might be worth a look: Vault Dweller's Survival Guide
- (Abridged Version), Vault 13 Timeline, and Overseer Logs.}
-{241}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
-{242}{}{Access Vault 13 Timeline. }
-{243}{}{Access Overseer Logs.}
+{240}{}{Después de un poco de búsqueda, descubre tres archivos que podría ser digno de una mirada: Vault Dweller la Guía de Supervivencia del
+ (Versión abreviada), la Bóveda de 13 línea de tiempo, y de Supervisor de los Registros.}
+{241}{}{El acceso del Morador del refugio Guía de Supervivencia (Versión Abreviada). }
+{242}{}{Acceso Vault 13 Línea De Tiempo. }
+{243}{}{El Acceso De Supervisor De Registros.}
 {244}{}{Salir.}
-{250}{}{Welcome to Vault-13, the latest in a series of public defense works from Vault-Tec, your contractor of choice
- when it comes to the best in nuclear shelters. Vault-Tec, America's Final Word in Homes.}
+{250}{}{Bienvenidos a la Bóveda-13, el último de una serie de público las obras de defensa de Vault-Tec, a su contratista de elección
+ cuando se trata de los mejores en refugios nucleares. Vault-Tec, América del Final de la Palabra en los Hogares.}
 {251}{}{[MÁS]}
-{252}{}{The Vault series of survival shelters are designed from the ground up to provide the best chance for a good life
- following nuclear armageddon. It is the duty of every American citizen to learn and use the skills necessary for a comfortable Vault life. The best place to start is with a description of your new home.}
+{252}{}{La Bóveda de la serie de supervivencia de los refugios están diseñados desde cero para proporcionar la mejor oportunidad para una buena vida
+ siguiente armagedón nuclear. Es el deber de todos los ciudadanos Estadounidenses a aprender y utilizar las habilidades necesarias para un cómodo Bóveda de la vida. El mejor lugar para comenzar es con una descripción de su nuevo hogar.}
 {253}{}{[MÁS]}
-{254}{}{IMPORTANT VAULT 13 STATISTICS
-                                    Starting construction date: August 2063
-                        Ending construction date: March 2069
-                             Starting Budget: $400,000,000,000
-                                Final Budget, with interest: $645,000,000,000
-                   Total number of occupants: 1,000 (at capacity)
-                 Total duration: 10 years (at capacity)
-                            Number of living quarters: 100 (hot bunking required if at maximum capacity)}
+{254}{}{IMPORTANTE BÓVEDA DE 13 DE ESTADÍSTICAS
+ El inicio de la construcción fecha: agosto 2063
+ Finalización de la construcción fecha: Marzo 2069
+ Presupuesto Inicial: $400,000,000,000
+ Presupuesto Final, con interés: $645,000,000,000
+ Número Total de ocupantes: 1,000 (en capacidad)
+ Duración Total: 10 años (en capacidad)
+ Número de cuartos de la vida: 100 (caliente literas necesario si la capacidad máxima)}
 {255}{}{[MÁS]}
-{256}{}{To help Vault Dwellers record information (and information is extremely valuable, in fact, it might be the most
- valuable weapon we have against the end of civilization, so pay attention!) Vault-Tec has selected the RobCo Industries RobCo Pip-Boy 2000 as the Personal Information Processor of choice for its Vault Dwellers.}
+{256}{}{Para ayudar a los Habitantes de la Bóveda de registro de información (y la información es muy valiosa, en realidad, podría ser el más
+ valiosa arma que tenemos contra el fin de la civilización, así que presta atención!) Vault-Tec se ha seleccionado la RobCo Industrias de RobCo Pip-Boy 2000 como la Información Personal de Procesador de elección por su Bóveda de Habitantes.}
 {257}{}{[MÁS]}
-{258}{}{The RobCo Pip-Boy 2000 is a handy device that you wear on your wrist. It's small, especially by today's standards, and it will store a goodly amount of information for you. And using modern super-deluxe
- graphics to boot! Please refer to your Pip-Boy manual for more information.}
+{258}{}{El RobCo Pip-Boy 2000 es un práctico dispositivo que se pone en la muñeca. Es pequeño, especialmente por los estándares de hoy, y va a almacenar una buena cantidad de información para usted. Y la utilización de modernos super-deluxe
+ gráficos para arrancar! Por favor refiérase a tu Pip-Boy manual para obtener más información.}
 {259}{}{[MÁS]}
-{260}{}{The key to a successful reintroduction of civilization following a massive scale nuclear war is people. Here at Vault-Tec, we are working to ensure to your fellow man (and woman) is up to the task of bringing America back from the dead.}
+{260}{}{La clave para el éxito de la reintroducción de la civilización tras un gran escala de la guerra nuclear es la gente. Aquí en Vault-Tec, estamos trabajando para asegurar a sus compañeros de hombre (y la mujer) a la tarea de traer nuevamente a los estados unidos de entre los muertos.}
 {261}{}{[MÁS]}
-{262}{}{We believe that a positive attitude is one of the best tools at our disposal. Should you encounter any fellow Vault Dwellers displaying a less than positive attitude, you are encouraged to report them to your Vault's Overseer. Remember, once the doors are sealed, the Overseer's word is law.}
+{262}{}{Creemos que una actitud positiva es una de las mejores herramientas a nuestra disposición. Si usted encuentra cualquier compañero de la Bóveda de los Habitantes de la visualización de un menor de actitud positiva, se le anima a informar de ellos a su Bóveda del Supervisor. Recuerde, una vez que las puertas están selladas, el Supervisor de la palabra es la ley.}
 {263}{}{[MÁS]}
-{264}{}{Vault-13 comes prepared with the latest in survival equipment. The items in your storage containers will last 1,000 people over 10 years in comfortable and modern surroundings. When it is time to leave the Vault, and return to rebuild America, your friends at Vault-Tec have provided you with everything that you will need.}
+{264}{}{Vault-13 viene preparado con las últimas novedades en equipos de supervivencia. Los elementos en sus contenedores de almacenamiento va a durar 1.000 personas de más de 10 años en el moderno y confortable entorno. Cuando es el momento de salir de la Bóveda, y volver a reconstruir a los estados unidos, sus amigos de Vault-Tec han proporcionado todo lo que usted necesita.}
 {265}{}{[MÁS]}
-{266}{}{Thank you for taking the time to read The Vault Dweller's Survival Guide (Abridged Version). We at Vault-Tec feel confident that you'll love your new underground dwelling.}
-{267}{}{Access Vault 13 Timeline. }
-{268}{}{Access Overseer Logs.}
+{266}{}{Gracias por tomarse el tiempo para leer La Bóveda Habitante de la Guía de Supervivencia (Versión Abreviada). Nosotros, en Vault-Tec se sienten seguros de que te encantará su nuevo metro de vivienda.}
+{267}{}{Acceso Vault 13 Línea De Tiempo. }
+{268}{}{El Acceso De Supervisor De Registros.}
 {269}{}{Salir.}
-{270}{}{As you read over the beginning of the timeline, you find it interesting that no reason is given for why the Vault didn't open 10 years after the Great War, as it was originally designed to. }
+{270}{}{A medida que lea el comienzo de la línea de tiempo, resulta interesante que no se el motivo de por qué la Bóveda no abrir 10 años después de la Gran Guerra, ya que fue diseñado originalmente para. }
 {271}{}{[MÁS]}
-{272}{}{Browsing ahead, you don't find much of interest until the year 2161, when the Vault's only working water chip breaks down. You feel a surge of pride as you read about your grandfather being selected for the important task of leaving the Vault and scouring the wasteland for a replacement water chip. However, it feels a little odd seeing your tribe's most revered legend told in a simple bullet point format.}
+{272}{}{Navegar por delante, no a encontrar gran parte de los intereses hasta el año 2161, cuando la Bóveda del trabajo sólo chip de agua se rompe. Se siente una oleada de orgullo al leer acerca de su abuelo de ser seleccionados para la importante tarea de salir de la Bóveda y recorriendo el desierto durante un chip de agua de recambio. Sin embargo, se siente un poco extraño ver a tu tribu de los más venerados de la leyenda contada en un simple punto de viñeta formato.}
 {273}{}{[MÁS]}
-{274}{}{Continuing down the timeline, you read of your grandfather's success and subsequent exile, and how several other vault dwellers chose to join him rather than remain in the relative safety of the Vault. You also discover that the Overseer was eventually tried and executed by the remaining vault dwellers.}
+{274}{}{Continuando por la línea de tiempo, de leer de su abuelo el éxito y el posterior exilio, y cómo varios otros bóveda de los habitantes de la eligió a unirse a él en lugar de permanecer en la relativa seguridad de la Bóveda. Usted también descubrirá que el Supervisor finalmente fue juzgado y ejecutado por el resto de los habitantes de la bóveda.}
 {275}{}{[MÁS]}
-{276}{}{The final entry in the timeline is dated May of 2242. It seems that, for the first time, Vault 13 was sent an "all clear" signal from an unknown source. After some debate, the vault dwellers decided to open the Vault doors and see what awaited them on the surface world. There is no record of what happened to them after that.}
-{277}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
-{278}{}{Access Overseer Logs.}
+{276}{}{La entrada final en la línea de tiempo, fecha de Mayo de 2242. Parece que, por primera vez, la Bóveda de 13 años fue enviado a un "todos" señal clara de una fuente desconocida. Después de algunos debates, la bóveda de los habitantes decidieron abrir las puertas de Bóveda y ver lo que les esperaba en el mundo de la superficie. No hay ningún registro de lo que pasó con ellos después de eso.}
+{277}{}{El acceso del Morador del refugio Guía de Supervivencia (Versión Abreviada). }
+{278}{}{El Acceso De Supervisor De Registros.}
 {279}{}{Salir.}
-{280}{}{Authorization required. Please enter password. }
+{280}{}{Se requiere autorización. Por favor ingrese la contraseña. }
 {281}{}{[VOLVER]}
-{282}{}{[Guess password]}
-{283}{}{[Attempt to hack into it.]}
+{282}{}{[Adivinar la contraseña]}
+{283}{}{[Intento de hack en ella.]}
 {284}{}{Salir.}
-{290}{}{Incorrect. Please enter password.}
+{290}{}{Incorrecto. Por favor ingrese la contraseña.}
 {291}{}{[VOLVER]}
-{292}{}{[Guess password]}
-{293}{}{[Attempt to hack into it.]}
+{292}{}{[Adivinar la contraseña]}
+{293}{}{[Intento de hack en ella.]}
 {294}{}{Salir.}
-{300}{}{Incorrect. You are now locked out of these files. Vault-Tec apologizes for any inconvenience.}
+{300}{}{Incorrecto. Usted ahora está bloqueado fuera de estos archivos. Vault-Tec se disculpa por cualquier inconveniente.}
 {301}{}{[VOLVER]}
-{302}{}{[Attempt to hack into it.]}
+{302}{}{[Intento de hack en ella.]}
 {303}{}{Salir.}
-{310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}
-{311}{}{Run diagnostics.}
-{312}{}{Switch to keyboard input mode.}
-{313}{}{Access security footage.}
+{310}{}{[Intenta todo lo que puedas imaginar, pero usted no puede tener acceso. Con un suspiro de derrota, regresa al menú principal.]}
+{311}{}{Ejecute los diagnósticos.}
+{312}{}{Cambiar al modo de entrada del teclado.}
+{313}{}{Seguridad de acceso a material de archivo.}
 {314}{}{Salir.}
-{320}{}{Password correct. All entries but one have been removed from the system. Final entry in the Overseer's Logs is still accessible.}
-{321}{}{[After several long minutes of working your technical magic, you manage to hack your way into the Overseer's Logs. However, it seems that every entry except for the final one has been deleted.]}
-{322}{}{Alright, let's see what this Overseer had to say. [Read Log.] }
-{323}{}{Eh, whatever. [Logoff.]}
-{330}{}{This is it. Consider these my final words, as I doubt I'll live to write another entry. Oh no, the people of the Vault have spoken, and they've made it quite clear that they want my head. I knew this day would come, ever since HE managed to rile them up by doing the impossible. Sure, he saved all our lives, but he also ruined everything.}
+{320}{}{Contraseña correcta. Todas las entradas, pero uno de ellos han sido eliminados del sistema. Última entrada en el del Capataz de los Registros es todavía accesible.}
+{321}{}{[Después de varios largos minutos de trabajo técnico de su magia, te las arreglas para hack su camino en la del Capataz de los Registros. Sin embargo, parece que cada entrada, excepto al final uno se ha eliminado.]}
+{322}{}{Muy bien, vamos a ver lo que esta Supervisor tenía que decir. [Leer El Registro.] }
+{323}{}{Eh, lo que sea. [Cierre de sesión.]}
+{330}{}{Esto es. Considere estas mis últimas palabras, como dudo que voy a vivir para escribir otra entrada. Oh no, la gente de la Bóveda han hablado y lo han hecho muy claro que quieren mi cabeza. Sabía que llegaría este día, desde que SE las arregló para sacar de quicio a ellos haciendo lo imposible. Seguro, él salvó la vida de todos nosotros, pero también ha arruinado todo.}
 {331}{}{[MÁS]}
-{332}{}{Let it be known that I took little joy in exiling our "great hero", but I had no choice in the matter. His adventures in the outside world had changed him too much. He was too great a threat to the project. Had I let him remain among us, he might have uncovered the true nature of the Vaults and jeopardized the experiment. Even if he didn't, he'd at least inspire others to venture outside, which would be just as bad.}
+{332}{}{Que se sepa que me tomó poco de alegría en exiliar a nuestro "gran héroe", pero yo no tenía ninguna opción en la materia. Sus aventuras en el mundo exterior había cambiado demasiado de él. Él era una amenaza demasiado grande para el proyecto. Había dejarlo permanecer entre nosotros, podría haber descubierto la verdadera naturaleza de las Bóvedas y pone en peligro el experimento. Incluso si él no, él había al menos inspirar a otros a aventurarse fuera, que sería igual de malo.}
 {333}{}{[MÁS]}
-{334}{}{He simply had to go. There was no other option. But even that wasn't enough. No, I'm afraid the damage had already been done. I allowed his most stubborn supporters to follow him into exile, and then tried to reassert my control over those who remained. But it was no use -- I'd already been vilified. So be it. The only thing I'm guilty of is an entire lifetime of carrying out the demands of our Great Nation.}
+{334}{}{Simplemente tenía que ir. No había otra opción. Pero incluso eso no fue suficiente. No, me temo que el daño ya había sido hecho. Yo le permitió a su más rebeldes partidarios de seguir en el exilio, y luego trató de reafirmar mi control sobre aquellos que se quedaron. Pero fue sin uso -- que ya había sido condenado. Que así sea. La única cosa que soy culpable es de toda la vida de llevar a cabo las demandas de nuestra Gran Nación.}
 {335}{}{[MÁS]}
-{336}{}{My only regret is that Vault 13 is not likely to complete the social experiment. Once I've been disposed of, I feel certain the others will leave the Vault. Not right away, of course -- I've instilled too much fear in them of the outside world. But eventually, they're bound to overcome that fear. I have very little faith that Vault 13 will remained closed until 2277, as the experiment dictates.}
+{336}{}{Lo único que lamento es que el refugio 13 no es probable para completar el experimento social. Una vez que han sido eliminados, tengo la certeza de que los otros se dejan la Bóveda. No de inmediato, por supuesto, me ha inculcado mucho miedo en ellos del mundo exterior. Pero finalmente, están obligados a superar el miedo. Tengo muy poca fe en que el refugio 13 se mantuvo cerrado hasta el 2277, como el experimento dicta.}
 {337}{}{[MÁS]}
-{338}{}{I'm afraid I have failed my duty as Overseer. I can only hope that the rest of the public Vaults involved in the Societal Preservation Program have been more successful. To my superiors, who I'm certain will one day read this: forgive me. And may God bless America.}
-{339}{}{Search for any other files that contain information on "Societal Preservation Program".}
+{338}{}{Me temo que he fracasado en mi deber como Supervisor. Sólo espero que el resto del público Bóvedas que participan en la Sociedad Programa de Preservación han sido más exitosos. A mis superiores, que estoy seguro de que algún día lea esto: perdóname. Y que Dios bendiga a los estados unidos.}
+{339}{}{La búsqueda de los otros archivos que contienen información sobre "la Sociedad del Programa de Preservación".}
 {340}{}{Salir.}
-{350}{}{After hours of scouring through the computer's archives, you're unable to find anything else that mentions the Societal Preservation Program. As you give up your search, you vow never again to waste so much time staring at a computer monitor.}
+{350}{}{Después de horas de limpieza a través de la computadora los archivos, usted no puede encontrar cualquier cosa que se menciona en la Sociedad de Preservación. A medida que renunciar a su búsqueda, usted voto de no volver a gastar tanto tiempo mirando a una pantalla de ordenador.}
 {351}{}{Salir.}
-{360}{}{After hours of scouring through the computer's archives, you're able to locate a few hidden documents concerning the Societal Preservation Program. As you read over them, you uncover a rather disturbing truth about the Vaults: they were never intended to save the population of the United States.}
+{360}{}{Después de horas de limpieza a través de la computadora los archivos, usted es capaz de localizar un par ocultos los documentos relativos a la Sociedad de Preservación. Al leer sobre ellos, se descubre un perturbador de la verdad acerca de las Bóvedas: ellos nunca tuvieron la intención de salvar a la población de los Estados unidos.}
 {361}{}{[MÁS]}
-{362}{}{Incredibly, all 122 of Vault-Tec's public Vaults were part of a grand social experiment orchestrated by the US government. Only 17 of those Vaults, dubbed "control Vaults", were designed to function correctly (it seems Vault 8 was one of the lucky few). The rest were meant to have various critical flaws, so that the government could study the pre-selected occupants, and see how they react to the stresses of their situations, and how well they're able to re-colonize once their Vaults open.}
+{362}{}{Increíblemente, todos 122 de Vault-Tec público Bóvedas fueron parte de un gran experimento social orquestada por el gobierno de estados unidos. Sólo 17 de aquellas Bóvedas, apodado "el control de las Bóvedas", estaban diseñadas para funcionar correctamente (parece Bóveda 8 fue uno de los pocos afortunados). El resto fue destinado a tener varios fallos críticos, por lo que el gobierno podría estudiar la pre-seleccionado a los ocupantes, y ver cómo reaccionan a las presiones de sus situaciones, y de lo bien que son capaces de re-colonizar una vez que sus Bóvedas abiertas.}
 {363}{}{[MÁS]}
-{364}{}{It seems Vault 13's role in the experiment was to remain closed for 200 years to test the effects of prolonged isolation. Apparently, the breaking down of the water chip was un-intended, and forced the Overseer to improvise by selecting your grandfather to go out and fetch a new chip. After some more digging around, you manage to find descriptions of some of other Vault experiments.}
+{364}{}{Parece Vault 13 del papel en el experimento se llevó a permanecer cerrado durante 200 años para probar los efectos del aislamiento prolongado. Al parecer, la ruptura del chip de agua fue de la onu-la intención, y obligó al obispo a improvisar la selección de su abuelo para salir y buscar un nuevo chip. Después de algo más de cavar alrededor, te las arreglas para encontrar las descripciones de algunos de los otros Bóveda de experimentos.}
 {365}{}{[MÁS]}
-{366}{}{Vault 12's door was designed never to close, so that the assholes behind this experiment could "study the effects of radiation on the selected population". If you recall the legend correctly, Vault 12 was located under the ghoul filled city of Necropolis, where the Vault Dweller finally found the water chip. It seems quite likely that the ghouls were the result of this experiment.}
+{366}{}{Bóveda 12 de la puerta fue diseñado nunca para cerrar, de modo que los pendejos detrás de este experimento podría "estudio de los efectos de la radiación sobre la población seleccionada". Si usted recuerda la leyenda correctamente, la Bóveda de 12 años se encuentra bajo el necrófago llenado de la ciudad de la Necrópolis, donde el Vault Dweller, finalmente, encontró el chip de agua. Parece bastante probable que los demonios eran el resultado de este experimento.}
 {367}{}{[MÁS]}
-{368}{}{Vault 15, another key location in the Vault Dweller's quest, was to be populated by people with "radically diverse ideologies" that would be sealed in the Vault together for 50 years. Vault 27 was to be purposely overcrowded with 2,000 people -- double the maximum capacity. That couldn't have been pretty. Vault 29 was to be populated only by those under the age of sixteen, with their parents "purposely redirected to other Vaults".}
+{368}{}{Bóveda de 15, otro punto clave en el Vault Dweller s quest, fue poblada por gente con "radicalmente diversas ideologías" que sería sellado en la Bóveda juntos por 50 años. Bóveda 27 fue a propósito de hacinamiento, con 2.000 personas-el doble de la capacidad máxima. Que no podía haber sido bastante. Bóveda 29 fue poblada sólo por aquellos bajo la edad de dieciséis años, con sus padres, "a propósito redirige a otra de las Bóvedas".}
 {369}{}{[MÁS]}
-{370}{}{Vault 34's experiment involved an armory overstocked with weapons and ammo, and, of course, not provided with a lock. How pleasant. Vault 36 suffered from food extruders that were designed to produce only "a thin, watery gruel", while Vault 42 was outfitted only with dim lighting--no light bulbs of over 40 watts were provided.}
+{370}{}{Bóveda 34 del experimento implicó una armería abastecidos con armas y munición, y, por supuesto, no siempre con una cerradura. De lo agradable. Bóveda de 36 sufrido a partir de los alimentos extrusoras que fueron diseñadas para producir sólo "una fina y acuosa de gachas", mientras que la Bóveda 42 fue equipado sólo con una luz tenue,--no hay bombillas de luz de más de 40 watts fueron proporcionados.}
 {371}{}{[MÁS]}
-{372}{}{Vault 53's equipment was designed to break down every few months. While repairable, the constant breakdowns were meant to test the stress of the inhabitants. You wonder how many expert mechanics and technicians that Vault produced. Vault 55 would have all its entertainment tapes removed, while Vault 56 would have all its entertainment tapes removed, with the exception of one featuring a particularly bad comic actor.}
+{372}{}{Bóveda 53 del equipo fue diseñado para romper cada pocos meses. Mientras que se puede reparar, la constante de averías se quiere probar la tensión de los habitantes. Te pregunto, ¿cuántos mecánicos expertos y los técnicos que se Bóveda producido. Bóveda de 55 tendría todas sus cintas de entretenimiento eliminados, mientras que la Bóveda 56 tendría todas sus cintas de entretenimiento eliminado, con la excepción de uno con un mal actor cómico.}
 {373}{}{[MÁS]}
-{374}{}{Vault 68 was to be occupied by 999 males and only one female. You can only imagine the horrors that took place there... Vault 69, on the other hand, was to be occupied by 999 females and only one male... interesting. Vault 70's jumpsuit extruders were designed to fail after 6 months. And finally, Vault 106 was designed so that 10 days after being sealed, it would begin "releasing psychoactive drugs into the air filtration system".}
+{374}{}{Bóveda 68 iba a ser ocupado por 999 hombres y sólo una mujer. Sólo se puede imaginar los horrores que tuvieron lugar allí... Vault 69, por otro lado, iba a ser ocupado por 999 mujeres y sólo un macho... interesante. Bóveda de los años 70 mono extrusoras fueron diseñados para fallar después de 6 meses. Y por último, la Bóveda de 106 fue diseñado de tal manera que 10 días después de ser sellado, comenzarían a "la liberación de las drogas psicoactivas en el sistema de filtración de aire".}
 {375}{}{Salir.}
-{500}{}{You learn about the Vault Experiments and the roles of the various Vaults.}
-{510}{}{You learn about the history of Vault 13 and the Overseer's role in the Vault Experiments.}
-{520}{}{I'm sorry, I did not understand that.}
+{500}{}{Usted aprenderá acerca de la Bóveda de los Experimentos y de las funciones de los diferentes Bóvedas.}
+{510}{}{Usted aprenderá acerca de la historia de la Bóveda 13 y el papel del Supervisor en la Bóveda de los Experimentos.}
+{520}{}{Lo siento, no he entendido eso.}
 {521}{}{Salir.}
-{2541}{}{Door thickness: 4 yards, steel
-                                       Earth coverage: 3,200,000 tons of soil, at 200 feet
-           Computer control system: Think machine
-                          Primary power supply: Geo-thermal
-                                Secondary power supply: General Atomics Nuclear Power backup systems
-                                                         Power requirements: 3.98mkw/day
-                                 Stores: Complete construction equipment, hydro-agricultural farms, water purification system from underground river,
- defensive weaponry to equip 10 men, communication, social and entertainment files (for total duration)}
+{2541}{}{Espesor de la puerta: de 4 m, de acero
+ La tierra de cobertura: a 3.200.000 toneladas de tierra, a 200 pies
+ Equipo de sistema de control: máquina de Pensar
+ Fuente de alimentación primaria: Geo-térmica
+ Fuente secundaria de energía: General Atomics de Energía Nuclear de sistemas de copia de seguridad
+ Requisitos de alimentación: 3.98 mkw/día
+ Tiendas: Completa de equipos de construcción, hidro-agrícola, granjas, sistema de purificación de agua de río subterráneo,
+ armamento defensivo para equipar a 10 hombres, de comunicación, sociales y de entretenimiento archivos (para el total de duración)}

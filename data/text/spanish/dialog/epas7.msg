@@ -1,4 +1,4 @@
-{100}{}{There is a foul smell in the air that makes your lungs burn in pain.}
-{101}{}{I'd better find a gas mask.}
-{102}{}{It sounds like those fans on the right wall are clogged.}
-{103}{}{It sounds like those fans at the far end of the room are clogged.}
+{100}{}{Hay un olor en el aire y hace que tus pulmones se queman en el dolor.}
+{101}{}{Creo que es mejor que encontrar una máscara de gas.}
+{102}{}{Suena como los fans en la pared de la derecha están obstruidos.}
+{103}{}{Suena como los aficionados en el otro extremo de la habitación están obstruidos.}

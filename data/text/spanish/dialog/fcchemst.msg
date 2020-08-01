@@ -5,7 +5,7 @@
 {104}{}{¿Qué?}
 {105}{}{¿Quién eres TÚ?}
 {106}{}{Soy }
-{107}{}{Nadie que te importe.}
+{107}{}{No es asunto tuyo.}
 {108}{}{Nada. Ya me voy.}
 {109}{}{No puedes estar aquí si eres un imbécil. Márchate corriendo, antes de que llame a los guardias.}
 {110}{}{Realmente no me entiendes, ¿verdad? Tal vez entenderás a la guardia. ¡Guardias! ¡Un intruso!}
@@ -31,7 +31,7 @@
 {130}{}{En realidad, sí tiene interés para mí. Me gustaría conseguir combustible para el petrolero Poseidon.}
 {131}{}{Apuesto a que sería de interés para los Hubologistas. Ellos quieren combustible.}
 {132}{}{Aún no. Pero volveré.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
+{133}{}{Quieren combustible, ¿no? Bueno, como irritantes como son, ellos tienen sus usos. Yo he oído que han desarrollado un proceso en el que hacen un traje de armadura de poder aún más invencible. Si van a actualizar, como un traje de armadura para mí, voy a pasar el combustible a lo largo de la tubería. Supongo que es por su juguete nave espacial. Es el llamado Crockett que usted desea hablar con el.}
 {134}{}{Lo haré.}
 {135}{}{No puedo prometerte nada.}
 {136}{}{Tengo una aquí mismo.}

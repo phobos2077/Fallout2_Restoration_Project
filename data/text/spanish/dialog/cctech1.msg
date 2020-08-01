@@ -13,7 +13,7 @@
 {112}{}{¿Donde hay base p-principal de Enclave?}
 {113}{}{Busco planos de v-vertibird. ¿Dónde encuentro yo?}
 {117}{}{Tengo que marchar.}
-{118}{}{¿Qué es este lugar?}
+{118}{}{¿Qué lugar es éste?}
 {119}{}{¿Cuál es tu trabajo aquí?}
 {120}{}{¿Dónde está la base principal del Enclave?}
 {121}{}{Estoy buscando los planos de los vertibird. ¿Dónde los guardan?}
@@ -34,7 +34,7 @@
 {139}{}{Gracias.}
 {140}{}{Gracias.}
 {141}{}{Pues deberían estar en Mantenimiento, justo al lado de la torre de control aéreo.}
-{142}{}{De acuerdo.}
+{142}{}{Vale.}
 {143}{}{Entiendo.}
 {153}{}{¿Estás loco? ¿Cómo se te ocurre estar por aquí sin uniforme? ¡Rápido, vístete!}
 {154}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}

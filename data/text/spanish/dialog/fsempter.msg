@@ -35,7 +35,7 @@
 {134}{}{El lanzamiento espacial Hubologista tiene un 95% de probabilidades de fallo. Factores: Sin combustible, sellado inadecuado, escaso liderazgo, falta de iniciativa.}
 {135}{}{15% de probabilidad de que el designado como "Elegido" tenga éxito en su tarea.}
 {136}{}{Los datos indican que el "Enclave" es más poderoso de lo que se pensaba con anterioridad; no acercarse.}
-{137}{}{Chances of submarine reappearing in this game: 100%}
+{137}{}{Posibilidades de submarino reaparece en este juego: 100%}
 {138}{}{0% de posibilidad de eliminar infestación de criaturas en petrolero sin ayuda externa. Procesando conveniencia de aportar asistencia.}
 {139}{}{Datos: Petrolero Poseidon incapaz de viajar. Se requieren más datos.}
 {140}{}{No procesado. Se requieren datos.}
@@ -122,219 +122,219 @@
 {221}{}{¿Qué deseas localizar?}
 {222}{}{Los pobladores de mi hogar.}
 {223}{}{97% de probabilidad agregada: Pobladores localizados en las coordenadas actuales del complejo del Enclave.}
-{230}{}{[The screen flashes for a second before switching to a monochromatic display filled with Chinese symbols.
- After a few moments, the screen clears and displays a list of contents. Most of the files are ancient and corrupted,
- but there are several that seem to be still intact.]}
-{231}{}{People's Liberation Army Navy                                       Emperor v. 4.01 Access Terminal
-                                    Please make a selection:}
-{232}{}{Submarine status}
-{233}{}{Chinese Intelligence Network}
+{230}{}{[La pantalla parpadea durante un segundo antes de cambiar a una pantalla monocromática lleno de símbolos Chinos.
+ Después de unos momentos, se borra la pantalla y muestra una lista de contenido. La mayoría de los archivos antiguos y corruptos,
+ pero hay varios que parecen ser todavía intacta.]}
+{231}{}{Ejército de Liberación del pueblo de la Marina Emperador v. 4.01 Terminal de Acceso
+ Por favor, hacer una selección:}
+{232}{}{Submarino de estado}
+{233}{}{Los Servicios De Inteligencia Chinos De La Red}
 {234}{}{Comlinks}
-{235}{}{Personnel logs}
-{236}{}{::back::}
-{240}{}{Name: Shi-Huang-Ti                                                     Class: Type 088 Nuclear-powered Ballistic
- Missile Submarine   Armament: Eight JL-3 nuclear ballistic missiles
-                  Launched: 8th August 2068                                         Commissioned: 18th April 2069
-                                       Captain: Admiral Class AAAA Ye Li
-                                Crew: 15 officers, 28 petty officers, 27 enlisted, 16 civilian technicians}
-{241}{}{Read on.}
-{250}{}{Service:                                                               2069 - 2071: Chinese territorial
- waters patrol              2071 - 2077: Combat patrol in the Alaskan and Pacific theatres of operations
-                                            October 2077: Combat mission in the Californian theatre of operations.
- Mission outline R.}
-{251}{}{Read on.}
-{260}{}{Current status:
-                                                     Submarine damaged beyond repair. Mainframe removed from vessel and
- relocated. Ship refitted as stationary defensive structure two miles NNE of San Francisco harbor.}
-{261}{}{What was that about combat patrols?}
-{262}{}{Read more about Mission Outline R.}
-{263}{}{Stationary defensive structure sounded interesting.}
-{264}{}{::back::}
-{270}{}{Upon request made by the Alaskan Frontline commander, General Jingwei, the Shi-Huang-Ti was transferred to the
- Alaskan/Pacific theatre of operations to intercept American convoys in open waters. Under the command of Rear Admiral
- Ye Li, she has sunk 9 freighters and 4 warships, damaging 18 more craft and putting a significant strain on enemy
- supply lines.}
-{271}{}{Read on.}
-{275}{}{Admiral Ye Li has also been credited by the People's Liberation Army Navy as leading to the sinking of USS
- Ebon Atoll by an American submarine, USS Interference.}
-{276}{}{::back::}
-{280}{}{2220, May : Poseidon Marine Vessel Valdez arrives in port, manned by a crew equipped with unknown-type powered
- infantry armor. The ship is disabled and infested with mutants.
-                                                                  2220, June: Following consults with the Emperor, Chiang Lee
- dictates that the Shi-Huang-Ti be reactivated and transformed into a defensive installation against further naval threats.
-                                                           2220, July: The submarine is reactivated. Emergency power
- had to be provided to power it up.                                  2231, May: The emergency generator dies. Ken Lee orders
- an ElectroBox generator to be wired into the power system to keep powering the submarine.
-                                     2238, August: A Neptune Waveskimmer motorboat is restored and transferred to the
- submarine maintenance crew.}
-{281}{}{Hmm, let's see if I can find something more on that maintenance crew...}
-{282}{}{::back::}
-{290}{}{[Bingo! After a few minutes of fiddling with commands, you manage to pull up a small text file concerning the
- generator on the submarine. It seems that regular trips are needed to refuel and maintain the generator. The file also
- lists the current maintenance crew roster.]}
-{291}{}{Submarine maintenance crew (2241 onwards): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
-{292}{}{::add myself to maintenance crew roster::}
-{293}{}{::back::}
-{300}{}{[With a few quick keystrokes, you become a part of the submarine maintenance crew. A list of passwords for
- the motor boat guard is now accessible.]}
-{301}{}{::download password list to PIP-Boy::}
-{310}{}{[You plug the PIP-Boy into one of the access ports. After a moment, you have an up-to-date list of passwords
- for the next year. Talk about security.]}
-{311}{}{::back::}
-{320}{}{You're a fully fledged Shi submarine technician now.}
-{325}{}{Error. Command Code Chart required. Please insert the correct chart.}
-{330}{}{[Thanks to the command code chart you retrieved from the sub, you are able to access restricted files on the
- Emperor's drives]}
-{331}{}{Command code recognized. Security restrictions lifted. Chinese Intelligence Network initialized..
+{235}{}{El personal de los registros de}
+{236}{}{::volver::}
+{240}{}{Nombre: Shi-Huang-Ti de Clase: Tipo 088 Nuclear-powered Balísticos
+ Los misiles Submarinos Armamento: Ocho JL-3 misiles balísticos nucleares
+ Lanzado: 8 de agosto de 2068 Encargado: 18 de abril de 2069
+ Capitán: el Almirante de la Clase AAAA Ye Li
+ Tripulación: 15 oficiales, 28 de suboficiales, 27 de alistados, de 16 civiles técnicos}
+{241}{}{Leer en.}
+{250}{}{Servicio: 2069 - 2071: Chino territorial
+ las aguas de la patrulla 2071 - 2077: el Combate de la patrulla en la de Alaska y el Pacífico teatros de operaciones
+ De octubre de 2077: la misión de Combate en el Californiano teatro de operaciones.
+ Misión esquema R.}
+{251}{}{Leer en.}
+{260}{}{Estado actual:
+ Submarino dañado más allá de la reparación. Mainframe quitado de la caja y
+ reubicados. Nave habilitada como estacionario estructura defensiva de dos millas al NNE de puerto de San Francisco.}
+{261}{}{Lo que era acerca de combate de las patrullas?}
+{262}{}{Leer más sobre la Misión de Contorno R.}
+{263}{}{Estacionaria estructura defensiva parecía interesante.}
+{264}{}{::volver::}
+{270}{}{Tras la petición hecha por la primera línea de Alaska comandante, el General de Urdimbre, el Shi-Huang-Ti fue trasladado a la
+ Alaska/Pacífico teatro de operaciones para interceptar los convoyes Americanos en aguas abiertas. Bajo el mando del contralmirante
+ Ye Li, ella se ha hundido el 9 de cargueros y 4 buques de guerra, dañando 18 más artesanal y poniendo una presión significativa sobre el enemigo
+ las líneas de suministro.}
+{271}{}{Leer en.}
+{275}{}{El almirante Ye Li también ha sido acreditado por el Ejército de Liberación del Pueblo de la Marina como líder en el hundimiento del USS
+ De ébano Atolón por un submarino Americano, USS Interferencia.}
+{276}{}{::volver::}
+{280}{}{2220, Puede : Poseidon Buque Marino Valdez llega a puerto, formada por un equipo equipado con desconocidos-tipo powered
+ armadura de infantería. La nave está deshabilitado y infestada de mutantes.
+ 2220, de junio: después de la consulta con el Emperador, Chiang Lee
+ dicta que el Shi-Huang-Ti ser reactivado y se transforma en una defensiva de la instalación contra de la naval de amenazas.
+ 2220, julio: El submarino se reactiva. Alimentación de emergencia
+ tenía que ser proporcionada a la fuerza. 2231, Puede: El generador de emergencia muere. Ken Lee órdenes de
+ un ElectroBox generador de estar conectados en el sistema de potencia para mantener encendido el submarino.
+ 2238, de agosto: Un Neptuno Waveskimmer lancha es restaurado y trasladado a la
+ submarino equipo de mantenimiento.}
+{281}{}{Hmm, vamos a ver si puedo encontrar algo más en el mantenimiento de la tripulación...}
+{282}{}{::volver::}
+{290}{}{[¡Bingo! Después de unos minutos de tocar el violín con los comandos, te las arreglas para tirar de un pequeño archivo de texto relativos a la
+ generador en el submarino. Parece que los viajes regulares son necesarios para abastecerse de combustible y mantener el generador. El archivo también
+ listas el actual equipo de mantenimiento de la lista.]}
+{291}{}{Submarino de mantenimiento de la tripulación (2241 adelante): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
+{292}{}{::añadir a mí mismo para el mantenimiento de la tripulación de la lista::}
+{293}{}{::volver::}
+{300}{}{[Con un par de rápidas pulsaciones de teclas, se convierten en una parte de el submarino equipo de mantenimiento. Una lista de contraseñas para
+ la lancha de la guardia, es ahora accesible.]}
+{301}{}{::descargar lista de contraseñas para el PIP-Boy::}
+{310}{}{[Conecta el PIP-Boy en uno de los puertos de acceso. Después de un momento, usted tiene una actualizada lista de contraseñas
+ para el próximo año. Hablar de la seguridad.]}
+{311}{}{::volver::}
+{320}{}{Eres un completo Shi submarino técnico de ahora.}
+{325}{}{Error. Código de comando Gráfico requerido. Por favor, inserte el correcto gráfico.}
+{330}{}{[Gracias a el código de comando gráfico se ha recuperado de la sub, usted es capaz de tener el acceso restringido a los archivos en el
+ Del emperador unidades]}
+{331}{}{Código de comando reconocido. Restricciones de seguridad elevado. Los servicios de Inteligencia chinos de la Red se inicializa..
 ...
 ...
-Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived data.
- [It seems most of the archives are corrupted. However, the mainframe manages to retrieve several intact files]}
-{332}{}{Intelligence report 2069-11-5}
-{333}{}{Intelligence report 2072-4-18}
-{334}{}{Intelligence report 2073-12-4}
-{335}{}{Intelligence report 2074-9-17}
-{336}{}{Intelligence report 2075-10-17}
-{337}{}{Intelligence report 2076-8-12}
-{338}{}{Intelligence report 2077-10-12}
-{339}{}{Intelligence report 2077-10-23}
+Advertencia! Ascendente a CIN el centro de Pekín servidor no esté disponible. La recuperación de los datos archivados.
+ [Parece que la mayoría de los archivos están dañados. Sin embargo, la unidad central se las arregla para recuperar varios intactos los archivos]}
+{332}{}{Informe de inteligencia 2069-11-5}
+{333}{}{Informe de inteligencia 2072-4-18}
+{334}{}{Informe de inteligencia 2073-12-4}
+{335}{}{Informe de inteligencia 2074-9-17}
+{336}{}{Informe de inteligencia 2075-10-17}
+{337}{}{Informe de inteligencia 2076-8-12}
+{338}{}{Informe de inteligencia 2077-10-12}
+{339}{}{Informe de inteligencia 2077-10-23}
 {340}{}{}
-{341}{}{::more::}
-{342}{}{::back::}
-{345}{}{From: Counterintelligence Division
-                                  Rioting in Tibet and neighboring provinces continues, threatening the construction
- of the Eastern Dragon satcom complex. President Xin orders military intervention against the populace. Following
- significant insurgent casualties, the province is restored to Chinese control and the remaining insurgents are resettled.}
-{346}{}{::back::}
-{350}{}{From: Biochemical Warfare Division
-                          Outbreak of epidemic in the Soviet Union threatens northern protectorates of the PRC. BioChem
- WD advises quarantine andisolation of endangered territories. Potential resettlement location for insurgents, terrorists
- and undesirables and harvesting area for new strains of biological weapons. Plan submitted to Party for approval.}
-{351}{}{::back::}
-{360}{}{From: Alaskan Front Commander, General Jingwei
-                Strain #23-110 deployed against American troops, demoralizing and weakening their operational
- strength. Requesting additional troops and Battlemaster armor for final push against the entrenched American forces at
- the borders of Alaska.}
-{361}{}{::back::}
-{370}{}{From: Central Command
-                                           American units deployed to mainland after evading our blockade of Japan.
- Alaskan forces are to continue operations. Military forces in annexed territories are to augment the defense of home front.
- Command authorizes the use of biological and chemical weapons on home soil - the foreign devils must be exterminated!}
-{371}{}{::back::}
-{380}{}{From: Red Dragon
-                                                     Insurgency operations and terror strikes highly effective in
- demoralizing the American population. Support for military operations overseas wanes as riots and protests are incited
- across the American soil. Recommend strikes against designated research and military targets across the United States,
- priority: Raven Rock, West Tek, Mariposa, Boulder, Institute.}
-{381}{}{::back::}
-{390}{}{From: Central Command
-                                              American military superiority now clear - T-51b power armor units deployed
- to mainland. The PLA has no appropriate counter and is losing ground daily. Chairman Cheng demands that Beijing stays in
- Chinese hands - fortification is underway. Command orders intensification of guerilla operations behind enemy lines.
- Operatives in all American Commonwealth are to prepare for staging insurgencies. Weapon and equipment shipments dispatched.
- Priority target: Washington, DC, Columbia Commonwealth}
-{391}{}{::back::}
-{400}{}{From: Party Chairman Cheng
-                                         With the Alaskan Front's collapse and increasingly strong American presence on
- Chinese soil defeat is imminent. According to resolution 636860 of the Communist Party of China, I am hereby ordering all
- loyal military forces to commence nuclear operations against the Americans, mission outline R. Priority targets are
- contained within operational directives. May our souls return to this Earth.}
-{401}{}{::back::}
-{410}{}{From: Central Command                                            All forces in position. Transmitting final confirmation
- codes. Operation Youmíng is go.}
-{411}{}{::back::}
-{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
-                                                CIN Beijing...		offline
-                                                   SSC Naval Yard...	offline
-                                              SCA Eastern Dragon..	offline
-                                        Warning: No connection to external serves could be made.}
-{421}{}{That's disappointing...}
-{430}{}{Scanning local drives...}
+{341}{}{::más: más:}
+{342}{}{::volver::}
+{345}{}{De: De La División De Contrainteligencia
+ Los disturbios en el Tíbet y en provincias vecinas continúa amenazando la construcción
+ de la Eastern Dragon satcom complejo. El presidente Xin órdenes de la intervención militar contra la población. Siguiente
+ significativo de la insurgencia de las víctimas, la provincia de que se restauran Chino de control y el resto de los insurgentes son reubicados.}
+{346}{}{::volver::}
+{350}{}{De: Bioquímica De Guerra De La División De
+ Brote de la epidemia en la Unión Soviética amenaza norte de protectorados de la república popular china. BioChem
+ WD asesora de cuarentena andisolation en peligro de extinción territorios. Potencial lugar de la reubicación de los insurgentes, terroristas
+ y a los indeseables y área de aprovechamiento de nuevas cepas de armas biológicas. Plan presentado a las Partes para su aprobación.}
+{351}{}{::volver::}
+{360}{}{De: Alaska Frente A Comandante, El General De Urdimbre
+ La cepa #23-110 desplegado contra las tropas Estadounidenses, desmoralizar y debilitar su operativa
+ fuerza. Solicitud adicional de tropas y Battlemaster armadura para el empujón final para el arraigo de las fuerzas Estadounidenses en
+ las fronteras de Alaska.}
+{361}{}{::volver::}
+{370}{}{De: Comando Central
+ American unidades desplegadas a la península después de la evasión de nuestro bloqueo de Japón.
+ Alaska fuerzas para continuar las operaciones. Las fuerzas militares en territorios anexionados son aumentar la defensa de la casa del frente.
+ Comando autoriza el uso de armas biológicas y químicas en su tierra natal - el extranjero demonios deben ser exterminados!}
+{371}{}{::volver::}
+{380}{}{De: Dragón Rojo
+ La insurgencia de las operaciones y acciones terroristas altamente eficaz en la
+ desmoralizar a la población Americana. Apoyo para las operaciones militares en el extranjero se desvanece como los disturbios y las protestas son incitados
+ todo el suelo Americano. Recomendamos huelgas contra designado de investigación y los objetivos militares de los Estados unidos,
+ prioridad: Raven Rock, Oeste Tek, Mariposa, Boulder, Instituto.}
+{381}{}{::volver::}
+{390}{}{De: Comando Central
+ American superioridad militar ahora claro - T-51b armadura de poder unidades desplegadas
+ a la península. El PLA no tiene contador apropiado y está perdiendo terreno a diario. El presidente de Cheng demandas que Pekín mantiene en
+ Chino manos de fortificación está en marcha. Las órdenes de mando de la intensificación de la guerrilla de las operaciones tras las líneas enemigas.
+ Cooperativas en todo el American Commonwealth para prepararse para la celebración de la insurgencia. Las armas y el equipamiento de los envíos despachados.
+ Objetivo prioritario: Washington, DC, Colombia Ela}
+{391}{}{::volver::}
+{400}{}{De: Presidente Del Partido Cheng
+ Con el de Alaska Frente del colapso y cada vez más fuerte presencia Estadounidense en
+ Suelo chino derrota es inminente. De acuerdo a la resolución 636860 del Partido Comunista de China, estoy presente, ordenando a todos
+ leales de las fuerzas militares para comenzar las operaciones nucleares en contra de los Norteamericanos, la misión esquema R. los objetivos Prioritarios son
+ contenida dentro de las directrices operativas. Puede que nuestras almas vuelvan a la Tierra.}
+{401}{}{::volver::}
+{410}{}{De: centro de Comando de Todas las fuerzas en la posición. La transmisión de confirmación final
+ códigos. Operación Youmíng se vaya.}
+{411}{}{::volver::}
+{420}{}{El escaneo de medios de comunicación... PLA CentCom... sin conexión
+ CIN de Beijing... sin conexión
+ SSC Naval Yard... sin conexión
+ SCA Eastern Dragon.. sin conexión
+ Advertencia: No hay conexión con el exterior sirve podría ser hecho.}
+{421}{}{Que decepcionante...}
+{430}{}{Escaneado de unidades locales...}
 {431}{}{[CONTINUAR]}
-{440}{}{One accessible file found. [It seems most of the archives are corrupted. However, the mainframe manages to
- retrieve an intact file.]}
-{441}{}{Personal log: Li Ye, Admiral, Captain}
-{450}{}{2077-10-12: We are losing this war. I just received confirmation that the Party has finally decided to go
- through with plan R. Madness! How will nuclear war give us victory? Nobody wins if we unleash this kind of power. But
- I am a soldier and I will follow my orders through to the end.}
-{451}{}{Read on.}
-{452}{}{::back::}
-{460}{}{2077-10-19: The crew is becoming restless. Wong, excited, told the officers about plan R and they were ecstatic.
- I cannot blame them, even though I disagree: Wong lost his sons in Anchorage while Da Chiang's brother was captured off
- the coast of Maryland.}
-{461}{}{Read on.}
-{462}{}{::back::}
-{470}{}{2077-10-21: We have completed final preparations for launch. All that is left is inputting the confirmation codes.
- It has been an honor to serve with these men.}
-{471}{}{Read on.}
-{472}{}{::back::}
-{480}{}{2077-10-23: We have received confirmation codes and will be in position in fifteen minutes. This is probably my
- last entry in this log, so let me state that I do not condone this kind of atrocity. War is fought between soldiers, not
- bombs and civilians. If anyone survives, I hope they will forgive us.}
-{481}{}{Read on.}
-{482}{}{::back::}
-{490}{}{2077-10-29: Damn those maniacs! I thought we were the only group ordered to engage the Los Angeles sector, but I
- was wrong. They launched our most powerful ICBM at it. I cannot fathom why it wasn't sent at Washington, but that's moot.
- We are currently drifting in the ocean. The Emperor is dead, navigation is busted and it seems this is going to be our
- grave.}
-{491}{}{Read on.}
-{492}{}{::back::}
-{500}{}{2077-11-04: We've been adrift for several days now. Jing managed to restore some of the power to our onboard
- systems, so we should have enough oxygen to last several weeks. I am more concerned about food and water - our supplies
- are low and there's not enough of them to go around. The crew is getting restless.}
-{501}{}{Read on.}
-{502}{}{::back::}
-{510}{}{2077-11-08: The Emperor is back on line, but barely. We still have no navigation and the crew is on the verge of
- mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
- I fear we will kill each other.}
-{511}{}{Read on.}
-{512}{}{::back::}
-{520}{}{2077-11-12: Finally! We ran aground in the San Francisco bay. The sailors were rejoicing until we cut open the
- hatches. The city is a wreck, ravaged by firestorms and fallout. I sent out shore parties to find a suitable camp site.
- So far, none have reported such a location. }
-{521}{}{Read on.}
-{522}{}{::back::}
-{530}{}{2077-11-16: Lao's team found an inhabitable neighborhood. The denizens have abandoned it, after the air raid
- alarm it seems, but it has suffered little damage. The most ironic thing? It's San Francisco's Chinatown, still surrounded
- by American checkpoints and fortified barracks. If only they knew...}
-{531}{}{Read on.}
-{532}{}{::back::}
-{540}{}{2077-11-24: We made contact with Red Dragon. The north America Black Ghost command has been trudging westwards
- ever since the 23rd, after they lost contact with CentCom. They're none too happy about being stuck on enemy soil, but
- we must make do.}
-{541}{}{Read on.}
-{542}{}{::back::}
-{550}{}{2077-12-06: The Shi-Huang-Ti away camp is set up and functioning. Ghosts are running scavenging operations in
- the surrounding areas and rounding up any supplies they come across. I gave them strict orders not to engage American
- survivors without provocation - we cannot antagonize potential allies.}
-{551}{}{Read on.}
-{552}{}{::back::}
-{560}{}{2077-12-14: An oddity - a cult by the name of Church of Hubology has somehow survived the devastation in a
- reinforced bunker near what remains of the Golden Gate bridge. They are harmless fanatics, but useful. Their resources,
- manpower and knowledge of the surrounding area will aid us in establishing our new home.}
-{561}{}{Read on.}
-{562}{}{::back::}
-{570}{}{2077-12-27: The basic necessities are covered. We are currently making plans to strip the submarine of electronics
- and other useful equipment - there's no point in maintaining it, since the propulsion system is beyond repair and we can
- use everything we can on site. Jing drafted plans for a reinforced structure - a 'Steel Palace' of sorts.}
-{571}{}{Read on.}
-{572}{}{::back::}
-{580}{}{2077-12-31: This is going to be my last entry in this log. I am no longer an Admiral of the People's Liberation
- Army Navy. I have a responsibility to my men and will lead them into the future. As of 2078, we are in full secession
- from China. Chairman Cheng, eat your heart out. This is Ye Li, leader of the Shi-Huang-Ti people, signing off.}
-{581}{}{::back::}
-{590}{}{Mission Outline R:                                                    Emergency nuclear warfare contingency plan
- for the People's Liberation Army in case of imminent defeat by a foreign power, accepted by the Communist Party of China
- on 11th November 2073.}
-{591}{}{Read on.}
-{600}{}{The plan includes a series of coordinated nuclear strikes against strategic targets across America, using strategic
- aircraft, nuclear missile submarines, missile delivery systems, low yield infantry nuclear weapons and other nuclear
- devices. The objective is to cripple American retaliatory capability and military capability.}
-{601}{}{Read on.}
-{610}{}{The Shi-Huang-Ti is tasked with destroying eight targets on Californian soil, including the West Tek Research
- Facility, corporate headquarters in Los Angeles and major population centers.}
-{611}{}{Read on.}
-{620}{}{In case of mutiny, betrayal or defection, the Captain is authorized to order the Emperor to take control of the
- vessel and carry out the mission.}
-{621}{}{::back::}
-{622}{}{::logoff::}
+{440}{}{Una de las accesibles archivo encontrado. [Parece que la mayoría de los archivos están dañados. Sin embargo, la unidad central se las arregla para
+ recuperar un archivo intacto.]}
+{441}{}{Personal de registro: Li Ye, Almirante, Capitán}
+{450}{}{2077-10-12: Estamos perdiendo esta guerra. Acabo de recibir la confirmación de que el Partido finalmente se ha decidido a ir
+ a través del plan R. Locura! ¿Cómo va la guerra nuclear darnos la victoria? Nadie gana si hemos de dar rienda suelta a este tipo de poder. Pero
+ Yo soy un soldado y voy a seguir mis órdenes hasta el final.}
+{451}{}{Leer en.}
+{452}{}{::volver::}
+{460}{}{2077-10-19: La tripulación se está convirtiendo inquieto. Wong, emocionado, le dijo a los oficiales acerca del plan R y ellos estaban encantados.
+ No puedo culpar a ellos, aunque no estoy de acuerdo: Wong perdido a sus hijos en Anchorage, mientras que Da Chiang hermano fue capturado fuera
+ la costa de Maryland.}
+{461}{}{Leer en.}
+{462}{}{::volver::}
+{470}{}{2077-10-21: Hemos completado los preparativos finales para el lanzamiento. Todo lo que queda es la introducción de los códigos de confirmación.
+ Ha sido un honor servir con estos hombres.}
+{471}{}{Leer en.}
+{472}{}{::volver::}
+{480}{}{2077-10-23: Hemos recibido la confirmación de códigos y va a estar en la posición en quince minutos. Este es probablemente mi
+ última entrada en este registro, de modo que permítanme decir que yo no toleramos este tipo de atrocidad. La guerra se libró entre los soldados, no
+ bombas y civiles. Si alguien sobrevive, espero que nos perdone.}
+{481}{}{Leer en.}
+{482}{}{::volver::}
+{490}{}{2077-10-29: Maldición a aquellos locos! Pensé que era el único grupo que ordenó a participar de los Ángeles del sector, pero me
+ estaba mal. Lanzaron nuestra más poderosa ICBM en ella. No puedo entender por qué no fue enviado a Washington, pero eso es discutible.
+ Actualmente estamos a la deriva en el océano. El Emperador está muerto, la navegación es arrestado y parece que esta va a ser nuestra
+ tumba.}
+{491}{}{Leer en.}
+{492}{}{::volver::}
+{500}{}{2077-11-04: Hemos estado a la deriva durante varios días. Jing logró recuperar algo de la energía a nuestros bordo
+ los sistemas, por lo que debe tener suficiente oxígeno para durar varias semanas. Estoy más preocupado por los alimentos y el agua - nuestros suministros
+ son bajos y no hay suficiente de ellos para todo. La tripulación es cada vez más inquietos.}
+{501}{}{Leer en.}
+{502}{}{::volver::}
+{510}{}{2077-11-08: El Emperador está de vuelta en línea, pero apenas. Todavía no tenemos la navegación y la tripulación está a punto de
+ motín - he tenido que parar dos marineros de golpear a Jing. La situación es grave. A menos que la superficie en los próximos días,
+ Me temo que vamos a matar unos a otros.}
+{511}{}{Leer en.}
+{512}{}{::volver::}
+{520}{}{2077-11-12: ¡por fin! Nos encalló en la bahía de San Francisco. Los marineros fueron regocijo hasta que abra la
+ las escotillas. La ciudad es un desastre, azotado por tormentas de fuego y de la lluvia radioactiva. He enviado la orilla partes para encontrar un adecuado sitio de campamento.
+ Hasta el momento, ninguno ha reportado un lugar. }
+{521}{}{Leer en.}
+{522}{}{::volver::}
+{530}{}{2077-11-16: Lao del equipo encontró un barrio habitable. Los habitantes han abandonado, después de que el aire raid
+ alarma de lo que parece, pero que ha sufrido el menor daño. La mayoría de los irónico cosa? Es el Chinatown de San Francisco, rodeado aún
+ por la American puestos de control y los cuarteles fortificados. Si sólo supieran...}
+{531}{}{Leer en.}
+{532}{}{::volver::}
+{540}{}{2077-11-24: Hemos puesto en contacto con un Dragón Rojo. La América del norte Negro comando Ghost ha sido penosamente hacia el oeste
+ desde el día 23, después de haber perdido contacto con el CentCom. Son ninguno demasiado feliz por estar atrapado en enemigo del suelo, pero
+ debemos hacer.}
+{541}{}{Leer en.}
+{542}{}{::volver::}
+{550}{}{2077-12-06: El Shi-Huang-Ti lejos del campamento está configurado y en funcionamiento. Los fantasmas están ejecutando las operaciones de borrado en
+ las zonas de los alrededores y el redondeo de los suministros que vienen a través. Yo les dio órdenes estrictas de no participar de América
+ los sobrevivientes sin provocación - no podemos antagonizar a los aliados potenciales.}
+{551}{}{Leer en.}
+{552}{}{::volver::}
+{560}{}{2077-12-14: Una rareza - culto por el nombre de Iglesia de Hubology ha sobrevivido a la devastación en un
+ reforzado bunker cerca de lo que queda del puente Golden Gate. Ellos son inofensivos fanáticos, pero útil. Sus recursos,
+ de la mano de obra y conocimiento del área que la rodea nos ayuda en el establecimiento de nuestro nuevo hogar.}
+{561}{}{Leer en.}
+{562}{}{::volver::}
+{570}{}{2077-12-27: Las necesidades básicas están cubiertas. Actualmente estamos haciendo planes para la tira de el submarino de la electrónica
+ y otros equipos útiles - no hay ningún punto en el mantenimiento, ya que el sistema de propulsión está más allá de la reparación y podemos
+ utilizar todo lo que puede en el sitio. Jing elaborado planes para reforzar la estructura de Acero de Palacio' de las clases.}
+{571}{}{Leer en.}
+{572}{}{::volver::}
+{580}{}{2077-12-31: Este va a ser mi última entrada en este registro. Yo no soy un Almirante de la Liberación del Pueblo
+ Marina De Guerra Del Ejército. Tengo una responsabilidad con mis hombres y los llevará en el futuro. Como de 2078, estamos plenamente de la secesión
+ desde China. Presidente Cheng, comer su corazón. Este es Ye Li, líder de la Shi-Huang-Ti a la gente, firmar apagado.}
+{581}{}{::volver::}
+{590}{}{La misión de Esquema R: servicios de Emergencia de la guerra nuclear, el plan de contingencia
+ para el Ejército popular de Liberación en caso de derrota inminente por una potencia extranjera, aceptada por el Partido Comunista de China
+ el 11 de noviembre de 2073.}
+{591}{}{Leer en.}
+{600}{}{El plan incluye una serie coordinada de ataques nucleares contra objetivos estratégicos a través de América, el uso estratégico de
+ aviones, misiles nucleares de los submarinos, de misiles, sistemas de entrega, el bajo rendimiento de infantería armas nucleares u otros
+ los dispositivos. El objetivo es paralizar Americana de represalia de la capacidad y la capacidad militar.}
+{601}{}{Leer en.}
+{610}{}{El Shi-Huang-Ti se encarga de la destrucción de ocho dianas en suelo Californiano, incluyendo el Oeste de Tek Investigación
+ Instalación, sede de la empresa en Los Ángeles y de los principales centros de población.}
+{611}{}{Leer en.}
+{620}{}{En caso de motín, la traición o deserción, el Capitán está autorizado para ordenar el Emperador para tomar el control de la
+ recipiente y llevar a cabo la misión.}
+{621}{}{::volver::}
+{622}{}{::cierre de sesión::}

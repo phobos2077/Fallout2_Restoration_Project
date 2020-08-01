@@ -24,7 +24,7 @@
 {123}{}{No. ¿Qué quieres decir?}
 {124}{}{¿Qué nueva tecnología has desarrollado?}
 {125}{}{Alto y claro. Hasta más ver.}
-{126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
+{126}{}{Bueno... yo *supongo* que tendrás que hacer. Es un trato. ¿Tienes la armadura para ser endurecido en usted?}
 {127}{}{Sí.}
 {128}{}{No.}
 {129}{}{Genial. Te costará 10.000 dólares, en metálico, nada de trueques. Necesito algo de equipamiento nuevo.}

@@ -1,10 +1,10 @@
-{100}{}{You see a crate.}
-{101}{}{A crate that appears to be full of stimpaks.}
-{102}{}{You see a crate full of useless fake stimpaks.}
-{200}{}{[After giving the crate a brief look-over, you determined that there's about fifty stimpaks in it, just like the merchant said.]}
-{201}{}{[Examine them further.]}
-{202}{}{[DONE.]}
-{203}{}{After examining them closely, you detect nothing unusual about the stimpaks.}
-{204}{}{[DONE.]}
-{205}{}{Upon closer inspection, these stimpaks look a bit odd to you. You take one and squirt a little of its fluid onto your palm. Upon sniffing the crimson liquid, you realize what it truly is: brahmin blood.}
-{206}{}{[DONE.]}
+{100}{}{Usted ve un cajón.}
+{101}{}{Una caja que parece estar lleno de estimulantes.}
+{102}{}{Usted ve una caja llena de falsa inútil estimulantes.}
+{200}{}{[Después de dar a la jaula de un breve vistazo, se determinó que hay cerca de cincuenta estimulantes en ello, al igual que el comerciante dijo.]}
+{201}{}{[Examinar más de ellos.]}
+{202}{}{[HECHO]}
+{203}{}{Después de examinar de cerca, usted detecta nada inusual acerca de los estimulantes.}
+{204}{}{[HECHO]}
+{205}{}{Tras una inspección más cercana, estos estimulantes parecer un poco extraña para usted. Tome uno y rociar un poco de su líquido sobre la palma de su mano. Al oler el líquido carmesí, te das cuenta de lo que verdaderamente es: brahmán de la sangre.}
+{206}{}{[HECHO]}

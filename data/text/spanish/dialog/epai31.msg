@@ -1,2 +1,2 @@
-{100}{}{You clean the goo out of the fan and the blades start turning. The air around you feels a little better.}
-{101}{}{You clean the goo out of the fan and the blades start turning. It is now safe to be in the area -- at least at this end of the room.}
+{100}{}{Limpiar la mugre de la fan y las hojas de comenzar a girar. El aire alrededor de usted se siente un poco mejor.}
+{101}{}{Limpiar la mugre de la fan y las hojas de comenzar a girar. Ahora es seguro estar en la zona-al menos en este extremo de la habitación.}

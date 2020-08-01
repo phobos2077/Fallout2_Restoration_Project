@@ -14,7 +14,7 @@
 {113}{}{¿No reconoces a El Elegido?}
 {114}{}{No.}
 {115}{}{¿Qué te importa eso a ti?}
-{116}{}{The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
+{116}{}{La razón que pido, como ves, es porque mi esposa es la que falta. No sé de donde ella es. Ella se fue hace días. Le he pedido alrededor de la ciudad, y nadie la ha visto. Puede usted encontrar a ella para mí?}
 {117}{}{¿Qué hay para mí?}
 {118}{}{Miraré por ahí. ¿Qué aspecto tiene?}
 {119}{}{No. Estoy ocupado.}
@@ -23,11 +23,11 @@
 {122}{}{No. No puedo hacerlo.}
 {123}{}{Por favor. Por favor. Mi mujer... lo es todo para mí. Por favor.}
 {124}{}{¡He dicho que no!}
-{125}{}{Fine! Fine! Just stop pestering me.}
-{126}{}{Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.}
+{125}{}{Vale. Vale, pero deja de darme la lata.}
+{126}{}{Aquí está el dinero. Ahora, por favor, por favor, por favor... buscar a mi esposa, y dime de donde ella es. Quizás ha acostado con alguien más, tal vez ella me dejó... pero necesito saber.}
 {127}{}{Vale, amigo. ¿Qué aspecto tiene?}
 {128}{}{Por supuesto. Lo haré lo mejor que pueda.}
-{129}{}{::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.}
+{129}{}{::él gemía incontrolablemente por unos momentos:: Muy bien. Vaya. Y darse cuenta de que has roto mi corazón.}
 {130}{}{Nos vemos, perdedor.}
 {131}{}{Es rubia, sexy, y tiene la mejor voz para cantar... La última vez que la vi estaba paseándose por esta zona. No le gustan los mutantes ni los necrófagos, por lo que no habrá estado cerca de uno de ellos. Nadie sabe a dónde fue. Ha desaparecido.}
 {132}{}{Eso debería ser suficiente.}
@@ -42,7 +42,7 @@
 {141}{}{¿Era una cachonda sin piernas?}
 {142}{}{Encontré un grupo de personas muertas en los túneles bajo la ciudad. Ella estaba entre ellas. Lo siento.}
 {143}{}{¿Que? ¡No! ¡Tenía unas piernas estupendas!}
-{144}{}{Oh. Right. Well, she hasn't got great legs now. She really got savaged, and her legs are OFF. She's totally dead, and she suffered before she died.}
+{144}{}{Oh. A la derecha. Bueno, ella no tiene buenas piernas ahora. Ella realmente tiene agredida, y las piernas están FUERA. Ella estaba totalmente muerto, y ella sufrió antes de morir.}
 {145}{}{Vale. Bueno, creo que la encontré en los túneles bajo la ciudad. Está muerta. Lo siento mucho.}
 {146}{}{Gracias por decírmelo. Creo que voy a llorar.}
 {147}{}{Sí, ve a llorar, nenaza perdedora.}

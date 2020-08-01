@@ -1,18 +1,18 @@
 {100}{}{Ves una computadora funcional.}
-{101}{}{This computer appears to control the nuclear bombing sitting nearby.}
-{200}{}{Welcome to PoseidoNet. This terminal controls the operations of the MK-17 Fusion Bomb. Current Status of bomb is: Deactivated.}
-{201}{}{Activate bomb.}
+{101}{}{Este equipo parece controlar el bombardeo nuclear sentado cerca de ellos.}
+{200}{}{Bienvenido a PoseidoNet. Este terminal controles de las operaciones de la MK-17 de la Fusión de la Bomba. Estado actual de la bomba es: Desactivado.}
+{201}{}{Activar la bomba.}
 {202}{}{Salir.}
-{210}{}{Activation of the bomb requires two forms of security overrides. Override 1: Red Reactor Keycard, given only to
- top U.S. Research officials. Override 2: Presidential Security Passkey, given only to the President of the United States.}
-{220}{}{Looks like I don't have all of these keycards.}
-{221}{}{Insert Red Reactor Keycard.}
-{222}{}{Keycard accepted. Security override 1 complete. Level 2 Security still activated.}
-{223}{}{Insert Presidential Security Passkey.}
-{224}{}{Looks like I am still missing a keycard.}
-{225}{}{Keycard accepted. Security override 2 complete.}
-{226}{}{Activate bomb.}
+{210}{}{La activación de la bomba que se requiere de dos formas de seguridad que prevalece. Reemplazar 1: Rojo Reactor de Tarjeta de acceso, que se da sólo a
+ la parte superior de estados UNIDOS la Investigación de los funcionarios. Reemplazar 2: la Seguridad Presidencial Clave de acceso, que se da sólo para el Presidente de los Estados unidos.}
+{220}{}{Parece que no tenemos todas estas tarjetas de acceso.}
+{221}{}{Insertar Rojo Reactor Keycard.}
+{222}{}{Tarjeta aceptados. Seguridad anular 1 completa. Nivel 2 de Seguridad todavía activado.}
+{223}{}{Insertar Presidencial De Seguridad De La Clave De Acceso.}
+{224}{}{Mira como estoy todavía falta una tarjeta de acceso.}
+{225}{}{Tarjeta aceptados. Seguridad anular 2 completa.}
+{226}{}{Activar la bomba.}
 {227}{}{Salir.}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
- T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
-{229}{}{Mother of God...}
+{228}{}{La bomba ha sido activado y que detonará en T-menos de 5 min. Error en el procedimiento de cuenta atrás. Cuenta regresiva reiterado en
+ T-minus 5 segundos. Por favor, asegúrese de que usted está a menos de 80 kilómetros de la zona de explosión. Que tengan un gran día.}
+{229}{}{Madre de Dios...}

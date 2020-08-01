@@ -19,7 +19,7 @@
 {118}{}{¿Qué tratos tienes con el señor Westin?}
 {119}{}{Necesito trabajo yo.}
 {120}{}{Sólo quiero charlar.}
-{121}{}{Uh...}
+{121}{}{Eh...}
 {122}{}{No importa.}
 {123}{}{Estoy buscando trabajo y he oído que está contratando gente.}
 {124}{}{Me gustaría charlar con el señor Westin.}
@@ -41,4 +41,4 @@
 {140}{}{Tengo algo de Ciudad Refugio para el señor Westin.}
 {141}{}{De acuerdo, entra. Pero no causes ningún problema, te estaré vigilando.}
 {142}{}{No se te permite entrar en el rancho sin una cuestión oficial.}
-{150}{}{I'm sorry, there's been an incident and no one is allowed on the property. Move along.}
+{150}{}{Lo siento, es que ha habido un incidente y no es permitido en la propiedad. Se mueven a lo largo.}

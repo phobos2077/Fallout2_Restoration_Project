@@ -1,62 +1,62 @@
 {100}{}{Ves una computadora funcional.}
-{101}{}{You see the EPA's Top Secret Research and Development Terminal.}
-{102}{}{Welcome to EPA's Top Secret Research and Development Terminal. Error initializing quick access procedure. Please
- search for something specific.}
-{103}{}{Search for anything of importance.}
+{101}{}{Ve a la EPA de alto Secreto de la Investigación y el Desarrollo de la Terminal.}
+{102}{}{Bienvenido a la EPA de alto Secreto de la Investigación y el Desarrollo de la Terminal. Error de inicialización de acceso rápido procedimiento. Por favor
+ buscar algo específico.}
+{103}{}{Búsqueda de cualquier cosa de importancia.}
 {104}{}{Desconexión.}
-{105}{}{After 30 minutes of sifting through all the files you find four of which appear useful. Please make a choice below.}
-{106}{}{Access FEV history log.}
-{107}{}{Access file on Epilepsy cure.}
-{108}{}{Keep searching.}
-{109}{}{Please make a choice below.}
-{110}{}{As tensions continued to mount between the US and China, a fear at the forefront of the minds of our military officials
- was that the Chinese would deploy biological weapons against American troops. As a result, West Tek, a major high tech
- defense contractor, was hired to develop a counter agent. This led to West Tek's research on the Pan-Immunity Virion
- Project (PVP) with the intent of creating immunity in soldiers by restructuring their DNA. During testing of PVP in 2076,
- abnormal side effects were observed in test subjects. The test animals began to grow dramatically and their brain activity
- increased.}
+{105}{}{Después de 30 minutos de tamizar a través de todos los archivos que se encuentran cuatro de los cuales parecen útiles. Por favor, hacer una elección.}
+{106}{}{Acceso FEV registro de la historia.}
+{107}{}{Archivo de acceso en la Epilepsia cura.}
+{108}{}{Seguir buscando.}
+{109}{}{Por favor, hacer una elección.}
+{110}{}{Las tensiones continuaron acumulándose entre los EE.UU. y China, un miedo a la vanguardia de las mentes de nuestros funcionarios militares
+ era que el Chino iba a desplegar armas biológicas contra las tropas Estadounidenses. Como resultado, el Oeste de Tek, una de las principales de alta tecnología
+ contratista de defensa, fue contratado para desarrollar un agente de mostrador. Esto llevó a Oeste Tek investigación sobre la Pan-Inmunidad del Virión
+ Proyecto (PVP) con la intención de crear inmunidad de los soldados por la reestructuración de su ADN. Durante las pruebas de PVP en 2076,
+ anormales efectos secundarios se observaron en los sujetos de prueba. Los animales de ensayo, comenzó a crecer dramáticamente y su actividad cerebral
+ el aumento.}
 {111}{}{[MÁS]}
-{112}{}{Seeing the potential there, the Army quickly commandeered the project and renamed it FEV: Forced Evolutionary Virus.
- Not content with mere immunity to disease, FEV would potentially turn soldiers into abnormally strong and intelligent
- "supermen". Once testing on animals reached its logical conclusion, FEV research was moved to its current location at
- the Mariposa Military Base. There, we have learned that the testing will proceed to the next level, as they begin top
- secret testing on military prisoners. We eagerly anticipate the results of these exciting experiments.}
+{112}{}{Viendo el potencial que hay, el Ejército rápidamente se apoderaron de el proyecto y le cambió el nombre FEV: Obligado Evolutivo de Virus.
+ No se contenta con la mera inmunidad a la enfermedad, FEV con el potencial de convertir a los soldados en anormalmente fuerte e inteligente
+ "superhombres". Una vez que las pruebas en animales llegado a su conclusión lógica, FEV la investigación fue trasladada a su actual ubicación en
+ la Mariposa Base Militar. Allí, hemos aprendido que la prueba va a proceder al siguiente nivel, ya que comienzan superior
+ secreto de las pruebas en prisioneros de guerra. Esperamos con ilusión los resultados de estas interesantes experimentos.}
 {113}{}{Atrás.}
-{120}{}{One of our researches, Dr. Hodkin, has made a wonderful discovery in his recent research on the way the human brain
- processes verbal responses. Apparently, by repeating a series of letters with the proper inflections, a listener can be
- cured of a number of neurological diseases, such as autism or epilepsy. Included in this log is the exact string of letters
- (and the proper inflections) used by Dr. Hodkin in his experiments. This is wonderful news and is a great beginning to
- further research into treatment for chronic neurological disorders.}
-{121}{}{This might be useful. Make note of the string and search for something else.}
-{130}{}{You find nothing more of interest.}
-{131}{}{You still find nothing more of interest.}
-{132}{}{Maybe if you search a little more, you might find something?}
-{133}{}{Maybe one more search?}
-{134}{}{After much painful searching, you come across a hidden file.}
-{135}{}{Access file labeled: Mass Fluoridation Project.}
-{136}{}{In the continued effort to make the citizens of the United States more controllable, the inclusion of sodium
- fluoride in all available drinking water is effective immediately. Long term effects in testing has resulted in
- subjects becoming more "stupid and docile." In addition, it was observed that sodium fluoride caused slight damage to
- a specific part of the brain, making it more difficult for the person affected to defend his freedom and causing the
- individual to become more docile towards authority.}
+{120}{}{Uno de nuestros investigadores, el Dr. Hodkin, ha hecho un descubrimiento maravilloso en su reciente investigación sobre la forma en que el cerebro humano
+ los procesos de las respuestas verbales. Al parecer, por la repetición de una serie de cartas con el adecuado inflexiones, un oyente puede ser
+ curado de un número de enfermedades neurológicas, tales como el autismo o la epilepsia. Incluido en este registro es la cadena exacta de letras
+ (y el buen inflexiones) utilizado por el Dr. Hodkin en sus experimentos. Esta es una noticia maravillosa y es un excelente comienzo para
+ la investigación adicional en el tratamiento de trastornos neurológicos.}
+{121}{}{Esto podría ser útil. Tome nota de la cadena y la búsqueda de algo más.}
+{130}{}{Encuentras nada más de interés.}
+{131}{}{Usted todavía encontrar nada más de interés.}
+{132}{}{Tal vez si usted busca un poco más, usted puede encontrar algo?}
+{133}{}{Tal vez uno de los más de búsqueda?}
+{134}{}{Después de mucho dolor de búsqueda, usted venir a través de un archivo oculto.}
+{135}{}{Acceso a archivo de la etiqueta: Masa de la Fluoración del Proyecto.}
+{136}{}{En el continuo esfuerzo para concienciar a los ciudadanos de los Estados unidos, más controlable, la inclusión de sodio
+ el flúor en todos disponibles de agua potable es efectiva inmediatamente. Los efectos a largo plazo en las pruebas se ha traducido en
+ los sujetos cada vez más "estúpido y dóciles". Además, se observó que el fluoruro de sodio causó daños leves a
+ una parte específica del cerebro, haciendo que sea más difícil para la persona afectada, para defender su libertad y causando la
+ persona para llegar a ser más dócil a la autoridad.}
 {137}{}{[MÁS]}
-{138}{}{In our most recent experimentation, we have chosen military official, General J. Ripper, as a subject. Initially,
- he was unaware of our intent but now seems to have caught on. He has become obsessed with the phrase "precious bodily
- fluids" and avoids drinking any substance he does not know from where it originated. He has even stopped having sexual
- intercourse as he fears that women seek "the life essence."}
+{138}{}{En nuestra más reciente de la experimentación, hemos elegido a un oficial del ejército, el General J. Ripper, como un sujeto. Inicialmente,
+ él no era consciente de nuestro intento, pero ahora parece que se han puesto. Se ha obsesionado con la frase "preciosa corporales
+ fluidos" y evita el consumo de cualquier sustancia que no sabe de dónde se originó. Incluso ha dejado de tener sexo
+ las relaciones sexuales como él los temores de que las mujeres buscan "la esencia de la vida."}
 {139}{}{Atrás.}
-{150}{}{Gender Modification.}
-{151}{}{Virus-laden Fruit Flies.}
-{160}{}{Dr. Glen Wood has achieved a new breakthrough in his research into gender modification that he claims will
- revolutionize our countries espionage efforts. With just a simple procedure, a man could become a woman, or vice versa.
- Dr. Wood has insisted that he be the first to undergo the radical transformation. Once the operation is complete, he has
- requested that he, or she, be referred to as Glenda.}
-{170}{}{The mutant fruit flies are now successfully carrying the virus. However, before we unleash them on foreign soil,
- it's been decided that we shall first expose the fruit flies to a small isolated American community, where we can monitor
- the effects outside of a lab environment. The civilian casualties that are likely to result are an unfortunate, yet
- necessary, sacrifice. Besides, any true American would be honored to give up their life for the good of our great nation.}
-{200}{}{You learn about the true intent of water fluoridation.}
+{150}{}{Género Modificación.}
+{151}{}{Cargados de Virus Moscas de la Fruta.}
+{160}{}{El Dr. Glen Madera ha logrado un nuevo avance en su investigación sobre el género de la modificación que él reclamaciones
+ revolucionar nuestros países espionaje esfuerzos. Con sólo un simple procedimiento, un hombre que podría convertirse en una mujer, o viceversa.
+ El Dr. Wood, ha insistido en que sería el primero en someterse a la transformación radical. Una vez que se complete la operación, ha
+ pidió que él, o ella, se conoce como Glenda.}
+{170}{}{Las moscas de la fruta mutantes son ahora de realizar exitosamente el virus. Sin embargo, antes de emplearlos en suelo extranjero,
+ se ha decidido que vamos a la primera exponer las moscas de la fruta a una pequeña y aislada comunidad de América, donde podemos monitor
+ los efectos fuera de un entorno de laboratorio. El número de víctimas civiles que es probable que el resultado son desafortunados, sin embargo,
+ es necesario, sacrificio. Además, cualquier verdadero Americano sería un honor dar su vida por el bien de nuestra gran nación.}
+{200}{}{Usted aprenderá acerca de la verdadera intención de la fluoración del agua.}
 {311}{}{Whirrrr....}
 {312}{}{BEEP!!}
 {313}{}{Clunk...}
-{1311}{}{Don't give up. Something is bound to be found.}
+{1311}{}{No te rindas. Algo está obligado a ser encontrado.}

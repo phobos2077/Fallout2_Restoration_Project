@@ -472,17 +472,17 @@
 {3070}{}{Sulik, ¿puedes consultar a los espíritus acerca de mí?}
 {3071}{}{Sulik, por favor, guarda tu arma.}
 {3080}{}{Tu no migo de mí. Abuelo Hueso dice yo no hablo contigo.}
-{3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
+{3081}{}{No, yo creo que es tiempo de que parte de nuestra manera de ser. Quedarme aquí con usted hermana, ella te necesita.}
 {3082}{}{Es bueno volver a casa de nuevo.}
 {3083}{}{Cuantas jóvenes doncellas para contar nuestros viajes... y qué poco tiempo.}
 {3084}{}{Nosotros necesitar hablar con el hombre de las hierbas. Dejar que el mundo flotar.}
-{3086}{}{Take care, fren.}
-{3087}{}{We and I wish you the best of luck.}
-{3088}{}{Thanks again for everything, fren.}
-{3090}{}{This here be our village. We and I go speak with our friends.}
-{3091}{}{We and I go speak with our friends again before headin out.}
+{3086}{}{Cuídate, 'migo.}
+{3087}{}{Nosotros y te deseo la mejor de las suertes.}
+{3088}{}{Gracias de nuevo por todo, fren.}
+{3090}{}{Esta aquí en nuestro pueblo. Nosotros y yo vamos a hablar con nuestros amigos.}
+{3091}{}{Nosotros y yo vamos a hablar con nuestros amigos de nuevo antes de headin a cabo.}
 {3100}{}{[MÁS]}
-{3101}{}{Where exactly is your tribe, Sulik?}
+{3101}{}{Donde es exactamente su tribu, Sulik?}
 {3102}{}{Gracias. Deja que te pregunte algo más.}
 {3103}{}{Tu también, Sulik. Cuídate.}
 {3200}{}{Si, he hablado con la señora Buckner acerca de tu deuda. Ahora sólo necesito llegar a un acuerdo con Maida. Volveré a hablar contigo después de hacerlo con ella.}

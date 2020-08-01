@@ -1,7 +1,7 @@
-{200}{}{If I tie some rope to this I could probably climb down there.}
-{201}{}{Some rope would definitely be useful here.}
+{200}{}{Si me ata una cuerda a este yo probablemente podría subir hasta allí.}
+{201}{}{Algunos cuerda sin duda sería útil aquí.}
 {300}{}{Eso debería bastar.}
-{301}{}{I already placed the rope.}
-{302}{}{You tie the rope to one of the bars of the vent and drop the rest of the rope down. You hear a thud as it hits
- the bottom.}
-{400}{}{You enter one of the EPA's ventilation systems. You can hear various insects scurrying about.}
+{301}{}{Ya he colocado la soga.}
+{302}{}{Puedes atar la cuerda a una de las barras de la rejilla de ventilación y colocar el resto de la cuerda hacia abajo. Se oye un ruido sordo como llega
+ la parte de abajo.}
+{400}{}{Entrar a uno de la EPA de los sistemas de ventilación. Usted puede escuchar a varios insectos corriendo sobre.}

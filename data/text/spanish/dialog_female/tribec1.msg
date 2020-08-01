@@ -1,266 +1,266 @@
-{100}{}{You see a warrior.}
-{101}{}{You see Krom, the Head Warrior of the tribe.}
-{102}{}{You see a giant, heavily muscled warrior. His bronze skin carries the scars of countless battles.}
-{200}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
- his smoldering blue eyes pierce into you.] I'm Krom, the head warrior of this tribe. Who are you, and what brings you here?}
-{201}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
- his smoldering blue eyes roam unabashedly over your body.] I'm Krom, the head warrior of this tribe. By the Gods, girl,
- your beauty could drive a man mad.}
+{100}{}{Usted ve a un Guerrero.}
+{101}{}{Ver Krom, el Jefe Guerrero de la tribu.}
+{102}{}{Usted ve un gigante, muy musculoso guerrero. Su piel de bronce lleva las cicatrices de innumerables batallas.}
+{200}{}{[Este sol bronceado gigante parece como si su corded músculos estaban tallados en granito. Debajo de una melena de pelo negro,
+ sus ardientes ojos azules pierce en usted.] Estoy Krom, el jefe guerrero de la tribu. Quién eres y a qué te trae por aquí?}
+{201}{}{[Este sol bronceado gigante parece como si su corded músculos estaban tallados en granito. Debajo de una melena de pelo negro,
+ sus ardientes ojos azules vagar sin tapujos sobre su cuerpo.] Estoy Krom, el jefe guerrero de la tribu. Por los Dioses, niña,
+ su belleza podría conducir a un hombre loco.}
 {202}{}{Soy }
-{203}{}{, and I'm on a holy quest to save my village, Arroyo, from certain destruction.}
+{203}{}{, y estoy en un santo búsqueda para salvar a mi pueblo, Arroyo, de una destrucción segura.}
 {204}{}{Soy }
-{205}{}{, and I've been on a holy quest to save my village, Arroyo, from certain destruction. I found what I needed though.}
-{206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
-{207}{}{[Smile.] Thank you, Krom.}
-{208}{}{Thanks, but how 'bout you keep your eyes focused up here. Alright, big guy?}
-{209}{}{Spare me the compliments, alright, creep? I have no intention of sleeping with you. Hell, I don't even want to talk
- with you. Bye.}
-{210}{}{Arroyo, yes, one of the northern tribes. But what of this "certain destruction" you speak of? Your village is well
- fortified by a large canyon, is it not? Surely, you can defend against enemy tribes or raiders.}
-{211}{}{It's not an outside force that threatens us. My tribe is dying from within. We've suffered a terrible drought
- and it seems my village is doomed to wither and die unless I can find the holy GECK in time.}
-{212}{}{It's not an outside force that threatens us. My tribe is dying from within. We've suffered a terrible drought
- and it seems my village is doomed to wither and die unless we make use of the GECK I have found.}
-{220}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate
- that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact"
- from before the Great Silence. Are you sure your tribe didn't send you on a fool's errand simply to be rid of you?}
-{221}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate
- that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact"
- from before the Great Silence. How can you be so sure the device you found will save your people?}
-{222}{}{Of course not. I successfully conquered the Temple of Trials and earned the highly respected title of the Chosen One.
- That's why I've been given this quest -- because I've proved myself to be the most qualified. Now, what have you read of the
+{205}{}{, y he sido un santo búsqueda para salvar a mi pueblo, Arroyo, de una destrucción segura. He encontrado lo que necesitaba, aunque.}
+{206}{}{Soy un simple vagabundo, nada más. Me estará pasando ahora.}
+{207}{}{[Sonrisa.] Gracias Krom.}
+{208}{}{Gracias, pero, ¿cómo 'bout a mantener los ojos enfocados hacia aquí. Muy bien, chico grande?}
+{209}{}{Me sobra con las felicitaciones, bien, creep? No tengo la intención de dormir con usted. El infierno, no quiero ni hablar
+ con usted. Bye.}
+{210}{}{Arroyo, sí, una de las tribus del norte. Pero lo de esta "destrucción" de hablar de? Su pueblo está bien
+ fortificado por un gran cañón, ¿no? Seguramente, usted puede defenderse contra tribus enemigas o de los raiders.}
+{211}{}{No se trata de una fuerza exterior que nos amenaza. Mi tribu es morir por dentro. Hemos sufrido una terrible sequía
+ y parece que mi pueblo está condenado a marchitarse y morir, a menos que pueda encontrar el santo GECK en el tiempo.}
+{212}{}{No se trata de una fuerza exterior que nos amenaza. Mi tribu es morir por dentro. Hemos sufrido una terrible sequía
+ y parece que mi pueblo está condenado a marchitarse y morir si no hacemos uso de la GECK he encontrado.}
+{220}{}{Ah, un Jardín de Eden Creation Kit, he leído acerca de ellos en los textos antiguos. [Sonríe tristemente.] Es lamentable
+ que su tribu ha caído en tiempos difíciles, pero es una tontería de poner todas sus esperanzas en encontrar un "artefacto mágico"
+ desde antes de el Gran Silencio. Está usted seguro de que su tribu no la envíe a usted en fool's errand simplemente para deshacerse de usted?}
+{221}{}{Ah, un Jardín de Eden Creation Kit, he leído acerca de ellos en los textos antiguos. [Sonríe tristemente.] Es lamentable
+ que su tribu ha caído en tiempos difíciles, pero es una tontería de poner todas sus esperanzas en encontrar un "artefacto mágico"
+ desde antes de el Gran Silencio. ¿Cómo puede usted estar tan seguro de que el dispositivo se encuentra salvará a su pueblo?}
+{222}{}{Por supuesto que no. He conquistado con éxito el Templo de los Ensayos y se ganó el muy respetado título de la Elegida.
+ Es por eso que se me ha dado esta búsqueda, porque yo he demostrado a mí mismo para ser el más calificado. Ahora, ¿qué has leído de la
  GECK?}
-{223}{}{Are you trying to insult me? I'll have you know I'm the Chosen One. Apologize, or I'll put you in your place.}
-{224}{}{I don't know for certain, but I've risked too much to stop now. I will do whatever it takes to save my tribe no
- matter how insane and dangerous it might sound.}
-{230}{}{[He dismissively shrugs his mighty shoulders.] Just another of the Old One's lazy scientific baubles, meant to
- replace the tried and true method of Man toiling against the unforgiving Earth -- forging his own existence though sweat
- and blood. But if you truly believe such a device is your only hope, then I suggest you seek out the Old One's underground Vaults.
- I've traveled far and wide, but I've never found one myself. But then, I wasn't exactly looking.}
-{231}{}{My village Elder is certain that finding the GECK is the best chance we've got. That's what I've been tasked with,
- so that's what I intend to do. Anyway, thanks for the tip.}
-{232}{}{Look for a Vault, you say? Wow, that's *great* advice, if only I had known that before. Thanks a lot for the tip,
- big guy.}
-{240}{}{[He laughs heartily, then, with a speed that seems impossible for a man of his impressive bulk, he brings his spear
- up and takes combat stance.] Chosen One, eh? If a fool like you is the best your tribe has to offer, then their doom seems
- inevitable. Now, either take up your weapon so I can split your skull, or be gone from my sight.}
-{241}{}{[He laughs heartily, then gives your rear a playful slap with a hand that feels capable of crushing boulders.] You've got a fire
- in you, girl. I like that. Perhaps we could put that fire to good use while you're here. What do you say?}
-{242}{}{Alright, fine, I'm going.}
-{243}{}{No one threatens me, asshole!}
-{244}{}{To hell with you. I'm leaving. Bye.}
-{245}{}{No one touches me, asshole! [Attack.]}
-{246}{}{If you keep your hands to yourself, then I just *might* consider helping.}
-{247}{}{That all depends. [Smile seductively.] What have you got in mind, big guy? [Wink.]}
-{250}{}{I'm well versed in the art of sarcasm. Go take your smart tongue elsewhere before I rip it from your mouth.}
-{251}{}{Alright, fine, I'm going.}
-{252}{}{No one threatens me, asshole!}
-{260}{}{You're a stubborn one. By the Gods, I think I could get to like you. [He grins and slaps you on the back with a
- hand that seems capable of crushing boulders.] While you're here, perhaps you could assist us with a thing or two. What
- do you say?}
-{261}{}{You're a stubborn one. By the Gods, I think I could get to like you, girl. [He grins and slaps you on the rear
- with a hand that seems capable of crushing boulders.] While you're here, perhaps you could assist us with a thing or two.
- What do you say?}
-{262}{}{Sure, I suppose I could help out a bit before I go. What would you like me to do?}
-{263}{}{Sorry, but I just don't have the time. In fact, I should really be moving along now. Bye.}
-{264}{}{Sure, I suppose I could help out a bit before I go. What would you like me to do?}
-{265}{}{If you keep your hands to yourself, then I just *might* consider helping.}
-{266}{}{Sorry, but I just don't have the time. In fact, I should really be moving along now. Bye.}
-{267}{}{No one touches me, asshole! [Attack.]}
-{268}{}{That all depends. [Smile seductively.] What have you got in mind, big guy? [Wink.]}
-{270}{}{[He grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.] Tell me, girl,
- what's your name, and what brings you to our village?}
-{280}{}{[Gladly. [He looks into your eyes and grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.]
- Tell me, girl, what's your name, and what brings you to our village?}
-{290}{}{[Krom gives a wolfish grin, then takes you into his mighty arms.]}
-{291}{}{[Get to it.]}
-{292}{}{Whoa! Let me go, you got the wrong idea!}
-{300}{}{To hell with you, temptress! Go bring your teasing elsewhere. I have no time to waste on you.}
-{301}{}{Yeah, well fuck you too. Bye.}
+{223}{}{Estás tratando de insultarme? Voy a tener usted sabe que yo soy el Elegido. Disculpas, o voy a poner en su lugar.}
+{224}{}{No sé de cierto, pero me he arriesgado demasiado para parar ahora. Voy a hacer lo que sea necesario para salvar a mi tribu no
+ importa cuán loco y peligroso que puede sonar.}
+{230}{}{[Él se encoge de hombros con desdén sus hombros poderosos.] Otro de la Vieja perezoso científica chucherías, destinado a
+ reemplace el método probado y verdadero de Hombre pugnando contra la implacable Tierra-la forja de su propia existencia a través del sudor
+ y la sangre. Pero si realmente crees que un dispositivo de este tipo es su única esperanza, entonces le sugiero que busque el Viejo del Bóvedas subterráneas.
+ He viajado a lo largo y ancho, pero nunca he encontrado uno mismo. Pero entonces, yo no estaba exactamente en busca.}
+{231}{}{Mi Anciano de la aldea es cierto que la búsqueda de la GECK es la mejor oportunidad que tenemos. Eso es lo que me han encargado,
+ así que eso es lo que pretendo hacer. De todos modos, gracias por la sugerencia.}
+{232}{}{Busca una Bóveda, dice usted? Wow, eso es *gran* asesoramiento, si lo hubiera sabido antes. Muchas gracias por la sugerencia,
+ chico grande.}
+{240}{}{[Ríe a carcajadas, luego, con una velocidad que parece imposible para un hombre de su impresionante a granel, él trae su lanza
+ y toma de postura de combate.] Elegido Uno, eh? Si un tonto como tú es la mejor de su tribu tiene para ofrecer, su destino parece
+ inevitable. Ahora, toma tu arma para que yo pueda dividir su cráneo, o se ha ido de delante de mis ojos.}
+{241}{}{[Ríe a carcajadas, luego le da a su parte trasera una juguetona palmada con la mano en la que se siente capaz de trituración de cantos rodados.] Tienes un fuego
+ en ti, niña. Me gusta que. Tal vez se podría poner que el fuego para un buen uso mientras que usted está aquí. ¿Qué dicen ustedes?}
+{242}{}{Bien, bien, me voy.}
+{243}{}{Nadie amenaza a mí, imbécil!}
+{244}{}{Al infierno con usted. Me estoy dejando. Bye.}
+{245}{}{Nadie me toca a mí, imbécil! [Ataque.]}
+{246}{}{Si usted mantener las manos a sí mismo, luego simplemente se *puede* considere la posibilidad de ayudar.}
+{247}{}{Que depende de todos. [Sonrisa seductora.] ¿Que tienes en mente, gran hombre? [Guiño.]}
+{250}{}{Estoy versado en el arte de sarcasmo. Ir a tomar su smart lengua a otra parte antes de arrancar de su boca.}
+{251}{}{Bien, bien, me voy.}
+{252}{}{Nadie amenaza a mí, imbécil!}
+{260}{}{Eres una obstinada. Por los Dioses, creo que podría llegar a como usted. [Él sonríe y palmadas en la espalda con un
+ la mano que parece capaz de trituración de cantos rodados.] Mientras que usted está aquí, tal vez usted podría ayudarnos con una cosa o dos. ¿
+ qué dicen ustedes?}
+{261}{}{Eres una obstinada. Por los Dioses, creo que me podría llegar a gustar de ti, chica. [Él sonríe y palmadas en el trasero
+ con una mano que parece capaz de trituración de cantos rodados.] Mientras que usted está aquí, tal vez usted podría ayudarnos con una cosa o dos.
+ ¿Qué dicen ustedes?}
+{262}{}{Seguro, supongo que me podría ayudar un poco antes de que me vaya. ¿Qué te gustaría que yo hiciera?}
+{263}{}{Lo siento, pero simplemente no tengo el tiempo. De hecho, yo debería estar moviéndose a lo largo de ahora. Bye.}
+{264}{}{Seguro, supongo que me podría ayudar un poco antes de que me vaya. ¿Qué te gustaría que yo hiciera?}
+{265}{}{Si usted mantener las manos a sí mismo, luego simplemente se *puede* considere la posibilidad de ayudar.}
+{266}{}{Lo siento, pero simplemente no tengo el tiempo. De hecho, yo debería estar moviéndose a lo largo de ahora. Bye.}
+{267}{}{Nadie me toca a mí, imbécil! [Ataque.]}
+{268}{}{Que depende de todos. [Sonrisa seductora.] ¿Que tienes en mente, gran hombre? [Guiño.]}
+{270}{}{[Él sonríe wolfishly. A pesar de sus cicatrices y aspecto rugoso, posee un robusto hermosura.] Dime, niña,
+ ¿cuál es tu nombre, y lo que trae a nuestro pueblo?}
+{280}{}{[Con mucho gusto. [Mira a los ojos y sonríe wolfishly. A pesar de sus cicatrices y aspecto rugoso, posee un robusto hermosura.]
+ Dime, niña, ¿cuál es tu nombre, y lo que trae a nuestro pueblo?}
+{290}{}{[Krom da un wolfish sonrisa, luego le toma en sus poderosos brazos.]}
+{291}{}{[Llegar a ella.]}
+{292}{}{Whoa! Déjame ir, tienes la idea equivocada!}
+{300}{}{Al infierno con usted, seductora! Ir a traer sus burlas en otros lugares. No tengo tiempo para perder el tiempo en ti.}
+{301}{}{Sí, bueno, vete a la mierda también. Bye.}
 {302}{}{Lo que sea. Adiós.}
-{310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
- Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}
-{311}{}{Thanks. You're not so bad yourself.}
+{310}{}{[Varias horas pasan en una bruma de sudor, brutal pasión. Finalmente, usted se acuesta en el piso de Krom cabaña, agotado.
+ Krom se encuentra a su lado, sus ojos devorando a los contornos de su cuerpo.] Por los Dioses, chica, eres increíble!}
+{311}{}{Gracias. No estás tan mal a ti mismo.}
 {312}{}{Por supuesto que soy. Después de todo, soy La Elegida.}
-{320}{}{[Krom gives you a strange grin.] The God's know you've done wonders for me, girl, but perhaps you'd be interested
- in assisting the rest of the tribe?}
-{321}{}{Sure, I suppose I could help out a bit. What would you like me to do?}
-{322}{}{I wish I could help, but I should really be going now. Sorry.}
-{323}{}{You want me to fuck the rest of the tribe? What kind of a girl do you think I am?}
-{330}{}{[Krom bursts into hearty laughter.] Gods no, girl! Though that might do wonders for my warrior's morale, I'd
- hate to share honey as sweet as you. No, I have a far more mundane task for you, if you're willing.}
-{331}{}{That depends. What would you need me to do?}
-{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
- yet, but I've got a feeling about our next meeting.}
+{320}{}{[Krom te ofrece una extraña sonrisa.] El Dios sabe que usted ha hecho maravillas para mí, de niña, pero tal vez usted estaría interesado
+ en la ayuda del resto de la tribu?}
+{321}{}{Seguro, supongo que me podría ayudar un poco. ¿Qué te gustaría que yo hiciera?}
+{322}{}{Me gustaría poder ayudar, pero realmente debería estar pasando ahora. Lo siento.}
+{323}{}{Tú me quieres a la mierda el resto de la tribu? ¿Qué clase de chica crees que soy?}
+{330}{}{[Krom irrumpe en la carcajada.] Los dioses no, chica! A pesar de que podría hacer maravillas para mi guerrero de moral, me gustaría
+ odio a compartir la miel tan dulce como usted. No, No tengo mucho más mundana tarea para usted, si usted está dispuesto.}
+{331}{}{De que depende. ¿Qué necesita usted que yo haga?}
+{340}{}{[Él mira más, parece considerar algo por un momento.] Estoy para cumplir con uno de ellos condenados civilizado
+ del comerciante pronto -- un rechoncho tuerto perro de un hombre, en quien confío tanto como un muerto de hambre radscorpion. Él no sido injusto con nosotros
+ sin embargo,null, pero tengo un sentimiento acerca de nuestra próxima reunión.}
 {341}{}{¿Y eso por qué?}
-{342}{}{I don't see how I fit into this. What's your point?}
-{350}{}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all
- the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized
- trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the
- trade.}
+{342}{}{No veo cómo encajo en esto. ¿Cuál es tu punto?}
+{350}{}{La última vez que hablamos, se jactó de que él sería que me trae algo verdaderamente milagroso, y que yo sería sabio para transportar todos
+ el golden gecko oculta podía llevar a la reunión. No sé cuál es su milagro elemento, pero es probable que algunos civilizado
+ abalorio que él va a esperar voy a ser ignorantes de lo suficiente para pagar mucho más de lo que vale. Es por eso que me gustaría hacer el
+ el comercio.}
 {351}{}{¿Por qué yo?}
-{352}{}{Sorry, but I think I'll pass. Bye.}
-{360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
- civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
- feeling about you, and I've learned to trust my instincts.}
-{361}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
- civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
- feeling about you girl, and I've learned to trust my instincts.}
-{362}{}{Alright. Let's do this.}
-{363}{}{Alright, but give me a moment to get ready.}
+{352}{}{Lo siento, pero creo que voy a pasar. Bye.}
+{360}{}{Porque tú eres mi kin -- un compañero de tribales, como nos llaman, pero puedo decir que he tenido la experiencia reciente con el
+ mundo civilizado. Si se trata de sacar algo, sería más probable que punto que de mí. Además, tengo un buen
+ siente acerca de usted, y he aprendido a confiar en mis instintos.}
+{361}{}{Porque tú eres mi kin -- un compañero de tribales, como nos llaman, pero puedo decir que he tenido la experiencia reciente con el
+ mundo civilizado. Si se trata de sacar algo, sería más probable que punto que de mí. Además, tengo un buen
+ siente acerca de usted, niña, y he aprendido a confiar en mis instintos.}
+{362}{}{Bien. Vamos a hacer esto.}
+{363}{}{Bien, pero dame un momento para prepararse.}
 {364}{}{Si te ayudo, ¿qué saco yo a cambio?}
-{370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
-{371}{}{Alright. Let's do this.}
-{372}{}{Alright, but give me a moment to get ready.}
+{370}{}{[Se ríe entre dientes.] Me ofrecen la hospitalidad de nuestra tribu y la oportunidad de impresionar a mí. Prometo no más que eso.}
+{371}{}{Bien. Vamos a hacer esto.}
+{372}{}{Bien, pero dame un momento para prepararse.}
 {373}{}{No estoy interesado. Adiós.}
-{375}{}{Are you ready to go?}
+{375}{}{¿Estás listo para partir?}
 {376}{}{Aún no.}
-{377}{}{Alright. Let's do this.}
-{380}{}{It's up to you to decide.}
-{390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings
- the stimpak to his nose, sniffs, and frowns. He squirts a little of the crimson fluid onto his hand and tentatively
- tastes it.] Curse the gods! They're filled with brahmin blood! That one-eyed bastard fucked us over. Right now he's
- probably having a good laugh at us as he revels in his new golden pelts.}
-{391}{}{Sorry about that. I had no idea they were fake.}
-{392}{}{Oh well. Live and learn.}
-{400}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. Now, if you'll excuse
- me, I've got some vials of brahmin blood to dispose of. Perhaps the shaman would have some use for it.}
-{410}{}{I didn't care for the ugly bastard, but by the gods, I didn't plan on butchering him. Sure, now his goods are free
- for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
-{411}{}{I didn't care for the ugly bastard, but by the gods girl, I didn't plan on butchering him. Sure, now his goods are free
- for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
-{412}{}{Sorry, I guess I got carried away.}
-{413}{}{He was civilized scum and deserved death.}
+{377}{}{Bien. Vamos a hacer esto.}
+{380}{}{Es hasta usted para decidir.}
+{390}{}{[Krom analiza uno de los de la tribu de los recién adquiridos estimulantes.] Estos deben llegar a ser bastante útil. [Él trae
+ el estimulante para su nariz, huele, y frunce el ceño. Él eyacula un poco del líquido carmesí en su mano y tentativamente
+ los gustos de ella.] Maldición de los dioses! Están llenos de brahmán sangre! Tuerto hijo de puta follada nosotros a través de. Ahora,
+ probablemente tener un buen ríen de nosotros como él se deleita en su nuevo oro de las pieles.}
+{391}{}{Lo siento por eso. Yo no tenía idea de que eran falsas.}
+{392}{}{Oh, bueno. Vivir y aprender.}
+{400}{}{Si lo que veo cada vez que la trampa perro de nuevo, voy a tener gran placer en escindir su fea cabeza. Ahora, si vas a excusa
+ a mí, tengo algunos frascos de brahmán sangre para deshacerse de. Tal vez el chamán tiene un uso para él.}
+{410}{}{No me importaba para el feo hijo de puta, pero por los dioses, yo no tenía intención de matar a él. Seguro, ahora bien, sus bienes están libres
+ para la toma, pero si se corre la voz de que él llegó a comerciar con nosotros y nunca regresó, vamos a estar en la lista negra entre los comerciantes.}
+{411}{}{No me importaba para el feo hijo de puta, pero por los dioses chica, yo no tenía intención de matar a él. Seguro, ahora bien, sus bienes están libres
+ para la toma, pero si se corre la voz de que él llegó a comerciar con nosotros y nunca regresó, vamos a estar en la lista negra entre los comerciantes.}
+{412}{}{Lo siento, creo que fue llevado.}
+{413}{}{Él era civilizado escoria y se merecía la muerte.}
 {414}{}{Ups.}
-{420}{}{I see now that it was a mistake to task you with this. I'll be keeping a close eye on you during your time at our
- village. Now come, let us take care of this mess and be on our way.}
-{430}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can cheat our valuables from us.
- You did well in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe
- as your own. However, I may call on your aid again in the future. Now come, let us leave these corpses to rot in the sun.}
-{431}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can trick our valuables from us.
- You did well in spotting his deceit. Beautiful, perceptive, and deadly -- by Gods, girl, you've got it all. You're welcome to stay among
- us, and treat our tribe as your own. However, I may call on your aid again in the future. Now come, let us leave these corpses to rot in the sun.}
-{440}{}{I don't blame you for not making the trade. I had a bad feeling about the deal as well. I admit those stimpaks
- would have proven useful, but we've been getting by without them, and we'll continue to do so. Now, you're welcome to
- stay among us, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{441}{}{I don't blame you for not making the trade. I had bad feeling about the deal as well. I admit those stimpaks would
- have proven useful, but we've been getting by without them, and we'll continue to do so. You're welcome to stay among us
- girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
+{420}{}{Ahora veo que fue un error a la tarea con esto. Voy a mantener un ojo en usted durante su tiempo en nuestra
+ la aldea. Ahora ven, deja que nosotros nos encarguemos de este lío y estar en nuestro camino.}
+{430}{}{La mentira hijo de puta obtuvo lo que se merecía. Deje que su destino sea una lección para cualquier comerciante que se piensa que puede engañar a nuestros objetos de valor a partir de nosotros.
+ Hiciste bien en descubrir su engaño. Veo que he hecho una buena elección en confiar en usted. Usted es bienvenido a quedarse entre nosotros, y el tratamiento de nuestra tribu
+ como su propio. Sin embargo, me puede llamar en su ayuda de nuevo en el futuro. Ahora ven, vamos a salir de estos cadáveres se pudran en el sol.}
+{431}{}{La mentira hijo de puta obtuvo lo que se merecía. Deje que su destino sea una lección para cualquier comerciante que se piensa que puede engañar a nuestros objetos de valor a partir de nosotros.
+ Hiciste bien en descubrir su engaño. Hermoso, perceptivo, y mortales -- por los Dioses, chica, tienes de todo. Usted es bienvenido a quedarse entre
+ nosotros, y el tratamiento de nuestra tribu como su propio. Sin embargo, me puede llamar en su ayuda de nuevo en el futuro. Ahora ven, vamos a salir de estos cadáveres se pudran en el sol.}
+{440}{}{Yo no te culpo por no hacer el comercio. Yo tenía un mal presentimiento acerca de la oferta así. Admito que los estimulantes
+ habría sido útil, pero hemos estado recibiendo por que sin ellos, y vamos a seguir haciéndolo. Ahora, eres bienvenido
+ estancia entre nosotros, y el tratamiento de nuestra tribu como su propio. Sin embargo, me puede llamar en su ayuda de nuevo en el futuro. Gracias por tu ayuda.}
+{441}{}{Yo no te culpo por no hacer el comercio. Yo tenía un mal presentimiento acerca de la oferta así. Admito que los estimulantes
+ habría sido útil, pero hemos estado recibiendo por que sin ellos, y vamos a seguir haciéndolo. Ahora, eres bienvenido
+ estancia entre nosotros, y el tratamiento de nuestra tribu como su propio. Sin embargo, me puede llamar en su ayuda de nuevo en el futuro. Gracias por tu ayuda.}
 {442}{}{No hay problema.}
-{443}{}{My pleasure.}
+{443}{}{Mi placer.}
 {444}{}{Lo que sea. Adiós.}
-{450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
- in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe
- as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{451}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
- in spotting his deceit. I see I made a wise choice in trusting you, girl. You're welcome to stay among us, and treat our
- tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
+{450}{}{Si lo que veo cada vez que la trampa perro de nuevo, voy a tener gran placer en escindir su fea cabeza. Sin embargo, lo has hecho muy bien
+ en descubrir su engaño. Veo que he hecho una buena elección en confiar en usted. Usted es bienvenido a quedarse entre nosotros, y el tratamiento de nuestra tribu
+ como su propio. Sin embargo, me puede llamar en su ayuda de nuevo en el futuro. Gracias por tu ayuda.}
+{451}{}{Si lo que veo cada vez que la trampa perro de nuevo, voy a tener gran placer en escindir su fea cabeza. Sin embargo, lo has hecho muy bien
+ en descubrir su engaño. Veo que he hecho una buena elección en confiar en ti, niña. Usted es bienvenido a quedarse entre nosotros, y tratamos a nuestros
+ tribu como su propio. Sin embargo, me puede llamar en su ayuda de nuevo en el futuro. Gracias por tu ayuda.}
 {452}{}{No hay problema.}
-{453}{}{My pleasure.}
+{453}{}{Mi placer.}
 {454}{}{Lo que sea. Adiós.}
-{460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}
-{461}{}{[The giant warrior grins as he watches you approach.] By the God's, I nearly forgot how gorgeous you are. Do you
- need something, girl?}
-{462}{}{I was wondering if I could ask you a couple questions.}
-{463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
-{464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
+{460}{}{[El gigante guerrero asiente con la cabeza un saludo a medida que el enfoque.] Bienvenido de nuevo, amigo. ¿Necesitas algo?}
+{461}{}{[El gigante guerrero sonríe como él los relojes se acerca.] Por Dios, casi me olvidé de lo hermosas que son. ¿
+ necesita algo, niña?}
+{462}{}{Me preguntaba si podría hacer un par de preguntas.}
+{463}{}{No, lo siento, pensé que esto era otra tienda. Voy a tener que ir ahora.}
+{464}{}{[[Sonrisa seductora] Sí, chico grande. Necesito algo, está bien. [Guiño.]}
 {470}{}{Por supuesto.}
-{471}{}{You look like you've been through a lot. I was wondering what your story is.}
-{472}{}{What could you tell me about this village?}
-{473}{}{Is there anything going on here I could help you with?}
-{474}{}{Huh, that's strange. It seems I forgot what I wanted to ask you. I'll come back if I remember. Bye.}
-{480}{}{[He chuckles.] Yes, I suppose I've been through a lot. I come from a tribe far to the north. When I was fifteen,
- we were attacked by savages. I awoke that day as a boy, but by the time the sun set on that grim scene, I had slayed my
- way to manhood. Every man, woman, and child was dead, except for me. Ah, but what's life without battle and strife? It
- either breaks a man, or it forges him into steel. I wear my scars with pride.}
-{481}{}{So what'd you do then?}
-{482}{}{Alright, I think I've heard enough. Let me ask you something else.}
-{490}{}{I piled the bodies and watched them burn into the night. Then gathered what I could and went wandering. Spent
- time with various tribes; fought many battles. Spent a little time amongst the "civilized" men, but I tired of them quickly.
- Too many honorless dogs hiding behind their guns. I'd rather enjoy a good battle of flesh and steel. I'm not a complicated man.
- Give me battles and feasts, wine and women. What else matters in this grim world?}
-{491}{}{So how'd you end up here?}
-{500}{}{I came here a couple years ago. This tribe took me in and treated me well. They offered to make me their head warrior,
- which I obviously accepted. I've enjoyed it here, next to the Great Salt Water. But I feel the wanderlust growing within me.
- Someday soon, I believe I'll move on and see what the Gods have in store for me next.}
-{501}{}{Thanks for the story. Could I ask you something else?}
-{502}{}{Thanks for the story. Bye.}
-{510}{}{Let's see... Most members of this village actually hail from three smaller tribes that decided to unite many
- years ago in order to keep from dying off. It creates an interesting mix of customs and dialects. More importantly, it
- creates a good mix of women. Beyond that, there's not much to say. It's a simple village where we struggle to forge a
- simple existence.}
-{511}{}{Alright, thanks. Could I ask you something else?}
-{512}{}{Alright, thanks. Bye.}
-{520}{}{Actually, Marli looks like he's having some trouble with the well. If you feel like helping, maybe you could go see what his problem is.}
-{521}{}{Alright, thanks. Bye.}
-{522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
-{530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
-{531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
+{471}{}{Que parece que he sido a través de un montón. Me preguntaba lo que su historia es la historia.}
+{472}{}{¿Qué me puedes decir acerca de este pueblo?}
+{473}{}{Hay algo sucediendo aquí me podría ayudar?}
+{474}{}{Eh, que extraño. Parece que se me olvidó lo que quería preguntar. Voy a volver si yo recuerde. Bye.}
+{480}{}{[Se ríe entre dientes.] Sí, supongo que he sido a través de un montón. Yo vengo de una tribu lejos hacia el norte. Cuando tenía quince años,
+ fuimos atacados por los salvajes. Me desperté ese día como un niño, pero en el momento de la puesta de sol en ese sombrío escena, me había asesinó a toda mi
+ camino a la edad adulta. Cada hombre, mujer y niño estaba muerto, excepto para mí. Ah, pero ¿qué es la vida sin batalla y de los conflictos? Es
+ cualquiera de los saltos de un hombre, o de la forja de él en acero. Me pongo mis cicatrices con orgullo.}
+{481}{}{Así que lo que había que hacer entonces?}
+{482}{}{Bien, creo que he oído suficiente. Déjame preguntarte algo más.}
+{490}{}{Yo apilados los cuerpos y vio arder en la noche. Luego se reunieron lo que pude y me fui a deambular. Pasó
+ tiempo con diversas tribus; pelearon muchas batallas. Pasó un poco de tiempo entre los "civilizados" de los hombres, pero me canse de ellos rápidamente.
+ Demasiados honorless perros esconden detrás de sus armas de fuego. Prefiero disfrutar de una buena batalla de la carne y el acero. Yo no soy un hombre complicado.
+ Me dan batallas y las fiestas, el vino y las mujeres. Lo que más importa en este sombrío mundo?}
+{491}{}{Entonces, ¿cómo había que terminar aquí?}
+{500}{}{Vine aquí hace un par de años. Esta tribu me recogió y me trataron bien. Se ofreció a hacer la cabeza de guerrero,
+ que yo, obviamente, aceptó. He disfrutado aquí, junto a los Grandes de Agua Salada. Pero creo que la pasión que crece dentro de mí.
+ Algún día pronto, creo que voy a seguir adelante y ver lo que los Dioses tienen en el almacén para mí a su lado.}
+{501}{}{Gracias por la historia. Podría pedir algo más?}
+{502}{}{Gracias por la historia. Bye.}
+{510}{}{Vamos a ver... la Mayoría de los miembros de este pueblo en realidad provienen de tres pequeñas tribus que se decidió unir a muchos
+ años atrás, en el fin de mantener de morir. Crea una interesante mezcla de costumbres y dialectos. Lo que es más importante, se
+ crea una buena mezcla de las mujeres. Más allá de eso, no hay mucho que decir. Se trata de una simple aldea donde luchamos para forjar una
+ simple existencia.}
+{511}{}{Muy bien, gracias. Podría pedir algo más?}
+{512}{}{Muy bien, gracias. Bye.}
+{520}{}{En realidad, Marli parece que está teniendo problemas con el bien. Si tienes ganas de ayudar, tal vez usted podría ir a ver cuál es su problema.}
+{521}{}{Muy bien, gracias. Bye.}
+{522}{}{Bien, tal vez voy a hacer. Pero primero, ¿puedo preguntarte algo más?}
+{530}{}{Que bueno verte, amigo. Si tienes un momento, que podría utilizar su ayuda nuevamente.}
+{531}{}{Que bueno verte de nuevo, chica. Si tienes un momento, que podría utilizar su ayuda.}
 {532}{}{Claro. ¿Qué necesitas?}
-{533}{}{Sorry, I'm busy now. Perhaps later.}
-{540}{}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
-{541}{}{Alright, but where should I look?}
-{542}{}{Sorry, but I don't have time to look for them. Besides, I'm sure they'll turn up soon. Bye.}
-{543}{}{I'm not here to babysit your warriors. Bye.}
-{550}{}{Check the hunting grounds, to the north. The quickest way to get there is through the cave to the west, next to the Great Salt Water. Normally, I wouldn't advise taking that route, since it's in danger of collapsing, but it's important that you make haste. Just tread carefully through the cave, and you should be fine.}
-{551}{}{Alright, I'll hurry and try to find them.}
-{552}{}{Wait, you want me to pass through a cave that's about to collapse? Hmm... Shit, I just remembered! I have to go save my tribe! Sorry, gotta run.}
-{560}{}{Do you bring news of the lost hunters?}
-{561}{}{Not yet. I'll keep looking.}
-{562}{}{Yeah, I found them in the cave. They're both dead.}
-{570}{}{[Krom nods, his face grim.] How?}
-{571}{}{There was a cave-in. One had been crushed by the falling rocks; the other was pinned down by the rubble, then eaten alive by a gecko. It was pretty brutal.}
-{580}{}{Killed by a damn cave-in. Curse the Gods! I hate to lose good men in such a way. They should have died on the field of battle, like the true warriors they were. [He shakes his head.] Their loss is a great blow to this tribe. Anyway, thank you for looking. Your services are no longer needed.}
-{581}{}{Sure, anytime. Bye.}
-{582}{}{I'm sure they were great men. Bye.}
-{590}{}{Thank you for locating the hunters. The loss of Jerem is great, as he was a skilled warrior. He should have died
- on the field of battle, not by some damn cave-in. Anyway, Serin should recover fully, thanks to you, friend. You will
- always be welcome here.}
-{591}{}{Thank you for locating the hunters. The loss of Jerem is great, as he was a skilled warrior. He should have died
- in the field of battle, not by some damn cave-in. Anyway, Serin should recover fully, thanks to you, girl. You will always
- be welcome here.}
-{592}{}{Thanks. Take care, Krom.}
-{800}{}{Me tribe, Arroyo, need help. I help. I special chosen helper.}
-{801}{}{[Krom chuckles.] Yeah, you certainly are special. [He smiles and ruffles your hair with a hand that seems
- capable of crushing boulders.] You like helping, huh? How would you like to be our tribe's special helper?}
-{802}{}{I help! Wut you need?}
-{803}{}{Nu-uh. I help Arroyo. No time help others. Biiee!}
-{810}{}{We need pointy weapons. [He points at his spear.] Five spears, like this. [He holds up his fingers.] *Five*.
- Also, we need *ten*, that's twice as many, knifes. [He pulls out a knife and shows it to you.] Like this, okay? Five
- spears, doesn't matter how sharp they are. And ten normal knifes. Got it?}
-{811}{}{Otay. I go find pointy things.}
-{812}{}{I have many pointy things. I no need them all.}
-{820}{}{Did you change your mind? Want to be our tribe's special helper?}
-{821}{}{I special. I be big helper for tribe.}
-{830}{}{You find all the pointy things I asked for?}
-{831}{}{I found.}
-{832}{}{I still look.}
-{840}{}{[Krom quickly scrutinizes the weapons, then grins and pats you on the back.] You did a good job. Thank you. Now run along and stay out of trouble.}
+{533}{}{Lo siento, estoy muy ocupado ahora. Tal vez más tarde.}
+{540}{}{Dos de nuestros cazadores, Serin y Jerem, no han vuelto desde el coto de caza y algunas personas están empezando a preocuparse. Son dos de nuestros mejores guerreros, y no me gustaría pensar que algo ha sucedido. Yo la iba a buscar para ellos yo mismo, pero si los aldeanos me vio tomar un interés personal en el asunto, me temo que habían asumir lo peor. Yo prefiero no llegar a la gente de quicio hasta que yo sepa lo que está pasando. Entonces, ¿usted busque por mí?}
+{541}{}{Bien, pero ¿dónde debo buscar?}
+{542}{}{Lo siento, pero no tengo tiempo de buscar para ellos. Además, estoy seguro de que voy a subir pronto. Bye.}
+{543}{}{Yo no estoy aquí para cuidar a tus guerreros. Bye.}
+{550}{}{Verificación de los cotos de caza, para el norte. La forma más rápida de llegar es a través de la cueva al oeste, junto a los Grandes de Agua Salada. Normalmente, yo no aconsejaría tomar esa ruta, ya que está en peligro de colapsar, pero es importante que usted se apresure. Sólo ten cuidado a través de la cueva, y usted debería estar bien.}
+{551}{}{Bien, me voy a toda prisa y tratar de encontrarlos.}
+{552}{}{Espera, que me quiero pasar a través de una cueva que está a punto de colapsar? Hmm... Mierda, me acabo de acordar! Tengo que ir a salvar a mi tribu! Lo siento, tengo que correr.}
+{560}{}{¿Traes noticias de los cazadores perdidos?}
+{561}{}{No todavía. Voy a seguir buscando.}
+{562}{}{Sí, los he encontrado en la cueva. Los dos están muertos.}
+{570}{}{[Krom asiente con la cabeza, su rostro sombrío.] Cómo?}
+{571}{}{Hubo un derrumbe. Uno de ellos había sido aplastado por la caída de rocas; el otro fue atrapado por los escombros, luego comido vivo por una gecko. Fue bastante brutal.}
+{580}{}{Asesinado por una maldita cueva-in. Maldición de los Dioses! Odio perder a los buenos de los hombres. Que debería haber muerto en el campo de batalla, como los verdaderos guerreros que eran. [Sacude la cabeza.] Su pérdida es un gran golpe para esta tribu. De todos modos, gracias por mirar. Sus servicios ya no son necesarios.}
+{581}{}{Seguro, en cualquier momento. Bye.}
+{582}{}{Estoy seguro de que ellos eran los grandes hombres. Bye.}
+{590}{}{Gracias por la localización de los cazadores. La pérdida de Jerem es genial, fue un hábil guerrero. Él debería haber muerto
+ en el campo de batalla, no por alguna maldita cueva-in. De todos modos, Serin deben recuperarse por completo, gracias a ti, amigo. Usted
+ siempre serán bienvenidos aquí.}
+{591}{}{Gracias por la localización de los cazadores. La pérdida de Jerem es genial, fue un hábil guerrero. Él debería haber muerto
+ en el campo de batalla, no por alguna maldita cueva-in. De todos modos, Serin deben recuperarse por completo, gracias a ti, amigo. Usted
+ siempre serán bienvenidos aquí.}
+{592}{}{Gracias. Cuidar, Krom.}
+{800}{}{Me tribu, Arroyo, necesita ayuda. Me ayuda. Yo especiales elegido ayudante.}
+{801}{}{[Krom risas.] Sí, lo son, sin duda, especial. [Sonríe y sacude su cabello con una mano que parece
+ capaz de trituración de cantos rodados.] Te gusta ayudar, ¿eh? ¿Cómo te gustaría ser nuestra tribu de ayuda especiales?}
+{802}{}{Me ayuda! Wut que usted necesita?}
+{803}{}{Nu-uh. Me ayuda Arroyo. No hay tiempo de ayudar a los demás. Biiee!}
+{810}{}{Necesitamos punta de armas. [Señala en su lanza.] Cinco lanzas, como este. [Él levanta sus dedos.] *Cinco*.
+ También, necesitamos *diez*, que es el doble de lo que muchos, los cuchillos. [Saca un cuchillo y se lo muestra.] Como esto, ¿de acuerdo? Cinco
+ spears, no importa lo bien que están. Y diez normal de los cuchillos. ¿Lo tienes?}
+{811}{}{De Otay. Puedo ir a buscar cosas puntiagudas.}
+{812}{}{Tengo muchas cosas puntiagudas. Yo no los necesita a todos.}
+{820}{}{Te hizo cambiar de opinión? Quieres ser nuestro tribu de ayuda especiales?}
+{821}{}{Yo especiales. Puedo ser de gran ayuda para la tribu.}
+{830}{}{Usted encontrará todas las cosas puntiagudas que me pidió?}
+{831}{}{He encontrado.}
+{832}{}{Todavía miro.}
+{840}{}{[Krom rápidamente escruta las armas, a continuación, sonrisas y palmaditas en la espalda.] Hiciste un buen trabajo. Gracias. Ahora se ejecutan a lo largo y a mantenerse fuera de problemas.}
 {841}{}{¡Adiós!}
-{850}{}{[Krom ruffles your hair.] There's my special helper. You run along now and stay out of trouble.}
+{850}{}{[Krom volantes de su cabello.] Hay mi ayuda especiales. Se ejecuta a lo largo ahora y mantenerse fuera de problemas.}
 {851}{}{¡Adiós!}
-{860}{}{Come to press your luck, have you?}
-{861}{}{No, I've come to kick your ass.}
-{862}{}{No, I just wanted to apologize for offending you.}
-{863}{}{No, I was just leaving.}
-{870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
-{871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
+{860}{}{Vienen a la prensa su suerte, usted tiene?}
+{861}{}{No, me he dado una patada en el culo.}
+{862}{}{No, quería pedirle disculpas por ofender a usted.}
+{863}{}{No, se me acaba de dejar.}
+{870}{}{Ah, parece que estoy en una perdonar estado de ánimo el día de hoy, amigo. Ahora, ¿qué puedo hacer por usted?}
+{871}{}{No me gusta ser acariciado con la chica, pero por los dioses, ¿cómo podría permanecer enojado con una diosa como tú? Ahora, ¿qué puedo hacer por usted?}
 {872}{}{No importa. Adiós.}
-{1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
- impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
- head back out into the wastes myself.}
-{1001}{}{Where will you go?}
-{1002}{}{You're just going to leave? But you're the tribe's head warrior.}
-{1003}{}{Alright. Good luck on your journey, Krom.}
-{1010}{}{[He shrugs his broad shoulders.] East seems as good a direction as any other. Yeah, I think I'll head east and see
- what awaits me.}
-{1020}{}{They'll just have some other warrior fill the position. Hell, head warriors generally don't live much longer than
- a couple years anyway, so I'd say I've earned my retirement.}
-{2000}{}{You restock the Tribe with more weapons.}
-{2500}{}{You fall victim to Roy's deception.}
-{2501}{}{You needlessly kill the merchant.}
-{2502}{}{You expose Roy's deception, and ensure that he'll never trade again.}
-{2503}{}{You decline to trade with Roy.}
-{2504}{}{You expose Roy's deception.}
-{3000}{}{Begone vile slaver!}
+{1000}{}{[El gigante guerrero asiente con la cabeza respetuosamente a usted.] Bueno, si es que no es el gran héroe de los desechos. Fue bastante
+ impresionante hazaña, el envío de Enclave perros al infierno como eso. De hecho, a escuchar historias de sus hazañas, me ha inspirado para
+ la cabeza de nuevo hacia los desechos a mí mismo.}
+{1001}{}{¿A dónde irás?}
+{1002}{}{Vas a dejar? Pero tú eres el de la tribu de la cabeza del guerrero.}
+{1003}{}{Bien. Buena suerte en su viaje, Krom.}
+{1010}{}{[Él se encoge de hombros sus amplios hombros.] Este parece un buen sentido como cualquier otro. Sí, yo creo que me voy a la cabeza de este y ver
+ lo que me espera.}
+{1020}{}{Simplemente vas a tener algún otro guerrero de llenar la posición. El infierno, el jefe de los guerreros, en general, no viven mucho más tiempo que
+ un par de años, de todos modos, así que yo diría que me he ganado mi jubilación.}
+{2000}{}{Usted reponer la Tribu con más armas.}
+{2500}{}{Caes víctima de Roy del engaño.}
+{2501}{}{Usted matar innecesariamente el comercio.}
+{2502}{}{Expone Roy engaño, y asegurarse de que nunca voy comercio de nuevo.}
+{2503}{}{Usted rechazar el comercio con Roy.}
+{2504}{}{Expone Roy engaño.}
+{3000}{}{Begone vil esclavista!}

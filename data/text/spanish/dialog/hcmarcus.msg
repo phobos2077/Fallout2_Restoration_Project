@@ -90,7 +90,7 @@
 {189}{}{Jacob y Aileen me pidieron que liberase de la cárcel a dos tipos. creo que tienen un plan para conseguirlo.}
 {190}{}{Jacob y Aileen quieren que vuele por los aires la mina. Pensé que podría interesarte saberlo.}
 {191}{}{Un científico de la RNC quiere probar una droga experimental que barrerá del mapa a los mutantes. Ten cuidado con lo que comes y bebes.}
-{192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
+{192}{}{Parece que tenías razón acerca de Chad rozando el dinero. Le mintió al Gecko rep acerca de una de mineros en huelga para justificar un alza en el precio. Supongo que la apropiación de la ganancia.}
 {193}{}{Chad se quedó con unos 1.000 dólares del último envío de uranio. Está planeando largarse de la ciudad. Tengo un maletín de documentos para demostrarlo.}
 {194}{}{Nada. Olvídalo.}
 {195}{mcs24}{¿Túneles bajo la ciudad? Supongo que no es extraño, habiendo minas por aquí. Seguirás buscando a esa gente, ¿verdad? }
@@ -188,7 +188,7 @@
 {287}{}{Lo tengo. Sólo para que lo sepas.}
 {288}{}{Humph. Algo no ha ido bien.}
 {289}{mcs109}{¿Quieres que vuelva ahora?}
-{290}{}{De acuerdo.}
+{290}{}{Vale.}
 {291}{}{Aún no. Adiós.}
 {292}{mcs110}{¿Qué quieres?}
 {293}{}{¿Cómo te sientes?}
@@ -216,7 +216,7 @@
 {315}{}{No me preguntes. No lo sé. }
 {316}{}{Sí.}
 {317}{}{Eso es.}
-{318}{}{No.}
+{318}{}{¡No!}
 {319}{}{¿Por qué me estás hablando así?}
 {320}{}{No es muy agradable.}
 {321}{}{Gracias. }
@@ -243,7 +243,7 @@
 {342}{}{¿Vas a abrir esto?}
 {343}{}{Puede que quiera volver aquí más tarde.}
 {344}{}{No comprendo.}
-{345}{}{No sé.}
+{345}{}{No tengo ni idea.}
 {346}{}{Ay.}
 {347}{}{Eso realmente duele.}
 {348}{}{Eso tiene que doler…}
@@ -325,7 +325,7 @@
 {10005}{}{No te alejes demasiado.}
 {10006}{}{Deberíamos separarnos un poco.}
 {10007}{}{Vámonos pues.}
-{10008}{}{Can you put your armor on?}
+{10008}{}{Puede usted poner su armadura en?}
 {10100}{}{Vamos, Marcus. Hora de continuar.}
 {20000}{mcs81b}{Correcto.}
 {20001}{}{Je. Puedo usar casi cualquier tipo de arma grande, como lanzacohetes y ametralladoras,

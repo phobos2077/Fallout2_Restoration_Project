@@ -36,14 +36,14 @@
 {156}{}{Quizá si te cuento la auténtica historia, cambies de opinión.}
 {157}{}{De acuerdo. Cuéntame.}
 {158}{}{No, en realidad no me interesa.}
-{159}{}{In that case, it's just great being here. This town has everything you could want... mutant
- sheriff, uranium mine, hospital, store... you can get just about anything here. You want anything else?}
+{159}{}{En ese caso, es simplemente genial estar aquí. Esta ciudad tiene todo lo que usted desea... mutante
+ sheriff, la mina de uranio, hospital, tienda de... usted puede conseguir casi cualquier cosa aquí. Quieres algo más?}
 {160}{}{Sí.}
 {161}{}{No.}
 {162}{}{Genial. Adiós.}
 {163}{}{Adiós.}
 {164}{}{Ha gobernado aquí desde que destruyeron al Maestro. Echa a un lado a cualquiera que discrepe con él… o ese cualquiera simplemente "desaparece". El lugar parece civilizado en la superficie, pero la verdad es que es un campo de matanza para mutantes sedientos de sangre. Tengo un amigo de un amigo que tuvo amigos que desaparecieron después de hablar de más.}
-{165}{}{Sigue.}
+{165}{}{Continúa.}
 {166}{}{Suficiente. Estás loco. Adiós.}
 {167}{}{Todo lo que pretendemos es que ésta sea una ciudad civilizada, que todos vayamos a mejor… pero vivimos con el miedo a la furia mutante. Cada día, hay menos y menos humanos.}
 {168}{}{Todos los mutantes que he visto parecen viejos y decrépitos.}
@@ -134,7 +134,7 @@
 {298}{}{Te dije que los sacaras de la cárcel, no que los mataras! ¿Qué coño pasa contigo?}
 {299}{}{Lo siento... yo sólo...}
 {300}{}{Tú sólo nada. Lo pretendieras o no, has jodido nuestros planes para esta ciudad a base de bien. Y ahora lo vas a pagar.}
-{301}{}{Sorry, friend, but... I just lost my two best friends. Those bastard muties killed them in prison.}
+{301}{}{Lo siento, amigo, pero... acabo de perder a mis dos mejores amigos. Los hijo de puta muties asesinado en la cárcel.}
 {302}{}{Urrggg. Maaaala suerte. Adiós.}
 {303}{}{Uh... Vaya. Lo siento mucho. Mis condolencias. Adiós.}
 {304}{}{Ups.}

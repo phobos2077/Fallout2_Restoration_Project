@@ -7,7 +7,7 @@
 {106}{}{¿Refugio 13?}
 {107}{}{GECK?}
 {108}{}{No me importa. Dame el especial de la casa.}
-{109}{}{Gimme a beer.}
+{109}{}{Dame una cerveza.}
 {110}{}{Información.}
 {111}{}{Estoy buscando trabajo.}
 {112}{}{¡Bien, no eres el único! Es sólo la forma en que me gustan.}
@@ -22,10 +22,10 @@
 {121}{}{Sí.}
 {122}{}{No.}
 {123}{}{¡Sirviendo un Radesperdicio! 10 dólares.}
-{124}{}{De acuerdo.}
+{124}{}{Vale.}
 {125}{}{¿Diez pavos? Demasiado para mí.}
 {126}{}{Claro, un pavo.}
-{127}{}{De acuerdo.}
+{127}{}{Vale.}
 {128}{}{Demasiado dinero para mí.}
 {129}{}{Puedes probar con Merk, en la sala de ahí atrás.}
 {130}{}{Aquí no hay nada para ti, forastero.}
@@ -96,7 +96,7 @@
 {195}{}{Marcho ahora.}
 {196}{}{Gracias, supongo. Oye, ¿tienes un momento para una pregunta?}
 {197}{}{Gracias. Sólo pensé que deberías saberlo.}
-{198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.}
+{198}{}{¿Lo hiciste? Oh, si no estuviera de servicio, saltaría por encima de esta barra y... bien, te besaría. El muy cabrón se lo merecía. De hecho, no se lo digas a nadie pero estaba esperando que algún tipo duro con pocas luces hiciera el trabajo por mí. Hasta tenía una pequeña recompensa guardada para ello.  Ahora es tuya: en lo que a mí respecta, te la has ganado.}
 {199}{}{Gracias, supongo. Oye, ¿tienes un momento para una pregunta?}
 {200}{}{Gracias. Sólo pensé que deberías saberlo.}
 {201}{}{¡Dumbo, me has hecho la mujer más feliz de por aquí! Tengo un pequeño regalo para ti, justo aquí, tras la barra. Es todo tuyo.}

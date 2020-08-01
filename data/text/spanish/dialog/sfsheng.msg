@@ -1,1 +1,1 @@
-{100}{}{You come across a secluded home. According to your Pip-Boy, this is the last known location of Dr. Sheng.}
+{100}{}{Usted viene a través de una apartada casa. De acuerdo a tu Pip-Boy, esta es la última ubicación conocida del Dr. Sheng.}

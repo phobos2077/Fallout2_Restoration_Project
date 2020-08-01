@@ -6,7 +6,7 @@
 {108}{}{¿Uh?}
 {109}{}{Tengo una carta para AHS-9. ¿Dónde la puedo dejar?}
 {110}{}{Soy }
-{111}{}{Nadie que te importe.}
+{111}{}{No es asunto tuyo.}
 {112}{}{Quiero unirme a los Hubologistas.}
 {113}{}{¿Quién eres TÚ? ¿Y qué estás haciendo TÚ aquí?}
 {114}{}{Nada. Adiós.}
@@ -14,17 +14,17 @@
 {116}{}{¡Va-vale!}
 {117}{}{Déjala abajo. Muéstrasela a AHS-7, que tiene turno de guardia de puertas, y él la recogerá o te enviará a AHS-9. Y ahora, ¿puedo volver a trabajar, trozo de carne?}
 {118}{}{Claro.}
-{119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post. Now, either get downstairs or get out of here.}
+{119}{}{Tú no eres uno de los hermanos, y está, por tanto, no autorizado a ser aquí. A menos que usted está pensando en unirse a nosotros - que usted puede hacer por expresar su interés para AHS-7, que es en el puesto de la guardia. Ahora, bien en la planta baja o salir de aquí.}
 {120}{}{Vale, vale. No hay necesidad de ponerse irritable.}
 {121}{}{En realidad, sí es de mi incumbencia. Esta es mi nave, y estos son mis guardias. Y ahora, ¿quién eres y qué estás haciendo aquí?}
 {122}{}{Soy }
-{123}{}{Nadie que te importe.}
+{123}{}{No es asunto tuyo.}
 {124}{}{Quiero unirme a los Hubologistas.}
 {125}{}{¿Quién eres TÚ? ¿Y qué estás haciendo TÚ aquí?}
 {126}{}{Nada. Adiós.}
 {127}{}{Soy Harry. Soy el técnico jefe del transbordador.}
 {128}{}{Soy }
-{129}{}{Nadie que te importe.}
+{129}{}{No es asunto tuyo.}
 {130}{}{Quiero unirme a los Hubologistas.}
 {131}{}{Nada. Adiós.}
 {132}{}{No estás dispuesto a cooperar, ¿eh? ¡Guardias! ¡Matad al intruso!}
@@ -58,7 +58,7 @@
 {191}{}{¡Nos veremos entonces!}
 {192}{}{Lo primero, necesitamos planos del vertibird para asegurarnos que la aerodinámica está bien. Si puedes hacer algo al respecto, compruébalo con los Shi o ve a esa vieja base de Navarro.}
 {193}{}{Recuerda que estás buscando los planos del vertibird para nosotros. Prueba con los Shi o en esa vieja base de Navarro.}
-{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
+{194}{}{Nadie ha sido capaz de hacer planes para el vertibirds de la Shi, o a partir de que edad base en Navarro. Ha reconsiderado ayudarnos?}
 {195}{}{¡Recuerda, recluta! Los odiados Shi tienen los planos.}
 {196}{}{Tengo los planos para el vertibird.}
 {197}{}{Olvídalo.}

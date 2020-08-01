@@ -13,6 +13,6 @@
 {112}{}{¡Vale, vale! ¿Qué quieres saber? Pero no me pegues más.}
 {113}{}{Refugio 15: desembucha.}
 {114}{}{¿Qué quieres saber sobre el Refugio 15?}
-{115}{}{Look, I'm just a guy, not the guy in charge - that's Darion. He's the one you want. He's got this thing about Shady Sands and that old bitch Tandi. He's got a hideout in Vault 15, even got the locals thinking he's on their side. That's all I know. Honest!}
+{115}{}{Mira, yo sólo soy un hombre, no el hombre a cargo - que Darion. Él es el que usted desea. Él tiene esta cosa acerca de la Sombra de las Arenas y de que el viejo de la perra Tandi. Él tiene un escondite en la Bóveda de 15 años, incluso consiguió que los lugareños pensando que él está de su lado. Eso es todo lo que sé. Honesto!}
 {116}{}{¡De verdad, no sé nada más! ¡Te he contado todo lo que sé, de verdad! ¡No me hagas más daño.}
 {117}{}{¡Ni hablar! No voy a caer en esa trampa. ¡BANG! Un disparo mientras escapaba. ¡Olvídalo!}

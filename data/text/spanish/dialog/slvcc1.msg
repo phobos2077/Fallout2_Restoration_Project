@@ -1,34 +1,34 @@
-{100}{}{You see a scowling slaver covered in grime.}
-{101}{}{You see a tough looking slaver. He appears to be in charge here.}
-{102}{}{You see Don, the slaver in charge of this camp.}
-{105}{}{Hey, what the fuck!? Who the hell are you?}
-{106}{}{I'm your worst nightmare. Prepare to die!}
+{100}{}{Vea una mala cara esclavista cubierto de mugre.}
+{101}{}{Usted ve un aspecto resistente esclavista. Él parece estar a cargo aquí.}
+{102}{}{Ves No, el esclavista a cargo de este campamento.}
+{105}{}{Hey, ¿qué coño!? Quién diablos es usted?}
+{106}{}{Soy tu peor pesadilla. Prepárate a morir!}
 {107}{}{Metzger me envía.}
-{108}{}{I'm here to join.}
-{109}{}{Uhh, this isn't where I left my car...}
-{200}{}{You first, asshole.}
-{201}{}{I don't have time for this, get 'em boys.}
-{202}{}{Join us? This aint a fuckin recruiting center. If you want to join the slavers go to the Den and speak with Metzger.
- Now do you need something or are you just here to piss me off?}
-{203}{}{Metzger sent you? [He fidgets uncomfortably.] Don't tell me he wants more slaves already -- for fuck's sake, we just sent a shipment last week.}
-{300}{}{Actually yes, I do need something.}
+{108}{}{Estoy aquí para unirse.}
+{109}{}{Uh, esto no es donde yo había dejado el coche...}
+{200}{}{En primer lugar, gilipollas.}
+{201}{}{No tengo tiempo para esto, get 'em chicos.}
+{202}{}{Únase a nosotros? Este no es un fuckin centro de reclutamiento. Si desea unirse a los traficantes de esclavos que ir a la Guarida y hablar con Metzger.
+ Ahora, ¿necesitas algo o simplemente que aquí me cabrean?}
+{203}{}{Metzger te envía? [Él mueve incómodamente.] No me digas que él quiere más esclavos ya-por el motivo de la cogida, nos acaba de enviar un envío la semana pasada.}
+{300}{}{La verdad que sí, me hace falta algo.}
 {301}{}{Entonces: ¿por qué estás aquí?}
-{302}{}{I don't think I need anything else.}
-{303}{}{Well then get the fuck outta here. You're trespassing and you ain't wanted.}
+{302}{}{Creo que no necesita nada más.}
+{303}{}{Bien, a continuación, obtener la mierda vete de aquí. Estás traspaso y que no lo quería.}
 {304}{}{Me marcho.}
-{305}{}{Oh, I'll leave--but not until I've killed you and your buddies.}
-{307}{}{As a matter of fact, he does. He's going to be entertaining some big shot from New Reno, and wanted a couple more girls for the occasion. But, hey if you can't spare any... I'm sure the boss will be thrilled when I return empty handed.}
-{308}{}{[Sweat begins to form on the man's tattooed head.] Whoa, hold on a second. I never said I couldn't spare a few. In fact, here, take the key to the shack, that's where we keep our, uh, personal favorites. The pick of the litter, you might say. [He hands you a key and smiles nervously.]}
-{309}{}{Thanks. I'll put in a good word for you. Bye.}
-{310}{}{Metzger sent you, huh? Do I look blind to you? You're not even wearing our fuckin mark. I don't know who you are, but you're full of shit and you're wasting my time. For that, you die. [Signals to his men.] Let's waste this loser.}
-{311}{}{Yeah right. You're full of shit and you're wasting my time. For that, you die. [Signals to his men.] Let's waste this loser.}
-{400}{}{I'm busy. Go see Metzger in the Den if you want to do a run.}
-{450}{}{Didn't I tell you to scram? We don't take too kindly to trespassers. Time to die.}
+{305}{}{Oh, voy a dejar ... pero hasta que no he matado a usted y sus amigos.}
+{307}{}{Como cuestión de hecho, lo hace. Va a ser entretenido que algunos de los grandes disparo desde New Reno, y quería un par de chicas más para la ocasión. Pero, oye, si no puede disponer de cualquier... estoy seguro de que el jefe estará contento cuando puedo regresar con las manos vacías.}
+{308}{}{[El sudor comienza a formar en el hombre tatuado de la cabeza.] Whoa, espera un segundo. Yo nunca dije que no podía dedicar unos pocos. De hecho, aquí, tome la llave a la choza, que es donde guardamos nuestro, uh, favoritos personales. La recogida de la basura, se podría decir. [Él las manos una llave y sonríe nerviosamente.]}
+{309}{}{Gracias. Voy a poner en una buena palabra para usted. Bye.}
+{310}{}{Metzger envió a usted, ¿eh? ¿Me veo ciegos para usted? Ni siquiera estás usando nuestro fuckin marca. No sé quién eres, pero estás lleno de mierda y estás perdiendo mi tiempo. Para que, de morir. [Señales a sus hombres.] Vamos a desperdiciar esta perdedor.}
+{311}{}{Sí a la derecha. Estás lleno de mierda y estás perdiendo mi tiempo. Para que, de morir. [Señales a sus hombres.] Vamos a desperdiciar esta perdedor.}
+{400}{}{Estoy muy ocupado. Ir a ver Metzger en la Madriguera, si quieres hacer una carrera.}
+{450}{}{No te digo que te scram? No nos llevamos demasiado bien a los intrusos. Tiempo para morir.}
 {500}{}{[HECHO]}
 {600}{}{¡Ahora es cuando mueres!}
-{601}{}{Die Ranger scum!}
-{800}{}{Umm... Give Metzger my regards.}
-{900}{}{No, actually, he sent me to have a look at your stock. You see, I have very particular tastes, but I'm willing to
- pay a premium price.}
-{901}{}{Bullshit. Metzger's never sent a customer out here before. I don't know what you're trying to pull, but you've
- got three seconds to get the fuck outta my face before I have my boys pump you full of lead.}
+{601}{}{Morir Ranger escoria!}
+{800}{}{Umm... Dar Metzger saludo de mi parte.}
+{900}{}{No, en realidad, él me envió a mí para tener una mirada en su stock. Ya ves, yo tengo muy particular gusto, pero estoy dispuesto a
+ pagar un precio premium.}
+{901}{}{Mierda. Metzger nunca es enviado a un cliente fuera de aquí antes. No sé lo que usted está tratando de tirar, pero has
+ tienes tres segundos para volver a la mierda fuera de mi cara antes de tener a mis hijos de la bomba se llena de plomo.}

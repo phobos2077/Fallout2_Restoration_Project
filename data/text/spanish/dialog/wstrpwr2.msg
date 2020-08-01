@@ -1,2 +1,2 @@
-{100}{}{You set off the trip wire.}
-{101}{}{ sets off the trip wire.}
+{100}{}{De emprender el viaje de alambre.}
+{101}{}{ emprende el viaje de alambre.}

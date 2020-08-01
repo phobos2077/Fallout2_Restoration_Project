@@ -1,5 +1,5 @@
 {100}{}{Parece un Border Collie.}
-{101}{}{You see Laddie.}
+{101}{}{Ver Laddie.}
 {102}{}{Este perro parece ser muy inteligente y perspicaz.}
 {103}{}{No dudas de que este perro seguramente sea más listo que tú.}
 {150}{}{¡Guau!}
@@ -8,7 +8,7 @@
 {153}{}{[Este perro parece estar muy nervioso].}
 {154}{}{Buen perrito.}
 {155}{}{¿Sabes dónde está Jonny, chico?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Quédate aquí, Laddie.}
 {157}{}{Vamos a buscar a Jonny.}
 {158}{}{¿Jonny se cayó por el pozo, Laddie?}
 {159}{}{¿Qué es lo que ocurre, chico? ¿Qué tratas de decirme?}

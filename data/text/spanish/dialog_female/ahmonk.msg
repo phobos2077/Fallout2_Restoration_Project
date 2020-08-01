@@ -68,7 +68,7 @@
 {455}{}{Entiendo tu frustración con nuestros métodos, pero debes entender que así es como siempre han sido las cosas para nosotros. Para alterar las cosas ahora, después de tantos años ... eso sería una blasfemia contra nuestra fe. Aún así, consideraré tus palabras. Siento una gran sabiduría en ti, forastero. Es una pena que haya conocido a muy pocos como usted.}
 {456}{}{Gracias. Aunque me gustaría saber algo más.}
 {457}{}{Muy bien. Aunque me gustaría saber algo más.}
-{500}{}{¡Deja de hacer eso!}
+{500}{}{¡Para eso!}
 {501}{}{Ganas 200 puntos de experiencia para traer de vuelto el libro.}
 {600}{}{He reparado su bomba de agua.}
 {601}{}{Esa es una gran noticia, de hecho. Esa bomba de agua había estado actuando durante bastante tiempo. Esos comerciantes dijeron que podían encargarse de eso, pero no parecían estar progresando mucho. Es algo bueno que hayas venido. Gracias de nuevo.}

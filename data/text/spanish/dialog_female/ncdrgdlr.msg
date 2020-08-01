@@ -1,6 +1,6 @@
 {150}{}{Ves a un hombre vestido con ropa arrugada. Se está frotando la nariz y mirando a su alrededor furtivamente.}
 {151}{}{Ves a un traficante.}
-{152}{}{You see a drug dealer. It looks like he's trolling for a customer.}
+{152}{}{Usted ve un traficante de drogas. Parece que la pesca de arrastre de un cliente.}
 {200}{}{¡Oye, heroína! ¿Quieres celebrarlo con algo de Jet? ¡Habla conmigo!}
 {201}{}{¡Qué forma de patearle el culo al Enclave, heroína! ¿Quieres relajarte y celebrarlo con un poco de Jet?}
 {202}{}{::Brindis::}
@@ -19,7 +19,7 @@
 {215}{}{¿Así que estás buscando celebrarlo con algo de Jet, heroína? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
 {216}{}{Lo menos que puedo hacer es rebajar mis existencias para ti, heroína. Sólo es mi forma de decirte gracias por salvar nuestros culos.}
 {217}{}{Nada mejor que un poco de Jet después de patear el culo al Enclave, ¿eh? ¿Tengo razón? Todas mis existencias están a precio de ocasión para ti.}
-{218}{}{I got shit that'll help you kiss the sky, hero. And for you: a nice discount. How does that sound?}
+{218}{}{Tengo la mierda que te ayudarán a besar el cielo, el héroe. Y para usted: un buen descuento. ¿Cómo suena?}
 {219}{}{¿Tienes caramelos? }
 {220}{}{Te alejas}
 {221}{}{¿Qué tienes?}
@@ -28,7 +28,7 @@
  ¿vale?}
 {231}{}{¿Así que quieres montarte una fiestecita con algo de Jet, amiga? Has venido al lugar preciso. Para ti, TODO está a precio de ocasión.}
 {232}{}{Tengo Jet suficiente como para ponerte en órbita, mi nueva mejor amiga. Y para ti, un descuento. ¿Hablamos del precio?}
-{233}{}{I got shit that'll help you kiss the sky, friend. And for you: a discount. That sound all right?}
+{233}{}{Tengo la mierda que te ayudarán a besar el cielo, amigo. Y para usted: un descuento. Que el sonido de todos los derechos?}
 {234}{}{Qué menos que rebajar mis existencias para TI, amiga. Sólo es mi forma de resultar amigable.}
 {235}{}{Tienes clase, y lo sabes. Clase. Y cuando alguien que tiene tanta clase como tú negocia conmigo, consigue un descuento
  en la tienda, ¿sabes?}

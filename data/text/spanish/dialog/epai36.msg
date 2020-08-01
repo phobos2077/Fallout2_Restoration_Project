@@ -1,51 +1,51 @@
 {100}{}{Ves una computadora.}
-{150}{}{Please select an option below.}
-{151}{}{Information}
-{152}{}{Employee Access}
-{160}{}{Please select an option below.}
-{161}{}{Lower Force Field}
+{150}{}{Por favor, seleccione una opción a continuación.}
+{151}{}{Información.}
+{152}{}{El Acceso De Los Empleados}
+{160}{}{Por favor, seleccione una opción a continuación.}
+{161}{}{Disminuir La Fuerza De Campo}
 {162}{}{[VOLVER]}
-{170}{}{To lower force fields, please enter access password. (If password is lost or forgotten, please see Hologram 40011, Director of Public Relations.)}
+{170}{}{Para disminuir la fuerza de los campos, por favor, introduzca la contraseña de acceso. (Si la contraseña perdida u olvidada, por favor consulte el Holograma 40011, Director de Relaciones Públicas.)}
 {171}{}{ABRE}
 {172}{}{[VOLVER]}
-{180}{}{Thank you. Force fields are now disengaged.}
+{180}{}{Gracias. Los campos de fuerza son ahora desconectado.}
 {181}{}{[HECHO]}
-{200}{}{Welcome to the EPA Petting Zoo! Here you'll have the pleasure of interacting with these unique creatures that
- look like hideously deformed humans! That's because these ugly beasts are the result of exciting experiments where our
- brilliant scientists are attempting to splice human and animal DNA!}
+{200}{}{Bienvenidos a la EPA Zoológico de mascotas! Aquí usted tendrá el placer de interactuar con estas criaturas únicas que
+ parecen muy deformado los seres humanos! Eso es porque estas bestias feas son el resultado de interesantes experimentos en los que nuestro
+ brillantes científicos están tratando de empalme humanos y de animales de ADN!}
 {201}{}{[MÁS]}
-{210}{}{In theory, this new science might one day allow us to create a "Super Person". Imagine a US Soldier with the sight
- of an eagle, the speed of a cheetah, and the strength of an ape! Imagine how this "Super Soldier" would strike fear into
- the hearts of commies! It sounds like science fiction, but it may soon be science fact!}
+{210}{}{En teoría, esta nueva ciencia puede que algún día nos permitan crear un "Super Persona". Imagina un Soldado de los estados unidos con la vista
+ de un águila, la velocidad de un guepardo, y la fuerza de un mono! Imaginar cómo este "Super Soldado" iba a infundir miedo en los
+ los corazones de los comunistas! Suena a ciencia ficción, pero pronto puede ser un hecho científico!}
 {211}{}{[MÁS]}
-{220}{}{The creatures you see here are the results of experiments that haven't quite met with success. Instead of euthanizing
- these failed abominations, we thought it'd be fun to put them in a petting zoo. Don't worry, despite their horrific appearance,
- they're not likely to attack as long as they're well fed. We're happy to report only three visitor casualties have occurred
- in the past year!}
-{221}{}{[Logoff.]}
-{300}{}{Welcome to our newest exhibit! The strange looking tentacled creatures you'll see in this cage might look like they
- came from outer space, but they're not aliens, in fact, they were made right here in America! As you may have guessed,
- these guys weren't created by mother nature, they were created by science!}
+{220}{}{Las criaturas que se ven aquí son los resultados de los experimentos que no hemos cumplido con éxito. En lugar de la eutanasia
+ estos fallado abominaciones, pensamos que sería divertido poner en un zoológico de mascotas. No te preocupes, a pesar de su horrible apariencia,
+ no van a atacar siempre y cuando estén bien alimentados. Nos complace informar sólo tres visitante víctimas se han producido
+ en el último año!}
+{221}{}{[Cierre de sesión.]}
+{300}{}{Bienvenidos a nuestra nueva exhibición! El extraño aspecto tentáculos a las criaturas que veremos en esta jaula podría parecerse a ellos
+ venía del espacio exterior, pero no son extraterrestres, en realidad, se hicieron a la derecha aquí en los estados unidos! Como usted puede haber adivinado,
+ estos chicos no fueron creados por la madre naturaleza, que fueron creados por la ciencia!}
 {301}{}{[MÁS]}
-{310}{}{That's right, these fearsome monstrosities were engineered by American scientists in top secret laboratories, as
- the newest weapon in the war for freedom. Their powerful tentacles and sharp teeth were specifically designed to tear
- apart America's enemies. Their tentacles also excel at digging, so the commies won't even be safe in their underground
- bunkers! Also, these ferocious killers have skin so thick, that bullets have a hard time penetrating it!}
+{310}{}{Eso es correcto, estos temibles monstruos fueron diseñados por científicos Estadounidenses en la parte superior laboratorios secretos, como
+ la nueva arma en la guerra por la libertad. Sus poderosos tentáculos y los dientes afilados que fueron diseñados específicamente para rasgar
+ aparte de los enemigos de estados unidos. Sus tentáculos también de excel en la excavación, por lo que los comunistas no estar seguros en sus subterráneos
+ los bunkers! También, estos feroces asesinos tienen la piel tan gruesa, que las balas tienen un tiempo duro penetrando en ella!}
 {311}{}{[MÁS]}
-{320}{}{You're looking at the future of biological warfare! But don't worry, these vicious slaughter machines can't get
- you, as they're safely locked within the confines of their highly secure cage. You'll have to excuse the dim lighting,
- but these guys are happiest when dwelling in cool, dark places, and you wouldn't want them to get angry, would you?}
-{321}{}{[Logoff.]}
-{400}{}{Here you can see plant life unlike any you've seen before! This exciting new species, derived from the Venus Fly
- Trap, was specifically engineered by our brilliant scientists to be able to survive in a world devastated by a nuclear
- war. Why would we want to do that? It's simple.}
+{320}{}{Usted está buscando en el futuro de la guerra biológica! Pero no te preocupes, estos masacre vicioso máquinas no pueden obtener
+ usted, como son encerrados bajo llave dentro de los confines de su alta seguridad de la jaula. Vas a tener que disculpar la iluminación tenue,
+ pero estos chicos son más felices cuando se hace hincapié en lugar fresco, oscuro y lugares, y usted no quiere que ellos se enoje, ¿lo harías?}
+{321}{}{[Cierre de sesión.]}
+{400}{}{Aquí se puede ver la planta de la vida a diferencia de cualquiera que hayas visto antes! Esta emocionante nueva especie, derivadas de la Venus
+ Trampa, fue específicamente diseñado por nuestros científicos brillantes, para ser capaz de sobrevivir en un mundo devastado por una nuclear
+ la guerra. ¿Por qué queremos hacerlo? Es muy sencillo.}
 {401}{}{[MÁS]}
-{410}{}{After a global nuclear war, scientists believe that much of the Earth will become a barren wasteland. Plant life
- will have a difficult time surviving in this harsh new environment. Now imagine us emerging from the safety of our
- Vault-Tec vaults only to find that all the plants are dead! That'd mean no more salads for Mom, and no more lawns for
- Billy and Rover to play fetch in.}
+{410}{}{Después de una guerra nuclear a escala mundial, los científicos creen que gran parte de la Tierra se convertirá en un árido desierto. La vida de la planta
+ tendrá un tiempo difícil sobrevivir en este duro nuevo entorno. Ahora imaginemos que nos emergentes de la seguridad de nuestros
+ Vault-Tec bóvedas sólo para encontrar que todas las plantas están muertos! Eso sería significa que no habrá más ensaladas para la Mamá, y no más el césped para
+ Billy y Rover para jugar fetch en.}
 {411}{}{[MÁS]}
-{420}{}{Sounds terrible, doesn't it? But don't worry. These new plants may be the answer to that problem. Instead of
- relying on fertile soil and rainfall, they're able to derive nutrients by killing and eating animals, just like
- people! All through the wonders of science!}
-{421}{}{[Logoff.]}
+{420}{}{Suena terrible, ¿no? Pero no te preocupes. Estas nuevas plantas puede ser la respuesta a ese problema. En lugar de
+ depender de la fertilidad del suelo y la lluvia, son capaces de obtener los nutrientes por matar y comer animales, como
+ gente!!! Todo a través de las maravillas de la ciencia!}
+{421}{}{[Cierre de sesión.]}

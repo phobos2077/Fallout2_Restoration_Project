@@ -13,7 +13,7 @@
 {112}{}{¡Frazz-urb-luuw!}
 {113}{}{Dejas de balbucear}
 {114}{}{¿Quién eres?}
-{115}{}{¿Qué es este lugar?}
+{115}{}{¿Qué lugar es éste?}
 {116}{}{Creo que tu ayudante, Skeev, está involucrado en actividades ilegales.}
 {117}{}{Hoy nada, gracias.}
 {118}{}{Vaya, ya veo que voy a tener que charlar con los guardias del Patio. Parece que hoy en día están dejando entrar a CUALQUIER errante en Ciudad Refugio. }
@@ -147,7 +147,7 @@
 {246}{}{¿Qué más querías saber?}
 {247}{}{¡Frazz-urb-luuw!}
 {248}{}{Dejas de balbucear}
-{249}{}{¿Qué es este lugar?}
+{249}{}{¿Qué lugar es éste?}
 {250}{}{¿Qué tipo de envíos recibís aquí?}
 {251}{}{Tu ayudante, Skeev, está involucrado en actividades ilegales.}
 {252}{}{¿Puedo obtener otro pase de día?}
@@ -273,5 +273,5 @@
 {361}{}{Excelente. Aquí tienes… una vez más, sólo es válido durante el día: por la noche se te pedirá que abandones la ciudad. Los Ciudadanos también se reservan el derecho a cancelar los privilegios del pase de día en cualquier momento, así que portate bien.}
 {362}{}{Entendido. ¿Puedo hacerte alguna otra pregunta?}
 {363}{}{Gracias.}
-{1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
-{1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}
+{1255}{}{He encontrado los raiders' campamento y convencido de que su guía para no ayudarles. Ellos no serán capaces de encontrar su camino sin él.}
+{1314}{}{Usted no tiene que preocuparse acerca de los raiders más. Estoy convencido de que su guía para salir y sin su ayuda, nunca van a encontrar su camino a través de las montañas.}

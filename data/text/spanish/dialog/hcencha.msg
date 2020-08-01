@@ -44,10 +44,10 @@
 {135}{}{¿Cuando se va la próxima caravana?}
 {136}{}{Nada, gracias.}
 {137}{}{Habla con Bill, igual que siempre.}
-{138}{}{De acuerdo.}
+{138}{}{Vale.}
 {139}{}{¿Después de lo que sucedió con Chad? No lo creo. ¿Algo más?}
-{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
- earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
+{140}{}{Estamos aquí. Aquí está su $500. Si desea regresar, nos vamos al final del día. Te
+ ganar el dinero en el camino de regreso, también, si usted lo desea. De una manera o de otra, sin embargo, estamos dejando entonces.}
 {141}{}{Nos vemos.}
 {142}{}{¿Estás listo para salir?}
 {143}{}{Gracias. Aquí están tus 500 dólares. Si quieres otro trabajo, habla con Bill.}

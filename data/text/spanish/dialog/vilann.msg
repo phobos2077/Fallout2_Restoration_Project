@@ -1,55 +1,55 @@
 {100}{}{Ves a una mujer joven.}
-{101}{}{You see Ann, Connar's wife.}
-{102}{}{She appears to be busily cooking.}
-{200}{}{Why hello there, I'm Connar's wife, Ann. You must be the one who helped us out. I can't tell you how much
- we appreciate all you've done. It's hard to believe that we can finally live in peace without fear of Vault City's goons
- coming to take us from our homes.}
-{201}{}{Glad to be of assistance. You seem to be quite busy here. Need some help with anything?}
+{101}{}{Usted ve Ann, Connar la esposa.}
+{102}{}{Ella parece ser ocupados en la cocina.}
+{200}{}{Por qué hola, estoy Connar la esposa, Ann. Usted debe ser la persona que nos ayudó. Yo no te puedo decir cuánto
+ agradecemos a todos los que has hecho. Es difícil creer que finalmente podamos vivir en paz, sin miedo a la Bóveda de la Ciudad de los matones
+ venir a sacarnos de nuestras casas.}
+{201}{}{Me alegra ser de ayuda. Usted parece estar muy ocupado aquí. Necesitas ayuda con algo?}
 {202}{}{Sin problema. Nos vemos.}
-{300}{}{Actually, I *could* use some help. Now that we're becoming more organized, we're starting to see our numbers
- grow. The problem is, I'm not sure we'll have enough food to go around. My husband has attempted to get the caravans
- to stop here, but they don't' think we're worth their time. I don't suppose you could get them to reconsider?}
-{301}{}{Sorry lady, but I think I've done enough here. I need to move on now. Bye.}
-{302}{}{Can't you people ever deal with your own fucking problems? Bye.}
-{303}{}{Sure. I'll see what I can do. Who do I talk to about this?}
-{310}{}{One of the caravan masters, Mr. Baron, will be passing by here shortly. The caravan trail isn't far from this
- village. If you could go out there and meet with him, we'd all appreciate it greatly.}
-{311}{}{Alright, I'll give it a shot. Show me where he is.}
-{312}{}{Alright, but I'm not ready yet. I'll let you know when I am.}
-{313}{}{On second thought, you're going to have to handle this on your own. Sorry.}
-{320}{}{Are you ready to go meet the caravan master yet?}
-{321}{}{Not yet. Bye.}
-{322}{}{Alright. I'm ready.}
-{330}{}{Oh, it's you! Thank you for speaking with Mr. Baron. He had just come by to make trade arrangements with my husband.
- You've done so much to help us, we're forever in your debt!}
-{331}{}{It's the least I could do. Take care.}
-{332}{}{You think I do all this for free? Let's talk money.}
-{340}{}{[Ann looks a bit flustered.] Well, yes... alright fine. I had a little something stored away for an emergency, but
- I suppose you can have it. And to think I saw you as a good person.}
-{341}{}{Looks are in the eyes of the beholder, lady. Good day.}
-{342}{}{Sorry, money makes the world go round. Bye.}
-{350}{}{Oh, it's you! I heard what you did to Mr. Baron. I never did care for him, but you didn't have to kill him. We'll
- stifle as a community without proper trade.}
-{351}{}{Sorry, mistakes happen. Bye.}
-{352}{}{Not my problem. Bye.}
-{353}{}{You don't need to worry about any damn merchants. Because I plan on killing the whole lot of you.}
-{400}{}{Did Vault City send you?}
-{401}{}{We have the right to live here, you know.}
+{300}{}{En realidad, yo ** que podría utilizar un poco de ayuda. Ahora que estamos cada vez más organizadas, estamos empezando a ver nuestros números
+ crecer. El problema es que no estoy seguro de que vamos a tener suficiente comida para todo el mundo. Mi marido ha intentado obtener las caravanas
+ a parar aquí, pero no creo que nosotros somos la pena su tiempo. Supongo que usted no podría conseguir a reconsiderar?}
+{301}{}{Lo siento señora, pero creo que he hecho lo suficiente aquí. Tengo que pasar ahora. Bye.}
+{302}{}{No puede usted de la gente nunca lidiar con su propia mierda problemas? Bye.}
+{303}{}{Seguro. Voy a ver qué puedo hacer. ¿Con quién debo hablar acerca de esto?}
+{310}{}{Uno de los de la caravana de maestros, Señor Barón, va a pasar por aquí dentro de poco. La caravana camino no está lejos de este
+ la aldea. Si usted puede ir allí y reunirse con él, estaríamos todos aprecian mucho.}
+{311}{}{Bien, me voy a dar un tiro. Muéstrame dónde está.}
+{312}{}{Bien, pero no estoy listo todavía. Voy a dejar que usted sabe que cuando yo estoy.}
+{313}{}{En el segundo pensamiento, vas a tener que manejar esto por su cuenta. Lo siento.}
+{320}{}{¿Estás listo para ir al encuentro de la caravana maestro todavía?}
+{321}{}{No todavía. Bye.}
+{322}{}{Bien. Yo estoy listo.}
+{330}{}{Ah, es usted! Gracias por hablar con el Señor Barón. Él había venido a hacer acuerdos comerciales con mi marido.
+ Has hecho mucho para ayudar a nosotros, estamos siempre en deuda con ustedes!}
+{331}{}{Es lo menos que podía hacer. Cuidado de la toma.}
+{332}{}{Crees que tengo que hacer todo esto de forma gratuita? Vamos a hablar de dinero.}
+{340}{}{[Ann se ve un poco nervioso.] Bueno, sí... bien bien. Yo tenía un poco de algo guardado para una emergencia, pero
+ Supongo que se puede tener. Y pensar que yo veía como una buena persona.}
+{341}{}{Se ve en los ojos de quien la mira, señora. Buen día.}
+{342}{}{Lo sentimos, el dinero hace girar el mundo. Bye.}
+{350}{}{Ah, es usted! He oído lo que hizo el Señor Barón. Yo nunca lo hice cuidar de él, pero usted no tiene que matarlo. Vamos a
+ ahogar como una comunidad sin la debida comercio.}
+{351}{}{Lo siento, los errores ocurren. Bye.}
+{352}{}{No es mi problema. Bye.}
+{353}{}{Usted no necesita preocuparse acerca de cualquier maldito comerciantes. Porque he pensado en matar a todo el que muchos de ustedes.}
+{400}{}{Hizo de la Bóveda de la Ciudad de enviar?}
+{401}{}{Tenemos el derecho a vivir aquí, sabes.}
 {402}{}{No tengo nada más que decirte.}
-{403}{}{Thanks again for everything!}
-{404}{}{Thanks so much!}
-{405}{}{Finally we are safe.}
-{406}{}{Thanks for everything! Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.}
+{403}{}{Gracias de nuevo por todo!}
+{404}{}{Muchas gracias!}
+{405}{}{Finalmente, estamos seguros.}
+{406}{}{Gracias por todo! Asegúrese de pasar por aquí de nuevo una vez que se expanda el lugar. Por fin voy a tener un trabajo de la cocina para cocinar en.}
 {410}{}{Hola de nuevo.}
-{411}{}{You seem to be quite busy here. Need some help with anything?}
+{411}{}{Usted parece estar muy ocupado aquí. Necesitas ayuda con algo?}
 {412}{}{No importa. Adiós.}
-{420}{}{How did it go?}
-{421}{}{How did what go? Oh, the merchant. Actually, I lost interest with him and wandered off.}
-{430}{}{What!? You realize this was our last chance to make arragements with him. We look like fools now standing him up.
- You've doomed us.}
-{431}{}{Sorry, mistakes happen. Bye.}
-{432}{}{Not my problem. Bye.}
-{433}{}{You don't need to worry about any damn merchants. Because I plan on killing the whole lot of you.}
-{500}{}{You convinced the merchant to add the village to his trade route.}
-{510}{}{You killed the merchant, thus ensuring that the village won't be able to trade.}
-{511}{}{You fail to convince the merchant to add the village to his trade route.}
+{420}{}{¿Cómo te fue?}
+{421}{}{¿Cómo lo ve? Oh, el comerciante. De hecho, he perdido el interés en él y se alejó.}
+{430}{}{Qué!? Te das cuenta de que esta era nuestra última oportunidad para hacer los preparativos de tu con él. Parecemos tontos, ahora de pie con él.
+ Has condenado nosotros.}
+{431}{}{Lo siento, los errores ocurren. Bye.}
+{432}{}{No es mi problema. Bye.}
+{433}{}{Usted no necesita preocuparse acerca de cualquier maldito comerciantes. Porque he pensado en matar a todo el que muchos de ustedes.}
+{500}{}{Usted convencido de que el comerciante para agregar la aldea a su ruta comercial.}
+{510}{}{Usted mató al comerciante, lo que garantiza que el pueblo no será capaz de comercio.}
+{511}{}{Usted no logran convencer al comerciante para agregar la aldea a su ruta comercial.}

@@ -37,7 +37,7 @@
 {261}{}{¡La casa vuelve a estar en mi contra!}
 {262}{}{Tengo que conseguir más fichas…}
 {263}{}{¡Jodida máquina! Sigue quedándose con todas mis fichas…}
-{270}{}{You done have my apology, stranger. Luck be with ya.}
+{270}{}{Se han hecho mis disculpas, extraño. La suerte esté con ustedes.}
 {271}{}{Perdona por perder los estribos. El sol del desierto hace que un hombre diga algunas cosas jodidamente repugnantes.}
 {272}{}{::Se toca un sombrero imaginario::}
 {275}{}{}
@@ -71,7 +71,7 @@
 {318}{}{Te lo enseñaré...}
 {319}{}{Oh, oh...}
 {320}{}{Lo tomé cuando no te veías.}
-{321}{}{Uh...}
+{321}{}{Eh...}
 {325}{}{¡De forma justa mis peludos cojones! Mozalbete, lo que has hecho es firmar tu propia sentencia de muerte!}
 {326}{}{¡De forma justa mis peludos cojones! Muchachita, lo que has hecho es firmar tu propia sentencia de muerte!}
 {335}{}{¿Qué? (parpadea) ¿Estás hablando de devolverme mis ganancias? ¿Las 500 fichas?}

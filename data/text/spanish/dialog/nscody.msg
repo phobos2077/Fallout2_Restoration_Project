@@ -1,2 +1,2 @@
-{100}{}{As you approach Cody's body, the overwhelming scent of Jules' cologne slams into you.}
-{101}{}{As you approach Cody's body, the overwhelming scent of a distinctive cologne slams into you.}
+{100}{}{A medida que el enfoque de Cody cuerpo, el abrumador olor de Jules colonia golpea a usted.}
+{101}{}{A medida que el enfoque de Cody cuerpo, el abrumador olor de un distintivo de la colonia golpea a usted.}
