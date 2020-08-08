@@ -81,7 +81,7 @@
 {180}{}{Несомненно. А я сталкиваюсь с такими людьми каждый день. Увы!}
 {181}{}{Ну, у меня есть еще вопросы.}
 {182}{}{Эх, бедолага. Ну, пока.}
-{183}{}{Вы определенно достойны того, чтобы получить от нас горючее. Я верю, что могу доверить вам наши тайны. Силовое поле возле большого компьютера в задней комнате отключено. Наберите пароль: "CSPDMSHR-Shih-huang-ti-X9372" - и вы подключитесь к компьютеру-Императору. Император сможет переправить топливо туда, куда вам нужно.}
+{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
 {184}{}{Спасибо.}
 {185}{}{Стража! Враг среди нас! Стража!}
 {186}{}{Что, правда? А вы не хотели бы повернуть свое оружие против них? Обещаю вам нашу полную поддержку, если вы согласитесь убить НИК-9.}

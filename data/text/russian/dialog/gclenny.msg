@@ -211,9 +211,9 @@
 {3005}{}{Я н-не хочу иметь с т-тобой ничего общего.}
 {4000}{}{Ну, хорошо, но я не хочу остаться здесь в одиночестве.}
 {4001}{}{Хорошо, если ты и вправду думаешь, что это хорошая идея.}
-{4002}{}{Я не люблю пускать в ход оружие, разве что в самых крайних случаях. Но, думаю, я смог бы управиться с ножом. И из пистолета умею стрелять, по крайней мере, раньше умел. Если очень надо, могу стрелять из пистолета-пулемета. Но все это так шумно. Я врач, а не воин.}
+{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
 {4003}{}{Боже, надеюсь, мне это не понадобится.}
-{4004}{}{Я не люблю пускать в ход оружие, разве что в самых крайних случаях. Но, думаю, я смог бы управиться с ножом. И с копьем умею обращаться, по крайней мере, раньше умел. Если очень надо, могу стрелять из ружья. Но все это так шумно. Я врач, а не воин.}
+{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
 {5000}{}{Должно быть, я с-сломал конечность.}
 {5001}{}{Должно быть, я наг-глотался радиации.}
 {5002}{}{Должно быть, я от-травился.}
