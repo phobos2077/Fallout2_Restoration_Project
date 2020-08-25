@@ -3,14 +3,14 @@
 {102}{}{Ves a Hakunin. Está a punto de morir.}
 {103}{}{Hakunin está gravemente quemado. Huele como a pollo asado, parece un pastel de carne quemado, y no sabes cómo ha sido capaz de sobrevivir hasta ahora.}
 {104}{hak001}{Saludos, Elegido. ¿Por qué la tierra ante mí se calienta con el roce de tu paso?}
-{105}{}{Uh?}
+{105}{}{¿Eh?}
 {106}{}{He venido a decirte adiós. Me marcho a mi sagrada búsqueda.}
 {107}{}{Me largo. Esperaba que por una vez hablaras como un ser humano.}
 {108}{}{Te metes demasiada droga. Me largo de aquí.}
 {109}{}{Estoy herido. ¿Puedes curarme?}
 {110}{}{Había algunas plantas bastante repugnantes infestando tu huerto. Me he ocupado de ellas.}
 {111}{hak001a}{Por favor, revela a estos nublados ojos el propósito de tu paso.}
-{112}{}{Uh?}
+{112}{}{¿Eh?}
 {113}{}{He venido a decirte adiós. Me marcho a mi sagrada búsqueda.}
 {114}{}{Me largo. Esperaba que por una vez hablaras como un ser humano.}
 {115}{}{Te metes demasiada droga. Me largo de aquí.}
@@ -25,7 +25,7 @@
 {124}{}{Uh-huh.}
 {125}{}{Noh-oh. Tú. Dameeee. Cabeza duele.}
 {126}{hak004}{Que tu aura agracie mi presencia cuando... Oh, ven a mi puerta cuando hayas acabado y te daré algo bueno.}
-{127}{}{Urgh.}
+{127}{}{Ugh.}
 {128}{hak005}{Las plantas de alma impía han infestado mi huerto de nuevo. Muchas estaciones han sentido mis huesos y ahora soy demasiado frágil para esta lucha de eterna naturaleza. Te pido que seas mi campeón.}
 {129}{}{No lo creo. Necesito empezar mi misión ahora mismo.}
 {130}{}{Creo que no eres un mal tipo, pero ahora mismo ya me has dado bastante dolor de cabeza, así que paso.}

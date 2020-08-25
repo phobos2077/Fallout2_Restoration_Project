@@ -93,7 +93,7 @@
 {192}{}{Ahora no mucho. Lo he matado.}
 {193}{}{¿Bromeas? Esa es la mejor noticia que he tenido en todo el día! Espero que su cerebro creara una bonita pintura para la pared. Ese maldito psicópata se lo merecía. Ten un Radesperdicio a mi cuenta.}
 {194}{}{Gusta.}
-{195}{}{Marcho ahora.}
+{195}{}{Yo irme ahora.}
 {196}{}{Gracias, supongo. Oye, ¿tienes un momento para una pregunta?}
 {197}{}{Gracias. Sólo pensé que deberías saberlo.}
 {198}{}{¿Lo hiciste? Oh, si no estuviera de servicio, saltaría por encima de esta barra y... bien, te besaría. El muy cabrón se lo merecía. De hecho, no se lo digas a nadie pero estaba esperando que algún tipo duro con pocas luces hiciera el trabajo por mí. Hasta tenía una pequeña recompensa guardada para ello.  Ahora es tuya: en lo que a mí respecta, te la has ganado.}

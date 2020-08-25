@@ -37,7 +37,7 @@
 {138}{}{Vale.}
 {139}{}{Sí, te escucho.}
 {140}{}{El laboratorio médico ha sido ocupado por un cerebrín del Enclave llamado Schreber. Maldito hijo de puta; no le importa nada ni nadie. Ha estado haciendo alguna clase de experimentos con Garras mortales ahí abajo, pero no sé exactamente el qué. Eso sí, estaba haciendo toda clase de ruidos hasta que el comandante ordenó que insonorizaran la habitación.}
-{141}{}{Entiendo.}
+{141}{}{Entendido.}
 {142}{}{Interesante.}
 {143}{}{¡Ja! Hablamos de amor, amiga. Parece que uno de los frikis de los ordenadores está coladito por una de las reclutas, la guardia del laboratorio médico. Incluso tiene uno de esos nombres cursis para ella. La llama su "Caramelito".}
 {144}{}{Qué cursi.}

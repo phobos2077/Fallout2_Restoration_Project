@@ -160,7 +160,7 @@
 {259}{}{ tipo.}
 {260}{}{ chica.}
 {261}{}{Un Hubologista es un fanático religioso chiflado. Se los puede encontrar en la iglesia de la ciudad.}
-{262}{}{Voy de camino.}
+{262}{}{Estoy en camino.}
 {263}{}{¡No hablaré contigo hasta que el trabajo esté hecho! Necesito esos papeles del local del doctor Henry, pronto.}
 {264}{}{No, pero necesito algo de información.}
 {265}{}{Sé que la muerte de Lenny no fue ningún accidente, bastardo.}

@@ -35,7 +35,7 @@
 {140}{}{Gracias.}
 {141}{}{Planos de vertibird... no veo para qué los necesitarías. Te sugiero que hables con alguien de mantenimiento en la puerta de enfrente.}
 {142}{}{Vale.}
-{143}{}{Entiendo.}
+{143}{}{Entendido.}
 {153}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Vístete!}
 {154}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
 {155}{}{¿Por qué no llevas puesto el uniforme?}

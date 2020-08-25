@@ -160,7 +160,7 @@
 {530}{}{[Toma la semilla.] Gracias, voy a deshacerse de él de inmediato. [Suspira.] Supe que el Dr. Sheng lo había perdido, pero no creo que le iría tan lejos como para intentar destruir a su propio pueblo. Él debe ser tratado inmediatamente.}
 {531}{}{Estoy de acuerdo. Es bastante loco.}
 {540}{}{*garras del corazón* Wahh.}
-{541}{}{Urgh.}
+{541}{}{Ugh.}
 {542}{}{El Dr. Wong!}
 {600}{}{Eliminar el Dr. Sheng para el Shi.}
 {601}{}{Entregar la muestra de la planta para el Dr. Wong.}

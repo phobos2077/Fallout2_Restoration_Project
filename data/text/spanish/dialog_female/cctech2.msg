@@ -37,7 +37,7 @@
 {142}{}{Gracias.}
 {143}{}{Pues deberían estar en Mantenimiento, justo al lado de la torre de control aéreo.}
 {144}{}{Vale.}
-{145}{}{Entiendo.}
+{145}{}{Entendido.}
 {155}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Vístete!}
 {156}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}
 {157}{}{¿Por qué no llevas puesto el uniforme?}
@@ -47,6 +47,6 @@
 {161}{}{¿Qué pasa? ¿Nos atacan?}
 {162}{}{¿A qué viene la alerta? ¿Qué está ocurriendo?}
 {163}{}{¿Qué carajo está pasando?}
-{164}{}{¡Sólo soy un técnico, no me dispares!}
+{164}{}{Sólo soy un técnico, ¡no me dispares!}
 {165}{}{¡No me enrolé aquí para luchar, sólo soy un técnico!}
 {166}{}{¿Ves esto? ¡Sólo es una bata de laboratorio, no una armadura! ¡Me voy de aquí!}

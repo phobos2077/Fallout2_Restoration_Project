@@ -22,7 +22,7 @@
 {121}{}{Debo irme.}
 {122}{}{Mi nombre es Schreber, doctor Schreber. Soy el médico de la base, entre otras cosas. No me importa tu nombre, soldado. Todos los reclutas parecéis iguales con esa armadura.}
 {123}{}{Vale.}
-{124}{}{Entiendo.}
+{124}{}{Entendido.}
 {125}{}{Trabajo como médico de la base pero eso es sólo algo secundario, un hobby. Realmente, soy un genetista.}
 {126}{}{Qué ser eso?}
 {127}{}{¿Qué es un genetista?}

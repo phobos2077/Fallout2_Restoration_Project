@@ -82,7 +82,7 @@
 {412}{}{Defiéndete.}
 {425}{}{¿Sí? Veamos. Hmmmm. (Comprueba el pase, y se encoge de hombros). Está bien, pero que sea rápido. Myron está ocupado y no le
  gusta que le molesten.}
-{426}{}{Entiendo.}
+{426}{}{Entendido.}
 {435}{}{(Sus ojos recorren todo tu cuerpo). Sí, por ahora… je je… aunque podría necesitar un poco MÁS algo
  más tarde. Cuando hayas acabado ahí dentro, claro está.}
 {436}{}{Yo… lo tendré en cuenta. ¿Puedo entrar?}

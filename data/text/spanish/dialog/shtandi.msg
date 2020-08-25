@@ -204,7 +204,7 @@
 {303}{}{Está lleno de Garras mortales inteligentes. Incluso pueden hablar.}
 {304}{tand44a}{Ya, claro (mueve la cabeza). Dios, eres más tonto incluso de lo que dijo Hoss! (suspira) Ahí está la puerta.}
 {305}{tand44b}{Vale (mueve la cabeza). Está bien, dejemos de perder el tiempo. (suspira) Ahí está la puerta.}
-{306}{}{Marcho ahora.}
+{306}{}{Yo irme ahora.}
 {307}{}{De acuerdo. Me iré.}
 {308}{tand45}{Te has ganado una bonificación. Mi ayudante lo arreglará.}
 {309}{}{}

@@ -13,13 +13,13 @@
 {111}{}{Esto es nido. Madre de manada dentro. Huevos dentro. Yo protejo. Toda manada protege.}
 {112}{}{Quiero hablar a madre.}
 {113}{}{¿Quién tú?}
-{114}{}{Marcho ahora.}
+{114}{}{Yo irme ahora.}
 {115}{}{Me iré entonces.}
 {116}{}{¿Quién eres?}
 {117}{}{Me gustaría hablar con la madre.}
 {118}{}{Yo Jul. Guerrero de manada. Protejo nido. Protejo a madre.}
 {119}{}{Yo }
-{120}{}{Marcho ahora.}
+{120}{}{Yo irme ahora.}
 {121}{}{Proteger madre es trabajo importante. Tú importante.}
 {122}{}{Soy }
 {123}{}{Proteger la madre es una posición de mucha responsabilidad. Debes ser un importante miembro de la manada.}

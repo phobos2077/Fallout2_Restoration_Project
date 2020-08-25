@@ -57,7 +57,7 @@
 {152}{}{Por supuesto. Aquí, esto es todo lo que podemos pagar. [Él de manos a $5,000.] Yo podría ser un maldito tonto por confiar a un
  extraño, pero tú eres la única esperanza que tenemos de permanecer libre. Hablar con el Viejo Joe en la Bóveda de la Ciudad de patio. Es por lo general
  en o alrededor de la barra. Él sabrá qué hacer.}
-{153}{}{Voy de camino.}
+{153}{}{Estoy en camino.}
 {154}{}{¿Puedo hacerte algunas preguntas?}
 {155}{}{Sin duda, lo que está en tu mente?}
 {156}{}{Donde hizo estas las ratas topo viene, y por qué no se les agresivo?}

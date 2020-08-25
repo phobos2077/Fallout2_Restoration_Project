@@ -17,7 +17,9 @@
 {221}{}{El doc? Oh, probablemente esté por aquí en alguna parte. De hecho, Creo que el esta en camino, así que me iré de aquí y los dejaré a ustedes dos. ¡Adiós!}
 {222}{}{Esto puede llegar a sorprenderte, pero has estado congelado durante mucho tiempo. Quienquiera que fuese "el doc", El ciertamente hace mucho tiempo ya a de estar muerto. Si él era tu amigo, entonces lo siento.}
 {223}{}{No es mi intención darte con un palo en la cabeza, pero has estado en el hielo durante un *buen* largo tiempo. Estoy bastante seguro de que tu amigo, "el doc", ya lleva mucho tiempo muerto.}
-{224}{}{Escucha, chico lindo. No deshice tu trasero psicótico para poder responder tus preguntas y verte cuidarte. Solo te dejo vivir lo suficiente como para contarme cualquier información útil que puedas tener. Entonces comienza a hablar. Cuanto más me puedas decir, más tiempo tendrás para vivir.}
+{224}{}{Escucha, guapetón. No descongelé tu psicótico trasero para responder tus preguntas y ver como te
+ acicalas. Solo te dejo vivir lo suficiente como para contarme cualquier información útil que puedas tener. Así que empieza a hablar.
+ Cuanto más me puedas contar, más tiempo vivirás.}
 {230}{}{[Su actitud fría se desvanece y sus ojos se encienden de rabia.] ¿Crees que puedes intimidarme a MÍ? Tienes una PUTA IDEA ¿con quién estás hablando? ¡Ven aquí y te enseñaré de lo que soy capaz!}
 {231}{}{[Hecho.]}
 {240}{}{[Dex te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología de antes de la guerra que te parece extraño en toda su simetría blanca perlada.] ¿El doc, amigo mío? [Él levanta una ceja.] No sabes quién soy, ¿verdad?}
@@ -101,8 +103,8 @@ No trates de engañarme. Conozco gente como tú.}
  el lugar se ha ido a la mierda, y parece que has salido de algún tipo de historia de aventuras de ciencia ficción.}
 {471}{}{Han pasado más de ciento cincuenta años desde que el Gran Silencio puso fin a los Antiguos... * tu * gente.}
 {475}{}{Gran silencio? ¿Los viejos? ¿Qué tal si me ahorras esta mierda críptica y me cuentas qué pasó?}
-{476}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando los grandes incendios cayeron del cielo y chamuscaron la tierra. Encontrarás que el mundo no es como el que conociste.}
-{480}{}{No mierda, así que en realidad lanzaron las bombas, ¿eh? Supongo que el proyecto de la bóveda no fue solo un gran desperdicio del dinero de los contribuyentes, después de todo.}
+{476}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando las grandes llamas llovieron del cielo y chamuscaron la tierra. Te darás cuenta de que el mundo no se parece en nada al que conocías. }
+{480}{}{No jodas, así que al final lanzaron las bombas, ¿eh? Supongo que el proyecto de los refugios no fue un gran desperdicio del dinero de los contribuyentes, después de todo.}
 {481}{}{Espera. ¿Sabes de los Refugios sagrados?}
 {490}{}{¿Los conoces? Diablos, solía vivir justo al lado del refugio de Chicago. Incluso los ví construirlo.
 Y entonces, por supuesto, empezaron a hacer esas malditas excavaciones... [Para y te observa con asombro.] Te vas a comer eso,
@@ -113,18 +115,20 @@ utilizar su poder para salvar a mi pueblo de la destrucción. Cualquier cosa que 
 {493}{}{Verás, mi gente me había elegido para intentar encontrar un refugio. Arriesgué mi vida en varias ocasiones
 para encontrar ese dichoso refugio y finalmente logré encontrarlo. Tengo curiosidad por lo que puedas saber sobre 
 esos sitios}
-{500}{}{Te diré algo, nena. Necesitas ayuda para encontrar estos refugios, y necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Entonces, ¿qué dices ... compañero?}
+{500}{}{Te diré algo, nena. Necesitas ayuda para encontrar esos refugios, y yo necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Así que, ¿qué me dices... socia?}
 {501}{}{Dice que tenemos un trato, compañero.}
-{502}{}{Bueno, tu conocimiento de los viejos podría ser bastante útil para mí... pero, ya sabes, está todo ese asunto del asesino psicótico...}
-{503}{}{No creo que esté demasiado ansioso por ir a vagar por el desierto con un asesino psicótico. Así que vas por tu cuenta, "amigo". No te preocupes, estoy seguro de que estarás bien. [Risa disimulada.]}
-{510}{}{Oye, como te dije, puedo explicarte. Todo lo que leíste sobre mí fue una mierda total. No compres una palabra de eso.}
-{511}{}{Oye, como te dije, puedo explicarte. Estas malas vibraciones que estás obteniendo de mí son el resultado de los científicos quienes experimentaron en mí.}
-{512}{}{Pero eso no tiene ningún sentido. ¿Qué te hicieron?.}
-{513}{}{Mierda. Creo que es hora de que te calle para siempre.}
+{502}{}{Bueno, tu conocimiento de los antiguos podría serme bastante útil... pero, ya sabes, está todo ese asunto del asesino psicótico...}
+{503}{}{No me veo con ganas de vagar por el desierto con un asesino psicótico. Así que vas por tu
+ cuenta, "nene". No te preocupes, estoy segura de que te irá bien. [Risa disimulada.]}
+{510}{}{Oye, tal y como te dije, puedo explicarlo. Todo lo que has leído sobre mí es absolutamente falso. No te creas ni una palabra.}
+{511}{}{Oye, tal y como te dije, puedo explicarlo. Estas malas vibraciones que percibes de mí son el resultado de los científicos que
+ experimentaron conmigo.}
+{512}{}{Pero eso no tiene ningún sentido. ¿Qué te hicieron?}
+{513}{}{A la mierda. Creo que es hora de que te calle para siempre.}
 {514}{}{Pero no tiene sentido, porque ellos mentirían acerca de ti?}
-{515}{}{La única mierda que hay por aquí es lo que sale de tu boca, y creo que es hora de que te calle para siempre.}
-{520}{}{Oye, sé que no parece tener mucho sentido, pero ¿has mirado alrededor de este lugar? No hay mucho sentido por aquí. Quién sabe lo que sucede en las jodidas mentes de estos científicos.}
-{521}{}{Hmm ... tienes un punto allí. No digo que te crea ... pero supongo que al menos puedo escucharte.}
+{515}{}{La única mierda que hay por aquí es la que sale de tu boca, y creo que es hora de que te calle para siempre.}
+{520}{}{Oye, sé que no parece tener mucho sentido, pero ¿has echado un vistazo por este lugar? No hay muchas cosas que tengan sentido por aquí. Quién sabe lo que pasa en las jodidas mentes de estos científicos.}
+{521}{}{Hmm... en eso tienes razón. No digo que te crea... pero supongo que al menos puedo escuchar lo que tengas que decir.}
 {522}{}{Sí, no es broma. Continuar...}
 {530}{}{De acuerdo, ya ves, todo es parte de sus "experimentos". Estos locos doctores estaban haciendo algún tipo de prueba sobre la "naturaleza del mal humano" o alguna basura. Me estaban inyectando los recuerdos de un maníaco, para ver cómo afectaría la personalidad de una persona normal. Al menos, eso es lo mejor que pude entender.}
 {531}{}{Bueno ... si eso es verdad, entonces es terrible. Pero, ¿qué hizo que te eligieran como sujeto de prueba en primer lugar?}
@@ -209,9 +213,9 @@ esos sitios}
  se levanta y lo abrazas contra su pecho. Se sienta allí por varios momentos, mirando fijamente al frente mientras su cuerpo tiembla y su
  castañeteo de dientes Gradualmente, parece calmarse.]}
 {801}{}{Eh, oye...}
-{810}{}{[Gira la cabeza hacia ti y se pone de pie de un salto. Él te mira atentamente, luego mira a tu alrededor como un acorralado.
- animal. Cuando sus ojos vuelven a ti, se suavizan y él se relaja cuando sus recuerdos vuelven a él. El rápidamente
- altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] Hola muñeca, sé que soy bastante digno de contemplar,
+{810}{}{[Gira la cabeza hacia ti y se pone de pie de un salto. Te mira atentamente, luego mira a su alrededor como un animal
+ arrinconado. Cuando sus ojos vuelven a centrarse en ti, se suavizan y se relaja conforme sus recuerdos vuelven a él. Rápidamente
+ altera su compostura, proyectando una fría confianza, a pesar de su desnudez.] Hola muñeca, sé que soy todo un espectáculo para la vista,
  pero hace un poco de frío aquí. ¿Te importa si me visto?}
 {811}{}{Supongo que no hay daño-}
 {812}{}{Bueno, yo-}
@@ -224,27 +228,35 @@ esos sitios}
 {825}{}{Sí, ME IMPORTA, maldito imbécil. Solo te descongelé para poder humillarte como el perro enfermo que eres.}
 {826}{}{Olvídate de los nombres. ¿Qué tal si te quitas esa ropa y me muestras de qué están hechos los hombres de antes de la guerra?}
 {830}{}{[Sonríe y comienza a desnudarse.] Eres mi tipo de chica. Prepárate para experimentar a Dex, el duque del sexo.}
-{831}{}{[Después de una intensa sesión de hacer el amor en el suelo de la cámara, los dos se derrumban en el agotamiento. Te das cuenta que dex astutamente va por un cuchillo. Rápidamente aprietas sus genitales]}
-{832}{}{Toca ese cuchillo, y te convertiré en el Duque Sin Pene. Además, ¿por qué arruinar una cosa buena? Los dos podríamos divertirnos mucho juntos}
-{833}{}{Yo... Creo Que me enamore. [Dex se ha unido al grupo]}
-{840}{}{Whoa, whoa, whoa. Retrocede un segundo, cariño. ¿Acabas de decir ciento cincuenta años? [Sacude la cabeza con incredulidad.
-
-Eso no es jodidamente creíble. [Mira su reflejo.] Pero tienes que admitir que me veo muy bien para mi edad. [Él te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología anterior a la guerra que te parece extraño en toda su simetría blanca nacarada.]}
-{841}{}{Claro, algunas chicas podrían pensar que eres un tipo atractivo, pero estoy seguro de que están un poco confusas por toda esa cosa psicópata asesino que tienes pasando.}
+{831}{}{[Después de una intensa sesión de sexo en el suelo de la habitación, os desplomáis de agotamiento. Te
+ das cuenta de que Dex va sigilosamente a por un cuchillo oculto. Rápidamente agarras sus genitales.]}
+{832}{}{Toca ese cuchillo, y te convertiré en el Duque Sin Pene. Además, ¿por qué arruinar algo bueno? Los dos podríamos
+ divertirnos mucho juntos.}
+{833}{}{Yo... creo que estoy enamorado. [Dex se ha unido al grupo.]}
+{840}{}{Hey, hey, hey. Espera un momento, cariño. ¿Acabas de decir ciento cincuenta años? [Sacude la cabeza con incredulidad.]
+ Eso es jodidamente increíble. [Mira su reflejo.] Pero tienes que admitir que tengo muy buen aspecto para mi edad. [Te sonríe, revelando un conjunto de dientes perfectos, un producto de la odontología de antes de la guerra que te parece extraña en toda su
+ simetría blanca nacarada.]}
+{841}{}{Claro, algunas chicas podrían pensar que eres un tipo atractivo, pero estoy segura de que se ven desalentadas 
+ por todo ese rollo de asesino psicótico.}
 {842}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
-{843}{}{Claro, algunas chicas podrían pensar que eres un tipo atractivo, pero estoy seguro de que están un poco confusas por toda esa cosa psicópata asesino que tienes pasando.}
+{843}{}{Claro, algunas chicas podrían pensar que eres un tipo atractivo, pero estoy segura de que se ven desalentadas 
+ por esas pintas de psicópata que tienes.}
 {844}{}{No está mal para un hombre de hielo. ¿Por qué estabas congelado allí, de todos modos?}
 {845}{}{Eh, no eres mi tipo. De todos modos, ¿por qué estabas congelado allí?}
 {846}{}{Muy bien, esto es repugnante. Veamos qué bien te ves después de que te haya hecho un par de agujeros en la cara.}
-{850}{}{Bueno por lo general no ven ese lado de mi hasta que es demasiado tarde. Pero de todos modos [Dex echa otro vistazo a la habitación y silva] Este lugar se ha ido a la mierda. ¿Qué me he perdido?}
+{850}{}{Bueno por lo general no ven ese lado de mi hasta que es demasiado tarde. Pero de todos modos... [Dex echa otro vistazo a la habitación y silba]
+ Este lugar se ha ido a la mierda. ¿Qué me he perdido?}
 {851}{}{Han pasado más de ciento cincuenta años desde que el Gran Silencio puso fin a los Antiguos... * tu * gente.}
 {855}{}{Gran silencio? ¿Los viejos? ¿Qué tal si me ahorras esta mierda críptica y me cuentas qué pasó?}
-{856}{}{El Gran Silencio es lo que mi gente llamó el fin de tu mundo. Cuando los grandes fuegos cayeron del cielo y quemaron la tierra. Encontrarás que el mundo no se parece en nada al que conocías.}
-{860}{}{No mierda, así que en realidad lanzaron las bombas, ¿eh? Supongo que el proyecto de la bóveda no fue solo un gran desperdicio del dinero de los contribuyentes, después de todo.}
+{856}{}{El Gran Silencio es lo que mi gente llama el fin de tu mundo. Cuando las grandes llamas llovieron del cielo y chamuscaron la tierra.
+ Te darás cuenta de que el mundo no se parece en nada al que conocías.}
+{860}{}{No jodas, así que al final lanzaron las bombas, ¿eh? Supongo que el proyecto de los refugios no fue un gran desperdicio del dinero de los contribuyentes, después de todo.}
 {861}{}{Espera. ¿Sabes de los Refugios?}
-{870}{}{¿Los conoces? Demonios, Mate a mi primera prostituta no muy lejos de donde estaban construyendo el Refugio de Chicago. Esos eran los días... [Se Detiene y te mira con alegría.] Realmente te estás comiendo esto, ¿verdad?}
+{870}{}{¿Qué si los conozco? Demonios, maté a mi primera prostituta no muy lejos de donde estaban construyendo el refugio de Chicago. Esos eran buenos
+ tiempos... [Se detiene y te mira con una sonrisa.] Te lo has tragado, ¿verdad?}
 {871}{}{¡DIME MAS ACERCA DE LAS BÓVEDAS!}
-{872}{}{Bueno, se supone que estoy tratando de encontrar el refugio para mi tribu. Una vez que lo haga, se espera que encuentre el G.E.C.K. así podemos usar su poder para salvar mi pueblo moribundo. Cualquier cosa que puedas decirme sobre los refugios podría hacer mi trabajo mucho más fácil.}
+{872}{}{Bueno, se supone que estoy intentando encontrar un Refugio para mi tribu. Cuando lo haga, espero encontrar un G.E.C.K. y
+ usar su poder para salvar a mi moribunda aldea. Cualquier cosa que puedas contarme sobre los Refugios haría mi trabajo muchísimo más fácil.}
 {873}{}{Bueno, veras, mi gente me había elegido para tratar de encontrar el refugio. Arriesgué mi vida en varias ocasiones para
   encontrar ese maldito Refugio Sagrado y finalmente tuve éxito en encontrarlo. Tengo curiosidad por saber qué más puedes saber de estos lugares.}
 {880}{}{Te diré algo, nena. Necesitas ayuda para encontrar estos refugios, y necesito que alguien me muestre las cuerdas, por así decirlo, en este loco mundo tuyo. Entonces, ¿qué dices ... compañero?}
@@ -283,30 +295,30 @@ Eso no es jodidamente creíble. [Mira su reflejo.] Pero tienes que admitir que me
 {1112}{}{No, aún no.}
 {1200}{}{Así que, ¿qué me puedes decir sobre los Refugios?}
 {1201}{}{Así que, ¿ahora recuerdas algo que me puedes decir sobre los Refugios?}
-{1202}{}{¿Hay algo útil que pueda decirme sobre el tiempo antes del Gran Silencio?}
-{1210}{}{Bueno, veamos ... Huh. ¿Sabes que? Mi mente todavía está un poco nublada por algunas cosas. Tendrás que preguntarme más tarde.}
+{1202}{}{¿Hay algo útil que puedas contarme de la época previa al Gran Silencio?}
+{1210}{}{Bueno, veamos... Hmm. ¿Sabes que? Mi mente todavía está un poco nublada para algunas cosas. Tendrás que preguntarme más tarde.}
 {1211}{}{Hmm. De acuerdo.}
-{1220}{}{Los refugios ... refugios ... No, todavía no.}
+{1220}{}{Los refugios... los refugios... No, todavía no.}
 {1221}{}{Hmm. De acuerdo.}
-{1230}{}{Sí, de hecho, lo recuerdo ... Espera, no importa, lo olvidé.}
+{1230}{}{Sí, de hecho, me acuerdo... Espera, déjalo, se me ha olvidado.}
 {1231}{}{Hmm. De acuerdo.}
-{1240}{}{Bueno, yo solía vivir cerca del Refugio de Chicago. ¿Eso ayuda?}
+{1240}{}{Bueno, yo vivía cerca del Refugio de Chicago. ¿Eso ayuda?}
 {1241}{}{¿Sabes si tenía un GECK?}
 {1242}{}{Estoy seguro de que tenía. Estoy bastante seguro de que todos lo tuvieron.}
 {1243}{}{Bien, ahora tenemos algo. ¿Puedes decirme dónde es este Refugio?}
-{1244}{}{No hay problema. Son alrededor de 2,000 millas en esa dirección. [Dex señala hacia el este.]}
+{1244}{}{No hay problema. Son unas 2.000 millas en esa dirección. [Dex señala hacia el este.]}
 {1245}{}{Oh. Bueno, entonces. No importa.}
-{1250}{}{Había un hombre, más grande que cualquier otro, al que llamamos "El Rey". Era un hombre guapo con impecable
-  estilo, cabello increíble y una voz de oro. Con un simple empuje de su pelvis, podía impregnar a todas las mujeres a la vista.
-  Fue adorado como un Dios por la gente del mundo. El era mi padre.}
+{1250}{}{Había un hombre, más grande que cualquier otro, al que llamamos, "El Rey". Era un hombre guapo con impecable
+  estilo, un pelo increíble y una voz de oro. Con un simple empuje de pelvis, podía dejar embarazadas a todas las mujeres a la vista.
+  Fue adorado como un Dios por la gente del mundo. Él era mi padre.}
 {1251}{}{Interesante...}
 {1260}{}{Había inmortales que vivían en secreto entre nosotros. Tuvieron que luchar entre ellos hasta la muerte con espadas hasta
   solo quedaba uno para reclamar "El Premio".}
-{1261}{}{Espere. Si fueran inmortales, ¿cómo podrían matarse entre ellos?}
+{1261}{}{Espera. Si eran inmortales, ¿cómo pudieron matarse entre ellos?}
 {1262}{}{Solo podían ser asesinados por decapitación. Cuando un inmortal decapita a otro, una aceleración
   sería liberado, dando los poderes del inmortal asesinado al vencedor.}
 {1263}{}{¿A qué exactamente te refieres con "poderes"?}
-{1264}{}{Uh, ¿poderes de lucha? Poderes mecánicos? No sé, fue un poco vago.}
+{1264}{}{Um, ¿poderes de lucha? ¿poderes mecánicos? Ni idea, era un poco confuso.}
 {1265}{}{Interesante...}
 {1270}{}{Existían estos lagartos gigantes, algunos más grandes que los edificios, en los que la gente se paseaba. Los llamamos
   dinosaurios, y eran conocidos como el mejor amigo del hombre.}
@@ -442,7 +454,7 @@ Pero bueno, si no me vas a creer, ya no te cuento historias por ahora.}
 {4023}{}{¿Solo te quedarás allí parado y me verás desangrarme hasta morir o vas a hacer algo al respecto?}
 {4030}{}{Me siento un poco raro por aquí ...}
 {4031}{}{Hola, me estoy sintiendo un poco radiada. Si este no es el tipo que otorga súper poderes, a continuación, voy a estar cabreado.}
-{4040}{}{¿Sabes?, Eres una mala influencia.}
+{4040}{}{¿Sabes? Eres una mala influencia.}
 {4041}{}{Yo trate de mantenerse alejado de estas cosas. Pero si usted insiste...}
 {4042}{}{Mi cuerpo es un templo, pero supongo que esta vez no duele.}
 {4043}{}{Si descubro que esto hace daño permanente, te mato.}

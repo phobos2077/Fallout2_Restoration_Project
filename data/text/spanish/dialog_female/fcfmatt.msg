@@ -12,7 +12,7 @@
 {111}{}{¿Quienes vosotros?}
 {112}{}{¿Por qué nadie dice nada de ti?}
 {113}{}{¿Por qué hay sólo una gente aquí?}
-{114}{}{Marcho ahora.}
+{114}{}{Yo irme ahora.}
 {115}{}{¿Quienes sois vosotros?}
 {116}{}{¿Por qué nadie de por aquí te ha mencionado?}
 {117}{}{¿Por qué sólo tenéis a una persona aquí?}

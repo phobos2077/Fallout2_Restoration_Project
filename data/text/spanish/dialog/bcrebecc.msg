@@ -58,7 +58,7 @@
 {157}{}{Bueno... aquí hay un Refugio, creo que el número 15. Quieren recuperar lo que quiera que aún quede ahí de la vieja tecnología.}
 {158}{}{Ah. Entiendo yo.}
 {159}{}{Sabía que tenía que haber algo aparte de esta escoria de gente.}
-{160}{}{Entiendo.}
+{160}{}{Entendido.}
 {161}{}{Eso explica todo. Has sido de mucha ayuda, pero me gustaría preguntarte una cosa más.}
 {162}{}{Ese debe ser Zeke. Controla todo aquí. Puedes encontrarle en ese edificio de ahí. ::señala al nordeste::}
 {163}{}{Gracias. Más preguntas.}

@@ -107,7 +107,7 @@
 {185}{}{Sí, ya sabes, muy viajado... con conocimientos... experimentado... no tienes ni idea de lo que estoy
  hablando, ¿verdad? }
 {186}{}{Comida condimentada, no yo.}
-{187}{}{Marcho ahora.}
+{187}{}{Yo irme ahora.}
 {188}{}{Oh oh. Bueno, puede que tu cociente intelectual sea menor que tu medida de zapato, pero obviamente tienes algo
  que hace que hayas sobrevivido en ese mundo todo este tiempo... Vale, intentémoslo. Quiero dejar este lugar,
  viajaré contigo. ¿De acuerdo?}

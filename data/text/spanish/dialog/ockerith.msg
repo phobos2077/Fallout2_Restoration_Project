@@ -7,7 +7,7 @@
 {106}{}{¿Quién padre de Garras?}
 {107}{}{Puerta jodida. ¿Por qué?}
 {108}{}{¿Quién hizo habitación de nido?}
-{109}{}{Marcho ahora.}
+{109}{}{Yo irme ahora.}
 {110}{}{Así que, ¿eres la Garra mortal madre?}
 {111}{}{¿Quién es el Garra mortal padre?}
 {112}{}{¿Qué le pasó a la puerta? Parece haber tenido días mejores.}
