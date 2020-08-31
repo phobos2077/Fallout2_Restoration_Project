@@ -35,7 +35,7 @@
 {134}{}{Die Wahrscheinlichkeit eines Fehlstarts der Hubologenrakete liegt bei 95%. Gründe: Kein Treibstoff, ungeeignetes Dichtungsmaterial, schlechte Führung, Mangel an Initiative.}
 {135}{}{Die Wahrscheinlichkeit, dass der sogenannte "Auserwählte" seine Aufgabe erfüllt, liegt bei 15%.}
 {136}{}{Eingabewert zeigt, dass "Enklave" stärker als vermutet. Nicht annähern.}
-{137}{}{Wahrscheinlichkeit, dass U-Boot in diesem Spiel wieder auftaucht gleich 100%.}
+{137}{}{Chances of submarine reappearing in this game: 100%}
 {138}{}{Wahrscheinlichkeit, dass die Tankervagabunden die Monsterplage ohne Hilfe von außen bewältigen gleich 0%. Nutzen einer Hilfeleistung wird untersucht.}
 {139}{}{Eingabe: Poseidon-Öltanker nicht bereit zum Auslaufen. Weitere Eingaben nötig.}
 {140}{}{Keine Bearbeitung. Weitere Eingaben nötig}

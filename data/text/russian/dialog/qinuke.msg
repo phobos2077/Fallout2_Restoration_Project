@@ -12,6 +12,5 @@
 {225}{}{Ключ-карта принята. Отмена безопасности формы 2 выполнена.}
 {226}{}{Активировать бомбу.}
 {227}{}{Отключиться.}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
- T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
+{228}{}{Бомба активирована и сдетонирует в течение 5 минут. Ошибка в процедуре обратного отсчета. Обратный отсчет переведен на 5 секунд. Пожалуйста, убедитесь, что вы находитесь по крайней мере в 80 милях от зоны взрыва. Хорошего вам дня.}
 {229}{}{Матерь божья...}

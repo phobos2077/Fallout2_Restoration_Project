@@ -35,7 +35,7 @@
 {134}{}{Le lancement spatial des Hubologistes est à 95% voué à l'échec. Facteurs : pas de carburant, mauvaise étanchéité, mauvais commandement, manque d'initiative.}
 {135}{}{Les chances de réussite de *l'Etre Elu* désigné sont de 15%.}
 {136}{}{Les données indiquent que *l'Enclave* est plus puissante qu'on ne le pensait et qu'il ne faut pas s'en approcher.}
-{137}{}{Chance de réapparition d'un sous-marin dans ce jeu : 0%}
+{137}{}{Chances of submarine reappearing in this game: 100%}
 {138}{}{Les vagabonds du pétrolier ont 0% de chance de se débarrasser de l'invasion de monstres sans aide extérieure. Traitement de la proposition d'aide en cours.}
 {139}{}{Données : pétrolier Poséidon incapable de prendre le large. Plus de données nécessaires.}
 {140}{}{Pas de traitement. Entrée requise.}
