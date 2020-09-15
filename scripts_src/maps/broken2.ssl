@@ -48,15 +48,20 @@ variable manson_hex;
 variable Damage_Timer_Started := 0;
 variable damage;
 
-#define wearing_protective_gear(x)  ( ( obj_pid( get_armor( x) ) == PID_POWERED_ARMOR ) or \
-                                      ( obj_pid( get_armor( x) ) == PID_HARDENED_POWER_ARMOR ) or \
-                                      ( obj_pid( get_armor( x) ) == PID_ADVANCED_POWER_ARMOR ) or \
-                                      ( obj_pid( get_armor( x) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) or \
-                                      ( obj_pid( get_armor( x) ) == PID_ENVIRONMENTAL_ARMOUR ) or \
-                                      ((obj_pid(dude_right_hand) == PID_GAS_MASK) or (obj_pid(dude_left_hand) == PID_GAS_MASK)) )
+#define wearing_protective_gear(x) \
+   (obj_pid(get_armor(x)) == PID_POWERED_ARMOR) or \
+   (obj_pid(get_armor(x)) == PID_HARDENED_POWER_ARMOR) or \
+   (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR) or \
+   (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR_MK2) or \
+   (obj_pid(get_armor(x)) == PID_ENVIRONMENTAL_ARMOUR) or \
+   (  (x == dude_obj) and \
+         (obj_pid(dude_right_hand) == PID_GAS_MASK) or \
+         (obj_pid(dude_left_hand) == PID_GAS_MASK) \
+   )
 
-#define apply_radon_damage(x)    damage := random( 10, 15 ); \
-                                 critter_dmg( x, damage, ( DMG_normal_dam BWOR DMG_NOANIMATE BWOR DMG_BYPASS_ARMOR ));
+#define apply_radon_damage(x) \
+   damage := random(10, 15); \
+   critter_dmg(x, damage, (DMG_normal_dam bwor DMG_NOANIMATE bwor DMG_BYPASS_ARMOR));
 
 export variable frank_obj;
 export variable manson_obj;
@@ -98,8 +103,6 @@ procedure map_enter_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   //set_map_var( MVAR_Came_From_Broken2, 1 ); - comment out by killap
-
    if( dude_elevation == 0) then
       Lighting;
    else
@@ -114,20 +117,18 @@ procedure map_update_p_proc begin
       move_to( broken_hills_cavein, 9091, 0 );
 
       // Add new blocking hexes to prevent entry into mine.
-      create_object( PID_BLOCKING_HEX, 9493, 0 );
-      create_object( PID_BLOCKING_HEX, 9292, 0 );
-      create_object( PID_BLOCKING_HEX, 9491, 0 );
+      create_object(PID_BLOCKING_HEX, 9493, 0);
+      create_object(PID_BLOCKING_HEX, 9292, 0);
+      create_object(PID_BLOCKING_HEX, 9491, 0);
 
-      add_timer_event( self_obj, game_ticks(2), 1);
+      add_timer_event(self_obj, game_ticks(2), 1);
    end
 
 end
 
-//added by killap
 procedure map_exit_p_proc begin
-   set_global_var( GVAR_CAME_FROM_BROKEN2, 1 );
+   set_global_var(GVAR_CAME_FROM_BROKEN2, 1);
 end
-//end added
 
 procedure timed_event_p_proc begin
    if( fixed_param == 1 ) then begin
