@@ -48,7 +48,7 @@
 {147}{}{Volveré a por mi recompensa.}
 {148}{hak008}{La carga que llevas sólo se volverá más pesada.}
 {149}{hak009}{Que los dioses bendigan tus esfuerzos, Elegida. Que tu aura agracie mi presencia cuando la tierra vuelva a respirar limpia de nuevo.}
-{150}{}{He entendido que quieres verme de nuevo cuando haya acabado... Podrías simplemente haber dicho eso, ¿sabes?}
+{150}{}{He entendido que quieres verme de nuevo cuando haya acabado... Podrías simplemente haberlo dicho, sabes.}
 {151}{}{Adiós.}
 {152}{hak010}{¡Ja! El espíritu del Fundador mora en ti. Concéntrate en fortalecer tu interior para expandir tu grandeza hasta que toque al mundo. Por supuesto, las recompensas materiales serán más que las del espíritu.}
 {153}{}{Suena bien. Volveré cuando haya acabado.}
