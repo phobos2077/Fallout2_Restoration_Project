@@ -3,8 +3,9 @@
 set -xeu -o pipefail
 
 release_dir="$(realpath $release_dir)"
+api_url="https://api.github.com/repos/${appearance_repo}/releases/latest"
 
 cd "$release_dir"
-wget -nv "$(curl -s https://api.github.com/repos/${appearance_repo}/releases/latest | grep browser_download_url | awk -F '"' '{print $4}')"
-unzip appearance*.zip
-rm -f appearance*.zip
+wget -nv "$(curl -s $api_url | grep browser_download_url | grep -v non_canon | awk -F '"' '{print $4}')"
+unzip hero_appearance*.zip
+rm -f hero_appearance*.zip

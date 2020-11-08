@@ -43,7 +43,6 @@ env:
     - mod_name: rpu
     - extra_dir: extra
     - bin_dir: extra/bin
-    - appearance_dir: appearance
     - appearance_repo: BGforgeNet/Fallout2_Hero_Appearance
     - party_orders_repo: BGforgeNet/Fallout2_Party_Orders
     - hq_music_repo: BGforgeNet/Fallout2-HQ-music

@@ -5,6 +5,7 @@ This file lists changes for RPU only. See original RP changelog [here](rp-change
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 18](#version-18)
 - [Version 17](#version-17)
 - [Version 16](#version-16)
 - [Version 14](#version-14)
@@ -21,6 +22,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 3](#version-3)
 - [Version 2](#version-2)
 - [Version 1](#version-1)
+
+### Version 18
+Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) to v2.1, shipping only canon sets by default.
 
 ### Version 17
 - Kaga now has [consistent stats and HP](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/57).
