@@ -23,6 +23,9 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 - [Version 2](#version-2)
 - [Version 1](#version-1)
 
+### Unreleased
+- [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/66) Melee and Unarmed skills in Cat Jules' level 5 proto.
+
 ### Version 18
 Updated [Hero Appearance](https://github.com/BGforgeNet/Fallout2_Hero_Appearance) to v2.1, shipping only canon sets by default.
 
