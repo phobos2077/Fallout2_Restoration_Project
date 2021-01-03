@@ -48,17 +48,6 @@ variable manson_hex;
 variable Damage_Timer_Started := 0;
 variable damage;
 
-#define wearing_protective_gear(x) \
-   (obj_pid(get_armor(x)) == PID_POWERED_ARMOR) or \
-   (obj_pid(get_armor(x)) == PID_HARDENED_POWER_ARMOR) or \
-   (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR) or \
-   (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR_MK2) or \
-   (obj_pid(get_armor(x)) == PID_ENVIRONMENTAL_ARMOUR) or \
-   (  (x == dude_obj) and \
-         (obj_pid(dude_right_hand) == PID_GAS_MASK) or \
-         (obj_pid(dude_left_hand) == PID_GAS_MASK) \
-   )
-
 #define apply_radon_damage(x) \
    damage := random(10, 15); \
    critter_dmg(x, damage, (DMG_normal_dam bwor DMG_NOANIMATE bwor DMG_BYPASS_ARMOR));
@@ -147,7 +136,7 @@ end
 procedure CauseDamage begin
    variable dmg, who;
    foreach who in party_member_list_critters begin
-      if not wearing_protective_gear(who)
+      if not protected_from_gas(who)
          and critter_kill_type(who) != KILL_TYPE_robot_kills
       then begin
          apply_radon_damage(who)

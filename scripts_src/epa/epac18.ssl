@@ -41,11 +41,8 @@ end
 
 procedure combat_p_proc
 begin
-   if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED) then begin
-       //if (target_obj == dude_obj) then begin
-     poison(target_obj,random(POISON_MIN,POISON_MAX));
-       //end
-   end
+  if (fixed_param == COMBAT_SUBTYPE_HIT_SUCCEEDED)
+    and (target_obj == dude_obj) then poison(target_obj,random(POISON_MIN,POISON_MAX));
 end
 
 procedure critter_p_proc

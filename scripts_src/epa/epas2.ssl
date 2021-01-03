@@ -30,39 +30,30 @@ procedure start begin
 end
 
 procedure spatial_p_proc begin
-   if ((obj_pid(source_obj) == PID_FRUIT_FLY) or (obj_pid(get_right_hand(source_obj)) == PID_GAS_MASK) or (obj_pid(get_left_hand(source_obj)) == PID_GAS_MASK)) then begin
-   //if (obj_carrying_pid_obj(source_obj, PID_GAS_MASK)) then begin
-      //do nothing
-   end else begin
-      call doPain;
-   end
+   if obj_pid(source_obj) != PID_FRUIT_FLY then call doPain;
 end
 
 procedure doPain begin
-   if (get_armor(source_obj) != 0) then
-      worn := obj_pid(get_armor(source_obj));
-   if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin
-      if ((cur_map_index == MAP_EPA_SUBLEVELS_2) or (map_var(MVAR_Cleaned_Fan) == 0)) then begin
-         poison(source_obj, 100);
-      end else if (map_var(MVAR_Cleaned_Fan) == 1) then begin
-         poison(source_obj, 50);
-      end else begin
-        if (Current_Distance_From_Obj(source_obj) <= 1) then begin
-            if (get_item(source_obj, PID_RUBBER_BOOTS)) then begin
-              //if carrying boots ..do boot damage
-             //ndebug("NPC Code");
-              k := random(1,100);
-              if (k < 2) then begin //1% chance to melt
-                 my_boots := get_item(source_obj, PID_RUBBER_BOOTS);
-                 rm_obj_from_inven(source_obj, my_boots);
-                 destroy_object(my_boots);
-                 if (source_obj == dude_obj) then
-                    display_msg(mstr(130));
-              end
-            end else begin
-                critter_dmg(source_obj, 2, DMG_plasma);
+   if ((cur_map_index == MAP_EPA_SUBLEVELS_2) or (map_var(MVAR_Cleaned_Fan) == 0)) then begin
+      if can_be_gas_poisoned(source_obj) then poison(source_obj, 100);
+   end else if (map_var(MVAR_Cleaned_Fan) == 1) then begin
+      if can_be_gas_poisoned(source_obj) then poison(source_obj, 50);
+   end else begin
+      if (Current_Distance_From_Obj(source_obj) <= 1) then begin
+         if (get_item(source_obj, PID_RUBBER_BOOTS)) then begin
+            //if carrying boots ..do boot damage
+            //ndebug("NPC Code");
+            k := random(1,100);
+            if (k < 2) then begin //1% chance to melt
+               my_boots := get_item(source_obj, PID_RUBBER_BOOTS);
+               rm_obj_from_inven(source_obj, my_boots);
+               destroy_object(my_boots);
+               if (source_obj == dude_obj) then
+                  display_msg(mstr(130));
             end
-        end
+         end else begin
+            critter_dmg(source_obj, 2, DMG_plasma);
+         end
       end
    end
 end

@@ -44,5 +44,20 @@ procedure removeVaultBoxerAppearance begin
   end
 end
 
+#define protected_from_gas(x) \
+  (obj_pid(get_armor(x)) == PID_POWERED_ARMOR) or \
+  (obj_pid(get_armor(x)) == PID_HARDENED_POWER_ARMOR) or \
+  (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR) or \
+  (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR_MK2) or \
+  (obj_pid(get_armor(x)) == PID_ENVIRONMENTAL_ARMOUR) or \
+  ( (x == dude_obj) and \
+    (obj_pid(dude_right_hand) == PID_GAS_MASK) or \
+    (obj_pid(dude_left_hand) == PID_GAS_MASK) \
+  ) \
+  and (critter_kill_type(x) != KILL_TYPE_robot_kills)
+
+#define can_be_gas_poisoned(x) \
+  (x == dude_obj) \
+  and not (protected_from_gas(x))
 
 #endif  // RPU_COMMAND_H

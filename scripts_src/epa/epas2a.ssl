@@ -73,24 +73,13 @@ end
    This procedure gets called when player is near.
 **************************************************************************************/
 procedure spatial_p_proc begin
-   if ((obj_pid(get_right_hand(source_obj)) == PID_GAS_MASK) or (obj_pid(get_left_hand(source_obj)) == PID_GAS_MASK)) then begin
-   //if (obj_carrying_pid_obj(source_obj, PID_GAS_MASK)) then begin
-      //do nothing
-   end else begin
-      call doPain;
-   end
+   if can_be_gas_poisoned(source_obj) then call doPain;
 end
 
 procedure doPain begin
-   if (get_armor(source_obj) != 0) then
-      worn := obj_pid(get_armor(source_obj));
-   if ( (worn != PID_POWERED_ARMOR) and (worn != PID_HARDENED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR) and (worn != PID_ADVANCED_POWER_ARMOR_MK2) and (worn != PID_ENVIRONMENTAL_ARMOUR) ) then begin
-      if (map_var(MVAR_Cleaned_Fan) == 0) then begin
-         poison(source_obj, 100);
-      end else if (map_var(MVAR_Cleaned_Fan) == 1) then begin
-         poison(source_obj, 50);
-      end else begin
-        //do nothing
-      end
+   if (map_var(MVAR_Cleaned_Fan) == 0) then begin
+      poison(source_obj, 100);
+   end else if (map_var(MVAR_Cleaned_Fan) == 1) then begin
+      poison(source_obj, 50);
    end
 end
