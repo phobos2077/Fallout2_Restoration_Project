@@ -120,13 +120,12 @@ procedure map_exit_p_proc begin
 end
 
 procedure timed_event_p_proc begin
-   if( fixed_param == 1 ) then begin
+   if fixed_param == 1 then begin
       gfade_in(600);
    end
-   else if( fixed_param == 2 ) then begin
-      if( global_var(GVAR_BH_MINE) < MINE_FIXED_CASH ) then begin
-         if( dude_elevation == 2) then
-            call CauseDamage;
+   else if fixed_param == 2 then begin
+      if global_var(GVAR_BH_MINE) < MINE_FIXED_CASH then begin
+         if dude_elevation == 2 then call CauseDamage;
          add_timer_event( self_obj, game_ticks(20), 2);
       end
    end
@@ -136,10 +135,6 @@ end
 procedure CauseDamage begin
    variable dmg, who;
    foreach who in party_member_list_critters begin
-      if not protected_from_gas(who)
-         and critter_kill_type(who) != KILL_TYPE_robot_kills
-      then begin
-         apply_radon_damage(who)
-      end
+      if not protected_from_gas(who) then apply_radon_damage(who);
    end
 end
