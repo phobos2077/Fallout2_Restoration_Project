@@ -135,6 +135,8 @@ end
 procedure CauseDamage begin
    variable dmg, who;
    foreach who in party_member_list_critters begin
-      if not protected_from_gas(who) then apply_radon_damage(who);
+      if prone_to_gas(who) then begin
+         apply_radon_damage(who)
+      end
    end
 end

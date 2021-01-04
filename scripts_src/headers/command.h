@@ -1320,6 +1320,11 @@ variable removed_qty;
 // raiders macros end
 
 //see the file for disambiguation
-#include "rpu_command.h"
+#include "command_extra.h"
+
+#define prone_to_gas(x) ( \
+  not protected_from_gas(x) and (critter_kill_type(x) != KILL_TYPE_robot_kills) \
+)
+#define can_be_gas_poisoned(x) ((x == dude_obj) and not (protected_from_gas(x)))
 
 #endif // COMMAND_H
