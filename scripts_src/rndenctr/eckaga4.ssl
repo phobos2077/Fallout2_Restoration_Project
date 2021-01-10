@@ -143,8 +143,9 @@ procedure do_setup begin
       set_kaga_3;
       set_kaga_4;
       check_restock_item(PID_MINIGUN, 1, 1, 100)
-      check_restock_item(PID_LASER_RIFLE, 1, 1, 100)
       check_restock_item(PID_5MM_JHP, 3, 3, 100)
+      check_restock_item(PID_SUPER_CATTLE_PROD, 1, 1, 100)
+      check_restock_item(PID_SMALL_ENERGY_CELL, 2, 2, 100)
       check_restock_item(PID_BOTTLE_CAPS, 1000, 1000, 100)
 
       wield_obj_critter(self_obj,self_item(PID_MINIGUN));

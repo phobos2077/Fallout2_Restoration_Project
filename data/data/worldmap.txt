@@ -1056,7 +1056,7 @@ type_00=pid:16777707, Script:833
 position=Surrounding
 
 [Encounter: KAGA4]
-type_00=pid:16777708, Item:12(wielded), Script:834
+type_00=pid:16777708, Script:834
 position=Surrounding
 
 [Encounter: KAGA5]
