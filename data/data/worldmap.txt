@@ -1048,7 +1048,7 @@ type_00=pid:16777705, Item:7(wielded), Script:831	; Kaga1 (Male Primitive)
 position=Surrounding
 
 [Encounter: KAGA2]
-type_00=pid:16777706, Item:10(wielded), Script:832
+type_00=pid:16777706, Script:832
 position=Surrounding
 
 [Encounter: KAGA3]
