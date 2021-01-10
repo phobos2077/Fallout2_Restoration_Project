@@ -27,10 +27,8 @@
 */
 #define SCRIPT_REALNAME "eckaga2"
 #include "../headers/define.h"
-//#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_ECKAGA2
-//#define TOWN_REP_VAR            (GVAR_TOWN_REP_)
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
@@ -108,23 +106,6 @@ end
 
 
 procedure combat_p_proc begin
-   /*if (local_var(LVAR_Personal_Enemy)) then begin
-      if (not critter_is_fleeing(self_obj)) then begin
-         critter_set_flee_state(self_obj, 1);
-      end
-   end
-
-   if (critter_is_fleeing(self_obj)) then begin
-      call NodeFleeing;
-      if (not obj_on_screen(self_obj)) then begin
-         set_kaga_met;
-         destroy_object(self_obj);
-      end
-
-   end else begin
-      call NodeFighting;
-   end*/
-
    if (self_visible) then begin
       if (Random(1, 100) <= TAUNT_CHANCE) then begin
          if (critter_is_fleeing(self_obj)) then begin
@@ -141,11 +122,9 @@ procedure combat_p_proc begin
       if (((not obj_on_screen(self_obj)) or (tile_distance_objs(dude_obj, self_obj) > 15)) and (critter_is_fleeing(self_obj))) then begin
          set_kaga_met;
          float_msg(self_obj, mstr(113), FLOAT_MSG_RED);
-         //destroy_object(self_obj);
          set_self_invisible;
       end
    end
-
 end
 
 procedure map_exit_p_proc begin
@@ -160,30 +139,13 @@ procedure do_setup begin
    if not(local_var(LVAR_Defeated)) then begin
       set_self_team(TEAM_RND_KAGA);
       set_self_ai(AI_KAGA);
-      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
       set_kaga_1;
       set_kaga_2;
-      //display_msg("KAGA STATE: " + global_var(GVAR_RND_KAGA_STATE));
       check_restock_item(PID_14MM_PISTOL, 1, 1, 100)
       check_restock_item(PID_14MM_AP, 2, 2, 100)
       check_restock_item(PID_ASSAULT_RIFLE, 1, 1, 100)
       check_restock_item(PID_BOTTLE_CAPS, 250, 250, 100)
-
-
-      //move_to(self_obj, 20307, 0);
-      //move_to(dude_obj, 20713, 0);
-
       wield_obj_critter(self_obj,self_item(PID_14MM_PISTOL));
-      //display_msg(mstr(200));
-
-
-      //PID_WEAK_MELEE_GUARD_MALE - PID_CROWBAR
-      //PID_MALE_BANDIT - PID_KNIFE
-      //PID_FEMALE_BANDIT - PID_CLUB
-
-      //Face_Critter(dude_obj, self_obj);
-      //Face_Critter(self_obj, dude_obj);
-
       Critter:=create_object_sid(PID_WEAK_MELEE_GUARD_MALE,0,0,SCRIPT_ECBANDIT);
       add_obj_to_inven(Critter, create_object(PID_SHARP_SPEAR,0,0));
       add_mult_objs_to_inven(Critter, create_object(PID_BOTTLE_CAPS,0,0),random(0,10));
@@ -241,24 +203,6 @@ end
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
-
-/* If the critter is mad at the player for any reason, it will attack and remember to attack
-   the player should the game be saved and loaded repeatedly. Additionally, if any special
-   actions need to be taken by the critter based on previous combat, the critter will remember
-   this as well. */
-
-   /*if (local_var(LVAR_Personal_Enemy)) then begin
-      if (obj_on_screen(self_obj)) then begin
-         if (not anim_busy(self_obj)) then begin
-            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 5));
-         end
-      end else begin
-         set_kaga_met;
-         destroy_object(self_obj);
-      end
-   end else if (self_can_see_dude) then begin
-      attack(dude_obj);
-   end*/
    variable rot;
 
    if (self_visible) then begin
@@ -271,7 +215,6 @@ procedure critter_p_proc begin
          if ((not(obj_on_screen(self_obj))) or (tile_distance_objs(dude_obj, self_obj) > 15)) then begin
             float_msg(self_obj, mstr(113), FLOAT_MSG_RED);
             set_global_var(GVAR_RND_KAGA_STATE, global_var(GVAR_RND_KAGA_STATE) bwor 64);
-            //destroy_object(self_obj);
             set_self_invisible;
          end else begin
             if (tile_distance_objs(dude_obj, self_obj) < 15) then begin
@@ -297,36 +240,11 @@ procedure critter_p_proc begin
          end
       end
    end
-
-   /*if ((self_cur_hits) <= ((self_max_hits) - 100)) then begin
-      if not(local_var(LVAR_Defeated)) then
-         set_local_var(LVAR_Defeated,1);
-      if ( ((obj_on_screen(self_obj))) or (self_can_see_dude) ) then begin
-         if (not anim_busy(self_obj)) then begin
-            self_run_to_tile(tile_num_in_direction(self_tile, Run_Away_From_Dude_Dir, 12));
-         end
-      end else begin
-         set_kaga_met;
-         destroy_object(self_obj);
-      end
-   end else if ( not(combat_is_initialized) and (local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
-       //set_local_var(LVAR_Hostile,1);
-       attack(dude_obj);
-   end*/
-
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
    like setting ENEMY_ and LVAR_Personal_Enemy can be set here. */
 procedure damage_p_proc begin
-
-/* If the player causes damage to this critter, then he will instantly consider the player
-   his personal enemy. In Critter_Proc or through dialog, actions will be taken against
-   the player for his evil acts. */
-   /*if (source_obj == dude_obj) then begin
-       set_local_var(LVAR_Personal_Enemy,1);
-   end*/
-
 end
 
 /* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
@@ -348,7 +266,6 @@ end
    incrementing the death count for reputation purposes and Enemy Counters are placed
    in here. */
 procedure destroy_p_proc begin
-
 /* Increment the aligned critter counter*/
    inc_evil_critter
 
