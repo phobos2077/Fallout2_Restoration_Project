@@ -35,6 +35,9 @@ Docs: [changelog](docs/changelog.md), [original readme](docs/rp-readme.txt), [ne
 1. [UPU](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch) is included into RPU. You don't need to install UPU separately.
 1. See `mods/rpu.ini` for various settings that can be configured.
 
+Special note for _Linux/MacOS_ users:
+When launching the game, you **must** set dll overrides: `WINEDLLOVERRIDES='ddraw.dll=n,b' wine fallout2.exe` (or use wine preferences to configure this). If you don't do that, the game will not work correctly.
+
 ### Update
 Make sure to **backup your saves** or better yet, the entire game directory **before** updating.
 
