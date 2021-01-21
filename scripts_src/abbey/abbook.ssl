@@ -40,8 +40,10 @@ procedure description_p_proc begin
    display_mstr(101);
 end
 
-procedure use_p_proc
-begin
- script_overrides;
- display_mstr(102);
+
+procedure use_p_proc begin
+   if (inven_count(self_obj) == 0) then begin
+      script_overrides;
+      display_mstr(102);
+   end
 end
