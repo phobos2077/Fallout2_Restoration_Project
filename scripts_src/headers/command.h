@@ -37,6 +37,7 @@ variable global_temp;
 
 #define Current_Distance_From_Obj(the_obj)  tile_distance_objs(self_obj,the_obj)
 #define Current_Distance_From_Dude          Current_Distance_From_Obj(dude_obj)
+#define distance_dude                       tile_distance_objs(self_obj,dude_obj)
 
 #define Future_Distance_From_Obj(x, y)      tile_num_in_direction(tile_num(x), ((has_trait(TRAIT_OBJECT,x,OBJECT_CUR_ROT) + 3)%6), y)
 #define Future_Distance_From_Dude(x)        Future_Distance_From_Obj(dude_obj, x)
