@@ -125,3 +125,6 @@
 {501}{}{Vypadá to, že musíš nejdøíve zprovoznit generátor.}
 {502}{}{Vidíš dveøe od výtahu.}
 {503}{}{Vypadá to, že k otevøení tohoto zámku budeš potøebovat nìjaké elektrické zaøízení.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

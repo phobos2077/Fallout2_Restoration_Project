@@ -124,3 +124,6 @@
 {501}{}{Похоже, сперва необходимо запустить генератор.}
 {502}{}{Вы видите дверь лифта.}
 {503}{}{Похоже, этот замок можно открыть только каким-нибудь электрическим приспособлением.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

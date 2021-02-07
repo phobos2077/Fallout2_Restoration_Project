@@ -111,3 +111,6 @@
 {211}{}{ schafft es nicht, die Falle richtig an der Ecke anzubringen.}
 {212}{}{Du siehst einen Kühlschrank.}
 {400}{}{Du sperrst den Behälter auf.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

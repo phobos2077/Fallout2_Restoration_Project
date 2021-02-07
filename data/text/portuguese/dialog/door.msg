@@ -176,3 +176,6 @@ a porta está aberta.}
 {501}{}{Parece que você precisa primeiro ativar o gerador.}
 {502}{}{Você vê: porta do Elevador.}
 {503}{}{Parece que você precisa de um dispositivo elétrico para abrir este bloqueio.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

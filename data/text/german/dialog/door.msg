@@ -124,3 +124,6 @@
 {501}{}{Sieht aus, als müsstest du zuerst den Generator zum Laufen bringen.}
 {502}{}{Du siehst: Fahrstuhltür.}
 {503}{}{Sieht aus, als bräuchtest du ein elektrisches Gerät, um das Schloss aufzukriegen.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

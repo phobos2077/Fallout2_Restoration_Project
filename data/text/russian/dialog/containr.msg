@@ -111,3 +111,6 @@
 {211}{}{ не может установить на контейнере ловушку.}
 {212}{}{Вы видите холодильник.}
 {400}{}{Вы отпираете контейнер.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
