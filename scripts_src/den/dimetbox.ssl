@@ -51,9 +51,7 @@ variable special_item;
 /* Set up the door state when the player first enters the map */
    den_metzger_box_obj := self_obj;
    if (is_loading_game == false) then begin
-
       restock_fix
-
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          if (gave_metzger_party_stuff) then begin
             off_gave_metzger_party_stuff;

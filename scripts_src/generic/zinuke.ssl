@@ -218,9 +218,7 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-
    restock_fix
-
    if (game_time > local_var(LVAR_Restock_Time)) then begin
       if (local_var(LVAR_Stock) < MAX_STOCK) then
          set_local_var(LVAR_Stock, Random(MAX_STOCK / 2, MAX_STOCK));

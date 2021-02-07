@@ -147,7 +147,6 @@ procedure map_enter_p_proc begin
    set_self_ai(AI_SF_SHI);
 
    restock_fix
-
    if (game_time > local_var(LVAR_Restock_Time)) then begin
       check_restock_item(PID_STIMPAK, 5, 7, 100)
       check_restock_item(PID_FIRST_AID_KIT, 1, 3, 60)

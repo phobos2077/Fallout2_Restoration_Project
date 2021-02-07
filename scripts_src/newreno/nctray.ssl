@@ -240,9 +240,7 @@ procedure map_enter_p_proc begin
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end
-
       restock_fix
-
 // Begin Seraph's Code - expansion
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          check_restock_item(PID_SMALL_ENERGY_CELL, 2, 6, 80)

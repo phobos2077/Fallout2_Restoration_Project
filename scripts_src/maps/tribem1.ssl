@@ -45,7 +45,6 @@ begin
 
    if (dude_elevation == 0) then begin
       restock_fix
-
       if (map_var(MVAR_Restock_Time) < game_time) then begin
           set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);
           call Make_Plants;

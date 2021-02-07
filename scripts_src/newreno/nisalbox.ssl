@@ -50,9 +50,7 @@ procedure map_enter_p_proc begin
 
    new_reno_salvatore_bar_box := self_obj;
    if (is_loading_game == false) then begin
-
       restock_fix
-
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          check_restock_item(PID_MUTATED_FRUIT, 1, 2, 100)
          check_restock_item(PID_JET, 2, 10, 100)
