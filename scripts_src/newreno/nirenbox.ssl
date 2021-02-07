@@ -51,12 +51,7 @@ procedure map_enter_p_proc begin
    new_reno_renesco_box := self_obj;
    if (is_loading_game == false) then begin
 
-      //added by killap - fix for game_time going negative after 7 years
-      if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
-         set_local_var(LVAR_Restock_Time, game_time - 1);
-         set_local_var(LVAR_Restock_Time_Fix, 1);
-      end
-      //end added
+      restock_fix
 
       if (local_var(LVAR_Restock_Time) < game_time) then begin
          self_caps_adjust(random(250,500) - self_caps);

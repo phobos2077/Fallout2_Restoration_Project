@@ -51,25 +51,18 @@ end
    the player locks it once more.
 ***************************************************************************************/
 procedure map_enter_p_proc begin
-/* Set up the door state when the player first enters the map */
+   /* Set up the door state when the player first enters the map */
    variable tmp;
    variable special_item;
 
    klam_bucknr_box_obj := self_obj;
-
    if (local_var(LVAR_Set_Door_Status) == 0) then begin
        set_local_var(LVAR_Set_Door_Status,1);
        set_local_var(LVAR_Locked,LOCKED_STATUS);
        set_local_var(LVAR_Trapped,TRAPPED_STATUS);
    end
 
-   //added by killap - fix for game_time going negative after 7 years
-   if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
-      set_local_var(LVAR_Restock_Time, game_time - 1);
-      set_local_var(LVAR_Restock_Time_Fix, 1);
-   end
-   //end added
-
+   restock_fix
    if (local_var(LVAR_Restock_Time) < game_time) then begin
       check_restock_item(PID_BOTTLE_CAPS, 150, 225, 100)
       check_restock_item(PID_LEATHER_ARMOR, 1, 1, 100)
