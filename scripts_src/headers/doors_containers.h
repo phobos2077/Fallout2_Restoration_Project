@@ -186,9 +186,10 @@ was taken, and remove the trap.
   procedure Damage_Critter begin
     variable Trap_Damage;
     Trap_Damage:=random(MIN_DAMAGE,MAX_DAMAGE);
+    reg_anim_clear(source_obj); // prevent "you were hit for no damage" from the next line when running through a closed door
     explosion(self_tile, self_elevation, 0); // just the animation
-    critter_dmg(source_obj,Trap_Damage,(DMG_explosion BWOR DMG_BYPASS_ARMOR));
     pcnpc_display_str(source_obj, my_mstr(166)+Trap_Damage+my_mstr(167), my_mstr(168)+Trap_Damage+my_mstr(169))
+    critter_heal(source_obj, -Trap_Damage);
     set_local_var(LVAR_Trapped, STATE_INACTIVE);
   end
 #endif
