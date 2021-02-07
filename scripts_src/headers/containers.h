@@ -1,62 +1,62 @@
-#ifndef DOORS_H
-#define DOORS_H
-
-//Doors functions
+#ifndef CONTAINERS_H
+#define CONTAINERS_H
 
 #include "scripts.h"
 #include "define.h"
 #ifndef NAME
-  #define NAME                    SCRIPT_DOOR
+  #define NAME                    SCRIPT_CONTAINR
 #endif
 #include "../headers/command.h"
 
 /* Defines and Macros */
 
-/* Door States */
+/* States */
 #define STATE_ACTIVE                    (0)
 #define STATE_INACTIVE                  (1)
 #define STATE_WOOD                      (0)
 #define STATE_METAL                     (1)
+#define STATE_FRIDGE                    (2)
+#define STATE_OTHER                     (3)
 #define STATE_NON_DESTROY               (2)
 #define STATE_STANDARD_LOCK             (0)
 #define STATE_ELECTRIC_LOCK             (1)
-#define STATE_DOOR_CLOSE                (1)
-#define STATE_DOOR_NOCLOSE              (0)
 
-#define door_mstr(x) (message_str(SCRIPT_DOOR,x))
+#define box_mstr(x) (message_str(SCRIPT_CONTAINR,x))
 #ifdef custom_mstr
   #define my_mstr(x) (message_str(custom_mstr,x))
 #else
-  #define my_mstr door_mstr
+  #define my_mstr box_mstr
 #endif
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #ifndef Lock_Bonus
-  #define Lock_Bonus                      (0)
+  #define Lock_Bonus                      (-20)
 #endif
 
-#ifndef CLOSE_STATUS
-  #define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
-#endif
-/* Door close distance */
-#ifndef DOOR_CLOSE_DIST
-  #define DOOR_CLOSE_DIST                 (2)
-  /* How far do you want the last object that used the door to get away before it closes */
-#endif
-/* Timer id's */
-#ifndef TIMER_CLOSE
-  #define TIMER_CLOSE                     (1)
+/* Penalties for disarming the trap */
+#ifndef Trap_Bonus
+  #define Trap_Bonus                      (0)
 #endif
 
 /* How many blasts can the door take before destorying */
 #ifndef DOOR_STRENGTH
-  #define DOOR_STRENGTH                   (2)
+  #define DOOR_STRENGTH                   (1)
 #endif
 
 procedure start; // just keeping the same order
 procedure use_p_proc;
-variable last_source_obj;
+#ifndef no_pickup
+  procedure pickup_p_proc;
+#endif
 #include "doors_containers.h"
+
+#ifndef no_pickup
+  #ifndef custom_pickup_p_proc
+    procedure pickup_p_proc begin
+      call use_p_proc;
+    end
+  #endif
+#endif
 
 /***************************************************************************
 This is cursory glance description that the player will receive should
@@ -68,6 +68,9 @@ need to be in the description_p_proc procedure.
     script_overrides;
     if (DOOR_STATUS == STATE_WOOD) then begin
       display_msg(my_mstr(100));
+    end
+    else if (DOOR_STATUS == STATE_FRIDGE) then begin
+      display_msg(my_mstr(212));
     end
     else begin
       display_msg(my_mstr(101));
@@ -104,7 +107,7 @@ free up the space.
       
       /************ Metal Door ****************/
       
-      else if (DOOR_STATUS == STATE_METAL) then begin
+      else if ((DOOR_STATUS == STATE_METAL) or (DOOR_STATUS == STATE_FRIDGE)) then begin
         set_local_var(LVAR_Explosion_Attempts,local_var(LVAR_Explosion_Attempts)+1);
         if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
           set_local_var(LVAR_Locked, STATE_INACTIVE);
@@ -145,33 +148,13 @@ determine how much information about the door will be given.
     else if (DOOR_STATUS == STATE_WOOD) then begin
       display_msg(my_mstr(100));
     end
+    else if (DOOR_STATUS == STATE_FRIDGE) then begin
+      display_msg(my_mstr(212));
+    end
     else begin
       display_msg(my_mstr(101));
     end
   end
-#endif
-
-// auto close timer
-#ifndef custom_timed_event_p_proc
-  #if (CLOSE_STATUS == STATE_DOOR_CLOSE)
-    procedure timed_event_p_proc begin
-      if (obj_is_open(self_obj)) then begin
-        if not combat_is_initialized then begin
-          if ((tile_distance_objs(dude_obj, self_obj) > DOOR_CLOSE_DIST) and
-          (checkPartyMembersNearDoor == false) and
-          ((tile_distance_objs(self_obj, last_source_obj) > DOOR_CLOSE_DIST) or
-          (critter_state(last_source_obj) == CRITTER_IS_DEAD))) then begin
-            obj_close(self_obj);
-          end else begin
-            add_timer_event(self_obj, 10, TIMER_CLOSE);
-          end
-        end else begin
-          add_timer_event(self_obj, 10, TIMER_CLOSE);
-        end
-      end
-    end
-    
-  #endif
 #endif
 
 /********************************************************************
@@ -215,11 +198,7 @@ procedure. it will check to see if the door is trapped and locked.
       script_overrides;
       display_msg(my_mstr(203));
     end
-    if (CLOSE_STATUS == STATE_DOOR_CLOSE) then begin
-      last_source_obj := source_obj;
-      add_timer_event(self_obj, 10, TIMER_CLOSE);
-    end
   end
 #endif
   
-#endif // DOORS_H
+#endif // CONTAINERS_H

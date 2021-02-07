@@ -40,12 +40,7 @@ begin
          Critter:=create_object_sid(PID_MALE_PRIMITIVE_HUNTER,13493,1,SCRIPT_TRIBEC9);
    end
 
-   //added by killap - fix for game_time going negative after 7 years
-   if (((game_time) < 0) and (map_var(MVAR_Restock_Time_Fix) == 0)) then begin
-      set_map_var(MVAR_Restock_Time, game_time - 1);
-      set_map_var(MVAR_Restock_Time_Fix, 1);
-   end
-   //end added
+   restock_fix
 
    if (map_var(MVAR_Restock_Time) < game_time) then begin
        set_map_var(MVAR_Restock_Time, (random(6,8) * ONE_GAME_DAY) + game_time);

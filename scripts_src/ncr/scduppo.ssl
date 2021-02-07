@@ -131,13 +131,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_NCR);
    set_self_ai(AI_STORE_OWNER);
 
-   //added by killap - fix for game_time going negative after 7 years
-   if (((game_time) < 0) and (local_var(LVAR_Restock_Time_Fix) == 0)) then begin
-      set_local_var(LVAR_Restock_Time, game_time - 1);
-      set_local_var(LVAR_Restock_Time_Fix, 1);
-   end
-   //end added
-
+   restock_fix
    if (local_var(LVAR_Restock_Time) < game_time) then begin
       check_restock_item(PID_BOTTLE_CAPS, 30, 30, 100)
       set_local_var(LVAR_Restock_Time, (random(1,6) * ONE_GAME_DAY) + game_time);
@@ -416,7 +410,6 @@ end
 
 procedure checkConvince begin
    variable val;
-   // skill_check(dude_obj, SKILL_CONVERSANT, -((amount of money wanted / amount of money payed) * 10));
 
    ndebug("skill checked with negative: " + -(BRIBE_AMOUNT / payAmount) * 10);
    if (payAmount < BRIBE_AMOUNT) then begin
