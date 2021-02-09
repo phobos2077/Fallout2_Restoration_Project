@@ -39,7 +39,7 @@
 {144}{}{Tudo bem.}
 {145}{}{Tenho-o.}
 {155}{}{Você está louco, andando aqui sem uniforme? Seja adequado!}
-{156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{156}{}{Se o sargento pegar você fora do uniforme ele vai entregar seu traseiro pra você.}
 {157}{}{Por que você está fora de uniforme?}
 {158}{}{Puta merda! Estamos sendo invadidos! Alerta!}
 {159}{}{Intrusos! Chamar a guarda!!}
