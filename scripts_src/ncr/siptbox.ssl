@@ -19,6 +19,7 @@
 ******************************************************************************************/
 
 /* Include Files */
+#define NAME SCRIPT_SIPTBOX
 #define SCRIPT_REALNAME "siptbox"
 
 /* Sets whether the door is locked or trapped */

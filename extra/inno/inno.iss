@@ -27,11 +27,12 @@ UsePreviousAppDir=no
 AlwaysShowDirOnReadyPage=yes
 
 [Files]
-Source: "..\..\release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
+Source: "release\*.*"; DestDir: "{app}"; Components: core; Flags: ignoreversion recursesubdirs overwritereadonly
 #include "files_translations.iss"
 
 [INI]
 #include "ini_translations.iss"
+#include "ini_qol.iss"
 
 [Dirs]
 Name: "{app}\{#backup_dir}"
@@ -41,6 +42,7 @@ Filename: "{app}\{#basename}-install.bat"; Parameters: "> {#backup_dir}\log.txt 
 
 [Components]
 Name: "core"; Description: "Core"; Types: "custom"; Flags: fixed;
+Name: "qol"; Description: "Enable sfall QoL features"; Flags: fixed;
 Name: "translation"; Description: "Language"; Types: "custom"; Flags: fixed;
 #include "components_translations.iss"
 

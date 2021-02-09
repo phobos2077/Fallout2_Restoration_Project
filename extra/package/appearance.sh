@@ -2,7 +2,6 @@
 
 set -xeu -o pipefail
 
-release_dir="$(realpath $release_dir)"
 api_url="https://api.github.com/repos/${appearance_repo}/releases/latest"
 
 cd "$release_dir"

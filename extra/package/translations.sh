@@ -3,6 +3,7 @@
 set -xeu -o pipefail
 
 lang_dir="data/text"
+trans_dir="translations"
 
 # delete unnecessary files
 rm -rf "$lang_dir"/{po,readme.md,translation.patch}
@@ -29,17 +30,18 @@ done
 
 # package into dats
 cd "$trans_dir"
+rm -f *.dat
 for d in $(ls); do
   dat="${mod_name}_$d.dat"
   cd "$d"
   find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort > "$file_list"
-  $dat2a "$dat" @"$file_list"
+  $dat2a "$dat" @"$file_list" 2>&1 | grep -v "wine: Read access denied for device" # wine pollutes the log
   mv $dat ..
   cd ..
 done
 cd ..
 
-cp "$trans_dir"/${mod_name}_russian.dat ${mod_name}_russian_sound.dat # Russian includes speech, it's much larger than others, so published separately
+cp "$trans_dir"/${mod_name}_russian.dat ${mod_name}_russian_sound.dat # Russian includes speech, it's much larger than others, so packaged separately
 $dat2 d -r "$trans_dir"/${mod_name}_russian.dat 'sound\speech\*'
 $dat2 k "$trans_dir"/${mod_name}_russian.dat
 

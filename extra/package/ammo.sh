@@ -2,7 +2,6 @@
 
 set -xeu -o pipefail
 
-release_dir="$(realpath $release_dir)"
 scripts_dir="$release_dir/data/scripts"
 
 mkdir -p "$scripts_dir"

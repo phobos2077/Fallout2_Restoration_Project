@@ -2,11 +2,9 @@
 
 set -xeu -o pipefail
 
-bin_dir="$(realpath $bin_dir)"
 dat2a="wine $bin_dir/dat2.exe a -1"
 comp_dir="components"
 file_list="$(realpath file.list)"
-mods_dir="$(realpath $mods_dir)"
 
 # pack components into separate dat files
 if [[ -d "$comp_dir" ]]; then

@@ -1,6 +1,6 @@
 ## Fallout 2 Restoration Project, updated
 
-[![Build Status](https://travis-ci.org/BGforgeNet/Fallout2_Restoration_Project.svg?branch=master)](https://travis-ci.org/BGforgeNet/Fallout2_Restoration_Project)
+[![Build status](https://github.com/BGforgeNet/Fallout2_Restoration_Project/workflows/build/badge.svg)](https://github.com/BGforgeNet/Fallout2_Restoration_Project/actions?query=workflow%3Abuild)
 [![Translation status](https://tra.bgforge.net/widgets/fallout/-/rp/svg-badge.svg)](https://tra.bgforge.net/projects/fallout/rp/)
 [![Discord chat](https://img.shields.io/discord/420268540700917760?logo=discord)](https://discord.gg/4Yqfggm)
 
