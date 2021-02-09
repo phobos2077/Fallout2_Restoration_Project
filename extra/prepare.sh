@@ -2,7 +2,6 @@
 
 set -xeu -o pipefail
 
-mpack_7z="mpack.7z"
 mpack_file="modderspack_$mpack_version.7z"
 mpack_url="https://sourceforge.net/projects/sfall/files/Modders%20pack/$mpack_file/download"
 compile_exe="compile.exe"
@@ -18,4 +17,3 @@ mv -f "$compile_exe" "$bin_dir/"
 rm -rf "$sfall_headers_dir" "scripting_docs/headers"
 7zr x "$mpack_7z" "scripting_docs/headers"
 mv "scripting_docs/headers" "$sfall_headers_dir"
-rm -f $mpack_7z
