@@ -45,6 +45,6 @@
 {159}{}{O que é? Estamos sob ataque?}
 {160}{}{Por isso o alerta? O que está acontecendo?}
 {161}{}{O que diabos está acontecendo?}
-{162}{}{I'm just a tech, don't shoot me!}
+{162}{}{Eu sou apenas um cara da tecnologia, não atire em mim!}
 {163}{}{Eu não me inscrevi para o combate, apenas de treinamento em tecnologia!}
 {164}{}{Este é um bata de laboratório, não uma armadura! Estou fora daqui!}

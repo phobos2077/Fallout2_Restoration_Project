@@ -22,7 +22,7 @@
 {414}{}{Alterar Penteado (Cabelo Longo).}
 {415}{}{Alterar Penteado (Careca).}
 {416}{}{Alterar Penteado (Cabelo Loiro).}
-{417}{}{Alter Hairstyle (Red Hair).}
+{417}{}{Alterar Penteado (Cabelo Vermelho).}
 {418}{}{Pensando bem, na verdade não tenho tempo para isso agora. Tchau.}
 {500}{}{Este procedimento vai demorar quatro semanas para se recuperar e tem 50% de chance de morte. Quer começar agora?}
 {501}{}{Vamos lá.}

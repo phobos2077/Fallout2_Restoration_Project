@@ -29,7 +29,7 @@
 {218}{}{O Meu Deus. Eu não acredito. Eu estava naquela coisa por mais de um século?!}
 {219}{}{Parece que sim. Ei, escute, não me olhe assim. Não tive nada a ver com colocá-la lá. Inferno,
   meu vovô ainda não estava vivo naquela época. Acabei de tropeçar na localização deste lugar e decidi verificar isso.}
-{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
+{220}{}{Bem, você me ajudará ou você gostaria mais se eu continuasse sentada nua aos seus pés?}
 {221}{}{Eu estava prestes a. [Você a ajuda nos seus pés.]}
 {222}{}{Por que você me acordou?}
 {223}{}{Nenhuma razão em particular.}
@@ -362,6 +362,6 @@ Você está desperdiçando-a aqui. Venha comigo e talvez possamos fazer algo.}
 {3210}{}{Tudo bem, agora que eu conheço a história da vida do seu pai, você se importaria de chegar à parte sobre você?}
 {3260}{}{Então eles eram traidores para seu povo, mas para o bem de seus próprios povos. Consegui.}
 {3261}{}{Olha, estou cansado de ouvir sobre seus pais. Sobre você chegar à parte sobre você ser um espião?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
+{5000}{}{[Conforme a mulher olha pra sua face, seus olhos de repente arregalam e ela começa a ofegar pelo ar.}
 {5001}{}{[FIM]}
 {5002}{}{Puta merda!}
