@@ -15,6 +15,8 @@
 #define LVAR_Hostile                    (5)
 #define LVAR_Personal_Enemy             (6)
 
+#define max_attack_distance 16
+
 procedure start;
 procedure critter_p_proc;
 procedure map_enter_p_proc;
@@ -25,10 +27,6 @@ procedure description_p_proc;
 procedure use_skill_on_p_proc;
 procedure use_obj_on_p_proc;
 procedure damage_p_proc;
-procedure map_update_p_proc;
-procedure talk_p_proc;
-
-procedure timed_event_p_proc;
 
 procedure start begin
    if not self_obj then return;
@@ -38,13 +36,13 @@ end
 
 procedure critter_p_proc begin
    if not self_obj then return;
-   if self_can_see_dude then attack(dude_obj);
+   if self_can_see_dude and (distance_dude <= max_attack_distance) then attack(dude_obj);
 end
 
 procedure map_enter_p_proc begin
    variable item;
    if (map_first_run) then begin
-      item:=create_object(PID_PLANT_SPIKE,0,0);
+      item:=create_object(PID_PLANT_SPIKE_EPA,0,0);
       add_mult_objs_to_inven(self_obj,item,10);
    end
 end
@@ -81,25 +79,27 @@ begin
    end
 end
 
-procedure map_update_p_proc
-begin
-end
-
-procedure talk_p_proc
-begin
-end
-
-procedure timed_event_p_proc
-begin
-end
-
 procedure use_obj_on_p_proc begin
-   //variable sound1;
+   script_overrides;
    if ((obj_pid(obj_being_used_with) == PID_PLANT_SPRAY)) then begin
       inc_global_var(GVAR_KILL_EPAPLANTS);
       if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
         display_msg(mstr(100));
       end
+      switch self_pid begin
+         case PID_EPA_SPORE_PLANT: give_xp(150);
+         case PID_RED_SPORE_PLANT: give_xp(200);
+         case PID_GIANT_SPORE_PLANT: give_xp(350);
+      end
+
+      // doesn't work, engine bug
+      // https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/87
+      // https://github.com/phobos2077/sfall/issues/356
+      // reg_anim_combat_check(0);
+      // reg_anim_clear(self_obj);
+      // reg_anim_begin();
+      //    reg_anim_animate(self_obj,ANIM_fall_back,-1);
+      // reg_anim_end();
       kill_critter(self_obj, ANIM_melted_to_nothing_sf);
    end
 end

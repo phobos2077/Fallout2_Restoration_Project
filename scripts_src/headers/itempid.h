@@ -169,7 +169,7 @@
 //#define PID_BLOW_UP_DOLL                    (508)
 //#define PID_POPPED_BLOW_UP_DOLL             (509)
 #define PID_TYPHON_TREASURE                 (519)
-
+#define PID_PLANT_SPIKE_EPA                 (583)
 // NOTE: any new weapons that need ammo of any sort need to be placed in the arm_obj macro in COMMANDS.H
 //       if you're not gonna do it, please put the pid definition after the comments so that we know to add it
 //       thank you for your support
