@@ -98,149 +98,29 @@ procedure talk_p_proc
 begin
 end
 
-procedure timed_event_p_proc
-begin
-  if (fixed_param == 1) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(16083);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 2);
+#define walk_next_point(param, tile, next_param) \
+  if (fixed_param == param) then begin \
+    if ((not is_critter_prone(self_obj)) and not combat_is_initialized) then begin \
+      reg_anim_clear( self_obj); \
+      reg_anim_begin(); \
+        self_walk_to_tile(tile); \
+      reg_anim_end(); \
+    end \
+    add_timer_event(self_obj, game_ticks(20), next_param); \
   end
-  if (fixed_param == 2) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(16132);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 3);
-  end
-  if (fixed_param == 3) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(20933);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 4);
-  end
-  if (fixed_param == 4) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(20683);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 1);
-  end
-  if (fixed_param == 5) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(16066);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 6);
-  end
-  if (fixed_param == 6) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(18479);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 7);
-  end
-  if (fixed_param == 7) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(26682);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 8);
-  end
-  if (fixed_param == 8) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(26067);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 5);
-  end
-  if (fixed_param == 9) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(22515);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 10);
-  end
-  if (fixed_param == 10) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(18714);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 11);
-  end
-  if (fixed_param == 11) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(19126);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 12);
-  end
-  if (fixed_param == 12) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(22126);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 13);
-  end
-  if (fixed_param == 13) then
-  begin
-    if (((critter_state(self_obj) bwand 2) == 0) and not combat_is_initialized) then
-    begin
-      reg_anim_clear( self_obj);
-      reg_anim_begin();
-      self_walk_to_tile(22298);
-      reg_anim_end();
-    end
-    add_timer_event(self_obj, game_ticks(20), 9);
-  end
+
+procedure timed_event_p_proc begin
+  walk_next_point(1, 16083, 2)
+  walk_next_point(2, 16132, 3)
+  walk_next_point(3, 20933, 4)
+  walk_next_point(4, 20683, 1)
+  walk_next_point(5, 16066, 6)
+  walk_next_point(6, 18479, 7)
+  walk_next_point(7, 26682, 8)
+  walk_next_point(8, 26067, 5)
+  walk_next_point(9, 22515, 10)
+  walk_next_point(10, 18714, 11)
+  walk_next_point(11, 19126, 12)
+  walk_next_point(12, 22126, 13)
+  walk_next_point(13, 22298, 9)
 end
