@@ -33,7 +33,6 @@ procedure start begin
   call robot_self_arm;
   set_self_team(TEAM_EPA_ROBOTS);
   set_self_ai(AI_SECURITY_BOT);
-  ndebug("test");
 end
 
 procedure map_enter_p_proc begin
