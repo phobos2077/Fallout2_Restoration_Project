@@ -36,13 +36,10 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
-  call start;
 end
 
-procedure critter_p_proc
-begin
-  if (global_var(GVAR_FIX_VOICECOMP) == 5) then
-    destroy_object(self_obj);
+procedure critter_p_proc begin
+  if (global_var(GVAR_FIX_VOICECOMP) == 5) then destroy_object(self_obj);
 end
 
 procedure use_skill_on_p_proc begin

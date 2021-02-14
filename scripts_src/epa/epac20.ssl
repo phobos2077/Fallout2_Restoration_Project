@@ -13,9 +13,14 @@
 #include "../headers/modreact.h"
 #include "../headers/partybkg.h"
 
-#define LVAR_Herebefore                 (4)
-#define LVAR_Hostile                    (5)
-#define LVAR_Personal_Enemy             (6)
+#define LVAR_Timed_Event                (0)
+#define LVAR_Active                     (1)             // 0 == Active, 1 == Inactive
+#define LVAR_Gave_Exp                   (2)
+#define LVAR_Ammo_Rocket                (3)
+#define LVAR_Ammo_5mm                   (4)
+#define LVAR_Ammo_Shells                (5)
+#define LVAR_Initialized_Ammo           (6)
+#include "../headers/robots.h"
 
 procedure start;
 procedure critter_p_proc;
@@ -30,23 +35,19 @@ procedure map_update_p_proc;
 procedure talk_p_proc;
 procedure timed_event_p_proc;
 
-procedure start
-begin
-  if (cur_map_index == MAP_EPA) then
-    add_timer_event(self_obj, game_ticks(5), 1);
-  else if( cur_map_index == MAP_EPA_SUBLEVELS_1 or cur_map_index == MAP_EPA_SUBLEVELS_2) then
-  begin
-    if (self_elevation == 0) then
-      add_timer_event(self_obj, game_ticks(5), 5);
-    else if (self_elevation == 2) then
-      add_timer_event(self_obj, game_ticks(5), 9);
+procedure start begin
+  call robot_self_arm;
+  set_self_team(TEAM_EPA_ROBOTS);
+  set_self_ai(AI_SECURITY_BOT);
+  if (cur_map_index == MAP_EPA) then add_timer_event(self_obj, game_ticks(5), 1);
+  if( cur_map_index == MAP_EPA_SUBLEVELS_1 or cur_map_index == MAP_EPA_SUBLEVELS_2) then begin
+    if (self_elevation == 0) then add_timer_event(self_obj, game_ticks(5), 5);
+    if (self_elevation == 2) then add_timer_event(self_obj, game_ticks(5), 9);
   end
 end
 
-procedure critter_p_proc
-begin
-  if (global_var(GVAR_FIX_VOICECOMP) == 5) then
-    destroy_object(self_obj);
+procedure critter_p_proc begin
+  if (global_var(GVAR_FIX_VOICECOMP) == 5) then destroy_object(self_obj);
 end
 
 procedure use_p_proc
@@ -61,18 +62,16 @@ procedure description_p_proc
 begin
 end
 
-procedure use_skill_on_p_proc
-begin
+procedure use_skill_on_p_proc begin
+  call robot_use_skill;
 end
 
-procedure use_obj_on_p_proc
-begin
+procedure use_obj_on_p_proc begin
+  call robot_use_obj;
 end
 
-procedure damage_p_proc
-begin
-  if (source_obj == dude_obj) then
-    attack(dude_obj);
+procedure damage_p_proc begin
+  if (local_var(LVAR_Active) == 0) and (source_obj == dude_obj) then attack(dude_obj);
 end
 
 procedure map_enter_p_proc
@@ -123,4 +122,11 @@ procedure timed_event_p_proc begin
   walk_next_point(11, 19126, 12)
   walk_next_point(12, 22126, 13)
   walk_next_point(13, 22298, 9)
+end
+
+procedure combat_p_proc begin
+  if ((fixed_param == COMBAT_SUBTYPE_TURN) and (local_var(LVAR_Active) == 1)) then begin
+    script_overrides;
+    ndebug("I am disabled and won't attack!");
+  end
 end
