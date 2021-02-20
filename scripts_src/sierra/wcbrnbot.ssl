@@ -699,19 +699,19 @@ procedure Node024 begin
    if (cur_map_index == MAP_SIERRA_123) then begin
       if ((map_var(MVAR_Security_Level_1) == 1) and (self_elevation == 0)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          sierra_security_off;
+          sierra_set_security_off;;
           floater(204);
           set_map_var(MVAR_Security_Level_1,0);
       end
       else if ((map_var(MVAR_Security_Level_2) == 1) and (self_elevation == 1)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          sierra_security_off;
+          sierra_set_security_off;;
           floater(205);
           set_map_var(MVAR_Security_Level_2,0);
       end
       else if ((map_var(MVAR_Security_Level_3) == 1) and (self_elevation == 2)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          sierra_security_off;
+          sierra_set_security_off;;
           floater(206);
           set_map_var(MVAR_Security_Level_3,0);
       end
@@ -719,7 +719,7 @@ procedure Node024 begin
    else if (cur_map_index == MAP_SIERRA_4) then begin
       if (map_var(MVAR_Security_Level_4) == 1) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          sierra_security_off;
+          sierra_set_security_off;;
           floater(207);
           set_map_var(MVAR_Security_Level_4,0);
       end

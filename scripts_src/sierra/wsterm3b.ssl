@@ -319,7 +319,7 @@ procedure Node017 begin
    set_map_var(MVAR_Security_Level_1,0);
    set_map_var(MVAR_Security_Level_2,0);
    set_map_var(MVAR_Security_Level_3,0);
-   sierra_security_off;
+   sierra_set_security_off;
 
    Reply(mstr(185));
 

@@ -332,7 +332,7 @@
 #define GVAR_SIERRA_BASE_ALERT               (151) // unused
 #define GVAR_SIERRA_BASE_ENEMY               (152)
 #define GVAR_SIERRA_BASE_POWER               (153)
-#define GVAR_SIERRA_BASE_SECURITY            (154)
+#define GVAR_SIERRA_BASE_SECURITY            (154) // 1. Klaxons. 2. Secbots. 3. Secret doors. 4. wcdedbot activation.
 #define GVAR_BRAIN_BOT_BRAIN                 (155)
 #define GVAR_SIERRA_LOCKOUT                  (156)
 #define GVAR_SIERRA_PASSWORD                 (157)
