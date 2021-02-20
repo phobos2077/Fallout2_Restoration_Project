@@ -116,12 +116,13 @@ procedure map_enter_p_proc begin
            call Rebuild_Eyeballs;
        end
    end
-   //set_global_var(GVAR_LOAD_MAP_INDEX,0);
+
+   sierra_update_klaxons;
 end
 
 procedure map_update_p_proc begin
    //added by killap - expansion
-   if ( (dude_elevation == 1) and (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) and (map_var(MVAR_Free_Bots) != 0) and (map_var(MVAR_Robot_Activation) == 0) ) then begin
+   if ( (dude_elevation == 1) and sierra_security_on and (map_var(MVAR_Free_Bots) != 0) and (map_var(MVAR_Robot_Activation) == 0) ) then begin
       set_map_var(MVAR_Robot_Activation,1);
    end
    //end added

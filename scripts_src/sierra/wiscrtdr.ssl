@@ -41,7 +41,7 @@ procedure start begin
 end
 
 procedure map_update_p_proc begin
-   if (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) then begin
+   if sierra_security_on then begin
        if ((self_elevation == 0) and (map_var(MVAR_Security_Level_1) == 1)) then begin
            animate_stand;
            if (tile_contains_obj_pid(self_tile,self_elevation,WALL_BLOCKING_HEX)) then

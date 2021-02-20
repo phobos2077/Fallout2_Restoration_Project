@@ -113,6 +113,7 @@ procedure map_enter_p_proc begin
    //end added
 
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   sierra_update_klaxons;
 end
 
 procedure map_update_p_proc begin

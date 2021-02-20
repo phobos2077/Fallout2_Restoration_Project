@@ -328,8 +328,8 @@
 
 // Sierra Army Depot
 #define GVAR_SIERRA_BASE_CONTAMINATION_TIMER (149)
-#define GVAR_SIERRA_BASE_LEVEL_BREACH        (150)
-#define GVAR_SIERRA_BASE_ALERT               (151)
+#define GVAR_SIERRA_BASE_LEVEL_BREACH        (150) // used for spreading virus from level to level on timer
+#define GVAR_SIERRA_BASE_ALERT               (151) // unused
 #define GVAR_SIERRA_BASE_ENEMY               (152)
 #define GVAR_SIERRA_BASE_POWER               (153)
 #define GVAR_SIERRA_BASE_SECURITY            (154)

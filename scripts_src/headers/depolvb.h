@@ -5,6 +5,8 @@
 #ifndef DEPOLVB_H
 #define DEPOLVB_H
 
+#include "../headers/depolvz.h"
+
 // Header file for Map vars for Depolvb
 
 #define MVAR_Made_Dobbs                 (131)

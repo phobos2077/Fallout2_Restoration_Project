@@ -254,11 +254,11 @@ end
 procedure talk_p_proc begin
    script_overrides;
 
-   if ((global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_OFF) or
+   if (sierra_security_off or
        (local_var(LVAR_Active) == 1)) then begin
        display_msg(mstr(104));
    end
-   else if (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) then begin
+   else if sierra_security_on then begin
        display_msg(mstr(103));
    end
 end
@@ -340,7 +340,7 @@ end
 
 procedure damage_p_proc begin
    if (local_var(LVAR_Active) == 0) then begin //added check - killap
-      set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+      sierra_set_security_on;
 
       if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
          if (self_elevation == LEVEL_ONE) then begin
@@ -559,7 +559,7 @@ procedure RepairMe begin
 end
 
 procedure Security begin
-   if ((global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) and (local_var(LVAR_Active) == 0)) then begin
+   if (sierra_security_on and (local_var(LVAR_Active) == 0)) then begin
        if ((self_can_see_dude) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
            if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then begin
                attack(dude_obj);

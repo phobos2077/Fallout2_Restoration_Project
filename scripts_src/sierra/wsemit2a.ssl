@@ -146,7 +146,7 @@ procedure use_skill_on_p_proc begin
                display_msg(obj_name(source_obj)+mstr(110));
            if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
                set_map_var(LEVEL_MAP_VAR,1);
-               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               sierra_set_security_on;
                display_msg(mstr(111));
            end
        end
@@ -191,7 +191,7 @@ procedure use_obj_on_p_proc begin
                display_msg(obj_name(source_obj)+mstr(110));
            if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
                set_map_var(LEVEL_MAP_VAR,1);
-               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               sierra_set_security_on;
                display_msg(mstr(111));
            end
        end
@@ -232,7 +232,7 @@ procedure damage_p_proc begin
 
       set_map_var(LEVEL_MAP_VAR,1);
       set_global_var(GVAR_SIERRA_BASE_ALERT,SIERRA_ALERT_ON);
-      set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+      sierra_set_security_on;
       display_msg(mstr(111));
    end
 end

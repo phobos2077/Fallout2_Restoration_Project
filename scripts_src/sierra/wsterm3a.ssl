@@ -133,7 +133,7 @@ procedure Node011 begin
    set_map_var(MVAR_Security_Level_3,1);
    set_global_var(GVAR_SIERRA_BASE_ENEMY,1);
    set_global_var(GVAR_SIERRA_BASE_ALERT,1);
-   set_global_var(GVAR_SIERRA_BASE_SECURITY,1);
+   sierra_security_on;
 
    Reply(mstr(125));
 
