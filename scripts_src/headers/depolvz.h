@@ -61,4 +61,12 @@ end
     or ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) \
   )
 
+#define sierra_set_cur_level_sec_on \
+  if dude_in_sierra then begin \
+    if (cur_map_index == MAP_SIERRA_4) then set_map_var(MVAR_Security_Level_4, 1); \
+    else if (self_elevation == LEVEL_ONE) then set_map_var(MVAR_Security_Level_1, 1); \
+    else if (self_elevation == LEVEL_TWO) then set_map_var(MVAR_Security_Level_2, 1); \
+    else if (self_elevation == LEVEL_THREE) then set_map_var(MVAR_Security_Level_3, 1); \
+  end
+
 #endif // DEPOLVZ_H

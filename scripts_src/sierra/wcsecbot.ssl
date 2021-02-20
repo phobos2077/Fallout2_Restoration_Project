@@ -25,11 +25,15 @@
    not change the ordering.
         -rwh2   11/13/97
 */
-#define SCRIPT_REALNAME "wcsecbot"
+#ifndef SCRIPT_REALNAME
+    #define SCRIPT_REALNAME "wcsecbot"
+#endif
 #include "../headers/define.h"
 #include "../headers/depolvz.h"
 
-#define NAME                    SCRIPT_WCSECBOT
+#ifndef NAME
+    #define NAME                    SCRIPT_WCSECBOT
+#endif
 
 #include "../headers/command.h"
 
@@ -37,7 +41,7 @@
 
 #define FLOAT_TIME_MIN                  (20)            // in seconds
 #define FLOAT_TIME_MAX                  (40)            // in seconds
-#define TIMER_FLOAT 1
+#define TIMER_FLOAT                     1
 
 #define REQUEST_NONE                    (0)
 #define REQUEST_COMPLETE                (0)
@@ -282,18 +286,7 @@ end
 procedure damage_p_proc begin
    if (local_var(LVAR_Active) == 0) then begin //added check - killap
       sierra_set_security_on;
-
-      if dude_in_sierra then begin
-         if (self_elevation == LEVEL_ONE) then begin
-           set_map_var(MVAR_Security_Level_1,1);
-         end
-         else if (self_elevation == LEVEL_TWO) then begin
-           set_map_var(MVAR_Security_Level_2,1);
-         end
-         else if (self_elevation == LEVEL_THREE) then begin
-           set_map_var(MVAR_Security_Level_3,1);
-         end
-      end
+      sierra_set_cur_level_sec_on
    end
 end
 
