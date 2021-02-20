@@ -6,7 +6,7 @@
 /* Include Files */
 #define SCRIPT_REALNAME "wstrpwr2"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSTRPWR2
 

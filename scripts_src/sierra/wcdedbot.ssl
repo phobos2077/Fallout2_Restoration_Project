@@ -32,7 +32,7 @@
 
 #define SCRIPT_REALNAME "wcdedbot"
 #include "../headers/define.h"
-#include "../headers/depolva.h" //added by killap
+#include "../headers/depolvz.h" //added by killap
 //#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_WCDEDBOT
