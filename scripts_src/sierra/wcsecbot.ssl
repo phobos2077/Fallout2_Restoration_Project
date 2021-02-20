@@ -168,64 +168,6 @@ procedure start begin
 end
 
 procedure critter_p_proc begin
-
-   /*if (cur_map_index == MAP_SIERRA_123) then begin
-       if (tile_in_tile_rect(17910,17890,22310,22290,self_tile)) then begin
-           if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 0)) then begin
-               set_self_invisible;      // invis
-           end
-           else if (self_elevation == LEVEL_ONE) then begin
-               set_self_visible;      // vis
-           end
-       end
-       else if (tile_in_tile_rect(16280,16274,19880,19874,self_tile)) then begin
-           if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 0)) then begin
-               set_self_invisible;      // invis
-           end
-           else if (self_elevation == LEVEL_THREE) then begin
-               set_self_visible;      // vis
-           end
-       end
-       else begin
-           set_self_visible;      // vis
-       end
-   end*/
-
-   //new code - killap
-   /*if (cur_map_index == MAP_SIERRA_123) then begin
-       if (tile_in_tile_rect(17910,17890,19110,19090,self_tile) or tile_in_tile_rect(20702,20693,22302,22293,self_tile)) then begin
-           if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 0)) then begin
-               set_self_invisible;      // invis
-           end
-           else if (self_elevation == LEVEL_ONE) then begin
-               set_self_visible;      // vis
-           end
-       end
-       else if (tile_in_tile_rect(16280,16274,19880,19874,self_tile)) then begin
-           if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 0)) then begin
-               set_self_invisible;      // invis
-           end
-           else if (self_elevation == LEVEL_THREE) then begin
-               set_self_visible;      // vis
-           end
-       end
-       else begin
-           set_self_visible;      // vis
-       end
-   end else if (cur_map_index == MAP_SIERRA_4) then begin
-       if (tile_in_tile_rect(20290,20274,21490,21474,self_tile)) then begin
-          if (map_var(MVAR_Security_Level_4) == 0) then begin
-               set_self_invisible;      // invis
-          end else begin
-               set_self_visible;      // vis
-          end
-       end
-       else begin
-           set_self_visible;      // vis
-       end
-   end */
-   //end killap
-
    if ((global_var(GVAR_SIERRA_BASE_ENEMY) == 0) and (tile_in_tile_rect(16280,16274,19880,19874,self_tile)) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
    end
    else
@@ -303,8 +245,7 @@ procedure use_obj_on_p_proc begin
    variable cur_hp;
    variable max_hp;
 
-   //Tool:=obj_being_used_with; //comment out by killap
-   Tool:=obj_pid(obj_being_used_with); //edit by killap
+   Tool:=obj_pid(obj_being_used_with);
 
    if ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) then begin //added super_tool_kit - killap
        if (skill_success(dude_obj,SKILL_REPAIR,(-20 + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20)))) then begin //edit by killap - + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20)
@@ -352,9 +293,6 @@ procedure damage_p_proc begin
          else if (self_elevation == LEVEL_THREE) then begin
            set_map_var(MVAR_Security_Level_3,1);
          end
-         /*else if (cur_map_index == MAP_SIERRA_4) then begin
-           set_map_var(MVAR_Security_Level_4,1);
-         end*/
       end
    end
 end
@@ -570,11 +508,6 @@ procedure Security begin
            else if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then begin
                attack(dude_obj);
            end
-           //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then begin
-           /*else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then begin
-               //set_map_var(MVAR_Security_Level_4,1);
-               attack(dude_obj);
-           end*/
        end
        else if ((self_cur_hits == self_max_hits) and
                 ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
@@ -585,9 +518,6 @@ procedure Security begin
                    self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));
                else if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then
                    self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));
-               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then
-               /*else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));*/
            end
            else if ( (cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4) )then begin //edit by killap - or (cur_map_index == MAP_SIERRA_4)
                if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then
@@ -596,9 +526,6 @@ procedure Security begin
                    self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));
                else if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then
                    self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));
-               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then
-               /*else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));*/
            end
 
            if ( (cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4) ) then begin //edit by killap - or (cur_map_index == MAP_SIERRA_4)
@@ -614,11 +541,6 @@ procedure Security begin
                    set_local_var(LVAR_Timed_Event,1);
                    add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
                end
-               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then begin
-               /*else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then begin
-                   set_local_var(LVAR_Timed_Event,1);
-                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
-               end*/
            end
        end
    end
