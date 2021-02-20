@@ -50,7 +50,7 @@ end
 
 #define dude_in_sierra ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))
 
-#define sierra_cur_level_sec_mvar_on \
+#define sierra_cur_level_sec_on \
   ( ( (cur_map_index == MAP_SIERRA_123) \
       and ( \
         ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) \
