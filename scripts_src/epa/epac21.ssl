@@ -13,71 +13,50 @@
 #include "../headers/modreact.h"
 #include "../headers/partybkg.h"
 
-#define LVAR_Herebefore                 (4)
-#define LVAR_Hostile                    (5)
-#define LVAR_Personal_Enemy             (6)
+#define LVAR_Timed_Event                (0)
+#define LVAR_Active                     (1)             // 0 == Active, 1 == Inactive
+#define LVAR_Gave_Exp                   (2)
+#define LVAR_Ammo_Rocket                (3)
+#define LVAR_Ammo_5mm                   (4)
+#define LVAR_Ammo_Shells                (5)
+#define LVAR_Initialized_Ammo           (6)
+#include "../headers/robots.h"
 
 procedure start;
 procedure critter_p_proc;
-procedure use_p_proc;
-procedure look_at_p_proc;
-procedure description_p_proc;
 procedure use_skill_on_p_proc;
 procedure use_obj_on_p_proc;
 procedure damage_p_proc;
 procedure map_enter_p_proc;
-procedure map_update_p_proc;
-procedure talk_p_proc;
-procedure timed_event_p_proc;
 
-procedure start
-begin
+procedure start begin
+  call robot_self_arm;
+  set_self_team(TEAM_EPA_ROBOTS);
+  set_self_ai(AI_SECURITY_BOT);
 end
 
-procedure critter_p_proc
-begin
-  if (global_var(GVAR_FIX_VOICECOMP) == 5) then
-    destroy_object(self_obj);
+procedure map_enter_p_proc begin
 end
 
-procedure use_p_proc
-begin
+procedure critter_p_proc begin
+  if (global_var(GVAR_FIX_VOICECOMP) == 5) then destroy_object(self_obj);
 end
 
-procedure look_at_p_proc
-begin
+procedure use_skill_on_p_proc begin
+  call robot_use_skill;
 end
 
-procedure description_p_proc
-begin
+procedure use_obj_on_p_proc begin
+  call robot_use_obj;
 end
 
-procedure use_skill_on_p_proc
-begin
+procedure damage_p_proc begin
+  if (local_var(LVAR_Active) == 0) and (source_obj == dude_obj) then attack(dude_obj);
 end
 
-procedure use_obj_on_p_proc
-begin
-end
-
-procedure damage_p_proc
-begin
-  if (source_obj == dude_obj) then
-    attack(dude_obj);
-end
-
-procedure map_enter_p_proc
-begin
-end
-
-procedure map_update_p_proc
-begin
-end
-
-procedure talk_p_proc
-begin
-end
-
-procedure timed_event_p_proc
-begin
+procedure combat_p_proc begin
+  if ((fixed_param == COMBAT_SUBTYPE_TURN) and (local_var(LVAR_Active) == 1)) then begin
+    script_overrides;
+    ndebug("I am disabled and won't attack!");
+  end
 end
