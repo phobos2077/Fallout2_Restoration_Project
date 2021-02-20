@@ -3,6 +3,9 @@
 #ifndef DEPOLVZ_H
 #define DEPOLVZ_H
 
+#include "depolva.h"
+#include "depolvb.h"
+
 procedure sierra_set_klaxons_on begin
   variable s;
   foreach s in list_as_array(LIST_SCENERY) begin
@@ -44,5 +47,18 @@ end
 #define sierra_update_klaxons \
   if sierra_security_on then call sierra_set_klaxons_on; \
   else call sierra_set_klaxons_off
+
+#define dude_in_sierra ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))
+
+#define sierra_cur_level_sec_mvar_on \
+  ( ( (cur_map_index == MAP_SIERRA_123) \
+      and ( \
+        ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) \
+        or ((self_elevation == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) \
+        or ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) \
+      ) \
+    ) \
+    or ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) \
+  )
 
 #endif // DEPOLVZ_H

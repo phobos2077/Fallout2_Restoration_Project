@@ -27,9 +27,7 @@
 */
 #define SCRIPT_REALNAME "wcrpbot2"
 #include "../headers/define.h"
-#include "../headers/depolvb.h"
-#include "../headers/depolva.h"
-
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WCRPBOT2
 

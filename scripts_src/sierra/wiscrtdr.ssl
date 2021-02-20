@@ -28,8 +28,7 @@
 
 #define SCRIPT_REALNAME "wiscrtdr"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
-#include "../headers/depolvb.h"
+#include "../headers/depolvz.h"
 #include "../headers/command.h"
 
 #define WALL_BLOCKING_HEX       (50332269)

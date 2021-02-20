@@ -29,7 +29,6 @@
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
 #include "../headers/depolva.h"
-#include "../headers/depolvb.h"
 
 #define NAME                    SCRIPT_WCBRNBOT
 

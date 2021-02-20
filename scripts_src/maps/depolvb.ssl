@@ -13,8 +13,7 @@
 #define NAME                    SCRIPT_DEPOLV1
 
 #include "../headers/command.h"
-#include "../headers/depolvb.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 // Timer in Seconds
 #define TIMER_LEVEL_4           (600)                                           // In Ticks

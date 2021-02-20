@@ -5,8 +5,6 @@
 #ifndef DEPOLVA_H
 #define DEPOLVA_H
 
-#include "../headers/depolvz.h"
-
 // General Information
 #define MAX_BOTS                    (6)
 #define ELEVATOR_1                  (19922)//(20517)

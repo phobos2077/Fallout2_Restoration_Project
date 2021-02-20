@@ -5,8 +5,6 @@
 #ifndef DEPOLVB_H
 #define DEPOLVB_H
 
-#include "../headers/depolvz.h"
-
 // Header file for Map vars for Depolvb
 
 #define MVAR_Made_Dobbs                 (131)
@@ -20,15 +18,6 @@
 #define MVAR_Level4_Robobrain       (211)
 #define MVAR_Level4_Eyeball         (212)
 #define MVAR_Last_Spot_3            (213)
-
-#define FIELD_ENABLED               (0)
-#define FIELD_DISABLED              (1)
-#define FIELD_DAMAGED               (2)
-#define FIELD_DESTROYED             (3)
-
-#define REPAIR_NONE					(0)
-
-#define tile_in_box(x, ul, ur, lr, ll) tile_in_tile_rect(ul, ur, ll, lr, x)
 
 #define BOT_TILE_E4T0               (21930)
 #define BOT_TILE_E4T1               (21926)
