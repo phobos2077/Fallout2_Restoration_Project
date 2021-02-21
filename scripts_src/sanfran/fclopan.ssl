@@ -819,7 +819,7 @@ procedure Node024 begin
    //end added
 
    set_local_var(LVAR_State, STATE_DONE);
-   inc_general_rep(REP_BOUNS_KILL_DRAGON_ON_MISSION);
+   inc_general_rep(REP_BONUS_KILL_DRAGON_ON_MISSION);
    COMPLETE_LOPAN_KDRAGON_QUEST;
 
    Reply(175);
@@ -834,7 +834,7 @@ procedure Node025 begin
    //end added
 
    set_local_var(LVAR_State, STATE_DONE);
-   inc_general_rep(REP_BOUNS_KILL_DRAGON);
+   inc_general_rep(REP_BONUS_KILL_DRAGON);
    COMPLETE_LOPAN_KDRAGON_QUEST;
 
    Reply(221);

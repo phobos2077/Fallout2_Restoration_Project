@@ -849,7 +849,7 @@ procedure Node027 begin
       set_global_var(GVAR_SAN_FRAN_LOPAN_KDRAGON_QST, 3); //set to failure
    //end added
 
-   inc_general_rep(REP_BOUNS_KILL_LOPAN_ON_MISSION);
+   inc_general_rep(REP_BONUS_KILL_LOPAN_ON_MISSION);
    set_local_var(LVAR_State, STATE_DONE);
    COMPLETE_DRAGON_KLOPAN_QUEST;
    Reply(186);
@@ -863,8 +863,7 @@ procedure Node028 begin
       set_global_var(GVAR_SAN_FRAN_LOPAN_KDRAGON_QST, 3); //set to failure
    //end added
 
-   //inc_general_rep(REP_BOUNS_KILL_LOPAN_ON_MISSION);
-   inc_general_rep(REP_BOUNS_KILL_LOPAN); //edit by killap
+   inc_general_rep(REP_BONUS_KILL_LOPAN); //edit by killap
    set_local_var(LVAR_State, STATE_DONE);
    COMPLETE_DRAGON_KLOPAN_QUEST;
    Reply(221);
