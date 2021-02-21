@@ -1,5 +1,5 @@
-{100}{}{Ves a un traficante.}
-{101}{}{Ves a un traficante.}
+{100}{}{Ves a un traficante de drogas.}
+{101}{}{Ves a un traficante de drogas.}
 {102}{}{Si buscas negociar, tengo las cosas.}
 {103}{}{Claro, muestrame.}
 {104}{}{Quizá en algún otro momento.}

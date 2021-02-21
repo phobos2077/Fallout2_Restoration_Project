@@ -35,7 +35,7 @@
 {290}{}{Gracias. No te metas en peleas... todavía. Tengo un plan.}
 {291}{}{No hay problema.}
 {292}{}{Volveré.}
-{300}{}{¿Qué tienes para hacer?}
+{300}{}{¿Qué es eso?}
 {301}{}{Componentes químicos en bruto metidos en grandes cajas.}
 {302}{}{Unos grandes contenedores que contienen alguna clase de productos químicos.}
 {303}{}{Deja que vuelva a comprobarlo.}

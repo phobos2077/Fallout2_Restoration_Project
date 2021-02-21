@@ -15,7 +15,7 @@
 {241}{}{Hola, preciosa. ¿Qué puede hacer el viejo Smitty por ti?}
 {242}{}{Jesucristo, ¿ahora qué puedo hacer por ti?}
 {243}{}{Hola, me ha gustado mucho el almuerzo de Mamá. Gracias. Ahora, ¿qué puede hacer el viejo Smitty por ti?}
-{244}{}{Me preguntaba qué es lo que haces aquí.}
+{244}{}{Me preguntaba, qué es lo que haces aquí?.}
 {245}{}{Mira, viejales, tengo esta cosa que conseguí en Gecko...}
 {246}{}{Eh, Smitty, te quería preguntar por ese coche que tenías en venta.}
 {247}{}{Te he traído el almuerzo de Mamá.}
@@ -70,7 +70,7 @@
 {451}{}{Trato hecho, Smitty. Aquí está la pieza y el dinero.}
 {452}{}{Tendré que pensármelo, Smitty. Adiós por ahora.}
 {460}{}{Principalmente vigilo toda esta vieja chatarra. Sólo tengo una cosa que tenga algo de valor.}
-{461}{}{¿Qué tienes para hacer?}
+{461}{}{¿Qué es eso?}
 {462}{}{Me lo imaginaba. Déjame hacerte otra pregunta.}
 {470}{}{Mira, no es otra cosa que este Highwayman de Chrysalis Motors. Solían decir "Nada detiene a un Highwayman". Que los hacían duros, eso está claro.}
 {471}{}{Caray, ¿y funciona?}

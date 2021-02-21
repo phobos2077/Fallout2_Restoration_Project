@@ -91,7 +91,7 @@
 {400}{}{Un momento, antes de ir. Por favor, tome esto como una muestra para llevar Myron aquí. No tengo uso para él.}
 {401}{}{Hey, gracias. Um, ¿qué es?}
 {410}{}{Es un Solar Abrasador. Fue un experimento de la mina. Se alimenta de la energía del sol y por lo tanto no hay municiones. Lo que realmente funciona y que será de gran utilidad para usted, estoy seguro de que, en las profundidades de los desechos. Esto requiere una nueva pregunta en realidad...}
-{411}{}{¿Qué tienes para hacer?}
+{411}{}{¿Qué es eso?}
 {420}{}{Parece un tipo de aventura. Yo estoy limitado a los motivos de la EPA para mirar a través de muchos de los experimentos, pero necesito un poco de equipo que se me ha agotado. Podría recoger un par de cosas para mí?}
 {421}{}{Sí, supongo que sí. ¿Qué se necesita?}
 {422}{}{No, estoy demasiado ocupado en el momento en el ahorro de mi pueblo. Tal vez en algún otro momento.}
@@ -128,7 +128,7 @@
 {522}{}{No, gracias. Adiós.}
 {530}{}{Ha resuelto el problema de la energía todavía?}
 {531}{}{Sí, sí, sí, no necesito saber los detalles. Gracias. Ahora, todavía tengo una tarea más si usted desea llevar a cabo la misma.}
-{532}{}{¿Qué tienes para hacer?}
+{532}{}{¿Qué es eso?}
 {533}{}{No, sigo trabajando en ello.}
 {540}{}{Estoy experimentando con un nuevo suero en el momento para mejorar la agilidad y conocimiento de las personas que les ayudan a sobrevivir en este mundo hostil. Usted iba a permitir que me trate sobre ti, ¿no?}
 {541}{}{Bueno... supongo que sí, ¿qué daño podía hacer?}

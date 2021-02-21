@@ -1,5 +1,5 @@
 {150}{}{Ves a un hombre vestido con ropa arrugada. Se está frotando la nariz y mirando a su alrededor furtivamente.}
-{151}{}{Ves a un traficante.}
+{151}{}{Ves a un traficante de drogas.}
 {152}{}{Usted ve un traficante de drogas. Parece que la pesca de arrastre de un cliente.}
 {200}{}{¡Oye, héroe! ¿Quieres celebrarlo con algo de Jet? ¡Habla conmigo!}
 {201}{}{¡Qué forma de patearle el culo al Enclave, héroe! ¿Quieres relajarte y celebrarlo con un poco de Jet?}

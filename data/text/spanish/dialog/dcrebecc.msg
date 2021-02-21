@@ -27,7 +27,7 @@
 {223}{}{¿Qué puedo hacer por ti? Estoy muy ocupada.}
 {224}{}{¿Has venido a por una copa? Las mesas están allí.}
 {225}{}{No estoy de buen humor. ¿Qué quieres?}
-{226}{}{¿Ya has vuelto? Supongo que querrás una copa.}
+{226}{}{¿Ya has vuelto? Supongo que querrás una copa?.}
 {240}{}{Claro, guapo.}
 {241}{}{¿Qué es lo que quieres saber?}
 {242}{}{Me encantaría.}

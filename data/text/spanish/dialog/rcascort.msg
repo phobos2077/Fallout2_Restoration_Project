@@ -32,7 +32,7 @@
 {128}{}{Claro que sí. Eh, permíteme preguntarte otra cosa, alcalde.}
 {129}{}{Sí, claro. Sólo lo comprobaba. Adiós, alcalde Ascorti.}
 {130}{}{Todas las clases de propiedad privada. Porque, ahora mismo, tengo una estupenda escritura a la venta.}
-{131}{}{¿Qué tienes para hacer?}
+{131}{}{¿Qué es eso?}
 {132}{}{Apuesto a que sí, pero me permíteme preguntarte primero otra cosa, alcalde.}
 {133}{}{Hmm, creo que primero echaré una mirada por el pueblo, alcalde. Adiós.}
 {134}{}{Es la escritura de la Gran Mina Wanamingo situada en las afueras del pueblo. Puedo vendértela por sólo

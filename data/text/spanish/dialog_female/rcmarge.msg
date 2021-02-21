@@ -58,7 +58,7 @@
 {148}{}{Bueno, siempre hay rumores... aunque yo tengo algo que hay que hacer.}
 {149}{}{Volveré sobre eso. Pero deja que te pregunte sobre otra cosa.}
 {150}{}{Háblame sobre los rumores.}
-{151}{}{¿Qué tienes para hacer?}
+{151}{}{¿Qué es eso?}
 {152}{}{Apuesto a que sí. Lo siento, pero estoy ocupada ahora mismo. Adiós.}
 {153}{}{Tenemos una maravillosa enorme y vieja máquina excavadora en la mina. El problema es que el chip de control para ella ya no funciona. Necesito uno nuevo si quiero expandir mis operaciones.}
 {154}{}{Eso es interesante pero, ¿cómo encajo yo en ello?}
