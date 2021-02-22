@@ -505,11 +505,11 @@
 {5007}{}{, der Tod tritt sofort ein}
 {5008}{}{ und führt zu einem heftigen Tennisarm}
 {5009}{}{ und stößt den Arm zur Seite}
-{5010}{}{ und hinterlässt einen großen blauen Fleck}
+{5010}{}{und hinterlässt einen großen blauen Fleck}
 {5011}{}{ und verstümmelt den linken Arm}
-{5012}{}{ und lässt den Arm nur noch an Hautfetzen baumeln}
+{5012}{}{und lässt den Arm nur noch an Hautfetzen baumeln}
 {5013}{}{. Der Arm sieht jetzt wie ein blutiger Stumpf aus}
-{5014}{}{ und hinterlässt einen verstümmelten rechten Arm}
+{5014}{}{und hinterlässt einen verstümmelten rechten Arm}
 {5015}{}{. Sein rechter Arm wird von diesem mächtigen Schlag pulverisiert}
 {5016}{}{ mit einem kraftvollen Schlag}
 {5017}{}{ , durchdringt die Rüstung}
@@ -543,11 +543,11 @@
 {5107}{}{, der Tod tritt sofort ein}
 {5108}{}{ und führt zu einem heftigen Tennisarm}
 {5109}{}{ und stößt den Arm zur Seite}
-{5110}{}{ und hinterlässt einen großen blauen Fleck}
+{5110}{}{und hinterlässt einen großen blauen Fleck}
 {5111}{}{ und verstümmelt den linken Arm}
 {5112}{}{. Der linke Arm ist kaum noch mit der Schulter verbunden}
 {5113}{}{. Der Arm sieht jetzt wie ein blutiger Stumpf aus}
-{5114}{}{ und hinterlässt einen verstümmelten rechten Arm}
+{5114}{}{und hinterlässt einen verstümmelten rechten Arm}
 {5115}{}{. Ihr rechter Arm wird von dem Schlag zu Hackfleisch}
 {5116}{}{ mit einem kraftvollen Schlag}
 {5117}{}{, durchdringt ihre Abwehr}
@@ -602,7 +602,7 @@
 {5303}{}{. Der riesige Mutant blickt sich einen Moment lang um, dann fällt er zu Boden}
 {5304}{}{. Der Kopf explodiert wie eine riesige, blutige Wassermelone}
 {5305}{}{ und verletzt den mächtigen Mutanten ernsthaft}
-{5306}{}{ und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
+{5306}{}{und lässt den Mutanten einen Augenblick lang das Universum verfluchen}
 {5307}{}{ und trifft einen Nerv, weswegen der Riese schmerzerfüllt nach seinem Arm greift}
 {5308}{}{. Der Schlag bricht den Ellenbogen, was wahrscheinlich kein sehr schönes Gefühl ist}
 {5309}{}{, bricht den dicken Arm und vergießt Mutantenblut über den Boden}
@@ -612,11 +612,11 @@
 {5313}{}{. Der Mutant stolpert und fällt, seine Beine können ihn kaum noch halten}
 {5314}{}{ und trifft eine wichtige Stelle. Der Mutant bricht mit einem gebrochenen Bein zusammen}
 {5315}{}{. Der Schmerz des gebrochenen Beins überwältigt den mächtigen Riesen}
-{5316}{}{ und lässt den Mutanten fast erblinden}
-{5317}{}{ und lässt den wütenden Mutanten erblinden}
+{5316}{}{und lässt den Mutanten fast erblinden}
+{5317}{}{und lässt den wütenden Mutanten erblinden}
 {5318}{}{, lässt den Mutanten fast erblinden, doch bringt ihn aus dem Gleichgewicht}
 {5319}{}{. Der geblendete Mutant taumelt rückwärts, auf den nächsten Angriff nicht vorbereitet}
-{5320}{}{ und lässt den bewusstlosen Mutanten erblinden}
+{5320}{}{und lässt den bewusstlosen Mutanten erblinden}
 {5321}{}{. Die Augen des Mutanten glühen kurz auf, dann erlischt das Licht - für immer}
 {5400}{}{. Der Ghul ist überrascht und kann sich gegen den Angriff nicht wehren}
 {5401}{}{. Der Schlag erledigt den Ghul}
@@ -653,7 +653,7 @@
 {5609}{}{. Der Angriff durchschneidet ein ungeschütztes Gelenk am Bein und trennt es ab}
 {5610}{}{ und verwundet und blendet das Mutantenwesen}
 {5611}{}{ und dringt fast bis ins Hirn vor. So ist das also, wenn man Ungeziefer zerquetscht}
-{5612}{}{ und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
+{5612}{}{und dringt nur fast bis ins Hirn vor, lässt das Wesen jedoch erblinden}
 {5613}{}{. Der Angriff ist hinterhältig und viel zu raffiniert für so ein einfaches Wesen}
 {5614}{}{. Wäre das ein Mensch, wärst du sicher, dass er ziemlich verärgert ist}
 {5615}{}{ und schlägt das arme Wesen k.o.}
@@ -668,8 +668,8 @@
 {5707}{}{, verwundet die Ratte schwer und schleudert sie herum}
 {5708}{}{ und verspritzt die Ratte über den Boden}
 {5709}{}{ und verstümmelt das rechte Bein}
-{5710}{}{ und hinterlässt ein großes Loch im linken Bein}
-{5711}{}{ und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
+{5710}{}{und hinterlässt ein großes Loch im linken Bein}
+{5711}{}{und hinterlässt zusätzlichen Schaden, da es sich um eine sensible Stelle handelt}
 {5712}{}{, und weist dem Wesen den Weg zum Großen Rattenfänger im Himmel}
 {5800}{}{, der Floater fällt zu Boden}
 {5801}{}{, der Floater fällt scheinbar leblos zu Boden}
@@ -727,7 +727,7 @@
 {6207}{}{, worauf die Gottesanbeterin umfällt. Ein Glied steht seltsam ab}
 {6208}{}{ und zerstört die Flügel}
 {6209}{}{, durchdringt den Chitinpanzer und schleudert die Gottesanbeterin herum}
-{6210}{}{ und lässt das Insekt mit einem präzisen Schlag erblinden}
+{6210}{}{und lässt das Insekt mit einem präzisen Schlag erblinden}
 {6300}{}{. Sogar dieses Biest scheint von dem betäubenden Angriff verwirrt zu sein}
 {6301}{}{ und umgeht die riesigen Klauen, um das Monster zu treffen. Die Deathclaw erzittert und knurrt}
 {6302}{}{. Das Ergebnis sind massive Schäden an den Augen der Deathclaw}
@@ -759,9 +759,9 @@
 {6518}{}{. Der schmerzhafte Schlag lässt dich zucken, sonst nichts}
 {6519}{}{. Leider führt dies auch zum sofortigen Verlust des Sehvermögens}
 {6520}{}{. Es dauert einen Augenblick, das Blut aus den Augen zu wischen}
-{6521}{}{ und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr sehen kannst}
+{6521}{}{und durchdringt deine Rüstung. Betäubt wird dir klar, dass du nichts mehr sehen kannst}
 {6522}{}{. Ein seltsames Gefühl steigt in deinen Kopf. Dir wird klar, dass dein Gehirntod kurz bevor steht}
-{6523}{}{ und lässt dich zusammenzucken}
+{6523}{}{und lässt dich zusammenzucken}
 {6524}{}{. Du greifst dir zwischen die Beine und fällst vor Schmerz um}
 {6525}{}{. Der Schmerz lässt dich ohnmächtig werden. Autsch}
 {6526}{}{. Es gibt im ganzen Universum keine Worte, um den Schmerz zu beschreiben, den du gerade fühlst.}

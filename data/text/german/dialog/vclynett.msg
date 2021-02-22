@@ -25,7 +25,7 @@
 {124}{}{Uuh. Schüssi.}
 {125}{lyn004}{Ahhhh... ja, ja. Immer wenn du eine Umarmung brauchst, kommst du zu Tante Lynette, ja?}
 {126}{}{Okeee-Dokeee}
-{127}{}{Tschüssi!}
+{127}{}{Bye-bye.}
 {128}{lyn005}{Wie hinterhältig! Wie gemein! Wussten die denn nicht, was für eine Gemeinschaft wir hier aufgebaut haben?}
 {129}{}{Vielleicht ist das eine gute Lehre, Lynette. Von der Welt abgeschnitten war die Regierung bereit, euch zu zerstören, ohne sich über den Wert eurer Gemeinschaft zu kümmern. Vielleicht sollte Vault City auch noch mal einen Blick auf die restliche Welt werfen und sich Gedanken über ihren Platz darin machen.}
 {130}{}{Hinterhältig und gemein, vielleicht. Ich weiß nur, dass sie Wahnsinns-Waffen hatten. Wiedersehn, Erstbürgerin.}
@@ -56,7 +56,7 @@
 {155}{lyn011}{Sei gegrüßt, Fremdling. Ich bin die Erstbürgerin Lynette. Darf ich fragen, was dich hierher führt?}
 {156}{}{Heerführ? Heeehhrfüa?}
 {157}{}{Eer!}
-{158}{}{Tschüssi!}
+{158}{}{Bye-bye.}
 {159}{}{Ich suche ein Garden-Eden-Creation-Kit. Hast du eins?}
 {160}{}{Ich suche ein Garden-Eden-Creation-Kit, Erstbürgerin. Hat deine Stadt eins, das ich vielleicht kaufen könnte?}
 {161}{}{Bist du der... Aufseher dieser Vault?}

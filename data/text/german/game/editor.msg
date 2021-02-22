@@ -14,7 +14,7 @@
 {113}{}{Level:}
 {114}{}{Erf:}
 {115}{}{Nächster Level:}
-{116}{}{  FIGURENPUNKTE}
+{116}{}{CHAR PUNKTE}
 {117}{}{FÄHIGKEITEN}
 {118}{}{Du musst alle Figurenpunkte verwenden,}
 {119}{}{ um mit dem Spiel zu beginnen!}

@@ -32,7 +32,7 @@
  Meine Hütte ist... ähm, war direkt östlich von ihnen.}
 {174}{}{Meinst du dieses Funkgerät?}
 {175}{}{Ich werd es holen.}
-{176}{}{Hmmm... I'll be back.}
+{176}{}{Hmmm...  Ich komme wieder.}
 {177}{}{Großartig! Ich werde das Funkgerät in Null-Komma-Nix fertig haben.}
 {178}{}{Okay, ich red mit Metzger.}
 {179}{}{Danke.}

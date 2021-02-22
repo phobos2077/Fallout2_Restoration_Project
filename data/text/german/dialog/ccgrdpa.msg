@@ -48,9 +48,7 @@
 {410}{}{Sekunde, sieht nicht so aus, als wollte der Mutant einen Kampf anfangen. Vielleicht sollten wir ihn zum Kommandanten bringen — mal sehen, was er davon hält.}
 {411}{}{Sekunde, sieht nicht so aus, als wollte das Mutantchen einen Kampf anfangen. Vielleicht sollten wir sie zum Kommandanten bringen — mal sehen, was er davon hält.}
 {412}{}{Sekunde, sieht nicht so aus, als wollten die Mutanten einen Kampf anfangen. Vielleicht sollten wir sie zum Kommandanten bringen — mal sehen, was er davon hält.}
-{420}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of Enclave soldiers. One of them does a double-take at you.] What the hell
- are you doing back here? You weren't authorized to be on that mission. What's your name, soldier?}
+{420}{}{[Nachdem du eine halbe Stunde im dunklen Laderaum hockst, fühlst du, wie die Maschine wieder auf den Boden aufsetzt. Einen Moment später geht die Frachttür auf und du siehst einen Trupp Enclave Soldaten. Einer von ihnen muss erst zweimal hinschauen.] Was zu Hölle machst du hier hinten? Du warst nicht autorisiert, an der Mission teilzunehmen. Wie heißt du, Soldat?}
 {421}{}{Mein Name spielt keine Rolle, denn ich bin nicht zum Reden hier. [Spring raus und fang an zu kämpfen.]}
 {422}{}{Ich? Oh, ich bin, äh, *hust*nuschel*hust*. Beachtet mich gar nicht. Sollte jetzt wohl besser gehen.
  [Steig aus und versuche lässig wegzugehen.]}

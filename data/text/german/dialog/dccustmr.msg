@@ -48,7 +48,7 @@
 {364}{}{Bei Frankie ist was los. Bei Becky ziehen sie einem nur das Geld aus der Tasche.}
 {365}{}{Frankie mag Becky sicher nicht.}
 {366}{}{Frankie sagt, dass Beckys Drinks gestreckt sind. }
-{367}{}{Wie geht's.}
+{367}{}{Wie läuft es?}
 {368}{}{Frankie weiß, wie man feiert.}
 {369}{}{Becky's Tische sind manipuliert. Naja, das sagt Frankie jedenfalls.}
 {370}{}{Auf ex!}

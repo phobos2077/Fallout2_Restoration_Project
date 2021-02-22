@@ -46,7 +46,7 @@
 {145}{}{Ich möchte Euch etwas fragen.}
 {146}{}{OK. Wiedersehn.}
 {147}{}{Es ist fertig. Hör zu, bevor du es nimmst. Unsere Stadt braucht dieses Erz dringend. Wenn du es der Stadt überlässt, gebe ich dir dein Geld zurück. Was sagst du dazu?}
-{148}{}{Niemals!}
+{148}{}{Niemals.}
 {149}{}{Sicher.}
 {150}{}{Gut. So soll es sein. Hier ist das Erz. Jetzt verschwinde aus meiner Raffinerie.}
 {151}{}{Tschüss.}

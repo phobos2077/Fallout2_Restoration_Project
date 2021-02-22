@@ -290,9 +290,7 @@
 {911}{}{Hör mal, es ist vielleicht ein ungewöhnlicher Wunsch, aber ich würde wirklich gerne als erster einen Blick auf die neue Ware werfen, die du erhältst. Gibt es eine Möglichkeit, wie ich die Ware in deinem anderen Lager begutachten könnte? Natürlich wäre ich bereit, einen Aufpreis zu bezahlen.}
 {912}{}{Okay, ich werde ab und zu mal reinschauen.}
 {913}{}{Gut, aber tu mir beim nächsten Mal einen Gefallen und vergeude nicht meine Zeit, es sei denn, du hast wirklich vor, einen Handel abzuschließen.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
+{914}{}{Ein Spitzenpreis, was? Jetzt spirchst meine Sprache. Normalerweise wickeln wir das Geschäft hier ab, aber ich denke, dass eine Ausnahme gemacht werden könnte, sofern du es ernst meinst. Ich sag dir, wie du dorthin kommst, aber es ist besser, wenn du es verdammt nochmal für dich behältst. Ich schwöre dir, wenn sich herausstellt, dass du ein Spion von diesen verfluchten Rangern bist, werde ich dich zur Strecke bringen und bei lebendigem Leib häuten. [Du lauschst seiner Wegbeschreibung und notierst dir den Standort des Sklavenlagers in deinem PIPBoy.]}
 {915}{}{Hab's. Ich möchte dich noch etwas anderes fragen.}
 {916}{}{Danke. Ich werd mich jetzt auf den Weg machen. Auf Wiedersehen.}
 {1360}{}{ für sie. Was hältst du davon?}

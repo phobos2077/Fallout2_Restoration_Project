@@ -13,10 +13,10 @@
 {232}{}{[Frustriert klatschst du deine Hand auf die Stirn.] Ich muss gehen. Ich... ich muss jetzt irgendwo anders sein. Irgendwo nur nicht hier.}
 {240}{}{Nein, warte. Es tut mir leid. Ich bin kein eindimensionaler toastbesessener Apparat. Was kann ich für dich tun?}
 {241}{}{Ich brauch ein paar Infos über diesen Ort. Was kannst du mir darüber erzählen?}
-{250}{}{I can tell you one thing: this is a terrible place for someone of my toast making expertise. Did you know that it's
- been well over a century since I had the pleasure of making toast for someone? You're the first toast consumer to come
- through here since the war, and, here's the real kicker: were you to actually request toast, I'm not even sure I'd be up
- for the task. You see, I'm feeling a little under the weather inside. It's rather embarrassing, really.}
+{250}{}{Ich kann dir eines sagen: Das ist ein schrecklicher Ort für jemanden mit meinem Fachwissen über die Toastherstellung. Hast du
+ gewusst, dass es weit über ein Jahrhundert her ist, seit ich das Vergnügen hatte, Toast für jemand zu machen? Du bist der erste
+ Toastabnehmer, der seit dem Krieg hier vorbeikommt, und, hier kommt die totale Krönung: solltest du tatsächlich Toast wünschen, bin ich
+ nicht einmal sicher, dass ich den Auftrag ausführen kann. Weißt du, ich fühle mich inwendig etwas angeschlagen. Es ist wirklich ziemlich peinlich.}
 {251}{}{Das ist, äh, sehr tragisch. Also, warum bist du hier?}
 {252}{}{Ah ja. Besten Dank für die Auskunft.}
 {260}{}{Ich glaube er hat vor dem Unfall eine Lieferung Atemmasken erhalten. Einige Leute meinten, dass hauptsächlich durch seine Fehler der Unfall verursacht wurde.}

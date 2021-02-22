@@ -15,8 +15,7 @@
 {303}{}{Ich seh's. Dann, denke ich, kann es nicht schaden, wenn ich einen Blick darauf werfe.}
 {304}{}{Sicher, sei mein Gast. Es gibt nichts, was du noch mehr zerstören kannst.}
 {305}{}{Ich wollte nicht stören, aber was genau is denn das Problem?}
-{306}{}{The main water pump for the Abbey is busted. The damn thing was breathing its last the past few days
- and now it's finally gone out.}
+{306}{}{Die Hauptwasserpumpe von Abbey ist geplatzt. Die letzten Tage lief das verdammte Ding noch einigermaßen, aber jetzt ist sie total im Arsch.}
 {307}{}{Ich hab ein bisschen Ahnung von Maschinen und Technik. Kann ich's mir mal anschauen?}
 {308}{}{Naja, ich hab nicht so viel Ahnung von Maschinen, aber möglicherweise kann ich doch irgendwas tun.}
 {309}{}{Klar, es hält dich keiner auf.}
@@ -55,5 +54,4 @@
 {910}{}{[Wischt sich den Schweiß von seiner Stirn ab.] Ja, brauchst du irgendwas?}
 {911}{}{Der Abt sagt, du könntest Hilfe gebrauchen. Wo liegt das Problem?}
 {912}{}{Vergiss es. Tschüss.}
-{913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
+{913}{}{Ich habe mir die Wasserpumpe angeschaut, es sieht aus, als sei der Motor komplett hinüber. Die Verbindungen sind kaputt, wir müssen also einen neuen Motor und ein paar neue Kabel besorgen, um alles wieder miteinander zu verbinden, weil die alten Kabel durchgebrannt sind.}

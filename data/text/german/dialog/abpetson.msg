@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen jungen, kräftigen Mann.}
 {101}{}{Du siehst Mr. Peterson.}
-{200}{}{Hello, friend. Haven't seen you around here before. First time to the Abbey?}
+{200}{}{Hallo, Freund. Ich hab dich hier noch nie gesehen. Das erste mal in Abbey?}
 {201}{}{Freut mich dich wiederzusehen. Was kann ich für dich tun?}
 {202}{}{Ja, was kannst du mir über diesen Ort erzählen?}
 {203}{}{Ich bin auf der Suche nach dem heiligen GECK. Hast du irgendwas darüber gehört?}
@@ -18,7 +18,7 @@
 {304}{}{Interessant. Mich interessiert noch etwas anderes.}
 {305}{}{Wie auch immer, ich muss los.}
 {400}{}{Was willst du sonst noch wissen?}
-{401}{}{What can you tell me about the Abbey?}
+{401}{}{Was kannst Sie mir über Abbey erzählen?}
 {402}{}{Weißt du was über ein Garden-Eden-Creation-Kit?}
 {500}{}{Bedaure mein Freund, ich hab noch nie davon gehört. Aber, wenn es mit Vorkriegszeiten zu tun hat, dann wette ich, dass es etwas darüber in den Computern des Klosters gibt. Bedauerlicherweise machen die Mönche um ihr Wissen ein großes Geheimnis — aus Angst davor, dass es zu einem neuen Krieg führt oder so etwas, wenn die Menschen zu viel lernen. Dennoch könnte es sich lohnen, dort nachzufragen.}
 {501}{}{Danke, das werd ich tun. Ich habe noch ein paar andere Fragen.}
@@ -47,9 +47,9 @@
  Wenn also Freundlichkeit für dich so beleidigend ist, schlage ich vor, du verschwindest aus meinem Haus.
  Ich werde hier nicht tatenlos rumsitzen, während ein dahergelaufener Halbwilder mich vor meiner Frau beleidigt.}
 {612}{}{Ok, ich gehe.}
-{613}{}{OK tough guy, now this "wandering tribal" is going to kill you in front of your wife. Then maybe I'll kill her too.
- Hell, maybe I'll kill everyone in this pathetic fucking place. You thought you could all hide from the horror of the wasteland?
- Well guess what, my naive friend? Horror has found you, and its name is }
+{613}{}{Ok, Großmaul, jetzt wird dich der „dahergelaufene Wilde“ vor den Augen deiner Frau töten.
+ Dann werde ich sie vielleicht auch umbringen. Verdammt, vielleicht töte ich jeden in diesem jämmerlichen scheiß Kaff. Ihr habt gedacht, ihr alle könntet euch vor dem Horror im Ödland 
+ verstecken? Weißt du was, mein naiver Freund? Der Horror hat euch gefunden und er heißt }
 {700}{}{Verschwinde von hier.}
 {710}{}{Schön, dich wieder zu sehen. Tom ist uns hier eine große Hilfe. Nochmals vielen Dank dafür, dass du alles geklärt hast.
  Also, was kann ich für dich tun?}

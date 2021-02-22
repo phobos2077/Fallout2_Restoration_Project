@@ -1,8 +1,8 @@
 {100}{}{Du siehst eine Wasserpumpe.}
 {101}{}{Du siehst eine wirklich alte Wasserpumpe, sie scheint kaputt zu sein.}
 {102}{}{Die Wasserpumpe läuft nun sehr gut.}
-{103}{}{You are going to need more than just your hands to fix this machine. Perhaps some tools would help with installing
- this part.}
+{103}{}{Du wirst mehr brauchen als deine Hände, um diese Maschine zu reparieren.
+Vielleicht würden einige Werkzeuge dabei helfen, dieses Teil zu installieren.}
 {104}{}{Du reparierst die Wasserpumpe.}
 {105}{}{Du scheiterst an der Reparatur der Pumpe.}
 {106}{}{Du findest heraus, was mit der Wasserpumpe nicht stimmt.}

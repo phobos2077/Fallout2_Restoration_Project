@@ -1,15 +1,15 @@
 {100}{}{Du siehst einen jungen Mönch mit einer Brille.}
 {101}{}{Du siehst Bruder Jason.}
 {102}{}{Dieser Mönch scheint über etwas zu grübeln.}
-{200}{}{[The young monk quickly pockets a deck of "Tragic" cards as you approach.] What do you want?}
+{200}{}{[Der junge Mönch steckt schnell ein Päckchen "Tragic" Karten weg, als du dich näherst.] Was willst du?}
 {201}{}{Von dir nichts. Tschüss.}
 {202}{}{Ich würde gerne wissen warum du die Spielkarten vor mir versteckst.}
 {210}{}{Ich weiß nicht wovon du sprichst. Ich habe überhaupt keine Spielkarten.}
 {211}{}{Lüg mich nicht an. Ich habe es gesehen, du hast sie in deine Tasche gesteckt. Ich wollte nur wissen warum.}
 {212}{}{In Ordnung, wie du meinst. Man sieht sich.}
-{220}{}{Look, don't tell anyone, alright? We're not suppose to "use" pre-war relics, just worship them. But these Tragic
- cards are so damn cool. [He seems to get lost in another world as he gazes lovingly at the deck. After a moment,
- he looks up at you.] Oh, sorry. I'm Brother Jason by the way. I, uh, don't suppose you play Tragic?}
+{220}{}{Schau, sag es keinem, in Ordnung? Es ist uns nicht erlaubt, Vorkriegsrelikte zu "benutzen", bloß anbeten dürfen wir sie. Aber
+ diese Tragic-Karten sind so hammergeil. [Als er liebevoll den Kartenstapel anstarrt, scheint er in eine andere Welt zu versinken. Nach
+ einem kurzen Moment sieht er dich an.] Oh, entschuldige. Übrigens, mein Name ist Bruder Jason. Ich, äh, denke nicht, dass du Tragic spielst?}
 {221}{}{ICH VERKÜNDE TRAGIC THE GARNERING!!!}
 {222}{}{Aber hallo! Ich liebe Tragic the Garnering.}
 {223}{}{Ich habe es ausprobiert, aber es ist nichts für mich.}
@@ -43,18 +43,15 @@
 {251}{}{Du hast es kapiert, das ist wirklich ziemlich bescheuert.}
 {252}{}{Genauso schwachsinnig, wie hier zu sitzen und dir zuzuhören, wie du über dein Leben meckerst. Tschüss.}
 {253}{}{Wenn du es für so bescheuert hältst, warum versuchst du dann nicht etwas an der Situation zu ändern?}
-{260}{}{Finally, someone who agrees with me! Look, I have this idea, and maybe you could help me out. You see, the monks
- here have spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally"
- format the database, they'd lose all that work. I think something like that might shock them back to their senses and we
- might finally give up this stupid way of life. So, what do you say?}
+{260}{}{Endlich jemand, der mir zustimmt! Schau, ich habe da diese Idee, und vielleicht kannst du mir dabei helfen. Weißt du, die Mönche hier haben *Jahre* damit verbracht, Wissen aus den alten Tagen in unsere Datenbank zu übertragen. Wenn jetzt jemand "versehentlich" die Datenbank formatiert, würden sie ihre komplette bisherige Arbeit verlieren. Ich glaube, so ein Schock könnte sie wieder zur Besinnung bringen und wir würden endlich diese dumme Lebensweise wieder aufgeben. Also, was sagst du dazu?}
 {261}{}{Ich sage, dass das eine fürchterliche Idee ist, und dass dieses Gespräch zu Ende ist.}
 {262}{}{Die jahrelange harte Arbeit von jemand anderem zerstören? Hört sich spaßig an. Ich werde es machen.}
 {263}{}{Warum formatierst du sie nicht selbst?}
 {264}{}{Wenn du das alles hier so hasst, warum verschwindest du nicht einfach?}
-{270}{}{Actually, I *do* have an idea of how to change things. Maybe you could help me out. You see, the monks here have
- spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally" format the
- database, they'd lose all that work. I think something like that might shock them back to their senses and we might finally
- give up this stupid way of life. So, what do you say?}
+{270}{}{Tatsächlich *habe* ich eine Idee, wie man etwas ändern könnte. Vielleicht kannst du mir dabei helfen. Weißt du, die Mönche
+ haben *Jahre* damit verbracht, Wissen aus den alten Tagen in unsere Datenbank zu übertragen. Wenn jetzt jemand "versehentlich" die
+ Datenbank formatiert, würden sie ihre komplette bisherige Arbeit verlieren. Ich glaube, so ein Schock könnte sie wieder zur Besinnung
+ bringen, und wir würden endlich diese dumme Lebensweise aufgeben. Also, was sagst du dazu?}
 {271}{}{Ich sage, dass das eine fürchterliche Idee ist, und dass dieses Gespräch zu Ende ist.}
 {272}{}{Die gemeinschaftliche harte Arbeit von hunderten Jahren zerstören? Hört sich spaßig an. Ich werde es machen.}
 {273}{}{Warum formatierst du sie nicht selbst?}

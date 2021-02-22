@@ -4,7 +4,7 @@
 {201}{}{Friede sei mit dir.}
 {202}{}{Wir sind die Hüter des Wissens.}
 {203}{}{Es tut mir leid, aber das Wissen in unseren Büchern ist für dich ohne Nutzen.}
-{300}{}{Welcome to the Abbey, traveler. How can I help you?}
+{300}{}{Willkommen in Abbey, Reisender. Wie kann ich dir helfen?}
 {301}{}{Was kannst du mir über deinen Orden erzählen?}
 {302}{}{Hast du schon einmal von einem Apparat namens GECK gehört?}
 {303}{}{Weißt du, wo ich Vault 13 finden kann?}
@@ -16,7 +16,7 @@
 {404}{}{Darüber weiß ich nichts.}
 {405}{}{Naja, trotzdem vielen Dank.}
 {406}{}{Ich fürchte, dazu bin ich nicht in der Lage. Weißt du, ich vermute, dass Bruder Thomas nicht mehr unter den Lebenden weilt. Aber zu deinem Glück, war er einer unserer zuverlässigsten Datenerfasser. Ich bin mir sicher, wenn er auf irgendwelche Artikel gestoßen ist, die Informationen hinsichtlich deiner Suche enthalten, hat er sie in unsere Computer übertragen.}
-{407}{}{Wait a second, you're "under the impression" that Brother Thomas is dead? Where I come from, death is a pretty clear cut thing. So, is he dead, or isn't he?}
+{407}{}{Warte einen Moment, du "VERMUTEST", dass Bruder Thomas tot ist? Wo ich herkomme, ist der Tod eine ziemlich klare Sache. Also, ist er tot - oder nicht?}
 {408}{}{Bruder Thomas wird schon einige Tage vermisst, mindestens seit er in die Höhlen unter dem Kloster hinunter gestiegen ist. [Er seufzt müde.] Weißt du, einige Bewohner von Abbey behaupteten, sie hätten ein mächtiges Biest gesehen, dass dort unten lauert, aber Bruder Thomas war ziemlich skeptisch. Er wollte es selbst übernehmen, diese Gerüchte zu zerstreuen, doch wie sich zeigt, hat sein Verschwinden diese nur noch weiter erhärtet.}
 {409}{}{Hmmm... Vielleicht sollte ich mal nachsehen was da unten so vor sich geht. Schließlich bin *ICH* das Auserwählte Wesen...}
 {410}{}{Ich bin ziemlich abenteuerlustig, ich kann ja mal nachsehen.}
@@ -37,7 +37,7 @@
 {425}{}{Du solltest zu einem Computer im ersten Stock gehen, da du dort jetzt vollen Zugriff hast.}
 {426}{}{Ok, Tschüss.}
 {430}{}{Was ist das Ziel eures Ordens?}
-{431}{}{What is the history behind the Abbey?}
+{431}{}{Wie ist die Geschichte von Abbey?}
 {432}{}{Ich hab im Moment keine Fragen mehr.}
 {433}{}{Unsere heilige Mission ist es, die ehrwürdigen Bücher des Wissen und andere Relikte der untergegangenen Epoche, zu lesen, zu kopieren und zu archivieren. Es ist unsere Hoffnung, dass wir mit diesem Wissen in der Lage sind, eine Memorabilie zu erschaffen, durch die sich die Menschheit eines Tages, aus der selbst verschuldeten dunklen Epoche, befreien kann. Jede Information auf die wir stoßen, wird aufgezeichnet, damit sie nicht mehr verloren geht, wie so vieles in dem großen Feuersturm.}
 {434}{}{Nach dem großen Krieg lenkte das Schicksal unserer Vorfahren zu diesem alten Kloster in die Berge. Aufgrund seiner abgelegenen Lage, überstand das Kloster den großen Feuersturm weitestgehend unbeschadet. Als unsere Vorfahren das Gebäude erkundeten, entdeckten sie eine umfangreiche Bibliothek. Und nicht einfach nur religiöse Texte, oh nein, diese Bibliothek enthielt die ganze Skala schriftlicher Arbeiten, von literarischer Altphilologie bis zu wissenschaftlichen Enzyklopädien.}
@@ -58,10 +58,7 @@
 {449}{}{Ich habe wirklich viel in meinem Leben gelesen. Dennoch, mein beschränktes Wissen könnte dich enttäuschen. Weißt du, wir erfassen und bewahren. Uns ist verboten, die Weisheit dieser Bücher auf uns einwirken zu lassen, unser Verständnis der Texte ist deswegen ziemlich beschränkt.}
 {450}{}{Moment, du willst mir erzählen, dass du diese Bücher einfach blind überträgst, ohne auch nur zu versuchen, sie zu begreifen?}
 {451}{}{Wie ich sagte, es ist unsere Aufgabe dieses Wissen zu bewahren, nicht es zu verstehen. Bevor dieses Wissen an die Menschheit zurückgegeben werden kann, muss sie erst nachweisen, dass sie über ihren Hang zum Massenvölkermord hinausgewachsen ist. Das ist der einzige Weg, um sicherzustellen, dass sich die Geschichte nicht wiederholt.}
-{452}{}{Well, I've got news for you: that day's never going to come. And while you're hoarding all this knowledge in your
- little mountain paradise here, people out in the wasteland are struggling every day to survive. In fact, my entire tribe
- is on the brink of destruction. The knowledge contained in these books could help cure diseases, improve crops, and greatly
- increase the chance of humanity's survival.}
+{452}{}{Nun, ich habe Neuigkeiten für Dich: dieser Tag wird nie kommen. Und, während Ihr all dieses Wissen in Eurem kleinen Bergparadies hier hortet, kämpfen die Menschen draußen im Ödland jeden Tag ums Überleben. Sogar mein eigener Stamm steht am Rande der Vernichtung. Das in diesen Büchern enthaltene Wissen könnte helfen, Krankheiten zu heilen, die Ernten zu verbessern und damit die Überlebenschancen der Menschheit massiv zu verbessern.}
 {453}{}{Ah, gut, das ist wohl ein gutes Argument. Aber es scheint, das gerade die Informationen die hier gespeichert sind, einer Menge Leute helfen könnten. Selbst wenn du denkst, dass die Welt nicht bereit für dieses Wissen ist, so verstehe ich nicht, warum *IHR* nicht wenigstens versucht, etwas davon zu lernen. Was ist sonst der Sinn darin, es zu erhalten?}
 {454}{}{Ich verstehe deine Frustration über unsere Gebräuche, aber du musst begreifen, dass es eben so ist, und das war schon seit jeher so. Das zu ändern, jetzt, nach so vielen Jahren... das wäre ein Frevel an unserem Glauben. Nein, ich fühle es, wir müssen weiterhin nach den Regeln unserer Vorfahren leben.}
 {455}{}{Ich verstehe deine Frustration über unsere Gebräuche, aber du musst begreifen, dass es eben so ist, und das war schon seit jeher so. Das zu ändern, jetzt, nach so vielen Jahren... das wäre ein Frevel an unserem Glauben. Dennoch, Ich werde deine Worte in Betracht ziehen. Ich spüre große Weisheit in dir, Reisender. Es ist schade, das ich nur wenige wie dich getroffen habe.}
@@ -90,7 +87,7 @@
 {808}{}{Oh danke sehr. Du bist wirklich eine große Hilfe. Bitte sag Bescheid wenn du das neue Teil eingebaut hast.}
 {809}{}{Werd ich. Bin bald zurück.}
 {900}{}{Du hast dem Abt klar gemacht, dass die Informationen, die sie besitzen, nicht nur zur Vernichtung der Menschheit führen, sondern auch zu ihrer Rettung beitragen könnten.}
-{901}{}{You learn about the original founder of the Abbey.}
+{901}{}{Du erfährst etwas über die ursprünglichen Gründer von Abbey.}
 {1000}{}{Ich mach tot grauslich Monster in Höhl.}
 {1010}{}{Wirklich? Das ist Spitze. Das ist sehr mutig von dir. Du bist ein großer Junge.}
 {1011}{}{Wirklich? Das ist Spitze. Das ist sehr mutig von dir. Du bist ein großes Mädchen.}

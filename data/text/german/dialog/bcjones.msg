@@ -65,7 +65,7 @@
 {164}{}{Ah. Tja, ich muss jetzt gehn.}
 {165}{}{Jemandem wie dir werde ich bestimmt nicht helfen. Verschwinde.}
 {166}{}{OK, also pass auf dich auf, und komm wieder wenn du irgendwas brauchst.}
-{167}{}{OK.}
+{167}{}{Fertig.}
 {168}{}{Jetzt ist er paranoid. Er glaubt, dass Tandi draußen auf ihn lauert. Er ist von Rache besessen: Er will Tandi töten. Außerdem hat er Schuldgefühle, weil er abgehauen ist und überlebt hat und nicht mit seiner Gang gestorben ist... die Liste ist endlos.}
 {200}{}{Darion ist tot.}
 {201}{}{Dar-i-on tot.}

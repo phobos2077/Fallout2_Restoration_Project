@@ -19,7 +19,7 @@
 {264}{}{Diese Sklavenhändler werden dafür zahlen.}
 {265}{}{Kein Sklavenhändler wird meine Familie kriegen.}
 {300}{}{Du sterben!}
-{301}{}{Ich sterben?}
+{301}{}{Ich töten!}
 {302}{}{Du nicht weh tun Familie!}
 {303}{}{Du nicht nehmen Familie!}
 {304}{}{Ich beschützen!}

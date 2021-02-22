@@ -155,12 +155,12 @@
 {661}{}{Zu weit weg.}
 {670}{}{OK.}
 {671}{}{Sicher.}
-{672}{}{Wie du meinst.}
+{672}{}{Wie du wünscht.}
 {673}{}{Was immer du sagst.}
 {674}{}{Ich werde es versuchen.}
 {675}{}{Das kann ich nicht tun.}
 {676}{}{Ich glaube nicht, dass ich das tun kann.}
-{677}{}{Arf}
+{677}{}{Arf!}
 {678}{}{Wuff!}
 {700}{}{Du hast nicht genügend Aktionspunkte.}
 {800}{}{Du liest das Buch.}

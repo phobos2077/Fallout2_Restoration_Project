@@ -58,7 +58,7 @@
 {138}{}{Wie du willst.}
 {139}{}{Klingt gut.}
 {140}{}{Danke für die Nutzung von EnklaveNet. Abmeldung... }
-{141}{}{OK.}
+{141}{}{Fertig.}
 {142}{}{Befehl?}
 {143}{}{Unautorisierte Aktivität im Hauptcomputerkomplex entdeckt. Sicherheitsalarm.
  Sicherheitsalarm.}

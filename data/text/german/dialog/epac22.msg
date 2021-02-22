@@ -21,7 +21,7 @@
 {321}{}{Weil der Aufzug nicht mehr funktioniert und die Lüftungsschächte der einzige Weg ist, den ich gefunden habe.}
 {322}{}{Oh, Ich verstehe. Das klingt natürlich sinnvoller. Nun, es gibt einen anderen Weg hinein. Es gibt einen Wartungsaufzug welcher auf Ebene Eins und Zwei hält. Er sollte unterhalb des Labors des Doktors, erreichbar sein. Sie finden ihn draußen, östlich des EPA-Haupteingangs. Sie werden einen Passiercode brauchen um hinein zu kommen, wie auch immer. Da ich ihnen dankbar für meine Reparatur bin... Der Code ist "FLOWERPOT".}
 {323}{}{Danke. Ich hätte da noch 'ne Frage.}
-{324}{}{Oh, I'm sorry but the Blue Level contains top secret research. Access to that level is restricted to... oh, to hell with it. You were kind enough to repair me, so I suppose I could give you the password. It's "FLOWERPOT".}
+{324}{}{Oh, ich bedaure, aber Ebene Blau birgt streng geheime Forschungen. Der Zugang zu dieser Ebene ist deshalb gesperrt... oh, zum Teufel damit. Sie waren so freundlich, mich zu reparieren, deshalb glaube ich, dass ich Ihnen das Kennwort geben kann. Es ist "FLOWERPOT".}
 {330}{}{Ich werde mein bestes geben. Welchen Gegenstand möchten Sie identifiziert haben?}
 {331}{}{Was ist der Sinn von diesem  Hundefutter?}
 {332}{}{Ich habe diese Spritze, gefüllt mit einer unbekannten Substanz, gefunden. Kannst du mir sagen was sie bewirkt?}

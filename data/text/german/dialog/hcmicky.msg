@@ -14,7 +14,7 @@
 {113}{}{Macht nichts.}
 {114}{}{Ich? Ich bin Micky, der milde und heitere Schatzjäger aus Broken Hills.}
 {115}{}{Jägerrr?}
-{116}{}{Tschüssi!}
+{116}{}{Bye-bye.}
 {117}{}{Schatzjäger?}
 {118}{}{Wie nett. Guten Tag.}
 {119}{}{Sag bloß, du hast noch nichts von mir gehört? Kennst du nicht die Geschichten vom Schnellen Micky? Von seinen laufenden Schießereien, seinen Zweikampf-Aktionen und seinen gefürchteten Plünderungen?}

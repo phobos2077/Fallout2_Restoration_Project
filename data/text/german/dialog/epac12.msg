@@ -40,7 +40,7 @@
 {219}{}{Sieht so aus. Hey, hör zu, schau mich nicht so an. Ich hab mit all dem
  nichts zu tun. Ich wurde erst vor zwei Jahrzehnten geboren. Ich bin zufällig an
  diesem Gelände vorbei gekommen und wollte nachsehen was hier vor sich geht.}
-{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
+{220}{}{Also, hilfst du mir hoch oder ziehst du es vor, dass ich weiter nackt vor deinen Füßen sitze?}
 {221}{}{Wollt ich gerade machen. (Du hilfst ihr auf die Beine).}
 {222}{}{Warum hast du mich geweckt?}
 {223}{}{Es gab keinen besonderen Grund dafür.}
@@ -142,7 +142,7 @@
  Staatsbeamter bekam hatten die Amerikaner ihn schon längst als
  Geheimdienstmitarbeiter rekrutiert.}
 {315}{}{Und die Chinesen bemerkten nichts davon?}
-{316}{}{My father worked at the Ministry of Agriculture for thirty-eight years.}
+{316}{}{Er arbeitete 38 Jahre lang beim Ministerium für Landwirtschaft.}
 {317}{}{Also wo kommst du ins Spiel?}
 {318}{}{Eine Funktionärin, für die mein Vater arbeitete, erwischte ihn, wie er
  gerade Kopien geheimer Dokumente machte.}
@@ -188,8 +188,8 @@
 {350}{}{Ich kann mir denken wie du dich fühlst aber du kannst dich nicht selbst für
  so etwas verantwortlich machen.}
 {351}{}{Es ist immer einfacher keine Verantwortung zu übernehmen als sich ihr zu stellen.}
-{352}{}{You couldn't have known. Besides, there were other conflicts between the "powers". They would've blown each other
- up sooner or later. It was only a matter of time.}
+{352}{}{Du konntest es nicht wissen. Abgesehen davon, gab es noch andere Konflikte zwischen den Großmächten. Sie hätten sich früher oder später sowieso
+ gegenseitig in die Luft gejagt. Es war nur eine Frage der Zeit.}
 {353}{}{Menschen sind das schlimmste was es gibt.}
 {354}{}{Also ich persönlich halte mich nicht gerade für sehr schlecht.}
 {355}{}{Die Natur versucht schon seit Jahrtausenden uns auszuradieren. All diese
@@ -266,7 +266,7 @@
  können.}
 {495}{}{Kann nicht mehr weitergehen... lass mich zurück oder bring mich zu einem
  Arzt. Schnell.}
-{500}{}{If you insist. I can still take a man's head off with my hands.}
+{500}{}{Wenn du darauf bestehst. Ich kann noch immer den Kopf eines Mannes mit meinen bloßen Händen abreißen.}
 {1000}{}{Ich kann kaum glauben, dass ich über ein Jahrhundert an diesem Ort hier
  verbracht habe.}
 {1010}{}{Nimms mir nicht übel, aber das ist nicht gerade der Ort an dem ich geboren
@@ -467,6 +467,6 @@
 {3210}{}{Also, jetzt wo ich die Lebensgeschichte deines Vaters kenne, würden ich gerne den Teil hören in dem sie ins Spiel kommen.}
 {3260}{}{So waren sie Verräter für ihre Mitmenschen, aber das zum wohle derer. Verstanden?}
 {3261}{}{Sieh mal, Ich hab mehr als genug von deinen Eltern gehört. Wie wär es endlich zu dem Teil zu kommen wo sie eine Spionin sind?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
+{5000}{}{[Als die Frau zu dir aufschaut beginnen sich ihre Augen zu weiten und sie beginnt nach Luft zu ringen.]}
 {5001}{}{[Ende]}
 {5002}{}{Heilige Scheiße!}

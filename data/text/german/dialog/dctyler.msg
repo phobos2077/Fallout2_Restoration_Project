@@ -75,7 +75,7 @@
 {370}{}{Also was zum Teufel will der Boss? Noch eine stumpfsinnige, verdammte Überprüfung?}
 {371}{}{Ja?}
 {372}{}{Was denn jetzt noch?}
-{373}{}{Wie geht's.}
+{373}{}{Wie läuft es?}
 {374}{}{Tut mir leid, ich muss gehn.}
 {375}{}{Jup.}
 {376}{}{Lub?}

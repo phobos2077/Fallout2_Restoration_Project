@@ -119,8 +119,8 @@
 {201}{}{ entschärft die Falle geschickt.}
 {202}{}{ schafft es nicht, die Falle zu entschärfen.}
 {203}{}{Die Tür ist verschlossen.}
-{204}{}{You notice a trap in the door jamb.}
-{205}{}{ notices a trap in the door jamb.}
+{204}{}{Du bemerkst eine Falle am Türpfosten.}
+{205}{}{ bemerkt eine Falle am Türpfosten.}
 {206}{}{Du kannst an einer geöffneten Tür keine Falle anbringen.}
 {207}{}{ kann an einer geöffneten Tür keine Falle anbringen.}
 {208}{}{Du bringst geschickt eine Falle am Türrahmen an.}

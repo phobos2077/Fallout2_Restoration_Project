@@ -233,7 +233,7 @@
 {5150}{}{}
 {5175}{}{}
 {5200}{}{}
-{5400}{}{Bleib da weg!}
+{5400}{}{Bleib weg da.}
 {9000}{}{Reparaturen abgeschlossen.}
 {9001}{}{Neubewaffnung abgeschlossen.}
 {9002}{}{Strukturelle Schäden werden repariert.}

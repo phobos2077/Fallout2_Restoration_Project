@@ -16,7 +16,7 @@
 {165}{}{Gern geschehen.}
 {166}{}{Ja, ja.}
 {167}{}{Gnä' Herr, [hust] können Sie einem armen Mann helfen, den das Glück verlassen hat?}
-{168}{}{Here's $5.}
+{168}{}{Hier sind 5$.}
 {169}{}{Heute nicht.}
 {170}{}{Such' Dir einen Job.}
 {171}{}{Verehrte Dame, bitte helfen Sie [hust] einem armen, verhungernden Mann, der [hust]

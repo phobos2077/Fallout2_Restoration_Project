@@ -24,9 +24,8 @@
  zu beantworten und dir dabei zuzusehen wie du dich hübsch machst. Ich lass dich nur lange genug am Leben, damit du
  mir alles sagst, was für mich vielleicht von Nutzen sein könnte. Also fang an zu reden! Je mehr du mir erzählst um so
  länger wirst du am Leben bleiben.}
-{224}{}{Listen up, pretty boy. I didn't unthaw your psychotic ass so I could answer your questions and watch you groom
- yourself. I'm only letting you live long enough to tell me whatever useful information you might have. So start talking.
- The more you can tell me, the longer you get to live.}
+{224}{}{Hörzu, hübscher Junge. Ich habe deinen psychotischen Arsch nicht aufgetaut, damit ich deine Fragen beantworten und dich bei deiner Selbstpflege beobachten kann. Ich lasse dich nur lange genug leben, damit du mir alles berichten kannst, was du vielleicht weißt. Also, fang an zu reden.
+Je mehr du erzählst, umso länger lebst du.}
 {230}{}{[Seine Coolness schwindet und in seinen Augen flackert plötzlich Wut.] Denkst du, du kannst MICH
  einschüchtern? Hast du überhaupt den HAUCH EINER AHNUNG mit wem du redest? Komm ruhig her, dann zeig ich dir
  zu was ich alles fähig bin!}
@@ -70,8 +69,8 @@
 {292}{}{Ich glaube nicht, dass ich so darauf erpicht bin, mich mit einem psychopathischen Mörder im Ödland
  herumzutreiben. Du bist auf dich allein gestellt. "Kumpel". Sei nicht sauer, ich bin sicher du packst das. [Kicherst.]}
 {293}{}{Abgemacht...Partner.}
-{294}{}{I don't think I'm too eager to go gallivanting around the wasteland with a psychotic murderer. So you're on your
- own, "bud". Don't worry, I'm sure you'll be just fine. [Snicker.]}
+{294}{}{Ich glaube nicht, dass ich zu begierig darauf bin, mit einem psychotischen Mörder durch das Ödland zu streifen.
+Du bist auf die allein gestellt, "Kumpel". Aber keine Sorge, ich bin sciher, du wirst klarkommen. [Kichern.]}
 {300}{}{Warte mal kurz. Lass mich raten. In den Aufzeichnungen,   die du gelesen hast, steht, dass ich so eine Art
  verrückter Mörder bin, richtig? Tja, ich hab zwei Wörter für dich: Völliger Schwachsinn. Glaub ja kein Wort davon.}
 {301}{}{Aber das ergibt keinen Sinn, warum sollten sie falsche Angaben über deine Person machen?}
@@ -117,7 +116,8 @@
 {351}{}{Tut mir leid das zu hören, Dex. Aber das ist Vergangenheit. Die weit, *wirklich weit* entfernte Vergangenheit.}
 {352}{}{Schau mal Dex, Ich bin in der Lage dir zu helfen, aber ich will wissen mit wem (oder WAS) ich mich da einlasse.
  Was machten sie damals wirklich mit dir?}
-{360}{}{[Dex takes another look around the room and whistles.] No kidding. This place has really gone to shit. How long did you say it's been?}
+{360}{}{[Dex schaut sich erneut im Raum um und pfeift überrascht.] Kein Witz. Dieser Ort hat sich wirklich in pure Scheiße
+ verwandelt. Wie lange sagst du, ist es her?}
 {370}{}{Na schön. Du willst es wirklich wissen. Diese verfluchten, kranken Ärzte haben irgendwelche Tests an der "Natur
  der menschlichen Bosheit" oder so was in der Art durchgeführt. Sie haben mir die Erinnerung eines Wahnsinnigen
  eingepflanzt um zu sehen wie dies die Persönlichkeit einer normalen Person beeinflusst. Im großen und ganzen ist das alles
@@ -137,10 +137,10 @@
  biete, aber es ist doch ein wenig kalt hier drin. Du hast sicher nichts dagegen, wenn ich mir etwas überziehe?}
 {411}{}{Ich schätze, es könnte nicht schad-}
 {412}{}{Ich denke nicht, dass es-}
-{420}{}{Of course you don't mind. Thanks, babe. [He steps past you, gently slapping your rump, and opens a nearby locker.
- He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb,
- he begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've
- seen you around, doll, and I doubt I'd forget a face like yours. Name's Dex, but I'm sure you know that. Mind if I ask yours?}
+{420}{}{Natürlich hast du nichts dagegen. Danke, Baby. [Er geht an dir vorbei, klatscht dir dabei sanft auf den Arsch und
+ begibt sich zu einem Spind in der Nähe. Er zieht sich lässig einen feinen, maßgeschneiderten Anzug an. Danach entnimmt
+ er dem Spind diverse Dinge, darunter auch einen Kamm, mit dem er sich geschickt durchs Haar fährt und seine Frisur mit
+ der Präzision eines routiniertem Profis herrichtet.] Ich glaube, ich hab dich hier noch nie gesehen, Püppchen und ich bezweifle, dass ich so ein Gesicht wie deins vergessen könnte. Ich heiße Dex aber ich bin mir sicher, dass du das bereits schon wusstest. Würde es dir was ausmachen, mir deinen Namen zu nennen?}
 {421}{}{Ich bin }
 {422}{}{. Bevor du dir noch irgendwelche Hoffnungen machst, sage ich dir lieber gleich, dass ich prinzipiell nicht mit
  Männern ausgehe, die den Ruf eines Mörders besitzen und über 150 Jahre eingefroren waren. Und wenn du mir nochmal an
@@ -267,8 +267,9 @@
  eingepflanzt um zu sehen wie dies die Persönlichkeit einer normalen Person beeinflusst. Im großen und ganzen ist das alles
  was ich weiß.}
 {581}{}{Ich verstehe. Und welchen Effekt hatte es auf *Dich*?}
-{582}{}{I don't know, it gave me some nightmares, alright? Look honey, I've been through a lot and I'm not in the mood for a fucking interrogation right now.
- I answered your questions, now how 'bout you you fill me on what the hell happened since they put me on ice. I mean, this place has gone to shit, and you look like you've walked out of some kind of sci-fi adventure tale.}
+{582}{}{Ich weiß nicht genau, es ist wie aus einem Alptraum, oder? Schau mal Schätzchen, Ich war eingefroren für, was
+ weiß ich wie lange und ich bin sicher nicht in der Stimmung für so eine scheiß Befragung. Ich hab deine Fragen
+ beantwortet, jetzt würde ich gern wissen, was zum Teufel geschah, während ich auf Eis lag. Ich meine, der ganze Ort ist zur Hölle gegangen und du siehst aus, als kämst du gerade aus einer verdammten Science-Fiction Abenteuergeschichte.}
 {600}{}{Als du die Kryokammer erreichst, siehst du einen attraktiven Mann. Er ist nackt und liegt ausgestreckt auf dem
  Gang. Er zieht seine Knie an und presst sie sich gegen die Brust. Dann sitzt er eine Weile so da, starrt verblüfft über seinen
  Körper und fängt an zu zittern, wobei seine Zähne klappern. Schließlich scheint er sich langsam zu entspannen.]}
@@ -731,6 +732,6 @@
  wenn Frauen schon tot aussehen BEVOR ich mit ihnen fertig bin.}
 {4260}{}{Warum, zur Hölle, verschwenden wir hier überhaupt unsere Zeit?}
 {4270}{}{Ich glaube wirklich nicht, dass ich gewillt bin, auch nur eine Minute länger in dieser Fabrik zu bleiben.}
-{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{[Er dreht sich zu dir um und springt auf die Beine. Als er dich anschaut, werden seine Augen plötzlich größer und er ringt nach Luft.]}
 {5001}{}{[Ende]}
 {5002}{}{Heilige Scheiße!}

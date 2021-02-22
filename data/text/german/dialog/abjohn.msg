@@ -1,6 +1,6 @@
 {100}{}{Du siehst Bruder John.}
 {101}{}{Du siehst einen älteren Mönch von Abbey.}
-{102}{}{You see an old monk. He looks to be in his early seventies.}
+{102}{}{Du siehst einen alten Mönch. Er dürfte Anfang 70 sein.}
 {300}{}{Hallo, Jungchen.}
 {301}{}{Wer bist du?}
 {302}{}{Hast du irgendwas über ein GECK oder Vault 13 gehört?}

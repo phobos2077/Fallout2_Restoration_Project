@@ -5,11 +5,11 @@
 {104}{}{Das Terminal zeigt an, dass alle Sicherheitssysteme in der Vault aufgrund eines Stromversorgungsfehlers offline sind.}
 {105}{}{Schalte das Kraftfeld aus.}
 {106}{}{Schalte das Kraftfeld ein.}
-{107}{}{OK.}
+{107}{}{Fertig.}
 {108}{}{Du gibst den Befehl, das Kraftfeld zu deaktivieren.}
-{109}{}{OK.}
+{109}{}{Fertig.}
 {110}{}{Du gibst den Befehl, das Kraftfeld zu aktivieren.}
-{111}{}{OK.}
+{111}{}{Fertig.}
 {112}{}{Das Terminal zeigt an, dass das Feld manuell ausgeschaltet wurde.}
 {113}{}{Das Terminal zeigt an, dass das Feldsystem komprimiert wurde.}
 {114}{}{Das Terminal zeigt an, dass das Feldsystem ausgeschaltet ist.}

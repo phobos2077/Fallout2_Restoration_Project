@@ -36,7 +36,7 @@
 {134}{}{Ich war dort und habe die Teile, die du brauchst.}
 {135}{}{Das hab ich schon erledigt. Die Siedler wollen einen Tausch. Du bringst ihnen bei, wie sie sich selbst versorgen können, und dafür gewähren sie dir Zutritt zur Vault. Ach ja, und hier sind die Teile.}
 {136}{tand5}{Blitz und Donner... Das ist deine Entscheidung - aber wenn du deine Meinung ändern solltest...}
-{137}{}{OK.}
+{137}{}{Fertig.}
 {138}{tand6a}{Schön. Mach deine Sache gut, dann gibt's 'ne Belohnung.}
 {139}{tand6b}{Himmel, ich weiß, ich mache einen Fehler, aber... lass es uns mal versuchen - falls du irgendwas von dem verstanden hast, was ich gesagt habe.}
 {140}{}{OK. Ich gehn.}

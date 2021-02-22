@@ -7,7 +7,7 @@
 {203}{}{Tut mir leid, aber ich habe keine Zeit mich mit jemandem zu unterhalten, der solch einen niedrigen Intellekt hat.}
 {300}{}{Ja?}
 {301}{}{Ihr Jungs habt ja 'ne Menge Computer hier.}
-{302}{}{What can you tell me about the Abbey?}
+{302}{}{Was kannst Sie mir über Abbey erzählen?}
 {303}{}{Erzähl mir was über euer Oberhaupt.}
 {304}{}{Hast du irgendwelche Infos über ein G.E.C.K.?}
 {305}{}{Weißt du, wo ich Vault 13 finden kann?}
@@ -20,8 +20,7 @@
 {403}{}{OK.}
 {404}{}{Der Abt ist ein hochgeschätztes geistiges Oberhaupt, allerdings ist er etwas launisch seit wir Bruder Thomas an das Biest verloren haben.}
 {405}{}{Was für eine Art Biest?}
-{406}{}{I haven't seen it, personally--there's nothing in the world that could get me to go down there and explore those
- caverns--but if I had to guess, I'd say it's probably just some overgrown radscorpion.}
+{406}{}{Ich persönlich hab sie nicht gesehen — nichts auf der Welt könnte mich dazu bringen, dort hinunter zu gehen und diese Höhlen zu erkunden — aber wenn ich raten müsste, würde ich sagen, dass es wohl so ein riesiger Radskorpion ist.}
 {407}{}{Wenn du es nicht gesehen hast, was bringt dich dazu, zu glauben, dass es ein Radskorpion ist?}
 {408}{}{Weil Geräusche aus den Höhlen widerhallten — Geräusche von zuschnappenden Klauen und klappernden Beinen.}
 {409}{}{Okay.}
@@ -51,7 +50,7 @@
 {600}{}{Der Abt hat mir die Erlaubnis gegeben den Computer hier zu benutzen.}
 {601}{}{Ah ja, ich hab davon gehört was du getan hast. Danke das du dich darum gekümmert hast. Hier ist die Zugangskarte. [Er gibt dir die Karte.] Viel Spaß!}
 {602}{}{Danke, wir sehn uns.}
-{650}{}{Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?}
+{650}{}{Grüße Reisender! Ich bin Bruder Paul und ich bin für das Sammeln von Informationen für Abbey verantwortlich. Was kann ich für dich tun?}
 {651}{}{Schön dich kennen zu lernen, Paul. Ich habe einige Fragen.}
 {652}{}{Nichts, wir sehn uns.}
 {4210}{}{Ah, Nein, ich kann nicht sagen, dass ich das wusste. Das ist... interessant.}

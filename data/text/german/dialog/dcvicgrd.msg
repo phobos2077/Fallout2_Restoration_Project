@@ -131,5 +131,5 @@
 {503}{}{Hoffe, Vic bringt das für dich in Ordnung.}
 {504}{}{Vic legt sich hoffentlich für dich ins Zeug.}
 {505}{}{Vielleicht krieg ich dich auf 'ner Jagd.}
-{506}{}{Wie geht's.}
+{506}{}{Wie läuft es?}
 {507}{}{Hallo nochmal.}

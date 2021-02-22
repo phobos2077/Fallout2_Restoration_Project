@@ -52,10 +52,7 @@
 {284}{}{Wie kann ich so eine tolle Rüstung bekommen?}
 {285}{}{Ich hab genug gehört.}
 {290}{}{Da du einer BIST. Klar, du siehst ziemlich menschlich aus, aber lass dich nicht täuschen. Du bist trotzdem ein Mutant. Du und jeder andere auf dem Festland. Alle verseucht. Nächste Frage?}
-{300}{}{We're the Enclave--the last bastion of true humanity on this damn planet. We're the only ones still upholding
- the honor of the ol' red, white, and blue. That's right, we're true patriots. We eat bald eagles and shit stars and
- stripes. We're all that's left of the great United States of America. But we're enough. Oh, yeah, we're enough to set
- things right. You can count on that, mutie. Next question?}
+{300}{}{Wir sind die Enclave — die letzte Bastion der wahrhaftigen Menschheit auf diesem verdammten Planeten. Wir sind die Einzigen, die noch immer die Ehre der alten Farben, Rot, Weiß und Blau aufrechterhalten. Das ist richtig, wir sind wahre Patrioten. Wir essen Weißkopfseeadler und scheißen 'Stars and Stripes'. Wir sind alles, was von den großen Vereinigten Staaten von Amerika übrig ist. Aber wir sind genug. Oh ja, wir sind genug, um die Dinge richtig zu stellen. Drauf kannst du dich verlassen, Weichei. Nächste Frage?}
 {310}{}{Das hier ist Navarro, unsere geheime Festlandbasis. Wir befinden uns nahe der Küste von Kalifornien und dem Pazifischen Ozean. Nächste Frage?}
 {320}{}{Indem du meine Leiche herausstemmst. Viel Glück dabei, Mutant. Nächste Frage?}
 {330}{}{Gut, denn ich hab es verdammt satt meinen Atem für einen Mutanten zu verplempern. In der Tat ist das Alles nur eine Vergeudung meiner Zeit, da es mich einen Dreck kümmert, was du mir zu sagen hast. Wache! Legt diesen Mutanten um!}

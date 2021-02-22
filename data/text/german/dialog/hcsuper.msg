@@ -46,7 +46,7 @@
 {145}{}{Ich möchte Euch etwas fragen.}
 {146}{}{OK. Wiedersehn.}
 {147}{}{Dein Erz ist fertig. Hör mal kurz zu, bevor du es mitnimmst. Unsere Stadt braucht dieses Erz. Wenn du es der Stadt spendest, ersetze ich dir das Geld. Ich kann dir sogar $500 zusätzlich geben, wenn du mehr Geld dafür willst. Bitte. Nach der Katastrophe in der Mine braucht Broken Hills das Erz zum Überleben. Was meinst du?}
-{148}{}{Niemals!}
+{148}{}{Niemals.}
 {149}{}{Klar. Und die zusätzlichen $500 will ich nicht, die könnt ihr bestimmt besser gebrauchen als ich.}
 {150}{}{Gut. So soll es sein. Hier ist das Erz. Jetzt verschwinde aus meiner Raffinerie.}
 {151}{}{Tschüss.}

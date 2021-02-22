@@ -17,7 +17,7 @@
 {211}{}{Ich wollte dir gerade seine Grüße übermitteln. Ich werde ihm sagen, dass du dich darüber gefreut hast. Machs gut Samuel.}
 {300}{}{Was willst du denn *hicks* wissen?}
 {301}{}{Bist du der Friedhofswärter?}
-{302}{}{What can you tell me about the Abbey?}
+{302}{}{Was kannst Sie mir über Abbey erzählen?}
 {303}{}{Gibts irgendwas wobei ich dir helfen kann?}
 {400}{}{Ja, *hicks* ich bewache diese Gräber. Niemand sonst *hicks* will es tun, also hat
  der alte Sammy den Job bekommen. Es ist nicht so schlecht, wie man denken könnte. Es hat seine...

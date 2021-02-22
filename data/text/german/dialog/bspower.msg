@@ -8,4 +8,4 @@
 {107}{}{Zeit zu gehen.}
 {108}{}{Du schaffst es, die Kontakte freizulegen und den Strom wiederherzustellen!}
 {109}{}{Mist. Das ist schwerer als es aussieht.}
-{110}{}{OK.}
+{110}{}{Fertig.}

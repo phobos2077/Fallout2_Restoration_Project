@@ -188,7 +188,7 @@ Bewachung da war, haben sie den Laden geplündert und jetzt ist Metzger rasend vo
 {701}{}{Ich möchte mich ein wenig ausruhen. Ich sag dir Bescheid, wenn ich soweit bin.}
 {702}{}{Dann lass uns mal Tyler kalt stellen.}
 {710}{}{Bist du bereit Tyler und seine Kumpels zu töten?}
-{720}{}{Well, don't stray too far. We need to finish this tonight or we'll do it without you.}
-{721}{}{I'll be back shortly.}
+{720}{}{Nun, geh nicht zu weit weg. Wir müssen das diese Nacht beenden oder wir werden es ohne dich machen.}
+{721}{}{Ich bin gleich wieder da.}
 {722}{}{Dann lass uns mal Tyler kalt stellen.}
 {730}{}{Wir haben sie Platt gemacht. Ich kann es kaum glauben! Wir gehen besser zurück zur Kirche, bevor sie jemand anderes übernimmt. Wir treffen uns dann da, damit du abkassieren kannst.}

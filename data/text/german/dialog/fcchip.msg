@@ -46,7 +46,7 @@
 {145}{}{Also gut.}
 {146}{}{Nein.}
 {147}{}{Ich bin dir unendlich dankbar für das, was du für mich tust. Ich werde es nicht vergessen.}
-{148}{}{Null Problemo!}
+{148}{}{Kein Ding.}
 {149}{}{Mann, es ist für mich wirklich verdammt anstrengend, irgendwo hinzugehen. Wenn du mir nicht helfen kannst, bin ich wirklich verloren.}
 {150}{}{OK. Ich rede mit Fung.}
 {151}{}{Gut. Du bist mir eh total egal.}
@@ -62,7 +62,7 @@
 {161}{}{Ja, und er verlangt 1000 Dollar.}
 {162}{}{}
 {163}{}{Wow. Du hast ja wirklich tolle Connections! Komm morgen wieder, dann werde ich versuchen, dir zu helfen.}
-{164}{}{OK, ich mach's.}
+{164}{}{Jetzt hast du es.}
 {165}{}{Kannst du mich decken?}
 {166}{}{Ja, ich denke schon.}
 {167}{}{Nein.}

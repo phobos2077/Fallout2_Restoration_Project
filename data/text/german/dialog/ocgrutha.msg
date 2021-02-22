@@ -119,12 +119,12 @@
 {168}{}{Ich verstehe...}
 {169}{}{Deine Entscheidung missfällt mir, aber ich akzeptiere sie. Du kannst gehen, aber komm
  wieder, falls du es dir anders überlegst.}
-{170}{}{OK.}
+{170}{}{Fertig.}
 {171}{}{Hallo}
 {172}{}{Nein, aber ich werd mich dranmachen.}
 {173}{}{Tut mir leid Gruthar. Das Stimmerkennungsmodul ist kaputt. Ich muss ein neues besorgen.}
 {174}{}{Ich hab keine Ahnung, wie solche Dinge funktionieren, aber ich vertraue dir,}
-{175}{}{OK.}
+{175}{}{Fertig.}
 {176}{}{Ich komme wieder, du hast mein Wort.}
 {177}{}{Hallo}
 {178}{}{Nein, ich suche noch immer.}
@@ -185,9 +185,9 @@
 {225}{}{Du bist hier momentan nicht willkommen. Geh!}
 {226}{}{Tschüss.}
 {227}{}{Tschüss.}
-{228}{}{OK.}
+{228}{}{Fertig.}
 {229}{}{Entschuldigung angenommen, Mensch. Schönen Tag noch.}
-{230}{}{OK.}
+{230}{}{Fertig.}
 {231}{}{. Hast du dir die Maschine angesehen?}
 {232}{}{. Ich warte auf deine Rückkehr.}
 {233}{}{. Hast du das Teil gefunden, um die Maschine zu reparieren?}

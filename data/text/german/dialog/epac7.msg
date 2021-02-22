@@ -34,8 +34,8 @@
 {310}{}{Denken Sie, dass Sie die Beleuchtung in Ordnung bringen könnten? Es ist schwierig für mich, Führungen durch solch einen schwach beleuchteten Komplex zu absolvieren. Wenn Sie für mich wieder mehr Licht in diese Räume bringen, gebe ich Ihnen das Kennwort. Bitte denken Sie daran, Ihre Hände nach dem Besuch unseres Streichelzoos gründlich zu waschen.}
 {311}{}{In Ordnung. Ich schau mal, was ich tun kann.}
 {312}{}{Vergiss es. Ich bin nicht interessiert.}
-{320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
-{321}{}{Don't worry. I'm working on it.}
+{320}{}{Der Komplex sieht immer noch ziemlich düster aus. Sie haben doch vor, die Beleuchtung in Ordnung zu bringen, oder? Sehr geehrte Besucher, vergessen Sie nicht die Verzichtserklärungen vor dem Ende der Führung zu unterschreiben.}
+{321}{}{Keine Sorgen, ich arbeite daran.}
 {322}{}{Ich werd's schon noch tun.}
 {330}{}{Wir würden mehr Besucher haben, wenn die Böden sauber wären.}
 {331}{}{Wie soll ich ohne vernünftige Beleuchtung Führungen machen?}

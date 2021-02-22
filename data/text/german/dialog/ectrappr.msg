@@ -9,9 +9,9 @@
 {108}{}{Was hast du denn?}
 {109}{}{Macht nichts.}
 {110}{}{Agh.}
-{111}{}{Here's what I got: }
-{112}{}{ regular gecko pelts.}
-{113}{}{ golden gecko pelts.}
+{111}{}{Das ist, was ich habe:}
+{112}{}{normale Geckohäute.}
+{113}{}{goldene Geckohäute.}
 {114}{}{Ich nehm alle.}
 {115}{}{Vielleicht nächstes Mal. Tschüss.}
 {116}{}{War nett, mit dir Geschäfte zu machen. Bis dann.}
@@ -37,7 +37,7 @@
 {136}{}{OK, Aufseher. Du gewinnst.}
 {137}{}{Dein Glück. Ich muss mal meine Fallen prüfen.}
 {138}{}{Ich glaub, meine Mama ruft mich.}
-{140}{}{Looks like I don't have any regular gecko pelts, but I do have }
-{141}{}{Looks like I don't have any golden gecko pelts, but I do have }
-{142}{}{Sorry, looks like I'm all out of stock.}
+{140}{}{Sieht so aus, als hätte ich keine normalen Geckohäute, aber ich habe}
+{141}{}{Ich hab leider keine goldenen Geckohäute, aber ich habe}
+{142}{}{Sorry, sieht so aus, als hätte ich nichts weiter anzubieten.}
 {200}{}{Du siehst eine dreckige, ausgezehrte Frau.}

@@ -45,7 +45,7 @@
 {144}{}{Hör zu, ich bin}
 {145}{}{Ich hab's gar nicht nötig, dir irgendwas zu beweisen. Vergiss es, du fette Kröte.}
 {146}{}{Das war dieser gottverdammte Skeeter, stimmt's? Dieser dreckige kleine Junkie quatscht mir ein bisschen zuviel. Hör mal zu - du ziehst ihn aus dem Verkehr - nur als kleinen Gefallen - und hinterher reden wir weiter.}
-{147}{}{Topp!}
+{147}{}{Deal.}
 {148}{}{Oh Mann - so kaltblütig bin ich nicht!}
 {149}{}{Du wirst jedenfalls als größter Schwachkopf aller Zeiten in die Geschichte eingehen. Leute -}
 {150}{}{Interessant. Und wer erzählt so was?}
@@ -67,7 +67,7 @@
 {166}{}{Mein Freund hier weiß, wie man's macht. Interessiert?}
 {167}{}{Was Verbotenes? Nein, das wär nichts für mich.}
 {168}{}{Faszinierend. Ich geb dir 1000 Dollar für seine Dienste - für immer.}
-{169}{}{Topp!}
+{169}{}{Deal.}
 {170}{}{Nein, das kann ich einem Freund nicht antun.}
 {171}{}{Sieht so aus, als könnten wir miteinander ins Geschäft kommen. Ich sag dir, worum es sich dreht: In der Stadt gibt's einen durchgeknallten Wissenschaftler namens Dr. Henry. Der hat ein paar Unterlagen, an die ich gerne rankommen würde. Ich zahl dir 1000 Dollar dafür. Ach ja, Dr. Henry soll übrigens nichts zustoßen. Den können wir noch ganz gut gebrauchen - lebend. Interessiert?}
 {172}{}{Ich bin dabei.}

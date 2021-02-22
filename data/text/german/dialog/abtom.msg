@@ -6,7 +6,7 @@
 {202}{}{Was? Warum, eh... mein Name ist Tom. Kann ein alter Mann nicht einen nächtlichen Spaziergang unternehmen ohne belästigt zu werden?}
 {203}{}{Nicht, wenn er wie ein Dieb herumschleicht und eine Schaufel mitschleppt.}
 {204}{}{In Ordnung, aber warum trägst du eine Schaufel bei dir?}
-{205}{}{Whatever, I'm out of here.}
+{205}{}{Was auch immer, ich bin weg.}
 {206}{}{Kein Problem. Entschuldige die Störung.}
 {207}{}{Du meinst das alte Teil? [Er streift die verrostete Schaufel in seiner Hand mit einem Blick.] Naja, äh, man weiß ja nie,
  wann man mal was findet, das man ausgraben muss. Allseits bereit sag ich immer.}

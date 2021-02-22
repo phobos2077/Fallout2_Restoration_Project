@@ -88,6 +88,6 @@
 {830}{}{Wenigstens bin ich nicht wie DU geendet, Marcus!}
 {2900}{}{Ich muss mir erst einmal etwas anziehen. [Als er sich im Raum umsieht entdeckt Cat einen Spind, öffnet ihn und schaut hinein.] Diese Sachen sind nicht gerade nach meinem Geschmack, aber fürs erste sind sie okay. [Er zieht sich schnell etwas über.] Alles klar. Bin bereit zu gehen.}
 {2901}{}{[Ende]}
-{5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{[Der Mann steht auf und schüttelt sich trocken, wie ein nasses Tier. Als er dich anblickt beginnen sich seine Augen zu weiten und er beginnt nach Luft zu ringen.]}
 {5001}{}{[Ende]}
 {5002}{}{Heilige Scheiße!}

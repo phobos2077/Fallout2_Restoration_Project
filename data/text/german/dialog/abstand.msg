@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen Mann.}
 {101}{}{Du siehst eine Frau.}
-{102}{}{He is a citizen of the Abbey.}
-{103}{}{She is a citizen of the Abbey.}
+{102}{}{Er ist ein Einwohner von Abbey.}
+{103}{}{Sie ist eine Einwohnerin von Abbey.}
 {200}{}{Willkommen, Fremder.}
 {201}{}{Friede sei mit dir.}
 {202}{}{Dieser Ort ist so schön!}

@@ -8,8 +8,7 @@
 {211}{}{Tut mir leid, ich kann Sie nicht verstehen. Tschüss.}
 {212}{}{Interessant. Anscheinend können Sie nur mehr in Binärsprache kommunizieren.
  Wenn ich mir aufschreibe, was Sie sagen, kann ich es vielleicht entschlüsseln.}
-{220}{}{[After a couple hours, you finally believe you've correctly translated the binary numbers. It appears he's
- saying "Help me! Electrical short."}
+{220}{}{[Nach einigen Stunden glaubst du, die Binärsprache endlich richtig übersetzt zu haben. Er hat anscheinend gesagt: "Hilf mir, Kurzschluss."]}
 {221}{}{Gut, das entschlüsseln hat Spaß gemacht. Bis später.}
 {222}{}{Ein Kurzschluss im Speicher, huh? Ok, schaun wir, ob wir es reparieren können.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
@@ -18,14 +17,15 @@
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
 {241}{}{Ok, ich geb's auf. Tut mir leid.}
 {242}{}{Funktioniert's immer noch nicht? Warten Sie, lassen Sie mich das entziffern.}
-{250}{}{[You're able to decode the message much quicker this time: "Reboot me!"] Oh, of course. [You reboot the machine
- running the hologram. To pass the time, you whistle as it chugs through all its starting procedures.]}
+{250}{}{[Du kannst die Meldung "Starte mich neu" dieses Mal viel schneller entschlüsseln]
+ Oh, natürlich. [Du startest die Maschine, die das Hologramm ausführt neu. Um Dir die
+ Zeit zu vertreiben, pfeifst Du, während die Maschine alle ihre Startprozesse durchläuft.]}
 {251}{}{[Mach weiter]}
 {260}{}{Beim Zeus, Sie haben's geschafft. Mein Sprachprogramm hatte sich im Binärmodus
  für Jahre aufgehangen. Es ist so lange her, dass ich das Vergnügen hatte mich mit
  einem Freund intellektuell auszutauschen. Man sollte meinen, dass in all der Zeit
  wenigstens einer meiner Kameraden die Güte gehabt hätte, binär zu lernen. Aber, nein.}
-{261}{}{No prob--}
+{261}{}{Null Prob--}
 {270}{}{Wissen Sie, sie hatten keine Zeit für mich. Oh nein, sie waren zu beschäftigt sich
  ihrem bürokratischem Unsinn zu widmen. Zu beschäftigt mit der Einführung von Regelungen, über
  die sie sich streiten wie die Narren. Und wo hat sie das hingebracht? Festgefahren in einer
@@ -65,9 +65,8 @@
  Waffe zu testen, nicht nochmal überdacht?}
 {341}{}{Nö, Tut mir leid.}
 {342}{}{Doch. Sicher.}
-{350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
- friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
- *Solar Scorcher*. However, it's yet to be tested under direct sunlight, which is, of course, where you come in.}
+{350}{}{Ausgezeichnet! Sie sind der perfekte Kandidat. Schauen Sie, in einer Anwandlung das Militär
+ umweltfreundlicher werden zu lassen, habe ich eine neue Waffe entwickelt, die keine Munition braucht, weil sie komplett mit *Licht* funktioniert. Ich nenne sie *Solar Scorcher*. Wie auch immer, sie muss nur noch im direktem Sonnenlicht getestet werden, an diesem Punkt kommen Sie ins Spiel.}
 {351}{}{Also, sie wollen, dass ich nach draußen gehe und mit diesem Ding schieße? Das ist alles?}
 {352}{}{Ja, ja, dann geben Sie mir das Ding einfach.}
 {360}{}{Im Wesentlichen, ja. Natürlich muss ich wissen, wie gut es sich im Verlauf von Kampfhandlungen

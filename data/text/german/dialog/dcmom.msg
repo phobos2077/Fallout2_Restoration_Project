@@ -119,18 +119,11 @@
 {600}{}{Was weißt du über das Haus, in dem es spukt?}
 {800}{}{Ich hab bemerkt, dass es in der Stadt anscheinend viele Waisen gibt.}
 {801}{}{Es ist eine Schande, nicht wahr? Die armen Kinder leben einfach so auf der Straße... die meisten stehlen um zu überleben - hauptsächlich von Besuchern - also, wenn du eins dabei erwischt, wie es dich um ein paar Sachen erleichtern will, hab bitte Mitleid mit ihm. Ich sage nicht, dass es richtig ist, aber wir leben in einer harten Welt, und wir alle tun, was nötig ist, um über den Tag zu kommen.}
-{802}{}{There's gotta be something we can do about this. From what I hear, you seem to be the only person around that
- actually gives a damn about those kids.}
-{803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
- most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
- decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
- didn't pan out.}
+{802}{}{Es muss doch etwas geben, was wir dagegen tun können. Nach allem, was ich höre, scheinst du die einzige Person zu sein, die sich tatsächlich um diese Kinder Sorgen macht.}
+{803}{}{Aber natürlich mach ich das. Kinder sind unsere Zukunft. Sie *sollten* nicht zu Jeties, Schlägern und Huren heranwachsen, wie die meisten ihrer nichtsnutzigen Eltern. Denn, mit guter Bildung und etwas Liebe und Fürsorge, könnten sich diese Kinder zu der Art von anständigen Menschen entwickeln, die wir so dringend auf diesem Planeten brauchen. Ich habe versucht ein Waisenhaus für sie zu errichten, aber traurigerweise hat es nicht geklappt.}
 {804}{}{Vielleicht ist es an der Zeit, es nochmal zu versuchen. Ich werd nicht mehr recht lange in der Stadt sein, aber ich helfe soviel ich kann, solange ich noch hier bin.}
 {805}{}{Das ist wirklich schlimm. Aber es war ein nettes Gespräch. Ich muss gehen.}
-{806}{}{Yes, perhaps you *could* help. You see, I procured a large building over on the south-west side that, with a little work, would make an excellent
- orphanage. But a bunch of lowlifes are squatting there and refuse to leave unless I pay an absurd fee. Even if I *had* the money, I wouldn't give
- it to them bullies -- they'd just use it to further poison themselves. I'd go to the authorities, but unfortunately, there's no such thing in the Den.
- Perhaps you'd have better luck at convincing them to leave?}
+{806}{}{Ja, vielleicht *kannst* du helfen. Weißt du, ich entdeckte ein großes Gebäude drüben auf der Südwestseite, dass mit etwas Arbeit, eine ausgezeichnetes Waisenhaus abgeben würde. Aber ein Haufen Gesindel lungert darin herum und weigert sich zu verschwinden, es sei denn, ich bezahle eine absurde Gebühr. Selbst wenn ich das Geld *hätte*, würde ich es nicht diesen Fieslingen geben - sie würden es nur dazu verwenden, sich weiter selbst zu vergiften. Ich würd ja zu den Behörden gehen, aber leider gibt es sowas in Den nicht. Hast du vielleicht mehr Glück dabei, sie davon zu überzeugen zu verschwinden?}
 {807}{}{Ich bin sicher, ich kann sie da raus bekommen. Auf die eine oder andere Weise. Ich lasse es dich wissen, wenn sie weg sind.}
 {808}{}{Ich war nie ein Freund davon, Leute zu vertreiben. Vielleicht ist jemand anderer besser für diese Aufgabe geeignet.}
 {809}{}{Oh... ich verstehe. Das ist wirklich schade. Trotzdem danke für dein Angebot. Möchtest du etwas, bevor du gehst?}

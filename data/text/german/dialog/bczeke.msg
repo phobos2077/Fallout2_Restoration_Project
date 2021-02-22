@@ -7,9 +7,9 @@
 {106}{}{OK, ich geh.}
 {107}{}{Ich möcht dir nur einige Fragen stellen.}
 {108}{}{Du wirst feststellen, dass hier niemand Antworten hat. Komm am besten wieder, wenn wir eine neue Lieferung bekommen.}
-{109}{}{OK.}
+{109}{}{Fertig.}
 {110}{}{Hallo. Ich hab noch immer keine Antworten für dich, Fremder. Warum folgst du nicht dem Wink mit dem Zaunpfahl und machst dich vom Acker?}
-{111}{}{OK.}
+{111}{}{Fertig.}
 {112}{}{Rebecca hat mir erzählt, was du für sie getan hast. Ich möcht mich für die schlechte Behandlung entschuldigen, die du hier erfahren hast. Das war nicht fair. Was kann ich für dich tun?}
 {113}{}{Ich haben Fragen.}
 {114}{}{Nichts. Tschau.}
@@ -47,13 +47,13 @@
 {146}{}{Ja, ich denk, das muss gemacht werden.}
 {147}{}{Ich weiß es nicht.}
 {148}{}{Super. Viel Glück und danke.}
-{149}{}{OK.}
+{149}{}{Fertig.}
 {150}{}{Nimm dir Zeit, um darüber nachzudenken, aber eines solltest du wissen: Bis Darion beseitigt ist, muss ich hier alles so lassen wie es ist. Das ist zur Sicherheit aller. Das heißt, kein Deal und du bist weiterhin Persona non grata. Verstanden?}
 {151}{}{OK.}
 {152}{}{He, ich warte immer noch auf eine endgültige Lösung unseres Problems. Mit anderen Worten: Gib Darion einen Tritt in den Hintern!}
-{153}{}{OK.}
+{153}{}{Fertig.}
 {154}{}{Du hast es geschafft. Wir sind Darion los. Danke! Ich bin bereit, das Angebot der NCR zu akzeptieren. Sag ihnen, sie sollen einen Bevollmächtigten schicken, dann machen wir den Deal komplett.}
-{155}{}{OK.}
+{155}{}{Fertig.}
 {156}{}{Danke, dass du uns die Chance auf ein neues Leben gegeben hast. Wir stehen alle in deiner Schuld.}
 {157}{}{Verschwinde einfach. Ich hab dir nichts zu sagen.}
 {158}{}{Warte, bevor du gehst... Vor einiger Zeit hab ich diese Keycard gefunden. Ich weiß nicht, wofür sie ist. Rebecca hat erzählt, du hast eine Tür gefunden, wo sie Chrissy festgehalten haben. Vielleicht kannst du sie mit dieser Karte öffnen. Hier, nimm sie.}

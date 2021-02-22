@@ -20,11 +20,11 @@
 {119}{}{Das einzige, was dir übrig bleibt, ist, in den Computer reinzuschauen.}
 {120}{}{Du lässt die Finger davon.}
 {121}{}{Beim Untersuchen des Kabelgewirrs und der Platinen stellst du fest, dass das System absichtlich sabotiert wurde. Eine der Platinen, das Modul zur Stimmerkennung, ist völlig zerstört und muss ausgetauscht werden. Jetzt musst du nur noch ein Ersatzmodul finden.}
-{122}{}{OK.}
-{123}{}{OK.}
+{122}{}{Fertig.}
+{123}{}{Fertig.}
 {124}{}{Du installierst das Modul im Terminal. Das System ist repariert.}
 {125}{}{Es muss ein Modul zur Stimmerkennung installiert werden, bevor das Terminal wieder betriebsbereit ist.}
-{126}{}{OK.}
+{126}{}{Fertig.}
 {127}{}{Jetzt arbeitet das System einwandfrei.}
 {128}{}{Aufzeichnungen des Überwachungssystems werden abgerufen. Holografische Wiedergabe wird gestartet...}
 {129}{}{Du bist als letzter noch übrig, Gruthar. In Kürze wird der Schandfleck deines Geschlechts getilgt sein.}

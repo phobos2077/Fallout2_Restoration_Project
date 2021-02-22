@@ -56,7 +56,7 @@
 {284}{}{Ich will kein Sklave sein.}
 {285}{}{Ich habe etwas besseres verdient.}
 {290}{}{Du sterben!}
-{291}{}{Ich sterben?}
+{291}{}{Ich töten!}
 {292}{}{Du nicht weh tun Familie!}
 {293}{}{Du nicht nehmen Familie!}
 {294}{}{Ich beschützen!}

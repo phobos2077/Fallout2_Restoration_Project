@@ -81,15 +81,15 @@
  vielen als Held gesehen: The Bear Dude.}
 {931}{}{Aha! Gut, ich hatte eigentlich den Eindruck, dass ich der Held dieser Geschichte bin. Ich laufe rum, plündere jede Menge Mist und töte Leute
  - weißt schon - sehr heldenhaft. Oh, und manchmal rede ich mit ihnen, aber das wird öfter ziemlich mühsam. Ich klicke nur weiter, um zum lustigen Teil zu kommen.}
-{932}{}{Great work, Mr. Killap. I really appreciate all your time and hard work spent cleaning up the wasteland. If what you say is true, then you should know that I, too, am a hero. In fact, I've squashed quite a few bugs myself.}
+{932}{}{Tolle Arbeit, Mr. Killap. Ich weiß es wirklich zu würdigen, dass du so viel Zeit und Arbeit aufgewendet hast, um das Ödland zu säubern. Wenn es wahr ist, was du sagst, dann solltest du wissen, dass ich auch ein Held bin. In der Tat habe ich selbst ziemlich viele Ungeziefer zerquetscht.}
 {935}{}{Und wir sind dafür dankbar, dass du die Enklave zerstört hast. Du bist der wahre Held hier.}
 {936}{}{Was auch immer dich über den Tag bringt.}
 {937}{}{Also, wie genau hast du diese Welt gesäubert?}
 {938}{}{Wer, bitte schön, sind die anderen Leute hier?}
-{940}{}{These are my companions. They helped me improve this world: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz the Hutt,
- R2Qwerty, Chris3ParksO, Yosan12, Empress Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude,
- Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, and the Masses. They all helped in the great project to restore
- this world from the bug infestation. The only good bug is a dead bug.}
+{940}{}{Das sind meine Gefährten. Sie halfen mir diese Welt zu verbessern: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz the Hutt,
+ R2Qwerty, Chris3ParksO, Yosan12, Imperatorin Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude,
+ Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, und die breite Masse. Sie halfen alle bei dem großen Projekt, diese Welt
+ von der Bug-Verseuchung zu befreien. Der einzige gute Bug ist ein vernichteter Bug.}
 {941}{}{Hmm. Diese Namen klingen irgendwie vertraut... Nun, ich denke, dass ich werde mit ihnen reden.}
 {950}{}{Kann ich allerdings. Du musst lernen, deine Empfindungen zu benutzen: dich von deinem bewussten Verstand lösen. Schalte den Monitor aus.
  Schließe die Augen und spüre wie die "Source" durch die Maus fließt... (Befolge seine Anweisungen.)}
@@ -102,11 +102,12 @@
  wie ein Blaster; eine elegante Waffe aus einem weitaus zivilisierterem Zeitalter. Und, obwohl sie dazu verleiten könnte, nur so zum Spaß beliebig
  Leute zu halbieren, solltest du sie nur im Dienst der guten Sache verwenden. Viel Glück, und möge die "Source" mit dir sein, mein Freund.}
 {963}{}{Was?! Mein Vorfahre, der Vaultbewohner, hatte eines?! Ich erinnere mich nicht daran, so etwas in Fallout 1 gesehen zu haben! *geh und schau nach*}
-{964}{}{Thank you, Mr. Bear Dude. For everything. May The Source be with you too.}
-{1000}{}{You see Empress Timeslip.}
+{964}{}{Danke Mr. Bear Dude. Für alles. Möge die "Source" auch mit dir sein.}
+{1000}{}{Du siehst Imperatorin Timeslip.}
 {1001}{}{Du siehst eine böse, verhüllte Person mit einem Buckel.}
-{1010}{}{I'm Empress Timeslip. I'm a Programming Master, skilled in the way of The Source. It was I who allowed Obi-Wan-Killap's spies to steal my
- engine fixes to greatly improve the stability of this world, and correct FOOLISH AND STUPID MISTAKES left by the original ones.}
+{1010}{}{Ich bin Imperatorin Timeslip. Ich bin ein Meister-Programmierer, befähigt die "Source" zu beherrschen. Ich war es, der Obi-Wan-Killaps
+ Spionen erlaubte, meine Engine-Verbesserungen zu stehlen, um die Stabilität dieser Welt erheblich zu verbessern und TÖRICHTE UND DUMME FEHLER der
+ Ursprünglichen zu korrigieren.}
 {1011}{}{Wirklich, mein Meister. Erzähle mir von dir Gebieter.}
 {1012}{}{Mann! Du bist gruselig. Und dein Gesicht sieht schrecklich aus.}
 {1013}{}{Das ist nett. Ich muss gehen.}
@@ -115,7 +116,7 @@
 {1021}{}{Sei still! Die Jahre der Arbeit im Dunkeln können mein Aussehen verfälscht haben, aber in meinem Geist steckt die Macht eines Gottes!
  Durch die Beherrschung der "Source" kreierte ich Wetter, erschaffte ganze Welten und optimierte, was nicht optimiert werden kann!
  Ich war es auch, der Evil Beth erlaubte, die RPG Welt mit meinen Mods zu beherrschen. Alles, was geschehen ist, entsprach MEINEM Wunsch.}
-{1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
+{1022}{}{Sauce? Welche Sauce? Willst du erzählen, dass Kochen der Schlüssel zum Universum ist? Was auch immer du sagst, Chefkoch.}
 {1023}{}{Ja ja. Mensch, was du auch sagst. Ich denke, dass ich jetzt gehe.}
 {1024}{}{Äh, OK. Das ist toll. Nun, ich muss... äh... meine Pflanzen gießen...}
 {1030}{}{Dummer Narr. Dein übersteigertes Selbstvertrauen ist deine Schwäche, und mein Vertrauen zu deinen Freunden ist... äh... meine. *schaut irritiert* Geh mir aus den Augen.}
@@ -137,8 +138,8 @@
 {1110}{}{Ich bin Luke Skynet: Ich bin hier um dich zu retten.}
 {1111}{}{Mich retten?}
 {1112}{}{Sehe ich wie eine Prinzessin aus? Was meinst du mit 'retten'?}
-{1113}{}{Right. I think you're the one that needs rescuing, pal... from your own movie career. Bye.}
-{1120}{}{Yes, I'm here to rescue you. I created the basis to what you see at the Abbey, and there you will find salvation. There you will find the light!}
+{1113}{}{Gut. Ich glaube, du bist derjenige, der gerettet werden muss, Kumpel... von deiner eigenen Filmkarriere. Tschüss.}
+{1120}{}{Ja, ich bin hier um dich zu retten. Ich schuf den Entwurf für all das, was du in Abbey siehst und da wirst du Erlösung finden. Dort wirst du das Licht finden!}
 {1121}{}{Ich bin tatsächlich schon dort gewesen. Ich 'rettete' jede Menge Dinge davor, in all den Schubladen und Behältern verloren zu gehen.}
 {1122}{}{Amen Bruder. Vielen Dank für deine Hilfe bei der Erschaffung dieses Hort des Friedens und des Trostes. Gerade als ich meine verstrahlten Füße ausruhen musste und geistige Erneuerung benötigte.}
 {1123}{}{Ich erinnere mich an den Ort. Allerdings gab es keinen kompetenten Schamanen, und keine Superkräuter. Ich weiß nicht, wer sich darunter ein spirituelles Zentrum vorstellt, ich jedenfalls nicht.}
@@ -155,7 +156,7 @@
 {1210}{}{Ich half mit eine Komplettlösung zu schreiben, um alle Neulinge bei ihrem neuen Abenteuer in dieser verbesserten Welt zu unterstützen.}
 {1211}{}{Mist! Ich bin auf der falschen Seite! Ich war nie ganz sicher, auf welcher Seite ich sein soll.}
 {1212}{}{Sieht mein Hintern darin groß aus?}
-{1213}{}{Empress Timeslip has made a critical error and the time for our attack has come. *wink*}
+{1213}{}{Imperatorin Timeslip hat einen kritischen Fehler gemacht, und die Zeit für unseren Angriff ist gekommen. *Zwinkert*}
 {1300}{}{Du siehst Kanhef.}
 {1301}{}{ER sieht wie ein großartiger Kerl aus.}
 {1310}{}{Ich bin im Grunde der NMA-Helpdesk.}
@@ -172,12 +173,12 @@
 {1501}{}{Er nickt in deine Richtung.}
 {1510}{}{Ich bin Mr. Wolna. Ich leitete die Übersetzung der deutschen Version.}
 {1511}{}{[plz bitch-slap me!!]}
-{1512}{}{Good work, guys! Keep it up!}
+{1512}{}{Gute Arbeit Jungs! Weiter so!}
 {1513}{}{Schau! Ein Goldadler!}
 {1514}{}{Ich komme aus Deutschland!}
 {1600}{}{Du siehst Mr. Wolna.}
 {1601}{}{Dieser Kerl ist wirklich begeistert...}
-{1610}{}{[He removes his helmet and casts aside his crimson cloak, revealing a ruggedly handsome man with a shaved head and a leather jacket. He seems to exude charisma and awesomeness.] Hey stranger, the name's Adam. How's it going?}
+{1610}{}{[Er nimmt seinen Helm ab, wirft seinen purpurnen Mantel beiseite und zum Vorschein kommt ein rauer stattlicher Mann mit einem rasierten Kopf und einer Lederjacke. Er scheint Charisma und Großartigkeit auszustrahlen.] Hallo Fremder, ich bin Adam. Wie geht's?}
 {1611}{}{Ziemlich gut. Es war ein steiniger Weg, aber ich habe endlich das Ende erreicht.}
 {1612}{}{Dafür habe ich wirklich keine Zeit. Tschüss.}
 {1620}{}{Das ist gut zu hören. [Er schaut sich um, dann runzelt er die Stirn.] Wo ist Dex? Ich verbrachte viel Zeit damit, den Dialog dieses Dandys zu schreiben, und du nutzt ihn nicht einmal? [Er seufzt schwer und schüttelt seinen Kopf.]}
@@ -191,7 +192,7 @@
 {1660}{}{[Er nickt und blickt in die Ferne.] Weißt du, Dex war nicht mein einziger Beitrag. Ich half auch dem Bear Dude beim Verfeinern dieser Welt durch die Unterstützung als Berater, Tester und Wächter von Grundprinzip und Originalabsicht. Aber hauptsächlich war ich damit beschäftigt, alle neuen Ödlandgespräche auf einen Nenner zu bringen. Es war ein verflucht langer Weg, aber wenn du mich fragst, wurde das Ding verdammt toll. [Er blickt dich an und grinst.]}
 {1661}{}{Wie auch immer. Ich bin es leid dir zuzuhören. Tschüss.}
 {1662}{}{Das ist ziemlich großzügig von dir. Du hast bemerkenswerte Arbeit geleistet. Pass auf dich auf. Tschüss.}
-{1670}{}{*Looks over at your party members* Lookin' good, Dex.}
+{1670}{}{*Mustert deine Begleiter* Siehst gut aus, Dex.}
 {1671}{}{Pass auf Dex auf, okay? Ich will nicht dass er in Schwierigkeiten gerät. Schließlich ist er mein Schöpfung.}
 {1672}{}{Herzlichen Dank dass du die Dialoge des Ödlands entrümpelt hast.}
 {1673}{}{He, wo ist Dex? Erwähnte ich, dass ich sein Schöpfer bin?}
@@ -233,21 +234,21 @@
 {2061}{}{So viele neue Details. Wunderschön.}
 {2100}{}{Du siehst Mash.}
 {2101}{}{Er nickt dich an.}
-{2110}{}{Greetings! Glad you've made it this far. I hope you are enjoying the expanded visible size of this world. Not enough
- of this world could be shown at any one time. I changed all this though. Empress Timeslip and I are masters of the
- Source. He and I have brought this old world into a new era.}
+{2110}{}{Grüße! Es freut mich, dass du es bis hierher geschafft hast. Ich hoffe, dass du die erweiterte Sichtweite dieser
+ Welt genießt. Es konnte nicht genug dieser Welt auf einmal gezeigt werden. Doch ich änderte das alles. Imperatorin Timeslip
+ und ich sind die Meister der "Source". Er und ich haben dieser alten Welt eine neue Ära gebracht.}
 {2111}{}{Toll, vielen Dank dafür. Alles ist viel besser. Manchmal etwas zu klein, aber das kann man leicht einstellen.}
 {2112}{}{Dafür habe ich wirklich keine Zeit. Tschüss.}
-{2120}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have taken advantage of this
- new ability. Outstanding!}
+{2120}{}{Ich bin froh, dass du meine harte Arbeit genießt. Ich habe es auch ermöglicht, das Aussehen zu ändern.
+ Du bist nicht mehr fest an eine bestimmte Rasse oder Haartyp gebunden. Yosan12, x'il und andere machten die
+ physikalischen Erscheinungen selbst, aber ich, mit der Hilfe von Imperatorin Timeslip, drangen tief in die "Source"
+ ein, damit wir alles verwirklichen konnten. Ich sehe, dass du den Vorteil dieser neuen Möglichkeit genutzt hast. Hervorragend!}
 {2121}{}{Oh, ich liebe mein neues Aussehen. Vielen Dank dafür!}
 {2122}{}{Okay. Auf Wiedersehen.}
-{2130}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have not taken advantage of
- this feature. Just know that it is there and available. A great place to test it out is at the EPA. Oh, what fun!}
+{2130}{}{Ich bin froh, dass du meine harte Arbeit genießt. Ich habe es auch ermöglicht, das Aussehen zu ändern. Du bist nicht mehr fest an eine
+ bestimmte Rasse oder Haartyp gebunden. Yosan12, x'il und andere machten die physikalischen Erscheinungen selbst, aber ich, mit der Hilfe von
+ Imperatorin Timeslip, drangen tief in die "Source" ein, damit wir alles verwirklichen konnten. Ich sehe, dass du den Vorteil dieser Funktion nicht
+ genutzt hast. Nur damit du es weißt, es gibt sie und sie ist verfügbar. Die EPA ist ein großartiger Ort, um es zu testen. Oh, was für ein Spaß!}
 {2131}{}{Ich werde es im Auge behalten. Danke.}
 {2132}{}{Okay. Auf Wiedersehen.}
 {2140}{}{Überragend. Also, pass auf dich auf.}

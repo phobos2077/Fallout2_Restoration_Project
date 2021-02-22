@@ -13,4 +13,4 @@
 {112}{}{PIEP!}
 {113}{}{BOOP!}
 {114}{}{Bzzzt..}
-{115}{}{You already repaired it.}
+{115}{}{Du hast das bereits repariert.}

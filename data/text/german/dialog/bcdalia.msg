@@ -54,6 +54,6 @@
 {153}{}{Danke. Ich nicht vergessen, Dalia.}
 {154}{}{Danke. Das werde ich dir nie vergessen, Dalia.}
 {155}{}{Dann geh zum Teufel und lass mich hier in Ruhe.}
-{156}{}{OK.}
+{156}{}{Fertig.}
 {157}{}{Dann geh zum Teufel und lass mich hier in Ruhe.}
-{158}{}{OK.}
+{158}{}{Fertig.}

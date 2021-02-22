@@ -8,7 +8,7 @@
 {204}{}{Na klar. Da du mir ein Feuerzeug gebracht hast, bekommst du einen aufs Haus.}
 {205}{}{[Trink ihn.]}
 {206}{}{Ich hab es mir überlegt, ich möchte keinen Alkohol. Machs gut.}
-{207}{}{(You feel warm and relaxed after you gulp down the wine.)}
+{207}{}{(Du fühlst dich warm und entspannt, nachdem du den Wein runtergekippt hast.)}
 {208}{}{Gib mir noch einen, Hank.}
 {209}{}{Ich werde jetzt gehen, machs gut.}
 {210}{}{[Plötzlich fühlst du dich scheiße, dann beginnt sich dein Blick zu trüben. Du stürzt zu Boden...]}
@@ -28,7 +28,7 @@
 {253}{}{[Nimm ihn mit.]}
 {300}{}{Wo habe ich mein Feuerzeug hingetan?}
 {301}{}{Ich brauche ein Feuerzeug.}
-{302}{}{COULD SOMEONE BRING ME A LIGHTER!?}
+{302}{}{KANN MIR IRGENDJEMAND EIN FEUERZEUG BRINGEN!?}
 {303}{}{Äh, hallo du.}
 {304}{}{Tut mir leid, ich kann gerade nicht mit dir reden.}
 {400}{}{Oh, schau nur, all die schönen Sterne!}
@@ -41,7 +41,7 @@
  Wenn du jemals eines in die Hände bekommst, wäre ich sehr froh, wenn ich es von dir haben könnte.}
 {701}{}{Sicher. Wenn ich zufällig eines finde, lasse ich es dich wissen. Machs gut.}
 {702}{}{Tut mir leid. Ich bin ein Sammler und behalte alles, was ich finde. Machs gut.}
-{800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
+{800}{}{Feuer...? Ich habe Feuermacher. Es verbrennen mich viele Male. (Du hältst ein Feuerzeug hoch.)}
 {810}{}{Jaa, das ist genau was ich brauche. Wirst du es mir geben?}
 {811}{}{Na gut. Sowieso nicht mag.}
 {812}{}{Ich nicht geben!}

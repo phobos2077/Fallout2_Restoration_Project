@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen Mönch mittleren Alters.}
-{101}{}{You see Brother Matthew.}
-{102}{}{He is standing at a podium preaching to the citizens of the Abbey.}
-{200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
+{101}{}{Du siehst Bruder Matthias.}
+{102}{}{Er steht auf einem Podest und predigt zu den Bürgern von Abbey.}
+{200}{}{Liebe Bürger von Abbey. Nehmt euch einen Moment Zeit, um zu hören was, ich euch zu sagen habe.}
 {201}{}{Hier sammeln wir die heiligen Relikte einer längst vergangenen Zeit.}
 {202}{}{Versengt vom großen Feuersturm, warf man uns in die Dunkelheit.}
 {203}{}{Wir erstellen eine Memorabilia, um die Weisheit der Alten zu behüten.}

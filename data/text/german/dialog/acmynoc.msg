@@ -118,18 +118,17 @@
 {602}{}{Verstanden. Noch etwas?}
 {603}{}{Vertraue nicht zu leicht. Ehre bedeutet sehr wenig draußen im Ödland. Sei wachsam und hinterfrage immer die Motive der anderen.}
 {604}{}{Alles klar. Ist das alles?}
-{605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain.
- But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
+{605}{}{Vergiss nie deine Wurzeln. Die Welt außerhalb unseres Dorfes ist voller glänzender Spielzeuge und Luxusartikel, die unser Leben hier in Arroyo einfach und schlicht erscheinen lassen. Aber vergiss nicht, dass der Lebensstil der Outsider verrückte Menschen hervorbringt, welche von Gier und Korruption beherrscht werden. Pass auf, dass du nicht wie "Er-Dessen-Name-Nicht-Genannt-Werden-Darf" wirst.}
 {606}{}{Ich werde meine Herkunft nicht vergessen. Danke für den Ratschlag, Mynoc.}
-{607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
+{607}{}{Er-Dessen-Name-Nicht-Genannt-Werden-Darf? Äh... wer?}
 {608}{}{Bist du so berauscht von deinem Ruhm als Auserwähltes Wesen, dass du ihn vergessen hast... [Mynoc blickt schnell umher um sicher zu sein, dass euch keiner zuhört, lehnt sich dann nach vorne und reduziert seine Stimme zu einem Flüstern.]... Kaga?}
 {609}{}{Ah! Ja, der Typ. Ich passe auf, dass ich nicht so Ende wie er. Danke.}
 {610}{}{Ah, den meinst du. Aber, hey, warum fährst du nicht fort und erzählst mir noch einmal, was es mit ihm auf sich hat. Ich liebe diese Geschichte wirklich.}
-{611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
+{611}{}{[Mynoc murmelt etwas vor sich hin und schüttelt den Kopf, bevor er mit seiner Geschichte beginnt.] Wie du wissen solltest, war er einst der größte Krieger unseres Stammes. Er führte viele Expeditionen in die Welt außerhalb an und dort war es auch, wo die Verderbnis anfing seinen Geist zu vergiften.}
 {612}{}{Er wurde vom Pfad der Outsider geblendet, wo Macht jedem großen Respekt und Luxus bringen konnte. Er begann, sich als höherstehend als seine Stammesbrüder anzusehen, die zufrieden damit waren, ein einfaches Leben zu führen.}
 {613}{}{Was für ein Saftsack.}
 {614}{}{Ja?}
-{615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
+{615}{}{Als für unseren Stamm schwere Zeiten anbrachen, hielt er sich für den Retter unserer Leute und ging in den Tempel der Erprobung, um sich zu bewähren, um das Auserwählte Wesen zu sein.}
 {616}{}{Ja?}
 {617}{}{Vergiss es, ich will diese Geschichte nicht mehr hören. Tschüss.}
 {618}{}{Er machte seinen Weg durch den Tempel und schnell erreichte er den letzten Test: ein Faustkampf gegen einen Krieger.}
@@ -138,19 +137,18 @@
 {621}{}{Ich habe keine Zeit, all deine albernen Fragen zu beantworten. Willst du, dass ich die Geschichte zu Ende erzähle oder nicht?}
 {622}{}{Tut mir leid. Bitte fahr fort.}
 {623}{}{Eigentlich denke ich, dass ich bereit bin zu gehen. Man sieht sich.}
-{624}{}{During the final trial, He-Who-Must-Not-Be-Named unsheathed a hidden blade and used it to kill his opponent. When the Elder confronted him about his dishonorable use of a hidden weapon, he argued that it was not cheating, but rather proved him to be a cunning warrior.}
-{625}{}{The Elder did not agree. He-Who-Must-Not-Be-Named was forcibly exiled from our tribe and his name was never to be spoken amongst us again. As he was cast away into the wastes, he swore an oath of vengeance. Vengeance against our tribe, and especially against you.}
+{624}{}{Beim letzten Test, zog Er–Der–Nicht–Genannt–Werden–Darf eine verborgene Klinge und benutzte sie, um seinen Gegner zu töten. Als die Älteste ihn über seinen unehrenhaften Gebrauch einer verborgenen Waffe befragte, behauptete er, dass er nicht betrog, sondern bewies, dass er ein schlauer Krieger sei.}
+{625}{}{Die Älteste konnte dem nicht zustimmen. Er-Der-Nicht-Genannt-Werden-Darf wurde von unserem Stamm gewaltsam verbannt und sein Name sollte unter uns nie wieder ausgesprochen werden. Als er in das Ödland vertrieben wurde, schwor er einen Eid der Rache. Rache gegen unseren Stamm und besonders gegen dich.}
 {626}{}{Mich? Was habe ich damit zu tun?}
 {627}{}{Danke für die Geschichte, aber ich sollte mich jetzt auf den Weg machen.}
 {628}{}{Du bist das Auserwählte Wesen, ein Titel von dem er denkt, er gehöre rechtmäßig ihm. Sein Stolz wird dir nicht erlauben zu leben.}
 {629}{}{Ich werde mir darüber keine Sorgen machen. Er ist inzwischen wahrscheinlich sowieso irgendwo im Ödland gestorben.}
 {630}{}{Ich werde auf der Lauer sein. Hoffentlich wurde er inzwischen im Ödland getötet.}
-{631}{}{Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.}
+{631}{}{Hör zu und verstehe. Er-Der-Nicht-Genannt-Werden-Darf ist da draußen irgendwo. Du kannst nicht mit ihm verhandeln. Du kannst nicht vernünftig mit ihm reden. Er wird weder Mitleid, Gewissensbisse oder Angst haben. Und er wird absolut niemals aufhören, bis du tot bist.}
 {632}{}{Weißt du, ich glaube, du übertreibst es mit dem Melodrama, aber nur ein bisschen. Trotzdem, vielen Dank für den Rat. Man sieht sich, Mynoc.}
 {633}{}{Ich werde daran denken. Pass auf dich auf, Mynoc.}
 {640}{}{Hey, könntest du mir etwas über diesen Kaga-Typen erzählen?}
-{641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named.
- Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
+{641}{}{[Er reißt die Augen auf, und sieht sich nervös um, als könnte er plötzlich von einem Blitz getroffen werden.] Hast du im Ödland deinen Verstand verloren?! Du solltest es besser wissen, als den Namen des Ausgestoßenen auszusprechen! Er soll nur als Er–Der–Nicht–Genannt–Werden–Darf bezeichnet werden. Unser Dorf leidet schon genug, ohne dass wir den Zorn der Götter auf uns lenken. [Er erhebt seine Augen nervös zum Himmel.]}
 {642}{}{Entschuldige bitte, Mynoc. Aber, würde es dir etwas ausmachen mir noch mal zu erzählen was es mit Ka... ich meine mit Er–Der–Nicht–Genannt–Werden–Darf, auf sich hat? Ich liebe diese Geschichte wirklich.}
 {643}{}{Weißt du, ich hatte fast vergessen wie bescheuert abergläubisch ihr sein könnt. Man sieht sich.}
 {650}{}{Ich habe ihn schon zu Gesicht bekommen, darum bin ich sicher, dass ich mit ihm fertig werde, wenn sich unsere Wege wieder kreuzen.}

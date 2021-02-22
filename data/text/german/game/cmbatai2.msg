@@ -1,10 +1,10 @@
 {1000}{}{Mein Gesicht! Mein Gesicht!}
 {1001}{}{Au! Das tat weh!}
 {1002}{}{Autsch! Ich brauch 'nen Eisbeutel für meinen Kopf.}
-{1010}{}{Au, mein Arm}
+{1010}{}{Au, mein Arm!}
 {1011}{}{Aua!}
 {1012}{}{Du hast mir den Arm gebrochen!}
-{1020}{}{Au, mein Arm}
+{1020}{}{Au, mein Arm!}
 {1021}{}{Wahhhh!}
 {1022}{}{Mein Gott! Mein Arm!}
 {1030}{}{Au! Das tat ziemlich weh!}
@@ -14,10 +14,10 @@
 {1034}{}{Das tat weh!}
 {1035}{}{Lass mich in Ruhe!}
 {1036}{}{Ohhh, diese Schmerzen!}
-{1060}{}{Au, mein Bein.}
+{1060}{}{Au, mein Bein!}
 {1061}{}{Mein Knie!}
 {1062}{}{Aua!}
-{1070}{}{Au, mein Bein.}
+{1070}{}{Au, mein Bein!}
 {1071}{}{Mein Knie!}
 {1072}{}{Aaaarrrrggghhh!}
 {1080}{}{Au!! Meine Augen!}
@@ -30,12 +30,12 @@
 {1094}{}{Ich...kann nicht...atmen...}
 {1095}{}{Diese Schmerzen, diese Schmerzen...}
 {1100}{}{Verdammt!}
-{1101}{}{Mir brummt der Schädel.}
+{1101}{}{Mein Schädel schmerzt!}
 {1102}{}{Mein Gesicht! Mein Gesicht!}
-{1110}{}{Aggghhh! Mein Arm.}
+{1110}{}{Aggghhh! Mein Arm!}
 {1111}{}{Mein Arm!}
 {1112}{}{Oh Mann, das tut ziemlich weh!}
-{1120}{}{Aggghhh! Mein Arm.}
+{1120}{}{Aggghhh! Mein Arm!}
 {1121}{}{Mein Arm!}
 {1122}{}{}
 {1130}{}{}
@@ -48,10 +48,10 @@
 {1138}{}{Oh, meine Rippen!}
 {1139}{}{Au!!!}
 {1140}{}{Uff!}
-{1160}{}{Aggghhh! Mein Bein}
+{1160}{}{Aggghhh! Mein Bein!}
 {1161}{}{Mein Bein!}
 {1162}{}{Kniescheibe ade.}
-{1170}{}{Aggghhh! Mein Bein}
+{1170}{}{Aggghhh! Mein Bein!}
 {1171}{}{Mein Bein!}
 {1172}{}{Kniescheibe ade.}
 {1180}{}{Aggghhh! Ich bin blind!}
@@ -303,7 +303,7 @@
 {1641}{}{Ist 'ne Bauchwunde, Sergeant.}
 {1642}{}{Lungen sind nur was für Memmen.}
 {1643}{}{He, ich hab ja Rippen!}
-{1660}{}{Au, mein Bein.}
+{1660}{}{Au, mein Bein!}
 {1661}{}{Das wirst du mir bezahlen!}
 {1662}{}{Argh! Du brichst mir das Bein und ich brech dir das Genick!}
 {1663}{}{Verdammt, nie wieder Tango tanzen.}
@@ -353,7 +353,7 @@
 {1710}{}{Ich kann dich auch mit einem Arm schlagen!}
 {1711}{}{Sanitäter! Mein Arm ist hinüber!}
 {1712}{}{Ack! Was ein Glück, dass ich Beidhän... egal.}
-{1720}{}{Du hast mir den Arm gebrochen! Immerhin ist der Kampf jetzt fair.}
+{1720}{}{Du hast meinen Arm gebrochen! Jetzt ist der Kampf fair!}
 {1721}{}{Sanitäter! Mein Arm ist hinüber!}
 {1722}{}{Du musst mir mehr als den Arm abschlagen, um deine Haut zu retten!}
 {1730}{}{Ahhg! Direkt in die Eingeweide!}
@@ -534,7 +534,7 @@
 {2365}{}{Das wird leichter als ich dachte.}
 {2400}{}{Ich mach mich vom Acker!}
 {2401}{}{Vielleicht war das keine so gute Idee.}
-{2402}{}{Greif doch jemand anderen an, okay!?}
+{2402}{}{Greif jemand anderes an, okay!}
 {2403}{}{Himmel!}
 {2404}{}{Dafür sterb ich nicht!}
 {2405}{}{Mir reicht's.}
@@ -592,7 +592,7 @@
 {2562}{}{Du machst's mir einfach.}
 {2563}{}{Echt erbärmlich...}
 {2564}{}{Zu langsam!}
-{2565}{}{Versager}
+{2565}{}{Verlierer!}
 {2600}{}{ Flieh vor dem Teufel!}
 {2601}{}{Die Geister gebieten mir, mich selbst zu retten.}
 {2602}{}{Unser Feind hat mächtige Magie eingesetzt--Beeilt euch! Holt den Schamanen!}
@@ -1046,10 +1046,10 @@
 {32000}{}{Mein Gesicht! Mein Gesicht!}
 {32001}{}{Meine Kopfhaut!}
 {32002}{}{oooh... meine Ohren...}
-{32010}{}{Au, mein Arm}
+{32010}{}{Au, mein Arm!}
 {32011}{}{Aua!}
 {32012}{}{Du hast mir den Arm gebrochen!}
-{32020}{}{Au, mein Arm}
+{32020}{}{Au, mein Arm!}
 {32021}{}{Wahhhh!}
 {32022}{}{Mein Gott! Mein Arm!}
 {32030}{}{AUTSCH!}
@@ -1250,10 +1250,10 @@
 {32700}{}{Mein Gesicht! Mein Gesicht!}
 {32701}{}{Sternenvater. Heile mich!}
 {32702}{}{Autsch! Ich brauch 'nen Eisbeutel für meinen Kopf.}
-{32710}{}{Au, mein Arm}
+{32710}{}{Au, mein Arm!}
 {32711}{}{Aua!}
 {32712}{}{Du hast mir den Arm gebrochen!}
-{32720}{}{Au, mein Arm}
+{32720}{}{Au, mein Arm!}
 {32721}{}{Wahhhh!}
 {32722}{}{Bei Kron! Mein Arm!}
 {32730}{}{Au! Das tat ziemlich weh!}
@@ -1263,7 +1263,7 @@
 {32734}{}{Das tat weh!}
 {32735}{}{Lass mich in Ruhe!}
 {32736}{}{Ohhh, diese Schmerzen!}
-{32760}{}{Au, mein Bein.}
+{32760}{}{Au, mein Bein!}
 {32761}{}{Mein Knie!}
 {32762}{}{Aua!}
 {32770}{}{Au, mein Schienbein!}
@@ -1587,7 +1587,7 @@
 {36671}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {36672}{}{Ahhhh! Dafür werd ich dir das Genick brechen!}
 {36680}{}{Ahhhh! Verdammter Mensch! Ich bin blind!}
-{36681}{}{Ahhhh! Schmerz! Was hast du getan?}
+{36681}{}{Ahhhgh! Schmerzen! Was hast du getan!}
 {36682}{}{Ahhhh! Dafür werde ich dich tagelang foltern!}
 {36690}{}{Das ist menschliche Schwäche!}
 {36691}{}{Das nennst du Schmerz? Dass ich nicht lache!}
@@ -1613,14 +1613,14 @@
 {36741}{}{Jetzt kann dir keiner mehr helfen!}
 {36742}{}{Ich will sehen, wie du leidest!}
 {36743}{}{Jetzt stirbst du den Flammentod!}
-{36744}{}{Stirb, menschlicher Narr.}
+{36744}{}{Stirb, menschlicher Dummkopf!}
 {36745}{}{Gleich stirbst du schreiend}
 {36746}{}{Leide!}
 {36747}{}{Jetzt zermalme ich dich!}
 {36748}{}{Gegen das Auserwählte Wesen kommst du nicht an!}
 {36749}{}{Leide, Mensch!}
 {36760}{}{Warum wehrst du dich?}
-{36761}{}{Ist das schon alles, was Menschen können?}
+{36761}{}{Besser können es die Menschen nicht!}
 {36762}{}{Du hast keine Kraft!}
 {36763}{}{Ich lach mich kaputt!}
 {36764}{}{War das ein Angriff?}

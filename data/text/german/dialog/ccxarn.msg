@@ -57,7 +57,7 @@
 {138}{}{Nein, aber ich denke darüber nach.}
 {139}{}{Nein, ich glaube nicht.}
 {140}{}{Also gut... Ich warte hier, bis du zu einer Entscheidung kommst.}
-{141}{}{OK.}
+{141}{}{Fertig.}
 {142}{}{Also gut... Deine Entscheidung macht mich traurig, doch es ist deine Wahl. Wenn du deine
  Meinung änderst, ich bin hier.}
 {143}{}{Tschüss.}

@@ -34,7 +34,7 @@
 {133}{}{Noch eine Übung?}
 {134}{}{Ich glaub, ich hab Schüsse gehört.}
 {135}{}{He, wer bist du?}
-{136}{}{Halt, wer da!}
+{136}{}{Halt! Wer ist da?}
 {137}{}{Ich hab diese dauernden Übungen so satt.}
 {138}{}{Klar, also ob ich 'nen Eindringling erkennen würde.}
 {139}{}{Mach dir da keine Sorgen.}

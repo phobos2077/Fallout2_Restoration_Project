@@ -27,7 +27,7 @@
 {260}{}{Hervorragend! Um Mentats herzustellen, benötigen sie: Einen Erste Hilfe Kasten, einen Apfel und Schnapps! Lecker!}
 {262}{}{Mach Mentats.}
 {263}{}{Beenden}
-{270}{}{Great choice! To make a Doctor's Bag, please feed me: one Stimpak, one First Aid Kit, one Empty Hypodermic needle and one Poison Antidote! Yum-yum!}
+{270}{}{Hervorragend! Um eine Arzttasche herzustellen, benötigen sie: Ein Stimpak, ein Ersthilfekit, eine Injektionsspritze und ein Gegengift! Lecker!}
 {272}{}{Mach eine Arzttasche.}
 {280}{}{Hervorragend! Um einen Erste Hilfe Kasten herzustellen, benötigen sie: Ein Stimpak, eine Injektionsspritze, ein Gegengift und ein Rad Away! Lecker!}
 {282}{}{Mach einen Erste Hilfe Kasten.}

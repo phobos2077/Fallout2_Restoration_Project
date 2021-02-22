@@ -60,7 +60,7 @@
 {159}{}{OK, mein Name ist}
 {160}{}{Das ist mein richtiger Name! Und nun lass mich mit dem Kaiser sprechen!}
 {161}{}{Großartig. Folgendes wird von dir verlangt: Nördlich von hier liegt die kleine Militärbasis Navarro. Dort haben sie viele Vertibirds. Wir benötigen Pläne und Blaupausen, um unsere eigenen Exemplare herzustellen. Beschaffe uns diese und du wirst den Kaiser sehen.}
-{162}{}{OK, ich mach's.}
+{162}{}{Jetzt hast du es.}
 {163}{}{Vergiss es.}
 {164}{}{Willst du dich jetzt unserer Prüfung unterziehen?}
 {165}{}{Nö.}
@@ -105,7 +105,7 @@
 {201}{}{Ich...verstehe. Also danke, dass du dir die Zeit genommen hast.}
 {202}{}{Unsere Spione berichten uns, du hättest die Vertibird-Pläne den Hubologen gegeben. Stiehl sie für uns und du wirst reich belohnt.}
 {203}{}{Alles klar. Ich habe ein paar Fragen.}
-{204}{}{Niemals!}
+{204}{}{Niemals.}
 {205}{}{Dank dir für die Vertibird-Pläne, Fremder. Womit können wir dir helfen?}
 {206}{}{Ich habe ein paar Fragen.}
 {207}{}{Äh...nichts.}

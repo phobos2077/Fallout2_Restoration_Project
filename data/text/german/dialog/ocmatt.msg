@@ -68,4 +68,4 @@
 {152}{}{Gute Arbeit.}
 {153}{}{Verstehe. Ich werd jetzt gehn.}
 {154}{}{Ich werd dich jetzt erschießen. Du bist ja gemeingefährlich.}
-{155}{}{Gute Arbeit.}
+{155}{}{Gute Arbeit!}

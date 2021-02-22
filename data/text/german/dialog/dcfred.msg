@@ -117,7 +117,7 @@
 {460}{}{Verdammt. Ich glaube, du hast recht, aber... ich bin fast pleite. Soviel Geld kann ich
  nicht aufbringen! Ich muss dich jetzt platt machen.}
 {461}{}{Entschuldigung.}
-{462}{}{Pech!}
+{462}{}{Pech gehabt.}
 {470}{}{Oh, verdammt... Ich kann kaum $100 aufbringen. Kannst du mir die Hälfte vorstrecken?
  Ich verspreche, ich zahl's zurück.}
 {471}{}{Nein, tut mir leid.}
@@ -144,7 +144,7 @@
 {520}{}{Weißt du, was! Diese Hundert könnten mir äh... einige Sachen vermasseln. Glaubst du, ich
  könnte ein bisschen davon zurückleihen?}
 {521}{}{Wieviel?}
-{522}{}{Niemals!}
+{522}{}{Niemals.}
 {530}{}{Warte! Ich weiß was. Ich geb dir $100 und du legst die anderen $100 aus, die ich Becky
  schulde. Ich zahl es dir wirklich schnell zurück.}
 {531}{}{OK, gut.}

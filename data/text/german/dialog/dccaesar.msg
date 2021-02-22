@@ -57,7 +57,7 @@
  ständig wachsenden Anforderungen der größeren Städte gerecht werden kann.
  Möchtest du dabei sein?}
 {206}{}{Sicher. Hört sich super an.}
-{207}{}{Niemals!}
+{207}{}{Niemals.}
 {208}{}{Ich komme deswegen auf Dich zurück. Welche Städte kaufen Deine Sklaven?}
 {209}{}{Tut mir leid, das sind private Informationen der Gilde.}
 {210}{}{OK. Trag mich ein!}

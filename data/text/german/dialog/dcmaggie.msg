@@ -87,7 +87,7 @@
 {235}{}{Ich warte.}
 {236}{}{Ich bin hier, Schnuckelchen.}
 {237}{}{Ich muss hier eine Bar führen.}
-{238}{}{Follow me, sugar.}
+{238}{}{Folge mir, Zuckerschneckchen.}
 {240}{}{Wie machst du... Das... Ohhh...}
 {241}{}{Ist ok. Die Größe spielt keine Rolle.}
 {242}{}{Das war, ähmmm, nett --  schätze ich.}

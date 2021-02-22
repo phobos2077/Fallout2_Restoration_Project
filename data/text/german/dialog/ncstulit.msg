@@ -139,7 +139,7 @@
 {463}{}{Ach, ist doch alles Brahmin-Mist. Ich hau ab.}
 {470}{}{Hmmmmm...na gut, ich geb dir 'ne Chance...aber ich kann dir nichts versprechen. Wenn das schlecht fürs Geschäft ist, auch nur ein bisschen, dann fliegste raus. (Stemmt die Hände in die Hüften.) Mein Anteil ist die Hälfte der Gewinne und keine Streitereien.}
 {471}{}{Hmmmmm...na gut, ich geb dir 'ne Chance...aber ich kann dir nichts versprechen. Ich tu dir damit nämlich 'nen Gefallen, dass ich jemand völlig Unbekanntes manage. Mein Anteil ist die Hälfte der Gewinne und keine Streitereien.}
-{472}{}{OK.}
+{472}{}{Fertig.}
 {473}{}{Fahr deinen Anteil auf 25% runter, dann sind wir im Geschäft.}
 {474}{}{Ach, ist doch alles Brahmin-Mist. Ich hau ab.}
 {480}{}{(Stuart legt die Stirn in noch tiefere Falten. Er sieht aus, als wolle er widersprechen, schüttelt dann aber mit einem fiesen Grinsen den Kopf.) Ist ja schon gut! Und da du mir jetzt noch meinen Lebensunterhalt zusammenstreichst, können wir ja mal übers Management reden.}

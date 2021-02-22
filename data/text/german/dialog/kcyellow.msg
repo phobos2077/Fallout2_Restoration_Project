@@ -20,7 +20,7 @@
 {143}{}{Du hast Hunger, was, mein Junge? Ich wette, du möchtest was von Duntons delikatem Dörrfleisch. Mal schaun, ob ich was für dich hab. }
 {200}{}{Wuff! (Japs, japs, japs - sabber!)}
 {201}{}{Wuff-wuff}
-{202}{}{Arf}
+{202}{}{Arf!}
 {203}{}{Arf, arf, arf}
 {204}{}{(Schaut dich treuherzig an)}
 {205}{}{Wuff!}

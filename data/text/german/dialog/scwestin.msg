@@ -36,7 +36,7 @@
 {129}{}{(brauche Info von Chris)}
 {130}{}{(soll heißen, Avellone)}
 {131}{}{Wie du willst.}
-{132}{}{Topp!}
+{132}{}{Deal.}
 {133}{}{Pech für dich, Alter.}
 {134}{}{Ich freue mich drauf, von dir zu hören. Geh jetzt wieder raus, wie du gekommen bist.}
 {135}{}{Ausgezeichnet. Ich wusste doch, dass du der Richtige bist. Ich hab dir das Geld

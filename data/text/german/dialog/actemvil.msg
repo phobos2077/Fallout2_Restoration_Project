@@ -86,7 +86,7 @@
 {400}{}{Denkst du jemals darüber nach von deiner Position als finale Tempelherausforderung zurückzutreten? Ich meine, es ist ziemlich gefährlich.}
 {401}{}{Das Leben ist eine andauernde Folge von Risiken, Auserwähltes Wesen. Mit jedem Morgengrauen, nimmt jeder von uns ein Risiko auf sich. Einfach dadurch, dass man aus seinem Zelt kommt um den unbekannten Tag zu begrüßen. Warum fragst du?}
 {402}{}{Einfach nur so. Wir sprechen uns später, Dumar.}
-{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
+{403}{}{Nun, ich habe nur darüber nachgedacht was aus deinem Vorgänger geworden ist. Du weißt schon, während des Kampfes mit… äh, "Er-Dessen-Name-Nicht-Genannt-Werden-Darf".}
 {410}{}{Ah, das war tatsächlich ein dunkler Tag, da unser Stamm an ihm zwei gute Männer verloren hat: einen im Leben, den anderen im Geiste. Aber die verdorbene Handlung dieses Tages ist nicht meine Angelegenheit. Meine Zeit wird kommen, wenn die Götter es für richtig halten.}
 {411}{}{Und möge dieser Tag noch lange auf sich warten lassen. Guten Tag, Dumar.}
 {412}{}{Werden sie überhaupt andere Leute den Tempel erproben lassen? Wurde es nicht schon bestimmt, dass ich das Auserwählte Wesen bin?}

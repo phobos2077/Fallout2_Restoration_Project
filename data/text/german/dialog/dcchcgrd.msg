@@ -21,7 +21,7 @@
 {169}{}{Wir müssen rein.}
 {170}{}{Der Boss hat uns geschickt.}
 {171}{}{Eine Gruppe auf den Weg hierher? Davon hätte ich gehört. Verschwindet!}
-{172}{}{Den Kopf hast du die längste Zeit gehabt!}
+{172}{}{Ich mach dich einen Kopf kürzer!}
 {173}{}{Ok, Ok; wir gehen.}
 {174}{}{Was willst du?}
 {175}{}{Wir müssen rein.}

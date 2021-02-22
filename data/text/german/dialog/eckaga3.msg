@@ -12,7 +12,7 @@
 {111}{}{Kaga wird wiederkommen.}
 {120}{}{Also treffen wir uns wieder, Kaga.}
 {150}{}{[Ein großer, kräftig gebauter Krieger steht vor dir, seine Augen glänzen hasserfüllt als er dich ansieht.] So, sie vertreiben Kaga und jetzt sollst du das "Auserwählte Wesen" sein? Ha! Du glaubst du bist was besonderes weil du das Enkelkind des Vaultbewohners bist. Du glaubst du bist besser als ich, Kaga der Große?!}
-{151}{}{Well, I AM the Chosen One, aren't I?}
+{151}{}{Nun, Ich BIN das "Auserwählte Wesen", oder?}
 {152}{}{Hey wart mal ne Sekunde. Ich hab nie gesagt dass ich etwas besseres als du bin.}
 {160}{}{Dieser Titel bedeutet nichts, wenn Kaga dir den Kopf von den Schultern reißt!}
 {161}{}{Deine Worte sind umsonst. Mit deinem Tod wird meine Ehre wiederhergestellt. Kaga bekommt jetzt seine Rache!}

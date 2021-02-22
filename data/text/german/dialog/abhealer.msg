@@ -4,7 +4,7 @@
 {300}{}{Wie kann ich dir helfen?}
 {301}{}{Ich bin verletzt, kannst du mir helfen?}
 {302}{}{[Sabber.]}
-{303}{}{So, what do you do here at the Abbey?}
+{303}{}{So, was machst du hier in Abbey?}
 {304}{}{Tschüss.}
 {400}{}{Es ist vollbracht!}
 {401}{}{Danke.}
@@ -14,7 +14,7 @@
 {405}{}{Hör auf! Hör auf! Hör auf!}
 {406}{}{[Mach weiter]}
 {407}{}{[Hör auf]}
-{408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
+{408}{}{(Plötzlich beginnt Jack zu schmelzen.) ICH SCHMELZE, ICH SCHMELZE, OH WAS FÜR EINE WELT...}
 {409}{}{Was zur Hö...}
 {500}{}{Hey, klau keine Medikamente!}
 {501}{}{Du erhältst 200 Erfahrungspunkte, weil du Jack geschmolzen hast. Bist du jetzt glücklich, du Bastard?}
@@ -38,7 +38,7 @@
  Güter. Hört sich so an, als würdest du sie brauchen. Hier. [Er reicht sie dir.] Viel Glück, Reisender.}
 {707}{}{Danke, Jack. Du bist ein wahrer Retter des Ödlands. Machs gut.}
 {708}{}{Dann solltest du vielleicht lernen, vorsichtiger zu sein. Tut mir leid, ich werde die medizinischen Güter von Abbey nicht einfach so verschenken.}
-{709}{}{Fine. GOODBYE.}
+{709}{}{Schön, WIEDERSEHEN.}
 {800}{}{Ich kann gerade nicht mit dir sprechen.}
 {801}{}{Es tut mir leid, ich kann jetzt nicht unterbrechen. Besuch mich später nochmal.}
 {802}{}{Hallo.}

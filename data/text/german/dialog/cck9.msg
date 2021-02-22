@@ -47,7 +47,7 @@
 {134}{}{Dort versuch ich's. Wenn ich es nicht finde, suche ich weiter.}
 {135}{}{Dann lass mich in Ruhe.}
 {136}{}{OK.}
-{137}{}{OK, ich mach's.}
+{137}{}{Jetzt hast du es.}
 {138}{}{Hallo. Die Lebensfunktionen meines Meisters wurden eingestellt. Bist du mein neuer
  Meister?}
 {139}{}{OK.}
