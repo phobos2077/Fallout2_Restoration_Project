@@ -15,11 +15,11 @@
 {410}{}{Bitte treffen Sie Ihre Wahl. Da ich ein früher Prototyp bin, kann ich Ihnen nur beschränkte Wahlmöglichkeiten anbieten. Bedaure.}
 {411}{}{Ändere das Geschlecht.}
 {412}{}{Ändere die Rasse (Gegenwärtig nur von hellhäutig auf afroamerikanisch oder umgekehrt).}
-{413}{}{Alter Hairstyle (Regular Hair).}
-{414}{}{Alter Hairstyle (Long Hair).}
-{415}{}{Alter Hairstyle (Bald).}
-{416}{}{Alter Hairstyle (Blond Hair).}
-{417}{}{Alter Hairstyle (Red Hair).}
+{413}{}{Frisur ändern (normales Haar).}
+{414}{}{Frisur ändern (langes Haar).}
+{415}{}{Frisur ändern (kahl).}
+{416}{}{Frisur ändern (blondes Haar).}
+{417}{}{Frisur ändern (rotes Haar).}
 {418}{}{Wenn ich so darüber nachdenke, Ich habe im Augenblick wirklich keine Zeit dafür. Auf Wiedersehen.}
 {500}{}{Bei diesem Verfahren dauert die Erholungsphase vier Wochen, und die Überlebenschance beträgt 50%. Möchten Sie jetzt beginnen?}
 {501}{}{Na, dann los.}
@@ -41,6 +41,6 @@
 {525}{}{Mein Gott, nein! Ich bin weg!}
 {600}{}{Herzliche Glückwünsche! Der Versuch war ein Erfolg. Ich danke Ihnen, und genießen sie ihr neues Ich.}
 {601}{}{[Ende]}
-{650}{}{I'm sorry, this particular procedure is not currently available for females.}
+{650}{}{Es tut mir leid, dieses spezielle Verfahren ist derzeit für Frauen nicht verfügbar.}
 {700}{}{Es tut mir leid, aber etwas ging bei dem Verfahren schrecklich daneben. Wir entschuldigen uns für diese Unannehmlichkeit, aber danken Ihnen für ihr freiwilliges Engagement zum Wohle der Wissenschaft.}
 {701}{}{Oh, Mist...}

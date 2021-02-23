@@ -79,7 +79,7 @@
 {178}{}{Du hast sie schon den Hubologen gegeben, stimmt's?}
 {179}{}{Ja...ähm...ich hätte da noch 'ne Frage...}
 {180}{}{Ja...Wiedersehn.}
-{200}{}{What else can you tell me about the tanker?}
+{200}{}{Was kannst du mir sonst noch über den Tanker erzählen?}
 {210}{}{Selbst wenn du das NavCom zum funktionieren bringst, und den Tanker volltanken könntest, würdest du immer noch beträchtliches Glück brauchen, wenn du mit dem Schiff wirklich wieder in See stechen willst.}
 {211}{}{Was meinst du mit "beträchtliches Glück"?}
 {220}{}{Ich meine, dass das Stück Schrott älter ist, als die meisten Ghuls. Es wäre ein Wunder, wenn es nicht mit dir sinken würde. Das ist alles, was ich damit sagen wollte.}

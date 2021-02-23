@@ -106,9 +106,9 @@
 {524}{}{Es ist %s}
 {525}{}{%s hat %d/%d Trefferpunkte.}
 {526}{}{Es hat %d/%d Schuss %s.}
-{530}{}{ und hat schwer verletzte Gliedmaßen.}
+{530}{}{und hat schwer verletzte Gliedmaßen.}
 {531}{}{, hat aber schwer verletzte Gliedmaßen.}
-{532}{}{ und hast schwer verletzte Gliedmaßen.}
+{532}{}{und hast schwer verletzte Gliedmaßen.}
 {533}{}{, hast aber schwer verletzte Gliedmaßen.}
 {535}{}{Er hat %d/%d Trefferpunkte}
 {536}{}{Sie hat %d/%d Trefferpunkte}

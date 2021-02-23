@@ -98,9 +98,7 @@
 {381}{}{Was dann?}
 {390}{}{Ich bin rausgekrochen. Als es mir dann so langsam wieder besser ging, hab ich festgestellt, dass ich mich verändert hatte. Ich hab versucht, mit Leuten zu reden, aber die wollten mich alle nur umbringen. Die Menschen sind einfach zu grausam. Wenn sie herrschen, können sie nicht mal selber überleben - aber das gehört nicht hierher. Zuerst muss der Reaktor repariert werden.}
 {391}{}{Reparieren? Einen Reaktor?}
-{400}{}{You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
- then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
- themselves in the long run, as well.}
+{400}{}{Du musst einen Hydroelektrischen Magnetosphären- Regulator aus Vault City besorgen, damit wir den Reaktor in Gecko reparieren können. Schaffst du es nicht, wird Vault City Gecko sicher angreifen. Letztendlich werden sie sich aber nur selbst schaden, wenn sie den Reaktor zerstören.}
 {401}{}{Sich selbst schaden? Was meinst du?}
 {402}{}{Warum sollte Vault City mir ein Teil für das Atomkraftwerk in Gecko geben?}
 {410}{}{Du musst ihnen klarmachen, dass es in ihrem eigenen Interesse ist. Wenn's um den eigenen Vorteil geht, kann man die Menschen leicht manipulieren.}

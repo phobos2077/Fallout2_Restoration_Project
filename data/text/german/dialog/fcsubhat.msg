@@ -9,5 +9,5 @@
 {220}{}{Du fummelst eine Weile an dem Schloss herum und öffnest es. Schlösser knacken ist eindeutig mehr als nur ein Hobby für Dich.}
 {221}{}{Du fummelst eine Weile an dem Schloss herum, gibst aber letztendlich auf. Es muss eine anderen Weg geben, dieses Schloss zu öffnen.}
 {230}{}{Die Explosion reißt die Lucke mitsamt dem Schloss auf, davon abgesehen betäubt sie dich.}
-{240}{}{You fiddle with the lock for a while and relock it. Lockpicking's definitely more than just a hobby for you.}
-{241}{}{You fiddle with the lock, but ultimately give up. There's got to be another way to relock this.}
+{240}{}{Du fummelst eine Weile an dem Schloss herum und verschließt es. Schlösser knacken ist eindeutig mehr als nur ein Hobby für Dich.}
+{241}{}{Du fummelst eine Weile an dem Schloss herum, gibst aber letztendlich auf. Es muss eine anderen Weg geben, um es abzuschließen.}

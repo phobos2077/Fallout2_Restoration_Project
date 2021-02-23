@@ -7,11 +7,11 @@
 {6}{}{GL}
 {7}{}{Trefferpk.}
 {8}{}{Rüstung}
-{9}{}{ Normal}
-{10}{}{ Laser}
-{11}{}{ Feuer}
-{12}{}{ Plasma}
-{13}{}{ Explosion}
+{9}{}{  Normal}
+{10}{}{  Laser}
+{11}{}{  Feuer}
+{12}{}{  Plasma}
+{13}{}{  Explosion}
 {14}{}{Kein Objekt}
 {15}{}{Sch:}
 {16}{}{Rei:}

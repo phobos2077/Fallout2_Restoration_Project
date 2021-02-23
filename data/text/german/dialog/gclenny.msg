@@ -215,40 +215,40 @@
 {4001}{}{Sicher, wenn du das wirklich für eine so gute Idee hältst.}
 {4002}{}{Na ja, ich wende nicht gerne Waffen an, außer, wen es wirklich sein muss, aber ich glaube, ich könnte mit einem Messer umgehen, denke ich. Ich kann mit einer Pistole umgehen, jedenfalls konnte ich das früher. Wenn es wirklich sein müsste, könnte ich schon mit einer MP umgehen, glaube ich. Wenn die nur nicht so viel Krach machen würden. Ich bin ein Heiler, kein Kämpfer.}
 {4003}{}{Mann, ich hoffe, ich brauch das nie.}
-{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
+{4004}{}{Na ja, ich wende nicht gerne Waffen an, außer, wen es wirklich sein muss, aber ich glaube, ich könnte mit einem Messer umgehen, denke ich. Ich kann mit einem Speer umgehen, jedenfalls konnte ich das früher mal. Wenn es wirklich sein müsste, könnte ich auch mit einem Gewehr umgehen, glaube ich. Wenn die nur nicht so viel Krach machen würden. Ich bin ein Heiler, kein Kämpfer.}
 {5000}{}{Ich g-glaub ich hab m-mir da was geb-brochen.}
 {5001}{}{Ich g-glaub ich bin v-verstrahlt.}
 {5002}{}{Ich g-glaub ich w-wurde verg-giftet.}
-{5100}{}{I'm f'feeling a b'bit warm now.}
-{5101}{}{That's b'better.}
+{5100}{}{Ich f'fühl mich jetzt ein b'bisschen warm.}
+{5101}{}{Das ist besser.}
 {6000}{}{I need a professional opinion, Lenny. What do you know about managing a heart condition?}
-{6001}{}{Can you tell me anything about these pills I found, Doc?}
+{6001}{}{Können Sie mir etwas über diese Pillen erzählen, die ich gefunden habe, Doc?}
 {6010}{}{What seems to be the t'trouble? Your t'ticker ain't g'givin' out on you now, is it?}
-{6011}{}{No, I was actually wondering if there was anything we could do for Cassidy.}
+{6011}{}{Nein, ich habe mich eigentlich gefragt, ob wir etwas für Cassidy tun können.}
 {6012}{}{No. I'm going to murder an infirmed old man and I was trying to come up with something more creative than sneaking up and popping a paper bag.}
 {6013}{}{Just chalk it up to academic curiosity, I guess.}
-{6020}{}{Heh. No need to get t'tetchy, now.}
+{6020}{}{Heh. Kein Grund, b'bissig zu werden.}
 {6021}{}{Well, mostly, it's just c'common sense stuff. Eatin' right, steerin' c'clear of the harder c'chems, that sorta thing. K'keepin' stress to a m'minimum. B'basically, livin' m'more like an old l'lady, and less like... well, us. Heh. O'course, the b'best thing you could d'do would probably be to t'tamp it down with some c'cardiac regulators, m'maybe some v'vasodilators.}
-{6022}{}{Cardiac what now?}
-{6023}{}{Hmm. Heart pills.}
+{6022}{}{Herz was jetzt?}
+{6023}{}{Hmm. Herztabletten.}
 {6030}{}{Let's see, now... (Lenny mutters to himself as he reads over the label.)}
 {6040}{}{Heart pills. I guess what they're p'puttin' out in Vault City and NCR these d'days ain't much different than w'what we were usin' b'back before the w'war. Strong m'medicine. G'get a fella on that stuff, he'd have the h'heart of a m'mutant m'marathon runner. Heck, if he minded his d'doc and took 'em r'regular-like, he could probably live on hot b'buttered chems and n'not have to worry about it skippin' a s'single b'beat. Uh, n'not that I'd recommend that sort o' thing, of course. D'doctors orders are always supposed to be c'clean livin' and p'plenty of r'roughage, right?}
-{6041}{}{Uh, right. Thanks, Lenny. Let me ask you about something else.}
+{6041}{}{Uh, rcihtig. Danke, Lenny. Ich möchte dich noch etwas anderes fragen.}
 {6042}{}{Are they dangerous at all? Any side-effects to look out for?}
-{6043}{}{Do you think these could help Cassidy?}
+{6043}{}{Galuben Sie, dass diese Cassidy helfen können?}
 {6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
 {6051}{}{Wie zum Beispiel?}
-{6052}{}{I knew there'd be a catch.}
+{6052}{}{Ich wusste, dass es einen Haken gibt.}
 {6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
 {6061}{}{Lenny?}
 {6070}{}{S'sorry. Oh! One more b'big one. Unless you're l'lookin' to meet a l'less-than-d'dignified end, you *do not* want to g'go mixin' those things with N'new Reno p'pep pills.}
 {6071}{}{Pep... pills?}
-{6072}{}{Bad reaction, then?}
+{6072}{}{Schlechte Reaktion also?}
 {6080}{}{Ayup. Y'know, for when your l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
 {6081}{}{Ayup. Y'know, for when a man's l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
 {6082}{}{Oh, yeah. You g'get those two into your s'system together, and KER-BLAM! Your heart'll explode like a b'blood s'sausage. I remember d'doin' p'post-mortems on m'more than one poor g'geezer who was t'too b'busy sowing his oats to r'read a w'warning label.}
-{6083}{}{Blood Sausage?}
-{6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
-{6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}
-{6091}{}{Well, since you asked...}
-{6092}{}{Nope, that'll do. Thanks, Lenny.}
+{6083}{}{Blutwurst?}
+{6084}{}{Aha. Gut zu wissen. Vielen Dank, Lenny.}
+{6090}{}{Oh. Heh. Muss ein Weilchen vor deiner Z'Zeit g'gewesen sein. Sorry. Kann ich sonst noch was für dich t'tun?}
+{6091}{}{Nun, wenn du schon fragst...}
+{6092}{}{Nein, das wird gehen. Danke, Lenny.}

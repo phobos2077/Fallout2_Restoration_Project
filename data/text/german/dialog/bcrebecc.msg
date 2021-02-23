@@ -68,7 +68,7 @@
 {159}{}{Ich wusste, dass hier noch was anderes sein muss als diese verkommenen Einwohner.}
 {160}{}{Kapiert.}
 {161}{}{Das erklärt einiges. Du hast mir sehr geholfen. Ich hab noch ein paar Fragen.}
-{162}{}{Das würde Zeke sein. Er schmeißt den Laden hier. Du findest ihn im Gebäude da drüben. [Zeigt nach Nordosten]}
+{162}{}{Das würde Zeke sein. Er schmeißt den Laden hier. Du findest ihn im Gebäude da drüben. ::Zeigt nach Nordosten::}
 {163}{}{Danke. Mehr Fragen.}
 {164}{}{Danke. Ich möchte dir gerne noch ein paar Fragen stellen.}
 {165}{}{Tut mir leid, ich hab keine Ahnung. Frag am besten in der NCR. Die haben seit neuestem ein großes Interesse an Vaults.}

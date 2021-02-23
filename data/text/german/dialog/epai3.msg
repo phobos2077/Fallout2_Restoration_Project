@@ -15,11 +15,10 @@
  Soldaten eine virale Immunität zu verleihen, indem ihre DNA modifiziert wird. Während der PVP-Versuche im Jahre 2076, wurden ungewöhnliche Nebenwirkungen
  beobachtet. Die Versuchstiere wuchsen drastisch an und ihre Hirnfunktionen steigerten sich.}
 {111}{}{[Mehr]}
-{112}{}{Seeing the potential there, the Army quickly commandeered the project and renamed it FEV: Forced Evolutionary Virus.
- Not content with mere immunity to disease, FEV would potentially turn soldiers into abnormally strong and intelligent
- "supermen". Once testing on animals reached its logical conclusion, FEV research was moved to its current location at
- the Mariposa Military Base. There, we have learned that the testing will proceed to the next level, as they begin top
- secret testing on military prisoners. We eagerly anticipate the results of these exciting experiments.}
+{112}{}{Angesichts dieses Potenzials, übernahm die Armee sofort das Projekt und gab ihm den Namen FEV: Forcierendes- Evolutions-Virus.
+ Nun nicht mehr nur auf Immunität gegen Viren und Krankheiten abzielend, sollte das FEV Soldaten potentiell in unnatürlich starke und intelligente 'Übermenschen' verwandeln.
+ Nachdem die Tierversuche zu ihrem erwarteten Abschluss kamen, wurde die FEV-Forschung an ihren heutigen Standort, der Mariposa Militärbasis verlegt.
+ Dort, so haben wir erfahren, setzt man die Versuche auf der nächste Stufe fort, indem sie streng geheime Versuche an militärischen Häftlingen durchführen. Wir warten unge- duldig auf die Ergebnisse dieser spannenden Experimente.}
 {113}{}{Zurück.}
 {120}{}{Einer unserer Forscher, Dr. Hodking, machte eine wundervolle Entdeckung in seinen jüngsten Forschungen bezüglich menschlicher
  Gehirnvorgänge zu verbalen Reaktionen. Durch das Wiederholen einer Serie von Buchstaben im dazugehörigem Tonfall, kann ein Zuhörer 

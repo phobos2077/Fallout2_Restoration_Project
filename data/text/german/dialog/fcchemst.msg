@@ -33,7 +33,7 @@
 {130}{}{Im Gegenteil, es ist sehr interessant. Ich brauche nämlich etwas Benzin für den Poseidon-Öltanker.}
 {131}{}{Das wäre sicher von großem Interesse für die Hubologen. Sie brauchen Benzin.}
 {132}{}{Im Augenblick noch nicht. Aber ich komme später noch mal.}
-{133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
+{133}{}{So, sie brauchen also Benzin? So nervig sie auch sind, sie sind doch manchmal nützlich. Ich habe gehört, sie haben ein Verfahren entwickelt, eine Powerrüstung noch unbesiegbarer zu machen. Wenn sie mir eine solche Rüstung aufrüsten, werde ich Benzin durch die Pipeline zu ihnen leiten. Ich nehme an, es ist für ihr Spielzeugraumschiff. Der Typ, mit dem du sprechen musst, heißt Crockett.}
 {134}{}{Werd ich tun.}
 {135}{}{Ich kann nichts versprechen.}
 {136}{}{Ich habe eine bei mir.}

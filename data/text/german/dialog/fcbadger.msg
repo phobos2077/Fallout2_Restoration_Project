@@ -10,11 +10,11 @@
 {109}{}{Ich möchte, dass du dich für mich in einen Computer hackst.}
 {110}{}{Wie läuft's mit dem Hacken?}
 {111}{}{Gar nichts. Gut gerülpst.}
-{112}{}{[Er stößt noch einen Rülpser aus]}
-{113}{}{[Rülps lauter]}
+{112}{}{::Er stößt noch einen Rülpser aus::}
+{113}{}{::Rülps lauter::}
 {114}{}{Ekelhaft!}
-{115}{}{[Er stößt einen unglaublichen Rülpser aus, der die Erde in ihren Grundfesten erschüttert]}
-{116}{}{[Applaudiere]}
+{115}{}{::Er stößt einen unglaublichen Rülpser aus, der die Erde in ihren Grundfesten erschüttert::}
+{116}{}{::Applaudieren::}
 {117}{}{Ich bin Dachs. Ich hatte mal 'ne Band. ::Seufz:: Wir nannten uns 'Die glühenden Kohlen'. Jetzt bin ich der Computertechniker in San Fran.}
 {118}{}{Oh! Tanke!}
 {119}{}{Was für Sachen machst du denn am Computer?}

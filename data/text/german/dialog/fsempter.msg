@@ -35,7 +35,7 @@
 {134}{}{Die Wahrscheinlichkeit eines Fehlstarts der Hubologenrakete liegt bei 95%. Gründe: Kein Treibstoff, ungeeignetes Dichtungsmaterial, schlechte Führung, Mangel an Initiative.}
 {135}{}{Die Wahrscheinlichkeit, dass der sogenannte "Auserwählte" seine Aufgabe erfüllt, liegt bei 15%.}
 {136}{}{Eingabewert zeigt, dass "Enklave" stärker als vermutet. Nicht annähern.}
-{137}{}{Chances of submarine reappearing in this game: 100%}
+{137}{}{Wahrscheinlichkeit, dass das U-Boot in diesem Spiel wieder auftaucht gleich: 100%}
 {138}{}{Wahrscheinlichkeit, dass die Tankervagabunden die Monsterplage ohne Hilfe von außen bewältigen gleich 0%. Nutzen einer Hilfeleistung wird untersucht.}
 {139}{}{Eingabe: Poseidon-Öltanker nicht bereit zum Auslaufen. Weitere Eingaben nötig.}
 {140}{}{Keine Bearbeitung. Weitere Eingaben nötig}
@@ -271,9 +271,9 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivdat
  aber das ist irrelevant. Wir treiben momentan im Ozean. Der Kaiser ist außer Betrieb, die Navigation zerstört und dieses Boot wird wohl unser Grab werden.}
 {491}{}{Weiterlesen.}
 {492}{}{[Zurück]}
-{500}{}{2077-11-04: We've been adrift for several days now. Jing managed to restore some of the power to our onboard
- systems, so we should have enough oxygen to last several weeks. I am more concerned about food and water - our supplies
- are low and there's not enough of them to go around. The crew is getting restless.}
+{500}{}{04.11.2077: Wir treiben jetzt seit einigen Tagen. Jing gelang es, die Stromversorgung von einigen Bordsystemen wieder- herzustellen,
+ damit sollten wir genug Sauerstoff für die nächsten Wochen haben. Nahrung und Wasser machen mir mehr Sorgen - unsere Vorräte sind begrenzt,
+ und es ist nicht genug um damit lange durchzuhalten. Die Mannschaft wird unruhig.}
 {501}{}{Weiterlesen.}
 {502}{}{[Zurück]}
 {510}{}{8.11.2077: Der Kaiser ist wieder in Betrieb, doch nur notdürftig. Wir haben noch keine Navigation und die Mannschaft ist am

@@ -16,7 +16,7 @@
 {15}{}{Aktionspunkte}
 {16}{}{Trefferpk.}
 {17}{}{ Der Bewegungssensor ist nicht installiert.}
-{18}{}{ Der Bewegungssensor hat keine Ladung mehr.}
+{18}{}{Der Bewegungssensor hat keine Ladung mehr übrig.}
 {20}{}{Copyright(c) 1998 Interplay Productions. Alle Rechte vorbehalten.}
 {30}{}{Möchtest du weiterspielen?}
 {50}{}{Ausführung von Fallout benötigt die CD!}
