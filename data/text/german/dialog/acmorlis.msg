@@ -1,16 +1,16 @@
 {100}{}{Du siehst Morlis, eine deiner Tanten - sie mochte dich noch nie.}
 {101}{}{Warum störst du mich, Neffe? Siehst du nicht, dass ich beschäftigt bin?}
 {102}{}{Ähm, OK. Tut mir leid.}
-{103}{}{Was ist los? Du weißt, dass ich viel zu tun habe.}
+{103}{}{Was ist los? Du weißt, dass ich viel zu tun habe!}
 {104}{}{Ähm, Mynoc sagte...}
 {105}{}{Mynoc sagte was? Raus mit der Sprache!}
 {106}{}{Er sagte, du hättest vielleicht etwas Feuerstein.}
 {107}{}{Ich habe Feuerstein. Ach, und du willst welchen?}
 {108}{}{Äh, ja.}
 {109}{}{Hmm... ich will drei Portionen Heilpulver. Es kommen schlechte Zeiten und ich werd drauf vorbereitet sein. Bring mir das Heilpulver und du bekommst den Feuerstein. Na los, mach schon!}
-{110}{}{Ja, Tante!}
+{110}{}{Ja, gnädige Frau!}
 {111}{}{Verschwende nicht meine Zeit. Hast du das Pulver?}
-{112}{}{Ja, hier ist es.}
+{112}{}{Ja, hier sind sie.}
 {113}{}{Ähm, leider nicht.}
 {114}{}{Hier hast du den Feuerstein. Und jetzt verschwinde! Ich hab keine Zeit zum Schwatzen.}
 {115}{}{Danke, Tante Morlis.}

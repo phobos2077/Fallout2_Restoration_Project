@@ -11,7 +11,7 @@
 {158}{}{Was willst du wissen?}
 {159}{}{Was kannst du mir über die Männer erzählen, die mit unserem Dorf handeln?}
 {160}{}{Was kannst du mir über dieses Ding sagen? Ich hab's aus einer Vault?}
-{161}{}{Nichts, gar nichts.}
+{161}{}{Nichts, schon gut.}
 {162}{}{Na gut, aber verschwende nicht zu viel Zeit. Ohne das GECK sind wir verloren.}
 {163}{}{Ich weiß, mach dir keine Sorgen. Ich hab alles unter Kontrolle.}
 {164}{}{Warum?}
@@ -23,9 +23,9 @@
 {170}{}{Weißt du, wer das in unser Dorf gebracht hat?}
 {171}{}{Danke. Ich muss jetzt gehn, Tschüss.}
 {172}{}{Ich hoffe, das tust du.}
-{173}{}{Dein übersteigertes Selbstvertrauen macht uns alle krank! Tschüss.}
+{173}{}{Dein übersteigertes Selbstvertrauen lässt uns alle leiden! Auf Wiedersehen!}
 {174}{}{Wiedersehn.}
-{175}{}{Warum? Sieh dich doch um, unser Dorf stirbt. Unsere Gärten verdorren und jeden Tag brechen Kinder und alte Menschen zusammen. Du musst uns Eden bringen, bevor es zu spät ist.}
+{175}{}{Warum? Sieh dich doch um, unser Dorf stirbt. Unsere Gärten verdorren und jeden Tag brechen Kinder und alte Menschen zusammen. Du musst uns Eden bringen, bevor es zu spät ist!}
 {176}{}{Ich werd mich drum kümmern. Wiedersehn.}
 {177}{}{Ich bin das Auserwählte Wesen - ich "muss" nur wenn ich will. Tschüss.}
 {178}{}{Ich kann mich nicht an seinen Namen erinnern. Ich weiß nur, dass er alt und laut war - zu laut für gute Manieren. Aber er wusste viel. Er kam aus Klamath, im Osten, wie ich bereits sagte.}

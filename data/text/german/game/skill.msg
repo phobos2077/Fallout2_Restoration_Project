@@ -55,7 +55,7 @@
 {500}{}{Du heilst %d Trefferpunkte.}
 {501}{}{Du siehst schon gesund aus.}
 {502}{}{%s sieht schon gesund aus.}
-{503}{}{Du kannst keine Heilung durchführen.}
+{503}{}{Du konntest keine Heilung durchführen.}
 {505}{}{Du verdienst %d EP dafür, dass du an deinen Fähigkeiten gefeilt hast.}
 {510}{}{\nskill_use: invalid skill used.}
 {512}{}{Tote können nicht geheilt werden.}

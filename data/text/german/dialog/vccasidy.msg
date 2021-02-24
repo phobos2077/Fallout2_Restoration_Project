@@ -104,7 +104,7 @@ schon ist.}
 {179}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {180}{}{Wir sollten uns ein bisschen verteilen.}
 {181}{}{Los, Cassidy. Zeit, die Fliege zu machen.}
-{182}{}{Nichts, gar nichts.}
+{182}{}{Nichts, schon gut.}
 {261}{Cas0261}{Du möchtest, dass ich Myron eine Kugel in den Kopf jage, ist es das? Wär echt kein
  Problem. Brauchst es bloß zu sagen.}
 {262}{Cas0262}{Was hast du vor?}

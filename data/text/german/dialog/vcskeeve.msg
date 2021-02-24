@@ -174,7 +174,7 @@
 {243}{}{Hmmmm. Wie teuer waren die Papiere noch mal?}
 {244}{}{Und wenn ich's ihm aus den todesstarren Fingern winden muss.}
 {245}{}{Wie wird man denn ein echter Bürger?}
-{246}{}{Nichts, gar nichts.}
+{246}{}{Nichts, schon gut.}
 {247}{}{Nein danke. Vielleicht ein andermal.}
 {248}{}{Wenn du nicht durch Geburt Bürger bist, musst du einen Test ablegen. Wie viele Outsider haben den Test schon bestanden und sind Bürger geworden? Null. Deine Chancen? WENIGER als Null.}
 {249}{}{Woraus besteht denn dieser Test?}

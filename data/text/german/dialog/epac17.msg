@@ -114,7 +114,7 @@
 {483}{}{Ich suche nach Arbeit. Hast du welche?}
 {484}{}{Woher hast du deine ganze Ausrüstung her?}
 {490}{}{Hast du die Häute um die ich dich gebeten habe?}
-{491}{}{Ja, hier ist es.}
+{491}{}{Ja, hier sind sie.}
 {492}{}{Nein noch nicht.}
 {500}{}{Wunderbar! Ausgezeichnet! Mal sehen... Ah ja, das wird es sein! Also dann, willst du einen weiteren Auftrag?}
 {501}{}{Wenn du einen hast, ja.}
