@@ -45,7 +45,7 @@
 {170}{}{Ich brauche Hilfe, Kind. Kannst du mir helfen?}
 {171}{}{Ich brauche immer noch Hilfe, Kind. Kannst du mir helfen?}
 {172}{}{Wer bist du?}
-{173}{}{Was tust du hier?}
+{173}{}{Was machst du hier?}
 {174}{}{Ich habe eine Kopie der Pläne von den Shi.}
 {175}{}{Ich habe die Pläne für die Vertibirds.}
 {176}{}{Die Shi haben die Pläne für die Vertibirds.}

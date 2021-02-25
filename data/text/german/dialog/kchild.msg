@@ -17,7 +17,7 @@
 {164}{}{Iiiiiiiihhhh!}
 {165}{}{Ich hasse dich!}
 {166}{}{Mami, Mami, Mami!}
-{167}{}{Lass mich in Ruh!}
+{167}{}{Lass mich in Ruhe!}
 {168}{}{Du stinkst!}
 {170}{}{Hey da.}
 {171}{}{Magst du mit mir spielen?}

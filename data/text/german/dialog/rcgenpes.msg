@@ -64,7 +64,7 @@
 {163}{}{Diese Frau ruht sich aus.}
 {164}{}{Diese Frau entspannt sich in ihrem Heim.}
 {165}{}{Hallo.}
-{166}{}{Was tust du hier?}
+{166}{}{Was machst du hier?}
 {167}{}{Ich habe dich nicht eingeladen.}
 {168}{}{Hau ab, hier ist keine Almosenstelle für Sippenangehörige.}
 {169}{}{Verzisch dich, du Stück Dreck.}

@@ -9,7 +9,7 @@
 {107}{}{Wie war gleich noch mal der Name, Fremdling? Ich bin Pökel-Bob.}
 {108}{}{[Spielername]}
 {109}{}{Pökel? Was ist das denn für ein komischer Name?}
-{110}{}{Was tust du hier?}
+{110}{}{Was machst du hier?}
 {111}{}{Das iss'n richtig schöner Name, jawohl. Sag mal, haste nicht zufällig Lust, 'ne Runde auszugeben, Fremdling?}
 {112}{}{Ja.}
 {113}{}{Nein.}

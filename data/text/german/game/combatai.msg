@@ -1626,7 +1626,7 @@
 {12498}{}{War nicht mehr so schwer verletzt seit mir diese Dirne eins übergebraten hat...}
 {12499}{}{*Unnfffff*...Ich glaub, meine Hoden ... stecken ...in ... meinem ... Magen...}
 {14000}{}{Schnapp ihn dir, Zomak!}
-{14001}{}{Lass mich in Ruh!}
+{14001}{}{Lass mich in Ruhe!}
 {14002}{}{Hör auf, mich zu nerven.}
 {14003}{}{Ihr Menschen benehmt euch immer gleich.}
 {14004}{}{Ist das die einzige Art, in der du mit Unbekanntem fertig wirst?}

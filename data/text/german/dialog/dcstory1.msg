@@ -3,7 +3,7 @@
 {102}{}{Sie ist wunderschön, aber sie scheint mit ihren Gedanken weit weg zu sein.}
 {103}{}{Hör auf!}
 {104}{}{Warum tust du das?}
-{105}{}{Lass mich in Ruh!}
+{105}{}{Lass mich in Ruhe!}
 {106}{}{Bitte hör auf!}
 {107}{}{Du Mörder!}
 {108}{}{Wie konntest du Becky das antun!}

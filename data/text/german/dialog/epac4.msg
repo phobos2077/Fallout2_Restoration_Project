@@ -35,7 +35,7 @@
 {320}{}{Ausgezeichnet! Wunderbar! Jetzt kann ich diese Narren zermalmen! Die EPA wird wieder gesäubert werden! So, jetzt habe ich etwas für Sie. [Spricht zu den Robotern.] Hebt eure Blechhintern und gebt diesem Bürger eine Belohnung dafür, dass er dieser großen Nation gedient hat! [Ein Roboter nähert sich und hält dir eine Schlüsselkarte hin. Sobald du die Karte genommen hast, verlässt er sofort den Raum. Irgendwie hast du den Eindruck, dass diese Roboter glücklicher gewesen wären, wenn du sie inaktiv gelassen hättest.] Jetzt können Sie ihre Angelegenheiten weiterverfolgen. Sie dürfen wegtreten.}
 {321}{}{Danke.}
 {322}{}{Wegtreten? Was bin ich, ein Nachtwächter? Bis später, Alter.}
-{330}{}{Lass mich in Ruh!}
+{330}{}{Lass mich in Ruhe!}
 {331}{}{Ich will nichts mehr mit Ihnen zu tun haben.}
 {332}{}{GO JERK YOURSELF!!}
 {333}{}{Ich bin gerade beschäftigt.}

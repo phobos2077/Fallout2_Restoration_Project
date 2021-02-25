@@ -222,7 +222,7 @@
 {763}{}{Erzähl mir was über das Große Salzwasser.}
 {764}{}{Beißende Eidechsen?}
 {766}{}{Warum reist du soviel herum?}
-{767}{}{Was tust du hier?}
+{767}{}{Was machst du hier?}
 {768}{}{Ich würde gern mehr über die Gegend hier wissen.}
 {769}{}{Würdest du gerne mitkommen? Im Laufe der Reise finden wir vielleicht auch deine Schwester.}
 {770}{}{Im Moment brauche ich glaub ich keine weiteren Informationen.}
@@ -254,7 +254,7 @@
 {798}{}{Wo kann ich hier handeln und einen Heiler oder ein Zimmer finden?}
 {799}{}{Schon mal was von einem Garden-Eden-Creation-Kit gehört?}
 {800}{}{Was geht in der Stadt so vor sich?}
-{801}{}{Was tust du hier?}
+{801}{}{Was machst du hier?}
 {802}{}{Wo du jetzt frei bist, warum reist du nicht mit mir?}
 {803}{}{Im Moment brauche ich wohl nichts mehr. Wiedersehen.}
 {804}{slk55}{So viele Fragen. Maida sich kümmern um Handel und ihre Mutter Ardin um Zimmer. Kein Schamane in Stadt, aber vielleicht du können um Medizin handeln.}

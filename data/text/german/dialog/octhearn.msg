@@ -5,11 +5,11 @@
 {103}{}{Vergib, aber ich nicht gut sprechen. Ich versuchen, mit dir sprechen.}
 {104}{}{Was du wollen?}
 {105}{}{Wer du?}
-{106}{}{Was du tun?}
+{106}{}{Was du machen?}
 {107}{}{Wie klug du?}
 {108}{}{Ich gehn.}
 {109}{}{Wer bist du?}
-{110}{}{Was tust du hier?}
+{110}{}{Was machst du hier?}
 {111}{}{Nimm's mir nicht übel, aber wie klug bist du?}
 {112}{}{Naja, ich vertreib mir die Zeit.}
 {113}{}{Ich Thearn. Wer du?}

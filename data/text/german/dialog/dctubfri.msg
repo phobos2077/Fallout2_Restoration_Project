@@ -113,5 +113,5 @@
 {461}{}{Bitte nicht!}
 {462}{}{Ich hab's nicht genommen!}
 {463}{}{Ich war's nicht!}
-{464}{}{Lass mich in Ruh!}
+{464}{}{Lass mich in Ruhe!}
 {465}{}{Ich wusste nicht, dass es deins war.}

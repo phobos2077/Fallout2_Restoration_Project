@@ -5,7 +5,7 @@
 {103}{}{Sei gegrüßt, Mensch}
 {104}{}{Was kann ich für dich tun?}
 {105}{}{Wer du sein?}
-{106}{}{Was du tun?}
+{106}{}{Was du machen?}
 {107}{}{Kopfschmerzen. Ich kommen später wieder.}
 {108}{}{Hallo, wer bist du?}
 {109}{}{Was machst du?}

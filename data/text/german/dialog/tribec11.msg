@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen starken Stammeskrieger.}
 {101}{}{Er sieht nicht gerade hell im Kopf aus.}
 {200}{}{Halt! Was willst du?}
-{201}{}{Was tust du hier?}
+{201}{}{Was machst du hier?}
 {202}{}{Ich bewache Höhle für Stamm. Damit nicht böser Mensch vorbeikommen.}
 {203}{}{Oh, kann ich mich etwa umsehen?}
 {204}{}{Nein. Mir nix erlaubt Fremde rein zulassen. Oberster Krieger sagt so.}

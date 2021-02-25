@@ -8,7 +8,7 @@
 {300}{}{Wenn du mehr über unseren Orden wissen möchtest, sprich mit unserem Abt. Seine Räume befinden sich im zweiten Stock.}
 {301}{}{Verstehe. Ein paar weitere Fragen...}
 {400}{}{Natürlich. Was möchtest du wissen?}
-{401}{}{Wie ist dein Name?}
+{401}{}{Wie heißt du?}
 {402}{}{Eigentlich unwichtig, Tschüss.}
 {403}{}{Was kannst Sie mir über Abbey erzählen?}
 {500}{}{Ich bin Elaine.}

@@ -27,7 +27,7 @@
 {120}{}{Das ist ein Deal. Ich würd gern alles hören, was du zu erzählen hast.}
 {121}{}{Außerdem könnte ich nie einen Freund von Gruthar abweisen.}
 {122}{}{Was möchtest du denn wissen?}
-{123}{}{Was tust du hier?}
+{123}{}{Was machst du hier?}
 {124}{}{Bist du ein Gefangener?}
 {125}{}{Wie lange bist du schon hier?}
 {126}{}{Was kannst du mir über die Deathclaws sagen, die hier leben?}

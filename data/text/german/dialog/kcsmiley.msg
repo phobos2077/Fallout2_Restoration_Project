@@ -5,7 +5,7 @@
 {104}{}{Du siehst Smiley, den Fallensteller. Er sieht so aus, als ob sich sein Gesundheitszustand erheblich verbessert hast, seit du ihn aus der Höhle befreit hast.}
 {110}{}{Hallo, Fremder. Die Leute nennen mich Smiley. Ich bin wirklich froh, dich zu sehn. Ich war mir sicher, dass ich hier sterben würde. Ich bin zu schwer verletzt, um allein an diesen verdammten Echsen vorbeizukommen.}
 {111}{}{Smiley, heh heh heh. Uck.}
-{112}{}{Was tust du hier?}
+{112}{}{Was machst du hier?}
 {113}{}{Schön, dich kennenzulernen, Smiley. Ich glaub, ich werd jetzt gehn.}
 {120}{}{Super. Noch ein Torr. Ich (zeigt auf sich) brauch dich (zeigt auf dich), um hier raus zu kommen (läuft mit den Fingern auf der Hand).}
 {121}{}{Gehn? Jetzt? Uck }

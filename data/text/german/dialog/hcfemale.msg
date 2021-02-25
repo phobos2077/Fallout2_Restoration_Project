@@ -80,7 +80,7 @@
 {215}{}{Aaaaaaaaaaaaah!}
 {216}{}{Verräter!}
 {217}{}{Abschaum!}
-{218}{}{Lass mich in Ruh!}
+{218}{}{Lass mich in Ruhe!}
 {219}{}{Nein! Nein! Nein!}
 {220}{}{Fass mich nicht an!}
 {221}{}{Tu mir nicht weh!}

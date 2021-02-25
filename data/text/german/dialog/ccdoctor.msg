@@ -8,7 +8,7 @@
  auszukommen.}
 {107}{}{Was willst du wissen?}
 {108}{}{Wer du?}
-{109}{}{Was du tun?}
+{109}{}{Was du machen?}
 {110}{}{Was sein das hier?}
 {111}{}{Warum Zimmer kein Ton?}
 {112}{}{Warum Todkralle in anderem Zimmer?}

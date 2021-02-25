@@ -9,7 +9,7 @@
 {156}{}{Es fällt dir nichts Ungewöhnliches an ihm auf.}
 {157}{}{Es fällt dir nichts Ungewöhnliches an ihr auf.}
 {200}{}{Lass mich in Ruhe!}
-{201}{}{Lass mich in Ruh!}
+{201}{}{Lass mich in Ruhe!}
 {202}{}{Fass mich nicht an!}
 {203}{}{Hör auf!}
 {204}{}{Was machst du?}
