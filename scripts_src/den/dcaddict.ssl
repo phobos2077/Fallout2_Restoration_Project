@@ -277,7 +277,7 @@ procedure Node001 begin
 end
 procedure Node002 begin
    if (heavy_high) then begin
-      floater_rand(201 - ( (check_general_rep < 0) and (not(dude_perk(PERK_cult_of_personality))) ), 212 + ( (check_general_rep > 0) or (dude_perk(PERK_cult_of_personality)) ) ); //edit by killap - added (dude_perk(PERK_cult_of_personality))
+      floater_rand(201 - self_rep_negative, 212 + self_rep_positive );
    end else if (light_high) then begin
       floater_rand(215 - dude_is_male, 221);
    end else if (light_withdrawal) then begin

@@ -46,7 +46,7 @@
 
 #define rep_check_pass ( \
    (TOWN_REPUTATION > 5) or \
-   (TOWN_REPUTATION < -5 and dude_perk(PERK_cult_of_personality)) \
+   (TOWN_REPUTATION < -5 and dude_has_cult) \
 )
 
 /* Standard Script Procedures */
@@ -519,16 +519,6 @@ procedure Node005 begin
       call Node006;
    end
 end
-
-/*
-procedure Node005 begin
-   Reply(150);
-//subtract $5, if player doesn't have enough goto 6
-   NOption(151,Node007,004);
-   NOption(152,Node009,004);
-   NOption(153,Node999,004);
-end
-*/
 
 procedure Node006 begin
    if rep_check_pass then

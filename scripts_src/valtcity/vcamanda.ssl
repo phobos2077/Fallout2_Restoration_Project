@@ -200,7 +200,7 @@ procedure talk_p_proc begin
    if ( (global_var(GVAR_QUEST_JOSHUA) == JOSHUA_UNKNOWN) and (dude_iq < 4) ) then
       call Node005;
    else if( (global_var(GVAR_QUEST_JOSHUA) == JOSHUA_UNKNOWN) and
-            ( (not(dude_perk(PERK_cult_of_personality))) and ( (check_general_rep < 0)  or (has_rep_slaver) or (has_rep_childkiller) ) or ( local_var(LVAR_Amanda_Pissed) == 1 ) ) ) then //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+      (self_rep_negative or has_rep_slaver or has_rep_childkiller or (local_var(LVAR_Amanda_Pissed) == 1) )) then
       call Node006;
    else if( global_var(GVAR_QUEST_JOSHUA) == JOSHUA_UNKNOWN ) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);

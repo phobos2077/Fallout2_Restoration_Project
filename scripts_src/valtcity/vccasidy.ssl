@@ -488,7 +488,7 @@ end
 
 procedure Node001a begin
    set_local_var( LVAR_Cassidy_Offered, 1 );
-   if( ( dude_charisma == 1 ) or ( (not(dude_perk(PERK_cult_of_personality))) and ( ( has_rep_slaver ) or ( has_rep_childkiller ) or ( check_general_rep < -100 ) ) ) or ( dude_at_max_party_size ) ) then //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   if ( (dude_charisma == 1) or has_rep_slaver or has_rep_childkiller or check_title_bad(-100) or dude_at_max_party_size ) then
       call Node015;
    else
       call Node016;
@@ -611,7 +611,7 @@ procedure Node015 begin
       Reply(157);
    else if( has_rep_slaver ) then
       Reply(158);
-   else if( ( has_rep_childkiller ) or ( ( check_general_rep < -100 ) and (not(dude_perk(PERK_cult_of_personality))) )  ) then //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   else if ( has_rep_childkiller or check_title_bad(-100) ) then
       Reply(159);
    else
       Reply(160);
@@ -734,9 +734,6 @@ procedure Node1009 begin
    cassidy_party_member_options;
 end
 procedure Node1010 begin
-   // weapons that can be used
-   //Reply("TEMP MESSAGE: CAN USE...");
-   //cassidy_party_member_options;
    call Node1102;
 end
 
@@ -751,7 +748,7 @@ procedure Node1100 begin
       Reply(2100);
       BOption(3100, Node999, 001); //added by killap
       NOption(3200, Node999, 001); //added by killap
-   end else if( ( ( ( has_rep_childkiller ) or ( check_general_rep < -100 ) ) and (not(dude_perk(PERK_cult_of_personality))) ) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   end else if (has_rep_childkiller or check_title_bad(-100)) then begin
       set_self_abandon_party; //added by killap
       Reply(2200);
       BOption(3100, Node999, 001); //added by killap
@@ -761,22 +758,10 @@ procedure Node1100 begin
       Reply(2300);
       NOption(2999, Node999, 001); //added by killap
    end else begin
-      //Perform_Party_Add := 1;
-      //party_add_self; //added by killap
       end_party_waiting; //added by killap
       Reply(2400);
       NOption(3000, Node999, 001); //added by killap
    end
-
-   /* - this was commented out and merged into the above statements. This makes more sense plus all the other npcs did this.
-   if( ( check_general_rep >= -100 ) and ( not(has_rep_slaver) ) and ( not(has_rep_childkiller) ) and ( dude_charisma <= 1 ) and ( dude_at_max_party_size ) ) then //edit by killap - was > 1
-      NOption(2999, Node999, 001);
-   else if( ( check_general_rep >= -100 ) and ( not(has_rep_slaver) ) and ( not(has_rep_childkiller) ) and ( dude_charisma > 1 ) ) then
-      NOption(3000, Node999, 001);
-   else if( ( dude_charisma == 1 ) or ( has_rep_slaver ) or ( has_rep_childkiller ) or ( check_general_rep < -100 ) ) then begin
-      BOption(3100, Node999, 001);
-      NOption(3200, Node999, 001);
-   end*/
 
 end
 

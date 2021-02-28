@@ -573,7 +573,7 @@ procedure Node004 begin
 end
 
 procedure Node89 begin
-   if ((neutral_critter_reaction or good_critter_reaction) and ( (check_general_rep >= KARMA_BETRAYER) or (dude_perk(PERK_cult_of_personality)) ) ) then //edit by killap - added (dude_perk(PERK_cult_of_personality))
+   if ((neutral_critter_reaction or good_critter_reaction) and check_title(KARMA_BETRAYER)) then
       call Node008;
    else
       call Node009;

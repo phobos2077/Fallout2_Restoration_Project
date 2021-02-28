@@ -610,7 +610,7 @@ nbody(002)
       msgNum := 105;
    else
       set_merk_status(MERK_STATUS_MET);
-   if (msgNum == 109 and ( (check_general_rep < KARMA_DEFENDER) and (not(dude_perk(PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(dude_perk(PERK_cult_of_personality)))
+   if (msgNum == 109 and check_title_bad(KARMA_DEFENDER)) then
       msgNum := 105;
    if (msgNum == 113 and dude_is_male) then
       msgNum := 105;
@@ -624,7 +624,7 @@ nbody(003)
    msgNum += Random(0, 6);
    if (msgNum == 115 and not has_rep_childkiller) then
       msgNum := 114;
-   if (msgNum == 116 and ( (check_general_rep < KARMA_DEFENDER) and (not(dude_perk(PERK_cult_of_personality))) ) ) then //edit by killap - added and (not(dude_perk(PERK_cult_of_personality)))
+   if (msgNum == 116 and check_title_bad(KARMA_DEFENDER)) then
       msgNum := 114;
    if (msgNum == 117 and dude_is_male) then
       msgNum := 114;

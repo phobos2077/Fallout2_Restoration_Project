@@ -475,7 +475,7 @@ procedure Node030 begin
    NOption(513, Node999, 004);
 end
 procedure Node031 begin
-   Reply(522 + ((town_rep_is_liked > 0) or (dude_is_prizefighter) or (dude_has_porn_star_rep) or (dude_is_made_man)));
+   Reply(522 + (town_rep_is_liked or (dude_is_prizefighter) or (dude_has_porn_star_rep) or (dude_is_made_man)));
    BOption(524, Node035, -003);
    NOption(511, Node999, -003);
    if (know_lil_jesus == false) then begin

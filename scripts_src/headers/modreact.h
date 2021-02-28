@@ -9,22 +9,6 @@
 it will find out what the reaction level is in terms of Good, Neutral, or Bad.
 It will also write in how to modify the reaction level by a level. */
 
-/* Old Fallout 1 Stuff */
-
-/*
-#define NO_REACTION                     (0)
-#define BAD                             (1)
-#define NEUTRAL                         (2)
-#define GOOD                            (3)
-
-#define BASE_REACTION                   (50)
-#define LOW_REACTION                    (25)
-#define HIGH_REACTION                   (75)
-
-#define MIN_REACTION                    (0)
-#define MAX_REACTION                    (100)
-*/
-
 variable Static_Reaction:=0;            // This adds in Reputations, Perks, Karma, and such
 variable Evil_Critter:=0;               // 0 == Good Critter, 1 == Bad Critter
 variable Slavery_Tolerant:=2;           // 0 == very intolerant, 1 == intolerant, 2 == tolerant, 3 == Happy
@@ -87,15 +71,12 @@ variable reaction_bonus_karma:=0;
 #define REACTION_TOP                    (100)
 
 /* Reaction Bonus */
-//#define REACTION_BONUS_CHARISMA         ((get_critter_stat(dude_obj,STAT_ch) - AVERAGE_CHARISMA) * CHARISMA_MODIFIER)
 #define REACTION_BONUS_CHARISMA         ((get_critter_stat(dude_obj,STAT_ch) - CRITTER_CHARISMA) * CHARISMA_MODIFIER)
 
 #ifndef TOWN_REPUTATION
    #define TOWN_REPUTATION              global_var(TOWN_REP_VAR)
 #endif
 
-//#define REACTION_BONUS_TOWN_REP         ((TOWN_REPUTATION)/(TOWN_REP_MODIFIER))
-//#define REACTION_BONUS_KARMA            ((check_general_rep*Karma_Perception)/KARMA_MODIFIER)
 #define REACTION_BONUS_COMP_KARMA       (check_general_rep * Karma_Perception * (has_trait(TRAIT_PERK,dude_obj,PERK_karma_beacon_perk) + 1))
 #define REACTION_BONUS_BERSERKER        (-20)
 #define REACTION_BONUS_CHAMPION         (20)
@@ -147,7 +128,6 @@ variable reaction_bonus_karma:=0;
 #define good_critter_reaction           (local_var(LVAR_reaction_level) >= REACTION_LEVEL_GOOD)
 
 // Takes the reaction value and translates it into a level.
-
 #define ReactToLevel                    if (local_var(LVAR_reaction) <= REACTION_ABYSMAL) then                          \
                                             set_local_var(LVAR_reaction_level,REACTION_LEVEL_ABYSMAL);                  \
                                         else if (local_var(LVAR_reaction) <= REACTION_HORRIBLE) then                    \
@@ -167,20 +147,7 @@ variable reaction_bonus_karma:=0;
                                         else                                                                            \
                                             set_local_var(LVAR_reaction_level,REACTION_LEVEL_EXCELLENT)
 
-
-
-
-/*
-#define ReactToLevel                    if (local_var(LVAR_reaction) <= LOW_REACTION) then                  \
-                                            set_local_var(LVAR_reaction_level,BAD);                         \
-                                        else if (local_var(LVAR_reaction) <= HIGH_REACTION) then            \
-                                            set_local_var(LVAR_reaction_level,NEUTRAL);                     \
-                                        else                                                                \
-                                            set_local_var(LVAR_reaction_level,GOOD)
-*/
-
 // Takes a reaction level and generates a random reaction value.
-
 #define LevelToReact                    if (local_var(LVAR_reaction_level) == REACTION_LEVEL_ABYSMAL) then                      \
                                             set_local_var(LVAR_base_reaction,random(REACTION_BOTTOM,REACTION_ABYSMAL));         \
                                         else if (local_var(LVAR_reaction_level) == REACTION_LEVEL_HORRIBLE) then                \
@@ -200,16 +167,6 @@ variable reaction_bonus_karma:=0;
                                         else                                                                                    \
                                             set_local_var(LVAR_base_reaction,random(REACTION_EXCELLENT,REACTION_TOP))
 
-
-/*
-#define LevelToReact                    if (local_var(LVAR_reaction_level) == BAD) then                                 \
-                                            set_local_var(LVAR_reaction, random(MIN_REACTION,LOW_REACTION));            \
-                                        else if (local_var(LVAR_reaction_level) == NEUTRAL) then                        \
-                                            set_local_var(LVAR_reaction, random((MIN_REACTION+1),HIGH_REACTION));       \
-                                        else                                                                            \
-                                            set_local_var(LVAR_reaction, random((HIGH_REACTION+1),MAX_REACTION))
-
-*/
 
 #define set_bad_critter_reaction        set_local_var(LVAR_reaction_level, REACTION_LEVEL_BAD);             \
                                         ReactToLevel
@@ -233,16 +190,6 @@ variable reaction_bonus_karma:=0;
 
 #define UpReact                         UpReactMinor
 #define BigUpReact                      UpReactModerate
-/*
-// Raises reaction value by +10, and computes new level.
-#define UpReact                         set_local_var(LVAR_reaction,(local_var(LVAR_reaction)+10));         \
-                                        ReactToLevel
-
-// Raises reaction value by +25, and computes new level.
-#define BigUpReact                      set_local_var(LVAR_reaction,(local_var(LVAR_reaction)+25));         \
-                                        ReactToLevel
-
-*/
 
 // Places reaction at maximum value.
 #define TopReact                        set_local_var(LVAR_base_reaction,REACTION_TOP);                                  \
@@ -262,17 +209,6 @@ variable reaction_bonus_karma:=0;
 
 #define DownReact                       DownReactMinor
 #define BigDownReact                    DownReactModerate
-
-/*
-// Lowers reaction value by 10, and computes new level.
-#define DownReact                       set_local_var(LVAR_reaction,(local_var(LVAR_reaction)-10));         \
-                                        ReactToLevel
-
-// Lowers reaction value by 25, and computes new level.
-#define BigDownReact                    set_local_var(LVAR_reaction,(local_var(LVAR_reaction)-25));         \
-                                        ReactToLevel
-
-*/
 
 // Places reaction at minimum value.
 #define BottomReact                     set_local_var(LVAR_reaction_level,REACTION_LEVEL_ABYSMAL);                  \
@@ -374,57 +310,15 @@ variable reaction_bonus_karma:=0;
                                             if (has_rep_slaver) then                                                            \
                                                 Static_Reaction:=Static_Reaction - REACTION_BONUS_SLAVER;                       \
                                         end                                                                                     \
-                                        ndebug("Slaver + Aligned Reaction == "+Static_Reaction);                             \
+                                        ndebug("Slaver + Aligned Reaction == " + Static_Reaction);                              \
                                         Static_Reaction:=Static_Reaction + REACTION_BONUS_PRESENCE;                             \
-                                        ndebug("Presence Reaction == "+Static_Reaction);                                     \
+                                        ndebug("Presence Reaction == " + Static_Reaction);                                      \
                                         if (has_rep_childkiller) then                                                           \
                                             Static_Reaction:=Static_Reaction + REACTION_BONUS_CHILDKILLER;                      \
-                                        ndebug("Childkiller Reaction == "+Static_Reaction);                                  \
-                                        if (has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality)) then begin               \
-                                            if (Evil_Critter == 1) then begin                                                   \
-                                                if (Static_Reaction > 0) then                                                   \
-                                                    Static_Reaction := Static_Reaction * -1;                                    \
-                                            end else begin                                                                      \
-                                                if (Static_Reaction < 0) then                                                   \
-                                                    Static_Reaction := Static_Reaction * -1;                                    \
-                                            end                                                                                 \
-                                        end                                                                                     \
+                                        ndebug("Childkiller Reaction == " + Static_Reaction);                                   \
+                                        if dude_has_cult then Static_Reaction = abs(Static_Reaction);                           \
                                         set_local_var(LVAR_reaction,(local_var(LVAR_base_reaction) + Static_Reaction));         \
-                                        ndebug("Initial Reaction == "+local_var(LVAR_reaction))
-
-/*
-#define GetReaction                     if (local_var(LVAR_got_reaction) == 0) then begin                                       \
-                                            set_local_var(LVAR_got_reaction,1);                                                 \
-                                            set_local_var(LVAR_base_reaction,REACTION_NEUTRAL);                                 \
-                                        end                                                                                     \
-                                        set_local_var(LVAR_reaction,(local_var(LVAR_reaction) + 5*(dude_charisma) - 25));       \
-                                        set_local_var(LVAR_reaction,(local_var(LVAR_reaction) + 10*(dude_presence)));           \
-                                        if (has_rep_childkiller) then begin                                                     \
-                                            set_local_var(LVAR_reaction,(local_var(LVAR_reaction) - 30));                       \
-                                        end                                                                                     \
-                                        if (has_rep_berserker) then begin                                                       \
-                                            set_local_var(LVAR_reaction,(local_var(LVAR_reaction) - 20));                       \
-                                        end                                                                                     \
-                                        if (has_rep_champion) then begin                                                        \
-                                            set_local_var(LVAR_reaction,(local_var(LVAR_reaction) + 20));                       \
-                                        end                                                                                     \
-                                        if (has_trait(TRAIT_PERK,dude_obj,PERK_cult_of_personality)) then begin                 \
-                                            if (check_general_rep > 0) then begin                                               \
-                                                set_local_var(LVAR_reaction,(local_var(LVAR_reaction) + check_general_rep));    \
-                                            end                                                                                 \
-                                            else begin                                                                          \
-                                                set_local_var(LVAR_reaction,(local_var(LVAR_reaction) - check_general_rep));    \
-                                            end                                                                                 \
-                                        end                                                                                     \
-                                        else if (Evil_Critter == 1) then begin                                                  \
-                                            set_local_var(LVAR_reaction,(local_var(LVAR_reaction) - check_general_rep));        \
-                                        end                                                                                     \
-                                        else begin                                                                              \
-                                            set_local_var(LVAR_reaction,(local_var(LVAR_reaction) + check_general_rep));        \
-                                        end                                                                                     \
-                                        ReactToLevel
-
-*/
+                                        ndebug("Initial Reaction == " + local_var(LVAR_reaction))
 
 #undef check_barterable
 #define check_barterable

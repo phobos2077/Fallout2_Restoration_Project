@@ -247,7 +247,7 @@ procedure Node002 begin
       BMessage(217);
    end else begin
       set_node_2;
-      Reply(215 + ( (check_general_rep >= 0) and (not(dude_perk(PERK_cult_of_personality))) ) ); //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+      Reply(215 + self_rep_negative);
       if (has_rep_slaver == false) then begin
          NOption(218, Node010, 004);
          NOption(221, Node010, -003); //added by killap

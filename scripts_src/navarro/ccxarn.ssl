@@ -432,7 +432,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if ( (check_general_rep >= 0) or (dude_perk(PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap  (dude_perk(PERK_cult_of_personality))
+   if not self_rep_negative then begin
       call Node05a;
    end
    else begin
@@ -453,7 +453,7 @@ procedure Node05b begin
 end
 
 procedure Node05c begin
-   if ( (check_general_rep >= 0) or (dude_perk(PERK_cult_of_personality)) ) then begin //KARMA not bad --added by killap -  (dude_perk(PERK_cult_of_personality))
+   if not self_rep_negative then begin
       Reply(122);
 
       NLowOption(124,Node006);

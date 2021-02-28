@@ -352,7 +352,7 @@ procedure Node007 begin
    prev_node := 7;
 end
 procedure Node008 begin
-   if ( (check_general_rep < 0) and (not(dude_perk(PERK_cult_of_personality))) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   if self_rep_negative then begin
       Reply(350);
    end else if (becky_job(state_becky_job_none)) then begin
       Reply(351 + told_collect);

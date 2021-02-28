@@ -288,7 +288,7 @@ procedure talk_p_proc begin
        kill_critter(self_obj,ANIM_fall_front_sf);
    end
 
-   else if ( (not(dude_perk(PERK_cult_of_personality))) and ((check_general_rep < 0) or (local_var(LVAR_reaction_level) <= REACTION_LEVEL_BAD))) then begin //killap fix: changed to <= AND expansion edit -  (dude_perk(PERK_cult_of_personality))
+   else if (self_rep_negative or (local_var(LVAR_reaction_level) <= REACTION_LEVEL_BAD)) then begin
        start_gdialog(NAME,self_obj,4,HEAD_HAKUNIN,BACKGROUND_TENT);
        gSay_Start;
          //added by killap

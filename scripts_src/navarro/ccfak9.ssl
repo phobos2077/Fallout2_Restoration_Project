@@ -576,9 +576,6 @@ procedure Node1100 begin
    if (dude_at_max_party_size) then begin
       Reply(2000);
       NOption(g_mstr(10007),Node999,001);
-//   end else if (town_rep_is_hated) then begin
-//      Reply(2100);
-//      NOption(g_mstr(10007),Node999,001);
    end else begin
       end_party_waiting;
       Reply(2200);
