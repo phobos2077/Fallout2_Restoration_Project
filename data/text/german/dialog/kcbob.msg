@@ -114,8 +114,8 @@
 {502}{}{Nichts, Danke.}
 {550}{}{Es sieht nicht so aus, als ob Bob mit dir sprechen will.}
 {2900}{}{Things have slowed down recently. Nothing really to tell ya.}
-{2901}{}{brahmin mutilators}
-{2902}{}{walking spirits}
-{2903}{}{gigantical rats}
-{2904}{}{missing people}
-{2905}{}{. Some even say the Den's involved.}
+{2901}{}{Brahminverstümmler}
+{2902}{}{wandelnde Geister}
+{2903}{}{gigantische Ratten}
+{2904}{}{vermisste Personen}
+{2905}{}{. Einige sagen sogar, dass The Den beteiligt ist}

@@ -476,9 +476,9 @@
 {3082}{}{Es sein schön, wieder zu Hause sein.}
 {3083}{}{So viele Jungfrauen, die von unseren Abenteuern hören wollen - so wenig Zeit.}
 {3084}{}{Wir müssen sprechen mit Superkraut. Lassen Welt an uns vorbeiziehen.}
-{3086}{}{Take care, fren.}
+{3086}{}{Pass auf dich auf, mein Freund.}
 {3087}{}{Wir wünschen dir Viel Glück.}
-{3088}{}{Thanks again for everything, fren.}
+{3088}{}{Nochmals Danke für alles, mein Freund.}
 {3090}{}{Das hier sein unser Dorf. Wir gehen sprechen mit unseren Freunden.}
 {3091}{}{Wir gehen nochmal sprechen mit unseren Freunden bevor es losgehen.}
 {3100}{}{[Mehr]}

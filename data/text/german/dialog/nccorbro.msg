@@ -288,7 +288,7 @@
 {937}{}{Oh, ihr grausamen, grausamen Götter des Films! Was haben wir getan, euren Zorn so auf uns zu ziehen, dass ihr uns den Würfel weggenommen habt?}
 {938}{}{::Seufz:: Jetzt, wo der Würfel weg ist, sollte ich vielleicht Makramee lernen.}
 {1000}{}{Ich mich fühlen schlecht in Bauch.}
-{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
+{1001}{}{Du hast einen ekligen, ungesunden Geschmack im Mund, und du fühlst dich schummrig im Magen. Aber was soll's, 3 Chips sind 3 Chips!}
 {1100}{}{Igitt! ::Spuck, spuck:: Das war EKLIG!}
 {1101}{}{Du hast einen ekligen, ungesunden Geschmack im Mund, und du fühlst dich schummrig im Magen. Aber was soll's, 5 Chips sind 5 Chips!}
 {1200}{}{Ich...fühl mich nicht so gut.}

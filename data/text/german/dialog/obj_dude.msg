@@ -9,13 +9,13 @@
 {151}{}{ Erfahrungspunkte, weil du das GECK gefunden hast.}
 {400}{}{Du kapierst nichts vom Text, aber die Bilder sind recht informativ.}
 {500}{}{Du bist süchtig nach Alkohol. Die Gier nach Alkohol wird dich bald vernichten.}
-{600}{}{Something doesn't feel quite right in your stomach.}
-{601}{}{You feel an intense pressure in your stomach.}
-{700}{}{You attach the torn pieces of paper together to yield a list of three passwords.}
-{800}{}{The cravings are getting worse.}
+{600}{}{In deinem Magen fühlt sich etwas nicht richtig an.}
+{601}{}{Du spürst einen starken Druck in deinem Magen.}
+{700}{}{Du fügst die zerrissenen Papierstücke zusammen, um eine Liste mit drei Passwörtern zu erhalten.}
+{800}{}{Das Verlangen wird immer schlimmer.}
 {801}{}{You've got the shakes. You have this intense urge to drink something with alcohol in it.}
 {802}{}{You feel as if a great burden has been lifted from your mind. No longer do you crave the need to drink alcohol.}
-{900}{}{Something doesn't feel quite right in your stomach.}
-{901}{}{You feel an intense pressure in your stomach.}
-{1000}{}{You cannot think straight. You feel a burning desire to open another box of Tragic cards.}
+{900}{}{In deinem Magen fühlt sich etwas nicht richtig an.}
+{901}{}{Du spürst einen starken Druck in deinem Magen.}
+{1000}{}{Du kannst nicht klar denken. Du fühlst das brennende Verlangen, noch eine Schachtel Tragic Karten zu öffnen.}
 {1001}{}{You feel as if a great burden has been lifted from your mind. No longer is Tragic a constant part of your thoughts.}

@@ -124,8 +124,8 @@
 {603}{}{Ähhhm, sie ist tot.}
 {604}{}{Miria lebte zwar noch, als ich sie verließ, aber jetzt ist sie bestimmt tot.}
 {605}{}{Davin lebte zwar noch, als ich ihn verließ, aber jetzt ist er bestimmt tot.}
-{606}{}{Davin, uhhh, couldn't make the trip, but I'll let him know you said, "Hi," when I see him again.}
-{607}{}{Miria, uhhh, couldn't make the trip but I'll send her your love when I see her again.}
+{606}{}{Davin, äh, konnte nicht mitkommen, aber ich werde ihm deine Grüße ausrichten, wenn ich ihn wiedersehe.}
+{607}{}{Miria, äh, konnte nicht mitkommen, aber ich werde ihr deine Grüße ausrichten, wenn ich sie wiedersehe.}
 {700}{}{Aggghh... [Grishams Gesicht zeigt einen entsetzten Ausdruck, als er sich plötzlich an die Brust greift und zusammenbricht.]}
 {750}{}{OK, ich muss jetzt wieder an die Arbeit. Bis später mal.}
 {800}{}{Du hast Grishams Brahmin gerettet.}

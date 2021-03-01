@@ -133,7 +133,7 @@
 {435}{}{[Schüttelt den Kopf.] Nein, wir erholen uns grade noch von deiner letzten Show. Frag mal in den anderen Kasinos nach.}
 {436}{}{Geht in Ordnung, danke. Pass mal auf, ich wollte dich noch was fragen...}
 {437}{}{Okay...aber verlass dich drauf, ich komm wieder.}
-{445}{}{[You count up the evening's chips. Not a bad haul.]}
+{445}{}{[Du zählst die Einnahmen der Chips des Abends. Eine hübsche Summe.]}
 {446}{}{Das mit dem Leder kam gut. }
 {447}{}{Die Spielchen mit dem Ballknebel waren auch nicht von schlechten Eltern. }
 {448}{}{[Weiter]}

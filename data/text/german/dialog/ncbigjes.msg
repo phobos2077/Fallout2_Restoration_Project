@@ -13,9 +13,9 @@
 {231}{}{...Dios mio...}
 {232}{}{...mein Herz...}
 {233}{}{hurrkkkk}
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
-{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
+{240}{}{(Der Mann dreht sich zu dir. Er sieht fiebrig aus: Schweiß läuft über sein Gesicht und verschmutzt seine Kleider. }
+{241}{}{Er ignoriert dich und starrt Myron an. Offensichtlich wartet er darauf, dass Myron etwas sagt.)}
+{242}{}{Er starrt dich an. Offensichtlich wartet er darauf, dass du etwas sagst.)}
 {243}{}{[Starre mit deinem niederträchtigsten Blick zurück.]}
 {244}{}{[Starre mit leichtem Desinteresse zurück.]}
 {245}{}{[Starre mit höhnischem Blick zurück]}
@@ -121,7 +121,7 @@
 {471}{}{Nein, ich hab das Paket noch nicht abgeliefert.}
 {472}{}{Ja, ich habe das Paket zu Ramirez gebracht, wie du es verlangt hast.}
 {473}{}{Ja, ich war in den Ställen und habe dein Paket abgegeben... weißt du, dass Sie Sklaven mit Jet quälen?}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Ja, ich habe dein Paket dem Wachposten Ramirez gegeben... wissen Sie, dass dieser Kerl bis obenhin voll ist mit Jet? Er hat das Jet förmlich AUSGEDÜNSTET.}
 {480}{}{Was... willst du dann hier? (Big Jesus wischt sich die Stirn und holt tief Luft.) WARUM hast du das Paket nicht abgegeben?}
 {481}{}{Naja, ich hatte zuerst ein paar Fragen...}
 {482}{}{Ich werde es jetzt gleich machen.}
@@ -186,7 +186,7 @@
 {660}{}{Louis Salvatore lebt. Warum bist du zurückgekommen?}
 {661}{}{(Eine Schweißperle tropft seitlich an Mordinos Gesicht hinunter.) Hast du getan, was ich verlangt habe? Ist Louis Salvatore tot?}
 {662}{}{Er ist tot. Deine Familie ist gerächt, Senor Mordino.}
-{663}{}{I shall return when I have killed him.}
+{663}{}{Ich komme zurück, wenn ich ihn getötet habe.}
 {664}{}{Salvatore ist zu gut bewacht. Ich muss diesen Job wohl ablehnen.}
 {670}{}{Wenn du... vor diesem Job davonläufst, werde ich dich... TÖTEN lassen.}
 {671}{}{Wenn du es so siehst, werde ich zurückkommen, wenn er tot ist.}

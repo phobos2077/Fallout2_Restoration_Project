@@ -1,7 +1,7 @@
 {100}{}{Ein hübsches kleines Farmerdorf, umgeben von riesigen Feldern, auf denen die Ernte verrottet.}
 {500}{}{Sieht so aus, als hätt ich sie alle erwischt.}
 {501}{}{Alle Fieslinge sind tot.}
-{502}{}{You cleared out Farrel's garden.}
+{502}{}{Du hast Farrels Garten geräumt.}
 {600}{}{Du siehst einen Geldbeutel.}
 {601}{}{Du siehst einen Geldbeutel. Wahrscheinlich hat ihn jemand in den Brunnen geworfen und sich dabei etwas gewünscht.}
 {610}{}{Das ist MEIN Traum und MEIN Wunsch, und ich nehm sie zurück. Ich nehm alles zurück.}

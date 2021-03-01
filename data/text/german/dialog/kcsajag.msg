@@ -84,8 +84,7 @@
 {291}{}{Erzähl mir bitte von den Wanzenmännern, die Brahmin verstümmeln.}
 {292}{}{Erzähl mir bitte von diesen ungewöhnlich großen Nagetieren.}
 {293}{}{Erzähl mir bitte von diesem wandelnden Geist.}
-{294}{}{I'm not surprised that a trapper's gone missing with all this excitement, but tell me about him,
- too.}
+{294}{}{Überrascht mich nicht, dass ein Fallensteller verschwunden ist, bei all dieser Aufregung. Aber erzähl mir auch, was mit ihm passiert ist.}
 {295}{}{Ich möcht auch noch was anderes fragen.}
 {296}{}{Sonst will ich gar nichts wissen.}
 {300}{}{Naja, die Dunton Brüder suchen immer jemanden, der die dreckige Arbeit für sie macht. Und dann wäre da noch Torr, der Buckner-Junge. Er hat Angst, die Brahmin nachts zu hüten, wegen der Wanzenmänner.}
@@ -110,8 +109,8 @@
 {391}{}{Eigentlich ist das nicht grad, was ich gesucht hab. Ich möchte dich noch was fragen.}
 {392}{}{Mehr muss ich jetzt gar nicht wissen.}
 {2900}{}{Things are pretty quiet around here now, actually.}
-{2901}{}{brahmin-mutilating bugmen}
+{2901}{}{Brahmin verstümmelnde Wanzenmänner}
 {2902}{}{rodents of unusual size}
-{2903}{}{a walking spirit}
-{2904}{}{a missing trapper}
+{2903}{}{ein wandelnder Geist}
+{2904}{}{ein verschwundener Fallensteller}
 {2905}{}{. Klamath's become a real hot spot lately.}

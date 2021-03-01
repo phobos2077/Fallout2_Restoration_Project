@@ -126,17 +126,17 @@
 {231}{}{Ich brauche mehr Zeit.}
 {232}{}{Ich bin soweit. Los geht's.}
 {240}{}{Du hast die Außenposten der Ranger ausgelöscht. Das dürfte sie in ihrem Krieg gegen die Sklaverei ziemlich zurückwerfen.}
-{241}{}{I'm looking to buy some slaves.}
+{241}{}{Ich möchte ein paar Sklaven kaufen.}
 {250}{}{Well that's fuckin nice. We don't sell here. Metzger up north in the Den can help you with that.}
-{251}{}{I've been there and his stock wasn't up to my standards.}
+{251}{}{Ich war dort, aber sein Angebot hat nicht meinen Standards entsprochen.}
 {252}{}{Seeing how I killed Metzger, I don't know how that's going to be useful to me. I think I'll kill you instead.}
 {260}{}{Well aren't you a picky fuck. You do realize that his stock isn't limited to just the Den, right? He's got his own holding pen where slaves are dropped off.}
-{261}{}{Interesting. How would I get to this other location?}
+{261}{}{Interessant. Wie würde ich zu diesem anderen Ort kommen?}
 {270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
 {271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
-{272}{}{Alright, here.}
+{272}{}{Alles klar.}
 {273}{}{Macht nichts.}
-{274}{}{I'll do whatever I want. And I think I'll kill you now.}
+{274}{}{Ich werde tun, was auch immer ich will. Und ich denke, ich werde dich jetzt töten.}
 {275}{}{Ich komm noch mal wieder, wenn ich mehr Geld habe.}
 {280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}
-{281}{}{I've got what I need. Bye.}
+{281}{}{Ich habe was ich brauche. Tschüss.}

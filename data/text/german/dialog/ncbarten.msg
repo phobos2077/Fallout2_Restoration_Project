@@ -36,4 +36,4 @@
 {260}{}{Das ist der Kleine von Jesus, auch genannt Lil' Jesus. Er und sein Messer sind enge
  Freunde... ich hab ihn da schon teuflische Tricks mit machen sehen. Was soll's...kann ich dir
  was bringen?}
-{270}{}{Pleasure doin' business with ya.}
+{270}{}{Ein Vergnügen mit dir Geschäfte zu machen.}

@@ -24,17 +24,17 @@
 {252}{}{Bevor ich zustimme, Ihnen bei irgendetwas zu helfen, sagen Sie mir, was diese Kreaturen sind.}
 {260}{}{Oh, meistens von Raidern, die sich törichterweise dazu entschließen, uns hier anzugreifen. Aber genug davon. Ich muss wissen, ob Sie bereit sind, mir zu helfen.}
 {261}{}{Helfen bei was?}
-{270}{}{You see, not all of my experimental creatures have been as successful as the specimens you see here. Most tend to end up being mindless, violent brutes. I keep these failures locked within a pen in my lab, but they recently got loose. I managed to get out and lock the door before any could escape into the wild, but now I am unable to return to my lab.}
+{270}{}{Sehen Sie, nicht alle meine experimentellen Kreaturen waren so erfolgreich wie die Exemplare, die Sie hier sehen. Die meisten neigen dazu, sinnlose, gewalttätige Bestien zu werden. Ich habe diese Fehler in einem Stall in meinem Labor eingeschlossen, aber sie haben sich kürzlich befreit. Ich konnte gerade noch entkommen und die Tür abschließen, bevor eines dieser Dinge in die Wildnis entkommen konnte, aber jetzt kann ich nicht mehr in mein Labor zurückkehren.}
 {271}{}{Also, was soll ich dagegen tun?}
-{280}{}{How you feel about my work is of no concern to me. Now I shall be blunt. I have a task which you seem qualified for. Upon its completion, you will be rewarded. Are you interested?}
+{280}{}{Wie Sie von meiner Arbeit halten, interessiert mich nicht im Geringsten. Jetzt werde ich mal direkt sein. Ich habe eine Aufgabe, für die Sie qualifiziert zu sein scheinen. Nach deren Erledigung werden Sie belohnt werden. Haben Sie Interesse?}
 {281}{}{Ich bin ganz Ohr.}
 {282}{}{Ich will nichts mehr mit Ihnen oder Ihren ekelhaften Kreaturen zu tun haben.}
-{290}{}{Excellent! Give them to me, and you shall be rewarded.}
-{291}{}{Sure, it's not like I have much use for them. Here you go.}
-{292}{}{Nah. I've grown rather fond of the little guys. I think I'll hold on to them. Maybe start a garden or something.}
+{290}{}{Ausgezeichnet! Geben Sie sie mir und Sie werden belohnt.}
+{291}{}{Klar, es ist nicht so, dass ich viel Verwendung für sie hätte. Bitte schön.}
+{292}{}{Nee, ich habe die kleinen Jungs ziemlich gern. Ich denke, ich werde sie behalten. Vielleicht lege ich einen Garten an oder so.}
 {293}{}{CIh trage sie nicht bei mir, aber ich werde mal schauen, ob ich sie finden kann.}
-{294}{}{I don't have them on me, and even if I did I wouldn't hand them over to you. I want nothing to do with you or your veggie-zombies.}
-{300}{}{The facility is known as the EPA. I've marked it on your mapping device. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
+{294}{}{Ich habe sie nicht bei mir und selbst wenn ich sie hätte, würde ich sie Ihnen nicht übergeben. Ich will nichts mit Ihnen oder Ihren vegetarischen Zombies zu tun haben.}
+{300}{}{Die Einrichtung ist als EPA bekannt. Ich habe es auf Ihrem Karten-Gerät markiert. Bitte, gehen Sie dort hin und versuchen Sie dort einige Samen zu finden. Und nicht irgendwelche einfachen alten Samen -- sie müssen einzigartig sein.}
 {301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
 {302}{}{Ich komme wieder.}
 {303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}

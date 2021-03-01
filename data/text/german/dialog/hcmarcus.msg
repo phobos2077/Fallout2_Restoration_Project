@@ -374,7 +374,7 @@
 {10005}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
 {10006}{}{Wir sollten uns ein bisschen verteilen.}
 {10007}{}{Wir sollten jetzt aufbrechen.}
-{10008}{}{Can you put your armor on?}
+{10008}{}{Kannst du deine Rüstung anziehen?}
 {10100}{}{Los jetzt, Marcus. Wir müssen weg.}
 {20000}{mcs81b}{OK.}
 {20001}{}{Heh! Ich kann so ziemlich mit jedem großen Gewehr umgehen. Zum Beispiel mit Raketenwerfern, Kleingeschützen und

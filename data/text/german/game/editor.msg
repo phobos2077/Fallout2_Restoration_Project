@@ -13,14 +13,14 @@
 {112}{}{ FÄHIGKEITSPUNKTE}
 {113}{}{Level:}
 {114}{}{Erf:}
-{115}{}{Nächster Level:}
+{115}{}{Näch. Level:}
 {116}{}{CHAR PUNKTE}
 {117}{}{FÄHIGKEITEN}
 {118}{}{Du musst alle Figurenpunkte verwenden,}
 {119}{}{ um mit dem Spiel zu beginnen!}
 {120}{}{Figurenpunkte}
 {121}{}{Anzahl der freien Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
-{122}{}{Nächster Level}
+{122}{}{Näch. Level}
 {123}{}{Die Anzahl der Erfahrungspunkte, die für den nächsten Level erforderlich sind.}
 {124}{}{Bonus}
 {125}{}{Karma}
@@ -156,7 +156,7 @@
 {646}{}{Weiblich}
 {647}{}{ Level:}
 {648}{}{                Erf:}
-{649}{}{Nächster Level:}
+{649}{}{Näch. Level:}
 {650}{}{ ::: Zusatzmerkmale :::}
 {651}{}{ ::: Bonus :::}
 {652}{}{ ::: Karma :::}

@@ -27,7 +27,7 @@
 {136}{}{(Schaut dich an und schüttelt den Kopf)}
 {137}{}{(Macht ein subtile unhöfliche Geste)}
 {138}{}{Du bist wahrscheinlich für die Verstümmlungen der Brahmin verantwortlich.}
-{139}{}{Some of our trappers' have gone missing; you're prob'ly why.}
+{139}{}{Einige unserer Fallensteller sind verschwunden; wahrscheinlich bist du dafür verantwortlich.}
 {140}{}{In der Stadt treiben sich Wanzenmänner rum.}
 {141}{}{Es gibt einen Geist in einem Canyon östlich der Stadt.}
 {142}{}{Lass dich nicht vom Wandelnden Geist erwischen!}

@@ -78,4 +78,4 @@
 {413}{}{Marina}
 {450}{}{Du siehst }
 {451}{}{, der Karawanenwächter.}
-{2050}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's the one wearing a hat, right over there.}
+{2050}{}{In diesem Fall möchtest du wohl mit Bill, dem Händler aus Broken Hills reden. Er ist derjenige der einen Hut auf hat, gleich dort drüben.}

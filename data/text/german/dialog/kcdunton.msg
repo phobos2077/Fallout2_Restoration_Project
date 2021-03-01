@@ -208,7 +208,7 @@
 {703}{}{[Die beiden Brüder Dunton reißen die Augen weit auf und werden plötzlich ganz nervös.]  Jj..jjj...ja und... was geht dich das an Wilder? Jeder braucht hin und wieder etwas Extraeinkommen. Was geht dich das überhaupt an? Was willst du jetzt eigentlich überhaupt tun, häh?}
 {704}{}{Ich sag euch was. Wenn ihr aufhört die Brahmin zu stehlen und Torr zu verarschen, werde ich mich nicht einmischen. Alles was ich brauche ist euer Wort. Wenn ich aber einen von euch nochmal beim Brahminstehlen erwische, wird nicht mehr viel von euch übrig bleiben. Verstanden?!}
 {705}{}{[hyuk, hyuk, hyuk] Ja, Ok Wilder. Ich denke es wird mal Zeit. dass wir dir beibringen was man hier mit nervigen Wilden macht.}
-{706}{}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
+{706}{}{Also gut Wilder, du gewinnst dieses Mal. Wir werden aufhören, jetzt lass uns einfach in Ruhe.}
 {707}{}{Du hast die Dunton Brüder dazu gebracht, Torr in Ruhe zu lassen.}
 {708}{}{[Erledigt]}
 {709}{}{Lass uns einfach in Ruhe.}

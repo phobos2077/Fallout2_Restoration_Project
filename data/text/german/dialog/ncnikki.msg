@@ -192,7 +192,7 @@
 {480}{}{Es KÖNNTE sein, dass Lloyd noch immer meinen Anteil hat, und ich bin mir nicht so sicher, dass er ihn mir geben wird. Also KÖNNTE ich dir, für 500 Chips, sagen, wo sich dieses verlogene Arschloch rumtreibt.}
 {481}{}{Ok. Hier sind die 500 Chips. Sag mir wo er ist.}
 {482}{}{Das ist ein sehr hoher Preis für ein "vielleicht" und "könnte." Ich werde ihn selber finden.}
-{483}{}{I don't have enough chips, but I'll be back. You better still be here when I return.}
+{483}{}{Ich hab nicht genug Chips, aber ich komme wieder. Sie sollten besser noch hier sein, wenn ich wieder zurück bin.}
 {490}{}{(Packt das Geld weg.) Schau im Boilerraum im Keller des Desperado nach. Dorthin ist der Hurensohn verschwunden, als es ihm zu heiß wurde.}
 {491}{}{Also gut, bis später dann Nikki.}
 {500}{}{Könntest du bitte gehen?! Wenn uns die Leute so sprechen sehen, werden sie über uns sprechen. Verstanden?}
@@ -200,7 +200,7 @@
 {510}{}{Verschwinde! Ich habe dir nichts mehr zu sagen, für immer.}
 {511}{}{Das bricht mir das Herz, bis später Nikki.}
 {600}{}{Du hast Nikki bestochen, um das Versteck von Lloyd zu finden.}
-{1210}{}{. Can I help you with... anything?}
+{1210}{}{. Kann ich dir mit... irgendetwas helfen?}
 {1214}{}{.}
 {1235}{}{. willst du ein paar Chips setzten?}
 {1239}{}{, und gewinn ein paar Chips.}

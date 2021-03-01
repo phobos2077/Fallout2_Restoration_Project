@@ -186,14 +186,10 @@
 {300}{}{Du hast geholfen Fannies Sucht zu überwinden.}
 {301}{}{Wiedersehn.}
 {310}{}{Eventuell habe ich da etwas das Fannie hilft. [Du gibst Lou das Jet-Gegenmittel.]}
-{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- I just want you to know that I'm thankful for what you did. How can I help you?}
-{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- Jail's too good for what that bastard done.}
-{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
- that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
- do you want?}
-{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute
- Saloon, finest house north of San Fran. Now just what the hell do you want?}
-{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember,
- too much money ain't good for that gal. Now whattya need?}
+{1103}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco.
+ Ich möchte nur, dass du weißt, dass ich dankbar bin für das, was du getan hast. Womit kann ich dir behilflich sein?}
+{1104}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco.
+ Das Gefängnis ist zu gut für das, was dieser Bastard getan hat.}
+{1105}{}{Hallo, ich bin Lou. Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco. Ich kann nicht richtig glauben, dass Sie den Bastard, der mein Mädchen aufgeschlitzt hat, laufen gelassen haben. Sie haben ganz schön Nerven hier wieder aufzutauchen. Was zur Hölle wollen Sie?}
+{1106}{}{Du bist immer noch ein Idiot. Aber für uns andere geht das Leben weiter. Ich bin Lou, Besitzerin des Malamute-Saloons, des feinsten Hauses nördlich von Frisco. Also was zum Teufel willst du jetzt?}
+{1107}{}{Ich bin Lou, Besitzerin des Malamute-Sallons, des feinsten Hauses nördlich von Frisco. Denk dran, zu viel Geld ist nicht gut für dieses Mädchen. Also was brauchst du?}

@@ -106,8 +106,8 @@
 {343}{}{(Monte benutzt seine normalen Karten! Du musst seine anderen Karten stehlen, damit er nicht mehr wechseln kann.)}
 {344}{}{Du hast gesteckt in Ärmelding, du nicht spielen richtig.}
 {345}{}{Äh... Lucy zur linken.}
-{346}{}{Uh... Middle of th'road}
-{347}{}{Uh... Rightie tightie}
+{346}{}{Ähm... Die goldene Mitte.}
+{347}{}{Ähm... Rechts gewinnt.}
 {348}{}{Du verdammter Betrüger. Ich hab gesehen, wie du die Karte eingesteckt hast. Gib mir sofort mein Geld zurück bevor ich dich hier auf der Straße kalt mache.}
 {349}{}{Die Karte ist in deinem Ärmel.}
 {350}{}{Äh, die Linke.}
@@ -160,7 +160,7 @@
 {431}{}{Also gut Monte. Wir sind quitt.}
 {435}{}{(Monte wirft dir einen finsteren Blick zu, als er dich sieht.) Pass auf. Ich mache heute keine Spiele, alles klar? }
 {436}{}{Kann ich dann die Karte kaufen die du mir vorher gezeigt hast?}
-{437}{}{I wanted some information...}
+{437}{}{Ich brauchte einige Informationen...}
 {438}{}{Also gut, Monte. Ich gehe... vorerst.}
 {440}{}{Nein. Das kannst du vergessen. Basta. Sie ist ein ECHTES Vorkriegs-Erinnerungsstück... ein kleines Stück Geschichte. Keine Chance.}
 {441}{}{Du machst mir NOCH ein Angebot? Pass auf, ich hab dir schon einmal gesagt ich verkaufe sie nicht.}
@@ -257,7 +257,7 @@
 {574}{}{Entschuldigung Fräulein, keine Chips, kein Spiel. Komm wieder, wenn du mehr Geld hast.}
 {575}{}{Ja, Vielleicht nächstes mal.}
 {576}{}{Du tauschst schnell Montes Karten gegen die Gezinkten.}
-{600}{}{spades}
+{600}{}{Pik}
 {601}{}{hearts}
 {602}{}{diamonds}
 {603}{}{clubs}

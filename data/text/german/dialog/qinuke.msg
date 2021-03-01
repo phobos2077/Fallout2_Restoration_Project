@@ -13,6 +13,6 @@
 {225}{}{Schlüssel akzeptiert. Außerkraftsetzung der Sicherheitsstufe 2 komplett.}
 {226}{}{Aktiviere Bombe.}
 {227}{}{Abmelden.}
-{228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
- T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
+{228}{}{Bombe wurde aktiviert. Detonation in T-minus 5 Minuten. Fehler in der Countdown-Prozedur. Countdown wird wieder aufgenommen bei
+ T-minus 5 Sekunden. Bitte stellen sie sicher, dass Sie mindestens 130km vom Explosionszentrum entfernt sind. Einen schönen Tag noch.}
 {229}{}{Mutter Gottes...}

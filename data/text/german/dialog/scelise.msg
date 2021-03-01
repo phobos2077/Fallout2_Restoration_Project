@@ -116,7 +116,7 @@
 {232}{}{Deine Ranger-Kameraden werden unterwegs mit dir zusammentreffen. Die besten Glückwünsche für dich.}
 {233}{}{[Ende]}
 {234}{}{Ich habe die Neuigkeiten schon gehört. Vielen Dank für deine Hilfe. Das ist ein heftiger Rückschlag für die Sklavenhändler. Wir stehen tief in deiner Schuld.}
-{235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
+{235}{}{Bitte zögere nicht zu lange. Dieser Angriff ist entscheidend für unseren Kampf gegen die Sklaverei.}
 {236}{}{Du hast den Rangern in ihrem anhaltendem Kampf gegen die Sklaverei geholfen.}
 {240}{}{Vielen Dank. Auf Wiedersehen.}
 {250}{}{Da wäre noch etwas. Du siehst vertrauenswürdig aus und du siehst vor allem wie jemand aus der nicht viel von der Sklaverei hält.}
@@ -138,4 +138,4 @@
 {290}{}{Ich bin Elise. Das ist Gond. Wir sind Mitglieder einer Anti-Sklaven Organisation genannt die New California Ranger. Wir könnten jemanden wie dich gebrauchen. Wenn du daran interessiert bist, bei uns mitzumachen, habe ich eine Aufgabe für dich.}
 {291}{}{Erzähl mir davon.}
 {292}{}{Kein Interesse. Tschüss.}
-{300}{}{Help you with something, Ranger?}
+{300}{}{Kann ich dir irgendwie helfen, Ranger?}

@@ -147,7 +147,7 @@
 {365}{}{[Mehr]}
 {366}{}{Vault 12's door was designed never to close, so that the assholes behind this experiment could "study the effects of radiation on the selected population". If you recall the legend correctly, Vault 12 was located under the ghoul filled city of Necropolis, where the Vault Dweller finally found the water chip. It seems quite likely that the ghouls were the result of this experiment.}
 {367}{}{[Mehr]}
-{368}{}{Vault 15, another key location in the Vault Dweller's quest, was to be populated by people with "radically diverse ideologies" that would be sealed in the Vault together for 50 years. Vault 27 was to be purposely overcrowded with 2,000 people -- double the maximum capacity. That couldn't have been pretty. Vault 29 was to be populated only by those under the age of sixteen, with their parents "purposely redirected to other Vaults".}
+{368}{}{Vault 15, ein weiterer Hauptschauplatz bei der Suche des Vaultbewohners, wurde von Menschen mit "unterschiedlichen radikalen Ideologien" bevölkert, um für 50 Jahre miteinander eingeschlossen zu werden.Vault 27 wurde vorsätzlich mit 2.000 Menschen überfüllt - das Doppelte der maximalen Kapazität. Das kann wirklich nicht schön gewesen sein. In Vault 29 brachte man nur Jugendliche unter 16 Jahren unter, wobei deren Eltern "absichtlich zu anderen Vaults umgeleitet" wurden.}
 {369}{}{[Mehr]}
 {370}{}{Das Experiment in Vault 34 erforderte ein Waffenlager, vollgestopft mit jeder Menge an Waffen, aber natürlich wurde an der Tür kein Schloss angebracht. Wie "angenehm". Vault 36 litt an Nahrungserzeugern, die dafür entworfen wurden, nur "einen dünnen, wässrigen Haferschleim" zu produzieren, während Vault 42 nur mit trüber Beleuchtung ausgestattet wurde - man hatte keine Glühbirnen mit mehr als 40 Watt bereitgestellt.}
 {371}{}{[Mehr]}
@@ -157,7 +157,7 @@
 {375}{}{Abmelden.}
 {500}{}{Du erfährst Wissenswertes über die Vaultexperimente und die Rolle der verschiedenen Vaults.}
 {510}{}{Du erfährst die Geschichte von Vault 13 und welche Funktion die Aufseher in den Vaultexperimenten hatten.}
-{520}{}{I'm sorry, I did not understand that.}
+{520}{}{Tut mir leid, das habe ich nicht verstanden.}
 {521}{}{Abmelden.}
 {2541}{}{Türstärke: 3,6 Meter, Stahl
                                            Erdabdeckung: 3,200,000 Tonnen Erdreich, 70 Meter

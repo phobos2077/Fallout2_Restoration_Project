@@ -272,11 +272,11 @@
 {2002}{}{Alkohol in einem Kloster. Interessant, ich glaube diesen Ort muss ich einmal besuchen. Kannst du mir den Standort auf meiner Landkarte zeigen?}
 {2003}{}{In Ordnung, wenn ich dein besoffenes Geschwafel richtig verstehe, dann kommst du von einer Art Kloster, wo du mit einem Kerl namens Samuel jede Menge gesoffen hast. Vater, wenn du mir diesen Ort auf meiner Karte zeigst, dann kann ich vielleicht deinen Freund besuchen und etwas von dem Alkohol, von dem du so begeistert bist, probieren.}
 {2004}{}{(Du nimmst deinen PIPBoy raus und hältst ihn Pfarrer Tully hin, damit er dir die Koordinaten auf der Karte zeigt. Zuerst deutet er auf den Ozean, dann auf irgendeinen Gebirgszug im Süden. Nachdem er dir dann fast das Auge ausgestochen hat, platziert er endlich seinen Finger an der Nordostecke der Landkarte.) Jaah, da is 's Kloster.}
-{2005}{}{I appreciate it, Father. I have some other questions though.}
+{2005}{}{Ich weiß das zu schätzen, Vater. Ich habe aber noch ein paar Fragen...}
 {2006}{}{Danke. Aber eines möchte ich noch wissen, warum hast du Abbey verlassen?}
-{2007}{}{Thanks, Father. I must be going now.}
+{2007}{}{Danke, Vater. Ich muss jetzt gehen.}
 {2008}{}{Naja, das isch laaaang her. Ich hab das noch nich alles auf d' Reihe bracht. Das war bevor d' Engel Mrs. Wright mich wieder auf 'n rechten Weg brachte. Tja schau, d' Mönche war'n nich sehr erfreut über meine wüssnn Manier'n. Ich un' Bruder Samuel, wir war'n manchmal ssiemlich verrückt. Hehe, einmal Nachts, schlichen Sammy un' ich ssu'n schlafenden Mönchen, un' tauch'n ihre Hände in Schüsseln mit warmen Wasser. Sogar beim Abt! Ha! Das war'n noch Zeiten, ich sag's dir.}
-{2009}{}{That's pretty childish, Father. I take it you were eventually kicked out?}
+{2009}{}{Das ist ziemlich kindisch, Vater. Ich denke, sie haben dich wahrscheinlich rausgeworfen?}
 {2010}{}{Right. I've had enough of these amateur drunk stories. See you around, Father.}
 {2011}{}{I dunno if I'd say they *kicked* me out... but they zure as hell didn't want me to stick around--not after that night I passed out and
  axidently set fire to one a th' lieberrys. Boy, you shoulda seen the Abbot's face... if he had half a backbone, he'd a prolly strangled me. Ha! So I
@@ -316,7 +316,7 @@
 {2060}{}{Ich habe mit Bruder Samuel gesprochen. Er trinkt sich immer noch das Hirn weg.}
 {2061}{}{Ich hab eine Flasche von dem berühmten Schnaps aus Abbey.}
 {2062}{}{Hehe, guter oller Sam. Das is' gut ssu wiss'n. Irgen'wann sollt'ich mal versuchen wieder hin ssugeh'n.}
-{2063}{}{Well, see you around, Father.}
+{2063}{}{Gut, man sieht sich, Vater.}
 {2064}{}{Ich habe auch noch ne Flasche von dem berühmten Schnaps aus Abbey den du wolltest.}
 {2065}{}{Hehe, guter oller Sam. Das is' gut ssu wiss'n. Irgen'wann sollt'ich mal versuchen wieder hin ssugeh'n.}
 {3000}{}{Du hast sowohl Vater Tully als auch Bruder Samuel über den Verbleib des anderen aufgeklärt.}

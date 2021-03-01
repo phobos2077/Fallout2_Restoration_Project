@@ -29,7 +29,7 @@
 {128}{}{Ich will nichts mit Merk zu schaffen haben und es bringt nichts, über ihn zu schwatzen. Wenn du Fragen hast, dann frag im "Rawhide" nach ihm.}
 {129}{}{Verstehe.}
 {130}{}{Wiedersehn.}
-{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
+{131}{}{Roger Westin? Du meinst den Typen aus dem Kongreß? Er hat sich westlich der Stadt ausgebreitet. Brahminzüchter - großes Tier im Viehzüchter-Verband. Falls du Arbeit suchst - der kann immer Leute gebrauchen.}
 {132}{}{Verstehe.}
 {133}{}{Wiedersehn.}
 {134}{}{Komische Frage nach dem, was mit Roger Westin passiert ist. Ich weiß da nicht Bescheid, aber drunten im "Rawhide" gibt's einen Knaben - Merk heißt er - der kann dir vielleicht weiterhelfen.}

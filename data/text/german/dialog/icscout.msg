@@ -11,7 +11,7 @@
 {403}{}{Ich bin auf einer Mission für Vault City. Wer bist du?}
 {404}{}{Mein Name ist nicht wichtig. Ich bin gekommen um dich zu warnen. du bist in großer Gefahr!}
 {405}{}{Ich bin dein Untergang, mach dich bereit deine Vorfahren kennen zu lernen!}
-{406}{}{I'm French. Why do you think I have this outrageous accent? [Stare at him oddly.]}
+{406}{}{Ich bin Franzose. Warum denkst du, hätt ich sonst diesen abscheulichen Akzent? [Du schaust ihn seltsam an.]}
 {407}{}{Kein Problem. Entschuldige die Störung.}
 {410}{}{Du redest mit "Laufender Schatten". Warum bist du hier?}
 {411}{}{Ich versuche die Raider-Angriffe auf Vault City aufzuhalten und ich habe Grund zur Annahme, dass hier ihre Operationsbasis ist. Was weißt du über die Raider?}

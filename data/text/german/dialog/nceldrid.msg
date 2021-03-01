@@ -167,7 +167,7 @@
 {610}{}{Ich schlag dir vor, dass du da schnell rauskommst, bevor ich dich totschieße.}
 {700}{}{Elende Hunde! Ich geh zurück ins Bett.}
 {701}{}{Dumme Hunde! Morgen früh schläfere ich euch ein.}
-{702}{}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
+{702}{}{Haltet ihr blöden Hunde endlich die Schnauze! Niemand ist blöd genug, um in ein Waffengeschäft einzubrechen!}
 {800}{}{Du hast Eldridge eine Laserpistole geliefert.}
 {801}{}{Hey, seh ich aus wie ne Art Zauberer? Du brauchst erst eine Waffe wenn du sie Aufrüsten willst. Jetzt hau ab und find ne Knarre die ich Aufrüsten kann... Meine Güte!}
 {802}{}{Komm wieder wenn du die Kohle hast.}
