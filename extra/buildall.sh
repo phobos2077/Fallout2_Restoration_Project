@@ -14,17 +14,6 @@ if [[ ! -f $compile_exe ]]; then
   exit 1
 fi
 
-# single file compile
-function process_file() {
-  set -eu -o pipefail
-  f="$1"
-  dst="$2"
-  script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
-  gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f" # preprocess
-  wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name"
-  rm -f "$f.tmp"
-}
-
 # compile all
 for d in $(ls $src); do
   if [[ -d "$src/$d" && "$d" != "template" ]]; then # if it's a dir and not a template
@@ -41,7 +30,9 @@ for d in $(ls $src); do
         process=1
       fi
       if [[ "$process" == "1" ]]; then
-        process_file "$f" "$dst"
+        gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f" # preprocess
+        wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$int"
+        rm -f "$f.tmp"
       fi
     done
   fi
