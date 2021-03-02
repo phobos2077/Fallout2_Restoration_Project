@@ -13,7 +13,7 @@
 {159}{}{Was machst du im Schlachthaus?}
 {160}{}{Ich höre Gerüchte über dich und die Brahmin.}
 {161}{}{Erzähl mir von deinem Vater.}
-{162}{}{Hallo.}
+{162}{}{Hallo nochmal.}
 {163}{}{Ich hab gewusst, dass du zu mir zurückkommst.}
 {168}{}{Warum machen wir's uns nicht gemütlicher?}
 {171}{}{Bleib hier.}

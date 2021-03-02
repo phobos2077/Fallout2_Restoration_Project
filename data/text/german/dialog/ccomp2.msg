@@ -4,7 +4,7 @@
 {103}{}{Ja, Soldat?}
 {104}{}{Was sein das hier?}
 {105}{}{Ich nur sagen Hallo. Ich gehen.}
-{106}{}{Was ist das alles hier?}
+{106}{}{Was ist das für ein Ort?}
 {107}{}{Ich sag nur Hallo. Bis später.}
 {108}{}{Dies ist der Computerraum. Das da vorne ist der Mainframe, daneben befindet sich das
  Interface-Terminal und diese Vorrichtungen hier sind Einheiten zur Speicherung von Holotapes.

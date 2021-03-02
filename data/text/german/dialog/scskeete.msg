@@ -27,7 +27,7 @@
 {122}{}{Quas?}
 {123}{}{Von wegen Mann!}
 {124}{}{Was machst'n du so?}
-{125}{}{Was ist das alles hier?}
+{125}{}{Was ist das für ein Ort?}
 {126}{}{Nichts. Hab dich mit jemandem verwechselt. Mach's gut.}
 {127}{}{Boa, Mann, ey, ich hab dich doch gewarnt. Üble Gegend. Übles Volk, das sich hier
  rumtreibt. Hab gehört, aus deinem Gefährt wurden Sachen geklaut.}
@@ -36,13 +36,13 @@
 {130}{}{Großartig. Danke. Ausgezeichnet.}
 {131}{}{Doofus hält sein Wort. Keine Fliege soll's wagen, ihr Häufchen auf deine Blechschleuder
  zu machen!}
-{132}{}{Was ist das alles hier?}
+{132}{}{Was ist das für ein Ort?}
 {133}{}{Gut. Halt's Maul.}
 {134}{}{Wenn du die Knete nicht hast, dann sieh zu, dass du dich verdrückst. Ich hab Wichtiges zu
  tun.}
 {135}{}{Hey, Mann, Doofus hat dich gewarnt.}
 {136}{}{Du kannst mich mal. Von mir kriegst du keine Antwort.}
-{137}{}{Was ist das alles hier?}
+{137}{}{Was ist das für ein Ort?}
 {138}{}{Wiedersehn.}
 {139}{}{Bye-bye.}
 {140}{}{Der Wahnsinn, Gedankenübertragung! Ich erfasse Gehirnströme! Okay, ich versuch's... 

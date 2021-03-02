@@ -69,7 +69,7 @@
 {156}{}{Ja, es ist eine menschliche Milz.}
 {157}{}{Genaugenommen hätte ich etwas dagegen. Du hast nicht gerade bewiesen, dass du einen guten
  Charakter hast. Warum rede ich überhaupt mit dir? Wiedersehn.}
-{158}{}{[Erledigt]}
+{158}{}{[Fertig]}
 {159}{}{Aargh! Wachen! Der Lao Wai ist hier!}
 {160}{}{Hast du die Blaupausen für mich?}
 {161}{}{Ken Lee bat mich, dir das zu geben.}
@@ -113,16 +113,16 @@
 {331}{}{Also, wo ist Dr. Sheng jetzt?}
 {332}{}{Fine, you keep your fancy secrets. I have secrets of my own, you know. Better secrets than you could ever possibly imagine.}
 {340}{}{[He smiles politely.] I'm sure you do. Now if you will excuse me, I have plenty of work that needs doing. Good day.}
-{341}{}{[Erledigt]}
+{341}{}{[Fertig]}
 {350}{}{Dr. Sheng was escorted a day or so to the south. He took up residence in some abandoned home, if I'm not mistaken. He was only supposed to be gone for a month, but it's been much longer and we have yet to hear from him. If I were to guess, I would say he was either destroyed by his own creations, or else fell victim to the numerous hazards of the wasteland.}
 {351}{}{One of your lead scientists could be dead, and you don't care? You're not even going to go look into it?}
 {352}{}{I think I'd like follow up on this Dr. Sheng guy. Could you give me his last known location?}
-{353}{}{Well, that's that. Let me ask you something else.}
+{353}{}{Na gut. Ich möchte dich noch etwas anderes fragen.}
 {360}{}{You'll have to excuse me for seeming so callous about the matter. The truth is, Dr. Sheng was not very popular around here and I do not believe any of us miss him in the slightest.}
 {361}{}{I think I'd like follow up on this Dr. Sheng guy. Could you give me his last known location?}
 {362}{}{Ach so. Lass mich dich noch was fragen.}
 {370}{}{I suppose I could... I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.}
-{371}{}{Thanks, I'll do that. Bye.}
+{371}{}{Danke, das werde ich tun. Wiedersehn.}
 {372}{}{Ich möchte dich noch was anderes fragen.}
 {380}{}{Dr. Sheng is still alive and he's created some kind of plant that takes root in and controls human corpses.}
 {390}{}{So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
@@ -132,7 +132,7 @@
 {402}{}{Über welche Art von Entschädigung sprechen wir hier?}
 {403}{}{Nicht interessiert. Dr. Sheng ist dein Problem... ihr könnt euch um ihn kümmern.}
 {410}{}{Die Schi werden für diesen Dienst sehr dankbar sein. Sobald Dr. Sheng und alle seine Kreationen eliminiert sind, melden dich bei mir, um deine Belohnung entgegenzunehmen.}
-{411}{}{[Erledigt]}
+{411}{}{[Fertig]}
 {420}{}{Das überlasse ich dir. Wir könnten dir Waffen, Vorräte oder Geld gewähren. Du kannst dich entscheiden, sobald die Aufgabe erledigt ist.}
 {421}{}{Alles klar. Ich werde es machen.}
 {422}{}{Nicht interessiert. Dr. Sheng ist dein Problem... ihr könnt euch um ihn kümmern.}
@@ -141,7 +141,7 @@
 {430}{}{In Ordnung. Wir werden uns selbst um das Problem kümmern, aber das muss warten, da wir im Moment nicht über die nötigen Mittel verfügen. Hoffentlich wird es nicht schon zu spät sein,
  sobald wir in der Lage sind zu handeln. Solltest du in der Zwischenzeit deine Meinung ändern, lass es mich bitte wissen.}
 {431}{}{Verlass dich nicht darauf. Tschüss.}
-{432}{}{I'll think about it. Bye.}
+{432}{}{Ich denke darüber nach. Wiedersehn.}
 {433}{}{Wir werden sehen. Lass mich dich noch was fragen.}
 {440}{}{Ich nehme nicht an, dass du deine Meinung geändert hast? Wirst du uns helfen, Dr. Sheng und seine Schöpfungen zu beseitigen?}
 {441}{}{Nö. Ich möchte dich aber nach etwas anderem fragen.}
@@ -154,13 +154,13 @@
 {454}{}{Geben Sie mir einfach Geld.}
 {455}{}{Keep your reward. I only did it because it was the right thing to do.}
 {460}{}{Here you go. [He hands you various high powered weapons]}
-{461}{}{[Erledigt]}
+{461}{}{[Fertig]}
 {470}{}{Here you go. [He hands you various supplies]}
-{471}{}{[Erledigt]}
+{471}{}{[Fertig]}
 {480}{}{Bitte sehr. [Er gibt dir $5.000]}
-{481}{}{[Erledigt]}
+{481}{}{[Fertig]}
 {490}{}{The Shi appreciates your assistance. Now, I have much work to do. Good day.}
-{491}{}{[Erledigt]}
+{491}{}{[Fertig]}
 {500}{}{Before I go, Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {501}{}{Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {502}{}{Dr. Sheng wanted me to give you this plant sample as a gift, but I thought I should warn you that it's infused with his sentience serum. I don't know what it's supposed to do, but I'm pretty sure it won't be good for the Shi.}

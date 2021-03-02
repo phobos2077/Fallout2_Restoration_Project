@@ -14,7 +14,7 @@
 {110}{}{Quincy, was? Raul will den aber nicht sehen, Mann. Raul hat genug von dem Mist, kapiert?}
 {111}{}{OK.}
 {112}{}{Quincy sagt du Vollidiot. Du zu feige ihn sehen.}
-{113}{}{Wie du willst.}
+{113}{}{Fein.}
 {114}{}{Weißt du, Quincy hat gesagt, du bist 'n Vollidiot und dass du zu feige bist, ihm Bericht
  zu erstatten.}
 {115}{}{ He Mann, Raul lässt sich nichts gefallen. Siehst du, dass Quincy an den Vögeln arbeitet? 

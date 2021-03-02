@@ -79,7 +79,7 @@
 {161}{}{Ja klar. Danke. Tschüss.}
 {162}{}{Ach ja? Das ist ja eine tolle Einstellung. Schade, dass wir euer Dorf nicht auch zerstört
  haben, als wir noch Macht über das Ödland hatten. Geh mir bloß aus den Augen.}
-{200}{}{[Erledigt]}
+{200}{}{[Fertig]}
 {201}{}{Tschüss.}
 {202}{}{Danke. Tschüss.}
 {203}{}{[Mehr]}

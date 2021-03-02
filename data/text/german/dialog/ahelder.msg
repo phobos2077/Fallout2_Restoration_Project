@@ -18,7 +18,7 @@
 {119}{}{Ich bin bereit für die heilige Suche.}
 {120}{}{Ich brauche noch mehr Infos.}
 {121}{}{Ich hab keinen Bock, mich umbringen zu lassen!}
-{122}{}{Was sollte ich doch gleich tun?}
+{122}{}{Was sollte ich nochmal machen?}
 {123}{}{Ich gehe jetzt.}
 {124}{aeld5}{Das sind gute Neuigkeiten, aber das reicht nicht, um uns zu retten. Du musst bald mit dem GECK zurückkommen, oder unser Volk wird sterben!}
 {125}{}{Ich brauche noch mehr Infos.}
@@ -48,7 +48,7 @@
 {149}{aeld12}{Die heilige Dreizehn? Ich kann dir nicht helfen. Nur der Vaultbewohner wusste dies. Seine Geschichten verheißen eine bedrohliche Reise.}
 {150}{}{Ich sehe schon, ich muss noch viel in Erfahrung bringen.}
 {151}{}{Auf Wiedersehen, Älteste.}
-{152}{aeld13}{Feigheit wird uns alle umbringen! Auch dich. Du hast die Tempel-Proben bestanden. Wir glauben an dich. Wir brauchen dich!}
+{152}{aeld13}{Feigheit wird uns alle umbringen! Auch dich. Du hast die Tempel-Proben bestanden. Wir glauben an dich. Wir brauchen dich.}
 {153}{}{Nicht so schnell, alte Frau. Ich brauche Zeit, um darüber nachzudenken.}
 {154}{}{Dein Wunsch ist mir Befehl, Älteste.}
 {155}{aeld14a}{Du hast uns verraten. Du wirst sterben.}
@@ -61,7 +61,7 @@
 {162}{}{Wünsch mir Glück, Älteste, und ich werde dich nicht enttäuschen.}
 {163}{aeld16}{Suche Vic in Klamath. Wir zählen auf dich.}
 {164}{aeld17}{Schön, dich wiederzusehen, mein Kind. Ich will nicht unhöflich sein, aber ich sehe, dass du die heilige Dreizehn noch nicht gefunden hast. Also lass uns bitte keine Zeit vergeuden. Unser Volk ist in großer Not. Geh und finde die Vault!}
-{165}{}{Ich gehn.}
+{165}{}{Ich gehen jetzt.}
 {166}{}{In Ordnung, ich gehe schon. }
 {167}{}{Ich werde dich nicht enttäuschen, Älteste. }
 {168}{}{Ich bin ja schon dabei, OK?}

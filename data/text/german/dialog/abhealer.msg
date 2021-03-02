@@ -39,6 +39,6 @@
 {707}{}{Danke, Jack. Du bist ein wahrer Retter des Ödlands. Machs gut.}
 {708}{}{Dann solltest du vielleicht lernen, vorsichtiger zu sein. Tut mir leid, ich werde die medizinischen Güter von Abbey nicht einfach so verschenken.}
 {709}{}{Schön, WIEDERSEHEN.}
-{800}{}{Ich kann gerade nicht mit dir sprechen.}
+{800}{}{Ich kann gerade nicht sprechen.}
 {801}{}{Es tut mir leid, ich kann jetzt nicht unterbrechen. Besuch mich später nochmal.}
-{802}{}{Hallo.}
+{802}{}{Hallo nochmal.}

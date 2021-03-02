@@ -48,7 +48,7 @@
 {153}{}{Mit Kuschel konnte ich abends immer viel besser einschlafen.
  Jeden abend, wenn ich versuche einzuschlafen, denke ich an sie.}
 {154}{}{Hört sich schön an.}
-{155}{}{Ja?}
+{155}{}{Mach weiter.}
 {156}{}{Ich hatte sie als ich klein war, aber sie verschwand. Damals wusste ich nicht, was mit ihr passiert war, ich war noch zu klein.}
 {157}{}{Warum?}
 {158}{}{Damals gab es wirklich furchtbar wenig zu essen, und die Menschen mussten ja essen. Es ist wirklich ganz schön traurig...}

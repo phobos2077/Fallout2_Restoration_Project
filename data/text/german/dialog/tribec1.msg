@@ -18,23 +18,25 @@
 {208}{}{Danke, aber wie wär's, wenn du deine Augen weiter nach oben richtest! In Ordnung, großer Kerl?}
 {209}{}{Erspar dir die Komplimente, in Ordnung, Widerling? Ich habe nicht die Absicht, mit dir zu schlafen. Zum
  Teufel, ich will gar nicht mehr mit dir reden. Tschüss.}
-{210}{}{Arroyo, yes, one of the northern tribes. But what of this "certain destruction" you speak of? Your village is well
- fortified by a large canyon, is it not? Surely, you can defend against enemy tribes or raiders.}
+{210}{}{Arroyo, oh ja, einer der nördlichen Stämme. Aber von welcher "sicheren Zerstörung" sprichst du? Dein Dorf ist
+ doch durch eine große Schlucht geschützt, nicht wahr? Sicherlich könnt ihr euch gegen feindliche Stämme und Raider verteidigen.}
 {211}{}{Es ist keine Bedrohung von außen. Mein Stamm stirbt von innen heraus. Wir haben eine schreckliche Dürre
  erlitten, und mein Dorf ist zum Verkümmern und Sterben verurteilt, es sei denn ich finde das heilige G.E.C.K.
  rechtzeitig.}
 {212}{}{Es ist keine Bedrohung von außen. Mein Stamm stirbt von innen heraus. Wir haben eine schreckliche Dürre
  erlitten, und mein Dorf ist zum Verkümmern und Sterben verurteilt, es sei denn wir benutzen das G.E.C.K. das ich
  gefunden habe.}
-{220}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate
- that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact"
- from before the Great Silence. Are you sure your tribe didn't send you on a fool's errand simply to be rid of you?}
-{221}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate
- that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact"
- from before the Great Silence. How can you be so sure the device you found will save your people?}
-{222}{}{Of course not. I successfully conquered the Temple of Trials and earned the highly respected title of the Chosen One.
- That's why I've been given this quest -- because I've proved myself to be the most qualified. Now, what have you read of the
- GECK?}
+{220}{}{Ah, ein Garden-Eden-Creation-Kit, ich habe darüber in alten Texten gelesen [Er lächelt grimmig.] Es ist
+ bedauerlich, Dein Stamm durchlebt schwere Zeiten, aber es ist töricht, all seine Hoffnungen in die Suche nach einem
+ "magischen Artefakt" aus der Zeit vor der "großen Stille" zu setzen. Bist du sicher, dass Dein Stamm dich nicht einfach
+ zum Narren hält, einfach um dich los zu werden?}
+{221}{}{Ah, ein Garden-Eden-Creation-Kit, ich habe darüber in alten Texten gelesen [Er lächelt grimmig.] Es ist
+ bedauerlich, Dein Stamm durchlebt schwere Zeiten, aber es ist töricht, all seine Hoffnungen in die Suche nach einem
+ "magischen Artefakt" aus der Zeit vor der "großen Stille" zu setzen. Wie kannst du so sicher sein, dass das Gerät, dass du
+ gefunden hast, Deine Leute retten wird?}
+{222}{}{Natürlich kann ich das nicht, aber ich habe erfolgreich den Tempel der Erprobung absolviert und mir den
+ hochangesehenen Titel des Auserwählten Wesens verdient. Das ist der Grund für die mir zugewiesene Aufgabe -- ich habe
+ bewiesen, dass ich dafür am besten qualifiziert bin. Also, was hast du über das G.E.C.K. gelesen?}
 {223}{}{Versuchst du mich zu beleidigen? Ich habe dich wissen lassen, dass ich der Auserwählte bin. Entschuldige dich,
  oder ich werde dich zurechtstutzen.}
 {224}{}{Ich bin mir nicht ganz sicher, aber ich habe bereits zu viel riskiert, um jetzt aufzuhören. Egal was es kostet, ich
@@ -48,9 +50,8 @@
  beauftragt worden bin, ist das genau das, was ich zu tun gedenke. Trotzdem, danke für Deinen Hinweis.}
 {232}{}{Eine Vault ausfindig machen, sagst du? Wow, das ist mal ein "großartiger" Ratschlag. Wenn ich das nur vorher
  gewusst hätte. Danke für Deinen Hinweis, mein großer Freund.}
-{240}{}{[He laughs heartily, then, with a speed that seems impossible for a man of his impressive bulk, he brings his spear
- up and takes combat stance.] Chosen One, eh? If a fool like you is the best your tribe has to offer, then their doom seems
- inevitable. Now, either take up your weapon so I can split your skull, or be gone from my sight.}
+{240}{}{[Er lacht herzlich, dann richtet er mit einer Geschwindigkeit, die für einen Mann seiner beeindruckenden Masse unmöglich erscheint, seinen Speer auf und nimmt Kampfhaltung ein.] Auserwähltes Wesen, heh? Wenn ein Dummkopf wie du das Beste ist, was dein Stamm zu bieten hat, dann scheint ihr Untergang
+ unvermeidlich. Nimm jetzt entweder deine Waffe, damit ich deinen Schädel spalten kann oder verschwinde aus meinen Augen.}
 {241}{}{[Er lacht herzlich und gibt Dir dann mit seiner Hand, die in der Lage zu sein scheint, Findlinge zu zertrümmern,
  einen spielerischen Klaps auf den Rücken.] Du hast Feuer in Dir, Mädchen. Ich mag das. Vielleicht sollten wir das
  "Feuer" zu etwas Nützlicherem verwenden, während du hier bist. Was meinst du?}
@@ -77,10 +78,11 @@
 {266}{}{Tut mir leid, aber ich habe überhaupt keine Zeit. Eigentlich sollte ich mich jetzt auf den Weg machen. Tschüss.}
 {267}{}{Niemand fasst mich an, Arschloch! [Angriff]}
 {268}{}{Das hängt davon ab. [Lächelst verführerisch.] Was stellst du Dir denn so vor, mein Großer? [Zwinkerst]}
-{270}{}{[He grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.] Tell me, girl,
- what's your name, and what brings you to our village?}
-{280}{}{[Gladly. [He looks into your eyes and grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.]
- Tell me, girl, what's your name, and what brings you to our village?}
+{270}{}{[Er grinst anzüglich. Trotz seines beängstigendem und rauem Aussehens, besitzt er eine urwüchsige
+ Ausstrahlung.] Sag mir Mädchen, wie heißt dun und was führt dich in unser Dorf?}
+{280}{}{[Mit Vergnügen. [Er schaut dir in die Augen und grinst anzüglich. Trotz seines beängstigendem und rauem
+ Aussehens, besitzt er eine urwüchsige Ausstrahlung.] Sag mir Mädchen, wie heißt du und was führt dich in unser
+ Dorf?}
 {290}{}{[Krom grinst anzüglich und nimmt dich dann in seine mächtigen Arme.]}
 {291}{}{[Du schläfst mit ihm.]}
 {292}{}{MAN! Lass mich los, du hast die falschen Vorstellungen!}
@@ -123,7 +125,7 @@
  ich ein gutes Gefühl bei dir, Mädchen, und ich habe gelernt meinen Instinkten zu vertrauen.}
 {362}{}{In Ordnung. Lass es uns machen.}
 {363}{}{Gut, aber gib mir einen Moment, mich darauf vorzubereiten.}
-{364}{}{Wenn ich dir helfe, was springt dabei für mich heraus.}
+{364}{}{Wenn ich dir helfe, was springt dabei für mich heraus?}
 {370}{}{[Er kichert.] Ich biete Dir die Gastfreundschaft unseres Stammes an und die Chance mich zu beeindrucken. Ich
  verspreche Dir jedoch nichts weiter.}
 {371}{}{In Ordnung. Lass es uns machen.}
@@ -202,16 +204,17 @@
 {473}{}{Gibt es hier irgendwas, womit ich Dir helfen kann?}
 {474}{}{Huch, das ist seltsam. Es scheint, als ob ich vergessen habe, was ich dich fragen wollte. Ich komme zurück,
  wenn ich mich wieder erinnern kann. Tschüss.}
-{480}{}{[He chuckles.] Yes, I suppose I've been through a lot. I come from a tribe far to the north. When I was fifteen,
- we were attacked by savages. I awoke that day as a boy, but by the time the sun set on that grim scene, I had slayed my
- way to manhood. Every man, woman, and child was dead, except for me. Ah, but what's life without battle and strife? It
- either breaks a man, or it forges him into steel. I wear my scars with pride.}
+{480}{}{[Er kichert.] Ja, ich glaube, ich habe eine Menge durchgemacht. Ich stamme von einem Stamm weit im
+ Norden. Als ich 15 war, wurden wir von Wilden überfallen. Ich erwachte an diesem Tag als Junge, aber als die Sonne in dieser düsteren Szene unterging, bin durch das Töten zum Mann geworden. Außer mir waren jeder Mann, jede Frau und jedes Kind tot. Aber, was ist ein Leben schon ohne Kampf und Streit? Entweder bricht
+ es dich oder es formt dich zu Stahl. Ich trage meine Narben mit Stolz.}
 {481}{}{Und, was hast du dann gemacht?}
 {482}{}{Gut, ich glaube, ich habe genug gehört. Lass mich dich was Anderes fragen.}
-{490}{}{I piled the bodies and watched them burn into the night. Then gathered what I could and went wandering. Spent
- time with various tribes; fought many battles. Spent a little time amongst the "civilized" men, but I tired of them quickly.
- Too many honorless dogs hiding behind their guns. I'd rather enjoy a good battle of flesh and steel. I'm not a complicated man.
- Give me battles and feasts, wine and women. What else matters in this grim world?}
+{490}{}{Ich stapelte die Leichen und sah zu, wie sie in die Nacht verbrannten. Danach sammelte ich ein, was ich konnte
+ und ging auf Wanderschaft. Ich hielt mich bei verschiedenen Stämmen auf und kämpfte in viele Schlachten. Ich
+ verbrachte ein wenig Zeit unter den "zivilisierten" Menschen, wurde ihrer aber schnell überdrüssig. Zu viele ehrlose
+ Hunde verstecken sich hinter ihren Waffen. Ich bevorzuge einen guten Kampf zwischen Fleisch und Stahl. Ich bin kein
+ komplizierter Mann. Gib mir Schlachten und Feste zu feiern, Wein und Frauen. Was sonst könnte in dieser düsteren Welt
+ von Bedeutung sein?}
 {491}{}{Also, wie bist du hier gelandet?}
 {500}{}{Ich bin vor einigen Jahren hierher gekommen. Dieser Stamm hat mich aufgenommen und mich gut behandelt.
  Sie boten mir an, ihr oberster Krieger zu sein, was ich offensichtlich angenommen habe. Ich habe mich hier, nahe des
@@ -251,7 +254,7 @@
 {552}{}{Warte, du willst, dass ich durch eine Höhle gehe, die einsturzgefährdet ist? Hmm... Verdammt, mir fällt gerade
  ein, ich muss meinen Stamm retten. Tut mir leid, ich muss los.}
 {560}{}{Hast du Neuigkeiten die vermissten Jäger betreffend?}
-{561}{}{Not yet. I'll keep looking.}
+{561}{}{Noch nicht. Ich halt weiterhin die Augen auf.}
 {562}{}{Ja, ich habe sie in der Höhle gefunden. Sie sind beide tot.}
 {570}{}{[Krom nickt mit grimmigem Gesicht.] Wie denn?}
 {571}{}{Es gab einen Einsturz. Einen erschlugen die herunterstürzenden Felsbrocken, der Andere steckte unter den

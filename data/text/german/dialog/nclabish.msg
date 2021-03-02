@@ -286,7 +286,7 @@
 {735}{}{(Für einen Augenblick wird ihr Ausdruck unsicher, dann rollt sie sich auf die andere Seite, damit du sie nicht sehen kannst.) Sprich nicht von diesem Ort.}
 {736}{}{Was ist passiert?}
 {740}{}{JOHN ist passiert. Ich habe früher dort gelebt. Er kam eines Tages zu Besuch, ich war sehr von ihm angetan, da er so... wild war, vermute ich. Anders als die meisten in Vault City. (Seufzt.) Natürlich hat er mich dieses kleine Ding namens "Jet" versuchen lassen...}
-{741}{}{Oh-oh...}
+{741}{}{Und?}
 {745}{}{Sie hatten dort diese Gedächtnis-Power-PIPBoys. Mit Wörterbüchern und Enzyklopädien drauf. Hab eine Sprach-Powerdisk mitgenommen, als ich wegging, obwohl ich auch nicht weiß, wozu.}
 {746}{}{Wo ist die Powerdisk?}
 {750}{}{*Gähn*...(Rollt sich zusammen.) In meinem Safe. Ohne einen PIPBoy ist sie allerdings nicht viel wert. Keine Ahnung, warum ich sie immer noch aufhebe.}

@@ -9,7 +9,7 @@
 {171}{}{ABRE}
 {172}{}{[ZURÜCK]}
 {180}{}{Danke. Die Kraftfelder sind deaktiviert.}
-{181}{}{[Erledigt]}
+{181}{}{[Fertig]}
 {200}{}{Willkommen im EPA Streichelzoo! Hier haben Sie das Vergnügen, mit diesen einzigartigen Kreaturen zu interagieren, die wie schrecklich deformierte Menschen aussehen! Das ist so, weil diese hässlichen Bestien das Ergebnis von spannenden Versuchen sind, bei denen unsere genialen Wissenschaftler versuchen, Menschen- und Tier-DNS zu kreuzen!}
 {201}{}{[Mehr]}
 {210}{}{Theoretisch könnte uns diese neue Wissenschaft eines Tages erlauben, einen "Übermenschen" zu erschaffen. Stellen Sie sich einen US-Soldaten mit dem Blick eines Adlers, der Geschwindigkeit eines Gepards und der Stärke eines Affen vor! Stellen Sie sich vor, wie dieser "Supersoldat" Angst in den Herzen der Kommunisten erwecken würde! Es klingt wie Science-Fiction, aber es kann bald wissenschaftliche Tatsache sein!}

@@ -277,10 +277,8 @@
 {2007}{}{Danke, Vater. Ich muss jetzt gehen.}
 {2008}{}{Naja, das isch laaaang her. Ich hab das noch nich alles auf d' Reihe bracht. Das war bevor d' Engel Mrs. Wright mich wieder auf 'n rechten Weg brachte. Tja schau, d' Mönche war'n nich sehr erfreut über meine wüssnn Manier'n. Ich un' Bruder Samuel, wir war'n manchmal ssiemlich verrückt. Hehe, einmal Nachts, schlichen Sammy un' ich ssu'n schlafenden Mönchen, un' tauch'n ihre Hände in Schüsseln mit warmen Wasser. Sogar beim Abt! Ha! Das war'n noch Zeiten, ich sag's dir.}
 {2009}{}{Das ist ziemlich kindisch, Vater. Ich denke, sie haben dich wahrscheinlich rausgeworfen?}
-{2010}{}{Right. I've had enough of these amateur drunk stories. See you around, Father.}
-{2011}{}{I dunno if I'd say they *kicked* me out... but they zure as hell didn't want me to stick around--not after that night I passed out and
- axidently set fire to one a th' lieberrys. Boy, you shoulda seen the Abbot's face... if he had half a backbone, he'd a prolly strangled me. Ha! So I
- left, and good riddenze! I sure do miss that hooch though. And Samuel, it'd be nice ta know how that ol' dog's doing.}
+{2010}{}{Richtig. Ich hab genug von diesen Amateur Saufgeschichten. Man sieht sich Vater.}
+{2011}{}{Ich meinn'nich dass s' misch *rausgeworfen* ham... aber sie wollt'n mich dooodsicher nich mehr in ihrer Nähe ham -- nich nach d' Nacht, als ich Ohnmächtig wurd' un' unabsich-lich eins von d' Bücherregale abgefackelt hab. Mann, du hättest 's Gesicht vom Abt sehen soll'n... wenn er 'n bischschen mehr Rügg-grat g'habt hätt, hätt er mich s-sicher auf-hängt. Ha! Drum bin ich abghaun und auf nimmerwiedersehn! Ssicher, der suuper Fus'l fehlt mir sssiemlich. Un' Samuel, es wär' schön zu wiss'n wie's 'm alten Knabn jetz geht.}
 {2012}{}{Ich bin ziemlich viel unterwegs, wenn mich meine Reisen wieder nach Abbey führen, sehe ich vielleicht nach deinem Freund Samuel. Mann, vielleicht bringe ich dir sogar etwas von diesem Fusel.}
 {2013}{}{Ahh, könnsch'de, biitte? Das würd mich glücklicher mach'n als 'ne gesunde Reno Hure. Danke Freund.}
 {2014}{}{Kein Problem. Ich habe aber noch ein paar andere Fragen...}
@@ -295,8 +293,7 @@
 {2025}{}{Hab ich, hab ihn aber schon getrunken. Wow das ist echt hartes Zeug.}
 {2026}{}{Nein, hab ich nicht.}
 {2027}{}{Kein Grund mir's unner d' Nase zu reib'n. Is lange her, seit ich sowas hatte... Ich hätte wirklich gern ein, zwei Flaschen davon. Wäre es möglich, dass du nochmal in Abbey vorbeischaust?}
-{2028}{}{Thatz too bad. Itz been so long since I've had some. I could really go for a bottle or two. Any chance you
- will be stopping by the Abbey again?}
+{2028}{}{Das is sehr schade. Is lange her, seit ich was davon hatte. Ich hätte gern ein, zwei Flaschen davon. Wäre es möglich, dass du nochmal an Abbey vorbeikommst?}
 {2029}{}{Is schon lange her, dass ich davon was hatte. Willst du mit mir teilen?}
 {2030}{}{Wir werden sehen. Falls ich wieder vorbeikomme, werde ich versuchen daran zu denken, dir etwas mitzunehmen. Man sieht sich Vater.}
 {2031}{}{Wahrscheinlich nicht. Also dann, ich muss gehen.}
@@ -320,6 +317,6 @@
 {2064}{}{Ich habe auch noch ne Flasche von dem berühmten Schnaps aus Abbey den du wolltest.}
 {2065}{}{Hehe, guter oller Sam. Das is' gut ssu wiss'n. Irgen'wann sollt'ich mal versuchen wieder hin ssugeh'n.}
 {3000}{}{Du hast sowohl Vater Tully als auch Bruder Samuel über den Verbleib des anderen aufgeklärt.}
-{3001}{}{You deliver a bottle of the Abbey's famous brew to Father Tully.}
+{3001}{}{Du hast eine Flasche des berühmten Schnapses aus Abbey zu Vater Tully gebracht.}
 {3022}{}{Um ehrlich zu sein, er ist tot.}
 {20091}{}{Hah! Das ist klassisch. Ich zog den gleichen Streich mit meinem Neffen Feargus durch, und als er aufwachte und dachte er hat sich angepisst, begann er zu heulen — es war großartig. Wie auch immer, haben sie dich am Ende rausgeschmissen?}

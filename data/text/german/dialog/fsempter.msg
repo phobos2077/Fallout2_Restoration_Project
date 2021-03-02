@@ -18,7 +18,7 @@
 {117}{}{[Hack dich in den Computer]}
 {118}{}{[Geh]}
 {119}{}{Eindringling in System. Alarm. Sitzung wird beendet. Auf Wiedersehen.}
-{120}{}{[Erledigt]}
+{120}{}{[Fertig]}
 {121}{}{Diagnosefunktionen?}
 {122}{}{Netzwerk durchsuchen.}
 {123}{}{Festplatte formatieren.}
@@ -66,7 +66,7 @@
 {165}{}{Ja.}
 {166}{}{Nein.}
 {167}{}{Formatierung wird durchgeführt... Formatierung abgeschlossen. Neustart erfordert komplette Installation. System wird heruntergefahren... Beendet...}
-{168}{}{[Erledigt]}
+{168}{}{[Fertig]}
 {169}{}{Daten für: - Botanikprogramm - Genetikprogramm - Xeno-Programm.}
 {170}{}{Botanikprogramm.}
 {171}{}{Genetikprogramm}
@@ -96,9 +96,9 @@
 {195}{}{(Nachdem du dich durch die Symbolik und die technischen Abhandlungen gekämpft hast, entdeckst du, dass die Shi an einer neuen feuer- und waffensicheren Polymer-Kampfrüstung arbeiten. Sie sind noch meilenweit von der Vollendung entfernt. Es ist außerdem von neuen Waffen und Konstruktionsmöglichkeiten die Rede. Anscheinend haben die Shi so manche Zukunftspläne.}
 {196}{}{Zurück.}
 {197}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
-{198}{}{[Erledigt]}
+{198}{}{[Fertig]}
 {199}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
-{200}{}{[Erledigt]}
+{200}{}{[Fertig]}
 {201}{}{Physikdatenbank: Forschung - Theorie}
 {202}{}{Erkundung.}
 {203}{}{Theorie.}
@@ -243,7 +243,7 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivdat
                      Achtung: Es konnte keine Verbindung zu externen Diensten hergestellt werden.}
 {421}{}{Das ist enttäuschend...}
 {430}{}{Durchsuche lokale Laufwerke...}
-{431}{}{[Weiter]}
+{431}{}{[FORTSETZEN]}
 {440}{}{Eine zugängliche Datei gefunden. [Anscheinend sind die meisten Archivdateien beschädigt.
  Allerdings findet der Hauptrechner eine intakte Datei.]}
 {441}{}{Persönliches Tagebuch: Li Ye, Admiral, Kapitän}

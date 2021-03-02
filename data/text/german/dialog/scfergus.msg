@@ -14,7 +14,7 @@
 {113}{}{Ich möchte gerne zu Präsidentin Tandi.}
 {114}{}{Ich möchte gerne zu Präsidentin Tandi.}
 {115}{}{Ich suche Arbeit.}
-{116}{}{Was ist das alles hier?}
+{116}{}{Was ist das für ein Ort?}
 {117}{}{Das geht nicht.}
 {118}{}{Ich weggehn.}
 {119}{}{Tu mir leid, hier gibt es keine öffentlichen Toiletten. Am besten, du gehst gleich wieder.}

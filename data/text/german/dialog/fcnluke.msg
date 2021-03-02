@@ -11,7 +11,7 @@
 {109}{}{Was meinen?}
 {110}{}{Was meinst du denn damit?}
 {111}{}{Du ziehst die Aufmerksamkeit vieler Leute auf dich. Du solltest vorsichtig sein.}
-{112}{}{Ja?}
+{112}{}{Mach weiter.}
 {113}{}{Sprich weiter, ich hör dir zu.}
 {114}{}{Ich habe für heute genug gesagt. Ich glaube, du solltest dich jetzt um deine
  Angelegenheiten kümmern.}

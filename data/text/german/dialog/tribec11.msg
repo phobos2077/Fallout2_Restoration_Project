@@ -14,7 +14,7 @@
 {300}{}{Warum du so beeilen? Du was gefunden?}
 {301}{}{Ja, ich habe die vermissten Jäger gefunden. Einer ist tot der andere lebt, ist jedoch schwer verletzt. Ich brauche deine Hilfe. Du musst ihn raus und zum Schamanen bringen. Ich werde bei dem Schamanen warten, während du den Jäger rettest.}
 {302}{}{Stammesbruder braucht Hilfe? Ich helfen. In Höhle? Ich komme!}
-{303}{}{[Erledigt]}
+{303}{}{[Fertig]}
 {400}{}{Danke für helfen Serin. Er guter Krieger. Du Freund von Stamm.}
 {401}{}{Danke, also ich muss weiter.}
 {402}{}{Hallo Freund. Was brauchen?}

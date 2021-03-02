@@ -27,7 +27,7 @@
 {126}{}{Ja. Meine Mama sagt mir immer, wo ich hin darf und wo nicht. Sie sagt mir, wo ich spielen darf, wann ich essen muss, wann ich schlafen gehn oder auf Toilette soll, wann ich zur Schule muss und alles. Ich find es ungerecht, dass sie tun darf, was sie will und ich immer das tun muss, was sie sagt.}
 {127}{}{OK.}
 {128}{}{Ich gehn muss.}
-{129}{}{Verstehe.}
+{129}{}{Ich verstehe.}
 {130}{}{Ich glaub, ich hab genug gehört. Tschüss.}
 {131}{}{Glaub schon. Ich hätt gern Spielkameraden. Aber Mama sagt, das ändert sich bald. Sie meint, dass andere Kinder hierher ziehen. Bis dahin spiel ich gern mit Valdis. Er ist lustig und spielt mit mir Hoppereiter. Mama sagt, ich soll Valdis in Ruhe lassen. Er ist beschäftigt und hat keine Zeit zum Spielen. Aber er spielt immer mit mir, wenn ich ihn frage. Ich erzähl es Mama aber nicht mehr.}
 {132}{}{Hoppe-... (Verwirrter Welpenblick)}

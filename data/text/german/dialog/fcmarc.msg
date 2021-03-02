@@ -6,7 +6,7 @@
 {105}{}{Was tun kann für dich?}
 {106}{}{Uuh! Uuh! Aah!}
 {107}{}{Wer bist du?}
-{108}{}{Was ist das alles hier?}
+{108}{}{Was ist das für ein Ort?}
 {109}{}{Wer ist hier der Anführer?}
 {110}{}{Nichts. Tschüss.}
 {111}{}{Hmm. Nee, ich kann dir leider nicht weiterhelfen. Vielleicht solltest du's bei jemand anderem versuchen.}

@@ -69,12 +69,12 @@
 {300}{}{Mein Vater hat mir beigebracht, wie man besonders stabile Klingen macht. Hol mir ein Stück Feuerstein, dann optimier ich auch deinen Speer. In der Wildnis wirst du ihn brauchen.}
 {301}{}{Wo finde ich Feuerstein?}
 {302}{}{Man sagt, deine Tante Morlis hat einen Vorrat. Sie ist so schlecht gelaunt, dass sie bestimmt noch niemand gefragt hat. Aber die Hexe will bestimmt etwas dafür haben.}
-{303}{}{Vielen Dank. Auf Wiedersehn.}
+{303}{}{Danke. Auf Wiedersehn.}
 {304}{}{Hast du Feuerstein von deiner Tante bekommen?}
 {305}{}{Ja, hier hab ich was.}
 {306}{}{Noch nicht.}
 {307}{}{Das ist ein schönes Stück. Gib mir deinen Speer.}
-{308}{}{Bitte.}
+{308}{}{Bitte schön.}
 {309}{}{Ich glaub, ich hab keinen.}
 {310}{}{Jetzt machst du das mit den Stücken so...}
 {311}{}{Das Auserwählte Wesen ohne Speer? Dann musst du einen von meinen nehmen. Und jetzt lass uns an die Arbeit gehen...}
@@ -88,12 +88,12 @@
 {404}{}{Es läuft nicht besonders gut, Auserwähltes Wesen. Die Dürre wird immer schlimmer und unsere Ernte wird mit Sicherheit ausfallen. Wir versuchen zu retten, was zu retten ist, um unsere Nahrungsvorräte anzulegen.}
 {405}{}{Warum nicht Handel mit anderen Dörfern?}
 {406}{}{Ich mein bestes tun. Ich werden GECK finden. Kommen zurück.}
-{407}{}{Warum können wir nicht mit anderen Dörfern handeln, um Nahrungsmittel zu bekommen?}
+{407}{}{Warum können wir nicht mit anderen Dörfern handeln, um die nötigen Nahrungsmittel zu bekommen?}
 {408}{}{Ich tue mein bestes. Wenn ich das GECK gefunden habe, komme ich zurück.}
 {409}{}{Wir sind ein kleines Volk und können nicht viel zum Handeln anbieten. Die wenigen Städte, mit denen wir während deiner Abwesenheit Kontakt aufgenommen haben, haben kein Interesse daran, uns zu helfen.}
 {410}{}{Ich verstehn.}
-{411}{}{Verstehe.}
-{412}{}{Du bist unsere letzte Hoffnung, Auserwähltes Wesen. Lass uns nicht im Stich.}
+{411}{}{Ich verstehe.}
+{412}{}{Du bist unsere letzte Hoffnung, Auserwähltes Wesen. Lass uns nicht im Stich!}
 {413}{}{Gut dich zu sehen, Auserwähltes Wesen. Was macht deine Suche?}
 {414}{}{Ich noch suchen.}
 {415}{}{Ich suche noch.}
@@ -103,10 +103,10 @@
 {419}{}{Nein, ich noch suchen.}
 {420}{}{Nein, ich suche noch immer.}
 {421}{}{Wie läuft es?}
-{422}{}{Tut mir leid, Auserwähltes Wesen, aber allmählich hab ich kein Vertrauen mehr. Das Leben unseres Volkes liegt in deinen Händen. Bitte finde die Heilige Dreizehn und komm mit dem GECK zurück! }
+{422}{}{Tut mir leid, Auserwähltes Wesen, aber allmählich hab ich kein Vertrauen mehr. Die ganzen Leben unseres Volkes liegen in deinen Händen. Bitte finde die Heilige Dreizehn und komm mit dem GECK zurück! }
 {423}{}{Unsere Ernte bleibt aus, die Brahmin sterben, alle leiden Hunger. Die Schreie der Kinder in der Nacht halten uns wach. Unser Volk ist am verzweifeln.}
 {424}{}{Ich weiter suchen.}
-{425}{}{Ich tu, was ich kann.}
+{425}{}{Ich werde tun, was ich kann.}
 {426}{}{Wiedereinmal kehrst du zurück, Auserwähltes Wesen. Doch nicht mit leeren Händen, hoffe ich?}
 {427}{}{Tut leid, ich GECK noch nicht finden.}
 {428}{}{Tut mir leid, ich habe das GECK noch nicht gefunden.}
@@ -127,12 +127,12 @@
 {611}{}{[Mynoc murmelt etwas vor sich hin und schüttelt den Kopf, bevor er mit seiner Geschichte beginnt.] Wie du wissen solltest, war er einst der größte Krieger unseres Stammes. Er führte viele Expeditionen in die Welt außerhalb an und dort war es auch, wo die Verderbnis anfing seinen Geist zu vergiften.}
 {612}{}{Er wurde vom Pfad der Outsider geblendet, wo Macht jedem großen Respekt und Luxus bringen konnte. Er begann, sich als höherstehend als seine Stammesbrüder anzusehen, die zufrieden damit waren, ein einfaches Leben zu führen.}
 {613}{}{Was für ein Saftsack.}
-{614}{}{Ja?}
+{614}{}{Mach weiter.}
 {615}{}{Als für unseren Stamm schwere Zeiten anbrachen, hielt er sich für den Retter unserer Leute und ging in den Tempel der Erprobung, um sich zu bewähren, um das Auserwählte Wesen zu sein.}
-{616}{}{Ja?}
+{616}{}{Mach weiter.}
 {617}{}{Vergiss es, ich will diese Geschichte nicht mehr hören. Tschüss.}
 {618}{}{Er machte seinen Weg durch den Tempel und schnell erreichte er den letzten Test: ein Faustkampf gegen einen Krieger.}
-{619}{}{Ja?}
+{619}{}{Mach weiter.}
 {620}{}{Warte, er sprengte also die Tür und alles? Lassen wir immer wieder jemanden das Ganze wieder zusammenbauen, wenn jemand durch den Tempel durchgeht? Wenn wir schon dabei sind, wer hat den Tempel als erstes erbaut?}
 {621}{}{Ich habe keine Zeit, all deine albernen Fragen zu beantworten. Willst du, dass ich die Geschichte zu Ende erzähle oder nicht?}
 {622}{}{Tut mir leid. Bitte fahr fort.}

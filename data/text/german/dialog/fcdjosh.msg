@@ -13,7 +13,7 @@
 {110}{}{Was meinst du denn damit?}
 {111}{}{Sagen wir einfach, du bist neu hier und du hast keine Ahnung, was in der Nachbarschaft
  so passiert. Und es passiert eine ganze Menge mehr als deine kleine Odyssee...}
-{112}{}{Ja?}
+{112}{}{Mach weiter.}
 {113}{}{Sprich weiter, ich hör dir zu.}
 {114}{}{Ich habe für heute genug gesagt. Ich glaube, du solltest dich jetzt um deine
  Angelegenheiten kümmern.}

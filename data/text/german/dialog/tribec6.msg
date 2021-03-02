@@ -4,9 +4,9 @@
 {103}{}{Wen du bewachen?}
 {104}{}{Wiedersehn!}
 {110}{}{Ich bewache unseren heiligen Stammesführer. Er, der mit den Seelen wandert. Eine Ehre ihn zu bewachen. Ich halte Unerwüchte, wie dich, von ihm fern. Nun geh.}
-{111}{}{[Erledigt]}
+{111}{}{[Fertig]}
 {120}{}{Ich sagte doch, du sollst gehen, aber du hörst einfach nicht. Ich setze die Geister der Raserei frei, wenn die Leute nicht hören wollen. Nimm die Beine in die Hand und verschwinde.}
-{121}{}{[Erledigt]}
+{121}{}{[Fertig]}
 {130}{}{Hab von deinen guten Taten gehört. Vergib mir, dass ich so ein Rüpel war, Freund. Geh hinein, er wartet schon auf dich.}
 {131}{}{Hab von deinen guten Taten gehört, Freund. Geh hinein, er wartet schon auf dich.}
 {132}{}{Danke.}

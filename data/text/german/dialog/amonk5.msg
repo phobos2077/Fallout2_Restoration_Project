@@ -38,8 +38,8 @@
 {425}{}{Kein Problem, ich hab noch ein paar andere Fragen.}
 {426}{}{Jederzeit. Ok, man sieht sich.}
 {430}{}{Ich hab etwas über Botanik herausgefunden, was dich interessieren könnte.}
-{431}{}{Wirklich?! Das ist großartig. Bitte, zeigs mir, schnell!}
-{432}{}{Faszinierend, ich werde diese Holo-Disk sofort auf den Computer kopieren. Ich danke dir das du dir die Zeit genommen hast das für mich zu finden. Vielen Dank!}
+{431}{}{Wirklich?! Das ist großartig. Bitte, erzähl mir schnell davon.}
+{432}{}{Faszinierend! Ich werde diese Holo-Disk nehmen und sie sofort zur Computerdatenbank hinzufügen. Ich danke dir, dass du dir die Zeit genommen hast, um das für mich zu finden. Vielen Dank, dass du das gesammelt hast!}
 {433}{}{Siehst du... um die Lebensraumzerstörung und Artenausrottung zu verstehen, ist man auf einen akkuraten und kompletten Pflanzen- und Taxonomiekatalog angewiesen. Und das bedeutet dann, dass...}
 {434}{}{Jederzeit. Ich hab noch ein paar andere Fragen.}
 {435}{}{Kein Problem, wir sehn uns.}

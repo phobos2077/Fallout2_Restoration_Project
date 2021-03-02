@@ -46,7 +46,7 @@
 {136}{}{Also gut.}
 {137}{}{He du! Was machst du denn da? Hau bloß hier ab!}
 {138}{}{Du wirst deine Waffen jetzt hinlegen, Alter.}
-{139}{}{You again? Do you need something?}
+{139}{}{Du schon wieder? Brauchst du etwas?}
 {140}{}{Schau mich nur 'n bisschen um.}
 {141}{}{Ähm...eigentlich nicht, danke.}
 {142}{}{Ja. Ich bin hier, um mit deinen Gefangenen zu sprechen.}

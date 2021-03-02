@@ -46,7 +46,7 @@
 {151}{}{Riesige Mutanten mit Waffen so groß wie du und ich kamen aus dem Süden. Mutter sagte, es sah aus wie eine Völkerwanderung oder so etwas.}
 {152}{}{Wie viele?}
 {153}{}{Weiß nicht, aber es waren verschiedene Gruppen. Einige zogen weiter nach Norden, andere nach Osten. Keiner wusste, wohin sie gingen.}
-{154}{}{Ja?}
+{154}{}{Mach weiter.}
 {155}{}{Sie waren recht aufgebracht und schienen vor irgendwas zu fliehen.}
 {156}{}{Wirklich?}
 {157}{}{Ja, dann waren da noch andere in dreckigen, zerrissenen, purpurnen Gewändern. Sie faselten dauernd etwas von einem toten Meister...}

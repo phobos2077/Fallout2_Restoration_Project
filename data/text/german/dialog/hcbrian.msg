@@ -5,7 +5,7 @@
 {104}{}{Was willste?}
 {105}{}{Aahhrg, aaahrg.}
 {106}{}{Wer bist du?}
-{107}{}{Was ist das alles hier?}
+{107}{}{Was ist das für ein Ort?}
 {108}{}{Schon mal was von einem GECK gehört?}
 {109}{}{Hör mal, Eric fragt, ob er mehr Strom zugeteilt bekommen kann. Er sagt, dass er zuviel schwitzt.}
 {110}{}{He, Eric ist überglücklich in seinem kühlen Haus. Und mir fällt auf, dass der Strom für die Stadt auch nicht ausgefallen ist.}

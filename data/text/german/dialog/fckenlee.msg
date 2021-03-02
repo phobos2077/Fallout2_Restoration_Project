@@ -6,7 +6,7 @@
 {105}{}{Was kann ich für dich tun?}
 {106}{}{Du?}
 {107}{}{Wer bist du?}
-{108}{}{Was ist das alles hier?}
+{108}{}{Was ist das für ein Ort?}
 {109}{}{Ich bin auf der Suche nach einigen Vermissten aus meinem Dorf.}
 {110}{}{Ich brauche Benzin.}
 {111}{}{Ich möchte mit dem Kaiser sprechen.}
@@ -37,10 +37,10 @@
 {136}{}{Ja.}
 {137}{}{Nein. Ich musste in den letzten Monaten genug Prüfungen bestehen. Das reicht für den Rest meines Lebens. }
 {138}{}{Ich glaube kaum, dass der Kaiser dich zu sehen wünscht. Ich habe Befehl, niemanden einzulassen, der mir auf die Nerven geht oder das Böse ausdünstet. Du tust beides, Fremdling, also: guten Tag!}
-{139}{}{[Erledigt]}
+{139}{}{[Fertig]}
 {140}{}{Mit Beleidigungen erreichst du gar nichts, Fremder, man wird dich höchstens aus dem Palast werfen. Also hüte deine Zunge.}
 {141}{}{Das hättest du wohl gern!}
-{142}{}{Wie du willst.}
+{142}{}{Fein.}
 {143}{}{Der Kaiser ist neugierigen Augen verborgen. Meine Aufgabe ist es, den Kaiser abzuschirmen, daher kann und werde ich dir nicht sagen, wo er ist. }
 {144}{}{Ich habe noch weitere Fragen.}
 {145}{}{Tschüss.}
@@ -55,7 +55,7 @@
 {154}{}{Nein. Mein richtiger Name ist}
 {155}{}{Das ist der einzige Name, den du wissen musst, Alter.}
 {156}{}{Das ist ganz und gar unmöglich. Auf Wiedersehen.}
-{157}{}{[Erledigt]}
+{157}{}{[Fertig]}
 {158}{}{Halte mich nicht für einfältig! Ich kenne mich aus im Geschäft. Ich bin schon einmal nach New Reno gereist.}
 {159}{}{OK, mein Name ist}
 {160}{}{Das ist mein richtiger Name! Und nun lass mich mit dem Kaiser sprechen!}

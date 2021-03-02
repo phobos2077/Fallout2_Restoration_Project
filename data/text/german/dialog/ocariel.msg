@@ -4,7 +4,7 @@
 {103}{}{Hallo, Ich bin Ariel. Ich glaube, ich hab dich hier noch nie gesehen. Wer bist du?}
 {104}{}{Ich}
 {105}{}{Äh... du sehn traurig aus. Warum?}
-{106}{}{Ich gehn.}
+{106}{}{Ich gehen jetzt.}
 {107}{}{Hallo, Ariel, ich heiße }
 {108}{}{Hi, du siehst so niedergeschlagen aus. Was ist los?}
 {109}{}{Mein Name ist unwichtig, aber ich brauch einige Informationen von dir.}
@@ -41,7 +41,7 @@
 {140}{}{Nein, ich kann jederzeit gehn. Die Deathclaws haben mir das ausdrücklich gesagt. Sie halten hier niemanden gegen seinen Willen fest, soweit ich weiß.}
 {141}{}{Oh, ok.}
 {142}{}{Verstanden. Ich gehn.}
-{143}{}{Verstehe.}
+{143}{}{Ich verstehe.}
 {144}{}{Ich glaub du lügst, du Ziege.}
 {145}{}{Verstehe. Wenn es dir nichts ausmacht, würd ich dir gern noch ein paar Fragen stellen.}
 {146}{}{Ja. Sie geben mir Nahrung, Wasser, Unterkunft und Schutz. Ich fühl mich hier sicher und das ist mehr, als ich verlangen kann.}

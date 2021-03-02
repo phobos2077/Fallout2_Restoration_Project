@@ -32,7 +32,7 @@
 {291}{}{[Ende]}
 {300}{}{Also, wie bist du in diese Kryokammer gekommen? Und was ist mit deinen Zähnen geschehen?}
 {301}{}{Ich war einer der Wächter des Genlabors. Sie experimentierten mit so nem Zeug herum. Wie hieß das doch gleich? FE...D? FEZ? Na ja, was auch immer es war, sie suchten einen Freiwilligen für eines ihrer Projekte. Es war für Kundschafter und ähnliche Leute gedacht. Damit sollte man schneller und beweglicher werden. Hörte sich gut an. Jedenfalls gaben sie mir eine Spritze die mich sofort umhaute. Das nächste an das ich mich erinnern kann war, dass ich plötzlich diese Zähne hatte und mich schärfer fühlte...irgendwie raubtierhaft.}
-{302}{}{Ja?}
+{302}{}{Mach weiter.}
 {303}{}{Nun, anscheinend verlief das Experiment nicht wie geplant und was auch immer sie mir injiziert haben, vertrug sich nicht mit meinem Körper. Ich weiß nicht genau was sie damit meinten, denn ich persönlich fühlte mich besser denn je. Sie entschieden sich, mich in die Kammer zu stecken bis sie herausgefunden hatten was sie mit mir tun sollten.}
 {304}{}{Und dann hab ich dich aufgetaut. Scheint so als würdest du jetzt mir gehören.}
 {305}{}{Yeah, du hast mich gerettet. Als Gegenleistung könnte ich vielleicht deinen Sinn für Stil bewahren, Affe.}

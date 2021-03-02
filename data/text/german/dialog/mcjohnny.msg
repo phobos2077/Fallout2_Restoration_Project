@@ -11,12 +11,12 @@
 {157}{}{Wie heißt du, Kleiner?}
 {158}{}{Sag mir deinen Namen, du kleines Monster.}
 {159}{}{Möchtest du was Süsses, Kleiner?}
-{160}{}{Hallo.}
+{160}{}{Hallo nochmal.}
 {161}{}{Heißt du Jonny?}
 {162}{}{Wie heißt du, Kleiner?}
 {163}{}{Sag mir deinen Namen, du kleines Monster.}
 {164}{}{Möchtest du was Süsses, Kleiner?}
-{165}{}{Hallo.}
+{165}{}{Hallo nochmal.}
 {166}{}{Deine Eltern haben mich geschickt, damit ich dich finde.}
 {167}{}{Möchtest du was Süsses, Kleiner?}
 {168}{}{Hast du schon mit Vegeir gesprochen, ob ich heim darf?}

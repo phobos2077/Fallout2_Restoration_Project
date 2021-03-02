@@ -37,7 +37,7 @@
 {302}{}{Nicht jetzt. Ich muss dich noch was Anderes fragen.}
 {303}{}{Nein. Ich muss weg.}
 {310}{}{Sicher, was möchtest du wissen? Ich hoffe es geht um Toast.}
-{311}{}{Was ist das alles hier?}
+{311}{}{Was ist das für ein Ort?}
 {312}{}{Schon gut. Tschüss.}
 {350}{}{Hey! Du hast mich repariert! Ich wusste dass Mr. Handy seine Arbeit unerledigt ließ. Jetzt fühl ich mich besser denn je! Danke.}
 {351}{}{Sicherlich, das ist das was ich tue. Bis später.}

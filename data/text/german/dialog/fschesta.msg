@@ -15,7 +15,7 @@
 {114}{}{[Hack dich in den Computer]}
 {115}{}{[Geh]}
 {116}{}{Eindringling in System. Alarm. Sitzung wird beendet. Auf Wiedersehen.}
-{117}{}{[Erledigt]}
+{117}{}{[Fertig]}
 {118}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, dass die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend  haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
 {119}{}{(Du entdeckst eine unglaubliche Masse komplexer chemischer Formeln und Laboraufzeichnungen. Du weißt nicht genau, was das alles zu bedeuten hat.}
 {120}{}{Leite Benzin zum Poseidon-Tanker.}
@@ -24,9 +24,9 @@
 {123}{}{(Nachdem du dich durch die Symbolik und die technischen Abhandlungen gekämpft hast, entdeckst du, dass die Shi an einer neuen feuer- und waffensicheren Polymer-Kampfrüstung arbeiten. Sie sind noch meilenweit von der Vollendung entfernt. Es ist außerdem von neuen Waffen und Konstruktionsmöglichkeiten die Rede. Anscheinend haben die Shi so manche Zukunftspläne.}
 {124}{}{Zurück.}
 {125}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
-{126}{}{[Erledigt]}
+{126}{}{[Fertig]}
 {127}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
-{128}{}{[Erledigt]}
+{128}{}{[Fertig]}
 {129}{}{Station deaktiviert.}
 {130}{}{Aktiviere Station.}
 {131}{}{[Geh]}

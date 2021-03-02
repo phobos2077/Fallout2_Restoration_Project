@@ -104,7 +104,7 @@
 {212}{}{Alles klar. hier sind die Waffen.}
 {213}{}{Nein, ich habe mich dagegen entschieden. Auf Wiedersehen.}
 {214}{}{Unbezahlbar? Ich weiß wie der Kapitalismus läuft, steigt die Nachfrage steigt auch der Preis!}
-{215}{}{[Erledigt]}
+{215}{}{[Fertig]}
 {216}{}{[ANGRIFF]}
 {217}{}{Hör zu, mit Vault City einen Krieg zu beginnen ist keine Lösung. Sicher, ihr seid vielleicht in der Lage,
  sie für Monate oder sogar Jahre abzuwehren, aber ihr könnt sie nicht besiegen. Und in der Zwischenzeit verliert

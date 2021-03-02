@@ -13,7 +13,7 @@
 {112}{}{Man hat mir gesagt, ich sollte dich mal auf eine gewisse Mutanten-Angelegenheit ansprechen.}
 {113}{}{Tschüss.}
 {114}{}{::Er sieht plötzlich angewidert aus:: Hau ab. Ich hab keine Zeit für dich.}
-{115}{}{[Erledigt]}
+{115}{}{[Fertig]}
 {116}{}{Alchemistenladen. Es ist ein Alchemistenladen. He, brauchst du irgendwas?}
 {117}{}{Du schon wieder? Brauchst du etwas?}
 {118}{}{Ja!}
@@ -21,7 +21,7 @@
 {120}{}{Na prima. Mal sehen, was du willst.}
 {121}{}{[Mehr]}
 {122}{}{Dann geh jetzt.}
-{123}{}{[Erledigt]}
+{123}{}{[Fertig]}
 {124}{}{Na also, fertig. Danke für den Tip. Jetzt geh bitte.}
 {125}{}{OK!}
 {148}{}{Warum sagst du mir nicht erst mal, was du von Mutanten hältst?}
@@ -41,7 +41,7 @@
 {162}{}{Toll. Bis dann.}
 {163}{}{Tschüss.}
 {164}{}{Er herrscht hier schon, seit der Meister überwältigt wurde und unterwirft alle, die anders als er denken...manche verschwinden einfach. Oberflächlich betrachtet wirkt hier alles zivilisiert, aber im Grunde ist es nichts weiter als ein Schlachtfeld für blutrünstige Mutanten. Der Freund eines Freundes hatte einen Freund, der ist verschwunden, nachdem er den Mund aufgemacht hat.}
-{165}{}{Ja?}
+{165}{}{Mach weiter.}
 {166}{}{Das reicht. Du bist ja verrückt. Auf Wiedersehen.}
 {167}{}{Wir machen uns alle vor, dass wir in einer zivilisierten Stadt leben, dass es uns richtig gut geht,...aber wir leben ständig in Angst vor dem Zorn des Mutanten. Jeden Tag gibt es hier weniger Menschen.}
 {168}{}{Alle Mutanten, die ich kenne, sehen alt und gebrechlich aus.}
@@ -98,7 +98,7 @@
 {266}{}{Ja.}
 {267}{}{Nein, ich mach's wohl doch.}
 {268}{}{Ich kann dich glaub ich verstehen. Und du verstehst mich hoffentlich auch, wenn ich dir sage, du sollst mir aus den Augen gehen. Verräter.}
-{269}{}{[Erledigt]}
+{269}{}{[Fertig]}
 {270}{}{Bist du bereit, den Plan auszuführen?}
 {272}{}{Ja. Auf geht's.}
 {273}{}{Ich hab mich anders entschieden. Ich will nicht.}
@@ -142,6 +142,6 @@
 {311}{}{Ich hab noch ein paar Fragen.}
 {312}{}{Nichts, vergiss es.}
 {313}{}{Danke.}
-{314}{}{[Weiter]}
+{314}{}{[FORTSETZEN]}
 {315}{}{Hallo, Freund! Danke, dass du geholfen hast, unsere Freunde aus der Patsche zu holen. Jetzt hast du was bei mir gut.}
 {316}{}{Danke.}

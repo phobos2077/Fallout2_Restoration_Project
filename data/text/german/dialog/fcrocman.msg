@@ -61,7 +61,7 @@
 {184}{}{Alles klar. Tschüss.}
 {185}{}{Du hast die Pläne? Großartig! Jetzt brauchen wir nur noch Treibstoff! Die Shi haben
  Massen davon. Versuch mal, ob du nicht welches abzweigen kannst. Viel Glück, Rekrut!}
-{186}{}{[Erledigt]}
+{186}{}{[Fertig]}
 {187}{}{Dann wirst du sie wohl holen müssen. Wenn du mich jetzt entschuldigst, Genosse, ich muss
  das Schiff weiter für die monumentale Reise vorbereiten. }
 {188}{}{Ich habe die Pläne für die Vertibirds.}

@@ -17,7 +17,7 @@
 {114}{}{Oh... guten Tag! Kann ich dir in irgendeiner Weise behilflich sein?}
 {115}{}{Fras-ser-pluh!}
 {116}{}{Verzieh dich}
-{117}{}{Was ist das alles hier?}
+{117}{}{Was ist das für ein Ort?}
 {118}{}{Tut mir leid, dass ich euch gestört habe.}
 {119}{}{Äh... wie bitte?}
 {120}{}{Immer an der Wand lang, immer an der Wand, an der Wand entlang.}
@@ -38,7 +38,7 @@
 {132}{}{Dann frag ich da wohl mal nach.}
 {133}{}{Da bist du ja wieder. Suchst du was? Brauchst du jemanden, der dir hilft?}
 {134}{}{Aber gewiss doch. Was möchtest du gerne wissen?}
-{135}{}{Was ist das alles hier?}
+{135}{}{Was ist das für ein Ort?}
 {136}{}{Weißt du, wo ich ein GECK finden kann?}
 {137}{}{Weißt du vielleicht, wo ich die Vault finden kann?}
 {138}{}{Heute nichts, danke.}

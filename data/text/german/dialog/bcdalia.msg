@@ -6,7 +6,7 @@
 {105}{}{Äh, wer du?}
 {106}{}{Was du machen hier?}
 {107}{}{Du sehen aus wie Wache.}
-{108}{}{Ich gehn.}
+{108}{}{Ich gehen jetzt.}
 {109}{}{Ich wollte nur mal Hallo sagen.}
 {110}{}{Wer bist du?}
 {111}{}{Was machst du?}
@@ -53,7 +53,7 @@
 {152}{}{Interessiert mich einen Sch... tut mir leid. Ich hab den Auftrag, hier zu stehen und diesen Pfad zu bewachen. Sonst weiß ich nicht, was hier los ist. Ich hatte auch mal eine Tochter und... ja, hier ist jemand vorbeigekommen. Ich hab ihn passieren lassen, weil er das richtige Zeichen kannte... so wie das Zeichen, das du gemacht hast. Geh weiter; ich verzieh mich.}
 {153}{}{Danke. Ich nicht vergessen, Dalia.}
 {154}{}{Danke. Das werde ich dir nie vergessen, Dalia.}
-{155}{}{Dann geh zum Teufel und lass mich hier in Ruhe.}
+{155}{}{Dann geh zur Hölle und lass mich in Ruhe.}
 {156}{}{Fertig.}
-{157}{}{Dann geh zum Teufel und lass mich hier in Ruhe.}
+{157}{}{Dann geh zur Hölle und lass mich in Ruhe.}
 {158}{}{Fertig.}

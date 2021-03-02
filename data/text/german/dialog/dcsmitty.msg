@@ -94,7 +94,7 @@
 {481}{}{Äh, ja.}
 {482}{}{Wahrscheinlich nicht.}
 {490}{}{Da haste wahrscheinlich recht. Ich habe mich hier irgendwie eingelebt.}
-{491}{}{Verstehe.}
+{491}{}{Ich verstehe.}
 {500}{}{Ja, vielleicht. Ich bin hier sehr bequem geworden.}
 {501}{}{Ich verstehe.}
 {510}{}{Ich würd das Auto schon verkaufen. Wenn mir jemand die Batterie gibt, oder nein, ich

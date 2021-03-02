@@ -25,7 +25,7 @@
 {124}{}{Was gibt es?}
 {125}{}{Kan ig di hälfn}
 {126}{}{Verzieh dich}
-{127}{}{Was ist das alles hier?}
+{127}{}{Was ist das für ein Ort?}
 {128}{}{Zeigst du mir, was du im Angebot hast?}
 {129}{}{Heute nichts, danke.}
 {130}{}{Toll, noch so'n Outsider... Wache! Hier ist ein Outsider, der gerne zum Ausgang geleitet

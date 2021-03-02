@@ -69,7 +69,7 @@
  Sklavenhändler und schmuggeln die Ware in in Süden, in das Gebiet der NCR, wo Sklaverei verboten
  ist. Also, wie steht's, bist du interessiert?}
 {153}{}{Da gibt es kein "Und"! Willst du den Job, oder willst du ihn nicht?}
-{154}{}{Oh-oh...}
+{154}{}{Und?}
 {155}{}{Also, was soll ich machen?}
 {156}{}{Schön. Wenn du die Karte hast - du findest mich hier.}
 {157}{}{Wo finde ich denn so eine Karte?}

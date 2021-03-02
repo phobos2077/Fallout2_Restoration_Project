@@ -7,29 +7,29 @@
 {106}{}{Weiß nich.}
 {107}{}{Ich habe etwas, das veredelt werden soll.}
 {108}{}{Wer bist du?}
-{109}{}{Was ist das alles hier?}
+{109}{}{Was ist das für ein Ort?}
 {110}{}{Ich möchte etwas Uranium.}
 {111}{}{Nichts.}
 {112}{}{Vergiss es. Tschüss.}
 {113}{}{Hör zu, mein Sohn, es tut mir leid, dass du kein Gedächtnis hast. Aber du kannst nicht hier bleiben. Lauf jetzt weiter}
-{114}{}{[Erledigt]}
+{114}{}{[Fertig]}
 {115}{}{Du kannst nicht hier bleiben. Es ist gefährlich. Lauf jetzt weiter.}
-{116}{}{[Erledigt]}
+{116}{}{[Fertig]}
 {117}{}{Toll. Das sind $1000, ohne zu schachern. Du findest das vielleicht ziemlich teuer, aber es ist ein Schnäppchen, wenn man bedenkt, was du als Endprodukt erhältst.}
 {118}{}{Das ist ein Wort.}
 {119}{}{$1000? Das ist unmöglich. Vergiss es.}
 {120}{}{Ich bin der Aufseher in dieser Raffinerie. Was willst du?}
-{121}{}{Was ist das alles hier?}
+{121}{}{Was ist das für ein Ort?}
 {122}{}{Ich möchte etwas Erz veredeln lassen.}
 {123}{}{Ich möchte etwas Uranium.}
 {124}{}{Nichts.}
 {125}{}{Das ist die Raffinerie von Broken Hills. Hier reinigen wir die Erzkristalle aus der Mine. Was willst du?}
-{126}{}{Was ist das alles hier?}
+{126}{}{Was ist das für ein Ort?}
 {127}{}{Ich möchte etwas Erz veredeln lassen.}
 {128}{}{Ich möchte etwas Uranium.}
 {129}{}{Nichts.}
 {130}{}{Du hast nicht genug Geld. Komm wieder, wenn du es hast.}
-{131}{}{[Erledigt]}
+{131}{}{[Fertig]}
 {132}{}{In Ordnung. Gib uns einen Tag und wir machen es für dich fertig.}
 {133}{}{Toll. Bis dann.}
 {134}{}{Viel Glück dabei, wenn du es woanders versuchen willst. Der Vorgang ist ziemlich gefährlich, das sollte nur ein Profi machen. Willst du jetzt oder nicht?}

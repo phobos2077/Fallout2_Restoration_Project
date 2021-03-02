@@ -2,7 +2,7 @@
 {101}{}{Du siehst Kapitän A. Ron Meyers.}
 {102}{}{Du siehst einen Vagabunden in zerrissenen Klamotten der eine Kapitänsmütze trägt.}
 {103}{}{Was zum Teufel willst du? Ich rede mit niemanden, außer mit Freunden oder guten Menschen. Tu was für einen meiner Kumpels, dann kannst du wiederkommen. }
-{104}{}{[Erledigt]}
+{104}{}{[Fertig]}
 {105}{}{Ich habe gehört, was du für meine Männer getan hast. Vielen Dank. Womit kann ich dir helfen? }
 {106}{}{Du wer?}
 {107}{}{Man sagte mir, du bist derjenige, der alles über dieses Schiff weiß.}
@@ -10,7 +10,7 @@
 {109}{}{Wie bringt man dieses Ding in Gang?}
 {110}{}{Nichts.}
 {111}{}{Ich bin der Kapitän. Ich kommandiere dieses Schiff. Falls du noch mehr Fragen hast, geh zu einem der Shi oder zu Dachs oder so. Ich habe keine Zeit für dich. }
-{112}{}{[Erledigt]}
+{112}{}{[Fertig]}
 {113}{}{Dieses Schiff ist ein Poseidon-Tanker. Es ist mit einer Technik ausgerüstet, die von vor dem Krieg stammt. Es hat einen SHS, mit dem man in den Navigationscomputerraum gelangt und einen IFF-Transponder, der es vor Poseidon-Gewehren schützt. Natürlich wird dir das überhaupt nichts gegen dieses alte chinesische U-Boot helfen, so dass du am besten hoffst, dass das Teil so tot ist wie es aussieht.}
 {114}{}{Woher weißt du das alles?}
 {115}{}{Was ist ein IFF-Transponder?}

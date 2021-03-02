@@ -12,7 +12,7 @@
 {208}{}{Gib mir noch einen, Hank.}
 {209}{}{Ich werde jetzt gehen, machs gut.}
 {210}{}{[Plötzlich fühlst du dich scheiße, dann beginnt sich dein Blick zu trüben. Du stürzt zu Boden...]}
-{211}{}{[Erledigt]}
+{211}{}{[Fertig]}
 {212}{}{Nein, leider nicht.}
 {213}{}{Hallo nochmal.}
 {214}{}{Hallo und Tschüss.}
@@ -44,5 +44,5 @@
 {800}{}{Feuer...? Ich habe Feuermacher. Es verbrennen mich viele Male. (Du hältst ein Feuerzeug hoch.)}
 {810}{}{Jaa, das ist genau was ich brauche. Wirst du es mir geben?}
 {811}{}{Na gut. Sowieso nicht mag.}
-{812}{}{Ich nicht geben!}
+{812}{}{Ich nicht geben dir!}
 {820}{}{Du nich brenn dich selbst. Tschüss!}

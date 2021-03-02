@@ -46,7 +46,7 @@
 {194}{}{Da gibt's eine Farm am Rand der Stadt, wo's keine geben sollte. Vor ein paar Jahren ist sie einfach aus dem Nichts "aufgetaucht".}
 {195}{}{Willst du behaupten, die Farm ist einfach über Nacht aus dem Boden gewachsen? Ja, klar!}
 {196}{}{Ein paar von uns waren auf der Jagd, als wir die Farm bemerkten. Aber das war ja nicht mal so seltsam. Kurz danach gingen ein paar von uns, um die neuen Nachbarn zu besuchen, bloß da war keiner.}
-{197}{}{Ja?}
+{197}{}{Mach weiter.}
 {198}{}{Wir versuchten viele Monate ohne Erfolg, mit den Besitzern in Kontakt zu treten, doch ohne Erfolg. Also dachten wir, dass die Farm bald nach ihrem Bau aufgegeben worden war. Um die Saat nicht auf dem Feld verrotten zu lassen, ist der junge Karl eingezogen.}
 {199}{}{Hmm...}
 {200}{}{Dann wurde es übel. Karl kam mit Geschichten über seltsame leuchtende Figuren, die sich nachts um die Felder kümmerten und die Tiere fütterten. Wir lachten ihn alle aus, weil wir glaubten, dass er das alles nur erfunden hatte. Eines Tages kam Karl nicht mehr in die Stadt.}

@@ -27,7 +27,7 @@
  nie gesehen. Kannst du dich ausweisen?}
 {123}{}{Du willst meine Papiere sehen? Dann hol sie dir.}
 {124}{}{Ich habe meine Papiere momentan nicht bei mir.}
-{125}{}{Bitte.}
+{125}{}{Bitte schön.}
 {126}{}{Dann bin ich fertig mit dir, "Bürger". Fort mit dir.}
 {127}{}{Für heute ist Schluss mit Erledigungen. Und jetzt fort mit dir.}
 {128}{}{Ich rühr mich nicht von der Stelle. Wenn du mich anfasst, dann knallt's.}
@@ -63,7 +63,7 @@
 {156}{}{Gangster?}
 {157}{}{Wegen diesen Gangstern...}
 {158}{}{Kann ich dir einige Fragen stellen?}
-{159}{}{Vielen Dank. Auf Wiedersehn.}
+{159}{}{Danke. Auf Wiedersehn.}
 {160}{}{Was immer du willst. Nur zu.}
 {161}{}{Gestattet.}
 {162}{}{Nein. Zuerst wollte ich dir noch ein paar Fragen stellen.}
@@ -126,7 +126,7 @@
 {199}{}{Kann ich dich noch etwas anderes fragen?}
 {200}{}{Aber ich bin doch Bürger.}
 {201}{}{Wie wird man denn Bürger?}
-{202}{}{Vielen Dank. Auf Wiedersehn.}
+{202}{}{Danke. Auf Wiedersehn.}
 {203}{}{Das soll ich dir glauben? Ich kenne jeden einzelnen Bürger von Vault City und dich hab
  ich noch nie gesehen. }
 {204}{}{Hier ist mein Pass. Es ist alles in Ordnung, überzeug dich selbst.}
@@ -393,7 +393,7 @@
 {411}{}{Nein, so nicht. }
 {412}{}{Sehr gut, melde dich hier wieder wenn du alles erledigt hast.}
 {413}{}{Das ist doch egal, sie enden trotzdem als Diener. Ich schicke gleich eine Kampfeinheit los und bald gibt es dieses kleine Dorf nicht mehr.}
-{414}{}{[Erledigt]}
+{414}{}{[Fertig]}
 {415}{}{Komm zurück wenn alles erledigt ist.}
 {416}{}{Gute Arbeit, Soldat. Hier sind deine $750 - ein geringer Preis für ein Dorf voll mit neuen Dienern. Du hast Vault City einen großen Dienst erwiesen.}
 {417}{}{Moment - Es war nie davon die Rede, das die Dorfbewohner eure Diener werden.}

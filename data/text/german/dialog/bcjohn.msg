@@ -10,6 +10,6 @@
 {109}{}{OK.}
 {110}{}{Hallo... und Tschüss.}
 {111}{}{Danke für alles, was du für uns getan hast. Ich möcht mich für den kalten Empfang vorhin entschuldigen.}
-{112}{}{Hau ab, du Vollidiot.}
+{112}{}{Scheiß auf dich, Arschloch!}
 {113}{}{Verdammt, ich hasse so was.}
 {114}{}{Hier, nimm das! Das wird dich lehren.}

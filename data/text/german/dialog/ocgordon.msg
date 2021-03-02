@@ -17,7 +17,7 @@
 {116}{}{Wie lang du hier?}
 {117}{}{Todkrallen schlecht?}
 {118}{}{Warum du bleiben?}
-{119}{}{Ich gehn.}
+{119}{}{Ich gehen jetzt.}
 {120}{}{Wem ist dieser Schrein gewidmet?}
 {121}{}{Wie lange bist du schon hier?}
 {122}{}{Was kannst du mir über die Deathclaws sagen?}

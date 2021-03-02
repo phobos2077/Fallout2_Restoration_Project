@@ -8,7 +8,7 @@
 {106}{}{Wache! Alarm!}
 {107}{}{Was willst du?}
 {108}{}{Körg?}
-{109}{}{Was ist das alles hier?}
+{109}{}{Was ist das für ein Ort?}
 {110}{}{Die Ranger haben mich geschickt.}
 {111}{}{Ich suche den Besitzer.}
 {112}{}{Bruder Sklavenhändler, ich hätte da ein paar Fragen.}

@@ -108,7 +108,7 @@
 {390}{}{Garten Eden, hm? Also, mit Jenny war ich schon ziemlich nahe am Garten Eden. Und du brauchst nur ein paar Dollar, um das zu erleben. (Lächelt). Hört sich gut an, aber ich weiß nicht, wo du das finden könntest. }
 {391}{}{Eigentlich ist das nicht grad, was ich gesucht hab. Ich möchte dich noch was fragen.}
 {392}{}{Mehr muss ich jetzt gar nicht wissen.}
-{2900}{}{Things are pretty quiet around here now, actually.}
+{2900}{}{Eigentlich ist jetzt alles ziemlich ruhig hier.}
 {2901}{}{Brahmin verstümmelnde Wanzenmänner}
 {2902}{}{rodents of unusual size}
 {2903}{}{ein wandelnder Geist}

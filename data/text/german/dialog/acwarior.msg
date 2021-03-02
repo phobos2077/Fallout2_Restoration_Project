@@ -35,15 +35,15 @@
 {182}{}{Vielen Dank. Auf Wiedersehen.}
 {183}{}{Noch eine Frage, wenn du gestattest.}
 {300}{}{Ich grüße dich, Auserwähltes Wesen. Mögen die Geister der Krieger dich leiten und beschützen.}
-{301}{}{Hast du Schwierigkeiten, Auserwähltes Wesen? Du darfst uns nicht enttäuschen. Bitte beeile dich!}
+{301}{}{Hast du Schwierigkeiten, Auserwähltes Wesen? Du darfst uns nicht enttäuschen - bitte beeile dich.}
 {302}{}{Worauf wartest du noch? Wir brauchen schnell das GECK. Auserwähltes Wesen, unser Dorf stirbt.}
 {303}{}{Auserwähltes Wesen, unser Dorf ist fast tot. Warum hast du uns das heilige GECK noch nicht gebracht?}
 {970}{}{Das ist mein Name.}
 {971}{}{Du sprichst mit mir.}
 {972}{}{Was für eine blöde Frage. Das bin ich.}
 {980}{}{Darüber weiß ich nichts.}
-{981}{}{Keine Ahnung, tut mir leid}
-{982}{}{Noch nie davon gehört. }
+{981}{}{Tut mir leid. Keine Ahnung.}
+{982}{}{Noch nie davon gehört.}
 {1000}{}{Älteste}
 {1001}{}{Gründer}
 {1002}{}{Vaultbewohner}

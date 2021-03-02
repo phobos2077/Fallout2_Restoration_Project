@@ -79,7 +79,7 @@
 {165}{}{Aufheben und es dann an einem nichtsahnenden Trottel ausprobieren.}
 {166}{}{Oho! Du hast einen seltsamen giftigen Dampf hergestellt! Du kriegst eine Dosis ab und
  liegst erst mal flach. Du fühlst dich total fertig.}
-{167}{}{[Erledigt]}
+{167}{}{[Fertig]}
 {168}{}{Das Zeug sieht ganz schön wirkungsvoll aus. Was willst du damit machen?}
 {169}{}{Jetzt trink es.}
 {170}{}{In mein Inventar legen.}
@@ -100,7 +100,7 @@
  dich jetzt besser.}
 {180}{}{Ach, was soll's. Auch wenn es komisch aussieht, kippst du das Gebräu herunter. Du fängst
  sofort an zu würgen und zu spucken. Du bist mit Strahlung verseucht worden!}
-{181}{}{[Erledigt]}
+{181}{}{[Fertig]}
 {182}{}{OK...alles klar. Du denkst daran, wie oft du als Kind deinen eigenen Urin getrunken hast
  und setzt die Flasche an den Hals. Dein Magen wehrt sich, als die Flüssigkeit ankommt. Du fühlst
  dich, als hätte dich gerade ein Radskorpion gestochen.}

@@ -61,4 +61,4 @@
 {504}{}{Nach einigen Versuchen scheiterst du daran den Fehler zu finden.}
 {505}{}{Verdammt. Das ist zu schwer für mich. Reparieren ist einfach nicht meine Stärke.}
 {506}{}{Du versagst dabei das Hologramm zu reparieren.}
-{507}{}{[Erledigt]}
+{507}{}{[Fertig]}

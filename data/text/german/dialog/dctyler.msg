@@ -63,7 +63,7 @@
 {340}{}{Das glaube ich nicht. Und jetzt hau ab. }
 {341}{}{OK.}
 {342}{}{Aber!}
-{343}{}{Wie du willst.}
+{343}{}{Fein.}
 {350}{}{Ja, das glaube ich dir. Wer hat dich geschickt?}
 {351}{}{Ja, Döskopp, das hast du schon gesagt. Wer hat dich geschickt?}
 {352}{}{Wer wohl, Trottel. Hör jetzt auf, Ärger zu machen und lass mich rein.}
@@ -71,7 +71,7 @@
 {354}{}{Na schön, das wirst du bereuen.}
 {360}{}{Der was? Hau ab hier!}
 {361}{}{Aber...}
-{362}{}{Wie du willst.}
+{362}{}{Fein.}
 {370}{}{Also was zum Teufel will der Boss? Noch eine stumpfsinnige, verdammte Überprüfung?}
 {371}{}{Ja?}
 {372}{}{Was denn jetzt noch?}

@@ -45,7 +45,7 @@
 {293}{}{Oh, ich verstehe. Das klingt verständlich. Du darfst rein, nur trödel nicht zu lang rum.}
 {294}{}{Hör zu, ich bin dabei der Kirche eine saftige Geldspende zu geben. Ich will sicher gehen, das meine Spende auch sicher und
  angemessen ist.}
-{300}{}{Hallo.}
+{300}{}{Hallo nochmal.}
 {301}{}{Ich hoffe es ist alles in Ordnung.}
 {400}{}{Mich wollen rein.}
 {410}{}{[Er sieht dich merkwürdig an.] Nun, du brauchst dafür ein Kennwort.}

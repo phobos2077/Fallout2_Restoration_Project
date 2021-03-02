@@ -120,7 +120,7 @@
 {193}{}{Du schon wieder. Was willst du?}
 {194}{}{Willstu? Willstu!}
 {195}{}{Verzieh dich}
-{196}{}{Was ist das alles hier?}
+{196}{}{Was ist das für ein Ort?}
 {197}{}{Ich würde gerne in die Stadt rein.}
 {198}{}{Ich würde gern diesen falschen Bürgerpass kaufen, den du mir letztens angeboten hast.}
 {199}{}{Ich hab mich entschieden, dich wegen der Sache mit den falschen Pässen anzuzeigen.}

@@ -92,7 +92,7 @@
 {321}{}{[Zu Krom.] Er hat recht, das ist ein guter Handel. Spitze, um ehrlich zu sein. [Zu Roy.] Der Handel gilt.}
 {322}{}{Bevor wir mit irgendetwas einverstanden sind, möchte ich einen Blick auf den Rest der Waren werfen.}
 {330}{}{[Er kneift das Auge etwas zu, dann lächelt er.] Sicher. Sie sind hier in der Kiste neben mir.}
-{331}{}{[Erledigt]}
+{331}{}{[Fertig]}
 {340}{}{In Ordnung, aber mach nicht zu lange. Wir müssen vor Einbruch der Dunkelheit noch einen weiteren Zwischenstopp einlegen.}
 {350}{}{Okay, wenn du mit dem herumhängen fertig bist, lass uns den Handel anpacken. Ich bin ein vielbeschäftigter Mann.}
 {351}{}{In Ordnung. Wir nehmen diesen Handel an.}

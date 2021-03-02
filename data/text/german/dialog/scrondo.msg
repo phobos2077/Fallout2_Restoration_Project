@@ -2,7 +2,7 @@
 {101}{}{Das ist Rondo, der Besitzer von dem Laden hier.}
 {102}{}{Du hältst ihn für einen Mechaniker, aber er hat eine Waffe bei sich und das ist schon ein
  wenig sonderbar.}
-{103}{}{Greetings, Ranger. Time's been good, I hope.}
+{103}{}{Schönen guten Tag, Ranger. Ich hoffe, es ist alles in Ordnung bei dir.}
 {104}{}{Eines Tages rechnen wir mit diesen Sklavenhändlern ab.}
 {105}{}{Ich muss noch einige Sklavenhändler jagen.}
 {106}{}{Tut mir leid, hier läuft nichts mehr.}

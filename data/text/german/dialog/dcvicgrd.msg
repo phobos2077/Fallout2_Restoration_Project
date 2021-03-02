@@ -121,7 +121,7 @@
 {474}{}{Tut mir leid, kann ich mir nicht leisten.}
 {480}{}{Phh! Ist mir doch egal!}
 {481}{}{OK.}
-{482}{}{Wie du willst.}
+{482}{}{Fein.}
 {490}{}{Leider nein.}
 {491}{}{Ich sagte nein. Und jetzt zieh Leine. Du musst mit Metzger reden.}
 {492}{}{OK.}

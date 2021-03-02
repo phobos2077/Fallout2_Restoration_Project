@@ -18,7 +18,7 @@
 {117}{}{Mach mich einfach wieder gesund.}
 {118}{}{Hier bleib ich nicht.}
 {119}{}{Du machen besser.}
-{120}{}{Ich gehn.}
+{120}{}{Ich gehen jetzt.}
 {121}{}{Von wegen. Ich mach grundsätzlich keine Witze. Ich muss das Bein amputieren, bevor der Wundbrand einsetzt.}
 {122}{}{Das kommt überhaupt nicht in die Tüte, verstanden?}
 {123}{}{Das wär's. Ich gehe.}

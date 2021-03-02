@@ -176,7 +176,7 @@
 {255}{}{Sicher.}
 {256}{}{Das sind traurige Nachrichten, wir müssen einen Weg finden, das zu beenden. Wenn das anhält, werden unsere
  Erzbestände auf Null zurückgehen. Bitte hilf uns.}
-{257}{}{Ich werd sehen, was ich tun kann.}
+{257}{}{Ich werde sehen, was ich tun kann.}
 {258}{}{Hat er? Ok, was machst Du dann hier? Bring' es Doc Johnson in Redding! Er wird einen Weg finden, es den Bergmännern
  zu verabreichen.}
 {259}{}{Ich weiß, das hast Du mir bereits erzählt. Bitte bring' es nach Redding und schau, ob Du ihnen helfen kannst.}

@@ -24,7 +24,7 @@
 {121}{}{Äh... sicher.}
 {122}{}{Du sprichst komisch. Ich gehn.}
 {123}{}{Ich werd jetzt gehn, Valdis.}
-{124}{}{Verstehe.}
+{124}{}{Ich verstehe.}
 {125}{}{Du machst deine Arbeit sicherlich sehr gut.}
 {126}{}{Hast du den Grips, um zu beurteilen, wer 'befugt' ist und wer nicht?}
 {127}{}{Ja, allerdings. Ich habe auch genug Grips, um zu beurteilen, wer ein Volltrottel ist und

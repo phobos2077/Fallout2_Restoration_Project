@@ -187,9 +187,9 @@
 {805}{}{Kein Interesse. Tschüss.}
 {806}{}{Warte. Bist du dir sicher das du mir bei einer Kleinigkeit nicht helfen kannst?}
 {810}{}{Ausgezeichnet! Jetzt muss ich aber zurück zu meiner Arbeit. [Zu sich selbst.] Alles verläuft nach Plan.}
-{811}{}{[Erledigt]}
+{811}{}{[Fertig]}
 {820}{}{Zu schade. Nun muss ich mich aber wieder meiner Arbeit zuwenden. [Zu sich selbst.] Ich hatte ihn fast. Wo kriege ich jetzt bloß ein anderes Testsubjekt her?}
-{821}{}{[Erledigt]}
+{821}{}{[Fertig]}
 {830}{}{[Der Mann schreckt auf.] Was zum-?!}
 {831}{}{Ich suche immer noch nach deinem Teil.}
 {832}{}{Hier ist das Werkzeug. In der Tat ein Kinderspiel.}
@@ -201,7 +201,7 @@
 {851}{}{Wie du meinst. Bis dann. }
 {852}{}{Das glaube ich nicht. Du hast versucht mich zu töten und jetzt erwidere ich den Gefallen. Mach dich bereit zu Sterben!}
 {860}{}{Öh, Ja, sicher. Ich geh dann mal.}
-{861}{}{[Erledigt]}
+{861}{}{[Fertig]}
 {900}{}{*brummt*}
 {901}{}{*Zu sich selbst* Ich war mir sicher er würde nicht zurückkehren.}
 {1000}{}{Du hast das verlorene Werkzeug des Doktors zurückgebracht.}

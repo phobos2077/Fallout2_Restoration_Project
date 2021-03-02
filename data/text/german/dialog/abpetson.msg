@@ -24,11 +24,11 @@
 {501}{}{Danke, das werd ich tun. Ich habe noch ein paar andere Fragen.}
 {502}{}{Danke für den Tipp. Ich werds mir direkt mal ansehen.}
 {600}{}{Bruder Samuel hat dich geschickt? Was hat dieser Trunkenbold jetzt schon wieder vor?}
-{601}{}{Jemand soll sich nachts immer bei den Gräbern rumtreiben. Hast du was darüber gehört?}
+{601}{}{Jemand soll sich nachts immer bei den Gräbern rumtreiben. Also erzähl, was du darüber gehört hast ...}
 {602}{}{[John setzt sich auf einen Stuhl und genehmigt sich einen Schluck Whisky.] Nun, es fing alles vor ein paar Tagen an. Meine
  Frau und ich wollten gerade zu Bett gehen, als wir ein seltsames Rascheln draußen in den Feldern hörten. Ich hab mir meine Laterne geschnappt
  und bin rausgerannt um die Ursache des Geräusches herauszufinden. Aber, obwohl ich sehr schnell beim Feld eintraf, war nichts mehr zu hören.}
-{603}{}{Ja?}
+{603}{}{Mach weiter.}
 {604}{}{Tut mir leid, aber ich muss los.}
 {605}{}{Naja, in der folgenden Nacht war wir nichts mehr zu hören. Aber in der Nacht darauf war das Rascheln wieder da. Diesmal bin ich zum
  Fenster gekrochen und habe vorsichtig rausgeschaut, anstatt wieder hinaus zu stürmen. In die Dunkelheit starrend, sah ich ein schwaches Licht,
@@ -46,7 +46,7 @@
 {611}{}{[Er kneift die Augen zusammen, kann aber seine Fassung bewahren.] So halten wir es hier in Abbey.
  Wenn also Freundlichkeit für dich so beleidigend ist, schlage ich vor, du verschwindest aus meinem Haus.
  Ich werde hier nicht tatenlos rumsitzen, während ein dahergelaufener Halbwilder mich vor meiner Frau beleidigt.}
-{612}{}{Ok, ich gehe.}
+{612}{}{In Ordnung, in Ordnung, ich gehe.}
 {613}{}{Ok, Großmaul, jetzt wird dich der „dahergelaufene Wilde“ vor den Augen deiner Frau töten.
  Dann werde ich sie vielleicht auch umbringen. Verdammt, vielleicht töte ich jeden in diesem jämmerlichen scheiß Kaff. Ihr habt gedacht, ihr alle könntet euch vor dem Horror im Ödland 
  verstecken? Weißt du was, mein naiver Freund? Der Horror hat euch gefunden und er heißt }

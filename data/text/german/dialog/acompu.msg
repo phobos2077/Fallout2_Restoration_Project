@@ -12,7 +12,7 @@
 {111}{}{Spiele 'Schere-Stein-Papier'.}
 {112}{}{Zurück.}
 {113}{}{Abmelden.}
-{114}{}{[Weiter]}
+{114}{}{[FORTSETZEN]}
 {115}{}{Du findest einige Dateien mit den Stichwörtern "GECK" und "Vault".}
 {116}{}{Durchsuche Dateien, die "GECK" enthalten.}
 {117}{}{Durchsuche Dateien, die "Vault" enthalten.}

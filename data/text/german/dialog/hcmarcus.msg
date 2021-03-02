@@ -112,7 +112,7 @@
  dich vielleicht.}
 {191}{}{Ein Wissenschaftler aus der NCR will ein Experiment mit einer Substanz durchführen, die
  alle Mutanten umbringt. Pass auf, was du isst oder trinkst.}
-{192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
+{192}{}{Anscheinend hast du recht damit, das Chad Geld unterschlägt. Er gab in Gecko vor, dass es einen Minenstreik gibt, um die Preiserhöhung zu rechtfertigen. Ich vermute, er streift den Gewinn ein.}
 {193}{}{Chad hat ungefähr $1000 von der letzten Uranlieferung für sich behalten. Er will sich demnächst absetzen. 
  Ich hab hier eine Aktentasche mit Aufzeichnungen darüber.}
 {194}{}{Nichts, vergiss es.}

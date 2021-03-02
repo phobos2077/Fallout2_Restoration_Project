@@ -30,7 +30,7 @@
 {181}{}{Die Suche?}
 {190}{}{Ich bin hier nur für die Zimmer zuständig. Wenn du etwas kaufen oder eintauschen willst, sprich mit meiner Tochter Maida.}
 {191}{}{Ah, verstehe. Dann erzähl mir was anderes.}
-{192}{}{Vielen Dank. Auf Wiedersehn.}
+{192}{}{Danke. Auf Wiedersehn.}
 {200}{}{Wir sind im Augenblick ziemlich ausgebucht. Tut mir leid.}
 {201}{}{Hmm, lass mal sehen. Wir haben ein Zimmer frei. Kostet $25.}
 {202}{}{Ich nehme es. Hier sind $25. Vielen Dank.}
@@ -121,13 +121,13 @@
 {416}{}{Äh, Dankeschön.}
 {417}{}{Was!? Bist du dir da sicher?  Was hast du für Beweise?}
 {418}{}{Ich fand einige ausgehöhlte Radskorpion Klauen in einer Hütte in der Nähe eurer Brahmin Weidefläche. Ich konfrontierte die Duntons damit, und sie gaben zu sie zu verwenden, um Torr zu erschrecken.}
-{419}{}{I found some hallowed out radscorpion claws in a shack near your brahmin's grazing area. I think the Duntons are wearing these to scare Torr--hence his fear of "bug men".}
+{419}{}{Ich fand einige ausgehöhlte Radskorpion Klauen in einer Hütte in der Nähe eurer Brahmin Weidefläche. Ich denke, die Duntons tragen sie um Torr zu erschrecken -- daher seine Angst vor den "Wanzenmännern".}
 {420}{}{Ich denke, das gehört zu ihren üblichen Tricks! Mein armer kleiner Torr, die Kerle sind wirklich brutal. Das erklärt auch, was Torr so verschreckt hat, aber ich hätte gerne mehr Beweise, dass die Duntons diejenigen sind, die unsere Rinder gestohlen haben. Ich fürchte, Worte allein sind einfach nicht genug.}
 {421}{}{Ich denke, das gehört zu ihren üblichen Tricks! Mein armer kleiner Torr, das waren echt brutale Kerle. Das erklärt auch, was Torr so verschreckt hat, aber ich wünschte es gäbe mehr Beweise dass es die Duntons waren. Ich fürchte, Worte allein sind einfach nicht genug. Und jetzt wo die Duntons tot sind, bin ich nicht sicher, ob wir jemals die Wahrheit herausfinden werden. Aber, wenn du irgendetwas entdeckst, lass es mich bitte wissen.}
 {422}{}{OK, ich werde versuchen, noch ein paar Beweise herauszukitzeln.}
 {423}{}{Also, ich habe die Brandzeichen bei den Brahmins im Schlachthof der Duntons überprüft. Wenn man genau hinsieht, kann man sehen, dass sie einfach ihr Brandzeichen über ein Vorhandenes gesetzt haben - das, was ich vermute, das eure ist.}
 {424}{}{Das war es dann für die Duntons. Mit den Radskorpion Klauen und den verdächtigen Brandzeichen haben wir genug Beweise um sie zu überführen. Diese verbrecherischen Unruhestifter werden kein Ärger mehr machen. Danke für deine Hilfe. }
-{425}{}{That settles it then. With the bug parts and the double branding, we got enough to pin the crime on them. Too bad they're dead, or I would've shown them a thing or two. I guess they got what they deserve. Thanks for your help.}
+{425}{}{Das war es dann für die Duntons. Mit den Radskorpion Klauen und den verdächtigen Brandzeichen haben wir genug Beweise um sie zu überführen. Zu schade das sie schon Tod sind. Sie haben bekommen was sie verdient haben. Danke für deine Hilfe.}
 {426}{}{Danke Ms. Buckner. Darf ich dich etwas fragen.}
 {427}{}{Diese Duntons machen mich Krank. Danke das du dich um sie kümmerst. Bis dann.}
 {428}{}{Die Duntons haben bekommen was sie verdienten. Auf wiedersehen.}

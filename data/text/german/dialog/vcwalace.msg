@@ -19,7 +19,7 @@
 {112}{}{Fras-ser-pluh!}
 {113}{}{Verzieh dich}
 {114}{}{Wer bist du?}
-{115}{}{Was ist das alles hier?}
+{115}{}{Was ist das für ein Ort?}
 {116}{}{Ich hab den Verdacht, dass Skeev, dein Assistent, ein paar krumme Dinger dreht.}
 {117}{}{Heute nichts, danke.}
 {118}{}{Ich glaube, ich muss mal mit den Wachleuten im Vorhof reden. Die lassen ganz
@@ -196,7 +196,7 @@
 {246}{}{Was möchtest du noch gerne wissen?}
 {247}{}{Fras-ser-pluh!}
 {248}{}{Verzieh dich}
-{249}{}{Was ist das alles hier?}
+{249}{}{Was ist das für ein Ort?}
 {250}{}{Was sind das für Waren, die hier angeliefert werden?}
 {251}{}{Skeev, dein Assistent, begeht ungesetzliche Handlungen.}
 {252}{}{Kann ich einen neuen Tagesausweis bekommen?}
@@ -306,7 +306,7 @@ Bericht.}
  verlassen. Und jetzt los.}
 {329}{}{Darf ich dir noch eine Frage stellen, bevor ich gehe?}
 {330}{}{Wird gemacht.}
-{331}{}{Vielen Dank. Auf Wiedersehn.}
+{331}{}{Danke. Auf Wiedersehn.}
 {332}{}{Oh, äh, das übersteigt meine Kompetenzen. In solchen Angelegenheiten musst du dich an die
  Erstbürgerin wenden.}
 {333}{}{Wie war das noch mal mit der NCR?}

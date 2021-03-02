@@ -2,7 +2,7 @@
 {101}{}{Er scheint ein Nomaden-Schamane zu sein.}
 {102}{}{Von seiner Kleidung geht ein starker Kräutergeruch aus.}
 {103}{}{Hallo, Fremdling. Ich bin der Sippen-Schamane. Ich beherrsche die Kunst des Heilens.}
-{104}{}{Hallo.}
+{104}{}{Hallo nochmal.}
 {105}{}{Ich brauche Heilung.}
 {106}{}{Kannst du die Xander-Wurzel und die Broc-Blume zusammenmischen?}
 {107}{}{Tschüss.}

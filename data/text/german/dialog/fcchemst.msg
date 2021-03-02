@@ -9,7 +9,7 @@
 {108}{}{Nichts. Ich geh wieder.}
 {109}{}{Du hast hier nichts verloren, wenn du ein Trottel bist. Mach, dass du weiterkommst, bevor ich die Wachen rufe.}
 {110}{}{Du verstehst mich wirklich nicht, oder? Vielleicht verstehst du die Wachen besser. Wachen! Ein Eindringling!}
-{111}{}{[Erledigt]}
+{111}{}{[Fertig]}
 {112}{}{Ich bin Jing Tie Gahng. Ich bin der Leiter des Chemielabors im Stahlpalast...und du unterbrichst mich bei einer wichtigen Arbeit. Bitte geh. Und zwar gleich, bevor ich die Wachen rufe.}
 {113}{}{Na dann ruf sie doch, Opa.}
 {114}{}{OK, OK, ich geh ja schon.}
@@ -42,9 +42,9 @@
 {139}{}{Das ist völlig unmöglich. Unsere Benzinvorräte sind aufgebraucht. Selbst wenn ich den Hubologen helfen wollte, was nicht der Fall ist, könnte ich gar nicht. Auf Wiedersehen.}
 {140}{}{OK. Wiedersehn.}
 {141}{}{Gut. Dann lass mich wieder an meine Arbeit gehen.}
-{142}{}{[Erledigt]}
+{142}{}{[Fertig]}
 {143}{}{Das kannst du nicht? Dann kann ich dir auch kein Benzin verkaufen. Also hau ab. Ich hab zu tun.}
-{144}{}{[Erledigt]}
+{144}{}{[Fertig]}
 {145}{}{Du hast eine gehärtete Powerrüstung. Das ist ja wunderbar! Was willst du als Bezahlung?}
 {146}{}{Leite dafür Benzin an die Hubologen.}
 {147}{}{Leite dafür Benzin an den Poseidon-Öltanker.}

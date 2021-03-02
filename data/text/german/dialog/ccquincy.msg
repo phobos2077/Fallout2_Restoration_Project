@@ -12,8 +12,8 @@
 {110}{}{Was sein das hier?}
 {111}{}{Ich suchen Vertibird-Pläne. Wo finden?}
 {112}{}{Techniker mir sagen, hier Vertibird-Pläne.}
-{113}{}{Ich gehn.}
-{114}{}{Was ist das alles hier?}
+{113}{}{Ich gehen jetzt.}
+{114}{}{Was ist das für ein Ort?}
 {115}{}{Ich suche die Vertibird-Pläne. Weißt du, wo die sind?}
 {116}{}{Ein Techniker hat mir gesagt, dass ich die Vertibird-Pläne hier finde.}
 {117}{}{Naja, muss los.}
@@ -63,7 +63,7 @@
 {154}{}{Nichts, wollte nur vorbeischauen.}
 {155}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
 {156}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
-{157}{}{Warum trägst du keine Uniform? }
+{157}{}{Warum hast du keine Uniform?}
 {158}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {159}{}{Eindringlinge! Ruft die Wache!}
 {160}{}{Wache! Eindringlinge in der Wartungsabteilung!}

@@ -17,7 +17,7 @@
 {116}{}{Jetzt wissen, dass nicht falsche Person erschießen. Danke!}
 {117}{}{Nichts. Ich jetzt gehn.}
 {118}{}{Warum spionierst du Rebecca hinterher?}
-{119}{}{Ich wollte sichergehen, dass ich die richtige Person erschieße. Danke, schönen Tag noch.}
+{119}{}{Ich wollte nur sichergehen, dass ich die richtige Person erschieße. Danke, schönen Tag noch!}
 {120}{}{Hmm. Nichts. Ich werd jetzt gehen.}
 {121}{}{Meinst du, du kannst hier einfach so reinschneien und bekommst alle Antworten auf deine Fragen? Na, was soll's. Du wirst sowieso sterben und ich fühle mich großmütig. Wir haben das Kind hier im Hinterzimmer eingesperrt und etwas Spaß mit ihr gehabt. Rebecca, die alte Kuh, hat versucht, sie zu finden, also haben wir sie im Auge behalten, um zu verhindern, dass sie uns zu sehr auf die Pelle rückt.}
 {122}{}{Du krank in Kopf. Ich helfen - nehmen Kopf weg.}
@@ -53,4 +53,4 @@
 {152}{}{Schön, habt ein bisschen Spaß. Ich geh jetzt.}
 {153}{}{Gib das Mädchen raus und wir können diesen Ort alle lebend verlassen.}
 {154}{}{Du bist also zurückgekommen. Wir werden ja sehn, wer den kürzeren zieht.}
-{155}{}{Wir haben diese Schlampe Chrissy getötet und jetzt bist du an der Reihe.}
+{155}{}{Wir haben diese Schlampe Chrissy getötet und jetzt bist du an der Reihe zu sterben!}

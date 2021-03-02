@@ -34,8 +34,8 @@
  ausgehustet hat, grinst er Dich an.]}
 {411}{}{Oh, aber *natürlich*, das hast du gemeint. [Du seufzt vor Erleichterung.]
  Allerdings will ich Dich noch was anderes fragen.}
-{420}{}{[Seine Augen weiten sich voller Empörung und er scheint augenblicklich nüchtern zu werden]
- Das habe ich nicht gemeint. Du... du UNGEHEUER. TEUFEL! Hau bloß ab!}
+{420}{}{[Seine Augen weiten sich voller Empörung und er scheint augenblicklich nüchtern zu werden,]
+Das habe ich nicht gemeint, du ... du MONSTER! TEUFEL! Geh weg von mir!}
 {421}{}{Wie Du willst, Du besoffener, alter Trottel. Du weißt nicht, was dir entgeht.}
 {430}{}{Ekelhafter Teufel! Verschwinde!}
 {500}{}{Abbey war die meiste Zeit meines Lebens mein *hicks* Zuhause. Alle sind hier nett zueinander und *hicks* jeder ist hier willkommen, solange er keinen Ärger macht. Ich selbst verbring nich' so viel Zeit im Kl-*hicks* Kloster, aber ich weiß, dass unsere Computer alle Informationen die in den letzten Jahren gesammelt wurden, gespeichert haben. Vielleicht kann dir irgendwas *hicks* davon nützlich sein.}
@@ -55,7 +55,7 @@
  Hab wohl zu viel gesoffen, schätze ich. [Er grinst, kramt seinen Flachmann raus und nimmt einen kräftigen Schluck.] Also, was *hicks* sagst du? Hilfst du mir dabei?}
 {606}{}{In Ordnung, ich schau mal was ich tun kann. Weißt du noch irgendwas, was mir helfen könnte?}
 {607}{}{Achja, jetzt wo du's sagst. Ich erinnere mich *hicks* Mr. Peterson sagen zu hören, dass er irgendwelche Geräusche aus seinem Feld gehört hat. Vielleicht weiß er was über die Sache. Er und seine hübsche kleine Frau wohnen da drüben. [Er zeigt auf das Gebäude südlich vom Friedhof.]}
-{608}{}{Ich werd sehen, was ich tun kann.}
+{608}{}{Ich werde sehen, was ich tun kann.}
 {609}{}{Vielleicht später. Ich muss jetzt los.}
 {700}{}{Ich habe dein Problem mit den Gräbern gelöst. Du solltest jetzt deine Ruhe haben.}
 {701}{}{Nun, das sind *hicks* gute Nachrichten. Ich bin froh nicht mehr in diese verdammten Gräber zu fallen. *hicks* Danke für deine Hilfe. *Rülps*}

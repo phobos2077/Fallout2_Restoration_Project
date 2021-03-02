@@ -144,7 +144,7 @@
 {624}{}{Da du siegreich aus dem Kampf hervorgegangen bist,}
 {625}{}{Für die Vernichtung deiner Gegner}
 {626}{}{Für die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,}
-{650}{}{[Erledigt]}
+{650}{}{[Fertig]}
 {651}{}{[Mehr]}
 {652}{}{Weiter}
 {653}{}{[ZURÜCK]}

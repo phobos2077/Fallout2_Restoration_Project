@@ -112,7 +112,7 @@
 {257}{}{Komm schon, Baby.}
 {258}{}{Komm mit.}
 {259}{}{Keine Frau versetzt mich. Verdammt, hau ab hier.}
-{260}{}{Wie du willst.}
+{260}{}{Fein.}
 {261}{}{Hab vergessen, dass ich mich jetzt noch um was anderes kümmern muss. Bitte verzeih mir,
  Baby.}
 {262}{}{Ich hab sowieso beschlossen, nicht mit deinem hässlichen Hintern ins Bett zu gehen.}

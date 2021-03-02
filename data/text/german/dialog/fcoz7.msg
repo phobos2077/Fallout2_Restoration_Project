@@ -22,7 +22,7 @@
 {121}{}{OK. Beeil dich aber - er ist ein vielbeschäftigter Mann.}
 {122}{}{OK.}
 {123}{}{Dieser Ort steht nicht für irgendwelche Besichtigungstouren offen. Wiedersehen.}
-{124}{}{[Erledigt]}
+{124}{}{[Fertig]}
 {125}{}{Bestens! Geh nur rein. Sprich mit Juan Cruz und Vikki Goldman. Sie sind berühmt, weißt du, aber mit DIR werden sie sprechen.}
 {126}{}{Wer sind sie?}
 {127}{}{Ooh! Berühmtheiten!}
@@ -55,7 +55,7 @@
 {154}{}{Danke für deine Sorge um mich. Bis dann. }
 {155}{}{Ich glaube kaum, dass ich der Verletzte wäre. Bis dann.}
 {156}{}{Uns ausrotten? UNS AUSROTTEN? WACHEN! TÖTET DIESES UNGLÄUBIGE ETWAS!}
-{157}{}{[Erledigt]}
+{157}{}{[Fertig]}
 {158}{}{So. Du hattest jetzt Zeit, um deine Entscheidung zu überdenken. Wirst du dich uns anschließen?}
 {159}{}{Ja.}
 {160}{}{Nein.}

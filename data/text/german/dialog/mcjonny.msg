@@ -11,7 +11,7 @@
 {157}{}{Wie heißt du, Kleiner?}
 {158}{}{Sag mir, wie du heißt, du kleines Monster.}
 {159}{}{Magst du Süßigkeiten, Kleiner?}
-{160}{}{Hallo.}
+{160}{}{Hallo nochmal.}
 {166}{}{Deine Eltern haben mich geschickt, damit ich dich finde.}
 {168}{}{Hast du schon mit Vegeir gesprochen, ob ich heim darf?}
 {169}{}{Ja. Er sagt, er will, dass deine Eltern herkommen und dich abholen.}

@@ -25,7 +25,7 @@
 {168}{}{Wo bekomme ich die Teile?}
 {169}{}{Vielleicht kann ich es reparieren.}
 {170}{}{Kannst du dieses Funkgerät verwenden, das ich gefunden habe?}
-{171}{}{Ich werd sehen, was ich tun kann.}
+{171}{}{Ich werde sehen, was ich tun kann.}
 {172}{}{Ärsatz-tajle?}
 {173}{}{Ich weiß, dass ich es kann, ich brauch nur einige Ersatzteile. In meiner Hütte drüben in
  Klamath steht ein altes Funkgerät mit allem, was ich brauche. Warst du schon mal bei den Duntons?
@@ -96,7 +96,7 @@
  Das Problem ist, dass Metzger mich hier eingesperrt hat, bis ich das Funkgerät repariert hab, ich hab
  aber nicht die nötigen Ersatzteile.}
 {753}{}{Wo krieg ich die Teile her, die du brauchst?}
-{754}{}{Ich werd sehen, was ich tun kann.}
+{754}{}{Ich werde sehen, was ich tun kann.}
 {760}{}{Das ist eine lange Geschichte. Man könnte sagen, dass Metzger mich hier festhält, bis ich
  das verdammte Funkgerät repariert habe. Der Quarz ist durchgebrannt und ich hab keine Ersatzteile.
  Was glaubt er, wie ich es so hinkriegen soll?}

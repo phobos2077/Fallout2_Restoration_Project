@@ -7,14 +7,14 @@
 {105}{}{Äh... Ich neu hier.}
 {106}{}{Ich hier putzen.}
 {107}{}{Ich nix wissen. Ich gehen.}
-{108}{}{Was ist das alles hier?}
+{108}{}{Was ist das für ein Ort?}
 {109}{}{Hi, ich bin neu hier.}
 {110}{}{Ich soll hier das Büro des Kommandanten putzen.}
 {111}{}{Macht nichts.}
 {112}{}{Dies ist das Büro des Basiskommandanten. Dem Personal ist der Zutritt zu diesem Bereich
  nicht gestattet. Ich muss dich bitten zu gehen.}
 {113}{}{Ich was erledigen mit Kommandant.}
-{114}{}{Wie du willst.}
+{114}{}{Fein.}
 {115}{}{Ich muss etwas mit dem Kommandanten erledigen.}
 {116}{}{Also gut.}
 {117}{}{Um welche Angelegenheit dreht es sich?}
@@ -59,7 +59,7 @@
 {149}{}{Wir wurden unterwandert! Alarm!}
 {150}{}{Eindringlinge! Schlagt Alarm!}
 {151}{}{Sicherheitsalarm! Riegelt die Basis ab!}
-{152}{}{Sichert alle Stationen! Wir sind im Alarmzustand}
+{152}{}{Sichert alle Stationen! Wir sind im Alarmzustand!}
 {153}{}{Angriffsalarm! Code Rot!}
 {154}{}{Dich legen wir um!}
 {155}{}{Die Enklave wird die Welt beherrschen!}

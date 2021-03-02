@@ -36,7 +36,7 @@
 {135}{}{Offiziell hat Sheriff Marcus hier das Sagen. Er hat die Stadt mitgegründet und hilft uns in Krisensituationen. Aber eigentlich hat jeder in der Stadt eine eigene Stimme.}
 {136}{}{Das klingt aber unrealistisch.}
 {137}{}{Das hört sich nach einer guten Methode an, eine Stadt zu verwalten.}
-{138}{}{Ja?}
+{138}{}{Mach weiter.}
 {139}{}{Der Mitbegründer der Stadt ist immer noch Sheriff? Dann muss er aber ganz schön alt sein.}
 {140}{}{Danke. Tschüss.}
 {141}{}{Abgesehen davon, dass die Mutanten alle TOT sind und diese Stadt VERLOREN ist...}
@@ -100,7 +100,7 @@
 {199}{}{Marcus: Da seh ich keine Zukunft drin. Wird schon ohne mich gehen.}
 {200}{}{[Mehr]}
 {201}{}{Hör mal Freundchen, wir brauchen dich hier nicht. Du hast schon genug Schaden angerichtet.}
-{202}{}{[Erledigt]}
+{202}{}{[Fertig]}
 {300}{}{Normalerweise ist Marcus bei der Bank zu finden, die dient gleichzeitig auch als Sicherheitsgefängnis, oder im Gefängnis selbst. Manchmal ist er auch in der Taverne oder zu Hause, aber meistens arbeitet er.}
 {301}{}{Was'n Hammer!}
 {302}{}{Verdammt!}

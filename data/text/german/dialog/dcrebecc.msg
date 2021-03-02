@@ -110,7 +110,7 @@
  zurückholen kannst, wäre ich freudig überrascht... und dankbar. Ich bin mir sicher, er ist
  irgendwo in der Stadt.}
 {371}{}{Das Buch war "Die Lavendelblüte". Derek müsste eigentlich bei Mom auf der Ostseite sein.}
-{372}{}{Ich werd sehen, was ich tun kann.}
+{372}{}{Ich werde sehen, was ich tun kann.}
 {373}{}{Hört sich einfach an.}
 {374}{}{Ich habe es schon gefunden.}
 {375}{}{Ich werde mich wieder mit dir in Verbindung setzen.}

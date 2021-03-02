@@ -16,7 +16,7 @@
 {112}{}{Wo Enklave-Hauptbasis.}
 {113}{}{Ich suchen Vertibird-Pläne. Wo finden?}
 {117}{}{Ich jetzt gehen.}
-{118}{}{Was ist das alles hier?}
+{118}{}{Was ist das für ein Ort?}
 {119}{}{Was ist dein Job hier?}
 {120}{}{Wo liegt die Enklave-Hauptbasis?}
 {121}{}{Ich muss die Vertibird-Pläne sehen. Wo werden die aufbewahrt?}

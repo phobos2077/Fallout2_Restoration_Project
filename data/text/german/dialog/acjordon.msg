@@ -1,8 +1,7 @@
 {100}{}{Du siehst Jordan, der wie immer seinen Speer umherwirbelt.}
 {101}{}{Du siehst Jordan, der wie immer seinen Speer umherwirbelt.}
 {102}{}{Viel Glück! Unser Dorf zählt auf dich.}
-{103}{}{Hallo, Auserwähltes Wesen. So wie du den Speer benutzt, bist du schnell Futter für die
- Geckos. Ich kann Dir ein paar Tricks zeigen.}
+{103}{}{Hallo, Auserwähltes Wesen. Ich sehe, du brauchst ein bisschen Training. Kann ich helfen?}
 {104}{}{Sicher.}
 {105}{}{Nein, Danke.}
 {106}{}{Es wird eine Weile dauern.}

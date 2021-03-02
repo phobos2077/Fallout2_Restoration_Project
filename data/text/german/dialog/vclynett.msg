@@ -566,7 +566,7 @@
 {665}{}{Ganz egal. Ich muss ohnehin los.}
 {666}{lyn108}{Wirklich? Hervorragend! Aber wir haben schon jetzt zuwenig Wachen in der Stadt. Wie sieht's mit dir aus? Könntest du den Angriffen ein Ende machen? Ich würde dich bezahlen.}
 {667}{}{Nein, hab im Moment zu viel zu tun.}
-{668}{}{Ich werd sehen, was ich tun kann.}
+{668}{}{Ich werde sehen, was ich tun kann.}
 {669}{lyn109}{Wie du meinst. Wenn du mich jetzt entschuldigen willst, ich habe auch zu tun. Du findest ja selbst hinaus.}
 {670}{}{Aber ich wollte dich noch was fragen... }
 {671}{}{OK, OK, ich geh ja schon.}

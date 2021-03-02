@@ -27,7 +27,7 @@
 {280}{}{Danke. Wenn Sie die Robotersteuerung reparieren können, gewähre ich Ihnen vollen Zutritt in den Sicherheitsflügel auf Ebene Rot. Sie können sich nach Belieben im Lager bedienen. Ich fürchte, wir können davon ohnehin nichts benutzen.}
 {281}{}{Danke. Ich komm zurück sobald ich fertig bin.}
 {290}{}{Kiss my ass! Ich hab ihnen nichts mehr zu sagen.}
-{291}{}{Wie du willst.}
+{291}{}{Fein.}
 {300}{}{Haben Sie es geschafft die Aufgabe zu erfüllen?}
 {301}{}{Noch nicht. Ich arbeite dran.}
 {310}{}{Laufen die Computer wieder?}

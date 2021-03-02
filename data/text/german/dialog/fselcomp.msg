@@ -40,7 +40,7 @@
 {128}{}{Zurück.}
 {129}{}{Abmelden.}
 {130}{}{Unerlaubter Vorgang. Bitte mit Systemadministrator in Verbindung setzen. Abmelden. Auf Wiedersehen.}
-{131}{}{[Erledigt]}
+{131}{}{[Fertig]}
 {132}{}{Es scheint kein Interface dafür zu geben.}
 {133}{}{Raumschiff HSS Quetzel betankt und startbereit.}
 {134}{}{Raumschiff HSS Quetzel nicht betankt.}
@@ -62,4 +62,4 @@
 {220}{}{Du formatierst den Hubologen-Hauptrechner.}
 {250}{}{Leite Benzin zum Poseidon-Tanker.}
 {251}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
-{252}{}{[Erledigt]}
+{252}{}{[Fertig]}

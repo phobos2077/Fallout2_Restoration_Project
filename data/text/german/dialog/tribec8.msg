@@ -29,7 +29,7 @@
 {310}{}{Nothing to repay me? Look lady, I could have died in those woods. It's filled with all kinds of deadly creatures. I risked my neck for this fucking wood. Not to mention I think one of the logs gave me a splinter. I *hate* splinters.}
 {311}{}{Hier, nimm dieses Geld. Ich habe keine wirkliche Verwendung dafür. Danke nochmal für deine Hilfe.}
 {312}{}{Schon besser. Tschüss.}
-{313}{}{[Erledigt]}
+{313}{}{[Fertig]}
 {314}{}{Dann frag jemand anderes um Hilfe.}
 {315}{}{Hast du das Feuerholz?}
 {316}{}{Ja, hier ist es.}

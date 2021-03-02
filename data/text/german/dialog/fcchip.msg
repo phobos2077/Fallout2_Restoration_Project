@@ -51,7 +51,7 @@
 {150}{}{OK. Ich rede mit Fung.}
 {151}{}{Gut. Du bist mir eh total egal.}
 {152}{}{Könntest du nicht irgend etwas tun? Ihn töten...oder ihn überzeugen. Ich werde sterben, wenn ich sie nicht wiederkriege.}
-{153}{}{Ich werd sehen, was ich tun kann.}
+{153}{}{Ich werde sehen, was ich tun kann.}
 {154}{}{Sorry, Mann...ich fürchte, du bist geliefert. Ich kann dir nicht helfen.}
 {155}{}{Ohne Milz werde ich sterben. Trotzdem danke für deine Hilfe.}
 {156}{}{Ich hab sie gefunden. Geh rüber  zu Dr. Wong.}

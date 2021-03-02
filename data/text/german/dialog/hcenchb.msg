@@ -20,13 +20,12 @@
 {117}{}{Tschüss.}
 {118}{}{Der Feind! Stirb!}
 {119}{}{Hoppla.}
-{120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to
- Gecko, and I overheard Chad arguing with their ghoul rep. Apparently, Broken Hills had recently been jacking up the
- price of uranium, and the ghoul wasn't too happy about it. Then I hear Chad explain to him our uranium supply was
- running low due to a recent miners' strike, but the thing is, there never was a strike.}
+{120}{}{[Senkt seine Stimme und sieht sich um.] Das muss es sein. In der Tat war ich eine Wache bei der letzten Uranlieferung nach Gecko, und ich hörte zufällig,
+ wie Chad mit dem Vertreter der Ghuls diskutierte. Anscheinend hatte Broken Hills in letzter Zeit den Preis des Urans erhöht, und der Ghul war nicht sehr glücklich darüber.
+ Dann höre ich wie Chad ihm erklärt, dass unserer Uranvorräte Aufgrund eines kürzlichen Streiks der Minenarbeiter zur Neige gehen, aber die Sache ist die, es gab nie einen Streik.}
 {121}{}{Wirklich? Warum hast du das Marcus nicht berichtet?}
 {122}{}{Bist du wahnsinnig? Chad ist ein mächtiger Mann in dieser Stadt und er hat viele Freunde. Wenn ich ihn verpfeifen würde, gäbe es eine Menge Leute, die mich hassen würden. Verdammt, ich könnte sogar ermordet werden.}
-{123}{}{Hmm, then perhaps I could say something to Marcus. I don't plan to stay around here too much longer anyway.}
+{123}{}{Hmm, dann könnte ich vielleicht Marcus davon erzählen, hab eh nicht vor noch länger hier zu bleiben.}
 {124}{}{He, du musst tun was du tun musst, aber zieh mich einfach nicht mit hinein. Genau genommen, dieses Gespräch wurde niemals geführt, OK?}
 {125}{}{Kein Problem. Tschüss.}
 {126}{}{Achja, noch etwas. Ich weiß, dass Chad über alle stattgefunden Transaktionen Buch

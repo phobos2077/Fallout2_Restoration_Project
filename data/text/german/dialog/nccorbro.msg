@@ -230,7 +230,7 @@
 {780}{}{Die Korsischen Brüder zu deinen Diensten... (Der Mann schaut verärgert hoch, sieht noch einmal hin.) Himmel...}
 {781}{}{Ich 4! Ich 4!}
 {782}{}{Nichts}
-{783}{}{Was ist das alles hier?}
+{783}{}{Was ist das für ein Ort?}
 {784}{}{Kannst du mir etwas über das Studio erzählen?}
 {785}{}{Hast du irgendwelche... Lücken... die ich füllen könnte?}
 {786}{}{Hast du Arbeit für jemanden wie mich?}
@@ -243,7 +243,7 @@
 {806}{}{[Tu, was der Mann dir sagt.]}
 {810}{}{Die Korsischen Brüder zu deinen Diensten... (Der Mann schaut verärgert hoch, sieht dann noch mal hin.) Himmel...äh...hey, wie geht es dir, }
 {812}{}{Nix}
-{813}{}{Was ist das alles hier?}
+{813}{}{Was ist das für ein Ort?}
 {814}{}{Tu mir einen Gefallen. Erzähl mir etwas über dieses Studio.}
 {815}{}{Gute Frage. Hast du irgendwelche... Lücken... die ich füllen könnte?}
 {816}{}{Gute Frage. Hast du Arbeit für jemanden wie mich?}

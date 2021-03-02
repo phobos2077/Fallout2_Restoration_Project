@@ -15,7 +15,7 @@
 {114}{}{Lehre mich!}
 {115}{}{Villen Tank.}
 {116}{}{Du möchtest kämpfen lernen? Hast du denn auch das Zeug dazu? Woll'n wir mal sehn. }
-{117}{}{[Erledigt]}
+{117}{}{[Fertig]}
 {118}{}{Dich lehren? Wohl kaum. Du siehst mir ein bisschen zu selbstgefällig aus. Raus hier!}
 {119}{}{Was zum...?}
 {120}{}{Oh, sieh mal an, der Idiot. Ich habe keine Lust, mit dir zu reden. Hau ab.}
@@ -25,7 +25,7 @@
 {124}{}{Wie, du bist böse?}
 {125}{}{Aha. Ich habe noch weitere Fragen.}
 {126}{}{Böse? Aber nein. Nur schlau. Wenn du soviel Wert darauf legst, fair zu den Leuten zu sein, solltest du besser zum Drachen gehen. Der mag wimmernde Schwächlinge wie dich. }
-{127}{}{[Erledigt]}
+{127}{}{[Fertig]}
 {128}{}{Ja, das sollte ich wohl. Und das werde ich. Leider steht mir der Drache im Weg. Wir sind uns zu ebenbürtig im Kampf. Alles, was ich brauche, ist ein Mann, der kämpfen kann und mir hilft.}
 {129}{}{Ich bin diese Person.}
 {130}{}{Ach so. Ich hätte noch ein paar Fragen.}
@@ -52,7 +52,7 @@
 {151}{}{Da ist sehr interessant. Ist sicher ein gutes Gefühl. Ich habe weitere Fragen.}
 {152}{}{Danke. Tschüss.}
 {153}{}{Ich mag vielleicht ein Dreckskerl sein, aber man soll nie sagen können, dass ich nicht für mein Volk einstehe. Du wirst leiden, bevor ich dich töte.}
-{154}{}{[Erledigt]}
+{154}{}{[Fertig]}
 {155}{}{Dann bist du ein Narr und ein Hund, der tut, was ihm befohlen wird. Ich werde über deinen Tod lachen.}
 {156}{}{[starte deinen Angriff mit Rüstung und Waffen]}
 {157}{}{[steig in den Ring, leg deine Waffen und deine Rüstung ab und kämpfe mit den Händen]}
@@ -60,9 +60,9 @@
 {159}{}{[starte deinen Angriff mit Rüstung und Waffen]}
 {160}{}{[steig in den Ring, leg deine Waffen und deine Rüstung ab und kämpfe mit den Händen]}
 {161}{}{Bäh, bäh, du Herdentier! Geh zurück zu deinen Herren in Roben. Ich will nichts mit dir zu tun haben.}
-{162}{}{[Erledigt]}
+{162}{}{[Fertig]}
 {163}{}{Ich hab dir doch gesagt, wenn du moralische Bedenken hast, dann geh zum Drachen. Der wird deine Hand halten. Ich nicht. Hau ab jetzt. }
-{164}{}{[Erledigt]}
+{164}{}{[Fertig]}
 {165}{}{Ich muss gestehen, du bist ein noch besserer Kämpfer als ich selbst. Willst du nicht gegen den Drachen antreten? }
 {166}{}{Ja, und zwar sofort.}
 {167}{}{Im Grunde ist es ja nicht mein Kampf.}

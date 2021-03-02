@@ -67,7 +67,7 @@
 {204}{}{Ach Scheiße! Ich wusste, dass es nicht ewig so weitergehen kann. [Sieht dich an und senkt seine Stimme.] Ok hör zu.
  Verliere kein Wort über diese Angelegenheit. Hier sind $1000 für dein Schweigen. [Er gibt dir das Geld] Nun, wenn du mich
  jetzt entschuldigen würdest, ich muss gehen.}
-{205}{}{[Erledigt]}
+{205}{}{[Fertig]}
 {206}{}{Hilfe! Wir haben einen Dieb hier!}
 {207}{}{}
 {208}{}{Was zum!? Wer zum Teufel bist du?}
@@ -92,6 +92,6 @@
 {222}{}{Ok, keine Bewegung. Ich werd Marcus holen.}
 {300}{}{Du hast Chad erlaubt aus der Stadt zu fliehen.}
 {400}{}{Lass mich in Ruhe.}
-{2040}{}{Ah dammit I knew this wouldn't last forever. (Looks around and lowers his voice.) Alright listen. Keep your
- mouth shut about this little matter. Here's $1000 to keep you quiet. [He hands you the money and you hand him his briefcase.]
- Now if you excuse me I have to get going.}
+{2040}{}{Ach Scheiße! Ich wusste das es nicht ewig so weitergehen kann. [Sieht sich an und senkt seine Stimme.] Ok hör zu.
+ Verliere kein Wort über diese Angelegenheit. Hier sind $1000 für dein Schweigen. [Er gibt dir das Geld und du überreichst
+ ihm seinen Koffer.] Nun, wenn du mich jetzt entschuldigen würdest, ich muss gehen.}

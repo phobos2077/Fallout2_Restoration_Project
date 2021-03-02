@@ -113,7 +113,7 @@
 {192}{}{Nicht sonderlich viel. Ich hab ihn umgelegt.}
 {193}{}{Im Ernst? Donnerwetter, wenn das mal keine erfreuliche Nachricht ist! Sein Hirn dürfte eine hübsche Tapete abgeben, wenn's schon zu sonst nichts getaugt hat. Komm, ich geb dir einen Rad-a-Waster aus.}
 {194}{}{Ich mag.}
-{195}{}{Ich gehn.}
+{195}{}{Ich gehen jetzt.}
 {196}{}{Danke - nett von dir. Hast du einen Augenblick Zeit? Ich wollte dich was fragen.}
 {197}{}{Danke. Ich dachte mir, du solltest es erfahren.}
 {198}{}{Du hast WAS? Wenn ich hier nicht Dienst schieben würde, ich würd glatt über den Tresen hüpfen und...und dich knutschen. Dieser kleine Scheißer, es geschieht ihm recht! Ganz unter uns gesagt, ich hab die ganze Zeit gehofft, dass ich mal irgendeinen blöden Ochsen finde, der mir die Dreckarbeit abnimmt. Ich hab auch schon eine kleine Belohnung beiseite gelegt. Die gehört jetzt dir - du hast sie dir redlich verdient, finde ich.}

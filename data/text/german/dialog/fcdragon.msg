@@ -15,7 +15,7 @@
 {114}{}{Lehre mich!}
 {115}{}{Villen Tank.}
 {116}{}{Dann fangen wir gleich an.}
-{117}{}{[Erledigt]}
+{117}{}{[Fertig]}
 {118}{}{[Er betrachtet dich sehr genau] Ich glaube kaum, dass du dein Wissen für das Gute einsetzen würdest. Wiedersehen.}
 {119}{}{Grrr!}
 {120}{}{Entschuldige bitte meine Unhöflichkeit. Ich kann jetzt nicht mit dir reden.}
@@ -25,7 +25,7 @@
 {124}{}{Dann wirst du gewinnen.}
 {125}{}{Aha. Ich habe noch weitere Fragen.}
 {126}{}{Glaubst du das wirklich? Dann solltest du dich mit Lo Pan zusammentun. Wiedersehen.}
-{127}{}{[Erledigt]}
+{127}{}{[Fertig]}
 {128}{}{Das muss ich. Ich fürchte aber, wir sind uns ebenbürtig. Wir haben auch dieselbe Zahl von Anhängern. Eine einzige Person würde den Ausschlag geben.}
 {129}{}{Ich bin diese Person.}
 {130}{}{Ach so. Ich hätte noch ein paar Fragen.}
@@ -44,7 +44,7 @@
 {143}{}{Wir werden unser Können messen. Ich will dich nicht töten.}
 {144}{}{Weder noch. Vergiss es.}
 {145}{}{Du bist nicht der Richtige für diese Aufgabe. Bis dann.}
-{146}{}{[Erledigt]}
+{146}{}{[Fertig]}
 {147}{}{Glaubst du? Es sieht so aus, als ob Krieg und Kampf unvermeidbar wären. Es wäre besser, einen Kampf mit festen Regeln zu führen, als ein reines Gemetzel zu veranstalten. }
 {148}{}{Mir ist gleich, wie ich gewinne.}
 {149}{}{Wenn wir schon kämpfen müssen, dann doch zum Überleben. Wenn jemand versucht, mich umzubringen, werde ich mich mit allen erdenklichen Mitteln zur Wehr setzten.}
@@ -69,11 +69,11 @@
 {168}{}{Da ist sehr interessant. Ist sicher ein gutes Gefühl. Ich habe weitere Fragen.}
 {169}{}{Danke. Tschüss.}
 {170}{}{Du hast versucht mein Volk zu entehren, dafür muss ich dich töten. Tut mir leid, wenn ich dir dabei weh tun muss.}
-{171}{}{[Erledigt]}
+{171}{}{[Fertig]}
 {172}{}{Sprich mich nicht an, du Trottel von einem Hubologen. Ich habe mit Typen wie dir nichts zu schaffen.}
-{173}{}{[Erledigt]}
+{173}{}{[Fertig]}
 {174}{}{Du hast die Ehre eines Kojoten und die Moral eines Schakals. Ich möchte nichts mit dir zu tun haben.}
-{175}{}{[Erledigt]}
+{175}{}{[Fertig]}
 {176}{}{Deine Kampfkunst ist wirklich beeindruckend. Willst du gegen  Lo Pan antreten?}
 {177}{}{Ja, und zwar sofort.}
 {178}{}{Im Grunde ist es ja nicht mein Kampf.}

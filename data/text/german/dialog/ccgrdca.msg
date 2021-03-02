@@ -13,7 +13,7 @@
 {110}{}{Wir wurden unterwandert! Alarm!}
 {111}{}{Eindringlinge! Schlagt Alarm!}
 {112}{}{Sicherheitsalarm! Riegelt die Basis ab!}
-{113}{}{Sichert alle Stationen! Wir sind im Alarmzustand}
+{113}{}{Sichert alle Stationen! Wir sind im Alarmzustand!}
 {114}{}{Angriffsalarm! Code Rot!}
 {115}{}{Dich legen wir um!}
 {116}{}{Die Enklave wird die Welt beherrschen!}

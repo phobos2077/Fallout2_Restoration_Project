@@ -42,7 +42,7 @@
 {191}{}{Ich versteh trotzdem nicht, was dir das bringt.}
 {200}{}{Ist doch klar. Wenn unser Kraftwerk besser arbeitet, könnten wir den extra Strom und
  unser technisches Know-how an Vault City verkaufen. Und wir bekommen im Gegenzug Medizintechnik.}
-{201}{}{Oh-oh...}
+{201}{}{Und?}
 {210}{}{Wenn Vault City nicht mehr Strom bekommt, wird ihr Reaktor in den nächsten 15 Jahren
  fertig sein. Und wenn der Reaktor in Gecko nicht repariert wird, gibt's uns nicht mal mehr halb
  so lang. Ohne Medizintechnik werden alle Ghuls in den nächsten 20 Jahren sowieso sterben. Es hat

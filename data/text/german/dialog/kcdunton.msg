@@ -210,7 +210,7 @@
 {705}{}{[hyuk, hyuk, hyuk] Ja, Ok Wilder. Ich denke es wird mal Zeit. dass wir dir beibringen was man hier mit nervigen Wilden macht.}
 {706}{}{Also gut Wilder, du gewinnst dieses Mal. Wir werden aufhören, jetzt lass uns einfach in Ruhe.}
 {707}{}{Du hast die Dunton Brüder dazu gebracht, Torr in Ruhe zu lassen.}
-{708}{}{[Erledigt]}
+{708}{}{[Fertig]}
 {709}{}{Lass uns einfach in Ruhe.}
 {710}{}{Ja, wie auch immer Wilder. Kümmer dich um deine eigenen Angelegenheiten.}
 {800}{}{Ich habe einen Haufen Käferteile in dem Schuppen oben bei der Weide gefunden. Wisst ihr für was die gut sind?}

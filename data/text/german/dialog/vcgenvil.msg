@@ -1,5 +1,5 @@
-{100}{}{Du siehst einen Dorfbewohner.}
-{101}{}{Du siehst einen Dorfbewohner.}
+{100}{}{Du siehst einen Bauer.}
+{101}{}{Du siehst einen Bauer.}
 {102}{}{Hallo.}
 {103}{}{Guten Tag auch.}
 {104}{}{Willkommen in unserem Dorf.}

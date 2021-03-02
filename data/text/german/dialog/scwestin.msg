@@ -35,7 +35,7 @@
  drauf. Wieviel hat er dir geboten?}
 {129}{}{(brauche Info von Chris)}
 {130}{}{(soll heißen, Avellone)}
-{131}{}{Wie du willst.}
+{131}{}{Fein.}
 {132}{}{Deal.}
 {133}{}{Pech für dich, Alter.}
 {134}{}{Ich freue mich drauf, von dir zu hören. Geh jetzt wieder raus, wie du gekommen bist.}

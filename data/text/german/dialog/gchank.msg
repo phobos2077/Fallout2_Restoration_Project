@@ -43,7 +43,7 @@
 {180}{}{Du findest Festus da, wo du reingekommen bist. Er ist im Kontrollraum. Du kannst ihn gar
  nicht verfehlen. Es ist der stinkende, weinerliche Typ, der unter der schweren Last seines
  riesigen Egos fast zusammenbricht. Er kann dir sicher helfen.}
-{181}{}{Vielen Dank. Auf Wiedersehn.}
+{181}{}{Danke. Auf Wiedersehn.}
 {190}{}{Naja, wenn du den Wartungsroboter steuern kannst, könnte der es vielleicht installieren.
  Oder du könntest reingehn und es selbst installieren.}
 {191}{}{Wartungsroboter?}
@@ -52,7 +52,7 @@
  Aber nachdem wir ihn eh' nicht brauchen, haben wir den Hitzeschutz auch nicht reparieren lassen.
  Wenn du die Steuercodes rausfindest und nicht zu lang brauchst, macht er vielleicht, was du
  willst.}
-{201}{}{Vielen Dank. Auf Wiedersehn.}
+{201}{}{Danke. Auf Wiedersehn.}
 {210}{}{Danke, dass du den Reaktor repariert hast.}
 {211}{}{Ist es hier in letzter Zeit irgendwie kühler?}
 {212}{}{Danke für die Hilfe.}

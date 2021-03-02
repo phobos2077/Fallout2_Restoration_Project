@@ -15,7 +15,7 @@
 {114}{}{Subebene Blau gibt es nicht. Wenn das jemand behauptet hat, ist er ein schmutziger Lügner und höchstwahrscheinlich ein kommunistischer Sympathisant. Bitte melden Sie die Person in der Sicherheitsabteilung auf Subebene Rot damit sie die dementsprechende Behandlung erhält. Vielen Dank für Ihren Beitrag als stolzer Amerikaner!}
 {115}{}{Zurück zum Hauptmenü.}
 {116}{}{Danke das Sie den Ortsfinder benutzt haben.}
-{117}{}{[Erledigt]}
+{117}{}{[Fertig]}
 {118}{}{Du siehst einen Computer.}
 {119}{}{Du siehst den EPA Ortsfinder.}
 {120}{}{Du siehst einen Computer mit detaillierten Informationen über die EPA-Ebenen.}

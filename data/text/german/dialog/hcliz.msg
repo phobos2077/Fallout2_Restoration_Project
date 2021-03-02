@@ -54,7 +54,7 @@
 {153}{}{Ja, genau.}
 {154}{}{Nein.}
 {155}{}{Dann sollte ich wohl besser meine Sachen regeln.}
-{156}{}{[Erledigt]}
+{156}{}{[Fertig]}
 {157}{}{Mord wird in meinem Laden nicht unterstützt. Raus hier.}
 {158}{}{Ja ja, schon gut. Alte Schabracke.}
 {159}{}{Ghuls sind doch nützliche Sklaven. Sie haben zwar nicht genug Verstand, um sie mit zu den Menschen zu rechnen, aber sie umzubringen lohnt sich auch nicht. Ich bin nicht dafür, Ghuls umzubringen.}
@@ -70,7 +70,7 @@
 {169}{}{Ja.}
 {170}{}{Nein.}
 {171}{}{Dir verkaufe ich gar nichts. Raus aus meinem Laden.}
-{172}{}{[Erledigt]}
+{172}{}{[Fertig]}
 {173}{}{Wir haben zu. Wir öffnen um acht.}
 {174}{}{Hey! Geh da weg!}
 {175}{}{Jetzt reicht's! Du willst es ja nicht anders!}
@@ -80,7 +80,7 @@
 {181}{}{Das reicht jetzt! Her mit dir!}
 {182}{}{Womit willst du mir denn noch auf die Nerven gehen?}
 {183}{}{Danke.}
-{184}{}{[Weiter]}
+{184}{}{[FORTSETZEN]}
 {185}{}{Heh! Wer zum Teufel ist da draußen?}
 {186}{}{Ich weiß nicht wer du bist, aber ich komme und hol dich.}
 {200}{}{Hast du vielleicht noch irgendetwas Spezielles rumliegen, dass mich interessieren könnte?}

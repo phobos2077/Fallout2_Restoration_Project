@@ -139,6 +139,6 @@
 {190}{}{Sorry Süße... Mir geht's heut nicht so gut. Ich komm später wieder.}
 {191}{}{Hast du grade etwas Zeit für mich?}
 {192}{}{Komm wieder wann immer du möchtest! Es ist immer schon dich hier zu sehen.}
-{193}{}{[Erledigt]}
+{193}{}{[Fertig]}
 {200}{}{Du schüttest das Jet-Gegenmittel in Fannie Maes Getränk.}
 {210}{}{Alles klar, hier sind $60. Wie sieht's mit der nächsten Runde aus?}

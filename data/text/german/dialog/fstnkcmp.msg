@@ -2,7 +2,7 @@
 {101}{}{Du siehst einen PoseidoNet- Computer.}
 {102}{}{Du siehst einen PoseidoNet- Computer.}
 {103}{}{::Piep:: Terminal-Störung. NavComp-Installation erforderlich. ::Piep::}
-{104}{}{[Erledigt]}
+{104}{}{[Fertig]}
 {105}{}{Willkommen bei PoseidoNet. Dieses Terminal überträgt nur Daten zwischen dem Tanker PHS Valdez und dem Dockturm. Befehl?}
 {106}{}{Start.}
 {107}{}{Status prüfen.}
@@ -19,6 +19,6 @@
 {118}{}{-Treibstofftanks: Voll- -Laderaum: Leer- -Navigationscomputer: In Bereitschaft- - Leinen: Fest-}
 {119}{}{Du siehst einen PoseidoNet-Navigationscomputer.}
 {129}{}{[Du gibst schnell die Sequenz zum Lösen der Leinen ein und das Schiff bewegt sich vom Landesteg weg.]}
-{130}{}{[Erledigt]}
-{131}{}{Navigation Computer on-line.}
+{130}{}{[Fertig]}
+{131}{}{Navigationscomputer online.}
 {200}{}{ACHTUNG: U-Boot noch aktiv. Ausführung würde zur Zerstörung des Schiffes führen.}

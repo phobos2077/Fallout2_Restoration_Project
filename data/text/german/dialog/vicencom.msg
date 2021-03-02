@@ -219,7 +219,7 @@
 {272}{}{Oooooooh. Dasss kribbbelt.}
 {300}{}{Als du gerade wieder zur Auflistung der Archive zurückkehren willst, entdeckst du einen versteckten Eintrag.}
 {301}{}{Als du dich gerade abmelden willst, entdeckst du einen versteckten Eintrag.}
-{302}{}{[Weiter]}
+{302}{}{[FORTSETZEN]}
 {303}{}{Nach einigen Minuten kannst du dir Zutritt zu den gesperrten Archiven verschaffen. Es gibt nur eine Datei, die ist allerdings als
  "Verschlusssache" markiert. Sieht so aus als ob deine Wissenschaftspunkte sich endlich auszahlen.}
 {304}{}{[Eintrag lesen.]}

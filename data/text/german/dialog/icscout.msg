@@ -121,7 +121,7 @@
 {932}{}{Sie trank diesen Trank, er roch sehr stark und die Träume kamen zu ihr.}
 {933}{}{Der Knochen in ihrer Nase hat es ihr gesagt. Sie spricht so mit den Vorfahren.}
 {940}{}{Du lügen. So spricht man nicht mit Geistern. Nun wird Laufender Schatten sehen wie Zunge von Lügner schmeckt mit Felssoße.}
-{941}{}{[Erledigt]}
+{941}{}{[Fertig]}
 {950}{}{Oh, dann ist es wahr was du sagst. Laufender Schatten kennt die Macht der Geister. Was soll Laufender Schatten tun?}
 {951}{}{Na ja, Ich habe mit ihnen gesprochen und sie haben mir gesagt, dass sie dich nicht wirklich mögen. Sie haben mich gebeten, dich zu töten.}
 {952}{}{Du musst hier weg und darfst diese Männer nie wieder führen. Die Geister sind böse, weil du diese Männer

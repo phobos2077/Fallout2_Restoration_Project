@@ -91,7 +91,7 @@
 {178}{}{Äh, ja... Vault City lebe hoch, Bürger.}
 {179}{}{Danke.}
 {180}{}{Tagesausweis, bitte.}
-{181}{}{Bitte.}
+{181}{}{Bitte schön.}
 {182}{}{Ich brauche keinen Tagesausweis. Ich bin Bürger!}
 {183}{}{Ich wollte nur mal vorbeischauen, um zu sehen, wie's dir so geht.}
 {184}{}{Ich hab keine Zeit zum Rumsülzen, kapiert? Und jetzt hau ab.}

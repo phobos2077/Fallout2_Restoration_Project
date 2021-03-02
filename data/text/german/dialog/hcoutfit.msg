@@ -1,4 +1,4 @@
-{100}{}{You see a medium-sized man wearing dusty clothing.}
+{100}{}{Du siehst einen mittelgroßen Mann in staubiger Kleidung.}
 {101}{}{Du siehst Bill, den Ausrüster.}
 {102}{}{Du siehst einen mittelgroßen Mann in staubiger Kleidung. Er stinkt nach Brahmin.}
 {103}{}{Na wie isses? Was kann ich für dich tun?}

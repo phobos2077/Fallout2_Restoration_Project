@@ -35,7 +35,7 @@
 {131}{}{Bin ja schon weg.}
 {132}{}{Das ist das große Loch im Berg dort im Osten, wo die beiden schwerbewaffneten Wachposten
  stehen. Hast du sonst noch irgendwelche Fragen, oder kann ich jetzt weiterarbeiten?}
-{133}{}{Was ist das alles hier?}
+{133}{}{Was ist das für ein Ort?}
 {134}{}{Pass bloß auf. Ich hab heut keinen Bock auf so 'n Mist.}
 {135}{}{Danke für die Beschreibung. Tschüss.}
 {136}{}{Als ob in Vault City nicht schon genug menschlicher Abschaum rumhängt... Hör zu: DU HAST

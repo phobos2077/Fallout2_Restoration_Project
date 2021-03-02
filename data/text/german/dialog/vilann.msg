@@ -34,7 +34,7 @@
 {404}{}{Vielen Dank!}
 {405}{}{Endlich sind wir sicher.}
 {406}{}{Vielen Dank für alles! Mach auf jeden Fall mal wieder hier halt, wenn du in der Gegend bist, bis dahin haben wir das Dorf weiter ausgebaut. Dann werde ich auch endlich eine funktionierende Küche haben, um darin zu kochen.}
-{410}{}{Hallo.}
+{410}{}{Hallo nochmal.}
 {411}{}{Du scheinst sehr beschäftigt zu sein. Brauchst du bei irgendetwas Hilfe?}
 {412}{}{Schon gut. Tschüss.}
 {420}{}{Hast du etwas erreicht?}

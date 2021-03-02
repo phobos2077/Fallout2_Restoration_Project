@@ -121,7 +121,7 @@
 {366}{}{Wie wär's mit jemand anderem?}
 {367}{}{Nun, dann möchte ich dir eine andere Frage stellen}
 {368}{}{OK.}
-{369}{}{Wie du willst.}
+{369}{}{Fein.}
 {370}{}{OK.}
 {371}{}{Lohnt nicht.}
 {372}{}{Nein.}

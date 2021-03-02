@@ -30,7 +30,7 @@
 {177}{}{So kannst du nicht weitermachen.}
 {180}{}{Du bist ein Verräter am eigenen Volk.}
 {181}{}{Warum tust du das?}
-{182}{}{Du bist schlecht. Das Auserwählte Wesen ist von Grund auf schlecht.}
+{182}{}{Du bist böse. Das Auserwählte Wesen ist böse.}
 {183}{}{Sie kommen aus dem Osten in unser Dorf. Aber ihre Waren sind minderwertig.}
 {184}{}{Kannst du mir sagen, wo ich Heilkräuter finde?}
 {185}{}{Vielen Dank. Auf Wiedersehen.}

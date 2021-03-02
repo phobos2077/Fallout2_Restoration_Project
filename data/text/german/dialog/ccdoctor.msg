@@ -16,7 +16,7 @@
 {114}{}{Ich müssen gehen.}
 {115}{}{Wer bist du?}
 {116}{}{Was machst du hier?}
-{117}{}{Was ist das alles hier?}
+{117}{}{Was ist das für ein Ort?}
 {118}{}{Wieso ist der Raum hier schalldicht?}
 {119}{}{Warum befindet sich nebenan eine Deathclaw?}
 {120}{}{Was soll die Hundestatue an der Tür?}
@@ -27,7 +27,7 @@
 {124}{}{Kapiert.}
 {125}{}{Ich arbeite als Basisarzt, doch das ist nur eine Nebenbeschäftigung. Eigentlich bin ich
  Genetiker.}
-{126}{}{Was das?}
+{126}{}{Was ist das?}
 {127}{}{Was ist ein Genetiker?}
 {128}{}{Ich glaube nicht, dass du über die intellektuellen Möglichkeiten verfügst, meine Arbeit
  zu verstehen, Soldat. Sagen wir, ich kann Menschen oder Tiere 'nach Bedarf' schaffen.}
@@ -46,7 +46,7 @@
  werden die dann etwas laut. Der Basiskommandant empfand dies als störend, deshalb ließ er die
  Schallisolierung einbauen.}
 {136}{}{Oh...}
-{137}{}{Verstehe.}
+{137}{}{Ich verstehe.}
 {138}{}{Groß, braun und hässlich? Ein Experiment, das ich kürzlich vollendet habe. Seine
  Ausschaltung ist schon geplant.}
 {139}{}{Was Ausschaltung?}
@@ -63,7 +63,7 @@
 {146}{}{Wir haben es geschafft! Wir haben tatsächlich ihre Intelligenz gesteigert. Doch ich
  ahnte, dass wir zu weit gegangen sind. Dass sie vielleicht klüger waren, als sie zeigten. Als ich
  hierher versetzt wurde, brachte ich also eine von ihnen mit, um meine Theorie zu überprüfen.}
-{147}{}{Oh-oh...}
+{147}{}{Und?}
 {148}{}{Ich hatte recht! Die Deathclaws hatten sich offensichtlich dumm gestellt, versuchten
  Zeit zu schinden und so viel wie möglich von uns zu lernen. Sie können sogar die menschliche
  Sprache imitieren! Ich habe mich tatsächlich mit dem Exemplar nebenan unterhalten.}
@@ -81,7 +81,7 @@
 {157}{}{Interessant. Darf ich noch ein bisschen was fragen?}
 {158}{}{Sag mal, Doc, bist du sicher, dass das Zimmer hier schalldicht ist?}
 {159}{}{Aber natürlich. Der Kommandant würde sonst einen Anfall bekommen. Warum?}
-{160}{}{Nur so.}
+{160}{}{Keine Ursache.}
 {161}{}{Ich nicht wollen du gehört wenn ich töten dich!}
 {162}{}{Nur neugierig.}
 {163}{}{Ich möchte nicht, dass jemand dein Geschrei hört, wenn ich Experimente an dir durchführe.}
@@ -93,7 +93,7 @@
 {169}{}{Ich wollte noch ein paar Fragen stellen.}
 {170}{}{Nichts, ich wollte nur vorbeischauen.}
 {171}{}{Aber natürlich. Der Kommandant würde sonst einen Anfall bekommen. Warum?}
-{172}{}{Nur so.}
+{172}{}{Keine Ursache.}
 {173}{}{Ich nicht wollen du gehört wenn ich töten dich!}
 {174}{}{Nur neugierig.}
 {175}{}{Ich möchte nicht, dass jemand dein Geschrei hört, wenn ich Experimente an dir durchführe.}
@@ -107,7 +107,7 @@
  durchführe.}
 {180}{}{Oh...}
 {181}{}{Er repariert?}
-{182}{}{Verstehe.}
+{182}{}{Ich verstehe.}
 {183}{}{Kann er repariert werden?}
 {184}{}{Oh ja. Ich habe seinen Motivator-Schaltkreis entfernt und ihn Raul in der
  Wartungsabteilung gegeben. Er kann jederzeit wieder eingesetzt werden... Vielleicht mache ich
@@ -116,7 +116,7 @@
 {186}{}{Also gut.}
 {187}{}{Bist du ein Zivilist?}
 {188}{}{Das ist das medizinische Labor. Die Waffenkammer ist den Flur entlang links.}
-{189}{}{Warum trägst du keine Uniform? }
+{189}{}{Warum hast du keine Uniform?}
 {190}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {191}{}{Eindringlinge! Ruft die Wache!}
 {192}{}{Wache! Eindringlinge im medizinischen Labor!}

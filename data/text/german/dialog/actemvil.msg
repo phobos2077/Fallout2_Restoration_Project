@@ -9,7 +9,7 @@
 {108}{}{Zuerst möcht ich dir einige Fragen stellen.}
 {109}{}{Sicher, dann mal los.}
 {110}{}{Ich glaub, ich muss mich kurz darauf vorbereiten.}
-{111}{}{Was möchtest du wissen?}
+{111}{}{Was möchtest du gern wissen?}
 {112}{}{Warum kämpfen?}
 {113}{}{Kampf bis Tod?}
 {114}{}{Kampf ohne Waffen?}
@@ -23,7 +23,7 @@
 {122}{}{Der Pfad des Auserwählten Wesens ist kein einfacher Weg, }
 {123}{}{. Du wirst dich in deinem Leben vielen Herausforderungen stellen müssen und am schwierigsten hierbei wird der Umgang mit deinen Mitmenschen sein. Es wird eine Zeit geben, in der Diplomatie und Taktgefühl sich als nutzlos erweisen und du die Hand erheben musst. Diese Herausforderung bereitet dich darauf vor, einem anderen Menschen in die Augen zu sehen in dem Wissen, dass du ihn möglicherweise töten musst.}
 {124}{}{OK.}
-{125}{}{Verstehe.}
+{125}{}{Ich verstehe.}
 {126}{}{Nein, mein Freund, du musst mich nur besiegen. Wir werden den Kampf zu gegebener Zeit beenden.}
 {127}{}{Ich verstehen.}
 {128}{}{Also gut.}
@@ -55,7 +55,7 @@
 {154}{}{Nimm den Weg zu meiner Linken, Auserwähltes Wesen. Er führt dich zum eigentlichen Tempel. Durch den Eingang hinter mir gelangst du in die letzte Kammer.}
 {155}{}{OK, ich gehen.}
 {156}{}{OK, danke.}
-{157}{}{Nein danke, Auserwähltes Wesen. Die Wunden unseres letzten Aufeinandertreffens sind noch nicht verheilt. Das wird Jahre dauern.}
+{157}{}{Nein danke, Auserwähltes Wesen. Die Wunden unseres letzten Aufeinandertreffens sind noch nicht verheilt. Das wird Jahre dauern, um mich zu erholen!}
 {158}{}{Guten Tag, Dumar.}
 {159}{}{Ha! Guten Tag, Dumar.}
 {160}{}{Auserwähltes Wesen, dass ich nicht lache. Du wirst bald ein totes Auserwähltes Wesen sein!}
@@ -67,7 +67,7 @@
 {169}{}{Hmm... Ich verstehe, was du meinst. Ich möchte nicht dafür verantwortlich sein, dich getötet zu haben, nur weil ich deine Stärke testen wollte. Schön - geh vorbei, Auserwähltes Wesen.}
 {170}{}{Hmm... Ich verstehe was du meinst. Aber wir müssen trotzdem kämpfen. Ich werde einfach darauf achten, dich nicht zu sehr zu verletzen.}
 {171}{}{Danke! Ich sehe dich später im Dorf.}
-{172}{}{Verstehe.}
+{172}{}{Ich verstehe.}
 {200}{}{Ich erinnere mich nicht an unseren letzten Kampf, Auserwähltes Wesen. Es ist mir ein Rätsel, wie du es geschafft hast, an mir vorbeizukommen.}
 {201}{}{Du bist sehr redegewandt, Auserwähltes Wesen. Diese Gabe wird dir viele Türen öffnen.}
 {300}{}{Dir auch, Auserwähltes Wesen. Mögen die guten Geister dir bei deiner Suche beistehen.}

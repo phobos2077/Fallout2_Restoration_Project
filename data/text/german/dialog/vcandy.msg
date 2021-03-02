@@ -15,7 +15,7 @@
 {112}{}{Also, mein Freund hier könnte eigentlich ein bisschen medizinische Behandlung vertragen.}
 {113}{}{Also, meine Freunde hier könnten eigentlich ein bisschen medizinische Behandlung
  vertragen.}
-{114}{}{Was ist das alles hier?}
+{114}{}{Was ist das für ein Ort?}
 {115}{}{Ähh, wo sind wir hier noch mal?}
 {116}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
@@ -32,7 +32,7 @@
 {127}{}{?}
 {128}{}{Vergiss es. Wie wär's statt dessen mit meinem Freund?}
 {129}{}{Vergiss es. Wie wär's statt dessen mit meinen Freunden?}
-{130}{}{Was ist das alles hier?}
+{130}{}{Was ist das für ein Ort?}
 {131}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {132}{}{Ich hab nicht genug. Ich komm wieder, wenn ich mehr aufgetrieben habe.}
@@ -46,7 +46,7 @@
 {139}{}{Tschühüßßßß.}
 {140}{}{Kannst du meinen Freund behandeln?}
 {141}{}{Kannst du meine Freunde behandeln?}
-{142}{}{Was ist das alles hier?}
+{142}{}{Was ist das für ein Ort?}
 {143}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {144}{}{Mir geht's viel besser, danke.}
@@ -73,7 +73,7 @@
 {162}{}{Das ist aber ganz schön teuer. Wie wär's mit }
 {163}{}{?}
 {164}{}{Macht nichts. Wie wär's statt dessen mit mir?}
-{165}{}{Was ist das alles hier?}
+{165}{}{Was ist das für ein Ort?}
 {166}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {167}{}{Ich hab nicht genug. Ich komm wieder, wenn ich mehr aufgetrieben habe.}
@@ -84,7 +84,7 @@
 {172}{}{Ich weiß nicht recht. Das ist ein bisschen teuer. Wie wär's mit }
 {173}{}{ Hühner?}
 {174}{}{Kannst du statt dessen nur mich behandeln?}
-{175}{}{Was ist das alles hier?}
+{175}{}{Was ist das für ein Ort?}
 {176}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}
 {177}{}{Ich hab nicht genug. Ich komm wieder, wenn ich mehr aufgetrieben habe.}
@@ -126,7 +126,7 @@
 {206}{}{Ähm, mir muss ein Geschwür entfernt werden. Mein sechster Zeh.}
 {207}{}{Mein Freund hier könnte etwas medizinische Versorgung vertragen.}
 {208}{}{Meine Freunde hier könnten etwas medizinische Versorgung vertragen.}
-{209}{}{Was ist das alles hier?}
+{209}{}{Was ist das für ein Ort?}
 {210}{}{Wo sind wir hier noch mal?}
 {211}{}{Ich habe Berichte über Kampfimplantate in der medizinischen Datenbank von Vault City
  gefunden. Könntest du so eine Operation durchführen?}

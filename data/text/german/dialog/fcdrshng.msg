@@ -35,87 +35,87 @@
 {293}{}{CIh trage sie nicht bei mir, aber ich werde mal schauen, ob ich sie finden kann.}
 {294}{}{Ich habe sie nicht bei mir und selbst wenn ich sie hätte, würde ich sie Ihnen nicht übergeben. Ich will nichts mit Ihnen oder Ihren vegetarischen Zombies zu tun haben.}
 {300}{}{Die Einrichtung ist als EPA bekannt. Ich habe es auf Ihrem Karten-Gerät markiert. Bitte, gehen Sie dort hin und versuchen Sie dort einige Samen zu finden. Und nicht irgendwelche einfachen alten Samen -- sie müssen einzigartig sein.}
-{301}{}{Ah, it seems you already know the location of the EPA. Please, go there and try to find some seeds. And not just any plain old seeds -- they must be unique.}
+{301}{}{Ah, anscheinend kennen Sie den Standort der EPA bereits. Bitte gehen Sie dorthin und versuchen Sie, einige Samen zu finden. Und nicht irgendwelche einfachen alten Samen -- sie müssen einzigartig sein.}
 {302}{}{Ich komme wieder.}
-{303}{}{Eh, on second thought, I'm not interested in working for you anymore. We're done here.}
-{310}{}{[His eyes flare with rage] Kill him, my children! His body shall make a fine host for your newest sibling!}
-{311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
-{312}{}{[Erledigt]}
-{320}{}{Excellent! Now I shall prepare your reward. Make yourself comfortable. This may take a little while.}
-{321}{}{[Weiter]}
+{303}{}{Eh, beim zweiten Gedanken bin ich nicht mehr daran interessiert, für Sie zu arbeiten. Wir sind hier fertig.}
+{310}{}{[Seine Augen flackern vor Wut] Töte ihn, meine Kinder! Sein Körper wird ein guter Wirt für euer neuestes Geschwisterchen sein!}
+{311}{}{[Seine Augen flackern vor Wut] Töte sie, meine Kinder! Ihr Körper wird ein guter Wirt für euer neuestes Geschwisterchen sein!}
+{312}{}{[Fertig]}
+{320}{}{Ausgezeichnet! Jetzt werde ich Ihre Belohnung vorbereiten. Machen Sie es sich bequem. Es kann eine Weile dauern.}
+{321}{}{[FORTSETZEN]}
 {322}{}{Behalten Sie ihre Belohnung. Ich habe keine Zeit ewig zu warten.}
-{330}{}{Yes, bring the seeds to me and you may claim your reward.}
+{330}{}{Ja, bringen Sie mir die Samen und Sie können die Belohnung einstreichen.}
 {331}{}{Ich komme wieder.}
-{340}{}{Simply giving you the location of the facility is a reward in itself, as it is bound to be full of useful supplies. You may of course keep anything else you find. I am only interested in unique seed samples. Once you have brought them to me, I will give you a gift to present to the Shi.}
+{340}{}{Es ist eine Belohnung an sich selbst, Ihnen nur den Standort der Einrichtung mitzuteilen, da sie mit Sicherheit voller nützlicher Vorräte ist.}
 {341}{}{Also gut, ich werde es machen. Ich komme wieder.}
-{342}{}{You call that a reward? I can explore ruins on my own time. I'm not interested.}
+{342}{}{Das nennen Sie eine Belohnung? Ruinen kann ich erkunden, wann immer ich mag. Ich bin nicht interessiert.}
 {350}{}{[Er schaut dich erwartungsvoll an.]}
 {351}{}{Hier sind die Samen, die Sie wollten.}
 {352}{}{Ich komme wieder, wenn ich die Samen habe.}
-{360}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill him, my children! His body shall make a fine host for your newest sibling!}
-{361}{}{Then it seems I have no further use for you. [He motions to the plant creatures.] Kill her, my children! Her body shall make a fine host for your newest sibling!}
-{362}{}{[Erledigt]}
-{370}{}{[The Doctor departs. After about an hour, he returns and hands you a single plant seed.] This plant sample is my gift to the Shi. It will change everything. I am giving you the honor of presenting it to Doctor Wong.}
+{360}{}{Dann habe ich anscheinend keine weitere Verwendung für Sie. [Er deutet auf die Pflanzenwesen.] Töte ihn, meine Kinder! Sein Körper wird ein guter Wirt für euer neuestes Geschwisterchen sein!}
+{361}{}{Dann habe ich anscheinend keine weitere Verwendung für Sie. [Er deutet auf die Pflanzenwesen.] Töte sie, meine Kinder! Ihr Körper wird ein guter Wirt für euer neuestes Geschwisterchen sein!}
+{362}{}{[Fertig]}
+{370}{}{[Der Doktor verschwindet. Nach ungefähr einer Stunde kehrt er zurück und gibt dir einen einzelnen Pflanzensamen.] Diese Pflanzenprobe ist mein Geschenk an die Shi. Es wird alles ändern. Ich gebe Ihnen die Ehre, es Doktor Wong vorzustellen.}
 {371}{}{Was ist so besonders an diesen Pflanzenproben?}
-{372}{}{That's it? I went and got those damn seeds for you and this is what I get for my trouble? Yet another seed? Fuck you and your creepy plant zombies. I think I'll do the world a favor and put an end to this morbid operation of yours.}
-{380}{}{The Shi have been attempting to create plant life that is resistant to radiation. I was the head of that project, but during my research I made a discovery that led me down a different path. I created a plant sentience serum, but after a few ... unfortunate incidences, the Shi wanted to shut the project down. So I left to continue my work unimpeded.}
-{381}{}{Okay. So how does this plant sample figure into this?}
+{372}{}{Das ist alles? Ich habe diese verdammten Samen für Sie geholt und das bekomme ich für meinen Ärger? Noch einen Sames? Ficken Sie sich und Ihre gruseligen Pflanzenzombies. Ich denke, ich werde der Welt einen Gefallen tun und Ihren krankhaften Machenschaften ein Ende bereiten.}
+{380}{}{Die Shi haben versucht, strahlenresistentes Pflanzenleben zu schaffen. Ich war der Leiter dieses Projekts, aber während meiner Recherche machte ich eine Entdeckung, die mich auf einen anderen Weg führte. Ich habe ein pflanzliches Empfindungsserum hergestellt, aber nach ein paar ... unglücklichen Vorfällen wollten die Shi das Projekt einstellen. Also ging ich, um meine Arbeit ungehindert fortzusetzen.}
+{381}{}{Okay. Aber was hat das mit der Pflanzenprobe zu tun?}
 {382}{}{Fahr fort…}
-{390}{}{Ironically, just as my focus was shifting to my new sentient plant creations, I happened to make a major breakthrough in radiation-resistant plant research. I kept this breakthrough a secret, as I did not want to draw attention away from my more significant discovery. When the others failed to see the importance of my sentient plants, I decided to keep my secret out of spite. That is, until now. With the plant sample I have given you, even a narrow-minded fool like Dr. Wong could achieve the goal of radiation-resistant plant life.}
+{390}{}{Ironischerweise gelang mir gerade, als ich mich auf meine neuen empfindungsfähigen Pflanzenkreationen konzentrierte, ein großer Durchbruch in der strahlenresistenten Pflanzenforschung. Ich habe diesen Durchbruch geheim gehalten, da ich die Aufmerksamkeit nicht von meiner bedeutenderen Entdeckung ablenken wollte. Als die anderen die Bedeutung meiner empfindungsfähigen Pflanzen nicht erkannten, beschloss ich, mein Geheimnis aus Trotz zu behalten. So sieht es bis jetzt aus. Mit der Pflanzenprobe, die ich Ihnen gegeben habe, könnte sogar ein engstirniger Dummkopf wie Dr. Wong das Ziel einer strahlenresistenten Pflanzenwelt erreichen.}
 {391}{}{Warum dieser plötzliche Sinneswandel?}
 {392}{}{Okay. Ich werde es Dr. Wong bringen.}
-{393}{}{I'll bring this to Dr. Wrong. But if he doesn't give me a proper reward for it, then you'll be seeing me again.}
-{394}{}{You can keep the sample. I'm sure Dr. Wong and the other Shi scientists can figure it out without your help. I'm done doing you favors.}
-{400}{}{I have had no change of heart. In addition to being radiation resistant, the plant sample is infused with my sentience serum. Like a proud father, I merely wish to see my creation flourish. Deliver it for me, and you shall be granted a true reward.}
+{393}{}{Ich werde sie zu Dr. Wrong bringen. Aber wenn er mir keine angemessene Belohnung dafür gibt, dann werden Sie mich wiedersehen.}
+{394}{}{Sie können die Probe behalten. Ich bin sicher, Dr. Wong und die anderen Shi-Wissenschaftler können es auch ohne Ihre Hilfe herausfinden. Ich bin fertig damit, Ihnen Gefallen zu tun.}
+{400}{}{Ich habe keine Sinneswandel gehabt. Die Pflanzenprobe ist nicht nur strahlenresistent, sondern auch mit meinem Empfindungsserum versehen. Wie ein stolzer Vater möchte ich nur, dass meine Schöpfung gedeiht. Übergeben Sie sie für mich und Sie sollen eine ordentliche Belohnung erhalten.}
 {401}{}{Okay. Ich werde es Dr. Wong bringen.}
 {402}{}{Nö. Behalten Sie ihre Probe. Ich fertig damit, Ihnen zu helfen.}
-{403}{}{Dr. Wong seems like a sly guy. You really think he'll trust a plant sample from you?}
-{410}{}{It has come to my attention that there is an old US government facility where one might obtain unique plant seeds untouched by radiation. This facility is too far away for me to personally venture to, but I believe it would be a simple task for an experienced wastelander such as you.}
-{411}{}{Oh, you're talking about these weird seeds from the EPA. Been there, got them.}
-{412}{}{I'm always up for exploring some old ruins. Give me the location and I'll go see what I can find.}
+{403}{}{Dr. Wong scheint ein schlauer Kerl zu sein. Glauben Sie wirklich, er wird einer Pflanzenprobe von Ihnen vertrauen?}
+{410}{}{Mir ist zu Ohren gekommen, dass es eine alte Einrichtung der US-Regierung gibt, in der man einzigartige Pflanzensamen finden kann, unberührt von der Strahlung. Diese Einrichtung ist zu weit entfernt, als dass ich mich persönlich darauf einlassen könnte, aber ich glaube, es wäre eine einfache Aufgabe für einen erfahrenen Ödländer wie Sie.}
+{411}{}{Oh, Sie sprechen von diesen seltsamen Samen aus der EPA. Ich war dort und habe sie bereits bekommen.}
+{412}{}{Ich bin immer bereit, alte Ruinen zu erkunden. Geben Sie mir den Ort und ich werde sehen, was ich finden kann.}
 {413}{}{Und was springt für mich dabei raus?}
-{420}{}{Yes, Dr. Wong is a bit of an obstacle. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will get the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{421}{}{Ich werd sehen, was ich tun kann.}
+{420}{}{Ja, Dr. Wong ist ein kleines Hindernis. Wenn er von der Bildfläche verschwinden würde, würden die Dinge viel reibungsloser verlaufen. Geben Sie Dr. Wong die Probe. Selbst wenn er mir misstraut, wird seine Neugier ihn überwältigen und er wird es akzeptieren. Sobald die Probe eingelagert wurde, finden Sie einen Weg, Dr. Wong zu eliminieren, ohne die anderen Shi zu alarmieren. Vielleicht eine Überdosis. Machen Sie das und ich werde Ihre Belohnung verdreifachen.}
+{421}{}{Ich werde sehen, was ich tun kann.}
 {422}{}{Wenn Sie wollen, dass Wong stirbt, müssen Sie mir bereits vorher etwas zahlen.}
-{423}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
+{423}{}{Wissen Sie, das wird alles etwas kompliziert. Ich denke, ich würde Sie lieber einfach massakrieren und dann zu den Shi gehen, um auch diese zu massakrieren.}
 {424}{}{Ich töte Dr. Wong auf keinen Fall für Sie. Ich bin hier fertig.}
-{430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
-{431}{}{Ich werd sehen, was ich tun kann.}
+{430}{}{Sehr gut. Dieses Gift könnte nützlich sein. Ich habe es aus einer meiner Schöpfungen extrahiert. Es ist extrem tödlich. [Er gibt dir eine Spritze.]}
+{431}{}{Ich werde sehen, was ich tun kann.}
 {440}{}{[Er schaut dich erwartungsvoll an.]}
 {441}{}{Ich arbeite noch dran. Ich komme später wieder zu Ihnen zurück.}
 {442}{}{Ich werde die Probe an die Shi übergeben.}
 {443}{}{Die Shi haben die Proben und Dr. Wong ist tot.}
-{444}{}{Your method of revenge wasn't direct enough for my tastes, so I just killed everyone for you.}
+{444}{}{Ihre Rachemethode war nicht direkt genug für meinen Geschmack, also habe ich einfach alle für Sie getötet.}
 {445}{}{Dr. Wong ist tot.}
-{446}{}{I delivered the sample to the Shi and told Dr. Wong about your intentions. He destroyed the sample immediately.}
+{446}{}{Ich lieferte die Probe an die Shi und erzählte Dr. Wong von Ihren Absichten. Er hat die Probe sofort zerstört.}
 {450}{}{Impossible! A spore plant cannot be capable of speech regardless of its intelligence. Either you are making some sort of jest or you were under a drug-induced hallucination. By the looks of you, I'd guess it was the latter. But enough about that nonsense. I must know if you are willing to assist me.}
-{451}{}{Yeah, I suppose it *does* sound rather silly. Anyway, what did you want me to assist you with?}
-{452}{}{Don't change the subject--I was telling the truth! I swear on the Vault Dweller, his name was Seymour and he could talk. He wanted me to re-plant him in a better location. I'm not making this up and I wasn't hallucinating.}
+{451}{}{Ja, ich nehme an, es *klingt* ziemlich albern. Wie auch immer, womit sollte ich Ihnen helfen?}
+{452}{}{Wechseln Sie nicht das Thema -- ich habe die Wahrheit gesagt! Ich schwöre auf den Vault Dweller, sein Name war Seymour und er konnte sprechen. Er wollte, dass ich ihn an einem besseren Ort neu pflanze. Ich denke mir das nicht aus und habe es auch nicht geträumt.}
 {460}{}{Genug! Ich habe keine Zeit für diesen Unsinn. Werden Sie mir helfen oder nicht?}
 {461}{}{Helfen bei was?}
-{462}{}{No! I'm not going to assist you, asshole! Seymour was real! SEYMOUR WAS REAL!}
+{462}{}{Nein! Ich werde Ihnen nicht helfen, Arschloch! Seymour war echt! SEYMOUR WAR REAL!}
 {470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
-{471}{}{Ja?}
+{471}{}{Mach weiter.}
 {480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
-{481}{}{But plants lack a nervous system, and without one what you're suggesting just isn't possible.}
-{482}{}{I think all forms of life perceive in some way or another.}
-{483}{}{Those spore plants I've encountered sure fight back. So yeah, I'd say plants feel something.}
+{481}{}{Aber Pflanzen haben kein Nervensystem und ohne eins ist das, was Sie vorschlagen, einfach nicht möglich.}
+{482}{}{Ich denke, alle Lebensformen nehmen auf die eine oder andere Weise Dinge wahr.}
+{483}{}{Diese Sporenpflanzen, denen ich begegnet bin, wehren sich sicher. Also ja, ich würde sagen, Pflanzen fühlen etwas.}
 {490}{}{And you would not be alone in thinking that. I too was skeptical at first. But you see, in the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
 {491}{}{Behaupten Sie etwa, dass Pflanzen fast wie Menschen sind?}
 {500}{}{And you would not be alone in thinking that. In the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
 {501}{}{Behaupten Sie etwa, dass Pflanzen fast wie Menschen sind?}
-{510}{}{I'm suggesting that they COULD be like humans. And as you can see, I was right. They just required a little help.}
+{510}{}{Ich schlage vor, dass sie wie Menschen sein können. Und wie Sie sehen, hatte ich recht. Sie brauchten nur ein wenig Hilfe.}
 {511}{}{Ein bisschen Hilfe?}
 {520}{}{Gene-splicing! Through the magic of science, I was able to develop a botany sentience serum. But giving the plants human-like intelligence was only half of the equation. In order to fully utilize such intelligence, I knew they would require a human-like body and senses.}
 {521}{}{Ah, which is where the 'fresh human cadavers' come in. You must tell me how you were able to get the plant life to interface with and take control of a human nervous system. And a dead one, at that. I wouldn't believe it were possible if I hadn't seen it firsthand.}
 {530}{}{Very well, I cannot promise you will fully comprehend what I am about to say, but I will do my best to explain it to you. [With the zeal of a preacher raving about his god to a rapt listener, he spends two hours detailing the process of his experiments, obviously taking great pride in his accomplishments.]}
 {531}{}{[Mehr]}
-{540}{}{And so now you understand, I hope?}
+{540}{}{Und nun verstehen Sie es, hoffe ich?}
 {541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
 {550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{551}{}{Ich werd sehen, was ich tun kann.}
+{551}{}{Ich werde sehen, was ich tun kann.}
 {552}{}{Wenn Sie wollen, dass Wong stirbt, müssen Sie mir bereits vorher etwas zahlen.}
-{553}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
+{553}{}{Wissen Sie, das wird alles etwas kompliziert. Ich denke, ich würde Sie lieber einfach massakrieren und dann zu den Shi gehen, um auch diese zu massakrieren.}
 {554}{}{Ich töte Dr. Wong auf keinen Fall für Sie. Ich bin hier fertig.}
 {560}{}{Gute Arbeit. Und was wird mit Dr. Wong?}
 {561}{}{Er ist immer noch am Leben. Ich werde zurückkehren, sobald er aus dem Weg geräumt ist.}

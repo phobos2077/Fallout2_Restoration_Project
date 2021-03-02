@@ -92,7 +92,7 @@
 {191}{}{Na los doch.}
 {192}{}{Warte, ich habe meine Meinung geändert.}
 {193}{}{Zu spät, Felgenfleisch. Du hast dich als nicht vertrauenswürdig erwiesen. Stirb!}
-{194}{}{[Erledigt]}
+{194}{}{[Fertig]}
 {195}{}{Mein Kind, es gibt einige Dinge, die du im Moment nicht wissen darfst. [Er lächelt wohlwollend.]}
 {196}{}{OK. Ich habe noch weitere Fragen.}
 {197}{}{Hm. Bis dann.}

@@ -8,18 +8,18 @@
 {106}{}{Wer du?}
 {107}{}{OK, ich geh.}
 {108}{}{Ich gehe, wohin ich will, Echsenvieh!}
-{109}{}{Was ist das alles hier?}
+{109}{}{Was ist das für ein Ort?}
 {110}{}{Wer bist du?}
 {111}{}{Das Brutplatz. Mutter von Rudel drin. Eier drin. Ich bewachen. Ganzes Rudel wachen.}
 {112}{}{Ich sprechen Mutter.}
 {113}{}{Wer du?}
-{114}{}{Ich gehn.}
+{114}{}{Ich gehen jetzt.}
 {115}{}{Ich geh dann mal.}
 {116}{}{Wer bist du?}
 {117}{}{Ich möchte mit der Mutter sprechen.}
 {118}{}{Ich Jul. Krieger von Rudel. Bewachen Gelege. Bewachen Mutter.}
 {119}{}{Ich}
-{120}{}{Ich gehn.}
+{120}{}{Ich gehen jetzt.}
 {121}{}{Bewachen Mutter wichtig. Du wichtig.}
 {122}{}{Ich bin}
 {123}{}{Als Bewacher der Mutter hast du große Verantwortung. Du musst ein wichtiges Mitglied des Rudels sein.}
@@ -42,7 +42,7 @@
 {140}{}{Wer du sein?}
 {141}{}{Was sein das hier?}
 {142}{}{Bin nur vorbeigekommen, um Hallo zu sagen.}
-{143}{}{Was ist das alles hier?}
+{143}{}{Was ist das für ein Ort?}
 {144}{}{Wer bist du noch?}
 {145}{}{Du schon tot. Du nur zu dumm zum Umfallen.}
 {146}{}{. Ich mit Mutter reden.}

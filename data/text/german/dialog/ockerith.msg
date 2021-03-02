@@ -7,7 +7,7 @@
 {106}{}{Wer Todkrallvater?}
 {107}{}{Tür sehen schlimm aus. Was passieren?}
 {108}{}{Wer bauen Nestraum?}
-{109}{}{Ich gehn.}
+{109}{}{Ich gehen jetzt.}
 {110}{}{Also dann bist du die Deathclawmutter?}
 {111}{}{Wer ist der Deathclawvater?}
 {112}{}{Was ist mit der Tür passiert? Es sieht so aus, als hätte sie schon bessere Zeiten erlebt!}
@@ -16,7 +16,7 @@
 {115}{}{Ja. Ich bin die Mutter dieses Geleges. Nachdem meine Eier ausgebrütet sind, sind die anderen Mütter an der Reihe.}
 {116}{}{OK.}
 {117}{}{Andere Mütter?}
-{118}{}{Verstehe.}
+{118}{}{Ich verstehe.}
 {119}{}{Da sind noch andere Mütter?}
 {120}{}{Ja. Da sind noch andere Mütter. Sollte mir was zustoßen, wird eine andere ausgewählt, die meinen Platz einnimmt. Das Rudel muss überleben.}
 {121}{}{Ah, ich verstehn.}
@@ -40,7 +40,7 @@
 {139}{}{Was passieren mit Mensch?}
 {140}{}{Ich kapiert.}
 {141}{}{Was ist mit dieser Person passiert?}
-{142}{}{Verstehe.}
+{142}{}{Ich verstehe.}
 {143}{}{Wir haben diesen Höhlenbereich gebaut. Ein Menschenfreund hat die Tür eingebaut. Er hat die Teile aus einer Siedlung nordöstlich von hier.}
 {144}{}{Das schön.}
 {145}{}{Das ist schön.}

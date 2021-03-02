@@ -216,4 +216,4 @@
 {740}{}{OK.}
 {800}{}{Der Optimierungsvorgang war offenbar erfolgreich.}
 {900}{}{Bearbeite Batch Files. Bitte warten.}
-{910}{}{[Erledigt]}
+{910}{}{[Fertig]}

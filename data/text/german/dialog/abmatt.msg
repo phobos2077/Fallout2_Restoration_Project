@@ -36,7 +36,7 @@
  Wir sind eine unabhängige Gemeinschaft und bekommen nur selten Besuch von Fremden wie dir.
  Der Großteil derer die du hier siehst, stammt von den ursprünglichen Gründern ab, die sich
  nicht lang nach dem großen Feuersturm in diesem alten Kloster niederließen.}
-{601}{}{Ja?}
+{601}{}{Mach weiter.}
 {602}{}{Die ruhigen und friedlichen Eigenschaften dieses Ortes haben ihn zu einem einladenden Zuhause für viele Reisende gemacht,
  die hier im Laufe der Jahre bei dem Versuch, dem dunklen Chaos des Ödlandes zu entkommen, vorbeikamen. Natürlich liegt der wahre
  Wert dieser Gemeinde in seiner riesigen Bibliothek. Sie ist randvoll mit alten Folianten, welche die phänomenalen Weisheiten einer

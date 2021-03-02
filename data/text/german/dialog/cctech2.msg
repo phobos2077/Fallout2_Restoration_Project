@@ -11,10 +11,10 @@
 {109}{}{Wie kann ich dir helfen?}
 {110}{}{Was sein das hier?}
 {111}{}{Was dein Job?}
-{112}{}{Wo Enklave-Hauptbasis.}
+{112}{}{Wo Enklave-Hauptbasis?}
 {113}{}{Ich suchen Vertibird-Pläne. Wo finden?}
 {117}{}{Ich jetzt gehen.}
-{118}{}{Was ist das alles hier?}
+{118}{}{Was ist das für ein Ort?}
 {119}{}{Was ist dein Job hier?}
 {120}{}{Wo liegt die Enklave-Hauptbasis?}
 {121}{}{Ich muss die Vertibird-Pläne sehen. Wo werden die aufbewahrt?}
@@ -55,7 +55,7 @@
 {145}{}{Kapiert.}
 {155}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
 {156}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
-{157}{}{Warum trägst du keine Uniform? }
+{157}{}{Warum hast du keine Uniform?}
 {158}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {159}{}{Eindringlinge! Ruft die Wache!}
 {160}{}{Wache! Eindringlinge in der Kommandozentrale!}

@@ -34,7 +34,7 @@
 {133}{}{Danke für das Magazin, Kid. Ich komme in einer Stunde oder so zu dir zurück.}
 {134}{}{Okay!}
 {135}{}{Ich bin noch nicht fertig, Kid! Pssst! Kann ein alter Ghul nicht seine Ruhe haben?}
-{136}{}{[Erledigt]}
+{136}{}{[Fertig]}
 {137}{}{Was für Reichtümer? Kohle, Kid, ein Haufen Kohle. Genug, um jeden normalen Menschen zu befriedigen.}
 {138}{}{Wo ist der Haken?}
 {139}{}{Ich brauche kein Geld.}
@@ -71,7 +71,7 @@
 {170}{}{Noch nicht. Ich habe noch weitere Fragen.}
 {171}{}{Nö.}
 {172}{}{Na, dann beeil dich mal! Ich bin eine uralter Ghul und ich kann dir versichern, ich brauch die Entspannung! Also los, geh, geh, geh!}
-{173}{}{[Erledigt]}
+{173}{}{[Fertig]}
 {174}{}{Kid, das Magazin hat meine alten Säfte wieder aufgemischt und ich finde, dass du mir für den Schatz, von dem ich dir erzählt habe, ruhig noch ein paar Dinge mehr besorgen kannst. Hol mir eine aufblasbare Puppe. Du kannst wahrscheinlich eine in New Reno auftreiben.}
 {175}{}{Okay! Tschüss!}
 {176}{}{Äh, nö!}
@@ -81,9 +81,9 @@
 {180}{}{Vergiss es.}
 {181}{}{Da ist sie. [Du gibst Typhon die aufblasbare Puppe.]}
 {182}{}{Das hier, Kid, wird der Knüller. Gib mir ein paar Stündchen, dann reden wir weiter. Los, geh. [Er beäugt lüstern die Puppe.]}
-{183}{}{[Erledigt]}
+{183}{}{[Fertig]}
 {184}{}{Kann man nicht ein bisschen Privatsphäre haben! Hau ab! Los! Verschwinde!}
-{185}{}{[Erledigt]}
+{185}{}{[Fertig]}
 {186}{}{Ich bin jetzt völlig erledigt. Bring mir einen Rachenputzer, dann können wir über den Schatz reden. Phil der Barkeeper sollte dir welchen besorgen können.}
 {187}{}{Klar! Tschüss!}
 {188}{}{Nein!}

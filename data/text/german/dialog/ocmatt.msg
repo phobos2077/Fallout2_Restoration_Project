@@ -10,7 +10,7 @@
 {108}{}{Was willst du?}
 {109}{}{Wer du?}
 {110}{}{Du Gefangener?}
-{111}{}{Ich gehn.}
+{111}{}{Ich gehen jetzt.}
 {112}{}{Wer bist du?}
 {113}{}{Bist du ein Gefangener?}
 {114}{}{Ich geh dann.}
@@ -26,7 +26,7 @@
 {122}{}{OK.}
 {123}{}{Ich hier raus.}
 {124}{}{Warum?}
-{125}{}{Verstehe.}
+{125}{}{Ich verstehe.}
 {126}{}{Ich mach mich dann mal auf den Weg.}
 {127}{}{Weil ich in ihnen, im Gegensatz zu den Schafen die ebenfalls hier wohnen, eine Bedrohung
  für die Menschheit sehe. Sie wissen, wenn ich hier rauskomm, werde ich alles tun, damit sie vom
@@ -63,7 +63,7 @@
 {147}{}{Andere hier. Brauchen Essen, Wasser. Du nicht Sorgen?}
 {148}{}{Was ist mit den andern, die hier leben? Kümmern die dich nicht?}
 {149}{}{Überhaupt nicht. Sie sind eben Opfer des Krieges.}
-{150}{}{Ich gehn.}
+{150}{}{Ich gehen jetzt.}
 {151}{}{Ich dich jetzt schießen.}
 {152}{}{Gute Arbeit.}
 {153}{}{Verstehe. Ich werd jetzt gehn.}

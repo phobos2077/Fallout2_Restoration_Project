@@ -7,7 +7,7 @@
 {105}{}{Wer du?}
 {106}{}{Was du machen?}
 {107}{}{Wie klug du?}
-{108}{}{Ich gehn.}
+{108}{}{Ich gehen jetzt.}
 {109}{}{Wer bist du?}
 {110}{}{Was machst du hier?}
 {111}{}{Nimm's mir nicht übel, aber wie klug bist du?}
@@ -29,7 +29,7 @@
 {127}{}{Warum bewachst du die Halle?}
 {128}{}{Eindringlinge. Menschen, Deathclaws - alles. Wenn Rudel bedroht, ich angreifen.}
 {129}{}{Ah.}
-{130}{}{Verstehe.}
+{130}{}{Ich verstehe.}
 {131}{}{Sollte mich überraschen, wenn du schlau genug wärst, Freund  und Feind zu unterscheiden.}
 {132}{}{Mir tun die Eindringlinge leid, die dir begegnen.}
 {133}{}{Na, egal. Bis dann.}

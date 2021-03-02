@@ -30,9 +30,9 @@
  Wenn ich du wäre, würde ich woanders hinziehen und einen neuen Job suchen. Sonst wirst du nicht imstande sein, weiterzumachen.}
 {240}{}{Ja. Ja, das hätte ich schon lange tun sollen. Es ist der einzige Weg, das letzte bisschen Ehre zu behalten. Ich danke
  dir Lao Wai. [Er zieht ein Messer und schlitzt seine Kehle auf. Du siehst zu, wie er schnell verblutet.]}
-{241}{}{[Erledigt]}
+{241}{}{[Fertig]}
 {250}{}{Ja. Ich habe dich gewarnt. Jetzt lass mich in Ruhe. Ich habe dir nichts anderes zu sagen.}
-{251}{}{[Erledigt]}
+{251}{}{[Fertig]}
 {260}{}{Vielleicht hast du recht. Mein ganzes Leben kannte ich nichts anderes als die Shi. Aber außer Kummer ist mir nichts
  geblieben. Ja, ich denke, dass ich mich in die Welt hinauswagen und ein neues Leben beginnen sollte. Selbst wenn mir das
  Ödland nichts außer einen schnellen Tod beschert, ist das besser, als hier zu bleiben. Ich danke dir, Lao Wai.}

@@ -13,9 +13,9 @@
 {112}{}{::Kopfnicken::}
 {113}{}{::Kopfschütteln::}
 {114}{}{Hier siehst du, was wir haben.}
-{115}{}{[Erledigt]}
+{115}{}{[Fertig]}
 {116}{}{Tja, dann kann ich dir wohl leider nicht weiterhelfen. Guten Tag.}
-{117}{}{[Erledigt]}
+{117}{}{[Fertig]}
 {118}{}{Ich bin Lao Chou. Mir gehört dieser Laden, Fliegender 8. Drache heißt er, ein Laden für alles. Aber ich handle vor allem mit... Informationen.}
 {119}{}{Was für Informationen?}
 {120}{}{Aha. Ich hätte gern eine Ausrüstung.}
@@ -107,7 +107,7 @@
 {287}{}{(Lao Chou steckt die $1500 ein.) Es ist nicht der Tanker, der ungewöhnlich ist. Er ist so wie du gesagt hast, bloß ein großer rostiger Tanker. Unser U-Boot, andererseits...}
 {288}{}{U-Boot?}
 {290}{}{Nun, wenn du es so formulierst, ich steck in dem staubigen Laden schon ziemlich lange fest. Es ist eine ganze Weile her, seit ich die Gesellschaft von einer schönen Frau wie dir genossen habe.}
-{291}{}{[Weiter]}
+{291}{}{[FORTSETZEN]}
 {300}{}{[Stunden vergehen, und kein Ende in Sicht. Du beginnst zu vermuten, dass Lao Chou möglicherweise nicht völlig menschlich ist. Schließlich verlierst du das Bewusstsein.]}
 {301}{}{hhh... Was ist geschehen?}
 {310}{}{Du bist in Ohnmacht gefallen, als ich uns in die dreifache-Lotusposition zog, und ich musste mein Vergnügen mit dem grinsenden Panda-Kata beenden.

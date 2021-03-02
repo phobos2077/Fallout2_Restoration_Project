@@ -28,7 +28,7 @@
 {416}{}{Sei gegrüßt, mein Freund.}
 {417}{}{Ich hab euer Biest getötet, und hab das Buch gefunden.}
 {418}{}{Hervorragend! Bitte gib es mir!}
-{419}{}{Bitte.}
+{419}{}{Bitte schön.}
 {420}{}{Nicht so schnell, wie viel ist dir das Buch wert?}
 {421}{}{[Er nimmt es dir ab und liebkost den Buchdeckel, als ob er es beruhigen will.] Du hast uns einen großen Dienst erwiesen. Du hast nun freien Zugang zu unseren Computern in der Bibliothek. Sag Bruder Paul, dass du von mir die Erlaubnis bekommen hast unsere Daten einzusehen.}
 {422}{}{Danke.}

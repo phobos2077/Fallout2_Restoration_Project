@@ -109,7 +109,7 @@
 {444}{}{Ich brauch eins für-... Hey, läuft da nicht der Fershlubiner-Widget-Aktivator im roten Bereich?}
 {450}{}{OK. Hier ist dein Teile-Anforderungsformular. Du wirst schon deine Gründe haben.}
 {451}{}{OK. Hier ist dein...Hey? Wo hab ich das verdammte Ding bloß hin? Es muss hier irgendwo sein.... Hmm, ich kann's im Augenblick echt nicht finden. Aber es wird schon wieder auftauchen.}
-{452}{}{Vielen Dank. Auf Wiedersehn.}
+{452}{}{Danke. Auf Wiedersehn.}
 {453}{}{Oh, naja, vielleicht komm ich dann später wieder. Tschüss.}
 {460}{}{Ist mir egal, was du willst. Diese Teile-Anforderungsformulare sind nur für offizielle Anfragen. Die kriegen nur wichtige Angestellte. Deshalb hab ich sie ja. Kapiert? Nur wichtige Angestellte. }
 {461}{}{Ja, ich hab's kapiert. Tschau.}
@@ -127,7 +127,7 @@
 {530}{}{Festus geht weg und kommt dann wieder zurück. Er scheint sich über irgendwas zu freuen.}
 {600}{}{Ich hab hier 'ne Disk mit Reaktordaten. Vielleicht kannst du damit den Reaktor optimieren.}
 {610}{}{OK. Gib sie mir. Ich werd sehn, was ich damit machen kann.}
-{620}{}{Bitte.}
+{620}{}{Bitte schön.}
 {630}{}{Nein, ich werd sie erst mal behalten.}
 {640}{}{OK. Sieht gut aus. Danke für die Hilfe.}
 {650}{}{Gern geschehen. Kein Problem.}

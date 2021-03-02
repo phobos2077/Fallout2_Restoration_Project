@@ -19,7 +19,7 @@
 {167}{}{Danke. Tschüss.}
 {168}{}{Tschüss.}
 {169}{}{Ah, verdammt.}
-{170}{}{[Erledigt]}
+{170}{}{[Fertig]}
 {171}{}{Ich bin vollkommen fix und fertig.}
 {172}{}{Ich komm zurück.}
 {173}{}{OK.}

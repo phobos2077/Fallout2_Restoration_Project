@@ -47,7 +47,7 @@
 {142}{}{Er ste-ste-steht da-da drüben. Der sp-sp-sprechende Compuh-puh-pjuter ist es.}
 {143}{}{(Er steht da drüben. Der sprechende Computer ist es.)}
 {144}{}{Was machst du hier?}
-{145}{}{Vielen Dank. Auf Wiedersehn.}
+{145}{}{Danke. Auf Wiedersehn.}
 {146}{}{Gib a-a-aber auf die Sachen acht, di-di-die hier gela-la-lagert werden. Sieh z-z-zu, dass
  alle Türen verschlo-schlo-schlossen b-bleiben.}
 {147}{}{(Gib aber auf die Sachen acht, die hier gelagert werden. Sieh zu, dass alle Türen

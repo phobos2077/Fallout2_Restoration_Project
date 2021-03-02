@@ -18,28 +18,28 @@
 {117}{}{Was weißt du über Roger Westin?}
 {118}{}{Ich möchte mich mit dem alten Carlson treffen. Kennst du jemand, der mir dabei helfen kann?}
 {119}{}{Hast du ein GECK?}
-{120}{}{That's nice, stranger, but I ain't no charity.}
+{120}{}{Schön für dich, Fremdling, aber ich bin nicht die Wohlfahrt.}
 {121}{}{Schon möglich. Ich hätte da eventuell ein Zielfernrohr, Modell Triveld x10 - eignet sich ideal für Jagdgewehre, wenn das jemanden interessiert. Ich mach ein Sonderangebot: 500 Dollar.}
 {122}{}{Hey, du hast mich doch schon ausgenommen.}
 {123}{}{Ja, das geht klar.}
 {124}{}{Nein, danke.}
 {125}{}{Das ist die New California Republic. Präsidentin Tandi und ihre Leute sagen, sie wollen, dass alles wieder so wird wie in der guten alten Zeit. Ich glaub ja eher, sie wollen vor allem so viel abgreifen, wie sie nur können. Was soll's, mich juckt's nicht, die gute alte Zeit war vor meiner Zeit. Sind allerdings ziemlich prüde, diese Gesellen - haben was gegen Sklaverei und Glücksspiel und was sonst noch. Darum hab ich meinen Laden hier draußen. Ich mag keine Regeln - hatte schon immer was dagegen.}
-{126}{}{Verstehe.}
+{126}{}{Ich verstehe.}
 {127}{}{Wiedersehn.}
 {128}{}{Ich will nichts mit Merk zu schaffen haben und es bringt nichts, über ihn zu schwatzen. Wenn du Fragen hast, dann frag im "Rawhide" nach ihm.}
-{129}{}{Verstehe.}
+{129}{}{Ich verstehe.}
 {130}{}{Wiedersehn.}
 {131}{}{Roger Westin? Du meinst den Typen aus dem Kongreß? Er hat sich westlich der Stadt ausgebreitet. Brahminzüchter - großes Tier im Viehzüchter-Verband. Falls du Arbeit suchst - der kann immer Leute gebrauchen.}
-{132}{}{Verstehe.}
+{132}{}{Ich verstehe.}
 {133}{}{Wiedersehn.}
 {134}{}{Komische Frage nach dem, was mit Roger Westin passiert ist. Ich weiß da nicht Bescheid, aber drunten im "Rawhide" gibt's einen Knaben - Merk heißt er - der kann dir vielleicht weiterhelfen.}
-{135}{}{Verstehe.}
+{135}{}{Ich verstehe.}
 {136}{}{Wiedersehn.}
 {137}{}{So einen von den Vorkriegsimporten? Lass mich raten, mit 14-mm-Munition? Nee, hab ich nicht.}
-{138}{}{Verstehe.}
+{138}{}{Ich verstehe.}
 {139}{}{Wiedersehn.}
 {140}{}{Das geht nur bei Jagdgewehren, glaub's mir. Das liegt an der Befestigung, verstehst du?}
-{141}{}{Verstehe.}
+{141}{}{Ich verstehe.}
 {142}{}{Wiedersehn.}
 {143}{}{Der Laden ist dicht. Zisch ab.}
 {144}{}{Meine Güte! Komm zu 'ner vernünftigen Zeit wieder her.}

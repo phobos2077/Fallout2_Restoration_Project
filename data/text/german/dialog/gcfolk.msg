@@ -92,7 +92,7 @@
 {280}{}{Mann, ich liebe dich.}
 {281}{}{Du bist einfach klasse.}
 {282}{}{Wir werden Vault City mit Kernwaffen angreifen, bis es strahlt!}
-{283}{}{./~99 syringes of RadAway on the wall, 99 syringes... ./~}
+{283}{}{./~99 RadAway-Spritzen seh ich im Regal dort sitzen, 99 Spritzen.... ./~}
 {284}{}{./~ Im Re-ak-tor arbeit' ich, arbeit' ich den ganzen Tag.... ./~}
 {285}{}{Bevor ich dich kennengelernt hab, hätt ich keiner Glatthaut getraut.}
 {286}{}{Scheint, als ob manche Glatthäute ganz OK sind.}

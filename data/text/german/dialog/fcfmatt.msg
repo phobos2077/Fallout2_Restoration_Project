@@ -12,7 +12,7 @@
 {111}{}{Ihr sein wer?}
 {112}{}{Warum keiner von euch reden?}
 {113}{}{Wieso hier nur ein Mann?}
-{114}{}{Ich gehn.}
+{114}{}{Ich gehen jetzt.}
 {115}{}{Wer seid ihr Typen?}
 {116}{}{Wie kommt es, dass niemand in der Gegend von euch spricht?}
 {117}{}{Warum habt ihr nur einen Mann hier?}

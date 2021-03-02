@@ -12,7 +12,7 @@
 {110}{}{Wir wurden unterwandert! Alarm!}
 {111}{}{Eindringlinge! Schlagt Alarm!}
 {112}{}{Sicherheitsalarm! Riegelt die Basis ab!}
-{113}{}{Sichert alle Stationen! Wir sind im Alarmzustand}
+{113}{}{Sichert alle Stationen! Wir sind im Alarmzustand!}
 {114}{}{Angriffsalarm! Code Rot!}
 {115}{}{Dich legen wir um!}
 {116}{}{Die Enklave wird die Welt beherrschen!}
@@ -40,7 +40,7 @@
 {326}{}{Ja, ich glaub dir. Sieht so aus als hätten wir einen Eindringling...}
 {327}{}{Verdammt! Ach, was auch immer. Mir sagt ja nie jemand was. Gut. Geh weiter.}
 {328}{}{Oh Mann, das hört sich schlimm an. Du machst dich dann besser auf den Weg, ich will für diese Scheiße nicht den Kopf hinhalten. Ach, und mach dir keine Sorgen, ich werd es keinem sagen.}
-{329}{}{[Erledigt]}
+{329}{}{[Fertig]}
 {400}{}{[Nachdem du eine halbe Stunde im dunklen Laderaum hockst, fühlst du, wie die Maschine wieder auf den Boden aufsetzt. Die Frachttür geht einen Moment später auf, und du siehst einen Trupp Soldaten mit Powerrüstungen. Einer von ihnen muss erst ein zweitesmal hingucken, bevor er sich an die anderen wendet.] Heilige Scheiße! Einer dieser mutierten Ödländer ist als blinder Passagier im Vogel mitgeflogen!      ALARM! Wir haben einen Eindringling!}
 {401}{}{[Nachdem ihr eine halbe Stunde im dunklen Laderaum hockt, fühlst du, wie die Maschine wieder auf den Boden aufsetzt. Die Frachttür geht einen Moment später auf, und du siehst einen Trupp Soldaten mit Powerrüstungen. Einer von ihnen muss erst ein zweitesmal hingucken, bevor er sich an die anderen wendet.] Heilige Scheiße! Einige dieser mutierten Ödländer sind als blinde Passagiere im Vogel mitgeflogen!      ALARM! Eindringlinge!}
 {402}{}{[Spring raus und stell fest wie viele du erledigen kannst, bevor sie dich kaltmachen.]}

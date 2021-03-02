@@ -189,7 +189,7 @@
 {746}{}{Reden wir mal von Mr. Bishops Wagen.}
 {747}{}{Pass nächstes Mal besser auf, ja? Ich hau jetzt ab.}
 {755}{}{Is' ja gut, is' ja gut...also: Wir rüsten alles auf, frisieren den Motor und liefern den Wagen so schnell wie möglich bei Mr. Bishop ab. (Zuckt die Achseln, lächelt) Die Preisfrage......ist jetzt: wie KANN man einen Preis für so einen Highwayman festlegen?}
-{756}{}{Ja?}
+{756}{}{Mach weiter.}
 {757}{}{Ich hab keine ZEIT für diese ganze Kacke. Was willste mir damit sagen?}
 {758}{}{Hast recht. Das geht gar nicht. Ich nehm den Wagen mit und Mr. Bishop lässt dich dafür hier weitermachen.}
 {759}{}{Da hab ich jetzt keine Zeit für. Ich hau ab.}

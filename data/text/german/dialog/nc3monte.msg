@@ -130,7 +130,7 @@
 {378}{}{(Er gibt dir widerwillig das Geld.)}
 {379}{}{Nochmal! Nochmal!}
 {380}{}{Dank ich gehen jetzt.}
-{381}{}{So we gonna play again or what? C'mon, Monte. I'm just getting started.}
+{381}{}{So spielen wir nochmal? Komm schon, Monte. Ich fange gerade erst an.}
 {382}{}{Also, Danke, Monte. Wir sehen uns später.}
 {385}{}{(Monte dreht die Karte um. Es ist die Herz Dame. Er sieht geschockt aus.) Oh...? Hey... äh...}
 {386}{}{Schätze du gewinnst, Kumpel.}
@@ -258,9 +258,9 @@
 {575}{}{Ja, Vielleicht nächstes mal.}
 {576}{}{Du tauschst schnell Montes Karten gegen die Gezinkten.}
 {600}{}{Pik}
-{601}{}{hearts}
-{602}{}{diamonds}
-{603}{}{clubs}
+{601}{}{Herz}
+{602}{}{Karo}
+{603}{}{Kreuz}
 {604}{}{zwei}
 {605}{}{drei}
 {606}{}{vier}

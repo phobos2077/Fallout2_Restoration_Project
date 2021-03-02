@@ -35,7 +35,7 @@
 {134}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Gegenstrahlung wird angewandt und Gewebeschäden danach behoben. Dieser Prozess dauert 60 Minuten.}
 {135}{}{OK.}
 {136}{}{Nein.}
-{137}{}{Wie du willst.}
+{137}{}{Fein.}
 {138}{}{Ich habe meine Meinung geändert.}
 {139}{}{Öffne Suspensionstank, bitte warten... Bitte in den Tank legen und entspannen. Die Wiederherstellung betroffener Gliedmaßen dauert 24 Stunden.}
 {140}{}{OK.}

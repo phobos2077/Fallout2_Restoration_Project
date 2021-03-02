@@ -7,7 +7,7 @@
 {108}{}{Ich will mich euch anschließen.}
 {109}{}{Ähh, ich glaub ich habe mein Auto doch woanders geparkt...}
 {200}{}{Du zuerst, Arschloch!}
-{201}{}{I don't have time for this, get 'em boys.}
+{201}{}{Ich habe keine Zeit für diesen Scheiß, schnappt sie euch Jungs.}
 {202}{}{Anschließen? Das hier ist kein verschissenes Rekrutierungsbüro. Wenn du zu den Sklavenhändlern willst dann geh
  zu Metzger in The Den. Wenn du also nichts brauchst sie zu, dass du dich verpisst.}
 {203}{}{Metzger hat dich geschickt? [Er zappelt nervös.] Sag nicht, er will schon wieder neue Sklaven — verdammt noch mal, er hat erst letzte Woche eine Lieferung erhalten.}
@@ -28,7 +28,7 @@
  [Er winkt seinen Männern.] Kümmert euch um den Pisser.}
 {400}{}{Ich bin ein vielbeschäftigter Mann. Geh zu Metzger in The Den wenn du eine Jagd starten willst.}
 {450}{}{Hab ich dir nicht gesagt, du sollst dich verpissen? Wir mögen keine Touristen, Zeit zu sterben.}
-{500}{}{[Erledigt]}
+{500}{}{[Fertig]}
 {600}{}{Jetzt stirbst du!}
 {601}{}{Stirb Ranger-Abschaum!}
 {800}{}{Ämm... Bestell Metzger meine Empfehlung.}

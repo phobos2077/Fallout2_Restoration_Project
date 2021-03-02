@@ -37,7 +37,7 @@
  drinnen bewachen. Finde heraus was, und ich zahl dir $200.}
 {281}{}{Das war einfach. Das weiﬂ ich schon.}
 {282}{}{Sicher.}
-{283}{}{Ich werd sehen, was ich tun kann.}
+{283}{}{Ich werde sehen, was ich tun kann.}
 {290}{}{Danke. Lass dich nicht auf einen Kampf ein... noch nicht. Ich habe einen Plan.}
 {291}{}{Kein Problem.}
 {292}{}{Bin gleich wieder da.}

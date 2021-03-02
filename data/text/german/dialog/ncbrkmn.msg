@@ -17,9 +17,7 @@
 {258}{}{Hehe. Ich super Hundi...}
 {300}{}{Wuff?}
 {301}{}{Ja. Höre nur auf die nächsten Worte, die ich gleich sagen werde...}
-{302}{}{(You slowly verbalize the series of letters you learned from the computer at the EPA, making sure the correct
- inflections are used on each letter. When you are done reading the phrase you look back up at the man. He looks back
- at you then shakes his whole body like a dog trying to dry himself after a rainstorm.)}
+{302}{}{(Du sagst langsam die Buchstabenreihenfolge auf, die du von dem Computer in der EPA gelernt hast und bemühst dich um die korrekte Betonung. Als du mit dem Satz fertig bist, siehst du den Mann an. Er schaut zurück und fängt an, sich wie ein nasser Hund zu schütteln.)}
 {303}{}{[Mehr]}
 {304}{}{Woo- Woah. Hey, Ich kann normal sprechen! Wow, das ist ja toll. Was hast du mit mir gemacht?}
 {305}{}{Ich habe gelernt, dass wenn man eine bestimmte Art von Buchstaben vor liest und jeden Buchstaben korrekt betont,
@@ -31,5 +29,5 @@
 {352}{}{*kratzt sich*}
 {400}{}{Wau! Hey, nur ein kleiner Scherz. Danke noch einmal für die Heilung.}
 {500}{}{Du hast den bellenden Mann geheilt.}
-{600}{}{*whimper*}
+{600}{}{*wimmer*}
 {601}{}{Er schaut dich mit großen, ängstlichen Augen an.}

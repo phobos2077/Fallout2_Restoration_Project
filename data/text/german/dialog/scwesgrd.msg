@@ -31,7 +31,7 @@
 {129}{}{Mr. Westin pflegt nicht mit jedem Dahergelaufenen zu plaudern. Ich kann dich nur zu ihm
  vorlassen, wenn du ihn in einer bestimmten Angelegenheit sprechen möchtest. Jetzt geh bitte
  wieder.}
-{130}{}{[Erledigt]}
+{130}{}{[Fertig]}
 {131}{}{(Seufz) Man sagt, Mr. Westin hat eine Schwäche für Leute wie dich. Komm rein.}
 {132}{}{Ich danken.}
 {133}{}{Oh ja, hier bin ich genau richtig.}

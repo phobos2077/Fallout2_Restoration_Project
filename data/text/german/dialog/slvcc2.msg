@@ -40,5 +40,5 @@
 {504}{}{Jep, Metzger schickt mich. Ich muss also zu demjenigen der hier verantwortlich ist.}
 {599}{}{Fass das nochmal an und du stirbst.}
 {600}{}{Das war's Arschloch!}
-{800}{}{[Erledigt]}
+{800}{}{[Fertig]}
 {900}{}{Was zur!? Ranger! Scheiße, wie haben die uns bloß gefunden. Egal, Zeit in ein paar Ärsche zu treten!}

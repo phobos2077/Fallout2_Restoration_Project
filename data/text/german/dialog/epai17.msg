@@ -1,8 +1,8 @@
 {100}{}{Datenspeicher und Verwaltung. Option wählen.}
 {101}{}{Diagnoseprüfung durchlaufen.}
-{102}{}{[Erledigt]}
+{102}{}{[Fertig]}
 {103}{}{Diagnoseprüfung... Eingeleitet... Programmübersetzung... Danke für ihre Geduld... Fertig. Datenspeicher läuft mit 84% Effizienz. Verdrahtungsfehler am Hauptprozessor dieses Computers verursacht eine Überspannung der Magnetspulen. Das daraus resultierende magnetische Feld könnte Interferenzen mit anderen Geräten bewirken, wenn das Problem nicht behoben wird. Überprüfung Ende.}
-{104}{}{[Erledigt]}
+{104}{}{[Fertig]}
 {105}{}{Du siehst einen Computer}
 {106}{}{Du siehst den EPA-Datenspeicher.}
 {107}{}{Du siehst einen Computer der die Daten der EPA sicher und fehlerfrei speichert.}

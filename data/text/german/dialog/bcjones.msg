@@ -27,7 +27,7 @@
 {126}{}{Was du wissen über Darion?}
 {127}{}{Wie du kommen her?}
 {128}{}{Du sagen, Darion hat Hund?}
-{129}{}{Ich gehn.}
+{129}{}{Ich gehen jetzt.}
 {130}{}{Arbeitest du für Darion?}
 {131}{}{Kannst du gehn, wenn du willst?}
 {132}{}{Was kannst du mir über Darion sagen?}

@@ -25,7 +25,7 @@
 {116}{}{Vergib mir. Ich wollte nicht unhöflich sein, aber ich glaube, das ist für unsere
  Unterhaltung nicht relevant. Ich kann deine Sprache sprechen und euer geschriebenes Wort lesen.
  Was sonst gibt es zu sagen?}
-{117}{}{Verstehe.}
+{117}{}{Ich verstehe.}
 {118}{}{Ich will nicht neugierig sein, aber du kannst mein Interesse dafür vielleicht verstehen.}
 {119}{}{Also, was hältst du davon, wenn ich entscheide, was relevant ist und was nicht!}
 {120}{}{Ja, das kann ich sicherlich. Sehr gut. Wenn wir als Freunde scheiden, Mensch, solltest du

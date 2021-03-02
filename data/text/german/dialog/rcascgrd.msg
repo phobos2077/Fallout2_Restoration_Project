@@ -56,10 +56,10 @@
 {155}{}{Immer schön nett und lieb bleiben.}
 {156}{}{Beweg dich.}
 {157}{}{Hier gibt es nichts zu sehen.}
-{158}{}{Habe einen schönen Tag.}
+{158}{}{Hab einen schönen Tag.}
 {159}{}{Willkommen bei Ascorti.}
 {160}{}{Sei nett.}
-{161}{}{Habe einen schönen Tag.}
+{161}{}{Hab einen schönen Tag.}
 {162}{}{Bei Ascorti ist jeder ein König.}
 {163}{}{Dann hab' ich zu ihnen gesagt, nehmt eure Hände von meinem...}
 {164}{}{Ich kann es nicht glauben, dass jemand dumm genug ist, dagegen Kontra zu bieten.}

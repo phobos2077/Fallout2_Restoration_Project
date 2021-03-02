@@ -30,7 +30,7 @@
 {124}{}{Entschuldigung, kann ich dir in irgendeiner Weise behilflich sein.}
 {125}{}{Hilflichsein? Diedeldiedeldiiiiee}
 {126}{}{Verzieh dich}
-{127}{}{Was ist das alles hier?}
+{127}{}{Was ist das für ein Ort?}
 {128}{}{Zeigst du mir, was du im Angebot hast?}
 {129}{}{Heute nichts, danke.}
 {130}{}{Warte einen Moment hier, in Ordnung? Ich hol jemanden, der dich rausbegleitet.}

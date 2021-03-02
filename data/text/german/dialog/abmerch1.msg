@@ -48,7 +48,7 @@
 {701}{}{Ich denke, ich schaff das. Geh beiseite.}
 {702}{}{Naja, ich denke, ich habe genug getan. Geh und bau das Teil selbst ein.}
 {800}{}{In Ordnung, dann gib das Teil mal her.}
-{801}{}{Bitte.}
+{801}{}{Bitte schön.}
 {900}{}{So, das sollte klappen.}
 {901}{}{Die Wasserpumpe wurde repariert.}
 {910}{}{[Wischt sich den Schweiß von seiner Stirn ab.] Ja, brauchst du irgendwas?}

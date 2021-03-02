@@ -55,7 +55,7 @@
 {136}{}{Klar, kapiert.}
 {137}{}{Suche... Zugriff auf Basis-Architekturdateien... Daten empfangen. Das Büro des
  Basiskommandanten befindet sich unterirdisch im nordöstlichen Quadranten der Basis.}
-{138}{}{Wie du willst.}
+{138}{}{Fein.}
 {139}{}{Klingt gut.}
 {140}{}{Danke für die Nutzung von EnklaveNet. Abmeldung... }
 {141}{}{Fertig.}

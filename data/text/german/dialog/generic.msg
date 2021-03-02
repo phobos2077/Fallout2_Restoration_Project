@@ -23,7 +23,7 @@
 {350}{}{[Ende]}
 {351}{}{[Tschüss]}
 {352}{}{[Mehr]}
-{353}{}{[Weiter]}
+{353}{}{[FORTSETZEN]}
 {354}{}{[Kampf]}
 {355}{}{[Geld]}
 {375}{}{Tschüss.}
@@ -256,5 +256,5 @@
 {20100}{}{Es ist kein Schloss an der Tür.}
 {21020}{}{zwanzig}
 {30000}{}{Du hast deinen eigenen Stamm bestohlen.}
-{40000}{}{Slot Jinxer}
+{40000}{}{Spielautomat}
 {40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}

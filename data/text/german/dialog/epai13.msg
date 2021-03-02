@@ -1,7 +1,7 @@
 {100}{}{Kryokammer-Kontrollcomputer. Option auswählen.}
 {101}{}{Chronik der Subjekte.}
 {102}{}{Führe Testsubjekt zurück.}
-{103}{}{[Erledigt]}
+{103}{}{[Fertig]}
 {104}{}{Kryokammern. Drei Personen wurden vor dem Krieg, jede wegen besonderen klassifizierten Gründen, innerhalb dieser Kammern eingefroren. Subjekte blieben unter Verschluss und sind sich ihrer Umwelt nicht bewusst. Protokolleinträge sind für jedes Subjekt verfügbar.}
 {105}{}{Zurück zum Hauptmenü.}
 {106}{}{WARNUNG: Lange Zeiträume in tiefgefrorenem Zustand verändern die chemischen Prozesse des Körpers. Ohne sachgemäße Hinzugabe von Chemikalien am Körper des Subjekts, kann beim öffnen der Kammer ein UAS (Umwelt- abstoßungssyndrom) auftreten. Um die Sicherheit des Subjekts zu gewährleisten, wird nachdrücklich empfohlen, einen UASH (Umweltabstoßungssyndrom-Hemmstoff) Behälter in die Ausgabe zu stellen, bevor Sie fortfahren.}

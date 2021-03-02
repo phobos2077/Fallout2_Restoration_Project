@@ -22,11 +22,11 @@
 {121}{}{Wo ist das verdammte Bad?}
 {122}{}{He, wir kriegen hier nie 'ne Pause. Gibt's denn da kein Gesetz oder sowas?}
 {123}{}{Wir sollten eine Regierung wie in alten Zeiten bilden.}
-{124}{}{Wie das wohl damals war, Präsident zu sein.}
+{124}{}{Man, ich frag mich, wie es damals wohl war, Präsident zu sein?}
 {125}{}{Ich wette, der Präsident durfte alles. Vielleicht hatte er sogar ein paar nette Praktikantinnen...}
 {126}{}{Mein Vater wär jetzt bestimmt stolz auf mich, zu dumm, dass ich ihn töten musste.}
 {127}{}{ICH HASSE RATTEN! ICH HASSE SIE!}
-{128}{}{He, ist das 'ne neue Rüstung, die du an hast? Woher zum Teufel hast du eine neue Rüstung!}
+{128}{}{He, ist das 'ne neue Rüstung, die du an hast? Woher zum Teufel hast du eine neue Rüstung?}
 {129}{}{Diese verdammte Vault stinkt widerlich, oder?}
 {130}{}{He, nach wem sollen wir hier eigentlich suchen?}
 {131}{}{Ich tue nichts anderes als rumstehen. Stehen, stehen, stehen.}

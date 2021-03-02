@@ -6,7 +6,8 @@
 {105}{}{Ich haben Fragen.}
 {106}{}{OK, ich geh.}
 {107}{}{Ich möcht dir nur einige Fragen stellen.}
-{108}{}{Du wirst feststellen, dass hier niemand Antworten hat. Komm am besten wieder, wenn wir eine neue Lieferung bekommen.}
+{108}{}{Nun, du wirst feststellen, dass hier niemand von uns Antworten hat. Warum kommst du nicht zurück, wenn wir
+ eine Sendung reinbekommen?}
 {109}{}{Fertig.}
 {110}{}{Hallo. Ich hab noch immer keine Antworten für dich, Fremder. Warum folgst du nicht dem Wink mit dem Zaunpfahl und machst dich vom Acker?}
 {111}{}{Fertig.}
@@ -28,7 +29,7 @@
 {127}{}{Das ist alles, denk ich. Ich werd jetzt gehn.}
 {128}{}{Ja, das ist richtig. Ich bin der Mittelsmann zwischen ihm und den Leuten hier oben. Allerdings bin ich nicht gerade stolz darauf, jetzt, wo ich weiß, was er vor hat.}
 {129}{}{OK.}
-{130}{}{Verstehe.}
+{130}{}{Ich verstehe.}
 {131}{}{Nichts. Sie haben die Waffen, sie kontrollieren das Wasser und die Nahrungsmittel. Das bedeutet, sie haben alles unter sich. Punkt. Wir haben keine Möglichkeiten und keine Unterstützung ohne die Hilfe von Darion. Wie könnten wir uns also gegen ihn stellen? Wir sind ihm ausgeliefert.}
 {132}{}{Hmm. Ich denken kapiern.}
 {133}{}{Hmm. Verstehe.}

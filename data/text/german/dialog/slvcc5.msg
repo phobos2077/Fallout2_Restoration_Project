@@ -25,10 +25,10 @@
 {503}{}{Danke. Ich werd beim großen Häuptling ein gutes Wort für dich einlegen. Auf Wiedersehen.}
 {504}{}{Es wäre komisch, wenn Metzger jemanden schicken würde, der nicht unsere Tätowierung hat. Mich verarscht du nicht Kumpel. Zeit den Müll raus zu bringen.}
 {505}{}{Hinter dir, ein einköpfiges Brahmin!}
-{506}{}{But, uh, I've never seen you before. Where's the usual guy?}
+{506}{}{Aber, äh, ich hab dich vorher noch nie gesehen. Wo ist der Typ der sonst immer kommt?}
 {507}{}{Er ist krank. Der kommt nicht mehr vom Scheißhaus runter.}
 {508}{}{Ihn hat's bei der letzten Jagd erwischt.}
 {509}{}{Verdammt, das ist übel. Okay, dann mach mal deinen Job. Wenn du was brauchst, sag mir Bescheid.}
 {510}{}{Den Scheiß glaubst du doch selber nicht. Jungs, sieht so aus als ob der Typ uns verarschen will.}
 {600}{}{Ich hab dich gewarnt Arschloch!}
-{800}{}{[Erledigt]}
+{800}{}{[Fertig]}

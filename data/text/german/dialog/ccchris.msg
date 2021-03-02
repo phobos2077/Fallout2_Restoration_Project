@@ -10,7 +10,7 @@
 {107}{}{Du sehen Metallvogel fliegen hier?}
 {108}{}{Du hören Enklave? Die hier?}
 {109}{}{Ich nur schauen.}
-{110}{}{Was ist das alles hier?}
+{110}{}{Was ist das für ein Ort?}
 {111}{}{Ich suche Navarro. Ist das hier?}
 {112}{}{Hast du hier 'n paar Vertibirds vorbeifliegen sehen?}
 {113}{}{Schon mal von der Enklave gehört? Sind die hier in der Gegend?}
@@ -47,7 +47,7 @@
 {139}{}{Was glaubst du denn, was du da machst?}
 {140}{}{He, ich hau hier ab.}
 {141}{}{[Spricht ins Funkgerät] Alarm! Eindringling an der Tankstelle! Alarm!}
-{142}{}{[Erledigt]}
+{142}{}{[Fertig]}
 {143}{}{Na, war nett, mit dir zu plaudern. Ein Rat noch — hier in der Gegend gibt's nichts außer
  Öde und Strahlung. Die Zivilisation gibt's südlich von hier. An deiner Stelle würd ich mich
  dahin wenden.}
@@ -115,7 +115,7 @@
 {190}{}{Enklave? Is' das 'ne Gruppe oder sowas? Hab keinen blassen Schimmer davon. Was willst'n
  von denen?}
 {191}{}{Ich beitreten.}
-{192}{}{Ich will denen beitreten.}
+{192}{}{Ich möchte beitreten.}
 {193}{}{Beitreten? Du bist doch aus 'ner Sippe! Wie kommst du darauf, dass die solche wie euch 
 wollen?}
 {194}{}{Beitreten? Du bist doch aus 'ner Sippe! Wie kommst du darauf, dass die Sipplinge wollen,
@@ -141,7 +141,7 @@ wollen?}
 {208}{}{Ich hab 'ne Eskorte angeheuert!}
 {209}{}{Ich möcht jetzt nicht unhöflich sein oder so, aber das hier ist Privatbesitz. Wenn du wo
  rumschnüffeln willst, dann tu das nicht hier.}
-{210}{}{[Erledigt]}
+{210}{}{[Fertig]}
 {211}{}{Du schon wieder. Womit kann dir der alte Chris helfen?}
 {212}{}{Du sagen Navarro Süden. Du lügen! Ich hier für Wahrheit.}
 {213}{}{Du hast mir gesagt, Navarro liegt im Süden, Alter. Jetzt will ich die Wahrheit wissen.}
@@ -153,7 +153,7 @@ wollen?}
 {218}{}{Stirb, Abschaum!}
 {219}{}{Die Enklave wird mich befördern, wenn ich dich umlege!}
 {220}{}{Stirb, Outsider!}
-{221}{}{Was zum...}
+{221}{}{Was zum...?!}
 {222}{}{Du verwenden Funk, du reuen!}
 {223}{}{Wenn du das Gerät verwendest, wirst du's bereuen!}
 {224}{}{Geh zum Teufel! Willst du sehen, was Reue ist? Ich hab 'n paar Jungs, die dir 'ne ganz

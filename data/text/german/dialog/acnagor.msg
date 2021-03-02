@@ -3,7 +3,7 @@
 {102}{}{Cousin, bin ich froh, dich zu sehen! Ich brauch deine Hilfe.}
 {103}{}{Tut mir leid, aber ich hab keine Zeit.}
 {104}{}{Wobei brauchst du Hilfe?}
-{105}{}{Dann geh ich allein raus in die Wildnis.}
+{105}{}{Dann gehe ich selbst raus in die Wildnis!}
 {106}{}{Warte doch, wobei brauchst du Hilfe?}
 {107}{}{Tu das.}
 {108}{}{Rauch ist in die Jagdgründe gelaufen und nicht zurückgekommen. Und jetzt lässt Morlis mich
@@ -32,8 +32,7 @@
 {125}{}{Du hast Rauch gefunden! Danke! Rauch, du bist ein böser Hund!}
 {126}{}{Gern geschehn. Tschüss.}
 {127}{}{Noch mal vielen Dank. Ich hoffe, du hast 'ne tolle Reise.}
-{128}{}{Ich vermisse Rauch. Warum konntest du ihn nicht retten? Du bist doch das Auserwählte
- Wesen!}
+{128}{}{Ich vermisse Rauch. Warum konntest du ihn nicht retten? Du bist doch das Auserwählte Wesen.}
 {129}{}{Ich bin beschäftigt, Dummerchen. Geh und spiel irgendwas.}
 {130}{}{Ich geh.}
 {131}{}{Ich gehe Rauch suchen.}
@@ -49,10 +48,10 @@
  Dreizehn und das GECK gefunden?}
 {206}{}{Nix finden. Tut leid.}
 {207}{}{Tut mir leid, Nagor. Ich suche immer noch.}
-{208}{}{Hallo, Cousin. Du hast wohl schon bemerkt das es hier den Bach runtergeht. Bitte finde
- das GECK. Wir brauchen es dringend.}
-{209}{}{Hallo, Cousin. Du hast wohl schon bemerkt das es hier den Bach runtergeht. Bitte finde
- das GECK. Wir brauchen es dringend.}
+{208}{}{Hallo, Cousin. Ich denke, du hast bestimmt schon gemerkt das alles den Bach runtergeht. Bitte finde
+ das GECK. Wir brauchen es dringend!}
+{209}{}{Hallo, Cousin. Ich denke, du hast bestimmt schon gemerkt das alles den Bach runtergeht. Bitte finde
+ das GECK. Wir brauchen es dringend!}
 {210}{}{Hi, Cousin.}
 {211}{}{Hi, Cousin.}
 {212}{}{Du hören anders an als sonst.}
