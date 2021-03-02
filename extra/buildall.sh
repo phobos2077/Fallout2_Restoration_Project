@@ -18,8 +18,6 @@ fi
 for d in $(ls $src); do
   if [[ -d "$src/$d" && "$d" != "template" ]]; then # if it's a dir and not a template
     cd "$src/$d"
-    files=""
-    set +x # ok this is too verbose
     for f in $(ls | grep -i "\.ssl$"); do # build file list
       int="$(echo $f | sed 's|\.ssl$|.int|')"
       process=0
