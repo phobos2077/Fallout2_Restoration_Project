@@ -13,10 +13,13 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run tests
-        run: ./extra/tests.sh
+        run: |
+          set -xeu -o pipefail
+          ./extra/tests.sh
 
       - name: Install packages
         run: |
+          set -xeu -o pipefail
           sudo dpkg --add-architecture i386
           sudo apt -qq update
           sudo apt -qq remove parallel
@@ -25,8 +28,8 @@ jobs:
 
       - name: Build and package
         run: |
-          . extra/env.sh
           set -xeu -o pipefail
+          . extra/env.sh
           ./extra/prepare.sh
           ./extra/buildall.sh
           ./extra/package.sh
