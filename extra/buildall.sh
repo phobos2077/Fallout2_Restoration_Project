@@ -21,24 +21,7 @@ function process_file() {
   dst="$2"
   script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
   gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f" # preprocess
-
-  # retry on wine connection reset, 1 time should be enough
-  set +e
-  result_text="$(wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" 2>&1)" # compile
-  result_code="$?"
-  set -e
-  if [[ "$result_code" != "0" ]]; then
-    set -x
-    if echo "$result_text" | grep -q "recvmsg: Connection reset by peer"; then
-      sleep 1
-      wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # 1 retry
-    else
-      echo "Compilation failed:"
-      echo "$result_text"
-      exit 1
-    fi
-    set +x
-  fi
+  wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name"
   rm -f "$f.tmp"
 }
 export -f process_file
