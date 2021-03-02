@@ -22,10 +22,8 @@ function process_file() {
   script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
   gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f" # preprocess
   wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name"
-  echo $? # debug exit code
   rm -f "$f.tmp"
 }
-export -f process_file
 
 # compile all
 for d in $(ls $src); do
@@ -35,18 +33,16 @@ for d in $(ls $src); do
     set +x # ok this is too verbose
     for f in $(ls | grep -i "\.ssl$"); do # build file list
       int="$(echo $f | sed 's|\.ssl$|.int|')"
+      process=0
       if grep -qi "^$int " "$scripts_lst"; then # if file is in scripts.lst
-        files="$files $f"
+        process=1
       fi
       if [[ "$d" == "global" ]]; then # or if it's a global script
-        files="$files $f"
+        process=1
+      fi
+      if [[ "$process" == "1" ]]; then
+        process_file "$f" "$dst"
       fi
     done
-    set -x # enabling output again
-    if [[ -n "$files" ]]; then
-      parallel -j20 --halt now,fail=1 -i bash -c "process_file {} $dst" -- $files
-      echo $? # debug exit code
-    fi
-    cd ..
   fi
 done
