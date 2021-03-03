@@ -18,7 +18,8 @@ fi
 for d in $(ls $src); do
   if [[ -d "$src/$d" && "$d" != "template" ]]; then # if it's a dir and not a template
     cd "$src/$d"
-    for f in $(ls | grep -i "\.ssl$"); do # build file list
+    set +x
+    for f in $(ls | grep -i "\.ssl$"); do
       int="$(echo $f | sed 's|\.ssl$|.int|')"
       process=0
       if grep -qi "^$int " "$scripts_lst"; then # if file is in scripts.lst
@@ -33,5 +34,6 @@ for d in $(ls $src); do
         rm -f "$f.tmp"
       fi
     done
+    set -x
   fi
 done
