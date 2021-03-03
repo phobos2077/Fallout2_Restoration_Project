@@ -86,7 +86,7 @@
 {173}{}{Wie wird synthetischer Alkohol denn hergestellt?}
 {174}{}{Eigentlich brauche ich nur ein paar Auskünfte.}
 {175}{}{Das war's für heute. Besten Dank.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
+{176}{}{Die Autodocs in Vault City können ungefährliche synthetische Ersatzstoffe für suchterzeugende Substanzen herstellen. Soweit ich weiß, wurden diese synthetischen Stoffe vor dem Krieg als Ersatzstoff für Abhängige eingesetzt.}
 {177}{}{Du scheinst dich aber gut mit diesem synthetischen Zeug auszukennen.}
 {178}{}{Äh, habt ihr auch was Richtiges zu trinken?}
 {179}{}{Oh. Ich glaube, ich nehme dann doch lieber nur Wasser.}
@@ -160,7 +160,7 @@
 {229}{}{Hmmm. Mich würde da noch was anderes interessieren...}
 {230}{}{So, so. Tja, ich könnte einen Drink gebrauchen. Was gibt's denn hier im Ausschank?}
 {231}{}{Interessant. Danke für die Information. Tschüss.}
-{232}{}{Oh, no, no... it's not slavery. Those people you see working in the city are servants... myself included. We are treated very well here, taught to read and write, and given medical care, homes and food.}
+{232}{}{Nein, nein, nein...das ist keine Sklaverei. Diese Leute, die du in der Stadt arbeiten siehst, sind Diener... mich eingeschlossen. Wir werden hier sehr gut behandelt, lernen zu lesen und zu schreiben, werden medizinisch versorgt, haben ein Dach über dem Kopf und bekommen Nahrung.}
 {233}{}{Alles, außer einem: Freiheit. Stimmt's?}
 {234}{}{Wenn's einem nichts ausmacht, ist es nicht so schlimm. Vergiss die Frage einfach.}
 {235}{}{Vergiss es. Ich möchte was zu trinken. Was gibt's denn im Ausschank?}

@@ -65,7 +65,7 @@
  und schüttelt dir danach die Hand.]}
 {311}{}{Ein Vergnügen mit dir Geschäfte zu machen. Tschüss}
 {312}{}{Tschüss.}
-{320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
+{320}{}{$500? Das ist nicht genug. Mach $1000 daraus und wir sind im Geschäft.}
 {321}{}{Ich habe nicht so viel. Tschüss.}
 {322}{}{Ok, gut. Hier, $1000.}
 {323}{}{Auf keine Fall. Auf Wiedersehen.}
@@ -100,7 +100,7 @@
 {381}{}{Baby, ich mache es, wo immer du willst.}
 {382}{}{Das wirst Du rausfinden müssen, nicht wahr?}
 {383}{}{Uhh! Zum Teufel damit. Beeilung, lass uns fertig damit werden, bevor ich kotzen muss.}
-{390}{}{[The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
+{390}{}{[Der Händler grinst Dich an, während er seinen Gürtel festzieht.] Heilige Scheiße, du weißt, wie du ein gutes Geschäft anleierst. Wenn du jemals einem Händler wieder etwas aufschwatzen willst, stell sicher, dass ich mit von der Partie bin. Jetzt muss ich aber wirklich los. War ein Vergnügen, Geschäfte mit dir zu machen.}
 {391}{}{[dir schaudert] Einmal war genug. Tschüss.}
 {392}{}{Jederzeit. Tschüss.}
 {393}{}{Tschüss.}

@@ -228,4 +228,4 @@
 Eventuell kann über den wahren Zweck dieser Vaults an anderer Stelle mehr herausgefunden werden.}
 {306}{}{[Kehre zur Archiv-Auflistung zurück.]}
 {307}{}{[Abmelden.]}
-{308}{}{You learn about the real purpose of Vault 8 and that there is more to the construction of all the Vaults than meets the eye.}
+{308}{}{Du hast den wahren Zweck von Vault 8 erfahren und dass noch mehr hinter der Konstruktion all dieser Vaults steckt, als es scheint.}

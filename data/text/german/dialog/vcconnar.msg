@@ -70,11 +70,7 @@
 {155}{}{Sicher, was möchtest du von mir wissen?}
 {156}{}{Woher sind die Maulwurfsratten gekommen, und warum greifen sie nicht an?}
 {157}{}{Schon gut, bye.}
-{158}{}{Well, it's kind of a strange story. You see, a bunch of ghouls came here one day, mumbling something about a "renewal",
- and giving out these funky amulets. [He shows you an Ankh shaped amulet.] These big rodents came with em, and the ghouls said
- they'd be protecting us from now on. The ghouls left--probably back up to Gecko--but the rodents stayed put, and they've
- been here ever since. Like I said, it's pretty strange stuff. It's kind of a pain to clean up after these things, but hell,
- if they keep Vault City off our ass, then I suppose I can put up with a little rat shit.}
+{158}{}{Naja, es ist schon eine seltsame Geschichte. Weißt du, ein paar Ghoule sind hier eines Tages im Dorf aufgetaucht und haben irgendwas von einer "Erneuerung" geredet und dabei so komische Amulette verteilt. [Er zeigt dir ein Amulett in Form eines Anks.] Diese großen Nager kamen mit ihnen und die Ghuls sagten, dass die uns von nun an beschützen würden. Die Ghuls gingen wieder –– wahrscheinlich zurück nach Gecko –– aber die Nager rührten sich nicht vom Fleck, seitdem sind sie hier. Wie ich schon sagte, eine echt seltsame Sache. Es ist zwar etwas mühselig hinter den Dingern sauber zu machen, aber zum Teufel, wenn sie uns Vault City vom Leib halten, kann ich mich wohl mit ein wenig Rattenscheiße abfinden.}
 {159}{}{Sehr interessant, kann ich eins dieser Amulette haben?}
 {160}{}{Auf jeden Fall. Sie haben uns jede Menge davon gegeben, und wir wissen überhaupt nicht was wir damit machen sollen. Hier, nimm eins.}
 {161}{}{Danke! Auf Wiedersehen.}
@@ -97,7 +93,7 @@
  Ich könnte ihn sicher zu einer friedlichen Lösung überreden.}
 {203}{}{Ehrlich, ich glaube es gibt einen besseren Weg. Es gibt einen vernünftigen Mann im Rat von Vault City, den Ehrwürdigen Stadtrat McClure.
  Ich bin mir sicher, dass er den Rat von einer friedlichen Lösung überzeugen kann.}
-{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naïve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
+{205}{}{Ha! Du denkst wirklich, dass einem dieser Rats-Bonzen nicht völlig schnuppe ist, was mit uns geschieht? Sei nicht so naiv, mein Freund, diesen Vault City Drecksäcken kann man nicht trauen. Also bitte, geh zu Joe im Vorhof von Vault City. Wenn er nicht in der Bar ist, dann ist er in der Nähe davon. Old Joe weiß was zu tun ist. Du kannst ihm vertrauen. Beeil dich bitte.}
 {206}{}{Ok. Ich melde mich wenn ich was Neues weiß.}
 {210}{}{Vertrau mir, wir haben alle Alternativen in Betracht gezogen, aber das einzige, worauf diese Vault City Drecksäcke reagieren werden, ist Gewalt. Also, gibst du uns die Waffen? Ich zahl $5.000 dafür. Für die Freiheit ist uns kein Preis zu hoch.}
 {211}{}{Du stimmst zu?! Hervorragend. Hier sind die $5.000 für die Waffen. Es ist alles was wir haben, aber die Freiheit ist unbezahlbar. Du hast sehr viel für uns getan und wirst hier immer willkommen sein.}
@@ -140,7 +136,7 @@
 {612}{}{Könnte passieren, um ehrlich zu sein. Ich hab soviel um die Ohren, da verliert man leicht den Überblick. Ohne meinen PIPBoy wäre ich wahrscheinlich schon lange verloren. Machs gut.}
 {700}{}{Ach, richtig. Bitte sehr. [Du gibst ihm $5.000.]}
 {701}{}{Es tut mir leid, ich musste es als Teil des Abkommens ausgeben.}
-{702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
+{702}{}{Kacke, ich hab nicht genug um es dir zurückzuzahlen. Ich muss etwas ausgegeben haben, ohne darüber nachzudenken. Ich werde es dir so schnell wie möglich zurückgeben.}
 {710}{}{Danke. Da. [Er gibt dir $2.500 zurück.] Behalte es. Es ist das Mindeste, das wir tun können, um es dir zu vergelten.}
 {720}{}{Oh, ich verstehe. Gut, wenn uns damit die Freiheit erkauft wurde, dann war es jede Münze wert. Vielen Dank nochmal für alles, was du für uns getan hast.}
 {730}{}{Ich sag dir was — Wie wärs wenn du uns nur die Hälfte zurückzahlst? Hast du $2.500?}

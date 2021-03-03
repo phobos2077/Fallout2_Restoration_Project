@@ -19,10 +19,9 @@
 {120}{}{Ich gehe das Geld holen.}
 {121}{}{Kein Problem. Ich möchte, dass er sofort geliefert wird.}
 {122}{}{Hast wohl gedacht, du könntest dich hier selbst bedienen, was? Verdammter Dieb... Wachen! Wachen!}
-{123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
-{124}{}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
- [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
- hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
+{123}{}{Dave hat mich geschickt. Wir versuchen, eine kaputte Wasserpumpe zu reparieren und er meint, dass du einen Ersatz-Motor auf Lager hast.}
+{124}{}{Du arbeitest also mit Dave, ja? Ja Mann, ich kenn den Typen. Wie ich sehe, hat er immer noch ein Talent dafür, andere dazu zu bewegen, für ihn die Laufarbeit zu machen ––fauler Bastard. 
+[Er kichert.] Also, ich denke, ich hab was du suchst, aber lass mich kurz nach hinten gehen und nachsehen. [Harry geht ins Nebenzimmer und du hörst wie er Kisten hin- und herschiebt. Nach einigen Minuten kommt er zurück.] Jup, haben ihn hier. Für $500 isses deiner.}
 {125}{}{Sicher. Hier ist das Geld.}
 {126}{}{$500? Verdammt. Ich hoffe ich kriege das erstattet. Na gut, hier ist das Geld.}
 {127}{}{Eine Freude mit dir Geschäfte zu machen. Pass auf dich auf.}

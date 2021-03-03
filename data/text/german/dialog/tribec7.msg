@@ -53,11 +53,11 @@
 {603}{}{Ja, die Sklaverei ist eine wirklich schreckliche Sache. Es tut mir leid, dass du das erleben musstest, Kurisu. Also, was willst du jetzt tun?}
 {604}{}{Die Sklavenhändler verletzten mich tief, aber sie konnten mich nicht brechen. Die Geister lenkten dich um meine Rettung zu ermöglichen. Die Geister planen eindeutig etwas großes für mich.
  Sie haben auch für dich große Pläne. Und meinen Bruder Sulik. Er wird uns sehr fehlen, aber die Geister sagen, sein Platz ist an deiner Seite. Bei allen Geistern, selbst Großvater Knochen mag dich, also weiß ich Sulik in guten Händen. Pass auf dich auf.}
-{605}{}{Thank you, Kurisu, see you around.}
+{605}{}{Danke Kurisu, man sieht sich.}
 {606}{}{Die Sklavenhändler verletzten mich tief, aber sie konnten mich nicht brechen. Die Geister lenkten dich um meine Rettung zu ermöglichen. Die Geister planen eindeutig etwas großes für mich. Bald, denke ich, werde ich mich auf die Suche nach meinem Bruder machen. Ich kenne Sulik, er bekam wahrscheinlich Ärger, als er versucht hat mir zu helfen. Jetzt, kann ich ihm vielleicht helfen.}
 {607}{}{Ich glaube ich kenne deinen Bruder. Er hat ein Gesicht voller Tattoos und einen großen Knochen in der Nase, nicht wahr?}
 {608}{}{Das ist Sulik, richtig! Und auch Großvater Knochen! Bitte, kannst du ihn nach Hause bringen? Ich vermisse den Kerl so sehr.}
-{609}{}{No problem, I'll bring him here. See you around, Kurisu.}
+{609}{}{Kein Problem, ich werde ihn herbringen. Man sieht sich Kurisu.}
 {610}{}{Ich kann es leider nicht machen. Weißt du, Sulik ist tot.}
 {611}{}{Sulik . . . tot? Das ist wirklich ein schwarzer Tag. Ich weiß, er ist jetzt bei Großvater, aber Sulik . . . er wird uns sehr fehlen. [Sie dreht den Kopf weg, als sich ihre Augen mit Tränen füllen.] Bitte . . . ich möchte jetzt allein sein. Danke . . . dass du mich nach Hause gebracht hast.}
 {650}{}{Hallo, Freund. Schon Glück bei d - SULIK!}
@@ -68,7 +68,7 @@
 {700}{}{Danke nochmal, mein Freund. Mögen die Geister dich beschützen!}
 {701}{}{Mein Bruder Sulik fehlt uns wirklich sehr.}
 {800}{}{Böse Geister begleiten dich! Verschwinde!}
-{810}{}{Get back in the building, Kurisu! I'll handle this.}
+{810}{}{Geh zurück ins Gebäude Kurisu! Ich mach das schon.}
 {820}{}{Bitte lass nicht zu, dass sie uns weiter wehtun.}
 {900}{}{Mir? Na, bin da Ausgewählte. Willst sprechen Sulik?}
 {910}{}{Jo, bös Jungs tot.}

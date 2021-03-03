@@ -4,14 +4,14 @@
 {103}{}{Sie scheint eifrig am kochen zu sein.}
 {104}{}{Grüße.}
 {200}{}{Du bist hier nicht Willkommen.}
-{201}{}{The spirits do not like you.}
-{202}{}{Go away, outworlder.}
+{201}{}{Die Geister mögen dich nicht.}
+{202}{}{Geh weg, Außenweltler.}
 {203}{}{Was willst du?}
 {204}{}{Willkommen, Freund.}
 {205}{}{Du bist uns immer willkommen.}
-{206}{}{The spirits accept you as one of us.}
+{206}{}{Die Geister akzeptieren dich als einen von uns.}
 {207}{}{Danke, das du uns geholfen hast.}
-{208}{}{I thought all outworlders were evil. It is not so...}
+{208}{}{Ich dachte, alle Außenweltler wären böse. Es ist nicht so...}
 {209}{}{Mach das bloß nicht.}
 {300}{}{Entschuldige, aber könntest du mir einen Gefallen tun? Ich bin etwas beschäftigt und ich weiß nicht, ob ich diesen Kochtopf hier unbeaufsichtigt stehen lassen kann.}
 {301}{}{Sicher, was brauchst du?}
@@ -26,14 +26,14 @@
 {308}{}{Ah, ausgezeichnet. Das wird das Feuer weiter lodern lassen. Danke für deine Hilfe. Leider habe ich nicht
  viel, dass ich dir geben könnte.}
 {309}{}{Dein Dank ist Lohn genug. Machs gut.}
-{310}{}{Nothing to repay me? Look lady, I could have died in those woods. It's filled with all kinds of deadly creatures. I risked my neck for this fucking wood. Not to mention I think one of the logs gave me a splinter. I *hate* splinters.}
+{310}{}{Keine Belohnung für mich? Hör mal Frau, ich hätte in den Wäldern sterben können. Sie sind mit allen möglichen tödlichen Kreaturen bevölkert. Ich riskierte meinen Hals für dieses verdammte Holz. Abgesehen davon, glaube ich, dass ich mir an einem dieser Scheite einen Splitter zugezogen habe. Ich *hasse* Splitter.}
 {311}{}{Hier, nimm dieses Geld. Ich habe keine wirkliche Verwendung dafür. Danke nochmal für deine Hilfe.}
 {312}{}{Schon besser. Tschüss.}
 {313}{}{[Fertig]}
 {314}{}{Dann frag jemand anderes um Hilfe.}
 {315}{}{Hast du das Feuerholz?}
 {316}{}{Ja, hier ist es.}
-{317}{}{No, not yet. I'll be back when I get the three bundles.}
+{317}{}{Nein, noch nicht. Ich komme zurück, wenn ich die drei Bündel habe.}
 {318}{}{Bist du bereit mir zu helfen?}
 {319}{}{Sicher, was brauchst du?}
 {320}{}{Nein, ich brauche noch etwas Zeit.}

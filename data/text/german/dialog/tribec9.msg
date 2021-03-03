@@ -25,7 +25,7 @@
 {216}{}{Hmm... Ich denke nicht, dass ich stark genug bin, um dich hinauszutragen, aber ich wette Sulik kann es tun. [Zu Sulik] Holen wir diesen Kerl hier raus.}
 {217}{}{Hmm... Ich denke nicht, dass ich stark genug bin, um dich hinauszutragen, aber Marcus ist stark wie ein Bär. [Zu Marcus] Hol den Kerl hier raus.}
 {218}{}{[Du untersuchst das Bein des Kriegers. Es ist ziemlich schwer verletzt und du siehst bereits Teile vom Knochen. Geschickt richtest du den Knochen wieder ein, stoppst die Blutung, schienst das Bein, und machst dich an die Arbeit es zu heilen.]}
-{219}{}{[After about 15 minutes of agonizing work, the leg is in much better shape. It looks as if this man will be able to walk again.]}
+{219}{}{[Nach ungefähr 15 Minuten quälender Arbeit, ist das Bein in einem stabilen Zustand. Es sieht aus, als könnte dieser Mann wieder gehen.]}
 {220}{}{So, das sollte es sein. Du wirst ein paar Tage Ruhe brauchen, um völlig zu genesen. Belaste das Bein nicht zu sehr, dann sollte es wieder völlig verheilen.}
 {221}{}{Die heiligen Geister mögen dich beschützen, mein Freund! Ich danke dir. Ich werde jetzt aufbrechen und zum Schamanen humpeln. Damit ich ein paar gute Kräuter, die meine Schmerzen lindern, bekomme. Wir sehen uns im Dorf, mein Freund.}
 {222}{}{[Fertig]}

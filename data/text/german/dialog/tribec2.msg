@@ -40,14 +40,14 @@
 {320}{}{Hey, hast du mich verstanden? Ich hab dich gefragt, ob der Brunnen repariert ist.}
 {321}{}{... [Du seufzt, dann deutest du auf den Brunnen.]}
 {330}{}{[He turns and looks at the well, then turns back to you.] Yeah, looks right an' proper now. Why not just say so? Here, take this money. The spirits tell me you be needing this more than I.}
-{331}{}{... [You take the money and walk away.]}
+{331}{}{... [Du nimmst das Geld und haust ab.]}
 {400}{}{[As you're about to walk away, Marli looks at you closely and his eyes light up.] Ah! I see you have sub-machine gun. [He gazes longingly at the weapon.] We had one once, but Sulik always be hogging it. Got lost in a battle. Such a pity. My magic would be fearsome strong if I had a soul-taker such as that.}
 {401}{}{If you want this one, you can have it. I'm sure I'll find another. [Hand Marli the SMG.]}
 {402}{}{Just take it. I don't even want it after the eye raping you're giving it. [Hand Marli the SMG.]}
 {403}{}{Yeah, I bet. Anyway, me and my soul-taker are going elsewhere now.}
-{404}{}{You keep your magic to yourself, pal. Bye.}
+{404}{}{Behalt deine Magie schön für dich, Kumpel. Tschüss.}
 {410}{}{[He grins like a maniac as he looks over the weapon.] Oh, you be a good friend to Marli, outworlder. Here, was saving this sweet bubble-water, but I think you should be having it. [He hands you a Nuka-Cola.] Now I be off to spit fiery death at some geckos. [He runs off to the hunting grounds.]}
 {411}{}{My magic be fearsome now!}
 {1000}{}{Du hast den Brunnen des Stammes repariert.}
-{2000}{}{Sorry if I was a jerk to you, hero.}
+{2000}{}{Entschuldige wenn ich mich idiotisch verhalten habe, Held.}
 {2001}{}{Sorry, I lost your sub-machine gun. That gecko be a fierce one.}

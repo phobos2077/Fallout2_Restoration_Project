@@ -408,7 +408,7 @@
 {426}{}{Ich weiß wer sie mit Waffen versorgt hat. Es war dieser Händler am Stadtrand, Harry. }
 {427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
 {428}{}{Ich weiß zwar nicht warum, aber Prokonsul McClure gab mir den Befehl mit dem Dorf zu warten. Sieht ganz nach deiner Handschrift aus. }
-{429}{}{Hmm... Ok.}
+{429}{}{Hmm...Ok.}
 {1215}{}{Ich habe ihren Führer davon überzeugt, sie nicht mehr durch die Berge zu führen. Ohne ihn werden sie den Weg nicht finden.}
 {1224}{}{Du hast sie gefunden? Dann sind sie für uns keine Bedrohung mehr?}
 {1251}{}{Genaugenommen hab ich sie schon beseitigt. Ich habe ihren Führer davon überzeugt, ihnen nicht mehr zu helfen. Ohne ihn sind sie nicht im Stande, einen Weg durch die Berge zu finden.}

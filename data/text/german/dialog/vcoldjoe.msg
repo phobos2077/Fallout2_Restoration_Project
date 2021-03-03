@@ -86,4 +86,4 @@
 {206}{}{He, ich bin genauso verwirrt wie du es bist. Wer weiß? Möglicherweise hat es etwas mit der Strahlung, der ich damals in den alten Tagen ausgesetzt war, zu tun. Zur Hölle, als wir im Glow unterwegs waren, warf sich der Vaultbewohner Rad-X ein wie Süßigkeiten, aber bat er dem alten Ian welches an? Natürlich nicht. Ich glaube, er war noch über das kleines Missgeschick mit der Kugel im Rücken, verärgert. Hä hä hm... [seufzt] Das waren tolle Zeiten.}
 {207}{}{Das waren sie sicher. Danke für die Geschichte Joe, äh, Ian. Machs gut!}
 {208}{}{Das waren sie sicher. Danke für die Geschichte Joe, äh, Ian. Allerdings hab ich mich über die Maulwurfsratten, die das Dorf schützen, gewundert.}
-{300}{}{Wait a minute! Are you the contact in Vault City that Connar was talking about?}
+{300}{}{Warte mal ne Minute! Bist du der Kontakt in Vault City über den Connar gesprochen hat?}

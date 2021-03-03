@@ -16,16 +16,16 @@
 {213}{}{Ich hab keine Ahnung was du meinst. Ich bin ein ganz normaler Sippling. Da ist überhaupt nichts besonderes an mir.}
 {214}{}{Oh, meinst du wegen meiner Bekleidung? Weißt du, ich versuch einen neuen Modetrend im Stamm einzuführen. Ich bin es müde,
  immer die gleichen Hosen aus Brahminhaut mit einem Gurt quer über der Brust, zu tragen. Das sieht *so* nach 2240 aus.}
-{215}{}{Who are you calling an "odd sort", you tubby one-eyed motherfucker? [Attack.]}
+{215}{}{Wen nennst du hier *sonderbar*, du fetter einäugiger Mistkerl? [Angreifen.]}
 {220}{}{[Sein Lächeln stockt etwas und er nickt.] Also gut, dann zurück zum Geschäft. Sag mal, Freund, hast du jemals von
  so einem Dingelchen gehört, es nennt sich... Stimpak? [Während er das letzte Wort dramatisch betont, zieht er ein
  Stimpak aus seiner Manteltasche und hält es wie ein wundersames Artefakt hoch.]}
 {230}{}{[Er macht große Augen, und stößt einen leisen Pfiff aus.] Das Auserwählte Wesen, hm? Also, ich bin beeindruckt. Lass uns
  jetzt über das Geschäft reden. Sag mal, Freund, hast du jemals von so einem Dingelchen gehört, es nennt sich... Stimpak? [Während
  er das letzte Wort dramatisch betont, zieht er ein Stimpak aus seiner Manteltasche und hält es wie ein wundersames Artefakt hoch.]}
-{240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
- a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
- wondrous artifact.]}
+{240}{}{Was auch immer du sagst, Freund. Wollen wir jetzt zum Geschäft kommen? Hast du jemals von so einem Dingelchen gehört, es nennt sich... 
+ Stimpak? [Während er das letzte Wort dramatisch betont, zieht er ein Stimpak aus seiner Manteltasche
+ und hält es wie ein wundersames Artefakt hoch.]}
 {241}{}{Äh, ja. Eigentlich sind sie ziemlich verbreitet.}
 {242}{}{Natürlich. In der Tat sammle ich diese Dinger. Verdammt, ich bin praktisch ein Stimpak-Junkie.}
 {243}{}{[Du schüttelst den Kopf und glotzt das Ding verwundert an.] Was ist ein... Stim-pak?}
@@ -51,18 +51,18 @@
  das Stimpak in Warrens Arm. Die Blutung stockt nahezu sofort. Roy wischt mit einem schmutzigen Lappen das meiste Blut weg, und es
  kommt eine Schnittwunde zum Vorschein, die nahezu verheilt ist.]}
 {263}{}{[Mehr]}
-{264}{}{Now just imagine the advantage having stimpaks would give you over your rival tribes. And unlike that healing
- powder you fellas like to brew up, the stimpak does *not* cause drowsiness. In fact, this little wonder is completely
- *without* side effects. But I know what you're thinking, they must cost a fortune, right? Wrong. Because I *like* you,
- I'm practically giving 'em away for nothing.}
+{264}{}{Jetzt stell dir nur den Vorteil vor, den dir diese Stimpaks gegenüber gegnerischen Stämmen bringen würde. Und im Gegensatz
+ zu diesem Heilpulver, dass ihr euch gerne zusammenbraut, verursacht das Stimpak *keine* Müdigkeit. In der Tat, dieses kleine
+ Wunder ist völlig *ohne* Nebenwirkungen. Aber ich weiß, was du denkst, sie müssen ein Vermögen kosten, richtig? Falsch. Weil ich dich *mag*, 
+gebe ich sie dir so gut wie gratis.}
 {270}{}{[Deinen Kommentar ignorierend, blickt er lächelnd zu Krom, dann wendet er sich an einen seiner Leibwächter.] Warren,
  los gib mir deine Hand. [Die Wache runzelt die Stirn, befolgt aber die Anweisung. Roy zieht schnell ein Messer und schlitzt
  ihm den Unterarm auf. Warren windet sich unter Schmerzen, gibt aber keinen Laut von sich.] Wie du siehst, hat Warren eine
  ziemlich böse Schnittwunde abgekriegt.}
 {275}{}{Wieviel?}
 {276}{}{So gut wie gratis? Über wieviel sprichst du?}
-{280}{}{I'll give you this entire crate full of 'em -- that's *fifty* stimpaks--and all I ask in return is a measly *twenty*
- golden gecko pelts. You just can't beat a deal like that.}
+{280}{}{Ich gebe euch eine ganze Kiste voll -- das sind *fünfzig* Stimpaks –– und alles was ich dafür möchte, sind mickrige *zwanzig* 
+goldene Geckohäute. So einen Handel kannst du einfach nicht ablehnen.}
 {281}{}{[Zu Krom.] Er hat recht, das ist ein guter Handel. Spitze, um ehrlich zu sein. [Zu Roy.] Der Handel gilt.}
 {282}{}{Das ist wirklich ein gutes Angebot. Zu gut. Wo ist der Haken?}
 {283}{}{Wir bieten dir zehn goldene Geckohäute. Nicht mehr.}
