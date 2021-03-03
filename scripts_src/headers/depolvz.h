@@ -5,6 +5,8 @@
 
 #include "depolva.h"
 #include "depolvb.h"
+#include "define.h"
+#include "../sfall/sfall.h"
 
 procedure sierra_set_klaxons_on begin
   variable s;
