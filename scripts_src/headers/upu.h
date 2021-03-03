@@ -29,6 +29,12 @@ end
     set_local_var(LVAR_Restock_Time, game_time - 1); \
     set_local_var(LVAR_Restock_Time_Fix, 1); \
   end
+// only used on tribe maps
+#define restock_fix_map \
+  if ( (game_time < 0) and (map_var(MVAR_Restock_Time_Fix) == 0)  ) then begin \
+    set_map_var(MVAR_Restock_Time, game_time - 1); \
+    set_map_var(MVAR_Restock_Time_Fix, 1); \
+  end
 
 #define CUR_AREA_MILITARY_BASE            (cur_town == AREA_MILITARY_BASE)
 
