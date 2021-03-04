@@ -16,50 +16,48 @@ fi
 
 # single file compile
 function process_file() {
-  set -eu -o pipefail
+  set -xeu -o pipefail
   f="$1"
   dst="$2"
   script_name="$(echo "$f" | sed 's|\.ssl$|.int|')"
   gcc -E -x c -P -Werror -Wfatal-errors -o "${f}.tmp" "$f" # preprocess
 
-  # 1 retry on wine connection reset
-  # set +e
+  # retry on wine connection reset, 1 time should be enough
+  set +e
   result_text="$(wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" 2>&1)" # compile
-  # result_code="$?"
-  # set -e
-  # if [[ "$result_code" != "0" ]]; then
-  #   set -x
-  #   if echo "$result_text" | grep -q "recvmsg: Connection reset by peer"; then
-  #     sleep 1
-  #     wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # 1 retry
-  #   else
-  #     echo "Compilation failed:"
-  #     echo "$result_text"
-  #     exit 1
-  #   fi
-  #   set +x
-  # fi
+  result_code="$?"
+  set -e
+  if [[ "$result_code" != "0" ]]; then
+    if echo "$result_text" | grep -q "recvmsg: Connection reset by peer"; then
+      sleep 1
+      wine "$compile_exe" -n -l -q -O2 "$f.tmp" -o "$dst/$script_name" # 1 retry
+    else
+      echo "Compilation failed:"
+      echo "$result_text"
+      exit 1
+    fi
+  fi
   rm -f "$f.tmp"
 }
+export -f process_file
 
 # compile all
 for d in $(ls $src); do
   if [[ -d "$src/$d" && "$d" != "template" ]]; then # if it's a dir and not a template
     cd "$src/$d"
-    set +x
-    for f in $(ls | grep -i "\.ssl$"); do
+    files=""
+    for f in $(ls | grep -i "\.ssl$"); do # build file list
       int="$(echo $f | sed 's|\.ssl$|.int|')"
-      process=0
       if grep -qi "^$int " "$scripts_lst"; then # if file is in scripts.lst
-        process=1
+        files="$files $f"
       fi
       if [[ "$d" == "global" ]]; then # or if it's a global script
-        process=1
-      fi
-      if [[ "$process" == "1" ]]; then
-        process_file "$f" "$dst"
+        files="$files $f"
       fi
     done
-    set -x
+    if [[ -n "$files" ]]; then
+      parallel -j20 -i bash -c "process_file {} $dst" -- $files
+    fi
+    cd ..
   fi
 done
