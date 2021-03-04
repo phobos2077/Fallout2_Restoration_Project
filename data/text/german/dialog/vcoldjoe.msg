@@ -60,7 +60,7 @@
 {141}{}{Vielleicht werde ich mit ihm sprechen. Wie auch immer, ich hab mich über die Maulwurfsratten, die das Dorf beschützen, gewundert.}
 {142}{}{Ja, was ist mit ihnen?}
 {143}{}{Weißt du woher sie aufgetaucht sind oder wer sie kontrolliert?}
-{144}{}{That, I'm not sure about. A bunch of ghouls came by with them. They were carrying strange amulets and talking about some "Renewal". That's pretty much all I know. You might wanna check out Gecko though. That place is bustling with ghouls. Speaking of big rats, did I ever tell you about the time the Vault Dweller and I went to Vault 15?}
+{144}{}{Da bin ich mir nicht sicher. Eine Gruppe Ghule waren bei ihnen. Die trugen so komische Amulette und faselten irgendetwas über eine "Erneuerung". Das ist aber auch schon alles, was ich weiß. Vielleicht findest du was raus wenn du in Gecko suchst. Dieser Ort ist voller Ghule. Apropos große Ratten, habe ich dir schon von damals erzählt, als der Vaultbewohner und ich zu Vault 15 reisten?}
 {145}{}{Nein, aber ich kenn die Geschichte sehr gut, sie wurde zu einer heilige Legende bei meinem Volk.
  Wie auch immer, vielleicht erfahre ich in Gecko etwas mehr. Pass auf dich auf, Ian.}
 {146}{}{Äh, danke für den Tip. Ich glaub du bist genau der Mann den ich suche. Ich komme von Connar und hab einige Fragen.}
@@ -68,7 +68,7 @@
 {148}{}{Nein, aber ich kenn die Geschichte sehr gut, sie wurde zu einer heilige Legende bei meinem Volk.
  Wie auch immer, vielleicht erfahre ich in Gecko etwas mehr. Pass auf dich auf.}
 {150}{}{Er wollte sich Waffen besorgen, um die Truppen aus Vault City loszuwerden. Ich konnte ihn aber davon überzeugen, dass es bessere Lösungen gibt als Waffengewalt.}
-{151}{}{Ah, so that's his new plan, eh? Yeah, Connar's a good man, but he doesn't always think things all the way through. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller.}
+{151}{}{Achso, das ist also sein neuer Plan, hä? Jaa, Connar ist nen guter Mann, aber er denkt die Dinge nicht immer bis zum Ende. Manchmal ist es das Beste,  die Dinge zu besprechen und zu versuchen, mit den Menschen darüber zu diskutieren. Das ist eine Lektion, die ich von meinem alten Freund, dem Bunkerbewohner, gelernt habe.}
 {152}{}{Gut, hast du 'ne Ahnung mit wem im Stadtrat man darüber sprechen könnte?}
 {153}{}{Ich denke der Ratsälteste McClure ist der richtige Mann dafür. Was hältst du davon?}
 {154}{}{Der Ratsälteste McClure ist ein helles Köpfchen in Vault City. Vielleicht kann mit ihm eine Vereinbarung getroffen werden?}

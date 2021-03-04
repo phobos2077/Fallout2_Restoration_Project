@@ -57,4 +57,4 @@
  er es schwer bereuen.}
 {150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
 {151}{}{Also gut.}
-{152}{}{I actually took that key from you. What are going to do about it?}
+{152}{}{Ich habe dir diesen Schlüssel tatsächlich weggenommen. Was wirst du dagegen unternehmen?}

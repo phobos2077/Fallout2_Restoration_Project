@@ -574,7 +574,7 @@
 {12106}{}{ mit der reinsten Lehre war.}
 {12107}{}{**END-PAR**}
 {12108}{}{**END-PAR**}
-{12109}{}{ wissenschaftliche Methoden an, die vom Hub entwickelt}
+{12109}{}{Dies ist unsere Schöpfungsgeschichte:}
 {12110}{}{ und von seinen Erben verbessert wurden, um jene}
 {12111}{}{ fehlerhaften Neurodyne neu auszurichten, die}
 {12112}{}{ Disharmonie und Asymmetrie am Rad auslösen. Dadurch}
@@ -592,7 +592,7 @@
 {12124}{}{ es wissenschaftliche Spiritualität ...und wir hoffen,}
 {12125}{}{ dass auch du unsere Lehre bald so verstehst!}
 {12126}{}{**END-PAR**}
-{12127}{}{ Dies ist unsere Entstehungsgeschichte:}
+{12127}{}{uns nützliche Speichen.) Dieses neue Leben wurde verunreinigt durch}
 {12128}{}{ Vor Jahrmillionen lebten alle in Frieden und Harmonie}
 {12129}{}{ miteinander. Körper, Geist und Seele ruhten in allen}
 {12130}{}{ Wesen, und die Technologie der Zeit überstieg unser}
@@ -702,11 +702,11 @@
 {13015}{}{**END-PAR**}
 {13016}{}{ etwas bedanke), Chris Wright und Tim Winkle.}
 {13017}{}{**END-PAR**}
-{13018}{}{ Scotty möchte sich bei folgenden Leuten bedanken:}
+{13018}{}{Bridges bedankt sich für all die coolen Fading Suns Bücher!}
 {13019}{}{**END-PAR**}
-{13020}{}{ an Bill Bridges für die coolen 'Fading Suns'-Bücher!}
+{13020}{}{Dan möchte sich gern bei den folgenden Personen bedanken:}
 {13021}{}{**END-PAR**}
-{13022}{}{ Dan möchte sich bei folgenden Leuten bedanken:}
+{13022}{}{True Lies, Joe Viskocil für seine geilen Explosionen,}
 {13023}{}{ Bei Split Enz für die gute Musik, James Cameron für}
 {13024}{}{ "True Lies", Joe Viskocil für seine unglaublichen}
 {13025}{}{ Explosionen, Chong's am Triangle Square für das Essen,}
@@ -714,17 +714,17 @@
 {13027}{}{ erster Film kann jetzt jeden Tag herauskommen),}
 {13028}{}{ Jon Land für die unterhaltsam unwahrscheinlichen }
 {13029}{}{**END-PAR**}
-{13030}{}{ und wie immer bei Mom und Dad, weil sie cool sind.}
+{13030}{}{Rob Hertenstein möchte sich gern bei folgenden Personen bedanken:}
 {13031}{}{**END-PAR**}
 {13032}{}{ Rob Hertenstein möchte sich bei folgenden Leuten}
 {13033}{}{ bedanken: Bei Becky Warner (die immer noch versucht,}
 {13034}{}{ mich von allem Ärger fernzuhalten), bei Billie Ryder}
 {13035}{}{ (dafür, dass sie während des ganzen Projekts meine}
 {13036}{}{**END-PAR**}
-{13037}{}{ ungefähr zur selben Zeit herauskommen soll wie dieses}
+{13037}{}{Eric Pribish möchte sich gern bei folgenden Personen bedanken:}
 {13038}{}{ Spiel), und Nicole Roman (dafür, dass sie da war).}
 {13039}{}{**END-PAR**}
-{13040}{}{ Eric Pribish möchte sich bei folgenden Leuten  bedanken:}
+{13040}{}{den Freunden Brad and Dave Carnes, weil sie in Kontakt geblieben sind}
 {13041}{}{ Bei Tommy Hood, Jr., Joe Isip und Julio Mata dafür, dass}
 {13042}{}{ sie mich nicht enteignet haben, als ich bei D&D kürzer}
 {13043}{}{ treten musste. Bei meinen alten Freunden Brad und Dave}
@@ -885,7 +885,7 @@
 {16026}{}{ Zugang zu den Gerichtshöfen der NCR sowie das}
 {16027}{}{**END-PAR**}
 {16028}{}{ bestimmen, der sie im Kongreß vertritt.}
-{16029}{}{ Um mit Präsidentin Tandi zu sprechen:}
+{16029}{}{Die NCR könnte etwas anders sein, als du es gewohnt warst.  }
 {16030}{}{ "Ein sicheres Volk ist ein starkes Volk."}
 {16031}{}{**END-PAR**}
 {16032}{}{ WER HAT HIER DAS SAGEN?}
@@ -951,7 +951,7 @@
 {18002}{}{ An: Das Volk unserer großen Nation}
 {18003}{}{ Thema: Ansprache zur Lage der Nation }
 {18004}{}{**END-PAR**}
-{18005}{}{ Liebe amerikanische Mitbürger und Mitbürgerinnen:}
+{18005}{}{Liebe amerikanische Mitbürger und Mitbürgerinnen, es ist mir eine Ehre, der Steward zu sein}
 {18006}{}{ Ich habe die große Ehre, alle Amerikaner }
 {18007}{}{ zurück zum Hauptland Amerikas zu führen, }
 {18008}{}{ um die Vereinigten Staaten wieder für die eigenen}

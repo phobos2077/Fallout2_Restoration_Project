@@ -105,20 +105,20 @@
  faszinierendste Frau, die ich je gesehn hab. Willste dein Glück versuchen?*}
 {307}{}{::Zwick dich selbst::}
 {308}{}{Äh... Hallo?}
-{309}{}{::Hol tief Luft, geh weiter.:: }
+{309}{}{::Hol tief Luft, geh weiter.::}
 {315}{}{*Ich bin immer noch hier, schöne Frau.* (Der Spielautomat senkt seine Stimme.) *Na komm 
  schon...willste 'n Spielchen wagen?*}
 {316}{}{*Bin immer noch hier, Süßer.* (Der Spielautomat senkt die Stimme.) *Du bist faszinierend, weißt du das? Komm schon...willst du mir nicht ein paar Chips reinschieben?*}
 {317}{}{Weer bis' DU?}
 {318}{}{Klaaar, ich wagen Spiiieelchen.}
 {319}{}{Ich geh jetzt besser, bevor ich dir noch was reinschiebe, was ich später bereue.}
-{320}{}{::Hol tief Luft, geh weiter.:: }
+{320}{}{::Hol tief Luft, geh weiter.::}
 {325}{}{*Ich bin der Mann für dich.* (Der Spielautomat zwinkert dir zu.) *Gib mir 'n paar Chips und ich mach dich so glücklich wie noch KEIN Mann das hingekriegt hat.*}
 {326}{}{*Ich bin die Frau für dich, Süßer. Brauch nur 'n bisschen Aufmerksamkeit. Kannste mir da nicht helfen? Los, nur einen oder zwei Chips?*}
 {327}{}{Könn' wir nich' einfach reden?}
 {328}{}{Klaaar, ich wagen Spiiieelchen.}
 {329}{}{Ich geh jetzt besser, bevor ich dir noch was reinschiebe, was ich später bereue.}
-{330}{}{::Hol tief Luft, geh weiter.:: }
+{330}{}{::Hol tief Luft, geh weiter.::}
 {335}{}{*Klar, Süße, klar.* (Der Spielautomat schaut verständnisvoll.) *Was geht in deinem
  hübschen kleinen Kopf denn vor?*}
 {336}{}{*Klar, Süßer, klar.*(Der Spielautomat sieht verständnisvoll aus.) *Worüber machste dir
@@ -135,14 +135,14 @@
 {342}{}{Ich hab versucht, 'ne gute Figur zu kriegen, aber irgendwie hab ich die Punkte alle
  *falsch* verteilt...un' jetz' hab ich 'ne Mistfigur...un'...*schnief*}
 {343}{}{Wenn ich schon mit Spiehlautomaten red, mussich echt ziiiemlich üübel dran sein.}
-{344}{}{::Hol tief Luft, geh weiter.:: }
+{344}{}{::Hol tief Luft, geh weiter.::}
 {350}{}{*Schon gut...zerbrich dir deinen hübschen kleinen Kopf nicht länger... ich werd mich um
  alles kümmern. Komm, leg deinen Kopf hierher. Schon gut, lass es raus.*}
 {351}{}{* Schon gut...du musst dir keine Gedanken mehr machen, Kleiner... ich werd mich um alles
  kümmern. Komm, leg deinen Kopf hierher. Schon gut, lass es raus.*}
 {352}{}{Danke, Spielautomaat *schnief* du bis' echt klasse}
 {353}{}{Duu bis' die einsig NETTE Persoon, die mir begegnet is'. Bisheer warn alle andern gans gemein un' wollten mir WEH tun un' mein Gelt ham un'...*schnief*}
-{354}{}{::Hol tief Luft, geh weiter.:: }
+{354}{}{::Hol tief Luft, geh weiter.::}
 {360}{}{(Du ruhst deinen müden Kopf auf dem Automaten aus.)}
 {361}{}{*Bist du OK, Schätzchen? Mir ist nicht wohl bei dem Gedanken, dich so gehen zu lassen.*}
 {362}{}{* Bist du OK, Kleiner? Mir ist nicht wohl bei dem Gedanken, dich so gehn zu lassen.*}

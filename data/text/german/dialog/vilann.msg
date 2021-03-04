@@ -1,9 +1,7 @@
 {100}{}{Du siehst eine junge Frau.}
 {101}{}{Du siehst Ann, Connars Frau.}
 {102}{}{Sie scheint eifrig am kochen zu sein.}
-{200}{}{Why hello there, I'm Connar's wife, Ann. You must be the one who helped us out. I can't tell you how much
- we appreciate all you've done. It's hard to believe that we can finally live in peace without fear of Vault City's goons
- coming to take us from our homes.}
+{200}{}{Ach hallo, ich bin Connars Frau, Ann. Du musst derjenige sein, der uns ausgeholfen hat. Ich kann dir gar nicht sagen, wie dankbar wir dir sind. Ich kann es kaum glauben, dass wir endlich in Frieden leben können, ohne Angst haben zu müssen, dass uns die Schläger, aus Vault City, aus unseren Häusern vertreiben.}
 {201}{}{Schön das ich helfen konnte. Du scheinst hier ja jede Menge zu tun zu haben. Brauchst du irgendwelche Hilfe?}
 {202}{}{Kein Problem, wir sehn uns.}
 {300}{}{Eigentlich, könnte ich wirklich ein „wenig“ Hilfe gebrauchen. Da wir immer mehr werden, müssen wir organisierter werden. Das Problem ist, ich bin mir nicht sicher ob wir hier genug zu essen haben. Mein Mann hat schon bei den Karawanen angefragt ob sie hier halten würden, aber sie denken wir sind ihre Zeit nicht wert. Könntest du sie vielleicht umstimmen?}

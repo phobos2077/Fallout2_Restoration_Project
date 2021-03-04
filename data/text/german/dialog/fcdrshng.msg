@@ -88,65 +88,65 @@
 {444}{}{Ihre Rachemethode war nicht direkt genug für meinen Geschmack, also habe ich einfach alle für Sie getötet.}
 {445}{}{Dr. Wong ist tot.}
 {446}{}{Ich lieferte die Probe an die Shi und erzählte Dr. Wong von Ihren Absichten. Er hat die Probe sofort zerstört.}
-{450}{}{Impossible! A spore plant cannot be capable of speech regardless of its intelligence. Either you are making some sort of jest or you were under a drug-induced hallucination. By the looks of you, I'd guess it was the latter. But enough about that nonsense. I must know if you are willing to assist me.}
+{450}{}{Unmöglich! Ein Sporenpflanze ist nicht in der Lage zu sprechen, unabhängig von ihrer Intelligenz. Entweder machen Sie eine Art Scherz oder Sie standen unter einer drogenbedingten Halluzination. Ihrem Aussehen nach, tippe ich ehr auf letzteres. Aber genug von diesen Nonsens. Ich muss wissen, ob Sie bereit sind, mir zu helfen.}
 {451}{}{Ja, ich nehme an, es *klingt* ziemlich albern. Wie auch immer, womit sollte ich Ihnen helfen?}
 {452}{}{Wechseln Sie nicht das Thema -- ich habe die Wahrheit gesagt! Ich schwöre auf den Vault Dweller, sein Name war Seymour und er konnte sprechen. Er wollte, dass ich ihn an einem besseren Ort neu pflanze. Ich denke mir das nicht aus und habe es auch nicht geträumt.}
 {460}{}{Genug! Ich habe keine Zeit für diesen Unsinn. Werden Sie mir helfen oder nicht?}
 {461}{}{Helfen bei was?}
 {462}{}{Nein! Ich werde Ihnen nicht helfen, Arschloch! Seymour war echt! SEYMOUR WAR REAL!}
-{470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
+{470}{}{[Er grinst und ist offensichtlich bestrebt, sein Genie zu demonstrieren.] Pflanzen haben mich schon immer fasziniert. Sie sind so bemerkenswert unterschiedlich von Tieren und doch überraschend ähnlich. Wenn Sie ein Tier betrachten, wissen Sie, dass es denken kann, dass es sich seiner Umgebung bewusst ist, Schmerzen und Angst hat. Dass es Absichten hat. Offensichtlich variiert das Ausmaß dieser Fähigkeit, aber der Punkt ist, dass ein Tier diese besitzt.}
 {471}{}{Mach weiter.}
-{480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
+{480}{}{Denken Sie das auch, wenn Sie sich eine Pflanze ansehen? Wenn Sie eine Pflanze treten, schlägt sie zurück? Reagiert sie in irgendeiner Weise auf Sie? Beeinflusst das Gespräch mit einer Pflanze ihr Wachstum? Vor dem Großen Krieg testeten einige Kulturen diese Theorien. Ein Volk, das als Deutsche bekannt ist, führte Experimente durch, bei denen es glaubte, dass Pflanzen zu Emotionen fähig sind und dass man mit Reden, Aufmerksamkeit und Zuneigung ein gesundes Wachstum fördern kann.}
 {481}{}{Aber Pflanzen haben kein Nervensystem und ohne eins ist das, was Sie vorschlagen, einfach nicht möglich.}
 {482}{}{Ich denke, alle Lebensformen nehmen auf die eine oder andere Weise Dinge wahr.}
 {483}{}{Diese Sporenpflanzen, denen ich begegnet bin, wehren sich sicher. Also ja, ich würde sagen, Pflanzen fühlen etwas.}
-{490}{}{And you would not be alone in thinking that. I too was skeptical at first. But you see, in the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
+{490}{}{Und Sie wären nicht allein, wenn Sie das denken. Auch ich war zunächst skeptisch. Aber Sie sehen, im 20. Jahrhundert führte die Regierung der Vereinigten Staaten ähnliche Experimente mit Schwerpunkt auf Kommunikation durch. Sicher, alle Lebensformen verfügen über Mittel zur Erkennung von Selbstschäden, die auch als Schmerz bezeichnet werden. Aber kommunizieren sie diesen Schmerz auf irgendeine Weise? Und was war die Schlussfolgerung dieser Experimente? Die Idee der Biokommunikation -- dass Pflanzen empfindungsfähig sind.}
 {491}{}{Behaupten Sie etwa, dass Pflanzen fast wie Menschen sind?}
-{500}{}{And you would not be alone in thinking that. In the twentieth century, the United States government conducted similar experiments with a focus on communication. Sure, all forms of life have some means of self-damage detection, otherwise known as pain, but do they communicate this pain in some way? And what was the conclusion of these experiments? The idea of biocommunication--that plants are sentient.}
+{500}{}{Und Sie wären nicht allein, wenn Sie das denken. Im 20. Jahrhundert führte die Regierung der Vereinigten Staaten ähnliche Experimente mit Schwerpunkt auf Kommunikation durch. Sicher, alle Lebensformen verfügen über Mittel zur Erkennung von Selbstschäden, die auch als Schmerz bezeichnet werden. Aber kommunizieren sie diesen Schmerz auf irgendeine Weise? Und was war die Schlussfolgerung dieser Experimente? Die Idee der Biokommunikation -- dass Pflanzen empfindungsfähig sind.}
 {501}{}{Behaupten Sie etwa, dass Pflanzen fast wie Menschen sind?}
 {510}{}{Ich schlage vor, dass sie wie Menschen sein können. Und wie Sie sehen, hatte ich recht. Sie brauchten nur ein wenig Hilfe.}
 {511}{}{Ein bisschen Hilfe?}
-{520}{}{Gene-splicing! Through the magic of science, I was able to develop a botany sentience serum. But giving the plants human-like intelligence was only half of the equation. In order to fully utilize such intelligence, I knew they would require a human-like body and senses.}
-{521}{}{Ah, which is where the 'fresh human cadavers' come in. You must tell me how you were able to get the plant life to interface with and take control of a human nervous system. And a dead one, at that. I wouldn't believe it were possible if I hadn't seen it firsthand.}
-{530}{}{Very well, I cannot promise you will fully comprehend what I am about to say, but I will do my best to explain it to you. [With the zeal of a preacher raving about his god to a rapt listener, he spends two hours detailing the process of his experiments, obviously taking great pride in his accomplishments.]}
+{520}{}{Genspleißung! Durch die Magie der Wissenschaft konnte ich ein botanisches Empfindungsserum entwickeln. Aber den Pflanzen eine menschenähnliche Intelligenz zu geben, war nur die halbe Miete. Um diese Intelligenz voll auszunutzen, wusste ich, dass sie einen menschenähnlichen Körper und Sinne benötigen würden.}
+{521}{}{Ah, hier kommen die "frischen menschlichen Leichen" ins Spiel. Sie müssen mir sagen, wie Sie es geschafft haben, das Pflanzenleben mit einem menschlichen Nervensystem in Verbindung zu bringen und dessen Kontrolle zu übernehmen. Und noch dazu ein totes. Ich würde nicht glauben, dass es möglich wäre, wenn ich es nicht aus erster Hand gesehen hätte.}
+{530}{}{Sehr gut, ich kann nicht versprechen, dass Sie vollständig verstehen werden, was ich sagen werde, aber ich werde mein Bestes tun, um es Ihnen zu erklären. [Mit dem Eifer eines Predigers, der einem begeisterten Zuhörer von seinem Gott vorschwärmt, verbringt er zwei Stunden damit, den Prozess seiner Experimente zu beschreiben, wobei er offensichtlich sehr stolz auf seine Leistungen ist.]}
 {531}{}{[Mehr]}
 {540}{}{Und nun verstehen Sie es, hoffe ich?}
-{541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
-{550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
+{541}{}{Ja, das mache ich. Es erschien zwar völlig unmöglich, aber die Art und Weise, wie Sie es erklärt haben, macht durchaus Sinn. Und die Sache mit den Schwämmen, absolut genial! Aber eines haben Sie nicht erklärt. Wo genau bekommen Sie diese "frischen menschlichen Leichen" her?}
+{550}{}{Jetzt warten Sie eine Minute. Dr. Wong wird hier ein kleines Hindernis sein. Wenn er vom Bildfläche verschwinden würde, würden die Dinge viel reibungsloser verlaufen. Geben Sie Dr. Wong die Probe. Selbst wenn er mir misstraut, wird seine Neugier ihn überwältigen und er wird es akzeptieren. Sobald die Probe eingelagert wurde, finden Sie einen Weg, Dr. Wong zu eliminieren, ohne die anderen Shi zu alarmieren. Vielleicht eine Überdosis. Tun Sie dies, und ich werde sehen, dass sich Ihre Belohnung verdreifacht.}
 {551}{}{Ich werde sehen, was ich tun kann.}
 {552}{}{Wenn Sie wollen, dass Wong stirbt, müssen Sie mir bereits vorher etwas zahlen.}
 {553}{}{Wissen Sie, das wird alles etwas kompliziert. Ich denke, ich würde Sie lieber einfach massakrieren und dann zu den Shi gehen, um auch diese zu massakrieren.}
 {554}{}{Ich töte Dr. Wong auf keinen Fall für Sie. Ich bin hier fertig.}
 {560}{}{Gute Arbeit. Und was wird mit Dr. Wong?}
 {561}{}{Er ist immer noch am Leben. Ich werde zurückkehren, sobald er aus dem Weg geräumt ist.}
-{562}{}{I'm not going to kill Dr. Sheng for you. I gave them the plant sample, and now I'm done helping you.}
-{570}{}{I need them put down, and you look more than capable of the task.}
-{571}{}{Why don't you send these, uh, more successful ones in there to take care of them?}
+{562}{}{Ich werde Dr. Sheng nicht für Sie töten. Ich gab ihm die Pflanzenprobe und jetzt bin ich fertig damit, Ihnen zu helfen.}
+{570}{}{Sie müssen sie erledigen und Sie sehen mehr als fähig für die Aufgabe aus.}
+{571}{}{Warum schicken Sie nicht diese, ähm, erfolgreicheren Dinger, damit die sich darum kümmern?}
 {572}{}{Hört sich gut an, ich werd's machen.}
 {573}{}{Wieviel ist für mich drin?}
 {574}{}{Ich bin nicht interessiert daran, Ihre Schweinereien zu beseitigen.}
-{580}{}{They will not attack their own. They understand why I must now dispose of their less-fortunate brethren, but they will not carry out the task themselves. That left me in a rather delicate situation. Which is why I was so pleased to learn of your approach. So, will you assist me?}
+{580}{}{Sie werden ihre eigenen Leute nicht angreifen. Aber sie verstehen, warum ich mich jetzt um die weniger erfolgreichen Brüder kümmern muss, aber sie werden diese Aufgabe nicht selbst ausführen. Das hat mich in eine ziemlich heikle Situation gebracht. Deshalb habe ich mich sehr über Ihre Ankunft gefreut. Also, werde Sie mir helfen?}
 {581}{}{Alles klar. Ich werde es machen.}
 {582}{}{Wieviel ist für mich drin?}
 {583}{}{Ich bin nicht interessiert daran, Ihre Schweinereien zu beseitigen.}
-{590}{}{The laboratory is right up there to the north. The sentry will let you through. Be careful. These creatures are incredibly strong, so try not to let them get too close. Oh, and beware of the poisonous spore they shoot out. But do not worry. I have an antidote, should you get poisoned.}
+{590}{}{Das Labor befindet sich direkt im Norden. Der Wachposten wird Sie durchlassen. Seien Sie vorsichtig. Diese Kreaturen sind unglaublich stark, also versuchen Sie, sie nicht zu nahe kommen zu lassen. Oh, und hüten Sie sich vor der giftigen Spore, die sie abschießen. Aber keine Sorge. Ich habe ein Gegenmittel, falls Sie vergiftet werden.}
 {591}{}{Okay. Ich komme wieder.}
-{592}{}{So they're incredibly strong and have poisonous projectiles? On second thought, I'm going to have to pass.}
-{600}{}{I shall give you money, of course. Also, I have information that I believe would be of great interest to you. So, will you assist me?}
+{592}{}{Sie sind also unglaublich stark und haben giftige Projektile? Wenn ich es mir genau überlege, muss ich wohl passen.}
+{600}{}{Ich werde Ihnen natürlich Geld geben. Außerdem habe ich Informationen, von denen ich glaube, dass sie für Sie von großem Interesse sind. Also, werden Sie mir helfen?}
 {601}{}{Alles klar. Ich werde es machen.}
 {602}{}{Ich bin nicht interessiert daran, Ihre Schweinereien zu beseitigen.}
 {610}{}{[Er schaut dich erwartungsvoll an.]}
 {611}{}{Ich komm später wieder, wenn die Kreaturen im Labor erledigt habe.}
 {612}{}{Alle Kreaturen im Labor sind tot.}
-{613}{}{All the creatures in the lab are dead, but I've been poisoned. You said something about an antidote?}
-{620}{}{Yes, I shall administer it at once. Here.}
+{613}{}{Alle Kreaturen im Labor sind tot, aber ich bin vergiftet worden. Sie haben etwas über ein Gegenmittel gesagt?}
+{620}{}{Ja, ich werde es sofort verabreichen. Hier.}
 {621}{}{Ah. Ich fühl mich schon besser.}
-{630}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Here is your monetary reward. [He hands you $1000.] The second half of your reward is information -- and a second task to go with it.}
-{631}{}{It is a pity to lose those specimens, but a necessary evil to reclaim my laboratory. You have done well. Your reward is information -- and a second task to go with it.}
+{630}{}{Es ist schade, diese Exemplare zu verlieren, aber ein notwendiges Übel, um mein Labor zurückzugewinnen. Das haben Sie gut gemacht. Hier ist Ihre finanzielle Belohnung. [Er gibt dir $1000.] Die zweite Hälfte Ihrer Belohnung sind Informationen -- und eine zweite Aufgabe, die damit verbunden ist.}
+{631}{}{Es ist schade, diese Exemplare zu verlieren, aber ein notwendiges Übel, um mein Labor zurückzugewinnen. Das haben Sie gut gemacht. Ihre Belohnung sind Informationen - und eine zweite Aufgabe, die damit verbunden ist.}
 {632}{}{Erzähl mir davon.}
-{633}{}{Forget it. Keep your information. I'm done working for you.}
-{640}{}{Exellent. And the Shi have the sample I gave you?}
-{641}{}{Oh, uh ... No, actually. I forgot to give it to him first.}
+{633}{}{Vergissen Sie es. Behalten Sie Ihre Informationen. Ich bin fertig damit, für Sie zu arbeiten.}
+{640}{}{Hervorragend. Und die Shi haben die Probe, die ich Ihnen gegeben habe?}
+{641}{}{Oh, äh ... Nein, eigentlich. Ich habe vergessen, es ihm zuerst zu geben.}
 {700}{}{Du hast Dr. Shengs Labor gesäubert.}
 {710}{}{Du bringst die Samenpflanzen zu Dr. Sheng.}
 {800}{}{*Keuchen* Ahhh...}

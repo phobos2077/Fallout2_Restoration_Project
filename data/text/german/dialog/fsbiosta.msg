@@ -3,9 +3,9 @@
 {102}{}{Du siehst ein funktionsfähiges Computerterminal.}
 {103}{}{Willkommen. Bitte identifizieren.}
 {104}{}{[Oooh! Sieh doch nur die blinkenden Lichter!]}
-{105}{}{[Rate ein Kennwort]}
+{105}{}{::errate das Kennwort::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
-{107}{}{[Hack dich in den Computer]}
+{107}{}{::hack dich in den Computer::}
 {108}{}{Abmelden}
 {109}{}{Daten für folgende Forschungsprojekte gefunden:               - Botanik - Genetik - Xenogenese -}
 {110}{}{Botanikprogramm.}
@@ -14,8 +14,8 @@
 {113}{}{Neueste Personalvermerke.}
 {114}{}{Terminal deaktivieren.}
 {115}{}{Falsches Kennwort. Bitte mit Systemadministrator in Verbindung setzen. Auf Wiedersehen.}
-{116}{}{[Hack dich in den Computer]}
-{117}{}{[Geh]}
+{116}{}{::hack dich in den Computer::}
+{117}{}{::verlassen::}
 {118}{}{Eindringling in System. Alarm. Sitzung wird beendet. Auf Wiedersehen.}
 {119}{}{[Fertig]}
 {120}{}{(Nach ca. zwanzig Minuten, entdeckst du folgendes: Erste Ergebnisse über botanische Strahlenbarrieren sind nicht sehr vielversprechend. Dr. Sheng entwickelt Pflanzen, die gegen Strahlung resistent sind - mit unerwünschten Nebenwirkungen. Entstandenes Pflanzengut scheint zu gefährlich. Sheng besteht darauf, mit Experiment fortzufahren und es mit dem genetischen Programm zu verbinden.}

@@ -39,7 +39,7 @@
 {262}{}{Möchtest du ein bisschen Leguan am Spieß, Cody? Mmmmmm lecker.}
 {263}{}{Hey, Cody. Möchtest du eine lecke... ähm , essbare... Scheibe von Duntons Dörrfleisch?  Mmmmmm... gut.}
 {270}{}{(Cody nimmt das Teil und rennt weg.)}
-{271}{}{Tztztz, die Jugend heutzutage...}
+{271}{}{::Du murmelst leise über die Jugend von heute.::}
 {272}{}{Bitteschön, Kleiner! Keine Ursache.}
 {273}{}{Was zum... Kleines Arschloch.}
 {274}{}{Ich sollte den kleinen undankbaren Scheißer in die Sklaverei verkaufen... mhh, warte mal...}

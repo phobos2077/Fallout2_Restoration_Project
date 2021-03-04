@@ -3,21 +3,21 @@
 {102}{}{Du siehst ein funktionsfähiges Computerterminal.}
 {103}{}{Willkommen. Bitte identifizieren.}
 {104}{}{[Oooh! Sieh doch nur die blinkenden Lichter!]}
-{105}{}{[Rate ein Kennwort]}
+{105}{}{::errate das Kennwort::}
 {106}{}{KSLJKJ:Ken-Lee-97313}
-{107}{}{[Hack dich in den Computer]}
+{107}{}{::hack dich in den Computer::}
 {108}{}{Abmelden}
 {109}{}{Physikdatenbank: -Forschung- -Theorie-}
 {110}{}{Forschung...}
 {111}{}{Theorie...}
 {112}{}{Station deaktivieren.}
 {113}{}{Falsches Kennwort. Bitte mit Systemadministrator in Verbindung setzen. Auf Wiedersehen.}
-{114}{}{[Hack dich in den Computer]}
-{115}{}{[Geh]}
+{114}{}{::hack dich in den Computer::}
+{115}{}{::verlassen::}
 {116}{}{Eindringling in System. Alarm. Sitzung wird beendet. Auf Wiedersehen.}
 {117}{}{[Fertig]}
 {118}{}{"Durch die vor kurzem erworbenen Vertibird-Pläne sind wir der Möglichkeit, eine in der Praxis anwendbare Flugmaschine zu bauen, einen Quantensprung näher gekommen. Wir hoffen, bis zum Jahresende einen flugfähigen Prototypen fertigzustellen und innerhalb der nächsten zwei Jahre mit der Massenproduktion starten zu können." - Dr. Wong}
-{119}{}{[Kopiere Pläne] Zurück.}
+{119}{}{::kopiere Pläne::}
 {120}{}{Zurück.}
 {121}{}{"Wir arbeiten noch an einem funktionsfähigen Modell einer Flugmaschine. Keiner der bisherigen Entwürfe konnte in Bezug auf Sicherheit oder Aerodynamik überzeugen. Mit den Plänen der Alten Welt könnte es uns gelingen..." - Dr. Wong}
 {122}{}{Zurück.}

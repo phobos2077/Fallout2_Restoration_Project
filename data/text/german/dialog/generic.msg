@@ -257,4 +257,4 @@
 {21020}{}{zwanzig}
 {30000}{}{Du hast deinen eigenen Stamm bestohlen.}
 {40000}{}{Spielautomat}
-{40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}
+{40001}{}{Dank eines kleinen, aber mutigen Küchengeräts kennst du einen geheimen Weg, um Spielautomaten dazu zu bringen, ihr ganzes Geld abzuspucken. Schade, dass die Maschine dabei kaputt geht. Hoppla!}

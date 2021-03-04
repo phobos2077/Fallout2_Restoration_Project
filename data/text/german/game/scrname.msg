@@ -1546,10 +1546,10 @@
 {1646}{}{Vertibird}
 {1647}{}{Raum}
 {1648}{}{Serum}
-{1649}{}{Old Caravan Guard}
+{1649}{}{Alte Karawanenwache}
 {1650}{}{Dr. Sheng}
-{1651}{}{Plant Creature}
-{1652}{}{Dr. Sheng's hideout}
+{1651}{}{Pflanzenkreatur}
+{1652}{}{Dr. Shengs Versteck}
 {1653}{}{Tür}
 {1654}{}{Tür}
 {1655}{}{Raum}

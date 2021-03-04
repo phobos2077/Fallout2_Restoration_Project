@@ -221,20 +221,20 @@
 {5002}{}{Ich g-glaub ich w-wurde verg-giftet.}
 {5100}{}{Ich f'fühl mich jetzt ein b'bisschen warm.}
 {5101}{}{Das ist besser.}
-{6000}{}{I need a professional opinion, Lenny. What do you know about managing a heart condition?}
+{6000}{}{Ich brauche eine professionelle Meinung, Lenny. Was weißt du über die Behandlung von Herzerkrankungen?}
 {6001}{}{Können Sie mir etwas über diese Pillen erzählen, die ich gefunden habe, Doc?}
-{6010}{}{What seems to be the t'trouble? Your t'ticker ain't g'givin' out on you now, is it?}
+{6010}{}{Was ist denn das P'Problem? Dein Schrittmacher hat doch nicht etwa den Geist a'aufgeben, oder?}
 {6011}{}{Nein, ich habe mich eigentlich gefragt, ob wir etwas für Cassidy tun können.}
-{6012}{}{No. I'm going to murder an infirmed old man and I was trying to come up with something more creative than sneaking up and popping a paper bag.}
-{6013}{}{Just chalk it up to academic curiosity, I guess.}
+{6012}{}{Nein. Ich versiche einen gebrechlichen, alten Mann zu ermorden und habe versucht, etwas Kreativeres zu finden, als mich anzuschleichen und eine Papiertüte zu knallen.}
+{6013}{}{Schiebe es einfach auf akademische Neugier, denke ich.}
 {6020}{}{Heh. Kein Grund, b'bissig zu werden.}
 {6021}{}{Well, mostly, it's just c'common sense stuff. Eatin' right, steerin' c'clear of the harder c'chems, that sorta thing. K'keepin' stress to a m'minimum. B'basically, livin' m'more like an old l'lady, and less like... well, us. Heh. O'course, the b'best thing you could d'do would probably be to t'tamp it down with some c'cardiac regulators, m'maybe some v'vasodilators.}
 {6022}{}{Herz was jetzt?}
 {6023}{}{Hmm. Herztabletten.}
-{6030}{}{Let's see, now... (Lenny mutters to himself as he reads over the label.)}
+{6030}{}{Lass mal sehen... (Lenny murmelt vor sich hin, als er das Etikett liest.)}
 {6040}{}{Heart pills. I guess what they're p'puttin' out in Vault City and NCR these d'days ain't much different than w'what we were usin' b'back before the w'war. Strong m'medicine. G'get a fella on that stuff, he'd have the h'heart of a m'mutant m'marathon runner. Heck, if he minded his d'doc and took 'em r'regular-like, he could probably live on hot b'buttered chems and n'not have to worry about it skippin' a s'single b'beat. Uh, n'not that I'd recommend that sort o' thing, of course. D'doctors orders are always supposed to be c'clean livin' and p'plenty of r'roughage, right?}
 {6041}{}{Uh, rcihtig. Danke, Lenny. Ich möchte dich noch etwas anderes fragen.}
-{6042}{}{Are they dangerous at all? Any side-effects to look out for?}
+{6042}{}{Sind sie überhaupt gefährlich? Welche Nebenwirkungen sind zu beachten?}
 {6043}{}{Galuben Sie, dass diese Cassidy helfen können?}
 {6050}{}{They could be j'just the thing, now that you m'mention it. In fact, I think they w'would be. He'd hafta be careful about a c'coupla' things, though.}
 {6051}{}{Wie zum Beispiel?}

@@ -378,7 +378,7 @@
 {396}{}{Nee, diese Art von Arbeit übernehme ich nicht. Auf Wiedersehen.}
 {397}{}{Sehr gut. Ich zeige dir die genaue Position des Dorfes. [Stark trägt das Dorf in der Karte deines PIPBoys ein]. Du bekommst dafür $750, natürlich erst wenn die Sache erledigt ist. Noch etwas - wenn du dich nicht innerhalb eines Monats darum gekümmert hast, dann sorge ich dafür, dass jegliche Gefahr dort aufhört zu existieren und damit meine ich im Zweifelsfall nicht nur die Ratten.}
 {398}{}{Tschüss.}
-{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
+{399}{}{Wozu? [Er zögert einen Augenblick, dann runzelt er die Stirn.] Ich muss dir meine Motive nicht erklären. Ich gebe dir Befehle und du machst es –– So ist es nun mal. Wenn du den Job nicht willst, schicke ich stattdessen einen Trupp...aber die Angelegenheit wird manchmal etwas *hässlich*, wenn ich meine Jungs loslasse.}
 {400}{}{Kapiert. Ich mach den Job.}
 {401}{}{Das ist klar. Also, was ist mit dem Dorf?}
 {402}{}{Wegen des Dorfes...}
@@ -406,7 +406,7 @@
 {424}{}{Welches Dorf? Ach das wo unsere neuen Diener herkommen? Was ist damit?}
 {425}{}{Ich hör wohl nicht richtig!? Ihr habt sie alle versklavt?}
 {426}{}{Ich weiß wer sie mit Waffen versorgt hat. Es war dieser Händler am Stadtrand, Harry. }
-{427}{}{Happy Harry, you say? ... figures it'd be one of them scumbags in the courtyard. Ok I'll deal with him. We'll see how "Happy" he is when I'm through. As for you, you can take whatever you find in his store as a reward for selling him out.}
+{427}{}{Happy Harry, sagst du? ... klar, einer von diesen Mistkerlen im Vorhof. Gut, den schnapp ich mir. Wir werden sehen, wie "Happy" er ist, wenn ich mit ihm fertig bin. Als kleine Gegenleistung kannst du den ganzen Krempel haben, den du in seinem Laden findest.}
 {428}{}{Ich weiß zwar nicht warum, aber Prokonsul McClure gab mir den Befehl mit dem Dorf zu warten. Sieht ganz nach deiner Handschrift aus. }
 {429}{}{Hmm...Ok.}
 {1215}{}{Ich habe ihren Führer davon überzeugt, sie nicht mehr durch die Berge zu führen. Ohne ihn werden sie den Weg nicht finden.}

@@ -11,7 +11,7 @@
 {110}{}{Ich geh jetzt spielen.}
 {111}{}{Ha ha! Vierauge!}
 {112}{}{Trottelalarm! Trottelalarm!}
-{113}{}{[Das Kind bekommt ganz große Augen, als Marcus vorbeimarschiert]}
+{113}{}{::das Kind bekommt ganz große Augen, als Marcus vorbeimarschiert::}
 {114}{}{Was für ein großer grüner Mann.}
 {115}{}{Wieso trägt der Mann 'n Rock?}
 {116}{}{Will der Mann ein Mädchen sein?}

@@ -1031,7 +1031,7 @@
 {53301}{}{Die getrocknete und präparierte Haut eines Feuergeckos. Sie ist stark verbrannt und hat deshalb wenig Wert.}
 {53400}{}{Eimer}
 {53401}{}{Ein mittelgroßer Eimer der benutzt wird um Wasser aus einem Brunnen zu ziehen.}
-{53500}{}{Scaly Fish}
+{53500}{}{Schuppiger Fisch}
 {53501}{}{ein schuppiger Fisch. Gekocht würde er sicher ne leckere Mahlzeit abgeben.}
 {53600}{}{Fisch}
 {53601}{}{ein roher Fisch. Gekocht würde er sicher ne leckere Mahlzeit abgeben.}
@@ -1045,8 +1045,8 @@
 {54001}{}{Die Bedienungsanleitung für das KV-75, einem tragbarem, taktischem Kryptographen. Auch von nichttaktischen Benutzern für Hoch- frequenzkommunikation in lokale Breitband- telefonnetzwerke und Breitbandsatteliten- terminals.}
 {54100}{}{Chines. Armeehandbuch für Sondereinsätze}
 {54101}{}{Du kapierst nichts vom Text, aber die Bilder sind recht informativ.}
-{54200}{}{Bottle of wine}
-{54201}{}{A fresh bottle of Abbey's finest wine.}
+{54200}{}{Weinflasche}
+{54201}{}{Eine frische Flasche des feinsten Weins aus Abbey.}
 {54300}{}{Tagebuch}
 {54301}{}{Die Beschriftung auf der ersten Seite sagt: "Eigentum von Anna." Die meisten Seiten sind ausgerissen oder verblasst, eine ist aber noch lesbar. "Tag 271: Gestern gab mir Mutter ein goldenes Medalion. Es ist das schönste Ding was ich jeh besessen hab. Ich werde mich niemals davon trennen."}
 {54400}{}{Botanik-Holo-Disk}
@@ -1068,7 +1068,7 @@
 {55200}{}{Hundefutter}
 {55201}{}{Verschiedene Dosen Hundefutter}
 {55300}{}{Fliegenspray}
-{55301}{}{A spray can full of a substance that kills all known bugs.}
+{55301}{}{Ein Spraydose gefüllt mit einer Substanz, die alle bekannten Krabbeltiere tötet.}
 {55400}{}{Umweltrüstung}
 {55401}{}{Rüstung die den besten Schutz gegen biologische Angriffe bietet.}
 {55500}{}{EPA-Pamphlet}
@@ -1080,10 +1080,10 @@
 {55800}{}{Reagenzglasständer}
 {55801}{}{Ein Ständer für chemische Reagenzgläser.}
 {55900}{}{Schlüssel}
-{55901}{}{Keys to allow access to the storage shed on the surface.}
+{55901}{}{Schlüssel, die den Zugang zum Lagerschuppen an der Oberfläche gewähren.}
 {56000}{}{Verschiedene Chemikalien}
 {56001}{}{ACHTUNG! Unbekannte Chemikalien. Mit Vorsicht behandeln.}
-{56100}{}{Corn Seeds}
+{56100}{}{Maissamen}
 {56101}{}{Päckchen mit Saatgut. Wird verwendet um Pflanzen anzubauen. Diese hier sind genetisch modifiziert worden um sie gegen Krankheiten als auch Schädlingsbefall zu immunisieren.}
 {56200}{}{Pflanzenspray}
 {56201}{}{Ein Spray gefüllt mit einer Substanz, dass verschiedene Pflanzenarten tötet.}
@@ -1093,7 +1093,7 @@
 {56401}{}{Ein Fernzünder für Dynamit.}
 {56500}{}{Papier}
 {56501}{}{Papier mit einem aufgekritzelten Passiercode.}
-{56600}{}{Experimental Seeds}
+{56600}{}{Experimentelle Samen}
 {56601}{}{Päckcnen mit experimentellem Saatgut. Keimresultate unbekannt.}
 {56700}{}{Bohrmaschine}
 {56701}{}{Eine elektrisch betriebene Bohrmaschine.}
@@ -1112,9 +1112,9 @@
 {57400}{}{Lichtschwert}
 {57401}{}{Eine sehr alte Waffe  aus einem weitaus zivilisierterem Zeitalter. Nicht so schwerfällig oder willkürlich wie ein Blaster. Obi-Wan-Killap gab es dir.    Mindest-ST: 2}
 {57500}{}{Blaster}
-{57501}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid. Min ST: 3}
+{57501}{}{Gespenstische Religionen und alte Waffen sind nichts gegenüber einem guten Blaster an deiner Seite, Kind. Min. ST: 3}
 {57600}{}{Lichtschwert}
-{57601}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Empress Timeslip. Min ST: 2.}
+{57601}{}{Eine sehr alte Waffe aus einem weitaus zivilisierterem Zeitalter. Nicht so schwerfällig oder willkürlich wie ein Blaster. Imperatorin Timeslip gab es dir.  Mindest-ST: 2.}
 {57700}{}{Lüftungsgitter}
 {57701}{}{Der Grill auf diesem Ventilator sieht anders aus.}
 {57800}{}{Metall Spind}
@@ -1123,35 +1123,35 @@
 {57901}{}{Ein Vorratsbehälter.}
 {58000}{}{Chin. Zeichencodetabelle}
 {58001}{}{Du bist nicht sicher, aber es scheint sich   um ein Diagramm mit verschiedenen chines-  ischen Kommandocodes zu handeln. Vielleicht, wenn du einen Platz zur Eingabe dieser Codes findest, kannst du ein paar Sachen lernen.}
-{58100}{}{Dead Tribal}
-{58101}{}{This person has died a horrible death on the medical table.}
-{58200}{}{Dead Tribal}
-{58201}{}{This person has died a horrible death on the medical table.}
+{58100}{}{Toter Wilder}
+{58101}{}{Diese Person ist einen schrecklichen Tod auf dem medizinischen Tisch gestorben.}
+{58200}{}{Toter Wilder}
+{58201}{}{Diese Person ist einen schrecklichen Tod auf dem medizinischen Tisch gestorben.}
 {58300}{}{Pflanzendorn}
-{58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
-{58400}{}{Dead Vault Dweller}
-{58401}{}{This person has died a horrible death on the medical table.}
-{58500}{}{Dead Vault Dweller}
-{58501}{}{This person has died a horrible death on the medical table.}
-{58600}{}{Dead Tribal}
-{58601}{}{This person has died a horrible death on the medical table.}
-{58700}{}{Dead Tribal}
-{58701}{}{This person has died a horrible death on the medical table.}
+{58301}{}{Organischer Samendorn, den fleischfressende Pflanzen auf potentielle Nahrung oder Samenträger abfeuern. Dieser ist schärfer und härter als gewöhnlich.}
+{58400}{}{Toter Vaultbewohner}
+{58401}{}{Diese Person ist einen schrecklichen Tod auf dem medizinischen Tisch gestorben.}
+{58500}{}{Toter Vaultbewohner}
+{58501}{}{Diese Person ist einen schrecklichen Tod auf dem medizinischen Tisch gestorben.}
+{58600}{}{Toter Wilder}
+{58601}{}{Diese Person ist einen schrecklichen Tod auf dem medizinischen Tisch gestorben.}
+{58700}{}{Toter Wilder}
+{58701}{}{Diese Person ist einen schrecklichen Tod auf dem medizinischen Tisch gestorben.}
 {58800}{}{K-9 Kevlar}
-{58801}{}{Wearable K-9 Kevlar (FAKE)}
-{58900}{}{Mutant Armor}
-{58901}{}{Mutant Armor}
-{59000}{}{Mutant Armor}
-{59001}{}{Wearable Mutant Armor (FAKE)}
-{59100}{}{Small Scorpion Tail}
-{59101}{}{The severed tail of a small radscorpion.}
-{59200}{}{Plant seed}
-{59201}{}{A plant seed given to you by Dr. Sheng.}
-{59300}{}{Nothing out of the ordinary}
-{59301}{}{Nothing out of the ordinary.}
-{59400}{}{Nothing out of the ordinary}
-{59401}{}{Nothing out of the ordinary.}
-{59500}{}{Nothing out of the ordinary}
-{59501}{}{Nothing out of the ordinary.}
-{59600}{}{Fake Heart Pills}
-{59601}{}{These pills would normally be used by people with heart problems, except in this case death would ensue. These pills have been mixed with other chemicals, resulting in a guaranteed heart-exploding experience.}
+{58801}{}{Tragbare K-9 Kevlar (FAKE)}
+{58900}{}{Mutantenrüstung}
+{58901}{}{Mutantenrüstung}
+{59000}{}{Mutantenrüstung}
+{59001}{}{Tragbare Mutantenrüstung (FAKE)}
+{59100}{}{Kleiner Skorpionschwanz}
+{59101}{}{Der abgetrennte Schwanz eines kleines Radskorpions.}
+{59200}{}{Pflanzensamen}
+{59201}{}{Ein Pflanzensamen, den Ihnen Dr. Sheng gegeben hat.}
+{59300}{}{Nichts Ungewöhnliches.}
+{59301}{}{Nichts Ungewöhnliches.}
+{59400}{}{Nichts Ungewöhnliches.}
+{59401}{}{Nichts Ungewöhnliches.}
+{59500}{}{Nichts Ungewöhnliches.}
+{59501}{}{Nichts Ungewöhnliches.}
+{59600}{}{Falsche Herztabletten}
+{59601}{}{Diese Pillen werden normalerweise von Menschen mit Herzproblemen verwendet, außer in diesem Fall, es würde der Tod eintreten. Diese Pillen wurden mit anderen Chemikalien gemischt, was zu einer garantierten Explosion des Herzens führt.}

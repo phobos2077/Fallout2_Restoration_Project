@@ -23,9 +23,8 @@
 {110}{}{Beenden}
 {111}{}{[Da kannst du dir noch so viel Mühe geben: Du kommst nicht hinter den Sinn der Schnörkel
  und Striche.]}
-{112}{}{Schockplatten deaktivieren                                                                          
-                                           Bitte Kennwort eingeben:
-                                                                          ¯}
+{112}{}{Schockplatten deaktivieren
+..................................................                                               Bitte Passwort eingeben:}
 {113}{}{In Sicherheitssysteme einhacken.}
 {114}{}{Kennwort erraten}
 {115}{}{Zurück zum Hauptmenü}
@@ -36,9 +35,8 @@
 {120}{}{[Du schaffst es, das Kennwort zu umgehen und die Schockplatten abzuschalten.]}
 {121}{}{Zurück zum Hauptmenü}
 {122}{}{Beenden}
-{123}{}{Kraftfelder deaktivieren                                                                             
-                                           Bitte Kennwort eingeben:
-                                                                          ¯}
+{123}{}{Kraftfelder deaktivieren
+..................................................                                             Bitte Passwort eingeben:}
 {124}{}{In Sicherheitssysteme einhacken.}
 {125}{}{Kennwort erraten}
 {126}{}{Zurück zum Hauptmenü}

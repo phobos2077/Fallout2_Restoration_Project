@@ -584,7 +584,7 @@
 {713}{}{Ebene 1}
 {714}{}{Ebene 2}
 {715}{}{Ebene 3}
-{716}{}{Abandoned House}
+{716}{}{Verlassenes Haus}
 {717}{}{Höhle}
 {718}{}{}
 {1500}{}{Arroyo}
@@ -605,7 +605,7 @@
 {1515}{}{Navarro}
 {1516}{}{Die Enklave}
 {1517}{}{Abbey}
-{1518}{}{Umbra Tribe}
+{1518}{}{Umbra Stamm}
 {1519}{}{EPA}
 {1520}{}{Geister Farm}
 {1521}{}{Auto ohne Energie}
@@ -646,5 +646,5 @@
 {1556}{}{Händler}
 {1557}{}{Händler}
 {1558}{}{Shi U-Boot}
-{1559}{}{Abandoned House}
-{1560}{}{Gecko Enclave Patrol}
+{1559}{}{Verlassenes Haus}
+{1560}{}{Gecko-Enklave-Patrouille}

@@ -332,23 +332,23 @@
 {6012}{}{C'mon, could you humor me? Just this once? Pretty pleeease?}
 {6020}{}{Fine. My prescription is cigarettes and red meat, in large quantities. Was that all? If I have to put up with much more vacuous prattle today, I'm liable to have a stroke myself.}
 {6021}{}{Yeah, you are pretty high strung, aren't you? I'll bet Hakunin could help you with that. He's the medicine man back home, in Arroyo. Say, have I ever told you about Arroyo?}
-{6022}{}{And wouldn't that be a tragedy. Next question...}
+{6022}{}{Und wäre das nicht eine Tragödie? Nächste Frage...}
 {6023}{}{Okay, nur noch eine schnelle Sache ...}
 {6024}{}{Danke Renesco. Ich wusste, dass ich mich auf dich verlassen kann. Pass auf dich auf.}
 {6030}{}{Ich habe eine spezielle Bestellung für dich.}
-{6031}{}{So, about that special order we were discussing...}
-{6040}{}{Yes? And? Were you expecting me to read your mind, or would you like me to surprise you?}
+{6031}{}{Also, zu dieser speziellen Bestellung, über die wir gesprochen haben...}
+{6040}{}{Ja? Und? Haste erwartet, dass ich deine Gedanken lese oder möchtest du, dass ich dich überrasche?}
 {6041}{}{Not on your life, asshole. What I need are some... um... pills. For, um... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
 {6042}{}{Not on your life, asshole. What I need are some... um... pills. For, um... a man's... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
 {6043}{}{I'd like you to make me a batch of, erm, "Corsican Brothers chewable multivitamins."}
 {6044}{}{I'm looking for something you'd use to, uh, sharpen your spear, you know? Put a little bite back into your gecko?}
 {6045}{}{I'm looking for something a man would use to, uh, sharpen his spear, you know? Put a little bite back into his gecko?}
 {6046}{}{I'm looking for a complex PDE5-inhibitor compound, and I need the pills made according to my distinct specifications.}
-{6050}{}{What in Golgotha are you babbling about? English, Tribal! Do you speak it?}
+{6050}{}{Was in ganz Golgotha babbelst du? Deutsch, Wilder! Kannst du das sprechen?}
 {6051}{}{(Sigh...) I would like you to make me some... erectile dysfunction medication.}
-{6052}{}{You know. Boner pills. Uh, for a friend.}
-{6053}{}{Boner pills. Not for me, obviously.}
-{6054}{}{You know exactly what I mean, you withered old bastard.}
+{6052}{}{Du weißt schon. Ständerpillen. Ähm, für einen Freund.}
+{6053}{}{Ständerpillen. Natürlich nicht für mich.}
+{6054}{}{Du weißt genau was ich meine, du verdorrter alter Bastard.}
 {6060}{}{(He leers derisively at you.) Hnn! I wouldn't exactly call that a "special" order. Half the reason this deviant cesspit of a city exists is to provide rutting degenerates such as yourself with an easy means of drowning in their own unsavory juices.}
 {6061}{}{I've got over a dozen brands here. Take your pick. And don't hurt yourself thinking too hard about it; they're all completely identical aside from the packaging.}
 {6062}{}{None of that is going to cut it. I need these made to order.}

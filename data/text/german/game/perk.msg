@@ -120,7 +120,7 @@
 {220}{}{Alkoholsucht}
 {221}{}{Raucher}
 {1101}{}{Mit Bewusstsein bekommst du genaue Informationen über jede Kreatur, die du untersuchst. Du siehst ihre genauen Trefferpunkte sowie Angaben zu allen Waffen, die sie bei sich trägt.}
-{1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your hand-to-hand or melee attacks cost 1 AP less to perform.}
+{1102}{}{Du hast die geheimen Künste des Ostens erlernt oder du schlägst einfach nur schneller. Auf jeden Fall kosten deine Nahkampfangriffe 1 AP weniger.}
 {1103}{}{Erfahrung im Kampf ohne Waffen verleiht dir einen Vorteil bei Verletzungen. Für jede Stufe dieses Bonus verursachst Du +2 Trefferpunkte bei Nahkampfangriffen }
 {1104}{}{Für jede Stufe der Bonus-Bewegung erhältst du pro Zug 2 APs umsonst, die nur für Bewegung eingesetzt werden können. Für jede Stufe dieses Bonus kannst du dich also bei jedem Zug um zwei Felder umsonst bewegen.}
 {1105}{}{Deine Ausbildung an Feuerwaffen und anderen Distanz- waffen hat dich zu einem tödlichen Waffenkämpfer gemacht. Für jede Stufe dieses Bonus fügst du +2 Trefferpunkte mit Distanzwaffen zu.}

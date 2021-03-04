@@ -167,9 +167,9 @@
 {668}{}{Desert}
 {670}{}{Ställe}
 {680}{}{Dorf}
-{690}{}{Umbra Tribe}
-{700}{}{Umbra Tribe}
-{710}{}{Umbra Tribe}
+{690}{}{Umbra Stamm}
+{700}{}{Umbra Stamm}
+{710}{}{Umbra Stamm}
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{City}

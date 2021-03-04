@@ -39,7 +39,7 @@
 {311}{}{Dann nein, ich denke, dass ich ihn nicht befestigt habe.}
 {320}{}{Hey, hast du mich verstanden? Ich hab dich gefragt, ob der Brunnen repariert ist.}
 {321}{}{... [Du seufzt, dann deutest du auf den Brunnen.]}
-{330}{}{[He turns and looks at the well, then turns back to you.] Yeah, looks right an' proper now. Why not just say so? Here, take this money. The spirits tell me you be needing this more than I.}
+{330}{}{[Er dreht sich und schaut auf den Brunnen, dann wieder zu dir.] Toll. Sieht so aus, als hättest du ihn repariert. Warum sagst du das nicht gleich? Hier nimm das Geld. Die Geister sagen, dass du es nötiger brauchst als ich.}
 {331}{}{... [Du nimmst das Geld und haust ab.]}
 {400}{}{[As you're about to walk away, Marli looks at you closely and his eyes light up.] Ah! I see you have sub-machine gun. [He gazes longingly at the weapon.] We had one once, but Sulik always be hogging it. Got lost in a battle. Such a pity. My magic would be fearsome strong if I had a soul-taker such as that.}
 {401}{}{If you want this one, you can have it. I'm sure I'll find another. [Hand Marli the SMG.]}

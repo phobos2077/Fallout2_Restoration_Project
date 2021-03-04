@@ -17,9 +17,9 @@
 {116}{}{CHAR PUNKTE}
 {117}{}{FÄHIGKEITEN}
 {118}{}{Du musst alle Figurenpunkte verwenden,}
-{119}{}{ um mit dem Spiel zu beginnen!}
-{120}{}{Figurenpunkte}
-{121}{}{Anzahl der freien Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
+{119}{}{um mit dem Spiel zu beginnen!}
+{120}{}{Charakterpunkte}
+{121}{}{Anzahl verfügbarer Charakterpunkte, die zu einem Grundwert hinzugefügt werden können.}
 {122}{}{Näch. Level}
 {123}{}{Die Anzahl der Erfahrungspunkte, die für den nächsten Level erforderlich sind.}
 {124}{}{Bonus}
@@ -41,7 +41,7 @@
 {140}{}{Du besitzt schon die Höchstzahl von}
 {141}{}{drei Spezialtalenten!}
 {142}{}{Spezialtalente müssen ausgewählt}
-{143}{}{ um mit dem Spiel zu beginnen!}
+{143}{}{um mit dem Spiel zu beginnen!}
 {144}{}{Spezialtalente}
 {145}{}{Spezialtalente sind Fähigkeiten, auf die sich deine Figur spezialisiert.    Jedes Spezialtalent bringt +20 % und verbessert sich doppelt so schnell. Du darfst drei Spezialtalente aussuchen.}
 {146}{}{Zusatzmerkmale}
@@ -56,7 +56,7 @@
 {155}{}{NEUES SPEZIALTALENT WÄHLEN}
 {156}{}{MERKMALE}
 {157}{}{ Alle Werte müssen zwischen 1 und 10 liegen}
-{158}{}{ um mit dem Spiel zu beginnen!}
+{158}{}{um mit dem Spiel zu beginnen!}
 {160}{}{ Du hast den Spielernamen nicht geändert.}
 {161}{}{ Soll diese Spielerfigur dennoch verwendet werden?}
 {175}{}{Näch. Lvl:}
@@ -200,7 +200,7 @@
 {1105}{}{Du bist vom Präparat Buffout abhängig. Du musst es ständig nehmen, sonst leidest du an Entzugserscheinungen.}
 {1106}{}{Du leidest an einer Mentats-Abhängigkeit. Du musst es nehmen, sonst leidest du an Entzugserscheinungen.}
 {1107}{}{Du hast eine Präparat-Abhängigkeit. Wenn du Psycho nicht regelmäßig nimmst, leidest du. Ansonsten leiden andere.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1108}{}{Dein Körper ist abhängig von RadAway. Das ist zwar nicht lebensbedrohlich, doch du musst es regelmäßig nehmen.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
 {1110}{}{Du hast eine Präparat-Abhängigkeit. Du musst regelmäßig Jet einnehmen.}
 {1111}{}{Tragischerweise bist von Tragic abhängig. Du bist ständig auf der Suche nach neuen Expansions-        möglichkeiten.}

@@ -55,7 +55,7 @@
  wir hier?}
 {301}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
  zahle ich dir $500.}
-{302}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
+{302}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route und als Gegenleistung werde ich meinen Teil dazu beitragen, dass deiner Karawane nichts "Unvorhergesehenes" zustößt.}
 {303}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
  werde ich für den größten Spaß deines Lebens sorgen.}
 {304}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
@@ -93,7 +93,7 @@
  anzubieten?}
 {371}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route, und als Gegenleistung
  zahle ich dir $500.}
-{372}{}{You make that village a regular stop on your route, and in return, I'll do my part to ensure nothing "unfortunate" happens to your caravan.}
+{372}{}{Du machst das Dorf zu einem regulären Stop auf deiner Route und als Gegenleistung werde ich meinen Teil dazu beitragen, dass deiner Karawane nichts "Unvorhergesehenes" zustößt.}
 {373}{}{Nee. Tschüss.}
 {380}{}{[Er mustert Dich von oben bis unten und grinst dann.] Ich denke, wir sind im Geschäft.
  Wollen wir es bei der Hintertür erledigen?}

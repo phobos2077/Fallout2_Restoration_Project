@@ -348,21 +348,21 @@
 {18100}{}{Oberteil des Aufzugs}
 {18101}{}{Du siehst den Teil eines Aufzugs.}
 {18200}{}{Computerkonsole}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18201}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist.}
 {18300}{}{Computerkonsole}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer.}
+{18301}{}{Dies ist ein dummes Terminal, das über ein Kabel an einen großen Computer angeschlossen ist.}
 {18400}{}{Emblem}
 {18401}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18500}{}{Emblem}
 {18501}{}{Das Symbol der Brotherhood. Die Zahnräder stehen für ihr Technikwissen, das Schwert für ihren Willen, sich zu verteidigen, und die Flügel für die erhebende Hoffnung.}
 {18600}{}{Schild der Ebene "Eins"}
-{18601}{}{You think this could mean that you are on level one.}
+{18601}{}{Das könnte bedeuten, dass du dich auf Ebene Eins befindest.}
 {18700}{}{Schild der Ebene "Zwei"}
-{18701}{}{You are on level two.}
+{18701}{}{Du bist auf Ebene Zwei.}
 {18800}{}{Schild der Ebene "Drei"}
-{18801}{}{This must mean that you are on level three.}
+{18801}{}{Das heißt wohl, dass du auf Ebene Drei bist.}
 {18900}{}{Schild der Ebene "Vier"}
-{18901}{}{You must be on level four.}
+{18901}{}{Du musst auf Ebene Vier sein.}
 {19000}{}{Etagenbett}
 {19001}{}{Ein Etagenbett im Militärstil. Sieht sehr unbequem aus. Sieht auch so aus, als würde eine aufs Bett geworfene Münze vom Bettlaken abprallen.}
 {19100}{}{Etagenbett}
@@ -918,7 +918,7 @@
 {48200}{}{Tür}
 {48201}{}{Diese Tür ähnelt verdächtig Türen, die man in einem Lagerhaus finden würde.}
 {48300}{}{Wetterfahne}
-{48301}{}{This simple weather vane helps inhabitants of the wasteland study the weather.}
+{48301}{}{Diese einfache Wetterfahne hilft den Bewohner des Ödlands dabei, das Wetter zu studieren.}
 {48400}{}{Altar}
 {48401}{}{Ein einfacher Altar aus bemalten Holz.}
 {48500}{}{Pult}
@@ -1463,8 +1463,8 @@
 {76301}{}{Da so viel Glibber auf den Bildschirm gespritzt ist, kannst du nichts auf dem Monitor lesen.}
 {76400}{}{Monitore}
 {76401}{}{Da so viel Glibber auf den Bildschirm gespritzt ist, kannst du nichts auf dem Monitor lesen.}
-{76500}{}{UNUSED ART}
-{76600}{}{UNUSED ART}
+{76500}{}{UNGENUTZTE KUNST}
+{76600}{}{UNGENUTZTE KUNST}
 {76700}{}{Boden}
 {76800}{}{Bombe}
 {76801}{}{Dies ist eine Atombombe. Sie sieht hier ziemlich gefährlich aus, wie sie so daliegt.}
@@ -2774,9 +2774,9 @@
 {185000}{}{Sichtblenden}
 {185100}{}{Dampf}
 {185200}{}{altes Motorrad}
-{185201}{}{An old pre-war motorcycle. It doesn't run anymore.}
+{185201}{}{Ein altes Vorkriegsmotorrad. Es fährt nirgendwo mehr hin.}
 {185300}{}{Wassertank}
-{185301}{}{A metal tower which holds drinkable water.}
+{185301}{}{Metallturm, der Trinkwasser speichert.}
 {185400}{}{Mom's Waisenhaus-Schild}
 {185500}{}{Ventilator}
 {185600}{}{gesundaussehenden Baum}
@@ -2790,62 +2790,62 @@
 {186300}{}{Dünge Erde}
 {186400}{}{Dünge Erde}
 {186500}{}{Dünge Erde}
-{186600}{}{USED ART}
+{186600}{}{GEBRAUCHTE KUNST}
 {186601}{}{}
-{186700}{}{USED ART}
-{186701}{}{A throne for a leader or commander.}
+{186700}{}{GEBRAUCHTE KUNST}
+{186701}{}{Ein Thron für einen Anführer oder Kommandanten.}
 {186800}{}{Luftschacht}
-{186801}{}{A circular air vent to an underground facility.}
+{186801}{}{Ein kreisrunden Luftschacht, der in eine unterirdische Anlage führt.}
 {186900}{}{Seil}
-{186901}{}{A rope leading to an overhead air vent.}
+{186901}{}{Ein Seil, das zu einem höheren Lüftungsschacht führt.}
 {187000}{}{Lüftungsgitter}
-{187001}{}{A vent used to filter air underground.}
+{187001}{}{Eine Lüftungsöffnung, die zur Filterung der Luft im Untergrund dient.}
 {187100}{}{Lüftungsgitter}
-{187101}{}{A vent used to purify air.}
+{187101}{}{Eine Entlüftung zur Luftreinigung.}
 {187200}{}{Brahminzeichen}
-{187201}{}{A sign giving instructions.}
+{187201}{}{Ein Schild mit Instruktionen.}
 {187300}{}{Brahminzeichen}
-{187301}{}{A sign giving a warning.}
+{187301}{}{Ein Schild mit einem Warnhinweis.}
 {187400}{}{Fertigungsmaschine}
-{187401}{}{A machine with which you can make your own drugs.}
+{187401}{}{Eine Maschine, mit der du deine eigenen chemischen Präparate herstellen kannst.}
 {187500}{}{Chemikalien}
-{187501}{}{Foul smelling gelatinous chemicals.}
+{187501}{}{Übelriechende gallerartige Chemikalien.}
 {187600}{}{Chemikalien}
-{187601}{}{Foul smelling gelatinous chemicals.}
+{187601}{}{Übelriechende gallerartige Chemikalien.}
 {187700}{}{Chemikalien	}
-{187701}{}{Foul smelling gelatinous chemicals.}
+{187701}{}{Übelriechende gallerartige Chemikalien.}
 {187800}{}{Chemikalien	}
-{187801}{}{Foul smelling gelatinous chemicals.}
+{187801}{}{Übelriechende gallerartige Chemikalien.}
 {187900}{}{Seil}
-{187901}{}{Rope to signify a non-walking area.}
+{187901}{}{Seil welches auf eine nichtbegehbare Zone hinweist.}
 {188000}{}{Seil}
-{188001}{}{Rope preventing access to certain areas.}
+{188001}{}{Seil, das den Zugang zu bestimmten Zonen verhindert.}
 {188100}{}{Galleriebild}
-{188101}{}{A picture depicting The Mona Lisa.}
+{188101}{}{Ein Bild, das die Mona Lisa darstellt.}
 {188200}{}{Galleriebild}
-{188201}{}{A picture depicting the first moon walk.}
+{188201}{}{Ein Bild, das den ersten Mondgang abbildet.}
 {188300}{}{Fertigungsmaschine}
-{188301}{}{A machine with which you can make your own drugs.}
+{188301}{}{Eine Maschine, mit der du deine eigenen chemischen Präparate herstellen kannst.}
 {188400}{}{Dünge Erde}
-{188401}{}{Ground ready for planting.}
+{188401}{}{Erde bereit bepflanzt zu werden.}
 {188500}{}{Dünge Erde}
-{188501}{}{Ground ready for planting.}
+{188501}{}{Erde bereit bepflanzt zu werden.}
 {188600}{}{Parkschild}
-{188601}{}{A sign designating areas to park.}
+{188601}{}{Ein Schild, das Parkplätze ausweist.}
 {188700}{}{Aufzug}
-{188701}{}{An elevator to travel to another floor.}
+{188701}{}{Ein Aufzug, um in ein neues Stockwerk zu gelangen.}
 {188800}{}{Kryokammer- Kontrollcomputer}
-{188801}{}{Computer controlling the hibernation vats.}
+{188801}{}{Ein Computer, der die Kryokammern steuert.}
 {188900}{}{Gruppe von Fässern}
-{188901}{}{Barrels storing various chemicals.}
+{188901}{}{Fässer, die verschiedene Chemikalien lagern.}
 {189000}{}{brennendes Fass}
-{189001}{}{Apparently the sign says its flammable.}
+{189001}{}{Offenbar sagt das Zeichen, des es entflammbar ist.}
 {189100}{}{Fass}
-{189101}{}{A barrel filled with some sort of liquid.}
+{189101}{}{Ein mit Flüssigkeit gefülltes Fass.}
 {189200}{}{Fass}
 {189201}{}{Fass gefüllt mit einer dicken,giftigen, roten Flüssigkeit}
 {189300}{}{Fass}
-{189301}{}{A barrel with a biohazard warning label.}
+{189301}{}{Ein Fass mit einem Biogefährdungswarnzeichen.}
 {189400}{}{Pflanze}
 {189401}{}{Diese Pflanze scheint eine Form von Beeren zu tragen}
 {189500}{}{Baum}
@@ -2944,7 +2944,7 @@
 {194700}{}{Monitor}
 {194701}{}{Ein großer Monitor, nur Schwarzweiss. Auf dem siehst du einen würdigen, aber einfältig schauenden Mann, der weitschweifig herumfaselt.}
 {194800}{}{Monitor}
-{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
+{194801}{}{Ein großer schwar-weiß Monitor. Das Bild zeigt ein rotierendes Kreuz und Kreis.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Schatten}
@@ -3241,7 +3241,7 @@
 {214000}{}{trübes Meer}
 {214100}{}{rostenden Rumpf}
 {214200}{}{Torpedoabschussanlage}
-{214201}{}{These metal tubes are made up of a considerable number of interlocks. It looks like they're still in working condition.}
+{214201}{}{Diese Metallrohre bestehen aus einer beträchtlichen Anzahl von Verriegelungen. Es sieht so aus, als wären sie noch in einem funktionierenden Zustand.}
 {214300}{}{rostenden Rumpf}
 {214301}{}{rostenden Rumpf}
 {214400}{}{rostenden Rumpf}
@@ -3308,165 +3308,165 @@
 {220201}{}{Auf dem Schild steht: Gemischtwaren.}
 {220300}{}{Abgenutzte Wolldecke}
 {220301}{}{Ein einfacher Teppich. Der Weber war offensichtlich sehr talentiert.}
-{220400}{}{Glowing Bones}
-{220401}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
-{220500}{}{Glowing Bones}
-{220501}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
-{220600}{}{Glowing Bones}
-{220601}{}{A very large pile of glowing bones. You cannot determine the species of the dead critters.}
-{220700}{}{Glowing Bones}
-{220701}{}{You think these might be Horned Kangaroo bones, but you cannot be sure. They are glowing and too weathered to make a final determination.}
-{220800}{}{Glowing Bones}
-{220801}{}{You see the bones of a large, glowing two-headed cow.}
+{220400}{}{Strahlende Knochen}
+{220401}{}{Ein großer Haufen verstrahlter Tierknochen. Zumindest glaubst, dass sie von Tieren stammen...}
+{220500}{}{Strahlende Knochen}
+{220501}{}{Ein großer Haufen verstrahlter Tierknochen. Zumindest glaubst, dass sie von Tieren stammen...}
+{220600}{}{Strahlende Knochen}
+{220601}{}{Ein riesiger Haufen verstrahlter Knochen. Du kannst nicht erkennen, von welchem Wesen sie stammen.}
+{220700}{}{Strahlende Knochen}
+{220701}{}{Es könnten Knochen von gehörnten Känguruhs sein, du bist aber nicht sicher. Für eine sichere Bestimmung sind sie zu verstrahlt und zu verwittert.}
+{220800}{}{Strahlende Knochen}
+{220801}{}{Du siehst die Knochen einer großen, verstrahlten zweiköpfigen Kuh.}
 {220900}{}{Einsturz}
-{220901}{}{A large amount of glowing rocks, far more than could ever be moved easily.}
-{221000}{}{Glowing Metal Cover}
-{221001}{}{A heavy glowing man-hole cover. It looks like it is in good shape, and that it was recently moved.}
-{221100}{}{Glowing Sewer Hole}
-{221101}{}{It looks like an access hole for the sewer system. It's glowing green!}
-{221200}{}{Glowing Stalagmite}
-{221201}{}{A natural extension of the rock floor. This one's glowing green!}
-{221300}{}{Glowing Stalagmite}
-{221301}{}{A natural extension of the rock floor. This one's glowing green!}
-{221400}{}{Glowing Rock Column}
-{221401}{}{This thick column of rock extends from floor to ceiling. It's glowing!}
-{221500}{}{Glowing Rock Column}
-{221501}{}{This thin column of rock extends from floor to ceiling. It's glowing!}
-{221600}{}{Glowing Cave Wall}
-{221700}{}{Glowing Cave Wall}
-{221800}{}{Glowing Cave Wall}
-{221900}{}{Glowing Cave Wall}
-{222000}{}{Glowing Cave Wall}
-{222100}{}{Glowing Cave Wall}
-{222200}{}{Glowing Cave Wall}
-{222300}{}{Glowing Cave Wall}
-{222400}{}{Glowing Cave Wall}
-{222500}{}{Glowing Cave Wall}
-{222600}{}{Glowing Cave Wall}
-{222700}{}{Glowing Cave Wall}
-{222800}{}{Glowing Cave Wall}
-{222900}{}{Glowing Cave Wall}
-{223000}{}{Glowing Cave Wall}
-{223100}{}{Glowing Rocks}
-{223101}{}{A pile of glowing rocks. Not very interesting.}
-{223200}{}{Glowing Rocks}
-{223201}{}{A pile of glowing rocks. Not very interesting.}
-{223300}{}{Glowing Rocks}
-{223301}{}{A small pile of glowing rocks. Not in the least bit interesting to you.}
-{223400}{}{Glowing Rocks}
-{223401}{}{A very small pile of glowing rocks.}
-{223500}{}{Glowing Rocks}
-{223501}{}{A very small pile of glowing rocks.}
-{223600}{}{Glowing Rocks}
-{223601}{}{A very small pile of glowing rocks.}
-{223700}{}{Glowing Rocks}
-{223701}{}{A very small pile of glowing rocks.}
-{223800}{}{Glowing Rocks}
-{223801}{}{A pile of glowing rocks. Not very interesting.}
-{223900}{}{Glowing Egg Shell}
-{223901}{}{Pieces of a broken egg shell. It glows!}
-{224000}{}{Glowing Egg Shell}
-{224001}{}{Pieces of a broken egg shell. It glows!}
-{224100}{}{Glowing Egg Shell}
-{224101}{}{Pieces of a broken egg shell. It glows!}
-{224200}{}{Glowing Egg Shell}
-{224201}{}{Pieces of a broken egg shell. It glows!}
-{224300}{}{Small glowing rocks}
-{224301}{}{Scattered small glowing rocks.}
-{224400}{}{Small glowing rocks}
-{224401}{}{Scattered small glowing rocks.}
-{224500}{}{Small glowing rocks}
-{224501}{}{Scattered small glowing rocks.}
-{224600}{}{Glowing Egg Shell}
-{224601}{}{Pieces of a broken egg shell. It glows!}
-{224700}{}{Glowing Wood Planks}
+{220901}{}{Eine große Menge verstrahlter Felsen, zu viele, um sie jemals einfach zu entfernen.}
+{221000}{}{Verstrahlte Metallabdeckung}
+{221001}{}{Ein schwer verstrahlter Kanaldeckel. Er sieht noch ganz gut aus und wurde offenbar erst vor kurzem bewegt.}
+{221100}{}{Verstrahltes Kanalisationsloch}
+{221101}{}{Sieht wie ein Zugang zum Kanalisationssystem aus. Er leuchtet grün!}
+{221200}{}{Verstrahlter Stalagmit}
+{221201}{}{Ein natürlicher Auswuchs des Felsbodens. Dieser leuchtet grün!}
+{221300}{}{Verstrahlter Stalagmit}
+{221301}{}{Ein natürlicher Auswuchs des Felsbodens. Dieser leuchtet grün!}
+{221400}{}{Verstrahlte Felssäule}
+{221401}{}{Diese dicke Säule aus Gestein reicht vom Boden bis zur Decke. Sie ist verstrahlt!}
+{221500}{}{Verstrahlte Felssäule}
+{221501}{}{Diese dünne Säule aus Gestein reicht vom Boden bis zur Decke. Sie ist verstrahlt!}
+{221600}{}{Verstrahlte Höhlenwand}
+{221700}{}{Verstrahlte Höhlenwand}
+{221800}{}{Verstrahlte Höhlenwand}
+{221900}{}{Verstrahlte Höhlenwand}
+{222000}{}{Verstrahlte Höhlenwand}
+{222100}{}{Verstrahlte Höhlenwand}
+{222200}{}{Verstrahlte Höhlenwand}
+{222300}{}{Verstrahlte Höhlenwand}
+{222400}{}{Verstrahlte Höhlenwand}
+{222500}{}{Verstrahlte Höhlenwand}
+{222600}{}{Verstrahlte Höhlenwand}
+{222700}{}{Verstrahlte Höhlenwand}
+{222800}{}{Verstrahlte Höhlenwand}
+{222900}{}{Verstrahlte Höhlenwand}
+{223000}{}{Verstrahlte Höhlenwand}
+{223100}{}{Verstrahlte Felsen}
+{223101}{}{Ein Haufen verstrahlter Steine. Nicht besonders interessant.}
+{223200}{}{Verstrahlte Felsen}
+{223201}{}{Ein Haufen verstrahlter Steine. Nicht besonders interessant.}
+{223300}{}{Verstrahlte Felsen}
+{223301}{}{Ein kleiner Haufen verstrahlter Steine. In keinster Weise interessant für dich.}
+{223400}{}{Verstrahlte Felsen}
+{223401}{}{Ein sehr kleiner verstrahlter Steinhaufen.}
+{223500}{}{Verstrahlte Felsen}
+{223501}{}{Ein sehr kleiner verstrahlter Steinhaufen.}
+{223600}{}{Verstrahlte Felsen}
+{223601}{}{Ein sehr kleiner verstrahlter Steinhaufen.}
+{223700}{}{Verstrahlte Felsen}
+{223701}{}{Ein sehr kleiner verstrahlter Steinhaufen.}
+{223800}{}{Verstrahlte Felsen}
+{223801}{}{Ein Haufen verstrahlter Steine. Nicht besonders interessant.}
+{223900}{}{Verstrahlte Eierschalen}
+{223901}{}{Stücke einer zerbrochenen Eierschale. Sie ist verstrahlt!}
+{224000}{}{Verstrahlte Eierschalen}
+{224001}{}{Stücke einer zerbrochenen Eierschale. Sie ist verstrahlt!}
+{224100}{}{Verstrahlte Eierschalen}
+{224101}{}{Stücke einer zerbrochenen Eierschale. Sie ist verstrahlt!}
+{224200}{}{Verstrahlte Eierschalen}
+{224201}{}{Stücke einer zerbrochenen Eierschale. Sie ist verstrahlt!}
+{224300}{}{Kleine verstrahlte Felsen}
+{224301}{}{Einzelne kleine verstrahlte Steine.}
+{224400}{}{Kleine verstrahlte Felsen}
+{224401}{}{Einzelne kleine verstrahlte Steine.}
+{224500}{}{Kleine verstrahlte Felsen}
+{224501}{}{Einzelne kleine verstrahlte Steine.}
+{224600}{}{Verstrahlte Eierschalen}
+{224601}{}{Stücke einer zerbrochenen Eierschale. Sie ist verstrahlt!}
+{224700}{}{Verstrahlte Holzplanken}
 {224701}{}{Diese dicken Holzplanken sind fest zusammengebunden.}
-{224800}{}{Glowing Wood Planks}
+{224800}{}{Verstrahlte Holzplanken}
 {224801}{}{Diese dicken Holzplanken sind fest zusammengebunden.}
 {224900}{}{Leiter}
-{224901}{}{It's an old, glowing, fairly rickety ladder. It looks like it will barely support your weight.}
+{224901}{}{Eine alte, verstrahlte, ziemlich wacklige Leiter. Sieht aus, als würde sie dein Gewicht kaum aushalten.}
 {225000}{}{Leiter}
 {225001}{}{Ein künstliches Loch, in dem eine Leiter nach unten führt.}
-{225100}{}{Glowing Rocks}
-{225101}{}{You study the glowing rocks for a while, but they never move.}
-{225200}{}{Glowing Rocks}
-{225201}{}{You keep a close eye on these glowing rocks, in case they move to attack you.}
-{225300}{}{Glowing Rocks}
-{225301}{}{A large pile of glowing rocks. They look radioactive.}
-{225400}{}{Glowing Rocks}
-{225401}{}{A small pile of glowing rocks.}
-{225500}{}{Glowing Rocks}
-{225501}{}{A small pile of glowing rocks.}
-{225600}{}{Glowing Rocks}
-{225601}{}{A large pile of glowing rocks.}
-{225700}{}{Glowing Rocks}
-{225701}{}{A very large pile of glowing rocks. They look dangerous just sitting there.}
-{225800}{}{Glowing Rocks}
-{225801}{}{A large pile of glowing rocks. If you look closely, you can see the faces of little old men in the sides of the stones.}
-{225900}{}{Glowing Rocks}
-{225901}{}{Rocks, rocks, rocks! Everywhere you look, glowing rocks!}
-{226000}{}{Glowing Rocks}
-{226001}{}{A small pile of glowing rocks.}
-{226100}{}{Glowing Rocks}
-{226200}{}{Glowing Rocks}
-{226300}{}{Glowing Rocks}
-{226400}{}{Glowing Rocks}
-{226500}{}{Glowing Rocks}
-{226600}{}{Glowing Rocks}
-{226700}{}{Glowing Rocks}
-{226800}{}{Glowing Wall}
-{226900}{}{Glowing Wall}
-{227000}{}{Glowing Wall}
-{227100}{}{Glowing Wall}
-{227200}{}{Glowing Wall}
-{227300}{}{Glowing Wall}
-{227400}{}{Glowing Drain}
+{225100}{}{Verstrahlte Felsen}
+{225101}{}{Du untersuchst die verstahlten Felsen eine Zeitlang, doch sie bewegen sich nicht.}
+{225200}{}{Verstrahlte Felsen}
+{225201}{}{Du lässt die verstrahlten Felsen nicht aus dem Auge, falls sie sich bewegen, um die anzugreifen.}
+{225300}{}{Verstrahlte Felsen}
+{225301}{}{Ein großer leuchtender Felshaufen. Siehen radioaktiv aus.}
+{225400}{}{Verstrahlte Felsen}
+{225401}{}{Ein kleiner verstrahlter Felshaufen.}
+{225500}{}{Verstrahlte Felsen}
+{225501}{}{Ein kleiner verstrahlter Felshaufen.}
+{225600}{}{Verstrahlte Felsen}
+{225601}{}{Ein großer Haufen verstrahlter Steine.}
+{225700}{}{Verstrahlte Felsen}
+{225701}{}{Ein sehr großer verstrahlter Felshaufen. Sie sehen gefährlich aus, obwohl sie unbeweglich daliegen.}
+{225800}{}{Verstrahlte Felsen}
+{225801}{}{Ein großer verstrahlter Felshaufen. Wenn du genau hinsiehst, siehst du die Gesichter kleiner alter Männer in den Steinen.}
+{225900}{}{Verstrahlte Felsen}
+{225901}{}{Steine, Steine, Steine! Wo du auch hinblickst, nur strahlende Steine!}
+{226000}{}{Verstrahlte Felsen}
+{226001}{}{Ein kleiner verstrahlter Felshaufen.}
+{226100}{}{Verstrahlte Felsen}
+{226200}{}{Verstrahlte Felsen}
+{226300}{}{Verstrahlte Felsen}
+{226400}{}{Verstrahlte Felsen}
+{226500}{}{Verstrahlte Felsen}
+{226600}{}{Verstrahlte Felsen}
+{226700}{}{Verstrahlte Felsen}
+{226800}{}{Strahlende Wand}
+{226900}{}{Strahlende Wand}
+{227000}{}{Strahlende Wand}
+{227100}{}{Strahlende Wand}
+{227200}{}{Strahlende Wand}
+{227300}{}{Strahlende Wand}
+{227400}{}{Strahlender Abfluss}
 {227401}{}{Ein ranziger, widerlicher Geruch steigt aus dem Abfluss empor. Nach einigen Augenblicken riecht es nicht mehr so übel.}
-{227500}{}{Glowing Drain}
-{227501}{}{You can barely make out some movement behind the grate covering this drain. You can see small green glowing eyes peering back at you. Rat eyes.}
-{227600}{}{Glowing Drain}
+{227500}{}{Strahlender Abfluss}
+{227501}{}{Du kannst kaum eine Bewegung hinter dem Rost erkennen, der diesen Abfluss bedeckt. Du kannst kleine grüne leuchtende Augen sehen, die dich anblicken. Rattenaugen.}
+{227600}{}{Strahlender Abfluss}
 {227601}{}{Gurgelnde Wassergeräusche kommen aus dem Abfluss. Und ein abscheulicher Geruch.}
-{227700}{}{Glowing Drain}
+{227700}{}{Strahlender Abfluss}
 {227701}{}{Gurgelnde Wassergeräusche kommen von jenseits des Abflusses. Und ein abscheulicher Geruch.}
-{227800}{}{Grimy Bed}
+{227800}{}{Schmutziges Bett}
 {227801}{}{Nach näherer Betrachtung stellst du fest, dass die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
-{227900}{}{Grimy Bed}
+{227900}{}{Schmutziges Bett}
 {227901}{}{Nach näherer Betrachtung stellst du fest, dass die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
-{228000}{}{Grimy Bed}
+{228000}{}{Schmutziges Bett}
 {228001}{}{Nach näherer Betrachtung stellst du fest, dass die Laken schon seit sehr, sehr langer Zeit nicht mehr gewechselt wurden.}
 {228100}{}{Glas}
-{228101}{}{This glass is difficult to see through.}
+{228101}{}{Durch dieses Glas kam nur schwer hindurchsehen.}
 {228200}{}{Glas}
-{228201}{}{This glass is difficult to see through.}
+{228201}{}{Durch dieses Glas kam nur schwer hindurchsehen.}
 {228300}{}{Glas}
-{228301}{}{This glass is difficult to see through.}
+{228301}{}{Durch dieses Glas kam nur schwer hindurchsehen.}
 {228400}{}{Glas}
-{228401}{}{This glass is barely transparent.}
+{228401}{}{Dieses Glas ist kaum transparent.}
 {228500}{}{Glas}
-{228501}{}{This glass is barely transparent.}
+{228501}{}{Dieses Glas ist kaum transparent.}
 {228600}{}{Glas}
-{228601}{}{This glass is barely transparent.}
+{228601}{}{Dieses Glas ist kaum transparent.}
 {228700}{}{Metalltür}
-{228701}{}{A sturdy metal door.}
+{228701}{}{Eine stabile Metalltür.}
 {228800}{}{Metalltür}
-{228801}{}{A sturdy metal door.}
-{228900}{}{Guards Shack}
-{228901}{}{A run down guards shack.}
-{229000}{}{Guards Shack}
-{229001}{}{A run down guards shack.}
-{229100}{}{Green Bubbling Liquid}
-{229101}{}{Green bubbling liquid. It smells strange.}
-{229200}{}{Heavy Laser Tower}
-{229201}{}{The laser turret rests on this concrete tower.}
+{228801}{}{Eine stabile Metalltür.}
+{228900}{}{Wachhütte}
+{228901}{}{Eine heruntergekommene Wachhütte.}
+{229000}{}{Wachhütte}
+{229001}{}{Eine heruntergekommene Wachhütte.}
+{229100}{}{Grüne blubbernde Flüssigkeit}
+{229101}{}{Grüne blubbernde Flüssigkeit. Sie riecht seltsam.}
+{229200}{}{Schwerer Laserturm}
+{229201}{}{Der Laserturm ruht auf diesem Betonturm.}
 {229300}{}{Schwerer Lasergeschützturm}
 {229301}{}{Der Turm dreht sich auf bedrohliche Art.}
-{229400}{}{Heavy Laser Tower}
-{229401}{}{The laser turret rests on this concrete tower.}
+{229400}{}{Schwerer Laserturm}
+{229401}{}{Der Laserturm ruht auf diesem Betonturm.}
 {229500}{}{Schwerer Lasergeschützturm}
 {229501}{}{Der Turm dreht sich auf bedrohliche Art.}
 {229800}{}{Film Poster}
-{229801}{}{An old tatered film poster. "Hobo With a Shotgun".}
-{229900}{}{An odd looking creature}
-{229901}{}{A dead body with plant growth wrapped around it.}
-{230000}{}{An odd looking creature}
-{230001}{}{A dead body with plant growth wrapped around it.}
+{229801}{}{Ein altes Filmplakat. "Landstreicher mit einer Schrotflinte".}
+{229900}{}{Eine seltsam aussehende Kreatur}
+{229901}{}{Eine Leiche mit Pflanzenwuchs umwickelt.}
+{230000}{}{Eine seltsam aussehende Kreatur}
+{230001}{}{Eine Leiche mit Pflanzenwuchs umwickelt.}

@@ -501,11 +501,11 @@
 {48300}{}{Frank Horrigan}
 {48301}{}{Der Bodyguard des Präsidenten}
 {48400}{}{Nessa}
-{48401}{}{The ghost of dead Nessa.}
+{48401}{}{Der Geist der toten Nessa.}
 {48500}{}{Schamane}
 {48501}{}{Stammes-Medizinmann}
 {48600}{}{Krieger}
-{48601}{}{Tribe warrior.}
+{48601}{}{Stammeskrieger.}
 {48700}{}{Wächter}
 {48800}{}{Suliks Schwester}
 {48900}{}{Kaga}
@@ -514,26 +514,26 @@
 {49200}{}{Kaga}
 {49300}{}{Kaga}
 {49400}{}{Hologramm 00000}
-{49401}{}{The hologram for the director of science.}
+{49401}{}{Das Hologramm des Wissenschaftsdirektors.}
 {49500}{}{Hologramm 10001}
-{49501}{}{The hologram for the director of security.}
+{49501}{}{Das Hologramm des Sicherheitsdirektors.}
 {49600}{}{Hologramm 12001}
-{49601}{}{The hologram for the director of operations.}
+{49601}{}{Das Hologramm des Betriebsdirektors.}
 {49700}{}{Hologramm 10031}
-{49701}{}{Hologram for the director of Ground Maintenance.}
+{49701}{}{Das Hologramm des Direktors für Bodenpflege.}
 {49800}{}{Hologramm 40011}
-{49801}{}{Hologram for the Director of Public Relations.}
+{49801}{}{Das Hologramm des Direktors für Öffentlichkeitsarbeiten.}
 {49900}{}{Mr. Handy Roboter}
 {49901}{}{Eine wirklich sehr depressive Version des Mr. Handy Roboter}
 {50000}{}{Der Doktor}
-{50001}{}{The leading, and only, Doctor left in the EPA.}
+{50001}{}{Der führende und auch der einzige Doktor, der noch in der EPA ist.}
 {50100}{}{EPA-Sporenpflanze}
-{50101}{}{A hideously mutated spore plant.}
+{50101}{}{Eine schrecklich mutierte Sporenpflanze.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
 {50500}{}{Doktors Krieger}
-{50501}{}{A warrior for the doctor.}
+{50501}{}{Ein Krieger für den Doktor.}
 {50600}{}{Fruchtfliege}
 {50601}{}{Eine mutierte Fruchtfliege.}
 {50700}{}{Ein Hologramm}
@@ -576,9 +576,9 @@
 {54300}{}{Sporenpflanzen- Mutter}
 {54400}{}{Alien-Mutter}
 {54500}{}{EPA-Sporenpflanze}
-{54501}{}{A hideously mutated spore plant.}
+{54501}{}{Eine schrecklich mutierte Sporenpflanze.}
 {54600}{}{Wildhund}
 {54601}{}{Ein wilder Mischlingshund.}
 {54700}{}{Wachroboter Mark II}
 {54800}{}{Old Joe}
-{54900}{}{A plant creature}
+{54900}{}{Eine Pflanzenkreatur}

@@ -123,14 +123,14 @@
 {1515}{}{Besorg eine gehärtete Powerrüstung von Crockett.}
 {1516}{}{Hol die Vertibird-Pläne von der Brotherhood of Steel.}
 {1517}{}{Deaktiviere das Shi U-Boot das den Tanker bedroht.}
-{1518}{}{Investigate the whereabouts of Dr. Sheng.}
-{1519}{}{Bring Dr. Sheng some plant seeds.}
-{1520}{}{Eliminate Dr. Sheng.}
-{1521}{}{Deliver the plant seed sample to Dr. Wong.}
-{1522}{}{Eliminate Dr. Wong without alerting the Shi.}
-{1523}{}{Clear out Dr. Sheng's lab.}
+{1518}{}{Untersuch den Aufenthaltsort von Dr. Sheng.}
+{1519}{}{Bring Dr. Sheng einige Pflanzensamen.}
+{1520}{}{Eliminiere Dr. Sheng.}
+{1521}{}{Bring Dr. Wong die Pflanzensamenproben.}
+{1522}{}{Töte Dr. Wong, ohne die Shi zu alarmieren.}
+{1523}{}{Säubere Dr. Shengs Labor.}
 {1600}{}{Kümmere dich um die Deathclaw.}
-{1601}{}{Fix K-9.}
+{1601}{}{Repariere K-9.}
 {1602}{}{Hol den SHS vom Kommandanten der Basis zurück.}
 {1700}{}{}
 {1800}{}{Töte das Biest unter der Kirche.}
@@ -145,12 +145,12 @@
 {1900}{}{Sammel einige Waffen für die Stammeskrieger.}
 {1901}{}{Repariere den Brunnen für Marli und dem Stamm.}
 {1902}{}{Finde heraus, was dem Schamanen so tief bewegt.}
-{1903}{}{Find Sulik's missing sister.}
+{1903}{}{Finde Suliks vermisste Schwester.}
 {1904}{}{Finde heraus, was dem Jägertrupp zugestoßen ist.}
 {1905}{}{Sammel Feuerholz für die Fischerin.}
 {1906}{}{Führe Sulik und seine Schwester, Kurisu wieder zusammen.}
 {1907}{}{Begleite Krom zum Treffen mit dem Händler.}
-{1908}{}{Bring some herbs (5 Xander Roots, 3 Broc Flowers) to the Shaman.}
+{1908}{}{Bring einige Kräuter (5 Xander Wurzeln, 3 Broc Blumen) zum Schamanen.}
 {2000}{}{Repariere Hologramm 00000.}
 {2001}{}{Repariere den Sprachcomputer.}
 {2002}{}{Löse das Pflanzen Problem.}

@@ -496,7 +496,7 @@
 {2037}{}{an den Flügeln}
 {2038}{}{uncalled}
 {5000}{}{ und tut wirklich weh}
-{5001}{}{. Serious pain is inflicted.}
+{5001}{}{. Es werden schwere Schmerzen verursacht.}
 {5002}{}{ ohne Rüstungsschutz}
 {5003}{}{. Der zerstörerische Angriff macht ihn ohnmächtig}
 {5004}{}{. Der Schlag reißt ihn zu Boden}

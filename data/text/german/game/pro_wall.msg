@@ -1844,58 +1844,58 @@
 {183200}{}{Interne U-Boot-Wand}
 {183300}{}{Wand}
 {183400}{}{Wand}
-{183500}{}{Glowing Cave Wall}
-{183600}{}{Glowing Cave Wall}
-{183700}{}{Glowing Cave Wall}
-{183800}{}{Glowing Cave Wall}
-{183900}{}{Glowing Cave Wall}
-{184000}{}{Glowing Cave Wall}
-{184100}{}{Glowing Cave Wall}
-{184200}{}{Glowing Cave Wall}
-{184300}{}{Glowing Cave Wall}
-{184400}{}{Glowing Cave Wall}
-{184500}{}{Glowing Cave Wall}
-{184600}{}{Glowing Cave Wall}
-{184700}{}{Glowing Cave Wall}
-{184800}{}{Glowing Cave Wall}
-{184900}{}{Glowing Cave Wall}
-{185000}{}{Glowing Cave Wall}
-{185100}{}{Glowing Cave Wall}
-{185200}{}{Glowing Cave Wall}
-{185300}{}{Glowing Cave Wall}
-{185400}{}{Glowing Cave Wall}
-{185500}{}{Glowing Cave Wall}
-{185600}{}{Glowing Cave Wall}
-{185700}{}{Glowing Cave Wall}
-{185800}{}{Glowing Cave Wall}
-{185900}{}{Glowing Cave Wall}
-{186000}{}{Glowing Cave Wall}
-{186100}{}{Glowing Cave Wall}
-{186200}{}{Glowing Cave Wall}
-{186300}{}{Glowing Cave Wall}
-{186400}{}{Glowing Cave Wall}
-{186500}{}{Glowing Cave Wall}
-{186600}{}{Glowing Cave Wall}
-{186700}{}{Glowing Cave Wall}
-{186800}{}{Glowing Cave Wall}
-{186900}{}{Glowing Cave Wall}
-{187000}{}{Glowing Cave Wall}
-{187100}{}{Glowing Cave Wall}
-{187200}{}{Glowing Cave Wall}
-{187300}{}{Glowing Cave Wall}
-{187400}{}{Glowing Cave Wall}
-{187500}{}{Glowing Cave Wall}
-{187600}{}{Glowing Cave Wall}
-{187700}{}{Glowing Cave Wall}
-{187800}{}{Glowing Cave Wall}
-{187900}{}{Glowing Cave Wall}
-{188000}{}{Glowing Cave Wall}
-{188100}{}{Glowing Cave Wall}
-{188200}{}{Glowing Cave Wall}
-{188300}{}{Glowing Cave Wall}
-{188400}{}{Glowing Cave Wall}
-{188500}{}{Glowing Cave Wall}
-{188600}{}{Glowing Cave Wall}
+{183500}{}{Verstrahlte Höhlenwand}
+{183600}{}{Verstrahlte Höhlenwand}
+{183700}{}{Verstrahlte Höhlenwand}
+{183800}{}{Verstrahlte Höhlenwand}
+{183900}{}{Verstrahlte Höhlenwand}
+{184000}{}{Verstrahlte Höhlenwand}
+{184100}{}{Verstrahlte Höhlenwand}
+{184200}{}{Verstrahlte Höhlenwand}
+{184300}{}{Verstrahlte Höhlenwand}
+{184400}{}{Verstrahlte Höhlenwand}
+{184500}{}{Verstrahlte Höhlenwand}
+{184600}{}{Verstrahlte Höhlenwand}
+{184700}{}{Verstrahlte Höhlenwand}
+{184800}{}{Verstrahlte Höhlenwand}
+{184900}{}{Verstrahlte Höhlenwand}
+{185000}{}{Verstrahlte Höhlenwand}
+{185100}{}{Verstrahlte Höhlenwand}
+{185200}{}{Verstrahlte Höhlenwand}
+{185300}{}{Verstrahlte Höhlenwand}
+{185400}{}{Verstrahlte Höhlenwand}
+{185500}{}{Verstrahlte Höhlenwand}
+{185600}{}{Verstrahlte Höhlenwand}
+{185700}{}{Verstrahlte Höhlenwand}
+{185800}{}{Verstrahlte Höhlenwand}
+{185900}{}{Verstrahlte Höhlenwand}
+{186000}{}{Verstrahlte Höhlenwand}
+{186100}{}{Verstrahlte Höhlenwand}
+{186200}{}{Verstrahlte Höhlenwand}
+{186300}{}{Verstrahlte Höhlenwand}
+{186400}{}{Verstrahlte Höhlenwand}
+{186500}{}{Verstrahlte Höhlenwand}
+{186600}{}{Verstrahlte Höhlenwand}
+{186700}{}{Verstrahlte Höhlenwand}
+{186800}{}{Verstrahlte Höhlenwand}
+{186900}{}{Verstrahlte Höhlenwand}
+{187000}{}{Verstrahlte Höhlenwand}
+{187100}{}{Verstrahlte Höhlenwand}
+{187200}{}{Verstrahlte Höhlenwand}
+{187300}{}{Verstrahlte Höhlenwand}
+{187400}{}{Verstrahlte Höhlenwand}
+{187500}{}{Verstrahlte Höhlenwand}
+{187600}{}{Verstrahlte Höhlenwand}
+{187700}{}{Verstrahlte Höhlenwand}
+{187800}{}{Verstrahlte Höhlenwand}
+{187900}{}{Verstrahlte Höhlenwand}
+{188000}{}{Verstrahlte Höhlenwand}
+{188100}{}{Verstrahlte Höhlenwand}
+{188200}{}{Verstrahlte Höhlenwand}
+{188300}{}{Verstrahlte Höhlenwand}
+{188400}{}{Verstrahlte Höhlenwand}
+{188500}{}{Verstrahlte Höhlenwand}
+{188600}{}{Verstrahlte Höhlenwand}
 {188700}{}{Türöffnung}
 {188800}{}{Türöffnung}
 {188900}{}{Wand}

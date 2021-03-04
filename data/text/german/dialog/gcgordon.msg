@@ -31,7 +31,7 @@
 {170}{}{Nachdem du ja jetzt unser Atomkraftwerk repariert hast, stehn die Chancen gut, dass ich
  bekomm, was ich will - also mein Potential maximiere.}
 {171}{}{Dein Potential maximieren? Ich versteh kein Wort!}
-{172}{}{Is this greed talking again, Gordon?}
+{172}{}{Spricht die Gier wieder, Gordon?}
 {180}{}{Ich hab außerdem aus absolut zuverlässiger Quelle gehört, dass Vault City ohne
  zusätzlichen Strom nicht weiterwachsen kann.}
 {181}{}{Vault City kann nicht wachsen?}

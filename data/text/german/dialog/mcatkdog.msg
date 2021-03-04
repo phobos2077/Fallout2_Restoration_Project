@@ -5,8 +5,8 @@
 {200}{}{:: GRRRR ::}
 {201}{}{:: KNURR ::}
 {202}{}{:: WUFF ::}
-{205}{}{:: WAU ::}
-{206}{}{:: WAU WAU ::}
+{205}{}{Wau}
+{206}{}{WAU WAU}
 {210}{}{Die Hunde scheinen darauf abgerichtet zu sein, den Inhalt der Hütte zu schützen.}
 {211}{}{Hundchen mag mich nicht.}
 {212}{}{Guter Hund!}
