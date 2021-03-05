@@ -8,7 +8,7 @@
 {107}{}{I warned you! Attack, my pets!}
 
 # CREATION COMMENTS
-# DEATH CLAWS
+# DEATHCLAWS
 {1000}{}{SHAHOOEY!}
 {1001}{}{My claw pets take care you.}
 {1002}{}{Claw thing attack!}

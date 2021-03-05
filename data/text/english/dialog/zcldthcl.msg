@@ -1,8 +1,8 @@
 #############################################################
 #  Message File: ZClDthCl.msg                               #
 #                                                           #
-#       Body Type:  Lesser Death Claw                       #
-#       Combat AI: Death Claw AI                            #
+#       Body Type:  Lesser Deathclaw                        #
+#       Combat AI: Deathclaw AI                             #
 #       Weapons:                                            #
 #       HP: ?                                               #
 #       Skills to note: None                                #

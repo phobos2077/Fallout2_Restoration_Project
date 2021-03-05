@@ -408,7 +408,7 @@
 {1507}{}{the CPU}
 {1508}{}{uncalled}
 #
-# Death Claw
+# Deathclaw
 #
 {1510}{}{the head}
 {1511}{}{the left arm}
@@ -492,7 +492,7 @@
 {1597}{}{the brain}
 {1598}{}{uncalled}
 #
-# Lesser Death Claw
+# Lesser Deathclaw
 #
 {1600}{}{the head}
 {1601}{}{the left arm}

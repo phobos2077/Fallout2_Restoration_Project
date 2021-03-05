@@ -37,7 +37,7 @@
 {119}{}{}                               # ZClRat.int      ; Generic lesser rat
 {120}{}{Lesser Scorpion}                # ZClScorp.int    ; Generic lesser scorpion
 {121}{}{Lesser Mantis}                  # ZClManti.int    ; Generic lesser mantis
-{122}{}{Lesser Deathclaw}               # ZClDthCL.int    ; Generic lesser death claw
+{122}{}{Lesser Deathclaw}               # ZClDthCL.int    ; Generic lesser deathclaw
 {123}{}{Vase}                           # AIVase.int      ; Vase in Arroyo Villager's Hut
 {124}{}{Chest}                          # AIChest.int     ; Chest in Arroyo Shaman's Hut
 {125}{}{Arroyo Caves}                   # ArCaves.int     ; Map Script for Arroyo Caves
@@ -222,7 +222,7 @@
 {304}{}{Balthas Wife}                   # mcBalWif.int    ; Modoc Balthas wife
 {305}{}{Brahmin}                        # mcBrahmn.int    ; Modoc brahmin
 {306}{}{Wild Dog}                       # mcAtkDog.int    ; Modoc Attack Dog
-{307}{}{Rocks}                          # miDclRks.int    ; Modoc Rocks in front of the death claw cage
+{307}{}{Rocks}                          # miDclRks.int    ; Modoc Rocks in front of the deathclaw cage
 {308}{}{Rocks}                          # miShtRks.int    ; Modoc Rocks under the shitter
 {309}{}{Wall Safe}                      # miWalSfe.int    ; Modoc Farrel's wall safe
 {310}{}{Coin Bag}                       # miCoinBg.int    ; Modoc Coin bags at the bottom of the well
@@ -577,7 +577,7 @@
 {659}{}{V15 Secret entrance map}        # V15sent.int     ; Vault 15 secret entrance map
 {660}{}{Rebecca}                        # BCRebecc.int    ; Vault 15 Rebecca
 {661}{}{Door}                           # miDoor.int      ; Modoc Doors
-{662}{}{Death Claw}                     # mcDthClw.int    ; Modoc Rose's "Chicken"
+{662}{}{Deathclaw}                      # mcDthClw.int    ; Modoc Rose's "Chicken"
 {663}{}{Roberta}                        # bcRobert.int    ; Roberta Vault 15 Entrance
 {664}{}{Sara}                           # bcSara.int      ; Sara vault 15 Entrance
 {665}{}{Zeke}                           # bcZeke.int      ; Zeke vault 15 Entrance mayor dude
@@ -1328,7 +1328,7 @@
 {1410}{}{Bill}                      # abbill.int      ; Abbey Bill
 {1411}{}{}                          # abbook.int      ; Abbey library book
 {1412}{}{Child}                     # abchild.int     ; Abbey child
-{1413}{}{Death Claw}                # abdeathc.int    ; Dave's Door
+{1413}{}{Deathclaw}                 # abdeathc.int    ; Dave's Door
 {1414}{}{Sister Elaine}             # abelaine.int    ; Dave's Door
 {1415}{}{Grave}                     # abgrave1.int    ; Dave's Door
 {1416}{}{Grave}                     # abgrave2.int    ; Dave's Door
