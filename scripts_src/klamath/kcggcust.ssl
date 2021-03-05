@@ -189,7 +189,7 @@ procedure thanks begin
 end
 
 procedure saysomething begin
-   if (TOWN_REPUTATION < 0 and not(dude_perk(PERK_cult_of_personality))) then begin // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if town_rep_is_antipaty then begin
       call Node001;
    end
    else begin

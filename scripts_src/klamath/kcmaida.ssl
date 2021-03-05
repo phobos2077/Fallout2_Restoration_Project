@@ -535,7 +535,7 @@ procedure Node004 begin
       else Reply(233);
    end
    else begin
-      if (TOWN_REPUTATION < 5 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+      if town_rep_worse_than(5) then
          Reply(230);
       else
          Reply(231);

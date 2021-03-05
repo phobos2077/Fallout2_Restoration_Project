@@ -248,8 +248,7 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-// else if (global_var(TOWN_REPUTATION) <= -3) then begin //killap's fix
-   else if (TOWN_REPUTATION <= -3 and not(dude_perk(PERK_cult_of_personality))) then begin //killap's fix
+   else if town_rep_worse_than(-2) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node004;
@@ -257,8 +256,7 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-//   else if (global_var(TOWN_REPUTATION) >= -2) then begin
-   else if (TOWN_REPUTATION >= -2 or (dude_perk(PERK_cult_of_personality))) then begin //killap's fix
+   else begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
        if (local_var(LVAR_Herebefore) == 0) then begin
@@ -272,7 +270,6 @@ procedure talk_p_proc begin
        end_dialogue;
    end
 
-   //else if (map_var(MVAR_Still_Accept) == 1) then begin
 end
 
 /* This procedure gets called only on the death of this NPC. Special things like

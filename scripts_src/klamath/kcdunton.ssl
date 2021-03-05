@@ -199,26 +199,7 @@ procedure Node036;
 #define LVAR_Weapon_Check               (11) //added by killap
 
 // duntons like bad boys
-#define duntons_like    ((TOWN_REPUTATION < 5) or dude_perk(PERK_cult_of_personality))
-
-//following should be changed to mapvars
-//even herebefore,hostile and personal_enemy might be changed to mapvar
-//#define LVAR_11_before                  (7)
-//#define LVAR_21_before                  (8)
-//#define LVAR_23_before                  (9)
-
-//these should be map vars as both duntons need to read them
-//#define LVAR_Duntons_Angry              (7)
-//#define LVAR_Rustle_Fail                (8)
-//#define LVAR_Rustle_Fail_Violent        (9)
-//#define LVAR_Rustle_Refuse              (10)
-//#define LVAR_Rustle_Accept              (11)
-//#define LVAR_Rustle_success             (12)
-
-/* Imported variables from the Map scripts. These should only be
-   pointers and variables that need not be saved. If a variable
-   Needs to be saved, make it a map variable (MVAR_) */
-
+#define duntons_like_dude    ((TOWN_REPUTATION < 5) or dude_has_cult)
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
@@ -1170,7 +1151,7 @@ procedure Node003 begin
    if (from_18) then
       Reply(132);
    else begin
-      if duntons_like then
+      if duntons_like_dude then
          Reply(130);
       else
          Reply(131);
@@ -1218,7 +1199,7 @@ procedure Node006 begin
    else if (global_var(GVAR_RUSTLE_OVER) == 1) then
       call Node06b;
    else begin
-      if not(duntons_like) then
+      if not duntons_like_dude then
          call Node06c;
       else
          call Node06d;
@@ -1227,7 +1208,7 @@ end
 
 procedure Node06a begin
    Reply(160);
-   if ((not duntons_like) and (area == PASTURE)) then
+   if ((not duntons_like_dude) and (area == PASTURE)) then
       NOption(531,Node999,004);
    if (area != PASTURE) then
       NOption(166,Node003,004);
@@ -1386,7 +1367,7 @@ procedure Node015 begin
       Reply(260);
    else begin
       if (dude_strength < 5) then begin
-         if not duntons_like then
+         if not duntons_like_dude then
             Reply(261);
          else begin
             if (who_am_i == 1) then
@@ -1397,13 +1378,13 @@ procedure Node015 begin
       end
       else begin
          if (who_am_i == 1) then begin
-            if not duntons_like then
+            if not duntons_like_dude then
                Reply(264);
             else
                Reply(266);
          end
          else begin
-            if not duntons_like then
+            if not duntons_like_dude then
                Reply(265);
             else
                Reply(267);
@@ -1516,7 +1497,7 @@ procedure Node023 begin
 end
 
 procedure Node024 begin
-   if duntons_like then begin
+   if duntons_like_dude then begin
       if (global_var(GVAR_RUSTLE_REFUSE) == 1) then
          Reply(370);
       else

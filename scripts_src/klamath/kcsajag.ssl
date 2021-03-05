@@ -44,10 +44,7 @@
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse
 
-#define rep_check_pass ( \
-   (TOWN_REPUTATION > 5) or \
-   (TOWN_REPUTATION < -5 and dude_has_cult) \
-)
+#define rep_check_pass town_rep_better_than(5)
 
 /* Standard Script Procedures */
 procedure start;

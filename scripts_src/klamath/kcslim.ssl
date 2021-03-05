@@ -136,6 +136,9 @@ variable from_25:=0;
 variable hadkey:=0;
 variable mykey;
 
+#define MIN_TOWN_REP_KEY 5
+#define MIN_TOWN_REP_SKILL 7
+
 procedure start begin
 end
 
@@ -311,13 +314,10 @@ procedure slimbarter begin
       call Node014;
    end
 
-//   Reply(message_str(SCRIPT_GENERIC,200));
-//   NOption(message_str(SCRIPT_GENERIC,201),Node999,004);
-
 end
 
 procedure Node920 begin
-   if (TOWN_REPUTATION > 4 or (dude_perk(PERK_cult_of_personality))) then // edit by killap - added (dude_perk(PERK_cult_of_personality))
+   if town_rep_better_or_equal(MIN_TOWN_REP_KEY) then
       call Node011;
    else begin
       if (is_success(roll_vs_skill(self_obj,SKILL_SPEECH,0))) then
@@ -368,7 +368,7 @@ end
 procedure Node990 begin
    set_local_var(LVAR_26_before, 1); //moved from 026
 
-   if (TOWN_REPUTATION < 7 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if town_rep_worse_than(MIN_TOWN_REP_SKILL) then
       dude_caps_adjust(-100); // Seraph's Fix: changed from '50' to '-100'
    else
       dude_caps_adjust(-50);  // Seraph's Fix: changed from '50' to '-50'
@@ -441,7 +441,7 @@ procedure Node003 begin
 end
 
 procedure Node004 begin
-   if (TOWN_REPUTATION < 5 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if town_rep_worse_than(MIN_TOWN_REP_KEY) then
       Reply(140);
    else
       Reply(141);
@@ -476,7 +476,7 @@ procedure Node06a begin
 end
 
 procedure Node007 begin
-   if (TOWN_REPUTATION < 5 and not(dude_perk(PERK_cult_of_personality))) then // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if town_rep_worse_than(MIN_TOWN_REP_KEY) then
       Reply(170);
    else
       Reply(171);
@@ -677,8 +677,7 @@ procedure Node025 begin
 end
 
 procedure Node026 begin
-   //set_local_var(LVAR_26_before, 1); moved to 990
-   if (TOWN_REPUTATION < 7 and not(dude_perk(PERK_cult_of_personality))) then begin // edit by killap - added not(dude_perk(PERK_cult_of_personality))
+   if town_rep_worse_than(MIN_TOWN_REP_SKILL) then begin
       Reply(360);
       if (dude_caps >= 100) then
          NOption(362,Node990,004); //fade out, add to players skill
