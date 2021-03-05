@@ -176,7 +176,7 @@ procedure talk_p_proc begin
    CheckKarma;
    GetReaction;
    ReactToLevel;
-   if ((hostile) or ( (has_rep_childkiller) and (not(dude_perk(PERK_cult_of_personality))) ) ) then begin //edit by killap - added (not(dude_perk(PERK_cult_of_personality)))
+   if ((hostile) or (has_rep_childkiller)) then begin
       call Node015;
    end else if (player_has_destroyed_still) then begin
       if (node_27) then begin
