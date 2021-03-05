@@ -335,7 +335,7 @@
 {608}{}{This town's great... except for the tourists.}
 {609}{}{This town's great... except for the slavers.}
 {610}{}{This town's great... except for the pimps and whores.}
-{611}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {612}{}{Golgotha's south of Reno, in the desert.}
 {613}{}{I may be poor, but not in spirit.}
 {614}{}{I'm not poor, I just have rotten luck.}
@@ -377,7 +377,7 @@
 {659}{}{This town's great... except for the tourists.}
 {660}{}{This town's great... except for the slavers.}
 {661}{}{This town's great... except for the pimps and whores.}
-{662}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {663}{}{Golgotha's south of Reno, in the desert.}
 {664}{}{I may be poor, but not in spirit.}
 {665}{}{I'm not poor, I just have rotten luck.}
@@ -418,7 +418,7 @@
 {700}{}{Gonna get some action to-night!}
 {701}{}{Find a whore, get some play.}
 {702}{}{Mrs. Bishop shore got a sweet ass.}
-{703}{}{There's chem-testing bein' done on slaves north of New Reno, I hear.}
+{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
 {704}{}{Golgotha's south of Reno, in the desert.}
 {705}{}{I may be poor, but not in spirit.}
 {706}{}{I'm not poor, I just have rotten luck.}

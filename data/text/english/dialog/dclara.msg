@@ -75,7 +75,7 @@
 {322}{}{Oh.}
 
 # 13. Makes Sense, Bye (From 12)
-{340}{}{New Reno is the chem capital around here. They have to get the raw materials to make their chems from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
+{340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Where's New Reno?}
 {342}{}{Okay, thanks.}
 

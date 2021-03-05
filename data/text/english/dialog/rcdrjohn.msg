@@ -168,7 +168,7 @@
 {233}{}{Yeah, no doubt. Goodbye, Doc.}
 {234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
  Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the chem with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+ the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
 {235}{}{What a nice guy you are, Doc. That's great. Let me ask you about something else, then.}
 {236}{}{How *noble* of you, Doctor.}
 {237}{}{That's interesting. I'll see you later, Doc. Goodbye.}

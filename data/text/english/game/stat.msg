@@ -98,7 +98,7 @@
 {229}{}{Damage Resistance EMP}
 {230}{}{Damage Resistance Explosion}
 # Radiation Resistance
-{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation chems.}
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
 # Poison Resistance
 {232}{}{Reduces poison damage by this amount.}
 {233}{}{Age}

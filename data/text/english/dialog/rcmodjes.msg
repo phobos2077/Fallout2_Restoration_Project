@@ -41,7 +41,7 @@
  I find that Jet no longer agrees with me.}
 {135}{}{What can the Madame do for you?}
 {136}{}{What do you do here Madame Modjeska?}
-{137}{}{Looks as though a lot of people here are chem-users. What's going on in town lately?}
+{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
 {138}{}{Hear any interesting rumors?}
 {139}{}{Why do they call you Madame Modjeska?}
 {140}{}{What's the matter with you?}

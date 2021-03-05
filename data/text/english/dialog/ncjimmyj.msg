@@ -193,7 +193,7 @@
 {502}{}{Interesting. I had some other questions...}
 
 # 23. WHERE DO YOU GET YOUR JET, JIMMY? VOL. 2 (8, 22)
-{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of chem n' compounds,
+{510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{Myron?}
 {512}{}{Interesting. Say, I had some other questions...}

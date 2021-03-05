@@ -575,7 +575,7 @@
 {781}{}{Other pursuits?}
 
 # 160. NCR (136)
-{790}{}{He also probably wants a say in who controls the chem trade in the new California
+{790}{}{He also probably wants a say in who controls the drug trade in the new California
  Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{So he's actually planning to have Reno JOIN the Republic... hmmmm. Okay, then,
  let's talk about something else...}

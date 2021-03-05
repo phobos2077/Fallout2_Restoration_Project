@@ -98,7 +98,7 @@
 {305}{}{You are doin' the right thing, brushing up with the Mordinos. We're going places.}
 {306}{}{You need some Jet? I can set you up, chica.}
 {307}{}{Chica, there ain't nothing I wouldn't do for you... c'mon, now. Give me a leetle kiss.}
-{308}{}{Need some chems? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
+{308}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
 
 # 20. FLOAT/CLICK [ARMED, SLAVER]
 {315}{}{Don't be showing iron around here, friend. Put that away.}

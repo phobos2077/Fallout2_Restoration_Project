@@ -107,7 +107,7 @@
 {206}{}{Sure. I'll take it.}
 {207}{}{And I'll bet you've got a bridge to sell, too.}
 {208}{}{Maybe later.}
-{209}{}{Is it some kind of chem out of New Reno? I've never heard of it.}
+{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
 {210}{}{Nope. I've got some more questions, though.}
 {211}{}{That's all I needed to know.}
 {212}{}{Those bastards? Best stay out of my place or I'll put a hole in them.}

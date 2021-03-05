@@ -181,7 +181,7 @@
 {457}{}{Heart trouble, huh? Does he have a doctor? Does he take any medication for it?}
 
 # 27. TAKE ANY MEDICATION . . . (26)
-{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any chems for his heart, but I know he'd have
+{465}{}{(Smiles.) I like the way you think, tribal... well, I don't know if he takes any drugs for his heart, but I know he'd have
  to be pretty damn careful about which ones he DID take with that heart o' his.}
 
 # 28. WHAT DOES HE DO? . . . (22)

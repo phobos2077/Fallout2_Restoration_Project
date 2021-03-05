@@ -74,7 +74,7 @@
 {173}{}{How do you manufacture these synthesized alcohols?}
 {174}{}{Actually, I was looking for some information.}
 {175}{}{Nothing more today, thanks.}
-{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for chem addicts before the war.}
+{176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise-addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
 {177}{}{You seem to know a great deal about these synthetics.}
 {178}{}{Uh, do you have any real drinks?}
 {179}{}{Oh. Well, I'd just like some water then.}

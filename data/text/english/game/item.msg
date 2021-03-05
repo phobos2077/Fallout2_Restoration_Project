@@ -4,7 +4,7 @@
 {1}{}{You gained %d %s.}
 {2}{}{You lost %d %s.}
 {3}{}{You feel better.}
-{4}{}{You suffer a fatal heart attack from chem overdose.}
+{4}{}{You suffer a fatal heart attack from drug overdose.}
 {5}{}{%s has no charges left.}
 {6}{}{%s is on.}
 {7}{}{%s is off.}
@@ -22,7 +22,7 @@
 #
 {500}{}{There is not enough light to recharge this item.}
 #
-{600}{}{%s succumbs to the adverse effects of chems.}
+{600}{}{%s succumbs to the adverse effects of drugs.}
 
 # Weapon Damage strings
 {800}{}{Light}

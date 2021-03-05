@@ -169,10 +169,10 @@
 
 # 25
 {257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new chem! Nothing can beat Jet!}
+ with another new drug! Nothing can beat Jet!}
 {258}{}{No, you moron.}
 {259}{}{No, it's a place. Can I ask something else?}
-{260}{}{Yes, a wonderful chem.}
+{260}{}{Yes, a wonderful drug.}
 {261}{}{No, bye.}
 
 # ??Don't know what this is for.
