@@ -33,7 +33,7 @@
 # CLICK
 # (COMPANION = MYRON)
 {200}{}{Tests are proceeding as scheduled, Myron.}
-{201}{}{This new strain of Jet is extremely habit-forming, sir. The slaves are almost
+{201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
  willing to kill each other for it.}
 {202}{}{The slaves would rather take Jet than eat, it's so potent.}
 {203}{}{Who are these people with you, Myron? New subjects?}
@@ -47,7 +47,7 @@
 {209}{}{Myron, sir, we moved three slaves from the control group into the test group because
  of those respiratory failures we had last week.}
 {210}{}{Myron, sir... we had to shoot one slave for trying to escape. What a waste.}
-{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as habit-forming as Jet...}
+{211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
 # NORMAL
 {212}{}{If you have any suggestions, please write it on a piece of paper and then put it right
  in the trash bin over there.}

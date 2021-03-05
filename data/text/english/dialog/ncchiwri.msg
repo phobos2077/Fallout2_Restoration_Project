@@ -150,7 +150,7 @@
 {420}{}{Cause he was a clean kid... Mom taught him THAT much. And if you feel like saying any different, maybe you and I
  should settle it right here.}
 {421}{}{I didn't mean it like that. Sorry I brought it up.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {423}{}{Look, KID, if you know what's good for you, you'll stop throwing down every time a little truth comes along
  and bites you in the ass.}
 {424}{}{Who do you figure might have done it?}
@@ -158,7 +158,7 @@
 
 # 22. I'M SORRY. I DIDN'T MEAN IT LIKE THAT (21)
 {435}{}{Yeah, well, just watch it. Them's fighting words to any Wright, so don't go shooting off your mouth like that, awright?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely habit-forming.}
+{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
 {437}{}{Look, KID, don't start with me. If you know what's good for you, you'll stop trying to throw down every time
  a little truth comes along and bites you in the ass.}
 {438}{}{Sorry, no offense intended. Say, I had some other questions...}

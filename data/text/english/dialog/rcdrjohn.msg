@@ -129,7 +129,7 @@
 {206}{}{McClure in Vault City told me.}
 {207}{}{I just heard a rumor, that's all.}
 {208}{}{It's not really important. Let me ask you about something else.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real habit-forming, like nothing you've ever seen before.
+{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
  They figure that if they get enough people in an area using it, those people will do anything to get
  more. That gives them de facto control of an area - like Redding.}
 {210}{}{I see. Let me ask you about something else, Doc.}
